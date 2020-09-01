@@ -1571,6 +1571,7 @@ Scala
 * [Scala Type Classes comparison](https://medium.com/se-notes-by-alexey-novakov/scala-type-classes-comparison-28b76ce1f37a)
 * [Boilerplate-free type class definition](https://medium.com/@maksim.ochenashko/boilerplate-free-type-class-definition-d66e038a8ee8)
 * [DOT: Scala Types from Theory to Practice—Nada Amin](https://www.youtube.com/watch?v=fjj_fv346lY)
+* [Paolo Giarrusso—The DOT Calculus: An Introduction for Scala Programmers - YouTube](https://www.youtube.com/watch?v=OVu7XzHY5U0)
 * [Edmund Noble—Data, and when not to use it](https://www.youtube.com/watch?v=q6JCvdMWtmo)
 * [From @Transactional to type-safe, reasonable transactions](https://blog.softwaremill.com/from-transactional-to-type-safe-reasonable-transactions-a5019906245e)
 * [Illustrated guide to Types, Sets and Values](https://medium.com/@1jpablo1/illustrated-guide-to-types-sets-and-values-8093d0b7d648)
