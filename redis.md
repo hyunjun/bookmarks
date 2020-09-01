@@ -96,6 +96,7 @@ Redis
   * [Building Chat Service in Golang and Websockets Backed by Redis | by Mohammed Hewedy | Level Up Coding](https://levelup.gitconnected.com/building-chat-service-in-golang-and-websockets-backed-by-redis-b42a8784636c)
   * [Redis cluster configuration by example | Medium](https://medium.com/@mhewedy_46874/redis-cluster-configurations-by-example-5480a178e884)
   * [Redis Geospatial by example. This is the eighth post of The Redis… | by Mohammed Hewedy | Medium](https://medium.com/@mhewedy_46874/redis-geospatial-by-example-f5505a0962ef)
+* [캐시 성능 향상기 (Improving Cache Speed at Scale) : TOAST Meetup](https://meetup.toast.com/posts/251)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
