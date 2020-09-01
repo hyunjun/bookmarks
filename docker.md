@@ -165,6 +165,7 @@ Docker
   * javascript
     * [node.js 도커(docker) 기반으로 배포하기](https://blog.naver.com/pjt3591oo/222010156379)
     * [Docker Best Practices for Node Developers](https://morioh.com/p/7dea17309e0e)
+    * [Docker best practices with Node.js - DEV](https://dev.to/nodepractices/docker-best-practices-with-node-js-4ln4)
   * jenkins
     * [Combining Jenkins and Docker for Continuously Running Instances](http://www.focusedsupport.com/blog/beyond-builds-combining-jenkins-and-docker-for-continuously-running-instances/)
   * [**jupyter-repo2docker**](https://repo2docker.readthedocs.io)
@@ -818,6 +819,7 @@ Docker
 * [Kubernetes Learning Path | Microsoft Azure](https://azure.microsoft.com/ko-kr/resources/kubernetes-learning-path/)
 * [Architecting Kubernetes clusters — choosing a cluster size | by Daniel Weibel | ITNEXT](https://itnext.io/architecting-kubernetes-clusters-choosing-a-cluster-size-92f6feaa2908)
 * [Managing Kubernetes resources: 5 things to remember | The Enterprisers Project](https://enterprisersproject.com/article/2020/8/managing-kubernetes-resources-5-things-remember)
+* [Logging in Kubernetes: EFK vs PLG Stack - InfraCloud Technologies](https://www.infracloud.io/blogs/logging-in-kubernetes-efk-vs-plg-stack/)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
