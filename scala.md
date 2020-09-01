@@ -529,6 +529,7 @@ Scala
 * [The Point of Pattern Matching in Scala](https://www.artima.com/scalazine/articles/pattern_matching.html)
 * [Pattern Match Anything in Scala. What is Pattern Matching? | by Mansi Babbar | The Startup | Jun, 2020 | Medium](https://medium.com/swlh/pattern-match-anything-in-scala-3a22f5d3535)
 * [The Difference Between Null, Nothing, Nil, None and Unit in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=0_-jRrdg9Dw&feature=youtu.be)
+* [Andy Scott—Code by Shape - YouTube](https://www.youtube.com/watch?v=ifPTQ9CULdk) Either, Option, List, fold(Right)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -1388,6 +1389,7 @@ Scala
 * [scala개발시 sbt build때 GZIPInputStream: java.util.zip.ZipException: Not in GZIP format 에러나는 경우 해결책](https://blog.voidmainvoid.net/196)
 * [sbt scala version mismatch - sbt에서 사용하는 scala version이 command line의 scala와 맞지 않을 때](https://medium.com/@strncpy/sbt-scala-version-mismatch-4f8260b4e707)
 * [cached compilation for sbt](http://eed3si9n.com/cached-compilation-for-sbt)
+* [Mirco Dotta—Crack Open Sbt and Master your Build Times - YouTube](https://www.youtube.com/watch?v=Mx_gQz8MTrI)
 * sbt-ci-release [auto publish sbt plugin from Travis CI | eed3si9n](http://eed3si9n.com/auto-publish-sbt-plugin)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
 * [sbt-jmh - "Trust no one, bench everything." - sbt plugin for JMH (Java Microbenchmark Harness)](https://github.com/ktoso/sbt-jmh)
@@ -1450,6 +1452,7 @@ Scala
 * [Fury - an experimental dependency manager and build tool for Scala](https://github.com/propensive/fury)
   * [Fury - an experimental dependency manager and build tool for Scala](https://fury.build/)
   * [Jon Pretty - The Future of Scala](https://www.youtube.com/watch?v=KEhGfpRpSOg)
+  * [Jon Pretty — Fast and Furious - YouTube](https://www.youtube.com/watch?v=4HVySqElcnI)
 
 # [Scala.js](https://www.scala-js.org/)
 * [Conway's Game of Life in ScalaJS](http://ivanyu.github.io/life-scalajs/)
