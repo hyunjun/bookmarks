@@ -1453,6 +1453,7 @@ Scala
   * [Fury - an experimental dependency manager and build tool for Scala](https://fury.build/)
   * [Jon Pretty - The Future of Scala](https://www.youtube.com/watch?v=KEhGfpRpSOg)
   * [Jon Pretty — Fast and Furious - YouTube](https://www.youtube.com/watch?v=4HVySqElcnI)
+  * [Justin Kaeser—Integrating Developer Experiences - YouTube](https://www.youtube.com/watch?v=lncUc4oHwxg)
 
 # [Scala.js](https://www.scala-js.org/)
 * [Conway's Game of Life in ScalaJS](http://ivanyu.github.io/life-scalajs/)
