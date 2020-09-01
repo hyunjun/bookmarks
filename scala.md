@@ -777,6 +777,7 @@ Scala
   * [Homegrown #Scala Collections - Part 41 - Stream.End & What's Next?](https://www.youtube.com/watch?v=6_t1e_IGgeY)
   * ["Scala Streams to the Extreme" at #scaladays 2019](https://heikoseeberger.rocks/2019/06/14/2019-06-14-scala-days-xtream/)
   * [Streaming all the way with ZIO, Doobie, Quill, http4s and fs2 - Juliano Alves](https://juliano-alves.com/2020/06/15/streaming-all-the-way-zio-doobie-quill-http4s-fs2/)
+  * [Jakub Kozłowski—A Sky Full of Streams - YouTube](https://www.youtube.com/watch?v=oluPEFlXumw)
 * String
   * [Reduce, fold or scan (Left/Right)?](http://stackoverflow.com/questions/17408880/reduce-fold-or-scan-left-right)
   * [**Compression; String <-> Array\[Byte\]**](https://gist.github.com/owainlewis/1e7d1e68a6818ee4d50e)
