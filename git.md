@@ -182,6 +182,7 @@ Git
 * [GitHub Actions, 어디까지 써봤니?](https://dico.me/topic/articles/279)
 * [의존성 캐시로 Github Actions 속도 높이기](https://www.notion.so/Github-Actions-7ca7c1ddf2f74d24ab9173d1b5c97366)
 * [Doing Stupid Stuff with GitHub Actions | DevOps Directive](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
+* [Automate releases and more with the new Sentry Release GitHub Action - The GitHub Blog](https://github.blog/2020-08-24-automate-releases-and-more-with-the-new-sentry-release-github-action/)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
