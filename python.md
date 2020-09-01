@@ -711,6 +711,8 @@ Python
   * [**Python GC가 작동하는 원리**](https://winterj.me/python-gc/)
   * [자동 Garbage Collection 주기](https://weicomes.tistory.com/277)
   * [Garbage collection in Python: things you need to know](https://rushter.com/blog/python-garbage-collector/)
+  * [heapsy: Python Heap Tracer](https://github.com/Ashon/heapsy)
+    * [Prometheus와 Python GC 모듈을 이용해 동작중인 애플리케이션의 힙 사용량 측정해 본 이야기 | Lifestack](https://ashon.github.io/blog/2020/08/24/python-heap-exporter.html)
 * generator
   * [Extending Python’s generators to support mainloops](http://chromano.me/2015/10/02/python-mainloop-generators.html)
   * [파이썬 - 제너레이터 (Generator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-generator/)
