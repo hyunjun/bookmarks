@@ -1384,6 +1384,8 @@ Javascript
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
 * [rollup.js - the next-generation JavaScript module bundler](http://rollupjs.org/)
   * [Rollup.js+ Typescript + Storybook으로 구축하는 디자인 시스템](https://ideveloper2.dev/blog/2020-05-17--rollup-ts-%EB%A1%9C-%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
+* [rome: The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.](https://github.com/romefrontend/rome)
+  * [번역 모든 길은 Rome으로 통할까?. Front-end 툴 체인 Rome 훑어보기 | by Jung Han | podo_official | Aug, 2020 | Medium](https://medium.com/official-podo/%EB%AA%A8%EB%93%A0%EA%B8%B8%EC%9D%80-rome%EC%9C%BC%EB%A1%9C-%ED%86%B5%ED%95%A0%EA%B9%8C-1a858dddedd6)
 * [Rough.js - a small (\<9kB gzipped) graphics library that lets you draw in a sketchy, hand-drawn-like, style](https://roughjs.com/)
 * [Rune.js - a JavaScript library for programming graphic design systems with SVG in the browser or node.js](http://runemadsen.github.io/rune.js/)
 * [runtime.js — JavaScript library OS](https://medium.com/@iefserge/runtime-js-javascript-library-os-823ada1cc3c)
@@ -2575,6 +2577,7 @@ Javascript
 * [Flipper — A React Native revolution - ITNEXT](https://itnext.io/flipper-a-react-native-revolution-4859d6acd685)
 * [안드로이드에 React Native 임베딩 후기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/07/08/android-react-native-embed.html)
 * [From React to React Native. Getting started with mobile development | by Steffy Lo | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/from-react-to-react-native-5d884a1632d7)
+* [비주얼 타이머 앱 개발하며 배운 것들 | 매일 성장하기 - 김용균](https://edykim.com/ko/post/what-i-have-learned-from-visual-timer/)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
