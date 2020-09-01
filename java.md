@@ -910,6 +910,7 @@ Java
   * [R2DBC 01 소개](https://javacan.tistory.com/entry/R2DBC-1-intro)
   * [R2DBC 02 커넥션 풀](https://javacan.tistory.com/entry/R2DBC-02-conn-pool)
   * [R2DBC 03 스프링 데이터 R2DBC DatabaseClient](https://javacan.tistory.com/entry/R2DBC-03-Spring-Data-R2DBC-DatabaseClient)
+  * [Reactive Systems: Creating Full Reactive Applications with R2DBC - YouTube](https://www.youtube.com/watch?v=3tXeS-mtv_s) MariaDB
 * [Real world mutation testing](http://pitest.org/)
   * [사용하면서 알게 된 Reactor 예제 코드로 살펴보기](http://tech.kakao.com/2018/05/29/reactor-programming/)
   * 리액티브 프로그래밍
