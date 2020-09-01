@@ -774,6 +774,7 @@ AWS
   * [AWS CDK로 서버없이 서비스 운영해보기 (1) - REST API - 완두블로그](https://wani.kr/posts/2020/01/23/aws-cdk-1/)
   * [AWS CDK로 서버없이 서비스 운영해보기 (2) - Express - 완두블로그](https://wani.kr/posts/2020/02/09/aws-cdk-2/)
   * [AWS CDK로 서버없이 서비스 운영해보기 (3) - Nuxt - 완두블로그](https://wani.kr/posts/2020/02/19/aws-cdk-3-nuxt/)
+  * [CDK로 EKS 클러스터 풀스택 관리하기 :: CDK로 멀티 리전 EKS 클러스터 풀스택 배포](https://cdk-eks-devops.workshop.aws/ko)
 * [CloudFormation with Python](https://github.com/skyer9/CloudFormationForPython)
   * [**AWS를 만드는 AWS, CloudFormation**](https://www.huskyhoochu.com/introduce-cloudformation)
   * [How to automate Anaconda installs on AWS EC2 with CloudFormation](https://medium.freecodecamp.org/how-to-automate-installation-of-anaconda-on-aws-ec2-instances-e9db8aa0570d)
