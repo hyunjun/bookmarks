@@ -329,6 +329,7 @@ NLP
 * [Semantic Segmentation PyTorch Tutorial & ECCV 2020 VIPriors Challenge 참가 후기 정리](https://hoya012.github.io/blog/segmentation_tutorial_pytorch/)
   * [semantic-segmentation-tutorial-pytorch: A simple PyTorch codebase for semantic segmentation using Cityscapes.](https://github.com/hoya012/semantic-segmentation-tutorial-pytorch)
 * [awesome-semantic-segmentation: awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
+* [머신러닝을 활용한 오픈챗 클린 스코어 모델 개발기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-openchat-cleanscore/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
