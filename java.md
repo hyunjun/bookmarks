@@ -566,6 +566,8 @@ Java
 * [AZUL ZULU JDK 문제점(심각한 버그)](https://gampol.tistory.com/entry/Azul-Zulu-JDK-문제점심각한-버그)
 * [jdk.java.net](https://jdk.java.net) OpenJDK 설치 binary
 * [Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
+* [TornadoVM: 🌪️ TornadoVM: A practical and efficient heterogeneous programming framework for managed languages](https://github.com/beehive-lab/TornadoVM)
+  * [TornadoVM: Java for GPUs and FPGAs - YouTube](https://www.youtube.com/watch?v=Q-_eB86hPPA)
 * [Zulu - Download Zulu:® tested, certified builds of OpenJDK](https://www.azul.com/downloads/zulu/)
 
 ## JDK Oracle
