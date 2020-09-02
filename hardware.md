@@ -23,6 +23,8 @@
 * [DIY GPU 서버 : 딥 러닝용 PC 직접 만들기](http://www.itworld.co.kr/news/107821)
 * [MappyDot - Micro Smart LiDAR Sensor](https://hackaday.io/project/25571-mappydot)
 * [Meltdown and Spectre, explained](https://medium.com/@mattklein123/meltdown-spectre-explained-6bc8634cc0c2)
+* [성능과 바꾼 보안 Part. 1: Meltdown](https://hashmm.com/post/perf-and-security-meltdown-part1/)
+* [성능과 바꾼 보안 Part. 2: Spectre](https://hashmm.com/post/perf-and-security-meltdown-part2/)
 * [My Bathroom Mirror Is Smarter Than Yours](https://medium.com/@maxbraun/my-bathroom-mirror-is-smarter-than-yours-94b21c6671ba)
 * [Building A Custom Home Automation System](https://www.youtube.com/watch?v=M0izp2GJSe0)
 * [Building a REST API in Python | Home Automation #02](https://www.youtube.com/watch?v=4T5Gnrmzjak)
