@@ -187,6 +187,7 @@ Git
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
 * [git-scm.com/book/ko/v1](https://git-scm.com/book/ko/v2/)
+* [Git TextBook | 깃 개념 잡기](https://git.jiny.dev/text/concept/)
 
 # Command
 * [**Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)**](https://github.com/mingrammer/git-tips)
