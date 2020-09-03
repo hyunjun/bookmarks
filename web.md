@@ -350,6 +350,7 @@ Web
 * [corona-tracker](https://github.com/iidx/corona-tracker) crawl + telegram bot
 * [Crawler](https://github.com/rudvlf0413/crawler)
 * [cyworld-bot - Cyworld image crawler](https://github.com/leegeunhyeok/cyworld-bot)
+* [django_ebay_scrapy: eBay Scrapy can help eBay sellers to understand the marketplace with Keyword Analysis.](https://github.com/pss2138/django_ebay_scrapy)
 * [ebay_scrapy](https://github.com/pss2138/ebay_scrapy)
 * [eventlet#web-crawler](http://eventlet.net/doc/examples.html#web-crawler)
 * [Google Image Downloader - A simple script that fetches images from Google with browser simulation](https://github.com/bemoregt/google-image-downloader)
