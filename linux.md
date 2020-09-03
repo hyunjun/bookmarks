@@ -116,6 +116,7 @@ Linux
 * [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
 * [kkamagui의 작업실 :: 랜덤한 패스워드 생성하기](https://kkamagui.tistory.com/926) `head /dev/urandom | tr -dc A-Za-z0-9 | head -c 32 ; echo ''`
 * [LIBGUESTFS Tutorial | Give yourself power to manage any Operating System/Virtual Machine (VM) image - YouTube](https://www.youtube.com/watch?v=tWPC-YER1I0)
+* [Use libguestfs to manage virtual machine disk images | Enable Sysadmin](https://www.redhat.com/sysadmin/libguestfs-manage-vm)
 * [Sandboxing and Workload Isolation · Fly](https://fly.io/blog/sandboxing-and-workload-isolation/)
 * [3차원 지구본을 콘솔에 그리기](https://jhrogue.blogspot.com/2020/08/5-3.html) pv, grep (GREP_COLORS)
 
