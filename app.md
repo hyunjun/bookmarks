@@ -91,6 +91,7 @@ App
     * [github.com/spritecodej/crawling_examples/tree/master/pdf_parsing](https://github.com/spritecodej/crawling_examples/tree/master/pdf_parsing)
     * [gist.github.com/youngrok/1c11e1afd49ec84e602497a14afae4ba](https://gist.github.com/youngrok/1c11e1afd49ec84e602497a14afae4ba)
   * [Book, again by code](https://lqez.github.io/blog/book-again-by-code.html) pycon program (종이) book 제작기
+  * [오프라인으로 PDF 파일을 회전/결합/압축하려면?](https://jhrogue.blogspot.com/2020/09/pdf.html)
   * [FalsiScan: Make it look like a PDF has been hand signed and scanned](https://gitlab.com/edouardklein/falsisign)
   * [mupdf - mirrored from git://git.ghostscript.com/mupdf.git http://mupdf.com ](https://github.com/ccxvii/mupdf)
   * [PDFtk Server - our command-line tool for working with PDFs. It is commonly used for client-side scripting or server-side processing of PDFs](https://www.pdflabs.com/tools/pdftk-server/)
