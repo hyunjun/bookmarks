@@ -595,6 +595,7 @@ Data Science
 * [추천시스템에 빠져들기](https://www.notion.so/ecc73247c9f9486d9063fca918c5917e)
 * [쿠팡 추천 시스템 2년간의 변천사 (상품추천에서 실시간 개인화로)](https://tv.naver.com/v/11212875)
 * [추천 시스템(Recommendation System) - 협업 필터링 (Collaborative filtering) 설명 (1)](https://ai4nlp.tistory.com/10)
+* [우리 동네 맛집 추천엔진 직접, 쉽게 만들기 (크롤링과 코사인 유사도)](https://data101.oopy.io/recommendation-engine-cosine-similarity) cosine similarity
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
