@@ -189,6 +189,7 @@ R
 * [EM 알고리즘에 대하여(1) - Optimization with R](http://issactoast.com/130)
 * [EM 알고리즘의 ascent property에 대하여 - Optimization with R](http://issactoast.com/131)
 * [R 추천시스템](http://parallel.xwmooc.org/recommendation-implementation.html)
+* [Building a Recommendation System with Beer Data | R-bloggers](https://www.r-bloggers.com/building-a-recommendation-system-with-beer-data/)
 * [Apriori Algorithm with R](https://hjpco.wordpress.com/2017/06/11/algorithm-apriori-algorithm-with-r)
 * [r-podcast.org](https://r-podcast.org/)
 * [고객 구매주기 및 서비스 이탈 고객 판정](http://blog.naver.com/hancury/221015155621)
