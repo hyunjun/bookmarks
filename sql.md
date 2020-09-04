@@ -73,6 +73,7 @@ SQL
 * [Generating UUIDs at scale on the Web | by Matthieu Wipliez | Teads Engineering | Jul, 2020 | Medium](https://medium.com/teads-engineering/generating-uuids-at-scale-on-the-web-2877f529d2a2)
 * [uuid-readable: Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳](https://github.com/Debdut/uuid-readable)
 * [Why Did We Shift Away From Database-Generated Ids?](https://medium.com/ingeniouslysimple/why-did-we-shift-away-from-database-generated-ids-7e0e54a49bb3)
+* [Don't Use Database Generated IDs | The Startup](https://medium.com/swlh/dont-use-database-generated-ids-d703d35e9cc4)
 * [Instagram 에서 ID 샤딩하기](https://charsyam.wordpress.com/2011/12/04/instagram-%EC%97%90%EC%84%9C-id-%EC%83%A4%EB%94%A9%ED%95%98%EA%B8%B0)
 * [Code Quality Comparison of Firebird, MySQL, and PostgreSQL](https://medium.com/@CPP_Coder/code-quality-comparison-of-firebird-mysql-and-postgresql-53e39fc3298d)
 * [SQL Best Practices — Designing An ETL Video](https://hackernoon.com/sql-best-practices-designing-an-etl-video-1933665f9861)
