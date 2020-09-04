@@ -625,6 +625,7 @@ Java
 * [**Project Loom: Fibers and Continuations for the Java Virtual Machine**](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)
   * [**Project Loom: Fiber와 Continuation**](http://guruma.github.io/posts/2018-09-27-Project-Loom-Fiber-And-Continuation/)
   * [Project Loom: Helping Write Concurrent Applications on the Java Platform by Ron Pressler](https://www.youtube.com/watch?v=lIq-x_iI-kc)
+  * [Project Loom? Better Futures? What’s next for JVM concurrent programming - YouTube](https://www.youtube.com/watch?v=_fFzyY_7UmA)
 
 ## JVM GC Garbage Collection
 * [Garbage Collection의 기초](http://itmining.tistory.com/24)
