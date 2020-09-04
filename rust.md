@@ -230,3 +230,4 @@
 * [Rust RPG: Introductory Tutorial of Rust, Unit Testing, and Continuous Integration with a Roguelike](https://medium.com/@cameron.manavian/rust-rpg-introductory-tutorial-of-rust-unit-testing-and-continuous-integration-with-a-roguelike-b7b86e90855c)
 * [Introduction to Rust for Node Developers - DEV](https://dev.to/tindleaj/introduction-to-rust-for-node-developers-3j05)
 * [Rust — Getting Started With The Most Loved Programming Language | by Manish M. Shivanandhan | Manish Shivanandhan | Aug, 2020 | Medium](https://medium.com/manishmshiva/rust-getting-started-with-the-most-loved-programming-language-2234d1ec967f)
+* [Thought you loved Python? Wait until you meet Rust | by Rhea Moutafis | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/thought-you-loved-python-wait-until-you-meet-rust-64a06d976ce)
