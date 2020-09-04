@@ -163,6 +163,7 @@ Scala
 * [Daniel Spiewak: Functional Async on the JVM - λC Winter Retreat 2017](https://www.youtube.com/watch?v=j9RHdnnl4T8)
 * [Asynchronous Programming and Scala](https://alexn.org/blog/2017/01/30/asynchronous-programming-scala.html)
 * [비동기 프로그래밍과 Scala](https://wiki.cys.wo.tc/doku.php?id=%EB%B9%84%EB%8F%99%EA%B8%B0_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC_scala) monix 포함
+* [Making asynchronous programs functional with IO.async and IO.cancelable - Scala tutorial - YouTube](https://www.youtube.com/watch?v=-Nlz5HLqneQ)
 * [Map, Flatmap, and Reduce Are Your New Best Friends](https://www.youtube.com/watch?v=2OvxOgayedU)
 * [Marconi Lanna - Elegant and Powerful Scala One-liners](https://www.youtube.com/watch?v=V08s4AfVQY4)
 * [ScalaIO - 2017](https://www.youtube.com/playlist?list=PLjkHSzY9VuL9UI2oYMc4HKKu_Dl9TOnPL)
@@ -1714,3 +1715,4 @@ Scala
 * [Interactive Programming in the Scala REPL by Haoyi Li at Scala in the City - YouTube](https://www.youtube.com/watch?v=9yD_0nlALGM)
 * [Learning Scala — 8 DON’Ts and 7 DOs | by Annette | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/learning-scala-8-donts-and-7-dos-c9d1eac33e2c)
 * [Introduction | Hello, Scala tutorial](https://hello-scala.com/)
+* [Scala - YouTube](https://www.youtube.com/playlist?list=PL1NS3pe5mmu0n6Jexj8olPoiq1Jxo_Wnv) 기초X 중급
