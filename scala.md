@@ -963,6 +963,7 @@ Scala
   * [example - Union Find](https://gist.github.com/sungkmi/b30a338e35825f1eaf804fed92ed550e)
   * [Retry Failing Tasks with Cats and Scala - Alexandru Nedelcu](https://alexn.org/blog/2020/08/03/on-error-retry-loop.html)
   * [Introduction to Scala Cats — Part 1 | by Omer Arshad | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/introduction-to-scala-cats-part-1-3487e8d86a40)
+  * [Implicit scope and Cats](https://meta.plasm.us/posts/2019/09/30/implicit-scope-and-cats/)
   * [Cats Effect: Home](https://typelevel.org/cats-effect/)
     * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
     * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
