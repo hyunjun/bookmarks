@@ -1164,6 +1164,7 @@ Python
 * with, context manager
   * [with 문과 file에 대한 고찰](http://mcchae.egloos.com/11223913)
   * [**Today I Learned: 파이썬 context manager, with구문으로 안전한 리소스 관리를 하자**](https://sjquant.github.io/파이썬-Context-Manager)
+  * [Context Managers in Python — Go Beyond “with open() as file” | by Yong Cui, Ph.D. | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/context-managers-in-python-go-beyond-with-open-as-file-85a27e392114)
 * xml
   * [XML parsing - untangle, xmltodict](http://docs.python-guide.org/en/latest/scenarios/xml/)
   * [python3 Google News RSS XML DATA crawling / Parsing 구현 Sample MultiProcess Pool 적용](http://qnfmfmd.tistory.com/148)
