@@ -1130,6 +1130,7 @@ Scala
   * [sttp - The Scala HTTP client you always wanted! https://softwaremill.com/open-source ](https://github.com/softwaremill/sttp)
   * [Websockets in Scala using sttp](https://blog.softwaremill.com/websockets-in-scala-using-sttp-baefd207c5fb)
   * [sttp2: an overview of proposed changes](https://blog.softwaremill.com/sttp2-an-overview-of-proposed-changes-8de23c94684f)
+  * [What’s coming up in sttp client 3? | by Adam Warski | Sep, 2020 | SoftwareMill Tech Blog](https://blog.softwaremill.com/whats-coming-up-in-sttp-client-3-30d01ab42d1b)
 * [Syto - Digital Signal Processing library for Scala](https://github.com/SashkoTar/syto)
   * [Syto — pure Scala library for filter design/implementation and digital signal processing](https://medium.com/@cupreous.bowels/syto-pure-scala-library-for-filter-design-implementation-and-digital-signal-processing-1916626b9de4)
 * [teleport-scala A native CLI in Scala to quickly move through the filesystem](https://github.com/note/teleport-scala)
@@ -1335,6 +1336,7 @@ Scala
 * [Tagless Final - Part 6 - persistence (The Big Rewrite - Part 2) - YouTube](https://www.youtube.com/watch?v=f1V1eliUkzs)
 * [Tagless Final - Part 7 - delivery (The Big Rewrite - Part 3) - YouTube](https://www.youtube.com/watch?v=7OL8tSF0yZU)
 * [Tagless Final - Part 8.1 - main (The Big Rewrite - Part 4.1) - YouTube](https://www.youtube.com/watch?v=RuhV-Q9sLSo)
+* [Tagless Final - Part 8.2 - main (The Big Rewrite - Part 4.2) - YouTube](https://www.youtube.com/watch?v=O_REJhViiI4)
 * [Scala 3 - TF related improvements (mostly #implicits) - YouTube](https://www.youtube.com/watch?v=0MPfFBctWUc)
 
 # Monoids
