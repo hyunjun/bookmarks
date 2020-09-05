@@ -95,6 +95,7 @@ Programming Books
 * (NOT YET) [개발 7년차, 매니저 1일차](https://jybaek.tistory.com/867)
   * [독서광 개발 7년차, 매니저 1일차](https://jhrogue.blogspot.com/2020/06/7-1.html)
 * (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+* [엔지니어링 매니저 필독 도서&아티클](https://welcome.publy.co/em-books-and-articles/)
 
 # Agile Scrum
 
