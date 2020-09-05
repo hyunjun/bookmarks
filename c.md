@@ -95,7 +95,8 @@ C
 * [JPL Institutional Coding Standard for the C Programming Language](http://lars-lab.jpl.nasa.gov/JPL_Coding_Standard_C.pdf)
 * [C Programming Substance Guidelines](https://github.com/btrask/stronglink/blob/master/SUBSTANCE.md)
 * [K&R C](https://spin0r.wordpress.com/2014/11/21/kr-c/)
-* [Language Design: Building a Modern C, Round 1](http://owensd.io/2015/09/04/language-design-thinking-round-1.html)
+* [Language Design: Building a Modern C, Round 1 – owensd.io](https://owensd.io/2015/09/04/language-design-building-a-modern-c-round-1/)
+* [Language Design: Declarations – owensd.io](https://owensd.io/2015/09/12/language-design-declarations/)
 * [Memory-safe Execution of C on a Java VM](http://chrisseaton.com/plas15/safec.pdf)
 * [A Smaller, Better compiler suite](http://achacompilers.blogspot.kr/2015/09/a-smaller-better-compiler-suite.html) gcc, clang, tcc, pcc, 8cc
 * [Object-oriented techniques in C](http://dmitryfrank.com/articles/oop_in_c)
@@ -164,6 +165,7 @@ C
 * [3차원 도넛을 콘솔에 그리기](https://jhrogue.blogspot.com/2020/07/5-3.html)
 * [What does gcc main.c do?. Table of Contents | by Connor Brereton | Medium](https://medium.com/@connorbrereton/what-does-gcc-main-c-do-bc96824a60a4) compile 과정
 * [Why the C Language Will Never Stop You from Making Mistakes | The Pasture](https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you)
+* [Exploring mullender.c - A deep dive into the first IOCCC winner :: LainSystems](https://lainsystems.com/posts/exploring-mullender-dot-c/)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -173,6 +175,7 @@ C
 
 # Book
 * [An Introduction to C & GUI Programming – the new book from Raspberry Pi Press](https://www.raspberrypi.org/blog/an-introduction-to-c-gui-programming-the-new-book-from-raspberry-pi-press/)
+* [Modern C](https://modernc.gforge.inria.fr/)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
@@ -315,7 +318,6 @@ C
   * [infer](http://fbinfer.com/)
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)
   * [Inferbo: Infer-based buffer overrun analyzer](https://research.fb.com/inferbo-infer-based-buffer-overrun-analyzer/)
-* [jemalloc](https://github.com/jemalloc/jemalloc)
 * [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo ](https://github.com/jpmens/jo)
 * [Jsi - a small javascript interpreter implemented in pure C that includes built-in support for Sqlite, WebSockets, JSON and Zvfs](http://jsish.sourceforge.net/)
 * [jwHash - Simple hash table implementation for C](https://github.com/watmough/jwHash)
@@ -377,7 +379,6 @@ C
 * [Revring: A circular buffer with zero memory waste](https://analog10.com/posts/circular_buffer.html)
 * [rt0 - A minimal C runtime for Linux on i386 & x86_64](https://github.com/lpsantil/rt0)
 * [rtty - Access your device's terminal from anywhere via the web](https://github.com/zhaojh329/rtty)
-* [salmalloc - Custom malloc](https://github.com/sal-j/salmalloc)
 * [shoco: a fast compressor for short strings](http://ed-von-schleck.github.io/shoco/)
 * [SELA - SimplE Lossless Audio](https://github.com/sahaRatul/sela)
 * [simple sparsehash - A simple re-implementation of Google's sparsehash as a learning excercise](https://github.com/qpfiffer/Simple-Sparsehash)
@@ -399,6 +400,11 @@ C
 * [Yeppp! is a high-performance SIMD-optimized mathematical library for x86, ARM, and MIPS processors on Windows, Android, Mac OS X, and GNU/Linux systems](http://www.yeppp.info/)
 * [yupp - yet another C preprocessor](https://github.com/in4lio/yupp)
 
+## Library Malloc
+* [jemalloc](https://github.com/jemalloc/jemalloc)
+* [malloc_geiger - a hook for malloc that plays geiger counter blips in proportion to the amount of calls to malloc as a way of knowing what an application does](https://github.com/laserallan/malloc_geiger)
+* [salmalloc - Custom malloc](https://github.com/sal-j/salmalloc)
+
 ## Library Profile
 * [gprof, Valgrind and gperftools - an evaluation of some tools for application level CPU profiling on Linux](http://gernotklingler.com/blog/gprof-valgrind-gperftools-evaluation-tools-application-level-cpu-profiling-linux/)
 * [prof - Self-contained C/C++ profiler library for Linux](https://github.com/cyrus-and/prof)
@@ -418,7 +424,7 @@ C
 
 # Standard Library
 * file
-  * [C언어 파일포인터 _fseeki64 (2GB 이상 대용량 파일 엑세스)](https://inadrawer.blogspot.com/2017/08/c-fseeki64-2gb.html)
+  * [C언어 파일포인터 \_fseeki64 (2GB 이상 대용량 파일 엑세스)](https://inadrawer.blogspot.com/2017/08/c-fseeki64-2gb.html)
 * gettimeofday [practice](https://github.com/hyunjun/practice/blob/master/c/test_gettimeofday.c)
 * longjmp
   * [Exceptions in C with Longjmp and Setjmp](http://www.di.unipi.it/~nids/docs/longjump_try_trow_catch.html)
