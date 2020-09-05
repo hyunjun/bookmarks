@@ -48,6 +48,7 @@ Programmer
 * [8년 간의 개발자 생활 회고 (3) | Hello, There](https://jaeyo.github.io/look-back-on-8-years-3/)
 * [Awesome-Profile-README-templates: A collection of awesome readme templates to display on your profile](https://github.com/kautukkundan/Awesome-Profile-README-templates)
 * [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
+* [Senior to a Lead software developer | by Daniel Anderson | The Startup | Medium](https://medium.com/swlh/senior-to-lead-software-developer-things-they-didnt-tell-you-48123b34381)
 
 # Cultuer, Team
 * [훌륭한 개발 문화의 이면(7) – 잉여력이냐 vs. 효율성이냐](http://channy.creation.net/blog/1238) 개발자 경력 경로
