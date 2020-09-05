@@ -460,6 +460,7 @@ Java
 * [뒤늦게 배워보자, Java 8 Part. 8](https://www.sangkon.com/java8_study_part8/)
 * [Vavr’s flatMap in action](https://blog.softwaremill.com/vavrs-flatmap-in-action-a975a99c4319)
 * [Let’s replace common list and map usage patterns with Vavr](https://blog.softwaremill.com/lets-replace-common-list-and-map-usage-patterns-with-vavr-663b1f37a0d8)
+* [Java 8 Method reference - Java2Blog](https://java2blog.com/java-8-method-reference/)
 
 ## Java8 Library
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)
