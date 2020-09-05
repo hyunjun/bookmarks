@@ -36,6 +36,8 @@ Game
 * [게임 클라이언트 프로그래머로 취업하기 위해 필요한 10가지](https://ddayin.tistory.com/296)
 * ["I Need Practice Programming": 49 Ideas for Game Clones to Code](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
 * [**Software Library: MS-DOS Games : Free Software : Free Download, Borrow and Streaming : Internet Archive**](https://archive.org/details/softwarelibrary_msdos_games) emulator
+* [FreeCol - a turn-based strategy game based on the old game Colonization, and similar to Civilization. The objective of the game is to create an independent nation.](https://github.com/FreeCol/freecol)
+* [Curriculum Guide | Riot Games](https://www.riotgames.com/en/urf-academy/curriculum-guide)
 
 # Board game
 * [ko.boardgamearena.com](https://ko.boardgamearena.com/)
