@@ -712,6 +712,8 @@ NLP
 # Conference
 * [JSALT 2019 Montréal: Dive into Deep Learning for Natural Language Processing](https://jsalt19.mxnet.io/)
 * [LangCon](https://songys.github.io/2019LangCon/about/)
+  * [발표소개 | LangCon](https://songys.github.io/2020LangconOnOff/about/)
+  * [2020Langcon - YouTube](https://www.youtube.com/playlist?list=PLqkITFr6P-oRTpBB7GZB7zRq70RQ4Brqt)
 * [텐서플로 월드2019 행사 핵심요약 2. NLP가 대세입니다!](https://www.youtube.com/watch?v=5gKWS4CfE2Y)
 
 # Corpus
@@ -891,6 +893,7 @@ NLP
 * [KoParadigm: Korean Inflectional Paradigm Generator](https://github.com/Kyubyong/paradigm)
   * paradigm은 용언 활용 테이블을 뜻하는 언어학 용어. 예를 들어, 영어의 go는 go, went, going, goes 등과 같이 어형이 변화
   * 한국어는 그 변화양상이 복잡. 동사/어미의 종류와 소리에 따라 규칙이 복잡. 그 규칙들을 테이블로 정리해 공개
+* [Korpora: Korean corpus repository](https://github.com/ko-nlp/Korpora)
 * KorpuSQL
   * [웹용 KorpuSQL 실행기](http://lab.bab2min.pe.kr/KorpuSQLWeb)
 * [Koshort - Koshort은 한국어 NLP를 위한 high-level API 프로젝트입니다](https://koshort.github.io/)
