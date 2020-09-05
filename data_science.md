@@ -376,7 +376,8 @@ Data Science
 * [academictorrents.com](http://academictorrents.com/)
 * [Announcing FsLab: Data science package](http://tomasp.net/blog/2015/announcing-fslab/index.html)
 * [Beaker](http://beakernotebook.com/?foo)
-* [Digdag is a simple tool that helps you to build, run, schedule, and monitor complex pipelines of tasks](http://www.digdag.io/) Data Workflow Management Opensource Engine
+* [danfo.js - an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.](https://github.com/opensource9ja/danfojs)
+* [Digdag - a simple tool that helps you to build, run, schedule, and monitor complex pipelines of tasks](http://www.digdag.io/) Data Workflow Management Opensource Engine
 * [GRID - Global Research Identifier Database Cataloging the world's research organisations](https://www.grid.ac/)
 * [Metaflow - A framework for real-life data science](https://metaflow.org/)
   * 데이터과학 프로젝트에서, 모델 개발 외적인 "인프라" 적인 요소를 관리하는 도구
