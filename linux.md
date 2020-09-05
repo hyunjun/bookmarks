@@ -119,6 +119,7 @@ Linux
 * [Use libguestfs to manage virtual machine disk images | Enable Sysadmin](https://www.redhat.com/sysadmin/libguestfs-manage-vm)
 * [Sandboxing and Workload Isolation · Fly](https://fly.io/blog/sandboxing-and-workload-isolation/)
 * [3차원 지구본을 콘솔에 그리기](https://jhrogue.blogspot.com/2020/08/5-3.html) pv, grep (GREP_COLORS)
+* [How Unix Works: Everything You Were Too Afraid to Ask | by Neil Kakkar | Better Programming | Medium](https://medium.com/better-programming/how-unix-works-everything-you-were-too-afraid-to-ask-f8396aeb2763)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
@@ -314,6 +315,7 @@ Linux
   * [find 명령 정리](http://blog.naver.com/antimidal/220041200248)
   * [Linux - Linux Command for finding files](https://chaewonkong.github.io/posts/linux-command-for-finding-files.html)
   * [A shell one-liner to search directories](https://www.johndcook.com/blog/2020/04/19/directory-search/)
+  * [fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
 * `fold`
   * [File character counts](https://www.johndcook.com/blog/2019/10/16/file-character-counts/) fold 응용
 * gcore [How I recovered a lost email from my email client’s memory](https://www.ctrl.blog/entry/restore-lost-email-from-ram.html)
@@ -520,7 +522,9 @@ Linux
   * [top 명령어](https://johngrib.github.io/wiki/top/)
   * `top -H` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
   * `top -H -p <PID>` [How to get the number of threads in a Java process](https://stackoverflow.com/questions/1922290/how-to-get-the-number-of-threads-in-a-java-process)
-  * htop [2019년 11월 10일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-11-10.html)
+  * htop
+    * [2019년 11월 10일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-11-10.html)
+    * [htop-dev/htop: htop - an interactive process viewer](https://github.com/htop-dev/htop)
 * `tr`
   * [remove-all-white-spaces](http://stackoverflow.com/questions/9953448/how-to-remove-all-white-spaces-from-a-given-text-file) `tr -d [:blank:]`
   * [replace-whitespaces-with-tabs-in-linux](http://stackoverflow.com/questions/1424126/replace-whitespaces-with-tabs-in-linux)
@@ -626,6 +630,7 @@ Linux
   update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-4.4 10
   ```
 * [Static analysis in GCC 10](https://developers.redhat.com/blog/2020/03/26/static-analysis-in-gcc-10/)
+* [GCC x86 Performance Hints](https://software.intel.com/content/www/us/en/develop/blogs/gcc-x86-performance-hints.html)
 
 # GNU
 * [Turn GNU command line tools into SaaS (Stupid Hackathon Project)](https://github.com/diafygi/gnu-pricing)
@@ -644,8 +649,9 @@ Linux
 * [BPF / XDP 8월 세미나 KossLab](https://www.slideshare.net/TaeungSong/bpf-xdp-8-kosslab)
 * [**Interactive map of Linux kernel**](https://makelinux.github.io/kernel/map/)
 * [Submitting your first patch to the Linux kernel - Cristian Henrique - Medium](https://medium.com/@crhenr/submitting-your-first-patch-to-the-linux-kernel-e81d2541fac6)
+* [Getting started with Linux kernel development](https://gist.github.com/vegard/22200a9f91af138a99ae22a9b814a9a4)
 
-## Interrupt
+## Kernel Interrupt
 * [Interrupts and Interrupt Handling](https://github.com/0xAX/linux-insides/tree/master/interrupts)
 * [SIGSEGV as control flow - How the JVM optimizes your null checks](http://jcdav.is/2015/10/06/SIGSEGV-as-control-flow/)
 
@@ -710,6 +716,7 @@ Linux
 * [**pxi (pixie) - a small, fast, and magical command-line data processor similar to jq, mlr, and awk**](https://github.com/Yord/pxi)
 * [Qfc - Quick Command-line File Completion](http://pindexis.github.io/qfc/)
 * [RTail - Terminal output to the browser in seconds, using UNIX pipes](http://rtail.org/)
+* [SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal](https://github.com/andmarti1424/sc-im)
 * [shed - the sh editor](https://github.com/mplewis/shed)
 * [sift is a fast and powerful open source alternative to grep](http://sift-tool.org/info.html)
   * [Super Fast and Accurate string distance algorithm: Sift4](http://siderite.blogspot.com/2014/11/super-fast-and-accurate-string-distance.html)
@@ -718,6 +725,7 @@ Linux
 * [sshync - Auto-sync files or directories over SSH using fs.watch()](https://github.com/mateogianolio/sshync)
 * [trash-cli - Command Line Interface to FreeDesktop.org Trash](https://github.com/andreafrancia/trash-cli)
 * [unetbootin.github.io - create bootable Live USB drives](http://unetbootin.github.io/)
+* [VTM | Text-based Desktop Environment, aka Monotty Desktop (desktopio)](https://vtm.netxs.online/)
 * [X2GO: Linux Remote Desktop & Terminal Server System With Support For Published Applications](https://www.youtube.com/watch?v=oSuy1TS8FGs)
 * [Xmobar updates from ZuriHac](https://psibi.in/posts/2020-06-16-xmobar-zurihac.html)
 * [xrdp - an open source RDP server](https://github.com/neutrinolabs/xrdp)
