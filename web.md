@@ -190,6 +190,7 @@ Web
 * [개선된 페이지 스택으로 LINE 증권의 웹 페이지 전환 처리하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-securities-frontend-2/)
 * [CGI와 웹서버](https://velog.io/@seanlion/cgi)
 * [매출 손실을 줄여주는 외부링크 관제 Bot, 'URL Checker' 개발기 | 뱅크샐러드](https://blog.banksalad.com/tech/url-status-checker/)
+* [The Ultimate List of YouTube Channels to Boost your Web Development and Programming Skills · Dev & Gear](https://devandgear.com/posts/the-ultimate-list-of-youtube-channels-to-boost-your-web-development-and-programming-skills/)
 
 # Apache
 * installation
@@ -203,6 +204,7 @@ Web
 * [mod_rewrite 로 URL 다루기](https://www.lesstif.com/pages/viewpage.action?pageId=18219493)
 * [아파치 2.4에 추가된 filesize 식을 이용해서 특정 크기를 넘어서는 파일 접근 차단하기](http://javacan.tistory.com/entry/forbid-large-size-file-access-using-filesize-in-apache24)
 * [아파치 모듈로 개발된 API 서버, 이음 베이론을 소개합니다](http://bigmatch.i-um.net/2013/11/20/ium-api-veyron/)
+* [Common Apache Errors | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/common-apache-errors)
 
 # Book
 * [web-service-hardening](https://www.gitbook.com/book/lesstif/web-service-hardening/)
@@ -710,6 +712,7 @@ Web
 * [Jira Server platform REST API reference 8.10.1](https://docs.atlassian.com/software/jira/docs/api/REST/8.10.1/#api/2/issueLink-getIssueLink) 참고
 * [REST API 설계](https://www.slideshare.net/Byungwook/rest-api-60505484)
 * [RESTful API 체크리스트](https://brunch.co.kr/@nanotoly/18)
+* [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
@@ -810,6 +813,8 @@ Web
 * [2019년과 이후 JavaScript의 동향 - WebAssembly](https://d2.naver.com/helloworld/8786166)
 * [Python and WebAssembly](https://almarklein.org/python_and_webassembly.html)
 * [Build Your Own WebAssembly Compiler](https://www.youtube.com/watch?v=OsGnMm59wb4)
+* [Build Your Own WebAssembly Compiler](https://www.infoq.com/presentations/webassembly-details/)
+* [Hands-on WebAssembly: Try the basics — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
