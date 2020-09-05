@@ -184,6 +184,7 @@ SQL
 * [Authentication from MariaDB 10.4](https://mariadb.com/kb/en/authentication-from-mariadb-104/)
 * [Less passwords, more security: unix socket authentication and other MariaDB hardening tips](https://www.slideshare.net/ottokekalainen/less-passwords-more-security-unix-socket-authentication-and-other-mariadb-hardening-tips)
 * [Observability Differences Between MySQL 8 and MariaDB 10.4](https://www.percona.com/blog/2020/02/05/observability-differences-between-mysql-8-and-mariadb-10-4/)
+* [Streaming backups in parallel using tee | DBA Dojo](https://dbadojo.com/2020/09/02/streaming-backups-in-parallel-using-tee/)
 * [Authentication Plugin - Unix Socket](https://mariadb.com/kb/en/authentication-plugin-unix-socket/)
 * [ClustrixDB](https://mariadb.com/products/clustrixdb/) distributed RDB
 * SkySQL [Jacob's Cafe :: 수십억건 데이터 처리를 위한 MariaDB Analytics (SkySQL)](https://calebpro.tistory.com/628)
@@ -425,6 +426,7 @@ SQL
 * [MySQL 8.0 테이블스페이스 관리 방법 변경 내용 feat.테이블 스페이스 삭제한다면?!](https://stricky.tistory.com/166)
 * [MySQL 8.0 – Who stopped mysqld and how long did it take ? – lefred's blog: tribulations of a MySQL Evangelist](https://lefred.be/content/mysql-8-0-who-stopped-mysqld-and-how-long-did-it-take/)
 * [MySQL 5.6 EOL is February 2021 !! – lefred's blog: tribulations of a MySQL Evangelist](https://lefred.be/content/mysql-5-6-eol-is-february-2021/) 8.0
+* [Upgrading MySQL (Percona Server) from 5.7 to 8.0 | by Flant staff | Flant | Medium](https://medium.com/flant-com/upgrading-mysql-percona-server-5-to-8-4bce53bdce5c)
 * [5 MySQL features you need to know](https://opensource.com/article/20/3/mysql-features)
 * [18 Things You Can Do to Remove MySQL Bottlenecks Caused by High Traffic (Part One)](https://www.percona.com/blog/2020/04/03/18-things-you-can-do-to-remove-mysql-bottlenecks-caused-by-high-traffic-part-one/)
 * [Need to Connect to a Local MySQL Server? Use Unix Domain Socket!](https://www.percona.com/blog/2020/04/13/need-to-connect-to-a-local-mysql-server-use-unix-domain-socket/)
@@ -446,6 +448,9 @@ SQL
 * [MySQL Challenge: 100k Connections - Percona Database Performance Blog](https://www.percona.com/blog/2019/02/25/mysql-challenge-100k-connections/)
 * [Sometimes they come back: exfiltration through MySQL and CVE-2020-11579 - Shielder](https://www.shielder.it/blog/mysql-and-cve-2020-11579-exploitation/)
 * [MySQL Query Performance Troubleshooting: Resource-Based Approach - Percona Database Performance Blog](https://www.percona.com/blog/2020/07/15/mysql-query-performance-troubleshooting-resource-based-approach/)
+* [Please stop using this UPSERT anti-pattern - SQLPerformance.com](https://sqlperformance.com/2020/09/locking/upsert-anti-pattern)
+* [The MySQL cheatsheet we all need | Better Programming](https://medium.com/better-programming/the-mysql-cheatsheet-we-all-need-d1af0377bdc6)
+* [Why Uber Engineering Switched from Postgres to MySQL | Uber Engineering Blog](https://eng.uber.com/postgres-to-mysql-migration/)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
@@ -591,6 +596,7 @@ SQL
 * [PostgreSQL EXPLAIN — pgMustard](https://www.pgmustard.com/docs/explain)
 * [Why We Switched From MongoDB to PostgresSQL](https://amasad.me/gpt_post)
 * [PSQL TIMESTAMP/AT TIME ZONE 바로 알기 · Billo Park](https://blog.billo.io/devposts/psql_at_time_zone/)
+* [Handling NULL Values in PostgreSQL - Percona Database Performance Blog](https://www.percona.com/blog/2020/03/05/handling-null-values-in-postgresql/)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
