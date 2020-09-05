@@ -446,6 +446,7 @@ Go
 * [golongpoll - golang HTTP longpolling library, making web pub-sub easy!](https://github.com/jcuga/golongpoll)
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
 * [Go Micro - a framework for microservice development](https://go-micro.dev/)
+* [go-nfs: golang NFSv3 server](https://github.com/willscott/go-nfs/)
 * [Goofys is a Filey-System interface to S3](https://github.com/kahing/goofys)
 * GoPacket
   * [Packet Capture, Injection, and Analysis with gopacket](http://devdungeon.com/content/packet-capture-injection-and-analysis-gopacket)
