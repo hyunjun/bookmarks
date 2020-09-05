@@ -40,6 +40,7 @@ Presentation
 * [프레젠테이션을 잘하는 법](https://ppss.kr/archives/207368)
 * [회사 PT 끝장내기](https://www.andrewahn.co/product/prepping-exec-presenation/)
 * [사람은 어떻게 생각하고 배우고 기억하는가](https://jhrogue.blogspot.com/2020/06/blog-post.html)
+* [Our 80 Favorite PowerPoint Keyboard Shortcuts (That Save Time)](https://nutsandboltsspeedtraining.com/powerpoint-tutorials/80-favorite-powerpoint-keyboard-shortcuts/)
 
 # Icons, Images
 * [Free Coding Images by Burst & Hacker Noon](https://hackernoon.com/coding-images-cc6e6d68661e)
@@ -70,6 +71,7 @@ Presentation
 * [Mousepose](http://bedreams.tistory.com/46)
 * [the noun project](https://thenounproject.com/) icon
 * [pixlr.com/editor](https://pixlr.com/editor/) online photo editor
+* [present: A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [prezi](https://prezi.com/)
 * [python-pptx](http://python-pptx.readthedocs.io) a Python library for creating and updating PowerPoint (.pptx) files
 * [sizle - Bring your slide decks to life](https://sizle.io/)
