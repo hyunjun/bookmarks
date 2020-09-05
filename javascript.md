@@ -605,6 +605,7 @@ Javascript
 * [유용한 JavaScript 코딩 기법들](https://blog.ull.im/engineering/2019/06/10/some-of-useful-javascript-trick.html)
 * [이벤트 핸들러를 대하는 개발자의 자세](https://blog.shiren.dev/2020-07-27-1/)
 * [fe-news/2020-08.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2020-08.md)
+* [fe-news/2020-09.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2020-09.md)
 * [The Front-End Features You Might Have Missed | by Adrien Miquel | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/the-front-end-features-you-might-have-missed-38f3ad1360a9)
 * [2020년과 이후 JavaScript의 동향 - WebAssembly](https://d2.naver.com/helloworld/8257914) wasm
 
@@ -1851,6 +1852,7 @@ Javascript
   * [Is Deno a Threat to Node? - Better Programming - Medium](https://medium.com/better-programming/is-deno-a-threat-to-node-1ec3f177b73c)
   * [Top 5 Reasons Javascript Developers Prefer Deno Over Node | by Dan Halperin | Level Up Coding](https://levelup.gitconnected.com/top-5-reasons-javascript-developers-prefer-deno-over-node-b1ff01734811)
   * [Build a Simple Rest API with Deno and Express | Medium | Level Up Coding](https://levelup.gitconnected.com/build-a-simple-rest-api-with-deno-and-express-b0b62e52c230)
+  * [Deno Loves WebAssembly](https://www.infoq.com/articles/deno-loves-webassembly/)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
@@ -2643,6 +2645,7 @@ Javascript
   * [How to create a Coronavirus (COVID-19) Dashboard & Map App in React with Gatsby and Leaflet](https://www.freecodecamp.org/news/how-to-create-a-coronavirus-covid-19-dashboard-map-app-in-react-with-gatsby-and-leaflet/)
   * [**Hexo에서 Gatsby로 블로그 마이그레이션 야크쉐이빙 후기**](https://evan-moon.github.io/2020/05/09/gatsby-migration-retrospective/)
   * [Gatsby 웹사이트에 적용한 다크 모드 | blog.rhostem.com](https://blog.rhostem.com/posts/2020-06-25-dark-mode-for-gatsby-website)
+  * [개츠비의 이미지 처리 방식 | 김정환 블로그](https://jeonghwan-kim.github.io/dev/2020/08/19/gatsby-image.html)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [handoff-visualizer - Wireless Network Handoff Visualizer built with React!](https://github.com/chonyy/handoff-visualizer)
