@@ -9,6 +9,7 @@ Vim
 * [simple_vim_guide](https://github.com/johngrib/simple_vim_guide)
 * [Let’s learn Vim! Part 1](https://hackernoon.com/lets-learn-vim-part-1-4752116637b4)
 * [Let’s learn Vim! Part 2](https://hackernoon.com/lets-learn-vim-part-2-66b968f1551f)
+* [Learn-Vim: A book for learning the Vim editor the smart way.](https://github.com/iggredible/Learn-Vim)
 * [How not to be afraid of Vim anymore - A curation of the most popular commands and how to use them](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
 * [Basic Vim Commands Every Linux User Must Know](https://linuxhandbook.com/basic-vim-commands)
 * [Vim 도대체 왜 쓰는가](https://bengi.kr/1349)
@@ -164,6 +165,7 @@ Vim
 * [vi 에디터 사용법 (vim editor)](https://blog.lael.be/post/7321)
 * [Chase Your VIM Demons Away](https://medium.com/better-programming/chase-your-vim-demons-away-4405168effc8)
 * [Editors (Vim)](https://missing.csail.mit.edu/2020/editors/)
+* [Portable Shell and VIM Customization | by Jeremy Cheng | Jul, 2020 | Level Up Coding](https://levelup.gitconnected.com/portable-shell-and-vim-customization-9c054d80f5ca)
 
 # Book
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro/read_full)
