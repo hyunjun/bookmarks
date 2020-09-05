@@ -44,6 +44,7 @@
 * [파이썬 + 레고 마인드 스톰 EV3로 초간단 스캐너를 제작](https://www.youtube.com/watch?v=jmu-UbjuS8k)
 * [IOT 스크린세이버 프로그램(nodeMCU + VL53L0X + python)](https://blog.naver.com/nanotoly/221917301039)
 * [1_Workshops/Embedded_system 카테고리의 글 목록](https://gcamp.tistory.com/category/1_Workshops/Embedded_system)
+* [ipTIME A9004M 공유기에 Windows XP 올리기 | 맨손잡이](https://mans0n.github.io/2020/08/08/winxp-on-a9004m/)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
@@ -261,6 +262,7 @@
 * [Tensorflow on edge, or – Building a “smart” security camera with a Raspberry Pi - Christian Hollinger](https://chollinger.com/blog/2019/12/tensorflow-on-edge-or-building-a-smart-security-camera-with-a-raspberry-pi/)
 * [Home Automation with Power Platform - Part 1 - DEV](https://dev.to/azure/home-automation-with-power-platform-part-1-4eh2)
 * [라즈베리 파이를 리모트 콘트롤러로 활용하기 | Aliencube](https://blog.aliencube.org/ko/2020/08/12/turning-raspberry-pi-into-remote-controller/)
+* [AnyLeaf sensors](https://www.anyleaf.org/ph-module)
 
 # Reverse Engineering
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
