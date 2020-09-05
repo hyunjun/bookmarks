@@ -404,6 +404,8 @@ AWS
 * [AWS 7월 새소식 요약 및 Amazon RDS Proxy 집중 분석 :: 차니의 #클라우드클리닉 18회 :: Channy's Blog](http://blog.creation.net/channy-cloud-clinic-ep18)
 * [한국어 기술 백서 AWS 기반 현대적 애플리케이션 및 딥러닝 프로젝트 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/wp-modern-app-deep-learning-on-aws/)
 * [Github로 터미널에서 명령어 이용해 소스 올리기](https://developer88.tistory.com/297)
+* [AWS, 컨테이너 전용 리눅스 OS 보틀로켓(BottleRocket) 1.0 릴리스 | 44BITS](https://www.44bits.io/ko/post/news--aws-release-bottlerocket-os-for-container)
+* [The AWS Serverless LAMP Stack: the Future of PHP or Vendor Lock-in?](https://www.infoq.com/news/2020/07/aws-serverless-lamp/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
