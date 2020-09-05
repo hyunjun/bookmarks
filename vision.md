@@ -393,6 +393,7 @@ Vision
     * [webRTC를 이용한 화상회의 개발](https://dareun.github.io/webRTC%E1%84%85%E1%85%B3%E1%86%AF-%E1%84%8B%E1%85%B5%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB-%E1%84%92%E1%85%AA%E1%84%89%E1%85%A1%E1%86%BC%E1%84%92%E1%85%AC%E1%84%8B%E1%85%B4-%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF)
     * [Kurento - an Open Source Software WebRTC media server](http://www.kurento.org)
   * [Build a Webcam Communication App using WebRTC](https://blog.bitsrc.io/build-a-webcam-communication-app-using-webrtc-9737384e84be)
+  * [Introduction | WebRTC for the Curious](https://webrtcforthecurious.com/)
   * [WebRTC Library 다루기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/13/webrtc-library.html)
   * [webrtcH4cKS: ~ Open Source Cloud Gaming with WebRTC](https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/)
 
