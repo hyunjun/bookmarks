@@ -403,6 +403,7 @@ Python
 * [futurecoder: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
 * [Mutability and Immutability in Python — Let’s Break It Down | by Wendy Leung | Data Driven Investor | Medium](https://medium.com/datadriveninvestor/mutable-and-immutable-python-2093deeac8d9)
 * [Understanding Python Operator Overloading to prevent wrong code | by Doojin Kang | Aug, 2020 | Medium](https://medium.com/@doojin.kang/understanding-python-operator-overloading-to-prevent-wrong-code-a96668e6c263)
+* [Chiel Peters - Python: From Source to Execution | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=xfC5o8HxaBk)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -2249,6 +2250,7 @@ Python
 * [jupyterthemes](https://github.com/dunovank/jupyter-themes)
   * [Jupyter 노트북 테마적용](http://haanjack.github.io/jupyter/theme/2016/03/08/jupyter-theme.html)
   * [Jupyter Theme 적용](https://noweaver.github.io/dt/analytics/2018/10/15/Jupyter-Theme-Apply.html)
+* [jupyterlab-interactive-dashboard-editor](https://github.com/jupytercalpoly/jupyterlab-interactive-dashboard-editor)
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
 * jupytext [Version Control With Jupyter Notebook | by Shinichi Okada | Towards Data Science](https://towardsdatascience.com/version-control-with-jupyter-notebook-b9630bc5996e)
 * [nteract and create with data, words, and visuals](https://nteract.io/) jupyter notebook을 web이 아니라 local에서 실행
@@ -2568,9 +2570,6 @@ Python
   * [파이썬으로 페이스북 메신저 메시지 보내기](http://mcchae.egloos.com/11263580)
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
 * [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
-* [flake8 - a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code]((https://gitlab.com/pycqa/flake8)
-  * [flake8을 이용한 파이썬 정적 코드 분석](http://mcchae.egloos.com/11183191)
-  * [flake8 git pre-commit hook 문제와 해결](http://curzy95.tumblr.com/post/156810698531/flake8-git-pre-commit-hook-%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%95%B4%EA%B2%B0)
 * [Flanker - an open source parsing library written in Python by the Mailgun Team](https://pypi.python.org/pypi/flanker)
 * [flexx - Python UI tookit based on web technology http://flexx.readthedocs.org](https://github.com/zoofIO/flexx)
 * [flickrd - 파이썬3으로 작성한 플리커 사진 다운로드 프로그램](https://github.com/grollcake/flickrd)
@@ -2741,11 +2740,6 @@ Python
 * pyldap
   * [ubuntu16에 pyldap 설치하기](https://beomi.github.io/2018/02/07/pyldap-on-ubuntu16/)
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
-* [Pylint - Star your Python code!](https://www.pylint.org/)
-  * [PyLint Messages and what they're trying to tell you](http://pylint-messages.wikidot.com/)
-  * [pylint로 파이썬 코드를 정적으로 분석해보자!!](http://egloos.zum.com/mataeoh/v/7046058)
-  * [Detect Python code duplicate](http://julien.duponchelle.info/python/detect-python-code-duplicate)
-  * [Pylint Tutorial – How to Write Clean Python](https://www.youtube.com/watch?v=fFY5103p5-c)
 * Pylons
   * [Build a document search engine using Xapian and Pylons](http://invisibleroads.com/tutorials/xapian-search-pylons.html)
 * [PyMC: Bayesian Stochastic Modelling in Python http://pymc-devs.github.com/pymc ](https://github.com/pymc-devs/pymc)
@@ -2922,6 +2916,7 @@ Python
   * [트위터 언팔로워 트래커](http://greentec.egloos.com/4442651)
   * [Build A Twitter Bot With Python That Gets You Followers](https://www.youtube.com/watch?v=7ovFudqFB0Q)
   * [Accessing the Twitter API with Python](https://stackabuse.com/accessing-the-twitter-api-with-python/)
+  * [From Zero to a Working Twitter Bot in Python - All You Need to do in 6 Easy Steps - Learn Python with Rune](https://www.learnpythonwithrune.org/create-a-twitter-bot-in-python-an-easy-step-through-guide/)
 * [TwoTerm - Simple side-by-side terminal program. PyQt4/PyQt5 based. Python2/Python3](https://github.com/markushx/TwoTerm)
 * [uBiome Open Source - A place for microbiome enthusiasts to share tools, tips, sequences, and more](https://github.com/ubiome-opensource)
 * [**Undebt is a fast, straightforward, reliable tool for performing massive, automated code refactoring used @Yelp**](https://github.com/Yelp/undebt)
@@ -3104,7 +3099,7 @@ Python
 * [Thonny - Python IDE for beginners](http://thonny.org/)
   * [Learn to code with Thonny — a Python IDE for beginners](https://fedoramagazine.org/learn-code-thonny-python-ide-beginners)
 
-## Ligrary image
+## Library image
 * [**10 Python image manipulation tools**](https://towardsdatascience.com/image-manipulation-tools-for-python-6eb0908ed61f)
 * [Image Text Recognition in Python](http://francescopochetti.com/text-recognition-natural-scenes/)
 * [Ravi Chityala, "Image processing using Python", PyBay2016](https://www.youtube.com/watch?v=5Z0KopTeizk)
@@ -3128,6 +3123,16 @@ Python
 * [SIPSkia : Simple Image Processing by Skia](https://github.com/nrise/sipskia/)
   * [Skia Python 적용기](http://nrise.github.io/2016/07/01/skia/)
 
+## Library Lint
+['오류 줄이고 보기도 좋은' 파이썬 코드 정리 툴 5가지 - ITWorld Korea](http://www.itworld.co.kr/news/162580) pycodestyle, autopep8, flake8, pylint, black
+* [flake8 - a python tool that glues together pep8, pyflakes, mccabe, and third-party plugins to check the style and quality of some python code]((https://gitlab.com/pycqa/flake8)
+  * [flake8을 이용한 파이썬 정적 코드 분석](http://mcchae.egloos.com/11183191)
+  * [flake8 git pre-commit hook 문제와 해결](http://curzy95.tumblr.com/post/156810698531/flake8-git-pre-commit-hook-%EB%AC%B8%EC%A0%9C%EC%99%80-%ED%95%B4%EA%B2%B0)
+* [Pylint - Star your Python code!](https://www.pylint.org/)
+  * [PyLint Messages and what they're trying to tell you](http://pylint-messages.wikidot.com/)
+  * [pylint로 파이썬 코드를 정적으로 분석해보자!!](http://egloos.zum.com/mataeoh/v/7046058)
+  * [Detect Python code duplicate](http://julien.duponchelle.info/python/detect-python-code-duplicate)
+  * [Pylint Tutorial – How to Write Clean Python](https://www.youtube.com/watch?v=fFY5103p5-c)
 ## Library package install management
 * [My Python Development Environment, 2020 Edition](https://jacobian.org/2019/nov/11/python-environment-2020)
 * [**Overview of python dependency management tools**](https://modelpredict.com/python-dependency-management-tools)
@@ -3458,6 +3463,7 @@ Python
 * [Pandas versus SQL Comparison : JOIN | Data Yoshi | Blog and Jobs in Data Science, Machine Learning, AI and more](https://www.datayoshi.com/blog/article/pandas-versus-sql-comparison---join)
 * [Database처럼 DataFrame Join/Merge 하기 : pd.merge()](https://rfriend.tistory.com/258)
 * [How to write ETL operations in Python | by Hassan Syyid | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/how-to-write-etl-operations-in-python-baffbceeadf4)
+* [Ian Ozsvald - Making Pandas Fly | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=N4pj3CS857c)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
 * [swifter: A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner](https://github.com/jmcarpenter2/swifter)
@@ -3945,6 +3951,7 @@ Python
 * ironpython
   * [ironpython2](https://github.com/IronLanguages/ironpython2)
   * [ironpython3](https://github.com/IronLanguages/ironpython3)
+* [pywinauto - a set of python modules to automate the Microsoft Windows GUI](https://pywinauto.readthedocs.io/)
 * win32clipboard [clipboard 로 text, image 복사하기 , 가져오기](https://freeprog.tistory.com/16)
 * win32gui [응용프로그램창 백그라운드로 숨기는 방법(win32gui)](https://www.youtube.com/watch?v=S9f8QOy1rbU)
 * WSl [Using WSL to Build a Python Development Environment on Windows](https://pbpython.com/wsl-python.html)
