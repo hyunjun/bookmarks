@@ -839,6 +839,7 @@ Programming
 * [Monolith to Microservices: Migrating Snap’s Architecture Using a Service Mesh](https://www.infoq.com/news/2020/04/snap-architecture-service-mesh/)
 * [Microservices and \[Micro\]services](https://kalele.io/microservices-and-microservices/)
 * [Micro Frontend 마이크로 프론트앤드 - 개념](https://mobicon.tistory.com/572)
+* [Lessons from DAZN: Scaling Your Project with Micro-frontends](https://www.infoq.com/presentations/dazn-microfrontend/)
 * [Microservice Architecture and Design Patterns for Microservices](https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a)
 * [State of Microfrontends](https://dev.to/florianrappl/state-of-microfrontends-1j3p)
 * [마이크로서비스 배포 혁명](https://jflip.tistory.com/23)
@@ -854,6 +855,7 @@ Programming
 * [**API 이코노미를 살펴보다(2) 마이크로서비스 시대 API :: Channy's Blog**](http://channy.creation.net/blog/1382)
 * [API 이코노미를 살펴보다 (3) 국내 API 활용 현황 및 제언 :: Channy's Blog](http://channy.creation.net/blog/1388)
 * [Responsible Microservices](https://www.infoq.com/presentations/microservices-factors/)
+* [Microservice Architecture at Medium | by Xiao Ma | Medium Engineering](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -973,6 +975,7 @@ Programming
 * [감자박스 :: 오라클 클라우드에서 평생 무료로 VPS 사용하기](https://www.gamjaa.com/blog/1404)
 * [SQLD 실습용 오라클 클라우드 DB 생성하기](https://stricky.tistory.com/344)
 * [Dataiku 다타이쿠 클라우드 서버 설치 방법 가이드](https://stricky.tistory.com/351) 네이버 클라우드 플랫폼
+* [Libvirt - The Unsung Hero of Cloud Computing — Vyom](https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
@@ -1271,6 +1274,9 @@ Programming
 # CPU
 * [Understanding CPU Microarchitecture for Performance](https://speakerdeck.com/alblue/understanding-cpu-microarchitecture-for-performance)
 
+# Cryptography
+* [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
+
 # Data Mesh
 * [Future of Data Engineering](https://www.infoq.com/presentations/data-engineering-pipelines-warehouses/)
   * data pipeline evolution: Batch => Streaming => Automation => Microwarehouses (Distributed Data Mesh)
@@ -1390,6 +1396,7 @@ Programming
 
 # Infrastructure
 * [IT인프라 전문가 되기](https://brunch.co.kr/magazine/it-infra)
+* [Configuration File Validation Check - Config](https://www.configapp.com/2018/01/09/configuration-file-validation-check/) 여러가지 언어, 도구 등의 설정 검사 방법
 * [Dynamic configuration at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/dynamic-configuration-at-twitter.html)
 * [Chef Infra - Infrastructure Automation for Hardened, Consistent Configuration at Any Scale](https://www.chef.io/products/chef-infra/)
   * [A complete beginner’s guide to Chef and infrastructure as code](https://medium.freecodecamp.org/an-introduction-to-chef-and-infrastructure-as-code-7d8ad2689b8)
@@ -1612,9 +1619,10 @@ Programming
 * [sololearn.com](https://www.sololearn.com/)
 * [woz-u.com](https://woz-u.com/)
 
-# News
+# News & Blog
 * [기술 & 스타트업 뉴스레터 및 블로그 모음 | Guru's Blog](https://xguru.net/2222)
 * [김진철 - CIO Korea](http://www.ciokorea.com/tags/22729/%EA%B9%80%EC%A7%84%EC%B2%A0) AI 머신러닝 딥러닝 빅데이터 ...
+* [TIP 개발 실력을 향상시켜줄 IT기업 기술 블로그 45곳 모음: 네이버블로그](https://blog.naver.com/sicle_official/222071769230)
 * B급 프로그래머
   * [3월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](http://jhrogue.blogspot.com/2017/03/b-3-4.html)
   * [3월 5주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](http://jhrogue.blogspot.com/2017/04/b-3-5.html)
@@ -1782,6 +1790,7 @@ Programming
   * [8월 2주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/08/b-8-2.html)
   * [8월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/08/b-8-3.html)
   * [8월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/08/b-8-4.html)
+  * [9월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/09/b-9-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
