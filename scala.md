@@ -1716,3 +1716,5 @@ Scala
 * [Learning Scala — 8 DON’Ts and 7 DOs | by Annette | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/learning-scala-8-donts-and-7-dos-c9d1eac33e2c)
 * [Introduction | Hello, Scala tutorial](https://hello-scala.com/)
 * [Scala - YouTube](https://www.youtube.com/playlist?list=PL1NS3pe5mmu0n6Jexj8olPoiq1Jxo_Wnv) 기초X 중급
+* [10 TIPS TO WRITE FAST STACK-SAFE FUNCTIONAL CODE IN SCALA - Christophe Calvès | Scalar 2020 - YouTube](https://www.youtube.com/watch?v=UTVhPjs_XDA)
+* [John De Goes - 12 Steps To Better Scala (Part I) - YouTube](https://www.youtube.com/watch?v=71yhnTGw0hY)
