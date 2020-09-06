@@ -213,6 +213,7 @@ Linux
   * [You are here: Home / Linux Commands / Getting Started With AWK Command](https://linuxhandbook.com/awk-command-tutorial/)
   * [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html)
   * [Running Awk in parallel to process 256M records](https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html)
+  * [리눅스 awk 명령어 : 원하는 컬럼을 출력한다.](https://codingdog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-awk-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%9B%90%ED%95%98%EB%8A%94-%EC%BB%AC%EB%9F%BC%EC%9D%84-%EC%B6%9C%EB%A0%A5%ED%95%9C%EB%8B%A4)
 * `basename` get file name from path
   * e.g. `$ basename /tmp/mdstat.tmp .tmp` returns `mdstat`
 * `bc`
