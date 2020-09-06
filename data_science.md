@@ -125,6 +125,7 @@ Data Science
 * [프레임드, 예측 분석 기술 클라우드 서비스로 출시](http://www.bloter.net/archives/235206)
 * [11 Facts about Data Science that you must know](http://www.edupristine.com/blog/11-facts-about-data-science)
 * [The Data Science Workflow](http://blog.binaryedge.io/2015/09/08/the-data-science-workflow/)
+* [Eric Ma - Principled Data Science Workflows | PyData Boston July Virtual Meetup - YouTube](https://www.youtube.com/watch?v=Dx2vG6qmtPs)
 * [퇴물개발자가 생각하는 빅데이터 기술](http://www.venturesquare.net/601493)
 * [Predicting winners of the Rugby World Cup](http://blog.dominodatalab.com/predicting-winners-of-the-rugby-world-cup/)
 * [Building Analytics at 500px](https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83)
