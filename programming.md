@@ -648,6 +648,7 @@ Programming
 * [Testing Software Architecture](https://www.infoq.com/presentations/automation-testing-architecture/)
 * [SF Scala: Exabytes Delivered Each Day -- Some Lessons Building Cloud Software at Databricks - YouTube](https://www.youtube.com/watch?v=yr7gfbvQERo)
 * [마틴 파울러 소프트웨어 아키텍쳐의 중요성 (한글 자막) - YouTube](https://www.youtube.com/watch?v=4E1BHTvhB7Y)
+* [Evolution of Financial Exchange Architectures](https://www.infoq.com/presentations/financial-exchange-architecture)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
