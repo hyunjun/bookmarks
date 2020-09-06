@@ -45,6 +45,7 @@ App
 * [How To Automate Your Daily Work Routine on Mac OS | Windows | by Kashish Bhutani | Jul, 2020 | Medium](https://medium.com/@kashishbhutaniofficial/how-to-automate-your-daily-work-routine-on-mac-os-windows-63c170048201)
 * [7 Developer Tools to Make Work That Little bit Easier | by Marat Levit | Servian | Medium](https://medium.com/weareservian/7-developer-tools-to-make-work-that-little-bit-easier-4f1832c81e91)
   * KeePass, DB Fiddle, Instant SQL Formatter, REPL, Regex 101, DiffChecker, Pastebin
+* [모두의 프린터](https://modu-print.tistory.com/)
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
 * [Anki - Powerful, intelligent flash cards. Remembering things just became much easier](https://apps.ankiweb.net/)
