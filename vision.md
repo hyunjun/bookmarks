@@ -278,6 +278,7 @@ Vision
 * [얼굴 인식과 닮은 꼴 찾기를 한 번에! (With Naver Cloud Platform): 컴퓨터 비전 1도 몰라도 가능?](https://dev-sngwn.github.io/2020-05-05-cfr-step-by-step/)
 * [많은 양의 개체들을 시각화하는 방법, 그리고 전국의 모든 건물](https://www.vw-lab.com/64?category=787869)
 * [Tea Time! ☕️ Computer Vision #3: Recall, Precision, F1 and ROC, AUC - YouTube](https://www.youtube.com/watch?v=o1oTbRVVq-o)
+* [Real-time MOT(Multi-Object Tracker) 리뷰 | Note](https://ezobear.github.io/reatl-time,%20object%20trakcer/2020/09/01/MOT-post.html)
 
 # Book
 * [Hands-On Computer Vision with TensorFlow 2, published by Packt](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
