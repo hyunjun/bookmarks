@@ -857,6 +857,7 @@ Programming
 * [API 이코노미를 살펴보다 (3) 국내 API 활용 현황 및 제언 :: Channy's Blog](http://channy.creation.net/blog/1388)
 * [Responsible Microservices](https://www.infoq.com/presentations/microservices-factors/)
 * [Microservice Architecture at Medium | by Xiao Ma | Medium Engineering](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
+* [GOTO 2020 • When To Use Microservices (And When Not To!) • Sam Newman & Martin Fowler - YouTube](https://www.youtube.com/watch?v=GBTdnfD6s5Q)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
