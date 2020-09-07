@@ -415,5 +415,6 @@ Data Visualization
   * [데이터 시각화 seaborn 라이브러리 실습 해보기 feat.lmplot](https://stricky.tistory.com/124)
   * [파이썬으로 점심식사, 교과목 이수, 부모학력, 인종에 따른 시험 성적 데이터 분석 하기 feat.seaborn.catplot](https://stricky.tistory.com/149)
   * [Seaborn 튜토리얼 번역 #1장 Visualizing statistical relationships](https://data101.tistory.com/6)
+  * [Ridgeline Plot | Pega Devlog](https://jehyunlee.github.io/2020/09/07/Python-DS-30-mpl_dists/)
 * [Tools - matplotlib This notebook demonstrates how to use the matplotlib library to plot beautiful graphs](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/tools_matplotlib.ipynb)
   * [Tools - matplotlib 이 노트북은 matplotlib 라이브러리를 사용하여 아름다운 그래프를 그리는 방법을 보여줍니다](https://colab.research.google.com/drive/1lo8pAAo5GiUk4BZvSEnnkET6hTjP6eLR)
