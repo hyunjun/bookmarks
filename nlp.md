@@ -281,6 +281,7 @@ NLP
 * [Can GPT-3 Make Analogies?. By Melanie Mitchell | by Melanie Mitchell | Aug, 2020 | Medium](https://medium.com/@melaniemitchell.me/can-gpt-3-make-analogies-16436605c446)
 * [GPT-3의 다섯 가지 한계 – 핑퐁팀 블로그](https://blog.pingpong.us/gpt3-limit/)
 * [GPT-3 paper를 읽고 써보는 간략한 리뷰, Language Models are Few-Shot Learners](https://ai4nlp.tistory.com/11)
+* [대화형 인공지능(GPT-3) 한방에 이해하기 feat. 솔트룩스 이경일 대표 - YouTube](https://www.youtube.com/watch?v=LO1aa_1J_HE)
 * [minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training](https://github.com/karpathy/minGPT) 일종의 교육용 GPT
 * [I build my ideas #8 - 07/19/20 - I build my ideas from Jordan Singer](https://ibuildmyideas.substack.com/p/i-build-my-ideas-8-071920)
 * [Text generation with a Variational Autoencoder](https://nicgian.github.io/text-generation-vae/)
