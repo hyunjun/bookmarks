@@ -292,6 +292,7 @@ Clojure
 * [Spec2 experience](https://blog.ambrosebs.com/2020/04/26/spec2-experience.html)
 * [Introspection tools: Java decompilers - Clojure Goes Fast](http://clojure-goes-fast.com/blog/introspection-tools-java-decompilers/)
 * [Clojure, Faster – Tech blog](https://tech.redplanetlabs.com/2020/09/02/clojure-faster/)
+* [Railway oriented programming, clojure and exception handling: why and how? | by Yulia Kleb | AppsFlyer | Sep, 2020 | Medium](https://medium.com/appsflyer/railway-oriented-programming-clojure-and-exception-handling-why-and-how-89d75cc94c58)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
