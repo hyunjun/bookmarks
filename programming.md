@@ -373,6 +373,7 @@ Programming
 * [일을 더 잘하기 위한 애자일(Agile) 실천](https://medium.com/wantedjobs/%EC%9D%BC%EC%9D%84-%EB%8D%94-%EC%9E%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-agile-%EC%8B%A4%EC%B2%9C%ED%95%98%EA%B8%B0-7cb05994975b)
 * [일하지 않는 사람은 가라](https://www.popit.kr/%EC%9D%BC%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EA%B0%80%EB%9D%BC/)
 * [Agile Software in the Real World: Responding vs Planning](https://medium.com/swlh/agile-software-in-the-real-world-responding-vs-planning-ade5c2ee8692)
+* [포커, 어디까지 쳐봤니 – 서비스 개발에 플래닝 포커 도입 사례 (feat. 원격근무) – tech.kakao.com](https://tech.kakao.com/2020/09/08/planning-poker/)
 * [차세대, 리팩토링 그리고 애자일](https://www.popit.kr/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [Spotify의 Squad 팀 모델은 실패였다](https://news.hada.io/topic?id=2191)
 * [Spotify’s Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)
