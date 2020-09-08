@@ -336,6 +336,7 @@ Python
 * [10 Smooth Python Tricks For Python Gods | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/10-smooth-python-tricks-for-python-gods-2e4f6180e5e3)
 * [Write Better Python Code With These 10 Tricks | by Yong Cui, Ph.D. | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/write-better-python-code-with-these-10-tricks-30b7018e247a)
 * [Python One-Liners Playlist - YouTube](https://www.youtube.com/playlist?list=PLbo6ydLr984aS6A2_vNNLtX_1_MbGMTU9)
+* [What are some one liners in Python that would take a hundred in C? - Quora](https://www.quora.com/What-are-some-one-liners-in-Python-that-would-take-a-hundred-in-C)
 * [18 Python scripts that help you write code faster](https://morioh.com/p/4f4b74ba17cc)
 * [Pythonic Code, By Example](https://www.youtube.com/watch?v=o0LohkA3UR4)
 * [TIL - How to Python "pythonically"](https://velog.io/@seob/TIL-How-to-Python-pythonically)
