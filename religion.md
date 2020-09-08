@@ -118,6 +118,7 @@ Religion
 * [한국인은 선민이 아니다](https://1000oaks.blog.me/221329749608)
 * [김삼환 찾아간 제작진 폭행당하다](https://youtu.be/9vsHowX94LA)
 * ['정교유착' 전광훈, 직통계시·예언 등으로 이단성 드러내는 이유](http://www.logosian.com/news/articleView.html?idxno=426)
+* [교회의 변태적 정치 참여... 전광훈이 꿈꾸는 나라의 실체 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/Event/Premium/at_pg.aspx?CNTN_CD=A0002672650)
 
 ## 성소수자
 * [성서의 레위기는 과연 동성애 혐오를 나타내는가?](http://ppss.kr/archives/44947)
