@@ -295,6 +295,8 @@ PyTorch
   * [matorage documentation — matorage 0.1.0 documentation](https://matorage.readthedocs.io/en/stable/)
 * [MMDetection - Open MMLab Detection Toolbox and Benchmark](https://github.com/OPEN-MMLAB/MMDETECTION)
   * 2018년, COCO Detection Challenge를 우승한 MMDet 팀이 작성한 코드베이스를 확장하여, 현존하는 대부분의 Object Detection 모델을 구현한 toolbox
+* [opacus: Training PyTorch models with differential privacy](https://github.com/pytorch/opacus)
+  * [Introducing Opacus: A high-speed library for training PyTorch models with differential privacy](https://ai.facebook.com/blog/introducing-opacus-a-high-speed-library-for-training-pytorch-models-with-differential-privacy)
 * [paragraph-vectors - A PyTorch implementation of Paragraph Vectors (doc2vec)](https://github.com/inejc/paragraph-vectors)
 * PyCUDA
   * [Deep-Learning-Boot-Camp/day02-PyTORCH-and-PyCUDA/PyCUDA](https://github.com/QuantScientist/Deep-Learning-Boot-Camp/tree/master/day02-PyTORCH-and-PyCUDA/PyCUDA)
