@@ -120,6 +120,7 @@ Artificial Intelligence
 * [Probabilistic Models of Cognition](https://probmods.org/v2/) 사람의 사고 방식을 확률적 프로그래밍을 통해 설명하는 인지 확률 모델링에 대한 책
 * [Game AI Pro 3: Call for Proposals](http://www.gameaipro.com/)
 * [Artificial Intelligence and Games](http://gameaibook.org/)
+* [Huge List of Free Artificial Intelligence, Machine Learning, Data Science & Python E-Books](https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html)
 
 # Library
 * [AI•ON: AI Open Network](https://tensorflowkorea.wordpress.com/2016/10/19/ai%E2%80%A2on-ai-open-network/)
