@@ -1469,6 +1469,7 @@ NLP
 * [Natural Language Processing Tutorial for Deep Learning Researchers](https://github.com/graykode/nlp-tutorial) pytorch
 * [Tutorial: Natural Language Processing (NLP) in Python - From Zero to Hero](https://us.pycon.org/2020/schedule/presentation/49/)
 * [Natural Language Processing using TensorFlow: From Zero To Hero](https://morioh.com/p/c5c4a6aae0d5)
+* [Ben Batorsky - Introduction to Natural Language processing | PyData Boston May Meetup - YouTube](https://www.youtube.com/watch?v=2EIzR5DwOg0)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
