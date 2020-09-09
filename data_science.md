@@ -512,6 +512,7 @@ Data Science
 * [**Accelerator**](https://github.com/eBay/accelerator) 단일 시스템에서 테라바이트 단위의 데이터를 고속 처리를 하도록 설계된 eBay에서 개발한 오프소스 프레임워크
   * [accelerator-project_skeleton](https://github.com/eBay/accelerator-project_skeleton)
   * [Announcing the Accelerator](https://www.ebayinc.com/stories/blogs/tech/announcing-the-accelerator-processing-1-000-000-000-lines-per-second-on-a-single-computer/)
+* BlazingSQL(BSQL) [GPU-accelerated SQL and Data Science - Rodrigo Aramburu - YouTube](https://www.youtube.com/watch?v=Pu4dhJA8irU)
 * [dabl - the Data Analysis Baseline Library](https://amueller.github.io/dabl/dev)
   * [Doing Hard Things with Less Data; and Dabl: AutoML with a human in the loop - YouTube](https://www.youtube.com/watch?v=ntd68unD5TE)
 * datatable [An Overview of Python’s Datatable package](https://towardsdatascience.com/an-overview-of-pythons-datatable-package-5d3a97394ee9)
