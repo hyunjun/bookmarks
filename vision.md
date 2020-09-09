@@ -603,6 +603,7 @@ Vision
 * [Build, train, and evaluate an object detection model using ComputerVision Recipes - Microsoft Tech Community - 1497930](https://techcommunity.microsoft.com/t5/educator-developer-blog/build-train-and-evaluate-an-object-detection-model-using/ba-p/1497930)
 * [Optimal Peanut Butter and Banana Sandwiches | Ethan Rosenthal](https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/)
   * [개발자가 코로나로 재택근무하면 생기는 일(바나나 땅콩버터 샌드위치 AI) :: Aedi의 스마트라이프](https://smartaedi.tistory.com/389)
+* [Alyona Galyeva - Human-like Visual Search Application with Small Data | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=2l_WASP1_1A) Mask R-CNN, fast api
 * [albumentations - fast image augmentation library and easy to use wrapper around other libraries](https://github.com/albu/albumentations)
   * [Albumentations, an image augmentation library version 0.4 released. New augmentations, support for images and masks with more than 3 channels, "Hall of Fame" that contains a list of machine learning competitions in which the library was used](https://www.reddit.com/r/MachineLearning/comments/dibnqe/p_albumentations_an_image_augmentation_library/)
 * [Augmentor - an image augmentation library in Python for machine learning](https://github.com/mdbloice/Augmentor)
