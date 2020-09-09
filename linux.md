@@ -120,6 +120,7 @@ Linux
 * [Sandboxing and Workload Isolation · Fly](https://fly.io/blog/sandboxing-and-workload-isolation/)
 * [3차원 지구본을 콘솔에 그리기](https://jhrogue.blogspot.com/2020/08/5-3.html) pv, grep (GREP_COLORS)
 * [How Unix Works: Everything You Were Too Afraid to Ask | by Neil Kakkar | Better Programming | Medium](https://medium.com/better-programming/how-unix-works-everything-you-were-too-afraid-to-ask-f8396aeb2763)
+* [linuxupskillchallenge: Learn the skills required to sysadmin a remote Linux server from the commandline.](https://github.com/snori74/linuxupskillchallenge)
 
 # Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
