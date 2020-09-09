@@ -204,6 +204,7 @@
 
 # Tutorial
 * [The Rust Programming Language](http://doc.rust-lang.org/nightly/book/)
+* [The Rust Programming Language](https://rinthel.github.io/rust-lang-book-ko/) 한국어
 * [The Advanced Rust Programming Language](https://doc.rust-lang.org/nightly/adv-book/)
 * [A curated list of awesome Rust code and resources](https://github.com/kud1ing/awesome-rust)
 * ['The Rust Programming Language' E-Books](http://killercup.github.io/trpl-ebook/)
