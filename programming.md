@@ -1966,6 +1966,7 @@ Programming
 * [2020년 8월 30일 개발자 이야기](https://jhrogue.blogspot.com/2020/08/b-2020-8-30.html) C# 자바 속도 비교, AWS 과금 폭탄, 브라우저에 URL 입력할 때, 웹브라우저 고성능 AVIF 이미지 사용, 우버 PostgreSQL > MySQL, HTTP/2 업로드 속도가 HTTP/1.1보다 느리다면?, 그림판 코딩, 파워포인트 단축키
 * [2020년 9월 5일 개발자 이야기](https://jhrogue.blogspot.com/2020/09/b-2020-9-5.html) 오픈소스 비즈니스, 알아야하는 DB 지식, MySQL 커닝 페이퍼, 10가지 크롬 플래그, 반응형 웹 페이지 테스트 도구, IT 기업 기술 블로그, 윈도우 10 자동 실행 목록 보기
   * [(09/05) 웹 사이트 반응 속도가 왜 중요할까? - YouTube](https://www.youtube.com/watch?v=CbU5kgUL6uk)
+* [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
