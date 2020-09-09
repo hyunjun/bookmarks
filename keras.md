@@ -230,6 +230,7 @@ Keras
 * [conditional_gan.py](https://github.com/r0nn13/conditional-dcgan-keras/blob/master/conditional_gan.py)
 * [Elephas: Distributed Deep Learning with Keras & Spark](http://maxpumperla.github.io/elephas)
 * [Importance Sampling for Keras](http://idiap.ch/~katharas/importance-sampling/)
+* [Kapre — Keras Audio Preprocessors - compute STFT, InverseSTFT, Melspectrogram, and others on GPU real-time](https://kapre.readthedocs.io/)
 * [keras-bert - Implementation of BERT that could load official pre-trained models for feature extraction and prediction](https://github.com/CyberZHG/keras-bert)
 * [keras-inception-resnet-v2](https://github.com/myutwo150/keras-inception-resnet-v2)
 * [Keras Project Template - A project template to simplify building and training deep learning models using Keras](https://github.com/Ahmkel/Keras-Project-Template)
