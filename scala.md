@@ -1718,3 +1718,4 @@ Scala
 * [Scala - YouTube](https://www.youtube.com/playlist?list=PL1NS3pe5mmu0n6Jexj8olPoiq1Jxo_Wnv) 기초X 중급
 * [10 TIPS TO WRITE FAST STACK-SAFE FUNCTIONAL CODE IN SCALA - Christophe Calvès | Scalar 2020 - YouTube](https://www.youtube.com/watch?v=UTVhPjs_XDA)
 * [John De Goes - 12 Steps To Better Scala (Part I) - YouTube](https://www.youtube.com/watch?v=71yhnTGw0hY)
+* [A FUNCTIONAL SCALA STACK FOR 2020 - Adam Warski | Scalar 2020 - YouTube](https://www.youtube.com/watch?v=DGlkap5kzGU)
