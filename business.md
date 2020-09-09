@@ -210,6 +210,7 @@ Business
 * [미국의 콜 문화](https://sungmooncho.com/2018/07/03/conference-call-culture/)
 * [Google Is Giving Away Its Best Tools for Managers Absolutely Free](https://www.inc.com/jessica-stillman/google-is-giving-away-its-best-tools-for-managers-.html)
 * [전략과 실행의 팩트체크](https://brunch.co.kr/@lunarshore/256)
+* [휴스턴 농구에는 왜 센터가 없을까](https://brunch.co.kr/@lunarshore/382) 패러다임 시프트
 * [회사에 꼭 필요한 5가지 유형](https://brunch.co.kr/@hyungsukkim/26)
 * [우리는 직장에 대해 말할 수 있는가?](https://brunch.co.kr/@hyungsukkim/17)
 * [공정한 평가라는 환상](https://brunch.co.kr/@hyungsukkim/18)
