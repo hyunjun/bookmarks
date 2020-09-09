@@ -276,6 +276,7 @@ Nomad & Remote
 * [싱가포르 공기업 직장인이 말하는 현지 이직 장점 5가지](https://www.youtube.com/watch?v=6H_Ct0DXIwQ)
 * [iOS 개발자 싱가폴 이직기](https://soojin.ro/blog/singapore)
 * [Cost of Living Calculator](https://www.edb.gov.sg/en/setting-up-in-singapore/cost-of-living-calculator.html)
+* [Expat Living Singapore - Your Guide For Moving To & Living In Singapore](https://expatliving.sg/)
 * [Income Tax Rates](https://www.iras.gov.sg/irashome/Individuals/Locals/Working-Out-Your-Taxes/Income-Tax-Rates/)
 * [싱가폴 연봉](https://senaland.blog.me/220961828467)
 * [michaelpage.com.sg/salary-guide](https://www.michaelpage.com.sg/salary-guide)
