@@ -84,6 +84,7 @@ Network
 * [An early look at HTTP/3](https://pgjones.dev/blog/early-look-at-http3-2019/)
 * [Experiment with HTTP/3 using NGINX and quiche](https://blog.cloudflare.com/experiment-with-http-3-using-nginx-and-quiche/)
 * [NGINX와 quiche로 HTTP/3 시험해 보기](https://blog.cloudflare.com/ko/experiment-with-http-3-using-nginx-and-quiche-ko/)
+* [HTTP 3 is Out and About!. Evolution of HTTP from HTTP 1 to HTTP 3 | by Anuradha Wickramarachchi | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/http-3-is-out-and-about-7c903f9aab9e)
 * [quiche의 CUBIC와 HyStart++ 지원](https://blog.cloudflare.com/ko/cubic-and-hystart-support-in-quiche-ko/)
 * [Introducing a Technology Preview of NGINX Support for QUIC and HTTP/3 - NGINX](https://www.nginx.com/blog/introducing-technology-preview-nginx-support-for-quic-http-3/)
 * [http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers](https://github.com/for-GET/http-decision-diagram)
