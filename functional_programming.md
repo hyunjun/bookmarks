@@ -372,6 +372,7 @@ Functional Programming
 * [More Algebra of Algebraic Data Types](https://about.chatroulette.com/posts/algebraic-data-types-2/)
 * [Functional Scala - Introduction to Interruption by Jakub Kozlowski - YouTube](https://www.youtube.com/watch?v=EQWAQF6Yj5Q)
 * [f(by) 2020: A functional Scala stack for 2020, Adam Warski - YouTube](https://www.youtube.com/watch?v=DKO9DQ3jZa0) Scala, http4s, tapir, monix, doobie: a solid basis for backend applications
+* [Anatolii Kmetiuk at #ScalaUA - An argument against functional programming - YouTube](https://www.youtube.com/watch?v=TBfhTtQngnk) immutability, purity, category theory
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
