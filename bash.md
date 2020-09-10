@@ -92,6 +92,8 @@ Shell
   * [쉡 스크립트 반복문 (while)](http://qnfmfmd.tistory.com/181)
 
 # Library
+* [abs | Home of the ABS programming language: the joy of shell scripting.](https://www.abs-lang.org/)
+  * [Introducing ABS, a programming language for shell scripting | by Alex Nadalin | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/introducing-abs-a-programming-language-for-shell-scripting-dfbd737d621)
 * [aviary.sh: Minimal distributed configuration management in bash](https://github.com/team-video/aviary.sh)
 * [bashhub - Bash History in the Cloud](https://bashhub.com/)
 * [Bash Infinity - a standard library and a boilerplate framework for writing tools using bash](https://github.com/niieani/bash-oo-framework)
