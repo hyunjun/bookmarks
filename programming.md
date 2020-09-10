@@ -589,6 +589,7 @@ Programming
   * [집합 연관 캐시(Set-Associative Cache)의 구조 및 동작 원리](https://kkamagui.tistory.com/917)
   * [HTTP Caching에 대해서 정리해 봅니다](https://developer88.tistory.com/319)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
+* [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
 * [애플리케이션 아키텍처와 객체지향 by 조영호 - 참석 후기](https://jojoldu.tistory.com/346)
 * [Web Architecture 101](https://engineering.videoblocks.com/web-architecture-101-a3224e126947)
