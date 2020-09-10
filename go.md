@@ -286,6 +286,7 @@ Go
   * [Golang database/sql 패키지 삽질기 - 2편 SQLite 메모리 데이터베이스](https://www.popit.kr/golang-databasesql-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%82%BD%EC%A7%88%EA%B8%B0-2%ED%8E%B8-sqlite-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/)
   * [Golang database/sql 패키지 삽질기 - 3편 커넥션 풀](https://www.popit.kr/golang-databasesql-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%82%BD%EC%A7%88%EA%B8%B0-3%ED%8E%B8-%EC%BB%A4%EB%84%A5%EC%85%98-%ED%92%80)
   * [Testing database interactions using Go](https://medium.com/@romanyx90/testing-database-interactions-using-go-d9512b6bb449)
+  * [Backend #6 A clean way to implement database transaction in Golang - YouTube](https://www.youtube.com/watch?v=gBh__1eFwVI)
 * defer
   * [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff)
   * [5 Gotchas of Defer in Go — Part I](https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01)
