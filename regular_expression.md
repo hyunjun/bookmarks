@@ -52,6 +52,7 @@ Regular Expression
 * [Email Address Regular Expression That 99.99% Works. Disagree? Join discussion!](https://emailregex.com/)
 * [5분 따라하기 전화번호와 이메일 정규표현식](http://jhrogue.blogspot.com/2020/04/5.html)
 * [**불규칙 속에서 규칙을 찾아내는 정규표현식 | Evan's Tech Blog**](https://evan-moon.github.io/2020/07/24/about-regular-expression/)
+* [TIL 정규표현식에 관하여 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/about-regex/)
 
 # C++
 * [정규 표현식](http://jiniya.net/ng/2017/11/regex/)
