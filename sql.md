@@ -597,6 +597,7 @@ SQL
 * [Why We Switched From MongoDB to PostgresSQL](https://amasad.me/gpt_post)
 * [PSQL TIMESTAMP/AT TIME ZONE 바로 알기 · Billo Park](https://blog.billo.io/devposts/psql_at_time_zone/)
 * [Handling NULL Values in PostgreSQL - Percona Database Performance Blog](https://www.percona.com/blog/2020/03/05/handling-null-values-in-postgresql/)
+* [PostgreSQL의 슬로우 쿼리에 대처하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/31/improve-slow-query.html)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
