@@ -544,6 +544,7 @@ Vision
 * [대체 몇번을 다시 하는 거야 - openCV로 유튜버의 켠왕 도전 횟수 계산하기](https://data101.oopy.io/387e22f0-f6b3-456d-bb26-2798c35acdbc)
 * [An Implementation of Robust Matting Algorithm](http://wangchuan.github.io/archive/projects/robust-matting/)
 * [LEARN OPENCV in 3 HOURS with Python | Including 3x Example Projects (2020) - YouTube](https://www.youtube.com/watch?v=WQeoO7MI0Bs)
+* [FACE RECOGNITION + ATTENDANCE PROJECT | OpenCV Python (2020) - YouTube](https://www.youtube.com/watch?v=sz25xxF_AVE)
 * [genetic-drawing: A genetic algorithm toy project for drawing](https://github.com/anopara/genetic-drawing)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
 
