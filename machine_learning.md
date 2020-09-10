@@ -1035,6 +1035,7 @@ Machine Learning
   * [머신러닝 입문 영상 - YouTube](https://www.youtube.com/watch?v=9YKDtzhmFk8)
   * [The Simplest Introduction to Basic Machine Learning](https://docs.google.com/presentation/d/1in-VlWD43cWzw60duQ4GdkkmTRhIooSy7oVwhL82NpU)
 * [Machine Learning University - YouTube](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw)
+* [Machine Learning Full Course | Learn Machine Learning | Machine Learning Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=9f-GarcDY58)
 
 # Python
 * [**Bare bones Python implementations of Machine Learning models and algorithms.  Aims to cover everything from Data Mining techniques to Deep Learning**](https://github.com/eriklindernoren/ML-From-Scratch)
