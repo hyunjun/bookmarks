@@ -1454,6 +1454,7 @@ Scala
   * [Functional Scala - Practical Logic(al) Programming with Dotty by Lander Lopez](https://www.youtube.com/watch?v=gEmDyJmwx8Y)
   * [A Beginner's Guide to Scala 3.0](https://blog.knoldus.com/a-beginner-guide-to-scala-3-0/)
   * [quick note on dotty, graaljs interop: structural typing with Selectable](https://appddeevvmeanderings.blogspot.com/2020/06/quick-note-on-dotty-graaljs-interop.html)
+  * [RJUG #20 : Scala for the People (again)! Simpler coding with Scala 3/Dotty by Mikołaj Koziarkiewicz - YouTube](https://www.youtube.com/watch?v=BMFrBf7QtDA)
 * [Fury - an experimental dependency manager and build tool for Scala](https://github.com/propensive/fury)
   * [Fury - an experimental dependency manager and build tool for Scala](https://fury.build/)
   * [Jon Pretty - The Future of Scala](https://www.youtube.com/watch?v=KEhGfpRpSOg)
