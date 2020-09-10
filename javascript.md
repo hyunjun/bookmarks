@@ -3019,6 +3019,7 @@ Javascript
 * [Daily Study Logging46 - 타입스크립트, Instance Method Modifiers | Hama Develop](https://www.hamadevelop.me/dailyblogging46/)
 * [한눈에 보는 타입스크립트(updated) | HEROPY](https://heropy.blog/2020/01/27/typescript/)
 * [The TypeScript 4.0 Beta Is Here. Let's explore exciting features in… | by Chameera Dulanga | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/the-typescript-4-0-beta-is-here-c243358fe361)
+* [TypeScript enum을 사용하지 않는 게 좋은 이유를 Tree-shaking 관점에서 소개합니다. - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/typescript-enum-tree-shaking/)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
 * [foam: A personal knowledge management and sharing system for VSCode](https://github.com/foambubble/foam)
