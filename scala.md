@@ -813,6 +813,7 @@ Scala
     * [unapply.scala](https://gist.github.com/linasm/003eec9eacc641167227193f5879bbd9)
 * underscore
   * [변수를 사용하기 위한 underscore](http://knight76.tistory.com/entry/scala-%EC%B4%88%EA%B8%B0%ED%99%94%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%B3%80%EC%88%98%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-underscore)
+  * [Rock the JVM | Underscores are Overloaded in Scala!](https://rockthejvm.com/blog/217450/underscores)
 
 # Architecture
 * [Importance of Plugin-based Architecture on SCALA](https://medium.com/@4waytechnologies01/importance-of-plugin-based-architecture-on-scala-7d4f7e3a4277)
@@ -1341,6 +1342,7 @@ Scala
 * [Tagless Final - Part 7 - delivery (The Big Rewrite - Part 3) - YouTube](https://www.youtube.com/watch?v=7OL8tSF0yZU)
 * [Tagless Final - Part 8.1 - main (The Big Rewrite - Part 4.1) - YouTube](https://www.youtube.com/watch?v=RuhV-Q9sLSo)
 * [Tagless Final - Part 8.2 - main (The Big Rewrite - Part 4.2) - YouTube](https://www.youtube.com/watch?v=O_REJhViiI4)
+* [Tagless Final - Part 9 - persistence-postgres-skunk (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=J5I_HEUKsF0)
 * [Scala 3 - TF related improvements (mostly #implicits) - YouTube](https://www.youtube.com/watch?v=0MPfFBctWUc)
 
 # Monoids
@@ -1473,6 +1475,7 @@ Scala
 * [Part 1: Using akka and react to organize your single page scala.js application – Hernansote’s Blog](https://randomthroughtsfromnowhere.com/2020/06/25/part-1-using-akka-and-react-to-organize-your-single-page-scala-js-application/)
 * [Part 2: The SMAkkaR.js Stack- Using monocle and akka to facilitate model and component reusability in a react scala.js application – Hernansote’s Blog](https://randomthroughtsfromnowhere.com/2020/06/26/part-2-using-monocle-and-akka-to-facilitate-model-and-component-reusability-in-a-react-scala-js-application/)
 * [Scala, React, and SSR (part 1) | ShipReq Blog](https://blog.shipreq.com/post/scala_react_and_ssr_part_1)
+* [Scala, React, and SSR (part 2) | ShipReq Blog](https://blog.shipreq.com/post/scala_react_and_ssr_part_2)
 * [ScalablyTyped - The Javascript ecosystem for Scala.js!](https://github.com/oyvindberg/ScalablyTyped)
 
 # TDD, Test
