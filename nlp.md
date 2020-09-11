@@ -418,6 +418,8 @@ NLP
 * [publicservant_AI](https://github.com/kimwoonggon/publicservant_AI)
 * [Movie Reviews with bert-for-tf2 on TPU.ipynb - Colaboratory](https://colab.research.google.com/github/kpe/bert-for-tf2/blob/master/examples/tpu_movie_reviews.ipynb)
 * [BERT for Sentiment Analysis on Sustainability Reporting](https://www.infoq.com/presentations/bert-sentiment-analysis/)
+* [Colab에서 TPU로 BERT 처음부터 학습시키기 - Tensorflow/Google ver. - Beomi's Tech blog](https://beomi.github.io/2020/02/26/Train-BERT-from-scratch-on-colab-TPU-Tensorflow-ver/)
+  * [공개용 Colab에서 TPU로 KcBERT 처음부터 Pretrain하기 with Korpora - Colaboratory](https://colab.research.google.com/drive/1lYBYtaXqt9S733OXdXvrvC09ysKFN30W)
 
 # Book
 * [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)
