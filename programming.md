@@ -777,6 +777,7 @@ Programming
   * [3편 TCC Confirm(Eventual Consistency)](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-3%ED%8E%B8-tcc-confirmeventual-consistency/)
   * [4편 REST Retry](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-4%ED%8E%B8-rest-retry/)
 * [Eventual Consistency isn’t for Streaming – Materialize](https://materialize.io/eventual-consistency-isnt-for-streaming/)
+* [결과적 일관성인가? 최종적 일관성인가? | Popit](https://www.popit.kr/%ea%b2%b0%ea%b3%bc%ec%a0%81-%ec%9d%bc%ea%b4%80%ec%84%b1%ec%9d%b8%ea%b0%80-%ec%b5%9c%ec%a2%85%ec%a0%81-%ec%9d%bc%ea%b4%80%ec%84%b1%ec%9d%b8%ea%b0%80)
 * [대용량 환경에서 그럭저럭 돌아가는 서비스 만들기](https://www.popit.kr/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EA%B7%B8%EB%9F%AD%EC%A0%80%EB%9F%AD-%EB%8F%8C%EC%95%84%EA%B0%80%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [From Monolith to Microservices at Grab (aka Go for Grab)](https://www.youtube.com/watch?v=HrTt_C-2VGY)
 * [Using API Gateways to Facilitate Your Transition from Monolith to Microservices](https://blog.getambassador.io/using-api-gateways-to-facilitate-your-transition-from-monolith-to-microservices-5e630da24717)
