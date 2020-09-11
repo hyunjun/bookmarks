@@ -1558,6 +1558,7 @@ Scala
 * [Generalized Algebraic Data Types example in Scala](https://github.com/chrilves/gadt.scala)
   * [PROVING PRIMALITY WITH GADTS](https://chrilves.github.io/posts/prime/)
 * [Algebraic Data Types and Its Generic Presentation In Scala](https://levelup.gitconnected.com/algebraic-data-types-and-its-generic-presentation-in-scala-d2c1ce7740fe)
+* [Far more than you've ever wanted to know about ADTs](https://nrinaudo.github.io/far-more-adt) Enumeration, DSL, Option
 * [Typelevel Ecosystem Posted on](https://partialflow.wordpress.com/2017/11/03/typelevel-ecosystem/)
 * [Mechanics of unboxed union types in Scala](https://virtuslab.com/blog/mechanics-unboxed-union-types-scala/)
 * [Returning the "Current" Type in Scala](http://tpolecat.github.io/2015/04/29/f-bounds.html)
