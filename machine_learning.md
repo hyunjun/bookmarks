@@ -683,6 +683,8 @@ Machine Learning
 * [9 Best Machine Learning & Artificial Intelligence Books To Read In 2020](https://nextotech.com/9-best-ai-machine-learning-books-to-read-in-2020/)
 * [Free Book: A Comprehensive Guide to Machine Learning (Berkeley University) - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/free-book-a-comprehensive-guide-to-machine-learning-berkeley)
 * [Machine Learning Engineering book by Andriy Burkov](http://www.mlebook.com/wiki/doku.php)
+* [존헐 교수 머신러닝 인 비지니스](https://brunch.co.kr/@gauss92tgrd/13)
+  * [www-2.rotman.utoronto.ca/~hull/Second edition Online Files/index2ndEd.html](https://www-2.rotman.utoronto.ca/~hull/Second%20edition%20Online%20Files/index2ndEd.html)
 
 # C++
 * [mlpack: a scalable C++ machine learning library](https://github.com/mlpack/mlpack)
