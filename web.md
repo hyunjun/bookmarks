@@ -238,6 +238,7 @@ Web
 * [2018 데이터야놀자 웹크롤링 좀 더 잘하기](https://www.slideshare.net/wangwonLee/2018-datayanolja-moreeffectivewebcrawling)
 * [Web scraping for web developers: a concise summary](https://medium.freecodecamp.org/web-scraping-for-web-developers-a-concise-summary-3af3d0ca4069)
 * [Bot detection 101: How to detect web bots?](https://antoinevastel.com/javascript/2020/02/09/detecting-web-bots.html)
+* [구글 시트를 이용해 10분만에 만든 김영민 교수님 글 모음 (웹크롤링) - Financial Freedom](https://financialfreedom.kr/2020/09/10/kimyoungmins-column-list-by-google-sheet/) google sheet의 importxml 이용
 * [Common Crawl - We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone](https://commoncrawl.org/)
   * [Basic Statistics of Common Crawl Monthly Archives](https://github.com/commoncrawl/cc-crawl-statistics)
 
