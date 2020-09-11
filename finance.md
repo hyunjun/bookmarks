@@ -189,6 +189,7 @@ Finance
 * [IBEX 35 portfolio recommendation](https://github.com/sgarciapuga/capstone_projects/blob/master/Analyze_Financial_Data/Ibex35_Capstone_Project.ipynb)
 * [Dynamic Fee Mechanism Simulation with Reinforcement Learning](https://medium.com/decon-simulation/dynamic-fee-mechanism-simulation-with-reinforcement-learning-6d15951dec05)
 * [OpenDartReader 금융감독원 전자공시 시스템의 "Open DART"서비스 API를 손쉽게 사용할 수 있도록 돕는 오픈소스 라이브러리](https://github.com/FinanceData/OpenDartReader)
+  * [OpenDartReader - 비상장 기업 데이터 조회와 활용 jupyter](https://nbviewer.jupyter.org/gist/FinanceData/12440c298682c44758e4789909a3f333)
 * [유용한 파이썬 금융 데이터 수집 라이브러리 추천](https://stock79.tistory.com/376)
 * [Best 5 free stock market APIs in 2020](https://towardsdatascience.com/best-5-free-stock-market-apis-in-2019-ad91dddec984)
 * [How to Build a Data Pipeline with the TD Ameritrade Python API Library](https://www.youtube.com/watch?v=icLy0glrovc)
