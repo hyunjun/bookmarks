@@ -282,6 +282,7 @@ NLP
 * [GPT-3의 다섯 가지 한계 – 핑퐁팀 블로그](https://blog.pingpong.us/gpt3-limit/)
 * [GPT-3 paper를 읽고 써보는 간략한 리뷰, Language Models are Few-Shot Learners](https://ai4nlp.tistory.com/11)
 * [대화형 인공지능(GPT-3) 한방에 이해하기 feat. 솔트룩스 이경일 대표 - YouTube](https://www.youtube.com/watch?v=LO1aa_1J_HE)
+* [The First Wave of GPT-3 Enabled Applications Offer a Preview of Our AI Future](https://www.infoq.com/articles/gpt3-enabled-applications/)
 * [minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training](https://github.com/karpathy/minGPT) 일종의 교육용 GPT
 * [I build my ideas #8 - 07/19/20 - I build my ideas from Jordan Singer](https://ibuildmyideas.substack.com/p/i-build-my-ideas-8-071920)
 * [Text generation with a Variational Autoencoder](https://nicgian.github.io/text-generation-vae/)
@@ -1153,6 +1154,7 @@ NLP
 * [Awesome Korean NLP Papers](https://github.com/papower1/Awesome-Korean-NLP-Papers)
 * [57 SUMMARIES OF MACHINE LEARNING AND NLP RESEARCH](http://www.marekrei.com/blog/paper-summaries/)
 * [100 Must-Read NLProc Papers](http://masatohagiwara.net/100-nlp-papers/)
+* [100-nlp-papers: 100 Must-Read NLP Papers](https://github.com/mhagiwara/100-nlp-papers)
 * [NLP papers](https://docs.google.com/spreadsheets/d/1phOGpz-ckF48yLHIW98cuqzR9cas5wXpEqoZi9r4WDI/edit#gid=0)
 * [Paper in Natural Laguage Processing](https://github.com/reniew/paper-in-natural-language-processing)
 * [Attention Is All You Need](https://www.notion.so/5944fbf370ab46b091eeb64453ac3af5)
