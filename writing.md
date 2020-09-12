@@ -31,6 +31,7 @@ Writing
 * [문서의 완성도를 평가하는 네 가지 관문](http://ppss.kr/archives/55379)
 * [기획에 집중하는 문서작성 5단계](http://ppss.kr/archives/59150)
 * [기획 의도를 충실히 담은 ‘요구 사항 정의서’ 작성법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/222626?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+ppss+%28%E3%85%8D%E3%85%8D%E3%85%85%E3%85%85%29)
+* [구글 프로덕트 매니저가 알려주는 기획서 작성 꿀팁](https://brunch.co.kr/@lulina724/26)
 * [비즈니스 글쓰기의 완성도를 높이는 간단한 팁 4가지](http://ppss.kr/archives/73972)
 * [영어로 논문쓰기 - 읽기 쓰기 통합 전략을 중심으로](http://www.slideshare.net/SungwooKim/ss-63986057)
 * [은하영웅전설 명언 모음](http://liebe.tistory.com/143)
