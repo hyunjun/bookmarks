@@ -280,6 +280,7 @@ Vision
 * [Tea Time! ☕️ Computer Vision #3: Recall, Precision, F1 and ROC, AUC - YouTube](https://www.youtube.com/watch?v=o1oTbRVVq-o)
 * [Real-time MOT(Multi-Object Tracker) 리뷰 | Note](https://ezobear.github.io/reatl-time,%20object%20trakcer/2020/09/01/MOT-post.html)
 * [색공간 HSV 색 공간을 활용해서 특정 색깔의 물체만 검출하기 (matlab 소스코드 포함) by b스카이비전](https://bskyvision.com/46)
+* [Computer Vision Recipes: Best Practices and Examples](https://www.kdnuggets.com/2020/09/computer-vision-recipes-best-practices-examples.html)
 
 # Book
 * [Hands-On Computer Vision with TensorFlow 2, published by Packt](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
