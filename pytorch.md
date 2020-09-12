@@ -57,6 +57,8 @@ PyTorch
 * [Fast.ai's software could radically democratize AI](https://www.zdnet.com/article/fast-ais-new-software-could-radically-democratize-ai/)
 * [Serving PyTorch Models on AWS Lambda with Caffe2 & ONNX](https://machinelearnings.co/serving-pytorch-models-on-aws-lambda-with-caffe2-onnx-7b096806cfac)
 * [PyTorch vs. TensorFlow: 1 month summary](https://medium.com/towards-data-science/pytorch-vs-tensorflow-1-month-summary-35d138590f9)
+* [PyTorch vs TensorFlow — spotting the difference](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)
+* [PyTorch vs Tensorflow for Your Python Deep Learning Project – Real Python](https://realpython.com/pytorch-vs-tensorflow/)
 * [PyTorch Neural Style Transfer Windows](http://blog.naver.com/atelierjpro/221115408033)
 * [Fast Style Transfer PyTorch Tutorial](https://hoya012.github.io/blog/Fast-Style-Transfer-Tutorial/)
 * [PyTorch Curve Fitting Test](http://blog.naver.com/atelierjpro/221116977134)
@@ -92,7 +94,6 @@ PyTorch
 * [pytorch-exercise](https://github.com/nmhkahn/pytorch-exercise)
 * [「PyTorchで学ぶニューラルネットワークと深層学習」サンプルコード集](https://qiita.com/KentFujii/items/50c7a111eb661cb41f47)
 * [Implementing word2vec in PyTorch (skip-gram model)](https://towardsdatascience.com/implementing-word2vec-in-pytorch-skip-gram-model-e6bae040d2fb)
-* [PyTorch vs TensorFlow — spotting the difference](https://towardsdatascience.com/pytorch-vs-tensorflow-spotting-the-difference-25c75777377b)
 * [Keras-Tensorflow-PyTorch: sample codes and simple speed comparison](https://gsarantitis.wordpress.com/2018/06/03/keras-tensorflow-pytorch-sample-codes-and-simple-speed-comparison/) pytorch가 가장 빠르다고 한 실험 정리인데 여러가지로 실험 자체를 신뢰할만하지는 않음. 그냥 참고
 * [Deep Learning Frameworks Speed Comparison](https://wrosinski.github.io/deep-learning-frameworks/)
 * [Code examples in pyTorch and Tensorflow for CS230](https://github.com/cs230-stanford/cs230-code-examples)
@@ -408,3 +409,4 @@ PyTorch
   * [pytorch-Deep-Learning/slides at master · Atcold/pytorch-Deep-Learning](https://github.com/Atcold/pytorch-Deep-Learning/tree/master/slides)
 * [파이토치, 어떻게 시작할까?··· 알짜배기 학습 정보 5가지  - CIO Korea](http://www.ciokorea.com/news/157473)
 * [how-to-read-pytorch: Quick, visual, principled introduction to pytorch code through five colab notebooks](https://github.com/davidbau/how-to-read-pytorch)
+* [파이토치(PyTorch) 튜토리얼에 오신 것을 환영합니다 — PyTorch Tutorials 1.6.0 documentation](https://tutorials.pytorch.kr/)
