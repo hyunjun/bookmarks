@@ -870,6 +870,7 @@ TensorFlow
   * [Face and hand tracking in the browser with MediaPipe and TensorFlow.js](https://morioh.com/p/d8eb41b1d365)
   * [Build a machine learning node for Node-RED using TensorFlow.js](https://morioh.com/p/ffa96ba2cfaf)
   * [Speech Recognition with TensorFlow.js](https://morioh.com/p/2c3567009de4)
+  * [TensorFlow.js로 브라우저에서 텐서플로우를 사용하는 방법 - ITWorld Korea](http://www.itworld.co.kr/news/163470)
   * [face-api.js](https://github.com/justadudewhohacks/face-api.js)
     * [face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07)
   * [Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code](https://hackernoon.com/handtrackjs-677c29c1d585)
