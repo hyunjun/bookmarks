@@ -406,6 +406,8 @@ Haskell
   * [Why is stack not cabal?](https://www.fpcomplete.com/blog/2015/06/why-is-stack-not-cabal)
 * [turtle embeds shell scripting directly within Haskell](http://hackage.haskell.org/package/turtle-1.0.0/docs/Turtle-Tutorial.html)
 * [Twilio IVR - A fluent Twilio IVR library for Haskell](https://github.com/steven777400/TwilioIVR/)
+* wai
+  * [Your First Haskell Web App With WAI And Warp by Michael Snoyman #FnConf19 - YouTube](https://www.youtube.com/watch?v=mz5_HmLGRXc)
 * [Yesod Web Framework](https://github.com/yesodweb)
   * [Basics of Yesod](https://www.schoolofhaskell.com/school/starting-with-haskell/libraries-and-frameworks/basics-of-yesod)
 * [Yi - Text editor written in Haskell](http://yi-editor.github.io/)
