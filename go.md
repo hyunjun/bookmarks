@@ -608,6 +608,7 @@ Go
 * [Revel - A high-productivity web framework for the Go language](https://revel.github.io)
 * [Top Go Web Frameworks](https://github.com/mingrammer/go-web-framework-stars)
 * [vugu.org - Build a web front-end in Go that runs in your browser, today](https://www.vugu.org)
+* [web-annie: Web interface for annie](https://github.com/Dictor/web-annie) golang + vue.js download manager
 
 # Websocket
 * [10M Concurrent Websockets](http://goroutines.com/10m)
