@@ -755,6 +755,7 @@ Clojure
 * [superv.async - extends core.async with error handling and includes a number of convenience functions and macros](https://github.com/replikativ/superv.async)
 * [task - Simple, functional and value-oriented concurrency primitives for Clojure](https://github.com/ane/task)
 * [TCP-Server](https://github.com/weavejester/tcp-server)
+* [tech.ml.dataset: Clojure dataframe library and pipeline for data processing and machine learning](https://github.com/techascent/tech.ml.dataset)
 * [thi.ng - An open source collection of 20+ computational design tools for Clojure & Clojurescript](http://thi.ng/)
 * [timbre - Pure Clojure/Script logging library https://www.taoensso.com](https://github.com/ptaoussanis/timbre)
 * [TinyClojure is a project to build a small, easily embeddable version of Clojure/ClojureScript in portable C++](https://github.com/WillDetlor/TinyClojure)
