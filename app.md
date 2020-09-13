@@ -524,6 +524,9 @@ App
       * [Python in Visual Studio Code – July 2020 Release | Python](https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2020-release)
       * [VS Code를 웹 상에 띄워놓고 어디서든 코딩하기](https://eungbean.github.io/2019/11/04/remote-vscode/)
     * teditor [인터넷 브라우저에서 코딩하기, Visual Studio Code, teditor :: 프즈](https://tolovefeels.tistory.com/56)
+    * vim
+      * [https://www.chrisatmachine.com/Neovim/22-vscodium-neovim/](https://www.chrisatmachine.com/Neovim/22-vscodium-neovim/)
+        * [VSCode with embedded Neovim - YouTube](https://www.youtube.com/watch?v=g4dXZ0RQWdw)
     * [vscode-realtime-debugging - An extension for VS Code that visualizes how a program is being executed in real time](https://github.com/hediet/vscode-realtime-debugging)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
