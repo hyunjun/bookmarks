@@ -95,6 +95,7 @@ Vim
   * [example of init.vim](https://gist.github.com/synasius/5cdc75c1c8171732c817)
   * [A guide to neovim](http://nerditya.com/code/guide-to-neovim/)
   * [A guide to modern Web Development with (Neo)vim](https://medium.freecodecamp.org/a-guide-to-modern-web-development-with-neo-vim-333f7efbf8e2)
+  * [Setup Neovim like an IDE - YouTube](https://www.youtube.com/watch?v=65Wq4fjREUU)
 * [vim plugin to interact with tmux](https://github.com/benmills/vimux)
 * [**What are the most amazing things that can be done with Vim?**](https://www.quora.com/What-are-the-most-amazing-things-that-can-be-done-with-Vim)
 * [Use Vim everywhere you've always wanted to](https://github.com/cknadler/vim-anywhere)
