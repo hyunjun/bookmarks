@@ -1645,6 +1645,7 @@ Deep Learning
   * [CS231n Generative Models (1) - AutoEncoder, Variational AutoEncoder(VAE)](https://ahjeong.tistory.com/2)
   * [CS231n Generative Models (2) - GAN](https://ahjeong.tistory.com/3)
   * [excelsior-cjh.tistory.com/category/DeepLearning/개념](https://excelsior-cjh.tistory.com/category/DeepLearning/%EA%B0%9C%EB%85%90)
+  * [CS231n Summary - TaeYoung’s Blog](https://taeyoung96.github.io/categories/CS231n/)
 * [Implementing a CNN for Text Classification in TensorFlow](http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow/)
 * [Case Study of Convolutional Neural Network](http://www.slideshare.net/nmhkahn/case-study-of-convolutional-neural-network-61556303)
 * [Must Know Tips/Tricks in Deep Neural Networks (by Xiu-Shen Wei)](http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html)
