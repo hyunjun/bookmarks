@@ -60,6 +60,7 @@ Game
   * [Project - Reinforcement Learning with Unity 3D: G.E.A.R](https://dtransposed.github.io/blog/GEAR.html)
   * [유니티 입문서](https://www.notion.so/7e6214c90c924a669fd1ddb3276d29ad)
   * [Unity DOTS DynamicBuffer 사용하기](https://snack.planetarium.dev/kor/2020/05/unity-dots-start-to-use-dynamic-buffer/)
+  * [**VS Code로 유니티 개발하기 (macOS 사용자를 위한 팁 포함)**](https://www.androidhuman.com/tip/2020/09/14/unity_with_vscode/) .NET Core SDK, Mono, VS Code C# Extension
 * Unreal
   * [NDC 17 - ‘언알못’이 언리얼엔진을 배우려면 어떻게 해야 돼요?](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=71531)
   * [Unity에서 Unreal로 갈아타자](https://www.slideshare.net/ddayinhwang9/unity-unreal-210095797)
