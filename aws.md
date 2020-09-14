@@ -409,6 +409,7 @@ AWS
 * [Github로 터미널에서 명령어 이용해 소스 올리기](https://developer88.tistory.com/297)
 * [AWS, 컨테이너 전용 리눅스 OS 보틀로켓(BottleRocket) 1.0 릴리스 | 44BITS](https://www.44bits.io/ko/post/news--aws-release-bottlerocket-os-for-container)
 * [The AWS Serverless LAMP Stack: the Future of PHP or Vendor Lock-in?](https://www.infoq.com/news/2020/07/aws-serverless-lamp/)
+* [(리눅스 업스킬 도전 #1) 서버에 접속해보자!](https://jhrogue.blogspot.com/2020/09/1_14.html)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
