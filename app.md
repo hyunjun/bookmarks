@@ -440,8 +440,6 @@ App
     * [Become The Shortcut Master — Chrome and Atom (Part 2)](https://hackernoon.com/become-the-shortcut-master-chrome-and-atom-part-2-c866150caa7)
     * [텍스트 에디터 Atom(아톰) 패키지 추천(Activate Power Mode)](https://webruden.tistory.com/81)
     * [The Ultimate Atom Editor Setup (+for JS/React)](https://medium.com/productivity-freak/my-atom-editor-setup-for-js-react-9726cd69ad20)
-  * Prettier
-    * [나중에 알면 후회한다. 코딩 인생템 'Prettier' (Useful VSC Extension: Prettier)](https://www.youtube.com/watch?v=ya78lQi5vVI)
   * VS Code, visual studio code
     * [VS Code 소개 및 설치방법](http://gomcine.tistory.com/entry/VS-Code-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0)
     * [Visual Studio Code를 파이썬 IDE 로 이용해 보기](http://mcchae.egloos.com/11262544)
@@ -504,6 +502,9 @@ App
       * [visual studio online tutorial | 사용법부터 장점과 단점까지 !](https://www.youtube.com/watch?v=HUhFSbwvloM)
       * [Visual Studio Online](https://visualstudio.microsoft.com/ko/services/visual-studio-online/)
         * [Bring your own machine to Visual Studio Online](https://devblogs.microsoft.com/visualstudio/bring-your-own-machine-to-visual-studio-online/)
+    * Prettier
+      * [나중에 알면 후회한다. 코딩 인생템 'Prettier' (Useful VSC Extension: Prettier)](https://www.youtube.com/watch?v=ya78lQi5vVI)
+      * [VScode Code Formater 인 Prettier 완벽 적용하기](https://uxgjs.tistory.com/150)
     * Python
       * [Building Python Web Applications with Visual Studio Code Docker and Azure - BRK3020](https://www.youtube.com/watch?v=eUitxqLxICo)
       * [Exploring an Alternative to Jupyter Notebooks for Python Development](https://pbpython.com/notebook-alternative.html)
