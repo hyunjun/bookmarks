@@ -616,6 +616,8 @@ Vision
 * [EasyOCR: Ready-to-use OCR with 40+ languages supported including Chinese, Japanese, Korean and Thai](https://github.com/JaidedAI/EasyOCR)
   * [master-easy-ocr-wook-2.endpoint.ainize.ai](https://master-easy-ocr-wook-2.endpoint.ainize.ai)
   * `curl -X POST "https://master-easy-ocr-wook-2.endpoint.ainize.ai/word_extraction" -H "accept: images/*" -H "Content-Type: multipart/form-data" -F "language=ko" -F "base_image=@<file name>.jpg;type=image/jpeg"` .jpg file이 있는 directory에서 실행
+* [efficientdet · google/automl](https://github.com/google/automl/tree/master/efficientdet)
+  * [Decoding: State Of The Art Object Detection | by Kb Pachauri | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/decoding-state-of-the-art-object-detection-99f79d97b75d)
 * [evanet - Evolving Space-Time Neural Architectures for Videos](https://github.com/google-research/google-research/tree/master/evanet)
   * [Video Architecture Search](https://ai.googleblog.com/2019/10/video-architecture-search.html)
 * [EXTD: Extremely Tiny Face Detector via Iterative Filter Reuse](https://github.com/clovaai/EXTD_Pytorch)
