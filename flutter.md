@@ -71,6 +71,7 @@ Flutter
 * [Flutter Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 * [Flutter Widget](https://www.youtube.com/playlist?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
 * [pythonkim.tistory.com/category/플러터](https://pythonkim.tistory.com/category/%ED%94%8C%EB%9F%AC%ED%84%B0)
+* [Flutter 강의 with Provider 그리고 Firebase - YouTube](https://www.youtube.com/watch?v=w1fmJOSsNyA)
 
 # Dart
 * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
