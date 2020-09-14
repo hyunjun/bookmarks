@@ -3481,6 +3481,7 @@ Python
 * [Data Analysis with Python: Part 2 of 6 - Python Functions and Working with Files (Live Course) - YouTube](https://www.youtube.com/watch?v=JOKJ6g3gUFE)
 * [Data Analysis with Python: Part 3 of 6 Numerical Computing with Numpy (Live Course) - YouTube](https://www.youtube.com/watch?v=NlZXAytUeeE)
 * [Data Analysis with Python: Part 4 of 6 - Analyzing tabular data with Pandas - YouTube](https://www.youtube.com/watch?v=b2mLDkMSyn4)
+* [Reading HTML tables with Pandas - Practical Business Python](https://pbpython.com/pandas-html-table.html)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
 * [swifter: A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner](https://github.com/jmcarpenter2/swifter)
