@@ -16,8 +16,6 @@ Linux
 * [Raw graphics output on Linux: Part 1](http://orangejuiceliberationfront.com/raw-graphics-output-on-linux-part-1/)
 * [Raw graphics output in Linux: Part 2](http://orangejuiceliberationfront.com/raw-graphics-output-in-linux-part-2/)
 * [unix - count of columns in file](http://stackoverflow.com/questions/8629330/unix-count-of-columns-in-file) `head -1 stores.dat | tr '|' '\n' | wc -l`
-* [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
-* [리눅스 배포판 선택, 고민되시나요? - 여기서 최상의 배포판을 골라 보세요](http://sergeswin.com/1056)
 * [UNIX 기본, 명령 그리고 관리](https://docs.com/sunnykwak/1556)
 * [All about Linux](https://brunch.co.kr/magazine/linux)
 * [Understanding the bin, sbin, usr/bin , usr/sbin split](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
@@ -122,9 +120,130 @@ Linux
 * [How Unix Works: Everything You Were Too Afraid to Ask | by Neil Kakkar | Better Programming | Medium](https://medium.com/better-programming/how-unix-works-everything-you-were-too-afraid-to-ask-f8396aeb2763)
 * [linuxupskillchallenge: Learn the skills required to sysadmin a remote Linux server from the commandline.](https://github.com/snori74/linuxupskillchallenge)
 
-# Archlinux
+# 배포판
+* [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
+* [리눅스 배포판 선택, 고민되시나요? - 여기서 최상의 배포판을 골라 보세요](http://sergeswin.com/1056)
+* [open source & open hardware | Customizer로 나만의 리눅스배포판을 만들자 - Daum 카페](http://cafe.daum.net/opensupport.xyz/qiAR/10)
+
+## 배포판 Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
 * [Arch Linux에서 커널 소스코드 다운로드 하는 법](http://kkamagui.tistory.com/898)
+
+## 배포판 CoreOS
+* [CoreOS : 설치부터 컨테이너 배포까지](http://www.slideshare.net/subicura/coreos-38279596)
+* [Managing CoreOS with Ansible](https://coreos.com/blog/managing-coreos-with-ansible/#inventory-setup)
+* [코어OS, 컨테이너 모니터링 도구 오픈소스로 공개](http://www.bloter.net/archives/243792)
+
+## 배포판 CrunchBang
+* [Linux Wireless](https://wireless.wiki.kernel.org/en/users/Drivers/b43)
+* [Crunchbang install post #1 (Enabling wireless)](https://jorickor.wordpress.com/2010/04/18/crunchbang-install-post-1-enabling-wireless/)
+* [MovingTheCtrlKey](https://www.emacswiki.org/emacs/MovingTheCtrlKey#toc20)
+  * swap caps lock <-> ctrl
+
+    ```
+    setxkbmap -option ctrl:swapcaps     # Swap Left Control and Caps Lock
+    setxkbmap -option ctrl:nocaps       # Make Caps Lock a Control key
+    ```
+
+## 배포판 Debian
+* [AutomaticPackagingTools](https://wiki.debian.org/AutomaticPackagingTools)
+* [How to use a WiFi interface](https://wiki.debian.org/WiFi/HowToUse#wpa_supplicant)
+* [How To Connect To A WPA Wifi Using Command Lines On Debian](https://www.howtoforge.com/how-to-connect-to-a-wpa-wifi-using-command-lines-on-debian)
+* [데비안(Debian)에서 최신 WIFI 드라이버 설치 방법](https://kkamagui.tistory.com/923)
+
+## 배포판 Fedora
+* [페도라(Fedora) 배포판 업그레이드 방법](http://kkamagui.tistory.com/900)
+* [A Month as a Fedora QA Tester](https://yisooan.wordpress.com/2019/03/28/a-month-as-a-fedora-qa-tester/)
+* [Fedora 리눅스 업그레이드 후 크롬의 한글 입력기 문제](https://sunyzero.tistory.com/267)
+
+## 배포판 Manjaro
+* [만자로 리눅스(Manjaro Linux)에서 한글 입력기(iBus) 설치하는 법](https://kkamagui.tistory.com/908)
+* [만자로(Manjaro) 리눅스에서 NVIDIA 드라이버 설치하기](https://kkamagui.tistory.com/909)
+* [만자로(Manjaro) 리눅스에 미러 서버(Mirror Server) 설정으로 패키지 설치 및 업데이트 속도 높이기](https://kkamagui.tistory.com/919)
+
+## 배포판 Redhat
+* [How to Enable EPEL Repository for RHEL/CentOS 7.x/6.x/5.x](http://www.tecmint.com/how-to-enable-epel-repository-for-rhel-centos-6-5/)
+* [How to Enable RPMForge Repository in RHEL/CentOS 7.x/6.x/5.x](http://www.tecmint.com/enable-rpmforge-repository/)
+* [Set up a static network connection in Linux](https://opensource.com/article/19/5/set-static-network-connection-linux)
+* libc.so
+  * 모든 리눅스 바이너리의 기본 라이브러리이기 때문에 쉘에서 벌어지는 모든 명령(fork 된 신규 프로세스)가 필요로하는 동적 라이브러리
+  * 절대 mv/ln 등으로 임의로 고쳐서는 안되는 파일
+  * 임의로 소스 빌드해서 cp로 덮어쓰거나 (만약 glibc compatible version 범위에 벗어나도 문제가 됨) mv로 이름을 바꾸면 안됨
+  * glibc의 경우 CentOS/RHEL 등에서 배포판 기준으로 잡힌 버전 (ex. 2.12)으로 고정되고 패치되는 형태이기 때문에 상위 버전으로 별도패키징해서 올리는게 아닌이상 일반 파일로 올리는 것은 위험
+  * 특정 어플리케이션 빌드 때 GLIBC 버전이 더 높게 필요하면 아래 예시처럼 다른 경로에 빌드해서 LD_LIBRARY_PATH 변수를 통해서 별도 라이브러리 링크로 처리
+
+    ```
+    $ tar zxvf glibc-2.24.tar.gz
+    $ cd glibc-2.24
+    $ mkdir build
+    $ cd build
+    $ ../configure --prefix=/opt/glibc-2.24
+    $ make
+    $ sudo make install
+    $ export LD_LIBRARY_PATH=/opt/glibc-2.24/lib
+    ```
+* [redhat7 When Root Password lost, How to configure Root PasswordC](http://naleejang.tistory.com/197)
+* [00. 리눅스(CentOS) 개발 놀이터 만들기 - 목차](http://cionman.tistory.com/16)
+* [**인터넷 접속이 안되는 CentOS 머신에서 Python3 및 패키지 설치하기**](https://lovetoken.github.io/python/2017/10/22/python3_install_on_CentOS_manually.html)
+* [CentOS 서브버전 서버 설치 및 설정 (svn)](https://zetawiki.com/wiki/CentOS_%EC%84%9C%EB%B8%8C%EB%B2%84%EC%A0%84_%EC%84%9C%EB%B2%84_%EC%84%A4%EC%B9%98_%EB%B0%8F_%EC%84%A4%EC%A0%95_(svn))
+* [CentOS7 리눅스 한글 입력기 설정](http://sunyzero.tistory.com/253)
+* [Scenario>Backup Script](https://developer-ankiwoong.tistory.com/533)
+* [How to install Simple Screen Record "Peek" on Rhel8](https://naleejang.tistory.com/220)
+* [CentOS가 Ubuntu 보다 더 안정적인 이유](https://rainofpainki.github.io/ubuntu_vs_centos/) 별로 설득력 있는 견해라고 생각이 들진 않지만 참고용으로 기록
+* [환경구성 CentOS Vmware 실습 환경 설정 - 1](https://developer-ankiwoong.tistory.com/1031)
+* service
+
+  ```
+  service --status-all | grep [name]
+  service [name] [status|start|stop|restart]
+  chkconfig --list
+  chkconfig [name] [on|off]
+  netstat -tulpn
+  ```
+  * [Red Hat / CentOS Check and List Running Services Linux Command](https://www.cyberciti.biz/faq/check-running-services-in-rhel-redhat-fedora-centoslinux/)
+* yum
+  * `yum info <package>`
+    * [`yumdb info <package>`](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-displaying_package_information)
+  * `yum [--disablerepo=dockerrepo] install git` 특정 repo에 오류가 있을 때 --disablerepo를 사용하면 동작
+
+    ```
+    ...
+    failure: repodata/repomd.xml from dockerrepo: [Errno 256] No more mirrors to try.
+    https://yum.dockerproject.org/repo/main/centos/7/repodata/repomd.xml: [Errno 14] HTTPS Error 404 - Not Found
+    ```
+  * `yum list available <package>`
+  * `yum update <package>`
+  * proxy
+    * [(RHEL) HOWTO define proxy setting for a specific repository in YUM](https://www.digrouz.com/mediawiki/index.php/(RHEL)_HOWTO_define_proxy_setting_for_a_specific_repository_in_YUM)
+    * `proxy=http://x.y.z.w:port`
+      * 전체 repository에 대해 proxy를 설정할 때는 /etc/yum.conf에 추가
+      * 개별 repository에 대해 proxy를 설정할 때는 /etc/yum.repos.d/some.repo의 각 항목마다 추가
+  * [Which yum variable can give 6 or 7 as output](https://stackoverflow.com/questions/35978202/which-yum-variable-can-give-6-or-7-as-output/35978695#35978695)
+* /tmp
+  * [프로젝트 출시 10일 후 새벽 4시에 발생한 장애의 원인](https://iamsang.com/blog/2017/05/27/server-failure-10-days-after-release/) /tmp directory 관련 내용
+
+## 배포판 Ubuntu
+* [16.04 설치후 세팅](http://programmingsummaries.tistory.com/389)
+* [Ubuntu 설치 후 초기 세팅하기](https://cupjoo.tistory.com/1)
+* [우분투 16 에 파이썬 3.6 설치 pip3.6 하고](http://hamait.tistory.com/917)
+* [Ubuntu 패키지 저장소 만들기](http://www.joinc.co.kr/w/man/12/deb)
+* [How To Install and Manage Supervisor on Ubuntu and Debian VPS](https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-supervisor-on-ubuntu-and-debian-vps)
+* `apt-cache search [package name]`
+* [10 Useful Utilities For Linux Users](https://www.unixmen.com/10-useful-utilities-linux-users/)
+* [PinguyBuilder를 이용해서 사용 중인 OS 설정 그대로 iso 파일 만들기](http://bagjunggyu.blogspot.com/2015/10/pinguybuilder-os-iso.html)
+* [24 Things I’ve Learned As A Software Developer Living On Ubuntu For A Weekish](https://hackernoon.com/24-things-learned-as-software-developer-on-ubuntu-for-a-weekish-5b7b0da5d4b5)
+* [우분투(Ubuntu)에서 신규 커널 설치 후 USB, WIFI가 동작하지 않을 때 해결 방법](http://kkamagui.tistory.com/901)
+* [우분투용 해킹 & 분석 도구 모음](http://hisjournal.net/blog/242)
+* [우분투 연말정산](https://logon.tistory.com/770)
+* [How to Install Nginx, MariaDB and PHP7 (LEMP Stack) on Ubuntu 16.04 LTS](https://www.linuxbabe.com/linux-server/install-nginx-mariadb-php7-lemp-stack-ubuntu-16-04-lts)
+* [우분투 resolv.conf 세팅 정리 - 완두블로그](https://wani.kr/posts/2017/03/22/ubuntu-resolvconf-settings-summary/)
+* [Ubuntu 꼴랑이거(1) - 서버 시간이 차이가 날때.. - 완두블로그](https://wani.kr/posts/2015/04/23/ubuntu-something-1-time/)
+* [Ubuntu를 업그레이드 해보자 - 완두블로그](https://wani.kr/posts/2015/01/30/ubuntu-upgrade-12-to-14/)
+* [Ubuntu 20.04에서 sshfs 를 이용한 원격 폴더 마운트](https://kibua20.tistory.com/49)
+* [우분투로 자바스크립트 개발하기 — 1. Intro. 우분투로 자바스크립트를 개발하고 싶어하는 개발 입문자들을 위한… | by Hong Shik Branden Kim | 코드스테이츠 Code States — 혁신적인 코딩 교육 부트캠프 | Medium](https://medium.com/code-states/%EC%9A%B0%EB%B6%84%ED%88%AC%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-1-intro-d1d9b6533e05)
+* [우분투로 자바스크립트 개발하기 — 2. 개발환경 세팅하기. 우분투로 자바스크립트를 개발하고 싶어하는 입문자들을 위한 글입니다… | by Hong Shik Branden Kim | 코드스테이츠 Code States — 혁신적인 코딩 교육 부트캠프 | Medium](https://medium.com/code-states/%EC%9A%B0%EB%B6%84%ED%88%AC%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-2-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-9f8becea9e05)
+* [우분투로 자바스크립트 개발하기 — 3. FAQ / 도움되는 글 링크 | by Hong Shik Branden Kim | 코드스테이츠 Code States — 혁신적인 코딩 교육 부트캠프 | Medium](https://medium.com/code-states/%EC%9A%B0%EB%B6%84%ED%88%AC%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-3-faq-%EB%8F%84%EC%9B%80%EB%90%98%EB%8A%94-%EA%B8%80-%EB%A7%81%ED%81%AC-fb132d06b44c)
+* [Ubuntu20에서 가상환경으로 python3.6 이용하기 - RomanticQ의 머신러닝](https://romanticq.github.io/%EC%9A%B0%EB%B6%84%ED%88%AC/ubuntu-virtualenv/)
 
 # Book
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)
@@ -595,33 +714,6 @@ Linux
 * [smtp-cli — command line SMTP client](https://github.com/mludvig/smtp-cli) CentOS7에서 test 해봤지만 실패
 * smtplib -> python
   
-# CoreOS
-* [CoreOS : 설치부터 컨테이너 배포까지](http://www.slideshare.net/subicura/coreos-38279596)
-* [Managing CoreOS with Ansible](https://coreos.com/blog/managing-coreos-with-ansible/#inventory-setup)
-* [코어OS, 컨테이너 모니터링 도구 오픈소스로 공개](http://www.bloter.net/archives/243792)
-
-# CrunchBang
-* [Linux Wireless](https://wireless.wiki.kernel.org/en/users/Drivers/b43)
-* [Crunchbang install post #1 (Enabling wireless)](https://jorickor.wordpress.com/2010/04/18/crunchbang-install-post-1-enabling-wireless/)
-* [MovingTheCtrlKey](https://www.emacswiki.org/emacs/MovingTheCtrlKey#toc20)
-  * swap caps lock <-> ctrl
-
-    ```
-    setxkbmap -option ctrl:swapcaps     # Swap Left Control and Caps Lock
-    setxkbmap -option ctrl:nocaps       # Make Caps Lock a Control key
-    ```
-
-# Debian
-* [AutomaticPackagingTools](https://wiki.debian.org/AutomaticPackagingTools)
-* [How to use a WiFi interface](https://wiki.debian.org/WiFi/HowToUse#wpa_supplicant)
-* [How To Connect To A WPA Wifi Using Command Lines On Debian](https://www.howtoforge.com/how-to-connect-to-a-wpa-wifi-using-command-lines-on-debian)
-* [데비안(Debian)에서 최신 WIFI 드라이버 설치 방법](https://kkamagui.tistory.com/923)
-
-# Fedora
-* [페도라(Fedora) 배포판 업그레이드 방법](http://kkamagui.tistory.com/900)
-* [A Month as a Fedora QA Tester](https://yisooan.wordpress.com/2019/03/28/a-month-as-a-fedora-qa-tester/)
-* [Fedora 리눅스 업그레이드 후 크롬의 한글 입력기 문제](https://sunyzero.tistory.com/267)
-
 # GCC
 * `yum update -y && yum clean all && yum groupinstall "Development Tools" -y` [CentOS / RHEL 7: Install GCC (C and C++ Compiler) and Development Tools](http://www.cyberciti.biz/faq/centos-rhel-7-redhat-linux-install-gcc-compiler-development-tools/)
 * `apt-get update && apt-get install -y build-essential` [How to Install Development Tools on Ubuntu, Debian & LinuxMint](http://tecadmin.net/install-development-tools-on-ubuntu/)
@@ -733,11 +825,6 @@ Linux
 * [xrdp - an open source RDP server](https://github.com/neutrinolabs/xrdp)
 * [zindex - Create an index on a compressed text file](https://github.com/mattgodbolt/zindex)
 
-# Manjaro
-* [만자로 리눅스(Manjaro Linux)에서 한글 입력기(iBus) 설치하는 법](https://kkamagui.tistory.com/908)
-* [만자로(Manjaro) 리눅스에서 NVIDIA 드라이버 설치하기](https://kkamagui.tistory.com/909)
-* [만자로(Manjaro) 리눅스에 미러 서버(Mirror Server) 설정으로 패키지 설치 및 업데이트 속도 높이기](https://kkamagui.tistory.com/919)
-
 # Memory
 * Buffer and Cache
   * Buffer; optimize for block IO. metadata, data stream such as moving Youtube slider. once used, can't use it again.
@@ -804,67 +891,6 @@ Linux
 * [svsh - Take control of your supervisor](http://ido50.github.io/Svsh/)
 * [vnstat - Track and Log a Linux Server's Bandwidth Use](http://www.happyapps.io/blog/2015-08-15-track-and-log-a-linux-server-s-bandwidth-use)
 
-# Redhat
-* [How to Enable EPEL Repository for RHEL/CentOS 7.x/6.x/5.x](http://www.tecmint.com/how-to-enable-epel-repository-for-rhel-centos-6-5/)
-* [How to Enable RPMForge Repository in RHEL/CentOS 7.x/6.x/5.x](http://www.tecmint.com/enable-rpmforge-repository/)
-* [Set up a static network connection in Linux](https://opensource.com/article/19/5/set-static-network-connection-linux)
-* libc.so
-  * 모든 리눅스 바이너리의 기본 라이브러리이기 때문에 쉘에서 벌어지는 모든 명령(fork 된 신규 프로세스)가 필요로하는 동적 라이브러리
-  * 절대 mv/ln 등으로 임의로 고쳐서는 안되는 파일
-  * 임의로 소스 빌드해서 cp로 덮어쓰거나 (만약 glibc compatible version 범위에 벗어나도 문제가 됨) mv로 이름을 바꾸면 안됨
-  * glibc의 경우 CentOS/RHEL 등에서 배포판 기준으로 잡힌 버전 (ex. 2.12)으로 고정되고 패치되는 형태이기 때문에 상위 버전으로 별도패키징해서 올리는게 아닌이상 일반 파일로 올리는 것은 위험
-  * 특정 어플리케이션 빌드 때 GLIBC 버전이 더 높게 필요하면 아래 예시처럼 다른 경로에 빌드해서 LD_LIBRARY_PATH 변수를 통해서 별도 라이브러리 링크로 처리
-
-    ```
-    $ tar zxvf glibc-2.24.tar.gz
-    $ cd glibc-2.24
-    $ mkdir build
-    $ cd build
-    $ ../configure --prefix=/opt/glibc-2.24
-    $ make
-    $ sudo make install
-    $ export LD_LIBRARY_PATH=/opt/glibc-2.24/lib
-    ```
-* [redhat7 When Root Password lost, How to configure Root PasswordC](http://naleejang.tistory.com/197)
-* [00. 리눅스(CentOS) 개발 놀이터 만들기 - 목차](http://cionman.tistory.com/16)
-* [**인터넷 접속이 안되는 CentOS 머신에서 Python3 및 패키지 설치하기**](https://lovetoken.github.io/python/2017/10/22/python3_install_on_CentOS_manually.html)
-* [CentOS 서브버전 서버 설치 및 설정 (svn)](https://zetawiki.com/wiki/CentOS_%EC%84%9C%EB%B8%8C%EB%B2%84%EC%A0%84_%EC%84%9C%EB%B2%84_%EC%84%A4%EC%B9%98_%EB%B0%8F_%EC%84%A4%EC%A0%95_(svn))
-* [CentOS7 리눅스 한글 입력기 설정](http://sunyzero.tistory.com/253)
-* [Scenario>Backup Script](https://developer-ankiwoong.tistory.com/533)
-* [How to install Simple Screen Record "Peek" on Rhel8](https://naleejang.tistory.com/220)
-* [CentOS가 Ubuntu 보다 더 안정적인 이유](https://rainofpainki.github.io/ubuntu_vs_centos/) 별로 설득력 있는 견해라고 생각이 들진 않지만 참고용으로 기록
-* [환경구성 CentOS Vmware 실습 환경 설정 - 1](https://developer-ankiwoong.tistory.com/1031)
-* service
-
-  ```
-  service --status-all | grep [name]
-  service [name] [status|start|stop|restart]
-  chkconfig --list
-  chkconfig [name] [on|off]
-  netstat -tulpn
-  ```
-  * [Red Hat / CentOS Check and List Running Services Linux Command](https://www.cyberciti.biz/faq/check-running-services-in-rhel-redhat-fedora-centoslinux/)
-* yum
-  * `yum info <package>`
-    * [`yumdb info <package>`](https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/html/deployment_guide/sec-displaying_package_information)
-  * `yum [--disablerepo=dockerrepo] install git` 특정 repo에 오류가 있을 때 --disablerepo를 사용하면 동작
-
-    ```
-    ...
-    failure: repodata/repomd.xml from dockerrepo: [Errno 256] No more mirrors to try.
-    https://yum.dockerproject.org/repo/main/centos/7/repodata/repomd.xml: [Errno 14] HTTPS Error 404 - Not Found
-    ```
-  * `yum list available <package>`
-  * `yum update <package>`
-  * proxy
-    * [(RHEL) HOWTO define proxy setting for a specific repository in YUM](https://www.digrouz.com/mediawiki/index.php/(RHEL)_HOWTO_define_proxy_setting_for_a_specific_repository_in_YUM)
-    * `proxy=http://x.y.z.w:port`
-      * 전체 repository에 대해 proxy를 설정할 때는 /etc/yum.conf에 추가
-      * 개별 repository에 대해 proxy를 설정할 때는 /etc/yum.repos.d/some.repo의 각 항목마다 추가
-  * [Which yum variable can give 6 or 7 as output](https://stackoverflow.com/questions/35978202/which-yum-variable-can-give-6-or-7-as-output/35978695#35978695)
-* /tmp
-  * [프로젝트 출시 10일 후 새벽 4시에 발생한 장애의 원인](https://iamsang.com/blog/2017/05/27/server-failure-10-days-after-release/) /tmp directory 관련 내용
-
 # System Library
 * [inotify](http://ko.m.wikipedia.org/wiki/Inotify)
 * [로그 (syslog)](http://system-monitoring.readthedocs.org/en/latest/log.html)
@@ -925,7 +951,7 @@ Linux
 * [How do I reorder tmux windows?](http://superuser.com/questions/343572/how-do-i-reorder-tmux-windows)
   * `swap-window -s [from-number] -t [to-number]` or `swap-window -t [to-number]` 
 
-## troubleshooting
+## command troubleshooting
 * [tmux protocol version mismatch (client N server M)](http://unix.stackexchange.com/questions/122238/protocol-version-mismatch-client-8-server-6-when-trying-to-upgrade)
 
   ```
@@ -940,26 +966,3 @@ Linux
 # troubleshooting
 * [Troubleshooting High I/O Wait in Linux](http://bencane.com/2012/08/06/troubleshooting-high-io-wait-in-linux/)
 * [Linux 서버 장애원인 파악은 어떻게?](https://medium.com/@yoonjs2/linux-%EC%84%9C%EB%B2%84-%EC%9E%A5%EC%95%A0%EC%9B%90%EC%9D%B8-%ED%8C%8C%EC%95%85%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-7accec423bb5)
-
-# Ubuntu
-* [16.04 설치후 세팅](http://programmingsummaries.tistory.com/389)
-* [Ubuntu 설치 후 초기 세팅하기](https://cupjoo.tistory.com/1)
-* [우분투 16 에 파이썬 3.6 설치 pip3.6 하고](http://hamait.tistory.com/917)
-* [Ubuntu 패키지 저장소 만들기](http://www.joinc.co.kr/w/man/12/deb)
-* [How To Install and Manage Supervisor on Ubuntu and Debian VPS](https://www.digitalocean.com/community/tutorials/how-to-install-and-manage-supervisor-on-ubuntu-and-debian-vps)
-* `apt-cache search [package name]`
-* [10 Useful Utilities For Linux Users](https://www.unixmen.com/10-useful-utilities-linux-users/)
-* [PinguyBuilder를 이용해서 사용 중인 OS 설정 그대로 iso 파일 만들기](http://bagjunggyu.blogspot.com/2015/10/pinguybuilder-os-iso.html)
-* [24 Things I’ve Learned As A Software Developer Living On Ubuntu For A Weekish](https://hackernoon.com/24-things-learned-as-software-developer-on-ubuntu-for-a-weekish-5b7b0da5d4b5)
-* [우분투(Ubuntu)에서 신규 커널 설치 후 USB, WIFI가 동작하지 않을 때 해결 방법](http://kkamagui.tistory.com/901)
-* [우분투용 해킹 & 분석 도구 모음](http://hisjournal.net/blog/242)
-* [우분투 연말정산](https://logon.tistory.com/770)
-* [How to Install Nginx, MariaDB and PHP7 (LEMP Stack) on Ubuntu 16.04 LTS](https://www.linuxbabe.com/linux-server/install-nginx-mariadb-php7-lemp-stack-ubuntu-16-04-lts)
-* [우분투 resolv.conf 세팅 정리 - 완두블로그](https://wani.kr/posts/2017/03/22/ubuntu-resolvconf-settings-summary/)
-* [Ubuntu 꼴랑이거(1) - 서버 시간이 차이가 날때.. - 완두블로그](https://wani.kr/posts/2015/04/23/ubuntu-something-1-time/)
-* [Ubuntu를 업그레이드 해보자 - 완두블로그](https://wani.kr/posts/2015/01/30/ubuntu-upgrade-12-to-14/)
-* [Ubuntu 20.04에서 sshfs 를 이용한 원격 폴더 마운트](https://kibua20.tistory.com/49)
-* [우분투로 자바스크립트 개발하기 — 1. Intro. 우분투로 자바스크립트를 개발하고 싶어하는 개발 입문자들을 위한… | by Hong Shik Branden Kim | 코드스테이츠 Code States — 혁신적인 코딩 교육 부트캠프 | Medium](https://medium.com/code-states/%EC%9A%B0%EB%B6%84%ED%88%AC%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-1-intro-d1d9b6533e05)
-* [우분투로 자바스크립트 개발하기 — 2. 개발환경 세팅하기. 우분투로 자바스크립트를 개발하고 싶어하는 입문자들을 위한 글입니다… | by Hong Shik Branden Kim | 코드스테이츠 Code States — 혁신적인 코딩 교육 부트캠프 | Medium](https://medium.com/code-states/%EC%9A%B0%EB%B6%84%ED%88%AC%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-2-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-9f8becea9e05)
-* [우분투로 자바스크립트 개발하기 — 3. FAQ / 도움되는 글 링크 | by Hong Shik Branden Kim | 코드스테이츠 Code States — 혁신적인 코딩 교육 부트캠프 | Medium](https://medium.com/code-states/%EC%9A%B0%EB%B6%84%ED%88%AC%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-3-faq-%EB%8F%84%EC%9B%80%EB%90%98%EB%8A%94-%EA%B8%80-%EB%A7%81%ED%81%AC-fb132d06b44c)
-* [Ubuntu20에서 가상환경으로 python3.6 이용하기 - RomanticQ의 머신러닝](https://romanticq.github.io/%EC%9A%B0%EB%B6%84%ED%88%AC/ubuntu-virtualenv/)
