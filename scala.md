@@ -620,6 +620,8 @@ Scala
   * [How to keep your sanity working with Scala Implicit!](https://medium.com/@lprakashv/how-to-keep-your-sanity-working-with-scala-implicit-fda9ffc33162)
   * [scala implicit keyword 관련 파라미터](https://captainthomas.tistory.com/entry/scala-implicit-keyword-관련-파라미터)
   * [Understanding implicit in Scala](https://stackoverflow.com/questions/10375633/understanding-implicit-in-scala)
+  * [Implicit Design Patterns in Scala](https://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)
+  * [Good example of implicit parameter in Scala? - Stack Overflow](https://stackoverflow.com/questions/9530893/good-example-of-implicit-parameter-in-scala)
 * I/O
   * [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
   * [Towards a better API for I/O](https://medium.com/permutive/towards-a-better-api-for-i-o-35d385060a5c)
