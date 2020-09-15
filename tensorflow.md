@@ -518,6 +518,7 @@ TensorFlow
 * [3 ways to create a Keras model with TensorFlow 2.0 (Sequential, Functional, and Model Subclassing)](https://www.pyimagesearch.com/2019/10/28/3-ways-to-create-a-keras-model-with-tensorflow-2-0-sequential-functional-and-model-subclassing/)
 * [Convolutional Neural Network Predictions with TensorFlow's Keras API](https://morioh.com/p/ef890bef14d5)
 * [Train a Fine-Tuned Neural Network with TensorFlow's Keras API](https://morioh.com/p/0470ab1a35f2)
+* [Process Images for Fine-Tuned MobileNet with TensorFlow's Keras API](https://morioh.com/p/075c5027ac20)
 * [ReXNet-TF2: TensorFlow implementation of "ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network"](https://github.com/YeongHyeon/ReXNet-TF2)
 
 # Book
