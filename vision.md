@@ -625,6 +625,7 @@ Vision
 * [facenet - Face Recognition using Tensorflow](https://github.com/davidsandberg/facenet)
 * [face_recognition - The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
 * [malmopy: Python Library for working with Project Malmo - Hack & Tell Singapore](https://www.youtube.com/watch?v=-IbC88-Fa7w)
+* [object_detector_app: Real-Time Object Recognition App with Tensorflow and OpenCV](https://github.com/datitran/object_detector_app)
 * [openface - Face recognition with deep neural networks. http://cmusatyalab.github.io/openface ](https://github.com/cmusatyalab/openface)
   * [Openface](http://www.slideshare.net/ssuser9ca134/openface)
   * [#엑소사랑하자 – OpenFace로 우리 오빠들 얼굴 인식하기](http://www.popit.kr/openface-exo-member-face-recognition/)
