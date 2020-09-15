@@ -3894,6 +3894,7 @@ Python
 * [Typesetting With Python](https://www.youtube.com/watch?v=GVoyBWo1QDk)
 * [Our journey to type checking 4 million lines of Python](https://blogs.dropbox.com/tech/2019/09/our-journey-to-type-checking-4-million-lines-of-python/)
 * [Falling into a type world with Python](https://seonghyeon.dev/falling-into-a-type-world-with-python/)
+* [Dustin Ingram - Static Typing in Python - YouTube](https://www.youtube.com/watch?v=cmmPDYa0gWo)
 * [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
 * [LibCST - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree https://libcst.readthedocs.io ](https://github.com/Instagram/LibCST)
   * [Static Analysis at Scale: An Instagram Story](https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c)
