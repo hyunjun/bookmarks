@@ -598,6 +598,7 @@ Data Science
 * [Spotyfy가 당신을 알고 있다, 어떻게?](https://brunch.co.kr/@michaelbae/241)
 * [넷플릭스와 아마존](https://www.skyer9.pe.kr/wordpress/?p=539)
 * [LINE Timeline의 새로운 도전 1편 – 추천 컨텐츠 탐색을 위한 Discover와 새로운 구독 모델 Follow](https://engineering.linecorp.com/ko/blog/a-new-challenge-for-line-timeline-1/)
+* [LINE Timeline의 새로운 도전 2편 - Discover 딜리버리 시스템 소개 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-timeline-discover-delivery-system/)
 * [추천(Recommendation) 시스템 - 알고리즘 Trend 정리](https://hoondongkim.blogspot.com/2019/03/recommendation-trend.html)
 * [추천시스템에 빠져들기](https://www.notion.so/ecc73247c9f9486d9063fca918c5917e)
 * [쿠팡 추천 시스템 2년간의 변천사 (상품추천에서 실시간 개인화로)](https://tv.naver.com/v/11212875)
