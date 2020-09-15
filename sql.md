@@ -100,6 +100,7 @@ SQL
 * [Understanding Database IOPS - Part 1 | Kloud DB](http://www.klouddb.io/understanding-database-iops-part-1/)
 * [오라클12c 행제한구문 실습, MySQL의 top-N 쿼리, 페이징 쿼리 (Pagination Query) - YouTube](https://www.youtube.com/watch?v=HT3EltCwgmw)
 * [How to Implement Cursor Pagination Like a Pro | by Megan Chang | The Startup | Medium](https://medium.com/swlh/how-to-implement-cursor-pagination-like-a-pro-513140b65f32)
+* [A Snowflake deep dive](https://hhhypergrowth.com/a-snowflake-deep-dive/) 기술이야기는 아니고 snowflake 소개
 * [DBeaver](https://dbeaver.io/)
   * [Mac, Linux 에서 쓸만한 DB Tool - DBeaver](http://lifeones.tistory.com/129)
   * [데이터베이스 연결 도구 - DBeaver 설치](https://jybaek.tistory.com/858)
