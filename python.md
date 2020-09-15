@@ -2574,6 +2574,7 @@ Python
   * [You Should Start Using FastAPI Now | by Tivadar Danka | Towards Data Science](https://towardsdatascience.com/you-should-start-using-fastapi-now-7efb280fec02)
   * [Intro to FastAPI - The Best Way to Create APIs in Python? - YouTube](https://www.youtube.com/watch?v=kCggyi_7pHg)
   * [Learning FastAPI - YouTube](https://www.youtube.com/watch?v=GSMYt429ot4)
+  * [Integrating Tortoise ORM into a FastAPI App - YouTube](https://www.youtube.com/watch?v=vVjWeLVv97c)
 * [Faster CPython](http://faster-cpython.readthedocs.io/) FAT Python
 * [Faust - A library for building streaming applications in Python](https://faust.readthedocs.io/)
 * [fawkes: Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes](https://github.com/Shawn-Shan/fawkes)
