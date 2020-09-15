@@ -256,6 +256,7 @@ Data Visualization
 * [그 동네, 자취하기 좋은지 점수 매겨 드립니다](https://data101.oopy.io/30cfd352-3ec6-489f-9c46-a9a4fafdfc25)
 * [Roelof Pieters - Watching Millions of Trees with Python: For Impact and Profit | PyData Fest AMS - YouTube](https://www.youtube.com/watch?v=C4epqE7KcM4)
 * [Top 6 Python Libraries for Visualization: Which one to Use? | by Khuyen Tran | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/top-6-python-libraries-for-visualization-which-one-to-use-fe43381cd658)
+* [Tomas Sostak - Popmon: Population Shift Monitoring Made Easy | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=HE-3YeVYqPY)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
 * [Awesome Panel](https://awesome-panel.org/)
