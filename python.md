@@ -1557,6 +1557,7 @@ Python
 * [Disqus 장고 3.x 사용 중 migrate 에러 해결 방법](https://developer-ankiwoong.tistory.com/920)
 * [ElasticSearch with Django the easy way](https://medium.freecodecamp.com/elasticsearch-with-django-the-easy-way-909375bc16cb)
 * [장고(Django)와 함께하는 Celery 첫걸음](https://beomi.github.io/2016/11/04/eb-b2-88-ec-97-ad-ec-9e-a5-ea-b3-a0django-ec-99-80-ed-95-a8-ea-bb-98-ed-95-98-eb-8a-94-celery-ec-b2-ab-ea-b1-b8-ec-9d-8c/)
+* [아직도 보고서를 직접 보내시나요? django-celery-beat를 활용한 자동화 | by Paikend | Bigpearl | Medium](https://medium.com/bigpearl/%EC%95%84%EC%A7%81%EB%8F%84-%EB%B3%B4%EA%B3%A0%EC%84%9C%EB%A5%BC-%EC%A7%81%EC%A0%91-%EB%B3%B4%EB%82%B4%EC%8B%9C%EB%82%98%EC%9A%94-django-celery-beat%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9E%90%EB%8F%99%ED%99%94-dceea7016a24)
 * [Django에 Custom인증 붙이기](https://beomi.github.io/2017/02/02/Django-CustomAuth/)
 * [Django에 Social Login 붙이기: Django세팅부터 Facebook/Google 개발 설정까지](https://beomi.github.io/2017/02/08/Setup-SocialAuth-for-Django/)
 * [Django + SocialLogin + Email as User](https://beomi.github.io/2017/03/22/Setup-SocialAuth-for-Django-Email-as-User/)
