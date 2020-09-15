@@ -353,7 +353,6 @@ Programming
 * [JIRA를 하자! - 쿠키런 : 오븐브레이크의 JIRA 도입기](https://tech.devsisters.com/posts/jira-of-qa)
 * [애자일이 도대체 뭐길래?](https://evan-moon.github.io/2019/07/02/what-is-agile)
 * [KPT하는 스타트업은 성장한다](https://brunch.co.kr/@fromjayden/7) Keep Problem Try
-* [스크럼으로 처음 만나는 애자일 튜토리얼](https://wormwlrm.github.io/2018/09/09/Scrum-tutorial-for-adapting-agile-methodologies.html)
 * [What is Kanban? (and how does it work)](https://www.youtube.com/watch?v=xhxncRy-_Rk)
 * [Scrum Is Dead. All Hail Kanban, the New King - Better Programming - Medium](https://medium.com/better-programming/scrum-is-dead-all-hail-kanban-the-new-king-2cd6249feef8)
 * [Google I/O 2019 – Thinking in 5G Workshop 세션 참석 후기](https://engineering.linecorp.com/ko/blog/google-io-2019-thinking-in-5g-workshop-review/) 디자인 스프린트 이야기이지만 참고할만한 부분이 많음
@@ -380,6 +379,7 @@ Programming
 * [What is Fake Agile? Understanding the Dark Side of Agile and How to Avoid It | Process Street | Checklist, Workflow and SOP Software](https://www.process.st/fake-agile/)
 * [ENG 애자일 코치, 스크럼 마스터? 직장인 리더십의 진정한 조건! | 일하는 우리 | - YouTube](https://www.youtube.com/watch?v=U67CRZFwZTQ)
 * [IT 알려주는 은행원 애자일 전문가 되는 비법 공개 - YouTube](https://www.youtube.com/watch?v=QJ4zM8CAKp0)
+* [스크럼에 대한 경험 및 개인적인 생각 - FutureSeller](https://future-seller.dev/posts/scrum-experience)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -845,6 +845,7 @@ Programming
 * [Microservices and \[Micro\]services](https://kalele.io/microservices-and-microservices/)
 * [Micro Frontend 마이크로 프론트앤드 - 개념](https://mobicon.tistory.com/572)
 * [Lessons from DAZN: Scaling Your Project with Micro-frontends](https://www.infoq.com/presentations/dazn-microfrontend/)
+* [11 Micro Frontends Frameworks You Should Know | by Jonathan Saring | Sep, 2020 | ITNEXT](https://itnext.io/11-micro-frontends-frameworks-you-should-know-b66913b9cd20)
 * [Microservice Architecture and Design Patterns for Microservices](https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a)
 * [State of Microfrontends](https://dev.to/florianrappl/state-of-microfrontends-1j3p)
 * [마이크로서비스 배포 혁명](https://jflip.tistory.com/23)
@@ -1883,6 +1884,7 @@ Programming
   * [기술 뉴스 #155 : 20-08-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1492)
   * [기술 뉴스 #156 : 20-08-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1493)
   * [기술 뉴스 #157 : 20-09-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1494)
+  * [기술 뉴스 #158 : 20-09-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1496)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -2260,6 +2262,7 @@ Programming
 * [번역 UnitTest By Martin Fowler](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-unittest-by-martin-fowler-2fbba01a782e)
 * [**실시간 댓글 개발기(part.2) – 험난했지만 유익했던 웹소켓 스트레스 테스트 및 안정화 작업**](https://tech.kakao.com/2020/06/15/websocket-part2/)
 * [유용한 테스트 케이스를 위한 개발자의 자세](https://blog.shiren.dev/2020-06-15-%EC%9C%A0%EC%9A%A9%ED%95%9C%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%A5%BC%EC%9C%84%ED%95%9C%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%EC%9E%90%EC%84%B8/)
+* [신규 서비스 배포 전에 실험과 개선을 반복한 이야기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/vsms-performance-experiment/)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
