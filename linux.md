@@ -119,6 +119,7 @@ Linux
 * [3차원 지구본을 콘솔에 그리기](https://jhrogue.blogspot.com/2020/08/5-3.html) pv, grep (GREP_COLORS)
 * [How Unix Works: Everything You Were Too Afraid to Ask | by Neil Kakkar | Better Programming | Medium](https://medium.com/better-programming/how-unix-works-everything-you-were-too-afraid-to-ask-f8396aeb2763)
 * [linuxupskillchallenge: Learn the skills required to sysadmin a remote Linux server from the commandline.](https://github.com/snori74/linuxupskillchallenge)
+  * [리눅스업스킬도전 - YouTube](https://www.youtube.com/playlist?list=PLdntWJk2tJPLqMxhxCNX7aB0Gm52i5RFz)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
