@@ -263,6 +263,8 @@
 * [Home Automation with Power Platform - Part 1 - DEV](https://dev.to/azure/home-automation-with-power-platform-part-1-4eh2)
 * [라즈베리 파이를 리모트 콘트롤러로 활용하기 | Aliencube](https://blog.aliencube.org/ko/2020/08/12/turning-raspberry-pi-into-remote-controller/)
 * [AnyLeaf sensors](https://www.anyleaf.org/ph-module)
+* [파이썬과 라즈베리파이로 레고 피아노 연주하기 Playing Lego Grand Piano (21323) with Python and Raspberry Pi (ENG sub) - YouTube](https://www.youtube.com/watch?v=ES2W4QlB7xM)
+  * [play21323: Now you can play Lego 21323](https://github.com/lqez/play21323/)
 
 # Reverse Engineering
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
