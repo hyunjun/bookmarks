@@ -1558,6 +1558,7 @@ Programming
 * [알면 놀라는 마이크로소프트의 25가지 혁신 기술](http://m.seminartoday.net/news/articleView.html?idxno=8526)
 
 # MOOC, open courseware
+* [외국대학 MOOC 영상과 대본 다운로드 받아 정리하는 방법 - 김형률 - YouTube](https://www.youtube.com/watch?v=kkfSgZAUdOA)
 * [awesome-courses - List of awesome university courses for learning Computer Science!](https://github.com/prakhar1989/awesome-courses)
 * [100+ Free Online Tools for Businesses and Startups](http://www.expertise.com/small-business/free-online-resources-for-small-business-and-startups)
 * [670 Free Online Programming & Computer Science Courses You Can Start in December](https://medium.freecodecamp.org/670-free-online-programming-computer-science-courses-you-can-start-in-december-a90149ac6de4)
