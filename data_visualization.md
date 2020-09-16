@@ -421,5 +421,6 @@ Data Visualization
   * [Seaborn 튜토리얼 번역 #1장 Visualizing statistical relationships](https://data101.tistory.com/6)
   * [Ridgeline Plot | Pega Devlog](https://jehyunlee.github.io/2020/09/07/Python-DS-30-mpl_dists/)
   * [Seaborn 0.11 Quick Review | Pega Devlog](https://jehyunlee.github.io/2020/09/09/Python-DS-31-seaborn_upgrade/)
+  * [Seaborn Distribution Plot | Pega Devlog](https://jehyunlee.github.io/2020/09/16/Python-DS-32-seaborn_displot/)
 * [Tools - matplotlib This notebook demonstrates how to use the matplotlib library to plot beautiful graphs](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/tools_matplotlib.ipynb)
   * [Tools - matplotlib 이 노트북은 matplotlib 라이브러리를 사용하여 아름다운 그래프를 그리는 방법을 보여줍니다](https://colab.research.google.com/drive/1lo8pAAo5GiUk4BZvSEnnkET6hTjP6eLR)
