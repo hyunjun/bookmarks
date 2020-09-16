@@ -2034,6 +2034,7 @@ Javascript
 * [How to think reactively and animate moving objects using RxJs](https://medium.freecodecamp.org/thinking-reactively-how-to-animate-with-movement-objects-using-rxjs-692518b6f2ac)
 * [How to easily ignore useEffect HTTP calls with RxJS](https://medium.freecodecamp.org/how-to-easily-cancel-useeffect-http-calls-with-rxjs-d1be418014e8)
 * [React UseEffect 어디까지 알아보고 오셨어요? | Medium](https://medium.com/@sgwanlee/useeffect%EC%9D%98-dependency-array-ebd15f35403a)
+* [리액트 useEffect 개발자가 알아야 할 네가지 팁 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20200916/)
 * [Angular 환경에서 RxJS 100% 활용하기](https://medium.com/coinone-official/angular-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-rxjs-100-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0-afe43c434c8)
 * [Working with Axios and RxJS to make simple HTTP library](https://itnext.io/working-with-axios-and-rxjs-to-make-simple-ajax-service-module-6fda9ecdaf9f)
 * [Using Axios with React](https://alligator.io/react/axios-react/)
