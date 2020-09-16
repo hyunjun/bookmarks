@@ -138,6 +138,7 @@ PyTorch
 * [Music Translation - PyTorch implementation of the method described in the A Universal Music Translation Network](https://github.com/facebookresearch/music-translation)
 * [layer_normalization.py](https://github.com/CyberZHG/torch-layer-normalization/blob/master/torch_layer_normalization/layer_normalization.py)
 * [Getting Started with Intel® Optimization for PyTorch on Second Generation Intel® Xeon® Scalable Processors](https://software.intel.com/en-us/articles/getting-started-with-intel-optimization-of-pytorch)
+* [Accelerate your Hyperparameter Optimization with PyTorch’s Ecosystem Tools | by PyTorch | PyTorch | Sep, 2020 | Medium](https://medium.com/pytorch/accelerate-your-hyperparameter-optimization-with-pytorchs-ecosystem-tools-bc17001b9a49)
 * [Weights & Biases - Monitor Your PyTorch Models With Five Extra Lines of Code](https://www.wandb.com/blog/monitor-your-pytorch-models-with-five-extra-lines-of-code)
 * [DataLoader num_workers에 대한 고찰](https://jybaek.tistory.com/799)
 * [CRAFT: Character-Region Awareness For Text detection](https://github.com/clovaai/CRAFT-pytorch)
