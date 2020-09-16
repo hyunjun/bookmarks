@@ -1327,7 +1327,8 @@ Machine Learning
   * [191027 딥러닝 전이학습 발표자료](https://drive.google.com/drive/folders/1JPPMFYlGMl1BbjjMnG2WqakWwBkiHgzP)
   * [전이학습](https://www.youtube.com/playlist?list=PLqkITFr6P-oQlgZS4-XNRcYW2FBUPrc0h)
 
-* Tutorial
+# Tutorial
 * [Machine Learning Field Guide](https://www.kamwithk.com/machine-learning-field-guide-ckbbqt0iv025u5ks1a7kgjckx)
 * [Machine Learning Tutorials - YouTube](https://www.youtube.com/playlist?list=PLfwO4-8NiQkFVYIV8cIUjCQA6yTbvV2L_)
 * [Getting machine learning to production · Vicki Boykis](http://veekaybee.github.io/2020/06/09/ml-in-prod/)
+* [Markus Loning - Introduction to Machine Learning with Time Series | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=Wf2naBHRo8Q)
