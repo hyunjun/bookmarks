@@ -588,6 +588,7 @@ Python
   * [서울대 경영대, 2016 벤처창업웹프로그래밍1 (이하 벤1), 파이썬 기말고사 시험문제](https://gist.github.com/allieus/29b205f8555cfbbf33f5aa4ac3e29f5a) 3, 4번
   * [시간재기](https://gist.github.com/heyyyjude/e15087ae35ce630441979b4248993c54)
   * [timer](https://github.com/Kcrong/python-utility/blob/master/coverage.py#L25-L51)
+  * [python - 함수가 완료되는데에 너무 오래 걸릴 때, timeout시키기 | Hashcode](https://hashcode.co.kr/questions/2203/%ED%95%A8%EC%88%98%EA%B0%80-%EC%99%84%EB%A3%8C%EB%90%98%EB%8A%94%EB%8D%B0%EC%97%90-%EB%84%88%EB%AC%B4-%EC%98%A4%EB%9E%98-%EA%B1%B8%EB%A6%B4-%EB%95%8C-timeout%EC%8B%9C%ED%82%A4%EA%B8%B0)
   * [@decorators in Python](https://hackernoon.com/decorators-in-python-8fd0dce93c08)
   * [Antonio Verardi - Write more decorators (and fewer classes)](https://www.youtube.com/watch?v=VLlLIL5ZYLI)
     * [Code for the talk "write more decorators (and fewer classes)"](https://github.com/poros/talk-write-more-decorators-and-fewer-classes)
