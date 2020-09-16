@@ -1123,6 +1123,9 @@ Deep Learning
   * [내 손글씨를 따라쓰는 인공지능 요정, Wrinie (2) - 실습](https://jeinalog.tistory.com/16)
 * [AI Generator Learns to 'Draw' Like Cartoonist Lee Mal-Nyeon in Just 10 Hours | Synced](https://syncedreview.com/2020/08/04/ai-generator-learns-to-draw-like-cartoonist-lee-mal-nyeon-in-just-10-hours/)
 * [bryandlee/malnyun_faces: 침착한 생성모델 학습기](https://github.com/bryandlee/malnyun_faces)
+* [generative_inpainting: DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral](https://github.com/JiahuiYu/generative_inpainting)
+  * [Image Inpainting](https://master-generative-inpainting-woomurf.endpoint.ainize.ai/)
+  * [generative_inpainting: DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral](https://ainize.ai/woomurf/generative_inpainting)
 * [TGAN - Generative adversarial training for synthesizing tabular data https://sdv-dev.github.io/TGAN ](https://github.com/sdv-dev/TGAN)
 
 # Library
