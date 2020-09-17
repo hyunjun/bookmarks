@@ -2474,6 +2474,7 @@ Javascript
 * [How to Display PDFs but Prevent Them From Downloading in React | by Alexander Chen | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/how-to-display-pdfs-but-prevent-them-from-downloading-in-react-2e77292ca9a5)
 * [react-animated-numbers: 👾 Library showing animation of number changes in react.js](https://github.com/heyman333/react-animated-numbers)
 * [rocket-scripts: React development scripts for web apps and electron apps (similar to react-scripts)](https://github.com/rocket-hangar/rocket-scripts)
+* [How to Create a Navigation Bar and Sidebar Using React](https://morioh.com/p/7683db0e78bd)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
