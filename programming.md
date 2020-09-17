@@ -2161,6 +2161,7 @@ Programming
   * [Using Protobuf instead of JSON to communicate with a frontend](https://blog.wearewizards.io/using-protobuf-instead-of-json-to-communicate-with-a-frontend)
   * [**구글 프로토콜 버퍼 (Protocol buffer)**](http://bcho.tistory.com/1182) 간단한 python 예제
   * [Protocol Buffers - overview](https://jusths.tistory.com/125)
+  * [mypy-protobuf: open source tools to generate mypy stubs from protobufs](https://github.com/dropbox/mypy-protobuf)
 * [UBJSON](http://ubjson.org/)
 
 # Service, Product
