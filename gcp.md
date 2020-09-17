@@ -106,6 +106,7 @@ Google Cloud Platform GCP
 * [GCP App Engine으로 Streamlit 웹 어플리케이션 배포하기](https://medium.com/@john_analyst/gcp-app-engine%EC%9C%BC%EB%A1%9C-streamlit-%EC%9B%B9-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B8%B0-c9c6ce2436d0)
 * [Measurement Protocol을 이용하여 Google Analytics 적용하기 (feat. Lambda) - 완두블로그](https://wani.kr/posts/2020/03/16/measurement-protocol-google-analytics/)
 * [Google Cloud Platform을 활용하여 평생 '무료' PC 만들기](https://kibua20.tistory.com/94)
+* [Goggle Cloud Platform에서 무료로 리눅스 서버를 할당](https://www.youtube.com/watch?v=u7LvG-deMOE)
 * [**GCP - cloud build 이용하여 ci/cd 구축하기**](https://dailyheumsi.tistory.com/234)
 * [시리얼 포트를 통해 SSH 없이 인스턴스에서 작업하기](https://jybaek.tistory.com/877)
 * [Github Actions를 사용해서 CICD 구축해보기 실습 with GCP - 실행편 · 도전하는 개발자](https://minkukjo.github.io/cs/2020/08/29/Infra-23/)
