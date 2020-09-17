@@ -74,7 +74,6 @@ Network
 * [Android의 HTTP 클라이언트 라이브러리](http://d2.naver.com/helloworld/377316)
 * [HTTP란 무엇인가](https://www.zerocho.com/category/HTTP/post/5b344f3af94472001b17f2da)
 * [WEB2 - HTTP](https://opentutorials.org/course/3385)
-* [**HOW HTTPS WORKS**](https://howhttps.works/)
 * [프런트엔드 개발자가 알아야하는 HTTP 프로토콜 Part 1](https://joshua1988.github.io/web-development/http-part1/)
 * [HTTP 헤더](https://developer.mozilla.org/ko/docs/Web/HTTP/Headers)
 * [나만 모르고 있던 – HTTP/2](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-http2/)
@@ -118,6 +117,8 @@ Network
 * [HTTP에서 HTTPS로 전환하기 위한 완벽 가이드](https://webactually.com/2018/11/http%EC%97%90%EC%84%9C-https%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [HTTPS에 대해 알아야 할 것들](https://www.mimul.com/blog/about-https/)
 * [코모도 CA(Comodo)의 AddTrust External 루트 인증서 만료](https://www.44bits.io/ko/post/comodo-ca-addtrust-external-root-certificates-expiration)
+* [**HOW HTTPS WORKS**](https://howhttps.works/)
+* [**How HTTPS works - How HTTPS works**](https://howhttps.works/ko/)
 
 ## HTTPS SSL
 * [practice - ssl certificate 교체](https://gist.github.com/hyunjun/4dd32ed70705f287c8893882aabbe100#file-ref-md)
