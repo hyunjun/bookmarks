@@ -539,6 +539,7 @@ History
 ## Italy
 * [The Untold Story of Mussolini’s Fake Diaries](http://www.thedailybeast.com/articles/2015/04/12/the-untold-story-of-mussolini-s-fake-diaries.html)
 * [Leonardo da Vinci’s resume](http://www.cenedella.com/leonardo-da-vincis-resume-4/)
+* [기사 - 찌라시 세계사 7 - 로마와 이탈리아를 구한 두 바보](http://www.ddanzi.com/ddanziNews/643917703)
 
 ## Medival
 * [medival magic](http://www.historyextra.com/feature/brief-history-medieval-magic)
@@ -572,6 +573,7 @@ History
 ## Sweden
 * 올로프 팔메
   * [1986년 2월 28일, 스웨덴의 별이 지다](http://slownews.kr/37973)
+  * [기사 - 찌라시 세계사 1 : 스웨덴의 JFK 올로프 팔메 총리 암살 미스터리](http://www.ddanzi.com/ddanziNews/211541198)
 * [스웨덴의 렌-마이드너 복지 모델과 그 성공조건](http://ppss.kr/archives/32734)
 
 ## Swiss
