@@ -3030,6 +3030,7 @@ Javascript
 * [한눈에 보는 타입스크립트(updated) | HEROPY](https://heropy.blog/2020/01/27/typescript/)
 * [The TypeScript 4.0 Beta Is Here. Let's explore exciting features in… | by Chameera Dulanga | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/the-typescript-4-0-beta-is-here-c243358fe361)
 * [TypeScript enum을 사용하지 않는 게 좋은 이유를 Tree-shaking 관점에서 소개합니다. - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/typescript-enum-tree-shaking/)
+* [TypeScript를 활용한 서비스개발. 당근마켓은 중고거래 서비스를 넘어선 동네 기반의 하이퍼 로컬 플랫폼으로… | by KyoungDuck Kim | 당근마켓 팀블로그 | Sep, 2020 | Medium](https://medium.com/daangn/typescript%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EA%B0%9C%EB%B0%9C-73877a741dbc)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
 * [foam: A personal knowledge management and sharing system for VSCode](https://github.com/foambubble/foam)
