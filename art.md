@@ -136,6 +136,7 @@ Art
 * [음악이 소름을 돋게 만드는 이유(1/2)](http://newspeppermint.com/2015/09/14/m-music1/)
 * [음악이 소름을 돋게 만드는 이유(2/2)](http://newspeppermint.com/2015/09/14/m-music2/)
 * [신해철은 죽고, 서태지는 사라졌다](http://www.huffingtonpost.kr/yongjun-min/story_b_8348414.html)
+* [패티 보이드를 둘러싼 음악과 음악가 - INDIEPOST 인디포스트](https://www.indiepost.co.kr/post/2889)
 
 ## Classic
 * [kkacl.com/md](http://www.kkacl.com/md)
