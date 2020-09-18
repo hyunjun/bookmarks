@@ -59,6 +59,7 @@ Scala
   * [psygrammer.github.io/ScalaML](http://psygrammer.github.io/ScalaML/)
 * [Scala: The Industrial Parts](http://monkey.org/~marius/scala2015.pdf)
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
+* [Rock the JVM | How to Deploy a Scala Application to AWS Lambda](https://rockthejvm.com/blog/218081/lambda)
 * [Church Rosser 이론 (Lambda calculus)에 대한 링크 펌질](http://knight76.tistory.com/entry/scala-Church-Rosser-%EC%9D%B4%EB%A1%A0-Lambda-calculus%EC%97%90-%EB%8C%80%ED%95%9C-%EB%A7%81%ED%81%AC-%ED%8E%8C%EC%A7%88)
 * [콘솔에서 코드 붙여서 테스트하기 (paste)](http://knight76.tistory.com/entry/scala-%EC%BD%98%EC%86%94%EC%97%90%EC%84%9C-%EC%BD%94%EB%93%9C-%EB%B6%99%EC%97%AC%EC%84%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EA%B8%B0-paste)
 * [Keeping Scala Simple](http://underscore.io/blog/posts/2015/06/25/keeping-scala-simple.html)
@@ -268,6 +269,7 @@ Scala
 * [Writing Angular Services in Scala | by Antoine Doeraene | Jul, 2020 | Medium](https://medium.com/@antoine.doeraene/writing-angular-services-in-scala-e83fd308b7c3)
 * [Cloudflare Workers Announces Broad Language Support](https://blog.cloudflare.com/cloudflare-workers-announces-broad-language-support/)
 * [Scala: Beyond the basics with Christopher Batey - YouTube](https://www.youtube.com/watch?v=4QIgEMvUfIE) Function composition, Functional approaches to implement dependency injection, higher kinded types, Avoiding mutability with expressions, Abstracting with type classes
+* [Joe Warren - 4 Ways to Make Change in Scala](http://www.doscienceto.it/blog/posts/2020-09-16-change.html)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -466,6 +468,7 @@ Scala
 * [Akka Http Client- How to create a Unit Test for Http Single Request in Scala](https://medium.com/swlh/akka-http-client-how-to-create-a-unit-test-for-http-single-request-in-scala-e115f2052802)
 * [Akka-http graceful shutdown](https://day-to-day-stuff.blogspot.com/2020/04/akka-http-graceful-shutdown.html)
 * [akka-http-memory-leak](https://github.com/jeroentervoorde/akka-http-memory-leak/)
+* [R | Akka HTTP loves JSON: 3 Libraries You Can Integrate into Akka HTTP](https://rockthejvm.com/blog/218449/akka-http-json-3)
 
 ## Akka Monitoring
 * [Monitoring Akka based applications with Cinnamon and DataDog](https://blog.knoldus.com/monitoring-akka-based-applications-with-cinnamon-and-datadog/)
@@ -709,7 +712,6 @@ Scala
     * [Functional dependency injection in Scala using ZIO environments](https://blog.jdriven.com/2019/10/functional-dependency-injection-in-scala-using-zio-environments/)
     * [A simple integration test using Scala and ZIO](https://blog.jdriven.com/2019/10/a-simple-integration-test-using-scala-and-zio/)
     * [Combining ZIO and Akka to enable distributed FP in Scala](https://medium.com/@ghostdogpr/combining-zio-and-akka-to-enable-distributed-fp-in-scala-61ffb81e3283)
-    * [An Introduction to ZIO Kafka](https://ziverge.com/blog/introduction-to-zio-kafka/)
     * [Error Handling in Functional Applications - from Monad Transformers to ZIO](http://lambdaone.io/2019/09/06/zio-errors/)
     * [Make your program testable](https://medium.com/@wiemzin/make-your-program-testable-cee543c6fbbf) zio
     * [Combining ZIO and Akka to enable distributed FP in Scala](https://medium.com/@ghostdogpr/combining-zio-and-akka-to-enable-distributed-fp-in-scala-61ffb81e3283)
@@ -741,6 +743,10 @@ Scala
     * [Functional Effects with ZIO - Aleksandar Skrbic](https://aleksandarskrbic.github.io/functional-effects-with-zio/)
     * [Combining Purely Functional Property Based and Docker Integration Tests in ZIO | by Arjun Dhawan | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/combining-purely-functional-property-based-and-docker-integration-tests-in-zio-6a826c5e7e19)
     * [Live Coding a Concurrent Web Crawler - John Ⓐ De Goes - YouTube](https://www.youtube.com/watch?v=08eSR0vn4Vw)
+    * [An Introduction to Functional Design – John A De Goes](https://degoes.net/articles/functional-design)
+    * [5 lessons learned from my continuing awesome journey with ZIO | by Natan Silnitsky | Wix Engineering | Sep, 2020 | Medium](https://medium.com/wix-engineering/5-lessons-learned-from-my-continuing-awesome-journey-with-zio-66319d12ed7c)
+    * [An Introduction to ZIO Kafka](https://ziverge.com/blog/introduction-to-zio-kafka/)
+    * [Apache Kafka and ZIO. This article will explain why you want… | by Aleksandra Holubitska | Sep, 2020 | Medium](https://medium.com/@oleksandra_a/apache-kafka-and-zio-af418b4c54f0)
     * [An Introduction to Functional Design – John A De Goes](https://degoes.net/articles/functional-design)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
@@ -839,6 +845,7 @@ Scala
 * [fpinscala](https://github.com/fpinscala/fpinscala) Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" http://manning.com/bjarnason
   * [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
 * [Hands-on Scala Programming](https://www.handsonscala.com/)
+  * [Hands on Scala With Li Haoyi – Scala Love](https://scala.love/hands-on-scala-with-li-haoyi/)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 * [Modern Systems Programming with Scala Native Write Lean, High-Performance Code without the JVM](https://pragprog.com/book/rwscala/modern-systems-programming-with-scala-native)
 * [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais/read)
@@ -1147,6 +1154,8 @@ Scala
 
 ## Library Build
 * [A quick tour of build tools in Scala](https://manuel.bernhardt.io/2018/04/19/quick-tour-build-tools-scala/)
+* [earthly: Build automation for the post-container era](https://github.com/earthly/earthly)
+  * [Can we build better?](https://blog.earthly.dev/better-builds/)
 * [Mill - your shiny new Java/Scala build tool](http://www.lihaoyi.com/mill/)
   * [How to create Build Pipelines in Scala](http://www.lihaoyi.com/post/HowtocreateBuildPipelinesinScala.html)
   * [Scala/Mill: Step 1, Creating a new Mill project | alvinalexander.com](https://alvinalexander.com/scala/mill-build-tool/step-1-hello-world/)
@@ -1345,6 +1354,7 @@ Scala
 * [Tagless Final - Part 8.1 - main (The Big Rewrite - Part 4.1) - YouTube](https://www.youtube.com/watch?v=RuhV-Q9sLSo)
 * [Tagless Final - Part 8.2 - main (The Big Rewrite - Part 4.2) - YouTube](https://www.youtube.com/watch?v=O_REJhViiI4)
 * [Tagless Final - Part 9 - persistence-postgres-skunk (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=J5I_HEUKsF0)
+* [Tagless Final - Part 10 - main-postgres-skunk (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=kafn3qKd9Pw)
 * [Scala 3 - TF related improvements (mostly #implicits) - YouTube](https://www.youtube.com/watch?v=0MPfFBctWUc)
 
 # Monoids
@@ -1560,6 +1570,7 @@ Scala
 * [Generalized Algebraic Data Types example in Scala](https://github.com/chrilves/gadt.scala)
   * [PROVING PRIMALITY WITH GADTS](https://chrilves.github.io/posts/prime/)
 * [Algebraic Data Types and Its Generic Presentation In Scala](https://levelup.gitconnected.com/algebraic-data-types-and-its-generic-presentation-in-scala-d2c1ce7740fe)
+* [Algebra and Parametricity](https://about.chatroulette.com/posts/algebra-parametricity/)
 * [Far more than you've ever wanted to know about ADTs](https://nrinaudo.github.io/far-more-adt) Enumeration, DSL, Option
 * [Typelevel Ecosystem Posted on](https://partialflow.wordpress.com/2017/11/03/typelevel-ecosystem/)
 * [Mechanics of unboxed union types in Scala](https://virtuslab.com/blog/mechanics-unboxed-union-types-scala/)
