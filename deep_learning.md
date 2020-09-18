@@ -749,6 +749,7 @@ Deep Learning
 * [Guest Lecture - Jai Ranganathan - Full Stack Deep Learning - August 2018 - YouTube](https://www.youtube.com/watch?v=8PjTWFfjkeY)
 * [정말 딥러닝은 사람처럼 세상을 인식하고 있을까?](https://www.slideshare.net/NaverEngineering/ss-86897066)
 * [Mixed-Precision Training of Deep Neural Networks](https://hoya012.github.io/blog/Mixed-Precision-Training/)
+* [딥러닝이 제일 열등한 모델인데 몰랐어? - 마무리 – 파비 블로그](https://blog.pabii.co.kr/deep-learning-most-inferior-model-finale/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
