@@ -459,6 +459,7 @@ Linux
 * `history`
   * `history -c` `history -d <line number>` [리눅스 history 지우기](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_history_%EC%A7%80%EC%9A%B0%EA%B8%B0)
   * [How To : 리눅스에서 명령 사용 요약하기 - ITWorld Korea](http://www.itworld.co.kr/news/158396) HISTSIZE, HISTIGNORE
+  * [(리눅스 업스킬 도전 #5) 탭/화살표 사용법과 숨겨진 파일](https://jhrogue.blogspot.com/2020/09/5.html)
 * `iconv`
   * [파일 캐릭터셋(character set) 변경](http://blog.naver.com/antimidal/220192718002)
   * `iconv -f UTF-16LE -t UTF-8 <infile> > <outfile>` infile 형식이 `Little-endian UTF-16 Unicode text, with CRLF, CR line terminators`라 utf8로 바꾸는 경우
