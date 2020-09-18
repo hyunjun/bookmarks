@@ -358,6 +358,7 @@ TensorFlow
   * [ROCm, a New Era in Open GPU Computing](https://rocm.github.io/)
 * [일반 IP카메라를 인공지능 CCTV로 변신시킨 개발자](http://smartaedi.tistory.com/234)
 * [How to use Dataset in TensorFlow](https://towardsdatascience.com/how-to-use-dataset-in-tensorflow-c758ef9e4428)
+* [TensorFlow - Custom Dataset for Text with TextLineDataset](https://morioh.com/p/5c3f6dbb8a8c)
 * [HOYA AI Jupyter 텐서플로우를 기초부터 응용까지 단계별로 연습할 수 있는 소스 코드를 제공합니다](https://github.com/TensorMSA/tensormsa_jupyter)
 * Eager Execution
   * [Eager execution basics](https://www.tensorflow.org/tutorials/eager/eager_basics)
