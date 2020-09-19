@@ -3254,6 +3254,7 @@ Python
 * [textsearch - Find strings/words in text; convenience and C speed](https://github.com/kootenpv/textsearch)
 
 ## Library TUI text user interface
+* [Building Beautiful Command Line Interfaces with Python | by Oyetoke Tobi Emmanuel | codeburst](https://codeburst.io/building-beautiful-command-line-interfaces-with-python-26c7e1bb54df)
 * curses
   * [Python 3.x curses 라이브러리에서 한글 출력 - Windows 10](http://greentec.egloos.com/4433188)
   * [파이썬 curses 프로그래밍](https://python.flowdas.com/howto/curses.html)
@@ -3267,6 +3268,7 @@ Python
 * [BUILDING MICROSERVICES WITH PYTHON AND FLASK](https://www.youtube.com/watch?v=-zsKY9p_5R8)
 * [Miguel Grinberg - Microservices with Python and Flask - PyCon 2017](https://www.youtube.com/watch?v=nrzLdMWTRMM)
 * [Python in Serverless Architectures](https://www.youtube.com/watch?v=OU7cDwOJjOI)
+* [Building a Microservice in Python | by Sonu Sharma | Medium](https://medium.com/@sonusharma.mnnit/building-a-microservice-in-python-ff009da83dac)
 * [Armada is a complete solution for development, deployment, configuration and discovery of microservices](https://github.com/armadaplatform/armada)
 * [Chalice](https://github.com/aws/chalice) Python Serverless Microframework for AWS
   * [Python Serverless Microframework, Chalice 사용하기, 01](https://lee-seul.github.io/python/backend/2018/05/11/python-serverless-microframework-01.html)
