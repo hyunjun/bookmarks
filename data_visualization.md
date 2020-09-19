@@ -290,6 +290,7 @@ Data Visualization
   * [Space, Time and Groceries](https://tech.instacart.com/space-time-and-groceries-a315925acf3a)
 * [Ferret - an interactive computer visualization and analysis environment designed to meet the needs of oceanographers and meteorologists analyzing large and complex gridded data sets](http://ferret.pmel.noaa.gov/Ferret/home)
 * [k3d](https://github.com/adioshun/gitBook_PCL/blob/master/pcl/k3d.ipynb)
+* [lets-plot/README_PYTHON.md at master · JetBrains/lets-plot](https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md)
 * Mapbox
   * [Geographical Data Visualization with Mapbox - Visualizing Geodata with Mapbox’s API and Tools](https://hackingandslacking.com/geographical-data-visualization-with-mapbox-6ef564ebc51e)
 * [p5 - a native Python port of the Processing API by Abhik Pal, Manindra Mohrarna, and contributors](https://p5.readthedocs.io/)
