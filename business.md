@@ -200,6 +200,7 @@ Business
     * 정말 필요한 최적의 인원
       * 피자 두 판의 법칙; 팀원이나 회의 참석자의 수가 피자 두 판을 먹을 수 있는 규모 이상으로 늘어나서는 안된다
     * 의사 결정권자, 결론을 직접 실행할 사람을 정해야 한다
+* [The Art of Debating: A Useful Skill for Software Developers](https://thevaluable.dev/guide-debate-software-developer-skill/)
 * [프로젝트 관리에 대한 이야기 한 조각](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS1935242228) 정보 공유에 대한 이야기
 * [7. 사공끼리 정보를 공유하지 않으면 배가 산으로 간다](https://brunch.co.kr/@svillustrated/82)
 * [구글, 애플, 아마존의 회의 운영 노하우](https://hbrforum.org/2017/07/22/%EA%B5%AC%EA%B8%80-%EC%95%A0%ED%94%8C-%EC%95%84%EB%A7%88%EC%A1%B4%EC%9D%98-%ED%9A%8C%EC%9D%98-%EC%9A%B4%EC%98%81-%EB%85%B8%ED%95%98%EC%9A%B0/)
