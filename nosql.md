@@ -252,6 +252,9 @@ NoSQL
   * [한시간에 만드는 대용량 로그 수집 시스템](http://bcho.tistory.com/1158)
   * [Google Cloud에서 Dataflow 정리](https://jungwoon.github.io/google%20cloud/2017/12/13/Google-Dataflow/)
 
+# Graviton
+* [graviton: Graviton Database: ZFS for key-value stores](https://github.com/deroproject/graviton)
+
 # [Greenplum Database (GPDB)](https://github.com/greenplum-db/gpdb)
 * [stricky.tistory.com/category/GPDB with BIG data](https://stricky.tistory.com/category/GPDB%20with%20BIG_data)
   * [실시간 빅데이터 처리 DBMS 비교 Firebase Realtime Database vs GPDB](https://stricky.tistory.com/105)
