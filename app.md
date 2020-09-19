@@ -452,7 +452,6 @@ App
     * [VS Code snippets: the most powerful tool to boost your coding productivity](https://medium.freecodecamp.org/the-most-powerful-tool-to-boost-your-coding-productivity-2dc80e0eff00)
     * [Here are some super secret VS Code hacks to boost your productivity](https://medium.freecodecamp.org/here-are-some-super-secret-vs-code-hacks-to-boost-your-productivity-20d30197ac76)
     * [How I configure VSCode for Everything](https://hackernoon.com/how-i-configure-vscode-for-everything-7df65a316a52)
-    * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
     * [The Ultimate VSCode Setup for Front End/JS/React](https://medium.com/productivity-freak/the-ultimate-vscode-setup-for-js-react-6a4f7bd51a2)
     * [Free/Libre Open Source Software Binaries of VSCode](https://vscodium.com/)
     * [How to run Visual Studio Code in Google Cloud Shell](https://medium.com/google-cloud/how-to-run-visual-studio-code-in-google-cloud-shell-354d125d5748)
@@ -479,6 +478,13 @@ App
     * [How to write Javascript and React with VS Code FASTER! - CodePulse](https://codepulse.blog/how-to-write-javascript-and-react-with-vs-code-faster/)
     * [머신러닝도 Visiual Studio Code로 하세요 - YouTube](https://www.youtube.com/watch?v=TCpR_y-7tCs)
     * [Draw.io VS Code Integration](https://github.com/hediet/vscode-drawio/)
+    * Debug
+      * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
+      * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
+      * [How to set up the debugger for Chrome extension in Visual Studio Code](https://medium.freecodecamp.org/how-to-set-up-the-debugger-for-chrome-extension-in-visual-studio-code-c0b3e5937c01)
+      * [vscode-debug-visualizer/extension at master · hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer/tree/master/extension)
+        * [tool VSCode 디버그 시각화 확장 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222093736134)
+      * [vscode-realtime-debugging - An extension for VS Code that visualizes how a program is being executed in real time](https://github.com/hediet/vscode-realtime-debugging)
     * Extension
       * [Top 10 Angular VS Code Extensions](http://devboosts.com/2017/02/08/top-10-vs-code-extensions/index.html)
       * [Vscode 플러그인 리팩토링 - async & await](https://kdinner.tistory.com/46)
@@ -489,14 +495,12 @@ App
       * [Why I wrote 33 VSCode extensions and how I manage them](https://medium.com/@fabiospampinato/why-i-wrote-33-vscode-extensions-and-how-i-manage-them-cb61df05e154)
       * [Top JavaScript VSCode Extensions for Faster Development](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5)
       * [Immensely upgrade your development environment with these Visual Studio Code extensions](https://medium.freecodecamp.org/immensely-upgrade-your-development-environment-with-these-visual-studio-code-extensions-9cd790478530)
-      * [How to set up the debugger for Chrome extension in Visual Studio Code](https://medium.freecodecamp.org/how-to-set-up-the-debugger-for-chrome-extension-in-visual-studio-code-c0b3e5937c01)
       * [쾌적한 자바스크립트 코딩을 위한 VSCode 확장 프로그램 추천](https://codeameba.github.io/2019/06/10/tip-extensions/)
       * [VScode Extension - 확장프로그램 추천 및 설치방법](https://mishka86.github.io/2019/06/24/vscode-extension)
       * [vscode 강좌 1편 vscode설치와 유용한 extension설치](https://www.youtube.com/watch?v=Xs5aM9FYuic)
       * [Visual Studio Code Docker extension 1.0 – Better than Ever!](https://devblogs.microsoft.com/visualstudio/visual-studio-code-docker-extension-1-0-better-than-ever/)
       * [CodeTour VSCode extension allows you to produce interactive guides, assessments and tutorials](https://techcommunity.microsoft.com/t5/educator-developer-blog/codetour-vscode-extension-allows-you-to-produce-interactive/ba-p/1274297#)
       * [20 Best VS Code Extensions for Productive Web Development in 2020](https://towardsdatascience.com/20-best-vs-code-extensions-for-productive-web-development-in-2020-95bf904ceb69)
-      * [vscode-debug-visualizer/extension at master · hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer/tree/master/extension)
     * Online
       * [Visual Studio Online 어디에서든 액세스 가능한 클라우드 기반 개발 환경](https://visualstudio.microsoft.com/ko/services/visual-studio-online/)
       * [visual studio online tutorial | 사용법부터 장점과 단점까지 !](https://www.youtube.com/watch?v=HUhFSbwvloM)
@@ -513,6 +517,7 @@ App
       * [Jupyter Notebooks in Visual Studio Code](https://www.youtube.com/watch?v=FSdIoJdSnig)
       * [Jupyter Notebooks in Visual Studio Code](https://techcommunity.microsoft.com/t5/educator-developer-blog/jupyter-notebooks-in-visual-studio-code/ba-p/1155747)
       * [아직도 쥬피터노트북을 사용하시나요? - YouTube](https://www.youtube.com/watch?v=kQHk-sMB5HA)
+      * [How to correctly set PYTHONPATH for Visual Studio Code - Stack Overflow](https://stackoverflow.com/questions/53653083/how-to-correctly-set-pythonpath-for-visual-studio-code)
     * remote
       * [마이크로소프트 비주얼 스튜디오 코드, 원격 개발 기능 지원](https://www.44bits.io/ko/post/news--vs-code-now-supports-remote-development)
       * [Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
@@ -528,7 +533,6 @@ App
     * vim
       * [https://www.chrisatmachine.com/Neovim/22-vscodium-neovim/](https://www.chrisatmachine.com/Neovim/22-vscodium-neovim/)
         * [VSCode with embedded Neovim - YouTube](https://www.youtube.com/watch?v=g4dXZ0RQWdw)
-    * [vscode-realtime-debugging - An extension for VS Code that visualizes how a program is being executed in real time](https://github.com/hediet/vscode-realtime-debugging)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [Bear App](https://bear.app/)
