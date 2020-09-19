@@ -247,6 +247,7 @@ C++
 # C++20
 * [fast_io - a C++ io exception-safe RAII library based on C++ 20 Concepts. It is at least 10 times faster than cstdio than iostream](https://github.com/expnkx/fast_io)
 * [C++ 새 기술표준 연말 공개…모듈·코루틴 등 적용 - ZDNet korea](https://zdnet.co.kr/view/?no=20200909113902)
+* [C++ 20, 최종 기술 승인 획득··· 모듈 및 코루틴 등 추가 - CIO Korea](http://www.ciokorea.com/news/164145)
 
 # CppCon
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
