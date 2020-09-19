@@ -416,6 +416,7 @@ ElasticSearch - Lucene
 
 # Go
 * [go-elasticsearch - The official Go client for Elasticsearch](https://github.com/elastic/go-elasticsearch)
+* [The Go client for Elasticsearch: Introduction | Elastic Blog](https://www.elastic.co/kr/blog/the-go-client-for-elasticsearch-introduction)
 * [다나와 검색API 개발을 위한 ElasticSearch - GoClient 선택하기 - 다나와 기술블로그](https://danawalab.github.io/elastic/2020/08/04/ElasticSearch-GoClient.html)
 
 # Kibana
