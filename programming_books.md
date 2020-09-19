@@ -938,6 +938,7 @@ Programming Books
 * (NOT YET) 구글러가 전하는 IT 취업 가이드 : 면접준비에서 연봉협상까지 [A-Z]
   * 한라 325.337-맥25ㄱ
 * (NOT YET) [제이펍의 참 똑똑한 2비트 책 이야기 :: 인공지능 전문가를 위한 인터뷰(면접) 가이드](https://jpub.tistory.com/1053)
+* (NOT YET) [리뷰 데이터 과학자와 데이터 엔지니어를 위한 인터뷰 문답집 · TheoryDB](https://theorydb.github.io/review/2020/09/19/review-book-data-science-interview/)
 
 # iOS
 
@@ -1215,6 +1216,7 @@ Programming Books
 * (NOT YET) [파이썬으로 배우는 응용 텍스트 분석](https://jpub.tistory.com/976) 사이킷런, NLTK, Gensim, spaCy, NetworkX, Yellowbrick
 * (NOT YET) [파이썬으로 다시 배우는 핵심 고등 수학 - 수포자 프로그래머를 위한 손에 잡히는 기초 수학](https://wikibook.co.kr/python-math/)
 * (NOT YET) [파이썬으로 배우는 자연어 처리 인 액션](https://jpub.tistory.com/1008)
+* (NOT YET) [텐서플로와 머신러닝으로 시작하는 자연어 처리 TensorFlow 2 | 위키북스](https://wikibook.co.kr/nlp-tf2/)
 
 # NoSQL
 
