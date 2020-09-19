@@ -91,6 +91,7 @@
 # Class
 * [Classes are Expressions (and why that matters)](http://raganwald.com/2015/06/04/classes-are-expressions.html)
 * [왜 클래스죠?](http://www.haruair.com/blog/3895)
+* [Classes are just a fancy way of writing higher order functions](https://stopa.io/post/250)
 
 # Clojure
 * [Clojure Design Patterns](http://mishadoff.com/blog/clojure-design-patterns/)
