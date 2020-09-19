@@ -773,6 +773,7 @@ AWS
   * [파이썬으로 AWS S3 버킷(Bucket) 만들기](https://imasoftwareengineer.tistory.com/98)
 * cdK
   * [cdkworkshop.com](https://cdkworkshop.com/)
+  * [AWS CDK Patterns - An Opensource Collection of Serverless Architecture Patterns](https://cdkpatterns.com/)
   * [AWS Cloud Development Kit (CDK) Is Generally Available, Enhancing Coding Cloud Infrastructure](https://www.infoq.com/news/2019/07/amazon-aws-cdk-ga/)
   * [AWS Cloud Development Kit(CDK) – TypeScript 및 Python용 정식 버전 제공](https://aws.amazon.com/ko/blogs/korea/aws-cloud-development-kit-cdk-typescript-and-python-are-now-generally-available)
   * [CDK(Cloud Development Kit) 개념](https://dong-life.tistory.com/92)
