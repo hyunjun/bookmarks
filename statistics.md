@@ -384,6 +384,7 @@ Statistics
 * [**30명이면 된다고? 회의에서 당당하게, 설문조사를 알아보자**](http://triviaz.net/blog:easy_clt_survey)
 * [Statistics Tutorial with Python - YouTube](https://www.youtube.com/watch?v=YCPYNXtwKAc)
 * [Statistics Tutorial 2 Real World Example - YouTube](https://www.youtube.com/watch?v=ger_Won5sRQ)
+* [Moment Generating Function for Probability Distribution with Python | by Towards AI Team | Towards AI — Multidisciplinary Science Journal | Sep, 2020 | Medium](https://medium.com/towards-artificial-intelligence/moment-generating-function-for-probability-distribution-with-python-tutorial-34857e93d8f6)
 * [bayesianPy](http://psygrammer.github.io/bayesianPy/)
 * [DRL Monte Carlo Mothods](https://parksurk.github.io/deep/reinfocement/learning/drlnd_1-4_monte_calro_methods-post)
 * [ISLR-python](https://github.com/JWarmenhoven/ISLR-python)
