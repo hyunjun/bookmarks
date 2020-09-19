@@ -184,6 +184,7 @@ Git
 * [의존성 캐시로 Github Actions 속도 높이기](https://www.notion.so/Github-Actions-7ca7c1ddf2f74d24ab9173d1b5c97366)
 * [Doing Stupid Stuff with GitHub Actions | DevOps Directive](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
 * [Automate releases and more with the new Sentry Release GitHub Action - The GitHub Blog](https://github.blog/2020-08-24-automate-releases-and-more-with-the-new-sentry-release-github-action/)
+* [**GitHub Action을 이용한 알림 자동화 | 딥백수**](https://dl4ab.github.io/2020/09/18/slack-github-action-automation/) slack
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
@@ -656,6 +657,7 @@ Git
 * [git-meld-index - Run meld or any git difftool to interactively stage changes](https://github.com/jjlee/git-meld-index)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
 * [Git-mirror-sync - a GitHub service that allows users to easily backup there GitHub repositories to private BitBucket mirrors](http://obihann.github.io/git-mirror-sync/)
+* [git-open: Type `git open` to open the GitHub page or website for a repository in your browser](https://github.com/paulirish/git-open)
 * [gitoxide: An idiomatic, modern, lean, fast, safe & pure rust implementation of git](https://github.com/Byron/gitoxide)
 * [gitpod - One-Click Online IDE for GitHub](https://www.gitpod.io/)
   * [Scala - Gitpod](https://www.gitpod.io/docs/languages/scala/)
