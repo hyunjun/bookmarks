@@ -477,6 +477,7 @@ App
     * [VS Code settings you should customize](https://dev.to/thegeoffstevens/vs-code-settings-you-should-customize-5e75)
     * [How to write Javascript and React with VS Code FASTER! - CodePulse](https://codepulse.blog/how-to-write-javascript-and-react-with-vs-code-faster/)
     * [머신러닝도 Visiual Studio Code로 하세요 - YouTube](https://www.youtube.com/watch?v=TCpR_y-7tCs)
+    * [MS, 비주얼스튜디오 코드용 C++ 확장 기능 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20200916103754)
     * [Draw.io VS Code Integration](https://github.com/hediet/vscode-drawio/)
     * Debug
       * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
@@ -648,6 +649,7 @@ App
 
 # Mac
 * [오래된 아이맥, SSD 교체하기](https://jeonghwan-kim.github.io/think/2020/03/27/imac-ssd-replacement.html)
+* [fastmac: Get a MacOS or Linux shell, for free, in around 2 minutes](https://github.com/fastai/fastmac/)
 
 ## Mac App
 * [**practice - 최초 설치 후 install**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)
@@ -1266,5 +1268,6 @@ App
   * [WSL 2.0 Global configuration (.wslconfig) 을 통한 성능 향상](https://kibua20.tistory.com/63)
   * [Getting started with CUDA on Ubuntu on WSL 2 | Ubuntu](https://ubuntu.com/blog/getting-started-with-cuda-on-ubuntu-on-wsl-2)
   * [WSL 2 X11 애플리케이션을 더 깔끔하게 실행하는 방법. WSL 2 X11 애플리케이션을 윈도우 환경에서 좀 더 깔끔하게 실행할… | by Jung-Hyun Nam | Beyond the Windows, Korean Edition | Aug, 2020 | Medium](https://medium.com/beyond-the-windows-korean-edition/wsl-2-x11-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%84-%EB%8D%94-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-5a270835801c)
+  * [Blog @ Codonomics: WSL For Development In Windows 10 Is The New Kool-Aid](https://blog.codonomics.com/2020/09/wsl-for-development-in-windows-10-is.html)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [X server 4 Windows 10](https://x410.dev/)
