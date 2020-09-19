@@ -955,6 +955,8 @@ Apache
 * [Apache Thrift](https://github.com/likejazz/likejazz.github.io/wiki/Apache-Thrift)
 * [아파치 쓰리프트의 bool 타입 관련 제한 값](http://knight76.tistory.com/entry/%EC%95%84%ED%8C%8C%EC%B9%98-%EC%93%B0%EB%A6%AC%ED%94%84%ED%8A%B8%EC%9D%98-bool-%ED%83%80%EC%9E%85-%EA%B4%80%EB%A0%A8-%EC%A0%9C%ED%95%9C-%EA%B0%92)
 
+# [Tika](https://tika.apache.org/)
+
 # [Toree](http://toree.apache.org/)
 
 # [UIMA](https://uima.apache.org)
