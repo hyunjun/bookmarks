@@ -283,6 +283,7 @@ NLP
 * [GPT-3 paper를 읽고 써보는 간략한 리뷰, Language Models are Few-Shot Learners](https://ai4nlp.tistory.com/11)
 * [대화형 인공지능(GPT-3) 한방에 이해하기 feat. 솔트룩스 이경일 대표 - YouTube](https://www.youtube.com/watch?v=LO1aa_1J_HE)
 * [The First Wave of GPT-3 Enabled Applications Offer a Preview of Our AI Future](https://www.infoq.com/articles/gpt3-enabled-applications/)
+* [영상 초보자도 쉽게 GPT-3를 사용해 혼자서 GPT-3 모델을 구현한다 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=17777)
 * [minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training](https://github.com/karpathy/minGPT) 일종의 교육용 GPT
 * [I build my ideas #8 - 07/19/20 - I build my ideas from Jordan Singer](https://ibuildmyideas.substack.com/p/i-build-my-ideas-8-071920)
 * [Text generation with a Variational Autoencoder](https://nicgian.github.io/text-generation-vae/)
