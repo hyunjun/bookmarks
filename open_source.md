@@ -64,6 +64,7 @@ Open Source
 * [Python 오픈소스(Open Source) 분석 방법 · 어쩐지 오늘은](https://zzsza.github.io/development/2020/07/19/opensource-analysis/)
 * [오픈소스 컨트리뷰션을 위한 개발환경 설정방법 - 초급 - YouTube](https://www.youtube.com/watch?v=WLHq-YKa0zk) Git, VM, VSCode, Golang, Shell script, ...
 * [OpenSource 초보 컨트리뷰터의 Mocha issue 해결 도전기 - 사진찍는 웹 개발자](https://donghoon759.github.io/posts/2020-09-06---%EC%B4%88%EB%B3%B4-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%84%B0%EC%9D%98-Mocha-issue-%ED%95%B4%EA%B2%B0-%EB%8F%84%EC%A0%84%EA%B8%B0/)
+* [oss-basic-training: oss training materials and scripts](https://github.com/ncsoft/oss-basic-training)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
@@ -165,7 +166,10 @@ Open Source
 * [스티븐 호킹(Stephen Hawking) 박사가 사용하는 연설(Speech) 소프트웨어 오픈소스로 공개](http://techneedle.com/archives/21954)
 
 # Library
+* [주니어 개발자가 처음 풀 리퀘스트 보내본 썰.txt - 난생 처음으로 오픈 소스 프로젝트에 풀 리퀘스트를 보내 기여해 본 경험을 기술합니다](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html)
+* [킨IO, 데이터 시각화 도구 오픈소스로 공개](http://www.bloter.net/archives/236375)
 * [A simple video conferencing project "Ah! FreeCa"](http://ryulib.tistory.com/357)
+* [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
 * [AirenSoft](https://github.com/AirenSoft/) media player
 * [Disque - a distributed message broker](https://github.com/antirez/disque)
   * [Introducing Disque](http://www.thedotpost.com/2015/06/salvatore-sanfilippo-introducing-disque)
@@ -178,9 +182,7 @@ Open Source
 * [**Github - 오픈소스 기여를 위한 GITHUB 개념정리**](http://guruble.com/?p=116)
 * [Grid - Open sourcing Grid, the Guardian’s new image management service](https://www.theguardian.com/info/developer-blog/2015/aug/12/open-sourcing-grid-image-service)
 * [H3 2012 오픈소스로 개발 실력 쌓기](http://www.slideshare.net/kthcorp/h3-2012-15042338)
-* [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
-* [주니어 개발자가 처음 풀 리퀘스트 보내본 썰.txt - 난생 처음으로 오픈 소스 프로젝트에 풀 리퀘스트를 보내 기여해 본 경험을 기술합니다](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html)
-* [킨IO, 데이터 시각화 도구 오픈소스로 공개](http://www.bloter.net/archives/236375)
+* [**LibHunt**](https://www.libhunt.com/) Find The Software You Need
 * [Mailtrain | Self Hosted Newsletter App](https://mailtrain.org/)
 * [QP™ (Quantum Platform) is a family of lightweight, open source software frameworks for building responsive and modular real-time embedded applications as systems of cooperating, event-driven active objects (actors)](http://www.state-machine.com/qp/index.php)
 * [ScanCode - a tool to scan code and detect licenses, copyrights and more](https://github.com/nexB/scancode-toolkit/)
