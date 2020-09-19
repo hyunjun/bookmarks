@@ -82,7 +82,6 @@ Docker
 * [Docker Best Practices](https://medium.com/rainist-engineering/docker-best-practices-8b4f28ab3a65)
 * [도커 베스트 프랙티스 (번역)](https://changhoi.github.io/posts/docker/Docker-best-practices/)
 * ['쓸만한' Docker Image 만들기 - Part 1 Build an Usable Docker Image with Alpine Linux](http://www.sauru.so/blog/build-usable-docker-image-part1/)
-* ['쓸만한' Docker Image 만들기 - Part 2 Build and Push a Docker Image For Go Development](http://www.sauru.so/blog/build-usable-docker-image-part2/)
 * [효율적인 도커 이미지 만들기 #1 - 작은 도커 이미지](https://bcho.tistory.com/1356)
 * [효율적인 도커 이미지 만들기 #2 - 도커 레이어 캐슁을 통한 빌드/배포 속도 높이기](https://bcho.tistory.com/1357)
 * [**도커 이미지 잘 만드는 방법**](https://jonnung.dev/docker/2020/04/08/optimizing-docker-images/)
@@ -311,7 +310,6 @@ Docker
 * [10 Open Source Docker Tools You Should Be Using](http://blog.getcrane.com/10-open-source-docker-tools-you-should-be-using)
 * [Docker and Microsoft announce more innovation to cross platforms and win hearts](http://azure.microsoft.com/blog/2015/06/23/docker-and-microsoft-announce-more-innovation-to-cross-platforms-and-win-hearts)
 * [Container OS comparison](http://blog.codeship.com/container-os-comparison/)
-* [A Go, Docker workflow](http://blog.crowdpatent.com/a-go-docker-workflow/)
 * [Why Docker is Not Yet Succeeding Widely in Production](http://sirupsen.com/production-docker/)
 * [Docker Misconceptions](https://valdhaus.co/writings/docker-misconceptions/)
 * [My Slow Internet vs Docker](https://medium.com/google-cloud-platform-developer-advocates/my-slow-internet-vs-docker-7678ae1cae72)
@@ -826,6 +824,7 @@ Docker
 * [Managing Kubernetes resources: 5 things to remember | The Enterprisers Project](https://enterprisersproject.com/article/2020/8/managing-kubernetes-resources-5-things-remember)
 * [Logging in Kubernetes: EFK vs PLG Stack - InfraCloud Technologies](https://www.infracloud.io/blogs/logging-in-kubernetes-efk-vs-plg-stack/)
 * ['대세' 쿠버네티스, 문제는 '보안'··· 베스트 보안 프랙티스 5가지 - CIO Korea](http://www.ciokorea.com/news/163115)
+* [10 Anti-Patterns for Kubernetes Deployments | by Becca Bau | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/10-antipatterns-for-kubernetes-deployments-e97ce1199f2d)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -931,9 +930,6 @@ Docker
 * firefighter [microVM: Another Level of Abstraction for Serverless Computing | by Mostafa Moradian | ITNEXT](https://itnext.io/microvm-another-level-of-abstraction-for-serverless-computing-5f106b030f15)
 * [Flocker 1.0: Container Data Management for Docker](https://clusterhq.com/2015/06/17/flocker-1-0/)
 * [Galley is a command-line tool for orchestrating Docker containers in development and test environments](https://github.com/twitter-fabric/galley)
-* Gocker [Containers the hard way: Gocker: A mini Docker written in Go - Unixism](https://unixism.net/2020/06/containers-the-hard-way-gocker-a-mini-docker-written-in-go/)
-* [gockerize - Package golang service into minimal docker containers](https://github.com/aerofs/gockerize)
-  * [Introducing gockerize](https://www.aerofs.com/blog/introducing-gockerize/)
 * [hadolint - Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint)
   * [Dockerfile 정적분석하기 (hadolint)](https://qiita.com/leechungkyu/items/50976861ae1faecaaafd)
 * [hyper - Hypervisor-agnostic Docker Engine](https://hyper.sh/)
@@ -1017,6 +1013,7 @@ Docker
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/)
+* [Introduction to runc — Danish Prakash](https://danishpraka.sh/2020/07/24/introduction-to-runc.html)
 
 # Swarm
 * [docker swarm - 신명수](https://www.youtube.com/watch?v=DZOu7GkXULI)
