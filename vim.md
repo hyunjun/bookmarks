@@ -167,6 +167,8 @@ Vim
 * [Chase Your VIM Demons Away](https://medium.com/better-programming/chase-your-vim-demons-away-4405168effc8)
 * [Editors (Vim)](https://missing.csail.mit.edu/2020/editors/)
 * [Portable Shell and VIM Customization | by Jeremy Cheng | Jul, 2020 | Level Up Coding](https://levelup.gitconnected.com/portable-shell-and-vim-customization-9c054d80f5ca)
+* [**(Linux) Vim 에디터 다양한 기능 설명 및 C++/Python 개발 환경설정 · Edward Im**](https://edward0im.github.io/technology/2020/09/17/vim/)
+* [Vim for humans | Free price ebook](https://vimebook.com/en)
 
 # Book
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro/read_full)
