@@ -118,6 +118,7 @@
 * [Mono - Cross platform, open source .NET framework](https://www.mono-project.com)
   * [Roslyn and Mono](http://tirania.org/blog/archive/2015/Jul-21.html)
 * ML.NET [Welcome to the world of Machine Learning with ML.NET 1.0 - BRK3011](https://www.youtube.com/watch?v=pxUzw6JyqcM)
+* [.NETMemoryPerformanceAnalysis.md at master · Maoni0/mem-doc](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md)
 * [referencesource.microsoft.com](http://referencesource.microsoft.com/) .NET Framework source code online
 
 # [Visual Studio](https://www.visualstudio.com/)
@@ -159,6 +160,7 @@
 * [5분 따라하기 비주얼 스튜디오 C++에서 JSON 파서 설치하기](https://jhrogue.blogspot.com/2020/08/5-c-json.html)
   * [5분 따라하기 비주얼 스튜디오 C++에서 JSON 파서 설치하기 - YouTube](https://www.youtube.com/watch?v=KH3mirEkZKU)
 * [프리지아 랩 :: DEP0700 : Registration of the app failed](https://www.dokyun.pe.kr/257)
+* [마이크로소프트 비주얼 스튜디오, ‘C 언어’ 지원 강화 - CIO Korea](http://www.ciokorea.com/news/164980)
 
 ## Visual Studio Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)
