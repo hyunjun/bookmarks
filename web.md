@@ -402,6 +402,7 @@ Web
   * [파이썬 selenium-셀레니움 ) 네이버 로그인하기 (네이버 자동로그인 방지문자 우회 1분컷)](https://sab-jil.tistory.com/2)
   * [파이썬으로 인스타그램 포스팅](http://triviaz.net/blog:instagram_posting)
   * [파이썬 자동화](https://www.youtube.com/playlist?list=PL5L3Lhdx2zrPzFeVyQ_SJhTpy0lLPCmfZ)
+  * [7 Ways to hide your Bot Automation from Detection | How to make Selenium undetectable and stealth | PiProgramming](https://piprogramming.org/articles/How-to-make-Selenium-undetectable-and-stealth--7-Ways-to-hide-your-Bot-Automation-from-Detection-0000000017.html)
 * [springer_free_books - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine](https://github.com/alexgand/springer_free_books)
 * [youtube-downloader-v1.0](https://github.com/jiyeon1997/youtube-downloader-v1.0)
 
