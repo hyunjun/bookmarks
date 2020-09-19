@@ -32,6 +32,7 @@ SQL
 * [Crab adds SQL to your command lin](http://etia.co.uk/)
 * [PizzaHack - Project from Maghimim 2015 camp for teaching about the SQL Injection vulnerability, and about SQL](https://github.com/benjamingr/pizzahack)
 * [free.codebashing.com/courses/python/lessons/sql_injection](https://free.codebashing.com/courses/python/lessons/sql_injection) 파이썬으로 대화형 sql injection test
+* [How I bypassed Cloudflare's SQL Injection filter](https://www.astrocamel.com/web/2020/09/04/how-i-bypassed-cloudflares-sql-injection-filter.html)
 * [Welcome to the π-Base - A community database of topological examples with automated deduction and powerful search](http://topology.jdabbs.com/)
 * [Yesquel: scalable SQL storage for Web applications](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/106-aguilera.pdf)
 * [FreeGeoDB - Free database of geographic place names and corresponding geospatial data](https://github.com/delight-im/FreeGeoDB)
@@ -101,6 +102,7 @@ SQL
 * [오라클12c 행제한구문 실습, MySQL의 top-N 쿼리, 페이징 쿼리 (Pagination Query) - YouTube](https://www.youtube.com/watch?v=HT3EltCwgmw)
 * [How to Implement Cursor Pagination Like a Pro | by Megan Chang | The Startup | Medium](https://medium.com/swlh/how-to-implement-cursor-pagination-like-a-pro-513140b65f32)
 * [A Snowflake deep dive](https://hhhypergrowth.com/a-snowflake-deep-dive/) 기술이야기는 아니고 snowflake 소개
+* [Database of Databases - Home](https://dbdb.io/)
 * [DBeaver](https://dbeaver.io/)
   * [Mac, Linux 에서 쓸만한 DB Tool - DBeaver](http://lifeones.tistory.com/129)
   * [데이터베이스 연결 도구 - DBeaver 설치](https://jybaek.tistory.com/858)
@@ -428,6 +430,7 @@ SQL
 * [MySQL 8.0 – Who stopped mysqld and how long did it take ? – lefred's blog: tribulations of a MySQL Evangelist](https://lefred.be/content/mysql-8-0-who-stopped-mysqld-and-how-long-did-it-take/)
 * [MySQL 5.6 EOL is February 2021 !! – lefred's blog: tribulations of a MySQL Evangelist](https://lefred.be/content/mysql-5-6-eol-is-february-2021/) 8.0
 * [Upgrading MySQL (Percona Server) from 5.7 to 8.0 | by Flant staff | Flant | Medium](https://medium.com/flant-com/upgrading-mysql-percona-server-5-to-8-4bce53bdce5c)
+* [MySQL 8.0 업그레이드 전 짚어봐야할 몇 가지! | STAR::DATABASE](https://stardba.net/sun/checkpoint-mysql80-upgrade/)
 * [5 MySQL features you need to know](https://opensource.com/article/20/3/mysql-features)
 * [18 Things You Can Do to Remove MySQL Bottlenecks Caused by High Traffic (Part One)](https://www.percona.com/blog/2020/04/03/18-things-you-can-do-to-remove-mysql-bottlenecks-caused-by-high-traffic-part-one/)
 * [Need to Connect to a Local MySQL Server? Use Unix Domain Socket!](https://www.percona.com/blog/2020/04/13/need-to-connect-to-a-local-mysql-server-use-unix-domain-socket/)
@@ -481,6 +484,7 @@ SQL
     * 페이스북은 InnoDB를 MyRocks로 스토리지 엔진을 전환하여 스토리지 사용량을 절반으로 감소
     * InnoDB를 MyRocks로 마이그레이션하는 방법을 간단히 설명
   * [Migrating Messenger storage to optimize performance](https://code.facebook.com/posts/201318390519340/migrating-messenger-storage-to-optimize-performance/) facebook messenger storage, migration from HBase to MyRocks
+  * [How Facebook Accelerates SQL at Extreme Scale](https://www.datanami.com/2020/08/31/how-facebook-accelerates-sql-at-extreme-scale/)
 * [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)
 * [OSC - Facebook releases a new OnlineSchemaChange tool written in Python](http://www.eversql.com/facebook-releases-a-new-onlineschemachange-tool-written-in-python/)
 * [Planche - Javascript MySQL GUI Client Tool](https://github.com/plancheproject/planche)
@@ -599,6 +603,8 @@ SQL
 * [PSQL TIMESTAMP/AT TIME ZONE 바로 알기 · Billo Park](https://blog.billo.io/devposts/psql_at_time_zone/)
 * [Handling NULL Values in PostgreSQL - Percona Database Performance Blog](https://www.percona.com/blog/2020/03/05/handling-null-values-in-postgresql/)
 * [PostgreSQL의 슬로우 쿼리에 대처하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/31/improve-slow-query.html)
+* [Why PostgreSQL WAL Archival is Slow - Percona Database Performance Blog](https://www.percona.com/blog/2020/09/09/why-postgresql-wal-archival-is-slow/)
+* [Full-Text Search Battle: PostgreSQL vs Elasticsearch | sudo README](https://rocky.dev/full-text-search)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
@@ -679,6 +685,7 @@ SQL
   * [SQL Join](https://www.youtube.com/playlist?list=PLuHgQVnccGMAG1O1BRZCT3wkD_aPmPylq)
 * [Join 에 관해서 정리해 보겠습니다](https://developer88.tistory.com/331)
 * [SQL의 핵심, 다양한 종류의 조인 : 네이버 블로그](https://blog.naver.com/codeitofficial/222019008042)
+* [Say NO to Venn Diagrams When Explaining JOINs – Java, SQL and jOOQ.](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)
