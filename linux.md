@@ -93,7 +93,6 @@ Linux
 * [GNOME 데스크탑 : caps lock을 control로 사용하기](https://sunyzero.tistory.com/263)
 * [10 Best Linux Distros to Install on a USB Stick](https://www.fossmint.com/best-linux-distros-to-install-on-usb)
 * [A beginner's guide to Linux permissions](https://opensource.com/article/19/6/understanding-linux-permissions)
-* [How To Install VMWare Fusion with Ubuntu on a Mac](http://hplgit.github.io/teamods/ubuntu/vmware/mac.html)
 * [리얼리눅스 제 1 회 세미나: "리눅스, 제대로 알고 코딩하자!"](https://www.slideshare.net/Real_Linux/1-169469250)
 * [11 Reasons You Should Learn to Use Linux](https://www.maketecheasier.com/reasons-learn-use-linux/)
 * [Linux에서 터미널, 콘솔, 쉘, tty, pty, pts 차이 정리](https://jootc.com/p/20170306208/)
@@ -103,7 +102,6 @@ Linux
 * [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
 * [리눅스 방화벽과 NAT를 위한 ipTables](https://bcho.tistory.com/1366)
 * [The Complicated Firewall](https://www.thelinuxrain.com/articles/the-complicated-firewall) iptable
-* [Tuning the sensitivity of the Lenovo TrackPoint on Ubuntu](https://silvae86.github.io/trackpoint/ubuntu/sensitivity/tuning/2019/05/17/tuning-ibm-lenovo-trackpoint/)
 * [Analyzing the Attacks on my Website](https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf)
 * [Speeding up Linux disk encryption](https://blog.cloudflare.com/speeding-up-linux-disk-encryption/)
 * [리눅스에서 커맨드 라인으로 모니터 밝기 조절하기](https://kkamagui.tistory.com/921)
@@ -221,6 +219,7 @@ Linux
       * 전체 repository에 대해 proxy를 설정할 때는 /etc/yum.conf에 추가
       * 개별 repository에 대해 proxy를 설정할 때는 /etc/yum.repos.d/some.repo의 각 항목마다 추가
   * [Which yum variable can give 6 or 7 as output](https://stackoverflow.com/questions/35978202/which-yum-variable-can-give-6-or-7-as-output/35978695#35978695)
+  * [Why does yum return error: \[Errno 256\] No more mirrors to try ? - Red Hat Customer Portal](https://access.redhat.com/solutions/203603)
 * /tmp
   * [프로젝트 출시 10일 후 새벽 4시에 발생한 장애의 원인](https://iamsang.com/blog/2017/05/27/server-failure-10-days-after-release/) /tmp directory 관련 내용
 
@@ -239,6 +238,7 @@ Linux
 * [우분투 연말정산](https://logon.tistory.com/770)
 * [How to Install Nginx, MariaDB and PHP7 (LEMP Stack) on Ubuntu 16.04 LTS](https://www.linuxbabe.com/linux-server/install-nginx-mariadb-php7-lemp-stack-ubuntu-16-04-lts)
 * [우분투 resolv.conf 세팅 정리 - 완두블로그](https://wani.kr/posts/2017/03/22/ubuntu-resolvconf-settings-summary/)
+* [How to take back control of /etc/resolv.conf on Linux | Ctrl blog](https://www.ctrl.blog/entry/resolvconf-tutorial.html)
 * [Ubuntu 꼴랑이거(1) - 서버 시간이 차이가 날때.. - 완두블로그](https://wani.kr/posts/2015/04/23/ubuntu-something-1-time/)
 * [Ubuntu를 업그레이드 해보자 - 완두블로그](https://wani.kr/posts/2015/01/30/ubuntu-upgrade-12-to-14/)
 * [Ubuntu 20.04에서 sshfs 를 이용한 원격 폴더 마운트](https://kibua20.tistory.com/49)
@@ -246,6 +246,9 @@ Linux
 * [우분투로 자바스크립트 개발하기 — 2. 개발환경 세팅하기. 우분투로 자바스크립트를 개발하고 싶어하는 입문자들을 위한 글입니다… | by Hong Shik Branden Kim | 코드스테이츠 Code States — 혁신적인 코딩 교육 부트캠프 | Medium](https://medium.com/code-states/%EC%9A%B0%EB%B6%84%ED%88%AC%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-2-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-9f8becea9e05)
 * [우분투로 자바스크립트 개발하기 — 3. FAQ / 도움되는 글 링크 | by Hong Shik Branden Kim | 코드스테이츠 Code States — 혁신적인 코딩 교육 부트캠프 | Medium](https://medium.com/code-states/%EC%9A%B0%EB%B6%84%ED%88%AC%EB%A1%9C-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-3-faq-%EB%8F%84%EC%9B%80%EB%90%98%EB%8A%94-%EA%B8%80-%EB%A7%81%ED%81%AC-fb132d06b44c)
 * [Ubuntu20에서 가상환경으로 python3.6 이용하기 - RomanticQ의 머신러닝](https://romanticq.github.io/%EC%9A%B0%EB%B6%84%ED%88%AC/ubuntu-virtualenv/)
+* [How To Install VMWare Fusion with Ubuntu on a Mac](http://hplgit.github.io/teamods/ubuntu/vmware/mac.html)
+* [Tuning the sensitivity of the Lenovo TrackPoint on Ubuntu](https://silvae86.github.io/trackpoint/ubuntu/sensitivity/tuning/2019/05/17/tuning-ibm-lenovo-trackpoint/)
+* [Top 10 Ubuntu Network Tools – Linux Hint](https://linuxhint.com/top-10-ubuntu-network-tools/)
 
 # Book
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)
@@ -450,6 +453,7 @@ Linux
     * `grep -Po 'query=\K[a-zA-Z]{16,}'` log에서 query=...으로 되어 있는 부분에서 16자 이상의 영문자만 찾고 싶은 경우. -P는 perl regular expression, \K는 앞 부분은 결과에서 제외, GNU grep version 2.5 이상
   * [Deep Dive Grep](http://avengers.alinos.net/2016/06/04/deep-dive-grep/)
   * [리눅스에서 Grep and , or , not 사용법](http://hamait.tistory.com/809)
+  * [Use long flags when scripting |> News and podcasts for developers |> Changelog](https://changelog.com/posts/use-long-flags-when-scripting)
 * `gzip`
   * [Parallel gzip compression with pigz](https://rachaellappan.github.io/pigz/)
   * Pigz [Lei Mao's Log Book – Parallel Gzip - Pigz](https://leimao.github.io/blog/Parallel-Gzip-Pigz/)
@@ -565,6 +569,7 @@ Linux
   * [bash 저장 SINGLE 줄에 따옴표로 묶인 파일 이름을 출력하는 방법은 무엇입니까?](https://src-bin.com/ko/q/5c2ffc) path에 space가 있어서 quotation을 추가하기 원할 때
   * [Sed One-Liners Explained, Part I: File Spacing, Numbering and Text Conversion and Substitution](https://catonmat.net/sed-one-liners-explained-part-one)
   * [shell script 작성시 sed 치환패턴 문자열 escapse](https://bloodguy.tistory.com/entry/Linux-shell-script-%EC%9E%91%EC%84%B1%EC%8B%9C-sed-%EC%B9%98%ED%99%98%ED%8C%A8%ED%84%B4-%EB%AC%B8%EC%9E%90%EC%97%B4-escapse)
+  * [sed를 살펴보자! sed 명령어 사용법과 예시, 패턴 스페이스와 홀드 스페이스, 유용 표현](https://jhnyang.tistory.com/287)
   * [sed-bin: sed to C translator written in sed](https://github.com/lhoursquentin/sed-bin)
 * [`seq`](http://www.delorie.com/gnu/docs/textutils/coreutils_156.html)
   * `seq -f '%05g' [start number] [end number]` format string %e, %g, %f
@@ -596,6 +601,7 @@ Linux
   * [SSH Tips & Tricks](https://smallstep.com/blog/ssh-tricks-and-tips/)
   * [MAC에서 비밀번호 없이 ssh 접속하기(config) - On KimKevin's Dev Way](https://blog.kimkevin.net/mac%ec%97%90%ec%84%9c-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8-%ec%97%86%ec%9d%b4-ssh-%ec%a0%91%ec%86%8d%ed%95%98%ea%b8%b0config/)
   * [SSH Emergency Access](https://smallstep.com/blog/ssh-emergency-access/)
+  * [endlessh: SSH tarpit that slowly sends an endless banner](https://github.com/skeeto/endlessh)
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
 * `stat`
   * `[ 0 = ``stat --printf="%s" $f`` ] && rm $f` remove file if size is 0
@@ -800,6 +806,7 @@ Linux
 * [LSD (LSDeluxe) The next gen ls command](https://github.com/Peltoche/lsd)
 * [Lynis - an open source security auditing tool](https://cisofy.com/lynis/)
 * [makeself - Make self-extractable archives on Unix](http://stephanepeter.com/makeself/)
+* [Material Shell - A new desktop experience](https://material-shell.com/#material-shell)
 * [Mininet - An Instant Virtual Network on your Laptop](http://mininet.org/)
 * [MinIO Client - a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. https://min.io/download ](https://github.com/minio/mc)
 * ngrok [외부 네트워크에서 localhost로 접속 - ngrok](https://jybaek.tistory.com/798)
@@ -931,6 +938,7 @@ Linux
 * [Tmux에서 페이지 스크롤 마우스로 사용하기](https://jojoldu.tistory.com/429)
 * [github.com/Zeta611/dotfiles](https://github.com/Zeta611/dotfiles) tmux 설정 참조
 * [TMUX FOR MERE MORTALS](https://zserge.com/posts/tmux/)
+* [tmux 입문자 시리즈 요약 | 매일 성장하기 - 김용균](https://edykim.com/ko/post/tmux-introductory-series-summary/)
 * [tmux-git - Script for showing current Git branch in Tmux status bar](https://github.com/drmad/tmux-git)
 * [tmux-xpanes - Awesome tmux-based terminal divider](https://github.com/greymd/tmux-xpanes)
 * [tpm - Tmux Plugin Manager](https://github.com/tmux-plugins/tpm)
