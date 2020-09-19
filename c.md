@@ -166,6 +166,7 @@ C
 * [What does gcc main.c do?. Table of Contents | by Connor Brereton | Medium](https://medium.com/@connorbrereton/what-does-gcc-main-c-do-bc96824a60a4) compile 과정
 * [Why the C Language Will Never Stop You from Making Mistakes | The Pasture](https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you)
 * [Exploring mullender.c - A deep dive into the first IOCCC winner :: LainSystems](https://lainsystems.com/posts/exploring-mullender-dot-c/)
+* [The problem with C | cor3ntin](https://cor3ntin.github.io/posts/c/)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
