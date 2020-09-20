@@ -371,7 +371,6 @@
 * [Spark 성능 최적화 및 튜닝 방법 - Part 1](https://nephtyws.github.io/data/spark-optimization-part-1/)
 * [Master Spark fundamentals & optimizations](https://www.streamhub.co.uk/apache-spark-tuning-manual/)
 * [Apache Spark Optimization Techniques | by Nabarun Chakraborti | Jun, 2020 | Medium](https://medium.com/@ch.nabarun/apache-spark-optimization-techniques-54864d4fdc0c)
-* [New Developments in the Open Source Ecosystem: Apache Spark 3 0, Delta Lake, and Koalas](https://www.youtube.com/watch?v=scM_WQMhB3A)
 * [ClickHouse Clustering for Spark Developer](http://blog.madhukaraphatak.com/clickouse-clustering-spark-developer/)
 * [Data Modeling in Apache Spark - Part 1 : Date Dimension](http://blog.madhukaraphatak.com/data-modeling-spark-part-1/)
 * [Data Modeling in Apache Spark - Part 2 : Working With Multiple Dates](http://blog.madhukaraphatak.com/data-modeling-spark-part-2/)
@@ -599,6 +598,7 @@
 * [Delta Lake on Databricks - Databricks](https://databricks.com/product/delta-lake-on-databricks)
   * [Tutorial: How Delta Lake Supercharges Data Lakes - YouTube](https://www.youtube.com/watch?v=u1VfOiHVeMI)
   * [SmartSQL Queries powered by Delta Engine on Lakehouse - YouTube](https://www.youtube.com/watch?v=PCVyk8npl-k)
+  * [Making Apache Spark™ Better with Delta Lake - YouTube](https://www.youtube.com/watch?v=LJtShrQqYZY)
 * [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)
 * EMR
   * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
@@ -840,6 +840,7 @@
 * [Koalas: pandas API on Apache Spark](https://github.com/databricks/koalas)
   * [Koalas: Easy Transition from pandas to Apache Spark](https://databricks.com/blog/2019/04/24/koalas-easy-transition-from-pandas-to-apache-spark.html)
   * [10 Minutes from pandas to Koalas on Apache Spark With demonstrable Python how-to Koalas code snippets and Koalas best practices](https://databricks.com/blog/2020/03/31/10-minutes-from-pandas-to-koalas-on-apache-spark.html)
+  * [New Developments in the Open Source Ecosystem: Apache Spark 3 0, Delta Lake, and Koalas](https://www.youtube.com/watch?v=scM_WQMhB3A)
 * [Analyze MongoDB Logs Using PySpark](https://medium.com/hackernoon/analyze-mongodb-logs-using-pyspark-97a915547da0)
 * [Real-world Python workloads on Spark: EMR clusters](https://becominghuman.ai/real-world-python-workloads-on-spark-emr-clusters-3c6bda1a1350)
 * [First Steps With PySpark and Big Data Processing](https://realpython.com/pyspark-intro/)
