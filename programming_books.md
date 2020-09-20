@@ -689,6 +689,7 @@ Programming Books
 * (NOT YET) [김기현의 자연어 처리 딥러닝 캠프(파이토치 편)](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B1294694476)
   * [자연어 처리 딥러닝 캠프](https://jybaek.tistory.com/820)
 * (NOT YET) [펭귄브로의 3분 딥러닝, 파이토치맛](http://www.hanbit.co.kr/store/books/look.php?p_code=B7193109877)
+  * [책 펭귄브로의 3분 딥러닝, 파이토치맛](https://jybaek.tistory.com/879)
 
 ## Visualization
 * 비쥬얼라이즈 디스: 빅데이터 시대의 데이터 시각화 + 인포그래픽 기법
