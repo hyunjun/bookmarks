@@ -167,6 +167,7 @@ C++
 * [Windows Trampoline – Kudryavka Noumi](https://www.kudryavka.me/?p=959)
 * [Fast Virtual Functions: Hacking the VTable for Fun and Profit | by Caleb Leak | Medium](https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0)
 * [Some awesome modern C++ features that every developer should know | by Mottakin Chowdhury | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c)
+* [이동 의미구조(Move Semantics) 주의할 점 | The Dream of Super Surplus Power](https://surpreem.com/%ec%9d%b4%eb%8f%99-%ec%9d%98%eb%af%b8%ea%b5%ac%ec%a1%b0move-semantics-%ec%a3%bc%ec%9d%98%ed%95%a0-%ec%a0%90/)
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
