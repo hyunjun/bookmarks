@@ -606,6 +606,7 @@ Scala
   * [How to compose Future and Option in Scala – Loïc's Blog](https://loicdescotte.github.io/posts/scala-compose-option-future/)
   * [Scala Concurrency Advice: For Future Fun Fold On A FlatMap | by Bryan Bunch | Medium](https://medium.com/@brybunch/scala-concurrency-advice-for-future-fun-fold-on-a-flatmap-a06f37fdd498)
 * Implicit
+  * [practice - implicit parameter](https://gist.github.com/hyunjun/be0a11583dfcb41f4273e5957e1c8022#file-implicit_parameter-scala)
   * [IMPLICIT PARAMETERS](https://docs.scala-lang.org/tour/implicit-parameters.html)
   * [IMPLICIT CONVERSIONS](https://docs.scala-lang.org/tour/implicit-conversions.html)
   * [WHERE DOES SCALA LOOK FOR IMPLICITS?](https://docs.scala-lang.org/tutorials/FAQ/finding-implicits.html)
