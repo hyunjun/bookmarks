@@ -1980,6 +1980,7 @@ Programming
 * [2020년 9월 5일 개발자 이야기](https://jhrogue.blogspot.com/2020/09/b-2020-9-5.html) 오픈소스 비즈니스, 알아야하는 DB 지식, MySQL 커닝 페이퍼, 10가지 크롬 플래그, 반응형 웹 페이지 테스트 도구, IT 기업 기술 블로그, 윈도우 10 자동 실행 목록 보기
   * [(09/05) 웹 사이트 반응 속도가 왜 중요할까? - YouTube](https://www.youtube.com/watch?v=CbU5kgUL6uk)
 * [2020년 9월 12일 개발자 이야기](https://jhrogue.blogspot.com/2020/09/b-2020-9-12.html) 기술부채, 웹 기술 hwp 뷰어, 구글 프로덕트 매니저가 알려주는 기획서 작성, MySQL 8.0 업그레이드, 깃허브 기본 브랜치 이름 변경
+* [(9월 19일) 깃허브가 취업에 도움이 되지 않는 이유](https://jhrogue.blogspot.com/2020/09/9-19.html) LibHunt: 라이브러리/프레임워크 비교의 끝판왕, 수학과 함께하는 AI 기초 by EBS, 젯브레인 자바 뉴스레터, Endlessh – SSH 끈끈이, 유닉스 명령어 이름 기원
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 
 # OS Operating System
