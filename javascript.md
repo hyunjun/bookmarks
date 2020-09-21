@@ -2481,6 +2481,7 @@ Javascript
 * [react-animated-numbers: 👾 Library showing animation of number changes in react.js](https://github.com/heyman333/react-animated-numbers)
 * [rocket-scripts: React development scripts for web apps and electron apps (similar to react-scripts)](https://github.com/rocket-hangar/rocket-scripts)
 * [How to Create a Navigation Bar and Sidebar Using React](https://morioh.com/p/7683db0e78bd)
+* [How to use React to Create a Weather App using RESTful APIs](https://morioh.com/p/914124c58a89)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
