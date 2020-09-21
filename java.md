@@ -1108,6 +1108,7 @@ Java
   * [Spring Batch Meta-data Schema 커스터마이징](https://wckhg89.github.io/archivers/springbatch3)
 * [paging시 주의사항](http://jojoldu.tistory.com/166)
 * [SpringBatch에서 ItemReader를 Mock객체로 교체하기](http://jojoldu.tistory.com/236)
+* [ListItemReader 성능상 주의사항](https://jojoldu.tistory.com/525)
 * [누구나 아는 Spring Batch 기본 개념](http://blog.woniper.net/356)
 * [Spring Batch의 동작 코드 #Job 생성과 실행](http://blog.woniper.net/357)
 * [Spring Batch의 동작 코드 #Step 생성과 실행](http://blog.woniper.net/358)
