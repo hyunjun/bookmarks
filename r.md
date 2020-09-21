@@ -771,6 +771,8 @@ R
   * [파이썬 뺨때리는 R로 논문, 숙제 그래프 예쁘게 그리기 - ggplot 튜토리얼 1편 - YouTube](https://www.youtube.com/watch?v=-Qxf7RI_9yY)
   * [GGANIMATE 예: 한국의 인구 구조 변화](http://ds.sumeun.org/?p=1089)
   * [esquisse - RStudio add-in to make plots with ggplot2](https://github.com/dreamRs/esquisse)
+  * [Rstudio add-in을 이용한 ggplot 그래프 코드 작성 자동화! - YouTube](https://www.youtube.com/watch?v=FYzwUhET5qw)
+  * [데이터 시각화 with ggplot2 핵심 튜토리얼 - YouTube](https://www.youtube.com/playlist?list=PLKtLBdGREmMl_feHpXU-xS6BBJDrEWNQh)
 * [ggplotAssist](https://github.com/cardiomoon/ggplotAssist)
   * [RosePlot](https://github.com/cardiomoon/ggplotAssistFigures/blob/master/RosePlot.md)
 * latex2exp [R 그래프에 LaTex으로 수식을 넣어보자! - 꿀 R패키지 소개 (보너스 강의) - YouTube](https://www.youtube.com/watch?v=Gs3OUF6E0JE)
