@@ -42,6 +42,7 @@ Writing
 * [현장취재/ 함부르크공대 우베 학장 인터뷰 ② ⇨ “주장을 명확하게, 요점을 잡아서 써라”](http://www.factoll.com/page/news_view.php?Num=1880)
 * [멋진 이메일 쓰는 법](http://www.andrewahn.co/silicon-valley/writing-great-emails/)
 * [이메일 쓰기](https://www.thestartupbible.com/2019/11/on-good-email-communication-skills.html)
+* [답장율을 높이는 콜드메일 작성법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/223640)
 * [메일 읽기의 기술](https://brunch.co.kr/@lunarshore/379)
 * [스토리텔링할 때 고민해야할 다섯 가지](http://outstanding.kr/storytelling20170113/)
 * [지성인들의 명언으로 살펴보는 '애국심'](http://amn.kr/sub_read.html?uid=20902&section=sc1)
@@ -60,6 +61,7 @@ Writing
 * [우리 문장이 달라졌어요. 제안서에 들어가는 요상한 문장들을 정리해보았습니당](https://brunch.co.kr/@roysday/381)
 * [글쓰기가 막막할 때... 바보야, 문제는 '순서'야](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0001579940)
 * [How to Use the STAR Interview Response Technique](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) 글쓰기가 아니라 interview 기법이지만 글쓰기에 응용 가능
+* [모든 온라인 콘텐츠의 이상적인 길이는? | ㅍㅍㅅㅅ](https://ppss.kr/archives/225404)
 
 # Programming
 * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
