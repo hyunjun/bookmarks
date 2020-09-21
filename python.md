@@ -696,6 +696,7 @@ Python
   * [Amandine Lee Passing Exceptions 101 Paradigms in Error Handling PyCon 2017](https://www.youtube.com/watch?v=BMtJbrvwlmo)
     * [Amandine Lee - Passing Exceptions 101: Paradigms in Error Handling](https://speakerdeck.com/pycon2017/amandine-lee-passing-exceptions-101-paradigms-in-error-handling)
   * [How to Define Custom Exception Classes in Python - Towards Data Science](https://towardsdatascience.com/how-to-define-custom-exception-classes-in-python-bfa346629bca)
+  * [Eyal Trabelsi - Elegant Exception Handling - YouTube](https://www.youtube.com/watch?v=6sVDuFQRGgo)
 * ftplib
   * [practice - download file from ftp](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-ftp-md)
 * function
@@ -938,6 +939,8 @@ Python
   * [파이썬 namespace Binding 이해하기](http://www.slideshare.net/dahlmoon/binding-20160229-58415344)
   * [파이썬에서 하기 쉬운 실수 #1 네임 스페이스](https://blog.naver.com/codeitofficial/221657031331)
   * [파이썬에서 하기 쉬운 실수 #2 네임 스페이스](https://blog.naver.com/codeitofficial/221659084051)
+* object
+  * [Mridu Bhatnagar - Object Internals - YouTube](https://www.youtube.com/watch?v=UkUY6cVxlLY)
 * os
   * [How to list all files of a directory in Python](http://stackoverflow.com/questions/3207219/how-to-list-all-files-of-a-directory-in-python)
   * [10 Python File System Methods You Should Know](https://towardsdatascience.com/10-python-file-system-methods-you-should-know-799f90ef13c2) shutil
@@ -1372,6 +1375,7 @@ Python
   * Journeyman Python, Essential Python Tools, Tweetable Python, Software consulting Howto, Visual Arts with Python
 * [byte of python-korean](http://byteofpython-korean.sourceforge.net/byte_of_python.html)
 * [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python/read_full)
+  * [Leonardo Giordani - Clean Architectures in Python - YouTube](https://www.youtube.com/watch?v=bieO6YOZ4uc)
 * [cosmic_python - Simple patterns for building complex applications](http://www.cosmicpython.com/book/preface.html) architecture
 * [Dive Into Python 3](http://getpython3.com/diveintopython3/)
   * [파이썬3에 뛰어들기](https://codeonweb.com/course/5c550b25-9638-4d0f-8043-97ac01415f62)
@@ -3158,6 +3162,7 @@ Python
 * [**Overview of python dependency management tools**](https://modelpredict.com/python-dependency-management-tools)
 * [State-of-the-art python project setup - Towards Data Science](https://towardsdatascience.com/state-of-the-art-python-project-setup-82a046fc1f20)
 * [파이썬 패키징, 배포 툴의 과거와 현재 · 개발블로그](https://blog.gyus.me/2020/python-packaging-history/)
+* [Michał Wodyński - Difficulties of Python code development:packages,virtualenvs and package mangers - YouTube](https://www.youtube.com/watch?v=NZ8K1GXI94M)
 * [ezpypi: Very simple and easy to use pip on any os](https://github.com/dlehdgud2380/ezpypi)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
   * [Pex를 이용한 배포](https://b.luavis.kr/python/deploy-with-pex)
