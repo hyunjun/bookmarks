@@ -231,6 +231,7 @@ Business
 * [기획자는 필요없다](https://minieetea.com/2020/05/archives/5993)
 * [MSA구조에서의 기획자의 역할](https://brunch.co.kr/@windydog/347)
 * [서비스 기획자를 위한 가이드](https://germweapon.tistory.com/notice/302)
+* [**현업 기획자 도그냥이 알려주는 서비스 기획 .. : 네이버블로그**](https://blog.naver.com/dudg_o1004/222089699693)
 * [HBR 독후감 스티치픽스 CEO, 개인의 스타일을 대중에게 파는 법外](https://www.popit.kr/hbr-%EB%8F%85%ED%9B%84%EA%B0%90-%EC%8A%A4%ED%8B%B0%EC%B9%98%ED%94%BD%EC%8A%A4-ceo-%EA%B0%9C%EC%9D%B8%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84-%EB%8C%80%EC%A4%91%EC%97%90%EA%B2%8C-%ED%8C%8C/)
 * [CPO, Product Team이 뭐죠?](https://arload.wordpress.com/2018/09/09/cpo_productteam/)
 * [Three Sales Mistakes Software Engineers Make](https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make) sales라고 썼지만 사실 project에도 동일하게 적용할 수 있다
