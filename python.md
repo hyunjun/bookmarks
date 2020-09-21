@@ -2810,9 +2810,9 @@ Python
 * [Remap: Nested Data Multitool for Python](http://sedimental.org/remap.html)
 * [REMOVESTAR Tool to automatically replace 'import \*' in Python files with explicit imports](https://www.asmeurer.com/removestar/)
 * [**Requests - an elegant and simple HTTP library for Python, built for human beings**](http://docs.python-requests.org/)
-  * [Advanced Usage](http://docs.python-requests.org/en/master/user/advanced/)
   * [practice - requests vs. http client speed](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-requests_vs_http_client-py)
   * [practice - download file](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-file_download-md)
+  * [practice - authorization token](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-authorization-py)
   * [api](http://docs.python-requests.org/en/master/api/)
     * `timeout=(connect timeout, read timeout)`
       * [Handling Timeouts in Python Requests](https://www.youtube.com/watch?v=X8BaCcrWQBg)
