@@ -975,6 +975,8 @@ Machine Learning
   * [Mixpanel launches predict; what does this predict tool mean?](http://effinamazing.com/blog/mixpanel-launches-predict-what-does-this-predict-tool-mean/?fb_ref=f7aea373b9854983bcdbceea33d6d25c-Hackernews)
 * [rc-data - Question answering dataset featured in "Teaching Machines to Read and Comprehend](https://github.com/deepmind/rc-data/)
 * [SystemML - IBM's SystemML Machine Learning - Now Apache SystemML http://systemml.apache.org ](https://github.com/SparkTC/systemml)
+* [Tribuo - A Java machine learning library](https://github.com/oracle/tribuo)
+  * [오라클, 자바 머신러닝 라이브러리 ‘트리뷰오’ 오픈소스로 공개 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=17811)
 * [WSO2 Machine Learner: Why would You care?](https://iwringer.wordpress.com/2015/09/25/wso2-machine-learner-why-would-you-care/)
 
 # LinkedIn
