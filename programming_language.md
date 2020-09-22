@@ -317,6 +317,7 @@ Programming Language
   * [Go channels, goroutines and GC available in Nim](http://forum.nim-lang.org/t/1278)
   * [What is Nim and why it matters for scientific computing](http://rnduja.github.io/2015/10/21/scientific-nim/)
   * [Extract a plain text corpus from MediaWiki XML dumps, such as Wikipedia](https://github.com/rspeer/wiki2text)
+  * [A Python Substitute? I Tried Out the Best Programming Language You’ve Never Heard Of | by Yakko Majuri | Better Programming | Medium](https://medium.com/better-programming/a-python-substitute-i-tried-out-the-best-programming-language-youve-never-heard-of-9e29cd1893c0)
 * mathematica
   * [Mathematica® programming: an advanced introduction](http://www.mathprogramming-intro.org/)
 * MATLAB
