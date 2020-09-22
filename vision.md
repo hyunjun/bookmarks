@@ -123,6 +123,7 @@ Vision
 * [Real Time Object Detection with TensorFlow Detection Model](https://towardsdatascience.com/real-time-object-detection-with-tensorflow-detection-model-e7fd20421d5d)
 * [How to deploy an Object Detection Model with TensorFlow serving](https://medium.freecodecamp.org/how-to-deploy-an-object-detection-model-with-tensorflow-serving-d6436e65d1d9)
 * [🎁 Releasing “Supervisely Person” dataset for teaching machines to segment humans](https://hackernoon.com/releasing-supervisely-person-dataset-for-teaching-machines-to-segment-humans-1f1fc1f28469)
+* [VisualData - Search Engine for Computer Vision Datasets](https://www.visualdata.io/discovery)
 * [Tensorflow Unet](http://tf-unet.readthedocs.io)
 * [Object Detection with Tensorflow Helper Tool](https://github.com/5taku/tensorflow_object_detection_helper_tool)
 * [Object Detection with 10 lines of code](https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606)
