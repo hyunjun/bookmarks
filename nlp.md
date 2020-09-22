@@ -1530,6 +1530,7 @@ NLP
 * [Wav2Lip: This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.](https://github.com/Rudrabha/Wav2Lip)
 * [WaveNet: A Generative Model for Raw Audio](https://deepmind.com/blog/wavenet-generative-model-raw-audio/)
   * [인간처럼 톤․억양 재현한 음성을…](http://techholic.co.kr/archives/60333)
+* VocGAN [더 깨끗하고 완벽한 AI 음성을 위해, 뉴럴 보코더(Neural Vocoder)](https://blog.ncsoft.com/vocgan-ai-20200922/)
 * voice [Common Voice Project](https://voice.mozilla.org/)
 
 # Wikipedia
