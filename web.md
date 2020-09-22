@@ -197,6 +197,7 @@ Web
 * installation
   * `apt-get install -y libapr1-dev libaprutil1-dev libpcre3-dev apache2-dev apache2`
   * [Apache httpd 를 컴파일로 설치하기](https://springboot.cloud/21)
+  * [(리눅스 업스킬 도전 #7) 웹 서버인 아파치 설치](https://jhrogue.blogspot.com/2020/09/7.html)
 * [9 Tips to Use Apachectl and Httpd like a Power User](http://www.thegeekstuff.com/2008/08/9-tips-to-use-apachectl-and-httpd-like-a-power-user/)
 * [설정 파일의 주석 위치가 일으킨 Apache의 응답 속도 저하](http://d2.naver.com/helloworld/4744401) 주석을 설정 지시어와 같은 줄에 사용할 수 없다
 * [Apache 서버 설정으로 특정 IP 막기](http://ngee.tistory.com/209)
