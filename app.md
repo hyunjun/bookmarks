@@ -530,6 +530,7 @@ App
       * [Using a remote server to build your Scala projects](https://perevillega.com/remote-build-servers-with-vs-code-and-metals)
       * [Python in Visual Studio Code – July 2020 Release | Python](https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2020-release)
       * [VS Code를 웹 상에 띄워놓고 어디서든 코딩하기](https://eungbean.github.io/2019/11/04/remote-vscode/)
+      * [tool 태블릿을 이용하여 원격에서 vsc.. : 네이버블로그](https://blog.naver.com/pjt3591oo/222094462073)
     * teditor [인터넷 브라우저에서 코딩하기, Visual Studio Code, teditor :: 프즈](https://tolovefeels.tistory.com/56)
     * vim
       * [https://www.chrisatmachine.com/Neovim/22-vscodium-neovim/](https://www.chrisatmachine.com/Neovim/22-vscodium-neovim/)
