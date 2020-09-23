@@ -270,6 +270,7 @@ Scala
 * [Cloudflare Workers Announces Broad Language Support](https://blog.cloudflare.com/cloudflare-workers-announces-broad-language-support/)
 * [Scala: Beyond the basics with Christopher Batey - YouTube](https://www.youtube.com/watch?v=4QIgEMvUfIE) Function composition, Functional approaches to implement dependency injection, higher kinded types, Avoiding mutability with expressions, Abstracting with type classes
 * [Joe Warren - 4 Ways to Make Change in Scala](http://www.doscienceto.it/blog/posts/2020-09-16-change.html)
+* [10 LESSONS LEARNED FROM USING KAFKA IN 1000 SCALA MICROSERVICES - Natan Silnitsky | Scalar 2020 - YouTube](https://www.youtube.com/watch?v=1dRXXV6pNRU)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1740,3 +1741,4 @@ Scala
 * [10 TIPS TO WRITE FAST STACK-SAFE FUNCTIONAL CODE IN SCALA - Christophe Calvès | Scalar 2020 - YouTube](https://www.youtube.com/watch?v=UTVhPjs_XDA)
 * [John De Goes - 12 Steps To Better Scala (Part I) - YouTube](https://www.youtube.com/watch?v=71yhnTGw0hY)
 * [A FUNCTIONAL SCALA STACK FOR 2020 - Adam Warski | Scalar 2020 - YouTube](https://www.youtube.com/watch?v=DGlkap5kzGU)
+* [Complete Scala Tutorial by Bharath - YouTube](https://www.youtube.com/playlist?list=PLyueB9LCZVO7dwbs0URRdCld16VsncfS6)
