@@ -623,6 +623,8 @@ Git
   * [Introducing Official GitHub CLI](https://itnext.io/introducing-official-github-cli-2b43b1127e8d)
   * [GitHub CLI allows you to close, reopen, and add metadata to issues and pull requests](https://github.blog/changelog/2020-05-11-github-cli-allows-you-to-close-reopen-and-add-metadata-to-issues-and-pull-requests/)
   * [GitHub CLI 1.0 is now available - The GitHub Blog](https://github.blog/2020-09-17-github-cli-1-0-is-now-available/)
+  * [GitHub CLI 를 만져보자 - 1](https://jusths.tistory.com/176)
+  * [GitHub CLI 를 만져보자 - 2](https://jusths.tistory.com/177)
 * [GHFS - GitHub repos in your filesystem!](https://github.com/ImJasonH/ghfs)
 * [ghrequest - HTTP client for the GitHub API with cache support to get the most of your rate limit](https://github.com/issuetrackapp/ghrequest)
 * [giistr - Contribute to build the open-source world. Search, filter and help easily on the issues of the repositories you starred](https://giistr.com/) 기여할 수 있는 open source project 검색
