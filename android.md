@@ -352,4 +352,5 @@ Android
 * [Android 테스트 코드](https://developer88.tistory.com/230)
 * [Android UI Test와 Espresso를 사용하는 방법](https://developer88.tistory.com/232)
 * [Cucumber + Appium을 통해 Android 앱 테스트](http://woowabros.github.io/experience/2020/01/06/mobile-app-test-with-appium.html)
+* [JUnit을 이용한 테스트 방법 대해서 정리해 보겠습니다.](https://developer88.tistory.com/264)
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
