@@ -347,6 +347,8 @@ NLP
 * [딥러닝 기반 한글 자동 띄어쓰기 API 공개](http://freesearch.pe.kr/archives/4647)
   * [딥러닝 한글 자동띄어쓰기 모형 성능 향상 및 API 업데이트](http://freesearch.pe.kr/archives/4674)
 * [한국어 띄어쓰기 프로그램 도전기](https://www.slideshare.net/TaekyoonChoi/taekyoon-choi-pycon)
+* [korean-spacing-model: 한국어 문장 띄어쓰기(삭제/추가) 모델입니다. 데이터 준비 후 직접 학습이 가능하도록 작성하였습니다.](https://github.com/jeongukjae/korean-spacing-model)
+  * [한국어 띄어쓰기 모델 작성하기 – Jeong Ukjae](https://jeongukjae.github.io/posts/korean-spacing-model/)
 * [KoSpacing : 한글 자동 띄어쓰기 패키지 공개](http://freesearch.pe.kr/archives/4759)
   * [KoSpacing - R package for automatic Korean word spacing](https://github.com/haven-jeon/KoSpacing)
 * [soyspacing. Heuristic Korean Space Correction, A safer space corrector](https://lovit.github.io/nlp/2018/04/25/soyspacing/)
