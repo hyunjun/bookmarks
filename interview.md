@@ -187,6 +187,7 @@ Interview
 * [(45) AMZ | Google | Facebook | Offer | Reject| Reject | My journey from failure to offer at FAANG - LeetCode Discuss](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang)
 * [What I Learned from Doing 60+ Technical Interviews in 30 Days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
 * [코딩 인터뷰 완전정복 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLHqxB9kMLLaNZQjNtY9JoCCBbZwOKdyEH)
+* [한빛출판네트워크 - 코딩테스트 기획연재](https://www.hanbit.co.kr/channel/series/series_detail_list.html?hcs_idx=29)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
