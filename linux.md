@@ -454,6 +454,7 @@ Linux
   * [Deep Dive Grep](http://avengers.alinos.net/2016/06/04/deep-dive-grep/)
   * [리눅스에서 Grep and , or , not 사용법](http://hamait.tistory.com/809)
   * [Use long flags when scripting |> News and podcasts for developers |> Changelog](https://changelog.com/posts/use-long-flags-when-scripting)
+  * [(리눅스 업스킬 도전 #8) 문자열 탐색을 위한 grep](https://jhrogue.blogspot.com/2020/09/8-grep.html)
 * `gzip`
   * [Parallel gzip compression with pigz](https://rachaellappan.github.io/pigz/)
   * Pigz [Lei Mao's Log Book – Parallel Gzip - Pigz](https://leimao.github.io/blog/Parallel-Gzip-Pigz/)
