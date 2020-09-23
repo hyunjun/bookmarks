@@ -532,6 +532,7 @@ Scala
 * [My Scala template for Google Code Jam https://code.google.com/codejam ](https://github.com/pathikrit/ScalaJam) 파일 읽기
 * [What is an Effect?](https://www.inner-product.com/posts/what-is-an-effect/)
 * [The Point of Pattern Matching in Scala](https://www.artima.com/scalazine/articles/pattern_matching.html)
+* [Pattern Matching Tricks in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=qe85507fSc8)
 * [Pattern Match Anything in Scala. What is Pattern Matching? | by Mansi Babbar | The Startup | Jun, 2020 | Medium](https://medium.com/swlh/pattern-match-anything-in-scala-3a22f5d3535)
 * [The Difference Between Null, Nothing, Nil, None and Unit in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=0_-jRrdg9Dw&feature=youtu.be)
 * [Andy Scott—Code by Shape - YouTube](https://www.youtube.com/watch?v=ifPTQ9CULdk) Either, Option, List, fold(Right)
