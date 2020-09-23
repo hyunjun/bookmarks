@@ -1981,6 +1981,7 @@ Programming
   * [(09/05) 웹 사이트 반응 속도가 왜 중요할까? - YouTube](https://www.youtube.com/watch?v=CbU5kgUL6uk)
 * [2020년 9월 12일 개발자 이야기](https://jhrogue.blogspot.com/2020/09/b-2020-9-12.html) 기술부채, 웹 기술 hwp 뷰어, 구글 프로덕트 매니저가 알려주는 기획서 작성, MySQL 8.0 업그레이드, 깃허브 기본 브랜치 이름 변경
 * [(9월 19일) 깃허브가 취업에 도움이 되지 않는 이유](https://jhrogue.blogspot.com/2020/09/9-19.html) LibHunt: 라이브러리/프레임워크 비교의 끝판왕, 수학과 함께하는 AI 기초 by EBS, 젯브레인 자바 뉴스레터, Endlessh – SSH 끈끈이, 유닉스 명령어 이름 기원
+* [(9월 19일 특집) 2020년 자바 스프링 현황](https://jhrogue.blogspot.com/2020/09/9-19-2020.html) 인구 통계학적인 정보, 개발자들이 스프링부트를 좋아하는 이유와 겪는 어려움, 클라우드 관련 대응, 인기 있는 모듈, 클라우드 네이티브 관련 동향
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 
 # OS Operating System
