@@ -186,6 +186,7 @@ Git
 * [Doing Stupid Stuff with GitHub Actions | DevOps Directive](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
 * [Automate releases and more with the new Sentry Release GitHub Action - The GitHub Blog](https://github.blog/2020-08-24-automate-releases-and-more-with-the-new-sentry-release-github-action/)
 * [**GitHub Action을 이용한 알림 자동화 | 딥백수**](https://dl4ab.github.io/2020/09/18/slack-github-action-automation/) slack
+* [GitHub Actions에서 Chrome WebDriver 테스트 오류 해결법 (pytest)](https://blog.joonas.io/158)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
