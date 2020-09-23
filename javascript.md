@@ -1428,6 +1428,7 @@ Javascript
   * [Svelte로 만드는 Todo List - 1 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/06/21/How-to-make-todo-list-app-with-Svelte-1.html)
   * [Svelte로 만드는 Todo List - 2 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/06/24/How-to-make-todo-list-app-with-Svelte-2.html)
   * [Up and running with Svelte - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/svelte-tutorials-1-1f49699da2c0)
+  * [Compile Svelte in your head - SingaporeJS - YouTube](https://www.youtube.com/watch?v=eGHGJyxJAMk)
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
 * [SweetAlert](https://sweetalert.js.org/)
 * [TableSorter.js 로 Sorting 개발하기](https://brunch.co.kr/@ourlove/76)
