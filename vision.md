@@ -131,6 +131,7 @@ Vision
 * [Deep Learning for Object Detection: A Comprehensive Review](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
 * [Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow](https://github.com/matterport/Mask_RCNN)
 * [TensorFlow Object Detection API in 5 clicks from Colaboratory](https://medium.com/@nickbortolotti/tensorflow-object-detection-api-in-5-clicks-from-colaboratory-843b19a1edf1)
+* [Machine Learning for Design Systems: Training Tensorflow Object Detection API with design system symbols | by Jude Park | Sep, 2020 | Medium](https://medium.com/@judepark_6960/machine-learning-for-design-systems-315cd34b676f)
 * [Real-Time Object Detection with TensorFlow](https://medium.com/analytics-vidhya/real-time-object-detection-with-tensorflow-64e2677521ce)
 * [Object Detection with Tensorflow](https://morioh.com/p/6c21409cf1ef)
 * [Configure TensorFlow To Train an Object Detection Classifier | by 180NF | AI In Plain English | Medium](https://medium.com/ai-in-plain-english/configure-tensorflow-to-train-an-object-discovery-classifier-59572bb5d8c4)
