@@ -519,6 +519,7 @@ Scala
   * [practice - div](https://gist.github.com/hyunjun/9041c3294b6d4a8417a3a4451f1f1539#file-div-md)
 * [스칼라에서 리프팅(lifting) 이란?](http://hamait.tistory.com/894)
 * [Enumerations in Scala](https://www.youtube.com/watch?v=GqobszawRnQ)
+* [Scala Case Classes vs Enumeration - Wojciech Programming Blog](https://www.wlangiewicz.com/2016/03/20/scala-case-classes-vs-enumeration/)
 * [foldLeft, fodRight, reduceLeft, reduceRight, scanLeft, scanRight 함수 예제](http://knight76.tistory.com/entry/scala-foldLeft-fodRight-reduceLeft-reduceRight-%ED%95%A8%EC%88%98-%EC%98%88%EC%A0%9C)
 * [Scala: Beyond the basics with Christopher Batey](https://www.youtube.com/watch?v=4QIgEMvUfIE)
   * terminology, function composition, higher kinded types, implicits vs reflection
@@ -532,6 +533,7 @@ Scala
 * [My Scala template for Google Code Jam https://code.google.com/codejam ](https://github.com/pathikrit/ScalaJam) 파일 읽기
 * [What is an Effect?](https://www.inner-product.com/posts/what-is-an-effect/)
 * [The Point of Pattern Matching in Scala](https://www.artima.com/scalazine/articles/pattern_matching.html)
+* [Pattern Matching Tricks in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=qe85507fSc8)
 * [Pattern Match Anything in Scala. What is Pattern Matching? | by Mansi Babbar | The Startup | Jun, 2020 | Medium](https://medium.com/swlh/pattern-match-anything-in-scala-3a22f5d3535)
 * [The Difference Between Null, Nothing, Nil, None and Unit in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=0_-jRrdg9Dw&feature=youtu.be)
 * [Andy Scott—Code by Shape - YouTube](https://www.youtube.com/watch?v=ifPTQ9CULdk) Either, Option, List, fold(Right)
@@ -558,6 +560,8 @@ Scala
     * [Case Class in Scala](https://medium.com/@senthil.nayagan/case-class-in-scala-2e225dd0162d)
     * [Human-readable case class diffs](https://blog.softwaremill.com/human-readable-case-class-diffs-c707e83e08a2)
     * [Scala CaseClass에 대한 특징 정리](https://wingnim.tistory.com/111)
+    * [Scala Case Class and Case Object In-Depth (Part-1) - JournalDev](https://www.journaldev.com/9733/scala-caseclass-caseobject-part1)
+    * [Scala Case Class and Case Object In-Depth (Part-2) - JournalDev](https://www.journaldev.com/12122/scala-caseclass-caseobject-part2)
   * [**스칼라 클래스의 일반적인 형식화**](https://blog.xxxnell.com/ko/posts/formalization)
 * concurrent
   * duration

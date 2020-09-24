@@ -1589,6 +1589,7 @@ Python
 * [테스트 코드의 여러가지 유형](https://steemit.com/programming/@agile/6tx4g7)
 * [Django 나만의 Command 만들어보기](https://leop0ld.github.io/django/2017/03/23/make-django-custom-command.html)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
+* [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Learn Django](https://nomade.kr/vod/)
 * [Mistakes I Made Writing a Django App (and How I Fixed Them)](https://hackernoon.com/mistakes-i-made-writing-a-django-app-and-how-i-fixed-them-16de4e632042)
 * [Handling webhooks using Django and ngrok](https://hackernoon.com/handling-webhooks-using-django-and-ngrok-b7ff27a6fd47)
@@ -1721,6 +1722,7 @@ Python
 * [장고 라이브 코딩쇼 (50분, 유튜브 St.) - YouTube](https://www.youtube.com/watch?v=12J8IHG17lM)
 * [Managing Sessions in Django. Understanding your Django session with… | by Goutom Roy | Better Programming | Medium](https://medium.com/better-programming/managing-sessions-in-django-92ef72db4c63)
 * [Using the JSONField in Django - YouTube](https://www.youtube.com/watch?v=LbdUpY1I1zg)
+* [django로 크롤링해서 적용하기 +BeautifulSoup사용 — ChoSM'Programming](https://applepick.tistory.com/46)
 
 # DSL
 * [Extending Python Into the Future](https://morioh.com/p/6db365736476)
