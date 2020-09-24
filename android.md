@@ -173,6 +173,7 @@ Android
 * [GPU Overdraw 1-draw 줄이기](http://pluu.github.io/blog/android/2020/08/18/gpu-overdraw/)
 * [안드로이드 라이브러리 Method Count 알아내는 방법](https://developer88.tistory.com/262)
 * [Intent Flag에 관하여 정리해 봅니다 #Android](https://developer88.tistory.com/266)
+* [Full Screen Intent Notificaiton 에 관한 정리 # 풀스크린 인텐트](https://developer88.tistory.com/336)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
