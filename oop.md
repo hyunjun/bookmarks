@@ -63,6 +63,7 @@
 * [GRASP – General Responsibility Assignment Software Patterns Explained](http://www.kamilgrzybek.com/design/grasp-explained/)
 * [알고 보면 재밌는 객체 지향 프로그래밍, OOP 흝어보기](https://evan-moon.github.io/2019/08/24/what-is-object-oriented-programming/)
 * [**OOP의 추상화(Abstraction)와 다형성(Polymorphism)의 관계**](https://wlaxhrl.tistory.com/78)
+* [Smit Thakkar - Writing Clean Abstractions - YouTube](https://www.youtube.com/watch?v=Lgof_5yxw3Q)
 * [Why does object-oriented programming mean so many different things to different people?](https://www.quora.com/Why-does-object-oriented-programming-mean-so-many-different-things-to-different-people)
 * [Gamma Structural Patterns](https://medium.com/@helmi.confo/gamma-structural-patterns-e03465bff4f8)
 * [Behavioral Design Pattern: State](https://medium.com/swlh/behavioral-design-pattern-state-d908192fe7e)
