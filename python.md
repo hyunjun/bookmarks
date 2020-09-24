@@ -1722,6 +1722,7 @@ Python
 * [장고 라이브 코딩쇼 (50분, 유튜브 St.) - YouTube](https://www.youtube.com/watch?v=12J8IHG17lM)
 * [Managing Sessions in Django. Understanding your Django session with… | by Goutom Roy | Better Programming | Medium](https://medium.com/better-programming/managing-sessions-in-django-92ef72db4c63)
 * [Using the JSONField in Django - YouTube](https://www.youtube.com/watch?v=LbdUpY1I1zg)
+* [django로 크롤링해서 적용하기 +BeautifulSoup사용 — ChoSM'Programming](https://applepick.tistory.com/46)
 
 # DSL
 * [Extending Python Into the Future](https://morioh.com/p/6db365736476)
