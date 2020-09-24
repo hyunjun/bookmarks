@@ -931,6 +931,7 @@ Machine Learning
   * [Data version control with DVC. What do the authors have to say?](https://towardsdatascience.com/data-version-control-with-dvc-what-do-the-authors-have-to-say-3c3b10f27ee)
   * [DVC(Data Version Control)](https://github.com/KIMCAT33/DVC)
   * [Data Version Control With Python and DVC – Real Python](https://realpython.com/python-data-version-control/)
+  * [Hongjoo Lee - Automating machine learning workflow with DVC - YouTube](https://www.youtube.com/watch?v=u3NysDLdCR0)
 * [Food data set for machine learning](https://github.com/corona10/FoodDataSet)
 * [Gradio - a free, open-source python library that helps machine learning researchers interact with and share their machine learning models with collaborators and clients with only a few lines of extra code](https://gradio.app/index.html)
   * [Building A Visual Interface for Your ML Model with Gradio - Abubakar Abid | PyData Riyadh - YouTube](https://www.youtube.com/watch?v=dCbTi5ZKA9s)
