@@ -1471,6 +1471,10 @@ Python
 * [Docker로 파이썬 배포 운영하기](http://greatkim91.tistory.com/194)
 * [파이썬 Docker 이미지 관리하기](http://greatkim91.tistory.com/195)
 * [docker vs vagrant vs virtualenv](http://hamait.tistory.com/871)
+* [Using Alpine can make Python Docker builds 50× slower](https://pythonspeed.com/articles/alpine-docker-python/)
+* [mumps on ubuntu 18.04](https://github.com/kwant-project/kwant/blob/master/docker/Dockerfile.ubuntu)
+* [Anastasiia Tymoshchuk - Can we deploy yet? - YouTube](https://www.youtube.com/watch?v=Fgyk8P0IJsU)
+* [Dmitry Figol - Optimizing Docker builds for Python applications - YouTube](https://www.youtube.com/watch?v=eRzMJuwuYpU)
 
 # Documentation
 * [continuous-docs - Tutorial and example package for continuous documentation generation in Python](https://github.com/icgood/continuous-docs/)
@@ -1726,6 +1730,7 @@ Python
 
 # DSL
 * [Extending Python Into the Future](https://morioh.com/p/6db365736476)
+* [Cheuk Ho - How to be Pythonic? Design a Query Language in Python - YouTube](https://www.youtube.com/watch?v=foEChBTSeQw)
 * [Lark - a modern parsing library](https://github.com/erezsh/Lark)
   * [How to write a DSL (in Python with Lark)](http://blog.erezsh.com/how-to-write-a-dsl-in-python-with-lark/)
 
@@ -1989,6 +1994,7 @@ Python
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
 * [Quart - a Python ASGI web microframework](https://gitlab.com/pgjones/quart)
   * [3x faster Flask apps - Quart as a upgrade to Flask](https://hackernoon.com/3x-faster-than-flask-8e89bfbe8e4f) 결국 async로 변경했다는 이야기
+  * [An Introduction to ASGI, Asynchronous Server Gateway Interface - YouTube](https://www.youtube.com/watch?v=uRcnaI8Hnzg)
   * [Philip Jones - Quart a asyncio alternative to Flask](https://www.youtube.com/watch?v=t8-Y7Kivuu0)
 * [Yellowid-Flask](https://github.com/JungWinter/yellowid-flask)
 
@@ -2231,9 +2237,12 @@ Python
 * [4 Awesome Tips for Enhancing Jupyter Notebooks - Towards Data Science](https://towardsdatascience.com/4-awesome-tips-for-enhancing-jupyter-notebooks-4d8905f926c5)
 * [5 Reasons why you should Switch from Jupyter Notebook to Scripts | by Khuyen Tran | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/5-reasons-why-you-should-switch-from-jupyter-notebook-to-scripts-cb3535ba9c95)
 * [Announcing the new Jupyter Book. Note: this announcement is cross-posted… | by Chris Holdgraf | Aug, 2020 | Jupyter Blog](https://blog.jupyter.org/announcing-the-new-jupyter-book-cbf7aa8bc72e)
+* [Miki Tebeka - IPython: The Productivity Booster - YouTube](https://www.youtube.com/watch?v=Zmo2ZN1SJ_Q)
+* [William Horton - A Brief History of Jupyter Notebooks - YouTube](https://www.youtube.com/watch?v=kFhhCOeYcGw)
 
 ## Jupyter Library
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
+  * [Sarah Gibson - Sharing Reproducible Python Environments with Binder - YouTube](https://www.youtube.com/watch?v=wTVMHallSSA)
 * [Emacs IPython Notebook](http://tkf.github.io/emacs-ipython-notebook/)
 * [handcalcs: Python library for converting Python calculations into rendered latex.](https://github.com/connorferster/handcalcs)
 * [Hydrogen - an interactive coding environment that supports Python, R, JavaScript and other Jupyter kernels](https://nteract.gitbooks.io/hydrogen/)
@@ -2408,7 +2417,6 @@ Python
 * Let’s Build A Web Server
   * [Part 1](http://ruslanspivak.com/lsbaws-part1/)
   * [Part 2](http://ruslanspivak.com/lsbaws-part2/)
-* [The Python3 Package Creator](https://github.com/mekarpeles/pypc)
 * [Magnificent app which corrects your previous console command](https://github.com/nvbn/thefuck)
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/) pyhash, bitstring
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
@@ -3166,6 +3174,7 @@ Python
 * [State-of-the-art python project setup - Towards Data Science](https://towardsdatascience.com/state-of-the-art-python-project-setup-82a046fc1f20)
 * [파이썬 패키징, 배포 툴의 과거와 현재 · 개발블로그](https://blog.gyus.me/2020/python-packaging-history/)
 * [Michał Wodyński - Difficulties of Python code development:packages,virtualenvs and package mangers - YouTube](https://www.youtube.com/watch?v=NZ8K1GXI94M)
+* [Wei Lee - Python Table Manners: Cut the Cookie Gracefully - YouTube](https://www.youtube.com/watch?v=m6rF3Kah928)
 * [ezpypi: Very simple and easy to use pip on any os](https://github.com/dlehdgud2380/ezpypi)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
   * [Pex를 이용한 배포](https://b.luavis.kr/python/deploy-with-pex)
@@ -3191,6 +3200,7 @@ Python
   * [Installing PIP on Windows](https://medium.com/@ankitgin/setting-up-pip-for-windows-a644be0f1cea)
   * [user mode로 설치한 pip 패키지 PATH에 등록하기](https://beomi.github.io/2018/02/12/Add-packages-installed-with-pip-usermode/)
   * [Commonly used Python - pip commands](https://dev.to/dev0928/commonly-used-python-pip-commands-255d)
+* pypc [The Python3 Package Creator](https://github.com/mekarpeles/pypc)
 * [Python: beyond the basics I - pip, virtualenv, pipenv & list comprehensions](https://medium.com/@m0etaz/python-beyond-the-basics-i-c9b67a804505)
 * [pipenv](https://github.com/pypa/pipenv)
   * [Pipenv: Python Dev Workflow for Humans](https://docs.pipenv.org/)
@@ -3500,6 +3510,7 @@ Python
 * [Data Analysis with Python: Part 3 of 6 Numerical Computing with Numpy (Live Course) - YouTube](https://www.youtube.com/watch?v=NlZXAytUeeE)
 * [Data Analysis with Python: Part 4 of 6 - Analyzing tabular data with Pandas - YouTube](https://www.youtube.com/watch?v=b2mLDkMSyn4)
 * [Reading HTML tables with Pandas - Practical Business Python](https://pbpython.com/pandas-html-table.html)
+* [Ian Ozsvald - Making Pandas Fly - YouTube](https://www.youtube.com/watch?v=JgBV7p9jNo0)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
 * [swifter: A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner](https://github.com/jmcarpenter2/swifter)
@@ -3523,6 +3534,8 @@ Python
 * [**EuroPython 2019  Unleash the power of C++ in Python**](https://github.com/cmaureir/unleash_cpp)
   * [Unleash The Power of C++ In Python](https://www.youtube.com/watch?v=vvyTuFOJRrk)
 * [How Thinking in Python Made Me a Better Software Engineer](https://www.youtube.com/watch?v=dGzc05Bz3l0)
+* [Elizaveta Shashkova - The Hidden Power of the Python Runtime - YouTube](https://www.youtube.com/watch?v=mAnOBOrgFdM) test, debug, code coverage, type, concurrent
+* [Almar Klein - Let’s embrace WebAssembly! - YouTube](https://www.youtube.com/watch?v=u2kKxmb9BWs) webassembly, wasm
 
 ## Conference Pycon
 * [pyvideo.org](http://pyvideo.org/)
@@ -3845,6 +3858,7 @@ Python
 * [우아하게 준비하는 테스트와 리팩토링 - 한성민](https://www.youtube.com/watch?v=S5SY2pkmOy0)
   * [우아하게 준비하는 테스트와 리팩토링 - PyCon Korea 2018](https://www.slideshare.net/KennethCeyer/pycon-korea-2018-109833085/KennethCeyer/pycon-korea-2018-109833085)
 * [**PyCon KR 2019 테스트에 걸리는 시간을 92% 줄이기**](https://speakerdeck.com/youngminkoo/pycon-kr-2019-teseuteue-geolrineun-siganeul-star-92-percent-star-juligi) 주로 Django 기반이지만 매우 좋은 내용
+* [Adinata Thayib - Running Unit Test on Top of Serverless Service - YouTube](https://www.youtube.com/watch?v=3pdZalofKnI)
 * nosetests
   * [example](https://github.com/hyunjun/practice/tree/master/python/test-nosetests)
   * [How do I specify a single test in a file with nosetests?](http://stackoverflow.com/questions/11286688/how-do-i-specify-a-single-test-in-a-file-with-nosetests)
@@ -3912,6 +3926,7 @@ Python
 * [Typesetting With Python](https://www.youtube.com/watch?v=GVoyBWo1QDk)
 * [Our journey to type checking 4 million lines of Python](https://blogs.dropbox.com/tech/2019/09/our-journey-to-type-checking-4-million-lines-of-python/)
 * [Falling into a type world with Python](https://seonghyeon.dev/falling-into-a-type-world-with-python/)
+* [Grzegorz Kocjan - Don't start with a database - YouTube](https://www.youtube.com/watch?v=ypgJkISlbLM) dataclass, abc, injector, TypeVar
 * [Dustin Ingram - Static Typing in Python - YouTube](https://www.youtube.com/watch?v=cmmPDYa0gWo)
 * [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
 * [LibCST - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree https://libcst.readthedocs.io ](https://github.com/Instagram/LibCST)
