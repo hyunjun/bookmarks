@@ -43,6 +43,7 @@
 * [27인치 디지털 액자 만들기(DIY) -활용편-](https://papit.blog.me/221769974274)
 * [파이썬 + 레고 마인드 스톰 EV3로 초간단 스캐너를 제작](https://www.youtube.com/watch?v=jmu-UbjuS8k)
 * [IOT 스크린세이버 프로그램(nodeMCU + VL53L0X + python)](https://blog.naver.com/nanotoly/221917301039)
+* [Petertc Chu - Speak Python with Devices - YouTube](https://www.youtube.com/watch?v=BpgtN8GK1M8)
 * [1_Workshops/Embedded_system 카테고리의 글 목록](https://gcamp.tistory.com/category/1_Workshops/Embedded_system)
 * [ipTIME A9004M 공유기에 Windows XP 올리기 | 맨손잡이](https://mans0n.github.io/2020/08/08/winxp-on-a9004m/)
 
