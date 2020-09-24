@@ -718,6 +718,7 @@ Apache
 * [Apache Kafka leaves the Zoo](https://medium.com/@lukasz.antoniak/apache-kafka-leaves-the-zoo-bef529ba82b7)
 * [Using Graph Processing for Kafka Stream Visualizations](https://www.confluent.io/blog/kafka-graph-visualizations<Paste>))
 * [Making sense of Avro, Kafka, Schema Registry, and Spark Streaming](https://medium.com/@ivan9miller/making-sense-of-avro-kafka-schema-registry-and-spark-streaming-bbb09eb5039c)
+* [Kafka Spark Streaming Integration in java from scratch | Code walk through - YouTube](https://www.youtube.com/watch?v=UcWi3-FODjs)
 * Decaton [Kafka를 이용한 작업 큐 라이브러리 'Decaton' 활용 사례 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/decaton-case-studies/)
 * [kafka-streams-viz - Kafka Streams Topology Visualizer](https://zz85.github.io/kafka-streams-viz/)
 
