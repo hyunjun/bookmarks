@@ -453,6 +453,7 @@ Data Science
   * [Python으로 Big Data 분석하기](https://www.flearning.net/classes/15)
 * [Data Analysis with Python and Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
 * [Marco Bonzanini - Building Data Pipelines in Python](https://www.youtube.com/watch?v=7NzH1Gx8-4E)
+* [Robson Junior - Mastering a data pipeline with Python: 6 years of learned lessons from mistakes - YouTube](https://www.youtube.com/watch?v=O-0Z6NKRfvk)
 * [Data manipulation primitives in R and Python](https://medium.com/@motta.lrd/data-manipulation-primitives-in-r-and-python-cae733768503)
 * [How A Data Scientist Can Improve His Productivity](https://blog.dataversioncontrol.com/how-a-data-scientist-can-improve-his-productivity-730425ba4aa0)
 * [Python으로 Big Data 분석하기](https://www.flearning.net/courses/6)
@@ -523,6 +524,7 @@ Data Science
 * datatable [An Overview of Python’s Datatable package](https://towardsdatascience.com/an-overview-of-pythons-datatable-package-5d3a97394ee9)
 * [GOAI: Open GPU-Accelerated Data Analytics](https://devblogs.nvidia.com/parallelforall/goai-open-gpu-accelerated-data-analytics/)
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
+* Kedro [Tam-Sanh Nguyen - Writing and Scaling Collaborative Data Pipelines with Kedro - YouTube](https://www.youtube.com/watch?v=4sCpfCiJLgs)
 * [Mandrova: Sensor Data Generator for Python3](https://github.com/makinarocks/Mandrova)
 * [Mode - SQL, Python, & visualizations in one platform. Mode helps analysts and data scientists improve their workflow and share impactful analysis easily](https://about.modeanalytics.com/get-mode-share-python-data-science)
 * MKL Intel
