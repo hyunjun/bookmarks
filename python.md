@@ -468,6 +468,7 @@ Python
 * [Ten Python development skills. | Towards Data Science](https://towardsdatascience.com/ten-python-development-skills-998a52f8f7c0)
 * [Change The Way You Write Python Code With One Extra Character | by Dorel Masasa | The Startup | Medium](https://medium.com/swlh/change-the-way-you-write-python-code-with-one-extra-character-6665b73803c1) asterisk, args, kwargs
 * [9 Skills That Separate Beginners From Intermediate Python Programmers | by Martin Andersson Aaberge | Better Programming | Medium](https://medium.com/better-programming/9-skills-that-separate-a-beginner-from-an-intermediate-python-programmer-8bbde735c246)
+* [Equality vs Identity vs Membership Operation in Python | by Indhumathy Chelliah | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/equality-vs-identity-vs-membership-operation-in-python-76a1dbd69d6c) `==`, `is`, `in`
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -2162,6 +2163,8 @@ Python
 * [IPython Notebook을 통한 데이터 분석 #2](http://blog.ncsoft.com/?p=23081)
 * [IPython Notebook을 통한 데이터 분석 #3](http://blog.ncsoft.com/?p=24374)
 * [Create Isolated Jupyter Ipython Kernels With Pyenv And Virtualenv](http://www.alfredo.motta.name/create-isolated-jupyter-ipython-kernels-with-pyenv-and-virtualenv/)
+* [Jupyter notebook 파이썬 가상환경 Kernel 추가/제거 (on MAC) | by Kwoncheol Shin | Medium](https://medium.com/@kwoncharles/jupyter-notebook-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-kernel-%EC%B6%94%EA%B0%80-%EC%A0%9C%EA%B1%B0-mac-67ee72088784)
+* [jupyter notebook에 가상환경 kernel 추가하기 | by 5eo1ab | Medium](https://medium.com/@5eo1ab/jupyter-notebook%EC%97%90-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-kernel-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0-ed5261a7e0e6)
 * [Jupyter에 virtualenv 커널 추가하기](https://songyunseop.github.io/post/2016/09/Using-Jupyter-inside-virtualenv/)
 * [Jupyter Notebook에서 값을 연속적으로 출력하려면?](https://nbviewer.jupyter.org/urls/financedata.github.io/posts/display-all-values-in-cell-jupyter-notebook.ipynb)
 * [텐서플로우와 미분방정식을 이용해 배터리 방전시간 예측](https://nbviewer.jupyter.org/github/leehaesung/Differential_Equation_For_TensorFlow/blob/master/Battery_Consumption.ipynb)
