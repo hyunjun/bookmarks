@@ -240,6 +240,7 @@ PyTorch
 * [Ubuntu 18.04 CUDA + PyTorch 설치](https://greenmon.dev/2019/06/21/ubuntu-cuda.html)
 * [윈도우 10(windows 10)에서 PyTorch 설치하고 gpu를 사용하자!(PyTorch install)](https://lsjsj92.tistory.com/494)
 * [Ubuntu에 Pytorch 설치하기](https://booiljung.github.io/technical_articles/pytorch/installation_of_pytorch_on_ubuntu.html)
+* [PyTorch Anaconda, JupyterLab을 통한 환경 구축 :: JSYoo94](https://jsyoo94.tistory.com/12)
 
 # Library
 * [김군이](https://www.youtube.com/channel/UCK24Wy_G-6V-quKvVRjflgA)
