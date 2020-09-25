@@ -557,6 +557,7 @@
 * [Spark (scala) 개발환경 설정 (window)](https://blog.naver.com/haiteam/221208062178)
 * [How to Install Scala and Apache Spark on MacOS](https://medium.freecodecamp.org/installing-scala-and-apache-spark-on-mac-os-837ae57d283f)
 * [Apache Spark setup with Gradle, Scala and IntelliJ](https://medium.com/@faizanahemad/apache-spark-setup-with-gradle-scala-and-intellij-2eeb9f30c02a)
+* [Create Spark Scala SBT project in Intellij Idea. 1-minute tutorial - YouTube](https://www.youtube.com/watch?v=XLgzBqrEZ0U)
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 * [Spark 2: How to install it on Windows in 5 steps](https://medium.com/@dvainrub/how-to-install-apache-spark-2-x-in-your-pc-e2047246ffc3)
 
