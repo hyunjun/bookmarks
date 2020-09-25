@@ -164,6 +164,7 @@ Julia
 * [JuliaOpt - Optimization packages for the Julia language](http://www.juliaopt.org/)
 * [JuMP - a domain-specific modeling language for mathematical programming embedded in Julia](https://github.com/JuliaOpt/JuMP.jl)
 * [Juno - a powerful, free environment for the Julia language](http://junolab.org/)
+* [Knet.jl: Koç University deep learning framework](https://github.com/denizyuret/Knet.jl)
 * [Millboard.jl - Displaying data in tables for Julia](https://github.com/wookay/Millboard.jl)
 * [Mux.jl gives your Julia web services some closure](https://github.com/JuliaWeb/Mux.jl)
 * [Nemo is a computer algebra package for the Julia programming language](http://nemocas.org/)
