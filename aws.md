@@ -746,6 +746,7 @@ AWS
 * [람다를 이용해 CF 로그를 ES에 저장하기](https://brunch.co.kr/@alden/63)
 * [The Right Way of Tracing AWS Lambda Functions](https://www.infoq.com/articles/tracing-aws-lambda-functions/)
 * [The Dark Side of AWS Lambda. There is a default feature of AWS… | by Adam Link | Fluidity | Medium](https://medium.com/fluidity/the-dark-side-of-aws-lambda-5c9f620b7dd2)
+* [5 Serverless Architecture Best Practices with AWS Lambda | by AWS Meetup Group | Level Up Coding](https://levelup.gitconnected.com/5-serverless-architecture-best-practices-with-aws-lambda-a707206c098c)
 
 ## Lambda Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
