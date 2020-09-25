@@ -1484,6 +1484,7 @@ Scala
   * [quick note on dotty, graaljs interop: structural typing with Selectable](https://appddeevvmeanderings.blogspot.com/2020/06/quick-note-on-dotty-graaljs-interop.html)
   * [RJUG #20 : Scala for the People (again)! Simpler coding with Scala 3/Dotty by Mikołaj Koziarkiewicz - YouTube](https://www.youtube.com/watch?v=BMFrBf7QtDA)
   * [Dotty becomes Scala 3](https://dotty.epfl.ch/blog/2020/09/21/naming-schema-change.html)
+  * dotty-cps-async [CAN WE FREE CONCURRENT PROGRAMMING FROM THE MONADIC STYLE - Ruslan Shevchenko | Scalar 2020 - YouTube](https://www.youtube.com/watch?v=ImlUuTQUeaQ)
 * [Fury - an experimental dependency manager and build tool for Scala](https://github.com/propensive/fury)
   * [Fury - an experimental dependency manager and build tool for Scala](https://fury.build/)
   * [Jon Pretty - The Future of Scala](https://www.youtube.com/watch?v=KEhGfpRpSOg)
