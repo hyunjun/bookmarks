@@ -170,6 +170,7 @@ Vim
 * [**(Linux) Vim 에디터 다양한 기능 설명 및 C++/Python 개발 환경설정 · Edward Im**](https://edward0im.github.io/technology/2020/09/17/vim/)
 * [Vim for humans | Free price ebook](https://vimebook.com/en)
 * [(리눅스 업스킬 도전 #6) vim 익숙해지기](https://jhrogue.blogspot.com/2020/09/6-vim.html)
+* [Vim Isn’t That Scary. Here are 5 free resources you can use… | by Fatos Morina | Better Programming | Medium](https://medium.com/better-programming/vim-isnt-that-scary-here-are-5-free-resources-you-can-use-to-learn-it-5bba109a7422)
 
 # Book
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro/read_full)
