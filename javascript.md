@@ -2308,6 +2308,7 @@ Javascript
 * [React 게시판(CRUD) 만들기 1](http://forest71.tistory.com/183)
 * [React + Redux 게시판(CRUD) 만들기](http://forest71.tistory.com/184)
 * [React(Redux) + Firebase 게시판(CRUD) 만들기](http://forest71.tistory.com/189)
+* [Build a 7-minute chat app with React & Firebase](https://morioh.com/p/3345f9c067b7)
 * [How to develop your React superpowers with the Container Pattern](https://medium.freecodecamp.org/react-superpowers-container-pattern-20d664bdae65)
 * [reactjs-interview-questions-ko](https://github.com/appear/reactjs-interview-questions-ko)
 * [React에서 Redux 전에 배워야 할 8가지](https://edykim.com/ko/post/learn-react-before-using-redux/)
