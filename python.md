@@ -1091,6 +1091,9 @@ Python
   * [LAZY SORTING (PYTHON RECIPE)](http://code.activestate.com/recipes/280501-lazy-sorting/)
   * [sorted 함수 예제](http://knight76.tistory.com/entry/python3-sorted-%ED%95%A8%EC%88%98-%EC%98%88%EC%A0%9C)
   * [3 Reasons Why You Should Almost Always Use sorted() in Python](https://medium.com/swlh/3-reasons-why-you-should-almost-always-use-sorted-in-python-9fe122e6ce71)
+  * cmp_to_key
+    * [practice - from functools import cmp_to_key](https://github.com/hyunjun/practice/commit/78f4a0a967224b892495de97d937d0e3aacf423d)
+    * [HackerRank Sorting: Comparator (Python)](https://somjang.tistory.com/entry/HackerRank-Sorting-Comparator-Python)
 * ssl
   * [python3 ssl인증 Basic통과 하기](https://krksap.tistory.com/1637)
 * `__str__`
