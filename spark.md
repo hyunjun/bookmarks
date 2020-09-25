@@ -847,6 +847,7 @@
 * [First Steps With PySpark and Big Data Processing](https://realpython.com/pyspark-intro/)
 * [**New Pandas UDFs and Python Type Hints in the Upcoming Release of Apache Spark 3.0™**](https://databricks.com/blog/2020/05/20/new-pandas-udfs-and-python-type-hints-in-the-upcoming-release-of-apache-spark-3-0.html)
 * [How to create a simple ETL Job locally with PySpark, PostgreSQL and Docker](https://itnext.io/how-to-create-a-simple-etl-job-locally-with-pyspark-postgresql-and-docker-ea53cd43311d)
+* [Data Collab Lab: Automate Data Pipelines with PySpark SQL - YouTube](https://www.youtube.com/watch?v=QpVsP9Y7qIg)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
