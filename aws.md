@@ -783,10 +783,12 @@ AWS
   * [AWS CDK로 서버없이 서비스 운영해보기 (3) - Nuxt - 완두블로그](https://wani.kr/posts/2020/02/19/aws-cdk-3-nuxt/)
   * [CDK로 EKS 클러스터 풀스택 관리하기 :: CDK로 멀티 리전 EKS 클러스터 풀스택 배포](https://cdk-eks-devops.workshop.aws/ko)
 * [CloudFormation with Python](https://github.com/skyer9/CloudFormationForPython)
+  * [CloudFormation 템플릿](https://aws.amazon.com/ko/cloudformation/resources/templates/)
   * [**AWS를 만드는 AWS, CloudFormation**](https://www.huskyhoochu.com/introduce-cloudformation)
   * [How to automate Anaconda installs on AWS EC2 with CloudFormation](https://medium.freecodecamp.org/how-to-automate-installation-of-anaconda-on-aws-ec2-instances-e9db8aa0570d)
   * [Serverless with IAC - terraform과 cloudformation 비교](https://www.slideshare.net/wesky93/serverless-with-iac-terraform-cloudformation)
   * [Deploy AWS CloudFormation stacks with GitHub Actions | AWS Open Source Blog](https://aws.amazon.com/ko/blogs/opensource/deploy-aws-cloudformation-stacks-with-github-actions/)
+  * [CloudFormation을 이용해서 IaC 입문해보기 | Developers.IO](https://dev.classmethod.jp/articles/introduction-of-iac-using-cloudformation/)
 * [cortex - Deploy machine learning models in production https://cortex.dev ](https://github.com/cortexlabs/cortex/tree/v0.9.0)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
 * [kops-cui - a CUI that helps you install Kubernetes Cluster easily with KOPS](https://github.com/nalbam/kops-cui)
@@ -850,6 +852,7 @@ AWS
 * [동적 변수를 젠킨스 파라미터로 사용하기 (Extended Choice Parameter)](https://qiita.com/leechungkyu/items/9465d924747d0a170cd7)
 * [S3, 넌 이것까지 할 수 있네(Amazon S3 신규 기능 소개)](https://dev.classmethod.jp/articles/summit-korea-introducing-new-features-of-s3/)
 * [AWS S3를 이용한 Jenkins 마이그레이션](https://jojoldu.tistory.com/508)
+* [Node.js x AWS Lambda x S3를 활용한 이미지 리사이징(Image Resizing) 다루기 | by Ryan Kim | Sep, 2020 | Medium](https://medium.com/@equus3144/node-js-x-aws-lambda-x-s3%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A6%AC%EC%82%AC%EC%9D%B4%EC%A7%95-image-resizing-%EB%8B%A4%EB%A3%A8%EA%B8%B0-d87435913958)
 
 # Scala
 * [Using Scala in the Cloud: A Guide to Amazon EC2 Instance Types](https://www.triplequote.com/blog/2019-guide-to-amazon-instances/)
