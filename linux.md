@@ -363,6 +363,7 @@ Linux
   * [The Fun cron Tutorial](https://medium.com/better-programming/the-fun-cron-tutorial-b1c9d255a94c)
   * [Linux Crontab: 15 Awesome Cron Job Examples](https://www.thegeekstuff.com/2009/06/15-practical-crontab-examples/)
   * [서머타임과 배치작업](https://meetup.toast.com/posts/232)
+  * [(리눅스 업스킬 도전 #10) 특정 시각에 반복적으로 작업하기](https://jhrogue.blogspot.com/2020/09/10.html) crontab 이외에 list-timers, apt-daily.timer 등 소개
 * `curl`
   * [practice - `-k` insecure & `-svo` verbose](https://gist.github.com/hyunjun/44a68ec086d690bdda94a369e8e43daa#file-curl_insecure-md)
   * [practice - sessionid를 curl로 얻는 방법](https://gist.github.com/hyunjun/44a68ec086d690bdda94a369e8e43daa#file-sessionid-md)
@@ -503,6 +504,7 @@ Linux
   * [How do I list the symbols in a .so file](http://stackoverflow.com/questions/34732/how-do-i-list-the-symbols-in-a-so-file)
 * nmap
   * [Nmap Examples For Network Admins](http://teknixx.com/nmap-examples-for-network-admins/)
+  * [(리눅스 업스킬 도전 #9) 서비스 포트 관리](https://jhrogue.blogspot.com/2020/09/9.html)
 * [nq - Unix command line queue utility](https://github.com/chneukirchen/nq)
 * `nslookup`
   * [nslookup 사용법](http://qnfmfmd.tistory.com/11)
