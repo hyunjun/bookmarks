@@ -32,6 +32,7 @@ GIS
 * [MySQL을 이용해서 위경도 지점간 거리 구하기](https://stricky.tistory.com/285)
 * [Calculate distance between latitude longitude pairs with Python](https://gist.github.com/rochacbruno/2883505)
 * [전국에 맥도날드 주소가 어떻게 될까? | Daily Log](https://jiyeonseo.github.io/2020/08/01/where-is-mcdonald-addr/)
+* [4 Must-have JupyterLab Extensions for Geospatial Data science | by Abdishakur | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/4-must-have-jupyterlab-extensions-for-geospatial-data-science-f3cf7822de4b)
 * [Deckgl for Jupyter Notebook - 위치 데이터 시각화 라이브러리인 Deck.gl을 쥬피터 노트북 에서 사용 가능](https://github.com/heumsi/deckgl-jupyter)
 * [gpd_example 2019년 pycon 튜토리얼 (Python으로 지리공간데이터 다루기) 실습 파일](https://github.com/rollinstar/gpd_example)
 * [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
