@@ -479,6 +479,7 @@ App
     * [머신러닝도 Visiual Studio Code로 하세요 - YouTube](https://www.youtube.com/watch?v=TCpR_y-7tCs)
     * [MS, 비주얼스튜디오 코드용 C++ 확장 기능 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20200916103754)
     * [Draw.io VS Code Integration](https://github.com/hediet/vscode-drawio/)
+    * [VS Code extensions that make me fall in love with programming each day | by Madhav Bahl | codeburst](https://codeburst.io/vs-code-extensions-that-make-me-fall-love-in-programming-each-day-ccf05b24651e)
     * Debug
       * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
       * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
