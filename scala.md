@@ -433,6 +433,7 @@ Scala
   * [A Tale of Two Monix Streams—Alexandru Nedelcu](https://www.youtube.com/watch?v=JFbYQGG2Nb4)
   * [A story about streaming unique batches in Monix](https://blog.softwaremill.com/a-story-about-streaming-unique-batches-in-monix-435a13063b3)
   * [Best Practice: Should Not Block Threads — Monix](https://monix.io/docs/current/best-practices/blocking.html)
+  * [Piotr Gawryś: Streaming with Monix - YouTube](https://www.youtube.com/watch?v=lzSykAUUQSA)
 
 ## Akka Cluster
 * [Why we picked AKKA cluster as our microservice framework](http://tech.iheart.com/post/121599571574/why-we-picked-akka-cluster-as-our-microservice)
@@ -984,6 +985,7 @@ Scala
   * [Retry Failing Tasks with Cats and Scala - Alexandru Nedelcu](https://alexn.org/blog/2020/08/03/on-error-retry-loop.html)
   * [Introduction to Scala Cats — Part 1 | by Omer Arshad | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/introduction-to-scala-cats-part-1-3487e8d86a40)
   * [Implicit scope and Cats](https://meta.plasm.us/posts/2019/09/30/implicit-scope-and-cats/)
+  * [The Parallel typeclass in Cats - Scala tutorial - YouTube](https://www.youtube.com/watch?v=Tx5LdRCaDcY)
   * [Cats Effect: Home](https://typelevel.org/cats-effect/)
     * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
     * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
@@ -1005,6 +1007,7 @@ Scala
 * [Coursier](https://get-coursier.io/docs/cli-overview)
   * [One-click install for Scala | The Scala Programming Language](https://www.scala-lang.org/2020/06/29/one-click-install.html)
 * [Cryptoaudit - a collection of tools that enables auditing system in a secure and publicly verificable way](https://github.com/synaptic-cl/cryptoaudit)
+* cs [Single command Scala setup - Alex Archambault](https://alexarchambault.github.io/posts/2020-09-21-cs-setup.html)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
 * [Diffy - Find potential bugs in your services with Diffy https://twitter.com/diffyproject](https://github.com/twitter/diffy)
   * [트위터, 소스코드 오류 검사기 오픈소스로 공개](http://www.bloter.net/archives/238241)
@@ -1058,6 +1061,7 @@ Scala
   * [Did Netflix just kill Databricks with releasing Polynote for free?](https://medium.com/@brianray_7981/did-netflix-just-kill-databricks-with-releasing-polynote-for-free-c2d1f6dc0da3)
   * [Firsthand Experience with Polynote — A Better Notebook for Data Engineers](https://towardsdatascience.com/trying-polynote-from-netflix-a-better-notebook-for-data-engineers-5107277ff2e5)
   * [Open-sourcing Polynote: an IDE-inspired polyglot notebook](https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)
+  * [Polynote, A better notebook for Scala](https://vincentbrule.com/2020-09-19-polynote/)
 * [prox - A Scala library for working with system processes](https://github.com/vigoo/prox)
   * [prox part 1 — type level programming in Scala](https://engineering.prezi.com/prox-part-1-type-level-programming-in-scala-47d4b5c32df9)
   * [prox part 2 — akka streams with cats effect](https://engineering.prezi.com/prox-part-2-akka-streams-with-cats-effect-f63c28199cad)
@@ -1362,6 +1366,7 @@ Scala
 * [Tagless Final - Part 8.2 - main (The Big Rewrite - Part 4.2) - YouTube](https://www.youtube.com/watch?v=O_REJhViiI4)
 * [Tagless Final - Part 9 - persistence-postgres-skunk (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=J5I_HEUKsF0)
 * [Tagless Final - Part 10 - main-postgres-skunk (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=kafn3qKd9Pw)
+* [Tagless Final - Part 11 - main-http-http4s (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=N-7vQl7HH8k&feature=youtu.be)
 * [Scala 3 - TF related improvements (mostly #implicits) - YouTube](https://www.youtube.com/watch?v=0MPfFBctWUc)
 
 # Monoids
@@ -1478,6 +1483,7 @@ Scala
   * [A Beginner's Guide to Scala 3.0](https://blog.knoldus.com/a-beginner-guide-to-scala-3-0/)
   * [quick note on dotty, graaljs interop: structural typing with Selectable](https://appddeevvmeanderings.blogspot.com/2020/06/quick-note-on-dotty-graaljs-interop.html)
   * [RJUG #20 : Scala for the People (again)! Simpler coding with Scala 3/Dotty by Mikołaj Koziarkiewicz - YouTube](https://www.youtube.com/watch?v=BMFrBf7QtDA)
+  * [Dotty becomes Scala 3](https://dotty.epfl.ch/blog/2020/09/21/naming-schema-change.html)
 * [Fury - an experimental dependency manager and build tool for Scala](https://github.com/propensive/fury)
   * [Fury - an experimental dependency manager and build tool for Scala](https://fury.build/)
   * [Jon Pretty - The Future of Scala](https://www.youtube.com/watch?v=KEhGfpRpSOg)
@@ -1748,3 +1754,5 @@ Scala
 * [A FUNCTIONAL SCALA STACK FOR 2020 - Adam Warski | Scalar 2020 - YouTube](https://www.youtube.com/watch?v=DGlkap5kzGU)
 * [Complete Scala Tutorial by Bharath - YouTube](https://www.youtube.com/playlist?list=PLyueB9LCZVO7dwbs0URRdCld16VsncfS6)
 * [Rock the JVM - YouTube](https://www.youtube.com/channel/UCRS4DvO9X7qaqVYUW2_dwOw)
+* [**Tour of Scala | Home**](https://tourofscala.com) ???를 제거해서 code snippet을 완성하는 연습
+* [Programmering, grundkurs (2020) - YouTube](https://www.youtube.com/playlist?list=PLEV42dlCGAJ-0925_wTUFt_XiXfnimIVX)
