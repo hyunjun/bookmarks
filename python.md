@@ -3387,6 +3387,7 @@ Python
 * [Pythonic Data Cleaning With Pandas and NumPy](https://realpython.com/python-data-cleaning-numpy-pandas/)
 * [파이썬(python) numpy 의 array(ndarray)와 matrix 데이터 타입](https://thrillfighter.tistory.com/482)
 * [NumPy Tutorial 2020 - YouTube](https://www.youtube.com/watch?v=8Y0qQEh7dJg)
+* [Python NumPy Tutorial | NumPy Array | Python Tutorial For Beginners | Python Training | Simplilearn - YouTube](https://www.youtube.com/watch?v=j31ah5Qa4QI)
 
 # [Pandas](http://pandas.pydata.org/)
 * practice
