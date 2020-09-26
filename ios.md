@@ -476,6 +476,7 @@ iOS
   * [사진 게시판 API 만들기 4](http://blog.yagom.net/571)
   * [사진 게시판 API 만들기 5](http://blog.yagom.net/572)
   * [사진 게시판 API 만들기 6](http://blog.yagom.net/573)
+* SPM Swift Package Manager [Swift Package 에 리소스 추가하기](https://brunch.co.kr/@tilltue/63)
 * [Swift Core ML implementations of Transformers: GPT-2, BERT, more coming soon!](https://github.com/huggingface/swift-coreml-transformers)
 * [swifter - Tiny http server engine written in Swift programming language](https://github.com/glock45/swifter)
 * [SwiftExpress – Web Application Server in Swift](http://rshankar.com/swiftexpress-web-application-server-in-swift/)
