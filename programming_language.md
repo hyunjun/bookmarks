@@ -92,6 +92,7 @@ Programming Language
 * [Systems Languages: An Experience Report](https://blog.usejournal.com/systems-languages-an-experience-report-d008b2b12628)
 * [KAIST CS320 Programming Languages Course Reading Materials](https://hjaem.info/articles/main)
 * [Five Languages That Won’t Ever Die | by Yarot Kel | The Startup | Medium](https://medium.com/swlh/five-languages-that-wont-ever-die-107dc6712a4e)
+* [Top 4 Dying Programming Languages of 2020 | by Shubham Dixit | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/top-4-dying-programming-languages-of-2020-1a4149753e92)
 * [5 Programming Languages Worth Exploring to Improve Your Coding Style](https://medium.com/swlh/5-programming-languages-worth-exploring-to-improve-your-coding-style-f2d852cb46aa)
   * ML languages (F# / OCaml), Haskell, LISP family: Common LISP, Clojure, Scheme, Rust, Smalltalk
 * [Choosing a (Language) Stack. This post and the experiment was a… | by Nick Gordon | WeWork Technology](https://engineering.wework.com/choosing-a-language-stack-cac3726928f6) ruby, kotlin, go
