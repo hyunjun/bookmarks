@@ -267,6 +267,7 @@ Git
   * [git flow model - YouTube](https://www.youtube.com/watch?v=EzcF6RX8RrQ)
   * [형상관리 전략정리](https://chodragon9.github.io/blog/git-scm-experience/)
   * [효율적인 협업을 위한 Git Branching 전략](https://harrydrippin.github.io/programming/2017/07/03/git-branching-strategy.html)
+  * [An Efficient Git Branching Strategy Every Developer Should Know | by Anurag Sidana | Better Programming | Medium](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)
   * [Git Branch - 릴리즈 플래닝 - 회사에서 하고 있는 걸 정리해본다](http://thdev.tech/android/git/2018/01/21/Git-Branch.html)
   * [deploy 브랜치 전략 활용 방법](https://medium.com/daangn/deploy-브랜치-전략-활용-방법-545f278ca878)
   * [**Git을 이용한 협업 워크플로우**](https://lhy.kr/git-workflow)
