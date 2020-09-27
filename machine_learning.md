@@ -915,6 +915,7 @@ Machine Learning
 * [Top 20 Python Machine Learning Open Source Projects, updated](https://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
 * [Highest Rated ML Projects on Github](https://towardsdatascience.com/highest-rated-ml-projects-on-github-694486293512)
 * [A Tour of End-to-End Machine Learning Platforms – Databaseline by Ian Hellström](https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/)
+* [‘머신러닝을 쉽게’··· 추천 오픈소스 도구 14선 - CIO Korea](http://www.ciokorea.com/news/166185)
 * [aerosolve](http://airbnb.io/aerosolve/)
   * [aerosolve](http://nerds.airbnb.com/aerosolve)
   * [에어비앤비, 머신러닝 데이터 분석도구 오픈소스로 공개](http://www.bloter.net/archives/229587)
