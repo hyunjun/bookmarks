@@ -10,7 +10,6 @@
 * [Rust Once, Run Everywhere](http://blog.rust-lang.org/2015/04/24/Rust-Once-Run-Everywhere.html)
 * [Pre-Pooping Your Pants With Rust](http://cglab.ca/~abeinges/blah/everyone-poops/)
 * [Reenix: Implementing a Unix-Like Operating System in Rust](http://scialex.github.io/reenix.pdf)
-* [A Rust Contributor Tries Their Hand at Go](http://www.polyglotweekly.com/2015/04/24/thoughts-of-a-rustacean-learning-go.html)
 * [How to Write a Rust Syntax Extension](http://brodoyouevencode.com/posts/how-to-write-a-rust-syntax-extension/)
 * Virtual Structs Part
   * [1: Where Rust’s Enum Shines](http://smallcultfollowing.com/babysteps/blog/2015/05/05/where-rusts-enum-shines/)
@@ -20,7 +19,6 @@
 * [Where Self Meets Sized: Revisiting Object Safety](http://huonw.github.io/blog/2015/05/where-self-meets-sized-revisiting-object-safety/)
 * [Rust's cartridge for OpenShift](http://blog.flaper87.com/post/rust-cartridge-for-openshift/)
 * [Where Rust Really Shines](http://manishearth.github.io/blog/2015/05/03/where-rust-really-shines/)
-* [Rust + Go](https://github.com/medimatrix/rust-plus-golang)
 * [Finding Closure in Rust](http://huonw.github.io/blog/2015/05/finding-closure-in-rust/)
 * [Abstraction without overhead: traits in Rust](http://blog.rust-lang.org/2015/05/11/traits.html)
 * [Rust Discovery, or: How I Figure Things Out](http://carol-nichols.com/2015/05/10/rustc-discovery/)
@@ -47,7 +45,6 @@
 * [60sec Review: Rust Language](http://www.joshondesign.com/2014/09/17/rustlang)
 * [Exceptional results: error handling with C# and Rust](https://ruudvanasseldonk.com/2015/06/17/exceptional-results-error-handling-in-csharp-and-rust)
 * [First Rust Program Pain (So you can avoid it…)](http://dtrace.org/blogs/ahl/2015/06/22/first-rust-program-pain/)
-* [Why Go and Rust are not competitors](http://dave.cheney.net/2015/07/02/why-go-and-rust-are-not-competitors)
 * [Building an iOS App in Rust, Part 1: Getting Started with Rust](https://www.bignerdranch.com/blog/building-an-ios-app-in-rust-part-1/)
 * [How Rust Achieves Thread Safety](http://manishearth.github.io/blog/2015/05/30/how-rust-achieves-thread-safety/)
 * [Five lists of six things about Rust](https://graydon2.dreamwidth.org/214016.html)
@@ -55,7 +52,6 @@
 * [Visualizing Rust's type-system](http://jadpole.github.io/rust/type-system/)
 * [Exploiting Ousterhout’s Dichotomy for fast longitude, latitude to BNG conversion, using Rust, threads, and Python FFI](http://sensitivecities.com/rust-python-ffi-bng-EN.html)
 * [Type-checked matrix operations in Rust](https://jadpole.github.io/rust/typechecked-matrix/)
-* [Go and Rust — objects without class](https://lwn.net/Articles/548560/)
 * [Why Rust Appeals to Me](https://cmcenroe.me/2015/08/08/why-rust.html)
 * [Sorting out graph processing](https://github.com/frankmcsherry/blog/blob/master/posts/2015-08-15.md)
 * [Production user research summary](https://internals.rust-lang.org/t/production-user-research-summary/2530)
@@ -90,7 +86,6 @@
 * [gradebot.org/doc/ipur](http://gradebot.org/doc/ipur)
 * [Rust 읽을거리](https://blog.seulgi.kim/2018/11/rust.html)
 * [Rust and the Three Laws of Informatics](https://blog.usejournal.com/rust-and-the-three-laws-of-informatics-4324062b322b)
-* [The success of Go heralds that of Rust](https://medium.com/@george3d6/the-success-of-go-heralds-that-of-rust-73cb2e4c0500)
 * [Things Rust doesn’t let you do](https://medium.com/@GolDDranks/things-rust-doesnt-let-you-do-draft-f596a3c740a5)
 * Scala Developer Journey into Rust
   * [Part 1 : Introduction](http://blog.madhukaraphatak.com/rust-scala-part-1/)
@@ -113,7 +108,6 @@
 * [rust-oss-template - a simple template for rust language based project](https://github.com/utilForever/rust-oss-template)
 * [Code reuse in Rust](https://medium.com/@dpc_96143/cargo-crev-and-rust-2019-fearless-code-reuse-b75d58398cb8)
 * [github.com/leechanwoo/APSS/tree/master/rust](https://github.com/leechanwoo/APSS/tree/master/rust)
-* [Why Discord is switching from Go to Rust](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 * [Why Should You Learn Rust?](https://medium.com/better-programming/why-rust-d52516e70ab8)
 * [Snake Game With Rust, JavaScript, and WebAssembly](https://medium.com/@geekrodion/snake-game-with-rust-javascript-and-webassembly-5e22b357ec7b)
 * [Snake Game With Rust, JavaScript, and WebAssembly | Part 2](https://medium.com/swlh/snake-game-with-rust-javascript-and-webassembly-part-2-9d729b87c186)
@@ -140,6 +134,16 @@
 * [Asynchronous IO in Rust](https://medium.com/@paulcolomiets/asynchronous-io-in-rust-36b623e7b965)
 * [How Rust optimizes async/await: Part 1](https://tmandry.gitlab.io/blog/posts/optimizing-await-1/)
 * [The Talk You've Been Await-ing for](https://www.youtube.com/watch?v=NNwK5ZPAJCk)
+
+# Go
+* [A Rust Contributor Tries Their Hand at Go](http://www.polyglotweekly.com/2015/04/24/thoughts-of-a-rustacean-learning-go.html)
+* [Rust + Go](https://github.com/medimatrix/rust-plus-golang)
+* [Why Go and Rust are not competitors](http://dave.cheney.net/2015/07/02/why-go-and-rust-are-not-competitors)
+* [Go and Rust — objects without class](https://lwn.net/Articles/548560/)
+* [The success of Go heralds that of Rust](https://medium.com/@george3d6/the-success-of-go-heralds-that-of-rust-73cb2e4c0500)
+* [Why Discord is switching from Go to Rust](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
+* [Go vs Rust: Writing a CLI tool | by Paulo Cuchi @ Magrathea | Magrathea](https://blog.magrathealabs.com/go-vs-rust-writing-a-cli-tool-231accadcc88)
+* [Comparison between Java, Go, and Rust | by Dexter Darwich | Medium](https://medium.com/@dexterdarwich/comparison-between-java-go-and-rust-fdb21bd5fb7c)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
