@@ -582,6 +582,7 @@ Go
 * [Why Go and Rust are not competitors](http://dave.cheney.net/2015/07/02/why-go-and-rust-are-not-competitors)
 * [Go and Rust — objects without class](https://lwn.net/Articles/548560/)
 * [Early Impressions of Go From a Rust Programmer](https://medium.com/better-programming/early-impressions-of-go-from-a-rust-programmer-f4fd1074c410)
+* [Go vs Rust: Writing a CLI tool | by Paulo Cuchi @ Magrathea | Magrathea](https://blog.magrathealabs.com/go-vs-rust-writing-a-cli-tool-231accadcc88)
 
 # TDD, Test
 * [Go Testing + Docker](http://ericchiang.github.io/go/tests/testing/docker/2015/09/14/test-with-docker.html)
