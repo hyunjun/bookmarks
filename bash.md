@@ -25,6 +25,7 @@ Shell
 * [shell script 파일 주석을 그대로 도움말로 사용하기](https://bloodguy.tistory.com/entry/Linux-shell-script-%ED%8C%8C%EC%9D%BC-%EC%A3%BC%EC%84%9D%EC%9D%84-%EA%B7%B8%EB%8C%80%EB%A1%9C-%EB%8F%84%EC%9B%80%EB%A7%90%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 * [How Bash Works. Understanding how shell scripting works… | by Jasmine Humbert | Better Programming | Medium](https://medium.com/better-programming/how-bash-works-8424becc12f3)
 * [This Will Make You a Command-Line Ninja | by Erik van Baaren | Towards Data Science](https://towardsdatascience.com/this-will-make-you-a-command-line-ninja-93a51cdb16b1)
+* [A Simple Productivity Hack Using Bash Scripts | by Sebastian Scholl | The Startup | Medium](https://medium.com/swlh/a-simple-productivity-hack-using-bash-scripts-b723e60dd584)
 * argument
   * [practice - multiple arguments](https://gist.github.com/hyunjun/ba33945e80a4f899cc169f97aa351820)
   * [bash pass multiple arguments with spaces](http://www.linuxquestions.org/questions/linux-software-2/bash-pass-multiple-arguments-with-spaces-717268/)
