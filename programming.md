@@ -1066,6 +1066,7 @@ Programming
 * [How one code review rule turned my team into a dream team](https://medium.com/inside-league/how-one-code-review-rule-turned-my-team-into-a-dream-team-fdb172799d11)
 * [코드리뷰 모음 서비스를 소개합니다](https://woowabros.github.io/techcourse/2020/06/05/techcourse-javable.html)
 * [시니어 엔지니어로 넘어가기 위한 기술: 코드 읽기](http://mkseo.pe.kr/blog/?p=2737)
+* [Code Review Best Practices at Google | Better Programming](https://medium.com/better-programming/13-code-review-standards-inspired-by-google-6b8f99f7fd67)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
@@ -1807,6 +1808,7 @@ Programming
   * [9월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/09/b-9-1.html)
   * [9월 2주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/09/b-9-2.html)
   * [9월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/09/b-9-3.html)
+  * [9월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/09/b-9-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
