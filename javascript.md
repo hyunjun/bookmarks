@@ -1567,6 +1567,7 @@ Javascript
   * [npm install 에러 - MacOS](https://jybaek.tistory.com/865)
   * [10 things you should know about NPM](https://medium.com/javascript-in-plain-english/10-things-you-should-know-about-npm-f72f94a13954)
   * [NPM에 자신의 라이브러리 배포하기](https://dev-yakuza.github.io/ko/share/deploy-npm-library/)
+  * [How to fix NPM error “Unable to authenticate, need: Bearer Authentication_URI” in NodeJS | by Bryant Jimin Son | Sep, 2020 | Medium](https://medium.com/@bryantjiminson/how-to-fix-npm-error-unable-to-authenticate-need-bearer-authentication-uri-in-nodejs-4aab94b3f2cd)
 * [pnpm: a Space-Efficient JavaScript Package Manager](https://www.infoq.com/news/2020/06/pnpm-javascript-package-manager/)
 * [Snowpack - Build web applications with less tooling and 10x faster iteration](https://www.snowpack.dev/)
   * [Introducing Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
@@ -1828,6 +1829,7 @@ Javascript
 * [어서와, SSR은 처음이지 - 개발 편](https://d2.naver.com/helloworld/2177909)
 * [Node.js - 9.URL의 이해 - YouTube](https://www.youtube.com/watch?v=Zhbvui_T9VY)
 * [GitHub - iamssen/http-study-with-node-socket](https://github.com/iamssen/http-study-with-node-socket)
+* [High performance and safe AI as a Service in Node.js](https://www.secondstate.io/articles/face-detection-ai-as-a-service/)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
