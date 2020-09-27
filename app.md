@@ -879,6 +879,7 @@ App
   * [iTerm2에 Dracular 테마 적용하기](https://jojoldu.tistory.com/428)
   * [**알아두면 도움되는 iTerm2 고급기능**](https://medium.com/harrythegreat/알아두면-도움되는-iterm2-고급기능-81a4cd81bab7)
   * [Little known features of iTerm2](https://banga.github.io/blog/2020/03/02/little-known-features-of-iterm2.html)
+  * [Maximizing use of the terminal. If you are a developer or engineer you… | by Albin Groen | Level Up Coding](https://levelup.gitconnected.com/maximizing-use-of-the-terminal-9b7b12ab5dd2)
 * [Mac CLI  OS X command line tools for developers](https://github.com/guarinogabriel/mac-cli)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
