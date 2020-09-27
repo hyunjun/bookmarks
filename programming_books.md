@@ -249,6 +249,7 @@ Programming Books
   * 2018.09
   * 한라 005.135그298ㅁ
   * [Concurrency with Modern C++](https://leanpub.com/concurrencywithmodernc)
+  * [모던 C++로 배우는 동시성 프로그래밍](https://jpub.tistory.com/826)
   * [모던 C++로 배우는 동시성 프로그래밍](https://github.com/jpub/rainergrimm)
 * [모던 C++로 배우는 함수형 프로그래밍 - 커링, 메타프로그래밍 등 C++와 함수형 프로그래밍의 핵심](http://acornpub.co.kr/book/cplus-functional-programming)
   * 2018.09
@@ -1193,6 +1194,7 @@ Programming Books
 * (NOT YET) [프로그래머, 수학의 시대 (사람과 프로그래머 #8)](https://roadbook.co.kr/226)
 * (NOT YET) [《수학 리부트: 프로그래머를 위한 기초 수학》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/07/01/%E3%80%8A%EC%88%98%ED%95%99-%EB%A6%AC%EB%B6%80%ED%8A%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-%EA%B8%B0%EC%B4%88-%EC%88%98%ED%95%99%E3%80%8B/)
 * (NOT YET) [수학으로 풀어보는 칼만 필터 알고리즘: 기초 이론부터 깊게 이해하고 응용 예제로 철저하게 배우는 | 위키북스](https://wikibook.co.kr/kalman/)
+* (NOT YET) [더북(TheBook): 머신 러닝을 위한 수학 with 파이썬, R](https://thebook.io/007019/)
 
 # Network
 
