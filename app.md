@@ -667,6 +667,7 @@ App
 * [Eight Terminal Utilities Every OS X Command Line User Should Know](http://www.mitchchn.me/2014/os-x-terminal/?x)
 * [How I hacked my terminal so a happy whale would spout software quotes at me](https://codeburst.io/how-i-hacked-my-terminal-so-a-happy-whale-would-spout-software-quotes-at-me-6791e6c74fc6)
 * [macOS 초심자를 위한 터미널 공부 가이드 편안하고 즐거운 터미널 생활](https://johngrib.github.io/wiki/my-mac-os-terminal/)
+* [Impress Your Friends With These Fun and Useful Mac Terminal Commands | by Javascript Jeep🚙💨 | Better Programming | Medium](https://medium.com/better-programming/impress-your-friends-with-these-fun-and-useful-mac-terminal-commands-c091ec2a0024)
 * [맥북프로 재부팅 문제 해결 삽질기](http://www.popit.kr/%EB%A7%A5%EB%B6%81%ED%94%84%EB%A1%9C-%EC%9E%AC%EB%B6%80%ED%8C%85-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EC%82%BD%EC%A7%88%EA%B8%B0/)
 * [맥에서 사용할 최강 무료 오픈소스 앱 12가지](http://www.itworld.co.kr/slideshow/91497)
 * [맥 유저라면 한 번 꼭 써봐야하는 10가지 무료 앱](http://www.itworld.co.kr/slideshow/96010)
