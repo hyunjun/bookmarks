@@ -336,6 +336,7 @@ NLP
 * [머신러닝을 활용한 오픈챗 클린 스코어 모델 개발기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-openchat-cleanscore/)
 * [badword_check: 딥러닝을 통한 한글 욕설 분류 프로젝트](https://github.com/Nam-SW/badword_check)
 * [**위클리 NLP - jiho-ml**](https://www.jiho-ml.com/tag/weekly-nlp/)
+* [Google AI Blog: Advancing NLP with Efficient Projection-Based Model Architectures](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html) GPT-3와 반대로 적은 parameter로 만드는 model에 대한 이야기
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
