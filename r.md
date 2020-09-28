@@ -213,6 +213,7 @@ R
 * [RSelenium 사용법](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/38387a64fccaa643348e02f4d9bb7c4e#/)
 * [Best practices of orchestrating Python and R code in ML projects](http://www.kdnuggets.com/2017/10/best-practices-python-r-code-ml-projects.html/2)
 * [Why Use Docker with R? A DevOps Perspective](https://www.r-bloggers.com/why-use-docker-with-r-a-devops-perspective/)
+* [DOCKERIZING R BATCH SCRIPTS](https://lumiamitie.github.io/r/dockerizing-r-batch-script/)
 * [R로 웹 데이터를 가져오는 4가지 방법(은 크롤링)](https://mrchypark.github.io/getWebR/#1)
 * [WHAT DO WE ASK IN STACK OVERFLOW](http://jkunst.com/r/what-do-we-ask-in-stackoverflow/)
 * [비동기 프로그래밍 WITH FUTURE (R-ADV WEEK1)](http://lumiamitie.github.io/r/radv-wk1-future/)
