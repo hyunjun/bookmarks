@@ -306,6 +306,7 @@ NLP
 * [NLP News By Sebastian Ruder](http://newsletter.ruder.io/)
 * [NLP 101: 딥러닝과 자연어 처리 학습을 위한 자료 저장소](https://github.com/Huffon/NLP101)
 * [Natural Language Processing RoadMap - 2019](https://github.com/graykode/nlp-roadmap)
+* [Nlp Roadmap](https://awesomeopensource.com/project/graykode/nlp-roadmap)
 * [NLP Year in Review — 2019](https://medium.com/dair-ai/nlp-year-in-review-2019-fb8d523bcb19)
 * [NLP HighlightsPro - Allen Institute for Artificial Inte Seattle, United States](https://soundcloud.com/nlp-highlights)
 * [SKC_Text_Preprocessing - SKC 텍스트 전처리 강의](https://github.com/Parkchanjun/SKC_Text_Preprocessing)
