@@ -88,6 +88,7 @@
 
 # C#
 * [Factory Design Pattern (C#)](https://blog.usejournal.com/factory-design-pattern-c-a330955b9ed6)
+* [Factory Pattern Without Switch and If-Else | The Startup](https://medium.com/swlh/factory-pattern-without-switch-this-is-how-it-should-be-done-cd895e356f44)
 
 # Class
 * [Classes are Expressions (and why that matters)](http://raganwald.com/2015/06/04/classes-are-expressions.html)
