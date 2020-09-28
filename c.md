@@ -153,6 +153,7 @@ C
 * [char와int 비교/치환](http://sunphiz.me/wp/archives/3398)
 * [Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 * [LINUX KERNEL DEVELOPMENT AND WRITING A SIMPLE KERNEL MODULE](https://devarea.com/linux-kernel-development-and-writing-a-simple-kernel-module/)
+* [Building a Linux Shell in C. The best way to understand something is… | by Josef Goodyear | Medium](https://medium.com/@josefgoodyear/building-a-linux-shell-in-c-8be5e109458b)
 * [배열 원소 삽입 삭제 패턴만 익혀봅시다](https://codingdog.tistory.com/entry/배열-원소-삽입-삭제-패턴만-익혀봅시다)
 * [The C Beginner's Handbook: Learn C Programming Language basics in just a few hours](https://www.freecodecamp.org/news/the-c-beginners-handbook/)
 * [embedding binary objects in c](https://flak.tedunangst.com/post/embedding-binary-objects-in-c)
