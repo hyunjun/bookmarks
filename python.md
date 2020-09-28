@@ -759,6 +759,7 @@ Python
 * `__init__.py`
   * [모듈 치환 (override) 에 대한 고찰](http://mcchae.egloos.com/11218595)
   * [모듈에서 `__init__.py` 외에 `__main__.py` 의 사용](http://mcchae.egloos.com/11240652)
+  * [What’s __init__ for me?. Designing for Python package import… | by Jacob Deppen | Towards Data Science](https://towardsdatascience.com/whats-init-for-me-d70a312da583)
   * [What is `__main__.py`?](https://stackoverflow.com/questions/4042905/what-is-main-py)
 * intern
   * [파이썬의 효과적인 메모리 재활용 방법 - Interning](https://nephtyws.github.io/python/interning)
