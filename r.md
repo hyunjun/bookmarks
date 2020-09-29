@@ -414,6 +414,7 @@ R
 * [tensorflow.rstudio.com](https://tensorflow.rstudio.com/)
 * [tensoRflow](https://github.com/issactoast/tensoRflow)
 * [How to Set Up TensorFlow 2 in R in 5 Minutes (BONUS Image Recognition Tutorial)](https://www.r-bloggers.com/how-to-set-up-tensorflow-2-in-r-in-5-minutes-bonus-image-recognition-tutorial/)
+* [RStudio AI Blog: Please allow me to introduce myself: Torch for R](https://blogs.rstudio.com/ai/posts/2020-09-29-introducing-torch-for-r/)
 
 # Installation
 * [Windows Subsystem for Linux (WSL)를 이용하여 Windows에서 Linux 버전 R과 RStudio 사용하기](https://ecosang.github.io/blog_kor/miscellaneous/wsl_kor/)
