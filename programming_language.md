@@ -306,6 +306,8 @@ Programming Language
   * [루아 5.2 이상에서 루아 스크립트를 실행 가능한 .bat 파일에 담는 방법](http://occamsrazr.net/tt/354)
   * [루아와 MeCab-ko를 이용한 한국어 형태소 분석](http://occamsrazr.net/tt/353)
   * [Mecab-ko 설정 파일과 사전 디렉터리를 상대 경로로 지정하기](http://occamsrazr.net/tt/355)
+  * [Fennel: Lua Lisp Language](https://github.com/bakpakin/Fennel)
+    * [the Fennel programming language](https://fennel-lang.org/)
   * [lite - A lightweight text editor written in Lua](https://github.com/rxi/lite)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
