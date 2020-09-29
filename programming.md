@@ -2123,6 +2123,7 @@ Programming
   * [github.com/grpc/grpc-common](https://github.com/grpc/grpc-common)
   * [The C based gRPC (C++, Node.js, Python, Ruby, Objective-C, PHP, C#)](https://github.com/grpc/grpc)
   * [Lidi Zheng, Pau Freixes - gRPC Python, C Extensions, and AsyncIO - YouTube](https://www.youtube.com/watch?v=VtxdY9YtN-4)
+  * [python-betterproto: Clean, modern, Python 3.6+ code generator & library for Protobuf 3 and async gRPC](https://github.com/danielgtaylor/python-betterproto)
   * [gRPC C++ 라이브러리 빌드 스크립트](https://surpreem.com/grpc-c-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%B9%8C%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/)
   * [Introduction to gRPC: A general RPC framework that puts mobile and HTTP/2 first by Mete Atamel](https://www.youtube.com/watch?v=kUz2zjkKxFg)
   * [gRPC: The Story of Microservices at Square](https://www.youtube.com/watch?v=-2sWDr3Z0Wo)
