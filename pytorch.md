@@ -375,6 +375,7 @@ PyTorch
 * [HanBert-Transformers](https://github.com/monologg/HanBert-Transformers)
 * [Part 1: Components of the transformer model](https://nbviewer.jupyter.org/github/vinsis/math-and-ml-notes/blob/master/notebooks/Transformer%20-%20Illustration%20and%20code.ipynb) ipynb
 * [How to train a new language model from scratch using Transformers and Tokenizers](https://huggingface.co/blog/how-to-train)
+* [transformers-pytorch-gpu: 💡 Docker image for Huggingface 🤗 Transformers + GPU + Jupyter notebook + OhMyZsh](https://github.com/Beomi/transformers-pytorch-gpu)
 
 # Translation
 * [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
