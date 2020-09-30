@@ -1334,6 +1334,7 @@ Python
   * [postit-sanic - An REST API and Single Page App with Sanic; A Python Webserver/Microframework](https://github.com/tysweezy/postit-sanic)
   * [programcreek.com/python/index/9697/sanic](https://www.programcreek.com/python/index/9697/sanic)
   * [Pycon Korea 2018-Sanic을 활용하여 Microservice 구축하기-이재면](https://www.slideshare.net/jaemyunlee1/pycon-korea-2018sanic-microservice-110622868)
+  * [Sanic RESTful open framework 제작 일지 — 1 Pytest | by 달가을 | Sep, 2020 | Medium](https://medium.com/@ms7045436/sanic-restful-open-framework-%EC%A0%9C%EC%9E%91-%EC%9D%BC%EC%A7%80-1-pytest-1cb8958e1ba4)
 * [Starlette - a lightweight ASGI framework/toolkit, which is ideal for building high performance asyncio services](https://www.starlette.io/)
   * [starlette - The little ASGI framework that shines](https://github.com/encode/starlette)
 * [tokio - Asyncio event loop based on tokio-rs (WIP)](https://github.com/PyO3/tokio)
