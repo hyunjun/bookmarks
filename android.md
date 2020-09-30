@@ -160,6 +160,7 @@ Android
 * [SavedState 어떻게 저장되고 복원될까?](http://pluu.github.io/blog/android/2020/03/15/savedstate-flow/)
 * [안드로이드 카메라 스티커 예제](https://brunch.co.kr/@mystoryg/111)
 * [Context와 ApplicationContext 언제 사용해야 할까요?](https://developer88.tistory.com/224)
+* [Pluu Dev - AndroidX Activity ~ ContextAware](http://pluu.github.io/blog/android/2020/09/30/contextaware/)
 * [Android WebView 설정하고 로딩하는 방법 정리](https://developer88.tistory.com/267)
 * [RadioButton과 RadioGroup에 대한 정리](https://developer88.tistory.com/268)
 * [BuildTypes와 Flavor를 이용해 안드로이드 환경변수 설정하는 방법](https://developer88.tistory.com/234)
