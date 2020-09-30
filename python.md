@@ -2571,6 +2571,7 @@ Python
   * [Dask Version 1.0](https://blog.dask.org/2018/11/29/version-1.0)
   * [Scaling PyData with Dask - Martin Durant and Jim Crist](https://www.youtube.com/watch?v=6ixaCnR9ur0)
     * [Dask Tutorial at PyData 2018](https://github.com/mrocklin/pydata-nyc-2018-tutorial)
+  * [Coiled: Scaling Python Simply](https://coiled.io/)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
 * [DataMatrix - an intuitive Python library for working with column-based and continuous data](http://datamatrix.cogsci.nl/)
   * [Analyzing eye-movement and pupil-size data with Python DataMatrix](https://www.youtube.com/watch?v=PtUmhQ2vupw)
