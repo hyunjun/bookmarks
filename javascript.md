@@ -1332,7 +1332,7 @@ Javascript
 * Mongoose
   * [Mongoose(몽구스) 프로미스](https://www.zerocho.com/category/MongoDB/post/59b6228e92f5830019d41ac4)
   * [Develop Node.js and MongoDB Apps with Mongoose](https://www.designmycodes.com/node/develop-nodejs-and-mongodb-apps-with-mongoose.html)
-* moment.js
+* [Moment.js | Home](https://momentjs.com/)
   * [calendar-ex: this calendar app is made for improvement of react](https://github.com/hokidoki/calendar-ex)
     * [React를 이용한 Calendar Application 개요](https://hokeydokey.tistory.com/110)
     * [React로 Calendar app 만들기 - 1](https://hokeydokey.tistory.com/113)
@@ -2489,6 +2489,7 @@ Javascript
 * [How to Create a Navigation Bar and Sidebar Using React](https://morioh.com/p/7683db0e78bd)
 * [How to use React to Create a Weather App using RESTful APIs](https://morioh.com/p/914124c58a89)
 * [Stop Using React - DEV](https://dev.to/ender_minyard/why-you-should-stop-using-react-g7c)
+* [Introducing the New JSX Transform – React Blog](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
