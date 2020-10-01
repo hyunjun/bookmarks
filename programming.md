@@ -868,6 +868,7 @@ Programming
 * [Microservice Architecture at Medium | by Xiao Ma | Medium Engineering](https://medium.engineering/microservice-architecture-at-medium-9c33805eb74f)
 * [GOTO 2020 • When To Use Microservices (And When Not To!) • Sam Newman & Martin Fowler - YouTube](https://www.youtube.com/watch?v=GBTdnfD6s5Q)
 * [Seamlessly Swapping the API backend of the Netflix Android app | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/seamlessly-swapping-the-api-backend-of-the-netflix-android-app-3d4317155187)
+* [서버 거래소 주문 시스템 개선을 위한 MSA 활용](https://blog.naver.com/pjt3591oo/222103669253)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
