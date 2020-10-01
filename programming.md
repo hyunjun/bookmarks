@@ -655,6 +655,7 @@ Programming
 * [SF Scala: Exabytes Delivered Each Day -- Some Lessons Building Cloud Software at Databricks - YouTube](https://www.youtube.com/watch?v=yr7gfbvQERo)
 * [마틴 파울러 소프트웨어 아키텍쳐의 중요성 (한글 자막) - YouTube](https://www.youtube.com/watch?v=4E1BHTvhB7Y)
 * [Evolution of Financial Exchange Architectures](https://www.infoq.com/presentations/financial-exchange-architecture)
+* [뱅크샐러드는 어떻게 레거시 서비스를 박살 내는가 | 뱅크샐러드](https://blog.banksalad.com/tech/how-banksalald-decomposes-legacy-services/)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -1895,6 +1896,7 @@ Programming
   * [기술 뉴스 #156 : 20-08-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1493)
   * [기술 뉴스 #157 : 20-09-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1494)
   * [기술 뉴스 #158 : 20-09-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1496)
+  * [기술 뉴스 #159 : 20-10-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1501)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
