@@ -476,6 +476,7 @@ Python
   * [파이썬으로 만드는 나만의 커맨드라인 프로그램 #1 - argparse](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%A4%EB%A7%A8%EB%93%9C%EB%9D%BC%EC%9D%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-1/) setup.py로 설치까지
   * [파이썬으로 만드는 나만의 커맨드라인 프로그램 #2 - click](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%A4%EB%A7%A8%EB%93%9C%EB%9D%BC%EC%9D%B8-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-2/) setup.py로 설치까지
   * [Learn Enough Python to be Useful: argparse](https://towardsdatascience.com/learn-enough-python-to-be-useful-argparse-e482e1764e05)
+  * [cliparse: CLI Framework with Argsparse](https://github.com/RavenKyu/cliparse)
 * argument
   * [What does ** (double star) and * (star) do for parameters?](http://stackoverflow.com/questions/36901/what-does-double-star-and-star-do-for-parameters)
     * [practice - json to kwargs](https://gist.github.com/hyunjun/449fe6dfaa33eec6b85e519282141cce#file-json2kwargs-md)
