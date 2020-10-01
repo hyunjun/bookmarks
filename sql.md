@@ -605,6 +605,7 @@ SQL
 * [PostgreSQL의 슬로우 쿼리에 대처하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/31/improve-slow-query.html)
 * [Why PostgreSQL WAL Archival is Slow - Percona Database Performance Blog](https://www.percona.com/blog/2020/09/09/why-postgresql-wal-archival-is-slow/)
 * [Full-Text Search Battle: PostgreSQL vs Elasticsearch | sudo README](https://rocky.dev/full-text-search)
+* [Lessons Learned from Running Postgres 13: Better Performance, Monitoring & More](https://pganalyze.com/blog/postgres13-better-performance-monitoring-usability)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
