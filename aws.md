@@ -411,6 +411,7 @@ AWS
 * [The AWS Serverless LAMP Stack: the Future of PHP or Vendor Lock-in?](https://www.infoq.com/news/2020/07/aws-serverless-lamp/)
 * [(리눅스 업스킬 도전 #1) 서버에 접속해보자!](https://jhrogue.blogspot.com/2020/09/1_14.html)
 * [AWS Transfer 패밀리로 SFTP 구성하기 #1 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1500)
+* [AWS Transfer 패밀리로 SFTP 구성하기 #2 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1502)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
