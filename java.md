@@ -1218,6 +1218,7 @@ Java
 * [Spring Boot 2.3.0 Focuses on the Cloud](https://www.infoq.com/news/2020/06/spring-boot-230-cloud/)
 * [Spring Boot에서 AWS 파라미터 스토어로 private 설정값 사용하기](https://jojoldu.tistory.com/509)
 * [동일한 Bean(Class)에서 @Transactional 동작 방식 | Popit](https://www.popit.kr/%EB%8F%99%EC%9D%BC%ED%95%9C-beanclass%EC%97%90%EC%84%9C-transactional-%EB%8F%99%EC%9E%91-%EB%B0%A9%EC%8B%9D/)
+* [Spring Boot에서 yyyy-MM 포맷으로 날짜 받고싶을때](https://jojoldu.tistory.com/527)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
