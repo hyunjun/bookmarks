@@ -851,11 +851,13 @@ Docker
 * k3s [k3s로 간단하게 Kubernetes 환경 구축하기](https://si.mpli.st/dev/2020-01-01-easy-k8s-with-k3s/)
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
   * [Announcing KEDA: bringing event-driven containers and functions to Kubernetes](https://cloudblogs.microsoft.com/opensource/2019/05/06/announcing-keda-kubernetes-event-driven-autoscaling-containers/)
-* [Knative on EKS](https://ddii.dev/kubernetes/knative-on-aws/)
+* [Knative](https://knative.dev/)
+  * [Knative on EKS](https://ddii.dev/kubernetes/knative-on-aws/)
   * 서버리스 오픈소스 - knative
     * [#1 소개 & Serving](https://bcho.tistory.com/1322)
     * [#2 Eventing](https://bcho.tistory.com/1323)
     * [KNative Auto scaling](https://bcho.tistory.com/1359)
+  * [Getting Started with Knative in Scala | @lightbend](https://www.lightbend.com/blog/getting-started-with-knative-in-scala)
 * [Kogito ergo automate - CLOUD-NATIVE BUSINESS AUTOMATION FOR BUILDING INTELLIGENT APPLICATIONS, BACKED BY BATTLE-TESTED CAPABILITIES](https://kogito.kie.org)
 * Kubeflow
   * [Introducing Kubeflow - A Composable, Portable, Scalable ML Stack Built for Kubernetes](http://blog.kubernetes.io/2017/12/introducing-kubeflow-composable.html?m=1)
