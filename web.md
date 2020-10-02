@@ -317,7 +317,7 @@ Web
 * [imDB(인터넷 영화 데이터 베이스) Tutorial - 1](https://developer-ankiwoong.tistory.com/843)
 * [imDB(인터넷 영화 데이터 베이스) Tutorial - 2](https://developer-ankiwoong.tistory.com/844)
 * [imDB(인터넷 영화 데이터 베이스) Tutorial - 3](https://developer-ankiwoong.tistory.com/845)
-* [파이썬 코딩 무료 강의 (활용편3) - 웹 크롤링? 웹 스크래핑! 제가 가진 모든 비법을 알려드리겠습니다. 나도코딩 - YouTube](https://www.youtube.com/watch?v=yQ20jZwDjTE&feature=youtu.be)
+* [파이썬 코딩 무료 강의 (활용편3) - 웹 크롤링? 웹 스크래핑! 제가 가진 모든 비법을 알려드리겠습니다. 나도코딩 - YouTube](https://www.youtube.com/watch?v=yQ20jZwDjTE)
 * [네이버 금융 크롤러 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222063179010)
 * [파이썬 웹 크롤링(1) - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/programming/py-crawling01/)
 * [파이썬 웹 크롤링(2): 데이터 파싱 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/programming/py-crawling02/)

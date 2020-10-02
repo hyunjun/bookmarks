@@ -252,7 +252,7 @@ Haskell
 * [Simply typed lambda calculus](https://splintah.gitlab.io/posts/2020-05-24-Simply-typed-lambda.html)
 * [Subgame perfection made difficult](https://julesh.com/2020/05/26/subgame-perfection-made-difficult/)
 * [Update Everything](https://funwithfunctions.com/posts/2020-05-24-update-everything.html)
-* [Making Music with Haskell From Scratch](https://www.youtube.com/watch?feature=youtu.be&v=FYTZkE5BZ-0)
+* [Making Music with Haskell From Scratch](https://www.youtube.com/watch?v=FYTZkE5BZ-0)
 * [Adventures in Refactoring](https://samtay.github.io/posts/refactoring-adventures)
 * [Building a reactive calculator in Haskell (1/5)](https://keera.co.uk/2020/05/28/building-a-reactive-calculator-in-haskell-1-5/)
 * [Building a reactive calculator in Haskell (2/5)](https://keera.co.uk/2020/05/30/building-a-reactive-calculator-in-haskell-2-5/)
