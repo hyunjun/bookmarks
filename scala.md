@@ -7,9 +7,12 @@ Scala
 * [Thisweekinscala](https://medium.com/tag/thisweekinscala/archive)
 * [alvinalexander.com/scala](http://alvinalexander.com/scala)
 * [Visual Scala Reference](https://superruzafa.github.io/visual-scala-reference/)
-* [the scalawags - monthly podcast about scala language](http://thescalawags.libsyn.com/)
 * [SoftwareMilling around OSS – Scala Love](https://scala.love/softwaremilling-around-oss/)
-* [Happy Valentine’s Day with Valentin Kasas](https://scala.love/happy-valentin/) podcast
+* podcast
+  * [the scalawags - monthly podcast about scala language](http://thescalawags.libsyn.com/)
+  * [Happy Valentine’s Day with Valentin Kasas](https://scala.love/happy-valentin/)
+  * [Rob Norris: Telescopes and Types - The Scala Logs | Podcast on Spotify](https://open.spotify.com/episode/5yX2y0rspokvELFvEvfeZZ)
+  * [Scala Love – Podcast about Scala Programming Language and its community](https://scala.love/)
 * [scala center -  For open source. For education. A new not-for-profit center established at EPFL](https://scala.epfl.ch/)
 * [라 스칼라 코딩단](https://github.com/codeport/scala)
   * [라스코단 번역 프로젝트](https://github.com/codeport/scala/wiki/%EB%B2%88%EC%97%AD%EC%9E%90%EB%A3%8C)
@@ -537,7 +540,7 @@ Scala
 * [The Point of Pattern Matching in Scala](https://www.artima.com/scalazine/articles/pattern_matching.html)
 * [Pattern Matching Tricks in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=qe85507fSc8)
 * [Pattern Match Anything in Scala. What is Pattern Matching? | by Mansi Babbar | The Startup | Jun, 2020 | Medium](https://medium.com/swlh/pattern-match-anything-in-scala-3a22f5d3535)
-* [The Difference Between Null, Nothing, Nil, None and Unit in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=0_-jRrdg9Dw&feature=youtu.be)
+* [The Difference Between Null, Nothing, Nil, None and Unit in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=0_-jRrdg9Dw)
 * [Andy Scott—Code by Shape - YouTube](https://www.youtube.com/watch?v=ifPTQ9CULdk) Either, Option, List, fold(Right)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
@@ -756,6 +759,7 @@ Scala
     * [An Introduction to ZIO Kafka](https://ziverge.com/blog/introduction-to-zio-kafka/)
     * [Apache Kafka and ZIO. This article will explain why you want… | by Aleksandra Holubitska | Sep, 2020 | Medium](https://medium.com/@oleksandra_a/apache-kafka-and-zio-af418b4c54f0)
     * [An Introduction to Functional Design – John A De Goes](https://degoes.net/articles/functional-design)
+    * [Using Aspects To Transform Your Code With ZIO Environment - YouTube](https://www.youtube.com/watch?v=gcqWdNwNEPg)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1229,7 +1233,7 @@ Scala
   * [#circe - Part 1 - Introduction to working with #JSON in #Scala](https://www.youtube.com/watch?v=712WE9Ou7BE)
   * [#circe - Part 2 - #JSON Codecs](https://www.youtube.com/watch?v=OJhAptqtwYo)
   * [#circe - Part 3.1 - Integrations & Extras (refined, lightbend config, fs2, http4s and Scala.js)](https://www.youtube.com/watch?v=0yMoYU-rodw)
-  * [#circe - Part 3.2 - Integrations & Extras (refined, lightbend config, fs2, http4s and Scala.js)](https://www.youtube.com/watch?v=L_u7uBHpmAU&feature=youtu.be)
+  * [#circe - Part 3.2 - Integrations & Extras (refined, lightbend config, fs2, http4s and Scala.js)](https://www.youtube.com/watch?v=L_u7uBHpmAU)
   * [#circe - Part 4 - Golden Testing](https://www.youtube.com/watch?v=vo7RgPm6Qh4)
 * [spray-json - A lightweight, clean and simple JSON implementation in Scala](https://github.com/spray/spray-json)
   * [Hacking with scala spray-json](https://medium.com/rahasak/json-handling-in-scala-spray-json-afbab0e9eaba)
@@ -1366,7 +1370,8 @@ Scala
 * [Tagless Final - Part 8.2 - main (The Big Rewrite - Part 4.2) - YouTube](https://www.youtube.com/watch?v=O_REJhViiI4)
 * [Tagless Final - Part 9 - persistence-postgres-skunk (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=J5I_HEUKsF0)
 * [Tagless Final - Part 10 - main-postgres-skunk (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=kafn3qKd9Pw)
-* [Tagless Final - Part 11 - main-http-http4s (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=N-7vQl7HH8k&feature=youtu.be)
+* [Tagless Final - Part 11 - main-http-http4s (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=N-7vQl7HH8k)
+* [Tagless Final - Part 12 - delivery-http-http4s (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=zymyPaYHa-I)
 * [Scala 3 - TF related improvements (mostly #implicits) - YouTube](https://www.youtube.com/watch?v=0MPfFBctWUc)
 
 # Monoids
@@ -1466,6 +1471,8 @@ Scala
 * [Announcing the Moving from Scala 2 to Scala 3 course – Lunatech](https://www.lunatech.com/2020/06/announcing-the-moving-from-scala-2-to-scala-3-course/)
   * [lunatech-scala-2-to-scala3-course/exercises](https://github.com/lunatech-labs/lunatech-scala-2-to-scala3-course/tree/exercises-master/exercises)
 * [#Opaque types in #Scala 2 and 3 - YouTube](https://www.youtube.com/watch?v=WyvawRRuU2c)
+* [Annoying things in Scala 2 that’ll be (mostly) gone in Scala 3 | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/annoying-things-in-scala-2-thatll-be-mostly-gone-in-scala-3-e1479a6d855c)
+* [Scala 3: Enums | Rock the JVM - YouTube](https://www.youtube.com/watch?v=QnrXubpILu4)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
   * [Dotty Documentation](https://dotty.epfl.ch/docs/index.html)
   * [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
