@@ -45,6 +45,8 @@ App
 * [How To Automate Your Daily Work Routine on Mac OS | Windows | by Kashish Bhutani | Jul, 2020 | Medium](https://medium.com/@kashishbhutaniofficial/how-to-automate-your-daily-work-routine-on-mac-os-windows-63c170048201)
 * [7 Developer Tools to Make Work That Little bit Easier | by Marat Levit | Servian | Medium](https://medium.com/weareservian/7-developer-tools-to-make-work-that-little-bit-easier-4f1832c81e91)
   * KeePass, DB Fiddle, Instant SQL Formatter, REPL, Regex 101, DiffChecker, Pastebin
+* [5 Underrated Apps for Coders To Use Today | codeburst](https://codeburst.io/5-underrated-apps-for-programmers-you-should-use-right-now-738388693169)
+* [Amazing Developer Tools That You Might Not Be Using | by Dhananjay Trivedi | Better Programming | Medium](https://medium.com/better-programming/amazing-developer-tools-that-you-might-not-be-using-1ec7f57d17d5)
 * [모두의 프린터](https://modu-print.tistory.com/)
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
@@ -182,6 +184,7 @@ App
 * [무료로 내 블로그에 SSL HTTPS 적용하기](https://suitee.me/2019/02/13/how-to-setup-free-ssl/)
 * [**기술 블로그(Engineering Blog)란?**](https://www.44bits.io/ko/keyword/engineering-blog) 각종 블로깅 도구 소개 + 기술 블로그 전반적인 이야기
 * [RSS로 블로그를 한 번에 백업하자](https://blog.chosunghyun.com/kr-backup-with-rss/)
+* [3 open source alternatives to Confluence | Opensource.com](https://opensource.com/article/20/9/open-source-alternatives-confluence)
 * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
   * [Making a Website Using Blogdown, Hugo, and GitHub pages](https://proquestionasker.github.io/blog/Making_Site/)
   * [A New Website with Blogdown package](https://ecosang.github.io/blog/miscellaneous/new-website-with-blogdown/)
@@ -336,6 +339,7 @@ App
 * [크롬OS에서 같은 앱을 2개 이상 여는 방법](https://libsora.so/posts/how-to-open-multiple-webapp-window-in-chrome-os/)
 * [데스크톱 프로그레시브 웹 앱](https://hyeonseok.com/soojung/dev/2018/11/14/844.html)
 * [Features of the Chrome API you should know](https://medium.freecodecamp.org/features-of-the-chrome-api-you-should-know-bf5c8b6c7733)
+* [크롬 확장프로그램 개발⛏️ 회고](https://zuminternet.github.io/Zum-Chrome-Extension/)
 * [10 Awesome Chrome Flags You Should Enable Right Now | by Sanjeet Chatterjee | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/10-awesome-chrome-flags-you-should-enable-right-now-2684e4518cb5)
 * nuTab [Quick Notes New Tab Chrome Extension - nuTab](https://nutab.co/)
 * Requestly [Udemy강좌 Full HD로 보기](https://www.javastudy.net/2019/04/22/udemy%EA%B0%95%EC%A2%8C-full-hd%EB%A1%9C-%EB%B3%B4%EA%B8%B0/)
@@ -480,6 +484,7 @@ App
     * [MS, 비주얼스튜디오 코드용 C++ 확장 기능 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20200916103754)
     * [Draw.io VS Code Integration](https://github.com/hediet/vscode-drawio/)
     * [VS Code extensions that make me fall in love with programming each day | by Madhav Bahl | codeburst](https://codeburst.io/vs-code-extensions-that-make-me-fall-love-in-programming-each-day-ccf05b24651e)
+    * [Bringing the browser developer tools to Visual Studio Code - Microsoft Edge Blog](https://blogs.windows.com/msedgedev/2020/10/01/microsoft-edge-tools-vscode/)
     * Debug
       * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
       * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
@@ -968,6 +973,7 @@ App
 * [Start Easy Diagram - a Web Editor for diagrams](https://www.starteasy.io/)
 * [Terrastruct - A diagramming tool for systems](https://terrastruct.com/)
 * [websequencediagrams.com](https://www.websequencediagrams.com/) 한글 깨짐
+* [Wireflow - user flow chart real-time collaborative tool](https://github.com/vanila-io/wireflow)
 
 # Multimedia
 * [트위터, 동영상 생중계 앱 ‘페리스코프’ 공개](http://www.bloter.net/archives/224100)
@@ -986,6 +992,7 @@ App
 * [Forensically, free online photo forensics tool](http://29a.ch/photo-forensics)
 * [Gfycat - 유튜브 영상·GIF 파일을 10분 1 크기로?](http://techholic.co.kr/archives/36747)
 * [ImagePlay is a rapid prototyping tool for building and testing image processing algorithms](http://imageplay.io/)
+* [Jitsi.org - develop and deploy full-featured video conferencing](https://jitsi.org/)
 * [MoseoriTube](https://github.com/moseoridev/MoseoriTube) youtube downloader
   * [moseoritube.herokuapp.com](https://moseoritube.herokuapp.com/)
 * [mplayerx.org](http://mplayerx.org) 설치할 때 yahoo 관련 설치가 먼저 나오는데 skip할 것
@@ -1029,6 +1036,7 @@ App
   * [notion-py로 노션 CMS 구축하기 - 데이터베이스 활용](https://younho9.dev/notion-cms-using-database)
 * [paperkit.net](http://paperkit.net/)
 * [paperwork.rocks](http://paperwork.rocks/)
+* [RemNote - 공부하고 글쓰는 사람을 위한 강력한 노트 도구 : SEOULRAIN](https://seoulrain.net/2020/09/12/remnote-review/)
 * [Roam](https://roamresearch.com) graph 형태로 자신의 note를 연결할 수 있는 듯
 * [Snip](https://mix.office.com/Snip) windows only
 * [stacknotes.io](http://www.stacknotes.io/home)
@@ -1211,6 +1219,7 @@ App
 * [Geany - The Flyweight IDE](https://www.geany.org/)
 * [gow - Unix command line utilities installer for Windows. http://wiki.github.com/bmatzelle/gow ](https://github.com/bmatzelle/gow)
 * [igloo - A small, but powerful terminal app for Windows](https://easyigloo.org/)
+* [kitty - the fast, featureful, GPU based terminal emulator — kitty 0.18.3 documentation](https://sw.kovidgoyal.net/kitty/)
 * [midipix - posix for windows](http://midipix.org/)
 * [Pajek: analysis and visualization of large networks](http://mrvar2.fdv.uni-lj.si/pajek/)
 * [PBOX - Windows Package Manager](http://pbox.me/)
