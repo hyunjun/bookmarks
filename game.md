@@ -47,11 +47,13 @@ Game
 # Library
 * [Eller's algorithm creates 'perfect' mazes, having only a single path between any two cells, one row at a time](http://www.neocomputer.org/projects/eller.html)
 * [Libplanet 게임잼](https://snack.planetarium.dev/kor/2020/03/libplanet-gamejam/)
+* [Game Source Code Collection : Free Software : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/gamesourcecode)
 * [돌핀 에뮬레이터](https://ko.dolphin-emu.org/)
 * [EnTT - a header-only, tiny and easy to use library for game programming and much more written in modern C++, mainly known for its innovative entity-component-system (ECS) model](https://github.com/skypjack/entt)
 * [Game - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine](https://github.com/leereilly/games)
 * [greasyphone - Play NES using smartphones as joypads](https://github.com/olahol/greasyphone#greasyphone)
 * [Kaboom: an unusual Minesweeper](https://pwmarcz.pl/blog/kaboom/)
+* [LEd – 2D map editor](https://deepnight.net/tools/led-2d-level-editor/)
 * [Pixelbox.js - A downloadable Game Engine for Windows and macOS](https://pixwlk.itch.io/pixelbox)
 * [PlayCanvas WebGL Game Engine](https://playcanvas.com/)
 * Unity
