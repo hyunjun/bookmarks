@@ -183,6 +183,7 @@
 # [Microbit](https://www.microbit.co.uk/)
 * [The Story of MicroPython on the BBC micro:bit](http://ntoll.org/article/story-micropython-on-microbit)
 * [마이크로비츠 체험기 - 이렇게 어이없는 피지컬 교구가 있을 수가 있는지](http://www.cooltown.co.kr/samstory/getStreamView/267/1946/)
+* [BBC Micro Elite source code - BBC Micro Elite](https://www.bbcelite.com/)
 
 # Orange Pi
 * [Raspberry, Shmazberry, There’s A $15 Single Board Computer Called The Orange Pi](http://techcrunch.com/2015/09/07/raspberry-shmazberry-theres-a-15-single-board-computer-called-the-orange-pi/)
@@ -266,6 +267,7 @@
 * [AnyLeaf sensors](https://www.anyleaf.org/ph-module)
 * [파이썬과 라즈베리파이로 레고 피아노 연주하기 Playing Lego Grand Piano (21323) with Python and Raspberry Pi (ENG sub) - YouTube](https://www.youtube.com/watch?v=ES2W4QlB7xM)
   * [play21323: Now you can play Lego 21323](https://github.com/lqez/play21323/)
+* [업데이트 : 누구나 할 수 있는 실용적인 라즈베리 파이 프로젝트 10선 - ITWorld Korea](http://www.itworld.co.kr/news/165435)
 
 # Reverse Engineering
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
