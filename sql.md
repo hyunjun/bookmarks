@@ -40,6 +40,7 @@ SQL
 * ["Transactions: myths, surprises and opportunities" by Martin Kleppmann](https://www.youtube.com/watch?v=5ZjhNTM8XU8)
 * [DBMS는 어떻게 트랜잭션을 관리할까?](https://d2.naver.com/helloworld/407507)
 * [GalaXQL - Interactive SQL tutorial](http://sol.gfxile.net/galaxql.html)
+* [Learn SQL - Free Interactive SQL Tutorial](https://www.learnsqlonline.org/)
 * [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
 * [EDB is a framework to make and manage backups of your database](https://github.com/RoxasShadow/EDB)
 * [IntelliJ 0xDBE](http://tiveloper.tistory.com/category/IDE%20%26%20Apps/IntelliJ%200xDBE)
@@ -73,6 +74,7 @@ SQL
 * [UUIDs are Popular, but Bad for Performance — Let’s Discuss](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
 * [Generating UUIDs at scale on the Web | by Matthieu Wipliez | Teads Engineering | Jul, 2020 | Medium](https://medium.com/teads-engineering/generating-uuids-at-scale-on-the-web-2877f529d2a2)
 * [uuid-readable: Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳](https://github.com/Debdut/uuid-readable)
+* [Understanding How UUIDs Are Generated - Digital Bunker](https://digitalbunker.dev/2020/09/30/understanding-how-uuids-are-generated/)
 * [Why Did We Shift Away From Database-Generated Ids?](https://medium.com/ingeniouslysimple/why-did-we-shift-away-from-database-generated-ids-7e0e54a49bb3)
 * [Don't Use Database Generated IDs | The Startup](https://medium.com/swlh/dont-use-database-generated-ids-d703d35e9cc4)
 * [Instagram 에서 ID 샤딩하기](https://charsyam.wordpress.com/2011/12/04/instagram-%EC%97%90%EC%84%9C-id-%EC%83%A4%EB%94%A9%ED%95%98%EA%B8%B0)
@@ -103,6 +105,7 @@ SQL
 * [How to Implement Cursor Pagination Like a Pro | by Megan Chang | The Startup | Medium](https://medium.com/swlh/how-to-implement-cursor-pagination-like-a-pro-513140b65f32)
 * [A Snowflake deep dive](https://hhhypergrowth.com/a-snowflake-deep-dive/) 기술이야기는 아니고 snowflake 소개
 * [Database of Databases - Home](https://dbdb.io/)
+* [**dbcrossbar** - an open source tool that copies large, tabular datasets between many different databases and storage formats. Data can be copied from any source to any destination](https://www.dbcrossbar.org/)
 * [DBeaver](https://dbeaver.io/)
   * [Mac, Linux 에서 쓸만한 DB Tool - DBeaver](http://lifeones.tistory.com/129)
   * [데이터베이스 연결 도구 - DBeaver 설치](https://jybaek.tistory.com/858)
@@ -242,6 +245,7 @@ SQL
       * [13.2.7 LOAD DATA INFILE Syntax](http://dev.mysql.com/doc/refman/5.1/en/load-data.html)
       * [MySQL 파일을 이용하여 테이블에 값 삽입하기](http://ra2kstar.tistory.com/2)
     * [MySQL database 정보 import하기](http://tac.softonnet.com/troubleshoot/viewbody.php?code=troubleshoot&page=1&number=26&keyfield=category&key=db) mysqlimport
+    * [MySQL: Import CSV, not using LOAD DATA | Die wunderbare Welt von Isotopp](https://blog.koehntopp.info/2020/09/28/mysql-import-csv-not-using-load-data.html)
   * [LOAD_FILE() function](https://www.w3resource.com/mysql/string-functions/mysql-load_file-function.php)
   * RANK
     * [sql rank over 함수 알면 손쉽게 랭킹을 매길 수 있다](https://codingdog.tistory.com/entry/sql-rank-over-%ED%95%A8%EC%88%98-%EC%95%8C%EB%A9%B4-%EC%86%90%EC%89%BD%EA%B2%8C-%EB%9E%AD%ED%82%B9%EC%9D%84-%EB%A7%A4%EA%B8%B8-%EC%88%98-%EC%9E%88%EB%8B%A4)
@@ -455,6 +459,7 @@ SQL
 * [Please stop using this UPSERT anti-pattern - SQLPerformance.com](https://sqlperformance.com/2020/09/locking/upsert-anti-pattern)
 * [The MySQL cheatsheet we all need | Better Programming](https://medium.com/better-programming/the-mysql-cheatsheet-we-all-need-d1af0377bdc6)
 * [Why Uber Engineering Switched from Postgres to MySQL | Uber Engineering Blog](https://eng.uber.com/postgres-to-mysql-migration/)
+* [MySQL 쓰면서 하지 말아야 할 것 17가지 – Lael's World](https://blog.lael.be/post/370)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
@@ -598,6 +603,7 @@ SQL
 * [How one word in PostgreSQL unlocked a 9x performance improvement](https://jlongster.com/how-one-word-postgresql-performance)
 * [How to Scale Postgres - Automation, Tuning & Sharding - Speaker Deck](https://speakerdeck.com/lfittl/how-to-scale-postgres-automation-tuning-and-sharding)
 * [Types of Indexes in PostgreSQL - Highgo Software Inc.](https://www.highgo.ca/2020/06/22/types-of-indexes-in-postgresql/)
+* [B-tree indexes - learn more about the heart of PostgreSQL - YouTube](https://www.youtube.com/watch?v=n5-xEEQFqPY)
 * [PostgreSQL EXPLAIN — pgMustard](https://www.pgmustard.com/docs/explain)
 * [Why We Switched From MongoDB to PostgresSQL](https://amasad.me/gpt_post)
 * [PSQL TIMESTAMP/AT TIME ZONE 바로 알기 · Billo Park](https://blog.billo.io/devposts/psql_at_time_zone/)
@@ -606,6 +612,7 @@ SQL
 * [Why PostgreSQL WAL Archival is Slow - Percona Database Performance Blog](https://www.percona.com/blog/2020/09/09/why-postgresql-wal-archival-is-slow/)
 * [Full-Text Search Battle: PostgreSQL vs Elasticsearch | sudo README](https://rocky.dev/full-text-search)
 * [Lessons Learned from Running Postgres 13: Better Performance, Monitoring & More](https://pganalyze.com/blog/postgres13-better-performance-monitoring-usability)
+* [Mastering PostgreSQL Administration](https://momjian.us/main/writings/pgsql/administration.pdf)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
@@ -618,6 +625,7 @@ SQL
 * [Message DB - Microservice Native Event Store and Message Store for Postgres](https://github.com/message-db/message-db)
   * [Announcing Message DB: Event Store and Message Store for PostgreSQL](https://blog.eventide-project.org/articles/announcing-message-db/)
 * [meteor-pg - Reactive PostgreSQL for Meteor](https://github.com/numtel/meteor-pg)
+* [Ora2Pg : Migrates Oracle to PostgreSQL](https://www.ora2pg.com/)
 * [postgrest - REST API for any Postgres database](https://github.com/begriffs/postgrest)
 * [pgagroal - a high-performance protocol-native connection pool for PostgreSQL](https://agroal.github.io/pgagroal/)
 * [pgcat - Enhanced PostgreSQL logical replication](https://github.com/kingluo/pgcat)
