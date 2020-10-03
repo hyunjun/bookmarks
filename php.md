@@ -47,6 +47,7 @@ PHP
 * [PHP 7 – Functions Improvements](https://www.infoq.com/articles/php7-function-improvements/)
 * [Deep Dive into PHP 8's JIT | thePHP Website](https://thephp.website/en/issue/php-8-jit/)
 * [30-seconds-of-php: Short PHP code snippets for all your development needs](https://github.com/30-seconds/30-seconds-of-php)
+* [PHP Annotated – September 2020](http://haah.kr/2020/09/26/php-annotated-september-2020/)
 
 # API
 * ['==' 연산자를 사용하면 안되는 이유 - 완두블로그](https://wani.kr/posts/2016/03/21/equal-operator-what-is-the-problem/)
