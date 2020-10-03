@@ -192,6 +192,7 @@ Web
 * [CGI와 웹서버](https://velog.io/@seanlion/cgi)
 * [매출 손실을 줄여주는 외부링크 관제 Bot, 'URL Checker' 개발기 | 뱅크샐러드](https://blog.banksalad.com/tech/url-status-checker/)
 * [The Ultimate List of YouTube Channels to Boost your Web Development and Programming Skills · Dev & Gear](https://devandgear.com/posts/the-ultimate-list-of-youtube-channels-to-boost-your-web-development-and-programming-skills/)
+* [The Ultimate Guide to Web Performance - DEV](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
 
 # Apache
 * installation
@@ -540,6 +541,7 @@ Web
 * [Nginx 하위 경로를 다른 서버로 보내기 - 완두블로그](https://wani.kr/posts/2016/07/01/nginx-proxy-settings/)
 * [**나는 nginx 설정이 정말 싫다구요**](https://juneyr.dev/nginx-basics)
 * [REACT 배포 이슈로 배워보는 nginx.. : 네이버블로그](https://blog.naver.com/pjt3591oo/222058472880)
+* [Server-side Showdown: Apache vs NGINX | Elegant Themes Blog](https://www.elegantthemes.com/blog/wordpress/server-side-showdown-apache-vs-nginx)
 * [http - How to reply with 200 from Nginx, without serving a file? - Server Fault](https://serverfault.com/questions/196929/how-to-reply-with-200-from-nginx-without-serving-a-file)
 * [Nginx Proxy Manager](https://nginxproxymanager.com/)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
