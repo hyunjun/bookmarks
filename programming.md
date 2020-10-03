@@ -850,6 +850,7 @@ Programming
 * [Micro Frontend 마이크로 프론트앤드 - 개념](https://mobicon.tistory.com/572)
 * [Lessons from DAZN: Scaling Your Project with Micro-frontends](https://www.infoq.com/presentations/dazn-microfrontend/)
 * [11 Micro Frontends Frameworks You Should Know | by Jonathan Saring | Sep, 2020 | ITNEXT](https://itnext.io/11-micro-frontends-frameworks-you-should-know-b66913b9cd20)
+* [Lessons from DAZN: Scaling Your Project with Micro-Frontends](https://www.infoq.com/presentations/dazn-microfrontend/)
 * [Microservice Architecture and Design Patterns for Microservices](https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a)
 * [State of Microfrontends](https://dev.to/florianrappl/state-of-microfrontends-1j3p)
 * [마이크로서비스 배포 혁명](https://jflip.tistory.com/23)
@@ -869,11 +870,15 @@ Programming
 * [GOTO 2020 • When To Use Microservices (And When Not To!) • Sam Newman & Martin Fowler - YouTube](https://www.youtube.com/watch?v=GBTdnfD6s5Q)
 * [Seamlessly Swapping the API backend of the Netflix Android app | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/seamlessly-swapping-the-api-backend-of-the-netflix-android-app-3d4317155187)
 * [서버 거래소 주문 시스템 개선을 위한 MSA 활용](https://blog.naver.com/pjt3591oo/222103669253)
+* [Enabling Distributed Tracing for Microservices With Jaeger in Kubernetes - Container Journal](https://containerjournal.com/topics/container-ecosystems/enabling-distributed-tracing-for-microservices-with-jaeger-in-kubernetes/)
+* [Modern Banking in 1500 Microservices](https://www.infoq.com/presentations/monzo-microservices/)
+* [Principles for Microservice Design: Think IDEALS, Rather than SOLID](https://www.infoq.com/articles/microservices-design-ideals/)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
 * [Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo)
 * [이벤트 주도 아키텍처는 어떤 이점을 주는가?](https://www.popit.kr/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%9D%B4%EC%A0%90%EC%9D%84-%EC%A3%BC%EB%8A%94%EA%B0%80/)
+* [From Monolith to Event-Driven: Finding Seams in Your Future Architecture](https://www.infoq.com/articles/event-driven-finding-seams/)
 
 ## Architecture Serverless
 * [Serverless-ish: A scaling story - Queue-based Autoscaling Microservices](https://codeburst.io/serverless-ish-a-scaling-story-5732945b93ab)
@@ -987,6 +992,7 @@ Programming
 * [레드햇 vs. VM웨어: 2020 상반기 하이브리드·멀티 클라우드 동향 | 슬로우뉴스](https://slownews.kr/77138)
 * [감자박스 :: 오라클 클라우드에서 평생 무료로 VPS 사용하기](https://www.gamjaa.com/blog/1404)
 * [SQLD 실습용 오라클 클라우드 DB 생성하기](https://stricky.tistory.com/344)
+* [Oracle Cloud 방화벽 설정 (http/https 특정 포트 열기)](https://kibua20.tistory.com/124)
 * [Dataiku 다타이쿠 클라우드 서버 설치 방법 가이드](https://stricky.tistory.com/351) 네이버 클라우드 플랫폼
 * [Libvirt - The Unsung Hero of Cloud Computing — Vyom](https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html)
 
@@ -1102,6 +1108,7 @@ Programming
 * [floobits.com](https://floobits.com/)
 * [Free Code Editor for Pair Programming with Compilers and Autocomplete](https://codepad.remoteinterview.io) run 가능
 * [goorm.io](https://www.goorm.io/)
+* [Klipse is a Javacript plugin for embedding interactive code snippets in tech blogs. A simple client-side code evaluator pluggable on any web page: clojure, ruby, javascript, python, scheme, es2017, jsx, brainfuck, c++, reagent, lua, ocaml, reasonml, prolog, common lisp](https://github.com/viebel/klipse)
 * [koding.com](https://www.koding.com/)
   * [클라우드 IDE 업체 코딩, 1천만 달러 투자 유치](http://www.bloter.net/archives/234992)
 * [Pair Programming a Facebook Messenger Bot - FunFunFunction #28](https://www.youtube.com/watch?v=zFO1cRr5-qY)
@@ -1315,6 +1322,7 @@ Programming
 * [자바랑 자바스크립트랑 싸우면 누가 이길까?](https://ppss.kr/archives/149252) 프로그래밍 언어와 버그의 연관성
 * [디버깅과 야근](https://yisooan.wordpress.com/2020/06/06/debug-and-overwork/)
 * [Debugging Incidents in Google's Distributed Systems - ACM Queue](https://queue.acm.org/detail.cfm?id=3404974)
+* [Here’s How I Solved a Weird Bug Using Tried and True Debugging Strategies | CSS-Tricks](https://css-tricks.com/heres-how-i-solved-a-weird-bug-using-tried-and-true-debugging-strategies/)
 
 # DevOps
 * [60 best open source tools to do DevOps](https://elasticbox.com/blog/devops-open-source-tools/)
@@ -1390,6 +1398,7 @@ Programming
   * [Hasklig - a code font with monospaced ligatures](https://github.com/i-tu/Hasklig)
   * [monoid - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt](https://github.com/larsenwork/monoid)
   * [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/)
+* [3270font: A 3270 font in a modern format](https://github.com/rbanffy/3270font)
 * [cascadia-code](https://github.com/microsoft/cascadia-code)
 * [codeface](https://github.com/chrissimpkins/codeface)
 * [D2 Coding 글꼴](https://github.com/naver/d2codingfont/releases)
@@ -1812,6 +1821,7 @@ Programming
   * [9월 2주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/09/b-9-2.html)
   * [9월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/09/b-9-3.html)
   * [9월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/09/b-9-4.html)
+  * [9월 5주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/10/b-9-5.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -2002,7 +2012,10 @@ Programming
 * [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6.html)
 * [STM32를 활용한 FreeRTOS 입문](https://www.g.camp/tag/freertos_2020)
 * [kkamagui의 작업실 :: 경량 가상화 기술을 활용한 영역 분리와 인터립트 처리](https://kkamagui.tistory.com/927)
+* [가상 머신, 거의 모든 IT 혁신의 출발점 - ITWorld Korea](http://www.itworld.co.kr/news/166350)
 * [Operating systems development for Dummies | by Leo Whitehead | Medium](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
+* [From Zero to main(): How to Write a Bootloader from Scratch | Interrupt](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
+* [MIT CSAIL Parallel and Distributed Operating Systems Group](https://pdos.csail.mit.edu/projects/biscuit.html)
 
 # Parser
 * [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/)
@@ -2283,6 +2296,7 @@ Programming
 * [유용한 테스트 케이스를 위한 개발자의 자세](https://blog.shiren.dev/2020-06-15-%EC%9C%A0%EC%9A%A9%ED%95%9C%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%A5%BC%EC%9C%84%ED%95%9C%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%EC%9E%90%EC%84%B8/)
 * [신규 서비스 배포 전에 실험과 개선을 반복한 이야기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/vsms-performance-experiment/)
 * [**How They Test**](https://abhivaikar.github.io/howtheytest/)
+* [유용한 테스트 케이스를 위한 개발자의 자세 : TOAST Meetup](https://meetup.toast.com/posts/246)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
