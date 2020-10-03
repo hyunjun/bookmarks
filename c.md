@@ -168,6 +168,7 @@ C
 * [Why the C Language Will Never Stop You from Making Mistakes | The Pasture](https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you)
 * [Exploring mullender.c - A deep dive into the first IOCCC winner :: LainSystems](https://lainsystems.com/posts/exploring-mullender-dot-c/)
 * [The problem with C | cor3ntin](https://cor3ntin.github.io/posts/c/)
+* [C’s Biggest Mistake - Digital Mars](https://digitalmars.com/articles/C-biggest-mistake.html)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -241,6 +242,7 @@ C
   * [CMake 튜토리얼](https://tuwlab.com/ece/27234)
   * [Effective Modern CMake](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
   * [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/)
+  * [ScreenPlay - Free Open Source Wallpaper, Widgets & Wallpaper Engine](https://screen-play.app/blog/qmake_to_cmake/)
 * [Collections-C - A library of generic data structures including a list, array, hashtable, deque etc](https://github.com/srdja/Collections-C)
 * [Conan - C/C++ package manager](https://www.conan.io/)
 * [corkscrew - A tool for tunneling SSH through HTTP proxies](https://github.com/bryanpkc/corkscrew)
@@ -337,6 +339,7 @@ C
 * [libgairq - A GObject based RESTful API library written in C for gathering Air Quality information](https://github.com/yisooan/libgairq)
 * [libmill - Go-style concurrency in C](http://libmill.org/tutorial.html)
 * [libsound - cross-platform audio input and output for real-time & consumer software](http://libsound.io/)
+* [liburkel: Authenticated key-value store (i.e. an urkel tree)](https://github.com/chjj/liburkel)
 * [libvips - A fast image processing library with low memory needs. https://libvips.github.io/libvips ](https://github.com/libvips/libvips)
 * [Ligra: A Lightweight Graph Processing Framework for Shared Memory http://www.cs.cmu.edu/~jshun/ligra.html](https://github.com/jshun/ligra)
 * [lists-in-c - Some subclasses of type list!](https://github.com/ryukinix/lists-in-c)
