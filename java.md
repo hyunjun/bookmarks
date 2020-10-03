@@ -498,6 +498,7 @@ Java
 * [How JAVA 9 Is A better approach to JAVA 8](http://www.oodlestechnologies.com/blogs/How-JAVA-9-Is-A-better-approach-to-JAVA-8)
 * [These are the best free courses to help you learn Java 8 and Java 9](https://medium.freecodecamp.org/these-are-the-best-free-courses-to-help-you-learn-java-8-and-java-9-a7615c8644ab)
 * [How to Migrate to Java 9? It’s Easy if You Do It Smart](https://www.romexsoft.com/blog/migrate-to-java-9/)
+* [Java 9 - Javadoc Improvement - Java2Blog](https://java2blog.com/java-9-javadoc-improvement/)
 
 # Java10
 * [인포큐 - 자바 10 지역 변수 타입 추론](https://www.youtube.com/watch?v=iL-hr64hts4)
@@ -516,6 +517,7 @@ Java
   [root@<server> jvm]# alternatives --config java
   ```
 * [OpenJDK 11, tools of the trade](https://blog.frankel.ch/openjdk-11-tools-trade/) jps, jinfo, jmap, jstack, jconsole
+* [A Year with Java 11 in Production!](https://www.infoq.com/presentations/java-11-production-story/)
 
 # Java12
 * [Teeing Collector in Java 12](http://blog.codefx.org/java/teeing-collector/)
@@ -537,6 +539,10 @@ Java
 * [자바 8~15까지 변경 내역과 JVM 실제 통계 외 재미있는 개발 이야기](https://www.youtube.com/watch?v=poyLhO8W8MM)
 * [Java Feature Spotlight: Text Blocks](https://www.infoq.com/articles/java-text-blocks/)
 * [Java 15: the Story So Far](https://www.infoq.com/news/2020/04/java-15-story-so-far/)
+* [Java 15 Released](https://www.infoq.com/news/2020/09/java15-released/)
+
+# Java16
+* [C++ 14 기능 지원부터 벡터 API까지··· JDK 16, 기능 구체화 - CIO Korea](http://www.ciokorea.com/news/165350)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
@@ -565,6 +571,7 @@ Java
 * [Amazon Corretto - No-cost, multiplatform, production-ready distribution of OpenJDK](https://aws.amazon.com/corretto/)
   * [Amazon Corretto, 장기 지원 멀티 플랫폼 OpenJDK 무료 배포판 사용하기](https://aws.amazon.com/ko/blogs/korea/amazon-corretto-multi-platfom-openjdk-distribution)
   * [R을 위해서 JAVA를 설치해보자](https://mrchypark.github.io/post/correttor-r을-위해서-java를-설치해보자/)
+  * [Heapothesys - an Open-Source GC Latency Benchmark by Amazon Corretto](https://www.infoq.com/news/2020/09/introducing-heapothesys/)
 * [AZUL ZULU JDK 문제점(심각한 버그)](https://gampol.tistory.com/entry/Azul-Zulu-JDK-문제점심각한-버그)
 * [jdk.java.net](https://jdk.java.net) OpenJDK 설치 binary
 * [Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
