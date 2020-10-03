@@ -88,6 +88,7 @@ Shell
     * `${foo,}` lowercase only the first letter
     * `${foo,,}` lowercase all the letters
   * `[ -z "$var" ] && ... || ... ` [Test for non-zero length string in Bash](https://stackoverflow.com/a/3870055)
+  * [Escaping strings in Bash using !:q | Simon Willison’s TILs](https://til.simonwillison.net/til/til/bash_escaping-a-string.md)
 * miscellaneous
   * `CUR_DIR=$(readlink -f $(dirname $(readlink -f ${BASH_SOURCE[0]}))) current directory`
 * while
