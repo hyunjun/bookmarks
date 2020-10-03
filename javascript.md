@@ -9,6 +9,7 @@ Javascript
 * [기발자의 한 놈만 패는 Javascript](https://www.youtube.com/user/INKWEON7269)
 * [그림으로 배우는 자바스크립트](https://brunch.co.kr/magazine/painting-code)
 * [Best courses to learn Javascript](https://codeburst.io/best-courses-to-learn-javascript-in-2017-fc3a254638cc)
+* [Short, instructional screencast video tutorials for web developers on @eggheadio](https://egghead.io/)
 * [자바스크립트 핵심 익히기 부제:자바스크립트 개발 잘 하기](https://docs.google.com/document/d/1ZEhf0DXRxfRjdtgXYu9L4kkOjKJhuVqrb5w9EYDaGzU/)
 * [jQuery 보다 먼저 알았으면 좋았을 것들](http://blog.jeonghwan.net/2018/01/25/before-jquery.html)
 * [자바스크립트의 동작원리: 엔진, 런타임, 호출 스택](https://joshua1988.github.io/web-development/translation/javascript/how-js-works-inside-engine/)
@@ -1080,6 +1081,7 @@ Javascript
 * [IE의 ajax 캐시 이슈를 처리하는 방법](http://jeonghwan-kim.github.io//dev/2019/08/12/ie-cache.html)
 * [jQuery는 이제 너무 무겁다. - 완두블로그](https://wani.kr/posts/2014/02/02/jquery-is-too-heavy/)
 * [JS 꼴랑이거(1) - Submit 이벤트 완전히 막기! - 완두블로그](https://wani.kr/posts/2014/12/25/js-something-1-block-submit-event-completely/)
+* [Essential Cheat Sheet: Convert jQuery to JavaScript](https://webdesign.tutsplus.com/articles/essential-cheat-sheet-convert-jquery-to-javascript--cms-35633)
 * [jqTree - a jQuery widget for displaying a tree structure in html It supports json data, loading via ajax and drag-and-drop](http://mbraak.github.io/jqTree/)
 
 # Library
@@ -1430,6 +1432,7 @@ Javascript
   * [Svelte로 만드는 Todo List - 2 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/06/24/How-to-make-todo-list-app-with-Svelte-2.html)
   * [Up and running with Svelte - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/svelte-tutorials-1-1f49699da2c0)
   * [Compile Svelte in your head - SingaporeJS - YouTube](https://www.youtube.com/watch?v=eGHGJyxJAMk)
+  * [Getting started with Svelte - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started)
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
 * [SweetAlert](https://sweetalert.js.org/)
 * [TableSorter.js 로 Sorting 개발하기](https://brunch.co.kr/@ourlove/76)
@@ -1448,6 +1451,7 @@ Javascript
 * [Two.js - a two-dimensional drawing api geared towards modern web browsers](https://jonobr1.github.io/two.js/)
 * [µcdn: a live, bundlerless, alternative | by Andrea Giammarchi | Medium](https://medium.com/@WebReflection/%C2%B5compress-goodbye-bundlers-bb66a854fc3c)
 * [Unreal.js: Javascript runtime built for UnrealEngine 4](https://github.com/ncsoft/Unreal.js)
+* [urlcat: A URL builder library for JavaScript](https://github.com/balazsbotond/urlcat)
 * [vectorious - A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
 * [Vulcan: A JavaScript Automated Proof System](http://rmarcus.info/blog/2015/09/02/vulcan.html)
 * [WarriorJS - An exciting game of programming and Artificial Intelligence](https://warrior.js.org/) 일종의 게임, 유저가 직접 JS를 짜서 플레이
