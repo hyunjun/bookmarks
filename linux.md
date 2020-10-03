@@ -54,6 +54,7 @@ Linux
     * [A set of Ansible playbooks to build and maintain your own private cloud: email, calendar, contacts, file sync, IRC bouncer, VPN, and more](https://github.com/sovereign/sovereign)
     * [20 개의 ANSIBLE 인터뷰 질문](https://linux.systemv.pe.kr/20-%EA%B0%9C%EC%9D%98-ansible-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A7%88%EB%AC%B8/)
     * [**Vagrant와 Ansible로 하는 서버 관리 기초**](https://velog.io/@jonghunbok/Vagrant%EC%99%80-Ansible%EB%A1%9C-%ED%95%98%EB%8A%94-%EC%84%9C%EB%B2%84-%EA%B4%80%EB%A6%AC-%EA%B8%B0%EC%B4%88)
+    * [How to install software with Ansible | Opensource.com](https://opensource.com/article/20/9/install-packages-ansible)
   * [Bashible - a deployment/automation tool written in Bash (DSL). Inspired by Ansible. Simplifies things and prevents usual mistakes](https://github.com/mig1984/bashible)
   * [fabric](https://github.com/mathiasertl/fabric)
   * [salt](https://docs.saltstack.com/en/latest/topics/)
@@ -85,6 +86,7 @@ Linux
 * [**The 101 of ELF files on Linux: Understanding and Analysis**](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/amp/)
 * [**리눅스 서버 60초안에 상황파악하기**](https://b.luavis.kr/server/linux-performance-analysis)
   * uptime, dmesg | tail, vmstat 1, mpstat -p ALL 1, pidstat 1, iostat -xz 1, free -m, sar -n DEV 1, sar -n TCP,ETCP 1, top
+* [Analyze Linux startup performance | Opensource.com](https://opensource.com/article/20/9/systemd-startup-configuration)
 * [리눅스 응용프로그램 실행 시 ASLR(Address Space Layout Randomization) 기능 끄고 실행하기](http://kkamagui.tistory.com/905)
 * [How to install a device driver on Linux](https://opensource.com/article/18/11/how-install-device-driver-linux)
 * [EXT4 에서 달라진 부분들 #1](https://charsyam.wordpress.com/2018/12/15/%ec%9e%85-%ea%b0%9c%eb%b0%9c-ext4-%ec%97%90%ec%84%9c-%eb%8b%ac%eb%9d%bc%ec%a7%84-%eb%b6%80%eb%b6%84%eb%93%a4-1/)
@@ -383,6 +385,7 @@ Linux
   * [Linux Tutorials - 24 cut command Slitting a file vertically | GeeksforGeeks](https://www.youtube.com/watch?v=eHGCxEVlHd0)
   * `... | tr -s [:blank:] | cut -f<num> -d ' '` [How to specify more spaces for the delimiter using cut?](https://stackoverflow.com/questions/7142735/how-to-specify-more-spaces-for-the-delimiter-using-cut)
   * [Working with wide text files at the command line](https://www.johndcook.com/blog/2019/08/28/cut/)
+  * [리눅스 cut 명령어 : 구분자로 구분된 필드를 뽑아낸다.](https://codingdog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-cut-%EB%AA%85%EB%A0%B9%EC%96%B4-%EA%B5%AC%EB%B6%84%EC%9E%90%EB%A1%9C-%EA%B5%AC%EB%B6%84%EB%90%9C-%ED%95%84%EB%93%9C%EB%A5%BC-%EB%BD%91%EC%95%84%EB%82%B8%EB%8B%A4)
 * `date`
   * `date +%Y%m%d [--date '1 days ago']`
 
@@ -791,6 +794,7 @@ Linux
 * [**direnv -- Unclutter your .profile**](https://direnv.net/)
   * [폴더별 환경 관리를 위한 direnv](https://blog.outsider.ne.kr/1306)
   * [direnv로 디렉토리(프로젝트) 별 개발환경 구축하기 - 루비(Ruby), 파이썬(Python), 노드(Node) 개발 환경 구축](https://www.44bits.io/ko/post/direnv_for_managing_directory_environment)
+* [duf: Disk Usage/Free Utility](https://github.com/muesli/duf)
 * [**entr - A utility for running arbitrary commands when files change**](https://github.com/clibs/entr)
 * [FireHOL(firewall) and FireQOS(traffic shaping)](http://firehol.org/)
 * [fzf](https://github.com/junegunn/fzf)
@@ -826,6 +830,8 @@ Linux
 * [prm - A minimal project manager for the terminal](https://github.com/eivind88/prm)
 * [**pxi (pixie) - a small, fast, and magical command-line data processor similar to jq, mlr, and awk**](https://github.com/Yord/pxi)
 * [Qfc - Quick Command-line File Completion](http://pindexis.github.io/qfc/)
+* rdiff-backup [What's new with rdiff-backup? | Opensource.com](https://opensource.com/article/20/9/rdiff-backup-linux)
+* rsyslog [Monitoring Linux Logs with Kibana and Rsyslog | by Antoine Solnichkin | devconnected — DevOps, Sysadmins & Engineering | Medium](https://medium.com/schkn/monitoring-linux-logs-with-kibana-and-rsyslog-4dfbbd287807)
 * [RTail - Terminal output to the browser in seconds, using UNIX pipes](http://rtail.org/)
 * [SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal](https://github.com/andmarti1424/sc-im)
 * [shed - the sh editor](https://github.com/mplewis/shed)
