@@ -101,3 +101,4 @@ Monitoring
 * [A Prometheus fork for cloud scale anomaly detection across metrics & logs](https://www.zebrium.com/blog/a-prometheus-fork-for-efficient-cloud-scale-autonomous-monitoring)
 * [Prometheus Node Exporter Tutorial | Monitor CPU, Memory, Disk etc.](https://www.youtube.com/watch?v=_h78zXBWjAU)
 * [prometheus-for-developers: Practical introduction to Prometheus for developers](https://github.com/danielfm/prometheus-for-developers)
+* [Level up your shell history with Loki and fzf | Opensource.com](https://opensource.com/article/20/10/shell-history-loki-fzf)
