@@ -895,6 +895,7 @@ AWS
 * [**AWS 전문가 되기**](https://brunch.co.kr/magazine/devops)
 * [취미 생활을 위한 AWS 사용법](https://www.twitch.tv/videos/681204315)
 * [AWS 학습 자료집](https://gist.github.com/serithemage/9993400aa483c95ade954a1e36b1004b)
+* [Home - AWS Video Catalog](https://awsvideocatalog.com/)
 
 # VPC
 * [AWS CLI로 기본 VPC 관련 리소스들 탐색하기 - VPC, 서브넷, 시큐리티 그룹](https://www.44bits.io/ko/page/inspect_resources_in_default_vpc_by_aws_cli)
