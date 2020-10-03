@@ -105,6 +105,7 @@ C++
 * [Compile-time RNG tricks](http://www.elbeno.com/blog/?p=1288)
 * [Rant: On the std::experimental::variant to come](http://talesofcpp.fusionfenix.com/post-21/rant-on-the-stdexperimentalvariant-to-come)
 * [An introduction to C++'s SFINAE concept: compile-time introspection of a class member](http://jguegant.github.io/blogs/tech/sfinae-introduction.html)
+* [The Little Things: Speeding up C++ compilation — The Coding Nest](https://codingnest.com/the-little-things-speeding-up-c-compilation/)
 * [Job System 2.0: Lock-Free Work Stealing – Part 1: Basics](http://blog.molecular-matters.com/2015/08/24/job-system-2-0-lock-free-work-stealing-part-1-basics/)
 * [Job System 2.0: Lock-Free Work Stealing – Part 2: A specialized allocator](http://blog.molecular-matters.com/2015/09/08/job-system-2-0-lock-free-work-stealing-part-2-a-specialized-allocator/)
 * [Job System 2.0: Lock-Free Work Stealing – Part 3: Going lock-free](http://blog.molecular-matters.com/2015/09/25/job-system-2-0-lock-free-work-stealing-part-3-going-lock-free/)
@@ -168,6 +169,8 @@ C++
 * [Fast Virtual Functions: Hacking the VTable for Fun and Profit | by Caleb Leak | Medium](https://medium.com/@calebleak/fast-virtual-functions-hacking-the-vtable-for-fun-and-profit-25c36409c5e0)
 * [Some awesome modern C++ features that every developer should know | by Mottakin Chowdhury | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/some-awesome-modern-c-features-that-every-developer-should-know-5e3bf6f79a3c)
 * [이동 의미구조(Move Semantics) 주의할 점 | The Dream of Super Surplus Power](https://surpreem.com/%ec%9d%b4%eb%8f%99-%ec%9d%98%eb%af%b8%ea%b5%ac%ec%a1%b0move-semantics-%ec%a3%bc%ec%9d%98%ed%95%a0-%ec%a0%90/)
+* [C++: The Good Parts](https://www.infoq.com/presentations/c-plus-plus-pros/)
+* [How expensive is integer-overflow trapping in C++? – Daniel Lemire's blog](https://lemire.me/blog/2020/09/23/how-expensive-is-integer-overflow-trapping-in-c/)
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
