@@ -145,7 +145,6 @@ Machine Learning
 * [101 Machine Learning Algorithms for Data Science with Cheat Sheets](https://www.r-bloggers.com/101-machine-learning-algorithms-for-data-science-with-cheat-sheets)
 * [Do you know how to choose the right machine learning algorithm among 7 different types?(KR)](https://databreak.netlify.com/2019-03-25-machine_learning_algorithm/)
 * [Top 9 Algorithms for a Machine Learning Beginner](https://towardsdatascience.com/top-10-algorithms-for-machine-learning-beginners-149374935f3c)
-* [Machine Learning Algorithms For Beginners with Code Examples in Python](https://medium.com/towards-artificial-intelligence/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)
 * [Machine Learning Resources for Beginners and Beginners++](http://dk-techlogic.blogspot.in/2012/05/best-machine-learning-resources.html)
 * [Simple ML explanations by MIT PhD students (ML-Tidbits)](https://www.techleer.com/articles/584-understanding-artificial-intelligence-and-machine-learning-made-simple-by-mit-phd-students-ml-tidbits/)
 * [Machine Learning Tutorials](http://ujjwalkarn.github.io/Machine-Learning-Tutorials/)
@@ -1336,3 +1335,4 @@ Machine Learning
 * [Machine Learning Tutorials - YouTube](https://www.youtube.com/playlist?list=PLfwO4-8NiQkFVYIV8cIUjCQA6yTbvV2L_)
 * [Getting machine learning to production · Vicki Boykis](http://veekaybee.github.io/2020/06/09/ml-in-prod/)
 * [Markus Loning - Introduction to Machine Learning with Time Series | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=Wf2naBHRo8Q)
+* [**Machine Learning Algorithms For Beginners with Code Examples in Python**](https://medium.com/towards-artificial-intelligence/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)
