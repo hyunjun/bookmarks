@@ -2494,6 +2494,7 @@ Javascript
 * [How to use React to Create a Weather App using RESTful APIs](https://morioh.com/p/914124c58a89)
 * [Stop Using React - DEV](https://dev.to/ender_minyard/why-you-should-stop-using-react-g7c)
 * [Introducing the New JSX Transform – React Blog](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html)
+* [react 리액트와 socket.io를 활용한 랜덤강화게임(+ 채팅)](https://blog.naver.com/pjt3591oo/222106661530)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
