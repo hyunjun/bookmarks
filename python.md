@@ -1886,6 +1886,7 @@ Python
 * [HTTP Methods in Flask](https://urangurang.github.io/translation/Flask-methods/)
 * [Flask-Login 예제](https://github.com/mcchae/Flask-Login)
 * [Login authentication with Flask](https://pythonspot.com/login-authentication-with-flask/)
+* [Using Google Login in Python With Flask - YouTube](https://www.youtube.com/watch?v=GL6ENveMA4Q)
 * [(flask) JSON 데이터 받기 및 예외처리](https://ash84.net/2016/12/22/flask-get-json/)
 * [flask - jinja2 tojson 필터](https://ash84.net/2017/04/03/flask-jinja2-tojson-pilteo/)
 * [flask - json_encoder 지정하기](https://ash84.net/2017/06/16/flask-json-encoder/)
