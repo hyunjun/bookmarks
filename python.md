@@ -61,7 +61,6 @@ Python
 * [SB Coding Workshop](https://github.com/suminb/sbcw)
 * [pythonprogramming.net](https://pythonprogramming.net/)
 * [Problem Solving with Algorithms and Data Structures](http://interactivepython.org/courselib/static/pythonds/index.html)
-* [Automated, data-driven code review](https://www.quantifiedcode.com/)
 * [Hacking an epic NHL goal celebration with a hue light show and real-time machine learning](http://blog.francoismaillet.com/epic-celebration/)
 * [Python without an operating system](http://lwn.net/SubscriberLink/641244/5d1d6d20aeb0a647/)
 * GIL Global Interpreter Lock
@@ -76,9 +75,6 @@ Python
   * [번역 파이썬 GIL은 사라질까?](https://seonghyeon.dev/has-the-python-gil-been-slain/)
   * [python의 GIL과 threading](https://blog.hanaoto.me/gil-and-threading-in-python/)
   * [왜 Python에는 GIL이 있는가](https://dgkim5360.tistory.com/entry/understanding-the-global-interpreter-lock-of-cpython)
-* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)
-  * [10 things possible with Python](https://okdevtv.com/mib/python/10)
-  * [Automate the Boring Sutff with Python](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/README.md)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
 * [Python Trainer](https://github.com/aaronchall/pythontrainer)
 * [Hands-on Introduction to Spatial Data Analysis in Python](https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python)
@@ -376,15 +372,12 @@ Python
 * [(PlaywithData)1day seminar_0630](https://www.slideshare.net/namsoojang3/playwithdata1day-seminar0630-152800415)
 * [**SERP Analysis with Google Search Console+Python**](https://hackernoon.com/serp-analysis-with-google-search-console-python-bf8a2ab43fa9)
   * Google Search Console Data, CSVs into a Pandas Dataframe, Plot total clicks over time
-* [One Day Builds: Instagram Automation Using Python](https://www.youtube.com/watch?v=vnfhv1E1dU4)
-  * [InstaAutomator](https://github.com/KalleHallden/InstaAutomator)
 * [Adaptive process and memory management for Python web servers](https://instagram-engineering.com/adaptive-process-and-memory-management-for-python-web-servers-15b0c410a043)
 * [Static Analysis at Scale: An Instagram Story](https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c)
 * [Python at Scale: Strict Modules](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834)
 * [Pointers in Python](https://www.datacamp.com/community/tutorials/python-pointers)
 * [Python as C++’s Limiting Case](https://www.youtube.com/watch?v=DoWY7qQ9doA)
 * [How to Make Histograms in Pure Python](https://www.youtube.com/watch?v=OpTwGLVCtHQ)
-* [Super quick Python automation ideas](https://www.youtube.com/watch?v=qbW6FRbaSl0)
 * [15 Python Projects in Under 15 Minutes (Code Included)](https://www.youtube.com/watch?v=OXi4T58PwdM)
 * 아래아한글
   * [초간단 업무자동화 코딩 강좌 #1/10:상장 일괄제작 | 회사원생존코딩](https://www.youtube.com/watch?v=1pC_UXhiJH8)
@@ -1346,6 +1339,19 @@ Python
     * 정말 좋은 글. 특히 놀라운 건 Donald Knuth같은 사람도 한 때 goto를 옹호했다는 점
   * [Nathaniel J Smith - Python Concurrency for Mere Mortals - Pyninsula #10](https://www.youtube.com/watch?v=i-R704I8ySE)
 * [vibora - Fast, asynchronous and elegant Python web framework. https://vibora.io ](https://github.com/vibora-io/vibora)
+
+# Automation
+* [Automated, data-driven code review](https://www.quantifiedcode.com/)
+* [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)
+  * [10 things possible with Python](https://okdevtv.com/mib/python/10)
+  * [Automate the Boring Sutff with Python](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/README.md)
+* [One Day Builds: Instagram Automation Using Python](https://www.youtube.com/watch?v=vnfhv1E1dU4)
+  * [InstaAutomator](https://github.com/KalleHallden/InstaAutomator)
+* [Super quick Python automation ideas](https://www.youtube.com/watch?v=qbW6FRbaSl0)
+* [Home Assistant - a home automation platform running on Python 3](https://github.com/home-assistant/home-assistant)
+* [유서원: Practical automation for beginners](https://www.youtube.com/watch?v=GvhINSObO4c)
+  * [Practical automation for beginners](https://www.slideshare.net/SeoweonYoo/practical-automation-for-beginners-78644561/1)
+* [Anton Chernikov - Automate your tasks with Python and publish with Chat Apps - YouTube](https://www.youtube.com/watch?v=UIdKVF37g0o)
 
 # Baseball
 * [Baseball Analytics: An Introduction to Sabermetrics using Python](http://adilmoujahid.com/posts/2014/07/baseball-analytics/)
@@ -3686,8 +3692,6 @@ Python
   * [파알못의 파이콘 2017 참가 후기](https://medium.com/happyprogrammer-in-jeju/%ED%8C%8C%EC%95%8C%EB%AA%BB%EC%9D%98-%ED%8C%8C%EC%9D%B4%EC%BD%98-2017-%EC%B0%B8%EA%B0%80-%ED%9B%84%EA%B8%B0-82cc572e0d04)
   * [Charles Ochoa: The Joy of Integer Programming: Solving Hard Combinatorial Problems in Python](https://www.youtube.com/watch?v=yCmpawWs5AE)
     * [The Joy of Integer Programming](https://github.com/cochoa0x1/pycon2017)
-  * [유서원: Practical automation for beginners](https://www.youtube.com/watch?v=GvhINSObO4c)
-    * [Practical automation for beginners](https://www.slideshare.net/SeoweonYoo/practical-automation-for-beginners-78644561/1)
   * [박준철: Python 게임서버 안녕하십니까 : RPC framework 편](https://www.youtube.com/watch?v=5eRxZfihnww)
     * [Python 게임서버 안녕하십니까 : RPC framework 편](https://www.slideshare.net/joongom/python-rpc-framework-78718414/1)
   * [2017-10 강대명 - 파이썬으로 풀어보는 아주 심플한 검색엔진의 원리](https://www.youtube.com/watch?v=SIsyo9ZHWrE)
@@ -3782,7 +3786,6 @@ Python
 * [파이썬 마이크로 실전 패턴](http://hamait.tistory.com/854)
 * [The Case Against Python 3 (For Now)](https://learnpythonthehardway.org/book/nopython3.html)
 * [The Case Against “The Case Against Python 3”](https://medium.com/@poke/the-case-against-the-case-against-python-3-ae4eb4038e0e#.r1byy6hfs)
-* [Home Assistant - a home automation platform running on Python 3](https://github.com/home-assistant/home-assistant)
 * [파이썬 3.6에서 바뀐 점](http://raccoonyy.github.io/whats-new-in-python-3-6-korean/)
 * [Tiny Python 3.6 Notebook](https://github.com/mattharrison/Tiny-Python-3.6-Notebook/blob/master/python.rst)
 * [Lessons Learned: Digital Ocean for Python 3](https://medium.com/towards-data-science/lessons-learned-digital-ocean-for-python-3-e2442db4246f)
