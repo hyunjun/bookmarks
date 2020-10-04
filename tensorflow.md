@@ -973,6 +973,7 @@ TensorFlow
   * 움직이는 공과 하단의 바가 attention으로 잡히는 것을 확인 가능
 * [Tensorflow 2.0 강화학습 코드 작성(off policy A2C)](https://blog.naver.com/misskim0806/221667239811)
 * [RL-with-TF-2.0 - Tensorflow 2.0 Reinforcement Learning](https://github.com/kimmyungsup/Reinforcement-Learning-with-Tensorflow-2.0)
+* [distributed_reinforcement_learning: implementation of distributed reinforcement learning with distributed tensorflow](https://github.com/chagmgang/distributed_reinforcement_learning)
 * [async-rl-tensorflow - Asynchronous Methods for Deep Reinforcement Learning](https://github.com/devsisters/async-rl-tensorflow)
 * [TensorForce: A TensorFlow library for applied reinforcement learning](https://reinforce.io/blog/introduction-to-tensorforce/)
 * [TensorLayer: New TF Wrapper](https://tensorflowkorea.wordpress.com/2016/08/30/tensorlayer-new-tf-wrapper/)
