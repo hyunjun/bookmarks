@@ -636,6 +636,7 @@ Java
   * [**Project Loom: Fiber와 Continuation**](http://guruma.github.io/posts/2018-09-27-Project-Loom-Fiber-And-Continuation/)
   * [Project Loom: Helping Write Concurrent Applications on the Java Platform by Ron Pressler](https://www.youtube.com/watch?v=lIq-x_iI-kc)
   * [Project Loom? Better Futures? What’s next for JVM concurrent programming - YouTube](https://www.youtube.com/watch?v=_fFzyY_7UmA)
+  * [**Java의 동시성 개선을 위한 Project Loom은 reactive streams를 대체할 것인가?**](https://gunsdevlog.blogspot.com/2020/09/java-project-loom-reactive-streams.html) 정말 좋은 글
 
 ## JVM GC Garbage Collection
 * [Garbage Collection의 기초](http://itmining.tistory.com/24)
