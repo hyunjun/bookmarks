@@ -1639,6 +1639,7 @@ Programming
 * [K MOOC](http://www.kmooc.kr/)
 * [Learn TV | Microsoft Docs](https://docs.microsoft.com/en-us/learn/tv/)
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
+  * [여러분의 CS 교육에서 누락된 학기 · the missing semester of your cs education](https://missing-semester-kr.github.io/)
 * [learncodethehardway.org](https://learncodethehardway.org/) learn code the hard way
 * [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 * [raywenderlich.com](https://www.raywenderlich.com/) Over 3,000 high-quality tutorials to boost your programming career, created by a community of experts from around the world
@@ -1941,6 +1942,7 @@ Programming
   * [월간 개발자스럽다 #56](https://blog.gaerae.com/2020/06/monthly.html)
   * [월간 개발자스럽다 #57](https://blog.gaerae.com/2020/08/monthly_6.html)
   * [월간 개발자스럽다 #58](https://blog.gaerae.com/2020/08/monthly.html)
+  * [월간 개발자스럽다 #59](https://blog.gaerae.com/2020/09/monthly.html)
 * [44BITS 뉴스레터 2020년 11주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-11)
 * [44BITS 뉴스레터 2020년 12주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-12)
 * [44BITS 뉴스레터 2020년 13주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-13)
