@@ -390,6 +390,7 @@ Javascript
 * [<번역>앱의 프론트엔드 성능을 향상시키는 방법 - 5가지 코딩 팁](https://junwoo45.github.io/2019-10-05-frontend-performance/)
 * [프론트엔드 성능 체크리스트](https://github.com/ParkSB/Front-End-Performance-Checklist)
 * [<번역>자바스크립트 성능 향상 방법](https://junwoo45.github.io/2020-01-29-javascript_performance/)
+* [네이버 스마트 주문 페이지 성능 개선 경험담 공유. 안녕하세요. 네이버 Glace 예약&주문 개발팀에서 일하고 있는 새내기… | by Jiwon Kim | 네이버 플레이스 개발 블로그 | Aug, 2020 | Medium](https://medium.com/naver-place-dev/%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%A3%BC%EB%AC%B8-%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0-%EA%B2%BD%ED%97%98%EB%8B%B4-%EA%B3%B5%EC%9C%A0-f089caa2bd2)
 * [3 JavaScript Performance Mistakes You Should Stop Doing](https://hackernoon.com/3-javascript-performance-mistakes-you-should-stop-doing-ebf84b9de951)
 * [JS: The Observers](https://www.huskyhoochu.com/js-observers/)
 * [IntersectionObserver를 이용한 이미지 동적 로딩 기능 개선](http://tech.lezhin.com/2017/07/13/intersectionobserver-overview)
@@ -627,6 +628,7 @@ Javascript
 * [6 JavaScript Code Snippets For Solving Common Problems](https://levelup.gitconnected.com/6-javascript-code-snippets-for-solving-common-problems-33deb6cacef3)
 * [Dates and Times in JavaScript – Igalia Compilers Team](https://blogs.igalia.com/compilers/2020/06/23/dates-and-times-in-javascript/)
 * [6 Amazing JavaScript Destructuring Tricks | by Anupam Chugh | Better Programming | Jun, 2020 | Medium](https://medium.com/better-programming/6-amazing-javascript-destructuring-tricks-d47da9a0047f)
+* [3항 연산자의 재발견. 하얀마인드에서는 (중첩) 3항 연산자를 매우 광범위하게 사용한다… | by Jeungmin Oh | 하얀마인드 기술 블로그 | Medium](https://medium.com/hayanmind-tech-blog-kr/3%ED%95%AD-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%9E%AC%EB%B0%9C%EA%B2%AC-a3f815bcdbb8)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
@@ -2716,6 +2718,7 @@ Javascript
   * [dynamic import로 줄여본 next.js 앱의 최초 로딩 시간](https://blog.rhostem.com/posts/2020-05-10-nextjs-and-dynamic-import)
   * [Authentication in Next.js using Amazon Cognito](https://medium.com/frontend-digest/authentication-in-next-js-using-amazon-cognito-f30efed6a24f)
   * [Learn Next.js in One Video - Fundamentals of Next.js - YouTube](https://www.youtube.com/watch?v=tt3PUvhOVzo)
+  * [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Prism.js 적용하기](http://alpoxdev.com/posts/24)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
