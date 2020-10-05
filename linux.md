@@ -121,6 +121,7 @@ Linux
 * [linuxupskillchallenge: Learn the skills required to sysadmin a remote Linux server from the commandline.](https://github.com/snori74/linuxupskillchallenge)
   * [리눅스업스킬도전 - YouTube](https://www.youtube.com/playlist?list=PLdntWJk2tJPLqMxhxCNX7aB0Gm52i5RFz)
   * [(리눅스 업스킬 도전 #4) 새로운 애플리케이션 설치하기](https://jhrogue.blogspot.com/2020/09/4.html)
+  * [(리눅스 업스킬 도전 #13) 파일 접근 허가 기초와 사용자 추가](https://jhrogue.blogspot.com/2020/10/13.html)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
