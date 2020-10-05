@@ -252,6 +252,7 @@ Linux
 * [How To Install VMWare Fusion with Ubuntu on a Mac](http://hplgit.github.io/teamods/ubuntu/vmware/mac.html)
 * [Tuning the sensitivity of the Lenovo TrackPoint on Ubuntu](https://silvae86.github.io/trackpoint/ubuntu/sensitivity/tuning/2019/05/17/tuning-ibm-lenovo-trackpoint/)
 * [Top 10 Ubuntu Network Tools – Linux Hint](https://linuxhint.com/top-10-ubuntu-network-tools/)
+* [우분투 20.04에서 Grub 편집: grub-customizer 와 Grub theme 설정](https://kibua20.tistory.com/128)
 
 # Book
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)
