@@ -3557,6 +3557,7 @@ Python
 * [How Thinking in Python Made Me a Better Software Engineer](https://www.youtube.com/watch?v=dGzc05Bz3l0)
 * [Elizaveta Shashkova - The Hidden Power of the Python Runtime - YouTube](https://www.youtube.com/watch?v=mAnOBOrgFdM) test, debug, code coverage, type, concurrent
 * [Almar Klein - Let’s embrace WebAssembly! - YouTube](https://www.youtube.com/watch?v=u2kKxmb9BWs) webassembly, wasm
+* [Prashant Chaubey - Writing Good Python - YouTube](https://www.youtube.com/watch?v=vnCXToWqz3M) PEP8, pylint, PEP257, pydocstyle, PEP484, mypy, bandit, black
 
 ## Conference Pycon
 * [pyvideo.org](http://pyvideo.org/)
