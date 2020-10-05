@@ -193,6 +193,7 @@ SQL
 * [Streaming backups in parallel using tee | DBA Dojo](https://dbadojo.com/2020/09/02/streaming-backups-in-parallel-using-tee/)
 * [Authentication Plugin - Unix Socket](https://mariadb.com/kb/en/authentication-plugin-unix-socket/)
 * [ClustrixDB](https://mariadb.com/products/clustrixdb/) distributed RDB
+* [mariadb-cdc로 MariaDB CDC 사용하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/mariadb-cdc-intro)
 * SkySQL [Jacob's Cafe :: 수십억건 데이터 처리를 위한 MariaDB Analytics (SkySQL)](https://calebpro.tistory.com/628)
 
 # MSSQL MS SQL
