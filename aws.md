@@ -916,3 +916,4 @@ AWS
 * [AWS VPC/VPN(Openswan) 연동](https://blog.leedoing.com/32)
 * [VPC Peering 과 Transit Gateway 어떻게 다를까](https://dev.classmethod.jp/articles/different-from-vpc-peering-and-transit-gateway)
 * [AWS-VPC-Flowlog-Athena](https://linuxer.name/2020/06/aws-vpc-flowlog-athena/)
+* [HBsmith가 AWS Client VPN로 갈아탄 이유. 소프트웨어는 건물과 비슷해서 첫 배포된 이후부터 폐기될 때까지 계속… | by Jesang Yoon | Hard Boiled Smith Stories | Oct, 2020 | Medium](https://medium.com/hbsmith/hbsmith%EA%B0%80-aws-client-vpn%EB%A1%9C-%EA%B0%88%EC%95%84%ED%83%84-%EC%9D%B4%EC%9C%A0-29119ecdc381)
