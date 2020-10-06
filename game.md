@@ -38,6 +38,7 @@ Game
 * [**Software Library: MS-DOS Games : Free Software : Free Download, Borrow and Streaming : Internet Archive**](https://archive.org/details/softwarelibrary_msdos_games) emulator
 * [FreeCol - a turn-based strategy game based on the old game Colonization, and similar to Civilization. The objective of the game is to create an independent nation.](https://github.com/FreeCol/freecol)
 * [Curriculum Guide | Riot Games](https://www.riotgames.com/en/urf-academy/curriculum-guide)
+* [Build Pac-Man Game With JavaScript - YouTube](https://www.youtube.com/watch?v=YBtzzVwrTeE)
 
 # Board game
 * [ko.boardgamearena.com](https://ko.boardgamearena.com/)
