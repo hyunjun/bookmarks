@@ -192,6 +192,7 @@ Vision
   * [How to implement a YOLO (v3) object detector from scratch in PyTorch: Part 1](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
   * [Soccer Ball Detection using YOLOv2 (Darkflow)](https://github.com/deep-diver/Soccer-Ball-Detection-YOLOv2)
   * [YOLOv2 to detect your own objects using Darkflow](https://towardsdatascience.com/yolov2-to-detect-your-own-objects-soccer-ball-using-darkflow-a4f98d5ce5bf)
+  * [Flutter + TensorFlow Lite | Object Detection | YoloV2 | SSD Tutorial](https://morioh.com/p/a5f489d04741)
   * How to implement a YOLO (v3) object detector from scratch in PyTorch
     * [Part 1: Understanding How YOLO works](https://blog.paperspace.com/how-to-implement-a-yolo-object-detector-in-pytorch/)
     * [Part 2: Creating the layers of the network architecture](https://blog.paperspace.com/how-to-implement-a-yolo-v3-object-detector-from-scratch-in-pytorch-part-2/)
