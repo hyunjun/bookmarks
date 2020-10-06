@@ -24,6 +24,7 @@
   * 도메인 로직을 서술하기 위한 if는 사용
 * [다형성을 사용해 if/else를 제거하는 리팩토링을 하라](https://www.slipp.net/questions/566)
 * [Different Ways to Replace If/Else Statements | The Startup](https://medium.com/swlh/5-ways-to-replace-if-else-statements-857c0ff19357)
+* [Replacing If-Else with Commands and Handlers (CQS) | Level Up Coding](https://levelup.gitconnected.com/replacing-if-else-with-commands-and-handlers-527e0abe2147)
 * [객체 지향 언어의 두 가지 줄기](http://mohwa.github.io/blog/javascript/2015/10/16/prototype/)
 * [OOP 에서의 클래스와 인스턴스 개념](https://www.youtube.com/watch?v=8B2Wxks5Sig)
 * [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
@@ -245,6 +246,7 @@
 * [**Stop Using datetime.now!**](https://hakibenita.com/python-dependency-injection) datetime을 어떻게 테스트할 지로 시작해 DI에 대한 구체적인 설명으로 이어짐. 매우 좋은 글
 * [The Most Elegant Python Object-Oriented Programming | by Christopher Tao | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/the-most-elegant-python-object-oriented-programming-b38d75f4ae7b)
 * [Object Oriented Programming (OOP) in Python - YouTube](https://www.youtube.com/watch?v=MikphENIrOo)
+* [Writing A Simple Factory Method In Python | by Tate Galbraith | Level Up Coding](https://levelup.gitconnected.com/writing-a-simple-factory-method-in-python-6e48145d03a)
 
 # Ruby
 * [**(번역) 루비에서 상속을 피하는 방법**](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)
