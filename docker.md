@@ -824,6 +824,7 @@ Docker
 * [Logging in Kubernetes: EFK vs PLG Stack - InfraCloud Technologies](https://www.infracloud.io/blogs/logging-in-kubernetes-efk-vs-plg-stack/)
 * ['대세' 쿠버네티스, 문제는 '보안'··· 베스트 보안 프랙티스 5가지 - CIO Korea](http://www.ciokorea.com/news/163115)
 * [10 Anti-Patterns for Kubernetes Deployments | by Becca Bau | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/10-antipatterns-for-kubernetes-deployments-e97ce1199f2d)
+* [우리는 불편함을 어떻게 마주하고 있는가 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/10/06/thiiing-system-improvement.html)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
