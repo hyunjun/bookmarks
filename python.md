@@ -1253,6 +1253,7 @@ Python
 * [Exactly-Once Initialization in Asynchronous Python](https://nullprogram.com/blog/2020/07/30/)
 * [zzzeek : Asynchronous Python and Databases](https://techspot.zzzeek.org/2015/02/15/asynchronous-python-and-databases)
 * [Fast & Asynchronous in Python. Accelerate Your Requests Using asyncio | by Dylan Castillo | Towards Data Science](https://towardsdatascience.com/fast-and-async-in-python-accelerate-your-requests-using-asyncio-62dafca83c33)
+* [Stop Waiting! Start using Async and Await! | by Simon Hawe | Towards Data Science](https://towardsdatascience.com/stop-waiting-start-using-async-and-await-18fcd1c28fd0)
 * youtube
   * [**Fear and Awaiting in Async (Screencast)**](https://www.youtube.com/watch?v=Bm96RqNGbGo)
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
@@ -3810,7 +3811,9 @@ Python
 * [Dictionary Merging and Updating in Python 3.9](https://medium.com/better-programming/dictionary-merging-and-updating-in-python-3-9-4ac67c667ce)
 * [New Features in Python 3.9](https://towardsdatascience.com/new-features-in-python39-2529765429fe)
 * [Take a Look at the Awesome New Features Coming in Python 3.9 | by Michael Krasnov | Better Programming | Medium](https://medium.com/better-programming/take-a-look-at-the-awesome-new-features-coming-in-python-3-9-8753c494de39)
+* [10 Awesome Python 3.9 Features. The Must-Know Python 3.9 Features | by Farhad Malik | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/10-awesome-python-3-9-features-b8c27f5eba5c)
 * [Features You Likely Don’t Use in Python 3 — But You Should | LaptrinhX](https://laptrinhx.com/features-you-likely-don-t-use-in-python-3-but-you-should-2455806769/)
+* [9 Python 3 Hacks Programmers Probably Don’t Utilize | Better Programming](https://medium.com/better-programming/9-python-3-features-you-might-not-use-yet-fade13932a3e)
 * [concurrent.futures - Easy parallel python with concurrent.futures](https://gist.github.com/mangecoeur/9540178)
   * [파이썬의 새로운 병렬처리 API – Concurrent.futures](https://soooprmx.com/archives/5669)
 * [PyParallel.org](http://pyparallel.org/)
