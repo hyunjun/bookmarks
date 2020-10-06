@@ -516,6 +516,7 @@ Python
   * [파이썬 매직 메소드 (Python's Magic Methods)](https://ziwon.dev/post/python_magic_methods)
   * [**매직 메서드를 이용한 객체 간의 diff 구하기**](https://velog.io/@litien/Python-%EB%A7%A4%EC%A7%81-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%91%90-%EA%B0%9D%EC%B2%B4-%EA%B0%84%EC%9D%98-diff-%EA%B5%AC%ED%95%98%EA%B8%B0)
   * [Class Attribute VS Instance Attribute of Python](https://medium.com/techtofreedom/differences-between-class-attribute-and-instance-attribute-of-python-1ae61774489c)
+  * [How to use Python classes effectively | by Rhea Moutafis | Towards Data Science](https://towardsdatascience.com/how-to-use-python-classes-effectively-10b42db8d7bd)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
@@ -1251,6 +1252,7 @@ Python
 * [Sync vs. Async Python: What is the Difference? - miguelgrinberg.com](https://blog.miguelgrinberg.com/post/sync-vs-async-python-what-is-the-difference)
 * [Exactly-Once Initialization in Asynchronous Python](https://nullprogram.com/blog/2020/07/30/)
 * [zzzeek : Asynchronous Python and Databases](https://techspot.zzzeek.org/2015/02/15/asynchronous-python-and-databases)
+* [Fast & Asynchronous in Python. Accelerate Your Requests Using asyncio | by Dylan Castillo | Towards Data Science](https://towardsdatascience.com/fast-and-async-in-python-accelerate-your-requests-using-asyncio-62dafca83c33)
 * youtube
   * [**Fear and Awaiting in Async (Screencast)**](https://www.youtube.com/watch?v=Bm96RqNGbGo)
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
