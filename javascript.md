@@ -30,6 +30,7 @@ Javascript
 * [**모던 JavaScript 튜토리얼 - 모던 JavaScript 튜토리얼은 상세한 설명과 함께 JavaScript 기본 개념 및 고급 개념을 다룹니다**](https://ko.javascript.info/)
 * [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg)
 * [Plan, Code, and Deploy a Startup in 2 Hours Full Stack JavaScript Tutorial](https://www.youtube.com/watch?v=lauywdXKEXI)
+* [Beginner's Series to: JavaScript - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 * [Node.js V8 internals: an illustrative primer](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
 * [**Chrome 64, Node.js v10에서는 GC가 mark하는 동안 앱이 멈추지 않습니다**](https://tech.ssut.me/2018/06/16/concurrent-marking-in-v8/)
 * [V8 엔진은 어떻게 내 코드를 실행하는 걸까?](https://evan-moon.github.io/2019/06/28/v8-analysis/)
