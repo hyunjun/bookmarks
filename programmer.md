@@ -49,6 +49,8 @@ Programmer
 * [Awesome-Profile-README-templates: A collection of awesome readme templates to display on your profile](https://github.com/kautukkundan/Awesome-Profile-README-templates)
 * [Rob Pike's 5 Rules of Programming](http://users.ece.utexas.edu/~adnan/pike.html)
 * [Senior to a Lead software developer | by Daniel Anderson | The Startup | Medium](https://medium.com/swlh/senior-to-lead-software-developer-things-they-didnt-tell-you-48123b34381)
+* [4 Signs of an Inexperienced Developer | by Daan | Aug, 2020 | Level Up Coding](https://levelup.gitconnected.com/4-signs-of-an-inexperienced-developer-851966fdc6b1)
+* [4 Ways to Earn Additional Income as a Programmer | by Daan | Level Up Coding](https://levelup.gitconnected.com/4-ways-to-earn-additional-income-as-a-programmer-da7586a64af1)
 
 # Cultuer, Team
 * [훌륭한 개발 문화의 이면(7) – 잉여력이냐 vs. 효율성이냐](http://channy.creation.net/blog/1238) 개발자 경력 경로
