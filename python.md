@@ -849,6 +849,7 @@ Python
   * [파이썬 더블 언더스코어: Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
   * [파이썬 언더스코어`_`에 대하여](https://mingrammer.com/underscore-in-python)
   * [Python Underscores Explained](https://medium.com/better-programming/python-underscores-explained-355de76ab3da)
+  * [Something every Python programmer must know, Underscores | by Sarthak | Dev Genius | Medium](https://medium.com/dev-genius/something-every-python-programmer-must-know-python-underscores-f211dcd866b9)
 * mmap
   * [mmap — Memory-mapped file support¶](https://docs.python.org/2/library/mmap.html)
   * [mmap – Memory-map files](https://pymotw.com/2/mmap/)
@@ -2561,6 +2562,7 @@ Python
   * Under the C
     * [소개](https://blog.sn0wle0pard.io/2018/under-the-c-1/)
     * [PyObject](https://blog.sn0wle0pard.io/2018/under-the-c-2/)
+  * [Make Python Hundreds of Times Faster With a C-Extension | by JOSHUA WEINSTEIN | The Startup | Medium](https://medium.com/swlh/make-python-hundreds-of-times-faster-with-a-c-extension-9d0a5180063e)
   * [CPython internals: why bother? (James Powell)](https://www.youtube.com/watch?v=xLc5xPYGGnQ)
   * [Getting Started with Python Internals](https://medium.com/@dawranliou/getting-started-with-python-internals-a5474ccb8022)
   * [Why Python's The Best Language For AI (and How To Make It Even Better)](https://www.youtube.com/watch?v=ttpL4Qpr9jc)
