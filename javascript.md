@@ -2912,6 +2912,7 @@ Javascript
 * [Redux Toolkit을 활용한 React 상태 관리](https://blog.rhostem.com/posts/2020-03-04-redux-toolkits)
 * [How To Use Redux With React](https://medium.com/better-programming/how-to-use-redux-with-react-23cd2f37d3f3)
 * [Redux Middleware Deep Dive](https://eunsukim.me/posts/redux-middleware-deep-dive)
+* [react redux-socket V0.2.0 배포 & 소개](https://blog.naver.com/pjt3591oo/222109334074)
 
 # TDD, Test
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
