@@ -327,6 +327,7 @@ Linux
 * [**CLI: improved**](https://remysharp.com/2018/08/23/cli-improved) bat, prettyping, fzf, htop, diff-so-fancy, fd, ncdu, tldr, ack/ag, jq, ponysay, csvkit, noti, entr
 * [6 Terminal Commands You Should Know | by Tate Galbraith | Better Programming | Medium](https://medium.com/better-programming/6-terminal-commands-you-should-know-8e9767bdfec)
 * [(리눅스 업스킬 도전 #11) 특정 조건으로 파일 찾기](https://jhrogue.blogspot.com/2020/09/11.html) locate which grep zcat zless less find
+* [Shell Commands Every Developer Must Know | by Erik van Baaren | Erik on Technology | Medium](https://medium.com/tech-explained/shell-commands-every-developer-must-know-93e6b98d4341)
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
@@ -898,7 +899,7 @@ Linux
 * [`set -u` at the start of a script](https://stackoverflow.com/questions/41020844/how-can-i-make-bash-treat-undefined-variables-as-errors/41020921#41020921)
   * treat unset variables and parameters as an error
 
-## Library
+## Shell Library
 * [agnoster.zsh-theme](https://gist.github.com/jmagnusson/ca43a3ece3de32817ec8)
   * [zsh에서 agnoster테마 사용하기](http://crasy.tistory.com/146)
 * [ctypes.sh - A foreign function interface for bash](http://ctypes.sh/)
