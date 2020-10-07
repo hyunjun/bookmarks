@@ -2194,6 +2194,7 @@ Javascript
 * [Top 5 React-Native Courses for Mobile Application Developers](https://hackernoon.com/top-5-react-native-courses-for-mobile-application-developers-b82febdf8a46)
 * [Top 5 React-Native Courses for Mobile Application Developers](https://medium.com/hackernoon/top-5-react-native-courses-for-mobile-application-developers-b82febdf8a46)
 * [Reactjs JavaScript Tutorial - Full Course 10 Hours (2020)](https://morioh.com/p/e183701d79aa)
+* [React Full Course - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://morioh.com/p/34eeae8b4e34)
 * [How to build Chrome extensions with React + Parcel](https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f)
 * [How to Use Code-Splitting With React and Parcel](https://medium.com/better-programming/how-to-use-code-splitting-with-react-and-parcel-e8bb37be4160)
 * [React Authentication in Depth](https://hackernoon.com/react-authentication-in-depth-4deebda9aa45)
