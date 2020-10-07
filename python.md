@@ -3869,6 +3869,7 @@ Python
 * [Unit Tests in Python || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=1Lfv5tUGsn8)
 * [Reduce testing time by Multiprocessing in python](https://www.slideshare.net/SangJuneAhn/reduce-testing-time-by-multiprocessing-in-python-138982022)
 * [Don’t trust your gut!](https://towardsdatascience.com/dont-trust-your-gut-80ace85e9747)
+* [The Template Method Pattern in Python | by Tomas Ye | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/the-template-method-pattern-in-python-72b7d6e95c96)
 * faker, factory boy [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
 * [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
   * [Episode #63: Validating Python tests with mutation testing](https://talkpython.fm/episodes/show/63/validating-python-tests-with-mutation-testing)
