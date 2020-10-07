@@ -23,6 +23,7 @@ Git
 * [Git Cheat Sheets](https://services.github.com/on-demand/resources/cheatsheets/)
 * [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
 * [**Git cheatsheet**](https://ndpsoftware.com/git-cheatsheet.html) stash, workspace, index, local repo, upstream repo 간의 이동을 visual로 보여줘서 (여전히 어렵지만) 정말 보기 좋음
+* [Git Ready: A Git Cheatsheet of Commands You Might Need Daily | by Yakko Majuri | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/git-ready-a-git-cheatsheet-of-commands-you-might-need-daily-8f4bfb7b79cf)
 * [Unpacking Git packfiles](https://codewords.recurse.com/issues/three/unpacking-git-packfiles/)
 * [Scripts to Rule Them All](http://githubengineering.com/scripts-to-rule-them-all/)
 * [Git as a Document Format](https://realm.io/news/altconf-wil-shipley-git-document-format/)
