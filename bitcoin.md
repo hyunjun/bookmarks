@@ -115,6 +115,7 @@ Bitcoin
 * [이더리움 블록체인에 낙서하기 (Writing messages on the Ethereum blockchain using Metamask)](https://medium.com/@sjhong/%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%97%90-%EB%82%99%EC%84%9C%ED%95%98%EA%B8%B0-writing-messages-on-the-ethereum-blockchain-using-metamask-f98f52c46940)
 * [아이콘 블록체인에 낙서하기 (Writing messages on the ICON blockchain)](https://medium.com/@sjhong/%EC%95%84%EC%9D%B4%EC%BD%98-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%97%90-%EB%82%99%EC%84%9C%ED%95%98%EA%B8%B0-writing-messages-on-the-icon-blockchain-cd61aae299e3)
 * [블록체인 시스템은 어떻게 구축할까 1편 - exchange, wallet, payment에서 transaction 취급방법](https://blog.naver.com/pjt3591oo/221590636921)
+* [탈중앙과 온라인 게임이 교차하다](https://snack.planetarium.dev/kor/2020/10/decentralized-and-online-game-intersect/)
 
 ## Blockchain Javascript
 * [자바스크립트로 블록체인 구현하기(입문)-1. 블록체인이란 무엇인가?](https://songseungwon.tistory.com/8)
