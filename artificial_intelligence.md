@@ -153,6 +153,7 @@ Artificial Intelligence
 * [CS221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221)
   * [Artificial Intelligence cheatsheets for Stanford's CS 221](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
 * [theschool.ai/courses/data-lit](https://www.theschool.ai/courses/data-lit/) Siraj Raval
+* [UNIST - YouTube](https://www.youtube.com/user/unistmedia)
 
 # Tutorial
 * [Introduction to AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/introduction?hl=en)
