@@ -833,6 +833,7 @@ Javascript
 * [clean-code-javascript - Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [Mastering Async/Await](https://thecodebarbarian.com/new-ebook-mastering-async-await.html)
   * [Mastering Async/Await - Async/Await 마스터 하기](https://gcback-1.gitbook.io/mastering-async-await-by-valeri-karpov/)
+* [flaviocopes 12 ebooks](https://flaviocopes.com/page/list-subscribed/)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
