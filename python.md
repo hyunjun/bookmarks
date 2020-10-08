@@ -2495,6 +2495,7 @@ Python
   * [**Data Science for Losers**](http://blog.brakmic.com/data-science-for-losers/)
   * [LEARNING PYTHON FOR DATA SCIENCE: CHEAT SHEETS](https://www.continuum.io/blog/developer-blog/learning-python-data-science-cheat-sheets)
   * [Python Anaconda & GPU - 세팅 및 성능 비교](http://hoondongkim.blogspot.com/2016/09/python-anaconda-gpu.html)
+  * [gtc_fall: GPU Optimization for Python](https://github.com/mnicely/gtc_fall)
   * [초간단 머신러닝 개발 환경 세팅하기 (with 아나콘다)](https://www.youtube.com/watch?v=8oaOE9LXY4w)
   * [Accelerate Python Performance Powered by Anaconda](https://software.intel.com/en-us/distribution-for-python)
   * [Anaconda-Python 환경에서 VSCode를 사용하는 방법(프로젝트 생성, 환경 구축, 디버깅)](https://chojjong.blog.me/221228053941)
