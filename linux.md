@@ -650,6 +650,7 @@ Linux
   * [delete first line of a file](http://unix.stackexchange.com/questions/96226/delete-first-line-of-a-file) `tail -n +2 [file name]`
 * `tar`
   * [Portability of tar features](https://dev.gentoo.org/~mgorny/articles/portability-of-tar-features.html)
+  * [(리눅스 업스킬 도전 #16) tar와 친구들](https://jhrogue.blogspot.com/2020/10/16-tar.html)
 * `taskset`
   * [리눅스의 CPU affinity. 리눅스에서 SMP(Symmetric MultiProcessing)을… | by Out of Bedlam | Medium](https://medium.com/@OutOfBedlam/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9D%98-cpu-affinity-5df1a7ab3d99)
 * `tcpdump`
