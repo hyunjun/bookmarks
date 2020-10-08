@@ -776,6 +776,8 @@ Java
 * [DEC PDP-8 emulator](http://www.timgorton.com/pdp8/)
 * [Eclipse Collections](https://www.eclipse.org/collections/)
 * [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)
+* [excel-download: Rapid development possible and Simple Excel Download Library For JAVA 8+](https://github.com/lannstark/excel-download)
+  * [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기) - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/10/08/excel-download.html)
 * [Feign makes writing java http clients easier](https://github.com/OpenFeign/feign)
   * [우아한 feign 적용기](http://woowabros.github.io/experience/2019/05/29/feign.html)
   * [feign 좀더 나아가기](http://woowabros.github.io/experience/2019/12/20/feign2.html)
