@@ -404,6 +404,7 @@ NLP
 * [Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
 * [ALBERT Review](https://baekyeongmin.github.io/paper-review/albert-review/)
 * [ALBERT:언어 표현의 자율지도 학습](https://brunch.co.kr/@synabreu/32)
+* [GPT3 능가하는 자연어 모델 훈련 알고리즘 등장 - AI타임스](http://www.aitimes.com/news/articleView.html?idxno=132637)
 * [Korean ALBERT](https://github.com/MrBananaHuman/KalBert)
 * [exBERT - A Visual Analysis Tool to Explore Learned Representations in Transformers Models](http://exbert.net/)
 * [More on Transformers: BERT와 친구들](https://docs.google.com/presentation/d/1OeDO-d4hxQ7OuhbpxJjsMGVfLWakSGIqnhu_IvQbxqQ)
