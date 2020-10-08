@@ -38,6 +38,7 @@ Network
 * [What happens when you type in a URL in an Address bar in a browser?](https://twitter.com/kamranahmedse/status/1297131414190776320/photo/1)
 * [What happens when you load a URL?](https://danluu.com/navigate-url/)
 * [Developers Need to Learn Basic Network Engineering | by Tate Galbraith | Better Programming | Medium](https://medium.com/better-programming/developers-need-to-learn-basic-network-engineering-c67767969cd5)
+* [박피디의 게임 개발 이야기 : python 으로 이더넷 mac 주소 얻는 코드](http://parkpd.egloos.com/4189114)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
