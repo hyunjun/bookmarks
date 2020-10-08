@@ -313,8 +313,6 @@ NLP
 * [한국어 전처리.ipynb - Colaboratory](https://colab.research.google.com/drive/1FfhWsP9izQcuVl06P30r5cCxELA1ciVE?usp=sharing)
 * [PRODUCTIONIZING NLP MODELS](https://www.topbots.com/productionizing-nlp-models/)
 * [딥 러닝 자연어 처리를 학습을 위한 파워포인트. (Deep Learning for Natural Language Processing)](https://www.slideshare.net/wonjoonyoo/ss-188835227)
-* [한국어 데이터 Tokenizer](http://www.dafit.me/question/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=2622480&t=board)
-* [한국어 자연어처리 1편 서브워드 구축(Subword Tokenizer, huggingface VS SentencePiece)](https://keep-steady.tistory.com/37)
 * [Distilling knowledge from Neural Networks to build smaller and faster models](https://blog.floydhub.com/knowledge-distillation/)
 * [일본어 NLP 프로젝트 시작하기](https://blog.pingpong.us/japanese/)
 * [자연언어처리(NLP)... 무엇이며, 그 기술과 시장은?](http://www.aitimes.kr/news/articleView.html?idxno=15036)
@@ -1396,6 +1394,11 @@ NLP
 * [What is TF-IDF? The 10 minute guide](http://michaelerasm.us/tf-idf-in-10-minutes/)
 * [How I used text mining to decide which Ted Talk to watch](https://towardsdatascience.com/how-i-used-text-mining-to-decide-which-ted-talk-to-watch-dfe32e82bffd)
 * [Keyword Extraction with TF-IDF and scikit-learn – Full Working Example](http://kavita-ganesan.com/extracting-keywords-from-text-tfidf)
+
+# Tokenization
+* [한국어 데이터 Tokenizer](http://www.dafit.me/question/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=2622480&t=board)
+* [한국어 자연어처리 1편 서브워드 구축(Subword Tokenizer, huggingface VS SentencePiece)](https://keep-steady.tistory.com/37)
+* [kortok: The code and models for "An Empirical Study of Tokenization Strategies for Various Korean NLP Tasks" (AACL-IJCNLP 2020)](https://github.com/kakaobrain/kortok)
 
 # Topic Modeling
 * [Topic Modeling with LDA Introduction](https://opendatascience.com/blog/topic-modeling-with-lda-introduction/)
