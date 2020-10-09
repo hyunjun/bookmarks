@@ -311,6 +311,7 @@ Python
 * [7 Python mistakes all beginner developers make — and how to avoid them](https://thenextweb.com/syndication/2020/06/22/7-python-mistakes-all-beginner-developers-make-and-how-to-avoid-them)
 * [Improve Your Craft: 6 Lazy Programming Mistakes and How to Avoid Them](https://codeburst.io/6-lazy-programming-mistakes-and-how-to-avoid-them-a251c656a177)
 * [번역 파이썬 함수 작성 시 자주 범하는 실수 5가지](https://lazymatlab.tistory.com/109)
+* [7 Modern Python Mistakes To Fix NOW! | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/7-modern-python-mistakes-to-fix-now-6ff6f1dedbf3)
 * [Python Beginner Projects 2020 - Add them to your resume!](https://morioh.com/p/8d006da3ab25)
 * [Watch a Directory for Changes](http://timgolden.me.uk/python/win32_how_do_i/watch_directory_for_changes.html)
 * [**파이썬 (doc) 스타일 가이드에 대한 정리**](https://medium.com/@kkweon/%ED%8C%8C%EC%9D%B4%EC%8D%AC-doc-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%80%EC%9D%B4%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A0%95%EB%A6%AC-b6d27cd0a27c)
@@ -452,6 +453,7 @@ Python
 * [Extended Iterable Unpacking - 어-썸한 파이썬의 맛을 보아라](http://ulismoon.tistory.com/9)
 * [**Iterables vs. Iterators vs. Generators**](https://nvie.com/posts/iterators-vs-generators/) 서로의 관계를 그림과 함께 잘 설명
 * [30 Helpful Python Snippets You Should Learn Today](https://morioh.com/p/271bc88c0100)
+* [🔝Top 29 Useful Python Snippets 🔝 That Save You Time | The Startup](https://medium.com/swlh/top-useful-python-snippets-that-save-time-38958f256822)
 * [Python — From Intermediate to Superhero](https://medium.com/@negoiddfelix/python-from-intermediate-to-superhero-1a86e518bb77) list comprehension, lambda, map, filter, reduce, locals, globals, context manager, decorator, generator
 * [Performant Python](https://strangemachines.io/articles/performant-python) tuple, generator, slotted class, namedtuple, map, filter, comprehension에 대한 테스트
 * [**If you think you know Python, think once more!**](https://github.com/satwikkansal/wtfpython)
@@ -976,6 +978,7 @@ Python
   * [강의노트 04. 파이썬 pickle 모듈](https://wayhome25.github.io/cs/2017/04/04/cs-04/)
 * print [PYTHON 디버깅: `PRINT` 함수 가로채기](http://ds.sumeun.org/?p=2119)
 * pprint
+  * [Let’s talk about “prettyprint” or pprint in python | by Antaripa Saha | Dev Genius | Medium](https://medium.com/dev-genius/lets-talk-about-prettyprint-or-pprint-in-python-ddda1fa4cf0b)
   * [pyprnt - Python Pretty Printer https://pypi.org/project/pyprnt ](https://github.com/kevink1103/pyprnt)
 * profile
   * [PROFILING IN PYTHON](http://blog.thehumangeo.com/2015/07/28/profiling-in-python/)
@@ -1055,6 +1058,7 @@ Python
   * [How We Deploy Python Code (hint: not using Git)](https://nylas.com/blog/packaging-deploying-python)
   * [The problem with packaging in Python](http://blog.ionelmc.ro/2015/02/24/the-problem-with-packaging-in-python/)
   * [From a python project to an open source package: an A to Z guide](https://medium.freecodecamp.org/from-a-python-project-to-an-open-source-package-an-a-to-z-guide-c34cb7139a22)
+  * [How to Prepare and Publish Your First Python Package | by Yong Cui, Ph.D. | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/how-to-prepare-and-publish-your-first-python-package-85de378b77f6)
   * [devpi - Python PyPi staging server and packaging, testing, release tool http://doc.devpi.net](https://github.com/devpi/devpi)
     * [practice devpi - private PyPI 서버 구성 및 사용](https://gist.github.com/hyunjun/9b16890cf3e5997cab7dcc183102d184#file-devpi-md)
 * signal
@@ -1835,6 +1839,7 @@ Python
   * [다시쓰는 Flask unittest (상편)](https://jybaek.tistory.com/805)
   * [다시쓰는 Flask unittest (하편)](https://jybaek.tistory.com/806)
   * [Automation Testing with Pytest. We live in an era where software is… | by Harshil Modi | Tenable TechBlog | Medium](https://medium.com/tenable-techblog/automation-testing-with-pytest-444c8b34ead2)
+* [How to test Flask applications | Analytics Vidhya](https://medium.com/analytics-vidhya/how-to-test-flask-applications-aef12ae5181c)
 * [Flask resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Flask/flask_resources.md)
 * [Flask의 세계에 오신것을 환영합니다](http://flask-docs-kr.readthedocs.org/ko/latest/)
 * [Flask 웹어플리케이션 구축하기](http://hamait.tistory.com/864)
@@ -2953,6 +2958,7 @@ Python
     * [github.com/spritecodej/tornado_examples](https://github.com/spritecodej/tornado_examples)
   * [Tornado WS Json API Server Boilerplate](https://github.com/shinjayne/Tornado-WS-Json-Boilerplate)
 * tox
+  * [Unit Testing in Python — tox and nox | by Martin Thoma | Python In Plain English | Medium](https://medium.com/python-in-plain-english/unit-testing-in-python-tox-and-nox-833e4bbce729)
   * [Guix-tox, a functional version of tox](http://blogs.rdoproject.org/7843/guix-tox-a-functional-version-of-tox)
 * [tqdm](https://pypi.python.org/pypi/tqdm) A Fast, Extensible Progress Meter (progress bar)
   * [파이썬 상태바 라이브러리, tqdm 알아보기](https://tariat.tistory.com/421)
@@ -3871,11 +3877,15 @@ Python
 * [Reduce testing time by Multiprocessing in python](https://www.slideshare.net/SangJuneAhn/reduce-testing-time-by-multiprocessing-in-python-138982022)
 * [Don’t trust your gut!](https://towardsdatascience.com/dont-trust-your-gut-80ace85e9747)
 * [The Template Method Pattern in Python | by Tomas Ye | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/the-template-method-pattern-in-python-72b7d6e95c96)
+* [Unit Testing in Python -The Basics | The Startup](https://medium.com/swlh/unit-testing-in-python-basics-21a9a57418a0)
+* [Unit Testing in Python — Patching, Mocks and Dependency Injection | by Martin Thoma | Level Up Coding](https://levelup.gitconnected.com/unit-testing-in-python-mocking-patching-and-dependency-injection-301280db2fed)
+* [CI Pipelines for Python Projects. What is a Continuous Integration… | by Martin Thoma | Level Up Coding](https://levelup.gitconnected.com/ci-pipelines-for-python-projects-9ac2830d2e38)
 * faker, factory boy [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
 * [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
   * [Episode #63: Validating Python tests with mutation testing](https://talkpython.fm/episodes/show/63/validating-python-tests-with-mutation-testing)
   * [Cosmic Ray: mutation testing for Python](https://github.com/sixty-north/cosmic-ray)
   * [Mutmut: a Python mutation testing system](https://hackernoon.com/mutmut-a-python-mutation-testing-system-9b9639356c78)
+  * [Mutation Testing with Python. Test the tests — automatically, by… | by Martin Thoma | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/unit-testing-in-python-mutation-testing-7a70143180d8)
 * property based testing
   * [Introduction to property-based testing](https://alexwlchan.net/talks/hypothesis-intro/)
   * [Property-based Testing from Scratch (in Python)](https://medium.com/russell-duhon/property-based-testing-from-scratch-in-python-bb1a8b56daf6)
@@ -3884,6 +3894,7 @@ Python
   * [Hypothesis with David MacIver - Episode 52](https://pythonpodcast.com/episode-52-hypothesis-with-david-maciver/)
   * [Hypothesis - a powerful, flexible, and easy to use library for property-based testing. http://hypothesis.works ](https://github.com/HypothesisWorks/hypothesis)
   * [Intro to property-based testing in Python](https://www.freecodecamp.org/news/intro-to-property-based-testing-in-python-6321e0c2f8b/)
+  * [Unit Testing in Python — Property-based Testing | Level Up Coding](https://levelup.gitconnected.com/unit-testing-in-python-property-based-testing-892a741fc119)
 * [우아하게 준비하는 테스트와 리팩토링 - 한성민](https://www.youtube.com/watch?v=S5SY2pkmOy0)
   * [우아하게 준비하는 테스트와 리팩토링 - PyCon Korea 2018](https://www.slideshare.net/KennethCeyer/pycon-korea-2018-109833085/KennethCeyer/pycon-korea-2018-109833085)
 * [**PyCon KR 2019 테스트에 걸리는 시간을 92% 줄이기**](https://speakerdeck.com/youngminkoo/pycon-kr-2019-teseuteue-geolrineun-siganeul-star-92-percent-star-juligi) 주로 Django 기반이지만 매우 좋은 내용
@@ -3913,6 +3924,7 @@ Python
   * [PyTest, the testing framework you've been dreaming of by Eli Gur](https://www.youtube.com/watch?v=l0zjVKD7rx8)
   * [**PyconKR 2019 pytest로 파이썬 코드 테스트하기**](https://www.slideshare.net/ssuser80e030/pytest-164575856)
   * [Open Sourcing Pytest Tools](https://blogs.dropbox.com/tech/2016/03/open-sourcing-pytest-tools/) pytest-flakefinder, unittest2pytest 
+  * [Structuring Unit Tests in Python | Python In Plain English](https://medium.com/python-in-plain-english/unit-testing-in-python-structure-57acd51da923)
 * [pytest-bdd - BDD library for the py.test runner](https://github.com/pytest-dev/pytest-bdd)
   * [PYTHON TESTING 101: PYTEST-BDD](https://automationpanda.com/2018/10/22/python-testing-101-pytest-bdd/)
 * [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
@@ -4004,6 +4016,7 @@ Python
   * [Part 3](http://ruslanspivak.com/lsbaws-part3/)
 * [Brython - A Python 3 implementation for client-side web programming](http://www.brython.info)
   * [파이썬을 웹에서 실행하기 :: 프즈](https://tolovefeels.tistory.com/53)
+* Falcon [An Introduction to the Falcon Framework | by Esther Vaati | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/an-introduction-to-the-falcon-framework-a787ceea098)
 * mod_wsgi
   * [What package I should install for 'pcre-devel'?](http://stackoverflow.com/questions/2263404/what-package-i-should-install-for-pcre-devel)
     * `yum install pcre-devel.x86_64 -y`
