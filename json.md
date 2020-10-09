@@ -173,6 +173,7 @@ Json
 * [JSON — The Python Way](https://medium.com/python-pandemonium/json-the-python-way-91aac95d4041)
 * [Extract Nested Data From Complex JSON Trees](https://hackingandslacking.com/extract-nested-data-from-complex-json-trees-b3d1df6b9a06)
 * [Python 으로 JSON 빨리 처리하기](https://rein.kr/blog/archives/3670) ujson 혹은 pypy를 사용하자는 이야기
+* attrs, cattrs [Single Line of Code to Interchange Between Python Objects and JSON | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/single-line-of-code-to-interchange-between-python-objects-and-json-b0f23fbaaa65)
 * [Cerberus provides powerful yet simple and lightweight data validation functionality](http://docs.python-cerberus.org/en/stable/index.html)
 * [Ijson - an iterative JSON parser with a standard Python iterator interface](https://pypi.org/project/ijson/) stream 이용
   * [파이썬으로 나무위키 JSON 덤프 데이터 파싱하기. 기계학습 등에 사용할만한 한글 데이터가 많지 않은데. 나무위키 문서는… | by 김희규 | Jul, 2020 | Medium](https://medium.com/@heegyukim/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4-json-%EB%8D%A4%ED%94%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%8B%B1%ED%95%98%EA%B8%B0-8f41cee1e155) namu-wiki-extractor
