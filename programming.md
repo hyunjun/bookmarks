@@ -2269,6 +2269,7 @@ Programming
 * [구글 애널리틱스 A/B 테스트 쉽게 하기(쿠키 + demension 활용)](https://medium.com/daangn/%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4-a-b-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EA%B8%B0-%EC%BF%A0%ED%82%A4-demension-%ED%99%9C%EC%9A%A9-6f994e1247e8)
 * [사회통계학 관점에서의 A/B 테스트](https://cojette.github.io/socialtest/)
 * [**A/B테스트에서 하면 안되는 7가지 실수**](http://mindthelog.com/2017/08/ab-testing)
+* [아마존, 에어비앤비, 넷플릭스의 AB테스트 결과 정리](https://brunch.co.kr/@digitalnative/17)
 * [codekata.com](http://codekata.com/)
 * [소프트웨어 테스팅의 False Positive](https://justhackem.wordpress.com/2018/12/20/false-positive-in-software-testing/)
 * [TDD 읽은티내기](https://brunch.co.kr/@moonjoonyoung/7)
