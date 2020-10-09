@@ -429,6 +429,7 @@ Scala
 * [Implement Event bus using Akka](https://blog.softwaremill.com/implement-event-bus-using-akka-cfbcbfafb75)
 * [Scaling Event Bus. How to scale event bus on multiple… | by Lukasz Lenart | Jun, 2020 | SoftwareMill Tech Blog](https://blog.softwaremill.com/scaling-event-bus-d0b84cc73b43)
 * [Building a Reactive, Distributed Messaging Server in Scala and Akka with WebSockets | by Nimrod Sadeh | Aug, 2020 | Medium](https://medium.com/@nnnsadeh/building-a-reactive-distributed-messaging-server-in-scala-and-akka-with-websockets-c70440c494e3)
+* [Attending a hackathon with Scala and Akka (Streams) on Microsoft Azure | The epic.blog](https://epic.blog/akka/2020/10/05/hackathon-with-scala-akka-on-azure.html)
 * [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
@@ -542,6 +543,7 @@ Scala
 * [Pattern Match Anything in Scala. What is Pattern Matching? | by Mansi Babbar | The Startup | Jun, 2020 | Medium](https://medium.com/swlh/pattern-match-anything-in-scala-3a22f5d3535)
 * [The Difference Between Null, Nothing, Nil, None and Unit in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=0_-jRrdg9Dw)
 * [Andy Scott—Code by Shape - YouTube](https://www.youtube.com/watch?v=ifPTQ9CULdk) Either, Option, List, fold(Right)
+* [The assignment operator is broken!](https://adrian-salajan.github.io//blog/2020/10/02/assigment-is-broken)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -580,7 +582,9 @@ Scala
   * [Writing functional DSLs for business domains](https://medium.com/bigdatarepublic/writing-functional-dsls-for-business-domains-1bccc5d3f62b)
 * [DynamicVariable 예제](http://knight76.tistory.com/entry/scala-DynamicVariable-%EC%98%88%EC%A0%9C)
 * Either [3 Useful Things About Scala’s Either Class That You Want To Know](https://levelup.gitconnected.com/3-useful-things-about-scalas-either-class-that-you-want-to-know-42adbe090e60)
-* ExecutionContext [Why do we need an execution context? - Wiem Zine - Medium](https://medium.com/@wiemzin/when-we-want-to-run-a-simple-code-using-future-we-get-a-compile-error-that-we-need-an-execution-ba416fca3739)
+* ExecutionContext
+  * [Why do we need an execution context? - Wiem Zine - Medium](https://medium.com/@wiemzin/when-we-want-to-run-a-simple-code-using-future-we-get-a-compile-error-that-we-need-an-execution-ba416fca3739)
+  * ContextShift [A short guide to Blocker. | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/a-short-guide-to-blocker-6cd29e145a12)
 * fold
   * [Scalaでコレクションを前後処理しつつ走査する](https://medium.com/nextbeat-engineering/scala%E3%81%A7%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E5%89%8D%E5%BE%8C%E5%87%A6%E7%90%86%E3%81%97%E3%81%A4%E3%81%A4%E8%B5%B0%E6%9F%BB%E3%81%99%E3%82%8B-401a4edb6bab) foldLeft
 * for
@@ -834,6 +838,7 @@ Scala
 * underscore
   * [변수를 사용하기 위한 underscore](http://knight76.tistory.com/entry/scala-%EC%B4%88%EA%B8%B0%ED%99%94%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EB%B3%80%EC%88%98%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-underscore)
   * [Rock the JVM | Underscores are Overloaded in Scala!](https://rockthejvm.com/blog/217450/underscores)
+* Using [Scala Prof: Using: Did they forget something?](http://scalaprof.blogspot.com/2020/10/using-did-they-forget-something.html)
 
 # Architecture
 * [Importance of Plugin-based Architecture on SCALA](https://medium.com/@4waytechnologies01/importance-of-plugin-based-architecture-on-scala-7d4f7e3a4277)
@@ -862,6 +867,7 @@ Scala
 * [Modern Systems Programming with Scala Native Write Lean, High-Performance Code without the JVM](https://pragprog.com/book/rwscala/modern-systems-programming-with-scala-native)
 * [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais/read)
 * Programming in Scala [Code Examples for Programming in Scala, Third Edition](https://booksites.artima.com/programming_in_scala_3ed/examples/index.html)
+* [Programming Scala, Third Edition. New language version, new edition | by Dean Wampler | Oct, 2020 | Medium](https://medium.com/@deanwampler/programming-scala-third-edition-7ee98fc403bd)
 * [Scala Book: Free PDF, Mobi, and ePub versions](https://alvinalexander.com/scala/scala-book-free/)
 * [Seriously Good Software](https://www.manning.com/books/seriously-good-software)
   * [**Seriously Good Software**](https://docs.google.com/presentation/d/e/2PACX-1vR8mEHa7gi5qhrdCwzOGnACdWxYb4kZERtscQIRZkYnH4rBNo7-ZZ4wXLD1DbUwJkwW83OhezYFjRmH/pub) 전반적인 설계 흐름을 볼 수 있는 슬라이드
@@ -1372,6 +1378,7 @@ Scala
 * [Tagless Final - Part 10 - main-postgres-skunk (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=kafn3qKd9Pw)
 * [Tagless Final - Part 11 - main-http-http4s (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=N-7vQl7HH8k)
 * [Tagless Final - Part 12 - delivery-http-http4s (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=zymyPaYHa-I)
+* [Tagless Final - Part 13 - parse, don't validate (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=2pB4CfQxSH4)
 * [Scala 3 - TF related improvements (mostly #implicits) - YouTube](https://www.youtube.com/watch?v=0MPfFBctWUc)
 
 # Monoids
@@ -1471,6 +1478,7 @@ Scala
 * [Announcing the Moving from Scala 2 to Scala 3 course – Lunatech](https://www.lunatech.com/2020/06/announcing-the-moving-from-scala-2-to-scala-3-course/)
   * [lunatech-scala-2-to-scala3-course/exercises](https://github.com/lunatech-labs/lunatech-scala-2-to-scala3-course/tree/exercises-master/exercises)
 * [#Opaque types in #Scala 2 and 3 - YouTube](https://www.youtube.com/watch?v=WyvawRRuU2c)
+* [Scala 3: Opaque Types | Rock the JVM - YouTube](https://www.youtube.com/watch?v=8-b2AoctkiY&feature=youtu.be)
 * [Annoying things in Scala 2 that’ll be (mostly) gone in Scala 3 | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/annoying-things-in-scala-2-thatll-be-mostly-gone-in-scala-3-e1479a6d855c)
 * [Scala 3: Enums | Rock the JVM - YouTube](https://www.youtube.com/watch?v=QnrXubpILu4)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
