@@ -1878,6 +1878,7 @@ Javascript
   * [Top 5 Reasons Javascript Developers Prefer Deno Over Node | by Dan Halperin | Level Up Coding](https://levelup.gitconnected.com/top-5-reasons-javascript-developers-prefer-deno-over-node-b1ff01734811)
   * [Build a Simple Rest API with Deno and Express | Medium | Level Up Coding](https://levelup.gitconnected.com/build-a-simple-rest-api-with-deno-and-express-b0b62e52c230)
   * [Deno Loves WebAssembly](https://www.infoq.com/articles/deno-loves-webassembly/)
+  * [Deno: Create Your First Web Application in Oak | by Miroslav Pillar | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/deno-create-your-first-web-application-in-oak-884868f8b30e)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
