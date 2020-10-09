@@ -162,6 +162,7 @@ Android
 * [Context와 ApplicationContext 언제 사용해야 할까요?](https://developer88.tistory.com/224)
 * [Pluu Dev - AndroidX Activity ~ ContextAware](http://pluu.github.io/blog/android/2020/09/30/contextaware/)
 * [Android WebView 설정하고 로딩하는 방법 정리](https://developer88.tistory.com/267)
+* [5 Android WebView Secrets You (Probably) Didn’t Know | by Anupam Chugh | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/5-android-webview-secrets-you-probably-didnt-know-b23f8a8b5a0c)
 * [RadioButton과 RadioGroup에 대한 정리](https://developer88.tistory.com/268)
 * [BuildTypes와 Flavor를 이용해 안드로이드 환경변수 설정하는 방법](https://developer88.tistory.com/234)
 * [안드로이드의 BuildConfig 활용](http://sunphiz.me/wp/archives/3557)
