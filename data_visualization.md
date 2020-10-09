@@ -140,6 +140,7 @@ Data Visualization
 * [Data Visualization with D3.js - Full Tutorial Course](https://www.youtube.com/watch?v=_8V5o2UHG0E)
 * [How to learn D3.js](https://wattenberger.com/blog/d3)
 * [Learn D3: Introduction](https://observablehq.com/@d3/learn-d3)
+* [D3.js — How to Make a Beautiful Bar Chart With The Most Powerful Visualization Library | by Dario Radečić | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/d3-js-how-to-make-a-beautiful-bar-chart-with-the-most-powerful-visualization-library-9bea4e00349a)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
