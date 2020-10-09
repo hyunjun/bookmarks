@@ -150,6 +150,7 @@ Java
   * [java의 hashtable 대신에 왜 다른 것을 권장할까요](https://codingdog.tistory.com/entry/java%EC%9D%98-hashtable-%EB%8C%80%EC%8B%A0%EC%97%90-%EC%99%9C-%EB%8B%A4%EB%A5%B8-%EA%B2%83%EC%9D%84-%EA%B6%8C%EC%9E%A5%ED%95%A0%EA%B9%8C%EC%9A%94)
   * [해시 테이블 (Hash Table) 배우기. Java 의 컬렉션 클래스 (Collection Class) 중에… | by Bryant Jimin Son | Aug, 2020 | Medium](https://medium.com/@bryantjiminson/%ED%95%B4%EC%8B%9C-%ED%85%8C%EC%9D%B4%EB%B8%94-hash-table-%EB%B0%B0%EC%9A%B0%EA%B8%B0-a9323162e13)
   * [같은 것 같지만 다른 java map get vs containskey](https://codingdog.tistory.com/entry/%EA%B0%99%EC%9D%80-%EA%B2%83-%EA%B0%99%EC%A7%80%EB%A7%8C-%EB%8B%A4%EB%A5%B8-java-map-get-vs-containskey)
+  * [왜 mutable한 객체를 java map의 키 값으로 삼으면 조심해야 할까요?](https://codingdog.tistory.com/entry/%EC%99%9C-mutable%ED%95%9C-%EA%B0%9D%EC%B2%B4%EB%A5%BC-java-map%EC%9D%98-%ED%82%A4-%EA%B0%92%EC%9C%BC%EB%A1%9C-%EC%82%BC%EC%9C%BC%EB%A9%B4-%EC%A1%B0%EC%8B%AC%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
   * [자바 arrayList addAll 메서드 : 어디서 오버헤드가 걸리는지 간단하게 분석해 봅시다.](https://codingdog.tistory.com/entry/%EC%9E%90%EB%B0%94-arrayList-addAll-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%96%B4%EB%94%94%EC%84%9C-%EC%98%A4%EB%B2%84%ED%97%A4%EB%93%9C%EA%B0%80-%EA%B1%B8%EB%A6%AC%EB%8A%94%EC%A7%80-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EB%B6%84%EC%84%9D%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * Comparable, Comparator
   * [Java 배열 및 ArrayList를 Comparable과 Comparator를 이용해 정렬하기](http://developer88.tistory.com/75)
