@@ -381,6 +381,7 @@ Programming
 * [ENG 애자일 코치, 스크럼 마스터? 직장인 리더십의 진정한 조건! | 일하는 우리 | - YouTube](https://www.youtube.com/watch?v=U67CRZFwZTQ)
 * [IT 알려주는 은행원 애자일 전문가 되는 비법 공개 - YouTube](https://www.youtube.com/watch?v=QJ4zM8CAKp0)
 * [스크럼에 대한 경험 및 개인적인 생각 - FutureSeller](https://future-seller.dev/posts/scrum-experience)
+* [Sprint & Jira](https://www.slideshare.net/seokjoonyun9/sprint-jira)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
