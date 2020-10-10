@@ -107,6 +107,7 @@ Functional Programming
 * [프로그래머를 위한 논리학 - 1](https://ailrun.github.io/ko/post/logic-for-programmers-001/)
 * [The Essence of Functional Programming](https://medium.com/@Ratik96/the-essence-of-functional-programming-b6c7f6b74aee)
 * [The Functional Sandwich Principle](https://medium.com/walkme-engineering/the-functional-sandwich-principal-e6d138f6a579)
+* [GOTO 2018 • Functional Programming in 40 Minutes • Russ Olsen - YouTube](https://www.youtube.com/watch?v=0if71HOyVjY)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
@@ -331,6 +332,13 @@ Functional Programming
 * [A functional standard library for Python http://toolz.readthedocs.org ](https://github.com/pytoolz/toolz)
 * [Episode #117: Functional Python with Coconut](https://talkpython.fm/episodes/show/117/functional-python-with-coconut)
 * [Elements of Functional Programming in Python](https://towardsdatascience.com/elements-of-functional-programming-in-python-1b295ea5bbe0)
+* [Daniel Kirsch - Functional Programming in Python - YouTube](https://www.youtube.com/watch?v=r2eZ7lhqzNE)
+* [Monads, in my Python? by Xuanyi Chew - YouTube](https://www.youtube.com/watch?v=WNwV3wR4JjA)
+* [Monads in Python: Why and How? - YouTube](https://www.youtube.com/watch?v=26jVysJHB-s)
+  * [vincent-prz/monad_comprehension.py](https://github.com/vincent-prz/monad_comprehension.py)
+  * [Pythonic monads](https://slides.com/v-perez/pythonic-monads-in-real-life-8e03b9)
+  * [https://ftp.belnet.be/mirror/FOSDEM/2020/UB2.252A/python2020_monads.webm](https://ftp.belnet.be/mirror/FOSDEM/2020/UB2.252A/python2020_monads.webm)
+  * [practice/python/test-monad](https://github.com/hyunjun/practice/tree/master/python/test-monad)
 * [Pycket: A Tracing JIT For a Functional Language](http://lambda-the-ultimate.org/node/5152)
 * scalaps [Introducing scalaps: Scala-inspired data structures for Python](https://medium.com/@matthagy/introducing-scalaps-scala-inspired-data-structures-for-python-53f3afc8696)
 
