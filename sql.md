@@ -213,6 +213,7 @@ SQL
 # MySQL
 * practice
   * [비개발자를 위한 MySQL](https://github.com/kciter/MySQLForNonDeveloper/blob/master/README.md)
+  * [개발했더니 내 서재였던 건에 대하여 - 리디주식회사 RIDI Corporation](https://www.ridicorp.com/blog/2020/05/12/got-developed-as-a-my-library/)
   * [queries](https://gist.github.com/hyunjun/17e9b03a1b0faa38c662) 비밀번호 변경 등 기타 명령도 포함
     * [MySQL 비밀번호 분실, 초기화 방법 (DB관리자 필수로 알아둘 내용) - YouTube](https://www.youtube.com/watch?v=50dECqfg0xU)
   * [use case](https://gist.github.com/hyunjun/0d56ce004f1db78d4eff4d2842575581)
