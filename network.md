@@ -123,6 +123,7 @@ Network
 * [**How HTTPS works - How HTTPS works**](https://howhttps.works/ko/)
 
 ## HTTPS SSL
+* [HTTPS와 SSL 인증서 - 생활코딩](https://opentutorials.org/course/228/4894)
 * [practice - ssl certificate 교체](https://gist.github.com/hyunjun/4dd32ed70705f287c8893882aabbe100#file-ref-md)
 * [HTTPS와 SSL 인증서, SSL 동작방법](https://wayhome25.github.io/cs/2018/03/11/ssl-https/)
 * [How does SSL/TLS make HTTPS secure?](https://hackernoon.com/how-does-ssl-tls-make-https-secure-d247bd4e4cae)
