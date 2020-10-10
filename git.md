@@ -289,6 +289,7 @@ Git
   * [Rename a local and remote branch in git](https://multiplestates.wordpress.com/2015/02/05/rename-a-local-and-remote-branch-in-git/)
   * [git push -u origin master의 비밀](https://blog.naver.com/codeitofficial/221946628621)
   * [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
+  * [Git의 기본 브랜치를 master에서 main으로 변경하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1503)
 * checkout
   * `git checkout [branch name] -- [file name]` [checkout specific files from another branch](http://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/)
   * `git checkout HEAD -- path/to/file.txt` [Find and restore a deleted file in a Git repository](http://stackoverflow.com/questions/953481/find-and-restore-a-deleted-file-in-a-git-repository)
