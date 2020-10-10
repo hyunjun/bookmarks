@@ -126,6 +126,7 @@ Json
     # yum install jq -y
     ```
 * [jsawk - Like awk, but for JSON http://thinkminimo.com](https://github.com/micha/jsawk)
+* [json2table.com](http://json2table.com/)
 * [json-chance - Create random JSON objects using json-spawn and Chance.js](https://github.com/luisfarzati/json-chance)
 * [JSONConfigurablePersonalSite - A JSON configurable personal site; example site: http://www.christophior.com](https://github.com/christophior/JSONConfigurablePersonalSite)
 * [Json Data Generator - A robust, generic, streaming random json data generator for your data](https://github.com/acesinc/json-data-generator)
