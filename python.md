@@ -688,6 +688,7 @@ Python
   * [dotnetperls.com/bytes-python](https://www.dotnetperls.com/bytes-python)
   * [The only problem with Python 3's str is that you don't grok it](https://drewdevault.com/2017/01/13/The-problem-with-Python-3.html)
   * [Character Encoding in python](https://www.slideshare.net/daesung7kang/character-encoding-in-python)
+  * [Python one-liner to print Roman numerals](https://www.johndcook.com/blog/2020/10/07/roman-numerals/)
 * exception
   * [예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
   * [Alex Martelli - Exception and error handling in Python 2 and Python 3 - PyCon 2016](https://www.youtube.com/watch?v=frZrBgWHJdY)
