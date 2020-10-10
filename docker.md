@@ -142,7 +142,7 @@ Docker
     * [example of auto-build deep learning development environment, using nvidia-docker+packer+ansible](https://github.com/EJSohn/nvidia-packer-docker-ansible)
     * [nvidia-docker로 개발환경 한방에 세팅하기](https://jybaek.tistory.com/791)
     * [nvidia-docker Installation in Ubuntu](https://jybaek.tistory.com/796)
-    * [Introducing Deep Learning Containers: Consistent and portable environments](https://cloud.google.com/blog/products/ai-machine-learning/introducing-deep-learning-containers-consistent-and-portable-environments?utm_source=Deep%2BLearning%2BWeekly&utm_campaign=510c8a6e01-EMAIL_CAMPAIGN_2019_04_24_03_18_COPY_01&utm_medium=email&utm_term=0_384567b42d-510c8a6e01-72941949)
+    * [Introducing Deep Learning Containers: Consistent and portable environments](https://cloud.google.com/blog/products/ai-machine-learning/introducing-deep-learning-containers-consistent-and-portable-environments)
       * Tensorflow, PyTorch, R 포함. TensorFlow의 경우 하드웨어 최적화된 버전이 Docker 이미지에 포함 (다른 이미지들도 최적화 되었지만, TensorFlow가 특히 더)
       * 총 세가지 환경에 대해서 손쉽게 배포/사용 가능. 기본적으로 JupyterLab 패키지 동봉 (물론, base 이미지에, 자신만의 패키지 추가 가능)
       * 로컬 환경 (gcr.io Registry에 존재하는 이미지 + 커스텀 패키지) 구동
