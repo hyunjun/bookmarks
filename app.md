@@ -526,6 +526,7 @@ App
       * [아직도 쥬피터노트북을 사용하시나요? - YouTube](https://www.youtube.com/watch?v=kQHk-sMB5HA)
       * [How to correctly set PYTHONPATH for Visual Studio Code - Stack Overflow](https://stackoverflow.com/questions/53653083/how-to-correctly-set-pythonpath-for-visual-studio-code)
       * [Has VS Code Become the Best IDE for Python? | Young Coder | Matthew MacDonald | Young Coder](https://medium.com/young-coder/has-vs-code-become-the-best-ide-for-python-bf0f92d2aef4)
+      * [VSCode on Google Colab](https://amitness.com/vscode-on-colab/)
     * remote
       * [마이크로소프트 비주얼 스튜디오 코드, 원격 개발 기능 지원](https://www.44bits.io/ko/post/news--vs-code-now-supports-remote-development)
       * [Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
@@ -643,6 +644,7 @@ App
   5. [OBS 스튜디오](https://obsproject.com/ko)
     * 오픈소스 방송 프로그램. 화면 녹화, 게임 실시간 스트리밍, 녹음 등 인터넷 방송에 필요한 대부분의 기능 사용 가능
     * [Niek/obs-web: OBS-web - the easiest way to control OBS remotely](https://github.com/Niek/obs-web)
+    * [OBS Studio - OBS 스튜디오 가이드 - StreamLabs.kr](https://streamlabs.kr/obs-studio-guide/)
   6. [나트론 Natron](https://natrongithub.github.io)
     * 오픈 소스 노드 기반 합성 프로그램. 오픈 소스 및 상용 OpenFX 플러그인 지원. 다양한 VFX 이펙트를 만들거나 여러 영상을 노드 형식으로 합성 가능
   7. [잉크스케이프 Inkscape](https://inkscape.org/ko)
@@ -981,6 +983,7 @@ App
   * [페리스코프와 미어캣: 소셜미디어의 새로운 시대](http://newspeppermint.com/2015/04/02/m-broadcasting/)
 * [따뜻한 디지털, 저작권 픽사 렌더링 SW 무료로 쓰세요…비영리 용도로만](http://www.bloter.net/archives/223838)
 * [동물의 시선으로 세상을 바라보면…](http://techholic.co.kr/archives/38707)
+* ['제법 쓸 만 하다' 무료 동영상 편집 SW 5선 - CIO Korea](http://www.ciokorea.com/news/40273)
 * audacity [오픈소스 오디오 편집툴 : Audacity](https://jybaek.tistory.com/801)
 * AVPlayer [How to set up video streaming in your app with AVPlayer](https://medium.freecodecamp.org/how-to-set-up-video-streaming-in-your-app-with-avplayer-7dc21bb82f3)
 * [awesomevideoplayer.com](http://www.awesomevideoplayer.com/) multi screen 동시 조작 가능
