@@ -2094,6 +2094,7 @@ Python
 * [IPython: An Interactive Computing and Development Environment](http://nbviewer.ipython.org/gist/irobii/014b8aa3574090a0d04a)
 * [IPython: interactive computing in Python](https://github.com/ipython)
 * [A gallery of interesting IPython Notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks)
+* [**Jupyter Notebooks Gallery | notebook.community**](https://notebook.community/)
 * [Plotly for IPython Notebooks](https://plot.ly/ipython-notebooks/big-data-analytics-with-pandas-and-sqlite/)
 * [Plotly for IPython Notebooks](https://plot.ly/ipython-notebooks/survival-analysis-r-vs-python/)
 * [Plotly 와 파이썬을 이용해서 모던한 차트 만들기](http://hamait.tistory.com/800)
@@ -2254,7 +2255,6 @@ Python
 * [무료 파이썬 노트북 서비스 5종류 비교 (feat.머신러닝)](https://medium.com/@salaryup/%EB%AC%B4%EB%A3%8C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%85%B8%ED%8A%B8%EB%B6%81-%EC%84%9C%EB%B9%84%EC%8A%A4-5%EC%A2%85%EB%A5%98-%EB%B9%84%EA%B5%90-feat-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-c03246f43516)
 * [Jupyter is the new Excel (but not for your boss)](https://towardsdatascience.com/jupyter-is-the-new-excel-but-not-for-your-boss-d24340ebf314)
 * [주피터 노트북에서 Interactive Widget 사용하기](https://junpyopark.github.io/interactive_jupyter/)
-* [A gallery of interesting Jupyter Notebooks](https://github.com/jupyter/jupyter/wiki/A-gallery-of-interesting-Jupyter-Notebooks)
 * [github.com/practical-jupyter/sample-code](https://github.com/practical-jupyter/sample-code)
 * [jupyter notebook(주피터 노트북) 사용법](https://www.youtube.com/watch?v=jmk-3G8FYII)
 * [주피터 노트북 초기 환경설정 BEST3!](https://tariat.tistory.com/741)
@@ -2401,6 +2401,7 @@ Python
   * [명품강의를 찾아서 #3 Colab에서 Neural Network만들기](https://www.youtube.com/watch?v=YXr1veBB0dk)
   * [Google Colab Tips for Power Users - Amit Chaudhary](https://amitness.com/2020/06/google-colaboratory-tips/)
   * [구글드라이브에서 파이썬 사용하기 : 클리앙](https://www.clien.net/service/board/lecture/15171774)
+  * [**Configuring Google Colab Like A Pro | by Made-Up Masters | Aug, 2020 | Medium**](https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573)
 * [Jupyter Enterprise Gateway](https://jupyter-enterprise-gateway.readthedocs.io)
   * [Jupyter Enterprise Gateway](https://developer.ibm.com/open/projects/jupyter-enterprise-gateway/)
 * [**jupyter.nims.re.kr**](https://jupyter.nims.re.kr/) github api 연동, keras 사용 가능
