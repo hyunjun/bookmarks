@@ -1118,6 +1118,7 @@ Machine Learning
 * [ann-writer - An artificial machine learning program that attempts to impersonate the writing style of any given text training set](https://github.com/JacobPlaster/ann-writer)
 * [baal - Using approximate bayesian posteriors in deep nets for active learning](https://github.com/ElementAI/baal)
 * [Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML](https://github.com/uber/causalml)
+* [igel: a machine learning tool that allows to train, test and use models without writing code](https://github.com/nidhaloff/igel)
 * [JAX: Autograd and XLA](https://github.com/google/jax)
   * [ML 최적화 1. JIT & google JAX](https://brunch.co.kr/@chris-song/99)
   * [Flax: A neural network library for JAX designed for flexibility](https://github.com/google-research/flax)
@@ -1134,6 +1135,7 @@ Machine Learning
 * Neptune
   * [머신러닝 Experiment Management 쉽게 하기(feat. neptune ai)](https://zzsza.github.io/mlops/2020/03/22/ml-experiment-management-using-neptune-ai/)
   * [Neptune...? 은 또 뭐여.. · Jerry's Blog](https://jjerry-k.github.io/deeplearning/2020/07/23/neptune/)
+* [optuna: A hyperparameter optimization framework](https://github.com/optuna/optuna)
 * [Orange - Open source machine learning and data visualization for novice and expert. Interactive data analysis workflows with a large toolbox](https://orange.biolab.si/)
 * [PHOTONAI](https://www.photon-ai.com/)
   * [21 Techniques to Write Better Code - The Startup - Medium](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
@@ -1263,6 +1265,7 @@ Machine Learning
 
 # TDD, Test
 * [How to unit test machine learning code](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
+* [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
 * [drifter_ml - ML Testing](https://github.com/EricSchles/drifter_ml)
 
 # Theano
