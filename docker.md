@@ -168,6 +168,8 @@ Docker
     * [node.js 도커(docker) 기반으로 배포하기](https://blog.naver.com/pjt3591oo/222010156379)
     * [Docker Best Practices for Node Developers](https://morioh.com/p/7dea17309e0e)
     * [Docker best practices with Node.js - DEV](https://dev.to/nodepractices/docker-best-practices-with-node-js-4ln4)
+    * [Dockerize Your Development Environment in VS Code | by Niall Joe Maher | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/dockerize-your-development-environment-in-vs-code-d55ba8d705a9)
+    * [Here’s How You Can Use Docker With React | by Indrek Lasn | Better Programming | Medium](https://medium.com/better-programming/heres-how-you-can-use-docker-with-create-react-app-3ee3a972b04e)
   * jenkins
     * [Combining Jenkins and Docker for Continuously Running Instances](http://www.focusedsupport.com/blog/beyond-builds-combining-jenkins-and-docker-for-continuously-running-instances/)
   * [**jupyter-repo2docker**](https://repo2docker.readthedocs.io)
@@ -177,6 +179,7 @@ Docker
     * [Running Kafka 1.0 in Docker](https://medium.com/@teivah/running-kafka-1-0-in-docker-1dd04b5bc23c)
     * [Kafka 1.1 Docker Image](https://medium.com/@teivah/kafka-1-1-docker-image-5e4e9aac201d)
     * [**Kafka Docker: Run Multiple Kafka Brokers and ZooKeeper Services in Docker**](https://medium.com/better-programming/kafka-docker-run-multiple-kafka-brokers-and-zookeeper-services-in-docker-3ab287056fd5)
+    * [The five reasons why distributed architectures powered by Kafka overpass classical software designs | by Jaime Dantas | Reverse Engineering | Sep, 2020 | Medium](https://medium.com/reverse-engineering/the-five-reasons-why-distributed-architectures-powered-by-kafka-overpass-classical-software-designs-e10726a6c3be)
   * [kernel builder](https://github.com/memnoth-projects/docker-kernel-builder)
   * MongoDB [Docker 를 사용해 Database 간단하게 구축하기 (Mongodb)](https://woolbro.tistory.com/90)
   * [mysql-server](https://hub.docker.com/r/mysql/mysql-server/)
@@ -826,6 +829,7 @@ Docker
 * ['대세' 쿠버네티스, 문제는 '보안'··· 베스트 보안 프랙티스 5가지 - CIO Korea](http://www.ciokorea.com/news/163115)
 * [10 Anti-Patterns for Kubernetes Deployments | by Becca Bau | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/10-antipatterns-for-kubernetes-deployments-e97ce1199f2d)
 * [우리는 불편함을 어떻게 마주하고 있는가 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/10/06/thiiing-system-improvement.html)
+* [Kubernetes에서 NFS(EFS) 사용하기 | PSH's Blog](https://pseonghoon.github.io/post/k8s-and-nfs)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
