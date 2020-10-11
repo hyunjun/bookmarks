@@ -207,6 +207,7 @@
 * [RUST and PYTHON (or Why 'Matching' Them Is A Good Idea)](https://www.youtube.com/watch?v=21CxWcca5ho)
 * [Armin Ronacher: A Python and Rust love story](https://www.youtube.com/watch?v=zmtHaZG7pPc)
 * ['어려운' C를 '만만한' 러스트로··· 러스트-파이썬 변환 프로젝트 확산 - CIO Korea](http://www.ciokorea.com/news/35023)
+* [From Python to Rust. My first language was Python. I entered… | by maxwell flitton | Level Up Coding](https://levelup.gitconnected.com/from-python-to-rust-fc43d6985670)
 
 # Tutorial
 * [The Rust Programming Language](http://doc.rust-lang.org/nightly/book/)
