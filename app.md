@@ -984,6 +984,7 @@ App
 * [따뜻한 디지털, 저작권 픽사 렌더링 SW 무료로 쓰세요…비영리 용도로만](http://www.bloter.net/archives/223838)
 * [동물의 시선으로 세상을 바라보면…](http://techholic.co.kr/archives/38707)
 * ['제법 쓸 만 하다' 무료 동영상 편집 SW 5선 - CIO Korea](http://www.ciokorea.com/news/40273)
+* [2020 최고의 사진 측량 소프트웨어 : 네이버 블로그](https://blog.naver.com/j1392497/222111621788)
 * audacity [오픈소스 오디오 편집툴 : Audacity](https://jybaek.tistory.com/801)
 * AVPlayer [How to set up video streaming in your app with AVPlayer](https://medium.freecodecamp.org/how-to-set-up-video-streaming-in-your-app-with-avplayer-7dc21bb82f3)
 * [awesomevideoplayer.com](http://www.awesomevideoplayer.com/) multi screen 동시 조작 가능
