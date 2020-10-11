@@ -171,6 +171,7 @@ Vim
 * [Vim for humans | Free price ebook](https://vimebook.com/en)
 * [(리눅스 업스킬 도전 #6) vim 익숙해지기](https://jhrogue.blogspot.com/2020/09/6-vim.html)
 * [Vim Isn’t That Scary. Here are 5 free resources you can use… | by Fatos Morina | Better Programming | Medium](https://medium.com/better-programming/vim-isnt-that-scary-here-are-5-free-resources-you-can-use-to-learn-it-5bba109a7422)
+* [Switching from Visual Studio Code to Vim: the basics. | by Laura Davies | The Startup | Medium](https://medium.com/swlh/switching-from-visual-studio-code-to-vim-the-basics-f2bb40f5a8a3)
 
 # Book
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro/read_full)
