@@ -1967,6 +1967,7 @@ Deep Learning
 * [Recurrent Neural Networks by Example in Python](https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470)
 * [Animated RNN, LSTM and GRU - Recurrent neural network cells in GIFs](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45)
 * [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
+* [Long Short-Term Memory Networks Are Dying: What’s Replacing It? | by Andre Ye | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/long-short-term-memory-networks-are-dying-whats-replacing-it-5ff3a99399fe)
 * [Understanding A Recurrent Neural Network For Image Generation](https://hackernoon.com/understanding-a-recurrent-neural-network-for-image-generation-7e2f83wdg)
 
 # Neuroevolution
