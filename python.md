@@ -848,6 +848,7 @@ Python
   * [**PyCon Korea 2019 리얼월드 메타클래스**](https://slides.com/seonghyeonkim/pyconkr-realworld-metaclass) 매우 좋은 발표 내용
   * [리얼월드 메타클래스](https://seonghyeon.dev/realworld-metaclass/)
   * [Python Reflection and Introspection | by Jamie Bullock | Better Programming | Medium](https://medium.com/better-programming/python-reflection-and-introspection-97b348be54d8)
+  * [How to Create Lazy Attributes to Improve Performance in Python | by Yong Cui, Ph.D. | Better Programming | Medium](https://medium.com/better-programming/how-to-create-lazy-attributes-to-improve-performance-in-python-b369fd72e1b6) @property decorator, `__getattr__`
 * method
   * [파이썬 더블 언더스코어: Magic Method](https://corikachu.github.io/articles/python/python-magic-method)
   * [파이썬 언더스코어`_`에 대하여](https://mingrammer.com/underscore-in-python)
