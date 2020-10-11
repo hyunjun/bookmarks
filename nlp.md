@@ -335,6 +335,7 @@ NLP
 * [badword_check: 딥러닝을 통한 한글 욕설 분류 프로젝트](https://github.com/Nam-SW/badword_check)
 * [**위클리 NLP - jiho-ml**](https://www.jiho-ml.com/tag/weekly-nlp/)
 * [Google AI Blog: Advancing NLP with Efficient Projection-Based Model Architectures](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html) GPT-3와 반대로 적은 parameter로 만드는 model에 대한 이야기
+* [Automate Data Cleaning with Unsupervised Learning | by Marco Cerliani | Towards Data Science](https://towardsdatascience.com/automate-data-cleaning-with-unsupervised-learning-2046ef59ac17)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -828,6 +829,10 @@ NLP
   * [huggingface.co/nlp/viewer](https://huggingface.co/nlp/viewer/)
   * [ML (Huggingface transformers) coding tips from Yannic Kilcher](https://www.notion.so/ML-Huggingface-transformers-coding-tips-from-Yannic-Kilcher-30b4d8298bfb45cba199d4f1651a1d9f)
   * [A small timing experiment on the new Tokenizers library — a write-up](https://towardsdatascience.com/a-small-timing-experiment-on-the-new-tokenizers-library-a-write-up-7caab6f80ea6)
+* [3 Natural Language Processing Tools From AWS to Python | by SeattleDataGuy | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/3-natural-language-processing-tools-from-aws-to-python-954dbb34b189)
+  * [Amazon Comprehend - Natural Language Processing (NLP) and Machine Learning (ML)](https://aws.amazon.com/comprehend/)
+  * [Cloud Natural Language  |  Google Cloud](https://cloud.google.com/natural-language)
+  * [TextBlob: Simplified Text Processing](https://textblob.readthedocs.io/)
 * [꼬꼬마 프로젝트!](http://kkma.snu.ac.kr/)
 * 날개셋
   * [다음 버전 개발 근황](http://moogi.new21.org/tc/1360)
