@@ -56,6 +56,7 @@ Data Science
 * [데이터 아키텍처의 변화](https://data-engineer-song.tistory.com/2) ETL -> ELT
 * [I want to study Data Science Wiki](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki) 한글
 * [A Beginner’s Guide to the Data Science Pipeline](https://www.kdnuggets.com/2018/05/beginners-guide-data-science-pipeline.html)
+* [Big Data Pipeline Recipe. Introduction | by Javier Ramos | Aug, 2020 | ITNEXT](https://itnext.io/big-data-pipeline-recipe-c416c1782908)
 * [How to jump into Data Science](https://www.youtube.com/watch?v=FGuGg9F2VUs)
 * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 * [Data Engineers are in Greater Demand than Data Scientists](https://www.infoworks.io/2018/04/23/data-engineers-greater-demand-data-scientists/)
