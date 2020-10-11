@@ -1437,6 +1437,7 @@ Javascript
   * [Up and running with Svelte - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/svelte-tutorials-1-1f49699da2c0)
   * [Compile Svelte in your head - SingaporeJS - YouTube](https://www.youtube.com/watch?v=eGHGJyxJAMk)
   * [Getting started with Svelte - Learn web development | MDN](https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_getting_started)
+  * [초보자에게 추천하는 svelte. svelte라는 프론트엔드 프레임워크는 개인적으로 프론트엔드 개발을… | by freeseamew | hollo coding story | Oct, 2020 | Medium](https://medium.com/freeseamew/svelte-%EC%B4%88%EB%B3%B4-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B6%94%EC%B2%9C-%EC%9D%B4%EC%9C%A0-28ff98e5fb4a)
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
 * [SweetAlert](https://sweetalert.js.org/)
 * [TableSorter.js 로 Sorting 개발하기](https://brunch.co.kr/@ourlove/76)
