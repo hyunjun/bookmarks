@@ -195,6 +195,7 @@ SQL
 * [ClustrixDB](https://mariadb.com/products/clustrixdb/) distributed RDB
 * [mariadb-cdc로 MariaDB CDC 사용하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/mariadb-cdc-intro)
 * SkySQL [Jacob's Cafe :: 수십억건 데이터 처리를 위한 MariaDB Analytics (SkySQL)](https://calebpro.tistory.com/628)
+* [Testcontainers로 Mariadb 연동 통합 테스트하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/mariadb-integration-test-using-testcontainers)
 
 # MSSQL MS SQL
 * [practice - case when](https://gist.github.com/hyunjun/ac68186c394a0f4bb882b48fca9fd27a#file-case_when-md)
