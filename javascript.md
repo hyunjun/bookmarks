@@ -754,6 +754,7 @@ Javascript
 * [A Better Way to Pass Data to your Angular Components](https://medium.com/swlh/a-better-way-to-pass-data-to-your-angular-components-e8b5ef6a642a)
 * [Angular 10 in depth - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/angular-10-in-depth-a48a3a7dd1a7)
 * [Angular — Four Red Flags for Weak Conceptual Knowledge](https://medium.com/@liutingchun_95744/angular-four-common-red-flags-for-weak-conceptual-knowledge-cf3a75e1860c)
+* [Storybook with Angular 10 | By: Jake Cyr | The Startup](https://medium.com/swlh/setup-storybook-with-angular-10-d4203099a2f)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
