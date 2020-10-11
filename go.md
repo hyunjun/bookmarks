@@ -273,6 +273,7 @@ Go
 * [Reading 16GB File in Seconds, Golang | by Ohm Patel | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/processing-16gb-file-in-seconds-go-lang-3982c235dfa2)
 * [Introduction to Golang's pointers (Go programming language) - YouTube](https://www.youtube.com/watch?v=dRsL_4ghmfE)
 * [Go: 필드가 많은 구조체의 marshaling/unmarshaling](https://jusths.tistory.com/174)
+* [Go: How Does a Program Recover?. Panics in Go are triggered when the… | by Vincent Blanchon | A Journey With Go | Oct, 2020 | Medium](https://medium.com/a-journey-with-go/go-how-does-a-program-recover-fbbbf27cc31e) defer panic WaitGroup
 * array
   * [The anatomy of Arrays in Go](https://medium.com/rungo/the-anatomy-of-arrays-in-go-24429e4491b7)
   * [Go: Slice and Memory Management](https://medium.com/a-journey-with-go/go-slice-and-memory-management-670498bb52be)
@@ -608,6 +609,7 @@ Go
 * [Build You Own Web Framework In Go](https://www.nicolasmerouze.com/build-web-framework-golang/)
 * [How I Structure Web Servers in Go](https://www.dudley.codes/posts/2020.05.19-golang-structure-web-servers/)
 * [Deploy a Golang Web Application Behind Nginx](https://hackingandslacking.com/deploy-a-golang-web-application-behind-nginx-fb36ba6ece22)
+* [7 Reasons Why Front End Developers Going Full Stack Should Choose Go | by Jeremy Morgan | Aug, 2020 | codeburst](https://codeburst.io/7-reasons-why-front-end-developers-going-full-stack-should-choose-go-294ec94cf900)
 * [Beego Framework An open source framework to build and develop your applications in the Go way](https://beego.me)
   * [Beego (Go application framework) 초간단 사용 소감](http://www.popit.kr/beego-go-application-framework-%EC%B4%88%EA%B0%84%EB%8B%A8-%EC%82%AC%EC%9A%A9-%EC%86%8C%EA%B0%90/)
 * [Echo - High performance, extensible, minimalist Go web framework](https://echo.labstack.com/)
