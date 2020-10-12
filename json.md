@@ -13,6 +13,8 @@ Json
 * [B급 프로그래머 (스택오버플로우) 구글이 JSON 응답에 while(1);을 붙여 보내는 이유는?](http://jhrogue.blogspot.com/2019/03/b-json-while1.html)
 * [Use Binary Encoding Instead of JSON - Better Programming - Medium](https://medium.com/better-programming/use-binary-encoding-instead-of-json-dec745ec09b6)
 * [JSON 데이터 타입을 처리하는 웹 어플리케이션에서 XXE 취약점이 발생하는 이유](http://blog.naver.com/crehacktive3/222037182911)
+* [nestedtext: Human Readable and Writable Data Interchange Format](https://github.com/KenKundert/nestedtext) json과 yaml과 다른 또 다른 형식의 파일포맷
+  * [NestedText: A Human Friendly Data Format](https://nestedtext.org/)
 
 # C++
 * [JSON for Modern C++ https://nlohmann.github.io/json ](https://github.com/nlohmann/json)
