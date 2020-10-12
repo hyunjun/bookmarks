@@ -3824,6 +3824,7 @@ Python
 * [New Features in Python 3.9](https://towardsdatascience.com/new-features-in-python39-2529765429fe)
 * [Take a Look at the Awesome New Features Coming in Python 3.9 | by Michael Krasnov | Better Programming | Medium](https://medium.com/better-programming/take-a-look-at-the-awesome-new-features-coming-in-python-3-9-8753c494de39)
 * [10 Awesome Python 3.9 Features. The Must-Know Python 3.9 Features | by Farhad Malik | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/10-awesome-python-3-9-features-b8c27f5eba5c)
+* [파이썬(Python) 3.9 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/python-3-9-release-note-summary)
 * [Features You Likely Don’t Use in Python 3 — But You Should | LaptrinhX](https://laptrinhx.com/features-you-likely-don-t-use-in-python-3-but-you-should-2455806769/)
 * [9 Python 3 Hacks Programmers Probably Don’t Utilize | Better Programming](https://medium.com/better-programming/9-python-3-features-you-might-not-use-yet-fade13932a3e)
 * [concurrent.futures - Easy parallel python with concurrent.futures](https://gist.github.com/mangecoeur/9540178)
