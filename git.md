@@ -640,6 +640,7 @@ Git
 * [gitcolony - THE NEXT GENERATION OF PULL REQUESTS](https://www.gitcolony.com/)
 * [git compound - Compose you projects using Git repositories and Ruby tasks](https://github.com/grzesiek/git_compound/)
 * [gitea 설치로 git 웹호스팅 서버 구축하기](https://geeksvoyage.com/raspberry%20pi/gitea-for-pi/)
+* [Git Exercises](https://gitexercises.fracz.com/) local machine에서 문제를 하나씩 해결해 git을 배우는 방식
 * [git-fake](https://github.com/egoing/git-fake) 교육용으로 간단하게 여러개의 커밋을 만들어야 하는 경우 귀찮음을 줄여주는 프로그램
 * [git fastclone](https://corner.squareup.com/2015/11/fastclone.html)
 * [git-fresh - Fresh Git repository](https://github.com/imsky/git-fresh)
