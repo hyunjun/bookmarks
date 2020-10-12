@@ -430,6 +430,7 @@ Data Visualization
   * [Seaborn with Matplotlib (1) | Pega Devlog](https://jehyunlee.github.io/2020/09/30/Python-DS-34-seaborn_matplotlib/)
   * [Seaborn with Matplotlib (2) | Pega Devlog](https://jehyunlee.github.io/2020/10/03/Python-DS-35-seaborn_matplotlib2/)
   * [Seaborn with Matplotlib (3) | Pega Devlog](https://jehyunlee.github.io/2020/10/06/Python-DS-36-seaborn_matplotlib3/)
+  * [Seaborn with Matplotlib (4) | Pega Devlog](https://jehyunlee.github.io/2020/10/10/Python-DS-37-seaborn_matplotlib4/)
   * [Matplotlib+ Seaborn + Pandas: An Ideal Amalgamation for Statistical Data Visualisation | by Meet Desai | Towards Data Science](https://towardsdatascience.com/matplotlib-seaborn-pandas-an-ideal-amalgamation-for-statistical-data-visualisation-f619c8e8baa3)
   * [파이썬 데이터 시각화 도구 씨본의 변화들 seaborn - distplot이 없어졌다?! - YouTube](https://www.youtube.com/watch?v=J2KTLJQDN6k)
 * [Tools - matplotlib This notebook demonstrates how to use the matplotlib library to plot beautiful graphs](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/tools_matplotlib.ipynb)
