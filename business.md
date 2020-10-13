@@ -422,6 +422,7 @@ Business
 * [팀장님, 그렇게 하는 거 아니에요(2) - 조언하는 방법](https://blog.naver.com/nanotoly/222070963708)
 * [팀장님, 그렇게 하는 거 아니에요(3) - 완전한 솔직한 조언으로 전환하기](https://blog.naver.com/nanotoly/222071755163)
 * [팀장님, 그렇게 하는 거 아니에요(4) - 해고](https://blog.naver.com/nanotoly/222072316985)
+* [팀 내 갈등은 팀장의 자산(?) | ㅍㅍㅅㅅ](https://ppss.kr/archives/227487)
 * [나는 무슨 수로 최고의 리더와 일하게 되었나](https://ppss.kr/archives/206018)
 * [**PM은 리더가 아니다?··· 프로젝트 관리자들의 8가지 착각**](http://www.ciokorea.com/news/146190)
 * [좋은 PM이라면 늘 주의해야 할 4가지 의사결정 편향](https://brunch.co.kr/@ywkim36/20)
