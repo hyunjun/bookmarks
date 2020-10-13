@@ -374,6 +374,7 @@ App
   * [Visbug](https://github.com/GoogleChromeLabs/ProjectVisBug)
   * [Insomnia](https://insomnia.rest)
   * [Flare](https://www.2dimensions.com/about-flare)
+* [7 Must-Use Developer Tools for Increased Efficiency | by Mahdhi Rezvi | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/7-must-use-developer-tools-for-increased-efficiency-822aeaf4dab4) Responsively App, BIT, Wappalyzer, Npkill, Workly, Postwoman, RequestBin
 * [AI '소프트웨어' 말고 AI '개발툴'··· 프로그래밍 바꾸는 머신러닝 5종](http://www.ciokorea.com/news/127016)
   * kite, codota, deepcode, prose, pix2code
 * [5 Underrated Apps for Coders To Use Today | codeburst](https://codeburst.io/5-underrated-apps-for-programmers-you-should-use-right-now-738388693169)
