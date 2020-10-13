@@ -665,6 +665,7 @@ Programming
 * [Building Services at Airbnb, Part 2 | by Liang Guo | Airbnb Engineering & Data Science | Medium](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-2-142be1c5d506)
 * [Building Services at Airbnb, Part 3 | by Liang Guo | Airbnb Engineering & Data Science | Medium](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d)
 * [Building Services at Airbnb, Part 4 | by Junjie Guan | Airbnb Engineering & Data Science | Oct, 2020 | Medium](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-4-23c95e428064)
+* [How architecture prepared me for UX | by Jeff Matarrese | UX Collective](https://uxdesign.cc/how-architecture-prepared-me-to-pivot-to-user-experience-16db8a000f72)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -2273,6 +2274,7 @@ Programming
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
 * [5 Reasons to A/B Test Your App Store Product Page](https://hackernoon.com/https-hackernoon-com-5-reasons-to-a-b-test-your-app-store-product-page-379551f287b4)
 * [Azar의 공정한 A/B test 운영 시스템 ABzar 소개 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/26/azar-ab-test.html)
+* [How do A/B tests work?. A look inside one of the most powerful… | by Cassie Kozyrkov | Towards Data Science](https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0)
 * [실무에서 활용하는 A/B테스트](https://www.slideshare.net/cojette/ab-150118831)
 * [구글 애널리틱스 A/B 테스트 쉽게 하기(쿠키 + demension 활용)](https://medium.com/daangn/%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4-a-b-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EA%B8%B0-%EC%BF%A0%ED%82%A4-demension-%ED%99%9C%EC%9A%A9-6f994e1247e8)
 * [사회통계학 관점에서의 A/B 테스트](https://cojette.github.io/socialtest/)
