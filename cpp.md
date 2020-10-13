@@ -358,3 +358,4 @@ C++
 
 # Tutorial
 * [씹어먹는 C++ 강좌 - PDF 파일](https://modoocode.com/312)
+* [“Hello World” in C++. I thought it would be easy. But it… | by Dalya Gartzman | codeburst](https://codeburst.io/hello-world-in-c-66d9d1b887e1)
