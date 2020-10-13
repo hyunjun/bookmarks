@@ -924,6 +924,8 @@ Machine Learning
   * [docs.backend.ai](http://docs.backend.ai)
   * [lablup/backend.ai: Backend.AI is a streamlined, container-based computing cluster orchestrator that hosts diverse programming languages and popular computing/ML frameworks, with pluggable heterogeneous accelerator support including CUDA and ROCM.](https://github.com/lablup/backend.ai)
 * [BentoML - A platform for serving and deploying machine learning models http://BentoML.ai ](https://github.com/bentoml/BentoML)
+* [cortex: Model serving at scale](https://github.com/cortexlabs/cortex)
+  * [We tried to build an end-to-end ML platform. Here’s why it failed. | by Caleb Kaiser | Towards Data Science](https://towardsdatascience.com/we-tried-to-build-an-end-to-end-ml-platform-heres-why-it-failed-190c0f503536)
 * [Dlib - C++ machine learning library](http://dlib.net/ml.html)
 * [DL-Learner - a framework for supervised Machine Learning in OWL, RDF and Description Logics](http://dl-learner.org/)
   * [A tool for supervised Machine Learning in OWL and Description Logics](https://github.com/AKSW/DL-Learner)
