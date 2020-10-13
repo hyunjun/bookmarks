@@ -612,6 +612,7 @@ Git
 * [GitHub과 연동해서 의존성 라이브러리를 관리할 수 있는 서비스들](https://blog.outsider.ne.kr/1323)
 * [개발 툴소개 + 수다 (2018-12-07) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=B0jXvwX6_rk)
 * [Github 컨텐츠 관리 플랫폼 개발](http://qwefgh90.github.io/javascript/Github-%EC%BB%A8%ED%85%90%EC%B8%A0-%EA%B4%80%EB%A6%AC-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B0%9C%EB%B0%9C/)
+* [3 Chrome Extensions to Give GitHub Superpowers | by Alessia Amitrano | Better Programming | Medium](https://medium.com/better-programming/3-chrome-extensions-to-give-github-superpowers-e993f8703ad) Octolinker, Octotree
 * [**Atomist Project Templates**](https://github.com/atomist-project-templates) Starting a new project should take near-zero effort, so you can get to writing code. That’s what we believe, and that’s what we’re building.
 * [binder - Turn a GitHub repo into a collection of interactive notebooks](http://mybinder.org/)
 * [Central Dogma - an open-source highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2](https://line.github.io/centraldogma/)
