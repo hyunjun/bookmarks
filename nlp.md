@@ -1704,3 +1704,4 @@ NLP
 * [Word2Vec 체크리스트](https://orill.tistory.com/9)
 * [**그래프 임베딩 요약**](https://medium.com/watcha/그래프-임베딩-요약-bc2732048999)
 * [MODUCON 2019 자연어 처리 모델의 성능을 높이는 비결 Embedding - 이기창](https://www.youtube.com/watch?v=FpWe2PBu_PE)
+* [Identifying Lexico-Semantic Word Relations — A Beginner’s Guide | by Karan Praharaj | Towards Data Science](https://towardsdatascience.com/identification-of-lexico-semantic-word-relations-a-beginners-guide-427ed331e287)
