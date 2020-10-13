@@ -11,8 +11,6 @@ Anomaly Detection
 * ARIMA
 * DBScan
 * [What is a simple algorithm to detect anomalies in time-series data?](https://www.quora.com/What-is-a-simple-algorithm-to-detect-anomalies-in-time-series-data)
-* [anomaly detection with python](https://speakerdeck.com/rosiebloxsom/anomaly-detection-with-python)
-* [pyculiarity](https://pypi.python.org/pypi/pyculiarity/0.0.2)
 * [Anomaly detection](http://www.slideshare.net/ChulKim12/anomaly-detection-63382182)
 * [데이터 입수 이상징후 탐지](http://readme.skplanet.com/?p=13557)
 * [Anomaly Detection of Time Series Data Using Machine Learning & Deep Learning](https://www.xenonstack.com/blog/data-science/anomaly-detection-of-time-series-data-using-machine-learning-deep-learning)
@@ -23,7 +21,6 @@ Anomaly Detection
   * 소프트웨어 업데이트 패치 개발 시 아무리 테스트를 많이 해도 실제 사용자들에게 배포된 이후에 중요한 문제가 나오는 경우가 다수
   * Netflix에서 이상치 탐지 알고리즘을 적용하여 가급적 초기에 이상 상황을(이전 버전에 비해 반응 속도가 현저히 느려짐 등) 자동으로 탐지하는 방법을 공개
 * [Anomaly detection using deep one class classifier](https://www.slideshare.net/ssuser06e0c5/anomaly-detection-using-deep-one-class-classifier)
-* [5 Ways to Detect Outliers That Every Data Scientist Should Know (Python Code)](https://towardsdatascience.com/5-ways-to-detect-outliers-that-every-data-scientist-should-know-python-code-70a54335a623)
 * [**이상 감지 - ANOMALY DETECTION**](http://intothedata.com/02.scholar_category/anomaly_detection)
 * [기계 진동(소음)에 나타나는 이상 패턴을 자동으로 탐지할 수 있을까?](https://inforience.net/2019/05/07/machine_vibration/)
 * [기계 진동(소음)에 나타나는 이상 패턴을 자동으로 탐지할 수 있을까? (2)](https://inforience.net/2019/06/08/machine-vibration2)
@@ -46,8 +43,14 @@ Anomaly Detection
 * [“Anomaly Detection 개요： (1) 이상치 탐지 분야에 대한 소개 및 주요 문제와 핵심 용어, 산업 현장 적용 사례 정리”](http://research.sualab.com/introduction/review/2020/01/30/anomaly-detection-overview-1.html)
 * [Anomaly Detection 개요： (2) Out-of-distribution(OOD) Detection 문제 소개 및 핵심 논문 리뷰](http://research.sualab.com/introduction/review/2020/02/20/anomaly-detection-overview-2.html)
 * [엘라스틱 지도학습으로 IDS 정오탐 구분해보기](https://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1-%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%EC%9C%BC%EB%A1%9C-ids-%EC%A0%95%EC%98%A4%ED%83%90-%EA%B5%AC%EB%B6%84%ED%95%B4%EB%B3%B4%EA%B8%B0/)
-* [Anomaly Detection with PyOD!. Have you used this wonderful Python… | by Dr. Dataman | Towards Data Science](https://towardsdatascience.com/anomaly-detection-with-pyod-b523fc47db9)
-* [Anomaly Detection in Time Series Data using Keras](https://morioh.com/p/41c762032173)
 
 # Book
 * [엘라스틱서치로 알아보는 이상징후 분석: Data Anomaly Detection](https://play.google.com/store/books/details/강명훈_엘라스틱서치로_알아보는_이상징후_분석?id=eqjDDwAAQBAJ)
+
+# Python
+* [anomaly detection with python](https://speakerdeck.com/rosiebloxsom/anomaly-detection-with-python)
+* [5 Ways to Detect Outliers That Every Data Scientist Should Know (Python Code)](https://towardsdatascience.com/5-ways-to-detect-outliers-that-every-data-scientist-should-know-python-code-70a54335a623)
+* [Anomaly Detection with PyOD!. Have you used this wonderful Python… | by Dr. Dataman | Towards Data Science](https://towardsdatascience.com/anomaly-detection-with-pyod-b523fc47db9)
+* [Anomaly Detection in Time Series Data using Keras](https://morioh.com/p/41c762032173)
+* [A Complete Anomaly Detection Algorithm From Scratch in Python: Step by Step Guide | by Rashida Nasrin Sucky | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-e1daf870336e)
+* [pyculiarity](https://pypi.python.org/pypi/pyculiarity/0.0.2)
