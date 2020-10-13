@@ -71,3 +71,5 @@ Logging
 # Logrotate
 * [logrotate 사용하기 (CentOS 기준)](http://jybaek.tistory.com/761)
 * [logrotate를 이용하여 로그 파일을 자동으로 삭제하기](https://medium.com/encored-technologies-engineering-data-science/logrotate를-이용하여-로그-파일을-자동으로-삭제하기-dccf7b1b52b0)
+* [(리눅스 업스킬 도전 #18) 로그 파일 회전시키기](https://jhrogue.blogspot.com/2020/10/18.html)
+  * [linuxupskillchallenge/18.md at master · snori74/linuxupskillchallenge](https://github.com/snori74/linuxupskillchallenge/blob/master/18.md)
