@@ -1371,6 +1371,7 @@ Programming
 * [Applying Netflix DevOps Patterns to Windows](https://netflixtechblog.com/applying-netflix-devops-patterns-to-windows-2a57f2dbbf79)
 * [Super Easy All-In-One DevOps Platform](https://github.com/theonedev/onedev)
 * [Must Learn DevOps Tools for 2020. A curated list of the best DevOps tools… | by Tj Blogumas | Better Programming | Medium](https://medium.com/better-programming/must-learn-devops-tools-for-2020-1a8a2675e88f)
+* [How to Become an DevOps Engineer in 2020 | by Shane Shown | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/how-to-become-an-devops-engineer-in-2020-80b8740d5a52)
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
