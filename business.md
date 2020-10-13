@@ -128,6 +128,7 @@ Business
 * [**직무 노트 쓰기**](https://brunch.co.kr/@lunarshore/365)
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
 * [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
+* [Stop Being Micromanaged. Recognize the signs and manage up | by Vinita | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/stop-being-micromanaged-d341c3838ab3)
 * [개발자에서 관리자까지: 기술력을 유지해라](http://jinson.tistory.com/285)
 * [협상을 배워야 지지 않는다](http://ppss.kr/archives/49075)
 * [**정보는 세상의 중심이 되고 연결은 세상을 지배한다(Network is Eating the World)**](http://www.venturesquare.net/590771)
