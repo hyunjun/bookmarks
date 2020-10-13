@@ -315,6 +315,7 @@ Data Visualization
   * [Graph visualization using Python](https://www.youtube.com/watch?v=SpDI6-FvtJY)
 * [pyecharts - Python Echarts Plotting Library http://pyecharts.org](https://github.com/pyecharts/pyecharts)
 * [Pylsy - a simple Python library designed to make it quick and easy to represent tabular data in visually appealing ASCII tables](https://github.com/Leviathan1995/Pylsy)
+* [pysolar](https://jehyunlee.github.io/2020/10/13/GIS-Python-4-pysolar/) 날짜별, 시간별, 위치별 태양의 위치
 * [pythontutor.com - VISUALIZE Python, Java, JavaScript, TypeScript, and Ruby code execution](http://pythontutor.com/)
 * [**pytudes - Python programs to practice or demonstrate skills**](https://github.com/norvig/pytudes)
 * [The PyVista Project](https://www.pyvista.org/)
