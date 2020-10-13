@@ -339,6 +339,8 @@ Functional Programming
   * [Pythonic monads](https://slides.com/v-perez/pythonic-monads-in-real-life-8e03b9)
   * [https://ftp.belnet.be/mirror/FOSDEM/2020/UB2.252A/python2020_monads.webm](https://ftp.belnet.be/mirror/FOSDEM/2020/UB2.252A/python2020_monads.webm)
   * [practice/python/test-monad](https://github.com/hyunjun/practice/tree/master/python/test-monad)
+* [Monads in Python. A simple implementation of the Failure… | by Martin McBride | The Startup | Medium](https://medium.com/swlh/monads-in-python-e3c9592285d6)
+  * [practice - failure.py](https://github.com/hyunjun/practice/blob/master/python/test-monad/failure.py)
 * [Pycket: A Tracing JIT For a Functional Language](http://lambda-the-ultimate.org/node/5152)
 * scalaps [Introducing scalaps: Scala-inspired data structures for Python](https://medium.com/@matthagy/introducing-scalaps-scala-inspired-data-structures-for-python-53f3afc8696)
 
@@ -369,6 +371,7 @@ Functional Programming
 * [Hangman in FP Scala](https://medium.com/wix-engineering/hangman-in-fp-scala-609e1eb8c733)
 * [Functional Programming features in Scala](https://gist.github.com/kevvo83/05d2f6cca40d9a5336722c3d52a14873)
 * [Currying in Scala: A Useful Example](https://medium.com/@kadirmalak/currying-in-scala-a-useful-example-bd0e3a44195)
+* [Scala journals — Currying: The tale of a code example no one actually ever used | by Annette R. | Aug, 2020 | Level Up Coding](https://levelup.gitconnected.com/scala-journals-currying-the-tale-of-that-one-code-example-no-one-actually-ever-used-d36db58e345b)
 * [Foundation of functional programming course https://www.fp-tower.com/foundation ](https://github.com/fp-tower/foundation)
 * [Zero-Overhead Tree Processing with the Visitor Pattern](http://www.lihaoyi.com/post/ZeroOverheadTreeProcessingwiththeVisitorPattern.html)
 * [**Learn Functional Programming course/tutorial on Scala**](https://github.com/dehun/learn-fp)
