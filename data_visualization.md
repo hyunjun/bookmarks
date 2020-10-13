@@ -310,6 +310,7 @@ Data Visualization
   * [plot.ly 뉴비에게 뉴비가 (이용 기초 가이드)](https://data101.oopy.io/406e0ef3-b7ca-40a7-898c-88719276cda8)
   * [Extraordinary Data Visualisation — Circular Chart | by Christopher Tao | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/extraordinary-data-visualisation-circular-chart-fe2d835ef929)
   * [Taking Another Look at Plotly - Practical Business Python](https://pbpython.com/plotly-look.html)
+  * [Highlighted line chart with Plotly.Express | by Vaclav Dekanovsky | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/highlighted-line-chart-with-plotly-express-e69e2a27fea8)
 * [Plotnine: A Python library to use ggplot2 in Python](http://cmdlinetips.com/2018/05/plotnine-a-python-library-to-use-ggplot2-in-python/)
   * [Data visualization in Python like in R’s ggplot2](https://medium.com/@gscheithauer/data-visualization-in-python-like-in-rs-ggplot2-bc62f8debbf5)
 * [pydot - Python interface to Graphviz's Dot language https://pypi.python.org/pypi/pydot](https://github.com/erocarrera/pydot)
