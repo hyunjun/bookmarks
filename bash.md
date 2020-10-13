@@ -14,6 +14,7 @@ Shell
 * [Source code listing for the Lions' Commentary in PDF and PostScript](http://v6.cuzuco.com/)
 * [#testing #bash 간단한 assert](http://ohyecloudy.com/pnotes/archives/bash-simple-assert/)
 * [Functional and flexible shell scripting tricks](https://medium.freecodecamp.org/functional-and-flexible-shell-scripting-tricks-a2d693be2dd4)
+* [6 Bash Tricks You Can Use Daily. Work smarter, not harder at the Linux… | by Al Williams | For Linux Users | Sep, 2020 | Medium](https://medium.com/for-linux-users/6-bash-tricks-you-can-use-daily-a32abdd8b13)
 * [bash : 기초 : 셸의 역사, 종류](https://sunyzero.tistory.com/264) profile 참고
 * [5분 따라하기 bash 타임아웃 패턴](http://jhrogue.blogspot.com/2020/04/5-bash.html)
 * [5분 따라하기 bash에서 파일 확장자 변경](http://jhrogue.blogspot.com/2020/04/5-bash_29.html)
