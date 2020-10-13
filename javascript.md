@@ -121,6 +121,7 @@ Javascript
 * [5 JavaScript Style Guides — Including AirBnB, GitHub, & Google](https://codeburst.io/5-javascript-style-guides-including-airbnb-github-google-88cbc6b2b7aa)
 * [JavaScript Standard Style](https://standardjs.com/)
 * [19 simple JavaScript coding standards to keep your code clean | by Daniel Anderson | JavaScript In Plain English | Jun, 2020 | Medium](https://medium.com/javascript-in-plain-english/19-simple-javascript-coding-standards-to-keep-your-code-clean-7422d6f9bc0)
+* [7 JavaScript coding standards for readability & consistency | by Daniel Anderson | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/7-javascript-coding-standards-for-readability-consistency-9a3d81821397)
 * [How to keep your JavaScript code simple and easy to read](https://medium.freecodecamp.org/how-to-keep-your-javascript-code-simple-and-easy-to-read-bff702523e7c)
 * [CODE GENIUS - Using JavaScript to Teach JavaScript by John Resig](https://www.youtube.com/watch?v=H4sSldXv_S4)
 * [c0dility - Refactor yourself](https://codility.com/programmers/)
@@ -756,6 +757,8 @@ Javascript
 * [Angular 10 in depth - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/angular-10-in-depth-a48a3a7dd1a7)
 * [Angular — Four Red Flags for Weak Conceptual Knowledge](https://medium.com/@liutingchun_95744/angular-four-common-red-flags-for-weak-conceptual-knowledge-cf3a75e1860c)
 * [Storybook with Angular 10 | By: Jake Cyr | The Startup](https://medium.com/swlh/setup-storybook-with-angular-10-d4203099a2f)
+* [Why I Am Relearning Angular. Missing pieces in my Angular learning… | by Bharath Ravi | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/why-i-am-relearning-angular-5308555f4e8e)
+* [Angular Refactoring Examples. Common patterns, tips & tricks, for… | by Erxk Verduin | Sep, 2020 | ITNEXT](https://itnext.io/angular-refactoring-examples-1fc16c4e58ff)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
