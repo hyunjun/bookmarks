@@ -94,6 +94,7 @@ Data Visualization
 * [그래프 그리는 사이트 & 프로그램 TOP10 모음](https://blog.naver.com/zhangyun123/221974254637)
 * [데이터, 인사이트를 눈으로 확인하려면? | ㅍㅍㅅㅅ](https://ppss.kr/archives/220443)
 * [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
+* [5 ‘More’ Open Source tools to get started with Data Visualisation | by Parul Pandey | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/5-more-open-source-tools-to-get-started-with-data-visualisation-a03373972f81)
 
 # D3.js
 * [d3.js 만든 마이크 보스톡, ‘뉴욕타임스’ 떠난다](http://www.bloter.net/archives/227355)
