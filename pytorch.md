@@ -242,6 +242,7 @@ PyTorch
 * [윈도우 10(windows 10)에서 PyTorch 설치하고 gpu를 사용하자!(PyTorch install)](https://lsjsj92.tistory.com/494)
 * [Ubuntu에 Pytorch 설치하기](https://booiljung.github.io/technical_articles/pytorch/installation_of_pytorch_on_ubuntu.html)
 * [PyTorch Anaconda, JupyterLab을 통한 환경 구축 :: JSYoo94](https://jsyoo94.tistory.com/12)
+* [Setting up your PC/Workstation for Deep Learning: Tensorflow and PyTorch — Windows | by Abhinand | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/setting-up-your-pc-workstation-for-deep-learning-tensorflow-and-pytorch-windows-9099b96035cb)
 
 # Library
 * [김군이](https://www.youtube.com/channel/UCK24Wy_G-6V-quKvVRjflgA)
