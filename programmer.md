@@ -27,6 +27,7 @@ Programmer
 * [What Happens When You Lack Senior Engineering Leadership](https://medium.com/swlh/what-happens-when-you-lack-senior-engineering-leadership-84ce189158b2)
 * [10 habits of Senior Software Developers (part 1) | by CBernardes | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/10-simple-habits-to-help-you-boost-your-programming-skills-and-career-as-a-software-developer-1-8d18e4a06b09)
 * [10 habits of Senior Software Developers (part 2) | by CBernardes | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/10-simple-habits-to-help-you-boost-your-programming-skills-and-career-as-software-developer-da0fb019c563)
+* [The Things I Learned to Become a Senior Software Engineer | by Neil Kakkar | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/the-things-i-learned-to-become-a-senior-software-engineer-1083686d70cd)
 * [노마드 코더 Nomad Coders](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ)
 * [꾸준히, 자유롭게, 즐겁게 - 한국 오픈 소스 개발자들 이야기](http://osdi.insightbook.co.kr/)
 * [‘자극이 필요한’ 개발자를 위해 엄선한 국내 포트폴리오 & 개인 블로그 7선](http://harbor.cz/stories/portfolio-me/)
