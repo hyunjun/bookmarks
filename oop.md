@@ -247,6 +247,7 @@
 * [The Most Elegant Python Object-Oriented Programming | by Christopher Tao | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/the-most-elegant-python-object-oriented-programming-b38d75f4ae7b)
 * [Object Oriented Programming (OOP) in Python - YouTube](https://www.youtube.com/watch?v=MikphENIrOo)
 * [Writing A Simple Factory Method In Python | by Tate Galbraith | Level Up Coding](https://levelup.gitconnected.com/writing-a-simple-factory-method-in-python-6e48145d03a)
+* [Probably the Best Practice of Object-Oriented Python — Attr | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/probably-the-best-practice-of-object-oriented-python-attr-d8c26c0e8a4)
 
 # Ruby
 * [**(번역) 루비에서 상속을 피하는 방법**](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)
