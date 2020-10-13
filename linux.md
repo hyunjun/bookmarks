@@ -329,6 +329,7 @@ Linux
 * [6 Terminal Commands You Should Know | by Tate Galbraith | Better Programming | Medium](https://medium.com/better-programming/6-terminal-commands-you-should-know-8e9767bdfec)
 * [(리눅스 업스킬 도전 #11) 특정 조건으로 파일 찾기](https://jhrogue.blogspot.com/2020/09/11.html) locate which grep zcat zless less find
 * [Shell Commands Every Developer Must Know | by Erik van Baaren | Erik on Technology | Medium](https://medium.com/tech-explained/shell-commands-every-developer-must-know-93e6b98d4341)
+* [6 Lesser-Known Linux Commands You Should Try | by Tate Galbraith | The Startup | Oct, 2020 | Medium](https://medium.com/swlh/6-lesser-known-linux-commands-you-should-try-ab739e1088d) tc, whiptail, shred, split, nl, flock
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
