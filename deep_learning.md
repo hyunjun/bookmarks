@@ -908,6 +908,7 @@ Deep Learning
 * [NEURAL NETWORKS AND DEEP LEARNING: A TEXTBOOK](http://www.charuaggarwal.net/neural.htm)
   * [Deep Learning- Charu Aggarwal](https://www.youtube.com/playlist?list=PLLo1RD8Vbbb_6gCyqxG_qzCLOj9EKubw7)
 * [TinyML Book](https://tinymlbook.com)
+  * [TinyML 세계에 여러분을 초대합니다!](https://brunch.co.kr/@synabreu/97)
 
 # CAN
 * [CAN (Creative Adversarial Network) — Explained](https://hackernoon.com/can-creative-adversarial-network-explained-1e31aea1dfe8)
