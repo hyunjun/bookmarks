@@ -323,6 +323,7 @@ App
 * [How to take full page screenshots in Chrome without extensions](https://hackernoon.com/how-to-take-full-page-screenshots-in-chrome-without-extensions-be2f0cf36df1)
 * [How To Publish Your Chrome Extension](https://medium.freecodecamp.org/how-to-publish-your-chrome-extension-dd8400a3d53)
 * [10 Best Chrome Extensions Built by Indie Makers](https://hackernoon.com/9-best-chrome-extensions-built-by-indie-makers-d74f91217cb2)
+* [7 Chrome Extensions Every Developer Must Have | by Ali Haider | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/7-chrome-extensions-every-developer-must-have-d01a9c119d3c)
 * [내가 추천하는 크롬 익스텐션 10선](https://jojoldu.tistory.com/406)
 * [Cross-platform with Chrome Apps - a Developer Diary](https://blog.whiteout.io/2015/05/09/cross-platform-with-chrome-apps-a-developer-diary/)
 * [EpubPress - Vue.js 한국어 문서 전자책으로 만들기](https://vuejs-kr.github.io/vue/epub/2017/05/10/introduce-generate-vue-book/)
