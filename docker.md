@@ -1042,6 +1042,7 @@ Docker
 * [How to Dockerize your End-to-End acceptance tests | by Dominic Fraser | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/how-to-dockerize-your-end-to-end-acceptance-tests-dbb593acb8e0)
 * [Distributed load testing with Gatling and Kubernetes | by Anna Shepeleva | De Bijenkorf Techblog | Medium](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
 * [**쿠버네티스를 이용해 테스팅 환경 구현해보기**](http://woowabros.github.io/experience/2018/03/13/k8s-test.html)
+* [The Subtle Art of Test Automation Using Docker Compose | by Shreyas Chaudhari | Better Programming | Medium](https://medium.com/better-programming/the-subtle-art-of-test-automation-using-docker-compose-69a10fc9aac5)
 
 # Triton
 * [Triton Elastic Container Service](https://docs.joyent.com/public-cloud)
