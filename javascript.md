@@ -625,6 +625,7 @@ Javascript
 * [favorite JavaScript utilities in single line of code! No more!](https://1loc.dev/)
 * [You should know about ==, Object.defineProperty and Proxy in JavaScript](https://medium.com/javascript-in-plain-english/you-should-know-about-object-defineproperty-and-proxy-in-javascript-8e28e7939232)
 * [Should You Stop Using .forEach() in Your JavaScript Code?](https://medium.com/better-programming/should-you-stop-using-foreach-in-your-javascript-code-efe1e86c78e5)
+* [How to Use ForEach() in JavaScript | by Jamie Pittman | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/how-to-use-foreach-in-javascript-bce289252035)
 * [Learn JavaScript Fundamentals-Global Scope](https://medium.com/swlh/javascript-fundamentals-global-scope-71ba5e48dbae)
 * [JS 꼴랑이거(2) - setTimeout에서 발생하는 Exception 잡아내기 - 완두블로그](https://wani.kr/posts/2015/03/09/js-something-2-catchable-settimeout-exception/)
 * [Little Unknown Way To Get Rid Of Switch Statements](https://medium.com/javascript-in-plain-english/a-little-unknown-way-to-get-rid-of-switch-statements-15c2584f51b9)
