@@ -323,6 +323,7 @@ TensorFlow
 * [TensorFlow Lite를 사용해서 몸동작 인식한 중국 국민체조 앱의 케이스를 소개합니다](https://developers-kr.googleblog.com/2019/11/body-movement-recognition-in-the-smart-baduanjin-app.html)
 * [Example on-device model personalization with TensorFlow Lite](https://blog.tensorflow.org/2019/12/example-on-device-model-personalization.html)
 * [Sharing Pixelopolis, a self-driving car demo from Google I/O built with TF-Lite — The TensorFlow Blog](https://blog.tensorflow.org/2020/07/pixelopolis-self-driving-car-demo-tensorflow-lite.html)
+* [Tiny Machine Learning: The Next AI Revolution | by Matthew Stewart, PhD Researcher | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/tiny-machine-learning-the-next-ai-revolution-495c26463868)
 * [iOS 기기에서 Tensorflow 모델 실행시키는 방법들](http://blog.canapio.com/135)
 * 모두의 텐소플로우
   * [#1 - Machine Learning 개념 정리 & Linear Regression](https://jungwoon.github.io/tensorflow/toe/2017/12/04/MT-01-Machine-Learning/)
