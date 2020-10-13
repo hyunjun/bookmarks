@@ -1372,6 +1372,21 @@ Python
 # Basketball
 * [Web Scraping NBA Stats](https://towardsdatascience.com/web-scraping-nba-stats-4b4f8c525994)
 
+# Bioinformatics
+* [Ryan Williams: Accelerating Single-cell Bioinformatics with N-dimensional Arrays | PyData Miami 2019](https://www.youtube.com/watch?v=lZk84EcpudA) HDF5, Zarr, dask, zappy
+* [Let’s set up a code editor for Python and Bioinformatics | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/lets-set-up-a-code-editor-for-python-and-bioinformatics-c01d0fc25952)
+* [Want to get into programming or bioinformatics but not sure where to start? | by rebelCoder | Medium](https://medium.com/@rebelCoderBio/want-to-get-into-programming-or-bioinformatics-but-not-sure-where-to-start-1b2fc238fb3d)
+* [Bioinformatics in Python; DNA Toolkit Introduction | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/bioinformatics-in-python-dna-toolkit-introduction-51bb69340683)
+* [Getting started in Bioinformatics: A step-by-step guide. | by rebelCoder | Aug, 2020 | Medium](https://medium.com/@rebelCoderBio/getting-started-in-bioinformatics-a-step-by-step-guide-6337843a03b5)
+* [Bioinformatics in Python; DNA Toolkit Part 1: Validating and counting nucleotides | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/bioinformatics-in-python-dna-toolkit-part-1-validating-and-counting-nucleotides-1cd1037ef06f)
+* [Bioinformatics in Python; DNA Toolkit Part 2: Transcription and Reverse Complement | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/bioinformatics-in-python-dna-toolkit-part-2-transcription-and-reverse-complement-1ed194e0d06e)
+* [Bioinformatics in Python; DNA Toolkit. Part 3: GC Content Calculation | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/bioinformatics-in-python-dna-toolkit-part-3-gc-content-calculation-618993e0278c)
+* [Bioinformatics in Python; DNA Toolkit. Part 4: Translation, Codon Usage | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/bioinformatics-in-python-dna-toolkit-part-4-translation-codon-usage-7179d679135)
+* [Bioinformatics in Python; DNA Toolkit. Part 5, 6 & 7: Open Reading Frames, Protein Search in NCBI database | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/dna-toolkit-part-5-6-7-open-reading-frames-protein-search-in-ncbi-database-90bd8c09b78f)
+* [Bioinformatics Tools Programming in Python with Qt: Part 1. | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/bioinformatics-tools-programming-in-python-with-qt-part-1-1a5937e7d53c)
+* [Bioinformatics Tools Programming in Python with Qt: Part 2. | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/bioinformatics-tools-programming-in-python-with-qt-part-2-1a4f6e0ef39)
+* [Rosalind - a platform for learning bioinformatics and programming through problem solving](http://rosalind.info/problems/locations/)
+
 # Book
 * [5 Python books for beginners](http://www.codepancake.com/5-python-books-for-beginners/)
 * [20 Best Free Tutorials to Learn Python: PDFs, eBooks, Online](http://noeticforce.com/best-free-tutorials-to-learn-python-pdfs-ebooks-online-interactive)
@@ -2898,7 +2913,6 @@ Python
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
 * [**Rich - a Python library for rich text and beautiful formatting in the terminal. https://www.willmcgugan.com/tag/rich **](https://github.com/willmcgugan/rich)
 * [rlundo - interactive interpreters magical undo powers](https://github.com/thomasballinger/rlundo)
-* [Rosalind is a platform for learning bioinformatics and programming through problem solving](http://rosalind.info/problems/locations/)
 * [RPyC - Transparent, Symmetric Distributed Computing](https://rpyc.readthedocs.io/) remote python call
 * RPython
   * [A Javascript Interpreter in RPython](http://stups.hhu.de/w/A_Javascript_Interpreter_in_RPython)
@@ -3165,6 +3179,7 @@ Python
   * [Pycharm에서 anaconda의 python.exe를 base interpreter로 사용하려면?](http://jhrogue.blogspot.com/2019/12/b-pycharm-anaconda-pythonexe-base.html)
   * [PyCharm에서 테스트 중 AssertionError발생시점의 Breakpoint설정](https://lhy.kr/pycharm-assertion-debugger-stop)
   * [Pycharm Python Console에서 한글깨짐 해결방법](https://www.martinii.fun/entry/Pycharm-Python-Console%EC%97%90%EC%84%9C-%ED%95%9C%EA%B8%80%EA%B9%A8%EC%A7%90-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95)
+  * [PyCharm vs VSCode. Is it time to change your IDE? | by S Ahmad | Towards Data Science](https://towardsdatascience.com/pycharm-vs-vscode-9ffbed46ac9e)
   * Photonai [21 Techniques to Write Better Code | by Bruce H. Cottman, Ph.D. | The Startup | Medium](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
 * [Thonny - Python IDE for beginners](http://thonny.org/)
   * [Learn to code with Thonny — a Python IDE for beginners](https://fedoramagazine.org/learn-code-thonny-python-ide-beginners)
@@ -3768,7 +3783,6 @@ Python
 * [PyData Seattle 2017 Keynote Jake VanderPlas](https://www.youtube.com/watch?v=DifMYH3iuFw) 여러가지 data 관련 library 역사(?)
   * [jakevdp.github.io](http://jakevdp.github.io/)
 * [Optimizing numerical calculations in Python - Jakub Urban - PyData Prague, January 2019](https://www.youtube.com/watch?v=I_BRzn4zMnQ)
-* [Ryan Williams: Accelerating Single-cell Bioinformatics with N-dimensional Arrays | PyData Miami 2019](https://www.youtube.com/watch?v=lZk84EcpudA) HDF5, Zarr, dask, zappy
 * [PyData Ann Arbor: Katie Bauer | Building "Time On Site" at Reddit](https://www.youtube.com/watch?v=4z4XMe5dVG8)
 
 # PyPy
