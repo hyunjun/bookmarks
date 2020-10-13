@@ -619,6 +619,7 @@ Scala
   * [The worst thing in our Scala code: Futures | REA Group Ltd](https://www.rea-group.com/blog/the-worst-thing-in-our-scala-code-futures/)
   * [How to compose Future and Option in Scala – Loïc's Blog](https://loicdescotte.github.io/posts/scala-compose-option-future/)
   * [Scala Concurrency Advice: For Future Fun Fold On A FlatMap | by Bryan Bunch | Medium](https://medium.com/@brybunch/scala-concurrency-advice-for-future-fun-fold-on-a-flatmap-a06f37fdd498)
+  * [Why Shouldn’t You Use Future\[Unit\] as a Return Type in a Scala Program | by Vigneshwaran Raveendran | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/why-shouldnt-you-use-future-unit-as-a-return-type-in-a-scala-program-a4c58f95b343)
 * Implicit
   * [practice - implicit parameter](https://gist.github.com/hyunjun/be0a11583dfcb41f4273e5957e1c8022#file-implicit_parameter-scala)
   * [IMPLICIT PARAMETERS](https://docs.scala-lang.org/tour/implicit-parameters.html)
@@ -1241,6 +1242,7 @@ Scala
   * [#circe - Part 3.1 - Integrations & Extras (refined, lightbend config, fs2, http4s and Scala.js)](https://www.youtube.com/watch?v=0yMoYU-rodw)
   * [#circe - Part 3.2 - Integrations & Extras (refined, lightbend config, fs2, http4s and Scala.js)](https://www.youtube.com/watch?v=L_u7uBHpmAU)
   * [#circe - Part 4 - Golden Testing](https://www.youtube.com/watch?v=vo7RgPm6Qh4)
+  * [Parsing JSON with Circe — Beyond the Basics | by Edward Huang | Level Up Coding](https://levelup.gitconnected.com/parsing-json-with-circe-beyond-the-basics-334014de393e)
 * [spray-json - A lightweight, clean and simple JSON implementation in Scala](https://github.com/spray/spray-json)
   * [Hacking with scala spray-json](https://medium.com/rahasak/json-handling-in-scala-spray-json-afbab0e9eaba)
 
