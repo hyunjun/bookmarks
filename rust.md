@@ -208,6 +208,9 @@
 * [Armin Ronacher: A Python and Rust love story](https://www.youtube.com/watch?v=zmtHaZG7pPc)
 * ['어려운' C를 '만만한' 러스트로··· 러스트-파이썬 변환 프로젝트 확산 - CIO Korea](http://www.ciokorea.com/news/35023)
 * [From Python to Rust. My first language was Python. I entered… | by maxwell flitton | Level Up Coding](https://levelup.gitconnected.com/from-python-to-rust-fc43d6985670)
+* [From Python to Rust: Part 1.. In this series of videos, we will… | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/from-python-to-rust-part-1-272f5ff79c01)
+* [From Python to Rust: Part 2.. Strings, Functions, and Crates/Modules | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/from-python-to-rust-part-2-strings-functions-and-crates-modules-b110e052d607)
+* [From Python to Rust: Part 3.. Python dictionary, Rust HashMap and a… | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/from-python-to-rust-part-3-f035d780de1)
 
 # Tutorial
 * [The Rust Programming Language](http://doc.rust-lang.org/nightly/book/)
