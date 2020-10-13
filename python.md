@@ -762,6 +762,8 @@ Python
   * [What is `__main__.py`?](https://stackoverflow.com/questions/4042905/what-is-main-py)
 * intern
   * [파이썬의 효과적인 메모리 재활용 방법 - Interning](https://nephtyws.github.io/python/interning)
+* io
+  * [Python StringIO and BytesIO Compared With Open() | by Siddharth Kshirsagar | The Startup | Medium](https://medium.com/swlh/python-stringio-and-bytesio-compared-with-open-c0e99b9def31)
 * isinstance
   * [What's the canonical way to check for type in python?](http://stackoverflow.com/questions/152580/whats-the-canonical-way-to-check-for-type-in-python)
 * itertools
@@ -2480,6 +2482,8 @@ Python
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
 * [AGATE: A BETTER DATA ANALYSIS LIBRARY FOR JOURNALISTS](https://source.opennews.org/en-US/articles/introducing-agate/)
+* [AI-Personal-Voice-assistant-using-Python](https://github.com/mmirthula02/AI-Personal-Voice-assistant-using-Python)
+  * [**How to build your own AI personal assistant using Python | by M.Mirthula | Towards Data Science**](https://towardsdatascience.com/how-to-build-your-own-ai-personal-assistant-using-python-f57247b4494b) speech_recognition, pyttsx3, wikipedia, webbrowser, ecapture, wolframalpha
 * [anaconda - http://continuum.io/downloads](http://continuum.io/downloads)
   * [install](http://docs.continuum.io/anaconda/install)
     * [installations](https://gist.github.com/hyunjun/07ea5ce941bc008cc586)
@@ -2647,6 +2651,7 @@ Python
   * [Learning FastAPI - YouTube](https://www.youtube.com/watch?v=GSMYt429ot4)
   * [Integrating Tortoise ORM into a FastAPI App - YouTube](https://www.youtube.com/watch?v=vVjWeLVv97c)
   * [Integrating AIOHTTP Into a FastAPI App - YouTube](https://www.youtube.com/watch?v=BalvzyKg_4k)
+  * [4 Useful Advanced Features in FastAPI | by Ng Wai Foong | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/4-useful-advanced-features-in-fastapi-f08e4db59637)
 * [Faster CPython](http://faster-cpython.readthedocs.io/) FAT Python
 * [Faust - A library for building streaming applications in Python](https://faust.readthedocs.io/)
 * [fawkes: Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes](https://github.com/Shawn-Shan/fawkes)
@@ -3274,6 +3279,7 @@ Python
   * [GitHub Action과 Poetry를 사용한 파이썬 패키지 개발](https://seonghyeon.dev/python-package-development-with-poetry-and-action)
   * [포에트리를 사용한 파이썬 프로젝트 관리 방법](http://www.itworld.co.kr/news/145472)
   * [**Hypermodern Python**](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/) pyenv, click, requests
+  * [A hygienic Python setup for Linux, Mac, and WSL | by Ben Kehoe | Sep, 2020 | A Cloud Guru](https://read.acloud.guru/my-python-setup-77c57a2fc4b6)
 * pyenv
   * [pyenv Tutorial](https://amaral.northwestern.edu/resources/guides/pyenv-tutorial)
   * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/pyenv-virtualenv-autoenv)
@@ -3948,6 +3954,7 @@ Python
   * [**PyconKR 2019 pytest로 파이썬 코드 테스트하기**](https://www.slideshare.net/ssuser80e030/pytest-164575856)
   * [Open Sourcing Pytest Tools](https://blogs.dropbox.com/tech/2016/03/open-sourcing-pytest-tools/) pytest-flakefinder, unittest2pytest 
   * [Structuring Unit Tests in Python | Python In Plain English](https://medium.com/python-in-plain-english/unit-testing-in-python-structure-57acd51da923)
+  * [Pytest Plugins to Love ❤️. My top 5 and honorable 50 out of 600+… | by Martin Thoma | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/pytest-plugins-to-love-%EF%B8%8F-9c71635fbe22)
 * [pytest-bdd - BDD library for the py.test runner](https://github.com/pytest-dev/pytest-bdd)
   * [PYTHON TESTING 101: PYTEST-BDD](https://automationpanda.com/2018/10/22/python-testing-101-pytest-bdd/)
 * [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
