@@ -26,6 +26,7 @@ Redis
 * [DNS 기반의 Redis HA 구현](http://tech.kakao.com/2016/03/18/redis-ha-dns/)
 * [Redis Labs](http://www.slideshare.net/RedisLabs)
 * [Redis in a Multi Tenant Environment–High Availability, Monitoring & Much More!](http://www.slideshare.net/RedisLabs/redis-in-a-multi-tenant-environmenthigh-availability-monitoring-much-more)
+* [High Availability with Redis Sentinel and Spring Lettuce Client | by Naciye Karademir | Trendyol Tech | Medium](https://medium.com/trendyol-tech/high-availability-with-redis-sentinel-and-spring-lettuce-client-9da40525fc82)
 * [Redis 의 Sentinel](http://crystalcube.co.kr/m/post/177)
 * [Redis Conf 2016: Redis in a Multi-Tenant Environmnet](https://www.youtube.com/watch?v=aZ64pM7OVaw)
 * [RedisConf18: Building Light weight Microservices Using Redis - Redis Labs](https://www.youtube.com/watch?v=z25CPqJMFUk)
