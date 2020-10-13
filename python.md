@@ -2457,6 +2457,7 @@ Python
 * [**Top 10 Python libraries of 2019**](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
 * [Generate PDF with Python - Reportlab](https://morioh.com/p/81908a4730d4)
 * [3 Insane Secret Weapons for Python](https://towardsdatascience.com/the-3-secret-weapons-that-changed-my-python-editor-forever-c99f7b2e0084) kite, mypy, sonarlint
+* [10 Tools I Use to Craft Better Python Code | by Richard Quinn | Level Up Coding](https://levelup.gitconnected.com/10-tools-i-use-to-craft-better-python-code-b9a9776a7871) Black, Eradicate, Vulture, Coverage, Pycodestyle, Pylint, Mypy, Pyflakes, Doctest, Bandit, Radon
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
@@ -3975,6 +3976,7 @@ Python
 * [Grzegorz Kocjan - Don't start with a database - YouTube](https://www.youtube.com/watch?v=ypgJkISlbLM) dataclass, abc, injector, TypeVar
 * [Dustin Ingram - Static Typing in Python - YouTube](https://www.youtube.com/watch?v=cmmPDYa0gWo)
 * [군더더기 없는 파이썬 코드를 위한 타입 체커 4종 - ITWorld Korea](http://www.itworld.co.kr/news/165270)
+* [Static Typing in Python. Conducting Type Checking with Ease | by Eden Au | Towards Data Science](https://towardsdatascience.com/static-typing-in-python-55aa6dfe61b4)
 * [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
 * [LibCST - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree https://libcst.readthedocs.io ](https://github.com/Instagram/LibCST)
   * [Static Analysis at Scale: An Instagram Story](https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c)
