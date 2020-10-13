@@ -1768,6 +1768,7 @@ Python
 * [Managing Sessions in Django. Understanding your Django session with… | by Goutom Roy | Better Programming | Medium](https://medium.com/better-programming/managing-sessions-in-django-92ef72db4c63)
 * [Using the JSONField in Django - YouTube](https://www.youtube.com/watch?v=LbdUpY1I1zg)
 * [django로 크롤링해서 적용하기 +BeautifulSoup사용 — ChoSM'Programming](https://applepick.tistory.com/46)
+* django manager [화해 블로그](http://blog.hwahae.co.kr/%EC%A0%84%EC%B2%B4%EB%B3%B4%EA%B8%B0/tech/tech-tech/4108/)
 
 # DSL
 * [Extending Python Into the Future](https://morioh.com/p/6db365736476)
@@ -1982,6 +1983,7 @@ Python
 * [Creating Middlewares with Python Flask | by Devesh Kharve | The Startup | Medium](https://medium.com/swlh/creating-middlewares-with-python-flask-166bd03f2fd4)
 * [sqlcolab](https://github.com/gyunseul9/sqlcolab) colab + Flask REST API daemon, MySQL 테이블 생성 쿼리, 샘플 csv 파일
 * [Python Flask REST API MySQL stored procedure colab](https://github.com/gyunseul9/colabsp)
+* [**Develop and sell a Python API — from start to end tutorial | by Daniel Deutsch | Sep, 2020 | Towards Data Science**](https://towardsdatascience.com/develop-and-sell-a-python-api-from-start-to-end-tutorial-9a038e433966) AWS
 
 ## Flask Library
 * [Bread pan 기본적인 웹서비스를 간단하게 만드는 프로젝트 틀](https://github.com/jinhoyoo/breadpan) 구조 참고
@@ -2473,6 +2475,7 @@ Python
 * [Generate PDF with Python - Reportlab](https://morioh.com/p/81908a4730d4)
 * [3 Insane Secret Weapons for Python](https://towardsdatascience.com/the-3-secret-weapons-that-changed-my-python-editor-forever-c99f7b2e0084) kite, mypy, sonarlint
 * [10 Tools I Use to Craft Better Python Code | by Richard Quinn | Level Up Coding](https://levelup.gitconnected.com/10-tools-i-use-to-craft-better-python-code-b9a9776a7871) Black, Eradicate, Vulture, Coverage, Pycodestyle, Pylint, Mypy, Pyflakes, Doctest, Bandit, Radon
+* [State-of-the-art python project setup | by Nitin Aggarwal | Towards Data Science](https://towardsdatascience.com/state-of-the-art-python-project-setup-82a046fc1f20) pipenv, flake8-black, isort, mypy, pytest, coverage, VSCode
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
