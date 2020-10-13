@@ -204,6 +204,7 @@ Algorithm
 * [An Introduction to Sliding Window Algorithms | by Jordan Moore | Level Up Coding](https://levelup.gitconnected.com/an-introduction-to-sliding-window-algorithms-5533c4fe1cc7)
 * [알고리즘 문제풀이 #4 코딩도장 지뢰찾기 이야기](https://adunhansa.tistory.com/325)
 * [na982 :: 삼성 SW 역량 테스트 어른 상어](https://na982.tistory.com/128)
+* [An Illustrative Introduction to Dynamic Time Warping | by Esmaeil Alizadeh | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/an-illustrative-introduction-to-dynamic-time-warping-36aa98513b98) DTW
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
