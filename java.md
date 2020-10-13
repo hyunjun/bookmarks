@@ -761,6 +761,7 @@ Java
 * [Java를 위한, Java에 의한 도구들](https://www.slideshare.net/NHNFORWARD/2018-java-java) jvmtop, jvm-tools, jcmd, jhsdb, jmh, jcstress, jol
 * [CIRCUIT BREAKER로 통신 FAILOVER 처리하기](https://inyl.github.io/programming/2017/02/04/circuit_breaker.html)
 * [Improving Code Quality for Java Projects](https://medium.com/inspiredbrilliance/improving-code-quality-for-java-projects-5d24ad448109)
+* [Top 10 Libraries every Java Developer should know | by Md Kamaruzzaman | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/top-10-libraries-every-java-developer-should-know-37dd136dff54) Apache Commons, Google Guava, Jackson, JAXB, SLF4J, Log4j 2, Mockito, AssertJ, Hibernate, Apache HTTPComponents
 * [Aeron - Efficient reliable UDP unicast, UDP multicast, and IPC message transport](https://github.com/real-logic/aeron)
   * [Simple Binary Encoding (SBE) - High Performance Message Codec](https://github.com/real-logic/simple-binary-encoding)
 * [alf.io - The open source ticket reservation system for conferences, trade shows, workshops, meetups https://alf.io ](https://github.com/alfio-event/alf.io)
