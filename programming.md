@@ -219,6 +219,7 @@ Programming
 * [The Mistakes I Made As a Beginner Programmer](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
 * [초급 개발자가 알아야 하는 12가지 기술](http://jhrogue.blogspot.com/2018/10/b-12.html)
 * [Tips From The Book Every Programmer Should Read](https://hackernoon.com/tips-from-the-book-every-programmer-should-read-425fb77873f8)
+* [40 Tips that will change your coding skills forever | by Kesk | The Startup | Medium](https://medium.com/swlh/40-tips-that-will-change-your-coding-skills-forever-bf9d6b936ccc)
 * [Top 10 New Developer Tools of February](https://hackernoon.com/top-10-new-developer-tools-of-february-ff7999977e84)
 * [Top 50 Developer Tools of 2017](https://hackernoon.com/top-50-developer-tools-of-2017-7e616928416b)
 * [Start Your Tech Career Today: 40 Tools to Learn Coding Online](https://entrepreneurs.maqtoob.com/start-your-tech-career-today-40-tools-to-learn-coding-online-67dcdf7e7472)
@@ -320,6 +321,7 @@ Programming
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-2. 여러 대의 서버에 흩어져 있는 세션을 어떻게 관리할 수 있을까?](https://chagokx2.tistory.com/93)
 * [**무료로 개인 프로젝트 호스팅 하기 | 딥백수**](https://dl4ab.github.io/2020/09/06/free-web-server-for-your-portfolio/)
+* [A Guide on Good Backend Coding Practices | by Jimmy Soh | The Internal Startup | Medium](https://medium.com/the-internal-startup/a-guide-on-good-backend-coding-practices-e43f80422559) 기본 원칙
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -1085,6 +1087,7 @@ Programming
 * [코드리뷰 모음 서비스를 소개합니다](https://woowabros.github.io/techcourse/2020/06/05/techcourse-javable.html)
 * [시니어 엔지니어로 넘어가기 위한 기술: 코드 읽기](http://mkseo.pe.kr/blog/?p=2737)
 * [Code Review Best Practices at Google | Better Programming](https://medium.com/better-programming/13-code-review-standards-inspired-by-google-6b8f99f7fd67)
+* [When DRY Doesn’t Work, Go WET. It’s okay if you repeat yourself | by Nick Bull | Better Programming | Medium](https://medium.com/better-programming/when-dry-doesnt-work-go-wet-6befda0444bf)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
