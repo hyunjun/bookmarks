@@ -346,6 +346,7 @@ Vision
 
 # JavaScript
 * [Build A Hand Detection App Tutorial](https://www.youtube.com/watch?v=s66w28knp80)
+* [Naver CLOVA Face Recognition(CFR)을 활용한 웹앱 만들어보기 | by Ryan Kim | Oct, 2020 | Medium](https://medium.com/@equus3144/naver-clova-face-recognition-cfr-%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9B%B9%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-cc29ef51a189)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
