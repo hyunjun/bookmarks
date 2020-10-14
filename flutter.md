@@ -99,6 +99,7 @@ Flutter
 * [dart : Invalid UTF8 sequence encountered](https://sunyzero.tistory.com/262)
 * [다트(Dart) 키워드(Keyword)](https://brunch.co.kr/@mystoryg/117)
 * [다트(Dart)로 웹 크롤링 맛보기 3df255a8b776](https://medium.com/@larkbless/%EB%8B%A4%ED%8A%B8-dart-%EB%A1%9C-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81-%EB%A7%9B%EB%B3%B4%EA%B8%B0-3df255a8b776)
+* [왕초보 프로그래밍 강의 - YouTube](https://www.youtube.com/playlist?list=PLmEhRs1HB7RF1C7_C1oYzmc11iaC6DlNB)
 * [pure_firestore](https://github.com/kdy1/pure_firestore)
 
 # Library
