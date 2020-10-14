@@ -489,6 +489,8 @@ Linux
   * [Killing a process and all of its descendants](http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html)
 * `less`
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
+* `ln`
+  * [(리눅스 업스킬 도전 #19) 아이노드와 심볼릭 링크](https://jhrogue.blogspot.com/2020/10/19.html)
 * locate
 * `ls`
   * [Linux ls Command: Sort Files By Size](https://www.cyberciti.biz/faq/linux-ls-command-sort-by-file-size/)
