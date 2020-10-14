@@ -177,6 +177,7 @@ Android
 * [Intent Flag에 관하여 정리해 봅니다 #Android](https://developer88.tistory.com/266)
 * [Full Screen Intent Notificaiton 에 관한 정리 # 풀스크린 인텐트](https://developer88.tistory.com/336)
 * [ScopedStorage에 관한 총정리](https://developer88.tistory.com/337)
+* [James Ing Wei Tang - Honey, There Is a Python in My Android Phone! - YouTube](https://www.youtube.com/watch?v=S32Z55c_GkY)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
