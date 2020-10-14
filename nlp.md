@@ -953,6 +953,7 @@ NLP
 * [Stanza - A Python NLP Library for Many Human Languages](https://stanfordnlp.github.io/stanza/)
 * [StarSpace - Learning embeddings for classification, retrieval and ranking](https://github.com/facebookresearch/Starspace)
   * [Embed All The Things](https://www.facebook.com/groups/PyTorchKR/permalink/967337433405938/)
+* [**The Super Duper NLP Repo**](https://notebooks.quantumstat.com/)
 * [tacit - Text Analysis,Collection and Interpretation Tool](http://tacit.usc.edu/)
 * [Text Understanding from Scratch](http://arxiv.org/abs/1502.01710)
 * [TextWorld: A learning environment for training reinforcement learning agents, inspired by text-based games](https://www.microsoft.com/en-us/research/blog/textworld-a-learning-environment-for-training-reinforcement-learning-agents-inspired-by-text-based-games/)
