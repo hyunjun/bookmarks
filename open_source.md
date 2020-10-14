@@ -65,6 +65,7 @@ Open Source
 * [오픈소스 컨트리뷰션을 위한 개발환경 설정방법 - 초급 - YouTube](https://www.youtube.com/watch?v=WLHq-YKa0zk) Git, VM, VSCode, Golang, Shell script, ...
 * [OpenSource 초보 컨트리뷰터의 Mocha issue 해결 도전기 - 사진찍는 웹 개발자](https://donghoon759.github.io/posts/2020-09-06---%EC%B4%88%EB%B3%B4-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%84%B0%EC%9D%98-Mocha-issue-%ED%95%B4%EA%B2%B0-%EB%8F%84%EC%A0%84%EA%B8%B0/)
 * [oss-basic-training: oss training materials and scripts](https://github.com/ncsoft/oss-basic-training)
+* [#1 유저스틴 / 오픈 소스 프로젝트를 엑싯한 후 생기는 일 - YouTube](https://www.youtube.com/watch?v=8i3QhY-y760)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
