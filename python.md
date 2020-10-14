@@ -3041,6 +3041,7 @@ Python
 * [wttr.in - Web frontend for wego](https://github.com/chubin/wttr.in) terminal에서 curl로 날씨 확인
   * [wttr.in/제주](https://wttr.in/%EC%A0%9C%EC%A3%BC)
 * [xarray - N-D labeled arrays and datasets in Python](http://xarray.pydata.org/)
+  * [Xarray - more than Pandas in multiple dimensions - Ondřej Grover PyData Prague #8 2020 - YouTube](https://www.youtube.com/watch?v=ww4EYv20Ucw)
 * [xincapio - Get IP address, MAC address and Disk Serial Number](https://github.com/jbaltop/xincapio)
 * [xonsh shell](https://xon.sh/) a Python-powered, cross-platform, Unix-gazing shell language and command prompt
 * [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
