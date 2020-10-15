@@ -138,6 +138,7 @@ AWS
 * [Best practices to use aws in countryside](https://www.slideshare.net/biatunky/best-practices-to-use-aws-in-countryside)
 * [Serverless Archtecture를 응용한 실시간 DW 플랫폼 구현](https://www.slideshare.net/JihyeongSeo/serverlessarchitecturedw)
 * [AWS Cognito 입문 가이드](https://walkinpcm.blogspot.com/2017/05/aws-aws-cognito.html)
+* [Securing Micro Services in Quarkus with Amazon Cognito | by Iain Porter | Oct, 2020 | Level Up Coding](https://levelup.gitconnected.com/securing-micro-services-in-quarkus-with-aws-cognito-387990c04100)
 * [AWS로 구현하는 손쉬운 앱 로그인](https://docs.google.com/document/d/1KFUMxNz99U8PBgD7zzIAg0LCUiTifYy3W-YCJzHR96I/edit)
 * [Apex(Terraform)로 API Gateway 구성하기 #1](https://blog.outsider.ne.kr/1287)
 * [Apex(Terraform)로 API Gateway 구성하기 #2](https://blog.outsider.ne.kr/1288)
