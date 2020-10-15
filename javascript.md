@@ -2640,6 +2640,7 @@ Javascript
 * [Retrospective of making BGM player in my office](https://tech.ssut.me/retrospective-of-making-bgm-player-in-my-office/)
 * [5 Essential Libraries For Your Next React Application](https://medium.com/frontend-digest/5-essential-libraries-for-your-next-react-application-84d8d73e9806)
 * [The Best React Form Library To Use In 2020 | by Malcolm Laing | Frontend Digest | Jun, 2020 | Medium](https://medium.com/frontend-digest/the-best-react-form-library-to-use-in-2020-11e93c267e4)
+* [Five awesome React.js packages to check out | Varun Chilukuri | JavaScript In Plain English](https://medium.com/javascript-in-plain-english/five-awesome-react-packages-to-check-out-1ee42f2c19f7)
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
 * [Chakra UI | Design System built with React](https://chakra-ui.com/)
   * [Accessible and Beautiful Components with Chakra UI | by Malcolm Laing | Frontend Digest | Jun, 2020 | Medium](https://medium.com/frontend-digest/accessibie-and-beautiful-components-with-chakra-ui-bd37a2d72f5f)
