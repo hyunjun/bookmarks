@@ -467,6 +467,7 @@ Python
 * [Change The Way You Write Python Code With One Extra Character | by Dorel Masasa | The Startup | Medium](https://medium.com/swlh/change-the-way-you-write-python-code-with-one-extra-character-6665b73803c1) asterisk, args, kwargs
 * [9 Skills That Separate Beginners From Intermediate Python Programmers | by Martin Andersson Aaberge | Better Programming | Medium](https://medium.com/better-programming/9-skills-that-separate-a-beginner-from-an-intermediate-python-programmer-8bbde735c246)
 * [Equality vs Identity vs Membership Operation in Python | by Indhumathy Chelliah | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/equality-vs-identity-vs-membership-operation-in-python-76a1dbd69d6c) `==`, `is`, `in`
+* [3 Common Python Flaws You Need To Avoid | by Anupam Chugh | Towards Data Science](https://towardsdatascience.com/3-common-python-flaws-you-need-to-avoid-46c9eebfa0fe)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -646,6 +647,7 @@ Python
   * [Dicts are now ordered, get used to it](https://softwaremaniacs.org/blog/2020/02/05/dicts-ordered/en/)
   * [The Idiomatic Way to Merge Dictionaries in Python](https://treyhunner.com/2016/02/how-to-merge-dictionaries-in-python/)
   * [Five Ways to Loop Through Python Dictionaries | by Jonathan Hsu | Better Programming | Medium](https://medium.com/better-programming/five-ways-to-loop-through-python-dictionaries-468db779744d)
+  * [Dictionary View Objects 101. Learning about dynamic view objects in… | by Indhumathy Chelliah | Aug, 2020 | codeburst](https://codeburst.io/dictionary-view-objects-101-480b72f71dec)
 * dis
   * [PyInstaller로 만든 EXE 파일에서 Python code 뽑아내기](https://item4.github.io/2018-11-04/Extract-Python-Code-from-PyInstaller-EXE-File/)
 * double/float
@@ -3238,6 +3240,7 @@ Python
 * [파이썬 패키징, 배포 툴의 과거와 현재 · 개발블로그](https://blog.gyus.me/2020/python-packaging-history/)
 * [Michał Wodyński - Difficulties of Python code development:packages,virtualenvs and package mangers - YouTube](https://www.youtube.com/watch?v=NZ8K1GXI94M)
 * [Wei Lee - Python Table Manners: Cut the Cookie Gracefully - YouTube](https://www.youtube.com/watch?v=m6rF3Kah928)
+* [Our Python Monorepo. At Opendoor we started putting all our… | by Dan Hipschman | Open House | Medium](https://medium.com/opendoor-labs/our-python-monorepo-d34028f2b6fa)
 * [ezpypi: Very simple and easy to use pip on any os](https://github.com/dlehdgud2380/ezpypi)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
   * [Pex를 이용한 배포](https://b.luavis.kr/python/deploy-with-pex)
