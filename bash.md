@@ -28,6 +28,7 @@ Shell
 * [This Will Make You a Command-Line Ninja | by Erik van Baaren | Towards Data Science](https://towardsdatascience.com/this-will-make-you-a-command-line-ninja-93a51cdb16b1)
 * [A Simple Productivity Hack Using Bash Scripts | by Sebastian Scholl | The Startup | Medium](https://medium.com/swlh/a-simple-productivity-hack-using-bash-scripts-b723e60dd584)
 * [Upgrading Bash on macOS. One thing that many macOS users don’t… | by Daniel Weibel | ITNEXT](https://itnext.io/upgrading-bash-on-macos-7138bd1066ba)
+* [(리눅스 업스킬 도전 #20) 셸 스크립트](https://jhrogue.blogspot.com/2020/10/20.html)
 * argument
   * [practice - multiple arguments](https://gist.github.com/hyunjun/ba33945e80a4f899cc169f97aa351820)
   * [bash pass multiple arguments with spaces](http://www.linuxquestions.org/questions/linux-software-2/bash-pass-multiple-arguments-with-spaces-717268/)
