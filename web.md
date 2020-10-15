@@ -754,6 +754,8 @@ Web
 * [5 Tricks When A/B Testing Is Off The Table](https://www.kdnuggets.com/2017/12/5-tricks-ab-testing.html)
 
 ## Test Load Test
+* [실전 Web Application 부하 테스트 - 1편](https://blog.imqa.io/siljeon-web-aeb-buha-teseuteu-1byeon/)
+* [실전 Web Application 부하 테스트 - 2편](https://blog.imqa.io/loadtesting2/)
 * [Gatling - a powerful open-source load testing solution](https://gatling.io/download/)
   * [Distributed load testing with Gatling and Kubernetes](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
   * [Como instalar o Gatling no MacOS](https://medium.com/@matheusinaciopedro/como-instalar-o-gatling-no-macos-9f555c5c2ab0)
