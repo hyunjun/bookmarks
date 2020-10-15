@@ -63,6 +63,7 @@ Shell
   ${VAR_NAME%[delimiter]*} remove after delimiter
   ```
   * [practice - split by tab](https://gist.github.com/hyunjun/c8aa8398b60b366177385e8dc36d677d#file-split_by_tab-md)
+  * [practice - substring, removal, length, char replace](https://gist.github.com/hyunjun/c8aa8398b60b366177385e8dc36d677d#file-string_manipulation-sh)
   * example
 
     ```
