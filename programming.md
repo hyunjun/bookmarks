@@ -409,6 +409,7 @@ Programming
 * [A Curated List of 100 Cool and Fun Public APIs to Inspire Your Next Project](https://medium.com/better-programming/a-curated-list-of-100-cool-and-fun-public-apis-to-inspire-your-next-project-7600ce3e9b3)
 * [API 이코노미를 살펴본다 (1) 최근 기술 및 사업화 동향 :: Channy's Blog](http://channy.creation.net/blog/1371)
 * [Elle Townsend | My 5 favourite APIs | The Startup](https://medium.com/swlh/my-top-5-apis-for-new-developers-5191031da102)
+* [Best Practices: API Design. Well designed APIs = Happy Developers… | by Varun Joshi | codeburst](https://codeburst.io/best-practices-api-design-61d4697d17ff)
 * [Api first design 개발의 선순환](https://www.slideshare.net/JoenggyuLenKim/api-first-design-237743080)
 * [API Testing Guide and Beginner’s Tips (SOAP & REST) | by Katalon Studio | Katalon | Medium](https://medium.com/katalon-studio/api-testing-guide-and-beginners-tips-soap-rest-8d33bf56225c)
 * [API design guidance - Best practices for cloud applications | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
@@ -1300,6 +1301,7 @@ Programming
 * [핑퐁팀의 Python 문화 구축기](https://blog.pingpong.us/python-in-pingpong/)
 * [하루에 1000번 배포하는 조직 되기](https://blog.banksalad.com/tech/become-an-organization-that-deploys-1000-times-a-day/)
 * [Deploys at Slack - Several People Are Coding](https://slack.engineering/deploys-at-slack-cd0d28c61701)
+* [The Road to CI/CD: The Ultimate Guide | by Remco Rakers | Better Programming](https://medium.com/better-programming/the-road-to-ci-cd-a6939addd42d)
 * teamcity
   * [TeamCity 설치하기](https://jojoldu.tistory.com/448)
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
