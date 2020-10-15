@@ -109,6 +109,7 @@ AWS
 * [Spot Instance 사용하는 방법](https://developer88.tistory.com/309)
 * [AWS, Kubernetes 그리고 WAF](https://dailyhotel.io/aws-kubernetes-%EA%B7%B8%EB%A6%AC%EA%B3%A0-waf-f8fb5fe54caf)
 * [AWS Managed WAF 체험기](https://medium.com/benx-tech-blog/aws-managed-waf-%EC%B2%B4%ED%97%98%EA%B8%B0-eea52affb295)
+* [AWS WAF 운영에 대한 이야기 - 우아한형제들 기술 블로그](https://woowabros.github.io/security/2020/10/15/woowa-aws-waf.html)
 * [A Day in Java Developer’s Life, with a taste of Kubernetes](https://github.com/arun-gupta/java-k8s)
 * [Kubernetes Hands-on](https://github.com/awskrug/handson-labs-2018/blob/master/OpenInfraDays/hands-on.md)
 * [AWSKRUG Hands-on Lab 2018](https://github.com/awskrug/handson-labs-2018)
