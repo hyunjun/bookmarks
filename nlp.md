@@ -833,6 +833,7 @@ NLP
   * [Amazon Comprehend - Natural Language Processing (NLP) and Machine Learning (ML)](https://aws.amazon.com/comprehend/)
   * [Cloud Natural Language  |  Google Cloud](https://cloud.google.com/natural-language)
   * [TextBlob: Simplified Text Processing](https://textblob.readthedocs.io/)
+    * [How to Perform Emotion detection in Text via Python | Hacker Noon](https://hackernoon.com/how-to-perform-emotion-detection-in-text-via-python-lk383tsu)
 * [꼬꼬마 프로젝트!](http://kkma.snu.ac.kr/)
 * 날개셋
   * [다음 버전 개발 근황](http://moogi.new21.org/tc/1360)
