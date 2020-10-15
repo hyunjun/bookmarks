@@ -7,6 +7,7 @@ Programming
 * [handong1587.github.io/categories.html](https://handong1587.github.io/categories.html)
 * [okdevtv.com/md/list.html](https://okdevtv.com/md/list.html)
 * [GitHub Repos That Every Developer Should Know About](https://medium.com/better-programming/github-repos-that-every-developer-should-know-about-3f0bc8c316ba)
+* [10 GitHub Repos That Can Be Used for Self-Improvement | by Daan | Aug, 2020 | Level Up Coding](https://levelup.gitconnected.com/10-github-repos-that-can-be-used-for-self-improvement-7a926bd62ba5)
 * [Awesome Open Source Documents - This is a curated list of open source or open source licensed documents, guides, books](https://github.com/nacyot/awesome-opensource-documents)
 * [awesome-cold-showers: For when people get too hyped up about things](https://github.com/hwayne/awesome-cold-showers)
   * Verification Techniques (PDF)
@@ -184,6 +185,8 @@ Programming
 * [백발의 개발자가 되기 위한 커리어 패스](http://zdnet.co.kr/column_view.asp?artice_id=20141106211852)
 * [CROSS-PLATFORM GUI TOOLKIT TRAINWRECK, 2016 EDITION](http://blog.johnnovak.net/2016/05/29/cross-platform-gui-trainwreck-2016-edition/)
 * [**좋은 코딩을 위한 13 가지 간단한 규칙**](https://mingrammer.com/translation-13-simple-rules-for-good-coding)
+* [2 Defensive Coding Techniques You Should Use Today | The Startup](https://medium.com/swlh/2-defensive-coding-techniques-you-should-use-today-4225cacc1c29)
+* [19 things I stole from great developers | by Daniel Anderson | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/19-things-i-stole-from-great-developers-85511ff56570)
 * [좋은 코드를 많이 봐야 한다](http://blog.seulgi.kim/2018/02/you-should-read-good-code.html)
 * [좋은 코드란 무엇인가 | 프로그래머 이규원의 웹사이트](https://gyuwon.github.io/blog/2020/07/31/what-is-good-code.html)
 * [Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites](https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/) SRE - Site Reliability Engineer
