@@ -1378,6 +1378,7 @@ Programming
 * [Super Easy All-In-One DevOps Platform](https://github.com/theonedev/onedev)
 * [Must Learn DevOps Tools for 2020. A curated list of the best DevOps tools… | by Tj Blogumas | Better Programming | Medium](https://medium.com/better-programming/must-learn-devops-tools-for-2020-1a8a2675e88f)
 * [How to Become an DevOps Engineer in 2020 | by Shane Shown | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/how-to-become-an-devops-engineer-in-2020-80b8740d5a52)
+* [DevOps Definition: Focus, means, and expected results](https://github.blog/2020-10-07-devops-definition/)
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
@@ -1926,6 +1927,7 @@ Programming
   * [기술 뉴스 #157 : 20-09-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1494)
   * [기술 뉴스 #158 : 20-09-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1496)
   * [기술 뉴스 #159 : 20-10-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1501)
+  * [기술 뉴스 #160 : 20-10-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1504)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
