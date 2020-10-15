@@ -2815,6 +2815,7 @@ Javascript
 * [ui.devsisters.com](https://ui.devsisters.com/) 데브시스터즈 리액트 컴포넌트
 * [useSWR — My New Favorite React Library](https://medium.com/frontend-digest/useswr-my-new-favorite-react-library-cd87a914a5b1)
 * [Redux 를 넘어 SWR 로(1) | LearnApplyShare](https://min9nim.now.sh/2020-10-03-swr-intro1/)
+* [Redux 를 넘어 SWR 로(2) | LearnApplyShare](https://min9nim.now.sh/2020-10-05-swr-intro2/)
 * [VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library)
 * [WhoTalk - React + Node.js Web App](https://www.youtube.com/watch?v=wZDSY5zPE2A)
 
