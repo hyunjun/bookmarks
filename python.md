@@ -165,6 +165,7 @@ Python
 * [Python Online Quiz | Online Test | Mock Exam](http://www.hub4tech.com/Python-online-quiz-test)
 * [Python Interview Questions and Answers](http://www.hub4tech.com/interview/python)
 * [80 Python Interview Practice Questions | by Cornellius Yudha Wijaya | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/80-python-interview-practice-questions-f1640eea66ac)
+* [10 Advanced Python Interview Questions | by Michael Krasnov | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/10-advanced-python-interview-questions-d36e3429601b)
 * [이미지 캡션 API - CloudSight, Clarifai](https://brunch.co.kr/@kmbmjn95/22)
 * [파이썬 + 네트워크 20160210](http://www.slideshare.net/dahlmoon/20160210)
 * [Code Puzzle](http://cp1.nintendo.co.jp/)
@@ -343,6 +344,7 @@ Python
 * [win32 api in python](http://algomarket.wikidot.com/win32-api-in-python)
 * [win32print](http://timgolden.me.uk/python/win32_how_do_i/print.html)
 * [Sebastian Witowski - Writing faster Python](https://www.youtube.com/watch?v=YjHsOrOOSuI)
+* [5 Ways to Make Your Python Code Faster | by Adarsh Bulusu | The Startup | Medium](https://medium.com/swlh/5-ways-to-make-your-python-code-faster-c6878acf59c1)
 * [The one-stop guide to (easy) cross-platform Python freezing: Part 1](https://hackernoon.com/the-one-stop-guide-to-easy-cross-platform-python-freezing-part-1-c53e66556a0a)
 * [Which is the fastest version of Python?](https://hackernoon.com/which-is-the-fastest-version-of-python-2ae7c61a6b2b)
 * [신묘한 Python locals() 의 세계](https://charsyam.wordpress.com/2018/05/03/%ec%9e%85-%ea%b0%9c%eb%b0%9c-%ec%8b%a0%eb%ac%98%ed%95%9c-python-locals-%ec%9d%98-%ec%84%b8%ea%b3%84/)
@@ -703,6 +705,7 @@ Python
 * function
   * [Function Argument](http://ulismoon.tistory.com/7)
   * [Write Better Python Functions](https://hackernoon.com/write-better-python-functions-c3a9a36382a6)
+  * [Advanced Python: Consider These 10 Elements When You Define Python Functions | by Yong Cui, Ph.D. | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/advanced-python-consider-these-10-elements-when-you-define-python-functions-61c0be8a10ed)
 * functools
   * python 3 [lru_cache](https://gist.github.com/hyunjun/cae504f02fd8a0e140d8)
     * [memoization library for python 2.7](http://stackoverflow.com/questions/11815873/memoization-library-for-python-2-7)
