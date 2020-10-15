@@ -37,6 +37,7 @@ NoSQL
 * [마이SQL을 쓰긴 애매할 때…'틈새' 데이터베이스 9가지](http://www.itworld.co.kr/news/148349)
 * [Luc Perkins | Blog | Recent database technology that should be on your radar (part 1)](https://lucperkins.dev/blog/new-db-tech-1/)
 * ["NoSQL을 넘어" 분산 SQL의 당위성 - ITWorld Korea](http://www.itworld.co.kr/news/158527)
+* [5 Pitfalls of NoSQL Databases. I recorded a video in which I talk… | by Maciej Szymczyk | Sep, 2020 | ITNEXT](https://itnext.io/5-pitfalls-of-nosql-databases-c35012431a80)
 
 # ArangoDB
 * [Performance comparison between ArangoDB, MongoDB, Neo4j and OrientDB](https://www.arangodb.com/2015/06/performance-comparison-between-arangodb-mongodb-neo4j-and-orientdb/)
