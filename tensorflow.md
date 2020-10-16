@@ -482,6 +482,7 @@ TensorFlow
 * [Implementation of IMPALA with Distributed Tensorflow](https://github.com/RLOpensource/IMPALA-Distributed-Tensorflow)
 * [10 TensorFlow Tricks Every ML Practioner Mush Know](https://jehyunlee.github.io/2020/05/22/Python-DS-14-10_TF_skills/)
 * [Air Cognizer predicts air quality with machine learning](https://morioh.com/p/a9c5a0e394ad)
+* [How to use FastAPI with MongoDB. An easy way to serve your database… | by Fernando Souza | Python In Plain English | Sep, 2020 | Medium](https://medium.com/python-in-plain-english/how-to-use-fastapi-with-mongodb-75b43c8e541d)
 
 # 2.0
 * [TensorFlow 2.0을 출시했습니다](https://developers-kr.googleblog.com/2019/10/tensorflow-2-0-is-now-available.html)
