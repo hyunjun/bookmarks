@@ -1382,6 +1382,7 @@ Scala
 * [Tagless Final - Part 11 - main-http-http4s (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=N-7vQl7HH8k)
 * [Tagless Final - Part 12 - delivery-http-http4s (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=zymyPaYHa-I)
 * [Tagless Final - Part 13 - parse, don't validate (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=2pB4CfQxSH4)
+* [Tagless Final - Part 14 - wait, don't fold (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=N6NlhuB5-T8)
 * [Scala 3 - TF related improvements (mostly #implicits) - YouTube](https://www.youtube.com/watch?v=0MPfFBctWUc)
 
 # Monoids
