@@ -2296,6 +2296,7 @@ Python
 * [Announcing the new Jupyter Book. Note: this announcement is cross-posted… | by Chris Holdgraf | Aug, 2020 | Jupyter Blog](https://blog.jupyter.org/announcing-the-new-jupyter-book-cbf7aa8bc72e)
 * [Miki Tebeka - IPython: The Productivity Booster - YouTube](https://www.youtube.com/watch?v=Zmo2ZN1SJ_Q)
 * [William Horton - A Brief History of Jupyter Notebooks - YouTube](https://www.youtube.com/watch?v=kFhhCOeYcGw)
+* [Making data science notebook collaborative - Jan Matas PyData Prague #8 2020 - YouTube](https://www.youtube.com/watch?v=GQr1uMK74F4)
 
 ## Jupyter Library
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
