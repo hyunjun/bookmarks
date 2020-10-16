@@ -4,7 +4,6 @@ GIS
 * [POSTGIS 2.2 LEVERAGING POWER OF POSTGRESQL 9.5](http://www.postgresonline.com/journal/archives/350-PostGIS-2.2-leveraging-power-of-PostgreSQL-9.5.html)
 * [10 Free GIS Data Sources: Best Global Raster and Vector Datasets](http://gisgeography.com/best-free-gis-data-sources-raster-vector/)
 * [github.com/gaia3d](https://github.com/gaia3d)
-* [네이버 지도 JavaScript API 완벽 가이드 – 투영, 지도 유형 편](http://d2.naver.com/helloworld/9121395)
 * [오픈소스GIS 개발 일반 강의자료](https://www.slideshare.net/jangbi882/gis-73194454)
 * [PostGIS와 함께하는 GIS 3세대 - FOSS4G Korea 2017](https://www.slideshare.net/jangbi882/postgis-gis-3-foss4g-korea-2017)
 * [Hello, Geo-fence!](http://woowabros.github.io/experience/2018/03/31/hello-geofence.html)
@@ -17,6 +16,10 @@ GIS
 * [공시지가 - 전국 모든 땅의 가격은 얼마나 높고 낮은가?](https://www.vw-lab.com/76?category=787869)
 * [Anton Balazh의 스톡 사진 및 이미지 포트폴리오](https://www.shutterstock.com/ko/g/antartis) 지형 고저차가 반영된 지구 이미지(개발x)
 * [주소 인식을 위한 삽질의 기록. 당신의 안전을 위해서라면 뭐든지 할 거예요. 그게 삽질이라도… | by Kyoungwon Lee | 당근마켓 팀블로그 | Jul, 2020 | Medium](https://medium.com/daangn/%EC%A3%BC%EC%86%8C-%EC%9D%B8%EC%8B%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%82%BD%EC%A7%88%EC%9D%98-%EA%B8%B0%EB%A1%9D-df2d8f82d25) 정규식
+
+# Javascript
+* [네이버 지도 JavaScript API 완벽 가이드 – 투영, 지도 유형 편](http://d2.naver.com/helloworld/9121395)
+* [Top Maps API and Libraries in JavaScript | by Sathishravi | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/top-maps-api-and-libraries-in-javascript-e01b01ad5d2c)
 
 # Python
 * 주소DB가지고놀기
