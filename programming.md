@@ -2327,6 +2327,7 @@ Programming
 * [신규 서비스 배포 전에 실험과 개선을 반복한 이야기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/vsms-performance-experiment/)
 * [**How They Test**](https://abhivaikar.github.io/howtheytest/)
 * [유용한 테스트 케이스를 위한 개발자의 자세 : TOAST Meetup](https://meetup.toast.com/posts/246)
+* [Yes, TDD Slows You Down. And that’s OK | by Alessandro Diaferia | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/yes-tdd-slows-you-down-c7ee154ec322)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
