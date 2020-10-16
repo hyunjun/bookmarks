@@ -3580,6 +3580,7 @@ Python
 * [Reading HTML tables with Pandas - Practical Business Python](https://pbpython.com/pandas-html-table.html)
 * [Ian Ozsvald - Making Pandas Fly - YouTube](https://www.youtube.com/watch?v=JgBV7p9jNo0)
 * [Case Study: Processing Historical Weather Pattern Data - Practical Business Python](https://pbpython.com/weather-data.html)
+* [pandas and friends - Marc Garcia - YouTube](https://www.youtube.com/watch?v=PQPv_4rOWe4)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
 * [swifter: A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner](https://github.com/jmcarpenter2/swifter)
