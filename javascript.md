@@ -2633,6 +2633,7 @@ Javascript
 * [안드로이드에 React Native 임베딩 후기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/07/08/android-react-native-embed.html)
 * [From React to React Native. Getting started with mobile development | by Steffy Lo | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/from-react-to-react-native-5d884a1632d7)
 * [비주얼 타이머 앱 개발하며 배운 것들 | 매일 성장하기 - 김용균](https://edykim.com/ko/post/what-i-have-learned-from-visual-timer/)
+* [React Native에서 ESLint, Prettier를 프로처럼 사용하기 - React Native 프로젝트에 ESLint와 Prettier를 적용하는 방법과 Husky, lint-staged로 프로처럼 사용하는 방법에 대해서 알아봅니다.](https://dev-yakuza.github.io/ko/react-native/eslint-prettier-husky-lint-staged/)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
