@@ -416,6 +416,7 @@ Vision
 * [Visualizing the Mandelbrot Set](https://www.tinycranes.com/blog/2015/05/visualizing-the-mandelbrot-set/)
 
 # [OpenCV](http://opencv.org/)
+* [awesome-opencv](https://github.com/italojs/awesome-opencv)
 * [Welcome to OpenCV-Python Tutorials’s documentation!](https://opencv-python-tutroals.readthedocs.io)
 * [opencv - Open Source Computer Vision Library http://opencv.org](https://github.com/opencv/opencv)
 * [Load Caffe framework models](http://docs.opencv.org/trunk/d5/de7/tutorial_dnn_googlenet.html)
