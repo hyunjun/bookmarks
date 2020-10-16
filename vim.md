@@ -177,6 +177,9 @@ Vim
 * [Vim Isn’t That Scary. Here are 5 free resources you can use… | by Fatos Morina | Better Programming | Medium](https://medium.com/better-programming/vim-isnt-that-scary-here-are-5-free-resources-you-can-use-to-learn-it-5bba109a7422)
 * [Switching from Visual Studio Code to Vim: the basics. | by Laura Davies | The Startup | Medium](https://medium.com/swlh/switching-from-visual-studio-code-to-vim-the-basics-f2bb40f5a8a3)
 * [3½ Reasons Why You Should Be Using Vim | by Tate Galbraith | Better Programming | Medium](https://medium.com/better-programming/3%C2%BD-reasons-why-you-should-be-using-vim-8202360afa3)
+* [Vim for Developers: Part 0 — Why Vim? | by David Ondrich | Level Up Coding](https://levelup.gitconnected.com/vim-for-developers-part-0-why-vim-95e68dc5d3a1)
+* [Vim for Developers: Part 1 — The Basics | by David Ondrich | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/vim-for-developers-part-1-the-basics-663619ca122a)
+* [Vim for Developers: Part 2 — Advanced Basics | by David Ondrich | The Startup | Medium](https://medium.com/swlh/vim-for-developers-part-2-advanced-basics-857c0dbda905)
 
 # Book
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro/read_full)
