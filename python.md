@@ -405,6 +405,7 @@ Python
 * [Mutability and Immutability in Python — Let’s Break It Down | by Wendy Leung | Data Driven Investor | Medium](https://medium.com/datadriveninvestor/mutable-and-immutable-python-2093deeac8d9)
 * [Understanding Python Operator Overloading to prevent wrong code | by Doojin Kang | Aug, 2020 | Medium](https://medium.com/@doojin.kang/understanding-python-operator-overloading-to-prevent-wrong-code-a96668e6c263)
 * [Chiel Peters - Python: From Source to Execution | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=xfC5o8HxaBk)
+* [Clean Code in Python. “A long descriptive name is better than… | by Esteban Solorzano | Dev Genius | Medium](https://medium.com/dev-genius/clean-code-in-python-8251eea292fa)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -2334,6 +2335,7 @@ Python
   * [Jupyter Lab: Evolution of the Jupyter Notebook](https://towardsdatascience.com/jupyter-lab-evolution-of-the-jupyter-notebook-5297cacde6b)
   * [A visual debugger for Jupyter](https://blog.jupyter.org/a-visual-debugger-for-jupyter-914e61716559)
   * [3 Must-have JupyterLab 2.0 extensions - Towards Data Science](https://towardsdatascience.com/3-must-have-jupyterlab-2-0-extensions-41024fe455cc)
+  * [AI-Powered Code Completion in JupyterLab | by Robert Ritz | Towards Data Science](https://towardsdatascience.com/ai-powered-code-completion-in-jupyterlab-53e53850080c)
 * [jupyterthemes](https://github.com/dunovank/jupyter-themes)
   * [Jupyter 노트북 테마적용](http://haanjack.github.io/jupyter/theme/2016/03/08/jupyter-theme.html)
   * [Jupyter Theme 적용](https://noweaver.github.io/dt/analytics/2018/10/15/Jupyter-Theme-Apply.html)
@@ -3863,6 +3865,7 @@ Python
 * [Take a Look at the Awesome New Features Coming in Python 3.9 | by Michael Krasnov | Better Programming | Medium](https://medium.com/better-programming/take-a-look-at-the-awesome-new-features-coming-in-python-3-9-8753c494de39)
 * [10 Awesome Python 3.9 Features. The Must-Know Python 3.9 Features | by Farhad Malik | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/10-awesome-python-3-9-features-b8c27f5eba5c)
 * [파이썬(Python) 3.9 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/python-3-9-release-note-summary)
+* [Python 3.9 Update New Features. Write less code, achieve more! | by Radian Krisno | Towards Data Science](https://towardsdatascience.com/python-3-9-update-new-features-e4a580fc5c2)
 * [Features You Likely Don’t Use in Python 3 — But You Should | LaptrinhX](https://laptrinhx.com/features-you-likely-don-t-use-in-python-3-but-you-should-2455806769/)
 * [9 Python 3 Hacks Programmers Probably Don’t Utilize | Better Programming](https://medium.com/better-programming/9-python-3-features-you-might-not-use-yet-fade13932a3e)
 * [concurrent.futures - Easy parallel python with concurrent.futures](https://gist.github.com/mangecoeur/9540178)
