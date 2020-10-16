@@ -32,6 +32,7 @@ Erlang
 * [5 Reasons that Learning Erlang is Hard](http://blog.fhqk.com/2015/10/learning-erlang-is-hard-because.html)
 * [Erlang Beauty](http://blog.ikura.co/posts/erlang-beauty.html)
 * [Managing two million web servers](http://joearms.github.io/2016/03/13/Managing-two-million-webservers.html)
+* [JVM struggles and the BEAM. I’d like to talk about how the… | by Joel Kemp | Medium](https://medium.com/@mrjoelkemp/jvm-struggles-and-the-beam-4d9c58547410)
 
 # Library
 * [Build your next website with Erlang — the world’s most advanced networking platform](http://chicagoboss.org/)
