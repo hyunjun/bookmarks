@@ -717,6 +717,7 @@ Docker
 * [K8s Secret 어떻게 관리할 것인가?](https://andromedarabbit.net/k8s-secret-어떻게-관리할-것인가/)
 * [An 8-minute introduction to K8S](https://medium.com/prodopsio/an-8-minute-introduction-to-k8s-94fda1fa5184)
 * [Kubernetes for Beginners - Docker Introduction](https://www.youtube.com/watch?v=rmf04ylI2K0)
+* [Docker and Kubernetes - Full Course for Beginners](https://morioh.com/p/1d2420ffad64)
 * [Kubernetes The Easy Way!](https://www.youtube.com/watch?v=kOa_llowQ1c)
 * [kubernetes를 부탁해~ Prometheus 기반 Monitoring 구축&활용기](https://www.slideshare.net/jinsumoon33/kubernetes-prometheus-monitoring)
 * [Kubernetes Prometheus Install](https://uni2u.tistory.com/105)
