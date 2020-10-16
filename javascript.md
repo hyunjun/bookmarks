@@ -1284,6 +1284,8 @@ Javascript
 * [JavaPoly.js Java(script) in the Browser](https://www.javapoly.com/)
 * [javascript.com - Not exactly sure what JavaScript is?](https://www.javascript.com/)
 * [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services](https://github.com/servant-app/JAWS)
+* [joist: A small (~2kb) library to help with the creation of web components and web component based applications](https://github.com/joist-framework/joist)
+  * [Introducing Joist. I’ve done it. I have done the thing… | by Danny Blue | ITNEXT](https://itnext.io/introducing-joist-313f111a428)
 * [jsblocks - Better MV-ish Framework](http://jsblocks.com/)
 * [jsCodeStructure - Analyse the structure of your js project(relations between js files)](https://github.com/timqian/jsCodeStructure)
 * [jscomp - Ahead of time JavaScript compiler](https://github.com/tmikov/jscomp)
@@ -2636,6 +2638,7 @@ Javascript
 * [From React to React Native. Getting started with mobile development | by Steffy Lo | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/from-react-to-react-native-5d884a1632d7)
 * [비주얼 타이머 앱 개발하며 배운 것들 | 매일 성장하기 - 김용균](https://edykim.com/ko/post/what-i-have-learned-from-visual-timer/)
 * [React Native에서 ESLint, Prettier를 프로처럼 사용하기 - React Native 프로젝트에 ESLint와 Prettier를 적용하는 방법과 Husky, lint-staged로 프로처럼 사용하는 방법에 대해서 알아봅니다.](https://dev-yakuza.github.io/ko/react-native/eslint-prettier-husky-lint-staged/)
+* [Mark a Coordinate on Mapbox Map in React Native | by nhammad | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/mark-a-coordinate-on-mapbox-map-in-react-native-5d21c71ed46e)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
