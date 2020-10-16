@@ -172,6 +172,7 @@ C++
 * [C++: The Good Parts](https://www.infoq.com/presentations/c-plus-plus-pros/)
 * [How expensive is integer-overflow trapping in C++? – Daniel Lemire's blog](https://lemire.me/blog/2020/09/23/how-expensive-is-integer-overflow-trapping-in-c/)
 * [Creating a console animation with C++ | by Evans Ehiorobo | How-Tos | Medium](https://medium.com/building-a-simple-text-correction-tool/creating-a-console-animation-with-c-18bf9e8ca582)
+* [Ranges, Code Quality, and the Future of C++ | by Jason Meisel | Medium](https://medium.com/@jasonmeisel/ranges-code-quality-and-the-future-of-c-99adc6199608)
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
