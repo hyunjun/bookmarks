@@ -570,6 +570,7 @@ Java
 * [Java Feature Spotlight: Text Blocks](https://www.infoq.com/articles/java-text-blocks/)
 * [Java 15: the Story So Far](https://www.infoq.com/news/2020/04/java-15-story-so-far/)
 * [Java 15 Released](https://www.infoq.com/news/2020/09/java15-released/)
+* [Java 15 through the eyes of a Scala programmer | by Adam Warski, SoftwareMill | SoftwareMill Tech Blog](https://blog.softwaremill.com/java-15-through-the-eyes-of-a-scala-programmer-edde1ea04492)
 
 # Java16
 * [C++ 14 기능 지원부터 벡터 API까지··· JDK 16, 기능 구체화 - CIO Korea](http://www.ciokorea.com/news/165350)
