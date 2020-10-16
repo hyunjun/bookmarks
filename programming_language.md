@@ -424,6 +424,7 @@ Programming Language
   * [Why Smalltalk is so easy to evangelize - ITNEXT](https://itnext.io/why-smalltalk-is-so-easy-to-evangelize-2b88b4d4605c)
 * [Squirrel](http://squirrel-lang.org/)
 * [Stan is a probabilistic programming language implementing full Bayesian statistical inference](http://mc-stan.org/)
+* Stella [Tackling the Awkward Squad for Reactive Programming: The Actor-Reactor Model (ECOOP 2020) - ECOOP 2020](https://2020.ecoop.org/details/ecoop-2020-papers/19/Tackling-the-Awkward-Squad-for-Reactive-Programming-The-Actor-Reactor-Model)
 * [Stripes - A small, modern and innovative programming language that runs anywhere](http://danilo.lekoits.com/Stripes/)
 * [Strongtalk - a major re-thinking of the Smalltalk-80 programming language and system](http://www.strongtalk.org/)
 * Tcl
