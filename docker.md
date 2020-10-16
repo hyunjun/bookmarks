@@ -221,6 +221,7 @@ Docker
     ```
   * scala
     * [How to Dockerise a Scala and Akka HTTP Application — the easy way](https://medium.freecodecamp.org/how-to-dockerise-a-scala-and-akka-http-application-the-easy-way-23310fc880fa)
+  * [Selenium Grid With Docker. Automation using Selenium WebDriver has… | by Nitin Bhardwaj | Medium](https://medium.com/@nitinbhardwaj6/selenium-grid-with-docker-c8ecb0d8404)
   * [sonarqube](https://hub.docker.com/_/sonarqube/)
     * [docker-sonarqube](https://github.com/SonarSource/docker-sonarqube/)
     * [Super quick Sonar/Postgres setup with docker](http://blog.anorakgirl.co.uk/2015/11/super-quick-sonarpostgres-setup-with-docker/)
