@@ -351,6 +351,7 @@ AWS
 * [What should we know about AWS Security? (Part 2)](https://salerno-rafael.blogspot.com/2019/07/what-should-we-know-about-aws-security_27.html)
 * [AWS Solutions Architect - Associate certificate Study — 공식 문서 정리 Part 1](https://medium.com/@tkdgy0801/aws-solutions-architect-certificate-공부-영역-1-7abd91cd91a8)
 * [AWS Solutions Architect — Associate certificate Study — 공식 문서 정리 Part 2](https://medium.com/@tkdgy0801/aws-solutions-architect-associate-certificate-study-공식-문서-정리-part-2-3775eb75230e)
+* [AWS Certified Machine Learning-Specialty 도전기 | by Minsu Cho | Hard Boiled Smith Stories | Oct, 2020 | Medium](https://medium.com/hbsmith/aws-certified-machine-learning-specialty-%EB%8F%84%EC%A0%84%EA%B8%B0-36620bb7545b)
 * [AWS로 서버 없이 웹 서비스 운영하기 – 1](http://blog.dramancompany.com/2019/09/aws%eb%a1%9c-%ec%84%9c%eb%b2%84-%ec%97%86%ec%9d%b4-%ec%9b%b9-%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%9a%b4%ec%98%81%ed%95%98%ea%b8%b0-1/)
 * [이메일 인증 작업 서버리스 앱으로 구성하기](https://aws.amazon.com/ko/blogs/korea/using-callback-urls-for-approval-emails-with-aws-step-functions/)
 * [AWS 클라우드를 통해 최소기능제품(MVP) 빠르게 개발하기 - 윤석찬, AWS 테크에반젤리스트](https://www.slideshare.net/awskorea/how-to-build-startup-mvp-in-aws-cloud)
