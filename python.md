@@ -522,6 +522,7 @@ Python
   * [**매직 메서드를 이용한 객체 간의 diff 구하기**](https://velog.io/@litien/Python-%EB%A7%A4%EC%A7%81-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%91%90-%EA%B0%9D%EC%B2%B4-%EA%B0%84%EC%9D%98-diff-%EA%B5%AC%ED%95%98%EA%B8%B0)
   * [Class Attribute VS Instance Attribute of Python](https://medium.com/techtofreedom/differences-between-class-attribute-and-instance-attribute-of-python-1ae61774489c)
   * [How to use Python classes effectively | by Rhea Moutafis | Towards Data Science](https://towardsdatascience.com/how-to-use-python-classes-effectively-10b42db8d7bd)
+  * [Python Objects and Classes: The Most Important Python Concepts That You Need to Understand | Towards Data Science](https://towardsdatascience.com/the-most-important-python-concept-that-you-need-to-understand-985b98bbb84)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
@@ -616,6 +617,7 @@ Python
   * [파이썬 데코레이터(Decorator)에 파라미터 넣기](https://blog.naver.com/codeitofficial/221680630354)
   * [Decorators in Python: Fundamentals for Data Scientists | by Erdem Isbilen | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/decorators-in-python-fundamentals-for-data-scientists-eada7f4eba85)
   * [Handling exceptions in Python a cleaner way, using Decorators | by Shivam Batra | The Startup | Medium](https://medium.com/swlh/handling-exceptions-in-python-a-cleaner-way-using-decorators-fae22aa0abec)
+  * [Using Class Decorators in Python. An example-led guide to using Class… | by Stephen Fordham | Towards Data Science](https://towardsdatascience.com/using-class-decorators-in-python-2807ef52d273)
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
   * [Python Descriptors](https://www.youtube.com/watch?v=ZdvpNaWwx24)
@@ -913,6 +915,7 @@ Python
   * [Functional Programming in Python: Parallel Processing with "multiprocessing"](https://www.youtube.com/watch?v=aysceqdGFw8)
   * [Functional Programming in Python: Parallel Processing with "concurrent.futures"](https://www.youtube.com/watch?v=0NNV8FDuck8)
   * [Amber Brown Implementing Concurrency and Parallelism From The Ground Up PyCon 2017](https://www.youtube.com/watch?v=31fXwpb0P9c)
+  * [**Advanced Python: Concurrency And Parallelism | by Farhad Malik | FinTechExplained | Medium**](https://medium.com/fintechexplained/advanced-python-concurrency-and-parallelism-82e378f26ced)
   * [Multiprocessing with Python](https://www.youtube.com/watch?v=s1SkCYMnfbY)
   * [A Hands on Guide to Multiprocessing in Python](https://towardsdatascience.com/a-hands-on-guide-to-multiprocessing-in-python-48b59bfcc89e)
   * [An introduction to parallel programming using Python's multiprocessing module](https://sebastianraschka.com/Articles/2014_multiprocessing.html)
@@ -2657,6 +2660,7 @@ Python
   * [Integrating Tortoise ORM into a FastAPI App - YouTube](https://www.youtube.com/watch?v=vVjWeLVv97c)
   * [Integrating AIOHTTP Into a FastAPI App - YouTube](https://www.youtube.com/watch?v=BalvzyKg_4k)
   * [4 Useful Advanced Features in FastAPI | by Ng Wai Foong | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/4-useful-advanced-features-in-fastapi-f08e4db59637)
+  * [How to use FastAPI with MongoDB. An easy way to serve your database… | by Fernando Souza | Python In Plain English | Sep, 2020 | Medium](https://medium.com/python-in-plain-english/how-to-use-fastapi-with-mongodb-75b43c8e541d)
 * [Faster CPython](http://faster-cpython.readthedocs.io/) FAT Python
 * [Faust - A library for building streaming applications in Python](https://faust.readthedocs.io/)
 * [fawkes: Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes](https://github.com/Shawn-Shan/fawkes)
