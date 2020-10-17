@@ -58,6 +58,7 @@ Go
 * [Manual Memory Management in Go](https://deferpanic.com/blog/manual-memory-management-in-go/)
 * [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
 * [Go memory ballast: How I learned to stop worrying and love the heap](https://blog.twitch.tv/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2)
+* [Memory Optimizations for Go Systems | by Nishant Roy | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/memory-optimizations-for-go-systems-48d95cf64a13)
 * [Why Go for Decision Trees?](http://datascience.systemsbiology.net/tag/cloudforest/)
 * [Go in Go](http://talks.golang.org/2015/gogo.slide)
 * [The State of Go](http://talks.golang.org/2015/state-of-go-may.slide)
