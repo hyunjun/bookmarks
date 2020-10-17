@@ -2039,6 +2039,8 @@ Programming
 * [(9월 19일 특집) 2020년 자바 스프링 현황](https://jhrogue.blogspot.com/2020/09/9-19-2020.html) 인구 통계학적인 정보, 개발자들이 스프링부트를 좋아하는 이유와 겪는 어려움, 클라우드 관련 대응, 인기 있는 모듈, 클라우드 네이티브 관련 동향
 * [(9월 26일) 지금까지 본 나쁜 코드 중에서 가장 !@#$한 사례는?](https://jhrogue.blogspot.com/2020/09/9-26.html) vim 인기 상승, 개발자 추천 도서, 나쁜 코드 사례, 이상한 오류 찾는법, webhint.io 웹개발자 힌트 서비스, 2020년 마이크로서비스 채택 통계, 웹 성능 향상 가이드, jQuery 자바스크립트 변환
 * [(10월 10일) 구글 등 주요 회사의 코딩 인터뷰 살펴보기](https://jhrogue.blogspot.com/2020/10/10-10.html) 코딩 인터뷰 모음, git 연습, NestedText: JSON과 YAML은 가라, egghead – 프론트엔드 개발자를 위한 동영상 모음, 셸 히스토리 중앙 저장소에 모아보자
+* [2020년 10월 17일 개발자 이야기](https://www.slideshare.net/jrogue/2020-10-17)
+  * [(10/17) 서버리스 혁명이 지체되는 이유는? - YouTube](https://www.youtube.com/watch?v=YXCRoFy__YQ)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 
 # OS Operating System
