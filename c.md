@@ -169,6 +169,7 @@ C
 * [Exploring mullender.c - A deep dive into the first IOCCC winner :: LainSystems](https://lainsystems.com/posts/exploring-mullender-dot-c/)
 * [The problem with C | cor3ntin](https://cor3ntin.github.io/posts/c/)
 * [C’s Biggest Mistake - Digital Mars](https://digitalmars.com/articles/C-biggest-mistake.html)
+* [흔한 C 프로그래밍 오류 4가지, '그리고 5가지 대처법' - CIO Korea](http://www.ciokorea.com/news/167460)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -221,6 +222,7 @@ C
   * [Cello 라이브러리 in Windows](https://blog.naver.com/sssang97/221562440032)
 * [Cforall (C∀) Home Page](http://plg.uwaterloo.ca/~cforall/)
 * [cget - Cmake package retrieval](https://github.com/pfultz2/cget)
+* [chibicc: A small C compiler](https://github.com/rui314/chibicc)
 * ["cint" is a C/C++ interpreter which has following features](http://www.hanno.jp/gotom/Cint.html)
 
   ```
@@ -266,6 +268,7 @@ C
   * [practice - CUnit](https://gist.github.com/hyunjun/787d4662303e01019a98)
 * curl
   * [practice - test libcurl](https://github.com/hyunjun/practice/tree/master/c/test-libcurl)
+  * [c++ - libcurl automatically replacing line feed with line feed + carriage return - Stack Overflow](https://stackoverflow.com/questions/31567457/libcurl-automatically-replacing-line-feed-with-line-feed-carriage-return)
 * [Donut math: how donut.c works – a1k0n.net](https://www.a1k0n.net/2011/07/20/donut-math.html)
 * enkiTS
   * [Implementing a lightweight task scheduler](http://www.enkisoftware.com/devlogpost-20150822-1-Implementing_a_lightweight_task_scheduler.html)
