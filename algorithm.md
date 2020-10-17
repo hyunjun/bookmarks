@@ -269,6 +269,7 @@ Algorithm
 * [Tutorial Summary: Paxos Explained from Scratch](http://www.ux.uis.no/~meling/papers/2013-paxostutorial-opodis.pdf)
 * [The Raft Consensus Algorithm](https://raft.github.io/)
 * [**Raft 분산 합의 알고리즘과 Python에서의 활용**](https://d2.naver.com/helloworld/5663184)
+* [A review of consensus protocols](https://thomasvilhena.com/2020/10/a-review-of-consensus-protocols)
 
 # Data Mining
 * [Top 10 data mining algorithms in plain English](http://rayli.net/blog/data/top-10-data-mining-algorithms-in-plain-english/)
