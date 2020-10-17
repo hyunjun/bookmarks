@@ -37,6 +37,7 @@ Javascript
 * [V8의 히든 클래스 이야기](https://engineering.linecorp.com/ko/blog/v8-hidden-class)
 * [The V8 Engine and JavaScript Optimization Tips](https://alligator.io/js/v8-engine/)
 * [V8 JavaScript Engine 8.0 Reduces Heap by 40%, Adds Optional Chaining and Null Coalescing](https://www.infoq.com/news/2019/12/v8-8-0-heap-reduction/)
+* [자바스크립트와 V8 엔진의 메모리 관리 프로세스. Table of Contents | by Minjae Lee | 네이버 플레이스 개발 블로그 | Sep, 2020 | Medium](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1)
 * [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 * [The 10 Days of JavaScript](https://www.youtube.com/playlist?list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs)
 * [**30 Day Vanilla JS Coding Challenge**](https://javascript30.com/)
@@ -1140,6 +1141,7 @@ Javascript
 * [algebra.js - Build, display, and solve algebraic equations in JavaScript](http://algebra.js.org/)
 * [animejs.com](http://animejs.com/)
   * [anime.js - Animating the DOM with Anime.js](https://www.sitepoint.com/animating-the-dom-with-anime-js)
+* ar.js [WebXR Device API를 이용한 웹 AR 구현, 그 한계와 대안](https://d2.naver.com/helloworld/0527763)
 * asm.js
   * [Asm.js Chess Battle](https://dev.windows.com/en-us/microsoft-edge/testdrive/demos/chess/)
 * [Avsc - Pure JavaScript implementation of the Avro specification](https://github.com/mtth/avsc)
@@ -2008,6 +2010,7 @@ Javascript
 * [tvcl - A simple CLI for tracking tv shows](https://www.npmjs.com/package/tvcl)
 * [undici: An HTTP/1.1 client, written from scratch for Node.js](https://github.com/nodejs/undici)
 * [vantage - A new take on interactive CLI for Node](https://github.com/dthree/vantage)
+* [volta: Volta: Start your engines](https://github.com/volta-cli/volta)
 * [Vorpal is Node's first framework for building interactive CLI applications](https://github.com/dthree/vorpal/###)
 * [web-term - A fullscreen terminal in your browser](https://github.com/IonicaBizau/web-term)
 * [Wit-Faebook Messenger Example](https://github.com/hunkim/Wit-Facebook)
