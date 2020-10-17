@@ -132,6 +132,7 @@ Docker
   * [Docker 위의 웹서버 프로젝트 구상하기](https://woolbro.tistory.com/102) ELK, Flask Vue, MongoDB
   * [workout-log/back-end: workout-log의 백엔드 레포지토리 입니다.](https://github.com/workout-log/back-end) JavaScript, EC2, mongodb, Cookie + JWT
   * [**GitHub Container Registry에 도커 이미지 Push 하기 - Qiita**](https://qiita.com/leechungkyu/items/f95998506d45feb15393)
+  * [Dockerfile Security Best Practices - Cloudberry Engineering](https://cloudberry.engineering/article/dockerfile-security-best-practices/)
   * [centos](https://hub.docker.com/_/centos/)
   * couchbase
     * [Setting Up a Couchbase Cluster in 10 Minutes with Docker Compose](https://medium.com/@teivah/setting-up-a-couchbase-cluster-in-10-minutes-with-docker-and-docker-compose-61e5ccfae21a)
@@ -832,6 +833,8 @@ Docker
 * [10 Anti-Patterns for Kubernetes Deployments | by Becca Bau | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/10-antipatterns-for-kubernetes-deployments-e97ce1199f2d)
 * [우리는 불편함을 어떻게 마주하고 있는가 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/10/06/thiiing-system-improvement.html)
 * [Kubernetes에서 NFS(EFS) 사용하기 | PSH's Blog](https://pseonghoon.github.io/post/k8s-and-nfs)
+* [Canonical introduces high-availability Micro-Kubernetes | ZDNet](https://www.zdnet.com/article/canonical-introduces-high-availability-micro-kubernetes/)
+* [How a Kubernetes Pod Gets an IP Address | Ronak Nathani](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -869,6 +872,8 @@ Docker
     * [KNative Auto scaling](https://bcho.tistory.com/1359)
   * [Getting Started with Knative in Scala | @lightbend](https://www.lightbend.com/blog/getting-started-with-knative-in-scala)
 * [Kogito ergo automate - CLOUD-NATIVE BUSINESS AUTOMATION FOR BUILDING INTELLIGENT APPLICATIONS, BACKED BY BATTLE-TESTED CAPABILITIES](https://kogito.kie.org)
+* [kubectl-trace: Schedule bpftrace programs on your kubernetes cluster using the kubectl](https://github.com/iovisor/kubectl-trace)
+* [kubedoom: Kill Kubernetes pods by playing Id's DOOM!](https://github.com/storax/kubedoom)
 * Kubeflow
   * [Introducing Kubeflow - A Composable, Portable, Scalable ML Stack Built for Kubernetes](http://blog.kubernetes.io/2017/12/introducing-kubeflow-composable.html?m=1)
   * Kubeflow는 Kubernetes에서 ML 스택의 사용을 쉽고 빠르며 확장 할 수 있도록 능률화하기 위해 Github에서 호스팅되는 새로운 오픈소스 프로젝트
