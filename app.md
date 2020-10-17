@@ -47,6 +47,7 @@ App
   * KeePass, DB Fiddle, Instant SQL Formatter, REPL, Regex 101, DiffChecker, Pastebin
 * [5 Underrated Apps for Coders To Use Today | codeburst](https://codeburst.io/5-underrated-apps-for-programmers-you-should-use-right-now-738388693169)
 * [Amazing Developer Tools That You Might Not Be Using | by Dhananjay Trivedi | Better Programming | Medium](https://medium.com/better-programming/amazing-developer-tools-that-you-might-not-be-using-1ec7f57d17d5)
+* [Embedded File Viewer: Google Drive, OneDrive](https://gist.github.com/tzmartin/1cf85dc3d975f94cfddc04bc0dd399be)
 * [모두의 프린터](https://modu-print.tistory.com/)
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
@@ -344,6 +345,7 @@ App
 * [크롬 확장프로그램 개발⛏️ 회고](https://zuminternet.github.io/Zum-Chrome-Extension/)
 * [10 Awesome Chrome Flags You Should Enable Right Now | by Sanjeet Chatterjee | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/10-awesome-chrome-flags-you-should-enable-right-now-2684e4518cb5)
 * [Hidden Features of Chrome DevTools | by Martin Heinz | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/hidden-features-of-chrome-devtools-33d9de390dc0)
+* my notes [“크롬 새 탭을 메모장으로” 화려하지 않아도 실용적인 마이 노트(My Notes) - ITWorld Korea](http://www.itworld.co.kr/news/167215)
 * nuTab [Quick Notes New Tab Chrome Extension - nuTab](https://nutab.co/)
 * Requestly [Udemy강좌 Full HD로 보기](https://www.javastudy.net/2019/04/22/udemy%EA%B0%95%EC%A2%8C-full-hd%EB%A1%9C-%EB%B3%B4%EA%B8%B0/)
 
@@ -483,6 +485,7 @@ App
     * [Introducing Visual Studio Codespaces: cloud-hosted development for wherever you’re working](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-codespaces/)
     * [Visual Studio Code: A Power User’s Guide](https://morioh.com/p/408c9c96d0fe)
     * [VS Code settings you should customize](https://dev.to/thegeoffstevens/vs-code-settings-you-should-customize-5e75)
+    * [새롭게 업데이트 된 VS Code Settings Sync 사용하기](https://blog.metafor.kr/211)
     * [How to write Javascript and React with VS Code FASTER! - CodePulse](https://codepulse.blog/how-to-write-javascript-and-react-with-vs-code-faster/)
     * [머신러닝도 Visiual Studio Code로 하세요 - YouTube](https://www.youtube.com/watch?v=TCpR_y-7tCs)
     * [MS, 비주얼스튜디오 코드용 C++ 확장 기능 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20200916103754)
@@ -1034,6 +1037,7 @@ App
   * [Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/ https://joplinapp.org ](https://github.com/laurent22/joplin)
   * Markdown 문법/미리보기 지원, 모든 OS 지원(윈도우, 맥, 리눅스, 아이폰, 안드로이드), Webdav/ftp 동기화, 트리구조 노트 생성
   * ToDo 생성/알림 가능, 테마 변경 가능, pdf 내보내기 기능, vi/emacs 키보드 모드 지원
+* [nb: CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.](https://github.com/xwmx/nb)
 * [notable: The Markdown-based note-taking app that doesn't suck.](https://github.com/notable/notable)
 * [notebooksapp.com](http://www.notebooksapp.com/)
 * [notion - All-in-one workspace](https://www.notion.so)
@@ -1139,6 +1143,7 @@ App
 * [윈도우 10에서 스크린샷을 찍는 5가지 방법 - ITWorld Korea](http://www.itworld.co.kr/news/158967)
 * [How to Create a List of Your Installed Programs on Windows](https://www.howtogeek.com/165293/how-to-get-a-list-of-software-installed-on-your-pc-with-a-single-command/)
 * [How To : 하드디스크 상태를 점검하고 모니터링하는 방법 - ITWorld Korea](http://www.itworld.co.kr/news/159494)
+* [윈도우10 비밀번호 분실했을 때 해제하는 방법! : 네이버 블로그](https://m.blog.naver.com/whitepolarbear/221414744015)
 * [Active Window Logger - A simple MS-Windows (VB 2008) app to smartly log the currently active foreground window of the system](https://github.com/TheCodeArtist/Active-Window-Logger)
 * [Cairo - Transform your Windows desktop with Cairo](https://cairoshell.com/)
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://cmder.net/)
@@ -1203,6 +1208,7 @@ App
 * [**Free for developers**](https://free-for.dev) a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers
 * [**맥을 쓰는 닷넷 개발자들을 위한 도구들 모음**](https://blog.aliencube.org/ko/2019/12/05/tools-for-dotnet-devs-on-mac)
 * [윈도우 10(Windows 10) 2020년 5월 업데이트 릴리스 및 적용하기](https://www.44bits.io/ko/post/news--windows-2020-may-update-release)
+* [Windows 10에서 개발 환경 설정 | Microsoft Docs](https://docs.microsoft.com/ko-kr/windows/dev-environment/overview)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
@@ -1251,6 +1257,7 @@ App
   * [Windows 10 네이티브 방식으로 SSH와 Git 클라이언트 설정하기](https://medium.com/beyond-the-windows-korean-edition/use-windows10-open-ssh-tips-e6e9c77de433)
   * [Windows 10 네이티브 방식으로 SSH 서버 설정하기](https://medium.com/beyond-the-windows-korean-edition/windows-10-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C-ssh-%EC%84%9C%EB%B2%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-64988d87349)
   * [윈도우10에서 리눅스, 유닉스 접속할 때 내장된 ssh 사용, 아직도 putty 사용하나요?](http://blog.naver.com/tolovefeels/221985255075)
+  * [Extracting SSH Private Keys From Windows 10 ssh-agent - ropnop blog](https://blog.ropnop.com/extracting-ssh-private-keys-from-windows-10-ssh-agent/)
 * [Terminal - The new Windows Terminal, and the original Windows console host -- all in the same place!](https://github.com/microsoft/terminal)
   * [Introducing Windows Terminal](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/)
   * [Microsoft's open source 'Windows Terminal' app reaches stable release](https://www.windowscentral.com/microsofts-open-source-windows-terminal-app-reaches-stable-release)
