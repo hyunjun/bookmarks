@@ -440,6 +440,7 @@ Java
 * [IntelliJ IDEA의 로컬 기록(local history)이 여러분의 삶 코드를 구할 수 있습니다](https://blog.jetbrains.com/kr/2020/03/local-history-intellij-save-your-code-ko/)
 * [IntelliJ에서 동시에 여러 Run환경 함께 실행하기](https://jojoldu.tistory.com/510)
 * [IntelliJ에서 JPA ER Diagram 확인 방법](https://jojoldu.tistory.com/517)
+* [Java Annotated Monthly – October 2020 – IntelliJ IDEA Blog | JetBrains](https://blog.jetbrains.com/idea/2020/10/java-annotated-monthly-october-2020/)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
@@ -1114,6 +1115,7 @@ Java
 * [실시간 댓글 개발기(part.3) – Spring의 동시성 접근 제어에 발목 잡힌 이야기 – tech.kakao.com](https://tech.kakao.com/2020/06/22/websocket-part3/) SimpleBroker
 * [(동영상)Spring Framework MVC5 Helloworld 자바설정(Java Config)을 통한 스프링 HelloWorld 작성](http://ojc.asia/bbs/board.php?bo_table=LecSpring&wr_id=846)
 * [나의 첫 SpringRestDocs 적용기 part 1](https://ahndy84.tistory.com/27)
+* [beantimer: A tools to measure Spring bean initialization time](https://github.com/vikreinok/beantimer)
 
 ## Library Spring Boot
 * [스프링 부트(Spring Boot) 소개 합니다](http://www.slideshare.net/topcredu/spring-boot-66190611)
