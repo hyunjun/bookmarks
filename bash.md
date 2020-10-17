@@ -29,6 +29,8 @@ Shell
 * [A Simple Productivity Hack Using Bash Scripts | by Sebastian Scholl | The Startup | Medium](https://medium.com/swlh/a-simple-productivity-hack-using-bash-scripts-b723e60dd584)
 * [Upgrading Bash on macOS. One thing that many macOS users don’t… | by Daniel Weibel | ITNEXT](https://itnext.io/upgrading-bash-on-macos-7138bd1066ba)
 * [(리눅스 업스킬 도전 #20) 셸 스크립트](https://jhrogue.blogspot.com/2020/10/20.html)
+* [**bash parameter expansion**](https://wizardzines.com/comics/parameter-expansion/)
+  * ${var}, ${#var}, ${var/bear/panda}, ${var:-othervar}, ${var:?some error}, ${var#pattern}, ${var%pattern}, ${var:offset:length}
 * argument
   * [practice - multiple arguments](https://gist.github.com/hyunjun/ba33945e80a4f899cc169f97aa351820)
   * [bash pass multiple arguments with spaces](http://www.linuxquestions.org/questions/linux-software-2/bash-pass-multiple-arguments-with-spaces-717268/)
@@ -110,3 +112,6 @@ Shell
 * [ShellCheck finds bugs in your shell scripts](https://www.shellcheck.net/)
   * [쉘 스크립트를 만드는 당신, ShellCheck을 써라!](http://blog.weirdx.io/post/43810/amp)
 * [Sherlock.py - transpiler that translate python to shell script language](https://github.com/Luavis/sherlock.py)
+
+# TDD, Test
+* [ShellSpec | BDD unit testing framework for shell scripts (bash, ksh, zsh, dash and all POSIX shells)](https://shellspec.info/)
