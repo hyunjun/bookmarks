@@ -799,6 +799,7 @@ Linux
 * [Crush - an attempt to make a command line shell that is also a powerful modern programming language](https://github.com/liljencrantz/crush)
 * [csshX - Manage multiple servers like a boss with csshX!](https://www.outsideopen.com/csshx/)
 * [ctop - concise commandline monitoring for containers](https://github.com/bcicen/ctop)
+* [Darling | macOS translation layer for Linux](https://www.darlinghq.org/)
 * [desk - Lightweight workspace manager for the shell](https://github.com/jamesob/desk#--desk)
 * [DH Box platform](http://dhbox.org/)
 * [**direnv -- Unclutter your .profile**](https://direnv.net/)
@@ -883,6 +884,7 @@ Linux
 * [How to check memory usage per process in Linux](https://www.golinuxcloud.com/check-memory-usage-per-process-linux/)
 * [8 Commands to Check Memory Usage on Linux](https://www.2daygeek.com/linux-commands-check-memory-usage/)
 * [How to measure Linux Performance Avoiding Most Typical Mistakes: Memory](https://ma.ttias.be/how-to-measure-linux-performance-avoiding-most-typical-mistakes-memory/)
+* [How Much Memory Does the Process Really Take on Linux? - Percona Database Performance Blog](https://www.percona.com/blog/2020/09/11/how-much-memory-does-the-process-really-take-on-linux/)
 * `systemd-cgtop` [Find memory used by Services](https://www.linuxquestions.org/questions/linux-newbie-8/find-memory-used-by-services-4175619662/)
 
 # Network
