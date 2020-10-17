@@ -105,6 +105,7 @@ SQL
 * [How to Implement Cursor Pagination Like a Pro | by Megan Chang | The Startup | Medium](https://medium.com/swlh/how-to-implement-cursor-pagination-like-a-pro-513140b65f32)
 * [A Snowflake deep dive](https://hhhypergrowth.com/a-snowflake-deep-dive/) 기술이야기는 아니고 snowflake 소개
 * [Database of Databases - Home](https://dbdb.io/)
+* [Arctype | The fast and easy-to-use SQL client](https://arctype.com/)
 * [**dbcrossbar** - an open source tool that copies large, tabular datasets between many different databases and storage formats. Data can be copied from any source to any destination](https://www.dbcrossbar.org/)
 * [DBeaver](https://dbeaver.io/)
   * [Mac, Linux 에서 쓸만한 DB Tool - DBeaver](http://lifeones.tistory.com/129)
@@ -617,6 +618,7 @@ SQL
 * [Full-Text Search Battle: PostgreSQL vs Elasticsearch | sudo README](https://rocky.dev/full-text-search)
 * [Lessons Learned from Running Postgres 13: Better Performance, Monitoring & More](https://pganalyze.com/blog/postgres13-better-performance-monitoring-usability)
 * [Mastering PostgreSQL Administration](https://momjian.us/main/writings/pgsql/administration.pdf)
+* [PostgreSQL 13 Features Distilled. Index optimization, incremental… | by Kovid Rathee | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/postgresql-13-features-distilled-c0c0adcfa020)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
@@ -640,6 +642,8 @@ SQL
 * [pg-migrator - PostgreSQL Migration Tool](https://github.com/aphel-bilisim-hizmetleri/pg-migrator)
 * [pgsql: Support GROUPING SETS, CUBE and ROLLUP](http://www.postgresql.org/message-id/E1YtRD5-0005Q7-SM@gemulon.postgresql.org)
 * [pgsql: Create an infrastructure for parallel computation in PostgreSQL](http://www.postgresql.org/message-id/E1Ynu2T-0005iK-Gf@gemulon.postgresql.org)
+* [pg_stat_monitor: PostgreSQL Statistics Collector](https://github.com/percona/pg_stat_monitor)
+  * [Announcing pg_stat_monitor Tech Preview: Get Better Insights Into Query Performance in PostgreSQL - Percona Database Performance Blog](https://www.percona.com/blog/2020/10/14/announcing-pg_stat_monitor-tech-preview-get-better-insights-into-query-performance-in-postgresql/)
 * [PG-Strom is an extension of PostgreSQL, works as custom-scan provider](https://wiki.postgresql.org/wiki/PGStrom)
 * [pgTAP - a suite of database functions that make it easy to write TAP-emitting unit tests in psql scripts or xUnit-style test functions](http://pgtap.org/)
 * [PostgREST - a standalone web server that turns your PostgreSQL database directly into a RESTful AP](https://postgrest.org/)
@@ -734,6 +738,8 @@ SQL
 * [Sharing an SQLite database across containers is surprisingly brilliant](https://medium.com/@rbranson/sharing-sqlite-databases-across-containers-is-surprisingly-brilliant-bacb8d753054)
 * [SQLite As An Application File Format](https://sqlite.org/appfileformat.html)
 * [How does SQLite work? Part 1: pages!](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
+* [How does SQLite work? Part 2: btrees! (or: disk seeks are slow don't do them!)](https://jvns.ca/blog/2014/10/02/how-does-sqlite-work-part-2-btrees/)
+* [CG/SQL: Easy, accurate SQLite code generation - Facebook Engineering](https://engineering.fb.com/open-source/cg-sql/)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
 * [sqlitestudio.pl](http://sqlitestudio.pl/)
 
