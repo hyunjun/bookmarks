@@ -24,6 +24,7 @@ Programming
   * Understanding Real-World Concurrency Bugs in Go (PDF)
 * [안녕 프로그래밍](https://holaxprogramming.com/)
   * [github.com/stunstunstun/awesome-wiki](https://github.com/stunstunstun/awesome-wiki)
+* [awesome-philosophy-compsci: A list of resources that cross the disciplines of Computer Science and Philosophy](https://github.com/glennstreet/awesome-philosophy-compsci)
 * [**lists - The definitive list of lists (of lists) curated on GitHub**](https://github.com/jnv/lists)
 * 여러가지 주요 언어를 배울 수 있는 다양한 project link
   * [🤓 Build your own (insert technology here) https://twitter.com/danistefanovic ](https://github.com/danistefanovic/build-your-own-x)
@@ -190,6 +191,7 @@ Programming
 * [2 Defensive Coding Techniques You Should Use Today | The Startup](https://medium.com/swlh/2-defensive-coding-techniques-you-should-use-today-4225cacc1c29)
 * [19 things I stole from great developers | by Daniel Anderson | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/19-things-i-stole-from-great-developers-85511ff56570)
 * [좋은 코드를 많이 봐야 한다](http://blog.seulgi.kim/2018/02/you-should-read-good-code.html)
+* [Reading Code Is Harder Than Writing It – Trisha Gee](https://trishagee.com/presentations/reading_code/)
 * [좋은 코드란 무엇인가 | 프로그래머 이규원의 웹사이트](https://gyuwon.github.io/blog/2020/07/31/what-is-good-code.html)
 * [Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites](https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/) SRE - Site Reliability Engineer
 * [#1 SRE/DEVOPS의 개념](https://bcho.tistory.com/1325)
@@ -316,6 +318,7 @@ Programming
 * [소프트웨어를 더이상 건설로 이해하지 말자](https://subokim.wordpress.com/2020/04/13/how-to-explain-software/)
 * [유튜브 이야기 독후감 실리콘 벨리와 엔지니어, 유튜브 창업이야기](https://blog.voidmainvoid.net/332)
 * [12. 사고를 쳐도 혼나지 않는 회사 - 너의 실수를 부검한다 - 포스트모템(Postmortem)](https://brunch.co.kr/@svillustrated/13)
+* [**post-mortems: A collection of postmortems. Sorry for the delay in merging PRs!**](https://github.com/danluu/post-mortems)
 * [Tech Seminar 당근마켓 성장과 개발 스택의 변화 - YouTube](https://www.youtube.com/watch?v=ELlQXruFesI)
 * [당근마켓의 푸시알림을 지탱하고 있는 Node.js 서비스. 푸시알림은 당근마켓 서비스에서 채팅, ‘키워드 알림’, ‘금주의… | by Hwasoo Cho | 당근마켓 팀블로그 | Jul, 2020 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%9D%98-%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC%EC%9D%84-%EC%A7%80%ED%83%B1%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94-node-js-%EC%84%9C%EB%B9%84%EC%8A%A4-19023ad86fc)
 * [왜 우리는 Go와 TypeScript를 선택했는가. Java와 Ruby, Python까지 포함해서 5가지 언어를 가져가고… | by 김동현 | 당근마켓 팀블로그 | Jul, 2020 | Medium](https://medium.com/daangn/%EC%99%9C-%EC%9A%B0%EB%A6%AC%EB%8A%94-go%EC%99%80-typescript%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%96%88%EB%8A%94%EA%B0%80-3c08a4cf7ca8)
@@ -406,6 +409,7 @@ Programming
 * [To Create An Evolvable API, Stop Thinking About URLs The basics of API design](https://medium.com/@fagnerbrack/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e)
 * [API 디자인 가이드](https://cloud.google.com/apis/design/)
   * [공통 디자인 패턴](https://cloud.google.com/apis/design/design_patterns)
+* [**http-api-design**](https://github.com/yoondo/http-api-design/tree/master/ko) HTTP API 디자인 가이드
 * [APIs: The Good, The Bad, The Ugly](https://www.youtube.com/watch?v=t0nl5aUfAvY)
 * [**Oh Man, Look at Your API!**](https://medium.com/pixelpoint/oh-man-look-at-your-api-22f330ab80d5)
 * [좌충우돌 API 함수 이름은 어떻게 짓는게 좋을까?](https://www.popit.kr/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-api-%ED%95%A8%EC%88%98-%EC%9D%B4%EB%A6%84%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A7%93%EB%8A%94%EA%B2%8C-%EC%A2%8B%EC%9D%84%EA%B9%8C/)
@@ -469,6 +473,8 @@ Programming
   * [What is Event Sourcing?](https://cloudnative.ly/what-is-event-sourcing-d201ed740451)
   * [Event Sourcing과 Fintech Platform - YouTube](https://www.youtube.com/watch?v=1QH6rKSGvY4)
   * [Stop overselling Event Sourcing as the silver bullet to microservice architectures | by Oskar uit de Bos | The Startup | Medium](https://medium.com/swlh/stop-overselling-event-sourcing-as-the-silver-bullet-to-microservice-architectures-f43ca25ff9e7)
+  * [CQRS 아는 척하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/CQRS-for-dummies)
+  * [CQRS and Event Sourcing](https://www.slideshare.net/InhoKang2/cqrs-and-event-sourcing-94653639)
 * [홈쇼핑처럼 개발후기](http://subicura.com/2016/05/30/likehs-develop-log.html)
 * [Sherlock: Near Real Time Search Indexing](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d) HBase, Storm, Kafka,Redis
 * [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
@@ -512,6 +518,8 @@ Programming
 * [**백엔드 개발자를 꿈꾸는 학생개발자에게**](https://d2.naver.com/news/3435170)
 * [프론트엔드 & 백엔드 개발자들이 실제로 회사에서 하는 일](https://www.grabbing.me/6166144602844aab9b361c79b8f90785#1f326824f06d4fe4ae69f915a6ae72b3)
 * [**Scaling Slack’s Job Queue - Robustly Handling Billions of Tasks in Milliseconds Using Kafka and Redis**](https://slack.engineering/scaling-slacks-job-queue-687222e9d100)
+* [How Slack Works - YouTube](https://www.youtube.com/watch?v=WE9c9AZe-DY)
+* [Scaling Slack - The Good, the Unexpected, and the Road Ahead - YouTube](https://www.youtube.com/watch?v=_M-oHxknfnI)
 * [How Stickler CI grew from a prototype to a product](https://hackernoon.com/how-stickler-ci-grew-from-a-prototype-to-a-product-6d2a58987ac1)
 * [**The Clean Architecture**](https://blog.coderifleman.com/2017/12/18/the-clean-architecture/)
 * [Clean Architecture 1장을 보고](https://brunch.co.kr/@cleancode/34)
@@ -751,6 +759,7 @@ Programming
 * [How we migrated Dropbox from Nginx to Envoy - Dropbox](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 * [Event Mesh: The Architecture Layer for the Event-Driven Enterprise](https://medium.com/swlh/event-mesh-the-architecture-layer-for-the-event-driven-enterprise-d15db85f7bdd)
 * OSM Open Service Mesh [마이크로소프트 오픈 서비스 메시의 이해 - ITWorld Korea](http://www.itworld.co.kr/news/160865)
+* [서비스 메시가 데이터센터 네트워킹에서 중요한 이유 - ITWorld Korea](http://www.itworld.co.kr/news/167165)
 * [Linkerd or Istio?](https://itnext.io/linkerd-or-istio-2e3ce781fa3a)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
@@ -769,12 +778,7 @@ Programming
   *  마이크로 서비스와 실행시 직면하는 문제 
   *  스프링 부트 
   *  스프링 클라우드; Config server, 넷플릭스 Eureka, 넷플릭스 Zuul // Ribbon, 넷플릭스 Hysterix (Circuit Breaker), 트위터 Zipkin (Distributed Tracing)
-* [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
-  * Zipkin을 이용한 MSA 환경에서 분산 트렌젝션의 추적
-    * [#1](http://bcho.tistory.com/1243)
-    * [#2 - Spring과 Zipkin을 이용한 추적](http://bcho.tistory.com/1244)
-    * [#3 -Stackdriver를 zipkin으로 사용하기](http://bcho.tistory.com/1245)
-  * [Zipkin과 Scouter v2.5를 연동해보자](https://gunsdevlog.blogspot.com/2018/11/how-to-use-zipkin-scouter-storage.html)
+* [롯데카드 사례 : 클라우드 컨테이너화를 통한 디지털 혁신 여정 - ITWorld Korea](http://www.itworld.co.kr/news/165085)
 * [Implementing Microservices with Scala and Akka - by Vaughn Vernon](https://www.youtube.com/watch?v=19rbbQ46LB4)
 * [Reactive Microservices with Akka and Docker by Heiko Seeberger](https://www.youtube.com/watch?v=nL4XoH2_Lew)
 * [Reducing Microservice Complexity with Kafka and Reactive Streams - by Jim Riecken](https://www.youtube.com/watch?v=k_Y5ieFHGbs)
@@ -891,6 +895,12 @@ Programming
 * [Enabling Distributed Tracing for Microservices With Jaeger in Kubernetes - Container Journal](https://containerjournal.com/topics/container-ecosystems/enabling-distributed-tracing-for-microservices-with-jaeger-in-kubernetes/)
 * [Modern Banking in 1500 Microservices](https://www.infoq.com/presentations/monzo-microservices/)
 * [Principles for Microservice Design: Think IDEALS, Rather than SOLID](https://www.infoq.com/articles/microservices-design-ideals/)
+* [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
+  * Zipkin을 이용한 MSA 환경에서 분산 트렌젝션의 추적
+    * [#1](http://bcho.tistory.com/1243)
+    * [#2 - Spring과 Zipkin을 이용한 추적](http://bcho.tistory.com/1244)
+    * [#3 -Stackdriver를 zipkin으로 사용하기](http://bcho.tistory.com/1245)
+  * [Zipkin과 Scouter v2.5를 연동해보자](https://gunsdevlog.blogspot.com/2018/11/how-to-use-zipkin-scouter-storage.html)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -1313,6 +1323,7 @@ Programming
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
   * [Teamcity Github 로그인 연동](https://jojoldu.tistory.com/454)
   * [TeamCity 빌드 실패시 결과 Slack으로 알람 받기](https://jojoldu.tistory.com/458)
+* waypoint [Announcing HashiCorp Waypoint](https://www.hashicorp.com/blog/announcing-waypoint)
 
 # CPU
 * [Understanding CPU Microarchitecture for Performance](https://speakerdeck.com/alblue/understanding-cpu-microarchitecture-for-performance)
@@ -1847,6 +1858,7 @@ Programming
   * [9월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/09/b-9-4.html)
   * [9월 5주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/10/b-9-5.html)
   * [10월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/10/b-10-1.html)
+  * [10월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/10/b-10-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -2328,6 +2340,7 @@ Programming
 * [**How They Test**](https://abhivaikar.github.io/howtheytest/)
 * [유용한 테스트 케이스를 위한 개발자의 자세 : TOAST Meetup](https://meetup.toast.com/posts/246)
 * [Yes, TDD Slows You Down. And that’s OK | by Alessandro Diaferia | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/yes-tdd-slows-you-down-c7ee154ec322)
+* [Learning from Bugs and Testers: Testing Boeing 777 Full Flight Simulators](https://www.infoq.com/articles/testing-boeing-flight-simulators-software/)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
@@ -2395,6 +2408,7 @@ Programming
 * [**야생의 유니코드**](http://klutzy.nanabi.org/blog/2014/06/20/unicode/)
 * [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
 * [Unicode In Five Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
+* [Windows: 176. Raymond Chen이 한글날에 밝히는 윈도우의 한글 자모 분리 현상](https://www.sysnet.pe.kr/2/0/12369)
 
 # Virtual Machine
 * [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
