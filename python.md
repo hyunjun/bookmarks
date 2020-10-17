@@ -3310,6 +3310,7 @@ Python
   * [pyinstaller-onefile.spec](https://github.com/readbeyond/aeneas/blob/master/pyinstaller-onefile.spec)
   * [pyinstaller 로 실행파일 만들기](https://ash84.net/2018/02/24/pyinstaller-usage/)
   * [If Pyinstaller makes too huge size exe file in Anaconda](https://www.youtube.com/watch?v=TwgfHWlruvM)
+* [PyOxidizer](https://pyoxidizer.readthedocs.io/)
 * [subpar: Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.](https://github.com/google/subpar)
 * virtualenv
   * [practice - use virtualenv in shell script](https://gist.github.com/hyunjun/e3abd9323a798ac6f70d387c3c1c07a9#file-shell_script-md)
@@ -3355,6 +3356,7 @@ Python
 * [picotui - Lightweight, pure-Python Text User Interface (TUI) widget toolkit with minimal dependencies. Dedicated to the Pycopy project. https://github.com/pfalcon/pycopy ](https://github.com/pfalcon/picotui)
 * [PyInquirer - A Python module for common interactive command line user interfaces](https://github.com/CITGuru/PyInquirer)
 * [Urwid - Console user interface library for Python](http://urwid.org/)
+* [The Xonsh Shell](https://xon.sh/)
 
 # Microservice
 * [**Scaling Python Microservices with Kubernetes**](http://blog.apcelent.com/scaling-python-microservices-kubernetes.html)
