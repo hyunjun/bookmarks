@@ -97,6 +97,7 @@ Network
 * [프런트엔드 개발자가 알아야하는 HTTP 프로토콜 Part 1 • Captain Pangyo](https://joshua1988.github.io/web-development/http-part1/)
 * [팀 버너스리가 HTTP 프로토콜을 만든 이유 – Thinker Blog](https://thinker94.com/ko/posts/bernerslee_first_http_translate/)
 * [Understand the Flow of a HTTP Request | by Aakash Yadav | Better Programming | Medium](https://medium.com/better-programming/understand-the-flow-of-a-http-request-1a268ec193f0)
+* [**HTTP Prompt - An interactive command-line HTTP client**](https://http-prompt.com/)
 
 # HTTPS
 * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
@@ -122,6 +123,7 @@ Network
 * [코모도 CA(Comodo)의 AddTrust External 루트 인증서 만료](https://www.44bits.io/ko/post/comodo-ca-addtrust-external-root-certificates-expiration)
 * [**HOW HTTPS WORKS**](https://howhttps.works/)
 * [**How HTTPS works - How HTTPS works**](https://howhttps.works/ko/)
+* [HTTPS를 쓰면 패스워드를 평문으로 보내도 될까? | yoonho's dev notes](https://yoonhogo.github.io/blog/2020-09-08/HTTPS-plain-text-safety/)
 
 ## HTTPS SSL
 * [HTTPS와 SSL 인증서 - 생활코딩](https://opentutorials.org/course/228/4894)
