@@ -260,6 +260,7 @@ C++
 * [CppCon 2015: Scott Wardle “Memory and C++ debugging at Electronic Arts”](https://www.youtube.com/watch?v=8KIvWJUYbDA)
 * [CppCon 2015: John Farrier “Demystifying Floating Point"](https://www.youtube.com/watch?v=k12BJGSc2Nc)
 * [CppCon 2019 Presentation Materials](https://github.com/CppCon/CppCon2019)
+* [CppCon 2020 Plenary Talks - YouTube](https://www.youtube.com/playlist?list=PLHTh1InhhwT4PVVy3PGfw0Va7wZNrH0-w)
 
 # Library
 * [Socket.IO C++](http://socket.io/blog/socket-io-cpp/)
