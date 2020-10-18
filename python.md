@@ -619,6 +619,7 @@ Python
   * [Decorators in Python: Fundamentals for Data Scientists | by Erdem Isbilen | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/decorators-in-python-fundamentals-for-data-scientists-eada7f4eba85)
   * [Handling exceptions in Python a cleaner way, using Decorators | by Shivam Batra | The Startup | Medium](https://medium.com/swlh/handling-exceptions-in-python-a-cleaner-way-using-decorators-fae22aa0abec)
   * [Using Class Decorators in Python. An example-led guide to using Class… | by Stephen Fordham | Towards Data Science](https://towardsdatascience.com/using-class-decorators-in-python-2807ef52d273)
+  * [Why You Need Decorators in Your Python Code | by Michael Krasnov | Better Programming | Medium](https://medium.com/better-programming/why-you-need-decorators-in-your-python-code-df12d43eac9c)
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
   * [Python Descriptors](https://www.youtube.com/watch?v=ZdvpNaWwx24)
