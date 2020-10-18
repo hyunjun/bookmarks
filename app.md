@@ -958,6 +958,7 @@ App
 * [coggle.it](https://coggle.it/)
 * [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)
 * [**Diagram as Code for prototyping cloud system architectures** https://diagrams.mingrammer.com ](https://github.com/mingrammer/diagrams)
+  * [Create Beautiful Architecture Diagrams with Python | by Dylan Roy | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/create-beautiful-architecture-diagrams-with-python-7792a1485f97)
 * [dot-to-ascii.ggerganov.com](https://dot-to-ascii.ggerganov.com/)
 * [**draw.io**](https://www.draw.io/)
   * [Source to www.draw.io](https://github.com/jgraph/drawio)
@@ -1262,6 +1263,7 @@ App
   * [Introducing Windows Terminal](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/)
   * [Microsoft's open source 'Windows Terminal' app reaches stable release](https://www.windowscentral.com/microsofts-open-source-windows-terminal-app-reaches-stable-release)
 * [Win-builds is a large distribution of binary packages for Windows](http://win-builds.org/doku.php)
+* [winget : 윈도 앱 설치 관리자(패키지 관리자)](https://sunyzero.tistory.com/271)
 * [WinUI - The modern native UI platform of Windows](https://microsoft.github.io/microsoft-ui-xaml/)
 * WSL Windows Subsystem for Linux
   * [practice - windows10 & WSL2](https://gist.github.com/hyunjun/cf2af70a460bf00fa5997dea80308b28)
