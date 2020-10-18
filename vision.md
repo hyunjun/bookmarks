@@ -213,6 +213,7 @@ Vision
   * [Tutorial #1 : Use YOLOv3 : AlexeyAB/darknet (Video files / Webcam) Windows or Linux - YouTube](https://www.youtube.com/watch?v=Qvx9HcRyhmo)
   * [How to Build an Object Tracker Using YOLOv3, Deep SORT and TensorFlow](https://morioh.com/p/5f4db2fffbfa)
   * [YOLOv4 (v3/v2) - Windows and Linux version of Darknet Neural Networks for object detection (Tensor Cores are used) http://pjreddie.com/darknet ](https://github.com/AlexeyAB/darknet)
+  * [windows환경/darknet/ 점수내기 - DACON](https://dacon.io/codeshare/1717)
   * [YOLOv4 in the CLOUD: Build and Train Custom Object Detector](https://morioh.com/p/450b2ab62a56?f=5c21fb01c16e2556b555ab32)
   * [YOLOv4 Object Detection with TensorFlow, TensorFlow Lite and TensorRT Models](https://morioh.com/p/b80d2e63949e?f=5c21fb01c16e2556b555ab32)
   * [Counting Objects Using YOLOv4 Object Detection | Custom YOLOv4 Functions with TensorFlow](https://morioh.com/p/aed42c64432a)
