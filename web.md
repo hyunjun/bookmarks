@@ -614,6 +614,7 @@ Web
 * [Running Python in the Browser](https://pythontips.com/2019/05/22/running-python-in-the-browser)
 * [How To Track Coronavirus In Your Country with Python](https://towardsdatascience.com/how-to-track-coronavirus-with-python-a5320b778c8e) ChromeDriver
 * [웹 크롤링 기초 - 네이버 개발자센터 지역 검색 Open API 사용하기 미래 실험실 Python](https://www.youtube.com/watch?v=DZ38p5O6CJE)
+* [The Alternative to Web Scraping. The “lazy” programmer’s guide to… | by Doug Guthrie | Towards Data Science](https://towardsdatascience.com/the-alternative-to-web-scraping-8d530ae705ca)
 * [django-tdd-restful-api](https://github.com/elastic7327/django-tdd-restful-api)
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
 * [Lektor - Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app](https://github.com/lektor/lektor)
