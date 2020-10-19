@@ -1131,6 +1131,7 @@ Machine Learning
   * [ECE1513H: Introduction to Machine Learning Winter 2020 - LEC0101](https://www.papernot.fr/teaching/w20-ml)
     * [ECE1513_Introduction_to_JAX](https://colab.research.google.com/drive/15Nn1i5AgfkLBdMGTif-RnfwqZrn1BPKQ) .ipynb
     * [ECE1513_Introduction_to_JAX_Student_Solutions](https://colab.research.google.com/drive/1YsoctmFgZ0joXdMqEHmTsP3AAyhyNlzI) .ipynb
+* [merlin: Kubernetes-friendly ML model management, deployment, and serving](https://github.com/gojek/merlin)
 * [mindsdb - Open Source AutoML for Developers](https://www.mindsdb.com/)
   * [Machine Learning Models as Tables - ClickHouse Software And Services | Altinity](https://altinity.com/blog/2020/08/10/machine-learning-models-as-tables)
 * [Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks](https://rasbt.github.io/mlxtend/)
