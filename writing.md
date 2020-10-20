@@ -63,6 +63,7 @@ Writing
 * [How to Use the STAR Interview Response Technique](https://www.thebalancecareers.com/what-is-the-star-interview-response-technique-2061629) 글쓰기가 아니라 interview 기법이지만 글쓰기에 응용 가능
 * [모든 온라인 콘텐츠의 이상적인 길이는? | ㅍㅍㅅㅅ](https://ppss.kr/archives/225404)
 * [모바일에서 잘 읽히는 글을 만드는 에디팅 수칙 — 보통의 언어](https://www.saeyoonjeong.com/blog/how-to-edit-right-for-mobile)
+* [왜 ‘단문’을 써야 하냐고? 한국말의 구조 때문이다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/227902)
 
 # Programming
 * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
