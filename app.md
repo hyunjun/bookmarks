@@ -38,6 +38,8 @@ App
 * [We need a new document markup language — here is why](https://medium.freecodecamp.org/we-need-a-new-document-markup-language-c22e0ec44e15) Practical Markup Language PML
 * [Here Are 5 Productivity Tools Every Developer Should Know](https://medium.com/swlh/here-are-5-productivity-tools-every-developer-should-know-4a3f70783835)
   * insomnia, zoom, notion, trello, figma
+* [6 Productivity Tools that all Developers Should Try | by Galaxy Weblinks | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/6-productivity-tools-that-all-developers-should-try-252191e523e4)
+  * Typora, Tuple, Codernotes, The Silver Searcher, AutoHotKey, Mindly
 * [6 Must-Have Tools for Developers](https://medium.com/better-programming/6-must-have-tools-for-developers-430fd56933dd)
   * oh my zsh, direnv, fzf, silver searcher (ag)
 * [A list of Free Software network services and web applications which can be hosted locally. Selfhosting is the process of hosting and managing applications instead of renting from Software-as-a-Service providers https://reddit.com/r/selfhosted ](https://github.com/awesome-selfhosted/awesome-selfhosted)
