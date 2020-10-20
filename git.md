@@ -191,6 +191,7 @@ Git
 * [GitHub Actions에서 Chrome WebDriver 테스트 오류 해결법 (pytest)](https://blog.joonas.io/158)
 * [GitHub 액션과 ARM 템플릿 검사도구를 이용한 Bicep 코드 품질 테스트 | Aliencube](https://blog.aliencube.org/ko/2020/09/30/github-actions-and-arm-template-toolkit-to-test-bicep-codes/)
 * [Docker Github Actions - Docker Blog](https://www.docker.com/blog/docker-github-actions/)
+* [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker - YouTube](https://www.youtube.com/watch?v=R8_veQiYBjI)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
