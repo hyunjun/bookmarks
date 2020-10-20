@@ -316,6 +316,7 @@ Apache
 * [Using Apache Kafka Docker](https://howtoprogram.xyz/2016/07/21/using-apache-kafka-docker/)
 * [Kafka Docker - Run multiple Kafka brokers in Docker](https://wurstmeister.github.io/kafka-docker/)
 * [kafka-stack-docker-compose](https://github.com/simplesteph/kafka-stack-docker-compose)
+* [A Simple Apache Kafka Cluster With Docker, Kafdrop, and Python | by Leo Brack | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/a-simple-apache-kafka-cluster-with-docker-kafdrop-and-python-cf45ab99e2b9)
 * [HANDS-FREE KAFKA REPLICATION: A LESSON IN OPERATIONAL SIMPLICITY](http://blog.confluent.io/2015/04/07/hands-free-kafka-replication-a-lesson-in-operational-simplicity/)
 * [Distributed Consensus Reloaded: Apache ZooKeeper and Replication in Apache Kafka](http://www.confluent.io/blog/distributed-consensus-reloaded-apache-zookeeper-and-replication-in-kafka)
 * [Changing Replication Factor of a Topic in Apache Kafka](https://www.allprogrammingtutorials.com/tutorials/changing-replication-factor-of-topic-in-kafka.php)
