@@ -1108,6 +1108,7 @@ Javascript
 * [Top 50 Lightweight JavaScript Plugins & Libraries from 2016](https://speckyboy.com/top-50-javascript-2016/)
 * [Top 50 JavaScript Plugins & Libraries for 2017](https://speckyboy.com/top-50-javascript/)
 * [Top 11 JavaScript Libraries That Are Worth Your Attention](https://hackernoon.com/top-11-javascript-libraries-that-are-worth-your-attention-d2f43d6acfb0)
+* [Top 10 Most Popular JavaScript Libraries to Use in 2021 | by Md Kamaruzzaman | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/top-10-most-popular-javascript-libraries-to-use-in-2021-5da60f187992)
 * [화면을 더 풍성하게 해주는 javascript library](https://medium.com/ufofactory-org/%ED%99%94%EB%A9%B4%EC%9D%84-%EB%8D%94-%ED%92%8D%EC%84%B1%ED%95%98%EA%B2%8C-%ED%95%B4%EC%A3%BC%EB%8A%94-javascript-library-b86d3ae79fb8)
 * [Interesting JavaScript Libraries born in China](https://hackernoon.com/interesting-javascript-libraries-born-in-china-d50d1bb81355)
 * [🔥 JavaScript Modules Worth Using 🔥](https://hackernoon.com/javascipt-modules-worth-using-9aa7301e41ac)
@@ -1604,6 +1605,7 @@ Javascript
   * [Introducing Yarn 2](https://dev.to/arcanis/introducing-yarn-2-4eh1)
   * [yarn global 설정하기 - 완두블로그](https://wani.kr/posts/2017/05/24/yarn-global-setting/)
   * [yarn-deduplicate: Deduplication tool for yarn.lock files](https://github.com/atlassian/yarn-deduplicate)
+  * [npm vs Yarn — Choosing the right package manager | by Harsha Vardhan | JavaScript In Plain English](https://medium.com/javascript-in-plain-english/npm-vs-yarn-choosing-the-right-package-manager-a5f04256a93f)
 
 ## Library Internationalization i18n 국제화
 * [How to get started with internationalization in JavaScript](https://medium.freecodecamp.org/how-to-get-started-with-internationalization-in-javascript-c09a0d2cd834)
@@ -2166,6 +2168,7 @@ Javascript
 * [Tri-state that Every React Component Should Have](https://engineering.huiseoul.com/tri-state-that-every-react-component-should-have-51eb98110fb5)
 * [리액트 Higher-order Component (HOC)](https://velopert.com/3537)
 * [How to structure components in React?](https://reallifeprogramming.com/how-to-structure-components-in-react-54fc43e71546)
+* [How I structure React apps. Because structuring an app is like… | by Chetan Raj | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/how-i-structure-react-apps-a76304277786)
 * [React Component Patterns](https://levelup.gitconnected.com/react-component-patterns-ab1f09be2c82)
 * [번역 탄력적인 컴포넌트 작성하기](https://blog.rhostem.com/posts/2019-07-14-writing-resilient-components)
 * [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f)
@@ -2831,18 +2834,6 @@ Javascript
 * [VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library)
 * [WhoTalk - React + Node.js Web App](https://www.youtube.com/watch?v=wZDSY5zPE2A)
 
-## React SocketIO
-* [socket.io](http://socket.io/)
-  * [Socket.IO P2P](http://socket.io/blog/socket.io-p2p/)
-* [REAL-TIME COMMUNICATION WITH SOCKETIO](https://www.packtpub.com/books/content/real-time-communication-socketio)
-* [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
-* [Node.js Websocket Examples with Socket.io](http://stackabuse.com/node-js-websocket-examples-with-socket-io/)
-* [Using Socket.Io With RethinkDB Changefeeds To Build A Reactive JavaScript Stack](http://www.scotthasbrouck.com/blog/2016/3/13/using-socketio-with-rethinkdb-changefeeds-to-build-a-reactive-backend)
-* [socket.io-multi-chat](https://github.com/jkRaccoon/socket.io-multi-chat)
-* [Socket.IO 기반의 티몬 상담톡 개발기](http://tmondev.blog.me/220982377777)
-* [Combining React with Socket.io for real-time goodness](https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34)
-* [How to create a realtime app using Socket.io, React, Node & MongoDB](https://medium.freecodecamp.org/how-to-create-a-realtime-app-using-socket-io-react-node-mongodb-a10c4a1ab676)
-
 ## React TDD Test
 * [React Testing Tutorial: Test Frameworks & Component Tests](https://www.robinwieruch.de/react-testing-tutorial/)
   * [번역 리액트 테스팅 튜토리얼: 테스트 프레임워크와 컴포넌트 테스트 방법](https://adhrinae.github.io/posts/react-testing-tutorial-kr/)
@@ -2942,6 +2933,19 @@ Javascript
 * [How To Use Redux With React](https://medium.com/better-programming/how-to-use-redux-with-react-23cd2f37d3f3)
 * [Redux Middleware Deep Dive](https://eunsukim.me/posts/redux-middleware-deep-dive)
 * [react redux-socket V0.2.0 배포 & 소개](https://blog.naver.com/pjt3591oo/222109334074)
+
+# SocketIO
+* [socket.io](http://socket.io/)
+  * [Socket.IO P2P](http://socket.io/blog/socket.io-p2p/)
+* [REAL-TIME COMMUNICATION WITH SOCKETIO](https://www.packtpub.com/books/content/real-time-communication-socketio)
+* [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
+* [Node.js Websocket Examples with Socket.io](http://stackabuse.com/node-js-websocket-examples-with-socket-io/)
+* [Using Socket.Io With RethinkDB Changefeeds To Build A Reactive JavaScript Stack](http://www.scotthasbrouck.com/blog/2016/3/13/using-socketio-with-rethinkdb-changefeeds-to-build-a-reactive-backend)
+* [socket.io-multi-chat](https://github.com/jkRaccoon/socket.io-multi-chat)
+* [Socket.IO 기반의 티몬 상담톡 개발기](http://tmondev.blog.me/220982377777)
+* [Combining React with Socket.io for real-time goodness](https://medium.com/dailyjs/combining-react-with-socket-io-for-real-time-goodness-d26168429a34)
+* [How to create a realtime app using Socket.io, React, Node & MongoDB](https://medium.freecodecamp.org/how-to-create-a-realtime-app-using-socket-io-react-node-mongodb-a10c4a1ab676)
+* [How Real-Time Communication in Web Development Made | by Bilal Rifas | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/real-time-communication-in-web-development-c29a38a7bdb0)
 
 # TDD, Test
 * [Speeding up Javascript Test Time 1000x](http://shyp.github.io/2015/07/13/speed-up-your-javascript-tests.html)
