@@ -779,6 +779,7 @@ Python
   * [데이터 분석에 피가 되는 itertools 익히기](http://hamait.tistory.com/803)
   * [You (Probably) Don’t Need For-Loops](https://medium.com/python-pandemonium/never-write-for-loops-again-91a5a4c84baf)
   * [Tour of Python Itertools](https://martinheinz.dev/blog/16/)
+  * [Reduce() vs Accumulate() in Python | by Indhumathy Chelliah | codeburst](https://codeburst.io/reduce-vs-accumulate-in-python-3ecee4ee8094)
 * [lambda](https://docs.python.org/2/tutorial/controlflow.html#lambda-expressions)
   * [Python: Lambda Functions](http://www.secnetix.de/olli/Python/lambda_functions.hawk)
   * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
@@ -2656,15 +2657,6 @@ Python
   * [Fabric으로 Flask 자동 배포하기](https://beomi.github.io/2017/10/17/Deploy-Flask-with-Fabric/)
   * [Django MS Azure에 Fabric으로 배포하기](https://beomi.github.io/2017/06/09/Deploy-Django-to-MS-Azure/)
   * [Deploy Django to MS Azure with Fabric3](https://beomi.github.io/2017/06/10/Deploy-Django-to-MS-Azure-EN/)
-* [fastapi: FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://github.com/tiangolo/fastapi)
-  * [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679)
-  * [You Should Start Using FastAPI Now | by Tivadar Danka | Towards Data Science](https://towardsdatascience.com/you-should-start-using-fastapi-now-7efb280fec02)
-  * [Intro to FastAPI - The Best Way to Create APIs in Python? - YouTube](https://www.youtube.com/watch?v=kCggyi_7pHg)
-  * [Learning FastAPI - YouTube](https://www.youtube.com/watch?v=GSMYt429ot4)
-  * [Integrating Tortoise ORM into a FastAPI App - YouTube](https://www.youtube.com/watch?v=vVjWeLVv97c)
-  * [Integrating AIOHTTP Into a FastAPI App - YouTube](https://www.youtube.com/watch?v=BalvzyKg_4k)
-  * [4 Useful Advanced Features in FastAPI | by Ng Wai Foong | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/4-useful-advanced-features-in-fastapi-f08e4db59637)
-  * [How to use FastAPI with MongoDB. An easy way to serve your database… | by Fernando Souza | Python In Plain English | Sep, 2020 | Medium](https://medium.com/python-in-plain-english/how-to-use-fastapi-with-mongodb-75b43c8e541d)
 * [Faster CPython](http://faster-cpython.readthedocs.io/) FAT Python
 * [Faust - A library for building streaming applications in Python](https://faust.readthedocs.io/)
 * [fawkes: Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes](https://github.com/Shawn-Shan/fawkes)
@@ -2938,7 +2930,6 @@ Python
 * RPython
   * [A Javascript Interpreter in RPython](http://stups.hhu.de/w/A_Javascript_Interpreter_in_RPython)
   * [The Magic of RPython](http://kirbyfan64.github.io/posts/the-magic-of-rpython.html)
-* [runcython - Making cython as easy as python](https://github.com/Russell91/runcython)
 * [Ryu component-based software defined networking framework http://osrg.github.io/ryu ](https://github.com/osrg/ryu)
 * [RxPy](https://rxpy.codeplex.com/)
   * [Reactive Extensions for Python](https://github.com/ReactiveX/RxPY)
@@ -2992,10 +2983,6 @@ Python
 * [TAICHI: OPEN-SOURCE COMPUTER GRAPHICS LIBRARY](http://taichi.graphics/)
 * [tomorrow - Magic decorator syntax for asynchronous code in Python](https://github.com/madisonmay/Tomorrow)
 * [topydo - A command-line todo list application using the todo.txt format](https://github.com/bram85/topydo)
-* Tornado
-  * [Python Tornado 웹서버 개발 HelloWorld부터 비동기식 데이터 처리까지](https://speakerdeck.com/spritecodej/junbeom-park)
-    * [github.com/spritecodej/tornado_examples](https://github.com/spritecodej/tornado_examples)
-  * [Tornado WS Json API Server Boilerplate](https://github.com/shinjayne/Tornado-WS-Json-Boilerplate)
 * tox
   * [Unit Testing in Python — tox and nox | by Martin Thoma | Python In Plain English | Medium](https://medium.com/python-in-plain-english/unit-testing-in-python-tox-and-nox-833e4bbce729)
   * [Guix-tox, a functional version of tox](http://blogs.rdoproject.org/7843/guix-tox-a-functional-version-of-tox)
@@ -3090,6 +3077,8 @@ Python
   * [Achieving C-like performance in Python without Cython or other libraries?](https://www.youtube.com/watch?v=Ri8sU5DphEE)
   * [Protecting Python Sources With Cython](https://medium.com/@xpl/protecting-python-sources-using-cython-dcd940bb188e)
   * [Boosting Python Scripts With Cython](https://blog.paperspace.com/boosting-python-scripts-cython/)
+  * [Make Your Python Code Dramatically Faster With Cython | by Halil Yıldırım | Better Programming | Medium](https://medium.com/better-programming/make-your-python-code-dramatically-faster-with-cython-2a307253234b)
+  * [runcython - Making cython as easy as python](https://github.com/Russell91/runcython)
 * [pybind11 - a lightweight header-only library that exposes C++ types in Python and vice versa, mainly to create Python bindings of existing C++ code](https://pybind11.readthedocs.io)
 * [Pythran](https://pythonhosted.org/pythran/index.html)
   * [Pythran is a Python to c++ compiler for a subset of the Python language, with a focus on scientific computing](https://github.com/serge-sans-paille/pythran)
@@ -4065,13 +4054,30 @@ Python
   * [Part 1](http://ruslanspivak.com/lsbaws-part1/)
   * [Part 2](http://ruslanspivak.com/lsbaws-part2/)
   * [Part 3](http://ruslanspivak.com/lsbaws-part3/)
+* [5 Smooth Python Web-Frameworks For The Modern Developer | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/5-smooth-python-web-frameworks-for-the-modern-developer-47db692dfd52) FastAPI, Tornado, Pyramid, Quart, BlackSheep
+* [BlackSheep: Fast ASGI web framework and HTTP client for Python asyncio](https://github.com/RobertoPrevato/BlackSheep)
 * [Brython - A Python 3 implementation for client-side web programming](http://www.brython.info)
   * [파이썬을 웹에서 실행하기 :: 프즈](https://tolovefeels.tistory.com/53)
 * Falcon [An Introduction to the Falcon Framework | by Esther Vaati | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/an-introduction-to-the-falcon-framework-a787ceea098)
+* [fastapi: FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://github.com/tiangolo/fastapi)
+  * [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679)
+  * [You Should Start Using FastAPI Now | by Tivadar Danka | Towards Data Science](https://towardsdatascience.com/you-should-start-using-fastapi-now-7efb280fec02)
+  * [Intro to FastAPI - The Best Way to Create APIs in Python? - YouTube](https://www.youtube.com/watch?v=kCggyi_7pHg)
+  * [Learning FastAPI - YouTube](https://www.youtube.com/watch?v=GSMYt429ot4)
+  * [Integrating Tortoise ORM into a FastAPI App - YouTube](https://www.youtube.com/watch?v=vVjWeLVv97c)
+  * [Integrating AIOHTTP Into a FastAPI App - YouTube](https://www.youtube.com/watch?v=BalvzyKg_4k)
+  * [4 Useful Advanced Features in FastAPI | by Ng Wai Foong | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/4-useful-advanced-features-in-fastapi-f08e4db59637)
+  * [How to use FastAPI with MongoDB. An easy way to serve your database… | by Fernando Souza | Python In Plain English | Sep, 2020 | Medium](https://medium.com/python-in-plain-english/how-to-use-fastapi-with-mongodb-75b43c8e541d)
 * mod_wsgi
   * [What package I should install for 'pcre-devel'?](http://stackoverflow.com/questions/2263404/what-package-i-should-install-for-pcre-devel)
     * `yum install pcre-devel.x86_64 -y`
     * `apt-get install libpcre3-dev -y`
+* [Pyramid, a Python Web Framework](https://trypyramid.com/)
+* [Quart documentation](https://pgjones.gitlab.io/quart/)
+* [Tornado Web Server](https://www.tornadoweb.org/)
+  * [Python Tornado 웹서버 개발 HelloWorld부터 비동기식 데이터 처리까지](https://speakerdeck.com/spritecodej/junbeom-park)
+    * [github.com/spritecodej/tornado_examples](https://github.com/spritecodej/tornado_examples)
+  * [Tornado WS Json API Server Boilerplate](https://github.com/shinjayne/Tornado-WS-Json-Boilerplate)
 
 # Windows
 * [py2exe로 생성된 exe에서 py 소스 구하기 및 \xec... 문자열 변환](http://mcchae.egloos.com/11243826)
