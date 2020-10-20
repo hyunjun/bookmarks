@@ -521,6 +521,7 @@ Python
   * [Let’s get classy: how to create modules and classes with Python](https://medium.freecodecamp.org/lets-get-classy-how-to-create-modules-and-classes-with-python-44da18bb38d1)
   * [파이썬 매직 메소드 (Python's Magic Methods)](https://ziwon.dev/post/python_magic_methods)
   * [**매직 메서드를 이용한 객체 간의 diff 구하기**](https://velog.io/@litien/Python-%EB%A7%A4%EC%A7%81-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%91%90-%EA%B0%9D%EC%B2%B4-%EA%B0%84%EC%9D%98-diff-%EA%B5%AC%ED%95%98%EA%B8%B0)
+  * [5 Pairs of Magic Methods in Python That You Should Know | by Yong Cui, Ph.D. | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/5-pairs-of-magic-methods-in-python-you-should-know-f98f0e5356d6)
   * [Class Attribute VS Instance Attribute of Python](https://medium.com/techtofreedom/differences-between-class-attribute-and-instance-attribute-of-python-1ae61774489c)
   * [How to use Python classes effectively | by Rhea Moutafis | Towards Data Science](https://towardsdatascience.com/how-to-use-python-classes-effectively-10b42db8d7bd)
   * [Python Objects and Classes: The Most Important Python Concepts That You Need to Understand | Towards Data Science](https://towardsdatascience.com/the-most-important-python-concept-that-you-need-to-understand-985b98bbb84)
@@ -854,6 +855,7 @@ Python
   * [The Fun Of Reinvention 파이썬3.6으로 흑마법을 부려보자](https://phillyai.github.io/2017-07-02-The-Fun-Of-Reinvention/)
   * [Saving 9 GB of RAM with Python’s `__slots__`](http://tech.oyster.com/save-ram-with-python-slots/)
   * [A quick dive into Python’s “__slots__”](https://blog.usejournal.com/a-quick-dive-into-pythons-slots-72cdc2d334e)
+  * [Understand __slots__ in Python. A simple way to improve your Python… | by Xiaoxu Gao | Towards Data Science](https://towardsdatascience.com/understand-slots-in-python-e3081ef5196d)
   * [CLASS ATTRIBUTE 와 INSTANCE ATTRIBUTE 의 구분과 구현](http://blog.hanjae.tech/2018/12/python-class-attribute-instance.html)
     * 내부 동작을 이해하는 측면에서는 좋으나, 실제로는 전혀 쓸모없어 보임
   * [Underscore(\_)로 시작하는 파이썬 클래스명](https://lhy.kr/python-class-name-startwith-underscore)
@@ -1148,6 +1150,7 @@ Python
   * [A Guide to the Newer Python String Format Techniques](https://realpython.com/python-formatted-output/)
   * [Do Not Use “+” to Join Strings in Python](https://towardsdatascience.com/do-not-use-to-join-strings-in-python-f89908307273)
   * [5 Python String Methods For Better Formatting | by Tate Galbraith | Jul, 2020 | Level Up Coding](https://levelup.gitconnected.com/5-python-string-methods-for-better-formatting-a2c3b92a2d33)
+  * [22 Pythonic Tricks for Working with Strings | by Richard Quinn | Python In Plain English | Medium](https://medium.com/python-in-plain-english/22-pythonic-tricks-for-working-with-strings-8b893776743c)
 * [subprocess](https://docs.python.org/3/library/subprocess.html)
   * [pymotw.com/3/subprocess](https://pymotw.com/3/subprocess/)
   * [asyncio-subprocess](https://docs.python.org/3/library/asyncio-subprocess.html)
@@ -1914,6 +1917,7 @@ Python
 * [Flask - uwsgi - Nginx 와 docker-compose를 사용해 서버를 만들자](https://woolbro.tistory.com/95)
 * [Flask 에 uwsgi 서버 적용하기](https://woolbro.tistory.com/94)
 * [Dockerize Simple Flask App](http://containertutorials.com/docker-compose/flask-simple-app.html)
+* [Containerizing Python Web Application | by Srinaveen Desu | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/containerizing-python-web-application-1052e61cf201) dockerfile
 * [How to make a Flask blog in one hour or less](http://charlesleifer.com/blog/how-to-make-a-flask-blog-in-one-hour-or-less/)
 * [Flask is a microframework for Python based on Werkzeug, Jinja 2 and good intentions. And before you ask: It’s BSD licensed!](https://flask.zeef.com/stefane.fermigier)
 * [Pirates use Flask, the Navy uses Django](https://wakatime.com/blog/25-pirates-use-flask-the-navy-uses-django?)
