@@ -430,6 +430,7 @@ NLP
   * [공개용 Colab에서 TPU로 KcBERT 처음부터 Pretrain하기 with Korpora - Colaboratory](https://colab.research.google.com/drive/1lYBYtaXqt9S733OXdXvrvC09ysKFN30W)
 * [PyCon2020 NLP beginner's BERT challenge](https://www.slideshare.net/ssuser78d9d6/pycon2020-nlp-beginners-bert-challenge)
 * [딥러닝으로 동네생활 게시글 필터링하기. BERT를 사용해서 동네 생활 게시글 필터링 모델을 개발한 과정을… | by matthew l | 당근마켓 팀블로그 | Medium](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9C%BC%EB%A1%9C-%EB%8F%99%EB%84%A4%EC%83%9D%ED%99%9C-%EA%B2%8C%EC%8B%9C%EA%B8%80-%ED%95%84%ED%84%B0%EB%A7%81%ED%95%98%EA%B8%B0-263cfe4bc58d)
+* [Using BERT to Battle Job Scams. The BERT model has many practical… | by Sadrach Pierre, Ph.D. | Towards Data Science](https://towardsdatascience.com/using-bert-to-battle-job-scams-d98e6a0ca1e1)
 
 # Book
 * [Neural Network Methods for Natural Language Processing](http://www.morganclaypoolpublishers.com/catalog_Orig/samples/9781627052955_sample.pdf)
