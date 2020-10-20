@@ -625,6 +625,7 @@ Machine Learning
 * [Experimenting with AWS Machine Learning for Classification](http://www.datasciencecentral.com/profiles/blogs/experimenting-with-aws-machine-learning-for-classification?xg_source=activity)
 * [데이터에 숨은 통찰력을 발견하라](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005115357)
 * [mlstudy2019 2019년 머신러닝 스터디 모임](https://github.com/awskrug/mlstudy2019)
+* [Develop and sell a Machine Learning app — from start to end tutorial | by Daniel Deutsch | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/develop-and-sell-a-machine-learning-app-from-start-to-end-tutorial-ed5b5a2b6b2b)
 
 # Book
 * [패턴 인식 - 오일석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970859040&orderClick=LEA&Kc)
