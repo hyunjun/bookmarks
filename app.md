@@ -497,6 +497,7 @@ App
     * [Bringing the browser developer tools to Visual Studio Code - Microsoft Edge Blog](https://blogs.windows.com/msedgedev/2020/10/01/microsoft-edge-tools-vscode/)
     * [GitHub and VS Code | Bring your favorite tools to all the places you code](https://vscode.github.com/)
     * [Use VSCode Like a Senior Developer | by bitfish | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/use-vscode-like-a-senior-developer-9b54054c452a)
+    * [Making Visual Studio Code Better 🔥✨🛠 | by Spencer Pollock | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/making-visual-studio-code-better-e72105809bf2)
     * Debug
       * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
       * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
