@@ -18,7 +18,7 @@
 * [Anti-OOP: if를 피하는 법](http://meetup.toast.com/posts/94)
   * [Anti-OOP: if를 피하는 법](http://redutan.github.io/2016/03/31/anti-oop-if)
 * [The "OO" Antipattern](https://quuxplusone.github.io/blog/2020/05/28/oo-antipattern/)
-* [**OOP란 조건문(if)을 줄이는 것**](http://alankang.tistory.com/249)
+* [~**OOP란 조건문(if)을 줄이는 것**~](http://alankang.tistory.com/249) 삭제되어 아쉬움
   * if가 필요한 부분을 서브타입 다형성(subtype polymorphism)으로 대체
   * 의존성이 역전되어 있다면, 상위 계층이 하위 계층을 사용(의존)한다면 객체지향적 설계
   * 도메인 로직을 서술하기 위한 if는 사용
@@ -33,6 +33,7 @@
 * [SOLID 원칙](https://hg-pyun.github.io/solid)
 * [S.O.L.I.D. Principles Around You](https://dev.to/trekhleb/s-o-l-i-d-principles-around-you-1o17)
 * [The S.O.L.I.D Principles in Pictures | by Ugonna Thelma | Backticks & Tildes | Medium](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
+* [SOLID 법칙 中 LID. 인터페이스 분리 원칙, 리스코프 치환 원칙, 의존성 역전 원칙에 대해… | by 남현욱 | 휴먼스케이프 기술 블로그 | Medium](https://medium.com/humanscape-tech/solid-%EB%B2%95%EC%B9%99-%E4%B8%AD-lid-fb9b89e383ef)
 * [인상적인 코딩 테스트 그리고 합격](https://www.popit.kr/%EC%9D%B8%EC%83%81%EC%A0%81%EC%9D%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%95%A9%EA%B2%A9/) 제목과 달리 가장 중요한 건 SOLID를 알고 구현하고 설명할 수 있어야 한다는 이야기
 * [싱글턴은 정적이지 않다](https://justhackem.wordpress.com/2017/07/05/singleton-is-not-static/)
 * [꼬리에 꼬리를 무는 - 유사 디자인 패턴들(1/2편)](http://hamait.tistory.com/868)
