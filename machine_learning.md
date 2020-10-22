@@ -289,6 +289,7 @@ Machine Learning
 * [Building A Logistic Regression in Python, Step by Step](https://towardsdatascience.com/building-a-logistic-regression-in-python-step-by-step-becd4d56c9c8)
 * [Logistic Regression — Detailed Overview](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
 * [Logistic Regression from scratch - Philipp Muens](https://philippmuens.com/logistic-regression-from-scratch/)
+* [머신러닝 - 로지스틱 리그레션(Logistic Regression) - YouTube](https://www.youtube.com/watch?v=zCjHcQJ3mkI)
 * [Multiclass Regression Tutorial](https://www.youtube.com/playlist?list=PLdeuKRJcjOTfgfyRrKf1G8BN6qIbaBa1d)
 * [5 Types of Regression and their properties](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e)
 * [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
