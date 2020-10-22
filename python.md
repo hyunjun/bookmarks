@@ -656,6 +656,7 @@ Python
   * [The Idiomatic Way to Merge Dictionaries in Python](https://treyhunner.com/2016/02/how-to-merge-dictionaries-in-python/)
   * [Five Ways to Loop Through Python Dictionaries | by Jonathan Hsu | Better Programming | Medium](https://medium.com/better-programming/five-ways-to-loop-through-python-dictionaries-468db779744d)
   * [Dictionary View Objects 101. Learning about dynamic view objects in… | by Indhumathy Chelliah | Aug, 2020 | codeburst](https://codeburst.io/dictionary-view-objects-101-480b72f71dec)
+  * [7 Advanced Python Dictionary Techniques | Towards Data Science](https://towardsdatascience.com/7-advanced-python-dictionary-techniques-you-should-know-416194d82d2c)
 * dis
   * [PyInstaller로 만든 EXE 파일에서 Python code 뽑아내기](https://item4.github.io/2018-11-04/Extract-Python-Code-from-PyInstaller-EXE-File/)
 * double/float
@@ -2006,6 +2007,7 @@ Python
 * [Creating Middlewares with Python Flask | by Devesh Kharve | The Startup | Medium](https://medium.com/swlh/creating-middlewares-with-python-flask-166bd03f2fd4)
 * [sqlcolab](https://github.com/gyunseul9/sqlcolab) colab + Flask REST API daemon, MySQL 테이블 생성 쿼리, 샘플 csv 파일
 * [Python Flask REST API MySQL stored procedure colab](https://github.com/gyunseul9/colabsp)
+* [Coding a REST API With Python | by Eric Chi | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/coding-a-rest-api-with-python-77384ad60511)
 * [**Develop and sell a Python API — from start to end tutorial | by Daniel Deutsch | Sep, 2020 | Towards Data Science**](https://towardsdatascience.com/develop-and-sell-a-python-api-from-start-to-end-tutorial-9a038e433966) AWS
 
 ## Flask Library
