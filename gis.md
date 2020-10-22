@@ -21,6 +21,7 @@ GIS
 * [네이버 지도 JavaScript API 완벽 가이드 – 투영, 지도 유형 편](http://d2.naver.com/helloworld/9121395)
 * [Top Maps API and Libraries in JavaScript | by Sathishravi | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/top-maps-api-and-libraries-in-javascript-e01b01ad5d2c)
 * [GeoTIFF Coordinate Querying with JavaScript | by Thomas Horner | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/geotiff-coordinate-querying-with-javascript-5e6caaaf88cf)
+* [An introduction into Deck.gl. Deck.gl is an open-source data… | by Ugur Ertas | Weekly Webtips | Medium](https://medium.com/weekly-webtips/an-introduction-into-deck-gl-f5c8ae84d9a5)
 
 # Python
 * 주소DB가지고놀기
