@@ -464,6 +464,7 @@ Javascript
 * [Handling Errors in JavaScript: The Definitive Guide](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
 * [JavaScript Clean Code: Error Handling](https://medium.com/better-programming/javascript-clean-code-error-handling-9cd7e87fdbe3)
 * [JavaScript Clean Code — Vertical Formatting](https://levelup.gitconnected.com/javascript-clean-code-vertical-formatting-d15097f5f30e)
+* [JavaScript Clean Code — Quick Best Practices | by Denis Cangemi | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/javascript-clean-code-best-practices-461c24c53cae)
 * [2020년 6월 20일 개발 이야기 특집(자바스크립트 세상의 클린코드)](https://jhrogue.blogspot.com/2020/06/b-2020-6-20.html)
 * [Who Else Wants to Write Clean JavaScript Code? - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/who-else-wants-to-write-clean-javascript-code-ff4f7896e6bd)
 * [7 Types of Native Errors in JavaScript You Should Know](https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492)
@@ -1933,6 +1934,7 @@ Javascript
   * [Tutorial: Create a Node.js and Express app in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/javascript/tutorial-nodejs?view=vs-2019)
   * [React.js + Node.js Express + MongoDB example: MERN stack CRUD App](https://morioh.com/p/3f6c1feccbaf)
   * [Fastify vs. Express & HTTP-Node.js - Performance Test | JavaScript In Plain English](https://medium.com/javascript-in-plain-english/fastify-express-benchmark-4c4aebb726d6)
+  * [I built the same API with & without Express. Here are the differences. | by Louis Petrik | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/i-built-the-same-api-with-without-express-here-are-the-differences-83bbeb7ddad)
 * [falcor - A JavaScript library for efficient data fetching](http://netflix.github.io/falcor/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly#about)
@@ -2522,6 +2524,7 @@ Javascript
 * [Stop Using React - DEV](https://dev.to/ender_minyard/why-you-should-stop-using-react-g7c)
 * [Introducing the New JSX Transform – React Blog](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html)
 * [react 리액트와 socket.io를 활용한 랜덤강화게임(+ 채팅)](https://blog.naver.com/pjt3591oo/222106661530)
+* [How You Should Structure Your React Applications | by Thomas Guibert | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
