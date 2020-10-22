@@ -618,6 +618,7 @@ Javascript
 * [fe-news/2020-09.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2020-09.md)
 * [The Front-End Features You Might Have Missed | by Adrien Miquel | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/the-front-end-features-you-might-have-missed-38f3ad1360a9)
 * [2020년과 이후 JavaScript의 동향 - WebAssembly](https://d2.naver.com/helloworld/8257914) wasm
+* [Multi Segment Display in JavaScript | by Chris Webb | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/multi-segment-display-in-javascript-6f256153cda8)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -3275,6 +3276,7 @@ Javascript
 * [발표, Vue SSR vs Prerender - 완두블로그](https://wani.kr/posts/2017/10/23/vue-ssr-vs-prerender/)
 * [Vue 3 가볍게 훑어보기 • Captain Pangyo](https://joshua1988.github.io/web-development/vuejs/vue3-coming/)
 * [How to generate a sitemap.xml with Javascript for dynamic page urls | by Axel Wittmann | The Startup | Medium](https://medium.com/swlh/how-to-generate-a-sitemap-xml-with-javascript-for-dynamic-page-urls-12d9537fd950)
+* [An Introduction to Vue Teleport — A New Feature in Vue3 | by Matt Maribojoc | Sep, 2020 | Medium](https://medium.com/@mattmaribojoc/an-introduction-to-vue-teleport-a-new-feature-in-vue3-e9ddbf58dd25)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
   * [워드프레스에서 Gridsome으로 블로그 이전후 깃헙 액션을 통해 넷틀리파이에서 호스팅하기](https://blog.aliencube.org/ko/2020/01/03/migrating-wordpress-to-gridsome-on-netlify-through-github-actions/)
 * [reactivue: 🙊 Use Vue Composition API in React components](https://github.com/antfu/reactivue)
