@@ -108,6 +108,7 @@ Functional Programming
 * [The Essence of Functional Programming](https://medium.com/@Ratik96/the-essence-of-functional-programming-b6c7f6b74aee)
 * [The Functional Sandwich Principle](https://medium.com/walkme-engineering/the-functional-sandwich-principal-e6d138f6a579)
 * [GOTO 2018 • Functional Programming in 40 Minutes • Russ Olsen - YouTube](https://www.youtube.com/watch?v=0if71HOyVjY)
+* [The Object-Oriented vs. Functional Programming Language Evolution | by O'Reilly Media | oreillymedia | Sep, 2020 | Medium](https://medium.com/oreillymedia/the-object-oriented-vs-functional-programming-language-evolution-2f6e63335b40)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
