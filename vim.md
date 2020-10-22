@@ -200,6 +200,7 @@ Vim
 * [IntelliJ 의 VIM 플러그인 마개조하기](http://woowabros.github.io/tools/2016/06/18/ideavim-customize-00.html)
 * [Vi를 좋아하시는 분들을 위하여](http://greatkim91.tistory.com/m/196)
 * [How to Configure Vim like VSCode - YouTube](https://www.youtube.com/watch?v=gnupOrSEikQ)
+* [4 Vim Plugins to Boost Your Programming Efficiency | by Tate Galbraith | Better Programming | Medium](https://medium.com/better-programming/4-vim-plugins-to-boost-efficiency-6922add12e83)
 * [anderson.vim - Dark vim colorscheme based on colors from Wes Anderson films](https://github.com/gilgigilgil/anderson.vim)
 * autosave
   * [Vim에서 저장하는 방법 - 자동 저장](https://nolboo.kim/blog/2017/09/14/vim-write-autosave/)
