@@ -10,6 +10,7 @@ Web
 * [Interesting Web Technologies to follow in 2019](https://medium.freecodecamp.org/trending-web-technologies-to-follow-in-2019-fc382b09198b)
 * [Top 10 Web Development Trends to Follow in 2019](https://dzone.com/articles/top-10-web-development-trends-to-follow-in-2019)
 * [번역 2020년에 봐야하는 6가지 웹성능 기술](https://brunch.co.kr/@jowlee/98)
+* [Top Technologies That Will Transform Web Development in 2020 | by Sophia Martin | Quick Code | Medium](https://medium.com/quick-code/top-technologies-that-will-transform-the-web-development-in-2020-cccb8abe8f4e)
 * [대학생을 위한 웹 개발 공부용 체크리스트](http://xguru.net/1897)
 * [Why can’t we find Front End developers?](http://jjperezaguinaga.com/2014/03/19/why-cant-we-find-front-end-developers/)
   * [프론트엔드 개발자는 왜 구하기 어려운가?](http://ppss.kr/archives/26024)
