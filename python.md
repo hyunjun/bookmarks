@@ -471,6 +471,7 @@ Python
 * [9 Skills That Separate Beginners From Intermediate Python Programmers | by Martin Andersson Aaberge | Better Programming | Medium](https://medium.com/better-programming/9-skills-that-separate-a-beginner-from-an-intermediate-python-programmer-8bbde735c246)
 * [Equality vs Identity vs Membership Operation in Python | by Indhumathy Chelliah | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/equality-vs-identity-vs-membership-operation-in-python-76a1dbd69d6c) `==`, `is`, `in`
 * [3 Common Python Flaws You Need To Avoid | by Anupam Chugh | Towards Data Science](https://towardsdatascience.com/3-common-python-flaws-you-need-to-avoid-46c9eebfa0fe)
+* [7 Deadly Sins Python Developers Do | by Anupam Chugh | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/7-deadly-sins-python-developers-do-eb53d8a880)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -709,6 +710,7 @@ Python
     * [Amandine Lee - Passing Exceptions 101: Paradigms in Error Handling](https://speakerdeck.com/pycon2017/amandine-lee-passing-exceptions-101-paradigms-in-error-handling)
   * [How to Define Custom Exception Classes in Python - Towards Data Science](https://towardsdatascience.com/how-to-define-custom-exception-classes-in-python-bfa346629bca)
   * [Eyal Trabelsi - Elegant Exception Handling - YouTube](https://www.youtube.com/watch?v=6sVDuFQRGgo)
+  * [Quick Python Tip: Suppress Known Exception Without Try Except | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/quick-python-tip-suppress-known-exception-without-try-except-a93ec34d3704)
 * ftplib
   * [practice - download file from ftp](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-ftp-md)
 * function
@@ -955,6 +957,7 @@ Python
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
   * [typing.NamedTuple](http://mkseo.pe.kr/blog/?p=2699)
+  * [Python named tuple — boost your code readability | by Parithy Ilam | Python In Plain English | Medium](https://medium.com/python-in-plain-english/python-named-tuple-boost-your-code-readability-70b2039d393)
 * namespace
   * [파이썬 Namespace 이해하기 20160510](http://www.slideshare.net/dahlmoon/namespace-20160510)
   * [파이썬 namespace Binding 이해하기](http://www.slideshare.net/dahlmoon/binding-20160229-58415344)
