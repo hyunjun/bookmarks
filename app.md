@@ -347,6 +347,7 @@ App
 * [크롬 확장프로그램 개발⛏️ 회고](https://zuminternet.github.io/Zum-Chrome-Extension/)
 * [10 Awesome Chrome Flags You Should Enable Right Now | by Sanjeet Chatterjee | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/10-awesome-chrome-flags-you-should-enable-right-now-2684e4518cb5)
 * [Hidden Features of Chrome DevTools | by Martin Heinz | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/hidden-features-of-chrome-devtools-33d9de390dc0)
+* [**Chrome에서 네트워크 테스트를 할 때의 Tip**](https://developer88.tistory.com/320)
 * my notes [“크롬 새 탭을 메모장으로” 화려하지 않아도 실용적인 마이 노트(My Notes) - ITWorld Korea](http://www.itworld.co.kr/news/167215)
 * nuTab [Quick Notes New Tab Chrome Extension - nuTab](https://nutab.co/)
 * Requestly [Udemy강좌 Full HD로 보기](https://www.javastudy.net/2019/04/22/udemy%EA%B0%95%EC%A2%8C-full-hd%EB%A1%9C-%EB%B3%B4%EA%B8%B0/)
