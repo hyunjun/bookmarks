@@ -144,6 +144,7 @@ Finance
 * [The easy way to predict stock prices using machine learning | by Pedro Lealdino Filho | Jun, 2020 | Medium](https://medium.com/@pedrolealdino/the-stupidly-easy-way-to-predict-stock-prices-using-machine-learning-dbb65873cac8)
 * [Stock Market Prediction by Recurrent Neural Network on LSTM Model](https://medium.com/@aniruddha.choudhury94/stock-market-prediction-by-recurrent-neural-network-on-lstm-model-56de700bff68)
 * [Using the latest advancements in deep learning to predict stock price movements](https://towardsdatascience.com/aifortrading-2edd6fac689d) LSTM
+* [Step-by-Step Guide — Building a Prediction Model in Python | by Behic Guven | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/step-by-step-guide-building-a-prediction-model-in-python-ac441e8b9e8b) LSTM
 * [전자공시시스템에서 한 회사의 역대 사업보고서 한 번에 다운받기](https://github.com/seoweon/dart_reports)
 * [**파이썬으로 배우는 알고리즘 트레이딩**](https://wikidocs.net/book/110)
 * [데이터셋 - 시가총액 데이터](https://github.com/FinanceData/marcap)
@@ -198,6 +199,7 @@ Finance
 * [Best 5 free stock market APIs in 2020](https://towardsdatascience.com/best-5-free-stock-market-apis-in-2019-ad91dddec984)
 * [How to Build a Data Pipeline with the TD Ameritrade Python API Library](https://www.youtube.com/watch?v=icLy0glrovc)
 * [**파이썬 금융 시게열 처리 최적화하기. 당신의 데이터 처리를 가속시킬 몇가지 Tips & Tricks | by JooHyun Jo | Qraft Technologies | Jul, 2020 | Medium**](https://medium.com/qraft/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%88%EC%9C%B5-%EC%8B%9C%EA%B2%8C%EC%97%B4-%EC%B2%98%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0-571b4d716a2e) Pandas, Numpy, Numba, pyo3
+* [Technical Pattern Recognition for Trading in Python | by Sofien Kaabar | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/technical-pattern-recognition-for-trading-in-python-63770aab422f)
 * [파이스탁 - YouTube](https://www.youtube.com/c/pystock)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
