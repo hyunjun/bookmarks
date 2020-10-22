@@ -668,6 +668,8 @@ Programming
 * [**Architecture for High-Throughput Low-Latency Big Data Pipeline on Cloud**](https://towardsdatascience.com/scalable-efficient-big-data-analytics-machine-learning-pipeline-architecture-on-cloud-4d59efc092b5)
 * [Cloud Design Patterns— Explained Simply](https://medium.com/@rahatshaikh/cloud-design-patterns-explained-simply-113c788b33ff)
   * Asynchronous Request and Reply, Command and Query Responsibility Segregation (CQRS), Event Sourcing, Retry, Circuit Breaker, Sidecar
+* [Modern-Day Architecture Design Patterns for Software Professionals | by Tanmay Deshpande | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/modern-day-architecture-design-patterns-for-software-professionals-9056ee1ed977)
+  * Circuit Breaker, CQRS, Event Sourcing, Sidecar, Backend-for-Frontend, and Strangler
 * [Software Architecture and Design InfoQ Trends Report—April 2020](https://www.infoq.com/articles/architecture-trends-2020/)
 * [IT 에서 Persistent 데이터에 대한 이해 - Bryant Jimin Son - Medium](https://medium.com/@bryantjiminson/it-%EC%97%90%EC%84%9C-persistent-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4-bab1e7f8bbe)
 * [Testing Software Architecture](https://www.infoq.com/presentations/automation-testing-architecture/)
