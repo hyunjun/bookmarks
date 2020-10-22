@@ -45,6 +45,7 @@
 * [Petertc Chu - Speak Python with Devices - YouTube](https://www.youtube.com/watch?v=BpgtN8GK1M8)
 * [1_Workshops/Embedded_system 카테고리의 글 목록](https://gcamp.tistory.com/category/1_Workshops/Embedded_system)
 * [ipTIME A9004M 공유기에 Windows XP 올리기 | 맨손잡이](https://mans0n.github.io/2020/08/08/winxp-on-a9004m/)
+* [Coding with voice dictation using Talon Voice · Josh W Comeau](https://joshwcomeau.com/accessibility/hands-free-coding/)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
