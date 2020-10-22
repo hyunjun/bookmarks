@@ -387,6 +387,7 @@ Docker
 * [<컨테이너 가상화의 이해> chroot를 사용해 프로세스의 루트 바꾸기](https://steemit.com/kr/@mishana/1-chroot)
 * [컨테이너 기초 - chroot를 사용한 프로세스의 루트 디렉터리 격리](https://www.44bits.io/ko/post/change-root-directory-by-using-chroot)
 * [정적 링크 프로그램을 chroot와 도커(Docker) scratch 이미지로 실행하기](https://www.44bits.io/ko/post/static-compile-program-on-chroot-and-docker-scratch-image)
+* [(리눅스 업스킬 도전 #21-b) (도커 컨테이너의 기반이 되는) chroot 소개](https://jhrogue.blogspot.com/2020/10/21-b-chroot.html)
 * [Why Docker makes sense for startups](https://medium.freecodecamp.org/why-docker-makes-sense-for-startups-e9be14a1f662)
 * [A quick introduction to Docker tags](https://medium.freecodecamp.org/an-introduction-to-docker-tags-9b5395636c2a)
 * [XECon2015 :: 1-5 김훈민 - 서버 운영자가 꼭 알아야 할 Docker](https://www.youtube.com/watch?v=mECbDs9nPnM)
