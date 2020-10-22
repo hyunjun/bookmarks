@@ -248,6 +248,7 @@ Python
   * [Python Top 10 Articles for the Past Month](https://medium.mybridge.co/python-top-10-articles-for-the-past-month-b6e72bb8af2a)
 * [10 Best Python Projects of 2018](https://www.youtube.com/watch?v=G0rQ7AEl5LA)
   * Travelling Salesman Problem, System Design Primer, Facial Recognition, WhatWaf, SimpleCoin, Detectron, Vid2Vid, The Algorithms, Pip Env
+* [10 Crazy Cool Project Ideas for Python Developers | by Juan Cruz Martinez | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/10-crazy-cool-project-ideas-for-python-developers-d7efeb0a345)
 * [파이썬 데이터 검색](http://www.slideshare.net/dahlmoon/20160302-58759476)
 * [Using Python to Parse Spreadsheet Data](https://www.sitepoint.com/using-python-parse-spreadsheet-data/)
 * [Python source code analysis by Prashanth Raghu](https://intopython.com/)
@@ -336,6 +337,7 @@ Python
 * [30 Magical Python Tricks to Write Better Code - Towards Data Science](https://towardsdatascience.com/30-magical-python-tricks-to-write-better-code-e54d1642c255)
 * [10 Smooth Python Tricks For Python Gods | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/10-smooth-python-tricks-for-python-gods-2e4f6180e5e3)
 * [Write Better Python Code With These 10 Tricks | by Yong Cui, Ph.D. | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/write-better-python-code-with-these-10-tricks-30b7018e247a)
+* [**7 Python Tricks You Should Know. Impress your friends with these useful… | by Nabilah Abu Bakar | Better Programming | Medium**](https://medium.com/better-programming/7-python-tricks-you-should-know-bdaa98b866f2) YouTube-Dl, Pdb, PyInstaller, Tqdm, Colorama, Tabulate, Ptpython
 * [Python One-Liners Playlist - YouTube](https://www.youtube.com/playlist?list=PLbo6ydLr984aS6A2_vNNLtX_1_MbGMTU9)
 * [What are some one liners in Python that would take a hundred in C? - Quora](https://www.quora.com/What-are-some-one-liners-in-Python-that-would-take-a-hundred-in-C)
 * [18 Python scripts that help you write code faster](https://morioh.com/p/4f4b74ba17cc)
@@ -1371,6 +1373,7 @@ Python
 * [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/2e/)
   * [10 things possible with Python](https://okdevtv.com/mib/python/10)
   * [Automate the Boring Sutff with Python](https://github.com/re4lfl0w/ipython/blob/master/books/Automate_the_Boring_Sutff_with_Python/README.md)
+  * [Why every Pythonista must-read “Automate the boring stuff with Python”? | by Vishal Sharma | The Startup | Medium](https://medium.com/swlh/why-every-pythonista-must-read-automate-the-boring-stuff-with-python-2ba31e8843df)
 * [One Day Builds: Instagram Automation Using Python](https://www.youtube.com/watch?v=vnfhv1E1dU4)
   * [InstaAutomator](https://github.com/KalleHallden/InstaAutomator)
 * [Super quick Python automation ideas](https://www.youtube.com/watch?v=qbW6FRbaSl0)
