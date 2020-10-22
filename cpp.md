@@ -251,6 +251,7 @@ C++
 * [TIL – C++ 폴드 표현식과 쉼표 연산자](https://surpreem.com/til-%ED%8F%B4%EB%93%9C-c-%ED%91%9C%ED%98%84%EC%8B%9D%EA%B3%BC-%EC%89%BC%ED%91%9C-%EC%97%B0%EC%82%B0%EC%9E%90/)
 
 # C++20
+* [C++ Weekly C++20 - YouTube](https://www.youtube.com/playlist?list=PLs3KjaCtOwSYdpfm74DYyd1kOXEhCd1Rv)
 * [fast_io - a C++ io exception-safe RAII library based on C++ 20 Concepts. It is at least 10 times faster than cstdio than iostream](https://github.com/expnkx/fast_io)
 * [C++ 새 기술표준 연말 공개…모듈·코루틴 등 적용 - ZDNet korea](https://zdnet.co.kr/view/?no=20200909113902)
 * [C++ 20, 최종 기술 승인 획득··· 모듈 및 코루틴 등 추가 - CIO Korea](http://www.ciokorea.com/news/164145)
