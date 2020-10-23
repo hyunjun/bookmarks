@@ -288,6 +288,7 @@ Vision
 * [색공간 HSV 색 공간을 활용해서 특정 색깔의 물체만 검출하기 (matlab 소스코드 포함) by b스카이비전](https://bskyvision.com/46)
 * [Computer Vision Recipes: Best Practices and Examples](https://www.kdnuggets.com/2020/09/computer-vision-recipes-best-practices-examples.html)
 * [ImageClassify_TeachableMachine_App](https://github.com/wgfactory/ImageClassify_TeachableMachine_App)
+* [스마트하게 식단을 관리하는 딥러닝 기술](https://tech.kakaoenterprise.com/84)
 
 # Book
 * [Hands-On Computer Vision with TensorFlow 2, published by Packt](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
