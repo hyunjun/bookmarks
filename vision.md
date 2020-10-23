@@ -556,6 +556,7 @@ Vision
 * [An Implementation of Robust Matting Algorithm](http://wangchuan.github.io/archive/projects/robust-matting/)
 * [LEARN OPENCV in 3 HOURS with Python | Including 3x Example Projects (2020) - YouTube](https://www.youtube.com/watch?v=WQeoO7MI0Bs)
 * [FACE RECOGNITION + ATTENDANCE PROJECT | OpenCV Python (2020) - YouTube](https://www.youtube.com/watch?v=sz25xxF_AVE)
+* [Face Detection in 2 Minutes with Python and OpenCv](https://morioh.com/p/503c0fcf7e55)
 * [Make an AI Tracker in 23 Lines of Code in Python | codeburst](https://codeburst.io/make-an-ai-tracker-7dc1c5afccc5)
 * [Building a Face Recognizer in Python | by Behic Guven | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/building-a-face-recognizer-in-python-7fd6630c6340)
 * [box-visualizer: Make drawing and labeling bounding boxes easy as cake](https://github.com/shoumikchow/bbox-visualizer)
