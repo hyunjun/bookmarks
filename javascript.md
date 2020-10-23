@@ -1372,6 +1372,9 @@ Javascript
   * [nestjs와 loopback, 호기심을 자극하는 2019년의 nodejs 웹프레임워크](https://paperspoon.tistory.com/entry/nestjs%EC%99%80-loopback-%ED%98%B8%EA%B8%B0%EC%8B%AC%EC%9D%84-%EC%9E%90%EA%B7%B9%ED%95%98%EB%8A%94-2019%EB%85%84%EC%9D%98-nodejs-%EC%9B%B9%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC)
   * [Hello Nestjs](https://dev-momo.tistory.com/entry/Hello-Nestjs)
   * [Nestjs / CRUD](https://loveloper.tistory.com/11)
+  * [date-fns 활용 - caneldar를 만들어보자. 1편 - YouTube](https://www.youtube.com/watch?v=Gz7lHUHGYJ8)
+  * [date-fns 활용 - caneldar를 만들어보자. 2편 - YouTube](https://www.youtube.com/watch?v=o8CefEw3mJ4)
+  * [date-fns 활용 - caneldar를 만들어보자. 3편 & nest.js 프레임워크 흉내내기 - YouTube](https://www.youtube.com/watch?v=hcEwNEd8QjE)
 * Netlify [Run Cypress Tests on Netlify Using a Single Line](https://cypress.io/blog/2020/03/30/run-cypress-tests-on-netlify-using-a-single-line/)
 * [notie.js - a clean and simple notification plugin (alert/growl style) for javascript, with no dependencies](https://github.com/jaredreich/notie.js)
 * [nuxt.js](https://nuxtjs.cmty.io/)
@@ -1866,6 +1869,7 @@ Javascript
 * AdonisJS [Node.js 웹 프레임워크 ‘AdonisJS’](https://medium.com/@larkbless/node-js%EC%9D%98-%EB%9D%BC%EB%9D%BC%EB%B2%A8-adonisjs-d9ef209ade9c)
 * axios
   * [client 인증(Athentication) & 인가(Ahtuorization) handler 구현 - 클라이언트편](https://blog.naver.com/pjt3591oo/222121552945)
+  * [axios 활용 - Authentication & Authorization 블로그 정리 - YouTube](https://www.youtube.com/watch?v=sQgi9oQHu3I)
   * [axios-logger - Beautify Axios Logging Messages](https://github.com/hg-pyun/axios-logger)
 * [black-screen - A terminal emulator for the 21st century](https://github.com/shockone/black-screen)
 * [blessed - A high-level terminal interface library for node.js](https://github.com/chjj/blessed)
