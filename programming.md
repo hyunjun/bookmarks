@@ -634,6 +634,7 @@ Programming
   * 개발에 대한 이야기라고 보긴 어렵지만, 업무에 중요한 게 뭔지 이야기하는 글로 공감이 많이 간다
   * Divide and conquer가 아니라 conquer and divide를 이야기하는 부분은 일단 working solution/system을 만들고 opimization을 하라는 것과 일맥상통한다는 생각
 * [**결함 감내 시스템 (Fault-Tolerant System) 은 왜 중요한가**](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/%EC%96%B4%EB%A6%B4%EC%A0%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B2%B0%ED%95%A8-%EA%B0%90%EB%82%B4-%EC%8B%9C%EC%8A%A4%ED%85%9C-fault-tolerant-system-%EC%9D%80-%EC%99%9C-%EC%A4%91%EC%9A%94%ED%95%9C%EA%B0%80-%EA%B7%B8-%EC%9D%B4%EC%9C%A0%EC%99%80-%EB%AA%87%EA%B0%80%EC%A7%80-%ED%85%8C%ED%81%AC%EB%8B%89%EC%97%90-%EA%B4%80%ED%95%9C-%EA%B8%80/10156524746028462)
+* [**캐시 시스템에 필요한 fault tolerance 의미와 이를 제공하는 방안 | by Junhyun Park | JaM2in | Oct, 2020 | Medium**](https://medium.com/jam2in/%EC%BA%90%EC%8B%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-fault-tolerance-%EC%9D%98%EB%AF%B8%EC%99%80-%EC%9D%B4%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EC%95%88-a4e01132ac03)
 * 최신 브라우저의 내부 살펴보기 
   * [**1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처**](https://d2.naver.com/helloworld/2922312) 매우 좋은 번역 글
   * [2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
