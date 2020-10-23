@@ -327,6 +327,7 @@ R
 * [Model calibration with `crossval`](https://www.r-bloggers.com/model-calibration-with-crossval/)
 * [밑바닥부터 시작하는 ROC 커브 분석](https://bookdown.org/cardiomoon/roc/)
 * [Accessible Data Science for the Blind Using R](https://jooyoungseo.com/post/ds4blind/)
+* [Analysing the correlation between arm and leg length in professional fighters | by Thomas Richardson | Towards Data Science](https://towardsdatascience.com/the-correlation-between-arm-and-leg-length-in-mma-fighters-a-tutorial-on-data-analysis-in-r-3936efe12cb4)
 
 # API
 * [REX: Look around – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2229)
