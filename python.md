@@ -843,6 +843,7 @@ Python
   * [**Python3: Logging With Multiprocessing | by Jonathonbao | Medium**](https://medium.com/@jonathonbao/python3-logging-with-multiprocessing-f51f460b8778)
   * [Autologging — easier logging and tracing for Python classes](http://pythonhosted.org/Autologging/)
   * [loguru: Python logging made (stupidly) simple](https://github.com/Delgan/loguru)
+  * [Power-Up Your Python Logging. A guide to take you from beginner to… | by David Tippett | Better Programming | Medium](https://medium.com/better-programming/power-up-your-python-logging-6dd3ed38f322)
 * loop
   * [python loop performace check](https://gist.github.com/junghanw/ab8e7d758e4c866260172e2ed27a9ef0)
   * [David DB Baumgold Looping Like a Pro in Python PyCon 2017](https://www.youtube.com/watch?v=u8g9scXeAcI)
