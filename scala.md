@@ -438,6 +438,7 @@ Scala
   * [A story about streaming unique batches in Monix](https://blog.softwaremill.com/a-story-about-streaming-unique-batches-in-monix-435a13063b3)
   * [Best Practice: Should Not Block Threads — Monix](https://monix.io/docs/current/best-practices/blocking.html)
   * [Piotr Gawryś: Streaming with Monix - YouTube](https://www.youtube.com/watch?v=lzSykAUUQSA)
+  * [Generic IOApp alternative - Alexandru Nedelcu](https://alexn.org/snippets/2020/10/15/generic-ioapp-alternative.html)
 
 ## Akka Cluster
 * [Why we picked AKKA cluster as our microservice framework](http://tech.iheart.com/post/121599571574/why-we-picked-akka-cluster-as-our-microservice)
@@ -664,6 +665,7 @@ Scala
   * [Optional Is the New Mandatory](http://rcardin.github.io/functional/programming/types/2019/10/06/optional-is-the-new-mandatory.html)
   * [Introducing error reporting in optics](https://fp-tower.github.io/2020-01-27-introducing-error-reporting-in-optics/)
   * [The cost of Scala Option](https://medium.com/@georgeleung_7777/the-cost-of-scala-option-987ffd64206b)
+  * [Option — the null of our times. Things I would have told my… | by Adam Gajek | VirtusLab | Sep, 2020 | Medium](https://medium.com/virtuslab/option-the-null-of-our-times-77f3bfd7c234)
 * Ordered
   * [A functional comparer](https://scalaprof.blogspot.com/2020/04/a-functional-comparer.html)
 * par
@@ -1383,6 +1385,7 @@ Scala
 * [Tagless Final - Part 12 - delivery-http-http4s (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=zymyPaYHa-I)
 * [Tagless Final - Part 13 - parse, don't validate (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=2pB4CfQxSH4)
 * [Tagless Final - Part 14 - wait, don't fold (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=N6NlhuB5-T8)
+* [Tagless Final - 4 error channel encodings (Error Handling - Part 1) - YouTube](https://www.youtube.com/watch?v=2Ldx8pxkWq8)
 * [Scala 3 - TF related improvements (mostly #implicits) - YouTube](https://www.youtube.com/watch?v=0MPfFBctWUc)
 
 # Monoids
@@ -1521,6 +1524,7 @@ Scala
 * [Part 2: The SMAkkaR.js Stack- Using monocle and akka to facilitate model and component reusability in a react scala.js application – Hernansote’s Blog](https://randomthroughtsfromnowhere.com/2020/06/26/part-2-using-monocle-and-akka-to-facilitate-model-and-component-reusability-in-a-react-scala-js-application/)
 * [Scala, React, and SSR (part 1) | ShipReq Blog](https://blog.shipreq.com/post/scala_react_and_ssr_part_1)
 * [Scala, React, and SSR (part 2) | ShipReq Blog](https://blog.shipreq.com/post/scala_react_and_ssr_part_2)
+* [dotty+scala.js+async: interesting options](https://appddeevvmeanderings.blogspot.com/2020/10/dottyscalajsasync-interesting-options.html)
 * [ScalablyTyped - The Javascript ecosystem for Scala.js!](https://github.com/oyvindberg/ScalablyTyped)
 
 # TDD, Test
@@ -1540,6 +1544,8 @@ Scala
 * [Testing APIs using Functional Programming in Scala](https://medium.com/seek-blog/testing-with-functional-programming-in-scala-bb26bd4d4b42)
 * [Testing Embedded H2 DB with Scala and Scalatest](https://medium.com/@sukumaarneo/testing-embedded-h2-db-with-scala-and-scalatest-3a863aafc9ab)
 * [Systems @Scale 2019: Kill the mutants – ’cause it is about time to test your tests – @Scale](https://atscaleconference.com/videos/systems-scale-2019-kill-the-mutants-cause-it-is-about-time-to-test-your-tests/)
+* [Let's build a Scala mock library](https://squidarth.com/scala/programming/2020/10/04/scala-mocks.html)
+* [How To Make Integration Tests Less Flaky - DEV](https://dev.to/adamgordonbell/how-to-make-integration-tests-less-flaky-bel)
 * [AirSpec - a new functional testing framework for Scala and Scala.js](https://github.com/wvlet/airframe/tree/master/airspec)
   * [AirSpec: Writing Tests As Plain Functions In Scala](https://medium.com/airframe/airspec-bbc8d4369157)
 * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
@@ -1776,3 +1782,4 @@ Scala
 * [Rock the JVM - YouTube](https://www.youtube.com/channel/UCRS4DvO9X7qaqVYUW2_dwOw)
 * [**Tour of Scala | Home**](https://tourofscala.com) ???를 제거해서 code snippet을 완성하는 연습
 * [Programmering, grundkurs (2020) - YouTube](https://www.youtube.com/playlist?list=PLEV42dlCGAJ-0925_wTUFt_XiXfnimIVX)
+* [Why Scala? | An introduction by Adam Warski - YouTube](https://www.youtube.com/watch?v=t7SOXNJVbJo)
