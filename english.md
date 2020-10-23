@@ -66,3 +66,4 @@ English
   * 4. Take a step back
   * 5. Miss out on
 * [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
+* [직장영어 → 영어로 그래프 설명하기 - YouTube](https://www.youtube.com/watch?v=eP-ulNi6p04)
