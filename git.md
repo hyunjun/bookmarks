@@ -424,6 +424,7 @@ Git
   * [SwiftLint와 Git Hook을 이용해서 코딩 스타일 관리하기](http://woowabros.github.io/tools/2019/08/05/swiftlint-githooks.html)
   * [GitHub 커밋 메세지에 JIRA 이슈번호 자동으로 넣어주기](https://medium.com/prnd/github-커밋-메세지에-jira-이슈번호-자동으로-넣어주기-779048784037)
   * [Git hook for large files: because who wants to have their 100TB data file committed to Git?](https://www.reddit.com/r/MachineLearning/comments/egadjz/p_git_hook_for_large_files_because_who_wants_to/)
+  * [pre-commit hooks you must know. Boost your productivity and code… | by Martin Thoma | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/pre-commit-hooks-you-must-know-ff247f5feb7e)
 * [`inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD
 * `log`
   * `git log --all -- [deleted path/to/file]` [How to locate a deleted file in the commit history?](http://stackoverflow.com/questions/7203515/how-to-locate-a-deleted-file-in-the-commit-history)
