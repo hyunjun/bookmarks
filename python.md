@@ -441,6 +441,7 @@ Python
 * [Python Snippets - 파이썬 조각 코드 모음집](https://wikidocs.net/book/536)
 * [**Python 라이브러리와 API를 위한 체크리스트**](https://mingrammer.com/python-api-checklist/)
 * [Advanced Python Features](https://tech.io/playgrounds/500/advanced-python-features/content/advanced-python-features) generator, collections, itertools, (un)packing, decorator, lru_cache, context manager
+* [Five Advanced Python Features. Curly brace scopes, autovivification… | by James Briggs | Towards Data Science](https://towardsdatascience.com/five-advanced-python-features-169c96682350) dict, list, decorator, `from __future__ import braces`
 * [Records, Structs, and Data Transfer Objects in Python](https://dbader.org/blog/records-structs-and-data-transfer-objects-in-python)
   * `dict`, `tuple`, custom class, `collections.namedtuple`, `typing.NamedTuple`, `struct.Struct`, `types.SimpleNamespace`
 * [Experienced python programmers: are there any standard features of the language that you still don't regularly use?](https://www.reddit.com/r/Python/comments/6i829l/experienced_python_programmers_are_there_any/) 파이썬의 다양한 언어적 기능
