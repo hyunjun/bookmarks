@@ -271,6 +271,8 @@ SQL
     * [MySQL 기본 select SQL 예제](https://stricky.tistory.com/328)
     * [MySQL where in (서브쿼리) vs 조인 조회 성능 비교 (5.5 vs 5.6)](https://jojoldu.tistory.com/520)
     * [MySQL Update Subquery 성능 비교 (ver.5.6)](https://jojoldu.tistory.com/522)
+    * [1. 페이징 성능 개선하기 - No Offset 사용하기](https://jojoldu.tistory.com/528)
+    * [2. 페이징 성능 개선하기 - 커버링 인덱스 사용하기](https://jojoldu.tistory.com/529)
   * SHOW
     * `show [full] processlist` [터미널에서 쿼리 전체 보기](https://jybaek.tistory.com/823)
     * [Show Comment of Fields FROM Mysql Table](https://stackoverflow.com/questions/5404051/show-comment-of-fields-from-mysql-table)
