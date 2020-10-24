@@ -111,6 +111,7 @@ Java
 * [B급 프로그래머 2020년 5월 30일 개발자 이야기 자바 25주년 기념 특집(발표 자료)](https://jhrogue.blogspot.com/2020/06/b-2020-5-30-25.html)
   * [(05/30) 특집 자바 25주년 기념 이야기](https://www.youtube.com/watch?v=tJBxmVLu0xI)
 * [10 things you’re doing wrong in Java](https://towardsdatascience.com/10-things-youre-doing-wrong-in-java-7608e2f050c7)
+* [Using the Kotlin stdlib in Java code | by Victoria Gonda | victoriagonda | Medium](https://medium.com/victoriagonda/using-the-kotlin-stdlib-in-java-code-2565818ba016)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -573,6 +574,7 @@ Java
 * [Java 15: the Story So Far](https://www.infoq.com/news/2020/04/java-15-story-so-far/)
 * [Java 15 Released](https://www.infoq.com/news/2020/09/java15-released/)
 * [Java 15 through the eyes of a Scala programmer | by Adam Warski, SoftwareMill | SoftwareMill Tech Blog](https://blog.softwaremill.com/java-15-through-the-eyes-of-a-scala-programmer-edde1ea04492)
+* [What to Expect in Java 15. A brief look on new features in the… | by Dilan Sachintha Nayanajith | Javarevisited | Medium](https://medium.com/javarevisited/what-to-expect-in-java-15-a62d0033beb9)
 
 # Java16
 * [C++ 14 기능 지원부터 벡터 API까지··· JDK 16, 기능 구체화 - CIO Korea](http://www.ciokorea.com/news/165350)
