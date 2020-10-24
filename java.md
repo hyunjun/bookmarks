@@ -504,6 +504,7 @@ Java
 * [Java 스트림 Stream (1) 총정리](https://futurecreator.github.io/2018/08/26/java-8-streams)
 * [Java 스트림 Stream (2) 고급](https://futurecreator.github.io/2018/08/26/java-8-streams-advanced/)
 * [for-loop 를 Stream.forEach() 로 바꾸지 말아야 할 3가지 이유](http://homoefficio.github.io/2016/06/26/for-loop-%EB%A5%BC-Stream-forEach-%EB%A1%9C-%EB%B0%94%EA%BE%B8%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-3%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0/index.html)
+* [잘못 알고 있었던 java for each 구문과 modcount 필드](https://codingdog.tistory.com/entry/%EC%9E%98%EB%AA%BB-%EC%95%8C%EA%B3%A0-%EC%9E%88%EC%97%88%EB%8D%98-java-for-each-%EA%B5%AC%EB%AC%B8%EA%B3%BC-modcount-%ED%95%84%EB%93%9C)
 * [Java8 Stream의 parallel 처리](http://www.popit.kr/java8-stream%EC%9D%98-parallel-%EC%B2%98%EB%A6%AC/)
 * [Parallel and Asynchronous Programming with Streams and CompletableFuture with Venkat Subramaniam](https://www.youtube.com/watch?v=0hQvWIdwnw4)
 * [자바에서 스트림이란 무엇이고 어떻게 코드를 간결하고 가독성 높게 만들수 있는지 설명합니다. - YouTube](https://www.youtube.com/watch?v=x8-p7Hcxpr8)
