@@ -1100,6 +1100,7 @@ Programming
 * [잘가, 클린 코드](https://overreacted.io/ko/goodbye-clean-code/)
 * [Awesome-Clean-Code-Resources: An awesome curated list of clean code posts, books and videos](https://github.com/abiodunjames/Awesome-Clean-Code-Resources)
 * [Clean Code: 5 Essential Takeaways - Better Programming - Medium](https://medium.com/better-programming/clean-code-5-essential-takeaways-2a0b17ccd05c)
+* [(C)Lean Code. The new generation of Clean Code. | by Huge Ponkce | The Startup | Medium](https://medium.com/swlh/c-lean-code-db84f8e312d4)
 * [How to write clean functions](https://dev.to/manu4216/how-to-write-clean-functions-bmh)
 * [Write code that is easy to delete, not easy to... — programming is terrible](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
