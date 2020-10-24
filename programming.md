@@ -2047,6 +2047,7 @@ Programming
 * [(10월 10일) 구글 등 주요 회사의 코딩 인터뷰 살펴보기](https://jhrogue.blogspot.com/2020/10/10-10.html) 코딩 인터뷰 모음, git 연습, NestedText: JSON과 YAML은 가라, egghead – 프론트엔드 개발자를 위한 동영상 모음, 셸 히스토리 중앙 저장소에 모아보자
 * [2020년 10월 17일 개발자 이야기](https://www.slideshare.net/jrogue/2020-10-17)
   * [(10/17) 서버리스 혁명이 지체되는 이유는? - YouTube](https://www.youtube.com/watch?v=YXCRoFy__YQ)
+* [(10/24) AWS는 IPv4를 몇 개 확보했을까? - YouTube](https://www.youtube.com/watch?v=DmlO0_aywEw)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 
 # OS Operating System
@@ -2315,6 +2316,7 @@ Programming
 * [TDD 읽은티내기](https://brunch.co.kr/@moonjoonyoung/7)
 * [테스트 코드 없이 레거시 코드를 다 감수하시겠습니까?](http://woowabros.github.io/experience/2019/02/27/Working_Effectively_with_Legacy_Code.html)
 * [드라마 QA팀이 하는 일](http://blog.dramancompany.com/2019/03/%EB%93%9C%EB%9D%BC%EB%A7%88-qa%ED%8C%80%EC%9D%B4-%ED%95%98%EB%8A%94-%EC%9D%BC/)
+* [이동한님 Software QA 완벽한 SW는 없다! - YouTube](https://www.youtube.com/watch?v=zaI59OJCA3s)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [Introduction to Test Driven Development (TDD)](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92)
 * ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다](https://repo.yona.io/doortts/blog/issue/1)
