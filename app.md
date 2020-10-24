@@ -498,6 +498,7 @@ App
     * [GitHub and VS Code | Bring your favorite tools to all the places you code](https://vscode.github.com/)
     * [Use VSCode Like a Senior Developer | by bitfish | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/use-vscode-like-a-senior-developer-9b54054c452a)
     * [Making Visual Studio Code Better 🔥✨🛠 | by Spencer Pollock | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/making-visual-studio-code-better-e72105809bf2)
+    * [10 Essential Tips and Tricks Every Developer Should Master in Visual Studio Code | by shaden bsharat | Level Up Coding](https://levelup.gitconnected.com/10-essential-tips-and-tricks-every-developer-should-master-in-visual-studio-code-42801b3b71fe)
     * Debug
       * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
       * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
@@ -673,6 +674,8 @@ App
 # Mac
 * [오래된 아이맥, SSD 교체하기](https://jeonghwan-kim.github.io/think/2020/03/27/imac-ssd-replacement.html)
 * [fastmac: Get a MacOS or Linux shell, for free, in around 2 minutes](https://github.com/fastai/fastmac/)
+* [How to schedule Node.js Scripts on Your Mac With Launchd | by Matthew Williams | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/schedule-node-js-scripts-on-your-mac-with-launchd-a7fca82fbf02)
+* [Scheduling Jobs With Crontab on macOS | by Ratik Sharma | Better Programming | Medium](https://medium.com/better-programming/https-medium-com-ratik96-scheduling-jobs-with-crontab-on-macos-add5a8b26c30)
 
 ## Mac App
 * [**practice - 최초 설치 후 install**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)
@@ -1307,5 +1310,6 @@ App
   * [GPU Accelerated Machine Learning with WSL 2 - YouTube](https://www.youtube.com/watch?v=PdxXlZJiuxA)
   * [WSL 2 X11 애플리케이션을 더 깔끔하게 실행하는 방법. WSL 2 X11 애플리케이션을 윈도우 환경에서 좀 더 깔끔하게 실행할… | by Jung-Hyun Nam | Beyond the Windows, Korean Edition | Aug, 2020 | Medium](https://medium.com/beyond-the-windows-korean-edition/wsl-2-x11-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%84-%EB%8D%94-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-5a270835801c)
   * [Blog @ Codonomics: WSL For Development In Windows 10 Is The New Kool-Aid](https://blog.codonomics.com/2020/09/wsl-for-development-in-windows-10-is.html)
+  * [WSL2 + VSCode = 운영체제 및 시스템 프로그래밍 공부를 위한 가장 쉽고 편리한 개발환경 - YouTube](https://www.youtube.com/watch?v=anZmL2bs-xY)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [X server 4 Windows 10](https://x410.dev/)
