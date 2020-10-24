@@ -409,6 +409,7 @@ Apache
 * [Getting started with the Kafka Connect Cassandra Source](https://medium.com/walmartlabs/getting-started-with-the-kafka-connect-cassandra-source-e6e06ec72e97) Ladoop 에서 제공하고 있는 Cassandra Source Connector 사용하여 Kafka로 스트리밍을 설정하는 방법 소개
 * [How to know if Apache Kafka is right for you](https://medium.freecodecamp.org/how-to-know-if-apache-kafka-is-right-for-you-1b2e468d52b9)
 * [URP? Excuse You! The Three Kafka Metrics You Need to Know](https://www.slideshare.net/ToddPalino/urp-excuse-you-the-three-kafka-metrics-you-need-to-know) under replicated partition, request handler, requst time에 대해 모니터링할 수 있는 Kafka 메트릭 설명
+* [Top 5 Things Every Apache Kafka Developer Should Know](https://www.confluent.io/blog/5-things-every-kafka-developer-should-know/)
 * [일상 협업 이야기: 참조 아키텍처 써먹기 편](https://www.popit.kr/v2/%EC%9D%BC%EC%83%81-%ED%98%91%EC%97%85-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EC%B0%B8%EC%A1%B0-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EC%8D%A8%EB%A8%B9%EA%B8%B0-%ED%8E%B8)
 * [Scalability of Kafka Messaging using Consumer Groups](http://blog.cloudera.com/blog/2018/05/scalability-of-kafka-messaging-using-consumer-groups/)
 * [Announcing AMQ Streams: Apache Kafka on OpenShift](https://developers.redhat.com/blog/2018/05/07/announcing-amq-streams-apache-kafka-on-openshift/)
