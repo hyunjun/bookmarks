@@ -260,6 +260,8 @@ Go
 * [Task orchestration in Go Machinery. | by Kief H. Shemul | The Startup | Jun, 2020 | Medium](https://medium.com/swlh/task-orchestration-in-go-machinery-66a0ddcda548)
 * [Go: How to Take Advantage of the Symbols Table | by Vincent Blanchon | A Journey With Go | Medium](https://medium.com/a-journey-with-go/go-how-to-take-advantage-of-the-symbols-table-360dd52269e5)
 * [Go: Built-in Functions Optimizations | by Vincent Blanchon | A Journey With Go | Aug, 2020 | Medium](https://medium.com/a-journey-with-go/go-built-in-functions-optimizations-70c5abb3a680)
+* [Finite State Machines with Go-lang. | by Dipesh Dulal | WesionaryTEAM | Medium](https://medium.com/wesionary-team/finite-state-machines-with-go-lang-ccd20e329a7b)
+* [Seven Golang Features you must know about | by This is DASC | Medium](https://medium.com/@thisisdasc/seven-golang-features-you-must-know-about-944485d413fe)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -276,6 +278,7 @@ Go
 * [Go: 필드가 많은 구조체의 marshaling/unmarshaling](https://jusths.tistory.com/174)
 * [Go: How Does a Program Recover?. Panics in Go are triggered when the… | by Vincent Blanchon | A Journey With Go | Oct, 2020 | Medium](https://medium.com/a-journey-with-go/go-how-does-a-program-recover-fbbbf27cc31e) defer panic WaitGroup
 * [Generics are the Generics of Go | Capital One | Capital One Tech](https://medium.com/capital-one-tech/generics-are-the-generics-of-go-3e0ef0cb9e04)
+* [Experimenting with generics in Go | by Alexey Soshin | The Startup | Medium](https://medium.com/swlh/experimenting-with-generics-in-go-39ffa155d6a1)
 * array
   * [The anatomy of Arrays in Go](https://medium.com/rungo/the-anatomy-of-arrays-in-go-24429e4491b7)
   * [Go: Slice and Memory Management](https://medium.com/a-journey-with-go/go-slice-and-memory-management-670498bb52be)
