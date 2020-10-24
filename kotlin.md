@@ -137,6 +137,7 @@
 * [Kotlin의 Invoke함수를 알아보자](https://developer88.tistory.com/240)
 * [코틀린(Kotlin)으로 스프링 시큐리티(Spring Security) 유저 정보 조회](https://anomie7.tistory.com/65)
 * [Functional Effect System in Kotlin | by Alexey Soshin | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/functional-effect-system-in-kotlin-599f1d8778cc)
+* [Discovering Kotlin Contracts. The next release of Kotlin, 1.3, is… | by Nicola Corti | ProAndroidDev](https://proandroiddev.com/discovering-kotlin-contracts-3e7ed1360602)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
@@ -242,6 +243,7 @@
 * Koin
   * [Kotlin에서 Dagger2 쓰기 힘드니? 그럼 넌 Koin이야](https://medium.com/harrythegreat/kotlin%EC%97%90%EC%84%9C-dagger2-%EC%93%B0%EA%B8%B0-%ED%9E%98%EB%93%9C%EB%8B%88-%EA%B7%B8%EB%9F%BC-%EB%84%8C-koin%EC%9D%B4%EC%95%BC-e9e42ec1288e)
   * [Koin vs Dagger 그리고 추가된기능](https://medium.com/harrythegreat/android-koin-%EB%A0%88%EB%B2%A8%EC%97%85-deep-drive-56b63b2e35d2)
+* Ktlint [Format Your Kotlin Code With Ktlint | by Hector Smith | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/format-your-kotlin-code-with-ktlint-6fd1321504d0)
 * [Ktor - a framework for building asynchronous servers and clients](https://ktor.io/)
   * [Hexagonal Architecture with Kotlin, Ktor and Guice](https://hackernoon.com/hexagonal-architecture-with-kotlin-ktor-and-guice-f1b68fbdf2d9)
   * [코틀린 웹 프로그래밍 using Ktor (1)](https://www.popit.kr/kotlin-web-app-using-ktor-1)
