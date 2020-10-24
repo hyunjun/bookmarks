@@ -1387,6 +1387,7 @@ Python
 * [유서원: Practical automation for beginners](https://www.youtube.com/watch?v=GvhINSObO4c)
   * [Practical automation for beginners](https://www.slideshare.net/SeoweonYoo/practical-automation-for-beginners-78644561/1)
 * [Anton Chernikov - Automate your tasks with Python and publish with Chat Apps - YouTube](https://www.youtube.com/watch?v=UIdKVF37g0o)
+* [Automating Every Aspect of Your Python Project | by Martin Heinz | Towards Data Science](https://towardsdatascience.com/automating-every-aspect-of-your-python-project-6517336af9da)
 
 # Baseball
 * [Baseball Analytics: An Introduction to Sabermetrics using Python](http://adilmoujahid.com/posts/2014/07/baseball-analytics/)
@@ -1541,6 +1542,7 @@ Python
 * [mumps on ubuntu 18.04](https://github.com/kwant-project/kwant/blob/master/docker/Dockerfile.ubuntu)
 * [Anastasiia Tymoshchuk - Can we deploy yet? - YouTube](https://www.youtube.com/watch?v=Fgyk8P0IJsU)
 * [Dmitry Figol - Optimizing Docker builds for Python applications - YouTube](https://www.youtube.com/watch?v=eRzMJuwuYpU)
+* [You’re living in 1985 if you don’t use Docker for your Data Science Projects | by Sohaib Ahmad | Towards Data Science](https://towardsdatascience.com/youre-living-in-1985-if-you-don-t-use-docker-for-your-data-science-projects-858264db0082)
 
 # Documentation
 * [continuous-docs - Tutorial and example package for continuous documentation generation in Python](https://github.com/icgood/continuous-docs/)
@@ -4084,6 +4086,7 @@ Python
   * [Integrating AIOHTTP Into a FastAPI App - YouTube](https://www.youtube.com/watch?v=BalvzyKg_4k)
   * [4 Useful Advanced Features in FastAPI | by Ng Wai Foong | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/4-useful-advanced-features-in-fastapi-f08e4db59637)
   * [How to use FastAPI with MongoDB. An easy way to serve your database… | by Fernando Souza | Python In Plain English | Sep, 2020 | Medium](https://medium.com/python-in-plain-english/how-to-use-fastapi-with-mongodb-75b43c8e541d)
+  * [Migrate From Flask to FastAPI Smoothly | by Ng Wai Foong | Better Programming | Medium](https://medium.com/better-programming/migrate-from-flask-to-fastapi-smoothly-cc4c6c255397)
 * mod_wsgi
   * [What package I should install for 'pcre-devel'?](http://stackoverflow.com/questions/2263404/what-package-i-should-install-for-pcre-devel)
     * `yum install pcre-devel.x86_64 -y`
