@@ -121,6 +121,7 @@ C#
 
 # TDD, Test
 * [An example of state-based testing in C#](https://blog.ploeh.dk/2019/04/01/an-example-of-state-based-testing-in-c/)
+* [Enhance Your CI/CD Pipeline With Automated API Tests | by Gino Messmer | The Startup | Medium](https://medium.com/swlh/enhance-your-ci-cd-pipeline-with-automated-api-tests-2229425c2215)
 
 # Tutorial
 * [Learn C# - Free Interactive C# Tutorial](https://www.learncs.org/)
