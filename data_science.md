@@ -38,6 +38,7 @@ Data Science
 * [세상에서 가장 이해받지 못하는 영웅, 데이터 과학자 (1/3)](https://cojette.github.io/misunderstoodhero1_3/)
 * [세상에서 가장 이해받지 못하는 영웅, 데이터 과학자 (2/3)](https://cojette.github.io/misunderstoodhero2_3/)
 * [세상에서 가장 이해받지 못하는 영웅, 데이터 과학자 (3/3)](https://cojette.github.io/misunderstoodhero3_3/)
+* [Full Stack Data Science: The Next Gen of Data Scientists Cohort | by Jay Kachhadia | Towards Data Science](https://towardsdatascience.com/full-stack-data-science-the-next-gen-of-data-scientists-cohort-82842399646e)
 * [Awesome Data Engineering Learning Path - Best resources, books, courses](https://awesomedataengineering.com/)
 * [The Rise of the Data Engineer](https://medium.freecodecamp.com/the-rise-of-the-data-engineer-91be18f1e603)
 * A Beginner’s Guide to Data Engineering
