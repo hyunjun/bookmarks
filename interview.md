@@ -189,6 +189,7 @@ Interview
 * [코딩 인터뷰 완전정복 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLHqxB9kMLLaNZQjNtY9JoCCBbZwOKdyEH)
 * [한빛출판네트워크 - 코딩테스트 기획연재](https://www.hanbit.co.kr/channel/series/series_detail_list.html?hcs_idx=29)
 * [Laid off, now what? | Bharath's notes](https://bharathpbhat.github.io/2020/09/19/laid-off-now-what.html)
+* [My Advice After Interviewing 100+ Software Engineers | by Hugo Rocha | The Startup | Medium](https://medium.com/swlh/my-advice-after-interviewing-100-software-engineers-e34bc3cbc669)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
