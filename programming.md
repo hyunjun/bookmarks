@@ -683,6 +683,7 @@ Programming
 * [Building Services at Airbnb, Part 3 | by Liang Guo | Airbnb Engineering & Data Science | Medium](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d)
 * [Building Services at Airbnb, Part 4 | by Junjie Guan | Airbnb Engineering & Data Science | Oct, 2020 | Medium](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-4-23c95e428064)
 * [How architecture prepared me for UX | by Jeff Matarrese | UX Collective](https://uxdesign.cc/how-architecture-prepared-me-to-pivot-to-user-experience-16db8a000f72)
+* [State of the Art Infrastructure as Code | by Kovid Rathee | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/state-of-the-art-infrastructure-as-code-4fbd59d92462) catalog
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -711,6 +712,8 @@ Programming
 * [How to Avoid Cascading Failures in Distributed Systems](https://www.infoq.com/articles/anatomy-cascading-failure/)
 * [Why Distributed Systems Are Hard](https://www.infoq.com/presentations/distributed-systems-complexity-human-factor/)
   * [Why Distributed Systems Are Hard - YouTube](https://www.youtube.com/watch?v=w9GP7MNbaRc)
+* [etcd | Home](https://etcd.io/)
+  * [A Few Notes on Etcd Maintenance. Learnings on provisioning, compaction… | by Tasdik Rahman | Gojek Product + Tech](https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe)
 
 ## Architecture Domain Driven Development DDD
 * [DDD의 BoundedContext가 우리의 이야기와 밀접해지다](https://www.popit.kr/boundedcontext-%EA%B0%80-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%9D%B4%EC%95%BC%EA%B8%B0%EC%99%80-%EB%B0%80%EC%A0%91%ED%95%B4%EC%A7%80%EB%8D%98-%ED%95%98%EB%A3%A8/)
