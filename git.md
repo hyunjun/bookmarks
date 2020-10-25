@@ -425,6 +425,7 @@ Git
   * [GitHub 커밋 메세지에 JIRA 이슈번호 자동으로 넣어주기](https://medium.com/prnd/github-커밋-메세지에-jira-이슈번호-자동으로-넣어주기-779048784037)
   * [Git hook for large files: because who wants to have their 100TB data file committed to Git?](https://www.reddit.com/r/MachineLearning/comments/egadjz/p_git_hook_for_large_files_because_who_wants_to/)
   * [pre-commit hooks you must know. Boost your productivity and code… | by Martin Thoma | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/pre-commit-hooks-you-must-know-ff247f5feb7e)
+  * [Integrate `wemake-python-styleguide` in pre-commit git hook | by Jonathonbao | Medium](https://medium.com/@jonathonbao/integrate-wemake-python-styleguide-in-pre-commit-git-hook-872a8fc20233)
 * [`inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD
 * `log`
   * `git log --all -- [deleted path/to/file]` [How to locate a deleted file in the commit history?](http://stackoverflow.com/questions/7203515/how-to-locate-a-deleted-file-in-the-commit-history)
