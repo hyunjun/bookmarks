@@ -467,6 +467,7 @@ SQL
 * [Why Uber Engineering Switched from Postgres to MySQL | Uber Engineering Blog](https://eng.uber.com/postgres-to-mysql-migration/)
 * [MySQL 쓰면서 하지 말아야 할 것 17가지 – Lael's World](https://blog.lael.be/post/370)
 * [MySQL 내부 구조](https://brunch.co.kr/@jehovah/21)
+* [**Building HashTag M : N Relation with Node.js, Sequelize(MySQL) | by Ryan Kim | Oct, 2020 | Medium**](https://equus3144.medium.com/building-hashtag-m-n-relation-with-node-js-sequelize-mysql-3dde6824d2a0)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
