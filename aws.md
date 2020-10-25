@@ -581,6 +581,7 @@ AWS
 * [Spring Data DynamoDB와 JPA 함께 적용후 문제 발생시 해결방법](https://jojoldu.tistory.com/483)
 * [Spring Data DynamoDB와 Embedded 개발 환경 구축하기](https://jojoldu.tistory.com/484)
 * [AWS Lambda와 DynamoDB Streams를 활용한 트위터 포스팅봇 만들기](https://dev.classmethod.jp/articles/creating-twitter-posting-bot/)
+* [DynamoDB 설계 방법: Single Table Design - CH DEVLOG](https://changhoi.github.io/posts/backend/dynamodb-single-table-design/)
 
 # EC2
 * [아마존 웹 서비스 8 – 스왑 추가로 EC2 인스턴스에 날개 달기](http://www.creativeworksofknowledge.com/2015/07/29/aws-adding-swap-to-ec2-instance/)
