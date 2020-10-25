@@ -592,6 +592,7 @@ Go
 * [Early Impressions of Go From a Rust Programmer](https://medium.com/better-programming/early-impressions-of-go-from-a-rust-programmer-f4fd1074c410)
 * [Go vs Rust: Writing a CLI tool | by Paulo Cuchi @ Magrathea | Magrathea](https://blog.magrathealabs.com/go-vs-rust-writing-a-cli-tool-231accadcc88)
 * [Early Impressions of Go From a Rust Programmer | by PingCAP | Better Programming | Medium](https://medium.com/better-programming/early-impressions-of-go-from-a-rust-programmer-f4fd1074c410)
+* [How writing in Rust made me a better Go developer | by Nimrod Shneor | Medium](https://medium.com/@nimrodshn/how-writing-in-rust-made-me-a-better-go-developer-4aaecb580ef2)
 
 # TDD, Test
 * [Go Testing + Docker](http://ericchiang.github.io/go/tests/testing/docker/2015/09/14/test-with-docker.html)
