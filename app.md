@@ -494,7 +494,6 @@ App
     * [머신러닝도 Visiual Studio Code로 하세요 - YouTube](https://www.youtube.com/watch?v=TCpR_y-7tCs)
     * [MS, 비주얼스튜디오 코드용 C++ 확장 기능 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20200916103754)
     * [Draw.io VS Code Integration](https://github.com/hediet/vscode-drawio/)
-    * [VS Code extensions that make me fall in love with programming each day | by Madhav Bahl | codeburst](https://codeburst.io/vs-code-extensions-that-make-me-fall-love-in-programming-each-day-ccf05b24651e)
     * [Bringing the browser developer tools to Visual Studio Code - Microsoft Edge Blog](https://blogs.windows.com/msedgedev/2020/10/01/microsoft-edge-tools-vscode/)
     * [GitHub and VS Code | Bring your favorite tools to all the places you code](https://vscode.github.com/)
     * [Use VSCode Like a Senior Developer | by bitfish | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/use-vscode-like-a-senior-developer-9b54054c452a)
@@ -523,6 +522,7 @@ App
       * [Visual Studio Code Docker extension 1.0 – Better than Ever!](https://devblogs.microsoft.com/visualstudio/visual-studio-code-docker-extension-1-0-better-than-ever/)
       * [CodeTour VSCode extension allows you to produce interactive guides, assessments and tutorials](https://techcommunity.microsoft.com/t5/educator-developer-blog/codetour-vscode-extension-allows-you-to-produce-interactive/ba-p/1274297#)
       * [20 Best VS Code Extensions for Productive Web Development in 2020](https://towardsdatascience.com/20-best-vs-code-extensions-for-productive-web-development-in-2020-95bf904ceb69)
+      * [VS Code extensions that make me fall in love with programming each day | by Madhav Bahl | codeburst](https://codeburst.io/vs-code-extensions-that-make-me-fall-love-in-programming-each-day-ccf05b24651e)
     * Online
       * [Visual Studio Online 어디에서든 액세스 가능한 클라우드 기반 개발 환경](https://visualstudio.microsoft.com/ko/services/visual-studio-online/)
       * [visual studio online tutorial | 사용법부터 장점과 단점까지 !](https://www.youtube.com/watch?v=HUhFSbwvloM)
