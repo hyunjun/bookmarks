@@ -12,6 +12,7 @@
 * [Writing a simple Decompiler for .NET - Part 1 - First half](http://www.codeandux.com/writing-a-simple-decompiler-for-net-part-1/)
 * [Writing a simple Decompiler for .NET - Part 1 - Second half](http://www.codeandux.com/writing-a-simple-decompiler-for-net-part-1b/)
 * [The Profound Weakness of the .NET OSS Ecosystem](http://www.aaronstannard.com/the-profound-weakness-of-the-net-oss-ecosystem/)
+* [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009)
 * [주간닷넷 2016년 1월 5일](http://blogs.msdn.com/b/eva/archive/2016/01/12/2016-1-5.aspx)
 * [주간닷넷 2016년 2월 11일](http://blogs.msdn.com/b/eva/archive/2016/02/16/2016-2-11.aspx)
 * [주간닷넷 2016년 4월 12일](https://blogs.msdn.microsoft.com/eva/?p=8495)
