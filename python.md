@@ -490,6 +490,7 @@ Python
   * ["Default argument value is mutable" 경고 발생 시](http://mcchae.egloos.com/11259381)
   * [함수 디폴트인자의 잘못된 사용](https://ash84.net/2017/05/22/python-misusing-expressions-as-defaults-for-function-arguments/)
   * [**파이썬에서 arguments로 *(별표)만 쓴 경우!?**](https://sjquant.tistory.com/31)
+  * [What Are *args and **kwargs in Python? | by Jonathan Hsu | Better Programming | Medium](https://medium.com/better-programming/what-are-args-and-kwargs-in-python-6aaf9e3cad73)
 * ast
   * [Python AST 101](https://item4.github.io/2015-07-20/Python-AST-101.html)
 * asterisk
@@ -939,6 +940,7 @@ Python
   * [논문 작성시 꿀팁-005 Python 에서 C/C++ 과 CUDA C 호출하기](https://www.youtube.com/watch?v=LO2qKHp2jLg)
   * [Parallelism in Python](https://www.youtube.com/watch?v=QRF1637j6NU)
   * [**Parallel Computing in Python: Current State and Recent Advances**](https://www.youtube.com/watch?v=xYuQi7PTAcc)
+  * [**Every Python Programmer Should Know the Not-So-Secret ThreadPool | by Fabian Bosler | Better Programming | Medium**](https://medium.com/better-programming/every-python-programmer-should-know-the-not-so-secret-threadpool-642ec47f2000)
   * threading
     * practice
       * [threading Lock](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/test_thread_lock_lock.py)
@@ -2087,6 +2089,7 @@ Python
 # GUI
 * [사용할 Python GUI 비교 및 선택하기](http://stackrefactoring.blogspot.com/2016/05/python-gui-gui.html)
 * [Python GUI Frameworks (Guide)](https://www.youtube.com/watch?v=RHCg3p9aP_I)
+* [Writing a GUI Application with Python and Py2App | by Matt Harzewski | The Startup | Medium](https://medium.com/swlh/writing-a-gui-application-with-python-and-py2app-748eeb8a10c)
 * [Electron as GUI of Python Applications](https://www.fyears.org/2015/06/electron-as-gui-of-python-apps.html)
   * [Making modern GUIs with Python and ElectronJS](https://www.youtube.com/watch?v=627VBkAhKTc)
 * [github.com/soma0sd/python-study/GUI](https://github.com/soma0sd/python-study/tree/master/GUI)
@@ -3103,6 +3106,7 @@ Python
 
 ## Library cache
 * [cachetools - Extensible memoizing collections and decorators](http://cachetools.readthedocs.io)
+* functools.lru_cache [Every Python Programmer Should Know LRU_cache From the Standard Library | by Fabian Bosler | Better Programming | Medium](https://medium.com/better-programming/every-python-programmer-should-know-lru-cache-from-the-standard-library-8e6c20c6bc49)
 * [methodtools.lru_cache](https://pypi.org/project/methodtools) functools.lru_cache가 classmethod나 staticmethod에 대해 제대로 동작하지 않아 이를 보완하기 위해 작성했다고 함
   * [caching - Python functools lru_cache with class methods: release object - Stack Overflow](https://stackoverflow.com/questions/33672412/python-functools-lru-cache-with-class-methods-release-object/55990799)
 * [Ring - Cache interface as a programming language integration](https://ring-cache.readthedocs.io/)
@@ -3301,6 +3305,7 @@ Python
   * [포에트리를 사용한 파이썬 프로젝트 관리 방법](http://www.itworld.co.kr/news/145472)
   * [**Hypermodern Python**](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/) pyenv, click, requests
   * [A hygienic Python setup for Linux, Mac, and WSL | by Ben Kehoe | Sep, 2020 | A Cloud Guru](https://read.acloud.guru/my-python-setup-77c57a2fc4b6)
+* [py2app - Create standalone Mac OS X applications with Python](https://py2app.readthedocs.io/)
 * pyenv
   * [pyenv Tutorial](https://amaral.northwestern.edu/resources/guides/pyenv-tutorial)
   * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/pyenv-virtualenv-autoenv)
@@ -3347,6 +3352,7 @@ Python
   * [가상환경 virtualenv(3) - 설치 패키지 사용하기](https://woolbro.tistory.com/27)
   * [How to use Python virtualenv](https://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv/)
   * [Python virtualenv 정리 (Linux/Windows) :: 개발새발로그](https://dgkim5360.tistory.com/entry/python-virtualenv-on-linux-ubuntu-and-windows)
+  * [Advice and Tips to Properly Work with Virtual Environments | by François St-Amant | Towards Data Science](https://towardsdatascience.com/advice-and-tips-to-properly-work-with-virtual-environments-67bbad9ba5b6)
 
 ## Library string match
 * [Jellyfish - a python library for doing approximate and phonetic matching of strings](https://pypi.org/project/jellyfish/)
@@ -3866,6 +3872,7 @@ Python
 * [PyCon KR 2019 Why is Python 3.7 fastest](https://speakerdeck.com/jungwinter/why-is-python-3-dot-7-fastest)
 * [What’s New In Python 3.8](https://docs.python.org/3/whatsnew/3.8.html)
 * [Try out walrus operator in Python 3.8 Get started with Python 3.8 alpha 1](https://medium.com/hultner/try-out-walrus-operator-in-python-3-8-d030ce0ce601)
+* [When and Why to Use := Over = in Python | by Andre Ye | Towards Data Science](https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453)
 * [파이썬(Python) 3.8 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/python-3-8-release-note-summary)
 * [Some New Features in Python 3.8](https://www.youtube.com/watch?v=-Rh4XW89VlQ)
 * [Cool New Features in Python 3.8](https://realpython.com/python38-new-features/)
