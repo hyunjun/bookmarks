@@ -22,6 +22,7 @@ App
   * autoit
   * autopy
   * [Lackey - Graphical desktop automation with Python](https://github.com/glitchassassin/lackey)
+  * open [How To Automate Your Daily Work Routine on Mac OS | Windows | by Kashish Bhutani | Medium](https://medium.com/@kashishbhutaniofficial/how-to-automate-your-daily-work-routine-on-mac-os-windows-63c170048201)
 * [Tools I wish I had known about when I started coding: Revisited](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-revisited-ffb715ffd23f)
 * [How to energize your scary terminal with helpful little scripts](https://medium.freecodecamp.org/how-to-energize-your-scary-terminal-with-helpful-little-scripts-c5ae92c12bfe)
 * [5 Free Software That Are Actually Great!  2018](https://www.youtube.com/watch?v=qSa2UPDH2yc)
