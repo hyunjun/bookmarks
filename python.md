@@ -2013,6 +2013,7 @@ Python
 * [Python Flask REST API MySQL stored procedure colab](https://github.com/gyunseul9/colabsp)
 * [Coding a REST API With Python | by Eric Chi | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/coding-a-rest-api-with-python-77384ad60511)
 * [**Develop and sell a Python API — from start to end tutorial | by Daniel Deutsch | Sep, 2020 | Towards Data Science**](https://towardsdatascience.com/develop-and-sell-a-python-api-from-start-to-end-tutorial-9a038e433966) AWS
+* [How to deploy Flask on IIS with Windows Authentication | by Rudy W | Medium](https://medium.com/@nerdijoe/how-to-deploy-flask-on-iis-with-windows-authentication-733839d657b7)
 
 ## Flask Library
 * [Bread pan 기본적인 웹서비스를 간단하게 만드는 프로젝트 틀](https://github.com/jinhoyoo/breadpan) 구조 참고
@@ -3606,6 +3607,7 @@ Python
   * [A Billion Rows A Second - Working with BIG! data in Python](https://towardsdatascience.com/a-billion-rows-a-second-36b7a2066175)
   * [How to analyse 100 GB of data on your laptop with Python](https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94)
   * [Beyond Pandas: Spark, Dask, Vaex and other big data technologies battling head to head | by Jonathan Alexander | Towards Data Science](https://towardsdatascience.com/beyond-pandas-spark-dask-vaex-and-other-big-data-technologies-battling-head-to-head-a453a1f8cc13)
+  * [7 reasons why I love Vaex for data science | by Jovan Veljanoski | Towards Data Science](https://towardsdatascience.com/7-reasons-why-i-love-vaex-for-data-science-99008bc8044b)
 
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
