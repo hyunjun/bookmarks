@@ -2315,6 +2315,7 @@ Programming
 * [사회통계학 관점에서의 A/B 테스트](https://cojette.github.io/socialtest/)
 * [**A/B테스트에서 하면 안되는 7가지 실수**](http://mindthelog.com/2017/08/ab-testing)
 * [아마존, 에어비앤비, 넷플릭스의 AB테스트 결과 정리](https://brunch.co.kr/@digitalnative/17)
+* [기획자의 일 - A/B 테스트](https://brunch.co.kr/@yongjinjinipln/70)
 * [codekata.com](http://codekata.com/)
 * [소프트웨어 테스팅의 False Positive](https://justhackem.wordpress.com/2018/12/20/false-positive-in-software-testing/)
 * [TDD 읽은티내기](https://brunch.co.kr/@moonjoonyoung/7)
