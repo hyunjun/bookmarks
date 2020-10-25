@@ -634,6 +634,7 @@ Linux
   * [sudo 패스워드 없이 사용하는 방법](https://kkamagui.tistory.com/910)
   * [(리눅스 업스킬 도전 #3) 파일 접근 허가와 sudo 명령 그리고 시간대](https://jhrogue.blogspot.com/2020/09/3-sudo.html)
   * [(리눅스 업스킬 도전 #14) sudo 권한 주기](https://jhrogue.blogspot.com/2020/10/14-sudo.html)
+  * [우분투에서 sudo 명령어 없이 docker 사용하기](https://www.huskyhoochu.com/october-i-learned/)
 * [systemd](http://www.freedesktop.org/wiki/Software/systemd/) redhat 6.3에서는 `configure`가 안 됨
   * [How to install, manage, start and autostart ssh service on RHEL 7 Linux](https://linuxconfig.org/how-to-install-manage-start-and-autostart-ssh-service-on-rhel-7-start)
   * [서버 프로세스를 관리하는 올바른 방법](http://www.codeok.net/%EC%84%9C%EB%B2%84%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC%20%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EB%B0%A9%EB%B2%95)
