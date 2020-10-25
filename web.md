@@ -547,6 +547,7 @@ Web
 * [Server-side Showdown: Apache vs NGINX | Elegant Themes Blog](https://www.elegantthemes.com/blog/wordpress/server-side-showdown-apache-vs-nginx)
 * [http - How to reply with 200 from Nginx, without serving a file? - Server Fault](https://serverfault.com/questions/196929/how-to-reply-with-200-from-nginx-without-serving-a-file)
 * [Introducing NGINX Service Mesh - NGINX](https://www.nginx.com/blog/introducing-nginx-service-mesh/)
+* [nginx를 이용해 호스트를 바꾸어 request 날리기](https://www.huskyhoochu.com/october-i-learned/)
 * [Nginx Proxy Manager](https://nginxproxymanager.com/)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
 * [topngx - top for NGINX](https://github.com/gsquire/topngx)
