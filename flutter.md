@@ -60,6 +60,7 @@ Flutter
 * [Flutter vs Native vs React-Native: Examining performance](https://medium.com/swlh/flutter-vs-native-vs-react-native-examining-performance-31338f081980)
   * [Flutter vs Native vs React 성능](https://brunch.co.kr/@jowlee/123)
 * [구글 플러터의 장점 세가지! - 코딩토크쇼 라이트버그 시즌2 - YouTube](https://www.youtube.com/watch?v=Hck0iWuUv64)
+* [오늘의 플러터 플러터 상태관리 바이블 1편 - setState() - TaeBbong의 Dev Blog](https://taebbong.github.io/2020/06/13/2020-06-13-flutter-state-post/)
 
 # Course, Lecture, Tutorial
 * [Develop your first Application with Flutter](https://hackernoon.com/develop-your-first-application-with-flutter-60c4308d18b7)
