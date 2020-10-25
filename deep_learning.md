@@ -1125,6 +1125,7 @@ Deep Learning
   * [내 손글씨를 따라쓰는 인공지능 요정, Wrinie (1) - 이론](https://jeinalog.tistory.com/15)
   * [내 손글씨를 따라쓰는 인공지능 요정, Wrinie (2) - 실습](https://jeinalog.tistory.com/16)
 * [AI Generator Learns to 'Draw' Like Cartoonist Lee Mal-Nyeon in Just 10 Hours | Synced](https://syncedreview.com/2020/08/04/ai-generator-learns-to-draw-like-cartoonist-lee-mal-nyeon-in-just-10-hours/)
+* [프로젝트 GAN을 이용한 염색 및 헤어 스타일 합성, <꽤 GAN찮은 헤어살롱>](https://comlini8-8.tistory.com/49)
 * [Toonify yourself - Colaboratory](https://colab.research.google.com/drive/1s2XPNMwf6HDhrJ1FMwlW1jl-eQ2-_tlk)
 * [bryandlee/malnyun_faces: 침착한 생성모델 학습기](https://github.com/bryandlee/malnyun_faces)
 * [generative_inpainting: DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral](https://github.com/JiahuiYu/generative_inpainting)
