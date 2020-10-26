@@ -407,6 +407,7 @@ Web
   * [파이썬 자동화](https://www.youtube.com/playlist?list=PL5L3Lhdx2zrPzFeVyQ_SJhTpy0lLPCmfZ)
   * [7 Ways to hide your Bot Automation from Detection | How to make Selenium undetectable and stealth | PiProgramming](https://piprogramming.org/articles/How-to-make-Selenium-undetectable-and-stealth--7-Ways-to-hide-your-Bot-Automation-from-Detection-0000000017.html)
   * [Selenium 4 is releasing soon: What every QA must know? | by Muntasir Abdullah Mizan | Medium](https://medium.com/@muntasir./selenium-4-is-releasing-soon-what-every-qa-must-know-c82d4914be0a)
+  * [Web Scraping Using Selenium. A simplified example of scraping an… | by Kiprono Elijah Koech | Towards Data Science](https://towardsdatascience.com/web-scraping-e-commerce-website-using-selenium-1088131c8541)
 * [springer_free_books - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine](https://github.com/alexgand/springer_free_books)
 * [youtube-downloader-v1.0](https://github.com/jiyeon1997/youtube-downloader-v1.0)
 
