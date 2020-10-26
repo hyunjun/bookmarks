@@ -153,6 +153,7 @@ Algorithm
 * [탐욕 알고리즘](https://ratsgo.github.io/data%20structure&algorithm/2017/11/22/greedy/)
 * [나도 해보는 Fizz Buzz Test](https://libsora.so/posts/fizz-buzz-01/)
 * [How to Skin a Cat: FizzBuzz in Five Languages](https://medium.com/quick-code/how-to-skin-a-cat-fizzbuzz-5-ways-dc4ec811bfcb)
+* [Fizz Buzz in Python. Solving the preeminent code interview… | by Keno Leon | Medium](https://medium.com/@k3no/fizz-buzz-in-python-2edea331d715)
 * [나눗셈 연산을 곱셈으로 프로그래밍 할 수 있음?](https://libsora.so/posts/float-divide-without-divide/)
 * [Divide and Conquer Algorithms](https://medium.com/cracking-the-data-science-interview/divide-and-conquer-algorithms-b135681d08fc)
 * [나머지 연산자 없이 x % 256 계산하기](https://libsora.so/posts/use-casting-as-mod-operator/)
@@ -525,6 +526,7 @@ Algorithm
 * [Algorithms for Interview 1: Stack](https://medium.com/techtofreedom/algorithms-for-interview-1-stack-38884a9020c)
 * [Algorithms for Interview 2: Monotonic Stack](https://medium.com/techtofreedom/algorithms-for-interview-2-monotonic-stack-462251689da8)
 * [Implementing a Stack in JavaScript](https://medium.com/better-programming/implementing-a-stack-in-javascript-73d1aa0483c1)
+* [Stacks and Queues in Python. Learn 2 popular linear data structures. | by Keno Leon | Level Up Coding](https://levelup.gitconnected.com/stacks-and-queues-in-python-b2e8b4dbd876)
 
 # Search
 * [A\* search algorithm](https://kartikkukreja.wordpress.com/2013/12/28/a-star-search/)
@@ -645,6 +647,7 @@ Algorithm
 * [균형 이진 트리 : 제약 조건이 맞지 않으면 추가적인 연산을 한다](https://codingdog.tistory.com/entry/균형-이진-트리-제약-조건이-맞지-않으면-추가적인-연산을-한다)
 * [Handling Trees in Data Science Algorithmic Interview](https://www.kdnuggets.com/2020/01/handling-trees-data-science-algorithmic-interview.html)
 * [Serialize and Deserialization Binary Tree, BST deserialization Explained. Leetcode 297, 449 - YouTube](https://www.youtube.com/watch?v=EIfDP5GH7Vs)
+* [Making Data Trees in Python. Learn about trees and how to implement… | by Keno Leon | The Startup | Medium](https://medium.com/swlh/making-data-trees-in-python-3a3ceb050cfd)
 
 ## AVL Tree
 * [AVL Tree](https://ratsgo.github.io/data%20structure&algorithm/2017/10/27/avltree/)
@@ -664,6 +667,7 @@ Algorithm
 * [힙 정렬(Heap Sort)](https://ratsgo.github.io/data%20structure&algorithm/2017/09/27/heapsort/)
 * [How to Merge K Sorted Arrays](https://medium.com/outco/how-to-merge-k-sorted-arrays-c35d87aa298e)
 * [최소 값과 최대 값을 빠르게 찾을 수 있게 도와주는 힙(Heap)](https://evan-moon.github.io/2019/10/12/introduction-data-structure-heap/)
+* [6 Steps to Understanding a Heap with Python | by Yasufumi TANIGUCHI | Towards Data Science](https://towardsdatascience.com/data-structure-heap-23d4c78a6962)
 
 ## Red-Black Tree
 * [how red-black tree developed](http://eternallyconfuzzled.com/tuts/datastructures/jsw_tut_rbtree.aspx)
