@@ -250,6 +250,7 @@
 * [Writing A Simple Factory Method In Python | by Tate Galbraith | Level Up Coding](https://levelup.gitconnected.com/writing-a-simple-factory-method-in-python-6e48145d03a)
 * [Implementing the Factory Pattern via Dynamic Registry and Python Decorators | by Geoffrey Koh | Medium](https://medium.com/@geoffreykoh/implementing-the-factory-pattern-via-dynamic-registry-and-python-decorators-479fc1537bbe)
 * [Probably the Best Practice of Object-Oriented Python — Attr | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/probably-the-best-practice-of-object-oriented-python-attr-d8c26c0e8a4)
+* [Organizing your Python Code. In spite of yourself | by Keno Leon | Medium](https://medium.com/@k3no/organizing-your-python-code-ca5445843368)
 
 # Ruby
 * [**(번역) 루비에서 상속을 피하는 방법**](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)
