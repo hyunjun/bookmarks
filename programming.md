@@ -423,6 +423,7 @@ Programming
 * [API Testing Guide and Beginner’s Tips (SOAP & REST) | by Katalon Studio | Katalon | Medium](https://medium.com/katalon-studio/api-testing-guide-and-beginners-tips-soap-rest-8d33bf56225c)
 * [API design guidance - Best practices for cloud applications | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 * [APIs for Beginners - Learn how to use APIs in this free video course](https://www.freecodecamp.org/news/apis-for-beginners-full-course/)
+* [Elle Townsend | My 5 favourite APIs | The Startup](https://medium.com/swlh/my-top-5-apis-for-new-developers-5191031da102)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
 * [KAKAO REST API](https://developer-ankiwoong.tistory.com/748)
