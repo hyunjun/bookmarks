@@ -3604,6 +3604,8 @@ Python
 * [Ian Ozsvald - Making Pandas Fly - YouTube](https://www.youtube.com/watch?v=JgBV7p9jNo0)
 * [Case Study: Processing Historical Weather Pattern Data - Practical Business Python](https://pbpython.com/weather-data.html)
 * [pandas and friends - Marc Garcia - YouTube](https://www.youtube.com/watch?v=PQPv_4rOWe4)
+* [자주쓰는 명령어로 배우는 Pandas #1 : Pandas와 데이터 살펴보기](https://sjquant.tistory.com/54)
+* [자주쓰는 명령어로 배우는 Pandas #2 : Index와 Column 조작하기](https://sjquant.tistory.com/55)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
 * [swifter: A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner](https://github.com/jmcarpenter2/swifter)
