@@ -722,13 +722,15 @@ App
 * [Setting up Environment Variables in MacOS Sierra](https://medium.com/@himanshuagarwal1395/setting-up-environment-variables-in-macos-sierra-f5978369b255)
 * [Just Bought a Mac? 14 Essential Apps You Should Install](https://www.howtogeek.com/439832/just-bought-a-mac-14-essential-apps-you-should-install/)
 * 동영상 인코딩
-  * `/usr/local/Cellar/ffmpeg/2.8.1_1/bin/ffmpeg -i <MOV> [-acodec copy -vcodec copy] <mp4>`
   * [Adapter](http://www.macroplant.com/adapter/) http://macnews.tistory.com/893
   * [practice - OSX에서 인코딩을 하기위한 최소한의 유틸리티 모음](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#osx에서-인코딩을-하기위한-최소한의-유틸리티-모음)
-  * [ffmpeg 자막입히기, 자막 위치 조정](http://kerberosj.tistory.com/233)
-  * [FFMPEG processing](https://leanpub.com/ffmpeg/read_full)
   * [Generate a spectrogram-scrolling video of an audio file](https://keunwoochoi.wordpress.com/2019/07/18/generate-a-spectrogram-scrolling-video-of-an-audio-file/)
   * [Serve Videos Instead of GIFs](https://www.dannyguo.com/blog/serve-videos-instead-of-gifs/) gif로 mp4 생성 command (글 주제와는 무관)
+  * ffmpeg
+    * `/usr/local/Cellar/ffmpeg/2.8.1_1/bin/ffmpeg -i <MOV> [-acodec copy -vcodec copy] <mp4>`
+    * [ffmpeg 자막입히기, 자막 위치 조정](http://kerberosj.tistory.com/233)
+    * [FFMPEG processing](https://leanpub.com/ffmpeg/read_full)
+    * [동영상 파일 미리보기 이미지로 쪼개기 – rein's world](https://rein.kr/blog/archives/4561)
 * [Mac의 클립보드 명령어 - pbcopy & pbpaste](https://jojoldu.tistory.com/466)
 * [유니버설 클립보드 - 맥북(MacBook)과 아이패드(IPad) 간에 클립보드 공유해서 복사 붙여넣기](https://www.44bits.io/ko/post/clipboard-sharning-between-macbook-and-ipad-using-universal-clipboard)
 * [하나 타자 연습 개발후기](https://medium.com/@jungkim/%ED%95%98%EB%82%98-%ED%83%80%EC%9E%90-%EC%97%B0%EC%8A%B5-%EA%B0%9C%EB%B0%9C%ED%9B%84%EA%B8%B0-1e4391b323bf)
