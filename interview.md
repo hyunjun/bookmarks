@@ -190,6 +190,8 @@ Interview
 * [한빛출판네트워크 - 코딩테스트 기획연재](https://www.hanbit.co.kr/channel/series/series_detail_list.html?hcs_idx=29)
 * [Laid off, now what? | Bharath's notes](https://bharathpbhat.github.io/2020/09/19/laid-off-now-what.html)
 * [My Advice After Interviewing 100+ Software Engineers | by Hugo Rocha | The Startup | Medium](https://medium.com/swlh/my-advice-after-interviewing-100-software-engineers-e34bc3cbc669)
+* [Asking Code Questions.. Some suggestions to get better… | by Keno Leon | The Startup | Medium](https://medium.com/swlh/asking-code-questions-baf949dc0c7c)
+* [Everything wrong with the pre-screen SWE Interview. | by Keno Leon | Dev Genius | Medium](https://medium.com/dev-genius/everything-wrong-with-the-pre-screen-swe-interview-723737d81b61)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
@@ -233,6 +235,7 @@ Interview
 * [How To Nail the Amazon Interview: A Practical Guide](https://www.byte-by-byte.com/amazon-interview/)
 * [AWS에서의 5년… 글로벌 회사에서 배운 것](http://channy.creation.net/blog/1231)
 * [토종 직장인의 AWS 입사 도전記](http://blog.creation.net/channy-cloud-clinic-ep3)
+* [아마존 한인 개발자들에게 직접 듣는 Amazon 개발 문화의 모든 것 :: 차니의 #클라우드클리닉 22회 :: Channy's Blog](http://blog.creation.net/channy-cloud-clinic-ep22)
 * [아마존 인터뷰 후기 (Seattle SDE)](http://shadeofmeaning.blogspot.com/2019/04/seattle-sde.html)
 * [An Amazon Programmer's Perspective](https://gist.github.com/bricker/cb811b3b86d767124801)
 * [How To Stop Being Afraid of Technical Interviews | by Joey Colon | Better Programming | Medium](https://medium.com/better-programming/how-to-stop-being-afraid-of-technical-interviews-b60b064ff003)
@@ -490,6 +493,8 @@ Interview
 * [번역 구글 기술면접, 야 너두 할 수 있어!](https://baeharam.netlify.app/posts/interview/%EA%B5%AC%EA%B8%80-%EA%B8%B0%EC%88%A0-%EB%A9%B4%EC%A0%91-%EC%95%BC-%EB%84%88%EB%91%90-%ED%95%A0-%EC%88%98-%EC%9E%88%EC%96%B4!)
 * [My Job Interview at Google](https://catonmat.net/my-job-interview-at-google)
 * [Google Coding Interview｜구글 신입 엔지니어 인터뷰 준비 후기 :: Jeina, De'vLog](https://jeinalog.tistory.com/30)
+* [Google Python Challenge #1. The cake is not a lie. | by Keno Leon | The Startup | Medium](https://medium.com/swlh/google-python-challenge-1-58c0eb760c92)
+* [Google Python Challenge #2.a. Elevator Maintenance | by Keno Leon | Medium](https://medium.com/@k3no/google-python-challenge-2-a-d6331ce36576)
 
 # Interview practice, code challenge
 * [The 10 Best Coding Challenge Websites for 2018](https://medium.com/coderbyte/the-10-best-coding-challenge-websites-for-2018-12b57645b654)
