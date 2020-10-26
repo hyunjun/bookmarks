@@ -560,6 +560,7 @@ Vision
 * [Face Detection in 2 Minutes with Python and OpenCv](https://morioh.com/p/503c0fcf7e55)
 * [Make an AI Tracker in 23 Lines of Code in Python | codeburst](https://codeburst.io/make-an-ai-tracker-7dc1c5afccc5)
 * [Building a Face Recognizer in Python | by Behic Guven | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/building-a-face-recognizer-in-python-7fd6630c6340)
+* [OpenCV & Python. Getting started with Computer Vision… | by Keno Leon | Medium](https://medium.com/@k3no/opencv-python-8ea1d2fd46b9)
 * [box-visualizer: Make drawing and labeling bounding boxes easy as cake](https://github.com/shoumikchow/bbox-visualizer)
 * [genetic-drawing: A genetic algorithm toy project for drawing](https://github.com/anopara/genetic-drawing)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
