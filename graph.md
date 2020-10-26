@@ -157,6 +157,7 @@ Graph
   * [How to ingest data into Neo4j from a Kafka stream](https://medium.freecodecamp.org/how-to-ingest-data-into-neo4j-from-a-kafka-stream-a34f574f5655)
   * [Neo4j PageRank Algorithm and Path Pattern Matching on Flights Domain Model](https://medium.com/@vladbatushkov/one-month-graph-challenge-cayman-islands-714e0cdae8fd)
   * [그래프 데이터베이스 Neo4j 첫만남](https://blog.naver.com/pjt3591oo/221994415065)
+  * [Efficient Neo4j Data Import Using Cypher-Scripts | by Andrea Santurbano | Neo4j Developer Blog | Medium](https://medium.com/neo4j/efficient-neo4j-data-import-using-cypher-scripts-7d1268b0747)
 * [OrientDB](http://orientdb.com/)
   * [getting started](http://orientdb.com/getting-started/)
     * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)
