@@ -378,6 +378,10 @@ PyTorch
 * [Part 1: Components of the transformer model](https://nbviewer.jupyter.org/github/vinsis/math-and-ml-notes/blob/master/notebooks/Transformer%20-%20Illustration%20and%20code.ipynb) ipynb
 * [How to train a new language model from scratch using Transformers and Tokenizers](https://huggingface.co/blog/how-to-train)
 * [transformers-pytorch-gpu: 💡 Docker image for Huggingface 🤗 Transformers + GPU + Jupyter notebook + OhMyZsh](https://github.com/Beomi/transformers-pytorch-gpu)
+* [Pretrain Transformers Models in PyTorch using 🤗 Transformers | by George Mihaila | Oct, 2020 | Medium](https://gmihaila.medium.com/pretrain-transformers-models-in-pytorch-using-transformers-ecaaec00fbaa)
+  * [Pretrain Transformers - George's Awesome Website](https://gmihaila.github.io/tutorial_notebooks/pretrain_transformers_pytorch/)
+  * [pretrain_transformers_pytorch.ipynb - Colaboratory](https://colab.research.google.com/github/gmihaila/ml_things/blob/master/notebooks/pytorch/pretrain_transformers_pytorch.ipynb)
+  * [ml_things/pretrain_transformers_pytorch.ipynb at master · gmihaila/ml_things](https://github.com/gmihaila/ml_things/blob/master/notebooks/pytorch/pretrain_transformers_pytorch.ipynb)
 
 # Translation
 * [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
