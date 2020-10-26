@@ -269,6 +269,8 @@ Scala
 * [scala - What's the difference between => , ()=>, and Unit=> - Stack Overflow](https://stackoverflow.com/questions/4543228/whats-the-difference-between-and-unit)
 * [Yet Another Arithmetic Parser in Scala - Synerise - Medium](https://medium.com/synerise/yet-another-arithmetic-parser-in-scala-43dad055d81f)
 * [Railway Oriented Programming in Scala - Pierre's Blog](https://blog.pjam.me/posts/railway-oriented-programming-scala/)
+  * [Railway Oriented Programming](https://www.slideshare.net/ScottWlaschin/railway-oriented-programming)
+* [Parallel Validation for Railway Oriented Programming in Scala | by pierre jambet | The Startup | Medium](https://medium.com/swlh/parallel-validation-for-railway-oriented-programming-in-scala-fc5b96fc33ca)
 * [Writing Angular Services in Scala | by Antoine Doeraene | Jul, 2020 | Medium](https://medium.com/@antoine.doeraene/writing-angular-services-in-scala-e83fd308b7c3)
 * [Cloudflare Workers Announces Broad Language Support](https://blog.cloudflare.com/cloudflare-workers-announces-broad-language-support/)
 * [Scala: Beyond the basics with Christopher Batey - YouTube](https://www.youtube.com/watch?v=4QIgEMvUfIE) Function composition, Functional approaches to implement dependency injection, higher kinded types, Avoiding mutability with expressions, Abstracting with type classes
