@@ -1214,6 +1214,7 @@ Machine Learning
 * [Streamlit - the first app framework specifically for Machine Learning and Data Science teams](https://streamlit.io/)
   * [Streamlit 101: An in-depth introduction](https://towardsdatascience.com/streamlit-101-an-in-depth-introduction-fc8aad9492f2)
   * [How to Build a Simple Machine Learning Web App in Python](https://towardsdatascience.com/how-to-build-a-simple-machine-learning-web-app-in-python-68a45a0e0291)
+  * [NotebookToWebApp/article.md at master · ChristianFJung/NotebookToWebApp](https://github.com/ChristianFJung/NotebookToWebApp/blob/master/article.md)
 * [tpot - A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming. http://rhiever.github.io/tpot ](https://github.com/rhiever/tpot)
 * Uber
   * [Meet Michelangelo: Uber’s Machine Learning Platform](https://eng.uber.com/michelangelo/)
