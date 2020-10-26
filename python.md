@@ -491,6 +491,7 @@ Python
   * [함수 디폴트인자의 잘못된 사용](https://ash84.net/2017/05/22/python-misusing-expressions-as-defaults-for-function-arguments/)
   * [**파이썬에서 arguments로 *(별표)만 쓴 경우!?**](https://sjquant.tistory.com/31)
   * [What Are *args and **kwargs in Python? | by Jonathan Hsu | Better Programming | Medium](https://medium.com/better-programming/what-are-args-and-kwargs-in-python-6aaf9e3cad73)
+  * [*args & **kwargs in Python. What do they do ? | by Keno Leon | Level Up Coding](https://levelup.gitconnected.com/args-kwargs-in-python-8d483f9f253e)
 * ast
   * [Python AST 101](https://item4.github.io/2015-07-20/Python-AST-101.html)
 * asterisk
@@ -530,6 +531,7 @@ Python
   * [Class Attribute VS Instance Attribute of Python](https://medium.com/techtofreedom/differences-between-class-attribute-and-instance-attribute-of-python-1ae61774489c)
   * [How to use Python classes effectively | by Rhea Moutafis | Towards Data Science](https://towardsdatascience.com/how-to-use-python-classes-effectively-10b42db8d7bd)
   * [Python Objects and Classes: The Most Important Python Concepts That You Need to Understand | Towards Data Science](https://towardsdatascience.com/the-most-important-python-concept-that-you-need-to-understand-985b98bbb84)
+  * [Classes & Subclasses in Python. What, how, why and when to use. | by Keno Leon | The Startup | Medium](https://medium.com/swlh/classes-subclasses-in-python-12b6013d9f3)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
@@ -626,6 +628,7 @@ Python
   * [Handling exceptions in Python a cleaner way, using Decorators | by Shivam Batra | The Startup | Medium](https://medium.com/swlh/handling-exceptions-in-python-a-cleaner-way-using-decorators-fae22aa0abec)
   * [Using Class Decorators in Python. An example-led guide to using Class… | by Stephen Fordham | Towards Data Science](https://towardsdatascience.com/using-class-decorators-in-python-2807ef52d273)
   * [Why You Need Decorators in Your Python Code | by Michael Krasnov | Better Programming | Medium](https://medium.com/better-programming/why-you-need-decorators-in-your-python-code-df12d43eac9c)
+  * [Decorators in Python. Introduction to the design pattern. | by Keno Leon | Python In Plain English | Medium](https://medium.com/python-in-plain-english/decorators-in-python-2c830015d719)
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
   * [Python Descriptors](https://www.youtube.com/watch?v=ZdvpNaWwx24)
@@ -759,6 +762,7 @@ Python
   * [Python Generators Explained! (Sort of)](https://hackernoon.com/python-generators-35ac68334882)
   * [How to Create a Generator in Python](https://medium.com/better-programming/how-to-create-a-generator-in-python-5ee587621879)
   * [Optimize python code with generators - Chetan Mishra - Medium](https://medium.com/@chetaniam/optimize-python-code-with-generators-aef839996ee4)
+* globals [Alternatives to Using Globals in Python | by Keno Leon | Better Programming | Medium](https://medium.com/better-programming/alternatives-to-using-globals-in-python-a3b2a7d5411b)
 * hash
   * [입 개발 Python 3.3 부터는 hash 결과가 프로세스 마다 달라요!!!](https://charsyam.wordpress.com/2018/01/29/%EC%9E%85-%EA%B0%9C%EB%B0%9C-python-3-3-%EB%B6%80%ED%84%B0%EB%8A%94-hash-%EA%B2%B0%EA%B3%BC%EA%B0%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%A7%88%EB%8B%A4-%EB%8B%AC%EB%9D%BC%EC%9A%94/)
   * [입 개발 SipHash의 사용, Data DDOS를 방지해볼까?](https://charsyam.wordpress.com/2018/02/04/%ec%9e%85-%ea%b0%9c%eb%b0%9c-siphash%ec%9d%98-%ec%82%ac%ec%9a%a9-data-ddos%eb%a5%bc-%eb%b0%a9%ec%a7%80%ed%95%b4%eb%b3%bc%ea%b9%8c/)
@@ -814,8 +818,10 @@ Python
   * [9 Things to Know to Master List Comprehensions in Python](https://medium.com/better-programming/9-things-to-know-to-master-list-comprehensions-in-python-8bc0411ec2ed)
   * [파이썬의 Comprehension 소개](https://mingrammer.com/introduce-comprehension-of-python)
   * [3 Python list comprehension tricks you might not know yet](https://levelup.gitconnected.com/3-python-list-comprehension-tricks-you-might-not-know-yet-5891d904ee76)
+  * [Python Comprehension. A guided tour and quick start. | by Keno Leon | Medium](https://medium.com/@k3no/python-comprehension-885cd3f27f4a)
   * [**파이썬에서 2중 리스트를 flatten하게 만들기**](https://winterj.me/list_of_lists_to_flatten/)
   * [Python - 리스트 순회중 수정하는 문제](https://ash84.net/2017/06/29/common-mistake-5-modifying-a-list-while-iterating-over-it/)
+  * [Beginners guide to Iteration in python | by Keno Leon | Medium](https://medium.com/@k3no/beginners-guide-to-iteration-in-python-8734ba247afa)
   * [Printing Lists as Tabular Data](https://stackoverflow.com/questions/9535954/printing-lists-as-tabular-data)
   * [\[{...}\] * 10 주의점](http://mcchae.egloos.com/11290417)
   * [Python: copying a list the right way](http://henry.precheur.org/python/copy_list)
@@ -959,6 +965,7 @@ Python
     * [Python 3 - Multithreaded Programming](https://www.tutorialspoint.com/python3/python_multithreading)
     * [Running a method as a background process in Python](https://dev.to/hasansajedi/running-a-method-as-a-background-process-in-python-21li)
     * [Using Locks to Prevent Data Races in Threads in Python | by Rachit Tayal | Python Features | Medium](https://medium.com/python-features/using-locks-to-prevent-data-races-in-threads-in-python-b03dfcfbadd6)
+    * [Threads in Python. The basics. | by Keno Leon | Medium](https://medium.com/@k3no/threads-in-python-420fccf9bde5)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
   * [typing.NamedTuple](http://mkseo.pe.kr/blog/?p=2699)
@@ -1003,7 +1010,9 @@ Python
   * [용어 정리: 직렬화와 역직렬화](http://blog.ilkyu.kr/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%ED%8C%8C%EC%9D%BC%EB%A1%9C-%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-Serialization-%EC%A7%81%EB%A0%AC%ED%99%94)
   * [copyreg로 pickle을 신뢰할 수 있게 하기](http://brownbears.tistory.com/241)
   * [강의노트 04. 파이썬 pickle 모듈](https://wayhome25.github.io/cs/2017/04/04/cs-04/)
-* print [PYTHON 디버깅: `PRINT` 함수 가로채기](http://ds.sumeun.org/?p=2119)
+* print
+  * [PYTHON 디버깅: `PRINT` 함수 가로채기](http://ds.sumeun.org/?p=2119)
+  * [Print() in Python. A guide to printing and formatting your… | by Keno Leon | Medium](https://medium.com/@k3no/print-in-python-389aea412c1f) wkhtmltopdf, Pdfkit
 * pprint
   * [Let’s talk about “prettyprint” or pprint in python | by Antaripa Saha | Dev Genius | Medium](https://medium.com/dev-genius/lets-talk-about-prettyprint-or-pprint-in-python-ddda1fa4cf0b)
   * [pyprnt - Python Pretty Printer https://pypi.org/project/pyprnt ](https://github.com/kevink1103/pyprnt)
@@ -2128,6 +2137,7 @@ Python
   * [PyQt5 Tutorial - Setup and a Basic GUI Application](https://www.youtube.com/watch?v=Vde5SH8e1OQ)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
+* PySide2 [Python GUI with PyQT/PySide2. A look and guide at a popular GUI for… | by Keno Leon | The Startup | Medium](https://medium.com/swlh/python-gui-with-pyqt-pyside2-5cca38d739fa)
 * tkinter
   * ~[Python GUI Development with Tkinter](https://www.linkedin.com/learning/python-gui-development-with-tkinter?storeRef=voyager_feed_cymbii_learning)~
   * [**076923.github.io/posts/#Python-Tkinter**](https://076923.github.io/posts/#Python-Tkinter)
@@ -3212,6 +3222,8 @@ Python
   * [PyCharm에서 테스트 중 AssertionError발생시점의 Breakpoint설정](https://lhy.kr/pycharm-assertion-debugger-stop)
   * [Pycharm Python Console에서 한글깨짐 해결방법](https://www.martinii.fun/entry/Pycharm-Python-Console%EC%97%90%EC%84%9C-%ED%95%9C%EA%B8%80%EA%B9%A8%EC%A7%90-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95)
   * [PyCharm vs VSCode. Is it time to change your IDE? | by S Ahmad | Towards Data Science](https://towardsdatascience.com/pycharm-vs-vscode-9ffbed46ac9e)
+  * [Jupyter notebook support - Help | PyCharm](https://www.jetbrains.com/help/pycharm/jupyter-notebook-support.html)
+    * [Are you still using JupyterLab?. There is a new premium product in the… | by Roman Orac | Towards Data Science](https://towardsdatascience.com/are-you-still-using-jupyterlab-ce1a4339c0a9)
   * Photonai [21 Techniques to Write Better Code | by Bruce H. Cottman, Ph.D. | The Startup | Medium](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
 * [Thonny - Python IDE for beginners](http://thonny.org/)
   * [Learn to code with Thonny — a Python IDE for beginners](https://fedoramagazine.org/learn-code-thonny-python-ide-beginners)
@@ -3474,6 +3486,7 @@ Python
 * [파이썬(python) numpy 의 array(ndarray)와 matrix 데이터 타입](https://thrillfighter.tistory.com/482)
 * [NumPy Tutorial 2020 - YouTube](https://www.youtube.com/watch?v=8Y0qQEh7dJg)
 * [Python NumPy Tutorial | NumPy Array | Python Tutorial For Beginners | Python Training | Simplilearn - YouTube](https://www.youtube.com/watch?v=j31ah5Qa4QI)
+* [Python Numpy. Overview & Getting started | by Keno Leon | Medium](https://medium.com/@k3no/python-numpy-aac458ea6134)
 
 # [Pandas](http://pandas.pydata.org/)
 * practice
@@ -3486,6 +3499,7 @@ Python
 * [Pandas 팬더스 강의 기초 실습](https://www.youtube.com/playlist?list=PLVNY1HnUlO26Igldy2Q6Nb2LZbpQWTyle)
   * [판다스 명령어 팁](https://github.com/minsuk-heo/pandas/blob/master/%ED%8C%AC%EB%8D%94%EC%8A%A4_%EB%AA%85%EB%A0%B9%EC%96%B4_%EA%BF%80%ED%8C%81.ipynb)
 * [10 Minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
+* [Python Pandas Basics. With Pandas ? | by Keno Leon | Medium](https://medium.com/@k3no/python-pandas-basics-7837f421d3e4)
 * [Data analysis in Python with pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 * [Pandas Cheat Sheet: Data Wrangling in Python](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python)
 * [Data Wrangling with pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
@@ -4098,6 +4112,7 @@ Python
   * [4 Useful Advanced Features in FastAPI | by Ng Wai Foong | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/4-useful-advanced-features-in-fastapi-f08e4db59637)
   * [How to use FastAPI with MongoDB. An easy way to serve your database… | by Fernando Souza | Python In Plain English | Sep, 2020 | Medium](https://medium.com/python-in-plain-english/how-to-use-fastapi-with-mongodb-75b43c8e541d)
   * [Migrate From Flask to FastAPI Smoothly | by Ng Wai Foong | Better Programming | Medium](https://medium.com/better-programming/migrate-from-flask-to-fastapi-smoothly-cc4c6c255397)
+  * [3 Reasons to Switch to FastAPI. Flask vs. FastAPI | by Dieter Jordens | Better Programming | Medium](https://medium.com/better-programming/3-reasons-to-switch-to-fastapi-f9c788d017e5)
 * mod_wsgi
   * [What package I should install for 'pcre-devel'?](http://stackoverflow.com/questions/2263404/what-package-i-should-install-for-pcre-devel)
     * `yum install pcre-devel.x86_64 -y`
