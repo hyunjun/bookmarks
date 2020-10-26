@@ -1023,6 +1023,7 @@ Java
 * [@Entity 선언시 기본 생성자만 Generate 에 노출되는 이슈](https://jojoldu.tistory.com/482)
 * [MultipleBagFetchException 발생시 해결 방법](https://jojoldu.tistory.com/457)
 * [Optional 클래스 사용하기](https://dbbymoon.tistory.com/3)
+* [**Java Optional 바르게 쓰기 - 뒤태지존의 끄적거림**](http://homoefficio.github.io/2019/10/03/Java-Optional-%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%93%B0%EA%B8%B0)
 * [더티 체킹 (Dirty Checking)이란?](https://jojoldu.tistory.com/415)
 * [응? 이게 왜 롤백되는거지?](http://woowabros.github.io/experience/2019/01/29/exception-in-transaction.html) isGlobalRollbackOnParticipationFailure
 * [데이터 베이스의 자동증가 값을 기본키로 사용할 수 없을때는?](데이터 베이스의 자동증가 값을 기본키로 사용할 수 없을때는?) IdentifierGenerator interface
