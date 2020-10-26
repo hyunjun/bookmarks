@@ -200,6 +200,7 @@ Finance
 * [How to Build a Data Pipeline with the TD Ameritrade Python API Library](https://www.youtube.com/watch?v=icLy0glrovc)
 * [**파이썬 금융 시게열 처리 최적화하기. 당신의 데이터 처리를 가속시킬 몇가지 Tips & Tricks | by JooHyun Jo | Qraft Technologies | Jul, 2020 | Medium**](https://medium.com/qraft/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%88%EC%9C%B5-%EC%8B%9C%EA%B2%8C%EC%97%B4-%EC%B2%98%EB%A6%AC-%EC%B5%9C%EC%A0%81%ED%99%94%ED%95%98%EA%B8%B0-571b4d716a2e) Pandas, Numpy, Numba, pyo3
 * [Technical Pattern Recognition for Trading in Python | by Sofien Kaabar | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/technical-pattern-recognition-for-trading-in-python-63770aab422f)
+* [Build an AI Stock Trading Bot for Free | by Roman Paolucci | The Startup | Medium](https://medium.com/swlh/build-an-ai-stock-trading-bot-for-free-4a46bec2a18)
 * [파이스탁 - YouTube](https://www.youtube.com/c/pystock)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
