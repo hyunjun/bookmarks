@@ -1072,6 +1072,7 @@ Javascript
 * [fullstack-starterkit: GraphQL first full-stack starter kit with Node, React. Powered by TypeScript](https://github.com/karanpratapsingh/fullstack-starterkit)
 * [Fullstack React GraphQL TypeScript Tutorial - YouTube](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
 * [server GraphQL 파헤쳐 보기 4.. : 네이버블로그](https://blog.naver.com/pjt3591oo/222092932667)
+* [How to Query in GraphQL. The basics of GraphQL, Querying and… | by Keno Leon | Medium](https://medium.com/@k3no/how-to-query-in-graphql-6ebb3f7085dc)
 * [xgenecloud: Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)](https://github.com/xgenecloud/xgenecloud)
 
 # Gulp
@@ -3027,6 +3028,7 @@ Javascript
 * [**TypeScript 환경에서 Redux를 프로처럼 사용하기**](https://velog.io/@velopert/use-typescript-and-redux-like-a-pro)
 * [Typescript Tips Series: Proper Typing of react-redux Connected Components](https://medium.com/knerd/typescript-tips-series-proper-typing-of-react-redux-connected-components-eda058b6727d)
 * [Using React with Redux and TypeScript](https://blog.usejournal.com/using-react-with-redux-and-typescript-c7ec48c211f6)
+* [A Type-Driven Approach To React and Redux Using TypeScript | by Drew Carver | Func Shui | Medium](https://medium.com/func-shui/a-type-driven-approach-to-react-and-redux-using-typescript-f93470b0d724)
 * [Why would you NOT use TypeScript?](https://medium.freecodecamp.org/why-would-you-not-use-typescript-67d0baa3eaca)
 * [Using TypeScript Dynamic Imports in Angular](https://netbasal.com/using-typescript-dynamic-imports-in-angular-d210547484dd)
 * [Inference engines: 5 examples with TypeScript, Flow and Reason](https://codeburst.io/inference-engines-5-examples-with-typescript-flow-and-reason-edef2f4cf2d3)
@@ -3285,6 +3287,9 @@ Javascript
 * [How to generate a sitemap.xml with Javascript for dynamic page urls | by Axel Wittmann | The Startup | Medium](https://medium.com/swlh/how-to-generate-a-sitemap-xml-with-javascript-for-dynamic-page-urls-12d9537fd950)
 * [An Introduction to Vue Teleport — A New Feature in Vue3 | by Matt Maribojoc | Sep, 2020 | Medium](https://medium.com/@mattmaribojoc/an-introduction-to-vue-teleport-a-new-feature-in-vue3-e9ddbf58dd25)
 * [A Quick Vue3 Infinite Scrolling Component — Daily Vue Tips #4 | by Matt Maribojoc | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/a-quick-vue3-infinite-scrolling-component-daily-vue-tips-4-20c7052ccda4)
+* [VUE Props. Basics, simple and multi component use. | by Keno Leon | Dev Genius | Medium](https://medium.com/dev-genius/vue-props-b04621f4a531)
+* [Front End to Full Stack.. Part 1. A Front End Developer walks… | by Keno Leon | Python In Plain English | Medium](https://medium.com/python-in-plain-english/front-end-to-full-stack-1b6904c4b962)
+* [Front End to Full Stack.. Part 2. Python, Node and Vue sitting on… | by Keno Leon | Python In Plain English | Medium](https://medium.com/python-in-plain-english/front-end-to-full-stack-c42b91bfedde)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
   * [워드프레스에서 Gridsome으로 블로그 이전후 깃헙 액션을 통해 넷틀리파이에서 호스팅하기](https://blog.aliencube.org/ko/2020/01/03/migrating-wordpress-to-gridsome-on-netlify-through-github-actions/)
 * [reactivue: 🙊 Use Vue Composition API in React components](https://github.com/antfu/reactivue)
