@@ -2051,7 +2051,8 @@ Programming
 * [(10월 10일) 구글 등 주요 회사의 코딩 인터뷰 살펴보기](https://jhrogue.blogspot.com/2020/10/10-10.html) 코딩 인터뷰 모음, git 연습, NestedText: JSON과 YAML은 가라, egghead – 프론트엔드 개발자를 위한 동영상 모음, 셸 히스토리 중앙 저장소에 모아보자
 * [2020년 10월 17일 개발자 이야기](https://www.slideshare.net/jrogue/2020-10-17)
   * [(10/17) 서버리스 혁명이 지체되는 이유는? - YouTube](https://www.youtube.com/watch?v=YXCRoFy__YQ)
-* [(10/24) AWS는 IPv4를 몇 개 확보했을까? - YouTube](https://www.youtube.com/watch?v=DmlO0_aywEw)
+* [(10월 24일) AWS는 IPv4를 몇 개 확보했을까?](https://jhrogue.blogspot.com/2020/10/10-24-aws-ipv4.html)
+  * [(10/24) AWS는 IPv4를 몇 개 확보했을까? - YouTube](https://www.youtube.com/watch?v=DmlO0_aywEw)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 
 # OS Operating System
