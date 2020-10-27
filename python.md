@@ -475,6 +475,7 @@ Python
 * [3 Common Python Flaws You Need To Avoid | by Anupam Chugh | Towards Data Science](https://towardsdatascience.com/3-common-python-flaws-you-need-to-avoid-46c9eebfa0fe)
 * [7 Deadly Sins Python Developers Do | by Anupam Chugh | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/7-deadly-sins-python-developers-do-eb53d8a880)
 * [Everything You Ever Wanted to Know About Python Return Statements | by Indhumathy Chelliah | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/everything-you-ever-wanted-to-know-about-python-return-statements-c14f6c749ff2) 기초
+* [6 Typical Errors Python Newbie Should Know | by Vivek Coder | Towards Data Science](https://towardsdatascience.com/6-typical-errors-python-newbie-should-know-39eac4886375)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -534,6 +535,7 @@ Python
   * [How to use Python classes effectively | by Rhea Moutafis | Towards Data Science](https://towardsdatascience.com/how-to-use-python-classes-effectively-10b42db8d7bd)
   * [Python Objects and Classes: The Most Important Python Concepts That You Need to Understand | Towards Data Science](https://towardsdatascience.com/the-most-important-python-concept-that-you-need-to-understand-985b98bbb84)
   * [Classes & Subclasses in Python. What, how, why and when to use. | by Keno Leon | The Startup | Medium](https://medium.com/swlh/classes-subclasses-in-python-12b6013d9f3)
+  * [Public, Private, and Protected — Access Modifiers in Python | by Sarath Kaul | Better Programming | Medium](https://medium.com/better-programming/public-private-and-protected-access-modifiers-in-python-9024f4c1dd4)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
@@ -2668,6 +2670,7 @@ Python
   * [Scaling PyData with Dask - Martin Durant and Jim Crist](https://www.youtube.com/watch?v=6ixaCnR9ur0)
     * [Dask Tutorial at PyData 2018](https://github.com/mrocklin/pydata-nyc-2018-tutorial)
   * [Coiled: Scaling Python Simply](https://coiled.io/)
+  * s3fs [Using S3 Just Like a Local File System in Python | by Sven Balnojan | The Startup | Medium](https://medium.com/swlh/using-s3-just-like-a-local-file-system-in-python-497737783f11)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
 * [DataMatrix - an intuitive Python library for working with column-based and continuous data](http://datamatrix.cogsci.nl/)
   * [Analyzing eye-movement and pupil-size data with Python DataMatrix](https://www.youtube.com/watch?v=PtUmhQ2vupw)
