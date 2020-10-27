@@ -642,6 +642,8 @@ Javascript
 * [Dates and Times in JavaScript – Igalia Compilers Team](https://blogs.igalia.com/compilers/2020/06/23/dates-and-times-in-javascript/)
 * [6 Amazing JavaScript Destructuring Tricks | by Anupam Chugh | Better Programming | Jun, 2020 | Medium](https://medium.com/better-programming/6-amazing-javascript-destructuring-tricks-d47da9a0047f)
 * [3항 연산자의 재발견. 하얀마인드에서는 (중첩) 3항 연산자를 매우 광범위하게 사용한다… | by Jeungmin Oh | 하얀마인드 기술 블로그 | Medium](https://medium.com/hayanmind-tech-blog-kr/3%ED%95%AD-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%9E%AC%EB%B0%9C%EA%B2%AC-a3f815bcdbb8)
+* [JavaScript Features You Probably Haven’t Used | by John Au-Yeung | Level Up Coding](https://levelup.gitconnected.com/javascript-features-we-probably-havent-used-adc4ca6711b5) Tagged Template Literals, Comma Operator, with
+* [15 Simple Coding Techniques to Get Your Tasks Done with Shorter Code in JavaScript | by Amy J. Andrews | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/15-simple-coding-techniques-to-get-your-tasks-done-with-shorter-code-in-javascript-59d46801db0)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
