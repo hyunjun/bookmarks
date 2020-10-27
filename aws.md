@@ -126,6 +126,7 @@ AWS
 * [AWS 개발자 도구를 활용한 GitFlow 구현 방법](https://aws.amazon.com/ko/blogs/korea/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/)
 * [AWS Code Deploy를 통한 배포 자동화](http://blog.dramancompany.com/2017/04/aws-code-deploy%EB%A5%BC-%ED%86%B5%ED%95%9C-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94/)
 * [React 앱 AWS에 배포하기](https://isme2n.github.io/aws/2017/06/08/aws-deploy/)
+* [Building Serverless Mobile Applications with React Native & AWS | by Nader Dabit | React Native Training | Medium](https://medium.com/react-native-training/building-serverless-mobile-applications-with-react-native-aws-740ecf719fce)
 * AWS로 배포하기 시리즈
   * [1. Code Deploy 사용하기](http://jojoldu.tistory.com/281)
   * [2. AWS Code Build로 빌드하기](http://jojoldu.tistory.com/282)
