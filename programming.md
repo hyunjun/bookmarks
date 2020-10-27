@@ -1328,6 +1328,7 @@ Programming
 * [하루에 1000번 배포하는 조직 되기](https://blog.banksalad.com/tech/become-an-organization-that-deploys-1000-times-a-day/)
 * [Deploys at Slack - Several People Are Coding](https://slack.engineering/deploys-at-slack-cd0d28c61701)
 * [The Road to CI/CD: The Ultimate Guide | by Remco Rakers | Better Programming](https://medium.com/better-programming/the-road-to-ci-cd-a6939addd42d)
+* [Demystifying DevOps Pipeline and CI/CD - YouTube](https://www.youtube.com/watch?v=2IJs6LsW3BU)
 * teamcity
   * [TeamCity 설치하기](https://jojoldu.tistory.com/448)
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
