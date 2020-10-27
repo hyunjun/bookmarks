@@ -832,6 +832,7 @@ NLP
   * [huggingface.co/nlp/viewer](https://huggingface.co/nlp/viewer/)
   * [ML (Huggingface transformers) coding tips from Yannic Kilcher](https://www.notion.so/ML-Huggingface-transformers-coding-tips-from-Yannic-Kilcher-30b4d8298bfb45cba199d4f1651a1d9f)
   * [A small timing experiment on the new Tokenizers library — a write-up](https://towardsdatascience.com/a-small-timing-experiment-on-the-new-tokenizers-library-a-write-up-7caab6f80ea6)
+  * [Beyond Classification With Transformers and Hugging Face | by Nikhil Dharap | Towards Data Science](https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
 * [3 Natural Language Processing Tools From AWS to Python | by SeattleDataGuy | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/3-natural-language-processing-tools-from-aws-to-python-954dbb34b189)
   * [Amazon Comprehend - Natural Language Processing (NLP) and Machine Learning (ML)](https://aws.amazon.com/comprehend/)
   * [Cloud Natural Language  |  Google Cloud](https://cloud.google.com/natural-language)
