@@ -158,7 +158,6 @@ Programming Books
     * - 저자가 암호를 좋아하는 건지 기본 알고리즘 - 암호화 알고리즘 - k means - 기타(유클리드, 페이지 랭크, 하노이의 탑)등 내용이 좀 산만하고 어떤 기준으로 선정했는지를 모르겠다
 * (NOT YET) [서평: 그들은 알고리즘을 알았을까? ](https://blog.gaerae.com/2018/10/once-upon-an-algorithm.html)
 * (NOT YET) [자료구조 입문 - 알고리즘과 그림으로 이해하고 C로 구현하는](https://freelec.co.kr/book/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EA%B8%B0%EB%B3%B8%EC%9D%84-%ED%83%84%ED%83%84%ED%9E%88-%ED%95%98%EC%9E%90/)
-* (NOT YET) [게임으로 익히는 코딩 알고리즘](http://www.hanbit.co.kr/store/books/look.php?p_code=B7463314905)
 * (NOT YET) [알고리즘 트레이닝: 프로그래밍 대회 입문 가이드](https://blog.insightbook.co.kr/2019/05/07/%E3%80%8A%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%8C%80%ED%9A%8C-%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%9D%B4%EB%93%9C/)
 * (NOT YET) [파이썬 자료구조와 알고리즘 : 기초 튼튼, 핵심 쏙쏙, 실력 쑥쑥](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B8465804191)
 * (NOT YET) [퍼즐로 배우는 알고리즘 with 파이썬](https://blog.naver.com/ydot/221616317667)
@@ -169,7 +168,6 @@ Programming Books
   * [책 리뷰 파이썬 알고리즘 인터뷰 | Charsyam's Blog](https://charsyam.wordpress.com/2020/08/23/%ec%b1%85-%eb%a6%ac%eb%b7%b0-%ed%8c%8c%ec%9d%b4%ec%8d%ac-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%9d%b8%ed%84%b0%eb%b7%b0/)
 * (NOT YET) [이것이 취업을 위한 코딩 테스트다 with 파이썬](https://hanbit.co.kr/store/books/look.php?p_code=B8945183661)
 * (NOT YET) [파이썬을 이용한 컴퓨터 과학 입문 - YES24](http://www.yes24.com/Product/Goods/85111306)
-* (NOT YET) [파이썬으로 게임 만들기 그 첫 번째 이야기(입문편)](https://jpub.tistory.com/1092)
 
 # Amazon AWS
 
@@ -811,6 +809,11 @@ Programming Books
 # Functional programming
 * (NOT YET) [순수 함수형 데이터 구조 - 불변성과 지연 계산을 활용한 함수형 데이터 구조](http://acornpub.co.kr/book/purely-functional-structures)
 * (NOT YET) [함수형 언어 산책](https://jpub.tistory.com/981)
+
+# Game
+* (NOT YET) [게임으로 익히는 코딩 알고리즘](http://www.hanbit.co.kr/store/books/look.php?p_code=B7463314905)
+* (NOT YET) [파이썬으로 게임 만들기 그 첫 번째 이야기(입문편)](https://jpub.tistory.com/1092)
+* (NOT YET) [(번역서) 게임 엔진 블랙 북: 울펜슈타인 3D](https://jhrogue.blogspot.com/2020/10/3d.html)
 
 # Git
 
