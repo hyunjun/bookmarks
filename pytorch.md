@@ -285,6 +285,7 @@ PyTorch
 * [fairseq - Facebook AI Research Sequence-to-Sequence Toolkit written in Python](https://github.com/pytorch/fairseq)
   * [나의 첫 자연어 처리 오픈소스 PR 후일담](https://huffon.github.io/2020/01/28/open-source/)
   * [fairseq/README.md at master · pytorch/fairseq](https://github.com/pytorch/fairseq/blob/master/examples/wav2vec/README.md)
+  * [fairseq/examples/wav2vec at master · pytorch/fairseq](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec)
 * [FastPhotoStyle](https://github.com/nvidia/fastphotostyle)
 * [Glow - a machine learning compiler and execution engine for various hardware targets](https://github.com/pytorch/glow/)
 * [gpytorch - A highly efficient and modular implementation of Gaussian Processes in PyTorch](https://github.com/cornellius-gp/gpytorch)
