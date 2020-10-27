@@ -387,6 +387,8 @@ App
   * kite, codota, deepcode, prose, pix2code
 * [5 Underrated Apps for Coders To Use Today | codeburst](https://codeburst.io/5-underrated-apps-for-programmers-you-should-use-right-now-738388693169)
   * Ungit, Termius, Alacritty, Byobu, Spacedesk
+* [7 Command-Line Tools That Make Your Life Easier | by Daan | Aug, 2020 | Level Up Coding](https://levelup.gitconnected.com/7-command-line-tools-that-make-your-life-easier-d69c38850d6c)
+  * Enhancd, The Fuck, Git Stats, Autojump, Bat, Oh my ZSH, Fony
 * [aquerytool.com](http://aquerytool.com/) DB schema
 * buildbox
   * [코딩할줄 모르는 개발자가 만든 1위 모바일 게임, Color Switch](http://techneedle.com/archives/25515)
