@@ -245,3 +245,4 @@
 * [Rust — Getting Started With The Most Loved Programming Language | by Manish M. Shivanandhan | Manish Shivanandhan | Aug, 2020 | Medium](https://medium.com/manishmshiva/rust-getting-started-with-the-most-loved-programming-language-2234d1ec967f)
 * [Thought you loved Python? Wait until you meet Rust | by Rhea Moutafis | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/thought-you-loved-python-wait-until-you-meet-rust-64a06d976ce)
 * [Wiki - RustStarterKit2020](https://wiki.alopex.li/RustStarterKit2020)
+* [Why You Should Consider Rust for the Next Language You Learn | by Serokell | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/why-you-should-consider-rust-for-the-next-language-you-learn-39652d8e1bbe)
