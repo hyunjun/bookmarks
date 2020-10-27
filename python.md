@@ -338,6 +338,7 @@ Python
 * [10 Smooth Python Tricks For Python Gods | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/10-smooth-python-tricks-for-python-gods-2e4f6180e5e3)
 * [Write Better Python Code With These 10 Tricks | by Yong Cui, Ph.D. | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/write-better-python-code-with-these-10-tricks-30b7018e247a)
 * [**7 Python Tricks You Should Know. Impress your friends with these useful… | by Nabilah Abu Bakar | Better Programming | Medium**](https://medium.com/better-programming/7-python-tricks-you-should-know-bdaa98b866f2) YouTube-Dl, Pdb, PyInstaller, Tqdm, Colorama, Tabulate, Ptpython
+* [**Interesting Python Tips and Tricks | by Ravi | Analytics Vidhya | Sep, 2020 | Medium**](https://medium.com/analytics-vidhya/interesting-python-tips-and-tricks-6d033967b5a5)
 * [Python One-Liners Playlist - YouTube](https://www.youtube.com/playlist?list=PLbo6ydLr984aS6A2_vNNLtX_1_MbGMTU9)
 * [What are some one liners in Python that would take a hundred in C? - Quora](https://www.quora.com/What-are-some-one-liners-in-Python-that-would-take-a-hundred-in-C)
 * [18 Python scripts that help you write code faster](https://morioh.com/p/4f4b74ba17cc)
@@ -473,6 +474,7 @@ Python
 * [Equality vs Identity vs Membership Operation in Python | by Indhumathy Chelliah | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/equality-vs-identity-vs-membership-operation-in-python-76a1dbd69d6c) `==`, `is`, `in`
 * [3 Common Python Flaws You Need To Avoid | by Anupam Chugh | Towards Data Science](https://towardsdatascience.com/3-common-python-flaws-you-need-to-avoid-46c9eebfa0fe)
 * [7 Deadly Sins Python Developers Do | by Anupam Chugh | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/7-deadly-sins-python-developers-do-eb53d8a880)
+* [Everything You Ever Wanted to Know About Python Return Statements | by Indhumathy Chelliah | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/everything-you-ever-wanted-to-know-about-python-return-statements-c14f6c749ff2) 기초
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -660,6 +662,7 @@ Python
   * [Dicts are now ordered, get used to it](https://softwaremaniacs.org/blog/2020/02/05/dicts-ordered/en/)
   * [The Idiomatic Way to Merge Dictionaries in Python](https://treyhunner.com/2016/02/how-to-merge-dictionaries-in-python/)
   * [Five Ways to Loop Through Python Dictionaries | by Jonathan Hsu | Better Programming | Medium](https://medium.com/better-programming/five-ways-to-loop-through-python-dictionaries-468db779744d)
+  * [Five Cool Python Looping Tips. 5 Tips to help your iterative looping… | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/five-cool-python-looping-tips-14f6f44bcfc7) 기초. zip, range, enumerate, sorted, filter
   * [Dictionary View Objects 101. Learning about dynamic view objects in… | by Indhumathy Chelliah | Aug, 2020 | codeburst](https://codeburst.io/dictionary-view-objects-101-480b72f71dec)
   * [7 Advanced Python Dictionary Techniques | Towards Data Science](https://towardsdatascience.com/7-advanced-python-dictionary-techniques-you-should-know-416194d82d2c)
 * dis
@@ -939,6 +942,7 @@ Python
   * [A Hands on Guide to Multiprocessing in Python](https://towardsdatascience.com/a-hands-on-guide-to-multiprocessing-in-python-48b59bfcc89e)
   * [An introduction to parallel programming using Python's multiprocessing module](https://sebastianraschka.com/Articles/2014_multiprocessing.html)
   * [Start Multithreading vs Multiprocessing in 5 minutes using Python](https://medium.com/swlh/how-to-start-multithreading-in-python-in-just-5-minutes-fe1f28d7aa56)
+  * [Advanced Python: Python Programming guidelines For Multiprocessing | by Farhad Malik | FinTechExplained | Sep, 2020 | Medium](https://medium.com/fintechexplained/advanced-python-python-programming-guidelines-for-multiprocessing-c8385752af3a)
   * [Using Multiple Cores In Python](https://www.youtube.com/watch?v=ZWRuOkH0qkY)
   * [multi threading or multi processing for fetching url](https://github.com/dsindex/blog/wiki/%5Bpython%5D-multi-threading-or-multi-processing-for-fetching-url)
   * [Get a 2–6x speed-up on your pre-processing with these 3 lines of code!](https://towardsdatascience.com/heres-how-you-can-get-a-2-6x-speed-up-on-your-data-pre-processing-with-python-847887e63be5) concurrent.futures
@@ -2520,6 +2524,7 @@ Python
 * [Generate PDF with Python - Reportlab](https://morioh.com/p/81908a4730d4)
 * [3 Insane Secret Weapons for Python](https://towardsdatascience.com/the-3-secret-weapons-that-changed-my-python-editor-forever-c99f7b2e0084) kite, mypy, sonarlint
 * [10 Tools I Use to Craft Better Python Code | by Richard Quinn | Level Up Coding](https://levelup.gitconnected.com/10-tools-i-use-to-craft-better-python-code-b9a9776a7871) Black, Eradicate, Vulture, Coverage, Pycodestyle, Pylint, Mypy, Pyflakes, Doctest, Bandit, Radon
+* [Building Tools with Python. Leveraging the open source… | by Animesh Javali | Medium](https://medium.com/@javalianimesh/building-tools-with-python-5e38fe348a47) argparse, tkinter
 * [State-of-the-art python project setup | by Nitin Aggarwal | Towards Data Science](https://towardsdatascience.com/state-of-the-art-python-project-setup-82a046fc1f20) pipenv, flake8-black, isort, mypy, pytest, coverage, VSCode
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
