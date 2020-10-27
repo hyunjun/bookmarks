@@ -137,6 +137,7 @@ Docker
   * [**GitHub Container Registry에 도커 이미지 Push 하기 - Qiita**](https://qiita.com/leechungkyu/items/f95998506d45feb15393)
   * [Dockerfile Security Best Practices - Cloudberry Engineering](https://cloudberry.engineering/article/dockerfile-security-best-practices/)
   * [Preparation toward running Docker on ARM Mac: Building multi-arch images with Docker BuildX | by Akihiro Suda | nttlabs | Medium](https://medium.com/nttlabs/buildx-multiarch-2c6c2df00ca2)
+  * [Editing files in a docker container | by Maciek Opała | SoftwareMill Tech Blog](https://blog.softwaremill.com/editing-files-in-a-docker-container-f36d76b9613c)
   * [centos](https://hub.docker.com/_/centos/)
   * couchbase
     * [Setting Up a Couchbase Cluster in 10 Minutes with Docker Compose](https://medium.com/@teivah/setting-up-a-couchbase-cluster-in-10-minutes-with-docker-and-docker-compose-61e5ccfae21a)
