@@ -2864,6 +2864,7 @@ Javascript
   * [Jest, Enzyme 을 통한 리액트 컴포넌트 유닛 테스팅](https://velopert.com/3587)
   * [How to get started: testing a Ruby-on-Rails / ReactJS app with RSpec, Jest and Enzyme](https://medium.freecodecamp.org/how-to-get-started-testing-a-ruby-on-rails-reactjs-app-with-rspec-jest-and-enzyme-d058f415894e)
   * [Testing React with Jest and Enzyme I](https://medium.com/codeclan/testing-react-with-jest-and-enzyme-20505fec4675)
+  * [Testing React with Jest and Enzyme II | by Dominic Fraser | codeburst](https://codeburst.io/testing-react-events-with-jest-and-enzyme-ii-46fbe4b8b589)
   * [How to set up Jest and Enzyme to test React Native apps](https://medium.freecodecamp.org/setting-up-jest-enzyme-for-testing-react-native-40393ca04145)
   * [How to use React Testing Library to rewrite an Enzyme Component test](https://medium.com/flatiron-labs/refactoring-an-enzyme-component-test-to-use-react-testing-library-f5c36da6716f)
   * [Difference between Shallow, Mount and render of Enzyme](https://gist.github.com/fokusferit/e4558d384e4e9cab95d04e5f35d4f913)
