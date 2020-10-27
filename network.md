@@ -201,4 +201,5 @@ Network
 * [QUIC과 HTTP/3 - 3. curl + quiche 로 HTTP3 요청해 보기](https://www.saturnsoft.net/network/2019/08/11/http3-curl-quiche/)
 * [The Maturing of QUIC](https://www.fastly.com/blog/maturing-of-quic)
 * [The state of QUIC and HTTP/3 2020 | Fastly](https://www.fastly.com/blog/state-of-quic-and-http3-2020)
+* [Benchmarking QUIC. Summer 2020 | by Alex Yu | Medium](https://medium.com/@the.real.yushuf/benchmarking-quic-1fd043e944c7)
 * [MsQuic - Cross platform C implementation of the IETF QUIC protocol](https://github.com/Microsoft/msquic)
