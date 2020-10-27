@@ -64,6 +64,7 @@ Concurrency
 * [GPU기반 병렬 프로그램](https://webedu.ksc.re.kr/movieSubjectList.es?mid=a10401000000&subj_no=42)
 * [병렬프로그래밍과 Cuda](http://www.slideshare.net/seokjoonyun9/cuda-33834381)
 * [CuPy - A NumPy-compatible matrix library accelerated by CUDA](https://cupy.chainer.org/)
+  * [Here’s How to Use CuPy to Make Numpy Over 10X Faster | by George Seif | Towards Data Science](https://towardsdatascience.com/heres-how-to-use-cupy-to-make-numpy-700x-faster-4b920dda1f56)
 * [grandstayner.tistory.com/category/Parallel Programming/CUDA](http://grandstayner.tistory.com/category/Parallel%20Programming/CUDA)
 * [Use multiple versions of CUDA](https://jybaek.tistory.com/779)
 * [병렬프로그래밍 경북대학교 백낙훈](http://www.kocw.net/home/search/kemView.do?kemId=1322170) 강의
