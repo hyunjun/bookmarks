@@ -390,6 +390,7 @@ Data Visualization
 * [Matplotlib: 폰트 기본 경로를 찾을 수 없을 때](http://ohgyun.com/769) mac font directory 설정 변경
 * [Simple Method of Creating Animated Graphs](https://towardsdatascience.com/simple-method-of-creating-animated-graphs-127c11f58cc5)
 * [subplot 기능을 활용하여 캔들차트와 보조지표 그리기](http://blog.alphasquare.co.kr/221423888281)
+* [4 Ways to Make Subplots | Pega Devlog](https://jehyunlee.github.io/2020/10/27/Python-DS-41-subplots/)
 * [Matplotlib — Making data visualization interesting](https://towardsdatascience.com/matplotlib-making-data-visualization-interesting-8bac1eb3d25c)
 * [Matplotlib tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl)
 * [Animations with Matplotlib](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)
