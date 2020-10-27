@@ -1308,6 +1308,7 @@ App
   * [Windows10 WSL2에 Docker 설치](https://bloodguy.tistory.com/1087)
   * [WSL2(Windows Subsystem for Linux 2) 설치 및 사용 방법](https://www.44bits.io/ko/post/wsl2-install-and-basic-usage)
   * [WSL2 설치 및 Docker 환경 구축 : 네이버 블로그](https://blog.naver.com/ilikebigmac/222007741507)
+  * [Docker container to WSL convert](https://gist.github.com/rkttu/c45c1831a8a3cd4c359193ce593311df)
   * [WSL 2.0 Global configuration (.wslconfig) 을 통한 성능 향상](https://kibua20.tistory.com/63)
   * [Getting started with CUDA on Ubuntu on WSL 2 | Ubuntu](https://ubuntu.com/blog/getting-started-with-cuda-on-ubuntu-on-wsl-2)
   * [GPU Accelerated Machine Learning with WSL 2 - YouTube](https://www.youtube.com/watch?v=PdxXlZJiuxA)
