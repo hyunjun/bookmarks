@@ -207,6 +207,7 @@ Algorithm
 * [na982 :: 삼성 SW 역량 테스트 어른 상어](https://na982.tistory.com/128)
 * [An Illustrative Introduction to Dynamic Time Warping | by Esmaeil Alizadeh | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/an-illustrative-introduction-to-dynamic-time-warping-36aa98513b98) DTW
 * [배열에서 가장 큰 직사각형 구하기 : 관찰을 통해 풀어봅시다.](https://codingdog.tistory.com/entry/%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95-%EA%B5%AC%ED%95%98%EA%B8%B0-%EA%B4%80%EC%B0%B0%EC%9D%84-%ED%86%B5%ED%95%B4-%ED%92%80%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4)
+* [Maximum Perimeter Triangle with Greedy Approach | by Pulsara Sandeepa | Oct, 2020 | Level Up Coding](https://levelup.gitconnected.com/maximum-perimeter-triangle-with-greedy-approach-bd6279471d2e)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
