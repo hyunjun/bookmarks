@@ -255,7 +255,6 @@ Javascript
 * [제너레이터 사용 중 실수](https://medium.com/@jooyunghan/%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9A%A9-%EC%A4%91-%EC%8B%A4%EC%88%98-d80e4429a366)
 * [CPS로 스택오버플로 회피하기](https://medium.com/@jooyunghan/cps%EB%A1%9C-%EC%8A%A4%ED%83%9D%EC%98%A4%EB%B2%84%ED%94%8C%EB%A1%9C-%ED%9A%8C%ED%94%BC%ED%95%98%EA%B8%B0-11db11eb8d75)
 * [JS 제너레이터에서 throw/catch](https://medium.com/@jooyunghan/js-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0%EC%97%90%EC%84%9C-throw-catch-60fd61bef2a0)
-* [Let’s experiment with functional generators and the pipeline operator in JavaScript](https://medium.freecodecamp.org/lets-experiment-with-functional-generators-and-the-pipeline-operator-in-javascript-520364f97448)
 * [JS에 Applicative/Traversable 적용하기](https://medium.com/@jooyunghan/js%EC%97%90-applicative-traversable-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-a03147e0de94)
 * [generator/interpreter 패턴?](https://medium.com/@jooyunghan/generator-interpreter-%ED%8C%A8%ED%84%B4-a3aecd71c431)
 * [Generator 이해하기](https://armadillo-dev.github.io/javascript/what-is-generator/)
@@ -653,6 +652,10 @@ Javascript
   * [Mastering JS console.log like a Pro](https://medium.com/javascript-in-plain-english/mastering-js-console-log-like-a-pro-1c634e6393f9)
 * maps
   * [Turn JavaScript Objects in Maps for Predictability](https://medium.com/better-programming/make-your-javascript-objects-more-predictable-by-creating-maps-20ac1a795442)
+* optional chaining '?.' [How Optional Chaining Made My Code Awesome | by Harsha Vardhan | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/how-optional-chaining-made-my-code-awesome-e9c55ba53da)
+* pipeline
+  * [Let’s experiment with functional generators and the pipeline operator in JavaScript](https://medium.freecodecamp.org/lets-experiment-with-functional-generators-and-the-pipeline-operator-in-javascript-520364f97448)
+  * [The State of Piping in JavaScript | by Christofer Eliasson | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/the-state-of-piping-in-javascript-ccbead18b971)
 * undefined
   * [undefined 와 null 의 차이점은 무엇인가요?](https://developer88.tistory.com/272)
   * [JavaScript — Null vs. Undefined](https://codeburst.io/javascript-null-vs-undefined-20f955215a2)
@@ -2236,6 +2239,7 @@ Javascript
 * [Top 5 React-Native Courses for Mobile Application Developers](https://medium.com/hackernoon/top-5-react-native-courses-for-mobile-application-developers-b82febdf8a46)
 * [Reactjs JavaScript Tutorial - Full Course 10 Hours (2020)](https://morioh.com/p/e183701d79aa)
 * [React Full Course - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://morioh.com/p/34eeae8b4e34)
+* [Useful Custom Hooks for Tired React Devs | by Tom Norton | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/useful-custom-hooks-for-tired-react-devs-f2f602dc754f)
 * [How to build Chrome extensions with React + Parcel](https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f)
 * [How to Use Code-Splitting With React and Parcel](https://medium.com/better-programming/how-to-use-code-splitting-with-react-and-parcel-e8bb37be4160)
 * [React Authentication in Depth](https://hackernoon.com/react-authentication-in-depth-4deebda9aa45)
@@ -2260,6 +2264,7 @@ Javascript
 * [Let’s fall in love with React Fiber](https://medium.freecodecamp.org/lets-fall-in-love-with-react-fiber-90f2e1f68ded)
 * [create-react-app --scripts-version=react-scripts-ts를 이용하여 프로젝트 구성](https://github.com/kjk7034/create-react-app-typescript)
 * [Create-react-app v3, 무엇이 달라졌을까?](https://john015.github.io/create-react-app-v-3-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%AC%EB%9D%BC%EC%A1%8C%EC%9D%84%EA%B9%8C)
+* [What’s The Difference Between NextJS and Create-React-App? | Frontend Digest](https://medium.com/frontend-digest/whats-the-difference-between-nextjs-and-create-react-app-11b55650a612)
 * [Setting A React Project From Scratch Using Babel And Webpack](https://blog.bitsrc.io/setting-a-react-project-from-scratch-using-babel-and-webpack-5f26a525535d)
 * [Presentational and Container Components](https://medium.com/@seungha_kim_IT/presentational-and-container-components-%EB%B2%88%EC%97%AD-1b1fb2e36afb)
 * [ReactEurope 2018](https://devwaf.blogspot.com/2018/06/reacteurope-2018.html)
@@ -2541,6 +2546,7 @@ Javascript
 * [Introducing the New JSX Transform – React Blog](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html)
 * [react 리액트와 socket.io를 활용한 랜덤강화게임(+ 채팅)](https://blog.naver.com/pjt3591oo/222106661530)
 * [How You Should Structure Your React Applications | by Thomas Guibert | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98)
+* [React — How To Proxy To Backend Server | by Bhargav Bachina | Bachina Labs | Medium](https://medium.com/bb-tutorials-and-thoughts/react-how-to-proxy-to-backend-server-5588a9e0347)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
