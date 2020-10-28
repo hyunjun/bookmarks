@@ -454,6 +454,7 @@ Docker
 * [**Docker 컨테이너의 로그 크기 조절**](http://mcchae.egloos.com/11358726) logging
 * [Docker for Mac Edge 채널에 Mutagen 기반 캐싱 기능 추가](https://www.44bits.io/ko/post/news--docker-desktop-for-mac-edge-channel-with-mutagen-based-caching)
 * [Rootless Containers: The Next Trend in Container Security](https://unit42.paloaltonetworks.com/rootless-containers-the-next-trend-in-container-security/)
+* [Experimenting with Rootless Docker | by Tõnis Tiigi | Medium](https://medium.com/@tonistiigi/experimenting-with-rootless-docker-416c9ad8c0d6)
 * [Gluster FS 설치 및 셋팅 방법](https://judo0179.tistory.com/78)
 * [흔들리는 도커(Docker)의 위상: OCI와 CRI 중심으로 재편되는 컨테이너 생태계](https://www.samsungsds.com/global/ko/support/insights/docker.html)
 * [Docker: You Are Doing it Wrong. Become a Docker power user with VS Code… | by Dimitris Poulopoulos | Towards Data Science](https://towardsdatascience.com/docker-you-are-doing-it-wrong-e703075dd67b)
@@ -841,6 +842,7 @@ Docker
 * [Kubernetes에서 NFS(EFS) 사용하기 | PSH's Blog](https://pseonghoon.github.io/post/k8s-and-nfs)
 * [Canonical introduces high-availability Micro-Kubernetes | ZDNet](https://www.zdnet.com/article/canonical-introduces-high-availability-micro-kubernetes/)
 * [How a Kubernetes Pod Gets an IP Address | Ronak Nathani](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/)
+* [CI/CD Pipelines With Kubernetes in Docker (KinD) | Better Programming](https://medium.com/better-programming/accelerate-your-ci-cd-pipelines-with-kubernetes-in-docker-kind-109a67b39c82)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
