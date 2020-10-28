@@ -845,13 +845,6 @@ Apache
   * 이 글에서는 그 이유를 설명하고 정렬할 column을 파악하는 방법에 대한 아이디어 제공
 * [**Parquet Internal Part 1. Google Dremel(1)**](https://medium.com/@leeyh0216/parquet-internal-part-1-google-dremel-1-3b95e1136a05)
 
-# [Pig](http://pig.apache.org/)
-* [A Simple Explanation of COGROUP in Apache Pig](http://joshualande.com/cogroup-in-pig/)
-* [practice - gist.github.com/hyunjun/55f83bfd91e2b1e24f46](https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46)
-* [hug number of part files](https://github.com/dsindex/blog/wiki/%5Bpig%5D-hug-number-of-part-files)
-* [Hadoop Tutorial: Pig Part 2 -- Joining Data Sets and Other Advanced Topics](http://www.slideshare.net/martyhall/hadoop-tutorial-pig-part-2-joining-data-sets-and-other-advanced-topics)
-* [Hadoop Pig Tutorial](https://medium.com/@ananthis740/hadoop-pig-tutorial-7f3b827b25cb)
-
 # [Phoenix](http://phoenix.apache.org/) High performance relational database layer over HBase for low latency applications
 * [Apache Phoenix Joins Cloudera Labs](http://blog.cloudera.com/blog/2015/05/apache-phoenix-joins-cloudera-labs/)
 * [Apache Phoenix: Use Cases and New Features](http://www.slideshare.net/HBaseCon/apache-phoenix-use-cases-and-new-features)
@@ -864,6 +857,17 @@ Apache
 * [3 Steps for Bulk Loading 1M Records in 20 Seconds Into Apache Phoenix](https://medium.com/hashmapinc/3-steps-for-bulk-loading-1m-records-in-20-seconds-into-apache-phoenix-99b77ad87387) Apache Spark를 사용하여 Apache HBase 및 Apache Phoenix와 호환하는 HFile을 생성하는 방법 설명
 * [Apache Phoenix for CDH](https://www.cloudera.com/downloads/phoenix.html)
   * [Apache Phoenix for CDH](https://blog.cloudera.com/blog/2019/07/apache-phoenix-for-cdh)
+
+# [Pig](http://pig.apache.org/)
+* [A Simple Explanation of COGROUP in Apache Pig](http://joshualande.com/cogroup-in-pig/)
+* [practice - gist.github.com/hyunjun/55f83bfd91e2b1e24f46](https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46)
+* [hug number of part files](https://github.com/dsindex/blog/wiki/%5Bpig%5D-hug-number-of-part-files)
+* [Hadoop Tutorial: Pig Part 2 -- Joining Data Sets and Other Advanced Topics](http://www.slideshare.net/martyhall/hadoop-tutorial-pig-part-2-joining-data-sets-and-other-advanced-topics)
+* [Hadoop Pig Tutorial](https://medium.com/@ananthis740/hadoop-pig-tutorial-7f3b827b25cb)
+
+# Pinot
+* [Apache Pinot™ (Incubating): Realtime distributed OLAP datastore | Apache Pinot™ (Incubating)](https://pinot.apache.org/)
+* [Introducing Apache Pinot 0.5.0. We are excited to announce that Apache… | by Ting Chen | Apache Pinot Developer Blog | Sep, 2020 | Medium](https://medium.com/apache-pinot-developer-blog/introducing-apache-pinot-0-5-0-e27983b6a678)
 
 # [PredictionIO](http://predictionio.incubator.apache.org/)
 * [incubator-predictionio - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray. http://prediction.io ](https://github.com/apache/incubator-predictionio)
