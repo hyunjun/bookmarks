@@ -337,6 +337,7 @@ Functional Programming
 * [Daniel Kirsch - Functional Programming in Python - YouTube](https://www.youtube.com/watch?v=r2eZ7lhqzNE)
 * [FP demystified - YouTube](https://www.youtube.com/watch?v=p9_r36fIrqc)
 * [PyCon AU 2018 | FP demystified](https://2018.pycon-au.org/talks/45075-fp-demystified/)
+* [Going Functional in Python (with code) | by Hair Parra | Analytics Vidhya | Sep, 2020 | Medium](https://medium.com/analytics-vidhya/going-functional-in-python-with-code-b50ba7742469)
 * [Monads, in my Python? by Xuanyi Chew - YouTube](https://www.youtube.com/watch?v=WNwV3wR4JjA)
 * [Monads in Python: Why and How? - YouTube](https://www.youtube.com/watch?v=26jVysJHB-s)
   * [vincent-prz/monad_comprehension.py](https://github.com/vincent-prz/monad_comprehension.py)
