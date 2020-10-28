@@ -409,6 +409,8 @@ Python
 * [Understanding Python Operator Overloading to prevent wrong code | by Doojin Kang | Aug, 2020 | Medium](https://medium.com/@doojin.kang/understanding-python-operator-overloading-to-prevent-wrong-code-a96668e6c263)
 * [Chiel Peters - Python: From Source to Execution | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=xfC5o8HxaBk)
 * [Clean Code in Python. “A long descriptive name is better than… | by Esteban Solorzano | Dev Genius | Medium](https://medium.com/dev-genius/clean-code-in-python-8251eea292fa)
+* [Use Python to Power Up Your Day Job | by Martin Andersson Aaberge | Better Programming | Medium](https://medium.com/better-programming/how-to-use-python-to-power-up-your-day-job-c6cd835a7c92)
+* [The Unseen Pitfalls of Python. Because 257 is not 257 but 256 is 256 | by Salvador Aleguas | codeburst](https://codeburst.io/the-unseen-pitfalls-of-python-7ca57f021d08)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -823,6 +825,7 @@ Python
   * [9 Things to Know to Master List Comprehensions in Python](https://medium.com/better-programming/9-things-to-know-to-master-list-comprehensions-in-python-8bc0411ec2ed)
   * [파이썬의 Comprehension 소개](https://mingrammer.com/introduce-comprehension-of-python)
   * [3 Python list comprehension tricks you might not know yet](https://levelup.gitconnected.com/3-python-list-comprehension-tricks-you-might-not-know-yet-5891d904ee76)
+  * [Python List Comprehensions in 5-minutes | by Daniel Bourke | Towards Data Science](https://towardsdatascience.com/python-list-comprehensions-in-5-minutes-40a68cbe4561)
   * [Python Comprehension. A guided tour and quick start. | by Keno Leon | Medium](https://medium.com/@k3no/python-comprehension-885cd3f27f4a)
   * [**파이썬에서 2중 리스트를 flatten하게 만들기**](https://winterj.me/list_of_lists_to_flatten/)
   * [Python - 리스트 순회중 수정하는 문제](https://ash84.net/2017/06/29/common-mistake-5-modifying-a-list-while-iterating-over-it/)
