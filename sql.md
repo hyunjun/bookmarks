@@ -192,6 +192,7 @@ SQL
 * [Less passwords, more security: unix socket authentication and other MariaDB hardening tips](https://www.slideshare.net/ottokekalainen/less-passwords-more-security-unix-socket-authentication-and-other-mariadb-hardening-tips)
 * [Observability Differences Between MySQL 8 and MariaDB 10.4](https://www.percona.com/blog/2020/02/05/observability-differences-between-mysql-8-and-mariadb-10-4/)
 * [Streaming backups in parallel using tee | DBA Dojo](https://dbadojo.com/2020/09/02/streaming-backups-in-parallel-using-tee/)
+* [팁 MariaDB 사용자별 최대 쿼리 실행 시간 다르게 주기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/tip-mariadb-max-statement-time-per-user)
 * [Authentication Plugin - Unix Socket](https://mariadb.com/kb/en/authentication-plugin-unix-socket/)
 * [ClustrixDB](https://mariadb.com/products/clustrixdb/) distributed RDB
 * [mariadb-cdc로 MariaDB CDC 사용하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/mariadb-cdc-intro)
