@@ -471,6 +471,7 @@ Python
 * [3 easy and noninvasive Ways to instantly boost your Python Code Performance](https://towardsdatascience.com/3-easy-and-noninvasive-ways-to-instantly-boost-your-python-code-performance-b21cd823f37e)
 * [File Handling in Python](https://medium.com/techtofreedom/file-handling-in-python-daee4586a64)
 * [Ten Python development skills. | Towards Data Science](https://towardsdatascience.com/ten-python-development-skills-998a52f8f7c0)
+* [7 Ways to Take Your New Python Skills to the Next Level | by Martin Andersson Aaberge | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/7-ways-to-take-your-new-python-skills-to-the-next-level-1698335844bd)
 * [Change The Way You Write Python Code With One Extra Character | by Dorel Masasa | The Startup | Medium](https://medium.com/swlh/change-the-way-you-write-python-code-with-one-extra-character-6665b73803c1) asterisk, args, kwargs
 * [9 Skills That Separate Beginners From Intermediate Python Programmers | by Martin Andersson Aaberge | Better Programming | Medium](https://medium.com/better-programming/9-skills-that-separate-a-beginner-from-an-intermediate-python-programmer-8bbde735c246)
 * [Equality vs Identity vs Membership Operation in Python | by Indhumathy Chelliah | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/equality-vs-identity-vs-membership-operation-in-python-76a1dbd69d6c) `==`, `is`, `in`
@@ -805,6 +806,7 @@ Python
   * [Python Functions - lambda 2015](http://www.bogotobogo.com/python/python_functions_lambda.php)
   * [A tale of two lambdas: The joys of working in a polyglot team](http://dev.otto.de/2015/06/23/a-tale-of-two-lambdas-2/)
   * [파이썬+Lambda+이해하기 20160315](http://www.slideshare.net/dahlmoon/lambda-20160315)
+  * [Python Lambda Expressions in Data Science | by Sohaib Ahmad | Code Python | Sep, 2020 | Medium](https://medium.com/code-python/python-lambda-expressions-in-data-science-a25625e3038d)
   * [Anjana Vakil - Mary had a little lambda](https://www.youtube.com/watch?v=7BsfMMYvGaU)
     * funcional programming in scala에서 하던 것과 비슷하게 lambda를 이용해 숫자를 정의하고 int로 변환하고 arithmetic operation등을 만듦
 * json
@@ -1172,6 +1174,7 @@ Python
   * [Useful String Methods in Python](https://towardsdatascience.com/useful-string-methods-in-python-5047ea4d3f90)
   * [String interpolation in Python and R](https://www.johndcook.com/blog/2019/09/12/string-interpolation/)
   * [Interpy = Python String Interpolation](https://github.com/syrusakbary/interpy)
+  * [String Formatting in Python — 6 Things to Know About f-strings | by Yong Cui, Ph.D. | The Startup | Medium](https://medium.com/swlh/string-formatting-in-python-6-things-to-know-about-f-strings-72fd38d96172)
   * [Converting Between Strings and Lists in Python](https://www.youtube.com/watch?v=vhzxtXwIHYI)
   * [10 Python String Processing Tips & Tricks](https://www.kdnuggets.com/2020/01/python-string-processing-primer.html)
   * [How do I remove letters from a string in Python?](https://www.quora.com/How-do-I-remove-letters-from-a-string-in-Python)
@@ -1305,6 +1308,7 @@ Python
 * [zzzeek : Asynchronous Python and Databases](https://techspot.zzzeek.org/2015/02/15/asynchronous-python-and-databases)
 * [Fast & Asynchronous in Python. Accelerate Your Requests Using asyncio | by Dylan Castillo | Towards Data Science](https://towardsdatascience.com/fast-and-async-in-python-accelerate-your-requests-using-asyncio-62dafca83c33)
 * [Stop Waiting! Start using Async and Await! | by Simon Hawe | Towards Data Science](https://towardsdatascience.com/stop-waiting-start-using-async-and-await-18fcd1c28fd0)
+* [An Introduction to Asynchronous Programming in Python | by Konopka Kodes Blog | Medium](https://medium.com/@KonopkaKodes/an-introduction-to-asynchronous-programming-in-python-6809a4385f69)
 * youtube
   * [**Fear and Awaiting in Async (Screencast)**](https://www.youtube.com/watch?v=Bm96RqNGbGo)
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
@@ -2340,6 +2344,7 @@ Python
 * [Miki Tebeka - IPython: The Productivity Booster - YouTube](https://www.youtube.com/watch?v=Zmo2ZN1SJ_Q)
 * [William Horton - A Brief History of Jupyter Notebooks - YouTube](https://www.youtube.com/watch?v=kFhhCOeYcGw)
 * [Making data science notebook collaborative - Jan Matas PyData Prague #8 2020 - YouTube](https://www.youtube.com/watch?v=GQr1uMK74F4)
+* [9 things you did not know about jupyter notebook | by Magdalena Konkiewicz | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3)
 
 ## Jupyter Library
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
