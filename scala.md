@@ -1785,3 +1785,4 @@ Scala
 * [**Tour of Scala | Home**](https://tourofscala.com) ???를 제거해서 code snippet을 완성하는 연습
 * [Programmering, grundkurs (2020) - YouTube](https://www.youtube.com/playlist?list=PLEV42dlCGAJ-0925_wTUFt_XiXfnimIVX)
 * [Why Scala? | An introduction by Adam Warski - YouTube](https://www.youtube.com/watch?v=t7SOXNJVbJo)
+* [ScalaZONE - Scala 3 Programming Language Courses](https://scala.zone/)
