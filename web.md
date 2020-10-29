@@ -200,6 +200,7 @@ Web
   * `apt-get install -y libapr1-dev libaprutil1-dev libpcre3-dev apache2-dev apache2`
   * [Apache httpd 를 컴파일로 설치하기](https://springboot.cloud/21)
   * [(리눅스 업스킬 도전 #7) 웹 서버인 아파치 설치](https://jhrogue.blogspot.com/2020/09/7.html)
+  * [How To Install Apache on macOS 10.15 Catalina Using Homebrew | by Casey McMullen | Better Programming | Medium](https://medium.com/better-programming/how-to-install-apache-on-macos-10-15-catalina-using-homebrew-78373ad962eb)
 * [9 Tips to Use Apachectl and Httpd like a Power User](http://www.thegeekstuff.com/2008/08/9-tips-to-use-apachectl-and-httpd-like-a-power-user/)
 * [설정 파일의 주석 위치가 일으킨 Apache의 응답 속도 저하](http://d2.naver.com/helloworld/4744401) 주석을 설정 지시어와 같은 줄에 사용할 수 없다
 * [Apache 서버 설정으로 특정 IP 막기](http://ngee.tistory.com/209)
@@ -620,6 +621,7 @@ Web
 * [웹 크롤링 기초 - 네이버 개발자센터 지역 검색 Open API 사용하기 미래 실험실 Python](https://www.youtube.com/watch?v=DZ38p5O6CJE)
 * [The Alternative to Web Scraping. The “lazy” programmer’s guide to… | by Doug Guthrie | Towards Data Science](https://towardsdatascience.com/the-alternative-to-web-scraping-8d530ae705ca)
 * [django-tdd-restful-api](https://github.com/elastic7327/django-tdd-restful-api)
+* eel [Create HTML User Interface for Python using Eel Library | by Utsav Datta | WronmberTech | Medium](https://medium.com/wronmbertech/create-html-user-interface-for-python-using-eel-library-bab101cc0f99)
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
 * [Lektor - Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app](https://github.com/lektor/lektor)
 * mod_wsgi
