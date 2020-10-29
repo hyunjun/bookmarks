@@ -984,6 +984,7 @@ Docker
   * [Podman and Buildah for Docker users](https://developers.redhat.com/blog/2019/02/21/podman-and-buildah-for-docker-users)
   * [Replacing Docker with Podman — Power of Podman — Cloudnweb](https://medium.com/@ganeshmani009/replacing-docker-with-podman-power-of-podman-cloudnweb-23cfb7541538)
   * [**Podman 기본명령어 튜토리얼**](https://qiita.com/leechungkyu/items/50c3d96a69239a7e4f7f)
+  * [컨테이너 기술:: Docker와 Podman](https://naleejang.tistory.com/227)
 * [QUARKUS - Supersonic Subatomic Java A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards](https://quarkus.io/)
   * [Why Quarkus](http://in.relation.to/2019/03/08/why-quarkus/)
   * [Quarkus란?](https://www.redhat.com/ko/topics/cloud-native-apps/what-is-quarkus)
