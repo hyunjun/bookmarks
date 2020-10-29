@@ -501,6 +501,7 @@ App
     * [Use VSCode Like a Senior Developer | by bitfish | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/use-vscode-like-a-senior-developer-9b54054c452a)
     * [Making Visual Studio Code Better 🔥✨🛠 | by Spencer Pollock | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/making-visual-studio-code-better-e72105809bf2)
     * [10 Essential Tips and Tricks Every Developer Should Master in Visual Studio Code | by shaden bsharat | Level Up Coding](https://levelup.gitconnected.com/10-essential-tips-and-tricks-every-developer-should-master-in-visual-studio-code-42801b3b71fe)
+    * [VS Code’s REST Client Plugin is All You Need to Make API Calls | by Paige Niedringhaus | Oct, 2020 | Bits and Pieces](https://blog.bitsrc.io/vs-codes-rest-client-plugin-is-all-you-need-to-make-api-calls-e9e95fcfd85a)
     * Debug
       * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
       * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
@@ -526,6 +527,7 @@ App
       * [CodeTour VSCode extension allows you to produce interactive guides, assessments and tutorials](https://techcommunity.microsoft.com/t5/educator-developer-blog/codetour-vscode-extension-allows-you-to-produce-interactive/ba-p/1274297#)
       * [20 Best VS Code Extensions for Productive Web Development in 2020](https://towardsdatascience.com/20-best-vs-code-extensions-for-productive-web-development-in-2020-95bf904ceb69)
       * [VS Code extensions that make me fall in love with programming each day | by Madhav Bahl | codeburst](https://codeburst.io/vs-code-extensions-that-make-me-fall-love-in-programming-each-day-ccf05b24651e)
+      * [Visual Studio Code for Data Science — the Power User’s guide | by Rohith Kumar Sajja | DataSeries | Medium](https://medium.com/dataseries/visual-studio-code-for-data-science-the-power-users-guide-3a20b8630a)
     * Online
       * [Visual Studio Online 어디에서든 액세스 가능한 클라우드 기반 개발 환경](https://visualstudio.microsoft.com/ko/services/visual-studio-online/)
       * [visual studio online tutorial | 사용법부터 장점과 단점까지 !](https://www.youtube.com/watch?v=HUhFSbwvloM)
