@@ -617,6 +617,7 @@ Machine Learning
 * [Learning Machine Learning | Cloud AI | Google Cloud](https://cloud.google.com/products/ai/ml-comic-1)
 * [Learning Neural Networks | Cloud AI | Google Cloud](https://cloud.google.com/products/ai/ml-comic-2)
 * [Is Machine Learning the Right Tool?](https://www.infoq.com/presentations/machine-learning-right-tool/)
+* [Building Machine Learning infra](https://morioh.com/p/b0384838c50f)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
