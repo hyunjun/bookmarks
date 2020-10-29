@@ -2192,6 +2192,7 @@ Javascript
 * [How I structure React apps. Because structuring an app is like… | by Chetan Raj | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/how-i-structure-react-apps-a76304277786)
 * [React Component Patterns](https://levelup.gitconnected.com/react-component-patterns-ab1f09be2c82)
 * [번역 탄력적인 컴포넌트 작성하기](https://blog.rhostem.com/posts/2019-07-14-writing-resilient-components)
+* [리액트에서 적절한 리액트 컴포넌트를 사용을 위한 차이를 알아보자](https://github.com/sangheon-kim/React-docs-analyze/blob/master/src/Components/ComponentType/README.md)
 * [Evolving Patterns in React](https://medium.freecodecamp.org/evolving-patterns-in-react-116140e5fe8f)
 * [Design Patterns with React Easy State](https://medium.com/dailyjs/design-patterns-with-react-easy-state-830b927acc7c)
 * [React in patterns](https://krasimir.gitbooks.io/react-in-patterns/)
