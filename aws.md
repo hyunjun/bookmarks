@@ -613,6 +613,7 @@ AWS
 * [EC2 키 분실 후 대응 방법](https://jhrogue.blogspot.com/2020/07/5-ec2.html)
 * [AWS EC2의 Timezone KST로 변경하기 (Amazon Linux 1)](https://jojoldu.tistory.com/513)
 * [AWS EC2 인스턴스에 부하 생성하는 간단한 방법: 네이버블로그](http://blog.naver.com/sehyunfa/222055079238)
+* [(리눅스 업스킬 도전 #22-a) EC2 인스턴스에서 계정 추가 후 공개 키 등록 방법](https://jhrogue.blogspot.com/2020/10/22-ec2.html)
 
 # EKS
 * [awesome-eks | A curated list of awesome tools for Amazon EKS](https://realvz.github.io/awesome-eks/)
@@ -813,6 +814,7 @@ AWS
 * [netlify로 정적 사이트 배포하기](https://blog.outsider.ne.kr/1417)
   * [Netlify Dev 기능으로 개발 중인 사이트 Netlify에 배포하기](https://blog.outsider.ne.kr/1438)
 * [pingcloud-cli - CLI application to check http request latency of AWS, Google Cloud Platform and Azure](https://github.com/reoim/pingcloud-cli)
+* [Sleemo – A new way to develop serverless GraphQL backend using AWS AppSync | Developers.IO](https://dev.classmethod.jp/articles/sleemo-introduction/)
 * [ssh-over-ssm Configure SSH and use AWS SSM to connect to instances](https://github.com/elpy1/ssh-over-ssm)
 * [Up – deploy serverless apps in seconds](https://medium.freecodecamp.org/up-b3db1ca930ee)
 * [You Still Hot - AWS Lambda 및 Google Cloud Functions의 Cold Start 문제를 해결하기 위한 스케줄러 애플리케이션](https://github.com/Hanul/YouStillHot)
