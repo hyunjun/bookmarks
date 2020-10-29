@@ -617,6 +617,7 @@ Deep Learning
   * [How to Train Your ResNet - 8: Bag of Tricks](https://colab.research.google.com/github/davidcpage/cifar10-fast/blob/master/bag_of_tricks.ipynb#scrollTo=6IGml3SMd6ID) ipynb
 * [AI For Filmmaking Recognising Shot Types with ResNets](https://rsomani95.github.io/ai-film-1.html)
 * [ResNet: The Most Popular Network in the Computer-Vision Era](https://towardsdatascience.com/resnet-the-most-popular-network-in-computer-vision-era-973df3e92809)
+* [ResNet: Deep Residual Learning for Image Recognition (꼼꼼한 딥러닝 논문 리뷰와 코드 실습) - YouTube](https://www.youtube.com/watch?v=671BsKl8d0E)
 * [Software 2.0](https://medium.com/@karpathy/software-2-0-a64152b37c35)
 * [Estimating an Optimal Learning Rate For a Deep Neural Network](https://medium.com/@surmenok/estimating-optimal-learning-rate-for-a-deep-neural-network-ce32f2556ce0)
 * [Improving the way we work with learning rate](https://techburst.io/improving-the-way-we-work-with-learning-rate-5e99554f163b)
