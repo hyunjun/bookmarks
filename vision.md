@@ -192,6 +192,7 @@ Vision
   * [Common Understanding about YOLO](https://www.slideshare.net/ssuserea05e4/common-understanding-about-yolo-125713439)
   * [One-shot object detection](https://machinethink.net/blog/object-detection/)
   * [windows환경/darknet/ 점수내기 - DACON](https://dacon.io/codeshare/1717)
+  * [YOLO Real time object detection on CPU](https://morioh.com/p/78141aa5a374)
   * v2
     * [이미지 Detection 문제와 딥러닝: YOLOv2로 얼굴인식하기](http://research.sualab.com/machine-learning/computer-vision/2018/05/14/image-detection-deep-learning.html)
     * [Object Detection using YOLOv2 in darkflow](https://github.com/deep-diver/Object-Detection-YOLOv2-Darkflow)
