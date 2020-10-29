@@ -274,6 +274,7 @@ Android
 * [Jetpack을 통해 더 빠른 앱 개발](https://developers-kr.googleblog.com/2018/05/jetpack.html)
   * [Android Studio Jetpack Compose & Sample App](http://pluu.github.io/blog/android/2019/05/19/jetpack-compose/)
   * [애드몹 앱 오프닝 광고 - 앱 시작/복귀시 자동으로 광고 표시하기](https://www.androidhuman.com/2020-10-26-automatic_admob_app_open_ads)
+  * [Pluu Dev - Jetpack Compose 공부 ~ 1주차](http://pluu.github.io/blog/android/2020/10/28/jetpack-compose/)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * Koin
   * [Android + DI + KOIN = Easy?!](http://pluu.github.io/blog/android/2018/11/25/android-di-koin-easy/)
