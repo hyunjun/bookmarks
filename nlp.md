@@ -606,6 +606,7 @@ NLP
 * [How do Dialogue Systems decide what to say or which actions to take?](https://medium.com/wluper/how-do-dialogue-systems-decide-what-to-say-or-which-actions-to-take-b32ca223aff1)
 * [구글의 Open-Domain 챗봇 'Meena' 논문 리뷰](https://blog.pingpong.us/meena-presentation/)
 * [Build a WhatsApp Chatbot With Ruby, Sinatra, and Twilio](https://medium.com/better-programming/build-a-whatsapp-chatbot-with-ruby-sinatra-and-twilio-69482ea1e8e8)
+* [Dialogue Generation](https://pingpong.us/ko/generation/)
 
 ## ChatBot Python
 * [Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
