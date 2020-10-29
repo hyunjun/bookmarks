@@ -650,6 +650,7 @@ Javascript
   * [How to use the JavaScript console: going beyond console.log()](https://medium.freecodecamp.org/how-to-use-the-javascript-console-going-beyond-console-log-5128af9d573b)
   * [console.log에서 css 사용하기](https://www.youtube.com/watch?v=RcwrSBvJOaw)
   * [Mastering JS console.log like a Pro](https://medium.com/javascript-in-plain-english/mastering-js-console-log-like-a-pro-1c634e6393f9)
+  * [Stop Using console.log() In JavaScript | by Harsha Vardhan | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/stop-using-console-log-in-javascript-d29d6c24dc26)
 * maps
   * [Turn JavaScript Objects in Maps for Predictability](https://medium.com/better-programming/make-your-javascript-objects-more-predictable-by-creating-maps-20ac1a795442)
 * optional chaining '?.' [How Optional Chaining Made My Code Awesome | by Harsha Vardhan | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/how-optional-chaining-made-my-code-awesome-e9c55ba53da)
@@ -1081,6 +1082,7 @@ Javascript
 * [Fullstack React GraphQL TypeScript Tutorial - YouTube](https://www.youtube.com/watch?v=I6ypD7qv3Z8)
 * [server GraphQL 파헤쳐 보기 4.. : 네이버블로그](https://blog.naver.com/pjt3591oo/222092932667)
 * [How to Query in GraphQL. The basics of GraphQL, Querying and… | by Keno Leon | Medium](https://medium.com/@k3no/how-to-query-in-graphql-6ebb3f7085dc)
+* [GraphQL vs Rest | Benefits of GraphQL | Level Up Coding](https://levelup.gitconnected.com/6-months-of-using-graphql-faa0fb68b4af)
 * [xgenecloud: Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)](https://github.com/xgenecloud/xgenecloud)
 
 # Gulp
@@ -1880,6 +1882,7 @@ Javascript
 * axios
   * [client 인증(Athentication) & 인가(Ahtuorization) handler 구현 - 클라이언트편](https://blog.naver.com/pjt3591oo/222121552945)
   * [axios 활용 - Authentication & Authorization 블로그 정리 - YouTube](https://www.youtube.com/watch?v=sQgi9oQHu3I)
+  * [What is Axios and how to use it with React 🚀 | by Adam Kiss | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/what-is-axios-and-how-to-use-it-with-react-1470d19e1b83)
   * [axios-logger - Beautify Axios Logging Messages](https://github.com/hg-pyun/axios-logger)
 * [black-screen - A terminal emulator for the 21st century](https://github.com/shockone/black-screen)
 * [blessed - A high-level terminal interface library for node.js](https://github.com/chjj/blessed)
@@ -2673,6 +2676,7 @@ Javascript
 * [비주얼 타이머 앱 개발하며 배운 것들 | 매일 성장하기 - 김용균](https://edykim.com/ko/post/what-i-have-learned-from-visual-timer/)
 * [React Native에서 ESLint, Prettier를 프로처럼 사용하기 - React Native 프로젝트에 ESLint와 Prettier를 적용하는 방법과 Husky, lint-staged로 프로처럼 사용하는 방법에 대해서 알아봅니다.](https://dev-yakuza.github.io/ko/react-native/eslint-prettier-husky-lint-staged/)
 * [Mark a Coordinate on Mapbox Map in React Native | by nhammad | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/mark-a-coordinate-on-mapbox-map-in-react-native-5d21c71ed46e)
+* [React Native and Android Studio: Everything you need to get started in Linux | by Romano Fenzo Flores | The Startup | Medium](https://medium.com/swlh/react-native-and-android-studio-everything-you-need-to-get-started-in-linux-b47154e78f9e)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
