@@ -2440,6 +2440,7 @@ CVPR2016)
 * [pySC2 mini-games](https://github.com/SoyGema/pySC2_minigames)
 * [Reaver: StarCraft II Deep Reinforcement Learning Agent](https://github.com/inoryy/reaver-pysc2)
 * [sc2-korean-level](https://chris-chris.gitbook.io/sc2-korean-level/untitled)
+* [SMAC: 스타크래프트2 멀티 에이전트 강화학습 챌린지](https://github.com/jk96491/SMAC)
 
 # Semantic Sementation
 * [A 2017 Guide to Semantic Segmentation with Deep Learning](http://blog.qure.ai/notes/semantic-segmentation-deep-learning-review)
