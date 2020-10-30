@@ -305,6 +305,7 @@ PyTorch
 * [opacus: Training PyTorch models with differential privacy](https://github.com/pytorch/opacus)
   * [Introducing Opacus: A high-speed library for training PyTorch models with differential privacy](https://ai.facebook.com/blog/introducing-opacus-a-high-speed-library-for-training-pytorch-models-with-differential-privacy)
 * [paragraph-vectors - A PyTorch implementation of Paragraph Vectors (doc2vec)](https://github.com/inejc/paragraph-vectors)
+* [performer-pytorch: An implementation of Performer, a linear attention-based transformer, in Pytorch](https://github.com/lucidrains/performer-pytorch)
 * PyCUDA
   * [Deep-Learning-Boot-Camp/day02-PyTORCH-and-PyCUDA/PyCUDA](https://github.com/QuantScientist/Deep-Learning-Boot-Camp/tree/master/day02-PyTORCH-and-PyCUDA/PyCUDA)
 * [PyRobot - An Open Source Robotics Research Platform](https://www.pyrobot.org/)
