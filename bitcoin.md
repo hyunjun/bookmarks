@@ -175,3 +175,4 @@ Bitcoin
 
 # Python
 * [A peek under Bitcoin's hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
+* [python-snarks](https://github.com/Onther-Tech/python-snarks)
