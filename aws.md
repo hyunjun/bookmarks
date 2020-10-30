@@ -614,6 +614,7 @@ AWS
 * [AWS EC2의 Timezone KST로 변경하기 (Amazon Linux 1)](https://jojoldu.tistory.com/513)
 * [AWS EC2 인스턴스에 부하 생성하는 간단한 방법: 네이버블로그](http://blog.naver.com/sehyunfa/222055079238)
 * [(리눅스 업스킬 도전 #22-a) EC2 인스턴스에서 계정 추가 후 공개 키 등록 방법](https://jhrogue.blogspot.com/2020/10/22-ec2.html)
+* [(리눅스 업스킬 도전 #22-b) notepad++ 편집기로 EC2 원격 호스트의 파일 편집하기](https://jhrogue.blogspot.com/2020/10/22-b-notepad-ec2.html)
 
 # EKS
 * [awesome-eks | A curated list of awesome tools for Amazon EKS](https://realvz.github.io/awesome-eks/)
