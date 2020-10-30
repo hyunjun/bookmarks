@@ -435,6 +435,7 @@ Business
 * [Ego Is the Enemy of Good Leadership](https://hbr.org/2018/11/ego-is-the-enemy-of-good-leadership)
 * [What Leaders Really Do 번역](https://docs.google.com/document/d/1mtClcLckGfdCXjtHfvSJj_5rZNXj8nSw_wqQagUy9W4)
 * [14화 리더가 절대 하지 말아야 하는 세가지 행동](https://brunch.co.kr/@mindclinic/94)
+* [그렇게 최악의 리더가 된다: 절대 따라 하면 안 되는 11가지 리더 유형 | ㅍㅍㅅㅅ](https://ppss.kr/archives/227842)
 * [팀원 성장시키기: 발표 컨설팅 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220082)
 
 # Manager Management
