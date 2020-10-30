@@ -127,6 +127,7 @@
 * [Hiding messages in x86 binaries using semantic duals](https://blog.yossarian.net/2020/08/16/Hiding-messages-in-x86-binaries-using-semantic-duals)
 * [마크다운 파서 만들기 고군분투 (1) | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/markdown-parser/)
 * [Adventures in Rust and Load Balancers | by Ben Parli | Medium](https://medium.com/@bparli/adventures-in-rust-and-load-balancers-73a0bc61a192)
+* [Data Processing In Rust With DataFusion (Arrow) | by Chengzhi Zhao | Towards Data Science](https://towardsdatascience.com/data-processing-in-rust-with-datafusion-arrow-56df5432de68)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
@@ -154,6 +155,7 @@
 * [Backend-agnostic snapshotting backup system](https://github.com/google/hat-backup)
 * [Library for serializing the RSS web content syndication format https://crates.io/crates/rss](https://github.com/frewsxcv/rust-rss)
 * [Creating performant REST APIs with Rust using Rocket, Diesel and Serde — Part 1](https://medium.com/@amolele/creating-performant-rest-apis-with-rust-using-rocket-diesel-and-serde-bbe5a4f33a4e)
+* Actix [How to Build a REST API using Actix Rust to Execute System Commands — A Step-by-Step Guide | by Asel Siriwardena | codeburst](https://codeburst.io/how-to-build-a-rest-api-to-execute-system-commands-using-actix-rust-a-step-by-step-guide-e257d5442b16)
 * [annotated-std-rs - An annotation of the Rust standard library](https://github.com/brson/annotated-std-rs)
 * [BulletinBoard DHT - A general-purpose DHT](https://github.com/manuels/bulletinboard-dht)
 * [Cicada - a simple Unix shell written in Rust](https://github.com/mitnk/cicada)
