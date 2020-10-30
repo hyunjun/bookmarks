@@ -378,6 +378,7 @@ Functional Programming
 * [Currying in Scala: A Useful Example](https://medium.com/@kadirmalak/currying-in-scala-a-useful-example-bd0e3a44195)
 * [Scala journals — Currying: The tale of a code example no one actually ever used | by Annette R. | Aug, 2020 | Level Up Coding](https://levelup.gitconnected.com/scala-journals-currying-the-tale-of-that-one-code-example-no-one-actually-ever-used-d36db58e345b)
 * [Foundation of functional programming course https://www.fp-tower.com/foundation ](https://github.com/fp-tower/foundation)
+  * [Val vs Def functions in Scala - YouTube](https://www.youtube.com/watch?v=mqJ1W6w5ZZM)
 * [Zero-Overhead Tree Processing with the Visitor Pattern](http://www.lihaoyi.com/post/ZeroOverheadTreeProcessingwiththeVisitorPattern.html)
 * [**Learn Functional Programming course/tutorial on Scala**](https://github.com/dehun/learn-fp)
 * [My FP Journey](https://zach-albia.github.io/posts/my-fp-journey)
