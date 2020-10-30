@@ -145,6 +145,7 @@ Machine Learning
 * [101 Machine Learning Algorithms for Data Science with Cheat Sheets](https://www.r-bloggers.com/101-machine-learning-algorithms-for-data-science-with-cheat-sheets)
 * [Do you know how to choose the right machine learning algorithm among 7 different types?(KR)](https://databreak.netlify.com/2019-03-25-machine_learning_algorithm/)
 * [Top 9 Algorithms for a Machine Learning Beginner](https://towardsdatascience.com/top-10-algorithms-for-machine-learning-beginners-149374935f3c)
+* [11 Most Common Machine Learning Algorithms Explained in a Nutshell | by Soner Yıldırım | Towards Data Science](https://towardsdatascience.com/11-most-common-machine-learning-algorithms-explained-in-a-nutshell-cc6e98df93be)
 * [Machine Learning Resources for Beginners and Beginners++](http://dk-techlogic.blogspot.in/2012/05/best-machine-learning-resources.html)
 * [Simple ML explanations by MIT PhD students (ML-Tidbits)](https://www.techleer.com/articles/584-understanding-artificial-intelligence-and-machine-learning-made-simple-by-mit-phd-students-ml-tidbits/)
 * [Machine Learning Tutorials](http://ujjwalkarn.github.io/Machine-Learning-Tutorials/)
