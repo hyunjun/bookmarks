@@ -251,6 +251,7 @@
 * [Diving into Spark and Parquet Workloads, by Example](https://db-blog.web.cern.ch/blog/luca-canali/2017-06-diving-spark-and-parquet-workloads-example)
 * [parquet 사용 예제](http://knight76.tistory.com/entry/spark-parquet-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 * [Apache Spark에서 컬럼 기반 저장 포맷 Parquet(파케이) 제대로 활용하기](http://engineering.vcnc.co.kr/2018/05/parquet-and-spark/)
+* [입 개발 Spark에서 Parquet 파일 Custom Schema 로 읽어들이기 | Charsyam's Blog](https://charsyam.wordpress.com/2020/10/30/%EC%9E%85-%EA%B0%9C%EB%B0%9C-spark%EC%97%90%EC%84%9C-parquet-%ED%8C%8C%EC%9D%BC-custom-schema-%EB%A1%9C-%EC%9D%BD%EC%96%B4%EB%93%A4%EC%9D%B4%EA%B8%B0/)
 * [Writing parquet on HDFS using Spark Streaming](https://community.cloudera.com/t5/Community-Articles/Writing-parquet-on-HDFS-using-Spark-Streaming/ta-p/248462)
 * [Experimenting with Neo4j and Apache Zeppelin (Neo4j)-\[:LOVES\]-(Zeppelin)](https://medium.com/apache-zeppelin-stories/experimenting-with-neo4j-and-apache-zeppelin-d80b7bec8fd2)
 * [Time-Series Missing Data Imputation In Apache Spark](http://www.jowanza.com/post/154094307399/time-series-missing-data-imputation-in-apache)
