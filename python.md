@@ -1412,6 +1412,7 @@ Python
   * [Practical automation for beginners](https://www.slideshare.net/SeoweonYoo/practical-automation-for-beginners-78644561/1)
 * [Anton Chernikov - Automate your tasks with Python and publish with Chat Apps - YouTube](https://www.youtube.com/watch?v=UIdKVF37g0o)
 * [Automating Every Aspect of Your Python Project | by Martin Heinz | Towards Data Science](https://towardsdatascience.com/automating-every-aspect-of-your-python-project-6517336af9da)
+* [Automate Your Reporting With Python, Vue.js and Gmail | The Startup](https://medium.com/swlh/automate-your-reporting-with-python-and-vue-js-15ef130fff8)
 
 # Baseball
 * [Baseball Analytics: An Introduction to Sabermetrics using Python](http://adilmoujahid.com/posts/2014/07/baseball-analytics/)
