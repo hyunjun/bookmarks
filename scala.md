@@ -410,6 +410,7 @@ Scala
 * [Using Dotty Union types with Akka Typed](https://www.lunatech.com/2020/02/using-dotty-union-types-with-akka-typed/)
 * [Using Dotty Union types with Akka Typed – Part II](https://www.lunatech.com/2020/02/using-dotty-union-types-with-akka-typed-part-ii/)
 * [Akka Stream Coexistence With Akka Typed](https://kaplan.dev/articles/akka-stream-coexistence-with-akka-typed/)
+* [Akka Typed: Stateful and Stateless Actors | Rock the JVM - YouTube](https://www.youtube.com/watch?v=gwZjdRQTPu8)
 * [(Typed) Akka document 읽으면서 소소하게 정리 (Getting Started Guide)](https://wingnim.tistory.com/119)
 * [ES/CQRS the Akka way](https://medium.com/@reeebuuk/es-cqrs-the-akka-way-abbb3ffb89a1)
 * [Event Sourcing with Akka 2.6 video](https://akka.io/blog/news/2020/01/07/akka-event-sourcing-video)
@@ -1224,6 +1225,7 @@ Scala
   * [tapir: Yet another way to REST](https://dev.to/kdrakon/tapir-yet-another-way-to-rest-720)
   * [Tapir codecs get an update](https://blog.softwaremill.com/tapir-codecs-get-an-update-c9801889cbf3)
   * [Defining the server logic for an endpoint: three approaches](https://blog.softwaremill.com/defining-the-server-logic-for-an-endpoint-three-approaches-82b280954641)
+  * [Designing tapir’s WebSockets support | by Adam Warski | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/designing-tapirs-websockets-support-ff1573166368)
 
 ## Library Json
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
@@ -1388,6 +1390,7 @@ Scala
 * [Tagless Final - Part 13 - parse, don't validate (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=2pB4CfQxSH4)
 * [Tagless Final - Part 14 - wait, don't fold (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=N6NlhuB5-T8)
 * [Tagless Final - 4 error channel encodings (Error Handling - Part 1) - YouTube](https://www.youtube.com/watch?v=2Ldx8pxkWq8)
+* [Tagless Final - 4 error channel encodings (Error Handling - Part 2) - YouTube](https://www.youtube.com/watch?v=ZdGK1uedAE0)
 * [Scala 3 - TF related improvements (mostly #implicits) - YouTube](https://www.youtube.com/watch?v=0MPfFBctWUc)
 
 # Monoids
@@ -1444,6 +1447,7 @@ Scala
 * [sbt scala version mismatch - sbt에서 사용하는 scala version이 command line의 scala와 맞지 않을 때](https://medium.com/@strncpy/sbt-scala-version-mismatch-4f8260b4e707)
 * [cached compilation for sbt](http://eed3si9n.com/cached-compilation-for-sbt)
 * [Mirco Dotta—Crack Open Sbt and Master your Build Times - YouTube](https://www.youtube.com/watch?v=Mx_gQz8MTrI)
+* sbt-bintray-remote-cache [remote caching sbt builds with Bintray | eed3si9n](https://eed3si9n.com/remote-caching-sbt-builds-with-bintray)
 * sbt-ci-release [auto publish sbt plugin from Travis CI | eed3si9n](http://eed3si9n.com/auto-publish-sbt-plugin)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
 * [sbt-jmh - "Trust no one, bench everything." - sbt plugin for JMH (Java Microbenchmark Harness)](https://github.com/ktoso/sbt-jmh)
@@ -1481,6 +1485,7 @@ Scala
 * [TMWL Dec’19 — Scala 3 overview, Scala hacks and DevOps hints](https://blog.softwaremill.com/tmwl-dec-19-scala-3-overview-scala-hacks-and-devops-hints-828ab2423f17)
 * [Scala 3에서 가장 마음에 드는 기능](https://hubcodes.github.io/2020/03/27/Scala-3%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EB%A7%88%EC%9D%8C%EC%97%90-%EB%93%9C%EB%8A%94-%EA%B8%B0%EB%8A%A5/)
 * [Scala 3 migration guide](https://github.com/scalacenter/scala-3-migration-guide)
+* [Scala 3 Migration guide · An evolving guide to support the migration to Scala 3](https://scalacenter.github.io/scala-3-migration-guide/)
 * [GOTO 2020 • Kotlin 4 vs. Scala 3 • Garth Gilmour & Eamonn Boyle](https://www.youtube.com/watch?v=sIL4mduqHe0)
 * [Starting with Scala 3 macros: a short tutorial](https://blog.softwaremill.com/starting-with-scala-3-macros-a-short-tutorial-88e9d2b2584c)
 * [IMPORT SUGGESTIONS IN SCALA 3](https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html)
