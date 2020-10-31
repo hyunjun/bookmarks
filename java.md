@@ -1073,6 +1073,7 @@ Java
 * [Spring Project 스프링 프로젝트 시작하기 - JDBC, mysql, mybatis (1)](https://woolbro.tistory.com/39)
 * [Spring Project 스프링 프로젝트 시작하기 - JDBC, mysql, mybatis (2)](https://woolbro.tistory.com/40)
 * [mybatis $ # 차이를 알아봅시다](https://codingdog.tistory.com/entry/mybatis-%EC%B0%A8%EC%9D%B4%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+* [스프링부트 - MyBatis 실전 프로그래밍 - YouTube](https://www.youtube.com/watch?v=4YOk7oLGTKI)
 * [Spring Project 스프링 프로젝트 시작하기 - Spring Boot JPA](https://woolbro.tistory.com/41)
 * [Spring MVC 예제 - 직원 관리 프로그램](https://woolbro.tistory.com/42)
 * [Spring MVC 예제 - @RequestMapping 어노테이션 예제](https://woolbro.tistory.com/43)
