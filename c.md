@@ -21,7 +21,6 @@ C
 * [Coroutines in C with Arbitrary Arguments](http://250bpm.com/blog:48)
 * [Coroutines in C](https://www.chiark.greenend.org.uk/~sgtatham/coroutines.html)
 * [Metaprogramming custom control structures in C](http://www.chiark.greenend.org.uk/~sgtatham/mp/)
-* [How to JIT - an introduction](http://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction) mmap
 * [How fast can we fsync](http://www.spinics.net/lists/kernel/msg1977366.html)
 * [Death To C](http://techcrunch.com/2015/05/02/and-c-plus-plus-too/)
 * [A Guide to Undefined Behavior in C and C++, Part 1](http://blog.regehr.org/archives/213)
@@ -382,8 +381,9 @@ C
 * Rake
   * [Input fields in rake task](http://aross.se/2014/09/21/input-fields-in-rake-task.html)
   * [Using GCC for Automatic C-Language Dependency Management with Rake](http://www.electronvector.com/blog/using-gcc-for-automatic-c-language-dependency-management-with-rake)
-* [Recur is a collection of Gstreamer plugins based on recurrent neural networks, along with a character level language modeller](https://github.com/douglasbagnall/recur)
 * [RC is a dialect of C that adds safe, region-based memory management to C](http://www.barnowl.org/research/rc/)
+* [rdrview: Firefox Reader View as a command line tool](https://github.com/eafer/rdrview)
+* [Recur is a collection of Gstreamer plugins based on recurrent neural networks, along with a character level language modeller](https://github.com/douglasbagnall/recur)
 * [Revring: A circular buffer with zero memory waste](https://analog10.com/posts/circular_buffer.html)
 * [rt0 - A minimal C runtime for Linux on i386 & x86_64](https://github.com/lpsantil/rt0)
 * [rtty - Access your device's terminal from anywhere via the web](https://github.com/zhaojh329/rtty)
@@ -438,6 +438,8 @@ C
   * [Exceptions in C with Longjmp and Setjmp](http://www.di.unipi.it/~nids/docs/longjump_try_trow_catch.html)
 * mmap
   * [mmap, munmap - map or unmap files or devices into memory](http://jmoiron.net/blog/mmap2/)
+  * [How to JIT - an introduction](http://eli.thegreenplace.net/2013/11/05/how-to-jit-an-introduction)
+  * [Why mmap is faster than system calls | by Alexandra (Sasha) Fedorova | Medium](https://sasha-f.medium.com/why-mmap-is-faster-than-system-calls-24718e75ab37)
 * pipe
   * [pipe() 파이프를 이용한 IPC](http://forum.falinux.com/zbxe/index.php?document_srl=419982&mid=C_LIB&comment_srl=888380&rnd=888380)
   * [CreateProcess와 CreatePipe를 이용한 콘솔프로그램 입출력 제어](http://yahon.tistory.com/277)
@@ -477,3 +479,4 @@ C
 
 # Tutorial
 * [C Programming FAQs](http://cinsk.github.io//cfaqs/html/cfaqs-ko.html)
+* [“여전히 매력적인 선택지”··· C 언어 주요 강좌 4선 - CIO Korea](http://www.ciokorea.com/news/169105)
