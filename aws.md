@@ -86,6 +86,7 @@ AWS
 * [ELB(Elastic Load Balancer) 생성해서 부하분산 적용하기](https://developer88.tistory.com/304)
 * [ELB에 무료 SSL인증서 받아서 설정하기](https://developer88.tistory.com/313)
 * [AWS-NLB-Sticky-sessions-timeout - 리눅서의 기술술 블로그](https://linuxer.name/2020/08/aws-nlb-sticky-sessions-timeout/)
+* [AWS NLBs and the mixed up TCP connections](https://www.niels-ole.com/cloud/aws/linux/2020/10/18/nlb-resets.html)
 * [Travis CI와 AWS ElasticBeanstalk 연동하기](http://jojoldu.tistory.com/317)
 * AWS Beanstalk을 이용한 성능 튜닝 시리즈
   * [1. DB Connection Pool](http://jojoldu.tistory.com/318)
@@ -422,6 +423,7 @@ AWS
 * [AWS Transfer 패밀리로 SFTP 구성하기 #2 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1502)
 * [Your own AI-powered Call Center on AWS in less than 1 hour | by Thiago de Faria | ITNEXT](https://itnext.io/your-own-ai-powered-call-center-on-aws-in-less-than-1-hour-d0494049977c)
 * [determined-ai/determined: Determined: Deep Learning Training Platform](https://github.com/determined-ai/determined)
+* [AWS and their Billions in IPv4 addresses](https://toonk.io/aws-and-their-billions-in-ipv4-addresses/index.html)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
