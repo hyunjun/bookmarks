@@ -41,6 +41,7 @@ Docker
 * [Docker For The Absolute Beginner](https://kodekloud.com/p/docker-for-the-absolute-beginner-hands-on)
 * [Docker for Beginners: Full Course](https://www.youtube.com/watch?v=zJ6WbK9zFpI)
 * [Docker Tutorial for Beginners Full Course in 3 Hours](https://morioh.com/p/439efe820105)
+* [My Favorite Free Courses to learn Docker and DevOps for Frontend Developers | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/10-free-courses-to-learn-docker-and-devops-for-frontend-developers-691ac7652cee)
 * [Exploring Docker: A Hands-On Guide for Absolute Beginners](https://morioh.com/p/db0120b2e184)
 * [Docker Tutorial for Beginners - Fundamentals Of Dockerfile](https://morioh.com/p/5fe4189b9ead?f=5c21fb01c16e2556b555ab32)
 * [docker tutorial.md at master · pandora0667/TILD](https://github.com/pandora0667/TILD/blob/master/Docker/docker%20tutorial.md)
@@ -210,6 +211,7 @@ Docker
     * [Develop a Spring Boot and MySQL Application and run in Docker (end-to-end)](https://medium.com/codefountain/develop-a-spring-boot-and-mysql-application-and-run-in-docker-end-to-end-15b7cdf3a2ba)
     * [Setting Up a MySQL and Orchestrator Docker Environment](https://www.percona.com/blog/2020/06/01/setting-up-a-mysql-and-orchestrator-docker-environment/)
     * [Docker 를 사용해 Database 간단하게 구축하기 (MYSQL)](https://woolbro.tistory.com/89)
+    * [Installing MySQL with Docker - Percona Database Performance Blog](https://www.percona.com/blog/2019/11/19/installing-mysql-with-docker/)
   * [NexClipper - the container and container orchestration monitoring and performance management solution specialized in Docker, DC/OS, Mesosphere, Kubernetes](https://github.com/NexClipper/NexClipper)
   * Nginx
     * [AWS ECS에서 Nginx - Node.js 웹서버 구성하기](https://coinbine.com/post/150)
@@ -844,6 +846,7 @@ Docker
 * [How a Kubernetes Pod Gets an IP Address | Ronak Nathani](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/)
 * [CI/CD Pipelines With Kubernetes in Docker (KinD) | Better Programming](https://medium.com/better-programming/accelerate-your-ci-cd-pipelines-with-kubernetes-in-docker-kind-109a67b39c82)
 * [Kubernetes Imperative Commands Every Engineer Should Learn | by Luisapreciado | Dev Genius | Medium](https://medium.com/dev-genius/kubernetes-imperative-commands-every-engineer-should-learn-3b5d8217fa29)
+* [Kubernetes Ingress Controllers - Google Sheets](https://docs.google.com/spreadsheets/d/191WWNpjJ2za6-nbG4ZoUMXMpUK8KlCIosvQB0f-oq3k/edit#gid=907731238)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
