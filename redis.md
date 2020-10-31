@@ -135,7 +135,9 @@ Redis
 # Library
 * [Gredis - Redis server built over grpc](https://github.com/voidabhi/gredis)
 * [hiredis - Minimalistic C client for Redis >= 1.2](https://github.com/redis/hiredis)
-* [ioredis-mock - Emulates ioredis by performing all operations in-memory](https://github.com/stipsan/ioredis-mock)
+* [ioredis: 🚀 A robust, performance-focused and full-featured Redis client for Node.js](https://github.com/luin/ioredis)
+  * [ioredis에 로깅 끼워넣기 · /usr/lib/libsora.so](https://libsora.so/posts/ioredis-logging-with-monkey-patch/)
+  * [ioredis-mock - Emulates ioredis by performing all operations in-memory](https://github.com/stipsan/ioredis-mock)
 * [KeyDB - A Multithreaded Fork of Redis https://keydb.dev ](https://github.com/JohnSully/KeyDB)
   * [A Multithreaded Fork of Redis That’s 5X Faster Than Redis](https://docs.keydb.dev/blog/2019/10/07/blog-post/)
 * [Lambda Store: Serverless Database for Redis®](https://lambda.store/)
