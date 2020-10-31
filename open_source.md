@@ -310,3 +310,5 @@ Open Source
 
 # Yahoo
 * [Vespa - the open big data serving engine http://vespa.ai ](https://github.com/vespa-engine/vespa)
+  * [Vespa vs. Elasticsearch for matching millions of people](https://tech.okcupid.com/vespa-vs-elasticsearch/)
+  * [Vespa vs. ElasticSearch | GeekNews](https://news.hada.io/topic?id=3108)
