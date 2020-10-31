@@ -164,6 +164,7 @@ Git
 * [rest-api-description: An OpenAPI description for GitHub's REST API](https://github.com/github/rest-api-description)
 * [깃허브 컨테이너 레지스트리(GitHub Container Registry) 베타 오픈 및 사용법 | 44BITS](https://www.44bits.io/ko/post/news--github-container-registry-beta-release)
 * [GitHub Codespaces 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1497)
+* [How a one line change decreased our clone times by 99% | by Pinterest Engineering | Pinterest Engineering Blog | Oct, 2020 | Medium](https://medium.com/pinterest-engineering/how-a-one-line-change-decreased-our-build-times-by-99-b98453265370)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -235,6 +236,17 @@ Git
 * [Git 초보를 위한 깃 명령어 & 용어 정리 (+커밋 히스토리 브랜치 그래프 보는법, Git Log 옵션 종료, 단축 명령어 Alias 설정, 터미널 커맨드라인): 네이버블로그](http://blog.naver.com/jdusans/222043705693)
 * [7 Git Commands/Concepts you may do not know yet | by GP Lee | JavaScript In Plain English | Jul, 2020 | Medium](https://medium.com/javascript-in-plain-english/7-git-commands-concepts-you-may-do-not-know-yet-d0aa9dbee7b1)
 * [15 Git Commands To Master Before Your Very First Project | by AnBento | Level Up Coding](https://levelup.gitconnected.com/15-git-commands-you-should-learn-before-your-very-first-project-f8eebb8dc6e9)
+* [**7 Git tricks that changed my life | Opensource.com**](https://opensource.com/article/20/10/advanced-git-tips)
+
+  ```
+  $ git config --global help.autocorrect 1
+  $ git rev-list --count master
+  $ git gc --prune=now --aggressive
+  $ git ls-files --others --exclude-standard -z | xargs -0 tar rvf ~/backup-untracked.zip
+  $ cat .git/description
+  $ git show main:README.md
+  $ git rev-list –all | xargs git grep -F ‘font-size: 52 px;’
+  ```
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
   * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
@@ -407,6 +419,7 @@ Git
   * `gitub.com/<id>/<repo>/compare/<branch1>...<branch2>` browser에서 비교
   * [Git가지고 놀기(2) - Git Diff - 완두블로그](https://wani.kr/posts/2014/07/15/git-2-git-diff/)
   * [Better git diffs with FZF. git diff can be a little overwhelming… | by Rafael Mendiola | Medium](https://medium.com/@GroundControl/better-git-diffs-with-fzf-89083739a9cb)
+  * [Better Git diff output for Ruby, Python, Elixir, Go and more | tekin.co.uk](https://tekin.co.uk/2020/10/better-git-diff-output-for-ruby-python-elixir-and-more) .gitattributes
   * [delta - A syntax-highlighter for git and diff output](https://github.com/dandavison/delta)
 * filter-branch
   * [git-filter-branch를 이용하여 모든 커밋으로부터 민감한 정보 파일 삭제하기](https://www.youtube.com/watch?v=wFfqKzrpWeY)
