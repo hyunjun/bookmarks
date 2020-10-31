@@ -259,6 +259,7 @@ Business
 * [인스타그램을 10억 사용자로 만든 "인접 사용자 이론" | GeekNews](https://news.hada.io/topic?id=2561)
 * [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
 * [업무 인수인계 잘하기](https://brunch.co.kr/@lunarshore/37)
+* [B2B SaaS 가격책정 하는 법 | GeekNews](https://news.hada.io/topic?id=3091)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
