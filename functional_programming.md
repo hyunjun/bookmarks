@@ -250,6 +250,7 @@ Functional Programming
 * [Learn JavaScript functional programming from Avengers](https://codeburst.io/learn-javascript-functional-programming-from-avengers-36fc40fca7ab)
 * [함수형 프로그래밍 정리](https://dongqui.github.io//posts/functional)
 * [Ultra small code using Functional Programming - Yoganathan Palaniswamy - Medium](https://medium.com/@pyoganathan99/ultra-small-code-using-functional-programming-javascript-a437d01e59d5)
+* [Brad Barrow's Blog | Javascript FlatMap Usage](https://bradbarrows.com/post/jsflatmapusage)
 * [abcjs는 함수형 자바스크립트(functional javascript) 라이브러리입니다](https://github.com/marpple/abc-functional-javascript)
 * [chunkify.js a functional API to unblock your JavaScript](http://yangmillstheory.github.io/chunkify/)
 * [fantasy-land - Specification for interoperability of common algebraic structures in JavaScript](https://github.com/fantasyland/fantasy-land)
