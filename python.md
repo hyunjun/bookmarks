@@ -3638,6 +3638,7 @@ Python
 * [pandas and friends - Marc Garcia - YouTube](https://www.youtube.com/watch?v=PQPv_4rOWe4)
 * [자주쓰는 명령어로 배우는 Pandas #1 : Pandas와 데이터 살펴보기](https://sjquant.tistory.com/54)
 * [자주쓰는 명령어로 배우는 Pandas #2 : Index와 Column 조작하기](https://sjquant.tistory.com/55)
+* [자주쓰는 명령어로 배우는 Pandas #3 : 데이터 조작하기](https://sjquant.tistory.com/56)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
 * [swifter: A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner](https://github.com/jmcarpenter2/swifter)
