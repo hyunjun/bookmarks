@@ -182,3 +182,5 @@ Lisp
 * [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm)
 * [Lisp for the Web, Part II](http://msnyder.info/posts/2011/07/lisp-for-the-web-part-ii/)
 * [Lisp for The Modern Web](http://vitovan.com/lispweb3.html)
+
+# [wisp: A little Clojure-like LISP in JavaScript](https://github.com/Gozala/wisp)
