@@ -331,6 +331,8 @@ Programming
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-2. 여러 대의 서버에 흩어져 있는 세션을 어떻게 관리할 수 있을까?](https://chagokx2.tistory.com/93)
 * [**무료로 개인 프로젝트 호스팅 하기 | 딥백수**](https://dl4ab.github.io/2020/09/06/free-web-server-for-your-portfolio/)
 * [A Guide on Good Backend Coding Practices | by Jimmy Soh | The Internal Startup | Medium](https://medium.com/the-internal-startup/a-guide-on-good-backend-coding-practices-e43f80422559) 기본 원칙
+* [나의 백엔드 배포 환경 정책 · /usr/lib/libsora.so](https://libsora.so/posts/my-backend-deployment-environment-policy/) development environment
+* [Joe Duffy - The Error Model](http://joeduffyblog.com/2016/02/07/the-error-model/)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -550,6 +552,7 @@ Programming
 * [A Guided Tour inside a clean architecture code base](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97)
 * [**Clean Architecture-in Banksalad**](https://speakerdeck.com/soyoung210/clean-architecture-in-banksalad) react project 예제
 * [Clean Architecture Python (web) apps](http://slides.com/haxoza/clean-architecture-python#/) flask example code
+* [**The Grand Unified Theory of Software Architecture - danuker | freedom & tech**](https://danuker.go.ro/the-grand-unified-theory-of-software-architecture.html) I/O at the top & decoupling, pure function
 * [Quality attributes in Software Architecture. Part I](https://hackernoon.com/quality-attributes-in-software-architecture-3844ea482732)
 * [atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
   * [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/)
@@ -1220,6 +1223,7 @@ Programming
 * [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time | Carol's Blog](https://carolchen.me/blog/jits-intro/)
 * [c언어 수열의 부분 합(Prefix Sum) 구하기 - 어떤 방법이 더 빠르고 정확할까](https://bab2min.tistory.com/658)
 * [java - Why is processing a sorted array faster than processing an unsorted array? - Stack Overflow](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) branch prediction
+* [Parsing Algorithms – Dmitry Soshnikov](http://dmitrysoshnikov.com/courses/parsing-algorithms/)
 
 # Conference
 * [calltospeakers.com](https://calltospeakers.com)
@@ -1470,6 +1474,7 @@ Programming
 * [Configuration File Validation Check - Config](https://www.configapp.com/2018/01/09/configuration-file-validation-check/) 여러가지 언어, 도구 등의 설정 검사 방법
 * [Dynamic configuration at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/dynamic-configuration-at-twitter.html)
 * [A Simple Implementation of Dynamic Configuration | by Jae Hyeon Bae | Robinhood](https://robinhood.engineering/a-simple-implementation-of-dynamic-configuration-71383bcc803b)
+* [Tweag - Nickel: better configuration for less](https://www.tweag.io/blog/2020-10-22-nickel-open-sourcing/)
 * [Chef Infra - Infrastructure Automation for Hardened, Consistent Configuration at Any Scale](https://www.chef.io/products/chef-infra/)
   * [A complete beginner’s guide to Chef and infrastructure as code](https://medium.freecodecamp.org/an-introduction-to-chef-and-infrastructure-as-code-7d8ad2689b8)
   * [Making Breakfast: Chef at Airbnb](https://medium.com/airbnb-engineering/making-breakfast-chef-at-airbnb-8e74efff4707)
@@ -1600,7 +1605,7 @@ Programming
 * [ZeroMQ](http://kr.zeromq.org/)
   * [practice - installation](https://gist.github.com/hyunjun/c379268568ca3786e79dc3da0b17e86d#file-installation-md)
   * [Easy cluster parallelization with ZeroMQ](http://mdup.fr/blog/easy-cluster-parallelization-with-zeromq)
-  * [ØMQ - The Guide](http://zguide.zeromq.org/)
+  * [Introduction | ØMQ - The Guide](https://zguide.zeromq.org/)
   * [zurl - HTTP and WebSocket client worker with ZeroMQ interface](https://github.com/fanout/zurl)
   * [From Kafka to ZeroMQ for real-time log aggregation](http://tomasz.janczuk.org/2015/09/from-kafka-to-zeromq-for-log-aggregation.html)
   * [Build reliable, traceable, distributed systems with ZeroMQ](https://www.youtube.com/watch?v=9G6-GksU7Ko)
@@ -1665,6 +1670,7 @@ Programming
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 * [**여러분의 CS 교육에서 누락된 학기 · the missing semester of your cs education**](https://missing-semester-kr.github.io/)
   * [Missing Semester IAP 2020 - YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
+* [Home | nand2tetris](https://www.nand2tetris.org/)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
 * [codeschool.com](https://www.codeschool.com/)
 * [code with google - Every student deserves the chance to explore, advance, and succeed in computer science](https://edu.google.com/code-with-google)
@@ -1690,6 +1696,7 @@ Programming
   * [여러분의 CS 교육에서 누락된 학기 · the missing semester of your cs education](https://missing-semester-kr.github.io/)
 * [learncodethehardway.org](https://learncodethehardway.org/) learn code the hard way
 * [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
+* [Programming by Doing](http://programmingbydoing.com/)
 * [raywenderlich.com](https://www.raywenderlich.com/) Over 3,000 high-quality tutorials to boost your programming career, created by a community of experts from around the world
 * [SKplanet Tacademy](https://www.youtube.com/channel/UCtV98yyffjUORQRGTuLHomw/playlists)
 * [sololearn.com](https://www.sololearn.com/)
@@ -1874,6 +1881,7 @@ Programming
   * [10월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/10/b-10-1.html)
   * [10월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/10/b-10-2.html)
   * [10월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/10/b-10-3.html)
+  * [10월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/10/b-10-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -2058,6 +2066,7 @@ Programming
   * [(10/17) 서버리스 혁명이 지체되는 이유는? - YouTube](https://www.youtube.com/watch?v=YXCRoFy__YQ)
 * [(10월 24일) AWS는 IPv4를 몇 개 확보했을까?](https://jhrogue.blogspot.com/2020/10/10-24-aws-ipv4.html)
   * [(10/24) AWS는 IPv4를 몇 개 확보했을까? - YouTube](https://www.youtube.com/watch?v=DmlO0_aywEw)
+* [(10/31) 클린 아키텍처로 가는 신박한 방법 - YouTube](https://www.youtube.com/watch?v=KtTQbyclKh4) 게임 엔진 블랙 북(울펜슈타인 3D), 고용 관련 네 가지 미신, 한 줄로 빌드 타임 99% 줄이기, 일곱 가지 git 트릭, Pyston v2, 클린 아키텍처로 가는 신박한 방법, Async Cookie Store API, 깃 2.29에서 SHA-256을 실험적 지원
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 
 # OS Operating System
@@ -2220,6 +2229,7 @@ Programming
   * [Microservices with gRPC](https://medium.com/@goinhacker/microservices-with-grpc-d504133d191d)
   * [Understanding gRPC](https://medium.com/better-programming/understanding-grpc-60737b23e79e)
   * [A gRPC C++ introduction. gRPC C++ introduction | by Andrew Vetovitz | Medium](https://medium.com/@andrewvetovitz/grpc-c-introduction-45a66ca9461f)
+  * [Road to gRPC](https://blog.cloudflare.com/road-to-grpc/)
 * [RSocket - a next-generation, reactive, layer 5 application communication protocol for building today's modern cloud-native and microservice applications](https://www.netifi.com/rsocket)
   * [Building a High-Performance Networking Protocol for Microservices](https://www.youtube.com/watch?v=WaQZCit5-O4)
 
@@ -2430,6 +2440,7 @@ Programming
 * [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
 * [Unicode In Five Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
 * [Windows: 176. Raymond Chen이 한글날에 밝히는 윈도우의 한글 자모 분리 현상](https://www.sysnet.pe.kr/2/0/12369)
+* [Ridiculously fast unicode (UTF-8) validation – Daniel Lemire's blog](https://lemire.me/blog/2020/10/20/ridiculously-fast-unicode-utf-8-validation/)
 
 # Virtual Machine
 * [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
