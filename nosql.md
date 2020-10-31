@@ -378,7 +378,9 @@ NoSQL
 * [MongoDB Best Practices 2020 Edition](https://www.percona.com/blog/2020/04/17/mongodb-best-practices-2020-edition/)
 * [HSBC moves from 65 relational databases into one global MongoDB database](https://diginomica.com/hsbc-moves-65-relational-databases-one-global-mongodb-database)
 * [MONGODB SEOUL.Local - YouTube](https://www.youtube.com/watch?v=sycYpKOGTMA)
+* [Getting Started with MongoDB: What I’ve Learned | Bugsnag Blog](https://www.bugsnag.com/blog/getting-started-with-mongodb)
 * [Jepsen: MongoDB 4.2.6](https://jepsen.io/analyses/mongodb-4.2.6)
+* [mango - A MongoDB driver for Deno](https://github.com/denodrivers/mango)
 * [mongo-java-server: Fake implementation of MongoDB in Java that speaks the wire protocol.](https://github.com/bwaldvogel/mongo-java-server)
 
 # OmniSci
