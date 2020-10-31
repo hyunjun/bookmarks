@@ -439,6 +439,7 @@ Go
 * [glass - Automated time tracking for Git repositories](https://github.com/timeglass/glass)
 * [Glide - Package Management for Go](https://glide.sh/)
 * [glog - Let’s talk about logging](http://dave.cheney.net/2015/11/05/lets-talk-about-logging)
+* [Glow - Render markdown on the CLI, with pizzazz!](https://github.com/charmbracelet/glow)
 * [GoArm](https://github.com/golang/go/wiki/GoArm)
 * [gobot - Go, Robot, Go!  Golang Powered Robotics Next generation robotics framework with support for 17 different platforms](http://gobot.io/)
 * [go-candyjs - fully transparent bridge between Go and the JavaScript](https://github.com/mcuadros/go-candyjs)
