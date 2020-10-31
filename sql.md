@@ -442,6 +442,7 @@ SQL
 * [MySQL 5.6 EOL is February 2021 !! – lefred's blog: tribulations of a MySQL Evangelist](https://lefred.be/content/mysql-5-6-eol-is-february-2021/) 8.0
 * [Upgrading MySQL (Percona Server) from 5.7 to 8.0 | by Flant staff | Flant | Medium](https://medium.com/flant-com/upgrading-mysql-percona-server-5-to-8-4bce53bdce5c)
 * [MySQL 8.0 업그레이드 전 짚어봐야할 몇 가지! | STAR::DATABASE](https://stardba.net/sun/checkpoint-mysql80-upgrade/)
+* [MySQL 8.0.22: Asynchronous Replication Automatic Connection (IO Thread) Failover - Percona Database Performance Blog](https://www.percona.com/blog/2020/10/26/mysql-8-0-22-asynchronous-replication-automatic-connection-io-thread-failover/)
 * [5 MySQL features you need to know](https://opensource.com/article/20/3/mysql-features)
 * [18 Things You Can Do to Remove MySQL Bottlenecks Caused by High Traffic (Part One)](https://www.percona.com/blog/2020/04/03/18-things-you-can-do-to-remove-mysql-bottlenecks-caused-by-high-traffic-part-one/)
 * [Need to Connect to a Local MySQL Server? Use Unix Domain Socket!](https://www.percona.com/blog/2020/04/13/need-to-connect-to-a-local-mysql-server-use-unix-domain-socket/)
@@ -623,6 +624,7 @@ SQL
 * [Lessons Learned from Running Postgres 13: Better Performance, Monitoring & More](https://pganalyze.com/blog/postgres13-better-performance-monitoring-usability)
 * [Mastering PostgreSQL Administration](https://momjian.us/main/writings/pgsql/administration.pdf)
 * [PostgreSQL 13 Features Distilled. Index optimization, incremental… | by Kovid Rathee | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/postgresql-13-features-distilled-c0c0adcfa020)
+* [Improving Postgres Connection Scalability: Snapshots - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/improving-postgres-connection-scalability-snapshots/ba-p/1806462)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
