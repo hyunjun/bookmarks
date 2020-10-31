@@ -84,6 +84,7 @@ Linux
   * [번역 - Understanding disk usage in Linux](https://github.com/hatsari/article/blob/master/understanding_disk_usage_in_linux/understanding_disk_usage_in_linux_ko.md)
 * [팀 패스워드 관리 프로그램 tpass 후기](http://ohyecloudy.com/pnotes/archives/side-project-tpass/)
 * [**The 101 of ELF files on Linux: Understanding and Analysis**](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/amp/)
+* [**What's in a Linux executable? - fasterthanli.me**](https://fasterthanli.me/series/making-our-own-executable-packer/part-1)
 * [**리눅스 서버 60초안에 상황파악하기**](https://b.luavis.kr/server/linux-performance-analysis)
   * uptime, dmesg | tail, vmstat 1, mpstat -p ALL 1, pidstat 1, iostat -xz 1, free -m, sar -n DEV 1, sar -n TCP,ETCP 1, top
 * [Analyze Linux startup performance | Opensource.com](https://opensource.com/article/20/9/systemd-startup-configuration)
@@ -169,6 +170,7 @@ Linux
 * [How to Enable EPEL Repository for RHEL/CentOS 7.x/6.x/5.x](http://www.tecmint.com/how-to-enable-epel-repository-for-rhel-centos-6-5/)
 * [How to Enable RPMForge Repository in RHEL/CentOS 7.x/6.x/5.x](http://www.tecmint.com/enable-rpmforge-repository/)
 * [Set up a static network connection in Linux](https://opensource.com/article/19/5/set-static-network-connection-linux)
+* [Simultaneous Multithreading in Red Hat Enterprise Linux - Red Hat Customer Portal](https://access.redhat.com/solutions/rhel-smt)
 * libc.so
   * 모든 리눅스 바이너리의 기본 라이브러리이기 때문에 쉘에서 벌어지는 모든 명령(fork 된 신규 프로세스)가 필요로하는 동적 라이브러리
   * 절대 mv/ln 등으로 임의로 고쳐서는 안되는 파일
@@ -350,6 +352,7 @@ Linux
   * [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html)
   * [Running Awk in parallel to process 256M records](https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html)
   * [리눅스 awk 명령어 : 원하는 컬럼을 출력한다.](https://codingdog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-awk-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%9B%90%ED%95%98%EB%8A%94-%EC%BB%AC%EB%9F%BC%EC%9D%84-%EC%B6%9C%EB%A0%A5%ED%95%9C%EB%8B%A4)
+  * [awk: BEGIN { ... | Jemma Issroff](https://jemma.dev/blog/awk-part-1)
 * `basename` get file name from path
   * e.g. `$ basename /tmp/mdstat.tmp .tmp` returns `mdstat`
 * `bc`
@@ -649,6 +652,7 @@ Linux
   * [How to write startup script for systemd](https://unix.stackexchange.com/questions/47695/how-to-write-startup-script-for-systemd)
   * [Operating Systems Without Systemd](https://annihilatormodule.com/2020-01-18/systemd-archives)
   * [Working with systemd-networkd. All about using systemd-networkd as… | by Sahitya Maruvada | 100 Days of Linux | Medium](https://medium.com/100-days-of-linux/working-with-systemd-networkd-e461cfe80e6d)
+  * [Services in systemd: In-Depth Tutorial | by Michael Krasnov | Better Programming | Medium](https://medium.com/better-programming/services-in-systemd-in-depth-tutorial-7e47c485edbf)
 * systemtap
   * [커널 분석을 위한 systemtap 스크립트](https://brunch.co.kr/@alden/42)
 * `tac`
@@ -780,6 +784,7 @@ Linux
 ## Kernel Interrupt
 * [Interrupts and Interrupt Handling](https://github.com/0xAX/linux-insides/tree/master/interrupts)
 * [SIGSEGV as control flow - How the JVM optimizes your null checks](http://jcdav.is/2015/10/06/SIGSEGV-as-control-flow/)
+* [How the Linux kernel handles interrupts | Opensource.com](https://opensource.com/article/20/10/linux-kernel-interrupts)
 
 # Library
 * [Tutorials and tools for sysadmins and developers](https://syscoding.com/)
@@ -791,6 +796,7 @@ Linux
   * Links, Lynx, w3m, Googler
 * [Linux Productivity Tools](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf)
 * [20 productivity tools for the Linux terminal](https://opensource.com/article/20/6/productivity-tools-linux-terminal)
+* [4 Best Terminal Browsers for Linux Command Line](https://itsfoss.com/terminal-web-browsers/) W3M, Lynx, Links2, eLinks
 * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
 * [alacritty - A cross-platform, GPU-accelerated terminal emulator](https://github.com/alacritty/alacritty)
 * [BigGrep is a tool to index and search a large corpus of binary files that uses a probabalistic N-gram based approach to balance index size and search speed](https://github.com/cmu-sei/BigGrep)
