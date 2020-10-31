@@ -2526,6 +2526,7 @@ Python
 * Let’s Build A Web Server
   * [Part 1](http://ruslanspivak.com/lsbaws-part1/)
   * [Part 2](http://ruslanspivak.com/lsbaws-part2/)
+* [The Top 10 Python Frameworks for Web Development](https://www.activestate.com/blog/the-top-10-python-frameworks-for-web-development/)
 * [Magnificent app which corrects your previous console command](https://github.com/nvbn/thefuck)
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/) pyhash, bitstring
 * [Top 20 Python Machine Learning Open Source Projects](http://www.kdnuggets.com/2015/06/top-20-python-machine-learning-open-source-projects.html)
@@ -2614,6 +2615,7 @@ Python
   * [Installing boost and boost-python on OSX with Homebrew](http://www.pyimagesearch.com/2015/04/27/installing-boost-and-boost-python-on-osx-with-homebrew/)
 * [bpython - A fancy curses interface to the Python interactive interpreter http://bpython-interpreter.org ](https://github.com/bpython/bpython)
 * [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
+* [bwa: 이거 봐(Bwa): Notification Sender for Discord, E-mail, Slack, and Telegram](https://github.com/somniumism/bwa)
 * [c8d - A Chip-8 disassembler in Python](https://github.com/prophittcorey/c8d)
 * [castervoice - On Voice Coding](https://dusty.phillips.codes/2020/02/15/on-voice-coding/)
 * Celery
@@ -2663,6 +2665,7 @@ Python
   * [Your Guide to the CPython Source Code](https://realpython.com/cpython-source-code-guide/)
   * [Memory Management in Python](https://realpython.com/python-memory-management/)
   * [python 메모리 관리(memory allocation)](https://leemoney93.tistory.com/25)
+  * [faster-cpython/plan.md at master · markshannon/faster-cpython](https://github.com/markshannon/faster-cpython/blob/master/plan.md)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [Chromote - Simple wrapper to drive Google Chrome from Python using the Remote Debugging Protocol 1.1 API](https://github.com/iiSeymour/chromote)
 * [cx_Oracle - PYTHON – CX_ORACLE THROWS MISSING LIBCLNTSH.SO.11.1 WHEN EXECUTED BY DJANGO-CHRONOGRAPH](http://eureka.ykyuen.info/2014/11/07/python-cx_oracle-throws-missing-libclntsh-so-11-1-when-executed-by-django-chronograph/)
@@ -2910,6 +2913,7 @@ Python
 * [Pyston - an open source Python implementation that aims to be both highly compatible and high-performance](http://blog.pyston.org/)
   * [2015/11/10 Pyston Meetup](https://www.youtube.com/watch?v=NdB9XoBg5zI)
   * [Pyston 0.6.1 released, and future plans](https://blog.pyston.org/2017/01/31/pyston-0-6-1-released-and-future-plans/)
+  * [Pyston v2: 20% faster Python | The Pyston Blog](https://blog.pyston.org/2020/10/28/pyston-v2-20-faster-python/)
 * [PyStruct - Structured Learning in Python](https://pystruct.github.io)
 * [Python tools for Vivado Projects](https://github.com/benreynwar/pyvivado)
 * [Python Wheels](http://pythonwheels.com/)
@@ -3919,6 +3923,7 @@ Python
 * [10 Awesome Python 3.9 Features. The Must-Know Python 3.9 Features | by Farhad Malik | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/10-awesome-python-3-9-features-b8c27f5eba5c)
 * [파이썬(Python) 3.9 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/python-3-9-release-note-summary)
 * [Python 3.9 Update New Features. Write less code, achieve more! | by Radian Krisno | Towards Data Science](https://towardsdatascience.com/python-3-9-update-new-features-e4a580fc5c2)
+* [파이썬 3.9의 새로운 기능과 더 나아진 기능 - ITWorld Korea](http://www.itworld.co.kr/news/168295)
 * [Features You Likely Don’t Use in Python 3 — But You Should | LaptrinhX](https://laptrinhx.com/features-you-likely-don-t-use-in-python-3-but-you-should-2455806769/)
 * [9 Python 3 Hacks Programmers Probably Don’t Utilize | Better Programming](https://medium.com/better-programming/9-python-3-features-you-might-not-use-yet-fade13932a3e)
 * [concurrent.futures - Easy parallel python with concurrent.futures](https://gist.github.com/mangecoeur/9540178)
