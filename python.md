@@ -498,9 +498,9 @@ Python
   * [Passing a dictionary to a function in python as keyword parameters](https://stackoverflow.com/questions/334655/passing-a-dictionary-to-a-function-in-python-as-keyword-parameters)
   * ["Default argument value is mutable" 경고 발생 시](http://mcchae.egloos.com/11259381)
   * [함수 디폴트인자의 잘못된 사용](https://ash84.net/2017/05/22/python-misusing-expressions-as-defaults-for-function-arguments/)
-  * [**파이썬에서 arguments로 *(별표)만 쓴 경우!?**](https://sjquant.tistory.com/31)
-  * [What Are *args and **kwargs in Python? | by Jonathan Hsu | Better Programming | Medium](https://medium.com/better-programming/what-are-args-and-kwargs-in-python-6aaf9e3cad73)
-  * [*args & **kwargs in Python. What do they do ? | by Keno Leon | Level Up Coding](https://levelup.gitconnected.com/args-kwargs-in-python-8d483f9f253e)
+  * [**파이썬에서 arguments로 \*(별표)만 쓴 경우!?**](https://sjquant.tistory.com/31)
+  * [What Are \*args and \*\*kwargs in Python? | by Jonathan Hsu | Better Programming | Medium](https://medium.com/better-programming/what-are-args-and-kwargs-in-python-6aaf9e3cad73)
+  * [\*args & \*\*kwargs in Python. What do they do ? | by Keno Leon | Level Up Coding](https://levelup.gitconnected.com/args-kwargs-in-python-8d483f9f253e)
 * ast
   * [Python AST 101](https://item4.github.io/2015-07-20/Python-AST-101.html)
 * asterisk
@@ -1561,6 +1561,7 @@ Python
   * [Debugging in Python](https://pythonconquerstheuniverse.wordpress.com/2009/09/10/debugging-in-python/)
   * [Python 3.7’s new builtin breakpoint — a quick tour](https://hackernoon.com/python-3-7s-new-builtin-breakpoint-a-quick-tour-4f1aebc444c)
   * [Debugging in Python — A cakewalk with pdb](https://medium.com/python-features/debugging-in-python-a-cakewalk-with-pdb-cd748ca62ee7)
+  * [Are you writing print() statements to debug your Python code? | by Pradeepa Gollapalli | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/are-you-writing-print-statements-to-debug-your-python-code-690e6ba098e9)
 * [PySnooper - Never use print for debugging again](https://github.com/cool-RR/pysnooper)
 
 # Docker
@@ -4141,6 +4142,7 @@ Python
   * [How to use FastAPI with MongoDB. An easy way to serve your database… | by Fernando Souza | Python In Plain English | Sep, 2020 | Medium](https://medium.com/python-in-plain-english/how-to-use-fastapi-with-mongodb-75b43c8e541d)
   * [Migrate From Flask to FastAPI Smoothly | by Ng Wai Foong | Better Programming | Medium](https://medium.com/better-programming/migrate-from-flask-to-fastapi-smoothly-cc4c6c255397)
   * [3 Reasons to Switch to FastAPI. Flask vs. FastAPI | by Dieter Jordens | Better Programming | Medium](https://medium.com/better-programming/3-reasons-to-switch-to-fastapi-f9c788d017e5)
+  * [Using Docker Compose to deploy a lightweight Python REST API with a job queue | by Mike Moritz | Medium](https://medium.com/@mike.p.moritz/using-docker-compose-to-deploy-a-lightweight-python-rest-api-with-a-job-queue-37e6072a209b)
 * mod_wsgi
   * [What package I should install for 'pcre-devel'?](http://stackoverflow.com/questions/2263404/what-package-i-should-install-for-pcre-devel)
     * `yum install pcre-devel.x86_64 -y`
