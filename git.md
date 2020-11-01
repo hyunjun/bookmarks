@@ -165,6 +165,7 @@ Git
 * [깃허브 컨테이너 레지스트리(GitHub Container Registry) 베타 오픈 및 사용법 | 44BITS](https://www.44bits.io/ko/post/news--github-container-registry-beta-release)
 * [GitHub Codespaces 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1497)
 * [How a one line change decreased our clone times by 99% | by Pinterest Engineering | Pinterest Engineering Blog | Oct, 2020 | Medium](https://medium.com/pinterest-engineering/how-a-one-line-change-decreased-our-build-times-by-99-b98453265370)
+* [The Easiest Way To Remove Checked In Credentials From A Git Repo | by Tanmay Deshpande | Medium](https://medium.com/@tanmay.avinash.deshpande/the-easiest-way-to-remove-checked-in-credentials-from-a-git-repo-704a373b94e3)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
