@@ -663,6 +663,7 @@ Javascript
 * pipeline
   * [Let’s experiment with functional generators and the pipeline operator in JavaScript](https://medium.freecodecamp.org/lets-experiment-with-functional-generators-and-the-pipeline-operator-in-javascript-520364f97448)
   * [The State of Piping in JavaScript | by Christofer Eliasson | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/the-state-of-piping-in-javascript-ccbead18b971)
+* reduce [5 Use Cases for reduce() in JavaScript | by wathsala danthasinghe | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/5-use-cases-for-reduce-in-javascript-61ed243b8fef)
 * undefined
   * [undefined 와 null 의 차이점은 무엇인가요?](https://developer88.tistory.com/272)
   * [JavaScript — Null vs. Undefined](https://codeburst.io/javascript-null-vs-undefined-20f955215a2)
@@ -782,6 +783,7 @@ Javascript
 * [Why I Am Relearning Angular. Missing pieces in my Angular learning… | by Bharath Ravi | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/why-i-am-relearning-angular-5308555f4e8e)
 * [Angular Refactoring Examples. Common patterns, tips & tricks, for… | by Erxk Verduin | Sep, 2020 | ITNEXT](https://itnext.io/angular-refactoring-examples-1fc16c4e58ff)
 * [Eager Loading in Angular. In Angular, there are 3 main types of… | by Chameera Dulanga | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/eager-loading-in-angular-7aab94c09ab3)
+* [Packaging your Spring Boot and Angular 2+ projects together | by Diego Hordi | Level Up Coding](https://levelup.gitconnected.com/packaging-your-spring-boot-and-angular-2-projects-together-a13a9c5efdb7)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -1418,6 +1420,7 @@ Javascript
   * [Passport를 이용한 네이버, 카카오, 페이스북 로그인](http://engineeryun.tistory.com/entry/Passport%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%84%A4%EC%9D%B4%EB%B2%84-%EC%B9%B4%EC%B9%B4%EC%98%A4-%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81-%EB%A1%9C%EA%B7%B8%EC%9D%B8-1)
   * [Learn how to handle authentication with Node using Passport.js](https://medium.freecodecamp.org/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e)
   * [Everything you need to know about the `passport-local` Passport JS Strategy](https://levelup.gitconnected.com/everything-you-need-to-know-about-the-passport-local-passport-js-strategy-633bbab6195)
+  * [Everything you need to know about the `passport-jwt` Passport JS Strategy (and Angular implementation) | by Zach Gollwitzer | The Startup | Medium](https://medium.com/swlh/everything-you-need-to-know-about-the-passport-jwt-passport-js-strategy-8b69f39014b0)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
 * [Peaks.js: Audio waveform rendering in the browser](http://www.bbc.co.uk/rd/blog/2013/10/audio-waveforms)
 * [perfect-arrows: A minimal tool for drawing perfect arrows between points and shapes](https://github.com/steveruizok/perfect-arrows)
