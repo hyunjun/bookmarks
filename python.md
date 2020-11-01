@@ -479,6 +479,7 @@ Python
 * [7 Deadly Sins Python Developers Do | by Anupam Chugh | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/7-deadly-sins-python-developers-do-eb53d8a880)
 * [Everything You Ever Wanted to Know About Python Return Statements | by Indhumathy Chelliah | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/everything-you-ever-wanted-to-know-about-python-return-statements-c14f6c749ff2) 기초
 * [6 Typical Errors Python Newbie Should Know | by Vivek Coder | Towards Data Science](https://towardsdatascience.com/6-typical-errors-python-newbie-should-know-39eac4886375)
+* [4 Super Useful Python Features. Four less well-known but incredibly… | by James Briggs | Towards Data Science](https://towardsdatascience.com/4-super-useful-python-features-993ae484fbb8) List append and extend, Yield vs Return, print(start, end), map and lambda
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
