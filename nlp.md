@@ -1047,6 +1047,7 @@ NLP
   * [Neural coref - State-of-the-art coreference resolution based on neural nets and spaCy](https://github.com/huggingface/neuralcoref)
     * 신경망과 spaCy를 이용한 coreference resolution library
     * [State-of-the-art neural coreference resolution for chatbots](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30)
+  * [NLP With Python: Build a Haiku Machine in 50 Lines Of Code | by Sean Zhai | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/nlp-with-python-build-a-haiku-machine-in-50-lines-of-code-6c7b6de959e3)
   * [Prodigy: A new tool for radically efficient machine teaching](https://explosion.ai/blog/prodigy-annotation-tool-active-learning)
   * [yujuwon.tistory.com/m/tag/spaCy](http://yujuwon.tistory.com/m/tag/spaCy)
   * [Machine Learning for Text Classification Using SpaCy in Python](https://towardsdatascience.com/machine-learning-for-text-classification-using-spacy-in-python-b276b4051a49)
