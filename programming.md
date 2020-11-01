@@ -275,6 +275,7 @@ Programming
 * [우아한 파일럿 프로젝트 2기(feat.고독한개발자)](http://woowabros.github.io/experience/2018/11/29/pilot-project-minzy.html)
 * [How to Organize Software Development In a Super-Efficient Way: Three Practical Tips](https://hackernoon.com/how-to-organize-software-development-in-a-super-efficient-way-three-practical-tips-86abe7575ed0)
 * [사례를 기반으로 한 소프트웨어 엔지니어의 공부법](http://technical-leader.tistory.com/10)
+* [프로그래머를 위한 공부론.pdf](http://databaser.net/moniwiki/pds/Programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC_%EC%9C%84%ED%95%9C_%EA%B3%B5%EB%B6%80%EB%A1%A0.pdf)
 * [동작하게 만들고, 제대로 만들고, 빠르게 만든다](http://jhrogue.blogspot.com/2019/01/b_19.html)
 * [카카오페이 QR 코드 리버스 엔지니어링](http://philosophical.one/posts/kakaopay-qrcode)
 * [How Google Software Engineers Work (coding & programming workflow)](https://www.youtube.com/watch?v=LnXk9XZjXbg)
