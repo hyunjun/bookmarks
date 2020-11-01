@@ -527,6 +527,7 @@ Algorithm
 * [Algorithms for Interview 1: Stack](https://medium.com/techtofreedom/algorithms-for-interview-1-stack-38884a9020c)
 * [Algorithms for Interview 2: Monotonic Stack](https://medium.com/techtofreedom/algorithms-for-interview-2-monotonic-stack-462251689da8)
 * [Implementing a Stack in JavaScript](https://medium.com/better-programming/implementing-a-stack-in-javascript-73d1aa0483c1)
+* [The Stack — what is it exactly, and how does it work in JavaScript? | by Matthew Taylor | The Startup | Medium](https://medium.com/swlh/the-stack-what-is-it-exactly-and-how-does-it-work-in-javascript-cbc7ee4bacdd)
 * [Stacks and Queues in Python. Learn 2 popular linear data structures. | by Keno Leon | Level Up Coding](https://levelup.gitconnected.com/stacks-and-queues-in-python-b2e8b4dbd876)
 
 # Search
