@@ -1035,3 +1035,4 @@
 * [Big Data Tools 소개 – IntelliJ IDEA 내에서 Spark 통합 및 Zeppelin 노트북 지원](https://blog.jetbrains.com/kr/2019/10/big-data-tools-%EC%86%8C%EA%B0%9C-intellij-idea-%EB%82%B4%EC%97%90%EC%84%9C-spark-%ED%86%B5%ED%95%A9-%EB%B0%8F-zeppelin-%EB%85%B8%ED%8A%B8%EB%B6%81-%EC%A7%80%EC%9B%90/)
 * [K-Means clustering with Apache Spark and Zeppelin notebook on Docker](https://medium.com/rahasak/k-means-clustering-with-apache-spark-and-zeppelin-notebook-on-docker-4ed2db66c3c8)
 * [Zeppelin notebook shortcuts - Mk’s Blog](https://moons08.github.io/programming/zeppelin_shortcuts/)
+* [Using Apache Zeppelin with SQL Server | by Mike Moritz | Medium](https://medium.com/@mike.p.moritz/using-apache-zeppelin-with-sql-server-d1964207ac5e)
