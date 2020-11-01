@@ -770,6 +770,7 @@ AWS
 ## Lambda Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
 * [How to Setup AWS Lambda in Scala without any external Library](https://edward-huang.com/aws/cloud/2019/11/28/how-to-setup-aws-lambda-in-scala-without-any-external-library/)
+* [How to Setup AWS Lambda in Scala without any external Library | by Edward Huang | The Startup | Medium](https://medium.com/swlh/how-to-setup-aws-lambda-in-scala-without-any-external-library-9b1e754d29a5)
 * [Manage Multiple Lambdas behind a Single API Gateway](https://medium.com/@5tigerjelly/manage-multiple-lambdas-behind-a-single-api-gateway-ed829f1465ba)
 
 # Library
