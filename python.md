@@ -183,6 +183,7 @@ Python
 * [Facebook - Python in production engineering](https://code.facebook.com/posts/1040181199381023/python-in-production-engineering/)
 * [(E, K)Generating Python Module Dependency Graphs(종속성 그래프 생성하기)](http://stackrefactoring.blogspot.com/2016/06/e-kgenerating-python-module-dependency.html)
 * [파이썬 프로젝트의 구조](https://www.holaxprogramming.com/2017/06/28/python-project-structures/)
+* [Organizing your Python Code. In spite of yourself | by Keno Leon | Medium](https://k3no.medium.com/organizing-your-python-code-ca5445843368)
 * [메모리 소비 크기 구하기](http://mcchae.egloos.com/11174965)
 * [메모리 사용 및 persistent dict, list](http://mcchae.egloos.com/11221188)
 * [배준현: 파이썬 메모리 이모저모 - PyCon Korea 2015](https://www.youtube.com/watch?v=UwGHc6A0Jq8)
@@ -335,6 +336,7 @@ Python
 * [12 Python Tips and Tricks For Writing Better Code | by Pavel Tech | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/12-python-tips-and-tricks-for-writing-better-code-b57e7eea580b)
 * [I Thought I Was Mastering Python Until I Discovered These Tricks](https://towardsdatascience.com/i-thought-i-was-mastering-python-until-i-discovered-these-tricks-e40d9c71f4e2)
 * [30 Magical Python Tricks to Write Better Code - Towards Data Science](https://towardsdatascience.com/30-magical-python-tricks-to-write-better-code-e54d1642c255)
+* [The ultimate guide to writing better Python code | by Rhea Moutafis | Towards Data Science](https://towardsdatascience.com/the-ultimate-guide-to-writing-better-python-code-1362a1209e5a)
 * [10 Smooth Python Tricks For Python Gods | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/10-smooth-python-tricks-for-python-gods-2e4f6180e5e3)
 * [Write Better Python Code With These 10 Tricks | by Yong Cui, Ph.D. | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/write-better-python-code-with-these-10-tricks-30b7018e247a)
 * [**7 Python Tricks You Should Know. Impress your friends with these useful… | by Nabilah Abu Bakar | Better Programming | Medium**](https://medium.com/better-programming/7-python-tricks-you-should-know-bdaa98b866f2) YouTube-Dl, Pdb, PyInstaller, Tqdm, Colorama, Tabulate, Ptpython
@@ -482,6 +484,8 @@ Python
 * [Everything You Ever Wanted to Know About Python Return Statements | by Indhumathy Chelliah | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/everything-you-ever-wanted-to-know-about-python-return-statements-c14f6c749ff2) 기초
 * [6 Typical Errors Python Newbie Should Know | by Vivek Coder | Towards Data Science](https://towardsdatascience.com/6-typical-errors-python-newbie-should-know-39eac4886375)
 * [4 Super Useful Python Features. Four less well-known but incredibly… | by James Briggs | Towards Data Science](https://towardsdatascience.com/4-super-useful-python-features-993ae484fbb8) List append and extend, Yield vs Return, print(start, end), map and lambda
+* [Introduction to Priority Queues in Python | by Raivat Shah | Towards Data Science](https://towardsdatascience.com/introduction-to-priority-queues-in-python-83664d3178c3) list, heapq, queue.PriorityQueue
+* [10 Algorithms To Solve Before your Python Coding Interview | by AnBento | Towards Data Science](https://towardsdatascience.com/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27) string, array
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -587,6 +591,7 @@ Python
 * dataclass
   * [파이썬 dataclasses가 뭘까?](https://sjquant.tistory.com/30)
   * [TypedDict vs dataclasses in Python — Epic typing BATTLE! | Meeshkan Website](https://meeshkan.com/blog/typedict-vs-dataclasses-in-python/) Optional
+  * [12 Examples of How To Write Better Code Using @dataclass | by Bruce H. Cottman, Ph.D. | Towards Data Science](https://towardsdatascience.com/12-examples-of-how-to-write-better-code-using-dataclass-d7c121ee0239)
 * datetime
   * [practice](https://github.com/hyunjun/practice/blob/master/python/test-datetime/datetime.ipynb)
   * [파이썬 Datetime 이해하기](http://www.slideshare.net/dahlmoon/datetime)
@@ -1417,6 +1422,7 @@ Python
 * [Anton Chernikov - Automate your tasks with Python and publish with Chat Apps - YouTube](https://www.youtube.com/watch?v=UIdKVF37g0o)
 * [Automating Every Aspect of Your Python Project | by Martin Heinz | Towards Data Science](https://towardsdatascience.com/automating-every-aspect-of-your-python-project-6517336af9da)
 * [Automate Your Reporting With Python, Vue.js and Gmail | The Startup](https://medium.com/swlh/automate-your-reporting-with-python-and-vue-js-15ef130fff8)
+* [Automating your daily tasks with Python | by Shivani Sinha | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/automating-your-daily-tasks-with-python-ccce4aa8fd7a)
 
 # Baseball
 * [Baseball Analytics: An Introduction to Sabermetrics using Python](http://adilmoujahid.com/posts/2014/07/baseball-analytics/)
