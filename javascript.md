@@ -3014,6 +3014,7 @@ Javascript
   * [Jest matching objects in array](https://medium.com/@andrei.pfeiffer/jest-matching-objects-in-array-50fe2f4d6b98)
   * [Error: Cannot find module (...) from (...) - TypeScript problem - React](https://frontendcat.com/cannot-find-module-react-jest/)
   * [Migrating unit tests from Mocha, Chai, Sinon, Karma, PhantomJS to Jest](https://medium.com/@clint.brown/migrating-unit-tests-from-mocha-chai-sinon-karma-phantomjs-to-jest-c214df7f5262)
+  * [How to make your sluggish Jest tests go faster | by Vitaly Kondratiev | ITNEXT](https://itnext.io/how-to-make-your-sluggish-jest-v23-tests-go-faster-1d4f3388bcdd)
 * [Mocha.js](https://github.com/mochajs)
   * [Mocha 로 하는 JavaScript Testing](http://inspiredjw.com/entry/Mocha-%EB%A1%9C-%ED%95%98%EB%8A%94-JavaScript-Testing)
   * [Mocha.js org의 멤버가 되다](https://blog.outsider.ne.kr/1360)
