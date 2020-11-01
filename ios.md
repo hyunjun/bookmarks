@@ -447,6 +447,7 @@ iOS
 * [What’s New in Swift 5.3](https://medium.com/swlh/whats-new-in-swift-5-3-ae135c9c259f)
 * [Using a C library inside a Swift framework](https://medium.com/swift-and-ios-writing/using-a-c-library-inside-a-swift-framework-d041d7b701d9)
   * [Swift Framework 에서 C 라이브러리 사용](https://brunch.co.kr/@tilltue/60)
+* [Fix Bugs in Your Swift Code. Squash those critters | by Steven Curtis | Medium](https://stevenpcurtis.medium.com/fix-bugs-in-your-swift-code-e9d53bc11883)
 
 ## Library Swift
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
