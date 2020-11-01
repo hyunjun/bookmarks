@@ -2012,6 +2012,7 @@ Javascript
 * [Playwright - a Node library to automate Chromium, Firefox and WebKit with a single API](https://playwright.dev/)
   * [playwright: Node.js library to automate Chromium, Firefox and WebKit with a single API](https://github.com/microsoft/playwright)
   * [Playwright 1.0 Release Automates Chromium, Firefox, and WebKit-Based Browsers](https://www.infoq.com/news/2020/05/playwright-10-browser-automation/)
+  * [Fast and reliable cross-browser testing with Playwright 🎭 | by Arjun Attam | Medium](https://medium.com/@arjunattam/fast-and-reliable-cross-browser-testing-with-playwright-155c0e8a821f)
 * pm2
   * [PM2 를 이용하여 NodeJS 프로세스 관리하기](http://www.tutorialbook.co.kr/entry/PM2-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-NodeJS-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
   * [pm2-webshell: Expose a fully capable terminal in your browser](https://keymetrics.io/2015/06/10/pm2-ssh-expose-a-fully-capable-terminal-within-your-browser/)
@@ -2698,6 +2699,7 @@ Javascript
 * [Five awesome React.js packages to check out | Varun Chilukuri | JavaScript In Plain English](https://medium.com/javascript-in-plain-english/five-awesome-react-packages-to-check-out-1ee42f2c19f7)
 * [Top 11 Essential React Libraries Every Web Developer Should Know to Build Sustainable Applications | by Amy J. Andrews | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/top-11-essential-react-libraries-every-web-developer-should-know-to-build-sustainable-applications-625110f8cf66)
 * [9 React Styled-Components UI Libraries for 2019 | by Jonathan Saring | Bits and Pieces](https://blog.bitsrc.io/9-react-styled-components-ui-libraries-for-2018-4e1a0bd3e179)
+* [21 React UI Component Libraries You Should Start Using from Today | by Amy J. Andrews | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/21-react-ui-component-libraries-you-should-start-using-from-today-6249758d188)
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
 * [Chakra UI | Design System built with React](https://chakra-ui.com/)
   * [Accessible and Beautiful Components with Chakra UI | by Malcolm Laing | Frontend Digest | Jun, 2020 | Medium](https://medium.com/frontend-digest/accessibie-and-beautiful-components-with-chakra-ui-bd37a2d72f5f)
@@ -2849,6 +2851,7 @@ Javascript
   * [리액트 라우터를 활용한 권한별 라우팅 제어](https://jeonghwan-kim.github.io/dev/2020/03/20/role-based-react-router.html)
   * [Introduction to React Router](https://medium.com/swlh/introduction-to-react-router-903682ab9e3)
   * [What’s New In React Router 6. Is it worth upgrading? | by Malcolm Laing | Frontend Digest | Medium](https://medium.com/frontend-digest/whats-new-in-react-router-6-732b06cc83e4)
+  * [How to Use URL Parameters and Query Strings With React Router | by John Au-Yeung | Better Programming | Medium](https://medium.com/better-programming/using-url-parameters-and-query-strings-with-react-router-fffdcea7a8e9)
 * [react scope - VISUALIZE YOUR REACT COMPONENTS AS YOU INTERACT WITH YOUR APPLICATION](http://reactscope.com/)
 * [React Sight — Visualise your React apps](https://medium.com/javascript-in-plain-english/react-sight-visualize-your-react-applications-ec3c7e1ae154)
 * react-spring [How to create a component slider with react-spring](https://medium.com/@Joe_Pal50/how-to-create-a-component-slider-with-react-spring-cc3d8881376b)
