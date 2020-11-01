@@ -208,6 +208,7 @@ Algorithm
 * [An Illustrative Introduction to Dynamic Time Warping | by Esmaeil Alizadeh | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/an-illustrative-introduction-to-dynamic-time-warping-36aa98513b98) DTW
 * [배열에서 가장 큰 직사각형 구하기 : 관찰을 통해 풀어봅시다.](https://codingdog.tistory.com/entry/%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95-%EA%B5%AC%ED%95%98%EA%B8%B0-%EA%B4%80%EC%B0%B0%EC%9D%84-%ED%86%B5%ED%95%B4-%ED%92%80%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [Maximum Perimeter Triangle with Greedy Approach | by Pulsara Sandeepa | Oct, 2020 | Level Up Coding](https://levelup.gitconnected.com/maximum-perimeter-triangle-with-greedy-approach-bd6279471d2e)
+* [All Pythagorean Triplets in Optimal Time Complexity | Level Up Coding](https://levelup.gitconnected.com/all-pythagorean-triplets-less-than-equal-n-in-optimal-time-complexity-babfbe742337)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -592,6 +593,7 @@ Algorithm
 # String
 * [String Interview Questions: The Ultimate Guide](https://www.byte-by-byte.com/strings/)
 * [Beating Textbook Algorithms in String Search](https://medium.com/wix-engineering/beating-textbook-algorithms-in-string-search-5d24b2f1bbd0)
+* [Code optimization, how to optimize the code, code performance, how to increase code performance, how to make code more readable. | JavaScript In Plain English](https://medium.com/javascript-in-plain-english/optimize-your-code-and-itll-execute-up-to-55-faster-%EF%B8%8F-3f0c1929ab07) palindrome
 * [Aho Corasick](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
   * [Aho-Corasick Algorithm(아호 코라식 알고리즘)](https://www.slideshare.net/ssuser81b91b/ahocorasick-algorithm)
   * [Aho-Corasick string matching algorithm](http://hwamir.tistory.com/)
