@@ -30,6 +30,7 @@ Programmer
 * [10 habits of Senior Software Developers (part 2) | by CBernardes | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/10-simple-habits-to-help-you-boost-your-programming-skills-and-career-as-software-developer-da0fb019c563)
 * [The Things I Learned to Become a Senior Software Engineer | by Neil Kakkar | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/the-things-i-learned-to-become-a-senior-software-engineer-1083686d70cd)
 * [5 Signs of a Senior Developer. Being a senior developer has to do with… | by Daan | Oct, 2020 | Level Up Coding](https://levelup.gitconnected.com/5-signs-of-a-senior-developer-7f5c59093c73)
+* [The One and Only Factor That Will Make You a Senior Developer | by Travis Rodgers | The Startup | Medium](https://medium.com/swlh/the-one-and-only-factor-that-will-make-you-a-senior-developer-4fdd9d21b8c4)
 * [노마드 코더 Nomad Coders](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ)
 * [꾸준히, 자유롭게, 즐겁게 - 한국 오픈 소스 개발자들 이야기](http://osdi.insightbook.co.kr/)
 * [‘자극이 필요한’ 개발자를 위해 엄선한 국내 포트폴리오 & 개인 블로그 7선](http://harbor.cz/stories/portfolio-me/)
