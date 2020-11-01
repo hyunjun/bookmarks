@@ -368,7 +368,6 @@ Javascript
 * [5.16 Javascript Standard Built-in Objects 표준 빌트인 객체](http://poiemaweb.com/js-standard-built-in-objects)
 * [Accessing Nested Objects in JavaScript](https://codeburst.io/accessing-nested-objects-in-javascript-c2ed249fe576)
 * [How to create objects in JavaScript](https://medium.freecodecamp.org/a-complete-guide-to-creating-objects-in-javascript-b0e2450655e8)
-* [Diving Deeper in JavaScripts Objects A Closer Look at JavaScript Object Descriptors](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12)
 * [전역 객체가 전역 객체인 이유](https://overcurried.netlify.com/%EC%A0%84%EC%97%AD%20%EA%B0%9D%EC%B2%B4%EA%B0%80%20%EC%A0%84%EC%97%AD%20%EA%B0%9D%EC%B2%B4%EC%9D%B8%20%EC%9D%B4%EC%9C%A0)
 * [**자바스크립트에 대한 애정을 언어의 90%를 쓰레기통에 버리면서 다시 발견했던 과정**](https://rhostem.github.io/posts/2017-09-how-i-rediscovered-my-love-for-java-script-after-throwing-90-of-it-in-the-trash/)
 * [치즈채널 e04 – 자바스크립트 특집 1부](https://iamprogrammer.io/2016/12/26/%EC%B9%98%EC%A6%88%EC%B1%84%EB%84%90-e04-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8A%B9%EC%A7%91-1%EB%B6%80/)
@@ -634,7 +633,6 @@ Javascript
 * [Comma Operator in JavaScript](https://medium.com/javascript-in-plain-english/comma-operator-in-javascript-cfe170f5b4d3)
 * [자바스크립트의 var, let, const 를 알아보자](https://developer88.tistory.com/271)
 * [favorite JavaScript utilities in single line of code! No more!](https://1loc.dev/)
-* [You should know about ==, Object.defineProperty and Proxy in JavaScript](https://medium.com/javascript-in-plain-english/you-should-know-about-object-defineproperty-and-proxy-in-javascript-8e28e7939232)
 * [Should You Stop Using .forEach() in Your JavaScript Code?](https://medium.com/better-programming/should-you-stop-using-foreach-in-your-javascript-code-efe1e86c78e5)
 * [How to Use ForEach() in JavaScript | by Jamie Pittman | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/how-to-use-foreach-in-javascript-bce289252035)
 * [Learn JavaScript Fundamentals-Global Scope](https://medium.com/swlh/javascript-fundamentals-global-scope-71ba5e48dbae)
@@ -646,6 +644,7 @@ Javascript
 * [3항 연산자의 재발견. 하얀마인드에서는 (중첩) 3항 연산자를 매우 광범위하게 사용한다… | by Jeungmin Oh | 하얀마인드 기술 블로그 | Medium](https://medium.com/hayanmind-tech-blog-kr/3%ED%95%AD-%EC%97%B0%EC%82%B0%EC%9E%90%EC%9D%98-%EC%9E%AC%EB%B0%9C%EA%B2%AC-a3f815bcdbb8)
 * [JavaScript Features You Probably Haven’t Used | by John Au-Yeung | Level Up Coding](https://levelup.gitconnected.com/javascript-features-we-probably-havent-used-adc4ca6711b5) Tagged Template Literals, Comma Operator, with
 * [15 Simple Coding Techniques to Get Your Tasks Done with Shorter Code in JavaScript | by Amy J. Andrews | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/15-simple-coding-techniques-to-get-your-tasks-done-with-shorter-code-in-javascript-59d46801db0)
+* [JavaScript: Abstraction, Data Types, and Expressions | by UH COSC 4315 Group 4 | Medium](https://medium.com/@csg.riskgame/javascript-abstraction-data-types-and-expressions-b52767bb529e)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
@@ -656,6 +655,10 @@ Javascript
   * [Stop Using console.log() In JavaScript | by Harsha Vardhan | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/stop-using-console-log-in-javascript-d29d6c24dc26)
 * maps
   * [Turn JavaScript Objects in Maps for Predictability](https://medium.com/better-programming/make-your-javascript-objects-more-predictable-by-creating-maps-20ac1a795442)
+* object
+  * [Diving Deeper in JavaScripts Objects A Closer Look at JavaScript Object Descriptors](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12)
+  * [You should know about ==, Object.defineProperty and Proxy in JavaScript](https://medium.com/javascript-in-plain-english/you-should-know-about-object-defineproperty-and-proxy-in-javascript-8e28e7939232)
+  * [JavaScript: Object.defineProperty | by Heloise Parein | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/javascript-object-defineproperty-411c5fff06bc)
 * optional chaining '?.' [How Optional Chaining Made My Code Awesome | by Harsha Vardhan | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/how-optional-chaining-made-my-code-awesome-e9c55ba53da)
 * pipeline
   * [Let’s experiment with functional generators and the pipeline operator in JavaScript](https://medium.freecodecamp.org/lets-experiment-with-functional-generators-and-the-pipeline-operator-in-javascript-520364f97448)
@@ -778,6 +781,7 @@ Javascript
 * [Storybook with Angular 10 | By: Jake Cyr | The Startup](https://medium.com/swlh/setup-storybook-with-angular-10-d4203099a2f)
 * [Why I Am Relearning Angular. Missing pieces in my Angular learning… | by Bharath Ravi | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/why-i-am-relearning-angular-5308555f4e8e)
 * [Angular Refactoring Examples. Common patterns, tips & tricks, for… | by Erxk Verduin | Sep, 2020 | ITNEXT](https://itnext.io/angular-refactoring-examples-1fc16c4e58ff)
+* [Eager Loading in Angular. In Angular, there are 3 main types of… | by Chameera Dulanga | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/eager-loading-in-angular-7aab94c09ab3)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
