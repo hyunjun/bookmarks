@@ -426,6 +426,7 @@ App
   * [POSTMAN을 이용해 REST API와 URL 요청 TEST 해보기](https://rwd337.tistory.com/173)
   * [포스트맨(Postman)을 이용한 API 테스트](https://imasoftwareengineer.tistory.com/36)
   * [Postman 개요 / 설치 / 사용법 / 활용 방법](http://devkyeol.tistory.com/entry/Postman-%EA%B0%9C%EC%9A%94-%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95)
+  * [Continuous Testing of APIs. A strategy to ensure all of your APIs… | by Kaustav Das Modak | Better Practices | Medium](https://medium.com/better-practices/continuous-testing-of-apis-5294552d65ce)
 * [postwoman.io](https://postwoman.io/)
 * RestLet_Client [REST API 테스트를 위한 유용한 툴(Chrome Extension : RestLet_Client)](https://www.linkedin.com/pulse/rest-api-%25ED%2585%258C%25EC%258A%25A4%25ED%258A%25B8%25EB%25A5%25BC-%25EC%259C%2584%25ED%2595%259C-%25EC%259C%25A0%25EC%259A%25A9%25ED%2595%259C-%25ED%2588%25B4chrome-extension-restletclient-jun-hee-shin/)
 * [wuzz - Interactive cli tool for HTTP inspection](https://github.com/asciimoo/wuzz)
