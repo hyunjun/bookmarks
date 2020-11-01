@@ -570,6 +570,7 @@ Vision
 * [box-visualizer: Make drawing and labeling bounding boxes easy as cake](https://github.com/shoumikchow/bbox-visualizer)
 * [genetic-drawing: A genetic algorithm toy project for drawing](https://github.com/anopara/genetic-drawing)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
+* ['jetson_nano_opencv_oct' 태그의 글 목록](https://www.g.camp/tag/jetson_nano_opencv_oct)
 
 # OpenGL
 * [open.gl](https://open.gl/)
