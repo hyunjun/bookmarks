@@ -248,6 +248,7 @@ R
 * [Time Series Analysis - 2 | Time Series in R | ARIMA Model Forecasting | Data Science | Simplilearn](https://www.youtube.com/watch?v=Y5T3ZEMZZKs)
 * [Data Science With R | Introduction to Data Science with R | Data Science For Beginners | Simplilearn](https://www.youtube.com/watch?v=0vCK17cQt14)
 * [Logistic Regression in R | Logistic Regression in R Example | Data Science Algorithms | Simplilearn](https://www.youtube.com/watch?v=XycruVLySDg)
+* [로지스틱 회귀(Logistic Regression) – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2237)
 * [Linear Regression in R | Linear Regression in R With Example | Data Science Algorithms | Simplilearn](https://www.youtube.com/watch?v=2Sb1Gvo5si8)
 * [Support Vector Machine in R | SVM Algorithm Example | Data Science With R Tutorial | Simplilearn](https://www.youtube.com/watch?v=QkAmOb1AMrY)
 * [Decision Tree In R | Decision Tree Algorithm | Data Science Tutorial | Machine Learning |Simplilearn](https://www.youtube.com/watch?v=HmEPCEXn-ZM)
