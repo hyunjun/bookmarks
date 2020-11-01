@@ -419,6 +419,7 @@
   ```
 * aggregateByKey
   * [AggregateByKey implements Collect_list in Spark 1.4](http://alvincjin.blogspot.kr/2015/09/aggregatebykey-implements-collectlist.html)
+* Array [Deep Dive into Apache Spark Array Functions | by Neeraj Bhadani | Expedia Group Technology | Medium](https://medium.com/expedia-group-tech/deep-dive-into-apache-spark-array-functions-720b8fbfa729)
 * combineByKey
   * [Using combineByKey in Apache-Spark](http://abshinn.github.io/python/apache-spark/2014/10/11/using-combinebykey-in-apache-spark/)
   * [Spark PairRDDFunctions: CombineByKey](http://codingjunkie.net/spark-combine-by-key/)
@@ -436,6 +437,7 @@
   * [Different approaches to manually create Spark DataFrames](https://medium.com/@mrpowers/manually-creating-spark-dataframes-b14dae906393)
   * [Sending Spark DataFrame via mail](https://medium.com/@n.suthar.online/sending-spark-dataframe-via-mail-f396b1810d89)
   * [How I achieved 3x speedup for joins over Spark dataframes](https://medium.com/@cbhaavan/3x-performance-improvement-for-joins-on-spark-dataframe-d79e93a5fc48)
+  * [Deep dive into Apache Spark Window Functions | by Neeraj Bhadani | Expedia Group Technology | Medium](https://medium.com/expedia-group-tech/deep-dive-into-apache-spark-window-functions-7b4e39ad3c86)
 * Datasets
   * [Introducing Spark Datasets](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
@@ -658,6 +660,7 @@
   * [Spark NLP: Installation on Mac and Linux (Part-II)](https://medium.com/spark-nlp/introduction-to-spark-nlp-installation-and-getting-started-part-ii-d009f7a177f3)
   * [Introduction to Spark NLP: Foundations and Basic Components](https://towardsdatascience.com/introduction-to-spark-nlp-foundations-and-basic-components-part-i-c83b7629ed59)
   * [Spark NLP 101: LightPipeline](https://medium.com/spark-nlp/spark-nlp-101-lightpipeline-a544e93f20f1)
+  * [Spark in Docker in Kubernetes: A Practical Approach for Scalable NLP | by Jürgen Schmidl | Towards Data Science](https://towardsdatascience.com/spark-in-docker-in-kubernetes-a-practical-approach-for-scalable-nlp-9dd6ef47c31e)
 * [spark-packages - A community index of packages for Apache Spark](http://spark-packages.org/)
   * [스칼라 의존성, 패키지 검색하는 웹 - http://spark-packages.org](http://knight76.tistory.com/entry/scala-%EC%8A%A4%EC%B9%BC%EB%9D%BC-%EC%9D%98%EC%A1%B4%EC%84%B1-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B2%80%EC%83%89%ED%95%98%EB%8A%94-%EC%9B%B9-httpsparkpackagesorg)
 * [spark-ts - Time Series for Spark (The spark-ts Package)](https://github.com/sryza/spark-timeseries)
