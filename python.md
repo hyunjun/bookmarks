@@ -411,6 +411,8 @@ Python
 * [Clean Code in Python. “A long descriptive name is better than… | by Esteban Solorzano | Dev Genius | Medium](https://medium.com/dev-genius/clean-code-in-python-8251eea292fa)
 * [Use Python to Power Up Your Day Job | by Martin Andersson Aaberge | Better Programming | Medium](https://medium.com/better-programming/how-to-use-python-to-power-up-your-day-job-c6cd835a7c92)
 * [The Unseen Pitfalls of Python. Because 257 is not 257 but 256 is 256 | by Salvador Aleguas | codeburst](https://codeburst.io/the-unseen-pitfalls-of-python-7ca57f021d08)
+* [5 Python Code Smells You Should Be Wary Of | by Anupam Chugh | Towards Data Science](https://towardsdatascience.com/5-python-code-smells-you-should-be-wary-of-c48cc0eb9d8b)
+* [The Art of ‘One-Lining’ in Python | by Salvador Aleguas | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/the-art-of-one-lining-in-python-1b96fc6fc5a9)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -627,6 +629,7 @@ Python
   * [Implementing Decorators in Python](https://www.youtube.com/watch?v=fAiN-iEsGBA)
   * [Python Tutorial: Decorators With Arguments](https://www.youtube.com/watch?v=KlBPCzcQNU8)
   * [Python OOP Tutorial 6: Property Decorators - Getters, Setters, and Deleters](https://www.youtube.com/watch?v=jCzT9XFZ5bw)
+  * [Why Bother Using Property Decorators in Python? | by Yong Cui, Ph.D. | Better Programming | Medium](https://medium.com/better-programming/why-bother-using-property-decorators-in-python-935c425f86ed)
   * [Decorators 101: A Gentle Introduction to Functional Programming - Jillian Munson](https://www.youtube.com/watch?v=yW0cK3IxlHc)
   * [클래스에 메서드를 추가하는 decorator](http://blog.woosum.net/archives/1584) monkeypatch와 같이 기존 클래스에 새로운 메소드 추가하는 decorator
   * [decorator를 이용한 함수의 doc string 구하기](http://mcchae.egloos.com/11295614)
