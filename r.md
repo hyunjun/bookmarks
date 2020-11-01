@@ -483,6 +483,7 @@ R
   * [dplyr을 SQL로 번역하기](http://ds.sumeun.org/?p=1071)
 * [drake - A scalable solution for reproducibility and high-performance computing https://CRAN.R-project.org/package=drake](https://github.com/wlandau-lilly/drake)
 * [dslabs 패키지 소개 Mnist 손글씨 데이터 읽어오는 패키지 소개](https://choosunsick.github.io/post/mnist/)
+* [Elbird: R wrapper package Kiwi(Korean Intelligent Word Identifier)](https://github.com/mrchypark/Elbird)
 * [ezpickr: Convenient package/function for choosing any rectangular data file using interactive GUI dialog box](https://jooyoungseo.github.io/ezpickr/)
   * pick() 함수를 호출하면 GUI 파일 선택 대화상자가 열리고, 대화상자에서 선택한 파일의 확장자에 따라 적절한 파일 임포팅 패키지::함수를 자동으로 매치
 * [Gifski on CRAN: the fastest GIF encoder in the universe](https://ropensci.org/technotes/2018/07/23/gifski-release/)
