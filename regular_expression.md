@@ -54,7 +54,6 @@ Regular Expression
 * [**불규칙 속에서 규칙을 찾아내는 정규표현식 | Evan's Tech Blog**](https://evan-moon.github.io/2020/07/24/about-regular-expression/)
 * [정규식은 어떻게 사용되는 것일까? | Evan's Tech Blog](https://evan-moon.github.io/2020/08/15/regex-example/)
 * [TIL 정규표현식에 관하여 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/about-regex/)
-* [The ultimate String Super Skills you must have: REGEX | by Gonçalo Guimarães Gomes | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/best-string-super-skills-you-must-have-regex-2f5ecbfd2bca)
 
 # C++
 * [정규 표현식](http://jiniya.net/ng/2017/11/regex/)
@@ -84,6 +83,7 @@ Regular Expression
 # Python
 * [Python: 정규식으로 문자열을 자를 때, 그룹이 포함되어 있는 경우](http://ohgyun.com/781)
 * [Regular Express in Python](https://medium.com/techtofreedom/regular-express-in-python-cbecba6d57c0)
+* [The ultimate String Super Skills you must have: REGEX | by Gonçalo Guimarães Gomes | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/best-string-super-skills-you-must-have-regex-2f5ecbfd2bca)
 * [FlashText - This module can be used to replace keywords in sentences or extract keywords from sentences](https://github.com/vi3k6i5/flashtext)
   * [Regex was taking 5 days to run. So I built a tool that did it in 15 minutes](https://medium.freecodecamp.org/regex-was-taking-5-days-flashtext-does-it-in-15-minutes-55f04411025f)
   * [정규표현식으로는 5일 걸리는 작업, 15분만에 끝내기](https://medium.com/@jwyeom63/%EB%B2%88%EC%97%AD-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D%EC%9C%BC%EB%A1%9C-5%EC%9D%BC-%EA%B1%B8%EB%A6%AC%EB%8A%94-%EC%9E%91%EC%97%85-15%EB%B6%84%EB%A7%8C%EC%97%90-%EB%81%9D%EB%82%B4%EA%B8%B0-2e615a907048)
