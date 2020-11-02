@@ -645,6 +645,7 @@ Javascript
 * [JavaScript Features You Probably Haven’t Used | by John Au-Yeung | Level Up Coding](https://levelup.gitconnected.com/javascript-features-we-probably-havent-used-adc4ca6711b5) Tagged Template Literals, Comma Operator, with
 * [15 Simple Coding Techniques to Get Your Tasks Done with Shorter Code in JavaScript | by Amy J. Andrews | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/15-simple-coding-techniques-to-get-your-tasks-done-with-shorter-code-in-javascript-59d46801db0)
 * [JavaScript: Abstraction, Data Types, and Expressions | by UH COSC 4315 Group 4 | Medium](https://medium.com/@csg.riskgame/javascript-abstraction-data-types-and-expressions-b52767bb529e)
+* [5 Alternatives to ‘If’ Statements for Conditional Branching | by Jamie Bullock | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/5-alternatives-to-if-statements-for-conditional-branching-6e8e6e97430b)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
