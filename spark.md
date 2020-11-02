@@ -362,6 +362,7 @@
 * [Efficient geospatial analysis with Spark](https://medium.com/@karijdempsey/efficient-geospatial-analysis-with-spark-363ba50c5248)
 * [Dealing with null in Spark](https://www.mungingdata.com/apache-spark/dealing-with-null)
 * ['.NET for Apache Spark' Debuts for C#/F# Big Data](https://visualstudiomagazine.com/articles/2019/04/25/net-spark.aspx)
+* [Announcing Version 1.0 of .NET for Apache Spark | .NET Blog](https://devblogs.microsoft.com/dotnet/announcing-version-1-0-of-net-for-apache-spark/)
 * [Parallel Cross Validation in Spark](http://blog.madhukaraphatak.com/parallel-cross-validation/)
 * [Vedant Jain: Smart Streams: A Real-time framework for scoring Big and Fast Data | PyData Miami 2019](https://www.youtube.com/watch?v=C6bAr9f_myQ)
 * [Jakub Hava: Productionizing H2O Models with Apache Spark | PyData Miami 2019](https://www.youtube.com/watch?v=UrynTsa5LEE)
@@ -900,7 +901,7 @@
 * [NVIDIA Accelerates Spark Data Analytics Platform | NVIDIA Blog](https://blogs.nvidia.com/blog/2020/06/24/apache-spark-gpu-acceleration/)
 * [Spark 3.0 — New Functions in a Nutshell - Javarevisited - Medium](https://medium.com/javarevisited/spark-3-0-new-functions-in-a-nutshell-a929fca93413)
 * [Spark & AI summit and a glimpse of Spark 3.0 | by Adi Polak | Towards Data Science](https://towardsdatascience.com/spark-ai-summit-and-a-glimpse-of-spark-3-0-5fe0775386de)
-* [Lightning DB - DRAM/SSD optimized Realtime In-memory DBMS](https://lightningdb.io/blog/2020/10/apache-spark-3.0-review.html)
+* [Apache Spark 3.0 변경 사항](https://lightningdb.io/blog/2020/10/apache-spark-3.0-review.html)
 
 # Spark DL
 * [A Vision for Making Deep Learning Simple From Machine Learning Practitioners to Business Analysts](https://databricks.com/blog/2017/06/06/databricks-vision-simplify-large-scale-deep-learning.html)
