@@ -670,6 +670,7 @@ Javascript
   * [Handling null and undefined in JavaScript](https://medium.com/javascript-scene/handling-null-and-undefined-in-javascript-1500c65d51ae)
   * [FrontEnd Application에서 Null 다루기](https://jbee.io/react/react-data-null-handling/)
   * [The history of “typeof null”](https://2ality.com/2013/10/typeof-null.html)
+* URL [URL에서 쿼리스트링의 파라메터 가져오기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/867)
 
 # AngularJS
 * [Awesome D3 - A list of D3 libraries, plugins and utilities](https://github.com/wbkd/awesome-d3)
@@ -2433,6 +2434,7 @@ Javascript
 * [How We Moved From Wordpress to React and Raised $80 Million](https://medium.com/the-hamato-yogi-chronichels/how-we-moved-from-wordpress-to-react-and-raised-80-million-6e80b88be28f)
 * [11 React UI Component Playgrounds for 2019](https://blog.bitsrc.io/11-react-ui-component-playgrounds-for-2018-eef5a87a1bf8)
 * [Understanding Fragments in React](https://blog.bitsrc.io/understanding-fragments-in-react-a1b6e534b01a)
+* [React.Fragment 와 자바스크립트의 Fragment에 대해 알아보자](https://github.com/sangheon-kim/React-docs-analyze/blob/master/src/Pages/3.Fragments/README.md)
 * [React Concurrent Mode](https://ideveloper2.tistory.com/170)
 * [왜 리액트를 쓰나요?](https://environmentset.github.io/2019/02/13/Why-use-React/)
 * [Lazy Loading React Components (with react.lazy and suspense)](https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c)
