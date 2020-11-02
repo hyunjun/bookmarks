@@ -2552,6 +2552,7 @@ Python
 * [Building Tools with Python. Leveraging the open source… | by Animesh Javali | Medium](https://medium.com/@javalianimesh/building-tools-with-python-5e38fe348a47) argparse, tkinter
 * [State-of-the-art python project setup | by Nitin Aggarwal | Towards Data Science](https://towardsdatascience.com/state-of-the-art-python-project-setup-82a046fc1f20) pipenv, flake8-black, isort, mypy, pytest, coverage, VSCode
 * [파이썬의 기본 도구들 · 개발블로그](https://blog.gyus.me/2020/python-basic-tools/) pip, pytest, black, pyenv, virtualenv, jupyter notebook
+* [Top 15 Python Packages You Must Try | by Erik van Baaren | Programming with Erik | Medium](https://medium.com/tech-explained/top-15-python-packages-you-must-try-c6a877ed3cd0) Dash, PyGame, Pillow, Colorama, JmesPath, Requests, Simplejson, Emoji, Chardet, Python-dateutil, Progress bars: progress and tqdm, IPython, Homeassistant, Flask, Beautiful soup
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
@@ -4088,6 +4089,7 @@ Python
 * [Dustin Ingram - Static Typing in Python - YouTube](https://www.youtube.com/watch?v=cmmPDYa0gWo)
 * [군더더기 없는 파이썬 코드를 위한 타입 체커 4종 - ITWorld Korea](http://www.itworld.co.kr/news/165270)
 * [Static Typing in Python. Conducting Type Checking with Ease | by Eden Au | Towards Data Science](https://towardsdatascience.com/static-typing-in-python-55aa6dfe61b4)
+* [You Should Start Using Type Annotations in Python | by Tivadar Danka | Towards Data Science](https://towardsdatascience.com/python-type-annotations-and-why-you-should-use-them-6f647c6b4e9c)
 * [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
 * [LibCST - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree https://libcst.readthedocs.io ](https://github.com/Instagram/LibCST)
   * [Static Analysis at Scale: An Instagram Story](https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c)
