@@ -909,6 +909,7 @@ Programming
 * [Enabling Distributed Tracing for Microservices With Jaeger in Kubernetes - Container Journal](https://containerjournal.com/topics/container-ecosystems/enabling-distributed-tracing-for-microservices-with-jaeger-in-kubernetes/)
 * [Modern Banking in 1500 Microservices](https://www.infoq.com/presentations/monzo-microservices/)
 * [Principles for Microservice Design: Think IDEALS, Rather than SOLID](https://www.infoq.com/articles/microservices-design-ideals/)
+* [MSA프로젝트에서 마주하는 3가지 어려움](https://brunch.co.kr/@windydog/388)
 * [Edgar: Solving Mysteries Faster with Observability | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
   * [Building Netflix’s Distributed Tracing Infrastructure | by Netflix Technology Blog | Oct, 2020 | Netflix TechBlog](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
 * [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
@@ -1105,6 +1106,7 @@ Programming
 * [병아리 개발자의 걸음마 한 발짝 (feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/09/10/pilot-project.html)
 * [코드리뷰의 진짜 목적은 따로있다](https://blog.logi-spot.com/코드리뷰의-진짜-목적은-따로있다/)
 * [애자일과 소프트웨어 장인정신 - 코드 리뷰를 왜 해야 하나?](https://brunch.co.kr/@cleancode/39)
+* [우리는 코드 리뷰를 잘하고 있을까요?. 안녕하세요, 스타일쉐어에서 안드로이드 개발을 맡고 있는 이길현… | by develog | StyleShare | Oct, 2020 | Medium](https://medium.com/styleshare/%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94-201c12d04d0d)
 * [Clean Code: The Next Chapter by Victor Rentea](https://www.youtube.com/watch?v=wY_CUkU1zfw) 실제 코드로 presentation
 * [Clean Code - 주석(Comment)](https://nesoy.github.io/articles/2018-01/CleanCode-Comment)
 * [클린 코드: 애자일 소프트웨어 장인 정신 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/05/24/Clean-Code.html)
@@ -2236,6 +2238,11 @@ Programming
   * [Understanding gRPC](https://medium.com/better-programming/understanding-grpc-60737b23e79e)
   * [A gRPC C++ introduction. gRPC C++ introduction | by Andrew Vetovitz | Medium](https://medium.com/@andrewvetovitz/grpc-c-introduction-45a66ca9461f)
   * [Road to gRPC](https://blog.cloudflare.com/road-to-grpc/)
+    * gRPC가 HTTP/2를 쓰고 있어서 HTTP/2를 이미 지원하는 Cloudflare에서 바로 쓸 수 있을 것 같지만 다음 이유로 사용할 수 없었음
+      * HTTP trailer 헤더를 엣지 프락시가 완전히 지원하지 않음
+      * 엣지 프락시가 오리진에서 객체를 가져올 때는 HTTP/1.1을 쓰고 있었는데 gRPC를 프락시하려면 오리진과의 통신에도 HTTP/2를 사용해야 함
+      * gRPC 스트리밍을 지원하려면 반대쪽에서 응답 헤더를 받은 뒤에 바디를 보내야 함
+    * 이를 해결하기 위해 gPRC 메시지를 CloudFlare 내부에서만 trailer 헤더 없이 HTTP/1.1 메시지로 변환하는 방법인 gRPC-web을 이용하고 이를 다시 HTTP/2로 변환하고 오리진에서 HTTP/2를 지원할 수 있도록 별도의 오리진 프락시를 구성했다고 함
 * [RSocket - a next-generation, reactive, layer 5 application communication protocol for building today's modern cloud-native and microservice applications](https://www.netifi.com/rsocket)
   * [Building a High-Performance Networking Protocol for Microservices](https://www.youtube.com/watch?v=WaQZCit5-O4)
 
