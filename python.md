@@ -2550,6 +2550,7 @@ Python
 * [10 Tools I Use to Craft Better Python Code | by Richard Quinn | Level Up Coding](https://levelup.gitconnected.com/10-tools-i-use-to-craft-better-python-code-b9a9776a7871) Black, Eradicate, Vulture, Coverage, Pycodestyle, Pylint, Mypy, Pyflakes, Doctest, Bandit, Radon
 * [Building Tools with Python. Leveraging the open source… | by Animesh Javali | Medium](https://medium.com/@javalianimesh/building-tools-with-python-5e38fe348a47) argparse, tkinter
 * [State-of-the-art python project setup | by Nitin Aggarwal | Towards Data Science](https://towardsdatascience.com/state-of-the-art-python-project-setup-82a046fc1f20) pipenv, flake8-black, isort, mypy, pytest, coverage, VSCode
+* [파이썬의 기본 도구들 · 개발블로그](https://blog.gyus.me/2020/python-basic-tools/) pip, pytest, black, pyenv, virtualenv, jupyter notebook
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
