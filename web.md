@@ -714,6 +714,7 @@ Web
 * [How to Use Google Ads API with REST Endpoints](https://hackernoon.com/using-google-ads-api-with-rest-endpoints-c8957eab1d31)
 * [REST API & RESTful Web Services Explained](https://www.youtube.com/watch?v=LooL6_chvN4)
 * [Guys, REST APIs are not Databases](https://medium.com/@marinithiago/guys-rest-apis-are-not-databases-60db4e1120e4)
+  * [저기요, REST API는 데이터베이스가 아니에요 – Doublem.org – Doublem.org가 운영하는 화단](http://doublem.org/guys-rest-apis-are-not-databases/)
 * [API 설계·개발·시험 돕는다 '무료 툴 13종'](http://www.ciokorea.com/news/127430)
 * [Richardson Maturity Model - steps toward the glory of REST](https://martinfowler.com/articles/richardsonMaturityModel.html)
   * [REST의 영광을 향한 단계들 steps toward the glory of REST](https://jinson.tistory.com/190)
