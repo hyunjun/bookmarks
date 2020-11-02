@@ -1972,6 +1972,7 @@ Programming
   * [기술 뉴스 #158 : 20-09-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1496)
   * [기술 뉴스 #159 : 20-10-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1501)
   * [기술 뉴스 #160 : 20-10-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1504)
+  * [기술 뉴스 #161 : 20-11-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1507)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -2006,6 +2007,7 @@ Programming
   * [월간 개발자스럽다 #57](https://blog.gaerae.com/2020/08/monthly_6.html)
   * [월간 개발자스럽다 #58](https://blog.gaerae.com/2020/08/monthly.html)
   * [월간 개발자스럽다 #59](https://blog.gaerae.com/2020/09/monthly.html)
+  * [월간 개발자스럽다 #60](https://blog.gaerae.com/2020/10/monthly.html)
 * [44BITS 뉴스레터 2020년 11주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-11)
 * [44BITS 뉴스레터 2020년 12주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-12)
 * [44BITS 뉴스레터 2020년 13주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-13)
@@ -2069,7 +2071,8 @@ Programming
   * [(10/17) 서버리스 혁명이 지체되는 이유는? - YouTube](https://www.youtube.com/watch?v=YXCRoFy__YQ)
 * [(10월 24일) AWS는 IPv4를 몇 개 확보했을까?](https://jhrogue.blogspot.com/2020/10/10-24-aws-ipv4.html)
   * [(10/24) AWS는 IPv4를 몇 개 확보했을까? - YouTube](https://www.youtube.com/watch?v=DmlO0_aywEw)
-* [(10/31) 클린 아키텍처로 가는 신박한 방법 - YouTube](https://www.youtube.com/watch?v=KtTQbyclKh4) 게임 엔진 블랙 북(울펜슈타인 3D), 고용 관련 네 가지 미신, 한 줄로 빌드 타임 99% 줄이기, 일곱 가지 git 트릭, Pyston v2, 클린 아키텍처로 가는 신박한 방법, Async Cookie Store API, 깃 2.29에서 SHA-256을 실험적 지원
+* [(10월 31일) 클린 아키텍처로 가는 신박한 방법](https://jhrogue.blogspot.com/2020/11/10-31.html) 게임 엔진 블랙 북(울펜슈타인 3D), 고용 관련 네 가지 미신, 한 줄로 빌드 타임 99% 줄이기, 일곱 가지 git 트릭, Pyston v2, 클린 아키텍처로 가는 신박한 방법, Async Cookie Store API, 깃 2.29에서 SHA-256을 실험적 지원
+  * [(10/31) 클린 아키텍처로 가는 신박한 방법 - YouTube](https://www.youtube.com/watch?v=KtTQbyclKh4)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 
 # OS Operating System
