@@ -563,6 +563,7 @@ Apache
 * [Connecting Kafka to MinIO. How to connect data being distributed… | by Alex | The Startup | Medium](https://medium.com/swlh/connecting-kafka-to-a-minio-s3-bucket-using-kafka-connect-92d34a81704e)
 * [Why Kafka Is so Fast. Discover the deliberate design… | by Emil Koutanov | The Startup | Medium](https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03)
 * [Is Apache Kafka a Database?. Can and should Apache Kafka replace a… | by Kai Waehner | Medium](https://medium.com/@megachucky/is-apache-kafka-a-database-ddc310898f5c)
+* [kafka 아는 척하기 (개발자용) :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/kafka-intro-1-for-developers)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
