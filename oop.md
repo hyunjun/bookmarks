@@ -25,6 +25,7 @@
 * [다형성을 사용해 if/else를 제거하는 리팩토링을 하라](https://www.slipp.net/questions/566)
 * [Different Ways to Replace If/Else Statements | The Startup](https://medium.com/swlh/5-ways-to-replace-if-else-statements-857c0ff19357)
 * [Replacing If-Else with Commands and Handlers (CQS) | Level Up Coding](https://levelup.gitconnected.com/replacing-if-else-with-commands-and-handlers-527e0abe2147)
+* [If-Else Is Bad Programming Practice in Modern Code | Level Up Coding](https://levelup.gitconnected.com/if-else-is-a-poor-mans-polymorphism-ab0b333b7265)
 * [객체 지향 언어의 두 가지 줄기](http://mohwa.github.io/blog/javascript/2015/10/16/prototype/)
 * [OOP 에서의 클래스와 인스턴스 개념](https://www.youtube.com/watch?v=8B2Wxks5Sig)
 * [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
