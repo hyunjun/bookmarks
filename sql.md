@@ -274,6 +274,7 @@ SQL
     * [MySQL Update Subquery 성능 비교 (ver.5.6)](https://jojoldu.tistory.com/522)
     * [1. 페이징 성능 개선하기 - No Offset 사용하기](https://jojoldu.tistory.com/528)
     * [2. 페이징 성능 개선하기 - 커버링 인덱스 사용하기](https://jojoldu.tistory.com/529)
+    * [3-1. 페이징 성능 개선하기 - 검색 버튼 사용시 페이지 건수 고정하기](https://jojoldu.tistory.com/530)
   * SHOW
     * `show [full] processlist` [터미널에서 쿼리 전체 보기](https://jybaek.tistory.com/823)
     * [Show Comment of Fields FROM Mysql Table](https://stackoverflow.com/questions/5404051/show-comment-of-fields-from-mysql-table)
