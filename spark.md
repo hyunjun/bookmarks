@@ -888,6 +888,7 @@
 * [Introduction to Spark 3.0 - Part 7 : Dynamic Allocation Without External Shuffle Service](http://blog.madhukaraphatak.com/spark-3-introduction-part-7/)
 * [Introduction to Spark 3.0 - Part 8 : DataFrame Tail Function](http://blog.madhukaraphatak.com/spark-3-introduction-part-8/)
 * [Introduction to Spark 3.0 - Part 9 : Join Hints in Spark SQL](http://blog.madhukaraphatak.com/spark-3-introduction-part-9/)
+* [Introduction to Spark 3.0 - Part 10 : Ignoring Data Locality in Spark](http://blog.madhukaraphatak.com/spark-3-introduction-part-10/)
 * [Spark Plugin Framework in 3.0 - Part 1: Introduction](http://blog.madhukaraphatak.com/spark-plugin-part-1/)
 * [Spark Plugin Framework in 3.0 - Part 2 : Anatomy of the API](http://blog.madhukaraphatak.com/spark-plugin-part-2/)
 * [Spark Plugin Framework in 3.0 - Part 3 : Dynamic Stream Configuration using Driver Plugin](http://blog.madhukaraphatak.com/spark-plugin-part-3/)
