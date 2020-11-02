@@ -129,6 +129,7 @@
 * [마크다운 파서 만들기 고군분투 (1) | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/markdown-parser/)
 * [Adventures in Rust and Load Balancers | by Ben Parli | Medium](https://medium.com/@bparli/adventures-in-rust-and-load-balancers-73a0bc61a192)
 * [Data Processing In Rust With DataFusion (Arrow) | by Chengzhi Zhao | Towards Data Science](https://towardsdatascience.com/data-processing-in-rust-with-datafusion-arrow-56df5432de68)
+* [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
