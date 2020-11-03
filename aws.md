@@ -629,6 +629,7 @@ AWS
 * [Fluent Bit 로 Kubernetes 에 배포된 어플리케이션 로그 수집하기](https://chang12.github.io/eks-fluent-bit-firehose/)
 * [Samsung Health: Scaling Mobile Application Development with Amazon EKS - YouTube](https://www.youtube.com/watch?reload=9&v=S-JSSZZaa94)
 * [How to track costs in multi-tenant Amazon EKS clusters using Kubecost | Containers](https://aws.amazon.com/ko/blogs/containers/how-to-track-costs-in-multi-tenant-amazon-eks-clusters-using-kubecost/)
+* [5일 만에 Azar Production Kubernetes cluster 이전하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/11/02/cluster-migration-in-5-days.html)
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
   * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
 
