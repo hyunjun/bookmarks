@@ -137,7 +137,6 @@ Docker
   * [workout-log/back-end: workout-log의 백엔드 레포지토리 입니다.](https://github.com/workout-log/back-end) JavaScript, EC2, mongodb, Cookie + JWT
   * [**GitHub Container Registry에 도커 이미지 Push 하기 - Qiita**](https://qiita.com/leechungkyu/items/f95998506d45feb15393)
   * [Dockerfile Security Best Practices - Cloudberry Engineering](https://cloudberry.engineering/article/dockerfile-security-best-practices/)
-  * [Preparation toward running Docker on ARM Mac: Building multi-arch images with Docker BuildX | by Akihiro Suda | nttlabs | Medium](https://medium.com/nttlabs/buildx-multiarch-2c6c2df00ca2)
   * [Editing files in a docker container | by Maciek Opała | SoftwareMill Tech Blog](https://blog.softwaremill.com/editing-files-in-a-docker-container-f36d76b9613c)
   * [centos](https://hub.docker.com/_/centos/)
   * couchbase
@@ -444,7 +443,6 @@ Docker
 * [클라우드 파운드리의 진화](https://slownews.kr/74385)
 * [How containers work: overlayfs](https://jvns.ca/blog/2019/11/18/how-containers-work--overlayfs/)
 * [만들면서 이해하는 도커(Docker) 이미지의 구조 - 도커 이미지 빌드 원리와 Overlayfs](https://www.44bits.io/ko/post/how-docker-image-work)
-* [Using multi-arch Docker images to support apps on any architecture](https://mirailabs.io/blog/multiarch-docker-with-buildx/)
 * [Docker 로 Heroku 에 배포하기](https://sangwook.github.io/2015/05/08/docker-heroku.html)
 * [도커를 이용해 쉽게 IRC 서버 구축하기](https://blog.rajephon.dev/2019/04/30/setup-irc-server-with-docker/)
 * [Docker로 한 서버를 여러 사람이 독립적으로 사용할 수 있는 환경 만들기](https://xo.dev/setup-virtual-environment-for-guests-with-docker/)
@@ -488,6 +486,10 @@ Docker
     * 무조건 설정하자. 그렇지 않으면 해당 directory의 모든 파일을 일단 다 검색하고, 추가하려고 시도한 다음 필요없으면 버리기 때문에
     * 시간/공간 절약을 위해서는 무조건 사용하는 게 이득
     * 해당 directory에 큰 용량의 log나 data file이 있는 경우 build도 실패할 뿐더러, disk usage가 100%를 찍을 수도 있음
+* buildx
+  * [Using multi-arch Docker images to support apps on any architecture](https://mirailabs.io/blog/multiarch-docker-with-buildx/)
+  * [Preparation toward running Docker on ARM Mac: Building multi-arch images with Docker BuildX | by Akihiro Suda | nttlabs | Medium](https://medium.com/nttlabs/buildx-multiarch-2c6c2df00ca2)
+  * [Docker buildx를 활용하여 Multi-Architecture 이미지 빌드](https://judo0179.tistory.com/99)
 * cp `sudo docker cp [host path] [container id]:[container path]` [Copying files from host to docker container](http://stackoverflow.com/questions/22907231/copying-files-from-host-to-docker-container)
 * exec
 
