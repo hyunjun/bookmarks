@@ -121,6 +121,7 @@ Linux
 * [How Unix Works: Everything You Were Too Afraid to Ask | by Neil Kakkar | Better Programming | Medium](https://medium.com/better-programming/how-unix-works-everything-you-were-too-afraid-to-ask-f8396aeb2763)
 * [linuxupskillchallenge: Learn the skills required to sysadmin a remote Linux server from the commandline.](https://github.com/snori74/linuxupskillchallenge)
   * [리눅스업스킬도전 - YouTube](https://www.youtube.com/playlist?list=PLdntWJk2tJPLqMxhxCNX7aB0Gm52i5RFz)
+  * [리눅스 업스킬 도전 프로젝트 총정리](https://jhrogue.blogspot.com/2020/11/blog-post.html)
   * [(리눅스 업스킬 도전 #4) 새로운 애플리케이션 설치하기](https://jhrogue.blogspot.com/2020/09/4.html)
   * [(리눅스 업스킬 도전 #13) 파일 접근 허가 기초와 사용자 추가](https://jhrogue.blogspot.com/2020/10/13.html)
   * [(리눅스 업스킬 도전 #17) 소스 코드로 프로그램 컴파일하고 설치하기](https://jhrogue.blogspot.com/2020/10/17.html)
