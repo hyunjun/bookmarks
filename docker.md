@@ -34,6 +34,7 @@ Docker
   * [도커 시작하기 10 : 도커 스웜 - 컴포즈 파일과 스택](https://javacan.tistory.com/entry/docker-start-10-swarm-compose-stack)
   * [도커 시작하기 11 : 도커 스웜 - 네트워크](https://javacan.tistory.com/entry/docker-start-11-swarm-network)
 * [Docker가 뭐고 왜 쓰는건가요?](https://www.youtube.com/watch?v=tPjpcsgxgWc)
+* [무료 DevOps 강의 Docker #1 - 4분만에 배우는 Docker 이론 - YouTube](https://www.youtube.com/watch?v=1I3xDzFPxJ4)
 * [A comprehensive introduction to Docker, Virtual Machines, and Containers](https://medium.freecodecamp.org/comprehensive-introductory-guide-to-docker-vms-and-containers-4e42a13ee103)
 * [1. Introduction to Docker](https://minkukjo.tistory.com/7)
 * [Intro to Docker using a Raspberry Pi 4](https://www.youtube.com/watch?v=nBwJm0onzeo)
