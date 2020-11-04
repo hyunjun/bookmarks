@@ -167,6 +167,7 @@ Git
 * [How a one line change decreased our clone times by 99% | by Pinterest Engineering | Pinterest Engineering Blog | Oct, 2020 | Medium](https://medium.com/pinterest-engineering/how-a-one-line-change-decreased-our-build-times-by-99-b98453265370)
 * [The Easiest Way To Remove Checked In Credentials From A Git Repo | by Tanmay Deshpande | Medium](https://medium.com/@tanmay.avinash.deshpande/the-easiest-way-to-remove-checked-in-credentials-from-a-git-repo-704a373b94e3)
 * [Git push 결과물이 Github 잔디에 반영이 안될 때 해결하기 | by Ryan Kim | Nov, 2020 | Medium](https://equus3144.medium.com/git-push-%EA%B2%B0%EA%B3%BC%EB%AC%BC%EC%9D%B4-github-%EC%9E%94%EB%94%94%EC%97%90-%EB%B0%98%EC%98%81%EC%9D%B4-%EC%95%88%EB%90%A0-%EB%95%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-5968a988b212)
+* [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.slideshare.net/subicura/gitops-cicd-156402754)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
