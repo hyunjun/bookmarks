@@ -898,6 +898,7 @@ NLP
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
 * [InferSent - semantic sentence 표현을 제공하는 sentence embedding 방법](https://www.facebook.com/nextobe1/posts/341533606282641)
 * Jarvis [Introducing NVIDIA Jarvis: A Framework for GPU-Accelerated Conversational AI Applications](https://devblogs.nvidia.com/introducing-jarvis-framework-for-gpu-accelerated-conversational-ai-apps/)
+* [kakaotalk_msg_preprocessor: 카카오톡 채팅방에서 대화 내보내기를 통해 생성한 파일을 전처리해주는 라이브러리입니다](https://github.com/uoneway/kakaotalk_msg_preprocessor)
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
 * [khaiii](https://github.com/kakao/khaiii)
   * [카카오의 딥러닝 기반 형태소 분석기](https://brunch.co.kr/@kakao-it/308)
