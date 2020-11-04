@@ -896,6 +896,7 @@
 * [Spark Plugin Framework in 3.0 - Part 5 : RPC Communication](http://blog.madhukaraphatak.com/spark-plugin-part-5/)
 * [Adaptive Query Execution in Spark 3.0 - Part 1 : Introduction](http://blog.madhukaraphatak.com/spark-aqe-part-1/)
 * [Adaptive Query Execution in Spark 3.0 - Part 2 : Optimising Shuffle Partitions](http://blog.madhukaraphatak.com/spark-aqe-part-2/)
+* [Distributed TensorFlow on Apache Spark 3.0](http://blog.madhukaraphatak.com/tensorflow-on-spark-3.0/)
 * [Webinar: A preview of Apache Spark 3.0](https://www.youtube.com/watch?v=g-qZslQsOuE)
 * [Spark & AI summit and a glimpse of Spark 3.0 - Towards Data Science](https://towardsdatascience.com/spark-ai-summit-and-a-glimpse-of-spark-3-0-5fe0775386de)
 * [Spark 3.0에 새로 추가된 기능 소개 및 설명 - Nephtyw’S Programming Stash](https://nephtyws.github.io/data/whats-new-in-spark-3/)
