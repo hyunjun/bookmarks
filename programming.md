@@ -323,6 +323,7 @@ Programming
 * [유튜브 이야기 독후감 실리콘 벨리와 엔지니어, 유튜브 창업이야기](https://blog.voidmainvoid.net/332)
 * [12. 사고를 쳐도 혼나지 않는 회사 - 너의 실수를 부검한다 - 포스트모템(Postmortem)](https://brunch.co.kr/@svillustrated/13)
 * [**post-mortems: A collection of postmortems. Sorry for the delay in merging PRs!**](https://github.com/danluu/post-mortems)
+* [코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는 법. | by Dayoon Kim | 코드스테이츠 Code States — 혁신적인 교육 부트캠프 | Nov, 2020 | Medium](https://medium.com/code-states/%EC%BD%94%EB%94%A9%EC%9D%84-%EB%B0%B0%EC%9A%B8-%EB%95%8C-%ED%96%88%EB%8D%98-%EC%8B%A4%EC%88%98%EB%93%A4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B7%B8-%EC%8B%A4%EC%88%98%EB%93%A4%EC%9D%84-%ED%94%BC%ED%95%98%EB%8A%94-%EB%B2%95-3497a80217ff)
 * [Tech Seminar 당근마켓 성장과 개발 스택의 변화 - YouTube](https://www.youtube.com/watch?v=ELlQXruFesI)
 * [당근마켓의 푸시알림을 지탱하고 있는 Node.js 서비스. 푸시알림은 당근마켓 서비스에서 채팅, ‘키워드 알림’, ‘금주의… | by Hwasoo Cho | 당근마켓 팀블로그 | Jul, 2020 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%9D%98-%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC%EC%9D%84-%EC%A7%80%ED%83%B1%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94-node-js-%EC%84%9C%EB%B9%84%EC%8A%A4-19023ad86fc)
 * [왜 우리는 Go와 TypeScript를 선택했는가. Java와 Ruby, Python까지 포함해서 5가지 언어를 가져가고… | by 김동현 | 당근마켓 팀블로그 | Jul, 2020 | Medium](https://medium.com/daangn/%EC%99%9C-%EC%9A%B0%EB%A6%AC%EB%8A%94-go%EC%99%80-typescript%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%96%88%EB%8A%94%EA%B0%80-3c08a4cf7ca8)
