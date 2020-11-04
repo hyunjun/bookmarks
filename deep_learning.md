@@ -917,6 +917,7 @@ Deep Learning
 
 # Conference
 * [1st 함께하는 딥러닝 컨퍼런스](https://tykimos.github.io/2018/06/28/ISS_1st_Deep_Learning_Conference_All_Together/)
+* [핵심 정리 갓샘숭의 섭외력! 딥러닝 거장들의 현장 토크 요약 (삼성AI포럼 2020)](https://www.philgineer.com/2020/11/samsung-ai-forum.html)
 * [DLCAT#2 참석 후기 & 정리](https://beomi.github.io/2019/07/04/DLCAT2nd/)
   * [2nd DLCAT (이론)딥러닝으로 오디오 만나보기 - 남기현](https://tykimos.github.io/2019/07/04/ISS_2nd_Deep_Learning_Conference_All_Together_namkihyun/)
   * [강화학습 해부학 교실: Rainbow 이론부터 구현까지 (2nd dlcat in Daejeon)](https://www.slideshare.net/KyunghwanKim27/rainbow-2nd-dlcat-in-daejeon)
