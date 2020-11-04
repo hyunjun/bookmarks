@@ -230,6 +230,11 @@ Apache
 * [Improving throughput and latency with Flink's network stack - Nico Kruber](https://www.youtube.com/watch?v=AbqatHF3tZI) flink flow mechanism
 * [Apache Flink Virtual Meetup Seoul July 23, 2020 - YouTube](https://www.youtube.com/watch?v=HWTb5kn4LvE)
   * [Flink on Kubernetes operator](https://www.slideshare.net/EuiHeo/flink-onkubernetesoperator-237435230)
+* [Enriching your Data Stream Asynchronously with Apache Flink - YouTube](https://www.youtube.com/watch?v=UParyxe-2Wc)
+* [Keynote | Flink Ahead 2.0: The Sequel - Konstantin Knauf - YouTube](https://www.youtube.com/watch?v=w2CAnHLGRuU)
+* [Flink SQL in 2020: Time to show off! - Fabian Hueske & Timo Walther - YouTube](https://www.youtube.com/watch?v=UnCkwIp_614)
+* [Unified APIs for Batch and Stream Processing on Flink - YouTube](https://www.youtube.com/watch?v=z9ye4jzp4DQ)
+* HRFS [On-demand low-latency feature generation at Hyperconnect - YouTube](https://www.youtube.com/watch?v=jujAAaMQdF4)
 
 # Flume
 * [Scaling a flume agent to handle 120K events/sec](https://medium.com/data-collective/scaling-a-flume-agent-to-handle-120k-events-sec-11f70a428ca2)
