@@ -600,6 +600,7 @@ Go
 * [Go TDD](http://www.joinc.co.kr/w/man/12/golang/TDD)
 * [How to mock? Go Way](https://blog.learngoprogramming.com/how-to-mock-in-your-go-golang-tests-b9eee7d7c266)
 * [Unit Testing Using Mocking in Go - Priyanshu Gautam - Medium](https://medium.com/@priyanshugautam1997/unit-testing-using-mocking-in-go-f281122f499f)
+* [유연하고 테스트 가능한 Go 코드 작성하기 - 당근마켓 팀 블로그 | by Marco | 당근마켓 팀블로그](https://medium.com/daangn/how-to-write-a-testable-golang-code-4c0e67612bb8)
 * [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)
 * [MartianProxy is a proxy designed for use in E2E testing](https://github.com/google/martian)
 * [testing/quick: Blackbox Testing in Go for Fun and Profit](http://blog.matttproud.com/2015/06/testingquick-blackbox-testing-in-go-for.html)
