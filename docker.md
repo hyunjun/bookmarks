@@ -851,6 +851,7 @@ Docker
 * [Kubernetes Imperative Commands Every Engineer Should Learn | by Luisapreciado | Dev Genius | Medium](https://medium.com/dev-genius/kubernetes-imperative-commands-every-engineer-should-learn-3b5d8217fa29)
 * [Kubernetes Ingress Controllers - Google Sheets](https://docs.google.com/spreadsheets/d/191WWNpjJ2za6-nbG4ZoUMXMpUK8KlCIosvQB0f-oq3k/edit#gid=907731238)
 * [4 Simple Kubernetes Terminal Customizations to Boost Your Productivity | by Komal Venkatesh Ganesan | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/4-simple-kubernetes-terminal-customizations-to-boost-your-productivity-deda60a19924)
+* [4 ways to run Kubernetes locally | Opensource.com](https://opensource.com/article/20/11/run-kubernetes-locally)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
