@@ -567,6 +567,8 @@ Vision
 * [Make an AI Tracker in 23 Lines of Code in Python | codeburst](https://codeburst.io/make-an-ai-tracker-7dc1c5afccc5)
 * [Building a Face Recognizer in Python | by Behic Guven | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/building-a-face-recognizer-in-python-7fd6630c6340)
 * [OpenCV & Python. Getting started with Computer Vision… | by Keno Leon | Medium](https://medium.com/@k3no/opencv-python-8ea1d2fd46b9)
+* [Image Processing Best Practices in C++ for coding interviews. Write functions similar to ones in OpenCV with full explanation. | Medium](https://soubhihadri.medium.com/image-processing-best-practices-c-280caadacb82)
+* [Image Processing Best Practices — C++ Part 2 | by Soubhi Hadri | Nov, 2020 | Medium](https://soubhihadri.medium.com/image-processing-best-practices-c-part-2-c0988b2d3e0c)
 * [box-visualizer: Make drawing and labeling bounding boxes easy as cake](https://github.com/shoumikchow/bbox-visualizer)
 * [genetic-drawing: A genetic algorithm toy project for drawing](https://github.com/anopara/genetic-drawing)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
