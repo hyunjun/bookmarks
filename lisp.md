@@ -87,6 +87,7 @@ Lisp
 * [A SMALL LISP INTERPRETER](http://nisar.jagabar.free.fr/doc/lisp/pg/)
 * [catana - A series of AI experiments regarding categories and analogies](https://github.com/KedalionDaimon/catana)
 * [William Byrd on "The Most Beautiful Program Ever Written" PWL NYC](https://www.youtube.com/watch?v=OyfBQmvr2Hc)
+* [An Intuition for Lisp Syntax](https://stopa.io/post/265)
 
 # Book
 * [Lisp Web Tales](https://leanpub.com/lispwebtales/read_full)
