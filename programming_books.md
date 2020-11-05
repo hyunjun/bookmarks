@@ -1027,6 +1027,7 @@ Programming Books
 * (NOT YET) [엔터프라이즈 자바 마이크로서비스](https://jybaek.tistory.com/832)
 * (NOT YET) [자바 트러블슈팅](https://jpub.tistory.com/989)
 * (NOT YET) [알라딘: 자바 코딩의 기술](https://www.gilbut.co.kr/book/view?bookcode=BN002823)
+* (NOT YET) [Practical 모던 자바: 어려워진 자바, 실무에 자신 있게 적용하기 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/09/16/practical-%eb%aa%a8%eb%8d%98-%ec%9e%90%eb%b0%94-%ec%96%b4%eb%a0%a4%ec%9b%8c%ec%a7%84-%ec%9e%90%eb%b0%94-%ec%8b%a4%eb%ac%b4%ec%97%90-%ec%9e%90%ec%8b%a0-%ec%9e%88%ea%b2%8c-%ec%a0%81%ec%9a%a9%ed%95%98/)
 
 # JavaScript
 
@@ -1038,6 +1039,7 @@ Programming Books
   * 데이터 시각화의 기초가 7/10, coffee script, D3.js 기초, 사례 연구 각 한 chapter씩. 즉 이론서에 조금 더 가까움
 * (NOT YET) [<코어 자바스크립트> - 정재남 지음](http://greentec.egloos.com/4453678)
 * (NOT YET) [SNS 앱 예제로 배우는 프로그레시브 웹 앱 - YES24](http://www.yes24.com/Product/Goods/91360603)
+* (NOT YET) [《자바스크립트는 왜 그 모양일까?: 더글러스 크락포드가 알려주는 위험한 자바스크립트를 안전하게 사용하는 법》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/05/22/%e3%80%8a%ec%9e%90%eb%b0%94%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8%eb%8a%94-%ec%99%9c-%ea%b7%b8-%eb%aa%a8%ec%96%91%ec%9d%bc%ea%b9%8c-%eb%8d%94%ea%b8%80%eb%9f%ac%ec%8a%a4-%ed%81%ac%eb%9d%bd%ed%8f%ac/)
 
 ## Angular
 
