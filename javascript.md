@@ -2485,6 +2485,7 @@ Javascript
 * [The State of React - Jared Palmer (@jaredpalmer) at @ReactEurope 2019](https://www.notion.so/The-State-of-React-Jared-Palmer-jaredpalmer-at-ReactEurope-2019-532abd86b3f8435887ac3b9d4d25a339)
 * [Create-React-App으로 SSR을 구현하며 배운 점 (feat. TypeScript)](https://www.slideshare.net/LanarkSeung/createreactapp-ssr-feat-typescript)
 * [React + Typescript + SSR + Code-splitting 환경설정하기](https://medium.com/@minoo/react-typescript-ssr-code-splitting-환경설정하기-d8cec9567871)
+* [**싱페어 (SPA) 의 피로감**](https://seokjun.kim/spa-is-aweful/) SSR, state 주입의 문제점
 * [리액트 꽃길만 걷기](https://drive.google.com/file/d/18MJDVzre8DYnEx9OITrYZOC_cVUeaSdV)
 * [React Clean Architecture](https://github.com/eduardomoroni/react-clean-architecture/blob/master/README.md)
 * [react flicking](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/README.md)
