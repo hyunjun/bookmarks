@@ -147,6 +147,7 @@ Redis
 * [Redis Geo](https://matt.sh/redis-geo)
 * [RedisGraph - the first queryable Property Graph database to use sparse matrices to represent the adjacency matrix in graphs and linear algebra to query the graph](https://oss.redislabs.com/redisgraph/)
   * [RedisGraph](https://redislabs.com/redis-enterprise/technology/redisgraph/)
+* [redisgrip: Redis GUI Client](https://github.com/FiaDot/redisgrip)
 * RedisRaft [Jepsen report on RedisRaft – The Last Mind](http://blog.lastmind.io/archives/932)
 * [redis-rdb-tools Parse Redis dump.rdb files, Analyze Memory, and Export Data to JSON https://rdbtools.com ](https://github.com/sripathikrishnan/redis-rdb-tools)
 * [redis-traffic-stats - a query analyzer for Redis](https://github.com/hirose31/redis-traffic-stats)
