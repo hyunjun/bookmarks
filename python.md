@@ -874,6 +874,7 @@ Python
 * loop
   * [python loop performace check](https://gist.github.com/junghanw/ab8e7d758e4c866260172e2ed27a9ef0)
   * [David DB Baumgold Looping Like a Pro in Python PyCon 2017](https://www.youtube.com/watch?v=u8g9scXeAcI)
+  * [Loops in Python for Machine Learning & AI || Python For Loop & Python While Loop | Tensorflow Lite](https://morioh.com/p/d0196d32ac8e)
 * map
   * [Mad Map: Python Road](http://kalnitsky.org/2015/06/14/mad-map/)
   * [practice - recursive call does NOT work](https://github.com/hyunjun/practice/blob/master/python/test-basic/map_cannot_do_recursive_call.py)
