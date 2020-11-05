@@ -992,6 +992,7 @@ App
 * [gliffy](https://www.gliffy.com/) Make Diagramming a Team Sport. Collaborate on flowcharts, org charts, UML, network diagrams & more
 * [Isoflow](https://isoflow.io/)
 * [Lucidchart - a visual workspace that combines diagramming, data visualization, and collaboration to accelerate understanding and drive innovation](https://www.lucidchart.com)
+* [mermaid: diagram as code · /usr/lib/libsora.so](https://libsora.so/posts/mermaid-diagram-as-code/)
 * [monodraw - Powerful ASCII art editor designed for the Mac](https://monodraw.helftone.com/)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
 * [**Pencil Project**](http://pencil.evolus.vn/)
