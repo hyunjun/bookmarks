@@ -243,6 +243,7 @@ Redis
 * [Kafka & Redis Streams](https://hackernoon.com/introduction-to-redis-streams-133f1c375cd3)
 * [Streams: a new general purpose data structure in Redis](http://antirez.com/news/114)
 * [Redis Streams and the Unified Log](https://brandur.org/redis-streams)
+* [Milano Scala Group - Redis Streams with ZIO - YouTube](https://www.youtube.com/watch?v=jJnco6sMZQY)
 * [The Design of Redis StreamsSalvatore Sanfilippo, Creator of Redis](https://www.youtube.com/watch?v=Ty1rQuRJijk)
 
 # Tutorial
