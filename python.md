@@ -3026,6 +3026,9 @@ Python
   * [웹사이트 크롤링해서 파일 저장 하기(분양정보수집사례)](http://uslifelog.tistory.com/45)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)
+* SimPy
+  * [Simulating Real-World Processes in Python With SimPy – Real Python](https://realpython.com/courses/simulating-processes-simpy/)
+  * [Getting Started Simulating Real-World Processes in Python with SimPy - YouTube](https://www.youtube.com/watch?v=NypbxgytScM)
 * [SlopPy: An error-tolerant Python interpreter that facilitates sloppy programming](http://www.pgbovine.net/SlopPy.html)
 * [Slouchy uses your webcam to check if you're slouching and alert you if you are](https://github.com/pyskell/slouchy)
 * [Snake - Full Python Scripting in Vim](https://github.com/amoffat/snake)
