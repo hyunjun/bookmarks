@@ -1341,6 +1341,7 @@ Programming
 * [The Road to CI/CD: The Ultimate Guide | by Remco Rakers | Better Programming](https://medium.com/better-programming/the-road-to-ci-cd-a6939addd42d)
 * [Demystifying DevOps Pipeline and CI/CD - YouTube](https://www.youtube.com/watch?v=2IJs6LsW3BU)
 * [Keep Calm and Secure Your CI/CD Pipeline - YouTube](https://www.youtube.com/watch?v=AZlZE6iAIKM)
+* [A primer on DevOps pipeline: Continuous Integration & Continuous Delivery (CI/CD) | Enable Architect](https://www.redhat.com/architect/primer-devops)
 * teamcity
   * [TeamCity 설치하기](https://jojoldu.tistory.com/448)
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
