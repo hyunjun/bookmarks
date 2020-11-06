@@ -415,6 +415,7 @@ Python
 * [The Unseen Pitfalls of Python. Because 257 is not 257 but 256 is 256 | by Salvador Aleguas | codeburst](https://codeburst.io/the-unseen-pitfalls-of-python-7ca57f021d08)
 * [5 Python Code Smells You Should Be Wary Of | by Anupam Chugh | Towards Data Science](https://towardsdatascience.com/5-python-code-smells-you-should-be-wary-of-c48cc0eb9d8b)
 * [The Art of ‘One-Lining’ in Python | by Salvador Aleguas | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/the-art-of-one-lining-in-python-1b96fc6fc5a9)
+* [Advanced Python: Metaprogramming. Explaining what, why and how… | by Farhad Malik | FinTechExplained | Medium](https://medium.com/fintechexplained/advanced-python-metaprogramming-980da1be0c7d)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -809,6 +810,7 @@ Python
   * [You (Probably) Don’t Need For-Loops](https://medium.com/python-pandemonium/never-write-for-loops-again-91a5a4c84baf)
   * [Tour of Python Itertools](https://martinheinz.dev/blog/16/)
   * [Reduce() vs Accumulate() in Python | by Indhumathy Chelliah | codeburst](https://codeburst.io/reduce-vs-accumulate-in-python-3ecee4ee8094)
+  * [5 Advanced Functions in Itertools To Simplify Iterations in Python | by Yong Cui, Ph.D. | Towards Data Science](https://towardsdatascience.com/5-advanced-functions-in-itertools-to-simplify-iterations-in-python-c6213312ca47)
 * [lambda](https://docs.python.org/2/tutorial/controlflow.html#lambda-expressions)
   * [Python: Lambda Functions](http://www.secnetix.de/olli/Python/lambda_functions.hawk)
   * [Yet Another Lambda Tutorial](https://pythonconquerstheuniverse.wordpress.com/2011/08/29/lambda_tutorial/)
@@ -1192,6 +1194,7 @@ Python
   * [Do Not Use “+” to Join Strings in Python](https://towardsdatascience.com/do-not-use-to-join-strings-in-python-f89908307273)
   * [5 Python String Methods For Better Formatting | by Tate Galbraith | Jul, 2020 | Level Up Coding](https://levelup.gitconnected.com/5-python-string-methods-for-better-formatting-a2c3b92a2d33)
   * [22 Pythonic Tricks for Working with Strings | by Richard Quinn | Python In Plain English | Medium](https://medium.com/python-in-plain-english/22-pythonic-tricks-for-working-with-strings-8b893776743c)
+  * [split() vs. partition() in Python Strings | by Indhumathy Chelliah | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/split-vs-partition-in-python-strings-9505d070af55)
 * [subprocess](https://docs.python.org/3/library/subprocess.html)
   * [pymotw.com/3/subprocess](https://pymotw.com/3/subprocess/)
   * [asyncio-subprocess](https://docs.python.org/3/library/asyncio-subprocess.html)
