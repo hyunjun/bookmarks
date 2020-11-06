@@ -424,6 +424,7 @@ AWS
 * [Your own AI-powered Call Center on AWS in less than 1 hour | by Thiago de Faria | ITNEXT](https://itnext.io/your-own-ai-powered-call-center-on-aws-in-less-than-1-hour-d0494049977c)
 * [determined-ai/determined: Determined: Deep Learning Training Platform](https://github.com/determined-ai/determined)
 * [AWS and their Billions in IPv4 addresses](https://toonk.io/aws-and-their-billions-in-ipv4-addresses/index.html)
+* [**코드에서 암호를 안전하게 사용할 방법을 찾아서… – OpsNow Tech Blog**](https://blog.opsnow.com/15)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
