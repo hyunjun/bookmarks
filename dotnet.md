@@ -121,6 +121,7 @@
 * ML.NET [Welcome to the world of Machine Learning with ML.NET 1.0 - BRK3011](https://www.youtube.com/watch?v=pxUzw6JyqcM)
 * [.NETMemoryPerformanceAnalysis.md at master · Maoni0/mem-doc](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md)
 * [referencesource.microsoft.com](http://referencesource.microsoft.com/) .NET Framework source code online
+* Uno [Uno - 싱글 코드로 모든 OS를 지원하는 플랫폼 | GeekNews](https://news.hada.io/topic?id=3153)
 
 # [Visual Studio](https://www.visualstudio.com/)
 * [code.visualstudio.com](https://code.visualstudio.com)
