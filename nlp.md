@@ -1308,6 +1308,7 @@ NLP
 * [Analyzing stylistic similarity amongst authors A quantitative comparison of writing styles in 12,590 books from Project Gutenberg](http://markallenthornton.com/blog/stylistic-similarity/)
 * [Correlation and dependence](https://en.wikipedia.org/wiki/Correlation_and_dependence)
 * [faiss - A library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
+  * [faiss-serving: A lightweight Faiss HTTP Server 🚀](https://github.com/scatterlab/faiss-serving)
 * [Fuzzy string matching using cosine similarity](http://blog.nishtahir.com/2015/09/19/fuzzy-string-matching-using-cosine-similarity/)
 * [코사인 유사도의 의미](http://docs.likejazz.com/cosine-sim/)
 * [Jaccard index](https://en.wikipedia.org/wiki/Jaccard_index)
