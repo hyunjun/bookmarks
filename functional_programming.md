@@ -380,6 +380,7 @@ Functional Programming
 * [Scala journals — Currying: The tale of a code example no one actually ever used | by Annette R. | Aug, 2020 | Level Up Coding](https://levelup.gitconnected.com/scala-journals-currying-the-tale-of-that-one-code-example-no-one-actually-ever-used-d36db58e345b)
 * [Foundation of functional programming course https://www.fp-tower.com/foundation ](https://github.com/fp-tower/foundation)
   * [Val vs Def functions in Scala - YouTube](https://www.youtube.com/watch?v=mqJ1W6w5ZZM)
+  * [Function as inputs in Scala - YouTube](https://www.youtube.com/watch?v=0Gm4JvCxmBY)
 * [Zero-Overhead Tree Processing with the Visitor Pattern](http://www.lihaoyi.com/post/ZeroOverheadTreeProcessingwiththeVisitorPattern.html)
 * [**Learn Functional Programming course/tutorial on Scala**](https://github.com/dehun/learn-fp)
 * [My FP Journey](https://zach-albia.github.io/posts/my-fp-journey)
@@ -393,6 +394,14 @@ Functional Programming
 * [Anatolii Kmetiuk at #ScalaUA - An argument against functional programming - YouTube](https://www.youtube.com/watch?v=TBfhTtQngnk) immutability, purity, category theory
 * [Builder Pattern in Scala with Phantom Types | by Maximiliano Felice | Medium](https://medium.com/@maximilianofelice/builder-pattern-in-scala-with-phantom-types-3e29a167e863)
 * [Monad Transformer Is All You Need | by Abhijit Gupta | The Startup | Medium](https://medium.com/swlh/monad-transformer-is-all-you-need-4dee05d55e01)
+* [Part 1 - Data / Types / Referential Transparency / Value prop](https://www.matfournier.com/2020-01-10-getting-funcey-part1-types/)
+* [Part 2 - Programming with Effects](https://www.matfournier.com/2020-01-11-getting-funcey-part2-effects/)
+* [Part 3 - Typeclasses](https://www.matfournier.com/2020-01-15-getting-funcey-part3-typeclasses/)
+* [Part 4 - Practical effect manipulation](https://www.matfournier.com/2020-01-28-getting-funcey-part4-traverse/)
+  * [Type Gymnastics Workshop - Mat Fournier](https://github.com/matfournier/tworkshop-questions)
+  * [matfournier/tworkshop-solutions: tworkshop-solutions](https://github.com/matfournier/tworkshop-solutions)
+* [Part 5 - Basics of Final-tagless / ZIO](https://www.matfournier.com/2020-02-23-getting-funcey-part5-io/)
+* [Divide, conquer, choose, ap and alt by Samuel Halliday at Scala in the City October 2020 - YouTube](https://www.youtube.com/watch?v=JmOFKdpuF9g)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
