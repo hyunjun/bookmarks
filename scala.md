@@ -775,7 +775,9 @@ Scala
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
       * [Functional Effect systems in Sclala: Build your own ZIO/Cats-Effect/Monix... | Wix Engineering](https://medium.com/wix-engineering/demystifying-functional-effect-systems-in-scala-14419039a423)
+      * [fibers.md](https://gist.github.com/djspiewak/d9930891d419c26fac1d58b5274f45ba)
     * gRPC [Functional, Type-safe, Testable Microservices with ZIO gRPC - YouTube](https://www.youtube.com/watch?v=XTkhxRTH1nE)
+    * ZIO-AWS [ZIO-AWS with ZIO Query](https://vigoo.github.io/posts/2020-11-01-zioaws-zioquery.html)
     * [zio-json: Fast, secure JSON library with tight ZIO integration](https://github.com/zio/zio-json/)
     * zio-prelude [What's Ap with zio-prelude?](https://justinhj.github.io/2020/08/02/whats-ap-with-zio-prelude.html)
     * [zio-properties: A ZIO alternative to Spring Properties](https://adrianfilip.com/2020/05/03/zio-properties-a-zio-alternative-to-spring-properties/)
@@ -791,6 +793,7 @@ Scala
       * [A Tour of ZIO Streams - YouTube](https://www.youtube.com/watch?v=OiuKbpMOKsc)
       * [Functional Scala - Modern Data Driven Applications with ZIO Streams by Itamar Ravid - YouTube](https://www.youtube.com/watch?v=bbss7elSfxs)
     * ZIO sttp [Mocking endpoints with ZIO sttp – pierangeloc.github.io](https://pierangeloc.github.io/blog/2020/07/10/ZIO-sttp)
+    * ZIO stream [Autorecovery for (JMS) Streams | Blended - ZIO](http://blended-scala.org/posts/2020-10-30-recoveringstreams/)
     * ZIO test
       * [Get started with ZIO Test](https://medium.com/@wiemzin/get-started-with-zio-test-7a27da355498)
       * [Effective testing with ZIO Test](https://scala.monster/zio-test/)
@@ -1012,6 +1015,7 @@ Scala
     * [cats-effect at ce3](https://github.com/typelevel/cats-effect/tree/ce3#cats-effect-3)
     * [Circuit Breaker Pattern with Cats Effect | by Hiroki Fujino | Level Up Coding](https://levelup.gitconnected.com/circuit-breaker-pattern-with-cats-effect-25947d0a4cba)
     * [concurrency-in-scala-with-ce: Introduction to concepts of asynchronous and concurrent programming in Scala, based on cats-effect library.](https://github.com/slouc/concurrency-in-scala-with-ce)
+    * [Typelevel.scala | Concurrency in Cats Effect 3](https://typelevel.org/blog/2020/10/30/concurrency-in-ce3.html)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
     * [Retry Failing Tasks with Cats and Scala - Alexandru Nedelcu](https://alexn.org/blog/2020/08/03/on-error-retry-loop.html)
@@ -1391,6 +1395,7 @@ Scala
 * [Tagless Final - Part 14 - wait, don't fold (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=N6NlhuB5-T8)
 * [Tagless Final - 4 error channel encodings (Error Handling - Part 1) - YouTube](https://www.youtube.com/watch?v=2Ldx8pxkWq8)
 * [Tagless Final - 4 error channel encodings (Error Handling - Part 2) - YouTube](https://www.youtube.com/watch?v=ZdGK1uedAE0)
+* [Tagless Final - Part 15.1 - trust, but verify (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=kHW46U8xi8I)
 * [Scala 3 - TF related improvements (mostly #implicits) - YouTube](https://www.youtube.com/watch?v=0MPfFBctWUc)
 
 # Monoids
@@ -1495,6 +1500,7 @@ Scala
 * [Scala 3: Opaque Types | Rock the JVM - YouTube](https://www.youtube.com/watch?v=8-b2AoctkiY&feature=youtu.be)
 * [Annoying things in Scala 2 that’ll be (mostly) gone in Scala 3 | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/annoying-things-in-scala-2-thatll-be-mostly-gone-in-scala-3-e1479a6d855c)
 * [Scala 3: Enums | Rock the JVM - YouTube](https://www.youtube.com/watch?v=QnrXubpILu4)
+* [Let’s Talk About the Scala 3 Indentation - Rock the JVM Blog](https://blog.rockthejvm.com/scala-3-indentation/)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
   * [Dotty Documentation](https://dotty.epfl.ch/docs/index.html)
   * [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
@@ -1531,6 +1537,7 @@ Scala
 * [Part 2: The SMAkkaR.js Stack- Using monocle and akka to facilitate model and component reusability in a react scala.js application – Hernansote’s Blog](https://randomthroughtsfromnowhere.com/2020/06/26/part-2-using-monocle-and-akka-to-facilitate-model-and-component-reusability-in-a-react-scala-js-application/)
 * [Scala, React, and SSR (part 1) | ShipReq Blog](https://blog.shipreq.com/post/scala_react_and_ssr_part_1)
 * [Scala, React, and SSR (part 2) | ShipReq Blog](https://blog.shipreq.com/post/scala_react_and_ssr_part_2)
+* [Implementing Scala.js Support for Scala 3 | The Scala Programming Language](https://www.scala-lang.org/2020/11/03/scalajs-for-scala-3.html)
 * [dotty+scala.js+async: interesting options](https://appddeevvmeanderings.blogspot.com/2020/10/dottyscalajsasync-interesting-options.html)
 * [ScalablyTyped - The Javascript ecosystem for Scala.js!](https://github.com/oyvindberg/ScalablyTyped)
 
