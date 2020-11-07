@@ -634,6 +634,7 @@ NLP
 * [A Transformer Chatbot Tutorial with TensorFlow 2.0](https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2)
 * [How To Make a Chatbot in Python | Python Chat Bot Tutorial](https://morioh.com/p/55e676a3d9f8)
 * [채팅 프로그램 만들기 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222027725523)
+* [Build a Collaborative Chatbot with Google Sheets and TensorFlow | Jonathan Bgn](https://jonathanbgn.com/nlp/2020/09/29/chatbot-universal-sentence-encoder.html)
 * [Blender, Facebook State-of-the-Art Human-Like Chatbot, Now Open Source](https://www.infoq.com/news/2020/04/facebook-blender-chatbot/)
   * [A state-of-the-art open source chatbot](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot)
 * [kochat: Opensource Korean chatbot framework based on deep learning](https://github.com/gusdnd852/kochat)
