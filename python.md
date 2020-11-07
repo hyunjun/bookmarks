@@ -461,6 +461,7 @@ Python
 * [7 More Tricks to Write Better Python Code](https://www.youtube.com/watch?v=SNTZpy0oDB8)
   * Inline if-else statements, Sequence comparisons, Extended unpacking (Python-3 only), Dict comprehensions, collections.OrderedDict, collections.defaultdict, collections.Counter
 * [I Thought I Was Mastering Python Until I Discovered These Tricks](https://towardsdatascience.com/i-thought-i-was-mastering-python-until-i-discovered-these-tricks-e40d9c71f4e2)
+* [8 Advanced Python Tricks Used by Seasoned Programmers | by Erik van Baaren | Towards Data Science](https://towardsdatascience.com/8-advanced-python-tricks-used-by-seasoned-programmers-757804975802) attrs
 * [잘 알려져 있지 않은 파이썬 기능](https://yuda.dev/254)
 * [Road to become a Python Ninja — Data Structures](https://blog.usejournal.com/python-basics-data-structures-d378d854df1b) 기본 data structure
 * [Comprehending the ‘Comprehensions’ in Python](https://towardsdatascience.com/comprehending-the-concept-of-comprehensions-in-python-c9dafce5111)
@@ -680,6 +681,7 @@ Python
   * [Five Cool Python Looping Tips. 5 Tips to help your iterative looping… | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/five-cool-python-looping-tips-14f6f44bcfc7) 기초. zip, range, enumerate, sorted, filter
   * [Dictionary View Objects 101. Learning about dynamic view objects in… | by Indhumathy Chelliah | Aug, 2020 | codeburst](https://codeburst.io/dictionary-view-objects-101-480b72f71dec)
   * [7 Advanced Python Dictionary Techniques | Towards Data Science](https://towardsdatascience.com/7-advanced-python-dictionary-techniques-you-should-know-416194d82d2c)
+  * [Dictionary as an Alternative to If-Else | by Khuyen Tran | Towards Data Science](https://towardsdatascience.com/dictionary-as-an-alternative-to-if-else-76fe57a1e4af)
 * dis
   * [PyInstaller로 만든 EXE 파일에서 Python code 뽑아내기](https://item4.github.io/2018-11-04/Extract-Python-Code-from-PyInstaller-EXE-File/)
 * double/float
@@ -837,7 +839,6 @@ Python
   * [3 Python list comprehension tricks you might not know yet](https://levelup.gitconnected.com/3-python-list-comprehension-tricks-you-might-not-know-yet-5891d904ee76)
   * [9 Things to Know to Master List Comprehensions in Python](https://medium.com/better-programming/9-things-to-know-to-master-list-comprehensions-in-python-8bc0411ec2ed)
   * [파이썬의 Comprehension 소개](https://mingrammer.com/introduce-comprehension-of-python)
-  * [3 Python list comprehension tricks you might not know yet](https://levelup.gitconnected.com/3-python-list-comprehension-tricks-you-might-not-know-yet-5891d904ee76)
   * [Python List Comprehensions in 5-minutes | by Daniel Bourke | Towards Data Science](https://towardsdatascience.com/python-list-comprehensions-in-5-minutes-40a68cbe4561)
   * [Python Comprehension. A guided tour and quick start. | by Keno Leon | Medium](https://medium.com/@k3no/python-comprehension-885cd3f27f4a)
   * [**파이썬에서 2중 리스트를 flatten하게 만들기**](https://winterj.me/list_of_lists_to_flatten/)
