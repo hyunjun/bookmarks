@@ -686,6 +686,7 @@ App
 * [fastmac: Get a MacOS or Linux shell, for free, in around 2 minutes](https://github.com/fastai/fastmac/)
 * [How to schedule Node.js Scripts on Your Mac With Launchd | by Matthew Williams | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/schedule-node-js-scripts-on-your-mac-with-launchd-a7fca82fbf02)
 * [Scheduling Jobs With Crontab on macOS | by Ratik Sharma | Better Programming | Medium](https://medium.com/better-programming/https-medium-com-ratik96-scheduling-jobs-with-crontab-on-macos-add5a8b26c30)
+* [20 essential Mac keyboard shortcuts to save you a click | by Popular Science | Popular Science | Medium](https://medium.com/popular-science/20-essential-mac-keyboard-shortcuts-to-save-you-a-click-36a1d71216aa)
 
 ## Mac App
 * [**practice - 최초 설치 후 install**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)
