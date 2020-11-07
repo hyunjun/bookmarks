@@ -500,6 +500,7 @@ App
     * [Making Visual Studio Code Better 🔥✨🛠 | by Spencer Pollock | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/making-visual-studio-code-better-e72105809bf2)
     * [10 Essential Tips and Tricks Every Developer Should Master in Visual Studio Code | by shaden bsharat | Level Up Coding](https://levelup.gitconnected.com/10-essential-tips-and-tricks-every-developer-should-master-in-visual-studio-code-42801b3b71fe)
     * [VS Code’s REST Client Plugin is All You Need to Make API Calls | by Paige Niedringhaus | Oct, 2020 | Bits and Pieces](https://blog.bitsrc.io/vs-codes-rest-client-plugin-is-all-you-need-to-make-api-calls-e9e95fcfd85a)
+    * [VSCode 온라인 IDE - YouTube](https://www.youtube.com/watch?v=ch5OvYKnmUc)
     * Debug
       * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
       * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
