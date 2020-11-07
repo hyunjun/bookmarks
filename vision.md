@@ -574,6 +574,7 @@ Vision
 * [genetic-drawing: A genetic algorithm toy project for drawing](https://github.com/anopara/genetic-drawing)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
 * ['jetson_nano_opencv_oct' 태그의 글 목록](https://www.g.camp/tag/jetson_nano_opencv_oct)
+* [Machine Learning Attack Series: Image Scaling Attacks · wunderwuzzi blog](https://embracethered.com/blog/posts/2020/husky-ai-image-rescaling-attacks/)
 
 # OpenGL
 * [open.gl](https://open.gl/)
