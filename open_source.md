@@ -67,6 +67,7 @@ Open Source
 * [oss-basic-training: oss training materials and scripts](https://github.com/ncsoft/oss-basic-training)
 * [#1 유저스틴 / 오픈 소스 프로젝트를 엑싯한 후 생기는 일 - YouTube](https://www.youtube.com/watch?v=8i3QhY-y760)
 * [Hacktoberfest Seoul에서 발표한 "오픈소스에 기여할 때 해도 되는 일과 하면 안되는 일" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1506)
+* [Hacktoberfest 2020 참가 후기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1508)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
