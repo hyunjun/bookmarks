@@ -1166,6 +1166,7 @@ Programming
 * [public.etherpad-mozilla.org](https://public.etherpad-mozilla.org/) run 불가능
 * [glot.io - an open source pastebin with runnable snippets and API](https://glot.io/)
 * [ideone.com](http://ideone.com/)
+* [PaizaCloud - Online editor and compiler](https://paiza.io/)
 * [repl.it](https://repl.it/)
   * [Repl.it - A database for every repl](https://blog.repl.it/database)
 * [**Rosetta Code - Side-by-side code snippets from Rosetta Code**](www.rosettacode.org/)
@@ -1890,6 +1891,7 @@ Programming
   * [10월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/10/b-10-2.html)
   * [10월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/10/b-10-3.html)
   * [10월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/10/b-10-4.html)
+  * [11월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/11/b-11-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -2078,6 +2080,7 @@ Programming
   * [(10/24) AWS는 IPv4를 몇 개 확보했을까? - YouTube](https://www.youtube.com/watch?v=DmlO0_aywEw)
 * [(10월 31일) 클린 아키텍처로 가는 신박한 방법](https://jhrogue.blogspot.com/2020/11/10-31.html) 게임 엔진 블랙 북(울펜슈타인 3D), 고용 관련 네 가지 미신, 한 줄로 빌드 타임 99% 줄이기, 일곱 가지 git 트릭, Pyston v2, 클린 아키텍처로 가는 신박한 방법, Async Cookie Store API, 깃 2.29에서 SHA-256을 실험적 지원
   * [(10/31) 클린 아키텍처로 가는 신박한 방법 - YouTube](https://www.youtube.com/watch?v=KtTQbyclKh4)
+* [(11/07) 어느 고졸 개발자의 10년의 회고록 - YouTube](https://www.youtube.com/watch?v=0ZW4bSEJPPQ)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 
 # OS Operating System
