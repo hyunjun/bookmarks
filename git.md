@@ -432,6 +432,7 @@ Git
   * [gitignore.io](https://www.gitignore.io/)
   * [Git 전역 ignore 파일](https://hyeonseok.com/soojung/dev/2019/06/29/853.html)
   * [Ignoring Files and Directories in Git (.gitignore)](https://linuxize.com/post/gitignore-ignoring-files-in-git/)
+  * [Automatic .gitignore generation | Pega Devlog](https://jehyunlee.github.io/2020/11/07/Python-General-7-make_gitignore/)
   * [gitignore.io - 자신의 프로젝트에 꼭 맞는 .gitignore 파일을 만드세요](https://www.gitignore.io/)
   * [gitignore - A collection of useful .gitignore templates](https://github.com/github/gitignore)
 * hook
