@@ -516,6 +516,7 @@ Vision
 * [이미지 프로세싱 & 컴퓨터 시각화 27부 - Watershed Algorithm(2화)](https://blog.naver.com/zeus05100/221810856536)
 * [이미지 프로세싱 & 컴퓨터 시각화 28부 - Face Detection (1부)](https://blog.naver.com/zeus05100/221877166103)
 * [이미지 프로세싱 & 컴퓨터 시각화 29부 - Face Detection (2부)](https://blog.naver.com/zeus05100/222035820600)
+* [이미지 프로세싱 & 컴퓨터 시각화 30부 - Object Tracking - 1부(Optical Flow 이론편)](https://blog.naver.com/zeus05100/222138035017)
 * [OpenCV로 실시간 명함 인식하기](http://blog.dramancompany.com/2019/03/opencv%EB%A1%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EB%AA%85%ED%95%A8-%EC%9D%B8%EC%8B%9D%ED%95%98%EA%B8%B0/)
 * [Images Comparison with Opencv and Python](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTlQuAdhtnByty15Ea9-cQly)
 * [OpenCV 3.4 with Python 3 Tutorial](https://www.youtube.com/playlist?list=PL6Yc5OUgcoTmTGACTa__vnifNA744Cz-q)
