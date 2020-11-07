@@ -65,6 +65,7 @@ Government
 * [gi2ds - Google Image Search 2 Dataset](https://github.com/fast-ai-kr/ko-translation/blob/master/tools/gi2ds.md)
 * ['뉴스타파 데이터포털' 오픈...한국 언론사 최초](https://newstapa.org/article/6nDFT)
 * [데이터 분석에 필요한 오픈 공공데이터 포털 20가지](https://blog.naver.com/zhangyun123/221963865663)
+* [AI 학습용 텍스트 데이터 모음 | GeekNews](https://news.hada.io/topic?id=3087)
 
 # Library
 * [Label Studio - an open-source, configurable data annotation tool](https://github.com/heartexlabs/label-studio)
