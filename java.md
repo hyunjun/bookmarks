@@ -255,6 +255,7 @@ Java
 * Try
   * [Do or Do Not: Patterns and Antipatterns with the Try type](https://medium.com/software-ascending/do-or-do-not-patterns-and-antipatterns-with-the-try-type-c77a63f74cc9)
 * util
+  * List [java UnmodifiableCollection : 무엇이 다른가요?](https://codingdog.tistory.com/entry/java-UnmodifiableCollection-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80%EC%9A%94)
   * regex regular expression
     * ip address
       * [Matching Numeric Ranges with a Regular Expression](http://www.regular-expressions.info/numericranges.html)
