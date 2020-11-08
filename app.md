@@ -527,6 +527,7 @@ App
       * [20 Best VS Code Extensions for Productive Web Development in 2020](https://towardsdatascience.com/20-best-vs-code-extensions-for-productive-web-development-in-2020-95bf904ceb69)
       * [VS Code extensions that make me fall in love with programming each day | by Madhav Bahl | codeburst](https://codeburst.io/vs-code-extensions-that-make-me-fall-love-in-programming-each-day-ccf05b24651e)
       * [Visual Studio Code for Data Science — the Power User’s guide | by Rohith Kumar Sajja | DataSeries | Medium](https://medium.com/dataseries/visual-studio-code-for-data-science-the-power-users-guide-3a20b8630a)
+      * [7 VS Code Extensions That Make You Want To Keep Coding Forever | by Daan | Level Up Coding](https://levelup.gitconnected.com/7-vs-code-extensions-that-make-you-want-to-keep-coding-forever-f205e597ae34)
     * Git
       * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
       * [mac에서 visual studio code를 git commit editor로 설정하기](http://blog.woniper.net/352)
