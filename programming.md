@@ -693,6 +693,7 @@ Programming
 * [Building Services at Airbnb, Part 4 | by Junjie Guan | Airbnb Engineering & Data Science | Oct, 2020 | Medium](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-4-23c95e428064)
 * [How architecture prepared me for UX | by Jeff Matarrese | UX Collective](https://uxdesign.cc/how-architecture-prepared-me-to-pivot-to-user-experience-16db8a000f72)
 * [State of the Art Infrastructure as Code | by Kovid Rathee | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/state-of-the-art-infrastructure-as-code-4fbd59d92462) catalog
+* [비즈니스와 좋은 설계 사이에서 균형 잡기 | Evans Library](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
