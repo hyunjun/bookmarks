@@ -422,6 +422,7 @@ Haskell
 * [Hierarchical Free Monads: The Most Developed Approach In Haskell](https://github.com/graninas/hierarchical-free-monads-the-most-developed-approach-in-haskell/blob/7472b5c1a073366d87153dd3976873687422c8b1/README.md)
 * [Hierarchical Free Monads: Mostly Pointless](https://github.com/effectfully/sketches/tree/42166f6f13a87f749fd30f938a6c0f3600385f35/hierarchical-free-monads-mostly-pointless#readme)
 * [Understand IO Monad and implement it yourself in Haskell](https://boxbase.org/entries/2020/may/18/diy-io-monad/)
+* [Reader Monad and Function Composition - yuiazu](https://yuiazu.net/2016/10/14/reader-monad-and-function-composition/)
 
 # TDD, Test
 * [Rewriting to Haskell–Testing](https://odone.io/posts/2020-04-13-rewriting-haskell-testing.html)
