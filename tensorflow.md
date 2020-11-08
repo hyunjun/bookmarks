@@ -998,6 +998,7 @@ TensorFlow
 * [TensorFlow RNN Tutorial](https://svds.com/tensorflow-rnn-tutorial/)
 * [카카오톡 대화 생성기(http://jsideas.net/python/2017/04/05/kakao_rnn.html)
 * [Python Deep Learning tutorial: Create a GRU (RNN) in TensorFlow](https://www.datasciencecentral.com/profiles/blogs/gru-implementation-in-tensorflow)
+* [Implementing an RNN in Tensorflow - Recurrent Neural Network](https://morioh.com/p/018561d3ea2b)
 
 # Time Series
 * [TensorFlow Tutorial for Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series)
