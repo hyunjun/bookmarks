@@ -423,6 +423,7 @@ Haskell
 * [Hierarchical Free Monads: Mostly Pointless](https://github.com/effectfully/sketches/tree/42166f6f13a87f749fd30f938a6c0f3600385f35/hierarchical-free-monads-mostly-pointless#readme)
 * [Understand IO Monad and implement it yourself in Haskell](https://boxbase.org/entries/2020/may/18/diy-io-monad/)
 * [Reader Monad and Function Composition - yuiazu](https://yuiazu.net/2016/10/14/reader-monad-and-function-composition/)
+* [함수 join](https://www.facebook.com/notes/%ED%95%98%EC%8A%A4%EC%BC%88-%ED%95%99%EA%B5%90/%ED%95%A8%EC%88%98-join/3450028918417874/)
 
 # TDD, Test
 * [Rewriting to Haskell–Testing](https://odone.io/posts/2020-04-13-rewriting-haskell-testing.html)
