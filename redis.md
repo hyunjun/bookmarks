@@ -99,6 +99,7 @@ Redis
   * [Redis cluster configuration by example | Medium](https://medium.com/@mhewedy_46874/redis-cluster-configurations-by-example-5480a178e884)
   * [Redis Geospatial by example. This is the eighth post of The Redis… | by Mohammed Hewedy | Medium](https://medium.com/@mhewedy_46874/redis-geospatial-by-example-f5505a0962ef)
 * [캐시 성능 향상기 (Improving Cache Speed at Scale) : TOAST Meetup](https://meetup.toast.com/posts/251)
+* [if(kakao)2020 코멘터리 01 : 카카오톡 캐싱 시스템의 진화 — Kubernetes와 Redis를 이용한 캐시 팜 구성 – tech.kakao.com](https://tech.kakao.com/2020/11/10/if-kakao-2020-commentary-01-kakao/)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
