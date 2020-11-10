@@ -671,8 +671,8 @@ Clojure
   * [leiningen-win-installer - An Installer for Leiningen on Windows](https://djpowell.github.io/leiningen-win-installer/)
   * [Leiningen GraalVM native builder image](https://github.com/valerauko/clojure-graalvm-native)
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
-  * lein-count
-    * [Counting Clojure Code](http://aaroniba.net/counting-clojure-code) line 수가 아니라 tree node를 이용해 code 양을 계산
+  * lein-count [Counting Clojure Code](http://aaroniba.net/counting-clojure-code) line 수가 아니라 tree node를 이용해 code 양을 계산
+  * [lein-nsort: Leiningen plugin that checks that order of namespace declarations for Clojure and ClojureScript](https://github.com/ertugrulcetin/lein-nsort)
 * [libpython-clj - libpython bindings into the techascent ecosystem](https://github.com/cnuernber/libpython-clj)
   * [Hugging Face GPT With Clojure](https://gigasquidsoftware.com/blog/2020/01/10/hugging-face-gpt-with-clojure/)
 * [Loom - Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj http://aysy.lu/loom ](https://github.com/aysylu/loom)
