@@ -109,6 +109,7 @@ Artificial Intelligence
   * [chris-chris/kpop-classifier](https://github.com/chris-chris/kpop-classifier)
 * [2020AIChallenge_Solution: 2020년 nipa에서 개최한 AI 챌린지 수상 코드를 올려놓은 레포(상금 1.6억원)](https://github.com/SongGeunil1/2020AIChallenge_Solution)
 * [차세대 인공지능 - 제1편](https://brunch.co.kr/@synabreu/100) unsupervised, federated, transformer
+* [차세대 인공지능 - 제2편](https://brunch.co.kr/@synabreu/101)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
