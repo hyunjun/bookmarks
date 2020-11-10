@@ -554,6 +554,7 @@ Clojure
   ```
 * [better-cond: A version of cond that supports :let clauses, and a number of other conveniences](https://github.com/Engelberg/better-cond)
 * [bidi - In the grand tradition of Clojure libraries we begin with an irrelevant quote](https://github.com/juxt/bidi#comparison-with-other-routing-libraries)
+* [Biff - A web framework + self-hosted deployment solution for Clojure](https://findka.com/biff/)
 * [boot - Build tooling for Clojure http://boot-clj.com ](https://github.com/boot-clj/boot)
   * [Migrating a Leiningen Project to Boot](http://blog.michielborkent.nl/blog/2015/06/06/from-leiningen-to-boot/)
   * [Building on Boot](http://seancorfield.github.io/blog/2016/01/30/building-on-boot/)
