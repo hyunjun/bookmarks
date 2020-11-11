@@ -1060,6 +1060,7 @@ Docker
 * [How to operate containerized OpenStack](https://www.slideshare.net/NaleeJang/how-to-operate-containerized-openstack-178346398)
 * [오픈스택과 컨테이너 I](https://naleejang.tistory.com/229)
 * [오픈스택과 컨테이너 II](https://naleejang.tistory.com/230)
+* [오픈스택과 컨테이너 III](https://naleejang.tistory.com/231)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/)
