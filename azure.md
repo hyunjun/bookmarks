@@ -68,6 +68,7 @@ Azure
 * [애저 펑션을 위한 SRE 첫걸음](https://blog.aliencube.org/ko/2019/08/14/azure-functions-sre-on-azure-devops-the-first-cut/)
 * [애저 펑션을 이용해서 애저 키 저장소 시크릿을 백업/복원하기](https://blog.aliencube.org/ko/2019/11/27/backup-restore-key-vault-secrets-via-function-apps)
 * [애저 펑션을 위한 Open API 문서를 커맨드라인에서 생성하기 | Aliencube](https://blog.aliencube.org/ko/2020/07/08/generating-open-api-doc-for-azure-functions-in-command-line/)
+* [Open API 익스텐션에서 애저 펑션 v1 런타임 지원하기 | Aliencube](https://blog.aliencube.org/ko/2020/11/11/openapi-extension-to-support-azure-functions-v1/)
 * [애저 데브옵스 파이프라인 리팩토링 테크닉](https://blog.aliencube.org/ko/2019/09/04/azure-devops-pipelines-refactoring-technics/)
 * [레거시 애저 서비스 버스 SDK에서 JSON 객체를 다루는 방법](https://blog.aliencube.org/ko/2019/09/11/handling-json-objects-in-legacy-azure-service-bus-sdk/)
 * [지역 이중화로 구성된 애저 서비스 버스에 애저 펑션을 이용해서 메시지 주고 받기](https://blog.aliencube.org/ko/2019/10/30/handling-messages-with-geo-redundant-azure-service-bus-via-azure-functions/)
