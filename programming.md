@@ -207,6 +207,7 @@ Programming
 * [joinc.co.kr/w/man/12/sre](https://www.joinc.co.kr/w/man/12/sre)
   * [joinc.co.kr/w/man/12/sre/imple](https://www.joinc.co.kr/w/man/12/sre/imple)
 * [네이버 검색의 SRE 시스템](https://d2.naver.com/helloworld/2047663)
+* [SRE 팀에서 장애의 root cause를 찾고 재발방지 하는 방법 - 우아한형제들 기술 블로그](https://woowabros.github.io/sre/2020/11/11/sre-troubleshoooting.html)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Teach Yourself Programming in Ten Years**](http://norvig.com/21-days.html)
 * [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
