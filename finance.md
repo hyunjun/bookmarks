@@ -64,6 +64,7 @@ Finance
 * [버핏은 하락을 준비하고 있다 - YouTube](https://www.youtube.com/watch?v=CTby89NnjaY)
   * 버핏지수 = 주가 / 국가 GDP
   * 스테그플레이션이 우려되는 시기에 좋은 투자: 금보다 금광회사 e.g. 고려아연, 베릭골드
+* [INVESTMENT, MOIRA & ENOMA.. : 네이버블로그](https://blog.naver.com/moiraenomatia)
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
