@@ -68,6 +68,7 @@ Open Source
 * [#1 유저스틴 / 오픈 소스 프로젝트를 엑싯한 후 생기는 일 - YouTube](https://www.youtube.com/watch?v=8i3QhY-y760)
 * [Hacktoberfest Seoul에서 발표한 "오픈소스에 기여할 때 해도 되는 일과 하면 안되는 일" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1506)
 * [Hacktoberfest 2020 참가 후기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1508)
+* [오픈 소스 프로젝트에 기여해야 하는 이유. 이 글은 원문 Why You Should Start… | by Dayoon Kim | 코드스테이츠 Code States — 혁신적인 교육 부트캠프 | Nov, 2020 | Medium](https://medium.com/code-states/%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-8274ef576a10)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
