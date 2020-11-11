@@ -441,5 +441,6 @@ Data Visualization
   * [파이썬 데이터 시각화 도구 씨본의 변화들 seaborn - distplot이 없어졌다?! - YouTube](https://www.youtube.com/watch?v=J2KTLJQDN6k)
   * [Mastering catplot() in Seaborn with categorical plots | Towards Data Science](https://towardsdatascience.com/mastering-catplot-in-seaborn-categorical-data-visualization-guide-abab7b2067af)
   * [Visualization of Uncertainty | Pega Devlog](https://jehyunlee.github.io/2020/11/01/Python-DS-42-ci/)
+  * [How to create stunning visualizations using python from scratch | by Sharan Kumar Ravindran | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/how-to-do-visualization-using-python-from-scratch-651304b5ee7a)
 * [Tools - matplotlib This notebook demonstrates how to use the matplotlib library to plot beautiful graphs](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/tools_matplotlib.ipynb)
   * [Tools - matplotlib 이 노트북은 matplotlib 라이브러리를 사용하여 아름다운 그래프를 그리는 방법을 보여줍니다](https://colab.research.google.com/drive/1lo8pAAo5GiUk4BZvSEnnkET6hTjP6eLR)
