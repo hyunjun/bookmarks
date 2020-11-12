@@ -488,3 +488,4 @@ Hadoop
 * [Open Hybrid Architecture: Running Stateful Containers on YARN](https://ko.hortonworks.com/blog/open-hybrid-architecture-running-stateful-containers-on-yarn/)
   * CSI(Container Storage Interface)는 YARN이나 Kubernetes와 같은 분산 시스템에서 다양한 저장소 볼륨을 붙이기 위한 표준 API
   * Apache Hadoop Ozone Object Store 구현과 csi-s3 프로젝트를 통해 YARN(또는 다른 시스템)의 CSI 드라이버로 HDFS를 사용하는 방법을 소개
+* [Hadoop Resource Localization 파헤치기 | Popit](https://www.popit.kr/hadoop-resource-localization-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0/)
