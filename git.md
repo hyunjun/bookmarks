@@ -173,6 +173,7 @@ Git
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
 * [GitHub Actions에서 원하는 워크플로우 만들기](https://blog.outsider.ne.kr/1415)
+* [GitHub Actions 워크플로우 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1510)
 * [Run your GitHub Actions workflow on a schedule](https://jasonet.co/posts/scheduled-actions/)
 * [**GitHub Action을 사용해 새로 올라온 전월세 방 목록 받아보기**](https://ahnheejong.name/articles/receive-new-room-notification-mails-using-github-action/)
 * [**GithubAction+React+AWS S3**](https://velog.io/@loakick/series/GithubActionReactAWS-S3)
