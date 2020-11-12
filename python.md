@@ -3539,6 +3539,9 @@ Python
   * `data.iloc[:,0:8].values.tolist()`  행은 모두 사용하고, 열은 [0,8]만 추출해서 리스트로 변환
   * `data = pd.read_csv("pima-indians-diabetes.csv", encoding = 'euc-kr', [header=None])` header=None 첫 번째 행을 헤더가 아니라 데이터로 간주
   * [Visualization of pd.DataFrame as a Markdown format](https://github.com/jehyunlee/code-snippet/blob/master/3_pandas/df2md/df2md.md)
+* troubleshooting
+  * `pd.read_csv('filename', error_bad_lines=False)` [Python Pandas Error tokenizing data](http://stackoverflow.com/questions/18039057/python-pandas-error-tokenizing-data)
+  * `pandas.parser.CParserError: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.` [read_csv C-engine CParserError: Error tokenizing data](https://github.com/pydata/pandas/issues/11166) 제대로 해결되지 않는 경우가 있음
 * [Pandas Profiling](https://pandas-profiling.github.io/pandas-profiling/docs/)
 * [판다스 기초](https://github.com/zerosum99/python_pandas/tree/master/%ED%8C%90%EB%8B%A4%EC%8A%A4%20%EA%B8%B0%EC%B4%88)
 * [Pandas 팬더스 강의 기초 실습](https://www.youtube.com/playlist?list=PLVNY1HnUlO26Igldy2Q6Nb2LZbpQWTyle)
@@ -3574,9 +3577,6 @@ Python
 * [Pandas data frame 이해하기 2편 20160501](http://www.slideshare.net/dahlmoon/pandasdata-frame2-20160501)
 * [GroupBy-fu: improvements in grouping and aggregating data in pandas](http://wesmckinney.com/blog/groupby-fu-improvements-in-grouping-and-aggregating-data-in-pandas/)
 * [Comprehensive Guide to Grouping and Aggregating with Pandas - Practical Business Python](https://pbpython.com/groupby-agg.html)
-* troubleshooting
-  * `pd.read_csv('filename', error_bad_lines=False)` [Python Pandas Error tokenizing data](http://stackoverflow.com/questions/18039057/python-pandas-error-tokenizing-data)
-  * `pandas.parser.CParserError: Error tokenizing data. C error: Buffer overflow caught - possible malformed input file.` [read_csv C-engine CParserError: Error tokenizing data](https://github.com/pydata/pandas/issues/11166) 제대로 해결되지 않는 경우가 있음
 * [An Introduction to scientific python: Pandas](http://www.datadependence.com/2016/05/scientific-python-pandas/)
 * [Data Analysis with Python and Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc-3szzjeP6N6b0aDrrKyL-)
 * [Data Analysis w/ Python 3 and Pandas](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfSfqQuee6K8opKtZsh7sA9)
@@ -3613,8 +3613,8 @@ Python
 * [Pandas 10분 완성](https://dataitgirls2.github.io/10minutes2pandas)
 * [**Pandas 기초 - cheat sheet 따라하기**](https://www.youtube.com/playlist?list=PLaTc2c6yEwmry4B78IJwD47gE8b_ZEsVR)
   * [pandas cheat sheet 뽀개기](https://github.com/corazzon/cracking-the-pandas-cheat-sheet)
+* [Pandas 핵심 명령어 Cheat Sheet](https://www.notion.so/Pandas-Cheat-Sheet-dab65b5b9176451d99ff2481aa784d7a)
 * [10 Python Pandas tricks that make your work more efficient](https://towardsdatascience.com/10-python-pandas-tricks-that-make-your-work-more-efficient-2e8e483808ba)
-* Modin [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
 * [Pandas Tutorial (Data Analysis In Python)](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuASpe-1LjfG5f14Bnozjwy)
 * [파이썬 판다스 데이터프레임 apply함수 사용 - 특정 조건(if)의 값 바꾸기!](https://tariat.tistory.com/622)
 * [Pandas - 연비 TEST Data 분석 1](https://developer-ankiwoong.tistory.com/248)
@@ -3669,6 +3669,7 @@ Python
 * [자주쓰는 명령어로 배우는 Pandas #3 : 데이터 조작하기](https://sjquant.tistory.com/56)
 * [자주쓰는 명령어로 배우는 Pandas #4 : 데이터 능숙하게 다루기](https://sjquant.tistory.com/57)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
+  * [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
 * [swifter: A package which efficiently applies any function to a pandas dataframe or series in the fastest available manner](https://github.com/jmcarpenter2/swifter)
   * [Speed up your Pandas Processing with Swifter - Towards Data Science](https://towardsdatascience.com/speed-up-your-pandas-processing-with-swifter-6aa314600a13)
