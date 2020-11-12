@@ -622,6 +622,7 @@ R
 * [subsetr](https://github.com/jimhester/subsetr)
 * summarytools [Introduction to summarytools](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html)
 * [sungkiquant](https://blog.naver.com/opop4615/221170494851)
+* SwimmeR [Scrapping Websites and Building a Large Dataset with SwimmeR | R-bloggers](https://www.r-bloggers.com/2020/11/scrapping-websites-and-building-a-large-dataset-with-swimmer/)
 * taltal [탈탈(taltal) 데이터 패키지](https://github.com/taltal-ddj/taltal)
 * [taskscheduleR - Schedule R scripts/processes with the Windows task scheduler](https://github.com/bnosac/taskscheduleR)
 * [tidyverse](http://tidyverse.org/)
