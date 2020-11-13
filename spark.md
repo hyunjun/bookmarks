@@ -302,6 +302,7 @@
 * [Debugging a long-running Apache Spark application: A War Story](https://tech.channable.com/posts/2018-04-10-debugging-a-long-running-apache-spark-application.html)
   * 장기간 실행되는 Apache Spark 응용 프로그램의 성능 문제를 디버깅하는 방법 대해 설명
   * JVM 내부 (예 : 사용자 정의 클래스 로더 및 GC), Spark internal (예 : driver가 broadcast data를 정리하는 방법) 및 이러한 버그를 찾아 내고 확인하는 메트릭 및 모니터링 전략
+* [A step-by-step guide for debugging memory leaks in Spark Applications | by Shivansh Srivastava | disney-streaming | Nov, 2020 | Medium](https://medium.com/disney-streaming/a-step-by-step-guide-for-debugging-memory-leaks-in-spark-applications-e0dd05118958)
 * [A Deeper Understanding of Spark Internals - Aaron Davidson (Databricks)](https://www.youtube.com/watch?v=dmL0N3qfSc8)
 * [Using Apache Spark to Analyze Large Neuroimaging Datasets](https://blog.dominodatalab.com/pca-on-very-large-neuroimaging-datasets-using-pyspark/)
 * [Goal Based Data Production: The Spark of a Revolution - Sim Simeonov](https://www.youtube.com/watch?v=VR2lAMVD4_4)
