@@ -1888,6 +1888,7 @@ Javascript
 * [Node.js - 9.URL의 이해 - YouTube](https://www.youtube.com/watch?v=Zhbvui_T9VY)
 * [GitHub - iamssen/http-study-with-node-socket](https://github.com/iamssen/http-study-with-node-socket)
 * [High performance and safe AI as a Service in Node.js](https://www.secondstate.io/articles/face-detection-ai-as-a-service/)
+* [Node.js v15 가 모습을 드러냈습니다! | Eric's DevLog (데브로그)](https://www.kyungyeon.dev/posts/57)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
