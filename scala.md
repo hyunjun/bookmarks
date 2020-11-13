@@ -671,6 +671,7 @@ Scala
   * [Introducing error reporting in optics](https://fp-tower.github.io/2020-01-27-introducing-error-reporting-in-optics/)
   * [The cost of Scala Option](https://medium.com/@georgeleung_7777/the-cost-of-scala-option-987ffd64206b)
   * [Option — the null of our times. Things I would have told my… | by Adam Gajek | VirtusLab | Sep, 2020 | Medium](https://medium.com/virtuslab/option-the-null-of-our-times-77f3bfd7c234)
+  * [I like Option.get - Alexandru Nedelcu](https://alexn.org/blog/2020/11/12/i-like-option-get.html)
 * Ordered
   * [A functional comparer](https://scalaprof.blogspot.com/2020/04/a-functional-comparer.html)
 * par
@@ -795,7 +796,9 @@ Scala
       * [A Tour of ZIO Streams - YouTube](https://www.youtube.com/watch?v=OiuKbpMOKsc)
       * [Functional Scala - Modern Data Driven Applications with ZIO Streams by Itamar Ravid - YouTube](https://www.youtube.com/watch?v=bbss7elSfxs)
     * ZIO sttp [Mocking endpoints with ZIO sttp – pierangeloc.github.io](https://pierangeloc.github.io/blog/2020/07/10/ZIO-sttp)
-    * ZIO stream [Autorecovery for (JMS) Streams | Blended - ZIO](http://blended-scala.org/posts/2020-10-30-recoveringstreams/)
+    * ZIO stream
+      * [Autorecovery for (JMS) Streams | Blended - ZIO](http://blended-scala.org/posts/2020-10-30-recoveringstreams/)
+      * [Keep alive for JMS connections | Blended - ZIO](http://blended-scala.org/posts/2020-11-05-jmskeepalive/)
     * ZIO test
       * [Get started with ZIO Test](https://medium.com/@wiemzin/get-started-with-zio-test-7a27da355498)
       * [Effective testing with ZIO Test](https://scala.monster/zio-test/)
@@ -1256,6 +1259,7 @@ Scala
   * [#circe - Part 3.2 - Integrations & Extras (refined, lightbend config, fs2, http4s and Scala.js)](https://www.youtube.com/watch?v=L_u7uBHpmAU)
   * [#circe - Part 4 - Golden Testing](https://www.youtube.com/watch?v=vo7RgPm6Qh4)
   * [Parsing JSON with Circe — Beyond the Basics | by Edward Huang | Level Up Coding](https://levelup.gitconnected.com/parsing-json-with-circe-beyond-the-basics-334014de393e)
+  * [Working with JSON in Scala, a Circe Crash Course - YouTube](https://www.youtube.com/watch?v=uCtKqp2tdrg)
 * [spray-json - A lightweight, clean and simple JSON implementation in Scala](https://github.com/spray/spray-json)
   * [Hacking with scala spray-json](https://medium.com/rahasak/json-handling-in-scala-spray-json-afbab0e9eaba)
 
@@ -1503,6 +1507,7 @@ Scala
 * [Annoying things in Scala 2 that’ll be (mostly) gone in Scala 3 | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/annoying-things-in-scala-2-thatll-be-mostly-gone-in-scala-3-e1479a6d855c)
 * [Scala 3: Enums | Rock the JVM - YouTube](https://www.youtube.com/watch?v=QnrXubpILu4)
 * [Let’s Talk About the Scala 3 Indentation - Rock the JVM Blog](https://blog.rockthejvm.com/scala-3-indentation/)
+* [Explicit term inference with Scala 3 | The Scala Programming Language](https://www.scala-lang.org/2020/11/06/explicit-term-inference-in-scala-3.html)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
   * [Dotty Documentation](https://dotty.epfl.ch/docs/index.html)
   * [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
@@ -1704,6 +1709,8 @@ Scala
 * [SF Scala: Reimagining Functional Type Classes - YouTube](https://www.youtube.com/watch?v=OwmHgL9F_9Q)
 * [Thinking With Types | alvinalexander.com](https://alvinalexander.com/scala/thinking-with-types/introduction/)
 * [Emily Pillmore: Type Arithmetic and the Yoneda Lemma - YouTube](https://www.youtube.com/watch?v=aXS5HZ_1fNQ)
+* [Types, Kinds and Type Constructors in Scala - Rock the JVM Blog](https://blog.rockthejvm.com/scala-types-kinds/)
+  * [Variance Positions in Scala, Demystified | Rock the JVM - YouTube](https://www.youtube.com/watch?v=aUmj7jnXet4)
 * HasId pattern
   * [HasId.scala](https://gist.github.com/knutwalker/788acb4c7ae9782fdf67)
   * [Scala Best Practices - Type class](https://nrinaudo.github.io/scala-best-practices/definitions/type_class.html)
@@ -1799,4 +1806,5 @@ Scala
 * [**Tour of Scala | Home**](https://tourofscala.com) ???를 제거해서 code snippet을 완성하는 연습
 * [Programmering, grundkurs (2020) - YouTube](https://www.youtube.com/playlist?list=PLEV42dlCGAJ-0925_wTUFt_XiXfnimIVX)
 * [Why Scala? | An introduction by Adam Warski - YouTube](https://www.youtube.com/watch?v=t7SOXNJVbJo)
+* [Why You Should Learn Scala in 2020? | by Marcin Krykowski | Medium](https://medium.com/@marcinkrykowski/why-you-should-learn-scala-in-2020-b827f7e00282)
 * [ScalaZONE - Scala 3 Programming Language Courses](https://scala.zone/)
