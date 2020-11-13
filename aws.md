@@ -267,6 +267,7 @@ AWS
 * [블로그 서버 마이그레이션](https://blog.outsider.ne.kr/1418)
 * [AWS NAT Gateway에서 NAT instance로 전환하기](https://blog.2dal.com/2018/12/31/nat-gateway-to-nat-instance/)
 * [AWS NAT 인스턴스의 가성비 확인](https://elegantcoder.com/aws-nat-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4%EC%9D%98-%EC%84%B1%EB%8A%A5%EC%9D%80/)
+* [AWS NAT Gateway로 Private NAT 구성하기 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1102)
 * [서버리스 시대에 GitOps를 통한 모던 CI/CD 파이프라인 구축](https://aws.amazon.com/ko/blogs/korea/building-a-modern-ci-cd-pipeline-in-the-serverless-era-with-gitops)
 * [그들이 AWS 위에서 데이터 파이프라인을 운영하는 법](https://docs.google.com/presentation/d/1_v-f5B67v-hcmEbltLEfjSS5MKKctztdAGZzEHs2DPM)
 * [Serverless Programmable Voice](https://www.slideshare.net/mooyoul/serverless-programmable-voice)
