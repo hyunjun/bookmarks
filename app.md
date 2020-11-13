@@ -1278,6 +1278,7 @@ App
   * [파워쉘을 이용해서 윈도우 텍스트 파일 utf8 인코딩 변경 하기 feat.Get-Content, Set-Content -Encoding](https://stricky.tistory.com/160)
   * [Abstracting away side-effects with Higher-Order Functions in PowerShell | by Christopher Kuech | ITNEXT](https://itnext.io/abstracting-away-side-effects-with-higher-order-functions-in-powershell-10c4ae98a42b)
   * [윈도우 PowerShell에서 git을 좀더 편하게 사용하자](https://jusths.tistory.com/180)
+  * [윈도우 PowerShell - custom prompt 스크립트 만들기](https://jusths.tistory.com/181)
   * [Bloodguy :: Windows 배치 스크립트 파일을 관리자 권한으로 실행시 현재 디렉토리 (current working directory when run batch script as administrator, UAC, %cd%)](https://bloodguy.tistory.com/entry/Windows-%EB%B0%B0%EC%B9%98-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EA%B4%80%EB%A6%AC%EC%9E%90-%EA%B6%8C%ED%95%9C%EC%9C%BC%EB%A1%9C-%EC%8B%A4%ED%96%89%EC%8B%9C-%ED%98%84%EC%9E%AC-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-current-working-directory-when-run-batch-script-as-administrator-UAC-cd)
 * putty
   * [파일 전송이 어려울 때 텍스트 파일 내용 복사하기(putty)](https://github.com/wafe/Pile-of-Things/issues/13)
