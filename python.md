@@ -3879,6 +3879,7 @@ Python
   * [LINE 개발자 3인의 파이콘 한국 2019 방문기](https://engineering.linecorp.com/ko/blog/pycon-korea-2019/)
 * [PyOhio 2019 Surviving Without Python](https://www.youtube.com/watch?v=nJ31ZNpxTis) python 전반
 * [us.pycon.org/2020](https://us.pycon.org/2020/online/)
+* [PyCon.KR 2020 - YouTube](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7)
 
 ## Conference PyData
 * [A Machine Learning Data Pipeline - PyData SG](https://www.youtube.com/watch?v=knU-p68JPE0)
