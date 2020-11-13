@@ -654,6 +654,8 @@ Scala
   * [Regexp Replacement via Function in Java/Scala](https://alexn.org/blog/2019/11/22/howto-regexp-replacement-via-function-java-scala.html)
 * List
   * `List.fill([length])([element])`
+  * [practice - Option Seq map getOrElse filter](https://gist.github.com/hyunjun/4b1c4dd02e91268c9ee34ead6b9284fc#file-optionseq_map_getorelse_filter-scala)
+  * [practice - list unzip or foldLeft](https://gist.github.com/hyunjun/4b1c4dd02e91268c9ee34ead6b9284fc#file-list_unzip_or_foldleft-scala)
   * [리스트 비교하기 — 스칼라](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%EC%8A%A4%EC%B9%BC%EB%9D%BC-1258b2c8e6f8)
   * [HList - The Heterogeneous List](https://francistoth.github.io/2020/02/29/hlist.html)
 * Map
