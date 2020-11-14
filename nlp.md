@@ -739,6 +739,7 @@ NLP
   * [발표소개 | LangCon](https://songys.github.io/2020LangconOnOff/about/)
   * [2020Langcon - YouTube](https://www.youtube.com/playlist?list=PLqkITFr6P-oRTpBB7GZB7zRq70RQ4Brqt)
 * [텐서플로 월드2019 행사 핵심요약 2. NLP가 대세입니다!](https://www.youtube.com/watch?v=5gKWS4CfE2Y)
+* [이 선 넘으면 침범이야 BEEP! - 문지형 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=P0fyKb3U9yo)
 
 # Corpus
 * [CORPORA AND OTHER LANGUAGE AND SPEECH DATA UNDER DICE](http://www.inf.ed.ac.uk/resources/corpora/)
