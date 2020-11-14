@@ -1258,6 +1258,9 @@ Java
 # NetBeans
 * [Truffle Debugging Demo](https://www.youtube.com/watch?v=ewdzDqPsn38)
 
+# News
+* [자바 뉴스 2020/11/13](https://www.whiteship.me/java-news-2020-11-13/)
+
 # Performance Tuning
 * [Tuning Java Servers](http://www.infoq.com/articles/Tuning-Java-Servers)
 * [Java 어플리케이션 성능튜닝 Part1](https://www.slideshare.net/songaal/java-part1-144046077)
