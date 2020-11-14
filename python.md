@@ -1669,6 +1669,7 @@ Python
 * [Django ORM Relationships Cheat Sheet](https://hackernoon.com/django-orm-relationships-cheat-sheet-14433d6cf68c)
 * [ORM으로 Aggregation 함수와 Group by 사용](https://brownbears.tistory.com/376)
 * [반드시 알아야 할 5가지ORM 쿼리](https://medium.com/@chrisjune_13837/django-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EB%AA%B0%EB%9E%90%EB%8D%98-orm-%EA%B8%B0%EC%B4%88%EC%99%80-%EC%8B%AC%ED%99%94-592a6017b5f5)
+* [Django ORM (QuerySet)구조와 원리 그리고 최적화전략 - 김성렬 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=EZgLfDrUlrk)
 * [장고 모델 행동(Django Model Behaviors) By Kevin Stone](http://jellyms.kr/808)
 * [김도현 : Django vs Flask, 까봅시다! - PyCon APAC 2016](https://www.youtube.com/watch?v=cX8n7pRA670)
   * [Django vs Flask, 까봅시다!](https://speakerdeck.com/nerogit/django-vs-flask-ggabobsida)
@@ -3317,6 +3318,7 @@ Python
 * [Michał Wodyński - Difficulties of Python code development:packages,virtualenvs and package mangers - YouTube](https://www.youtube.com/watch?v=NZ8K1GXI94M)
 * [Wei Lee - Python Table Manners: Cut the Cookie Gracefully - YouTube](https://www.youtube.com/watch?v=m6rF3Kah928)
 * [Our Python Monorepo. At Opendoor we started putting all our… | by Dan Hipschman | Open House | Medium](https://medium.com/opendoor-labs/our-python-monorepo-d34028f2b6fa)
+* [Publishing Well Formed Python Packages - Julin Shaji - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=XFGXCK6HZbk)
 * [ezpypi: Very simple and easy to use pip on any os](https://github.com/dlehdgud2380/ezpypi)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
   * [Pex를 이용한 배포](https://b.luavis.kr/python/deploy-with-pex)
@@ -3881,6 +3883,7 @@ Python
 * [PyOhio 2019 Surviving Without Python](https://www.youtube.com/watch?v=nJ31ZNpxTis) python 전반
 * [us.pycon.org/2020](https://us.pycon.org/2020/online/)
 * [PyCon.KR 2020 - YouTube](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7)
+  * [파이썬으로 법률 역사 연구하기 - 김재윤 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=-teop71JmbQ)
 
 ## Conference PyData
 * [A Machine Learning Data Pipeline - PyData SG](https://www.youtube.com/watch?v=knU-p68JPE0)
@@ -4003,6 +4006,7 @@ Python
 * [Python 프로젝트에 Codecov 연동하기](https://cjh5414.github.io/codecov-python/)
 * [파이썬 시작하기 TDD부터 PyPI에 배포까지 (1)](https://www.holaxprogramming.com/2017/06/15/python-get-started/)
 * [파이썬 시작하기 TDD부터 PyPI에 배포까지 (2)](https://www.holaxprogramming.com/2017/06/17/python-with-test/)
+* [TDD와 Flipped Classroom을 활용한 파이썬 교육 - 설진석 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=P9QDCcpFtSM)
 * [A simple introduction to Test Driven Development with Python](https://medium.freecodecamp.org/learning-to-test-with-python-997ace2d8abe)
 * [Automated Tests in Python](https://powerfulpython.com/blog/automated-tests-types-for-python/)
 * [python testing](http://pythontesting.net/)
