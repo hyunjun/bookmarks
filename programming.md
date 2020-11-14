@@ -337,6 +337,7 @@ Programming
 * [A Guide on Good Backend Coding Practices | by Jimmy Soh | The Internal Startup | Medium](https://medium.com/the-internal-startup/a-guide-on-good-backend-coding-practices-e43f80422559) 기본 원칙
 * [나의 백엔드 배포 환경 정책 · /usr/lib/libsora.so](https://libsora.so/posts/my-backend-deployment-environment-policy/) development environment
 * [Joe Duffy - The Error Model](http://joeduffyblog.com/2016/02/07/the-error-model/)
+* [DevRel/Asia 2020 Korea Track - YouTube](https://www.youtube.com/watch?v=X25TQkQQjbg)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
