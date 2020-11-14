@@ -682,6 +682,7 @@ Python
   * [Dictionary View Objects 101. Learning about dynamic view objects in… | by Indhumathy Chelliah | Aug, 2020 | codeburst](https://codeburst.io/dictionary-view-objects-101-480b72f71dec)
   * [7 Advanced Python Dictionary Techniques | Towards Data Science](https://towardsdatascience.com/7-advanced-python-dictionary-techniques-you-should-know-416194d82d2c)
   * [Dictionary as an Alternative to If-Else | by Khuyen Tran | Towards Data Science](https://towardsdatascience.com/dictionary-as-an-alternative-to-if-else-76fe57a1e4af)
+  * [Python’s Most Powerful Data Type. Everything you ever need to know about… | by Erik van Baaren | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/pythons-most-powerful-data-type-89628a9e1467)
 * dis
   * [PyInstaller로 만든 EXE 파일에서 Python code 뽑아내기](https://item4.github.io/2018-11-04/Extract-Python-Code-from-PyInstaller-EXE-File/)
 * double/float
@@ -3951,6 +3952,8 @@ Python
 * [파이썬(Python) 3.9 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/python-3-9-release-note-summary)
 * [Python 3.9 Update New Features. Write less code, achieve more! | by Radian Krisno | Towards Data Science](https://towardsdatascience.com/python-3-9-update-new-features-e4a580fc5c2)
 * [파이썬 3.9의 새로운 기능과 더 나아진 기능 - ITWorld Korea](http://www.itworld.co.kr/news/168295)
+* [Python Will be Dead in 2021? A review of the final version of Python 3.9 | by Rizky Maulana N | Towards Data Science](https://towardsdatascience.com/python-will-be-dead-in-2021-bdbc28400996)
+* [New Features in Python 3.10 | Towards Data Science](https://towardsdatascience.com/new-features-in-python-3-10-66ac05e62fc7)
 * [Features You Likely Don’t Use in Python 3 — But You Should | LaptrinhX](https://laptrinhx.com/features-you-likely-don-t-use-in-python-3-but-you-should-2455806769/)
 * [9 Python 3 Hacks Programmers Probably Don’t Utilize | Better Programming](https://medium.com/better-programming/9-python-3-features-you-might-not-use-yet-fade13932a3e)
 * [concurrent.futures - Easy parallel python with concurrent.futures](https://gist.github.com/mangecoeur/9540178)
