@@ -850,6 +850,7 @@
   * [Koalas: Easy Transition from pandas to Apache Spark](https://databricks.com/blog/2019/04/24/koalas-easy-transition-from-pandas-to-apache-spark.html)
   * [10 Minutes from pandas to Koalas on Apache Spark With demonstrable Python how-to Koalas code snippets and Koalas best practices](https://databricks.com/blog/2020/03/31/10-minutes-from-pandas-to-koalas-on-apache-spark.html)
   * [New Developments in the Open Source Ecosystem: Apache Spark 3 0, Delta Lake, and Koalas](https://www.youtube.com/watch?v=scM_WQMhB3A)
+  * [pandas 코드로 대규모 클러스터에서 더 빠르게 빅데이터를 분석 해보자 - Koalas - 박현우 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=Y9kdUq_qIa8)
 * [Analyze MongoDB Logs Using PySpark](https://medium.com/hackernoon/analyze-mongodb-logs-using-pyspark-97a915547da0)
 * [Real-world Python workloads on Spark: EMR clusters](https://becominghuman.ai/real-world-python-workloads-on-spark-emr-clusters-3c6bda1a1350)
 * [First Steps With PySpark and Big Data Processing](https://realpython.com/pyspark-intro/)
