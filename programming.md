@@ -2356,6 +2356,8 @@ Programming
 * [**A/B테스트에서 하면 안되는 7가지 실수**](http://mindthelog.com/2017/08/ab-testing)
 * [아마존, 에어비앤비, 넷플릭스의 AB테스트 결과 정리](https://brunch.co.kr/@digitalnative/17)
 * [기획자의 일 - A/B 테스트](https://brunch.co.kr/@yongjinjinipln/70)
+* [Spotify’s New Experimentation Platform (Part 1) : Spotify Engineering](https://engineering.atspotify.com/2020/10/29/spotifys-new-experimentation-platform-part-1/)
+  * [Spotify의 새로운 실험 플랫폼](https://gist.github.com/hyunjun/ffa5ee34166c03282924d38313567bd7#file-spotify-md)
 * [codekata.com](http://codekata.com/)
 * [소프트웨어 테스팅의 False Positive](https://justhackem.wordpress.com/2018/12/20/false-positive-in-software-testing/)
 * [TDD 읽은티내기](https://brunch.co.kr/@moonjoonyoung/7)
