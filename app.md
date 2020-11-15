@@ -423,6 +423,7 @@ App
   * [postman tutorial 및 사용법](https://blog.naver.com/pjt3591oo/221642929410)
   * [postman 활용 1~3편](https://blog.naver.com/pjt3591oo/221669110777)
   * [로그인이 필요한 API 똑똑하게 테스트 하는 방법](https://blog.naver.com/pjt3591oo/221822014861)
+  * [서버 환경변수와 tests 스크립트를 이용.. : 네이버블로그](https://blog.naver.com/pjt3591oo/222144807032)
   * [POSTMAN을 이용해 REST API와 URL 요청 TEST 해보기](https://rwd337.tistory.com/173)
   * [포스트맨(Postman)을 이용한 API 테스트](https://imasoftwareengineer.tistory.com/36)
   * [Postman 개요 / 설치 / 사용법 / 활용 방법](http://devkyeol.tistory.com/entry/Postman-%EA%B0%9C%EC%9A%94-%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95)
