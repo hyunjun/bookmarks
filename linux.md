@@ -623,6 +623,7 @@ Linux
   * [SSH Tips & Tricks](https://smallstep.com/blog/ssh-tricks-and-tips/)
   * [MAC에서 비밀번호 없이 ssh 접속하기(config) - On KimKevin's Dev Way](https://blog.kimkevin.net/mac%ec%97%90%ec%84%9c-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8-%ec%97%86%ec%9d%b4-ssh-%ec%a0%91%ec%86%8d%ed%95%98%ea%b8%b0config/)
   * [SSH Emergency Access](https://smallstep.com/blog/ssh-emergency-access/)
+  * [Private/Public 키 쉽게 다루기 - YouTube](https://www.youtube.com/watch?v=cKfd_BmJzHE)
   * [endlessh: SSH tarpit that slowly sends an endless banner](https://github.com/skeeto/endlessh)
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
 * `stat`
