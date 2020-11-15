@@ -2087,6 +2087,7 @@ Programming
   * [(10/31) 클린 아키텍처로 가는 신박한 방법 - YouTube](https://www.youtube.com/watch?v=KtTQbyclKh4)
 * [(11월 7일) 어느 고졸 개발자의 10년의 회고록](https://jhrogue.blogspot.com/2020/11/11-7-10.html)
   * [(11/07) 어느 고졸 개발자의 10년의 회고록 - YouTube](https://www.youtube.com/watch?v=0ZW4bSEJPPQ)
+* [(11/14) 코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는 법 - YouTube](https://www.youtube.com/watch?v=D8hJllxMHFY)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 
 # OS Operating System
