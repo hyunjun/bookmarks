@@ -51,6 +51,7 @@ Elixir
 * [#elixir 지연 열거(lazy enumeration)가 필요할 땐, Stream 모듈](http://ohyecloudy.com/pnotes/archives/elixir-lazy-enumeration-stream/)
 * [#elixir 언어로 #telegram 봇 만들기](http://ohyecloudy.com/pnotes/archives/create-telegram-bots-in-elixir-language/)
 * [#elixir 언어로 만든 네이버 검색 랭킹 알림 #telegram 봇을 #heroku 플랫폼으로 배포하기](http://ohyecloudy.com/pnotes/archives/naver-search-ranking-notification-telegram-bot/)
+* [#elixirlang 커맨드 라인 옵션 해석에 사용하는 OptionParser 모듈과 help 옵션 구현 고민](http://ohyecloudy.com/pnotes/archives/elixir-optionparser-help-option/)
 * [elixir 프로젝트 템플릿](https://github.com/ohyecloudy/project-templates/tree/master/elixir)
 * [Learn With Me: Elixir - A series where I learn Elixir and you can learn along with me](https://inquisitivedeveloper.com/tag/lwm-elixir/)
 * [How Discord Scaled Elixir to 5,000,000 Concurrent Users](https://blog.discordapp.com/scaling-elixir-f9b8e1e7c29b)
