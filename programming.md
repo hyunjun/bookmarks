@@ -1040,6 +1040,7 @@ Programming
 * [감자박스 :: 오라클 클라우드에서 평생 무료로 VPS 사용하기](https://www.gamjaa.com/blog/1404)
 * [SQLD 실습용 오라클 클라우드 DB 생성하기](https://stricky.tistory.com/344)
 * [Oracle Cloud 방화벽 설정 (http/https 특정 포트 열기)](https://kibua20.tistory.com/124)
+* [오라클 클라우드 무료 인스턴스를 활용한 VPN 서버 구축하기 : 클리앙](https://www.clien.net/service/board/lecture/15587467?type=recommend)
 * [Dataiku 다타이쿠 클라우드 서버 설치 방법 가이드](https://stricky.tistory.com/351) 네이버 클라우드 플랫폼
 * [Libvirt - The Unsung Hero of Cloud Computing — Vyom](https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html)
 
