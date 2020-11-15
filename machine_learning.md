@@ -1198,6 +1198,7 @@ Machine Learning
   * [파이썬(sklearn) 사이킷런(sklearn) 기초](https://losskatsu.github.io/machine-learning/sklearn/)
   * [Scikit Learn을 이용한 분류와 회귀 머신러닝 with python - YouTube](https://www.youtube.com/watch?v=B_S3OIp9lgc)
   * [Deep Neural Multilayer Perceptron (MLP) with Scikit-learn | by Kaushik Choudhury | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/deep-neural-multilayer-perceptron-mlp-with-scikit-learn-2698e77155e)
+  * [사이킷런 0.24 맛보기! | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/2020/11/15/%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0-0-24-%EB%A7%9B%EB%B3%B4%EA%B8%B0/)
 * [SHAP (SHapley Additive exPlanations) explains the output of any machine learning model using expectations and Shapley values](https://github.com/slundberg/shap)
 * [shrynk - Using Machine Learning to learn how to Compress](https://vks.ai/2019-12-05-shrynk-using-machine-learning-to-learn-how-to-compress)
 * sklearn
