@@ -1103,6 +1103,8 @@ Python
   * [Python serializer benchmark: json, simplejson, cPickle, messagepack, simpleubjson, marshal, literal_eval](https://gist.github.com/schlamar/3134391)
   * [파이썬 객체의 직렬화와 역직렬화: 1부](https://code.tutsplus.com/ko/tutorials/serialization-and-deserialization-of-python-objects-part-1--cms-26183)
   * [파이썬 객체의 직렬화와 역직렬화: 2부](https://code.tutsplus.com/ko/tutorials/serialization-and-deserialization-of-python-objects-part-2--cms-26184)
+  * [bencodex: Bencodex: Bencoding Extended](https://github.com/planetarium/bencodex)
+    * [직렬화 포맷 개량과 라이브러리 구현 - 이도건 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=Z4nx-cONpAc)
 * sets
   * [Python Data Structures: Sets, Frozensets, and Multisets (Bags)](https://www.youtube.com/watch?v=b-K1ujf8u_k)
   * [You Should Use Python Sets](https://dev.to/dbanty/you-should-use-python-sets-1d14)
