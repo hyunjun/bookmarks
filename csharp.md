@@ -116,6 +116,7 @@ C#
 * [SparkCLR adds C# language binding to Apache Spark enabling the implementation of Spark driver code and data processing operations in C#](https://github.com/Microsoft/SparkCLR)
 * [Symbolism, a computer algebra library for C#](https://github.com/dharmatech/Symbolism/)
   * [physics problem using Symbolism](https://gist.github.com/dharmatech/a5e74ef03d98b3ff1c45)
+* [Uno Platform](https://platform.uno/)
 * [WolframAlpha.NET - An implementation of the Wolfram|Alpha 2.0 API in C#](https://github.com/Genbox/WolframAlpha.NET)
 * [XLParser - A C# Excel formula parser with the following properties](https://github.com/spreadsheetlab/XLParser)
 
