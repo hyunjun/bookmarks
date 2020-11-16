@@ -72,6 +72,7 @@ Presentation
 * [the noun project](https://thenounproject.com/) icon
 * [pixlr.com/editor](https://pixlr.com/editor/) online photo editor
 * [present: A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
+* [presenta-lib: A javascript library to build expressive web presentations in seconds](https://github.com/presenta-software/presenta-lib)
 * [prezi](https://prezi.com/)
 * [python-pptx](http://python-pptx.readthedocs.io) a Python library for creating and updating PowerPoint (.pptx) files
 * [sizle - Bring your slide decks to life](https://sizle.io/)
