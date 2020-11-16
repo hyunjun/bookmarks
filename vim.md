@@ -189,6 +189,7 @@ Vim
 * [pyvim - An implementation of Vim in Python](https://github.com/jonathanslenders/pyvim)
 * [vim-airline](https://github.com/vim-airline) lean & mean status/tabline for vim that's light as air
 * [Vim Bootstrap - A generator which provides a simple method of generating a .vimrc configuration for vim](http://www.vim-bootstrap.com/)
+* [vimflowy: An open source productivity tool drawing inspiration from workflowy and vim](https://github.com/WuTheFWasThat/vimflowy)
 * [vim-galore - Everything you need to know about Vim](https://github.com/mhinz/vim-galore/)
 * [vim-quickui - The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !!](https://github.com/skywind3000/vim-quickui)
 * [vimwiki - A Personal Wiki For Vim](https://github.com/vimwiki/vimwiki)
