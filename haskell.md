@@ -425,6 +425,7 @@ Haskell
 * [Understand IO Monad and implement it yourself in Haskell](https://boxbase.org/entries/2020/may/18/diy-io-monad/)
 * [Reader Monad and Function Composition - yuiazu](https://yuiazu.net/2016/10/14/reader-monad-and-function-composition/)
 * [함수 join](https://www.facebook.com/notes/%ED%95%98%EC%8A%A4%EC%BC%88-%ED%95%99%EA%B5%90/%ED%95%A8%EC%88%98-join/3450028918417874/)
+* [Learn You a Haskell for Great Good, Chapter 14, Making Monads, 모나드 만들기](https://gist.github.com/nattybear/f7b92d19c16222b7205eecdc2de2550a)
 
 # TDD, Test
 * [Rewriting to Haskell–Testing](https://odone.io/posts/2020-04-13-rewriting-haskell-testing.html)
