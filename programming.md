@@ -1041,6 +1041,7 @@ Programming
 * [SQLD 실습용 오라클 클라우드 DB 생성하기](https://stricky.tistory.com/344)
 * [Oracle Cloud 방화벽 설정 (http/https 특정 포트 열기)](https://kibua20.tistory.com/124)
 * [오라클 클라우드 무료 인스턴스를 활용한 VPN 서버 구축하기 : 클리앙](https://www.clien.net/service/board/lecture/15587467?type=recommend)
+* [클라우드 우분투에 gui로 원격 연결하기](https://evols-atirev.tistory.com/27)
 * [Dataiku 다타이쿠 클라우드 서버 설치 방법 가이드](https://stricky.tistory.com/351) 네이버 클라우드 플랫폼
 * [Libvirt - The Unsung Hero of Cloud Computing — Vyom](https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html)
 
@@ -1367,6 +1368,7 @@ Programming
   * data pipeline evolution: Batch => Streaming => Automation => Microwarehouses (Distributed Data Mesh)
   * Data catalogs are gaining popularity: Apache Atlas, DataHub(LinkedIn), Marquez(WeWork), Data Catalog(Google)
 * [Data Mesh Paradigm Shift in Data Platform Architecture](https://www.infoq.com/presentations/data-mesh-paradigm/)
+* [Taming Service-Oriented Architecture Using A Data-Oriented Service Mesh | by Adam Miskiewicz | Airbnb Engineering & Data Science | Nov, 2020 | Medium](https://medium.com/airbnb-engineering/taming-service-oriented-architecture-using-a-data-oriented-service-mesh-da771a841344)
 
 # Data Pipeline
 * [Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack](https://www.infoq.com/podcasts/slack-building-resilient-data-engineering/)
