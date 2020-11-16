@@ -337,6 +337,7 @@ Programming
 * [A Guide on Good Backend Coding Practices | by Jimmy Soh | The Internal Startup | Medium](https://medium.com/the-internal-startup/a-guide-on-good-backend-coding-practices-e43f80422559) 기본 원칙
 * [나의 백엔드 배포 환경 정책 · /usr/lib/libsora.so](https://libsora.so/posts/my-backend-deployment-environment-policy/) development environment
 * [Joe Duffy - The Error Model](http://joeduffyblog.com/2016/02/07/the-error-model/)
+* [Everything is an X - lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -694,6 +695,7 @@ Programming
 * [How architecture prepared me for UX | by Jeff Matarrese | UX Collective](https://uxdesign.cc/how-architecture-prepared-me-to-pivot-to-user-experience-16db8a000f72)
 * [State of the Art Infrastructure as Code | by Kovid Rathee | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/state-of-the-art-infrastructure-as-code-4fbd59d92462) catalog
 * [비즈니스와 좋은 설계 사이에서 균형 잡기 | Evans Library](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
+* [**Architecture Playbook — Architecture Playbook**](https://nocomplexity.com/documents/arplaybook/index.html)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -1042,8 +1044,11 @@ Programming
 * [Oracle Cloud 방화벽 설정 (http/https 특정 포트 열기)](https://kibua20.tistory.com/124)
 * [오라클 클라우드 무료 인스턴스를 활용한 VPN 서버 구축하기 : 클리앙](https://www.clien.net/service/board/lecture/15587467?type=recommend)
 * [클라우드 우분투에 gui로 원격 연결하기](https://evols-atirev.tistory.com/27)
+* [Taking Control of Confusing Cloud Costs](https://www.infoq.com/articles/taking-control-of-cloud-costs/)
 * [Dataiku 다타이쿠 클라우드 서버 설치 방법 가이드](https://stricky.tistory.com/351) 네이버 클라우드 플랫폼
 * [Libvirt - The Unsung Hero of Cloud Computing — Vyom](https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html)
+* [Micro 3.0 (M3O) - a platform for cloud native development | Micro](https://micro.mu/blog/2020/11/05/micro-v3-aka-m3o.html)
+  * [Why we are building a CLI first PaaS without a web frontend](https://crufter.com/cli-first-paas)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
@@ -1118,6 +1123,7 @@ Programming
 * [Awesome-Clean-Code-Resources: An awesome curated list of clean code posts, books and videos](https://github.com/abiodunjames/Awesome-Clean-Code-Resources)
 * [Clean Code: 5 Essential Takeaways - Better Programming - Medium](https://medium.com/better-programming/clean-code-5-essential-takeaways-2a0b17ccd05c)
 * [(C)Lean Code. The new generation of Clean Code. | by Huge Ponkce | The Startup | Medium](https://medium.com/swlh/c-lean-code-db84f8e312d4)
+* [No, your clean code won't save the planet • Buttondown](https://buttondown.email/hillelwayne/archive/no-your-clean-code-wont-save-the-planet/)
 * [How to write clean functions](https://dev.to/manu4216/how-to-write-clean-functions-bmh)
 * [Write code that is easy to delete, not easy to... — programming is terrible](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
@@ -1129,6 +1135,7 @@ Programming
 * [시니어 엔지니어로 넘어가기 위한 기술: 코드 읽기](http://mkseo.pe.kr/blog/?p=2737)
 * [Code Review Best Practices at Google | Better Programming](https://medium.com/better-programming/13-code-review-standards-inspired-by-google-6b8f99f7fd67)
 * [When DRY Doesn’t Work, Go WET. It’s okay if you repeat yourself | by Nick Bull | Better Programming | Medium](https://medium.com/better-programming/when-dry-doesnt-work-go-wet-6befda0444bf)
+* [Paircast - Code Screencast Software](https://paircast.io/)
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
@@ -1347,6 +1354,7 @@ Programming
 * [Demystifying DevOps Pipeline and CI/CD - YouTube](https://www.youtube.com/watch?v=2IJs6LsW3BU)
 * [Keep Calm and Secure Your CI/CD Pipeline - YouTube](https://www.youtube.com/watch?v=AZlZE6iAIKM)
 * [A primer on DevOps pipeline: Continuous Integration & Continuous Delivery (CI/CD) | Enable Architect](https://www.redhat.com/architect/primer-devops)
+* [CI/CD(지속적 통합/지속적 제공): 개념, 방법, 장점, 구현 과정](https://www.redhat.com/ko/topics/devops/what-is-ci-cd)
 * teamcity
   * [TeamCity 설치하기](https://jojoldu.tistory.com/448)
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
@@ -1362,6 +1370,11 @@ Programming
 * [The Joy of Cryptography](http://web.engr.oregonstate.edu/~rosulekm/crypto/)
 * [how-to-secure-anything: How to systematically secure anything: a repository about security engineering](https://github.com/veeral-patel/how-to-secure-anything)
 * [Reconciling Performance and Security in High Load Environments - YouTube](https://www.youtube.com/watch?v=s0rG5gLDT_U)
+* [Clickjacking Attacks and How to Prevent Them](https://auth0.com/blog/preventing-clickjacking-attacks/)
+* [코드에서 암호를 안전하게 사용할 방법을 찾아서… – OpsNow Tech Blog](https://blog.opsnow.com/15)
+* [2020 최고의 무료 보안 도구 21선 - ITWorld Korea](https://www.itworld.co.kr/news/171389)
+* [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
+* [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
 
 # Data Mesh
 * [Future of Data Engineering](https://www.infoq.com/presentations/data-engineering-pipelines-warehouses/)
@@ -1656,6 +1669,7 @@ Programming
 * [HumanitiesSciences: StatLearning-SP Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
 * [In-Memory Data Management (September 2015)](https://open.hpi.de/courses/imdb2015)
 * [MIT OPEN COURSEWARE](http://ocw.mit.edu/index.htm)
+* [Timilearning - A blog by Timi Adeniran](https://timilearning.com/)
 * [NovoEd delivers effective and engaging online training with our social learning platform](https://novoed.com/)
 * [Number Theory and Cryptography: A Distance Learning Course for High School Students](http://blogs.ams.org/matheducation/2015/07/01/number-theory-and-cryptography-a-distance-learning-course-for-high-school-students/)
 * [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html)
@@ -1673,6 +1687,7 @@ Programming
 * [에덱스·맥길대, 사회 변화 꿈꾸는 이들을 위한 온라인 강좌 개설](http://www.bloter.net/archives/237710)
 * [“영국은 에듀테크 허브…1천곳 기업 활동 중”](http://www.bloter.net/archives/241601)
 * [데이터 실무자들이 추천하는 데이터 사이언스 온라인 무료 강의 13개](http://commeci.kr/?p=479)
+* [부트캠퍼를 위한 컴퓨터 과학](https://csbooks.wisedog.net/)
 * [Here are 380 Ivy League courses you can take online right now for free](https://medium.freecodecamp.org/here-are-380-ivy-league-courses-you-can-take-online-right-now-for-free-9b3ffcbd7b8c)
 * [560+ Free Online Programming & Computer Science Courses You Can Start in February](https://medium.freecodecamp.org/free-online-programming-computer-science-courses-you-can-start-in-february-e621d959e64)
 * [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
@@ -2364,6 +2379,7 @@ Programming
 * [**A/B테스트에서 하면 안되는 7가지 실수**](http://mindthelog.com/2017/08/ab-testing)
 * [아마존, 에어비앤비, 넷플릭스의 AB테스트 결과 정리](https://brunch.co.kr/@digitalnative/17)
 * [기획자의 일 - A/B 테스트](https://brunch.co.kr/@yongjinjinipln/70)
+* [**일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | Evans Library**](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
 * [Spotify’s New Experimentation Platform (Part 1) : Spotify Engineering](https://engineering.atspotify.com/2020/10/29/spotifys-new-experimentation-platform-part-1/)
   * [Spotify의 새로운 실험 플랫폼](https://gist.github.com/hyunjun/ffa5ee34166c03282924d38313567bd7#file-spotify-md)
 * [codekata.com](http://codekata.com/)
