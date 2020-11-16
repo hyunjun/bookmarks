@@ -1900,6 +1900,7 @@ Programming
   * [10월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/10/b-10-3.html)
   * [10월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/10/b-10-4.html)
   * [11월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/11/b-11-1.html)
+  * [11월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/11/b-11-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -1988,6 +1989,7 @@ Programming
   * [기술 뉴스 #159 : 20-10-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1501)
   * [기술 뉴스 #160 : 20-10-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1504)
   * [기술 뉴스 #161 : 20-11-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1507)
+  * [기술 뉴스 #162 : 20-11-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1512)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -2090,7 +2092,8 @@ Programming
   * [(10/31) 클린 아키텍처로 가는 신박한 방법 - YouTube](https://www.youtube.com/watch?v=KtTQbyclKh4)
 * [(11월 7일) 어느 고졸 개발자의 10년의 회고록](https://jhrogue.blogspot.com/2020/11/11-7-10.html)
   * [(11/07) 어느 고졸 개발자의 10년의 회고록 - YouTube](https://www.youtube.com/watch?v=0ZW4bSEJPPQ)
-* [(11/14) 코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는 법 - YouTube](https://www.youtube.com/watch?v=D8hJllxMHFY)
+* [(11월 14일) 코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는 법](https://jhrogue.blogspot.com/2020/11/11-14.html)
+  * [(11/14) 코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는 법 - YouTube](https://www.youtube.com/watch?v=D8hJllxMHFY)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 
 # OS Operating System
