@@ -628,6 +628,8 @@ SQL
 * [Mastering PostgreSQL Administration](https://momjian.us/main/writings/pgsql/administration.pdf)
 * [PostgreSQL 13 Features Distilled. Index optimization, incremental… | by Kovid Rathee | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/postgresql-13-features-distilled-c0c0adcfa020)
 * [Improving Postgres Connection Scalability: Snapshots - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/improving-postgres-connection-scalability-snapshots/ba-p/1806462)
+* [Postgres Observability](https://pgstats.dev/)
+* [PostgresqlCO.NF: PostgreSQL configuration for humans](https://postgresqlco.nf/en/doc/param/)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
@@ -749,6 +751,7 @@ SQL
 * [How does SQLite work? Part 1: pages!](https://jvns.ca/blog/2014/09/27/how-does-sqlite-work-part-1-pages/)
 * [How does SQLite work? Part 2: btrees! (or: disk seeks are slow don't do them!)](https://jvns.ca/blog/2014/10/02/how-does-sqlite-work-part-2-btrees/)
 * [CG/SQL: Easy, accurate SQLite code generation - Facebook Engineering](https://engineering.fb.com/open-source/cg-sql/)
+* [DB Browser for SQLite](https://sqlitebrowser.org/)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
 * [sqlitestudio.pl](http://sqlitestudio.pl/)
 
