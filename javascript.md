@@ -2574,6 +2574,7 @@ Javascript
 * [react 리액트와 socket.io를 활용한 랜덤강화게임(+ 채팅)](https://blog.naver.com/pjt3591oo/222106661530)
 * [How You Should Structure Your React Applications | by Thomas Guibert | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98)
 * [React — How To Proxy To Backend Server | by Bhargav Bachina | Bachina Labs | Medium](https://medium.com/bb-tutorials-and-thoughts/react-how-to-proxy-to-backend-server-5588a9e0347)
+* [How To Write Beautiful React Code | by Vini | JavaScript In Plain English](https://medium.com/javascript-in-plain-english/writing-beautiful-react-code-using-a-good-old-mate-ca1450c0dc06)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2863,6 +2864,7 @@ Javascript
   * [Introduction to React Router](https://medium.com/swlh/introduction-to-react-router-903682ab9e3)
   * [What’s New In React Router 6. Is it worth upgrading? | by Malcolm Laing | Frontend Digest | Medium](https://medium.com/frontend-digest/whats-new-in-react-router-6-732b06cc83e4)
   * [How to Use URL Parameters and Query Strings With React Router | by John Au-Yeung | Better Programming | Medium](https://medium.com/better-programming/using-url-parameters-and-query-strings-with-react-router-fffdcea7a8e9)
+  * [How to Use React-Router to create an SPA | by gravity well (Rob Tomlin) | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/react-router-and-spas-made-easy-19fd1db0d6fc)
 * [react scope - VISUALIZE YOUR REACT COMPONENTS AS YOU INTERACT WITH YOUR APPLICATION](http://reactscope.com/)
 * [React Sight — Visualise your React apps](https://medium.com/javascript-in-plain-english/react-sight-visualize-your-react-applications-ec3c7e1ae154)
 * react-spring [How to create a component slider with react-spring](https://medium.com/@Joe_Pal50/how-to-create-a-component-slider-with-react-spring-cc3d8881376b)
