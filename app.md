@@ -52,6 +52,8 @@ App
 * [Amazing Developer Tools That You Might Not Be Using | by Dhananjay Trivedi | Better Programming | Medium](https://medium.com/better-programming/amazing-developer-tools-that-you-might-not-be-using-1ec7f57d17d5)
 * [Embedded File Viewer: Google Drive, OneDrive](https://gist.github.com/tzmartin/1cf85dc3d975f94cfddc04bc0dd399be)
 * [모두의 프린터](https://modu-print.tistory.com/)
+* [**the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more**](https://github.com/trimstray/the-book-of-secret-knowledge) 엄청나게 다양한 여러가지 tool
+* [5 open source tools I can't live without | Opensource.com](https://opensource.com/article/20/10/open-source-tools) tmate, ix, asciinema, GNOME Pomodoro, Jitsi
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
 * [Anki - Powerful, intelligent flash cards. Remembering things just became much easier](https://apps.ankiweb.net/)
@@ -306,6 +308,7 @@ App
   * [컴퓨터 vs 책: 설치의 정석 EC2에서 워드프레스 설치하기](https://jhrogue.blogspot.com/2020/05/ec2.html)
   * [아이패드 프로와 워드프레스로 설치형 블로그 구축하기 (1) | Open Sea](https://opensea.kr/%EC%95%84%EC%9D%B4%ED%8C%A8%EB%93%9C-%ED%94%84%EB%A1%9C%EC%99%80-%EC%9B%8C%EB%93%9C%ED%94%84%EB%A0%88%EC%8A%A4%EB%A1%9C-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-1/)
   * [아이패드 프로와 워드프레스로 설치형 블로그 구축하기 (2) | Open Sea](https://opensea.kr/%ec%95%84%ec%9d%b4%ed%8c%a8%eb%93%9c-%ed%94%84%eb%a1%9c%ec%99%80-%ec%9b%8c%eb%93%9c%ed%94%84%eb%a0%88%ec%8a%a4%eb%a1%9c-%eb%b8%94%eb%a1%9c%ea%b7%b8-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0-2/)
+* [Zola](https://www.getzola.org/)
 
 # Bookmark
 * [Bort - Keep your website bookmarks in sync on all your devices regardless of which browser you use](https://bort.io/)
@@ -398,6 +401,7 @@ App
 * [Dash is an API Documentation Browser and Code Snippet Manager](https://kapeli.com/dash)
   * [Dash란?](http://byron1st.pe.kr/?p=244)
 * [docz - It has never been so easy to document your things! https://docz.site](https://github.com/pedronauck/docz)
+* [Lando - A Local Dev Tool For Every Project | Lando](https://lando.dev/)
 * [n8n.io - Open Source Alternative for Zapier/tray.io](https://n8n.io)
 * [PlantUML - 다이어그램을 빠르게 작성하기 위한 오픈 소스 프로젝트](http://plantuml.com/)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
@@ -502,6 +506,7 @@ App
     * [10 Essential Tips and Tricks Every Developer Should Master in Visual Studio Code | by shaden bsharat | Level Up Coding](https://levelup.gitconnected.com/10-essential-tips-and-tricks-every-developer-should-master-in-visual-studio-code-42801b3b71fe)
     * [VS Code’s REST Client Plugin is All You Need to Make API Calls | by Paige Niedringhaus | Oct, 2020 | Bits and Pieces](https://blog.bitsrc.io/vs-codes-rest-client-plugin-is-all-you-need-to-make-api-calls-e9e95fcfd85a)
     * [VSCode 온라인 IDE - YouTube](https://www.youtube.com/watch?v=ch5OvYKnmUc)
+    * [21 VSCode Shortcuts To Code Faster and Funner – JSManifest](https://jsmanifest.com/21-vscode-shortcuts-to-code-faster-and-funner/)
     * Debug
       * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
       * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
@@ -530,6 +535,7 @@ App
       * [Visual Studio Code for Data Science — the Power User’s guide | by Rohith Kumar Sajja | DataSeries | Medium](https://medium.com/dataseries/visual-studio-code-for-data-science-the-power-users-guide-3a20b8630a)
       * [7 VS Code Extensions That Make You Want To Keep Coding Forever | by Daan | Level Up Coding](https://levelup.gitconnected.com/7-vs-code-extensions-that-make-you-want-to-keep-coding-forever-f205e597ae34)
       * [Best 4 VS Code Extensions in 2020 | The Startup](https://medium.com/swlh/best-4-vs-code-extensions-in-2020-d629f37a034)
+      * ['개발 작업 간소화하는' 비주얼 스튜디오 코드 확장 기능 4가지 - CIO Korea](https://www.ciokorea.com/news/171724)
     * Git
       * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
       * [mac에서 visual studio code를 git commit editor로 설정하기](http://blog.woniper.net/352)
@@ -745,6 +751,7 @@ App
     * [ffmpeg 자막입히기, 자막 위치 조정](http://kerberosj.tistory.com/233)
     * [FFMPEG processing](https://leanpub.com/ffmpeg/read_full)
     * [동영상 파일 미리보기 이미지로 쪼개기 – rein's world](https://rein.kr/blog/archives/4561)
+    * [FFMPEG.WASM](https://ffmpegwasm.github.io/)
     * [vdx: An intuitive CLI for processing video, powered by FFmpeg](https://github.com/yuanqing/vdx)
 * [Mac의 클립보드 명령어 - pbcopy & pbpaste](https://jojoldu.tistory.com/466)
 * [유니버설 클립보드 - 맥북(MacBook)과 아이패드(IPad) 간에 클립보드 공유해서 복사 붙여넣기](https://www.44bits.io/ko/post/clipboard-sharning-between-macbook-and-ipad-using-universal-clipboard)
@@ -948,6 +955,7 @@ App
   * [terminalizer - Record your terminal and generate animated gif images or share a web player https://terminalizer.com ](https://github.com/faressoft/terminalizer) brew install은 미지원, npm 오류로 설치 실패
   * [termtosvg - A Linux terminal recorder written in Python that renders your command line sessions as standalone SVG animations](https://github.com/nbedos/termtosvg) pip install이라 편한데, 중간에 화면이 깨진 상태로 저장되는 경우가 있었음
   * [ttystudio - A terminal-to-gif recorder minus the headaches](https://github.com/chjj/ttystudio) npm 오류로 설치 실패
+  * [vasai - screen recorder for web developers](https://vasai.app/)
 * Slate
   * [The Hacker’s Window Manager](https://usepanda.com/blog/slate-review/)
   * [A window management application (replacement for Divvy/SizeUp/ShiftIt)](https://github.com/jigish/slate)
@@ -1056,6 +1064,12 @@ App
   * [How to select video quality from youtube-dl?](https://askubuntu.com/questions/486297/how-to-select-video-quality-from-youtube-dl)
   * [유튜브(youtube) 동영상을 다운로드 하는 프로그램 youtube-dl 소개](http://www.sysnet.pe.kr/0/0/488)
   * [github/dmca at 416da574ec0df3388f652e44f7fe71b1e3a4701f](https://github.com/github/dmca/tree/416da574ec0df3388f652e44f7fe71b1e3a4701f)
+  * [how to read a youtube](https://umhau.github.io/how-to-read-a-youtube/) Youtube에서 자막을 추출해서 읽기 좋은 텍스트로 만드는 팁
+
+    ```
+    youtube-dl --output "captions.%(ext)s" --write-auto-sub --skip-download [비디오링크]
+    sed '/-->/d' captions.en.vtt | sed '/<c>/d' | sed '/^[[:space:]]*$/d' | uniq > captions.txt
+    ```
 
 # Note
 * [Boostnote, the opensource note app for developer. https://b00st.io](https://github.com/BoostIO/Boostnote)
@@ -1338,5 +1352,6 @@ App
   * [Blog @ Codonomics: WSL For Development In Windows 10 Is The New Kool-Aid](https://blog.codonomics.com/2020/09/wsl-for-development-in-windows-10-is.html)
   * [WSL2 + VSCode = 운영체제 및 시스템 프로그래밍 공부를 위한 가장 쉽고 편리한 개발환경 - YouTube](https://www.youtube.com/watch?v=anZmL2bs-xY)
   * [cygwin 을 버리고 wsl2 ubuntu로 넘어가다](https://blog.naver.com/crucifyer/222124604955)
+  * [Improve Docker performances with WSL2 | Towards Data Science](https://towardsdatascience.com/how-to-improve-docker-performance-with-wsl2-3a54402ab0f2)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [X server 4 Windows 10](https://x410.dev/)
