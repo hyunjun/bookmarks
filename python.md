@@ -1842,6 +1842,7 @@ Python
 * [Managing Sessions in Django. Understanding your Django session with… | by Goutom Roy | Better Programming | Medium](https://medium.com/better-programming/managing-sessions-in-django-92ef72db4c63)
 * [Using the JSONField in Django - YouTube](https://www.youtube.com/watch?v=LbdUpY1I1zg)
 * [django로 크롤링해서 적용하기 +BeautifulSoup사용 — ChoSM'Programming](https://applepick.tistory.com/46)
+* [Django(2.x)와 Asyncio를 함께 사용해보자 No Celery! - JIHUN KIM - Medium](https://medium.com/@elastic7327/python3-6-x-django-2-x-%EC%97%90-asyncio%EB%A5%BC-%ED%95%A8%EA%BB%98-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90-without-celery-1256f12b1a37)
 * django manager [화해 블로그](http://blog.hwahae.co.kr/%EC%A0%84%EC%B2%B4%EB%B3%B4%EA%B8%B0/tech/tech-tech/4108/)
 
 # DSL
