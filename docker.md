@@ -85,6 +85,7 @@ Docker
   * [Part 6 Pump up the Volumes: Data in Docker](https://towardsdatascience.com/pump-up-the-volumes-data-in-docker-a21950a8cd8)
 * [Learn Docker in 12 Minutes](https://www.youtube.com/watch?v=YFl2mCHdv24) php 예제
 * [Docker 101: Fundamentals and Practice](https://medium.freecodecamp.org/docker-101-fundamentals-and-practice-edb047b71a51t)
+* [How To Run Docker in Docker Container 3 Methods Explained](https://devopscube.com/run-docker-in-docker/)
 * [Docker and Btrfs in practice](https://docs.docker.com/engine/userguide/storagedriver/btrfs-driver/)
 * [Docker Best Practices](https://medium.com/rainist-engineering/docker-best-practices-8b4f28ab3a65)
 * [도커 베스트 프랙티스 (번역)](https://changhoi.github.io/posts/docker/Docker-best-practices/)
@@ -179,6 +180,7 @@ Docker
     * [Docker best practices with Node.js - DEV](https://dev.to/nodepractices/docker-best-practices-with-node-js-4ln4)
     * [Dockerize Your Development Environment in VS Code | by Niall Joe Maher | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/dockerize-your-development-environment-in-vs-code-d55ba8d705a9)
     * [Here’s How You Can Use Docker With React | by Indrek Lasn | Better Programming | Medium](https://medium.com/better-programming/heres-how-you-can-use-docker-with-create-react-app-3ee3a972b04e)
+    * [How to Reduce Node Docker Image Size by 10X | itsopensource](https://itsopensource.com/how-to-reduce-node-docker-image-size-by-ten-times/)
   * jenkins
     * [Combining Jenkins and Docker for Continuously Running Instances](http://www.focusedsupport.com/blog/beyond-builds-combining-jenkins-and-docker-for-continuously-running-instances/)
   * [**jupyter-repo2docker**](https://repo2docker.readthedocs.io)
@@ -464,6 +466,7 @@ Docker
 * [Docker: You Are Doing it Wrong. Become a Docker power user with VS Code… | by Dimitris Poulopoulos | Towards Data Science](https://towardsdatascience.com/docker-you-are-doing-it-wrong-e703075dd67b)
 * [Container Camp - YouTube](https://www.youtube.com/c/ContainerCamp)
 * [Cloud Native is about Culture, Not Containers](https://www.infoq.com/presentations/cloud-native-culture/)
+* [Cloud Native News - CNN43](https://blog.nativecloud.dev/cnn-2020-43/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -859,6 +862,7 @@ Docker
 * [Kubernetes Ingress Controllers - Google Sheets](https://docs.google.com/spreadsheets/d/191WWNpjJ2za6-nbG4ZoUMXMpUK8KlCIosvQB0f-oq3k/edit#gid=907731238)
 * [4 Simple Kubernetes Terminal Customizations to Boost Your Productivity | by Komal Venkatesh Ganesan | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/4-simple-kubernetes-terminal-customizations-to-boost-your-productivity-deda60a19924)
 * [4 ways to run Kubernetes locally | Opensource.com](https://opensource.com/article/20/11/run-kubernetes-locally)
+* [Troubleshooting in Kubernetes: A Strategic Guide | by Komal Venkatesh Ganesan | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/troubleshooting-in-kubernetes-a-strategic-guide-ceec28db0043)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -895,6 +899,7 @@ Docker
     * [#2 Eventing](https://bcho.tistory.com/1323)
     * [KNative Auto scaling](https://bcho.tistory.com/1359)
   * [Getting Started with Knative in Scala | @lightbend](https://www.lightbend.com/blog/getting-started-with-knative-in-scala)
+  * [Knative Cookbook | Red Hat Developer](https://developers.redhat.com/books/knative-cookbook)
 * [Kogito ergo automate - CLOUD-NATIVE BUSINESS AUTOMATION FOR BUILDING INTELLIGENT APPLICATIONS, BACKED BY BATTLE-TESTED CAPABILITIES](https://kogito.kie.org)
 * [kubectl-trace: Schedule bpftrace programs on your kubernetes cluster using the kubectl](https://github.com/iovisor/kubectl-trace)
 * [kubedoom: Kill Kubernetes pods by playing Id's DOOM!](https://github.com/storax/kubedoom)
@@ -1133,6 +1138,7 @@ Docker
 * [HashiConf 17 참석기 : Day 2](https://blog.outsider.ne.kr/1321)
 * [DevOps101: How To Provide Infrastructure To Your Startup In 7 Easy Steps](https://hackernoon.com/devops101-how-to-provide-infrastructure-to-your-startup-in-6-easy-steps-563b53e77281)
 * [Increase Docker Performance on macOS With Vagrant](https://medium.com/better-programming/vagrant-to-increase-docker-performance-with-macos-25b354b0c65c)
+* [Container networking is simple](https://iximiuz.com/en/posts/container-networking-is-simple/)
 
 # Virtualization
 * [Virt Tools](https://www.virt-tools.org/)
