@@ -7,6 +7,16 @@ Git
 * [git-tower.com/learn/git/videos](http://www.git-tower.com/learn/git/videos#episodes)
 * [Git, GitHub, SSH 이용한 완벽한 작업흐름](http://code.tutsplus.com/ko/tutorials/the-perfect-workflow-with-git-github-and-ssh--net-19564)
 * [A Visual Git Reference](http://marklodato.github.io/visual-git-guide/index-ko.html)
+* [**Git cheatsheet**](https://ndpsoftware.com/git-cheatsheet.html) stash, workspace, index, local repo, upstream repo 간의 이동을 visual로 보여줘서 (여전히 어렵지만) 정말 보기 좋음
+* [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3)
+  * Git 기본 명령들이 어떻게 동작하는지를 D3와 SVG를 이용한 애니메이션으로 설명
+  * commit / branch / checkout / reset / revert / merge / rebase / fetch / pull / push / tag
+    * → 파일을 추가/스테이징 하는 부분은 생략
+  * 특정 실제 시나리오 몇개
+    * → 로컬 브랜치를 오리진으로 리스토어 하기
+    * → 프라이빗 로컬 브랜치를 오리진 최신본으로 업데이트 : git fetch & rebase
+    * → 로컬 브랜치 삭제하기
+* [Explain Git with D3](https://onlywei.github.io/explain-git-with-d3/)
 * [git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
 * [Git 분산버전 관리시스템](https://www.gitbook.com/book/mylko72/git/details)
 * [Git Large File Storage](https://git-lfs.github.com/)
@@ -22,7 +32,6 @@ Git
 * [A statistician's initial experiences of Git/GitHub](http://thestatsgeek.com/2015/05/16/a-statisticians-initial-experiences-of-gitgithub/)
 * [Git Cheat Sheets](https://services.github.com/on-demand/resources/cheatsheets/)
 * [Git cheat sheet](https://www.atlassian.com/git/tutorials/atlassian-git-cheatsheet)
-* [**Git cheatsheet**](https://ndpsoftware.com/git-cheatsheet.html) stash, workspace, index, local repo, upstream repo 간의 이동을 visual로 보여줘서 (여전히 어렵지만) 정말 보기 좋음
 * [Git Ready: A Git Cheatsheet of Commands You Might Need Daily | by Yakko Majuri | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/git-ready-a-git-cheatsheet-of-commands-you-might-need-daily-8f4bfb7b79cf)
 * [Unpacking Git packfiles](https://codewords.recurse.com/issues/three/unpacking-git-packfiles/)
 * [Scripts to Rule Them All](http://githubengineering.com/scripts-to-rule-them-all/)
@@ -42,7 +51,6 @@ Git
 * [How short can Git abbreviate?](http://blog.cuviper.com/2013/11/10/how-short-can-git-abbreviate/)
 * [디자이너를위한Git #1/2](http://www.slideshare.net/nemofinder/git-git-hub-53514194)
 * [Git Concurrency in GitHub Desktop](http://githubengineering.com/git-concurrency-in-github-desktop/)
-* [Visualizing Git Concepts with D3](http://onlywei.github.io/explain-git-with-d3)
 * [04 Yong Seong Song -애저 웹앱을 사용하여 GIT을 활용한 게임 리소스 관리하기](https://channel9.msdn.com/Events/APAC-Influencer-Hero-2015/Korea-Influencer-Showcase/04-Yong-Seong-Song-Game-Development-by-GIT/)
 * [Git 더하기 GitHub](http://www.slideshare.net/ssusercef361/git-github-62006866)
 * [GitHub에서 커밋에 서명하기](https://blog.outsider.ne.kr/1209?category=18)
@@ -169,6 +177,7 @@ Git
 * [The Easiest Way To Remove Checked In Credentials From A Git Repo | by Tanmay Deshpande | Medium](https://medium.com/@tanmay.avinash.deshpande/the-easiest-way-to-remove-checked-in-credentials-from-a-git-repo-704a373b94e3)
 * [Git push 결과물이 Github 잔디에 반영이 안될 때 해결하기 | by Ryan Kim | Nov, 2020 | Medium](https://equus3144.medium.com/git-push-%EA%B2%B0%EA%B3%BC%EB%AC%BC%EC%9D%B4-github-%EC%9E%94%EB%94%94%EC%97%90-%EB%B0%98%EC%98%81%EC%9D%B4-%EC%95%88%EB%90%A0-%EB%95%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-5968a988b212)
 * [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.slideshare.net/subicura/gitops-cicd-156402754)
+* [복잡한 커밋 로그를 정리해줄 구원자, gitmoji](https://pilgwon.github.io/post/gitmoji)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -312,6 +321,7 @@ Git
   * [git push -u origin master의 비밀](https://blog.naver.com/codeitofficial/221946628621)
   * [Patterns for Managing Source Code Branches](https://martinfowler.com/articles/branching-patterns.html)
   * [Git의 기본 브랜치를 master에서 main으로 변경하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1503)
+  * [이상현 IN 베를린 :: 깃헙의 main 브랜치에 반대하는 이유](https://iamsang.com/blog/2020/11/11/github-and-main-branch/)
 * checkout
   * `git checkout [branch name] -- [file name]` [checkout specific files from another branch](http://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/)
   * `git checkout HEAD -- path/to/file.txt` [Find and restore a deleted file in a Git repository](http://stackoverflow.com/questions/953481/find-and-restore-a-deleted-file-in-a-git-repository)
@@ -718,6 +728,7 @@ Git
 * [GitTorrent: A Decentralized GitHub](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
 * [GitUp](http://gitup.co/)
   * [The Git interface you've been missing all your life has finally arrived. http://gitup.co](https://github.com/git-up/GitUp#gitupkit)
+* [Git-User-Switch: Switch git user and email at ease](https://github.com/geongeorge/Git-User-Switch)
 * [gitv](https://github.com/gregsexton/gitv)
 * [git-visualizer](http://veniversum.me/git-visualizer/)
 * [**gitxiv - Collaborative Open Computer Science**](http://gitxiv.com/)
