@@ -29,6 +29,7 @@ Shell
 * [A Simple Productivity Hack Using Bash Scripts | by Sebastian Scholl | The Startup | Medium](https://medium.com/swlh/a-simple-productivity-hack-using-bash-scripts-b723e60dd584)
 * [Upgrading Bash on macOS. One thing that many macOS users don’t… | by Daniel Weibel | ITNEXT](https://itnext.io/upgrading-bash-on-macos-7138bd1066ba)
 * [(리눅스 업스킬 도전 #20) 셸 스크립트](https://jhrogue.blogspot.com/2020/10/20.html)
+* [13 Tips & Tricks for Writing Shell Scripts with Awesome UX | by Joseph Matthias Goh | codeburst](https://codeburst.io/13-tips-tricks-for-writing-shell-scripts-with-awesome-ux-19a525ae05ae)
 * [**bash parameter expansion**](https://wizardzines.com/comics/parameter-expansion/)
   * ${var}, ${#var}, ${var/bear/panda}, ${var:-othervar}, ${var:?some error}, ${var#pattern}, ${var%pattern}, ${var:offset:length}
 * argument
