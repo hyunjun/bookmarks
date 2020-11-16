@@ -329,6 +329,7 @@ Java
 * [Performance of Modern Java on Data-Heavy Workloads, Part 2 · Hazelcast Jet](https://jet-start.sh/blog/2020/06/09/jdk-gc-benchmarks-part2)
 * [The Low-Latency Rematch: Performance of Modern Java on Data-Heavy Workloads · Hazelcast Jet](https://jet-start.sh/blog/2020/06/23/jdk-gc-benchmarks-rematch)
 * [Sub-10 ms Latency in Java: Concurrent GC with Green Threads · Hazelcast Jet](https://jet-start.sh/blog/2020/08/05/gc-tuning-for-jet)
+* [Java Concurrency - Basics of Threads](https://turkogluc.com/java-concurrency-basics-of-threads/)
 * [LMAX Disruptor - A High Performance Inter-Thread Messaging Library](https://github.com/LMAX-Exchange/disruptor)
 
 ## Concurrency Parallel Thread Akka
@@ -818,6 +819,7 @@ Java
   * [Andres Almiray - Gradle Ex Machina](https://www.youtube.com/watch?v=M61BapxHWPg)
   * [Gradle 프로젝트에 JaCoCo 설정하기](http://woowabros.github.io/experience/2020/02/02/jacoco-config-on-gradle-project.html)
   * [Mono-repo, Multi-project를 Gradle 플러그인으로 손쉽게 관리하기](https://engineering.linecorp.com/ko/blog/mono-repo-multi-project-gradle-plugin/)
+  * [Introducing Java toolchains](https://blog.gradle.org/java-toolchains)
 * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * [hwplib: hwp library for java](https://github.com/neolord0/hwplib)
