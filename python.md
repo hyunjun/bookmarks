@@ -488,6 +488,7 @@ Python
 * [4 Super Useful Python Features. Four less well-known but incredibly… | by James Briggs | Towards Data Science](https://towardsdatascience.com/4-super-useful-python-features-993ae484fbb8) List append and extend, Yield vs Return, print(start, end), map and lambda
 * [Introduction to Priority Queues in Python | by Raivat Shah | Towards Data Science](https://towardsdatascience.com/introduction-to-priority-queues-in-python-83664d3178c3) list, heapq, queue.PriorityQueue
 * [10 Algorithms To Solve Before your Python Coding Interview | by AnBento | Towards Data Science](https://towardsdatascience.com/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27) string, array
+* [내 코드를 우아하게 만드는 파이썬 꿀팁 😮](https://sjquant.tistory.com/58) f-string, tuple, zip, enumerate, list comprehension, unpacking operators(*, **), dictionary, product
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -2367,6 +2368,7 @@ Python
 * [William Horton - A Brief History of Jupyter Notebooks - YouTube](https://www.youtube.com/watch?v=kFhhCOeYcGw)
 * [Making data science notebook collaborative - Jan Matas PyData Prague #8 2020 - YouTube](https://www.youtube.com/watch?v=GQr1uMK74F4)
 * [9 things you did not know about jupyter notebook | by Magdalena Konkiewicz | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3)
+* [Top 8 magic commands in Jupyter Notebook | by Magdalena Konkiewicz | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/top-8-magic-commands-in-jupyter-notebook-c1582e813560)
 
 ## Jupyter Library
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
