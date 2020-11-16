@@ -463,6 +463,7 @@ Web
 # Library
 * [5 Open Source HTML5 Video Players for 2019](https://blog.bitsrc.io/5-open-source-html5-video-players-for-2018-38fa85932afb)
 * [6 Must-Use Tools for Front-End Development](https://medium.com/better-programming/6-must-use-tools-for-front-end-development-643f50c9161)
+* [39 Web Developer Tools You'll Want To Take With You Into 2021 | Hacker Noon](https://hackernoon.com/39-web-developer-tools-youll-want-to-take-with-you-into-2021-il2j3wlp)
 * [AdminLTE 다기능의 Bootstrap기반 관리 화면 템플릿](http://neojjang.tistory.com/entry/%EB%8B%A4%EA%B8%B0%EB%8A%A5%EC%9D%98-Bootstrap%EA%B8%B0%EB%B0%98-%EA%B4%80%EB%A6%AC-%ED%99%94%EB%A9%B4-%ED%85%9C%ED%94%8C%EB%A6%BF-AdminLTE)
 * [codepen.io](http://codepen.io/Yakudoo/pen/YXxmYR)
 * [BakerStreet - Simple client side load balancer for microservices](http://bakerstreet.io/)
