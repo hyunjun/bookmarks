@@ -39,6 +39,7 @@ C
   * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard/wiki)
   * [GDBFrontend - an easy, flexible and extensionable gui debugger](https://github.com/rohanrhu/gdb-frontend)
   * [onlinegdb.com](https://www.onlinegdb.com/)
+  * [Extreme Debugging – Squanderingtime/Chris Chandler](https://squanderingti.me/blog/2020/10/28/extreme-debugging.html)
 * [Understanding C by learning assembly](https://www.recurse.com/blog/7-understanding-c-by-learning-assembly)
 * [Assembly’s Perspective of C](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/)
 * [vnev.me/implementing-a-programming-language-in-c-part-1](http://vnev.me/implementing-a-programming-language-in-c-part-1/)
@@ -169,6 +170,7 @@ C
 * [The problem with C | cor3ntin](https://cor3ntin.github.io/posts/c/)
 * [C’s Biggest Mistake - Digital Mars](https://digitalmars.com/articles/C-biggest-mistake.html)
 * [흔한 C 프로그래밍 오류 4가지, '그리고 5가지 대처법' - CIO Korea](http://www.ciokorea.com/news/167460)
+* [Étude in C minor](https://zserge.com/posts/etude-in-c/)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
