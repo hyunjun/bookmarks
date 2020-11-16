@@ -559,6 +559,8 @@ Python
   * deque [Python - 데크(deque) 언제, 왜 사용해야 하는가?](https://chaewonkong.github.io/posts/python-deque.html)
 * configparser
   * [파이썬에서 설정값 관리하기](https://mingrammer.com/ways-to-manage-the-configuration-in-python)
+* contextlib
+  * [On the Beauty of Python's ExitStack — Nikolaus Rath's Website](https://www.rath.org/on-the-beauty-of-pythons-exitstack.html)
 * copy
   * [More Python 1 - Copy](http://add2paper.github.io/2014/12/01/More-Python-1-Copy/)
   * [파이썬의 함정 - 3 참조,얕은 복사,깊은 복사](http://hamait.tistory.com/844)
@@ -1525,6 +1527,7 @@ Python
 * [Understanding Python bytecode by implementing tail call optimization](http://blog.fastforwardlabs.com/post/117173339298/bytecode-hacking-for-great-justice)
 * [Python bytecode is quite heavily trusted by CPython](https://utcc.utoronto.ca/~cks/space/blog/python/BytecodeIsTrusted)
 * [Understanding Python Bytecode](https://towardsdatascience.com/understanding-python-bytecode-e7edaae8734d)
+* [Python behind the scenes #4: how Python bytecode is executed](https://tenthousandmeters.com/blog/python-behind-the-scenes-4-how-python-bytecode-is-executed/)
 * [Blip, a bytecode compiler and interpreter for Python 3](https://github.com/bjpop/blip)
 
 # Code Formatter
@@ -2565,6 +2568,7 @@ Python
 * [State-of-the-art python project setup | by Nitin Aggarwal | Towards Data Science](https://towardsdatascience.com/state-of-the-art-python-project-setup-82a046fc1f20) pipenv, flake8-black, isort, mypy, pytest, coverage, VSCode
 * [파이썬의 기본 도구들 · 개발블로그](https://blog.gyus.me/2020/python-basic-tools/) pip, pytest, black, pyenv, virtualenv, jupyter notebook
 * [Top 15 Python Packages You Must Try | by Erik van Baaren | Programming with Erik | Medium](https://medium.com/tech-explained/top-15-python-packages-you-must-try-c6a877ed3cd0) Dash, PyGame, Pillow, Colorama, JmesPath, Requests, Simplejson, Emoji, Chardet, Python-dateutil, Progress bars: progress and tqdm, IPython, Homeassistant, Flask, Beautiful soup
+* [Top 10 Python Tools for IT Administrators ActiveState ActiveState](https://www.activestate.com/blog/top-10-python-tools-for-it-administrators/)
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
@@ -2692,6 +2696,10 @@ Python
   * [Your Guide to the CPython Source Code](https://realpython.com/cpython-source-code-guide/)
   * [Memory Management in Python](https://realpython.com/python-memory-management/)
   * [python 메모리 관리(memory allocation)](https://leemoney93.tistory.com/25)
+  * [Python behind the scenes #1: how the CPython VM works](https://tenthousandmeters.com/blog/python-behind-the-scenes-1-how-the-cpython-vm-works/)
+  * [Python behind the scenes #2: how the CPython compiler works](https://tenthousandmeters.com/blog/python-behind-the-scenes-2-how-the-cpython-compiler-works/)
+  * [Python behind the scenes #3: stepping through the CPython source code](https://tenthousandmeters.com/blog/python-behind-the-scenes-3-stepping-through-the-cpython-source-code/)
+  * [Python behind the scenes #5: how variables are implemented in CPython](https://tenthousandmeters.com/blog/python-behind-the-scenes-5-how-variables-are-implemented-in-cpython/)
   * [faster-cpython/plan.md at master · markshannon/faster-cpython](https://github.com/markshannon/faster-cpython/blob/master/plan.md)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [Chromote - Simple wrapper to drive Google Chrome from Python using the Remote Debugging Protocol 1.1 API](https://github.com/iiSeymour/chromote)
@@ -3128,7 +3136,6 @@ Python
 * [xonsh shell](https://xon.sh/) a Python-powered, cross-platform, Unix-gazing shell language and command prompt
 * [xs-vm - eXtremely small virtual machine written in Python](http://gedrap.github.io/xs-vm/)
 * [yosai - A Security Framework for Python Applications](https://github.com/YosaiProject/yosai)
-* [youtube-dl - Command-line program to download videos from YouTube.com and other video sites](https://github.com/ytdl-org/youtube-dl)
 * [YTFS - File system which enables you to search and play movies from YouTube as files - with tools of your choice](https://github.com/rasguanabana/ytfs)
 
 ## Library c, cpp
@@ -3472,6 +3479,7 @@ Python
 * [Music Genre Classifier](https://github.com/indrajithi/mgc-django)
 * [파이썬으로 계이름 맞히기](https://fishneverdies.tistory.com/28)
 * [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
+* [kord: a music theory development framework in python](https://github.com/synestematic/kord)
 * [Librosa - audio and music processing in Python](https://librosa.github.io)
   * [FileNotFoundError: \[Errno 2\] No such file or directory: 'avconv': 'avconv'](https://jybaek.tistory.com/800)
   * [librosa.util.exceptions.ParameterError: data must be floating-point](https://jybaek.tistory.com/810)
