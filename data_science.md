@@ -386,7 +386,8 @@ Data Science
 * [Beaker](http://beakernotebook.com/?foo)
 * [danfo.js - an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.](https://github.com/opensource9ja/danfojs)
 * [Digdag - a simple tool that helps you to build, run, schedule, and monitor complex pipelines of tasks](http://www.digdag.io/) Data Workflow Management Opensource Engine
-* faker.js [How to generate mock data with faker.js | by Lucas Jellema | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/faker-js-npm-module-for-generating-fake-data-5dae437ec3a)
+* [faker.js: generate massive amounts of realistic fake data in Node.js and the browser](https://github.com/Marak/faker.js)
+  * [How to generate mock data with faker.js | by Lucas Jellema | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/faker-js-npm-module-for-generating-fake-data-5dae437ec3a)
 * [GRID - Global Research Identifier Database Cataloging the world's research organisations](https://www.grid.ac/)
 * [Metaflow - A framework for real-life data science](https://metaflow.org/)
   * 데이터과학 프로젝트에서, 모델 개발 외적인 "인프라" 적인 요소를 관리하는 도구
