@@ -30,6 +30,7 @@ Javascript
 * [**모던 JavaScript 튜토리얼 - 모던 JavaScript 튜토리얼은 상세한 설명과 함께 JavaScript 기본 개념 및 고급 개념을 다룹니다**](https://ko.javascript.info/)
 * [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg)
 * [Plan, Code, and Deploy a Startup in 2 Hours Full Stack JavaScript Tutorial](https://www.youtube.com/watch?v=lauywdXKEXI)
+* [Modern JavaScript for Python Developers - YouTube](https://www.youtube.com/watch?v=jAbDjt0pens)
 * [Over 20 Resources to Advance Your JavaScript Skills | by Thomas Lombart | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/over-20-resources-to-advance-your-javascript-skills-1d5758ca1bf2)
 * [Beginner's Series to: JavaScript - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 * [Node.js V8 internals: an illustrative primer](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
