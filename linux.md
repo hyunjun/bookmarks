@@ -103,6 +103,7 @@ Linux
 * [Learn and use fork(), vfork(), wait() and exec() system calls across Linux Systems](https://www.linuxtechi.com/learn-use-fork-vfork-wait-exec-system-calls-linux/)
 * [1001 Ways of Implementing a System Call](https://x86.lol/generic/2019/07/04/kernel-entry.html)
 * [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
+* [A Linux sysadmin's introduction to cgroups | Enable Sysadmin](https://www.redhat.com/sysadmin/cgroups-part-one)
 * [리눅스 방화벽과 NAT를 위한 ipTables](https://bcho.tistory.com/1366)
 * [The Complicated Firewall](https://www.thelinuxrain.com/articles/the-complicated-firewall) iptable
 * [Analyzing the Attacks on my Website](https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf)
@@ -125,6 +126,8 @@ Linux
   * [(리눅스 업스킬 도전 #4) 새로운 애플리케이션 설치하기](https://jhrogue.blogspot.com/2020/09/4.html)
   * [(리눅스 업스킬 도전 #13) 파일 접근 허가 기초와 사용자 추가](https://jhrogue.blogspot.com/2020/10/13.html)
   * [(리눅스 업스킬 도전 #17) 소스 코드로 프로그램 컴파일하고 설치하기](https://jhrogue.blogspot.com/2020/10/17.html)
+* [Managing my personal server in 2020](https://github.com/erebe/personal-server/blob/master/README.md)
+* [How to Migrate a Linux Server To New Hardware – CloudSavvy IT](https://www.cloudsavvyit.com/7664/how-to-migrate-a-linux-server-to-new-hardware/)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -549,6 +552,8 @@ Linux
   * [The beauty of Unix pipelines](https://prithu.xyz/posts/unix-pipeline/)
 * `ps`
   * `ps -T -p <process num>` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
+* `pwd`
+  * [The myriad meanings of pwd in Unix systems](https://qmacro.org/2020/11/08/the-meaning-of-pwd-in-unix-systems/)
 * `rdate` [리눅스(Linux) 계열 운영체제에서 시간 동기화하기](https://jhrun.tistory.com/158)
 * `read`
   * [How to read from file or stdin in bash?](http://stackoverflow.com/questions/6980090/how-to-read-from-file-or-stdin-in-bash)
@@ -625,6 +630,7 @@ Linux
   * [SSH Emergency Access](https://smallstep.com/blog/ssh-emergency-access/)
   * [Private/Public 키 쉽게 다루기 - YouTube](https://www.youtube.com/watch?v=cKfd_BmJzHE)
   * [endlessh: SSH tarpit that slowly sends an endless banner](https://github.com/skeeto/endlessh)
+  * [lazyssh: A jump-host SSH server that starts machines on-demand](https://github.com/stephank/lazyssh)
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
 * `stat`
   * `[ 0 = ``stat --printf="%s" $f`` ] && rm $f` remove file if size is 0
@@ -640,6 +646,7 @@ Linux
   * [(리눅스 업스킬 도전 #3) 파일 접근 허가와 sudo 명령 그리고 시간대](https://jhrogue.blogspot.com/2020/09/3-sudo.html)
   * [(리눅스 업스킬 도전 #14) sudo 권한 주기](https://jhrogue.blogspot.com/2020/10/14-sudo.html)
   * [우분투에서 sudo 명령어 없이 docker 사용하기](https://www.huskyhoochu.com/october-i-learned/)
+  * [5 new sudo features you need to know in 2020 | Opensource.com](https://opensource.com/article/20/10/sudo-19)
 * [systemd](http://www.freedesktop.org/wiki/Software/systemd/) redhat 6.3에서는 `configure`가 안 됨
   * [How to install, manage, start and autostart ssh service on RHEL 7 Linux](https://linuxconfig.org/how-to-install-manage-start-and-autostart-ssh-service-on-rhel-7-start)
   * [서버 프로세스를 관리하는 올바른 방법](http://www.codeok.net/%EC%84%9C%EB%B2%84%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC%20%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EB%B0%A9%EB%B2%95)
@@ -853,7 +860,9 @@ Linux
 * [prm - A minimal project manager for the terminal](https://github.com/eivind88/prm)
 * [**pxi (pixie) - a small, fast, and magical command-line data processor similar to jq, mlr, and awk**](https://github.com/Yord/pxi)
 * [Qfc - Quick Command-line File Completion](http://pindexis.github.io/qfc/)
-* rdiff-backup [What's new with rdiff-backup? | Opensource.com](https://opensource.com/article/20/9/rdiff-backup-linux)
+* rdiff-backup
+  * [What's new with rdiff-backup? | Opensource.com](https://opensource.com/article/20/9/rdiff-backup-linux)
+  * [Manage your Linux backups with Rdiffweb | Opensource.com](https://opensource.com/article/20/10/rdiffweb)
 * rsyslog [Monitoring Linux Logs with Kibana and Rsyslog | by Antoine Solnichkin | devconnected — DevOps, Sysadmins & Engineering | Medium](https://medium.com/schkn/monitoring-linux-logs-with-kibana-and-rsyslog-4dfbbd287807)
 * [RTail - Terminal output to the browser in seconds, using UNIX pipes](http://rtail.org/)
 * [SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal](https://github.com/andmarti1424/sc-im)
