@@ -417,6 +417,7 @@ Javascript
 * [메모리 크래시가 일어나는 과정](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
 * [자바스크립트의 메모리관리](https://developer.mozilla.org/ko/docs/Web/JavaScript/Memory_Management)
 * [Javascript 메모리 에 대하여!](https://steemit.com/kr/@cicada0014/2wvmzm-javascript)
+* [JavaScript's Memory Management Explained](https://felixgerschau.com/javascript-memory-management/)
 * [만화로 소개하는 ArrayBuffer 와 SharedArrayBuffer](http://hacks.mozilla.or.kr/2017/11/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)
 * [Atomics 를 이용해서 SharedArrayBuffer 레이스 컨디션 피하기](http://hacks.mozilla.or.kr/2017/11/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/)
 * [배열과 유사배열](https://www.zerocho.com/category/JavaScript/post/5af6f9e707d77a001bb579d2)
@@ -975,6 +976,7 @@ Javascript
 * [JavaScript module namespace exports](https://medium.com/javascript-in-plain-english/javascript-module-namespace-exports-71dc7d1a75c0)
 * [2020년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/4268738)
 * [Stop Using Objects and Arrays to Store Data | by Anurag Kanoria | JavaScript In Plain English | Nov, 2020 | Medium](https://medium.com/javascript-in-plain-english/stop-using-objects-and-arrays-to-store-data-289c3edaaa33)
+* [ES Modules in Depth - ui.dev](https://ui.dev/esmodules/)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
@@ -1097,6 +1099,8 @@ Javascript
 * [server GraphQL 파헤쳐 보기 4.. : 네이버블로그](https://blog.naver.com/pjt3591oo/222092932667)
 * [How to Query in GraphQL. The basics of GraphQL, Querying and… | by Keno Leon | Medium](https://medium.com/@k3no/how-to-query-in-graphql-6ebb3f7085dc)
 * [GraphQL vs Rest | Benefits of GraphQL | Level Up Coding](https://levelup.gitconnected.com/6-months-of-using-graphql-faa0fb68b4af)
+* [Why use GraphQL? - Apollo Blog](https://www.apollographql.com/blog/why-use-graphql/)
+* [Why not use GraphQL? | wundergraph](https://wundergraph.com/blog/why_not_use_graphql)
 * [xgenecloud: Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)](https://github.com/xgenecloud/xgenecloud)
 
 # Gulp
@@ -1406,6 +1410,7 @@ Javascript
 * [notie.js - a clean and simple notification plugin (alert/growl style) for javascript, with no dependencies](https://github.com/jaredreich/notie.js)
 * [nuxt.js](https://nuxtjs.cmty.io/)
   * [네이버 D2 클론 코딩하기 1편](https://brunch.co.kr/@skykamja24/317)
+  * [Create documentation easily using NuxtJS VueJS content plugin | by Bikram KC | Nov, 2020 | Medium](https://bikramkc.medium.com/create-documentation-easily-using-nuxtjs-vuejs-content-plugin-e06b220ce37c)
 * [Nx is a set of extensible dev tools for monorepos, which helps you develop like Google, Facebook, and Microsoft](https://nx.dev/)
   * [NX-REACT NX 기반으로 React 개발환경 구성하기](https://mobicon.tistory.com/570)
 * [oclif: Node.js Open CLI Framework. Built with 💜 by Heroku.  https://oclif.io](https://github.com/oclif/oclif)
@@ -1591,6 +1596,7 @@ Javascript
 * [I created the exact same app in React and Vue. Here are the differences. 2020 Edition | by Sunil Sandhu | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-2020-edition-36657f5aafdc)
 
 ## Library Build
+* [Brunch - ultra-fast HTML5 build tool](https://brunch.io/)
 * [npmjs.com](https://www.npmjs.com/)
   * [모듈화와 npm(node package manager)](http://poiemaweb.com/nodejs-npm)
   * [5 Practical Ways To Share Code: From NPM to Lerna And Bit](https://hackernoon.com/5-practical-ways-to-share-code-from-npm-to-lerna-and-bit-732f2a4db512)
@@ -1933,6 +1939,7 @@ Javascript
   * [Build a Simple Rest API with Deno and Express | Medium | Level Up Coding](https://levelup.gitconnected.com/build-a-simple-rest-api-with-deno-and-express-b0b62e52c230)
   * [Deno Loves WebAssembly](https://www.infoq.com/articles/deno-loves-webassembly/)
   * [Deno: Create Your First Web Application in Oak | by Miroslav Pillar | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/deno-create-your-first-web-application-in-oak-884868f8b30e)
+  * [Deno Introduction with Practical Examples](https://www.infoq.com/articles/deno-introduction-practical-examples/)
   * [Aleph.js](https://alephjs.org/)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
@@ -2489,6 +2496,7 @@ Javascript
 * [The State of React - Jared Palmer (@jaredpalmer) at @ReactEurope 2019](https://www.notion.so/The-State-of-React-Jared-Palmer-jaredpalmer-at-ReactEurope-2019-532abd86b3f8435887ac3b9d4d25a339)
 * [Create-React-App으로 SSR을 구현하며 배운 점 (feat. TypeScript)](https://www.slideshare.net/LanarkSeung/createreactapp-ssr-feat-typescript)
 * [React + Typescript + SSR + Code-splitting 환경설정하기](https://medium.com/@minoo/react-typescript-ssr-code-splitting-환경설정하기-d8cec9567871)
+* [If not SPAs, What? - macwright.com](https://macwright.com/2020/10/28/if-not-spas.html)
 * [**싱페어 (SPA) 의 피로감**](https://seokjun.kim/spa-is-aweful/) SSR, state 주입의 문제점
 * [리액트 꽃길만 걷기](https://drive.google.com/file/d/18MJDVzre8DYnEx9OITrYZOC_cVUeaSdV)
 * [React Clean Architecture](https://github.com/eduardomoroni/react-clean-architecture/blob/master/README.md)
@@ -3020,6 +3028,7 @@ Javascript
 * [javascript testing best practices](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme.kr.md)
 * [Babel, Mocha, Karma and Webpack with coverage in order](https://lqez.github.io/blog/babel-mocha-karma-webpack-coverage.html)
 * [Secure Code Review and Penetration Testing of Node.js and JavaScript Apps | by Mostafa Moradian | The Startup | Medium](https://medium.com/swlh/secure-code-review-and-penetration-testing-of-node-js-and-javascript-apps-41485b1a9518)
+* [Mock Service Worker Library Enables Resilient REST and GraphQL API Testing](https://www.infoq.com/news/2020/11/msw-mocking-graphql-rest-api/)
 * [Angular: Unit Testing Jasmine, Karma (step by step)](https://medium.com/frontend-fun/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4)
 * [cypress - The web has evolved. Finally, testing has too](https://www.cypress.io/)
   * [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
@@ -3042,6 +3051,7 @@ Javascript
 * [QA Wolf - Create browser tests 10x faster](https://www.qawolf.com/)
 * [QUnit: A JavaScript Unit Testing framework](http://qunitjs.com/)
   * [QUnit으로 브라우저, 노드 통합 유닛테스트 환경 구축하기 - 완두블로그](https://wani.kr/posts/2015/02/04/javascript-all-in-one-unittest-qunit/)
+* [vest: Vest ✅ Declarative validations framework](https://github.com/ealush/vest)
 * [VORLON.JS - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io](http://vorlonjs.com/)
 * [yup로 입력 검증을 덜 귀찮게 처리하자 선언형 입력 검증 라이브러리](https://libsora.so/posts/yup-declarative-input-validation)
 
