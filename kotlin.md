@@ -121,6 +121,7 @@
 * [Kotlin을 배워보자 part3 (Class, Constructor, 상속)](https://developer88.tistory.com/168)
 * [Kotlin을 배워보자 part4 (Data Class, Nested and Inner Class)](https://developer88.tistory.com/178)
 * [Kotlin을 배워보자 part5 (Object Expression and Declaration,  Companion Object)](https://developer88.tistory.com/179)
+* [Kotlin과 Java의 Nested and Inner Classes를 알아보고, Nested classes를 왜 사용해야 하는지 알아본다](https://thdev.tech/kotlin/2020/11/17/kotlin_effective_11/)
 * [코틀린의 Scope Function(let, with, run, apply, also)을 알아보자](https://developer88.tistory.com/180)
 * [Kotlin Extension Functions에 대해서 정리해 봅니다](https://developer88.tistory.com/211)
 * [GOTO 2019 • Kotlin: Dissecting the stdlib • Huyen Tue Dao](https://www.youtube.com/watch?v=uCMuGVh7W_0)
