@@ -41,6 +41,7 @@ SQL
 * [DBMS는 어떻게 트랜잭션을 관리할까?](https://d2.naver.com/helloworld/407507)
 * [GalaXQL - Interactive SQL tutorial](http://sol.gfxile.net/galaxql.html)
 * [Learn SQL - Free Interactive SQL Tutorial](https://www.learnsqlonline.org/)
+* [(즐겁게 배우는 SQL) 기획 소개](https://jhrogue.blogspot.com/2020/11/sql.html)
 * [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
 * [EDB is a framework to make and manage backups of your database](https://github.com/RoxasShadow/EDB)
 * [IntelliJ 0xDBE](http://tiveloper.tistory.com/category/IDE%20%26%20Apps/IntelliJ%200xDBE)
