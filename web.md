@@ -27,6 +27,7 @@ Web
 * [Beginning your Web Development Journey? Start Here](https://hackernoon.com/beginning-your-web-development-journey-start-here-7084346f5762)
 * [INTRO TO WEB DEV V2 - VIDEOS ON FRONTEND MASTERS](https://btholt.github.io/intro-to-web-dev-v2/)
 * [Web 학습하기](https://developer.mozilla.org/ko/docs/Learn)
+* [Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer](https://github.com/microsoft/Web-Dev-For-Beginners)
 * [Best GitHub Repos for Web Developers](https://dev.to/sayanide/best-github-repos-for-web-developers-9id)
 * [Website Launch Checklist](https://tryblocks.com/departure/)
 * [KnowRe web development curriculum for noobs](https://github.com/KnowRe/WebDevCurriculum)
