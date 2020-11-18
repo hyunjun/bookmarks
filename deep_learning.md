@@ -745,6 +745,7 @@ Deep Learning
 * [Semantic Segmentation을 활용한 차량 파손 탐지 딥러닝 모델 개발기](https://tech.socarcorp.kr/data/2020/02/13/car-damage-segmentation-model.html)
 * [**딥러닝 모델 Serving 간단 구축기 (feat. AWS SQS + Python Application + Kubernetes + Git & Rancher)**](https://tech.socarcorp.kr/data/2020/03/10/ml-model-serving.html)
 * [딥러닝 모델 서비스 A-Z 1편 - 연산 최적화 및 모델 경량화](https://blog.pingpong.us/ml-model-optimize/)
+* [딥러닝 모델 서비스 A-Z 2편 - Knowledge Distillation – 핑퐁팀 블로그](https://blog.pingpong.us/ml-model-optimize-2/)
 * [**딥러닝 웹서비스 개발 도전기 아이즈원과 함께하는 풀스택 개발**](https://medium.com/@inerplat/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EB%8F%84%EC%A0%84%EA%B8%B0-e9ca38d53c1b)
 * [갈아먹는 딥러닝 기초 1 Activation Function(활성화 함수) 종류](https://yeomko.tistory.com/39)
 * [갈아먹는 딥러닝 기초 2 weight initialization](https://yeomko.tistory.com/40)
