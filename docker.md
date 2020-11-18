@@ -509,7 +509,9 @@ Docker
 * images `sudo docker images`
 * inspect `sudo docker inspect [container id] | grep IPAddress...`
 * kill `sudo docker kill [container id]`
-* logs `docker logs -f [container id]`
+* logs
+  * `docker logs -f [container id]`
+  * [docker 컨테이너 log 남기기](https://hoony-gunputer.tistory.com/entry/docker-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-log-%EB%82%A8%EA%B8%B0%EA%B8%B0)
 * ps `sudo docker ps [-a]`
 * registry
 
