@@ -2206,8 +2206,9 @@ Programming
   * WePay의 CDC 관련 최신 키노트
 * [Real time analytics at uber @ strata data 2019](https://www.slideshare.net/zhenxiao/real-time-analytics-at-uber-strata-data-2019)
 * [Real time analytics on deep learning @ strata data 2019](https://www.slideshare.net/zhenxiao/real-time-analytics-on-deep-learning-strata-data-2019)
+* [Streaming a Million Likes/Second: Real-Time Interactions on Live Video - YouTube](https://www.youtube.com/watch?v=yqc3PPmHvrA)
 
-# Real Time Processing, Streaming Library
+## Real Time Processing, Streaming Library
 * [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
 * CEP Complex Event Processing
   * [Welcome to Siddhi](http://siddhi.sourceforge.net/)
