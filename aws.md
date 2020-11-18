@@ -938,6 +938,7 @@ AWS
 * [VPC Traffic Mirroring](https://zigispace.net/1040)
 * [AWS - API Gateway 기반 VPC Link](https://zigispace.net/1072)
 * [Lambda Function을 위한 향상된 VPC 네트워크](https://zigispace.net/1081)
+* [AWS Network Firewall - Part 1 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1104)
 * [AWS VPC/VPN(Openswan) 연동](https://blog.leedoing.com/32)
 * [VPC Peering 과 Transit Gateway 어떻게 다를까](https://dev.classmethod.jp/articles/different-from-vpc-peering-and-transit-gateway)
 * [AWS-VPC-Flowlog-Athena](https://linuxer.name/2020/06/aws-vpc-flowlog-athena/)
