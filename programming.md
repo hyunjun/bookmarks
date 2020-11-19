@@ -1023,6 +1023,7 @@ Programming
   * [Chapter1. 바젤(Bazel) 알아보기](http://limelab.tistory.com/20)
   * [Speedy Scala Builds with Bazel at Databricks](https://databricks.com/blog/2019/02/27/speedy-scala-builds-with-bazel-at-databricks.html)
   * [Continuous integration and deployment with Bazel](https://blogs.dropbox.com/tech/2019/12/continuous-integration-and-deployment-with-bazel/)
+  * [Watch - Migrating Twitter's Monorepo from Pants to Bazel](https://opensourcelive.withgoogle.com/events/bazelcon2020/watch?talk=day1-talk2)
 * [earthly - Build automation for the container era](https://github.com/earthly/earthly)
   * [Earthly - Builds in container era](https://vladaionescu.com/introducing-earthly-build-automation-for-the-container-era-55619c63c3e)
 * [Pants: A fast, scalable build system](https://pantsbuild.github.io/)
