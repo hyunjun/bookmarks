@@ -1,11 +1,9 @@
 GIS
 ===
 
-* [POSTGIS 2.2 LEVERAGING POWER OF POSTGRESQL 9.5](http://www.postgresonline.com/journal/archives/350-PostGIS-2.2-leveraging-power-of-PostgreSQL-9.5.html)
 * [10 Free GIS Data Sources: Best Global Raster and Vector Datasets](http://gisgeography.com/best-free-gis-data-sources-raster-vector/)
 * [github.com/gaia3d](https://github.com/gaia3d)
 * [오픈소스GIS 개발 일반 강의자료](https://www.slideshare.net/jangbi882/gis-73194454)
-* [PostGIS와 함께하는 GIS 3세대 - FOSS4G Korea 2017](https://www.slideshare.net/jangbi882/postgis-gis-3-foss4g-korea-2017)
 * [Hello, Geo-fence!](http://woowabros.github.io/experience/2018/03/31/hello-geofence.html)
 * [**배달아~ 배달 가는길 알려줘!(단호함)**](http://woowabros.github.io/experience/2019/02/07/real-distance-finder.html) 배달 거리 계산. A\*
 * [How Lyft Creates Hyper-Accurate Maps from Open-Source Maps and Real-Time Data](https://eng.lyft.com/how-lyft-creates-hyper-accurate-maps-from-open-source-maps-and-real-time-data-8dcf9abdd46a)
@@ -22,6 +20,11 @@ GIS
 * [Top Maps API and Libraries in JavaScript | by Sathishravi | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/top-maps-api-and-libraries-in-javascript-e01b01ad5d2c)
 * [GeoTIFF Coordinate Querying with JavaScript | by Thomas Horner | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/geotiff-coordinate-querying-with-javascript-5e6caaaf88cf)
 * [An introduction into Deck.gl. Deck.gl is an open-source data… | by Ugur Ertas | Weekly Webtips | Medium](https://medium.com/weekly-webtips/an-introduction-into-deck-gl-f5c8ae84d9a5)
+
+# PostGIS
+* [POSTGIS 2.2 LEVERAGING POWER OF POSTGRESQL 9.5](http://www.postgresonline.com/journal/archives/350-PostGIS-2.2-leveraging-power-of-PostgreSQL-9.5.html)
+* [PostGIS와 함께하는 GIS 3세대 - FOSS4G Korea 2017](https://www.slideshare.net/jangbi882/postgis-gis-3-foss4g-korea-2017)
+* [**Luavis' Dev Story - Spatial data를 10,000배 잘 다루는 방법**](https://b.luavis.kr/server/how-to-deal-with-spatial-data)
 
 # Python
 * 주소DB가지고놀기
