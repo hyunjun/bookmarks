@@ -84,6 +84,7 @@ AWS
 * [How to directly deploy Github code of MERN/MEAN app on AWS?](https://www.youtube.com/watch?v=i9g2Sg10DPk)
 * [AWS ElasticBeanstalk의 ELB 찾기](http://jojoldu.tistory.com/312)
 * [ELB(Elastic Load Balancer) 생성해서 부하분산 적용하기](https://developer88.tistory.com/304)
+* [AWS-Load-balance-Failover-time-test - 리눅서의 기술술 블로그](https://linuxer.name/2020/11/aws-load-balance-failover-time-test/)
 * [ELB에 무료 SSL인증서 받아서 설정하기](https://developer88.tistory.com/313)
 * [AWS-NLB-Sticky-sessions-timeout - 리눅서의 기술술 블로그](https://linuxer.name/2020/08/aws-nlb-sticky-sessions-timeout/)
 * [AWS NLBs and the mixed up TCP connections](https://www.niels-ole.com/cloud/aws/linux/2020/10/18/nlb-resets.html)
