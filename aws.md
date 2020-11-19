@@ -428,6 +428,7 @@ AWS
 * [AWS and their Billions in IPv4 addresses](https://toonk.io/aws-and-their-billions-in-ipv4-addresses/index.html)
 * [**코드에서 암호를 안전하게 사용할 방법을 찾아서… – OpsNow Tech Blog**](https://blog.opsnow.com/15)
 * [AWS를 이용해 SPA 호스팅하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/11/15/SPA-hosting-via-AWS.html)
+* [AWS API Gateway - YouTube](https://www.youtube.com/watch?v=60goWpADp-I)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
