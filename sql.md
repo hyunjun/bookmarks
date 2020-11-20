@@ -166,6 +166,7 @@ SQL
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
 * [SQLite로 가볍게 배우는 데이터베이스](https://wikidocs.net/book/1530)
 * [Readings in Database Systems, 5th Edition](http://www.redbook.io/)
+* [SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ...](https://use-the-index-luke.com/)
 
 # Database
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Database)
