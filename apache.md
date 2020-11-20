@@ -896,6 +896,7 @@ Apache
 * [Rendezvous Architecture for Data Science in Production](https://towardsdatascience.com/rendezvous-architecture-for-data-science-in-production-79c4d48f12b)
 * [Apache Pulsar as One Storage System for Both Real-time and Historical Data Analysis](https://medium.com/streamnative/apache-pulsar-as-one-storage-455222c59017)
 * [Pulsar vs. Kafka — Part 1 — A More Accurate Perspective on Performance, Architecture, and Features](https://streamnative.io/blog/tech/pulsar-vs-kafka-part-1)
+* [Event-driven railway network based on Pulsar - I'm Pavels, welcome!](https://scala.monster/train-station/) scala
 
 # [Ranger](http://ranger.apache.org)
 * [IT’S MORPHING TIME: APACHE RANGER GRADUATES TO A TOP LEVEL PROJECT – PART 2](https://hortonworks.com/blog/morphing-time-apache-ranger-graduates-top-level-project-part-2/)
