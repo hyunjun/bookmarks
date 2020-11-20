@@ -308,6 +308,8 @@ Scala
 * [hello-akka 샘플 어플리케이션](https://yehongj.tistory.com/44)
 * [Actor model and akka](https://blog.seulgi.kim/2014/04/actor-model-and-akka.html)
 * [Learning Akka Typed from Classic](https://doc.akka.io/docs/akka/2.6/typed/from-classic.html)
+* [Event Sourcing with Akka 2.6 video](https://akka.io/blog/news/2020/01/07/akka-event-sourcing-video)
+* [One year with Akka 2.6 | Akka](https://akka.io/blog/news/2020/11/16/one-year-with-akka-2-6)
 * [Akka family build infrastructure](https://akka.io/blog/2019/09/09/akka-family-builds)
 * [medium.com/tag/akka](https://medium.com/tag/akka)
 * [Understanding Paxos using Scala and Akka Actors](https://www.linkedin.com/pulse/understanding-paxos-using-scala-akka-actors-ashish-hanwadikar)
@@ -413,7 +415,6 @@ Scala
 * [Akka Typed: Stateful and Stateless Actors | Rock the JVM - YouTube](https://www.youtube.com/watch?v=gwZjdRQTPu8)
 * [(Typed) Akka document 읽으면서 소소하게 정리 (Getting Started Guide)](https://wingnim.tistory.com/119)
 * [ES/CQRS the Akka way](https://medium.com/@reeebuuk/es-cqrs-the-akka-way-abbb3ffb89a1)
-* [Event Sourcing with Akka 2.6 video](https://akka.io/blog/news/2020/01/07/akka-event-sourcing-video)
 * [The dark side of Akka and the remedy](https://www.slideshare.net/krivachy/the-dark-side-of-akka-and-the-remedy)
 * [Actors, Streams and Futures in Akka: What to Use?](https://sap1ens.com/blog/2015/10/25/actors-streams-and-futures-in-akka/)
 * [Akka (Actor) in Practice](https://speakerdeck.com/sunghyunzz/akka-actor-in-practice)
@@ -675,6 +676,8 @@ Scala
   * [I like Option.get - Alexandru Nedelcu](https://alexn.org/blog/2020/11/12/i-like-option-get.html)
 * Ordered
   * [A functional comparer](https://scalaprof.blogspot.com/2020/04/a-functional-comparer.html)
+* Ordering
+  * [Best practice for natural Ordering - Alexandru Nedelcu](https://alexn.org/blog/2020/11/17/best-practice-for-ordering-comparable.html)
 * par
   * [병렬 콜렉션 (par collection)](http://knight76.tistory.com/entry/scala-%EB%B3%91%EB%A0%AC-%EC%BD%9C%EB%A0%89%EC%85%98-par-collection)
 * Process
@@ -1012,6 +1015,7 @@ Scala
   * [Introduction to Scala Cats — Part 1 | by Omer Arshad | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/introduction-to-scala-cats-part-1-3487e8d86a40)
   * [Implicit scope and Cats](https://meta.plasm.us/posts/2019/09/30/implicit-scope-and-cats/)
   * [The Parallel typeclass in Cats - Scala tutorial - YouTube](https://www.youtube.com/watch?v=Tx5LdRCaDcY)
+  * [Managing Database Migrations in Scala - Alexandru Nedelcu](https://alexn.org/blog/2020/11/15/managing-database-migrations-scala.html) MySQL
   * [Cats Effect: Home](https://typelevel.org/cats-effect/)
     * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
     * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
@@ -1404,6 +1408,7 @@ Scala
 * [Tagless Final - 4 error channel encodings (Error Handling - Part 1) - YouTube](https://www.youtube.com/watch?v=2Ldx8pxkWq8)
 * [Tagless Final - 4 error channel encodings (Error Handling - Part 2) - YouTube](https://www.youtube.com/watch?v=ZdGK1uedAE0)
 * [Tagless Final - Part 15.1 - trust, but verify (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=kHW46U8xi8I)
+* [Tagless Final - Part 15.2 - trust, but verify (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=z1sHXCsZapM)
 * [Scala 3 - TF related improvements (mostly #implicits) - YouTube](https://www.youtube.com/watch?v=0MPfFBctWUc)
 
 # Monoids
@@ -1510,6 +1515,8 @@ Scala
 * [Scala 3: Enums | Rock the JVM - YouTube](https://www.youtube.com/watch?v=QnrXubpILu4)
 * [Let’s Talk About the Scala 3 Indentation - Rock the JVM Blog](https://blog.rockthejvm.com/scala-3-indentation/)
 * [Explicit term inference with Scala 3 | The Scala Programming Language](https://www.scala-lang.org/2020/11/06/explicit-term-inference-in-scala-3.html)
+* [Mirror, Mirror on the Wall, Who’s the Genericioust of Them All? - Generic Programming with Scala 3 - Philipp Martini](https://blog.philipp-martini.de/blog/magic-mirror-scala3/)
+* [Given and Using Clauses in Scala 3 | Rock the JVM - YouTube](https://www.youtube.com/watch?v=vpL-JPHt9qw)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
   * [Dotty Documentation](https://dotty.epfl.ch/docs/index.html)
   * [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
@@ -1810,3 +1817,4 @@ Scala
 * [Why Scala? | An introduction by Adam Warski - YouTube](https://www.youtube.com/watch?v=t7SOXNJVbJo)
 * [Why You Should Learn Scala in 2020? | by Marcin Krykowski | Medium](https://medium.com/@marcinkrykowski/why-you-should-learn-scala-in-2020-b827f7e00282)
 * [ScalaZONE - Scala 3 Programming Language Courses](https://scala.zone/)
+* [Scala with Friends - YouTube](https://www.youtube.com/playlist?list=PL1NS3pe5mmu31zNozgzhgEjhnfIfdKiwB)
