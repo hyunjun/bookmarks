@@ -2107,6 +2107,7 @@ Javascript
 * [리액트 도움닫기](https://realhanbit.co.kr/books/87/pages/0/read)
 * [Start your journey into the world of React by learning these basics](https://medium.freecodecamp.org/start-your-journey-into-the-world-of-react-by-learning-these-basics-d6e05d3655e3)
 * [React.js 강좌 시리즈](https://www.youtube.com/playlist?list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
+* [**컴포넌트 제대로 만들기 | DailyEngineering**](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
 * [ReactJS로 웹 서비스 만들기](https://academy.nomadcoders.co/courses/enrolled/216871)
 * [React JS 정리](https://m.blog.naver.com/hji7000/220645115819)
 * [Under-the-hood-ReactJS - Entire React code base explanation by visual block schemes (Stack+Fiber versions)](https://bogdan-lyashenko.github.io/Under-the-hood-ReactJS/)
