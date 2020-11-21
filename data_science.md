@@ -621,6 +621,7 @@ Data Science
 * [우리 동네 맛집 추천엔진 직접, 쉽게 만들기 (크롤링과 코사인 유사도)](https://data101.oopy.io/recommendation-engine-cosine-similarity) cosine similarity
 * [추천시스템 맛집](https://ekdud7667.tistory.com/)
 * [Learn About Recommender Systems With These 8 Resources](https://analyticsindiamag.com/learn-about-recommender-systems-with-these-8-resources/)
+* [Deep Dive into Netflix’s Recommender System | by David Chong | Towards Data Science](https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
