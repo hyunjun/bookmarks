@@ -1,5 +1,7 @@
 Artificial Intelligence
 =======================
+
+* [**AI Expert Roadmap**](https://i.am.ai/roadmap/)
 * [AI School](https://aischool.microsoft.com)
 * [hub-ai.com](http://hub-ai.com/)
 * [The Wild Week in AI](https://www.getrevue.co/profile/wildml)
