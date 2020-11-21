@@ -988,6 +988,8 @@ Machine Learning
 * [Predict - see who will convert, before they do](https://mixpanel.com/blog/2015/11/17/introducing-predict-see-who-will-convert-before-they-do)
   * [Mixpanel launches predict; what does this predict tool mean?](http://effinamazing.com/blog/mixpanel-launches-predict-what-does-this-predict-tool-mean/?fb_ref=f7aea373b9854983bcdbceea33d6d25c-Hackernews)
 * [rc-data - Question answering dataset featured in "Teaching Machines to Read and Comprehend](https://github.com/deepmind/rc-data/)
+* [replicate: Version control for machine learning](https://github.com/replicate/replicate)
+  * [Replicate – Version control for machine learning](https://replicate.ai/)
 * [SystemML - IBM's SystemML Machine Learning - Now Apache SystemML http://systemml.apache.org ](https://github.com/SparkTC/systemml)
 * [Tribuo - A Java machine learning library](https://github.com/oracle/tribuo)
   * [오라클, 자바 머신러닝 라이브러리 ‘트리뷰오’ 오픈소스로 공개 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=17811)
