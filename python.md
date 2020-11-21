@@ -1639,6 +1639,7 @@ Python
   * [장고걸스 2016 튜토리얼, 실습 영상](https://www.youtube.com/watch?v=cuGUqhuplkQ)
   * [장고걸스 2016 튜토리얼, Azure WebApp 배포](https://www.youtube.com/watch?v=EJgaZEXnMhk)
   * [Coding is for girls](https://www.youtube.com/channel/UC0hNd2uW8jTR5K3KBzRuG2A)
+* [작정하고 장고! Django로 Pinterest 따라하기 - YouTube](https://www.youtube.com/playlist?list=PLQFurmxCuZ2RVfilzQB5rCGWuODBf4Qjo)
 * [Finally, Real-Time Django Is Here: Get Started with Django Channels](https://blog.heroku.com/archives/2016/3/17/in_deep_with_django_channels_the_future_of_real_time_apps_in_django)
 * [pycon kr 2018.12 Django Channels 삽질기 - 방신우](https://www.youtube.com/watch?v=DYTx2F6uCW0)
   * [**Django Channels 삽질기**](https://docs.google.com/presentation/d/1vFUCLQOohy-l51CObXexOX0Q7WO_zAhXMMXwI_SVOAU/edit#slide=id.g4bdb8c9df7_1_203)
