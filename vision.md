@@ -399,6 +399,7 @@ Vision
 * [**OpenPose: A Real-Time Multi-Person Keypoint Detection And Multi-Threading C++ Library**](https://github.com/CMU-Perceptual-Computing-Lab/openpose)
   * [Human Pose Detection](https://medium.com/@samim/human-pose-detection-51268e95ddc2)
   * [Multi-Person Face/Body/Hand Keypoint Detection](https://www.youtube.com/watch?v=cPiN2ncuK0Y)
+* [paz: Hierarchical perception library in Python for pose estimation, object detection, instance segmentation, keypoint estimation, face recognition, etc.](https://github.com/oarriaga/paz)
 * [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
 * [smile-more - Check your face and make sure you smile using Google Vision API](https://github.com/hunkim/smile_more)
 * [srez - Image super-resolution through deep learning](https://github.com/david-gpu/srez)
