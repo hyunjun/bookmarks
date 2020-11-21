@@ -123,7 +123,8 @@ Math
 * [PERFORMING A FAST FOURIER TRANSFORM (FFT) ON A SOUND FILE](http://www.dummies.com/programming/python/performing-a-fast-fourier-transform-fft-on-a-sound-file/) python
 * [But what is the Fourier Transform? A visual introduction](https://www.youtube.com/watch?v=spUNpyF58BY)
 * [github.com/bemoregt/BemoWiki/wiki/FourierImaging](https://github.com/bemoregt/BemoWiki/wiki/FourierImaging)
-* [An Interactive Introduction to Fourier Transforms](http://www.jezzamon.com/fourier/)
+* [**An Interactive Introduction to Fourier Transforms**](http://www.jezzamon.com/fourier/)
+  * [푸리에 변환을 반응형으로 소개합니다](http://www.jezzamon.com/fourier/ko.html)
 
 # Geometry
 * [eukleides - a geometry drawing language](http://eukleides.org/)
@@ -136,7 +137,6 @@ Math
 * [KATEX - The fastest math typesetting library for the web](https://khan.github.io/KaTeX/)
 
 # Linear Algebra
-* [파이썬 + Numpy + 선형대수 기초 + 이해하기 20160519](http://www.slideshare.net/dahlmoon/numpy-20160519)
 * [그래디언트와 공변 미분](http://psychist.blog.me/220679012186)
 * [2013 2학기 선형대수 이상화 교수](https://www.youtube.com/playlist?list=PLSN_PltQeOyjDGSghAf92VhdMBeaLZWR3)
 * [선형대수 한양대학교 이상화](http://www.kocw.net/home/m/search/kemView.do?kemId=977757)
@@ -192,10 +192,10 @@ Math
 * [Matrix Algebra - Linear Algebra for Deep Learning (Part 2)](https://www.quantstart.com/articles/matrix-algebra-linear-algebra-for-deep-learning-part-2)
 * [The Matrix Calculus You Need For Deep Learning](http://parrt.cs.usfca.edu/doc/matrix-calculus/index.html)
 * [The Matrix Calculus You Need For Deep Learning](http://explained.ai/matrix-calculus/index.html)
-* [Matrix Factorization: A Simple Tutorial and Implementation in Python](http://www.albertauyeung.com/post/python-matrix-factorization/)
 * [**Computational Linear Algebra for Coders**](https://github.com/fastai/numerical-linear-algebra)
 * [Boost your data science skills. Learn linear algebra](https://towardsdatascience.com/boost-your-data-sciences-skills-learn-linear-algebra-2c30fdd008cf)
 * [**MIT 18.06 Linear Algebra, Spring 2005**](https://www.youtube.com/playlist?list=PLE7DDD91010BC51F8)
+* [MIT A 2020 Vision of Linear Algebra, Spring 2020 - YouTube](https://www.youtube.com/playlist?list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
 * [Computational Linear Algebra for Coders](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
   * [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 * [의사가 들려주는 선형대수 이야기 - 1. Vector Space](https://www.youtube.com/watch?v=Xo-eaKe1AAY)
@@ -207,10 +207,13 @@ Math
 * [Coding the Matrix](https://github.com/tylee33/CodingtheMatrix)
 
 ## Linear Algebra Python
+* [파이썬 + Numpy + 선형대수 기초 + 이해하기 20160519](http://www.slideshare.net/dahlmoon/numpy-20160519)
+* [Matrix Factorization: A Simple Tutorial and Implementation in Python](http://www.albertauyeung.com/post/python-matrix-factorization/)
 * [파이썬으로 Linear Regression 해보기](http://woowabros.github.io/study/2018/08/01/linear_regression_qr.html)
 * [Simon Ward-Jones | Linear Regression](https://www.simonwardjones.co.uk/posts/linear_regression/)
 * [Linear Algebra: Matrix Transpose & Differential Calculus](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/linear-algebra-transpose-differential.ipynb) python jupyter notebook
 * [linear_algebra_with_python](https://github.com/RRoundTable/linear_algebra_with_python)
+* [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
 
 # Markov Chains
 * [Markov Chains](http://blog.circuitsofimagination.com/2015/02/15/Markov-Chains.html)
