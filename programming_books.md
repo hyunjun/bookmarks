@@ -422,6 +422,7 @@ Programming Books
   * [**데이터 중심 애플리케이션 설계 5장 - 복제**](http://astrod.github.io/data/2019/08/11/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A4%91%EC%8B%AC-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-5%EC%9E%A5-%EB%B3%B5%EC%A0%9C/)
 * (NOT YET) [데이터를 보는 사람에게 추천하는 교양서](https://cojette.github.io/bookfordatauser/)
 * (NOT YET) [데이터 전처리 대전](http://www.hanbit.co.kr/store/books/look.php?p_code=B1543811360)
+  * [Sihan's Blog](https://sihan-son.github.io/data-preprocessing/)
 * (NOT YET) [직장인을 위한 데이터 분석 실무 with 파이썬 - 마케팅, 영업, 기획 실무 담당자를 위한 데이터 분석의 기술](https://wikibook.co.kr/playwithdata/)
 * (NOT YET) [인공지능 100점을 위한 파이썬 수학](https://bjpublic.tistory.com/360)
 * (NOT YET) [만화로 풀어낸 AI 이야기 '야만인' 쉽게 읽히지만 깊이도 갖춰 - AI타임스](http://www.aitimes.com/news/articleView.html?idxno=131334)
