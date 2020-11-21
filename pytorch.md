@@ -156,8 +156,6 @@ PyTorch
 * [Splitter - A PyTorch implementation of "Splitter: Learning Node Representations that Capture Multiple Social Contexts" (WWW 2019)](https://github.com/benedekrozemberczki/Splitter)
 * [파이토치로 시작하는 딥러닝 기초](https://www.edwith.org/boostcourse-dl-pytorch)
 * [pytorch-music-composer](https://github.com/YoongiKim/pytorch-music-composer)
-* [Source Separation - Deep learning based speech source separation using Pytorch](https://github.com/AppleHolic/source_separation)
-* [Building an end-to-end Speech Recognition model in PyTorch](https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch)
 * [From Research to Production with PyTorch](https://www.infoq.com/presentations/pytorch-torchscript-botorch/)
 * [Accelerating Deep Learning Recommender Systems by Over 15x Using RAPIDS, PyTorch and fast.ai](https://medium.com/rapids-ai/accelerating-deep-learning-recommender-systems-by-15x-using-rapids-fastai-and-pytorch-b50b4d8568d1)
 * [From Research to Production with PyTorch](https://www.youtube.com/watch?v=EkELQw9tdWE)
@@ -320,7 +318,6 @@ PyTorch
 * [pytorch_geometric - Geometric Deep Learning Extension Library for PyTorch](https://github.com/rusty1s/pytorch_geometric)
 * [PyTorch Geometry package - a geometric computer vision library for PyTorch](https://github.com/arraiy/torchgeometry)
 * [pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
-* [pytorch-kaldi - a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit](https://github.com/mravanelli/pytorch-kaldi)
 * [pytorch-lightning - The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate](https://github.com/PyTorchLightning/pytorch-lightning)
 * [PyTorch-NLP - a Natural Language Processing (NLP) toolkit designed to support rapid prototyping](https://github.com/PetrochukM/PyTorch-NLP)
 * [PyTorch Project Template](https://github.com/moemen95/PyTorch-Project-Template)
@@ -333,7 +330,6 @@ PyTorch
 * [RandWireNN - Unofficial PyTorch Implementation of: Exploring Randomly Wired Neural Networks for Image Recognition](https://github.com/seungwonpark/RandWireNN)
 * [Rock-Paper-Scissors-with-Jetson-Nano - an implementation for Rock-Paper-Scissors game with a machine. Jetson Nano is used for AI recognition of hand gesture](https://github.com/mokpi/Rock-Paper-Scissors-with-Jetson-Nano)
 * [skorch - A scikit-learn compatible neural network library that wraps PyTorch](https://github.com/dnouri/skorch)
-* [SpeechBrain - A PyTorch-based Speech Toolkit](https://speechbrain.github.io)
 * [SpeedTorch - Faster pinned CPU tensor <-> GPU Pytorch variabe transfer and GPU tensor <-> GPU Pytorch variable transfer, in certain cases](https://github.com/Santosh-Gupta/SpeedTorch)
 * [spotlight - Deep recommender models using PyTorch](https://github.com/maciejkula/spotlight)
 * [SplitNet PyTorch Implementation](https://github.com/kuc2477/dl-papers/tree/master/Model-Optimization/splitnet/pytorch)
@@ -372,6 +368,13 @@ PyTorch
 # Seq2seq
 * [Seq2Seq in PyTorch](https://github.com/eladhoffer/seq2seq.pytorch)
 * [mini seq2seq](https://github.com/keon/seq2seq)
+
+# Speech
+* [Source Separation - Deep learning based speech source separation using Pytorch](https://github.com/AppleHolic/source_separation)
+* [Building an end-to-end Speech Recognition model in PyTorch](https://www.assemblyai.com/blog/end-to-end-speech-recognition-pytorch)
+* [LibreASR: An On-Premises, Streaming Speech Recognition System](https://github.com/iceychris/LibreASR)
+* [pytorch-kaldi - a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit](https://github.com/mravanelli/pytorch-kaldi)
+* [SpeechBrain - A PyTorch-based Speech Toolkit](https://speechbrain.github.io)
 
 # Transformer
 * [Pytorch-Transformers](https://huggingface.co/pytorch-transformers/)
