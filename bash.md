@@ -114,6 +114,7 @@ Shell
 * [ShellCheck finds bugs in your shell scripts](https://www.shellcheck.net/)
   * [쉘 스크립트를 만드는 당신, ShellCheck을 써라!](http://blog.weirdx.io/post/43810/amp)
 * [Sherlock.py - transpiler that translate python to shell script language](https://github.com/Luavis/sherlock.py)
+* zenity [How to Modernize Your Bash Scripts By Adding GUI | by Shalitha Suranga | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/how-to-modernize-your-bash-scripts-by-adding-gui-cba613a34cb7)
 
 # TDD, Test
 * [ShellSpec | BDD unit testing framework for shell scripts (bash, ksh, zsh, dash and all POSIX shells)](https://shellspec.info/)
