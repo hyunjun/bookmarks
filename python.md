@@ -2569,6 +2569,7 @@ Python
 * [파이썬의 기본 도구들 · 개발블로그](https://blog.gyus.me/2020/python-basic-tools/) pip, pytest, black, pyenv, virtualenv, jupyter notebook
 * [Top 15 Python Packages You Must Try | by Erik van Baaren | Programming with Erik | Medium](https://medium.com/tech-explained/top-15-python-packages-you-must-try-c6a877ed3cd0) Dash, PyGame, Pillow, Colorama, JmesPath, Requests, Simplejson, Emoji, Chardet, Python-dateutil, Progress bars: progress and tqdm, IPython, Homeassistant, Flask, Beautiful soup
 * [Top 10 Python Tools for IT Administrators ActiveState ActiveState](https://www.activestate.com/blog/top-10-python-tools-for-it-administrators/)
+* [The Top 10 Most Downloaded Python Packages By Developers | by Sunil Sandhu | Python In Plain English | Nov, 2020 | Medium](https://medium.com/python-in-plain-english/the-top-10-python-packages-most-used-by-developers-80807d68466e) Urllib3, Six, Botocore, Pip, Python-dateutil, Requests, Certifi, Idna, Pyasn1
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
