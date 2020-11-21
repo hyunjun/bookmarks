@@ -2226,6 +2226,8 @@ Programming
 * Pinot
   * [Open Sourcing Pinot: Scaling the Wall of Real-Time Analytics](http://engineering.linkedin.com/pinot/open-sourcing-pinot-scaling-wall-real-time-analytics)
   * [pino - 링크드인, 실시간 분석 SW ‘피노’ 오픈소스로 공개](http://www.bloter.net/archives/229991)
+* [Redpanda - Vectorized](https://vectorized.io/redpanda/) A Kafka® API compatible streaming platform for mission-critical workloads
+  * [Redpanda is the real-time engine for modern apps](https://github.com/vectorizedio/redpanda)
 
 # Refactoring
 * [레거시 코드에서 이해하기 쉬운코드로 리팩토링](https://chodragon9.github.io/blog/legacy-code-to-easy-code)
