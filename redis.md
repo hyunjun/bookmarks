@@ -54,6 +54,7 @@ Redis
   * [Redis 버그 – Dataset 사이즈가 200GB가 넘어가면 죽는다구요?](https://charsyam.wordpress.com/2019/08/26/입-개발-redis-버그-dataset-사이즈가-200gb가-넘어가면-죽는다구요)
   * [왜 Redis 응답이 느린데, slowlog에는 안찍히나요?](https://charsyam.wordpress.com/2020/03/15/%ec%9e%85-%ea%b0%9c%eb%b0%9c-%ec%99%9c-redis-%ec%9d%91%eb%8b%b5%ec%9d%b4-%eb%8a%90%eb%a6%b0%eb%8d%b0-slowlog%ec%97%90%eb%8a%94-%ec%95%88%ec%b0%8d%ed%9e%88%eb%82%98%ec%9a%94/)
   * [입 개발 Redis 6.0 – ThreadedIO를 알아보자](https://charsyam.wordpress.com/2020/05/05/%ec%9e%85-%ea%b0%9c%eb%b0%9c-redis-6-0-threadedio%eb%a5%bc-%ec%95%8c%ec%95%84%eb%b3%b4%ec%9e%90/)
+  * [입 개발 Redis 장애 종류 정리 | Charsyam's Blog](https://charsyam.wordpress.com/2020/11/20/%ec%9e%85-%ea%b0%9c%eb%b0%9c-redis-%ec%9e%a5%ec%95%a0-%ec%a2%85%eb%a5%98-%ec%a0%95%eb%a6%ac/)
 * [Redis와 전자정부프레임워크 연동](http://daddycat.blogspot.com/2017/06/redis.html)
 * [lua 사용 사례](http://knight76.tistory.com/entry/redis-lua-%EC%82%AC%EC%9A%A9-%EC%82%AC%EB%A1%80)
 * lock
