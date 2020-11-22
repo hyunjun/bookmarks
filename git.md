@@ -208,6 +208,7 @@ Git
 * [Docker Github Actions - Docker Blog](https://www.docker.com/blog/docker-github-actions/)
 * [GitHub Actions Tutorial - Basic Concepts and CI/CD Pipeline with Docker - YouTube](https://www.youtube.com/watch?v=R8_veQiYBjI)
 * [2020년식으로 블로그 빌드 고치기 · /usr/lib/libsora.so](https://libsora.so/posts/migration-blog-2020/)
+* [ci skip 커밋 메시지로 GitHub Actions 실행 취소하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1513)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
