@@ -111,6 +111,7 @@ Finance
 # Library
 * [24시간 주식매매 자동화 구축하기 open API+](https://www.youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS)
 * [Woori Bank digitalwooribank](https://github.com/digitalwooribank)
+* Tart [크롬과 주식으로 창업하기](https://parkayun.kr/f8d49b62ced245df8cb61def68efc5bb)
 
 # Python
 * [quantitative economic modelling by python and julia](http://quant-econ.net/)
