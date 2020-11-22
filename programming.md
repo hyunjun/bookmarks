@@ -413,6 +413,7 @@ Programming
 * [Power to the API Developer - Tips for rolling out IBM API Connect](https://www.linkedin.com/pulse/power-api-developer-tips-rolling-out-ibm-connect-marjukka-niinioja)
 * [API 설계, 개발 및 테스트를 위한 10가지 무료 도구](http://www.itworld.co.kr/slideshow/99102)
 * [**개발자를 위한 API 목킹**](http://blog.aliencube.org/ko/2017/05/16/api-mocking-for-developers/)
+* [공개 구글 스프레드시트 문서를 이용하여 내가 원하는 형태의 mock API 응답받기 | FUREWEB](https://fureweb-com.github.io/blog/2020/11/17/how-to-receive-mock-api-response-in-the-form-i-want-using-a-public-google-spreadsheet-document.html)
 * [How NOT to design APIs](https://blog.usejournal.com/how-not-to-design-restful-apis-fb4892d9057a)
 * [To Create An Evolvable API, Stop Thinking About URLs The basics of API design](https://medium.com/@fagnerbrack/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e)
 * [API 디자인 가이드](https://cloud.google.com/apis/design/)
