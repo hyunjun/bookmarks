@@ -415,6 +415,7 @@ Go
 * [BuffStreams - A library to simplify writing applications using TCP sockets to stream protobuff messages](https://github.com/StabbyCutyou/buffstreams)
 * [BrodalOkasakiHeap - An implementation of Brodal-Okasaki heap using Go](https://github.com/ckaygusu/BrodalOkasakiHeap)
 * [Caire - Content aware image resize library](https://github.com/esimov/caire)
+* cgapp [Create Go App를 이용하여 편하게 프로젝트 생성](https://blog.naver.com/pjt3591oo/222151297558)
 * [Clarifai Golang Library - Unofficial library written for the Clarifai API](https://github.com/samuelcouch/clarifai)
 * [cmux - Connection multiplexer for GoLang: serve different services on the same port!](https://github.com/soheilhy/cmux)
 * [delibird - Shipment tracking library for Golang. http://purpleworks.github.io/delibird ](https://github.com/purpleworks/delibird)
