@@ -851,12 +851,14 @@
   * [10 Minutes from pandas to Koalas on Apache Spark With demonstrable Python how-to Koalas code snippets and Koalas best practices](https://databricks.com/blog/2020/03/31/10-minutes-from-pandas-to-koalas-on-apache-spark.html)
   * [New Developments in the Open Source Ecosystem: Apache Spark 3 0, Delta Lake, and Koalas](https://www.youtube.com/watch?v=scM_WQMhB3A)
   * [pandas 코드로 대규모 클러스터에서 더 빠르게 빅데이터를 분석 해보자 - Koalas - 박현우 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=Y9kdUq_qIa8)
+  * [Project Zen: Making Spark Pythonic | Reynold Xin | Keynote Data + AI Summit EU 2020 - YouTube](https://www.youtube.com/watch?v=-vJLTEOdLvA)
 * [Analyze MongoDB Logs Using PySpark](https://medium.com/hackernoon/analyze-mongodb-logs-using-pyspark-97a915547da0)
 * [Real-world Python workloads on Spark: EMR clusters](https://becominghuman.ai/real-world-python-workloads-on-spark-emr-clusters-3c6bda1a1350)
 * [First Steps With PySpark and Big Data Processing](https://realpython.com/pyspark-intro/)
 * [**New Pandas UDFs and Python Type Hints in the Upcoming Release of Apache Spark 3.0™**](https://databricks.com/blog/2020/05/20/new-pandas-udfs-and-python-type-hints-in-the-upcoming-release-of-apache-spark-3-0.html)
 * [How to create a simple ETL Job locally with PySpark, PostgreSQL and Docker](https://itnext.io/how-to-create-a-simple-etl-job-locally-with-pyspark-postgresql-and-docker-ea53cd43311d)
 * [Data Collab Lab: Automate Data Pipelines with PySpark SQL - YouTube](https://www.youtube.com/watch?v=QpVsP9Y7qIg)
+* [Data Quality: Especially important with the medallion architecture with PySpark data testing - YouTube](https://www.youtube.com/watch?v=mZ33PJzJtlw)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
