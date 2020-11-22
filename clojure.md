@@ -569,6 +569,7 @@ Clojure
     * [debugging](https://cider.readthedocs.org/en/latest/debugging/)
   * [cider-kr.readthedocs.io/ko/latest](http://cider-kr.readthedocs.io/ko/latest/)
   * [CIDER Keyboard Shortcuts](http://www.cheatography.com/bilus/cheat-sheets/emacs-cider/)
+  * [Dark CIDER (by Bozhidar Batsov) - YouTube](https://www.youtube.com/watch?v=IvTDzKVL58Y)
 * [cljdropbox - A Clojure library designed to ... well, that part is up to you](https://github.com/skyjimmy/cljdropbox)
 * [clj-embed - A clojure library for using multiple clojure runtimes in a single jvm process](https://github.com/RutledgePaulV/clj-embed)
   * 하나의 jvm에서 여러 clojure 환경 사용 가능
