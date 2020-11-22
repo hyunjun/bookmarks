@@ -1396,6 +1396,7 @@ Programming
 * [Data pipeline and data lake](https://www.slideshare.net/charsyam2/data-pipeline-and-data-lake)
 * [A Guide To The Data Lake — Modern Batch Data Warehousing](https://towardsdatascience.com/a-guide-to-modern-batch-data-warehousing-extraction-f63bfa6ef878)
 * [A Simple Data Lake ETL Pipeline](https://medium.com/unified-engineering/a-simple-data-lake-etl-pipeline-f645586fece8)
+* [SQL Analytics and the Lakehouse Architecture | Ali Ghodsi | Keynote Data + AI Summit EU 2020 - YouTube](https://www.youtube.com/watch?v=9oYosh-AoX0)
 
 # Debugging
 * [당신의 디버깅에 니코니코니](http://www.slideshare.net/LusainKim/ss-54856264)
