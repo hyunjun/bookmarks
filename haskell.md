@@ -287,6 +287,7 @@ Haskell
 * [Query-based compiler architectures | Olle Fredriksson's blog](https://ollef.github.io/blog/posts/query-based-compilers.html)
 * [Tweag - Splittable pseudo-random number generators in Haskell: random v1.1 and v1.2](https://www.tweag.io/blog/2020-06-29-prng-test/)
 * [Competitive programming in Haskell: data representation and optimization, with cake | blog :: Brent -> String](https://byorgey.wordpress.com/2020/06/29/competitive-programming-in-haskell-data-representation-and-optimization-with-cake/)
+* [하스켈의 관습들](https://gist.github.com/nattybear/f01f1d0e62490aaf2ab02b4ec32189f4)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
