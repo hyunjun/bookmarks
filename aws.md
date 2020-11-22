@@ -429,6 +429,7 @@ AWS
 * [**코드에서 암호를 안전하게 사용할 방법을 찾아서… – OpsNow Tech Blog**](https://blog.opsnow.com/15)
 * [AWS를 이용해 SPA 호스팅하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/11/15/SPA-hosting-via-AWS.html)
 * [AWS API Gateway - YouTube](https://www.youtube.com/watch?v=60goWpADp-I)
+* [다른 AWS Reseller를 이용하면서 OpsNow를 이용하는 방법! – OpsNow Tech Blog](https://blog.opsnow.com/22)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -946,3 +947,4 @@ AWS
 * [AWS-VPC-Flowlog-Athena](https://linuxer.name/2020/06/aws-vpc-flowlog-athena/)
 * [HBsmith가 AWS Client VPN로 갈아탄 이유. 소프트웨어는 건물과 비슷해서 첫 배포된 이후부터 폐기될 때까지 계속… | by Jesang Yoon | Hard Boiled Smith Stories | Oct, 2020 | Medium](https://medium.com/hbsmith/hbsmith%EA%B0%80-aws-client-vpn%EB%A1%9C-%EA%B0%88%EC%95%84%ED%83%84-%EC%9D%B4%EC%9C%A0-29119ecdc381)
 * [NCP-to-AWS-IPsec-multi-Cloud - 리눅서의 기술술 블로그](https://linuxer.name/2020/11/ncp-to-aws-ipsec-multi-cloud/)
+* [AWS-managed-MQ-RabbitMQ-VPC-review - 리눅서의 기술술 블로그](https://linuxer.name/2020/11/aws-managed-mq-rabbitmq-vpc-review/)
