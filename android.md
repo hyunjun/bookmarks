@@ -288,6 +288,7 @@ Android
   * [Spoqa 기술 블로그 | 안드로이드 앱에 Koin으로 DI 적용하기](https://spoqa.github.io/2020/11/02/android-dependency-injection-with-koin.html)
 * [LeakCanary: Detect all memory leaks!](https://corner.squareup.com/2015/05/leak-canary.html)
 * [MPAndroidChart 라이브러리를 활용한 Chart 사용하기](https://medium.com/hongbeomi-dev/mpandroidchart-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-chart-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-kotlin-93c18ae7568e)
+* [ObjectDetectionMLKitApp](https://github.com/wgfactory/ObjectDetection_MLKitApp) MLKit Object Detection Android Example Application
 * [OCR_Plus_Table](https://github.com/JaeMinYooon/OCR_Plus_Table) table OCR -> excel
 * [PHONK - Self-contained Creative scripting toolbox for new and old Android devices](https://phonk.app/)
 * [Profiler를 통한 메모리 관리 #안드로이드 스튜디오](https://developer88.tistory.com/229)
