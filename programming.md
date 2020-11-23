@@ -2239,6 +2239,7 @@ Programming
 * [Code Smell: Side Effects](https://medium.com/thinkster-io/code-smell-side-effects-caf799df2151)
 * [리팩터링에 대한 단상](https://huns.me/posts/2020-05-06-36)
 * [코드 악취를 맡는 후각 훈련의 시간](https://helloworld.kurly.com/blog/rms-refactoring/)
+* [리팩터링 2판: 리팩터링 원칙](https://jusths.tistory.com/182)
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
