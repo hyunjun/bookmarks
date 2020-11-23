@@ -192,6 +192,7 @@ Interview
 * [My Advice After Interviewing 100+ Software Engineers | by Hugo Rocha | The Startup | Medium](https://medium.com/swlh/my-advice-after-interviewing-100-software-engineers-e34bc3cbc669)
 * [Asking Code Questions.. Some suggestions to get better… | by Keno Leon | The Startup | Medium](https://medium.com/swlh/asking-code-questions-baf949dc0c7c)
 * [Everything wrong with the pre-screen SWE Interview. | by Keno Leon | Dev Genius | Medium](https://medium.com/dev-genius/everything-wrong-with-the-pre-screen-swe-interview-723737d81b61)
+* [누구나 원하는 개발자되기 · shiren the creator](https://blog.shiren.dev/2020-11-23/)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
