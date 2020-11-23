@@ -333,6 +333,8 @@ Programming
 * [Understanding Tech Debt](https://www.slideshare.net/sm9kr/understanding-tech-debt)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-2. 여러 대의 서버에 흩어져 있는 세션을 어떻게 관리할 수 있을까?](https://chagokx2.tistory.com/93)
+* [서버 분산 처리 환경에서 데이터의 불일치를 어떻게 해결할까? Part 1 | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p2/)
+* [서버 분산 처리 환경에서 세션 불일치를 어떻게 해결할까? Part 2 | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p3/)
 * [**무료로 개인 프로젝트 호스팅 하기 | 딥백수**](https://dl4ab.github.io/2020/09/06/free-web-server-for-your-portfolio/)
 * [A Guide on Good Backend Coding Practices | by Jimmy Soh | The Internal Startup | Medium](https://medium.com/the-internal-startup/a-guide-on-good-backend-coding-practices-e43f80422559) 기본 원칙
 * [나의 백엔드 배포 환경 정책 · /usr/lib/libsora.so](https://libsora.so/posts/my-backend-deployment-environment-policy/) development environment
