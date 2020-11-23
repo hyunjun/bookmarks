@@ -4033,6 +4033,7 @@ Python
 * [Unit Testing in Python -The Basics | The Startup](https://medium.com/swlh/unit-testing-in-python-basics-21a9a57418a0)
 * [Unit Testing in Python — Patching, Mocks and Dependency Injection | by Martin Thoma | Level Up Coding](https://levelup.gitconnected.com/unit-testing-in-python-mocking-patching-and-dependency-injection-301280db2fed)
 * [CI Pipelines for Python Projects. What is a Continuous Integration… | by Martin Thoma | Level Up Coding](https://levelup.gitconnected.com/ci-pipelines-for-python-projects-9ac2830d2e38)
+* [파이썬으로 테스트 데이터 만들기 · 개발블로그](https://blog.gyus.me/2020/generate-test-data-with-python/)
 * faker, factory boy [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
 * [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
   * [Episode #63: Validating Python tests with mutation testing](https://talkpython.fm/episodes/show/63/validating-python-tests-with-mutation-testing)
