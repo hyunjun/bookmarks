@@ -1735,6 +1735,7 @@ Python
 * [Django form 폼나게 쓰기](https://www.slideshare.net/SeanKang19/django-form-78716437)
 * [coding-night-live - a Web-Based Communication Application for codelabs](https://github.com/dduk-ddak/coding-night-live)
 * [장고 외부에서 Form, Serializer 활용하기](https://gist.github.com/allieus/fbd054fcc86d0509712c244d6206e57d) - request validation 용도로 사용 가능
+* [번역 | 장고에서 리퀘스트를 처리하는 방법](https://suhyunbaik.github.io/django/2020/11/23/how-django-processes-a-request/)
 * [Django - 서드 파티 패키지](https://wayhome25.github.io/django/2017/10/06/tsd-21-django-package/)
 * [(번역) 다운타임 없는 장고 마이그레이션](https://wayhome25.github.io/django/2017/09/23/django-migrations-without-downtime/)
 * [(번역) How to Create Django Data Migrations](https://wayhome25.github.io/django/2017/10/01/how-to-create-django-data-migrations/)
