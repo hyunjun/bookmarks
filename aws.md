@@ -74,6 +74,7 @@ AWS
 * AWS이해하기
   * [1주차 – AWS클라우드 컴퓨팅 소개 / 실습](http://asome.bdinc.co.kr/2016/06/16/aws%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-aws%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C%EC%BB%B4%ED%93%A8%ED%8C%85/)
   * [2주차 – AWS관리형 서비스 이해/실습](http://asome.bdinc.co.kr/2016/06/22/aws%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-2%EC%A3%BC%EC%B0%A8-aws%EA%B4%80%EB%A6%AC%ED%98%95%EC%84%9C%EB%B9%84%EC%8A%A4/)
+* [AWS 관리형 인스턴스를 사용해야만 하는 이유 – OpsNow Tech Blog](https://blog.opsnow.com/23)
 * [Amazon Web Services - Labs](https://github.com/awslabs)
 * [Cloud With Me makes setting up and managing AWS servers easier](https://techcrunch.com/2016/07/12/cloud-with-me-makes-setting-up-and-managing-aws-servers-easier/)
 * [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
