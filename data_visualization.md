@@ -406,6 +406,7 @@ Data Visualization
 * [Spines & Grids | Pega Devlog](https://jehyunlee.github.io/2020/08/27/Python-DS-28-mpl_spines_grids/)
 * [Mapping Shapefile on Raster Map | Pega Devlog](https://jehyunlee.github.io/2020/09/21/GIS-Python-3-raster_and_polygon/) geotiff, gdal
 * [Layered Visualization | Pega Devlog](https://jehyunlee.github.io/2020/11/17/Python-DS-43-toomany/)
+* [Watermark on Image | Pega Devlog](https://jehyunlee.github.io/2020/11/24/Python-DS-44-watermark/)
 * [**itermplot - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal**](https://github.com/daleroberts/itermplot)
 * [mpld3 - Plotly 랑 Bokeh 공부하기 귀찮다. 그냥 matplotlib 를 사용해서 웹서비스하자](http://hamait.tistory.com/850)
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn)
