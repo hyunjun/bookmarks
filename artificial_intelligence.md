@@ -112,6 +112,7 @@ Artificial Intelligence
 * [2020AIChallenge_Solution: 2020년 nipa에서 개최한 AI 챌린지 수상 코드를 올려놓은 레포(상금 1.6억원)](https://github.com/SongGeunil1/2020AIChallenge_Solution)
 * [차세대 인공지능 - 제1편](https://brunch.co.kr/@synabreu/100) unsupervised, federated, transformer
 * [차세대 인공지능 - 제2편](https://brunch.co.kr/@synabreu/101)
+* [AI 프로젝트 실패의 5가지 원인. By 송호연 | by Riiid Techblog | Nov, 2020 | Medium](https://riiidtechblog.medium.com/ai-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EC%8B%A4%ED%8C%A8%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-5%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0-8e7813cf0a95)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
