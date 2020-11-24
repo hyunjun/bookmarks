@@ -1301,6 +1301,7 @@ Programming
     * [if (kakao) dev 2019, Day 1 - 서비스 장애를 극복하는 게임플랫폼 구축하기 요약](https://dico.me/topic/articles/255)
     * [if (kakao) dev 2019, Day 1 - 초당옥수수의 취소를 막아라! : 수만 건의 주문을 1초내에 처리하는 기술 요약](https://dico.me/topic/articles/256)
     * [if 카카오 2일차](https://www.notion.so/if-2-777b70ec30354292805432dc15af2234)
+  * [if (kakao)2020 기술 세션 다시보기 – tech.kakao.com](https://tech.kakao.com/2020/11/24/if-kakao-2020-dev-session/)
 * [JetBrains Day 2018 스케치 영상](https://www.youtube.com/playlist?list=PLQ176FUIyIUYTei17s-bjW27MVV2jmSGs) plugin, upsource, rider, intelliJ, kotlin
 * Line
   * [일본 LINE DEVELOPER DAY 2018 방문기](https://engineering.linecorp.com/ko/blog/line-developer-day-2018/)
