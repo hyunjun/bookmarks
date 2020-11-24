@@ -650,6 +650,7 @@ Javascript
 * [15 Simple Coding Techniques to Get Your Tasks Done with Shorter Code in JavaScript | by Amy J. Andrews | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/15-simple-coding-techniques-to-get-your-tasks-done-with-shorter-code-in-javascript-59d46801db0)
 * [JavaScript: Abstraction, Data Types, and Expressions | by UH COSC 4315 Group 4 | Medium](https://medium.com/@csg.riskgame/javascript-abstraction-data-types-and-expressions-b52767bb529e)
 * [5 Alternatives to ‘If’ Statements for Conditional Branching | by Jamie Bullock | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/5-alternatives-to-if-statements-for-conditional-branching-6e8e6e97430b)
+* [HTTP 응답 지연을 이용한 서버간 작업 동기화 실험 (mutex over http)](https://blog.promedius.ai/0/)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
