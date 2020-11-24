@@ -263,6 +263,7 @@ Git
   $ git show main:README.md
   $ git rev-list –all | xargs git grep -F ‘font-size: 52 px;’
   ```
+* [How to Undo Mistakes With Git Using the Command Line - YouTube](https://www.youtube.com/watch?v=lX9hsdsAeTk)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
   * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
