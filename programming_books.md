@@ -98,6 +98,7 @@ Programming Books
 * [엔지니어링 매니저 필독 도서&아티클](https://welcome.publy.co/em-books-and-articles/)
 * (NOT YET) [(유튜브 방송) UX/UI의 10가지 심리학 법칙](https://jhrogue.blogspot.com/2020/09/uxui-10.html)
 * (NOT YET) [도서 일상 속 사물이 알려주는 웹 API 디자인 – 지락문화예술공작단](https://jirak.net/wp/%EB%8F%84%EC%84%9C-%EC%9D%BC%EC%83%81-%EC%86%8D-%EC%82%AC%EB%AC%BC%EC%9D%B4-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EC%9B%B9-api-%EB%94%94%EC%9E%90%EC%9D%B8/)
+* [독서가 내게 가져다 준 것들 - 우아한형제들 기술 블로그](https://woowabros.github.io/growth/2020/11/25/what-reading-gave-to-me.html)
 
 # Agile Scrum
 
