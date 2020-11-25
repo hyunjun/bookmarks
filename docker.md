@@ -436,6 +436,7 @@ Docker
 * [Part II: Why Is There No Docker in OpenShift 4 and RHEL 8?](http://crunchtools.com/why-no-docker/)
   * [Part II: Why Is There No Docker in OpenShift 4 and RHEL 8?](https://www.linkedin.com/pulse/part-ii-why-docker-openshift-4-rhel-8-scott-mccarty/)
 * [오픈쉬프트와 컨테이너 I](https://naleejang.tistory.com/233)
+* [쿠버네티스! 오픈쉬프트! 그리고 컨테이너 II](https://naleejang.tistory.com/234)
 * [Continuous Development with Docker and VSCode](https://hackernoon.com/continuous-development-with-docker-and-vscode-go-version-164ee78d09bf)
 * [Predictive CPU isolation of containers at Netflix](https://medium.com/netflix-techblog/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
 * [Predictive CPU isolation of containers at Netflix](https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7)
