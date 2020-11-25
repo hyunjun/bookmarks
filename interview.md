@@ -293,6 +293,7 @@ Interview
   * [System Design Interview](https://www.youtube.com/channel/UC9vLsnF6QPYuH51njmIooCQ/videos)
   * AirBnB
     * [How to build an app like Airbnb?](https://hackernoon.com/how-to-build-an-app-like-airbnb-405f3c5872f9)
+    * [Airbnb System Design | Booking.com System Design | System Design Interview Question - YouTube](https://www.youtube.com/watch?v=YyOXt2MEkv4)
   * Autocomplete or Typeahead
     * [System design : Design Autocomplete or Typeahead Suggestions for Google search](https://www.youtube.com/watch?v=us0qySiUsGU)
     * [Amazon interview question: System design / Architecture for auto suggestions | type ahead](https://www.youtube.com/watch?v=xrYTjaK5QVM)
@@ -325,6 +326,7 @@ Interview
     * [Whatsapp System design or software architecture](https://www.youtube.com/watch?v=L7LtmfFYjc4)
     * [System Design : Design messaging/chat service like Facebook Messenger or Whatsapp](https://www.youtube.com/watch?v=zKPNUMkwOJE)
     * [System Design: Messenger service like Whatsapp or WeChat - Interview Question](https://www.youtube.com/watch?v=5m0L0k8ZtEs)
+    * [WhatsApp System Design | FB Messenger System Design | System Design Interview Question - YouTube](https://www.youtube.com/watch?v=RjQjbJ2UJDg)
   * Online store
     * [Design eCommerce Website (Part I)](http://blog.gainlo.co/index.php/2016/08/22/design-ecommerce-website-part)
     * [Design eCommerce Website (Part II)](http://blog.gainlo.co/index.php/2016/08/28/design-ecommerce-website-part-ii)
@@ -409,6 +411,7 @@ Interview
   * [The Architecture of a Large-Scale Web Search Engine, circa 2019](https://0x65.dev/blog/2019-12-14/the-architecture-of-a-large-scale-web-search-engine-circa-2019.html)
   * [Google 검색은 어떻게 동작하는가? 웹의 패러다임 변화에 맞추는 Google 검색](https://medium.com/@euncho/google-%EA%B2%80%EC%83%89%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80-fbc0e421a97a) SEO 이야기이지만 참고할만한 부분이 있음
   * [인터뷰 : 시스템 / API 디자인](https://ko.programqa.com/question/14061381/)
+  * [Notification Service System Design Interview Question to handle Billions of users & Notifications - YouTube](https://www.youtube.com/watch?v=CUwt9_l0DOg)
 * [highscalability.com/blog/category/example](http://highscalability.com/blog/category/example) 정말 다양한 architecture examples
 * [Success In Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw/videos)
 * [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
