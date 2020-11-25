@@ -45,6 +45,7 @@ SQL
 * [즐겁게 배우는 SQL - YouTube](https://www.youtube.com/playlist?list=PLdntWJk2tJPLinuRXcokohNLgc83ejwUt)
   * [(즐겁게 배우는 SQL #1) 정말 간단한 질의부터 시작하자](https://jhrogue.blogspot.com/2020/11/sql-1.html)
   * [(즐겁게 배우는 SQL #2) 행을 정렬하자](https://jhrogue.blogspot.com/2020/11/sql-2.html)
+* [고독쓰나미 - YouTube](https://www.youtube.com/channel/UClUrjhtzmAJL-sgXe6sNUkw)
 * [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
 * [EDB is a framework to make and manage backups of your database](https://github.com/RoxasShadow/EDB)
 * [IntelliJ 0xDBE](http://tiveloper.tistory.com/category/IDE%20%26%20Apps/IntelliJ%200xDBE)
