@@ -52,6 +52,7 @@ Google Cloud Platform GCP
 * [BigQuery ML SQL templates for common marketing use cases](https://github.com/GoogleCloudPlatform/bigquery-ml-templates/)
 * [AnoIn-BigQuery - Tutoial of getting image url using BigQuery Google BigQuery에 데이터셋을 적재하고 이용하는 튜토리얼](https://github.com/llable/AnoIn-BigQuery)
 * [타다 (TADA) 서비스의 데이터 웨어하우스 : 태초부터 현재까지](https://speakerdeck.com/vcnc/tada-tada-seobiseuyi-deiteo-weeohauseu-taecobuteo-hyeonjaeggaji) 여러가지 과정을 거쳐 BigQuery로 이전
+* [<구글 빅쿼리 완벽 가이드> 도서 증정 이벤트](https://jhrogue.blogspot.com/2020/11/blog-post_25.html)
 * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11)
 * [How to create and connect to Google Cloud Virtual Machine with SSH](https://medium.freecodecamp.org/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd)
 * GKE 차근 차근 알아보기
