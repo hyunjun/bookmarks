@@ -621,6 +621,8 @@ Go
 * [How I Structure Web Servers in Go](https://www.dudley.codes/posts/2020.05.19-golang-structure-web-servers/)
 * [Deploy a Golang Web Application Behind Nginx](https://hackingandslacking.com/deploy-a-golang-web-application-behind-nginx-fb36ba6ece22)
 * [7 Reasons Why Front End Developers Going Full Stack Should Choose Go | by Jeremy Morgan | Aug, 2020 | codeburst](https://codeburst.io/7-reasons-why-front-end-developers-going-full-stack-should-choose-go-294ec94cf900)
+* [go 언어로 웹서버 만들기](https://stricky.tistory.com/409)
+* [Top Go Web Frameworks](https://github.com/mingrammer/go-web-framework-stars)
 * [Beego Framework An open source framework to build and develop your applications in the Go way](https://beego.me)
   * [Beego (Go application framework) 초간단 사용 소감](http://www.popit.kr/beego-go-application-framework-%EC%B4%88%EA%B0%84%EB%8B%A8-%EC%82%AC%EC%9A%A9-%EC%86%8C%EA%B0%90/)
 * [Echo - High performance, extensible, minimalist Go web framework](https://echo.labstack.com/)
@@ -632,7 +634,6 @@ Go
 * [GoTTY - Share your terminal as a web application](https://github.com/yudai/gotty)
 * [Ran: a simple static web server written in Go](https://github.com/m3ng9i/ran)
 * [Revel - A high-productivity web framework for the Go language](https://revel.github.io)
-* [Top Go Web Frameworks](https://github.com/mingrammer/go-web-framework-stars)
 * [vugu.org - Build a web front-end in Go that runs in your browser, today](https://www.vugu.org)
 * [web-annie: Web interface for annie](https://github.com/Dictor/web-annie) golang + vue.js download manager
 
