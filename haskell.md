@@ -146,6 +146,7 @@ Haskell
 * [Haskell Sucks!](https://www.youtube.com/watch?v=rvRD_LRaiRs)
 * [Right and left folds, primitive recursion patterns in Python and Haskell](https://eli.thegreenplace.net/2017/right-and-left-folds-primitive-recursion-patterns-in-python-and-haskell/)
 * [Learn You a Haskell for Great Good 14장 foldM](https://gist.github.com/nattybear/b7880095df78044b8dfa3d29c0eb9c32)
+* [하스켈 max의 항등원](https://gist.github.com/nattybear/da769062d8de870f4791e74ac1e76538) foldr
 * [개미 수열 Haskell 풀이](https://medium.com/@jooyunghan/%EA%B0%9C%EB%AF%B8-%EC%88%98%EC%97%B4-haskell-%ED%92%80%EC%9D%B4-9799a023012)
 * [Learning me a Haskell for my own good](https://medium.com/@mickduprez/learning-me-a-haskell-for-my-own-good-c59eddb7f45a)
 * [5 Years of Haskell in Production](https://www.youtube.com/watch?v=hZgW4mT1PkE)
