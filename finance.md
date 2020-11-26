@@ -204,6 +204,8 @@ Finance
 * [Technical Pattern Recognition for Trading in Python | by Sofien Kaabar | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/technical-pattern-recognition-for-trading-in-python-63770aab422f)
 * [Build an AI Stock Trading Bot for Free | by Roman Paolucci | The Startup | Medium](https://medium.com/swlh/build-an-ai-stock-trading-bot-for-free-4a46bec2a18)
 * [주식투자를 위한 비정형투자데이터활용 - JayHan - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=c0J5uK5cglI)
+* [네이버 주식 일자별 매매동향 정보 파이썬으로 한번에 가지고 오기(1)](https://stricky.tistory.com/374)
+* [네이버 주식 일자별 매매동향 정보 파이썬 데이터 분석(2)](https://stricky.tistory.com/375)
 * [파이스탁 - YouTube](https://www.youtube.com/c/pystock)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
