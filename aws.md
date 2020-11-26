@@ -432,6 +432,7 @@ AWS
 * [AWS를 이용해 SPA 호스팅하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/11/15/SPA-hosting-via-AWS.html)
 * [AWS API Gateway - YouTube](https://www.youtube.com/watch?v=60goWpADp-I)
 * [다른 AWS Reseller를 이용하면서 OpsNow를 이용하는 방법! – OpsNow Tech Blog](https://blog.opsnow.com/22)
+* [입 개발 AWS S3 503 Slow Down과 AWS S3 Versioning은 관계가 있다. | Charsyam's Blog](https://charsyam.wordpress.com/2020/11/26/%ec%9e%85-%ea%b0%9c%eb%b0%9c-aws-s3-503-slow-down%ea%b3%bc-aws-s3-versioning%ec%9d%80-%ea%b4%80%ea%b3%84%ea%b0%80-%ec%9e%88%eb%8b%a4/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
