@@ -583,6 +583,7 @@ Docker
 * [**Docker 개발환경의 구축 docker-compose의 활용**](https://brunch.co.kr/@sokoban/30)
 * [Docker Compose로 NodeJS, Nginx 를 한번에 설치해 보자](https://developer88.tistory.com/300)
 * [Docker Compose 로 local 개발 환경 쉽게 관리하기](https://blog.gangnamunni.com/post/docker-compose-for-local-env)
+* [Docker Compose 로 Full Stack JS 개발환경 구축하기 - YouTube](https://www.youtube.com/watch?v=0GmqiNKJ1tw)
 * [dcw - Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
