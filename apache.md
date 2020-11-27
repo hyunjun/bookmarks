@@ -302,6 +302,7 @@ Apache
   * [Kafka Python and Google Analytics](http://www.admintome.com/blog/kafka-python-and-google-analytics/)
   * [Getting started with Apache Kafka in Python](https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05)
 * [Kafka For Beginners](https://medium.com/@rinu.gour123/kafka-for-beginners-74ec101bc82d)
+* [Learn Kafka - Apache Kafka Tutorials and Resources | Confluent Developer](https://developer.confluent.io/learn-kafka/)
 * [Apache Kafka and Confluent Platform examples and demos](https://github.com/confluentinc/examples)
 * [**Apache Kafka Best Practices**](https://www.slideshare.net/HadoopSummit/apache-kafka-best-practices)
 * [kafka-console-consumer.sh](http://documentation.kamanja.org/command-ref/kafka-console-consumer.html)
