@@ -299,6 +299,8 @@ Data Visualization
 * Mapbox
   * [Geographical Data Visualization with Mapbox - Visualizing Geodata with Mapbox’s API and Tools](https://hackingandslacking.com/geographical-data-visualization-with-mapbox-6ef564ebc51e)
 * [p5 - a native Python port of the Processing API by Abhik Pal, Manindra Mohrarna, and contributors](https://p5.readthedocs.io/)
+* Pandas
+  * [An Ultimate Cheat Sheet for Data Visualization in Pandas | by Rashida Nasrin Sucky | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/an-ultimate-cheat-sheet-for-data-visualization-in-pandas-4010e1b16b5c)
 * [Plotly - Collaborative data science. Plotly is the easiest way to graph and share your data](https://plot.ly/)
   * [Introduction to Interactive Time Series Visualizations with Plotly in Python](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)
   * [Plotly Python Open Source Graphing Library](https://plot.ly/python/)
