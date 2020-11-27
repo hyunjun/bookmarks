@@ -578,6 +578,7 @@ Java
 * [Java 15 Released](https://www.infoq.com/news/2020/09/java15-released/)
 * [Java 15 through the eyes of a Scala programmer | by Adam Warski, SoftwareMill | SoftwareMill Tech Blog](https://blog.softwaremill.com/java-15-through-the-eyes-of-a-scala-programmer-edde1ea04492)
 * [What to Expect in Java 15. A brief look on new features in the… | by Dilan Sachintha Nayanajith | Javarevisited | Medium](https://medium.com/javarevisited/what-to-expect-in-java-15-a62d0033beb9)
+* [What’s new in Java 15 In this article, we will check what was added and removed in Java 15. | Javarevisited](https://medium.com/javarevisited/whats-new-in-java-15-70335926cc42)
 
 # Java16
 * [C++ 14 기능 지원부터 벡터 API까지··· JDK 16, 기능 구체화 - CIO Korea](http://www.ciokorea.com/news/165350)
