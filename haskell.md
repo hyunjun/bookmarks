@@ -299,6 +299,7 @@ Haskell
 * do [The doomsday machine](https://tech.fretlink.com/the-doomsday-machine/)
 * exception
   * [THE THREE KINDS OF HASKELL EXCEPTIONS AND HOW TO USE THEM](https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html)
+* filter [하스켈 filter 만들어보기](https://gist.github.com/nattybear/9746555fe0db4bf7d3440e0e5b6561f0)
 * IO [The power of IO in Haskell | 47 Degrees](https://www.47deg.com/blog/io-haskell/)
 * String [Eat Haskell String Types for Breakfast](https://free.cofree.io/2020/05/06/string-types/)
 
