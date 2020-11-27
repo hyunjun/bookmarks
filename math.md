@@ -88,6 +88,7 @@ Math
 * [Higher order Newton-like methods for root finding](https://www.johndcook.com/blog/2019/10/30/higher-order-newton/)
 * [The map of mathematics](https://www.quantamagazine.org/the-map-of-mathematics-20200213/)
 * [Math Insight](https://mathinsight.org/)
+* [쉬운 좌표변환. 나는 수학을 잘 하지 않는다. 특히 공식을 외워서 뭔가를 적용한 건… | by Beejei Kim | Nov, 2020 | Medium](https://beejei.medium.com/%EC%89%AC%EC%9A%B4-%EC%A2%8C%ED%91%9C%EB%B3%80%ED%99%98-95b2d62650aa)
 
 # Bezier 
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
