@@ -254,6 +254,7 @@ Algorithm
 
 # Compression
 * [Golomb coding](https://en.wikipedia.org/wiki/Golomb_coding)
+* [Zip: Data compression (20분만에 배우는 압축 알고리즘) - Speaker Deck](https://speakerdeck.com/dalinaum/zip-data-compression-20bunmane-baeuneun-abcug-algorijeum)
 
 # Consensus
 * [Distributed Consensus 알고리즘 정리](http://www.notforme.kr/archives/1898)
