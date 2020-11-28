@@ -61,6 +61,7 @@ App
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)
 * [cool-retro-term - A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
+* [Diffchecker - Online diff tool to compare text to find the difference between two text files](https://www.diffchecker.com/)
 * encryption
   * [age - a simple, modern and secure file encryption tool](https://github.com/FiloSottile/age)
   * [keys.pub](https://keys.pub/)
@@ -358,6 +359,7 @@ App
 * Requestly [Udemy강좌 Full HD로 보기](https://www.javastudy.net/2019/04/22/udemy%EA%B0%95%EC%A2%8C-full-hd%EB%A1%9C-%EB%B3%B4%EA%B8%B0/)
 
 # Comminucation
+* [“우리도 있다” 업무용 오픈소스 화상회의 툴 10선 - ITWorld Korea](https://www.itworld.co.kr/news/173069)
 * [makepagecall.com/](https://www.makepagecall.com/) 화상 통화 + canvas(칠판)
 * [wire](https://wire.com/) skype alternative
 
@@ -1016,6 +1018,7 @@ App
   * [Salt (wireframe)](https://plantuml.com/ko/salt)
   * [wbs-diagram](https://plantuml.com/ko/wbs-diagram)
 * [precursor](https://precursorapp.com/)
+* [quiver: A modern commutative diagram editor for the web](https://github.com/varkor/quiver)
 * [sequence diagram.org](https://sequencediagram.org/)
 * [Shaky: ASCII Diagram to PNG](http://shaky.github.bushong.net/)
 * [smartdraw.com](https://www.smartdraw.com/)
@@ -1032,6 +1035,7 @@ App
 * ['제법 쓸 만 하다' 무료 동영상 편집 SW 5선 - CIO Korea](http://www.ciokorea.com/news/40273)
 * [2020 최고의 사진 측량 소프트웨어 : 네이버 블로그](https://blog.naver.com/j1392497/222111621788)
 * audacity [오픈소스 오디오 편집툴 : Audacity](https://jybaek.tistory.com/801)
+* [Apache OpenMeetings Project – Home](https://openmeetings.apache.org/) video conferencing, instant messaging, white board, collaborative document editing and other groupware tools
 * AVPlayer [How to set up video streaming in your app with AVPlayer](https://medium.freecodecamp.org/how-to-set-up-video-streaming-in-your-app-with-avplayer-7dc21bb82f3)
 * [awesomevideoplayer.com](http://www.awesomevideoplayer.com/) multi screen 동시 조작 가능
 * Canva [이미지 편집 서비스 캔바(Canva)](https://www.44bits.io/ko/post/preparing-wtd-meetup-without-a-designer-nor-photoshop#%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%BA%94%EB%B0%94canva)
@@ -1307,6 +1311,7 @@ App
   * [Windows 10 네이티브 방식으로 SSH 서버 설정하기](https://medium.com/beyond-the-windows-korean-edition/windows-10-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EB%B0%A9%EC%8B%9D%EC%9C%BC%EB%A1%9C-ssh-%EC%84%9C%EB%B2%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0-64988d87349)
   * [윈도우10에서 리눅스, 유닉스 접속할 때 내장된 ssh 사용, 아직도 putty 사용하나요?](http://blog.naver.com/tolovefeels/221985255075)
   * [Extracting SSH Private Keys From Windows 10 ssh-agent - ropnop blog](https://blog.ropnop.com/extracting-ssh-private-keys-from-windows-10-ssh-agent/)
+  * [윈도우 10 에서 ssh 서버 구성하기 :: 프즈](https://tolovefeels.tistory.com/33)
 * [Terminal - The new Windows Terminal, and the original Windows console host -- all in the same place!](https://github.com/microsoft/terminal)
   * [Introducing Windows Terminal](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/)
   * [Microsoft's open source 'Windows Terminal' app reaches stable release](https://www.windowscentral.com/microsofts-open-source-windows-terminal-app-reaches-stable-release)
@@ -1353,5 +1358,6 @@ App
   * [WSL2 + VSCode = 운영체제 및 시스템 프로그래밍 공부를 위한 가장 쉽고 편리한 개발환경 - YouTube](https://www.youtube.com/watch?v=anZmL2bs-xY)
   * [cygwin 을 버리고 wsl2 ubuntu로 넘어가다](https://blog.naver.com/crucifyer/222124604955)
   * [Improve Docker performances with WSL2 | Towards Data Science](https://towardsdatascience.com/how-to-improve-docker-performance-with-wsl2-3a54402ab0f2)
+  * [Windows Subsystem for Linux: The lost potential - jmmv.dev](https://jmmv.dev/2020/11/wsl-lost-potential.html)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [X server 4 Windows 10](https://x410.dev/)
