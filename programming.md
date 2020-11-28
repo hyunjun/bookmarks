@@ -701,6 +701,7 @@ Programming
 * [비즈니스와 좋은 설계 사이에서 균형 잡기 | Evans Library](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
 * [**Architecture Playbook — Architecture Playbook**](https://nocomplexity.com/documents/arplaybook/index.html)
 * [Lv0 에서 Lv2 까지 - 인프런 서비스 리뉴얼 - Hyung Joo](https://www.hyungjoo.me/4%EB%85%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%B0-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%98%A4%ED%94%88/)
+* [A Cloud-Native Architecture for a Digital Enterprise](https://www.infoq.com/articles/cloud-native-architecture/)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -919,6 +920,7 @@ Programming
 * [Modern Banking in 1500 Microservices](https://www.infoq.com/presentations/monzo-microservices/)
 * [Principles for Microservice Design: Think IDEALS, Rather than SOLID](https://www.infoq.com/articles/microservices-design-ideals/)
 * [MSA프로젝트에서 마주하는 3가지 어려움](https://brunch.co.kr/@windydog/388)
+* [InfoQ Live Roundtable: Microservices - Are They Still Worth It?](https://www.infoq.com/presentations/microservices-roundtable-2020/)
 * [Edgar: Solving Mysteries Faster with Observability | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
   * [Building Netflix’s Distributed Tracing Infrastructure | by Netflix Technology Blog | Oct, 2020 | Netflix TechBlog](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
 * [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
@@ -1037,6 +1039,7 @@ Programming
 * [GCP Google Cloud Platform](gcp.md)
 * [The Cost of Cloud Computing](https://read.acloud.guru/the-true-cost-of-cloud-a-comparison-of-two-development-teams-edc77d3dc6dc)
 * [How to build a SaaS with $0](https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8)
+* [The Tech Stack of a One-Man SaaS](https://panelbear.com/blog/tech-stack/)
 * [GCP vs AWS vs Azure 서비스 비교](https://docs.google.com/spreadsheets/d/1TR2_ytoHh9-InEZEjree7730GNdmrsGUDhxH1BlqK1Q)
 * [알리바바 클라우드 가입하기](https://jybaek.tistory.com/845)
 * [알리바바 클라우드 payment method 삭제](https://jybaek.tistory.com/846)
@@ -1051,7 +1054,9 @@ Programming
 * [오라클 클라우드 무료 인스턴스를 활용한 VPN 서버 구축하기 : 클리앙](https://www.clien.net/service/board/lecture/15587467?type=recommend)
 * [클라우드 우분투에 gui로 원격 연결하기](https://evols-atirev.tistory.com/27)
 * [Taking Control of Confusing Cloud Costs](https://www.infoq.com/articles/taking-control-of-cloud-costs/)
+* [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
 * [Dataiku 다타이쿠 클라우드 서버 설치 방법 가이드](https://stricky.tistory.com/351) 네이버 클라우드 플랫폼
+* [HopsFS: 100x Times Faster than AWS S3 - Logical Clocks](https://www.logicalclocks.com/blog/hopsfs-100x-times-faster-than-aws-s3)
 * [Libvirt - The Unsung Hero of Cloud Computing — Vyom](https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html)
 * [Micro 3.0 (M3O) - a platform for cloud native development | Micro](https://micro.mu/blog/2020/11/05/micro-v3-aka-m3o.html)
   * [Why we are building a CLI first PaaS without a web frontend](https://crufter.com/cli-first-paas)
@@ -1924,6 +1929,8 @@ Programming
   * [10월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/10/b-10-4.html)
   * [11월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/11/b-11-1.html)
   * [11월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/11/b-11-2.html)
+  * [11월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/11/b-11-3.html)
+  * [11월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/11/b-11-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -2119,6 +2126,8 @@ Programming
   * [(11/14) 코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는 법 - YouTube](https://www.youtube.com/watch?v=D8hJllxMHFY)
 * [2020년 11월 21일 개발자 이야기](https://www2.slideshare.net/jrogue/2020-11-21) DoorDash AWS 가용성 오해, scorecard – 오픈소스 공개 전 점검 도구, 레드판다: 카프카 대체?, Play 버튼이 없으면 IDE 아니다?
   * [(11/21) 2020년 오픈소스 데이터베이스 설문 조사 결과 - YouTube](https://www.youtube.com/watch?v=5OgptYWljcA)
+* [2020년 11월 28일 개발자 이야기](https://www2.slideshare.net/jrogue/2020-11-28) 아파치 오픈미팅즈, postgREST - PostgreSQL RESTful API, 소프트웨어 개발이 어려운 이유, C가 어려운 이유, ZeroSSL – Let’s Encrypt의 대안, 1인 SaaS 기술 스택, 자바 16, 노드 다이어트
+  * [(11/28) 소프트웨어 개발이 어려운 일곱 가지 이유 - YouTube](https://www.youtube.com/watch?v=S7NOERXBPQs)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 
 # OS Operating System
