@@ -180,6 +180,7 @@ Redis
 * [aioredlock - The asyncio implemetation of Redis distributed locks](https://github.com/joanvila/aioredlock)
   * [aioredlock을 이용한 분산 Lock 구현](https://blog.sinwoobang.me/post/188371203297/aioredlock을-이용한-분산-lock-구현)
 * [asyncio-redis - Redis client for Python asyncio](https://github.com/jonathanslenders/asyncio-redis)
+* [pydis: A redis clone in Python 3 to disprove some falsehoods about performance](https://github.com/boramalper/pydis)
 * [rb: A Redis parallelization toolkit for Python](http://blog.getsentry.com/2015/08/20/rb-redis-parallelization-toolkit.html)
 * [redis - Python client for Redis key-value store](https://pypi.python.org/pypi/redis)
   * [redis-py](http://redis-py.readthedocs.io/)
