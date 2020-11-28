@@ -9,6 +9,7 @@ Python
 * [**Awesome Python**](http://awesome-python.com/)
 * [Awesome-Python](https://github.com/JoMingyu/Awesome-Python)
 * [Awesome-Python](https://github.com/vinta/awesome-python)
+* [**A Curated List of 57 Amazing GitHub Repositories for Every Python Developer | by Angelica Dietzel | Better Programming | Nov, 2020 | Medium**](https://medium.com/better-programming/a-curated-list-of-57-amazing-github-repositories-for-every-python-developer-67dc2cd8d0bc)
 * [**The best of Python: a collection of my favorite articles from 2017 and 2018 (so far)**](https://medium.freecodecamp.org/python-collection-of-my-favorite-articles-8469b8455939)
 * [Python Development Resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/python/resources.md)
 * [pawelmhm.github.io](https://pawelmhm.github.io/)
@@ -24,6 +25,7 @@ Python
 * [blog.thepythontutor.com](http://blog.thepythontutor.com/)
 * [Think Python](http://www.flowdas.com/thinkpython/)
 * [Learning Python: From Zero to Hero](https://medium.freecodecamp.org/learning-python-from-zero-to-hero-120ea540b567)
+* [Top 11 Github Repositories to Learn Python | by Claire D. Costa | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/top-11-github-repositories-to-learn-python-e75e8676757a)
 * [파이썬을 배우는 최고의 방법](https://nolboo.github.io/blog/2014/08/10/the-best-way-to-learn-python/)
 * [codingbat.com/python](http://codingbat.com/python)
 * [Python 이해하기 20160815](http://www.slideshare.net/dahlmoon/python-20160815)
@@ -416,6 +418,7 @@ Python
 * [5 Python Code Smells You Should Be Wary Of | by Anupam Chugh | Towards Data Science](https://towardsdatascience.com/5-python-code-smells-you-should-be-wary-of-c48cc0eb9d8b)
 * [The Art of ‘One-Lining’ in Python | by Salvador Aleguas | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/the-art-of-one-lining-in-python-1b96fc6fc5a9)
 * [Advanced Python: Metaprogramming. Explaining what, why and how… | by Farhad Malik | FinTechExplained | Medium](https://medium.com/fintechexplained/advanced-python-metaprogramming-980da1be0c7d)
+* [7 Best Hosting Platforms for Python Application](https://geekflare.com/python-hosting-platform/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1850,6 +1853,7 @@ Python
 * [django로 크롤링해서 적용하기 +BeautifulSoup사용 — ChoSM'Programming](https://applepick.tistory.com/46)
 * [Django(2.x)와 Asyncio를 함께 사용해보자 No Celery! - JIHUN KIM - Medium](https://medium.com/@elastic7327/python3-6-x-django-2-x-%EC%97%90-asyncio%EB%A5%BC-%ED%95%A8%EA%BB%98-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90-without-celery-1256f12b1a37)
 * [참조](https://velog.io/@dev_taehyun/Django-%EC%A0%95%EC%B0%B8%EC%A1%B0%EC%99%80-%EC%97%AD%EC%B0%B8%EC%A1%B0)
+* [Django Doctor - Django code improvement bot](https://django.doctor/challenge)
 * django manager [화해 블로그](http://blog.hwahae.co.kr/%EC%A0%84%EC%B2%B4%EB%B3%B4%EA%B8%B0/tech/tech-tech/4108/)
 
 # DSL
@@ -2387,6 +2391,7 @@ Python
 * ipytracer [알고리즘 시각화 라이브러리 ipytracer 개발기](https://www.slideshare.net/Sn0wLe0pard/ipytracer)
 * [ipywidgets](https://ipywidgets.readthedocs.io)
   * [How to Create a Drop-Down Menu and a Slide Bar for your Favorite Visualization Tool](https://towardsdatascience.com/how-to-create-a-drop-down-menu-and-a-slide-bar-for-your-favorite-visualization-tool-3a50b7c9ea01)
+* [jnotebook_reader: An awesome viewer to browse and render Jupyter Notebooks from local, Amazon S3, Google Cloud Storage or MinIO](https://github.com/line/jnotebook_reader)
 * [jovian.ml - Make Jupyter notebooks commentable collaborative sharable](https://www.jovian.ml)
   * 1. 주피터 노트북 버전관리 (diff 도 가능)
   * 2. 주피터 노트북의 버전별, 코드/마크다운 셀별 Comment 기능 (댓글의 댓글도 가능)
@@ -3114,6 +3119,8 @@ Python
   * [High performance networking in Python (Yury Selivanov)](https://www.youtube.com/watch?v=WSq0S7UvI8E)
 * [Uzi - an stunning Ransomeware due to its features](https://github.com/VedantGawade/Uzi)
 * [validus - A dead simple Python data validation library. It supports Python 3 only](https://github.com/shopnilsazal/validus)
+* [viztracer: VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution](https://github.com/gaogaotiantian/viztracer)
+  * [Understand your Python code with this open source visualization tool | Opensource.com](https://opensource.com/article/20/11/python-code-viztracer)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
 * [Watchdog](http://pythonhosted.org/watchdog/) Python API library and shell utilities to monitor file system events
@@ -4082,10 +4089,12 @@ Python
   * [Open Sourcing Pytest Tools](https://blogs.dropbox.com/tech/2016/03/open-sourcing-pytest-tools/) pytest-flakefinder, unittest2pytest 
   * [Structuring Unit Tests in Python | Python In Plain English](https://medium.com/python-in-plain-english/unit-testing-in-python-structure-57acd51da923)
   * [Pytest Plugins to Love ❤️. My top 5 and honorable 50 out of 600+… | by Martin Thoma | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/pytest-plugins-to-love-%EF%B8%8F-9c71635fbe22)
-* [pytest-bdd - BDD library for the py.test runner](https://github.com/pytest-dev/pytest-bdd)
-  * [PYTHON TESTING 101: PYTEST-BDD](https://automationpanda.com/2018/10/22/python-testing-101-pytest-bdd/)
-* [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
-* [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
+  * [playwright-python: Python version of the Playwright testing and automation library](https://github.com/microsoft/playwright-python)
+    * [Announcing Playwright for Python: Reliable end-to-end testing for the web | Python](https://devblogs.microsoft.com/python/announcing-playwright-for-python-reliable-end-to-end-testing-for-the-web/)
+  * [pytest-bdd - BDD library for the py.test runner](https://github.com/pytest-dev/pytest-bdd)
+    * [PYTHON TESTING 101: PYTEST-BDD](https://automationpanda.com/2018/10/22/python-testing-101-pytest-bdd/)
+  * [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
+  * [pytest-flakefinder - Runs tests multiple times to expose flakiness](https://github.com/dropbox/pytest-flakefinder)
 * [Tabletests](http://horia141.com/tabletests.html)
 * unittest
   * [unittest.mock](https://docs.python.org/3/library/unittest.mock.html)
