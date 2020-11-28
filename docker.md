@@ -894,6 +894,7 @@ Docker
   * [Istio를 활용해 Multi Cluster 환경에 Service Mesh 구성하기](https://yunsangjun.github.io/blog/istio/2019/08/11/istio-multi-cluster-mesh.html)
   * [Azar Mirror 서버 제작기 2편 - Istio와 함께하는 Traffic Mirroring](https://hyperconnect.github.io/2020/06/02/azar-mirror-2.html)
   * [Kubernetes에 Microservice 배포하기 3편 - Canary Deployments with Istio | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/19/microsrv-deploy-3.html)
+* [k0s - Zero Friction Kubernetes](https://github.com/k0sproject/k0s)
 * k3s [k3s로 간단하게 Kubernetes 환경 구축하기](https://si.mpli.st/dev/2020-01-01-easy-k8s-with-k3s/)
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
   * [Announcing KEDA: bringing event-driven containers and functions to Kubernetes](https://cloudblogs.microsoft.com/opensource/2019/05/06/announcing-keda-kubernetes-event-driven-autoscaling-containers/)
@@ -925,6 +926,7 @@ Docker
 * [kubethanos kills half of your pods randomly to engineer chaos in your preferred environment, gives you the opportunity to see how your system behaves under failures](https://github.com/berkay-dincer/kubethanos)
 * [Kubevirt | Wait... Running Virtual Machine (VM) inside Kuberenetes? Now, you can! - YouTube](https://www.youtube.com/watch?v=3kQDtXE4qi8)
 * [Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/)
+* [Lens | The Kubernetes IDE](https://k8slens.dev/)
 * [maesh - Simpler Service Mesh](https://containo.us/maesh/)
   * [Announcing Maesh, a Lightweight and Simpler Service Mesh Made by the Traefik Team](https://blog.containo.us/announcing-maesh-a-lightweight-and-simpler-service-mesh-made-by-the-traefik-team-cb866edc6f29)
 * Minikube
@@ -1013,6 +1015,7 @@ Docker
   * [Replacing Docker with Podman — Power of Podman — Cloudnweb](https://medium.com/@ganeshmani009/replacing-docker-with-podman-power-of-podman-cloudnweb-23cfb7541538)
   * [**Podman 기본명령어 튜토리얼**](https://qiita.com/leechungkyu/items/50c3d96a69239a7e4f7f)
   * [컨테이너 기술:: Docker와 Podman](https://naleejang.tistory.com/227)
+  * [Transitioning from Docker to Podman - Red Hat Developer](https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/)
 * [QUARKUS - Supersonic Subatomic Java A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards](https://quarkus.io/)
   * [Why Quarkus](http://in.relation.to/2019/03/08/why-quarkus/)
   * [Quarkus란?](https://www.redhat.com/ko/topics/cloud-native-apps/what-is-quarkus)
