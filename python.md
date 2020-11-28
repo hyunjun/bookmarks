@@ -492,6 +492,7 @@ Python
 * [Introduction to Priority Queues in Python | by Raivat Shah | Towards Data Science](https://towardsdatascience.com/introduction-to-priority-queues-in-python-83664d3178c3) list, heapq, queue.PriorityQueue
 * [10 Algorithms To Solve Before your Python Coding Interview | by AnBento | Towards Data Science](https://towardsdatascience.com/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27) string, array
 * [내 코드를 우아하게 만드는 파이썬 꿀팁 😮](https://sjquant.tistory.com/58) f-string, tuple, zip, enumerate, list comprehension, unpacking operators(*, **), dictionary, product
+* [Handy Python Snippets for Cleaner Code | by Tate Galbraith | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/handy-python-snippets-for-cleaner-code-a1e2c5d39a0d)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -2579,6 +2580,7 @@ Python
 * [Top 15 Python Packages You Must Try | by Erik van Baaren | Programming with Erik | Medium](https://medium.com/tech-explained/top-15-python-packages-you-must-try-c6a877ed3cd0) Dash, PyGame, Pillow, Colorama, JmesPath, Requests, Simplejson, Emoji, Chardet, Python-dateutil, Progress bars: progress and tqdm, IPython, Homeassistant, Flask, Beautiful soup
 * [Top 10 Python Tools for IT Administrators ActiveState ActiveState](https://www.activestate.com/blog/top-10-python-tools-for-it-administrators/)
 * [The Top 10 Most Downloaded Python Packages By Developers | by Sunil Sandhu | Python In Plain English | Nov, 2020 | Medium](https://medium.com/python-in-plain-english/the-top-10-python-packages-most-used-by-developers-80807d68466e) Urllib3, Six, Botocore, Pip, Python-dateutil, Requests, Certifi, Idna, Pyasn1
+* [Top 16 Python Applications in Real-World | by Claire D. Costa | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/top-16-python-applications-in-real-world-a0404111ac23)
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
