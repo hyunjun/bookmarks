@@ -85,6 +85,7 @@ NoSQL
 
 # [ClickHouse](https://clickhouse.yandex/) an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries
 * [ClickHouse 기반 분석 파이프라인 구축](https://medium.com/delightroom/clickhouse-%EA%B8%B0%EB%B0%98-%EB%B6%84%EC%84%9D-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95-ea25b8ba43e9)
+* [ClickHouse and S3 Compatible Object Storage | Altinity](https://altinity.com/blog/clickhouse-and-s3-compatible-object-storage)
 
 # [CockroachDB](https://github.com/cockroachdb/cockroach)
 * [How CockroachDB Does Distributed, Atomic Transactions](http://www.cockroachlabs.com/blog/how-cockroachdb-distributes-atomic-transactions/)
