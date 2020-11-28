@@ -444,7 +444,7 @@ Java
 * [IntelliJ IDEA의 로컬 기록(local history)이 여러분의 삶 코드를 구할 수 있습니다](https://blog.jetbrains.com/kr/2020/03/local-history-intellij-save-your-code-ko/)
 * [IntelliJ에서 동시에 여러 Run환경 함께 실행하기](https://jojoldu.tistory.com/510)
 * [IntelliJ에서 JPA ER Diagram 확인 방법](https://jojoldu.tistory.com/517)
-* [Java Annotated Monthly – October 2020 – IntelliJ IDEA Blog | JetBrains](https://blog.jetbrains.com/idea/2020/10/java-annotated-monthly-october-2020/)
+* [Meet Educational Products—Educational Products](https://www.jetbrains.com/help/education/educational-products.html#85aa)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
@@ -582,6 +582,7 @@ Java
 
 # Java16
 * [C++ 14 기능 지원부터 벡터 API까지··· JDK 16, 기능 구체화 - CIO Korea](http://www.ciokorea.com/news/165350)
+* [What We Know about Java 16 and 17 So Far](https://www.infoq.com/news/2020/11/java16-so-far/)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
@@ -968,6 +969,8 @@ Java
 * [ShedLock - Distributed lock for your scheduled tasks](https://github.com/lukas-krecan/ShedLock)
   * [ShedLock을 이용한 Master - Slave (primary - secondary, leader - follower) 구분 없는 스케줄러 만들기](https://www.popit.kr/shedlock%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-master-slave-primary-secondary-leader-follower-%EA%B5%AC%EB%B6%84-%EC%97%86%EB%8A%94-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC-%EB%A7%8C%EB%93%A4/)
 * [Siddhi - a java library that listens to events from data streams, detects complex conditions described via a Streaming SQL language, and triggers actions. It performs both Stream Processing and Complex Event Processing](https://github.com/wso2/siddhi)
+* [skija: Skia bindings for Java](https://github.com/JetBrains/skija)
+  * [Skija - 자바를 위한 Skia 바인딩 | GeekNews](https://news.hada.io/topic?id=3225)
 * [**snappy-java - Snappy compressor/decompressor for Java**](https://github.com/xerial/snappy-java)
 * [SPMF - An Open-Source Data Mining Library](http://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php)
 * SpotBugs [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app)
@@ -1027,6 +1030,7 @@ Java
 * [JPA 덕분에 DB에서 삽질한 이야기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/jpa-uuid-sapjil/)
 * [JPA에서 Reader DB 사용하기 (feat. AWS Aurora)](https://jojoldu.tistory.com/515)
 * [JPA exists 쿼리 성능 개선](https://jojoldu.tistory.com/516)
+* [JPA Entity Select에서 Update 쿼리 발생할 경우](https://jojoldu.tistory.com/536)
 * [@Entity 선언시 기본 생성자만 Generate 에 노출되는 이슈](https://jojoldu.tistory.com/482)
 * [MultipleBagFetchException 발생시 해결 방법](https://jojoldu.tistory.com/457)
 * [Optional 클래스 사용하기](https://dbbymoon.tistory.com/3)
@@ -1265,6 +1269,8 @@ Java
 
 # News
 * [자바 뉴스 2020/11/13](https://www.whiteship.me/java-news-2020-11-13/)
+* [Java Annotated Monthly – October 2020 – IntelliJ IDEA Blog | JetBrains](https://blog.jetbrains.com/idea/2020/10/java-annotated-monthly-october-2020/)
+* [Java Annotated Monthly – November 2020 – IntelliJ IDEA Blog | JetBrains](https://blog.jetbrains.com/idea/2020/11/java-annotated-monthly-november-2020/)
 
 # Performance Tuning
 * [Tuning Java Servers](http://www.infoq.com/articles/Tuning-Java-Servers)
