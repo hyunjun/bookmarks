@@ -262,6 +262,7 @@ Go
 * [Go: Built-in Functions Optimizations | by Vincent Blanchon | A Journey With Go | Aug, 2020 | Medium](https://medium.com/a-journey-with-go/go-built-in-functions-optimizations-70c5abb3a680)
 * [Finite State Machines with Go-lang. | by Dipesh Dulal | WesionaryTEAM | Medium](https://medium.com/wesionary-team/finite-state-machines-with-go-lang-ccd20e329a7b)
 * [Seven Golang Features you must know about | by This is DASC | Medium](https://medium.com/@thisisdasc/seven-golang-features-you-must-know-about-944485d413fe)
+* [5 things before you venture into your maiden Golang Project | by Nikesh Shetty | Nov, 2020 | Medium](https://nikeshshetty.medium.com/5-things-before-you-venture-into-your-maiden-golang-project-68461724363e)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -389,6 +390,7 @@ Go
 * [Go: How Are Deadlocks Triggered?. ℹ️ This article is based on Go 1.14. | by Vincent Blanchon | A Journey With Go | Jul, 2020 | Medium](https://medium.com/a-journey-with-go/go-how-are-deadlocks-triggered-2305504ac019)
 * [Go: Goroutine Leak Detector. A goroutine leak can easily be detected… | by Vincent Blanchon | A Journey With Go | Sep, 2020 | Medium](https://medium.com/a-journey-with-go/go-goroutine-leak-detector-61a949beb88)
 * [Notes on structured concurrency, or: Go statement considered harmful](https://muchtrans.com/translations/notes-on-structured-concurrency-or-go-statement-considered-harmful.ko.html)
+* [errgroup으로 goroutine 10배 잘 활용하기 | DevJin-Blog](https://devjin-blog.com/golang-errgroup-goroutine/)
 * [leaktest - Goroutine Leak Detector](https://github.com/fortytw2/leaktest)
 * [tistory-to-md: Tistory의 OpenAPI를 사용하여 게시글과 이미지를 MarkDown으로 백업하는 프로젝트 입니다](https://github.com/JaeSeoKim/tistory-to-md)
 
@@ -442,6 +444,7 @@ Go
 * [Glide - Package Management for Go](https://glide.sh/)
 * [glog - Let’s talk about logging](http://dave.cheney.net/2015/11/05/lets-talk-about-logging)
 * [Glow - Render markdown on the CLI, with pizzazz!](https://github.com/charmbracelet/glow)
+* [glsnip: copy and paste across machines](https://github.com/bradwood/glsnip)
 * [GoArm](https://github.com/golang/go/wiki/GoArm)
 * [gobot - Go, Robot, Go!  Golang Powered Robotics Next generation robotics framework with support for 17 different platforms](http://gobot.io/)
 * [go-candyjs - fully transparent bridge between Go and the JavaScript](https://github.com/mcuadros/go-candyjs)
