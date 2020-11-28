@@ -26,6 +26,7 @@ Linux
 * [Learn the ways of Linux-fu, for free](https://linuxjourney.com/)
 * [Ten dozen Embedded Linux Conference and IoT Summit videos](http://hackerboards.com/ten-dozen-embedded-linux-conference-and-iot-summit-videos/)
   * [ELC Europe 2016 Presentations](http://elinux.org/ELC_Europe_2016_Presentations)
+* [임베디드 리눅스 프로그래머의 처우, 전망은 어떨까? - 코드도사](https://codedosa.com/1092)
 * [리눅스 아재력 셀프 테스트](http://sunyzero.tistory.com/245)
 * [스타트업을 위한 해킹 방어 테크닉](http://slownews.kr/51659)
 * [SemiCode OS — New Linux Distro For Programmers And Web Developers](https://fossbytes.com/semicode-os-linux-distro-programmers/)
@@ -128,6 +129,7 @@ Linux
   * [(리눅스 업스킬 도전 #17) 소스 코드로 프로그램 컴파일하고 설치하기](https://jhrogue.blogspot.com/2020/10/17.html)
 * [Managing my personal server in 2020](https://github.com/erebe/personal-server/blob/master/README.md)
 * [How to Migrate a Linux Server To New Hardware – CloudSavvy IT](https://www.cloudsavvyit.com/7664/how-to-migrate-a-linux-server-to-new-hardware/)
+* [2020: The Year of the Linux Desktop - Moving from Macbook to Linux - CodiMD](https://monadical.com/posts/moving-to-linux-desktop.html)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -164,6 +166,7 @@ Linux
 * [페도라(Fedora) 배포판 업그레이드 방법](http://kkamagui.tistory.com/900)
 * [A Month as a Fedora QA Tester](https://yisooan.wordpress.com/2019/03/28/a-month-as-a-fedora-qa-tester/)
 * [Fedora 리눅스 업그레이드 후 크롬의 한글 입력기 문제](https://sunyzero.tistory.com/267)
+* [Failed to initialize NVML (Fedora 리눅스)](https://sunyzero.tistory.com/272)
 
 ## 배포판 Manjaro
 * [만자로 리눅스(Manjaro Linux)에서 한글 입력기(iBus) 설치하는 법](https://kkamagui.tistory.com/908)
@@ -631,6 +634,7 @@ Linux
   * [Private/Public 키 쉽게 다루기 - YouTube](https://www.youtube.com/watch?v=cKfd_BmJzHE)
   * [endlessh: SSH tarpit that slowly sends an endless banner](https://github.com/skeeto/endlessh)
   * [lazyssh: A jump-host SSH server that starts machines on-demand](https://github.com/stephank/lazyssh)
+  * ZeroSSL [Introducing another free CA as an alternative to Let's Encrypt](https://scotthelme.co.uk/introducing-another-free-ca-as-an-alternative-to-lets-encrypt/)
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
 * `stat`
   * `[ 0 = ``stat --printf="%s" $f`` ] && rm $f` remove file if size is 0
