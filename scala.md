@@ -1525,6 +1525,7 @@ Scala
 * [Given and Using Clauses in Scala 3 | Rock the JVM - YouTube](https://www.youtube.com/watch?v=vpL-JPHt9qw)
 * [Forward Compatibility for the Scala 3 Transition | The Scala Programming Language](https://scala-lang.org/blog/2020/11/19/scala-3-forward-compat.html)
 * [Mirror, Mirror on the Wall, Who’s the Genericioust of Them All? - Generic Programming with Scala 3 - Philipp Martini](https://blog.philipp-martini.de/blog/magic-mirror-scala3/)
+* [What’s New in Scala 3?. A new compiler, creator applications… | by Akash Srivastava | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/whats-new-in-scala-3-586d69879253)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
   * [Dotty Documentation](https://dotty.epfl.ch/docs/index.html)
   * [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
