@@ -85,6 +85,7 @@ ElasticSearch - Lucene
 * [ElasticON'16 - Stories from Support](http://jjeong.tistory.com/1139)
 * [Elasticsearch search load balancer 구성](http://jjeong.tistory.com/737)
 * [Snapshot and Restore 알아보기](http://jjeong.tistory.com/1276)
+* [ElasticSearch 스냅샷을 S3글래셔로 저장하기](https://brunch.co.kr/@alden/64)
 * [Java Security Manager 관련](http://jjeong.tistory.com/1303)
 * [re-ranking 시 사용하는 함수에 주의 하세요](http://jjeong.tistory.com/1311)
 * [쉽게 Elasticsearch Estimation 하기](http://jjeong.tistory.com/1317)
