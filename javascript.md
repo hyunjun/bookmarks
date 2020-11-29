@@ -159,6 +159,7 @@ Javascript
 * [프론트엔드 면접 문제 은행 ★ Front-end Job Interview Questions](https://h5bp.org/Front-end-Developer-Interview-Questions/translations/korean/)
 * [24 quick-fire JavaScript interview questions | by Daniel Anderson | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/24-quick-fire-javascript-interview-questions-a71f78d03f08)
 * [(고급) JavaScript 질문 목록](https://github.com/lydiahallie/javascript-questions/blob/master/ko-KR/README-ko_KR.md)
+* [이직하려는 친구에게 보내는 프런트엔드 개발 면접 질문 • Captain Pangyo](https://joshua1988.github.io/web-development/interview/frontend-questions/)
 * [Improve Your JavaScript Level With These 4 Questions | by bitfish | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/i-use-these-4-questions-to-find-outstanding-javascript-developers-4a468ea17155)
 * [algorithms in javascript - Collection of computer science algorithms and data structures written in JavaScript](https://github.com/idosela/algorithms-in-javascript)
 * [Data Structures in JavaScript](https://medium.com/siliconwat/data-structures-in-javascript-1b9aed0ea17c)
@@ -662,6 +663,7 @@ Javascript
   * [Stop Using console.log() In JavaScript | by Harsha Vardhan | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/stop-using-console-log-in-javascript-d29d6c24dc26)
 * maps
   * [Turn JavaScript Objects in Maps for Predictability](https://medium.com/better-programming/make-your-javascript-objects-more-predictable-by-creating-maps-20ac1a795442)
+* MessageChannel [MessageChannel API를 활용해 iframe 서비스와 통신하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/11/29/Communicate-with-iframe-via-Message-Channel-API.html)
 * object
   * [Diving Deeper in JavaScripts Objects A Closer Look at JavaScript Object Descriptors](https://blog.bitsrc.io/diving-deeper-in-javascripts-objects-318b1e13dc12)
   * [You should know about ==, Object.defineProperty and Proxy in JavaScript](https://medium.com/javascript-in-plain-english/you-should-know-about-object-defineproperty-and-proxy-in-javascript-8e28e7939232)
@@ -1074,6 +1076,7 @@ Javascript
   * [요즘 핫한 백엔드 데이터베이스 Prisma 를 알아보자](https://www.youtube.com/watch?v=boZ73EEniFI)
   * [Prisma로 GraphQL을 쉽게 도입하기](https://medium.com/labelstore/prisma%EB%A1%9C-graphql%EC%9D%84-%EC%89%BD%EA%B2%8C-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-fa64dcf63382)
   * [Prisma, 넌 누구니?](https://velog.io/@ltnscp9028/Prisma-%EB%84%8C-%EB%88%84%EA%B5%AC%EB%8B%88-gr0ecme3)
+  * [Prisma Schema 넌 누구니 ?](https://velog.io/@ltnscp9028/Prisma-Schema-%EB%84%8C-%EB%88%84%EA%B5%AC%EB%8B%88)
 * [How To Get Started With GraphQL](https://medium.com/@PrinceAshburton/how-to-get-started-with-graphql-a3fbe3d154a1)
 * [Writing Your First GraphQL Queries](https://hackingandslacking.com/writing-your-first-graphql-queries-b47ff7f0474c)
 * [GraphQL and Relay: what are they and why do they matter?](https://hackernoon.com/graphql-and-relay-what-are-they-and-why-do-they-matter-d8dfcc3ce2ac)
