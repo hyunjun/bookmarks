@@ -1254,3 +1254,4 @@ TensorFlow
 * [Getting started with TensorFlow](https://morioh.com/p/bb5b67e8a6eb)
 * [TensorFlow 2.0 Complete Course - Python Neural Networks for Beginners Tutorial - YouTube](https://www.youtube.com/watch?v=tPYj3fFJGjk)
 * [Neural Networks & TensorfFlow Crash Course](https://morioh.com/p/657d0698f442)
+* [9 Best Tensorflow Courses & Certifications Online in 2021- Find the Best!](https://www.mltut.com/best-tensorflow-courses-certifications-online/)
