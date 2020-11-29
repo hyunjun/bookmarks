@@ -290,6 +290,7 @@ Math
 * [Monte Carlo Tree Search – beginners guide](https://int8.io/monte-carlo-tree-search-beginners-guide)
 * [A Random Walk & Monte Carlo Simulation || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=BfS2H1y6tzQ)
 * [Monte Carlo Simulation with Python](https://pbpython.com/monte-carlo.html)
+* [몬테카를로 시뮬레이션(monte carlo simulation) 기초 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/statistics/mc-simulation/)
 * [riskquant A library to assist in quantifying risk](https://github.com/Netflix-Skunkworks/riskquant)
   * [Open-Sourcing riskquant, a library for quantifying risk](https://netflixtechblog.com/open-sourcing-riskquant-a-library-for-quantifying-risk-6720cc1e4968)
 
