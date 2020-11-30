@@ -538,6 +538,7 @@ App
       * [7 VS Code Extensions That Make You Want To Keep Coding Forever | by Daan | Level Up Coding](https://levelup.gitconnected.com/7-vs-code-extensions-that-make-you-want-to-keep-coding-forever-f205e597ae34)
       * [Best 4 VS Code Extensions in 2020 | The Startup](https://medium.com/swlh/best-4-vs-code-extensions-in-2020-d629f37a034)
       * ['개발 작업 간소화하는' 비주얼 스튜디오 코드 확장 기능 4가지 - CIO Korea](https://www.ciokorea.com/news/171724)
+      * [Try Out New Vs Code Features for Improved Productivity | by Ravi | Analytics Vidhya | Nov, 2020 | Medium](https://medium.com/analytics-vidhya/try-out-new-vs-code-features-for-improved-productivity-29d3969ad872)
     * Git
       * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
       * [mac에서 visual studio code를 git commit editor로 설정하기](http://blog.woniper.net/352)
