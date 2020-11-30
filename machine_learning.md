@@ -692,6 +692,7 @@ Machine Learning
 * [존헐 교수 머신러닝 인 비지니스](https://brunch.co.kr/@gauss92tgrd/13)
   * [www-2.rotman.utoronto.ca/~hull/Second edition Online Files/index2ndEd.html](https://www-2.rotman.utoronto.ca/~hull/Second%20edition%20Online%20Files/index2ndEd.html)
 * [책 & 강의 직접 보고 추천하는 머신러닝 & 딥러닝 & 관련 수학 총.정.리.](https://www.philgineer.com/2020/10/awesome-machine-learning.html)
+* [Best Machine Learning Books — Free and Paid — Editorial Recommendations | Towards AI](https://medium.com/towards-artificial-intelligence/best-machine-learning-books-free-and-paid-ml-book-recommendations-40c9ab30b0c)
 
 # C++
 * [mlpack: a scalable C++ machine learning library](https://github.com/mlpack/mlpack)
