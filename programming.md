@@ -2126,7 +2126,8 @@ Programming
   * [(11/14) 코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는 법 - YouTube](https://www.youtube.com/watch?v=D8hJllxMHFY)
 * [2020년 11월 21일 개발자 이야기](https://www2.slideshare.net/jrogue/2020-11-21) DoorDash AWS 가용성 오해, scorecard – 오픈소스 공개 전 점검 도구, 레드판다: 카프카 대체?, Play 버튼이 없으면 IDE 아니다?
   * [(11/21) 2020년 오픈소스 데이터베이스 설문 조사 결과 - YouTube](https://www.youtube.com/watch?v=5OgptYWljcA)
-* [2020년 11월 28일 개발자 이야기](https://www2.slideshare.net/jrogue/2020-11-28) 아파치 오픈미팅즈, postgREST - PostgreSQL RESTful API, 소프트웨어 개발이 어려운 이유, C가 어려운 이유, ZeroSSL – Let’s Encrypt의 대안, 1인 SaaS 기술 스택, 자바 16, 노드 다이어트
+* [(11월 28일) 소프트웨어 개발이 어려운 일곱 가지 이유](https://jhrogue.blogspot.com/2020/11/11-28.html) 아파치 오픈미팅즈, postgREST - PostgreSQL RESTful API, 소프트웨어 개발이 어려운 이유, C가 어려운 이유, ZeroSSL – Let’s Encrypt의 대안, 1인 SaaS 기술 스택, 자바 16, 노드 다이어트
+  * [2020년 11월 28일 개발자 이야기](https://www2.slideshare.net/jrogue/2020-11-28)
   * [(11/28) 소프트웨어 개발이 어려운 일곱 가지 이유 - YouTube](https://www.youtube.com/watch?v=S7NOERXBPQs)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 
