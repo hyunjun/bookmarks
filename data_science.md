@@ -623,6 +623,7 @@ Data Science
 * [Learn About Recommender Systems With These 8 Resources](https://analyticsindiamag.com/learn-about-recommender-systems-with-these-8-resources/)
 * [Deep Dive into Netflix’s Recommender System | by David Chong | Towards Data Science](https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48)
 * [ifkakao 추천 시스템: 맥락과 취향 사이 줄타기](https://blossominkyung.com/ee1129c0-3abc-4523-9cc4-e3be8cc791ce)
+* [Simon Kim의 데이터 과학 - YouTube](https://www.youtube.com/playlist?list=PLBzvuV3xr58JAKQwjvodCnL7lfNQ1PNoG)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
