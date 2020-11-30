@@ -454,6 +454,7 @@ Web
 # GraphQL
 * [REST vs GraphQL - What's the best kind of API?](https://www.youtube.com/watch?v=PeAOEAmR0D0)
 * [libgraphqlparser - A GraphQL query parser in C++ with C and C++ APIs](https://github.com/graphql/libgraphqlparser)
+* [Stop Using REST For APIs. GraphQL Is Way Better | by Harsha Vardhan | JavaScript In Plain English | Nov, 2020 | Medium](https://medium.com/javascript-in-plain-english/stop-using-rest-for-apis-d697727ae6dd)
 
 # Haskell
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)
