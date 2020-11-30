@@ -551,6 +551,7 @@ Git
   * [Squash commits into one with Git](https://www.internalpointers.com/post/squash-commits-into-one-git) multiple commits를 하나의 new commit으로 변경
   * [Squash commits when merging a Git branch with Bitbucket](https://bitbucket.org/blog/git-squash-commits-merging-bitbucket)
   * [git squash - 여러개의 커밋로그를 하나로 묶기](https://meetup.toast.com/posts/39)
+  * [git rebase로 commit 합치기 – Jihun's Development Blog](https://cjh5414.github.io/git-rebase/) squash fixup
   * [git rebase in depth](https://git-rebase.io/)
   * [Why you should stop using Git rebase](https://medium.com/@fredrikmorken/why-you-should-stop-using-git-rebase-5552bee4fed1)
   * [git rebase를 이해하기](https://junwoo45.github.io/2019-10-23-rebase)
