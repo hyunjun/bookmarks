@@ -2152,6 +2152,7 @@ Python
 * [Electron as GUI of Python Applications](https://www.fyears.org/2015/06/electron-as-gui-of-python-apps.html)
   * [Making modern GUIs with Python and ElectronJS](https://www.youtube.com/watch?v=627VBkAhKTc)
 * [github.com/soma0sd/python-study/GUI](https://github.com/soma0sd/python-study/tree/master/GUI)
+* [Create a Simple Python GUI With These Open Source Projects | by Tate Galbraith | The Startup | Nov, 2020 | Medium](https://medium.com/swlh/create-a-simple-python-gui-with-these-open-source-projects-7957813a107a)
 * [Gooey (Beta) - Turn (almost) any Python Console Program into a GUI application with one line](https://github.com/chriskiehl/Gooey/)
   * [How to use the easiest GUI of your life in Python | by Salvador Aleguas | Jul, 2020 | codeburst](https://codeburst.io/how-to-use-the-easiest-gui-of-your-life-in-python-d3762270a2a0)
 * [PyAutoGUI - Cross-platform GUI automation for human beings](http://pyautogui.readthedocs.io)
