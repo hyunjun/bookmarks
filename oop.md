@@ -253,6 +253,7 @@
 * [Probably the Best Practice of Object-Oriented Python — Attr | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/probably-the-best-practice-of-object-oriented-python-attr-d8c26c0e8a4)
 * [Organizing your Python Code. In spite of yourself | by Keno Leon | Medium](https://medium.com/@k3no/organizing-your-python-code-ca5445843368)
 * [Understanding the crux of objects and classes in python. | by Aakash Agrawal | Towards Data Science](https://towardsdatascience.com/understanding-the-crux-of-objects-and-classes-in-python-87c5f4f22d76)
+* [Start Python #1 Thread safe 싱글톤 패턴 - Kowana's coding](https://www.kowanas.com/coding/2020/11/29/%EC%8B%B1%EA%B8%80%ED%86%A4-%ED%8C%A8%ED%84%B4/)
 
 # Ruby
 * [**(번역) 루비에서 상속을 피하는 방법**](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)
