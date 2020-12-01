@@ -1361,5 +1361,6 @@ App
   * [cygwin 을 버리고 wsl2 ubuntu로 넘어가다](https://blog.naver.com/crucifyer/222124604955)
   * [Improve Docker performances with WSL2 | Towards Data Science](https://towardsdatascience.com/how-to-improve-docker-performance-with-wsl2-3a54402ab0f2)
   * [Windows Subsystem for Linux: The lost potential - jmmv.dev](https://jmmv.dev/2020/11/wsl-lost-potential.html)
+  * [Windows 10 LAMP 설치 방법 (1)](https://preciousstory.tistory.com/13)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [X server 4 Windows 10](https://x410.dev/)
