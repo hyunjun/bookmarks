@@ -920,6 +920,7 @@ Javascript
   * [speedy web compiler - Super-fast alternative for babel written in rust https://swc-project.github.io ](https://github.com/swc-project/swc)
   * [프론트엔드 개발환경의 이해: Babel](http://jeonghwan-kim.github.io//series/2019/12/22/frontend-dev-env-babel.html)
   * [Babel 기초 다지기](https://imch.dev/posts/babel-practice)
+  * [FE개발자의 성장 스토리 02 : Babel7과 corejs3 설정으로 전역 오염 없는 폴리필 사용하기 – tech.kakao.com](https://tech.kakao.com/2020/12/01/frontend-growth-02/)
 * [zerocho.com/category/ES2015](https://www.zerocho.com/category/ES2015)
 * [ES2015 리팩토링 – 1.  몸풀기](http://www.popit.kr/es2015-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-1-%EB%AA%B8%ED%92%80%EA%B8%B0/)
 * [ES2015(ES6) 반복기(iterator), 생성기(generator)](https://www.zerocho.com/category/EcmaScript/post/579b34e3062e76a002648af5)
@@ -1184,7 +1185,9 @@ Javascript
 * [algebra.js - Build, display, and solve algebraic equations in JavaScript](http://algebra.js.org/)
 * [animejs.com](http://animejs.com/)
   * [anime.js - Animating the DOM with Anime.js](https://www.sitepoint.com/animating-the-dom-with-anime-js)
-* ar.js [WebXR Device API를 이용한 웹 AR 구현, 그 한계와 대안](https://d2.naver.com/helloworld/0527763)
+* ar.js
+  * [WebXR Device API를 이용한 웹 AR 구현, 그 한계와 대안](https://d2.naver.com/helloworld/0527763)
+  * [WebXR Device API를 이용한 웹 AR 구현, 그 한계와 대안 - 실전 편](https://d2.naver.com/helloworld/0189619)
 * asm.js
   * [Asm.js Chess Battle](https://dev.windows.com/en-us/microsoft-edge/testdrive/demos/chess/)
 * [Avsc - Pure JavaScript implementation of the Avro specification](https://github.com/mtth/avsc)
@@ -1202,6 +1205,7 @@ Javascript
   * [Bootstrap Toggle](http://www.bootstraptoggle.com/)
   * [25+ Best Bootstrap Editors & Builders](http://www.cssauthor.com/bootstrap-editors/)
   * [Bootstrap Framework — Best Practices](https://hackernoon.com/bootstrap-framework-best-practises-b1d81c02d6cf)
+* [browserslist 쾌속 가이드 · shiren the creator](https://blog.shiren.dev/2020-12-01/)
 * BuckleScript [Make generated JavaScript Inline Caching friendly using types in BuckleScript version 8 | Reason Blog](https://reasonml.org/blog/overview-of-new_encoding)
 * [canvid.js - tiny library for playing video on canvas elements](http://gka.github.io/canvid/)
 * [Caporal.js: A full-featured framework for building command line applications (cli) with node.js](https://github.com/mattallty/Caporal.js)
