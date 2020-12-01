@@ -48,6 +48,7 @@ SQL
   * [(즐겁게 배우는 SQL #3) 데이터를 필터링하자 - Select Distinct](https://jhrogue.blogspot.com/2020/11/sql-3-select-distinct.html)
   * [(즐겁게 배우는 SQL #4) 데이터를 필터링하자 - where](https://jhrogue.blogspot.com/2020/11/sql-4-where.html)
   * [(즐겁게 배우는 SQL #5) 데이터를 필터링하자 - limit](https://jhrogue.blogspot.com/2020/11/sql-5-limit.html)
+  * [(즐겁게 배우는 SQL #6) 데이터를 필터링하자 - between](https://jhrogue.blogspot.com/2020/12/sql-6-between.html)
 * [고독쓰나미 - YouTube](https://www.youtube.com/channel/UClUrjhtzmAJL-sgXe6sNUkw)
 * [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
 * [EDB is a framework to make and manage backups of your database](https://github.com/RoxasShadow/EDB)
