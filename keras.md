@@ -185,6 +185,8 @@ Keras
 * [Deep Residual Unet (ResUNet) Segmentation in Keras TensorFlow](https://morioh.com/p/fccb44dfdd02?f=5c21fb01c16e2556b555ab32)
 * [Keras를 이용한 딥러닝 시작, ANN DNN, 손글씨 인식시키기 머신러닝 with Python - YouTube](https://www.youtube.com/watch?v=wCgYYuNhYVw)
 * [Practical Keras. Simple regression for the Numerai… | by Keno Leon | Medium](https://medium.com/@k3no/practical-keras-59c9d18ef6cf)
+* [keras Conv2D | Pega Devlog](https://jehyunlee.github.io/2020/11/29/Python-DL-1-conv2d/)
+* [keras BatchNormalization | Pega Devlog](https://jehyunlee.github.io/2020/12/01/Python-DL-4-bn/)
 
 # Book
 * [keras-idiomatic-programmer - Handbooks and Code Samples for Software Engineers wanting to learn the Keras Machine Learning framework](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer)
