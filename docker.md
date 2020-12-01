@@ -393,7 +393,7 @@ Docker
 * [Docker Korea 스터디 그룹 두번째 모임](http://blog.nacyot.com/articles/2014-08-04-docker-korea-secord/)
 * [이미지 기반 어플리케이션 배포 패러다임 Immutable Infrastructure](http://blog.nacyot.com/articles/2014-04-06-immutable-infrastructure/)
 * [Running GUI apps with Docker](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/)
-* [Docker(container)의 작동 원리: namespaces and cgroups](https://tech.ssut.me/2017/08/15/what-even-is-a-container/)
+* [Docker(container)의 작동 원리: namespaces and cgroups](https://tech.ssut.me/what-even-is-a-container/)
 * [Cgroup Driver 선택하기 – tech.kakao.com](https://tech.kakao.com/2020/06/29/cgroup-driver/)
 * [<컨테이너 가상화의 이해> chroot를 사용해 프로세스의 루트 바꾸기](https://steemit.com/kr/@mishana/1-chroot)
 * [컨테이너 기초 - chroot를 사용한 프로세스의 루트 디렉터리 격리](https://www.44bits.io/ko/post/change-root-directory-by-using-chroot)
@@ -468,6 +468,7 @@ Docker
 * [Container Camp - YouTube](https://www.youtube.com/c/ContainerCamp)
 * [Cloud Native is about Culture, Not Containers](https://www.infoq.com/presentations/cloud-native-culture/)
 * [Cloud Native News - CNN43](https://blog.nativecloud.dev/cnn-2020-43/)
+* [M1 맥에서 Docker 사용하기](https://tech.ssut.me/docker-on-m1-mac/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
