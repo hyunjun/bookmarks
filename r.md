@@ -610,12 +610,14 @@ R
   * [glove - Word Embedding 기법 중 하나인 Glove 를 소개하고, Feature Selection 기법을 Overview 합니다](https://github.com/shinykorea/glove)
   * [shiny_meeup_201908](https://github.com/takos1026/shiny_meeup_201908)
   * [meetup 20190926](https://github.com/shinykorea/Meetup/tree/master/20190926)
+  * [Meetup/myActionR2.pdf at master · shinykorea/Meetup](https://github.com/shinykorea/Meetup/blob/master/20201130/myActionR2.pdf) Automated student report with github action
   * [TokyoR 81회 리뷰](https://blog.zarathu.com/posts/2020-02-11-tokyor81/)
   * [Login module for ShinyApps](https://jinseob2kim.github.io/LectureRpackage/shinymanager/)
   * [RUCK2019 발표: From ShinyApps to CRAN](https://blog.zarathu.com/posts/2019-10-25-ruck2019/)
   * [Introducing the Shiny Production with AWS Book](https://www.r-bloggers.com/introducing-the-shiny-production-with-aws-book/)
   * [A Shiny app for simple linear regression by hand and in R](https://www.r-bloggers.com/a-shiny-app-for-simple-linear-regression-by-hand-and-in-r/)
   * [R Shiny Application Split Into Multiple Files](https://www.r-bloggers.com/r-shiny-application-split-into-multiple-files/)
+  * [bs4Dash 패키지 연습](https://github.com/takos1026/test_bs4dash)
   * [Covid-19 interactive map (using R with shiny, leaflet and dplyr)](https://www.r-bloggers.com/covid-19-interactive-map-using-r-with-shiny-leaflet-and-dplyr/)
 * sp
   * [R에서 sp package 의 proj4string(), spTransform() 함수를 이용한 좌표계 변환 예제](https://lovetoken.github.io/r/2018/04/15/sp_proj4string_spTransform.html)
