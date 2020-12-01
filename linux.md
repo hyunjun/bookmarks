@@ -830,6 +830,7 @@ Linux
 * [duf: Disk Usage/Free Utility](https://github.com/muesli/duf)
 * [**entr - A utility for running arbitrary commands when files change**](https://github.com/clibs/entr)
 * [FireHOL(firewall) and FireQOS(traffic shaping)](http://firehol.org/)
+* [fuck - thefuck: Magnificent app which corrects your previous console command](https://github.com/nvbn/thefuck)
 * [fzf](https://github.com/junegunn/fzf)
   * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
   * [fzf 좋으다](https://engineering.huiseoul.com/fzf-%EC%A2%8B%EC%9C%BC%EB%8B%A4-76fa97578794)
