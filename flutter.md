@@ -63,6 +63,7 @@ Flutter
 * [오늘의 플러터 플러터 상태관리 바이블 1편 - setState() - TaeBbong의 Dev Blog](https://taebbong.github.io/2020/06/13/2020-06-13-flutter-state-post/)
 * [Oct 27 Graphical User Interface Using Flutter in Embedded Systems_Hidenori Matsubayashi.pdf](https://static.sched.com/hosted_files/osseu2020/e0/Oct%2027_Graphical%20User%20Interface%20Using%20Flutter%20in%20Embedded%20Systems_Hidenori%20Matsubayashi.pdf)
 * [Flutter 리스트 신기하고 이쁘게 만드는법 - YouTube](https://www.youtube.com/watch?v=PvAtppuh1Gw)
+* [My December Recommendations for Flutter Packages | by Jelena Jovanoski | Better Programming | Dec, 2020 | Medium](https://medium.com/better-programming/my-december-recommendations-for-flutter-packages-d463cbb257cf)
 
 # Course, Lecture, Tutorial
 * [Develop your first Application with Flutter](https://hackernoon.com/develop-your-first-application-with-flutter-60c4308d18b7)
