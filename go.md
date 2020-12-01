@@ -631,6 +631,7 @@ Go
 * [Echo - High performance, extensible, minimalist Go web framework](https://echo.labstack.com/)
 * [Gin - a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. https://gin-gonic.com ](https://github.com/gin-gonic/gin)
   * [Go 언어의 웹 프레임워크 Gin 사용하기](https://blog.outsider.ne.kr/1371)
+  * [Creating an Authentication API With Golang | by Emmy Chamberlain | Better Programming | Dec, 2020 | Medium](https://medium.com/better-programming/creating-an-authentication-api-with-golang-a930aa769e96)
 * [go-bootstrap Generates a lean and mean Go web project](http://go-bootstrap.io/)
   * [go-bootstrap.io - Generates a lean and mean Go web project http://go-bootstrap.io](https://github.com/go-bootstrap/go-bootstrap)
 * [Gorilla - a web toolkit for the Go programming language that provides useful, composable packages for writing HTTP-based applications](https://github.com/gorilla)
