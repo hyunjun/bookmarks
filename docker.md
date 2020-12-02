@@ -844,6 +844,7 @@ Docker
 * [Why we don’t use the LoadBalancer k8s service type](https://medium.com/sainsburys-engineering/why-we-dont-use-the-loadbalancer-k8s-service-type-5f5403d42dfd)
 * [Allocatable memory and CPU in Kubernetes Nodes](https://learnk8s.io/allocatable-resources)
 * [10 most common mistakes using kubernetes](https://blog.pipetail.io/posts/2020-05-04-most-common-mistakes-k8s/)
+  * [번역 쿠버네티스에서 쉽게 저지르는 10가지 실수 | 커피고래의 노트](https://coffeewhale.com/kubernetes/mistake/2020/11/29/mistake-10/)
 * [Why Not Use Kubernetes?](https://medium.com/better-programming/why-not-use-kubernetes-52a89ada5e22)
 * [EKS K8s에서 ELB(ALB, NLB) 제대로 사용하기](https://velog.io/@ausg/eks-k8s-elb)
 * [Kubernetes에 Microservice 배포하기 1편 - 클릭 몇 번으로 배포 시스템 만들기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/06/13/microsrv-deploy-1.html)
