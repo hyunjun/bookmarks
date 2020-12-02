@@ -1255,6 +1255,8 @@ Java
 * [동일한 Bean(Class)에서 @Transactional 동작 방식 | Popit](https://www.popit.kr/%EB%8F%99%EC%9D%BC%ED%95%9C-beanclass%EC%97%90%EC%84%9C-transactional-%EB%8F%99%EC%9E%91-%EB%B0%A9%EC%8B%9D/)
 * [Spring Boot에서 yyyy-MM 포맷으로 날짜 받고싶을때](https://jojoldu.tistory.com/527)
 * [Spring Boot 기초 정리 : 네이버 블로그](https://blog.naver.com/java7ang/222151557473)
+* [1. Spring Boot + MySQL 연동](https://kim-jong-hyun.tistory.com/12)
+* [2. application.properties DB접속정보로 DataSource 빈 생성이 안된이슈](https://kim-jong-hyun.tistory.com/13)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
