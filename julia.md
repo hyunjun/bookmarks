@@ -178,6 +178,9 @@ Julia
 # MOOC, Lecture
 * [Julia Academy](https://academy.juliabox.com/)
 * [Quantitative Economics with Julia](https://lectures.quantecon.org/jl/)
+* [18.S191 Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall20/)
+  * [CliMA/Oceananigans.jl: 🌊 Fast and friendly fluid dynamics on CPUs and GPUs](https://github.com/CliMA/Oceananigans.jl)
+  * [Fluid dynamics with Oceananigans.jl | Week 13 | MIT 18.S191 Fall 2020 | Ali Ramadhan - YouTube](https://www.youtube.com/watch?v=kSbCYaB2KhQ)
 
 # Tutorial
 * [Julia: A Fresh Approach to Technical Computing - Dr. Viral B. Shah | PyData Jeddah - August 2020 - YouTube](https://www.youtube.com/watch?v=tUWZ6XhC2K4)
