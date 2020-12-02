@@ -776,7 +776,7 @@ Web
   * [Distributed load testing with Gatling and Kubernetes](https://medium.com/de-bijenkorf-techblog/https-medium-com-annashepeleva-distributed-load-testing-with-gatling-and-kubernetes-93ebce26edbe)
   * [Como instalar o Gatling no MacOS](https://medium.com/@matheusinaciopedro/como-instalar-o-gatling-no-macos-9f555c5c2ab0)
   * [Performance Testing with Gatling](https://medium.com/@arsalaninam/performance-testing-with-gatling-652e2f19bf89)
-* k6
+* [k6: A modern load testing tool, using Go and JavaScript - https://k6.io](https://github.com/loadimpact/k6)
   * Beginner’s Guide to Load Testing with k6
     * [Part 1 — The Prelude](https://medium.com/swlh/beginners-guide-to-load-testing-with-k6-85ec614d2f0d)
     * [Part 2 — Performance Goals and k6 Metrics](https://medium.com/swlh/beginners-guide-to-load-testing-with-k6-73d55ee23723)
