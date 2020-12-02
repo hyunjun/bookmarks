@@ -256,6 +256,7 @@ Go
 * [A Step-by-Step Guide to Go Internationalization (i18n) - Phrase Blog](https://phrase.com/blog/posts/internationalization-i18n-go/)
 * [Go: Builds & Linker’s Timeline. ℹ️ This article is based on Go 1.14. A… | by Vincent Blanchon | A Journey With Go | Medium](https://medium.com/a-journey-with-go/go-builds-linkers-timeline-b312084ddf7d)
 * [Go와 함께하는 전화망 서비스 구축 1편](https://d2.naver.com/helloworld/5827706)
+* [Go와 함께하는 전화망 서비스 구축 2편](https://d2.naver.com/helloworld/0814313)
 * [위챗 미니프로그램에서 위챗 페이 연동 삽질기(부제.Golang에서 EUC-KR 서버와 HTTP 통신하기) | Popit](https://www.popit.kr/%EC%9C%84%EC%B1%97-%EB%AF%B8%EB%8B%88%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%97%90%EC%84%9C-%EC%9C%84%EC%B1%97-%ED%8E%98%EC%9D%B4-%EC%97%B0%EB%8F%99-%EC%82%BD%EC%A7%88%EA%B8%B0%EB%B6%80%EC%A0%9C-gola/)
 * [Task orchestration in Go Machinery. | by Kief H. Shemul | The Startup | Jun, 2020 | Medium](https://medium.com/swlh/task-orchestration-in-go-machinery-66a0ddcda548)
 * [Go: How to Take Advantage of the Symbols Table | by Vincent Blanchon | A Journey With Go | Medium](https://medium.com/a-journey-with-go/go-how-to-take-advantage-of-the-symbols-table-360dd52269e5)
