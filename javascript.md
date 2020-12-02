@@ -9,6 +9,7 @@ Javascript
 * [기발자의 한 놈만 패는 Javascript](https://www.youtube.com/user/INKWEON7269)
 * [그림으로 배우는 자바스크립트](https://brunch.co.kr/magazine/painting-code)
 * [Best courses to learn Javascript](https://codeburst.io/best-courses-to-learn-javascript-in-2017-fc3a254638cc)
+* [edtech - YouTube](https://www.youtube.com/channel/UCzsmG59Td5XqzZwipgJ0qJg/playlists)
 * [(2주차) HTML, CSS와 함께 Javascript 기본 쉽게 이해하기](https://www.grabbing.me/2-HTML-CSS-Javascript-a274672c84cb4671a4fdbc17baba02dc)
 * [(3주차) Javascript 심화 & React 핵심 이해하기](https://www.grabbing.me/3-Javascript-React-e197d69d5eba403091f13646f735ffca)
 * [Short, instructional screencast video tutorials for web developers on @eggheadio](https://egghead.io/)
