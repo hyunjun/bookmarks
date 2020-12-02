@@ -920,6 +920,11 @@ Apache
 
 # [SINGA](http://singa.apache.org/docs/overview.html) a general distributed deep learning platform for training big deep learning models over large datasets
 
+# Slider
+* [Slider Project Incubation Status - Apache Incubator](http://incubator.apache.org/projects/slider.html)
+* [DEVIEW 2018 :: C3, 데이터 처리에서 서빙까지 가능한 하둡 클러스터](https://deview.kr/2018/schedule/231)
+  * [212 C3, 데이터 처리에서 서빙까지 가능한 하둡 클러스터](https://www.slideshare.net/deview/212c3-119161596)
+
 # Solr
 * [gooper.com/검색엔진-solr](http://www.gooper.com/ss/index.php?mid=bigdata&category=270441)
 
