@@ -37,6 +37,7 @@ Network
 * [HTTP 통신간의 쿠키와 세션의 동작방식](https://www.kurien.net/post/view/31)
 * [What happens when you type in a URL in an Address bar in a browser?](https://twitter.com/kamranahmedse/status/1297131414190776320/photo/1)
 * [What happens when you load a URL?](https://danluu.com/navigate-url/)
+* [URL 구조 이해하기](https://www.grabbing.me/URL-018cdd1bb4b541fab6246569244fcf93)
 * [Developers Need to Learn Basic Network Engineering | by Tate Galbraith | Better Programming | Medium](https://medium.com/better-programming/developers-need-to-learn-basic-network-engineering-c67767969cd5)
 * [박피디의 게임 개발 이야기 : python 으로 이더넷 mac 주소 얻는 코드](http://parkpd.egloos.com/4189114)
 
