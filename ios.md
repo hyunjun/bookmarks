@@ -516,3 +516,4 @@ iOS
 * [어느날 @objc Inference 와 관련된 경고를 보았다](http://seorenn.blogspot.com/2017/10/objc-inference.html)
 * [How to Setup C++ on Mac](https://www.youtube.com/watch?v=1E_kBSka_ec)
 * [앱 실행 중 갑자기 멈출 때 확인할 것!](https://blog.yagom.net/%EC%95%B1-%EC%8B%A4%ED%96%89-%EC%A4%91-%EA%B0%91%EC%9E%90%EA%B8%B0-%EB%A9%88%EC%B6%9C-%EB%95%8C-%ED%99%95%EC%9D%B8%ED%95%A0-%EA%B2%83/)
+* [안녕 XcodeGen](https://pilgwon.github.io/post/hello-xcodegen)
