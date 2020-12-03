@@ -469,6 +469,7 @@ AWS
 * [Amazon Athena 및 Amazon QuickSight를 활용한 2백년간 글로벌 기후 데이터 시각화](https://aws.amazon.com/ko/blogs/korea/visualize-over-200-years-of-global-climate-data-using-amazon-athena-and-amazon-quicksight)
 * [AWS에서 데이터처리 맛보기 AWS S3, Athena, Quicksight](https://jen6.github.io/2019/07/aws-aws-s3-athena-quicksihtiaws.html)
 * [AWS Athena의 권한 관리와 클라이언트 접속 – OpsNow Tech Blog](https://blog.opsnow.com/14)
+* [Amazon Athena로 ALB Access Log에서 원하는 데이터 추출하기](https://jojoldu.tistory.com/537)
 
 # Book
 * [아마존 웹 서비스를 다루는 기술: 실무에서 필요한 AWS 클라우드의 모든 것!](http://pyrasis.com/book/TheArtOfAmazonWebServices)
