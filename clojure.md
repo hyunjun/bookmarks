@@ -736,6 +736,7 @@ Clojure
 * [reagi-game](https://github.com/eunmin/reagi-game)
 * [rebel-readline - A terminal readline library for Clojure Dialects](https://github.com/bhauman/rebel-readline)
 * [reduce-fsm provides a simple way to specify clojure finite state machines](https://github.com/cdorrat/reduce-fsm/blob/master/README.md)
+* [re-find: Find functions by matching specs](https://github.com/borkdude/re-find)
 * [reload-ns - Clean reload namespace for REPL](https://github.com/eunmin/reload-ns)
 * [replikativ An open, scalable and distributive infrastructure for a data-driven community of applications](http://replikativ.io/)
   * [github.com/replikativ](https://github.com/replikativ)
