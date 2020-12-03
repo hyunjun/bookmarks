@@ -1613,9 +1613,9 @@ Javascript
 * [I created the exact same app in React and Vue. Here are the differences. 2020 Edition | by Sunil Sandhu | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-2020-edition-36657f5aafdc)
 
 ## Library Build
-* [workerize: Run a module in a Web Worker](https://github.com/developit/workerize)
-  * [Bundling Web Workers for NPM | souporserious](https://souporserious.com/bundling-workers-for-npm/)
 * [Brunch - ultra-fast HTML5 build tool](https://brunch.io/)
+* [Lerna · A tool for managing JavaScript projects with multiple packages](https://lerna.js.org/)
+  * [FE개발자의 성장 스토리 03 : 카카오 어드민 UI 컴포넌트를 모노레포로 개발하여 얻은 것들 – tech.kakao.com](https://tech.kakao.com/2020/12/03/frontend-growth-03/)
 * [npmjs.com](https://www.npmjs.com/)
   * [모듈화와 npm(node package manager)](http://poiemaweb.com/nodejs-npm)
   * [5 Practical Ways To Share Code: From NPM to Lerna And Bit](https://hackernoon.com/5-practical-ways-to-share-code-from-npm-to-lerna-and-bit-732f2a4db512)
@@ -1654,6 +1654,8 @@ Javascript
 * [Snowpack - Build web applications with less tooling and 10x faster iteration](https://www.snowpack.dev/)
   * [Introducing Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
   * [Snowpack 써보기 | imch.dev](https://imch.dev/posts/a-experiment-of-snowpack)
+* [workerize: Run a module in a Web Worker](https://github.com/developit/workerize)
+  * [Bundling Web Workers for NPM | souporserious](https://souporserious.com/bundling-workers-for-npm/)
 * [Yarn: First Look at the New Package Manager for JavaScript](http://www.eloquentwebapp.com/yarn-new-package-manager-javascript/)
   * [Yarn: 처음 보는 자바스크립트의 새 패키지 매니저 (Yarn: First Look at the New Package Manager for JavaScript)](https://www.vobour.com/book/view/Y5vcMHJGHyN5ayheM)
   * [github.com/yarnpkg](https://github.com/yarnpkg)
