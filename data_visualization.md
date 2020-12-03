@@ -410,6 +410,7 @@ Data Visualization
 * [Layered Visualization | Pega Devlog](https://jehyunlee.github.io/2020/11/17/Python-DS-43-toomany/)
 * [Watermark on Image | Pega Devlog](https://jehyunlee.github.io/2020/11/24/Python-DS-44-watermark/)
 * [Tight Layout | Pega Devlog](https://jehyunlee.github.io/2020/11/26/Python-DS-45-tightlayout/)
+* [Visualization of Image Exceeding Limitation | Pega Devlog](https://jehyunlee.github.io/2020/12/03/Python-DS-46-bnvis/)
 * [**itermplot - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal**](https://github.com/daleroberts/itermplot)
 * [mpld3 - Plotly 랑 Bokeh 공부하기 귀찮다. 그냥 matplotlib 를 사용해서 웹서비스하자](http://hamait.tistory.com/850)
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn)
