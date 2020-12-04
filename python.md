@@ -419,6 +419,7 @@ Python
 * [The Art of ‘One-Lining’ in Python | by Salvador Aleguas | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/the-art-of-one-lining-in-python-1b96fc6fc5a9)
 * [Advanced Python: Metaprogramming. Explaining what, why and how… | by Farhad Malik | FinTechExplained | Medium](https://medium.com/fintechexplained/advanced-python-metaprogramming-980da1be0c7d)
 * [7 Best Hosting Platforms for Python Application](https://geekflare.com/python-hosting-platform/)
+* [I created my own YouTube algorithm (to stop me wasting time) | by Chris Lovejoy | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/i-created-my-own-youtube-algorithm-to-stop-me-wasting-time-afd170f4ca3a)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
