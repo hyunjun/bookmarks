@@ -624,6 +624,7 @@ Data Science
 * [Deep Dive into Netflix’s Recommender System | by David Chong | Towards Data Science](https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48)
 * [ifkakao 추천 시스템: 맥락과 취향 사이 줄타기](https://blossominkyung.com/ee1129c0-3abc-4523-9cc4-e3be8cc791ce)
 * [Simon Kim의 데이터 과학 - YouTube](https://www.youtube.com/playlist?list=PLBzvuV3xr58JAKQwjvodCnL7lfNQ1PNoG)
+* [쿠팡 추천 시스템 2년간의 변천사](https://velog.io/@jkl133/%EC%BF%A0%ED%8C%A1-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-2%EB%85%84%EA%B0%84%EC%9D%98-%EB%B3%80%EC%B2%9C%EC%82%AC)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
