@@ -1386,6 +1386,7 @@ Programming
 * [Clickjacking Attacks and How to Prevent Them](https://auth0.com/blog/preventing-clickjacking-attacks/)
 * [코드에서 암호를 안전하게 사용할 방법을 찾아서… – OpsNow Tech Blog](https://blog.opsnow.com/15)
 * [2020 최고의 무료 보안 도구 21선 - ITWorld Korea](https://www.itworld.co.kr/news/171389)
+* [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
 
@@ -1932,6 +1933,7 @@ Programming
   * [11월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/11/b-11-2.html)
   * [11월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/11/b-11-3.html)
   * [11월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/11/b-11-4.html)
+  * [12월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/12/b-12-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
