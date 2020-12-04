@@ -110,6 +110,7 @@ Functional Programming
 * [GOTO 2018 • Functional Programming in 40 Minutes • Russ Olsen - YouTube](https://www.youtube.com/watch?v=0if71HOyVjY)
 * [The Object-Oriented vs. Functional Programming Language Evolution | by O'Reilly Media | oreillymedia | Sep, 2020 | Medium](https://medium.com/oreillymedia/the-object-oriented-vs-functional-programming-language-evolution-2f6e63335b40)
 * [Why developers are falling in love with functional programming | by Rhea Moutafis | Towards Data Science](https://towardsdatascience.com/why-developers-are-falling-in-love-with-functional-programming-13514df4048e)
+* [김진철의 How-to-Big Data | 빅데이터의 미래 (13) - CIO Korea](https://www.ciokorea.com/news/173704)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
