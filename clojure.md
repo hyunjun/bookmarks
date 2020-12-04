@@ -552,6 +552,7 @@ Clojure
   $ time bb -f a.clj
   hello, super fast clojure!
   ```
+  * [Meetup: Writing Clojure on the Command Line with Babashka - YouTube](https://www.youtube.com/watch?v=RogyxI-GaGQ)
 * [better-cond: A version of cond that supports :let clauses, and a number of other conveniences](https://github.com/Engelberg/better-cond)
 * [bidi - In the grand tradition of Clojure libraries we begin with an irrelevant quote](https://github.com/juxt/bidi#comparison-with-other-routing-libraries)
 * [Biff - A web framework + self-hosted deployment solution for Clojure](https://findka.com/biff/)
