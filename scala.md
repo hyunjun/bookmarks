@@ -302,6 +302,7 @@ Scala
   * [Data processing with Akka Actors: Part II](https://aleksandarskrbic.github.io/akka-actors-2/)
 * [Akka actors orchestration](https://blog.cacoveanu.com/2018/2018.05.06.09.00.akka.orchestration.html)
 * [Nightmare on Actor Subtree Shutdown](https://medium.com/kenshoos-engineering-blog/nightmare-on-actor-subtree-shutdown-93a8634f41be)
+* [Message-based Parallelism with Actors](https://www.lihaoyi.com/post/MessagebasedParallelismwithActors.html)
 * [ZIO Actors - High-performance, purely-functional library for building and supervising typed actors backed by ZIO](https://zio.github.io/zio-actors/)
 
 # Akka
@@ -552,6 +553,7 @@ Scala
 * [The Difference Between Null, Nothing, Nil, None and Unit in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=0_-jRrdg9Dw)
 * [Andy Scott—Code by Shape - YouTube](https://www.youtube.com/watch?v=ifPTQ9CULdk) Either, Option, List, fold(Right)
 * [The assignment operator is broken!](https://adrian-salajan.github.io//blog/2020/10/02/assigment-is-broken)
+* [Four new features of Scala 2.13 releases that you probably missed | Not cumbersome at all](https://cucumbersome.net/2020/11/28/four-new-features-of-scala-2-13-releases-that-you-probably-missed/) interpolator on pattern matching, toXOption, Pipe and tap, Exhaustivity checks with if guards
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -1040,6 +1042,8 @@ Scala
   * [Data Juggling - Part 10 - Tame Your Twelve-Factor App's Config (Lightbend Config - Part 2)](https://www.youtube.com/watch?v=NlOKF4RJELo)
 * [Coursier](https://get-coursier.io/docs/cli-overview)
   * [One-click install for Scala | The Scala Programming Language](https://www.scala-lang.org/2020/06/29/one-click-install.html)
+  * [#Coursier - Crash Course - YouTube](https://www.youtube.com/watch?v=GPOVWEfYFlA)
+  * [Single command #Scala Environment Setup via #Coursier - YouTube](https://www.youtube.com/watch?v=o9H2EQO3fVs)
 * [Cryptoaudit - a collection of tools that enables auditing system in a secure and publicly verificable way](https://github.com/synaptic-cl/cryptoaudit)
 * cs [Single command Scala setup - Alex Archambault](https://alexarchambault.github.io/posts/2020-09-21-cs-setup.html)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
@@ -1527,6 +1531,7 @@ Scala
 * [Forward Compatibility for the Scala 3 Transition | The Scala Programming Language](https://scala-lang.org/blog/2020/11/19/scala-3-forward-compat.html)
 * [Mirror, Mirror on the Wall, Who’s the Genericioust of Them All? - Generic Programming with Scala 3 - Philipp Martini](https://blog.philipp-martini.de/blog/magic-mirror-scala3/)
 * [What’s New in Scala 3?. A new compiler, creator applications… | by Akash Srivastava | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/whats-new-in-scala-3-586d69879253)
+* [Scala 3: Path-Dependent Types, Type Projections, Dependent Methods and Functions - Rock the JVM Blog](https://blog.rockthejvm.com/scala-3-dependent-types/)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
   * [Dotty Documentation](https://dotty.epfl.ch/docs/index.html)
   * [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
