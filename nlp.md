@@ -1513,6 +1513,11 @@ NLP
 * [Natural Language Processing using TensorFlow: From Zero To Hero](https://morioh.com/p/c5c4a6aae0d5)
 * [Ben Batorsky - Introduction to Natural Language processing | PyData Boston May Meetup - YouTube](https://www.youtube.com/watch?v=2EIzR5DwOg0)
 * [MrBananaHuman/KorNlpTutorial: 한국어 자연어처리 튜토리얼](https://github.com/MrBananaHuman/KorNlpTutorial)
+* [NLP 언제까지 미룰래? 일단 들어와!! #1.자연어 처리란? - DACON](https://dacon.io/codeshare/1794)
+* [NLP 언제까지 미룰래? 일단 들어와!! #2. NLP 전처리 - DACON](https://dacon.io/codeshare/1823)
+* [NLP 언제까지 미룰래? 일단 들어와!! #3. Vectorization - DACON](https://dacon.io/codeshare/1841)
+* [NLP 언제까지 미룰래? 일단 들어와!! #4. word embedding - DACON](https://dacon.io/codeshare/1892)
+* [NLP 언제까지 미룰래? 일단 들어와!! #5. Modeling(완) - DACON](https://dacon.io/codeshare/1893)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
