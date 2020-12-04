@@ -2344,6 +2344,7 @@ CVPR2016)
 * [RLlib: Scalable Reinforcement Learning](https://ray.readthedocs.io/en/latest/rllib.html)
 * [Introduction-of-Reinforcement-Learning](https://github.com/LoveRL/Introduction-of-Reinforcement-Learning)
 * [Deep Reinforcement Learning in TensorFlow2](https://github.com/marload/deep-rl-tf2)
+* [A Simple Industrial Example: Real-Time Bidding](https://rl-book.com/learn/value_methods/bidding/) 광고
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
