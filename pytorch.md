@@ -176,6 +176,7 @@ PyTorch
 * [네트워크 경량화 이모저모 @ 2020 DLD](https://www.slideshare.net/KimJunghoon5/2020-dld-238284732)
   * [model_compression: PyTorch Model Compression](https://github.com/j-marple-dev/model_compression)
 * [파이토치 모델 결과 재구성하기 (Pytorch Reproduction Experiement) - TooTouch](https://tootouch.github.io/setting/reproduction_pytorch/)
+* [**하나의 조직에서 TensorFlow와 PyTorch 동시 활용하기 – 핑퐁팀 블로그**](https://blog.pingpong.us/torch-to-tf-tf-to-torch/)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
