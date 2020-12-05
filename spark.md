@@ -503,6 +503,7 @@
   * [Spark & Zeppelin을 활용한 한국어 텍스트 분류](https://www.facebook.com/groups/sparkkoreauser/permalink/1465550026840229/)
 * [Zeppelin 노트북: NSMC Word2Vec & Sentiment Classification](https://github.com/uosdmlab/nsmc-zeppelin-notebook)
 * [Spark, Mesos, Zeppelin, HDFS를 활용한 대용량 보안 데이터 분석](https://engineering.linecorp.com/ko/blog/detail/60)
+* [2020 데이터 컨퍼런스 "Spark+Cassandra 기반 빅데이터를 활용한 추천시스템 서빙 파이프라인 최적화" / 박수성 SSG.COM 파트너 - YouTube](https://www.youtube.com/watch?v=CQD-85a-NRs)
 
 # Deep Learning
 * [yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
