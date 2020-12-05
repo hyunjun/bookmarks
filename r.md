@@ -617,8 +617,11 @@ R
   * [Introducing the Shiny Production with AWS Book](https://www.r-bloggers.com/introducing-the-shiny-production-with-aws-book/)
   * [A Shiny app for simple linear regression by hand and in R](https://www.r-bloggers.com/a-shiny-app-for-simple-linear-regression-by-hand-and-in-r/)
   * [R Shiny Application Split Into Multiple Files](https://www.r-bloggers.com/r-shiny-application-split-into-multiple-files/)
+  * [2020 R Meetup 데이터저널리즘 강연 - Google Slides](https://docs.google.com/presentation/d/1c5jHvnBOyV0-O4d1m2EFqlay-d_IAdPLIos6YexHSEg)
+  * [My Experience : Release and maintain CRAN packages](https://github.com/cardiomoon/LectureForRPackage)
   * [bs4Dash 패키지 연습](https://github.com/takos1026/test_bs4dash)
   * [Covid-19 interactive map (using R with shiny, leaflet and dplyr)](https://www.r-bloggers.com/covid-19-interactive-map-using-r-with-shiny-leaflet-and-dplyr/)
+  * xaringan [파워포인트를 넘어서 - xaringan](https://statkclee.github.io/ds-authoring/seoul_r_xaringan.html)
 * sp
   * [R에서 sp package 의 proj4string(), spTransform() 함수를 이용한 좌표계 변환 예제](https://lovetoken.github.io/r/2018/04/15/sp_proj4string_spTransform.html)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
