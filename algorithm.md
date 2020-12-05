@@ -302,6 +302,7 @@ Algorithm
 * [disjoint-set, union–find or merge–find set](https://en.wikipedia.org/wiki/Disjoint-set_data_structure)
 * [Union-Find 알고리즘](https://gmlwjd9405.github.io/2018/08/31/algorithm-union-find.html)
 * [What is the most underrated data structure?](https://www.quora.com/What-is-the-most-underrated-data-structure)
+* [Union-Find Algorithm | Dev Log](https://reactiver.dev/union-find-algorithm/)
 
 # Dynamic Programming
 * [A Dynamic Programming Model For Baseball](http://footballcommentary.com/bbmodel.htm)
@@ -627,6 +628,7 @@ Algorithm
 * [Lock-Free Data Structures. Exploring Queues](http://kukuruku.co/hub/cpp/lock-free-data-structures-exploring-queues)
 * [Cache optimizing a priority queue](http://playfulprogramming.blogspot.kr/2015/08/cache-optimizing-priority-queue.html)
 * [**The Importance of Priority Queues - Better Programming - Medium**](https://medium.com/better-programming/the-importance-of-priority-queues-f87e1f5ac842)
+* [백준 1060번 구간 : 후보해를 추린다](https://codingdog.tistory.com/entry/%EB%B0%B1%EC%A4%80-1060%EB%B2%88-%EA%B5%AC%EA%B0%84-%ED%9B%84%EB%B3%B4%ED%95%B4%EB%A5%BC-%EC%B6%94%EB%A6%B0%EB%8B%A4)
 
 # Tree
 * [강좌15 - 자료구조(AVL 트리(tree))](https://www.zerocho.com/category/Algorithm/post/583cacb648a7340018ac73f1)
