@@ -661,6 +661,7 @@ Web
   * [#1 개념 소개](http://bcho.tistory.com/m/post/953)
   * [#2 API 설계 가이드](http://bcho.tistory.com/m/post/954)
   * [#3 API 보안](http://bcho.tistory.com/m/post/955)
+* [가볍게 시작하는 REST API 개념잡기 - YouTube](https://www.youtube.com/watch?v=Q2vRv98EQ7c)
 * [REST API 설계](http://www.slideshare.net/Byungwook/rest-api-60505484)
 * [도대체 뭐가 RESTful 이라는건가?](http://www.chidoo.me/index.php/2016/06/03/what-is-restful/)
 * [REST API가 뭔가요?](https://www.youtube.com/watch?v=iOueE9AXDQQ)
