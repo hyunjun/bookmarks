@@ -1080,6 +1080,7 @@ Java
 * [2. application.properties DB접속정보로 DataSource 빈 생성이 안된이슈](https://kim-jong-hyun.tistory.com/13)
 * [3. Spring @Bean, @Configuration, @Component](https://kim-jong-hyun.tistory.com/14)
 * [4. Spring Boot + Mybatis 연동 후 Test 해보기](https://kim-jong-hyun.tistory.com/15)
+* [5. Spring 디비 멀티커넥션 @Primary, @Qualifier](https://kim-jong-hyun.tistory.com/16)
 * [Spring Project 스프링 프로젝트 시작하기 - Spring MVC](https://woolbro.tistory.com/37)
 * [Spring Project 스프링 프로젝트 시작하기 - Spring MVC 사용하기](https://woolbro.tistory.com/38)
 * [Spring Project 스프링 프로젝트 시작하기 - JDBC, mysql, mybatis (1)](https://woolbro.tistory.com/39)
