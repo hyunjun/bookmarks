@@ -836,6 +836,8 @@ Linux
   * [fzf 좋으다](https://engineering.huiseoul.com/fzf-%EC%A2%8B%EC%9C%BC%EB%8B%A4-76fa97578794)
   * [Why you should be using fzf, the command line fuzzy finder](https://medium.freecodecamp.org/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff)
 * htop [htop explained](https://peteris.rocks/blog/htop/)
+* [i3 - improved tiling wm](https://i3wm.org/)
+  * [kkamagui의 작업실 :: i3wm 윈도우 매니저에서 플로팅 윈도우(Floating Window) 생성하기](https://kkamagui.tistory.com/929)
 * [ICgrep: The fastest way to search text to find the patterns](http://icgrep.com/)
 * Inotify
   * [Inotify: Efficient, Real-Time Linux File System Event Monitoring](https://www.infoq.com/articles/inotify-linux-file-system-event-monitoring)
