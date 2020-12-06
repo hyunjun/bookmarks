@@ -92,6 +92,8 @@ iOS
 * [Extending iOS Apps With Plug-Ins](https://medium.com/better-programming/extending-ios-apps-with-plug-ins-e4119d064f2d)
 * [**Thiiing(띠잉) iOS 앱 개발기 - 우아한형제들 기술 블로그**](https://woowabros.github.io/experience/2020/07/06/thiiing-ios.html) MVVM, CocoaPods, Carthage, SwiftLint, Jenkins(BlueOcean)
 * [Bazel로 LINE의 iOS 앱 빌드 속도를 2배 빠르게! - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/improving-build-performance-line-ios-bazel/)
+* [접근성 지원, 개발자의 빠른 성장을 도와줍니다. - Dev Story of Sungdoo](https://sungdoo.dev/retrospective-or-psa/how-accessibility-nudges-you-to-be-better-developer/)
+* [“대구 사람들은 우리 앱을 못 쓴대요”라는 버그의 심각성은? - Dev Story of Sungdoo](https://sungdoo.dev/retrospective-or-psa/severity-of-bug-that-blocks-people-from-daegue)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
