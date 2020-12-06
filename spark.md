@@ -939,6 +939,7 @@
 * [Simplifying Change Data Capture with Databricks Delta](https://databricks.com/blog/2018/10/29/simplifying-change-data-capture-with-databricks-delta.html)
 * [Spark DataFrameWriter에서 saveAsTable 의 동작](https://charsyam.wordpress.com/2019/04/23/%EC%9E%85-%EA%B0%9C%EB%B0%9C-spark-dataframewriter%EC%97%90%EC%84%9C-saveastable-%EC%9D%98-%EB%8F%99%EC%9E%91/)
 * [Dynamic Shuffle Partitions in Spark SQL](http://blog.madhukaraphatak.com/dynamic-spark-shuffle-partitions/)
+* [Tech Chat: Faster Spark SQL: Adaptive Query Execution in Databricks - YouTube](https://www.youtube.com/watch?v=bQ33bwUE-ms)
 
 # Streaming
 * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
