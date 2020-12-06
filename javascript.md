@@ -1967,6 +1967,7 @@ Javascript
   * [Deno Introduction with Practical Examples](https://www.infoq.com/articles/deno-introduction-practical-examples/)
   * [Deno 1.5 Sees 3x Bundling Performance Improvement Due to Rust-Based JavaScript/TypeScript Compiler](https://www.infoq.com/news/2020/11/deno-15-released/)
   * [Aleph.js](https://alephjs.org/)
+  * [Deno-To-Do: ✅ To-Do App made with Deno, React.js & MongoDB](https://github.com/GoldenMaximo/Deno-To-Do)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
