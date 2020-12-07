@@ -123,6 +123,7 @@ Redis
 * [HSCAN](https://redis.io/commands/hscan) `hash name 0 \[match pattern>\]` patern = \*pattern or pattern\* or \*pattern\*
   * `hscan_iter` in python
   * [How to search a key pattern in redis hash?](https://stackoverflow.com/questions/35850608/how-to-search-a-key-pattern-in-redis-hash)
+  * [Redis scan 이용하기 Spring에서 (hscan)](https://tjdrnr05571.tistory.com/11)
 * redis-cli
   * [Writing a Redis client in pure Bash](http://digitalserb.me/writing-a-redis-client-in-pure-bash/)
   * `nc -v redis.mydomain.com 6379` [Linux - Install redis-cli only](https://stackoverflow.com/questions/21795340/linux-install-redis-cli-only)
