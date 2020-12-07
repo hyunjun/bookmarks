@@ -892,6 +892,7 @@ Java
   * [젠킨스 빌드 파일 캐시 문제](https://jojoldu.tistory.com/446)
   * [젠킨스 변경된 Slack Integration Token 등록하기](https://jojoldu.tistory.com/475)
   * [Jenkins 버전 업데이트하기](https://jojoldu.tistory.com/514)
+  * [IT 기업들에서 왜 Jenkins를 사용할까?](https://tjdrnr05571.tistory.com/12)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
   * [practice - install java11 using jenv](https://gist.github.com/hyunjun/88ad5a8172acf4801c903980ecba074e)
   * [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
