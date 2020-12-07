@@ -271,6 +271,7 @@ Business
 * [What is a Product Roadmap?](https://www.jibranelbazi.com/blog/what-is-a-product-roadmap)
 * [업무 인수인계 잘하기](https://brunch.co.kr/@lunarshore/37)
 * [B2B SaaS 가격책정 하는 법 | GeekNews](https://news.hada.io/topic?id=3091)
+* [스피드로 성공한 회사보다, 손익분기 맞춰 성공한 회사가 오래 간다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/181275)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
