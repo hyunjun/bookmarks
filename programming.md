@@ -900,6 +900,7 @@ Programming
 * [Microservice Architecture and Design Patterns for Microservices](https://medium.com/@madhukaudantha/microservice-architecture-and-design-patterns-for-microservices-e0e5013fd58a)
 * [State of Microfrontends](https://dev.to/florianrappl/state-of-microfrontends-1j3p)
 * [Event-Based Routing for Angular Micro Frontends | by Marcin Milewicz | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/event-based-routing-for-angular-micro-frontends-3bf2c9597ac1)
+* [Lessons from DAZN: Scaling Your Project with Micro-Frontends - YouTube](https://www.youtube.com/watch?v=tD1rcWSfYpo)
 * [마이크로서비스 배포 혁명](https://jflip.tistory.com/23)
 * [What Comes after Microservices? Multi-Runtime Microservices with Bilgin Ibryam at QCon London](https://www.infoq.com/news/2020/03/multi-runtime-microservices/)
 * [Microservices considered harmful](https://blog.matthieud.me/2019/microservices-considered-harmful/)
