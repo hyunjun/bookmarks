@@ -2134,6 +2134,7 @@ Programming
 * [(11월 28일) 소프트웨어 개발이 어려운 일곱 가지 이유](https://jhrogue.blogspot.com/2020/11/11-28.html) 아파치 오픈미팅즈, postgREST - PostgreSQL RESTful API, 소프트웨어 개발이 어려운 이유, C가 어려운 이유, ZeroSSL – Let’s Encrypt의 대안, 1인 SaaS 기술 스택, 자바 16, 노드 다이어트
   * [2020년 11월 28일 개발자 이야기](https://www2.slideshare.net/jrogue/2020-11-28)
   * [(11/28) 소프트웨어 개발이 어려운 일곱 가지 이유 - YouTube](https://www.youtube.com/watch?v=S7NOERXBPQs)
+* [(12월 5일) 스타트업, SI 개발자를 채용해도 될까?](https://jhrogue.blogspot.com/2020/12/12-5-si.html) reveal.js – HTML 프리젠테이션 프레임워크, 문서 저장소로서 sqlite3
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 
 # OS Operating System
