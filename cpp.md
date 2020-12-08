@@ -174,6 +174,7 @@ C++
 * [Creating a console animation with C++ | by Evans Ehiorobo | How-Tos | Medium](https://medium.com/building-a-simple-text-correction-tool/creating-a-console-animation-with-c-18bf9e8ca582)
 * [Ranges, Code Quality, and the Future of C++ | by Jason Meisel | Medium](https://medium.com/@jasonmeisel/ranges-code-quality-and-the-future-of-c-99adc6199608)
 * [Encapsulation in C++ and C. Code examples of achieving and… | by Kateryna Bondarenko | Medium](https://medium.com/@kateolenya/encapsulation-in-c-and-c-20dca9097e17)
+* [gflags (C++) uint32 지원 + ubuntu 16.04 – rein's world](https://rein.kr/blog/archives/5109)
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
