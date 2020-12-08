@@ -504,6 +504,8 @@ Clojure
 * [Clojure/north 2020 - YouTube](https://www.youtube.com/playlist?list=PL_arKaS8JOXHHaK715NZjVpfzKebcJD5U)
 * [DUTCH CLOJURE DAYS 2019](https://www.youtube.com/playlist?list=PLjzcwcP9P2Lfcz38lDtMF_XupRnecKokz)
 * [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
+* [re:Clojure 2020 conference day 1 - YouTube](https://www.youtube.com/watch?v=qRI1Ved0SfE)
+* [re:Clojure 2020 conference day 2 - YouTube](https://www.youtube.com/watch?v=NqWR_ysLkW8)
 
 # Debug
 * [Debugging in Clojure?](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
