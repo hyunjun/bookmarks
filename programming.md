@@ -402,6 +402,7 @@ Programming
 * [IT 알려주는 은행원 애자일 전문가 되는 비법 공개 - YouTube](https://www.youtube.com/watch?v=QJ4zM8CAKp0)
 * [스크럼에 대한 경험 및 개인적인 생각 - FutureSeller](https://future-seller.dev/posts/scrum-experience)
 * [Sprint & Jira](https://www.slideshare.net/seokjoonyun9/sprint-jira)
+* [Agile Testing Condensed Korean Edition by Janet Gregory et al.](https://leanpub.com/agiletesting-condensed-korean-edition)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
