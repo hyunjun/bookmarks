@@ -1136,6 +1136,7 @@ Deep Learning
 * [generative_inpainting: DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral](https://github.com/JiahuiYu/generative_inpainting)
   * [Image Inpainting](https://master-generative-inpainting-woomurf.endpoint.ainize.ai/)
   * [generative_inpainting: DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral](https://ainize.ai/woomurf/generative_inpainting)
+* [sefa: Code for paper `Closed-Form Factorization of Latent Semantics in GANs`](https://github.com/genforce/sefa)
 * [TGAN - Generative adversarial training for synthesizing tabular data https://sdv-dev.github.io/TGAN ](https://github.com/sdv-dev/TGAN)
 
 # Library
