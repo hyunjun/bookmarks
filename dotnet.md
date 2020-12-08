@@ -112,6 +112,7 @@
   * [Libplanet 0.7 릴리스](https://snack.planetarium.dev/kor/2019/11/libplanet-0.7/)
   * [Libplanet 0.8 릴리스](https://snack.planetarium.dev/kor/2020/02/libplanet-0.8/)
   * [Libplanet 0.9 릴리스](https://snack.planetarium.dev/kor/2020/04/libplanet-0.9/)
+  * [Libplanet 0.10 릴리스](https://snack.planetarium.dev/kor/2020/12/libplanet-0.10/)
   * [NAT를 넘어서 가자](https://snack.planetarium.dev/kor/2019/04/nat_traversal_1/)
   * [예제로 보는 TURN](https://snack.planetarium.dev/kor/2019/06/nat_traversal_2/)
   * [Unity 환경에서 단위 테스트 돌리기](https://snack.planetarium.dev/kor/2019/06/xunit-unity-runner/)
