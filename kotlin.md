@@ -189,6 +189,7 @@
 * [**Android 개발을 수주해서 Kotlin을 제대로 써봤더니 최고였다**](https://gist.github.com/Hazealign/1bbc586ded1649a8f08f)
 * [Kotlin으로 Android개발 하기](https://developer88.tistory.com/171)
 * [Android Development Course - Build Native Apps with Kotlin](https://www.youtube.com/watch?v=Iz08OTTjR04)
+* [안드로이드의 익숙한 BaseXXX class를 알아보고, 설계의 중요성을 알아보자.](https://thdev.tech/kotlin/2020/12/08/kotlin_effective_14/)
 
 # API
 * [Kotlin 키워드 및 연산자 해부 (1) — Hard Keywords](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-1-hard-keywords-3062f5fe2d11)
@@ -274,3 +275,4 @@
 * [React’s TicTacToe tutorial, in Kotlin/JavaFX](https://blog.plan99.net/reacts-tictactoe-tutorial-in-kotlin-javafx-715c75a947d2)
 * [(완결) 왕초보를 위한 디모의 가장 쉬운 코틀린 Kotlin 강좌 - YouTube](https://www.youtube.com/playlist?list=PLQdnHjXZyYadiw5aV3p6DwUdXV2bZuhlN)
 * [An introduction to context-oriented programming in Kotlin | by Alexander Nozik | ProAndroidDev](https://proandroiddev.com/an-introduction-context-oriented-programming-in-kotlin-2e79d316b0a2)
+* [interview-at-some-company](https://github.com/wooseopkim/interview-at-some-company)
