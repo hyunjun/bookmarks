@@ -52,6 +52,7 @@ SQL
   * [(즐겁게 배우는 SQL #7) 데이터를 필터링하자 - in](https://jhrogue.blogspot.com/2020/12/sql-7-in.html)
   * [(즐겁게 배우는 SQL #8) 데이터를 필터링하자 - like](https://jhrogue.blogspot.com/2020/12/sql-8-like.html)
   * [(즐겁게 배우는 SQL #9) 데이터를 필터링하자 - GLOB](https://jhrogue.blogspot.com/2020/12/sql-9-glob.html)
+  * [(즐겁게 배우는 SQL #10) 데이터를 필터링하자 - IS NULL](https://jhrogue.blogspot.com/2020/12/sql-10-is-null.html)
 * [고독쓰나미 - YouTube](https://www.youtube.com/channel/UClUrjhtzmAJL-sgXe6sNUkw)
 * [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
 * [EDB is a framework to make and manage backups of your database](https://github.com/RoxasShadow/EDB)
