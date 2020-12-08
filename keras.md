@@ -292,6 +292,7 @@ Keras
 * [How to Develop LSTM Models for Multi-Step Time Series Forecasting of Household Power Consumption](https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/)
 * [Choosing the right Hyperparameters for a simple LSTM using Keras](https://towardsdatascience.com/choosing-the-right-hyperparameters-for-a-simple-lstm-using-keras-f8e9ed76f046)
 * [Stateful LSTM in Keras](http://philipperemy.github.io/keras-stateful-lstm/)
+* [Keras에서 Sequence를 이용하여 대용량 데이터셋 처리하기 | KWANGSIK LEE's log](http://www.kwangsiklee.com/2018/11/keras%EC%97%90%EC%84%9C-sequence%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EB%8C%80%EC%9A%A9%EB%9F%89-%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0/)
 
 # RNN Recurrent Neural Network
 * [How to Visualize Your Recurrent Neural Network with Attention in Keras](https://medium.com/datalogue/attention-in-keras-1892773a4f22)
