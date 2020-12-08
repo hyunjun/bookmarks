@@ -17,6 +17,7 @@ Politics
 * [변호사가 쓰는 경찰 조사 체험기(세월호 집회): 경찰 조사에 앞서 준비할 것들](http://slownews.kr/46192)
 * [그들의 찌라시를 분석한다 ①](http://ppss.kr/archives/59347)
 * [그들의 찌라시를 분석한다 ② – 친일 방어 논리편](http://ppss.kr/archives/59765)
+* [신공항을 둘러싼 치열한 ‘정치 드라마’ - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=43298) 글 전개 방식이 좋아서
 
 # 한국
 * [**시대정신을 묻는다**](http://www.huffingtonpost.kr/zeitgeist-korea/)
