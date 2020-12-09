@@ -609,6 +609,8 @@
   * [Making Apache Spark™ Better with Delta Lake - YouTube](https://www.youtube.com/watch?v=LJtShrQqYZY)
   * [Tech Talk: Top Tuning Tips for Spark 3.0 and Delta Lake on Databricks - YouTube](https://www.youtube.com/watch?v=hcoMHnTcvmg)
   * [Delta Lakehouse Data Profiler and SQL Analytics Demo - YouTube](https://www.youtube.com/watch?v=58nT52VTzsQ)
+  * [Optimising Geospatial Queries with Dynamic File Pruning - YouTube](https://www.youtube.com/watch?v=3D5WhCqfOo8)
+  * [Demystifying Delta Lake. Data Brew | Episode 3 - YouTube](https://www.youtube.com/watch?v=Zws7u9DC5SE)
 * [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)
 * EMR
   * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
