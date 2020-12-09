@@ -2454,6 +2454,7 @@ Programming
 * [유용한 테스트 케이스를 위한 개발자의 자세 : TOAST Meetup](https://meetup.toast.com/posts/246)
 * [Yes, TDD Slows You Down. And that’s OK | by Alessandro Diaferia | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/yes-tdd-slows-you-down-c7ee154ec322)
 * [Learning from Bugs and Testers: Testing Boeing 777 Full Flight Simulators](https://www.infoq.com/articles/testing-boeing-flight-simulators-software/)
+* [프로젝트 관리, 테스트 케이스의 중요성](https://brunch.co.kr/@zigzag/30)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
