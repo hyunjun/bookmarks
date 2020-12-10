@@ -119,6 +119,7 @@ Hadoop
 * [Cloudera](https://www.youtube.com/watch?v=qRfgAqkmQDY)
 * [Cloudera 하둡 빅데이터 플랫폼](https://www.youtube.com/watch?v=jtuVqwSlDKQ)
 * [NVIDIA Volta GPU Architecture](https://www.youtube.com/watch?v=-8BwJRxgWWg)
+* [Hadoop&Echosystem 빠르게 훑기 with 핸즈온 (2편) : IBM 클라우더스 오픈 토크 - YouTube](https://www.youtube.com/watch?v=_bl5pTjVwsg)
 
 # Book
 * [빅데이터 - 하둡, 하이브로 시작하기](https://wikidocs.net/book/2203)
