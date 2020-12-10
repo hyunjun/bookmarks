@@ -612,6 +612,8 @@ NLP
 * [구글의 Open-Domain 챗봇 'Meena' 논문 리뷰](https://blog.pingpong.us/meena-presentation/)
 * [Build a WhatsApp Chatbot With Ruby, Sinatra, and Twilio](https://medium.com/better-programming/build-a-whatsapp-chatbot-with-ruby-sinatra-and-twilio-69482ea1e8e8)
 * [Dialogue Generation](https://pingpong.us/ko/generation/)
+* [일상대화 챗봇 분석 시스템 구축기 1편 - 데이터 파이프라인 편 – 핑퐁팀 블로그](https://blog.pingpong.us/chatbot-data-pipeline/)
+* [일상대화 챗봇 분석 시스템 구축기 2편 - 데이터 시각화 편 – 핑퐁팀 블로그](https://blog.pingpong.us/chatbot-data-visualization/)
 
 ## ChatBot Python
 * [Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
@@ -1307,6 +1309,7 @@ NLP
 * [sentiment_dataset](https://github.com/AcademiaSinicaNLPLab/sentiment_dataset)
 * [Sentiment Analysis using Deep Learning with Tensorflow](https://medium.com/analytics-vidhya/sentiment-analysis-using-deep-learning-with-tensorflow-2bb176c40257)
 * [python-machine-learning-book-3rd-edition 네이버 영화 리뷰 감성 분류](https://github.com/rickiepark/python-machine-learning-book-3rd-edition/blob/master/ch08/naver_movie_review.ipynb)
+* [Sentiment Analysis (Opinion Mining) with Python - NLP Tutorial | Towards AI](https://medium.com/towards-artificial-intelligence/sentiment-analysis-opinion-mining-with-python-nlp-tutorial-d1f173ca4e3c)
 * [HuggingFace KoElectra로 NSMC 감성분석 Fine-tuning해보기 | by 김희규 | Aug, 2020 | Medium](https://medium.com/@heegyukim/huggingface-koelectra%EB%A1%9C-nsmc-%EA%B0%90%EC%84%B1%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-1a23a0c704af)
 * vader
   * [Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
@@ -1520,6 +1523,7 @@ NLP
 * [NLP 언제까지 미룰래? 일단 들어와!! #3. Vectorization - DACON](https://dacon.io/codeshare/1841)
 * [NLP 언제까지 미룰래? 일단 들어와!! #4. word embedding - DACON](https://dacon.io/codeshare/1892)
 * [NLP 언제까지 미룰래? 일단 들어와!! #5. Modeling(완) - DACON](https://dacon.io/codeshare/1893)
+* [nlp-review: nlp review repository for jiphyeonjeon group](https://github.com/jiphyeonjeon/nlp-review)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
