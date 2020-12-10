@@ -313,6 +313,7 @@ Programming
 * [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 1편](https://www.popit.kr/스타트업-개발자-혼자-빠르게-싸게-서버-구축하기-1편/)
 * [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 2편](https://www.popit.kr/스타트업-개발자-혼자-빠르게-싸게-서버-구축하기-2편/)
 * [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 3편](https://www.popit.kr/스타트업-개발자-혼자-빠르게-싸게-서버-구축하기-3편/) NGINX
+* [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 4편 빌드와 배포 | Popit](https://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-4%ED%8E%B8/)
 * [EOF is not a character](https://ruslanspivak.com/eofnotchar/)
 * [**5 Famous Programming Quotes, Explained**](https://medium.com/young-coder/5-famous-programming-quotes-explained-4da607906c1)
 * [다양한 소프트웨어 버전 명명 (Software versioning)](https://blog.sonim1.com/243)
@@ -704,6 +705,7 @@ Programming
 * [**Architecture Playbook — Architecture Playbook**](https://nocomplexity.com/documents/arplaybook/index.html)
 * [Lv0 에서 Lv2 까지 - 인프런 서비스 리뉴얼 - Hyung Joo](https://www.hyungjoo.me/4%EB%85%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%B0-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%98%A4%ED%94%88/)
 * [A Cloud-Native Architecture for a Digital Enterprise](https://www.infoq.com/articles/cloud-native-architecture/)
+* [Hide :: Stripe 결제 시스템 도입하기](https://hides.tistory.com/1073)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -938,6 +940,7 @@ Programming
 * [Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo)
 * [이벤트 주도 아키텍처는 어떤 이점을 주는가?](https://www.popit.kr/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%9D%B4%EC%A0%90%EC%9D%84-%EC%A3%BC%EB%8A%94%EA%B0%80/)
 * [From Monolith to Event-Driven: Finding Seams in Your Future Architecture](https://www.infoq.com/articles/event-driven-finding-seams/)
+* [Kafka와 MongoDB, Kubernetes로 유연하고 확장 가능한 LINE 쇼핑 플랫폼 구축하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-shopping-platform-kafka-mongodb-kubernetes/)
 
 ## Architecture Serverless
 * [Serverless-ish: A scaling story - Queue-based Autoscaling Microservices](https://codeburst.io/serverless-ish-a-scaling-story-5732945b93ab)
