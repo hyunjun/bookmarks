@@ -399,6 +399,8 @@ PyTorch
 * [OpenNMT_Library_Tutorial_Using_Colab](https://github.com/Parkchanjun/OpenNMT_Library_Tutorial_Using_Colab)
 
 # Tutorial
+* [준비 운동: NumPy — PyTorch Tutorials 1.6.0 documentation](https://tutorials.pytorch.kr/beginner/examples_tensor/two_layer_net_numpy.html)
+  * [SpeechRecgnition/matrix-multiplication-backpropagation.pdf at main · hccho2/SpeechRecgnition](https://github.com/hccho2/SpeechRecgnition/blob/main/matrix-multiplication-backpropagation.pdf)
 * [ADVANCED: MAKING DYNAMIC DECISIONS AND THE BI-LSTM CRF](https://pytorch.org/tutorials/beginner/nlp/advanced_tutorial.html)
 * [Implementing a linear-chain Conditional Random Field (CRF) in PyTorch](https://www.notion.so/Implementing-a-linear-chain-Conditional-Random-Field-CRF-in-PyTorch-a3e9e19bc94e4ad1b8cbf7b62b624945)
 * [Tutorial: Deep Learning in PyTorch](https://iamtrask.github.io/2017/01/15/pytorch-tutorial/)
