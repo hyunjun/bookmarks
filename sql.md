@@ -230,6 +230,7 @@ SQL
 * [토크ON세미나 47차. SQL 데이터분석 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheDlm4xo7xHbOLodw1VwLcL)
 * [쿼리 수행시간 확인방법](https://blog.naver.com/smonone/221508523991)
 * [Docker + MSSQL 개발하기](https://hyesunzzang.tistory.com/91)
+* [SQL서버 커밋할 수 없는 트랜잭션](https://hackhyun.tistory.com/288)
 
 # MySQL
 * practice
