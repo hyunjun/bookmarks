@@ -922,6 +922,7 @@ AWS
 * [AWS Sagemaker Ground Truth로 훈련용 이미지를 편하게 분류하자](https://helloworld.kurly.com/blog/aws-ground-truth/)
 * [Amazon SageMaker Operators for Kubernetes—examples for distributed training, hyperparameter tuning and model hosting](https://towardsdatascience.com/kubernetes-and-amazon-sagemaker-for-machine-learning-distributed-training-hyperparameter-tuning-187c821e25b4)
 * [Sagemaker Github Actions - YouTube](https://www.youtube.com/watch?v=SjqPeL4QJao)
+* [Introducing SageMaker Data Parallelism - AWS re:Invent 2020 - YouTube](https://www.youtube.com/watch?v=qS4VgHocAGQ)
 
 # TDD, Test
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
