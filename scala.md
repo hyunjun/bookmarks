@@ -436,6 +436,7 @@ Scala
 * [Building a Reactive, Distributed Messaging Server in Scala and Akka with WebSockets | by Nimrod Sadeh | Aug, 2020 | Medium](https://medium.com/@nnnsadeh/building-a-reactive-distributed-messaging-server-in-scala-and-akka-with-websockets-c70440c494e3)
 * [Attending a hackathon with Scala and Akka (Streams) on Microsoft Azure | The epic.blog](https://epic.blog/akka/2020/10/05/hackathon-with-scala-akka-on-azure.html)
 * [A case for akka-coordination lease | by Michał Ostruszka | Nov, 2020 | SoftwareMill Tech Blog](https://blog.softwaremill.com/a-case-for-akka-coordination-lease-4867887e4d7f)
+* [Akka Platform Guide :: Akka Platform Guide](https://developer.lightbend.com/docs/akka-platform-guide/index.html)
 * [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
@@ -1251,6 +1252,7 @@ Scala
   * [Tapir codecs get an update](https://blog.softwaremill.com/tapir-codecs-get-an-update-c9801889cbf3)
   * [Defining the server logic for an endpoint: three approaches](https://blog.softwaremill.com/defining-the-server-logic-for-an-endpoint-three-approaches-82b280954641)
   * [Designing tapir’s WebSockets support | by Adam Warski | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/designing-tapirs-websockets-support-ff1573166368)
+  * [Tapir vs Endpoints4s - The battle of the endpoints definition!](https://scalac.io/tapir-vs-endpoints4s/)
 
 ## Library Json
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
@@ -1735,6 +1737,8 @@ Scala
 * [Emily Pillmore: Type Arithmetic and the Yoneda Lemma - YouTube](https://www.youtube.com/watch?v=aXS5HZ_1fNQ)
 * [Types, Kinds and Type Constructors in Scala - Rock the JVM Blog](https://blog.rockthejvm.com/scala-types-kinds/)
   * [Variance Positions in Scala, Demystified | Rock the JVM - YouTube](https://www.youtube.com/watch?v=aUmj7jnXet4)
+* [Opaque Type Aliases and Open Classes | by Dean Wampler | Scala 3 | Nov, 2020 | Medium](https://medium.com/scala-3/opaque-type-aliases-and-open-classes-13076a6c07e4)
+* [Type classes with Scala 2](https://justinhj.github.io/2020/12/06/type-classes-scala-2.html)
 * HasId pattern
   * [HasId.scala](https://gist.github.com/knutwalker/788acb4c7ae9782fdf67)
   * [Scala Best Practices - Type class](https://nrinaudo.github.io/scala-best-practices/definitions/type_class.html)
