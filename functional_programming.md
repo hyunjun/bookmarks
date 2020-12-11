@@ -406,6 +406,7 @@ Functional Programming
 * [Part 5 - Basics of Final-tagless / ZIO](https://www.matfournier.com/2020-02-23-getting-funcey-part5-io/)
 * [Divide, conquer, choose, ap and alt by Samuel Halliday at Scala in the City October 2020 - YouTube](https://www.youtube.com/watch?v=JmOFKdpuF9g)
 * [Let’s apply functional programming to solve a practical problem | SoftwareMill Tech Blog](https://blog.softwaremill.com/functional-pancakes-cf70023f0dcb)
+* [Programming with Functions #1 - Introduction - YouTube](https://www.youtube.com/watch?v=FNQ7OsCSpc8)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
