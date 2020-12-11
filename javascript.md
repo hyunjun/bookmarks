@@ -1081,6 +1081,7 @@ Javascript
   * [Prisma로 GraphQL을 쉽게 도입하기](https://medium.com/labelstore/prisma%EB%A1%9C-graphql%EC%9D%84-%EC%89%BD%EA%B2%8C-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-fa64dcf63382)
   * [Prisma, 넌 누구니?](https://velog.io/@ltnscp9028/Prisma-%EB%84%8C-%EB%88%84%EA%B5%AC%EB%8B%88-gr0ecme3)
   * [Prisma Schema 넌 누구니 ?](https://velog.io/@ltnscp9028/Prisma-Schema-%EB%84%8C-%EB%88%84%EA%B5%AC%EB%8B%88)
+  * [Prisma Model, 넌 누구니 ?](https://velog.io/@ltnscp9028/Prisma-Model-%EB%84%8C-%EB%88%84%EA%B5%AC%EB%8B%88)
 * [How To Get Started With GraphQL](https://medium.com/@PrinceAshburton/how-to-get-started-with-graphql-a3fbe3d154a1)
 * [Writing Your First GraphQL Queries](https://hackingandslacking.com/writing-your-first-graphql-queries-b47ff7f0474c)
 * [GraphQL and Relay: what are they and why do they matter?](https://hackernoon.com/graphql-and-relay-what-are-they-and-why-do-they-matter-d8dfcc3ce2ac)
