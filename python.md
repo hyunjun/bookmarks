@@ -1000,6 +1000,7 @@ Python
     * [Running a method as a background process in Python](https://dev.to/hasansajedi/running-a-method-as-a-background-process-in-python-21li)
     * [Using Locks to Prevent Data Races in Threads in Python | by Rachit Tayal | Python Features | Medium](https://medium.com/python-features/using-locks-to-prevent-data-races-in-threads-in-python-b03dfcfbadd6)
     * [Threads in Python. The basics. | by Keno Leon | Medium](https://medium.com/@k3no/threads-in-python-420fccf9bde5)
+    * [Threads in Python: Speed Up Python With Concurrency - YouTube](https://www.youtube.com/watch?v=OtdL6jeyEE4)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
   * [typing.NamedTuple](http://mkseo.pe.kr/blog/?p=2699)
