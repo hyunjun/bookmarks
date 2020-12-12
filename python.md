@@ -318,6 +318,7 @@ Python
 * [번역 파이썬 함수 작성 시 자주 범하는 실수 5가지](https://lazymatlab.tistory.com/109)
 * [7 Modern Python Mistakes To Fix NOW! | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/7-modern-python-mistakes-to-fix-now-6ff6f1dedbf3)
 * [Python Beginner Projects 2020 - Add them to your resume!](https://morioh.com/p/8d006da3ab25)
+* [12 Beginner Python Projects - Coding Course - YouTube](https://www.youtube.com/watch?v=8ext9G7xspg)
 * [Watch a Directory for Changes](http://timgolden.me.uk/python/win32_how_do_i/watch_directory_for_changes.html)
 * [**파이썬 (doc) 스타일 가이드에 대한 정리**](https://medium.com/@kkweon/%ED%8C%8C%EC%9D%B4%EC%8D%AC-doc-%EC%8A%A4%ED%83%80%EC%9D%BC-%EA%B0%80%EC%9D%B4%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A0%95%EB%A6%AC-b6d27cd0a27c)
 * [Why are slots so slow?](https://www.corsix.org/content/why-are-slots-so-slow)
