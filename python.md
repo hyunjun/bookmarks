@@ -411,6 +411,7 @@ Python
 * [파이썬으로 SAP Script 실행하기 (with argument)](https://kminito.tistory.com/10)
 * [futurecoder: A platform for beginners to learn programming in Python](https://github.com/alexmojaki/futurecoder)
 * [Mutability and Immutability in Python — Let’s Break It Down | by Wendy Leung | Data Driven Investor | Medium](https://medium.com/datadriveninvestor/mutable-and-immutable-python-2093deeac8d9)
+* [5 Levels of Understanding the Mutability of Python Objects | by Yang Zhou | TechToFreedom | Dec, 2020 | Medium](https://medium.com/techtofreedom/5-levels-of-understanding-the-mutability-of-python-objects-a5ed839d6c24)
 * [Understanding Python Operator Overloading to prevent wrong code | by Doojin Kang | Aug, 2020 | Medium](https://medium.com/@doojin.kang/understanding-python-operator-overloading-to-prevent-wrong-code-a96668e6c263)
 * [Chiel Peters - Python: From Source to Execution | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=xfC5o8HxaBk)
 * [Clean Code in Python. “A long descriptive name is better than… | by Esteban Solorzano | Dev Genius | Medium](https://medium.com/dev-genius/clean-code-in-python-8251eea292fa)
