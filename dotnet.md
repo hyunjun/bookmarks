@@ -166,6 +166,7 @@
   * [5분 따라하기 비주얼 스튜디오 C++에서 JSON 파서 설치하기 - YouTube](https://www.youtube.com/watch?v=KH3mirEkZKU)
 * [프리지아 랩 :: DEP0700 : Registration of the app failed](https://www.dokyun.pe.kr/257)
 * [마이크로소프트 비주얼 스튜디오, ‘C 언어’ 지원 강화 - CIO Korea](http://www.ciokorea.com/news/164980)
+* [Microsoft Releases Git Experience in Visual Studio](https://www.infoq.com/news/2020/11/ms-git-experience-visual-studio/)
 
 ## Visual Studio Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)
