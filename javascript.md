@@ -558,6 +558,7 @@ Javascript
 * [JAVASCRIPT GETTER-SETTER PYRAMID](https://staltz.com/javascript-getter-setter-pyramid.html)
   * [André Staltz: Two Fundamental Abstractions - Uphill Conf 2018](https://www.youtube.com/watch?v=fdol03pcvMA)
 * [How to use the apply(💅), call(📞), and bind(➰) methods in JavaScript](https://medium.freecodecamp.org/how-to-use-the-apply-call-and-bind-methods-in-javascript-80a8e6096a90)
+* [bind(), call(), and apply() in JavaScript - DEV](https://dev.to/rajatmehra05/bind-call-and-apply-in-javascript-3ml)
 * [When to capitalize your JavaScript constants](https://medium.freecodecamp.org/when-to-capitalize-your-javascript-constants-4fabc0a4a4c4)
 * [Here are the most popular ways to make an HTTP request in JavaScript](https://medium.freecodecamp.org/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa)
 * [Comparing different ways to make HTTP requests in Javascript in 2020](https://medium.com/javascript-in-plain-english/comparing-different-ways-to-make-http-requests-in-javascript-39ab0f090788)
@@ -861,23 +862,24 @@ Javascript
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
 # Book
-* [try! helloworld 자바스크립트](https://thebook.io/006894/)
-* [Front-end Handbook - The resources and tools for learning about the practice of front-end development](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
-* [Eloquent JavaScript 3RD EDITION](http://eloquentjavascript.net/)
-* [The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
-* [The JavaScript Beginner's Handbook (2020 Edition)](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
-* [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read_full)
-* [JavaScript for impatient programmers (ES2020 edition)](https://exploringjs.com/impatient-js/index.html)
-* [The Road to learn React](https://leanpub.com/the-road-to-learn-react/read_full)
-* [Reintroducing React](https://leanpub.com/reintroducing-react)
 * [The Beginners Guide To Node.js](https://leanpub.com/nodejsbasics/read_full)
-* [PureScript by Example](https://leanpub.com/purescript/read_full)
-* [Structure and Interpretation of Computer Programs — JavaScript Adaptation](https://sicp.comp.nus.edu.sg/index.html) SICP javascript edition
 * [clean-code-javascript](https://github.com/qkraudghgh/clean-code-javascript-ko)
 * [clean-code-javascript - Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
+* [The Complete JavaScript Handbook](https://medium.freecodecamp.org/the-complete-javascript-handbook-f26b2c71719c)
+* [Front-end Handbook - The resources and tools for learning about the practice of front-end development](https://www.gitbook.com/book/frontendmasters/front-end-handbook/details)
+* [Eloquent JavaScript 3RD EDITION](http://eloquentjavascript.net/)
+* [flaviocopes 12 ebooks](https://flaviocopes.com/page/list-subscribed/)
+* [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read_full)
+* [The JavaScript Beginner's Handbook (2020 Edition)](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
+* [JavaScript for impatient programmers (ES2020 edition)](https://exploringjs.com/impatient-js/index.html)
 * [Mastering Async/Await](https://thecodebarbarian.com/new-ebook-mastering-async-await.html)
   * [Mastering Async/Await - Async/Await 마스터 하기](https://gcback-1.gitbook.io/mastering-async-await-by-valeri-karpov/)
-* [flaviocopes 12 ebooks](https://flaviocopes.com/page/list-subscribed/)
+* [PureScript by Example](https://leanpub.com/purescript/read_full)
+* [Reintroducing React](https://leanpub.com/reintroducing-react)
+* [The Road to learn React](https://leanpub.com/the-road-to-learn-react/read_full)
+* [Structure and Interpretation of Computer Programs — JavaScript Adaptation](https://sicp.comp.nus.edu.sg/index.html) SICP javascript edition
+* [try! helloworld 자바스크립트](https://thebook.io/006894/)
+* [You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter.](https://github.com/getify/You-Dont-Know-JS)
 
 # Chart
 * [3 best JavaScript charts libraries comparison： Fusioncharts, VanCharts and Highcharts](http://www.vancharts.com/resource/JavaScript-charts-comparison.html)
@@ -1146,6 +1148,11 @@ Javascript
 
 # Library
 * [**RealWorld example apps - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more 🏅 https://realworld.io **](https://github.com/gothinkster/realworld)
+  * [Home — Conduit](https://demo.realworld.io/#/) demo
+  * * Medium 블로그 서비스 클론. 거의 모든 프레임워크로 똑같이 만들어 보는 오픈소스 프로젝트 → 같은 API 스펙이라 프론트/백엔드 스택 마음대로 매칭 가능
+  * 프론트 (29가지): React/Redux, Angular, Vue, Elm, Svelte/Sapper, Next, Ember, Riot ...
+  * 백엔드 (41가지): Node/Express, Go/Gin, NextJS, Django, Laravel, Flask, Spring, Rails, AWS Lambda/DynamoDB, Scala/Play, CakePHP, Kotlin/http4k, Vert.x ...
+  * 모바일 : NativeScript(Angular)
 * [javascripting.com - The definitive source of the best JavaScript libraries, frameworks, and plugins](https://www.javascripting.com/)
 * [The deepest reason why modern JavaScript frameworks exist](https://medium.com/dailyjs/the-deepest-reason-why-modern-javascript-frameworks-exist-933b86ebc445)
 * [A Real-World Comparison of Front-End Frameworks with Benchmarks (2018 update)](https://medium.freecodecamp.org/a-real-world-comparison-of-front-end-frameworks-with-benchmarks-2018-update-e5760fb4a962)
@@ -1470,6 +1477,7 @@ Javascript
 * [RapydScript Pythonic JavaScript that doesn't suck](http://www.rapydscript.com/)
 * [reddit shell is a web based linux shell emulator written in JavaScript that lets you browse and interact with reddit via command line https://redditshell.com ](https://github.com/jasonbio/reddit-shell)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
+* reveal.js [The HTML presentation framework | reveal.js](https://revealjs.com/#/)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
 * [rockets - Broadcasts new posts and comments as they are created on reddit.com](https://github.com/rtheunissen/rockets)
@@ -1970,6 +1978,7 @@ Javascript
   * [Deno Introduction with Practical Examples](https://www.infoq.com/articles/deno-introduction-practical-examples/)
   * [Deno 1.5 Sees 3x Bundling Performance Improvement Due to Rust-Based JavaScript/TypeScript Compiler](https://www.infoq.com/news/2020/11/deno-15-released/)
   * [Aleph.js](https://alephjs.org/)
+    * [Server-Rendered Web Applications in Deno with Aleph.js](https://www.infoq.com/news/2020/11/aleph-deno-web-app-nextJS/)
   * [Deno-To-Do: ✅ To-Do App made with Deno, React.js & MongoDB](https://github.com/GoldenMaximo/Deno-To-Do)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
@@ -3411,4 +3420,5 @@ Javascript
 * [reactivue: 🙊 Use Vue Composition API in React components](https://github.com/antfu/reactivue)
 * [resume: 🍀 Resume template](https://github.com/leegeunhyeok/resume)
 * [vue-http-client](https://github.com/parkjungwoong/vue-http-client)
+* [VuePress](https://vuepress.vuejs.org/)
 * [vue-state-store: 📦 Vue State Management (with Publish & Subscribe pattern)](https://github.com/ahaofficial/vue-state-store)
