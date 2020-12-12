@@ -24,6 +24,7 @@ Monitoring
 * [오픈소스 모니터링 솔루션 소개 - Prometheus, Scouter 등](http://www.opennaru.com/apm/open-source-monitoring-tool/)
 * [Monitoring demystified: A guide for logging, tracing, metrics | TechBeacon](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
 * [120가지 사용자 행동 분석을 자동화할 수 있는 '데이터 제품' 만들기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/data-analytics-platform-lua-analytics/)
+* [Monitoring Microservices the Right Way](https://www.infoq.com/articles/microservice-monitoring-right-way/)
 
 # Grafana
 * [Grafana - Graphing System Statistics with Grafana](http://blog.endpoint.com/2015/08/graphing-system-statistics-with-grafana.html)
@@ -44,6 +45,7 @@ Monitoring
 * [Monitoring Servers and Docker Containers using Elasticsearch with Grafana](https://medium.com/skedler/monitoring-servers-and-docker-containers-using-elasticsearch-with-grafana-c61dab0a34a2)
 * [Grafana](https://www.youtube.com/playlist?list=PLVx1qovxj-akOGKSoQ5sGc5ZRfH8Tpnow)
 * [그라파나(Grafana)란? | 44BITS](https://www.44bits.io/ko/keyword/grafana)
+* Grafana Tempo [Grafana Announces Grafana Tempo, a Distributed Tracing System](https://www.infoq.com/news/2020/12/grafana-tempo-distributed-tracin/)
 * [Loki tutorial: How to send logs from EKS with Promtail to get full visibility in Grafana | Grafana Labs](https://grafana.com/blog/2020/07/21/loki-tutorial-how-to-send-logs-from-eks-with-promtail-to-get-full-visibility-in-grafana/)
 
 # Library
