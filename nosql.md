@@ -458,6 +458,10 @@ NoSQL
 * [Supporting 4 Million transactions per second and 7 TB of data per node with Scylla on Oracle Cloud Infrastructure](https://blogs.oracle.com/cloud-infrastructure/scylla-on-oracle-cloud-infrastructure)
 * [Scylla Summit 2017: Running a Soft Real-time Service at One Million QPS](https://youtu.be/HhGvA75F1xM)
 
+# Supabase
+* [The Open Source Alternative to Firebase. | The Open Source Firebase Alternative | Supabase](https://supabase.io/)
+* [Supabase 공개 베타 시작 - 오픈소스 Firebase 대체제 | GeekNews](https://news.hada.io/topic?id=3347)
+
 # [Tarantool - Get your data in RAM. Get compute close to data. Enjoy the performance](http://tarantool.org/)
 
 # [Terracotta](http://terracotta.org/products/bigmemory)
