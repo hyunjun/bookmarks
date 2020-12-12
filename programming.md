@@ -208,6 +208,7 @@ Programming
   * [joinc.co.kr/w/man/12/sre/imple](https://www.joinc.co.kr/w/man/12/sre/imple)
 * [네이버 검색의 SRE 시스템](https://d2.naver.com/helloworld/2047663)
 * [SRE 팀에서 장애의 root cause를 찾고 재발방지 하는 방법 - 우아한형제들 기술 블로그](https://woowabros.github.io/sre/2020/11/11/sre-troubleshoooting.html)
+* [**school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role**](https://github.com/linkedin/school-of-sre)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Teach Yourself Programming in Ten Years**](http://norvig.com/21-days.html)
 * [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
@@ -437,6 +438,7 @@ Programming
 * [API design guidance - Best practices for cloud applications | Microsoft Docs](https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design)
 * [APIs for Beginners - Learn how to use APIs in this free video course](https://www.freecodecamp.org/news/apis-for-beginners-full-course/)
 * [Elle Townsend | My 5 favourite APIs | The Startup](https://medium.com/swlh/my-top-5-apis-for-new-developers-5191031da102)
+* [A Seven-Step Guide to API-First Integration](https://www.infoq.com/articles/api-first-integration/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
 * [KAKAO REST API](https://developer-ankiwoong.tistory.com/748)
@@ -734,6 +736,7 @@ Programming
 * [How to Avoid Cascading Failures in Distributed Systems](https://www.infoq.com/articles/anatomy-cascading-failure/)
 * [Why Distributed Systems Are Hard](https://www.infoq.com/presentations/distributed-systems-complexity-human-factor/)
   * [Why Distributed Systems Are Hard - YouTube](https://www.youtube.com/watch?v=w9GP7MNbaRc)
+* [Distributed Systems Reading List](https://dancres.github.io/Pages/)
 * [etcd | Home](https://etcd.io/)
   * [A Few Notes on Etcd Maintenance. Learnings on provisioning, compaction… | by Tasdik Rahman | Gojek Product + Tech](https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe)
 
@@ -1023,6 +1026,7 @@ Programming
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 * [hacker shelf](http://hackershelf.com/)
 * [oreilly.com/programming/free](http://www.oreilly.com/programming/free/)
+* [Professional Software Development 2020.02](https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html)
 * [Site Reliability Engineering](https://landing.google.com/sre/book/chapters/foreword.html)
   * [구글, 사이트 신뢰성 워크북(SRE Workbook) 공개](https://www.44bits.io/ko/post/news--site-reliability-workbook-is-published)
   * [구글에서 세 번째 SRE 도서 Building Secure and Reliable Systems 무료 공개](https://www.44bits.io/ko/post/third-free-sre-book-build-seruce-and-reliable-system)
@@ -1038,6 +1042,7 @@ Programming
 * [earthly - Build automation for the container era](https://github.com/earthly/earthly)
   * [Earthly - Builds in container era](https://vladaionescu.com/introducing-earthly-build-automation-for-the-container-era-55619c63c3e)
 * [Pants: A fast, scalable build system](https://pantsbuild.github.io/)
+* [Please](https://please.build/)
 
 # Cloud
 * [aws](aws.md)
@@ -1152,6 +1157,7 @@ Programming
 * [시니어 엔지니어로 넘어가기 위한 기술: 코드 읽기](http://mkseo.pe.kr/blog/?p=2737)
 * [Code Review Best Practices at Google | Better Programming](https://medium.com/better-programming/13-code-review-standards-inspired-by-google-6b8f99f7fd67)
 * [When DRY Doesn’t Work, Go WET. It’s okay if you repeat yourself | by Nick Bull | Better Programming | Medium](https://medium.com/better-programming/when-dry-doesnt-work-go-wet-6befda0444bf)
+* [How to Make Your Code Reviewer Fall in Love with You · mtlynch.io](https://mtlynch.io/code-review-love/)
 * [Paircast - Code Screencast Software](https://paircast.io/)
 
 # Code Search
@@ -2142,6 +2148,7 @@ Programming
   * [(11/28) 소프트웨어 개발이 어려운 일곱 가지 이유 - YouTube](https://www.youtube.com/watch?v=S7NOERXBPQs)
 * [(12월 5일) 스타트업, SI 개발자를 채용해도 될까?](https://jhrogue.blogspot.com/2020/12/12-5-si.html) reveal.js – HTML 프리젠테이션 프레임워크, 문서 저장소로서 sqlite3
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
+* [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
@@ -2272,6 +2279,7 @@ Programming
 * [NSA가 만든 무료 리버스 엔지니어링 툴, "기드라" 사용 방법](http://www.itworld.co.kr/news/122618)
 * [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/)
 * [h4cker - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more](https://github.com/The-Art-of-Hacking/h4cker)
+* [ImHex: A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM](https://github.com/WerWolv/ImHex)
 * [Rainbow Tables | The Linux Rain](https://www.thelinuxrain.com/articles/rainbow-tables) hashed value to password
 
 # RPC
