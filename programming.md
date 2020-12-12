@@ -71,6 +71,7 @@ Programming
 * [arxiv sanity perserver](http://www.arxiv-sanity.com/top) top papers based on people's libraries
 * [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 * [**소프트웨어 설계란 무엇인가?**](https://www.mimul.com/blog/what-is-software-design/) 문서의 중요성을 설명한 92년 글 번역문. 20여년이 지났어도 유효한 좋은 글(그러니 역자도 번역했겠지)
+* [A Philosophy of Software Design | John Ousterhout | Talks at Google - YouTube](https://www.youtube.com/watch?v=bmSAYlu0NcY) 좋은 소프트웨어 디자인을 어떻게 알아보고, 가르치고, 가꿔 나갈지에 대한 이야기
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/)
 * [Getting Started with the Sport of Programming](http://sportprogramming.blogspot.in/2014/07/getting-started-with-sport-of.html)
 * [free for dev](https://github.com/ripienaar/free-for-dev)
@@ -266,6 +267,7 @@ Programming
 * [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
 * [naming conventions - count vs length vs size in a collection - Stack Overflow](https://stackoverflow.com/questions/300522/count-vs-length-vs-size-in-a-collection)
 * [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code)
+* [RailsConf 2014 - Keynote: Writing Software by David Heinemeier Hansson - YouTube](https://www.youtube.com/watch?v=9LfmrkyP81M) 업계에 만연한 잘못된 인식, 좋은 소프트웨어는 무엇이며 어떻게 만들지
 * 신규 포인트 시스템 전환기
   * [#1 - 개발 단계](http://woowabros.github.io/experience/2018/10/12/new_point_story_1.html)
   * [#2 - 오픈 준비 단계](http://woowabros.github.io/experience/2018/10/15/new_point_story_2.html)
@@ -343,6 +345,7 @@ Programming
 * [나의 백엔드 배포 환경 정책 · /usr/lib/libsora.so](https://libsora.so/posts/my-backend-deployment-environment-policy/) development environment
 * [Joe Duffy - The Error Model](http://joeduffyblog.com/2016/02/07/the-error-model/)
 * [Everything is an X - lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/)
+* [Mountain West Ruby 2012 Capability vs. Suitability by Gary Bernhardt - YouTube](https://www.youtube.com/watch?v=NftT6HWFgq0) 소프트웨어 산업의 기념비적인 업적들을 되짚으며 ‘더 많은 일을 가능케 하는’ 그리고 ‘더 안정적이고 예측 가능한’ 서로 충돌하는 두 목표를 어떻게 주거니 받거니 차례로 추구하며 발전해 왔는지 소개
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
