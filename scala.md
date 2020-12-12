@@ -558,6 +558,7 @@ Scala
 * [The assignment operator is broken!](https://adrian-salajan.github.io//blog/2020/10/02/assigment-is-broken)
 * [Four new features of Scala 2.13 releases that you probably missed | Not cumbersome at all](https://cucumbersome.net/2020/11/28/four-new-features-of-scala-2-13-releases-that-you-probably-missed/) interpolator on pattern matching, toXOption, Pipe and tap, Exhaustivity checks with if guards
 * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=3qJ-IYhuK_I) Either, sealed trait로 type 정의
+  * [practice - Either](https://gist.github.com/hyunjun/badf4b2082ac8ba0c585c6fe8d527e70#file-either-scala)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
