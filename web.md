@@ -196,6 +196,7 @@ Web
 * [매출 손실을 줄여주는 외부링크 관제 Bot, 'URL Checker' 개발기 | 뱅크샐러드](https://blog.banksalad.com/tech/url-status-checker/)
 * [The Ultimate List of YouTube Channels to Boost your Web Development and Programming Skills · Dev & Gear](https://devandgear.com/posts/the-ultimate-list-of-youtube-channels-to-boost-your-web-development-and-programming-skills/)
 * [The Ultimate Guide to Web Performance - DEV](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
+* [developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer](https://github.com/apptension/developer-handbook)
 
 # Apache
 * installation
