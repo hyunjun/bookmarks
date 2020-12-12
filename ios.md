@@ -131,6 +131,7 @@ iOS
 * [researchkit - Introducing ResearchKit](http://researchkit.github.io/index.html)
 * [sudo-touchid - A fork of `sudo` with Touch ID support](https://github.com/mattrajca/sudo-touchid)
 * [TLPhotoPicker - application to pick images and videos from multiple smart album in iOS, similar to the current facebook app](https://github.com/tilltue/TLPhotoPicker)
+* [vftool: A simple macOS Virtualisation.framework wrapper](https://github.com/evansm7/vftool)
 * Xamarin
   * [마이크로소프트 멜팅팟 온라인 세미나 C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
   * [모바일 크로스 플랫폼 개발도구 Xamarin Microsoft가 지지하는 C#기반 모바일 플랫폼](https://realm.io/kr/news/introducing-xamarin/)
