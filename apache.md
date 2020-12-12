@@ -585,8 +585,9 @@ Apache
   * 자체적인 Cluster를 설정해야 하며, 2019.07에 공개되어 자료 전무
   * monitoring 방법은 MirrorMaker 1/2와 마찬가지로 내부적으로 kafka producer를 사용해 해당 process에 jmx로 접속해 producer sender metrics를 확인
 * [burrow - Kafka Consumer Lag Checking](https://github.com/linkedin/Burrow)
-  * [Revisiting Burrow: Burrow 1.1](https://engineering.linkedin.com/blog/2018/05/revisiting-burrow--burrow-1-1-) Linkedin의 SRE팀에서 만들어서 오픈소스로 공개한 Apache Kafka의 Consumer 모니터링 도구
   * [Burrow - kafka consumer의 지연(lag)을 모니터링할 수 있는 효과적인 opensource tool](https://blog.voidmainvoid.net/243)
+  * [Revisiting Burrow: Burrow 1.1](https://engineering.linkedin.com/blog/2018/05/revisiting-burrow--burrow-1-1-) Linkedin의 SRE팀에서 만들어서 오픈소스로 공개한 Apache Kafka의 Consumer 모니터링 도구
+  * [Apache Kafka Lag Monitoring and Metrics at AppsFlyer](https://www.confluent.io/blog/kafka-lag-monitoring-and-metrics-at-appsflyer/)
   * [kafka-lag-dashboard](https://github.com/AndersonChoi/kafka-lag-dashboard)
   * [kafka-lag-dashboard](https://blog.voidmainvoid.net/279)
 * [Conduktor - the ultimate Apache Kafka Desktop Client](https://www.conduktor.io)
@@ -646,6 +647,7 @@ Apache
   * [ksqlDB - The event streaming database purpose-built for stream processing applications](https://ksqldb.io/)
     * [How Real-Time Stream Processing Safely Scales with ksqlDB](https://www.confluent.io/blog/how-real-time-stream-processing-safely-scales-with-ksqldb/)
 * [librdkafka: The Apache Kafka C/C++ library](https://github.com/edenhill/librdkafka)
+* MAADS [Machine Learning and AI at Scale with MAADS-VIPER and Apache Kafka](https://www.confluent.io/blog/transactional-machine-learning-with-maads-viper-and-apache-kafka/)
 * [mockedstreams - Scala DSL for Unit-Testing Processing Topologies in Kafka Streams](https://github.com/jpzk/mockedstreams)
 * rest proxy [카프카의 토픽 데이터를 REST api로 주고받자 - Kafka rest proxy 사용](https://blog.voidmainvoid.net/345?fbclid=IwAR2SKDiO2MTY-qGPgnOHWmGQq0JTmNF09JN_Zg6CkcwmZjFEqnDhiSNfObg)
 * [Trifecta - a web-based and Command Line Interface (CLI) tool that enables users to quickly and easily inspect, verify and even query Kafka messages](https://github.com/ldaniels528/trifecta)
