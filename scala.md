@@ -446,6 +446,8 @@ Scala
   * [Best Practice: Should Not Block Threads — Monix](https://monix.io/docs/current/best-practices/blocking.html)
   * [Piotr Gawryś: Streaming with Monix - YouTube](https://www.youtube.com/watch?v=lzSykAUUQSA)
   * [Generic IOApp alternative - Alexandru Nedelcu](https://alexn.org/snippets/2020/10/15/generic-ioapp-alternative.html)
+* [Monix BIO · Asynchronous Programming for Scala and Scala.js](https://bio.monix.io/)
+  * [monix-bio: Asynchronous data type with typed errors](https://github.com/monix/monix-bio)
 
 ## Akka Cluster
 * [Why we picked AKKA cluster as our microservice framework](http://tech.iheart.com/post/121599571574/why-we-picked-akka-cluster-as-our-microservice)
@@ -555,6 +557,7 @@ Scala
 * [Andy Scott—Code by Shape - YouTube](https://www.youtube.com/watch?v=ifPTQ9CULdk) Either, Option, List, fold(Right)
 * [The assignment operator is broken!](https://adrian-salajan.github.io//blog/2020/10/02/assigment-is-broken)
 * [Four new features of Scala 2.13 releases that you probably missed | Not cumbersome at all](https://cucumbersome.net/2020/11/28/four-new-features-of-scala-2-13-releases-that-you-probably-missed/) interpolator on pattern matching, toXOption, Pipe and tap, Exhaustivity checks with if guards
+* [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=3qJ-IYhuK_I) Either, sealed trait로 type 정의
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -592,7 +595,8 @@ Scala
   * [Kafka Streams DSL for Scala: The Basics](https://medium.com/@danieljameskay/kafka-streams-dsl-for-scala-the-basics-11d603295f5c)
   * [Writing functional DSLs for business domains](https://medium.com/bigdatarepublic/writing-functional-dsls-for-business-domains-1bccc5d3f62b)
 * [DynamicVariable 예제](http://knight76.tistory.com/entry/scala-DynamicVariable-%EC%98%88%EC%A0%9C)
-* Either [3 Useful Things About Scala’s Either Class That You Want To Know](https://levelup.gitconnected.com/3-useful-things-about-scalas-either-class-that-you-want-to-know-42adbe090e60)
+* Either
+  * [3 Useful Things About Scala’s Either Class That You Want To Know](https://levelup.gitconnected.com/3-useful-things-about-scalas-either-class-that-you-want-to-know-42adbe090e60)
 * ExecutionContext
   * [Why do we need an execution context? - Wiem Zine - Medium](https://medium.com/@wiemzin/when-we-want-to-run-a-simple-code-using-future-we-get-a-compile-error-that-we-need-an-execution-ba416fca3739)
   * ContextShift [A short guide to Blocker. | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/a-short-guide-to-blocker-6cd29e145a12)
