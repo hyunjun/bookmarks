@@ -1371,5 +1371,6 @@ App
   * [Improve Docker performances with WSL2 | Towards Data Science](https://towardsdatascience.com/how-to-improve-docker-performance-with-wsl2-3a54402ab0f2)
   * [Windows Subsystem for Linux: The lost potential - jmmv.dev](https://jmmv.dev/2020/11/wsl-lost-potential.html)
   * [Windows 10 LAMP 설치 방법 (1)](https://preciousstory.tistory.com/13)
+  * [Announcing Ubuntu on Windows Community Preview - WSL2 - Ubuntu Community Hub](https://discourse.ubuntu.com/t/announcing-ubuntu-on-windows-community-preview/19789)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [X server 4 Windows 10](https://x410.dev/)
