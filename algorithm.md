@@ -473,6 +473,7 @@ Algorithm
 * [An introduction to linked lists: the why, the what, and the how](https://medium.freecodecamp.org/linked-lists-why-what-and-how-f96b04790ac4)
 * [An introduction to doubly linked lists: using code to control data](https://medium.freecodecamp.org/doubly-linked-list-why-what-and-how-59aba937abcf)
 * [Reversing a Linked List: Easy as 1, 2, 3](https://medium.com/outco/reversing-a-linked-list-easy-as-1-2-3-560fbffe2088)
+* [**linked-list-good-taste: Linus Torvalds' linked list argument for good taste, explained**](https://github.com/mkirchner/linked-list-good-taste) Linus Tovalds의 double pointer를 사용한 구현. special case를 없애기 위함
 
 # [Minimax](https://en.wikipedia.org/wiki/Minimax)
 * [Tic Tac Toe: Understanding The Minimax Algorithm](http://neverstopbuilding.com/minimax)
