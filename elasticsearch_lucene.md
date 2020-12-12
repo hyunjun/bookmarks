@@ -559,6 +559,9 @@ ElasticSearch - Lucene
 * [Search Guard - an Elasticsearch plugin that offers encryption, authentication, and authorization](https://floragunn.com/searchguard/)
 * [so-elastalert-create](https://github.com/bryant-treacle/so-elastalert-create)
 * [subitolabs - ElasticSearch TestR, filters - tokenizers - analyzers](http://es.subitolabs.com/#/)
+* [Typesense: fast, open-source, typo-tolerant search engine](https://typesense.org/)
+  * [typesense - 오픈소스 검색 엔진 | GeekNews](https://news.hada.io/topic?id=3369)
+  * [2백만개 음식 레시피 검색 엔진 | GeekNews](https://news.hada.io/topic?id=3370)
 * [VOYAGER : 검색 엔진 기반 실시간 이슈 감지 시스템](http://engineering.riotgames.com/news/voyager-original-korean)
 
 # Logstash
