@@ -787,6 +787,7 @@ App
 * [diskmaker x - OS X 요세미티 설치 디스크를 클릭만으로 뚝딱 만들 수 있는 'DiskMaker X'](http://macnews.tistory.com/2548)
 * [edgeview](edgeview.co.kr/)
 * [eDEX-UI - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support](https://github.com/GitSquared/edex-ui)
+* [finicky: A macOS app for customizing which browser to start](https://github.com/johnste/finicky)
 * [flashlight - the missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
 * [HackStore - free alternative of App Store](https://hack-store.com/)
 * [Hammerspoon - a tool for powerful automation of OS X](https://www.hammerspoon.org/)
