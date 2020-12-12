@@ -272,6 +272,7 @@ Programming Language
 * [J Programming Language](http://kukuruku.co/hub/funcprog/introduction-to-j-programming-language-2004)
 * [Jai - an imperative static/strongly typed C-style language, but with a variety of modern language that C lacks](https://sites.google.com/site/jailanguageprimer/)
 * [Joxa - a small semantically clean, functional lisp](http://joxa.org/)
+* [Kaitai Struct: declarative binary format parsing language](https://kaitai.io/)
 * [Klong - A Simple Array Language](http://t3x.org/klong/index.html)
 * [Koka is a function-oriented programming language](http://research.microsoft.com/en-us/projects/koka/)
 * [Lasp - A Language for Distributed, Eventually Consistent Computations](http://lasp-lang.org/)
