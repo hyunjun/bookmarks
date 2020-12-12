@@ -44,6 +44,7 @@ Go
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
 * [Using Go's interfaces at Clever - more than just easy collaboration](http://engineering.clever.com/2015/04/17/using-gos-interfaces-at-clever---more-than-just-easy-collaboration/)
 * [Go: Understand the Empty Interface](https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72)
+* [map\[string\]interface{} in Go — Bitfield Consulting](https://bitfieldconsulting.com/golang/map-string-interface)
 * [java vs. go performance](http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=java&lang2=go)
 * [Java, Go 성능 테스트 비교 글을 보고](https://www.popit.kr/java-go-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90-%EA%B8%80%EC%9D%84-%EB%B3%B4%EA%B3%A0/)
 * [Replacing Rails: Part 1 "Lets Go!"](http://madebymany.com/blog/replacing-rails-part-1-lets-go)
@@ -540,6 +541,7 @@ Go
 * [short - URL shortening service written in Go and React https://s.time4hacks.com ](https://github.com/byliuyang/short)
 * [short - URL shortening service written in Go and React https://short-d.com](https://github.com/short-d/short)
 * [Simple REST mail server](https://github.com/dullgiulio/perso/releases/tag/v0.1)
+* [sops: Simple and flexible tool for managing secrets](https://github.com/mozilla/sops) encrypt decrypt
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
 * [Stats - A statistics package with many functions missing from the Golang standard library](https://github.com/montanaflynn/stats)
 * [Stout - a deploy tool for static websites](http://stout.is/)
