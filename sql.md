@@ -121,6 +121,7 @@ SQL
 * [How to Implement Cursor Pagination Like a Pro | by Megan Chang | The Startup | Medium](https://medium.com/swlh/how-to-implement-cursor-pagination-like-a-pro-513140b65f32)
 * [A Snowflake deep dive](https://hhhypergrowth.com/a-snowflake-deep-dive/) 기술이야기는 아니고 snowflake 소개
 * [Database of Databases - Home](https://dbdb.io/)
+* [How to use Indexing for SQL Query Optimization | Towards Data Science](https://towardsdatascience.com/indexing-for-sql-query-optimization-139b57db9fc6)
 * [Arctype | The fast and easy-to-use SQL client](https://arctype.com/)
 * [**dbcrossbar** - an open source tool that copies large, tabular datasets between many different databases and storage formats. Data can be copied from any source to any destination](https://www.dbcrossbar.org/)
 * [DBeaver](https://dbeaver.io/)
@@ -367,8 +368,6 @@ SQL
 * [MySQL에서 파티션 일부를 다른 파티션 테이블로 옮겨보기](http://gywn.net/2017/01/how_to_move_partition_data_to_another/)
 * [MySQL 파티셔닝 테이블 SELECT가 느려요](http://gywn.net/2019/08/mysql-poor-performance-with-super-many-partitions/)
 * [소소한 데이터 이야기 – pt-online-schema-change 편 -](http://gywn.net/2017/08/small-talk-pt-osc/)
-* [PMM 이야기 1편 – INTRO](http://gywn.net/2018/03/pmm-intro/)
-* [PMM팁1탄! MySQL을 READ-ONLY 기준으로 표기해보기](http://gywn.net/2019/01/pmm-tip1-classified-by-mysql-readonly/)
 * [**MySQL에서 Affected Rows를 병맛나게 활용해보자**](http://gywn.net/2018/03/mad-usage-with-mysql-affected-rows/)
 * [Perfecting Lambda Architecture with Oracle Data Integrator (and Kafka / MapR Streams)](https://www.mapr.com/blog/perfecting-lambda-architecture-oracle-data-integrator-and-kafka-mapr-streams)
   * MySQL 데이터베이스의 변경 내용을 스트림으로 캡처하기 위해 Oracle Data Integrator, Apache Kafka / MapR Stream를 구성하는 과정
@@ -524,6 +523,11 @@ SQL
 * [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)
 * [OSC - Facebook releases a new OnlineSchemaChange tool written in Python](http://www.eversql.com/facebook-releases-a-new-onlineschemachange-tool-written-in-python/)
 * [Planche - Javascript MySQL GUI Client Tool](https://github.com/plancheproject/planche)
+* PMM
+  * [Percona Monitoring and Management Documentation](https://www.percona.com/doc/percona-monitoring-and-management/index.html)
+  * [PMM 이야기 1편 – INTRO](http://gywn.net/2018/03/pmm-intro/)
+  * [PMM팁1탄! MySQL을 READ-ONLY 기준으로 표기해보기](http://gywn.net/2019/01/pmm-tip1-classified-by-mysql-readonly/)
+  * [Percona PMM - A beginner's guide - Vlad Mihalcea](https://vladmihalcea.com/percona-pmm-beginner-guide/)
 * [python-mysql-replication](https://github.com/noplay/python-mysql-replication)
 * [TiDB is a distributed SQL database compatible with MySQL protocol](https://github.com/pingcap/tidb#run-as-mysql-protocol-server)
 * [Yahoo MySQL Performance Analyzer](https://github.com/yahoo/mysql_perf_analyzer)
@@ -602,6 +606,7 @@ SQL
 * [Getting PostgreSQL transactions under control with SQLAlchemy](http://layer0.authentise.com/getting-postgresql-transactions-under-control-with-sqlalchemy.html)
 * [MySQL vs PostgreSQL - Why you shouldn't use MySQL](https://www.youtube.com/watch?v=emgJtr9tIME)
 * [PostgreSQL 9.6 Parallel Query & FDW](http://www.popit.kr/postgresql-9-6-parallel-query-fdw/)
+* [Parallel queries in PostgreSQL - Percona Database Performance Blog](https://www.percona.com/blog/2019/02/21/parallel-queries-in-postgresql/)
 * [PostgreSQL Exercises](https://pgexercises.com/)
 * [PostgreSQL에 실시간 기능 도입하기](https://realm.io/kr/news/making-postgresql-realtime/)
 * [The Night the PostgreSQL IDs Ran Out](https://hackernoon.com/the-night-the-postgresql-ids-ran-out-9430a2dbb895)
@@ -649,6 +654,7 @@ SQL
 * [Improving Postgres Connection Scalability: Snapshots - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/improving-postgres-connection-scalability-snapshots/ba-p/1806462)
 * [Postgres Observability](https://pgstats.dev/)
 * [**PostgreSQL 튜닝 - Autovacuum 최적화에 대하여**](https://nrise.github.io/posts/postgresql-autovacuum/)
+* [Stored Procedures as a backend. or “How we got rid of Django and whole… | by Oleg Zech | Oct, 2020 | Medium](https://gnuhost.medium.com/stored-procedures-as-a-backend-c5d2db452fc2)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
@@ -670,6 +676,7 @@ SQL
 * [pgfutter - Import CSV and JSON into PostgreSQL the easy way](https://github.com/lukasmartinelli/pgfutter)
 * [pgmemcache is a set of PostgreSQL user-defined functions that provide an interface to memcached](https://github.com/ohmu/pgmemcache/)
 * [pg-migrator - PostgreSQL Migration Tool](https://github.com/aphel-bilisim-hizmetleri/pg-migrator)
+* [pg-shortkey: YouTube-like Short IDs as Postgres Primary Keys](https://github.com/turbo/pg-shortkey)
 * [pgsql: Support GROUPING SETS, CUBE and ROLLUP](http://www.postgresql.org/message-id/E1YtRD5-0005Q7-SM@gemulon.postgresql.org)
 * [pgsql: Create an infrastructure for parallel computation in PostgreSQL](http://www.postgresql.org/message-id/E1Ynu2T-0005iK-Gf@gemulon.postgresql.org)
 * [pg_stat_monitor: PostgreSQL Statistics Collector](https://github.com/percona/pg_stat_monitor)
@@ -773,6 +780,7 @@ SQL
 * [How does SQLite work? Part 2: btrees! (or: disk seeks are slow don't do them!)](https://jvns.ca/blog/2014/10/02/how-does-sqlite-work-part-2-btrees/)
 * [LPC-2019: SQLite on Linux](https://sqlite.org/lpc2019/doc/trunk/briefing.md)
 * [SQLite 개념/구조/멀티 DB 실사용기 :: 메모장](https://ehdvudee.tistory.com/23)
+* [SQLite as a document database](https://dgl.cx/2020/06/sqlite-json-support)
 * [CG/SQL: Easy, accurate SQLite code generation - Facebook Engineering](https://engineering.fb.com/open-source/cg-sql/)
 * [DB Browser for SQLite](https://sqlitebrowser.org/)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
