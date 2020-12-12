@@ -23,6 +23,7 @@ Interview
   * [구글 인터뷰 대학(Google Interview University)](https://github.com/jwasham/coding-interview-university/blob/master/translations/README-ko.md)
   * [Why I studied full-time for 8 months for a Google interview](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13)
 * [Awesome Interviews](https://github.com/MaximAbramchuck/awesome-interviews)
+* [**컴공 취준생에게 유용한 링크들 정리**](https://velog.io/@woo0_hooo/%EC%BB%B4%EA%B3%B5-%EC%B7%A8%EC%A4%80%EC%83%9D%EC%97%90%EA%B2%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%A7%81%ED%81%AC%EB%93%A4-%EC%A0%95%EB%A6%AC)
 * [Ask HN: How do I prepare for the interview?](https://news.ycombinator.com/item?id=9363093)
 * [How To Prepare For Technical Interviews](https://www.youtube.com/watch?v=iqEOhM3OvYo)
 * [How to make progress while studying for coding interviews](https://medium.freecodecamp.org/how-to-make-progress-while-studying-for-coding-interviews-894c320bfa74)
