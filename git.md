@@ -255,13 +255,13 @@ Git
 * [**7 Git tricks that changed my life | Opensource.com**](https://opensource.com/article/20/10/advanced-git-tips)
 
   ```
-  $ git config --global help.autocorrect 1
-  $ git rev-list --count master
-  $ git gc --prune=now --aggressive
-  $ git ls-files --others --exclude-standard -z | xargs -0 tar rvf ~/backup-untracked.zip
-  $ cat .git/description
-  $ git show main:README.md
-  $ git rev-list –all | xargs git grep -F ‘font-size: 52 px;’
+  $ git config --global help.autocorrect 1 # 오타 자동 교정
+  $ git rev-list --count master # 커밋 세기
+  $ git gc --prune=now --aggressive # Repo 최적화
+  $ git ls-files --others --exclude-standard -z | xargs -0 tar rvf ~/backup-untracked.zip # 추적제외 파일 백업하기
+  $ cat .git/description  # .git 폴더 이해하기
+  $ git show main:README.md # 다른 브랜치 파일 보기
+  $ git rev-list –all | xargs git grep -F ‘font-size: 52 px;’ # Git 검색하기
   ```
 * [How to Undo Mistakes With Git Using the Command Line - YouTube](https://www.youtube.com/watch?v=lX9hsdsAeTk)
 * `add`
