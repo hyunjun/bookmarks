@@ -681,6 +681,7 @@ Programming Books
 * (NOT YET) [실전활용! 텐서플로 딥러닝 프로젝트 10가지 실무 프로젝트로 배우는 텐서플로와 딥러닝 알고리즘 100% 활용법](http://wikibook.co.kr/tensorflow-projects/)
 * (NOT YET) [텐서플로를 이용한 고급 딥러닝 수학의 기초와 함께 이해하는 파이썬 딥러닝](http://acornpub.co.kr/book/pro-deep-learning-tensorflow)
 * (NOT YET) [텐서플로와 유니티 ML-Agents로 배우는 강화학습 - 다섯 가지 게임을 제작하며 살펴보는 심층 강화학습](https://wikibook.co.kr/tensorflow-mlagents/)
+* (NOT YET) [텐서플로로 하는 딥러닝 기초와 응용 | 에이콘출판사](http://www.acornpub.co.kr/book/nn-tensorflow2)
 
 ## PyTorch
 * (NOT YET) [PyTorch를 활용한 머신러닝, 딥러닝 철저 입문 - 파이토치를 활용한 머신러닝, 딥러닝 알고리즘의 원리와 구현](http://wikibook.co.kr/pytorch/)
