@@ -49,6 +49,8 @@ Shell
   * [How to define hash tables in Bash?](https://stackoverflow.com/questions/1494178/how-to-define-hash-tables-in-bash)
 * expr
   * [Performing Math calculation in Bash](https://www.shell-tips.com/2010/06/14/performing-math-calculation-in-bash/)
+* [flock(1) - Linux manual page](https://man7.org/linux/man-pages/man1/flock.1.html)
+  * [Ensuring that a shell script runs exactly once - DEV](https://dev.to/rrampage/ensuring-that-a-shell-script-runs-exactly-once-3d3f)
 * for
   * [practice - for loop string array](https://gist.github.com/hyunjun/6ecaca07e8a206dc23ca0a16e2b90a4d)
   * [배시 셸 스크팁트 프로그래밍(bash shell script programming)](https://www.lesstif.com/pages/viewpage.action?pageId=26083916)
