@@ -73,6 +73,7 @@ Linux
   * `export TMOUT=0` 자동 로그아웃 off
 * [라즈베리파이 X-Window 화면을 윈도우즈와 맥 터미널에서 띄우기](http://blog.xcoda.net/94) X11-Forward
 * [리눅스 엔지니어 기술 면접 질문지](https://docs.google.com/document/d/1WE1V4uczxavqLY-nyr3qNqCxqzoOf8Vg6Z-Lf0c3DwU/mobilebasic)
+* [리눅스 엔지니어 기술 면접 질문지](https://github.com/pjhwa/linux-engineers/wiki)
 * [Uninterruptible Sleep](https://eklitzke.org/uninterruptible-sleep)
 * [Linux 서버에 JIRA 설치하기](https://jungwoon.github.io/jira/2018/04/04/Install-JIRA-On-Demand/)
 * [Compute Engine에 JIRA 설치하기](https://jungwoon.github.io/jira/compute%20engine/2018/04/13/Data-JIRA-Installation-On-GCE/)
@@ -130,11 +131,13 @@ Linux
 * [Managing my personal server in 2020](https://github.com/erebe/personal-server/blob/master/README.md)
 * [How to Migrate a Linux Server To New Hardware – CloudSavvy IT](https://www.cloudsavvyit.com/7664/how-to-migrate-a-linux-server-to-new-hardware/)
 * [2020: The Year of the Linux Desktop - Moving from Macbook to Linux - CodiMD](https://monadical.com/posts/moving-to-linux-desktop.html)
+* [Getting started with btrfs for Linux | Opensource.com](https://opensource.com/article/20/11/btrfs-linux)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
 * [리눅스 배포판 선택, 고민되시나요? - 여기서 최상의 배포판을 골라 보세요](http://sergeswin.com/1056)
 * [open source & open hardware | Customizer로 나만의 리눅스배포판을 만들자 - Daum 카페](http://cafe.daum.net/opensupport.xyz/qiAR/10)
+* [Busybox-based Linux distro from scratch – re-ws.pl](https://re-ws.pl/2020/11/busybox-based-linux-distro-from-scratch/)
 
 ## 배포판 Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
@@ -398,6 +401,7 @@ Linux
   * [10 Curl Commands You Should Know](https://medium.com/100-days-of-linux/10-curl-commands-that-you-should-know-ee3d032eb351)
   * [**Curl Cookbook**](https://catonmat.net/cookbooks/curl)
     * [Announcing the Curl Cookbook](https://catonmat.net/announcing-curl-cookbook)
+  * [Detecting the use of "curl | bash" server side | Application Security](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
 * `cut`
   * [Linux Tutorials - 24 cut command Slitting a file vertically | GeeksforGeeks](https://www.youtube.com/watch?v=eHGCxEVlHd0)
   * `... | tr -s [:blank:] | cut -f<num> -d ' '` [How to specify more spaces for the delimiter using cut?](https://stackoverflow.com/questions/7142735/how-to-specify-more-spaces-for-the-delimiter-using-cut)
