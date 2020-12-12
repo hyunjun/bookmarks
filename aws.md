@@ -287,6 +287,7 @@ AWS
 * [AWS Lightsail에서 설치형 워드프레스를 시작하고 리눅스 서버관리 배우기](https://swiftcoding.org/aws-lightsail-posts)
 * [설치형 개인 VPN 서버 알고(Algo) 아마존 라이트세일에 설치하고 운영하기](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail)
 * [Amazon Lightsail 시작해보기](https://jojoldu.tistory.com/512)
+* [아마존 라이트세일에서 https 적용하기(SSL인증서 설치 후 자동갱신) - JunHo Lee Lab](https://junholee.me/amazon-lightsail-https-ssl/)
 * [AWS에서 보안 감사 및 이상징후 탐지](http://woowabros.github.io/security/2019/01/18/aws-cloudtrail-security.html)
 * [Building Scalable Analytics with AWS — Part 1](https://medium.com/@tomas.duhourq/building-scalable-analytics-with-aws-part-i-6de6a90e3513)
 * [여러 회사 AWS CodeCommit 계정을 하나의 맥에서 사용하기](https://wingsnote.com/163)
