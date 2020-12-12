@@ -358,6 +358,7 @@ App
 * my notes [“크롬 새 탭을 메모장으로” 화려하지 않아도 실용적인 마이 노트(My Notes) - ITWorld Korea](http://www.itworld.co.kr/news/167215)
 * nuTab [Quick Notes New Tab Chrome Extension - nuTab](https://nutab.co/)
 * Requestly [Udemy강좌 Full HD로 보기](https://www.javastudy.net/2019/04/22/udemy%EA%B0%95%EC%A2%8C-full-hd%EB%A1%9C-%EB%B3%B4%EA%B8%B0/)
+* [screenity: The most powerful screen recorder & annotation tool for Chrome 🎥](https://github.com/alyssaxuu/screenity)
 
 # Comminucation
 * [“우리도 있다” 업무용 오픈소스 화상회의 툴 10선 - ITWorld Korea](https://www.itworld.co.kr/news/173069)
@@ -518,6 +519,10 @@ App
       * [vscode-debug-visualizer/extension at master · hediet/vscode-debug-visualizer](https://github.com/hediet/vscode-debug-visualizer/tree/master/extension)
         * [tool VSCode 디버그 시각화 확장 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222093736134)
       * [vscode-realtime-debugging - An extension for VS Code that visualizes how a program is being executed in real time](https://github.com/hediet/vscode-realtime-debugging)
+    * Docker
+      * [Visual Studio Code Docker extension 1.0 – Better than Ever!](https://devblogs.microsoft.com/visualstudio/visual-studio-code-docker-extension-1-0-better-than-ever/)
+      * [How to Create a Docker Container in VS Code](https://morioh.com/p/ad57dc771938)
+      * [Visual Studio Code에서 Docker 컨테이너를 개발 환경으로 사용 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/modules/use-docker-container-dev-env-vs-code/)
     * Extension
       * [Top 10 Angular VS Code Extensions](http://devboosts.com/2017/02/08/top-10-vs-code-extensions/index.html)
       * [Vscode 플러그인 리팩토링 - async & await](https://kdinner.tistory.com/46)
@@ -531,8 +536,6 @@ App
       * [쾌적한 자바스크립트 코딩을 위한 VSCode 확장 프로그램 추천](https://codeameba.github.io/2019/06/10/tip-extensions/)
       * [VScode Extension - 확장프로그램 추천 및 설치방법](https://mishka86.github.io/2019/06/24/vscode-extension)
       * [vscode 강좌 1편 vscode설치와 유용한 extension설치](https://www.youtube.com/watch?v=Xs5aM9FYuic)
-      * [Visual Studio Code Docker extension 1.0 – Better than Ever!](https://devblogs.microsoft.com/visualstudio/visual-studio-code-docker-extension-1-0-better-than-ever/)
-      * [How to Create a Docker Container in VS Code](https://morioh.com/p/ad57dc771938)
       * [CodeTour VSCode extension allows you to produce interactive guides, assessments and tutorials](https://techcommunity.microsoft.com/t5/educator-developer-blog/codetour-vscode-extension-allows-you-to-produce-interactive/ba-p/1274297#)
       * [20 Best VS Code Extensions for Productive Web Development in 2020](https://towardsdatascience.com/20-best-vs-code-extensions-for-productive-web-development-in-2020-95bf904ceb69)
       * [VS Code extensions that make me fall in love with programming each day | by Madhav Bahl | codeburst](https://codeburst.io/vs-code-extensions-that-make-me-fall-love-in-programming-each-day-ccf05b24651e)
@@ -606,6 +609,7 @@ App
   * [Sublime Text 설치 및 셋팅 for Windows](https://www.youtube.com/watch?v=ubPYAQJ-HjI)
   * [Ultimate Sublime for Python](https://blog.usejournal.com/ultimate-sublime-for-python-5c531224421b)
 * [pdfescape.com](http://www.pdfescape.com/) free online pdf editor
+* [PDF processor api & cli | pdfcpu](https://pdfcpu.io/) A PDF processor written in Go
 * [ProseMirror - A web-based WYSIWYM editor from the author of CodeMirror](http://prosemirror.net/)
 * [Thimble - an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript](https://thimble.mozilla.org/?)
 * [Trix - A Rich Text Editor for Everyday Writing](https://github.com/basecamp/trix)
@@ -1042,11 +1046,13 @@ App
 * [Apache OpenMeetings Project – Home](https://openmeetings.apache.org/) video conferencing, instant messaging, white board, collaborative document editing and other groupware tools
 * AVPlayer [How to set up video streaming in your app with AVPlayer](https://medium.freecodecamp.org/how-to-set-up-video-streaming-in-your-app-with-avplayer-7dc21bb82f3)
 * [awesomevideoplayer.com](http://www.awesomevideoplayer.com/) multi screen 동시 조작 가능
+* [boltstream: Boltstream Live Video Streaming Website + Backend](https://github.com/benwilber/boltstream)
 * Canva [이미지 편집 서비스 캔바(Canva)](https://www.44bits.io/ko/post/preparing-wtd-meetup-without-a-designer-nor-photoshop#%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%BA%94%EB%B0%94canva)
 * [ecam - 쉬운 녹화 & 유튜브 방송 프로그램](https://ryulib.tistory.com/471)
 * [ExifTool by Phil Harvey - Read, Write and Edit Meta Information!](https://exiftool.org)
   * [SmartRename Script by farn501](https://docs.google.com/forms/d/e/1FAIpQLSfsG-wxJUAGlwaz8elKdQB9lTLOnv4KlrgXKGsfSeyy-nRk_g/viewform)
 * [Exposé - A simple static site generator for photoessays](https://github.com/Jack000/Expose)
+* [fastocloud: Self-hosted IPTV/NVR/CCTV/Video service](https://github.com/fastogt/fastocloud)
 * [filmora9 - Discover the power of storytelling with Filmora](https://filmora.wondershare.com)
 * [Forensically, free online photo forensics tool](http://29a.ch/photo-forensics)
 * [Gfycat - 유튜브 영상·GIF 파일을 10분 1 크기로?](http://techholic.co.kr/archives/36747)
