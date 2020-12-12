@@ -1592,6 +1592,7 @@ Python
   * [Debugging in Python — A cakewalk with pdb](https://medium.com/python-features/debugging-in-python-a-cakewalk-with-pdb-cd748ca62ee7)
   * [Are you writing print() statements to debug your Python code? | by Pradeepa Gollapalli | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/are-you-writing-print-statements-to-debug-your-python-code-690e6ba098e9)
 * [PySnooper - Never use print for debugging again](https://github.com/cool-RR/pysnooper)
+* [traceback_with_variables: Adds variables to python traceback. Simple, lightweight, controllable. Debug reasons of exceptions by logging or pretty printing colorful variable contexts for each frame in a stacktrace, showing every value. Dump locals environments after errors to console, files, and loggers. Works in Jupyter and IPython. Install with pip or conda](https://github.com/andy-landy/traceback_with_variables)
 
 # Docker
 * [Docker로 파이썬 배포 운영하기](http://greatkim91.tistory.com/194)
@@ -1744,6 +1745,7 @@ Python
 * [Django form 폼나게 쓰기](https://www.slideshare.net/SeanKang19/django-form-78716437)
 * [coding-night-live - a Web-Based Communication Application for codelabs](https://github.com/dduk-ddak/coding-night-live)
 * [장고 외부에서 Form, Serializer 활용하기](https://gist.github.com/allieus/fbd054fcc86d0509712c244d6206e57d) - request validation 용도로 사용 가능
+* [How to use Serializers in the Django Python web framework | Opensource.com](https://opensource.com/article/20/11/django-rest-framework-serializers)
 * [번역 | 장고에서 리퀘스트를 처리하는 방법](https://suhyunbaik.github.io/django/2020/11/23/how-django-processes-a-request/)
 * [Django - 서드 파티 패키지](https://wayhome25.github.io/django/2017/10/06/tsd-21-django-package/)
 * [(번역) 다운타임 없는 장고 마이그레이션](https://wayhome25.github.io/django/2017/09/23/django-migrations-without-downtime/)
@@ -2191,6 +2193,7 @@ Python
   * [PyQt5 Tutorial : 파이썬으로 만드는 나만의 GUI 프로그램](https://wikidocs.net/book/2165)
   * [PyQt5 및 Qt Designer 설치](https://webolutions.tistory.com/118)
   * [PyQt5 Tutorial - Setup and a Basic GUI Application](https://www.youtube.com/watch?v=Vde5SH8e1OQ)
+  * [**Handling SQL Databases With PyQt: The Basics – Real Python**](https://realpython.com/python-pyqt-database/)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
 * PySide2 [Python GUI with PyQT/PySide2. A look and guide at a popular GUI for… | by Keno Leon | The Startup | Medium](https://medium.com/swlh/python-gui-with-pyqt-pyside2-5cca38d739fa)
@@ -2742,6 +2745,7 @@ Python
   * [Analyzing eye-movement and pupil-size data with Python DataMatrix](https://www.youtube.com/watch?v=PtUmhQ2vupw)
 * [dateutil - powerful extensions to datetime](https://pypi.org/project/python-dateutil/)
 * [**Dedupe**](https://dedupe.readthedocs.io) de-duplication and entity resolution quickly on structured data
+* [Depix: Recovers passwords from pixelized screenshots](https://github.com/beurtschipper/Depix)
 * [DET (extensible) Data Exfiltration Toolkit](https://github.com/sensepost/det)
 * [DiffPy - Atomic Structure Analysis in Python A free and open source software project to provide python software for diffraction analysis and the study of the atomic structure of materials](http://www.diffpy.org/)
 * [docx](https://pypi.python.org/pypi/docx) Microsoft Office Word 2007
@@ -3313,6 +3317,7 @@ Python
 * [Ravi Chityala, "Image processing using Python", PyBay2016](https://www.youtube.com/watch?v=5Z0KopTeizk)
 * [Create ASCII Art Text Banners in Python](https://www.devdungeon.com/content/create-ascii-art-text-banners-python)
 * [CNN-Image-Processing - Python module for image processing using cellular neural networks (CNN)](https://github.com/ankitaggarwal011/CNN-Image-Processing)
+* [gallery-dl: Command-line program to download image-galleries and -collections from several image hosting sites](https://github.com/mikf/gallery-dl)
 * [gif2txt - Gif image to to Ascii Text. (Just a toy)](https://github.com/hit9/gif2txt)
 * [img2txt - Image to Ascii Text, can output to html or ansi terminal](https://github.com/hit9/img2txt)
 * [imgaug - Image augmentation for machine learning experiments. http://imgaug.readthedocs.io ](https://github.com/aleju/imgaug)
@@ -4051,6 +4056,7 @@ Python
 * [Unit Testing in Python — Patching, Mocks and Dependency Injection | by Martin Thoma | Level Up Coding](https://levelup.gitconnected.com/unit-testing-in-python-mocking-patching-and-dependency-injection-301280db2fed)
 * [CI Pipelines for Python Projects. What is a Continuous Integration… | by Martin Thoma | Level Up Coding](https://levelup.gitconnected.com/ci-pipelines-for-python-projects-9ac2830d2e38)
 * [파이썬으로 테스트 데이터 만들기 · 개발블로그](https://blog.gyus.me/2020/generate-test-data-with-python/)
+* [atheris: A Coverage-Guided, Native Python Fuzzer](https://github.com/google/atheris)
 * faker, factory boy [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
 * [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
   * [Episode #63: Validating Python tests with mutation testing](https://talkpython.fm/episodes/show/63/validating-python-tests-with-mutation-testing)
