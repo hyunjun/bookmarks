@@ -1113,11 +1113,14 @@ App
 * [paperwork.rocks](http://paperwork.rocks/)
 * [RemNote - 공부하고 글쓰는 사람을 위한 강력한 노트 도구 : SEOULRAIN](https://seoulrain.net/2020/09/12/remnote-review/)
 * [Roam](https://roamresearch.com) graph 형태로 자신의 note를 연결할 수 있는 듯
+* [Rocketbook | Best Smart Notebook | Cloud Notebook | Reusable Notebook](https://getrocketbook.com/)
+  * [전자레인지로 리셋? 자필 메모 저장앱](http://techholic.co.kr/archives/31506)
 * [Snip](https://mix.office.com/Snip) windows only
 * [stacknotes.io](http://www.stacknotes.io/home)
 * [transpose - Structured Notes to Manage Your Business and Life](https://transpose.com/)
 * [Wiki.js](https://wiki.js.org/)
-* [전자레인지로 리셋? 자필 메모 저장앱](http://techholic.co.kr/archives/31506)
+* [Yorkie](https://yorkie.dev/)
+  * [Yorkie Team](https://github.com/yorkie-team)
 
 ## Markdown
 * [존 그루버 마크다운 페이지 번역](http://nolboo.github.io/blog/2013/09/07/john-gruber-markdown/)
