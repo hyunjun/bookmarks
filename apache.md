@@ -30,6 +30,7 @@ Apache
 * [입 개발 airflow 의 schedule_interval 에 대해서](https://charsyam.wordpress.com/2020/04/16/%EC%9E%85-%EA%B0%9C%EB%B0%9C-airflow-%EC%9D%98-schedule_interval-%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C/)
 * [AWS EMR과 Airflow를 이용한 Batch Data Processing | by Min Jo | 101-devs | Aug, 2020 | Medium](https://medium.com/class101-dev/aws-emr%EA%B3%BC-airflow%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-batch-data-processing-a100fc2f4f10)
 * [CLASS101에서 Airflow와 Amazon EMR을 활용한 ETL 파이프라인 구축 - 조민구(CLASS101) :: 제32회 AWSKRUG DataScience모임 - YouTube](https://www.youtube.com/watch?v=ZhW0exu-woU)
+* [Introducing Airflow 2.0 | Astronomer](https://www.astronomer.io/blog/introducing-airflow-2-0)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
