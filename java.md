@@ -1267,6 +1267,7 @@ Java
 * [Spring Boot 기초 정리 : 네이버 블로그](https://blog.naver.com/java7ang/222151557473)
 * [1. Spring Boot + MySQL 연동](https://kim-jong-hyun.tistory.com/12)
 * [2. application.properties DB접속정보로 DataSource 빈 생성이 안된이슈](https://kim-jong-hyun.tistory.com/13)
+* [초간단 스프링부트와 컨트롤러까지 - YouTube](https://www.youtube.com/watch?v=EVgkBg-ka9Q)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
