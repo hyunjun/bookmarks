@@ -140,6 +140,7 @@ Deep Learning
 * [End-to-end Music Classification](https://www.slideshare.net/JunKim22/endtoend-music-classification-96586946)
 * [Sound Classification using Deep Learning](https://medium.com/@mikesmales/sound-classification-using-deep-learning-8bc2aa1990b7)
 * [Guitar-Set, a New Dataset for Music Information Retrieval](https://medium.com/center-for-data-science/guitar-set-a-new-dataset-for-music-information-retrieval-41b7861a87d7)
+* [Music Deep learning 프로젝트는 왜 별로 없을까요?](https://media-ai.tistory.com/15)
 * [Machine Learning for Creativity and Design Workshop (NeurIPS2018), and +@](https://keunwoochoi.wordpress.com/2018/12/10/machine-learning-for-creativity-and-design-workshop-neurips2018/)
 * [Andrew Ng: Deep Learning, Self-Taught Learning and Unsupervised Feature Learning](https://www.youtube.com/watch?v=n1ViNeWhC24)
 * [Deep Learning Summer School 2015](https://sites.google.com/site/deeplearningsummerschool/)
