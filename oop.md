@@ -222,6 +222,7 @@
 * [The Decorator Design Pattern in JavaScript](https://medium.com/javascript-in-plain-english/the-decorator-design-pattern-in-javascript-6aee27837dbd)
 * [JavaScript Technical Interview Question: is React a MVC or MVVM?](https://medium.com/javascript-in-plain-english/javascript-interview-question-is-react-an-mvc-or-mvvm-ac2ea2a5127d)
 * [Commonly Used Design Patterns in JavaScript](https://medium.com/better-programming/commonly-used-design-patterns-in-javascript-bfcd91827002)
+* [7 best JavaScript Design Patterns You Should Know](https://morioh.com/p/738f2be15243)
 
 # Python
 * [Python: Design Patterns](https://www.linkedin.com/learning/python-design-patterns)
