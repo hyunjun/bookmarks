@@ -142,6 +142,7 @@
 * [Kotlin 1.4 Online Event: Kotlin 1.4 Language Features 영상 정리](https://www.androidhuman.com/2020-10-29-kotlin_1_4_language_features)
 * [Kotlin 1.4 Online Event: News From the Kotlin Standard Library 영상 정리](https://www.androidhuman.com/2020-11-03-kotlin_1_4_standard_library)
 * [Kotlin 1.4 Online Event: kotlinx.serialization 1.0 영상 정리](https://www.androidhuman.com/2020-11-08-kotlin_1_4_serialization)
+* [Apache Kafka® Event Streaming Platform For Kotlin Developers - YouTube](https://www.youtube.com/watch?v=Y-sqGKsnSHI)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
