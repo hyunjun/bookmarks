@@ -562,6 +562,7 @@ ElasticSearch - Lucene
 * [Typesense: fast, open-source, typo-tolerant search engine](https://typesense.org/)
   * [typesense - 오픈소스 검색 엔진 | GeekNews](https://news.hada.io/topic?id=3369)
   * [2백만개 음식 레시피 검색 엔진 | GeekNews](https://news.hada.io/topic?id=3370)
+  * [우분투 20.04에서 typesense 서버 설치부터 node.js 클라이언트 예제 실행까지 | FUREWEB](https://fureweb-com.github.io/blog/2020/12/13/from-installing-the-typesense-server-to-running-nodejs-client-example-on-ubuntu-20-04.html)
 * [VOYAGER : 검색 엔진 기반 실시간 이슈 감지 시스템](http://engineering.riotgames.com/news/voyager-original-korean)
 
 # Logstash
