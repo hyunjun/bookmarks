@@ -345,6 +345,7 @@ Android
 * [sunflower: A gardening app illustrating Android development best practices with Android Jetpack](https://github.com/android/sunflower)
 * HTTP
   * [Android의 HTTP 클라이언트 라이브러리](http://d2.naver.com/helloworld/377316)
+* [MacGyver: 🤖 A simple application using Google's MLkit library and cameraX api](https://github.com/hongbeomi/MacGyver)
 * [TedBottomPicker(이미지 선택, Image Picker)](http://gun0912.tistory.com/68)
 * [TedKeyboardObserver - keyboard's visibility observer](https://github.com/ParkSangGwon/TedKeyboardObserver)
 * [TedNaverMapClustering -네이버지도용 클러스터링 유틸리티 라이브러리](https://gun0912.tistory.com/83)
