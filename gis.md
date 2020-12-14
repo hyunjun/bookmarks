@@ -47,3 +47,6 @@ GIS
 * [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
   * [You Might Not Need QGIS](http://blog.webkid.io/you-might-not-need-qgis/)
 * [pydeck: Large-scale interactive data visualization in Python](https://github.com/uber/deck.gl/tree/master/bindings/python/pydeck)
+
+# R
+* [R WSL에서 rgdal 패키지 설치 및 좌표 변환 사용해보기 - 미완성의신](https://unfinishedgod.netlify.app/2020/12/14/r-wsl%EC%97%90%EC%84%9C-rgdal-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%A2%8C%ED%91%9C-%EB%B3%80%ED%99%98-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0/)
