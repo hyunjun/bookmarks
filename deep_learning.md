@@ -756,6 +756,7 @@ Deep Learning
 * [Mixed-Precision Training of Deep Neural Networks](https://hoya012.github.io/blog/Mixed-Precision-Training/)
 * [딥러닝이 제일 열등한 모델인데 몰랐어? - 마무리 – 파비 블로그](https://blog.pabii.co.kr/deep-learning-most-inferior-model-finale/)
 * [Oguzhan Gencoglu - Best Practices for Data Augmentation | PyData Helsinki - YouTube](https://www.youtube.com/watch?v=2bS11DGO5RQ)
+* [딥러닝 배치 사이즈(batch size) vs 에포크(epoch) vs 반복(iteration)의 차이 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/machine-learning/epoch-batch/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
