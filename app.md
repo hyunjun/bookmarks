@@ -270,6 +270,7 @@ App
   * [Ghost에서 Jekyll로 이사하기(1) - 글 가져오기 - 완두블로그](https://wani.kr/posts/2015/01/30/migrate-from-ghost-to-jekyll-1/)
   * [Ghost에서 Jekyll로 이사하기(2) - Code Highlighter 설치 - 완두블로그](https://wani.kr/posts/2015/01/30/migrate-from-ghost-to-jekyll-2/)
   * [Jekyll에 Mathjax 추가하기 - 완두블로그](https://wani.kr/posts/2015/12/17/add-mathjax-to-jekyll/)
+  * [jekyll을 사용한 첫 게시글 | FUREWEB](https://fureweb-com.github.io/blog/2017/07/28/hello-to-the-jekyll-world.html)
   * [블로그에 The Open Graph protocol 메타데이터를 추가하고 트위터 카드까지 챙긴다](http://ohyecloudy.com/pnotes/archives/blogging-the-open-graph-protocol-metadata/)
   * [오늘 부터 나도 github.io 블로그 운영자다!! | github pages , goormide, hexo](https://www.youtube.com/watch?v=8uRgIwgumqA)
   * [github 블로그로 딱!! 필요한 만큼만 배우는 초 초 초 간단!! markdown과 vim !! 사용법!!](https://www.youtube.com/watch?v=pHaBt4JzfVU)
@@ -1167,7 +1168,9 @@ App
   * [엑셀에서 Distinct Count 구하기](https://www.popit.kr/%EC%97%91%EC%85%80%EC%97%90%EC%84%9C-distinct-count-%EA%B5%AC%ED%95%98%EA%B8%B0)
   * [1. 능력있는 직장인이 되는 법. 엑셀 자동화란?](https://steemit.com/kr-newbie/@gbgg/excel-1)
   * [How To : 엑셀에서 종속적 드롭다운 목록 만드는 방법](http://www.itworld.co.kr/news/151189)
-* [Google Sheet 로 몸무게를 기록하자](https://jusths.tistory.com/144) bar chart
+* Google sheet
+  * [Google Sheet 로 몸무게를 기록하자](https://jusths.tistory.com/144) bar chart
+  * [브라우저에서 Google Sheets를 서버 없이 데이터베이스처럼 사용하기 | FUREWEB](https://fureweb-com.github.io/blog/2020/11/16/using-google-sheets-as-a-database-without-a-server-in-the-browser.html)
 
 # Password
 * [bitwarden - Solve your password management problems](https://bitwarden.com/) lastpass open source
