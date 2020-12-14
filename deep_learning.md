@@ -1703,6 +1703,7 @@ Deep Learning
   * [Graph Convolutional Networks for relational graphs](https://github.com/tkipf/relational-gcn) keras
   * [Graph Convolutional Neural Networks](https://www.slideshare.net/uspace/graph-convolutional-neural-networks)
   * [How to do Deep Learning on Graphs with Graph Convolutional Networks](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780)
+  * [Graph Convolutional Networks using only NumPy - YouTube](https://www.youtube.com/watch?v=8qTnNXdkF1Q)
 * [Graph Nets - DeepMind's library for building graph networks in Tensorflow and Sonnet](https://github.com/deepmind/graph_nets)
 * [Convolutional neural network in practice](http://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
