@@ -39,6 +39,7 @@ Haskell
 * [Gausian distributions form a monoid](https://izbicki.me/blog/gausian-distributions-are-monoids)
 * [Blazing fast Fibonacci numbers using Monoids](http://www.haskellforall.com/2020/04/blazing-fast-fibonacci-numbers-using.html)
 * [Monoidal Catamorphisms | Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2020/06/15/monoidal-catamorphisms/)
+* [하스켈 세미그룹 모노이드 제약](https://gist.github.com/nattybear/57ba14d0ebaf57f8836cea0e2aa6773e)
 * [Haskell Communities and Activities Report](https://www.haskell.org/communities/05-2015/html/report.html)
 * [If Haskell were strict, what would the laziness be like?](http://nikita-volkov.github.io/if-haskell-were-strict/)
 * [haskell as a javascript MVC framework](http://tonyday567.github.io/blog/mvc-todo/)
