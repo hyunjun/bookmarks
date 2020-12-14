@@ -899,6 +899,7 @@ Machine Learning
 * [캐글 대회 메달따는 팁. 2. Stochastic weight averaging](https://www.youtube.com/watch?v=C0vnmsGIOEo)
 * [If I had to start learning Data Science again, how would I do it?](https://towardsdatascience.com/if-i-had-to-start-learning-data-science-again-how-would-i-do-it-78a72b80fd93)
 * [데이터 과학자의 놀이터이자 배움터··· ‘캐글’ 탐험 안내서 - CIO Korea](http://www.ciokorea.com/news/156983#csidx38a8f0304e359eb99d874466bd08c99)
+* [Google Research Football with Manchester City F.C. | Kaggle](https://www.kaggle.com/c/google-football/discussion)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
