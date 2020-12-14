@@ -206,6 +206,7 @@ Programming Language
   * [Albert Dahlin Moving to the Actor Model in Elm Elm Europe 2019](https://www.youtube.com/watch?v=YV_qrjN8bRA)
   * [Elm Radio Dillon Kearns, Jeroen Engels](https://podcasts.apple.com/us/podcast/elm-radio/id1506220473)
   * [Announcing Elm Optimize Level 2! - Show and Tell - Elm](https://discourse.elm-lang.org/t/announcing-elm-optimize-level-2/6192)
+  * [How to setup IHP with Elm | DrifterCode](https://driftercode.com/blog/ihp-with-elm/)
   * [elm-review v2!](https://jfmengels.net/elm-review-v2/)
   * [elm-language-server](https://github.com/elm-tooling/elm-language-server/blob/master/README.md)
 * [English script - English as a programming language!](https://github.com/pannous/english-script/)
