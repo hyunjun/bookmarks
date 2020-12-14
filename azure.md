@@ -49,6 +49,7 @@ Azure
 * [애저 펑션 Swagger UI 소개](https://blog.aliencube.org/ko/2019/02/02/introducing-swagger-ui-on-azure-functions/)
 * [애저 펑션에서 Swagger를 이용해 파워 플랫폼을 위한 커스텀 커넥터 곧바로 생성하기 | Aliencube](https://blog.aliencube.org/ko/2020/07/15/creating-custom-connector-from-azure-functions-with-swagger/)
 * [새롭게 톺아보는 애저 펑션 의존성 관리](https://blog.aliencube.org/ko/2019/02/22/revising-dependency-injections-on-azure-functions-v2/)
+* [Azure Functions in Any Language with Custom Handlers - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/apps-on-azure/azure-functions-in-any-language-with-custom-handlers/ba-p/1942744)
 * [Fluent API를 사용한 Domain Specific Language (DSL) 첫걸음](https://blog.aliencube.org/ko/2019/01/11/domain-specific-language-with-fluent-api/)
 * [Getting Started with Azure Functions and their extensions Superpower](https://hackernoon.com/getting-started-with-azure-functions-and-their-extensions-superpower-b4bc1bb29865)
 * [Azure WebApp in 2018](https://youngjaekim.wordpress.com/2019/03/30/azure-webapp-in-2018/)
