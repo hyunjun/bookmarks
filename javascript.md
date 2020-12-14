@@ -2081,6 +2081,7 @@ Javascript
   * [PM2 — Node.js 서버를 더 쉽게 관리하기 — 2](https://medium.com/harrythegreat/pm2-node-js-%EC%84%9C%EB%B2%84%EB%A5%BC-%EB%8D%94-%EC%89%BD%EA%B2%8C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-2-d03f6396139f)
   * [PM2를 활용한 Node.js 무중단 서비스하기](https://engineering.linecorp.com/ko/blog/pm2-nodejs)
   * [PM2로 Node.js 앱이 무중단 상태가 되도록 관리하기](https://blog.rhostem.com/posts/2019-10-23-pm2-graceful-reload)
+  * [Node.js 프로세스 관리자 - PM2 - YouTube](https://www.youtube.com/watch?v=p1Hp09Fr8HQ)
 * [polymer starter kit - A starting point for Polymer 1.0 apps https://developers.google.com/web/tools/polymer-starter-kit](https://github.com/PolymerElements/polymer-starter-kit)
 * [private-message - a tiny tool which enables you to easily send and recieve encrypted messages via Github](https://github.com/sadasystems/private-message)
 * [pullPlaylist is a small library that downloads all the videos in a particular Youtube Playlist and converts them into mp3 for audio consumption](https://github.com/sameid/pullplaylist)
