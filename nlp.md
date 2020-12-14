@@ -340,6 +340,7 @@ NLP
 * [Google AI Blog: Advancing NLP with Efficient Projection-Based Model Architectures](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html) GPT-3와 반대로 적은 parameter로 만드는 model에 대한 이야기
 * [Automate Data Cleaning with Unsupervised Learning | by Marco Cerliani | Towards Data Science](https://towardsdatascience.com/automate-data-cleaning-with-unsupervised-learning-2046ef59ac17)
 * [Knowledge Graphs in Natural Language Processing @ ACL 2020 | by Michael Galkin | Towards Data Science](https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2020-ebb1f0a6e0b1)
+* [지식그래프에서 경로를 탐색하는 모델 AttnIO를 소개합니다](https://tech-kakaoenterprise.tistory.com/95)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
