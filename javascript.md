@@ -3167,6 +3167,8 @@ Javascript
   * [ReasonML vs TypeScript: comparing their type systems](https://medium.freecodecamp.org/reasonml-typescript-comparing-their-type-systems-620e4343221c)
   * [What is Reason? A language from Facebook that compiles to JavaScript](https://medium.com/front-end-field-guide/what-is-reason-30bc63aa1953)
   * [그린랩스 기술 블로그](https://green-labs.github.io/)
+  * [자바스크립트 개발자를 위한 ReasonML | 그린랩스](https://green-labs.github.io/what-is-reason-ml)
+  * [프론트엔드 개발 ReasonML이라 좋았던 점 | 그린랩스](https://green-labs.github.io/reason-ml-the-good-parts)
 * [Component Typing in React](https://hyunseob.github.io/2018/07/15/component-typing-in-react/)
 * [타입스크립트 3.0](https://engineering.huiseoul.com/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-3-0-99e5d45ec439)
 * [타입스크립트 모노레포](https://blog.bglee.me/posts/2018/typescript-monorepo/)
