@@ -438,6 +438,7 @@ NLP
 * [Using BERT to Battle Job Scams. The BERT model has many practical… | by Sadrach Pierre, Ph.D. | Towards Data Science](https://towardsdatascience.com/using-bert-to-battle-job-scams-d98e6a0ca1e1)
 * [Pydata Berlin Meetup October 2020: Long Story Short: - YouTube](https://www.youtube.com/watch?v=LfdbCfKGKco)
 * [KoBART: Korean BART](https://github.com/SKT-AI/KoBART) Bidirectional and Auto-Regressive Transformers, 한국어 encoder-decoder 언어 모델
+* [kobart-transformers: kobart on huggingface transformers](https://github.com/hyunwoongko/kobart-transformers)
 * [soongsil-bert-base-nsmc.ipynb - Colaboratory](https://colab.research.google.com/drive/1Js24ps3JvsN-WO9DURzueTUeCmg_BP-g)
 
 # Book
