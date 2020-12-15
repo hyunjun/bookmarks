@@ -1506,6 +1506,7 @@ Python
 * Django
   * [Django 자습](https://wikidocs.net/book/837)
   * [점프 투 장고](https://wikidocs.net/book/4223)
+  * [이지 투 장고](https://kitle.xyz/ez2django/)
 * [Effective Pandas](https://leanpub.com/effective-pandas)
 * [Full Stack Python](https://www.fullstackpython.com/)
 * Flask [점프 투 플라스크 - WikiDocs](https://wikidocs.net/book/4542)
