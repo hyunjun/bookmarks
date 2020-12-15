@@ -846,6 +846,7 @@ Web
 * [Build Your Own WebAssembly Compiler](https://www.infoq.com/presentations/webassembly-details/)
 * [Hands-on WebAssembly: Try the basics — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
 * [WebAssembly Is the End of the Internet As We Know It | by Michael Krasnov | Better Programming | Medium](https://medium.com/better-programming/webassembly-is-the-end-of-the-internet-as-we-know-it-9085a49cbc7b)
+* [Debugging WebAssembly with modern tools  |  Google Developers](https://developers.google.com/web/updates/2020/12/webassembly)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
