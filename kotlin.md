@@ -237,6 +237,7 @@
 * [코틀린의 코루틴 — 6. Channels. 코루틴의 Channels에 대해 알아봅니다. | by hongbeom | hongbeomi dev | Jun, 2020 | Medium](https://medium.com/hongbeomi-dev/%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-%EC%BD%94%EB%A3%A8%ED%8B%B4-6-channels-3c9ab42df14f)
 * [코틀린 Coroutine의 Exception에 대한 정리](https://developer88.tistory.com/263)
 * [Coroutine의 Scope 와 Job 그리고 Structured concurrency](https://developer88.tistory.com/276)
+* [Kotlin Coroutines의 runBlocking은 언제 써야 할까? 잘 알고 활용하자!](https://thdev.tech/kotlin/2020/12/15/kotlin_effective_15/)
 
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
