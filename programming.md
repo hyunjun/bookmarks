@@ -2041,6 +2041,7 @@ Programming
   * [기술 뉴스 #161 : 20-11-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1507)
   * [기술 뉴스 #162 : 20-11-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1512)
   * [기술 뉴스 #163 : 20-12-02 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1515)
+  * [기술 뉴스 #164 : 20-12-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1519)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
