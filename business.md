@@ -594,6 +594,7 @@ Business
 * [국내외 콘텐츠 스타트업 17곳의 비즈니스 모델 사례](https://brunch.co.kr/@daeminpark/45)
 * [1,000억 원짜리 사업을 만드는 길 (The Road to $100M)](https://acquiredentrepreneur.tistory.com/27)
 * [시리즈 A 란 무엇인가? – Live & Venture](https://liveandventure.com/2020/09/27/series-a/)
+* [진정성과 스타트업 (번역) – 이바닥늬우스](https://ebadak.news/2020/12/14/earnest/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
