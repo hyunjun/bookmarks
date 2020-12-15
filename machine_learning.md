@@ -1126,6 +1126,7 @@ Machine Learning
 * [사이킷 런의 svm.SVC 사용 및 흉내내어 만들어보기 ML with pYTHON](https://www.youtube.com/watch?v=4hZmWdk6IrA)
 * [A Complete Machine Learning Project Walk-Through in Python](https://morioh.com/p/b56ae6b04ffc)
 * [Interpretable Machine Learning | LIME In Machine Learning](https://www.analyticsvidhya.com/blog/2019/08/decoding-black-box-step-by-step-guide-interpretable-machine-learning-models-python/)
+* [Decision Trees in Machine Learning (ML) with Python Tutorial | by Towards AI Team | Towards AI | Nov, 2020 | Medium](https://medium.com/towards-artificial-intelligence/decision-trees-in-machine-learning-ml-with-python-tutorial-3bfb457bce67)
 
 ## Python Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
