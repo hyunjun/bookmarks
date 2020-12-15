@@ -615,6 +615,7 @@ NLP
 * [Dialogue Generation](https://pingpong.us/ko/generation/)
 * [일상대화 챗봇 분석 시스템 구축기 1편 - 데이터 파이프라인 편 – 핑퐁팀 블로그](https://blog.pingpong.us/chatbot-data-pipeline/)
 * [일상대화 챗봇 분석 시스템 구축기 2편 - 데이터 시각화 편 – 핑퐁팀 블로그](https://blog.pingpong.us/chatbot-data-visualization/)
+* [챗봇을 위한 대화는 어떻게 디자인할까](https://d2.naver.com/helloworld/2110494)
 
 ## ChatBot Python
 * [Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
