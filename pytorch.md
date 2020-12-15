@@ -313,6 +313,7 @@ PyTorch
   * [Deep-Learning-Boot-Camp/day02-PyTORCH-and-PyCUDA/PyCUDA](https://github.com/QuantScientist/Deep-Learning-Boot-Camp/tree/master/day02-PyTORCH-and-PyCUDA/PyCUDA)
 * [PyRobot - An Open Source Robotics Research Platform](https://www.pyrobot.org/)
   * [Open-sourcing PyRobot to accelerate AI robotics research](https://ai.facebook.com/blog/open-sourcing-pyrobot-to-accelerate-ai-robotics-research/)
+* [pystiche: A Framework for Neural Style Transfer | by Philip Meier | PyTorch | Dec, 2020 | Medium](https://medium.com/pytorch/pystiche-a-framework-for-neural-style-transfer-1ea6e4825f32)
 * [pythia - A modular framework for Visual Question Answering research from Facebook AI Research (FAIR)](https://github.com/facebookresearch/pythia)
   * [Facebook open-sources deep learning framework Pythia for image and language models](https://venturebeat.com/2019/05/21/facebook-open-sources-deep-learning-framework-pythia-for-image-and-language-models)
 * [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
