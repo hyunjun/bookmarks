@@ -1119,6 +1119,7 @@ Javascript
 * [GraphQL vs Rest | Benefits of GraphQL | Level Up Coding](https://levelup.gitconnected.com/6-months-of-using-graphql-faa0fb68b4af)
 * [Why use GraphQL? - Apollo Blog](https://www.apollographql.com/blog/why-use-graphql/)
 * [Why not use GraphQL? | wundergraph](https://wundergraph.com/blog/why_not_use_graphql)
+* [코드 한줄도 안쓰고 GraphQL/REST API 만들기! - YouTube](https://www.youtube.com/watch?v=AGnrODF7CLc)
 * [xgenecloud: Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)](https://github.com/xgenecloud/xgenecloud)
 
 # Gulp
