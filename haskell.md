@@ -297,6 +297,7 @@ Haskell
 * [Error Messages in Haskell, and how to Improve them](https://anthony.noided.media/blog/haskell/programming/2020/05/14/haskell-errors.html)
 * [Haskell - Data.Array.Log256 (SAFE, idiomatic and ⊥)](http://blog.stermon.com/articles/2020/05/22/haskell-data-array-log256-safe-idiomatic-and-bottom.html)
 * [bracketing and async exceptions in haskell](https://joeyh.name/blog/entry/bracketing_and_async_exceptions_in_haskell/)
+* [하스켈 함수의 선언과 사용](https://gist.github.com/nattybear/ba8a8c31e251ed2341b4f13028ac2599)
 * do [The doomsday machine](https://tech.fretlink.com/the-doomsday-machine/)
 * exception
   * [THE THREE KINDS OF HASKELL EXCEPTIONS AND HOW TO USE THEM](https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html)
