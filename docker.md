@@ -776,6 +776,8 @@ Docker
 * [Boosting your kubectl productivity](https://learnk8s.io/blog/kubectl-productivity/)
 * [Coding a real-time dashboard for Kubernetes](https://learnk8s.io/real-time-dashboard)
 * [쿠버네티스 시작하기 - 쿠버네티스란 무엇인가?](https://subicura.com/2019/05/19/kubernetes-basic-1.html)
+* [쿠버네티스 시작하기 - 설치부터 배포까지](https://subicura.com/2020/12/13/kubernetes-basic-2.html)
+* [쿠버네티스 따라하기](https://subicura.com/k8s/)
 * [How to securely deploy to Kubernetes from Bitbucket Pipelines](https://medium.freecodecamp.org/how-to-securely-deploy-to-kubernetes-from-bitbucket-pipelines-78e668f331b9)
 * [From Bare-Metal To Kubernetes](http://highscalability.com/blog/2019/4/8/from-bare-metal-to-kubernetes.html)
 * [Railyard: how we rapidly train machine learning models with Kubernetes](https://stripe.com/blog/railyard-training-models)
