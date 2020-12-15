@@ -716,6 +716,7 @@ Clojure
 * [pepa - A document management system](https://github.com/bevuta/pepa)
 * [Perseverance is a flexible retried operations library inspired by the Common Lisp’s condition system](https://github.com/grammarly/perseverance)
 * [plet - Parallel let macro inspired by Haxl](https://github.com/eunmin/plet)
+* [potemkin: some ideas which are almost good](https://github.com/clj-commons/potemkin)
 * [prone Build Status - Better exception reporting middleware for Ring](https://github.com/magnars/prone)
 * [purnam - Language Extensions for Clojurescript http://purnam.github.io/purnam](https://github.com/purnam/purnam)
   * [ClojureScript interop 최강자 : purnam](https://groups.google.com/forum/#!topic/clojure-kr/rxUCiNLkgO4)
