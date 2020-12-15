@@ -133,6 +133,7 @@ Linux
 * [2020: The Year of the Linux Desktop - Moving from Macbook to Linux - CodiMD](https://monadical.com/posts/moving-to-linux-desktop.html)
 * [Getting started with btrfs for Linux | Opensource.com](https://opensource.com/article/20/11/btrfs-linux)
 * [Tricky Signal Tracing in Kernel](https://www.ooseel.net/me/2020/12/tricky-signal-tracing-in-kernel/)
+* [Perl and Python one-liners in bash, cmd, and PowerShell](https://www.johndcook.com/blog/2020/12/14/shells-quoting-and-one-liners/)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
