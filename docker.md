@@ -928,6 +928,7 @@ Docker
   * [조대협의 블로그 :: Kubeflow pipeline 과 TFX 메모](https://bcho.tistory.com/1378)
 * [kubethanos kills half of your pods randomly to engineer chaos in your preferred environment, gives you the opportunity to see how your system behaves under failures](https://github.com/berkay-dincer/kubethanos)
 * [Kubevirt | Wait... Running Virtual Machine (VM) inside Kuberenetes? Now, you can! - YouTube](https://www.youtube.com/watch?v=3kQDtXE4qi8)
+* [Kui - a terminal with visualizations by and for developers](https://kui.tools/)
 * [Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/)
 * [Lens | The Kubernetes IDE](https://k8slens.dev/)
 * [maesh - Simpler Service Mesh](https://containo.us/maesh/)
