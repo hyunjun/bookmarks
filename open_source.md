@@ -70,6 +70,8 @@ Open Source
 * [Hacktoberfest 2020 참가 후기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1508)
 * [오픈 소스 프로젝트에 기여해야 하는 이유. 이 글은 원문 Why You Should Start… | by Dayoon Kim | 코드스테이츠 Code States — 혁신적인 교육 부트캠프 | Nov, 2020 | Medium](https://medium.com/code-states/%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-8274ef576a10)
 * [공개SW 페스티벌에서 발표한 "오픈소스 뒤에 메인테이너 있어요" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1517)
+* [EOST2020](https://eostday.kr/)
+  * [언택트 시대, 오픈소스 기여를 위해 고려해야 할 것들 - YouTube](https://www.youtube.com/watch?v=hrjbqK03O9k)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
