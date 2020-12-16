@@ -1441,6 +1441,7 @@ Programming Books
 * [**파이썬 중급자를 위한 책 추천 – winterjung blog**](https://winterj.me/python-books-for-intermediate/)
 * (NOT YET) [프로그래머를 위한 파이썬](https://jpub.tistory.com/1097)
   * [practices-of-the-python-pro: Examples and exercises for Practices of the Python Pro from Manning Books 🐍📘](https://github.com/daneah/practices-of-the-python-pro)
+* (NOT YET) [Do it! 점프 투 플라스크](https://sihan-son.github.io/do-it-flask/)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
