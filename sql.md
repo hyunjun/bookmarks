@@ -58,6 +58,7 @@ SQL
   * [(즐겁게 배우는 SQL #13) 테이블을 조인하자 - LEFT JOIN](https://jhrogue.blogspot.com/2020/12/sql-13-left-join.html)
   * [(즐겁게 배우는 SQL #14) 테이블을 조인하자 - CROSS JOIN](https://jhrogue.blogspot.com/2020/12/sql-14-cross-join.html)
   * [(즐겁게 배우는 SQL #15) 테이블을 조인하자 - SELF JOIN](https://jhrogue.blogspot.com/2020/12/sql-15-self-join.html)
+  * [(즐겁게 배우는 SQL #16) 테이블을 조인하자 - FULL OUTER JOIN](https://jhrogue.blogspot.com/2020/12/sql-16-full-outer-join.html)
 * [고독쓰나미 - YouTube](https://www.youtube.com/channel/UClUrjhtzmAJL-sgXe6sNUkw)
 * [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
 * [EDB is a framework to make and manage backups of your database](https://github.com/RoxasShadow/EDB)
