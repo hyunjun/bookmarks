@@ -690,6 +690,7 @@ App
     * 오픈소스 방송 프로그램. 화면 녹화, 게임 실시간 스트리밍, 녹음 등 인터넷 방송에 필요한 대부분의 기능 사용 가능
     * [Niek/obs-web: OBS-web - the easiest way to control OBS remotely](https://github.com/Niek/obs-web)
     * [OBS Studio - OBS 스튜디오 가이드 - StreamLabs.kr](https://streamlabs.kr/obs-studio-guide/)
+    * [영상제작 obs에서 발표용 화면 구성하기 - YouTube](https://www.youtube.com/watch?v=iVIRYY9TO0k)
   6. [나트론 Natron](https://natrongithub.github.io)
     * 오픈 소스 노드 기반 합성 프로그램. 오픈 소스 및 상용 OpenFX 플러그인 지원. 다양한 VFX 이펙트를 만들거나 여러 영상을 노드 형식으로 합성 가능
   7. [잉크스케이프 Inkscape](https://inkscape.org/ko)
