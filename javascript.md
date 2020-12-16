@@ -1668,6 +1668,7 @@ Javascript
 * [Snowpack - Build web applications with less tooling and 10x faster iteration](https://www.snowpack.dev/)
   * [Introducing Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
   * [Snowpack 써보기 | imch.dev](https://imch.dev/posts/a-experiment-of-snowpack)
+  * [create-react-app에서 snowpack으로의 마이그레이션 | blog.rhostem.com](https://blog.rhostem.com/posts/2020-12-16-migration-from-cra-to-snowpack)
 * [workerize: Run a module in a Web Worker](https://github.com/developit/workerize)
   * [Bundling Web Workers for NPM | souporserious](https://souporserious.com/bundling-workers-for-npm/)
 * [Yarn: First Look at the New Package Manager for JavaScript](http://www.eloquentwebapp.com/yarn-new-package-manager-javascript/)
