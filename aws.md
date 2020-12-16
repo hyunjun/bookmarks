@@ -963,3 +963,4 @@ AWS
 * [NCP-to-AWS-IPsec-multi-Cloud - 리눅서의 기술술 블로그](https://linuxer.name/2020/11/ncp-to-aws-ipsec-multi-cloud/)
 * [AWS-managed-MQ-RabbitMQ-VPC-review - 리눅서의 기술술 블로그](https://linuxer.name/2020/11/aws-managed-mq-rabbitmq-vpc-review/)
 * [AWS VPC Reachability Analyzer - Part 1 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1108)
+* [AWS VPC Reachability Analyzer - Part 2 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1110)
