@@ -296,6 +296,8 @@ Vision
 * [Computer Vision Recipes: Best Practices and Examples](https://www.kdnuggets.com/2020/09/computer-vision-recipes-best-practices-examples.html)
 * [ImageClassify_TeachableMachine_App](https://github.com/wgfactory/ImageClassify_TeachableMachine_App)
 * [스마트하게 식단을 관리하는 딥러닝 기술](https://tech.kakaoenterprise.com/84)
+* [Parallel_Development_Community_GPGPU_Study](https://github.com/ConstantPark/Parallel_Development_Community_GPGPU_Study)
+  * [Parallel Development Community - YouTube](https://www.youtube.com/channel/UCh09yimx3phi31V7B2DVHOw/videos)
 
 # Book
 * [Hands-On Computer Vision with TensorFlow 2, published by Packt](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
