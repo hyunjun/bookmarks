@@ -525,6 +525,7 @@ Interview
   * [Clément Mihailescu - YouTube](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g) AlgoExpert 창업자
 * [algospot](https://www.algospot.com)
 * [atcoder.jp](https://atcoder.jp)
+* [awesome-advent-of-code: A collection of awesome resources related to the yearly Advent of Code challenge](https://github.com/Bogdanp/awesome-advent-of-code)
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
   * [coding.sh](http://coding.sh/) online programming
 * [binarysearch.io Master algorithms together Create a room, invite your friends, and race to finish the problems](https://binarysearch.io)
