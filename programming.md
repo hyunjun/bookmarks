@@ -434,6 +434,7 @@ Programming
 * [좌충우돌 API 함수 이름은 어떻게 짓는게 좋을까?](https://www.popit.kr/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-api-%ED%95%A8%EC%88%98-%EC%9D%B4%EB%A6%84%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A7%93%EB%8A%94%EA%B2%8C-%EC%A2%8B%EC%9D%84%EA%B9%8C/)
 * [개발자가 가지고 놀 만한 ‘똑똑한 API 17종’](http://www.ciokorea.com/news/149532)
 * [7 Apps You Can Definitely Build With These Free APIs](https://medium.com/better-programming/7-apps-you-can-definitely-build-with-these-free-apis-6d30124527fc)
+* [7 Free APIs That Nobody Is Talking About | by Anurag Kanoria | JavaScript In Plain English | Nov, 2020 | Medium](https://medium.com/javascript-in-plain-english/7-free-apis-that-nobody-is-talking-about-cf974e15917)
 * [A Curated List of 100 Cool and Fun Public APIs to Inspire Your Next Project](https://medium.com/better-programming/a-curated-list-of-100-cool-and-fun-public-apis-to-inspire-your-next-project-7600ce3e9b3)
 * [API 이코노미를 살펴본다 (1) 최근 기술 및 사업화 동향 :: Channy's Blog](http://channy.creation.net/blog/1371)
 * [Elle Townsend | My 5 favourite APIs | The Startup](https://medium.com/swlh/my-top-5-apis-for-new-developers-5191031da102)
