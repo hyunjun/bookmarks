@@ -2283,6 +2283,7 @@ Programming
 * [리팩터링에 대한 단상](https://huns.me/posts/2020-05-06-36)
 * [코드 악취를 맡는 후각 훈련의 시간](https://helloworld.kurly.com/blog/rms-refactoring/)
 * [리팩터링 2판: 리팩터링 원칙](https://jusths.tistory.com/182)
+* [마틴 파울러 리팩토링의 중요성 (한글 자막) - YouTube](https://www.youtube.com/watch?v=mNPpfB8JSIU)
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
