@@ -447,6 +447,7 @@ Data Visualization
   * [Seaborn with Matplotlib (4) | Pega Devlog](https://jehyunlee.github.io/2020/10/10/Python-DS-37-seaborn_matplotlib4/)
   * [Visualization of Uncertainty | Pega Devlog](https://jehyunlee.github.io/2020/11/01/Python-DS-42-ci/)
   * [Visualization of Image Exceeding Limitation | Pega Devlog](https://jehyunlee.github.io/2020/12/03/Python-DS-46-bnvis/)
+  * [수능 Trend Visualization (1) | Pega Devlog](https://jehyunlee.github.io/2020/12/17/Python-DS-48-suneung/)
   * [Matplotlib+ Seaborn + Pandas: An Ideal Amalgamation for Statistical Data Visualisation | by Meet Desai | Towards Data Science](https://towardsdatascience.com/matplotlib-seaborn-pandas-an-ideal-amalgamation-for-statistical-data-visualisation-f619c8e8baa3)
   * [파이썬 데이터 시각화 도구 씨본의 변화들 seaborn - distplot이 없어졌다?! - YouTube](https://www.youtube.com/watch?v=J2KTLJQDN6k)
   * [Mastering catplot() in Seaborn with categorical plots | Towards Data Science](https://towardsdatascience.com/mastering-catplot-in-seaborn-categorical-data-visualization-guide-abab7b2067af)
