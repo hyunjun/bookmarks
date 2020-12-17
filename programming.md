@@ -1358,6 +1358,7 @@ Programming
 * [다시 보는 2018 한국의 주요 개발 / 테크 컨퍼런스들](https://www.44bits.io/ko/post/replay-2018-korea-tech-development-conferences)
 * [다시 보는 2019 한국의 주요 IT 개발 컨퍼런스 모음](https://www.44bits.io/ko/post/replay-2019-korea-tech-development-conferences)
 * [버추얼 컨퍼런스의 전성 시대 온라인으로 열리는 개발 컨퍼런스 모음](https://www.44bits.io/ko/post/news--virtual-developer-conferences)
+* [2020년 한 해 동안 방구석에서 온라인 오픈소스 컨퍼런스에 참가한 후기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/2020-virtual-opensource-conference-recap/)
 
 # Continuous Integration, CI
 * [Maximum Development Speed and Stability by Using a Continuous Integration and Deployment Server](https://medium.com/turtler/maximum-development-speed-and-stability-by-using-a-continuous-integration-and-deployment-server-1e1d5dbce5)
