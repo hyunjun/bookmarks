@@ -1268,6 +1268,7 @@ Java
 * [1. Spring Boot + MySQL 연동](https://kim-jong-hyun.tistory.com/12)
 * [2. application.properties DB접속정보로 DataSource 빈 생성이 안된이슈](https://kim-jong-hyun.tistory.com/13)
 * [초간단 스프링부트와 컨트롤러까지 - YouTube](https://www.youtube.com/watch?v=EVgkBg-ka9Q)
+* [(2020.12.16) 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 최신 코드로 변경하기](https://jojoldu.tistory.com/539) gradle, junit, JPA
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
