@@ -846,6 +846,7 @@ Scala
 * time
   * [practice - DateTimeFormatter ZoneId ZonedDateTime](https://gist.github.com/hyunjun/9a57cd5e2f574cbd837c882aad5b0391)
   * [practice - DateTimeFormatter joda](https://gist.github.com/hyunjun/9a57cd5e2f574cbd837c882aad5b0391#file-datetimeformatter_joda-md)
+  * [practice - jodatime with ammonite](https://gist.github.com/hyunjun/9a57cd5e2f574cbd837c882aad5b0391#file-joda_amm-scala)
 * trait
   * [Everything You Ever Wanted to Know About Sealed Traits in Scala](http://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)
   * [practice - sealed trait - sealed class/companion object - final case class](https://gist.github.com/hyunjun/95db19477284625f359a5e250eabb471#file-sealed-md)
