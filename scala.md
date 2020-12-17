@@ -1121,6 +1121,8 @@ Scala
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 * [renesca - Scala library for the Neo4j REST API](https://github.com/renesca/renesca)
   * [renesca-magic - typesafe graph database schemas in Scala for Neo4j](https://github.com/renesca/renesca-magic)
+* [requests-scala: A Scala port of the popular Python Requests HTTP client: flexible, intuitive, and straightforward to use](https://github.com/lihaoyi/requests-scala)
+  * [practice - com.lihaoyi.requests + string to XML](https://gist.github.com/hyunjun/037109f4b2ac9fa32eaa10c4616f24ed#file-requests_and_xml-scala)
 * [Sangria - Scala GraphQL Implementation](http://sangria-graphql.org/)
 * [sca.la - This is an URL shortener for the Scala community](https://sca.la/)
 * [scala audio file - Minimal Scala library to process audio files](https://github.com/mziccard/scala-audio-file)
