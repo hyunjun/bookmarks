@@ -629,6 +629,7 @@ Git
   * [여러개의 Git 저장소 (repository)로 이루어진 프로젝트 관리하기](http://pseg.or.kr/pseg/index.php?document_srl=7337&l=ko&mid=infouse)
   * [git submodule로 오픈소스 upstream 관리하기](https://earlybird.kr/2255)
   * [How to manage the local submodule without URL like github.com](https://jinhoyoo.github.io/How-to-manage-the-local-submodule/)
+  * [저장소 안에 저장소 - git submodule - YouTube](https://www.youtube.com/watch?v=TAe4uZqYt6c)
 * subtree
   * [git subtree를 사용하여 재사용할 코드 독립 시키기](http://readme.skplanet.com/?p=8542)
   * [Git subtree로 코드 공유하기](https://blog.rhostem.com/posts/2020-01-03-code-sharing-with-git-subtree)
