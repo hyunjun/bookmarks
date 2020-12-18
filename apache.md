@@ -656,6 +656,8 @@ Apache
 * [Trifecta - a web-based and Command Line Interface (CLI) tool that enables users to quickly and easily inspect, verify and even query Kafka messages](https://github.com/ldaniels528/trifecta)
 * [trivup - Trivially Up a cluster of applications](https://github.com/edenhill/trivup)
   * 프로그래밍 방식으로 카프카 클러스터를 구축하고 해체하는 도구. 클라이언트 응용 프로그램에 대한 Kafka의 SSL 인증 및 암호화 지원
+* [wix/greyhound: Greyhound - Rich Kafka client library](https://github.com/wix/greyhound)
+  * [Kafka Cron using wix/greyhound. I think one of the best ways to learn… | by Algimantas Krasauskas | Wix Engineering | Dec, 2020 | Medium](https://medium.com/wix-engineering/kafka-cron-using-wix-greyhound-64c7b99a1c3e)
 * [zoe: The missing companion for Kafka](https://github.com/adevinta/zoe)
 
 ## Kafka Stream
