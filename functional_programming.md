@@ -407,6 +407,7 @@ Functional Programming
 * [Divide, conquer, choose, ap and alt by Samuel Halliday at Scala in the City October 2020 - YouTube](https://www.youtube.com/watch?v=JmOFKdpuF9g)
 * [Let’s apply functional programming to solve a practical problem | SoftwareMill Tech Blog](https://blog.softwaremill.com/functional-pancakes-cf70023f0dcb)
 * [Programming with Functions #1 - Introduction - YouTube](https://www.youtube.com/watch?v=FNQ7OsCSpc8)
+* [Programming with Functions #2 - Functions as Data - YouTube](https://www.youtube.com/watch?v=RX1_EJp9Vxk)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
