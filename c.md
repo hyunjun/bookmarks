@@ -474,6 +474,7 @@ C
       * [finding tokens in a string](http://www.gnu.org/software/libc/manual/html_node/Finding-Tokens-in-a-String.html)
     * wcstombs [`wchar_t*` -> `char*`](http://momobing.tistory.com/22)
     * wprintf
+* [strtoul 함수 – 언제나 휴일](https://ehpub.co.kr/strtoul-%ED%95%A8%EC%88%98/)
 * time_t
   * mktime
   * strftime
