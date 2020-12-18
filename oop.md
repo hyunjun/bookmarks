@@ -89,6 +89,7 @@
 * [singleton 클래스 이야기(4)](http://www.gilgil.net/15809)
 * [Keep it Simple with the Strategy Design Pattern](https://blog.bitsrc.io/keep-it-simple-with-the-strategy-design-pattern-c36a14c985e9)
 * [디자인 패턴 - 소개 | Pacientes's Devlog](https://pacientes.github.io/posts/2020/11/design_pattern_introduction/)
+* [pacientes/Design-Pattern-In-Cpp: Design Pattern using C++ Language.](https://github.com/pacientes/Design-Pattern-In-Cpp)
 
 # C#
 * [Factory Design Pattern (C#)](https://blog.usejournal.com/factory-design-pattern-c-a330955b9ed6)
