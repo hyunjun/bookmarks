@@ -396,6 +396,7 @@ Python
   * ['파이썬-아래아한글 자동화 응용' 카테고리의 글 목록](https://www.martinii.fun/category/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%84%EB%9E%98%EC%95%84%ED%95%9C%EA%B8%80%20%EC%9E%90%EB%8F%99%ED%99%94%20%EC%9D%91%EC%9A%A9)
   * ['파이썬-아래아한글 자동화 기초' 카테고리의 글 목록](https://employeecoding.tistory.com/category/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%84%EB%9E%98%EC%95%84%ED%95%9C%EA%B8%80%20%EC%9E%90%EB%8F%99%ED%99%94%20%EA%B8%B0%EC%B4%88)
   * ['파이썬-아래아한글 자동화 응용' 카테고리의 글 목록](https://employeecoding.tistory.com/category/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%84%EB%9E%98%EC%95%84%ED%95%9C%EA%B8%80%20%EC%9E%90%EB%8F%99%ED%99%94%20%EC%9D%91%EC%9A%A9)
+  * [pyhwp - .hwp file format v5 parser in python http://pythonhosted.org/pyhwp ](https://github.com/mete0r/pyhwp)
 * [파이썬으로 한컴오피스 한글2018 조작하는 방법6 : html table태그를 아래한글 표로 옮기기](https://www.youtube.com/watch?v=zMW1Mb_0QWo)
 * [모든 프로그래밍 요구를 충족하는 12가지 파이썬](http://www.itworld.co.kr/news/132322) 여러가지 배포판 이야기
 * [Minimizing context switching between shell and Python](https://www.johndcook.com/blog/2019/12/30/shell-and-python/)
@@ -2936,7 +2937,6 @@ Python
   * [pygal](http://impythonist.in/create-hacker-dashboards-with-python-and-pygal-with-lesser-effort/)
 * [pygit: Just enough of a Git client to create a repo, commit, and push itself to GitHub](http://benhoyt.com/writings/pygit/)
 * [py-googletrans - Free Unofficial Google Translate API for Python. Translates totally free of charge. http://py-googletrans.rtfd.org/en/latest/googletrans.html ](https://github.com/ssut/py-googletrans)
-* [pyhwp - .hwp file format v5 parser in python http://pythonhosted.org/pyhwp ](https://github.com/mete0r/pyhwp)
 * [**PyIDM: python open source alternative to IDM (Internet Download Manager) with multi-connections, high speed engine, based on python, pycurl, youtube_dl, and pysimplegui**](https://github.com/pyIDM/PyIDM)
 * pyinotify
   * [Monitoring a filesystem with Python and Pyinotify](http://www.saltycrane.com/blog/2010/04/monitoring-filesystem-python-and-pyinotify/)
