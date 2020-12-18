@@ -2604,6 +2604,7 @@ Javascript
 * [How to Make a Fake Chat Bot With React](https://medium.com/better-programming/how-to-make-a-fake-chat-bot-with-react-a0ab7f3fee7b)
 * [How to Implement Instant Search within 5 Minutes in your React App using MeiliSearch](https://levelup.gitconnected.com/how-to-implement-instant-search-within-5-minutes-in-your-react-app-using-meilisearch-6cfa5818bcaf)
 * [How To Pass Multiple Route Parameters in a React URL Path](https://medium.com/better-programming/how-to-pass-multiple-route-parameters-in-a-react-url-path-4b919de0abbe)
+* [`pages` 폴더 경로를 이용한 동적 라우팅 | LearnApplyShare](https://min9nim.now.sh/2020-12-18-react-routing/)
 * [React Bits](https://vasanthk.gitbooks.io/react-bits/)
 * [Monorepo로 대규모 React 프로젝트 관리하기](https://medium.com/myrealtrip-product/monorepo%EB%A1%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-d12b65340306)
 * [reactGo: Your One-Stop solution for a full-stack universal Redux App!](https://github.com/reactGo/reactGo)
