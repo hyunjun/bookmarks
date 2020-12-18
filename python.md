@@ -1495,6 +1495,7 @@ Python
 * [FIND THE BEST PYTHON BOOKS](http://pythonbooks.org/)
 * [11 Best Python Books To Read in 2020 - Nextotech](https://nextotech.com/best-python-books-in-2020/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
+* [Legally Free Python Books List - Python kitchen](https://www.pythonkitchen.com/legally-free-python-books-list/)
 * [**Books by Agiliq**](https://books.agiliq.com)
   * Django Admin Cookbook, Django ORM Cookbook, Building APIs with Django and Django Rest Framework, Building Multi Tenant Applications with Django, Django Projects Cookbook, Django Design Patterns, Django Gotchas
   * Journeyman Python, Essential Python Tools, Tweetable Python, Software consulting Howto, Visual Arts with Python
