@@ -559,6 +559,7 @@ Scala
 * [Four new features of Scala 2.13 releases that you probably missed | Not cumbersome at all](https://cucumbersome.net/2020/11/28/four-new-features-of-scala-2-13-releases-that-you-probably-missed/) interpolator on pattern matching, toXOption, Pipe and tap, Exhaustivity checks with if guards
 * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=3qJ-IYhuK_I) Either, sealed trait로 type 정의
   * [practice - Either](https://gist.github.com/hyunjun/badf4b2082ac8ba0c585c6fe8d527e70#file-either-scala)
+* [Scala Filesystem Operations (paths, move, copy, list, delete) - MungingData](https://mungingdata.com/scala/filesystem-paths-move-copy-list-delete-folders/)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -1510,6 +1511,7 @@ Scala
   * [parallel cross building sandwich | eed3si9n](http://eed3si9n.com/parallel-cross-building-sandwich)
 * sbt-rewarn [Life with fatal warnings | Roman Timushev](https://timushev.com/posts/2020/07/25/life-with-fatal-warnings/)
 * [sbt-sonatype: Blazingly Fast Release to Sonatype](https://medium.com/@taroleo/sbt-sonatype-f02bdafd78f1)
+* sbt-strict-update [enforcing Semantic Versioning with sbt-strict-update | eed3si9n](https://eed3si9n.com/enforcing-semver-with-sbt-strict-update)
 * [sbt-yourkit](https://index.scala-lang.org/gilt/sbt-yourkit/sbt-yourkit)
 * [WartRemover: a flexible scala linter](http://www.wartremover.org/)
   * [Writing Custom Wart for Scala](https://medium.com/@tapanvaishnav17/writing-custom-wart-for-scala-9d0adbcb30bc)
