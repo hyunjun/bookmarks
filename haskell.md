@@ -299,6 +299,7 @@ Haskell
 * [bracketing and async exceptions in haskell](https://joeyh.name/blog/entry/bracketing_and_async_exceptions_in_haskell/)
 * [하스켈 함수의 선언과 사용](https://gist.github.com/nattybear/ba8a8c31e251ed2341b4f13028ac2599)
 * [하스켈 함수의 타입](https://gist.github.com/nattybear/6df16d5a2237a316ca8e9d7171d2aff5)
+* [하스켈 infix 연산자](https://gist.github.com/nattybear/630fc2a4f419b23ccc297d9eff2b8eba)
 * do [The doomsday machine](https://tech.fretlink.com/the-doomsday-machine/)
 * exception
   * [THE THREE KINDS OF HASKELL EXCEPTIONS AND HOW TO USE THEM](https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html)
