@@ -574,6 +574,7 @@ Apache
 * [Is Apache Kafka a Database?. Can and should Apache Kafka replace a… | by Kai Waehner | Medium](https://medium.com/@megachucky/is-apache-kafka-a-database-ddc310898f5c)
 * [kafka 아는 척하기 (개발자용) :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/kafka-intro-1-for-developers)
 * [Kafka is not a Database – Materialize](https://materialize.com/kafka-is-not-a-database/)
+* [Sizing Calculator for Apache Kafka and Confluent Platform](https://eventsizer.io/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
