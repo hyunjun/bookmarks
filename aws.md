@@ -615,6 +615,7 @@ AWS
 * [Technical Deep Dive: Running Amazon EC2 Workloads at Scale - AWS Online Tech Talks](https://www.youtube.com/watch?v=sNT5PstZpS8) scaling, 비용 최적화
 * [AWS S3를 EC2 인스턴스에 Mount 예제](https://millionairedeveloper.tistory.com/m/3)
 * [AWS EC2에 SSH 쉽게 접속하기 (3mins)](https://stevenshim.github.io/easy-ssh-ec2)
+* [AWS에서 수동으로 ssh 접속을 위한 Pem key 생성하기](https://jojoldu.tistory.com/540)
 * [서로 다른 EC2 인스턴스간에 연결하기 (feat. Ping)](https://jojoldu.tistory.com/430)
 * [EC2 (Amazon Linux 1) 에 Jenkins 설치하기](https://jojoldu.tistory.com/441)
 * [아마존 EC2 인스턴스 타입 검색 기능 추가](https://www.44bits.io/ko/post/news-filtering-amazon-ec2-instance-types)
