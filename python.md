@@ -1848,6 +1848,7 @@ Python
 * [Django Builder](https://mmcardle.github.io/django_builder/)
 * [Django get_or_create() 함수에서 발생한 MySQL Deadlock 이슈 해결하기](https://tech.peoplefund.co.kr/2019/10/26/get-or-create-deadlock.html)
 * [Django Mysql - Python DB 연동 방법](https://developer-ankiwoong.tistory.com/931)
+* [장고에서 C mysql 이 임포트 되지 않는 문제 해결하기 · 개발블로그](https://blog.gyus.me/2020/import-c-library-in-python/)
 * [Django 2 by Example, published by Packt](https://github.com/PacktPublishing/Django-2-by-Example)
 * [Django Mini Project 부트스트랩 랜딩페이지 구름IDE](https://www.youtube.com/watch?v=Z8QyGBUVDdY)
 * [Django, 공공데이터포털, Google Map으로 전기차 충전소 위치찍기](https://www.youtube.com/watch?v=stHfQdcsZFo)
