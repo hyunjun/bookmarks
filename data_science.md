@@ -318,6 +318,7 @@ Data Science
 * [Data Science Life Cycle 101 for Dummies like Me | by Sangeet Moy Das | Towards Data Science](https://towardsdatascience.com/data-science-life-cycle-101-for-dummies-like-me-e66b47ad8d8f)
 * [입력 데이터를 정규화 하는 이유 : 네이버 블로그](https://blog.naver.com/jk96491/222103858904)
 * [**Quantified Self Part 6 - 생산적인 하루에 대한 정량적인 표현과 4년간의 데이터 이야기 - HumanBrain**](https://dongjunlee.github.io/quantified%20self/QS_Part_6_Analysis_My_Life/)
+* [Almost Everything You Need To Know on Data Discovery Platforms](https://eugeneyan.com/writing/data-discovery-platforms/)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
