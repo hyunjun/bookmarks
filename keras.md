@@ -187,6 +187,7 @@ Keras
 * [Practical Keras. Simple regression for the Numerai… | by Keno Leon | Medium](https://medium.com/@k3no/practical-keras-59c9d18ef6cf)
 * [keras Conv2D | Pega Devlog](https://jehyunlee.github.io/2020/11/29/Python-DL-1-conv2d/)
 * [keras BatchNormalization | Pega Devlog](https://jehyunlee.github.io/2020/12/01/Python-DL-4-bn/)
+* [케라스 API를 사용한 사용자 정의 모델 만들기 with 텐서플로 2.3+2.4 Colaboratory](https://colab.research.google.com/github/rickiepark/handson-ml2/blob/master/custom_model_in_keras.ipynb)
 
 # Book
 * [keras-idiomatic-programmer - Handbooks and Code Samples for Software Engineers wanting to learn the Keras Machine Learning framework](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer)
