@@ -272,6 +272,7 @@ Business
 * [업무 인수인계 잘하기](https://brunch.co.kr/@lunarshore/37)
 * [B2B SaaS 가격책정 하는 법 | GeekNews](https://news.hada.io/topic?id=3091)
 * [스피드로 성공한 회사보다, 손익분기 맞춰 성공한 회사가 오래 간다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/181275)
+* [How to operate](https://www.notion.so/How-to-operate-b7a3f2591bd043dd81ef0861f47035d7)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -451,6 +452,7 @@ Business
 * [14화 리더가 절대 하지 말아야 하는 세가지 행동](https://brunch.co.kr/@mindclinic/94)
 * [그렇게 최악의 리더가 된다: 절대 따라 하면 안 되는 11가지 리더 유형 | ㅍㅍㅅㅅ](https://ppss.kr/archives/227842)
 * [팀원 성장시키기: 발표 컨설팅 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220082)
+* [IT: 당신은 좋은 리더입니까?](https://jybaek.tistory.com/884)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
