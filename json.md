@@ -13,8 +13,6 @@ Json
 * [B급 프로그래머 (스택오버플로우) 구글이 JSON 응답에 while(1);을 붙여 보내는 이유는?](http://jhrogue.blogspot.com/2019/03/b-json-while1.html)
 * [Use Binary Encoding Instead of JSON - Better Programming - Medium](https://medium.com/better-programming/use-binary-encoding-instead-of-json-dec745ec09b6)
 * [JSON 데이터 타입을 처리하는 웹 어플리케이션에서 XXE 취약점이 발생하는 이유](http://blog.naver.com/crehacktive3/222037182911)
-* [nestedtext: Human Readable and Writable Data Interchange Format](https://github.com/KenKundert/nestedtext) json과 yaml과 다른 또 다른 형식의 파일포맷
-  * [NestedText: A Human Friendly Data Format](https://nestedtext.org/)
 
 # C++
 * [JSON for Modern C++ https://nlohmann.github.io/json ](https://github.com/nlohmann/json)
@@ -40,7 +38,7 @@ Json
 
 # Java
 * json to java class
-  * [www.jsonschema2pojo.org](http://www.jsonschema2pojo.org/)
+  * [jsonschema2pojo](http://www.jsonschema2pojo.org/)
   * [jsongen.byingtondesign.com](http://jsongen.byingtondesign.com/)
   * [javafromjson.dashingrocket.com](https://javafromjson.dashingrocket.com/)
   * [stackoverflow.com/questions/1957406/generate-java-class-from-json](http://stackoverflow.com/questions/1957406/generate-java-class-from-json)
@@ -128,7 +126,13 @@ Json
     # yum install jq -y
     ```
 * [jsawk - Like awk, but for JSON http://thinkminimo.com](https://github.com/micha/jsawk)
+* Json2CSharp [Convert JSON to C# Classes Online - Json2CSharp Toolkit](https://json2csharp.com/)
+* [JSON 2 HTML](https://json.bloople.net/)
+* [json2kotlin.com | Online JSON to Kotlin Data Class Models Generator](https://www.json2kotlin.com/)
 * [json2table.com](http://json2table.com/)
+* [json2ts - generate TypeScript interfaces from json](http://json2ts.com/)
+* [JSON2XML](https://esstudio.site/json2xml/)
+* [JSON to CSV - CSVJSON](https://csvjson.com/json2csv)
 * [json-chance - Create random JSON objects using json-spawn and Chance.js](https://github.com/luisfarzati/json-chance)
 * [JSONConfigurablePersonalSite - A JSON configurable personal site; example site: http://www.christophior.com](https://github.com/christophior/JSONConfigurablePersonalSite)
 * [Json Data Generator - A robust, generic, streaming random json data generator for your data](https://github.com/acesinc/json-data-generator)
@@ -157,8 +161,11 @@ Json
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
 * [Korean JSON - 한국어 데이터를 제공하는 초간단 JSON API](https://koreanjson.com/)
 * [λJSON is a drop-in replacement for JSON which also allows you to parse and stringify pure functions and their contents](https://github.com/MaiaVictor/LJSON)
+* [nestedtext: Human Readable and Writable Data Interchange Format](https://github.com/KenKundert/nestedtext) json과 yaml과 다른 또 다른 형식의 파일포맷
+  * [NestedText: A Human Friendly Data Format](https://nestedtext.org/)
 * [open bucket - A simple API to store & retrieve JSON objects](http://openbucket.io/)
 * [python-jsonschema-objects - Automatic Python binding generation from JSON Schemas](https://github.com/cwacek/python-jsonschema-objects)
+* quicktype [Instantly parse JSON in any language | quicktype](https://app.quicktype.io/)
 * [REL - How we turned JSON into a full programming language Intro to REL — The Fancy JSON](https://medium.com/relevant-stories/rel-chapter-1-907ff616bf80)
 * [REN is simple yet powerful data storage, exchange and notation format](https://github.com/humanistic/REN)
 * [sondra - A validated JSON manager and REST API generator for Python, Flask, and RethinkDB](https://github.com/JeffHeard/sondra)
