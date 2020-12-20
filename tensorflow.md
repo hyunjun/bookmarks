@@ -891,6 +891,7 @@ TensorFlow
   * [TensorFlow Lattice: Flexibility Empowered by Prior Knowledge](https://research.googleblog.com/2017/10/tensorflow-lattice-flexibility.html)
   * [TensorFlow Lattice: 사전 지식을 기반으로 한 유연성 강화](https://developers-kr.googleblog.com/2017/10/TensorFlow-Lattice.html)
   * [TensorFlow for JavaScript](https://www.youtube.com/watch?v=0nYmKKxGUBo)
+* [tensorflow_macos: TensorFlow for macOS 11.0+ accelerated using Apple's ML Compute framework](https://github.com/apple/tensorflow_macos)
 * [tensorflow-pix2pix - A lightweight pix2pix Tensorflow implementation](https://github.com/Eyyub/tensorflow-pix2pix)
   * [pix2pix GAN in TensorFlow 2.0](https://towardsdatascience.com/pix2pix-gan-in-tensorflow-2-0-fe0ab475c713)
   * [A Gentle Introduction to Pix2Pix Generative Adversarial Network](https://machinelearningmastery.com/a-gentle-introduction-to-pix2pix-generative-adversarial-network/)
