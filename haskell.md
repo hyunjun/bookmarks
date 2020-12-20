@@ -305,7 +305,9 @@ Haskell
   * [THE THREE KINDS OF HASKELL EXCEPTIONS AND HOW TO USE THEM](https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html)
 * filter [하스켈 filter 만들어보기](https://gist.github.com/nattybear/9746555fe0db4bf7d3440e0e5b6561f0)
 * IO [The power of IO in Haskell | 47 Degrees](https://www.47deg.com/blog/io-haskell/)
-* Maybe [하스켈 Maybe 모노이드](https://gist.github.com/nattybear/66bc89ea5ccf5258fbb77db52a54a7db)
+* Maybe
+  * [하스켈 Maybe 모노이드](https://gist.github.com/nattybear/66bc89ea5ccf5258fbb77db52a54a7db)
+  * [하스켈 Maybe 트랜스포머](https://gist.github.com/nattybear/2ca95a74c8703516542bb5557d672238)
 * String [Eat Haskell String Types for Breakfast](https://free.cofree.io/2020/05/06/string-types/)
 
 # Book
