@@ -423,6 +423,7 @@ Python
 * [Advanced Python: Metaprogramming. Explaining what, why and how… | by Farhad Malik | FinTechExplained | Medium](https://medium.com/fintechexplained/advanced-python-metaprogramming-980da1be0c7d)
 * [7 Best Hosting Platforms for Python Application](https://geekflare.com/python-hosting-platform/)
 * [I created my own YouTube algorithm (to stop me wasting time) | by Chris Lovejoy | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/i-created-my-own-youtube-algorithm-to-stop-me-wasting-time-afd170f4ca3a)
+* [Start Python #3 Backend Program 만들기 - Class - Kowana's coding](https://www.kowanas.com/coding/2020/12/20/class/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -2791,6 +2792,8 @@ Python
   * [파이썬 동시성 프로그래밍 - (5) 비동기 (gevent)](http://hamait.tistory.com/756)
   * [Watching filesystem updates with gevent](https://www.ibisc.univ-evry.fr/~fpommereau/blog/2015-05-28-watching-filesystem-updates-with-gevent.html)
   * [**gevent For the Working Python Developer**](http://sdiehl.github.io/gevent-tutorial/)
+* [ghapi: A delightful and complete interface to GitHub's amazing API](https://github.com/fastai/ghapi/tree/master/)
+  * [Learn about ghapi, a new third-party Python client for the GitHub API - The GitHub Blog](https://github.blog/2020-12-18-learn-about-ghapi-a-new-third-party-python-client-for-the-github-api/)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org](https://github.com/jeanphix/Ghost.py)
 * [GOOGLER: NOW YOU CAN GOOGLE FROM LINUX TERMINAL!](https://itsfoss.com/review-googler-linux/)
 * google API
@@ -4106,6 +4109,7 @@ Python
   * [Open Sourcing Pytest Tools](https://blogs.dropbox.com/tech/2016/03/open-sourcing-pytest-tools/) pytest-flakefinder, unittest2pytest 
   * [Structuring Unit Tests in Python | Python In Plain English](https://medium.com/python-in-plain-english/unit-testing-in-python-structure-57acd51da923)
   * [Pytest Plugins to Love ❤️. My top 5 and honorable 50 out of 600+… | by Martin Thoma | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/pytest-plugins-to-love-%EF%B8%8F-9c71635fbe22)
+  * [Start Python #2 Unit Test 사용하기 ( feat. pytest ) - Kowana's coding](https://www.kowanas.com/coding/2020/12/19/unit-test/)
   * [playwright-python: Python version of the Playwright testing and automation library](https://github.com/microsoft/playwright-python)
     * [Announcing Playwright for Python: Reliable end-to-end testing for the web | Python](https://devblogs.microsoft.com/python/announcing-playwright-for-python-reliable-end-to-end-testing-for-the-web/)
   * [pytest-bdd - BDD library for the py.test runner](https://github.com/pytest-dev/pytest-bdd)
