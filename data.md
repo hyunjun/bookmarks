@@ -70,3 +70,4 @@ Government
 # Library
 * [Label Studio - an open-source, configurable data annotation tool](https://github.com/heartexlabs/label-studio)
 * [recaptcha-dataset: Dataset of thousands of reCAPTCHA images](https://github.com/deathlyface/recaptcha-dataset)
+* [recipenlg: Set of scripts and notebooks used to produce results visible in RecipeNLG paper](https://github.com/Glorf/recipenlg)
