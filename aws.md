@@ -439,7 +439,6 @@ AWS
 * [다른 AWS Reseller를 이용하면서 OpsNow를 이용하는 방법! – OpsNow Tech Blog](https://blog.opsnow.com/22)
 * [입 개발 AWS S3 503 Slow Down과 AWS S3 Versioning은 관계가 있다. | Charsyam's Blog](https://charsyam.wordpress.com/2020/11/26/%ec%9e%85-%ea%b0%9c%eb%b0%9c-aws-s3-503-slow-down%ea%b3%bc-aws-s3-versioning%ec%9d%80-%ea%b4%80%ea%b3%84%ea%b0%80-%ec%9e%88%eb%8b%a4/)
 * [AWS-apple-MAC-instance - 리눅서의 기술술 블로그](https://linuxer.name/2020/12/aws-apple-mac-instance/)
-* [AWS re:Invent 2020 Top Announcements 살펴보기 | Popit](https://www.popit.kr/aws-reinvent-2020-top-announcements-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0)
 * [AWS Announces New Database Service Babelfish for Aurora PostgreSQL in Preview](https://www.infoq.com/news/2020/12/aws-postgresql-aurora-babelfish/)
 
 # AMI Amazon Machine Image
@@ -525,6 +524,8 @@ AWS
   * [AWS 리인벤트(re:Invent) 키노트를 즐기는 방법 ](https://www.44bits.io/ko/post/how-to-enjoy-aws-reinvent-keynotes)
   * [AWS Community Day - re:Invent 특집](https://www.youtube.com/playlist?list=PLORxAVAC5fUXNenBdbgVRVaUlxNJZltWa)
   * [부제: 라스베가스의 AWS re:Invent를 어린이대공원에서 Recap 하기](http://www.popit.kr/awskrug-%EC%8B%A0%EB%85%84-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0-1/)
+  * [AWS re:Invent 2020 Top Announcements 살펴보기 | Popit](https://www.popit.kr/aws-reinvent-2020-top-announcements-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0)
+  * [AWS re:Invent 2020 Daily Recap - 일일 요약 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUUXSM9uoOZZoafzQPZeh5bM)
 * AWS Summit
   * [AWS Summit Online Korea 2020 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUWAd4oEEXU-PSb4LELpPA82)
   * [AWS Summit 2019](https://www.youtube.com/playlist?list=PLORxAVAC5fUWyB6Hsk9ibYJHw97k1h6s9)
