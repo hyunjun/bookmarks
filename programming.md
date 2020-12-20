@@ -714,6 +714,7 @@ Programming
 * [Lv0 에서 Lv2 까지 - 인프런 서비스 리뉴얼 - Hyung Joo](https://www.hyungjoo.me/4%EB%85%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%B0-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%98%A4%ED%94%88/)
 * [A Cloud-Native Architecture for a Digital Enterprise](https://www.infoq.com/articles/cloud-native-architecture/)
 * [Hide :: Stripe 결제 시스템 도입하기](https://hides.tistory.com/1073)
+* [Financial Times의 데이터플랫폼 구축기 | GeekNews](https://news.hada.io/topic?id=3416)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -1955,6 +1956,7 @@ Programming
   * [11월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/11/b-11-4.html)
   * [12월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/12/b-12-1.html)
   * [12월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/12/b-b-12-2.html)
+  * [12월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/12/b-12-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
