@@ -95,6 +95,7 @@ Data Visualization
 * [데이터, 인사이트를 눈으로 확인하려면? | ㅍㅍㅅㅅ](https://ppss.kr/archives/220443)
 * [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
 * [5 ‘More’ Open Source tools to get started with Data Visualisation | by Parul Pandey | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/5-more-open-source-tools-to-get-started-with-data-visualisation-a03373972f81)
+* [SVG와 삼각 함수로 도넛 차트 만들어보기 | Evans Library](https://evan-moon.github.io/2020/12/12/draw-arc-with-svg-clippath/)
 
 # D3.js
 * [d3.js 만든 마이크 보스톡, ‘뉴욕타임스’ 떠난다](http://www.bloter.net/archives/227355)
@@ -162,29 +163,30 @@ Data Visualization
 * [Graph visualization](http://e.biohackers.net/Graph_visualization)
 
 # Javascript
+* [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
+* chart.js
+  * [The Beginner’s Guide to Chart.js](https://www.stanleyulili.com/javascript/beginner-guide-to-chartjs/)
+  * [chart-on-blog: Tool for drawing chart on blog(based on chart.js) / 블로그 게시글에 차트 쉽게 그려주는 도구(chart.js 기반)](https://github.com/jaeyeon302/chart-on-blog)
+* [Greylock Data Visualization Library](https://greylock.js.org/)
 * [Mercury - data visualize and discovery with Javascript, such as apache zeppelin and jupyter](https://github.com/cloverhearts/mercury)
+* [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org ](https://github.com/mozilla/metrics-graphics)
+* [plotly.js](https://plot.ly/javascript/)
+  * [An introduction to plotly.js — an open source graphing library](https://medium.freecodecamp.org/an-introduction-to-plotly-js-an-open-source-graphing-library-c036a1876e2e)
+* [SandDance - Visually explore, understand, and present your data. https://sanddance.js.org ](https://github.com/Microsoft/SandDance)
+  * Visual Studio Code, Azure Data Studio에서도 사용 가능, 2D/3D 히스토그램, bar, density, scatter, Grid, Treemap 등 다양한 시각화 가능
+  * [Microsoft open sources SandDance, a visual data exploration tool](https://cloudblogs.microsoft.com/opensource/2019/10/10/microsoft-open-sources-sanddance-visual-data-exploration-tool/)
 * Victory [차트 라이브러리 Victory 튜토리얼 따라하기. 자유도가 높지만 코드가 복잡해지는 D3.js, 자유도가 낮지만 원하는… | by Duckuism | podo_official | Sep, 2020 | Medium](https://medium.com/official-podo/%EC%B0%A8%ED%8A%B8-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-victory-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0-f9332ae7c97a)
 * [visx: 🐯 visx | visualization components](https://github.com/airbnb/visx)
   * [Introducing visx from Airbnb. A collection of expressive, low-level… | by Chris C Williams | Airbnb Engineering & Data Science | Sep, 2020 | Medium](https://medium.com/airbnb-engineering/introducing-visx-from-airbnb-fd6155ac4658)
 
 # Library
 * [Better Data Presentation with Chart Blocks](https://blog.squarespace.com/better-data-presentation-with-chart-blocks)
-* chart.js
-  * [The Beginner’s Guide to Chart.js](https://www.stanleyulili.com/javascript/beginner-guide-to-chartjs/)
-  * [chart-on-blog: Tool for drawing chart on blog(based on chart.js) / 블로그 게시글에 차트 쉽게 그려주는 도구(chart.js 기반)](https://github.com/jaeyeon302/chart-on-blog)
 * [chart.xkcd - xkcd styled chart lib https://timqian.com/chart.xkcd ](https://github.com/timqian/chart.xkcd)
 * [deck.gl - a WebGL-powered framework for visual exploratory data analysis of large datasets](https://uber.github.io/deck.gl/)
 * [dragit - Direct manipulation of data graphics](http://romsson.github.io/dragit/)
-* [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
 * [Metabase - the easy, open source way for everyone in your company to ask questions and learn from data](https://www.metabase.com/)
-* [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
 * [Nanocubes - Fast visualization of large spatiotemporal datasets](http://www.nanocubes.net/)
-* [plotly.js](https://plot.ly/javascript/)
-  * [An introduction to plotly.js — an open source graphing library](https://medium.freecodecamp.org/an-introduction-to-plotly-js-an-open-source-graphing-library-c036a1876e2e)
 * [redash: Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data](https://github.com/getredash/redash)
-* [SandDance - Visually explore, understand, and present your data. https://sanddance.js.org ](https://github.com/Microsoft/SandDance)
-  * Visual Studio Code, Azure Data Studio에서도 사용 가능, 2D/3D 히스토그램, bar, density, scatter, Grid, Treemap 등 다양한 시각화 가능
-  * [Microsoft open sources SandDance, a visual data exploration tool](https://cloudblogs.microsoft.com/opensource/2019/10/10/microsoft-open-sources-sanddance-visual-data-exploration-tool/)
 * Semiotic [Introducing Semiotic for Data Visualization](https://medium.com/@Elijah_Meeks/introducing-semiotic-for-data-visualization-88dc3c6b6926)
 * [μPlot An exceptionally fast, tiny time series chart (MIT Licensed)](https://github.com/leeoniya/uPlot)
 * [Vega - a declarative format for creating, saving, and sharing visualization designs](http://vega.github.io/)
@@ -264,6 +266,7 @@ Data Visualization
 * [Tomas Sostak - Popmon: Population Shift Monitoring Made Easy | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=HE-3YeVYqPY)
 * [Andrew Therriault - Designing for Impact in Civic Data Science | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=1ODnn5fs6Nw)
 * [쿠팡이츠 배달단가 모니터링 | Python 데이터 분석 - YouTube](https://www.youtube.com/watch?v=kJFpAZaOEmY)
+* [쿠팡이츠 배달단가 모니터링 (파이썬 OCR 자동화 데이터 분석) : 클리앙](https://www.clien.net/service/board/lecture/15661703)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
 * [Awesome Panel](https://awesome-panel.org/)
