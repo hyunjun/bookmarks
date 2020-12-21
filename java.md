@@ -98,6 +98,7 @@ Java
 * [Software impedance explained](https://medium.freecodecamp.org/software-impedance-6796cc65758b)
 * [Line Messaging API를 활용한 챗봇 만들기](https://dbbymoon.tistory.com/2)
 * [Annotation과 Reflection을 이용한 챗봇 컨트롤러 만들기](https://dbbymoon.tistory.com/5)
+* [1. JAVA Reflection과 Annotaion으로 필드 및 메소드에 값 주입하기](https://kim-jong-hyun.tistory.com/22)
 * [5월 우아한 Tech 세미나 후기](http://woowabros.github.io/woowabros/2019/05/09/techseminar-java-performance.html) 성능, 라이센스, 모니터링
 * [Writing Web Applications in Java - a Study of Alternatives](https://www.infoq.com/news/2019/05/web-app-java-jvm-alternatives/)
 * [Java Almanac](https://github.com/marchof/java-almanac) SDK version간 차이 정리
