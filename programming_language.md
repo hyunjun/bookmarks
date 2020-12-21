@@ -279,6 +279,7 @@ Programming Language
 * [Lasp - A Language for Distributed, Eventually Consistent Computations](http://lasp-lang.org/)
   * [Lasp: A language for distributed, coordination-free programming](http://blog.acolyer.org/2015/08/17/lasp-a-language-for-distributed-coordination-free-programming/)
 * [Literate - A Modern Literate Programming System](http://literate.zbyedidia.webfactional.com/)
+* [liz: Lisp-flavored general-purpose programming language (based on Zig)](https://github.com/dundalek/liz)
 * LLVM
   * [LLVM for Grad Students](http://adriansampson.net/blog/llvm.html)
   * [LLVM-IR 인스트럭션 번역 목록](https://blog.naver.com/sssang97/221680828429)
