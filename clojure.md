@@ -507,6 +507,7 @@ Clojure
 * [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
 * [re:Clojure 2020 conference day 1 - YouTube](https://www.youtube.com/watch?v=qRI1Ved0SfE)
 * [re:Clojure 2020 conference day 2 - YouTube](https://www.youtube.com/watch?v=NqWR_ysLkW8)
+* [Meetup: Simplicity and Power in the latest Clojure CLI - YouTube](https://www.youtube.com/watch?v=Cqz23FEOw1A)
 
 # Debug
 * [Debugging in Clojure?](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
