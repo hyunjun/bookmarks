@@ -1398,6 +1398,7 @@ Programming
 
 # CPU
 * [Understanding CPU Microarchitecture for Performance](https://speakerdeck.com/alblue/understanding-cpu-microarchitecture-for-performance)
+* [M1은 RISC-V의 상승을 예고한다 | GeekNews](https://news.hada.io/topic?id=3447)
 
 # Cryptography, Security
 * [보안 그리고 암호화 알고리즘](https://naleejang.tistory.com/218)
