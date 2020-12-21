@@ -968,6 +968,8 @@ NLP
   * [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/2016/06/30/introducing-rouzeta/)
 * [SentencePiece - an unsupervised text tokenizer and detokenizer mainly for Neural Network-based text generation systems where the vocabulary size is predetermined prior to the neural model training](https://github.com/google/sentencepiece)
 * [Simplenlg - a simple Java API designed to facilitate the generation of Natural Language](https://github.com/delver/simplenlg)
+* [spark-nlp: State of the Art Natural Language Processing](https://github.com/johnsnowlabs/spark-nlp)
+  * [Advanced Natural Language Processing with Apache Spark NLP - YouTube](https://www.youtube.com/watch?v=78FWrtEVYeA)
 * [Stanford Natural Language Processing Group](http://nlp.stanford.edu/software/corenlp.shtml)
   * [corenlp](http://corenlp.run/)
   * [Stanford CoreNLP – a suite of core NLP tools](http://stanfordnlp.github.io/CoreNLP/)
