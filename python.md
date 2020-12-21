@@ -2534,6 +2534,7 @@ Python
   * [Google Colab Tips for Power Users - Amit Chaudhary](https://amitness.com/2020/06/google-colaboratory-tips/)
   * [구글드라이브에서 파이썬 사용하기 : 클리앙](https://www.clien.net/service/board/lecture/15171774)
   * [**Configuring Google Colab Like A Pro | by Made-Up Masters | Aug, 2020 | Medium**](https://medium.com/@robertbracco1/configuring-google-colab-like-a-pro-d61c253f7573)
+  * [How to permanently install a module on Google Colab.](https://ayoolafelix.hashnode.dev/how-to-permanently-install-a-module-on-google-colab-ckixqrvs40su044s187y274tc)
 * [Jupyter Enterprise Gateway](https://jupyter-enterprise-gateway.readthedocs.io)
   * [Jupyter Enterprise Gateway](https://developer.ibm.com/open/projects/jupyter-enterprise-gateway/)
 * [**jupyter.nims.re.kr**](https://jupyter.nims.re.kr/) github api 연동, keras 사용 가능
