@@ -2161,7 +2161,8 @@ Programming
 * [(12월 5일) 스타트업, SI 개발자를 채용해도 될까?](https://jhrogue.blogspot.com/2020/12/12-5-si.html) reveal.js – HTML 프리젠테이션 프레임워크, 문서 저장소로서 sqlite3
 * [(12월 13일) 코드 검토자와 사랑에 빠지는 방법](https://jhrogue.blogspot.com/2020/12/12-13.html)
   * [(12/13) 코드 검토자와 사랑에 빠지는 방법 - YouTube](https://www.youtube.com/watch?v=TVzl9pIUV5U)
-* [(12/20) 젊은 시절의 나에게 해주는 조언: 사이드 프로젝트에서 너무 큰 것을 기대하지 마라. - YouTube](https://www.youtube.com/watch?v=MY3kTDnKvXY)
+* [(12월 20일) 젊은 시절의 나에게 해주는 조언: 사이드 프로젝트에서 너무 큰 것을 기대하지 마라](https://jhrogue.blogspot.com/2020/12/12-20.html)
+  * [(12/20) 젊은 시절의 나에게 해주는 조언: 사이드 프로젝트에서 너무 큰 것을 기대하지 마라. - YouTube](https://www.youtube.com/watch?v=MY3kTDnKvXY)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
 
