@@ -114,6 +114,7 @@ Java
   * [(05/30) 특집 자바 25주년 기념 이야기](https://www.youtube.com/watch?v=tJBxmVLu0xI)
 * [10 things you’re doing wrong in Java](https://towardsdatascience.com/10-things-youre-doing-wrong-in-java-7608e2f050c7)
 * [Using the Kotlin stdlib in Java code | by Victoria Gonda | victoriagonda | Medium](https://medium.com/victoriagonda/using-the-kotlin-stdlib-in-java-code-2565818ba016)
+* [setter 를 언제 쓰지 말아야 할 지에 대한 간단한 생각](https://codingdog.tistory.com/entry/setter-%EB%A5%BC-%EC%96%B8%EC%A0%9C-%EC%93%B0%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-%EC%A7%80%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%83%9D%EA%B0%81)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
