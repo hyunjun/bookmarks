@@ -1530,6 +1530,7 @@ NLP
 * [NLP 언제까지 미룰래? 일단 들어와!! #4. word embedding - DACON](https://dacon.io/codeshare/1892)
 * [NLP 언제까지 미룰래? 일단 들어와!! #5. Modeling(완) - DACON](https://dacon.io/codeshare/1893)
 * [nlp-review: nlp review repository for jiphyeonjeon group](https://github.com/jiphyeonjeon/nlp-review)
+* [NLP with Python for Machine Learning Essential Training](https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training)
 
 # Twitter
 * [Analyzing Twitter Part 1](http://rohankshir.github.io/2015/06/30/analyzing-twitter-part-1/)
