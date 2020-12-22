@@ -98,6 +98,7 @@ Writing
 * [Most tech content is bullshit 기술 콘텐츠는 대체로 헛소리다](https://muchtrans.com/translations/most-tech-content-is-bullshit.ko.html)
 * [Top 29 Developer Docs - DEV](https://dev.to/pomber/top-29-developer-docs-44l0)
 * [Writing a technical book: from idea to print](https://sararobinson.dev/2020/11/17/writing-a-technical-book.html)
+* [그것이 알고 싶다 - 왜 개발자는 글을 못 쓸까? - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/why-are-engineers-so-bad-at-writing/)
 * [apiDoc - Inline Documentation for RESTful web APIs](https://apidocjs.com/)
   * [개발자가 싫어하는 문서화하기 2편 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222067713267)
 * [API Improvement Proposals](https://aip.dev)
