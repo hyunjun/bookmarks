@@ -1434,6 +1434,7 @@ Javascript
   * [date-fns 활용 - caneldar를 만들어보자. 1편 - YouTube](https://www.youtube.com/watch?v=Gz7lHUHGYJ8)
   * [date-fns 활용 - caneldar를 만들어보자. 2편 - YouTube](https://www.youtube.com/watch?v=o8CefEw3mJ4)
   * [date-fns 활용 - caneldar를 만들어보자. 3편 & nest.js 프레임워크 흉내내기 - YouTube](https://www.youtube.com/watch?v=hcEwNEd8QjE)
+  * [백엔드 개발자는 꼭 배워보세요 - YouTube](https://www.youtube.com/watch?v=SHfR1tLpe1o)
 * Netlify [Run Cypress Tests on Netlify Using a Single Line](https://cypress.io/blog/2020/03/30/run-cypress-tests-on-netlify-using-a-single-line/)
 * [notie.js - a clean and simple notification plugin (alert/growl style) for javascript, with no dependencies](https://github.com/jaredreich/notie.js)
 * [nuxt.js](https://nuxtjs.cmty.io/)
