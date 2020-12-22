@@ -672,6 +672,8 @@ Clojure
 * [jai - Manipulate source code like the DOM http://docs.caudate.me/jai](https://github.com/zcaudate/jai)
 * [Janet - a functional and imperative programming language](https://janet-lang.org/)
   * [janet - A dynamic language and bytecode vm](https://github.com/janet-lang/janet)
+* [jme-clj: A Clojure 3D Game Engine Wrapper, Powered By jMonkeyEngine](https://github.com/ertugrulcetin/jme-clj)
+  * [jme-clj | Clojure 3D Game Development Demo - YouTube](https://www.youtube.com/watch?v=IOPz9I49snM)
 * [joker - Small interpreted dialect of Clojure written in Go](https://github.com/candid82/joker)
 * [Lacinia - GraphQL implementation in pure Clojure http://lacinia.readthedocs.io ](https://github.com/walmartlabs/lacinia)
   * [lacinia-example](https://github.com/eunmin/lacinia-example)
