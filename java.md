@@ -1146,6 +1146,8 @@ Java
 * [ETag with Spring](https://woowacourse.github.io/javable/post/2020-09-30-ETag-with-Spring/)
 * [Building Java/Spring Apps in the Cloud — with Kubernetes Cloud Manager & Tekton Pipelines | by Jorge Simão | The Startup | Dec, 2020 | Medium](https://medium.com/swlh/building-java-spring-apps-in-the-cloud-with-kubernetes-cloud-manager-tekton-pipelines-681407bcd8aa)
 * [beantimer: A tools to measure Spring bean initialization time](https://github.com/vikreinok/beantimer)
+* [thymeleaf](https://okdevtv.com/mib/spring/thymeleaf)
+  * [Thymeleaf 시작하기 - YouTube](https://www.youtube.com/watch?v=tiRi6PLVesY)
 
 ## Library Spring Boot
 * [스프링 부트(Spring Boot) 소개 합니다](http://www.slideshare.net/topcredu/spring-boot-66190611)
@@ -1273,6 +1275,7 @@ Java
 * [2. application.properties DB접속정보로 DataSource 빈 생성이 안된이슈](https://kim-jong-hyun.tistory.com/13)
 * [초간단 스프링부트와 컨트롤러까지 - YouTube](https://www.youtube.com/watch?v=EVgkBg-ka9Q)
 * [(2020.12.16) 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 최신 코드로 변경하기](https://jojoldu.tistory.com/539) gradle, junit, JPA
+* [스프링부트 무료 호스팅 사용하기 - YouTube](https://www.youtube.com/watch?v=lWUIicugz6c)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
