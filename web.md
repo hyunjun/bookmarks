@@ -250,6 +250,7 @@ Web
   * [Basic Statistics of Common Crawl Monthly Archives](https://github.com/commoncrawl/cc-crawl-statistics)
 
 ## Crawler Javascript
+* [동영상 목록 페이지에서 데이터 추출하기 - YouTube](https://www.youtube.com/watch?v=sSKdw5PlRyg)
 * [NIGHTMARE - A high-level browser automation library.](http://www.nightmarejs.org)
 * [Phantom Js (Amazing library for web scraping)](https://advencode.wordpress.com/2015/04/06/phantom-js-amazing-library-for-web-scraping/)
   * [Headless Chrome의 사용방법](https://blog.outsider.ne.kr/1291)
