@@ -1113,6 +1113,7 @@ Docker
 
 # Troubleshooting
 * [practice - docker memory full with python logging](https://github.com/hyunjun/practice/tree/master/docker/python_memory_overflow)
+* [Luavis' Dev Story - 사라진 800MB를 찾아서](https://b.luavis.kr/server/missing-800mb)
 * `Bind address already in use`
   * container를 stop 했는데도, 해당 container가 사용하던 port를 반환받지 못함.  어느 정도 시간이 지난 후 다시 run 하면 되긴 하는데, 그 시간이 일정하지 않음.  짧은 경우도 있고 제법 긴 경우(몇 분?)도 있음
   * [github.com/moby/moby/issues/8714](https://github.com/moby/moby/issues/8714)
