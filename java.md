@@ -1144,6 +1144,7 @@ Java
 * [(동영상)Spring Framework MVC5 Helloworld 자바설정(Java Config)을 통한 스프링 HelloWorld 작성](http://ojc.asia/bbs/board.php?bo_table=LecSpring&wr_id=846)
 * [나의 첫 SpringRestDocs 적용기 part 1](https://ahndy84.tistory.com/27)
 * [ETag with Spring](https://woowacourse.github.io/javable/post/2020-09-30-ETag-with-Spring/)
+* [Building Java/Spring Apps in the Cloud — with Kubernetes Cloud Manager & Tekton Pipelines | by Jorge Simão | The Startup | Dec, 2020 | Medium](https://medium.com/swlh/building-java-spring-apps-in-the-cloud-with-kubernetes-cloud-manager-tekton-pipelines-681407bcd8aa)
 * [beantimer: A tools to measure Spring bean initialization time](https://github.com/vikreinok/beantimer)
 
 ## Library Spring Boot
