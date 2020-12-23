@@ -898,6 +898,7 @@ Javascript
 * [Fe Conf 2019 후기](https://blog.woolta.com/categories/9/posts/192)
 * [FEConf2020 at Home](https://2020.feconf.kr/)
 * [FEConf Korea - YouTube](https://www.youtube.com/channel/UCWEzfYIpFBIG5jh6laXC6hA/featured)
+* [FE개발자의 성장 스토리 04 : 공동체 FE 온라인 세션 후기 – tech.kakao.com](https://tech.kakao.com/2020/12/23/frontend-growth-04/)
 
 # D3 -> [data visualization](data_visualization.md)
 
