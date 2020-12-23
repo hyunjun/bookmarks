@@ -167,6 +167,7 @@ Clojure
 * [A REPL Story](http://sprungcanary.net/2015/11/29/a-repl-story/)
 * [The Ultimate Guide To Clojure REPLs](https://lambdaisland.com/guides/clojure-repls/)
 * [The fastest Clojure REPL in the world](https://anmonteiro.com/2016/11/the-fastest-clojure-repl-in-the-world/)
+* [How to be a REPL Sorcerer - YouTube](https://www.youtube.com/watch?v=AcWnGKGqFZA)
 * [Application Configuration](http://realworldclojure.com/application-configuration/)
 * [Micro-Services: Scala vs Clojure](http://glennengstrand.info/blog/?p=377)
 * [An Archaeology-Inspired Database](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
@@ -806,3 +807,5 @@ Clojure
 
 # Tutorial
 * [Full Stack Clojure Contact Book - YouTube](https://www.youtube.com/playlist?list=PLBeQxJQNprbgkmvbv80xC8R0SHcPsosjZ)
+* [Why Developers Should Look into Clojure](https://auth0-com.cdn.ampproject.org/c/s/auth0.com/blog/amp/why-developers-should-look-into-clojure/)
+* [coding dojo - maze solving](https://gist.github.com/mmzsource/e8c383f69244ebefde058004fee72a8a)
