@@ -83,6 +83,7 @@
 
 # Conference
 * [.NET Conf 2019 키노트](https://www.youtube.com/watch?v=8qtmRG5vQxM&list=PLFVJi7gR5oaP715fktQtSV6vJE76MLide)
+* [The Journey to One .NET | BOD106 - YouTube](https://www.youtube.com/watch?v=ctSqiD8BGPM)
 
 # Mac
 * [Visual Studio for Mac 설치하기](http://carrotcarrot.blog.me/220864151652)
