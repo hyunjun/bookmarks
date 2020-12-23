@@ -1549,6 +1549,7 @@ Scala
 * [Mirror, Mirror on the Wall, Who’s the Genericioust of Them All? - Generic Programming with Scala 3 - Philipp Martini](https://blog.philipp-martini.de/blog/magic-mirror-scala3/)
 * [What’s New in Scala 3?. A new compiler, creator applications… | by Akash Srivastava | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/whats-new-in-scala-3-586d69879253)
 * [Scala 3: Path-Dependent Types, Type Projections, Dependent Methods and Functions - Rock the JVM Blog](https://blog.rockthejvm.com/scala-3-dependent-types/)
+* [Quill, Dotty, And The Awesome Power of 'Inline' by Alexander Ioffe - YouTube](https://www.youtube.com/watch?v=SmBpGkIsJIU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
   * [Dotty Documentation](https://dotty.epfl.ch/docs/index.html)
   * [Scala Experimental Platform Dotty Bootstraps](http://www.infoq.com/news/2015/10/dotty-scala-bootstraps)
