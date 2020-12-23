@@ -792,6 +792,9 @@ AWS
 * [5 Serverless Architecture Best Practices with AWS Lambda | by AWS Meetup Group | Level Up Coding](https://levelup.gitconnected.com/5-serverless-architecture-best-practices-with-aws-lambda-a707206c098c)
 * [0.1초 동안 컴퓨터를 빌려보자 - AWS Lambda - YouTube](https://www.youtube.com/watch?v=t8sjTFM_tfE)
 
+## Lambda Clojure
+* [native-clojure-lambda: Example project of Clojure + GraalVM Native Image + AWS Lambda container images](https://github.com/luontola/native-clojure-lambda)
+
 ## Lambda Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
 * [How to Setup AWS Lambda in Scala without any external Library](https://edward-huang.com/aws/cloud/2019/11/28/how-to-setup-aws-lambda-in-scala-without-any-external-library/)
