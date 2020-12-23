@@ -63,6 +63,7 @@ SQL
   * [(즐겁게 배우는 SQL #18) 데이터를 그룹으로 묶어보자 - HAVING](https://jhrogue.blogspot.com/2020/12/sql-18-having.html)
   * [(즐겁게 배우는 SQL #19) 집합 연산자를 배우자 - Union](https://jhrogue.blogspot.com/2020/12/sql-19-union.html)
   * [(즐겁게 배우는 SQL #20) 집합 연산자를 배우자 - Except와 Intersect](https://jhrogue.blogspot.com/2020/12/sql-20-except-intersect.html)
+  * [(즐겁게 배우는 SQL #21) 집합 연산자를 배우자 - MySQL에서 Intersect와 Except 흉내내기](https://jhrogue.blogspot.com/2020/12/sql-21-mysql-intersect-except.html)
 * [고독쓰나미 - YouTube](https://www.youtube.com/channel/UClUrjhtzmAJL-sgXe6sNUkw)
 * [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
 * [EDB is a framework to make and manage backups of your database](https://github.com/RoxasShadow/EDB)
