@@ -873,6 +873,7 @@ Docker
 * [Troubleshooting in Kubernetes: A Strategic Guide | by Komal Venkatesh Ganesan | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/troubleshooting-in-kubernetes-a-strategic-guide-ceec28db0043)
 * [A “Krispr” Approach to Kubernetes Infrastructure | by Daniel Low | Airbnb Engineering & Data Science | Nov, 2020 | Medium](https://medium.com/airbnb-engineering/a-krispr-approach-to-kubernetes-infrastructure-a0741cff4e0c)
 * [Kubernetes 에서 Docker 를 이제 못쓴다고? 팩트체크! - YouTube](https://www.youtube.com/watch?v=XXH0Ocm_9Ro)
+* [Kubernetes에 대해 알아보겠습니다](https://developer88.tistory.com/269)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
