@@ -659,6 +659,7 @@ Python
   * [Using Class Decorators in Python. An example-led guide to using Class… | by Stephen Fordham | Towards Data Science](https://towardsdatascience.com/using-class-decorators-in-python-2807ef52d273)
   * [Why You Need Decorators in Your Python Code | by Michael Krasnov | Better Programming | Medium](https://medium.com/better-programming/why-you-need-decorators-in-your-python-code-df12d43eac9c)
   * [Decorators in Python. Introduction to the design pattern. | by Keno Leon | Python In Plain English | Medium](https://medium.com/python-in-plain-english/decorators-in-python-2c830015d719)
+  * [Practical Python: Introduction to Decorators | by Soner Yıldırım | Dec, 2020 | Towards Data Science](https://towardsdatascience.com/practical-python-introduction-to-decorators-ac33d6f736cb)
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
   * [Python Descriptors](https://www.youtube.com/watch?v=ZdvpNaWwx24)
@@ -2454,6 +2455,17 @@ Python
 * [**polynote - The polyglot notebook with first-class Scala support**](https://polynote.org)
   * [Open-sourcing Polynote: an IDE-inspired polyglot notebook](https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)
   * [hub.docker.com/r/k3vin/polynote-spark](https://hub.docker.com/r/k3vin/polynote-spark)
+* [pyxll-jupyter · PyPI](https://pypi.org/project/pyxll-jupyter/)
+  * 엑셀 주피터 노트북 결합
+  * 엑셀 데이터를 파이선으로 조작하거나, 파이선으로 조작된 데이터나 시각화 정보를 엑셀로 가져오는 2-way binding 작업에 유용
+  * pyxll-jupyter 패키지 설치하면, 엑셀에 PyXLL 이라는 확장이 설치. 여기서 Jupyter를 클릭하면, 엑셀과 주피터 노트북을 사이드-바이-사이드로 작업 가능. 단, Windows only
+  * 주피터 노트북, %xl_get 매직 커맨드로, 엑셀의 선택된 부분을 Numpy 또는 Pandas Dataframe으로 들고오기 (선택된 부분 임의로 코드 상에서 지정 가능)
+  * 주피터 노트북, %xl_set 매직 커맨드로, 엑셀의 원하는 부분에 파이선 데이터 내보내기 
+  * 주피터 노트북, %xl_plot 매직 커맨드로, 파이선 시각화 라이브러리 (matplotlib, plotly)로 그려진 도표를 엑셀로 내보내기 (크기 조절 가능)
+  * 주피터 노트북, xl_app 함수를 사용하여, 엑셀 Application 객체 접근 가능 (즉, 엑셀의 모든것을 건드릴 수 있음 - VB Script와 사실상 거의 동일)
+  * 주피터 노트북을 떠나서 다음과 같은 일도 가능
+  * @xl_func 데코레이터로 래핑된 파이선 함수를 작성, 파이선 함수 자체를 엑셀에서 호출 (해당 함수가 반환하는 값이 그대로 엑셀에 삽입) 단, 작성된 파이선 함수 위치를 config에 등록해야 함
+  * [Python Jupyter Notebooks in Excel | by Tony Roberts | Dec, 2020 | Towards Data Science](https://towardsdatascience.com/python-jupyter-notebooks-in-excel-5ab34fc6439)
 * [ReviewNB - Code Reviews for Jupyter Notebooks Say Goodbye to messy JSON diffs!](https://www.reviewnb.com/)
   * 주피터 노트북을 깃헙에 올리고, raw 한 환경에서 리뷰하면 JSON 파일. 따라서, 실질적인 리뷰를 하려면 로컬환경이나 Colab 등에 포팅한 다음 validation 체크를 하고, PR을 처리해 줘야 함
   * ReviewNB는 깃헙에서 노트북 코드의 리뷰를 실제 노트북이 렌더링 된 상태에서, 직관적으로 할 수 있도록 도와주는 툴
@@ -3581,6 +3593,7 @@ Python
 * [NumPy Tutorial 2020 - YouTube](https://www.youtube.com/watch?v=8Y0qQEh7dJg)
 * [Python NumPy Tutorial | NumPy Array | Python Tutorial For Beginners | Python Training | Simplilearn - YouTube](https://www.youtube.com/watch?v=j31ah5Qa4QI)
 * [Python Numpy. Overview & Getting started | by Keno Leon | Medium](https://medium.com/@k3no/python-numpy-aac458ea6134)
+* [NumPy Illustrated: The Visual Guide to NumPy | by Lev Maximov | Better Programming | Dec, 2020 | Medium](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 
 # [Pandas](http://pandas.pydata.org/)
 * practice
