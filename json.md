@@ -56,6 +56,8 @@ Json
 # JavaScript
 * [파서 만들기 (1) - JSON.stringify - 완두블로그](https://wani.kr/posts/2020/02/11/make-parser-1/)
 * [파서 만들기 (2) - JSON.parse - 완두블로그](https://wani.kr/posts/2020/02/22/make-parser-2/)
+* [nearley.js - JS Parsing Toolkit](https://nearley.js.org/)
+  * [**JSON.parse 직접 만들어보기. By 최종찬 | by Riiid Techblog | Dec, 2020 | Medium**](https://riiidtechblog.medium.com/json-parse-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-f567ecdf08c0)
 
 # JWT
 * [JWT - JSON Web Tokens are an open, industry standard RFC 7519 method for representing claims securely between two parties](https://jwt.io/)
