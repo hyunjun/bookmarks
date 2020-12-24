@@ -1281,6 +1281,7 @@ Programming
 * [DEVGROUND 2019](http://devground.hanbit.co.kr/) AI, data science, blockchain
 * [DevRel/Asia 2020 Korea Track - YouTube](https://www.youtube.com/watch?v=X25TQkQQjbg)
 * Naver
+  * [DEVIEW 2020 발표자료와 영상이 공개되었습니다](https://d2.naver.com/news/5751902)
   * [2020 NAVER TECH CONCERT ONLINE](https://d2.naver.com/news/6137384)
   * [www.slideshare.net/deview/presentations](http://www.slideshare.net/deview/presentations)
   * [2018](https://deview.kr/2018)
