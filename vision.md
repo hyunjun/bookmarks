@@ -628,6 +628,7 @@ Vision
 * [Artificial Neural Network Implementation using NumPy and Classification of the Fruits360 Image Dataset](https://www.linkedin.com/pulse/artificial-neural-network-implementation-using-numpy-fruits360-gad/)
 * [Snagging Parking Spaces with Mask R-CNN and Python](https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-955f2231c400)
   * [빈 주차공간 찾아서 알려주는 인공지능 만든 개발자](https://smartaedi.tistory.com/368)
+* [모자이크된 이미지를 고해상도 이미지로(CNN) : 네이버 블로그](https://blog.naver.com/educoding/222184010486)
 * [Image Segmentation using Python’s scikit-image module](https://towardsdatascience.com/image-segmentation-using-pythons-scikit-image-module-533a61ecc980)
 * [Computer vision challenges in drug discovery - Maciej Hermanowicz](https://www.youtube.com/watch?v=Y5GJmnIhvFk)
 * [Histogram](https://medipixel.github.io/post/histogram/)
