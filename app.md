@@ -148,6 +148,7 @@ App
   * [VirtualBox 네트워크 설정 상세 분석](https://cjwoov.tistory.com/11)
   * [kkamagui의 작업실 :: 버추어 박스(Virtual Box) 설정파일(.vbox) 오류 해결 방법](https://kkamagui.tistory.com/928)
   * [**macos-virtualbox: Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS**](https://github.com/myspaghetti/macos-virtualbox)
+  * [버추얼박스에 맥(macOS) 카탈리나 설치하는 방법 - 익스트림 매뉴얼](https://extrememanual.net/34793)
 * Vivaldi
   * [vivaldi 웹브라우저 써보세요](https://swifter.kr/vivaldi-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%8D%A8%EB%B3%B4%EC%84%B8%EC%9A%94/)
 * Wallpaper
