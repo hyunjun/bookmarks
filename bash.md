@@ -31,6 +31,8 @@ Shell
 * [(리눅스 업스킬 도전 #20) 셸 스크립트](https://jhrogue.blogspot.com/2020/10/20.html)
 * [13 Tips & Tricks for Writing Shell Scripts with Awesome UX | by Joseph Matthias Goh | codeburst](https://codeburst.io/13-tips-tricks-for-writing-shell-scripts-with-awesome-ux-19a525ae05ae)
 * [Create a machine learning model with Bash | Opensource.com](https://opensource.com/article/20/11/machine-learning-bash)
+* [Minimal safe Bash script template | Better Dev](https://betterdev.blog/minimal-safe-bash-script-template/)
+* [Become shell literate](https://drewdevault.com/2020/12/12/Shell-literacy.html)
 * [Bash tips for everyday at the command line | Opensource.com](https://opensource.com/article/18/5/bash-tricks)
 * [**bash parameter expansion**](https://wizardzines.com/comics/parameter-expansion/)
   * ${var}, ${#var}, ${var/bear/panda}, ${var:-othervar}, ${var:?some error}, ${var#pattern}, ${var%pattern}, ${var:offset:length}
