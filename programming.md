@@ -40,7 +40,9 @@ Programming
 * [Developer Roadmaps - Step by step guides and paths to learn different tools or technologies](https://roadmap.sh/roadmaps)
 * [Awesome Roadmaps](https://github.com/awesome-roadmaps)
 * [2020 백엔드 개발자 로드맵](https://velog.io/@exploit017/2020-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A1%9C%EB%93%9C%EB%A7%B5)
+* [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
 * [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
+* [More challenging projects every programmer should try - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
 * [Three Projects to Make You a Better Programmer | by Giuseppe | The Dev Café | Medium](https://medium.com/the-dev-caf%C3%A9/three-projects-to-make-you-a-better-programmer-65903e53620a)
 * [15 App Ideas to Build and Level Up your Coding Skills](https://blog.bitsrc.io/15-app-ideas-to-build-and-level-up-your-coding-skills-28612c72a3b1)
 * [5 Technologies to Pick Up During Quarantine and Improve Your Software Engineering Skillset](https://levelup.gitconnected.com/5-technologies-to-pick-up-during-quarantine-and-improve-your-software-engineering-skillset-68bd766bee9c)
@@ -425,6 +427,7 @@ Programming
 * [API 설계, 개발 및 테스트를 위한 10가지 무료 도구](http://www.itworld.co.kr/slideshow/99102)
 * [**개발자를 위한 API 목킹**](http://blog.aliencube.org/ko/2017/05/16/api-mocking-for-developers/)
 * [공개 구글 스프레드시트 문서를 이용하여 내가 원하는 형태의 mock API 응답받기 | FUREWEB](https://fureweb-com.github.io/blog/2020/11/17/how-to-receive-mock-api-response-in-the-form-i-want-using-a-public-google-spreadsheet-document.html)
+* [MSW – Seamless API mocking library for browser and Node | Mock Service Worker](https://mswjs.io/)
 * [How NOT to design APIs](https://blog.usejournal.com/how-not-to-design-restful-apis-fb4892d9057a)
 * [To Create An Evolvable API, Stop Thinking About URLs The basics of API design](https://medium.com/@fagnerbrack/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e)
 * [API 디자인 가이드](https://cloud.google.com/apis/design/)
@@ -531,8 +534,15 @@ Programming
 * [Software engineer — from monolith to cloud: think small](https://coder.today/software-engineer-from-monolith-to-cloud-think-small-f828effc6afc)
 * [Beyond the Distributed Monolith: Rearchitecting the Big Data Platform](https://www.infoq.com/presentations/bbc-distributed-monolith-microservices/)
 * [What Is a Modular Monolith? | Rebel](https://www.jrebel.com/blog/what-is-a-modular-monolith)
+* [Modular Monolithic Architecture, Microservices and Architectural Drivers](https://www.infoq.com/news/2020/01/monolith-architectural-drivers/)
+* [Modular Monolith: A Primer - Kamil Grzybek](https://www.kamilgrzybek.com/design/modular-monolith-primer/)
+* [Modular Monolith: Architectural Drivers - Kamil Grzybek](https://www.kamilgrzybek.com/design/modular-monolith-architectural-drivers/)
+* [Modular Monolith: Architecture Enforcement - Kamil Grzybek](http://www.kamilgrzybek.com/design/modular-monolith-architecture-enforcement/)
+* [Modular Monolith: Integration Styles - Kamil Grzybek](http://www.kamilgrzybek.com/design/modular-monolith-integration-styles/)
+* [Modular Monolith: Domain-Centric Design - Kamil Grzybek](http://www.kamilgrzybek.com/design/modular-monolith-domain-centric-design/)
 * [Deconstructing the Monolith – Shopify Engineering](https://engineering.shopify.com/blogs/engineering/deconstructing-monolith-designing-software-maximizes-developer-productivity)
 * [Under Deconstruction: The State of Shopify’s Monolith – Shopify Engineering](https://engineering.shopify.com/blogs/engineering/shopify-monolith)
+* [Why I've Been Merging Microservices Back Into The Monolith At InVision](https://www.bennadel.com/blog/3944-why-ive-been-merging-microservices-back-into-the-monolith-at-invision.htm)
 * [개발자가 바라본 중국 쇼핑 축제 쐉쓰이(광군제)](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EC%A4%91%EA%B5%AD-%EC%87%BC%ED%95%91-%EC%B6%95%EC%A0%9C-%EA%B4%91%EA%B5%B0%EC%A0%9C)
 * [2018 광군제(双十一) 서비스 운영 후기](https://www.popit.kr/2018-광군제双十一-서비스-운영-후기)
 * [깃플 기술스택 구경하세요~ (백엔드 편)](http://tech.gitple.io/2017/11/08/gitple-techstack-backend/)
@@ -918,6 +928,8 @@ Programming
 * [Lessons from DAZN: Scaling Your Project with Micro-Frontends - YouTube](https://www.youtube.com/watch?v=tD1rcWSfYpo)
 * [마이크로서비스 배포 혁명](https://jflip.tistory.com/23)
 * [What Comes after Microservices? Multi-Runtime Microservices with Bilgin Ibryam at QCon London](https://www.infoq.com/news/2020/03/multi-runtime-microservices/)
+* [Multi-Runtime Microservices Architecture](https://www.infoq.com/articles/multi-runtime-microservice-architecture/)
+* [The Evolution of Distributed Systems on Kubernetes](https://www.infoq.com/presentations/kubernetes-primitives-design-patterns/) multi runtime
 * [Microservices considered harmful](https://blog.matthieud.me/2019/microservices-considered-harmful/)
 * [Controlled Chaos: Taming Organic, Federated Growth of Microservices](https://www.infoq.com/presentations/microservices-federated-growth/)
 * [통합 이벤트 in MSA](https://www.notion.so/in-MSA-947707969dbc4ee49f2835942a4b273e)
@@ -938,6 +950,7 @@ Programming
 * [Principles for Microservice Design: Think IDEALS, Rather than SOLID](https://www.infoq.com/articles/microservices-design-ideals/)
 * [MSA프로젝트에서 마주하는 3가지 어려움](https://brunch.co.kr/@windydog/388)
 * [InfoQ Live Roundtable: Microservices - Are They Still Worth It?](https://www.infoq.com/presentations/microservices-roundtable-2020/)
+* [우아콘2020 배달의민족 마이크로서비스 여행기 - YouTube](https://www.youtube.com/watch?v=BnS6343GTkY&feature=youtu.be)
 * [Edgar: Solving Mysteries Faster with Observability | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
   * [Building Netflix’s Distributed Tracing Infrastructure | by Netflix Technology Blog | Oct, 2020 | Netflix TechBlog](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
 * [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
@@ -1168,6 +1181,9 @@ Programming
 * [Code Review Best Practices at Google | Better Programming](https://medium.com/better-programming/13-code-review-standards-inspired-by-google-6b8f99f7fd67)
 * [When DRY Doesn’t Work, Go WET. It’s okay if you repeat yourself | by Nick Bull | Better Programming | Medium](https://medium.com/better-programming/when-dry-doesnt-work-go-wet-6befda0444bf)
 * [How to Make Your Code Reviewer Fall in Love with You · mtlynch.io](https://mtlynch.io/code-review-love/)
+* [Code Review Best Practices – Trisha Gee](https://trishagee.com/presentations/code_review_best_practice/)
+* [Code Review Best Practices - YouTube](https://www.youtube.com/watch?v=3pth05Rgr8U)
+* [Great Code Reviews—The Superpower Your Team Needs — Data Science & Engineering](https://shopify.engineering/great-code-reviews)
 * [JetBrains 신제품 Space 및 Code With Me 로 생산적인 개발자 되기 by Mikhail Vink - YouTube](https://www.youtube.com/watch?app=desktop&v=J1mL-ghvfx0&t=902)
 * [Paircast - Code Screencast Software](https://paircast.io/)
 
@@ -1273,6 +1289,7 @@ Programming
 * [Let's make a Teeny Tiny compiler, part 1 - Austin Z. Henley](http://web.eecs.utk.edu/~azh/blog/teenytinycompiler1.html)
 * [A Deep Introduction to JIT Compilers: JITs are not very Just-in-time | Carol's Blog](https://carolchen.me/blog/jits-intro/)
 * [c언어 수열의 부분 합(Prefix Sum) 구하기 - 어떤 방법이 더 빠르고 정확할까](https://bab2min.tistory.com/658)
+* [CS 6120: The Self-Guided Course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 * [java - Why is processing a sorted array faster than processing an unsorted array? - Stack Overflow](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) branch prediction
 * [Parsing Algorithms – Dmitry Soshnikov](http://dmitrysoshnikov.com/courses/parsing-algorithms/)
 
@@ -1522,6 +1539,7 @@ Programming
 * [3270font: A 3270 font in a modern format](https://github.com/rbanffy/3270font)
 * [cascadia-code](https://github.com/microsoft/cascadia-code)
 * [codeface](https://github.com/chrissimpkins/codeface)
+* [Comic Mono | comic-mono-font](https://dtinth.github.io/comic-mono-font/)
 * [D2 Coding 글꼴](https://github.com/naver/d2codingfont/releases)
 * [Fira Code: monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 * [font compare](http://s9w.github.io/font_compare/)
@@ -1743,7 +1761,7 @@ Programming
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 * [**여러분의 CS 교육에서 누락된 학기 · the missing semester of your cs education**](https://missing-semester-kr.github.io/)
   * [Missing Semester IAP 2020 - YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
-* [Home | nand2tetris](https://www.nand2tetris.org/)
+* [How I Got a Computer Science Degree in 3 Months for Less Than $5000 | Miguel Rochefort](https://miguelrochefort.com/blog/cs-degree/)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
 * [codeschool.com](https://www.codeschool.com/)
 * [code with google - Every student deserves the chance to explore, advance, and succeed in computer science](https://edu.google.com/code-with-google)
@@ -1765,6 +1783,7 @@ Programming
 * [infractal.org](http://infractal.org/)
 * [K MOOC](http://www.kmooc.kr/)
 * [Learn TV | Microsoft Docs](https://docs.microsoft.com/en-us/learn/tv/)
+* [nand2tetris](https://www.nand2tetris.org/)
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
   * [여러분의 CS 교육에서 누락된 학기 · the missing semester of your cs education](https://missing-semester-kr.github.io/)
 * [learncodethehardway.org](https://learncodethehardway.org/) learn code the hard way
@@ -1962,6 +1981,7 @@ Programming
   * [12월 1주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/12/b-12-1.html)
   * [12월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/12/b-b-12-2.html)
   * [12월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/12/b-12-3.html)
+  * [12월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/12/b-12-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -2266,6 +2286,7 @@ Programming
 * [Real time analytics at uber @ strata data 2019](https://www.slideshare.net/zhenxiao/real-time-analytics-at-uber-strata-data-2019)
 * [Real time analytics on deep learning @ strata data 2019](https://www.slideshare.net/zhenxiao/real-time-analytics-on-deep-learning-strata-data-2019)
 * [Streaming a Million Likes/Second: Real-Time Interactions on Live Video - YouTube](https://www.youtube.com/watch?v=yqc3PPmHvrA)
+* [Beyond the Database, and beyond the Stream Processor: What's the Next Step for Data Management?](https://www.infoq.com/articles/whats-the-next-step-for-data-management/)
 
 ## Real Time Processing, Streaming Library
 * [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
@@ -2295,6 +2316,7 @@ Programming
 * [리팩터링 2판: 리팩터링 원칙](https://jusths.tistory.com/182)
 * [마틴 파울러 리팩토링의 중요성 (한글 자막) - YouTube](https://www.youtube.com/watch?v=mNPpfB8JSIU)
 * [OOP Software Meets Business 2014 마틴 파울러가 말 하는 리팩토링의 절차와 중요성](https://wonit.tistory.com/354)
+* [Refactoring and Design Patterns](https://refactoring.guru/)
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
