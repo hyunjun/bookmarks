@@ -84,6 +84,7 @@
 # Conference
 * [.NET Conf 2019 키노트](https://www.youtube.com/watch?v=8qtmRG5vQxM&list=PLFVJi7gR5oaP715fktQtSV6vJE76MLide)
 * [The Journey to One .NET | BOD106 - YouTube](https://www.youtube.com/watch?v=ctSqiD8BGPM)
+* [.NET Conf 2021 x Seoul 홈](https://www.notion.so/NET-Conf-2021-x-Seoul-228462238add4fc5a885fb81e2687528)
 
 # Mac
 * [Visual Studio for Mac 설치하기](http://carrotcarrot.blog.me/220864151652)
