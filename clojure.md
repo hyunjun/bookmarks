@@ -297,6 +297,8 @@ Clojure
 * [performancepaper: A reproducible, open examination of the paper "A performance comparison of Clojure and Java" by Gustav Krantz](https://github.com/joinr/performancepaper)
 * [Fun with Lambda Calculus](https://stopa.io/post/263)
 * [Clojure and gRPC - overcoming FOMO (by Sathya Vittal) @ LNDCLJ - YouTube](https://www.youtube.com/watch?v=iyHvwkc6Wis)
+* [Blog in Clojure Code Review - YouTube](https://www.youtube.com/watch?v=yQ-KjVNCe3g)
+* [Model Checking in Clojure - YouTube](https://www.youtube.com/watch?v=zvlD4_S3nz0)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -470,6 +472,7 @@ Clojure
 * [Dirac is a Chrome DevTools fork with extra features for ClojureScript developers](https://github.com/binaryage/dirac)
   * [Dirac REPL](https://github.com/binaryage/dirac/blob/master/docs/about-repls.md)
 * [dogfort - An experimental web server framework for ClojureScript on Node.js](https://github.com/whamtet/dogfort)
+* [editscript: A library designed to diff and patch Clojure data structures](https://github.com/juji-io/editscript)
 * Keechma
   * [Developing (with) Keechma – Mihael Konjevic](https://www.youtube.com/watch?v=2BF6yKIpXmM&list=PLetHPRQvX4a9iZk-buMQfdxZm72UnP3C9)
 * kinsky
@@ -628,6 +631,7 @@ Clojure
 * [Dativity - a stateless, data driven process engine library for Clojure and ClojureScript](https://github.com/agentbellnorm/dativity)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
   * [Datomic: 함수형 데이터베이스](https://github.com/philoskim/datomic-intro)
+* [depstar: Builds JARs, uberjars, does AOT, manifest generation, etc for deps.edn projects](https://github.com/seancorfield/depstar)
 * [dog-board - A website written in noir](https://github.com/re-noir/dog-board)
 * [Drake is a simple-to-use, extensible, text-based data workflow tool that organizes command execution around data and its dependencies](https://github.com/Factual/drake)
 * [Duckling - a Clojure library that parses text into structured data](https://github.com/wit-ai/duckling)
@@ -809,3 +813,4 @@ Clojure
 * [Full Stack Clojure Contact Book - YouTube](https://www.youtube.com/playlist?list=PLBeQxJQNprbgkmvbv80xC8R0SHcPsosjZ)
 * [Why Developers Should Look into Clojure](https://auth0-com.cdn.ampproject.org/c/s/auth0.com/blog/amp/why-developers-should-look-into-clojure/)
 * [coding dojo - maze solving](https://gist.github.com/mmzsource/e8c383f69244ebefde058004fee72a8a)
+* [advent-2020-clojure](https://github.com/abyala/advent-2020-clojure)
