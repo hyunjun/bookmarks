@@ -1054,6 +1054,7 @@ Python
 * print
   * [PYTHON 디버깅: `PRINT` 함수 가로채기](http://ds.sumeun.org/?p=2119)
   * [Print() in Python. A guide to printing and formatting your… | by Keno Leon | Medium](https://medium.com/@k3no/print-in-python-389aea412c1f) wkhtmltopdf, Pdfkit
+  * [Python print() and beyond](https://josiasdev.best/python-print-and-beyond)
 * pprint
   * [Let’s talk about “prettyprint” or pprint in python | by Antaripa Saha | Dev Genius | Medium](https://medium.com/dev-genius/lets-talk-about-prettyprint-or-pprint-in-python-ddda1fa4cf0b)
   * [pyprnt - Python Pretty Printer https://pypi.org/project/pyprnt ](https://github.com/kevink1103/pyprnt)
@@ -1074,6 +1075,7 @@ Python
   * [Profiling CPython at Instagram](https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898)
   * [Profiling and optimizing Python code](https://osf.io/upav8/)
   * [Building FunctionTrace, a graphical Python profiler](https://hacks.mozilla.org/2020/05/building-functiontrace-a-graphical-python-profiler/)
+  * [파이썬 코드 프로파일링에 유용한 라이브러리 5가지 - ITWorld Korea](https://www.itworld.co.kr/news/176579) Time, Timeit, cProfile, Pyinstrument, Py-spy, Yappi
   * [Pympler - a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application](https://pythonhosted.org/Pympler)
   * [Py-Spy: A sampling profiler for Python programs](https://github.com/benfred/py-spy)
   * [StackImpact Python Agent - Production Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more https://stackimpact.com](https://github.com/stackimpact/stackimpact-python)
@@ -2740,6 +2742,7 @@ Python
   * [Python behind the scenes #2: how the CPython compiler works](https://tenthousandmeters.com/blog/python-behind-the-scenes-2-how-the-cpython-compiler-works/)
   * [Python behind the scenes #3: stepping through the CPython source code](https://tenthousandmeters.com/blog/python-behind-the-scenes-3-stepping-through-the-cpython-source-code/)
   * [Python behind the scenes #5: how variables are implemented in CPython](https://tenthousandmeters.com/blog/python-behind-the-scenes-5-how-variables-are-implemented-in-cpython/)
+  * [Python behind the scenes #6: how Python object system works](https://tenthousandmeters.com/blog/python-behind-the-scenes-6-how-python-object-system-works/)
   * [faster-cpython/plan.md at master · markshannon/faster-cpython](https://github.com/markshannon/faster-cpython/blob/master/plan.md)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [Chromote - Simple wrapper to drive Google Chrome from Python using the Remote Debugging Protocol 1.1 API](https://github.com/iiSeymour/chromote)
