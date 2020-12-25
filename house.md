@@ -74,3 +74,12 @@ House
 * [아파트(부동산) 매입시 셀프등기 1](https://sieg0610.tistory.com/28)
 * [아파트(부동산) 매입시 셀프등기 2](https://sieg0610.tistory.com/29)
 * [이사 체크리스트](https://dkdlel072.tistory.com/entry/%EC%9D%B4%EC%82%AC-%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8)
+
+# Library
+* [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)
+  * 부동산 실거래 데이터 조회 수집 파이썬 라이브러리
+  * 국토교통부 제공 각종 부동산 실거래 데이터 관련 오픈 API 서비스들을 하나로 통합
+  * 크롤링 없이 서비스 인증키만 있으면 Pandas DataFrame 형태로 데이터 조회
+  * [PublicDataReader(0.1.1 Ver) Tutorial](https://colab.research.google.com/drive/1pFtMFr_te9T_maHjee8Sd8Yq9rTrE-4F)
+  * [국토교통부 아파트매매 실거래 데이터 수집하기](https://wooiljeong.github.io/python/public_data_reader_01/)
+  * [PublicDataReader - 미세먼지 데이터 수집하기](https://wooiljeong.github.io/python/public_data_reader_02/)
