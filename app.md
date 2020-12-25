@@ -710,6 +710,7 @@ App
 * [How to schedule Node.js Scripts on Your Mac With Launchd | by Matthew Williams | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/schedule-node-js-scripts-on-your-mac-with-launchd-a7fca82fbf02)
 * [Scheduling Jobs With Crontab on macOS | by Ratik Sharma | Better Programming | Medium](https://medium.com/better-programming/https-medium-com-ratik96-scheduling-jobs-with-crontab-on-macos-add5a8b26c30)
 * [20 essential Mac keyboard shortcuts to save you a click | by Popular Science | Popular Science | Medium](https://medium.com/popular-science/20-essential-mac-keyboard-shortcuts-to-save-you-a-click-36a1d71216aa)
+* [Some Differences between macOS and Common Unix Systems](https://www.dyx.name/posts/macunix.html)
 
 ## Mac App
 * [**practice - 최초 설치 후 install**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)
@@ -772,6 +773,7 @@ App
 * [12 Terminal Tips and Tricks Using macOS and HomeBrew](https://medium.com/better-programming/12-terminal-tips-and-tricks-using-macos-and-homebrew-4e89c2ccb2fb)
 * ['최소 비용에 최대 기능' 맥 사용자를 위한 무료 앱 30가지](http://www.itworld.co.kr/news/150073)
 * [맥북 사면 바로 설치하는 무료 앱 9가지!](https://www.youtube.com/watch?v=q7CGf6bJ8AA) Spectacle, Appcleaner, Weather bug, Itsycal, Keka, Amphetamine, Helium 3, Encrypto, Alfred
+* [맥 사용자라면 바로 설치해야 할 무료 앱 35가지 - ITWorld Korea](https://www.itworld.co.kr/news/176764)
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
 * Alfred [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
@@ -856,6 +858,7 @@ App
 * Vim
   * [install mac vim - gvim](https://gist.github.com/hectorperez/71040d264044f7164d64)
   * [macOS : safari에 vim extension (vimari)설치하기](https://sunyzero.tistory.com/266)
+* [Vimac](https://vimacapp.com/)
 * [volumemixer-app.com](http://www.volumemixer-app.com/)
 * [**Where Is My Mouse?**](http://macnews.tistory.com/4007)
 * [wifimapper.com](http://wifimapper.com/)
@@ -1010,6 +1013,7 @@ App
 * [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)
 * [**Diagram as Code for prototyping cloud system architectures** https://diagrams.mingrammer.com ](https://github.com/mingrammer/diagrams)
   * [Create Beautiful Architecture Diagrams with Python | by Dylan Roy | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/create-beautiful-architecture-diagrams-with-python-7792a1485f97)
+* diagrams.net [Diagram Software and Flowchart Maker](https://www.diagrams.net/)
 * [dot-to-ascii.ggerganov.com](https://dot-to-ascii.ggerganov.com/)
 * [**draw.io**](https://www.draw.io/)
   * [Source to www.draw.io](https://github.com/jgraph/drawio)
@@ -1061,12 +1065,14 @@ App
 * [Forensically, free online photo forensics tool](http://29a.ch/photo-forensics)
 * [Gfycat - 유튜브 영상·GIF 파일을 10분 1 크기로?](http://techholic.co.kr/archives/36747)
 * [ImagePlay is a rapid prototyping tool for building and testing image processing algorithms](http://imageplay.io/)
+* [imgdiff - 정말 빠른 이미지 비교 도구 | GeekNews](https://news.hada.io/topic?id=3390)
 * [Jitsi.org - develop and deploy full-featured video conferencing](https://jitsi.org/)
 * [MoseoriTube](https://github.com/moseoridev/MoseoriTube) youtube downloader
   * [moseoritube.herokuapp.com](https://moseoritube.herokuapp.com/)
 * [mplayerx.org](http://mplayerx.org) 설치할 때 yahoo 관련 설치가 먼저 나오는데 skip할 것
 * [MuseScore 4. Moving from notation software to composition software. | MuseScore](https://musescore.org/en/MuseScore4)
 * [NoiseTorch: Real-time microphone noise suppression on Linux.](https://github.com/lawl/NoiseTorch)
+* Owncast [Owncast - 오픈소스 라이브 스트리밍 서버 | GeekNews](https://news.hada.io/topic?id=3450)
 * [PassportPhoto4You](https://www.idphoto4you.com/)
   * [증명사진 만들고 편집하는 사이트](https://chagoonbass.tistory.com/300)
 * [Piskel - Free online sprite editor](https://www.piskelapp.com/)
@@ -1280,6 +1286,7 @@ App
 * [**맥을 쓰는 닷넷 개발자들을 위한 도구들 모음**](https://blog.aliencube.org/ko/2019/12/05/tools-for-dotnet-devs-on-mac)
 * [윈도우 10(Windows 10) 2020년 5월 업데이트 릴리스 및 적용하기](https://www.44bits.io/ko/post/news--windows-2020-may-update-release)
 * [Windows 10에서 개발 환경 설정 | Microsoft Docs](https://docs.microsoft.com/ko-kr/windows/dev-environment/overview)
+* [Scott Hanselman's 2021 Ultimate Developer and Power Users Tool List for Windows - Scott Hanselman's Blog](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
@@ -1359,13 +1366,14 @@ App
   * [Simple WSL debian installer script](https://gist.github.com/rkttu/e21709a349cfb85568fb0ff5ebbdec15)
   * [Docker Desktop for Windows Home is here!](https://www.docker.com/blog/docker-desktop-for-windows-home-is-here/)
   * [Using WSL to Build a Python Development Environment on Windows](https://pbpython.com/wsl-python.html)
+  * [X-Window on Docker on WSL 2](https://jehyunlee.github.io/2020/06/09/Python-General-5-wdvx/)
+  * [GWSL-Source: The actual code for GWSL. And some premade binaries](https://github.com/Opticos/GWSL-Source) python
   * [How To Protect Your WSL Distro More Firmly](https://medium.com/rkttu/do-not-install-your-wsl-distro-from-microsoft-store-a322b94e8e2)
   * [Windows Subsystem for Linux 2 Moving into General Availability with Improved Update Process](https://www.infoq.com/news/2020/04/wsl-2-general-availability/)
   * [(번역) WSL 2를 공개하며](https://ryanking13.github.io/2019/05/07/Announcing-WSL-2.html)
   * [Installation Instructions for WSL 2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install)
   * [WSL2 will be generally available in Windows 10, version 2004](https://devblogs.microsoft.com/commandline/wsl2-will-be-generally-available-in-windows-10-version-2004/)
   * [WSL2, 외부 네트워크와 연결하기](https://codeac.tistory.com/118)
-  * [X-Window on Docker on WSL 2](https://jehyunlee.github.io/2020/06/09/Python-General-5-wdvx/)
   * [Windows10 WSL2에 Docker 설치](https://bloodguy.tistory.com/1087)
   * [WSL2(Windows Subsystem for Linux 2) 설치 및 사용 방법](https://www.44bits.io/ko/post/wsl2-install-and-basic-usage)
   * [WSL2 설치 및 Docker 환경 구축 : 네이버 블로그](https://blog.naver.com/ilikebigmac/222007741507)
