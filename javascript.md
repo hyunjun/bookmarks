@@ -31,6 +31,7 @@ Javascript
 * [JavaScript Tutorial for Beginners](https://www.youtube.com/watch?v=W6NZfCO5SIk)
 * [The Modern JavaScript Tutorial](https://javascript.info/)
 * [**모던 JavaScript 튜토리얼 - 모던 JavaScript 튜토리얼은 상세한 설명과 함께 JavaScript 기본 개념 및 고급 개념을 다룹니다**](https://ko.javascript.info/)
+* [Transitioning to modern JavaScript - YouTube](https://www.youtube.com/watch?v=cLxNdLK--yI)
 * [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg)
 * [Plan, Code, and Deploy a Startup in 2 Hours Full Stack JavaScript Tutorial](https://www.youtube.com/watch?v=lauywdXKEXI)
 * [Modern JavaScript for Python Developers - YouTube](https://www.youtube.com/watch?v=jAbDjt0pens)
@@ -658,6 +659,7 @@ Javascript
 * [JavaScript: Abstraction, Data Types, and Expressions | by UH COSC 4315 Group 4 | Medium](https://medium.com/@csg.riskgame/javascript-abstraction-data-types-and-expressions-b52767bb529e)
 * [5 Alternatives to ‘If’ Statements for Conditional Branching | by Jamie Bullock | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/5-alternatives-to-if-statements-for-conditional-branching-6e8e6e97430b)
 * [HTTP 응답 지연을 이용한 서버간 작업 동기화 실험 (mutex over http)](https://blog.promedius.ai/0/)
+* [JavaScript: Loose Equals and Strict Equals | by Valentin Podkamennyi | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/javascript-loose-equals-and-strict-equals-ab2144fcbe)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
@@ -1274,6 +1276,7 @@ Javascript
   * [REACT와 ELECTRONJS로 데스크톱 앱 만들어보기 #2 라우팅](https://www.fiveminutesdev.com/react%EC%99%80-electronjs%EB%A1%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-2-%EB%9D%BC%EC%9A%B0%ED%8C%85/)
   * [How to build a React based Electron app - paachu - Medium](https://medium.com/@impaachu/how-to-build-a-react-based-electron-app-d0f27413f17f)
 * [Elevator.js fixes those awkward "scroll to top" moments the old fashioned way](http://tholman.com/elevator.js/)
+* [ELI5: Flow - Static Type Checker for JavaScript](https://developers.facebook.com/blog/post/2020/12/14/eli5-flow-static-type-checker-javascript/)
 * [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
 * [Ember.js](http://emberjs.com/)
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
@@ -1340,6 +1343,7 @@ Javascript
 * [Highlighter.js - a tiny (pure javascript) library, to allow you to easily navigate, select and highlight the DOM elements](http://720kb.github.io/highlighter.js/)
 * [hwp.js: Open source hwp viewer and parser library powered by web technology](https://github.com/hahnlee/hwp.js)
   * [hwp.js](https://hanlee.io/hwp.js/)
+* [Hypercore Protocol](https://hypercore-protocol.org/) Peer-to-peer data sharing
 * [ImageSegmentation - Perform image segmentation and background removal in javascript using canvas element and computer vision superpixel algorithms, and convnetjs (experimental) http://www.eraseimage.com ](https://github.com/AKSHAYUBHAT/ImageSegmentation)
 * inferno.js
   * [Going headless with Drupal: how to build a simple app with Inferno.js](https://medium.freecodecamp.org/drupal-headless-architecture-with-js-framework-live-demo-dea9acff6b61)
