@@ -469,6 +469,7 @@ Docker
 * [Cloud Native is about Culture, Not Containers](https://www.infoq.com/presentations/cloud-native-culture/)
 * [Cloud Native News - CNN43](https://blog.nativecloud.dev/cnn-2020-43/)
 * [M1 맥에서 Docker 사용하기](https://tech.ssut.me/docker-on-m1-mac/)
+* [**컨테이너로 데이터센터 네트워크를 모방해 볼 수 있을까? | Lifestack**](https://ashon.github.io/blog/2020/12/20/homemade-datacenter-network.html)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -874,12 +875,14 @@ Docker
 * [A “Krispr” Approach to Kubernetes Infrastructure | by Daniel Low | Airbnb Engineering & Data Science | Nov, 2020 | Medium](https://medium.com/airbnb-engineering/a-krispr-approach-to-kubernetes-infrastructure-a0741cff4e0c)
 * [Kubernetes 에서 Docker 를 이제 못쓴다고? 팩트체크! - YouTube](https://www.youtube.com/watch?v=XXH0Ocm_9Ro)
 * [Kubernetes에 대해 알아보겠습니다](https://developer88.tistory.com/269)
+* [A beginner's guide to Kubernetes Jobs and CronJobs | Opensource.com](https://opensource.com/article/20/11/kubernetes-jobs-cronjobs)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
   * [컨테이너 기반의 워크플로우 솔루션 argo](http://bcho.tistory.com/1299)
 * [cloudflow - Streaming Data Pipelines on Kubernetes](https://cloudflow.io/)
+* [faasd: A lightweight & portable faas engine](https://github.com/openfaas/faasd)
 * [Helm - The package manager for Kubernetes](https://helm.sh/)
   * [Helm 사용법](http://reoim.tistory.com/37)
   * [How to migrate from Helm v2 to Helm v3](https://helm.sh/blog/migrate-from-helm-v2-to-helm-v3/)
@@ -901,7 +904,9 @@ Docker
   * [Azar Mirror 서버 제작기 2편 - Istio와 함께하는 Traffic Mirroring](https://hyperconnect.github.io/2020/06/02/azar-mirror-2.html)
   * [Kubernetes에 Microservice 배포하기 3편 - Canary Deployments with Istio | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/19/microsrv-deploy-3.html)
 * [k0s - Zero Friction Kubernetes](https://github.com/k0sproject/k0s)
-* k3s [k3s로 간단하게 Kubernetes 환경 구축하기](https://si.mpli.st/dev/2020-01-01-easy-k8s-with-k3s/)
+* k3s
+  * [k3s로 간단하게 Kubernetes 환경 구축하기](https://si.mpli.st/dev/2020-01-01-easy-k8s-with-k3s/)
+  * [Bare-metal Kubernetes with K3s](https://blog.alexellis.io/bare-metal-kubernetes-with-k3s/)
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
   * [Announcing KEDA: bringing event-driven containers and functions to Kubernetes](https://cloudblogs.microsoft.com/opensource/2019/05/06/announcing-keda-kubernetes-event-driven-autoscaling-containers/)
 * [Knative](https://knative.dev/)
