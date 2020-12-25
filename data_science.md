@@ -626,6 +626,8 @@ Data Science
 * [ifkakao 추천 시스템: 맥락과 취향 사이 줄타기](https://blossominkyung.com/ee1129c0-3abc-4523-9cc4-e3be8cc791ce)
 * [Simon Kim의 데이터 과학 - YouTube](https://www.youtube.com/playlist?list=PLBzvuV3xr58JAKQwjvodCnL7lfNQ1PNoG)
 * [쿠팡 추천 시스템 2년간의 변천사](https://velog.io/@jkl133/%EC%BF%A0%ED%8C%A1-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-2%EB%85%84%EA%B0%84%EC%9D%98-%EB%B3%80%EC%B2%9C%EC%82%AC)
+* [추천 서비스와 아키텍처 1 -추천 서비스란 무엇인가. 이 글에서는 평소 무심코 지나쳤을 추천 서비스를 좀 더 이해할 수… | by Jongmin Lee | How we build MyRealTrip | Nov, 2020 | Medium](https://medium.com/myrealtrip-product/%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-1-40ddb5e7e3bd)
+* [추천 서비스와 아키텍처 2 -추천 서비스 제공을 위한 아키텍처 | by Jongmin Lee | How we build MyRealTrip | Nov, 2020 | Medium](https://medium.com/myrealtrip-product/%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-2-%EC%B6%94%EC%B2%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EA%B3%B5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-9897d6dc8bc9)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
