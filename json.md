@@ -127,6 +127,7 @@ Json
     # yum -y install https://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
     # yum install jq -y
     ```
+  * [Parsing JSON at the CLI: A Practical Introduction to `jq` (and more!) | Sequoia McDowell](https://sequoia.makes.software/parsing-json-at-the-cli-a-practical-introduction-to-jq-and-more/)
 * [jsawk - Like awk, but for JSON http://thinkminimo.com](https://github.com/micha/jsawk)
 * Json2CSharp [Convert JSON to C# Classes Online - Json2CSharp Toolkit](https://json2csharp.com/)
 * [JSON 2 HTML](https://json.bloople.net/)
