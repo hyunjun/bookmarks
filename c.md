@@ -36,6 +36,7 @@ C
     * [**우리집에 GDB 있는데… 메모리 보고갈래? (2)**](https://bpsecblog.wordpress.com/2016/04/04/gdb_memory_2/)
     * [**(完)우리집에 GDB 있는데… 메모리 보고갈래? (3)**](https://bpsecblog.wordpress.com/2016/05/20/gdb_memory_3/)
     * [문제푸는 입장에서 다시보는 소소한(?)것들 – 활용편](https://bpsecblog.wordpress.com/2016/05/15/gdb_memory_s1/)
+  * [Looking for debugger](https://scattered-thoughts.net/writing/looking-for-debugger/)
   * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard/wiki)
   * [GDBFrontend - an easy, flexible and extensionable gui debugger](https://github.com/rohanrhu/gdb-frontend)
   * [onlinegdb.com](https://www.onlinegdb.com/)
@@ -67,6 +68,8 @@ C
 * [A C Compiler for Stack Machines](http://www.dcs.gla.ac.uk/~marks/thesis.pdf)
 * [Additional C/C++ Tooling](http://nickdesaulniers.github.io/blog/2015/07/23/additional-c-slash-c-plus-plus-tooling/)
 * [Code-Pointer Integrity](http://dslab.epfl.ch/proj/cpi/)
+* [Pointers Are Complicated, or: What's in a Byte?](https://www.ralfj.de/blog/2018/07/24/pointers-and-bytes.html)
+* [Pointers Are Complicated II, or: We need better language specs](https://www.ralfj.de/blog/2020/12/14/provenance.html)
 * [How to Use the Plan 9 C Compiler](http://plan9.bell-labs.com/sys/doc/comp.pdf)
   * [Semaphores in Plan 9](https://swtch.com/semaphore.pdf)
 * [Function overloading in C](https://gist.github.com/barosl/e0af4a92b2b8cabd05a7) worked gcc 4.9.2 on Redhat6
@@ -156,6 +159,7 @@ C
 * [Building a Linux Shell in C. The best way to understand something is… | by Josef Goodyear | Medium](https://medium.com/@josefgoodyear/building-a-linux-shell-in-c-8be5e109458b)
 * [배열 원소 삽입 삭제 패턴만 익혀봅시다](https://codingdog.tistory.com/entry/배열-원소-삽입-삭제-패턴만-익혀봅시다)
 * [The C Beginner's Handbook: Learn C Programming Language basics in just a few hours](https://www.freecodecamp.org/news/the-c-beginners-handbook/)
+* [Getting started with C programming: a lightning-fast start for absolute beginners | The Not Café - Enjoy Technology](https://not.cafe/2020/10/12/getting-started-with-c-programming.html)
 * [embedding binary objects in c](https://flak.tedunangst.com/post/embedding-binary-objects-in-c)
 * [christmas-obfuscated-C](https://github.com/ColinIanKing/christmas-obfuscated-C/blob/master/tricks/obfuscation-tricks.txt)
 * [**Implementing simple cooperative threads in C**](https://brennan.io/2020/05/24/userspace-cooperative-multitasking/)
@@ -411,6 +415,7 @@ C
 * [yupp - yet another C preprocessor](https://github.com/in4lio/yupp)
 
 ## Library Malloc
+* [Writing a Memory Allocator – Dmitry Soshnikov](http://dmitrysoshnikov.com/compilers/writing-a-memory-allocator/)
 * [jemalloc](https://github.com/jemalloc/jemalloc)
 * [malloc_geiger - a hook for malloc that plays geiger counter blips in proportion to the amount of calls to malloc as a way of knowing what an application does](https://github.com/laserallan/malloc_geiger)
 * [salmalloc - Custom malloc](https://github.com/sal-j/salmalloc)
