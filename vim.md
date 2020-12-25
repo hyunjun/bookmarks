@@ -81,6 +81,7 @@ Vim
   * [vimrc-vundle-script](https://github.com/uyu423/vimrc-vundle-script/blob/master/README.md) 여러 리눅스 환경에서의 vimrc, vim plugin 파일 동기화를 위한 저장소
   * [Tweak Your Vim As A Powerful IDE. Vim is a joy to use, it is so well… | by Dery Rahman Ahaddienata | Level Up Coding](https://levelup.gitconnected.com/tweak-your-vim-as-a-powerful-ide-fcea5f7eff9c)
   * [set gvim font in .vimrc file](http://stackoverflow.com/questions/3316244/set-gvim-font-in-vimrc-file)
+  * [5 lines I put in a blank .vimrc | Sword and Signals](https://swordandsignals.com/2020/12/13/5-lines-in-vimrc.html)
   * gvim portable; `GVimPortable\App\DefaultData\settings\vimrc`
 * [빔 편집기 한글화](http://vim-ko.github.io/)
 * [Vim cheat sheet](http://csnipp.com/s/69/-Vim-Cheat-Sheet)
