@@ -142,6 +142,7 @@ Business
 * [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
 * [Stop Being Micromanaged. Recognize the signs and manage up | by Vinita | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/stop-being-micromanaged-d341c3838ab3)
 * [개발자에서 관리자까지: 기술력을 유지해라](http://jinson.tistory.com/285)
+* [개발자가 관리자로 전환을 고려할 때 알아야 할 7가지 - ITWorld Korea](https://www.itworld.co.kr/news/177139)
 * [협상을 배워야 지지 않는다](http://ppss.kr/archives/49075)
 * [**정보는 세상의 중심이 되고 연결은 세상을 지배한다(Network is Eating the World)**](http://www.venturesquare.net/590771)
 * [사물인터넷 서비스 아이디어 전략 5단계](http://ppss.kr/archives/38281)
