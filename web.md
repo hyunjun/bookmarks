@@ -248,6 +248,7 @@ Web
 * [구글 시트를 이용해 10분만에 만든 김영민 교수님 글 모음 (웹크롤링) - Financial Freedom](https://financialfreedom.kr/2020/09/10/kimyoungmins-column-list-by-google-sheet/) google sheet의 importxml 이용
 * [Common Crawl - We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone](https://commoncrawl.org/)
   * [Basic Statistics of Common Crawl Monthly Archives](https://github.com/commoncrawl/cc-crawl-statistics)
+* [Greenflare - 오픈소스 로컬 SEO 크롤러 | GeekNews](https://news.hada.io/topic?id=3365)
 
 ## Crawler Javascript
 * [동영상 목록 페이지에서 데이터 추출하기 - YouTube](https://www.youtube.com/watch?v=sSKdw5PlRyg)
