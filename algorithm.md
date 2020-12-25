@@ -210,6 +210,7 @@ Algorithm
 * [Maximum Perimeter Triangle with Greedy Approach | by Pulsara Sandeepa | Oct, 2020 | Level Up Coding](https://levelup.gitconnected.com/maximum-perimeter-triangle-with-greedy-approach-bd6279471d2e)
 * [All Pythagorean Triplets in Optimal Time Complexity | Level Up Coding](https://levelup.gitconnected.com/all-pythagorean-triplets-less-than-equal-n-in-optimal-time-complexity-babfbe742337)
 * [Essential Data Structures for Every Programmer | by Mahdhi Rezvi | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/essential-data-structures-for-every-programmer-7d1511eba838)
+* [알고리즘 - 부경대학교 | KOCW 공개 강의](http://www.kocw.net/home/search/kemView.do?kemId=1148815)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
