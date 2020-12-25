@@ -7,6 +7,7 @@ Keras
 * [Keras: Deep Learning library for Theano and TensorFlow](http://keras.io/)
   * [케라스 웹페이지 가이드 및 코드샘플 100% 리뉴얼](https://tykimos.github.io/2020/04/25/Keras_Web_Renewal/)
 * [Keras Cheat Sheet: Neural Networks in Python](https://www.datacamp.com/community/blog/keras-cheat-sheet)
+* [Deep Learning Cheat Sheet (using Python Libraries) - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/deep-learning-cheat-sheet-using-python-libraries)
 * [Keras로 Multi Layer Percentron 구현하기](http://iostream.tistory.com/111)
 * [Keras_MNIST_Example.ipynb](https://github.com/dolpang2/Keras-Examples/blob/master/Keras_MNIST_Example.ipynb)
 * [MNIST Classification using CNN in Keras TensorFlow](https://morioh.com/p/8729a086756e)
