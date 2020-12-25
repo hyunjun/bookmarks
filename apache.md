@@ -575,6 +575,7 @@ Apache
 * [kafka 아는 척하기 (개발자용) :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/kafka-intro-1-for-developers)
 * [Kafka is not a Database – Materialize](https://materialize.com/kafka-is-not-a-database/)
 * [Sizing Calculator for Apache Kafka and Confluent Platform](https://eventsizer.io/)
+* [Thread-Per-Core Buffer Management for a modern Kafka-API storage system - Vectorized](https://vectorized.io/blog/tpc-buffers/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
