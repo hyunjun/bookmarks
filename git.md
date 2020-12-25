@@ -179,6 +179,7 @@ Git
 * [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.slideshare.net/subicura/gitops-cicd-156402754)
 * [GitOps Observability — Visualizing the journey of a container | by Samiya Akhtar | Nov, 2020 | Medium](https://samiyaakhtar.medium.com/gitops-observability-visualizing-the-journey-of-a-container-5f6ef1f3c9d2)
 * [복잡한 커밋 로그를 정리해줄 구원자, gitmoji](https://pilgwon.github.io/post/gitmoji)
+* [Everything You Always Wanted To Know About GitHub (But Were Afraid To Ask)](https://gh.clickhouse.tech/explorer/)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -225,6 +226,7 @@ Git
   * merge, remote, push, pull, reset
 * [Personalizing GIT: Aliasing commands](https://koukia.ca/personalizing-git-aliasing-commands-4dda73b54081)
 * [An intro to Git Aliases: a faster way of working with Git](https://medium.freecodecamp.org/an-intro-to-git-aliases-a-faster-way-of-working-with-git-b1eda81c7747)
+* [8 Git aliases that make me more efficient | Opensource.com](https://opensource.com/article/20/11/git-aliases)
 * [Git Operations Fail - Permission denied - publickey](https://confluence.atlassian.com/stashkb/git-operations-fail-permission-denied-publickey-385909210.html)
 * [GitHub 단축키 및 사용 팁 정리](https://gomcine.tistory.com/entry/GitHub-%EB%8B%A8%EC%B6%95%ED%82%A4-%EB%B0%8F-%EC%82%AC%EC%9A%A9-%ED%8C%81-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%86%8C%EA%B0%9C)
 * [깃헙 더 잘 쓰는 팁 세가지](https://www.youtube.com/watch?v=pAS84ZJF-Fg)
@@ -656,6 +658,7 @@ Git
 * [개발 툴소개 + 수다 (2018-12-07) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=B0jXvwX6_rk)
 * [Github 컨텐츠 관리 플랫폼 개발](http://qwefgh90.github.io/javascript/Github-%EC%BB%A8%ED%85%90%EC%B8%A0-%EA%B4%80%EB%A6%AC-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B0%9C%EB%B0%9C/)
 * [3 Chrome Extensions to Give GitHub Superpowers | by Alessia Amitrano | Better Programming | Medium](https://medium.com/better-programming/3-chrome-extensions-to-give-github-superpowers-e993f8703ad) Octolinker, Octotree
+* [5 open source alternatives to GitHub | Opensource.com](https://opensource.com/article/20/11/open-source-alternatives-github)
 * [**Atomist Project Templates**](https://github.com/atomist-project-templates) Starting a new project should take near-zero effort, so you can get to writing code. That’s what we believe, and that’s what we’re building.
 * [binder - Turn a GitHub repo into a collection of interactive notebooks](http://mybinder.org/)
 * [Central Dogma - an open-source highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2](https://line.github.io/centraldogma/)
@@ -665,6 +668,7 @@ Git
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [Fork - a fast and friendly git client for Mac and Windows](https://git-fork.com)
+* Fossil [Get started with Fossil, an alternative to Git | Opensource.com](https://opensource.com/article/20/11/fossil)
 * [fugitive](https://github.com/tpope/vim-fugitive)
   * [fugitive-vim-resolving-merge-conflicts-with-vimdiff](http://vimcasts.org/episodes/fugitive-vim-resolving-merge-conflicts-with-vimdiff/)
 * [gg - hybrid version control system](http://www-cs-students.stanford.edu/~blynn/gg/)
