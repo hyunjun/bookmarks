@@ -541,6 +541,7 @@ SQL
 * [TiDB is a distributed SQL database compatible with MySQL protocol](https://github.com/pingcap/tidb#run-as-mysql-protocol-server)
 * [Yahoo MySQL Performance Analyzer](https://github.com/yahoo/mysql_perf_analyzer)
 * [vitess - A database clustering system for horizontal scaling of MySQL](https://vitess.io/)
+  * [Vitess를 활용한 Slack의 데이터스토어 스케일링 | GeekNews](https://news.hada.io/topic?id=3392)
 
 ## MySQL Sharding
 * [Sharding Pinterest: How we scaled our MySQL fleet](https://medium.com/@Pinterest_Engineering/sharding-pinterest-how-we-scaled-our-mysql-fleet-3f341e96ca6f)
@@ -664,6 +665,7 @@ SQL
 * [Postgres Observability](https://pgstats.dev/)
 * [**PostgreSQL 튜닝 - Autovacuum 최적화에 대하여**](https://nrise.github.io/posts/postgresql-autovacuum/)
 * [Stored Procedures as a backend. or “How we got rid of Django and whole… | by Oleg Zech | Oct, 2020 | Medium](https://gnuhost.medium.com/stored-procedures-as-a-backend-c5d2db452fc2)
+* [BLOB cleanup in PostgreSQL - CYBERTEC | Data Science & PostgreSQL](https://www.cybertec-postgresql.com/en/blob-cleanup-in-postgresql/)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
