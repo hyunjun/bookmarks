@@ -1164,6 +1164,7 @@ Programming
 * [Clean Code: The Next Chapter by Victor Rentea](https://www.youtube.com/watch?v=wY_CUkU1zfw) 실제 코드로 presentation
 * [Clean Code - 주석(Comment)](https://nesoy.github.io/articles/2018-01/CleanCode-Comment)
 * [클린 코드: 애자일 소프트웨어 장인 정신 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/05/24/Clean-Code.html)
+* [책 클린 코드](https://jybaek.tistory.com/885)
 * [잘가, 클린 코드](https://overreacted.io/ko/goodbye-clean-code/)
 * [Awesome-Clean-Code-Resources: An awesome curated list of clean code posts, books and videos](https://github.com/abiodunjames/Awesome-Clean-Code-Resources)
 * [Clean Code: 5 Essential Takeaways - Better Programming - Medium](https://medium.com/better-programming/clean-code-5-essential-takeaways-2a0b17ccd05c)
@@ -2206,6 +2207,7 @@ Programming
 * [Operating systems development for Dummies | by Leo Whitehead | Medium](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
 * [From Zero to main(): How to Write a Bootloader from Scratch | Interrupt](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
 * [MIT CSAIL Parallel and Distributed Operating Systems Group](https://pdos.csail.mit.edu/projects/biscuit.html)
+* [운영체제: 01. 운영체제가 뭐길래? - YouTube](https://www.youtube.com/watch?v=zGBm37kze9I)
 
 # Parser
 * [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/)
