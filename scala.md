@@ -1747,7 +1747,6 @@ Scala
 * [Avoiding Unnecessary Object Instantiation with Specialized Generics - Scala](https://scalac.io/specialized-generics-object-instantiation/)
 * [Implementing typeclasses in Scala I](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-i/) implicit, ad hoc polymorphism
 * [Implementing typeclasses in Scala II](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-ii/)
-* [Refined Types in Scala: the Good, the Bad and the Ugly](https://medium.com/swlh/refined-types-the-good-the-bad-and-the-ugly-ee971e5d9137)
 * ["First Class" Types in Scala 3](https://blog.oyanglul.us/scala/dotty/en/first-class-types)
 * [SF Scala: Reimagining Functional Type Classes - YouTube](https://www.youtube.com/watch?v=OwmHgL9F_9Q)
 * [Thinking With Types | alvinalexander.com](https://alvinalexander.com/scala/thinking-with-types/introduction/)
@@ -1766,6 +1765,8 @@ Scala
   * [Wtf is Refined ?](https://medium.com/@Methrat0n/wtf-is-refined-5008eb233194)
   * [Validate Service Configuration in Scala](https://medium.com/@alexey_novakov/validate-service-configuration-in-scala-85f661c4b5a6)
   * [Data Juggling - Part 8 - Getting Started with #refined](https://www.youtube.com/watch?v=aZsmapo1afQ)
+  * [Refined Types in Scala: the Good, the Bad and the Ugly](https://medium.com/swlh/refined-types-the-good-the-bad-and-the-ugly-ee971e5d9137)
+  * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=Ts_zsamUq7Y) Refined type
 * [scala-newtype - NewTypes for Scala with no runtime overhead](https://github.com/estatico/scala-newtype)
   * [Newtype](https://francistoth.github.io/2020/04/11/newtypes.html)
   * [NewType is New Now!](https://medium.com/@afsal.taj06/newtype-is-new-now-63f1b632429d)
