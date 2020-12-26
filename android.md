@@ -4,7 +4,6 @@ Android
 * [wiz.center/category/software_development/Android](http://www.wiz.center/category/software_development/Android)
 * [Build 2015 and ManifoldJS](http://blogs.msdn.com/b/johnshews_blog/archive/2015/04/30/build-2015-and-manifoldjs.aspx)
 * [하이브리드 앱 개발도구, 안녕들 하십니까?](http://www.bloter.net/archives/228180)
-* [Android Tutorial for Beginners](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa)
 * [Learning android development](https://android.jlelse.eu/learning-android-development-e2d4d239a7a3)
 * [Maps on Android](https://engblog.nextdoor.com/2015/06/25/maps-on-android/)
 * [Android Threading & Background Tasks](https://realm.io/news/android-threading-background-tasks/)
@@ -383,3 +382,7 @@ Android
 * [JUnit을 이용한 테스트 방법 대해서 정리해 보겠습니다](https://developer88.tistory.com/264)
 * [Mockito로 Unit테스트를 해 보자](https://developer88.tistory.com/260)
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
+
+# Tutorial
+* [Android Tutorial for Beginners](https://www.youtube.com/playlist?list=PLonJJ3BVjZW6hYgvtkaWvwAVvOFB7fkLa)
+* [Pluu Dev - 잡담 시작하는 안드로이드 개발자를 위해](http://pluu.github.io/blog/owner/2020/12/26/start-android-developer/)
