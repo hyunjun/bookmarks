@@ -283,6 +283,7 @@ App
 * [github.com/peerj/paper-now](https://github.com/peerj/paper-now)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
 * [Hackpad is a web-based realtime wiki https://hackpad.com ](https://github.com/dropbox/hackpad)
+* [hades-star-diary: Diary for hades' star](https://github.com/Curycu/hades-star-diary) readme.md에서 subdirectory의 파일 내용을 열고 닫을 수 있는 repository
 * [hubpress.io - A web application to build your blog on GitHub](https://github.com/HubPress/hubpress.io)
 * [hugo - The world’s fastest framework for building websites](http://gohugo.io/)
   * [hugo meets github pages](https://nicewook.github.io/blog/post/hugo-meets-ghpages.html)
@@ -870,6 +871,7 @@ App
 
 ## Mac development
 * [맥에서의 파이썬 개발 환경 자동화(pyenv, virtualenv, autoenv)](http://guswnsxodlf.github.io/blog/develop/pyenv-virtualenv-autoenv)
+  * [pyenv 이슈 파이썬 3.8.x 설치 안될때 해결 방법 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/pyenv-py38/)
 * [**본격 macOS에 개발 환경 구축하기**](https://subicura.com/2017/11/22/mac-os-development-environment-setup.html)
   * oh-my-zsh
     * Insecure completion-dependent directories detected
