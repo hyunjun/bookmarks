@@ -898,6 +898,8 @@ App
 * [Developer turns the MacBook Pro Touch Bar into a Taskbar in Windows 10](https://www.notebookcheck.net/Developer-turns-the-MacBook-Pro-Touch-Bar-into-a-Taskbar-in-Windows-10.428205.0.html)
 * [개발자를 위한 OS X(>= Catalina) 설정](https://www.sangkon.com/osx-setting-for-developer/)
 * [My Top Homebrew Packages for 2020 Become a power user and improve your productivity](https://medium.com/better-programming/my-top-homebrew-packages-for-2020-b6565d46de85) htop, tldr, jq, ncdu, tmux
+* command terminal
+  * sed [Mac OS X에서 Multi Tab(\t\t) 정리하기](https://jojoldu.tistory.com/542)
 * [Alacritty - Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
 * brew
