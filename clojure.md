@@ -711,6 +711,7 @@ Clojure
   * [Neanderthal 0.9.0 released - Clojure's high-performance computing story is getting into shape](http://dragan.rocks/articles/17/Neanderthal-090-released-Clojure-high-performance-computing)
   * [What's nice about Clojure numerical computing with new Neanderthal 0.16.0](http://dragan.rocks/articles/17/Neanderthal-016-Whats-nice-about-Clojure-numerical-computing-with-Neanderthal)
   * [The Feynman Machine: AI architecture in Clojure/Neanderthal - Fergal Byrne](https://www.youtube.com/watch?v=um2uq5oURT8)
+* [nginx-clojure: Nginx module for embedding Clojure or Java or Groovy programs, typically those Ring based handlers](https://github.com/nginx-clojure/nginx-clojure)
 * [Nightcode - A handy tool for your Clojure adventures](https://sekao.net/nightcode/)
 * [nippy - High-performance serialization library for Clojure https://www.taoensso.com ](https://github.com/ptaoussanis/nippy)
   * [Function serialization between Clojure processes and dialects](https://github.com/dvlopt/fdat.cljc)
