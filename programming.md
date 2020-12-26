@@ -950,7 +950,7 @@ Programming
 * [Principles for Microservice Design: Think IDEALS, Rather than SOLID](https://www.infoq.com/articles/microservices-design-ideals/)
 * [MSA프로젝트에서 마주하는 3가지 어려움](https://brunch.co.kr/@windydog/388)
 * [InfoQ Live Roundtable: Microservices - Are They Still Worth It?](https://www.infoq.com/presentations/microservices-roundtable-2020/)
-* [우아콘2020 배달의민족 마이크로서비스 여행기 - YouTube](https://www.youtube.com/watch?v=BnS6343GTkY&feature=youtu.be)
+* [우아콘2020 배달의민족 마이크로서비스 여행기 - YouTube](https://www.youtube.com/watch?v=BnS6343GTkY)
 * [Edgar: Solving Mysteries Faster with Observability | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
   * [Building Netflix’s Distributed Tracing Infrastructure | by Netflix Technology Blog | Oct, 2020 | Netflix TechBlog](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
 * [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)

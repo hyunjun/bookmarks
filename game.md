@@ -93,4 +93,4 @@ Game
   * [PyCon KR 2019 뱅크샐러드 돌아보기](https://medium.com/rainist-engineering/pycon-kr-2019-banksalad-5b4816325949)
 
 ## Library Scala
-* [Indigo · A game engine for programmers](https://indigoengine.io/?fbclid=IwAR0BcJa0_wFJYxm0MHnVp8QJCE_LdbEs6VFRBupQx7ZjbzEVQW6Rj69JveM)
+* [Indigo · A game engine for programmers](https://indigoengine.io/)

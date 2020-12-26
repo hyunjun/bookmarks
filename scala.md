@@ -1539,7 +1539,7 @@ Scala
 * [Announcing the Moving from Scala 2 to Scala 3 course – Lunatech](https://www.lunatech.com/2020/06/announcing-the-moving-from-scala-2-to-scala-3-course/)
   * [lunatech-scala-2-to-scala3-course/exercises](https://github.com/lunatech-labs/lunatech-scala-2-to-scala3-course/tree/exercises-master/exercises)
 * [#Opaque types in #Scala 2 and 3 - YouTube](https://www.youtube.com/watch?v=WyvawRRuU2c)
-* [Scala 3: Opaque Types | Rock the JVM - YouTube](https://www.youtube.com/watch?v=8-b2AoctkiY&feature=youtu.be)
+* [Scala 3: Opaque Types | Rock the JVM - YouTube](https://www.youtube.com/watch?v=8-b2AoctkiY)
 * [Annoying things in Scala 2 that’ll be (mostly) gone in Scala 3 | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/annoying-things-in-scala-2-thatll-be-mostly-gone-in-scala-3-e1479a6d855c)
 * [Scala 3: Enums | Rock the JVM - YouTube](https://www.youtube.com/watch?v=QnrXubpILu4)
 * [Let’s Talk About the Scala 3 Indentation - Rock the JVM Blog](https://blog.rockthejvm.com/scala-3-indentation/)
