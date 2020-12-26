@@ -83,6 +83,7 @@ Flutter
 * [리얼 Flutter #2 Flutter Project 시작 - 빈 화면과 Splash - Kowana's coding](https://www.kowanas.com/coding/2020/12/08/flutter-project-%EC%8B%9C%EC%9E%91/)
 * [리얼 Flutter #3 App 만들기 – Code 구조와 Routes - Kowana's coding](https://www.kowanas.com/coding/2020/12/12/routes/)
 * [리얼 Flutter #4 App 만들기 – pubget for packages - Kowana's coding](https://www.kowanas.com/coding/2020/12/25/pubget/)
+* [리얼 Flutter #5 App 만들기 – BLOC - Kowana's coding](https://www.kowanas.com/coding/2020/12/26/bloc-2/)
 
 # Dart
 * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
