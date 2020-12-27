@@ -12,7 +12,6 @@ Redis
 * [Redis Hot Patch](http://benmmurphy.github.io/blog/2015/06/09/redis-hot-patch/)
 * [How Twitter Uses Redis To Scale - 105TB RAM, 39MM QPS, 10,000+ Instances](http://highscalability.com/blog/2014/9/8/how-twitter-uses-redis-to-scale-105tb-ram-39mm-qps-10000-ins.html)
 * [Keeping up with the cool databases we present: Redis](https://codepicnic.com/posts/keeping-up-with-the-cool-databases-we-present-redis-cedebb6e872f539bef8c3f919874e9d7)
-* [Transactions in Redis](http://www.dr-josiah.com/2015/07/transactions-in-redis.html)
 * [Redis on AWS](http://www.slideshare.net/charsyam2/redis-on-aws)
 * [FAILOVER WITH REDIS SENTINEL](http://engineering.vinted.com/2015/09/03/failover-with-redis-sentinel/)
 * [Clarifications about Redis and Memcached](http://antirez.com/news/94)
@@ -112,6 +111,8 @@ Redis
 
 # Command
 * [Redis 에서 zadd 와 zincrby 의 차이](https://charsyam.wordpress.com/2018/09/06/%ec%9e%85-%ea%b0%9c%eb%b0%9c-redis-%ec%97%90%ec%84%9c-zadd-%ec%99%80-zincrby-%ec%9d%98-%ec%b0%a8%ec%9d%b4/)
+* [Transactions in Redis](http://www.dr-josiah.com/2015/07/transactions-in-redis.html)
+* [같은 주문에 2명의 라이더가 동시에 배달하는 문제 해결 - Redis Transaction을 이용하여 데이터 atomic 보장](https://tjdrnr05571.tistory.com/18) 
 * BGSAVE
   * [practice - backup & restore](https://gist.github.com/hyunjun/cfce6fc1ea6d0ca8995417ed64347538)
 * CONFIG
