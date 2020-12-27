@@ -362,6 +362,7 @@ Web
 * [canrevan: 대량의 네이버 뉴스 기사를 수집하는 라이브러리입니다](https://github.com/affjljoo3581/canrevan)
 * [corona-tracker](https://github.com/iidx/corona-tracker) crawl + telegram bot
 * [Crawler](https://github.com/rudvlf0413/crawler)
+* [Crawl your facebook post for retrospective for V9.0](https://gist.github.com/jinhoyoo/0e7799d371e297dd28e91b8404001ada)
 * [cyworld-bot - Cyworld image crawler](https://github.com/leegeunhyeok/cyworld-bot)
 * [django_ebay_scrapy: eBay Scrapy can help eBay sellers to understand the marketplace with Keyword Analysis.](https://github.com/pss2138/django_ebay_scrapy)
 * [ebay_scrapy](https://github.com/pss2138/ebay_scrapy)
