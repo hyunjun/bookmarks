@@ -811,6 +811,7 @@ Python
   * [Top to down, left to right (Surprise talk) - James Powell](https://www.youtube.com/watch?v=BRn6UCw35og) import, scope 이외의 내용도 많지만 분류가 애매해서
   * [importify: Import and export your configuration like a boss](https://github.com/litcoderr/importify)
   * [파이썬 상대경로 import 에러 ImportError: attempted relative import with no known parent package](https://myjorney.tistory.com/52)
+  * [Start Python #4 Backend Program 만들기 – library import - Kowana's coding](https://www.kowanas.com/coding/2020/12/27/library/)
 * `__init__.py`
   * [모듈 치환 (override) 에 대한 고찰](http://mcchae.egloos.com/11218595)
   * [모듈에서 `__init__.py` 외에 `__main__.py` 의 사용](http://mcchae.egloos.com/11240652)
