@@ -312,6 +312,7 @@ Programming Books
 * (NOT YET) [MySQL 5.7 완벽 분석](https://blog.insightbook.co.kr/2019/05/03/19542/)
 * (NOT YET) [SQL로 맛보는 데이터 전처리 분석](https://bjpublic.tistory.com/351)
 * (NOT YET) [이것이 MySQL이다](https://sihan-son.github.io/MYSQL/)
+* (NOT YET) [프로젝트 성패를 결정짓는 데이터 모델링 이야기](https://jybaek.tistory.com/887)
 
 # Data Science
 
