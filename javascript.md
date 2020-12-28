@@ -2862,6 +2862,7 @@ Javascript
     * [MobX 예시코드](https://codesandbox.io/s/yv4w13q2q9)
   * [React에서 Mobx 경험기 (Redux와 비교기)](http://woowabros.github.io/experience/2019/01/02/kimcj-react-mobx.html)
   * [React + MobX - YouTube](https://www.youtube.com/playlist?list=PLOSNUO27qFbtYC5oRwJVsNavcPEI5uoiJ)
+  * [React Mobx 안어렵습니다! - YouTube](https://www.youtube.com/watch?v=tjHljJRooHU)
   * [mobx-react-lite - Lightweight React bindings for MobX based on React 16.8 and Hooks](https://github.com/mobxjs/mobx-react-lite)
   * mobx-state-tree-router [How to build a state-based router using React and MobX State Tree](https://medium.freecodecamp.org/how-to-build-a-state-based-router-using-react-and-mobx-state-tree-e91b2b8e8d79)
 * [Modals in React](http://reactjsnews.com/modals-in-react/)
