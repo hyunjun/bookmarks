@@ -387,6 +387,7 @@ Data Science
 * [Announcing FsLab: Data science package](http://tomasp.net/blog/2015/announcing-fslab/index.html)
 * [Beaker](http://beakernotebook.com/?foo)
 * [danfo.js - an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.](https://github.com/opensource9ja/danfojs)
+  * [Pandas를 자바스크립트에서! Danfo.js - YouTube](https://www.youtube.com/watch?v=rPCgsu0bcM4)
 * [Digdag - a simple tool that helps you to build, run, schedule, and monitor complex pipelines of tasks](http://www.digdag.io/) Data Workflow Management Opensource Engine
 * [faker.js: generate massive amounts of realistic fake data in Node.js and the browser](https://github.com/Marak/faker.js)
   * [How to generate mock data with faker.js | by Lucas Jellema | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/faker-js-npm-module-for-generating-fake-data-5dae437ec3a)
