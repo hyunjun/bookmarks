@@ -105,6 +105,8 @@ Keras
 * [Deep Learning과 Keras 기초 - 아샬(@ahastudio)](https://www.youtube.com/watch?v=GSYVgQwc2P0&index=8&list=PLJ0BuvoGAkXuup2f2SsRfY1Vj-JJVCoEa)
   * [test.ipynb](https://github.com/ahastudio/CodingLife/blob/master/20171026/keras/test.ipynb)
 * [Segmentation using Unet open version](https://github.com/tkwoo/segmentation-visualization-training) 학습 중간에 mask를 시각적으로 확인
+* [Deep Residual Unet (ResUNet) Segmentation in Keras TensorFlow](https://morioh.com/p/fccb44dfdd02?f=5c21fb01c16e2556b555ab32)
+* [Unet Segmentation in Keras TensorFlow](https://morioh.com/p/feb593869630)
 * [Use Pretrained Model in Keras with Statoil dataset](https://www.kaggle.com/sudosudoohio/use-pretrained-model-in-keras-with-statoil-dataset)
   * transfer learning을 이용한 feature extraction. LDA와 같은 지도학습을 사용하여 feature를 뽑아내는 것과 같은 방식
 * [Keras: Feature extraction on large datasets with Deep Learning](https://www.pyimagesearch.com/2019/05/27/keras-feature-extraction-on-large-datasets-with-deep-learning/)
@@ -183,7 +185,6 @@ Keras
 * [Shooting Hoops with Keras and TensorFlow || Zack Akil](https://www.youtube.com/watch?v=QKVpIo5sfGA)
 * [Fire and smoke detection with Keras and Deep Learning](https://www.pyimagesearch.com/2019/11/18/fire-and-smoke-detection-with-keras-and-deep-learning/)
 * [**DACON 14회 금융문자분석 경진대회 59위**](https://dacon.io/competitions/official/235401/codeshare/661)
-* [Deep Residual Unet (ResUNet) Segmentation in Keras TensorFlow](https://morioh.com/p/fccb44dfdd02?f=5c21fb01c16e2556b555ab32)
 * [Keras를 이용한 딥러닝 시작, ANN DNN, 손글씨 인식시키기 머신러닝 with Python - YouTube](https://www.youtube.com/watch?v=wCgYYuNhYVw)
 * [Practical Keras. Simple regression for the Numerai… | by Keno Leon | Medium](https://medium.com/@k3no/practical-keras-59c9d18ef6cf)
 * [keras Conv2D | Pega Devlog](https://jehyunlee.github.io/2020/11/29/Python-DL-1-conv2d/)
