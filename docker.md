@@ -875,6 +875,7 @@ Docker
 * [A “Krispr” Approach to Kubernetes Infrastructure | by Daniel Low | Airbnb Engineering & Data Science | Nov, 2020 | Medium](https://medium.com/airbnb-engineering/a-krispr-approach-to-kubernetes-infrastructure-a0741cff4e0c)
 * [Kubernetes 에서 Docker 를 이제 못쓴다고? 팩트체크! - YouTube](https://www.youtube.com/watch?v=XXH0Ocm_9Ro)
 * [Kubernetes에 대해 알아보겠습니다](https://developer88.tistory.com/269)
+* [Kubernetes의 아키텍처](https://developer88.tistory.com/273)
 * [A beginner's guide to Kubernetes Jobs and CronJobs | Opensource.com](https://opensource.com/article/20/11/kubernetes-jobs-cronjobs)
 
 ## Library Kubernetes
