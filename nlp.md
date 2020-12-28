@@ -1461,6 +1461,7 @@ NLP
 * [Introduction to Neural Machine Translation with GPUs (Part 1)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/)
 * [Introduction to Neural Machine Translation with GPUs (Part 2)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-2/)
 * [Introduction to Neural Machine Translation with GPUs (part 3)](http://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-gpus-part-3/)
+* [Machine Translation Survey (vol1) : Background - YouTube](https://www.youtube.com/watch?v=KQfvEg-fGMw)
 * [문자 단위의 Neural Machine Translation](http://www.slideshare.net/naver-labs/27-hclt-neural-machine-traslation)
 * [Jointly Modeling Embedding and Translation to Bridge Video and Language](https://drive.google.com/file/d/0B-ZSzubU1u02TDZKU1Q0akxUM0k/view)
 * [Tips on Building Neural Machine Translation Systems](https://github.com/neubig/nmt-tips/blob/master/README.md)
