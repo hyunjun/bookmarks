@@ -342,6 +342,7 @@ NLP
 * [Automate Data Cleaning with Unsupervised Learning | by Marco Cerliani | Towards Data Science](https://towardsdatascience.com/automate-data-cleaning-with-unsupervised-learning-2046ef59ac17)
 * [Knowledge Graphs in Natural Language Processing @ ACL 2020 | by Michael Galkin | Towards Data Science](https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2020-ebb1f0a6e0b1)
 * [지식그래프에서 경로를 탐색하는 모델 AttnIO를 소개합니다](https://tech-kakaoenterprise.tistory.com/95)
+* [AI Grand Challenge, 인공지능 그랜드 챌린지 1위 입상 후기 및 입상 모델 설명](https://ai4nlp.tistory.com/17) 음성인식 + 텍스트분류
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -826,6 +827,7 @@ NLP
 * [Recurrent Neural Networks: The Powerhouse of Language Modeling](https://medium.com/analytics-vidhya/recurrent-neural-networks-the-powerhouse-of-language-modeling-f292c918b879)
 * [Character-Aware Neural Language Models](https://www.slideshare.net/HoonHeo5/characteraware-neural-language-models)
 * [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA)
+* [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
 * [WellnessConversationAI: Korean Language Model을 이용한 심리상담 대화 언어 모델](https://github.com/nawnoes/WellnessConversationAI)
 
