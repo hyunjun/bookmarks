@@ -1095,6 +1095,8 @@ Java
 * [mybatis $ # 차이를 알아봅시다](https://codingdog.tistory.com/entry/mybatis-%EC%B0%A8%EC%9D%B4%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [스프링부트 - MyBatis 실전 프로그래밍 - YouTube](https://www.youtube.com/watch?v=4YOk7oLGTKI)
 * [11. Spring - Mybatis Interceptor로 파라미터 자동암호화 / select 쿼리 자동복호화및 쿼리 로그추출하기](https://kim-jong-hyun.tistory.com/23)
+* [10. Spring IoC Container에 관리되는 Bean 목록 확인하기](https://kim-jong-hyun.tistory.com/21)
+* [12. Spring - jxls로 간편하게 엑셀다운로드 구현하기](https://kim-jong-hyun.tistory.com/24)
 * [Spring Project 스프링 프로젝트 시작하기 - Spring Boot JPA](https://woolbro.tistory.com/41)
 * [Spring MVC 예제 - 직원 관리 프로그램](https://woolbro.tistory.com/42)
 * [Spring MVC 예제 - @RequestMapping 어노테이션 예제](https://woolbro.tistory.com/43)
@@ -1150,6 +1152,9 @@ Java
 * [beantimer: A tools to measure Spring bean initialization time](https://github.com/vikreinok/beantimer)
 * [thymeleaf](https://okdevtv.com/mib/spring/thymeleaf)
   * [Thymeleaf 시작하기 - YouTube](https://www.youtube.com/watch?v=tiRi6PLVesY)
+  * [7. Spring Thymeleaf 적용해보기](https://kim-jong-hyun.tistory.com/18)
+  * [8. Spring Thymeleaf 기본문법](https://kim-jong-hyun.tistory.com/19)
+  * [9. Spring Thymeleaf Util class](https://kim-jong-hyun.tistory.com/20)
 
 ## Library Spring Boot
 * [스프링 부트(Spring Boot) 소개 합니다](http://www.slideshare.net/topcredu/spring-boot-66190611)
