@@ -224,6 +224,7 @@ History
 * [사도세자를 보는 다른 시선 - 흉악한 연쇄살인범 사도세자](http://m.blog.naver.com/sohoja/50152687852)
 * [양반 죽이고 섬으로 유배된 코끼리의 이야기](http://www.huffingtonpost.kr/2015/09/21/story_n_8168430.html)
 * [장인(사돈) 시각에서 본 사도세자 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8170182.html)
+* ['부하가 아니다'... 왕에게 대든 재상 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0002704156) 정조 심환지
 * [이덕일](https://librewiki.net/wiki/%EC%9D%B4%EB%8D%95%EC%9D%BC)
 * [구한말의 외국인 의사, 호레이스 알렌](http://ppss.kr/archives/54138)
 * [우리 가문은 조선시대 과거시험(문과)에 얼마나 붙었을까?](http://www.pickis.co.kr/65368)
