@@ -3272,6 +3272,7 @@ Python
   * [**PyMySQL Evaluation**](https://wiki.openstack.org/wiki/PyMySQL_evaluation)
   * [pymssql nextset() 빈값 이슈](https://ash84.net/2017/07/25/pymssql-nextset-empty-issue/)
   * [PyMySql이용해서 데이터 베이스 서버와 통신하기](https://jungwoon.github.io/python/2018/03/29/Data-Analysis-With-Python-4/)
+  * [Start Python #5 Backend Program 만들기 – DBModel - Kowana's coding](https://www.kowanas.com/coding/2020/12/27/dbmodel/)
   * `OperationalError 1045` [파이썬에서 최신 MySQL 에 연결하기](https://blog.naver.com/sogangori/221301162933)
 * PYODBC
   * [How to Use PYODBC With SQL Servers in Python](https://www.youtube.com/watch?v=eDXX5evRgQw)
@@ -4127,6 +4128,7 @@ Python
   * [Start Python #2 Unit Test 사용하기 ( feat. pytest ) - Kowana's coding](https://www.kowanas.com/coding/2020/12/19/unit-test/)
   * [playwright-python: Python version of the Playwright testing and automation library](https://github.com/microsoft/playwright-python)
     * [Announcing Playwright for Python: Reliable end-to-end testing for the web | Python](https://devblogs.microsoft.com/python/announcing-playwright-for-python-reliable-end-to-end-testing-for-the-web/)
+  * [Pytest 테스트 결과 좀 더 편하게 보기 – rein's world](https://rein.kr/blog/archives/5133)
   * [pytest-bdd - BDD library for the py.test runner](https://github.com/pytest-dev/pytest-bdd)
     * [PYTHON TESTING 101: PYTEST-BDD](https://automationpanda.com/2018/10/22/python-testing-101-pytest-bdd/)
   * [pytest-benchmark 파이썬 벤치마크 테스트](https://github.com/mcchae/pytest-benchmark)
