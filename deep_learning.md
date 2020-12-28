@@ -1369,6 +1369,7 @@ Deep Learning
 * [6.S094: Deep Learning for Self-Driving Cars](http://selfdrivingcars.mit.edu/)
   * [MIT 6.S094: Introduction to Deep Learning and Self-Driving Cars](https://www.youtube.com/watch?v=1L0TKZQcUtA&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
 * [CS 221: 인공지능 (봄 2019), CS 229: 기계 학습 (가을 2018), CS 230: 딥 러닝 (겨울 2019)](https://stanford.edu/~shervine/l/ko/)
+* CS 229 [cheatsheet-translation/ko at master · shervinea/cheatsheet-translation](https://github.com/shervinea/cheatsheet-translation/tree/master/ko)
 * [CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230.html)
   * [Deep Learning cheatsheets for Stanford's CS 230](https://github.com/afshinea/stanford-cs-230-deep-learning)
 * [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17/)
@@ -2359,6 +2360,7 @@ CVPR2016)
 * [Deep Reinforcement Learning in TensorFlow2](https://github.com/marload/deep-rl-tf2)
 * [A Simple Industrial Example: Real-Time Bidding](https://rl-book.com/learn/value_methods/bidding/) 광고
 * [2020 나 혼자 RL한다 - YouTube](https://www.youtube.com/playlist?list=PL758EWSZu9DbUVYgS23gj5M-yxjdS2FKD)
+* [Reinforcement Learning meets the real-world:Industrial RL applications](https://tv.naver.com/v/16969158)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
