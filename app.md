@@ -1293,6 +1293,8 @@ App
 * [윈도우 10(Windows 10) 2020년 5월 업데이트 릴리스 및 적용하기](https://www.44bits.io/ko/post/news--windows-2020-may-update-release)
 * [Windows 10에서 개발 환경 설정 | Microsoft Docs](https://docs.microsoft.com/ko-kr/windows/dev-environment/overview)
 * [Scott Hanselman's 2021 Ultimate Developer and Power Users Tool List for Windows - Scott Hanselman's Blog](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
+  * [(12/27) 꼭 설치해야 할 윈도우 개발 지원 도구](https://www.youtube.com/watch?v=SQi8rn_TsKM&t=1261s)
+  * Startship, Winget, QuickLook, Insomnia, EarTrumpet, Ditto Clipboard Manager, PureText, Carnac
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
