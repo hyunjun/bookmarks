@@ -301,6 +301,7 @@ Haskell
 * [하스켈 함수의 타입](https://gist.github.com/nattybear/6df16d5a2237a316ca8e9d7171d2aff5)
 * [하스켈 infix 연산자](https://gist.github.com/nattybear/630fc2a4f419b23ccc297d9eff2b8eba)
 * [하스켈 polymorphism](https://gist.github.com/nattybear/16910b4aca976819a78c80ce2d4ba6ae)
+* [하스켈 타입 변수](https://gist.github.com/nattybear/dfa8cf35854e67038d1487ae36e3f036)
 * do [The doomsday machine](https://tech.fretlink.com/the-doomsday-machine/)
 * exception
   * [THE THREE KINDS OF HASKELL EXCEPTIONS AND HOW TO USE THEM](https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html)
