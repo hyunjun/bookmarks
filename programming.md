@@ -1418,7 +1418,9 @@ Programming
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
   * [Teamcity Github 로그인 연동](https://jojoldu.tistory.com/454)
   * [TeamCity 빌드 실패시 결과 Slack으로 알람 받기](https://jojoldu.tistory.com/458)
-* waypoint [Announcing HashiCorp Waypoint](https://www.hashicorp.com/blog/announcing-waypoint)
+* [Waypoint by HashiCorp](https://www.waypointproject.io/)
+  * [Announcing HashiCorp Waypoint](https://www.hashicorp.com/blog/announcing-waypoint)
+  * [HashiCorp의 Waypoint 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1520)
 
 # CPU
 * [Understanding CPU Microarchitecture for Performance](https://speakerdeck.com/alblue/understanding-cpu-microarchitecture-for-performance)
