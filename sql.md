@@ -67,6 +67,7 @@ SQL
   * [(즐겁게 배우는 SQL #21) 집합 연산자를 배우자 - MySQL에서 Intersect와 Except 흉내내기](https://jhrogue.blogspot.com/2020/12/sql-21-mysql-intersect-except.html)
   * [(즐겁게 배우는 SQL #22) 서브 질의를 배우자 - 서브 질의](https://jhrogue.blogspot.com/2020/12/sql-22.html)
   * [(즐겁게 배우는 SQL #23) 서브 질의를 배우자 - Exists](https://jhrogue.blogspot.com/2020/12/sql-23-exists.html)
+  * [(즐겁게 배우는 SQL #24) 서브 질의를 배우자 - Case](https://jhrogue.blogspot.com/2020/12/sql-24-case.html)
 * [고독쓰나미 - YouTube](https://www.youtube.com/channel/UClUrjhtzmAJL-sgXe6sNUkw)
 * [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
 * [EDB is a framework to make and manage backups of your database](https://github.com/RoxasShadow/EDB)
