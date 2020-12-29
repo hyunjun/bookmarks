@@ -239,6 +239,7 @@
 * [Coroutine의 Scope 와 Job 그리고 Structured concurrency](https://developer88.tistory.com/276)
 * [Kotlin Coroutines의 runBlocking은 언제 써야 할까? 잘 알고 활용하자!](https://thdev.tech/kotlin/2020/12/15/kotlin_effective_15/)
 * [Kotlin Coroutines의 GlobalScope을 어떻게 사용할 수 있을까? - 사실 추천하지 않는다](https://thdev.tech/kotlin/2020/12/22/kotlin_effective_16/)
+* [Kotlin CoroutineScope을 알아보고, cancel 처리에 대해서 알아보자](https://thdev.tech/kotlin/2020/12/29/kotlin_effective_17/)
 
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
