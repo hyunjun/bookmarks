@@ -1467,10 +1467,6 @@ Scala
   * `JAVA_OPTS="$JAVA_OPTS -Dhttp.proxyHost=proxyhost -Dhttp.proxyPort=9999 * -Dhttps.proxyHost=proxyhost -Dhttps.proxyPort=9999" sbt`
 * [How to include an external jar file into the jar with package?](http://stackoverflow.com/questions/25129227/how-to-include-an-external-jar-file-into-the-jar-with-package)
 * [스칼라 어플리케이션은 어떻게 빌드&디플로이 할까?](http://hamait.tistory.com/892)
-* Maven to SBT 컨버터
-  * [#1 게릴라 방송 (2017-04-03)](https://www.youtube.com/watch?v=oaQ71Fm3q0U)
-  * [#2 게릴라 방송 (2017-04-04)](https://www.youtube.com/watch?v=QjAOmX4Sj_4)
-  * [#3 / Scala로 스크립팅 (2017-04-07)](https://www.youtube.com/watch?v=7drpR4p2cyo)
 * [Code Quality를 높여주는 SBT 플러그인 (2018-04-20)](https://www.youtube.com/watch?v=81HqWUjU4ns)
 * [kevin sbt 플러그인](https://github.com/Kevin-Lee/sbt-devoops)
   * [2018년 마지막 방송 (2018-12-21) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=BITP-Pr7OXQ)
@@ -1493,6 +1489,10 @@ Scala
 * [sbt scala version mismatch - sbt에서 사용하는 scala version이 command line의 scala와 맞지 않을 때](https://medium.com/@strncpy/sbt-scala-version-mismatch-4f8260b4e707)
 * [cached compilation for sbt](http://eed3si9n.com/cached-compilation-for-sbt)
 * [Mirco Dotta—Crack Open Sbt and Master your Build Times - YouTube](https://www.youtube.com/watch?v=Mx_gQz8MTrI)
+* [maven2sbt | maven2sbt](https://maven2sbt.kevinly.dev)
+  * [#1 게릴라 방송 (2017-04-03)](https://www.youtube.com/watch?v=oaQ71Fm3q0U)
+  * [#2 게릴라 방송 (2017-04-04)](https://www.youtube.com/watch?v=QjAOmX4Sj_4)
+  * [#3 / Scala로 스크립팅 (2017-04-07)](https://www.youtube.com/watch?v=7drpR4p2cyo)
 * sbt-bintray-remote-cache [remote caching sbt builds with Bintray | eed3si9n](https://eed3si9n.com/remote-caching-sbt-builds-with-bintray)
 * sbt-ci-release [auto publish sbt plugin from Travis CI | eed3si9n](http://eed3si9n.com/auto-publish-sbt-plugin)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
