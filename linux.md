@@ -698,6 +698,8 @@ Linux
   * [top 명령어](https://johngrib.github.io/wiki/top/)
   * `top -H` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
   * `top -H -p <PID>` [How to get the number of threads in a Java process](https://stackoverflow.com/questions/1922290/how-to-get-the-number-of-threads-in-a-java-process)
+  * [bashtop - Awesome Linux resource monitor - nixCraft](https://www.cyberciti.biz/open-source/command-line-hacks/bashtop-awesome-linux-resource-monitor-tool/)
+  * [bpytop - Awesome Linux, macOS and FreeBSD resource monitor - nixCraft](https://www.cyberciti.biz/open-source/command-line-hacks/bpytop-awesome-linux-macos-and-freebsd-resource-monitor/)
   * htop
     * [2019년 11월 10일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-11-10.html)
     * [htop-dev/htop: htop - an interactive process viewer](https://github.com/htop-dev/htop)
