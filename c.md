@@ -253,6 +253,9 @@ C
 * [Collections-C - A library of generic data structures including a list, array, hashtable, deque etc](https://github.com/srdja/Collections-C)
 * [Conan - C/C++ package manager](https://www.conan.io/)
 * [corkscrew - A tool for tunneling SSH through HTTP proxies](https://github.com/bryanpkc/corkscrew)
+* [Cosmopolitan C Library](https://justine.lol/cosmopolitan/index.html)
+  * [cosmopolitan: fast portable static native textmode executable containers](https://github.com/jart/cosmopolitan)
+  * [Cosmopolitan libc - Build-Once Run-Anywhere C | GeekNews](https://news.hada.io/topic?id=3489)
 * [liblfds, a portable, license-free, lock-free data structure library](http://www.liblfds.org/)
 * [A turing machine simulator that can accept a string and process it according to a given set of transitions](https://github.com/yedhukrishnan/turing-machine)
 * [ACT: low-level API call tracer](https://github.com/traitor0213/ACT) windows
