@@ -137,6 +137,7 @@
 * [우아한 객체지향-2019년 6월 우아한 Tech 세미나 참석 후기](https://jojoldu.tistory.com/425) class간 의존성 결과에 대한 이야기
 * [Dependency Injection(DI)에 대해서 알아보자](https://developer88.tistory.com/172)
 * [DI 첫 번째, Dependency Injection에 관하여](https://poqw.github.io/di_1/)
+* [(18) What is dependency injection .net core? Can someone explain it by taking simple real life based examples? I have checked it out on internet but it's explained in very complex way everywhere. - Quora](https://www.quora.com/What-is-dependency-injection-net-core-Can-someone-explain-it-by-taking-simple-real-life-based-examples-I-have-checked-it-out-on-internet-but-its-explained-in-very-complex-way-everywhere)
 
 ## Dependency Injection Python
 * [Dependency Injector — Dependency injection microframework for Python](http://python-dependency-injector.ets-labs.org/)
