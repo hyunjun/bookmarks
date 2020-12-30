@@ -115,6 +115,7 @@ Shell
 * [Bash Infinity - a standard library and a boilerplate framework for writing tools using bash](https://github.com/niieani/bash-oo-framework)
 * [Bash Quick References](https://shellmagic.xyz/)
 * [bashttpd - a simple, configurable web server written in bash](https://github.com/avleen/bashttpd)
+* [commit.sh: Generate commit message according to AngularJS Commit Message Conventions](https://github.com/outstanding1301/commit.sh)
 * [import - a simple and fast module system for Bash and other Unix shells](https://import.pw/)
 * osh [Four Features That Justify a New Unix Shell](http://www.oilshell.org/blog/2020/10/osh-features.html)
 * [ShellCheck finds bugs in your shell scripts](https://www.shellcheck.net/)
