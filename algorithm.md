@@ -211,6 +211,7 @@ Algorithm
 * [All Pythagorean Triplets in Optimal Time Complexity | Level Up Coding](https://levelup.gitconnected.com/all-pythagorean-triplets-less-than-equal-n-in-optimal-time-complexity-babfbe742337)
 * [Essential Data Structures for Every Programmer | by Mahdhi Rezvi | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/essential-data-structures-for-every-programmer-7d1511eba838)
 * [알고리즘 - 부경대학교 | KOCW 공개 강의](http://www.kocw.net/home/search/kemView.do?kemId=1148815)
+* [정점 분할 : 노드를 상태에 따라 여러 개로 쪼갠다.](https://codingdog.tistory.com/entry/%EC%A0%95%EC%A0%90-%EB%B6%84%ED%95%A0-%EB%85%B8%EB%93%9C%EB%A5%BC-%EC%83%81%ED%83%9C%EC%97%90-%EB%94%B0%EB%9D%BC-%EC%97%AC%EB%9F%AC-%EA%B0%9C%EB%A1%9C-%EC%AA%BC%EA%B0%A0%EB%8B%A4)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
