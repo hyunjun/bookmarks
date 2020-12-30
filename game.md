@@ -88,6 +88,8 @@ Game
     * [github.com/diligejy/PythonData/tree/master/PyCar](https://github.com/diligejy/PythonData/tree/master/PyCar)
   * [파이게임 설치하기](https://blog.naver.com/dsz08082/221373412901)
   * [pygame에서 한글폰트 사용 템플릿 예제 : 네이버 블로그](https://blog.naver.com/drvoss/222065324957)
+  * [Pygame Lecture](https://www.notion.so/Pygame-Lecture-3bb9d5e7e92240519ab204d968e226a5)
+  * [PyGame 어드벤쳐 : 위니브 월드를 수복하라! - 리디북스](https://ridibooks.com/books/2773000041)
 * [pyNES - NES games in python](http://gutomaia.net/pyNES/)
 * [Pyxel - a retro game engine for Python](https://github.com/kitao/pyxel)
   * [PyCon KR 2019 뱅크샐러드 돌아보기](https://medium.com/rainist-engineering/pycon-kr-2019-banksalad-5b4816325949)
