@@ -726,6 +726,7 @@ Programming
 * [A Cloud-Native Architecture for a Digital Enterprise](https://www.infoq.com/articles/cloud-native-architecture/)
 * [Hide :: Stripe 결제 시스템 도입하기](https://hides.tistory.com/1073)
 * [Financial Times의 데이터플랫폼 구축기 | GeekNews](https://news.hada.io/topic?id=3416)
+* [안심번호(050) 시스템 #1 - 시스템 구축 스토리 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/12/30/050system_introduction.html)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -1797,6 +1798,7 @@ Programming
 * [raywenderlich.com](https://www.raywenderlich.com/) Over 3,000 high-quality tutorials to boost your programming career, created by a community of experts from around the world
 * [SKplanet Tacademy](https://www.youtube.com/channel/UCtV98yyffjUORQRGTuLHomw/playlists)
 * [sololearn.com](https://www.sololearn.com/)
+* [Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) SICP
 * [woz-u.com](https://woz-u.com/)
 
 # News & Blog
