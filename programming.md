@@ -2430,8 +2430,6 @@ Programming
 * [How to write better code using mutation testing](https://blog.blockscore.com/how-to-write-better-code-using-mutation-testing/)
 * [오픈소스 Java 테스트 프래임웍 7선](http://pseg.or.kr/pseg/index.php?document_srl=6000&l=ko&mid=infotrend)
 * [IoT 개발자를 위한 Embedded C에서 TDD를 해보자](http://www.slideshare.net/TaeyeopKim1/iot-embedded-c-tdd/TaeyeopKim1/iot-embedded-c-tdd)
-* [nGrinder - Enterprise level performance testing solution based on The Grinder](https://naver.github.io/ngrinder/)
-  * [내 서버는 동시 사용자 몇명일 때 터질까? - Ngrinder를 이용해 성능/부하 테스트](https://tjdrnr05571.tistory.com/17)
 * [pairwise testing 적용방법](http://blog.naver.com/wisestone2007/220708834132)
 * [tyrant-client-tdd - tokyo-tyrant의 java client를 만드는 시작 부분을 TDD로 진행하는 과정](https://github.com/msbaek/tyrant-client-tdd)
 * [10 simple rules for writing great testcases by Steve Poole and Stuart Marks](https://www.youtube.com/watch?v=n6Nde8TgB2Y)
