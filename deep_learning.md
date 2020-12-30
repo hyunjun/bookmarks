@@ -811,6 +811,7 @@ Deep Learning
 * [Variational Auto Encoding](https://github.com/MingyuKim87/VAE)
 * [AutoEncoder vs Variant AutoEncoder](https://bcho.tistory.com/1326)
 * [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691v1)
+* [Advanced_Models: 여러가지 유명한 신경망 모델들을 제공합니다. (DCGAN, VAE, Resnet 등등)](https://github.com/jk96491/Advanced_Models)
 
 # [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
 * [Deep Learning - Geoffrey Hinton - how to do backpropagation in a brain](https://www.youtube.com/watch?v=kxp7eWZa-2M&t=38m13s)
