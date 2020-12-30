@@ -1534,6 +1534,7 @@ Python
   * [Python-for-Signal-Processing](https://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing)
   * [Notebooks for "Python for Signal Processing" book](https://github.com/leehaesung/Python-for-Signal-Processing)
 * [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/)
+  * [CS 61A Fall 2020](https://cs61a.org/)
 * Think DSP
   * [January is DSP month!](http://thinkdsp.blogspot.com/2015/01/january-is-dsp-month.html)
 * [Think Python: How to Think Like a Computer Scientist 2판](https://surpreem.com/think-python-how-to-think-like-a-computer-scientist-2%ED%8C%90/)
