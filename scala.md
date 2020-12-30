@@ -6,6 +6,7 @@ Scala
 * [medium.com/tag/scala](https://medium.com/tag/scala)
 * [Thisweekinscala](https://medium.com/tag/thisweekinscala/archive)
 * [alvinalexander.com/scala](http://alvinalexander.com/scala)
+* [ScalaFiddle](https://scalafiddle.io/)
 * [Visual Scala Reference](https://superruzafa.github.io/visual-scala-reference/)
 * [SoftwareMilling around OSS – Scala Love](https://scala.love/softwaremilling-around-oss/)
 * podcast
@@ -1855,3 +1856,5 @@ Scala
 * [Why You Should Learn Scala in 2020? | by Marcin Krykowski | Medium](https://medium.com/@marcinkrykowski/why-you-should-learn-scala-in-2020-b827f7e00282)
 * [ScalaZONE - Scala 3 Programming Language Courses](https://scala.zone/)
 * [Scala with Friends - YouTube](https://www.youtube.com/playlist?list=PL1NS3pe5mmu31zNozgzhgEjhnfIfdKiwB)
+* [스칼라 기초 투어 - YouTube](https://www.youtube.com/playlist?list=PL8kmk2VivDmRueOZS4aKm0xUlYp0frQQS)
+* [함수형 프로그래밍으로 도전하는 코딩 테스트 시리즈 - YouTube](https://www.youtube.com/playlist?list=PL8kmk2VivDmQZvx2N0vmCFkjEQ_pvpdsA)

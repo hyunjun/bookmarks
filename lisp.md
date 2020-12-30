@@ -160,6 +160,7 @@ Lisp
 * [Practically Accurate Floating-Point Math](http://www.cs.umd.edu/~ntoronto/papers/toronto-2014cise-floating-point.pdf)
 * [MIT GNU Scheme Windows 실행의 해답, DrRacket](http://blog.naver.com/hancury/220546813739)
 * [**Continuations**](https://beautifulracket.com/explainer/continuations.html)
+* [Racket 프로그래밍 - YouTube](https://www.youtube.com/playlist?list=PL8kmk2VivDmQ1bwcd9yNWRFN60KfKkrsS)
 
 # Scheme
 * [RE: What's so cool about Scheme?](http://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html)

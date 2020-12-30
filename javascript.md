@@ -3258,6 +3258,7 @@ Javascript
 * [The What, Why, and How of TypeScript for JavaScript Developers | by Juan Cruz Martinez | Better Programming | Dec, 2020 | Medium](https://medium.com/better-programming/the-what-why-and-how-of-typescript-for-javascript-developers-a2177675f6d2)
 * [타입스크립트와 함께 컴포넌트를 단계 별로 추상화해보자 | Evans Library](https://evan-moon.github.io/2020/11/28/making-your-components-extensible-with-typescript/)
 * [타입스크립트를 써야하는 이유 : 네이버블로그](https://blog.naver.com/pjt3591oo/222184954032)
+* [프런트엔드 - YouTube](https://www.youtube.com/playlist?list=PL8kmk2VivDmSkhWw-JxxjLqqtV50eF8tG)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
 * [foam: A personal knowledge management and sharing system for VSCode](https://github.com/foambubble/foam)
