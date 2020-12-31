@@ -523,6 +523,8 @@ Programming
 * [MVP와 MVC가 무엇이며, 그 차이는 무엇입니까? - StackOverflow](http://blog.canapio.com/92)
 * [JSP&Servlet MVC 아키텍처](http://bbigbros.tistory.com/entry/ServletJSP-MVC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [**M-V-Whatever 정리 - 1.MVC**](https://blog.naver.com/jukrang/221414570067)
+* [개발자 면접준비 #1. MVC패턴이란 : 네이버 블로그](https://blog.naver.com/jhc9639/220967034588)
+* [MVC 패턴에서 Service Model의 역할](https://abn-abn.tistory.com/190)
 * [MVP Library 소개](http://softwaree.tistory.com/10)
 * [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
 * [MVVM 아키텍처 패턴 | 프로그래머 이규원의 웹사이트](https://gyuwon.github.io/blog/2017/03/05/mvvm-architectural-pattern.html)
