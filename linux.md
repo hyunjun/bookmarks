@@ -270,6 +270,7 @@ Linux
 * [우분투 20.04에서 Grub 편집: grub-customizer 와 Grub theme 설정](https://kibua20.tistory.com/128)
 * [(리눅스 업스킬 도전 #15) 우분투 패키지 저장소 추가하기](https://jhrogue.blogspot.com/2020/10/15.html)
 * [(리눅스 업스킬 도전 #21-a) 우분투에서 한국어 로케일을 사용하려면 어떻게 해야 하나요?](https://jhrogue.blogspot.com/2020/10/21.html)
+* [Ubuntu의 apt-get 명령어 정리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/346)
 
 # Book
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)
