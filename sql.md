@@ -134,6 +134,7 @@ SQL
 * [A Snowflake deep dive](https://hhhypergrowth.com/a-snowflake-deep-dive/) 기술이야기는 아니고 snowflake 소개
 * [Database of Databases - Home](https://dbdb.io/)
 * [How to use Indexing for SQL Query Optimization | Towards Data Science](https://towardsdatascience.com/indexing-for-sql-query-optimization-139b57db9fc6)
+* [Using SQL to Estimate Customer Lifetime Value (LTV) without Machine Learning - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/using-sql-to-estimate-customer-lifetime-value-ltv-without-machine)
 * [Arctype | The fast and easy-to-use SQL client](https://arctype.com/)
 * [**dbcrossbar** - an open source tool that copies large, tabular datasets between many different databases and storage formats. Data can be copied from any source to any destination](https://www.dbcrossbar.org/)
 * [DBeaver](https://dbeaver.io/)
