@@ -1228,6 +1228,7 @@ Machine Learning
   * [from sklearn import \*](https://towardsdatascience.com/from-sklearn-import-478c711dafa1)
   * [Grid search for parameter tuning. Learn this easy and simple technique to… | by Magdalena Konkiewicz | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/grid-search-for-parameter-tunning-3c6ff94e7a25)
 * [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
+* [smalltrain](https://github.com/geek-guild/smalltrain)
 * [smile - Statistical Machine Intelligence & Learning Engine http://haifengl.github.io/smile ](https://github.com/haifengl/smile)
   * [Neural network classification of data using Smile](https://www.datasciencecentral.com/profiles/blogs/neural-network-classification-of-data-using-smile)
 * [Streamlit - the first app framework specifically for Machine Learning and Data Science teams](https://streamlit.io/)
