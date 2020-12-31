@@ -2889,6 +2889,7 @@ Javascript
   * [dynamic import로 줄여본 next.js 앱의 최초 로딩 시간 | blog.rhostem.com](https://blog.rhostem.com/posts/2020-05-10-nextjs-and-dynamic-import)
   * [Next.JS 10 Brings Automatic Image Optimization, Internationalized Routing, and Web Vitals Analytics](https://www.infoq.com/news/2020/11/nextjs-10-released/)
   * [Storybook에서 nextjs 에러가 발생할 때 - DEV](https://dev.to/dylanju/storybook-5f3c)
+  * [정직하게 배워보는 Next.js 시리즈를 시작합니다.](https://wonit.tistory.com/365)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Prism.js 적용하기](http://alpoxdev.com/posts/24)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
