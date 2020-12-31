@@ -366,6 +366,7 @@ Git
   * [깃(Git) 커밋 가이드](https://blog.tinkhub.com/git/git-commit-discipline.html)
   * [깃(Git) 커밋 가이드](https://tech.10000lab.xyz/git/git-commit-discipline.html)
   * [git commit accepts several message flags (-m) to allow multiline commits](https://www.stefanjudis.com/today-i-learned/git-commit-accepts-several-message-flags-m-to-allow-multiline-commits/)
+  * [git commit author 변경 (커밋 작성자 변경하기)](https://madplay.github.io/post/change-git-author-name)
 * `config`
   * basics
 
