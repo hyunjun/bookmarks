@@ -428,6 +428,9 @@ App
 ## Development Rest client
 * [insomnia - Debug APIs like a human, not a robot Finally, a REST client you'll love](https://insomnia.rest/)
 * postman
+  * [practice - test 예제](https://github.com/hyunjun/practice_private/blob/master/project-scala-restful-api-with-mysql-mvl-assignment/test.postman_collection.json)
+    * [Expect / Should - Chai](https://www.chaijs.com/api/bdd/) postman에 직접 관련된 건 아니지만 postman test 작성시 문법 참고
+  * [Test script examples | Postman Learning Center](https://learning.postman.com/docs/writing-scripts/script-references/test-examples/)
   * [All-Things-Postman/Examples](https://github.com/DannyDainton/All-Things-Postman/tree/master/Examples)
   * [Command line integration with Newman](https://learning.getpostman.com/docs/postman/collection_runs/command_line_integration_with_newman/)
   * [postman and postman2md](https://ash84.net/2015/10/03/postman-and-postman2md/)
@@ -442,6 +445,9 @@ App
   * [Postman 개요 / 설치 / 사용법 / 활용 방법](http://devkyeol.tistory.com/entry/Postman-%EA%B0%9C%EC%9A%94-%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9%EB%B2%95-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95)
   * [Continuous Testing of APIs. A strategy to ensure all of your APIs… | by Kaustav Das Modak | Better Practices | Medium](https://medium.com/better-practices/continuous-testing-of-apis-5294552d65ce)
   * [무료 REST API 테스트 프로그램: Postman (설치, 활용법)](https://kibua20.tistory.com/149)
+  * [Postman-Extract value from the JSON object array | by Knoldus Inc. | Medium](https://medium.com/@knoldus/postman-extract-value-from-the-json-object-array-af8a9a68cc01)
+  * [javascript - Parse JSON Array in Postman - Stack Overflow](https://stackoverflow.com/questions/58896047/parse-json-array-in-postman)
+  * [Postman Tutorial Part 35 – Extracting Value From JSON Array Response in Postman – JSON Array Parsing in Postman - Make Selenium Easy](http://makeseleniumeasy.com/2019/08/24/postman-tutorial-part-35-extracting-value-from-json-array-response-in-postman-json-array-parsing-in-postman/)
 * [postwoman.io](https://postwoman.io/)
 * RestLet_Client [REST API 테스트를 위한 유용한 툴(Chrome Extension : RestLet_Client)](https://www.linkedin.com/pulse/rest-api-%25ED%2585%258C%25EC%258A%25A4%25ED%258A%25B8%25EB%25A5%25BC-%25EC%259C%2584%25ED%2595%259C-%25EC%259C%25A0%25EC%259A%25A9%25ED%2595%259C-%25ED%2588%25B4chrome-extension-restletclient-jun-hee-shin/)
 * [wuzz - Interactive cli tool for HTTP inspection](https://github.com/asciimoo/wuzz)
