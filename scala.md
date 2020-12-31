@@ -612,6 +612,11 @@ Scala
   * [practice - `Future[T]` -> `Await.result`, `map`, `flatMap`, `Try`, `for ... yield ...`, `andThen`](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-await-scala)
   * [practice - multiple Future -> for, map, flatMap](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-multiple_future-scala)
     * [scala - Alternative to await.ready - Stack Overflow](https://stackoverflow.com/questions/41101633/alternative-to-await-ready) 결국은 `Future[T]` 반환
+  * [practice - Future.foldLeft를 이용해 Future\[Seq\[Object\]\] to Future\[Seq\[(Int, Boolean)\]\] to Future\[Seq\[Int\]\]](https://github.com/hyunjun/practice_private/blob/master/project-scala-restful-api-with-mysql-mvl-assignment/app/controllers/ScheduleController.scala#L40-L61)
+  * [Explanation on how to execute scala futures in serial one after the other](https://gist.github.com/dportabella/4e7569643ad693433ec6b86968f589b8)
+  * Future.sequence
+    * [How to flatten a List of Futures in Scala - Stack Overflow](https://stackoverflow.com/questions/26717249/how-to-flatten-a-list-of-futures-in-scala)
+    * [Merging sequence of Futures of Lists into one Future containing merged list](https://gist.github.com/akkomar/04945b5f0384717917f8)
   * [Are Scala Futures the past?. We all started with Scala Futures. They… | by Stéphane Derosiaux | Medium](https://medium.com/@sderosiaux/are-scala-futures-the-past-69bd62b9c001)
   * [A LITTLE GUIDE ON USING FUTURES FOR WEB DEVELOPERS](http://codemonkeyism.com/a-little-guide-on-using-futures-for-web-developers/)
   * [**Reactive 프로그래밍 - Hello world**](http://hamait.tistory.com/764)
@@ -663,7 +668,10 @@ Scala
   * [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
   * [Towards a better API for I/O](https://medium.com/permutive/towards-a-better-api-for-i-o-35d385060a5c)
 * isInstanceOf [Scala's isInstanceOf is an Anti-Pattern](https://alexn.org/blog/2019/08/11/isinstanceof-anti-pattern.html)
-* java.util.regex.Pattern
+* Regex
+  * [practice - "09:30"과 같은 hh:mm regex](https://github.com/hyunjun/practice_private/blob/master/project-scala-restful-api-with-mysql-mvl-assignment/app/utils/DateUtil.scala#L77-L85)
+  * [practice - "012-3456-7890"](https://github.com/hyunjun/practice_private/blob/master/project-scala-restful-api-with-mysql-mvl-assignment/app/utils/TelNumUtil.scala#L4-L5)
+  * [Scala regex and pattern matching example - phone numbers](https://gist.github.com/davidallsopp/6747395)
   * [Regexp Replacement via Function in Java/Scala](https://alexn.org/blog/2019/11/22/howto-regexp-replacement-via-function-java-scala.html)
 * List
   * `List.fill([length])([element])`
@@ -838,6 +846,7 @@ Scala
   * [Streaming all the way with ZIO, Doobie, Quill, http4s and fs2 - Juliano Alves](https://juliano-alves.com/2020/06/15/streaming-all-the-way-zio-doobie-quill-http4s-fs2/)
   * [Jakub Kozłowski—A Sky Full of Streams - YouTube](https://www.youtube.com/watch?v=oluPEFlXumw)
 * String
+  * padTo [scala - How to convert an Int to a String of a given length with leading zeros to align? - Stack Overflow](https://stackoverflow.com/questions/8131291/how-to-convert-an-int-to-a-string-of-a-given-length-with-leading-zeros-to-align)
   * [Reduce, fold or scan (Left/Right)?](http://stackoverflow.com/questions/17408880/reduce-fold-or-scan-left-right)
   * [**Compression; String <-> Array\[Byte\]**](https://gist.github.com/owainlewis/1e7d1e68a6818ee4d50e)
   * [String Interpolation In Scala](https://blog.knoldus.com/string-interpolation-in-scala-2/)
@@ -850,6 +859,10 @@ Scala
   * [practice - DateTimeFormatter ZoneId ZonedDateTime](https://gist.github.com/hyunjun/9a57cd5e2f574cbd837c882aad5b0391)
   * [practice - DateTimeFormatter joda](https://gist.github.com/hyunjun/9a57cd5e2f574cbd837c882aad5b0391#file-datetimeformatter_joda-md)
   * [practice - jodatime with ammonite](https://gist.github.com/hyunjun/9a57cd5e2f574cbd837c882aad5b0391#file-joda_amm-scala)
+  * [practice - jodatime 시간비교 DateTimeComparator or compareTo](https://gist.github.com/hyunjun/9a57cd5e2f574cbd837c882aad5b0391#file-joda_datetimecomparator_or_compareto-scala)
+    * [java - Comparing two dates using Joda time - Stack Overflow](https://stackoverflow.com/questions/13764106/comparing-two-dates-using-joda-time/21553438)
+    * [Using JodaTime to compare time without date - Stack Overflow](https://stackoverflow.com/questions/37033221/using-jodatime-to-compare-time-without-date)
+  * [practice - jodatime Interval.overlap 시간이 겹치는지 여부](https://github.com/hyunjun/practice_private/blob/master/project-scala-restful-api-with-mysql-mvl-assignment/app/utils/DateUtil.scala#L91-L107)
 * trait
   * [Everything You Ever Wanted to Know About Sealed Traits in Scala](http://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)
   * [practice - sealed trait - sealed class/companion object - final case class](https://gist.github.com/hyunjun/95db19477284625f359a5e250eabb471#file-sealed-md)
@@ -1365,6 +1378,7 @@ Scala
   * [practice - sealed trait - sealed class/companion object - final case class + json de/serialization](https://gist.github.com/hyunjun/95db19477284625f359a5e250eabb471#file-sealed-md)
   * [**Play Framework using Scala - YouTube**](https://www.youtube.com/playlist?list=PLLMXbkbDbVt8tBiGc1y69BZdG8at1D7ZF)
   * [Implementing Authentication on Play Framework](https://pedrorijo.com/blog/scala-play-auth/)
+  * [Play framework, Slick and MySQL Tutorial](https://pedrorijo.com/blog/play-slick/)
   * [Proxied Streaming Uploads with Scala/Play](https://bitwalker.org/posts/2014-07-10-scala-streaming-file-uploads/)
   * [Scala Play Framework - YouTube](https://www.youtube.com/playlist?list=PLBeQxJQNprbhb6kOJS477I_laHQTGgjg8)
   * [Full Stack Scala with the Play Framework and Scala.js by Greg Dorrell - YouTube](https://www.youtube.com/watch?v=NJVL2IsGXZ4)
@@ -1372,6 +1386,18 @@ Scala
   * [Restful Services with the Play Framework, MySQL, and a Security Level with JWT by Mercedes Wyss - YouTube](https://www.youtube.com/watch?v=N59_Ta88kW0)
   * [Play Framework Tutorials - YouTube](https://www.youtube.com/playlist?list=PLYPFxrXyK0Bx9SBkNhJr1e2-NlIq4E7ED)
   * [Reactive Architecture with Play, Akka, and Scala - Henrik Engstrom (Typesafe) - YouTube](https://www.youtube.com/watch?v=ksSgjQ_Ye9c)
+  * [Build and Secure APIs with Scala and the Play Framework](https://auth0.com/blog/build-and-secure-a-scala-play-framework-api/)
+  * [How to build REST API With Scala Play Framework](https://ixorasolution.com/blog/how-to-build-rest-api-with-scala-play-framework-1)
+  * [Building a Simple REST API with Scala & Play! (Part 1) - SPR](https://spr.com/building-a-simple-rest-api-with-scala-play-part-1/)
+  * [Scala, Play and MySQL Integration Template | AnyChart](https://www.anychart.com/technical-integrations/samples/scala-play-mysql-template/)
+  * [Building a REST API in Scala with Play Framework | Baeldung on Scala](https://www.baeldung.com/scala/play-rest-api)
+  * Play restful API with DB
+    * [Examples](https://www.silhouette.rocks/docs/examples)
+    * [inspiration-api: API built with Scala & Play Framework. Uses Postgres & Slick ☀️](https://github.com/dan-mcm/inspiration-api)
+      * [The Inspiration API: A project built with Scala & Play Framework - DEV Community](https://dev.to/dan_mcm_/the-inspiration-api-a-project-built-with-scala--play-framework-195d)
+    * [playframework/play-slick](https://github.com/playframework/play-slick/tree/master/samples)
+    * [play-rest-api-to-db: Wherein I take the PlayFramework Scala rest-api example and add a MySQL database](https://github.com/jeffhorton/play-rest-api-to-db)
+    * [scala-simple-rest-server: Simple REST server made with akka http and quill](https://github.com/nielspedersen/scala-simple-rest-server)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
@@ -1858,3 +1884,4 @@ Scala
 * [Scala with Friends - YouTube](https://www.youtube.com/playlist?list=PL1NS3pe5mmu31zNozgzhgEjhnfIfdKiwB)
 * [스칼라 기초 투어 - YouTube](https://www.youtube.com/playlist?list=PL8kmk2VivDmRueOZS4aKm0xUlYp0frQQS)
 * [함수형 프로그래밍으로 도전하는 코딩 테스트 시리즈 - YouTube](https://www.youtube.com/playlist?list=PL8kmk2VivDmQZvx2N0vmCFkjEQ_pvpdsA)
+* [scala-tutorials](https://github.com/Baeldung/scala-tutorials)
