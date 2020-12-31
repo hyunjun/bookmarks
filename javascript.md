@@ -249,7 +249,6 @@ Javascript
 * [자바스크립트 개발 가이드](https://github.com/nhnent/fe.javascript/wiki)
 * [자바스크립트를 이용한 CSV 파일 파싱](http://code.tutsplus.com/ko/tutorials/parsing-a-csv-file-with-javascript--cms-25626)
 * [자바 스크립트에서 csv unicode 관련 문제 해결 방안](http://dkdlel072.tistory.com/entry/%EC%9E%90%EB%B0%94-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%97%90%EC%84%9C-Csv-unicode%EA%B4%80%EB%A0%A8-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EC%95%88)
-* [It’s Not Wrong that "🤦".length == 7](https://hsivonen.fi/string-length/)
 * [HTML Table을 CSV로 다운로드하기](https://beomi.github.io/2017/11/29/HTML-Table-to-CSV/)
 * [JavaScript로 바이너리 쓰기](http://modernator.me/article/javascript/write-binary-file-from-js-and-read-from-c)
 * [자바스크립트 엔진의 최적화 기법 (1) - JITC, Adaptive Compilation](http://meetup.toast.com/posts/77)
@@ -526,7 +525,6 @@ Javascript
 * [melon2genie; 멜론 플레이리스트를 기반으로 지니 앨범을 생성하는 앱](https://github.com/iamchanii/melon2genie)
 * [Delivery Tracker - 배송 조회 API 서비스](https://tracker.delivery/guide/)
 * [The best front-end hacking cheatsheets — all in one place](https://medium.freecodecamp.org/modern-frontend-hacking-cheatsheets-df9c2566c72a)
-* [String Reversal in Javascript](https://hackernoon.com/string-reversal-in-javascript-22651e20578d)
 * [Let’s build a full stack MongoDB, React, Node and Express (MERN) app](https://medium.com/javascript-in-plain-english/full-stack-mongodb-react-node-js-express-js-in-one-simple-app-6cc8ed6de274)
 * [Getting Started with the MERN Stack](https://medium.com/@alphakoder/getting-started-with-the-mern-stack-4e73f34aaa28)
 * [Learn the MERN stack by building an exercise tracker — MERN Tutorial](https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1)
@@ -680,6 +678,10 @@ Javascript
   * [Let’s experiment with functional generators and the pipeline operator in JavaScript](https://medium.freecodecamp.org/lets-experiment-with-functional-generators-and-the-pipeline-operator-in-javascript-520364f97448)
   * [The State of Piping in JavaScript | by Christofer Eliasson | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/the-state-of-piping-in-javascript-ccbead18b971)
 * reduce [5 Use Cases for reduce() in JavaScript | by wathsala danthasinghe | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/5-use-cases-for-reduce-in-javascript-61ed243b8fef)
+* string
+  * [It’s Not Wrong that "🤦".length == 7](https://hsivonen.fi/string-length/)
+  * [String Reversal in Javascript](https://hackernoon.com/string-reversal-in-javascript-22651e20578d)
+  * [Javascript에서 String을 Number타입으로 바꾸기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/361)
 * undefined
   * [undefined 와 null 의 차이점은 무엇인가요?](https://developer88.tistory.com/272)
   * [JavaScript — Null vs. Undefined](https://codeburst.io/javascript-null-vs-undefined-20f955215a2)
