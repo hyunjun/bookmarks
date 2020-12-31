@@ -182,6 +182,7 @@ Vim
 * [Vim for Developers: Part 1 — The Basics | by David Ondrich | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/vim-for-developers-part-1-the-basics-663619ca122a)
 * [Vim for Developers: Part 2 — Advanced Basics | by David Ondrich | The Startup | Medium](https://medium.com/swlh/vim-for-developers-part-2-advanced-basics-857c0dbda905)
 * [Why (and How) I Use Vim. When I started programming I never… | by Mark Lavin | Level Up Coding](https://levelup.gitconnected.com/why-and-how-i-use-vim-da322260aa6c)
+* [Vim 단축키 정리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/540)
 
 # Book
 * [Use Vim Like A Pro](https://leanpub.com/VimLikeAPro/read_full)
