@@ -622,6 +622,7 @@ AWS
 * [AWS에서 수동으로 ssh 접속을 위한 Pem key 생성하기](https://jojoldu.tistory.com/540)
 * [서로 다른 EC2 인스턴스간에 연결하기 (feat. Ping)](https://jojoldu.tistory.com/430)
 * [EC2 (Amazon Linux 1) 에 Jenkins 설치하기](https://jojoldu.tistory.com/441)
+* [EC2 (Amazon Linux 2) 에 Jenkins 설치하기](https://jojoldu.tistory.com/544)
 * [아마존 EC2 인스턴스 타입 검색 기능 추가](https://www.44bits.io/ko/post/news-filtering-amazon-ec2-instance-types)
 * [EC2 CPU Usage 이상 동작 이슈 해결하기](https://brunch.co.kr/@alden/59)
 * [Amazon EC2 Networking Deep Dive and Best Practices | AWS re:Invent 2014](https://www.slideshare.net/AmazonWebServices/sdd419-amazon-ec2-networking-deep-dive-and-best-practices-aws-reinvent-2014)
