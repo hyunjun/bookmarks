@@ -676,6 +676,7 @@ Web
 * [Dango에서 간단한 REST API 만들기](http://bcho.tistory.com/845)
 * [GET, POST의 차이점](http://bbigbros.tistory.com/entry/HttpMethod-GET%EA%B3%BC-POST%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 * [Get과 Post를 아시나요?](https://www.youtube.com/watch?v=JxBsZdmAPfU)
+* [GET과 POST의 차이 :: Outsider's Dev Story](https://blog.outsider.ne.kr/312)
 * [**REST API: PUT VS POST**](https://1ambda.github.io/javascripts/rest-api-put-vs-post/)
 * [post vs put](https://multifrontgarden.tistory.com/245)
 * [Domain-Driven Design for RESTful Systems](https://yow.eventer.com/events/1004/talks/1047)
