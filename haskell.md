@@ -303,6 +303,7 @@ Haskell
 * [하스켈 polymorphism](https://gist.github.com/nattybear/16910b4aca976819a78c80ce2d4ba6ae)
 * [하스켈 타입 변수](https://gist.github.com/nattybear/dfa8cf35854e67038d1487ae36e3f036)
 * [하스켈 if](https://gist.github.com/nattybear/c6ad0618869bd7521d719f270436bff1)
+* [하스켈 Continuation Passing Style, CPS](https://gist.github.com/nattybear/387d22fc82c7339a29e0c93084fef10e)
 * do [The doomsday machine](https://tech.fretlink.com/the-doomsday-machine/)
 * exception
   * [THE THREE KINDS OF HASKELL EXCEPTIONS AND HOW TO USE THEM](https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html)
