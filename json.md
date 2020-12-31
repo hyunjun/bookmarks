@@ -54,6 +54,7 @@ Json
 * [kson - A Java serialization/deserialization library to convert Java Objects into json and back, faster and powerful then Gson](https://github.com/realtimetech-solution/kson)
 
 # JavaScript
+* [JSON Text를 JSON Object로 변환하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/257)
 * [파서 만들기 (1) - JSON.stringify - 완두블로그](https://wani.kr/posts/2020/02/11/make-parser-1/)
 * [파서 만들기 (2) - JSON.parse - 완두블로그](https://wani.kr/posts/2020/02/22/make-parser-2/)
 * [nearley.js - JS Parsing Toolkit](https://nearley.js.org/)
