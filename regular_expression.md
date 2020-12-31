@@ -54,6 +54,7 @@ Regular Expression
 * [**불규칙 속에서 규칙을 찾아내는 정규표현식 | Evan's Tech Blog**](https://evan-moon.github.io/2020/07/24/about-regular-expression/)
 * [정규식은 어떻게 사용되는 것일까? | Evan's Tech Blog](https://evan-moon.github.io/2020/08/15/regex-example/)
 * [TIL 정규표현식에 관하여 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/about-regex/)
+* [알고 있어야 할 8가지 정규식 표현 from nettuts+ :: Outsider's Dev Story](https://blog.outsider.ne.kr/360)
 
 # C++
 * [정규 표현식](http://jiniya.net/ng/2017/11/regex/)
