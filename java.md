@@ -1100,6 +1100,7 @@ Java
 * [Spring Project 스프링 프로젝트 시작하기 - Spring Boot JPA](https://woolbro.tistory.com/41)
 * [Spring MVC 예제 - 직원 관리 프로그램](https://woolbro.tistory.com/42)
 * [Spring MVC 예제 - @RequestMapping 어노테이션 예제](https://woolbro.tistory.com/43)
+* [Spring Service Layer에 대한 고찰](https://velog.io/@sumusb/Spring-Service-Layer%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0) MVC
 * [Spring Cloud Series - Microservices Sidecar pattern implementation using Postgres, Spring Cloud Netflix and Docker](http://tech.asimio.net/2018/02/20/Microservices-Sidecar-pattern-implementation-using-Postgres-Spring-Cloud-Netflix-and-Docker.html)
 * [스프링 리액터 Reactor 기초 글 목록](https://javacan.tistory.com/entry/spring-reactor-intro-list)
   * [1 - 리액티브 스트림 Flux Mono Subscriber](http://javacan.tistory.com/entry/Reactor-Start-1-RS-Flux-Mono-Subscriber)
