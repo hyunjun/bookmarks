@@ -272,6 +272,7 @@ SQL
     * [13.2.5.2 INSERT ... ON DUPLICATE KEY UPDATE Syntax](https://dev.mysql.com/doc/refman/5.5/en/insert-on-duplicate.html)
     * [Mysql 의 Insert .. On Duplicate Key Update 유의사항](http://knight76.tistory.com/entry/Mysql-%EC%9D%98-Insert-On-Duplicate-Key-Update-%EC%9C%A0%EC%9D%98%EC%82%AC%ED%95%AD)
     * [Insert multiple records into MySQL with a single query](http://www.electrictoolbox.com/mysql-insert-multiple-records/)
+    * [여러 행 SELECT해서 INSERT 하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/263)
     * [sql 독학 강의 # mysql insert 사용 방법 17편 -sTricky](https://stricky.tistory.com/268)
     * [MySQL 양방향 암호화 복호화 insert 및 select 예제](https://stricky.tistory.com/330)
   * [LOAD, mysqlimport](https://hyunjun.github.io/mysqlimport/)
