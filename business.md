@@ -278,6 +278,7 @@ Business
 * [B2B SaaS 가격책정 하는 법 | GeekNews](https://news.hada.io/topic?id=3091)
 * [스피드로 성공한 회사보다, 손익분기 맞춰 성공한 회사가 오래 간다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/181275)
 * [How to operate](https://www.notion.so/How-to-operate-b7a3f2591bd043dd81ef0861f47035d7)
+* [스킬맵 : 나는 팀에 어떤 도움이 될 수 있을까 ?](https://brunch.co.kr/@pletalk/24)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
