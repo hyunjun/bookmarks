@@ -720,6 +720,7 @@ Git
   * [CI/CD with Angular 6 & Firebase & GitLab - Automate build, test and deployment using GitLab CI/CD](https://hackernoon.com/ci-cd-with-angular-6-firebase-gitlab-5118ad469e4d)
   * [GitLab Runner + Windows + Spring 연동](https://www.popit.kr/gitlab-runner-windows-spring-%EC%97%B0%EB%8F%99)
   * [“실수에 관대한 문화가 데브옵스의 키포인트”…데브옵스 플랫폼 깃랩](https://www.imaso.co.kr/archives/5638)
+* gitlocalize.com [오픈소스를 번역할 때 유용한 Git Localize 사용법 - 사진찍는 웹 개발자](https://donghoon-song.github.io/posts/2021-01-02---%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EB%B2%88%EC%97%AD%ED%95%A0-%EB%95%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-Git-Localize-%EC%82%AC%EC%9A%A9%EB%B2%95/)
 * [git-meld-index - Run meld or any git difftool to interactively stage changes](https://github.com/jjlee/git-meld-index)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
 * [Git-mirror-sync - a GitHub service that allows users to easily backup there GitHub repositories to private BitBucket mirrors](http://obihann.github.io/git-mirror-sync/)
