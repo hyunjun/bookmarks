@@ -314,6 +314,7 @@ Haskell
   * [하스켈 Maybe 모노이드](https://gist.github.com/nattybear/66bc89ea5ccf5258fbb77db52a54a7db)
   * [하스켈 Maybe 트랜스포머](https://gist.github.com/nattybear/2ca95a74c8703516542bb5557d672238)
 * String [Eat Haskell String Types for Breakfast](https://free.cofree.io/2020/05/06/string-types/)
+* where [하스켈 where와 guard](https://gist.github.com/nattybear/630186d4a332a8da3eab9a55641045e0)
 
 # Book
 * [gumroad.com/discover?query=haskell](https://gumroad.com/discover?query=haskell)
