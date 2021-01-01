@@ -878,6 +878,7 @@ TensorFlow
   * [TensorFlow.js로 브라우저에서 텐서플로우를 사용하는 방법 - ITWorld Korea](http://www.itworld.co.kr/news/163470)
   * [Build a Voice Assistant using Javascript w/Tensorflow For Beginner](https://morioh.com/p/4f6af1be476e)
   * [Realtime Object Detection with MobileNet - ML with Tensorflow.js](https://morioh.com/p/38cef719dc0d?f=5c21fb01c16e2556b555ab32)
+  * [자바스크립트로 만드는 인공지능 - TensorFlow.js - YouTube](https://www.youtube.com/watch?v=5q2E3JMXTKU)
   * [face-api.js](https://github.com/justadudewhohacks/face-api.js)
     * [face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07)
   * [Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code](https://hackernoon.com/handtrackjs-677c29c1d585)
