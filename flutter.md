@@ -86,6 +86,7 @@ Flutter
 * [리얼 Flutter #5 App 만들기 – BLOC - Kowana's coding](https://www.kowanas.com/coding/2020/12/26/bloc-2/)
 * [리얼 Flutter #6 App 만들기 – Data Repository - Kowana's coding](https://www.kowanas.com/coding/2020/12/28/repository/)
 * [리얼 Flutter #7 App 만들기 – UI 구현하기 with BLOC - Kowana's coding](https://www.kowanas.com/coding/2020/12/29/ui-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/)
+* [리얼 Flutter #8 App 만들기 – UI 1차 완성 with Route 인자 - Kowana's coding](https://www.kowanas.com/coding/2021/01/01/route-%EC%9D%B8%EC%9E%90/)
 
 # Dart
 * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
