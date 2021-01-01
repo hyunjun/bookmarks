@@ -1358,7 +1358,6 @@ Scala
   * [The Ultimate Guide to Getting Started with the Play Framework](http://www.ybrikman.com/writing/2014/03/10/the-ultimate-guide-to-getting-started/)
   * [Play 2.4 - A sneak peek](http://typesafe.com/blog/play-24---a-sneak-peek)
   * [How to Play at Work - A Play Framework Tutorial](http://assist-software.net/blog/how-play-work-play-framework-tutorial)
-  * [Anorm 2.4 review](http://cchantep-en.tumblr.com/post/120119166753/anorm-2-4-review)
   * [ReactJS Tutorial with Play, Scala and WebJars](http://ticofab.io/react-js-tutorial-with-play_scala_webjars/)
   * [Play Framework: async I/O without the thread pool and callback hell](http://engineering.linkedin.com/play/play-framework-async-io-without-thread-pool-and-callback-hell)
   * [hamait.tistory.com/category/PlayFramework2](http://hamait.tistory.com/category/PlayFramework2)
@@ -1403,6 +1402,8 @@ Scala
     * [playframework/play-slick](https://github.com/playframework/play-slick/tree/master/samples)
     * [play-rest-api-to-db: Wherein I take the PlayFramework Scala rest-api example and add a MySQL database](https://github.com/jeffhorton/play-rest-api-to-db)
     * [scala-simple-rest-server: Simple REST server made with akka http and quill](https://github.com/nielspedersen/scala-simple-rest-server)
+  * [Anorm, simple SQL data access | Anorm](http://playframework.github.io/anorm/)
+    * [Anorm 2.4 review](http://cchantep-en.tumblr.com/post/120119166753/anorm-2-4-review)
 * Scalatra
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [Simple HTTP Server With Scalatra In 20 Lines Of Code](https://medium.com/@ievstrygul/simple-http-server-with-scalatra-in-20-lines-of-code-efa77b3d270f)
