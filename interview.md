@@ -521,6 +521,7 @@ Interview
 * [DAILY CODING PROBLEM ENG](https://www.youtube.com/playlist?list=PL9Db853UP18G_MdeGjgOmYpN9ExdrvHeq)
 * [10 free coding practice sites to step up your game (and even get hired)](https://www.beseen.com/blog/talent/free-coding-practice-sites)
 * [**10 Techniques to Master Coding Interview Questions**](https://levelup.gitconnected.com/10-techniques-to-master-coding-interview-questions-b3216d3d3920)
+* [TMItalk 하루만 삽질하면 충분한 온라인 코딩테스트 서버 구축 - YouTube](https://www.youtube.com/watch?v=fqMYI04QHBM)
 * [algoexpert.io](https://www.algoexpert.io)
   * [Clément Mihailescu - YouTube](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g) AlgoExpert 창업자
 * [algospot](https://www.algospot.com)
