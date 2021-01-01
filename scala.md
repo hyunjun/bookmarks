@@ -1383,6 +1383,7 @@ Scala
   * [**Play Framework using Scala - YouTube**](https://www.youtube.com/playlist?list=PLLMXbkbDbVt8tBiGc1y69BZdG8at1D7ZF)
   * [Implementing Authentication on Play Framework](https://pedrorijo.com/blog/scala-play-auth/)
   * [Play framework, Slick and MySQL Tutorial](https://pedrorijo.com/blog/play-slick/)
+  * [Play 2.1에 Slick 연동하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/950)
   * [Proxied Streaming Uploads with Scala/Play](https://bitwalker.org/posts/2014-07-10-scala-streaming-file-uploads/)
   * [Scala Play Framework - YouTube](https://www.youtube.com/playlist?list=PLBeQxJQNprbhb6kOJS477I_laHQTGgjg8)
   * [Full Stack Scala with the Play Framework and Scala.js by Greg Dorrell - YouTube](https://www.youtube.com/watch?v=NJVL2IsGXZ4)
