@@ -344,6 +344,7 @@ Git
   * [Git 저장소 복제 (부제: 쌍둥이 저장소 만들기)](https://velog.io/@king/Git-%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%B3%B5%EC%A0%9C-%EB%B6%80%EC%A0%9C-%EC%8C%8D%EB%91%A5%EC%9D%B4-%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%A7%8C%EB%93%A4%EA%B8%B0-p6k5c7jkah)
   * [What's the best practice to “git clone” into an existing folder?](https://stackoverflow.com/questions/5377960/whats-the-best-practice-to-git-clone-into-an-existing-folder/36084134?stw=2#36084134)
   * [5분 따라하기 기존 폴더를 git으로 관리하는 최선의 방법](https://jhrogue.blogspot.com/2020/05/5-git.html)
+  * [Get up to speed with partial clone and shallow clone - The GitHub Blog](https://github.blog/2020-12-21-get-up-to-speed-with-partial-clone-and-shallow-clone/)
 * `commit`
   * [did you know you can appear to commit as anyone?](https://github.com/amoffat/masquerade)
   * [Blinking Commits](http://blog.annharter.com/2015/08/12/blinking-commits.html)
@@ -473,6 +474,8 @@ Git
     * [Visualizing branch topology in git](https://stackoverflow.com/questions/1838873/visualizing-branch-topology-in-git/34467298#34467298)
   * `git log -g --grep=STRING`
     * [How to search for a commit message in github?](http://stackoverflow.com/questions/18122628/how-to-search-for-a-commit-message-in-github)
+  * `git -L :<funcname>:<file>`
+    * [objective c - Git - how do I view the change history of a method/function? - Stack Overflow](https://stackoverflow.com/questions/4781405/git-how-do-i-view-the-change-history-of-a-method-function)
   * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
     * [**Git 커밋 메시지 작성법**](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
   * [A useful template for commit messages](http://codeinthehole.com/writing/a-useful-template-for-commit-messages/)
