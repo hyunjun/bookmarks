@@ -194,6 +194,7 @@ Clojure
 * [How Zalando's Using Clojure+Spark (Slides)](https://tech.zalando.com/blog/how-zalandos-using-clojurespark-slides/)
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
 * [Getting started with Clojure, Neovim and Conjure in minutes](https://oli.me.uk/getting-started-with-clojure-neovim-and-conjure-in-minutes/)
+* [dave yarwood · Conjuring Clojure in Vim: 2020 Edition](https://blog.djy.io/conjuring-clojure-in-vim-2020-edition/)
 * [Quick Recipe for #Kafka Streams in #Clojure](https://dataissexy.wordpress.com/2016/12/06/quick-recipe-for-kafka-streams-in-clojure/)
 * [Externs Inference](https://gist.github.com/swannodette/4fc9ccc13f62c66456daf19c47692799)
 * [Clojure에서의 다형성(Polymorphism) 지원](https://groups.google.com/forum/#!topic/clojure-kr/rwhCBbEW6DI)
