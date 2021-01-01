@@ -200,7 +200,6 @@ Clojure
 * [Clojure에서의 다형성(Polymorphism) 지원](https://groups.google.com/forum/#!topic/clojure-kr/rwhCBbEW6DI)
 * [Why Clojure is better than C, Python,Ruby and java and why should you care](http://telegra.ph/Why-Clojure-is-better-than-C-PythonRuby-and-java-and-why-should-you-care-12-20)
 * [함수를 다른 함수의 인자로 넘겨보자](http://clojure.kr/parameter_function)
-* [Clojure and Atom Editor Setup](https://lemmings.io/clojure-and-atom-editor-setup-40f8f09237b4) clojure atom virtualbox
 * [리스트 비교하기 — 클로져](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%ED%81%B4%EB%A1%9C%EC%A0%B8-b721fa33f48a)
 * [What do veteran Lisp programmers think of Clojure?](https://www.quora.com/What-do-veteran-Lisp-programmers-think-of-Clojure)
 * [lazy-seq 여부 판별하기](https://groups.google.com/forum/#!topic/clojure-kr/CPRZ8zkwN0I)
@@ -551,7 +550,10 @@ Clojure
     * [1. 프로젝트 만들기](http://clojure.kr/arachne-tutorials-creating-a-project)
     * [2. HTTP 요청 처리하기](http://clojure.kr/arachne-tutorials-handling-http-requests)
     * [3. 컴포넌트와 의존성 주입](http://clojure.kr/arachne-tutorials-dependency-injection)
-* [atomo - Clojure's Atom implementation in JavaScript](https://github.com/dialelo/atomo)
+* Atom
+  * [Clojure and Atom Editor Setup](https://lemmings.io/clojure-and-atom-editor-setup-40f8f09237b4) clojure atom virtualbox
+  * [Atom for Clojure - YouTube](https://www.youtube.com/playlist?list=PLYSnXTnpiJ5m2KirGxz3CUpNHJKa5FGZS)
+  * [atomo - Clojure's Atom implementation in JavaScript](https://github.com/dialelo/atomo)
 * [Avout - distributed state in clojure](http://avout.io/)
 * [babashka - A sprinkle of Clojure for the command line](https://github.com/borkdude/babashka)
 
