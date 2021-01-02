@@ -843,6 +843,14 @@ AWS
   * [Deploy AWS CloudFormation stacks with GitHub Actions | AWS Open Source Blog](https://aws.amazon.com/ko/blogs/opensource/deploy-aws-cloudformation-stacks-with-github-actions/)
   * [CloudFormation을 이용해서 IaC 입문해보기 | Developers.IO](https://dev.classmethod.jp/articles/introduction-of-iac-using-cloudformation/)
 * [cortex - Deploy machine learning models in production https://cortex.dev ](https://github.com/cortexlabs/cortex/tree/v0.9.0)
+  * "Run inference at scale"
+    * TensorFlow, PyTorch, Sklearn 을 비롯한 여러 모델 지원
+    * AWS/GCP/Azure 등에 대규모 배포 및 Request 기반 자동 스케일링
+    * CI/CD 시스템과 연계
+    * 성능 메트릭 & 로그를 모니터링 도구들로 스트리밍
+    * 멀티모델 캐슁으로 다수 모델을 효율적으로 서빙
+    * 다운타임 없는 롤링 업데이트 지원
+    * A/B 테스팅을 위한 트래픽 분할
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
 * [kops-cui - a CUI that helps you install Kubernetes Cluster easily with KOPS](https://github.com/nalbam/kops-cui)
 * [LocalStack - A fully functional local AWS cloud stack](https://github.com/localstack/localstack)
