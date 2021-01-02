@@ -1373,3 +1373,4 @@ Machine Learning
 * [Getting machine learning to production · Vicki Boykis](http://veekaybee.github.io/2020/06/09/ml-in-prod/)
 * [Markus Loning - Introduction to Machine Learning with Time Series | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=Wf2naBHRo8Q)
 * [**Machine Learning Algorithms For Beginners with Code Examples in Python**](https://medium.com/towards-artificial-intelligence/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)
+* [Machine Learning by Analogy](https://www2.slideshare.net/ColleenFarrelly/machine-learning-by-analogy-59094152)
