@@ -1098,6 +1098,7 @@ Java
 * [10. Spring IoC Container에 관리되는 Bean 목록 확인하기](https://kim-jong-hyun.tistory.com/21)
 * [12. Spring - jxls로 간편하게 엑셀다운로드 구현하기](https://kim-jong-hyun.tistory.com/24)
 * [13. Spring - jxls로 간편하게 엑셀업로드 구현하기](https://kim-jong-hyun.tistory.com/25)
+* [14. Spring - MessageSource로 메세지 및 다국어 관리하기](https://kim-jong-hyun.tistory.com/26)
 * [Spring Project 스프링 프로젝트 시작하기 - Spring Boot JPA](https://woolbro.tistory.com/41)
 * [Spring MVC 예제 - 직원 관리 프로그램](https://woolbro.tistory.com/42)
 * [Spring MVC 예제 - @RequestMapping 어노테이션 예제](https://woolbro.tistory.com/43)
