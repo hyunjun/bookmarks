@@ -279,6 +279,8 @@ Business
 * [스피드로 성공한 회사보다, 손익분기 맞춰 성공한 회사가 오래 간다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/181275)
 * [How to operate](https://www.notion.so/How-to-operate-b7a3f2591bd043dd81ef0861f47035d7)
 * [스킬맵 : 나는 팀에 어떤 도움이 될 수 있을까 ?](https://brunch.co.kr/@pletalk/24)
+* [Do You Think Like a Lawyer, a Scientist, or an Engineer?](https://www.infoq.com/articles/think-lawyer-scientist-engineer/) OODA Observe, Orient, Decide, Act
+* [카페베네는 스타벅스를 이긴 적이 없었다 : 쇼핑·소비자 : 경제 : 뉴스 : 한겨레](http://www.hani.co.kr/arti/economy/consumer/976129.html)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -422,6 +424,7 @@ Business
 * [리더는 어떠해야 한다](https://brunch.co.kr/@hyungsukkim/85)
 * [허락된 실패](http://www.thestartupbible.com/2018/04/the-permission-to-fail.html)
 * [솜씨 좋은 감독에게서 배우는 ‘일 잘하는 조직 만드는 법’](http://platum.kr/archives/100265)
+* [스스로 효과적이라고 생각한 일하는 방식 몇 가지](https://brunch.co.kr/@windydog/416)
 * [리더는 회의록을 직접 써야 한다](https://brunch.co.kr/@derekderek/6)
 * [뛰어난 리더는 회의를 하지 않는다](https://brunch.co.kr/@andrewlee/95)
 * [“컨센서스를 이루지 말고 의사 결정을 내려라”(1)](http://bridge.500startups.co.kr/%EC%BB%A8%EC%84%BC%EC%84%9C%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EB%A3%A8%EC%A7%80-%EB%A7%90%EA%B3%A0-%EC%9D%98%EC%82%AC-%EA%B2%B0%EC%A0%95%EC%9D%84-%EB%82%B4%EB%A0%A4%EB%9D%BC1)
