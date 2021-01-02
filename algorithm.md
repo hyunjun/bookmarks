@@ -142,6 +142,7 @@ Algorithm
 * [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/static/pythonds/index.html)
 * [P-NP, NP Hard, NP Complete](http://inverse90.tistory.com/m/entry/PNP-NP-Hard-NP-Complete)
 * [P-NP 에 대하여](https://jusths.tistory.com/122)
+* [난제 PNP 문제 - YouTube](https://www.youtube.com/watch?v=nxbufH4JnpA)
 * [Number Theory: Nice Generalization of the Waring Conjecture](https://www.datasciencecentral.com/profiles/blogs/number-theory-nice-generalization-of-the-waring-conjecture)
 * [Algorithms I : Searching and Sorting algorithms](https://codeburst.io/algorithms-i-searching-and-sorting-algorithms-56497dbaef20)
 * [Can anyone at Google or Amazon share what algorithms you find most useful over the years of your career?](https://www.quora.com/Can-anyone-at-Google-or-Amazon-share-what-algorithms-you-find-most-useful-over-the-years-of-your-career/answer/Eugene-Yarovoi)
