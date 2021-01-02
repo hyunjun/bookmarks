@@ -985,7 +985,6 @@ Scala
   * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
   * [Revisit Dependency Injection in Scala](https://medium.com/@takezoe/revisit-dependency-injection-in-scala-78276c691bba)
 * [Ammonite enables shell-like scripting in the Scala programming language](http://www.lihaoyi.com/Ammonite/)
-  * [practice - hedgehog](https://gist.github.com/hyunjun/c47c7e1956c2bea685b337458fa51883#file-hedgehog-scala)
   * [practice - randomObj](https://gist.github.com/hyunjun/c47c7e1956c2bea685b337458fa51883#file-randomobj-scala)
   * [Getting started with #Ammonite - A Modernized #Scala REPL](https://www.youtube.com/watch?v=Pu2ctl4rzJg)
   * [Squeezing extra productivity out of Ammonite Scala REPL](https://blog.softwaremill.com/squeezing-extra-productivity-out-of-ammonite-scala-repl-b4e4001cca07)
@@ -1649,6 +1648,7 @@ Scala
 * [AirSpec - a new functional testing framework for Scala and Scala.js](https://github.com/wvlet/airframe/tree/master/airspec)
   * [AirSpec: Writing Tests As Plain Functions In Scala](https://medium.com/airframe/airspec-bbc8d4369157)
 * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
+  * [practice - hedgehog](https://gist.github.com/hyunjun/c47c7e1956c2bea685b337458fa51883#file-hedgehog-scala)
   * [hedgehog.qa](https://hedgehog.qa/)
   * [자바11 출시 / 마법은 노노 / 프로퍼티 기반 테스팅 (2018-09-28)](https://www.youtube.com/watch?v=l0wIQRslnh0)
   * [프로퍼티 기반 테스팅 - 지난번엔 제대로 한게 아니다? (2018-10-05)](https://www.youtube.com/watch?v=jVaTsED60qo)
@@ -1657,6 +1657,7 @@ Scala
   * [hedgehog 바뀐점 (2018-11-02)](https://www.youtube.com/watch?v=oLIkglMbhI8&t=5417s)
   * [라이브 코딩 (2018-11-09)](https://www.youtube.com/watch?v=QGPMP6YI48Q) 51분~
   * [자바 얘기 하다가 라이브 코딩 (2018-11-16)](https://www.youtube.com/watch?v=PukoEtEovDA) 47분~
+  * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=a54sgBVzgYM)
   * [Scala meetup — the movie](https://medium.com/tradeshift-engineering/scala-meetup-the-movie-5f9bee41f48f)
   * [YOW! Lambda Jam 2017 Jacob Stanley - Gens N’ Roses: Appetite for Reduction](https://www.youtube.com/watch?v=AIv_9T0xKEo)
   * [State-based Testing (Hedgehog) - Charles O'Farrell (2019-09-23)](https://www.youtube.com/watch?v=YhAxC_VI2dc)
