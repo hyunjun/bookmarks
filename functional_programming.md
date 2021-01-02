@@ -273,6 +273,12 @@ Functional Programming
   * [Ramda.js 기본적인 부분](https://github.com/haegul/DPM-FP-Study/blob/master/3%EC%A3%BC%EC%B0%A8/laplace.md)
   * [ramda-cli - A command-line tool for processing data with functional pipelines](https://github.com/raine/ramda-cli)
 * [Lenses - Composable Getters and Setters for Functional Programming](https://medium.com/javascript-scene/lenses-b85976cb0534)
+* [Lodash - A modern JavaScript utility library delivering modularity, performance & extras](https://lodash.com)
+  * [JavaScript SDK 성능개선 방법 – 압축과 최적화로 실행시간 단축하기](https://engineering.linecorp.com/ko/blog/improve-javascript-sdk-performance/)
+  * [More Lodash Features that are Available in Plain JavaScript](https://medium.com/javascript-in-plain-english/more-lodash-features-that-are-available-in-plain-javascript-894c060fc26e)
+  * [Lodash의 대체재로서의 순수 자바스크립트 함수](https://ui.toast.com/weekly-pick/ko_20190515/)
+  * [Are We Ready to Replace Lodash?. A look at JavaScript and RxJS functions… | by Yanique Andre | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/are-we-ready-to-replace-lodash-60cd651f6c58)
+  * [Applying Git and Optimistic Concurrency Control principles to Data Oriented Programming](https://blog.klipse.tech/databook/2020/12/18/occ-do-git.html)
   
 # [Kind](https://en.wikipedia.org/wiki/Kind_%28type_theory%29)
 
