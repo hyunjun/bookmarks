@@ -71,7 +71,6 @@ Haskell
 * [State of the Haskell ecosystem - August 2015](https://github.com/Gabriel439/post-rfc/blob/master/sotu.md)
 * [State of the Haskell ecosystem - August 2015](http://www.haskellforall.com/2015/08/state-of-haskell-ecosystem-august-2015.html)
 * [Building a probabilistic programming interpreter](http://zinkov.com/posts/2015-08-25-building-a-probabilisitic-interpreter/)
-* [Effectful Haskell: IO, Monads, Functors](http://slpopejoy.github.io/posts/Effectful01.html)
 * [Programming with distributed functional futures](http://www.macs.hw.ac.uk/~rs46/posts/2015-09-07-distributed-functional-futures.html)
 * [Practical Recursion Schemes](https://medium.com/@jaredtobin/practical-recursion-schemes-c10648ec1c29)
 * [Emulating higher order modules in Haskell](http://dnaq.github.io/2015/09/14/emulating-higher-order-modules-in-haskell/)
@@ -86,9 +85,6 @@ Haskell
 * [Persistent data structures](http://www.toves.org/books/persist/)
 * [Implementing a minimal version of haskell-servant](http://www.well-typed.com/blog/2015/11/implementing-a-minimal-version-of-haskell-servant/)
 * [A lot of websockets in Haskell](https://blog.wearewizards.io/a-lot-of-websockets-in-haskell)
-* [Functors and monads for analyzing data](https://izbicki.me/blog/functors-and-monads-for-analyzing-data.html)
-* [Initial Algebra as Directed Colimit](https://bartoszmilewski.com/2020/04/09/initial-algebra-as-directed-colimit/) functor
-* [Functortown: A Map of the Territory](https://typeclasses.com/functortown)
 * [Haskell in ES6: Part 1](http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/12/haskell-in-es6-part-1.html)
 * [How I deploy Haskell Code](http://www.alfredodinapoli.com/posts/2015-11-03-how-i-deploy-haskell-code.html)
 * [Interactive contraint solving in Haskell](http://www.mattkeeter.com/projects/constraints/)
@@ -309,6 +305,12 @@ Haskell
   * [THE THREE KINDS OF HASKELL EXCEPTIONS AND HOW TO USE THEM](https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html)
 * filter [하스켈 filter 만들어보기](https://gist.github.com/nattybear/9746555fe0db4bf7d3440e0e5b6561f0)
 * foldMap foldable [하스켈 Foldable](https://gist.github.com/nattybear/8d8341b8b8d4116da625a9a60d03a433)
+* Functor
+  * [Effectful Haskell: IO, Monads, Functors](http://slpopejoy.github.io/posts/Effectful01.html)
+  * [Functors and monads for analyzing data](https://izbicki.me/blog/functors-and-monads-for-analyzing-data.html)
+  * [Initial Algebra as Directed Colimit](https://bartoszmilewski.com/2020/04/09/initial-algebra-as-directed-colimit/)
+  * [Functortown: A Map of the Territory](https://typeclasses.com/functortown)
+  * [하스켈 Functor](https://gist.github.com/nattybear/04c0ec8e82e45ebbf140a744510ef519)
 * IO [The power of IO in Haskell | 47 Degrees](https://www.47deg.com/blog/io-haskell/)
 * Maybe
   * [하스켈 Maybe 모노이드](https://gist.github.com/nattybear/66bc89ea5ccf5258fbb77db52a54a7db)
