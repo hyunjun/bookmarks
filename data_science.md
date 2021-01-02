@@ -68,6 +68,7 @@ Data Science
   * Kafka, Presto, Airflow, Spark 사용
 * [Data engineers vs. data scientists](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
 * [실무 AI 프로젝트 - 분석보다 엔지니어링이 중요한 이유](https://data-engineer-song.tistory.com/1)
+* [온프레미스 데이터 플랫폼 팀의 데이터 엔지니어가 하는 일(feat. 11번가 데이터 플랫폼 2020년 회고) :: Kaden Sungbin Cho](https://kadensungbincho.tistory.com/2)
 * [There’s No Such Thing as a Data Scientist](https://medium.com/indeed-data-science/theres-no-such-thing-as-a-data-scientist-8dae923c14e3)
 * [데이터 사이언티스트가 되기 위해 필요한 기술,이 문장만 보면 다 알 수 있다](https://www.finereport.com/kr/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%B4-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B8%B0%EC%88%A0/)
 * [새로운 데이터 분석가와의 랑데부를 위하여(2)](https://cojette.github.io/rendezvous2/) SQL 중요성 강조
@@ -319,6 +320,8 @@ Data Science
 * [입력 데이터를 정규화 하는 이유 : 네이버 블로그](https://blog.naver.com/jk96491/222103858904)
 * [**Quantified Self Part 6 - 생산적인 하루에 대한 정량적인 표현과 4년간의 데이터 이야기 - HumanBrain**](https://dongjunlee.github.io/quantified%20self/QS_Part_6_Analysis_My_Life/)
 * [Almost Everything You Need To Know on Data Discovery Platforms](https://eugeneyan.com/writing/data-discovery-platforms/)
+* [**Back To The Future: Data Engineering Trends 2020 & Beyond - Data Engineering Weekly**](https://www.dataengineeringweekly.com/p/back-to-the-future-data-engineering) Data Infrastructure, Data Architecture, Data Management를 주제로 여러가지 좋은 글 link 모음
+* [What Is Data Engineering and Is It Right for You? – Real Python](https://realpython.com/python-data-engineer/) realpython post지만 python이 아니라 general한 글
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
