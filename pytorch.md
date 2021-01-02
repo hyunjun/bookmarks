@@ -178,6 +178,7 @@ PyTorch
   * [model_compression: PyTorch Model Compression](https://github.com/j-marple-dev/model_compression)
 * [파이토치 모델 결과 재구성하기 (Pytorch Reproduction Experiement) - TooTouch](https://tootouch.github.io/setting/reproduction_pytorch/)
 * [**하나의 조직에서 TensorFlow와 PyTorch 동시 활용하기 – 핑퐁팀 블로그**](https://blog.pingpong.us/torch-to-tf-tf-to-torch/)
+* [Machine Learning with C++ - Mask R-CNN with PyTorch C++ Frontend - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/machine-learning-with-c-mask-r-cnn-with-pytorch-c-frontend)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
