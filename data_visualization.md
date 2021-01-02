@@ -185,6 +185,7 @@ Data Visualization
 * [chart.xkcd - xkcd styled chart lib https://timqian.com/chart.xkcd ](https://github.com/timqian/chart.xkcd)
 * [deck.gl - a WebGL-powered framework for visual exploratory data analysis of large datasets](https://uber.github.io/deck.gl/)
 * [dragit - Direct manipulation of data graphics](http://romsson.github.io/dragit/)
+* [Graph Toy](http://memorystomp.com/graphtoy/)
 * [Metabase - the easy, open source way for everyone in your company to ask questions and learn from data](https://www.metabase.com/)
 * [Nanocubes - Fast visualization of large spatiotemporal datasets](http://www.nanocubes.net/)
 * [redash: Make Your Company Data Driven. Connect to any data source, easily visualize, dashboard and share your data](https://github.com/getredash/redash)
@@ -268,6 +269,7 @@ Data Visualization
 * [Andrew Therriault - Designing for Impact in Civic Data Science | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=1ODnn5fs6Nw)
 * [쿠팡이츠 배달단가 모니터링 | Python 데이터 분석 - YouTube](https://www.youtube.com/watch?v=kJFpAZaOEmY)
 * [쿠팡이츠 배달단가 모니터링 (파이썬 OCR 자동화 데이터 분석) : 클리앙](https://www.clien.net/service/board/lecture/15661703)
+* [파이썬 몇 줄로 간단히 해보는 탐색적 자료 분석](https://brunch.co.kr/@fermat39/104) pandas jupyter sweetviz pandas-profiling pandasgui
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
 * [Awesome Panel](https://awesome-panel.org/)
@@ -461,5 +463,6 @@ Data Visualization
   * [파이썬 데이터 시각화 도구 씨본의 변화들 seaborn - distplot이 없어졌다?! - YouTube](https://www.youtube.com/watch?v=J2KTLJQDN6k)
   * [Mastering catplot() in Seaborn with categorical plots | Towards Data Science](https://towardsdatascience.com/mastering-catplot-in-seaborn-categorical-data-visualization-guide-abab7b2067af)
   * [How to create stunning visualizations using python from scratch | by Sharan Kumar Ravindran | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/how-to-do-visualization-using-python-from-scratch-651304b5ee7a)
+  * [Advanced visualization tutorial with Seaborn - Datalore View](https://view.datalore.jetbrains.com/notebook/v8mLoENq8XTfmStTCLNMV6)
 * [Tools - matplotlib This notebook demonstrates how to use the matplotlib library to plot beautiful graphs](https://colab.research.google.com/github/ageron/handson-ml2/blob/master/tools_matplotlib.ipynb)
   * [Tools - matplotlib 이 노트북은 matplotlib 라이브러리를 사용하여 아름다운 그래프를 그리는 방법을 보여줍니다](https://colab.research.google.com/drive/1lo8pAAo5GiUk4BZvSEnnkET6hTjP6eLR)
