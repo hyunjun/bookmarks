@@ -1962,6 +1962,7 @@ Python
   * [다시쓰는 Flask unittest (상편)](https://jybaek.tistory.com/805)
   * [다시쓰는 Flask unittest (하편)](https://jybaek.tistory.com/806)
   * [Automation Testing with Pytest. We live in an era where software is… | by Harshil Modi | Tenable TechBlog | Medium](https://medium.com/tenable-techblog/automation-testing-with-pytest-444c8b34ead2)
+  * [Start Python #6 Backend Program 만들기 – Test하기 - Kowana's coding](https://www.kowanas.com/coding/2021/01/02/test%ED%95%98%EA%B8%B0/)
 * [How to test Flask applications | Analytics Vidhya](https://medium.com/analytics-vidhya/how-to-test-flask-applications-aef12ae5181c)
 * [Flask resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Flask/flask_resources.md)
 * [Flask의 세계에 오신것을 환영합니다](http://flask-docs-kr.readthedocs.org/ko/latest/)
