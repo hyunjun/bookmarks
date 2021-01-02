@@ -195,6 +195,7 @@ App
 * [**기술 블로그(Engineering Blog)란?**](https://www.44bits.io/ko/keyword/engineering-blog) 각종 블로깅 도구 소개 + 기술 블로그 전반적인 이야기
 * [RSS로 블로그를 한 번에 백업하자](https://blog.chosunghyun.com/kr-backup-with-rss/)
 * [3 open source alternatives to Confluence | Opensource.com](https://opensource.com/article/20/9/open-source-alternatives-confluence)
+* [블로그 새단장 후기, 2탄 | imch.dev](https://imch.dev/posts/blog-renewal-2021) headless CMS
 * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
   * [Making a Website Using Blogdown, Hugo, and GitHub pages](https://proquestionasker.github.io/blog/Making_Site/)
   * [A New Website with Blogdown package](https://ecosang.github.io/blog/miscellaneous/new-website-with-blogdown/)
