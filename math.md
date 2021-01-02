@@ -162,6 +162,7 @@ Math
 * [Visualizing matrix multiplication as a linear combination](http://eli.thegreenplace.net/2015/visualizing-matrix-multiplication-as-a-linear-combination/)
 * [Solving the Closest Vector Problem in 2n Time--- The Discrete Gaussian Strikes Again!](http://arxiv.org/abs/1504.01995)
 * [Gradient, Jacobian 행렬, Hessian 행렬, Laplacian](http://darkpgmr.tistory.com/132)
+* [자코비안(Jacobian) 행렬의 기하학적 의미 - 공돌이의 수학정리노트](https://angeloyeo.github.io/2020/07/24/Jacobian.html)
 * [Graphical Linear Algebra](http://graphicallinearalgebra.net/)
 * [Inventing a knot theory for eight year olds (I)](http://researchblogs.cs.bham.ac.uk/thelablunch/2015/04/inventing-a-knot-theory-for-eight-year-olds-i/)
 * [Inventing a knot theory for eight year olds (II)](http://researchblogs.cs.bham.ac.uk/thelablunch/2015/04/inventing-a-knot-theory-for-eight-year-olds-ii/)
