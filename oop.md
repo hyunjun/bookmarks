@@ -188,6 +188,9 @@
 * [전략(strategy) 디자인 패턴](http://astrod.github.io/2016/03/06/%EC%A0%84%EB%9E%B5-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
 * [전략(Strategy) 디자인 패턴](http://astrod.github.io/2017/05/04/Strategy-%ED%8C%A8%ED%84%B4.html)
 * [The Strategy Pattern explained using Java](https://medium.freecodecamp.org/the-strategy-pattern-explained-using-java-bc30542204e0)
+* [Implementing the Strategy Pattern With Spring](https://medium.com/javarevisited/implementing-the-strategy-pattern-with-spring-de2bad3abc2f)
+* [Strategy 패턴 쉽게 이해하기 - YouTube](https://www.youtube.com/watch?v=WLRtCO5QUVo)
+* [결제 로직에 전략 패턴을 적용하여 재사용성 높이기](https://seohoon-dev.tistory.com/1)
 * [Flyweight 디자인 패턴](http://astrod.github.io/2017/05/07/Flywegiht-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
 * [Design Patterns in Java with Example Tutorial](https://www.dineshonjava.com/design-patterns_25/)
 * [Design Patterns - Advanced Iterator](https://achimoraites.blogspot.com/2017/11/design-patterns-advanced-iterator.html?m=1)
@@ -201,8 +204,6 @@
 * [static binding vs dynamic binding 어느 시점에 결정되는가](https://codingdog.tistory.com/entry/static-binding-vs-dynamic-binding-%EC%96%B4%EB%8A%90-%EC%8B%9C%EC%A0%90%EC%97%90-%EA%B2%B0%EC%A0%95%EB%90%98%EB%8A%94%EA%B0%80)
 * [Understanding software design patterns](https://opensource.com/article/19/7/understanding-software-design-patterns)
 * [옵저버 레지스트리 서비스 구현](https://codegizer.me/2020/04/21/lab-observer-service-registry-ver2.html)
-* [Implementing the Strategy Pattern With Spring](https://medium.com/javarevisited/implementing-the-strategy-pattern-with-spring-de2bad3abc2f)
-* [결제 로직에 전략 패턴을 적용하여 재사용성 높이기](https://seohoon-dev.tistory.com/1)
 
 # JavaScript
 * [JavaScript 객체 지향 프로그래밍](https://opentutorials.org/module/4047)
