@@ -1199,7 +1199,7 @@ Programming
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
-* [30 seconds of code - Short code snippets for all your development needs](https://www.30secondsofcode.org)
+* [**30 seconds of code - Short code snippets for all your development needs**](https://www.30secondsofcode.org)
 * [codesearch - Fast, indexed regexp search over large file trees http://swtch.com/~rsc/regexp/regexp4.html](https://github.com/google/codesearch)
 * [omniref.com/tour](https://www.omniref.com/tour)
 * [raw code - The new home for your code snippets](http://rawcode.io/)
@@ -2418,6 +2418,7 @@ Programming
 
 # Service, Product
 * [**영국 정부의 디지털 서비스 설계 10대 원칙**](http://slownews.kr/13634) 서비스를 만들 때 염두해야 할 점을 잘 정리(그런데 정말 영국 정부 서비스가 이렇게 좋을 지는 모르겠음)
+* [USDS 디지털 서비스 플레이북 | GeekNews](https://news.hada.io/topic?id=3512) 미국 대통령실 직속인 USDS(미국 디지털 서비스)가 정부의 디지털 서비스들이 성공하기 위한 13가지 핵심요소를 정리한 플레이북
 * [CPO(VPP)가 해야 할일 – SaaSTR 후기](https://architecture101.blog/2019/09/16/what-a-great-cpo-really-does/)
 
 # Software Engineering
