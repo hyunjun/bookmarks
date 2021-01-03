@@ -1302,6 +1302,7 @@ App
 * [Scott Hanselman's 2021 Ultimate Developer and Power Users Tool List for Windows - Scott Hanselman's Blog](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
   * [(12/27) 꼭 설치해야 할 윈도우 개발 지원 도구](https://www.youtube.com/watch?v=SQi8rn_TsKM&t=1261s)
   * Startship, Winget, QuickLook, Insomnia, EarTrumpet, Ditto Clipboard Manager, PureText, Carnac
+* [**배치파일 기초 작성법 - snoopybox**](https://www.snoopybox.co.kr/1404)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
