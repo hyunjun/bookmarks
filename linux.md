@@ -563,6 +563,7 @@ Linux
   * [The beauty of Unix pipelines](https://prithu.xyz/posts/unix-pipeline/)
 * `ps`
   * `ps -T -p <process num>` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
+* [pushd and popd - Linux Shell Scripting Essentials](https://www.oreilly.com/library/view/linux-shell-scripting/9781785284441/ch03s11.html)
 * `pwd`
   * [The myriad meanings of pwd in Unix systems](https://qmacro.org/2020/11/08/the-meaning-of-pwd-in-unix-systems/)
 * `rdate` [리눅스(Linux) 계열 운영체제에서 시간 동기화하기](https://jhrun.tistory.com/158)
