@@ -419,6 +419,7 @@ AWS
 * [AWS EMR과 Airflow를 이용한 Batch Data Processing | by Min Jo | 101-devs | Aug, 2020 | Medium](https://medium.com/class101-dev/aws-emr%EA%B3%BC-airflow%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-batch-data-processing-a100fc2f4f10)
 * [Amazon SageMaker와 Apache Airflow을 통한  기계학습 워크플로 구축하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-end-to-end-machine-learning-workflows-with-amazon-sagemaker-and-apache-airflow/)
 * [AWS-instance-Attach to Auto Scaling Group](https://linuxer.name/2020/05/aws-instance-attach-to-auto-scaling-group/)
+* [ASG의 Lifecycle Hook 활용하기](https://brunch.co.kr/@alden/65) auto scaling
 * [**천만 사용자를 위한 클라우드 아키텍처, 5년간의 여정**](https://aws.amazon.com/ko/blogs/korea/5-years-scalling-up-to-10-million-users/)
 * [발표, Infrastructure as Code 삽질기 - 완두블로그](https://wani.kr/posts/2018/11/18/infrastructure-as-code/) terraform, ansible, packer
 * [AWS EC2 + GOST(Go Simple Tunnel)를 사용하여 쉽게 Foward Proxy 서버 만들기 - 완두블로그](https://wani.kr/posts/2019/09/25/ec2-gost-easy-forward-proxy/)
