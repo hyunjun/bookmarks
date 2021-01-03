@@ -938,6 +938,7 @@ Java
   * [Maven 중앙 저장소에 업로드하는 방법](https://blog.silentsoft.org/archives/191)
   * [Maven Tips and Tricks](https://itnext.io/maven-tips-and-tricks-127ca293df50)
   * [How to add a custom dependency JAR in Apache Maven — English | by Bryant Jimin Son | Aug, 2020 | Medium](https://medium.com/@bryantjiminson/how-to-add-a-custom-dependency-jar-in-apache-maven-english-23a738799c47)
+  * [15. Spring - 외부 jar파일을 Maven 로컬 레파지토리에 추가하기](https://kim-jong-hyun.tistory.com/27)
 * [Micronaut Servlet - a New Micronaut Project for Servlet API Developers](https://www.infoq.com/news/2020/05/micronaut-servlet-released/)
 * [modelmapper - Simple, Intelligent, Object Mapping](http://modelmapper.org/)
 * [Mojave - Java Web MVC Framework](http://mojavemvc.org/)
