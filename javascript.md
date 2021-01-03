@@ -2643,6 +2643,7 @@ Javascript
 * [React — How To Proxy To Backend Server | by Bhargav Bachina | Bachina Labs | Medium](https://medium.com/bb-tutorials-and-thoughts/react-how-to-proxy-to-backend-server-5588a9e0347)
 * [How To Write Beautiful React Code | by Vini | JavaScript In Plain English](https://medium.com/javascript-in-plain-english/writing-beautiful-react-code-using-a-good-old-mate-ca1450c0dc06)
 * [Introducing Zero-Bundle-Size React Server Components – React Blog](https://reactjs.org/blog/2020/12/21/data-fetching-with-react-server-components.html)
+* [react 스로틀링(throttling)을 활용하여 캡스락(capslock)키 제어](https://blog.naver.com/pjt3591oo/222193586940)
 * [React Flow](https://reactflow.dev/)
 
 ## React Flux
