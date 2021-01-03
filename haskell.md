@@ -286,6 +286,7 @@ Haskell
 * [Tweag - Splittable pseudo-random number generators in Haskell: random v1.1 and v1.2](https://www.tweag.io/blog/2020-06-29-prng-test/)
 * [Competitive programming in Haskell: data representation and optimization, with cake | blog :: Brent -> String](https://byorgey.wordpress.com/2020/06/29/competitive-programming-in-haskell-data-representation-and-optimization-with-cake/)
 * [하스켈의 관습들](https://gist.github.com/nattybear/f01f1d0e62490aaf2ab02b4ec32189f4)
+* [Lexer.hs at main · KiJeong-Lim/scripts](https://github.com/KiJeong-Lim/scripts/blob/main/src/Aladdin/Front/Analyzer/Lexer.hs)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
@@ -300,6 +301,7 @@ Haskell
 * [하스켈 타입 변수](https://gist.github.com/nattybear/dfa8cf35854e67038d1487ae36e3f036)
 * [하스켈 if](https://gist.github.com/nattybear/c6ad0618869bd7521d719f270436bff1)
 * [하스켈 Continuation Passing Style, CPS](https://gist.github.com/nattybear/387d22fc82c7339a29e0c93084fef10e)
+* [하스켈 달러 표시](https://gist.github.com/nattybear/86eb28e25f82affc58f5b8a2f02c6742) 우선순위
 * do [The doomsday machine](https://tech.fretlink.com/the-doomsday-machine/)
 * exception
   * [THE THREE KINDS OF HASKELL EXCEPTIONS AND HOW TO USE THEM](https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html)
