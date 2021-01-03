@@ -180,6 +180,8 @@ Machine Learning
 * [Deep Learning vs Probabilistic Graphical Models vs Logic](http://quantombone.blogspot.kr/2015/04/deep-learning-vs-probabilistic.html)
 * [Probabilistic machine learning and artificial intelligence](http://www.nature.com/nature/journal/v521/n7553/full/nature14541.html)
 * [Introduction To Probabilistic Modeling and Machine Learning](https://www.youtube.com/playlist?list=PLAbhVprf4VPlqc8IoCi7Qk0YQ5cPQz9fn)
+* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
+* [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
 * [머신러닝(Machine Learning)과 확률(Probability)](https://devkihyun.github.io/study/Machine-learining-and-Probability)
 * [github.com/nyu-dl/Intro_to_ML_Lecture_Note](https://github.com/nyu-dl/Intro_to_ML_Lecture_Note)
 * [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong)
