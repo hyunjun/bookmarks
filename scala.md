@@ -305,6 +305,7 @@ Scala
 * [Akka actors orchestration](https://blog.cacoveanu.com/2018/2018.05.06.09.00.akka.orchestration.html)
 * [Nightmare on Actor Subtree Shutdown](https://medium.com/kenshoos-engineering-blog/nightmare-on-actor-subtree-shutdown-93a8634f41be)
 * [Message-based Parallelism with Actors](https://www.lihaoyi.com/post/MessagebasedParallelismwithActors.html)
+* [introduction to actor supervision akka typed with scala for beginners](https://yolkorbit.com/introduction-to-actor-supervision-akka-typed-with-scala-for-beginners/)
 * [ZIO Actors - High-performance, purely-functional library for building and supervising typed actors backed by ZIO](https://zio.github.io/zio-actors/)
 
 # Akka
