@@ -3014,6 +3014,7 @@ Python
   * [10x Faster Parallel Python Without Python Multiprocessing](https://towardsdatascience.com/10x-faster-parallel-python-without-python-multiprocessing-e5017c93cce1)
   * [How I built a GPU Deep Learning Cluster with ray — And why I would do it again](https://medium.com/@mcgamer0070/how-i-built-a-gpu-deep-learning-cluster-with-ray-and-why-i-would-do-it-again-6920f4e6b7b)
   * [Ray 아키텍쳐 백서 (번역)](https://brunch.co.kr/@chris-song/106)
+  * [**Python Ray 사용법 - Python 병렬처리, 분산처리 · 어쩐지 오늘은**](https://zzsza.github.io/mlops/2021/01/03/python-ray/)
 * [readchar - Utilities to read single characters and key-strokes](https://pypi.python.org/pypi/readchar)
 * [readability - fast python port of arc90's readability tool, updated to match latest readability.js!](https://github.com/buriy/python-readability)
   * [risingdream.kr/lab/readability.html](http://risingdream.kr/lab/readability.html)
