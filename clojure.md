@@ -822,3 +822,4 @@ Clojure
 * [Why Developers Should Look into Clojure](https://auth0-com.cdn.ampproject.org/c/s/auth0.com/blog/amp/why-developers-should-look-into-clojure/)
 * [coding dojo - maze solving](https://gist.github.com/mmzsource/e8c383f69244ebefde058004fee72a8a)
 * [advent-2020-clojure](https://github.com/abyala/advent-2020-clojure)
+* [An Animated Introduction to Clojure](https://markm208.github.io/cljbook/)
