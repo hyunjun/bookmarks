@@ -52,6 +52,7 @@ Deep Learning
 * [딥러닝 교육 자료 (Deep Learning Lecture)](http://hugrypiggykim.com/2017/08/24/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B5%90%EC%9C%A1-%EC%9E%90%EB%A3%8C-deep-learning-lecture/)
 * [신경망에 대해 알아야 할 모든 것](http://blog.funhnc.com/entry/%EC%8B%A0%EA%B2%BD%EB%A7%9D%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A0-%EB%AA%A8%EB%93%A0-%EA%B2%83)
 * [도대체 선형이 뭘까?](https://www.youtube.com/watch?v=ZkoSFB0AchE)
+* [Deep Learning 완전 쉽게 이해하기 for nonprogrammer - Kowana's tech](https://www.kowanas.com/tech/2021/01/03/deep-learning)
 * [Deep Learning for Beginners](http://randomekek.github.io/deep/deeplearning.html)
 * [5 Best Deep Learning in Python videos for a Beginner](https://www.techleer.com/articles/416-5-best-deep-learning-in-python-videos-for-a-beginner)
 * [Deep Learning — a gentle dive](https://becominghuman.ai/deep-learning-a-gentle-dive-92054e39bd8)
