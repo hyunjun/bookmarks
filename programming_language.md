@@ -74,6 +74,7 @@ Programming Language
 * [8 Top Programming Languages & Frameworks of 2019](https://hackernoon.com/8-top-programming-languages-frameworks-of-2019-2f08d2d21a1)
 * [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 * [Grammars for programming languages](https://medium.com/@mikhail.barash.mikbar/grammars-for-programming-languages-fae3a72a22c6)
+* [언어별로 살펴본 Deep Copy와 Shallow Copy - Kowana's coding](https://www.kowanas.com/coding/2021/01/02/deep-copy%EC%99%80-shallow-copy/)
 
 # Closure
 * [Closures And Objects Are Equivalent](http://c2.com/cgi/wiki?ClosuresAndObjectsAreEquivalent)
