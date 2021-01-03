@@ -2205,6 +2205,7 @@ Programming
   * [(12/20) 젊은 시절의 나에게 해주는 조언: 사이드 프로젝트에서 너무 큰 것을 기대하지 마라. - YouTube](https://www.youtube.com/watch?v=MY3kTDnKvXY)
 * [(12월 27일) 꼭 설치해야 할 윈도우 개발 지원 도구](https://jhrogue.blogspot.com/2020/12/12-27.html)
 * [(01/03) 마음대로 예상하는 2021년 IT 기술 전망 - YouTube](https://www.youtube.com/watch?v=f7pDfg9uNss)
+* [(01/03) 2020년 닷넷 개발자의 현황에 대해 - YouTube](https://www.youtube.com/watch?v=pvDJOoGItNk)
 * [(01/03) 2020년 닷넷 개발자의 현황에 대해2 - YouTube](https://www.youtube.com/watch?v=E_pquJ2eUEI)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
