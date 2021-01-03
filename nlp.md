@@ -1081,6 +1081,8 @@ NLP
   * [Natural Language in Python using spaCy: An Introduction](https://blog.dominodatalab.com/natural-language-in-python-using-spacy/)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
+* [TextFeatureSelection · PyPI](https://pypi.org/project/TextFeatureSelection/)
+  * [TextFeatureSelection — A Python package - Praveen Govindaraj - Medium](https://medium.com/@praveengovi/textfeatureselection-a-python-package-c7493207b92)
 * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
 * [textgenrnn - Python module to easily generate text using a pretrained character-based recurrent neural network](https://github.com/minimaxir/textgenrnn)
 * [UTagger](http://nlplab.ulsan.ac.kr/doku.php?id=utagger)
