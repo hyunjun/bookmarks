@@ -1153,6 +1153,7 @@ Java
 * [나의 첫 SpringRestDocs 적용기 part 1](https://ahndy84.tistory.com/27)
 * [ETag with Spring](https://woowacourse.github.io/javable/post/2020-09-30-ETag-with-Spring/)
 * [Building Java/Spring Apps in the Cloud — with Kubernetes Cloud Manager & Tekton Pipelines | by Jorge Simão | The Startup | Dec, 2020 | Medium](https://medium.com/swlh/building-java-spring-apps-in-the-cloud-with-kubernetes-cloud-manager-tekton-pipelines-681407bcd8aa)
+* [Spring 초간단 DB 사용하기 - YouTube](https://www.youtube.com/watch?v=CEtOLCNo6Xw)
 * [beantimer: A tools to measure Spring bean initialization time](https://github.com/vikreinok/beantimer)
 * [thymeleaf](https://okdevtv.com/mib/spring/thymeleaf)
   * [Thymeleaf 시작하기 - YouTube](https://www.youtube.com/watch?v=tiRi6PLVesY)
