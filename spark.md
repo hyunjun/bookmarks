@@ -385,6 +385,7 @@
 * [Why Spark on Ceph? (Part 3 of 3)](https://www.redhat.com/en/blog/why-spark-ceph-part-3-3)
 * [Spark Delight — We’re building a better Apache Spark UI | by Jean Yves | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/spark-delight-were-building-a-better-spark-ui-1b463840e243)
 * [Overcoming Apache Spark’s biggest pain points | by Edson Hiroshi Aoki | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/overcoming-apache-sparks-biggest-pain-points-b374cebcf6a4)
+* [Speeding Time to Insight with a Modern ETL Approach - YouTube](https://www.youtube.com/watch?v=G5P8VbS0gXA) ETL -> ELT
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
