@@ -576,6 +576,7 @@ Apache
 * [Kafka is not a Database – Materialize](https://materialize.com/kafka-is-not-a-database/)
 * [Sizing Calculator for Apache Kafka and Confluent Platform](https://eventsizer.io/)
 * [Thread-Per-Core Buffer Management for a modern Kafka-API storage system - Vectorized](https://vectorized.io/blog/tpc-buffers/)
+* [Introducing Confluent’s Parallel Consumer Message Processing Client](https://www.confluent.io/blog/introducing-confluent-parallel-message-processing-client/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
