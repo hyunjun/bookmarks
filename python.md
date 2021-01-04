@@ -1401,6 +1401,8 @@ Python
   * [Building The Real Time Web With Python](https://www.youtube.com/watch?v=wMnN5kIG8D8)
   * [Day 2: Pau Freixes Alió - Running Aiohttp at scale](https://www.youtube.com/watch?v=p5d74IkGfwo)
   * [aiohttp로 하는 비동기 HTTP 요청](https://item4.github.io/2017-11-26/Asynchronous-HTTP-Request-with-aiohttp/)
+  * [How to Speed Up API Requests With Async Python - YouTube](https://www.youtube.com/watch?v=ln99aRAcRt0)
+    * [youtube_video_code/2020/12/31/How to Speed Up API Requests With Async Python at master · PrettyPrinted/youtube_video_code](https://github.com/PrettyPrinted/youtube_video_code/tree/master/2020/12/31/How%20to%20Speed%20Up%20API%20Requests%20With%20Async%20Python)
 * [**aio-libs - The set of asyncio-based libraries built with high quality**](https://github.com/aio-libs)
 * [aiomysql - a library for accessing a MySQL database from the asyncio http://aiomysql.readthedocs.io](https://github.com/aio-libs/aiomysql)
 * [aiosql: Simple SQL in Python](https://github.com/nackjicholson/aiosql)
