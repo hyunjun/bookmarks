@@ -185,6 +185,7 @@ AWS
 * [Korean DevOps Art Project: Terraform and Goployer - YouTube](https://www.youtube.com/watch?v=ZAEZ0uTtn5w)
 * [Infrastructure as Code 의 최고 인기Terraform(테라폼) 현직 DevOps 엔지니어, AWS Hero 가 이야기하는 Terraform 기본설명! - YouTube](https://www.youtube.com/watch?v=3qSpwqckvXQ)
 * [Terraform 0.13으로 테라폼 코드 업그레이드하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1516)
+* [Terraform 0.14로 테라폼 코드 업그레이드하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1524)
 * [코드로 인프라 관리하기 GamesOnAWS 2019.pptx - Google Drive](https://drive.google.com/file/d/1Bsc5hic_p8nNfGTSa8Dz4UXx49PVFOd4/view)
 * [이상현 ‘빙글’ 테크리드, “마이크로서비스아키텍처 매력에 푹”](http://www.techsuda.com/archives/9687)
 * [MySQL 설치 및 HeidiSQL 연결](https://hjpco.wordpress.com/2017/05/20/awsmysql-%EC%84%A4%EC%B9%98-%EB%B0%8F-heidisql-%EC%97%B0%EA%B2%B0/)
