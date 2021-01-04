@@ -522,6 +522,7 @@ Interview
 * [10 free coding practice sites to step up your game (and even get hired)](https://www.beseen.com/blog/talent/free-coding-practice-sites)
 * [**10 Techniques to Master Coding Interview Questions**](https://levelup.gitconnected.com/10-techniques-to-master-coding-interview-questions-b3216d3d3920)
 * [TMItalk 하루만 삽질하면 충분한 온라인 코딩테스트 서버 구축 - YouTube](https://www.youtube.com/watch?v=fqMYI04QHBM)
+* [구름(goorm), 백준(BOJ) 코딩 테스트 JavaScript로 입력받는 방법 정리](https://velog.io/@grap3fruit/%EA%B5%AC%EB%A6%84goorm-%EC%BD%94%ED%85%8C-javascript-%EB%A1%9C-%EC%9E%85%EB%A0%A5%EA%B0%92-%EB%B0%9B%EB%8A%94-%EB%B0%A9%EB%B2%95)
 * [algoexpert.io](https://www.algoexpert.io)
   * [Clément Mihailescu - YouTube](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g) AlgoExpert 창업자
 * [algospot](https://www.algospot.com)
