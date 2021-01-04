@@ -1451,6 +1451,7 @@ Programming
   * Data catalogs are gaining popularity: Apache Atlas, DataHub(LinkedIn), Marquez(WeWork), Data Catalog(Google)
 * [Data Mesh Paradigm Shift in Data Platform Architecture](https://www.infoq.com/presentations/data-mesh-paradigm/)
 * [Taming Service-Oriented Architecture Using A Data-Oriented Service Mesh | by Adam Miskiewicz | Airbnb Engineering & Data Science | Nov, 2020 | Medium](https://medium.com/airbnb-engineering/taming-service-oriented-architecture-using-a-data-oriented-service-mesh-da771a841344)
+* [조대협의 블로그 :: 분산형 데이터 분석 아키텍처-데이터 매쉬](https://bcho.tistory.com/1379)
 
 # Data Pipeline
 * [Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack](https://www.infoq.com/podcasts/slack-building-resilient-data-engineering/)
