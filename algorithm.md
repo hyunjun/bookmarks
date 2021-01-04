@@ -207,12 +207,13 @@ Algorithm
 * [알고리즘 문제풀이 #4 코딩도장 지뢰찾기 이야기](https://adunhansa.tistory.com/325)
 * [na982 :: 삼성 SW 역량 테스트 어른 상어](https://na982.tistory.com/128)
 * [An Illustrative Introduction to Dynamic Time Warping | by Esmaeil Alizadeh | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/an-illustrative-introduction-to-dynamic-time-warping-36aa98513b98) DTW
-* [배열에서 가장 큰 직사각형 구하기 : 관찰을 통해 풀어봅시다.](https://codingdog.tistory.com/entry/%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95-%EA%B5%AC%ED%95%98%EA%B8%B0-%EA%B4%80%EC%B0%B0%EC%9D%84-%ED%86%B5%ED%95%B4-%ED%92%80%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4)
+* [배열에서 가장 큰 직사각형 구하기 : 관찰을 통해 풀어봅시다](https://codingdog.tistory.com/entry/%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95-%EA%B5%AC%ED%95%98%EA%B8%B0-%EA%B4%80%EC%B0%B0%EC%9D%84-%ED%86%B5%ED%95%B4-%ED%92%80%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [Maximum Perimeter Triangle with Greedy Approach | by Pulsara Sandeepa | Oct, 2020 | Level Up Coding](https://levelup.gitconnected.com/maximum-perimeter-triangle-with-greedy-approach-bd6279471d2e)
 * [All Pythagorean Triplets in Optimal Time Complexity | Level Up Coding](https://levelup.gitconnected.com/all-pythagorean-triplets-less-than-equal-n-in-optimal-time-complexity-babfbe742337)
 * [Essential Data Structures for Every Programmer | by Mahdhi Rezvi | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/essential-data-structures-for-every-programmer-7d1511eba838)
 * [알고리즘 - 부경대학교 | KOCW 공개 강의](http://www.kocw.net/home/search/kemView.do?kemId=1148815)
-* [정점 분할 : 노드를 상태에 따라 여러 개로 쪼갠다.](https://codingdog.tistory.com/entry/%EC%A0%95%EC%A0%90-%EB%B6%84%ED%95%A0-%EB%85%B8%EB%93%9C%EB%A5%BC-%EC%83%81%ED%83%9C%EC%97%90-%EB%94%B0%EB%9D%BC-%EC%97%AC%EB%9F%AC-%EA%B0%9C%EB%A1%9C-%EC%AA%BC%EA%B0%A0%EB%8B%A4)
+* [정점 분할 : 노드를 상태에 따라 여러 개로 쪼갠다](https://codingdog.tistory.com/entry/%EC%A0%95%EC%A0%90-%EB%B6%84%ED%95%A0-%EB%85%B8%EB%93%9C%EB%A5%BC-%EC%83%81%ED%83%9C%EC%97%90-%EB%94%B0%EB%9D%BC-%EC%97%AC%EB%9F%AC-%EA%B0%9C%EB%A1%9C-%EC%AA%BC%EA%B0%A0%EB%8B%A4)
+* [많이 언급되는 오프라인 쿼리 간단하게 훑어봅시다](https://codingdog.tistory.com/entry/%EB%A7%8E%EC%9D%B4-%EC%96%B8%EA%B8%89%EB%90%98%EB%8A%94-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%BF%BC%EB%A6%AC-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%ED%9B%91%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -577,7 +578,7 @@ Algorithm
 * [k번째 수 찾기:count sort를 응용해 봅시다](https://codingdog.tistory.com/entry/k%EB%B2%88%EC%A7%B8-%EC%88%98-%EC%B0%BE%EA%B8%B0-count-sort%EB%A5%BC-%EC%9D%91%EC%9A%A9%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [Tim sort에 대해 알아보자](https://d2.naver.com/helloworld/0315536)
 * [Selection Sort Algorithm Visually Explained](https://levelup.gitconnected.com/selection-sort-algorithm-visually-explained-5bdba8c2acb1)
-* [median of median : 피벗을 중앙의 중앙값을 선택한다.](https://codingdog.tistory.com/entry/median-of-median-%ED%94%BC%EB%B2%97%EC%9D%84-%EC%A4%91%EC%95%99%EC%9D%98-%EC%A4%91%EC%95%99%EA%B0%92%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%9C%EB%8B%A4)
+* [median of median : 피벗을 중앙의 중앙값을 선택한다](https://codingdog.tistory.com/entry/median-of-median-%ED%94%BC%EB%B2%97%EC%9D%84-%EC%A4%91%EC%95%99%EC%9D%98-%EC%A4%91%EC%95%99%EA%B0%92%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%9C%EB%8B%A4)
 
 ## Nibble
 * [Nibblesort: Adventures in Optimization](http://belkadan.com/blog/2015/05/Nibblesort/)
