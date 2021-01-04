@@ -2569,7 +2569,6 @@ Javascript
 * [3 Essential Tools to Boost your React App’s SEO](https://medium.com/@prestonwallace/3-ways-improve-react-seo-without-isomorphic-app-a6354595e400)
 * [How to Build Tetris in React - GameDev Tutorial (with React Hooks!)](https://www.youtube.com/watch?v=ZGOaCxX8HIU)
 * [Building a Full Stack Application with React and Node](https://medium.com/@hosway/building-a-full-stack-application-with-react-and-node-5932f264967e)
-* [react-native-daummap](https://www.npmjs.com/package/react-native-daummap)
 * [React Transition 강좌](https://www.miriya.net/p/271)
 * [React and APIs - Full Tutorial - Hacker News API Application](https://www.youtube.com/watch?v=LN6Dol_fX0w)
 * [React 전, 7가지 배경지식 다지기](https://medium.com/@codesquad_yoda/react-전-7가지-배경지식-다지기-8ad72f7b6aac)
@@ -2776,6 +2775,8 @@ Javascript
 * [React Native에서 인앱 결제 구현하기 - React Native에서 인앱 결제를 구현하기 위해 react-native-iap를 사용하는 방법에 대해서 알아봅시다.](https://dev-yakuza.posstree.com/ko/react-native/react-native-iap/)
 * [Mark a Coordinate on Mapbox Map in React Native | by nhammad | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/mark-a-coordinate-on-mapbox-map-in-react-native-5d21c71ed46e)
 * [React Native and Android Studio: Everything you need to get started in Linux | by Romano Fenzo Flores | The Startup | Medium](https://medium.com/swlh/react-native-and-android-studio-everything-you-need-to-get-started-in-linux-b47154e78f9e)
+* [리액트 네이티브 앱 전환 그리고 1년 후 - 리디주식회사 RIDI Corporation](https://ridicorp.com/story/react-native-1year-review)
+* [react-native-daummap](https://www.npmjs.com/package/react-native-daummap)
 
 ## React Library
 * [Data Visualization Libraries for React Developers in 2019](https://medium.com/@veronikarovnik/data-visualization-libraries-for-react-developers-in-2019-a2b9c01262f8)
