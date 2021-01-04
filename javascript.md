@@ -2210,6 +2210,7 @@ Javascript
 * [The 3REE Stack: React + Redux + RethinkDB + Express.js](http://blog.workshape.io/the-3ree-stack-react-redux-rethinkdb-express-js/)
 * [Facebook은 React를 왜 만들었을까?](http://www.slideshare.net/jeokrang/facebook-react-55649927)
 * [react compose - Simpler Stateless Components](http://reactcompose.com/)
+* [React Stateless VS Stateful Components](https://techstack.hashnode.dev/react-stateless-vs-stateful-components)
 * [리액트네이티브 0.50](https://engineering.huiseoul.com/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-0-50-c24d804d0281)
 * [플랫폼별 QR, 바코드 스캐너 구현기](http://www.popit.kr/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-%ED%94%8C%EB%9E%AB%ED%8F%BC%EB%B3%84-qr-%EB%B0%94%EC%BD%94%EB%93%9C-%EC%8A%A4%EC%BA%90%EB%84%88-%EA%B5%AC%ED%98%84%EA%B8%B0/)
 * [React에 대한 여러 가지 생각](http://youngrok.com/React%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%97%AC%EB%9F%AC%20%EA%B0%80%EC%A7%80%20%EC%83%9D%EA%B0%81)
