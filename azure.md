@@ -105,6 +105,7 @@ Azure
 * [개발 환경 구성: 495. Azure - Location이 다른 웹/DB 서버의 경우 발생하는 성능 하락](https://www.sysnet.pe.kr/2/0/12273)
 * [프리지아 랩 :: Incorrect localization about "Create storage account"](https://www.dokyun.pe.kr/256)
 * [How to quickly develop and manage hundreds of ML models to pivot your organization using Azure Databricks - The Databricks Blog](https://databricks.com/blog/2020/08/28/operationalize-100-machine-learning-models-in-as-little-as-12-weeks-with-azure-databricks.html)
+* [Deploying a Machine Learning Model with Azure ML Pipelines](https://vladiliescu.net/deploying-models-with-azure-ml-pipelines/)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
