@@ -619,8 +619,10 @@ R
   * [R Shiny Application Split Into Multiple Files](https://www.r-bloggers.com/r-shiny-application-split-into-multiple-files/)
   * [2020 R Meetup 데이터저널리즘 강연 - Google Slides](https://docs.google.com/presentation/d/1c5jHvnBOyV0-O4d1m2EFqlay-d_IAdPLIos6YexHSEg)
   * [My Experience : Release and maintain CRAN packages](https://github.com/cardiomoon/LectureForRPackage)
+  * [Meetup/210104 주택하위시장플랫폼(김철민).pdf at master · shinykorea/Meetup](https://github.com/shinykorea/Meetup/blob/master/20210104/210104_%EC%A3%BC%ED%83%9D%ED%95%98%EC%9C%84%EC%8B%9C%EC%9E%A5%ED%94%8C%EB%9E%AB%ED%8F%BC(%EA%B9%80%EC%B2%A0%EB%AF%BC).pdf)
   * [bs4Dash 패키지 연습](https://github.com/takos1026/test_bs4dash)
   * [Covid-19 interactive map (using R with shiny, leaflet and dplyr)](https://www.r-bloggers.com/covid-19-interactive-map-using-r-with-shiny-leaflet-and-dplyr/)
+  * [Dacon: 공간정보 탐색적 데이터 분석 경진대회 Shiny 시각화](https://github.com/Unfinishedgod/dacon_jeju)
   * xaringan [파워포인트를 넘어서 - xaringan](https://statkclee.github.io/ds-authoring/seoul_r_xaringan.html)
 * sp
   * [R에서 sp package 의 proj4string(), spTransform() 함수를 이용한 좌표계 변환 예제](https://lovetoken.github.io/r/2018/04/15/sp_proj4string_spTransform.html)
