@@ -66,6 +66,7 @@ Government
 * ['뉴스타파 데이터포털' 오픈...한국 언론사 최초](https://newstapa.org/article/6nDFT)
 * [데이터 분석에 필요한 오픈 공공데이터 포털 20가지](https://blog.naver.com/zhangyun123/221963865663)
 * [AI 학습용 텍스트 데이터 모음 | GeekNews](https://news.hada.io/topic?id=3087)
+* [빅데이터 거버넌스(Data Governance)의 정의 및 목적, 그리고 고려사항과 도구들 :: Kaden Sungbin Cho](https://kadensungbincho.tistory.com/12)
 
 # Library
 * [Label Studio - an open-source, configurable data annotation tool](https://github.com/heartexlabs/label-studio)
