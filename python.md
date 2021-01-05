@@ -4246,6 +4246,7 @@ Python
   * [Migrate From Flask to FastAPI Smoothly | by Ng Wai Foong | Better Programming | Medium](https://medium.com/better-programming/migrate-from-flask-to-fastapi-smoothly-cc4c6c255397)
   * [3 Reasons to Switch to FastAPI. Flask vs. FastAPI | by Dieter Jordens | Better Programming | Medium](https://medium.com/better-programming/3-reasons-to-switch-to-fastapi-f9c788d017e5)
   * [Using Docker Compose to deploy a lightweight Python REST API with a job queue | by Mike Moritz | Medium](https://medium.com/@mike.p.moritz/using-docker-compose-to-deploy-a-lightweight-python-rest-api-with-a-job-queue-37e6072a209b)
+  * [FastAPI Authentication Example With OAuth2, JSON Web Tokens and Tortoise ORM - YouTube](https://www.youtube.com/watch?v=6hTRw_HK3Ts)
 * mod_wsgi
   * [What package I should install for 'pcre-devel'?](http://stackoverflow.com/questions/2263404/what-package-i-should-install-for-pcre-devel)
     * `yum install pcre-devel.x86_64 -y`
