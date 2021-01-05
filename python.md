@@ -608,6 +608,7 @@ Python
   * [12 Examples of How To Write Better Code Using @dataclass | by Bruce H. Cottman, Ph.D. | Towards Data Science](https://towardsdatascience.com/12-examples-of-how-to-write-better-code-using-dataclass-d7c121ee0239)
 * datetime
   * [practice](https://github.com/hyunjun/practice/blob/master/python/test-datetime/datetime.ipynb)
+  * [practice - `datetime.strptime(<date as string>, <format>)`](https://github.com/hyunjun/practice_private/blob/ea459fdebaf28d580f332d863807c2bf69ed75e5/agoda/get_pr_90.py#L19-L25)
   * [파이썬 Datetime 이해하기](http://www.slideshare.net/dahlmoon/datetime)
   * `datetime.datetime.strptime([DATE IN STRING], '%Y-%m-%d %H:%M:%S').strftime('%s')` string time to epoch time
   * `(datetime.datetime.today() - datetime.timedelta(days=[# of DAYS])).strftime("%Y%m%d000000")` [python-get-datetime-for-3-years-ago-today](http://stackoverflow.com/questions/5158160/python-get-datetime-for-3-years-ago-today)

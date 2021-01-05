@@ -170,6 +170,7 @@ Git
 * [Introducing GitHub Super Linter: one linter to rule them all - The GitHub Blog](https://github.blog/2020-06-18-introducing-github-super-linter-one-linter-to-rule-them-all/)
 * [GitHub 아이디/패스워드 입력 없이 사용하는 방법](https://kibua20.tistory.com/88)
 * [rest-api-description: An OpenAPI description for GitHub's REST API](https://github.com/github/rest-api-description)
+* [practice - github api to get PR review time's 90 percentile](https://github.com/hyunjun/practice_private/blob/ea459fdebaf28d580f332d863807c2bf69ed75e5/agoda/get_pr_90.py)
 * [깃허브 컨테이너 레지스트리(GitHub Container Registry) 베타 오픈 및 사용법 | 44BITS](https://www.44bits.io/ko/post/news--github-container-registry-beta-release)
 * [GitHub Codespaces 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1497)
 * [GitHub Codespaces의 개발 환경 설정하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1509)
