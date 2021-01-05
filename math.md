@@ -30,6 +30,7 @@ Math
 * [Theoretical Computer Science Cheat Sheet](http://www.tug.org/texshowcase/cheat.pdf)
 * [Importance of Mathematics](http://phatak-dev.github.io/techtalks/importance-of-mathematics/)
 * [Reminding the world that math makes sense - exponentials](http://www.3blue1brown.com/)
+  * [3Blue1Brown 한글 - YouTube](https://www.youtube.com/channel/UCJK07Uk2KY9r78ksPoXg-3g)
 * [Lint For Math](https://rjlipton.wordpress.com/2015/03/08/lint-for-math/)
 * [Numerical Optimization Notice](https://docs.google.com/document/d/1EJp9qqztUIZbh1cCzsPI-OtrrrN7opYqkSWFx8Vg6rw/edit)
 * [Extracting Structured Data From Recipes Using Conditional Random Fields](http://open.blogs.nytimes.com/2015/04/09/extracting-structured-data-from-recipes-using-conditional-random-fields/?_r=0)
