@@ -670,6 +670,7 @@ Java
   * [08. Case Study(메모리 설정값 변경)](https://blog.naver.com/pcmola/222064880474)
 * [JVM 메모리 해부학](https://www.slideshare.net/DONGHUNLEE61/jvm-238616046)
 * [A New Future for Java. JVM, Kotlin, and where Java is going… | by The Bored Dev | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/a-new-future-for-java-b10a6789f962)
+* [JVM 내부 동작 원리 & 자바 컴파일,실행 순서 - 런타임 영역, JIT 컴파일러, 인터프리터](https://tjdrnr05571.tistory.com/19)
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
   * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics](https://micrometer.io/)
