@@ -297,6 +297,7 @@ Machine Learning
 * [Multiclass Regression Tutorial](https://www.youtube.com/playlist?list=PLdeuKRJcjOTfgfyRrKf1G8BN6qIbaBa1d)
 * [5 Types of Regression and their properties](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e)
 * [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
+* [Simple Linear Regression Tutorial for Machine Learning (ML) | by Towards AI Team | Towards AI | Medium](https://medium.com/towards-artificial-intelligence/calculating-simple-linear-regression-and-linear-best-fit-an-in-depth-tutorial-with-math-and-python-804a0cb23660)
 * [Drawing the Multiple Regression Models](http://rpubs.com/cardiomoon/474707)
 * [multi-linear-regression](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-data_science/machine-learning/multi-linear-regression)
   * [Multiple Regression Analysis in Python | Part 1](https://youtu.be/M32ghIt1c88) 데이터 로딩 및 클리닝. 모델의 일반적인 개념
