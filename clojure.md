@@ -127,6 +127,7 @@ Clojure
 * [Understanding Specter: Clojure's missing piece](https://www.youtube.com/watch?v=rh5J4vacG98)
 * [Using Emacs with Clojure](https://www.facebook.com/notes/jong-hoon-lee/using-emacs-with-clojure/1435323820126903)
 * [macOS에서 Emacs로 클로저 개발하기](https://github.com/eunmin/emacs-for-clojure)
+* [Configuring Emacs as a Clojure IDE - LSP Mode - LSP support for Emacs](https://emacs-lsp.github.io/lsp-mode/tutorials/clojure-guide/)
 * [Writing Friendlier Clojure](http://adambard.com/blog/write-friendlier-clojure/)
 * [Structural typing for Clojure, somewhat inspired by Elm](https://github.com/marick/structural-typing)
 * [클로저(Clojure)를 시작하는 계기](https://medium.com/happyprogrammer-in-jeju/%ED%81%B4%EB%A1%9C%EC%A0%80-clojure-%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EA%B3%84%EA%B8%B0-1dc2d3f08176)
