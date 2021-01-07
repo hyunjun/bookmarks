@@ -301,6 +301,7 @@ Clojure
 * [Clojure and gRPC - overcoming FOMO (by Sathya Vittal) @ LNDCLJ - YouTube](https://www.youtube.com/watch?v=iyHvwkc6Wis)
 * [Blog in Clojure Code Review - YouTube](https://www.youtube.com/watch?v=yQ-KjVNCe3g)
 * [Model Checking in Clojure - YouTube](https://www.youtube.com/watch?v=zvlD4_S3nz0)
+* [Consistent Hashing with Clojure | Ponderings of a Curious Mind](https://suvratapte.com/consistent-hashing-with-clojure/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
