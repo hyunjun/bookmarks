@@ -1380,3 +1380,4 @@ Machine Learning
 * [**Machine Learning Algorithms For Beginners with Code Examples in Python**](https://medium.com/towards-artificial-intelligence/machine-learning-algorithms-for-beginners-with-python-code-examples-ml-19c6afd60daa)
 * [Machine Learning by Analogy](https://www2.slideshare.net/ColleenFarrelly/machine-learning-by-analogy-59094152)
 * [40+ Modern Tutorials Covering All Aspects of Machine Learning - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/40-tutorials-covering-all-aspects-of-machine-learning)
+* [머신러닝야학](https://ml.yah.ac/)
