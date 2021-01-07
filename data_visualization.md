@@ -377,6 +377,8 @@ Data Visualization
 * [Why is academic writing so dense?](https://towardsdatascience.com/why-is-academic-writing-so-dense-88ca11cb368c) pyplot
 * [pyexecjs_performance-ipynb](https://gist.github.com/jskDr/e90ad5825eafdac33b93#file-pyexecjs_performance-ipynb)
 * [Reduce left and right margins in matplotlib plot](http://stackoverflow.com/questions/4042192/reduce-left-and-right-margins-in-matplotlib-plot)
+* [Matplotlib: Your First Plot With Python](https://www.youtube.com/watch?v=SRgYGhRXVlY)
+* [matplotlib plot() | Pega Devlog](https://jehyunlee.github.io/2021/01/06/Python-DS-53-mpl_plot/)
 * [Violin Plot 그려보기](https://brunch.co.kr/@goodvc78/9)
   * [Violin Plot 그려보기](http://nbviewer.jupyter.org/gist/goodvc78/3be79fda89b24349e0abe872dbe8242c)
 * [Matplotlib tutorial](http://www.labri.fr/perso/nrougier/teaching/matplotlib/)
@@ -409,7 +411,6 @@ Data Visualization
 * [Matplotlib tutorial](https://www.youtube.com/playlist?list=PLeo1K3hjS3uu4Lr8_kro2AqaO6CFYgKOl)
 * [Animations with Matplotlib](https://towardsdatascience.com/animations-with-matplotlib-d96375c5442c)
 * [korean_font_on_matplotlib.ipynb](https://colab.research.google.com/github/nicewook/datascience_exercise/blob/master/korean_font_on_matplotlib.ipynb)
-* [Matplotlib: Your First Plot With Python](https://www.youtube.com/watch?v=SRgYGhRXVlY)
 * [Matplotlib Defaults & Fonts](https://jehyunlee.github.io/2020/02/13/Python-DS-2-matplotlib/)
 * [Matplotlib Colormap (1)](https://jehyunlee.github.io/2020/03/01/Python-DS-4-matplotlib_colormap/)
 * [Matplotlib Colormap Customization (1) | Pega Devlog](https://jehyunlee.github.io/2020/08/06/Python-DS-24-custom_colormap/)
