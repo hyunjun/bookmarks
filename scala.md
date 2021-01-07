@@ -1591,6 +1591,7 @@ Scala
 * [Ep 3: Evaluating our Numeric Type class - YouTube](https://www.youtube.com/watch?v=56Xj-5kCEm0)
 * [Ep 4: Scala 3 type classes - YouTube](https://www.youtube.com/watch?v=B2mTHpxw9JI)
 * [Implementing Type classes in Scala 3 | by ayush mittal | Dec, 2020 | Medium](https://ayushm4489.medium.com/implementing-type-classes-in-scala-3-13c5ab38b91d)
+* [Scala 3 Metaprogramming by Example by Adam Warski - YouTube](https://www.youtube.com/watch?v=leIB5tvDY64)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
