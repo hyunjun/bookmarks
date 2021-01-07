@@ -28,6 +28,7 @@ Web
 * [INTRO TO WEB DEV V2 - VIDEOS ON FRONTEND MASTERS](https://btholt.github.io/intro-to-web-dev-v2/)
 * [Web 학습하기](https://developer.mozilla.org/ko/docs/Learn)
 * [Web-Dev-For-Beginners: 24 Lessons, 12 Weeks, Get Started as a Web Developer](https://github.com/microsoft/Web-Dev-For-Beginners)
+  * [Web Development for Beginners - A Curriculum](https://devrel-kr.github.io/Web-Dev-For-Beginners/)
 * [Best GitHub Repos for Web Developers](https://dev.to/sayanide/best-github-repos-for-web-developers-9id)
 * [Website Launch Checklist](https://tryblocks.com/departure/)
 * [KnowRe web development curriculum for noobs](https://github.com/KnowRe/WebDevCurriculum)
@@ -122,7 +123,7 @@ Web
 * [A roadmap to becoming a web developer in 2017](https://medium.freecodecamp.com/a-roadmap-to-becoming-a-web-developer-in-2017-b6ac3dddd0cf)
 * [Roadmap to becoming a web developer in 2017](https://github.com/kamranahmedse/developer-roadmap/blob/master/README.md)
 * [**Roadmap to becoming a web developer in 2018**](https://github.com/kamranahmedse/developer-roadmap)
-  * [2018년 웹 개발자가 되기 위한 로드맵 (번역)](https://github.com/devJang/developer-roadmap)
+  * [developer-roadmap: 2020년 웹 개발자가 되기 위한 로드맵](https://github.com/devJang/developer-roadmap)
 * [The 2018 Web Developer Roadmap](https://codeburst.io/the-2018-web-developer-roadmap-826b1b806e8d)
 * [The 2018 Roadmap To FullStack Web Development](https://medium.com/codingthesmartway-com-blog/the-2018-roadmap-to-fullstack-web-development-8884ff02557a)
 * [How to Learn Fullstack Development: A Roadmap in Charts](https://medium.com/@dtkatz/how-to-learn-fullstack-development-a-roadmap-in-charts-9b9e4aac400f)
@@ -821,7 +822,9 @@ Web
   * [Timing HTTP Requests with cURL](https://overloaded.io/timing-http-requests-curl)
   * [Simple HTTP benchmark with curl](http://blog.berezovsky.me/2012/09/simple-http-benchmark-with-curl.html)
 * [cryload - HTTP benchmarking tool written in Crystal](https://github.com/Sdogruyol/cryload)
-* Lighthouse [How to analyze website performance with Lighthouse Audit website performance manually, programmatically, or automatically](https://medium.freecodecamp.org/three-ways-to-analyze-website-performance-with-lighthouse-8d100966c04b)
+* Lighthouse
+  * [How to analyze website performance with Lighthouse Audit website performance manually, programmatically, or automatically](https://medium.freecodecamp.org/three-ways-to-analyze-website-performance-with-lighthouse-8d100966c04b)
+  * [web-performance-test: lighthouse 자동화 스크립트](https://github.com/sangheon-kim/web-performance-test)
 * [wrk - a HTTP benchmarking tool](https://github.com/wg/wrk)
   * installation `make`; worked on Redhat 6.6/7.2
   * [Script Lua to work better with wrk](https://github.com/timotta/wrk-scripts)
