@@ -415,6 +415,7 @@ Functional Programming
 * [Programming with Functions #1 - Introduction - YouTube](https://www.youtube.com/watch?v=FNQ7OsCSpc8)
 * [Programming with Functions #2 - Functions as Data - YouTube](https://www.youtube.com/watch?v=RX1_EJp9Vxk)
 * [FunctionalTV - YouTube](https://www.youtube.com/user/FunctionalTV/videos)
+* [Scale By The Bay 2020: Justin Heyes-Jones, Applicative: The Origin Story - YouTube](https://www.youtube.com/watch?v=63QNPU1S1sU)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
