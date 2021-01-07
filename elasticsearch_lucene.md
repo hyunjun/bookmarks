@@ -300,6 +300,7 @@ ElasticSearch - Lucene
 * [Elasticsearch 자동완성 구현하기 – 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=1101)
 * [Elasticsearch의 언어 식별 기능을 사용하여 다국어 검색 | Elastic Blog](https://www.elastic.co/kr/blog/multilingual-search-using-language-identification-in-elasticsearch)
 * [Ingest PipeLine 설정을 통한 데이터 전처리 - 다나와 기술블로그](https://danawalab.github.io/elastic/2020/09/04/ElasticSearch-IngestPipeLine.html)
+* [Technical deep dive into Elastic Agent + Ingest Manager - July 30, 2020 Elastic Meetup - YouTube](https://www.youtube.com/watch?v=hUD0isIni5M)
 * [Experience working with 600+TB ElasticSearch cluster | by Guillaume Dauvin | Botify Labs | Oct, 2020 | Medium](https://medium.com/botify-labs/experience-working-with-600-tb-elasticsearch-cluster-b6b5a4fa9127)
 * [컨퍼런스 발표 - YouTube](https://www.youtube.com/playlist?list=PLhFRZgJc2afqkp5aJxMiQhTOZYUa7ITQv)
 
