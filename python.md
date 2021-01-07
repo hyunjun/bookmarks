@@ -396,6 +396,7 @@ Python
   * ['파이썬-아래아한글 자동화 응용' 카테고리의 글 목록](https://www.martinii.fun/category/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%84%EB%9E%98%EC%95%84%ED%95%9C%EA%B8%80%20%EC%9E%90%EB%8F%99%ED%99%94%20%EC%9D%91%EC%9A%A9)
   * ['파이썬-아래아한글 자동화 기초' 카테고리의 글 목록](https://employeecoding.tistory.com/category/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%84%EB%9E%98%EC%95%84%ED%95%9C%EA%B8%80%20%EC%9E%90%EB%8F%99%ED%99%94%20%EA%B8%B0%EC%B4%88)
   * ['파이썬-아래아한글 자동화 응용' 카테고리의 글 목록](https://employeecoding.tistory.com/category/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%95%84%EB%9E%98%EC%95%84%ED%95%9C%EA%B8%80%20%EC%9E%90%EB%8F%99%ED%99%94%20%EC%9D%91%EC%9A%A9)
+  * [HWP여백조정 후 이미지 너비/높이를 폭에 맞게 일괄조정하는 방법](https://www.martinii.fun/entry/HWP%EC%97%AC%EB%B0%B1%EC%A1%B0%EC%A0%95-%ED%9B%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%84%88%EB%B9%84%EB%86%92%EC%9D%B4%EB%A5%BC-%ED%8F%AD%EC%97%90-%EB%A7%9E%EA%B2%8C-%EC%9D%BC%EA%B4%84%EC%A1%B0%EC%A0%95%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
   * [pyhwp - .hwp file format v5 parser in python http://pythonhosted.org/pyhwp ](https://github.com/mete0r/pyhwp)
 * [파이썬으로 한컴오피스 한글2018 조작하는 방법6 : html table태그를 아래한글 표로 옮기기](https://www.youtube.com/watch?v=zMW1Mb_0QWo)
 * [모든 프로그래밍 요구를 충족하는 12가지 파이썬](http://www.itworld.co.kr/news/132322) 여러가지 배포판 이야기
