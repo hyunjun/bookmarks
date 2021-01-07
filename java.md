@@ -1295,6 +1295,7 @@ Java
 * [(2020.12.16) 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 최신 코드로 변경하기](https://jojoldu.tistory.com/539) gradle, junit, JPA
 * [스프링부트 무료 호스팅 사용하기 - YouTube](https://www.youtube.com/watch?v=lWUIicugz6c)
 * [리액티브 스프링5 따라하기 - YouTube](https://www.youtube.com/watch?v=d3_qXOdxl1E)
+* [딱 10분만에 RESTful 서비스 개발하기 (feat. SpringBoot) - YouTube](https://www.youtube.com/watch?v=4pDrRvhUjiQ)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
