@@ -331,6 +331,7 @@ Web
 * [파이썬 웹 크롤링(2): 데이터 파싱 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/programming/py-crawling02/)
 * [파이썬 웹 크롤링(3): 본격적인 크롤링 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/programming/py-crawling03/)
 * [파이썬 웹 크롤링(4): API 활용하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/programming/py-crawling04/)
+* [Transfermarkt 크롤링 & 데이터분석 : BeautifulSoup, Pandas 실습 - YouTube](https://www.youtube.com/playlist?list=PL13IrJom4GzssqejzOqR2S0OukBIyufjy)
 * [AutoCrawler - Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)](https://github.com/YoongiKim/AutoCrawler)
 * [**Beautiful Soup**](http://www.crummy.com/software/BeautifulSoup/)
   * [practice - beautiful soup](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
