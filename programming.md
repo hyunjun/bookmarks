@@ -449,6 +449,7 @@ Programming
 * [APIs for Beginners - Learn how to use APIs in this free video course](https://www.freecodecamp.org/news/apis-for-beginners-full-course/)
 * [Elle Townsend | My 5 favourite APIs | The Startup](https://medium.com/swlh/my-top-5-apis-for-new-developers-5191031da102)
 * [A Seven-Step Guide to API-First Integration](https://www.infoq.com/articles/api-first-integration/)
+* [Scale By The Bay 2020: Steve Cosenza, Rebuilding Twitter’s public API - YouTube](https://www.youtube.com/watch?v=bhe3YDbn5RY)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
 * [KAKAO REST API](https://developer-ankiwoong.tistory.com/748)
@@ -961,6 +962,7 @@ Programming
 * [Python Microservices Web App (with React, Django, Flask) - Full Course - YouTube](https://www.youtube.com/watch?v=0iB5IPoTDts)
 * [A Design Analysis of Cloud-based Microservices Architecture at Netflix | by Cao Duc Nguyen | The Startup | Medium](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f)
 * [Scale By The Bay 2020: Brecht De Rooms, How Micro-Service Patterns Change When the Database Scalable - YouTube](https://www.youtube.com/watch?v=cL0XIpek-4I)
+* [Scale By The Bay 2020: Panel: Were Microservices a Huge Mistake? - YouTube](https://www.youtube.com/watch?v=YgOOTL5Z-CI) 토론
 * [Edgar: Solving Mysteries Faster with Observability | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
   * [Building Netflix’s Distributed Tracing Infrastructure | by Netflix Technology Blog | Oct, 2020 | Netflix TechBlog](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
 * [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
