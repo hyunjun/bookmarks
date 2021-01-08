@@ -279,6 +279,7 @@ Scala
 * [Joe Warren - 4 Ways to Make Change in Scala](http://www.doscienceto.it/blog/posts/2020-09-16-change.html)
 * [10 LESSONS LEARNED FROM USING KAFKA IN 1000 SCALA MICROSERVICES - Natan Silnitsky | Scalar 2020 - YouTube](https://www.youtube.com/watch?v=1dRXXV6pNRU)
 * [3 Tricks with Call-by-Name in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=4DrjlJbblkQ)
+* [**Concurrent state machines**](https://www.inner-product.com/posts/concurrent-state-machines/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1241,6 +1242,8 @@ Scala
 * [Toggle4s - Feature toggle managing service with etcd backend](https://medium.com/@itseranga/toggl4s-feature-toggle-service-with-etcd-backend-77e146e0fc32)
 * [Torque is now Scala - Fast, simple and secure](https://stellite.cash/)
 * [Wayeb: Wayeb is a Complex Event Processing and Forecasting (CEP/F) engine written in Scala.](https://github.com/ElAlev/Wayeb)
+* [wire-signals: A small and effective event-handling library for Scala](https://github.com/wireapp/wire-signals) reactive
+  * [Wire Signals - Yet Another Event Streams Library - YouTube](https://www.youtube.com/watch?v=IgKjd_fhM0M)
 
 ## Library Build
 * [A quick tour of build tools in Scala](https://manuel.bernhardt.io/2018/04/19/quick-tour-build-tools-scala/)
@@ -1571,6 +1574,7 @@ Scala
 * [Scala 3 Migration guide · An evolving guide to support the migration to Scala 3](https://scalacenter.github.io/scala-3-migration-guide/)
 * [GOTO 2020 • Kotlin 4 vs. Scala 3 • Garth Gilmour & Eamonn Boyle](https://www.youtube.com/watch?v=sIL4mduqHe0)
 * [Starting with Scala 3 macros: a short tutorial](https://blog.softwaremill.com/starting-with-scala-3-macros-a-short-tutorial-88e9d2b2584c)
+* [Publish Scala 2 and Scala 3 macros together · MUnit](https://scalameta.org/munit/blog/2021/01/05/macromix.html)
 * [IMPORT SUGGESTIONS IN SCALA 3](https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html)
 * [Announcing the Moving from Scala 2 to Scala 3 course – Lunatech](https://www.lunatech.com/2020/06/announcing-the-moving-from-scala-2-to-scala-3-course/)
   * [lunatech-scala-2-to-scala3-course/exercises](https://github.com/lunatech-labs/lunatech-scala-2-to-scala3-course/tree/exercises-master/exercises)
@@ -1585,13 +1589,14 @@ Scala
 * [Forward Compatibility for the Scala 3 Transition | The Scala Programming Language](https://scala-lang.org/blog/2020/11/19/scala-3-forward-compat.html)
 * [Mirror, Mirror on the Wall, Who’s the Genericioust of Them All? - Generic Programming with Scala 3 - Philipp Martini](https://blog.philipp-martini.de/blog/magic-mirror-scala3/)
 * [What’s New in Scala 3?. A new compiler, creator applications… | by Akash Srivastava | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/whats-new-in-scala-3-586d69879253)
-* [Scala 3: Path-Dependent Types, Type Projections, Dependent Methods and Functions - Rock the JVM Blog](https://blog.rockthejvm.com/scala-3-dependent-types/)
 * [Quill, Dotty, And The Awesome Power of 'Inline' by Alexander Ioffe - YouTube](https://www.youtube.com/watch?v=SmBpGkIsJIU)
 * [Ep 1: Scala 3 Enums, Implicits, and Context Functions - YouTube](https://www.youtube.com/watch?v=J01u_Dmrx5U)
 * [Ep 2: Type classes with Scala 2 - YouTube](https://www.youtube.com/watch?v=pJFfXhZlR5o)
 * [Ep 3: Evaluating our Numeric Type class - YouTube](https://www.youtube.com/watch?v=56Xj-5kCEm0)
 * [Ep 4: Scala 3 type classes - YouTube](https://www.youtube.com/watch?v=B2mTHpxw9JI)
+* [Scala 3: Path-Dependent Types, Type Projections, Dependent Methods and Functions - Rock the JVM Blog](https://blog.rockthejvm.com/scala-3-dependent-types/)
 * [Implementing Type classes in Scala 3 | by ayush mittal | Dec, 2020 | Medium](https://ayushm4489.medium.com/implementing-type-classes-in-scala-3-13c5ab38b91d)
+* [Scala 3: Dependent Types, Part I. Scala 3 expands on the type-level… | by Dean Wampler | Scala 3 | Jan, 2021 | Medium](https://medium.com/scala-3/scala-3-dependent-types-part-i-273e9076e8f8)
 * [Scala 3 Metaprogramming by Example by Adam Warski - YouTube](https://www.youtube.com/watch?v=leIB5tvDY64)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
