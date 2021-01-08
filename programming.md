@@ -960,6 +960,7 @@ Programming
 * [우아콘2020 배달의민족 마이크로서비스 여행기 - YouTube](https://www.youtube.com/watch?v=BnS6343GTkY) 좋은 발표지만 발표 후 며칠만에 장애가 발생해서 좋은 발표가 무색해짐
 * [Python Microservices Web App (with React, Django, Flask) - Full Course - YouTube](https://www.youtube.com/watch?v=0iB5IPoTDts)
 * [A Design Analysis of Cloud-based Microservices Architecture at Netflix | by Cao Duc Nguyen | The Startup | Medium](https://medium.com/swlh/a-design-analysis-of-cloud-based-microservices-architecture-at-netflix-98836b2da45f)
+* [Scale By The Bay 2020: Brecht De Rooms, How Micro-Service Patterns Change When the Database Scalable - YouTube](https://www.youtube.com/watch?v=cL0XIpek-4I)
 * [Edgar: Solving Mysteries Faster with Observability | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
   * [Building Netflix’s Distributed Tracing Infrastructure | by Netflix Technology Blog | Oct, 2020 | Netflix TechBlog](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
 * [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
