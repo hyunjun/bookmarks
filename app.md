@@ -1097,7 +1097,12 @@ App
 * [VPaint - A glimpse into the future of Vector Graphics and 2D Animation](http://www.vpaint.org/)
 * [vrew.voyagerx.com](https://vrew.voyagerx.com)
   * [Vrew의 Web 기술 - VoyagerX](https://v6x.github.io/2020/06/04/vrew-web-tech.html)
-* [youtube-dl - Command-line program to download videos from YouTube.com and other video sites http://ytdl-org.github.io/youtube-dl ](https://github.com/ytdl-org/youtube-dl)
+* [**youtube-dl - Command-line program to download videos from YouTube.com and other video sites http://ytdl-org.github.io/youtube-dl **](https://github.com/ytdl-org/youtube-dl)
+
+  ```
+  youtube-dl <link id> -F
+  youtube-dl <link id> -f <video format number>+<audio format number> -k
+  ```
   * [How to select video quality from youtube-dl?](https://askubuntu.com/questions/486297/how-to-select-video-quality-from-youtube-dl)
   * [유튜브(youtube) 동영상을 다운로드 하는 프로그램 youtube-dl 소개](http://www.sysnet.pe.kr/0/0/488)
   * [github/dmca at 416da574ec0df3388f652e44f7fe71b1e3a4701f](https://github.com/github/dmca/tree/416da574ec0df3388f652e44f7fe71b1e3a4701f)
