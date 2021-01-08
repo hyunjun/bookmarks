@@ -948,6 +948,7 @@ AWS
 * [Amazon SageMaker Operators for Kubernetes—examples for distributed training, hyperparameter tuning and model hosting](https://towardsdatascience.com/kubernetes-and-amazon-sagemaker-for-machine-learning-distributed-training-hyperparameter-tuning-187c821e25b4)
 * [Sagemaker Github Actions - YouTube](https://www.youtube.com/watch?v=SjqPeL4QJao)
 * [Introducing SageMaker Data Parallelism - AWS re:Invent 2020 - YouTube](https://www.youtube.com/watch?v=qS4VgHocAGQ)
+* [Scale By The Bay 2020: Antje Barth, Put Your Machine Learning on Autopilot - YouTube](https://www.youtube.com/watch?v=IBE6MdiyKlY)
 
 # TDD, Test
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
