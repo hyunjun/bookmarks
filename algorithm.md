@@ -214,6 +214,7 @@ Algorithm
 * [알고리즘 - 부경대학교 | KOCW 공개 강의](http://www.kocw.net/home/search/kemView.do?kemId=1148815)
 * [정점 분할 : 노드를 상태에 따라 여러 개로 쪼갠다](https://codingdog.tistory.com/entry/%EC%A0%95%EC%A0%90-%EB%B6%84%ED%95%A0-%EB%85%B8%EB%93%9C%EB%A5%BC-%EC%83%81%ED%83%9C%EC%97%90-%EB%94%B0%EB%9D%BC-%EC%97%AC%EB%9F%AC-%EA%B0%9C%EB%A1%9C-%EC%AA%BC%EA%B0%A0%EB%8B%A4)
 * [많이 언급되는 오프라인 쿼리 간단하게 훑어봅시다](https://codingdog.tistory.com/entry/%EB%A7%8E%EC%9D%B4-%EC%96%B8%EA%B8%89%EB%90%98%EB%8A%94-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%BF%BC%EB%A6%AC-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%ED%9B%91%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4)
+* [BaaaaaaaarkingDog | '강좌/실전 알고리즘' 카테고리의 글 목록](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
