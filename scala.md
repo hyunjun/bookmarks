@@ -1599,6 +1599,7 @@ Scala
 * [Implementing Type classes in Scala 3 | by ayush mittal | Dec, 2020 | Medium](https://ayushm4489.medium.com/implementing-type-classes-in-scala-3-13c5ab38b91d)
 * [Scala 3: Dependent Types, Part I. Scala 3 expands on the type-level… | by Dean Wampler | Scala 3 | Jan, 2021 | Medium](https://medium.com/scala-3/scala-3-dependent-types-part-i-273e9076e8f8)
 * [Scala 3 Metaprogramming by Example by Adam Warski - YouTube](https://www.youtube.com/watch?v=leIB5tvDY64)
+* [Scale By The Bay 2020: Robert J. Neal, A Reinforcement Learning Framework in Scala 3 - YouTube](https://www.youtube.com/watch?v=neYTpeKbGBE)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
