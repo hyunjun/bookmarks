@@ -881,6 +881,7 @@ Docker
 * [Kubernetes Cluster on Rhel7 설치 2](https://naleejang.tistory.com/236)
 * [**Kubernetes를 이용한 효율적인 데이터 엔지니어링(Airflow on Kubernetes VS Airflow Kubernetes Executor) - 1 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/data-engineering-with-airflow-k8s-1/)
 * [**Kubernetes를 이용한 효율적인 데이터 엔지니어링(Airflow on Kubernetes VS Airflow Kubernetes Executor) - 2 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/data-engineering-with-airflow-k8s-2/)
+* [Scale By The Bay 2020: Nolan Grace, Cloudflow: Spark, Flink, and Akka Working together on Kubernetes - YouTube](https://www.youtube.com/watch?v=XOBb7bLS3Q8)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
