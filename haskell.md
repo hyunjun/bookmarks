@@ -287,6 +287,7 @@ Haskell
 * [Competitive programming in Haskell: data representation and optimization, with cake | blog :: Brent -> String](https://byorgey.wordpress.com/2020/06/29/competitive-programming-in-haskell-data-representation-and-optimization-with-cake/)
 * [하스켈의 관습들](https://gist.github.com/nattybear/f01f1d0e62490aaf2ab02b4ec32189f4)
 * [Lexer.hs at main · KiJeong-Lim/scripts](https://github.com/KiJeong-Lim/scripts/blob/main/src/Aladdin/Front/Analyzer/Lexer.hs)
+* [Scale By The Bay 2020: Ryan Orendorff & Daniel Hensley, Programming machine learning algorithms... - YouTube](https://www.youtube.com/watch?v=IYLZKh8uIQ4)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
