@@ -1905,6 +1905,8 @@ Deep Learning
 * [Neural Networks from Scratch in Python - YouTube](https://www.youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3)
 * [DeepCreamPy - Decensoring Hentai with Deep Neural Networks](https://github.com/deeppomf/DeepCreamPy)
 * [neat-python](https://pypi.python.org/pypi/neat-python/) A NEAT (NeuroEvolution of Augmenting Topologies) implementation
+  * [NEAT-Python documentation](https://neat-python.readthedocs.io/)
+  * [The NEAT Algorithm is Neat - YouTube](https://www.youtube.com/watch?v=ZC0gMhYhwW0)
 * [neon Fast, scalable, easy-to-use Python based Deep Learning Framework by Nervana™ http://neon.nervanasys.com ](https://github.com/NervanaSystems/neon)
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
