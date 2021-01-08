@@ -1893,6 +1893,7 @@ Scala
   * 일반적인 Spring 웹 애플리케이션에 함수형 프로그래밍을 에러 처리, IO 처리, 클린 아키텍처를 실용적으로 적용한 예제
 * [Scala Knowledge Bits Archives - Leo Benkel](https://leobenkel.com/category/scala/knowledge-bits/)
 * [SF Scala: Getting Things Done in the Scala REPL by Li Haoyi - YouTube](https://www.youtube.com/watch?v=RLPAf5LDeS4)
+* [Scale By The Bay 2020: Li Haoyi, Getting Things Done in the Scala REPL - YouTube](https://www.youtube.com/watch?v=iFJOG-phQoQ)
 * [Interactive Programming in the Scala REPL by Haoyi Li at Scala in the City - YouTube](https://www.youtube.com/watch?v=9yD_0nlALGM)
 * [Learning Scala — 8 DON’Ts and 7 DOs | by Annette | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/learning-scala-8-donts-and-7-dos-c9d1eac33e2c)
 * [Introduction | Hello, Scala tutorial](https://hello-scala.com/)
