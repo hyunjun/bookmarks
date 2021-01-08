@@ -480,6 +480,7 @@ Haskell
 * [Types vs. datatypes vs. typeclasses in Haskell](https://jesseevers.com/haskell-types/)
 * [Basic Type Level Programming in Haskell](https://www.parsonsmatt.org/2017/04/26/basic_type_level_programming_in_haskell.html)
 * [Haskell’s Type Families](https://web.facebook.com/notes/%ED%95%98%EC%8A%A4%EC%BC%88-%ED%95%99%EA%B5%90/haskells-type-families/2645916715429823/)
+* [Learning TypeFamilies Together! - YouTube](https://www.youtube.com/watch?v=l13D-CcwM5A)
 * [Typeable — A long journey to type-safe dynamic type representation (Part 1)](https://medium.com/@hgiasac/typeable-a-long-journey-to-type-safe-dynamic-type-representation-9070eac2cf8b)
 * [Typeable — A long journey to type-safe dynamic type representation (Part 2)](https://medium.com/@hgiasac/typeable-a-long-journey-to-type-safe-dynamic-type-representation-part-2-954b52bfa9fa)
 * [Typeable — A long journey to type-safe dynamic type representation (Part 3)](https://medium.com/@hgiasac/typeable-a-long-journey-to-type-safe-dynamic-type-representation-part-3-80a2a34329dd)
