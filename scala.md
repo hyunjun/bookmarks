@@ -1178,6 +1178,7 @@ Scala
   * [Reusable pre-commit hooks in Scala projects](https://blog.softwaremill.com/reusable-pre-commit-hooks-in-scala-projects-d8bb327047ee)
   * [Git hooks in Scala projects — the easy way!](https://blog.softwaremill.com/git-hooks-in-scala-projects-the-easy-way-cfca02741d33)
 * [ScalaPy - Use Python libraries from the comfort of Scala | ScalaPy](https://scalapy.dev/)
+  * [Scale By The Bay 2020: Shadaj Laddad, Data Science in Scala with ScalaPy - YouTube](https://www.youtube.com/watch?v=hnlE9JQERjI)
 * [ScalaReplDocCommands: Commands to see Scaladoc and source code in the Scala REPL](https://github.com/alvinj/ScalaReplDocCommands)
   * [Showing Scaladoc and source code in the Scala REPL | alvinalexander.com](https://alvinalexander.com/scala/show-scaladoc-source-code-in-scala-repl/)
 * [scala steward - A robot that helps you keeping your Scala projects up-to-date](https://github.com/fthomas/scala-steward)
