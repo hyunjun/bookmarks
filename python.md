@@ -780,6 +780,7 @@ Python
   * [heapsy: Python Heap Tracer](https://github.com/Ashon/heapsy)
     * [Prometheus와 Python GC 모듈을 이용해 동작중인 애플리케이션의 힙 사용량 측정해 본 이야기 | Lifestack](https://ashon.github.io/blog/2020/08/24/python-heap-exporter.html)
 * generator
+  * [practice - read chars from list of string](https://github.com/hyunjun/practice/blob/master/python/problem-string/check_if_two_string_arrays_are_equivalent.py#L53-L58)
   * [Extending Python’s generators to support mainloops](http://chromano.me/2015/10/02/python-mainloop-generators.html)
   * [파이썬 - 제너레이터 (Generator)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A0%9C%EB%84%88%EB%A0%88%EC%9D%B4%ED%84%B0-generator/)
   * [파이썬의 제너레이터와 이터레이터](http://haerakai.tistory.com/34)
