@@ -853,6 +853,7 @@ Linux
   * [kkamagui의 작업실 :: i3wm 윈도우 매니저에서 플로팅 윈도우(Floating Window) 생성하기](https://kkamagui.tistory.com/929)
   * [kkamagui의 작업실 :: xrandr로 화면 배열 변경 및 밝기 변경하기](https://kkamagui.tistory.com/930)
   * [kkamagui의 작업실 :: 리눅스용 간단한 볼륨 컨트롤 Pulseaudio Volume Control 설치하기](https://kkamagui.tistory.com/931)
+  * [kkamagui의 작업실 :: i3wm 윈도우 매니저에서 배경 이미지 설정하기](https://kkamagui.tistory.com/934)
 * [ICgrep: The fastest way to search text to find the patterns](http://icgrep.com/)
 * Inotify
   * [Inotify: Efficient, Real-Time Linux File System Event Monitoring](https://www.infoq.com/articles/inotify-linux-file-system-event-monitoring)
