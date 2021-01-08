@@ -729,6 +729,7 @@ NLP
 * 소설 작가 분류 AI 경진대회
   * [Baseline + 1D CNN - DACON](https://dacon.io/codeshare/1772)
   * [Baseline + Bidirectional LSTM - DACON](https://dacon.io/codeshare/1771)
+* [How-to Build a Transformer for Language Classification in TensorFlow](https://morioh.com/p/c34b27962135)
 
 # Clustering
 * dbscan
