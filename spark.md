@@ -30,6 +30,7 @@
   * [**Part 2. Spark의 메모리 관리(1)**](https://medium.com/@leeyh0216/spark-internal-part-2-spark%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-1-c18e39af942e)
   * [**Part 2. Spark의 메모리 관리(2)**](https://medium.com/@leeyh0216/spark-internal-part-2-spark%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-2-db1975b74d2f)
   * [Spark Internal Part 3. Spark SQL’s Catalyst Optimizer](https://medium.com/@leeyh0216/spark-sql-6dc3d645cc31)
+* [52. Apache Spark Internal architecture jobs stages and tasks || Spark Cluster Architecture Explained - YouTube](https://www.youtube.com/watch?v=hBc9Y0EA3_4)
 * [pubdata.tistory.com/category/Lecture_SPARK](http://pubdata.tistory.com/category/Lecture_SPARK)
 * [Apache Spark - Executive Summary](https://www.linkedin.com/pulse/apache-spark-executive-summary-alan-brown)
 * [Teach yourself Apache Spark – Guide for nerds!](https://www.linkedin.com/pulse/teach-yourself-apache-spark-guide-nerds-shrinath-parikh)
