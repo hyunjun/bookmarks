@@ -293,6 +293,7 @@ Deep Learning
   * [딥러닝연구실](http://whydsp.org/m/post?categoryId=525022) 과거 자료
 * [What My Deep Model Doesn't Know](http://mlg.eng.cam.ac.uk/yarin/blog_3d801aa532c1ce.html)
 * [Train your deep model faster and sharper — two novel techniques](https://hackernoon.com/training-your-deep-model-faster-and-sharper-e85076c3b047) training 속도 단축 방법
+* [tobigs-gm1 ( 생성모델쟁이) / 시리즈- velog](https://velog.io/@tobigs-gm1/series)
 * [Deep Learning with Eigenvalue Decay Regularizer](https://www.researchgate.net/publication/301648136_Deep_Learning_with_Eigenvalue_Decay_Regularizer)
 * [Eigenfaces](https://github.com/ml4a/ml4a-guides/blob/master/notebooks/Eigenfaces.ipynb)
 * [Deep Network with Stochastic Depth](https://www.evernote.com/shard/s462/sh/2de09526-e8fe-48d9-90da-9baa356d5e1a/7a4259299b26c41d60e05e894dbbc2fa)
