@@ -1095,6 +1095,8 @@ Java
 * [Spring Project 스프링 프로젝트 시작하기 - Spring MVC 사용하기](https://woolbro.tistory.com/38)
 * [Spring Project 스프링 프로젝트 시작하기 - JDBC, mysql, mybatis (1)](https://woolbro.tistory.com/39)
 * [Spring Project 스프링 프로젝트 시작하기 - JDBC, mysql, mybatis (2)](https://woolbro.tistory.com/40)
+* [Spring JDBC](https://okdevtv.com/mib/spring/jdbc)
+  * [IntelliJ MySQL을 JPA로 연결하기 - YouTube](https://www.youtube.com/watch?v=JvRTf-zeLeE)
 * [mybatis $ # 차이를 알아봅시다](https://codingdog.tistory.com/entry/mybatis-%EC%B0%A8%EC%9D%B4%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [스프링부트 - MyBatis 실전 프로그래밍 - YouTube](https://www.youtube.com/watch?v=4YOk7oLGTKI)
 * [11. Spring - Mybatis Interceptor로 파라미터 자동암호화 / select 쿼리 자동복호화및 쿼리 로그추출하기](https://kim-jong-hyun.tistory.com/23)
