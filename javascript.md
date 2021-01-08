@@ -1991,6 +1991,7 @@ Javascript
   * [Deno: Create Your First Web Application in Oak | by Miroslav Pillar | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/deno-create-your-first-web-application-in-oak-884868f8b30e)
   * [Deno Introduction with Practical Examples](https://www.infoq.com/articles/deno-introduction-practical-examples/)
   * [Deno 1.5 Sees 3x Bundling Performance Improvement Due to Rust-Based JavaScript/TypeScript Compiler](https://www.infoq.com/news/2020/11/deno-15-released/)
+  * [Deno, a Secure Runtime for JavaScript and TypeScript - YouTube](https://www.youtube.com/watch?v=428ejtNbd5A)
   * [Aleph.js](https://alephjs.org/)
     * [Server-Rendered Web Applications in Deno with Aleph.js](https://www.infoq.com/news/2020/11/aleph-deno-web-app-nextJS/)
   * [Deno-To-Do: ✅ To-Do App made with Deno, React.js & MongoDB](https://github.com/GoldenMaximo/Deno-To-Do)
