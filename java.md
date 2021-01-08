@@ -1340,6 +1340,7 @@ Java
   * [Vert.x: Understanding Core Concepts](https://hackernoon.com/vert-x-understanding-core-concepts-1529917658b3)
   * [How to set up Vertx in Spring](https://medium.freecodecamp.org/vertx-in-spring-39c2dd7bc2a9)
   * [An introduction to Vert.x, the fastest Java framework today](https://medium.freecodecamp.org/an-introduction-to-vert-x-the-fastest-java-framework-today-27d8661ceb14)
+  * [Scale By The Bay 2020: Mary Grygleski, Deploying a Modern Serverless Reactive Container to the Cloud - YouTube](https://www.youtube.com/watch?v=Po_YQnH-e9I)
 
 # Serialization
 * [The Java Deserialization Bug](http://fishbowl.pastiche.org/2015/11/09/java_serialization_bug/)
