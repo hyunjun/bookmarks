@@ -1006,6 +1006,7 @@ NLP
   * [Approximate Nearest Neighbors](https://brunch.co.kr/@goodvc78/15)
 * [Document Clustering with Python](http://brandonrose.org/clustering)
 * [Mining English and Korean text with Python](http://www.lucypark.kr/courses/2015-ba/text-mining.html)
+* [ecco: Visuals and explore NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2)](https://github.com/jalammar/ecco)
 * [Ekphrasis - a text processing tool, geared towards text from social networks, such as Twitter or Facebook. Ekphrasis performs tokenization, word normalization, word segmentation (for splitting hashtags) and spell correction](https://github.com/cbaziotis/ekphrasis)
 * [Emoji for Python](https://github.com/carpedm20/emoji)
   * [A Python script to check if a character is or a text contains emoji](https://gist.github.com/jezdez/0185e35704dbdf3c880f)
