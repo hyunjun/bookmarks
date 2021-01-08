@@ -322,6 +322,7 @@ Data Science
 * [Almost Everything You Need To Know on Data Discovery Platforms](https://eugeneyan.com/writing/data-discovery-platforms/)
 * [**Back To The Future: Data Engineering Trends 2020 & Beyond - Data Engineering Weekly**](https://www.dataengineeringweekly.com/p/back-to-the-future-data-engineering) Data Infrastructure, Data Architecture, Data Management를 주제로 여러가지 좋은 글 link 모음
 * [What Is Data Engineering and Is It Right for You? – Real Python](https://realpython.com/python-data-engineer/) realpython post지만 python이 아니라 general한 글
+* [Data Experience Report 모음](https://brunch.co.kr/@mapmatters/51)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
