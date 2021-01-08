@@ -1346,6 +1346,7 @@ Scala
   * [Data Juggling - Part 2 - Homegrown #Lenses (#Monocle - Part 1)](https://www.youtube.com/watch?v=rFixov5KOps)
   * [Data Juggling - Part 3 - Optics Explained (#Monocle - Part 2)](https://www.youtube.com/watch?v=18ss7LpAKWE)
   * [Data Juggling - Part 4 - #Quicklens (#Monocle - Part 3)](https://www.youtube.com/watch?v=1qHJ0H-2iOw)
+  * [Scale By The Bay 2020: Julien Truffaut, Monocle 3: a peek into the future - YouTube](https://www.youtube.com/watch?v=rT3tNV0xfbE)
 
 ## Library Web
 * [8 Frameworks to Build A Web API In Scala](https://nordicapis.com/8-frameworks-to-build-a-web-api-in-scala/)
