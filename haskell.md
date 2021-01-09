@@ -289,6 +289,7 @@ Haskell
 * [Lexer.hs at main · KiJeong-Lim/scripts](https://github.com/KiJeong-Lim/scripts/blob/main/src/Aladdin/Front/Analyzer/Lexer.hs)
 * [Scale By The Bay 2020: Ryan Orendorff & Daniel Hensley, Programming machine learning algorithms... - YouTube](https://www.youtube.com/watch?v=IYLZKh8uIQ4)
 * [Scale By The Bay 2020: Yves Parès, Reproducible Data Pipelines Using Controlled Effects - YouTube](https://www.youtube.com/watch?v=BVZBXz_wjP0)
+* [Counting Bits with Haskell (The Bad and the Good Way™️) - YouTube](https://www.youtube.com/watch?v=drYFAEzKJOE)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
