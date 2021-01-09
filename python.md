@@ -2621,6 +2621,7 @@ Python
 * [Top 10 Python Tools for IT Administrators ActiveState ActiveState](https://www.activestate.com/blog/top-10-python-tools-for-it-administrators/)
 * [The Top 10 Most Downloaded Python Packages By Developers | by Sunil Sandhu | Python In Plain English | Nov, 2020 | Medium](https://medium.com/python-in-plain-english/the-top-10-python-packages-most-used-by-developers-80807d68466e) Urllib3, Six, Botocore, Pip, Python-dateutil, Requests, Certifi, Idna, Pyasn1
 * [Top 16 Python Applications in Real-World | by Claire D. Costa | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/top-16-python-applications-in-real-world-a0404111ac23)
+* [10 examples of using Python in 2020 | Opensource.com](https://opensource.com/article/20/12/python)
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
@@ -2858,6 +2859,7 @@ Python
 * [High-Frequency-Trading-Model-with-IB - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB)
   * [Accompanying source codes for my book 'Mastering Python for Finance'](https://github.com/jamesmawm/Mastering-Python-for-Finance-source-codes)
 * [highlander - There can be only one... process](https://github.com/chriscannon/highlander)
+* [horrifying-pdf-experiments: Stuff which works in Chrome and maybe Acrobat and Foxit.](https://github.com/osnr/horrifying-pdf-experiments)
 * [howdoi - 파이썬 유틸 howdoi 분석](http://www.jinniahn.com/2016/09/howdoi.html)
 * [htsint: a Python library for sequencing pipelines that combines data through gene set generation](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0729-3)
 * [HTTPie: a CLI, cURL-like tool for humans](https://github.com/jkbrzt/httpie)
@@ -3132,6 +3134,7 @@ Python
 * [tqdm](https://pypi.python.org/pypi/tqdm) A Fast, Extensible Progress Meter (progress bar)
   * [파이썬 상태바 라이브러리, tqdm 알아보기](https://tariat.tistory.com/421)
   * [A Demo of tqdm](https://www.youtube.com/watch?v=TGxP5N7nG0I)
+  * [Show progress in your Python apps with tqdm | Opensource.com](https://opensource.com/article/20/12/tqdm-python)
 * [Tesseract-OCR](https://github.com/tesseract-ocr/)
   * [문자인식 오픈소스 Tesseract-OCR, python wrapper tesserocr 설치](https://blog.naver.com/pgh7092/221099597471)
   * [파이썬 Python 코딩 #14 - tesseract OCR 이미지에서 텍스트 추출 - YouTube](https://www.youtube.com/watch?v=rNxMwtottmM)
@@ -3388,6 +3391,7 @@ Python
 * [Wei Lee - Python Table Manners: Cut the Cookie Gracefully - YouTube](https://www.youtube.com/watch?v=m6rF3Kah928)
 * [Our Python Monorepo. At Opendoor we started putting all our… | by Dan Hipschman | Open House | Medium](https://medium.com/opendoor-labs/our-python-monorepo-d34028f2b6fa)
 * [Publishing Well Formed Python Packages - Julin Shaji - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=XFGXCK6HZbk)
+* [Virtual Environments Demystified | Lukas Waymann](https://meribold.org/python/2018/02/13/virtual-environments-9487/) 임의로 가상 환경 구성
 * [ezpypi: Very simple and easy to use pip on any os](https://github.com/dlehdgud2380/ezpypi)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
   * [Pex를 이용한 배포](https://b.luavis.kr/python/deploy-with-pex)
@@ -4235,6 +4239,7 @@ Python
   * [Part 2](http://ruslanspivak.com/lsbaws-part2/)
   * [Part 3](http://ruslanspivak.com/lsbaws-part3/)
 * [5 Smooth Python Web-Frameworks For The Modern Developer | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/5-smooth-python-web-frameworks-for-the-modern-developer-47db692dfd52) FastAPI, Tornado, Pyramid, Quart, BlackSheep
+* [REST API 개발로 알아보는 WSGI, ASGI](https://blog.neonkid.xyz/249) uvicorn
 * [BlackSheep: Fast ASGI web framework and HTTP client for Python asyncio](https://github.com/RobertoPrevato/BlackSheep)
 * [Brython - A Python 3 implementation for client-side web programming](http://www.brython.info)
   * [파이썬을 웹에서 실행하기 :: 프즈](https://tolovefeels.tistory.com/53)
