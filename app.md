@@ -839,6 +839,7 @@ App
 * [Magnet 마그넷](https://itunes.apple.com/kr/app/magnet-mageunes/id441258766?mt=12) spectacle 유사. 워크스페이스 정리. 유료
 * mc midnight commander
   * [맥에서 mc (Midnight Commander) 한글 깨지는 문제](http://mcchae.egloos.com/11287823)
+* [Mirror Displays](https://fabiancanas.com/open-source/mirror-displays)
 * [MonitorControl - Control your external monitor brightness & volume on your Mac](https://github.com/the0neyouseek/MonitorControl)
 * [monodraw.helftone.com](http://monodraw.helftone.com/) ascii art editor, 30 days trial
 * [Monolingual - a program for removing unnecessary language resources from macOS](https://ingmarstein.github.io/Monolingual/) Mojave에서 default로 실행해본 결과 Languages에서 1.96GB, Architectures에서 227MB 삭제
