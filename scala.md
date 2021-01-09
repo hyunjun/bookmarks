@@ -115,6 +115,7 @@ Scala
 * [blog.higher-order.com](http://blog.higher-order.com/) Functional Programming in Scala 저자 블로그
 * [github.com/alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices) 스칼라에서 하지 말아야 될것들
 * [**Nicolas Rinaudo - Scala Best Practices I Wish Someone'd Told Me About**](https://www.youtube.com/watch?v=lvlnH-uEjZA)
+  * [Scala best practices I wish someone'd told me about - Nicolas Rinaudo - YouTube](https://www.youtube.com/watch?v=DGa58FfiMqc)
   * [Scala Best Practices](https://nrinaudo.github.io/scala-best-practices/)
 * [scala meta로 변경될 scala macro](https://www.youtube.com/watch?v=qEQHTGwus7Y)
 * [index.scala-lang.org - 스칼라 라이브러리 검색](https://index.scala-lang.org/)
