@@ -358,6 +358,7 @@ App
 * [크롬 개발자 도구 101](https://lqez.github.io/blog/chrome-dev-tool-101.html)
 * [Things you may not know about Chrome DevTools](https://dev.to/lpellis/things-you-may-not-know-about-chrome-devtools-53k6)
 * [<번역>시니어 프론트엔드 개발자처럼 크롬 개발자도구 사용하기](https://junwoo45.github.io/2020-07-28-chrome_devtools/)
+* [크롬 데브툴(devtools) 디버깅 사용하기 - YouTube](https://www.youtube.com/watch?v=Mg74cmtEArc)
 * [한글 입력을 지원하는 크롬OS 터미널을 찾아서](https://libsora.so/posts/find-chrome-os-terminal-which-support-cjk-input/)
 * [Tools I wish I had known about when I started coding](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
 * [크롬OS에서 같은 앱을 2개 이상 여는 방법](https://libsora.so/posts/how-to-open-multiple-webapp-window-in-chrome-os/)
