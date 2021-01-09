@@ -23,6 +23,7 @@ App
   * autopy
   * [Lackey - Graphical desktop automation with Python](https://github.com/glitchassassin/lackey)
   * open [How To Automate Your Daily Work Routine on Mac OS | Windows | by Kashish Bhutani | Medium](https://medium.com/@kashishbhutaniofficial/how-to-automate-your-daily-work-routine-on-mac-os-windows-63c170048201)
+  * [SikuliX1: SikuliX version 2.0.0+ (2019+)](https://github.com/RaiMan/SikuliX1)
 * [Tools I wish I had known about when I started coding: Revisited](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-revisited-ffb715ffd23f)
 * [How to energize your scary terminal with helpful little scripts](https://medium.freecodecamp.org/how-to-energize-your-scary-terminal-with-helpful-little-scripts-c5ae92c12bfe)
 * [5 Free Software That Are Actually Great!  2018](https://www.youtube.com/watch?v=qSa2UPDH2yc)
@@ -58,6 +59,12 @@ App
 * [AirConsole](http://www.airconsole.com/)
 * [Anki - Powerful, intelligent flash cards. Remembering things just became much easier](https://apps.ankiweb.net/)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
+* [Archivy - self-hosted knowledge repository](https://archivy.github.io/)
+  * 북마킹한 웹페이지 내용을 로컬에 자동 저장
+  * 노트는 마크다운포맷으로 저장
+  * ElasticSearch를 이용한 검색
+  * 파이썬 오픈소스 : Flask 웹앱 + Click 으로 만든 CLI
+  * 플러그인 시스템 : Pocket/HN 을 자동 저장, Git연동
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)
 * [cool-retro-term - A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
@@ -168,8 +175,9 @@ App
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개](http://techneedle.com/archives/20513)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
-* [Fossdroid.com: Free and open source Android applications](https://fossdroid.com/)
+* [Explore the night sky with this open source astronomy app | Opensource.com](https://opensource.com/article/21/1/kstars)
 * [b2gdroid - an experiment that let you use Gaia (the user interface of FirefoxOS) on your Android device, as an alternative homescreen](https://people.mozilla.org/~fdesre/b2gdroid/)
+* [Fossdroid.com: Free and open source Android applications](https://fossdroid.com/)
 * [perch - See What’s Happening At Home](https://getperch.com/)
 * [Nexus 9에 설치한 Remix OS 살펴보기](http://thdev.net/744)
 
@@ -360,11 +368,13 @@ App
 * [Hidden Features of Chrome DevTools | by Martin Heinz | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/hidden-features-of-chrome-devtools-33d9de390dc0)
 * [**Chrome에서 네트워크 테스트를 할 때의 Tip**](https://developer88.tistory.com/320)
 * [웹 스토리지 : 무엇을 써야할까요?](https://han41858.tistory.com/54)
+* [크롬 확장 플러그인 톺아보기 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/01/08/chrome-devtools-in-depth.html)
 * [Async Cookie Store API 살펴보기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20201027/)
 * my notes [“크롬 새 탭을 메모장으로” 화려하지 않아도 실용적인 마이 노트(My Notes) - ITWorld Korea](http://www.itworld.co.kr/news/167215)
 * nuTab [Quick Notes New Tab Chrome Extension - nuTab](https://nutab.co/)
 * Requestly [Udemy강좌 Full HD로 보기](https://www.javastudy.net/2019/04/22/udemy%EA%B0%95%EC%A2%8C-full-hd%EB%A1%9C-%EB%B3%B4%EA%B8%B0/)
 * [screenity: The most powerful screen recorder & annotation tool for Chrome 🎥](https://github.com/alyssaxuu/screenity)
+* [TabFS](https://omar.website/tabfs/) browser extension that mounts your browser tabs as a filesystem on your computer
 
 # Comminucation
 * [“우리도 있다” 업무용 오픈소스 화상회의 툴 10선 - ITWorld Korea](https://www.itworld.co.kr/news/173069)
@@ -702,6 +712,7 @@ App
     * [Niek/obs-web: OBS-web - the easiest way to control OBS remotely](https://github.com/Niek/obs-web)
     * [OBS Studio - OBS 스튜디오 가이드 - StreamLabs.kr](https://streamlabs.kr/obs-studio-guide/)
     * [영상제작 obs에서 발표용 화면 구성하기 - YouTube](https://www.youtube.com/watch?v=iVIRYY9TO0k)
+    * [네이버 클라우드 플랫폼의 Live Station과 OBS로 온라인 행사 운영하기](https://blog.openinfradays.kr/share/2020/12/28/online-conference-with-obs.html)
   6. [나트론 Natron](https://natrongithub.github.io)
     * 오픈 소스 노드 기반 합성 프로그램. 오픈 소스 및 상용 OpenFX 플러그인 지원. 다양한 VFX 이펙트를 만들거나 여러 영상을 노드 형식으로 합성 가능
   7. [잉크스케이프 Inkscape](https://inkscape.org/ko)
@@ -834,6 +845,7 @@ App
 * [monosnap - 추천 무료앱 막강하고 다채로운 기능으로 무장한 맥용 스크린 캡처계의 '올라운드플레이어' 모노스냅(Monosnap)](http://macnews.tistory.com/1064)
 * [mounty - 무료 맥에서 NTFS 드라이브를 읽고 쓸 수 있게 만들어 주는 가벼운 유틸리티 'Mounty'](http://macnews.tistory.com/3043)
 * [MouseTools](http://www.hamsoftengineering.com/codeSharing/MouseTools/MouseTools.html) auto app
+* [Muzzle - silence embarrassing notifications](https://muzzleapp.com/)
 * [n³ The missing terminal file manager for X](https://github.com/jarun/nnn)
 * [**nearlock.me**](http://nearlock.me/)
 * [NordVPN - VPN Reimagined for Mac OS](https://nordvpn.com/download/mac/)
@@ -1308,6 +1320,7 @@ App
   * [(12/27) 꼭 설치해야 할 윈도우 개발 지원 도구](https://www.youtube.com/watch?v=SQi8rn_TsKM&t=1261s)
   * Startship, Winget, QuickLook, Insomnia, EarTrumpet, Ditto Clipboard Manager, PureText, Carnac
 * [**배치파일 기초 작성법 - snoopybox**](https://www.snoopybox.co.kr/1404)
+* [어느 위치에서 실행하든 경로를 유지하는 배치 파일 만들기. 이번 아티클은 작지만 확실히 유용한 팁 하나를 소개해볼까 합니다. 배치… | by Jung-Hyun Nam | Medium](https://medium.com/@rkttu/%EC%96%B4%EB%8A%90-%EC%9C%84%EC%B9%98%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%ED%95%98%EB%93%A0-%EA%B2%BD%EB%A1%9C%EB%A5%BC-%EC%9C%A0%EC%A7%80%ED%95%98%EB%8A%94-%EB%B0%B0%EC%B9%98-%ED%8C%8C%EC%9D%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-7b4cb07933d2)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
