@@ -107,6 +107,7 @@ Linux
 * [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
 * [A Linux sysadmin's introduction to cgroups | Enable Sysadmin](https://www.redhat.com/sysadmin/cgroups-part-one)
 * [리눅스 방화벽과 NAT를 위한 ipTables](https://bcho.tistory.com/1366)
+* [How NAT traversal works · Tailscale Blog](https://tailscale.com/blog/how-nat-traversal-works/)
 * [The Complicated Firewall](https://www.thelinuxrain.com/articles/the-complicated-firewall) iptable
 * [Analyzing the Attacks on my Website](https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf)
 * [Speeding up Linux disk encryption](https://blog.cloudflare.com/speeding-up-linux-disk-encryption/)
@@ -676,6 +677,7 @@ Linux
   * [Operating Systems Without Systemd](https://annihilatormodule.com/2020-01-18/systemd-archives)
   * [Working with systemd-networkd. All about using systemd-networkd as… | by Sahitya Maruvada | 100 Days of Linux | Medium](https://medium.com/100-days-of-linux/working-with-systemd-networkd-e461cfe80e6d)
   * [Services in systemd: In-Depth Tutorial | by Michael Krasnov | Better Programming | Medium](https://medium.com/better-programming/services-in-systemd-in-depth-tutorial-7e47c485edbf)
+  * [How to set environment variable in systemd service? - Server Fault](https://serverfault.com/questions/413397/how-to-set-environment-variable-in-systemd-service)
 * systemtap
   * [커널 분석을 위한 systemtap 스크립트](https://brunch.co.kr/@alden/42)
 * `tac`
