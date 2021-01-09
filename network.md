@@ -41,6 +41,7 @@ Network
 * [Developers Need to Learn Basic Network Engineering | by Tate Galbraith | Better Programming | Medium](https://medium.com/better-programming/developers-need-to-learn-basic-network-engineering-c67767969cd5)
 * [박피디의 게임 개발 이야기 : python 으로 이더넷 mac 주소 얻는 코드](http://parkpd.egloos.com/4189114)
 * [A DMZ, what is that?. How to translate DMZ concept to GCP | by Julio Diez | Google Cloud - Community | Dec, 2020 | Medium](https://medium.com/google-cloud/a-dmz-what-is-that-acc3b21b9653)
+* [Fun with IP address parsing · blog.dave.tf](https://blog.dave.tf/post/ip-addr-parsing/)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
