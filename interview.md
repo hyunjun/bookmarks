@@ -107,6 +107,8 @@ Interview
 * [**Tech HR 컨퍼런스 참석 후기**](http://jojoldu.tistory.com/163)
 * [IT 회사 탐방기 세미나 참석후기](http://jojoldu.tistory.com/274)
 * [The ultimate guide to preparing for the coding interview](https://medium.freecodecamp.org/the-ultimate-guide-to-preparing-for-the-coding-interview-183251ee36c9)
+* [interview/README.md at master · Olshansk/interview](https://github.com/Olshansk/interview/blob/master/README.md)
+* [Interview Guide - Copied from https://github.com/andreis/interview/blob/master/README.md](https://gist.github.com/outro56/9ea1daba3bf8783cea49)
 * [Every Programmer Should Know](https://github.com/mr-mig/every-programmer-should-know)
 * [blog.codingforinterviews.com](http://blog.codingforinterviews.com/)
 * [The Joel Test: 12 Steps to Better Code](https://www.joelonsoftware.com/2000/08/09/the-joel-test-12-steps-to-better-code/)
