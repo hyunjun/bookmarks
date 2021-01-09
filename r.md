@@ -364,6 +364,7 @@ R
   * [R을 이용한 데이터 처리 & 분석 실무](https://thebook.io/006723/)
 * [R을 이용한 누구나 하는 통계분석, cafe](http://cafe.daum.net/biometrika)
 * [R을 이용한 퀀트 투자 포트폴리오 만들기](https://hyunyulhenry.github.io/quant_cookbook/)
+  * [R을 이용한 퀀트 투자 포트폴리오 만들기 리뷰-1 - 미완성의신](https://unfinishedgod.netlify.app/2021/01/09/r%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%80%80%ED%8A%B8-%ED%88%AC%EC%9E%90-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%A6%AC%EB%B7%B0-1/)
 * [R 무료 ebook 모음](http://stock79.tistory.com/178)
 * [3 recommended books on learning R](https://www.r-bloggers.com/3-recommended-books-on-learning-r/)
 * [10 great books about R](http://www.datasciencecentral.com/profiles/blogs/10-great-books-about-r-1)
