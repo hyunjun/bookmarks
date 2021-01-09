@@ -140,6 +140,7 @@ SQL
 * [Database of Databases - Home](https://dbdb.io/)
 * [How to use Indexing for SQL Query Optimization | Towards Data Science](https://towardsdatascience.com/indexing-for-sql-query-optimization-139b57db9fc6)
 * [Using SQL to Estimate Customer Lifetime Value (LTV) without Machine Learning - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/using-sql-to-estimate-customer-lifetime-value-ltv-without-machine)
+* [Understanding Connections & Pools](https://sudhir.io/understanding-connections-pools/)
 * [Arctype | The fast and easy-to-use SQL client](https://arctype.com/)
 * [**dbcrossbar** - an open source tool that copies large, tabular datasets between many different databases and storage formats. Data can be copied from any source to any destination](https://www.dbcrossbar.org/)
 * [DBeaver](https://dbeaver.io/)
@@ -509,6 +510,7 @@ SQL
 * [MySQL 쓰면서 하지 말아야 할 것 17가지 – Lael's World](https://blog.lael.be/post/370)
 * [MySQL 내부 구조](https://brunch.co.kr/@jehovah/21)
 * [**Building HashTag M : N Relation with Node.js, Sequelize(MySQL) | by Ryan Kim | Oct, 2020 | Medium**](https://equus3144.medium.com/building-hashtag-m-n-relation-with-node-js-sequelize-mysql-3dde6824d2a0)
+* [Blog of (former?) MySQL Entomologist: Linux /proc Filesystem for MySQL DBAs - Part I, Basics](https://mysqlentomologist.blogspot.com/2021/01/linux-proc-filesystem-for-mysql-dbas.html)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
@@ -676,6 +678,7 @@ SQL
 * [**PostgreSQL 튜닝 - Autovacuum 최적화에 대하여**](https://nrise.github.io/posts/postgresql-autovacuum/)
 * [Stored Procedures as a backend. or “How we got rid of Django and whole… | by Oleg Zech | Oct, 2020 | Medium](https://gnuhost.medium.com/stored-procedures-as-a-backend-c5d2db452fc2)
 * [BLOB cleanup in PostgreSQL - CYBERTEC | Data Science & PostgreSQL](https://www.cybertec-postgresql.com/en/blob-cleanup-in-postgresql/)
+* [PostgreSQL Database Security: What You Need To Know - Percona Database Performance Blog](https://www.percona.com/blog/2021/01/04/postgresql-database-security-what-you-need-to-know/)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
@@ -690,6 +693,7 @@ SQL
 * [meteor-pg - Reactive PostgreSQL for Meteor](https://github.com/numtel/meteor-pg)
 * [Ora2Pg : Migrates Oracle to PostgreSQL](https://www.ora2pg.com/)
 * [postgrest - REST API for any Postgres database](https://github.com/begriffs/postgrest)
+* [pg2ch: Data streaming from postgresql to clickhouse via logical replication mechanism](https://github.com/mkabilov/pg2ch)
 * [pgagroal - a high-performance protocol-native connection pool for PostgreSQL](https://agroal.github.io/pgagroal/)
 * [pgcat - Enhanced PostgreSQL logical replication](https://github.com/kingluo/pgcat)
 * [pgcli - Postgres CLI with autocompletion and syntax highlighting](https://github.com/dbcli/pgcli)
@@ -751,6 +755,7 @@ SQL
 * [index 의 중요성과 이해 SQL 독학 강의#24편](https://stricky.tistory.com/310)
 * [view 뷰에 대한 이해 SQL 독학 강의#25편](https://stricky.tistory.com/323)
 * [주문 고객 상품 테스트용 데이터 생성 및 다운로드](https://stricky.tistory.com/230)
+* [SQL Correlated Subqueries - GeeksforGeeks](https://www.geeksforgeeks.org/sql-correlated-subqueries/)
 
 ## Query, SQL Join
 * [SQL기초강좌(외부조인, outer join), 오라클, MySQL, 내부조인,외부조인,](http://www.slideshare.net/topcredu/sql-outer-join-mysql)
@@ -805,6 +810,7 @@ SQL
 * [CG/SQL: Easy, accurate SQLite code generation - Facebook Engineering](https://engineering.fb.com/open-source/cg-sql/)
 * [DB Browser for SQLite](https://sqlitebrowser.org/)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
+* [simple-graph: This is a simple graph database in SQLite, inspired by "SQLite as a document database"](https://github.com/dpapathanasiou/simple-graph)
 * [sqlitestudio.pl](http://sqlitestudio.pl/)
 
 ## SQLite Python
