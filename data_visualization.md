@@ -270,6 +270,7 @@ Data Visualization
 * [쿠팡이츠 배달단가 모니터링 | Python 데이터 분석 - YouTube](https://www.youtube.com/watch?v=kJFpAZaOEmY)
 * [쿠팡이츠 배달단가 모니터링 (파이썬 OCR 자동화 데이터 분석) : 클리앙](https://www.clien.net/service/board/lecture/15661703)
 * [파이썬 몇 줄로 간단히 해보는 탐색적 자료 분석](https://brunch.co.kr/@fermat39/104) pandas jupyter sweetviz pandas-profiling pandasgui
+* [Data Visualization using Python on Jupyter Notebook - YouTube](https://www.youtube.com/watch?v=tse_8LLWtfY)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
 * [Awesome Panel](https://awesome-panel.org/)
