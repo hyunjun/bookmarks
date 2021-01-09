@@ -319,6 +319,7 @@ Interview
     * [Google Docs System design | part 2| System components explanation micro services arcitecture](https://www.youtube.com/watch?v=U2lVmSlDJhg)
     * [How To Design Google Docs](http://blog.gainlo.co/index.php/2016/03/22/system-design-interview-question-how-to-design-google-docs/)
     * [**Google Docs 같은 실시간 협업 에디터를 만드는 방법**](https://hackerwins.github.io/2019-04-16/co-editor.html)
+    * [How I reverse-engineered Google Docs to play back any document's keystrokes « James Somers (jsomers.net)](http://features.jsomers.net/how-i-reverse-engineered-google-docs/)
   * Messenger, Messaging
     * [Whatsapp's Architecture](https://www.slideshare.net/udayslideshare/whatsapps-architecture)
     * [What is WhatsApp's server architecture?](https://www.quora.com/What-is-WhatsApps-server-architecture)
@@ -466,6 +467,9 @@ Interview
 * [실시간 댓글 개발기(part.1) – DAU 60만 Alex 댓글의 실시간 댓글을 위한 이벤트 기반 아키텍처](https://tech.kakao.com/2020/06/08/websocket-part1/) polling vs. websocket, kafka, NiFi, Redis
 * [Scalability concepts: read-after-write consistency](https://medium.com/@avik.das/scalability-concepts-read-after-write-consistency-3ff70b71e1d1)
 
+# Book
+* [System Design Interview Book Review: Finally, a Book for Getting Better at Architecting Systems - The Pragmatic Engineer](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/)
+
 # Data Science
 * [My Take on Microsoft AI Interview Questions with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-microsoft-ai-interview-questions-with-interactive-code-part-1-c271388af633)
 * [My take on Uber AI Interview Question with Interactive Code — Part 1](https://towardsdatascience.com/my-take-on-uber-ai-interview-question-with-interactive-code-part-1-40d6d795a566)
@@ -590,6 +594,7 @@ Interview
 * [mailprogramming.com](https://mailprogramming.com/)
 * [mycodeschool](https://www.youtube.com/user/mycodeschool/videos)
 * [oj.uz](https://oj.uz)
+* [OnlineJudge: open source online judge based on Vue, Django and Docker. | 青岛大学开源 Online Judge | QQ群 496710125 | admin@qduoj.com](https://github.com/QingdaoU/OnlineJudge)
 * [Pramp - Interview like a Champ](https://www.pramp.com/practice)
 * [programmers.co.kr](https://programmers.co.kr/)
   * [코딩테스트 고득점 Kit](https://programmers.co.kr/learn/challenges)
