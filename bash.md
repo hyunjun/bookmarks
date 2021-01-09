@@ -125,3 +125,6 @@ Shell
 
 # TDD, Test
 * [ShellSpec | BDD unit testing framework for shell scripts (bash, ksh, zsh, dash and all POSIX shells)](https://shellspec.info/)
+
+# Tutorial
+* [Learn Shell - Free Interactive Shell Tutorial](https://www.learnshell.org/)
