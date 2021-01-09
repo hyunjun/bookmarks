@@ -266,7 +266,6 @@ Programming
 * [그룹웨어 결재 기능으로 보이는 동료의 작명 검토를 하다가...](https://www.popit.kr/%EA%B7%B8%EB%A3%B9%EC%9B%A8%EC%96%B4-%EA%B2%B0%EC%9E%AC-%EA%B8%B0%EB%8A%A5%EC%9D%84-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%9E%91%EC%97%85%EC%9D%84-%EB%B3%B4%EB%A9%B4%EC%84%9C)
 * [Welcome - The Naming Convention Project](https://namingconvention.org)
 * [약어 list](https://gist.github.com/skt-t1-byungi/8a44db3e4991cd66209841b93a1ab496) naming
-* [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
 * [naming conventions - count vs length vs size in a collection - Stack Overflow](https://stackoverflow.com/questions/300522/count-vs-length-vs-size-in-a-collection)
 * [이해하기 쉬운 코드 작성방법 정리](https://chodragon9.github.io/blog/easy-code)
 * [RailsConf 2014 - Keynote: Writing Software by David Heinemeier Hansson - YouTube](https://www.youtube.com/watch?v=9LfmrkyP81M) 업계에 만연한 잘못된 인식, 좋은 소프트웨어는 무엇이며 어떻게 만들지
@@ -1080,9 +1079,6 @@ Programming
 * [Please](https://please.build/)
 
 # Cloud
-* [aws](aws.md)
-* [azure](azure.md)
-* [GCP Google Cloud Platform](gcp.md)
 * [The Cost of Cloud Computing](https://read.acloud.guru/the-true-cost-of-cloud-a-comparison-of-two-development-teams-edc77d3dc6dc)
 * [How to build a SaaS with $0](https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8)
 * [The Tech Stack of a One-Man SaaS](https://panelbear.com/blog/tech-stack/)
@@ -1100,6 +1096,11 @@ Programming
 * [오라클 클라우드 무료 인스턴스를 활용한 VPN 서버 구축하기 : 클리앙](https://www.clien.net/service/board/lecture/15587467?type=recommend)
 * [클라우드 우분투에 gui로 원격 연결하기](https://evols-atirev.tistory.com/27)
 * [Taking Control of Confusing Cloud Costs](https://www.infoq.com/articles/taking-control-of-cloud-costs/)
+* [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
+* [‘역설투성이'··· 우리가 클라우드를 싫어하는 11가지 이유 - CIO Korea](https://www.ciokorea.com/news/177989)
+* [aws](aws.md)
+* [azure](azure.md)
+* [GCP Google Cloud Platform](gcp.md)
 * [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
 * [Dataiku 다타이쿠 클라우드 서버 설치 방법 가이드](https://stricky.tistory.com/351) 네이버 클라우드 플랫폼
 * [HopsFS: 100x Times Faster than AWS S3 - Logical Clocks](https://www.logicalclocks.com/blog/hopsfs-100x-times-faster-than-aws-s3)
@@ -1620,6 +1621,7 @@ Programming
 * [Reviewing Messaging in Distributed System Architectures](https://levelup.gitconnected.com/reviewing-messaging-in-distributed-system-architectures-6cf2fd7b8b4e)
 * [THE OPENMESSAGING BENCHMARK FRAMEWORK](http://openmessaging.cloud/docs/benchmarks/)
 * [Batch processing best practices - Vlad Mihalcea](https://vladmihalcea.com/scheduled-jobs-best-practices/)
+* [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
@@ -2000,6 +2002,7 @@ Programming
   * [12월 3주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2020/12/b-12-3.html)
   * [12월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2020/12/b-12-4.html)
   * [12월 5주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/01/b-12-5.html)
+  * [1월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/01/b-11-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -2313,6 +2316,7 @@ Programming
 * [Real time analytics on deep learning @ strata data 2019](https://www.slideshare.net/zhenxiao/real-time-analytics-on-deep-learning-strata-data-2019)
 * [Streaming a Million Likes/Second: Real-Time Interactions on Live Video - YouTube](https://www.youtube.com/watch?v=yqc3PPmHvrA)
 * [Beyond the Database, and beyond the Stream Processor: What's the Next Step for Data Management?](https://www.infoq.com/articles/whats-the-next-step-for-data-management/)
+* [Uber’s Real-Time Push Platform | Uber Engineering Blog](https://eng.uber.com/real-time-push-platform/)
 
 ## Real Time Processing, Streaming Library
 * [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
