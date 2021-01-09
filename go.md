@@ -619,6 +619,7 @@ Go
 * [Ultimate Go study guide](https://github.com/hoanhan101/ultimate-go)
 * [Learning Go — from zero to hero. Let’s start with a small introduction… | by Milap Neupane | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/learning-go-from-zero-to-hero-d2a3223b3d86)
 * [What Makes Go So Different?. Go is currently one of the most… | by Timothy Yalugin | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/what-makes-go-so-different-eb0648498ce0)
+* [Learn Go in ~5mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)
 
 # Web
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
