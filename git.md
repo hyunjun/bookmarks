@@ -270,6 +270,7 @@ Git
   $ git rev-list –all | xargs git grep -F ‘font-size: 52 px;’ # Git 검색하기
   ```
 * [How to Undo Mistakes With Git Using the Command Line - YouTube](https://www.youtube.com/watch?v=lX9hsdsAeTk)
+* [🌳🚀 CS Visualized: Useful Git Commands - DEV Community](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
   * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
@@ -723,6 +724,8 @@ Git
   * [CI/CD with Angular 6 & Firebase & GitLab - Automate build, test and deployment using GitLab CI/CD](https://hackernoon.com/ci-cd-with-angular-6-firebase-gitlab-5118ad469e4d)
   * [GitLab Runner + Windows + Spring 연동](https://www.popit.kr/gitlab-runner-windows-spring-%EC%97%B0%EB%8F%99)
   * [“실수에 관대한 문화가 데브옵스의 키포인트”…데브옵스 플랫폼 깃랩](https://www.imaso.co.kr/archives/5638)
+  * [gitlab 웹 접속 포트를 바꿔 봅시다](https://codingdog.tistory.com/entry/gitlab-%EC%9B%B9-%EC%A0%91%EC%86%8D-%ED%8F%AC%ED%8A%B8%EB%A5%BC-%EB%B0%94%EA%BF%94-%EB%B4%85%EC%8B%9C%EB%8B%A4?category=1163058)
+  * [gitlab 8080 포트 대신 다른 포트를 사용하게 바꿔봅시다](https://codingdog.tistory.com/entry/gitlab-8080-%ED%8F%AC%ED%8A%B8-%EB%8C%80%EC%8B%A0-%EB%8B%A4%EB%A5%B8-%ED%8F%AC%ED%8A%B8%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B2%8C-%EB%B0%94%EA%BF%94%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * gitlocalize.com [오픈소스를 번역할 때 유용한 Git Localize 사용법 - 사진찍는 웹 개발자](https://donghoon-song.github.io/posts/2021-01-02---%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EB%B2%88%EC%97%AD%ED%95%A0-%EB%95%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-Git-Localize-%EC%82%AC%EC%9A%A9%EB%B2%95/)
 * [git-meld-index - Run meld or any git difftool to interactively stage changes](https://github.com/jjlee/git-meld-index)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
