@@ -443,6 +443,7 @@ NLP
 * [KoBART: Korean BART](https://github.com/SKT-AI/KoBART) Bidirectional and Auto-Regressive Transformers, 한국어 encoder-decoder 언어 모델
 * [KoBART-summarization: Summarization module based on KoBART](https://github.com/seujung/KoBART-summarization)
 * [kobart-transformers: kobart on huggingface transformers](https://github.com/hyunwoongko/kobart-transformers)
+* [Bart : Denoising Sequence-to-Sequence Pre-training for Natural Langua…](https://www2.slideshare.net/taeseonryu/bart-denoising-sequencetosequence-pretraining-for-natural-language-generation-translation-and-comprehension)
 * [soongsil-bert-base-nsmc.ipynb - Colaboratory](https://colab.research.google.com/drive/1Js24ps3JvsN-WO9DURzueTUeCmg_BP-g)
 
 # Book
