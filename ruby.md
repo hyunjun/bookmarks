@@ -50,6 +50,7 @@ Ruby
 * [RuboCop your Ruby: enable, disable and configure your linter checks](https://medium.com/the-code-review/rubocop-enable-disable-and-configure-linter-checks-for-your-ruby-code-475fbf11046a)
 * [How to Fix Slow Code in Ruby](https://engineering.shopify.com/blogs/engineering/how-fix-slow-code-ruby)
 * [**What causes Ruby memory bloat? – Joyful Bikeshedding**](https://www.joyfulbikeshedding.com/blog/2019-03-14-what-causes-ruby-memory-bloat.html)
+* [루비(Ruby) 버전 3.0.0, 병렬실행 및 타입설명 지원 - CIO Korea](https://www.ciokorea.com/news/177799) rector
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)
