@@ -336,6 +336,8 @@ NoSQL
 
 # [MICA: A Holistic Approach to Fast In-Memory Key-Value Storage](https://www.cs.cmu.edu/~hl/papers/mica-nsdi2014.pdf)
 
+# [minikeyvalue: A distributed key value store in under 1000 lines. Used in production at comma.ai](https://github.com/geohot/minikeyvalue)
+
 # MongoDB
 * [Install MongoDB Community Edition on macOS](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/#install-mongodb-community-edition-on-macos)
 * [M101P: MONGODB FOR DEVELOPERS](https://university.mongodb.com/courses/M101P/about?_ga=1.191685481.23006852.1438307238)
