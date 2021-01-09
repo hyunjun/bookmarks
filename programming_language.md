@@ -291,6 +291,7 @@ Programming Language
   * [“Apple Silicon”: Macintosh 역사상 네 번째의 아키텍처 대전환은 어떤 의미인가](https://medium.com/@unifiedh/apple-silicon-macintosh-%EC%97%AD%EC%82%AC%EC%83%81-%EB%84%A4-%EB%B2%88%EC%A7%B8%EC%9D%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%EB%8C%80%EC%A0%84%ED%99%98%EC%9D%80-%EC%96%B4%EB%96%A4-%EC%9D%98%EB%AF%B8%EC%9D%B8%EA%B0%80-845ebb3f9d8d)
   * [DeClang: An anti-hacking compiler forked from the ollvm (https://github.com/obfuscator-llvm/obfuscator)](https://github.com/DeNA/DeClang)
   * [LLVM — Writing Pass Instrumentations for the New PassManager | by Min-Yih Hsu | Jul, 2020 | Medium](https://medium.com/@mshockwave/writing-pass-instrument-for-llvm-newpm-f17c57d3369f)
+  * [A Complete Guide to LLVM for Programming Language Creators](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
 * Logo
   * [구글 개발자, 자연어로 작성하는 프로그래밍 언어 공개](http://www.bloter.net/archives/251344)
 * [Lola-2: A Logic Description Language](http://www.inf.ethz.ch/personal/wirth/Lola/index.html)
@@ -347,6 +348,7 @@ Programming Language
 * [MCG: Visual Functional Programming](http://area.autodesk.com/blogs/chris/mcg-visual-functional-programming)
 * [MelodyScript is a melody-oriented DSL for describing melodies, which can be optionally annotated with chords](https://github.com/pdorrell/melody_scripter)
 * [MiningZinc: A Language for Constraint-based Mining](https://dtai.cs.kuleuven.be/CP4IM/miningzinc/)
+* [Mint - The programming language for writing single page applications](https://www.mint-lang.com/)
 * [mm](https://git.null.tl/mm/)
   * [First-class Predicate](http://thursdays.null.tl/2015/08/27/first-class-predicate/)
   * [Inductive Programming in mm](http://thursdays.null.tl/2015/09/10/mm-inductive-programming/)
@@ -462,6 +464,7 @@ Programming Language
 * [Yeti - ML style functional programming language, that runs on the JVM](http://mth.github.io/yeti/)
 * [Zephir - Hello World - 완두블로그](https://wani.kr/posts/2015/05/03/zephir-1/)
 * [Zig Programming Language](https://ziglang.org/)
+  * [Zig in 30 minutes](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50)
 
 # State Machine
 * [Verifying State Machine Behavior Using test.check](http://blog.guillermowinkler.com/blog/2015/04/12/verifying-state-machine-behavior-using-test-dot-check/)
@@ -470,6 +473,7 @@ Programming Language
 * [reduce-fsm provides a simple way to specify clojure finite state machines](https://github.com/cdorrat/reduce-fsm/blob/master/README.md)
 * [FLVIz - Finite Automata Simulator written in QT/Graphviz](https://github.com/wkoszek/flviz)
 * [State machine 코드를 작성하기 위한 방법 다시 생각해보기](https://gist.github.com/luncliff/4874c74a32331db357d4ede80db1610d)
+* [State machines are wonderful tools](https://nullprogram.com/blog/2020/12/31/)
 
 # Type
 * [What is the appeal of dynamically-typed languages?](https://gist.github.com/non/ec48b0a7343db8291b92)
