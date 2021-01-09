@@ -126,3 +126,4 @@ Flutter
 * GetX
   * [Flutter 개발자는 무조건 알아야 하는 GetX #1-Navigation - YouTube](https://www.youtube.com/watch?v=wgJItCEL7hk)
   * [GetX 상태관리 이 영상 하나면 끝! #2 - State Management - YouTube](https://www.youtube.com/watch?v=CoFLunStYdU)
+* Retrofit [Rest API 엔드포인트 따느라 삽질 하셨나요? 제가 도와드릴게요 Retrofit! - YouTube](https://www.youtube.com/watch?v=GNc20BkoA2w)
