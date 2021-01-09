@@ -203,6 +203,11 @@
   * [Rusty Machine- Machine Learning in Rust](https://www.techleer.com/articles/349-rusty-machine-machine-learning-in-rust/)
 * [sqlx - The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite](https://github.com/launchbadge/sqlx)
 * [tauri: Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast](https://github.com/tauri-apps/tauri)
+* tokio
+  * [Announcing Tokio 1.0 | Tokio](https://tokio.rs/blog/2020-12-tokio-1-0)
+    * 속도 저하 없이 안정적인 네트워킹 어플리케이션을 만들기 위한 스택
+    * 1.0은 오래 쓰일 안정적인 버전. 최소 5년동안 1.0 브랜치를 유지할 것이며, 2.0은 3년내에는 출시할 계획 없음
+    * 2021년엔 Stream, io_uring, tracing 통합 등을 진행할 예정
 * [tray_rust - A toy ray tracer in Rust](https://github.com/Twinklebear/tray_rust)
 * [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)
 * [xi editor - A modern editor with a backend written in Rust. https://xi-editor.io ](https://github.com/xi-editor/xi-editor)
@@ -253,3 +258,4 @@
 * [Thought you loved Python? Wait until you meet Rust | by Rhea Moutafis | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/thought-you-loved-python-wait-until-you-meet-rust-64a06d976ce)
 * [Wiki - RustStarterKit2020](https://wiki.alopex.li/RustStarterKit2020)
 * [Why You Should Consider Rust for the Next Language You Learn | by Serokell | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/why-you-should-consider-rust-for-the-next-language-you-learn-39652d8e1bbe)
+* [A half-hour to learn Rust - fasterthanli.me](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
