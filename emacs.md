@@ -27,6 +27,7 @@ Emacs
 * [emacs.sexy 한국어 번역 및 OmegaT + Travis + Rake + Github Pages를 활용한 번역](http://blog.nacyot.com/articles/2014-03-17-sexy-emacs-kr/)
 * [Emacs 에서 직접 한글입력기사용 : 네이버 블로그](http://blog.naver.com/chesterroh/222022487454)
 * [15 reasons why I use emacs | Better Programming](https://medium.com/better-programming/15-reasons-why-i-use-emacs-with-gifs-5b03c6608b61)
+* [How to open a file in Emacs - Murilo Pereira](https://www.murilopereira.com/how-to-open-a-file-in-emacs/)
 
 # Library
 * Cask
