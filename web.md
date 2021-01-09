@@ -174,6 +174,7 @@ Web
 * [**Six steps to building your website from scratch**](https://medium.com/@khollobaugh/https-medium-com-khollobaugh-six-steps-to-building-your-website-from-scratch-a713288cc6d)
 * [페이스북과 쿠키의 상관관계? Cookie 기초개념 잡아드림](https://www.youtube.com/watch?v=1emZgLiGE4s)
 * [Cookie Recipes](https://so-so.dev/web/cookie-recipes/)
+* [URL shorteners set ad tracking cookies - luke miles](https://ylukem.com/blog/url-shorteners-set-ad-tracking-cookies)
 * [사라지는 쿠키, 디지털 광고를 위한 차세대 ‘추적’ 기술은 무엇? - ITWorld Korea](http://www.itworld.co.kr/news/161700)
 * [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
 * [번역 What Is the Difference Between a URI, a URL and a URN?](https://www.codeameba.com/2019/08/18/uri-url-urn/)
