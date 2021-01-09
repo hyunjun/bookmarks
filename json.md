@@ -144,6 +144,9 @@ Json
 * [jsoneditor.com](http://jsoneditor.com/)
 * [json-generator.com](http://www.json-generator.com)
 * [json-graph-specification - A proposal for representing graph structure (nodes / edges) in JSON](https://github.com/jsongraph/json-graph-specification)
+* [JSON Lines](https://jsonlines.org/)
+  * "Newline Delimited JSON" 1. UTF-8 인코딩 2. 각 라인은 유효한 JSON 값(객체)이어야 함 3. 라인 구분자는 '\n'
+  * 한줄 당 하나의 JSON 객체가 들어가는 데이터 저장 포맷 → 데이터 스트리밍에 적합 → 중첩구조 처리가 쉬움 → .jsonl 파일 확장자를 추천
 * [JSONlite - A simple, self-contained, serverless, zero-configuration, json document store](https://github.com/nodesocket/jsonlite)
 * [JsonPack is a high-performance and extremely easy-to-use JSON serialization library for C++ 11](https://github.com/ymglez/jsonpack)
 * [jsonplaceholder - Fake Online REST API for Testing and Prototyping Serving ~350M requests per month](http://jsonplaceholder.typicode.com/)
@@ -161,6 +164,8 @@ Json
 * [jsonschema.net](http://jsonschema.net) data -> schema
 * [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
 * [json-to-go](https://mholt.github.io/json-to-go/) json to go struct
+* json toolkit
+  * [json-sql - CodeFaster](https://codefaster.substack.com/p/json-sql) supports psql mysql sqlite3
 * [JSPON - JavaScript Persistent Object Notation](http://www.jspon.org/)
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
 * [Korean JSON - 한국어 데이터를 제공하는 초간단 JSON API](https://koreanjson.com/)
@@ -212,3 +217,4 @@ Json
 * [YAML Validator](https://codebeautify.org/yaml-validator)
 * [YAML: probably not so great after all](https://arp242.net/yaml-config.html)
 * [What does YAML do better than JSON?](https://www.quora.com/What-does-YAML-do-better-than-JSON)
+* [YAML - Quick Reference Cheat Sheet](https://quickref.me/yaml)
