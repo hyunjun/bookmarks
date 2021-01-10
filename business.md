@@ -100,6 +100,7 @@ Business
   * [OKKYCON: 2017 김창준 - 협업의 미신 5가지 - YouTube](https://www.youtube.com/watch?v=I4xkw_0XqAs)
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
 * [엘론 머스크가 알려주는 회사 내 소통 법](http://www.andrewahn.co/silicon-valley/elon-musk-comms-in-tesla/)
+* [美 IT업계서 45년 일한 어느 개발자의 여섯가지 조언 - ZDNet korea](https://zdnet.co.kr/view/?no=20210108154359)
 * [스타트업 업계에선 "허락을 받지 말고 용서를 구해라 (Don't | 김영민 | 퍼블리 뉴스](https://news.publy.co/comments/10393) 용서를 구하지 말고 의도를 밝혀라 (Don't ask forgiveness, radiate intent)
 * [우리 회사는 회사 문화와 잘 어울리는 사람을 선호합니다](http://ppss.kr/archives/48564)
 * [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
@@ -520,6 +521,7 @@ Business
 * [OKR 도입이 실패하는 이유](https://ppss.kr/archives/212902)
 * [스포카가 OKR로 목표를 달성하기까지](https://spoqa.github.io/2020/05/08/okr-to-goal.html)
 * [OKR 실전 적용 경험담 | Popit](https://www.popit.kr/okr-%EC%8B%A4%EC%A0%84-%EC%A0%81%EC%9A%A9-%EA%B2%BD%ED%97%98%EB%8B%B4/)
+* [Book OKR - 전설적인 벤처투자자가 구글에 전해준 성공 방식 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1525)
 
 # Patent
 * 세기의 특허전쟁
