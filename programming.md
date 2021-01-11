@@ -200,6 +200,7 @@ Programming
 * [Reading Code Is Harder Than Writing It – Trisha Gee](https://trishagee.com/presentations/reading_code/)
 * [좋은 코드란 무엇인가 | 프로그래머 이규원의 웹사이트](https://gyuwon.github.io/blog/2020/07/31/what-is-good-code.html)
 * [좋은 코드란 무엇일까? | JBEE.io](https://jbee.io/etc/what-is-good-code/)
+* ["읽기 좋은 코드가 좋은 코드다." 리뷰 목록](https://lypicfa.tistory.com/558)
 * [Things I Learned Managing Site Reliability for Some of the World’s Busiest Gambling Sites](https://zwischenzugs.wordpress.com/2017/04/04/things-i-learned-managing-site-reliability-for-some-of-the-worlds-busiest-gambling-sites/) SRE - Site Reliability Engineer
 * [#1 SRE/DEVOPS의 개념](https://bcho.tistory.com/1325)
 * [#2 SRE는 어떻게 일하는가?](https://bcho.tistory.com/1327)
