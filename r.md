@@ -333,6 +333,7 @@ R
 * [R과 Python로 하는 문서자동화 | Issac Lee](https://www.theissaclee.com/ko/courses/rdocs101/)
 * [Reverse-engineering the problematic tail behavior of the Fivethirtyeight presidential election forecast « Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/2020/10/24/reverse-engineering-the-problematic-tail-behavior-of-the-fivethirtyeight-presidential-election-forecast/)
 * [Become a Superlearner! An Illustrated Guide to Superlearning | KHstats](https://www.khstats.com/blog/sl/superlearning/)
+* [shinyMobile 설명](https://tidyverse-korea.github.io/seoul-R/data/2.%20shinyMobile%20%EC%86%8C%EA%B0%9C%20(%EC%A7%80%EB%82%A8%ED%98%84).pdf)
 
 # API
 * [REX: Look around – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2229)
@@ -425,6 +426,7 @@ R
 * [text-to-speech - 문자 음성 변환 프로그램](https://statkclee.github.io/deep-learning/r-tts.html)
 
 # Installation
+* [데이터 과학 개발 환경: R+파이썬](https://statkclee.github.io/data-science/ds-languages.html)
 * [Windows Subsystem for Linux (WSL)를 이용하여 Windows에서 Linux 버전 R과 RStudio 사용하기](https://ecosang.github.io/blog_kor/miscellaneous/wsl_kor/)
 
 # Java
@@ -645,6 +647,7 @@ R
   * [데이터 과학](https://statkclee.github.io/viz/viz.html) visualization
   * [Tidy Animated Verbs](https://github.com/gadenbuie/tidyexplain)
   * [The tidyverse style guide](https://style.tidyverse.org/)
+  * [의학연구지원 with R/shiny](https://jinseob2kim.github.io/lecture-general/tidyversekorea/#1)
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)
   * [tidyquant with tqk](https://mrchypark.github.io/tqk_docs/tidyquant-with-tqk.html)
 * [tubeplayR - play youtube by R](https://github.com/kazutan/tubeplayR)
