@@ -1007,6 +1007,7 @@ Scala
   * [GraphQL in Scala with Caliban — Part 2: Query optimization](https://medium.com/@ghostdogpr/graphql-in-scala-with-caliban-part-2-c7762110c0f9)
   * [GraphQL in Scala with Caliban — Part 3: Customization](https://medium.com/@ghostdogpr/graphql-in-scala-with-caliban-part-3-8962a02d5d64)
   * [Caliban Client: a type-safe GraphQL Client for Scala and Scala.js](https://medium.com/@ghostdogpr/caliban-client-a-type-safe-graphql-client-for-scala-and-scala-js-718aa42c5ef7)
+  * [Caliban: Functional GraphQL Library for Scala by Pierre Ricadat - YouTube](https://www.youtube.com/watch?v=oLvdhVNIC3k)
 * [Cats - Lightweight, modular, and extensible library for functional programming](https://typelevel.org/cats/)
   * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
   * [Cats - A new library for functional programming in Scala](https://www.youtube.com/watch?v=cEVm73XFX4w)
