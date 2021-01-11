@@ -466,6 +466,7 @@ Algorithm
 * [What is Consistent Hashing and Where is it used?](https://www.youtube.com/watch?v=zaRkONvyGr8)
 * [How we implemented consistent hashing efficiently](https://medium.com/ably-realtime/how-to-implement-consistent-hashing-efficiently-fe038d59fff2)
 * [Consistent Hashing Simplified](https://towardsdatascience.com/consistent-hashing-simplified-7fe4e512324)
+* [**Consistent Hashing**](https://brunch.co.kr/@springboot/258) 스스로 구현도 해보고 여러가지 참고할만한 링크 포함
 
 ## Distributed Hash Table, DHT
 * [Simple basic explanation of a Distributed Hash Table (DHT)](https://stackoverflow.com/questions/144360/simple-basic-explanation-of-a-distributed-hash-table-dht)
