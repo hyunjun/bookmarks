@@ -1162,6 +1162,7 @@ Java
 * [Spring 초간단 DB 사용하기 - YouTube](https://www.youtube.com/watch?v=CEtOLCNo6Xw)
 * [Spring으로 CRUD 서비스 30분만에 구현하기 - YouTube](https://www.youtube.com/watch?app=desktop&v=mw2VrUkPG7I)
 * [Spring Microservices into Production with Kubernetes and GitOps](https://www.confluent.io/blog/spring-microservices-into-production-with-kubernetes-gitops/)
+* [16. Spring - 외부경로 이미지를 웹브라우저 화면에 보이기](https://kim-jong-hyun.tistory.com/28)
 * [beantimer: A tools to measure Spring bean initialization time](https://github.com/vikreinok/beantimer)
 * [thymeleaf](https://okdevtv.com/mib/spring/thymeleaf)
   * [Thymeleaf 시작하기 - YouTube](https://www.youtube.com/watch?v=tiRi6PLVesY)
