@@ -484,6 +484,7 @@ TensorFlow
 * [Air Cognizer predicts air quality with machine learning](https://morioh.com/p/a9c5a0e394ad)
 * [How to use FastAPI with MongoDB. An easy way to serve your database… | by Fernando Souza | Python In Plain English | Sep, 2020 | Medium](https://medium.com/python-in-plain-english/how-to-use-fastapi-with-mongodb-75b43c8e541d)
 * [TensorFlow Custom Op으로 데이터 변환 최적화하기 – 핑퐁팀 블로그](https://blog.pingpong.us/custom-op-in-data-processing/)
+* [Custom Layer in TensorFlow using Keras API | Custom Dense Layer in TensorFlow Keras | Deep Learning](https://morioh.com/p/b478d480323d)
 
 # 2.0
 * [TensorFlow 2.0을 출시했습니다](https://developers-kr.googleblog.com/2019/10/tensorflow-2-0-is-now-available.html)
