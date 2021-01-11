@@ -103,16 +103,12 @@ NLP
 * [BabelNet](http://babelnet.org/)
   * [META prize 2015: BabelNet!](https://www.youtube.com/watch?v=lchI3AQbA9M)
 * [An Intuitive Natural Language Understanding System](http://www.slideshare.net/inscit2006/an-intuitive-natural-language-understanding-system)
-* [Korean Treebank Annotations Version 2.0](https://catalog.ldc.upenn.edu/LDC2006T09)
-  * [sample](https://catalog.ldc.upenn.edu/desc/addenda/LDC2006T09.txt) EUC-KR encoded
 * [An NLP Approach to Analyzing Twitter, Trump, and Profanity](http://blog.algorithmia.com/nlp-approach-twitter-trump-profanity)
 * [Deep Learning Cases: Text and Image Processing](http://www.slideshare.net/grigorysapunov/deep-learning-cases-text-and-image-processing)
 * [CS 124: From Languages to Information](http://web.stanford.edu/class/cs124/)
 * [NLP Seminar Schedule — Winter 2019](https://nlp.stanford.edu/seminar/)
 * [영문 복사만 하면…품사 알려드려요](http://techholic.co.kr/archives/51731)
 * [PyData Paris 2016 - Statistical Topic Extraction](https://www.youtube.com/watch?v=Y4nE6diy72o)
-* [brat rapid annotation tool](http://brat.nlplab.org/index.html) online environment for collaborative text annotation
-  * [brat rapid annotation tool (brat) - for all your textual annotation needs](https://github.com/nlplab/brat)
 * [28회 한글 및 한국어 정보처리 학술대회](https://sites.google.com/site/2016hclt)
   * [자료실](https://sites.google.com/site/2016hclt/jalyosil)
   * [개체명 인식 시스템 개발 및 적용](https://github.com/krikit/annie)
@@ -362,6 +358,13 @@ NLP
 * [KoSpacing : 한글 자동 띄어쓰기 패키지 공개](http://freesearch.pe.kr/archives/4759)
   * [KoSpacing - R package for automatic Korean word spacing](https://github.com/haven-jeon/KoSpacing)
 * [soyspacing. Heuristic Korean Space Correction, A safer space corrector](https://lovit.github.io/nlp/2018/04/25/soyspacing/)
+
+# Annotation
+* [Korean Treebank Annotations Version 2.0](https://catalog.ldc.upenn.edu/LDC2006T09)
+  * [sample](https://catalog.ldc.upenn.edu/desc/addenda/LDC2006T09.txt) EUC-KR encoded
+* [brat rapid annotation tool](http://brat.nlplab.org/index.html) online environment for collaborative text annotation
+  * [brat rapid annotation tool (brat) - for all your textual annotation needs](https://github.com/nlplab/brat)
+* [doccano: Open source text annotation tool for machine learning practitioner.](https://github.com/doccano/doccano)
 
 # BERT
 * [Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
