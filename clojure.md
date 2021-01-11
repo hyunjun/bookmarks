@@ -20,6 +20,7 @@ Clojure
 * [www.4clojure.com](http://www.4clojure.com/)
   * [Fibonacci Sequence – 4Clojure #26](http://seonho.kim/2017/03/12/4clojure-fibonacci-sequence/)
   * [seonho.kim/tag/4clojure](http://seonho.kim/tag/4clojure/)
+* [Clojure - DEV Community](https://dev.to/t/clojure)
 * [clojure for the brave and true](http://www.braveclojure.com/)
 * [Clojure koans](http://clojurekoans.com/)
 * [Awesome Clojure](https://github.com/razum2um/awesome-clojure)
@@ -302,6 +303,7 @@ Clojure
 * [Blog in Clojure Code Review - YouTube](https://www.youtube.com/watch?v=yQ-KjVNCe3g)
 * [Model Checking in Clojure - YouTube](https://www.youtube.com/watch?v=zvlD4_S3nz0)
 * [Consistent Hashing with Clojure | Ponderings of a Curious Mind](https://suvratapte.com/consistent-hashing-with-clojure/)
+* [algo.generic](https://github.com/clojure/algo.generic)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -688,6 +690,7 @@ Clojure
 * [joker - Small interpreted dialect of Clojure written in Go](https://github.com/candid82/joker)
 * [Lacinia - GraphQL implementation in pure Clojure http://lacinia.readthedocs.io ](https://github.com/walmartlabs/lacinia)
   * [lacinia-example](https://github.com/eunmin/lacinia-example)
+* [lab-ml/nn: 🧠 Minimal implementations of neural network architectures and layers in PyTorch with side-by-side notes](https://github.com/lab-ml/nn)
 * leiningen
   * [dependency priority (1)](http://clojure.kr/leiningen-1/)
   * [leiningen-win-installer - An Installer for Leiningen on Windows](https://djpowell.github.io/leiningen-win-installer/)
@@ -828,3 +831,8 @@ Clojure
 * [advent-2020-clojure](https://github.com/abyala/advent-2020-clojure)
 * [An Animated Introduction to Clojure](https://markm208.github.io/cljbook/)
 * [Part 1 — A complete beginner's guide to Computer Programming with Clojure. | by Harvey Ellams | Dec, 2020 | Medium](https://distroharvix.medium.com/part-1-a-complete-beginners-guide-to-computer-programming-with-clojure-86d26e2e3f0b)
+* [Learning Clojure Part 1: Preparing local setup - DEV Community](https://dev.to/pavel_polivka/learning-clojure-part-1-preparing-local-setup-2eo7)
+* [Learning Clojure Part 2: Basic syntax - DEV Community](https://dev.to/pavel_polivka/learning-clojure-part-2-basic-syntax-4k97)
+* [Learning Clojure Part 3: Data Structures - DEV Community](https://dev.to/pavel_polivka/learning-clojure-part-3-data-structures-3aop)
+* [Learning Clojure Part 4: Functions - DEV Community](https://dev.to/pavel_polivka/learning-clojure-part-4-functions-1077)
+* [Learning Clojure Part 5: Robot Factory - DEV Community](https://dev.to/pavel_polivka/learning-clojure-part-5-robot-factory-l94)
