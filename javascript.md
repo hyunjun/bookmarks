@@ -612,7 +612,6 @@ Javascript
 * [Implementation of a Clipping Indicator](https://lqez.github.io/blog/implementation-of-a-clipping-indicator.html)
 * [The cost of JavaScript in 2019](https://v8.dev/blog/cost-of-javascript-2019)
 * [컴퓨터공학과 새내기가 수강신청하는 법](https://blog.ch4n3.me/493)
-* [Google JavaScript Technical Interview (Callback , Promise , Await / Async)](https://medium.com/javascript-in-plain-english/google-javascript-technical-interview-question-callback-promise-await-async-74b8dda2e331)
 * [How to use the JavaScript Native Notifications API](https://medium.com/javascript-in-plain-english/javascript-native-notifications-b579229fcb2e)
 * [More Handy JavaScript Shorthands](https://medium.com/swlh/more-handy-javascript-shorthands-9c08805d5f55)
 * [Why it’s Time to Stop Using JavaScript IIFEs?](https://levelup.gitconnected.com/why-its-time-to-stop-using-javascript-iifes-b62602f25bfc)
@@ -847,6 +846,7 @@ Javascript
 * [What does a Worker do in JavaScript?](https://medium.com/javascript-in-plain-english/what-does-a-worker-do-in-javascript-25b9449f22f1)
 * [Adopting Better JavaScript Code Style](https://medium.com/swlh/adopting-better-javascript-code-style-basic-syntax-and-async-13415631565f)
 * [Streamline your JavaScript code with top-level await | Opensource.com](https://opensource.com/article/20/11/top-level-await-javascript)
+* [callbaack, promise, async/awaitf를 활용한 비동기 처리 기법](https://blog.naver.com/pjt3591oo/222204144528)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
 * promise
@@ -866,6 +866,7 @@ Javascript
   * [**flushPromises가 작동하는 이유**](https://imch.dev/posts/why-does-flush-promises-work-the-way-that-it-does)
   * [Promise, 가만히 냅두면 어떻게 될까?](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
   * [JavaScript Visualized: Promises & Async/Await | by Lydia Hallie | Medium](https://medium.com/@lydiahallie/javascript-visualized-promises-async-await-a3f1aad8a943)
+  * [Google JavaScript Technical Interview (Callback , Promise , Await / Async)](https://medium.com/javascript-in-plain-english/google-javascript-technical-interview-question-callback-promise-await-async-74b8dda2e331)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
