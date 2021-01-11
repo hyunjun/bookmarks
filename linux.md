@@ -168,6 +168,14 @@ Linux
 * [How to use a WiFi interface](https://wiki.debian.org/WiFi/HowToUse#wpa_supplicant)
 * [How To Connect To A WPA Wifi Using Command Lines On Debian](https://www.howtoforge.com/how-to-connect-to-a-wpa-wifi-using-command-lines-on-debian)
 * [데비안(Debian)에서 최신 WIFI 드라이버 설치 방법](https://kkamagui.tistory.com/923)
+* fcitx
+
+  ```
+  $ sudo apt-get install fcitx
+  $ sudo apt-get install fcitx-hangul
+  $ fcitx-configtool
+  $ im-config
+  ```
 
 ## 배포판 Fedora
 * [페도라(Fedora) 배포판 업그레이드 방법](http://kkamagui.tistory.com/900)
