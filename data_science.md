@@ -55,6 +55,7 @@ Data Science
 * A Beginner’s Guide to Data Engineering
   * [Part I Data Engineering: The Close Cousin of Data Science](https://medium.com/@rchang/a-beginners-guide-to-data-engineering-part-i-4227c5c457d7)
   * [Part II Data Modeling, Data Partitioning, Airflow, and ETL Best Practices](https://towardsdatascience.com/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
+* [시리즈 | IBM Data Science - DEV_SK](https://velog.io/@kwonhl0211/series/IBM-Data-Science)
 * [데이터 아키텍처의 변화](https://data-engineer-song.tistory.com/2) ETL -> ELT
 * [I want to study Data Science Wiki](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki) 한글
 * [A Beginner’s Guide to the Data Science Pipeline](https://www.kdnuggets.com/2018/05/beginners-guide-data-science-pipeline.html)
