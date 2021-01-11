@@ -184,6 +184,9 @@
 * [Espruino: The Espruino JavaScript interpreter - Official Repo](https://github.com/espruino/Espruino)
 * [smart.js - Embedded Javascript engine for C/C++ with networking, file, database and device interfaces](https://github.com/cesanta/smart.js)
 
+# Jetson
+* [installJupyterNotebook: 젯슨나노에서 주피터노트북과 주피터랩을 설치하는 법](https://github.com/jugfk/installJupyterNotebook)
+
 # [Microbit](https://www.microbit.co.uk/)
 * [The Story of MicroPython on the BBC micro:bit](http://ntoll.org/article/story-micropython-on-microbit)
 * [마이크로비츠 체험기 - 이렇게 어이없는 피지컬 교구가 있을 수가 있는지](http://www.cooltown.co.kr/samstory/getStreamView/267/1946/)
