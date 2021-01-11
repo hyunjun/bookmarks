@@ -2217,6 +2217,7 @@ Programming
   * [(01/03) 2020년 닷넷 개발자의 현황에 대해 - YouTube](https://www.youtube.com/watch?v=pvDJOoGItNk)
   * [(01/03) 2020년 닷넷 개발자의 현황에 대해2 - YouTube](https://www.youtube.com/watch?v=E_pquJ2eUEI)
 * [(01/09) 내가 소프트웨어 업계에서 45년 동안 배운 교훈 - YouTube](https://www.youtube.com/watch?v=p-rcVpX4zr4) WebAssembly, Cloud, 소프트웨어 업계에서 45년 동안 배운 교훈, (SQL) Correlated Subquery
+  * [(1월 9일) 내가 소프트웨어 업계에서 45년 동안 배운 교훈](https://jhrogue.blogspot.com/2021/01/1-9-45.html)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
 
