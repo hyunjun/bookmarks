@@ -2905,6 +2905,7 @@ Javascript
 * [React Color - A Collection of Color Pickers from Sketch, Photoshop, Chrome & more](http://casesandberg.github.io/react-color/)
 * [React.Component vs React.createClass](http://reactjsnews.com/composing-components/)
 * [React Desktop - React UI Components for OS X El Capitan and Windows 10](https://github.com/gabrielbull/react-desktop)
+* [React Fast Refresh | Dev Log](https://reactiver.dev/react-fast-refresh/)
 * [react-form-generator - Generate, validate, and parse React forms using Mongoose-inspired JSON schemas](https://github.com/SteveVitali/react-form-generator)
 * [Reactiflux is moving to Discord](https://facebook.github.io/react/blog/2015/10/19/reactiflux-is-moving-to-discord.html)
 * [React Hook Form 유연하고 확장 가능한 사용하기 쉬운 고성능 폼 검증 라이브러리](https://react-hook-form.com/kr/)
