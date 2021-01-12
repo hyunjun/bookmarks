@@ -44,6 +44,7 @@ Json
   * [stackoverflow.com/questions/1957406/generate-java-class-from-json](http://stackoverflow.com/questions/1957406/generate-java-class-from-json)
   * [Java에서 JSON 사용하기](http://sugerent.tistory.com/m/427)
 * [JSON 데이터를 자바로 파싱하는 가장 빠른 방법](https://djkeh.github.io/articles/The-fastest-way-to-parse-json-data-to-java-kor/)
+* [2. JAVA - HTTP 통신으로 JSON 데이터 요청 및 응답](https://kim-jong-hyun.tistory.com/29)
 * [dsl-json - High performance JVM JSON library https://dsl-platform.com ](https://github.com/ngs-doo/dsl-json)
 * Gson
   * [GSON SERIALISER EXAMPLE](http://www.javacreed.com/gson-serialiser-example/)
