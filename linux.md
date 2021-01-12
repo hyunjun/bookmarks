@@ -176,6 +176,7 @@ Linux
   $ fcitx-configtool
   $ im-config
   ```
+* pip [kkamagui의 작업실 :: 데비안(Debian) 리눅스에서 파이썬 pip 도구 설치하기](https://kkamagui.tistory.com/936)
 
 ## 배포판 Fedora
 * [페도라(Fedora) 배포판 업그레이드 방법](http://kkamagui.tistory.com/900)
