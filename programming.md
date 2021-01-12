@@ -413,6 +413,7 @@ Programming
 * [스크럼에 대한 경험 및 개인적인 생각 - FutureSeller](https://future-seller.dev/posts/scrum-experience)
 * [Sprint & Jira](https://www.slideshare.net/seokjoonyun9/sprint-jira)
 * [Agile Testing Condensed Korean Edition by Janet Gregory et al.](https://leanpub.com/agiletesting-condensed-korean-edition)
+* [클린 애자일 - 첫 마음으로 돌아가보는 여정](https://jusths.tistory.com/188)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -2350,6 +2351,7 @@ Programming
 * [마틴 파울러 리팩토링의 중요성 (한글 자막) - YouTube](https://www.youtube.com/watch?v=mNPpfB8JSIU)
 * [OOP Software Meets Business 2014 마틴 파울러가 말 하는 리팩토링의 절차와 중요성](https://wonit.tistory.com/354)
 * [Refactoring and Design Patterns](https://refactoring.guru/)
+* [**FE개발자의 성장 스토리 05 : 의존관계를 이용해 구조적 리팩토링 포인트 찾기 – tech.kakao.com**](https://tech.kakao.com/2021/01/12/frontend-growth-05/) Angular 대상이지만 언어/프레임워크 관계없이 적용 가능한 좋은 이야기
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
