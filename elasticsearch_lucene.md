@@ -156,6 +156,7 @@ ElasticSearch - Lucene
 * [Elastic beanstalk - 판교 초급자 모임 - 안병학](https://www.slideshare.net/happy2v/elastic-beanstalk-73005525)
 * [Elastic 사용자 그룹 온라인 밋업](https://www.youtube.com/watch?v=UXVAAjewf_o)
 * [The reality of running a production Node app on AWS Elastic Beanstalk](https://medium.freecodecamp.org/the-reality-of-running-a-production-node-app-on-aws-elastic-beanstalk-55c78b5dad0b)
+* [서비스 비용 절감을 위한 Dable의 자체 AWS Elastic Beanstalk 관리 도구를 소개합니다 | Dable Tech Blog](https://teamdable.github.io/techblog/Awseb-manage-tool)
 * [Bean Validation 2 0 by Emmanuel Bernard](https://www.youtube.com/watch?v=pNmzT4K9aTw)
 * [Elasticsearch and Hibernate by Emmanuel Bernard](https://www.youtube.com/watch?v=ufaI51o_7WI)
 * [A Dive into Stack Overflow Jobs Search](https://medium.com/@aurelien.gasser/a-dive-into-stack-overflow-jobs-search-62bc6e628f83)
