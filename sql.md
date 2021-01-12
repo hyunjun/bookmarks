@@ -74,6 +74,7 @@ SQL
   * [(즐겁게 배우는 SQL #28) CRUD 연산의 기본기를 배우자 - D(Delete)를 위한 DELETE](https://jhrogue.blogspot.com/2021/01/sql-28-crud-ddelete-delete.html)
   * [(즐겁게 배우는 SQL #29) CRUD 연산의 기본기를 배우자 - 삽입하거나 기존 행을 대체하는 REPLACE](https://jhrogue.blogspot.com/2021/01/sql-29-crud-replace.html)
   * [(즐겁게 배우는 SQL #30) 트랜잭션이 뭐지?](https://jhrogue.blogspot.com/2021/01/sql-30.html)
+  * [(즐겁게 배우는 SQL #31) 데이터를 정의하자 - SQL 데이터 타입](https://jhrogue.blogspot.com/2021/01/sql-31-sql.html)
 * [고독쓰나미 - YouTube](https://www.youtube.com/channel/UClUrjhtzmAJL-sgXe6sNUkw)
 * [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
 * [EDB is a framework to make and manage backups of your database](https://github.com/RoxasShadow/EDB)
