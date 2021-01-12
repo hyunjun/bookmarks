@@ -387,6 +387,7 @@
 * [Spark Delight — We’re building a better Apache Spark UI | by Jean Yves | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/spark-delight-were-building-a-better-spark-ui-1b463840e243)
 * [Overcoming Apache Spark’s biggest pain points | by Edson Hiroshi Aoki | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/overcoming-apache-sparks-biggest-pain-points-b374cebcf6a4)
 * [Speeding Time to Insight with a Modern ETL Approach - YouTube](https://www.youtube.com/watch?v=G5P8VbS0gXA) ETL -> ELT
+* [Scale-Out Using Spark in Serverless Herd Mode! - YouTube](https://www.youtube.com/watch?v=zoFwtJ-j5co)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 
