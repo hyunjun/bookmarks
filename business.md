@@ -497,6 +497,7 @@ Business
 * [페이스북이 개인화 광고를 위해 머신러닝을 사용하는 방법 | GeekNews](https://news.hada.io/topic?id=2323)
 * [데이터ver '매니지먼트 마이오피아'의 시대](https://brunch.co.kr/@windydog/344)
 * [온라인 광고 기초 페이스북, 구글, 카카오.. : 네이버블로그](https://blog.naver.com/adrielai/222107262371)
+* [브런치북 브랜드 되살리기](https://brunch.co.kr/brunchbook/re-branding)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
