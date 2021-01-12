@@ -218,6 +218,7 @@
 
 # Coroutine
 * [Kotlin Coroutines – Retrofit2 + Coroutines 동시에 다루기](http://www.kmshack.kr/2018/05/kotlin-coroutines-retrofit2-coroutines-%EB%8F%99%EC%8B%9C%EC%97%90-%EB%8B%A4%EB%A3%A8%EA%B8%B0/)
+* [Retrofit2와 Coroutines 사용 시 스케줄러는 어떻게 처리할까? - 내부 코드로 알아보자.](https://thdev.tech/kotlin/2021/01/12/Retrofit-Coroutines/)
 * [Kotlin Coroutines을 알아보고, 안드로이드에 library 적용하기](https://thdev.tech/kotlin/2018/10/04/Kotlin-Coroutines/)
 * [Kotlin Coroutines 안드로이드 OnClick에 활용하기](https://thdev.tech/kotlin/2018/10/11/Kotlin-Coroutines-Android/)
 * [Kotlin Coroutines의 Job 동작을 알아보자](https://thdev.tech/coroutines/2019/04/08/Init-Coroutines-Job/)
