@@ -30,6 +30,7 @@ Programming
   * [🤓 Build your own (insert technology here) https://twitter.com/danistefanovic ](https://github.com/danistefanovic/build-your-own-x)
   * [**Project Based Learning - Curated list of project-based tutorials**](https://github.com/tuvtran/project-based-learning) 
   * [**Real World example apps - see how the exact same Medium.com clone (called Conduit) is built using any of our supported frontends and backends**](https://github.com/gothinkster/realworld/blob/master/README.md)
+* [15 favorite programming tutorials and insights | Opensource.com](https://opensource.com/article/21/1/best-programming)
 * [**작은 교육**](http://slownews.kr/44304)
 * [재미로 시작한 개발 공부 열 달, 그리고 삽질기](https://www.slideshare.net/wheejuni/ss-84047369)
   * [재미로 시작한 개발 공부 열 달, 그리고 삽질기](https://www.youtube.com/watch?v=SCtQJ6xI4Zw)
