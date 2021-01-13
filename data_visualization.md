@@ -240,6 +240,7 @@ Data Visualization
 * [practical-machine-learning-with-python/bonus content/effective data visualization](https://github.com/dipanjanS/practical-machine-learning-with-python/tree/master/bonus%20content/effective%20data%20visualization)
 * [Drawing Route Objects with the Mapbox Directions API](https://hackingandslacking.com/drawing-route-objects-with-the-mapbox-directions-api-50f5646a19b4)
 * [Visualising high-dimensional datasets using PCA and t-SNE in Python](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
+* [PCA of X features with Y | Pega Devlog](https://jehyunlee.github.io/2021/01/13/Python-DS-54-pcaxy/)
 * [GPU Accelerated t-SNE for CUDA with Python bindings](https://github.com/CannyLab/tsne-cuda)
 * [How to Use t-SNE Effectively](https://distill.pub/2016/misread-tsne/)
 * [데이터로 보는 나의 구독자 파이썬(Python)을 활용한 데이터 수집 및 시각화 프로젝트 후기](https://brunch.co.kr/@dimension-value/68)
