@@ -265,6 +265,7 @@ Go
 * [Finite State Machines with Go-lang. | by Dipesh Dulal | WesionaryTEAM | Medium](https://medium.com/wesionary-team/finite-state-machines-with-go-lang-ccd20e329a7b)
 * [Seven Golang Features you must know about | by This is DASC | Medium](https://medium.com/@thisisdasc/seven-golang-features-you-must-know-about-944485d413fe)
 * [5 things before you venture into your maiden Golang Project | by Nikesh Shetty | Nov, 2020 | Medium](https://nikeshshetty.medium.com/5-things-before-you-venture-into-your-maiden-golang-project-68461724363e)
+* [Go Timebased OTP Code Generator](https://gist.github.com/charsyam/d0635be901176b884703a83a2a505eef)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
