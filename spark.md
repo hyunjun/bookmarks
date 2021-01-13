@@ -595,6 +595,7 @@
   * Spark driver, Executor, Executor Shuffle Service, Resource Staging Server
 * [How to build Spark from source and deploy it to a Kubernetes cluster in 60 minutes](https://towardsdatascience.com/how-to-build-spark-from-source-and-deploy-it-to-a-kubernetes-cluster-in-60-minutes-225829b744f9)
 * [Apache Spark workloads on Kubernetes](https://spot.io/blog/apache-spark-workloads-on-kubernetes/)
+* [Apache Spark Streaming in K8s with ArgoCD & Spark Operator - YouTube](https://www.youtube.com/watch?v=9o50GiPPjpE)
 
 # Library
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
