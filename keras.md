@@ -118,6 +118,7 @@ Keras
 * [Intro into Image classification using Keras](https://www.youtube.com/watch?v=KhU4CGfE5m4&sns=tw)
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 * [Image Classification on Android using a Keras Model Deployed in Flask](https://heartbeat.fritz.ai/image-classification-on-android-using-a-keras-model-deployed-in-flask-118adffc5045)
+* [Building an Image Classifier Using Tensorflow Keras](https://morioh.com/p/824d9749b891)
 * [Galaxy Zoo classification with Keras](https://medium.com/towards-data-science/galaxy-zoo-classification-with-keras-219184aff581)
 * [Video classification with Keras and Deep Learning](https://www.pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/)
 * [Spam Classification with Tensorflow-Keras](https://medium.com/analytics-vidhya/spam-classification-with-tensorflow-keras-7e9fb8ace263)
