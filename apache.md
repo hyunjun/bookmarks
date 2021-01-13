@@ -577,6 +577,7 @@ Apache
 * [Sizing Calculator for Apache Kafka and Confluent Platform](https://eventsizer.io/)
 * [Thread-Per-Core Buffer Management for a modern Kafka-API storage system - Vectorized](https://vectorized.io/blog/tpc-buffers/)
 * [Introducing Confluent’s Parallel Consumer Message Processing Client](https://www.confluent.io/blog/introducing-confluent-parallel-message-processing-client/)
+* [Intro to Apache Kafka: How Kafka Works](https://www.confluent.io/blog/apache-kafka-intro-how-kafka-works/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
