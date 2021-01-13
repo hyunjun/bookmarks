@@ -227,6 +227,7 @@ Programming Books
     * 그렇다면 transaction 처리는? 2단계 commit같은 분산 transaction, 나중에 재시도하기, 전체 작업 중지하기 등...
   * [마이크로서비스 아키텍처 구축](https://blog.outsider.ne.kr/1482)
 * (NOT YET) [마이크로서비스 인 액션 올바른 마이크로서비스 도입을 위한 완벽 실용서](https://wikibook.co.kr/microservices-in-action/)
+* (NOT YET) [마이크로서비스 도입, 이렇게 한다](https://jhrogue.blogspot.com/2021/01/blog-post.html)
 
 # C
 
