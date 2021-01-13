@@ -881,6 +881,7 @@ Docker
 * [A beginner's guide to Kubernetes Jobs and CronJobs | Opensource.com](https://opensource.com/article/20/11/kubernetes-jobs-cronjobs)
 * [Kubernetes Cluster on Rhel7 설치 1](https://naleejang.tistory.com/235)
 * [Kubernetes Cluster on Rhel7 설치 2](https://naleejang.tistory.com/236)
+* [GlusterFS & Heketi on Rhel7 설치 1](https://naleejang.tistory.com/237)
 * [**Kubernetes를 이용한 효율적인 데이터 엔지니어링(Airflow on Kubernetes VS Airflow Kubernetes Executor) - 1 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/data-engineering-with-airflow-k8s-1/)
 * [**Kubernetes를 이용한 효율적인 데이터 엔지니어링(Airflow on Kubernetes VS Airflow Kubernetes Executor) - 2 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/data-engineering-with-airflow-k8s-2/)
 * [쿠버네티스 클러스터 운영자를 위한 모니터링](https://www.samsungsds.com/kr/insights/kubernetes_monitoring.html)
