@@ -1263,3 +1263,4 @@ TensorFlow
 * [Neural Networks & TensorfFlow Crash Course](https://morioh.com/p/657d0698f442)
 * [9 Best Tensorflow Courses & Certifications Online in 2021- Find the Best!](https://www.mltut.com/best-tensorflow-courses-certifications-online/)
 * [Build your first neural network with Tenorflow](https://morioh.com/p/d8b0edc8809a)
+* [파이썬 머신러닝 스터디 모두의 딥러닝 computational graph | sTricky](https://stricky.tistory.com/434)
