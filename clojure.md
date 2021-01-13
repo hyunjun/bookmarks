@@ -737,6 +737,7 @@ Clojure
 * [Pegasus is a scalable, modular, polite web-crawler for Clojure http://getpegasus.io](https://github.com/shriphani/pegasus)
 * [pepa - A document management system](https://github.com/bevuta/pepa)
 * [Perseverance is a flexible retried operations library inspired by the Common Lisp’s condition system](https://github.com/grammarly/perseverance)
+* [plsci: PostgreSQL procedural language handler for Clojure via SCI](https://github.com/borkdude/plsci)
 * [plet - Parallel let macro inspired by Haxl](https://github.com/eunmin/plet)
 * [pod-babashka-sqlite3: A babashka pod for interacting with sqlite3](https://github.com/babashka/pod-babashka-sqlite3)
 * [potemkin: some ideas which are almost good](https://github.com/clj-commons/potemkin)
@@ -753,6 +754,7 @@ Clojure
 * [raymarchcl - Experimental OpenCL voxel rendering/raymarching via Clojure REPL (from 2013)](https://github.com/thi-ng/raymarchcl)
 * [ReactNativeDuckie : iOS App Development with React Native and ClojureScript](https://github.com/cheolhee/ReactNativeDuckie)
   * [iOS App 개발 with React Native + ClojureScript](http://www.slideshare.net/cheolhee/ios-app-with-react-native-clojurescript)
+* [reader-macros](https://github.com/klutometis/reader-macros)
 * [Reagent: Minimalistic React for ClojureScript](http://reagent-project.github.io/)
   * [Zelkova - Elm-style FRP for Clojure and ClojureScript](https://github.com/jamesmacaulay/zelkova)
   * [Reagent deep dive part 1: Hiccup and ratoms](http://timothypratley.blogspot.com/2017/01/reagent-deep-dive-part-1.html)
@@ -779,6 +781,7 @@ Clojure
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
 * [Selmer](https://github.com/yogthos/Selmer) template
+* [seqexp: Regexp for sequences!](https://github.com/cgrand/seqexp)
 * [shrubbery - A stubbing, spying, and mocking library for Clojure protocols](https://github.com/bguthrie/shrubbery)
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j
 * [Specs](https://github.com/eunmin/clojure-specs) [Programming Clojure 5장](https://pragprog.com/book/shcloj3/programming-clojure-third-edition)
