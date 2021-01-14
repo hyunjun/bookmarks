@@ -70,6 +70,7 @@
 * [Why does object-oriented programming mean so many different things to different people?](https://www.quora.com/Why-does-object-oriented-programming-mean-so-many-different-things-to-different-people)
 * [Gamma Structural Patterns](https://medium.com/@helmi.confo/gamma-structural-patterns-e03465bff4f8)
 * [Behavioral Design Pattern: State](https://medium.com/swlh/behavioral-design-pattern-state-d908192fe7e)
+* [5. 상태 패턴 with Unity](https://velog.io/@sonohoshi/5.-%EC%83%81%ED%83%9C-%ED%8C%A8%ED%84%B4-with-Unity) FSM Finite State Machine
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
