@@ -158,6 +158,7 @@ App
   * [kkamagui의 작업실 :: 버추어 박스(Virtual Box) 설정파일(.vbox) 오류 해결 방법](https://kkamagui.tistory.com/928)
   * [**macos-virtualbox: Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS**](https://github.com/myspaghetti/macos-virtualbox)
   * [버추얼박스에 맥(macOS) 카탈리나 설치하는 방법 - 익스트림 매뉴얼](https://extrememanual.net/34793)
+  * [kkamagui의 작업실 :: 오라클 버추어박스(Oracle Virtualbox) 빌드하기](https://kkamagui.tistory.com/937)
 * Vivaldi
   * [vivaldi 웹브라우저 써보세요](https://swifter.kr/vivaldi-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%8D%A8%EB%B3%B4%EC%84%B8%EC%9A%94/)
 * Wallpaper
@@ -798,6 +799,7 @@ App
 * ['최소 비용에 최대 기능' 맥 사용자를 위한 무료 앱 30가지](http://www.itworld.co.kr/news/150073)
 * [맥북 사면 바로 설치하는 무료 앱 9가지!](https://www.youtube.com/watch?v=q7CGf6bJ8AA) Spectacle, Appcleaner, Weather bug, Itsycal, Keka, Amphetamine, Helium 3, Encrypto, Alfred
 * [맥 사용자라면 바로 설치해야 할 무료 앱 35가지 - ITWorld Korea](https://www.itworld.co.kr/news/176764)
+* [URL 별로 상황에 맞는 브라우져 실행하기 - tebica story](https://earlybird.kr/2538?utm_source=rss&utm_medium=rss&utm_campaign=url%25ec%2597%2590-%25eb%2594%25b0%25eb%259d%25bc-%25ec%25a0%2581%25ec%25a0%2588%25ed%2595%259c-%25ec%2597%2585%25eb%25ac%25b4%25ec%259a%25a9-%25ea%25b0%259c%25ec%259d%25b8%25ec%259a%25a9-%25eb%25b8%258c%25eb%259d%25bc%25ec%259a%25b0%25ec%25a0%25b8-%25ec%258b%25a4%25ed%2596%2589%25ed%2595%2598%25eb%258a%2594-%25eb%25b2%2595) Browserosaurus Finicky
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
 * Alfred [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
