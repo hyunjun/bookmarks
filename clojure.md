@@ -79,6 +79,7 @@ Clojure
   * [Episode 19 — Doing Math in Clojure and Programming a Game in Rust](http://podcast.codespeakloop.com/2014/12/episode-19-doing-maths-in-clojure-and.html)
 * [Palindromic sequences in Clojure](http://blog.fogus.me/2015/04/13/palindromic-sequences-in-clojure/)
 * [clojure cheat sheet](http://www.closurecheatsheet.com)
+* [ClojureCheatSheet: Quick reference to a modern Lisp :-)](https://github.com/alhassy/ClojureCheatSheet)
 * [Clojure/West 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrKAOj8FJ1GGmNM5l7Okz0a)
   * [Notes from Day One](http://mindbat.com/2015/04/27/clojurewest-2015-notes-from-day-one/)
 * [Clojure/west2016](https://www.youtube.com/playlist?list=PLZdCLR02grLq4e8-1P2JNHBKUOLFTX3kb)
