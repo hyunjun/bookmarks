@@ -538,6 +538,7 @@ App
     * [VS Code’s REST Client Plugin is All You Need to Make API Calls | by Paige Niedringhaus | Oct, 2020 | Bits and Pieces](https://blog.bitsrc.io/vs-codes-rest-client-plugin-is-all-you-need-to-make-api-calls-e9e95fcfd85a)
     * [VSCode 온라인 IDE - YouTube](https://www.youtube.com/watch?v=ch5OvYKnmUc)
     * [21 VSCode Shortcuts To Code Faster and Funner – JSManifest](https://jsmanifest.com/21-vscode-shortcuts-to-code-faster-and-funner/)
+    * [Foam | A personal knowledge management and sharing system for VSCode](https://foambubble.github.io/foam/) knowledge graph
     * Debug
       * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
       * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
