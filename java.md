@@ -1290,6 +1290,7 @@ Java
 * [Spring Boot에서 MariaDB(MySQL) 사용하기 - YouTube](https://www.youtube.com/watch?v=6LVGwg-pdC0)
 * [Spring Boot에서 MySQL 사용하기 - YouTube](https://www.youtube.com/watch?v=bUvqOe-6qYM)
 * [IntelliJ Spring Boot에서 MySQL 사용하기 - YouTube](https://www.youtube.com/watch?v=1eDmXjqvMp8)
+* [웹용 Spring Boot Security 적용하기 #IntelliJ - YouTube](https://www.youtube.com/watch?v=uyRIZ93Dx90)
 * [Build RESTful Services with Spring Boot 2.X in Few Steps](https://medium.com/@codespeaks/build-restful-services-with-spring-boot-2-x-in-few-steps-95c895a7abf5)
 * [jib로 springboot 애플리케이션 컨테이너화 + registry 등록](https://springboot.cloud/37)
 * [스프링부트 10분만에 API 서버 만들기](https://www.youtube.com/watch?v=nrxzK_ky3uc)
