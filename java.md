@@ -399,6 +399,7 @@ Java
 * [인텔리J 시작하기 Part3 (Getting Start IntelliJ) – SVN –](https://beyondj2ee.wordpress.com/2013/06/23/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part3-getting-start-intellij-svn/)
 * [인텔리J 시작하기 Part4 (Getting Start IntelliJ) – Git –](https://beyondj2ee.wordpress.com/2013/06/28/%EC%9D%B8%ED%85%94%EB%A6%ACj-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-part4-getting-start-intellij-git/)
 * [IntelliJ를 이용한 철저한 캡쳐위주 Spring Boot 셋팅 하기-1](http://storyofdream.tistory.com/136)
+* [IntelliJ (Ultimate & Community) 에서 스프링부트 active profile 설정하기](https://jojoldu.tistory.com/547)
 * [깃털보다 가벼운 IntelliJ Idea팁](https://figo2264.github.io/categories/Tools/IntelliJ/)
   * [IntelliJ Idea](http://tiveloper.tistory.com/category/IDE%20%26%20Apps/IntelliJ%20Idea)
 * [Intellij vs. Eclipse: Why IDEA is Better](https://dzone.com/articles/why-idea-better-eclipse)
