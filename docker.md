@@ -974,6 +974,7 @@ Docker
 * [TELEPRESENCE FAST, LOCAL DEVELOPMENT FOR KUBERNETES AND OPENSHIFT MICROSERVICES](https://www.telepresence.io/)
   * [Telepresence로 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/7861046)
   * [Istio와 Telepresence로 공용 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/4817173)
+  * [Kubernetes 클러스터에 배포할 애플리케이션의 로컬 개발을 쉽게 해줄 Telepresence :: Outsider's Dev Story](https://blog.outsider.ne.kr/1526)
 
 # Library
 * [Top GUI for Docker | by appfleet team | appfleet | Medium](https://medium.com/appfleet/top-gui-for-docker-9b45588393d3)
