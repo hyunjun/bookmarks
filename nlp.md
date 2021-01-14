@@ -1154,7 +1154,6 @@ NLP
 * [Named Entity Recognition: Examining the Stanford NER Tagger](http://blog.urx.com/urx-blog/2015/7/28/named-entity-recognition-examining-the-stanford-ner-tagger)
 * [한국어 개체명 인식 기술(Named Entity Recognition)](http://swguru.kr/48)
 * [K-ICT 빅데이터센터](https://kbig.kr/)
-* [NeuroNER - A Named-Entity Recognition Program based on Neural Networks and Easy to Use](http://neuroner.com/)
 * [Entity extraction using Deep Learning](https://medium.com/intro-to-artificial-intelligence/entity-extraction-using-deep-learning-8014acac6bb8)
   * 기사의 각 단어를 organisation, person, miscellaneous 및 other의 네가지 범주로 태그
   * 그런 다음 기사에서 가장 두드러진 조직과 이름을 찾아 딥러닝 모델은 각 단어를 위의 4가지 범주로 분류
@@ -1166,6 +1165,8 @@ NLP
 * [Named Entity Recognition with NLTK and SpaCy](https://towardsdatascience.com/named-entity-recognition-with-nltk-and-spacy-8c4a7d88e7da)
 * [Multilingual Named Entity Recognition: Research to Reality](https://blog.paralleldots.com/product/text-analytics/multilingual-named-entity-recognition/)
 * [etagger - reference tensorflow code for named entity recognition](https://github.com/dsindex/etagger)
+* [GENRE: Autoregressive Entity Retrieval](https://github.com/facebookresearch/GENRE)
+* [NeuroNER - A Named-Entity Recognition Program based on Neural Networks and Easy to Use](http://neuroner.com/)
 
 # News
 * [“포털 야구 중계, 로봇 저널리즘이 대체 가능해“](http://www.bloter.net/archives/227030)
