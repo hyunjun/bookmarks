@@ -98,6 +98,7 @@ Docker
 * [Deploy Docker Containers with Docker Cloud](https://www.youtube.com/watch?v=F82K07NmRpk) 예전 버전인 점 감안
 * [DockerHub의 Automated Build](https://blog.outsider.ne.kr/1387)
 * [Travis CI에서 Docker Hub에 이미지 푸시하기](https://blog.outsider.ne.kr/1388)
+* [Docker Hub Pull 횟수 6시간에 100회 제한 정책 | 쿠버네티스 안내서](https://subicura.com/k8s/2021/01/02/docker-hub-pull-limit/)
 * [Docker - 이미지와 컨테이너, 10분 정리](https://www.sangkon.com/hands-on-docker-part1/)
 * [Docker - 컴포넌트, 20분 정리](https://www.sangkon.com/hands-on-docker-part2/)
 * [Managing Open-Source Docker Images on Docker Hub using Travis](https://medium.com/vaidikkapoor/managing-open-source-docker-images-on-docker-hub-using-travis-7fd33bc96d65)
