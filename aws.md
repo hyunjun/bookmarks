@@ -661,6 +661,7 @@ AWS
 * [Samsung Health: Scaling Mobile Application Development with Amazon EKS - YouTube](https://www.youtube.com/watch?reload=9&v=S-JSSZZaa94)
 * [How to track costs in multi-tenant Amazon EKS clusters using Kubecost | Containers](https://aws.amazon.com/ko/blogs/containers/how-to-track-costs-in-multi-tenant-amazon-eks-clusters-using-kubecost/)
 * [5일 만에 Azar Production Kubernetes cluster 이전하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/11/02/cluster-migration-in-5-days.html)
+* [EKS에서 쿠버네티스 포드의 IAM 권한 제어하기: Pod Identity Webhook](https://tech.devsisters.com/posts/pod-iam-role/)
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
   * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
 
