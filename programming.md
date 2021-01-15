@@ -2099,6 +2099,7 @@ Programming
   * [기술 뉴스 #163 : 20-12-02 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1515)
   * [기술 뉴스 #164 : 20-12-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1519)
   * [기술 뉴스 #165 : 21-01-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1523)
+  * [기술 뉴스 #166 : 21-01-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1527)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -2224,6 +2225,9 @@ Programming
   * [(1월 9일) 내가 소프트웨어 업계에서 45년 동안 배운 교훈](https://jhrogue.blogspot.com/2021/01/1-9-45.html)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
+
+# Oncall On call
+* [Building On-Call Culture at GitHub - The GitHub Blog](https://github.blog/2021-01-06-building-on-call-culture-at-github/)
 
 # OS Operating System
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
