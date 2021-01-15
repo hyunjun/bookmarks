@@ -419,6 +419,8 @@ Functional Programming
 * [FunctionalTV - YouTube](https://www.youtube.com/user/FunctionalTV/videos)
 * [Scale By The Bay 2020: Justin Heyes-Jones, Applicative: The Origin Story - YouTube](https://www.youtube.com/watch?v=63QNPU1S1sU)
 * [Function Applicative for Great Good of Palindrome Checker Function - …](https://www.slideshare.net/pjschwarz/function-applicative-for-great-good-of-palindrome-checker-function-polyglot-fp-for-fun-and-profit-haskell-and-scala)
+* [Parallel analysis of temperature dataset | Functional Scala - YouTube](https://www.youtube.com/watch?v=VIxfSgl0-H4)
+* [What the Functor? | Functors in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=aSnY2JBzjUw)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
