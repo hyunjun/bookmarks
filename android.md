@@ -182,6 +182,7 @@ Android
 * [James Ing Wei Tang - Honey, There Is a Python in My Android Phone! - YouTube](https://www.youtube.com/watch?v=S32Z55c_GkY)
 * [Pluu Dev - AndroidX Lifecycle ~ ViewTreeLifecycleOwner](http://pluu.github.io/blog/android/2020/12/21/viewtreelifecycle/)
 * [Pluu Dev - Lifecycle-ktx whenStateAtLeast와 withStateAtLeast ~ 1부](http://pluu.github.io/blog/android/2021/01/12/androidx-lifecycle-ktx/)
+* [Pluu Dev - Lifecycle-ktx whenStateAtLeast와 withStateAtLeast ~ 2부](http://pluu.github.io/blog/android/2021/01/14/android-lifecycle-ktx/)
 * [혼자서 Android App 개발하기 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/12/31/developing-an-android-app-in-one-person.html)
 
 # Android Studio
