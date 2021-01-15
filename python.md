@@ -3167,6 +3167,7 @@ Python
 * [validus - A dead simple Python data validation library. It supports Python 3 only](https://github.com/shopnilsazal/validus)
 * [viztracer: VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution](https://github.com/gaogaotiantian/viztracer)
   * [Understand your Python code with this open source visualization tool | Opensource.com](https://opensource.com/article/20/11/python-code-viztracer)
+  * [Tracing the Python GIL | Maarten Breddels’ blog](https://www.maartenbreddels.com/perf/jupyter/python/tracing/gil/2021/01/14/Tracing-the-Python-GIL.html) viztracer + perf
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
 * [Watchdog](http://pythonhosted.org/watchdog/) Python API library and shell utilities to monitor file system events
