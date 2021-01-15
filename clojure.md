@@ -707,6 +707,7 @@ Clojure
   * [Hugging Face GPT With Clojure](https://gigasquidsoftware.com/blog/2020/01/10/hugging-face-gpt-with-clojure/)
 * [lokke: Lokke: Clojure for Guile](https://github.com/lokke-org/lokke)
 * [Loom - Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj http://aysy.lu/loom ](https://github.com/aysylu/loom)
+* [lucene-grep: Grep-like utility based on Lucene Monitor compiled with GraalVM native-image](https://github.com/dainiusjocas/lucene-grep)
 * [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/) web template
   * [Clojure with LuminusWeb](https://medium.com/@itstedpark/clojure-with-luminusweb-e688a670166d)
   * [Luminus에서 clj-refactor 설정하기](http://clojure.kr/luminus-clj-refactor)
