@@ -416,6 +416,8 @@ Programming
 * [Sprint & Jira](https://www.slideshare.net/seokjoonyun9/sprint-jira)
 * [Agile Testing Condensed Korean Edition by Janet Gregory et al.](https://leanpub.com/agiletesting-condensed-korean-edition)
 * [클린 애자일 - 첫 마음으로 돌아가보는 여정](https://jusths.tistory.com/188)
+* [클린 애자일 - 3장 비즈니스 실천 방법](https://jusths.tistory.com/189)
+* [클린 애자일 - 4장 팀 실천 방법](https://jusths.tistory.com/190)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -1369,6 +1371,7 @@ Programming
   * [if (kakao)2020 기술 세션 다시보기 – tech.kakao.com](https://tech.kakao.com/2020/11/24/if-kakao-2020-dev-session/)
 * [JetBrains Day 2018 스케치 영상](https://www.youtube.com/playlist?list=PLQ176FUIyIUYTei17s-bjW27MVV2jmSGs) plugin, upsource, rider, intelliJ, kotlin
 * Line
+  * [LINE DEVELOPER DAY 2020 개최 후기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-developer-day-2020-report/)
   * [일본 LINE DEVELOPER DAY 2018 방문기](https://engineering.linecorp.com/ko/blog/line-developer-day-2018/)
 * NDC
   * [2017 NDC 참관 후기](http://www.popit.kr/2017-ndc-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0/)
