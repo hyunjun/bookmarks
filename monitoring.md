@@ -45,6 +45,7 @@ Monitoring
 * [Monitoring Servers and Docker Containers using Elasticsearch with Grafana](https://medium.com/skedler/monitoring-servers-and-docker-containers-using-elasticsearch-with-grafana-c61dab0a34a2)
 * [Grafana](https://www.youtube.com/playlist?list=PLVx1qovxj-akOGKSoQ5sGc5ZRfH8Tpnow)
 * [그라파나(Grafana)란? | 44BITS](https://www.44bits.io/ko/keyword/grafana)
+* [Get started with Prometheus with these three easy projects | Grafana Labs](https://grafana.com/blog/2021/01/08/get-started-with-prometheus-with-these-three-easy-projects/)
 * Grafana Tempo [Grafana Announces Grafana Tempo, a Distributed Tracing System](https://www.infoq.com/news/2020/12/grafana-tempo-distributed-tracin/)
 * [Loki tutorial: How to send logs from EKS with Promtail to get full visibility in Grafana | Grafana Labs](https://grafana.com/blog/2020/07/21/loki-tutorial-how-to-send-logs-from-eks-with-promtail-to-get-full-visibility-in-grafana/)
 
