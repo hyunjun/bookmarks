@@ -219,3 +219,4 @@ Json
 * [YAML: probably not so great after all](https://arp242.net/yaml-config.html)
 * [What does YAML do better than JSON?](https://www.quora.com/What-does-YAML-do-better-than-JSON)
 * [YAML - Quick Reference Cheat Sheet](https://quickref.me/yaml)
+* [6 YAML Features most programmers don’t know | by Martin Thoma | Jan, 2021 | Level Up Coding](https://levelup.gitconnected.com/6-yaml-features-most-programmers-dont-know-164762343af3)
