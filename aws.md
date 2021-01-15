@@ -499,6 +499,7 @@ AWS
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 
 # Conference
+* [빠르게 훑어보는 "AWS Hero와 함께하는 re:Invent reCap 온라인 세미나" 후기](https://jybaek.tistory.com/888)
 * [AWS Community Day online 2020 - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu)
 * DevDay
   * [WS DevDay Seoul 2019](https://www.youtube.com/playlist?list=PLORxAVAC5fUWht8FSD70jbjRxp9h6izuI)
