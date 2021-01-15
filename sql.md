@@ -77,6 +77,7 @@ SQL
   * [(즐겁게 배우는 SQL #31) 데이터를 정의하자 - SQL 데이터 타입](https://jhrogue.blogspot.com/2021/01/sql-31-sql.html)
   * [(즐겁게 배우는 SQL #32) 데이터를 정의하자 - 테이블 생성](https://jhrogue.blogspot.com/2021/01/sql-32.html)
   * [(즐겁게 배우는 SQL #33) 데이터를 정의하자 - 테이블 변경](https://jhrogue.blogspot.com/2021/01/sql-33.html)
+  * [(즐겁게 배우는 SQL #34) 데이터를 정의하자 - 테이블 열 이름 변경](https://jhrogue.blogspot.com/2021/01/sql-34.html)
 * [고독쓰나미 - YouTube](https://www.youtube.com/channel/UClUrjhtzmAJL-sgXe6sNUkw)
 * [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
 * [EDB is a framework to make and manage backups of your database](https://github.com/RoxasShadow/EDB)
