@@ -578,6 +578,7 @@ Apache
 * [Thread-Per-Core Buffer Management for a modern Kafka-API storage system - Vectorized](https://vectorized.io/blog/tpc-buffers/)
 * [Introducing Confluent’s Parallel Consumer Message Processing Client](https://www.confluent.io/blog/introducing-confluent-parallel-message-processing-client/)
 * [Intro to Apache Kafka: How Kafka Works](https://www.confluent.io/blog/apache-kafka-intro-how-kafka-works/)
+* [Kafka Operations(Production Deployment) – Sori-Nori](https://sori-nori.gitlab.io/docs/Kafka-Operations/)
 * [Disaster Recovery for Multi-Region Kafka at Uber | Uber Engineering Blog](https://eng.uber.com/kafka/)
   * [summary](https://gist.github.com/hyunjun/c176ac5d9f9dcc478ac6c28f56ca2b6f#file-uber_kafka_summary)
 
