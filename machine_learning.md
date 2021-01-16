@@ -627,6 +627,8 @@ Machine Learning
 * [Building Machine Learning infra](https://morioh.com/p/b0384838c50f)
 * [Principal Component Analysis (PCA) with Python Examples — Tutorial | by Towards AI Team | Towards AI | Nov, 2020 | Medium](https://medium.com/towards-artificial-intelligence/principal-component-analysis-pca-with-python-examples-tutorial-67a917bae9aa)
 * [조대협의 블로그 :: 머신러닝 파이프라인에서 데이터 전처리 방법](https://bcho.tistory.com/1380) 일반적인 이야기 + GCP 이야기
+* [Introducing Machine Learning for Developers Newsletter (ML4Devs, Issue 1) - Machine Learning for Developers](https://ml4devs.substack.com/p/001-machine-learning-for-developers-newsletter)
+* [Machine Learning vs. Traditional Software Development (ML4Devs, Issue 2) - Machine Learning for Developers](https://ml4devs.substack.com/p/002-machine-learning-vs-traditional-software)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -796,6 +798,7 @@ Machine Learning
 # Java
 * [Java Machine Learning Library](https://github.com/Daniel-Liu-c0deb0t/Java-Machine-Learning/blob/master/README.md)
 * [SystemML](https://developer.ibm.com/open/systemml/)
+* [Weka 3 - Data Mining with Open Source Machine Learning Software in Java](https://www.cs.waikato.ac.nz/ml/weka/)
 
 # JavaScript
 * [11 Javascript Machine Learning Libraries To Use In Your App](https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c)
