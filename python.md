@@ -2449,6 +2449,7 @@ Python
   * [A visual debugger for Jupyter](https://blog.jupyter.org/a-visual-debugger-for-jupyter-914e61716559)
   * [3 Must-have JupyterLab 2.0 extensions - Towards Data Science](https://towardsdatascience.com/3-must-have-jupyterlab-2-0-extensions-41024fe455cc)
   * [AI-Powered Code Completion in JupyterLab | by Robert Ritz | Towards Data Science](https://towardsdatascience.com/ai-powered-code-completion-in-jupyterlab-53e53850080c)
+  * [JupyterLab 3.0 is released!. The 3.0 release of JupyterLab brings… | by Jeremy Tuloup | Jan, 2021 | Jupyter Blog](https://blog.jupyter.org/jupyterlab-3-0-is-out-4f58385e25bb)
 * [jupyterthemes](https://github.com/dunovank/jupyter-themes)
   * [Jupyter 노트북 테마적용](http://haanjack.github.io/jupyter/theme/2016/03/08/jupyter-theme.html)
   * [Jupyter Theme 적용](https://noweaver.github.io/dt/analytics/2018/10/15/Jupyter-Theme-Apply.html)
@@ -4057,6 +4058,7 @@ Python
 * [Area of sinc and jinc function lobes](https://www.johndcook.com/blog/2019/12/31/sinc-jinc-lobes/)
 * [SciPy 1.0: fundamental algorithms for scientific computing in Python](https://www.nature.com/articles/s41592-019-0686-2)
 * [Envelope for Least Square Filtering and Smoothing | Pega Devlog](https://jehyunlee.github.io/2020/07/14/Python-DS-20-envelope/)
+* [Scipy Lecture Notes — Scipy lecture notes](http://scipy-lectures.org/index.html)
 
 # Slack
 * [파이썬으로 Slack에 문자 보내기](http://mcchae.egloos.com/11244865)
@@ -4077,6 +4079,7 @@ Python
 * [Python Sympy 모듈 이해하기](http://www.slideshare.net/dahlmoon/jupyter-notebok-20160630)
 * [파이썬 심파이(Sympy)와 함께하는 수학여행](http://sympy.xwmooc.org/02-sympy-install.html)
 * [Generating Python code from SymPy](https://www.johndcook.com/blog/2019/10/31/generating-python-code-from-sympy/)
+* [Doing symbolic math with SymPy LWN.net](https://lwn.net/Articles/840986/)
 
 # TDD, Test
 * [Beginning Test-Driven Development in Python](http://code.tutsplus.com/tutorials/beginning-test-driven-development-in-python--net-30137)
