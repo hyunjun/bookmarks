@@ -144,6 +144,7 @@ Business
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
 * [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
 * [Stop Being Micromanaged. Recognize the signs and manage up | by Vinita | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/stop-being-micromanaged-d341c3838ab3)
+* [‘마이크로매니징’을 피하면서 직원들을 돕는 방법 | 인사조직 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/2_1/article_no/1661)
 * [개발자에서 관리자까지: 기술력을 유지해라](http://jinson.tistory.com/285)
 * [개발자가 관리자로 전환을 고려할 때 알아야 할 7가지 - ITWorld Korea](https://www.itworld.co.kr/news/177139)
 * [협상을 배워야 지지 않는다](http://ppss.kr/archives/49075)
