@@ -299,6 +299,7 @@ Vision
 * [스마트하게 식단을 관리하는 딥러닝 기술](https://tech.kakaoenterprise.com/84)
 * [Parallel_Development_Community_GPGPU_Study](https://github.com/ConstantPark/Parallel_Development_Community_GPGPU_Study)
   * [Parallel Development Community - YouTube](https://www.youtube.com/channel/UCh09yimx3phi31V7B2DVHOw/videos)
+* [How To Become A Computer Vision Engineer In 2021 | by Richmond Alake | Jan, 2021 | Towards Data Science](https://towardsdatascience.com/how-to-become-a-computer-vision-engineer-in-2021-c563545d4c9a)
 
 # Book
 * [Hands-On Computer Vision with TensorFlow 2, published by Packt](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
@@ -362,6 +363,7 @@ Vision
 * [Naver CLOVA Face Recognition(CFR)을 활용한 웹앱 만들어보기 | by Ryan Kim | Oct, 2020 | Medium](https://medium.com/@equus3144/naver-clova-face-recognition-cfr-%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9B%B9%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-cc29ef51a189)
 * [사물인식하기 2 , ObjectDetection– ML5.js « Makezone – 인터랙티브 미디어, fablication 그리고 사물인터넷(IoT)](http://makezone.co.kr/blog/2020/12/13/%EC%82%AC%EB%AC%BC%EC%9D%B8%EC%8B%9D%ED%95%98%EA%B8%B0-2-bodypix-ml5-js/)
 * [얼굴 인식하기 2, FaceAPI – ML5.js « Makezone – 인터랙티브 미디어, fablication 그리고 사물인터넷(IoT)](http://makezone.co.kr/blog/2020/12/27/%ec%96%bc%ea%b5%b4-%ec%9d%b8%ec%8b%9d%ed%95%98%ea%b8%b0-2-faceapi-ml5-js/)
+* [handtrack.js: A library for prototyping realtime hand detection (bounding box), directly in the browser](https://github.com/victordibia/handtrack.js)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
@@ -665,6 +667,7 @@ Vision
 * [facenet - Face Recognition using Tensorflow](https://github.com/davidsandberg/facenet)
 * [face_recognition - The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
 * [malmopy: Python Library for working with Project Malmo - Hack & Tell Singapore](https://www.youtube.com/watch?v=-IbC88-Fa7w)
+* [mmtracking: OpenMMLab Video Perception Toolbox. It supports Single Object Tracking (SOT), Multiple Object Tracking (MOT), Video Object Detection (VID) with a unified framework.](https://github.com/open-mmlab/mmtracking)
 * [norfair: Lightweight Python library for adding real-time 2D object tracking to any detector](https://github.com/tryolabs/norfair)
 * [object_detector_app: Real-Time Object Recognition App with Tensorflow and OpenCV](https://github.com/datitran/object_detector_app)
 * [openface - Face recognition with deep neural networks. http://cmusatyalab.github.io/openface ](https://github.com/cmusatyalab/openface)
