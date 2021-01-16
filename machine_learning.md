@@ -1179,6 +1179,8 @@ Machine Learning
   * [PyCM 2.5 released : Multi-class confusion matrix library in Python](https://www.reddit.com/r/MachineLearning/comments/diqyb7/p_pycm_25_released_multiclass_confusion_matrix/)
 * PyGAD [Welcome to PyGAD’s documentation! — PyGAD 2.9.0 documentation](https://pygad.readthedocs.io/)
   * [GeneticAlgorithmPython: Build the Genetic Algorithm Implementation in Python 3 using NumPy](https://github.com/ahmedfgad/GeneticAlgorithmPython/)
+* [PyLops — PyLops](https://pylops.readthedocs.io/)
+  * [Solving large scale inverse problems in Python with PyLops - M. Ravasi, I. Vasconcelos and D. Vargas - YouTube](https://www.youtube.com/watch?v=WekWA-3bg9U)
 * [PyML - Python을 이용한 머신러닝 (코세리 인증과정 도전 스터디)](http://psygrammer.github.io/PyML/)
 * [Sacred - a tool to help you configure, organize, log and reproduce experiments](https://github.com/IDSIA/sacred)
   * [Welcome to Sacred’s documentation!](https://sacred.readthedocs.io)
