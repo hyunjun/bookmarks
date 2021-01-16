@@ -791,6 +791,7 @@ NLP
   * 1. local 특성에 따라 달라지는것; Address, Business, Datetime, Food, Person, Science, Text
   * 2. local 특성과는 무관한것; Clothing, Code, Choice, Cryptographic, Development, File, Hardware, Internet, Numbers, Path, Structure, Transport, UnitSystem
   * 3. 나만의 Generator는 BaseDataProvider 같은 것을 상속받아 작성
+* [The Pile](https://pile.eleuther.ai/)
 
 # Disambiguation
 * [Automatic disambiguation of English puns](https://www.ukp.tu-darmstadt.de/fileadmin/user_upload/Group_UKP/publikationen/2015/2015_Miller_Disambiguation_of_English_puns.pdf)
