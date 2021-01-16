@@ -336,6 +336,7 @@ Clojure
   * [Queuing On EC2 With core.async](https://nervous.io/clojure/aws/async/sqs/messaging/2015/06/15/fink-nottle-sqs/)
   * [Reducers, transducers and core.async in Clojure](http://eli.thegreenplace.net/2017/reducers-transducers-and-coreasync-in-clojure)
   * [Reducers in Clojure - Level Up Coding](https://levelup.gitconnected.com/reducers-in-clojure-c088a5627412)
+  * [wsscode-async: Core.async utilities package](https://github.com/wilkerlucio/wsscode-async)
 * core.logic
   * [core.logic](http://logic-tutorials-kr.readthedocs.org/ko/latest/)
   * [The magical island of kanren core logic intro part 1](http://objectcommando.com/blog/2011/11/04/the-magical-island-of-kanren-core-logic-intro-part-1/)
