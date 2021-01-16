@@ -216,6 +216,7 @@ Algorithm
 * [많이 언급되는 오프라인 쿼리 간단하게 훑어봅시다](https://codingdog.tistory.com/entry/%EB%A7%8E%EC%9D%B4-%EC%96%B8%EA%B8%89%EB%90%98%EB%8A%94-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%BF%BC%EB%A6%AC-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%ED%9B%91%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [BaaaaaaaarkingDog | '강좌/실전 알고리즘' 카테고리의 글 목록](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * [자료구조 카테고리 목록](https://lypicfa.tistory.com/557)
+* [Algorithms for Decision Making](https://algorithmsbook.com/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
