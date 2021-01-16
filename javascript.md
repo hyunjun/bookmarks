@@ -2656,6 +2656,7 @@ Javascript
 * [What is React? - YouTube](https://www.youtube.com/watch?v=O_YYFuVBGp4)
 * [list component key에 대하여](https://hokeydokey.tistory.com/121)
 * [쪼그라드는 웹페이지](https://tech.devsisters.com/posts/shrinking-webpage/)
+* [Junior Vs Senior Code - How To Write Better Code As A Web Developer - React - YouTube](https://www.youtube.com/watch?v=0yzoAbrjV6k)
 * [React Flow](https://reactflow.dev/)
 
 ## React Flux
