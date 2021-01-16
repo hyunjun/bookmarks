@@ -1219,6 +1219,8 @@ Machine Learning
   * [Deep Neural Multilayer Perceptron (MLP) with Scikit-learn | by Kaushik Choudhury | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/deep-neural-multilayer-perceptron-mlp-with-scikit-learn-2698e77155e)
   * [사이킷런 0.24 맛보기! | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/2020/11/15/%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0-0-24-%EB%A7%9B%EB%B3%B4%EA%B8%B0/)
 * [SHAP (SHapley Additive exPlanations) explains the output of any machine learning model using expectations and Shapley values](https://github.com/slundberg/shap)
+* [shapash: Shapash makes Machine Learning models transparent and understandable by everyone](https://github.com/MAIF/shapash)
+  * [P Introducing Shapash, a new Python library : makes Machine Learning models transparent and understandable by everyone : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/kxrld8/p_introducing_shapash_a_new_python_library_makes/)
 * [shrynk - Using Machine Learning to learn how to Compress](https://vks.ai/2019-12-05-shrynk-using-machine-learning-to-learn-how-to-compress)
 * sklearn
   * [IACS_ComputeFest_sklearn](https://github.com/rahuldave/IACS_ComputeFest_sklearn)
