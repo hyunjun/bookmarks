@@ -155,3 +155,6 @@ Sports
 * [214. Arte de lo Clasico 바르셀로나에 참패를 당한 레알 마드리드](https://1boon.daum.net/kalka/kalka181031) 미술과 축구를 연결해 그린 편
 * [스포츠 빅데이터② 4부에서 1부로..빅데이터의 마법](https://sports.v.daum.net/v/20181129203152987)
 * [**한준의 축구환상곡 "선수 탓하면 아마추어" 한국 지도자에 노하우 전수한 '저승사자' 레이몬드**](https://sports.v.daum.net/v/20191212181257725) 축구 레퍼런스에 대해 언급하는 부분이 정말 인상적, 축구 외의 일반적인 영역에도 적용 가능
+
+# NFL
+* [How to predict NFL Winners with Python. Follow along the steps](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/)
