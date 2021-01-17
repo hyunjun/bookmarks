@@ -1290,6 +1290,8 @@ Scala
     * [rossabaker.github.io/boston-http4s](https://rossabaker.github.io/boston-http4s)
   * [http4s: from Cats to ZIO](http://fruzenshtein.com/http4s-from-cats-to-zio/)
   * [Type-Safe REST services in Scala with Http4s & Cats-IO](https://medium.com/walmartlabs/type-safe-rest-services-in-scala-with-http4s-cats-io-288d6e23a90a)
+  * [Building Functional Web Services with Scala & http4s (Part 1): Hello World - YouTube](https://www.youtube.com/watch?v=qbVy8NC9_RI)
+  * [Building Functional Web Services with Scala & http4s (Part 2): Starting our Recipe Service - YouTube](https://www.youtube.com/watch?v=phTXi7mAde0)
   * [http4s-netty](https://github.com/http4s/http4s-netty)
   * [meow-mtl](https://github.com/oleg-py/meow-mtl)
     * [Error handling in Http4s with classy optics](https://typelevel.org/blog/2018/08/25/http4s-error-handling-mtl.html)
