@@ -635,6 +635,7 @@ Data Science
 * [추천 서비스와 아키텍처 1 -추천 서비스란 무엇인가. 이 글에서는 평소 무심코 지나쳤을 추천 서비스를 좀 더 이해할 수… | by Jongmin Lee | How we build MyRealTrip | Nov, 2020 | Medium](https://medium.com/myrealtrip-product/%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-1-40ddb5e7e3bd)
 * [추천 서비스와 아키텍처 2 -추천 서비스 제공을 위한 아키텍처 | by Jongmin Lee | How we build MyRealTrip | Nov, 2020 | Medium](https://medium.com/myrealtrip-product/%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-2-%EC%B6%94%EC%B2%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EA%B3%B5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-9897d6dc8bc9)
 * [당신 취향의 맛집을 추천해드립니다 : 장소 개인화 추천 시스템의 비밀](https://tv.naver.com/v/16968206/list/657024)
+* [추천시스템 평가는 어떻게 하면 좋을까?](https://lsjsj92.tistory.com/608)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
