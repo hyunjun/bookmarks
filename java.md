@@ -135,7 +135,9 @@ Java
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
-* Arrays [java의 arrays.sort 메서드는 어떤 정렬을 사용할까요?](https://codingdog.tistory.com/entry/java%EC%9D%98-arrayssort-%EB%A9%94%EC%84%9C%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%A0%AC%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C%EC%9A%94)
+* Arrays
+  * [java의 arrays.sort 메서드는 어떤 정렬을 사용할까요?](https://codingdog.tistory.com/entry/java%EC%9D%98-arrayssort-%EB%A9%94%EC%84%9C%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%A0%AC%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C%EC%9A%94)
+  * [3. JAVA - Arrays.asList()와 List.of()의 차이](https://kim-jong-hyun.tistory.com/31)
 * [autovalue](https://github.com/google/auto/blob/master/value/userguide/index.md)
 * class
   * [4대 중첩 클래스(내부 클래스)](http://dkatlf900.tistory.com/49)
@@ -1227,6 +1229,7 @@ Java
 * [프로젝트 생성 및 기본개념](http://scw0531.blog.me/221066404723)
 * [Embedded MongoDB](http://scw0531.blog.me/221068794003)
 * [Spring boot환경에서 JWT 사용하기](http://alwayspr.tistory.com/8)
+* [SpringBoot 에서 JWT를 활용한 인증 구현하기 - YouTube](https://www.youtube.com/watch?v=TlWzEr4cXfc)
 * [SpringBoot 환경에서 Spock 사용하기](http://jojoldu.tistory.com/229)
 * [SpringBoot @MockBean, @SpyBean 소개](http://jojoldu.tistory.com/226)
 * [SpringBoot H2 DB 클라이언트로 IntelliJ 사용하기](http://jojoldu.tistory.com/234)
