@@ -2521,6 +2521,7 @@ Javascript
 * [Lazy Loading React Components (with react.lazy and suspense)](https://blog.bitsrc.io/lazy-loading-react-components-with-react-lazy-and-suspense-f05c4cfde10c)
 * [How to optimize React applications with Lazy Loading](https://medium.freecodecamp.org/how-to-optimize-react-applications-with-lazy-loading-232183e02768)
 * [Magic of React Suspense with concurrent react and React.lazy API](https://hackernoon.com/magic-of-react-suspense-with-concurrent-react-and-react-lazy-api-e32dc5f30ed1)
+* [동적으로 import된 컴포넌트의 테스트 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-01-16-test-dynamically-imported-component) react.lazy
 * [No-boilerplate global state management in React](https://medium.com/swlh/no-boilerplate-global-state-management-in-react-907589d9554f)
 * [Understanding React Default Props](https://blog.bitsrc.io/understanding-react-default-props-5c50401ed37d)
 * [Understanding React PropTypes - Type-Checking in React](https://blog.bitsrc.io/understanding-react-proptypes-type-checking-in-react-9648a62ce12e)
