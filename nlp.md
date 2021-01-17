@@ -443,6 +443,7 @@ NLP
 * [딥러닝으로 동네생활 게시글 필터링하기. BERT를 사용해서 동네 생활 게시글 필터링 모델을 개발한 과정을… | by matthew l | 당근마켓 팀블로그 | Medium](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9C%BC%EB%A1%9C-%EB%8F%99%EB%84%A4%EC%83%9D%ED%99%9C-%EA%B2%8C%EC%8B%9C%EA%B8%80-%ED%95%84%ED%84%B0%EB%A7%81%ED%95%98%EA%B8%B0-263cfe4bc58d)
 * [Using BERT to Battle Job Scams. The BERT model has many practical… | by Sadrach Pierre, Ph.D. | Towards Data Science](https://towardsdatascience.com/using-bert-to-battle-job-scams-d98e6a0ca1e1)
 * [Pydata Berlin Meetup October 2020: Long Story Short: - YouTube](https://www.youtube.com/watch?v=LfdbCfKGKco)
+* [Keras-Bert를 이용한 간단 구현(정확도 94%) - DACON](https://dacon.io/codeshare/2044)
 * [KoBART: Korean BART](https://github.com/SKT-AI/KoBART) Bidirectional and Auto-Regressive Transformers, 한국어 encoder-decoder 언어 모델
 * [KoBART-summarization: Summarization module based on KoBART](https://github.com/seujung/KoBART-summarization)
 * [kobart-transformers: kobart on huggingface transformers](https://github.com/hyunwoongko/kobart-transformers)
@@ -1078,7 +1079,6 @@ NLP
     * 신경망과 spaCy를 이용한 coreference resolution library
     * [State-of-the-art neural coreference resolution for chatbots](https://medium.com/huggingface/state-of-the-art-neural-coreference-resolution-for-chatbots-3302365dcf30)
   * [NLP With Python: Build a Haiku Machine in 50 Lines Of Code | by Sean Zhai | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/nlp-with-python-build-a-haiku-machine-in-50-lines-of-code-6c7b6de959e3)
-  * [Prodigy: A new tool for radically efficient machine teaching](https://explosion.ai/blog/prodigy-annotation-tool-active-learning)
   * [yujuwon.tistory.com/m/tag/spaCy](http://yujuwon.tistory.com/m/tag/spaCy)
   * [Machine Learning for Text Classification Using SpaCy in Python](https://towardsdatascience.com/machine-learning-for-text-classification-using-spacy-in-python-b276b4051a49)
   * [Korean support](https://github.com/explosion/spaCy/pull/3901)
@@ -1086,6 +1086,8 @@ NLP
     * [SPACY IRL 2019](https://www.youtube.com/playlist?list=PLBmcuObd5An4UC6jvK_-eSl6jCvP1gwXc)
   * [Advanced NLP with spaCy](https://course.spacy.io/)
   * [Natural Language in Python using spaCy: An Introduction](https://blog.dominodatalab.com/natural-language-in-python-using-spacy/)
+  * [merge-idioms: Implementation of Spacy's NLP pipeline for merging idioms as standalone tokens](https://github.com/eubinecto/merge-idioms) 숙어는 tokenizing할 때 각 단어별로 나누지 않는 library
+  * [Prodigy: A new tool for radically efficient machine teaching](https://explosion.ai/blog/prodigy-annotation-tool-active-learning)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 * [TextFeatureSelection · PyPI](https://pypi.org/project/TextFeatureSelection/)
