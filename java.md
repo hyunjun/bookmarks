@@ -1316,6 +1316,7 @@ Java
 * [딱 10분만에 RESTful 서비스 개발하기 (feat. SpringBoot) - YouTube](https://www.youtube.com/watch?v=4pDrRvhUjiQ)
 * [스프링 부트 로그 레벨 조정하기 - YouTube](https://www.youtube.com/watch?v=z1rU8ZVjtrE)
 * [스프링 부트 개발할 때 자동 재시작 설정 방법 - YouTube](https://www.youtube.com/watch?v=twIzKIp04Gk)
+* [스프링 부트 자동 재시작 설정하기 #개발모드 - YouTube](https://www.youtube.com/watch?v=3_8cZF93X3w)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
