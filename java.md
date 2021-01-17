@@ -934,6 +934,7 @@ Java
   * [스프링 팁, "생성자 안 만들고 생성자 주입을 쓸 수 있다?!" (feat 롬복)](https://www.youtube.com/watch?v=qmI7uJapocw)
   * [Spicing up your Java — Introduction to Project Lombok](https://medium.com/codefountain/spicing-up-your-java-introduction-to-project-lombok-8fb4328b3996)
   * [자바 초보개발자를 위한 꿀팁 - Lombok - YouTube](https://www.youtube.com/watch?v=JouPeMHj3Po)
+  * [Simplifying Java Boilerplate Through Lombok - YouTube](https://www.youtube.com/watch?v=cjftvp-pILs)
 * [Machine Learning - Java collection that provides Java packages for developing a machine learning algorithm](https://github.com/sebig3000/MachineLearning)
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)
 * Maven
