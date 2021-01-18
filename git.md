@@ -509,6 +509,7 @@ Git
   * [Git: merging specific files from another branch](https://www.haykranen.nl/2011/07/18/git-merging-specific-files-from-another-branch/)
   * [merge a remote branch locally](https://stackoverflow.com/questions/21651185/git-merge-a-remote-branch-locally)
   * [Git Merge Strategy Options and Examples](https://www.atlassian.com/git/tutorials/using-branches/merge-strategy)
+  * [merge - How to replace master branch in Git, entirely, from another branch? - Stack Overflow](https://stackoverflow.com/questions/2862590/how-to-replace-master-branch-in-git-entirely-from-another-branch) master에 merge한 commit들이 문제가 있는 경우 다시 다른 branch를 master에 덮어쓸 때 유용
 * restore [새 버전에 맞게 git checkout 대신 switch/restore 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1505)
 * show
 * status
