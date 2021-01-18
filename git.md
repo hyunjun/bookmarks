@@ -271,6 +271,7 @@ Git
   ```
 * [How to Undo Mistakes With Git Using the Command Line - YouTube](https://www.youtube.com/watch?v=lX9hsdsAeTk)
 * [🌳🚀 CS Visualized: Useful Git Commands - DEV Community](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
+* [익숙해지면 좋을 깃(git) 명령어 모음집](https://tech.urbanbase.com/dev/2021/01/15/GitCommand.html)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
   * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
