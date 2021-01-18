@@ -614,6 +614,7 @@ Clojure
 * [The Clojure Toolbox - A categorised directory of libraries and tools for Clojure](http://www.clojure-toolbox.com/)
 * [clojure.java.jdbc - A low-level Clojure wrapper for JDBC-based access to databases](https://github.com/clojure/java.jdbc)
 * [clojure-lsp: Language Server (LSP) for Clojure](https://github.com/clojure-lsp/clojure-lsp)
+* [clojure-rust-graalvm: An example of Clojure program calling a Rust library, all combined into one executable using GraalVM](https://github.com/borkdude/clojure-rust-graalvm)
 * [clojure-turtle - A Clojure library that implements the Logo programming language in a Clojure context](https://github.com/google/clojure-turtle)
 * [clojure-web-minsetup](https://github.com/clonekim/clojure-web-minsetup)
 * [Clojush - The Push programming language and the PushGP genetic programming system implemented in Clojure. http://hampshire.edu/lspector/push.html](https://github.com/lspector/Clojush)
@@ -814,6 +815,7 @@ Clojure
 
 # Style Guide, Formatting
 * [clojure-style-guide - A community coding style guide for the Clojure programming language](https://github.com/bbatsov/clojure-style-guide)
+* [Rok's Software Engineering Blog: The "Clojure Style Guide" is simply Wrong](https://roklenarcic.github.io/posts-output/2019-10-15-clojure-style-guide)
 * [The Clojure Style Guide](https://github.com/kwakbab/clojure-style-guide)
 * [Idiomatic Clojure: Code Smells](https://bsless.github.io/code-smells/)
 * [cljfmt: A tool for formatting Clojure code](https://github.com/weavejester/cljfmt)
