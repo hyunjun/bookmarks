@@ -67,3 +67,5 @@ English
   * 5. Miss out on
 * [How to write in plain English](http://www.plainenglish.co.uk/how-to-write-in-plain-english.html)
 * [직장영어 → 영어로 그래프 설명하기 - YouTube](https://www.youtube.com/watch?v=eP-ulNi6p04)
+* [ABOVE MY PAYGRADE (phrase) definition and synonyms | Macmillan Dictionary](https://www.macmillandictionary.com/dictionary/british/above-my-paygrade)
+* [(like) Water Off A Duck's Back | Definition of (like) Water Off A Duck's Back by Merriam-Webster](https://www.merriam-webster.com/dictionary/%28like%29%20water%20off%20a%20duck%27s%20back)
