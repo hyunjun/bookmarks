@@ -983,6 +983,7 @@ NLP
 * [Simplenlg - a simple Java API designed to facilitate the generation of Natural Language](https://github.com/delver/simplenlg)
 * [spark-nlp: State of the Art Natural Language Processing](https://github.com/johnsnowlabs/spark-nlp)
   * [Advanced Natural Language Processing with Apache Spark NLP - YouTube](https://www.youtube.com/watch?v=78FWrtEVYeA)
+  * [Scale By The Bay 2020: David Talby, State of the art natural language understanding at scale - YouTube](https://www.youtube.com/watch?v=96HmVkmtCXA)
 * [Stanford Natural Language Processing Group](http://nlp.stanford.edu/software/corenlp.shtml)
   * [corenlp](http://corenlp.run/)
   * [Stanford CoreNLP – a suite of core NLP tools](http://stanfordnlp.github.io/CoreNLP/)
