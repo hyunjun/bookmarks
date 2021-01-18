@@ -2819,6 +2819,7 @@ Javascript
   * [Compound Components with React Context API](https://blog.usejournal.com/compound-components-react-context-38da96bfb384)
   * [리액트를 처음부터 배워보자. — 05. Context API | by Stark Jeon | Jul, 2020 | Medium](https://medium.com/@a01058406602/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-05-context-api-d053f92cd645)
   * [How to Use React’s Context API and useContext() Hooks Effectively | by Paige Niedringhaus | Better Programming | Medium](https://medium.com/better-programming/how-to-use-reacts-context-api-and-usecontext-hooks-effectively-ed98ad9343b6)
+  * [**Blogged Answers: Why React Context is Not a "State Management" Tool (and Why It Doesn't Replace Redux) · Mark's Dev Blog**](https://blog.isquaredsoftware.com/2021/01/blogged-answers-why-react-context-is-not-a-state-management-tool-and-why-it-doesnt-replace-redux/)
 * [Corfu - Beautiful React UI Kit](https://codekits.co/corfu.html)
   * [무료 리액트 UI 키트 'Corfu' 소개, 사용 및 활용방법 알려줌!](https://www.youtube.com/watch?v=G38ic-3qlWA)
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
