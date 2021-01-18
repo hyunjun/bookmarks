@@ -834,6 +834,7 @@ NLP
 * [Generating Drake Rap Lyrics using Language Models and LSTMs](https://towardsdatascience.com/generating-drake-rap-lyrics-using-language-models-and-lstms-8725d71b1b12)
 * [Recurrent Neural Networks: The Powerhouse of Language Modeling](https://medium.com/analytics-vidhya/recurrent-neural-networks-the-powerhouse-of-language-modeling-f292c918b879)
 * [Character-Aware Neural Language Models](https://www.slideshare.net/HoonHeo5/characteraware-neural-language-models)
+* [Language Models are Open Knowledge Graphs .. but are hard to mine! | by Nikhil Dharap | Jan, 2021 | Towards Data Science](https://towardsdatascience.com/language-models-are-open-knowledge-graphs-but-are-hard-to-mine-13e128f3d64d)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
   * [Jay Alammar - Take A Look Inside Language Models With Ecco | PyData Khobar - YouTube](https://www.youtube.com/watch?v=rHrItfNeuh0)
 * [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA)
