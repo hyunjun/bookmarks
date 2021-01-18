@@ -2773,6 +2773,7 @@ Python
   * [Dask Version 1.0](https://blog.dask.org/2018/11/29/version-1.0)
   * [Scaling PyData with Dask - Martin Durant and Jim Crist](https://www.youtube.com/watch?v=6ixaCnR9ur0)
     * [Dask Tutorial at PyData 2018](https://github.com/mrocklin/pydata-nyc-2018-tutorial)
+  * [Matthew Rocklin - Dask at Global Scale with Coiled | PyData Eindhoven 2020 - YouTube](https://www.youtube.com/watch?v=gkUSDe4rETE)
   * [Coiled: Scaling Python Simply](https://coiled.io/)
   * s3fs [Using S3 Just Like a Local File System in Python | by Sven Balnojan | The Startup | Medium](https://medium.com/swlh/using-s3-just-like-a-local-file-system-in-python-497737783f11)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
