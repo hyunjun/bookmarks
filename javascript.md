@@ -2049,6 +2049,7 @@ Javascript
   * [(4주차) Node.js 서버 + Express 프레임워크 구축하기](https://www.grabbing.me/4-Node-js-Express-353cddd1958744abb9c179c27951e01c)
   * [Node.js MySQL tutorial: a step-by-step getting started guide with Express js REST API](https://geshan.com.np/blog/2020/11/nodejs-mysql-tutorial/)
   * [How to Build Rest API with Node.js, Express.js and MongoDB | CodeSpot](https://www.codespot.org/how-to-build-rest-api-with-nodejs-and-expressjs/)
+  * [express MVC 패턴적용 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222212372082)
 * [falcor - A JavaScript library for efficient data fetching](http://netflix.github.io/falcor/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly#about)
