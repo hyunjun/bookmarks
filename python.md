@@ -4072,6 +4072,7 @@ Python
 * [How To Build a Slackbot in Python on Ubuntu 20.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-build-a-slackbot-in-python-on-ubuntu-20-04)
 * [Slack Developer Kit for Python — Slack Developer Kit for Python](https://slack.dev/python-slackclient/index.html)
   * [slackapi/python-slackclient: Slack Developer Kit for Python](https://github.com/slackapi/python-slackclient)
+* [kakao-to-slack: send kakao talk message to slack](https://github.com/Kirade/kakao-to-slack)
 * [slacker: Full-featured Python interface for the Slack API](https://github.com/os/slacker/)
   * [Slacker를 이용한 Slack Bot 만들기 | Corikachu](https://corikachu.github.io/articles/python/python-slack-bot-slacker)
 
