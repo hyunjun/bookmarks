@@ -396,6 +396,7 @@ Business
 * [NDC 15 우여곡절이 가득했던 게임, 테라에서 8년 동안 배운 8가지 교훈](http://www.thisisgame.com/special/page/event/ndc/2015/nboard/243/?n=58798) 리더십은 실적
 * [똑똑하지만 직원으로는 최악인 3가지 인간 유형](http://ppss.kr/archives/34699)
 * [시키는 일만 잘 하는 사람을 예찬하다](http://ppss.kr/archives/27900)
+* [애자일, OKR, 플랫폼… 키워드가 당신을 ‘일잘’로 만들어주진 않는다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233881)
 * [비즈니스 리더가 스스로에게 꼭 던져야 할 질문 4가지](http://ppss.kr/archives/37789)
 * [쪼잔한 리더가 성공한다](http://ppss.kr/archives/27042)
 * [3가지 부정의 힘으로 조직의 실패를 예방하라](http://ppss.kr/archives/37755)
