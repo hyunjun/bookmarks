@@ -418,6 +418,8 @@ Programming
 * [클린 애자일 - 첫 마음으로 돌아가보는 여정](https://jusths.tistory.com/188)
 * [클린 애자일 - 3장 비즈니스 실천 방법](https://jusths.tistory.com/189)
 * [클린 애자일 - 4장 팀 실천 방법](https://jusths.tistory.com/190)
+* [클린 애자일 - 5장 기술 실천 방법](https://jusths.tistory.com/192)
+* [클린 애자일 - 6장 애자일해지기](https://jusths.tistory.com/193)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
