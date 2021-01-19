@@ -198,6 +198,7 @@ Finance
   * [S&P 500 팩터 데이터 수집과 분석](https://nbviewer.jupyter.org/gist/FinanceData/35a1b0d5248bc9b09513e53be437ac42)
   * [여러 종목 가격을 한번에](https://nbviewer.jupyter.org/github/FinanceData/FinanceDataReader/blob/master/tutorial/FinanceDataReader%20Tutorial%20-%20%EC%97%AC%EB%9F%AC%20%EC%A2%85%EB%AA%A9%EC%9D%98%20%EA%B0%80%EA%B2%A9%EC%9D%84%20%ED%95%9C%EB%B2%88%EC%97%90.ipynb)
   * [FRED 주요 경기 선행 지표](https://nbviewer.jupyter.org/github/FinanceData/FinanceDataReader/blob/master/tutorial/FinanceDataReader%20Tutorial%20-%20FRED%20%EA%B2%BD%EA%B8%B0%20%EC%84%A0%ED%96%89%20%EC%A7%80%ED%91%9C.ipynb)
+  * [KRX 한국 거래소 전체 종목 리스트 이거 하나면 코드 한 줄로 수집 가능하다?! - FinanceDataReader - YouTube](https://www.youtube.com/watch?v=qexaEUqvRic)
 * [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
 * [벤포드의 법칙 (Benford Law)](https://nbviewer.jupyter.org/gist/FinanceData/2ab5fc04c975e1f90629ec1b1686e19d)
 * [IBEX 35 portfolio recommendation](https://github.com/sgarciapuga/capstone_projects/blob/master/Analyze_Financial_Data/Ibex35_Capstone_Project.ipynb)
