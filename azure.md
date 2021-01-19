@@ -97,6 +97,7 @@ Azure
 * [Live (S1E5): 파워앱으로 얼굴 인식 앱 만들기](https://www.youtube.com/watch?v=iIzT0f7UNjg)
 * [Hands-on 콜라 브랜드 개체인식+Excel + Lists + Maps API + Power Apps](https://blog.naver.com/sesme100/222199130908)
 * [시계열 데이터 예측 애저 오토엠엘(Azure AutoML)](https://tykimos.github.io/2020/04/25/TimeSeriesForcast_Azure_AutoML/)
+* [Intro to AutoML on Azure | Learn with Dr G - YouTube](https://www.youtube.com/watch?v=eTrHT5fxEVc)
 * [Terraform Modules for Azure](https://github.com/rkttu/terraform-modules-for-azure)
 * [Elastic Observability 를 이용한 Azure 모니터링 #0 - YouTube](https://www.youtube.com/watch?v=jDGd4c62Rx4)
 * [Elastic Observability 를 이용한 Azure 모니터링 - Jongmin's blog](http://kimjmin.net/2020/06/2020-06-o11y-azure-0/)
@@ -108,6 +109,7 @@ Azure
 * [프리지아 랩 :: Incorrect localization about "Create storage account"](https://www.dokyun.pe.kr/256)
 * [How to quickly develop and manage hundreds of ML models to pivot your organization using Azure Databricks - The Databricks Blog](https://databricks.com/blog/2020/08/28/operationalize-100-machine-learning-models-in-as-little-as-12-weeks-with-azure-databricks.html)
 * [Deploying a Machine Learning Model with Azure ML Pipelines](https://vladiliescu.net/deploying-models-with-azure-ml-pipelines/)
+* [All Around Azure: A Developer's Guide to IoT (EMEA) - YouTube](https://www.youtube.com/watch?v=242fsVDxXIc)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
