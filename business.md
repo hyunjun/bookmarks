@@ -418,6 +418,7 @@ Business
 * [성과를 쥐어짜는 관리자](https://brunch.co.kr/@younghakjang/52)
 * [어떤 분위기의 팀을 만들 것인가?](https://brunch.co.kr/@younghakjang/55)
 * [**심리적 안전감이란? 커넥트북 최고의 팀은 어떻게 다른가, 두려움 없는 조직**](https://brunch.co.kr/@younghakjang/112)
+* [직장에서 ‘심리적 안정감’의 중요성 | ㅍㅍㅅㅅ](https://ppss.kr/archives/232129)
 * [Independence,autonomy,too many small teams | Kislay Verma](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
 * [에드 캣멀과의 상상 인터뷰](https://brunch.co.kr/@younghakjang/57)
 * [강점으로 경영하라](https://brunch.co.kr/@younghakjang/60)
