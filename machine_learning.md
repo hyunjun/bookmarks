@@ -116,6 +116,7 @@ Machine Learning
   * 각각 오버피팅과 variance/bias balance와 관련해 장단점이 있어서 도메인에 맞게 잘 선택하는 것이 중요
 * [Awesome Gradient Boosting Research Papers](https://github.com/benedekrozemberczki/awesome-gradient-boosting-papers/blob/master/README.md)
 * [How to use GradientBoosting Classifier and Regressor in Python](https://setscholars.net/2019/02/07/how-to-use-gradientboosting-classifier-and-regressor-in-python/)
+* [Noisy Gradient 다루기 | MakinaRocks Tech Blog](https://makinarocks.github.io/Gradient-Accumulation/)
 * [Machine Learning Algorithms In Layman’s Terms, Part 1](https://towardsdatascience.com/machine-learning-algorithms-in-laymans-terms-part-1-d0368d769a7b)
 * Google Developers [Machine Learning Recipes with Josh Gordon](https://www.youtube.com/playlist?list=PLOU2XLYxmsIIuiBfYad6rFYQU_jL2ryal)
   * [Hello World - Machine Learning Recipes #1](https://www.youtube.com/watch?v=cKxRvEZd3Mw)
