@@ -148,6 +148,7 @@ SQL
 * [How to use Indexing for SQL Query Optimization | Towards Data Science](https://towardsdatascience.com/indexing-for-sql-query-optimization-139b57db9fc6)
 * [Using SQL to Estimate Customer Lifetime Value (LTV) without Machine Learning - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/using-sql-to-estimate-customer-lifetime-value-ltv-without-machine)
 * [Understanding Connections & Pools](https://sudhir.io/understanding-connections-pools/)
+* [내가 만든 서비스는 얼마나 많은 사용자가 이용할 수 있을까? - 3편(DB Connection Pool)](https://hyuntaeknote.tistory.com/12)
 * [Arctype | The fast and easy-to-use SQL client](https://arctype.com/)
 * [**dbcrossbar** - an open source tool that copies large, tabular datasets between many different databases and storage formats. Data can be copied from any source to any destination](https://www.dbcrossbar.org/)
 * [DBeaver](https://dbeaver.io/)
