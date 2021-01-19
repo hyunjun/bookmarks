@@ -1072,6 +1072,7 @@ Scala
     * [Typelevel.scala | Concurrency in Cats Effect 3](https://typelevel.org/blog/2020/10/30/concurrency-in-ce3.html)
     * [My Hakyll Blog - Polymorphic Effects in Scala](https://timwspence.github.io/blog/posts/2020-11-22-polymorphic-effects-in-scala.html)
     * [My Hakyll Blog - Threading best practices in Cats Effect](https://timwspence.github.io/blog/posts/2021-01-12-threading-best-practices-cats-effect.html)
+    * [Intro to Cats-Effect (Gavin Bisesi) - YouTube](https://www.youtube.com/watch?v=83pXEdCpY4A)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
     * [Retry Failing Tasks with Cats and Scala - Alexandru Nedelcu](https://alexn.org/blog/2020/08/03/on-error-retry-loop.html)
