@@ -3267,6 +3267,7 @@ Python
     * Luigi 태스크의 PL/pgSQL을 통해 실행
   * [Data pipelines, Luigi, Airflow: everything you need to know](https://towardsdatascience.com/data-pipelines-luigi-airflow-everything-you-need-to-know-18dc741449b7)
   * [Create your first ETL in Luigi](https://towardsdatascience.com/create-your-first-etl-in-luigi-23202d105174)
+  * [Daan de Bruin - Fighting COVID with Python | PyData Eindhoven 2021 - YouTube](https://www.youtube.com/watch?v=yhrPTiN7Cjw)
 * [Snakemake](https://snakemake.readthedocs.io/)
   * [**스네이크메이크 (Snakemake) 튜토리얼**](https://haje01.github.io/2020/04/21/snakemake-tutorial.html)
 
