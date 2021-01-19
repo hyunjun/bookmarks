@@ -144,6 +144,7 @@ Data Visualization
 * [Learn D3: Introduction](https://observablehq.com/@d3/learn-d3)
 * [D3.js — How to Make a Beautiful Bar Chart With The Most Powerful Visualization Library | by Dario Radečić | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/d3-js-how-to-make-a-beautiful-bar-chart-with-the-most-powerful-visualization-library-9bea4e00349a)
 * [D3로 서울시 강수량 그래프 만들기 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/d3-graph/)
+* [Quadtree and its implementation on Maps using D3 - YouTube](https://www.youtube.com/watch?v=nNi_ZMXWxx4)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
