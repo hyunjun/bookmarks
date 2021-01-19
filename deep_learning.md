@@ -1990,6 +1990,7 @@ Deep Learning
 * [CTRNN - Python package that implements Continuous Time Recurrent Neural Networks (CTRNNs)](https://github.com/madvn/CTRNN)
 * [Using Genetic Algorithm for Optimizing Recurrent Neural Networks](https://www.kdnuggets.com/2018/01/genetic-algorithm-optimizing-recurrent-neural-network.html)
 * [Artificial Neural Networks Optimization using Genetic Algorithm with Python](https://www.kdnuggets.com/2019/03/artificial-neural-networks-optimization-genetic-algorithm-python.html)
+* [Genetic Algorithm (GA) Introduction with Example Code | Towards AI](https://medium.com/towards-artificial-intelligence/genetic-algorithm-ga-introduction-with-example-code-e59f9bc58eaf)
 * [Only Numpy: NIPS 2017 - Implementing Dilated Recurrent Neural Networks with Interactive Code](https://towardsdatascience.com/only-numpy-nips-2017-implementing-dilated-recurrent-neural-networks-with-interactive-code-e83abe8c9b27)
 * [Recurrent Neural Networks by Example in Python](https://towardsdatascience.com/recurrent-neural-networks-by-example-in-python-ffd204f99470)
 * [Animated RNN, LSTM and GRU - Recurrent neural network cells in GIFs](https://towardsdatascience.com/animated-rnn-lstm-and-gru-ef124d06cf45)
