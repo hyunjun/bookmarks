@@ -21,6 +21,7 @@ Business
 * [11화 모바일 앞에서 머뭇거리다(2007~2009)](https://brunch.co.kr/@windydog/397)
 * [상생의 비즈니스 문화](https://estima.wordpress.com/2015/02/18/%EC%83%81%EC%83%9D%EC%9D%98-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4%EB%AC%B8%ED%99%94/)
 * [실수는 예방하는 것이 아니라 관리하는 것이다](http://ppss.kr/archives/33109)
+* [습관이 되는 주니어의 25가지 실수 | ㅍㅍㅅㅅ](https://ppss.kr/archives/232804)
 * [성과주의가 진짜 성과를 내는 5가지 방법](http://ppss.kr/archives/36086)
 * [도전정신과 팀워크 위협하는 성과주의, 업그레이드가 필요하다](http://www.lgeri.com/management/organization/article.asp?grouping=01020200&seq=535)
   * [성과주의가 조직을 망치는 5가지 이유](http://ppss.kr/archives/36083)
