@@ -283,6 +283,7 @@ Scala
 * [Scale By The Bay 2020: Natan Silnitsky, 8 Lessons Learned from using Kafka with 1000 microservices - YouTube](https://www.youtube.com/watch?v=XEZeLoO2iBk)
 * [3 Tricks with Call-by-Name in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=4DrjlJbblkQ)
 * [**Concurrent state machines**](https://www.inner-product.com/posts/concurrent-state-machines/)
+* [Protobufs in Scala - YouTube](https://www.youtube.com/watch?v=s-Q9A30PBv0)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
