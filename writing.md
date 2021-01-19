@@ -49,6 +49,7 @@ Writing
 * [글쓰기의 최전선: 글을 쓰는 진짜 이유](http://slownews.kr/62837)
 * [3 버킷 글쓰기 시스템 - 5권의 책과 1000여개의 블로그 글을 쓴 시스템](https://nolboo.kim/blog/2017/04/14/3-bucket-writing-system/)
 * [“대통령의 글쓰기”: 결국에는 시간과 노력이다](http://ppss.kr/archives/105508)
+* [글쓰기와 말하기는 ‘각성’이 필요하다: 다물어클럽 “강원국의 대통령의 글쓰기” | ㅍㅍㅅㅅ](https://ppss.kr/archives/233096)
 * [존 그리샴의 글쓰기 팁](https://estimastory.com/2017/06/07/grishamtips/)
 * [조성일의 글쓰기 충전소](http://media.daum.net/series/519676)
 * [문장을 깔끔하게 쓰는 9가지 팁](https://imgur.com/a/2KArC6I)
