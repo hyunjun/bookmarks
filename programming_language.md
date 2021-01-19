@@ -66,6 +66,7 @@ Programming Language
   * [AWS Lambda with Scala and GraalVM | by Mateusz Stankiewicz | Medium](https://medium.com/@mateuszstankiewicz/aws-lambda-with-scala-and-graalvm-eb1cc46b7740)
   * [How the HotSpot and Graal JVMs Execute Java Code](https://www.infoq.com/presentations/hotspot-graalvm-code-execution/)
   * [How the HotSpot and Graal JVMs Execute Java Code - YouTube](https://www.youtube.com/watch?v=CCMDzPYWsAk)
+  * [GraalVM night! - Singapore Java User Group - YouTube](https://www.youtube.com/watch?v=N0nWly2wclo)
 * [-4 % 3 = ?](https://libsora.so/posts/sign-of-mod-operator/) 음수인 경우 language에 따라 mod의 결과가 다름
 * [연봉 높은 프로그래밍 언어 순위 2018](https://futurecreator.github.io/2018/08/07/highest-salaries-worldwide-programming-languages-2018/)
 * [Top 3 Programming Language To Watch Out in 2019](https://hackernoon.com/top-3-programming-language-to-watch-out-in-2019-95995e81ad2b)
