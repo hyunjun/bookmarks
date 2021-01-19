@@ -2230,6 +2230,7 @@ Programming
   * [(01/16) 마이크로서비스 도입, 이렇게 한다 - YouTube](https://www.youtube.com/watch?v=uGEX-R8qdsk)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
+* [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
 
 # Oncall On call
 * [Building On-Call Culture at GitHub - The GitHub Blog](https://github.blog/2021-01-06-building-on-call-culture-at-github/)
