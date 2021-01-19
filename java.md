@@ -1174,6 +1174,7 @@ Java
 * [스프링 부트 파일 업로드 하기 - YouTube](https://www.youtube.com/watch?v=kjRpR13_eZo)
 * [스프링 부트 크로스 도메인 설정 #CORS - YouTube](https://www.youtube.com/watch?v=wOk-ZnvM6I4)
 * [17. Spring - application.properties(.yml)에 개발자 정의 프로퍼티 경고창없애기](https://kim-jong-hyun.tistory.com/30)
+* [Apache Camel + Spring Boot REST API | Example | Java Techie - YouTube](https://www.youtube.com/watch?v=wFpAw0bpzns)
 * [beantimer: A tools to measure Spring bean initialization time](https://github.com/vikreinok/beantimer)
 * [thymeleaf](https://okdevtv.com/mib/spring/thymeleaf)
   * [Thymeleaf 시작하기 - YouTube](https://www.youtube.com/watch?v=tiRi6PLVesY)
