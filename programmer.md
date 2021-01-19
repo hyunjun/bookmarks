@@ -56,6 +56,7 @@ Programmer
 * [4 Signs of an Inexperienced Developer | by Daan | Aug, 2020 | Level Up Coding](https://levelup.gitconnected.com/4-signs-of-an-inexperienced-developer-851966fdc6b1)
 * [4 Ways to Earn Additional Income as a Programmer | by Daan | Level Up Coding](https://levelup.gitconnected.com/4-ways-to-earn-additional-income-as-a-programmer-da7586a64af1)
 * [3 Mental Models for Coders | by Tyron Jung | Better Programming](https://medium.com/better-programming/3-mental-models-for-programmers-ed0eb4da3e63)
+* [인프런 - 주간 인프런 #22 여기 40년 경력의 개발자가 있다](https://www.inflearn.com/pages/weekly-inflearn-22)
 
 # Cultuer, Team
 * [훌륭한 개발 문화의 이면(7) – 잉여력이냐 vs. 효율성이냐](http://channy.creation.net/blog/1238) 개발자 경력 경로
