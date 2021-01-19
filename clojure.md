@@ -818,6 +818,7 @@ Clojure
 * [Rok's Software Engineering Blog: The "Clojure Style Guide" is simply Wrong](https://roklenarcic.github.io/posts-output/2019-10-15-clojure-style-guide)
 * [The Clojure Style Guide](https://github.com/kwakbab/clojure-style-guide)
 * [Idiomatic Clojure: Code Smells](https://bsless.github.io/code-smells/)
+  * [Idiomatic Clojure - Code Smells (관용적인 클로저 - 코드 스멜)](https://see-ro-e.tistory.com/299)
 * [cljfmt: A tool for formatting Clojure code](https://github.com/weavejester/cljfmt)
   * [intellij-cljfmt-plugin](https://github.com/eunmin/intellij-cljfmt-plugin)
 
