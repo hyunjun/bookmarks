@@ -100,6 +100,7 @@ TensorFlow
   * [#3 학습 데이타 전처리](http://bcho.tistory.com/1200)
   * [#4 신용카드 이상 거래 감지 코드](http://bcho.tistory.com/1202)
 * [Variaional AutoEncoder-Tensorflow](https://github.com/MINGUKKANG/VAE_tensorflow)
+* [Deep Autoencoder in TensorFlow 2.0 (Keras) | Autoencoders Explained](https://morioh.com/p/d0e9465f7814)
 * [TensorFlow - Ep. 22 (Deep Learning SIMPLIFIED)](https://www.youtube.com/watch?v=bYeBL92v99Y)
 * [Hello Tensorflow](https://jihobak.github.io/2016-06-26-deeplearning-ninja001/)
 * [Hello, TensorFlow!](https://tensorflowkorea.wordpress.com/2016/06/28/hello-tensorflow/)
