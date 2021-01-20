@@ -234,6 +234,7 @@ Clojure
 * [**Readable Clojure**](http://tonsky.me/blog/readable-clojure/)
 * [RESTATE YOUR UI: USING STATE MACHINES TO SIMPLIFY USER INTERFACE DEVELOPMENT](http://blog.cognitect.com/blog/2017/5/22/restate-your-ui-using-state-machines-to-simplify-user-interface-development)
 * [Clojure Linear Algebra Refresher (1) - Vector Spaces](http://dragan.rocks/articles/17/Clojure-Linear-Algebra-Refresher-Vector-Spaces)
+* [Understanding Clojure's Persistent Vectors, pt. 1](https://hypirion.com/musings/understanding-persistent-vector-pt-1)
 * [Clojure Future / Delay / Promise](http://clojure.kr/Clojure-Future-Delay-Promise)
 * [Faster Compilation/Runtime and Spec Caching Fixes](https://clojurescript.org/news/2017-06-27-faster-compilation-runtime-and-spec-caching-fixes)
 * [Maven으로 Leiningen 프로젝트 패키징하기](http://seonho.kim/2017/07/09/maven%EC%9C%BC%EB%A1%9C-leiningen-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8C%A8%ED%82%A4%EC%A7%95%ED%95%98%EA%B8%B0/)
