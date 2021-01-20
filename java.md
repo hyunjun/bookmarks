@@ -1276,6 +1276,7 @@ Java
 * [Querydsl Select 필드로 Entity 사용시 주의 사항](https://jojoldu.tistory.com/518)
 * [Querydsl에서 상수를 select에서 사용하기](https://jojoldu.tistory.com/523)
 * [Querydsl (JPA) 에서 Cross Join 발생할 경우](https://jojoldu.tistory.com/533)
+* [우아콘2020 수십억건에서 QUERYDSL 사용하기 - YouTube](https://www.youtube.com/watch?v=zMAX7g6rO_Y)
 * [1. 페이징 성능 개선하기 - No Offset 사용하기](https://jojoldu.tistory.com/528)
 * [스프링부트로 쇼핑몰 만들기 - 1주차](https://jojoldu.tistory.com/374)
 * [스프링부트로 쇼핑몰 만들기 - 2주차](https://jojoldu.tistory.com/378)
