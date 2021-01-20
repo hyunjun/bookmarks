@@ -67,6 +67,7 @@ Flutter
 * [Flutter 앱 개발기 (글을담다)](https://hyesunzzang.tistory.com/223)
 * [Flutter로 크로스플랫폼 모바일앱 만들어보기 : 클리앙](https://www.clien.net/service/board/lecture/14233209)
 * [Custom Keyboard 제작하기! feat. 카카오뱅크 - YouTube](https://www.youtube.com/watch?v=dfaFK561PAo)
+* [Custom Paint 로 에르메스 워치페이스 그려봤어요~ - YouTube](https://www.youtube.com/watch?v=hBq4bqNpcDA)
 
 # Course, Lecture, Tutorial
 * [Develop your first Application with Flutter](https://hackernoon.com/develop-your-first-application-with-flutter-60c4308d18b7)
