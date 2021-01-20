@@ -34,6 +34,7 @@ SQL
 * [free.codebashing.com/courses/python/lessons/sql_injection](https://free.codebashing.com/courses/python/lessons/sql_injection) 파이썬으로 대화형 sql injection test
 * [How I bypassed Cloudflare's SQL Injection filter](https://www.astrocamel.com/web/2020/09/04/how-i-bypassed-cloudflares-sql-injection-filter.html)
 * [Error-Based SQL Injection.. : 네이버블로그](https://blog.naver.com/crehacktive3/222187681939)
+* [웹 개발자를 위한 SQL injection 웹 해킹 보안 가이드](https://blog.naver.com/nanotoly/222214308327)
 * [Welcome to the π-Base - A community database of topological examples with automated deduction and powerful search](http://topology.jdabbs.com/)
 * [Yesquel: scalable SQL storage for Web applications](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/106-aguilera.pdf)
 * [FreeGeoDB - Free database of geographic place names and corresponding geospatial data](https://github.com/delight-im/FreeGeoDB)
