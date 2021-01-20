@@ -538,6 +538,7 @@ Javascript
 * [How to detect a sequence of keystrokes in JavaScript](https://medium.com/javascript-in-plain-english/how-to-detect-a-sequence-of-keystrokes-in-javascript-83ec6ffd8e93)
 * [Understanding Memoization in JavaScript to Improve Performance](https://blog.bitsrc.io/understanding-memoization-in-javascript-to-improve-performance-2763ab107092)
 * [A basic introduction to JavaScript variable definitions and hoisting](https://medium.freecodecamp.org/a-basic-introduction-to-javascript-variable-definitions-and-hoisting-93aa38e742eb)
+* [호이스팅과 var, let, const | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/hoisting-var-let-const/)
 * [JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd)
 * [Beginners Guide to Tagged Template Literals in JavaScript](https://medium.com/the-non-traditional-developer/beginners-guide-to-tagged-template-literals-in-javascript-202d1805e862)
 * [Passing Arrays as Function Arguments](https://medium.com/dailyjs/passing-arrays-as-function-arguments-c1f3644ecb9c)
