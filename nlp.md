@@ -341,6 +341,7 @@ NLP
 * [Knowledge Graphs in Natural Language Processing @ ACL 2020 | by Michael Galkin | Towards Data Science](https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2020-ebb1f0a6e0b1)
 * [지식그래프에서 경로를 탐색하는 모델 AttnIO를 소개합니다](https://tech-kakaoenterprise.tistory.com/95)
 * [AI Grand Challenge, 인공지능 그랜드 챌린지 1위 입상 후기 및 입상 모델 설명](https://ai4nlp.tistory.com/17) 음성인식 + 텍스트분류
+* [ML and NLP Research Highlights of 2020](https://ruder.io/research-highlights-2020/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -1065,7 +1066,7 @@ NLP
   * [Computing Document Similarity with NLTK (March 2014)](https://www.youtube.com/watch?v=FfLo5OHBwTo)
   * [Tokenizing Words Sentences with Python NLTK](https://www.youtube.com/watch?v=A5n7tsZctwM)
   * [Natural Language Processing (NLP) Tutorial with Python & NLTK](https://www.youtube.com/watch?v=X2vAabgKiuM)
-* [ParlAI (pronounced “par-lay”) - a framework for dialog AI research, implemented in Python](https://github.com/facebookresearch/ParlAI/blob/master/README.md)
+* [ParlAI (pronounced “par-lay”) - a framework for dialog AI research, implemented in Python](https://github.com/facebookresearch/ParlAI)
   * [ParlAI: A new software platform for dialog research](https://code.facebook.com/posts/266433647155520/parlai-a-new-software-platform-for-dialog-research)
 * [PreNLP - Preprocessing Library for Natural Language Processing](https://github.com/lyeoni/prenlp)
 * [pyeunjeon (python + eunjeon)](https://github.com/koshort/pyeunjeon) 은전한닢 프로젝트와 mecab 기반의 한국어 형태소 분석기의 독립형 python 인터페이스
