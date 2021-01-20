@@ -1224,6 +1224,7 @@ Java
 * [Spring Batch에서 MultiThread로 Step 실행하기](https://jojoldu.tistory.com/493)
 * [Spring Batch ItemReader에서 Reader DB 사용하기 (feat. AWS Aurora)](https://jojoldu.tistory.com/506)
 * [Spring Batch에서 socket was closed by server 발생시](https://jojoldu.tistory.com/526)
+* [Spring Batch 파티셔닝 (Partitioning) 활용하기](https://jojoldu.tistory.com/550)
 * [JobParameter 활용 방법 (feat. LocalDate 파라미터 사용하기)](https://jojoldu.tistory.com/490)
 * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
 * [aop를 이용한 oauth2 캐시 적용하기](http://woowabros.github.io/experience/2019/03/05/aop-oauth2-redis.html)
@@ -1322,6 +1323,7 @@ Java
 * [스프링 부트 로그 레벨 조정하기 - YouTube](https://www.youtube.com/watch?v=z1rU8ZVjtrE)
 * [스프링 부트 개발할 때 자동 재시작 설정 방법 - YouTube](https://www.youtube.com/watch?v=twIzKIp04Gk)
 * [스프링 부트 자동 재시작 설정하기 #개발모드 - YouTube](https://www.youtube.com/watch?v=3_8cZF93X3w)
+* [스프링 부트 캐쉬 이용하기 #Cache - YouTube](https://www.youtube.com/watch?v=RHI72s-qPdo)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
