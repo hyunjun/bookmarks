@@ -232,6 +232,8 @@ Deep Learning
     * [gist.github.com/pat-coady](https://gist.github.com/pat-coady)
     * [OpenAI GYM atari-py 설치 오류 해결](http://rrbb014.tistory.com/43)
     * [OpenAI GYM을 Jupyter notebook환경에서 실행하기 & headless playing](http://rrbb014.tistory.com/44)
+  * [CLIP: Connecting Text and Images](https://openai.com/blog/clip/)
+    * [clipping-CLIP-to-GAN](https://github.com/cloneofsimo/clipping-CLIP-to-GAN)
   * [orrb - Code for the paper "OpenAI Remote Rendering Backend"](https://github.com/openai/orrb)
   * [requests-for-research](https://openai.com/requests-for-research/)
   * [PIXELCNN++: A PIXELCNN IMPLEMENTATION WITH DISCRETIZED LOGISTIC MIXTURE LIKELIHOOD AND OTHER MODIFICATIONS](https://openreview.net/pdf?id=BJrFC6ceg)
