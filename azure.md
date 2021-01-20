@@ -79,6 +79,7 @@ Azure
 * [지역 이중화로 구성된 애저 서비스 버스에 애저 펑션을 이용해서 메시지 주고 받기](https://blog.aliencube.org/ko/2019/10/30/handling-messages-with-geo-redundant-azure-service-bus-via-azure-functions/)
 * [애저 펑션을 이용해서 브라우저에서 애저 Blob 저장소로 스크린샷 이미지 저장하기](https://blog.aliencube.org/ko/2020/04/01/capturing-images-from-browser-to-azure-blob-storage-via-azure-functions/)
 * [애저 펑션에 APEX 도메인을 연결하는 세 가지 방법 | Aliencube](https://blog.aliencube.org/ko/2020/10/07/3-ways-mapping-apex-domains-to-azure-functions/)
+* [Dev.To 웹사이트에 블로그 포스트 예약 발행해주는 도구 만들어 보기 | Aliencube](https://blog.aliencube.org/ko/2021/01/20/devto-article-publish-scheduler/)
 * [GitOps, 애저 Durable Functions, GitHub Actions을 이용한 블로그 예약 포스팅 구현](https://blog.aliencube.org/ko/2020/03/25/scheduling-posts-with-gitops-durable-functions-and-github-actions/)
 * [ServiceBusPlugin 트릭](https://blog.aliencube.org/ko/2019/09/18/servicebusplugin-tricks/)
 * [Azure Notebooks 설명서](https://docs.microsoft.com/ko-kr/azure/notebooks/)
