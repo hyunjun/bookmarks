@@ -998,6 +998,7 @@ Javascript
 * [JavaScript module namespace exports](https://medium.com/javascript-in-plain-english/javascript-module-namespace-exports-71dc7d1a75c0)
 * [2020년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/4268738)
 * [Stop Using Objects and Arrays to Store Data | by Anurag Kanoria | JavaScript In Plain English | Nov, 2020 | Medium](https://medium.com/javascript-in-plain-english/stop-using-objects-and-arrays-to-store-data-289c3edaaa33)
+* [ES2021 ES12에 추가될(된) 항목](https://blog.naver.com/pjt3591oo/222214299807)
 * [ES Modules in Depth - ui.dev](https://ui.dev/esmodules/)
 
 # GraphQL
