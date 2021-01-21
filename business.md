@@ -73,6 +73,8 @@ Business
 * [9. 역할 조직 인재 선발의 원칙](https://brunch.co.kr/@svillustrated/85)
 * [인재를 어떻게 뽑아야 하는가?](https://brunch.co.kr/@younghakjang/590)
 * [개발자 비급(祕笈) – 5. 스타트업의 개발자 채용 비법 :: Channy's Blog](http://channy.creation.net/blog/1443)
+* [채용에 관한 스타트업 대표의 네 가지 착각](https://brunch.co.kr/@curahee/210)
+* [CEO의 잘못된 채용에 대해](https://www.linkedin.com/posts/elfpenguin_ceotrgsqb-trgsqb-trgsqbsnyrcy-activity-6756877759907287040-wY_d/)
 * [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
 * [몰입을 위한 조직문화](https://brunch.co.kr/@younghakjang/19) 딥워크
 * [몰입에 관한 생각 정리](https://brunch.co.kr/@younghakjang/79)
