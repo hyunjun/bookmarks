@@ -3028,6 +3028,7 @@ Python
   * [How I built a GPU Deep Learning Cluster with ray — And why I would do it again](https://medium.com/@mcgamer0070/how-i-built-a-gpu-deep-learning-cluster-with-ray-and-why-i-would-do-it-again-6920f4e6b7b)
   * [Ray 아키텍쳐 백서 (번역)](https://brunch.co.kr/@chris-song/106)
   * [**Python Ray 사용법 - Python 병렬처리, 분산처리 · 어쩐지 오늘은**](https://zzsza.github.io/mlops/2021/01/03/python-ray/)
+  * [Ray 로 내 파이썬 코드 10배 빠르게 만들기. Ray 를 이용한 python 병렬처리 방법에 대해 알아봅니다. | by t.k.woo | Naver Shopping dev | Jan, 2021 | Medium](https://medium.com/naver-shopping-dev/ray-%EB%A1%9C-pytorch-model-inference-%ED%95%98%EA%B8%B0-77ce11304604)
 * [readchar - Utilities to read single characters and key-strokes](https://pypi.python.org/pypi/readchar)
 * [readability - fast python port of arc90's readability tool, updated to match latest readability.js!](https://github.com/buriy/python-readability)
   * [risingdream.kr/lab/readability.html](http://risingdream.kr/lab/readability.html)
