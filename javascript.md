@@ -3286,6 +3286,7 @@ Javascript
 * [타입스크립트를 써야하는 이유 : 네이버블로그](https://blog.naver.com/pjt3591oo/222184954032)
 * [프런트엔드 - YouTube](https://www.youtube.com/playlist?list=PL8kmk2VivDmSkhWw-JxxjLqqtV50eF8tG)
 * [JavaScript 에서 TypeScript 로](https://www.nextree.io/typescript-vs-javascript/)
+* [TypeScript에서 generic과 index type의 활용 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-01-20T00:00:00.000Z)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
 * [foam: A personal knowledge management and sharing system for VSCode](https://github.com/foambubble/foam)
