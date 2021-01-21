@@ -2669,6 +2669,7 @@ Python
     * [Why you need Python environments and how to manage them with Conda](https://medium.freecodecamp.org/why-you-need-python-environments-and-how-to-manage-them-with-conda-85f155f4353c)
     * [conda 환경에서 pip 패키지도 동시에 업데이트 하기](http://ohgyun.com/774)
     * `conda install accelerate` [How to put that GPU to good use with Python](https://weeraman.com/put-that-gpu-to-good-use-with-python-e5a437168c01)
+    * [conda env 터미널 명령어. 아나콘다 가상환경 명령어 정리 (진짜 간단한데, 구글링하기 귀찮아서… | by 5eo1ab | Medium](https://medium.com/@5eo1ab/conda-env-%ED%84%B0%EB%AF%B8%EB%84%90-%EB%AA%85%EB%A0%B9%EC%96%B4-adc8366f8a9d)
   * [**Data Science for Losers**](http://blog.brakmic.com/data-science-for-losers/)
   * [LEARNING PYTHON FOR DATA SCIENCE: CHEAT SHEETS](https://www.continuum.io/blog/developer-blog/learning-python-data-science-cheat-sheets)
   * [Python Anaconda & GPU - 세팅 및 성능 비교](http://hoondongkim.blogspot.com/2016/09/python-anaconda-gpu.html)
