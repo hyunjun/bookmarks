@@ -641,6 +641,7 @@ Clojure
 * Datalog
   * [Datalog for trees in Clojure](http://blog.juxt.pro/posts/datascript-dom.html)
   * [Learn Datalog Today](http://www.learndatalogtoday.org/)
+  * [Datahike - ((de)composing persistent datalog for everybody) - YouTube](https://www.youtube.com/watch?v=j_fAJ5wRyes)
 * [data.deque - Persistent Deque for Clojure(Script)](https://github.com/namenu/data.deque)
 * [datalevin: A port of Datascript to LMDB](https://github.com/juji-io/datalevin)
 * [Dativity - a stateless, data driven process engine library for Clojure and ClojureScript](https://github.com/agentbellnorm/dativity)
