@@ -306,6 +306,7 @@ AWS
 * [Pub/Sub with AWS SNS, SQS and Laravel](https://hackernoon.com/pub-sub-with-aws-sns-sqs-and-laravel-ed9f7e1bd79)
 * [Back-Pressure strategy: AWS SQS polling from a sharded Akka Cluster running on Kubernetes](https://medium.com/@programmerohit/back-pressure-implementation-aws-sqs-polling-from-a-sharded-akka-cluster-running-on-kubernetes-56ee8c67efb)
 * [AWS Lambda와 SQS를 이용한 대용량 엑셀 처리](http://labs.brandi.co.kr/2020/06/09/leejp.html)
+* [AWS SQS client using Alpakka and Scala | by Chaitanya Waikar | Jan, 2021 | Medium](https://chaitanyawaikar1993.medium.com/aws-sqs-client-using-alpakka-and-scala-e43ff7ff23c4)
 * [로봇 개발 어떻게 해야되죠? (1/2) - AWS RoboMaker 따라하기 (ROS 어플리케이션 개발과 시뮬레이션 편)](http://woowabros.github.io/tools/2019/03/03/AWS_RoboMaker_Development_and_Simulation.html)
 * [AWS Landing Zone Solution -Accelerating Cloud Adoption](https://hackernoon.com/aws-landing-zone-solution-accelerating-cloud-adoption-2b1c17017bc)
 * [AWS Credentials were refreshed 발생시 해결 방법](https://jojoldu.tistory.com/410)
