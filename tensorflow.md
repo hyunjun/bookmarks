@@ -435,6 +435,7 @@ TensorFlow
   * (8) 메모리 관리
   * (9) 작업 종료후 탭 닫기
   * (10) 필요시에만 - GPU 사용(자원 관리)
+* [Differential ML on TensorFlow and Colab - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/differential-ml-on-tensorflow-and-colab)
 * [Demystify the TensorFlow APIs](https://medium.com/google-developer-experts/demystify-the-tensorflow-apis-57d2b0b8b6c0)
 * [텐서플로로 OCR 개발해보기: 문제점과 문제점과 문제점](https://brunch.co.kr/@kakao-it/304)
 * [DeepModels - TensorFlow Implementation of state-of-the-art models since 2012](https://github.com/deep-diver/DeepModels)
