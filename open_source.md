@@ -198,6 +198,9 @@ Open Source
   * [tyk(API Gateway) 설치 메뉴얼 (Redhat)](http://cloudsemina.com/index.php?mid=micro_architecture&document_srl=374)
 * [zulip - Powerful open source group chat](https://www.zulip.org/)
 
+# License
+* [Elasticsearch 와 Kibana 의 SSPL & Elastic License 듀얼 라이선스 전환 정리](https://blog.naver.com/occidere/222209247067) SSPL
+
 # Line
 * [LINE Game AirBorne DataCenter 소개](http://developers.linecorp.com/blog/ko/?p=230)
 * [파이콘 한국 2019 LINE 저장소 PR 기여 이벤트 운영 후기](https://engineering.linecorp.com/ko/blog/pycon-2019-line-repo-pr-contribution-event/)
