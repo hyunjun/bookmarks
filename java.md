@@ -935,6 +935,7 @@ Java
   * [Spicing up your Java — Introduction to Project Lombok](https://medium.com/codefountain/spicing-up-your-java-introduction-to-project-lombok-8fb4328b3996)
   * [자바 초보개발자를 위한 꿀팁 - Lombok - YouTube](https://www.youtube.com/watch?v=JouPeMHj3Po)
   * [Simplifying Java Boilerplate Through Lombok - YouTube](https://www.youtube.com/watch?v=cjftvp-pILs)
+  * [자바 코딩 간소화 기능 lombok - YouTube](https://www.youtube.com/watch?v=g20-0VIpmM4)
 * [Machine Learning - Java collection that provides Java packages for developing a machine learning algorithm](https://github.com/sebig3000/MachineLearning)
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)
 * Maven
