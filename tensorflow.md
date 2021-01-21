@@ -890,6 +890,7 @@ TensorFlow
   * [Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code](https://hackernoon.com/handtrackjs-677c29c1d585)
   * [Pose Animator](https://github.com/yemount/pose-animator/)
   * [tensorspace - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js https://tensorspace.org ](https://github.com/tensorspace-team/tensorspace)
+    * [TensorSpace.js](https://tensorspace.org/index.html)
   * twilio
     * [How Positive was Your Year with TensorFlow.js and Twilio](https://www.twilio.com/blog/how-positive-was-your-year-with-tensorflow-js-and-twilio)
       * TensorFlow.js는 긍정/부정 감정 레이블과 CNN/LSTM의 두 가지 모델 아키텍처를 고려하여 IMDB에서 제공한 25,000개의 영화 리뷰에 대해 사전 훈련된 모델을 제공
