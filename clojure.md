@@ -1,6 +1,7 @@
 Clojure
 =======
 * [clojure.kr](http://clojure.kr)
+* [Articles: clojure | Functional Works](https://functional.works-hub.com/clojure-articles)
 * [클로저 맛보기 스터디](http://slipp.net/questions/339)
   * 왜 클로저(Clojure)인가?
     * [1. 최후의 프로그래밍 언어](http://www.techsuda.com/archives/1674)
@@ -835,6 +836,7 @@ Clojure
   * [Part 3](https://dev.to/greencoder/build-your-own-transducer-and-impress-your-cat---part-3-2f9k)
   * [Part 4](https://dev.to/greencoder/build-your-own-transducer-and-impress-your-cat---part-4-2bp8)
 * [번역 Transducers 이해하기](https://medium.com/@autumn.bom/%EB%B2%88%EC%97%AD-transducers-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-c69e07840cc)
+* [A mental model for thinking about Clojure's Transducers | Functional Works](https://functional.works-hub.com/learn/a-mental-model-for-thinking-about-clojures-transducers-6baba)
 
 # Tutorial
 * [Full Stack Clojure Contact Book - YouTube](https://www.youtube.com/playlist?list=PLBeQxJQNprbgkmvbv80xC8R0SHcPsosjZ)
