@@ -872,6 +872,8 @@
   * [New Developments in the Open Source Ecosystem: Apache Spark 3 0, Delta Lake, and Koalas](https://www.youtube.com/watch?v=scM_WQMhB3A)
   * [pandas 코드로 대규모 클러스터에서 더 빠르게 빅데이터를 분석 해보자 - Koalas - 박현우 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=Y9kdUq_qIa8)
   * [Project Zen: Making Spark Pythonic | Reynold Xin | Keynote Data + AI Summit EU 2020 - YouTube](https://www.youtube.com/watch?v=-vJLTEOdLvA)
+* [Petastorm - a library enabling the use of Parquet storage from Tensorflow, Pytorch, and other Python-based ML training frameworks](https://petastorm.readthedocs.io/)
+  * [Introducing Petastorm: Uber ATG's Data Access Library for Deep Learning | Uber Engineering Blog](https://eng.uber.com/petastorm/)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
