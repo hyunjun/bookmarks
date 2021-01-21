@@ -137,6 +137,8 @@ Artificial Intelligence
   * [George Hotz on Comma.AI and the state of self-driving cars](https://www.youtube.com/watch?v=Hxoke1lDJ9w)
 * [DoWhy - a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks https://microsoft.github.io/dowhy ](https://github.com/Microsoft/dowhy)
   * [Introducing DoWhy Microsoft’s Framework for Causal Inference](https://towardsdatascience.com/introducing-dowhy-cc58b75d61ac)
+* [milvus: An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy](https://github.com/milvus-io/milvus)
+  * [Milvus: A big leap to scalable AI search engine - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/milvus-a-big-leap-to-scalable-ai-search-engine)
 * [MLIR: A new intermediate representation and compiler framework](https://medium.com/tensorflow/mlir-a-new-intermediate-representation-and-compiler-framework-beba999ed18d)
   * [MLIR: accelerating AI with open-source infrastructure](https://www.blog.google/technology/ai/mlir-accelerating-ai-open-source-infrastructure/)
 * [NeoALT - 인공지능 학습용 라벨링 툴 AI를 위한 DATA Labeling 제작도구](http://www.neoconv.com/s25)
