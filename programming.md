@@ -457,6 +457,7 @@ Programming
 * [Elle Townsend | My 5 favourite APIs | The Startup](https://medium.com/swlh/my-top-5-apis-for-new-developers-5191031da102)
 * [A Seven-Step Guide to API-First Integration](https://www.infoq.com/articles/api-first-integration/)
 * [Scale By The Bay 2020: Steve Cosenza, Rebuilding Twitter’s public API - YouTube](https://www.youtube.com/watch?v=bhe3YDbn5RY)
+* [APIs Explained for Product Manager](https://www.notion.so/APIs-Explained-for-Product-Manager-53ce50635bad462f9665cf4836b91429)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
 * [KAKAO REST API](https://developer-ankiwoong.tistory.com/748)
