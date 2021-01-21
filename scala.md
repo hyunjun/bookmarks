@@ -1746,6 +1746,7 @@ Scala
 * [Introduction to Algebraic Types in Scala](http://tpolecat.github.io/presentations/algebraic_types.html)
 * [(47) ADT (Algebraic Data Types) 이란?](http://hamait.tistory.com/899)
 * [Save Your Time on Algebraic Data Type (ADT) Creation in Scala](https://blog.kevinlee.io/2019/10/01/save-your-time-on-algebraic-data-type-creation-in-scala/)
+* [Algebraic Data Types (ADT) in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=0wmcCdoExbM)
 * [Generalized Algebraic Data Types example in Scala](https://github.com/chrilves/gadt.scala)
   * [PROVING PRIMALITY WITH GADTS](https://chrilves.github.io/posts/prime/)
 * [Algebraic Data Types and Its Generic Presentation In Scala](https://levelup.gitconnected.com/algebraic-data-types-and-its-generic-presentation-in-scala-d2c1ce7740fe)
