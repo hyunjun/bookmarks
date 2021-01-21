@@ -142,6 +142,7 @@ PyTorch
 * [Weights & Biases - Monitor Your PyTorch Models With Five Extra Lines of Code](https://www.wandb.com/blog/monitor-your-pytorch-models-with-five-extra-lines-of-code)
 * [DataLoader num_workers에 대한 고찰](https://jybaek.tistory.com/799)
 * [But what are PyTorch DataLoaders really? | Scott Condron’s Blog](https://www.scottcondron.com/jupyter/visualisation/audio/2020/12/02/dataloaders-samplers-collate.html)
+* [**Data Loader, Better, Faster, Stronger**](https://d2.naver.com/helloworld/3773258) pytorch에만 국한되지 않는 좋은 글 parquet, tfrecord, Petastorm
 * [CRAFT: Character-Region Awareness For Text detection](https://github.com/clovaai/CRAFT-pytorch)
 * [Getting Started With Pytorch In Google Collab With Free GPU](https://hackernoon.com/getting-started-with-pytorch-in-google-collab-with-free-gpu-61a5c70b86a)
 * [Diverse Mini-Batch Active Learning](https://github.com/hskimim/active-learning-tutorial/tree/master/Diverse_minibatch_Active_Learning)
