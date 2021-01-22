@@ -566,6 +566,7 @@ Vision
 * [특별강의 Face Detection 3대 기법](https://www.youtube.com/watch?v=M2QAKxOGCCk)
 * [076923.github.io/posts/#C#-OpenCvSharp4](https://076923.github.io/posts/#C#-OpenCvSharp4)
 * [Real-Time Face Mask Detector with TensorFlow, Keras, and OpenCV](https://towardsdatascience.com/real-time-face-mask-detector-with-tensorflow-keras-and-opencv-38b552660b64)
+* [Face Mask Detection Using Python, Keras, OpenCV and Tensorflow| Detect Masks Real-time Video Streams - YouTube](https://www.youtube.com/watch?v=4WmLOAd1BvY)
 * [FaceMask Detection using Tensorflow and OpenCV](https://towardsdatascience.com/facemask-detection-using-tensorflow-and-opencv-824b69cad837)
 * [Computer Vision 101: Learn Face Detection And Conditional Filtering](https://towardsdatascience.com/computer-vision-101-learn-face-detection-and-conditional-filtering-db1b73d0fa2b)
 * [Live Video Sketching through Webcam using Computer Vision](https://towardsdatascience.com/live-video-sketching-through-webcam-using-computer-vision-30beed29f33e)
