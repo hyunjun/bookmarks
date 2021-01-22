@@ -405,6 +405,7 @@ Functional Programming
 * [Anatolii Kmetiuk at #ScalaUA - An argument against functional programming - YouTube](https://www.youtube.com/watch?v=TBfhTtQngnk) immutability, purity, category theory
 * [Builder Pattern in Scala with Phantom Types | by Maximiliano Felice | Medium](https://medium.com/@maximilianofelice/builder-pattern-in-scala-with-phantom-types-3e29a167e863)
 * [Monad Transformer Is All You Need | by Abhijit Gupta | The Startup | Medium](https://medium.com/swlh/monad-transformer-is-all-you-need-4dee05d55e01)
+* [Principled error handling - Beyond MonadError - Luka Jacobowitz - YouTube](https://www.youtube.com/watch?v=RySodlS3cSI)
 * [Part 1 - Data / Types / Referential Transparency / Value prop](https://www.matfournier.com/2020-01-10-getting-funcey-part1-types/)
 * [Part 2 - Programming with Effects](https://www.matfournier.com/2020-01-11-getting-funcey-part2-effects/)
 * [Part 3 - Typeclasses](https://www.matfournier.com/2020-01-15-getting-funcey-part3-typeclasses/)
