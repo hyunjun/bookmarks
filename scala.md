@@ -9,6 +9,7 @@ Scala
 * [ScalaFiddle](https://scalafiddle.io/)
 * [Visual Scala Reference](https://superruzafa.github.io/visual-scala-reference/)
 * [SoftwareMilling around OSS – Scala Love](https://scala.love/softwaremilling-around-oss/)
+* [5 Blogs for Scala's Birthday](https://blog.earthly.dev/top-5-scala-blogs/)
 * podcast
   * [the scalawags - monthly podcast about scala language](http://thescalawags.libsyn.com/)
   * [Happy Valentine’s Day with Valentin Kasas](https://scala.love/happy-valentin/)
@@ -278,6 +279,7 @@ Scala
 * [Writing Angular Services in Scala | by Antoine Doeraene | Jul, 2020 | Medium](https://medium.com/@antoine.doeraene/writing-angular-services-in-scala-e83fd308b7c3)
 * [Cloudflare Workers Announces Broad Language Support](https://blog.cloudflare.com/cloudflare-workers-announces-broad-language-support/)
 * [Scala: Beyond the basics with Christopher Batey - YouTube](https://www.youtube.com/watch?v=4QIgEMvUfIE) Function composition, Functional approaches to implement dependency injection, higher kinded types, Avoiding mutability with expressions, Abstracting with type classes
+* [Higher-kinded data in Scala | 47 Degrees](https://www.47deg.com/blog/higher-kinded-data-in-scala/)
 * [Joe Warren - 4 Ways to Make Change in Scala](http://www.doscienceto.it/blog/posts/2020-09-16-change.html)
 * [10 LESSONS LEARNED FROM USING KAFKA IN 1000 SCALA MICROSERVICES - Natan Silnitsky | Scalar 2020 - YouTube](https://www.youtube.com/watch?v=1dRXXV6pNRU)
 * [Scale By The Bay 2020: Natan Silnitsky, 8 Lessons Learned from using Kafka with 1000 microservices - YouTube](https://www.youtube.com/watch?v=XEZeLoO2iBk)
@@ -568,6 +570,7 @@ Scala
 * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=3qJ-IYhuK_I) Either, sealed trait로 type 정의
   * [practice - Either](https://gist.github.com/hyunjun/badf4b2082ac8ba0c585c6fe8d527e70#file-either-scala)
 * [Scala Filesystem Operations (paths, move, copy, list, delete) - MungingData](https://mungingdata.com/scala/filesystem-paths-move-copy-list-delete-folders/)
+* [Objects and Companions in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=OI3F_fuFYjg)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -917,6 +920,7 @@ Scala
 * [akka in actoin - livebook.manning.com/book/akka-in-action](https://livebook.manning.com/book/akka-in-action/)
 * [Best Scala Books: For Beginners & Experienced](https://techvidvan.com/tutorials/scala-books/)
 * [Creative Scala](https://www.creativescala.org/)
+* [Essential Effects: a book for learning effectful programming in Scala](https://essentialeffects.dev/)
 * [fpinscala](https://github.com/fpinscala/fpinscala) Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" http://manning.com/bjarnason
   * [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
 * [Hands-on Scala Programming](https://www.handsonscala.com/)
@@ -1364,6 +1368,7 @@ Scala
   * [Data Juggling - Part 3 - Optics Explained (#Monocle - Part 2)](https://www.youtube.com/watch?v=18ss7LpAKWE)
   * [Data Juggling - Part 4 - #Quicklens (#Monocle - Part 3)](https://www.youtube.com/watch?v=1qHJ0H-2iOw)
   * [Scale By The Bay 2020: Julien Truffaut, Monocle 3: a peek into the future - YouTube](https://www.youtube.com/watch?v=rT3tNV0xfbE)
+  * [Monocle 3 Roadmap | fp-tower blog](https://blog.fp-tower.com/2021-01-21-monocle-3-roadmap/)
 
 ## Library Web
 * [8 Frameworks to Build A Web API In Scala](https://nordicapis.com/8-frameworks-to-build-a-web-api-in-scala/)
