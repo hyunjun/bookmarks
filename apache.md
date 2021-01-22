@@ -581,6 +581,7 @@ Apache
 * [Kafka Operations(Production Deployment) – Sori-Nori](https://sori-nori.gitlab.io/docs/Kafka-Operations/)
 * [Disaster Recovery for Multi-Region Kafka at Uber | Uber Engineering Blog](https://eng.uber.com/kafka/)
   * [summary](https://gist.github.com/hyunjun/c176ac5d9f9dcc478ac6c28f56ca2b6f#file-uber_kafka_summary)
+* [How Zendesk Secures Kafka with Self-Hosted mTLS Authentication System](https://www.confluent.io/blog/how-zendesk-secures-kafka-with-mtls-authentication-system/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
