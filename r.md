@@ -330,6 +330,7 @@ R
 * [Reverse-engineering the problematic tail behavior of the Fivethirtyeight presidential election forecast « Statistical Modeling, Causal Inference, and Social Science](https://statmodeling.stat.columbia.edu/2020/10/24/reverse-engineering-the-problematic-tail-behavior-of-the-fivethirtyeight-presidential-election-forecast/)
 * [Become a Superlearner! An Illustrated Guide to Superlearning | KHstats](https://www.khstats.com/blog/sl/superlearning/)
 * [shinyMobile 설명](https://tidyverse-korea.github.io/seoul-R/data/2.%20shinyMobile%20%EC%86%8C%EA%B0%9C%20(%EC%A7%80%EB%82%A8%ED%98%84).pdf)
+* [R) 전처리 - 객체 및 변수 명명하기 - Data Doctor](https://datadoctorblog.com/2021/01/22/R-Preprocessing-naming-object-variables/)
 
 # API
 * [REX: Look around – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2229)
