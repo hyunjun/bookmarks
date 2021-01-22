@@ -120,6 +120,7 @@ Json
   * [Jackson annotation, JSON 직렬화,역직렬화와 관련된 어노테이션](http://www.slideshare.net/topcredu/jackson-annotation-json)
   * [Jackson 직렬화 옵션의 적절한 활용과 Jackson에 기여하기까지 (feat. 글로벌 캐싱)](https://hyperconnect.github.io/2019/10/28/jackson-serialize-for-global-caching.html)
   * [Customize your Java-JSON serialization using Jackson Annotations](https://medium.com/trabe/customize-your-serialization-using-jackson-annotations-d6b81c4785a6)
+  * [JAVA Jackson을 쓰며 겪었던 문제](https://velog.io/@juunini/JAVA-Jackson%EC%9D%84-%EC%93%B0%EB%A9%B0-%EA%B2%AA%EC%97%88%EB%8D%98-%EB%AC%B8%EC%A0%9C)
 * [JMESPath - a query language for JSON](http://jmespath.org/)
 * [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo ](https://github.com/jpmens/jo)
 * [**jq - a lightweight and flexible command-line JSON processor**](http://stedolan.github.io/jq/)
