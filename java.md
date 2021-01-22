@@ -1319,6 +1319,7 @@ Java
 * [2. application.properties DB접속정보로 DataSource 빈 생성이 안된이슈](https://kim-jong-hyun.tistory.com/13)
 * [초간단 스프링부트와 컨트롤러까지 - YouTube](https://www.youtube.com/watch?v=EVgkBg-ka9Q)
 * [(2020.12.16) 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 최신 코드로 변경하기](https://jojoldu.tistory.com/539) gradle, junit, JPA
+* [스프링 부트 Gradle 사용하기 - YouTube](https://www.youtube.com/watch?v=xy2hINiTosM)
 * [스프링부트 무료 호스팅 사용하기 - YouTube](https://www.youtube.com/watch?v=lWUIicugz6c)
 * [리액티브 스프링5 따라하기 - YouTube](https://www.youtube.com/watch?v=d3_qXOdxl1E)
 * [딱 10분만에 RESTful 서비스 개발하기 (feat. SpringBoot) - YouTube](https://www.youtube.com/watch?v=4pDrRvhUjiQ)
