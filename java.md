@@ -916,6 +916,7 @@ Java
   * [웹서버 부하테스트 실전 노하우](https://www.slideshare.net/IMQAGroup/ss-183469952) jmeter
   * [jmeter를 사용한 가변길이 TCP Binary 패킷 처리 방법](https://newtype.pe.kr/463)
   * [JMeter을 이용해서 웹서버 성능 테스트하기 - YouTube](https://www.youtube.com/watch?v=1AyxqIePusA)
+  * [테스트 명장, Apache JMeter](https://jybaek.tistory.com/889)
 * [jOOλ - The Missing Parts in Java 8 jOOλ improves the JDK libraries in areas where the Expert Group's focus was elsewhere](https://github.com/jOOQ/jOOL)
 * [jsoup: Java HTML Parser](https://jsoup.org/)
   * [HtmlUnit close all windows memory leak](https://stackoverrun.com/ko/q/7258293)
