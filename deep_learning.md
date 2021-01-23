@@ -2135,6 +2135,7 @@ CVPR2016)
 * [“EfficientNet; Improving Accuracy and Efficiency through AutoML and Model Scaling 리뷰”](https://hoya012.github.io//blog/EfficientNet-review/)
 * [AutoML-Zero：Evolving Machine Learning Algorithms From Scratch Review](https://hoya012.github.io/blog/automl-zero-review/)
 * [Deep Visual-SLAM의 미래 0 (Deep-SLAM의 시작)](https://cv-learn.com/Deep-Visual-SLAM-0-Deep-SLAM-603a26c47c3848a88b90559d273f95dc)
+* [DL_PaperReadingMeeting: Deep Learning Paper Reading Meeting-Archive](https://github.com/Lilcob/-DL_PaperReadingMeeting)
 
 # Quickprop
 * [Quickprop: an almost forgotten neural training algorithm](https://www.bonaccorso.eu/2017/09/15/quickprop-an-almost-forgotten-neural-training-algorithm/)
