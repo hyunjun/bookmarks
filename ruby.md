@@ -51,6 +51,7 @@ Ruby
 * [How to Fix Slow Code in Ruby](https://engineering.shopify.com/blogs/engineering/how-fix-slow-code-ruby)
 * [**What causes Ruby memory bloat? – Joyful Bikeshedding**](https://www.joyfulbikeshedding.com/blog/2019-03-14-what-causes-ruby-memory-bloat.html)
 * [루비(Ruby) 버전 3.0.0, 병렬실행 및 타입설명 지원 - CIO Korea](https://www.ciokorea.com/news/177799) rector
+* [Ruby 3, concurrency and the ecosystem · Kir Shatrov](https://kirshatrov.com/2021/01/06/ruby-concurrency-and-ecosystem/)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)
@@ -61,6 +62,7 @@ Ruby
 * [Fast Ruby :heart_eyes: —— Collect Common Ruby idioms. https://github.com/JuanitoFatas/fast-ruby](https://github.com/JuanitoFatas/fast-ruby)
 * [Fluentd: a High Performance Unified Logging Layer](http://www.linux.com/news/enterprise/high-performance/147-high-performance/847237-fluentd-a-high-performance-unified-logging-layer)
 * [foghorn - Add a little Foghorn Leghorn to your ruby](https://github.com/rickr/foghorn)
+* [forward-proxy: 100 LOC Ruby forward proxy using only standard libraries.](https://github.com/jamesmoriarty/forward-proxy)
 * [gemfly - Update your Gemfile gems](http://gemfly.findings.co/)
 * [GraalVM for Ruby - RubySG - YouTube](https://www.youtube.com/watch?v=vh80hgoVTWI)
 * [infraruby](http://infraruby.com/)
