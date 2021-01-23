@@ -425,6 +425,7 @@ Python
 * [7 Best Hosting Platforms for Python Application](https://geekflare.com/python-hosting-platform/)
 * [I created my own YouTube algorithm (to stop me wasting time) | by Chris Lovejoy | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/i-created-my-own-youtube-algorithm-to-stop-me-wasting-time-afd170f4ca3a)
 * [Start Python #3 Backend Program 만들기 - Class - Kowana's coding](https://www.kowanas.com/coding/2020/12/20/class/)
+* [Common anti-patterns in Python - DeepSource](https://deepsource.io/blog/8-new-python-antipatterns/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1510,6 +1511,7 @@ Python
 * [**Books by Agiliq**](https://books.agiliq.com)
   * Django Admin Cookbook, Django ORM Cookbook, Building APIs with Django and Django Rest Framework, Building Multi Tenant Applications with Django, Django Projects Cookbook, Django Design Patterns, Django Gotchas
   * Journeyman Python, Essential Python Tools, Tweetable Python, Software consulting Howto, Visual Arts with Python
+* ["A Byte of Python" is a free book on programming using the Python language](https://python.swaroopch.com/)
 * [byte of python-korean](http://byteofpython-korean.sourceforge.net/byte_of_python.html)
 * [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python/read_full)
   * [Leonardo Giordani - Clean Architectures in Python - YouTube](https://www.youtube.com/watch?v=bieO6YOZ4uc)
@@ -3352,6 +3354,7 @@ Python
   * Photonai [21 Techniques to Write Better Code | by Bruce H. Cottman, Ph.D. | The Startup | Medium](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
 * [Thonny - Python IDE for beginners](http://thonny.org/)
   * [Learn to code with Thonny — a Python IDE for beginners](https://fedoramagazine.org/learn-code-thonny-python-ide-beginners)
+  * [Thonny - 초보자를 위한 Python IDE | GeekNews](https://news.hada.io/topic?id=3548)
 
 ## Library image
 * [**10 Python image manipulation tools**](https://towardsdatascience.com/image-manipulation-tools-for-python-6eb0908ed61f)
