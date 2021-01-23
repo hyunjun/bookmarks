@@ -84,6 +84,7 @@
 * [.NET Core에서 옵션 패턴 사용하기](https://www.youtube.com/watch?v=PQya3XxIdqk)
 * [디벨로퍼 아드보캇은 뭘 하는 사람인가요?](https://justinchronicles.net/ko/2020/03/14/what-do-developer-advocates-do/)
 * [Astonishing Performance of .NET 5 | Medium](https://alexyakunin.medium.com/astonishing-performance-of-net-5-7803d69dae2e)
+* [@devlead - Mattias Karlsson's Blog - My preferred .NET console stack](https://www.devlead.se/posts/2021/2021-01-15-my-preferred-console-stack)
 
 # Conference
 * [.NET Conf 2019 키노트](https://www.youtube.com/watch?v=8qtmRG5vQxM&list=PLFVJi7gR5oaP715fktQtSV6vJE76MLide)
@@ -129,6 +130,8 @@
   * [Roslyn and Mono](http://tirania.org/blog/archive/2015/Jul-21.html)
 * ML.NET [Welcome to the world of Machine Learning with ML.NET 1.0 - BRK3011](https://www.youtube.com/watch?v=pxUzw6JyqcM)
 * [.NETMemoryPerformanceAnalysis.md at master · Maoni0/mem-doc](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md)
+* [.NET nanoFramework – Making it easy to write C# code for embedded systems.](https://www.nanoframework.net/)
+  * [임베디드 시스템용 C# 코드 작성 쉽게··· ‘닷넷 나노프레임워크’란? - CIO Korea](https://www.ciokorea.com/news/179839)
 * [referencesource.microsoft.com](http://referencesource.microsoft.com/) .NET Framework source code online
 * Uno [Uno - 싱글 코드로 모든 OS를 지원하는 플랫폼 | GeekNews](https://news.hada.io/topic?id=3153)
 
