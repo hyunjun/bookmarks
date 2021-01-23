@@ -151,7 +151,7 @@ App
   * [Install OS X 10.10 Yosemite in VirtualBox](http://blog.frd.mn/install-os-x-10-10-yosemite-in-virtualbox/)
   * [HOWTO: Moving a Windows (XP) installation from a broken PC to a new one... using Virtualbox](http://thegoodcodeinn.blogspot.kr/2015/10/howto-moving-windows-xp-installation.html)
   * [OSBoxes offers you ready-to-use VirtualBox/VMware Linux/Unix guest operating systems](http://www.osboxes.org/)
-  * [1. [CentOS 6.5] Virtual Box를 이용한 CentOS 6.5 설치](http://webdevnovice.tistory.com/2)
+  * [1. CentOS 6.5 Virtual Box를 이용한 CentOS 6.5 설치](http://webdevnovice.tistory.com/2)
   * [VirtualBox 5.1.20 버전업 후 Vagrant Shared Folders mount 오류 해결](https://blog.asamaru.net/2017/05/02/virtualbox-5-1-20-vagrant-shared-folders-mount-error/)
   * [샤크라맥스와 Virtualbox 게스트OS 네트워크 문제: ping은 되는데 tcp 연결이 안 될때](http://javacan.tistory.com/entry/Chakramax-Virtualbox-GuestOS-network-problem)
   * [VirtualBox 네트워크 설정 상세 분석](https://cjwoov.tistory.com/11)
@@ -205,6 +205,7 @@ App
 * [RSS로 블로그를 한 번에 백업하자](https://blog.chosunghyun.com/kr-backup-with-rss/)
 * [3 open source alternatives to Confluence | Opensource.com](https://opensource.com/article/20/9/open-source-alternatives-confluence)
 * [블로그 새단장 후기, 2탄 | imch.dev](https://imch.dev/posts/blog-renewal-2021) headless CMS
+* [Next Gen Static Blogging | mmackh](https://inoads.com/articles/2021-01-09-Next-Gen-Static-Blogging)
 * [blogdown: Creating Websites with R Markdown](https://bookdown.org/yihui/blogdown/)
   * [Making a Website Using Blogdown, Hugo, and GitHub pages](https://proquestionasker.github.io/blog/Making_Site/)
   * [A New Website with Blogdown package](https://ecosang.github.io/blog/miscellaneous/new-website-with-blogdown/)
@@ -329,6 +330,7 @@ App
 # Bookmark
 * [Bort - Keep your website bookmarks in sync on all your devices regardless of which browser you use](https://bort.io/)
 * [Memex - Bookmarking for the power users of the web](https://getmemex.com/)
+* [Raindrop.io — All-in-one bookmark manager](https://raindrop.io/)
 
 # Chrome
 * [크롬에 필수로 깔아야 할 10가지 확장프로그램](http://ppss.kr/archives/38241)
@@ -418,6 +420,8 @@ App
 * [7 Command-Line Tools That Make Your Life Easier | by Daan | Aug, 2020 | Level Up Coding](https://levelup.gitconnected.com/7-command-line-tools-that-make-your-life-easier-d69c38850d6c)
   * Enhancd, The Fuck, Git Stats, Autojump, Bat, Oh my ZSH, Fony
 * [aquerytool.com](http://aquerytool.com/) DB schema
+* [asdf: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more](https://github.com/asdf-vm/asdf)
+  * [asdf-python](https://github.com/danhper/asdf-python)
 * buildbox
   * [코딩할줄 모르는 개발자가 만든 1위 모바일 게임, Color Switch](http://techneedle.com/archives/25515)
   * [How solo-developed Color Switch topped the App Store using 'codeless' dev tool Buildbox](http://www.pocketgamer.biz/interview/62711/how-color-switch-went-no1-using-buildbox/)
@@ -427,8 +431,10 @@ App
 * [docz - It has never been so easy to document your things! https://docz.site](https://github.com/pedronauck/docz)
 * [Lando - A Local Dev Tool For Every Project | Lando](https://lando.dev/)
 * [n8n.io - Open Source Alternative for Zapier/tray.io](https://n8n.io)
+* [Nix - a tool that takes a unique approach to package management and system configuration](https://nixos.org/)
 * [PlantUML - 다이어그램을 빠르게 작성하기 위한 오픈 소스 프로젝트](http://plantuml.com/)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
+* [Skynet - The decentralized CDN and file sharing platform for devs](https://siasky.net/)
 * [Sourcetrail - The offline cross-platform source explorer Get productive on unfamiliar source code](https://www.sourcetrail.com/)
 * [TeamGantt - Online Gantt Chart Software](https://www.teamgantt.com/)
 * Termius [멀티 플랫폼 SSH 클라이언트: Termius](https://macnews.tistory.com/5728)
@@ -837,9 +843,10 @@ App
 * [IINA - The modern media player for macOS](https://iina.io/)
 * [**KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)**](https://github.com/newmarcel/KeepingYouAwake)
 * [Keka the macOS file archiver Store more, share with privacy](https://www.keka.io) 압축
-* [Loading - [무료] 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
+* [Loading - 무료 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
 * [lookback.io](https://lookback.io/)
   * [앱 피드백도 백문이 불여일견, 모바일 화면 실시간 스트리밍 서비스 ‘유니콘’](http://besuccess.com/2015/06/unicorn/)
+* [LuLu - the free, open-source firewall](https://objective-see.com/products/lulu.html)
 * [MacJournal 7](https://danschimpf.com)
 * [mackup](https://github.com/lra/mackup)
 * [Magnet 마그넷](https://itunes.apple.com/kr/app/magnet-mageunes/id441258766?mt=12) spectacle 유사. 워크스페이스 정리. 유료
@@ -1112,6 +1119,8 @@ App
 * [Piskel - Free online sprite editor](https://www.piskelapp.com/)
 * [Radium - The Music Editor](http://users.notam02.no/~kjetism/radium/)
 * [Remove Image Background](https://www.remove.bg)
+* [Rewatch: The private & secure video channel for your team.](https://rewatch.tv/)
+  * [Rewatch - 팀/회사를 위한 비디오 공유 | GeekNews](https://news.hada.io/topic?id=3555)
 * [Shotcut - a free, open source, cross-platform video editor](https://github.com/mltframework/shotcut)
 * [SickZil-Machine](https://github.com/KUR-creative/SickZil-Machine) 딥러닝으로 만화에서 텍스트 제거
 * VLC
@@ -1190,6 +1199,7 @@ App
 * [6 Things Markdown Got Wrong](https://www.swyx.io/writing/markdown-mistakes/)
 * [caret.io - Markdown Editor for Mac / Windows / Linux](http://caret.io/) 유료
 * [DocFX - static documentation generator | DocFX website](https://dotnet.github.io/docfx/)
+* [dumbdown: The dumb alternative to markdown. The keyword for title is title](https://github.com/treenotation/dumbdown)
 * [Fongshen - Markdown with Ace example](http://simular.co/works/fongshen/)
 * [hackmd.io](https://hackmd.io/) gist
 * [Haroopad](http://pad.haroopress.com/)
@@ -1207,6 +1217,7 @@ App
 
 # Office
 * [알아 두면 도움되는 17가지 구글 문서도구 팁](http://www.itworld.co.kr/news/127491)
+* [Download Hanword HWP document converter for Microsoft Word 2016 from Official Microsoft Download Center](https://www.microsoft.com/en-us/download/details.aspx?id=49152) 한글 -> word 변환
 * [G Suite Solutions Gallery - a collection of sample solutions that demonstrates how you can solve common business challenges with G Suite Developer technologies](https://developers.google.com/gsuite/solutions)
 * Excel, Spreadsheet
   * `countif([range], "*b*")` range에 대해 b를 포함하는 개수
@@ -1232,6 +1243,10 @@ App
 # Programming
 * [pocket-programming.ffab0.com](http://pocket-programming.ffab0.com/)
 
+# Search
+* [DuckDuckGo — 개인정보 보호, 쉬워졌네요](https://duckduckgo.com/)
+* [Startpage.com - The world's most private search engine](https://startpage.com/)
+
 # TODOs To-Dos
 * [dynalist.io](https://dynalist.io/) todo
 * workflowy
@@ -1248,6 +1263,7 @@ App
 * [Rainy Mood](https://rainymood.com/)
 
 # Window
+* [Mass deleting files in Windows - Super User](https://superuser.com/questions/19762/mass-deleting-files-in-windows/289399#289399)
 * [구라 제거기](https://teus.me/622)
   * ["PC 뱅킹의 주적은 뱅킹 프로그램" – 구라 제거기 제작자 인터뷰](http://slownews.kr/67777)
 * [꿀뷰](https://kr.bandisoft.com/honeyview/)
