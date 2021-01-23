@@ -6,6 +6,7 @@ Java
 * [Java Puzzle 9: Tweet](http://wouter.coekaerts.be/2015/puzzle-tweet)
 * [codingbat.com/java](http://codingbat.com/java)
 * [Online Tutorial to Learn Java - CodeGym](https://codegym.cc/) online Java programming course 80% based on practice
+* [Learn Java - Free Interactive Java Tutorial](https://www.learnjavaonline.org/)
 * [Java의 함수형 프로그래밍이 생각보다 위험하지 않은 이유](https://justhackem.wordpress.com/2014/06/19/why-functional-programming-in-java-is-not-dangerous/)
 * [Keyword extraction in Java](http://www.vikasing.com/2013/09/keyword-extraction-in-java.html)
 * [Extracting meaningful text from webpages](http://www.vikasing.com/2012/03/extracting-meaningful-text-from.html)
@@ -834,6 +835,7 @@ Java
   * [Mono-repo, Multi-project를 Gradle 플러그인으로 손쉽게 관리하기](https://engineering.linecorp.com/ko/blog/mono-repo-multi-project-gradle-plugin/)
   * [Introducing Java toolchains](https://blog.gradle.org/java-toolchains)
   * [Gradle5 -> 6 마이그레이션](https://jojoldu.tistory.com/538)
+  * [The Problem with Gradle](https://www.bruceeckel.com/2021/01/02/the-problem-with-gradle/)
 * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * [hwplib: hwp library for java](https://github.com/neolord0/hwplib)
@@ -1177,6 +1179,7 @@ Java
 * [스프링 부트 크로스 도메인 설정 #CORS - YouTube](https://www.youtube.com/watch?v=wOk-ZnvM6I4)
 * [17. Spring - application.properties(.yml)에 개발자 정의 프로퍼티 경고창없애기](https://kim-jong-hyun.tistory.com/30)
 * [Apache Camel + Spring Boot REST API | Example | Java Techie - YouTube](https://www.youtube.com/watch?v=wFpAw0bpzns)
+* [REST with Spring Tutorial | Baeldung](https://www.baeldung.com/rest-with-spring-series)
 * [beantimer: A tools to measure Spring bean initialization time](https://github.com/vikreinok/beantimer)
 * [thymeleaf](https://okdevtv.com/mib/spring/thymeleaf)
   * [Thymeleaf 시작하기 - YouTube](https://www.youtube.com/watch?v=tiRi6PLVesY)
