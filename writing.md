@@ -101,6 +101,7 @@ Writing
 * [Writing a technical book: from idea to print](https://sararobinson.dev/2020/11/17/writing-a-technical-book.html)
 * [그것이 알고 싶다 - 왜 개발자는 글을 못 쓸까? - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/why-are-engineers-so-bad-at-writing/)
 * [컴퓨터 프로그래밍에 대한 명언 101가지 | IT의 중심에서](https://subokim.wordpress.com/2015/03/12/101-great-computer-programming-quotes/)
+* [구글 테크니컬라이터가 전하는 이야기 - Tech. Writer Log](https://naraewool.gitbook.io/techwriter/untitled/google-techwriter)
 * [apiDoc - Inline Documentation for RESTful web APIs](https://apidocjs.com/)
   * [개발자가 싫어하는 문서화하기 2편 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222067713267)
 * [API Improvement Proposals](https://aip.dev)
