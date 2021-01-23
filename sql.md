@@ -153,6 +153,7 @@ SQL
 * [Using SQL to Estimate Customer Lifetime Value (LTV) without Machine Learning - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/using-sql-to-estimate-customer-lifetime-value-ltv-without-machine)
 * [Understanding Connections & Pools](https://sudhir.io/understanding-connections-pools/)
 * [내가 만든 서비스는 얼마나 많은 사용자가 이용할 수 있을까? - 3편(DB Connection Pool)](https://hyuntaeknote.tistory.com/12)
+* [What can we learn from SQL's 50 year reign? A story of 2 Turing Awards](https://blog.arctype.com/sql-50-years/)
 * [Arctype | The fast and easy-to-use SQL client](https://arctype.com/)
 * [**dbcrossbar** - an open source tool that copies large, tabular datasets between many different databases and storage formats. Data can be copied from any source to any destination](https://www.dbcrossbar.org/)
 * [DBeaver](https://dbeaver.io/)
@@ -160,6 +161,7 @@ SQL
   * [데이터베이스 연결 도구 - DBeaver 설치](https://jybaek.tistory.com/858)
   * [`Failed to create the Java Virtual Machine`](https://gist.github.com/hyunjun/7de243f9871514fa4aa7e8c3b0d00f97)
   * [.ini 파일 설정](https://baekjungho.github.io/database-dbeaverini/)
+* [DBLog: A Generic Change-Data-Capture Framework | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b)
 * ERD
   * [ERD 다이어그램 툴 종류와 설치 경로 정리](http://gomcine.tistory.com/entry/ERD-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%ED%88%B4-%EC%A2%85%EB%A5%98%EC%99%80-%EC%84%A4%EC%B9%98-%EA%B2%BD%EB%A1%9C-%EC%A0%95%EB%A6%AC)
   * [AQueryTool은 웹 기반 ERD 툴 + SQL 자동 생성 프로그램](http://aquerytool.com/)
@@ -524,6 +526,7 @@ SQL
 * [MySQL 내부 구조](https://brunch.co.kr/@jehovah/21)
 * [**Building HashTag M : N Relation with Node.js, Sequelize(MySQL) | by Ryan Kim | Oct, 2020 | Medium**](https://equus3144.medium.com/building-hashtag-m-n-relation-with-node-js-sequelize-mysql-3dde6824d2a0)
 * [Blog of (former?) MySQL Entomologist: Linux /proc Filesystem for MySQL DBAs - Part I, Basics](https://mysqlentomologist.blogspot.com/2021/01/linux-proc-filesystem-for-mysql-dbas.html)
+* [How to delete lots of rows from a MySQL database without indefinite locking – Bram.us](https://www.bram.us/2021/01/14/how-to-delete-lots-of-rows-from-a-mysql-database-without-indefinite-locking/)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
@@ -692,6 +695,8 @@ SQL
 * [Stored Procedures as a backend. or “How we got rid of Django and whole… | by Oleg Zech | Oct, 2020 | Medium](https://gnuhost.medium.com/stored-procedures-as-a-backend-c5d2db452fc2)
 * [BLOB cleanup in PostgreSQL - CYBERTEC | Data Science & PostgreSQL](https://www.cybertec-postgresql.com/en/blob-cleanup-in-postgresql/)
 * [PostgreSQL Database Security: What You Need To Know - Percona Database Performance Blog](https://www.percona.com/blog/2021/01/04/postgresql-database-security-what-you-need-to-know/)
+* [Migrating From Oracle to PostgreSQL - What You Should Know | Severalnines](https://severalnines.com/database-blog/migrating-oracle-postgresql-what-you-should-know)
+* [A Complete Guide to SQL Triggers in PostgreSQL - DB Tracking Example](https://blog.arctype.com/learn-sql-triggers/)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
@@ -700,7 +705,8 @@ SQL
 * [Envelope - Introducing a new paradigm in web application development written specifically for PostgreSQL developers!](http://envelope.xyz/)
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 * [Home - Full text search in milliseconds with PostgreSQL](https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/)
-* [Kexi is an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker](http://www.kexi-project.org/)
+* [Kexi - an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker](http://www.kexi-project.org/)
+* [krahodb: An open-source database designed to support multi-master replication. It is designed on the top of PostgreSQL, providing bidirectional replication, as well as row filtering](https://github.com/timbira/krahodb)
 * [Message DB - Microservice Native Event Store and Message Store for Postgres](https://github.com/message-db/message-db)
   * [Announcing Message DB: Event Store and Message Store for PostgreSQL](https://blog.eventide-project.org/articles/announcing-message-db/)
 * [meteor-pg - Reactive PostgreSQL for Meteor](https://github.com/numtel/meteor-pg)
@@ -822,6 +828,7 @@ SQL
 * [SQLite as a document database](https://dgl.cx/2020/06/sqlite-json-support)
 * [CG/SQL: Easy, accurate SQLite code generation - Facebook Engineering](https://engineering.fb.com/open-source/cg-sql/)
 * [DB Browser for SQLite](https://sqlitebrowser.org/)
+* [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
 * [simple-graph: This is a simple graph database in SQLite, inspired by "SQLite as a document database"](https://github.com/dpapathanasiou/simple-graph)
 * [sqlitestudio.pl](http://sqlitestudio.pl/)
