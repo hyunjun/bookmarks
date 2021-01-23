@@ -853,3 +853,4 @@ Clojure
 * [Learning Clojure Part 5: Robot Factory - DEV Community](https://dev.to/pavel_polivka/learning-clojure-part-5-robot-factory-l94)
 * [SciCloj: Libraries](https://scicloj.github.io/pages/libraries/)
 * [Why Developers Should Look into Clojure](https://auth0.com/blog/why-developers-should-look-into-clojure)
+* [Clojure in a nutshell by James Trunk - YouTube](https://www.youtube.com/watch?v=C-kF25fWTO8)
