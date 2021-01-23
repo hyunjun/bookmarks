@@ -503,6 +503,7 @@ Docker
   * [Using multi-arch Docker images to support apps on any architecture](https://mirailabs.io/blog/multiarch-docker-with-buildx/)
   * [Preparation toward running Docker on ARM Mac: Building multi-arch images with Docker BuildX | by Akihiro Suda | nttlabs | Medium](https://medium.com/nttlabs/buildx-multiarch-2c6c2df00ca2)
   * [Docker buildx를 활용하여 Multi-Architecture 이미지 빌드](https://judo0179.tistory.com/99)
+  * [Building Multi-Architecture Docker Images With Buildx | by Artur Klauser | Medium](https://medium.com/@artur.klauser/building-multi-architecture-docker-images-with-buildx-27d80f7e2408)
 * cp `sudo docker cp [host path] [container id]:[container path]` [Copying files from host to docker container](http://stackoverflow.com/questions/22907231/copying-files-from-host-to-docker-container)
 * exec
 
@@ -606,6 +607,7 @@ Docker
 * [Gotchas in Writing Dockerfile](http://kimh.github.io/blog/en/docker/gotchas-in-writing-dockerfile-en/)
 * [How to Optimize Your Dockerfile](https://blog.tutum.co/2014/10/22/how-to-optimize-your-dockerfile/)
 * [Docker ENTRYPOINT & CMD: Dockerfile best practices](https://medium.freecodecamp.org/docker-entrypoint-cmd-dockerfile-best-practices-abc591c30e21)
+* [dockerfile: Dockerfile best-practices for writing production-worthy Docker images](https://github.com/hexops/dockerfile)
 * practice
   * [some project with apache](https://gist.github.com/hyunjun/93f3cd9d76d3de50aa22c9477a700492#file-some_project_and_apache-md)
   * [ubuntu + python3, 한글](https://gist.github.com/hyunjun/93f3cd9d76d3de50aa22c9477a700492#file-ubuntu_python3_korean-md)
