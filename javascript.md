@@ -91,6 +91,7 @@ Javascript
   * [#2 1 2D Context](https://www.youtube.com/watch?v=IlANstQ1h3M)
   * [#2 2 Recap!](https://www.youtube.com/watch?v=LAG1ERXR2xQ)
   * [#2 3 Changing Color](https://www.youtube.com/watch?v=cq-l2zPUVoU)
+* [**222 Favorite JavaScript single line of code**](https://1loc.dev/) javascript idiom 모음집
 * 자바스크립트 개발자라면 알아야하는 핵심 컨셉 33개 [33 Concepts of JavaScript](https://www.youtube.com/playlist?list=PL7jH19IHhOLMmmjrwCi7-dMFVdoU0hhgF)
 * [How not to be afraid of JavaScript anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-javascript-anymore-c40780dc071)
 * [바닐라 자바스크립트로 5분만에 모달창 만들기 (Vanilla JS Rocks : making pop up screen in 5 min)](https://www.youtube.com/watch?v=V08wXKHF_Xw)
@@ -1198,6 +1199,7 @@ Javascript
 * [Top 10 JavaScript Frameworks for Server Side Development in 2020](https://medium.com/javascript-in-plain-english/top-10-javascript-frameworks-for-server-side-development-in-2020-6d265016c02)
 * [9 open source JavaScript frameworks for front-end web development](https://opensource.com/article/20/5/open-source-javascript-frameworks)
 * [Best of JavaScript](https://bestofjs.org/timeline) Timeline: 2006-2020 in 20 projects
+* [Top JavaScript Frameworks and Tech Trends for 2021 | by Eric Elliott | JavaScript Scene | Dec, 2020 | Medium](https://medium.com/javascript-scene/top-javascript-frameworks-and-tech-trends-for-2021-d8cb0f7bda69)
 * [금액-한글 변환 프로젝트 npm 배포하기 사내에서 사용 중이던 함수를 오픈소스로 만든 과정을 소개합니다](https://www.huskyhoochu.com/num-to-korean)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
@@ -1241,7 +1243,7 @@ Javascript
 * [Closure Compiler](https://developers.google.com/closure/compiler/)
 * [Clusterize.js Tiny plugin to display large data sets easily](http://nexts.github.io/Clusterize.js/)
 * [clusters - k-means clustering in Javascript](https://github.com/NathanEpstein/clusters)
-* [CodeSandbox - an online editor that helps you create web applications, from prototype to deployment](https://codesandbox.io/)
+* [CodeSandbox: Online Code Editor and IDE for Rapid Web Development](https://codesandbox.io/)
   * [무제한 무료 프론트엔드 코드 저장소 - YouTube](https://www.youtube.com/watch?v=rTcLNX2ABdI)
 * [combinatorics.js - Combinatorics Javascript Library](https://github.com/devanp92/combinatorics.js)
 * [csonv.js - A tiny library to fetch relational CSV data at client-side just like JSON http://archan937.github.com/csonv.js](https://github.com/archan937/csonv.js)
@@ -1320,10 +1322,11 @@ Javascript
 * [Fil - Live coding in your browser with your favourite language](https://github.com/fatiherikli/fil)
 * [flowchart.js - Draws simple SVG flow chart diagrams from textual representation of the diagram](http://adrai.github.io/flowchart.js/)
 * [flowy - The minimal javascript library to create flowcharts](https://github.com/alyssaxuu/flowy)
+* [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly)
 * [formfiller.js - Stop Wasting Your Time FormFiller: A Javascript bookmarklet for repopulating forms](https://formfillerjs.com/)
 * [Fortune.js - a high-level I/O library for web applications](http://fortunejs.com/)
 * [fourd.js library - dynamically visualize graphs in 3D](http://lowrekey.github.io/fourd.js/)
-* [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly)
+* [frontend-challenges: Listing some playful open-source's challenges of jobs to test your knowledge](https://github.com/felipefialho/frontend-challenges)
 * fullPage.js
   * [전체화면 스크롤 웹 사이트 플러그인 fullPage.js](https://wormwlrm.github.io/2018/08/05/How-to-make-web-page-to-slide-by-using-fullpage-js.html)
   * [CSS Scroll snap으로 fullpage.js를 대체하고 싶었다 - Ethan Sup's log](https://ethansup.net/blog/scroll-snap-instead-fullpage/)
@@ -1418,6 +1421,7 @@ Javascript
 * [micromono - Write microservices in monolithic style http://micromono.io](https://github.com/lsm/micromono)
 * [midi.js - Ear Training Practice](http://tonedear.com/)
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
+* [Mithril.js - modern client-side JavaScript framework for building Single Page Applications](https://mithril.js.org/) SPA
 * [Moebio Framework is a JavaScript toolkit for performing data analysis and creating visualizations](http://moebiolabs.github.io/moebio_framework/)
 * [MockTheClock - A tiny JS library to... spoof timers and other date/time functions. Useful for slowing down 3D animations](https://github.com/zb3/MockTheClock)
 * Mongoose
