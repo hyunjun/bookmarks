@@ -433,6 +433,7 @@ Programming Books
 * (NOT YET) [파이썬 데이터 분석 실무 테크닉 100 | 위키북스](https://wikibook.co.kr/pyda100/)
   * [제대로 된 실무서적 - 파이썬 데이터분석 실무 테크닉 100 | 딥백수](https://dl4ab.github.io/2020/09/04/python-data-analysis-technique)
 * (NOT YET) [데이터 과학 트레이닝 북 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/12/21/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-%EB%B6%81/)
+* (NOT YET) [팩트풀니스 - 우리가 세상을 오해하는 10가지 이유와 세상이 생각보다 괜찮은 이유 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1528)
 
 ## Deep Learning
 * 가장 빨리 만나는 딥러닝 with Caffe
