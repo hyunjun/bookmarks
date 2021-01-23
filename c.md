@@ -171,6 +171,7 @@ C
 * [흔한 C 프로그래밍 오류 4가지, '그리고 5가지 대처법' - CIO Korea](http://www.ciokorea.com/news/167460)
 * [Étude in C minor](https://zserge.com/posts/etude-in-c/)
 * [GTK4 for Graphical User Interfaces](http://ssalewski.de/gtkprogramming.html)
+* [The International Obfuscated C Code Contest](https://www.ioccc.org/2020/carlini/index.html)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -417,6 +418,7 @@ C
 * [A Smaller, Better compiler suite](http://achacompilers.blogspot.kr/2015/09/a-smaller-better-compiler-suite.html) gcc, clang, tcc, pcc, 8cc
 * [A C Compiler for Stack Machines](http://www.dcs.gla.ac.uk/~marks/thesis.pdf)
 * [Why the C Language Will Never Stop You from Making Mistakes | The Pasture](https://thephd.github.io/your-c-compiler-and-standard-library-will-not-help-you)
+* [Comparing clang to other open source compilers](https://opensource.apple.com/source/clang/clang-23/clang/tools/clang/www/comparison.html)
 * [chibicc: A small C compiler](https://github.com/rui314/chibicc)
 * [distcc: a fast, free distributed C/C++ compiler](https://distcc.github.io/)
 * [movfuscator - The single instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
