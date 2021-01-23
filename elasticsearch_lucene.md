@@ -516,6 +516,8 @@ ElasticSearch - Lucene
   * [KOMORAN 3.0 beta](http://shineware.tistory.com/entry/KOMORAN-30-beta)
   * [3.2.0](https://github.com/shin285/KOMORAN/releases/tag/3.2.0)
   * [PyKOMORAN - wrapped KOMORAN in Python using Py4J. https://pydocs.komoran.kr ](https://github.com/shineware/PyKOMORAN)
+* [Manticore Search – Open-source database for search applications – Manticore Search](https://manticoresearch.com/homepage/)
+  * [es2ms: Elasticsearch -> Manticore Search data migration tool](https://github.com/manticoresoftware/es2ms)
 * [movie-finder 오픈소스 검색엔진인 Elasticsearch 를 활용하여 '영화'를 검색을 하는 Vue.js 프로젝트](https://github.com/heejunghwang/movie-finder)
 * NEST
   * [NEST and Elasticsearch.Net 6.0: Now GA!](https://www.elastic.co/blog/nest-elasticsearch-net-6-0-ga)
@@ -526,6 +528,7 @@ ElasticSearch - Lucene
   * [Open Distro for Elasticsearch Review](https://sematext.com/blog/open-distro-elasticsearch-review/)
   * [AWS, Open Distro for Elasticsearch 설치](https://grip.news/archives/1669)
   * [**ELK 셋팅부터 알람까지**](http://woowabros.github.io/experience/2020/01/16/set-elk-with-alarm.html)
+  * [Long live Open Distro for Elasticsearch - Logical Clocks](https://www.logicalclocks.com/blog/elasticsearch-is-dead-long-live-open-distro-for-elasticsearch)
 * [packetbeat - real-time network packet analytics](https://www.elastic.co/products/beats/packetbeat)
 * [Prelert](Prelert Behavioral Analytics for the Elastic Stack Beta)
   * [Welcome Prelert to the Elastic Team](https://www.elastic.co/blog/welcome-prelert-to-the-elastic-team)
