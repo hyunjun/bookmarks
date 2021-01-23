@@ -173,7 +173,6 @@ Go
 * [ssh bastion proxy용 golang network proxy](http://blog.woosum.net/archives/1578)
 * [Go Experience Report: Generics in Kubernetes](https://medium.com/@arschles/go-experience-report-generics-in-kubernetes-25da87430301)
 * [Live building a scalable API in Go with Kubernetes](https://www.youtube.com/watch?v=pkZrgHxJ130)
-* [Build RESTful API in Go and MongoDB](https://hackernoon.com/build-restful-api-in-go-and-mongodb-5e7f2ec4be94)
 * [MongoDB Golang 드라이버의 컨텍스트와 커넥션](https://www.popit.kr/mongodb-golang-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84%EC%9D%98-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80-%EC%BB%A4%EB%84%A5%EC%85%98)
 * [Go 서버 개발하기](https://www.buzzvil.com/ko/2018/02/12/tech-blog-go-%EC%84%9C%EB%B2%84-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/)
 * [Go tools & GitLab — how to do Continuous Integration like a boss](https://medium.com/pantomath/go-tools-gitlab-how-to-do-continuous-integration-like-a-boss-941a3a9ad0b6)
@@ -477,7 +476,6 @@ Go
 * [gophericons - 34 gopher images for Go developers community](https://github.com/hackraft/gophericons)
 * [GoPlus - The Go+ language for data science](https://github.com/qiniu/goplus)
 * [gops - a command to list and diagnose Go processes currently running on your system](https://github.com/google/gops)
-* [GolangMgoRestServer - golang + echo + mgo + rest server Example](https://github.com/tedpark/GolangMgoRestServer)
 * [goroom: An embedded data store version manager](https://github.com/adonmo/goroom)
   * [Go-Room - AdOnMo Tech - Medium](https://medium.com/adonmo-tech/go-room-5c1d4f46a77e)
   * [Go-Room: Internals - AdOnMo Tech - Medium](https://medium.com/adonmo-tech/go-room-internals-5b3475266fbb)
@@ -647,6 +645,11 @@ Go
 * [Revel - A high-productivity web framework for the Go language](https://revel.github.io)
 * [vugu.org - Build a web front-end in Go that runs in your browser, today](https://www.vugu.org)
 * [web-annie: Web interface for annie](https://github.com/Dictor/web-annie) golang + vue.js download manager
+
+# Web Restful
+* [Build RESTful API in Go and MongoDB](https://hackernoon.com/build-restful-api-in-go-and-mongodb-5e7f2ec4be94)
+* [REST Servers in Go: Part 1 - standard library - Eli Bendersky's website](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
+* [GolangMgoRestServer - golang + echo + mgo + rest server Example](https://github.com/tedpark/GolangMgoRestServer)
 
 # Websocket
 * [10M Concurrent Websockets](http://goroutines.com/10m)
