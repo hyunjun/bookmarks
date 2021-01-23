@@ -194,6 +194,7 @@ Vim
 * [vimflowy: An open source productivity tool drawing inspiration from workflowy and vim](https://github.com/WuTheFWasThat/vimflowy)
 * [vim-galore - Everything you need to know about Vim](https://github.com/mhinz/vim-galore/)
 * [vim-quickui - The missing UI extensions for Vim 8.2 (and NeoVim 0.4) !!](https://github.com/skywind3000/vim-quickui)
+* [vim.so - Learn and Master Vim faster with interactive exercises](https://www.vim.so/)
 * [vimwiki - A Personal Wiki For Vim](https://github.com/vimwiki/vimwiki)
   * [Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자](https://johngrib.github.io/blog/2017/12/06/my-wiki/)
 
@@ -207,6 +208,7 @@ Vim
 * [anderson.vim - Dark vim colorscheme based on colors from Wes Anderson films](https://github.com/gilgigilgil/anderson.vim)
 * autosave
   * [Vim에서 저장하는 방법 - 자동 저장](https://nolboo.kim/blog/2017/09/14/vim-write-autosave/)
+* [context.vim: Vim plugin that shows the context of the currently visible buffer contents](https://github.com/wellle/context.vim)
 * [diminactive.vim This is a plugin for Vim to dim inactive windows](https://github.com/blueyed/vim-diminactive)
 * [EditorConfig plugin for Vim http://editorconfig.org](https://github.com/editorconfig/editorconfig-vim)
   * [EditorConfig](http://editorconfig.org/) 서로 다른 IDE에서 코딩 스타일을 통일
