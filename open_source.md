@@ -72,6 +72,7 @@ Open Source
 * [공개SW 페스티벌에서 발표한 "오픈소스 뒤에 메인테이너 있어요" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1517)
 * [EOST2020](https://eostday.kr/)
   * [언택트 시대, 오픈소스 기여를 위해 고려해야 할 것들 - YouTube](https://www.youtube.com/watch?v=hrjbqK03O9k)
+* [“하나의 오픈소스, 많은 기여자” 프로메테우스가 작동하는 아름다운 방식 - ITWorld Korea](https://www.itworld.co.kr/news/178289)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
