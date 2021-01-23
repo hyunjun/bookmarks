@@ -931,6 +931,7 @@ Scala
 * Programming in Scala [Code Examples for Programming in Scala, Third Edition](https://booksites.artima.com/programming_in_scala_3ed/examples/index.html)
 * [Programming Scala, Third Edition. New language version, new edition | by Dean Wampler | Oct, 2020 | Medium](https://medium.com/@deanwampler/programming-scala-third-edition-7ee98fc403bd)
 * [Scala Book: Free PDF, Mobi, and ePub versions](https://alvinalexander.com/scala/scala-book-free/)
+* [Scala from Scratch: Understanding by Daniel Westheide](https://leanpub.com/scala-from-scratch-understanding)
 * [Seriously Good Software](https://www.manning.com/books/seriously-good-software)
   * [**Seriously Good Software**](https://docs.google.com/presentation/d/e/2PACX-1vR8mEHa7gi5qhrdCwzOGnACdWxYb4kZERtscQIRZkYnH4rBNo7-ZZ4wXLD1DbUwJkwW83OhezYFjRmH/pub) 전반적인 설계 흐름을 볼 수 있는 슬라이드
   * [exercisesinstyle](https://bitbucket.org/mfaella/exercisesinstyle/)
@@ -1119,6 +1120,7 @@ Scala
   * [Scala application lifecycle, from pure Scala to FS2](https://blog.softwaremill.com/scala-application-lifecycle-from-pure-scala-to-fs2-5f2861005603)
   * [Basic streams and combinators in fs2 - Scala tutorial](https://www.youtube.com/watch?v=TmhIabcu6Fs)
   * [Finite-State Machines + FS2 streams: A match made in heaven • gvolpe's blog](https://gvolpe.com/blog/fsm-fs2-a-match-made-in-heaven/)
+  * [FS2 Kafka · Functional Kafka Streams for Scala](https://fd4s.github.io/fs2-kafka/)
 * [Fugue: Unifying Spark and Non-Spark Ecosystems for Big Data Analytics - YouTube](https://www.youtube.com/watch?v=BBd4b2pMk0c)
 * [Funnel - a distributed monitoring system based on a lightweight streaming protocol](https://verizon.github.io/funnel/)
 * [Hamsters - A mini Scala utility library. Compatible with functional programming beginners. For the JVM and Scala.js](https://github.com/scala-hamsters/hamsters)
