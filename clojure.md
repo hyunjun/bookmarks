@@ -852,3 +852,4 @@ Clojure
 * [Learning Clojure Part 4: Functions - DEV Community](https://dev.to/pavel_polivka/learning-clojure-part-4-functions-1077)
 * [Learning Clojure Part 5: Robot Factory - DEV Community](https://dev.to/pavel_polivka/learning-clojure-part-5-robot-factory-l94)
 * [SciCloj: Libraries](https://scicloj.github.io/pages/libraries/)
+* [Why Developers Should Look into Clojure](https://auth0.com/blog/why-developers-should-look-into-clojure)
