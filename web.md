@@ -199,6 +199,7 @@ Web
 * [The Ultimate List of YouTube Channels to Boost your Web Development and Programming Skills · Dev & Gear](https://devandgear.com/posts/the-ultimate-list-of-youtube-channels-to-boost-your-web-development-and-programming-skills/)
 * [The Ultimate Guide to Web Performance - DEV](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
 * [developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer](https://github.com/apptension/developer-handbook)
+* [Timing web requests with cURL and Chrome](https://blog.cloudflare.com/a-question-of-timing/) TTFB time to first byte curl
 
 # Apache
 * installation
@@ -817,6 +818,7 @@ Web
 * [A Real-World Comparison of Front-End Frameworks with Benchmarks](https://medium.freecodecamp.org/a-real-world-comparison-of-front-end-frameworks-with-benchmarks-e1cb62fd526c)
 * [Continuous Front End Website Performance Testing](https://hackernoon.com/continuous-front-end-website-performance-testing-f50008beb0)
 * [Webserver Benchmark: Erlang vs Go vs Java vs NodeJS](https://stressgrid.com/blog/webserver_benchmark/)
+* [Front-End Performance Checklist 2021 — Smashing Magazine](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
 * [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
   * [Simple Performance Testing with Apache Benchmark](http://www.chriswpage.com/2010/01/simple-performance-testing-with-apache-benchmark/)
   * [Example of using Apache Bench (ab) to POST JSON to an API](https://gist.github.com/kelvinn/6a1c51b8976acf25bd78)
@@ -865,6 +867,8 @@ Web
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
+* [Wasmer - The Universal WebAssembly Runtime](https://wasmer.io/)
+  * [서버측 웹어셈블리 런타임 ‘와스머’, GA 버전 공개 - CIO Korea](https://www.ciokorea.com/news/178284)
 * [webassembly.sh](https://webassembly.sh/)
 
 # Websocket
