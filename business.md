@@ -68,13 +68,6 @@ Business
 * [어떻게 나는 내 친구들과 사이드 프로젝트를 $17,000/월 비지니스로 성장시켰는가 (How my friends and I grew our side project into a $17,000/month business)](https://www.vobour.com/book/view/eSbfGjLiAoEyY6yBq)
 * [구조로 풀어내는 혁신, 홀라크라시(Holacracy) : 자포스의 대담한 실험](http://ibr.kr/3002)
 * [Facebook's Little Red Book](http://officeofbenbarry.com/project/facebooks-little-red-book)
-* [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
-* [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (2)](http://newspeppermint.com/2015/06/11/32466/)
-* [9. 역할 조직 인재 선발의 원칙](https://brunch.co.kr/@svillustrated/85)
-* [인재를 어떻게 뽑아야 하는가?](https://brunch.co.kr/@younghakjang/590)
-* [개발자 비급(祕笈) – 5. 스타트업의 개발자 채용 비법 :: Channy's Blog](http://channy.creation.net/blog/1443)
-* [채용에 관한 스타트업 대표의 네 가지 착각](https://brunch.co.kr/@curahee/210)
-* [CEO의 잘못된 채용에 대해](https://www.linkedin.com/posts/elfpenguin_ceotrgsqb-trgsqb-trgsqbsnyrcy-activity-6756877759907287040-wY_d/)
 * [조직문화는 성과에 어떻게 얼마나 영향을 미치는가?](http://ppss.kr/archives/48442)
 * [몰입을 위한 조직문화](https://brunch.co.kr/@younghakjang/19) 딥워크
 * [몰입에 관한 생각 정리](https://brunch.co.kr/@younghakjang/79)
@@ -288,6 +281,16 @@ Business
 * [Do You Think Like a Lawyer, a Scientist, or an Engineer?](https://www.infoq.com/articles/think-lawyer-scientist-engineer/) OODA Observe, Orient, Decide, Act
 * [카페베네는 스타벅스를 이긴 적이 없었다 : 쇼핑·소비자 : 경제 : 뉴스 : 한겨레](http://www.hani.co.kr/arti/economy/consumer/976129.html)
 * [버스와 사람 - Highly Required](https://highlyrequi.red/posts/bus_factor/) 몇 명이 동시에 빠져야 인원의 부재가 문제가 되는가?
+
+# 채용
+* [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
+* [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (2)](http://newspeppermint.com/2015/06/11/32466/)
+* [9. 역할 조직 인재 선발의 원칙](https://brunch.co.kr/@svillustrated/85)
+* [인재를 어떻게 뽑아야 하는가?](https://brunch.co.kr/@younghakjang/590)
+* [개발자 비급(祕笈) – 5. 스타트업의 개발자 채용 비법 :: Channy's Blog](http://channy.creation.net/blog/1443)
+* [채용에 관한 스타트업 대표의 네 가지 착각](https://brunch.co.kr/@curahee/210)
+* [CEO의 잘못된 채용에 대해](https://www.linkedin.com/posts/elfpenguin_ceotrgsqb-trgsqb-trgsqbsnyrcy-activity-6756877759907287040-wY_d/)
+* [같이 일하는 사람을 뽑으려고 할 때](https://brunch.co.kr/@jinhoyooephf/23)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
