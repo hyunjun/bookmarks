@@ -139,6 +139,7 @@ Java
 * Arrays
   * [java의 arrays.sort 메서드는 어떤 정렬을 사용할까요?](https://codingdog.tistory.com/entry/java%EC%9D%98-arrayssort-%EB%A9%94%EC%84%9C%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%A0%95%EB%A0%AC%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%A0%EA%B9%8C%EC%9A%94)
   * [3. JAVA - Arrays.asList()와 List.of()의 차이](https://kim-jong-hyun.tistory.com/31)
+  * [java 두 배열 비교할 때 어떻게 하면 좋을까요?](https://codingdog.tistory.com/entry/java-%EB%91%90-%EB%B0%B0%EC%97%B4-%EB%B9%84%EA%B5%90%ED%95%A0-%EB%95%8C-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C%EC%9A%94)
 * [autovalue](https://github.com/google/auto/blob/master/value/userguide/index.md)
 * class
   * [4대 중첩 클래스(내부 클래스)](http://dkatlf900.tistory.com/49)
