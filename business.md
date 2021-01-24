@@ -103,8 +103,6 @@ Business
 * [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
 * [11. 대기업 Aaron과 실리콘밸리 Bryan](https://brunch.co.kr/@svillustrated/12)
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
-* [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
-* [모두가 알고 있는데 아무도 하지 않는 일](https://brunch.co.kr/@hyungsukkim/127) 우선순위
 * [공과 사 그 애매한 경계](https://brunch.co.kr/@younghakjang/22)
 * [오래 가려면 후배와 함께 가라](http://ppss.kr/archives/49070)
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -291,6 +289,11 @@ Business
 * [채용에 관한 스타트업 대표의 네 가지 착각](https://brunch.co.kr/@curahee/210)
 * [CEO의 잘못된 채용에 대해](https://www.linkedin.com/posts/elfpenguin_ceotrgsqb-trgsqb-trgsqbsnyrcy-activity-6756877759907287040-wY_d/)
 * [같이 일하는 사람을 뽑으려고 할 때](https://brunch.co.kr/@jinhoyooephf/23)
+
+# 우선순위
+* [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
+* [모두가 알고 있는데 아무도 하지 않는 일](https://brunch.co.kr/@hyungsukkim/127) 우선순위
+* [BRICE로 우선순위 정하기](https://brunch.co.kr/@yongjinjinipln/77)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
