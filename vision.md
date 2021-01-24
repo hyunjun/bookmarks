@@ -234,6 +234,7 @@ Vision
     * [YOLOv5 compared to Faster RCNN. Who wins? | by Priya Dwivedi | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/yolov5-compared-to-faster-rcnn-who-wins-a771cd6c9fb4)
     * [YOLO V5 Model comparison - YouTube](https://www.youtube.com/watch?v=qwh9CGI1vNo)
     * [Yolo V5 Object Detection using Pytorch | On Local & Colab](https://morioh.com/p/4158eb7e4257)
+    * ["Yolov5 Object Detection Using Google Colab & Python" | KNOWLEDGE DOCTOR | Mishu Dhar - YouTube](https://www.youtube.com/watch?v=D27EQe6XTk8)
   * [GaussianYoloV3_Detector](https://github.com/JONGGON/Gluon-Detector/tree/master/GaussianYoloV3_Detector)
   * [OpenDataCam - An open source tool to quantify the world](https://www.move-lab.com/project/opendatacam/) YOLO기반 카메라 활용
   * [TincyYOLO: a real-time, low-latency, low-power object detection system running on a Zynq UltraScale+ MPSoC](https://forums.xilinx.com/t5/Xcell-Daily-Blog/Tincy-YOLO-a-real-time-low-latency-low-power-object-detection/ba-p/815840)
