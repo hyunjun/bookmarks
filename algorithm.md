@@ -217,6 +217,7 @@ Algorithm
 * [BaaaaaaaarkingDog | '강좌/실전 알고리즘' 카테고리의 글 목록](https://blog.encrypted.gg/category/%EA%B0%95%EC%A2%8C/%EC%8B%A4%EC%A0%84%20%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * [자료구조 카테고리 목록](https://lypicfa.tistory.com/557)
 * [Algorithms for Decision Making](https://algorithmsbook.com/)
+* [Count min sketch](https://www.slideshare.net/charsyam2/count-min-sketch-241660239)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -686,6 +687,7 @@ Algorithm
 * [Heap 자료구조와 Priority Queue](http://codingmonster.net/archives/13089)
 * [힙 정렬(Heap Sort)](https://ratsgo.github.io/data%20structure&algorithm/2017/09/27/heapsort/)
 * [How to Merge K Sorted Arrays](https://medium.com/outco/how-to-merge-k-sorted-arrays-c35d87aa298e)
+* [LeetCode 23 | Merge K Sorted Lists | Hard - YouTube](https://www.youtube.com/watch?v=IADxcB-2zbs)
 * [최소 값과 최대 값을 빠르게 찾을 수 있게 도와주는 힙(Heap)](https://evan-moon.github.io/2019/10/12/introduction-data-structure-heap/)
 * [6 Steps to Understanding a Heap with Python | by Yasufumi TANIGUCHI | Towards Data Science](https://towardsdatascience.com/data-structure-heap-23d4c78a6962)
 
