@@ -2671,6 +2671,7 @@ Javascript
 * [쪼그라드는 웹페이지](https://tech.devsisters.com/posts/shrinking-webpage/)
 * [Junior Vs Senior Code - How To Write Better Code As A Web Developer - React - YouTube](https://www.youtube.com/watch?v=0yzoAbrjV6k)
 * [React Flow](https://reactflow.dev/)
+* [소셜 네트워크(naver, google, kakao) 로그인(OAuth 2.0) 연동 후 프로필 조회](https://blog.naver.com/pjt3591oo/222217171627)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
