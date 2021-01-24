@@ -34,6 +34,7 @@ Docker
   * [도커 시작하기 10 : 도커 스웜 - 컴포즈 파일과 스택](https://javacan.tistory.com/entry/docker-start-10-swarm-compose-stack)
   * [도커 시작하기 11 : 도커 스웜 - 네트워크](https://javacan.tistory.com/entry/docker-start-11-swarm-network)
 * [Docker가 뭐고 왜 쓰는건가요?](https://www.youtube.com/watch?v=tPjpcsgxgWc)
+* [4분코딩 왜 도커(Docker)를 사용해야 할까요? - YouTube](https://www.youtube.com/watch?v=3FcFL2C3ME8)
 * [무료 DevOps 강의 Docker - YouTube](https://www.youtube.com/playlist?list=PLmEhRs1HB7RFFeGYI3JksmZd1MPHR2HwG)
 * [A comprehensive introduction to Docker, Virtual Machines, and Containers](https://medium.freecodecamp.org/comprehensive-introductory-guide-to-docker-vms-and-containers-4e42a13ee103)
 * [1. Introduction to Docker](https://minkukjo.tistory.com/7)
@@ -630,6 +631,7 @@ Docker
 * [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
 * [Advanced Dockerfiles: Faster Builds and Smaller Images Using BuildKit and Multistage Builds - Docker Blog](https://www.docker.com/blog/advanced-dockerfiles-faster-builds-and-smaller-images-using-buildkit-and-multistage-builds/)
 * [Dockerfile의 모든 것 | Gracefullight](https://gracefullight.dev/2020/01/13/Dockerfile%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/)
+* [도커 이미지 빌드와 Dockerfile 기초 | 44BITS](https://www.44bits.io/ko/post/building-docker-image-basic-commit-diff-and-dockerfile)
 
 # [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
 * [Introduction to gVisor: Sandboxed Linux Container Runtime](https://www.youtube.com/watch?v=Ur0hbW_K66s)
@@ -893,6 +895,7 @@ Docker
 * [**Kubernetes를 이용한 효율적인 데이터 엔지니어링(Airflow on Kubernetes VS Airflow Kubernetes Executor) - 2 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/data-engineering-with-airflow-k8s-2/)
 * [쿠버네티스 클러스터 운영자를 위한 모니터링](https://www.samsungsds.com/kr/insights/kubernetes_monitoring.html)
 * [A CLI Tool for Multi-Cluster Kubernetes: Cloud Manager Rocks | by Jorge Simão | Jan, 2021 | Medium](https://einnovator.medium.com/a-cli-tool-for-multi-cluster-kubernetes-cloud-manager-rocks-af17124af2a6)
+* [**초보를 위한 쿠버네티스 안내서 - YouTube**](https://www.youtube.com/playlist?list=PLIUCBpK1dpsNf1m-2kiosmfn2nXfljQgb)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
