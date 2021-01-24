@@ -331,6 +331,7 @@ R
 * [Become a Superlearner! An Illustrated Guide to Superlearning | KHstats](https://www.khstats.com/blog/sl/superlearning/)
 * [shinyMobile 설명](https://tidyverse-korea.github.io/seoul-R/data/2.%20shinyMobile%20%EC%86%8C%EA%B0%9C%20(%EC%A7%80%EB%82%A8%ED%98%84).pdf)
 * [R) 전처리 - 객체 및 변수 명명하기 - Data Doctor](https://datadoctorblog.com/2021/01/22/R-Preprocessing-naming-object-variables/)
+* [Opifex](https://opifex.org/#/)
 
 # API
 * [REX: Look around – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2229)
@@ -395,6 +396,7 @@ R
   * [Links to slides from rstudio::conf 2019](https://github.com/kbroman/RStudioConf2019Slides)
   * [Top 10 Presentations from rstudio::conf 2019 – The Best R Conference of the Year!](https://www.analyticsvidhya.com/blog/2019/01/top-highlights-rstudioconf-2019-best-r-conference/)
   * [A new image on DigitalOcean to start using RStudio Server without waiting more than 2 minutes](https://www.r-bloggers.com/a-new-image-on-digitalocean-to-start-using-rstudio-server-without-waiting-more-than-2-minutes-2/)
+* [rstudio::global(2021)](https://global.rstudio.com/student/catalog)
 * [R User Conference in Korea 2018](http://ruck2018.r-kor.org/speakers)
 * [R USER CONFERENCE IN KOREA 2019 프로그램](http://ruck2019.r-kor.org/program/)
 
