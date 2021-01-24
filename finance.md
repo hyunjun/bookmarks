@@ -38,6 +38,7 @@ Finance
 * [적립식 ETF 투자의 장점과 단점은?!](https://tariat.tistory.com/971)
 * [금융저널에 실린 기계학습논문을 구현한 MLFinLab | | 그대안의 작은 호수](https://smallake.kr/?p=28572)
 * ['국내외 주식 분석 리포트/해외 주식' 카테고리의 글 목록](https://ryanydollardollarbill.tistory.com/category/%EA%B5%AD%EB%82%B4%EC%99%B8%20%EC%A3%BC%EC%8B%9D%20%EB%B6%84%EC%84%9D%20%EB%A6%AC%ED%8F%AC%ED%8A%B8/%ED%95%B4%EC%99%B8%20%EC%A3%BC%EC%8B%9D)
+* ['블랙록'은 '금융 플랫폼' 회사다!](https://brunch.co.kr/@gauss92tgrd/16)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
@@ -202,6 +203,7 @@ Finance
   * [1/3 일별 주식 시세도 이거 하나면 코드 한줄로 전기간 수집이 가능하다?! - YouTube](https://www.youtube.com/watch?v=PNk1h2ELuHI)
   * [2/3 종목명으로 종목코드를 찾아 일별 시세를 수집하자 - YouTube](https://www.youtube.com/watch?v=i9I9-bfA9kE)
   * [3/3 일별 시세 시각화 2축 그래프, 과학적 표기법?! - YouTube](https://www.youtube.com/watch?v=1NTEizOW8so)
+  * [시가총액 데이터셋(marcap) | marcap](https://financedata.github.io/marcap/)
 * [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
 * [벤포드의 법칙 (Benford Law)](https://nbviewer.jupyter.org/gist/FinanceData/2ab5fc04c975e1f90629ec1b1686e19d)
 * [IBEX 35 portfolio recommendation](https://github.com/sgarciapuga/capstone_projects/blob/master/Analyze_Financial_Data/Ibex35_Capstone_Project.ipynb)
