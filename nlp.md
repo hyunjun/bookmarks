@@ -1227,6 +1227,7 @@ NLP
 * [핑퐁팀 ML 세미나, 그 네번째](https://blog.pingpong.us/ml-seminar-season-4/)
 * [핑퐁팀 ML 세미나, 그 다섯 번째 – 핑퐁팀 블로그](https://blog.pingpong.us/ml-seminar-season-5/)
 * [핑퐁팀 ML 세미나, 그 여섯 번째 – 핑퐁팀 블로그](https://blog.pingpong.us/ml-seminar-season-6/)
+* [**집현전 NLP 리뷰 모임**](https://github.com/jiphyeonjeon/nlp-review)
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)
