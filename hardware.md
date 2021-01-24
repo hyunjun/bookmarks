@@ -125,6 +125,9 @@
 * [CONTROLLINO 개발환경 셋팅하기](https://blog.naver.com/badgay74/221731896509)
 * [아두이노 보드 개발 후기](https://ryulib.tistory.com/467)
 * [아두이노 전문가되기](https://brunch.co.kr/magazine/iots)
+* [Watchy - E-Paper Watch](https://www.tindie.com/products/sqfmi/watchy/#product-description)
+  * ESP32 SoC, E-Paper 저전력 디스플레이, 아두이노 IDE로 직접 프로그래밍 가능한 오픈소스 워치키트
+  * [Hack together your own e-paper smartwatch with this $50 open-source kit - The Verge](https://www.theverge.com/2021/1/13/22229985/customizable-epaper-smartwatch-kit-arduino)
 
 # [Artik](https://www.artik.io/)
 
@@ -187,6 +190,10 @@
 
 # Jetson
 * [installJupyterNotebook: 젯슨나노에서 주피터노트북과 주피터랩을 설치하는 법](https://github.com/jugfk/installJupyterNotebook)
+* [jetbot: An educational AI robot based on NVIDIA Jetson Nano](https://github.com/NVIDIA-AI-IOT/jetbot)
+  * [Jetson User Group For Korean | Facebook](https://www.facebook.com/groups/JUGFK/permalink/682904155863206/)
+  * [jetbot/docker at master · NVIDIA-AI-IOT/jetbot](https://github.com/NVIDIA-AI-IOT/jetbot/tree/master/docker)
+  * [Docker Tips - JetBot](https://jetbot.org/master/reference/docker_tips.html)
 
 # [Microbit](https://www.microbit.co.uk/)
 * [The Story of MicroPython on the BBC micro:bit](http://ntoll.org/article/story-micropython-on-microbit)
