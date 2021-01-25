@@ -610,6 +610,8 @@ Apache
 * [Flafka: Apache Flume Meets Apache Kafka for Event Processing](http://blog.cloudera.com/blog/2014/11/flafka-apache-flume-meets-apache-kafka-for-event-processing/)
 * hive
   * [Kafka Storage Handler Module](https://github.com/apache/hive/tree/master/kafka-handler)
+* [kafka-connect-datagen: Connector that generates data for demos](https://github.com/confluentinc/kafka-connect-datagen)
+  * [kafka-connect-datagen 커넥터로 테스트 데이터 생성하기](https://always-kimkim.tistory.com/entry/kafka-develop-kafka-connect-datagen)
 * [Kafka Manager - A tool for managing Apache Kafka](https://github.com/yahoo/kafka-manager)
   * [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
   * [Kafka Manager Consumer Lag Exporter](https://github.com/thinker0/kafka-manager-consumer-lag-exporter)
