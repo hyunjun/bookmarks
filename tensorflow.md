@@ -1269,3 +1269,4 @@ TensorFlow
 * [Build your first neural network with Tenorflow](https://morioh.com/p/d8b0edc8809a)
 * [파이썬 머신러닝 스터디 모두의 딥러닝 computational graph | sTricky](https://stricky.tistory.com/434)
 * [파이썬 머신러닝 linear regression과 supervised learning (모두의 딥러닝) | sTricky](https://stricky.tistory.com/436)
+* [Multivariable linear regression 딥러닝 예제 개념 및 실습 | sTricky](https://stricky.tistory.com/440)
