@@ -1812,6 +1812,7 @@ Python
 * [Django Bootstrap 적용하기](https://tunghs.github.io/2019/09/07/2019-09-07-Apply-Django-Bootstrap/)
 * [django 쿼리셋 수정을 통한 웹서비스 성능 개선 - select_related, prefetch_related](https://wayhome25.github.io/django/2017/06/20/selected_related_prefetch_related/)
 * [(번역) Best practices working with Django models in Python](https://wayhome25.github.io/django/2018/09/29/Best-practices-working-with-Django-models-in-Python/)
+* [같은 Django model class에서 다른 schema가?(feat. Django는 이중인격?)](https://blog.doosikbae.com/135)
 * [pycon kr 2018.12 django model 삽질기 - 김정환](https://www.youtube.com/watch?v=PlPrxrlBBG8)
   * [Django Model 삽질기](https://docs.google.com/presentation/d/1-ailtDUUpyLx4YT3S23Wednp0W1cwPEMSEecedGugB8)
 * [snaker - django url shortener](https://www.slideshare.net/HosukShin1/snaker-django-url-shortener)
