@@ -1167,6 +1167,7 @@ Programming
 * [6 Simple Tips on How to Start Writing Clean Code](https://hackernoon.com/6-simple-tips-on-how-to-start-writing-clean-code-d66c241aa268)
 * [How to write Clean Code?](https://fullstackrubyonrails.com/blog/how-to-write-clean-code)
 * [카카오헤어샵의 CleanCode](https://brunch.co.kr/@cg4jins/2)
+* [Clean Code Tutorial 1: How to Name Variables, Functions and Classes - Beginner Friendly - YouTube](https://www.youtube.com/watch?v=NgPcXyNFRIc)
 * [코드 리뷰에 대해서](https://brunch.co.kr/@cleancode/35)
 * [오픈소스 개발자 이야기 20170701 오픈소스와 코드리뷰(서주영)](https://www.youtube.com/watch?v=pkjnpTH0IwU)
 * [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
