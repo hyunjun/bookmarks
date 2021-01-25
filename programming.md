@@ -2241,7 +2241,8 @@ Programming
     * [(01/09) 내가 소프트웨어 업계에서 45년 동안 배운 교훈 - YouTube](https://www.youtube.com/watch?v=p-rcVpX4zr4) WebAssembly, Cloud, 소프트웨어 업계에서 45년 동안 배운 교훈, (SQL) Correlated Subquery
   * [(1월 16일) 마이크로서비스 도입, 이렇게 한다](https://jhrogue.blogspot.com/2021/01/1-16.html)
     * [(01/16) 마이크로서비스 도입, 이렇게 한다 - YouTube](https://www.youtube.com/watch?v=uGEX-R8qdsk)
-  * [(01/23) 프론트엔드 성능 점검 항목 – 2021 버전 - YouTube](https://www.youtube.com/watch?v=n7PajvLH3rY)
+  * [(1월 23일) 프론트엔드 성능 점검 항목 – 2021 버전](https://jhrogue.blogspot.com/2021/01/1-23-2021.html)
+    * [(01/23) 프론트엔드 성능 점검 항목 – 2021 버전 - YouTube](https://www.youtube.com/watch?v=n7PajvLH3rY)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
 * [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
