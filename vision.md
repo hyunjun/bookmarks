@@ -425,6 +425,7 @@ Vision
   * [Build a Webcam Communication App using WebRTC](https://blog.bitsrc.io/build-a-webcam-communication-app-using-webrtc-9737384e84be)
   * [Introduction | WebRTC for the Curious](https://webrtcforthecurious.com/)
   * [WebRTC Library 다루기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/13/webrtc-library.html)
+  * [WebRTC는 어떻게 실시간으로 데이터를 교환할 수 있을까? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/01/24/Introducing-WebRTC.html)
   * [webrtcH4cKS: ~ Open Source Cloud Gaming with WebRTC](https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/)
 
 # OpenCL
