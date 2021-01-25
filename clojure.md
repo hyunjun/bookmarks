@@ -647,7 +647,6 @@ Clojure
 * [Dativity - a stateless, data driven process engine library for Clojure and ClojureScript](https://github.com/agentbellnorm/dativity)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
   * [Datomic: 함수형 데이터베이스](https://github.com/philoskim/datomic-intro)
-* [depstar: Builds JARs, uberjars, does AOT, manifest generation, etc for deps.edn projects](https://github.com/seancorfield/depstar)
 * [dog-board - A website written in noir](https://github.com/re-noir/dog-board)
 * [Drake is a simple-to-use, extensible, text-based data workflow tool that organizes command execution around data and its dependencies](https://github.com/Factual/drake)
 * [Duckling - a Clojure library that parses text into structured data](https://github.com/wit-ai/duckling)
@@ -707,6 +706,9 @@ Clojure
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
   * lein-count [Counting Clojure Code](http://aaroniba.net/counting-clojure-code) line 수가 아니라 tree node를 이용해 code 양을 계산
   * [lein-nsort: Leiningen plugin that checks that order of namespace declarations for Clojure and ClojureScript](https://github.com/ertugrulcetin/lein-nsort)
+* [lein-tools-deps: A leiningen plugin that lets you share tools.deps.alpha dependencies in your leiningen project](https://github.com/RickMoynihan/lein-tools-deps)
+  * [Clojure project automation tool of my dreams - quanttype](https://quanttype.net/posts/2021-01-14-clojure-project-management-tool-of-my-dreams.html)
+  * [depstar: Builds JARs, uberjars, does AOT, manifest generation, etc for deps.edn projects](https://github.com/seancorfield/depstar)
 * [libjulia-clj: Binding to julia via jna -- Currently extremely unstable --](https://github.com/cnuernber/libjulia-clj)
 * [libpython-clj - libpython bindings into the techascent ecosystem](https://github.com/cnuernber/libpython-clj)
   * [Hugging Face GPT With Clojure](https://gigasquidsoftware.com/blog/2020/01/10/hugging-face-gpt-with-clojure/)
