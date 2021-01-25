@@ -908,6 +908,7 @@ Java
   * [젠킨스 변경된 Slack Integration Token 등록하기](https://jojoldu.tistory.com/475)
   * [Jenkins 버전 업데이트하기](https://jojoldu.tistory.com/514)
   * [IT 기업들에서 왜 Jenkins를 사용할까?](https://tjdrnr05571.tistory.com/12)
+  * [안드로이드 Jenkins(CI서버)에서 빌드시간을 90% 줄이는 4가지 방법 | by Ted Park | PRND | Jan, 2021 | Medium](https://medium.com/prnd/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-jenkins-ci%EC%84%9C%EB%B2%84-%EC%97%90%EC%84%9C-%EB%B9%8C%EB%93%9C%EC%8B%9C%EA%B0%84%EC%9D%84-90-%EC%A4%84%EC%9D%B4%EB%8A%94-4%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-176ee9378f1f)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
   * [practice - install java11 using jenv](https://gist.github.com/hyunjun/88ad5a8172acf4801c903980ecba074e)
   * [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
