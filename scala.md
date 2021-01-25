@@ -931,6 +931,7 @@ Scala
 * Programming in Scala [Code Examples for Programming in Scala, Third Edition](https://booksites.artima.com/programming_in_scala_3ed/examples/index.html)
 * [Programming Scala, Third Edition. New language version, new edition | by Dean Wampler | Oct, 2020 | Medium](https://medium.com/@deanwampler/programming-scala-third-edition-7ee98fc403bd)
 * [Scala Book: Free PDF, Mobi, and ePub versions](https://alvinalexander.com/scala/scala-book-free/)
+* [Scala from Scratch: Exploration by Daniel Westheide](https://leanpub.com/scala-from-scratch-exploration)
 * [Scala from Scratch: Understanding by Daniel Westheide](https://leanpub.com/scala-from-scratch-understanding)
 * [Seriously Good Software](https://www.manning.com/books/seriously-good-software)
   * [**Seriously Good Software**](https://docs.google.com/presentation/d/e/2PACX-1vR8mEHa7gi5qhrdCwzOGnACdWxYb4kZERtscQIRZkYnH4rBNo7-ZZ4wXLD1DbUwJkwW83OhezYFjRmH/pub) 전반적인 설계 흐름을 볼 수 있는 슬라이드
