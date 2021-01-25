@@ -1224,6 +1224,7 @@ Java
 * [Spring Batch Paging Reader 사용시 같은 조건의 데이터를 읽고 수정할때 문제](https://jojoldu.tistory.com/337)
 * [파일럿 프로젝트를 통한 배치경험기!](http://woowabros.github.io/experience/2019/03/31/pilot-batch.html)
 * [Spring batch & JPA에서 N+1 문제 해결](https://jojoldu.tistory.com/414)
+* [Spring Batch JpaCursorItemReader 도입되다.](https://jojoldu.tistory.com/551)
 * [Spring Batch의 멱등성 유지하기](https://jojoldu.tistory.com/451) 실행할 때마다 바뀔 수 있는 코드는 parameter로 넘겨주면 된다는 이야기
 * [Spring Batch 관리 도구로서의 Jenkins](https://jojoldu.tistory.com/489)
 * [Spring Batch의 유니크 Job Parameter 활용하기](https://jojoldu.tistory.com/487)
