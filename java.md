@@ -1333,6 +1333,7 @@ Java
 * [스프링 부트 개발할 때 자동 재시작 설정 방법 - YouTube](https://www.youtube.com/watch?v=twIzKIp04Gk)
 * [스프링 부트 자동 재시작 설정하기 #개발모드 - YouTube](https://www.youtube.com/watch?v=3_8cZF93X3w)
 * [스프링 부트 캐쉬 이용하기 #Cache - YouTube](https://www.youtube.com/watch?v=RHI72s-qPdo)
+* [스프링 부트 웹소켓 #WebSocket - YouTube](https://www.youtube.com/watch?v=8iwNDEXldAk)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
