@@ -725,6 +725,7 @@ R
 * [R Markdown 기초](https://blog.anpanman.co.kr/posts/2019-01-03-rmarkdown/)
 * [Tips and tricks in RStudio and R Markdown](https://www.r-bloggers.com/tips-and-tricks-in-rstudio-and-r-markdown/)
 * [Rstudio1.4.10 preview 파이썬 작업환경 리뷰 (+마크다운 편집기 리뷰 통합) - YouTube](https://www.youtube.com/watch?v=RjrStX9-Oh0)
+* [R) RStudio 1.4의 Python 사용 - Data Doctor](https://datadoctorblog.com/2021/01/25/R-update-rstudio-1-4-using-python/)
 * [GREA: The RStudio Add-In to read ALL the data into R!](http://www.r-bloggers.com/grea-the-rstudio-add-in-to-read-all-the-data-into-r/)
 * [MLflow v0.7.0 Features New R API by RStudio - Including Annotating Runs and New Samples](https://databricks.com/blog/2018/10/03/mlflow-v0-7-0-features-new-r-api-by-rstudio.html)
 * [RegExplain - an RStudio addin slash utility belt for regular expressions](https://github.com/gadenbuie/regexplain/#readme)
