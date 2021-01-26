@@ -144,6 +144,8 @@ Git
 * [Mind your programming language](https://medium.freecodecamp.org/mind-your-programming-language-38e340a430a1) .gitattributes
 * [The Essential Git Handbook](https://medium.freecodecamp.org/the-essential-git-handbook-a1cf77ed11b5)
 * [깃허브 패키지 레지스트리 베타 발표 언어 별 패키지 매니저 지원 및 깃헙 권한으로 접근 제어 등](https://www.44bits.io/ko/post/news--announcing-github-package-registry)
+* [깃허브 컨테이너 레지스트리(GitHub Container Registry) 베타 오픈 및 사용법 | 44BITS](https://www.44bits.io/ko/post/news--github-container-registry-beta-release)
+* [GitHub Container Registry 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1530)
 * [**Git 계정 여러 개 동시 사용하기**](https://blog.outsider.ne.kr/1448)
 * [README.md 10초만에 깔끔하게 만드는 법](https://gomcine.tistory.com/entry/READMEmd-10%EC%B4%88%EB%A7%8C%EC%97%90-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95?category=624615)
 * [Unlocking GitHub's Hidden Feature in 3 Minutes - YouTube](https://www.youtube.com/watch?v=0_RDoNJ1zGg)
@@ -171,7 +173,6 @@ Git
 * [GitHub 아이디/패스워드 입력 없이 사용하는 방법](https://kibua20.tistory.com/88)
 * [rest-api-description: An OpenAPI description for GitHub's REST API](https://github.com/github/rest-api-description)
 * [practice - github api to get PR review time's 90 percentile](https://github.com/hyunjun/practice_private/blob/ea459fdebaf28d580f332d863807c2bf69ed75e5/agoda/get_pr_90.py)
-* [깃허브 컨테이너 레지스트리(GitHub Container Registry) 베타 오픈 및 사용법 | 44BITS](https://www.44bits.io/ko/post/news--github-container-registry-beta-release)
 * [GitHub Codespaces 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1497)
 * [GitHub Codespaces의 개발 환경 설정하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1509)
 * [How a one line change decreased our clone times by 99% | by Pinterest Engineering | Pinterest Engineering Blog | Oct, 2020 | Medium](https://medium.com/pinterest-engineering/how-a-one-line-change-decreased-our-build-times-by-99-b98453265370)
