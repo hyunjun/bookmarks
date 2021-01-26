@@ -275,6 +275,7 @@ Programming Books
   * 한라 005.133 앨44ㅅ
 * (NOT YET) [C# 으로 배우는 적응형 코드](https://www.haruair.com/blog/4452)
 * (NOT YET) [이것이 C#이다](http://greentec.egloos.com/4440971)
+* (NOT YET) [UWP 퀵스타트](https://kaki104.tistory.com/703)
 
 # Clojure
 
