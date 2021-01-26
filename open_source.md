@@ -202,6 +202,7 @@ Open Source
 # License
 * [Elasticsearch 와 Kibana 의 SSPL & Elastic License 듀얼 라이선스 전환 정리](https://blog.naver.com/occidere/222209247067) SSPL
 * [진정한 오픈소스 Elasticsearch 를 위한 발돋움](https://blog.naver.com/occidere/222219979237)
+* [Elasticsearch를 둘러싼 AWS와 Elastic의 대립 – OpsNow Tech Blog](https://blog.opsnow.com/35)
 
 # Line
 * [LINE Game AirBorne DataCenter 소개](http://developers.linecorp.com/blog/ko/?p=230)
