@@ -3483,6 +3483,7 @@ Javascript
   * [워드프레스에서 Gridsome으로 블로그 이전후 깃헙 액션을 통해 넷틀리파이에서 호스팅하기](https://blog.aliencube.org/ko/2020/01/03/migrating-wordpress-to-gridsome-on-netlify-through-github-actions/)
 * [reactivue: 🙊 Use Vue Composition API in React components](https://github.com/antfu/reactivue)
 * [resume: 🍀 Resume template](https://github.com/leegeunhyeok/resume)
+* [Vue3Todo: Vuex + vue3로 만드는 할일 앱](https://github.com/wnghdcjfe/Vue3Todo)
 * [vue-http-client](https://github.com/parkjungwoong/vue-http-client)
 * [VuePress](https://vuepress.vuejs.org/)
 * [vue-state-store: 📦 Vue State Management (with Publish & Subscribe pattern)](https://github.com/ahaofficial/vue-state-store)
