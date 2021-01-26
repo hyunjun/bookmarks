@@ -1225,12 +1225,13 @@ Deep Learning
 * [darknet: Convolutional Neural Networks](https://github.com/pjreddie/darknet)
   * [Hardware Guide: Neural Networks on GPUs](http://pjreddie.com/darknet/hardware-guide/)
   * [DarkNet · DarkNet Book](https://jjeamin.github.io/darknet_book/)
+* [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
+* [DeepChem - a Python library democratizing deep learning for science](https://deepchem.io/index.html)
 * [Deep Learning Model Convertors](https://github.com/ysh329/deep-learning-model-convertor)
 * [deeplearning-models: A collection of various deep learning architectures, models, and tips](https://github.com/rasbt/deeplearning-models)
 * [deeplearn.js - a hardware-accelerated machine intelligence library for the web](https://pair-code.github.io/deeplearnjs/)
-* [deepart.io](http://www.deepart.io/) - Generate images styled like your favorite artist
-* [DeepChem - a Python library democratizing deep learning for science](https://deepchem.io/index.html)
 * [DeepOSM - Classify roads and features in satellite imagery, by training neural networks with OpenStreetMap (OSM) data](https://github.com/trailbehind/DeepOSM)
+* [DeepSpeed - a deep learning optimization library that makes distributed training easy, efficient, and effective](https://www.deepspeed.ai/)
 * [EagerPy - Writing Code That Works Natively with PyTorch, TensorFlow, JAX, and NumPy](https://eagerpy.jonasrauber.de/) 상호호환
 * [Eesen - The official repository of the Eesen project](https://github.com/srvk/eesen)
 * [einops - Deep learning operations rethinked (supports tf, pytorch, chainer, gluon and others)](https://github.com/arogozhnikov/einops)
