@@ -180,6 +180,10 @@ PyTorch
 * [파이토치 모델 결과 재구성하기 (Pytorch Reproduction Experiement) - TooTouch](https://tootouch.github.io/setting/reproduction_pytorch/)
 * [**하나의 조직에서 TensorFlow와 PyTorch 동시 활용하기 – 핑퐁팀 블로그**](https://blog.pingpong.us/torch-to-tf-tf-to-torch/)
 * [Machine Learning with C++ - Mask R-CNN with PyTorch C++ Frontend - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/machine-learning-with-c-mask-r-cnn-with-pytorch-c-frontend)
+* 딥페이크 변조 영상 탐지 AI 경진대회
+  * [Private LB 0.9683 취미유저팀 코드 - DACON](https://dacon.io/codeshare/2292)
+  * [Private LB 0.9644 디멜막내팀 코드 - DACON](https://dacon.io/codeshare/2350)
+  * [Private LB 0.9688 WeAreApe팀 코드 - DACON](https://dacon.io/codeshare/2351)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
