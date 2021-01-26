@@ -537,6 +537,7 @@ Clojure
 * [A modular blogging platform written in Clojure](https://github.com/FelixHoer/blog)
 * [Managed lifecycle of stateful objects in Clojure](https://github.com/stuartsierra/component)
 * [Accountant is a ClojureScript library to make navigation in single-page applications simple](https://github.com/venantius/accountant)
+* [Clojure programming world: 6 essential libraries and other tools](https://freshcodeit.com/freshcode-post/clojure-programming-world-frameworks-and-other-tools)
 * [abclj: Clojure to Common lisp interop](https://github.com/lsevero/abclj)
 * [adi - data modelling for the ambitious http://docs.caudate.me/adi](https://github.com/zcaudate/adi) datomic 대신
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
