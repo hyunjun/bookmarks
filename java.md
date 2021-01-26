@@ -1112,6 +1112,7 @@ Java
   * [IntelliJ MySQL을 JPA로 연결하기 - YouTube](https://www.youtube.com/watch?v=JvRTf-zeLeE)
 * [mybatis $ # 차이를 알아봅시다](https://codingdog.tistory.com/entry/mybatis-%EC%B0%A8%EC%9D%B4%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [스프링부트 - MyBatis 실전 프로그래밍 - YouTube](https://www.youtube.com/watch?v=4YOk7oLGTKI)
+* [스프링 부트 MyBatis - YouTube](https://www.youtube.com/watch?v=OYVs5aBjHfM)
 * [11. Spring - Mybatis Interceptor로 파라미터 자동암호화 / select 쿼리 자동복호화및 쿼리 로그추출하기](https://kim-jong-hyun.tistory.com/23)
 * [10. Spring IoC Container에 관리되는 Bean 목록 확인하기](https://kim-jong-hyun.tistory.com/21)
 * [12. Spring - jxls로 간편하게 엑셀다운로드 구현하기](https://kim-jong-hyun.tistory.com/24)
