@@ -1186,6 +1186,7 @@ Java
 * [Apache Camel + Spring Boot REST API | Example | Java Techie - YouTube](https://www.youtube.com/watch?v=wFpAw0bpzns)
 * [REST with Spring Tutorial | Baeldung](https://www.baeldung.com/rest-with-spring-series)
 * [beantimer: A tools to measure Spring bean initialization time](https://github.com/vikreinok/beantimer)
+* [스프링 Utils; 당신은 필요 없을 수도 있는 스프링의 개꿀 라이브러리 - YouTube](https://www.youtube.com/watch?v=AS1GLhhWFLU)
 * [thymeleaf](https://okdevtv.com/mib/spring/thymeleaf)
   * [Thymeleaf 시작하기 - YouTube](https://www.youtube.com/watch?v=tiRi6PLVesY)
   * [7. Spring Thymeleaf 적용해보기](https://kim-jong-hyun.tistory.com/18)
