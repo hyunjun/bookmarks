@@ -751,6 +751,7 @@ Web
 * [RESTful API 체크리스트](https://brunch.co.kr/@nanotoly/18)
 * [Zalando RESTful API and Event Scheme Guidelines](https://opensource.zalando.com/restful-api-guidelines/)
 * [기계들의 대화법 - REST API - YouTube](https://www.youtube.com/watch?v=PmY3dWcCxXI)
+* [멱등성?](https://velog.io/@juunini/%EB%A9%B1%EB%93%B1%EC%84%B1)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
