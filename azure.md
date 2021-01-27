@@ -112,6 +112,7 @@ Azure
 * [How to quickly develop and manage hundreds of ML models to pivot your organization using Azure Databricks - The Databricks Blog](https://databricks.com/blog/2020/08/28/operationalize-100-machine-learning-models-in-as-little-as-12-weeks-with-azure-databricks.html)
 * [Deploying a Machine Learning Model with Azure ML Pipelines](https://vladiliescu.net/deploying-models-with-azure-ml-pipelines/)
 * [All Around Azure: A Developer's Guide to IoT (EMEA) - YouTube](https://www.youtube.com/watch?v=242fsVDxXIc)
+* [유튜브 비디오 업로드시 애저 이벤트그리드를 통해 다양한 소셜 미디어로 확산시키기 | Aliencube](https://blog.aliencube.org/ko/2021/01/27/websub-to-eventgrid-via-cloudevents-and-beyond/)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
