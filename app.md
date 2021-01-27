@@ -433,6 +433,7 @@ App
 * [n8n.io - Open Source Alternative for Zapier/tray.io](https://n8n.io)
 * [Nix - a tool that takes a unique approach to package management and system configuration](https://nixos.org/)
 * [PlantUML - 다이어그램을 빠르게 작성하기 위한 오픈 소스 프로젝트](http://plantuml.com/)
+  * [**C4 모델과 C4-PlantUML을 이용한 소프트웨어 구조 다이어그램 만들기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/diagramming-c4-model-c4-plantuml/)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
 * [Skynet - The decentralized CDN and file sharing platform for devs](https://siasky.net/)
 * [Sourcetrail - The offline cross-platform source explorer Get productive on unfamiliar source code](https://www.sourcetrail.com/)
