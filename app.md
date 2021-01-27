@@ -1453,6 +1453,7 @@ App
   * [Windows Subsystem for Linux: The lost potential - jmmv.dev](https://jmmv.dev/2020/11/wsl-lost-potential.html)
   * [Windows 10 LAMP 설치 방법 (1)](https://preciousstory.tistory.com/13)
   * [Announcing Ubuntu on Windows Community Preview - WSL2 - Ubuntu Community Hub](https://discourse.ubuntu.com/t/announcing-ubuntu-on-windows-community-preview/19789)
+  * [Blizzard Diablo IV debugs Linux core dumps from Visual Studio | C++ Team Blog](https://devblogs.microsoft.com/cppblog/blizzard-diablo-iv-debugs-linux-core-dumps-from-visual-studio/) GDB를 WSL에서 동작시키고, Visual Studio를 front로 사용
 * xLogWnd [디버깅 로그툴 xLogWnd : 클리앙](https://www.clien.net/service/board/pds/15729575)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [X server 4 Windows 10](https://x410.dev/)
