@@ -1230,6 +1230,7 @@ App
   * [엑셀에서 Distinct Count 구하기](https://www.popit.kr/%EC%97%91%EC%85%80%EC%97%90%EC%84%9C-distinct-count-%EA%B5%AC%ED%95%98%EA%B8%B0)
   * [1. 능력있는 직장인이 되는 법. 엑셀 자동화란?](https://steemit.com/kr-newbie/@gbgg/excel-1)
   * [How To : 엑셀에서 종속적 드롭다운 목록 만드는 방법](http://www.itworld.co.kr/news/151189)
+  * [LAMBDA: The ultimate Excel worksheet function - Microsoft Research](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
 * Google sheet
   * [Google Sheet 로 몸무게를 기록하자](https://jusths.tistory.com/144) bar chart
   * [브라우저에서 Google Sheets를 서버 없이 데이터베이스처럼 사용하기 | FUREWEB](https://fureweb-com.github.io/blog/2020/11/16/using-google-sheets-as-a-database-without-a-server-in-the-browser.html)
