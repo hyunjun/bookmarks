@@ -85,6 +85,7 @@ SQL
   * [(즐겁게 배우는 SQL #38) 제약 조건 - 외래 키](https://jhrogue.blogspot.com/2021/01/sql-38.html)
   * [(즐겁게 배우는 SQL #39) 제약 조건 - NOT NULL 제약](https://jhrogue.blogspot.com/2021/01/sql-39-not-null.html)
   * [(즐겁게 배우는 SQL #40) 제약 조건 - UNIQUE 제약](https://jhrogue.blogspot.com/2021/01/sql-40-unique.html)
+  * [(즐겁게 배우는 SQL #41) 제약 조건 - CHECK 제약](https://jhrogue.blogspot.com/2021/01/sql-41-check.html)
 * [고독쓰나미 - YouTube](https://www.youtube.com/channel/UClUrjhtzmAJL-sgXe6sNUkw)
 * [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
 * [EDB is a framework to make and manage backups of your database](https://github.com/RoxasShadow/EDB)
