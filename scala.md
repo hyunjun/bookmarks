@@ -1675,6 +1675,7 @@ Scala
 * [Implementing Scala.js Support for Scala 3 | The Scala Programming Language](https://www.scala-lang.org/2020/11/03/scalajs-for-scala-3.html)
 * [dotty+scala.js+async: interesting options](https://appddeevvmeanderings.blogspot.com/2020/10/dottyscalajsasync-interesting-options.html)
 * [ScalablyTyped - The Javascript ecosystem for Scala.js!](https://github.com/oyvindberg/ScalablyTyped)
+* [Scala.js + Snowpack + Scalablytyped tutorial - YouTube](https://www.youtube.com/watch?v=EiGGfH5hMMA)
 
 # TDD, Test
 * [Testing without mocking in Scala](http://engineering.monsanto.com/2015/07/28/avoiding-mocks/)
