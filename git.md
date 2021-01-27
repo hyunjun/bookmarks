@@ -146,6 +146,7 @@ Git
 * [깃허브 패키지 레지스트리 베타 발표 언어 별 패키지 매니저 지원 및 깃헙 권한으로 접근 제어 등](https://www.44bits.io/ko/post/news--announcing-github-package-registry)
 * [깃허브 컨테이너 레지스트리(GitHub Container Registry) 베타 오픈 및 사용법 | 44BITS](https://www.44bits.io/ko/post/news--github-container-registry-beta-release)
 * [GitHub Container Registry 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1530)
+* [GitHub Actions에서 GitHub Container Registry에 이미지 푸시하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1531)
 * [**Git 계정 여러 개 동시 사용하기**](https://blog.outsider.ne.kr/1448)
 * [README.md 10초만에 깔끔하게 만드는 법](https://gomcine.tistory.com/entry/READMEmd-10%EC%B4%88%EB%A7%8C%EC%97%90-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95?category=624615)
 * [Unlocking GitHub's Hidden Feature in 3 Minutes - YouTube](https://www.youtube.com/watch?v=0_RDoNJ1zGg)
