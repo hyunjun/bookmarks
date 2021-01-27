@@ -1183,6 +1183,7 @@ Java
 * [17. Spring - application.properties(.yml)에 개발자 정의 프로퍼티 경고창없애기](https://kim-jong-hyun.tistory.com/30)
 * [18. Spring - Spring Security 기본세팅 및 로그인 테스트](https://kim-jong-hyun.tistory.com/33)
 * [19. Spring - Security의 Remember-me(자동로그인) 동작원리 및 구현시 주의사항](https://kim-jong-hyun.tistory.com/34)
+* [JWT Token를 spring security에서 손쉽게 검증하기 위한 방법](https://life-journey.tistory.com/15)
 * [Apache Camel + Spring Boot REST API | Example | Java Techie - YouTube](https://www.youtube.com/watch?v=wFpAw0bpzns)
 * [REST with Spring Tutorial | Baeldung](https://www.baeldung.com/rest-with-spring-series)
 * [beantimer: A tools to measure Spring bean initialization time](https://github.com/vikreinok/beantimer)
