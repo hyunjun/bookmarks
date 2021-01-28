@@ -41,6 +41,7 @@ Programmer
 * [john-carmack-plan-archive/by_year/johnc_plan_1996.txt](https://github.com/ESWAT/john-carmack-plan-archive/blob/master/by_year/johnc_plan_1996.txt)
 * [**The Product-Minded Software Engineer**](https://blog.pragmaticengineer.com/the-product-minded-engineer/) 제목 그대로
 * [좋은 엔지니어가 되기 위해 필요한 조건들](https://www.youtube.com/watch?v=l143ua2Hv6E) Starbucks Principle Enginner 오창호님
+* [개발직군이 놓쳐서는 안될10가지 (Developer attitude)](https://www.slideshare.net/visualkhh/10-developer-attitude) 개발외에 주의해야할 점
 * [Amazon을 이끄는 기술 구루 – Distinguished Engineers](http://channy.creation.net/blog/1270)
 * [‘Go to guy’: 회사에서 가장 인정 받는 인재](http://www.andrewahn.co/silicon-valley/go-to-guy/)
 * [21 Bad Mistakes in My 21-Year Programming Career](https://levelup.gitconnected.com/21-bad-mistakes-in-my-21-year-programming-career-6d25c5b34908) 짧고 간단하게 좋은 이야기를 많이 씀
