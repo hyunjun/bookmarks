@@ -399,6 +399,7 @@ Docker
 * [Running GUI apps with Docker](http://fabiorehm.com/blog/2014/09/11/running-gui-apps-with-docker/)
 * [Docker(container)의 작동 원리: namespaces and cgroups](https://tech.ssut.me/what-even-is-a-container/)
 * [**UTS 네임스페이스를 사용한 호스트네임 격리 - 컨테이너 네트워크 기초 1편 | 44BITS**](https://www.44bits.io/ko/post/container-network-1-uts-namespace)
+* [**ip로 직접 만들어보는 네트워크 네임스페이스와 브리지 네트워크 - 컨테이너 네트워크 기초 2편 | 44BITS**](https://www.44bits.io/ko/post/container-network-2-ip-command-and-network-namespace)
 * [Cgroup Driver 선택하기 – tech.kakao.com](https://tech.kakao.com/2020/06/29/cgroup-driver/)
 * [<컨테이너 가상화의 이해> chroot를 사용해 프로세스의 루트 바꾸기](https://steemit.com/kr/@mishana/1-chroot)
 * [컨테이너 기초 - chroot를 사용한 프로세스의 루트 디렉터리 격리](https://www.44bits.io/ko/post/change-root-directory-by-using-chroot)
