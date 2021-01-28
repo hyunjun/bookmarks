@@ -2787,6 +2787,7 @@ Python
     * [Dask Tutorial at PyData 2018](https://github.com/mrocklin/pydata-nyc-2018-tutorial)
   * [Matthew Rocklin - Dask at Global Scale with Coiled | PyData Eindhoven 2020 - YouTube](https://www.youtube.com/watch?v=gkUSDe4rETE)
   * [Coiled: Scaling Python Simply](https://coiled.io/)
+  * [dask-sql: Query Your (Big) Data With The Power of Python & SQL - Nils Braun - YouTube](https://www.youtube.com/watch?v=aLoTc_cX6yY)
   * s3fs [Using S3 Just Like a Local File System in Python | by Sven Balnojan | The Startup | Medium](https://medium.com/swlh/using-s3-just-like-a-local-file-system-in-python-497737783f11)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
 * [DataMatrix - an intuitive Python library for working with column-based and continuous data](http://datamatrix.cogsci.nl/)
