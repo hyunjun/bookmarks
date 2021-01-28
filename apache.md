@@ -235,6 +235,7 @@ Apache
 * [Keynote | Flink Ahead 2.0: The Sequel - Konstantin Knauf - YouTube](https://www.youtube.com/watch?v=w2CAnHLGRuU)
 * [Flink SQL in 2020: Time to show off! - Fabian Hueske & Timo Walther - YouTube](https://www.youtube.com/watch?v=UnCkwIp_614)
 * [Unified APIs for Batch and Stream Processing on Flink - YouTube](https://www.youtube.com/watch?v=z9ye4jzp4DQ)
+* [2021 Apache Flink Meetup - Hosted by Netflix - YouTube](https://www.youtube.com/watch?v=rtz3p_iijP8)
 * HRFS [On-demand low-latency feature generation at Hyperconnect - YouTube](https://www.youtube.com/watch?v=jujAAaMQdF4)
 
 # Flume
