@@ -1746,7 +1746,7 @@ Scala
 * [Type classes from the ground up - Nicolas Rinaudo](https://nrinaudo.github.io/typeclasses/)
 * [Scala can be Boring and Absurd](http://www.doscienceto.it/blog/posts/2020-05-26-boring.html)
 * [The Transaction Type Class](https://medium.com/mediarithmics-engineering/the-transaction-type-class-f9f6f761d959)
-* [OOP vs. FP. The pursuit of extensibility part #2](https://medium.com/virtuslab/oop-vs-fp-the-pursuit-of-extensibility-part-2-22a37a33d1a0)]
+* [OOP vs. FP. The pursuit of extensibility part #2](https://medium.com/virtuslab/oop-vs-fp-the-pursuit-of-extensibility-part-2-22a37a33d1a0)
 * [And *that* is why static types matter](http://jducoeur.livejournal.com/846769.html)
 * [Value, Type, Kind & Orders](http://blog.naver.com/hancury/220504381037)
 * [Scala’s Types of Types](http://ktoso.github.io/scala-types-of-types/)
