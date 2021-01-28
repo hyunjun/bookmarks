@@ -469,6 +469,7 @@ Clojure
   * [Clojure 강좌 02 - Cursive에서 REPL 사용하기](https://www.youtube.com/watch?v=KKMwmTp0m6c)
   * [Clojure 강좌 05 - Cursive에서 Paredit 사용하기](https://www.youtube.com/watch?v=znCEr9V9s4E)
   * [Cursive local REPL 에서 UnsupportedClassVersionError 에러가 날 경우](https://gist.github.com/cheolhee/7bd80e9305833e5e7d3d53faca517790)
+  * [Cursive: Installing](https://cursive-ide.com/userguide/)
 * [datascript - An immutable in-memory database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript)
   * [datsync Datomic <-> DataScript syncing/replication utilities](https://github.com/metasoarous/datsync)
 * [datawalk](https://github.com/eggsyntax/datawalk) REPL에서 데이터 확인
@@ -794,6 +795,7 @@ Clojure
 * [Spring Cloud - Proof of concept Clojure Implementation of Spring Boot Getting Started](https://github.com/scotthaleen/clojure-spring-cloud)
 * [supdate - a small Clojure/ClojureScript library for transforming nested data structures](https://vvvvalvalval.github.io/supdate)
 * [superv.async - extends core.async with error handling and includes a number of convenience functions and macros](https://github.com/replikativ/superv.async)
+* [tapestry: Weave loom fibers into your Clojure](https://github.com/teknql/tapestry)
 * [task - Simple, functional and value-oriented concurrency primitives for Clojure](https://github.com/ane/task)
 * [TCP-Server](https://github.com/weavejester/tcp-server)
 * [tech.ml.dataset: Clojure dataframe library and pipeline for data processing and machine learning](https://github.com/techascent/tech.ml.dataset)
