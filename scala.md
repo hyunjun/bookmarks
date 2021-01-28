@@ -1851,6 +1851,7 @@ Scala
 * [Magnolia - a generic macro for automatic materialization of typeclasses for datatypes composed from case classes (products) and sealed traits (coproducts)](https://propensive.com/opensource/magnolia)
   * [Magnolia for Avro](https://timpigden.github.io/_pages/magnolia-avro/intro.html)
 * [refined: simple refinement types for Scala](https://github.com/fthomas/refined)
+  * [practice - basic examples](https://gist.github.com/hyunjun/80d3875cae8c64537a530f8154e16964#file-refined-scala)
   * [Reduce the domain of your types with Refined](https://medium.com/@Methrat0n/reduce-the-domain-of-your-types-with-refined-63e8e2840b15)
   * [Wtf is Refined ?](https://medium.com/@Methrat0n/wtf-is-refined-5008eb233194)
   * [Validate Service Configuration in Scala](https://medium.com/@alexey_novakov/validate-service-configuration-in-scala-85f661c4b5a6)
