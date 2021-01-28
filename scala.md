@@ -563,6 +563,7 @@ Scala
 * [Pattern Matching Tricks in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=qe85507fSc8)
 * [Pattern Match Anything in Scala. What is Pattern Matching? | by Mansi Babbar | The Startup | Jun, 2020 | Medium](https://medium.com/swlh/pattern-match-anything-in-scala-3a22f5d3535)
 * [How to Use Scala Pattern Matching | by billydharmawan | Towards Data Science](https://towardsdatascience.com/how-to-use-scalas-pattern-matching-362a01aa32ca)
+* [Programming with Functions #3 - Pattern Matching - YouTube](https://www.youtube.com/watch?v=GzVpWORuVqE)
 * [The Difference Between Null, Nothing, Nil, None and Unit in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=0_-jRrdg9Dw)
 * [Andy Scott—Code by Shape - YouTube](https://www.youtube.com/watch?v=ifPTQ9CULdk) Either, Option, List, fold(Right)
 * [The assignment operator is broken!](https://adrian-salajan.github.io//blog/2020/10/02/assigment-is-broken)
