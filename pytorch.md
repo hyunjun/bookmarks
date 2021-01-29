@@ -361,6 +361,7 @@ PyTorch
 * [torchtext package consists of data processing utilities and popular datasets for natural language](http://torchtext.readthedocs.io/)
 * [torchvision - Datasets, Transforms and Models specific to Computer Vision](https://github.com/pytorch/vision)
   * [torchvision 0.3: segmentation, detection models, new datasets and more..](https://pytorch.org/blog/torchvision03/)
+  * [Torchvision 0.8, GPU에서 돌아가는 Scriptable Transforms 사용해서 데이터 로딩 속도 개선하기 :: 봉자씨의 코딩이야기](https://bongjasee.tistory.com/2)
 * [UnsupervisedMT - Unsupervised Machine Translation](https://github.com/facebookresearch/UnsupervisedMT)
 * [VoiceFilter - Unofficial PyTorch implementation of Google AI's VoiceFilter system http://swpark.me/voicefilter ](https://github.com/mindslab-ai/voicefilter)
 
