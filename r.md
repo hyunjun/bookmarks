@@ -332,6 +332,7 @@ R
 * [shinyMobile 설명](https://tidyverse-korea.github.io/seoul-R/data/2.%20shinyMobile%20%EC%86%8C%EA%B0%9C%20(%EC%A7%80%EB%82%A8%ED%98%84).pdf)
 * [R) 전처리 - 객체 및 변수 명명하기 - Data Doctor](https://datadoctorblog.com/2021/01/22/R-Preprocessing-naming-object-variables/)
 * [Opifex](https://opifex.org/#/)
+* [**텍스트 분석을 통한 프로듀스X101 데뷔조 예측**](https://montewood.github.io/ProduceX101/) 데이터 수집부터 분석을 통한 결론까지 모든 과정
 
 # API
 * [REX: Look around – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2229)
