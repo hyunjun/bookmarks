@@ -205,6 +205,7 @@ Open Source
 * [Elasticsearch를 둘러싼 AWS와 Elastic의 대립 – OpsNow Tech Blog](https://blog.opsnow.com/35)
 * [Amazon: NOT OK - Elastic 라이선스를 변경해야 했던 이유 | Elastic Blog](https://www.elastic.co/kr/blog/why-license-change-AWS)
 * [라이선스 변경에 대한 명확한 설명 | Elastic Blog](https://www.elastic.co/kr/blog/license-change-clarification)
+* [Elastic Changes Licences for Elasticsearch and Kibana: AWS Forks Both](https://www.infoq.com/news/2021/01/elastic-aws-open-source/)
 
 # Line
 * [LINE Game AirBorne DataCenter 소개](http://developers.linecorp.com/blog/ko/?p=230)
