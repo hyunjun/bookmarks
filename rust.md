@@ -262,3 +262,4 @@
 * [Wiki - RustStarterKit2020](https://wiki.alopex.li/RustStarterKit2020)
 * [Why You Should Consider Rust for the Next Language You Learn | by Serokell | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/why-you-should-consider-rust-for-the-next-language-you-learn-39652d8e1bbe)
 * [A half-hour to learn Rust - fasterthanli.me](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
+* [Learning Rust for Beginners – Sequenced Thoughts from C/S](https://elangocheran.com/2021/01/26/learning-rust-for-beginners/)
