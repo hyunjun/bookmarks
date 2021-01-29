@@ -47,6 +47,7 @@
 * [ipTIME A9004M 공유기에 Windows XP 올리기 | 맨손잡이](https://mans0n.github.io/2020/08/08/winxp-on-a9004m/)
 * [Coding with voice dictation using Talon Voice · Josh W Comeau](https://joshwcomeau.com/accessibility/hands-free-coding/)
 * [10기가비트 홈 네트워크 구축하기](https://tech.ssut.me/going-10-gigabit-networking-at-home/)
+* [스마트 식물재배기 앱 만들기 : 네이버 카페](https://cafe.naver.com/creativethon/6432)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
