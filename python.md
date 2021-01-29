@@ -1000,6 +1000,11 @@ Python
   * [Parallelism in Python](https://www.youtube.com/watch?v=QRF1637j6NU)
   * [**Parallel Computing in Python: Current State and Recent Advances**](https://www.youtube.com/watch?v=xYuQi7PTAcc)
   * [**Every Python Programmer Should Know the Not-So-Secret ThreadPool | by Fabian Bosler | Better Programming | Medium**](https://medium.com/better-programming/every-python-programmer-should-know-the-not-so-secret-threadpool-642ec47f2000)
+  * Shared Memory
+    * [Python Shared Memory in Multiprocessing - Mingze Gao](https://mingze-gao.com/posts/python-shared-memory-in-multiprocessing/)
+    * [Python Shared Memory in Multiprocessing | by Adrian Gao | Medium](https://medium.com/@mingtse.gao/python-shared-memory-in-multiprocessing-81c5dd4475d4)
+    * [Multiprocessing example](https://gist.github.com/nfaggian/9755516)
+    * [python - Use numpy array in shared memory for multiprocessing - Stack Overflow](https://stackoverflow.com/questions/7894791/use-numpy-array-in-shared-memory-for-multiprocessing)
   * threading
     * practice
       * [threading Lock](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/test_thread_lock_lock.py)
