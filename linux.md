@@ -108,6 +108,7 @@ Linux
 * [Using Multiple NICs on Linux](https://tech.ssut.me/using-multiple-nics-on-linux/) ip iproute2 iptables
 * [9 things to do in your first 10 minutes on a Linux server | Opensource.com](https://opensource.com/article/20/12/linux-server) 서버를 새로 받은 경우 할 일
 * [커맨드라인 인터페이스, 셸, 터미널이란? | 44BITS](https://www.44bits.io/ko/keyword/command-line-interface-cli-shell-and-terminal)
+* [**리눅스/맥 커맨드라인 셸 입문자를 위한 생존 가이드 | 44BITS**](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
