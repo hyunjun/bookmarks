@@ -514,6 +514,7 @@ Clojure
 * [re:Clojure 2020 conference day 1 - YouTube](https://www.youtube.com/watch?v=qRI1Ved0SfE)
 * [re:Clojure 2020 conference day 2 - YouTube](https://www.youtube.com/watch?v=NqWR_ysLkW8)
 * [Meetup: Simplicity and Power in the latest Clojure CLI - YouTube](https://www.youtube.com/watch?v=Cqz23FEOw1A)
+* [Functional / Microservices in Real-Time Financials](https://www.infoq.com/presentations/nubank-financial-systems/)
 
 # Debug
 * [Debugging in Clojure?](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
@@ -704,6 +705,7 @@ Clojure
 * [libjulia-clj: Binding to julia via jna -- Currently extremely unstable --](https://github.com/cnuernber/libjulia-clj)
 * [libpython-clj - libpython bindings into the techascent ecosystem](https://github.com/cnuernber/libpython-clj)
   * [Hugging Face GPT With Clojure](https://gigasquidsoftware.com/blog/2020/01/10/hugging-face-gpt-with-clojure/)
+* logger [Simple logger that works in bb](https://gist.github.com/borkdude/c97da85da67c7bcc5671765aef5a89ad)
 * [lokke: Lokke: Clojure for Guile](https://github.com/lokke-org/lokke)
 * [Loom - Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj http://aysy.lu/loom ](https://github.com/aysylu/loom)
 * [lucene-grep: Grep-like utility based on Lucene Monitor compiled with GraalVM native-image](https://github.com/dainiusjocas/lucene-grep)
