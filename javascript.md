@@ -3224,6 +3224,7 @@ Javascript
   * [자바스크립트 개발자를 위한 ReasonML | 그린랩스](https://green-labs.github.io/what-is-reason-ml)
   * [프론트엔드 개발 ReasonML이라 좋았던 점 | 그린랩스](https://green-labs.github.io/reason-ml-the-good-parts)
   * [앗, ReasonML의 분기문에서는 타입이 다른 데이터를 리턴할 수 없다고요?! | 그린랩스](https://green-labs.github.io/reasonml-ways-with-types)
+* [ReScript in Korean](https://green-labs.github.io/rescript-in-korean/)
 * [Component Typing in React](https://hyunseob.github.io/2018/07/15/component-typing-in-react/)
 * [타입스크립트 3.0](https://engineering.huiseoul.com/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-3-0-99e5d45ec439)
 * [타입스크립트 모노레포](https://blog.bglee.me/posts/2018/typescript-monorepo/)
