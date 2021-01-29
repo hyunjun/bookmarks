@@ -1001,10 +1001,15 @@ Python
   * [**Parallel Computing in Python: Current State and Recent Advances**](https://www.youtube.com/watch?v=xYuQi7PTAcc)
   * [**Every Python Programmer Should Know the Not-So-Secret ThreadPool | by Fabian Bosler | Better Programming | Medium**](https://medium.com/better-programming/every-python-programmer-should-know-the-not-so-secret-threadpool-642ec47f2000)
   * Shared Memory
+    * [**practice - shared memory with multiprocessing**](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/test_shared_memory_3.py)
+    * [dijkstra_shm.py](https://github.com/cadop/dijkstra/blob/4535350df267341925dace0224558e3cc8a2028c/code/dijkstra_shm.py)
+    * [parallel_write.py](https://gist.github.com/rossant/7a46c18601a2577ac527f958dd4e452f)
     * [Python Shared Memory in Multiprocessing - Mingze Gao](https://mingze-gao.com/posts/python-shared-memory-in-multiprocessing/)
     * [Python Shared Memory in Multiprocessing | by Adrian Gao | Medium](https://medium.com/@mingtse.gao/python-shared-memory-in-multiprocessing-81c5dd4475d4)
     * [Multiprocessing example](https://gist.github.com/nfaggian/9755516)
     * [python - Use numpy array in shared memory for multiprocessing - Stack Overflow](https://stackoverflow.com/questions/7894791/use-numpy-array-in-shared-memory-for-multiprocessing)
+    * [Fill a numpy array using the multiprocessing module](https://jonasteuwen.github.io/numpy/python/multiprocessing/2017/01/07/multiprocessing-numpy-array.html)
+    * [On Sharing Large Arrays When Using Python's Multiprocessing](https://research.wmz.ninja/articles/2018/03/on-sharing-large-arrays-when-using-pythons-multiprocessing.html)
   * threading
     * practice
       * [threading Lock](https://github.com/hyunjun/practice/blob/master/python/test-multiprocessing/test_thread_lock_lock.py)
