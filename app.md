@@ -584,6 +584,7 @@ App
       * [VSCode에서 git 사용하기 - YouTube](https://www.youtube.com/watch?v=2xIcfp_GTMo)
       * [VS CODE Git 5k 없애는 방법(how to delete vs code git 5k)](https://seanlion.github.io/blog/25)
       * [GitHub and VS Code | Bring your favorite tools to all the places you code](https://vscode.github.com/)
+      * [VS Code tips: The Git Graph extension - YouTube](https://www.youtube.com/watch?v=u9ZQpKGTog4)
     * Online
       * [Visual Studio Online 어디에서든 액세스 가능한 클라우드 기반 개발 환경](https://visualstudio.microsoft.com/ko/services/visual-studio-online/)
       * [visual studio online tutorial | 사용법부터 장점과 단점까지 !](https://www.youtube.com/watch?v=HUhFSbwvloM)
