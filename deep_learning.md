@@ -1718,6 +1718,7 @@ Deep Learning
   * [How to do Deep Learning on Graphs with Graph Convolutional Networks](https://towardsdatascience.com/how-to-do-deep-learning-on-graphs-with-graph-convolutional-networks-7d2250723780)
   * [Graph Convolutional Networks using only NumPy - YouTube](https://www.youtube.com/watch?v=8qTnNXdkF1Q)
   * [Spectral GCN 은… 사드세요 - TooTouch](https://tootouch.github.io/research/spectral_gcn/)
+  * [Graph Neural Network 찍어먹기 - TooTouch](https://tootouch.github.io/research/gnn_summary/)
 * [Graph Nets - DeepMind's library for building graph networks in Tensorflow and Sonnet](https://github.com/deepmind/graph_nets)
 * [How Uber uses Graph Neural Networks to recommend you food (live stream) - YouTube](https://www.youtube.com/watch?v=9O9osybNvyY)
 * [Convolutional neural network in practice](http://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
