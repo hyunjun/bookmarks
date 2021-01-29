@@ -2947,6 +2947,7 @@ Python
   * [High Performance Data Processing in Python || Donald Whyte](https://www.youtube.com/watch?v=nmYyISMdOqY) numpy & numba
     * [High Performance Data Processing in Python](https://github.com/DonaldWhyte/high-performance-data-processing-in-python)
 * [Nuitka - the extremely compatible Python compiler](http://nuitka.net/)
+* OpenBCI [On Brain-Computer Interfaces and Explainable Workflows using Python | PyData Boston Meetup - YouTube](https://www.youtube.com/watch?v=aFr-pdgZVmE) BrainWave
 * [Ohmu - View space usage in your terminal](https://github.com/paul-nechifor/ohmu)
 * [oneliner - Convert any Python file into a single line of code](https://github.com/csvoss/oneliner)
 * [Opnieuw: A simple and intuitive retrying library for Python](https://tech.channable.com/posts/2020-02-05-opnieuw.html)
@@ -3397,6 +3398,7 @@ Python
     * [ImageOps Module](https://hhsprings.bitbucket.io/docs/programming/examples/python/PIL/ImageOps.html)
   * [Grabs the dominant color or a representative color palette from an image. Uses Python and Pillow. http://lokeshdhakar.com/projects/color-thief ](https://github.com/fengsp/color-thief-py)
   * [The fastest production-ready image resize out there, part 0](https://blog.uploadcare.com/the-fastest-production-ready-image-resize-out-there-part-0-7c974d520ad9)
+  * [Processing Images in Python With Pillow | Real Python Podcast #45 - YouTube](https://www.youtube.com/watch?v=pGIcrMonEuo)
 * [PyCNN - Image Processing in Cellular Neural Networks with Python](http://blog.ankitaggarwal.me/PyCNN/)
 * [SIPSkia : Simple Image Processing by Skia](https://github.com/nrise/sipskia/)
   * [Skia Python 적용기](http://nrise.github.io/2016/07/01/skia/)
