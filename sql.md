@@ -381,6 +381,7 @@ SQL
 * [인덱스 생성, 조회](http://egloos.zum.com/hanaduri/v/19112)
 * [패스트캠퍼스 SQL튜닝캠프 2일차 - 인덱스 향상](http://jojoldu.tistory.com/167)
 * [Index에 대해서 정리해 봅니다. #MySQL](https://developer88.tistory.com/332)
+* [mysql 커버링 인덱스란 무엇인가? | sTricky](https://stricky.tistory.com/441) cover index
 * [gildang MySQL tutorial](http://gildang.co.kr/?p=2383)
 * [MySQL Slow Query log Monitoring using Beats & ELK](http://www.slideshare.net/YoungHeonKim1/mysql-slow-query-log-monitoring-using-beats-elk)
 * [MySQL INSERT IF NOT EXISTS](https://number1.co.za/mysql-insert-if-not-exists/)
