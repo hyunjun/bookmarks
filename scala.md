@@ -601,6 +601,8 @@ Scala
     * [Scala Case Class and Case Object In-Depth (Part-1) - JournalDev](https://www.journaldev.com/9733/scala-caseclass-caseobject-part1)
     * [Scala Case Class and Case Object In-Depth (Part-2) - JournalDev](https://www.journaldev.com/12122/scala-caseclass-caseobject-part2)
   * [**스칼라 클래스의 일반적인 형식화**](https://blog.xxxnell.com/ko/posts/formalization)
+* collection
+  * [practice - until & to](https://gist.github.com/hyunjun/3eddbf4ba54b1a603f38e52b78a9b0e6#file-until_to-scala)
 * concurrent
   * duration
     * [Rock the JVM | How Does "20 seconds" Work in Scala?](https://rockthejvm.com/blog/215541/20-seconds)
@@ -614,6 +616,8 @@ Scala
 * [DynamicVariable 예제](http://knight76.tistory.com/entry/scala-DynamicVariable-%EC%98%88%EC%A0%9C)
 * Either
   * [3 Useful Things About Scala’s Either Class That You Want To Know](https://levelup.gitconnected.com/3-useful-things-about-scalas-either-class-that-you-want-to-know-42adbe090e60)
+  * [practice - Try vs. Either](https://gist.github.com/hyunjun/a3969336a5b8032260ba19efc74136c7#file-either_try-md)
+    * [Try Either 비교](https://lascala.slack.com/archives/C11CB042G/p1608585060008900)
 * ExecutionContext
   * [Why do we need an execution context? - Wiem Zine - Medium](https://medium.com/@wiemzin/when-we-want-to-run-a-simple-code-using-future-we-get-a-compile-error-that-we-need-an-execution-ba416fca3739)
   * ContextShift [A short guide to Blocker. | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/a-short-guide-to-blocker-6cd29e145a12)
@@ -1592,6 +1596,7 @@ Scala
 * `javacOptions ++= Seq("-source", "1.5")` [javac options cannot be blindly passed to javadoc](https://github.com/sbt/sbt/issues/355)
 
 # Scala 3
+* [practice - extension method & typeclass](https://gist.github.com/hyunjun/19a8514f8fec476b11554177f9192768#file-extension_method_and_typeclass-scala)
 * [TOWARDS SCALA 3](http://www.scala-lang.org/blog/2018/04/19/scala-3.html)
 * [A Tour of Scala 3 - Martin Odersky](https://www.youtube.com/watch?v=_Rnrx2lo9cw)
 * [A quiet, attractive new programming language (Scala 3)](https://alvinalexander.com/scala/scala-3-dotty-0.19-attractive-programming-language)
