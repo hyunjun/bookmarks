@@ -995,7 +995,6 @@ Scala
 * [Permutive Community Engineering, September 2019](https://medium.com/permutive/community-engineering-report-5da212ad4912) cats, circe
 * [Abstract Algebra for Scala https://twitter.com/scalding](https://github.com/twitter/algebird#questions)
   * [What is Twitter's interest in abstract algebra (with algebird)?](http://www.quora.com/What-is-Twitters-interest-in-abstract-algebra-with-algebird/answer/Noel-Welsh?srid=u7a9&share=1)
-* [Avast](https://avast.github.io)
 * [Scala macros to generate RESTful Models](https://github.com/pathikrit/metarest)
 * [Comparing Scala relational database access libraries](https://softwaremill.com/comparing-scala-relational-database-access-libraries/)
 * [A FUNCTIONAL ECOSYSTEM](http://vectos.net/posts/2019-06-10-a-functional-ecosystem.html)
@@ -1003,6 +1002,7 @@ Scala
 * [Top 15 Scala Libraries for Data Science in 2018](https://www.datasciencecentral.com/profiles/blogs/top-15-scala-libraries-for-data-science-in-2018-1)
 * [**TOP 10 SCALA LIBRARIES FOR DATA SCIENCE**](https://analyticsindiamag.com/top-10-scala-libraries-for-data-science/)
 * [Scala tooling in 2019](https://geirsson.com/2019.html)
+* [Scala Native on WSL2 – Scala for Cybersecurity](https://www.cyberscala.org/scala-native-on-wsl2/)
 * [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
   * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
   * [Revisit Dependency Injection in Scala](https://medium.com/@takezoe/revisit-dependency-injection-in-scala-78276c691bba)
@@ -1015,6 +1015,7 @@ Scala
   * [Porting Ammonite to Scala 3 #2 – To the Meat of the Matter - YouTube](https://www.youtube.com/watch?v=wy59m1gUp_U)
   * [Porting Ammonite to Scala 3 #3 – How does Ammonite actually work? - YouTube](https://www.youtube.com/watch?v=YIeEzjEIl5k)
 * [atto - a compact, pure-functional, incremental text parsing library for Scala](https://tpolecat.github.io/atto/)
+* [Avast](https://avast.github.io)
 * [Baker - a library that reduces the effort to orchestrate (micro)service-based process flows](https://ing-bank.github.io/baker/)
   * [Baker : A microservice orchestration library](https://medium.com/ing-blog/baker-a-microservice-orchestration-library-e2d162be3d71)
 * [better-monadic-for - A Scala compiler plugin to give patterns and for-comprehensions the love they deserve](https://github.com/oleg-py/better-monadic-for)
