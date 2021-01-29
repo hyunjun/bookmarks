@@ -249,6 +249,7 @@ Web
 * [Web scraping for web developers: a concise summary](https://medium.freecodecamp.org/web-scraping-for-web-developers-a-concise-summary-3af3d0ca4069)
 * [Bot detection 101: How to detect web bots?](https://antoinevastel.com/javascript/2020/02/09/detecting-web-bots.html)
 * [구글 시트를 이용해 10분만에 만든 김영민 교수님 글 모음 (웹크롤링) - Financial Freedom](https://financialfreedom.kr/2020/09/10/kimyoungmins-column-list-by-google-sheet/) google sheet의 importxml 이용
+* [Facebook Saved 크롤링](https://www.notion.so/Facebook-Saved-a3c05f5b00dc411e84ff7f548114070a)
 * [Common Crawl - We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone](https://commoncrawl.org/)
   * [Basic Statistics of Common Crawl Monthly Archives](https://github.com/commoncrawl/cc-crawl-statistics)
 * [Greenflare - 오픈소스 로컬 SEO 크롤러 | GeekNews](https://news.hada.io/topic?id=3365)
