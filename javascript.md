@@ -3107,7 +3107,7 @@ Javascript
 * [How To Use Redux With React](https://medium.com/better-programming/how-to-use-redux-with-react-23cd2f37d3f3)
 * [Redux Middleware Deep Dive](https://eunsukim.me/posts/redux-middleware-deep-dive)
 * [react redux-socket V0.2.0 배포 & 소개](https://blog.naver.com/pjt3591oo/222109334074)
-* [리덕스 잘 쓰고 계시나요? - 리디주식회사 RIDI Corporation](https://ridicorp.com/story/how-to-use-redux-in-ridi/?utm_source=facebook&utm_medium=page_ko&utm_campaign=how-to-use-redux-in-ridi)
+* [리덕스 잘 쓰고 계시나요? - 리디주식회사 RIDI Corporation](https://ridicorp.com/story/how-to-use-redux-in-ridi/)
 * [📢📢 Discord Clone (Using React Redux Firebase Material UI) | Announcement | Today 3PM Sharp | 📢📢 - YouTube](https://www.youtube.com/watch?v=Ab-v8mRK55M)
 * [Build Discord Clone using REACT.JS | REDUX | Firebase as Backend | For beginners in 2021 | Part 1 | - YouTube](https://www.youtube.com/watch?v=haazYaSys0E)
 * [Discord Clone using ReactJS and Redux | Part 2 | Redux Tutorial in 2021 |Authentication & Deployment - YouTube](https://www.youtube.com/watch?v=CZR2zJNgLcw)
