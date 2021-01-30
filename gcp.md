@@ -74,7 +74,7 @@ Google Cloud Platform GCP
 * [MySQL, Google Cloud, and a REST API that Generates Itself](https://hackingandslacking.com/mysql-google-cloud-and-a-rest-api-that-generates-itself-9872fc9dc84f)
 * [How to Automate Google Cloud SQL Backups - Better Programming - Medium](https://medium.com/better-programming/how-to-automate-google-cloud-sql-backups-2de6d3cc7d01)
 * [GCP를 이용해서 머신러닝 프로덕트 만들기](https://docs.google.com/presentation/d/11MxXhGxJKgdbGnuwwm0QlsVc6-kYNjCYnbsrZeGFnFw)
-* [머신러닝 파이프라인에서 데이터 변환. 머신러닝 파이프라인에서, 데이터는 모델 학습 및 서빙의 입력에 알맞게… | by Terry Cho | google-cloud-apac | Aug, 2020 | Medium](https://medium.com/google-cloud-apac/gcp-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8%EC%97%90%EC%84%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%80%ED%99%98-da834f3dff48)
+* [**머신러닝 파이프라인에서 데이터 변환. 머신러닝 파이프라인에서, 데이터는 모델 학습 및 서빙의 입력에 알맞게… | by Terry Cho | google-cloud-apac | Aug, 2020 | Medium**](https://medium.com/google-cloud-apac/gcp-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8%EC%97%90%EC%84%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%80%ED%99%98-da834f3dff48)
 * [좌충우돌 CLOUD 학습기(이동민)](https://www.slideshare.net/DONGMINLEE15/cloud-137939221)
 * [Google Cloud Platform: Creating an Instance and Configuring DNS](https://hackingandslacking.com/google-cloud-platform-creating-an-instance-and-configuring-dns-7043875fd7d4)
 * [Introducing Anthos: An entirely new platform for managing applications in today's multi-cloud world](https://cloud.google.com/blog/topics/hybrid-cloud/new-platform-for-managing-applications-in-todays-multi-cloud-world)
