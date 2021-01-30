@@ -95,6 +95,7 @@ PHP
   * [초간단 OSX El Capitan에서 Laravel 개발환경 구축 - 완두블로그](https://wani.kr/posts/2015/11/01/laravel-enviroment-settings/)
 * phan
   * [PHP 함수 타입 선언과 정적분석도구 phan 활용하기](http://www.haruair.com/blog/3962)
+* [phel-lang: Phel is a functional programming language that compiles to PHP. It is a dialect of Lisp inspired by Clojure and Janet](https://github.com/phel-lang/phel-lang)
 * [PHP TensorFlow binding](https://github.com/dstogov/php-tensorflow)
 * [Roadrunner - Modernizing PHP Applications with Golang](https://roadrunner.dev/)
 * VarDumper
