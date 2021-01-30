@@ -181,6 +181,7 @@ Business
 * [잘못된 성과 지표의 위험 – Andrew Ahn](https://www.andrewahn.co/product/setting-wrong-metrics/)
 * [조직 문화: 직원들을 수동적 존재로 만들 것인가, 자기주도적인 인재로 만들 것인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/226677)
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다.](https://brunch.co.kr/@ywkim36/25)
+* [PM은 개발에 대해 얼마나 알아야 하나?](https://brunch.co.kr/@yongjinjinipln/79)
 * [상거래 진화의 역사…실크로드에서 O2O까지](http://www.bloter.net/archives/241981)
 * [MBA 여름 인턴을 하면서 배운 점들](http://ppss.kr/archives/59371)
 * [기숙사를 제공하는 스타트업: 기업 복지에 대하여](http://ppss.kr/archives/57926)
