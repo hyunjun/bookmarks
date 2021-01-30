@@ -681,6 +681,7 @@
   * [Custom Scala Project for StreamSets Transformer](https://medium.com/@iamontheinet/iamontheinet-streamsets-11cf8ba480a)
 * zio
   * [SF Scala: Enhancing Spark's Power with ZIO, Qubism and NLP at Scale, Using Nix for Haskell](https://www.youtube.com/watch?v=Ov7WZroBkv0)
+  * [Accelerating Spark with ZIO by Leo Benkel - YouTube](https://www.youtube.com/watch?v=bWgVGzb5-H8)
 
 ## Library Monitoring
 * [Deep Dive into Monitoring Spark Applications Using Web UI and SparkListeners (Jacek Laskowski)](https://www.youtube.com/watch?v=mVP9sZ6K__Y)
