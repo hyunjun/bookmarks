@@ -1191,6 +1191,7 @@ Java
 * [beantimer: A tools to measure Spring bean initialization time](https://github.com/vikreinok/beantimer)
 * [스프링 Utils; 당신은 필요 없을 수도 있는 스프링의 개꿀 라이브러리 - YouTube](https://www.youtube.com/watch?v=AS1GLhhWFLU)
 * [스프링 부트 테스트 자동화 - YouTube](https://www.youtube.com/watch?v=4bjgyPxec4Y)
+* [OKKY 자바 스프링이 대세가 된 과정에 대해 #fender - YouTube](https://www.youtube.com/watch?v=eIKsHVUTHR8)
 * [thymeleaf](https://okdevtv.com/mib/spring/thymeleaf)
   * [Thymeleaf 시작하기 - YouTube](https://www.youtube.com/watch?v=tiRi6PLVesY)
   * [7. Spring Thymeleaf 적용해보기](https://kim-jong-hyun.tistory.com/18)
