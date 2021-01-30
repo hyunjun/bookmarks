@@ -1213,7 +1213,7 @@ Programming
 * [Code Review Best Practices – Trisha Gee](https://trishagee.com/presentations/code_review_best_practice/)
 * [Code Review Best Practices - YouTube](https://www.youtube.com/watch?v=3pth05Rgr8U)
 * [Great Code Reviews—The Superpower Your Team Needs — Data Science & Engineering](https://shopify.engineering/great-code-reviews)
-* [JetBrains 신제품 Space 및 Code With Me 로 생산적인 개발자 되기 by Mikhail Vink - YouTube](https://www.youtube.com/watch?app=desktop&v=J1mL-ghvfx0&t=902)
+* [JetBrains 신제품 Space 및 Code With Me 로 생산적인 개발자 되기 by Mikhail Vink - YouTube](https://www.youtube.com/watch?v=J1mL-ghvfx0&t=902)
 * [Paircast - Code Screencast Software](https://paircast.io/)
 
 # Code Search

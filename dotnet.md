@@ -14,7 +14,7 @@
 * [The Profound Weakness of the .NET OSS Ecosystem](http://www.aaronstannard.com/the-profound-weakness-of-the-net-oss-ecosystem/)
 * [.NET Conf 2021 x Seoul 홈](https://www.notion.so/NET-Conf-2021-x-Seoul-228462238add4fc5a885fb81e2687528)
   * [.NET Conf 2021 x Seoul, Day 1 - YouTube](https://www.youtube.com/watch?v=Xk6FM2pFkqE)
-  * [.NET Conf 2021 x Seoul 당김 기반 비동기 스트림 - IAsyncEnumerable(T) - YouTube](https://www.youtube.com/watch?app=desktop&v=cs2qsnbYFUc)
+  * [.NET Conf 2021 x Seoul 당김 기반 비동기 스트림 - IAsyncEnumerable(T) - YouTube](https://www.youtube.com/watch?v=cs2qsnbYFUc)
   * [.NET Conf 2021 x Seoul 다시 보기](https://www.notion.so/1dc78a175d8e46b6b9cec9ef19cbfa72?v=413c2a20f0b042c490305e0fe899036c)
 * [.NET Conf 2020](https://www.dotnetconf.net/)
 * [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009)
