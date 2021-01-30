@@ -51,6 +51,7 @@ Bitcoin
 * [Consensus Models: PoW, PoS and New Pioneer, PoF](https://hackernoon.com/consensus-models-pow-pos-and-new-pioneer-pof-702fa2f55d49) proof of work, proof of stake, proof of formulation
 * [dapp campus](https://www.youtube.com/channel/UCvF95zGgUlY2G6Lkb1GO-fw)
 * [Bitcoin From Scratch - Part 1](https://monokh.com/posts/bitcoin-from-scratch-part-1)
+* [Ray Dalio와 비트코인. Ray Dalio가 드디어 비트코인에 대한 생각을 공식적으로 밝혔다. | by 허진호 (Jin Ho Hur) | Jan, 2021 | Medium](https://hur.medium.com/ray-dalio%EC%99%80-%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-9af7d8066907)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
