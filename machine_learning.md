@@ -1142,6 +1142,7 @@ Machine Learning
 * [Interpretable Machine Learning | LIME In Machine Learning](https://www.analyticsvidhya.com/blog/2019/08/decoding-black-box-step-by-step-guide-interpretable-machine-learning-models-python/)
 * [Decision Trees in Machine Learning (ML) with Python Tutorial | by Towards AI Team | Towards AI | Nov, 2020 | Medium](https://medium.com/towards-artificial-intelligence/decision-trees-in-machine-learning-ml-with-python-tutorial-3bfb457bce67)
 * [Gradient Descent for Machine Learning (ML) 101 with Python Tutorial | Towards AI](https://medium.com/towards-artificial-intelligence/gradient-descent-algorithm-for-machine-learning-python-tutorial-ml-9ded189ec556)
+* [best-of-ml-python: 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly](https://github.com/ml-tooling/best-of-ml-python)
 
 ## Python Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
