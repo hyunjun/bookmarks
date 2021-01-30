@@ -119,6 +119,7 @@ Linux
 ## 배포판 Archlinux
 * [Dell Latitude E7240 Archlinux 설치하기](http://www.haruair.com/blog/4153)
 * [Arch Linux에서 커널 소스코드 다운로드 하는 법](http://kkamagui.tistory.com/898)
+* [Linux Memory Management at Scale - YouTube](https://www.youtube.com/watch?v=w9YQawAfkPw)
 
 ## 배포판 CoreOS
 * [CoreOS : 설치부터 컨테이너 배포까지](http://www.slideshare.net/subicura/coreos-38279596)
