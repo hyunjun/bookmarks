@@ -45,6 +45,7 @@ Clojure
 * [Clojure Remote 2016](https://www.youtube.com/playlist?list=PLPgnbBCmP6ZMfHPJ4yMwuoLEZvEe5LVe8)
 * [(defn podcast [themes] (conj themes 'Clojure 'ClojureScript))](https://defn.audio/)
 * [ClojureScript Podcast](https://clojurescriptpodcast.com/)
+* [Jacek Schae](https://www.jacekschae.com/)
 * [Clojure Memo](http://philoskim.github.io/doc/)
 * [ClojureDocs is a community-powered documentation and examples repository for the Clojure programming language](https://clojuredocs.org/)
 * [A central documentation hub for the Clojure community https://cljdoc.org ](https://github.com/cljdoc/cljdoc)
@@ -515,6 +516,7 @@ Clojure
 * [re:Clojure 2020 conference day 2 - YouTube](https://www.youtube.com/watch?v=NqWR_ysLkW8)
 * [Meetup: Simplicity and Power in the latest Clojure CLI - YouTube](https://www.youtube.com/watch?v=Cqz23FEOw1A)
 * [Functional / Microservices in Real-Time Financials](https://www.infoq.com/presentations/nubank-financial-systems/)
+* [Solving Problems the Clojure Way - Rafal Dittwald - YouTube](https://www.youtube.com/watch?v=vK1DazRK_a0)
 
 # Debug
 * [Debugging in Clojure?](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
@@ -542,6 +544,8 @@ Clojure
 * [Clojure programming world: 6 essential libraries and other tools](https://freshcodeit.com/freshcode-post/clojure-programming-world-frameworks-and-other-tools)
 * [abclj: Clojure to Common lisp interop](https://github.com/lsevero/abclj)
 * [adi - data modelling for the ambitious http://docs.caudate.me/adi](https://github.com/zcaudate/adi) datomic 대신
+* [aero: A small library for explicit, intentful configuration](https://github.com/juxt/aero)
+  * [Clojure Configuration Variables Using Aero - YouTube](https://www.youtube.com/watch?v=ODsoc2QQyyU)
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [annotate - Annotate is a library for adding type annotations to functions and checking those types at runtime](https://github.com/roomkey/annotate)
 * [ANTLR (ANother Tool for Language Recognition) - a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/) java
