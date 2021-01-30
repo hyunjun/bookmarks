@@ -1369,6 +1369,8 @@ Python
 * [Fast & Asynchronous in Python. Accelerate Your Requests Using asyncio | by Dylan Castillo | Towards Data Science](https://towardsdatascience.com/fast-and-async-in-python-accelerate-your-requests-using-asyncio-62dafca83c33)
 * [Stop Waiting! Start using Async and Await! | by Simon Hawe | Towards Data Science](https://towardsdatascience.com/stop-waiting-start-using-async-and-await-18fcd1c28fd0)
 * [An Introduction to Asynchronous Programming in Python | by Konopka Kodes Blog | Medium](https://medium.com/@KonopkaKodes/an-introduction-to-asynchronous-programming-in-python-6809a4385f69)
+* [Async Python is not faster](http://calpaterson.com/async-python-is-not-faster.html)
+* [I'm not feeling the async pressure | Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2020/1/1/async-pressure/)
 * youtube
   * [**Fear and Awaiting in Async (Screencast)**](https://www.youtube.com/watch?v=Bm96RqNGbGo)
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
