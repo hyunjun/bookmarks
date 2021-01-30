@@ -1112,6 +1112,7 @@ Programming
 * [Taking Control of Confusing Cloud Costs](https://www.infoq.com/articles/taking-control-of-cloud-costs/)
 * [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
 * [‘역설투성이'··· 우리가 클라우드를 싫어하는 11가지 이유 - CIO Korea](https://www.ciokorea.com/news/177989)
+* [스태틱 파일 버저닝 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/871)
 * [aws](aws.md)
 * [azure](azure.md)
 * [GCP Google Cloud Platform](gcp.md)
