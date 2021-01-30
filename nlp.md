@@ -263,6 +263,7 @@ NLP
 * [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
 * [OpenGPT-2: We Replicated GPT-2 Because You Can Too](https://medium.com/@vanya_cohen/opengpt-2-we-replicated-gpt-2-because-you-can-too-45e34e6d36dc)
 * [Fine-Tuning GPT-2 from Human Preferences](https://openai.com/blog/fine-tuning-gpt-2/)
+* [Algpt2 Part 2 | Bilal Khan](https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html)
 * [KoGPT2 - Korean GPT-2 pretrained cased (KoGPT2)](https://github.com/SKT-AI/KoGPT2)
 * [KoGPT2ForParaphrasing](https://github.com/MrBananaHuman/KoGPT2ForParaphrasing)
 * [Too big to deploy: How GPT-2 is breaking servers](https://towardsdatascience.com/too-big-to-deploy-how-gpt-2-is-breaking-production-63ab29f0897c)
@@ -628,6 +629,7 @@ NLP
 * [일상대화 챗봇 분석 시스템 구축기 1편 - 데이터 파이프라인 편 – 핑퐁팀 블로그](https://blog.pingpong.us/chatbot-data-pipeline/)
 * [일상대화 챗봇 분석 시스템 구축기 2편 - 데이터 시각화 편 – 핑퐁팀 블로그](https://blog.pingpong.us/chatbot-data-visualization/)
 * [챗봇을 위한 대화는 어떻게 디자인할까](https://d2.naver.com/helloworld/2110494)
+* [Recipes for building an open-domain chatbot](https://parl.ai/projects/recipes/)
 
 ## ChatBot Python
 * [Slacker를 이용한 Slack Bot 만들기](https://corikachu.github.io/articles/2016-08/python-slack-bot-slacker)
