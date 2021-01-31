@@ -4103,6 +4103,7 @@ Python
 * [Slack Slash Command를 통해 집 근처 약국 마스크 수량 알아보기](https://aws-diary.tistory.com/91)
 * [Python and Slack: A Natural Match](https://towardsdatascience.com/python-and-slack-a-natural-match-60b136883d4d)
 * [How To Build a Slackbot in Python on Ubuntu 20.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-build-a-slackbot-in-python-on-ubuntu-20-04)
+* [Slack Webhook API 생성하기](https://jojoldu.tistory.com/552)
 * [Slack Developer Kit for Python — Slack Developer Kit for Python](https://slack.dev/python-slackclient/index.html)
   * [slackapi/python-slackclient: Slack Developer Kit for Python](https://github.com/slackapi/python-slackclient)
 * [kakao-to-slack: send kakao talk message to slack](https://github.com/Kirade/kakao-to-slack)
