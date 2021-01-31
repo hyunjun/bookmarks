@@ -626,6 +626,7 @@ Javascript
 * [Learn JavaScript Event Listeners In 18 Minutes - YouTube](https://www.youtube.com/watch?v=XF1_MlZ5l6M)
 * [Web Worker를 사용한 이미지 로딩 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-01-03-image-load-by-web-worker)
 * [Teaching the Unfortunate Parts](https://www.executeprogram.com/blog/teaching-the-unfortunate-parts)
+* [WebOTP API를 활용한 SMS 본인인증 기능 구현하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/01/31/WebOTP-API.html)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
