@@ -106,6 +106,8 @@ Elixir
   * [Installing Elixir and Phoenix](https://hackernoon.com/installing-elixir-and-phoenix-1a35e82c58bf)
   * [다형성 도구인 protocol를 사용한 pheonix param](http://ohyecloudy.com/pnotes/archives/elixir-protocol-phoenix-param/)
   * [Surface UI - A server-side rendering component library for Phoenix](http://surface-demo.msaraiva.io/)
+  * [Elixir + Phoenix LiveView + Svelte, Why?](https://seokjun.kim/elixir-phoenix-liveview-svelte/)
+  * [Phoenix LiveView + Typescript + Svelte + Tailwind CSS, How](https://seokjun.kim/elixir-phoenix-liveview-svelte-how/)
 * Plug
   * [Plug 에러 메시지를 표시하는 방법](https://harfangk.github.io/2017/03/29/where-to-find-plug-errors-ko.html)
 * sentry [크래시 리포트, 에러 트래킹이 필요하면 sentry](http://ohyecloudy.com/pnotes/archives/sentry-error-tracking-software/)
