@@ -2378,6 +2378,7 @@ CVPR2016)
 * [A Simple Industrial Example: Real-Time Bidding](https://rl-book.com/learn/value_methods/bidding/) 광고
 * [2020 나 혼자 RL한다 - YouTube](https://www.youtube.com/playlist?list=PL758EWSZu9DbUVYgS23gj5M-yxjdS2FKD)
 * [Reinforcement Learning meets the real-world:Industrial RL applications](https://tv.naver.com/v/16969158)
+* [강화학습으로 더 재미있는 게임 만들기](https://tech.devsisters.com/posts/crp-puzzle-bot/)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
