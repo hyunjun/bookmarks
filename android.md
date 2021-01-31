@@ -100,6 +100,7 @@ Android
 * [NAVER Tech Talk: 안드로이드 개발 밋업(2019년 12월)](https://d2.naver.com/news/3876839)
 * [NAVER Tech Talk: iOS / Android 밋업(2020년 4월, 7월)](https://d2.naver.com/news/2579889)
 * [How to start using C++ code in your Android project](https://medium.freecodecamp.org/c-usage-in-android-4b57edf84322)
+* [안드로이드 기존 프로젝트에 c++ 코드를 사용하는 방법 :: Nomad Engineer](https://universehan.tistory.com/9)
 * [A guide to Object Detection with Fritz: Build a pet monitoring app in Android with machine learning](https://medium.freecodecamp.org/a-guide-to-object-detection-with-fritz-build-a-pet-monitoring-app-in-android-with-machine-learning-a8ed500978e5)
 * [WorkManager로 정기적인 백그라운드 작업 수행하기](https://blog.kmshack.kr/work_manager/)
 * [Android dev updates - week15 of 2019](https://androidkr.blogspot.com/2019/03/android-dev-updates-week15-of-2019.html)
