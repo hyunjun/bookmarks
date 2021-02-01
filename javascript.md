@@ -2675,6 +2675,7 @@ Javascript
 * [Junior Vs Senior Code - How To Write Better Code As A Web Developer - React - YouTube](https://www.youtube.com/watch?v=0yzoAbrjV6k)
 * [React Flow](https://reactflow.dev/)
 * [소셜 네트워크(naver, google, kakao) 로그인(OAuth 2.0) 연동 후 프로필 조회](https://blog.naver.com/pjt3591oo/222217171627)
+* [React Query로 서버 상태 관리하기 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-02-01T00:00:00.000Z)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
