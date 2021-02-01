@@ -297,6 +297,7 @@ Clojure
 * [Model Checking in Clojure - YouTube](https://www.youtube.com/watch?v=zvlD4_S3nz0)
 * [Consistent Hashing with Clojure | Ponderings of a Curious Mind](https://suvratapte.com/consistent-hashing-with-clojure/)
 * [algo.generic](https://github.com/clojure/algo.generic)
+* [Write pretty printed Clojure data structures to the clipboard](https://gist.github.com/baskeboler/7d226374582246d28b25801e28e18216)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -517,6 +518,7 @@ Clojure
 * [Meetup: Simplicity and Power in the latest Clojure CLI - YouTube](https://www.youtube.com/watch?v=Cqz23FEOw1A)
 * [Functional / Microservices in Real-Time Financials](https://www.infoq.com/presentations/nubank-financial-systems/)
 * [Solving Problems the Clojure Way - Rafal Dittwald - YouTube](https://www.youtube.com/watch?v=vK1DazRK_a0)
+* [Stratified Design: A Lisp Tradition - re:Clojure 2020 TALK - LispCast](https://lispcast.com/stratified-design-a-lisp-tradition-reclojure-2020-talk/)
 
 # Debug
 * [Debugging in Clojure?](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
@@ -636,6 +638,7 @@ Clojure
       3. core.async의 채널을 리턴하는 방식
   * [async-compojure-example](https://github.com/eunmin/async-compojure-example)
 * [cortex - Machine learning in Clojure](https://github.com/thinktopic/cortex)
+* [CounterClockWise IDE](https://github.com/ccw-ide) Eclipse Plugin for the Clojure Language
 * [cryogen - Static sites generated with Clojure](http://cryogenweb.org/)
 * [crux - open source document database with bitemporal graph queries](https://juxt.pro/crux/index.html)
 * [dali is a Clojure library for representing the SVG graphics format](https://github.com/stathissideris/dali)
@@ -707,6 +710,8 @@ Clojure
 * [lein-tools-deps: A leiningen plugin that lets you share tools.deps.alpha dependencies in your leiningen project](https://github.com/RickMoynihan/lein-tools-deps)
   * [Clojure project automation tool of my dreams - quanttype](https://quanttype.net/posts/2021-01-14-clojure-project-management-tool-of-my-dreams.html)
   * [depstar: Builds JARs, uberjars, does AOT, manifest generation, etc for deps.edn projects](https://github.com/seancorfield/depstar)
+* [LibHoney for Java | Honeycomb](https://docs.honeycomb.io/getting-data-in/java/libhoney/)
+  * [APM with honeycomb.io in Clojure - Tim Zöller](https://javahippie.net/clojure/apm/monitoring/2021/01/30/honeycomb-with-clojure.html)
 * [libjulia-clj: Binding to julia via jna -- Currently extremely unstable --](https://github.com/cnuernber/libjulia-clj)
 * [libpython-clj - libpython bindings into the techascent ecosystem](https://github.com/cnuernber/libpython-clj)
   * [Hugging Face GPT With Clojure](https://gigasquidsoftware.com/blog/2020/01/10/hugging-face-gpt-with-clojure/)
@@ -822,6 +827,7 @@ Clojure
 * [The fastest Clojure REPL in the world](https://anmonteiro.com/2016/11/the-fastest-clojure-repl-in-the-world/)
 * [How to be a REPL Sorcerer - YouTube](https://www.youtube.com/watch?v=AcWnGKGqFZA)
 * [REPL Driven Development, Clojure's Superpower (by Sean Corfield) - YouTube](https://www.youtube.com/watch?v=gIoadGfm5T8)
+* [Sending clojure data from the REPL to the clipboard | Basket's dev blog](https://basket-blog.netlify.app/pretty-print-clojure-data-to-clipboard)
 * [Gorilla REPL](http://gorilla-repl.org/)
   * [lein-gorildown](https://github.com/ksseono/lein-gorildown)
 * [inf clojure REPL](https://github.com/boot-clj/boot/wiki/inf-clojure-REPL)
@@ -853,6 +859,8 @@ Clojure
 * [A mental model for thinking about Clojure's Transducers | Functional Works](https://functional.works-hub.com/learn/a-mental-model-for-thinking-about-clojures-transducers-6baba)
 
 # Tutorial
+* [Clojure - Improving Development Startup Time](https://clojure.org/guides/dev_startup_time)
+* [Clojure - Threading Macros Guide](https://clojure.org/guides/threading_macros)
 * [Full Stack Clojure Contact Book - YouTube](https://www.youtube.com/playlist?list=PLBeQxJQNprbgkmvbv80xC8R0SHcPsosjZ)
 * [Why Developers Should Look into Clojure](https://auth0-com.cdn.ampproject.org/c/s/auth0.com/blog/amp/why-developers-should-look-into-clojure/)
 * [coding dojo - maze solving](https://gist.github.com/mmzsource/e8c383f69244ebefde058004fee72a8a)
