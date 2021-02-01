@@ -1344,6 +1344,7 @@ Java
 * [스프링 부트 캐쉬 이용하기 #Cache - YouTube](https://www.youtube.com/watch?v=RHI72s-qPdo)
 * [스프링 부트 웹소켓 #WebSocket - YouTube](https://www.youtube.com/watch?v=8iwNDEXldAk)
 * [스프링 부트 폼 데이터 유효성 체크 - YouTube](https://www.youtube.com/watch?v=aLxnSKOqrDU)
+* [스프링 부트 쇼핑몰 샘플 #JPetStore - YouTube](https://www.youtube.com/watch?v=nPf1I-1NGZE)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
