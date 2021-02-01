@@ -1095,6 +1095,7 @@ NLP
     * [SPACY IRL 2019](https://www.youtube.com/playlist?list=PLBmcuObd5An4UC6jvK_-eSl6jCvP1gwXc)
   * [Advanced NLP with spaCy](https://course.spacy.io/)
   * [Natural Language in Python using spaCy: An Introduction](https://blog.dominodatalab.com/natural-language-in-python-using-spacy/)
+  * [Vincent Warmerdam - Playing by the Rules-Based-Systems | PyData Eindhoven 2020 - YouTube](https://www.youtube.com/watch?v=nJAmN6gWdK8)
   * [merge-idioms: Implementation of Spacy's NLP pipeline for merging idioms as standalone tokens](https://github.com/eubinecto/merge-idioms) 숙어는 tokenizing할 때 각 단어별로 나누지 않는 library
   * [Prodigy: A new tool for radically efficient machine teaching](https://explosion.ai/blog/prodigy-annotation-tool-active-learning)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
