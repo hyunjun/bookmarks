@@ -37,6 +37,7 @@ App
 * [29 Tools and Resources for the Bootstrapping Entrepreneur](https://hackernoon.com/29-tools-and-resources-for-the-bootstrapping-entrepreneur-65c01a81fefb)
 * [I hate coding but I love making](https://hackernoon.com/i-hate-coding-but-i-love-making-9f3387d3b20d)
 * [지금 써보러 갑니다 세상 모든 서비스에 대한 이야기](http://icunow.co.kr/category/util/)
+* [디지털 세금, 구독형 서비스 최대한 피해보자 - tebica story](https://earlybird.kr/2548?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2594%2594%25ec%25a7%2580%25ed%2584%25b8-%25ec%2584%25b8%25ea%25b8%2588-%25ea%25b5%25ac%25eb%258f%2585%25ed%2598%2595-%25ec%2584%259c%25eb%25b9%2584%25ec%258a%25a4-%25ec%25b5%259c%25eb%258c%2580%25ed%2595%259c-%25ed%2594%25bc%25ed%2595%25b4%25eb%25b3%25b4%25ec%259e%2590)
 * [We need a new document markup language — here is why](https://medium.freecodecamp.org/we-need-a-new-document-markup-language-c22e0ec44e15) Practical Markup Language PML
 * [Here Are 5 Productivity Tools Every Developer Should Know](https://medium.com/swlh/here-are-5-productivity-tools-every-developer-should-know-4a3f70783835)
   * insomnia, zoom, notion, trello, figma
