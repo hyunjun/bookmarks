@@ -4104,6 +4104,7 @@ Python
 * [Python and Slack: A Natural Match](https://towardsdatascience.com/python-and-slack-a-natural-match-60b136883d4d)
 * [How To Build a Slackbot in Python on Ubuntu 20.04 | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-build-a-slackbot-in-python-on-ubuntu-20-04)
 * [Slack Webhook API 생성하기](https://jojoldu.tistory.com/552)
+* [Slack webhook 으로 Upsource 코드 리뷰 알람 받기 (멀티 슬랙 채널)](https://jojoldu.tistory.com/553)
 * [Slack Developer Kit for Python — Slack Developer Kit for Python](https://slack.dev/python-slackclient/index.html)
   * [slackapi/python-slackclient: Slack Developer Kit for Python](https://github.com/slackapi/python-slackclient)
 * [kakao-to-slack: send kakao talk message to slack](https://github.com/Kirade/kakao-to-slack)
@@ -4239,6 +4240,7 @@ Python
   * [Static Analysis at Scale: An Instagram Story](https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c)
 * [MonkeyType - A system for Python that generates static type annotations by collecting runtime types](https://github.com/Instagram/MonkeyType)
   * [Let your code type-hint itself: introducing open source MonkeyType](https://engineering.instagram.com/let-your-code-type-hint-itself-introducing-open-source-monkeytype-a855c7284881)
+  * [BayPiggies October 2020: Monkey Test, MonkeyType - YouTube](https://www.youtube.com/watch?v=J7enXZR9Puw)
 * [mypy](http://mypy-lang.org/) an experimental optional static type checker for Python
   * [Static Typing for Python](https://www.dropbox.com/s/efatwr0pozsargb/PyCon%20mypy%20talk%202016.pdf?dl=0)
   * [Dec 2016 BayPiggies Talk at LinkedIn: Introducing Type Annotations for Python](https://www.youtube.com/watch?v=ZP_QV4ccFHQ&t=1646)
