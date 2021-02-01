@@ -999,6 +999,8 @@ Machine Learning
     * GPU 이외의 CPU 버전, R 특화 버전, 최소화 버전, 가벼운 버전등 도커 이미지 제공
   * 위의 나열된 도구들이 제각각 노는것이 아님. 주피터 노트북과, 주피터 랩에는 유용한 확장이 설치
     * 예를 들어, 원하는 디렉토리로 이동 후 git 버튼의 클릭으로 버전 컨트롤을 하거나, tensorboard 버튼의 클릭으로 텐서보드를 해당 폴더의 로그 파일을 기반으로 실행하거나, vscode 버튼의 클릭으로 선택한 파일을 VSCode에서 곧바로 편집이 가능
+* [OpenML Home](https://test.openml.org/)
+  * [OpenML 2019](https://www.slideshare.net/JoaquinVanschoren/openml-2019)
 * [Petuum - a distributed machine learning framework](http://petuum.github.io/?)
 * [Predict - see who will convert, before they do](https://mixpanel.com/blog/2015/11/17/introducing-predict-see-who-will-convert-before-they-do)
   * [Mixpanel launches predict; what does this predict tool mean?](http://effinamazing.com/blog/mixpanel-launches-predict-what-does-this-predict-tool-mean/?fb_ref=f7aea373b9854983bcdbceea33d6d25c-Hackernews)
