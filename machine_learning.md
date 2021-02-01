@@ -1226,6 +1226,7 @@ Machine Learning
   * [Scikit Learn을 이용한 분류와 회귀 머신러닝 with python - YouTube](https://www.youtube.com/watch?v=B_S3OIp9lgc)
   * [Deep Neural Multilayer Perceptron (MLP) with Scikit-learn | by Kaushik Choudhury | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/deep-neural-multilayer-perceptron-mlp-with-scikit-learn-2698e77155e)
   * [사이킷런 0.24 맛보기! | 텐서 플로우 블로그 (Tensor ≈ Blog)](https://tensorflow.blog/2020/11/15/%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0-0-24-%EB%A7%9B%EB%B3%B4%EA%B8%B0/)
+  * [Machine learning made easy with Python | Opensource.com](https://opensource.com/article/21/1/machine-learning-python)
 * [SHAP (SHapley Additive exPlanations) explains the output of any machine learning model using expectations and Shapley values](https://github.com/slundberg/shap)
 * [shapash: Shapash makes Machine Learning models transparent and understandable by everyone](https://github.com/MAIF/shapash)
   * [P Introducing Shapash, a new Python library : makes Machine Learning models transparent and understandable by everyone : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/kxrld8/p_introducing_shapash_a_new_python_library_makes/)
