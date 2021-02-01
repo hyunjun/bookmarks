@@ -188,6 +188,7 @@ Android
 * [혼자서 Android App 개발하기 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/12/31/developing-an-android-app-in-one-person.html)
 * [Pluu Dev - AppComapt ~ TextViewCompoundDrawablesXmlDetector](http://pluu.github.io/blog/android/2021/01/18/appcompattextview/)
 * [안드로이드 앱 프로그래밍 #2 - TextView를 다루어 봅시다. - YouTube](https://www.youtube.com/watch?v=kse65cWLwrU)
+* [안드로이드 앱 프로그래밍 #3 - 버튼, 람다, 컨스트레인트 레이아웃 - YouTube](https://www.youtube.com/watch?v=COaf6EObcYw)
 * [Pluu Dev - 간단하게 Navigation 생성 및 흐름 살펴보기](http://pluu.github.io/blog/android/2021/01/23/navigation-start/)
 * [Pluu Dev - Android 호환성 유지에 대한 고찰 ~ 언어편](http://pluu.github.io/blog/android/2021/01/27/compatibility-language/)
 
