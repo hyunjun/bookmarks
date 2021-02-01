@@ -236,6 +236,7 @@ Apache
 * [Flink SQL in 2020: Time to show off! - Fabian Hueske & Timo Walther - YouTube](https://www.youtube.com/watch?v=UnCkwIp_614)
 * [Unified APIs for Batch and Stream Processing on Flink - YouTube](https://www.youtube.com/watch?v=z9ye4jzp4DQ)
 * [2021 Apache Flink Meetup - Hosted by Netflix - YouTube](https://www.youtube.com/watch?v=rtz3p_iijP8)
+* [Flink setup for development (and some IntelliJ Idea cool tricks)](https://www.galiglobal.com/blog/2021/20210130-Flink-setup.html)
 * HRFS [On-demand low-latency feature generation at Hyperconnect - YouTube](https://www.youtube.com/watch?v=jujAAaMQdF4)
 
 # Flume
