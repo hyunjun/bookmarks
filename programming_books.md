@@ -1187,6 +1187,7 @@ Programming Books
   * 2017.01
 * (NOT YET) [bash를 활용한 사이버 보안 운영 자료 수집, 로그 분석, 침입 탐지, 역공학, 보안 관리까지 실전 CLI 활용 기법](http://www.hanbit.co.kr/store/books/look.php?p_code=B1345967931)
   * [bash를 활용한 사이버 보안 운영](http://occamsrazr.net/tt/360)
+* (NOT YET) [세번째 책 처음 배우는 셸 스크립트를 발간하였습니다](https://naleejang.tistory.com/240)
 
 ## Unix
 
