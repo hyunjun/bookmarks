@@ -974,6 +974,8 @@ NLP
   * annoy와 비슷하지만 graph tree 기반 indexing
 * [nlg-eval - Evaluation code for various unsupervised automated metrics for Natural Language Generation](https://github.com/Maluuba/nlg-eval)
 * [parserator - a framework for making parsers using natural language processing (NLP) methods](http://parserator.datamade.us/)
+* [Pororo: A Deep Learning based Multilingual Natural Language Processing Library](https://github.com/kakaobrain/pororo)
+  * [Welcome to Pororo’s documentation! — Pororo 0.1.2 documentation](https://kakaobrain.github.io/pororo/)
 * [Pragmatic Segmenter - a rule-based sentence boundary detection gem that works out-of-the-box across many languages](https://github.com/diasks2/pragmatic_segmenter)
 * [PyText - a deep-learning based NLP modeling framework built on PyTorch](https://facebook.ai/developers/tools/pytext)
   * [PyText - A natural language modeling framework based on PyTorch https://fb.me/pytextdocs ](https://github.com/facebookresearch/pytext)
