@@ -3584,6 +3584,7 @@ Python
   * [FileNotFoundError: \[Errno 2\] No such file or directory: 'avconv': 'avconv'](https://jybaek.tistory.com/800)
   * [librosa.util.exceptions.ParameterError: data must be floating-point](https://jybaek.tistory.com/810)
   * [STFT and Melspectrogram in Tensorflow vs Librosa](https://colab.research.google.com/drive/1ptS1UkpHa-dW8w7WEf8xTE63mEQg8NQZ)
+* [PySynth — A Music Synthesizer for Python](https://mdoege.github.io/PySynth/)
 
 # Numpy
 * [파이썬 데이터 사이언스 Cheat Sheet: NumPy 기본](http://taewan.kim/post/numpy_cheat_sheet/)
