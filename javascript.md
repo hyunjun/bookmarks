@@ -2994,6 +2994,7 @@ Javascript
   * [Recoil 비동기 처리 + 테스트 코드 작성 방법 | imch.dev](https://imch.dev/posts/tips-for-recoil-to-process-async-and-write-test-code)
   * [Recoil 레시피: 스냅샷과 상태 모니터링 - 코드쓰는사람](https://taegon.kim/archives/10126)
   * [Recoil.js — The New, Better State Management Library for React | by Guna Shekar Proddaturi | Better Programming | Jun, 2020 | Medium](https://medium.com/better-programming/recoil-js-the-new-better-state-management-library-for-react-1095947b5191)
+  * [Recoil 레시피: 서버 사이드 렌더링 - 코드쓰는사람](https://taegon.kim/archives/10263)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [show-me-the-react - A Google Chrome extension that highlights React components on the page](https://github.com/cymen/show-me-the-react)
