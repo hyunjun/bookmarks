@@ -358,6 +358,7 @@ AWS
 * [Serverless - TypeScript로 서버리스 프레임워크(Serverless Framework)를 활용한 서버리스 아키텍처 구현](https://chaewonkong.github.io/posts/serverless-framework-typescript.html)
 * [아마존 ECR, 도커 이미지 취약점 스캔 기능 추가](https://www.44bits.io/ko/post/news--amazon-ecr-docker-image-vulnerabilities-scanning)
 * [AWS Outposts / Wavelength / Local Zones 개념 정리](https://dev.classmethod.jp/cloud/aws/aws-outposts-wavelength-localzones-concept-intro-korean/)
+* [AWS Wavelength - Part 1 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1118)
 * [aws-dynamic-cloudfront](https://linuxer.name/2020/01/aws-dynamic-cloudfront/)
 * [aws-EFS-backup-restore](https://linuxer.name/2020/01/aws-efs-backup-restore/)
 * [AWS - serverless-image-handler](https://medium.com/@kevin_park/aws-serverless-image-handler-de68255bc879)
