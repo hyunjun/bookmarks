@@ -297,6 +297,11 @@ ElasticSearch - Lucene
 * Dockerfile
   * [docker-library/elasticsearch/1.7/Dockerfile](https://github.com/docker-library/elasticsearch/blob/master/1.7/Dockerfile)
   * [example](https://github.com/rutesun/dockerfiles/blob/c3bc90e93e1c4e8d46ffda6dffc81f99343935fa/elasticsearch/1.7.3/Dockerfile)
+  * [HowookJeong/ecos-installer-web](https://github.com/HowookJeong/ecos-installer-web)
+    * AWS 기반, Springboot Web UI
+    * Terraform + Ansible 필요한 인스턴스 생성 소프트웨어 설치
+    * Elasticsearch Cluster 를 Node Topology 에 맞춰 설정/등록하고 생성/실행
+    * S3 Backend 를 이용해서 terraform state 파일 저장, 생성된 클러스터에 노드 추가
 * [Docker Networking](https://www.elastic.co/kr/blog/docker-networking)
 * [What's differ dockerfile/elasticsearch](https://github.com/seapy/dockerfiles/tree/master/elasticsearch)
 * elasticsearch server status 503, discovery fails
