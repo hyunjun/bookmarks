@@ -539,6 +539,7 @@ Business
 * [스포카가 OKR로 목표를 달성하기까지](https://spoqa.github.io/2020/05/08/okr-to-goal.html)
 * [OKR 실전 적용 경험담 | Popit](https://www.popit.kr/okr-%EC%8B%A4%EC%A0%84-%EC%A0%81%EC%9A%A9-%EA%B2%BD%ED%97%98%EB%8B%B4/)
 * [Book OKR - 전설적인 벤처투자자가 구글에 전해준 성공 방식 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1525)
+* [CPO가 활용하는 프레임워크 5가지](https://brunch.co.kr/@yongjinjinipln/83) Goals-Signals-Metrics (GSM), KPI Graphs, HEART, HOSKR, OKRs
 
 # Patent
 * 세기의 특허전쟁
