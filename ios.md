@@ -123,6 +123,7 @@ iOS
   * [iOS 애니매이션 라이브러리 ‘히어로’, 오픈소스로 공개](http://www.bloter.net/archives/270034)
 * [iOS 9 GUI (iPhone) - Photoshop and Sketch templates of GUI elements found in the public release of iOS 9](http://facebook.github.io/design/ios9.html)
 * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
+* [Jandi: 🌱 Growth everyday your github contributions in macOS status bar](https://github.com/techinpark/Jandi)
 * [libimobiledevice - A cross-platform software protocol library and tools to communicate with iOS® devices natively](http://www.libimobiledevice.org/)
 * [PINCache - Fast, non-deadlocking parallel object cache for iOS and OS X](https://github.com/pinterest/PINCache)
 * [ReactNativeDuckie : iOS App Development with React Native and ClojureScript](https://github.com/cheolhee/ReactNativeDuckie)
