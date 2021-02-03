@@ -290,6 +290,7 @@ NLP
 * [I build my ideas #8 - 07/19/20 - I build my ideas from Jordan Singer](https://ibuildmyideas.substack.com/p/i-build-my-ideas-8-071920)
 * [Text generation with a Variational Autoencoder](https://nicgian.github.io/text-generation-vae/)
 * [Sentence Simplification with Seq2Seq](https://towardsdatascience.com/sentence-simplification-with-seq2seq-1b20d05a4663)
+* [seq2seq.ipynb - Colaboratory](https://colab.research.google.com/gist/hyunjun/6638d69b18deec4c6971062fe0066140/seq2seq.ipynb)
 * [Integrating Transformer and Paraphrase Rules for Sentence Simplification](https://github.com/Sanqiang/text_simplification)
 * [How Transformers Work](https://towardsdatascience.com/transformers-141e32e69591)
 * [Transformer (Attention Is All You Need) 구현하기 (1/3)](https://paul-hyun.github.io/transformer-01/)
