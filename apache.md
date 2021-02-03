@@ -585,6 +585,7 @@ Apache
 * [Disaster Recovery for Multi-Region Kafka at Uber | Uber Engineering Blog](https://eng.uber.com/kafka/)
   * [summary](https://gist.github.com/hyunjun/c176ac5d9f9dcc478ac6c28f56ca2b6f#file-uber_kafka_summary)
 * [How Zendesk Secures Kafka with Self-Hosted mTLS Authentication System](https://www.confluent.io/blog/how-zendesk-secures-kafka-with-mtls-authentication-system/)
+* [Property Based Testing Confluent Cloud Storage for Fun and Safety](https://www.confluent.io/blog/property-based-testing-confluent-tiered-storage/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
@@ -665,7 +666,9 @@ Apache
 * [librdkafka: The Apache Kafka C/C++ library](https://github.com/edenhill/librdkafka)
 * MAADS [Machine Learning and AI at Scale with MAADS-VIPER and Apache Kafka](https://www.confluent.io/blog/transactional-machine-learning-with-maads-viper-and-apache-kafka/)
 * [mockedstreams - Scala DSL for Unit-Testing Processing Topologies in Kafka Streams](https://github.com/jpzk/mockedstreams)
-* rest proxy [카프카의 토픽 데이터를 REST api로 주고받자 - Kafka rest proxy 사용](https://blog.voidmainvoid.net/345)
+* rest proxy
+  * [카프카의 토픽 데이터를 REST api로 주고받자 - Kafka rest proxy 사용](https://blog.voidmainvoid.net/345)
+  * [Confluent REST Proxy 6.0: Putting Apache Kafka to REST](https://www.confluent.io/blog/confluent-rest-proxy-putting-kafka-to-rest/)
 * [Trifecta - a web-based and Command Line Interface (CLI) tool that enables users to quickly and easily inspect, verify and even query Kafka messages](https://github.com/ldaniels528/trifecta)
 * [trivup - Trivially Up a cluster of applications](https://github.com/edenhill/trivup)
   * 프로그래밍 방식으로 카프카 클러스터를 구축하고 해체하는 도구. 클라이언트 응용 프로그램에 대한 Kafka의 SSL 인증 및 암호화 지원
