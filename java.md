@@ -1409,6 +1409,7 @@ Java
 * [Reverse Polish notation is easy with test-driven development](https://medium.com/@alonso.delarte/reverse-polish-notation-is-easy-with-test-driven-development-670dfc7bb47c)
 * [통합 테스트에서 INSERT 쿼리 위한 보조 클래스 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/helper-for-insert-query-in-inttest)
 * [Integration Testing from the Trenches - Nicolas Frankel - Singapore Java User Group - YouTube](https://www.youtube.com/watch?v=BTooPk65XJE)
+* [Step by Step Toward Property Based Testing | LeadingAgile](https://www.leadingagile.com/2018/04/step-by-step-toward-property-based-testing/)
 * ArchUnit [How to test your Java project’s architecture with ArchUnit](https://medium.freecodecamp.org/java-archunit-testing-the-architecture-a09f089585be)
 * [AssertJ가 JUnit의 assertThat 보다 편리한 이유](https://www.youtube.com/watch?v=zLx_fI24UXM)
 * DBUnit
