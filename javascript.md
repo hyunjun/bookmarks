@@ -136,7 +136,6 @@ Javascript
 * [How to keep your JavaScript code simple and easy to read](https://medium.freecodecamp.org/how-to-keep-your-javascript-code-simple-and-easy-to-read-bff702523e7c)
 * [CODE GENIUS - Using JavaScript to Teach JavaScript by John Resig](https://www.youtube.com/watch?v=H4sSldXv_S4)
 * [c0dility - Refactor yourself](https://codility.com/programmers/)
-* [Jison debugger](http://nolanlawson.github.io/jison-debugger/)
 * [dailyjs.com](http://dailyjs.com/)
 * [watchcode.net](https://sub.watchmecode.net/)
 * [www.outlearn.com/learn/jonathanfmills/advanced-js](https://www.outlearn.com/learn/jonathanfmills/advanced-js)
@@ -194,7 +193,6 @@ Javascript
 * [JavaScript is the C++ of the Web](http://pointersgonewild.com/2015/08/02/javascript-is-the-c-of-the-web/)
 * [Liquid Guilloché](http://max.io/articles/liquid-guilloche/)
 * [Circuit Simulator](http://lushprojects.com/circuitjs/)
-* [JavaScript Debugging Tips and Tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
 * [40 Useful JavaScript Tips, Tricks and Best Practices](https://www.designmycodes.com/javascript/javascript-tips-and-tricks.html)
 * [9 JavaScript Tricks To Code Like A Pro!](https://medium.com/swlh/9-javascript-tricks-to-code-like-a-pro-d09ea534235)
 * [5 Useful Tricks JavaScript has been Hiding from You | by Alexandre Zajac | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/5-useful-tricks-javascript-has-been-hiding-from-you-b7fa38bd98d8)
@@ -204,7 +202,6 @@ Javascript
 * [번역 11가지 극도로 유용한 JavaScript 팁](https://chaewonkong.github.io/posts/11-useful-js-tips.html)
 * [Using Graph Theory to Build a Simple Recommendation Engine in JavaScript](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3)
 * [Longevity (or Lack Thereof) in JavaScript Frameworks](http://blog.bitovi.com/longevity-or-lack-thereof-in-javascript-frameworks/)
-* [디버깅 피들러 사용법 #피들러사용법 #how to check sent data in ajax #how to know response result in ajax](http://blog.naver.com/chowin21/220450611283)
 * [A simpler web architecture using Flux, CSP, and FRP concepts](http://codrspace.com/allenkim67/a-simpler-web-architecture-using-flux-csp-and-frp-concepts/)
 * [Polygonal Map Generation for Games](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)
 * [backdooring your javascript using minifier bugs](https://zyan.scripts.mit.edu/blog/backdooring-js/)
@@ -285,7 +282,6 @@ Javascript
   * [변수 변경 탐지하기](https://www.zerocho.com/category/JavaScript/post/5a6578a3c994bd001ba0f9d9)
 * [github.com/apoterenko](https://github.com/apoterenko?tab=repositories) books
 * [당신이 모를 수도 있는 크롬 개발자 콘솔 기능들](https://www.vobour.com/book/view/M44A6i977adRR54g2)
-* [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
 * [Four for's 자바스크립트의 네 가지 for 문](https://brunch.co.kr/@linterpreteur/9)
 * [자바스크립트에서 for 루프를 다시 생각해보자](http://hamait.tistory.com/889)
 * [Hacks on YouTube Mozilla Korea Community on Slack Hacks RSS Feed JavaScript 게임의 컨트롤 메카니즘](http://hacks.mozilla.or.kr/2016/11/control-mechanisms-in-javascript-games)
@@ -913,6 +909,13 @@ Javascript
 * [FE개발자의 성장 스토리 04 : 공동체 FE 온라인 세션 후기 – tech.kakao.com](https://tech.kakao.com/2020/12/23/frontend-growth-04/)
 
 # D3 -> [data visualization](data_visualization.md)
+
+# Debugging
+* [디버깅 피들러 사용법 #피들러사용법 #how to check sent data in ajax #how to know response result in ajax](http://blog.naver.com/chowin21/220450611283)
+* [JavaScript Debugging Tips and Tricks](http://www.zsoltnagy.eu/javascript-debugging-tips-and-tricks/)
+* [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
+* [Debugging in the Browser - DEV Community](https://dev.to/bello/debugging-in-the-browser-4ece)
+* [Jison debugger](http://nolanlawson.github.io/jison-debugger/)
 
 # ECMAScript
 * [es6-features.org](http://es6-features.org)
