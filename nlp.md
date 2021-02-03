@@ -983,6 +983,8 @@ NLP
   * [페이스북, 자연어 처리 프로젝트를 오픈소스로 전환](http://www.ciokorea.com/news/113247)
   * [Introducing PyText - Facebook’s New Framework for Better NLP Development](https://towardsdatascience.com/introducing-pytext-d8f404f1745)
 * [quepy - A python framework to transform natural language questions to queries in a database query language](https://github.com/machinalis/quepy)
+* [recsys-nlp-graph: 🛒 Simple recommender with matrix factorization, graph, and NLP](https://github.com/eugeneyan/recsys-nlp-graph)
+  * [그래프 & 자연어처리 기법으로 추천 시스템 개발하기 - pytorch - 러닝머신의 Train Data Set](https://myeonghak.github.io/graph%20neural%20networks/recommender%20systems/Beating-the-baseline-recommender-using-Graph-and-NLP-techniques-in-PyTorch/)
 * [Rouzeta - 유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/)
   * [유한 상태 기반의 한국어 형태소 분석기](http://readme.skplanet.com/?p=13166)
   * [유한 상태 기반의 한국어 형태소 분석기](https://shleekr.github.io/2016/06/30/introducing-rouzeta/)
