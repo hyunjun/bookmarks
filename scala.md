@@ -1641,6 +1641,7 @@ Scala
 * [Night Dreamer #1 – Marrying Scala 3 to LWJGL - YouTube](https://www.youtube.com/watch?v=vSv2t-Kkb64)
 * [What's new in Scala 3: all the "small" things - YouTube](https://www.youtube.com/watch?v=GCuskYmhvAc)
 * [Ep 6: Functional error handling with applicative in Scala 3 - YouTube](https://www.youtube.com/watch?v=3GPXEzO14ZE)
+* [Scala 3: Match Types | Rock the JVM - YouTube](https://www.youtube.com/watch?v=YiPQxIQZn5M)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
