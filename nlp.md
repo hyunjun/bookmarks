@@ -300,6 +300,7 @@ NLP
 * [구글 AI 리포머: 효율적인 트랜스포머](https://brunch.co.kr/@synabreu/31) ipynb
 * [Transformer:언어 이해를 위한 새 신경망 구조](https://brunch.co.kr/@synabreu/94)
 * [How-to Build a Transformer for Language Classification in TensorFlow](https://morioh.com/p/549c05d48f8e)
+* [NLP 논문 구현 pytorch로 구현하는 Transformer (Attention is All You Need) – Hansu Kim](https://cpm0722.github.io/pytorch-implementation/transformer)
 * [10 Exciting Ideas of 2018 in NLP](https://databreak.netlify.com/2019-03-28-Exciting_Ideas_NLP_2018/)
 * [Talk Powerpoint Generator](https://korymath.github.io/talk-generator/)
 * [#자연어, #시퀀스를 위한 #재귀신경망 성능향상 기법! 대공개!! 첫번째!](https://www.youtube.com/watch?v=EZnG78g4moI)
