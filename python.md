@@ -3280,6 +3280,7 @@ Python
 * [free.codebashing.com/courses/python/lessons/sql_injection](https://free.codebashing.com/courses/python/lessons/sql_injection) 파이썬으로 대화형 sql injection test
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
 * [LanderDB - An embedded database engine written in Python](https://github.com/Max00355/LanderDB)
+* [marshmallow: simplified object serialization](https://marshmallow.readthedocs.io/)
 * MySQL-python
   * [practice - installation on Redhat & Ubuntu](https://gist.github.com/hyunjun/4c59ebcbc8d4129afd336700f3bef558#file-installation-md)
   * [practice - installation on macos sierra](https://gist.github.com/hyunjun/4c59ebcbc8d4129afd336700f3bef558)
@@ -3310,6 +3311,7 @@ Python
   * [Pythonic Database Management with SQLAlchemy](https://hackingandslacking.com/pythonic-database-management-with-sqlalchemy-3a6b99b102a0)
   * [Basics of SQL in Python for Data Scientists | by Nick Minaie, PhD | Towards Data Science](https://towardsdatascience.com/sql-in-python-for-beginners-b9a4f9293ecf)
   * [How to Create Joins in SQLAlchemy - YouTube](https://www.youtube.com/watch?v=FDrB5X3zSHc)
+  * [book-rental-service/models.py at master · RavenKyu/book-rental-service](https://github.com/RavenKyu/book-rental-service/blob/master/book_rental_manager/models.py)
   * [Alembic - a lightweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python](https://alembic.sqlalchemy.org/)
     * [SQLAlchemy and Alembic](https://www.slideshare.net/ssuser80e030/sqlalchemy-and-alembic)
     * [alembic을 이용해 DB 마이그레이션 하기 (1)](https://codeac.tistory.com/114)
