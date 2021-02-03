@@ -36,6 +36,8 @@ Finance
 * [A Step-By-Step Guide To Building a Trading Bot In Any Programming Language | by Yakko Majuri | Aug, 2020 | Noteworthy - The Journal Blog](https://blog.usejournal.com/a-step-by-step-guide-to-building-a-trading-bot-in-any-programming-language-d202ffe91569)
 * [코스피 ETF의 종류와 매월 일정금액을 투자했다면 그 결과는?!](https://tariat.tistory.com/968)
 * [적립식 ETF 투자의 장점과 단점은?!](https://tariat.tistory.com/971)
+* [국내 배당주 ETF 3가지 추천!](https://rollingbean.tistory.com/12)
+  * [요즘 부자들 '이것'을 조용히 모으고 있다 - YouTube](https://www.youtube.com/watch?v=dPV9X72Ifxk) Kodex 배당성장 ETF Arirang고배당주
 * [금융저널에 실린 기계학습논문을 구현한 MLFinLab | | 그대안의 작은 호수](https://smallake.kr/?p=28572)
 * ['국내외 주식 분석 리포트/해외 주식' 카테고리의 글 목록](https://ryanydollardollarbill.tistory.com/category/%EA%B5%AD%EB%82%B4%EC%99%B8%20%EC%A3%BC%EC%8B%9D%20%EB%B6%84%EC%84%9D%20%EB%A6%AC%ED%8F%AC%ED%8A%B8/%ED%95%B4%EC%99%B8%20%EC%A3%BC%EC%8B%9D)
 * ['블랙록'은 '금융 플랫폼' 회사다!](https://brunch.co.kr/@gauss92tgrd/16)
