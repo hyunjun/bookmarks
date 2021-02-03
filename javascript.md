@@ -227,6 +227,7 @@ Javascript
 * [A basic guide to Closures in JavaScript](https://medium.freecodecamp.org/a-basic-guide-to-closures-in-javascript-9fc8b7e3463e)
 * [Discover the power of closures in JavaScript](https://medium.freecodecamp.org/discover-the-power-of-closures-in-javascript-5c472a7765d7)
 * [A simple guide to help you understand closures in JavaScript](https://medium.freecodecamp.org/javascript-closures-simplified-d0d23fa06ba4)
+* [클로저(closure)의 개념과 클로저를 이용한 캡슐화(encapsulation)](https://blog.naver.com/dlaxodud2388/222150877668)
 * [The JavaScript Encyclopedia](http://www.crockford.com/javascript/encyclopedia/)
 * [아마존 대시버튼으로 피자 주문을?](http://techholic.co.kr/archives/41436)
 * [Full-Scale JavaScript](https://www.getrevue.co/profile/fsjs/archive/6885)
