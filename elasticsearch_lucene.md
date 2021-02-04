@@ -713,6 +713,7 @@ ElasticSearch - Lucene
 * [Elasticsearch - Introduction to Searching](https://www.youtube.com/watch?v=5Bd0BB03mb0)
 * [Elasticsearch](https://www.youtube.com/playlist?list=PLlg3hnqqh7qEriIpdMSOLJzO5KhYffXua)
 * [~엘라스틱서치로 검색 전문가가 되자! 01. 시작~](http://lemonism.net/258)
+* [**꿀벌개발일지 :: 엘라스틱서치 시작하기 노트**](https://ohgyun.com/794)
 * [튜토리얼 ElasticSearch - TLS 암호화 및 HTTPS 사용](https://techexpert.tips/ko/%ED%83%84%EC%84%B1-%EA%B2%80%EC%83%89/%ED%83%84%EB%A0%A5%EC%A0%81-%EA%B2%80%EC%83%89-tls-%EC%95%94%ED%98%B8%ED%99%94-%EB%B0%8F-https-%ED%86%B5%EC%8B%A0-%EC%82%AC%EC%9A%A9/)
 
 # X-Pack
