@@ -51,6 +51,7 @@ AWS
 * [Introducing the AWS SDK for C++](https://aws.amazon.com/ko/blogs/aws/introducing-the-aws-sdk-for-c/)
 * [Amazon Elasticsearch Service](https://aws.amazon.com/ko/blogs/aws/new-amazon-elasticsearch-service/)
 * [Deploying a 2 node Elasticsearch cluster on ec2 instance](https://blog.knoldus.com/deploying-a-2-node-elasticsearch-cluster-on-ec2-instance/)
+* [꿀벌개발일지 :: AWS: ElasticSearch 사이즈 최적화](https://ohgyun.com/795)
 * [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services](https://github.com/servant-app/JAWS)
 * [Serverless Framework V0 (BETA) The Serverless Application Framework Powered By Amazon Web Services - serverless.com](https://github.com/serverless/serverless)
 * [DEEP = Digital Enterprise End-to-end Platform https://www.deep.mg](https://github.com/MitocGroup/deep-framework)
