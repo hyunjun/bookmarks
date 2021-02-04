@@ -210,6 +210,7 @@ Programming Language
   * [Announcing Elm Optimize Level 2! - Show and Tell - Elm](https://discourse.elm-lang.org/t/announcing-elm-optimize-level-2/6192)
   * [How to setup IHP with Elm | DrifterCode](https://driftercode.com/blog/ihp-with-elm/)
   * [elm-review v2!](https://jfmengels.net/elm-review-v2/)
+  * [Elm at Rakuten - DEV Community](https://dev.to/lucamug/elm-6m8)
   * [elm-language-server](https://github.com/elm-tooling/elm-language-server/blob/master/README.md)
 * [English script - English as a programming language!](https://github.com/pannous/english-script/)
 * [Factor - a practical stack language](http://factorcode.org/)
