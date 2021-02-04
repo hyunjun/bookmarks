@@ -661,6 +661,7 @@ Javascript
   * [A quick guide to JavaScript Arrays | by Abdul Haseeb Khan | Weekly Webtips | Medium](https://medium.com/weekly-webtips/a-modest-guide-to-javascript-arrays-502b5a708acc)
   * [How array.prototype.map() works](https://medium.freecodecamp.org/how-array-prototype-map-works-b6b69379c3af)
   * [Array 메소드(push, pop 등) 알아보기](https://blog.naver.com/pjt3591oo/222210241412)
+  * [Array를 반복문에서 사용하는 방법](https://blog.naver.com/pjt3591oo/222231590683)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
