@@ -806,6 +806,7 @@ Javascript
 * [Angular Refactoring Examples. Common patterns, tips & tricks, for… | by Erxk Verduin | Sep, 2020 | ITNEXT](https://itnext.io/angular-refactoring-examples-1fc16c4e58ff)
 * [Eager Loading in Angular. In Angular, there are 3 main types of… | by Chameera Dulanga | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/eager-loading-in-angular-7aab94c09ab3)
 * [Packaging your Spring Boot and Angular 2+ projects together | by Diego Hordi | Level Up Coding](https://levelup.gitconnected.com/packaging-your-spring-boot-and-angular-2-projects-together-a13a9c5efdb7)
+* [Angular - Tutorial To Prototyping | LinkedIn](https://www.linkedin.com/pulse/angular-tutorial-prototyping-indrayudh-roy/)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
