@@ -110,3 +110,4 @@ Monitoring
 * [Prometheus Node Exporter Tutorial | Monitor CPU, Memory, Disk etc.](https://www.youtube.com/watch?v=_h78zXBWjAU)
 * [prometheus-for-developers: Practical introduction to Prometheus for developers](https://github.com/danielfm/prometheus-for-developers)
 * [Level up your shell history with Loki and fzf | Opensource.com](https://opensource.com/article/20/10/shell-history-loki-fzf)
+* [Prometheus in a Clojure stack: Duct, Jetty, Compojure/Reitit and Hugsql](https://danlebrero.com/2021/02/03/prometheus-clojure-ring-sql-compojure-reitit/)
