@@ -477,6 +477,7 @@ Docker
 * [M1 맥에서 Docker 사용하기](https://tech.ssut.me/docker-on-m1-mac/)
 * [**컨테이너로 데이터센터 네트워크를 모방해 볼 수 있을까? | Lifestack**](https://ashon.github.io/blog/2020/12/20/homemade-datacenter-network.html)
 * [Jonathan Bergknoff: Run More Stuff in Docker](https://jonathan.bergknoff.com/journal/run-more-stuff-in-docker/)
+* [LINE의 프라이빗 클라우드 Verda 플랫폼의 Verda Reliability Engineering 팀을 소개합니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/verda-reliability-engineering-team/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
