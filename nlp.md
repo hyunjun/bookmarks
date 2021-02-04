@@ -137,6 +137,7 @@ NLP
   * [민감도와 특이도 (sensitivity and specificity)](https://adnoctum.tistory.com/981)
   * [혼돈행렬, 혼돈매트릭스,Confusion Matrix :: 통컨(통계컨설팅)](https://rsas.tistory.com/33)
   * [**정밀도(Precision)와 재현율(Recall) 내용 정리 | Pacientes Devlog**](https://pacientes.github.io/posts/2021/01/ml_precision_recall/)
+  * [AP & mAP 내용 정리 | Pacientes Devlog](https://pacientes.github.io/posts/2021/02/ml_ap_map/) AP(Average Precision) mAP(mean Average Precision)
 * [Natural Language Understanding with Distributed Representation](https://github.com/nyu-dl/NLP_DL_Lecture_Note/blob/master/lecture_note.pdf)
 * [Repository for PyCon 2016 workshop Natural Language Processing in 10 Lines of Code](https://github.com/cytora/pycon-nlp-in-10-lines)
 * [Deep Learning the Stock Market](https://medium.com/@TalPerry/deep-learning-the-stock-market-df853d139e02)
@@ -287,6 +288,7 @@ NLP
 * [Can GPT-3 Make Analogies?. By Melanie Mitchell | by Melanie Mitchell | Medium](https://medium.com/@melaniemitchell.me/can-gpt-3-make-analogies-16436605c446)
 * [GPT-3은 얼마내고 써야할까요?](https://media-ai.tistory.com/16) 계산 과정이 재미있음
 * [minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training](https://github.com/karpathy/minGPT) 일종의 교육용 GPT
+* [꿀벌개발일지 :: 뉴스: GPT-Neo 를 개발하고 있다는 소식](https://ohgyun.com/796)
 * [I build my ideas #8 - 07/19/20 - I build my ideas from Jordan Singer](https://ibuildmyideas.substack.com/p/i-build-my-ideas-8-071920)
 * [Text generation with a Variational Autoencoder](https://nicgian.github.io/text-generation-vae/)
 * [Sentence Simplification with Seq2Seq](https://towardsdatascience.com/sentence-simplification-with-seq2seq-1b20d05a4663)
@@ -1596,6 +1598,7 @@ NLP
 * [음성인식 코드 짜는 최단 경로 (With Naver Cloud Platform): 순식간에 STT 완성하기](https://dev-sngwn.github.io/2020-01-13-stt-step-by-step/)
 * [텍스트를 음성 mp3로 간단하게 변환하기 (With Naver Cloud Platform)](https://dev-sngwn.github.io/2020-02-16-tts-step-by-step/)
 * [**연구자로 성장하기 Audio알못에서 VCC2020참가까지 (카카오엔터프라이즈 인턴 후기) - Subinium의 코딩일지**](https://subinium.github.io/kep-vcc2020-review/)
+* [꿀벌개발일지 :: 클럽하우스와 음성 데이터](https://ohgyun.com/797)
 * [AudioSet - A massive dataset of manually annotated audio events](https://research.google.com/audioset/)
 * [g2pK: g2p module for Korean](https://github.com/Kyubyong/g2pK) 발음 생성 모듈. TTS의 전처리 모듈로 흔히 사용
 * [Hound Internal Demo](https://www.youtube.com/watch?v=M1ONXea0mXg)
