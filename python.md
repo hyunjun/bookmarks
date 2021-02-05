@@ -3029,6 +3029,7 @@ Python
   * [PyV8을 이용한 자바스크립트 악성코드 분석하기](http://www.hanul93.com/kicomav-pyv8/)
   * [Python, PyV8로 javascript 실행하기](https://blog.naver.com/dudwo567890/220895234080)
 * [PyVNCs - Simple command line multiplatform python VNC Server](https://github.com/radixcl/pyvncs)
+* pyzbar [파이썬 Python 코딩 - 바코드 QR코드 리더기 만들기 Scanning Bar Code Qr Code - Opencv, Pyzbar with Python - YouTube](https://www.youtube.com/watch?v=CUNVIfmfGuE)
 * QPython
   * [1. 개발환경 구축](http://m.blog.naver.com/dls001215/220972361443)
 * [quack - Build system on top of build systems](https://github.com/Autodesk/quack)
@@ -3452,6 +3453,7 @@ Python
   * [포에트리를 사용한 파이썬 프로젝트 관리 방법](http://www.itworld.co.kr/news/145472)
   * [**Hypermodern Python**](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/) pyenv, click, requests
   * [A hygienic Python setup for Linux, Mac, and WSL | by Ben Kehoe | Sep, 2020 | A Cloud Guru](https://read.acloud.guru/my-python-setup-77c57a2fc4b6)
+  * [Hello Poetry (Dependency Management for Python)](https://jybaek.tistory.com/891)
 * [py2app - Create standalone Mac OS X applications with Python](https://py2app.readthedocs.io/)
 * pyenv
   * [pyenv Tutorial](https://amaral.northwestern.edu/resources/guides/pyenv-tutorial)
