@@ -89,6 +89,7 @@ SQL
   * [(즐겁게 배우는 SQL #42) 제약 조건 - AUTOINCREMENT 제약](https://jhrogue.blogspot.com/2021/01/sql-42-autoincrement.html)
   * [(즐겁게 배우는 SQL #43) 뷰 - 뷰 생성](https://jhrogue.blogspot.com/2021/02/sql-43.html)
   * [(즐겁게 배우는 SQL #44) 뷰 - 뷰 제거](https://jhrogue.blogspot.com/2021/02/sql-44.html)
+  * [(즐겁게 배우는 SQL #45) 색인 - 색인](https://jhrogue.blogspot.com/2021/02/sql-45.html)
 * [고독쓰나미 - YouTube](https://www.youtube.com/channel/UClUrjhtzmAJL-sgXe6sNUkw)
 * [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
 * [EDB is a framework to make and manage backups of your database](https://github.com/RoxasShadow/EDB)
