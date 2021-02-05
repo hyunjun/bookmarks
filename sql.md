@@ -141,6 +141,7 @@ SQL
 * [관계형 데이터 모델링](https://opentutorials.org/module/4134)
   * [관계형 데이터 모델링](https://www.youtube.com/playlist?list=PLuHgQVnccGMDF6rHsY9qMuJMd295Yk4sa)
 * [Database 모델링에 대해서 정리해 봅니다](https://developer88.tistory.com/327)
+* [데이터 모델링이란? (관계형 DB 편)](https://bitnine.tistory.com/446)
 * [검색엔진과 DB Like 검색의 결과가 다른 이유](https://www.slideshare.net/heungrae_kim/db-like)
 * [코호트 분석(Cohort Analysis)을 SQL로 구현하는 테스트 코드](https://www.sangkon.com/using_sql_for_cohort/)
 * [Write-Ahead Log for Dummies](https://work.tinou.com/2012/09/write-ahead-log.html)
