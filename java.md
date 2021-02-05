@@ -1002,6 +1002,8 @@ Java
   * [WebSocket, STOMP을 연동한 채팅서비스 구현](http://scw0531.blog.me/221097188275)
   * [자바 Stomp Client 성능 개선기](https://hyperconnect.github.io/2020/03/24/improve-stomp-client.html)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
+* [Thumbnailator - a thumbnail generation library for Java](https://github.com/coobird/thumbnailator)
+  * [이미지 썸네일 만들기 #썸네일종결자 #Thumbnailator #java - YouTube](https://www.youtube.com/watch?v=EourFsgdRI8)
 * [TLB - Test Load Balancer(TLB)](http://test-load-balancer.github.io/)
 * [tCache - Scalable data-aware Java Caching Highly scalable, flexible caching within the JVM Heap](http://tech.trivago.com/2015/10/15/tcache/)
 * [To-Excel - This is a library that makes Excel easier to use in Java](https://github.com/ckpoint/ToExcel)
@@ -1348,6 +1350,7 @@ Java
 * [스프링 부트 폼 데이터 유효성 체크 - YouTube](https://www.youtube.com/watch?v=aLxnSKOqrDU)
 * [스프링 부트 쇼핑몰 샘플 #JPetStore - YouTube](https://www.youtube.com/watch?v=nPf1I-1NGZE)
 * [스프링 부트 JPetStore 쇼핑몰 예제의 DB에 접근하기 #DBeaver - YouTube](https://www.youtube.com/watch?v=iH2ZuNlrI9o)
+* [마이바티스 SQL 매퍼 버그 수정하기 #JPetStore #MyBatis - YouTube](https://www.youtube.com/watch?v=pz6XBMxs8kE)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
