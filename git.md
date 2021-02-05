@@ -216,6 +216,7 @@ Git
 * [2020년식으로 블로그 빌드 고치기 · /usr/lib/libsora.so](https://libsora.so/posts/migration-blog-2020/)
 * [ci skip 커밋 메시지로 GitHub Actions 실행 취소하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1513)
 * [GitHub Actions와 Fastlane을 사용해서 React Native 앱 배포하기 - GitHub Actions와 Fastlane을 사용해서 React Native로 개발한 앱을 자동으로 배포해 봅시다.](https://dev-yakuza.posstree.com/ko/react-native/github-actions-fastlane/)
+* [리서치 코드의 지속적 통합(CI) 튜토리얼(상편). By 송호연 | by Riiid Techblog | Feb, 2021 | Medium](https://riiidtechblog.medium.com/%EB%A6%AC%EC%84%9C%EC%B9%98-%EC%BD%94%EB%93%9C%EC%9D%98-%EC%A7%80%EC%86%8D%EC%A0%81-%ED%86%B5%ED%95%A9-ci-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-%EC%83%81%ED%8E%B8-aae5fabea681)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
