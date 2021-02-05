@@ -444,6 +444,7 @@
   * [Sending Spark DataFrame via mail](https://medium.com/@n.suthar.online/sending-spark-dataframe-via-mail-f396b1810d89)
   * [How I achieved 3x speedup for joins over Spark dataframes](https://medium.com/@cbhaavan/3x-performance-improvement-for-joins-on-spark-dataframe-d79e93a5fc48)
   * [Deep dive into Apache Spark Window Functions | by Neeraj Bhadani | Expedia Group Technology | Medium](https://medium.com/expedia-group-tech/deep-dive-into-apache-spark-window-functions-7b4e39ad3c86)
+  * [Making the Spark DataFrame composition type safe(r) | by Iaroslav Zeigerman | Feb, 2021 | Medium](https://izeigerman.medium.com/making-the-spark-dataframe-composition-type-safe-r-7b6fed524ec2)
 * Datasets
   * [Introducing Spark Datasets](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
