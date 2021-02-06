@@ -121,6 +121,7 @@ SQL
 * [SQL이란: 데이터 쿼리와 관리](https://ko.khanacademy.org/computing/computer-programming/sql)
 * [데이터베이스 관리 도구: SQLGate 키보드 단축키](http://blog.gaerae.com/2017/11/sqlgate-keyboard-shortcuts.html)
 * [Software engineer — from monolith to cloud: Auto Increment to UUID](https://coder.today/software-engineer-from-monolith-to-cloud-auto-increment-to-uuid-a62f92f387c4)
+* [Reasons why SELECT * is bad for SQL performance | Tanel Poder Consulting](https://tanelpoder.com/posts/reasons-why-select-star-is-bad-for-sql-performance/)
 * [UUIDs are Popular, but Bad for Performance — Let’s Discuss](https://www.percona.com/blog/2019/11/22/uuids-are-popular-but-bad-for-performance-lets-discuss/)
 * [Generating UUIDs at scale on the Web | by Matthieu Wipliez | Teads Engineering | Jul, 2020 | Medium](https://medium.com/teads-engineering/generating-uuids-at-scale-on-the-web-2877f529d2a2)
 * [uuid-readable: Generate Easy to Remember, Readable UUIDs, that are Shakespearean and Grammatically Correct Sentences 🥳](https://github.com/Debdut/uuid-readable)
@@ -468,6 +469,7 @@ SQL
 * [**장애와 관련된 XtraBackup 적용기**](http://woowabros.github.io/experience/2018/05/28/billingjul.html) mysqldump, mysqlbinlog, XtraBackup
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
 * [Xtrabackup으로 DB 복구하기](https://jojoldu.tistory.com/469)
+* [The MySQL Clone Wars: Plugin vs. Percona XtraBackup - Percona Database Performance Blog](https://www.percona.com/blog/2021/01/19/the-mysql-clone-wars-plugin-vs-percona-xtrabackup/)
 * [MySQL High Availability at GitHub](https://githubengineering.com/mysql-high-availability-at-github/)
 * [Speed Up Your Database 300 Times](https://speakerdeck.com/afilina/speed-up-your-database-300-times)
 * [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
@@ -706,6 +708,7 @@ SQL
 * [PostgreSQL Database Security: What You Need To Know - Percona Database Performance Blog](https://www.percona.com/blog/2021/01/04/postgresql-database-security-what-you-need-to-know/)
 * [Migrating From Oracle to PostgreSQL - What You Should Know | Severalnines](https://severalnines.com/database-blog/migrating-oracle-postgresql-what-you-should-know)
 * [A Complete Guide to SQL Triggers in PostgreSQL - DB Tracking Example](https://blog.arctype.com/learn-sql-triggers/)
+* [Talking to Postgres Through Java 16 Unix-Domain Socket Channels - Gunnar Morling](https://www.morling.dev/blog/talking-to-postgres-through-java-16-unix-domain-socket-channels/)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
@@ -838,6 +841,7 @@ SQL
 * [CG/SQL: Easy, accurate SQLite code generation - Facebook Engineering](https://engineering.fb.com/open-source/cg-sql/)
 * [DB Browser for SQLite](https://sqlitebrowser.org/)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
+* [litestream: Streaming S3 replication for SQLite](https://github.com/benbjohnson/litestream)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
 * [simple-graph: This is a simple graph database in SQLite, inspired by "SQLite as a document database"](https://github.com/dpapathanasiou/simple-graph)
 * [sqlitestudio.pl](http://sqlitestudio.pl/)
