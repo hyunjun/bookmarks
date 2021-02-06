@@ -228,6 +228,7 @@ Finance
 * [파이썬 주식 투자 자동화 - YouTube](https://www.youtube.com/playlist?list=PLU9-uwewPMe0fB60VIMuKFV7gPDXmyOzp)
 * [파이스탁 - YouTube](https://www.youtube.com/c/pystock)
 * [Algorithmic Trading Using Python - Full Course - YouTube](https://www.youtube.com/watch?v=xfzGZB4HhEE)
+* [binance-trader-c1](https://github.com/yanagi7393/binance-trader-c1)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
 * [sec-web-scraping](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-finance/sec-web-scraping)
