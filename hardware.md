@@ -48,6 +48,7 @@
 * [Coding with voice dictation using Talon Voice · Josh W Comeau](https://joshwcomeau.com/accessibility/hands-free-coding/)
 * [10기가비트 홈 네트워크 구축하기](https://tech.ssut.me/going-10-gigabit-networking-at-home/)
 * [스마트 식물재배기 앱 만들기 : 네이버 카페](https://cafe.naver.com/creativethon/6432)
+* [kindle-dash: Power efficient dashboard for Kindle 4 NT devices](https://github.com/pascalw/kindle-dash)
 
 # [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
