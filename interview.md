@@ -196,6 +196,8 @@ Interview
 * [Asking Code Questions.. Some suggestions to get better… | by Keno Leon | The Startup | Medium](https://medium.com/swlh/asking-code-questions-baf949dc0c7c)
 * [Everything wrong with the pre-screen SWE Interview. | by Keno Leon | Dev Genius | Medium](https://medium.com/dev-genius/everything-wrong-with-the-pre-screen-swe-interview-723737d81b61)
 * [누구나 원하는 개발자되기 · shiren the creator](https://blog.shiren.dev/2020-11-23/)
+* [Blind Date: The Reality of Software Engineers Hiring Process | by Ofer Karp | Dec, 2020 | Level Up Coding](https://levelup.gitconnected.com/blind-date-the-reality-of-software-engineers-hiring-process-f89754b5a1d4)
+* [How to hire senior developers: Give them more autonomy - Hiring Engineers](https://hiringengineersbook.com/post/autonomy/)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
@@ -537,7 +539,7 @@ Interview
 * [awesome-advent-of-code: A collection of awesome resources related to the yearly Advent of Code challenge](https://github.com/Bogdanp/awesome-advent-of-code)
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
   * [coding.sh](http://coding.sh/) online programming
-* [binarysearch.io Master algorithms together Create a room, invite your friends, and race to finish the problems](https://binarysearch.io)
+* [binarysearch | Learn Algorithms Together](https://binarysearch.com/)
 * [Byteboard - It’s time to step up your interview game](https://byteboard.dev/)
   * [구글, 개발자 실무 면접용 도구 바이트보드 공개](http://www.ciokorea.com/news/126756)
 * [careercup.com](https://www.careercup.com)
