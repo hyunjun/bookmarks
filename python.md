@@ -1286,6 +1286,8 @@ Python
 * urlparse
   * [urlparse – Split URL into component pieces](https://pymotw.com/2/urlparse/)
 * uuid
+  * [timeflake: Timeflake is a 128-bit, roughly-ordered, URL-safe UUID](https://github.com/anthonynsimon/timeflake)
+    * [Timeflake - 128bit, 어느정도 정렬된, URL에도 안전한 UUID | GeekNews](https://news.hada.io/topic?id=3633)
 * with, context manager
   * [with 문과 file에 대한 고찰](http://mcchae.egloos.com/11223913)
   * [**Today I Learned: 파이썬 context manager, with구문으로 안전한 리소스 관리를 하자**](https://sjquant.github.io/파이썬-Context-Manager)
@@ -3036,6 +3038,7 @@ Python
 * [readchar - Utilities to read single characters and key-strokes](https://pypi.python.org/pypi/readchar)
 * [readability - fast python port of arc90's readability tool, updated to match latest readability.js!](https://github.com/buriy/python-readability)
   * [risingdream.kr/lab/readability.html](http://risingdream.kr/lab/readability.html)
+* [reloadr: Hot code reloading tool for Python](https://github.com/hoh/reloadr)
 * [Remap: Nested Data Multitool for Python](http://sedimental.org/remap.html)
 * [REMOVESTAR Tool to automatically replace 'import \*' in Python files with explicit imports](https://www.asmeurer.com/removestar/)
 * [**Requests - an elegant and simple HTTP library for Python, built for human beings**](http://docs.python-requests.org/)
@@ -4141,6 +4144,7 @@ Python
 * [Unit Testing in Python — Patching, Mocks and Dependency Injection | by Martin Thoma | Level Up Coding](https://levelup.gitconnected.com/unit-testing-in-python-mocking-patching-and-dependency-injection-301280db2fed)
 * [CI Pipelines for Python Projects. What is a Continuous Integration… | by Martin Thoma | Level Up Coding](https://levelup.gitconnected.com/ci-pipelines-for-python-projects-9ac2830d2e38)
 * [파이썬으로 테스트 데이터 만들기 · 개발블로그](https://blog.gyus.me/2020/generate-test-data-with-python/)
+* [Test Automation with Python - The 3 Best Tools in 2021](https://www.activestate.com/blog/the-best-python-tools-for-test-automation/)
 * [atheris: A Coverage-Guided, Native Python Fuzzer](https://github.com/google/atheris)
 * faker, factory boy [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
 * [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
@@ -4294,6 +4298,7 @@ Python
   * [Sick of Using Javascript for the Web? Use Browser Python Instead | by Yakko Majuri | The Startup | Medium](https://medium.com/swlh/sick-of-javascript-just-use-browser-python-4b9679efe08b)
 * Falcon [An Introduction to the Falcon Framework | by Esther Vaati | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/an-introduction-to-the-falcon-framework-a787ceea098)
 * [fastapi: FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://github.com/tiangolo/fastapi)
+  * [FastAPI](https://fastapi.tiangolo.com/)
   * [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679)
   * [You Should Start Using FastAPI Now | by Tivadar Danka | Towards Data Science](https://towardsdatascience.com/you-should-start-using-fastapi-now-7efb280fec02)
   * [Intro to FastAPI - The Best Way to Create APIs in Python? - YouTube](https://www.youtube.com/watch?v=kCggyi_7pHg)
