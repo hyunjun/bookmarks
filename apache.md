@@ -587,6 +587,7 @@ Apache
 * [How Zendesk Secures Kafka with Self-Hosted mTLS Authentication System](https://www.confluent.io/blog/how-zendesk-secures-kafka-with-mtls-authentication-system/)
 * [Property Based Testing Confluent Cloud Storage for Fun and Safety](https://www.confluent.io/blog/property-based-testing-confluent-tiered-storage/)
 * [**Kafka on Kubernetes, minimal configuration**](https://gist.github.com/dongjinleekr/fcadc20063553935cfb6536185421ca2)
+* [Beyond the Brokers: A Tour of the Kafka Ecosystem](https://www.slideshare.net/ConfluentInc/beyond-the-brokers-a-tour-of-the-kafka-ecosystem-138678797)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
