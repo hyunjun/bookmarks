@@ -339,6 +339,7 @@ Programming
 * [왜 우리는 Go와 TypeScript를 선택했는가. Java와 Ruby, Python까지 포함해서 5가지 언어를 가져가고… | by 김동현 | 당근마켓 팀블로그 | Jul, 2020 | Medium](https://medium.com/daangn/%EC%99%9C-%EC%9A%B0%EB%A6%AC%EB%8A%94-go%EC%99%80-typescript%EB%A5%BC-%EC%84%A0%ED%83%9D%ED%96%88%EB%8A%94%EA%B0%80-3c08a4cf7ca8)
 * [코딩 1도 없이 서비스 4개 만들기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/222612) 노코드
 * [Managing Technical Debt. DevOps Essentials | by Stephen Kawaguchi | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/managing-technical-debt-b4f30cbccbe0)
+* [Towards an understanding of technical debt | Kellan Elliott-McCrea](https://kellanem.com/notes/towards-an-understanding-of-technical-debt)
 * [Understanding Tech Debt](https://www.slideshare.net/sm9kr/understanding-tech-debt)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-2. 여러 대의 서버에 흩어져 있는 세션을 어떻게 관리할 수 있을까?](https://chagokx2.tistory.com/93)
@@ -975,6 +976,8 @@ Programming
 * [Scale By The Bay 2020: Brecht De Rooms, How Micro-Service Patterns Change When the Database Scalable - YouTube](https://www.youtube.com/watch?v=cL0XIpek-4I)
 * [Scale By The Bay 2020: Panel: Were Microservices a Huge Mistake? - YouTube](https://www.youtube.com/watch?v=YgOOTL5Z-CI) 토론
 * [우아콘2020 배달의민족 데이터베이스 IDC 탈출기 - YouTube](https://www.youtube.com/watch?v=kIVevqv1sEY) monolith DB 이전
+* [Best of 2020: When To Use - and Not To Use - Microservices - Container Journal](https://containerjournal.com/topics/container-ecosystems/when-to-use-and-not-to-use-microservices/)
+* [**Seven Hard-Earned Lessons Learned Migrating a Monolith to Microservices**](https://www.infoq.com/articles/lessons-learned-monolith-microservices/)
 * [Edgar: Solving Mysteries Faster with Observability | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
   * [Building Netflix’s Distributed Tracing Infrastructure | by Netflix Technology Blog | Oct, 2020 | Netflix TechBlog](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
 * [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
@@ -1122,6 +1125,9 @@ Programming
 * [Libvirt - The Unsung Hero of Cloud Computing — Vyom](https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html)
 * [Micro 3.0 (M3O) - a platform for cloud native development | Micro](https://micro.mu/blog/2020/11/05/micro-v3-aka-m3o.html)
   * [Why we are building a CLI first PaaS without a web frontend](https://crufter.com/cli-first-paas)
+* [opstrace: Secure observability, deployed in your own network. An open source alternative to SaaS solutions like datadog, signalfx...](https://github.com/opstrace/opstrace)
+* [Piku - the tiniest PaaS you've ever seen. Git push deployments to your own servers](https://piku.github.io/)
+  * [piku - 초경량 PaaS | GeekNews](https://news.hada.io/topic?id=3659)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
@@ -1211,6 +1217,7 @@ Programming
 * [시니어 엔지니어로 넘어가기 위한 기술: 코드 읽기](http://mkseo.pe.kr/blog/?p=2737)
 * [Code Review Best Practices at Google | Better Programming](https://medium.com/better-programming/13-code-review-standards-inspired-by-google-6b8f99f7fd67)
 * [When DRY Doesn’t Work, Go WET. It’s okay if you repeat yourself | by Nick Bull | Better Programming | Medium](https://medium.com/better-programming/when-dry-doesnt-work-go-wet-6befda0444bf)
+* [The Pros and Cons of DRY Code - Qvault](https://qvault.io/2021/01/25/the-pros-and-cons-of-dry-code/)
 * [How to Make Your Code Reviewer Fall in Love with You · mtlynch.io](https://mtlynch.io/code-review-love/)
 * [Code Review Best Practices – Trisha Gee](https://trishagee.com/presentations/code_review_best_practice/)
 * [Code Review Best Practices - YouTube](https://www.youtube.com/watch?v=3pth05Rgr8U)
@@ -1322,6 +1329,7 @@ Programming
 * [c언어 수열의 부분 합(Prefix Sum) 구하기 - 어떤 방법이 더 빠르고 정확할까](https://bab2min.tistory.com/658)
 * [CS 6120: The Self-Guided Course](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
 * [java - Why is processing a sorted array faster than processing an unsorted array? - Stack Overflow](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) branch prediction
+* [Cyclic dependencies are evil | F# for fun and profit](https://fsharpforfunandprofit.com/posts/cyclic-dependencies/)
 * [Parsing Algorithms – Dmitry Soshnikov](http://dmitrysoshnikov.com/courses/parsing-algorithms/)
 
 # Conference
@@ -1463,6 +1471,7 @@ Programming
 * [Clickjacking Attacks and How to Prevent Them](https://auth0.com/blog/preventing-clickjacking-attacks/)
 * [코드에서 암호를 안전하게 사용할 방법을 찾아서… – OpsNow Tech Blog](https://blog.opsnow.com/15)
 * [2020 최고의 무료 보안 도구 21선 - ITWorld Korea](https://www.itworld.co.kr/news/171389)
+* [Top 5 Cybersecurity Tools for a Work-from-Home World | ActiveState](https://www.activestate.com/blog/top-5-cybersecurity-tools-for-a-work-from-home-world/)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
@@ -1598,11 +1607,12 @@ Programming
 * [Configuration File Validation Check - Config](https://www.configapp.com/2018/01/09/configuration-file-validation-check/) 여러가지 언어, 도구 등의 설정 검사 방법
 * [Dynamic configuration at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/dynamic-configuration-at-twitter.html)
 * [A Simple Implementation of Dynamic Configuration | by Jae Hyeon Bae | Robinhood](https://robinhood.engineering/a-simple-implementation-of-dynamic-configuration-71383bcc803b)
-* [Tweag - Nickel: better configuration for less](https://www.tweag.io/blog/2020-10-22-nickel-open-sourcing/)
+* [개발자를 위한 인프라 기초 총정리 | Writer, IT Blog](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/)
 * [Chef Infra - Infrastructure Automation for Hardened, Consistent Configuration at Any Scale](https://www.chef.io/products/chef-infra/)
   * [A complete beginner’s guide to Chef and infrastructure as code](https://medium.freecodecamp.org/an-introduction-to-chef-and-infrastructure-as-code-7d8ad2689b8)
   * [Making Breakfast: Chef at Airbnb](https://medium.com/airbnb-engineering/making-breakfast-chef-at-airbnb-8e74efff4707)
   * [Production Secret Management at Airbnb](https://medium.com/airbnb-engineering/production-secret-management-at-airbnb-ad230e1bc0f6)
+* [Tweag - Nickel: better configuration for less](https://www.tweag.io/blog/2020-10-22-nickel-open-sourcing/)
 
 # Memory
 * [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf)
@@ -1725,6 +1735,7 @@ Programming
   * [Management Command Line Tool](https://www.rabbitmq.com/management-cli.html) rabbitmqadmin
   * [mio-java.tistory.com/category/개발/rabbitMq](https://mio-java.tistory.com/category/%EA%B0%9C%EB%B0%9C/rabbitMq)
 * [rq - Simple job queues for Python https://python-rq.org ](https://github.com/rq/rq)
+* [S-MQTTT, or: secure-MQTT-over-Traefik · Jurian Sluiman](https://jurian.slui.mn/posts/smqttt-or-secure-mqtt-over-traefik/)
 * [Sparkngin - Pluggable server to Stream messages / events to queues like Kafka and other systems](https://github.com/DemandCube/Sparkngin)
 * [VerneMQ - a high-performance, distributed MQTT message broker](https://verne.mq/)
 * [ZeroMQ](http://kr.zeromq.org/)
@@ -2026,6 +2037,7 @@ Programming
   * [1월 2주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/01/b-1-2.html)
   * [1월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/01/b-1-3.html)
   * [1월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/01/b-1-4.html)
+  * [2월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/02/b-2-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -2587,6 +2599,7 @@ Programming
 * [Yes, TDD Slows You Down. And that’s OK | by Alessandro Diaferia | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/yes-tdd-slows-you-down-c7ee154ec322)
 * [Learning from Bugs and Testers: Testing Boeing 777 Full Flight Simulators](https://www.infoq.com/articles/testing-boeing-flight-simulators-software/)
 * [프로젝트 관리, 테스트 케이스의 중요성](https://brunch.co.kr/@zigzag/30)
+* [**Microservices test architecture. Can you sleep well without end-to-end tests?**](https://threedots.tech/post/microservices-test-architecture/)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
