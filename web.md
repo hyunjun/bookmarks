@@ -200,6 +200,7 @@ Web
 * [The Ultimate Guide to Web Performance - DEV](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
 * [developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer](https://github.com/apptension/developer-handbook)
 * [Timing web requests with cURL and Chrome](https://blog.cloudflare.com/a-question-of-timing/) TTFB time to first byte curl
+* [FE개발자의 성장 스토리 06 : 2021년 Chrome의 새로운 변화 – Schemeful same-site을 대응하자 – tech.kakao.com](https://tech.kakao.com/2021/02/02/frontend-growth-06/)
 
 # Apache
 * installation
@@ -369,6 +370,8 @@ Web
 * [Crawler](https://github.com/rudvlf0413/crawler)
 * [Crawl your facebook post for retrospective for V9.0](https://gist.github.com/jinhoyoo/0e7799d371e297dd28e91b8404001ada)
 * [cyworld-bot - Cyworld image crawler](https://github.com/leegeunhyeok/cyworld-bot)
+* [Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites](https://webtransparency.cs.princeton.edu/dark-patterns/)
+  * [dark-patterns: Code and data belonging to our CSCW 2019 paper: "Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites"](https://github.com/aruneshmathur/dark-patterns)
 * [django_ebay_scrapy: eBay Scrapy can help eBay sellers to understand the marketplace with Keyword Analysis.](https://github.com/pss2138/django_ebay_scrapy)
 * [ebay_scrapy](https://github.com/pss2138/ebay_scrapy)
 * [eventlet#web-crawler](http://eventlet.net/doc/examples.html#web-crawler)
@@ -514,6 +517,8 @@ Web
   * [Spring REST API 문서를 Swagger로 만들자](http://yookeun.github.io/java/2017/02/26/java-swagger/)
   * [API the Docs 참관 후기](https://engineering.linecorp.com/ko/blog/detail/292)
   * [Designing REST API with Open API Specification (OAS) v2.0 & v3.0 using Swagger](https://hackernoon.com/designing-rest-api-with-open-api-specification-oas-v2-0-v3-0-using-swagger-11dd4ef8cea6)
+* [traefik: The Cloud Native Application Proxy](https://github.com/traefik/traefik)
+  * [traefik - 클라우드 네이티브 어플리케이션 프록시 | GeekNews](https://news.hada.io/topic?id=3668)
 * [TSWS, A Totally Simple Web Server](https://github.com/dfletcher/tsws)
 * [UrlDiff - Simple visual regression testing](http://www.productchart.com/blog/2015-07-19-urldiff)
 
