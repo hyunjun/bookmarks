@@ -15,6 +15,7 @@ Network
 * [Raw Sockets](http://intra97.tistory.com/201)
 * [윈도우즈 소켓 통신 프로그램](http://ehclub.co.kr/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%88%A0/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%A6%88%20%EC%86%8C%EC%BC%93%20%ED%86%B5%EC%8B%A0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
 * [kakao의 Anycast 활용 사례 anycast, quagga, bgp, dns, devops](http://tech.kakao.com/2014/05/29/anycast/)
+* [“인터넷이 지구 반대편을 연결하는 방법” BGP의 개념과 동작 원리 - ITWorld Korea](https://www.itworld.co.kr/news/181614)
 * [JAVA Network Programming](https://www.youtube.com/watch?v=HyZnrPjelsg)
 * [표준 자바 소켓 프로그래밍 / 네트워크 프로그래밍](https://www.youtube.com/watch?v=_kUnut6zZE4)
 * [냅스터 부터 P2P까지, PC와 모바일의 클라이언트-서버 모델](http://www.inven.co.kr/webzine/news/?news=164068)
