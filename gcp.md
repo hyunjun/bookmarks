@@ -115,6 +115,7 @@ Google Cloud Platform GCP
 * [Github Actions를 사용해서 CICD 구축해보기 실습 with GCP - 실행편 · 도전하는 개발자](https://minkukjo.github.io/cs/2020/08/29/Infra-23/)
 * [구글 클라우드의 ‘무료 등급’을 알차게 활용하는 10가지 팁 - CIO Korea](https://www.ciokorea.com/news/170709)
 * [Neural Structured learning - DACON](https://dacon.io/codeshare/1809) 딥페이크 변조 영상 탐지 AI 경진대회
+* [google-cloud-4-words: The Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
