@@ -982,6 +982,7 @@ Scala
 * [TMWL October’19 — Scala Steward, DB index and a React hack](https://blog.softwaremill.com/tmwl-october19-scala-steward-tables-in-db-index-and-a-react-hack-ec51e56aa581)
 * [TMWL March’20 — CNAMEs, data encryption, Scala book & extension to try](https://blog.softwaremill.com/tmwl-march20-cnames-data-encryption-scala-book-extension-to-try-178c13a57559)
 * [Typelevel Summit Boston, March 2018](https://www.youtube.com/playlist?list=PL_5uJkfWNxdl-qzhg3yjg7p5HPw_oHfpu)
+* [SF Scala: Kiar - Key/Value store with MVCC based Transaction System By Sandeep Virdi - YouTube](https://www.youtube.com/watch?v=0XJuq3DYqF8)
 
 # IntelliJ
 * [INTELLIJ SCALA PLUGIN BLOG](https://blog.jetbrains.com/scala/)
