@@ -172,6 +172,7 @@ C
 * [Étude in C minor](https://zserge.com/posts/etude-in-c/)
 * [GTK4 for Graphical User Interfaces](http://ssalewski.de/gtkprogramming.html)
 * [The International Obfuscated C Code Contest](https://www.ioccc.org/2020/carlini/index.html)
+* [Fun with conversion-operator name lookup – Arthur O'Dwyer – Stuff mostly about C++](https://quuxplusone.github.io/blog/2021/01/13/conversion-operator-lookup/)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -269,11 +270,13 @@ C
 * [CppMem: Interactive C/C++ memory model](http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/)
 * [cpu60 - Simple CPU model written in 60 lines of code](https://github.com/wkoszek/cpu60)
 * [Criterion - A KISS, non-intrusive cross-platform C unit testing framework](https://github.com/Snaipe/Criterion)
+* [crun: A fast and lightweight fully featured OCI runtime and C library for running containers](https://github.com/containers/crun)
 * [CUnit](http://cunit.sourceforge.net/index.html)
   * [practice - CUnit](https://gist.github.com/hyunjun/787d4662303e01019a98)
 * curl
   * [practice - test libcurl](https://github.com/hyunjun/practice/tree/master/c/test-libcurl)
   * [c++ - libcurl automatically replacing line feed with line feed + carriage return - Stack Overflow](https://stackoverflow.com/questions/31567457/libcurl-automatically-replacing-line-feed-with-line-feed-carriage-return)
+* [datatype99: C99 with sum types](https://github.com/Hirrolot/datatype99)
 * [Donut math: how donut.c works – a1k0n.net](https://www.a1k0n.net/2011/07/20/donut-math.html)
 * enkiTS
   * [Implementing a lightweight task scheduler](http://www.enkisoftware.com/devlogpost-20150822-1-Implementing_a_lightweight_task_scheduler.html)
