@@ -362,6 +362,7 @@ Linux
 * [(리눅스 업스킬 도전 #11) 특정 조건으로 파일 찾기](https://jhrogue.blogspot.com/2020/09/11.html) locate which grep zcat zless less find
 * [Shell Commands Every Developer Must Know | by Erik van Baaren | Erik on Technology | Medium](https://medium.com/tech-explained/shell-commands-every-developer-must-know-93e6b98d4341)
 * [6 Lesser-Known Linux Commands You Should Try | by Tate Galbraith | The Startup | Oct, 2020 | Medium](https://medium.com/swlh/6-lesser-known-linux-commands-you-should-try-ab739e1088d) tc, whiptail, shred, split, nl, flock
+* [**리눅스 아재력 or 할배력 셀프 테스트**](https://sunyzero.tistory.com/245)
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
@@ -553,7 +554,7 @@ Linux
 * nmap
   * [Nmap Examples For Network Admins](http://teknixx.com/nmap-examples-for-network-admins/)
   * [(리눅스 업스킬 도전 #9) 서비스 포트 관리](https://jhrogue.blogspot.com/2020/09/9.html)
-* [nq - Unix command line queue utility](https://github.com/chneukirchen/nq)
+* [nq: Unix command line queue utility](https://github.com/leahneukirchen/nq)
 * `nslookup`
   * [nslookup 사용법](http://qnfmfmd.tistory.com/11)
 * `ntp`
@@ -840,6 +841,7 @@ Linux
 * [Linux Productivity Tools](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf)
 * [20 productivity tools for the Linux terminal](https://opensource.com/article/20/6/productivity-tools-linux-terminal)
 * [4 Best Terminal Browsers for Linux Command Line](https://itsfoss.com/terminal-web-browsers/) W3M, Lynx, Links2, eLinks
+* [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
 * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
 * [alacritty - A cross-platform, GPU-accelerated terminal emulator](https://github.com/alacritty/alacritty)
 * [BigGrep is a tool to index and search a large corpus of binary files that uses a probabalistic N-gram based approach to balance index size and search speed](https://github.com/cmu-sei/BigGrep)
@@ -879,6 +881,7 @@ Linux
 * [juicefs: JuiceFS is a distributed POSIX file system built on top of Redis and S3](https://github.com/juicedata/juicefs)
   * [JuiceFS - Redis와 S3를 이용한 분산 POSIX 파일시스템 | GeekNews](https://news.hada.io/topic?id=3579)
 * [Keep : A personal shell command keeper](https://hackernoon.com/keep-a-personal-shell-command-keeper-dac3ab488626)
+* [kime: Korean IME](https://github.com/Riey/kime)
 * [Lightning is a tool designed to allow you to find and open files as fast as physically possible](https://github.com/fouric/lightning-cd)
 * [Linuxbrew - a fork of Homebrew, the Mac OS package manager, for Linux](https://github.com/Linuxbrew/brew)
   * [Linuxbrew A fork of Homebrew for Linux](http://brew.sh/linuxbrew/)
@@ -915,8 +918,10 @@ Linux
 * [spaceman-diff - Diffing Images on the Command Line](http://zachholman.com/posts/command-line-image-diffs/)
 * [sshync - Auto-sync files or directories over SSH using fs.watch()](https://github.com/mateogianolio/sshync)
 * [trash-cli - Command Line Interface to FreeDesktop.org Trash](https://github.com/andreafrancia/trash-cli)
+* [ugrep: 🔍NEW ugrep v3.1: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4), documents and more. A faster, user-friendly and compatible grep replacement](https://github.com/Genivia/ugrep)
 * [unetbootin.github.io - create bootable Live USB drives](http://unetbootin.github.io/)
 * [VTM | Text-based Desktop Environment, aka Monotty Desktop (desktopio)](https://vtm.netxs.online/)
+* Wayland [Think twice before abandoning Xorg. Wayland breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
 * [X2GO: Linux Remote Desktop & Terminal Server System With Support For Published Applications](https://www.youtube.com/watch?v=oSuy1TS8FGs)
 * [Xmobar updates from ZuriHac](https://psibi.in/posts/2020-06-16-xmobar-zurihac.html)
 * [xrdp - an open source RDP server](https://github.com/neutrinolabs/xrdp)
