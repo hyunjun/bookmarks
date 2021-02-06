@@ -840,7 +840,6 @@ Java
   * [Introducing Java toolchains](https://blog.gradle.org/java-toolchains)
   * [Gradle5 -> 6 마이그레이션](https://jojoldu.tistory.com/538)
   * [The Problem with Gradle](https://www.bruceeckel.com/2021/01/02/the-problem-with-gradle/)
-* [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * [hwplib: hwp library for java](https://github.com/neolord0/hwplib)
 * [Immutables 2.0 - We use immutable objects all the time. We created Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most full-featured and mature tool in this field!](http://immutables.github.io/)
@@ -1020,6 +1019,10 @@ Java
 ## Library Debug
 * [avd - visual debugger](http://symbolflux.com/projects/avd)
 * [BugJail - the new Java debugger that can. Windows, Mac and Linux. No cloud. Free to use during beta](https://bugjail.com/)
+
+## Library GraphQL
+* [Open Sourcing the Netflix Domain Graph Service Framework: GraphQL for Spring Boot | by Netflix Technology Blog | Feb, 2021 | Netflix TechBlog](https://netflixtechblog.com/open-sourcing-the-netflix-domain-graph-service-framework-graphql-for-spring-boot-92b9dcecda18#gaerae.com)
+* [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 
 ## Library Spring
 * [springoneplatform.io](https://springoneplatform.io/)
