@@ -88,6 +88,7 @@ AWS
 * [ELB(Elastic Load Balancer) 생성해서 부하분산 적용하기](https://developer88.tistory.com/304)
 * [AWS Gateway Load Balancer - Part 1 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1105)
 * [AWS-Load-balance-Failover-time-test - 리눅서의 기술술 블로그](https://linuxer.name/2020/11/aws-load-balance-failover-time-test/)
+* [AWS Application Load Balancer algorithms | by Simon Tabor | DAZN Engineering | Medium](https://medium.com/dazn-tech/aws-application-load-balancer-algorithms-765be2eca158)
 * [ELB에 무료 SSL인증서 받아서 설정하기](https://developer88.tistory.com/313)
 * [AWS-NLB-Sticky-sessions-timeout - 리눅서의 기술술 블로그](https://linuxer.name/2020/08/aws-nlb-sticky-sessions-timeout/)
 * [AWS NLBs and the mixed up TCP connections](https://www.niels-ole.com/cloud/aws/linux/2020/10/18/nlb-resets.html)
@@ -621,6 +622,7 @@ AWS
 * [(리눅스 업스킬 도전 #22-a) EC2 인스턴스에서 계정 추가 후 공개 키 등록 방법](https://jhrogue.blogspot.com/2020/10/22-ec2.html)
 * [(리눅스 업스킬 도전 #22-b) notepad++ 편집기로 EC2 원격 호스트의 파일 편집하기](https://jhrogue.blogspot.com/2020/10/22-b-notepad-ec2.html)
 * [AWS 클라우드 초보들을 위한 EC2 인스턴스 SSH 로 접속하기. - YouTube](https://www.youtube.com/watch?v=oMVfhT_xlzk)
+* [aws ec2 nvme disk 의 device 위치 변경을 고정 시키기 - Cloud](https://vitta.tistory.com/62)
 
 # EKS
 * [awesome-eks | A curated list of awesome tools for Amazon EKS](https://realvz.github.io/awesome-eks/)
