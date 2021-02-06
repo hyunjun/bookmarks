@@ -3794,6 +3794,7 @@ Python
 * [자주쓰는 명령어로 배우는 Pandas #2 : Index와 Column 조작하기](https://sjquant.tistory.com/55)
 * [자주쓰는 명령어로 배우는 Pandas #3 : 데이터 조작하기](https://sjquant.tistory.com/56)
 * [자주쓰는 명령어로 배우는 Pandas #4 : 데이터 능숙하게 다루기](https://sjquant.tistory.com/57)
+* [Wes McKinney: pandas in 10 minutes | Walkthrough - YouTube](https://www.youtube.com/watch?v=_T8LGqJtuGc)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
   * [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
