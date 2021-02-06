@@ -1104,6 +1104,7 @@ Javascript
 * [How To Get Started With GraphQL](https://medium.com/@PrinceAshburton/how-to-get-started-with-graphql-a3fbe3d154a1)
 * [Writing Your First GraphQL Queries](https://hackingandslacking.com/writing-your-first-graphql-queries-b47ff7f0474c)
 * [GraphQL and Relay: what are they and why do they matter?](https://hackernoon.com/graphql-and-relay-what-are-they-and-why-do-they-matter-d8dfcc3ce2ac)
+* [Relay로 구현한 Github 유저 검색하기 프로젝트 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/react-relay-github/)
 * [Moving from REST to GraphQL](https://medium.com/@frikille/moving-from-rest-to-graphql-e3650b6f5247)
 * [Refetch Strategies for Apollo’s GraphQL client](https://hackernoon.com/refetch-strategies-for-apollos-graphql-client-248a449734cd)
 * [Apollo Client는 Redux와 무엇이 다른가](https://d2.naver.com/helloworld/4245995)
@@ -1208,6 +1209,7 @@ Javascript
 * [9 open source JavaScript frameworks for front-end web development](https://opensource.com/article/20/5/open-source-javascript-frameworks)
 * [Best of JavaScript](https://bestofjs.org/timeline) Timeline: 2006-2020 in 20 projects
 * [Top JavaScript Frameworks and Tech Trends for 2021 | by Eric Elliott | JavaScript Scene | Dec, 2020 | Medium](https://medium.com/javascript-scene/top-javascript-frameworks-and-tech-trends-for-2021-d8cb0f7bda69)
+* [Data Fetching on the Web Still Sucks](https://performancejs.com/post/hde6a90/Data-Fetching-on-the-Web-Still-Sucks)
 * [금액-한글 변환 프로젝트 npm 배포하기 사내에서 사용 중이던 함수를 오픈소스로 만든 과정을 소개합니다](https://www.huskyhoochu.com/num-to-korean)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
@@ -1547,6 +1549,8 @@ Javascript
   * [초보자에게 추천하는 svelte. svelte라는 프론트엔드 프레임워크는 개인적으로 프론트엔드 개발을… | by freeseamew | hollo coding story | Oct, 2020 | Medium](https://medium.com/freeseamew/svelte-%EC%B4%88%EB%B3%B4-%ED%94%84%EB%A1%A0%ED%8A%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%B6%94%EC%B2%9C-%EC%9D%B4%EC%9C%A0-28ff98e5fb4a)
   * [SVELTE from React | Flying Monocopter](https://flyingmonocopter.github.io/posts/sveltefromreact/)
   * [늘씬한 웹 프런트엔드 프레임워크 Svelte 완전정복 4시간+ 정주행 - 스벨트의 모든 것을 한자리에서 알려드립니다 - YouTube](https://www.youtube.com/watch?v=SMatXKHgS1A)
+  * [IE에서 스벨트 실행하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/872)
+  * [Introduction to Svelte actions - Singapore JS - YouTube](https://www.youtube.com/watch?v=YPX3KvvgDtQ)
   * [Flying Monocopter](https://flyingmonocopter.github.io/tags/svelte/)
   * [svelte-weather: 서울시 월별 평균 강수량 (1961~2020) 을 시각화한 자료](https://github.com/huskyhoochu/svelte-weather)
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
@@ -1658,6 +1662,7 @@ Javascript
 * [2020년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 2](https://d2.naver.com/helloworld/6951656) Vue.js, Svelte, and Stimulus
 
 ## Library Build
+* [Publish, ship, and install modern JavaScript for faster applications](https://web.dev/publish-modern-javascript/)
 * [Brunch - ultra-fast HTML5 build tool](https://brunch.io/)
 * [Lerna · A tool for managing JavaScript projects with multiple packages](https://lerna.js.org/)
   * [FE개발자의 성장 스토리 03 : 카카오 어드민 UI 컴포넌트를 모노레포로 개발하여 얻은 것들 – tech.kakao.com](https://tech.kakao.com/2020/12/03/frontend-growth-03/)
@@ -2682,6 +2687,7 @@ Javascript
 * [Junior Vs Senior Code - How To Write Better Code As A Web Developer - React - YouTube](https://www.youtube.com/watch?v=0yzoAbrjV6k)
 * [React Flow](https://reactflow.dev/)
 * [소셜 네트워크(naver, google, kakao) 로그인(OAuth 2.0) 연동 후 프로필 조회](https://blog.naver.com/pjt3591oo/222217171627)
+* [**프론트에서 안전하게 로그인 처리하기 (ft. React)**](https://velog.io/@yaytomato/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
 * [React Query로 서버 상태 관리하기 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-02-01T00:00:00.000Z)
 
 ## React Flux
@@ -3500,5 +3506,6 @@ Javascript
 * [resume: 🍀 Resume template](https://github.com/leegeunhyeok/resume)
 * [Vue3Todo: Vuex + vue3로 만드는 할일 앱](https://github.com/wnghdcjfe/Vue3Todo)
 * [vue-http-client](https://github.com/parkjungwoong/vue-http-client)
+* [Vue Native](https://vue-native.io/)
 * [VuePress](https://vuepress.vuejs.org/)
 * [vue-state-store: 📦 Vue State Management (with Publish & Subscribe pattern)](https://github.com/ahaofficial/vue-state-store)
