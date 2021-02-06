@@ -478,6 +478,7 @@ Docker
 * [**컨테이너로 데이터센터 네트워크를 모방해 볼 수 있을까? | Lifestack**](https://ashon.github.io/blog/2020/12/20/homemade-datacenter-network.html)
 * [Jonathan Bergknoff: Run More Stuff in Docker](https://jonathan.bergknoff.com/journal/run-more-stuff-in-docker/)
 * [LINE의 프라이빗 클라우드 Verda 플랫폼의 Verda Reliability Engineering 팀을 소개합니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/verda-reliability-engineering-team/)
+* [Docker Engine 20.10 Released: Supports cgroups v2 and Dual Logging](https://www.infoq.com/news/2021/01/docker-engine-cgroups-logging/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -899,6 +900,9 @@ Docker
 * [쿠버네티스 클러스터 운영자를 위한 모니터링](https://www.samsungsds.com/kr/insights/kubernetes_monitoring.html)
 * [A CLI Tool for Multi-Cluster Kubernetes: Cloud Manager Rocks | by Jorge Simão | Jan, 2021 | Medium](https://einnovator.medium.com/a-cli-tool-for-multi-cluster-kubernetes-cloud-manager-rocks-af17124af2a6)
 * [**초보를 위한 쿠버네티스 안내서 - YouTube**](https://www.youtube.com/playlist?list=PLIUCBpK1dpsNf1m-2kiosmfn2nXfljQgb)
+* [IDG 블로그 | 쿠버네티스가 답이 아닐 때 - ITWorld Korea](https://www.itworld.co.kr/news/180699)
+* [Scaling Kubernetes to 7,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/)
+  * [쿠버네티스를 7500노드로 확장하기 | GeekNews](https://news.hada.io/topic?id=3643)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1019,6 +1023,7 @@ Docker
 * [Droot - a super-easy application container engine with chroot without docker](https://github.com/yuuki1/droot)
 * [Empire - Introducing Empire: A self-hosted PaaS built on Docker & Amazon ECS](http://engineering.remind.com/introducing-empire/)
 * [Firecracker - Secure and fast microVMs for serverless computing](https://firecracker-microvm.github.io/)
+  * [Firecracker: start a VM in less than a second](https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/)
 * firefighter [microVM: Another Level of Abstraction for Serverless Computing | by Mostafa Moradian | ITNEXT](https://itnext.io/microvm-another-level-of-abstraction-for-serverless-computing-5f106b030f15)
 * [Flocker 1.0: Container Data Management for Docker](https://clusterhq.com/2015/06/17/flocker-1-0/)
 * [Galley is a command-line tool for orchestrating Docker containers in development and test environments](https://github.com/twitter-fabric/galley)
