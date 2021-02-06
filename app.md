@@ -70,6 +70,7 @@ App
 * [cool-retro-term - A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
 * [Diffchecker - Online diff tool to compare text to find the difference between two text files](https://www.diffchecker.com/)
+* [Ebook Reader for web](https://www.loudreader.com/)
 * encryption
   * [age - a simple, modern and secure file encryption tool](https://github.com/FiloSottile/age)
   * [keys.pub](https://keys.pub/)
@@ -318,6 +319,7 @@ App
   * [Creating a Static Blog with Search and Comments using the Pelican Static Site Generator](https://medium.freecodecamp.org/pelican-tutorial-static-blog-with-search-comments-demo-5137c02cbb0a)
 * Readability [Node.js 라이브러리 Readability로 전문 RSS 만들기](https://www.44bits.io/ko/post/generate-full-feed-by-using-mozilla-readability)
 * [Remark42, commenting system](https://remark42.com/)
+* [Site.js - Small Web construction set](https://sitejs.org/)
 * [TinaCMS로 편집 가능한 홈페이지 만들기](https://imch.dev/posts/build-a-funny-homepage-with-tina-cms)
   * [gatsby-tinacms-example](https://github.com/iamchanii/gatsby-tinacms-example)
 * [TorchPad - The Simplest way to make a Markdown wiki](http://torchpad.com/)
@@ -377,6 +379,7 @@ App
 * [Async Cookie Store API 살펴보기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20201027/)
 * [리스틀리 - 세상에서 가장 빠른 웹 데이터 추출](https://www.listly.io/ko) crawler
   * [아마존과 쿠팡이 쓰는 툴이 한국 SW였다 : 개발자 필요없는 크롤링 서비스 리스틀리 사용기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233475)
+* [codecopy: A browser extension that adds copy to clipboard buttons on every code block](https://github.com/zenorocha/codecopy)
 * my notes [“크롬 새 탭을 메모장으로” 화려하지 않아도 실용적인 마이 노트(My Notes) - ITWorld Korea](http://www.itworld.co.kr/news/167215)
 * nuTab [Quick Notes New Tab Chrome Extension - nuTab](https://nutab.co/)
 * Requestly [Udemy강좌 Full HD로 보기](https://www.javastudy.net/2019/04/22/udemy%EA%B0%95%EC%A2%8C-full-hd%EB%A1%9C-%EB%B3%B4%EA%B8%B0/)
@@ -422,6 +425,7 @@ App
   * Enhancd, The Fuck, Git Stats, Autojump, Bat, Oh my ZSH, Fony
 * [aquerytool.com](http://aquerytool.com/) DB schema
 * [asdf: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more](https://github.com/asdf-vm/asdf)
+  * [asdf - An extendable version manager](https://asdf-vm.com/)
   * [asdf-python](https://github.com/danhper/asdf-python)
 * buildbox
   * [코딩할줄 모르는 개발자가 만든 1위 모바일 게임, Color Switch](http://techneedle.com/archives/25515)
@@ -579,6 +583,7 @@ App
       * [Best 4 VS Code Extensions in 2020 | The Startup](https://medium.com/swlh/best-4-vs-code-extensions-in-2020-d629f37a034)
       * ['개발 작업 간소화하는' 비주얼 스튜디오 코드 확장 기능 4가지 - CIO Korea](https://www.ciokorea.com/news/171724)
       * [Try Out New Vs Code Features for Improved Productivity | by Ravi | Analytics Vidhya | Nov, 2020 | Medium](https://medium.com/analytics-vidhya/try-out-new-vs-code-features-for-improved-productivity-29d3969ad872)
+      * [Top 10 VS Code extensions for 2021 - LogRocket Blog](https://blog.logrocket.com/top-10-vs-code-extensions-2021/)
     * Git
       * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
       * [mac에서 visual studio code를 git commit editor로 설정하기](http://blog.woniper.net/352)
@@ -1013,6 +1018,7 @@ App
   * [ScreenTime - Captures your screen every minute, creates hourly and daily movies](http://seriot.ch/screentime/)
   * [**Screeny - 스크린 캐스트에 특화된 다기능 화면 캡처 프로그램 'Screeny'**](http://macnews.tistory.com/2558)
   * [terminalizer - Record your terminal and generate animated gif images or share a web player https://terminalizer.com ](https://github.com/faressoft/terminalizer) brew install은 미지원, npm 오류로 설치 실패
+    * [Terminalizer - 터미널을 녹화해서 GIF로 만들기 | GeekNews](https://news.hada.io/topic?id=3667)
   * [termtosvg - A Linux terminal recorder written in Python that renders your command line sessions as standalone SVG animations](https://github.com/nbedos/termtosvg) pip install이라 편한데, 중간에 화면이 깨진 상태로 저장되는 경우가 있었음
   * [ttystudio - A terminal-to-gif recorder minus the headaches](https://github.com/chjj/ttystudio) npm 오류로 설치 실패
   * [vasai - screen recorder for web developers](https://vasai.app/)
@@ -1036,7 +1042,8 @@ App
 
 # Messenger, message, messaging
 * discord [Forget Slack. Discord is the best messaging app I’ve ever used](https://hackernoon.com/forget-slack-discord-is-the-best-messaging-app-ive-ever-used-9351a035069)
-* [mattermost - Slack 대안 오픈소스 Mattermost를 소개합니다](https://blog.cometkim.kr/posts/mattermost-contribution/introduction-to-mattermost)
+* [Mattermost: Open-source, high-trust, developer-centric collaboration platform](https://mattermost.com/)
+  * [mattermost - Slack 대안 오픈소스 Mattermost를 소개합니다](https://blog.cometkim.kr/posts/mattermost-contribution/introduction-to-mattermost)
 * slack
   * [Slack에서 public link를 생성하는 방법](https://velog.io/@king/Slack%EC%97%90%EC%84%9C-public-link%EB%A5%BC-%EC%83%9D%EC%84%B1%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-enk54zi6fc)
   * [슬랙(Slack)으로 특정 조건의 이메일을 받아보자!](https://www.44bits.io/ko/post/slack-email-app-integration)
@@ -1107,6 +1114,7 @@ App
 * [Exposé - A simple static site generator for photoessays](https://github.com/Jack000/Expose)
 * [fastocloud: Self-hosted IPTV/NVR/CCTV/Video service](https://github.com/fastogt/fastocloud)
 * [filmora9 - Discover the power of storytelling with Filmora](https://filmora.wondershare.com)
+* [Filmulator - A simple raw photo editor based on the process of developing film](https://filmulator.org/)
 * [Forensically, free online photo forensics tool](http://29a.ch/photo-forensics)
 * [Gfycat - 유튜브 영상·GIF 파일을 10분 1 크기로?](http://techholic.co.kr/archives/36747)
 * [ImagePlay is a rapid prototyping tool for building and testing image processing algorithms](http://imageplay.io/)
@@ -1232,6 +1240,7 @@ App
   * [엑셀에서 Distinct Count 구하기](https://www.popit.kr/%EC%97%91%EC%85%80%EC%97%90%EC%84%9C-distinct-count-%EA%B5%AC%ED%95%98%EA%B8%B0)
   * [1. 능력있는 직장인이 되는 법. 엑셀 자동화란?](https://steemit.com/kr-newbie/@gbgg/excel-1)
   * [How To : 엑셀에서 종속적 드롭다운 목록 만드는 방법](http://www.itworld.co.kr/news/151189)
+  * [How To Find And Replace Multiple Text Strings Within A Text String | How To Excel](https://www.howtoexcel.org/vba/how-to-find-and-replace-multiple-text-strings-within-a-text-string/)
   * [LAMBDA: The ultimate Excel worksheet function - Microsoft Research](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
 * Google sheet
   * [Google Sheet 로 몸무게를 기록하자](https://jusths.tistory.com/144) bar chart
@@ -1290,6 +1299,7 @@ App
 * [Fancy Zones](https://github.com/microsoft/PowerToys/blob/master/src/modules/fancyzones/README.md) spectacle처럼 윈도우에서 레이아웃 조정하는 앱
 * [GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)](https://github.com/ValdikSS/GoodbyeDPI) 웹 차단 우회
   * [GoodByeDPI GUI](https://github.com/Include-sys/GUI-for-GoodbyeDPI/)
+* HangulJasoFixer [맥에서 보낸 파일명이 윈도우에서 깨질때 - 파일명 자모 분리 현상 :: Sotheb](https://www.sotheb.co.kr/65)
 * [liberkey.com - portable applications](http://www.liberkey.com/en.html)
 * [LICEcap simple animated screen captures](http://www.cockos.com/licecap/)
 * [minifb: MiniFB is a small cross platform library to create a frame buffer that you can draw pixels in](https://github.com/emoon/minifb)
@@ -1353,6 +1363,7 @@ App
   * Startship, Winget, QuickLook, Insomnia, EarTrumpet, Ditto Clipboard Manager, PureText, Carnac
 * [**배치파일 기초 작성법 - snoopybox**](https://www.snoopybox.co.kr/1404)
 * [어느 위치에서 실행하든 경로를 유지하는 배치 파일 만들기. 이번 아티클은 작지만 확실히 유용한 팁 하나를 소개해볼까 합니다. 배치… | by Jung-Hyun Nam | Medium](https://medium.com/@rkttu/%EC%96%B4%EB%8A%90-%EC%9C%84%EC%B9%98%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%ED%95%98%EB%93%A0-%EA%B2%BD%EB%A1%9C%EB%A5%BC-%EC%9C%A0%EC%A7%80%ED%95%98%EB%8A%94-%EB%B0%B0%EC%B9%98-%ED%8C%8C%EC%9D%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-7b4cb07933d2)
+* [Creating my awesome Windows 10 dev setup | Chimerical](https://chimerical.ca/posts/creating-my-awesome-windows-10-dev-setup)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
@@ -1456,6 +1467,7 @@ App
   * [Windows 10 LAMP 설치 방법 (1)](https://preciousstory.tistory.com/13)
   * [Announcing Ubuntu on Windows Community Preview - WSL2 - Ubuntu Community Hub](https://discourse.ubuntu.com/t/announcing-ubuntu-on-windows-community-preview/19789)
   * [Blizzard Diablo IV debugs Linux core dumps from Visual Studio | C++ Team Blog](https://devblogs.microsoft.com/cppblog/blizzard-diablo-iv-debugs-linux-core-dumps-from-visual-studio/) GDB를 WSL에서 동작시키고, Visual Studio를 front로 사용
+  * [**WSL2 기반 docker 사용시 vmmem 프로세스 메모리 소모량 줄이기**](https://meaownworld.tistory.com/160)
 * xLogWnd [디버깅 로그툴 xLogWnd : 클리앙](https://www.clien.net/service/board/pds/15729575)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [X server 4 Windows 10](https://x410.dev/)
