@@ -13,6 +13,7 @@ Regular Expression
 * [Alternatives To Regular Expressions](http://c2.com/cgi/wiki?AlternativesToRegularExpressions)
 * [The true power of regular expressions](https://nikic.github.io/2012/06/15/The-true-power-of-regular-expressions.html)
 * [regex101.com](https://www.regex101.com) regular expression traslation
+* [i Hate Regex - The Regex Cheat Sheet](https://ihateregex.io/)
 * [The code for iHateregex.io https://iHateRegex.io ](https://github.com/geongeorge/i-hate-regex)
 * [Regexes: The Bad, the Better, and the Best](https://www.loggly.com/blog/regexes-the-bad-better-best/)
 * [Five Invaluable Techniques to Improve Regex Performance](https://www.loggly.com/blog/five-invaluable-techniques-to-improve-regex-performance/)
