@@ -555,6 +555,7 @@ Data Science
   * [Fundamentals Of Accelerated Data Science With RAPIDS](https://ign0relee.github.io/Nvidia-Accelerated-Data-Science-With-Rapids)
 * [RoboSat - an end-to-end pipeline written in Python 3 for feature extraction from aerial and satellite imagery](https://github.com/mapbox/robosat)
   * [PyParis 2018 - Robosat: an Open Source and efficient Semantic Segmentation...](https://www.youtube.com/watch?v=y-leS9uBl7Y)
+* [siuba: Python library for using dplyr like syntax with pandas and SQL](https://github.com/machow/siuba)
 * [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
 * [Snorkel: A System for Fast Training Data Creation](https://hazyresearch.github.io/snorkel/)
   * [Introducing Snorkel](https://towardsdatascience.com/introducing-snorkel-27e4b0e6ecff)
