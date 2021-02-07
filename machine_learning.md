@@ -1260,6 +1260,7 @@ Machine Learning
   * [**Build 12 Data Science Apps with Python and Streamlit - Full Course - YouTube**](https://www.youtube.com/watch?v=JwSS70SZdyM)
     * [streamlit_freecodecamp: Build 12 Data Apps in Python with Streamlit](https://github.com/dataprofessor/streamlit_freecodecamp)
     * [penguins-heroku](https://github.com/dataprofessor/penguins-heroku)
+  * [Python Streamlit 사용법 - 프로토타입 만들기 · 어쩐지 오늘은](https://zzsza.github.io/mlops/2021/02/07/python-streamlit-dashboard/)
 * TensorDash [A Must-Have Tool for Every Data Scientist | by Arun | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/a-must-have-tool-for-every-data-scientist-5e7c76f1916f)
 * [tpot - A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming. http://rhiever.github.io/tpot ](https://github.com/rhiever/tpot)
 * Uber
