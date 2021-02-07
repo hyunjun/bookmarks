@@ -430,6 +430,7 @@ Algorithm
 * [파이썬 그래프 알고리즘 친구의 친구 찾기 #13](https://stricky.tistory.com/196)
 * [파이썬 모델링 그래프 알고리즘 미로 찾기 #14](https://stricky.tistory.com/213)
 * [몬테카를로 트리 탐색 미니맥스 크루스칼 다익스트라](https://blog.naver.com/sorang226/221916069980)
+* [백준 최소 환승 경로 : 허브와 노드를 생각하자](https://codingdog.tistory.com/entry/%EB%B0%B1%EC%A4%80-%EC%B5%9C%EC%86%8C-%ED%99%98%EC%8A%B9-%EA%B2%BD%EB%A1%9C-%ED%97%88%EB%B8%8C%EC%99%80-%EB%85%B8%EB%93%9C%EB%A5%BC-%EC%83%9D%EA%B0%81%ED%95%98%EC%9E%90)
 
 # Hamming
 * [How to compute the Hamming distance](https://www.youtube.com/watch?v=P02mJhS9qQ4)
