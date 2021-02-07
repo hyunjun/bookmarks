@@ -630,6 +630,7 @@ R
   * [Covid-19 interactive map (using R with shiny, leaflet and dplyr)](https://www.r-bloggers.com/covid-19-interactive-map-using-r-with-shiny-leaflet-and-dplyr/)
   * [Dacon: 공간정보 탐색적 데이터 분석 경진대회 Shiny 시각화](https://github.com/Unfinishedgod/dacon_jeju)
   * xaringan [파워포인트를 넘어서 - xaringan](https://statkclee.github.io/ds-authoring/seoul_r_xaringan.html)
+  * [webrPSM - YouTube](https://www.youtube.com/watch?v=MjzX-DLB0jc) Propensity score matching
 * sp
   * [R에서 sp package 의 proj4string(), spTransform() 함수를 이용한 좌표계 변환 예제](https://lovetoken.github.io/r/2018/04/15/sp_proj4string_spTransform.html)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
