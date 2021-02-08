@@ -301,6 +301,7 @@ Data Visualization
   * [dash-demo.plotly.host/presentation](https://dash-demo.plotly.host/presentation)
   * [Introducing JupyterDash](https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e)
   * [Introduction to Dash Plotly - Data Visualization in Python - YouTube](https://www.youtube.com/watch?v=hSPmj7mK6ng)
+  * [C for Python Developers and Data Visualization With Dash | Real Python Podcast #46 - YouTube](https://www.youtube.com/watch?v=wj5wRjqXct0)
   * [dash-detr - A User Interface for DETR built with Dash. 100% Python](https://github.com/plotly/dash-detr)
 * Datapane [Analyse in Python. Share with Datapane](https://datapane.com/)
   * [Introduction to Datapane: A Python Library to Build Interactive Reports | by Khuyen Tran | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8)
