@@ -83,6 +83,8 @@ C#
   * [LINQ — Lambda Expression vs Query Expression](http://theburningmonk.com/2010/02/linq-lambda-expression-vs-query-expression/)
 * [moq - The most popular and friendly mocking library for .NET](https://github.com/moq/moq4)
   * [Why does the property I want to mock need to be virtual?](https://stackoverflow.com/questions/5670902/why-does-the-property-i-want-to-mock-need-to-be-virtual)
+* System
+  * [Span<T>, Memory<T> - slog - 🧵 Slog - 닷넷데브](https://forum.dotnetdev.kr/t/span-t-memory-t-slog/381/9)
 * Template
   * [CRTP Bomb - Nested Curiously Recurring Template Pattern](https://blog.0chan.dev/2021-01-22-CRTP-Bomb/)
 
