@@ -1964,6 +1964,7 @@ Scala
 * [**Tour of Scala | Home**](https://tourofscala.com) ???를 제거해서 code snippet을 완성하는 연습
 * [Programmering, grundkurs (2020) - YouTube](https://www.youtube.com/playlist?list=PLEV42dlCGAJ-0925_wTUFt_XiXfnimIVX)
 * [Why Scala? | An introduction by Adam Warski - YouTube](https://www.youtube.com/watch?v=t7SOXNJVbJo)
+* [From First Principles: Why Scala?](https://www.lihaoyi.com/post/FromFirstPrinciplesWhyScala.html)
 * [Why You Should Learn Scala in 2020? | by Marcin Krykowski | Medium](https://medium.com/@marcinkrykowski/why-you-should-learn-scala-in-2020-b827f7e00282)
 * [ScalaZONE - Scala 3 Programming Language Courses](https://scala.zone/)
 * [Scala with Friends - YouTube](https://www.youtube.com/playlist?list=PL1NS3pe5mmu31zNozgzhgEjhnfIfdKiwB)
