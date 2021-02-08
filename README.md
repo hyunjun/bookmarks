@@ -97,7 +97,7 @@ bookmarks
   * [programming language](programming_language.md)
     * [bash](bash.md)
     * [c](c.md)
-    * [clojure](clojure.md) 
+    * [clojure](clojure.md)
     * [c++](cpp.md)
     * [c#](csharp.md)
     * [elixir](elixir.md)

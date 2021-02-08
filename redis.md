@@ -114,7 +114,7 @@ Redis
 # Command
 * [Redis 에서 zadd 와 zincrby 의 차이](https://charsyam.wordpress.com/2018/09/06/%ec%9e%85-%ea%b0%9c%eb%b0%9c-redis-%ec%97%90%ec%84%9c-zadd-%ec%99%80-zincrby-%ec%9d%98-%ec%b0%a8%ec%9d%b4/)
 * [Transactions in Redis](http://www.dr-josiah.com/2015/07/transactions-in-redis.html)
-* [같은 주문에 2명의 라이더가 동시에 배달하는 문제 해결 - Redis Transaction을 이용하여 데이터 atomic 보장](https://tjdrnr05571.tistory.com/18) 
+* [같은 주문에 2명의 라이더가 동시에 배달하는 문제 해결 - Redis Transaction을 이용하여 데이터 atomic 보장](https://tjdrnr05571.tistory.com/18)
 * BGSAVE
   * [practice - backup & restore](https://gist.github.com/hyunjun/cfce6fc1ea6d0ca8995417ed64347538)
 * CONFIG

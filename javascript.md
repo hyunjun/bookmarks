@@ -1094,7 +1094,7 @@ Javascript
 * [How to setup a powerful API with GraphQL, Koa and MongoDB](https://medium.freecodecamp.org/how-to-setup-a-powerful-api-with-graphql-koa-and-mongodb-339cfae832a1)
 * [How to set-up a powerful API with GraphQL, Koa, and MongoDB — CRUD](https://medium.freecodecamp.org/how-to-set-up-a-powerful-api-with-graphql-koa-and-mongodb-crud-4459fc0720d4)
 * [An intro to mutations in GraphQL: what they are and how to use them](https://medium.freecodecamp.org/an-intro-to-mutations-in-graphql-what-they-are-and-how-to-use-them-e959735abd8d)
-* [Prisma - replaces traditional ORMs](https://www.prisma.io/) 
+* [Prisma - replaces traditional ORMs](https://www.prisma.io/)
   * [Introducing Prisma 🎉 An open-source GraphQL API layer for your database](https://blog.graph.cool/introducing-prisma-1ff423fd629e)
   * [요즘 핫한 백엔드 데이터베이스 Prisma 를 알아보자](https://www.youtube.com/watch?v=boZ73EEniFI)
   * [Prisma로 GraphQL을 쉽게 도입하기](https://medium.com/labelstore/prisma%EB%A1%9C-graphql%EC%9D%84-%EC%89%BD%EA%B2%8C-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-fa64dcf63382)
@@ -2158,7 +2158,7 @@ Javascript
 * [Vorpal is Node's first framework for building interactive CLI applications](https://github.com/dthree/vorpal/###)
 * [web-term - A fullscreen terminal in your browser](https://github.com/IonicaBizau/web-term)
 * [Wit-Faebook Messenger Example](https://github.com/hunkim/Wit-Facebook)
- 
+
 # Prototype
 * [Javascript prototype inheritance](http://seokjun.kr/javascript-prototype-inheritance/)
 * [JavaScript Inheritance and the Prototype Chain](https://medium.freecodecamp.org/javascript-inheritance-and-the-prototype-chain-d4298619bdae)

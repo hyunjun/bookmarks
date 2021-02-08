@@ -157,7 +157,7 @@ NLP
 * [4 APPROACHES TO NATURAL LANGUAGE PROCESSING & UNDERSTANDING](http://www.topbots.com/4-different-approaches-natural-language-processing-understanding)
   * Distributional: 최근 유행하는 ML. 폭은 넓힐 수 있지만, 깊이는 잡지 못함
   * Frame-based: 마빈 민스키. 논리적 semantics에 강점. 확고한 supervision이 존재해야 한다는 단점
-  * Model-theoretical: Q/A와 rich semantics의 장점. (프레임 기반보다 더한) labor-intensive and narrow in scope 
+  * Model-theoretical: Q/A와 rich semantics의 장점. (프레임 기반보다 더한) labor-intensive and narrow in scope
   * Interactive learning: language as a cooperative game between speaker and listener
     * Syntax – what is grammatical? : “no compiler errors”
     * Semantics – what is the meaning?: “no implementation bugs”
@@ -1157,7 +1157,7 @@ NLP
   * [CS 224N: TensorFlow Tutorial](http://web.stanford.edu/class/cs224n/lectures/cs224n-2017-tensorflow.pdf)
   * [Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
   * [CS224n: Natural Language Processing with Deep Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
-* [CS224U: Natural Language Understanding](http://web.stanford.edu/class/cs224u/) 
+* [CS224U: Natural Language Understanding](http://web.stanford.edu/class/cs224u/)
   * [Distributional word representations](http://nbviewer.jupyter.org/github/cgpotts/cs224u/blob/master/vsm.ipynb)
 * [Deep Learning for NLP](https://www.comp.nus.edu.sg/~kanmy/courses/6101_2016_2/)
 * [Deep Learning for Natural Language Processing: 2016-2017](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)

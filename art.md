@@ -219,7 +219,7 @@ Art
 
 # Photo
 * [매그넘의 두 거인, 브레송과 카파](http://slownews.kr/39117)
-  * [세바스치앙 살가두, 천국에서 폐허로 다시 천국으로](http://slownews.kr/39166) 
+  * [세바스치앙 살가두, 천국에서 폐허로 다시 천국으로](http://slownews.kr/39166)
 * [‘셔터, 조리개, ISO’로 사진 밝기 조정하기](http://www.bloter.net/archives/223560)
 * [시간 ‘찍고’ 순간 ‘잡는’ 카메라 셔터](http://www.bloter.net/archives/223940)
 * [카메라의 ‘눈’, 조리개의 마술](http://www.bloter.net/archives/223246)

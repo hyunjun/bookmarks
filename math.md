@@ -94,7 +94,7 @@ Math
 * [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
 * [수학공부 카테고리 목록](https://lypicfa.tistory.com/559)
 
-# Bezier 
+# Bezier
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
 * [Warping Text to a Bézier curves](http://www.planetclegg.com/projects/WarpingTextToSplines.html)
 

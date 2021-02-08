@@ -993,7 +993,7 @@ Machine Learning
     * 라이브러리: Sklearn, TensorFlow, PyTorch, Keras 등등
     * IDE: 주피터 노트북, 주피터 랩, VSCode
     * 모니터링: TensorBoard, Netdata, Glances
-    * 버전컨트롤: git, Ungit 
+    * 버전컨트롤: git, Ungit
     * 기타: 리모트 액세스, 리눅스 데스크탑 GUI 액세스, 다중 사용자 액세스, 포트 커스터마이징, 유용한 주피터노트북 확장
   * 도커 이미지 하나로 모두 실행(GPU버전 기준, 단 현재는 CUDA10 만을 지원) `docker run -p 8080:8080 --gpus all mltooling/ml-workspace-gpu:latest`
     * GPU 이외의 CPU 버전, R 특화 버전, 최소화 버전, 가벼운 버전등 도커 이미지 제공

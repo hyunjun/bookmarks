@@ -405,7 +405,7 @@ SQL
   )
   LIMIT 1
   ```
-  
+
 * [MySQL: PHP를 사용하지 않고 Query만으로 unserialize하는 방법](http://blog.gaerae.com/2016/07/how-to-unserialize-data-using-mysql-without-using-php.html)
 * [MySQL: id BETWEEN start AND end Instead of LIMIT start, step For Better Database Performance](http://www.kavoir.com/2009/04/mysql-id-between-start-and-end-instead-of-limit-start-step-for-better-database-performance.html)
 * [MySQL 바이너리 로그를 활용한 DB 복구 방법 in Windows](http://aljjabaegi.tistory.com/92)

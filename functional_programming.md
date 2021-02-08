@@ -281,7 +281,7 @@ Functional Programming
   * [Are We Ready to Replace Lodash?. A look at JavaScript and RxJS functions… | by Yanique Andre | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/are-we-ready-to-replace-lodash-60cd651f6c58)
   * [Applying Git and Optimistic Concurrency Control principles to Data Oriented Programming](https://blog.klipse.tech/databook/2020/12/18/occ-do-git.html)
   * [Object spread와 lodash.cloneDepp 비교하기](https://blog.naver.com/pjt3591oo/222201718116)
-  
+
 # [Kind](https://en.wikipedia.org/wiki/Kind_%28type_theory%29)
 
 # Lambda

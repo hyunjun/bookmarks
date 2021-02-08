@@ -5,7 +5,7 @@ Google Cloud Platform GCP
 * [구글 클라우드 시작하기 - 계정 생성과 VM 생성하기](http://bcho.tistory.com/1107)
 * [datalab 버전 업그레이드](http://jybaek.tistory.com/679)
 * [A GCP flowchart a day](https://medium.com/google-cloud/a-gcp-flowchart-a-day-2d57cc109401)
-* 처음 시작하는 이를 위한 Google Cloud Platform 과 Decision Tree 
+* 처음 시작하는 이를 위한 Google Cloud Platform 과 Decision Tree
   * [1/2](https://medium.com/@jwlee98/gcp-%EC%B2%98%EC%9D%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9D%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-google-cloud-platform-%EA%B3%BC-decision-tree-1-2-2c524e9c5055)
    * [2/2](https://medium.com/@jwlee98/gcp-%EC%B2%98%EC%9D%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9D%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-google-cloud-platform-%EA%B3%BC-decision-tree-2-2-434558c26ac9)
 * 가난한 개발자를 위한 GCP free tier 활용 방법

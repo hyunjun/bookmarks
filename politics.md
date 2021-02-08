@@ -136,7 +136,7 @@ Politics
     * [국가부채(중앙정부의 빚)](_politics/20150803131219_B3balmgF_03150234509E4AE715BDCB.png)
 * 박근혜
   * [마지못해 '5·16쿠데타' 인정한 국정원장 후보자](http://www.huffingtonpost.kr/2015/03/17/story_n_6882736.html)
-  * [나는 선, 너는 악, 박근혜의 선악 세계관](http://ppss.kr/archives/38166) 
+  * [나는 선, 너는 악, 박근혜의 선악 세계관](http://ppss.kr/archives/38166)
   * [최근 2년간 예술에 대한 정치외압 논란 10선](http://www.huffingtonpost.kr/hyungjin-hong/story_b_6947282.html)
   * ["퇴행" – 슬로우뉴스가 본 2014년](http://slownews.kr/35539)
   * [무능한 박근혜 vs 유능한 박근혜](http://www.huffingtonpost.kr/taekyung-lee/story_b_7567732.html)
@@ -170,7 +170,7 @@ Politics
       * [메르스 대응 과정에서 도마 위에 오른 박근혜 대통령의 리더십](http://newspeppermint.com/2015/06/14/merspark/)
     * [격리병실 의료진과 통화하는 박 대통령](http://media.daum.net/politics/others/newsview?newsid=20150614164013014)
     * [환상의 콤비…BH와 삼성](http://newstapa.org/26605)
-    * [‘BH 지시’ 대국민 거짓말…“경유병원은 안전”](http://newstapa.org/26599) 
+    * [‘BH 지시’ 대국민 거짓말…“경유병원은 안전”](http://newstapa.org/26599)
     * [메르스와 세월호, 닮은꼴 키워드 5가지](http://newstapa.org/26566)
     * [‘슈퍼전파자’ 만들어낸 ‘비밀주의’](http://newstapa.org/26484)
     * [메르스에 대해 정부가 했어야 할 일들과 시에라리온](http://newstapa.org/26406)

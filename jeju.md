@@ -77,7 +77,7 @@
 * [제주 추천 장소](http://mlbpark.donga.com/mp/b.php?p=1&b=bullpen&id=201709170008909347&select=&query=&user=&site=&reply=&source=&sig=h6jXGf2gg3eRKfX@hca9Rg-gLmlq)
   * 정석 비행장; 벚꽃 피는 4월
   * 풍차 라운지; 올레길도 중문색달해변으로 연결
-  * 탐라대학교 홍가시나무 
+  * 탐라대학교 홍가시나무
   * 순례자의 교회; 김대건 신부기념관에서 내륙 쪽 길로 1km 정도
   * 아끈다랑쉬오름; 다랑쉬오름 맞은 편. 정말 낮아서 5분이면 정상. 억새풀이 아름다움
   * 새별오름; 역시 억새시즌에

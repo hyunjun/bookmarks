@@ -1060,7 +1060,7 @@ Python
 * pep
   * [PEP 0501 -- Translation ready string interpolation](https://www.python.org/dev/peps/pep-0501/)
 * pickle
-  
+
   ```
   pickle_file = '<filename>'
 
@@ -2004,7 +2004,7 @@ Python
 * [Setuptools 을 이용한 디플로이](http://hamait.tistory.com/863)
 * [Flask Book](http://flaskbook.com/)
 * [Flask 애플리케이션 개발 환경 구성](https://blog.outsider.ne.kr/1325)
-* Flask 공식 튜토리얼 따라하기 
+* Flask 공식 튜토리얼 따라하기
   * [#1](https://blog.outsider.ne.kr/1329)
   * [#2](https://blog.outsider.ne.kr/1343)
   * [#3](https://blog.outsider.ne.kr/1350)
@@ -2327,7 +2327,7 @@ Python
   $ jupyter notebook --no-browser --port=7987
 
   # terminal in another server
-  $ ssh -N -f -L localhost:7987:localhost:7987 [user id]@[server] 
+  $ ssh -N -f -L localhost:7987:localhost:7987 [user id]@[server]
   # open browser then type localhost:7987
   ```
 * [Plotting with Color Maps in Python](https://www.youtube.com/watch?v=0uoZvQ6AKGg)
@@ -2450,7 +2450,7 @@ Python
 * [jovian.ml - Make Jupyter notebooks commentable collaborative sharable](https://www.jovian.ml)
   * 1. 주피터 노트북 버전관리 (diff 도 가능)
   * 2. 주피터 노트북의 버전별, 코드/마크다운 셀별 Comment 기능 (댓글의 댓글도 가능)
-  * 3. 프레젠테이션 모드 
+  * 3. 프레젠테이션 모드
   * 4. Colab, Kaggle, Binder 로 원클릭 포팅 및 실행
   * 5. 다른 사람이 만든 주피터 노트북 탐색
   * 6. 주피터 노트북 clone시, 필요한 패키지 자동 탐색 및 environment.yml 파일 자동 생성
@@ -2464,7 +2464,7 @@ Python
   * [JupyterLab is Ready for Users](https://blog.jupyter.org/jupyterlab-is-ready-for-users-5a6f039b8906)
     * `pip install jupyterlab`
     * `conda install -c conda-forge jupyterlab`
-  * 주피터 노트북의 진화! 
+  * 주피터 노트북의 진화!
     * [(1/2)주피터랩 살펴보기](https://www.youtube.com/watch?v=70sRgL42c1w)
     * [(2/2)주피터랩 설치하고 사용해 보기](https://www.youtube.com/watch?v=UnXXH72-ENc)
   * [A Diagram Editor for JupyterLab](https://blog.jupyter.org/a-diagram-editor-for-jupyterlab-a254121ff919)
@@ -2499,7 +2499,7 @@ Python
   * 엑셀 데이터를 파이선으로 조작하거나, 파이선으로 조작된 데이터나 시각화 정보를 엑셀로 가져오는 2-way binding 작업에 유용
   * pyxll-jupyter 패키지 설치하면, 엑셀에 PyXLL 이라는 확장이 설치. 여기서 Jupyter를 클릭하면, 엑셀과 주피터 노트북을 사이드-바이-사이드로 작업 가능. 단, Windows only
   * 주피터 노트북, %xl_get 매직 커맨드로, 엑셀의 선택된 부분을 Numpy 또는 Pandas Dataframe으로 들고오기 (선택된 부분 임의로 코드 상에서 지정 가능)
-  * 주피터 노트북, %xl_set 매직 커맨드로, 엑셀의 원하는 부분에 파이선 데이터 내보내기 
+  * 주피터 노트북, %xl_set 매직 커맨드로, 엑셀의 원하는 부분에 파이선 데이터 내보내기
   * 주피터 노트북, %xl_plot 매직 커맨드로, 파이선 시각화 라이브러리 (matplotlib, plotly)로 그려진 도표를 엑셀로 내보내기 (크기 조절 가능)
   * 주피터 노트북, xl_app 함수를 사용하여, 엑셀 Application 객체 접근 가능 (즉, 엑셀의 모든것을 건드릴 수 있음 - VB Script와 사실상 거의 동일)
   * 주피터 노트북을 떠나서 다음과 같은 일도 가능
@@ -2851,7 +2851,7 @@ Python
     * [A script for downloading all files in a Google Drive folder.](https://gist.github.com/swyoon/5601cd17bcc2ada8599bfa7549e6f698)
     * [PYTHON 구글 드라이브 연동 :: 프즈](https://tolovefeels.tistory.com/57)
     * [gdown - Download a large file from Google Drive (curl/wget fails because of the security notice)](https://github.com/wkentaro/gdown)
-  * sheet 
+  * sheet
     * [practice - google sheet](https://gist.github.com/hyunjun/5f0a36fe89dd1cae03c22458d0c161bd)
     * [Google Spreadsheets and Python](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html)
     * [How to use Google Sheets and Google Apps Script to build your own blog CMS](https://medium.freecodecamp.org/use-google-sheets-and-google-apps-script-to-build-a-blog-cms-c2eab3fb0b2b)
@@ -4190,7 +4190,7 @@ Python
   * [PyTest - Gabor Szabo - Pycon Israel 2017](https://www.youtube.com/watch?v=nznkU7Em5ns)
   * [PyTest, the testing framework you've been dreaming of by Eli Gur](https://www.youtube.com/watch?v=l0zjVKD7rx8)
   * [**PyconKR 2019 pytest로 파이썬 코드 테스트하기**](https://www.slideshare.net/ssuser80e030/pytest-164575856)
-  * [Open Sourcing Pytest Tools](https://blogs.dropbox.com/tech/2016/03/open-sourcing-pytest-tools/) pytest-flakefinder, unittest2pytest 
+  * [Open Sourcing Pytest Tools](https://blogs.dropbox.com/tech/2016/03/open-sourcing-pytest-tools/) pytest-flakefinder, unittest2pytest
   * [Structuring Unit Tests in Python | Python In Plain English](https://medium.com/python-in-plain-english/unit-testing-in-python-structure-57acd51da923)
   * [Pytest Plugins to Love ❤️. My top 5 and honorable 50 out of 600+… | by Martin Thoma | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/pytest-plugins-to-love-%EF%B8%8F-9c71635fbe22)
   * [Start Python #2 Unit Test 사용하기 ( feat. pytest ) - Kowana's coding](https://www.kowanas.com/coding/2020/12/19/unit-test/)

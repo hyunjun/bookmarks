@@ -489,7 +489,7 @@ NoSQL
 # Trafodion Hadoop/HBase에서 Transaction SQL을 구현
 * [The Apache Software Foundation Announces Apache® Trafodion™ as a Top-Level Project](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces27)
 
-# Venice; Linkedin 에서 사용하고 있는 분산 Key-Value 데이터베이스 
+# Venice; Linkedin 에서 사용하고 있는 분산 Key-Value 데이터베이스
 * [Venice Hybrid: Doing Lambda Better](https://engineering.linkedin.com/blog/2017/12/venice-hybrid--doing-lambda-better) Venice를 통해 Lambda 아키텍처를 구현하는 것을 설명
 
 # [ZeroDB, an end-to-end encrypted database, is open source!](http://blog.zerodb.io/zerodb-open-source-announcement/)

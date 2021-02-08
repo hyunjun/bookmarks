@@ -217,9 +217,9 @@ Data Science
 * [이메일로 분석해 보는 나의 3년](http://goodvc.tistory.com/14)
 * [E-Mail 데이터 곱씹어보기](https://brunch.co.kr/@goodvc78/13)
 * [스터디뽀개기.zip](http://kagglebreak.github.io/studybreak/2016/readme.html#!README.md)
-  * GNMT로 알아보는 신경망 기반 기계번역 / 구글 신경망 기계번역 시스템 리뷰  
-  * Spark + R / spark + R 기본 사용법, 특징과 장단점 소개 
-  * Spark를 이용한 분산 컴퓨팅 / 분산환경에서 머신러닝을 운용하기 위한 기반으로 Spark와 클라우드를 활용하는 법 
+  * GNMT로 알아보는 신경망 기반 기계번역 / 구글 신경망 기계번역 시스템 리뷰
+  * Spark + R / spark + R 기본 사용법, 특징과 장단점 소개
+  * Spark를 이용한 분산 컴퓨팅 / 분산환경에서 머신러닝을 운용하기 위한 기반으로 Spark와 클라우드를 활용하는 법
   * 강화학습을 활용한 대화형 시스템 / 대화형 시스템을 구성하기 위해 강화학습을 이용하는 방법 리뷰
 * [How to Make Your Database 200x Faster Without Having to Pay More?](http://feedproxy.google.com/~r/HighScalability/~3/xn9xtF-0Wvc/how-to-make-your-database-200x-faster-without-having-to-pay.html)
   * 데이터 분석에 있어 정확한 수치가 필요한 것이 아니라 데이터의 추이 또는 비율 등을 분석하는 경우에는 전체 데이터가 아닌 샘플링을 하는 방식을 이용할 수 있다는 내용

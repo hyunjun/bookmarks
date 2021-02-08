@@ -322,7 +322,7 @@ Linux
   * [ripgrep: ripgrep recursively searches directories for a regex pattern](https://github.com/BurntSushi/ripgrep)
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox.xhtml)
 * `sync && echo [1|2|3] > /proc/sys/vm/drop_caches` & `[swapoff|swapon] -a`
-  * [Empty the linux buffer cache](http://www.commandlinefu.com/commands/view/1026/empty-the-linux-buffer-cache) 
+  * [Empty the linux buffer cache](http://www.commandlinefu.com/commands/view/1026/empty-the-linux-buffer-cache)
   * [How do you empty the buffers and cache on a Linux system?](http://unix.stackexchange.com/questions/87908/how-do-you-empty-the-buffers-and-cache-on-a-linux-system)
   * [리눅스 서버의 메모리 간단 관리 방법(사용량 확인/캐시삭제/정기관리)](https://osasf.net/discussion/587/리눅스-서버의-메모리-간단-관리-방법-사용량-확인-캐시삭제-정기관리)
 * [More shell, less egg](http://leancrew.com/all-this/2011/12/more-shell-less-egg/) `tr -cs A-Za-z '\n' < [input] | tr A-Z a-z | sort | uniq -c | sort -rn | sed ${1}q`
@@ -377,7 +377,7 @@ Linux
   * [Merging Frequencies in a File](http://www.unix.com/shell-programming-and-scripting/156614-merging-frequencies-file.html)
   * [AWK greater than?](http://www.unix.com/shell-programming-and-scripting/56223-awk-greater-than.html)
   * [Print only the Nth line before each line that matches a pattern](https://unix.stackexchange.com/questions/283471/print-only-the-nth-line-before-each-line-that-matches-a-pattern)
-  * `awk '{ gsub(/\xef\xbb\xbf/,""); print }' INFILE > OUTFILE` [remove ALL <U+FEFF>](https://gist.github.com/szydan/b225749445b3602083ed) 
+  * `awk '{ gsub(/\xef\xbb\xbf/,""); print }' INFILE > OUTFILE` [remove ALL <U+FEFF>](https://gist.github.com/szydan/b225749445b3602083ed)
   * [You are here: Home / Linux Commands / Getting Started With AWK Command](https://linuxhandbook.com/awk-command-tutorial/)
   * [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html)
   * [Running Awk in parallel to process 256M records](https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html)
@@ -795,7 +795,7 @@ Linux
   * [Sendmail Attachment](https://unix.stackexchange.com/questions/223636/sendmail-attachment/223650)
 * [smtp-cli — command line SMTP client](https://github.com/mludvig/smtp-cli) CentOS7에서 test 해봤지만 실패
 * smtplib -> python
-  
+
 # GCC
 * `yum update -y && yum clean all && yum groupinstall "Development Tools" -y` [CentOS / RHEL 7: Install GCC (C and C++ Compiler) and Development Tools](http://www.cyberciti.biz/faq/centos-rhel-7-redhat-linux-install-gcc-compiler-development-tools/)
 * `apt-get update && apt-get install -y build-essential` [How to Install Development Tools on Ubuntu, Debian & LinuxMint](http://tecadmin.net/install-development-tools-on-ubuntu/)
@@ -1053,11 +1053,11 @@ Linux
 * [Reloading tmux config](https://sanctum.geek.nz/arabesque/reloading-tmux-config/)
   * `Ctrl + B`, and then `:`, `:source-file ~/.tmux.conf`
 * switch to the next layout e.g. horizontal pane <-> vertical pane
-  * `C-b space` 
+  * `C-b space`
 * [How to increase scrollback buffer size in tmux?](http://stackoverflow.com/questions/18760281/how-to-increase-scrollback-buffer-size-in-tmux)
   * `set-option -g history-limit 3000`
 * [How do I reorder tmux windows?](http://superuser.com/questions/343572/how-do-i-reorder-tmux-windows)
-  * `swap-window -s [from-number] -t [to-number]` or `swap-window -t [to-number]` 
+  * `swap-window -s [from-number] -t [to-number]` or `swap-window -t [to-number]`
 
 ## command troubleshooting
 * [tmux protocol version mismatch (client N server M)](http://unix.stackexchange.com/questions/122238/protocol-version-mismatch-client-8-server-6-when-trying-to-upgrade)

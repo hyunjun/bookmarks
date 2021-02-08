@@ -112,7 +112,7 @@ Scala
 * [Scala Coding Style Guide:- InShort](https://blog.knoldus.com/scala-coding-styles-guide-inshort/)
 * [Moving from Java to Scala - One year later](https://dzone.com/articles/moving-java-scala-one-year)
 * [From Java to Scala: A Case Study](https://www.youtube.com/watch?v=mo7-VHYYSWQ)
-* [flatMap(Oslo) 2016 컨퍼런스](https://vimeo.com/channels/flatmap2016) 
+* [flatMap(Oslo) 2016 컨퍼런스](https://vimeo.com/channels/flatmap2016)
 * [blog.higher-order.com](http://blog.higher-order.com/) Functional Programming in Scala 저자 블로그
 * [github.com/alexandru/scala-best-practices](https://github.com/alexandru/scala-best-practices) 스칼라에서 하지 말아야 될것들
 * [**Nicolas Rinaudo - Scala Best Practices I Wish Someone'd Told Me About**](https://www.youtube.com/watch?v=lvlnH-uEjZA)
@@ -1600,7 +1600,7 @@ Scala
 * [sbt-yourkit](https://index.scala-lang.org/gilt/sbt-yourkit/sbt-yourkit)
 * [WartRemover: a flexible scala linter](http://www.wartremover.org/)
   * [Writing Custom Wart for Scala](https://medium.com/@tapanvaishnav17/writing-custom-wart-for-scala-9d0adbcb30bc)
-  
+
 ## SBT option
 * `javacOptions ++= Seq("-source", "1.5")` [javac options cannot be blindly passed to javadoc](https://github.com/sbt/sbt/issues/355)
 

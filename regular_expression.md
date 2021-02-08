@@ -62,7 +62,7 @@ Regular Expression
 
 # Go
 * [Regex Tester - Golang](https://regex-golang.appspot.com/)
- 
+
 # Haskell
 * [Well-Typed - The Haskell Consultants: Fix-ing regular expressions](https://well-typed.com/blog/2020/06/fix-ing-regular-expressions/)
 

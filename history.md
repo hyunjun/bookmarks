@@ -210,7 +210,7 @@ History
 * [blog.naver.com/alsn76](http://blog.naver.com/alsn76)
 * [book; 이순신의 끝나지 않은 전쟁](http://jh4hj.tistory.com/entry/%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%9D%98-%EB%81%9D%EB%82%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%A0%84%EC%9F%81)
 * [판옥선으로 세키부네를 들이받기, 불가능한 이유](http://ppss.kr/archives/33245)
-* [이순신 '분실 유물' 6종 중 하나, 박물관서 찾았다](http://www.huffingtonpost.kr/2015/04/05/story_n_7008254.html) 
+* [이순신 '분실 유물' 6종 중 하나, 박물관서 찾았다](http://www.huffingtonpost.kr/2015/04/05/story_n_7008254.html)
 * [이순신 장군이 칼 대신 활을 든 이유](http://1boon.kakao.com/slownews/48854)
 * [임진왜란 직전에 선조가 '수군 해체'한 이유](http://media.daum.net/life/outdoor/travel/newsview?newsId=20161007153104600&RIGHT_LIFE=R4)
 * [임진왜란 부른, 조선 은(銀)제련 신기술](http://v.media.daum.net/v/20161118101509804)
@@ -412,7 +412,7 @@ History
       * 사담 후세인: 전쟁을 일으킨 이유로 추정되는 건 서방의 묵인하에 이란과 전쟁을 했지만 얻은 게 없어서(사우디, 쿠웨이트 등 친서방 국가들의 석유 생산 증가로 경제 사정 악화)
       * 걸프전, 이라크 패배
       * 걸프전 중 미군 사우디 주둔 무자헤딘 출신으로 알카에다를 결성한 오사마 빈 라덴의 반미 투쟁 시작 -> 9/11
-      * 걸프전 이후에도 1991년 알제리 내전, 체첸 전쟁, 보스니아 내전 등 이슬람 관련 분쟁 지속 
+      * 걸프전 이후에도 1991년 알제리 내전, 체첸 전쟁, 보스니아 내전 등 이슬람 관련 분쟁 지속
 * [최근 국제유가? 사우디와 수단에 물어보라!](http://iluvmagic.tistory.com/1399)
 * [Believe it or not, this carving is actually a 3,750-year-old customer service complaint](http://metro.co.uk/2015/03/05/believe-it-or-not-this-carving-is-actually-a-3750-year-old-customer-service-complaint-5090917/)
 * [이란 핵협상은 어떻게 타결에 이르게 됐나](http://www.huffingtonpost.kr/2015/04/03/story_n_6997728.html)
