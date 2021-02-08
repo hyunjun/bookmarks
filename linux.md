@@ -611,6 +611,9 @@ Linux
   * [**서버에 걸리는 부하, 추측하지 말고 계측하자**](https://injae-kim.github.io/dev/2020/07/09/how-to-check-single-server-load-average.html) CPU, I/O bound
   * [Load Average에 대하여 :: Lunatine's Box — Lunatine's Box](https://lunatine.net/2016/02/19/about-load-average/)
 * `sed`
+  * `find . -iname "*.java" -exec sed -i '' 's/[[:space:]]*$//' {} +` 특정 확장자 파일의 trailing whitespace를 sed로 제거
+    * [find & sed (search and replace) - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/36795/find-sed-search-and-replace)
+    * [How to remove trailing whitespaces with sed? - Stack Overflow](https://stackoverflow.com/questions/4438306/how-to-remove-trailing-whitespaces-with-sed)
   * [Sed stream editor 가이드](https://mug896.github.io/sed-stream-editor)
   * [Bash Shell: Remove (Trim) White Spaces From String / Variable](http://www.cyberciti.biz/faq/bash-remove-whitespace-from-string/)
     * `sed -e 's/^[ \t]*//'` remove tab & space at the start of the line
