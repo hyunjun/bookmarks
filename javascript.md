@@ -537,6 +537,7 @@ Javascript
 * [Understanding Memoization in JavaScript to Improve Performance](https://blog.bitsrc.io/understanding-memoization-in-javascript-to-improve-performance-2763ab107092)
 * [A basic introduction to JavaScript variable definitions and hoisting](https://medium.freecodecamp.org/a-basic-introduction-to-javascript-variable-definitions-and-hoisting-93aa38e742eb)
 * [호이스팅과 var, let, const | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/hoisting-var-let-const/)
+* [실행 컨텍스트(Execution Context)를 통해 알아본 호이스팅(Hoisting) 현상의 발생 원인과 이를 통한 let과 var의 차이](https://blog.naver.com/dlaxodud2388/222238394694)
 * [JavaScript Template Literals and styled-components](https://medium.com/@celsius/javascript-template-literals-and-styled-components-d18f97500ffd)
 * [Beginners Guide to Tagged Template Literals in JavaScript](https://medium.com/the-non-traditional-developer/beginners-guide-to-tagged-template-literals-in-javascript-202d1805e862)
 * [Passing Arrays as Function Arguments](https://medium.com/dailyjs/passing-arrays-as-function-arguments-c1f3644ecb9c)
