@@ -840,6 +840,7 @@ Java
   * [Introducing Java toolchains](https://blog.gradle.org/java-toolchains)
   * [Gradle5 -> 6 마이그레이션](https://jojoldu.tistory.com/538)
   * [The Problem with Gradle](https://www.bruceeckel.com/2021/01/02/the-problem-with-gradle/)
+  * [message.properties → \*.json 변환하여 프론트 프로젝트에 넣기. (gradle) :: 삶의여행](https://life-journey.tistory.com/42)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * [hwplib: hwp library for java](https://github.com/neolord0/hwplib)
 * [Immutables 2.0 - We use immutable objects all the time. We created Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most full-featured and mature tool in this field!](http://immutables.github.io/)
