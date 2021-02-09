@@ -1223,6 +1223,7 @@ Programming
 * [Code Review Best Practices – Trisha Gee](https://trishagee.com/presentations/code_review_best_practice/)
 * [Code Review Best Practices - YouTube](https://www.youtube.com/watch?v=3pth05Rgr8U)
 * [Great Code Reviews—The Superpower Your Team Needs — Data Science & Engineering](https://shopify.engineering/great-code-reviews)
+* [코드리뷰가 쏘아올린 작은공 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/02/09/cory.html)
 * [JetBrains 신제품 Space 및 Code With Me 로 생산적인 개발자 되기 by Mikhail Vink - YouTube](https://www.youtube.com/watch?v=J1mL-ghvfx0&t=902)
 * [Paircast - Code Screencast Software](https://paircast.io/)
 
@@ -1473,6 +1474,7 @@ Programming
 * [코드에서 암호를 안전하게 사용할 방법을 찾아서… – OpsNow Tech Blog](https://blog.opsnow.com/15)
 * [2020 최고의 무료 보안 도구 21선 - ITWorld Korea](https://www.itworld.co.kr/news/171389)
 * [Top 5 Cybersecurity Tools for a Work-from-Home World | ActiveState](https://www.activestate.com/blog/top-5-cybersecurity-tools-for-a-work-from-home-world/)
+* [꿀벌개발일지 :: Salted Hashes vs. HMAC](https://ohgyun.com/801)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
