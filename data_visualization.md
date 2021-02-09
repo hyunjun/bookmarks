@@ -321,6 +321,7 @@ Data Visualization
   * [Pandas DataFrame Visualization Tools - Practical Business Python](https://pbpython.com/dataframe-gui-overview.html)
   * [Income from Two Companies (1) | Pega Devlog](https://jehyunlee.github.io/2021/01/21/Python-DS-57-income/)
   * [Income from Two Companies (2) | Pega Devlog](https://jehyunlee.github.io/2021/01/24/Python-DS-58-income2)
+  * [Plot With Pandas: Data Visualizations For Python Beginners - YouTube](https://www.youtube.com/watch?v=vlRGoTjYL4A)
 * [Plotly - Collaborative data science. Plotly is the easiest way to graph and share your data](https://plot.ly/)
   * [Introduction to Interactive Time Series Visualizations with Plotly in Python](https://towardsdatascience.com/introduction-to-interactive-time-series-visualizations-with-plotly-in-python-d3219eb7a7af)
   * [Plotly Python Open Source Graphing Library](https://plot.ly/python/)
