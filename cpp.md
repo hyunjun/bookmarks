@@ -361,6 +361,7 @@ C++
 * gperftools
 * jemalloc
 * [TCMalloc - Google's customized implementation of C's malloc() and C++'s operator new used for memory allocation within our C and C++ code](https://github.com/google/tcmalloc)
+  * [The effect of switching to TCMalloc on RocksDB memory use](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use)
 
 # Thread
 * [Learn C++ Multi-Threading in 5 Minutes | by Ari Saif | HackerNoon.com | Medium](https://medium.com/hackernoon/learn-c-multi-threading-in-5-minutes-8b881c92941f)
