@@ -1070,6 +1070,8 @@ Scala
   * [scala with cats 책 읽으면서 필기 Chapter 6 (Semigroupal and Applicative)](https://wingnim.tistory.com/116)
   * [scala with cats 책 읽으면서 필기 Chapter 7 (Foldable and Traverse)](https://wingnim.tistory.com/117)
   * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
+  * [Idiomatic Error Handling in Scala - Rock the JVM Blog](https://blog.rockthejvm.com/idiomatic-error-handling-in-scala/) Either, Try, Validated
+    * [Idiomatic Error Handling in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=P1KwLUDO4jI)
   * [Addendum to Alex N's blog post on Scala warnings](https://www.inner-product.com/posts/nowarn-addendum/)
   * [Cats Concurrency basics with Ref and Deferred - SoftwareMill Tech Blog](https://blog.softwaremill.com/cats-concurrency-basics-with-ref-and-deferred-399e0335630)
   * [example - Union Find](https://gist.github.com/sungkmi/b30a338e35825f1eaf804fed92ed550e)
