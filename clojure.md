@@ -744,6 +744,7 @@ Clojure
   * [Function serialization between Clojure processes and dialects](https://github.com/dvlopt/fdat.cljc)
 * [Onyx - Distributed, masterless, high performance, fault tolerant data processing for Clojure](https://github.com/onyx-platform/onyx)
   * [Onyx 0.8.0: Automatic State Management](http://michaeldrogalis.github.io/jekyll/update/2015/11/12/Onyx-0.8.0-Automatic-State-Management.html)
+* [overload-fn: Function overloading on type for Clojure](https://github.com/ertugrulcetin/overload-fn)
 * [Parens of the Dead - A screencast series of zombie-themed games written with Clojure and ClojureScript](http://www.parens-of-the-dead.com/)
 * [Parinfer - Let's simplify the way we write Lisp](http://shaunlebron.github.io/parinfer/index.html)
 * [Parinfer for CodeMirror](https://github.com/shaunlebron/parinfer-codemirror)
