@@ -213,6 +213,7 @@ Programming Language
   * [How to setup IHP with Elm | DrifterCode](https://driftercode.com/blog/ihp-with-elm/)
   * [elm-review v2!](https://jfmengels.net/elm-review-v2/)
   * [Elm at Rakuten - DEV Community](https://dev.to/lucamug/elm-6m8)
+  * [Elm: Introduction to a new popular programming language - TechSavvy - YouTube](https://www.youtube.com/watch?v=NSoslWAnmEY)
   * [elm-language-server](https://github.com/elm-tooling/elm-language-server/blob/master/README.md)
 * [English script - English as a programming language!](https://github.com/pannous/english-script/)
 * [Factor - a practical stack language](http://factorcode.org/)
