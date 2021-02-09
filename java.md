@@ -126,6 +126,7 @@ Java
 * [github.com/StiKuan/StiKuan-Review](https://github.com/StiKuan/StiKuan-Review)
 * [The Good, the Bad and the Ugly of Java API design. Miro Cupak, Dnastack](https://www.youtube.com/watch?v=bVNZMEvplY4)
 * [왜 자바에서 final 멤버 변수는 관례적으로 static을 붙일까?](https://djkeh.github.io/articles/Why-should-final-member-variables-be-conventionally-static-in-Java-kor/)
+* [왜 main()는 public static void인가?](https://coco-log.tistory.com/138)
 * [Miro Cupak - The Good, the Bad and the Ugly of Java API design](https://www.youtube.com/watch?v=GGahNwIkAeA)
 * [java hashCode vs identityHashcode : 이 둘은 무엇이 다를까요?](https://codingdog.tistory.com/entry/java-hashCode-vs-identityHashcode-%EC%9D%B4-%EB%91%98%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%BC%EA%B9%8C%EC%9A%94)
 * [왜 java에서는 equals 메서드를 오버라이드 하면 hashCode 도 같이 해야 할까요?](https://codingdog.tistory.com/entry/%EC%99%9C-java%EC%97%90%EC%84%9C%EB%8A%94-equals-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%93%9C-%ED%95%98%EB%A9%B4-hashCode-%EB%8F%84-%EA%B0%99%EC%9D%B4-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
