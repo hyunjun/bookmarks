@@ -710,6 +710,7 @@ Deep Learning
 * [Montréal.AI Academy : AI 101](https://montrealartificialintelligence.com/academy/#Getting-Started-Readings-Source-Code-and-Science)
 * [지도/비지도학습과 강화학습 풀이법](https://tykimos.github.io/2018/09/22/LearningMethod/)
 * [Graph Attention Networks](http://petar-v.com/GAT/)
+* [Graph Attention Networks - Graph ML review](https://harryjo97.github.io/paper%20review/Graph-Attention-Networks/)
 * [Deep Learning To Mobile](https://github.com/younatics/DeepLearningToMobile)
 * [Deep learning made easier with transfer learning](https://blog.fastforwardlabs.com/2018/09/17/deep-learning-is-easy-an-introduction-to-transfer-learning.html)
 * [A Comprehensive Hands-on Guide to Transfer Learning with Real-World Applications in Deep Learning](https://towardsdatascience.com/a-comprehensive-hands-on-guide-to-transfer-learning-with-real-world-applications-in-deep-learning-212bf3b2f27a)
