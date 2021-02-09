@@ -631,6 +631,7 @@ Machine Learning
 * [조대협의 블로그 :: 머신러닝 파이프라인에서 데이터 전처리 방법](https://bcho.tistory.com/1380) 일반적인 이야기 + GCP 이야기
 * [Introducing Machine Learning for Developers Newsletter (ML4Devs, Issue 1) - Machine Learning for Developers](https://ml4devs.substack.com/p/001-machine-learning-for-developers-newsletter)
 * [Machine Learning vs. Traditional Software Development (ML4Devs, Issue 2) - Machine Learning for Developers](https://ml4devs.substack.com/p/002-machine-learning-vs-traditional-software)
+* [A Proof of the Convergence of Gradient Descent – Beomsu Kim – Paper Reviews and Math Posts](https://1202kbs.github.io/GD/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
