@@ -299,6 +299,7 @@ Clojure
 * [algo.generic](https://github.com/clojure/algo.generic)
 * [Write pretty printed Clojure data structures to the clipboard](https://gist.github.com/baskeboler/7d226374582246d28b25801e28e18216)
 * [Dynamic Notebooks and Literate Programming (by Sam Ritchie) - YouTube](https://www.youtube.com/watch?v=UCEzBNh9ufs)
+* [A Random Job Interview Challenge In Clojure | Savo's Blog](https://savo.rocks/posts/a-random-job-interview-challenge-in-clojure/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
