@@ -1205,6 +1205,7 @@ Java
 * [OKKY 자바 스프링이 대세가 된 과정에 대해 #fender - YouTube](https://www.youtube.com/watch?v=eIKsHVUTHR8)
 * [spring에서 FCM (firebase cloud messaging) push 보내기. :: 삶의여행](https://life-journey.tistory.com/16)
 * [프로그램 소스에 비번, API키 등의 하드코딩 피하는 법 #환경변수 - YouTube](https://www.youtube.com/watch?v=glfNqZQGlUA) environment variable
+* [도커에서 환경변수 인식하기 #스프링부트 - YouTube](https://www.youtube.com/watch?v=gt9hJ-H7F9g)
 * [thymeleaf](https://okdevtv.com/mib/spring/thymeleaf)
   * [Thymeleaf 시작하기 - YouTube](https://www.youtube.com/watch?v=tiRi6PLVesY)
   * [7. Spring Thymeleaf 적용해보기](https://kim-jong-hyun.tistory.com/18)
