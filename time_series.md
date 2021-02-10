@@ -37,6 +37,7 @@ Time Series
 * [High-cardinality TSDB benchmarks: VictoriaMetrics vs TimescaleDB vs InfluxDB | by Aliaksandr Valialkin | Medium](https://medium.com/@valyala/high-cardinality-tsdb-benchmarks-victoriametrics-vs-timescaledb-vs-influxdb-13e6ee64dd6b)
 * [Introduction to Machine Learning with Time Series || Markus Loning - YouTube](https://www.youtube.com/watch?v=wqQKFu41FIw)
 * [AI 리뷰 MIT, 시계열 데이터 이상을 감지하는 딥러닝 기반 'TadGAN' 알고리즘 오픈 소스로 공개 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=18700)
+* [시계열 분석을 하라고?](https://brunch.co.kr/@lunarshore/405)
 
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
