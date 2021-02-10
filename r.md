@@ -426,6 +426,7 @@ R
 * [RStudio AI Blog: Please allow me to introduce myself: Torch for R](https://blogs.rstudio.com/ai/posts/2020-09-29-introducing-torch-for-r/)
 * [Simple audio classification with torch | R-bloggers](https://www.r-bloggers.com/2021/02/simple-audio-classification-with-torch/)
 * [text-to-speech - 문자 음성 변환 프로그램](https://statkclee.github.io/deep-learning/r-tts.html)
+* torch [딥러닝 공략집 with R](https://statisticsplaybook.github.io/deeplearning-playbook/)
 
 # Installation
 * [데이터 과학 개발 환경: R+파이썬](https://statkclee.github.io/data-science/ds-languages.html)
