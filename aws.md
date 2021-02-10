@@ -775,6 +775,7 @@ AWS
 * [The Dark Side of AWS Lambda. There is a default feature of AWS… | by Adam Link | Fluidity | Medium](https://medium.com/fluidity/the-dark-side-of-aws-lambda-5c9f620b7dd2)
 * [5 Serverless Architecture Best Practices with AWS Lambda | by AWS Meetup Group | Level Up Coding](https://levelup.gitconnected.com/5-serverless-architecture-best-practices-with-aws-lambda-a707206c098c)
 * [0.1초 동안 컴퓨터를 빌려보자 - AWS Lambda - YouTube](https://www.youtube.com/watch?v=t8sjTFM_tfE)
+* [Deploy babashka script to AWS Lambda | Dainius Jocas](https://www.jocas.lt/blog/post/babashka-aws-lambda/)
 
 ## Lambda Clojure
 * [native-clojure-lambda: Example project of Clojure + GraalVM Native Image + AWS Lambda container images](https://github.com/luontola/native-clojure-lambda)
