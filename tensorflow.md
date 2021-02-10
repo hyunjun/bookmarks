@@ -1272,4 +1272,5 @@ TensorFlow
 * [파이썬 머신러닝 linear regression과 supervised learning (모두의 딥러닝) | sTricky](https://stricky.tistory.com/436)
 * [Multivariable linear regression 딥러닝 예제 개념 및 실습 | sTricky](https://stricky.tistory.com/440)
 * [Logistic classification 모두의 딥러닝 실습 및 개념 파악 하기 | sTricky](https://stricky.tistory.com/442)
+* [Softmax Regression 기본 개념 파악 및 실습하기 | sTricky](https://stricky.tistory.com/445)
 * [꿀벌개발일지 :: DeepLearning.AI TensorFlow Developer 노트](https://ohgyun.com/799)
