@@ -1225,6 +1225,7 @@ Programming
 * [Great Code Reviews—The Superpower Your Team Needs — Data Science & Engineering](https://shopify.engineering/great-code-reviews)
 * [코드리뷰가 쏘아올린 작은공 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/02/09/cory.html)
 * [JetBrains 신제품 Space 및 Code With Me 로 생산적인 개발자 되기 by Mikhail Vink - YouTube](https://www.youtube.com/watch?v=J1mL-ghvfx0&t=902)
+* [함께 일하기 온라인 근무와 회고 - 우아한형제들 기술 블로그](https://woowabros.github.io/culture/2021/02/10/work-together-how-product-system-team-works.html)
 * [Paircast - Code Screencast Software](https://paircast.io/)
 
 # Code Search
