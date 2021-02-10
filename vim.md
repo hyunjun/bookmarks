@@ -142,6 +142,7 @@ Vim
   * ["Slides" and supplemental info from my August 3rd 2016 NYC Vim talk](https://github.com/mcantor/no_plugins)
   * [reddit/how_to_do_90_of_what_plugins_do_with_just_vim](https://www.reddit.com/r/vim/comments/5607lj/how_to_do_90_of_what_plugins_do_with_just_vim/)
 * [cheatsheets/vimscript.html](http://ricostacruz.com/cheatsheets/vimscript.html)
+* [Vim - Quick Reference Cheat Sheet](https://quickref.me/vim)
 * [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
   * [Vim workshop](https://github.com/nicknisi/vim-workshop)
 * [Vim with Windows | 한상곤 Sangkon Han | 2016.07](https://www.youtube.com/watch?v=pKrrw-mfzHg)
