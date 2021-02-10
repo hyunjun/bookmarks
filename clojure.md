@@ -669,6 +669,7 @@ Clojure
 * [Ferret is a Clojure to C++ compiler](http://dropbox.nakkaya.com/builds/ferret-manual.html)
 * [flambo - A Clojure DSL for Apache Spark](https://github.com/yieldbot/flambo)
 * [flare - Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.)](https://github.com/aria42/flare)
+* [fxl - a Clojure spreadsheet library](https://github.com/zero-one-group/fxl)
 * fxml
   * [github.com/netpyoung/pt.using-fxml-on-clojure](https://github.com/netpyoung/pt.using-fxml-on-clojure)
   * [Using FXML on Clojure](https://www.slideshare.net/netpyoung/using-fxml-on-clojure)
