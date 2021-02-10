@@ -904,6 +904,7 @@ Docker
 * [IDG 블로그 | 쿠버네티스가 답이 아닐 때 - ITWorld Korea](https://www.itworld.co.kr/news/180699)
 * [Scaling Kubernetes to 7,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/)
   * [쿠버네티스를 7500노드로 확장하기 | GeekNews](https://news.hada.io/topic?id=3643)
+* [10 awesome Kubernetes tools every user should know | DevNation Tech Talk | Red Hat Developer](https://developers.redhat.com/devnation/tech-talks/10-kubernetes-tools)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
