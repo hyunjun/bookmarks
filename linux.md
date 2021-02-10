@@ -807,6 +807,7 @@ Linux
   ```
 * [Static analysis in GCC 10](https://developers.redhat.com/blog/2020/03/26/static-analysis-in-gcc-10/)
 * [GCC x86 Performance Hints](https://software.intel.com/content/www/us/en/develop/blogs/gcc-x86-performance-hints.html)
+* [Static analysis updates in GCC 11 - Red Hat Developer](https://developers.redhat.com/blog/2021/01/28/static-analysis-updates-in-gcc-11/)
 
 # GNU
 * [Turn GNU command line tools into SaaS (Stupid Hackathon Project)](https://github.com/diafygi/gnu-pricing)
