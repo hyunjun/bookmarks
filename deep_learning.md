@@ -669,6 +669,7 @@ Deep Learning
   * [Live Deep Fakes — you can now change your face to someone else’s in real time video applications](https://medium.com/huia/live-deep-fakes-you-can-now-change-your-face-to-someone-elses-in-real-time-video-applications-a4727e06612f)
   * [FaceForensics++: Learning to Detect Manipulated Facial Images](https://github.com/ondyari/FaceForensics/)
   * [Contributing Data to Deepfake Detection Research](https://ai.googleblog.com/2019/09/contributing-data-to-deepfake-detection.html)
+  * ['아이유인데 아이유가 아닙니다' - YouTube](https://www.youtube.com/watch?v=p2POWAdB2AE)
 * [first-order-model: This repository contains the source code for the paper First Order Motion Model for Image Animation](https://github.com/AliaksandrSiarohin/first-order-model)
   * [first-order-model-demo.ipynb - Colaboratory](https://colab.research.google.com/github/AliaksandrSiarohin/first-order-model/blob/master/demo.ipynb)
 * [Deep Learning summary for 2017: Text and Speech Applications](https://towardsdatascience.com/deep-learning-summary-for-2017-text-and-speech-applications-9ea02bb3835f)
