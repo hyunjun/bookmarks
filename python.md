@@ -770,10 +770,6 @@ Python
   * [Write Better Python Functions](https://hackernoon.com/write-better-python-functions-c3a9a36382a6)
   * [Advanced Python: Consider These 10 Elements When You Define Python Functions | by Yong Cui, Ph.D. | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/advanced-python-consider-these-10-elements-when-you-define-python-functions-61c0be8a10ed)
 * functools
-  * python 3 [lru_cache](https://gist.github.com/hyunjun/cae504f02fd8a0e140d8)
-    * [memoization library for python 2.7](http://stackoverflow.com/questions/11815873/memoization-library-for-python-2-7)
-    * [Scaling and memoization](https://www.johndcook.com/blog/2020/02/16/scaling-and-memoization/)
-    * [Speeding up function calls with just one line in Python | HackerEgg](https://hackeregg.github.io/2020/06/03/Speeding-up-function-calls-with-just-one-line-in-Python.html)
   * [Functools 의 Partial 이란?](http://hamait.tistory.com/823)
 * gc
   * [Visualizing Garbage Collection in Ruby and Python](http://blog.codeship.com/visualizing-garbage-collection-ruby-python/)
@@ -3248,7 +3244,13 @@ Python
 
 ## Library cache
 * [cachetools - Extensible memoizing collections and decorators](http://cachetools.readthedocs.io)
-* functools.lru_cache [Every Python Programmer Should Know LRU_cache From the Standard Library | by Fabian Bosler | Better Programming | Medium](https://medium.com/better-programming/every-python-programmer-should-know-lru-cache-from-the-standard-library-8e6c20c6bc49)
+* functools.lru_cache
+  * python 3 [lru_cache](https://gist.github.com/hyunjun/cae504f02fd8a0e140d8)
+    * [memoization library for python 2.7](http://stackoverflow.com/questions/11815873/memoization-library-for-python-2-7)
+    * [Scaling and memoization](https://www.johndcook.com/blog/2020/02/16/scaling-and-memoization/)
+    * [Speeding up function calls with just one line in Python | HackerEgg](https://hackeregg.github.io/2020/06/03/Speeding-up-function-calls-with-just-one-line-in-Python.html)
+  * [Every Python Programmer Should Know LRU_cache From the Standard Library | by Fabian Bosler | Better Programming | Medium](https://medium.com/better-programming/every-python-programmer-should-know-lru-cache-from-the-standard-library-8e6c20c6bc49)
+  * [Mastering Memoization in Python. Understanding Function Caching in… | by Sadrach Pierre, Ph.D. | Feb, 2021 | Towards Data Science](https://towardsdatascience.com/mastering-memoization-in-python-dcdd8b435189)
 * [methodtools.lru_cache](https://pypi.org/project/methodtools) functools.lru_cache가 classmethod나 staticmethod에 대해 제대로 동작하지 않아 이를 보완하기 위해 작성했다고 함
   * [caching - Python functools lru_cache with class methods: release object - Stack Overflow](https://stackoverflow.com/questions/33672412/python-functools-lru-cache-with-class-methods-release-object/55990799)
 * [Ring - Cache interface as a programming language integration](https://ring-cache.readthedocs.io/)
