@@ -177,6 +177,7 @@
 * [마이크로소프트 비주얼 스튜디오, ‘C 언어’ 지원 강화 - CIO Korea](http://www.ciokorea.com/news/164980)
 * [Microsoft Releases Git Experience in Visual Studio](https://www.infoq.com/news/2020/11/ms-git-experience-visual-studio/)
 * [프리지아 랩 :: Incorrect localization of "Start Windows" menu in Visual Studio 2019](https://www.dokyun.pe.kr/259)
+* [C#으로 맛보는 포인터. C#이 자바와 확실히 다른 부분 중 오랫동안 변치 않는 것은 아마도… | by Jung-Hyun Nam | 닷넷데브 | Feb, 2021 | Medium](https://medium.com/dotnetdev/c-%EC%9C%BC%EB%A1%9C-%EB%A7%9B%EB%B3%B4%EB%8A%94-%ED%8F%AC%EC%9D%B8%ED%84%B0-bb61ab25ee57)
 
 ## Visual Studio Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)
