@@ -92,6 +92,7 @@ SQL
   * [(즐겁게 배우는 SQL #45) 색인 - 색인](https://jhrogue.blogspot.com/2021/02/sql-45.html)
   * [(즐겁게 배우는 SQL #46) 색인 - 표현식 기반의 색인](https://jhrogue.blogspot.com/2021/02/sql-46.html)
   * [(즐겁게 배우는 SQL #47) 트리거 - 트리거](https://jhrogue.blogspot.com/2021/02/sql-47.html)
+  * [(즐겁게 배우는 SQL #48) 트리거 - INSTEAD OF 트리거](https://jhrogue.blogspot.com/2021/02/sql-48-instead-of.html)
 * [고독쓰나미 - YouTube](https://www.youtube.com/channel/UClUrjhtzmAJL-sgXe6sNUkw)
 * [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
 * [EDB is a framework to make and manage backups of your database](https://github.com/RoxasShadow/EDB)
