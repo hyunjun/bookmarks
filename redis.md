@@ -236,6 +236,8 @@ Redis
 * [Flask asynchronous background tasks with Celery and Redis](http://allynh.com/blog/flask-asynchronous-background-tasks-with-celery-and-redis/)
 * [Simple Python Queue with Redis](http://peter-hoffmann.com/2012/python-simple-queue-redis-queue.html)
 * [Basic Message Queue with Redis](http://flask.pocoo.org/snippets/73/)
+* [Asynchronous Tasks in Python with Redis Queue - Twilio](https://www.twilio.com/blog/asynchronous-tasks-in-python-with-redis-queue)
+* [Background Tasks in Python using Redis Queues](https://timber.io/blog/background-tasks-in-python-using-task-queues/)
 * [kubernetes.io/docs/tasks/job/fine-parallel-processing-work-queue/rediswq.py](https://kubernetes.io/docs/tasks/job/fine-parallel-processing-work-queue/rediswq.py)
 * [Task queues](https://www.fullstackpython.com/task-queues.html)
 * [HotQueue - a Python library that allows you to use Redis as a message queue within your Python programs](https://github.com/richardhenry/hotqueue)
