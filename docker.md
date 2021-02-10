@@ -1138,6 +1138,7 @@ Docker
 * [AWS와 Docker Swarm을 이용한 쉽고 빠른 컨테이너 오케스트레이션 - 김충섭 개발자(퍼플웍스)](https://www.youtube.com/watch?v=16LNWMqphOA)
 * [Docker Swarm 을 이용한 Container Orchestration 환경 만들기](https://tech.osci.kr/2019/02/13/59736201/)
 * [Docker swarm - setup and usage](https://knowledgepill.it/posts/docker_swarm_compendium/)
+* [Container Orchestration With Docker Swarm – Julien Salinas](https://juliensalinas.com/en/container-orchestration-docker-swarm-nlpcloud/)
 
 # TDD, Test
 * [Spin up a Docker dev/test Environment in 60 Minutes or Less](https://www.joyent.com/blog/spin-up-a-docker-dev-test-environment-in-60-minutes-or-less)
