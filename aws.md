@@ -474,6 +474,7 @@ AWS
 # Conference
 * [빠르게 훑어보는 "AWS Hero와 함께하는 re:Invent reCap 온라인 세미나" 후기](https://jybaek.tistory.com/888)
 * [AWS Community Day online 2020 - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu)
+* [beNX: Architecture Changes to Handle Massive Peak Traffic - YouTube](https://www.youtube.com/watch?v=cIqVilu7KUM) event driven, auto scalling
 * DevDay
   * [WS DevDay Seoul 2019](https://www.youtube.com/playlist?list=PLORxAVAC5fUWht8FSD70jbjRxp9h6izuI)
   * [AWS DevDay 2018](https://www.youtube.com/playlist?list=PLORxAVAC5fUX-mr4aJYC53zmJNgdxS-gl)
