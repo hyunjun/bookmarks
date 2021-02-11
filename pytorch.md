@@ -184,6 +184,7 @@ PyTorch
   * [Private LB 0.9683 취미유저팀 코드 - DACON](https://dacon.io/codeshare/2292)
   * [Private LB 0.9644 디멜막내팀 코드 - DACON](https://dacon.io/codeshare/2350)
   * [Private LB 0.9688 WeAreApe팀 코드 - DACON](https://dacon.io/codeshare/2351)
+* [SSD-pytorch: SSD: Single Shot MultiBox Detector pytorch implementation focusing on simplicity](https://github.com/uvipen/SSD-pytorch)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
