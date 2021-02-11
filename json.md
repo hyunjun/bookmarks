@@ -92,6 +92,7 @@ Json
 * [Stop using JWT for sessions, part 2: Why your solution doesn't work - joepie91's Ramblings](http://cryto.net/~joepie91/blog/2016/06/19/stop-using-jwt-for-sessions-part-2-why-your-solution-doesnt-work/)
 * [What Exactly Is a JSON Web Token (JWT)? | Better Programming](https://medium.com/better-programming/what-exactly-is-a-json-web-token-678e8a8a5fe4)
 * [LocalStorage vs Cookies: All You Need To Know About Storing JWT Tokens Securely in The Front-End - DEV](https://dev.to/cotter/localstorage-vs-cookies-all-you-need-to-know-about-storing-jwt-tokens-securely-in-the-front-end-15id)
+* [꿀벌개발일지 :: JWT 개념 이해하기](https://ohgyun.com/802)
 
 ## JWT Python
 * [JSON Web Token Tutorial with Example in Python](https://blog.apcelent.com/json-web-token-tutorial-with-example-in-python.html)
