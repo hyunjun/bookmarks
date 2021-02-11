@@ -260,6 +260,7 @@ C++
 * [C++ 20, 최종 기술 승인 획득··· 모듈 및 코루틴 등 추가 - CIO Korea](http://www.ciokorea.com/news/164145)
 * [postgame :: 신박한 c++20 1/2](https://postgame.tistory.com/656)
 * [postgame :: 신박한 c++20 2/2](https://postgame.tistory.com/657)
+* [How C++20 Changes the Way We Write Code - YouTube](https://www.youtube.com/watch?v=D81yl6_kHEM)
 
 # CppCon
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
