@@ -906,6 +906,7 @@ Apache
 # Pinot
 * [Apache Pinot™ (Incubating): Realtime distributed OLAP datastore | Apache Pinot™ (Incubating)](https://pinot.apache.org/)
 * [Introducing Apache Pinot 0.5.0. We are excited to announce that Apache… | by Ting Chen | Apache Pinot Developer Blog | Sep, 2020 | Medium](https://medium.com/apache-pinot-developer-blog/introducing-apache-pinot-0-5-0-e27983b6a678)
+* [Intro to Apache Pinot - YouTube](https://www.youtube.com/watch?v=T70jTTYhYyM)
 
 # [PredictionIO](http://predictionio.incubator.apache.org/)
 * [incubator-predictionio - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray. http://prediction.io ](https://github.com/apache/incubator-predictionio)
