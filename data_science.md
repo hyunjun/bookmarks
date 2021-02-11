@@ -547,6 +547,8 @@ Data Science
 * MKL Intel
   * [Installing the Intel® Distribution for Python and Intel® Performance Libraries with pip and PyPI](https://software.intel.com/en-us/articles/installing-the-intel-distribution-for-python-and-intel-performance-libraries-with-pip-and)
 * [OpenRVDAS (Open Research Vessel Data Acquisition System) - a Python-based open source architecture intended to allow easy creation of customized data acquisition systems for research vessels and other scientific installations](https://openrvdas.org)
+* [Prefect - The New Standard in Dataflow Automation - Prefect](https://www.prefect.io/)
+  * [PyData Triangle Meetup | Eleanor Hanna & Mary Clair Thompson - YouTube](https://www.youtube.com/watch?v=IwWr14ntg5w)
 * [Pytubes - a library that optimizes loading datasets into memory](https://github.com/stestagg/pytubes)
   * [Analysing 1.4 billion rows with python Using pytubes, numpy and matplotlib](https://hackernoon.com/analysing-1-4-billion-rows-with-python-6cec86ca9d73)
 * RAPIDS
@@ -637,6 +639,7 @@ Data Science
 * [추천 서비스와 아키텍처 2 -추천 서비스 제공을 위한 아키텍처 | by Jongmin Lee | How we build MyRealTrip | Nov, 2020 | Medium](https://medium.com/myrealtrip-product/%EC%B6%94%EC%B2%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%99%80-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-2-%EC%B6%94%EC%B2%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A0%9C%EA%B3%B5%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-9897d6dc8bc9)
 * [당신 취향의 맛집을 추천해드립니다 : 장소 개인화 추천 시스템의 비밀](https://tv.naver.com/v/16968206/list/657024)
 * [추천시스템 평가는 어떻게 하면 좋을까?](https://lsjsj92.tistory.com/608)
+* [번역글 REVEAL'20 Workshop Introduction | You May Also Like](https://ziminpark.github.io/posts/REVEAL%2720-%EC%86%8C%EA%B0%9C-%28%EB%B2%88%EC%97%AD%29-5e8b3d4ff4ed42cdb7199afc192b7fe3/)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
