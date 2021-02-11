@@ -713,6 +713,7 @@ Git
 * [Githelp](https://githelp.io/?ref=hackernews)
 * [**git-history - Quickly browse the history of any GitHub file https://githistory.xyz **](https://github.com/pomber/git-history)
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
+* github1s [🚀깃헙 코드를 1초만에 VS Code로 - YouTube](https://www.youtube.com/watch?v=eFol6hBxm0E)
 * [GitHub Hovercard - Quick user hovercard for GitHub](https://github.com/Justineo/github-hovercard)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
 * [Gitiny - iOS app for GitHub with exploring trending](https://github.com/k-lpmg/GiTiny)
