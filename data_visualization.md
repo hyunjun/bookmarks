@@ -427,6 +427,7 @@ Data Visualization
 * [Matplotlib Colormap Customization (1) | Pega Devlog](https://jehyunlee.github.io/2020/08/06/Python-DS-24-custom_colormap/)
 * [Matplotlib Colormap Customization (2) | Pega Devlog](https://jehyunlee.github.io/2020/08/10/Python-DS-25-custom_colormap_code/)
 * [Matplotlib Colormap Customization (3) | Pega Devlog](https://jehyunlee.github.io/2020/08/11/Python-DS-26-custom_colormap_code2/)
+* [Density Plot with Colormap | Pega Devlog](https://jehyunlee.github.io/2021/02/11/Python-DS-61-mpl_colormapkde/)
 * [Focusing on a Certain Data | Pega Devlog](https://jehyunlee.github.io/2020/08/26/Python-DS-27-mpl_focus/)
 * [Spines & Grids | Pega Devlog](https://jehyunlee.github.io/2020/08/27/Python-DS-28-mpl_spines_grids/)
 * [Mapping Shapefile on Raster Map | Pega Devlog](https://jehyunlee.github.io/2020/09/21/GIS-Python-3-raster_and_polygon/) geotiff, gdal
@@ -437,6 +438,7 @@ Data Visualization
 * [Picking and Modifying Colors | Pega Devlog](https://jehyunlee.github.io/2021/01/15/Python-DS-55-colors)
 * [Plot with Variable Class | Pega Devlog](https://jehyunlee.github.io/2021/01/28/Python-DS-59-plot_class/)
 * [Matplotlib plot colors | Pega Devlog](https://jehyunlee.github.io/2021/02/04/Python-DS-60-mpl_colors/)
+* [How matrices transform space - Pritesh Shrivastava’s Blog](https://pritesh-shrivastava.github.io/blog/2021/02/09/matrix-transformation)
 * [**itermplot - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal**](https://github.com/daleroberts/itermplot)
 * [mpld3 - Plotly 랑 Bokeh 공부하기 귀찮다. 그냥 matplotlib 를 사용해서 웹서비스하자](http://hamait.tistory.com/850)
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn)
