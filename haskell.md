@@ -343,6 +343,7 @@ Haskell
 * [LambdaConf 2015 - Developing Web Applications with Haskell Alejandro Serrano Mena](https://www.youtube.com/watch?v=FnaD4xS_hHY)
 * [ZuriHac 2020](https://zfoh.ch/zurihac2020/)
   * [ZuriHac 2020 - YouTube](https://www.youtube.com/playlist?list=PLiU7KJ5_df6aZbNfh_TUJt-6w9N3rYkTX)
+* [한국 하스켈 학교 제1 회 세미나](https://haskellschoolkr.github.io/seminar/1/)
 
 # Library
 * [Haskell with UTF-8](https://serokell.io/blog/haskell-with-utf8)
