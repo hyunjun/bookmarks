@@ -496,6 +496,9 @@ Docker
 * [**개발 환경에서 유용한 Docker 명령어 소개**](https://spoqa.github.io/2017/06/22/docker-tip.html)
 * [이미지, 컨테이너 export, import](https://jybaek.tistory.com/566)
 * [도커 트러블슈팅 - 컨테이너 실행환경 디버깅 run, exec, commit 명령어 활용하기](https://www.44bits.io/ko/post/docker-container-trouble-shooting-by-exec-and-commit)
+* [Linux Host 에서 Docker 관련 명령어 정리(CentOS 8.x 기준)](https://blog.naver.com/yuheewon01/222221489635)
+* [한 장의 이미지로 보는 도커(docker) 명령어 정리](https://open-support.tistory.com/entry/%ED%95%9C-%EC%9E%A5%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EB%8F%84%EC%BB%A4docker-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
+* [docker cheat sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)
 * build
   * `docker build -t [name]:[tag] .`
   * `--build-arg` e.g. `sudo docker build --build-arg http_proxy=http://x.y.z.w:port --build-arg https_proxy=http://x.y.z.w:port -t [name]:[tag] .`
@@ -552,6 +555,7 @@ Docker
   * `sudo docker rm $(sudo docker ps -a | grep Exited | awk '{print $1}' | xargs)` [docker rmi cannot remove images, with: no such id](http://stackoverflow.com/questions/24733160/docker-rmi-cannot-remove-images-with-no-such-id)
   * [`docker rm $(docker ps -q -f 'status=exited')`](https://github.com/docker/docker/issues/18869)
   * [`docker volume rm $(docker volume ls -qf dangling=true)`](https://github.com/docker/docker/issues/18869)
+  * `docker ps -aq | xargs docker rm` 종료된 docker container 한꺼번에 삭제(docker ps -q 옵션 = 컨테이너 고유 해시값만 출력)
 * rmi `sudo docker rmi [-f] [image id]`
   * `sudo docker rmi --force $(sudo docker images -a | grep none | awk '{print $3}' | xargs)`
   * [`docker rmi $(docker images -q -f "dangling=true")`](https://github.com/docker/docker/issues/18869)
