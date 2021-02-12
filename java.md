@@ -1097,6 +1097,7 @@ Java
   * [스프링 웹플럭스(WebFlux) SSE(Server Sent Event) 구현 1](https://javacan.tistory.com/entry/spring-webflux-server-sent-event-1)
   * [스프링 웹플럭스(WebFlux) SSE(Server Sent Event) 구현 2](https://javacan.tistory.com/entry/spring-webflux-server-sent-event-2)
   * [레진 기술 블로그 - Spring WebFlux 기반의 컨텐츠 인증 서비스 개발 후기](https://tech.lezhin.com/2020/07/15/kotlin-webflux)
+  * [How to develop a Reactive CRUD REST API with Spring WebFlux? | Making Java easy to learn](https://javatechonline.com/how-to-develop-a-reactive-crud-rest-api-with-spring-webflux/)
 * [스프링 MVC 커스텀 HandlerMethodArgumentResolver 사용하기](http://javacan.tistory.com/entry/how-use-spring-mvc-custom-HandlerMethodArgumentResolver)
 * 신입 개발자 & 학생을 위한 Spring MVC Setting
   * [(1편)](https://www.popit.kr/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%95%99%EC%83%9D%EC%9D%84-%EC%9C%84%ED%95%9C-spring-mvc-setting-1%ED%8E%B8/)
