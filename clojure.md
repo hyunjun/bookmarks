@@ -300,6 +300,7 @@ Clojure
 * [Write pretty printed Clojure data structures to the clipboard](https://gist.github.com/baskeboler/7d226374582246d28b25801e28e18216)
 * [Dynamic Notebooks and Literate Programming (by Sam Ritchie) - YouTube](https://www.youtube.com/watch?v=UCEzBNh9ufs)
 * [A Random Job Interview Challenge In Clojure | Savo's Blog](https://savo.rocks/posts/a-random-job-interview-challenge-in-clojure/)
+* [A Year Or So With Clojure | Giovani Altelino](https://www.giovanialtelino.com/post/a-year-clojure/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -643,7 +644,8 @@ Clojure
 * [cortex - Machine learning in Clojure](https://github.com/thinktopic/cortex)
 * [CounterClockWise IDE](https://github.com/ccw-ide) Eclipse Plugin for the Clojure Language
 * [cryogen - Static sites generated with Clojure](http://cryogenweb.org/)
-* [crux - open source document database with bitemporal graph queries](https://juxt.pro/crux/index.html)
+* [Crux - The open database with temporal graph query](https://opencrux.com/)
+  * [Crux | Command Line Crux](https://opencrux.com/blog/crux-command-line.html)
 * [dali is a Clojure library for representing the SVG graphics format](https://github.com/stathissideris/dali)
 * Datalog
   * [Datalog for trees in Clojure](http://blog.juxt.pro/posts/datascript-dom.html)
@@ -733,7 +735,8 @@ Clojure
 * [marathon-clj - Clojure client library for Mesos Marathon](https://github.com/eunmin/marathon-clj)
 * [medley - A lightweight library of useful Clojure functions](https://github.com/weavejester/medley)
 * [mixfix-clj](https://github.com/awto/mixfix-clj) 중위 표기 이용 가능 e.g. 수식
-* [Monger is an idiomatic Clojure MongoDB driver for a more civilized age: with sane defaults, batteries included, well documented, very fast http://clojuremongodb.info](https://github.com/michaelklishin/monger)
+* [Monger - an idiomatic Clojure MongoDB driver for a more civilized age: with sane defaults, batteries included, well documented, very fast http://clojuremongodb.info](https://github.com/michaelklishin/monger)
+* [mongrove: A Clojure library designed to interact with MongoDB using the latest java-sync drivers : https://mongodb.github.io/mongo-java-driver/4.1/driver/](https://github.com/helpshift/mongrove)
 * [Muse](https://github.com/kachayev/muse)
   * [Solving the "N+1 Selects Problem" with Muse](https://github.com/kachayev/muse/blob/master/docs/sql.md)
 * [Neanderthal - Fast native-speed matrix and linear algebra in Clojure](http://neanderthal.uncomplicate.org/)
