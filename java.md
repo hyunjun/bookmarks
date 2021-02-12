@@ -1207,6 +1207,7 @@ Java
 * [spring에서 FCM (firebase cloud messaging) push 보내기. :: 삶의여행](https://life-journey.tistory.com/16)
 * [프로그램 소스에 비번, API키 등의 하드코딩 피하는 법 #환경변수 - YouTube](https://www.youtube.com/watch?v=glfNqZQGlUA) environment variable
 * [도커에서 환경변수 인식하기 #스프링부트 - YouTube](https://www.youtube.com/watch?v=gt9hJ-H7F9g)
+* [21. Spring - 게시판 목록의 No값(주로PK값)을 순번으로 나타내기](https://kim-jong-hyun.tistory.com/37)
 * [thymeleaf](https://okdevtv.com/mib/spring/thymeleaf)
   * [Thymeleaf 시작하기 - YouTube](https://www.youtube.com/watch?v=tiRi6PLVesY)
   * [7. Spring Thymeleaf 적용해보기](https://kim-jong-hyun.tistory.com/18)
@@ -1257,6 +1258,7 @@ Java
 * [Spring Batch ItemReader에서 Reader DB 사용하기 (feat. AWS Aurora)](https://jojoldu.tistory.com/506)
 * [Spring Batch에서 socket was closed by server 발생시](https://jojoldu.tistory.com/526)
 * [Spring Batch 파티셔닝 (Partitioning) 활용하기](https://jojoldu.tistory.com/550)
+* [Spring Batch CSV Reader & Writer | Popit](https://www.popit.kr/spring-batch-csv-reader-writer/)
 * [JobParameter 활용 방법 (feat. LocalDate 파라미터 사용하기)](https://jojoldu.tistory.com/490)
 * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
 * [aop를 이용한 oauth2 캐시 적용하기](http://woowabros.github.io/experience/2019/03/05/aop-oauth2-redis.html)
