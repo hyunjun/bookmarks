@@ -397,6 +397,7 @@ Java
 * [자바 8 람다에서 checked exception을 어떻게 구현하면 좋을까?](https://www.slipp.net/questions/572)
 * [Functional Exceptions In Java](https://8thlight.com/blog/brian-gerstle/2019/01/22/fnl-exceptions-in-java.html)
 * [Get a Taste of Lambdas and Get Addicted to Streams by Venkat Subramaniam](https://www.youtube.com/watch?v=1OpAgZvYXLQ)
+* [5. JAVA - 스트림과 함수형 인터페이스(람다식)](https://kim-jong-hyun.tistory.com/38)
 * [Design Patterns in the Light of Lambda Expressions. Venkat Subramaniam, Agile developer, inc.](https://www.youtube.com/watch?v=WN9kgdSVhDo)
 * [Java 8의 람다 함수 살펴보기](https://huni.org/java-8의-람다-함수-살펴보기-1767d034f962)
 * [잘못 작성된 람다 코드를 삭제하기까지의 여정](https://helloworld.kurly.com/blog/study-in-lambda/)
