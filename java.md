@@ -1367,6 +1367,7 @@ Java
 * [스프링 부트 JPetStore 쇼핑몰 예제의 DB에 접근하기 #DBeaver - YouTube](https://www.youtube.com/watch?v=iH2ZuNlrI9o)
 * [마이바티스 SQL 매퍼 버그 수정하기 #JPetStore #MyBatis - YouTube](https://www.youtube.com/watch?v=pz6XBMxs8kE)
 * [🌱스프링 부트로 쉽게 배치 프로그램 만들기 - YouTube](https://www.youtube.com/watch?v=d-pGQRctmeY)
+* [⏳스프링 부트의 비동기 메소드 만들기 - YouTube](https://www.youtube.com/watch?v=CC7qxnLFkeU)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
