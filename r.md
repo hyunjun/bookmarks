@@ -386,7 +386,7 @@ R
 * [R for Political Data Science: A Practical Guide - 1st Edition - Franci](https://www.routledge.com/R-for-Political-Data-Science-A-Practical-Guide/Urdinez-Cruz/p/book/9780367818890)
 * [Text Mining with R](http://tidytextmining.com/)
 
-# Conference
+# Conference Meetup
 * [LA East R Users Presentations](https://github.com/laRusers/presentations)
 * [New York R conference](http://www.rstats.nyc/)
 * [R/Finance](http://www.rinfinance.com/)
@@ -401,6 +401,12 @@ R
 * [rstudio::global(2021)](https://global.rstudio.com/student/catalog)
 * [R User Conference in Korea 2018](http://ruck2018.r-kor.org/speakers)
 * [R USER CONFERENCE IN KOREA 2019 프로그램](http://ruck2019.r-kor.org/program/)
+* [Seoul R Meetup - YouTube](https://www.youtube.com/channel/UCW-epmIvjBEhhVXw_F0Nqbw)
+  * [Seoul R Meetup](https://tidyverse-korea.github.io/seoul-R/)
+  * [Seoul R Users: 2020 | Meetup](https://www.meetup.com/ko-KR/seoul-r-meetup/events/ccqpbsyccdbnb/)
+    * 미국주식 데이터 수집 이현열 [R을 이용한 해외 주식용 데이터 수집](https://hyunyulhenry.github.io/lecture/210210_r_meetup/index.html)
+    * R을 이용한 GIS 데이터 핸들링 하헌철
+    * 돈이 될지도 모르는 암호화폐의 변동성 분석 안상선
 
 # Deep Learning
 * [R’s way for Deep Learning with Keras](http://freesearch.pe.kr/archives/4637)
