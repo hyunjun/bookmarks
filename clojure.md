@@ -22,6 +22,7 @@ Clojure
   * [Fibonacci Sequence – 4Clojure #26](http://seonho.kim/2017/03/12/4clojure-fibonacci-sequence/)
   * [seonho.kim/tag/4clojure](http://seonho.kim/tag/4clojure/)
 * [Clojure - DEV Community](https://dev.to/t/clojure)
+* [Building a community for sustainability-oriented Clojure work - Community Center / Community Building - ClojureVerse](https://clojureverse.org/t/building-a-community-for-sustainability-oriented-clojure-work/7159)
 * [clojure for the brave and true](http://www.braveclojure.com/)
 * [Clojure koans](http://clojurekoans.com/)
 * [Awesome Clojure](https://github.com/razum2um/awesome-clojure)
@@ -301,6 +302,7 @@ Clojure
 * [Dynamic Notebooks and Literate Programming (by Sam Ritchie) - YouTube](https://www.youtube.com/watch?v=UCEzBNh9ufs)
 * [A Random Job Interview Challenge In Clojure | Savo's Blog](https://savo.rocks/posts/a-random-job-interview-challenge-in-clojure/)
 * [A Year Or So With Clojure | Giovani Altelino](https://www.giovanialtelino.com/post/a-year-clojure/)
+* [Reimplementing TeX's Algorithms: Looking Back at Thirty Years of Programming](https://www.infoq.com/news/2015/01/implementing-tex-in-clojure/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -523,6 +525,7 @@ Clojure
 * [Functional / Microservices in Real-Time Financials](https://www.infoq.com/presentations/nubank-financial-systems/)
 * [Solving Problems the Clojure Way - Rafal Dittwald - YouTube](https://www.youtube.com/watch?v=vK1DazRK_a0)
 * [Stratified Design: A Lisp Tradition - re:Clojure 2020 TALK - LispCast](https://lispcast.com/stratified-design-a-lisp-tradition-reclojure-2020-talk/)
+* [How To Be A REPL Sorcerer - Oliver Caldwell - re:Clojure 2020 - YouTube](https://www.youtube.com/watch?v=lR2vbwuzrIM)
 
 # Debug
 * [Debugging in Clojure?](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
@@ -623,6 +626,7 @@ Clojure
 * [The Clojure Toolbox - A categorised directory of libraries and tools for Clojure](http://www.clojure-toolbox.com/)
 * [clojure.java.jdbc - A low-level Clojure wrapper for JDBC-based access to databases](https://github.com/clojure/java.jdbc)
 * [clojure-lsp: Language Server (LSP) for Clojure](https://github.com/clojure-lsp/clojure-lsp)
+  * [Overview - Clojure LSP](https://clojure-lsp.github.io/clojure-lsp/)
 * [clojure-rust-graalvm: An example of Clojure program calling a Rust library, all combined into one executable using GraalVM](https://github.com/borkdude/clojure-rust-graalvm)
 * [clojure-turtle - A Clojure library that implements the Logo programming language in a Clojure context](https://github.com/google/clojure-turtle)
 * [clojure-web-minsetup](https://github.com/clonekim/clojure-web-minsetup)
@@ -836,6 +840,7 @@ Clojure
 * [How to be a REPL Sorcerer - YouTube](https://www.youtube.com/watch?v=AcWnGKGqFZA)
 * [REPL Driven Development, Clojure's Superpower (by Sean Corfield) - YouTube](https://www.youtube.com/watch?v=gIoadGfm5T8)
 * [Sending clojure data from the REPL to the clipboard | Basket's dev blog](https://basket-blog.netlify.app/pretty-print-clojure-data-to-clipboard)
+* [Reaching flow state with Clojure's REPL -- newline](https://www.newline.co/@shivekkhurana/reaching-flow-state-with-clojures-repl--14018b04)
 * [Gorilla REPL](http://gorilla-repl.org/)
   * [lein-gorildown](https://github.com/ksseono/lein-gorildown)
 * [inf clojure REPL](https://github.com/boot-clj/boot/wiki/inf-clojure-REPL)
