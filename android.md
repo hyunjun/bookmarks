@@ -74,6 +74,7 @@ Android
 * [MVVM에 대해서 알아보겠습니다](https://developer88.tistory.com/205)
 * [AAC를 사용하여 MVVM Pattern을 구현한 안드로이드 앱 만들기](https://medium.com/hongbeomi-dev/aac%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-mvvm-pattern%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-1d6d73689bd0)
 * [SingleLiveEvent와 Event 정리 - Jungwoon Blog](https://jungwoon.github.io/android/livedata/2020/11/25/SingleLiveEvent/)
+* [Android LiveData의 사용법과 내부 코드를 통한 UI 처리, 중복 처리 등 살펴보기](https://thdev.tech/android/2021/02/01/LiveData-Intro/)
 * [클린 아키텍처와 함께하는 배민앱 (Android)](http://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)
 * [Android Architecture 총정리](https://speakerdeck.com/saryong/android-architecture-congjeongri)
 * [Using TensorFlow on Android — step by step code explanation](https://proandroiddev.com/using-tensorflow-in-android-step-by-step-code-explanation-fee36c281f32)
