@@ -503,3 +503,7 @@ C
 * [“여전히 매력적인 선택지”··· C 언어 주요 강좌 4선 - CIO Korea](http://www.ciokorea.com/news/169105)
 * [C프로그래밍 - YouTube](https://www.youtube.com/playlist?list=PLTaZLG4fpb-v6l46734j2XFgc9yyM5p27)
 * [C Lang 이론 카테고리 목록](https://lypicfa.tistory.com/555)
+
+# Web
+* [**나만의 웹서버 구현해보기!**](https://velog.io/@seanlion/webserver)
+  * [Tiny-Web-Server](https://github.com/seanlion/Tiny-Web-Server)
