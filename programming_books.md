@@ -192,6 +192,7 @@ Programming Books
 * (NOT YET) [서비스 운영이 쉬워지는 AWS 인프라 구축 가이드](https://wikibook.co.kr/aws-infra/)
 * (NOT YET) [테라폼 설치에서 운영까지](https://jpub.tistory.com/907)
   * [테라폼 설치에서 운영까지](https://blog.outsider.ne.kr/1451)
+  * [테라폼 설치에서 운영까지 (Terraform Up & Running)](https://jybaek.tistory.com/893)
 * (NOT YET) [스프링 부트와 AWS로 혼자 구현하는 웹 서비스 출간 후기](https://jojoldu.tistory.com/463)
 
 # Android
