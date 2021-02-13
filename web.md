@@ -575,6 +575,7 @@ Web
 * [Introducing NGINX Service Mesh - NGINX](https://www.nginx.com/blog/introducing-nginx-service-mesh/)
 * [nginx를 이용해 호스트를 바꾸어 request 날리기](https://www.huskyhoochu.com/october-i-learned/)
 * [Nginx의 응답헤더 중 Server 속성 변경하기 | FUREWEB](https://fureweb-com.github.io/blog/2018/10/20/changing-server-properties-in-nginx's-response-header.html)
+* [nginx 시작하기 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222242046633)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
 * [Nginx Proxy Manager](https://nginxproxymanager.com/)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
