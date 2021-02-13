@@ -305,6 +305,7 @@ PyTorch
 * [hyperlearn - Faster, Leaner GPU Sklearn, Statsmodels written in PyTorch](https://www.techleer.com/articles/568-presenting-a-modern-big-data-algorithm-hyperlearn-50-faster-machine-learning)
 * [Joey NMT framework - developed for educational purposes](https://github.com/joeynmt/joeynmt)
 * [kornia - Open Source Differentiable Computer Vision Library for PyTorch https://kornia.org ](https://github.com/arraiyopensource/kornia)
+* [LabML Neural Networks](https://nn.labml.ai/)
 * [learn2learn - PyTorch Meta-learning Framework for Researchers http://learn2learn.net ](https://github.com/learnables/learn2learn)
 * libtorch
   * [visual guide : pytorch c++ api (libtorch) setting on vs2017 , no CMake](https://github.com/nomoreid/visual_guide_pytorch_cpp_api_vs2018_no_cmake)
