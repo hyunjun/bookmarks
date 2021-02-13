@@ -1508,14 +1508,7 @@ NLP
 * [Peeking into the neural network architecture used for Google's Neural Machine Translation](http://smerity.com/articles/2016/google_nmt_arch.html)
 * [Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](https://arxiv.org/abs/1611.04558) 여러 언어를 동시에 번역하도록 학습했더니 한번도 학습에 사용한 적이 없는 언어쌍에 대해서도 번역이 가능
 * [ZERO-SHOT LEARNING FOR VISION AND MULTIMEDIA](https://staff.fnwi.uva.nl/t.e.j.mensink/zsl2016/)
-* [gtbot - 구글 번역 API를 이용한 슬랙 번역 봇입니다](https://github.com/qodot/gtbot)
 * [GNMT로 알아보는 신경망 기반 기계번역](https://drive.google.com/file/d/0B_Ekt7icI0htZGlpWVpwODJSOVU/view)
-* [OpenNMT - a industrial-strength, open-source (MIT) neural machine translation system utilizing the Torch mathematical toolkit](http://opennmt.net/)
-  * [Open-Source Neural Machine Translation in PyTorch http://opennmt.net ](https://github.com/OpenNMT/OpenNMT-py)
-  * [OpenNMT-Colab-Tutorial OpenNMT Colab Tutorial Pytorch && Tensorflow](https://github.com/Parkchanjun/OpenNMT-Colab-Tutorial)
-* [nmtpy - a suite of Python tools, primarily based on the starter code provided in github.com/nyu-dl/dl4mt-tutorial for training neural machine translation networks using Theano](https://github.com/lium-lst/nmtpy)
-* [py-googletrans - (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge](https://github.com/ssut/py-googletrans)
-* [onlinedoctranslator.com](https://www.onlinedoctranslator.com/) 구글 api를 사용해 만든 번역 서비스
 * [Deep Learning Takes on Translation](https://cacm.acm.org/magazines/2017/6/217734-deep-learning-takes-on-translation/fulltext)
 * [TensorFlow에서 나만의 신경 기계 번역 시스템 구축](https://www.facebook.com/nextobe1/posts/345585482544120)
 * [Learned in translation: contextualized word vectors](https://einstein.ai/research/learned-in-translation-contextualized-word-vectors)
@@ -1535,7 +1528,6 @@ NLP
 * [기계번역 시퀀스 투 시퀀스 + 어텐션 모델](https://www.youtube.com/watch?v=WsQLdu2JMgI)
   * [Neural Machine Translation with Attention](https://colab.research.google.com/github/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb)
 * [Neural Machine Translation With Attention Mechanism](https://machinetalk.org/2019/03/29/neural-machine-translation-with-attention-mechanism/)
-* [word2word - Easy-to-use word-to-word translations for 3,564 language pairs](https://github.com/Kyubyong/word2word)
 * [Attn: Illustrated Attention](https://towardsdatascience.com/attn-illustrated-attention-5ec4ad276ee3)
 * [모두를 위한 기계번역](https://blog.naver.com/bcj1210/221581381848)
 * [SK T아카데미 모두를 위한 기계번역](https://github.com/Parkchanjun/SK_MT_FOR_EVERYONE)
@@ -1544,6 +1536,15 @@ NLP
 * [Unsupervised Word Segmentation for Neural Machine Translation and Text Generation](https://github.com/rsennrich/subword-nmt)
 * [Combined Quality Estimation and Automatic Post Editing in Machine Translation (기계번역 품질예측과 사후처리의 기술 융합)](https://blog.naver.com/bcj1210/221714284644)
 * [제주어 기계번역 모델과 음성합성 모델에 관한 연구를 소개합니다](https://kakaobrain.com/blog/119)
+* [gtbot - 구글 번역 API를 이용한 슬랙 번역 봇입니다](https://github.com/qodot/gtbot)
+* [LibreTranslate: Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate](https://github.com/uav4geo/LibreTranslate)
+* [nmtpy - a suite of Python tools, primarily based on the starter code provided in github.com/nyu-dl/dl4mt-tutorial for training neural machine translation networks using Theano](https://github.com/lium-lst/nmtpy)
+* [onlinedoctranslator.com](https://www.onlinedoctranslator.com/) 구글 api를 사용해 만든 번역 서비스
+* [OpenNMT - a industrial-strength, open-source (MIT) neural machine translation system utilizing the Torch mathematical toolkit](http://opennmt.net/)
+  * [Open-Source Neural Machine Translation in PyTorch http://opennmt.net ](https://github.com/OpenNMT/OpenNMT-py)
+  * [OpenNMT-Colab-Tutorial OpenNMT Colab Tutorial Pytorch && Tensorflow](https://github.com/Parkchanjun/OpenNMT-Colab-Tutorial)
+* [py-googletrans - (unofficial) Googletrans: Free and Unlimited Google translate API for Python. Translates totally free of charge](https://github.com/ssut/py-googletrans)
+* [word2word - Easy-to-use word-to-word translations for 3,564 language pairs](https://github.com/Kyubyong/word2word)
 
 # Tutorial
 * [Natural Language Processing (NLP) Tutorial | Data Science Tutorial | Simplilearn](https://www.youtube.com/watch?v=6WpnxmmkYys)
