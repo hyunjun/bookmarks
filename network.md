@@ -70,6 +70,7 @@ Network
 * [A record A 레코드와 CNAME의 차이점을 알아보자](https://developer88.tistory.com/282)
 * [DNS(Domain Name System)에 대한 총정리](https://developer88.tistory.com/311)
 * [What happens when you update your DNS?](https://jvns.ca/blog/how-updating-dns-works/)
+* [온라인 협업 도구 노션(Notion) 장애와 DNS 문제 대응 | 44BITS](https://www.44bits.io/ko/post/news--notion-outage-dns-issue)
 
 # HTTP
 * [HTTP ERROR CODE](https://ukjin.tistory.com/2)
