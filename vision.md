@@ -228,6 +228,7 @@ Vision
     * [YOLOv4 Object Detection Crash Course | YOLO v4 how it works and how to build it](https://morioh.com/p/561378ecb692)
     * [YOLOv4 in the CLOUD: Build Object Tracking Using DeepSORT in Google Colab (FREE GPU)](https://morioh.com/p/05709eb76aeb)
     * [How to Build a Custom YOLOv4 Object Detector using TensorFlow](https://morioh.com/p/f9702a8223b2)
+    * [Yolo V4 를 이용한 유리층 식별/분류 솔루션](https://www.lanshinkorea.com/35)
   * v5
     * [YOLO V4 vs V5 - YouTube](https://www.youtube.com/watch?v=H4Wa6QY28e8)
     * [YOLOv5 is Here: State-of-the-Art Object Detection at 140 FPS](https://blog.roboflow.ai/yolov5-is-here/)
