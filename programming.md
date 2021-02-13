@@ -1508,6 +1508,7 @@ Programming
 * [디버깅과 야근](https://yisooan.wordpress.com/2020/06/06/debug-and-overwork/)
 * [Debugging Incidents in Google's Distributed Systems - ACM Queue](https://queue.acm.org/detail.cfm?id=3404974)
 * [Here’s How I Solved a Weird Bug Using Tried and True Debugging Strategies | CSS-Tricks](https://css-tricks.com/heres-how-i-solved-a-weird-bug-using-tried-and-true-debugging-strategies/)
+* [디버깅으로 문제 해결하는 방법 - YouTube](https://www.youtube.com/watch?v=bJKr70z54Mc) IntelliJ + Java
 
 # DevOps
 * [60 best open source tools to do DevOps](https://elasticbox.com/blog/devops-open-source-tools/)
@@ -2043,6 +2044,7 @@ Programming
   * [1월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/01/b-1-3.html)
   * [1월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/01/b-1-4.html)
   * [2월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/02/b-2-1.html)
+  * [2월 2주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/02/b-2-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -2560,6 +2562,7 @@ Programming
 * [**A/B테스트에서 하면 안되는 7가지 실수**](http://mindthelog.com/2017/08/ab-testing)
 * [아마존, 에어비앤비, 넷플릭스의 AB테스트 결과 정리](https://brunch.co.kr/@digitalnative/17)
 * [기획자의 일 - A/B 테스트](https://brunch.co.kr/@yongjinjinipln/70)
+* [**뱅크샐러드의 실험플랫폼 분석 인프라 살펴보기 | 뱅크샐러드**](https://blog.banksalad.com/tech/experiment-platform-analysis-architecture/)
 * [The Causal Analysis of Cannibalization in Online Products - Code as Craft](https://codeascraft.com/2020/02/24/the-causal-analysis-of-cannibalization-in-online-products/)
 * [**일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | Evans Library**](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
 * [Spotify’s New Experimentation Platform (Part 1) : Spotify Engineering](https://engineering.atspotify.com/2020/10/29/spotifys-new-experimentation-platform-part-1/)
