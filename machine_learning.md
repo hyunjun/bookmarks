@@ -632,6 +632,8 @@ Machine Learning
 * [Introducing Machine Learning for Developers Newsletter (ML4Devs, Issue 1) - Machine Learning for Developers](https://ml4devs.substack.com/p/001-machine-learning-for-developers-newsletter)
 * [Machine Learning vs. Traditional Software Development (ML4Devs, Issue 2) - Machine Learning for Developers](https://ml4devs.substack.com/p/002-machine-learning-vs-traditional-software)
 * [A Proof of the Convergence of Gradient Descent – Beomsu Kim – Paper Reviews and Math Posts](https://1202kbs.github.io/GD/)
+* [9 Distance Measures in Data Science | Towards Data Science](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa)
+* [200+ Machine Learning Projects Solved and Explained | by Aman Kharwal | Coders Camp | Feb, 2021 | Medium](https://medium.com/coders-camp/200-machine-learning-projects-solved-and-explained-56f1cc1c9ff3)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
