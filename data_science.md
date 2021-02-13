@@ -324,6 +324,8 @@ Data Science
 * [**Back To The Future: Data Engineering Trends 2020 & Beyond - Data Engineering Weekly**](https://www.dataengineeringweekly.com/p/back-to-the-future-data-engineering) Data Infrastructure, Data Architecture, Data Management를 주제로 여러가지 좋은 글 link 모음
 * [What Is Data Engineering and Is It Right for You? – Real Python](https://realpython.com/python-data-engineer/) realpython post지만 python이 아니라 general한 글
 * [Data Experience Report 모음](https://brunch.co.kr/@mapmatters/51)
+* [**The Top 5 Data Trends for CDOs to Watch Out for in 2021 | by Prukalpa | Jan, 2021 | Towards Data Science**](https://towardsdatascience.com/the-top-5-data-trends-for-cdos-to-watch-out-for-in-2021-e230817bcb16)
+  * [2021년 5가지 데이터 트렌드 | GeekNews](https://news.hada.io/topic?id=3677)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -640,6 +642,7 @@ Data Science
 * [당신 취향의 맛집을 추천해드립니다 : 장소 개인화 추천 시스템의 비밀](https://tv.naver.com/v/16968206/list/657024)
 * [추천시스템 평가는 어떻게 하면 좋을까?](https://lsjsj92.tistory.com/608)
 * [번역글 REVEAL'20 Workshop Introduction | You May Also Like](https://ziminpark.github.io/posts/REVEAL%2720-%EC%86%8C%EA%B0%9C-%28%EB%B2%88%EC%97%AD%29-5e8b3d4ff4ed42cdb7199afc192b7fe3/)
+* [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=194)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
