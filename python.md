@@ -3534,6 +3534,7 @@ Python
   * [Ray 아키텍쳐 백서 (번역)](https://brunch.co.kr/@chris-song/106)
   * [**Python Ray 사용법 - Python 병렬처리, 분산처리 · 어쩐지 오늘은**](https://zzsza.github.io/mlops/2021/01/03/python-ray/)
   * [Ray 로 내 파이썬 코드 10배 빠르게 만들기. Ray 를 이용한 python 병렬처리 방법에 대해 알아봅니다. | by t.k.woo | Naver Shopping dev | Jan, 2021 | Medium](https://medium.com/naver-shopping-dev/ray-%EB%A1%9C-pytorch-model-inference-%ED%95%98%EA%B8%B0-77ce11304604)
+  * [Retrieval Augmented Generation with Huggingface Transformers and Ray | Distributed Computing with Ray](https://medium.com/distributed-computing-with-ray/retrieval-augmented-generation-with-huggingface-transformers-and-ray-b09b56161b1e)
 * [PyParallel.org](http://pyparallel.org/)
   * [PyParallel - Experimental multicore fork of Python 3](https://github.com/pyparallel/pyparallel)
 
