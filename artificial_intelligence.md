@@ -116,6 +116,7 @@ Artificial Intelligence
 * [NIPA 2020 인공지능 문제해결 경진대회, 4관왕 달성 후기](https://eda-ai-lab.tistory.com/542)
 * [인공지능(AI) 아나운서 개발기 – AI PLUS Tech Blog](https://blog.est.ai/2020/12/ai-anchor/)
 * [The Map of Artificial Intelligence (2020) | in AI Territory | The Startup](https://medium.com/swlh/the-map-of-artificial-intelligence-2020-2c4f446f4e43)
+* [Microsoft Special Edition](https://tykimos.github.io/2021/02/13/Microsoft_Special_Edition/)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
