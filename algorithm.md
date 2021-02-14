@@ -349,6 +349,8 @@ Algorithm
 * [Obvious Dynamic Programming](https://towardsdatascience.com/obvious-dynamic-programming-part-i-553ae1740c67)
 * [코딩인터뷰 리트코드 #1197 Minimum Knight Moves](https://www.youtube.com/watch?v=3yngPH417t8)
 * [(99+) Solved all dynamic programming (dp) problems in 7 months. - LeetCode Discuss](https://leetcode.com/discuss/general-discussion/1000929/solved-all-dynamic-programming-dp-problems-in-7-months)
+* [Dynamic Programming(Beginner to Advanced) | Introduction | Lecture - 1 - YouTube](https://www.youtube.com/watch?v=vMoLobOs2CI)
+* [Dynamic Programming(Beginner to Advanced) | 4 Steps to Solve any DP Problem | Lecture - 2 - YouTube](https://www.youtube.com/watch?v=Gcubukn8L3w)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
