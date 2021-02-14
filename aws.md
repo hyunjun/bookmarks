@@ -287,6 +287,7 @@ AWS
 * [Amazon Connect를 이용한 Outbound Call 서비스 개발하기](https://medium.com/hbsmith/amazon-connect%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-outbound-call-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-93ab4ed39f57)
 * [Amazon Connect를 이용한 Outbound Call 서비스 개발하기](https://www.slideshare.net/changhoonhyun/amazon-connect-outbound-call)
 * [How to build a basic 2 nodes Jenkins architecture on AWS](https://hackernoon.com/how-to-build-a-basic-2-nodes-jenkins-architecture-on-aws-cb5c36a7d8d7)
+* [🪄배포 자동화 젠킨스 AWS에서 사용하기 #jenkins - YouTube](https://www.youtube.com/watch?v=srXoakJ8Mx0)
 * [Deep learning for cheap: Jupyter + AWS Spot](https://medium.com/@sdhnshu/pro-deep-learning-setup-at-90-off-e9e68f5e84ec)
 * [5월 AWS 월간 세미나 | Deep Learning을 위한 AWS 기반 AI 서비스 (윤석찬 테크에반젤리스트)](https://www.youtube.com/watch?v=D3oa87-D1R8)
   * [Deep Learning을 위한 AWS 기반 인공 지능(AI) 서비스 (윤석찬)](https://www.slideshare.net/awskorea/amazon-ai-deep-learning-on-aws)
