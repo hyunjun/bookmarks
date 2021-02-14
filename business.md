@@ -160,9 +160,6 @@ Business
 * [군대식 기업 경영의 종말](http://www.venturesquare.net/597035)
 * [샤오미의 경영철학을 다룬 ‘참여감’을 읽고](http://www.venturesquare.net/597265)
 * [기획이 소설은 아니니까 경영을 과학으로 어떻게 만들 것인가](https://brunch.co.kr/@lunarshore/336)
-* [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
-* [Product Management Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/product-management-top-10-articles-for-the-past-year-v-2017-7e1b2a0ba020)
-* [Product Management for Engineers](https://www.notion.so/Product-Management-for-Engineers-3bdc32513f434eccb1610dd158f0dbcc)
 * [세상의 모든 직장인은 4가지 유형으로 나뉜다(사진)](http://www.huffingtonpost.kr/2015/09/01/story_n_8068438.html)
 * [회사를 떠난 사람들: 회사 밖에서 세상을 버텨내는 자영업자, PC방 사장](http://ppss.kr/archives/56129)
 * [A급 인재를 떠나게 하는 7가지 방법](https://brunch.co.kr/@hyungsukkim/20)
@@ -181,8 +178,6 @@ Business
 * [KPI가 피곤한 이유](https://brunch.co.kr/@lunarshore/316)
 * [잘못된 성과 지표의 위험 – Andrew Ahn](https://www.andrewahn.co/product/setting-wrong-metrics/)
 * [조직 문화: 직원들을 수동적 존재로 만들 것인가, 자기주도적인 인재로 만들 것인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/226677)
-* [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다.](https://brunch.co.kr/@ywkim36/25)
-* [PM은 개발에 대해 얼마나 알아야 하나?](https://brunch.co.kr/@yongjinjinipln/79)
 * [상거래 진화의 역사…실크로드에서 O2O까지](http://www.bloter.net/archives/241981)
 * [MBA 여름 인턴을 하면서 배운 점들](http://ppss.kr/archives/59371)
 * [기숙사를 제공하는 스타트업: 기업 복지에 대하여](http://ppss.kr/archives/57926)
@@ -553,6 +548,18 @@ Business
 * [오라클 V. 구글, 제2라운드](http://www.helloiplaw.com/598)
 * [당신의 게임을 보호받기 위한 7가지 전략](http://www.venturesquare.net/580355)
 * [엘론 머스크가 모든 특허를 공유한 이유](http://ppss.kr/archives/60811)
+
+# Product Management
+* [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
+* [Product Management Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/product-management-top-10-articles-for-the-past-year-v-2017-7e1b2a0ba020)
+* [Product Management for Engineers](https://www.notion.so/Product-Management-for-Engineers-3bdc32513f434eccb1610dd158f0dbcc)
+
+# Project Management
+* [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
+* [PM은 개발에 대해 얼마나 알아야 하나?](https://brunch.co.kr/@yongjinjinipln/79)
+* [**PM Playbook**](https://www.notion.so/PM-Playbook-aad7a20963be49758e84305c645b02d1) 다양한 project management 관련 link들
+* [**Dependency가 많은 프로젝트의 스케줄 관리 방법**](https://brunch.co.kr/@dan-mingookim/15) critical path
+* [PM이 ‘기술 부채’ 감소에 기여하는 방법](https://brunch.co.kr/@yongjinjinipln/87)
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
