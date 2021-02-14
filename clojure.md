@@ -303,6 +303,7 @@ Clojure
 * [A Random Job Interview Challenge In Clojure | Savo's Blog](https://savo.rocks/posts/a-random-job-interview-challenge-in-clojure/)
 * [A Year Or So With Clojure | Giovani Altelino](https://www.giovanialtelino.com/post/a-year-clojure/)
 * [Reimplementing TeX's Algorithms: Looking Back at Thirty Years of Programming](https://www.infoq.com/news/2015/01/implementing-tex-in-clojure/)
+* [I will never let monads be in a Clojure project](https://grishaev.me/en/no-monads/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -526,6 +527,7 @@ Clojure
 * [Solving Problems the Clojure Way - Rafal Dittwald - YouTube](https://www.youtube.com/watch?v=vK1DazRK_a0)
 * [Stratified Design: A Lisp Tradition - re:Clojure 2020 TALK - LispCast](https://lispcast.com/stratified-design-a-lisp-tradition-reclojure-2020-talk/)
 * [How To Be A REPL Sorcerer - Oliver Caldwell - re:Clojure 2020 - YouTube](https://www.youtube.com/watch?v=lR2vbwuzrIM)
+* [clojureD 2019: "Workflow engines with Clojure – It's a match!" by Tim Zöller - YouTube](https://www.youtube.com/watch?v=M1HrLAud6MA)
 
 # Debug
 * [Debugging in Clojure?](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
@@ -658,6 +660,7 @@ Clojure
 * [data.deque - Persistent Deque for Clojure(Script)](https://github.com/namenu/data.deque)
 * [datalevin: A port of Datascript to LMDB](https://github.com/juji-io/datalevin)
 * [Dativity - a stateless, data driven process engine library for Clojure and ClojureScript](https://github.com/agentbellnorm/dativity)
+* [data.int-map: A map optimized for integer keys](https://github.com/clojure/data.int-map)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
   * [Datomic: 함수형 데이터베이스](https://github.com/philoskim/datomic-intro)
 * [dog-board - A website written in noir](https://github.com/re-noir/dog-board)
