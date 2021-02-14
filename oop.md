@@ -205,6 +205,7 @@
 * [static binding vs dynamic binding 어느 시점에 결정되는가](https://codingdog.tistory.com/entry/static-binding-vs-dynamic-binding-%EC%96%B4%EB%8A%90-%EC%8B%9C%EC%A0%90%EC%97%90-%EA%B2%B0%EC%A0%95%EB%90%98%EB%8A%94%EA%B0%80)
 * [Understanding software design patterns](https://opensource.com/article/19/7/understanding-software-design-patterns)
 * [옵저버 레지스트리 서비스 구현](https://codegizer.me/2020/04/21/lab-observer-service-registry-ver2.html)
+* [DesignPattern: Test project for learning GoF design pattern](https://github.com/IamYeong/DesignPattern)
 
 # JavaScript
 * [JavaScript 객체 지향 프로그래밍](https://opentutorials.org/module/4047)
