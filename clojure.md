@@ -382,14 +382,6 @@ Clojure
   * [reduce와 apply 함수의 차이 정리](https://groups.google.com/forum/#!msg/lisp-korea/3Em2cql5CQk/FWctFwjPAAAJ)
 * tail recursion
   * [2.1 Tail Recursion(꼬리 재귀)](http://philoskim.github.io/doc/recursion.html)
-* test
-  * [클로저의 test.check로 하는 강력한 테스팅](https://github.com/hatemogi/test-check-sample)
-  * [TDD in ClojureScript](https://8thlight.com/blog/eric-smith/2016/10/05/a-testable-clojurescript-setup.html)
-  * [TESTING STATEFUL AND CONCURRENT SYSTEMS USING TEST.CHECK](https://lispcast.com/testing-stateful-and-concurrent-systems-using-test-check/)
-  * [cprop-order - Test load-config order](https://github.com/eunmin/cprop-order)
-  * [endpoint-check](https://github.com/k8s-study/endpoint-check/blob/master/README.md) ping test micro service 를 clojure httpkit 으로 구현, Kubernetes로 배포
-  * [kamera: UI testing via image comparison and devcards](https://github.com/oliyh/kamera)
-  * [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
 
 # Book
 * [초보자를 위한 클로져](https://www.gitbook.com/book/eunmin/clojure-for-beginners/)
@@ -860,6 +852,16 @@ Clojure
   * [Idiomatic Clojure - Code Smells (관용적인 클로저 - 코드 스멜)](https://see-ro-e.tistory.com/299)
 * [cljfmt: A tool for formatting Clojure code](https://github.com/weavejester/cljfmt)
   * [intellij-cljfmt-plugin](https://github.com/eunmin/intellij-cljfmt-plugin)
+
+# TDD Test
+* [클로저의 test.check로 하는 강력한 테스팅](https://github.com/hatemogi/test-check-sample)
+* [TDD in ClojureScript](https://8thlight.com/blog/eric-smith/2016/10/05/a-testable-clojurescript-setup.html)
+* [TESTING STATEFUL AND CONCURRENT SYSTEMS USING TEST.CHECK](https://lispcast.com/testing-stateful-and-concurrent-systems-using-test-check/)
+* [cprop-order - Test load-config order](https://github.com/eunmin/cprop-order)
+* [endpoint-check](https://github.com/k8s-study/endpoint-check/blob/master/README.md) ping test micro service 를 clojure httpkit 으로 구현, Kubernetes로 배포
+* [kamera: UI testing via image comparison and devcards](https://github.com/oliyh/kamera)
+* [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
+* [Agile & Coding: Test Driven Development Deluxe](https://davidvujic.blogspot.com/2021/02/test-driven-development-deluxe.html)
 
 # Transducer
 * [Understanding Clojure transducers through types](https://gist.github.com/everyevery/39a44bf523df03a4ecf7)
