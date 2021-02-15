@@ -1075,6 +1075,7 @@ App
 * [Lucidchart - a visual workspace that combines diagramming, data visualization, and collaboration to accelerate understanding and drive innovation](https://www.lucidchart.com)
 * [mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.](https://mermaid-js.github.io/mermaid/)
   * [mermaid: diagram as code · /usr/lib/libsora.so](https://libsora.so/posts/mermaid-diagram-as-code/)
+* [miro - An Online Visual Collaboration Platform for Teamwork | Miro](https://miro.com/)
 * [monodraw - Powerful ASCII art editor designed for the Mac](https://monodraw.helftone.com/)
 * [OmniGraffle](https://www.omnigroup.com/omnigraffle/)
 * [**Pencil Project**](http://pencil.evolus.vn/)
@@ -1090,6 +1091,7 @@ App
 * [Shaky: ASCII Diagram to PNG](http://shaky.github.bushong.net/)
 * [smartdraw.com](https://www.smartdraw.com/)
 * [Start Easy Diagram - a Web Editor for diagrams](https://www.starteasy.io/)
+* [StarUML](https://staruml.io/)
 * [Terrastruct - A diagramming tool for systems](https://terrastruct.com/)
 * [websequencediagrams.com](https://www.websequencediagrams.com/) 한글 깨짐
 * [Wireflow - user flow chart real-time collaborative tool](https://github.com/vanila-io/wireflow)
