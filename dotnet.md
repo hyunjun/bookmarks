@@ -86,10 +86,12 @@
 * [Astonishing Performance of .NET 5 | Medium](https://alexyakunin.medium.com/astonishing-performance-of-net-5-7803d69dae2e)
 * [@devlead - Mattias Karlsson's Blog - My preferred .NET console stack](https://www.devlead.se/posts/2021/2021-01-15-my-preferred-console-stack)
 
-# Conference
+# Conference Meetup
 * [.NET Conf 2019 키노트](https://www.youtube.com/watch?v=8qtmRG5vQxM&list=PLFVJi7gR5oaP715fktQtSV6vJE76MLide)
 * [The Journey to One .NET | BOD106 - YouTube](https://www.youtube.com/watch?v=ctSqiD8BGPM)
 * [.NET Conf 2021 x Seoul 홈](https://www.notion.so/NET-Conf-2021-x-Seoul-228462238add4fc5a885fb81e2687528)
+* [2021년 1월 - YouTube](https://www.youtube.com/playlist?list=PLIUYAlRx8QDSrW7baJ35bazYNnqxV8-Pn)
+  * JAM stack session: 아마존 S3 버킷과 Amplify 서비스를 이용해 애플리케이션을 배포하는 과정
 
 # Mac
 * [Visual Studio for Mac 설치하기](http://carrotcarrot.blog.me/220864151652)
