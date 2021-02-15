@@ -2139,6 +2139,7 @@ Programming
   * [기술 뉴스 #165 : 21-01-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1523)
   * [기술 뉴스 #166 : 21-01-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1527)
   * [기술 뉴스 #167 : 21-02-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1532)
+  * [기술 뉴스 #168 : 21-02-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1534)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -2272,7 +2273,8 @@ Programming
   * [(1월 30일) 정말로 당신에게 다른 동영상 강의가 필요할까?](https://jhrogue.blogspot.com/2021/02/1-30.html) timeflake - 어느 정도 정렬된 UUID
     * [(01/30) 정말로 당신에게 다른 동영상 강의가 필요할까? - YouTube](https://www.youtube.com/watch?v=G3SEJvPPpKs)
   * [(2월 6일) 7년 차 SI 개발자가 솔루션 회사 이직 후 2년 간 배운 것](https://jhrogue.blogspot.com/2021/02/2-6-7-si-2.html)
-  * [(02/13) 라인개발자들이 직접 뽑은 인생 책은? - YouTube](https://www.youtube.com/watch?v=A9hyHUnoIfI)
+  * [(2월 13일) 라인개발자들이 직접 뽑은 인생 책은?](https://jhrogue.blogspot.com/2021/02/2-13.html)
+    * [(02/13) 라인개발자들이 직접 뽑은 인생 책은? - YouTube](https://www.youtube.com/watch?v=A9hyHUnoIfI)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
 * [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
