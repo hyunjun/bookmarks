@@ -223,6 +223,7 @@ AWS
 * [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 * [서로 다른 계정의 RDS에 대량 데이터 복사하기](http://jojoldu.tistory.com/333)
 * [AWS - RDS](https://opentutorials.org/module/3860)
+* [AWS RDS Scheduled start/stop](https://brunch.co.kr/@alden/67) by lambda
 * [Performance Insight 써도 돼요?](http://woowabros.github.io/r-d/2018/12/01/performance_insight.html)
 * [신입개발자가 스타트업에서 AWS로 어떻게든 살아가는 썰](https://www.slideshare.net/ssuser67b08e/aws-112573762)
 * [개발자가 알아두면 좋을 5가지 AWS 인공 지능 깨알 지식 - 윤석찬 (AWS 테크 에반젤리스트)](https://www.slideshare.net/awskorea/5-things-to-know-about-aws-aiml-for-developers)
