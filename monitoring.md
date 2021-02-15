@@ -82,6 +82,7 @@ Monitoring
 * [Sentry](https://sentry.io/) Stop hoping your users will report errors
   * [docs.sentry.io/clients/python](https://docs.sentry.io/clients/python/)
   * ~[Sentry 를 이용한 Node.js 에러 모니터링](https://dobest.io/nodejs-error-monitoring-with-sentry/)~
+  * [자바스크립트 센트리는 어떻게 동작할까? · 컴알못 블로그](https://blog.hyeonsulee.com/how-does-sentry-work-in-javascript)
 * [shark: Modern System Performance Management](http://www.sharkly.io/)
 * [SkyWalking - Apache SkyWalking Application performance monitor tool for distributed systems, especially designed for microservices, cloud native and container-based (Docker, K8s, Mesos) architectures](https://skywalking.apache.org/)
 * [squzy: Squzy - is a high-performance open-source monitoring, incident and alert system written in Golang with Bazel and love.](https://github.com/squzy/squzy)
