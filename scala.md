@@ -1287,6 +1287,7 @@ Scala
 * [Wayeb: Wayeb is a Complex Event Processing and Forecasting (CEP/F) engine written in Scala.](https://github.com/ElAlev/Wayeb)
 * [wire-signals: A small and effective event-handling library for Scala](https://github.com/wireapp/wire-signals) reactive
   * [Wire Signals - Yet Another Event Streams Library - YouTube](https://www.youtube.com/watch?v=IgKjd_fhM0M)
+  * [Wire Signals: Yet Another Event Streams Library by Maciek Gorywoda - YouTube](https://www.youtube.com/watch?v=tSj3ZEEsKyk)
 
 ## Library Build
 * [A quick tour of build tools in Scala](https://manuel.bernhardt.io/2018/04/19/quick-tour-build-tools-scala/)
