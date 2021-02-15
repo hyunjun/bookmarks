@@ -200,7 +200,7 @@ Keras
 * [Building a Convolutional Neural Network (CNN) in Keras](https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5)
 * [Real-World Python Neural Nets Tutorial (Image Classification w/ CNN) | Tensorflow & Keras](https://morioh.com/p/6f603db5c148)
 
-# Conference, Meetup
+# Conference Meetup
 * [케라스 코리아 밋업 in AICON 2019 발표자료포함](https://tykimos.github.io/2019/12/17/Keras_Korea_Meetup_in_AICON_2019/)
 
 # Course, MOOC, Lecture

@@ -576,7 +576,7 @@ TensorFlow
 * [실제 이미지로 CNN 모델을 구현하여 나만의 이미지 분류기를 만들 수 있을까?](http://www.birc.co.kr/2018/02/26/%EC%8B%A4%EC%A0%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-cnn-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0/)
 * [SRCNN in Tensorflow](https://github.com/jinsuyoo/SRCNN-Tensorflow)
 
-# Conference, Meetup
+# Conference Meetup
 * [2018년 샌프란시스코에서 열린 O’Reilly AI 컨퍼런스의 TensorFlow 세션 녹화 자료](https://developers-kr.googleblog.com/2019/01/tensorflow-session-recordings-from-oreilly-ai-conference-san-francisco.html)
 * [High Performance Machine Learning with Kubernetes, Istio, and GPUs - San Francisco and Seattle Kubernetes Meetups](https://www.slideshare.net/cfregly/high-performance-machine-learning-with-kubernetes-istio-and-gpus-san-francisco-kubernetes-meetup)
 * [텐서플로 월드2019 행사 핵심요약 1](https://www.youtube.com/watch?v=ArrupLE9A5w)
