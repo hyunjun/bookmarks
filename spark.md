@@ -878,6 +878,7 @@
   * [Project Zen: Making Spark Pythonic | Reynold Xin | Keynote Data + AI Summit EU 2020 - YouTube](https://www.youtube.com/watch?v=-vJLTEOdLvA)
 * [Petastorm - a library enabling the use of Parquet storage from Tensorflow, Pytorch, and other Python-based ML training frameworks](https://petastorm.readthedocs.io/)
   * [Introducing Petastorm: Uber ATG's Data Access Library for Deep Learning | Uber Engineering Blog](https://eng.uber.com/petastorm/)
+* Snowflake [Read from Kafka & Write to Snowflake via Spark Databricks | LinkedIn](https://www.linkedin.com/pulse/read-from-kafka-write-snowflake-via-spark-databricks-deepak-rajak/?trackingId=nV2nP1ws2QRWZVSBOpNkDw%3D%3D)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
