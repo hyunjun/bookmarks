@@ -299,6 +299,7 @@ Programming Language
   * [LLVM — Writing Pass Instrumentations for the New PassManager | by Min-Yih Hsu | Jul, 2020 | Medium](https://medium.com/@mshockwave/writing-pass-instrument-for-llvm-newpm-f17c57d3369f)
   * [A Complete Guide to LLVM for Programming Language Creators](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
   * [LLVM Call 난독화 패스 만들기 : 클리앙](https://www.clien.net/service/board/lecture/15887081)
+  * [LLVM 난독화 path 만들기 - CFG-Flattening : 클리앙](https://www.clien.net/service/board/lecture/15891468)
 * Logo
   * [구글 개발자, 자연어로 작성하는 프로그래밍 언어 공개](http://www.bloter.net/archives/251344)
 * [Lola-2: A Logic Description Language](http://www.inf.ethz.ch/personal/wirth/Lola/index.html)
