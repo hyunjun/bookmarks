@@ -159,6 +159,7 @@ Git
 * [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 * [Github 패스워드 교체시 로컬 비밀번호도 변경하기](https://jojoldu.tistory.com/467)
 * [GitHub에서 GPG 서명하기 (for OS X)](https://medium.com/@Makart/github%EC%97%90%EC%84%9C-gpg-%EC%84%9C%EB%AA%85%ED%95%98%EA%B8%B0-for-os-x-4f45ad8f1a49)
+* [GPG(GNU PG)를 이용해 git 커밋에 서명하는 방법 | 44BITS](https://www.44bits.io/ko/post/add-signing-key-to-git-commit-by-gpg)
 * [git 다중 사용자 신원 설정](http://jhrogue.blogspot.com/2020/04/5-git.html)
 * [Setting Up Git Identities](https://www.micah.soy/posts/setting-up-git-identities/)
 * [**10 Extraordinary GitHub Repos for All Developers**](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0)
