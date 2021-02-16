@@ -1445,7 +1445,7 @@ Scala
   * [Scala Play Framework - YouTube](https://www.youtube.com/playlist?list=PLBeQxJQNprbhb6kOJS477I_laHQTGgjg8)
   * [Full Stack Scala with the Play Framework and Scala.js by Greg Dorrell - YouTube](https://www.youtube.com/watch?v=NJVL2IsGXZ4)
   * [Scala Play Framework 2.6 Quick Start - YouTube](https://www.youtube.com/watch?v=hjBUcx7qRIk)
-  * [Restful Services with the Play Framework, MySQL, and a Security Level with JWT by Mercedes Wyss - YouTube](https://www.youtube.com/watch?v=N59_Ta88kW0)
+  * [**Restful Services with the Play Framework, MySQL, and a Security Level with JWT by Mercedes Wyss - YouTube**](https://www.youtube.com/watch?v=N59_Ta88kW0)
   * [Play Framework Tutorials - YouTube](https://www.youtube.com/playlist?list=PLYPFxrXyK0Bx9SBkNhJr1e2-NlIq4E7ED)
   * [Reactive Architecture with Play, Akka, and Scala - Henrik Engstrom (Typesafe) - YouTube](https://www.youtube.com/watch?v=ksSgjQ_Ye9c)
   * [Build and Secure APIs with Scala and the Play Framework](https://auth0.com/blog/build-and-secure-a-scala-play-framework-api/)
