@@ -44,6 +44,11 @@ Network
 * [A DMZ, what is that?. How to translate DMZ concept to GCP | by Julio Diez | Google Cloud - Community | Dec, 2020 | Medium](https://medium.com/google-cloud/a-dmz-what-is-that-acc3b21b9653)
 * [Fun with IP address parsing · blog.dave.tf](https://blog.dave.tf/post/ip-addr-parsing/)
 * [How to troubleshoot “Failed to connect to xxx.xxx.xxx port xx: No route to host” error in a Linux machine like Fedora, RHEL, and Ubuntu | by Bryant Jimin Son | Feb, 2021 | Medium](https://bryantson.medium.com/how-to-troubleshoot-failed-to-connect-to-xxx-xxx-xxx-9b7690c54407)
+* [네트워크는 왜 이렇게 생긴걸까? 기본편 : 클리앙](https://www.clien.net/service/board/lecture/15872844)
+* [네트워크는 왜 이렇게 생긴걸까? 포트편 : 클리앙](https://www.clien.net/service/board/lecture/15873771)
+* [네트워크는 왜 이렇게 생긴걸까? 네임편 : 클리앙](https://www.clien.net/service/board/lecture/15874590)
+* [네트워크는 왜 이렇게 생긴걸까? 서브넷편 : 클리앙](https://www.clien.net/service/board/lecture/15882226)
+* [네트워크는 왜 이렇게 생긴걸까? 공유기편 : 클리앙](https://www.clien.net/service/board/lecture/15887017)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
