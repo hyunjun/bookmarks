@@ -70,6 +70,7 @@
     * [Project Tungsten: Apache Spark](http://www.infoobjects.com/project-tungsten-apache-spark/)
     * [Deep Dive into Project Tungsten: Bringing Spark Closer to Bare Metal-(Josh Rosen, Databricks)](http://www.slideshare.net/SparkSummit/deep-dive-into-project-tungsten-josh-rosen)
     * [SPARK 성능의 핵심 PROJECT TUNGSTEN 톺아보기](https://younggyuchun.wordpress.com/2017/01/31/spark-%EC%84%B1%EB%8A%A5%EC%9D%98-%ED%95%B5%EC%8B%AC-project-tungsten-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0/)
+    * [Catalyst and Tungsten: Apache Spark's Speeding Engine | LinkedIn](https://www.linkedin.com/pulse/catalyst-tungsten-apache-sparks-speeding-engine-deepak-rajak/)
   * [Simplifying Big Data Analytics with Apache Spark](http://www.slideshare.net/databricks/bdtc2?ref=http%3A%2F%2Fwww.slideshare.net%2Fdatabricks%2Fslideshelf)
   * [Databricks Announces General Availability of Its Cloud Platform](http://insidebigdata.com/2015/06/15/databricks-announces-general-availability-of-its-cloud-platform/)
   * [A Deeper Understanding of Spark Internals - Aaron Davidson (Databricks)](https://www.youtube.com/watch?v=dmL0N3qfSc8)
@@ -233,6 +234,7 @@
 * [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
 * [Deep Dive: Apache Spark Memory Management](https://www.youtube.com/watch?v=dPHrykZL8Cg)
 * [Deep Dive: Apache Spark Memory Management](http://go.databricks.com/deep-dive-apache-spark-memory-management)
+* [Apache Spark Memory Management: Deep Dive | LinkedIn](https://www.linkedin.com/pulse/apache-spark-memory-management-deep-dive-deepak-rajak/)
 * [A Developer’s View into Spark's Memory Model - Wenchen Fan](https://www.youtube.com/watch?v=-Aq1LMpzaKw)
 * option
   * spark.executor.cores; node의 코어수
@@ -401,6 +403,7 @@
 * [APACHE SPARK: RDD, DATAFRAME OR DATASET?](http://www.agildata.com/apache-spark-rdd-vs-dataframe-vs-dataset/)
 * [Learn Spark Scala with Clara: RDD](https://medium.com/@onsbouneb1/learn-spark-scala-with-clara-rdd-9395bd01cd52)
 * [A modern guide to Spark RDDs](https://medium.com/@LeoLezcano/a-modern-guide-to-spark-rdds-725cd7c14059)
+* [Anatomy of Apache Spark's RDD | LinkedIn](https://www.linkedin.com/pulse/anatomy-apache-sparks-rdd-deepak-rajak/)
 * [Apache Spark’s Hidden REST API](http://arturmkrtchyan.com/apache-spark-hidden-rest-api)
 * [Spark Session vs Spark Context](https://medium.com/@achilleus/spark-session-10d0d66d1d24)
 * Exploring Spark DataSource V2
