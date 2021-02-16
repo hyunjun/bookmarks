@@ -550,7 +550,7 @@ AWS
     * [세션 레포트 AWS 스토리지 마이그레이션 서비스 및 대규모 데이터 전송 사례](https://dev.classmethod.jp/articles/summit-online-korea-storage-migration/)
     * [이벤트 드리븐 아키텍처 구축을 위한 적절한 어플리케이션 통합 서비스 선택 및 사용 방법](https://dev.classmethod.jp/articles/summit-online-korea-event-driven/)
 
-# Course, Lecture, Tutorial
+# Course Lecture MOOC
 * [Getting started with AWS](https://www.slideshare.net/JungwonSeo2/getting-started-with-aws-92003749)
 * [AWS 교과서](https://brunch.co.kr/magazine/devops)
 * [10분 자습서](https://aws.amazon.com/ko/getting-started/tutorials/)

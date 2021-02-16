@@ -357,6 +357,22 @@ Data Science
 * [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 * [Great Books for Data Science](https://towardsdatascience.com/great-books-for-data-science-7a2de76bc612)
 
+# Course MOOC Lecture
+* [**수강료 500만원 데이터사이언스 스쿨 커리큘럼을 대체하는 온라인 무료강의 15개 커리큘럼**](http://earlybird.ai/data_science_free_curriculum/)
+  * 통계학, 선형대수학, numpy, 검정 및 추정(확률론), machine learning, database, 데이터 시각화, 데이터 분석, deep learning
+* [Review: Udacity Data Analyst Nanodegree Program](https://medium.freecodecamp.org/review-udacity-data-analyst-nanodegree-1e16ae2b6d12)
+* [I Dropped Out of School to Create My Own Data Science Master’s — Here’s My Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412)
+* [Learn Data Science in 3 Months](https://www.youtube.com/watch?v=9rDhY1P3YLA)
+  * [Learn_Data_Science_in_3_Months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months)
+* [Our 25 Favorite Data Science Courses From Harvard To Udemy](https://hackernoon.com/our-25-favorite-data-science-courses-from-harvard-to-udemy-9a89cac0358d)
+* [pubdata.tistory.com/category/Lecture_DataMining](http://pubdata.tistory.com/category/Lecture_DataMining)
+* [Nonnegative Matrix Factorization via Rank-One Downdate](http://videolectures.net/icml08_ghodsi_nmf/)
+  * [이 장에서는 새운 기법인 NMF(Non-negative Matrix Factorization) 을 소개](http://nbviewer.ipython.org/github/jaeho-kang/ipython/blob/master/collective-intelligence/chapter10/ch10.ipynb)
+* [5 Bite-Sized Data Science Summaries](https://towardsdatascience.com/5-bite-sized-data-science-summaries-a5afb8509353)
+* [The online courses you must take to be a better Data Scientist | DataTau](https://medium.com/datatau/the-online-courses-you-must-take-to-be-a-better-data-scientist-36a06016c819)
+* [Dev Intro to Data Science - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjDop2DtiCmwTTcrlwKAVHE)
+* [Practical Data Ethics | Data ethics](http://ethics.fast.ai/)
+
 # Data Cleaning
 * [The Simple Yet Practical Data Cleaning Codes To solve the common scenarios of messy data](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)
 * [sampleclean - Data Cleaning With Algorithms, Machines, and People](http://sampleclean.org/)
@@ -420,22 +436,6 @@ Data Science
   * Numba와 비슷하게, Rust 기반 컴파일러를 이용해 Data 분석 스크립트의 속도를 최적화하여 빠르게 함
   * 내용에 따르면 특정 데이터 분석의 경우 속도 향상
   * Pandas, TensorFlow, Spark SQL등 결합 가능
-
-# MOOC, Lecture
-* [**수강료 500만원 데이터사이언스 스쿨 커리큘럼을 대체하는 온라인 무료강의 15개 커리큘럼**](http://earlybird.ai/data_science_free_curriculum/)
-  * 통계학, 선형대수학, numpy, 검정 및 추정(확률론), machine learning, database, 데이터 시각화, 데이터 분석, deep learning
-* [Review: Udacity Data Analyst Nanodegree Program](https://medium.freecodecamp.org/review-udacity-data-analyst-nanodegree-1e16ae2b6d12)
-* [I Dropped Out of School to Create My Own Data Science Master’s — Here’s My Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412)
-* [Learn Data Science in 3 Months](https://www.youtube.com/watch?v=9rDhY1P3YLA)
-  * [Learn_Data_Science_in_3_Months](https://github.com/llSourcell/Learn_Data_Science_in_3_Months)
-* [Our 25 Favorite Data Science Courses From Harvard To Udemy](https://hackernoon.com/our-25-favorite-data-science-courses-from-harvard-to-udemy-9a89cac0358d)
-* [pubdata.tistory.com/category/Lecture_DataMining](http://pubdata.tistory.com/category/Lecture_DataMining)
-* [Nonnegative Matrix Factorization via Rank-One Downdate](http://videolectures.net/icml08_ghodsi_nmf/)
-  * [이 장에서는 새운 기법인 NMF(Non-negative Matrix Factorization) 을 소개](http://nbviewer.ipython.org/github/jaeho-kang/ipython/blob/master/collective-intelligence/chapter10/ch10.ipynb)
-* [5 Bite-Sized Data Science Summaries](https://towardsdatascience.com/5-bite-sized-data-science-summaries-a5afb8509353)
-* [The online courses you must take to be a better Data Scientist | DataTau](https://medium.com/datatau/the-online-courses-you-must-take-to-be-a-better-data-scientist-36a06016c819)
-* [Dev Intro to Data Science - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjDop2DtiCmwTTcrlwKAVHE)
-* [Practical Data Ethics | Data ethics](http://ethics.fast.ai/)
 
 # News
 * [The Best of Big Data: New Articles Published This Month (June 2017)](https://blog.sicara.com/06-2017-best-big-data-new-articles-this-month-5c3478872a61)

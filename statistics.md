@@ -323,6 +323,12 @@ Statistics
   * [Python code for Computer Age Statistical Inference by Bradley Efron and Trevor Hastie](https://github.com/jrfiedler/CASI_Python)
 * [project mosaic book](http://project-mosaic-books.com/) Computer-savvy textbooks on statistics and data science
 
+# Course MOOC Lecture
+* [경제통계학](http://snui.snu.ac.kr/ocw/index.php?mode=view&id=1494)
+* [pubdata.tistory.com/category/Lecture_Statistics](http://pubdata.tistory.com/category/Data/Statistics)
+* [Engineering Statistics](http://www.itl.nist.gov/div898/handbook/index.htm)
+* [CS109: Probability for Computer Scientists](http://web.stanford.edu/class/cs109) 강의노트, 슬라이드, 데모 제공
+
 # Haskell
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)
 
@@ -332,12 +338,6 @@ Statistics
   * [StanCon Contributed Talks](https://github.com/stan-dev/stancon_talks)
   * [StanCon 2018 - Intro Stan Class Materials](http://mc-stan.org/workshops/stancon2018_intro/)
   * [Stan Conference 2017](https://www.youtube.com/watch?v=DJ0c7Bm5Djk)
-
-# MOOC, Lecture
-* [경제통계학](http://snui.snu.ac.kr/ocw/index.php?mode=view&id=1494)
-* [pubdata.tistory.com/category/Lecture_Statistics](http://pubdata.tistory.com/category/Data/Statistics)
-* [Engineering Statistics](http://www.itl.nist.gov/div898/handbook/index.htm)
-* [CS109: Probability for Computer Scientists](http://web.stanford.edu/class/cs109) 강의노트, 슬라이드, 데모 제공
 
 # Poisson Distribution
 * [Understanding Waiting Times Between Events with the Poisson and Exponential Distributions](http://nbviewer.ipython.org/github/nicolewhite/notebooks/blob/master/Poisson.ipynb)

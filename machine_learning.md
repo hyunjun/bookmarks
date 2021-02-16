@@ -1028,7 +1028,7 @@ Machine Learning
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)
 
-# Course, Mooc, Lecture
+# Course MOOC Lecture
 * [머신러닝 괜찮은 강의들 리스트 1](https://blog.pabii.co/machine-learning-course-lists-1/)
 * [머신러닝 딥러닝 바로가기](https://www.youtube.com/playlist?list=PLBXuLgInP-5kbfIZJhvNfJscr6KS8Oaq0)
 * [인공지능과 기계학습](http://www.kmooc.kr/courses/course-v1:KAISTk+KCS470+2015_K0201/about)

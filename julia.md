@@ -127,6 +127,13 @@ Julia
 * [bogumilkaminski.pl/files/julia_express.pdf](http://bogumilkaminski.pl/files/julia_express.pdf)
 * [First Semester in Numerical Analysis with Julia](https://open.umn.edu/opentextbooks/textbooks/first-semester-in-numerical-analysis-with-julia)
 
+# Course MOOC Lecture
+* [Julia Academy](https://academy.juliabox.com/)
+* [Quantitative Economics with Julia](https://lectures.quantecon.org/jl/)
+* [18.S191 Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall20/)
+  * [CliMA/Oceananigans.jl: 🌊 Fast and friendly fluid dynamics on CPUs and GPUs](https://github.com/CliMA/Oceananigans.jl)
+  * [Fluid dynamics with Oceananigans.jl | Week 13 | MIT 18.S191 Fall 2020 | Ali Ramadhan - YouTube](https://www.youtube.com/watch?v=kSbCYaB2KhQ)
+
 # Deep Learning
 * [Deep learning in Julia | AI & ML](https://hyeonji-ryu.github.io/categories/Deep-learning-in-Julia/)
 * [Mocha.jl: Deep Learning for Julia](http://devblogs.nvidia.com/parallelforall/mocha-jl-deep-learning-julia/)
@@ -174,13 +181,6 @@ Julia
 * [perceptron-jl - Julia porting version of FCNN in Python and C++](https://github.com/mohawkduck/perceptron-jl)
 * [TensorFlow.jl - A Julia wrapper for TensorFlow](https://github.com/malmaud/TensorFlow.jl)
 * [Weave.jl - Scientific Reports Using Julia](http://weavejl.mpastell.com/)
-
-# MOOC, Lecture
-* [Julia Academy](https://academy.juliabox.com/)
-* [Quantitative Economics with Julia](https://lectures.quantecon.org/jl/)
-* [18.S191 Introduction to Computational Thinking](https://computationalthinking.mit.edu/Fall20/)
-  * [CliMA/Oceananigans.jl: 🌊 Fast and friendly fluid dynamics on CPUs and GPUs](https://github.com/CliMA/Oceananigans.jl)
-  * [Fluid dynamics with Oceananigans.jl | Week 13 | MIT 18.S191 Fall 2020 | Ali Ramadhan - YouTube](https://www.youtube.com/watch?v=kSbCYaB2KhQ)
 
 # Tutorial
 * [Julia: A Fresh Approach to Technical Computing - Dr. Viral B. Shah | PyData Jeddah - August 2020 - YouTube](https://www.youtube.com/watch?v=tUWZ6XhC2K4)

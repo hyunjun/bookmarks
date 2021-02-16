@@ -1590,6 +1590,17 @@ Python
 * [Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
 * [Python is NOT Single Threaded (and how to bypass the GIL) - YouTube](https://www.youtube.com/watch?v=m2yeB94CxVQ) 여러가지 예제
 
+# Course MOOC Lecture
+* [MOOC: Python (파이썬 강좌)](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
+* [K-MOOC: Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
+* [K-MOOC Operation Research : Numpy Part #1](https://www.youtube.com/watch?v=Fm1sWcdL_ak)
+* [Quantitative Economics with Python](https://lectures.quantecon.org/py/)
+* [Sungchul Lee](https://www.youtube.com/user/sungchulyonseiackr/playlists) 연대 수학과 교수
+* [Microsoft: We want you to learn Python programming language for free](https://www.zdnet.com/article/microsoft-we-want-you-to-learn-python-programming-language-for-free/)
+* [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
+* [More “Python for Beginners” videos…times two!](https://cloudblogs.microsoft.com/opensource/2020/05/04/more-python-for-beginners-videos/)
+* [Learn Python On AWS Workshop :: Learn Python on AWS](https://learn-to-code.workshop.aws/)
+
 # Cryptography
 * [Elliptic Curve Cryptography: finite fields and discrete logarithms](http://andrea.corbellini.name/2015/05/23/elliptic-curve-cryptography-finite-fields-and-discrete-logarithms/)
 * How to Build a Simple Crypto Trading Simulator
@@ -3576,17 +3587,6 @@ Python
   * [니름: 쉬운 SOA 단위 테스트](https://www.slideshare.net/kanghyojun/soa-78799290)
 * [Somata - a protocol and framework for building software on a network of connected microservices](http://somata.github.io/)
   * [github.com/somata](https://github.com/somata)
-
-# MOOC, Lecture
-* [MOOC: Python (파이썬 강좌)](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
-* [K-MOOC: Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
-* [K-MOOC Operation Research : Numpy Part #1](https://www.youtube.com/watch?v=Fm1sWcdL_ak)
-* [Quantitative Economics with Python](https://lectures.quantecon.org/py/)
-* [Sungchul Lee](https://www.youtube.com/user/sungchulyonseiackr/playlists) 연대 수학과 교수
-* [Microsoft: We want you to learn Python programming language for free](https://www.zdnet.com/article/microsoft-we-want-you-to-learn-python-programming-language-for-free/)
-* [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
-* [More “Python for Beginners” videos…times two!](https://cloudblogs.microsoft.com/opensource/2020/05/04/more-python-for-beginners-videos/)
-* [Learn Python On AWS Workshop :: Learn Python on AWS](https://learn-to-code.workshop.aws/)
 
 # Music
 * [Music Genre Classifier](https://github.com/indrajithi/mgc-django)

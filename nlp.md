@@ -790,6 +790,36 @@ NLP
 * [Korean Parallel corpora (of https://sites.google.com/site/koreanparalleldata/)](https://github.com/jungyeul/korean-parallel-corpora)
 * [koSentences - a large-scale web corpus of Korean text](https://github.com/cynthia/kosentences)
 
+# Course MOOC Lecture
+* [언어와 컴퓨터 (100.130)](https://github.com/suzisuti/lecture/tree/master/2018/LC)
+* [Donkuk_AI_NLP_MachineTranslation - 동국대학교 영어영문학부 대상으로 진행하는 인공지능, 자연언어처리, 기계번역 강의자료](https://github.com/Parkchanjun/Donkuk_AI_NLP_MachineTranslation)
+* [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
+* [List of free resources to learn Natural Language Processing](https://blog.paralleldots.com/data-science/nlp/free-natural-language-processing-resources)
+* [Learn Natural Language Processing](https://www.youtube.com/watch?v=GazFsfcijXQ)
+* [Computational Linguistics](https://hpshin.github.io/ComputationalLinguistics/index.html)
+* [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
+  * [DSBA CS224d](https://www.youtube.com/playlist?list=PLetSlH8YjIfUf3gBv1JpCLa9WVaL8yE0-)
+  * [CS224d 2017 video subtitles translation project for everyone](https://github.com/songys/CS224N_17_KOR_SUB)
+* [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
+  * [cs224n-winter17-notes](https://github.com/stanfordnlp/cs224n-winter17-notes)
+  * [CS 224N: TensorFlow Tutorial](http://web.stanford.edu/class/cs224n/lectures/cs224n-2017-tensorflow.pdf)
+  * [Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
+  * [CS224n: Natural Language Processing with Deep Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
+* [CS224U: Natural Language Understanding](http://web.stanford.edu/class/cs224u/)
+  * [Distributional word representations](http://nbviewer.jupyter.org/github/cgpotts/cs224u/blob/master/vsm.ipynb)
+* [Deep Learning for NLP](https://www.comp.nus.edu.sg/~kanmy/courses/6101_2016_2/)
+* [Deep Learning for Natural Language Processing: 2016-2017](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
+  * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
+  * [Lecture 8 - Generating Language with Attention Chris Dyer](https://www.youtube.com/watch?v=ah7_mfl7LD0)
+* [CS4650 and CS7650 ("Natural Language") at Georgia Tech](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
+* [CS 447: Natural Language Processing](https://courses.engr.illinois.edu/cs447/fa2017/)
+* [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
+* [YSDA Natural Language Processing course](https://github.com/yandexdataschool/nlp_course)
+  * [NLP_COURSE: A Deep Learning YSDA Natural Language Processing Course By GitHub](https://www.techleer.com/articles/570-nlp_course-a-deep-learning-ysda-natural-language-processing-course-by-github)
+* [DeepMind x UCL | Deep Learning Lectures | 7/12 | Deep Learning for Natural Language Processing - YouTube](https://www.youtube.com/watch?v=8zAP2qWAsKg)
+* [9 Best Tensorflow Courses & Certifications Online- Discover the Best One!](https://www.mltut.com/best-tensorflow-courses-certifications-online/)
+* [NLP Course | For You](https://lena-voita.github.io/nlp_course.html) word embeddings, text classification, language modeling, seq2seq and attention
+
 # Data
 * [Justin J. Nguyen: Exposing Dark Data in the enterprise with custom NLP | PyData Miami 2019](https://www.youtube.com/watch?v=iFgNcBahUAE)
 * [handwritten Hangul Datasets: PE92, SERI95, and HanDB](https://github.com/callee2006/HangulDB)
@@ -1146,36 +1176,6 @@ NLP
 
 # LSH
 * [LSH (Locality sensitive hashing)](http://blog.daum.net/jchern/13627840)
-
-# MOOC, Lecture
-* [언어와 컴퓨터 (100.130)](https://github.com/suzisuti/lecture/tree/master/2018/LC)
-* [Donkuk_AI_NLP_MachineTranslation - 동국대학교 영어영문학부 대상으로 진행하는 인공지능, 자연언어처리, 기계번역 강의자료](https://github.com/Parkchanjun/Donkuk_AI_NLP_MachineTranslation)
-* [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
-* [List of free resources to learn Natural Language Processing](https://blog.paralleldots.com/data-science/nlp/free-natural-language-processing-resources)
-* [Learn Natural Language Processing](https://www.youtube.com/watch?v=GazFsfcijXQ)
-* [Computational Linguistics](https://hpshin.github.io/ComputationalLinguistics/index.html)
-* [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
-  * [DSBA CS224d](https://www.youtube.com/playlist?list=PLetSlH8YjIfUf3gBv1JpCLa9WVaL8yE0-)
-  * [CS224d 2017 video subtitles translation project for everyone](https://github.com/songys/CS224N_17_KOR_SUB)
-* [CS224n: Natural Language Processing with Deep Learning](https://web.stanford.edu/class/cs224n/)
-  * [cs224n-winter17-notes](https://github.com/stanfordnlp/cs224n-winter17-notes)
-  * [CS 224N: TensorFlow Tutorial](http://web.stanford.edu/class/cs224n/lectures/cs224n-2017-tensorflow.pdf)
-  * [Lecture Collection | Natural Language Processing with Deep Learning (Winter 2017)](https://www.youtube.com/playlist?list=PL3FW7Lu3i5Jsnh1rnUwq_TcylNr7EkRe6)
-  * [CS224n: Natural Language Processing with Deep Learning | Winter 2019](https://www.youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)
-* [CS224U: Natural Language Understanding](http://web.stanford.edu/class/cs224u/)
-  * [Distributional word representations](http://nbviewer.jupyter.org/github/cgpotts/cs224u/blob/master/vsm.ipynb)
-* [Deep Learning for NLP](https://www.comp.nus.edu.sg/~kanmy/courses/6101_2016_2/)
-* [Deep Learning for Natural Language Processing: 2016-2017](http://www.cs.ox.ac.uk/teaching/courses/2016-2017/dl/)
-  * [Oxford Deep NLP 2017 course](https://github.com/oxford-cs-deepnlp-2017/lectures)
-  * [Lecture 8 - Generating Language with Attention Chris Dyer](https://www.youtube.com/watch?v=ah7_mfl7LD0)
-* [CS4650 and CS7650 ("Natural Language") at Georgia Tech](https://github.com/jacobeisenstein/gt-nlp-class/tree/master/notes)
-* [CS 447: Natural Language Processing](https://courses.engr.illinois.edu/cs447/fa2017/)
-* [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
-* [YSDA Natural Language Processing course](https://github.com/yandexdataschool/nlp_course)
-  * [NLP_COURSE: A Deep Learning YSDA Natural Language Processing Course By GitHub](https://www.techleer.com/articles/570-nlp_course-a-deep-learning-ysda-natural-language-processing-course-by-github)
-* [DeepMind x UCL | Deep Learning Lectures | 7/12 | Deep Learning for Natural Language Processing - YouTube](https://www.youtube.com/watch?v=8zAP2qWAsKg)
-* [9 Best Tensorflow Courses & Certifications Online- Discover the Best One!](https://www.mltut.com/best-tensorflow-courses-certifications-online/)
-* [NLP Course | For You](https://lena-voita.github.io/nlp_course.html) word embeddings, text classification, language modeling, seq2seq and attention
 
 # Named Entity
 * [Named Entity Recognition: Examining the Stanford NER Tagger](http://blog.urx.com/urx-blog/2015/7/28/named-entity-recognition-examining-the-stanford-ner-tagger)

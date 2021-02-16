@@ -222,6 +222,11 @@ Android
 * [요약 Demystifying Android Accessibility Development (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/09/23/io19-demystifying-android-accessibility-development/)
 * [사내 Android 개발자 행사, LINE Android Day 후기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-android-day-1-recap/)
 
+# Course MOOC Lecture
+* [안드로이드 강의 자료(Android Lecture)](https://github.com/jyheo/android-lecture)
+* [Academy for App Success](https://developer.android.com/google-play/academy/)
+* [안드로이드 프로그래밍 입문의 장벽을 넘으려면](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8429031906)
+
 # Debugging
 * [Debugging Android native shared libraries](http://blog.dornea.nu/2015/07/01/debugging-android-native-shared-libraries/)
 * [ADB(Android Debug Bridge)를 맥 OS에서 사용하는 방법](https://developer88.tistory.com/174)
@@ -375,11 +380,6 @@ Android
   * [Volley의 Apache HTTP client 라이브러리 참조 제거](http://sunphiz.me/wp/archives/3531)
 * [Vysor - A window to your Android](http://www.vysor.io/)
 * [XSDL - X.Org server which uses SDL](https://github.com/pelya/xserver-xsdl)
-
-# MOOC, Lecture
-* [안드로이드 강의 자료(Android Lecture)](https://github.com/jyheo/android-lecture)
-* [Academy for App Success](https://developer.android.com/google-play/academy/)
-* [안드로이드 프로그래밍 입문의 장벽을 넘으려면](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8429031906)
 
 # TDD, Test
 * [Understanding and Mastering the World of Android Testing (Part 1)](https://blog.aritraroy.in/understanding-and-mastering-the-world-of-android-testing-part-1-32f6a1a06d3b)

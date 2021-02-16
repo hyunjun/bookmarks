@@ -410,6 +410,10 @@ R
     * R을 이용한 GIS 데이터 핸들링 하헌철
     * 돈이 될지도 모르는 암호화폐의 변동성 분석 안상선
 
+# Course MOOC Lecture
+* [데이터홀릭](https://www.youtube.com/playlist?list=PLOvmIXlrvHO18HuniAOdzlvMQxHumeAoE)
+* [R 통계 기초 R로 하는 기초 통계 분석법](https://mindscale.kr/course/basic-stat-r)
+
 # Deep Learning
 * [R’s way for Deep Learning with Keras](http://freesearch.pe.kr/archives/4637)
 * [Word Embeddings with Keras](https://tensorflow.rstudio.com/blog/word-embeddings-with-keras.html)
@@ -443,10 +447,6 @@ R
 # Java
 * [A primer in using Java from R – part 1](https://www.r-bloggers.com/a-primer-in-using-java-from-r-part-1/)
 * has_java [R을 위해서 JAVA를 설치해보자](https://mrchypark.github.io/post/correttor-r을-위해서-java를-설치해보자)
-
-# Lecture, MOOC
-* [데이터홀릭](https://www.youtube.com/playlist?list=PLOvmIXlrvHO18HuniAOdzlvMQxHumeAoE)
-* [R 통계 기초 R로 하는 기초 통계 분석법](https://mindscale.kr/course/basic-stat-r)
 
 # Library
 * [R에서 Package란?](https://lovetoken.github.io/r/2018/04/07/Rpackage.html)

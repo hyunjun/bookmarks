@@ -131,6 +131,22 @@ Artificial Intelligence
 * [Artificial Intelligence and Games](http://gameaibook.org/)
 * [Huge List of Free Artificial Intelligence, Machine Learning, Data Science & Python E-Books](https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html)
 
+# Course MOOC Lecture
+* [중등4 - Introduction to AI(Stanford)](https://www.youtube.com/playlist?list=PLlSZlNj22M7RtNfjq94w2m4E9U4Y1sAG5)
+* [한국인공지능연구소](https://www.youtube.com/channel/UCHG74ooFWbEvEtSCbJmupaQ)
+* [모두를 위한 AI | Coursera](https://www.coursera.org/learn/ai-for-everyone)
+  * [꿀벌개발일지 :: AI For Everyone 노트](https://ohgyun.com/792)
+* [Learn AI for Free](https://blog.goodaudience.com/learn-ai-for-free-5b186cde3990)
+* [alina.ai/courses/practical_dl_for_coders](http://alina.ai/courses/practical_dl_for_coders/) 코더들을 위한 실전 딥러닝 강의
+* [Artificial Intelligence Lecture Series](https://www.youtube.com/playlist?list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee)
+* [blog.alina.ai/courses/ai-pm](http://blog.alina.ai/courses/ai-pm/)
+* coursera [**인공지능 개발자를 위한 코세라 강의 소개**](https://brunch.co.kr/@synabreu/68)
+* [CS 188 | Introduction to Artificial Intelligence Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)
+* [CS221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221)
+  * [Artificial Intelligence cheatsheets for Stanford's CS 221](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
+* [theschool.ai/courses/data-lit](https://www.theschool.ai/courses/data-lit/) Siraj Raval
+* [UNIST - YouTube](https://www.youtube.com/user/unistmedia)
+
 # Library
 * [AI•ON: AI Open Network](https://tensorflowkorea.wordpress.com/2016/10/19/ai%E2%80%A2on-ai-open-network/)
 * [comma.ai](https://research.fb.com/projects/commai/)
@@ -153,22 +169,6 @@ Artificial Intelligence
   * [AI이미지 추출 (2/5)](https://tariat.tistory.com/360)
   * [사진 변환 (3/5)](https://tariat.tistory.com/365)
   * [번역과 텍스트음성변환하기(4/4)](https://tariat.tistory.com/406)
-
-# MOOC, Lecture
-* [중등4 - Introduction to AI(Stanford)](https://www.youtube.com/playlist?list=PLlSZlNj22M7RtNfjq94w2m4E9U4Y1sAG5)
-* [한국인공지능연구소](https://www.youtube.com/channel/UCHG74ooFWbEvEtSCbJmupaQ)
-* [모두를 위한 AI | Coursera](https://www.coursera.org/learn/ai-for-everyone)
-  * [꿀벌개발일지 :: AI For Everyone 노트](https://ohgyun.com/792)
-* [Learn AI for Free](https://blog.goodaudience.com/learn-ai-for-free-5b186cde3990)
-* [alina.ai/courses/practical_dl_for_coders](http://alina.ai/courses/practical_dl_for_coders/) 코더들을 위한 실전 딥러닝 강의
-* [Artificial Intelligence Lecture Series](https://www.youtube.com/playlist?list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee)
-* [blog.alina.ai/courses/ai-pm](http://blog.alina.ai/courses/ai-pm/)
-* coursera [**인공지능 개발자를 위한 코세라 강의 소개**](https://brunch.co.kr/@synabreu/68)
-* [CS 188 | Introduction to Artificial Intelligence Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)
-* [CS221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221)
-  * [Artificial Intelligence cheatsheets for Stanford's CS 221](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
-* [theschool.ai/courses/data-lit](https://www.theschool.ai/courses/data-lit/) Siraj Raval
-* [UNIST - YouTube](https://www.youtube.com/user/unistmedia)
 
 # Tutorial
 * [Introduction to AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/introduction?hl=en)

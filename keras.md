@@ -203,7 +203,7 @@ Keras
 # Conference Meetup
 * [케라스 코리아 밋업 in AICON 2019 발표자료포함](https://tykimos.github.io/2019/12/17/Keras_Korea_Meetup_in_AICON_2019/)
 
-# Course, MOOC, Lecture
+# Course MOOC Lecture
 * [딥러닝 케라스 강좌 01강 - OT](https://www.youtube.com/watch?v=jolPwNSZscc)
 * [딥러닝 케라스 강좌 02-1강 DNN #1](https://www.youtube.com/watch?v=zWHcMctGnkM)
 * [딥러닝 케라스 강좌 02-2강 DNN #2](https://www.youtube.com/watch?v=dTQYZ07mmP8)
