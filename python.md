@@ -2872,6 +2872,7 @@ Python
   * [sheetfu - Python library to interact with Google Sheets V4 API](https://github.com/socialpoint-labs/sheetfu)
   * [Advanced Drive Service in Apps Script](https://eojji.blogspot.com/2019/06/advanced-drive-service-in-apps-script.html)
 * [Google-Search-PDF-Crawler-pdf2txt-](https://github.com/hyojunmoon/Google_Search_PDF_Crawler_with_pdf2txt_converter)
+* [golpy: Efficient Conway's Game of Life implemented in Python using NumPy](https://github.com/Zeta611/golpy)
 * [goSecure - an easy-to-use and portable Virtual Private Network (VPN) solution](https://github.com/iadgov/goSecure)
 * [goto - A function decorator to use goto in Python](https://github.com/snoack/python-goto)
 * [gping - Ping, but with a graph](https://github.com/orf/gping)
