@@ -1529,6 +1529,7 @@ Python
 * [**Books by Agiliq**](https://books.agiliq.com)
   * Django Admin Cookbook, Django ORM Cookbook, Building APIs with Django and Django Rest Framework, Building Multi Tenant Applications with Django, Django Projects Cookbook, Django Design Patterns, Django Gotchas
   * Journeyman Python, Essential Python Tools, Tweetable Python, Software consulting Howto, Visual Arts with Python
+* [Best Python Books To Read Out in 2021 - Nextotech](https://nextotech.com/best-python-books-in-2020/)
 * ["A Byte of Python" is a free book on programming using the Python language](https://python.swaroopch.com/)
 * [byte of python-korean](http://byteofpython-korean.sourceforge.net/byte_of_python.html)
 * [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python/read_full)
