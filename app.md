@@ -552,6 +552,7 @@ App
     * [VSCode 온라인 IDE - YouTube](https://www.youtube.com/watch?v=ch5OvYKnmUc)
     * [21 VSCode Shortcuts To Code Faster and Funner – JSManifest](https://jsmanifest.com/21-vscode-shortcuts-to-code-faster-and-funner/)
     * [Foam | A personal knowledge management and sharing system for VSCode](https://foambubble.github.io/foam/) knowledge graph
+    * [VS Code Productivity Tips and Tricks - YouTube](https://www.youtube.com/watch?v=lSvP2ahPojg)
     * Debug
       * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
       * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
