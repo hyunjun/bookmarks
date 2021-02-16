@@ -287,6 +287,7 @@ Scala
 * [3 Tricks with Call-by-Name in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=4DrjlJbblkQ)
 * [**Concurrent state machines**](https://www.inner-product.com/posts/concurrent-state-machines/)
 * [Protobufs in Scala - YouTube](https://www.youtube.com/watch?v=s-Q9A30PBv0)
+* [스칼라의 일반적인 유한 상태 기계 (변환기) - 우수한 라이브러리](http://ko.uwenku.com/question/p-umcxjfse-kp.html)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1264,6 +1265,7 @@ Scala
   * [Lightbend Slick: Five do's and don'ts](https://www.becompany.ch/en/blog/2016/12/15/slick-dos-and-donts)
   * [Architecting a flexible and purely functional Scala back-end using Slick and Tagless Final](https://medium.com/panaseer-labs-engineering-data-science/architecting-a-flexible-and-purely-functional-scala-back-end-using-slick-and-tagless-final-97b9754f5817)
   * [Playing With Scala - Slick | Philippe’s Blog](https://plippe.github.io/blog/2020/06/01/playing-with-scala-slick.html)
+  * [Storing date and time into MySQL using Slick/Scala - Stack Overflow](https://stackoverflow.com/questions/31351361/storing-date-and-time-into-mysql-using-slick-scala/31368875)
   * [slick-pg - Slick extensions for PostgreSQL](https://github.com/tminglei/slick-pg)
 * Slinky [Slinky 0.6.0: The One With Hooks](https://medium.com/@shadaj/slinky-0-6-0-the-one-with-hooks-c7f36d78f103)
 * [specs2 - software specification for scala](http://etorreborre.github.io/specs2/)
