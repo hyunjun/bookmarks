@@ -2028,6 +2028,7 @@ Javascript
   * [Deno 1.5 Sees 3x Bundling Performance Improvement Due to Rust-Based JavaScript/TypeScript Compiler](https://www.infoq.com/news/2020/11/deno-15-released/)
   * [Deno, a Secure Runtime for JavaScript and TypeScript - YouTube](https://www.youtube.com/watch?v=428ejtNbd5A)
   * [Let's Learn Deno! - A Secure Run Time Javascript & TS: 1.0. Basic - YouTube](https://www.youtube.com/watch?v=vSJn8LB_h8k)
+  * [Try Deno as an alternative to Node.js | Opensource.com](https://opensource.com/article/21/2/deno)
   * [Aleph.js](https://alephjs.org/)
     * [Server-Rendered Web Applications in Deno with Aleph.js](https://www.infoq.com/news/2020/11/aleph-deno-web-app-nextJS/)
   * [deno-puppeteer: A port of puppeteer running on Deno](https://github.com/lucacasonato/deno-puppeteer)
