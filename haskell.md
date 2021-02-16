@@ -456,8 +456,6 @@ Haskell
 * [Rewriting to Haskell–Testing](https://odone.io/posts/2020-04-13-rewriting-haskell-testing.html)
 * [Servant Testing Helpers!](https://mmhaskell.com/blog/2020/3/30/servant-testing-helpers)
 * [Property testing in depth: genvalidity's fixed-size type generators](https://cs-syd.eu/posts/2020-04-28-genvalidity-improvements)
-
-# Test
 * [Porting the Pusher integration tests to Haskell](https://blog.pusher.com/porting-the-pusher-integration-tests-to-haskell/)
 * [TESTABLE IO IN HASKELL](http://engineering.imvu.com/2015/06/20/testable-io-in-haskell-2/)
 * [HASKELL: UNEXPECTEDLY MAKING IT HARDER TO UNIT TEST](https://atilanevesoncode.wordpress.com/2015/09/14/haskell-unexpectedly-making-it-harder-to-unit-test/)
