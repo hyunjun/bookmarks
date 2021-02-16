@@ -1227,6 +1227,7 @@ App
 * mdjs [Introducing mdjs](https://medium.com/better-programming/introducing-mdjs-6bedba3d7c6f)
 * [**prose.io**](http://prose.io) github
 * [stackedit.io](https://stackedit.io/) gist, github(유료)
+* [VNote - A note-taking application that knows programmers and Markdown better](https://vnotex.github.io/vnote)
 * [Zettlr | A Markdown Editor for the 21st Century](https://www.zettlr.com/)
 
 # Office
