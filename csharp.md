@@ -130,6 +130,7 @@ C#
 
 # Tutorial
 * [Learn C# - Free Interactive C# Tutorial](https://www.learncs.org/)
+* [C# 훑을 겸 인프런 강의 신청- Part1 C# 기초 프로그래밍 입문](https://clocksignal.tistory.com/2)
 
 # Xamarin
 * 마이크로소프트 멜팅팟 온라인 세미나
