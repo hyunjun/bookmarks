@@ -490,6 +490,7 @@ TensorFlow
 * [Custom Layer in TensorFlow using Keras API | Custom Dense Layer in TensorFlow Keras | Deep Learning](https://morioh.com/p/b478d480323d)
 * [Custom CallBack Function in Tensorflow 2.0(Basic) | by Pavan Kunchala | Data Driven Investor | Jan, 2021 | Medium](https://medium.com/datadriveninvestor/custom-callback-function-in-tensorflow-2-0-basic-dd0904a5f12d)
 * [Tensorflow2 with jit compiling on multi-gpu training](https://github.com/sseung0703/TF2-jit-compile-on-multi-gpu)
+* [Regression API Test](https://gist.github.com/krikit/32c918cc03b52315ade562267a91fa6b)
 
 # 2.0
 * [TensorFlow 2.0을 출시했습니다](https://developers-kr.googleblog.com/2019/10/tensorflow-2-0-is-now-available.html)
