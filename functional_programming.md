@@ -424,6 +424,7 @@ Functional Programming
 * [Parallel analysis of temperature dataset | Functional Scala - YouTube](https://www.youtube.com/watch?v=VIxfSgl0-H4)
 * [What the Functor? | Functors in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=aSnY2JBzjUw)
 * [Image editing with Functors | Blog of Adrian Salajan](https://adrian-salajan.github.io/blog/2021/01/25/images-functor)
+* [**2020 Hindsight - Scala | 2020 Hindsight - Scala**](https://2020-hindsight-scala.kevinly.dev/)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
