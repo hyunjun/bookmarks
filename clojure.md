@@ -305,6 +305,7 @@ Clojure
 * [Reimplementing TeX's Algorithms: Looking Back at Thirty Years of Programming](https://www.infoq.com/news/2015/01/implementing-tex-in-clojure/)
 * [I will never let monads be in a Clojure project](https://grishaev.me/en/no-monads/)
 * [Atabey Kaygun — Kruskal's Algorithm Implemented in Clojure](https://kaygun.tumblr.com/post/643010859143151616/kruskals-algorithm-implemented-in-clojure)
+* [Enigma 1: Turning rotors](https://asoftwarecraft.hashnode.dev/enigma-1-turning-rotors)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
