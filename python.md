@@ -3667,7 +3667,8 @@ Python
 * [Numexpr - a fast numerical expression evaluator for NumPy](https://pypi.python.org/pypi/numexpr)
 * [tinynumpy - A lightweight, pure Python, numpy compliant ndarray class](https://github.com/wadetb/tinynumpy)
 
-# [Pandas](http://pandas.pydata.org/)
+# Pandas
+* [pandas - Python Data Analysis Library](https://pandas.pydata.org/)
 * practice
   * [read excel](https://github.com/hyunjun/practice/blob/master/python/test-pandas/read_excel.ipynb)
   * `data.iloc[:,0:8].values.tolist()`  행은 모두 사용하고, 열은 [0,8]만 추출해서 리스트로 변환
@@ -3794,6 +3795,8 @@ Python
 * [Data Analysis with Python: Part 2 of 6 - Python Functions and Working with Files (Live Course) - YouTube](https://www.youtube.com/watch?v=JOKJ6g3gUFE)
 * [Data Analysis with Python: Part 3 of 6 Numerical Computing with Numpy (Live Course) - YouTube](https://www.youtube.com/watch?v=NlZXAytUeeE)
 * [Data Analysis with Python: Part 4 of 6 - Analyzing tabular data with Pandas - YouTube](https://www.youtube.com/watch?v=b2mLDkMSyn4)
+* [Data Analysis with Python: Part 5 of 6 - Visualization with Matplotlib and Seaborn (Live Course) - YouTube](https://www.youtube.com/watch?v=bybjFBOBJlg)
+* [Data Analysis with Python: Part 6 of 6 - Exploratory Data Analysis - A Case Study (Live Course) - YouTube](https://www.youtube.com/watch?v=XRKIa4k0h2E)
 * [Reading HTML tables with Pandas - Practical Business Python](https://pbpython.com/pandas-html-table.html)
 * [Ian Ozsvald - Making Pandas Fly - YouTube](https://www.youtube.com/watch?v=JgBV7p9jNo0)
 * [Case Study: Processing Historical Weather Pattern Data - Practical Business Python](https://pbpython.com/weather-data.html)
@@ -3803,6 +3806,7 @@ Python
 * [자주쓰는 명령어로 배우는 Pandas #3 : 데이터 조작하기](https://sjquant.tistory.com/56)
 * [자주쓰는 명령어로 배우는 Pandas #4 : 데이터 능숙하게 다루기](https://sjquant.tistory.com/57)
 * [Wes McKinney: pandas in 10 minutes | Walkthrough - YouTube](https://www.youtube.com/watch?v=_T8LGqJtuGc)
+* [Efficiently Cleaning Text with Pandas - Practical Business Python](https://pbpython.com/text-cleaning.html)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
   * [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
@@ -4131,7 +4135,8 @@ Python
 * [slacker: Full-featured Python interface for the Slack API](https://github.com/os/slacker/)
   * [Slacker를 이용한 Slack Bot 만들기 | Corikachu](https://corikachu.github.io/articles/python/python-slack-bot-slacker)
 
-# [SymPy](http://www.sympy.org/)
+# SymPy
+* [SymPy](http://www.sympy.org/)
 * [Unification in SymPy](http://matthewrocklin.com/blog/work/2012/11/01/Unification/)
 * [Matrix Computations in SymPy](http://matthewrocklin.com/blog/work/2012/10/29/Matrix-Computations/)
 * [Python Sympy 모듈 이해하기](http://www.slideshare.net/dahlmoon/jupyter-notebok-20160630)
