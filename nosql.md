@@ -251,6 +251,7 @@ NoSQL
   * [Migrate your Firebase Cloud Functions to Node.js 10 | by Doug Stevenson | Firebase Developers | Jun, 2020 | Medium](https://medium.com/firebase-developers/migrate-your-firebase-cloud-functions-to-node-js-10-d9c677933ee)
   * [로그인 구현 5분컷? 파이어베이스 무료 강의! - YouTube](https://www.youtube.com/watch?v=cQimgQdTpeQ)
   * [Firebase Dynamic Link Creation Guide | by Muffaddal Qutbuddin | Firebase Developers](https://medium.com/firebase-developers/firebase-dynamic-links-guide-76552c0f292e)
+  * [빌드 타입별로 파이어베이스키 설정하기 | Jungwoon Blog](https://jungwoon.github.io/android/firebase/2021/02/16/BuildType-Firebase.html)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
