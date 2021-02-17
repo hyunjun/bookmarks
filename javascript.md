@@ -1673,6 +1673,7 @@ Javascript
 * [Lerna · A tool for managing JavaScript projects with multiple packages](https://lerna.js.org/)
   * [FE개발자의 성장 스토리 03 : 카카오 어드민 UI 컴포넌트를 모노레포로 개발하여 얻은 것들 – tech.kakao.com](https://tech.kakao.com/2020/12/03/frontend-growth-03/)
   * [코딩 플레이그라운드 만들며 맛보는 요즘 FE 개발 환경 Part 1 · shiren the creator](https://blog.shiren.dev/2021-02-15/)
+  * [Lerna와 Yarn workspaces를 활용한 패키지 관리 | by Yeongsu Han | 원티드 제품 팀블로그 | Feb, 2021 | Medium](https://medium.com/wantedjobs/lerna%EC%99%80-yarn-workspaces%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B4%80%EB%A6%AC-429d2a685486)
 * [npmjs.com](https://www.npmjs.com/)
   * [모듈화와 npm(node package manager)](http://poiemaweb.com/nodejs-npm)
   * [5 Practical Ways To Share Code: From NPM to Lerna And Bit](https://hackernoon.com/5-practical-ways-to-share-code-from-npm-to-lerna-and-bit-732f2a4db512)
