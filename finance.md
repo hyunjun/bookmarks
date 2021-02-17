@@ -41,6 +41,7 @@ Finance
 * [금융저널에 실린 기계학습논문을 구현한 MLFinLab | | 그대안의 작은 호수](https://smallake.kr/?p=28572)
 * ['국내외 주식 분석 리포트/해외 주식' 카테고리의 글 목록](https://ryanydollardollarbill.tistory.com/category/%EA%B5%AD%EB%82%B4%EC%99%B8%20%EC%A3%BC%EC%8B%9D%20%EB%B6%84%EC%84%9D%20%EB%A6%AC%ED%8F%AC%ED%8A%B8/%ED%95%B4%EC%99%B8%20%EC%A3%BC%EC%8B%9D)
 * ['블랙록'은 '금융 플랫폼' 회사다!](https://brunch.co.kr/@gauss92tgrd/16)
+* [How to transfer your stocks to your broker with DTC (Depository Trust Company) code | by Bryant Jimin Son | Feb, 2021 | Medium](https://bryantson.medium.com/how-to-transfer-your-stocks-to-your-broker-with-dtc-depository-trust-company-code-1448628bfb3e) RSU같은 stock option을 받았을때 Broker로 트랜스퍼하는 방법
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
