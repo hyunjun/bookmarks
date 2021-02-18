@@ -506,7 +506,7 @@ Python
 * [4 Super Useful Python Features. Four less well-known but incredibly… | by James Briggs | Towards Data Science](https://towardsdatascience.com/4-super-useful-python-features-993ae484fbb8) List append and extend, Yield vs Return, print(start, end), map and lambda
 * [Introduction to Priority Queues in Python | by Raivat Shah | Towards Data Science](https://towardsdatascience.com/introduction-to-priority-queues-in-python-83664d3178c3) list, heapq, queue.PriorityQueue
 * [10 Algorithms To Solve Before your Python Coding Interview | by AnBento | Towards Data Science](https://towardsdatascience.com/10-algorithms-to-solve-before-your-python-coding-interview-feb74fb9bc27) string, array
-* [내 코드를 우아하게 만드는 파이썬 꿀팁 😮](https://sjquant.tistory.com/58) f-string, tuple, zip, enumerate, list comprehension, unpacking operators(*, **), dictionary, product
+* [내 코드를 우아하게 만드는 파이썬 꿀팁 😮](https://sjquant.tistory.com/58) f-string, tuple, zip, enumerate, list comprehension, unpacking operators(`*`, `**`), dictionary, product
 * [Handy Python Snippets for Cleaner Code | by Tate Galbraith | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/handy-python-snippets-for-cleaner-code-a1e2c5d39a0d)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
@@ -1237,6 +1237,7 @@ Python
   * [5 Python String Methods For Better Formatting | by Tate Galbraith | Jul, 2020 | Level Up Coding](https://levelup.gitconnected.com/5-python-string-methods-for-better-formatting-a2c3b92a2d33)
   * [22 Pythonic Tricks for Working with Strings | by Richard Quinn | Python In Plain English | Medium](https://medium.com/python-in-plain-english/22-pythonic-tricks-for-working-with-strings-8b893776743c)
   * [split() vs. partition() in Python Strings | by Indhumathy Chelliah | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/split-vs-partition-in-python-strings-9505d070af55)
+  * [Python strings are immutable, but only sometimes - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/pythonstringsaremutable.html)
 * [subprocess](https://docs.python.org/3/library/subprocess.html)
   * [pymotw.com/3/subprocess](https://pymotw.com/3/subprocess/)
   * [asyncio-subprocess](https://docs.python.org/3/library/asyncio-subprocess.html)
