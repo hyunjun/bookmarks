@@ -793,6 +793,7 @@ SQL
 * [view 뷰에 대한 이해 SQL 독학 강의#25편](https://stricky.tistory.com/323)
 * [주문 고객 상품 테스트용 데이터 생성 및 다운로드](https://stricky.tistory.com/230)
 * [SQL Correlated Subqueries - GeeksforGeeks](https://www.geeksforgeeks.org/sql-correlated-subqueries/)
+* [Rain in Australia 캐글 날씨 데이터셋 다운로드 받아 mysql에 넣는 방법](https://stricky.tistory.com/448) DDL Datagrip
 
 ## Query, SQL Join
 * [SQL기초강좌(외부조인, outer join), 오라클, MySQL, 내부조인,외부조인,](http://www.slideshare.net/topcredu/sql-outer-join-mysql)
