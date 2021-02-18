@@ -87,7 +87,6 @@ Clojure
 * [Clojure/west2016](https://www.youtube.com/playlist?list=PLZdCLR02grLq4e8-1P2JNHBKUOLFTX3kb)
 * [Clojure/west2017](http://2017.clojurewest.org/)
 * [clojure.java.jdbc A low-level Clojure wrapper for JDBC-based access to databases](https://github.com/clojure/java.jdbc)
-* [20 cool Clojure functions](http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/)
 * [Vars](http://philoskim.github.io/doc/var.html)
 * [Creative computing with Clojure](http://radar.oreilly.com/2015/05/creative-computing-with-clojure.html)
 * [Contributing to Clojure](http://insideclojure.org/2015/05/01/contributing-clojure/)
@@ -96,7 +95,6 @@ Clojure
 * [Implementing a Clojure ns-browser in Light Table with React](http://rundis.github.io/blog/2015/lt_react.html)
 * [Clojure로 웹 서비스 개발 시작해보기](https://medium.com/@pitzcarraldo/clojure%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EC%8B%9C%EC%9E%91%ED%95%B4%EB%B3%B4%EA%B8%B0-8db38437b2a3)
 * [Micro-Services: Clojure vs Scala](http://glennengstrand.info/blog/?p=360)
-* [Intro to Higher Order Functions](http://comp-phil.blogspot.kr/2015/05/intro-to-higher-order-functions.html)
 * [ex-info](https://clojuredocs.org/clojure.core/ex-info)
   * [ExceptionInfo.java](https://github.com/clojure/clojure/blob/master/src/jvm/clojure/lang/ExceptionInfo.java)
 * [Iris/Clojure Introduction (Part I)](https://nervous.io/clojure/iris/messaging/2015/06/03/iris-clojure-part-one/)
@@ -195,7 +193,6 @@ Clojure
 * [Externs Inference](https://gist.github.com/swannodette/4fc9ccc13f62c66456daf19c47692799)
 * [Clojure에서의 다형성(Polymorphism) 지원](https://groups.google.com/forum/#!topic/clojure-kr/rwhCBbEW6DI)
 * [Why Clojure is better than C, Python,Ruby and java and why should you care](http://telegra.ph/Why-Clojure-is-better-than-C-PythonRuby-and-java-and-why-should-you-care-12-20)
-* [함수를 다른 함수의 인자로 넘겨보자](http://clojure.kr/parameter_function)
 * [리스트 비교하기 — 클로져](https://medium.com/@jooyunghan/%EB%A6%AC%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90%ED%95%98%EA%B8%B0-%ED%81%B4%EB%A1%9C%EC%A0%B8-b721fa33f48a)
 * [What do veteran Lisp programmers think of Clojure?](https://www.quora.com/What-do-veteran-Lisp-programmers-think-of-Clojure)
 * [lazy-seq 여부 판별하기](https://groups.google.com/forum/#!topic/clojure-kr/CPRZ8zkwN0I)
@@ -269,7 +266,6 @@ Clojure
 * [모듈러(Modular) 연산](https://philoskim.github.io/clojure/blog/modular.html)
 * [Domain Modelling using Clojure](https://gist.github.com/dfcarpenter/7d49ed98c25408e2b2bfbdf141c1c407)
 * [What I learned after writing Clojure for 424 days, straight](https://medium.com/@shivekkhurana/what-i-learned-after-writing-clojure-for-424-days-straight-8884ec471f8e)
-* [Fast Function Currying in Clojure (Without Macros)](https://dragan.rocks/articles/18/Fluokitten-080-Fast-function-currying-in-Clojure)
 * A Joyful Introduction to Clojure
   * [Part I - A Clojure Development Environment That Gets Out of Your Way](https://medium.com/@daniel.oliver.king/a-clojure-development-environment-that-gets-out-of-your-way-c11e6711ead3)
   * [Part II - Getting Work Done in Clojure: The Building Blocks](https://medium.com/@daniel.oliver.king/getting-work-done-in-clojure-the-building-blocks-39ad82796926)
@@ -309,6 +305,11 @@ Clojure
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
+* [20 cool Clojure functions](http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/)
+* [Intro to Higher Order Functions](http://comp-phil.blogspot.kr/2015/05/intro-to-higher-order-functions.html)
+* [Functions Explained Through Patterns - Joseph Wilk](http://blog.josephwilk.net/clojure/functions-explained-through-patterns.html)
+* [함수를 다른 함수의 인자로 넘겨보자](http://clojure.kr/parameter_function)
+* [Fast Function Currying in Clojure (Without Macros)](https://dragan.rocks/articles/18/Fluokitten-080-Fast-function-currying-in-Clojure)
 * [Clojure Functions in Four Ways - Rake Routes](https://www.rakeroutes.com/clojure-functions-in-four-ways)
 * clojure.spec
   * [INTRODUCING CLOJURE.SPEC](http://blog.cognitect.com/blog/2016/5/23/introducing-clojurespec)
@@ -360,15 +361,6 @@ Clojure
 * [Designing a database like an archaeologist](https://github.com/aosabook/500lines/blob/master/functionalDB/chapter.md)
 * [fn](https://clojuredocs.org/clojure.core/fn)
 * [for](https://clojuredocs.org/clojure.core/for)
-* functional programming
-  * [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
-  * [Functional-navigational programming in Clojure(Script) with Specter](http://nathanmarz.com/blog/functional-navigational-programming-in-clojurescript-with-sp.html)
-  * [Learn Functional Programming with Clojure](http://www.purelyfunctional.tv/intro-to-clojure)
-  * [Functional programming in Clojure](http://iloveponies.github.io/120-hour-epic-sax-marathon/)
-  * [Modern functional programming with Clojure - YouTube](https://www.youtube.com/watch?v=KZ1UmiWHbzY)
-  * [Functional Programming in the Cloud: Simpler Application Development](https://www.youtube.com/watch?v=mxryzShPH8o) Datomic Cloud
-  * [Purely Functional IO in Clojure](https://github.com/micmarsh/clojure-pure-io/blob/master/gist.md)
-  * [Functional Programming](http://philoskim.github.io/doc/functional-programming.html)
 * future
   * [clojure-auto-cancelling-future](https://www.facebook.com/notes/seong-kook-shin/clojure-auto-cancelling-future/1109887885742259)
 * map

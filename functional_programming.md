@@ -76,7 +76,6 @@ Functional Programming
 * [Pros and cons of functional programming](https://itnext.io/pros-and-cons-of-functional-programming-32cdf527e1c2)
 * [Are idempotent functions the same as pure functions?](https://stackoverflow.com/questions/4801282/are-idempotent-functions-the-same-as-pure-functions)
 * [Elements of Functional Programming](https://www.youtube.com/watch?v=vVW5bkXQ138) map, flatMap, filter in Swift
-* [All I needed for FP I learned in High School Algebra - Eric Normand](https://www.youtube.com/watch?v=epT1xgxSpFU) clojure
 * [Functional Programming & Haskell - Computerphile](https://www.youtube.com/watch?v=LnX3B9oaKzw)
 * [What Is Functional Programming?](https://www.youtube.com/watch?v=kJuJU-7_utA)
 * So You Want to be a Functional Programmer
@@ -142,7 +141,16 @@ Functional Programming
   * 4시간 가까이 이론 설명 및 토론 + 매스매티카로 예제 구현, 어려움
 
 # Clojure
+* [All I needed for FP I learned in High School Algebra - Eric Normand](https://www.youtube.com/watch?v=epT1xgxSpFU)
 * [Functional programming, meet OOP - The Startup - Medium](https://medium.com/swlh/functional-programming-meet-oop-3dc12a14e38e)
+* [Clojure - Functional Programming for the JVM](http://java.ociweb.com/mark/clojure/article.html)
+* [Functional-navigational programming in Clojure(Script) with Specter](http://nathanmarz.com/blog/functional-navigational-programming-in-clojurescript-with-sp.html)
+* [Learn Functional Programming with Clojure](http://www.purelyfunctional.tv/intro-to-clojure)
+* [Functional programming in Clojure](http://iloveponies.github.io/120-hour-epic-sax-marathon/)
+* [Modern functional programming with Clojure - YouTube](https://www.youtube.com/watch?v=KZ1UmiWHbzY)
+* [Functional Programming in the Cloud: Simpler Application Development](https://www.youtube.com/watch?v=mxryzShPH8o) Datomic Cloud
+* [Purely Functional IO in Clojure](https://github.com/micmarsh/clojure-pure-io/blob/master/gist.md)
+* [Functional Programming](http://philoskim.github.io/doc/functional-programming.html)
 
 # Conference
 * [Lambda World](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos)
