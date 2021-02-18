@@ -1662,6 +1662,7 @@ Scala
 * [Scala 3: Match Types | Rock the JVM - YouTube](https://www.youtube.com/watch?v=YiPQxIQZn5M)
 * [Match Types in Scala 3 - Rock the JVM Blog](https://blog.rockthejvm.com/scala-3-match-types/)
 * [Union and Intersection Types in Scala 3 | by ayush mittal | Feb, 2021 | Medium](https://ayushm4489.medium.com/union-and-intersection-types-in-scala-3-6b5f7e818dc4)
+* [This Is Your App on Scala 3 by John A. De Goes - YouTube](https://www.youtube.com/watch?v=NY2ZkcYZj54)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
