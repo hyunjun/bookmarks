@@ -576,6 +576,7 @@ Scala
   * [practice - Either](https://gist.github.com/hyunjun/badf4b2082ac8ba0c585c6fe8d527e70#file-either-scala)
 * [Scala Filesystem Operations (paths, move, copy, list, delete) - MungingData](https://mungingdata.com/scala/filesystem-paths-move-copy-list-delete-folders/)
 * [Objects and Companions in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=OI3F_fuFYjg)
+* [01A: Scala Class Vs. Object and Companion object interview Q&As | Java-Success.com](https://www.java-success.com/01a-scala-class-vs-object-and-companion-object-interview-qas/)
 * [How to Sort Lists in Scala with Tail Recursion - Rock the JVM Blog](https://blog.rockthejvm.com/sorting/)
   * [How to Sort Lists with Tail Recursion in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=YKwBBe3FlAM)
 * `:kind` or `:k`
