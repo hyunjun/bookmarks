@@ -280,7 +280,6 @@ Clojure
 * [Clojure 개발 환경 셋업 #3 - Calva](https://www.youtube.com/watch?v=7UVgW-A-e9g) [33:05~33:45](https://www.youtube.com/watch?v=8AJkLS7YqFg)
 * [Stuart Halloway Aim Small, Miss Small: Writing Correct Programs](https://www.deconstructconf.com/2018/stuart-halloway-aim-small-miss-small-writing-correct-programs)
 * [Clojure socket prepl cookbook](https://oli.me.uk/2019-03-22-clojure-socket-prepl-cookbook/)
-* [How to build a native binary for your Clojure projects with GraalVM](https://github.com/BrunoBonacci/graalvm-clojure/blob/master/doc/clojure-graalvm-native-binary.md)
 * [Try to build with graal](https://github.com/dundalek/closh/commit/352a523385ca8a99d25aeec2d18d0bca6ed8e5e2)
 * [Datahike Release 0.2.0](https://lambdaforge.io/2019/09/20/datahike-release-0.2.0.html)
 * [Updating diagnostics for Boeing’s 737 MAX](http://magazine.aerospacemanufacturinganddesign.com/article/october-2016/updating-diagnostics-for-boeings-737-max.aspx) Clojure 3.2만 line. Java였으면 50만 line이 넘었을 거로 추정함
@@ -306,6 +305,7 @@ Clojure
 * [I will never let monads be in a Clojure project](https://grishaev.me/en/no-monads/)
 * [Atabey Kaygun — Kruskal's Algorithm Implemented in Clojure](https://kaygun.tumblr.com/post/643010859143151616/kruskals-algorithm-implemented-in-clojure)
 * [Enigma 1: Turning rotors](https://asoftwarecraft.hashnode.dev/enigma-1-turning-rotors)
+* [Ostash.Dev - Code is a poetry](https://ostash.dev/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -508,7 +508,7 @@ Clojure
   * lein 연동 가능, 독립 실행도 가능
 * [tau.alpha - a ClojureScript library for managing webworkers, ideally similar to Clojure's concurrency primitives](https://github.com/johnmn3/tau.alpha)
 * [untangled - A ClojureScript-based webapp framework](http://untangled-web.github.io/untangled/index.html)
-* [zprint - A fast zprint filter](https://github.com/kkinnear/zprint/blob/master/doc/graalvm.md)
+* [zprint - A fast zprint filter](https://github.com/kkinnear/zprint)
 
 # Conference
 * [Clojure/north 2020 - YouTube](https://www.youtube.com/playlist?list=PL_arKaS8JOXHHaK715NZjVpfzKebcJD5U)
@@ -625,7 +625,6 @@ Clojure
 * [clojure.java.jdbc - A low-level Clojure wrapper for JDBC-based access to databases](https://github.com/clojure/java.jdbc)
 * [clojure-lsp: Language Server (LSP) for Clojure](https://github.com/clojure-lsp/clojure-lsp)
   * [Overview - Clojure LSP](https://clojure-lsp.github.io/clojure-lsp/)
-* [clojure-rust-graalvm: An example of Clojure program calling a Rust library, all combined into one executable using GraalVM](https://github.com/borkdude/clojure-rust-graalvm)
 * [clojure-turtle - A Clojure library that implements the Logo programming language in a Clojure context](https://github.com/google/clojure-turtle)
 * [clojure-web-minsetup](https://github.com/clonekim/clojure-web-minsetup)
 * [Clojush - The Push programming language and the PushGP genetic programming system implemented in Clojure. http://hampshire.edu/lspector/push.html](https://github.com/lspector/Clojush)
@@ -727,7 +726,6 @@ Clojure
 * logger [Simple logger that works in bb](https://gist.github.com/borkdude/c97da85da67c7bcc5671765aef5a89ad)
 * [lokke: Lokke: Clojure for Guile](https://github.com/lokke-org/lokke)
 * [Loom - Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj http://aysy.lu/loom ](https://github.com/aysylu/loom)
-* [lucene-grep: Grep-like utility based on Lucene Monitor compiled with GraalVM native-image](https://github.com/dainiusjocas/lucene-grep)
 * [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/) web template
   * [Clojure with LuminusWeb](https://medium.com/@itstedpark/clojure-with-luminusweb-e688a670166d)
   * [Luminus에서 clj-refactor 설정하기](http://clojure.kr/luminus-clj-refactor)
@@ -765,6 +763,8 @@ Clojure
 * [plsci: PostgreSQL procedural language handler for Clojure via SCI](https://github.com/borkdude/plsci)
 * [plet - Parallel let macro inspired by Haxl](https://github.com/eunmin/plet)
 * [pod-babashka-sqlite3: A babashka pod for interacting with sqlite3](https://github.com/babashka/pod-babashka-sqlite3)
+* [Polylith - Polylith](https://polylith.gitbook.io/polylith/)
+  * [Polylith - the last architecture you will ever need by Joakim Tengstrand and Furkan Bayraktar - YouTube](https://www.youtube.com/watch?v=pebwHmibla4)
 * [potemkin: some ideas which are almost good](https://github.com/clj-commons/potemkin)
 * [prone Build Status - Better exception reporting middleware for Ring](https://github.com/magnars/prone)
 * [purnam - Language Extensions for Clojurescript http://purnam.github.io/purnam](https://github.com/purnam/purnam)
@@ -832,6 +832,13 @@ Clojure
 * [venia - A Clojure(Script) qraphql query client library](https://github.com/Vincit/venia)
 * [vizard - magic visualization](https://github.com/yieldbot/vizard)
 
+## Library GraalVM
+* [How to build a native binary for your Clojure projects with GraalVM](https://github.com/BrunoBonacci/graalvm-clojure/blob/master/doc/clojure-graalvm-native-binary.md)
+* [clojure-graalvm-native-binary.md at master · BrunoBonacci/graalvm-clojure](https://github.com/BrunoBonacci/graalvm-clojure/blob/master/doc/clojure-graalvm-native-binary.md)
+* [clojure-rust-graalvm: An example of Clojure program calling a Rust library, all combined into one executable using GraalVM](https://github.com/borkdude/clojure-rust-graalvm)
+* [datalevin/native at master · juji-io/datalevin](https://github.com/juji-io/datalevin/tree/master/native)
+* [lucene-grep: Grep-like utility based on Lucene Monitor compiled with GraalVM native-image](https://github.com/dainiusjocas/lucene-grep)
+
 # REPL
 * [A REPL Story](http://sprungcanary.net/2015/11/29/a-repl-story/)
 * [The Ultimate Guide To Clojure REPLs](https://lambdaisland.com/guides/clojure-repls/)
@@ -897,6 +904,7 @@ Clojure
 * [SciCloj: Libraries](https://scicloj.github.io/pages/libraries/)
 * [Why Developers Should Look into Clojure](https://auth0.com/blog/why-developers-should-look-into-clojure)
 * [Clojure in a nutshell by James Trunk - YouTube](https://www.youtube.com/watch?v=C-kF25fWTO8)
+* [Clojure: a mature alternative to Java - JAXenter](https://jaxenter.com/clojure-alternative-java-169315.html)
 
 # Vim
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
