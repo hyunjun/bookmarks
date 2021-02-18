@@ -1116,6 +1116,7 @@ Python
   * [쉽게 배우는 파이썬 문법 - 프로퍼티(Property) 4편](https://blog.naver.com/codeitofficial/221706621090)
 * random
   * shuffle [사용자 데이터셋 셔플](https://jybaek.tistory.com/781)
+  * [Random sampling from a list in Python (random.choice, sample, choices) | note.nkmk.me](https://note.nkmk.me/en/python-random-choice-sample-choices/)
 * re
   * practice
     * [practice re - 특수문자만 제거](https://gist.github.com/hyunjun/0d5245ad5e4bd79077bfc9869ab3642c)
