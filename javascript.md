@@ -1974,6 +1974,7 @@ Javascript
 * [Best node.js tutorial for beginners | csstack](https://www.csstack.com/node-js-tutorial/)
 * [node.js의 이벤트루프와 libuv의 이해](https://blog.naver.com/pjt3591oo/221976414901)
 * [libuv의 이벤트 루프(Event Loop)에 대해 알아보자](https://blog.naver.com/dlaxodud2388/222218703957)
+* [**Asynchronous Engine — (1) libuv. 최근 fastapi 1.0.0 버전 출시를 앞두고 있다는 소식을 듣고… | by 달가을 | Feb, 2021 | Medium**](https://blue-hope.medium.com/asynchronous-engine-1-libuv-2508a4bebb42)
 * [Node.js에서 Github oAuth에 접근해보자 (1). - 완두블로그](https://wani.kr/posts/2015/02/11/github-oauth-via-node-1/)
 * [Node.js 입력 받기](https://wooooooak.github.io/node.js/2018/09/26/Node.js-%EC%9E%85%EB%A0%A5-%EB%B0%9B%EA%B8%B0/)
 * [어서와, SSR은 처음이지? - 도입 편](https://d2.naver.com/helloworld/7804182)
