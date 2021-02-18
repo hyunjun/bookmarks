@@ -1372,6 +1372,7 @@ Java
 * [🌱스프링 부트로 쉽게 배치 프로그램 만들기 - YouTube](https://www.youtube.com/watch?v=d-pGQRctmeY)
 * [⏳스프링 부트의 비동기 메소드 만들기 - YouTube](https://www.youtube.com/watch?v=CC7qxnLFkeU)
 * [🌱스프링 부트와 몽고DB #MongoDB #NoSQL - YouTube](https://www.youtube.com/watch?v=QeT3YB69OW0)
+* [spring boot 로컬에서 smtp mail 테스트하기 :: 삶의여행](https://life-journey.tistory.com/43)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
