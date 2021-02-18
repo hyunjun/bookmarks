@@ -522,6 +522,7 @@ Clojure
 * [Stratified Design: A Lisp Tradition - re:Clojure 2020 TALK - LispCast](https://lispcast.com/stratified-design-a-lisp-tradition-reclojure-2020-talk/)
 * [How To Be A REPL Sorcerer - Oliver Caldwell - re:Clojure 2020 - YouTube](https://www.youtube.com/watch?v=lR2vbwuzrIM)
 * [clojureD 2019: "Workflow engines with Clojure – It's a match!" by Tim Zöller - YouTube](https://www.youtube.com/watch?v=M1HrLAud6MA)
+* [Goodbye YAML: Infrastructure as Code in Clojure - Eno Compton & Tyler van Hensbergen - YouTube](https://www.youtube.com/watch?v=TbDmupZyuXk)
 
 # Debug
 * [Debugging in Clojure?](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
