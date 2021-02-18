@@ -15,6 +15,7 @@ Programming Books
 * [thebook.io](https://thebook.io/) 길벗
 * [SW교육도서 소개](http://hicoding.kr/?page_id=38623) 초등학생용이지만 수준이 상당함
 * [전자책 출간 후기](https://www.popit.kr/%EC%A0%84%EC%9E%90%EC%B1%85-%EC%B6%9C%EA%B0%84-%ED%9B%84%EA%B8%B0)
+* [전자책 1인출판 도전기 #6 출판사 신고하기 (1)](https://brunch.co.kr/@merryseo/9)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * [사물인터넷을위한 BBC microbit 프로그래밍](http://jpub.tistory.com/723)
   * 한라 005.118 서64ㅂ
