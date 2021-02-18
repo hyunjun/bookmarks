@@ -169,6 +169,7 @@ Java
   * [java map find key in value : 2개의 맵을 씁시다](https://codingdog.tistory.com/entry/java-map-find-key-in-value-2%EA%B0%9C%EC%9D%98-%EB%A7%B5%EC%9D%84-%EC%94%81%EC%8B%9C%EB%8B%A4)
 * Comparable, Comparator
   * [Java 배열 및 ArrayList를 Comparable과 Comparator를 이용해 정렬하기](http://developer88.tistory.com/75)
+  * [java compareTo 메소드 : 순서가 중요한 곳에서 잘 쓰인다.](https://codingdog.tistory.com/entry/java-compareTo-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%88%9C%EC%84%9C%EA%B0%80-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B3%B3%EC%97%90%EC%84%9C-%EC%9E%98-%EC%93%B0%EC%9D%B8%EB%8B%A4)
 * datetime
   * [How to get previous day using datetime](http://stackoverflow.com/questions/2493724/how-to-get-previous-day-using-datetime)
   * [Java, Android에서 날짜 표현할 때 Calendar, Date 그리고 SimpleDateFormat](https://developer88.tistory.com/16)
@@ -1210,6 +1211,7 @@ Java
 * [프로그램 소스에 비번, API키 등의 하드코딩 피하는 법 #환경변수 - YouTube](https://www.youtube.com/watch?v=glfNqZQGlUA) environment variable
 * [도커에서 환경변수 인식하기 #스프링부트 - YouTube](https://www.youtube.com/watch?v=gt9hJ-H7F9g)
 * [21. Spring - 게시판 목록의 No값(주로PK값)을 순번으로 나타내기](https://kim-jong-hyun.tistory.com/37)
+* [22. Spring - Profile별로 개발환경 세팅 및 배포](https://kim-jong-hyun.tistory.com/40)
 * [thymeleaf](https://okdevtv.com/mib/spring/thymeleaf)
   * [Thymeleaf 시작하기 - YouTube](https://www.youtube.com/watch?v=tiRi6PLVesY)
   * [7. Spring Thymeleaf 적용해보기](https://kim-jong-hyun.tistory.com/18)
