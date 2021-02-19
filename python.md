@@ -2252,6 +2252,7 @@ Python
   * [PyQt5 및 Qt Designer 설치](https://webolutions.tistory.com/118)
   * [PyQt5 Tutorial - Setup and a Basic GUI Application](https://www.youtube.com/watch?v=Vde5SH8e1OQ)
   * [**Handling SQL Databases With PyQt: The Basics – Real Python**](https://realpython.com/python-pyqt-database/)
+  * [Creating PyQt Layouts for GUI Python Applications - YouTube](https://www.youtube.com/watch?v=MY29YV9Wk7I)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
 * PySide2 [Python GUI with PyQT/PySide2. A look and guide at a popular GUI for… | by Keno Leon | The Startup | Medium](https://medium.com/swlh/python-gui-with-pyqt-pyside2-5cca38d739fa)
