@@ -1256,8 +1256,9 @@ App
 * [bitwarden - Solve your password management problems](https://bitwarden.com/) lastpass open source
   * [패스워드 관리 프로그램 비교](https://www.youtube.com/watch?v=d2xMOZgqidI)
   * [비밀번호 관리 프로그램 Bitwarden 소개 및 NAS 설치법 : 클리앙](https://www.clien.net/service/board/lecture/15177864)
-* [Enpass password manager 사용 후기 : 클리앙](https://www.clien.net/service/board/cm_iphonien/14169089)
-* [Fort - a Free Software password manager http://www.ideabyte.net/fort ](https://github.com/nrosvall/fort)
+* [Enpass: Password Manager for iOS, Android, Linux, Windows, Mac](https://www.enpass.io/)
+  * [Enpass password manager 사용 후기 : 클리앙](https://www.clien.net/service/board/cm_iphonien/14169089)
+* [~Fort - a Free Software password manager http://www.ideabyte.net/fort ~](https://github.com/nrosvall/fort)
 * [Pass: The Standard Unix Password Manager](https://www.passwordstore.org/)
 
 # Programming
