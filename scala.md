@@ -291,6 +291,7 @@ Scala
 * [GraphQL Overview part1 — What is GraphQl? | by Sebastian Rabiej | Medium](https://medium.com/@sebastian.rabiej/9546475e03d6)
 * [GraphQL Overview—Part 2—Libraries | by Piotr Jasiak | SoftwareMill Tech Blog](https://blog.softwaremill.com/graphql-overview-part-2-libraries-7d6e1e24035d)
 * [Mutability in Scala - Rock the JVM Blog](https://blog.rockthejvm.com/mutability-in-scala/)
+  * [Mutability in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=js3xtPNlMgo)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
