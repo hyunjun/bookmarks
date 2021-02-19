@@ -288,6 +288,9 @@ Scala
 * [**Concurrent state machines**](https://www.inner-product.com/posts/concurrent-state-machines/)
 * [Protobufs in Scala - YouTube](https://www.youtube.com/watch?v=s-Q9A30PBv0)
 * [스칼라의 일반적인 유한 상태 기계 (변환기) - 우수한 라이브러리](http://ko.uwenku.com/question/p-umcxjfse-kp.html)
+* [GraphQL Overview part1 — What is GraphQl? | by Sebastian Rabiej | Medium](https://medium.com/@sebastian.rabiej/9546475e03d6)
+* [GraphQL Overview—Part 2—Libraries | by Piotr Jasiak | SoftwareMill Tech Blog](https://blog.softwaremill.com/graphql-overview-part-2-libraries-7d6e1e24035d)
+* [Mutability in Scala - Rock the JVM Blog](https://blog.rockthejvm.com/mutability-in-scala/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -577,8 +580,6 @@ Scala
 * [Scala Filesystem Operations (paths, move, copy, list, delete) - MungingData](https://mungingdata.com/scala/filesystem-paths-move-copy-list-delete-folders/)
 * [Objects and Companions in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=OI3F_fuFYjg)
 * [01A: Scala Class Vs. Object and Companion object interview Q&As | Java-Success.com](https://www.java-success.com/01a-scala-class-vs-object-and-companion-object-interview-qas/)
-* [How to Sort Lists in Scala with Tail Recursion - Rock the JVM Blog](https://blog.rockthejvm.com/sorting/)
-  * [How to Sort Lists with Tail Recursion in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=YKwBBe3FlAM)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -607,6 +608,9 @@ Scala
   * [**스칼라 클래스의 일반적인 형식화**](https://blog.xxxnell.com/ko/posts/formalization)
 * collection
   * [practice - until & to](https://gist.github.com/hyunjun/3eddbf4ba54b1a603f38e52b78a9b0e6#file-until_to-scala)
+  * [How to Sort Lists in Scala with Tail Recursion - Rock the JVM Blog](https://blog.rockthejvm.com/sorting/)
+    * [How to Sort Lists with Tail Recursion in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=YKwBBe3FlAM)
+  * [Scala's List has a Secret - Alexandru Nedelcu](https://alexn.org/blog/2021/02/12/scala-list-secret.html)
 * concurrent
   * duration
     * [Rock the JVM | How Does "20 seconds" Work in Scala?](https://rockthejvm.com/blog/215541/20-seconds)
@@ -932,7 +936,7 @@ Scala
 * [akka in actoin - livebook.manning.com/book/akka-in-action](https://livebook.manning.com/book/akka-in-action/)
 * [Best Scala Books: For Beginners & Experienced](https://techvidvan.com/tutorials/scala-books/)
 * [Creative Scala](https://www.creativescala.org/)
-* [Essential Effects: a book for learning effectful programming in Scala](https://essentialeffects.dev/)
+* [Essential Effects: a book for learning effectful programming in Scala](https://essentialeffects.dev/) cats effect
 * [fpinscala](https://github.com/fpinscala/fpinscala) Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" http://manning.com/bjarnason
   * [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
 * [Hands-on Scala Programming](https://www.handsonscala.com/)
@@ -1531,6 +1535,8 @@ Scala
 * [Tagless Final - Part 15.1 - trust, but verify (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=kHW46U8xi8I)
 * [Tagless Final - Part 15.2 - trust, but verify (The Big Rewrite) - YouTube](https://www.youtube.com/watch?v=z1sHXCsZapM)
 * [Scala 3 - TF related improvements (mostly #implicits) - YouTube](https://www.youtube.com/watch?v=0MPfFBctWUc)
+* [Upgrade your Tagless Final with Tofu - I'm Pavels, welcome!](https://scala.monster/train-station-tofu/)
+* [The Death of Tagless Final by John A. De Goes - YouTube](https://www.youtube.com/watch?v=p98W4bUtbO8)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
@@ -1608,6 +1614,8 @@ Scala
 * [sbt-sonatype: Blazingly Fast Release to Sonatype](https://medium.com/@taroleo/sbt-sonatype-f02bdafd78f1)
 * sbt-strict-update [enforcing Semantic Versioning with sbt-strict-update | eed3si9n](https://eed3si9n.com/enforcing-semver-with-sbt-strict-update)
 * [sbt-yourkit](https://index.scala-lang.org/gilt/sbt-yourkit/sbt-yourkit)
+* [sbt-version-policy: Compatibility checks for your dependencies](https://github.com/scalacenter/sbt-version-policy)
+  * [Preventing Version Conflicts with versionScheme | The Scala Programming Language](https://scala-lang.org/blog/2021/02/16/preventing-version-conflicts-with-versionscheme.html)
 * [WartRemover: a flexible scala linter](http://www.wartremover.org/)
   * [Writing Custom Wart for Scala](https://medium.com/@tapanvaishnav17/writing-custom-wart-for-scala-9d0adbcb30bc)
 
@@ -1663,6 +1671,7 @@ Scala
 * [Match Types in Scala 3 - Rock the JVM Blog](https://blog.rockthejvm.com/scala-3-match-types/)
 * [Union and Intersection Types in Scala 3 | by ayush mittal | Feb, 2021 | Medium](https://ayushm4489.medium.com/union-and-intersection-types-in-scala-3-6b5f7e818dc4)
 * [This Is Your App on Scala 3 by John A. De Goes - YouTube](https://www.youtube.com/watch?v=NY2ZkcYZj54)
+* [Explicit Nulls in Scala 3. Scala 3 has an optional feature which… | by ayush mittal | Feb, 2021 | Medium](https://ayushm4489.medium.com/explicit-nulls-in-scala-3-9aa9cdb6b10c)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
