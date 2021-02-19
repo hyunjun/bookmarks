@@ -2617,6 +2617,8 @@ Programming
 * [Learning from Bugs and Testers: Testing Boeing 777 Full Flight Simulators](https://www.infoq.com/articles/testing-boeing-flight-simulators-software/)
 * [프로젝트 관리, 테스트 케이스의 중요성](https://brunch.co.kr/@zigzag/30)
 * [**Microservices test architecture. Can you sleep well without end-to-end tests?**](https://threedots.tech/post/microservices-test-architecture/)
+* [생각을 그대로 프로그래밍하는 방법 part 1: 학부생의 방법론 / TDD 방법론 - YouTube](https://www.youtube.com/watch?v=uk-UQf7d5UY)
+* [생각을 그대로 프로그래밍하는 방법 part 2: PBT, REPL - YouTube](https://www.youtube.com/watch?v=xkRwR0sLwVA) property based testing
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
