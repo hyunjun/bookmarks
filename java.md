@@ -948,6 +948,7 @@ Java
   * [자바 초보개발자를 위한 꿀팁 - Lombok - YouTube](https://www.youtube.com/watch?v=JouPeMHj3Po)
   * [Simplifying Java Boilerplate Through Lombok - YouTube](https://www.youtube.com/watch?v=cjftvp-pILs)
   * [자바 코딩 간소화 기능 lombok - YouTube](https://www.youtube.com/watch?v=g20-0VIpmM4)
+  * [Lombok을 쓰며 겪었던 문제](https://velog.io/@juunini/Lombok%EC%9D%84-%EC%93%B0%EB%A9%B0-%EA%B2%AA%EC%97%88%EB%8D%98-%EB%AC%B8%EC%A0%9C)
 * [Machine Learning - Java collection that provides Java packages for developing a machine learning algorithm](https://github.com/sebig3000/MachineLearning)
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)
 * Maven
