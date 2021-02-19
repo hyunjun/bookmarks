@@ -18,6 +18,7 @@ R
 * [R vs Python: Which is better for Data Science?](https://www.r-bloggers.com/r-vs-python-which-is-better-for-data-science/)
 * [R vs. Python for Data Science](https://github.com/matloff/R-vs.-Python-for-Data-Science/blob/master/README.md)
 * [Python vs R: 4 Implementations of Same Machine Learning Technique - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/python-vs-r-4-implementations-of-same-machine-learning-technique)
+* [R is for Research, Python is for Production | R-bloggers](https://www.r-bloggers.com/2021/02/r-is-for-research-python-is-for-production/)
 * Data science with R
   * [**1. 오해**](http://blog.ab180.co/data-science-with-r-1-misperception/)
   * [2. 데이터 시각화](http://blog.ab180.co/data-science-with-r-2-data-visualization/)
