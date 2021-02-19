@@ -326,6 +326,7 @@ Data Science
 * [Data Experience Report 모음](https://brunch.co.kr/@mapmatters/51)
 * [**The Top 5 Data Trends for CDOs to Watch Out for in 2021 | by Prukalpa | Jan, 2021 | Towards Data Science**](https://towardsdatascience.com/the-top-5-data-trends-for-cdos-to-watch-out-for-in-2021-e230817bcb16)
   * [2021년 5가지 데이터 트렌드 | GeekNews](https://news.hada.io/topic?id=3677)
+* [9 Distance Measures in Data Science | Towards Data Science](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
