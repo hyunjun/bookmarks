@@ -561,6 +561,7 @@ Business
 * [**PM Playbook**](https://www.notion.so/PM-Playbook-aad7a20963be49758e84305c645b02d1) 다양한 project management 관련 link들
 * [**Dependency가 많은 프로젝트의 스케줄 관리 방법**](https://brunch.co.kr/@dan-mingookim/15) critical path
 * [PM이 ‘기술 부채’ 감소에 기여하는 방법](https://brunch.co.kr/@yongjinjinipln/87)
+* [이슈 트리(Issue Tree)를 그려야 하는 이유](https://brunch.co.kr/@lunarshore/406)
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
