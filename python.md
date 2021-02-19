@@ -2624,6 +2624,7 @@ Python
     * [Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800)
   * [4 Python libraries for building great command-line user interfaces](https://opensource.com/article/17/5/4-practical-python-libraries)
   * [Tools for Writing Python CLI Applications](https://hackernoon.com/tools-for-writing-python-cli-applications-ba52db1e454f)
+  * [richer: Table renderer for dataclass using Rich](https://github.com/sarojaba/richer)
   * [simm.py - announcing command line file similarity tool](http://write-up.semantic-db.org/121-announcing-command-line-file-similarity-tool.html)
   * [soccer-cli - Football scores for hackers. A command line interface for all the football scores](https://github.com/architv/soccer-cli)
 * [Python Development: 7 Libraries to Look For in 2017](http://www.evontech.com/what-we-are-saying/entry/python-development-7-libraries-to-look-for-in-2017.html)
