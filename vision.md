@@ -695,6 +695,10 @@ Vision
 # R
 * [Human Face Detection with R](https://www.r-bloggers.com/human-face-detection-with-r/)
 
+# Tutorial
+* [Computer-vision: Computer Vision implementation](https://github.com/nh9k/Computer-vision)
+* [Digital-Image-Processing: Image Processing Implementation](https://github.com/nh9k/Digital-Image-Processing)
+
 # VR Virtual Reality
 * [VIRTUAL REALITY](http://vr.cs.uiuc.edu/)
   * [Virtual Reality (Video)](http://nptel.ac.in/syllabus/106106138/)
