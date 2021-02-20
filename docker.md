@@ -480,6 +480,7 @@ Docker
 * [Jonathan Bergknoff: Run More Stuff in Docker](https://jonathan.bergknoff.com/journal/run-more-stuff-in-docker/)
 * [LINE의 프라이빗 클라우드 Verda 플랫폼의 Verda Reliability Engineering 팀을 소개합니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/verda-reliability-engineering-team/)
 * [Docker Engine 20.10 Released: Supports cgroups v2 and Dual Logging](https://www.infoq.com/news/2021/01/docker-engine-cgroups-logging/)
+* [How to Download Fedora, RHEL, and Windows Operating System (OS) Images and Verify through CheckSum - YouTube](https://www.youtube.com/watch?v=XDcOWGoD2UQ) ISO image
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
