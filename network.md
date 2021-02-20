@@ -41,14 +41,17 @@ Network
 * [URL 구조 이해하기](https://www.grabbing.me/URL-018cdd1bb4b541fab6246569244fcf93)
 * [Developers Need to Learn Basic Network Engineering | by Tate Galbraith | Better Programming | Medium](https://medium.com/better-programming/developers-need-to-learn-basic-network-engineering-c67767969cd5)
 * [박피디의 게임 개발 이야기 : python 으로 이더넷 mac 주소 얻는 코드](http://parkpd.egloos.com/4189114)
+* [Change your MAC address with a shell script · Josh Thompson](https://josh.works/shell-script-basics-change-mac-address)
 * [A DMZ, what is that?. How to translate DMZ concept to GCP | by Julio Diez | Google Cloud - Community | Dec, 2020 | Medium](https://medium.com/google-cloud/a-dmz-what-is-that-acc3b21b9653)
 * [Fun with IP address parsing · blog.dave.tf](https://blog.dave.tf/post/ip-addr-parsing/)
 * [How to troubleshoot “Failed to connect to xxx.xxx.xxx port xx: No route to host” error in a Linux machine like Fedora, RHEL, and Ubuntu | by Bryant Jimin Son | Feb, 2021 | Medium](https://bryantson.medium.com/how-to-troubleshoot-failed-to-connect-to-xxx-xxx-xxx-9b7690c54407)
-* [네트워크는 왜 이렇게 생긴걸까? 기본편 : 클리앙](https://www.clien.net/service/board/lecture/15872844)
-* [네트워크는 왜 이렇게 생긴걸까? 포트편 : 클리앙](https://www.clien.net/service/board/lecture/15873771)
-* [네트워크는 왜 이렇게 생긴걸까? 네임편 : 클리앙](https://www.clien.net/service/board/lecture/15874590)
+* [네트워크는 왜 이렇게 생긴걸까? 기본편 : 클리앙](https://www.clien.net/service/board/lecture/15872844) 시리얼포트 → 허브 → MAC Address → LAN(Ethernet) → WAN → IP → Router
+* [네트워크는 왜 이렇게 생긴걸까? 포트편 : 클리앙](https://www.clien.net/service/board/lecture/15873771) Port → TCP & UDP
+* [네트워크는 왜 이렇게 생긴걸까? 네임편 : 클리앙](https://www.clien.net/service/board/lecture/15874590) hosts → DNS → ccTLD & gTLD
 * [네트워크는 왜 이렇게 생긴걸까? 서브넷편 : 클리앙](https://www.clien.net/service/board/lecture/15882226)
 * [네트워크는 왜 이렇게 생긴걸까? 공유기편 : 클리앙](https://www.clien.net/service/board/lecture/15887017)
+* [**Computer Networks: A Systems Approach — Computer Networks: A Systems Approach Version 6.2-dev documentation**](https://book.systemsapproach.org/)
+* [awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
