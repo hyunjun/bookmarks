@@ -1568,6 +1568,7 @@ Python
   * [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
   * [github.com/AllenDowney/ThinkPython2/code](https://github.com/AllenDowney/ThinkPython2/tree/master/code)
 * [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/) python + statistics, free download
+* [wtfpython: What the f*ck Python? 😱](https://github.com/satwikkansal/wtfpython)
 
 # Bytecode
 * [Understanding Python bytecode by implementing tail call optimization](http://blog.fastforwardlabs.com/post/117173339298/bytecode-hacking-for-great-justice)
@@ -2135,6 +2136,7 @@ Python
 * [Coding a REST API With Python | by Eric Chi | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/coding-a-rest-api-with-python-77384ad60511)
 * [**Develop and sell a Python API — from start to end tutorial | by Daniel Deutsch | Sep, 2020 | Towards Data Science**](https://towardsdatascience.com/develop-and-sell-a-python-api-from-start-to-end-tutorial-9a038e433966) AWS
 * [How to deploy Flask on IIS with Windows Authentication | by Rudy W | Medium](https://medium.com/@nerdijoe/how-to-deploy-flask-on-iis-with-windows-authentication-733839d657b7)
+* [12 requests per second in Python](https://suade.org/dev/12-requests-per-second-with-python/) uvloop
 
 ## Flask Library
 * [Bread pan 기본적인 웹서비스를 간단하게 만드는 프로젝트 틀](https://github.com/jinhoyoo/breadpan) 구조 참고
@@ -2448,6 +2450,7 @@ Python
 * [Making data science notebook collaborative - Jan Matas PyData Prague #8 2020 - YouTube](https://www.youtube.com/watch?v=GQr1uMK74F4)
 * [9 things you did not know about jupyter notebook | by Magdalena Konkiewicz | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3)
 * [Top 8 magic commands in Jupyter Notebook | by Magdalena Konkiewicz | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/top-8-magic-commands-in-jupyter-notebook-c1582e813560)
+* [An SQL solution for Jupyter. xeus-sql: A xeus-sqlite sequel | by Mariana Meireles | Feb, 2021 | Jupyter Blog](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925)
 
 ## Jupyter Library
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
@@ -3334,6 +3337,7 @@ Python
   * [Basics of SQL in Python for Data Scientists | by Nick Minaie, PhD | Towards Data Science](https://towardsdatascience.com/sql-in-python-for-beginners-b9a4f9293ecf)
   * [How to Create Joins in SQLAlchemy - YouTube](https://www.youtube.com/watch?v=FDrB5X3zSHc)
   * [book-rental-service/models.py at master · RavenKyu/book-rental-service](https://github.com/RavenKyu/book-rental-service/blob/master/book_rental_manager/models.py)
+  * [Migrating to SQLAlchemy 2.0 — SQLAlchemy 1.4 Documentation](https://docs.sqlalchemy.org/en/14/changelog/migration_20.html)
   * [Alembic - a lightweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python](https://alembic.sqlalchemy.org/)
     * [SQLAlchemy and Alembic](https://www.slideshare.net/ssuser80e030/sqlalchemy-and-alembic)
     * [alembic을 이용해 DB 마이그레이션 하기 (1)](https://codeac.tistory.com/114)
@@ -3377,6 +3381,7 @@ Python
   * [Jupyter notebook support - Help | PyCharm](https://www.jetbrains.com/help/pycharm/jupyter-notebook-support.html)
     * [Are you still using JupyterLab?. There is a new premium product in the… | by Roman Orac | Towards Data Science](https://towardsdatascience.com/are-you-still-using-jupyterlab-ce1a4339c0a9)
   * Photonai [21 Techniques to Write Better Code | by Bruce H. Cottman, Ph.D. | The Startup | Medium](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
+* [Home — Spyder IDE](https://www.spyder-ide.org/)
 * [Thonny - Python IDE for beginners](http://thonny.org/)
   * [Learn to code with Thonny — a Python IDE for beginners](https://fedoramagazine.org/learn-code-thonny-python-ide-beginners)
   * [Thonny - 초보자를 위한 Python IDE | GeekNews](https://news.hada.io/topic?id=3548)
