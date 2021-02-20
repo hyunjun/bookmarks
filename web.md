@@ -338,6 +338,7 @@ Web
 * [파이썬 웹 크롤링(3): 본격적인 크롤링 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/programming/py-crawling03/)
 * [파이썬 웹 크롤링(4): API 활용하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/programming/py-crawling04/)
 * [Transfermarkt 크롤링 & 데이터분석 : BeautifulSoup, Pandas 실습 - YouTube](https://www.youtube.com/playlist?list=PL13IrJom4GzssqejzOqR2S0OukBIyufjy)
+* [**Web Scraping 101 with Python**](https://www.scrapingbee.com/blog/web-scraping-101-with-python/)
 * [AutoCrawler - Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)](https://github.com/YoongiKim/AutoCrawler)
 * [**Beautiful Soup**](http://www.crummy.com/software/BeautifulSoup/)
   * [practice - beautiful soup](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
@@ -778,6 +779,7 @@ Web
 * [CORS 실패 시, 응답 개체의 status는 왜 0일까?](https://huns.me/development/2297)
 * [How to protect your information with Local Sheriff](https://medium.freecodecamp.org/local-sheriff-watching-them-watching-us-5eacf3eb00ca) security
 * [The OWASP Top 10 – A Technical Deep-Dive into Web Security](https://www.freecodecamp.org/news/technical-dive-into-owasp/)
+* [Introduction - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/)
 * [현대적 보안](https://andromedarabbit.net/%ED%98%84%EB%8C%80%EC%A0%81-%EB%B3%B4%EC%95%88/)
 
 # Server
@@ -880,6 +882,7 @@ Web
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
 * [Wasmer - The Universal WebAssembly Runtime](https://wasmer.io/)
   * [서버측 웹어셈블리 런타임 ‘와스머’, GA 버전 공개 - CIO Korea](https://www.ciokorea.com/news/178284)
+  * [wasmer-go: WebAssembly runtime for Go](https://github.com/wasmerio/wasmer-go)
 * [webassembly.sh](https://webassembly.sh/)
 
 # Websocket
