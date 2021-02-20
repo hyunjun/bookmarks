@@ -1130,6 +1130,7 @@ Java
 * [스프링부트 - MyBatis 실전 프로그래밍 - YouTube](https://www.youtube.com/watch?v=4YOk7oLGTKI)
 * [스프링 부트 MyBatis - YouTube](https://www.youtube.com/watch?v=OYVs5aBjHfM)
 * [11. Spring - Mybatis Interceptor로 파라미터 자동암호화 / select 쿼리 자동복호화및 쿼리 로그추출하기](https://kim-jong-hyun.tistory.com/23)
+* [23. Spring - Mybatis에서 Paramter가 N개일때 어떻게 바인딩 할까?](https://kim-jong-hyun.tistory.com/41)
 * [10. Spring IoC Container에 관리되는 Bean 목록 확인하기](https://kim-jong-hyun.tistory.com/21)
 * [12. Spring - jxls로 간편하게 엑셀다운로드 구현하기](https://kim-jong-hyun.tistory.com/24)
 * [13. Spring - jxls로 간편하게 엑셀업로드 구현하기](https://kim-jong-hyun.tistory.com/25)
