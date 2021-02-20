@@ -63,6 +63,7 @@ Monitoring
   * [Big Data Platform--Flamingo v3.0 Demo](https://www.youtube.com/watch?v=VnDcS2tqaqU)
 * [froxlor Server Management Panel](http://froxlor.org/)
 * [Funnel is a distributed monitoring system based on a lightweight streaming protocol](http://oncue.github.io/funnel/)
+* [glances: Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems](https://github.com/nicolargo/glances)
 * [GoAccess - Visual Web Log Analyzer](https://goaccess.io/)
 * [inspect - a collection of metrics gathering, analysis utilities for various subsystems of linux, mysql and postgres](https://github.com/square/inspect)
 * [installsheild](https://github.com/gyunseul9/installsheild)
