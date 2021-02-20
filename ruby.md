@@ -19,6 +19,7 @@ Ruby
 * [Building Street Fighter II in Ruby](http://nikolay.rocks/2015-06-16-building-streetfighter)
   * [Ruby Fighter](https://github.com/MadRabbit/ruby-fighter)
 * [Incremental Garbage Collection in Ruby 2.2](https://engineering.heroku.com/blogs/2015-02-04-incremental-gc)
+* [Ruby Garbage Collection Deep Dive: Tri-Color Mark and Sweep | Jemma Issroff](https://jemma.dev/blog/gc-mark-and-sweep)
 * [Drat! - Ruby has a Double Splat](https://dev.firmafon.dk/blog/drat-ruby-has-a-double-splat/)
 * [Always Use Double-quoted Strings in Ruby](http://anti-pattern.com/always-use-double-quoted-strings-in-ruby)
 * [How Arel Converts Ruby Queries Into SQL Statements](http://blog.codeship.com/how-arel-converts-ruby-queries-into-sql-statements/)
