@@ -1995,3 +1995,4 @@ Scala
 * [함수형 프로그래밍으로 도전하는 코딩 테스트 시리즈 - YouTube](https://www.youtube.com/playlist?list=PL8kmk2VivDmQZvx2N0vmCFkjEQ_pvpdsA)
 * [scala-tutorials](https://github.com/Baeldung/scala-tutorials)
 * [Let’s Code Real World App Using Purely Functional Techniques (in Scala) - YouTube](https://www.youtube.com/watch?v=m40YOZr1nxQ)
+* [01: Scala Functional Programming basics - pure functions, referential transparency, side effects, etc | Java-Success.com](https://www.java-success.com/01-scala-functional-programming-basics-pure-functions-referential-transparency-side-effects-etc/)
