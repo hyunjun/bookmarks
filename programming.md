@@ -779,6 +779,7 @@ Programming
 * [Why Distributed Systems Are Hard](https://www.infoq.com/presentations/distributed-systems-complexity-human-factor/)
   * [Why Distributed Systems Are Hard - YouTube](https://www.youtube.com/watch?v=w9GP7MNbaRc)
 * [Distributed Systems Reading List](https://dancres.github.io/Pages/)
+* [**Patterns of Distributed Systems**](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 * [etcd | Home](https://etcd.io/)
   * [A Few Notes on Etcd Maintenance. Learnings on provisioning, compaction… | by Tasdik Rahman | Gojek Product + Tech](https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe)
 
@@ -940,6 +941,7 @@ Programming
 * [11 Reasons Why You Are Going To Fail With Microservices](https://medium.com/xebia-engineering/11-reasons-why-you-are-going-to-fail-with-microservices-29b93876268b)
 * [**적당히 갖춰나간 운영 환경**](https://www.popit.kr/%EC%A0%81%EB%8B%B9%ED%9E%88-%EA%B0%96%EC%B6%B0%EB%82%98%EA%B0%84-%EC%9A%B4%EC%98%81-%ED%99%98%EA%B2%BD/) '적당히'라는 제목과 달리 굉장히 좋은 글
 * [Monolith to Microservices: Migrating Snap’s Architecture Using a Service Mesh](https://www.infoq.com/news/2020/04/snap-architecture-service-mesh/)
+* [Migrating Monoliths to Microservices with Decomposition and Incremental Changes](https://www.infoq.com/articles/migrating-monoliths-to-microservices-with-decomposition/)
 * [Microservices and \[Micro\]services](https://kalele.io/microservices-and-microservices/)
 * [Micro Frontend 마이크로 프론트앤드 - 개념](https://mobicon.tistory.com/572)
 * [Frontend Architectural Patterns: Backends-For-Frontends | by Bowei Han | Frontend at Scale | Sep, 2020 | Medium](https://medium.com/frontend-at-scale/frontend-architectural-patterns-backend-for-frontend-29679aba886c)
@@ -1124,6 +1126,7 @@ Programming
 * [CTO headaches: Top 5 cloud-to-cloud migration woes (and how to solve them!) | Cloud Native Computing Foundation](https://www.cncf.io/blog/2021/02/15/cto-headaches-top-5-cloud-to-cloud-migration-woes-and-how-to-solve-them/)
 * [aws](aws.md)
 * [azure](azure.md)
+* [Dapr - Distributed Application Runtime](https://dapr.io/)
 * [GCP Google Cloud Platform](gcp.md)
 * [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
 * [Dataiku 다타이쿠 클라우드 서버 설치 방법 가이드](https://stricky.tistory.com/351) 네이버 클라우드 플랫폼
@@ -1131,6 +1134,7 @@ Programming
 * [Libvirt - The Unsung Hero of Cloud Computing — Vyom](https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html)
 * [Micro 3.0 (M3O) - a platform for cloud native development | Micro](https://micro.mu/blog/2020/11/05/micro-v3-aka-m3o.html)
   * [Why we are building a CLI first PaaS without a web frontend](https://crufter.com/cli-first-paas)
+* nextcloud [클라우드 스토리지: Nextcloud | Varins](https://varins.com/library/server/cloud-storage-nextcloud/)
 * [opstrace: Secure observability, deployed in your own network. An open source alternative to SaaS solutions like datadog, signalfx...](https://github.com/opstrace/opstrace)
 * [Piku - the tiniest PaaS you've ever seen. Git push deployments to your own servers](https://piku.github.io/)
   * [piku - 초경량 PaaS | GeekNews](https://news.hada.io/topic?id=3659)
@@ -1339,6 +1343,7 @@ Programming
 * [java - Why is processing a sorted array faster than processing an unsorted array? - Stack Overflow](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array) branch prediction
 * [Cyclic dependencies are evil | F# for fun and profit](https://fsharpforfunandprofit.com/posts/cyclic-dependencies/)
 * [Parsing Algorithms – Dmitry Soshnikov](http://dmitrysoshnikov.com/courses/parsing-algorithms/)
+* [algorithm - What is the difference between LL and LR parsing? - Stack Overflow](https://stackoverflow.com/questions/5975741/what-is-the-difference-between-ll-and-lr-parsing)
 
 # Conference
 * [calltospeakers.com](https://calltospeakers.com)
@@ -1458,6 +1463,7 @@ Programming
 * [Keep Calm and Secure Your CI/CD Pipeline - YouTube](https://www.youtube.com/watch?v=AZlZE6iAIKM)
 * [A primer on DevOps pipeline: Continuous Integration & Continuous Delivery (CI/CD) | Enable Architect](https://www.redhat.com/architect/primer-devops)
 * [CI/CD(지속적 통합/지속적 제공): 개념, 방법, 장점, 구현 과정](https://www.redhat.com/ko/topics/devops/what-is-ci-cd)
+* [Improving how we deploy GitHub - The GitHub Blog](https://github.blog/2021-01-25-improving-how-we-deploy-github/)
 * teamcity
   * [TeamCity 설치하기](https://jojoldu.tistory.com/448)
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
@@ -1535,6 +1541,8 @@ Programming
 * [gitxiv - Collaborative Open Computer Science](http://gitxiv.com/)
 * [inflearn.com/roadmaps](https://www.inflearn.com/roadmaps)
 * [infractal.org](http://infractal.org/)
+* [Khan Academy | Free Online Courses, Lessons & Practice](https://www.khanacademy.org/)
+  * [khan-dl: Download courses from khanacademy.org](https://github.com/rand-net/khan-dl)
 * [K MOOC](http://www.kmooc.kr/)
 * [Learn TV | Microsoft Docs](https://docs.microsoft.com/en-us/learn/tv/)
 * [nand2tetris](https://www.nand2tetris.org/)
@@ -1563,6 +1571,7 @@ Programming
 * [2020 최고의 무료 보안 도구 21선 - ITWorld Korea](https://www.itworld.co.kr/news/171389)
 * [Top 5 Cybersecurity Tools for a Work-from-Home World | ActiveState](https://www.activestate.com/blog/top-5-cybersecurity-tools-for-a-work-from-home-world/)
 * [꿀벌개발일지 :: Salted Hashes vs. HMAC](https://ohgyun.com/801)
+* [Application Level Encryption for Software Architects](https://www.infoq.com/articles/ale-software-architects)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
@@ -2279,6 +2288,7 @@ Programming
   * [(2월 6일) 7년 차 SI 개발자가 솔루션 회사 이직 후 2년 간 배운 것](https://jhrogue.blogspot.com/2021/02/2-6-7-si-2.html)
   * [(2월 13일) 라인개발자들이 직접 뽑은 인생 책은?](https://jhrogue.blogspot.com/2021/02/2-13.html)
     * [(02/13) 라인개발자들이 직접 뽑은 인생 책은? - YouTube](https://www.youtube.com/watch?v=A9hyHUnoIfI)
+  * [(02/20) '패배자같은 개발 직무' 탈출법 - YouTube](https://www.youtube.com/watch?v=cmjVEkIdD3k)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
 * [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
