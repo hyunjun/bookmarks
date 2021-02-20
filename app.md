@@ -11,8 +11,6 @@ App
 * [클라우드 서비스, 한눈에 관리하는 방법?](http://techholic.co.kr/archives/35840)
 * [How to Find the Wi-Fi Password of your Current Network](http://www.labnol.org/software/find-wi-fi-network-password/28949/)
 * [최고의 보안 메일, Dmail VS ProtonMail](http://ppss.kr/archives/54467)
-* [5 open source alternatives to Gmail](https://opensource.com/life/15/9/open-source-alternatives-gmail)
-* [Gmail 로 개인 도메인 이메일주소 만들기](https://xguru.net/1963)
 * [회사에서 유용한 29가지 생산성 앱](http://techneedle.com/archives/22401)
 * [1인 창작자를 위한 보물같은 서비스들 ②](http://ppss.kr/archives/57049)
 * [해외 메일서비스 안내](http://www.jonathanks.com/blog/2009-07-23/offshore-email-services)
@@ -71,6 +69,7 @@ App
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
 * [Diffchecker - Online diff tool to compare text to find the difference between two text files](https://www.diffchecker.com/)
 * [Ebook Reader for web](https://www.loudreader.com/)
+* [EPUB.to](https://epub.to/) EPUB 변환기
 * encryption
   * [age - a simple, modern and secure file encryption tool](https://github.com/FiloSottile/age)
   * [keys.pub](https://keys.pub/)
@@ -891,6 +890,13 @@ App
   * [Ptr Scr](https://www.fiastarta.com/PrtScr/)
   * [Screely instantly turns your screenshot or design into a beautiful image you can share anywhere](https://www.screely.com/) 간단한 스크린샷 or 스케치를 서비스에 넣으면 아름답고 변경
   * [screen.guru - Take clean screenshot of any websites](https://screen.guru/)
+  * [ShareX - The best free and open source screenshot tool for Windows](https://getsharex.com/)
+    * 윈도우용 무료 캡쳐 도구 (getsharex.com)
+    * 13년째 개발중인 가볍고 빠르고 강력한 오픈소스
+    * 다양한 캡쳐 옵션 : 전체화면,창,영역,멀티모니터,이전영역,화면녹화,GIF녹화,스크롤,OCR ..
+    * 80+ 목적지 : S3, Dropbox, FTP, 구글드라이브, Imgur, Twitter, URL단축 및 공유 → 클립보드/폴더 감시하다 자동 업로드 가능 (확장자별 필터)
+    * 워크플로우 지원, 캡쳐후/업로드후 할 일 지정
+    * 강력한 이미지 편집/이펙트 기능
   * Snagit
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [Sound Flower](https://code.google.com/p/soundflower/downloads/list)
@@ -995,6 +1001,13 @@ App
   * [**알아두면 도움되는 iTerm2 고급기능**](https://medium.com/harrythegreat/알아두면-도움되는-iterm2-고급기능-81a4cd81bab7)
   * [Little known features of iTerm2](https://banga.github.io/blog/2020/03/02/little-known-features-of-iterm2.html)
   * [Maximizing use of the terminal. If you are a developer or engineer you… | by Albin Groen | Level Up Coding](https://levelup.gitconnected.com/maximizing-use-of-the-terminal-9b7b12ab5dd2)
+  * [Environment Aware Sessions in SSH – Steven Wade](https://stevenwadejr.com/2021/02/11/environment-aware-sessions-in-ssh/)
+    * Local/Stage/Production 등 접속시 SSH 세션 배경색상을 자동으로 변경해서 실수 예방하기
+      * → iTerm Dynamic Profile 로 환경별 배경색 설정
+      * → it2prof() 함수를 만들어 쉘 내부에서 SSH 접속전에 프로필 선택
+      * → ssh 접속시 ASCII로 경고 보이기
+    * > it2prof production && cat /Users/{myID}/production-warning.txt && ssh production01
+    * ASCII tool [link 1](https://www.patorjk.com/software/taag/#p=display&f=ANSI%20Shadow&t=PRODUCTION) [link 2](https://www.patorjk.com/software/taag/#p=display&f=Calvin%20S&t=PRODUCTION) [link 3](https://www.patorjk.com/software/taag/#p=display&f=Delta%20Corps%20Priest%201&t=PRODUCTION)
 * [Mac CLI  OS X command line tools for developers](https://github.com/guarinogabriel/mac-cli)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
@@ -1106,6 +1119,8 @@ App
 * [동물의 시선으로 세상을 바라보면…](http://techholic.co.kr/archives/38707)
 * ['제법 쓸 만 하다' 무료 동영상 편집 SW 5선 - CIO Korea](http://www.ciokorea.com/news/40273)
 * [2020 최고의 사진 측량 소프트웨어 : 네이버 블로그](https://blog.naver.com/j1392497/222111621788)
+* [9xbuddy : 그냥 최고 온라인 다운로더](https://9xbuddy.in/)
+  * [9xbuddy - 모든 비디오 다운로더 | GeekNews](https://news.hada.io/topic?id=3757)
 * audacity [오픈소스 오디오 편집툴 : Audacity](https://jybaek.tistory.com/801)
 * [Apache OpenMeetings Project – Home](https://openmeetings.apache.org/) video conferencing, instant messaging, white board, collaborative document editing and other groupware tools
 * AVPlayer [How to set up video streaming in your app with AVPlayer](https://medium.freecodecamp.org/how-to-set-up-video-streaming-in-your-app-with-avplayer-7dc21bb82f3)
@@ -1135,6 +1150,10 @@ App
   * [증명사진 만들고 편집하는 사이트](https://chagoonbass.tistory.com/300)
 * [Piskel - Free online sprite editor](https://www.piskelapp.com/)
 * [Radium - The Music Editor](http://users.notam02.no/~kjetism/radium/)
+* [JonnyBurger/remotion: 🎥 Create videos programmatically in React](https://github.com/JonnyBurger/remotion)
+  * React로 programmatically하게 동영상 만들기
+  * React(DOM)를 이용해 영상에 쓰일 컴포넌트를 만들고 ffmpeg로 export 가능하게 해주는 프로젝트
+  * React의 장점을 영상 제작에 활용할 수 있는 것이 특징 (Reusable components, Powerful composition, Fast Refresh, Package ecosystem)
 * [Remove Image Background](https://www.remove.bg)
 * [Rewatch: The private & secure video channel for your team.](https://rewatch.tv/)
   * [Rewatch - 팀/회사를 위한 비디오 공유 | GeekNews](https://news.hada.io/topic?id=3555)
@@ -1251,6 +1270,10 @@ App
 * Google sheet
   * [Google Sheet 로 몸무게를 기록하자](https://jusths.tistory.com/144) bar chart
   * [브라우저에서 Google Sheets를 서버 없이 데이터베이스처럼 사용하기 | FUREWEB](https://fureweb-com.github.io/blog/2020/11/16/using-google-sheets-as-a-database-without-a-server-in-the-browser.html)
+* Gmail
+  * [5 open source alternatives to Gmail](https://opensource.com/life/15/9/open-source-alternatives-gmail)
+  * [Gmail 로 개인 도메인 이메일주소 만들기](https://xguru.net/1963)
+  * [지메일의 골칫거리, 오래된 이메일을 간단히 정리하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/183389)
 
 # Password
 * [bitwarden - Solve your password management problems](https://bitwarden.com/) lastpass open source
@@ -1260,6 +1283,7 @@ App
   * [Enpass password manager 사용 후기 : 클리앙](https://www.clien.net/service/board/cm_iphonien/14169089)
 * [~Fort - a Free Software password manager http://www.ideabyte.net/fort ~](https://github.com/nrosvall/fort)
 * [Pass: The Standard Unix Password Manager](https://www.passwordstore.org/)
+* [sysPass | Systems Password Manager](https://syspass.org/)
 
 # Programming
 * [pocket-programming.ffab0.com](http://pocket-programming.ffab0.com/)
