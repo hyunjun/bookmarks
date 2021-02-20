@@ -223,6 +223,7 @@ SQL
 * [Aurora MySQL를 운영하면서 알면 좋을 것 같은 미세한 팁](http://woowabros.github.io/experience/2019/12/04/auroraRDS.html)
 * [Aurora MySQL 스냅샷을 Parquet 로 S3 에 Export](https://chang12.github.io/rds-snapshot-export-to-s3/)
 * [When Should I Use Amazon Aurora and When Should I use RDS MySQL? - Percona Database Performance Blog](https://www.percona.com/blog/2018/07/17/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql/)
+* [A First Glance at Amazon Aurora Serverless RDS - Percona Database Performance Blog](https://www.percona.com/blog/2020/10/27/a-first-glance-at-amazon-aurora-serverless-rds/)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
@@ -715,6 +716,8 @@ SQL
 * [Migrating From Oracle to PostgreSQL - What You Should Know | Severalnines](https://severalnines.com/database-blog/migrating-oracle-postgresql-what-you-should-know)
 * [A Complete Guide to SQL Triggers in PostgreSQL - DB Tracking Example](https://blog.arctype.com/learn-sql-triggers/)
 * [Talking to Postgres Through Java 16 Unix-Domain Socket Channels - Gunnar Morling](https://www.morling.dev/blog/talking-to-postgres-through-java-16-unix-domain-socket-channels/)
+* [Role of Foreign Data Wrappers in Migrations to PostgreSQL](https://www.migops.com/blog/2021/02/15/role-of-foreign-data-wrappers-in-migrations-to-postgresql/)
+* [Change Data Capture in Postgres With Debezium](https://info.crunchydata.com/blog/postgres-change-data-capture-with-debezium)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
@@ -845,6 +848,13 @@ SQL
 * [LPC-2019: SQLite on Linux](https://sqlite.org/lpc2019/doc/trunk/briefing.md)
 * [SQLite 개념/구조/멀티 DB 실사용기 :: 메모장](https://ehdvudee.tistory.com/23)
 * [SQLite as a document database](https://dgl.cx/2020/06/sqlite-json-support)
+* [Many Small Queries Are Efficient In SQLite](https://sqlite.org/np1queryprob.html)
+  * SQLite에서는 작은 쿼리 수백개도 효율적 (sqlite.org)
+  * 웹페이지 하나 표시하는데 200개의 SQL문장을 쓴다면 MySQL,PostgreSQL 같은 기존 C/S DB에겐 과도함
+  * SQLite에서는 200개 이상의 쿼리도 별 문제 없음
+  * → 복잡하고 큰 쿼리도 잘 효율적으로 실행하지만, 작은 쿼리가 많아도 효율적
+  * → SQLite는 Client/Server 방식이 아니고 프로세스내에서 함수호출하는 방식이기에 N+1 Query Problem이 적용되지 않음
+  * SQLite의 소스 타임라인을 표시하는 동적 웹페이지에서 사용하는 실제 SQL 문장 240여개를 볼 수 있음
 * [CG/SQL: Easy, accurate SQLite code generation - Facebook Engineering](https://engineering.fb.com/open-source/cg-sql/)
 * [DB Browser for SQLite](https://sqlitebrowser.org/)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
