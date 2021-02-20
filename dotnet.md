@@ -85,6 +85,7 @@
 * [디벨로퍼 아드보캇은 뭘 하는 사람인가요?](https://justinchronicles.net/ko/2020/03/14/what-do-developer-advocates-do/)
 * [Astonishing Performance of .NET 5 | Medium](https://alexyakunin.medium.com/astonishing-performance-of-net-5-7803d69dae2e)
 * [@devlead - Mattias Karlsson's Blog - My preferred .NET console stack](https://www.devlead.se/posts/2021/2021-01-15-my-preferred-console-stack)
+* [Announcing .NET 6 Preview 1 | .NET Blog](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/)
 
 # Conference Meetup
 * [.NET Conf 2019 키노트](https://www.youtube.com/watch?v=8qtmRG5vQxM&list=PLFVJi7gR5oaP715fktQtSV6vJE76MLide)
