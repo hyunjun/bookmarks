@@ -463,6 +463,7 @@ Java
 * [IntelliJ에서 동시에 여러 Run환경 함께 실행하기](https://jojoldu.tistory.com/510)
 * [IntelliJ에서 JPA ER Diagram 확인 방법](https://jojoldu.tistory.com/517)
 * [Meet Educational Products—Educational Products](https://www.jetbrains.com/help/education/educational-products.html#85aa)
+* [IntelliJ IDEA 2021.1 EAP 1 Supports Java 16](https://www.infoq.com/news/2021/02/intellij-idea-2021-eap1-java16/)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
@@ -1373,6 +1374,7 @@ Java
 * [⏳스프링 부트의 비동기 메소드 만들기 - YouTube](https://www.youtube.com/watch?v=CC7qxnLFkeU)
 * [🌱스프링 부트와 몽고DB #MongoDB #NoSQL - YouTube](https://www.youtube.com/watch?v=QeT3YB69OW0)
 * [spring boot 로컬에서 smtp mail 테스트하기 :: 삶의여행](https://life-journey.tistory.com/43)
+* [Source Code Examples](https://www.sourcecodeexamples.net/p/free-spring-boot-projects.html)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
