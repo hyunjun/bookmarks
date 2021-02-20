@@ -465,6 +465,7 @@ R
 * [December 2019: “Top 40” New R Packages](https://www.r-bloggers.com/december-2019-top-40-new-r-packages/)
 * [R 플롯 팁 2 빅데이터 플롯과 알파](http://ds.sumeun.org/?p=2147)
 * [R) 패키지 문제해결](https://datadoctorblog.com/2020/04/18/R-package-troubleshooting/)
+* [Detecting Security Vulnerabilities in R Packages | R-bloggers](https://www.r-bloggers.com/2020/08/detecting-security-vulnerabilities-in-r-packages-2/)
 * [Aegis - Application for Epidemiological Geographic Information System (AEGIS): An open source spatial analysis tool based on CDM](https://github.com/OHDSI/Aegis)
 * [alookr - Tools for Binary Classification Modeling](https://github.com/choonghyunryu/alookr)
 * [bench](http://bench.r-lib.org/) benchmark code, tracking execution time, memory allocations and garbage collections
