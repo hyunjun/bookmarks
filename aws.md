@@ -41,6 +41,7 @@ AWS
 * [IAM으로Role Switch하기](https://dev.classmethod.jp/articles/iam-2/)
 * [IAM의Policy에대해서](https://dev.classmethod.jp/articles/iam-3/)
 * [IAM에서 태그를 이용해서 Role Switch 해보기](https://dev.classmethod.jp/articles/iam/)
+* [iamlive: Generate a basic IAM policy from AWS client-side monitoring (CSM)](https://github.com/iann0036/iamlive)
 * [ECS를 시작하기전 알았으면 좋았을 것들 — 1. 용어 설명](https://medium.com/@herryhan2435/ecs%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84-%EA%B2%83%EB%93%A4-1-%EC%9A%A9%EC%96%B4-%EC%84%A4%EB%AA%85-92dbfb9d59f7)
 * [아마존 엘라스틱 컨테이너 서비스(ECS) 입문 - 도커(Docker) 컨테이너 오케스트레이션](https://www.44bits.io/ko/post/container-orchestration-101-with-docker-and-aws-elastic-container-service)
 * [ECS (Elastic Container Service)](https://github.com/sangyeol-kim/ausg-docker-seminar/blob/master/3.AWS_ECS)
@@ -429,6 +430,7 @@ AWS
 * [AWS-apple-MAC-instance - 리눅서의 기술술 블로그](https://linuxer.name/2020/12/aws-apple-mac-instance/)
 * [AWS Announces New Database Service Babelfish for Aurora PostgreSQL in Preview](https://www.infoq.com/news/2020/12/aws-postgresql-aurora-babelfish/)
 * [AWS Launch Template 사용법 - YouTube](https://www.youtube.com/watch?v=ue7Rk20p_EA)
+* [AWS Cheat Sheets - Tutorials Dojo](https://tutorialsdojo.com/aws-cheat-sheets/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -866,6 +868,7 @@ AWS
 * [How to deploy a Serverless Machine Learning Microservice with AWS Lambda, AWS API Gateway and scikit-learn](https://medium.com/@patrickmichelberger/how-to-deploy-a-serverless-machine-learning-microservice-with-aws-lambda-aws-api-gateway-and-d5b8cbead846)
   * [Serverless Machine Learning](https://github.com/patrick-michelberger/serverless-machine-learning)
 * [Machine learning with Amazon Rekognition and Elasticsearch](https://github.com/whitesoil/aws_elasticsearch)
+* [이미지 자동 태깅하는 API #aws #클라우드AI - YouTube](https://www.youtube.com/watch?v=5CNyBHmkMgc) amazon rekognition
 * [Machine Learning - Built on the AWS Cloud. Developed for Amazon developers and engineers. Available now](https://aws.amazon.com/ko/training/learning-paths/machine-learning/)
 * [Deploying Machine Learning Models as API using AWS](https://medium.com/towards-artificial-intelligence/deploying-machine-learning-models-as-api-using-aws-a25d05518084)
 * [Pure serverless machine learning inference with AWS Lambda and Layers](https://medium.com/merapar/pure-serverless-machine-learning-inference-with-aws-lambda-and-layers-979702d9ae49)
