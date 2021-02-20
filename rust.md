@@ -142,6 +142,9 @@
 * [How Rust optimizes async/await: Part 1](https://tmandry.gitlab.io/blog/posts/optimizing-await-1/)
 * [The Talk You've Been Await-ing for](https://www.youtube.com/watch?v=NNwK5ZPAJCk)
 
+# Book
+* [Table of Contents - Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
+
 # Go
 * [A Rust Contributor Tries Their Hand at Go](http://www.polyglotweekly.com/2015/04/24/thoughts-of-a-rustacean-learning-go.html)
 * [Rust + Go](https://github.com/medimatrix/rust-plus-golang)
@@ -263,3 +266,9 @@
 * [Why You Should Consider Rust for the Next Language You Learn | by Serokell | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/why-you-should-consider-rust-for-the-next-language-you-learn-39652d8e1bbe)
 * [A half-hour to learn Rust - fasterthanli.me](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 * [Learning Rust for Beginners – Sequenced Thoughts from C/S](https://elangocheran.com/2021/01/26/learning-rust-for-beginners/)
+* [rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
+  * 버그 수정하며 Rust 언어 배우기
+  * 에러가 있는 코드를 수정하면서 Rust를 읽고 쓰는법 배우기
+  * 컴파일 또는 테스트 에러가 나는 여러개의 카테고리 별 연습들로 구성 : 변수, 문자열, 쓰레드, Trait, 모듈, 펑션, 에러처리 등
+  * watch 기능으로 폴더의 파일을 수정하면 자동으로 결과가 확인되고, 중간에 hint 도 보면서 진행가능
+  * 컴파일 에러시 rustc --explain E0282 처럼 관련 설명을 보라는 문구 출력
