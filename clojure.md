@@ -230,7 +230,6 @@ Clojure
 * [Clojure, Java 9, and You - Toby Crawley](https://www.youtube.com/watch?v=4fevIDAxQAM)
 * [Moving Forward by Letting Go](http://yogthos.net/posts/2017-10-03-MovingForwardByLettingGo.html)
 * [Tree visitors in Clojure](https://www.ibm.com/developerworks/library/j-treevisit/index.html)
-* [The Case for Clojure and GraphQL: Replacing Django](https://functional.works-hub.com/blog/The-Case-for-Clojure-and-GraphQL-Replacing-Django)
 * [The Morgan And Grand Iron Clojure Compiler](http://nas.sr/magic/)
 * [The Tensors Must Flow - William Piel](https://www.youtube.com/watch?v=8_HOB62rpvw)
 * [제6회 - 2017.11.11 @D2 Startup Factory](https://gist.github.com/ksseono/db476b75f63d98fd0b459d2746913318)
@@ -561,16 +560,6 @@ Clojure
   * [Atom for Clojure - YouTube](https://www.youtube.com/playlist?list=PLYSnXTnpiJ5m2KirGxz3CUpNHJKa5FGZS)
   * [atomo - Clojure's Atom implementation in JavaScript](https://github.com/dialelo/atomo)
 * [Avout - distributed state in clojure](http://avout.io/)
-* [babashka - A sprinkle of Clojure for the command line](https://github.com/borkdude/babashka)
-
-  ```
-  $ bash <(curl -s https://raw.githubusercontent.com/borkdude/babashka/master/install)
-  $ echo '(println "hello, super fast clojure!")' > a.clj
-  (println "hello, super fast clojure!")
-  $ time bb -f a.clj
-  hello, super fast clojure!
-  ```
-  * [Meetup: Writing Clojure on the Command Line with Babashka - YouTube](https://www.youtube.com/watch?v=RogyxI-GaGQ)
 * [better-cond: A version of cond that supports :let clauses, and a number of other conveniences](https://github.com/Engelberg/better-cond)
 * [bidi - In the grand tradition of Clojure libraries we begin with an irrelevant quote](https://github.com/juxt/bidi#comparison-with-other-routing-libraries)
 * [Biff - A web framework + self-hosted deployment solution for Clojure](https://findka.com/biff/)
@@ -696,8 +685,6 @@ Clojure
 * [jme-clj: A Clojure 3D Game Engine Wrapper, Powered By jMonkeyEngine](https://github.com/ertugrulcetin/jme-clj)
   * [jme-clj | Clojure 3D Game Development Demo - YouTube](https://www.youtube.com/watch?v=IOPz9I49snM)
 * [joker - Small interpreted dialect of Clojure written in Go](https://github.com/candid82/joker)
-* [Lacinia - GraphQL implementation in pure Clojure http://lacinia.readthedocs.io ](https://github.com/walmartlabs/lacinia)
-  * [lacinia-example](https://github.com/eunmin/lacinia-example)
 * [lab-ml/nn: 🧠 Minimal implementations of neural network architectures and layers in PyTorch with side-by-side notes](https://github.com/lab-ml/nn)
 * leiningen
   * [dependency priority (1)](http://clojure.kr/leiningen-1/)
@@ -824,12 +811,31 @@ Clojure
 * [venia - A Clojure(Script) qraphql query client library](https://github.com/Vincit/venia)
 * [vizard - magic visualization](https://github.com/yieldbot/vizard)
 
+## Library Command Line
+* [Kira McLean | Building A Fast Command Line App With Clojure](https://kiramclean.com/blog/building-a-fast-command-line-app-with-clojure/)
+* [babashka - A sprinkle of Clojure for the command line](https://github.com/borkdude/babashka)
+
+  ```
+  $ bash <(curl -s https://raw.githubusercontent.com/borkdude/babashka/master/install)
+  $ echo '(println "hello, super fast clojure!")' > a.clj
+  (println "hello, super fast clojure!")
+  $ time bb -f a.clj
+  hello, super fast clojure!
+  ```
+  * [Meetup: Writing Clojure on the Command Line with Babashka - YouTube](https://www.youtube.com/watch?v=RogyxI-GaGQ)
+
 ## Library GraalVM
 * [How to build a native binary for your Clojure projects with GraalVM](https://github.com/BrunoBonacci/graalvm-clojure/blob/master/doc/clojure-graalvm-native-binary.md)
 * [clojure-graalvm-native-binary.md at master · BrunoBonacci/graalvm-clojure](https://github.com/BrunoBonacci/graalvm-clojure/blob/master/doc/clojure-graalvm-native-binary.md)
 * [clojure-rust-graalvm: An example of Clojure program calling a Rust library, all combined into one executable using GraalVM](https://github.com/borkdude/clojure-rust-graalvm)
 * [datalevin/native at master · juji-io/datalevin](https://github.com/juji-io/datalevin/tree/master/native)
 * [lucene-grep: Grep-like utility based on Lucene Monitor compiled with GraalVM native-image](https://github.com/dainiusjocas/lucene-grep)
+
+## Library GraphQL
+* [The Case for Clojure and GraphQL: Replacing Django](https://functional.works-hub.com/blog/The-Case-for-Clojure-and-GraphQL-Replacing-Django)
+* [bob2021: Repo used for a tutorial during BOB 2021, https://bobkonf.de/2021/klijs.html ](https://github.com/gklijs/bob2021)
+* [Lacinia - GraphQL implementation in pure Clojure http://lacinia.readthedocs.io ](https://github.com/walmartlabs/lacinia)
+  * [lacinia-example](https://github.com/eunmin/lacinia-example)
 
 # REPL
 * [A REPL Story](http://sprungcanary.net/2015/11/29/a-repl-story/)
