@@ -315,6 +315,7 @@ Machine Learning
   * [Part 4](https://www.youtube.com/watch?v=O56RCPIBb24)
 * [Proof of the F Test for Linear Regression](https://teamdable.github.io/techblog/Proof-of-the-F-Test-for-Linear-Regression)
 * [ML From Scratch, Part 1: Linear Regression](http://www.oranlooney.com/post/ml-from-scratch-part-1-linear-regression/)
+* [선형회귀 Linear Regression - 최소제곱법, 평균제곱오차, 경사하강법](https://blog.naver.com/pjt3591oo/222250225034)
 * [6 TYPES OF REGRESSIONS, DID YOU KNOW?](https://www.analyticsinsight.net/6-types-of-regressions-have-you-heard/)
 * [다변량 선형회귀와 효과적인 경사하강법을 위한 방법들](https://velog.io/@kwonhl0211/%EB%8B%A4%EB%B3%80%EB%9F%89-%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80%EC%99%80-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9D%B8-%EA%B2%BD%EC%82%AC%ED%95%98%EA%B0%95%EB%B2%95%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%B0%A9%EB%B2%95%EB%93%A4)
 * [Python, Machine Learning, and Language Wars](http://sebastianraschka.com/blog/2015/why-python.html)
