@@ -108,6 +108,7 @@ Shell
   * [쉡 스크립트 반복문 (while)](http://qnfmfmd.tistory.com/181)
 
 # Library
+* [Alternative Shells · oilshell/oil Wiki](https://github.com/oilshell/oil/wiki/Alternative-Shells)
 * [abs | Home of the ABS programming language: the joy of shell scripting.](https://www.abs-lang.org/)
   * [Introducing ABS, a programming language for shell scripting | by Alex Nadalin | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/introducing-abs-a-programming-language-for-shell-scripting-dfbd737d621)
 * [aviary.sh: Minimal distributed configuration management in bash](https://github.com/team-video/aviary.sh)
