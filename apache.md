@@ -589,6 +589,7 @@ Apache
 * [**Kafka on Kubernetes, minimal configuration**](https://gist.github.com/dongjinleekr/fcadc20063553935cfb6536185421ca2)
 * [Beyond the Brokers: A Tour of the Kafka Ecosystem](https://www.slideshare.net/ConfluentInc/beyond-the-brokers-a-tour-of-the-kafka-ecosystem-138678797)
 * [스케일아웃없이 순간 급증하는 주문 처리하기 (Microservice with Kafka)](https://tv.naver.com/v/11212897)
+* [Kafka for Engineers. Here are things about Kafka that you… | by Dave Taubler | Level Up Coding](https://levelup.gitconnected.com/kafka-for-engineers-975feaea6067)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
