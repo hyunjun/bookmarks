@@ -288,6 +288,7 @@
   * [play21323: Now you can play Lego 21323](https://github.com/lqez/play21323/)
 * [업데이트 : 누구나 할 수 있는 실용적인 라즈베리 파이 프로젝트 10선 - ITWorld Korea](http://www.itworld.co.kr/news/165435)
 * [How I Started Self-Hosting. I hosted my personal cloud on a cluster… | by Will Ho | Better Programming | Medium](https://medium.com/better-programming/how-i-started-self-hosting-df17f0919d64)
+* [Faux86: A portable, open-source 8086 PC emulator for bare metal Raspberry Pi](https://github.com/jhhoward/Faux86)
 * [Lichee Nano Pi - Will it run Debian? - James Dawson](https://blog.jmdawson.co.uk/lichee-nano-pi-will-it-run-debian/)
 
 # Reverse Engineering
