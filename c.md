@@ -120,7 +120,7 @@ C
 * [독하게 시작하는 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1AQuQ-5mWbx0zdG0betdeoL)
 * [최호성의 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75)
 * [명강의로 완성하는 C](https://www.youtube.com/playlist?list=PLXvgR_grOs1CBClWm4_gU-Oe15LGf9yFk)
-* [Beej's Guide to Network Programming Using Internet Sockets](http://beej.us/guide/bgnet/output/html/singlepage/bgnet.html)
+* [**Beej's Guide to Network Programming**](https://beej.us/guide/bgnet/html/)
 * [The GNU C Library Reference Manual](http://database.sarang.net/study/glibc/0.htm)
 * [The C Library Reference Guide](https://www-s.acm.illinois.edu/webmonkeys/book/c_guide/)
 * [DNS Query Code in C with linux sockets](http://www.binarytides.com/dns-query-code-in-c-with-linux-sockets/)
@@ -153,6 +153,7 @@ C
 * [Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 * [LINUX KERNEL DEVELOPMENT AND WRITING A SIMPLE KERNEL MODULE](https://devarea.com/linux-kernel-development-and-writing-a-simple-kernel-module/)
 * [Building a Linux Shell in C. The best way to understand something is… | by Josef Goodyear | Medium](https://medium.com/@josefgoodyear/building-a-linux-shell-in-c-8be5e109458b)
+* [Tutorial - Write a Shell in C • Stephen Brennan](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 * [배열 원소 삽입 삭제 패턴만 익혀봅시다](https://codingdog.tistory.com/entry/배열-원소-삽입-삭제-패턴만-익혀봅시다)
 * [The C Beginner's Handbook: Learn C Programming Language basics in just a few hours](https://www.freecodecamp.org/news/the-c-beginners-handbook/)
 * [Getting started with C programming: a lightning-fast start for absolute beginners | The Not Café - Enjoy Technology](https://not.cafe/2020/10/12/getting-started-with-c-programming.html)
@@ -199,13 +200,13 @@ C
 
 # Make
 * [Updated list of my GNU Make articles](http://blog.jgc.org/2013/02/updated-list-of-my-gnu-make-articles.html)
-* [makefiletutorial](http://makefiletutorial.com/)
 * [blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html](http://blog.jgc.org/2015/04/the-gnu-make-book-probably-more-than.html)
 * [The one line you should add to every makefile](http://blog.jgc.org/2015/04/the-one-line-you-should-add-to-every.html)
 * [How security flaws work: The buffer overflow](http://arstechnica.com/security/2015/08/how-security-flaws-work-the-buffer-overflow/)
 * [What is a Makefile and how does it work?](https://opensource.com/article/18/8/what-how-makefile)
 * [Want to know the easiest way to save time? Use `make`!](https://medium.freecodecamp.org/want-to-know-the-easiest-way-to-save-time-use-make-eec453adf7fe)
 * [Makefiles in 2019 — Why They Still Matter](https://tech.trivago.com/2019/12/20/makefiles-in-2019-why-they-still-matter/)
+* [**Makefile Tutorial By Example**](https://makefiletutorial.com/)
 
 # Library
 * [**invisible-island.net**](http://invisible-island.net/) add, atac, autoconf, bcpp, byacc, c_count, cdk, cindent, conflict, cproto, dbmalloc, ded, dialog, diffstat, flist, luit, lynx, mawk, ncurses, rcshist, reflex, tin, vile, vttest, xterm
@@ -226,6 +227,7 @@ C
   * [Cello 라이브러리 in Windows](https://blog.naver.com/sssang97/221562440032)
 * [Cforall (C∀) Home Page](http://plg.uwaterloo.ca/~cforall/)
 * [cget - Cmake package retrieval](https://github.com/pfultz2/cget)
+* [checkedc: Checked C is an extension to C that adds checking to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses. This repo has a wiki for Checked C, sample code, the specification, and test code](https://github.com/microsoft/checkedc)
 * ["cint" is a C/C++ interpreter which has following features](http://www.hanno.jp/gotom/Cint.html)
 
   ```
