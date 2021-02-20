@@ -986,6 +986,7 @@ AWS
 * [Terraform 0.13으로 테라폼 코드 업그레이드하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1516)
 * [Terraform 0.14로 테라폼 코드 업그레이드하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1524)
 * [Terraform으로 ACM 인증서 생성하기](https://blog.outsider.ne.kr/1398)
+* [Infrastructure as code(IaC) 시작하기](https://jybaek.tistory.com/897)
 
 # Tutorial
 * [4분코딩 아마존 웹 서비스(Amazon Web Services)란?](https://www.youtube.com/watch?v=II5wMA5NrVM)
