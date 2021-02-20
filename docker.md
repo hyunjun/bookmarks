@@ -580,6 +580,7 @@ Docker
   * pipe-like, stdin, stdout; 몇 가지 테스트해봤으나 잘 안됨
     * [Attach stdout of one container to stdin of another (pipe-like)](https://github.com/moby/moby/issues/14221)
   * [docker run 과 docker 네트워크 설정, 컨테이너 라이프사이클](http://www.leafcats.com/191)
+* scan [How to use Docker Security Scan Locally](https://brianchristner.io/how-to-use-docker-scan/)
 * stop `sudo docker stop [container id]`
 * [system prune](https://docs.docker.com/engine/reference/commandline/system_prune/)
 * volume
@@ -642,6 +643,7 @@ Docker
 * [Advanced Dockerfiles: Faster Builds and Smaller Images Using BuildKit and Multistage Builds - Docker Blog](https://www.docker.com/blog/advanced-dockerfiles-faster-builds-and-smaller-images-using-buildkit-and-multistage-builds/)
 * [Dockerfile의 모든 것 | Gracefullight](https://gracefullight.dev/2020/01/13/Dockerfile%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/)
 * [도커 이미지 빌드와 Dockerfile 기초 | 44BITS](https://www.44bits.io/ko/post/building-docker-image-basic-commit-diff-and-dockerfile)
+* [Buildpacks vs Dockerfiles](https://technology.doximity.com/articles/buildpacks-vs-dockerfiles)
 
 # [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
 * [Introduction to gVisor: Sandboxed Linux Container Runtime](https://www.youtube.com/watch?v=Ur0hbW_K66s)
