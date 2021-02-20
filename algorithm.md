@@ -243,6 +243,7 @@ Algorithm
 
 # Book
 * [자료구조와 알고리즘에 대해서](https://www.sangkon.com/about_ds_book/)
+* [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [Introduction - algo-en](https://labuladong.gitbook.io/algo-en/)
   * [fucking-algorithm at english](https://github.com/labuladong/fucking-algorithm/tree/english)
 
@@ -251,6 +252,7 @@ Algorithm
 * [Let’s simplify algorithm complexities!](https://medium.freecodecamp.org/lets-simplify-algorithm-complexities-25e75f37d03f)
 * [amortized 복잡도 : average complexity와 뭐가 다른가요?](https://codingdog.tistory.com/entry/amortized-%EB%B3%B5%EC%9E%A1%EB%8F%84-average-complexity%EC%99%80-%EB%AD%90%EA%B0%80-%EB%8B%A4%EB%A5%B8%EA%B0%80%EC%9A%94)
 * [Big O Notation - explained as easily as possible](https://thatcomputerscientist.com/big-o-notation-explained-as-easily-as-possible)
+* [Understanding Big O. How efficient is your algorithm? | by Valentin Podkamennyi | The Startup | Medium](https://medium.com/swlh/understanding-big-o-ff675cf63e11)
 
 ## Time Complexity
 * `1/2 + 1/3 + ... + 1/n <= ln(n) + 1`이므로 O(log N)
