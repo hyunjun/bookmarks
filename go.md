@@ -268,6 +268,8 @@ Go
 * [Go Timebased OTP Code Generator](https://gist.github.com/charsyam/d0635be901176b884703a83a2a505eef)
 * [Go vs Java - Go에서의 객체 지향 :: Jinsu Playground](https://umi0410.github.io/blog/golang/go-vs-java-oop/) OOP
 * [좋은 구문 오류 생성하기](http://dalinaum.github.io/compiler/2021/02/04/yyerror.html)
+* [Working with Embed in Go 1.16 Version](https://lakefs.io/working-with-embed-in-go/)
+* [go-profiler-notes/block.md at main · DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes/blob/main/block.md)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -436,6 +438,7 @@ Go
 * dqlite
   * [dqlite - Go 애플리케이션을 위한 분산 SQLite](http://jhrogue.blogspot.kr/2018/04/b-dqlite-go-sqlite.html)
 * [Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go](https://github.com/elsaland/elsa)
+* [ent: An entity framework for Go](https://github.com/ent/ent) ORM
 * [eris provides a better way to handle, trace, and log errors in Go](https://github.com/rotisserie/eris)
 * [exposq - Go app that dispatches osquery to multi-machines](https://github.com/emirozer/exposq)
 * [Facebook Go](https://github.com/facebookgo)
