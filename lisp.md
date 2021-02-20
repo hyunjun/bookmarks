@@ -89,6 +89,9 @@ Lisp
 * [William Byrd on "The Most Beautiful Program Ever Written" PWL NYC](https://www.youtube.com/watch?v=OyfBQmvr2Hc)
 * [An Intuition for Lisp Syntax](https://stopa.io/post/265)
 
+# Bel
+* [Bel](http://www.paulgraham.com/bel.html)
+
 # Book
 * [Lisp Web Tales](https://leanpub.com/lispwebtales/read_full)
 
