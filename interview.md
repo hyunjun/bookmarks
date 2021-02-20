@@ -360,6 +360,8 @@ Interview
     * [LINE 소셜 네트워크 서비스의 아키텍처](https://d2.naver.com/helloworld/809802) 윗 글에 이어 line 자체의 architecture를 redis, cassandra 중심으로 설명
     * [LINE Storage: Storing billions of rows in Sharded-Redis and HBase per Month](https://engineering.linecorp.com/en/blog/line-storage-storing-billions-of-rows-in-sharded-redis-and-hbase/)
     * [Follow 관계를 DB에서 설계하는 방법](https://developer88.tistory.com/328)
+    * [**Analyzing Clubhouse for fun and profit – 0x90**](https://www.bpak.org/blog/2021/02/analyzing-clubhouse-for-fun-and-profit/) 시의적절한 클럽하우스 분석
+      * [Agora - Clubhouse Is Just One Of The Possibilities (NASDAQ:API) | Seeking Alpha](https://seekingalpha.com/article/4403413-agora-clubhouse-is-just-one-of-possibilities)
     * Instagram
       * [Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)
       * [Designing Instagram](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5673385510043648)
