@@ -127,7 +127,6 @@ Python
 * [bayesianPy](http://psygrammer.github.io/bayesianPy/)
 * [Exploratory computing with Python](http://mbakker7.github.io/exploratory_computing_with_python/)
 * [quantitative economic modelling by python and julia](http://quant-econ.net/)
-* [Diagnosing Memory "Leaks" in Python](http://chase-seibert.github.io/blog/2013/08/03/diagnosing-memory-leaks-python.html)
 * [Follow the Money with Python](http://automatingosint.com/blog/2015/09/follow-the-money-with-python/)
 * [Procedural City Generation in Python](https://josauder.github.io/procedural_city_generation/)
 * [Linear Programming in Python with CVXOPT](https://scaron.info/blog/linear-programming-in-python-with-cvxopt.html)
@@ -286,7 +285,6 @@ Python
 * [Hack FFmpeg With Python, Part Two](https://www.unixmen.com/hack-ffmpeg-python-part-two/)
 * [4 things I want to see in Python 4.0](https://medium.com/@anthonypjshaw/4-things-i-want-to-see-in-python-4-0-85b853e86a88)
 * [mosky.tw](http://mosky.tw/)
-* [How to recover lost Python source code if it's still resident in-memory](https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12)
 * [Python Report Card](https://github.com/mingrammer/pyreportcard)
 * [Complementing Python With Rust](https://medium.com/@caulagi/complementing-python-with-rust-657a8cb3d066)
 * [Rust를 사용해서 당신의 Python에 날개를 달아주세요](https://www.slideshare.net/JIHUNKIM26/rust-python-110278438)
@@ -2929,7 +2927,6 @@ Python
 * [macropy - Macros in Python: quasiquotes, case classes, LINQ and more!](https://github.com/lihaoyi/macropy)
 * [Magic Python - a package with preferences and syntax highlighter for cutting edge Python 3, although Python 2 is well supported, too](https://github.com/MagicStack/MagicPython)
 * [Mani - a distribued cron like scheduler](https://github.com/sherinkurian/mani)
-* [Memspector - Inspect memory usage of python functions](https://github.com/asciimoo/memspector/)
 * [MicroPython](http://www.micropython.org/)
   * [MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)
   * [Writing Fast and Efficient MicroPython by the Creator of MicroPython](https://www.youtube.com/watch?v=-gz_fbgy4JU)
@@ -2990,7 +2987,6 @@ Python
   * [python requests vs pycurl performance](https://stackoverflow.com/questions/15461995/python-requests-vs-pycurl-performance)
   * [PyCurl 사용하기](https://ash84.net/2017/11/15/pycurl-usage/)
 * [pyDash - A Python App For Monitoring Your Linux Server](http://linoxide.com/monitoring-2/pydash-python-app-monitoring-linux-server/)
-* [PyDataSentry - Memory for Data Science](https://github.com/FourthLion/pydatasentry)
 * [pydbgen](https://github.com/tirthajyoti/pydbgen)
   * [Introducing pydbgen: A random dataframe/database table generator](https://towardsdatascience.com/introducing-pydbgen-a-random-dataframe-database-table-generator-b5c7bdc84be5)
 * [PyEBPF — eBPF proxy routines generation and Python callbacks (iovisor/bcc wrapper)](https://medium.com/@dany74q/pyebpf-ebpf-proxy-routines-generation-and-python-callbacks-iovisor-bcc-wrapper-42d6cf558be4)
@@ -3421,6 +3417,14 @@ Python
   * [pylint로 파이썬 코드를 정적으로 분석해보자!!](http://egloos.zum.com/mataeoh/v/7046058)
   * [Detect Python code duplicate](http://julien.duponchelle.info/python/detect-python-code-duplicate)
   * [Pylint Tutorial – How to Write Clean Python](https://www.youtube.com/watch?v=fFY5103p5-c)
+
+## Library Memory
+* [Diagnosing Memory "Leaks" in Python](http://chase-seibert.github.io/blog/2013/08/03/diagnosing-memory-leaks-python.html)
+* [How to recover lost Python source code if it's still resident in-memory](https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12)
+* [Memspector - Inspect memory usage of python functions](https://github.com/asciimoo/memspector/)
+* [psutil documentation — cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network, sensors) in Pytho](https://psutil.readthedocs.io/)
+  * [python 프로그램 메모리 사용량 확인](https://jybaek.tistory.com/895)
+* [PyDataSentry - Memory for Data Science](https://github.com/FourthLion/pydatasentry)
 
 ## Library package install management
 * [My Python Development Environment, 2020 Edition](https://jacobian.org/2019/nov/11/python-environment-2020)
