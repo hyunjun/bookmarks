@@ -859,7 +859,6 @@ Java
 * [jabba - Java Version Manager inspired by nvm (Node.js). Written in Go](https://github.com/shyiko/jabba)
 * [JaCoCo Java Code Coverage Library](https://www.jacoco.org/jacoco/)
 * [jamm - Java Agent for Memory Measurements](https://github.com/hyunjun/jamm)
-* [jabba - Java Version Manager inspired by nvm (Node.js)](https://github.com/shyiko/jabba)
 * [javacpp - The missing bridge between Java and native C++](https://code.google.com/p/javacpp/)
 * [java-dirty - A fast append-only data store](http://probablyfine.co.uk/2015/04/11/announcing-java-dirty/)
 * javalin [Introducing Javalin: a Lightweight Web Framework for Java and Kotlin](https://www.infoq.com/news/2019/07/javalin/)
