@@ -99,7 +99,6 @@ AWS
   * [2. 커널 파라미터 튜닝](http://jojoldu.tistory.com/319)
   * [3. Nginx 튜닝](http://jojoldu.tistory.com/322)
   * [4. 기타](http://jojoldu.tistory.com/323)
-* [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 * [Elastic Beanstalk로 Next.js 앱 배포하기](https://blog.rhostem.com/posts/2019-09-01-deploy-next-app-to-eb)
 * [AWS ElasticBeanstalk (빈스톡) 삭제 실패시 처리 방안](https://jojoldu.tistory.com/479)
 * [AWS Beanstalk Linux2 에서 Nginx 설정이 안될때](https://jojoldu.tistory.com/541)
@@ -223,9 +222,6 @@ AWS
 * [AWS에서 SWAN을 설치하여 Azure와 VPN 연동 예제](https://zigispace.net/1027)
 * [AWS Client VPN 기반 개발 트래픽 관리](https://grip.news/archives/1581)
 * [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
-* [서로 다른 계정의 RDS에 대량 데이터 복사하기](http://jojoldu.tistory.com/333)
-* [AWS - RDS](https://opentutorials.org/module/3860)
-* [AWS RDS Scheduled start/stop](https://brunch.co.kr/@alden/67) by lambda
 * [Performance Insight 써도 돼요?](http://woowabros.github.io/r-d/2018/12/01/performance_insight.html)
 * [신입개발자가 스타트업에서 AWS로 어떻게든 살아가는 썰](https://www.slideshare.net/ssuser67b08e/aws-112573762)
 * [개발자가 알아두면 좋을 5가지 AWS 인공 지능 깨알 지식 - 윤석찬 (AWS 테크 에반젤리스트)](https://www.slideshare.net/awskorea/5-things-to-know-about-aws-aiml-for-developers)
@@ -333,11 +329,6 @@ AWS
 * [AWS-Linux-EBS-to-EFS - 리눅서의 기술술 블로그](https://linuxer.name/2020/09/aws-linux-ebs-to-efs/)
 * [Re:Invent 2020에 소개된 gp3로 EBS 비용을 절감해보자! – 클라우드 지식 공유 블로그](https://bloggrumatic.wpcomstaging.com/2020/12/11/ebs-gp3-selection-guide/)
 * [AWS 비용 최적화 – 1. 리디북스의 예약 인스턴스 활용 사례](https://aws.amazon.com/ko/blogs/korea/cost-optimization-cases-ridibooks-reserved-instance/)
-* [Best practices for Amazon RDS PostgreSQL replication](https://aws.amazon.com/ko/blogs/database/best-practices-for-amazon-rds-postgresql-replication/)
-* [RDS 관계형 데이터베이스 서버 생성하기 #Free Tier #AWS](https://developer88.tistory.com/302)
-* [EC2에서 RDS 서버에 접속하기](https://developer88.tistory.com/303)
-* [RDS 백업과 복원하기](https://developer88.tistory.com/308)
-* [RDS를 복제해 주는 Replication 설정하기 #Master #Slave #AWS](https://developer88.tistory.com/317)
 * [AWS의 Certificate Manager 로 SSL 인증서 발급 받기](https://jojoldu.tistory.com/434)
 * [우분투에서 letsencrypt로 인증서 발급, AWS에 적용](https://jybaek.tistory.com/821)
 * [Announcing PartiQL: One query language for all your data](https://aws.amazon.com/jp/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/)
@@ -352,7 +343,6 @@ AWS
   * [AWS 클라우드를 통해 최소기능제품(MVP) 빠르게 개발하기 - 윤석찬, AWS 테크에반젤리스트](https://www.youtube.com/watch?v=AwpcKaGwk7E)
 * [AWS Glue를 활용한 데이터 활용하기 Data Analysis #1 Hands-On](https://docs.google.com/document/d/137sbTTov-c6IoD8uDeVpPKvnubYf83XIjJLPBumrl58)
 * [Python의 AWS Glue ETL 스크립트 프로그래밍](https://docs.aws.amazon.com/ko_kr/glue/latest/dg/aws-glue-programming-python.html)
-* [RDS CA 인증서 2015 -> 2019 변경](https://linuxer.name/2019/10/rds-ca-인증서-2015-2019-변경/)
 * [**스타트업에서 데이터를 더하는 법 (2019-10, 데이터 + 야놀자)**](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit#slide=id.g5f59896514_0_196)
 * [**AMAZON PERSONALIZE WORKSHOP**](http://personalize-workshop-junghee.s3-website.ap-northeast-2.amazonaws.com/) movielens로 영화 추천 모델 구현
 * [온프레미스 엔지니어의 퍼블릭 클라우드 정착기](https://brunch.co.kr/@alden/55)
@@ -410,7 +400,6 @@ AWS
 * [aws-vault로 AWS의 인증 정보 안전하게 사용하기](https://www.44bits.io/ko/post/securing-aws-credentials-with-aws-vault)
 * [DevAxConnect - Twitch](https://www.twitch.tv/videos/667616330)
 * [Our AWS bill is ~ 2% of revenue. Here's how we did it | Blog](https://www.sankalpjonna.com/posts/our-aws-bill-is-2-of-revenue-heres-how-we-did-it)
-* [AWS 7월 새소식 요약 및 Amazon RDS Proxy 집중 분석 :: 차니의 #클라우드클리닉 18회 :: Channy's Blog](http://blog.creation.net/channy-cloud-clinic-ep18)
 * [한국어 기술 백서 AWS 기반 현대적 애플리케이션 및 딥러닝 프로젝트 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/wp-modern-app-deep-learning-on-aws/)
 * [Github로 터미널에서 명령어 이용해 소스 올리기](https://developer88.tistory.com/297)
 * [AWS, 컨테이너 전용 리눅스 OS 보틀로켓(BottleRocket) 1.0 릴리스 | 44BITS](https://www.44bits.io/ko/post/news--aws-release-bottlerocket-os-for-container)
@@ -500,7 +489,6 @@ AWS
   * [AWS re:Invent 2018: Container Power Hour with Jess, Clare, and Abby (CON362)](https://www.youtube.com/watch?v=HCCkVz25UU4) GitOps
   * [re:Invent 2018 - ALB 타깃그룹의 새로운 타입으로 AWS 람다 추가](https://www.44bits.io/ko/post/aws-alb-target-group-aws-lambda-target-type-released)
   * [re:Invent 2018 - AWS 람다, 함수 간 공유 가능한 레이어 기능 지원](https://www.44bits.io/ko/post/news--reinvent-2018-aws-lambda-layer)
-  * [Best Practices for Using AWS Lambda with RDS/RDBMS Solutions (SRV301-R1) - AWS re:Invent 2018](https://www.slideshare.net/AmazonWebServices/best-practices-for-using-aws-lambda-with-rdsrdbms-solutions-srv301r1-aws-reinvent-2018)
   * [awsreinvent2017](https://www.slideshare.net/AmazonWebServices/tagged/awsreinvent2017)
   * [AWS re:Invent 2017 – Andy Jassy 기조 연설 및 주요 신규 서비스 발표 소식](https://aws.amazon.com/ko/blogs/korea/aws-reinvent-2017-andy-jassy-keynote-new-services/)
   * [AWS CLI code samples from re:Invent 2017](https://github.com/aws-samples/awscli-reinvent-examples/tree/master/2017)
@@ -882,6 +870,21 @@ AWS
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
 * [R로 AWS Lambda에서 Rest API 만들기](https://www.notion.so/R-AWS-Lambda-Rest-API-33d4231753b148a487b4ad26a232d9a4)
+
+# RDS
+* [Best Practices for Using AWS Lambda with RDS/RDBMS Solutions (SRV301-R1) - AWS re:Invent 2018](https://www.slideshare.net/AmazonWebServices/best-practices-for-using-aws-lambda-with-rdsrdbms-solutions-srv301r1-aws-reinvent-2018)
+* [서로 다른 계정의 RDS에 대량 데이터 복사하기](http://jojoldu.tistory.com/333)
+* [AWS - RDS](https://opentutorials.org/module/3860)
+* [AWS RDS Scheduled start/stop](https://brunch.co.kr/@alden/67) by lambda
+* [RDS 생성하고 외부에서 접속하기 #aws #클라우드 - YouTube](https://www.youtube.com/watch?v=eJ1Bbu1MKA8)
+* [Best practices for Amazon RDS PostgreSQL replication](https://aws.amazon.com/ko/blogs/database/best-practices-for-amazon-rds-postgresql-replication/)
+* [RDS 관계형 데이터베이스 서버 생성하기 #Free Tier #AWS](https://developer88.tistory.com/302)
+* [EC2에서 RDS 서버에 접속하기](https://developer88.tistory.com/303)
+* [RDS 백업과 복원하기](https://developer88.tistory.com/308)
+* [RDS를 복제해 주는 Replication 설정하기 #Master #Slave #AWS](https://developer88.tistory.com/317)
+* [RDS CA 인증서 2015 -> 2019 변경](https://linuxer.name/2019/10/rds-ca-인증서-2015-2019-변경/)
+* [AWS 7월 새소식 요약 및 Amazon RDS Proxy 집중 분석 :: 차니의 #클라우드클리닉 18회 :: Channy's Blog](http://blog.creation.net/channy-cloud-clinic-ep18)
+* [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 
 # Route53
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
