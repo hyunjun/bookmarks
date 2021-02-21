@@ -517,6 +517,7 @@ Clojure
 * [Goodbye YAML: Infrastructure as Code in Clojure - Eno Compton & Tyler van Hensbergen - YouTube](https://www.youtube.com/watch?v=TbDmupZyuXk)
 * [Serverless Fullstack with Amplified Clojure(script) - YouTube](https://www.youtube.com/watch?v=x55vRozFgZg)
 * [Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure - YouTube](https://www.youtube.com/watch?v=wASCH_gPnDw)
+* [The Dutch Clojure Meetup - YouTube](https://www.youtube.com/c/AmscljNl/videos)
 
 # Debug
 * [Debugging in Clojure?](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
@@ -608,6 +609,7 @@ Clojure
 * [clojure.java.jdbc - A low-level Clojure wrapper for JDBC-based access to databases](https://github.com/clojure/java.jdbc)
 * [clojure-lsp: Language Server (LSP) for Clojure](https://github.com/clojure-lsp/clojure-lsp)
   * [Overview - Clojure LSP](https://clojure-lsp.github.io/clojure-lsp/)
+  * [clojure-lsp: my new drug (1 week experience report) - YouTube](https://www.youtube.com/watch?v=WMnVv63ezFQ)
 * [clojure-turtle - A Clojure library that implements the Logo programming language in a Clojure context](https://github.com/google/clojure-turtle)
 * [clojure-web-minsetup](https://github.com/clonekim/clojure-web-minsetup)
 * [Clojush - The Push programming language and the PushGP genetic programming system implemented in Clojure. http://hampshire.edu/lspector/push.html](https://github.com/lspector/Clojush)
