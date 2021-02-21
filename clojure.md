@@ -515,6 +515,7 @@ Clojure
 * [clojureD 2019: "Workflow engines with Clojure – It's a match!" by Tim Zöller - YouTube](https://www.youtube.com/watch?v=M1HrLAud6MA)
 * [Goodbye YAML: Infrastructure as Code in Clojure - Eno Compton & Tyler van Hensbergen - YouTube](https://www.youtube.com/watch?v=TbDmupZyuXk)
 * [Serverless Fullstack with Amplified Clojure(script) - YouTube](https://www.youtube.com/watch?v=x55vRozFgZg)
+* [Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure - YouTube](https://www.youtube.com/watch?v=wASCH_gPnDw)
 
 # Debug
 * [Debugging in Clojure?](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
