@@ -152,18 +152,19 @@ Lisp
 * [Quicklisp: On Beyond Beta](https://github.com/quicklisp/els-london-2015)
 
 # [Racket](http://racket-lang.org/)
-* [Pycket: A Tracing JIT For a Functional Language](http://homes.soic.indiana.edu/samth/pycket-draft.pdf)
 * [Deterministic Pixels](http://darrennewton.com/2015/01/04/deterministic-pixels/)
-* [ragg: a Racket AST Generator Generator](https://www.hashcollision.org/ragg/)
-* [rark - a Racket language inspired by ARc, by Kogir](https://github.com/kogir/rark)
 * [Low-level web programming in Racket + a wiki in 500 lines](http://matt.might.net/articles/low-level-web-in-racket/)
 * [Optimizing "Send More Money" in Racket](http://gus-massa.blogspot.kr/2015/06/optimizing-send-more-money-in-racket.html)
 * [John Carmack's son's game in Racket](www.1k3c.com)
-* [Rosette is a new solver-aided programming language that extends Racket with facilities for program synthesis, verification, debugging, and angelic execution](http://homes.cs.washington.edu/~emina/rosette/)
 * [Practically Accurate Floating-Point Math](http://www.cs.umd.edu/~ntoronto/papers/toronto-2014cise-floating-point.pdf)
 * [MIT GNU Scheme Windows 실행의 해답, DrRacket](http://blog.naver.com/hancury/220546813739)
 * [**Continuations**](https://beautifulracket.com/explainer/continuations.html)
 * [Racket 프로그래밍 - YouTube](https://www.youtube.com/playlist?list=PL8kmk2VivDmQ1bwcd9yNWRFN60KfKkrsS)
+* [Web Applications in Racket](https://docs.racket-lang.org/web-server/index.html)
+* [Pycket: A Tracing JIT For a Functional Language](http://homes.soic.indiana.edu/samth/pycket-draft.pdf)
+* [ragg: a Racket AST Generator Generator](https://www.hashcollision.org/ragg/)
+* [rark - a Racket language inspired by ARc, by Kogir](https://github.com/kogir/rark)
+* [Rosette - a new solver-aided programming language that extends Racket with facilities for program synthesis, verification, debugging, and angelic execution](http://homes.cs.washington.edu/~emina/rosette/)
 
 # Scheme
 * [RE: What's so cool about Scheme?](http://people.csail.mit.edu/gregs/ll1-discuss-archive-html/msg03277.html)
