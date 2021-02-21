@@ -80,6 +80,7 @@ Math
 * [Explained Visually](http://setosa.io/ev/)
 * [Sketching with Math and Quasi Physics](https://kynd.github.io/p5sketches/)
 * [엔지니어를 위한 모두의 수학 고교수학 부터 선형대수까지 - 삼각함수 1 (사인함수)](https://www.youtube.com/watch?v=zuXrS1inaHI)
+* [Calling trigonometric functions across programming languages](https://www.johndcook.com/blog/2021/02/11/trig-across-languages/) trig/trigonometric function = 삼각함수
 * [소수점 제거 함수 삼총사 ceil(), floor(), round()](http://seorenn.blogspot.kr/2018/02/ceil-floor-round.html)
 * [나를 위한 리만가설 정리](http://jusths.tistory.com/56)
 * [타원곡선 디피 헬만 Elliptic Curve Diffie Hellman](https://b.luavis.kr/science/elliptic-curve)
