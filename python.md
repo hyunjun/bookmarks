@@ -2570,6 +2570,7 @@ Python
   * [Colaboratory 사용하기](https://docs.google.com/presentation/d/145XR44Ag6GW2xV1r2bOrnOgqtJYh59ZnsnYtmFZioTo/edit)
   * [google Colaboratory 에서 구글 드라이브에 있는 파일 쉽게 이용하기](http://leebaro.tistory.com/entry/google-Colaboratory-에서-구글-드라이브에-있는-파일-쉽이용하기)
   * [Deep_Learning_3: Importing Kaggle's dataset in Google Colaboratory](https://www.youtube.com/watch?v=tGw-ZACouik)
+  * [A Complete guide to Google Colab for Deep Learning - KDnuggets](https://www.kdnuggets.com/2020/06/google-colab-deep-learning.html)
   * [Getting Started With Google Colab - A Simple Tutorial for the Frustrated and Confused](https://towardsdatascience.com/getting-started-with-google-colab-f2fff97f594c)
   * [**코랩 시작하기**](https://tykimos.github.io/2019/01/22/colab_getting_started/) file upload, google drive 연동 방법
   * [Google Colab: how to read data from my google drive?](https://stackoverflow.com/questions/48376580/google-colab-how-to-read-data-from-my-google-drive/53094059#53094059)
