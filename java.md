@@ -729,6 +729,7 @@ Java
 * [java: 도달 가능한 객체가 무엇일까요](https://codingdog.tistory.com/entry/java-%EB%8F%84%EB%8B%AC-%EA%B0%80%EB%8A%A5%ED%95%9C-%EA%B0%9D%EC%B2%B4%EA%B0%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94)
 * [메모리릭: gc가 쓰레기는 잘 수거하는데 무슨 문제라도 있나요](https://codingdog.tistory.com/entry/%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A6%AD-gc%EA%B0%80-%EC%93%B0%EB%A0%88%EA%B8%B0%EB%8A%94-%EC%9E%98-%EC%88%98%EA%B1%B0%ED%95%98%EB%8A%94%EB%8D%B0-%EB%AC%B4%EC%8A%A8-%EB%AC%B8%EC%A0%9C%EB%9D%BC%EB%8F%84-%EC%9E%88%EB%82%98%EC%9A%94)
 * [Why we chose Java for our High-Frequency Trading application | by Jad Sarmo | Oct, 2020 | Medium](https://medium.com/@jadsarmo/why-we-chose-java-for-our-high-frequency-trading-application-600f7c04da94) JIT
+* [A New Age of JVM Garbage Collectors - Alexander Yakushev - YouTube](https://www.youtube.com/watch?v=k4vkd0ahWjQ)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 
 ## JVM Flag, Option
