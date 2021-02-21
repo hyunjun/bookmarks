@@ -328,6 +328,7 @@ Clojure
   * [spectator](https://github.com/ioRekz/spectator)
   * [spell-spec - clojure.spec.alpha helpers that check for misspelled map keys, with expound integration](https://github.com/bhauman/spell-spec)
   * [If you use Clojure Spec, how do you use it? Do you tend to put all your specs in one place or distribute them through the "modules" of your program?](https://www.quora.com/If-you-use-Clojure-Spec-how-do-you-use-it-Do-you-tend-to-put-all-your-specs-in-one-place-or-distribute-them-through-the-modules-of-your-program)
+  * [Clojure Spec Expressing Data Constraints without Types - Alex Miller - YouTube](https://www.youtube.com/watch?v=Xb0UhDeHzBM)
   * [speced.def provides spec-backed forms of defn, defprotocol, fn, let etc. using the same exact syntax as clojure.core's](https://github.com/nedap/speced.def)
 * cond->
   * [The usefulness of Clojure's cond->](http://jakemccrary.com/blog/2016/04/10/the-usefulness-of-clojures-cond-arrow)
@@ -904,6 +905,7 @@ Clojure
 * [Why Developers Should Look into Clojure](https://auth0.com/blog/why-developers-should-look-into-clojure)
 * [Clojure in a nutshell by James Trunk - YouTube](https://www.youtube.com/watch?v=C-kF25fWTO8)
 * [Clojure: a mature alternative to Java - JAXenter](https://jaxenter.com/clojure-alternative-java-169315.html)
+* [Clojure Basics - YouTube](https://www.youtube.com/playlist?list=PL2Q86tDyogSXCZnAwtxGa5cCmxEKosFZ-)
 
 # Vim
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
