@@ -906,6 +906,18 @@ Clojure
 * [Clojure in a nutshell by James Trunk - YouTube](https://www.youtube.com/watch?v=C-kF25fWTO8)
 * [Clojure: a mature alternative to Java - JAXenter](https://jaxenter.com/clojure-alternative-java-169315.html)
 * [Clojure Basics - YouTube](https://www.youtube.com/playlist?list=PL2Q86tDyogSXCZnAwtxGa5cCmxEKosFZ-)
+* [Part 1 — A complete beginner's guide to Computer Programming with Clojure. | by Harvey Ellams | Dec, 2020 | Medium](https://distroharvix.medium.com/part-1-a-complete-beginners-guide-to-computer-programming-with-clojure-86d26e2e3f0b)
+* [Part 2 — A complete beginner’s guide to Computer Programming with Clojure: Installation. | by Harvey Ellams | Dec, 2020 | Medium](https://distroharvix.medium.com/part-2-a-complete-beginners-guide-to-computer-programming-with-clojure-installation-3287d1fc9e41)
+* [Part 3 — A complete beginner’s guide to Computer Programming with Clojure: Introducing LEIN and REPL. | by Harvey Ellams | Dec, 2020 | Medium](https://distroharvix.medium.com/part-3-a-complete-beginners-guide-to-computer-programming-with-clojure-introducing-lein-and-f86f72e7532d)
+* [Part 4 — A complete beginner’s guide to Computer Programming with Clojure: Maths. | by Harvey Ellams | Dec, 2020 | Medium](https://distroharvix.medium.com/part-4-a-complete-beginners-guide-to-computer-programming-with-clojure-maths-dc7bf7522017)
+* [Part 5 — A complete beginner’s guide to Computer Programming with Clojure: Text Processing. | by Harvey Ellams | Dec, 2020 | Medium](https://distroharvix.medium.com/part-5-a-complete-beginners-guide-to-computer-programming-with-clojure-text-processing-647cdecd35ca)
+* [Part 6 — A complete beginner's guide to Computer Programming with Clojure: Lists, Sets, Vectors, and Maps. | by Harvey Ellams | Dec, 2020 | Medium](https://distroharvix.medium.com/part-6-a-complete-beginners-guide-to-computer-programming-with-clojure-lists-sets-vectors-9a47d17375a0)
+* [Part 7 — A complete beginner’s guide to Computer Programming with Clojure: Atom versus Def. | by Harvey Ellams | Jan, 2021 | Medium](https://distroharvix.medium.com/part-7-a-complete-beginners-guide-to-computer-programming-with-clojure-atom-versus-def-989d5fb9b7bb)
+* [Part 8 — A complete beginner’s guide to Computer Programming with Clojure: Functions | by Harvey Ellams | Jan, 2021 | Medium](https://distroharvix.medium.com/part-8-a-complete-beginners-guide-to-computer-programming-with-clojure-functions-d129c3d4c59)
+* [Part 9 — A complete beginner’s guide to Computer Programming with Clojure: Regular Expressions (REGEX). | by Harvey Ellams | Jan, 2021 | Medium](https://distroharvix.medium.com/part-9-a-complete-beginners-guide-to-computer-programming-with-clojure-regular-expressions-29a7d18730a9)
+* [Part 10 — A complete beginner’s guide to Computer Programming with Clojure: Files. | by Harvey Ellams | Jan, 2021 | Medium](https://distroharvix.medium.com/part-10-a-complete-beginners-guide-to-computer-programming-with-clojure-files-a27d582e8edd)
+* [Part 11 — A complete beginner’s guide to Computer Programming with Clojure: Build a Chatbot. | by Harvey Ellams | Jan, 2021 | Medium](https://distroharvix.medium.com/part-11-a-complete-beginners-guide-to-computer-programming-with-clojure-build-a-chatbot-4f7a998881c)
+* [Fun with GTFS & Clojure | grison.me](https://grison.me/2020/04/03/fun-with-gtfs-and-clojure/)
 
 # Vim
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
