@@ -1554,6 +1554,8 @@ Programming Books
 * (NOT YET) [R을 이용한 퀀트 투자 포트폴리오 만들기](https://jpub.tistory.com/946)
 * (NOT YET) [R을 이용한 조건부과정분석 - 매개분석, 조절분석 및 조절된 매개분석](http://www.hakjisa.co.kr/subpage.html?page=book_book_info&bidx=4467)
 * (NOT YET) [데이터 애널리틱스: 예제로 배우는 모델링 기법, 데이터 분석, 모델 구축 과정 | 위키북스](https://wikibook.co.kr/data-analytics/)
+* (NOT YET) [Do it! 쉽게 배우는 R 텍스트 마이닝](http://www.easyspub.co.kr/20_Menu/BookView/B001/425/PUB)
+  * [Doit_textmining/docs at main · youngwoos/Doit_textmining](https://github.com/youngwoos/Doit_textmining/tree/main/docs)
 
 # Rust
 * (NOT YET) [러스트 프로그래밍 공식 가이드](https://jpub.tistory.com/980)
