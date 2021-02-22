@@ -221,6 +221,7 @@ Algorithm
 * [자료구조 카테고리 목록](https://lypicfa.tistory.com/557)
 * [Algorithms for Decision Making](https://algorithmsbook.com/)
 * [Count min sketch](https://www.slideshare.net/charsyam2/count-min-sketch-241660239)
+* [노벨상의 매칭 알고리즘, 게일-섀플리(Gale-Shapley) 알고리즘](https://needjarvis.tistory.com/478) 1:1 match
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
