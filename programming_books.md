@@ -1463,6 +1463,7 @@ Programming Books
 * [**파이썬 중급자를 위한 책 추천 – winterjung blog**](https://winterj.me/python-books-for-intermediate/)
 * (NOT YET) [프로그래머를 위한 파이썬](https://jpub.tistory.com/1097)
   * [practices-of-the-python-pro: Examples and exercises for Practices of the Python Pro from Manning Books 🐍📘](https://github.com/daneah/practices-of-the-python-pro)
+  * [리뷰 프로그래머를 위한 파이썬 · TheoryDB](https://theorydb.github.io/review/2021/02/22/review-book-practice-of-python-pro/)
 * (NOT YET) [Do it! 점프 투 플라스크](https://sihan-son.github.io/do-it-flask/)
 * (NOT YET) [Do it! 점프 투 장고](https://wikidocs.net/105844)
   * [Book Do it! 점프 투 장고](https://sihan-son.github.io/do-it-django/)
