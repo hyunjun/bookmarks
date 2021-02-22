@@ -720,6 +720,7 @@ Clojure
 * [malli - Plain data Schemas for Clojure/Script](https://github.com/metosin/malli)
 * [mamulengo - Lightweight database based on datascript with durable store and time travel for Clojure(Script)](https://github.com/wandersoncferreira/mamulengo)
 * [marathon-clj - Clojure client library for Mesos Marathon](https://github.com/eunmin/marathon-clj)
+* [meander: Tools for transparent data transformation](https://github.com/noprompt/meander)
 * [medley - A lightweight library of useful Clojure functions](https://github.com/weavejester/medley)
 * [mixfix-clj](https://github.com/awto/mixfix-clj) 중위 표기 이용 가능 e.g. 수식
 * [Monger - an idiomatic Clojure MongoDB driver for a more civilized age: with sane defaults, batteries included, well documented, very fast http://clojuremongodb.info](https://github.com/michaelklishin/monger)
@@ -798,6 +799,8 @@ Clojure
 * [spec-coerce - A Clojure(script) library designed to leverage your specs to coerce your information into correct types](https://github.com/wilkerlucio/spec-coerce) core.spec에 빠진 coerce(강제 형변환) 기능 보완 가능
 * [specter - Overcome your fear of manipulating nested data structures](https://github.com/nathanmarz/specter)
   * [Extending and Using Specter](https://leanpub.com/specter/read_full)
+  * [The power of lenses – Juhana Laurinharju - YouTube](https://www.youtube.com/watch?v=hnROywmy_HI)
+  * [Understanding Specter: Clojure's missing piece - YouTube](https://www.youtube.com/watch?v=rh5J4vacG98)
   * [specter-book-code - Source and tests for Extending and Using Specter](https://github.com/marick/specter-book-code)
 * [spectomic - Generate Datomic or Datascript schema from your Clojure(script) specs](https://github.com/Provisdom/spectomic)
 * [spectrum - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time](https://github.com/arohner/spectrum)
