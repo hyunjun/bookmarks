@@ -133,7 +133,6 @@ Programming
 * [New paper: Theory of Programs](https://bertrandmeyer.com/2015/07/06/new-paper-theory-of-programs/)
 * [relation between type theory and category theory](http://ncatlab.org/nlab/show/relation+between+type+theory+and+category+theory)
 * [References for "The Future of Programming"](http://worrydream.com/dbx/)
-* [Choosing good names](http://marcelo-cure.blogspot.kr/2015/06/choosing-good-names.html?m=1)
 * [How Should I Think About My Career?](http://www.breakoutcareers.com/)
 * [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
 * [open tuner - An extensible framework for program autotuning](http://opentuner.org/)
@@ -2654,7 +2653,6 @@ Programming
   * [katalon studio 툴을 이용한 GUI 테스트 자동화 가이드](https://www.slideshare.net/genycho/korean-gui-test-withkatalonstudio)
   * [Katalon Studio Review (Is it better than Selenium?)](https://testguild.com/katalon-studio/)
   * [2019년 톱 15 셀레늄 대안](https://testmanager.tistory.com/178) katalon만이 아니라 다른 여러가지 툴 소개
-* [Netflix NTS: Real-time Streaming for Test Automation](http://techblog.netflix.com/2015/06/nts-real-time-streaming-for-test.html?m=1)
 * [Selenium automates browsers](http://docs.seleniumhq.org/)
   * [클린 코드를 위한 테스트 주도 개발 1](https://hyesun03.github.io/2016/09/19/djangoTDD01/)
   * [클린 코드를 위한 테스트 주도 개발 2](https://hyesun03.github.io/2016/09/19/djangoTDD02/)

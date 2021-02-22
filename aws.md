@@ -57,8 +57,6 @@ AWS
 * [Serverless Framework V0 (BETA) The Serverless Application Framework Powered By Amazon Web Services - serverless.com](https://github.com/serverless/serverless)
 * [DEEP = Digital Enterprise End-to-end Platform https://www.deep.mg](https://github.com/MitocGroup/deep-framework)
 * [Veyron에서 Golf까지](http://sebatyler.github.io/2015/11/13/veyron-to-golf.html)
-* [AWS 무료 서버를 구성해 볼까나](http://wonhada.com/?p=1713)
-* [AWS 무료 데이터베이스(DB)를 만들어 볼까나](http://wonhada.com/?p=1798)
 * [Coming Home: Moving Servers from Tokyo to Seoul](https://medium.com/team-mangoplate/coming-home-moving-servers-from-tokyo-to-seoul-8e706501dd4e)
 * [똥개가 전해드리는 AWS 잡설](http://awsdog.tistory.com/)
 * [blog.awskr.org](https://blog.awskr.org/)
@@ -571,7 +569,7 @@ AWS
 * [bloop - Object Mapper for DynamoDB http://bloop.readthedocs.org](https://github.com/numberoverzero/bloop/)
 * [Dynomite, inspired by Dynamo whitepaper, is a thin, distributed dynamo layer for different storage engines and protocols](https://github.com/Netflix/dynomite)
   * [Getting Started](https://github.com/Netflix/dynomite/wiki/Getting-Started)
-  * [Introducing Dynomite - Making Non-Distributed Databases, Distributed](http://techblog.netflix.com/2014/11/introducing-dynomite.html?m=1)
+  * [Introducing Dynomite - Making Non-Distributed Databases, Distributed](http://techblog.netflix.com/2014/11/introducing-dynomite.html)
 * [Dynamon is GUI client for DynamoDB](https://github.com/deptno/dynamon)
 * Z-Order Indexing for Multifaceted Queries in Amazon DynamoDB
   * [Part 1](https://aws.amazon.com/ko/blogs/database/z-order-indexing-for-multifaceted-queries-in-amazon-dynamodb-part-1/)

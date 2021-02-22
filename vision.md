@@ -111,7 +111,7 @@ Vision
   * [실전 프로젝트 - 동영상 플레이어 만들기 #6-1](https://www.youtube.com/watch?v=3V2iaLuIBPs)
 * [10 Papers from ICML and CVPR](http://leotam.github.io/general/2016/07/12/ICMLcVPR.html)
 * [동국대학교 2016년 봄학기 컴퓨터 그래픽스 입문(응용 프로그래밍) 강의 모음](http://blog.naver.com/atelierjpro/220775601324)
-* [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html?m=1)
+* [Supercharge your Computer Vision models with the TensorFlow Object Detection API](https://research.googleblog.com/2017/06/supercharge-your-computer-vision-models.html)
   * [github.com/tensorflow/models/tree/master/object_detection](https://github.com/tensorflow/models/tree/master/object_detection)
 * [**Object Detection**](https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html)
 * [Google Object Detection API Wrapper](https://github.com/1202kbs/object-detection-api-wrapper)

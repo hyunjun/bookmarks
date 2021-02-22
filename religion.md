@@ -81,7 +81,7 @@ Religion
 * [“여기선 노조 안 돼”…소망교회의 두 얼굴](http://newstapa.org/24724)
 * [교묘한 교회의 '변칙세습'.. 세습방지법 비웃듯 법망 피해 더 활발해져](http://media.daum.net/culture/religion/newsview?newsid=20150527220720460&RIGHT_COMM=R9)
 * [Christian과 현대과학](http://lightntree.blogspot.kr/)
-  * [롤러 코스터 (Roller Coaster)와 황룡사 9층 목탑, 방주학 개론 (方舟學 槪論) 1](http://lightntree.blogspot.kr/2014/05/roller-coaster-9.html?m=0)
+  * [롤러 코스터 (Roller Coaster)와 황룡사 9층 목탑, 방주학 개론 (方舟學 槪論) 1](http://lightntree.blogspot.kr/2014/05/roller-coaster-9.html)
 * [왜 진보적인 교회가 필요한가? - 향린교회, 곽건용 목사 이전감사예배 설교](http://m.newsm.com/news/articleView.html?idxno=5023)
 * [박근혜 특공대 '십알단' 배후는 결국 새누리당?](http://www.huffingtonpost.kr/2015/07/09/story_n_7759980.html)
 * [십일조와 직분없는 교회](http://m.blog.daum.net/yl3985/1239)

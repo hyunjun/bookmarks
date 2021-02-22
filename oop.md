@@ -194,7 +194,7 @@
 * [결제 로직에 전략 패턴을 적용하여 재사용성 높이기](https://seohoon-dev.tistory.com/1)
 * [Flyweight 디자인 패턴](http://astrod.github.io/2017/05/07/Flywegiht-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
 * [Design Patterns in Java with Example Tutorial](https://www.dineshonjava.com/design-patterns_25/)
-* [Design Patterns - Advanced Iterator](https://achimoraites.blogspot.com/2017/11/design-patterns-advanced-iterator.html?m=1)
+* [Design Patterns - Advanced Iterator](https://achimoraites.blogspot.com/2017/11/design-patterns-advanced-iterator.html)
 * [Abstract Factory Design Pattern in Java](http://www.codenuclear.com/abstract-factory-design-pattern-java/)
 * [Mediator pattern](http://designpattern.co.il/Mediator.html)
 * [커맨드 디자인 패턴](https://astrod.github.io/design_pattern/2018/09/26/Head-First-%EC%BB%A4%EB%A7%A8%EB%93%9C-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/)

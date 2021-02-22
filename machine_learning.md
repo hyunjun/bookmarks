@@ -937,7 +937,6 @@ Machine Learning
 
 # Library
 * [머신러닝과 예측 알고리즘에 '안성맞춤' 데이터 과학 툴 10선](http://www.ciokorea.com/news/37977)
-* [The Best Machine Learning Libraries in Python, Java,.NET and C++](http://www.rubedo.com.br/2016/05/the-best-machine-learning-libraries-in.html?m=1)
 * [The 6 most useful Machine Learning projects of the past year (2018)](https://towardsdatascience.com/the-10-most-useful-machine-learning-projects-of-the-past-year-2018-5378bbd4919f)
   * fast.ai Detectron FastText AutoKeras Dopamine vid2vid
 * [Top 20 Python Machine Learning Open Source Projects, updated](https://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)

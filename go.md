@@ -8,7 +8,6 @@ Go
 * [Go 환경 설정(with go1.15.7) :: Outsider's Dev Story](https://blog.outsider.ne.kr/1529)
 * [Hello, Go! - GoLang과의 첫 만남](http://www.sauru.so/blog/hello-go/)
 * [Go language 첫인상](https://libsora.so/posts/golang-first-impression/)
-* [단숨에 Go언어(Golang) 배우기](https://blog.wonhada.com/?p=1930)
 * [Hello Go](https://medium.com/@caspervonb/hello-go-3e207da92da0)
 * [Learn Go Programming - Golang Tutorial for Beginners](https://www.youtube.com/watch?v=YS4e4q9oBaU)
 * [Why should you learn Go?](https://medium.com/@kevalpatel2106/why-should-you-learn-go-f607681fad65)

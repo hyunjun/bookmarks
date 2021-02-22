@@ -50,7 +50,7 @@ Concurrency
 * [Introduction to Concurrency](http://cs.lmu.edu/~ray/notes/introconcurrency/)
 * [Turing Lecture: The Computer Science of Concurrency: The Early Years](http://cacm.acm.org/magazines/2015/6/187316-turing-lecture-the-computer-science-of-concurrency/fulltext)
 * [FAQ on π-Calculus](http://www.cs.cmu.edu/~wing/publications/Wing02a.pdf)
-* [Concurrency, Goroutines and GOMAXPROCS](http://www.goinggo.net/2014/01/concurrency-goroutines-and-gomaxprocs.html?m=1)
+* [Concurrency, Goroutines and GOMAXPROCS](http://www.goinggo.net/2014/01/concurrency-goroutines-and-gomaxprocs.html)
 * [Concurrency Control and Recovery in Database Systems](http://research.microsoft.com/en-us/people/philbe/ccontrol.aspx)
 * [Breaking and entering: lose the lock while embracing concurrency, Part I](https://techblog.workiva.com/tech-blog/breaking-and-entering-lose-lock-while-embracing-concurrency-part-i)
 * [Breaking and entering: lose the lock while embracing concurrency, Part II](https://techblog.workiva.com/tech-blog/breaking-and-entering-lose-lock-while-embracing-concurrency-part-ii)

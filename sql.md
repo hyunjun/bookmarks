@@ -827,7 +827,7 @@ SQL
 # SQLite
 * [practice - python sqlite](https://github.com/hyunjun/practice/tree/master/python/test-sqlite3)
 * [Appropriate Uses For SQLite](https://www.sqlite.org/whentouse.html)
-* [Finding bugs in SQLite, the easy way](http://lcamtuf.blogspot.kr/2015/04/finding-bugs-in-sqlite-easy-way.html?m=1)
+* [Finding bugs in SQLite, the easy way](http://lcamtuf.blogspot.kr/2015/04/finding-bugs-in-sqlite-easy-way.html)
 * [Don't test with SQLLite when you use Postgres in Production](http://michael.robellard.com/2015/07/dont-test-with-sqllite-when-you-use.html)
 * [The SQLite Query Planner](https://www.sqlite.org/optoverview.html)
 * [Code to transform Hillary's emails from raw PDF documents to a SQLite database](https://github.com/benhamner/hillary-clinton-emails)

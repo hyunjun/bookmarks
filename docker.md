@@ -961,7 +961,7 @@ Docker
 * [kubectl-trace: Schedule bpftrace programs on your kubernetes cluster using the kubectl](https://github.com/iovisor/kubectl-trace)
 * [kubedoom: Kill Kubernetes pods by playing Id's DOOM!](https://github.com/storax/kubedoom)
 * Kubeflow
-  * [Introducing Kubeflow - A Composable, Portable, Scalable ML Stack Built for Kubernetes](http://blog.kubernetes.io/2017/12/introducing-kubeflow-composable.html?m=1)
+  * [Introducing Kubeflow - A Composable, Portable, Scalable ML Stack Built for Kubernetes](http://blog.kubernetes.io/2017/12/introducing-kubeflow-composable.html)
   * Kubeflow는 Kubernetes에서 ML 스택의 사용을 쉽고 빠르며 확장 할 수 있도록 능률화하기 위해 Github에서 호스팅되는 새로운 오픈소스 프로젝트
   * 비전
     * 생산 준비가 된 ML 시스템의 생성을 단순화하고, 클러스터간에 ML 스택의 이동성을 보장하며, 모든 클러스터 크기로 쉽게 확장

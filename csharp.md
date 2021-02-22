@@ -133,12 +133,7 @@ C#
 * [C# 훑을 겸 인프런 강의 신청- Part1 C# 기초 프로그래밍 입문](https://clocksignal.tistory.com/2)
 
 # Xamarin
-* 마이크로소프트 멜팅팟 온라인 세미나
-  * [C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
-  * [C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
-  * [C#과 Xamarin.Forms로 iOS/안드로이드앱 일타쌍피!](http://www.microsoftvirtualacademy.com/training-courses/meltingpot-xamarin?m=15338&ct=41362)
 * [GKAC 2015 Apr. - Xamarin forms를 사용한 MVVM 패턴과 테스팅](https://www.youtube.com/watch?v=eM1996ULnmg&list=PL_WJkTbDHdBl5QXy6N_bMMBYlKLna5RER&index=9)
-* [모바일 크로스 플랫폼 개발도구 Xamarin Microsoft가 지지하는 C#기반 모바일 플랫폼](https://realm.io/kr/news/introducing-xamarin/)
 * [모바일 크로스 플랫폼 개발도구 Xamarin Microsoft가 지지하는 C#기반 모바일 플랫폼](https://realm.io/kr/news/introducing-xamarin/)
 * [기본 페이지 구성 - 길이를 % 로 넣고 Alert 서버전송 예제입니다](http://cafe.naver.com/xamarinmaster/248)
 * [모바일 개발은 자마린](https://www.youtube.com/watch?v=m7ckPz-UwaQ)
@@ -149,3 +144,4 @@ C#
 * [아이폰/안드로이드 앱 아직도 따로만드세요?](https://brunch.co.kr/@brightlee/6)
 * [MS 자마린 에센셜, 크로스 플랫폼 완성 '마지막 조각'](http://www.ciokorea.com/news/38885#csidx79bb1f47e886691a3d0a568d3ac989e)
 * [Xamarin 과연 쓸만한가](https://youngjaekim.wordpress.com/2019/03/31/xamarin-%EA%B3%BC%EC%97%B0-%EC%93%B8%EB%A7%8C%ED%95%9C%EA%B0%80/)
+* [크로스 플랫폼 자마린(Xamarin) 으로 allb앱 출시하기까지](http://cafe.naver.com/mcbugi/337885)

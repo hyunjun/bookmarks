@@ -1201,7 +1201,7 @@ Deep Learning
 * [**GENERATIVE ADVERSARIAL NETWORK AND ITS APPLICATIONS TO SPEECH SIGNAL AND NATURAL LANGUAGE PROCESSING**](https://sigport.org/documents/generative-adversarial-network-and-its-applications-speech-signal-and-natural-language)
 * [Towards data set augmentation with GANs](https://medium.com/jungle-book/towards-data-set-augmentation-with-gans-9dd64e9628e6)
 * [Introduction to GAN](https://www.slideshare.net/JiminLee36/introduction-to-gan)
-* [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://jaejunyoo.blogspot.com/2018/05/paper-skim-progressive-growing-of-gans.html?m=1)
+* [Progressive Growing of GANs for Improved Quality, Stability, and Variation](https://jaejunyoo.blogspot.com/2018/05/paper-skim-progressive-growing-of-gans.html)
 * [Math Insights from 10 GAN papers. InfoGANs, VAEGANs, CycleGAN and more](https://www.youtube.com/watch?v=r3L3JT_TLTM)
 * [From GAN to WGAN](https://lilianweng.github.io/lil-log/2017/08/20/from-GAN-to-WGAN.html)
 * [Generative Models Part 1: VAE,GAN,DCGAN](https://taeoh-kim.github.io/blog/generative-models-part-1-vaegandcgan/)

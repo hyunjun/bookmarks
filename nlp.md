@@ -1249,7 +1249,7 @@ NLP
 * [**집현전 NLP 리뷰 모임**](https://github.com/jiphyeonjeon/nlp-review)
 
 # Parser
-* [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html?m=1)
+* [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html)
   * [SyntaxNet: 텐서플로우 NLP](https://tensorflow.blog/2016/05/13/syntaxnet-%ED%85%90%EC%84%9C%ED%94%8C%EB%A1%9C%EC%9A%B0-nlp/)
   * [Google 자연어 처리 오픈소스 SyntaxNet 공개](http://cpuu.postype.com/post/166917/)
   * [Google SyntaxNet 설치하기(Ubuntu / Mac)](http://cpuu.postype.com/post/197684/)

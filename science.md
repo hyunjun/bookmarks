@@ -181,7 +181,6 @@ Science
   * [암흑물질의 상세한 지도가 최초로 공개됐다](http://www.huffingtonpost.kr/2015/04/23/story_n_7123840.html)
 * [용암을 얼음 위에 부었다](http://www.huffingtonpost.kr/2015/03/31/story_n_6973760.html)
 * [양초, 알루미늄 포일, 성냥으로 로켓 만들기](http://www.huffingtonpost.kr/2015/04/07/story_n_7016704.html)
-* [TOP TEN UNSOLVED PROBLEMS IN PHYSICS](http://www.oglethorpe.edu/faculty/~m_rulison/top10.htm#)
 * [Halley's Eclipse: a coup for Newtonian prediction and the selling of science](http://www.theguardian.com/science/the-h-word/2015/may/03/halleys-eclipse-newtonian-selling-science-history)
 * [Quasicrystal are nature's impossible matter](http://motherboard.vice.com/read/quasicrystals-are-natures-impossible-matter)
 * [일곱 종류의 금속을 녹여서 물속에 부어 넣었다!(실험 동영상)](http://www.huffingtonpost.kr/2015/06/18/story_n_7608728.html)
