@@ -301,6 +301,9 @@ Clojure
 * [Atabey Kaygun — Kruskal's Algorithm Implemented in Clojure](https://kaygun.tumblr.com/post/643010859143151616/kruskals-algorithm-implemented-in-clojure)
 * [Enigma 1: Turning rotors](https://asoftwarecraft.hashnode.dev/enigma-1-turning-rotors)
 * [Ostash.Dev - Code is a poetry](https://ostash.dev/)
+* [How to Deploy a Clojure Web Application with Nginx on Ubuntu 20.04](https://www.howtoforge.com/how-to-deploy-clojure-web-application-with-nginx-on-ubuntu-20-04/)
+* [Building a RESTful Web API in Clojure: a new approach (by Malcolm Sparks) | Meetup](https://www.meetup.com/ko-KR/London-Clojurians/events/276444743/)
+* [Semantic Clojure Formatting | Meta Redux](https://metaredux.com/posts/2020/12/06/semantic-clojure-formatting.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
