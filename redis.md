@@ -104,6 +104,7 @@ Redis
 * [서버가 여러대면 로그인 정보는 어디에 저장할까? - Sticky Session, Session Clustering, Redis Session Storage](https://tjdrnr05571.tistory.com/3)
 * [Redis 성능 향상을 위한 Redis 세션 저장소와 캐시 저장소의 분리](https://chagokx2.tistory.com/99)
 * [**선물하기 시스템의 상품 재고는 어떻게 관리되어질까? - 우아한형제들 기술 블로그**](https://woowabros.github.io/experience/2021/01/19/product-stock.html) redis + RDB 배민 재고 관리
+* [Redis Cache 기능을 활용한 성능 개선 이야기 part 1 | Recoding Life](https://jane096.github.io/project/redis-caching/)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
