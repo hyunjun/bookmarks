@@ -852,6 +852,7 @@ Clojure
 * [REPL Driven Development, Clojure's Superpower (by Sean Corfield) - YouTube](https://www.youtube.com/watch?v=gIoadGfm5T8)
 * [Sending clojure data from the REPL to the clipboard | Basket's dev blog](https://basket-blog.netlify.app/pretty-print-clojure-data-to-clipboard)
 * [Reaching flow state with Clojure's REPL -- newline](https://www.newline.co/@shivekkhurana/reaching-flow-state-with-clojures-repl--14018b04)
+* [Distinction between three data related programming paradigms. | Yehonathan Sharvit](https://blog.klipse.tech/visualization/2021/02/16/data-related-paradigms.html)
 * [Gorilla REPL](http://gorilla-repl.org/)
   * [lein-gorildown](https://github.com/ksseono/lein-gorildown)
 * [inf clojure REPL](https://github.com/boot-clj/boot/wiki/inf-clojure-REPL)
