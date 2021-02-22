@@ -462,6 +462,7 @@ Programming
 * [A Seven-Step Guide to API-First Integration](https://www.infoq.com/articles/api-first-integration/)
 * [Scale By The Bay 2020: Steve Cosenza, Rebuilding Twitter’s public API - YouTube](https://www.youtube.com/watch?v=bhe3YDbn5RY)
 * [APIs Explained for Product Manager](https://www.notion.so/APIs-Explained-for-Product-Manager-53ce50635bad462f9665cf4836b91429)
+* [웹 버전 관리 시스템](https://kdinner.tistory.com/101)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
 * [KAKAO REST API](https://developer-ankiwoong.tistory.com/748)
