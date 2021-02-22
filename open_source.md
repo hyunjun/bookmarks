@@ -201,12 +201,13 @@ Open Source
 
 # License
 * [Elasticsearch 와 Kibana 의 SSPL & Elastic License 듀얼 라이선스 전환 정리](https://blog.naver.com/occidere/222209247067) SSPL
-* [진정한 오픈소스 Elasticsearch 를 위한 발돋움](https://blog.naver.com/occidere/222219979237)
-* [Elasticsearch를 둘러싼 AWS와 Elastic의 대립 – OpsNow Tech Blog](https://blog.opsnow.com/35)
-* [Amazon: NOT OK - Elastic 라이선스를 변경해야 했던 이유 | Elastic Blog](https://www.elastic.co/kr/blog/why-license-change-AWS)
-* [라이선스 변경에 대한 명확한 설명 | Elastic Blog](https://www.elastic.co/kr/blog/license-change-clarification)
-* [Elastic Changes Licences for Elasticsearch and Kibana: AWS Forks Both](https://www.infoq.com/news/2021/01/elastic-aws-open-source/)
-* [Elastic과 AWS의 분쟁, 어떻게 봐야 할까? :: Outsider's Dev Story](https://blog.outsider.ne.kr/1533)
+  * [진정한 오픈소스 Elasticsearch 를 위한 발돋움](https://blog.naver.com/occidere/222219979237)
+  * [Elasticsearch를 둘러싼 AWS와 Elastic의 대립 – OpsNow Tech Blog](https://blog.opsnow.com/35)
+  * [Amazon: NOT OK - Elastic 라이선스를 변경해야 했던 이유 | Elastic Blog](https://www.elastic.co/kr/blog/why-license-change-AWS)
+  * [라이선스 변경에 대한 명확한 설명 | Elastic Blog](https://www.elastic.co/kr/blog/license-change-clarification)
+  * [Elastic Changes Licences for Elasticsearch and Kibana: AWS Forks Both](https://www.infoq.com/news/2021/01/elastic-aws-open-source/)
+  * [Elastic과 AWS의 분쟁, 어떻게 봐야 할까? :: Outsider's Dev Story](https://blog.outsider.ne.kr/1533)
+* [Olive Platform : 카카오에서 제공하는 오픈소스 관리 서비스 – tech.kakao.com](https://tech.kakao.com/2021/02/22/olive-platform/)
 
 # Line
 * [LINE Game AirBorne DataCenter 소개](http://developers.linecorp.com/blog/ko/?p=230)
