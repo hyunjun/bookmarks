@@ -304,6 +304,7 @@ Clojure
 * [How to Deploy a Clojure Web Application with Nginx on Ubuntu 20.04](https://www.howtoforge.com/how-to-deploy-clojure-web-application-with-nginx-on-ubuntu-20-04/)
 * [Building a RESTful Web API in Clojure: a new approach (by Malcolm Sparks) | Meetup](https://www.meetup.com/ko-KR/London-Clojurians/events/276444743/)
 * [Semantic Clojure Formatting | Meta Redux](https://metaredux.com/posts/2020/12/06/semantic-clojure-formatting.html)
+* [**clojure-dsl-resources: A curated list of Clojure resources for dealing with domain-specific languages**](https://github.com/simongray/clojure-dsl-resources)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
