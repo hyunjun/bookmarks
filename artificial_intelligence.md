@@ -171,6 +171,6 @@ Artificial Intelligence
   * [번역과 텍스트음성변환하기(4/4)](https://tariat.tistory.com/406)
 
 # Tutorial
-* [Introduction to AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/introduction?hl=en)
+* [Introduction to AI Platform Notebooks](https://cloud.google.com/ai-platform/notebooks/docs/introduction)
 * [Jay's Visual Intro to AI](https://www.youtube.com/watch?v=mSTCzNgDJy4)
 * [왕초보의 인공지능 코딩 - YouTube](https://www.youtube.com/playlist?list=PLfbC0A7KFwZURUl9Q3pgNSYy0uexBf0x5)

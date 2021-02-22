@@ -626,7 +626,7 @@
 * [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)
 * EMR
   * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
-  * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr/?adbsc=social_20150616_47654126&adbid=1596813583908670&adbpl=fb&adbpr=1563378127252216)
+  * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr)
   * [Spark on EMR](https://github.com/awslabs/emr-bootstrap-actions/tree/master/spark)
   * [**(BDT309) Data Science & Best Practices for Apache Spark on Amazon EMR**](http://www.slideshare.net/AmazonWebServices/bdt309-data-science-best-practices-for-apache-spark-on-amazon-emr)
   * [Starburst’s Presto on AWS up to 18x faster than EMR](https://www.starburstdata.com/technical-blog/starburst-presto-on-aws-18x-faster-than-emr/) Presto의 엔터프라이즈 빌드를 제공하는 Starbust에서 AWS와 EMR 환경에서 벤치마크한 결과 소개

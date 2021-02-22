@@ -1,7 +1,6 @@
 Azure
 =====
 
-* [Microsoft Azure Machine Learning 서비스 소개](http://event.on24.com/eventRegistration/console/EventConsoleNG.jsp?uimode=nextgeneration&eventid=943294&sessionid=1&username=&partnerref=&format=fhaudio&mobile=false&flashsupportedmobiledevice=false&helpcenter=false&key=A6D2241610D5CCB2CB004F07BD1551BD&text_language_id=ko&playerwidth=1000&playerheight=650&overwritelobby=y&eventuserid=112655816&contenttype=A&mediametricsessionid=89547244&mediametricid=1432895&usercd=112655816&mode=launch#)
 * [Getting Started with Machine Learning](https://www.youtube.com/watch?v=fiaBgLPYYd4)
 * [Welcome to Azure Machine Learning](https://studio.azureml.net/)
 * [Application Architecture on Microsoft Azure](https://azure.microsoft.com/en-us/documentation/articles/architecture-overview/)

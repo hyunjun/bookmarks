@@ -4,16 +4,16 @@ Art
 * [What Was the Venus de Milo Doing With Her Arms?](http://www.slate.com/articles/arts/culturebox/2015/05/the_venus_de_milo_s_arms_3d_printing_the_ancient_sculpture_spinning_thread.html)
 * [Naked ambition: when the Greeks first stripped off](http://www.theguardian.com/artanddesign/2015/mar/20/naked-ambition-why-the-greeks-first-stripped-nude)
 * [Soviet-era erotic alphabet book from 1931](http://thecharnelhouse.org/2013/03/31/soviet-era-erotic-alphabet-book-from-1931-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B0%D1%8F-%D1%8D%D1%80%D0%BE%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F-%D0%B0%D0%B7%D0%B1%D1%83%D0%BA/)
-* [MetPublications](http://www.metmuseum.org/art/metpublications/titles-with-full-text-online?searchtype=F)
+* [MetPublications](http://www.metmuseum.org/art/metpublications/titles-with-full-text-online)
 * [Download 422 Free Art Books from The Metropolitan Museum of Art](http://www.openculture.com/2015/03/download-422-free-art-books-from-the-metropolitan-museum-of-art.html)
-* [Google Cultural Institute](https://www.google.com/culturalinstitute/u/0/home?hl=ko)
+* [Google Arts & Culture](https://artsandculture.google.com/)
 * [MoMA’s Digital Art Vault](http://www.moma.org/explore/inside_out/2015/04/14/momas-digital-art-vault)
 * [Julian Barnes: ‘Art doesn’t just capture the thrill of life ... sometimes it is that thrill’](http://www.theguardian.com/books/2015/may/02/julian-barnes-art-doesnt-capture-thrill-of-life)
 * [Iconic Patent Art](http://www.howacarworks.com/blog/iconic-patent-posters)
   * [“특허 도면도 예술”](http://techholic.co.kr/archives/39339)
 * [tvN 미술 강의로 본 인문학 열풍의 그늘](http://www.koreanart21.com/review/artWorldStory/view?id=5883&page=1)
-* [조영남은 사기꾼인가?](http://m.ohmynews.com/NWS_Web/Mobile/at_pg.aspx?CNTN_CD=A0002223712&CMPT_CD=Mrank1#cb)
-* [유시민도 모르는 '조영남 사건'의 본질](https://m.entertain.naver.com/read?oid=047&aid=0002120543)
+* [진중권 기고 조영남은 사기꾼인가? - 오마이스타](http://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0002223712)
+* [진중권 기고 유시민도 모르는 '조영남 사건'의 본질 :: 네이버 TV연예](https://entertain.naver.com/read?oid=047&aid=0002120543)
 * [Introduction to Art History](http://www.slideshare.net/johnricard/introduction-to-art-history)
 * [페나키스티스코프(Phenakistiscope)](https://www.josephk.io/phenakistiscope-magical-animation/)
 
@@ -57,7 +57,7 @@ Art
 * [귄터 그라스가 한국의 민주주의를 위해 한 일](http://www.huffingtonpost.kr/2015/04/13/story_n_7054022.html)
 * [DISPUTED SHAKESPEARE PLAY IS 'PROVEN' GENUINE](http://www.shortlist.com/entertainment/books/disputed-shakespeare-play-is-proven-genuine)
 * [초단편 소설의 세계](http://newspeppermint.com/2015/04/21/ultra-short-fictions/)
-* [앙드레 말로](http://www.segye.com/content/html/2015/05/01/20150501002376.html?OutUrl=naver) 스페인 내전에서 반군부 세력을 도우며 중간에서 무기 구입비 착복, 앙코르 와트 유적 밀반출 시도
+* [20세기 프랑스 '행동하는 지성' 앙드레 말로의 치열했던 삶과 문학 - 세계일보](http://www.segye.com/newsView/20150501002376) 스페인 내전에서 반군부 세력을 도우며 중간에서 무기 구입비 착복, 앙코르 와트 유적 밀반출 시도
 * [희망은 상대적이다](http://slownews.kr/40591) 제인 에어 Jane Eyre 에 여성의 주체적 삶의 실체는 없다
 * [표절에는 공소시효가 없다](http://www.huffingtonpost.kr/seongho-haam/story_b_7633372.html)
 
@@ -144,7 +144,7 @@ Art
 * [기타 5대로 베토벤 연주를…](http://techholic.co.kr/archives/29836)
 
 ## Jazz
-* [최고의 재즈 앨범 22선](http://www.wikitree.co.kr/main/news_view.php?id=157285&fb=1)
+* [최고의 재즈 앨범 22선 | 위키트리](https://www.wikitree.co.kr/articles/157285)
 * [재즈는 저녁 식사에 어울리는 음악이 아니다](http://www.huffingtonpost.kr/ts-monk/story_b_6789452.html)
 * 올댓재즈 20주년 특집 "재즈가 들린다"
   * [1화 재즈란 무엇인가 (1)](https://www.youtube.com/watch?v=5U4L1BoeQgU)
@@ -153,7 +153,7 @@ Art
   * [4화 금관악기 목관악기](https://www.youtube.com/watch?v=Od32xuOhHDc)
 
 ## Michael Jackson
-* [마이클 잭슨① 역사를 바꾼 소년](http://m.navercast.naver.com/mobile_magazine_contents.nhn?rid=1439&contents_id=49175)
+* [마이클 잭슨① 역사를 바꾼 소년 : 하종욱의 20세기 클래식 : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=16251226)
 * [마이클 잭슨, '무중력 댄스'를 위해 신발 특허를 내다!](http://www.huffingtonpost.kr/2015/03/31/story_n_6974656.html)
 * [어쿠스틱 기타 연주로 듣는 마이클잭슨의 'Beat it'(동영상)](http://www.huffingtonpost.kr/2015/06/24/story_n_7652738.html)
 * [펜타토닉스가 마이클 잭슨 음악의 진화를 6분 짜리 아카펠라로 들려주다](http://www.huffingtonpost.kr/2015/06/24/story_n_7650578.html)
@@ -203,8 +203,8 @@ Art
 * [장 미쉘 바스키아의 빛과 그림자 - INDIEPOST 인디포스트](https://www.indiepost.co.kr/post/3752)
 
 ## 백남준
-* ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](http://media.daum.net/culture/others/newsview?newsid=20150730152936461&RIGHT_COMM=R6)
-* [변형하라 시도하라.. TV를 해킹한 예술가, 신화가 되다](http://media.daum.net/life/living/tips/newsview?newsId=20150809204409000&RIGHT_LIFE=R10)
+* ["신은 불공평했다" 뇌졸중으로 쓰러진 백남준](https://news.v.daum.net/v/20150730152936461)
+* [변형하라 시도하라.. TV를 해킹한 예술가, 신화가 되다](https://news.v.daum.net/v/20150809204409000)
 
 ## Gogh
 * [당신이 반 고흐에 대해 몰랐던 사실 8가지](http://www.huffingtonpost.kr/2014/12/18/story_n_6345694.html)
@@ -230,7 +230,7 @@ Art
 * [쉽게 이해하는 카메라 측광](http://ppss.kr/archives/39899)
 * [Newbie to Expert Photo Editing in 5 Minutes](https://www.polarr.co/guide)
 * [20분이면 배우는 ‘은하수 타임랩스 촬영법’](http://techholic.co.kr/archives/25275)
-* [여행지의 잠 못 이루는 밤, 별 사진 잘 찍는 법](http://media.daum.net/life/newsview?newsId=20161227095051595)
+* [여행사진의 기술 여행지의 잠 못 이루는 밤, 별 사진 잘 찍는 법](https://news.v.daum.net/v/20161227095051595)
 * [19세기 손톱만한 ‘마이크로 사진’ 유행한 이유](http://techholic.co.kr/archives/26035)
 * [은밀하고 황홀하게 빛을 다루는 사진 심리학자, 신수진을 만나다](http://www.huffingtonpost.kr/harry-jun/story_b_7658958.html)
 * [포토샵 없이 만든 절묘한 조형 몽타주 사진](http://ppss.kr/archives/56371)

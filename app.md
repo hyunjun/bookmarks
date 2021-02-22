@@ -3,7 +3,7 @@ App
 * [Easy Personal Budgeting](https://www.budgetapp.io/)
 * [홈플러스와 스타벅스를 해킹하는 ‘라이프해커’들](http://www.bloter.net/archives/227537)
 * [Program your Finances: Command-line Accounting](https://www.petekeen.net/keeping-finances-with-ledger) ledger
-* [동영상 다운로드 받기(네이버 TV캐스트 등)](http://m.clien.net/cs3/board?bo_table=lecture&bo_style=view&wr_id=268869&page=&spt=-16453)
+* [동영상 다운로드 받기(네이버 TV캐스트 등) : 클리앙](https://www.clien.net/service/board/lecture/7498043)
 * [PC에서 아무것도 설치 안 하고 모바일 처럼 인터넷 쇼핑몰 이용하는 방법](http://ppss.kr/archives/49491)
 * [The daemontools family](http://homepage.ntlworld.com./jonathan.deboynepollard/FGA/daemontools-family.html)
 * [10 Ad Blocking Extensions Tested for Best Performance](https://www.raymond.cc/blog/10-ad-blocking-extensions-tested-for-best-performance/)
@@ -35,7 +35,7 @@ App
 * [29 Tools and Resources for the Bootstrapping Entrepreneur](https://hackernoon.com/29-tools-and-resources-for-the-bootstrapping-entrepreneur-65c01a81fefb)
 * [I hate coding but I love making](https://hackernoon.com/i-hate-coding-but-i-love-making-9f3387d3b20d)
 * [지금 써보러 갑니다 세상 모든 서비스에 대한 이야기](http://icunow.co.kr/category/util/)
-* [디지털 세금, 구독형 서비스 최대한 피해보자 - tebica story](https://earlybird.kr/2548?utm_source=rss&utm_medium=rss&utm_campaign=%25eb%2594%2594%25ec%25a7%2580%25ed%2584%25b8-%25ec%2584%25b8%25ea%25b8%2588-%25ea%25b5%25ac%25eb%258f%2585%25ed%2598%2595-%25ec%2584%259c%25eb%25b9%2584%25ec%258a%25a4-%25ec%25b5%259c%25eb%258c%2580%25ed%2595%259c-%25ed%2594%25bc%25ed%2595%25b4%25eb%25b3%25b4%25ec%259e%2590)
+* [디지털 세금, 구독형 서비스 최대한 피해보자 - tebica story](https://earlybird.kr/2548)
 * [We need a new document markup language — here is why](https://medium.freecodecamp.org/we-need-a-new-document-markup-language-c22e0ec44e15) Practical Markup Language PML
 * [Here Are 5 Productivity Tools Every Developer Should Know](https://medium.com/swlh/here-are-5-productivity-tools-every-developer-should-know-4a3f70783835)
   * insomnia, zoom, notion, trello, figma
@@ -83,7 +83,7 @@ App
 * [immersion - a people-centric view of your email life](https://immersion.media.mit.edu/)
 * [JScreenFix Repair stuck pixels](http://www.jscreenfix.com/)
 * [KODExplorer - A web based file manager,Instead of ftp,online ide http://kalcaddle.com](https://github.com/kalcaddle/KODExplorer)
-* [lantern - Open Internet for everyone. Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including P2P and domain fronting. Lantern relies on users in uncensored regions acting as access points to the open Internet. https://getlantern.org](https://github.com/getlantern/lantern?)
+* [lantern - Open Internet for everyone. Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including P2P and domain fronting. Lantern relies on users in uncensored regions acting as access points to the open Internet. https://getlantern.org ](https://github.com/getlantern/lantern)
 * Liner
   * [라이너(Liner) – 사파리 익스텐션](https://sungmooncho.com/2017/05/23/liner-safari-extension/)
 * [maps.me - 오프라인 지도 앱 ‘맵스닷미’, 오픈소스로 공개](http://www.bloter.net/archives/239892)
@@ -125,7 +125,7 @@ App
   * [RescueTime 자동화하기 2](http://guswnsxodlf.github.io/automate-rescuetime-02)
   * [RescueTime 자동화하기 3](http://guswnsxodlf.github.io/automate-rescuetime-03) python
 * [ScanTailor](https://scantailor.org/)
-  * [문서 스캔을 할 땐 ScanTailor!](https://www.clien.net/service/board/use/15014561?type=recommend)
+  * [문서 스캔을 할 땐 ScanTailor!](https://www.clien.net/service/board/use/15014561)
   * 윈도우, 리눅스 프리웨어
   * 스캔한 이미지 파일을 가지고 방향 수정, 자르기, 기울기 조정, 폭 조절, 해상도 조절, 컬러모드 조절, 먼지제거를 자동, 또는 수동 처리
   * 장점
@@ -189,7 +189,7 @@ App
   * [Mackup으로 시스템 설정 파일(dotfiles) 백업하고 복원하기 | 44BITS](https://www.44bits.io/ko/post/managing-dotfiles-by-using-mackup)
 
 # Blog
-* [Node.js 기반 정적 페이지 블로그 엔진, 하루프레스](https://www.slideshare.net/rhio.kim/nodejs-15277380?next_slideshow=1)
+* [Node.js 기반 정적 페이지 블로그 엔진, 하루프레스](https://www.slideshare.net/rhio.kim/nodejs-15277380)
 * [Setting up your own blog](http://growthalytics.com/programming/2015/07/19/setting-up-your-own-blog/)
 * [웹페이지 만들기 1탄 Rpubs](https://mrchypark.github.io/post/r%EB%A1%9C%EB%82%98%EB%A7%8C%EC%9D%98-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [블로그/웹에서 소스코드 하이라이트/구문강조 사용하기](http://blog.gaerae.com/2015/09/google-code-prettify.html)
@@ -355,7 +355,7 @@ App
 * [Cross-platform with Chrome Apps - a Developer Diary](https://blog.whiteout.io/2015/05/09/cross-platform-with-chrome-apps-a-developer-diary/)
 * [EpubPress - Vue.js 한국어 문서 전자책으로 만들기](https://vuejs-kr.github.io/vue/epub/2017/05/10/introduce-generate-vue-book/)
 * [**one-tab.com**](https://www.one-tab.com/)
-* [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb/related?hl=en)
+* [Vimium](https://chrome.google.com/webstore/detail/vimium/dbepggeogbaibhgnhhndojpepiihcmeb/related)
 * [크롬 개발자 도구 다루기 #1편](http://tmondev.blog.me/221158360917)
 * [크롬 개발자 도구 다루기 #2편](http://tmondev.blog.me/221161341311)
 * [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
@@ -652,7 +652,7 @@ App
 * [pdfescape.com](http://www.pdfescape.com/) free online pdf editor
 * [PDF processor api & cli | pdfcpu](https://pdfcpu.io/) A PDF processor written in Go
 * [ProseMirror - A web-based WYSIWYM editor from the author of CodeMirror](http://prosemirror.net/)
-* [Thimble - an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript](https://thimble.mozilla.org/?)
+* [Thimble - an online code editor that makes it easy to create and publish your own web pages while learning HTML, CSS & JavaScript](https://thimble.mozilla.org/)
 * [Trix - A Rich Text Editor for Everyday Writing](https://github.com/basecamp/trix)
 * [typora](https://typora.io/)
   * [Typora 글꼴 변경하기](http://bundokim.tistory.com/43)
@@ -664,7 +664,7 @@ App
 * latex
   * [Free & Interactive Online Introduction to LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1)
   * [Scripts for Latex to HTML5 conversion](https://github.com/smarr/latex-to-html5)
-  * [온라인으로 쓰는 Latex, 오버리프(Overleaf)](http://www.clien.net/cs2/bbs/board.php?bo_table=useful&wr_id=248953&nowlogin=1&nowlogin=1&nowlogin=1)
+  * [온라인으로 쓰는 Latex, 오버리프(Overleaf) : 클리앙](https://www.clien.net/service/board/useful/8239796)
   * [kiss-latex-mindset - I looked around for some LaTeX framework but definitely that's not what I'd like](https://github.com/piotr-yuxuan/kiss-latex-mindset)
   * [LATEX BOILERPLATES PLAIN-TEXT DOCUMENT PRODUCTION SYSTEM](http://mrzool.cc/tex-boilerplates/)
   * ["HWP 수식을 LaTeX으로"…오픈소스 변환기 등장](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20161229092520)
@@ -763,7 +763,7 @@ App
   * [macOS 환경설정에서 Shift Space로 한영 전환하기](https://beomi.github.io/2017/07/03/Use-Shift-Space-for-Change-Language-on-macOS/)
   * [맥 OS 하이 시에라 한영키를 우측 커맨드로 변경하기](https://jojoldu.tistory.com/345)
 * [Become The Shortcut Master — The Mac and Terminal (Part 1)](https://hackernoon.com/become-the-shortcut-master-the-mac-and-terminal-part-1-80793d8df033)
-* [Eight Terminal Utilities Every OS X Command Line User Should Know](http://www.mitchchn.me/2014/os-x-terminal/?x)
+* [Eight Terminal Utilities Every OS X Command Line User Should Know](http://www.mitchchn.me/2014/os-x-terminal/)
 * [How I hacked my terminal so a happy whale would spout software quotes at me](https://codeburst.io/how-i-hacked-my-terminal-so-a-happy-whale-would-spout-software-quotes-at-me-6791e6c74fc6)
 * [macOS 초심자를 위한 터미널 공부 가이드 편안하고 즐거운 터미널 생활](https://johngrib.github.io/wiki/my-mac-os-terminal/)
 * [Impress Your Friends With These Fun and Useful Mac Terminal Commands | by Javascript Jeep🚙💨 | Better Programming | Medium](https://medium.com/better-programming/impress-your-friends-with-these-fun-and-useful-mac-terminal-commands-c091ec2a0024)
@@ -857,7 +857,7 @@ App
 * [LuLu - the free, open-source firewall](https://objective-see.com/products/lulu.html)
 * [MacJournal 7](https://danschimpf.com)
 * [mackup](https://github.com/lra/mackup)
-* [Magnet 마그넷](https://itunes.apple.com/kr/app/magnet-mageunes/id441258766?mt=12) spectacle 유사. 워크스페이스 정리. 유료
+* [Magnet 마그넷](https://itunes.apple.com/kr/app/magnet-mageunes/id441258766) spectacle 유사. 워크스페이스 정리. 유료
 * mc midnight commander
   * [맥에서 mc (Midnight Commander) 한글 깨지는 문제](http://mcchae.egloos.com/11287823)
 * [Mirror Displays](https://fabiancanas.com/open-source/mirror-displays)
@@ -979,7 +979,7 @@ App
   * split pane `cmd + d` (vertical) `cmd + shift + d` (horizontal)
     * [iTerm2 - Split vertically with current profile with same working directory](https://apple.stackexchange.com/questions/337377/iterm2-split-vertically-with-current-profile-with-same-working-directory)
   * [Shell Integration](https://iterm2.com/shell_integration.html)
-  * [iTerm2 v3의 Automatic Profile Switching](https://blog.outsider.ne.kr/1218?category=18)
+  * [iTerm2 v3의 Automatic Profile Switching](https://blog.outsider.ne.kr/1218)
   * [iTerm 개발환경 세팅](http://hjh5488.tistory.com/2)
   * [iTerm2 + Oh My Zsh + Solarized color scheme + Meslo powerline font (OS X / macOS)](https://gist.github.com/kevin-smets/8568070)
   * [Oh My ZSH+ iTerm2로 터미널을 더 강력하게](https://medium.com/harrythegreat/oh-my-zsh-iterm2%EB%A1%9C-%ED%84%B0%EB%AF%B8%EB%84%90%EC%9D%84-%EB%8D%94-%EA%B0%95%EB%A0%A5%ED%95%98%EA%B2%8C-a105f2c01bec)
@@ -1024,8 +1024,8 @@ App
   * ["백투더맥 블로그에 올라오는 GIF 짤방 동영상은 어떻게 만드나요?" 이렇게 만듭니다](http://macnews.tistory.com/2215)
   * [퀵타임 플레이어를 활용한 조금 색다른 iOS 스크린샷 촬영 방법](http://macnews.tistory.com/3519)
   * [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/) web에 upload하지 않으면 자체 형식이라 별도로 play해야 하는 듯
-  * [EasyRecorder](https://itunes.apple.com/kr/app/easyrecorder-screen-recorder/id663199114?mt=12)
-  * [GIF Brewery 3 - Video to GIF Creator](https://itunes.apple.com/kr/app/gif-brewery-3-video-to-gif/id1081413713?mt=12)
+  * [EasyRecorder](https://itunes.apple.com/kr/app/easyrecorder-screen-recorder/id663199114)
+  * [GIF Brewery 3 - Video to GIF Creator](https://itunes.apple.com/kr/app/gif-brewery-3-video-to-gif/id1081413713)
   * [GifGrabber - 화면 녹화에서 GIF 변환까지 한방에! 'GifGrabber'](http://macnews.tistory.com/1943)
   * [QuickCast - 화면 녹화와 공유를 원스톱으로 할 수 있는 심플한 스크린캐스트 앱 'QuickCast'](http://macnews.tistory.com/1952)
   * [Repeater - 키보드, 마우스 입력을 녹화하고 재생할 수 있는 매크로 프로그램 'Repeater'](http://macnews.tistory.com/1622)
@@ -1194,7 +1194,7 @@ App
   * ToDo 생성/알림 가능, 테마 변경 가능, pdf 내보내기 기능, vi/emacs 키보드 모드 지원
 * [nb: CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.](https://github.com/xwmx/nb)
 * [Nimbus Note - One place to manage all your information | knowledge base | tasks | projects | etc](https://nimbusweb.me/)
-  * [에버노트의 새로운 대안?이 될 수 있는 님부스 노트를 소개합니다. : 클리앙](https://www.clien.net/service/board/use/15793333?type=recommend)
+  * [에버노트의 새로운 대안?이 될 수 있는 님부스 노트를 소개합니다. : 클리앙](https://www.clien.net/service/board/use/15793333)
 * [notable: The Markdown-based note-taking app that doesn't suck.](https://github.com/notable/notable)
 * [notebooksapp.com](http://www.notebooksapp.com/)
 * [notion - All-in-one workspace](https://www.notion.so)
@@ -1304,7 +1304,7 @@ App
 * [hipstersound.com](http://hipstersound.com/)
 * [Noisli](https://www.noisli.com/)
   * [noisli chrome extension](https://chrome.google.com/webstore/detail/noisli/klejemegaoblahjdpcajmpcnjjmkmkkf)
-* [rain.today](http://rain.today/?)
+* [rain.today](http://rain.today/)
 * [Rainy Mood](https://rainymood.com/)
 
 # Window
@@ -1325,7 +1325,7 @@ App
 * [Active Window Logger - A simple MS-Windows (VB 2008) app to smartly log the currently active foreground window of the system](https://github.com/TheCodeArtist/Active-Window-Logger)
 * [Cairo - Transform your Windows desktop with Cairo](https://cairoshell.com/)
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://cmder.net/)
-* [DISKSPD - a storage load generator / performance test tool from the Windows/Windows Server and Cloud Server Infrastructure Engineering teams](https://github.com/microsoft/diskspd?s=09)
+* [DISKSPD - a storage load generator / performance test tool from the Windows/Windows Server and Cloud Server Infrastructure Engineering teams](https://github.com/microsoft/diskspd)
 * [Everything](https://www.voidtools.com)
 * [Fancy Zones](https://github.com/microsoft/PowerToys/blob/master/src/modules/fancyzones/README.md) spectacle처럼 윈도우에서 레이아웃 조정하는 앱
 * [GoodbyeDPI—Passive Deep Packet Inspection blocker and Active DPI circumvention utility (for Windows)](https://github.com/ValdikSS/GoodbyeDPI) 웹 차단 우회
@@ -1337,7 +1337,7 @@ App
 * [mimikatz를 이용하여 윈도우 계정 정보 알아내기 :: Secure my life](https://securitynote.tistory.com/28)
 * [MobaXterm - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more](http://mobaxterm.mobatek.net/)
 * [Ninite - Install and Update All Your Programs at Once](https://ninite.com/)
-* [NirCmd - a small command-line utility](http://www.nirsoft.net/utils/nircmd.html?2)
+* [NirCmd - a small command-line utility](http://www.nirsoft.net/utils/nircmd.html)
 * [PowerToys - Windows system utilities to maximize productivity](https://github.com/microsoft/PowerToys)
   * [Microsoft's new PowerToys Run launcher is like macOS's Spotlight for Windows 10](https://thenextweb.com/insider/2020/05/19/microsofts-new-powertoys-run-launcher-is-like-macoss-spotlight-for-windows-10/)
   * [“작지만 유용한 기능 모음” 윈도우 10의 새 파워토이 사용 가이드 - ITWorld Korea](http://www.itworld.co.kr/news/168665)
@@ -1390,7 +1390,7 @@ App
 * [윈도우 10(Windows 10) 2020년 5월 업데이트 릴리스 및 적용하기](https://www.44bits.io/ko/post/news--windows-2020-may-update-release)
 * [Windows 10에서 개발 환경 설정 | Microsoft Docs](https://docs.microsoft.com/ko-kr/windows/dev-environment/overview)
 * [Scott Hanselman's 2021 Ultimate Developer and Power Users Tool List for Windows - Scott Hanselman's Blog](https://www.hanselman.com/blog/scott-hanselmans-2021-ultimate-developer-and-power-users-tool-list-for-windows)
-  * [(12/27) 꼭 설치해야 할 윈도우 개발 지원 도구](https://www.youtube.com/watch?v=SQi8rn_TsKM&t=1261s)
+  * [(12/27) 꼭 설치해야 할 윈도우 개발 지원 도구](https://www.youtube.com/watch?v=SQi8rn_TsKM)
   * Startship, Winget, QuickLook, Insomnia, EarTrumpet, Ditto Clipboard Manager, PureText, Carnac
 * [**배치파일 기초 작성법 - snoopybox**](https://www.snoopybox.co.kr/1404)
 * [어느 위치에서 실행하든 경로를 유지하는 배치 파일 만들기. 이번 아티클은 작지만 확실히 유용한 팁 하나를 소개해볼까 합니다. 배치… | by Jung-Hyun Nam | Medium](https://medium.com/@rkttu/%EC%96%B4%EB%8A%90-%EC%9C%84%EC%B9%98%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%ED%95%98%EB%93%A0-%EA%B2%BD%EB%A1%9C%EB%A5%BC-%EC%9C%A0%EC%A7%80%ED%95%98%EB%8A%94-%EB%B0%B0%EC%B9%98-%ED%8C%8C%EC%9D%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-7b4cb07933d2)
@@ -1401,7 +1401,7 @@ App
   * [How To Install And Run Bash On Ubuntu On Windows 10 Right Now](http://fossbytes.com/install-run-bash-ubuntu-windows-10/)
   * [Windows 10에서 Bash Shell 사용하기](https://hsmtree.wordpress.com/2016/05/06/windows-10%EC%97%90%EC%84%9C-bash-shell-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
   * [How to Install and Use the Linux Bash Shell on Windows 10](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
-  * [윈도우 10 Bash 쉘 설치 및 간단사용기](http://www.clien.net/cs2/bbs/board.php?bo_table=use&wr_id=878097)
+  * [윈도우 10 Bash 쉘 설치 및 간단사용기 : 클리앙](https://www.clien.net/service/board/use/8999590)
   * [Windows 10 Bash 사용하기(lxrun)](http://sanghaklee.tistory.com/39)
   * [윈도우10 bash 설치, 제거 및 최신 배포판으로 업그레이드](http://blog.nadekon.net/59)
   * [Windows10에서 Bash 설치/삭제/업데이트 방법](http://blog.gaerae.com/2016/08/install-bash-windows-10.html)

@@ -194,7 +194,7 @@ Apache
   * 이 시스템은 Apache Flink와 Apache Kafka 기반으로 하는 셀프 서비스 인프라로 구축
   * Flink를 사용하는 이유와 구현과 운영에 대해 설명
 * [State TTL for Apache Flink: How to Limit the Lifetime of State](https://data-artisans.com/blog/state-ttl-for-apache-flink-how-to-limit-the-lifetime-of-state) Flink 1.6.0 TTL 지원
-* [Flink Forward Berlin 2018: Dongwon Kim - "Real-time driving score service using Flink"](https://www.slideshare.net/FlinkForward/flink-forward-berlin-2018-dongwon-kim-realtime-driving-score-service-using-flink?ref=https://data-artisans.com/flink-forward-berlin/resources/real-time-driving-score-service-using-flink)
+* [Flink Forward Berlin 2018: Dongwon Kim - "Real-time driving score service using Flink"](https://www.slideshare.net/FlinkForward/flink-forward-berlin-2018-dongwon-kim-realtime-driving-score-service-using-flink)
   * [Real-time driving score service using Flink](https://data-artisans.com/flink-forward-berlin/resources/real-time-driving-score-service-using-flink)
 * [Automatic Apache Flink deployments in Golang](https://medium.com/wbaa/flink-deployer-8c0db4c94fe4)
 * [Automating Flink Deployments to Kubernetes](https://data-artisans.com/flink-forward-berlin/resources/automating-flink-deployments-to-kubernetes)
@@ -955,7 +955,7 @@ Apache
   * [212 C3, 데이터 처리에서 서빙까지 가능한 하둡 클러스터](https://www.slideshare.net/deview/212c3-119161596)
 
 # Solr
-* [gooper.com/검색엔진-solr](http://www.gooper.com/ss/index.php?mid=bigdata&category=270441)
+* [gooper.com/검색엔진-solr](http://www.gooper.com/ss/index.php?mid=bigdata)
 
 # [Spot](http://spot.incubator.apache.org/) 네트워크 데이터를 분석하여 infosec 위협을 탐지하는데 사용
 * [Apache Spot (incubating) and Cloudera on AWS in 60 Minutes](http://blog.cloudera.com/blog/2018/02/apache-spot-incubating-and-cloudera-on-aws-in-60-minutes/)
