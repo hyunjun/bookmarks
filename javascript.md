@@ -1680,6 +1680,7 @@ Javascript
 * [Lerna · A tool for managing JavaScript projects with multiple packages](https://lerna.js.org/)
   * [FE개발자의 성장 스토리 03 : 카카오 어드민 UI 컴포넌트를 모노레포로 개발하여 얻은 것들 – tech.kakao.com](https://tech.kakao.com/2020/12/03/frontend-growth-03/)
   * [코딩 플레이그라운드 만들며 맛보는 요즘 FE 개발 환경 Part 1 · shiren the creator](https://blog.shiren.dev/2021-02-15/)
+  * [코딩 플레이그라운드 만들며 맛보는 요즘 FE 개발 환경 Part 2 · shiren the creator](https://blog.shiren.dev/2021-02-22/)
   * [Lerna와 Yarn workspaces를 활용한 패키지 관리 | by Yeongsu Han | 원티드 제품 팀블로그 | Feb, 2021 | Medium](https://medium.com/wantedjobs/lerna%EC%99%80-yarn-workspaces%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%8C%A8%ED%82%A4%EC%A7%80-%EA%B4%80%EB%A6%AC-429d2a685486)
 * [npmjs.com](https://www.npmjs.com/)
   * [모듈화와 npm(node package manager)](http://poiemaweb.com/nodejs-npm)
@@ -2708,6 +2709,7 @@ Javascript
 * [**프론트에서 안전하게 로그인 처리하기 (ft. React)**](https://velog.io/@yaytomato/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
 * [React Query로 서버 상태 관리하기 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-02-01T00:00:00.000Z)
 * [**최초 렌더링 속도 최적화**](https://woomin.netlify.app/Posts/2021-02-18-code-spliting/)
+* [100 days of react](https://dev.to/jwhubert91)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
