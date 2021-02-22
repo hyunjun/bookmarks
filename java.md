@@ -315,6 +315,7 @@ Java
 * [BIOJAVA:COOKBOOK4.0](http://biojava.org/wikis/BioJava:CookBook4.0/)
 * [Top 10 Java Books for Programmers — All time Great](https://medium.com/swlh/top-10-java-books-for-programmers-all-time-great-82b0ee0b831a)
 * [Must-read books to learn Java programming](https://medium.freecodecamp.org/must-read-books-to-learn-java-programming-327a3768ea2f)
+* [10 Best Spring Framework Books for Java Developers | by javinpaul | Javarevisited | Feb, 2021 | Medium](https://medium.com/javarevisited/10-best-spring-framework-books-for-java-developers-360284c37036)
 * [Seriously Good Software](https://www.manning.com/books/seriously-good-software)
   * [exercises in style — Bitbucket](https://bitbucket.org/mfaella/exercisesinstyle/src/master/)
 
