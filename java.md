@@ -451,6 +451,7 @@ Java
 * [인텔리J 단축키 잘 쓰는 방법](https://www.youtube.com/watch?v=0D-YYVfUxFM)
 * [IntelliJ 단축키](https://jybaek.tistory.com/834)
 * [Mac에서 IntelliJ CMD+SHIFT+A 눌렀을때 터미널이 켜지는 문제 해결](https://jojoldu.tistory.com/420)
+* [생산성을 높여주는 Intellij 꿀 명령어 정리 - YouTube](https://www.youtube.com/watch?v=0HQkGMJOxwo)
 * [IntelliJ에서 Eclipse 프로젝트 import 하기](https://medium.com/encored-technologies-engineering-data-science/intellij%EC%97%90%EC%84%9C-eclipse-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-import-%ED%95%98%EA%B8%B0-9e222b5548db)
 * [메이븐 프로젝트 이클립스나 인텔리J에 임포트하기](https://javacan.tistory.com/entry/import-maven-project)
 * [IntelliJ 2019.2 에서 Gradle로 run과 test가 실행될때](https://jojoldu.tistory.com/450)
@@ -1029,7 +1030,7 @@ Java
 * [BugJail - the new Java debugger that can. Windows, Mac and Linux. No cloud. Free to use during beta](https://bugjail.com/)
 
 ## Library GraphQL
-* [Open Sourcing the Netflix Domain Graph Service Framework: GraphQL for Spring Boot | by Netflix Technology Blog | Feb, 2021 | Netflix TechBlog](https://netflixtechblog.com/open-sourcing-the-netflix-domain-graph-service-framework-graphql-for-spring-boot-92b9dcecda18#gaerae.com)
+* [Open Sourcing the Netflix Domain Graph Service Framework: GraphQL for Spring Boot | by Netflix Technology Blog | Feb, 2021 | Netflix TechBlog](https://netflixtechblog.com/open-sourcing-the-netflix-domain-graph-service-framework-graphql-for-spring-boot-92b9dcecda18)
 * [graphql-java - GraphQL Java implementation](https://github.com/andimarek/graphql-java)
 
 ## Library Spring
@@ -1270,7 +1271,7 @@ Java
 * [JobParameter 활용 방법 (feat. LocalDate 파라미터 사용하기)](https://jojoldu.tistory.com/490)
 * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
 * [aop를 이용한 oauth2 캐시 적용하기](http://woowabros.github.io/experience/2019/03/05/aop-oauth2-redis.html)
-* [SpringBoot기반 Redis Cache 활용법](https://medium.com/@yongkyu.jang/%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EB%95%8C-%EB%B0%B1%EC%95%A4%EB%93%9C-%EC%98%81%EC%97%AD%EC%97%90%EC%84%9C-cache%EB%A5%BC-%EC%A0%81%EA%B7%B9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B2%8C-%EB%90%98%EB%A9%B4-%EC%83%9D%EA%B0%81%ED%96%88%EB%8D%98%EA%B2%83-%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EB%93%9C%EB%9D%BC%EB%A7%88%ED%8B%B1%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%EC%9D%84-%EA%B0%80%EC%A0%B8%EC%98%AC-%EC%88%98-%EC%9E%88%EB%8B%A4-%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%9C%EB%8B%A4-98ab99adfd69#link=gaerae.com://medium.com/@yongkyu.jang/%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EB%95%8C-%EB%B0%B1%EC%95%A4%EB%93%9C-%EC%98%81%EC%97%AD%EC%97%90%EC%84%9C-cache%EB%A5%BC-%EC%A0%81%EA%B7%B9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B2%8C-%EB%90%98%EB%A9%B4-%EC%83%9D%EA%B0%81%ED%96%88%EB%8D%98%EA%B2%83-%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EB%93%9C%EB%9D%BC%EB%A7%88%ED%8B%B1%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%EC%9D%84-%EA%B0%80%EC%A0%B8%EC%98%AC-%EC%88%98-%EC%9E%88%EB%8B%A4-%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%9C%EB%8B%A4-98ab99adfd69)
+* [SpringBoot기반 Redis Cache 활용법](https://medium.com/@yongkyu.jang/%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EB%95%8C-%EB%B0%B1%EC%95%A4%EB%93%9C-%EC%98%81%EC%97%AD%EC%97%90%EC%84%9C-cache%EB%A5%BC-%EC%A0%81%EA%B7%B9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B2%8C-%EB%90%98%EB%A9%B4-%EC%83%9D%EA%B0%81%ED%96%88%EB%8D%98%EA%B2%83-%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EB%93%9C%EB%9D%BC%EB%A7%88%ED%8B%B1%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%EC%9D%84-%EA%B0%80%EC%A0%B8%EC%98%AC-%EC%88%98-%EC%9E%88%EB%8B%A4-%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%9C%EB%8B%A4-98ab99adfd69)
 * [SpringBoot Data Redis 로컬/통합 테스트 환경 구축하기](http://jojoldu.tistory.com/297)
 * [코딩스타트 :: Spring boot - Redis를 이용한 HttpSession](https://coding-start.tistory.com/143)
 * [Redis 연결하기 #스프링부트 - YouTube](https://www.youtube.com/watch?v=kUNc2Fm4BKg)
@@ -1376,6 +1377,7 @@ Java
 * [🌱스프링 부트로 쉽게 배치 프로그램 만들기 - YouTube](https://www.youtube.com/watch?v=d-pGQRctmeY)
 * [⏳스프링 부트의 비동기 메소드 만들기 - YouTube](https://www.youtube.com/watch?v=CC7qxnLFkeU)
 * [🌱스프링 부트와 몽고DB #MongoDB #NoSQL - YouTube](https://www.youtube.com/watch?v=QeT3YB69OW0)
+* [❄️React.js와 스프링 부트 #1 - YouTube](https://www.youtube.com/watch?v=-7mQHubAfn4)
 * [spring boot 로컬에서 smtp mail 테스트하기 :: 삶의여행](https://life-journey.tistory.com/43)
 * [Source Code Examples](https://www.sourcecodeexamples.net/p/free-spring-boot-projects.html)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
