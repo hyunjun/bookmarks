@@ -766,6 +766,7 @@ Programming Books
 * (NOT YET) [독서광 쿠버네티스 패턴](https://jhrogue.blogspot.com/2020/05/blog-post.html)
   * [Kubernetes Patterns - Examples](https://github.com/k8spatterns/examples)
 * (NOT YET) [Container Security (컨테이너 보안)](https://jybaek.tistory.com/892)
+  * [류광의 번역 이야기 :: 번역서 "컨테이너 보안" 출간 소식](http://occamsrazr.net/tt/370)
 
 # Domain Driven Development DDD
 * [도메인 주도 설계(에릭에반스) -1](https://ash84.net/2017/06/04/domain-driven-development/)
