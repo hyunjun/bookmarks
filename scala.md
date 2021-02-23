@@ -1104,6 +1104,7 @@ Scala
     * [My Hakyll Blog - Threading best practices in Cats Effect](https://timwspence.github.io/blog/posts/2021-01-12-threading-best-practices-cats-effect.html)
     * [Intro to Cats-Effect (Gavin Bisesi) - YouTube](https://www.youtube.com/watch?v=83pXEdCpY4A)
     * [SF Scala: Essential Effects By Adam Rosien - YouTube](https://www.youtube.com/watch?v=9TR--8gAcZ8)
+    * [Typelevel.scala | Why Are Fibers Fast?](https://typelevel.org/blog/2021/02/21/fibers-fast-mkay.html)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
     * [Retry Failing Tasks with Cats and Scala - Alexandru Nedelcu](https://alexn.org/blog/2020/08/03/on-error-retry-loop.html)
