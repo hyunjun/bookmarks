@@ -304,6 +304,8 @@ PyTorch
 * [hyperband - Hyperparameter Optimization for PyTorch](https://github.com/kevinzakka/hyperband)
 * [hyperlearn - Faster, Leaner GPU Sklearn, Statsmodels written in PyTorch](https://www.techleer.com/articles/568-presenting-a-modern-big-data-algorithm-hyperlearn-50-faster-machine-learning)
 * [Joey NMT framework - developed for educational purposes](https://github.com/joeynmt/joeynmt)
+* [kindle: No code PyTorch model generation package](https://github.com/JeiKeiLim/kindle)
+  * 사용 방법은 YOLOv5 에서 모델을 만드는 방법과 거의 동일. yaml 파일로 모델 설정
 * [kornia - Open Source Differentiable Computer Vision Library for PyTorch https://kornia.org ](https://github.com/arraiyopensource/kornia)
 * [LabML Neural Networks](https://nn.labml.ai/)
 * [learn2learn - PyTorch Meta-learning Framework for Researchers http://learn2learn.net ](https://github.com/learnables/learn2learn)
