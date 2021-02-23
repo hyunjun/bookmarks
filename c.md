@@ -175,7 +175,6 @@ C
 * [The International Obfuscated C Code Contest](https://www.ioccc.org/2020/carlini/index.html)
 * [Fun with conversion-operator name lookup – Arthur O'Dwyer – Stuff mostly about C++](https://quuxplusone.github.io/blog/2021/01/13/conversion-operator-lookup/)
 * [함수 오버로딩 : 클리앙](https://www.clien.net/service/board/lecture/15118190)
-* [헤더(header) 파일이란? 헤더 파일 개념 정리 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/programming/c-header/)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
