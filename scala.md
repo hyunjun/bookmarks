@@ -1997,3 +1997,4 @@ Scala
 * [scala-tutorials](https://github.com/Baeldung/scala-tutorials)
 * [Let’s Code Real World App Using Purely Functional Techniques (in Scala) - YouTube](https://www.youtube.com/watch?v=m40YOZr1nxQ)
 * [01: Scala Functional Programming basics - pure functions, referential transparency, side effects, etc | Java-Success.com](https://www.java-success.com/01-scala-functional-programming-basics-pure-functions-referential-transparency-side-effects-etc/)
+* [Scala First: Lessons from 3 student generations | Bjorn Regnell, Lund Univ., Sweden. | 12.06.2019 at 11:17 | Part of Scala Days 2019 | Swiss Tech Convention Center, EPFL, Lausanne](https://portal.klewel.com/watch/webcast/scala-days-2019/talk/10/)
