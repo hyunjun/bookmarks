@@ -2452,6 +2452,7 @@ Python
 * [9 things you did not know about jupyter notebook | by Magdalena Konkiewicz | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3)
 * [Top 8 magic commands in Jupyter Notebook | by Magdalena Konkiewicz | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/top-8-magic-commands-in-jupyter-notebook-c1582e813560)
 * [An SQL solution for Jupyter. xeus-sql: A xeus-sqlite sequel | by Mariana Meireles | Feb, 2021 | Jupyter Blog](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925)
+* [BayPiggies July 2020 - "Notebooks Night" - YouTube](https://www.youtube.com/watch?v=8WnCWdbpIPU)
 
 ## Jupyter Library
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
