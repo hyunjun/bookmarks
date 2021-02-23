@@ -247,6 +247,7 @@ Business
 * [신년기념, 도그냥 무료 인강 풉니다](https://brunch.co.kr/@windydog/415)
 * [서비스기획자가 UI,UX만큼 공부해야 하는 것](https://brunch.co.kr/@windydog/413)
 * [토이리즘 SP표로 분석한 '클럽하우스'의 인기요인](https://brunch.co.kr/@windydog/431) 기획자의 서비스 분석
+* [휴대전화번호가 최악의 회원가입 수단인 이유: 클럽하우스 사례](https://gilhwan.com/entry/%ED%9C%B4%EB%8C%80%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80-%EC%B5%9C%EC%95%85%EC%9D%98-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EC%88%98%EB%8B%A8%EC%9D%B8-%EC%9D%B4%EC%9C%A0)
 * [닌텐도는 어떻게 기술을 활용하는가](https://brunch.co.kr/@lunarshore/389)
 * [HBR 독후감 스티치픽스 CEO, 개인의 스타일을 대중에게 파는 법外](https://www.popit.kr/hbr-%EB%8F%85%ED%9B%84%EA%B0%90-%EC%8A%A4%ED%8B%B0%EC%B9%98%ED%94%BD%EC%8A%A4-ceo-%EA%B0%9C%EC%9D%B8%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84-%EB%8C%80%EC%A4%91%EC%97%90%EA%B2%8C-%ED%8C%8C/)
 * [CPO, Product Team이 뭐죠?](https://arload.wordpress.com/2018/09/09/cpo_productteam/)
