@@ -228,6 +228,7 @@ Git
 # Command
 * [**Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)**](https://github.com/mingrammer/git-tips)
 * [Git 명령어 정리](https://medium.com/@joongwon/git-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-c25b421ecdbd)
+* [practice - Git command overview](https://gist.github.com/hyunjun/02f945830bda15267f90762c8763a759#gistcomment-3642143)
 * [**Oh shit, git!**](http://ohshitgit.com/) 실수했을 때 case별 대처법
 * [내 시간을 절약하는 소중한 git 명령어들](http://sunphiz.me/wp/archives/2558)
 * [Now that you’re not afraid of GIT anymore, here’s how to leverage what you know](https://medium.freecodecamp.org/now-that-youre-not-afraid-of-git-anymore-here-s-how-to-leverage-what-you-know-11e710c7f37b)
