@@ -837,6 +837,10 @@ Scala
       * [fibers.md](https://gist.github.com/djspiewak/d9930891d419c26fac1d58b5274f45ba)
     * gRPC [Functional, Type-safe, Testable Microservices with ZIO gRPC - YouTube](https://www.youtube.com/watch?v=XTkhxRTH1nE)
     * ZIO-AWS [ZIO-AWS with ZIO Query](https://vigoo.github.io/posts/2020-11-01-zioaws-zioquery.html)
+    * zio-config
+      * [Part 1: Start writing better Scala with zio-config - YouTube](https://www.youtube.com/watch?v=l5CVQmSp7fY)
+      * [Part2: Maximise the use of Scala types (Option & Either in zio-config) - YouTube](https://www.youtube.com/watch?v=SusCbrSK5eA)
+      * [Part3: Intro to ADT, and scalable configuration management! - YouTube](https://www.youtube.com/watch?v=LGo_g1GK6_k)
     * [zio-json: Fast, secure JSON library with tight ZIO integration](https://github.com/zio/zio-json/)
     * zio-prelude [What's Ap with zio-prelude?](https://justinhj.github.io/2020/08/02/whats-ap-with-zio-prelude.html)
     * [zio-properties: A ZIO alternative to Spring Properties](https://adrianfilip.com/2020/05/03/zio-properties-a-zio-alternative-to-spring-properties/)
