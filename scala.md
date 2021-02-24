@@ -581,6 +581,7 @@ Scala
 * [Scala Filesystem Operations (paths, move, copy, list, delete) - MungingData](https://mungingdata.com/scala/filesystem-paths-move-copy-list-delete-folders/)
 * [Objects and Companions in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=OI3F_fuFYjg)
 * [01A: Scala Class Vs. Object and Companion object interview Q&As | Java-Success.com](https://www.java-success.com/01a-scala-class-vs-object-and-companion-object-interview-qas/)
+* [Value Classes in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=xf3i4ZjrNs0)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
