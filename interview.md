@@ -198,6 +198,7 @@ Interview
 * [누구나 원하는 개발자되기 · shiren the creator](https://blog.shiren.dev/2020-11-23/)
 * [Blind Date: The Reality of Software Engineers Hiring Process | by Ofer Karp | Dec, 2020 | Level Up Coding](https://levelup.gitconnected.com/blind-date-the-reality-of-software-engineers-hiring-process-f89754b5a1d4)
 * [How to hire senior developers: Give them more autonomy - Hiring Engineers](https://hiringengineersbook.com/post/autonomy/)
+* [Choosing from multiple Java job offers](https://www.java-success.com/choosing-multiple-job-offers/)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
@@ -361,6 +362,7 @@ Interview
     * [LINE Storage: Storing billions of rows in Sharded-Redis and HBase per Month](https://engineering.linecorp.com/en/blog/line-storage-storing-billions-of-rows-in-sharded-redis-and-hbase/)
     * [Follow 관계를 DB에서 설계하는 방법](https://developer88.tistory.com/328)
     * [**Analyzing Clubhouse for fun and profit – 0x90**](https://www.bpak.org/blog/2021/02/analyzing-clubhouse-for-fun-and-profit/) 시의적절한 클럽하우스 분석
+      * [Analyzing Clubhouse for fun and profit | Theori](https://theori.io/research/korean/analyzing-clubhouse/)
       * [Agora - Clubhouse Is Just One Of The Possibilities (NASDAQ:API) | Seeking Alpha](https://seekingalpha.com/article/4403413-agora-clubhouse-is-just-one-of-possibilities)
     * Instagram
       * [Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)
