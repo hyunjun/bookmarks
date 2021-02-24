@@ -263,6 +263,7 @@ Clojure
 * [**clojure-dsl-resources: A curated list of Clojure resources for dealing with domain-specific languages**](https://github.com/simongray/clojure-dsl-resources)
 * [Graph visualization playground with Cytoscape. | Yehonathan Sharvit](https://blog.klipse.tech/visualization/2021/02/16/graph-playground-cytoscape.html)
 * [Atabey Kaygun — Calculating Vertex Covers in Clojure](https://kaygun.tumblr.com/post/643590629046288384/calculating-vertex-covers-in-clojure)
+* [Using VS Code Calva extension to run & validate the Clojure project code. - YouTube](https://www.youtube.com/watch?v=oYqxbKufTQM)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
