@@ -1146,6 +1146,7 @@ Javascript
 * [Why not use GraphQL? | wundergraph](https://wundergraph.com/blog/why_not_use_graphql)
 * [코드 한줄도 안쓰고 GraphQL/REST API 만들기! - YouTube](https://www.youtube.com/watch?v=AGnrODF7CLc)
 * [A Guide to GraphQL Errors | Production Ready GraphQL | Blog](https://productionreadygraphql.com/2020-08-01-guide-to-graphql-errors)
+* [운명의 Devs 클래스101에서 GraphQL을 쓰는 법(서버 편) - 조이 - YouTube](https://www.youtube.com/watch?v=rre1iQfbo7M)
 * [xgenecloud: Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)](https://github.com/xgenecloud/xgenecloud)
 
 # Gulp
