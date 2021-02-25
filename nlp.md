@@ -821,6 +821,7 @@ NLP
 * [DeepMind x UCL | Deep Learning Lectures | 7/12 | Deep Learning for Natural Language Processing - YouTube](https://www.youtube.com/watch?v=8zAP2qWAsKg)
 * [9 Best Tensorflow Courses & Certifications Online- Discover the Best One!](https://www.mltut.com/best-tensorflow-courses-certifications-online/)
 * [NLP Course | For You](https://lena-voita.github.io/nlp_course.html) word embeddings, text classification, language modeling, seq2seq and attention
+* [Best Natural Language Processing Courses Online in 2021-UPDATED](https://www.mltut.com/best-natural-language-processing-courses-online-to-become-expert/)
 
 # Data
 * [Justin J. Nguyen: Exposing Dark Data in the enterprise with custom NLP | PyData Miami 2019](https://www.youtube.com/watch?v=iFgNcBahUAE)
