@@ -329,6 +329,7 @@ NoSQL
   * [Java 환경에서 기본 패턴의 캐시 적용을 돕는 ARCUS 공통 모듈 | by Hyeong Jun Yun | JaM2in | Nov, 2020 | Medium](https://medium.com/jam2in/java-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EA%B8%B0%EB%B3%B8-%ED%8C%A8%ED%84%B4%EC%9D%98-%EC%BA%90%EC%8B%9C-%EC%A0%81%EC%9A%A9%EC%9D%84-%EB%8F%95%EB%8A%94-arcus-%EA%B3%B5%ED%86%B5-%EB%AA%A8%EB%93%88-672ae54c32ce)
   * [ARCUS에서 데이터 영구 보존을 위한 Persistence 기능의 개요와 사용법 | by JaM2in | Dec, 2020 | Medium](https://jam2in.medium.com/arcus%EC%97%90%EC%84%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%98%81%EA%B5%AC-%EB%B3%B4%EC%A1%B4%EC%9D%84-%EC%9C%84%ED%95%9C-persistence-%EA%B8%B0%EB%8A%A5%EC%9D%98-%EA%B0%9C%EC%9A%94%EC%99%80-%EC%82%AC%EC%9A%A9%EB%B2%95-a7c03d6d1e14)
   * [ARCUS 데이터 분산 저장 정책. 서비스 운영중에 부하가 집중되어 성능에 문제가 발생할 때 이를 해결하기… | by minki kim | JaM2in | Jan, 2021 | Medium](https://medium.com/jam2in/arcus-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%82%B0-%EC%A0%80%EC%9E%A5-%EC%A0%95%EC%B1%85-25f0a5d44a9b)
+  * [ARCUS 응용이 가진 캐시 대상 API 목록의 동적 변경 및 관리 기능 | JaM2in](https://medium.com/jam2in/arcus-cache-target-85419f8ca285)
   * [hibernate-arcus: Hibernate 2nd cache implementation using Arcus cache](https://github.com/Kims-DeveloperGroup/hibernate-arcus)
     * 네이버에서 개발한 memcached 기반의 '아커스' 를 활용하는 2차 캐쉬 구현체
 * [libmc - Fast and light-weight memcached client for C++/Python https://pypi.python.org/pypi/libmc ](https://github.com/douban/libmc)
