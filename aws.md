@@ -757,6 +757,7 @@ AWS
 * [Intro to Node on AWS Lambda for S3 and Kinesis](http://eng.localytics.com/taming-aws-lambda-for-s3-and-kinesis-at-localytics/)
 * [AWS kinesis Firehose 실습 및 예제 코드(Java), 장단점, 추천](https://blog.voidmainvoid.net/295)
 * [API Gateway 로 Kinesis 를 위한 HTTP Proxy 만들기](https://chang12.github.io/api-gateway-kinesis-proxy/)
+* [AWS Lambda 사용하는 방법 # Gateway와 연동](https://developer88.tistory.com/339)
 * [Lambda@Edge와 CF Invalidation](https://brunch.co.kr/@alden/52)
 * [4Steps Set up AWS Lambda with githiub and travisCI](https://hackernoon.com/nodejs-4steps-set-up-aws-lambda-with-githiub-and-travisci-tutorial-example-sample-repository-repo-help-cdci-6e55d539f04)
 * [AWS SNS(Simple Notification Service)로 Serverless Email 알림 서비스 구축하기](https://medium.com/@rabter/aws-sns-simple-notification-service-%EB%A1%9C-serverless-email-%EC%95%8C%EB%A6%BC-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-ae5536130562)
