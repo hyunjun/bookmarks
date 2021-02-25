@@ -125,6 +125,7 @@ History
   * [국군 수뇌부에서 암약(暗躍)한 북한 간첩?](http://www.huffingtonpost.kr/bawerk/story_b_8387328.html)
 * [이완용 집에서 벌어진 '간첩사건'의 실체](http://media.daum.net/life/outdoor/travel/newsview?newsId=20160815145518566&RIGHT_LIFE=R10)
 * [日극우재단 자금 받는 뉴라이트와 한국교수](http://theimpeter.com/32931/)
+* [26년생 김희숙, 26년생 김종필 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=a0002451712)
 
 ## 광주 민주화 운동
 * [5·18 당시 한 여고생의 일기](http://www.huffingtonpost.kr/2015/05/13/story_n_7271168.html)
