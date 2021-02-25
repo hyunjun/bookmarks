@@ -337,6 +337,7 @@ R
 * [**텍스트 분석을 통한 프로듀스X101 데뷔조 예측**](https://montewood.github.io/ProduceX101/) 데이터 수집부터 분석을 통한 결론까지 모든 과정
 * [웹에서 하는 R통계 - 표만들기 - YouTube](https://www.youtube.com/watch?v=89UMLiSnhvI)
 * [웹에서 하는 R통계 : P값이란 무엇인가? - YouTube](https://www.youtube.com/watch?v=BBBrb3KIxnc)
+* [제1종오류, 제2종오류, 샘플수, 다중검정문제 - YouTube](https://www.youtube.com/watch?v=W8TuCuf7iHg)
 
 # API
 * [REX: Look around – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2229)
