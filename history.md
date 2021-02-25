@@ -279,6 +279,8 @@ History
 
 ## Etiopia
 * [Dazzling jewels from an Ethiopian grave reveal 2,000-year-old link to Rome](http://www.theguardian.com/world/2015/jun/07/ancient-ethiopia-gravesite-treasure-rome)
+* [현대 에티오피아의 아버지, ‘군신’ 메넬리크 2세 | 슬로우뉴스](https://slownews.kr/79613)
+* [셀라시에, 타락한 계몽군주의 처참한 최후 | 슬로우뉴스](https://slownews.kr/79709)
 
 ## South Africa
 * [이주노동이라는 불안이 퍼트리는 HIV](http://slownews.kr/40696)
