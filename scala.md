@@ -581,7 +581,6 @@ Scala
 * [Scala Filesystem Operations (paths, move, copy, list, delete) - MungingData](https://mungingdata.com/scala/filesystem-paths-move-copy-list-delete-folders/)
 * [Objects and Companions in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=OI3F_fuFYjg)
 * [01A: Scala Class Vs. Object and Companion object interview Q&As | Java-Success.com](https://www.java-success.com/01a-scala-class-vs-object-and-companion-object-interview-qas/)
-* [Value Classes in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=xf3i4ZjrNs0)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -673,6 +672,7 @@ Scala
   * [How to compose Future and Option in Scala – Loïc's Blog](https://loicdescotte.github.io/posts/scala-compose-option-future/)
   * [Scala Concurrency Advice: For Future Fun Fold On A FlatMap | by Bryan Bunch | Medium](https://medium.com/@brybunch/scala-concurrency-advice-for-future-fun-fold-on-a-flatmap-a06f37fdd498)
   * [Why Shouldn’t You Use Future\[Unit\] as a Return Type in a Scala Program | by Vigneshwaran Raveendran | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/why-shouldnt-you-use-future-unit-as-a-return-type-in-a-scala-program-a4c58f95b343)
+  * [Implementing a CountDownLatch (async and dirty) - Alexandru Nedelcu](https://alexn.org/blog/2021/02/22/countdownlatch-async-dirty.html)
 * Implicit
   * [practice - implicit parameter](https://gist.github.com/hyunjun/be0a11583dfcb41f4273e5957e1c8022#file-implicit_parameter-scala)
   * [IMPLICIT PARAMETERS](https://docs.scala-lang.org/tour/implicit-parameters.html)
@@ -830,6 +830,7 @@ Scala
     * [How to Use Thread.sleep Without Blocking on the JVM](https://www.freecodecamp.org/news/non-blocking-thread-sleep-on-jvm/) thread.sleep, project loom, ScheduledExecutorService, zio.sleep
     * [Scale By The Bay 2020: Leo Benkel, Enhancing Spark's Power with ZIO - YouTube](https://www.youtube.com/watch?v=OW0ggALNtSE)
     * [Scale By The Bay 2020: Salar Rahmanian, Acting Lessons for Scala Engineers with Akka and ZIO - YouTube](https://www.youtube.com/watch?v=AQXBlbkf9wc)
+    * [The Coralogix Operator: A Tale of ZIO and Kubernetes – Coralogix](https://coralogix.com/log-analytics-blog/the-coralogix-operator-a-tale-of-zio-and-kubernetes/)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1095,6 +1096,7 @@ Scala
   * [Managing Database Migrations in Scala - Alexandru Nedelcu](https://alexn.org/blog/2020/11/15/managing-database-migrations-scala.html) MySQL
   * [Scala Cats Contravariant Functors | by Krzysztof Grajek | Feb, 2021 | SoftwareMill Tech Blog](https://blog.softwaremill.com/scala-cats-contravariant-functors-2af1141c5956)
   * [Pure Functional Stream processing in Scala: Cats and Akka – Part 1 – Mihai Safta](https://www.mihaisafta.com/blog/2021/02/06/pure-functional-stream-processing-in-scala-cats-and-akka-part-1/)
+  * [Pure Functional Stream processing in Scala: Cats and Akka – Part 2 - Mihai Safta](https://www.mihaisafta.com/blog/2021/02/14/pure-functional-stream-processing-in-scala-cats-and-akka-part-2/)
   * [Cats Effect: Home](https://typelevel.org/cats-effect/)
     * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
     * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
@@ -1117,6 +1119,8 @@ Scala
   * Semigroup [Kittens High on Catnip - Squeaky Clean Type Class Derivation in Scala | by Kiril Yurovnik | Riskified Technology | Jan, 2021 | Medium](https://medium.com/riskified-technology/kittens-high-on-catnip-squeaky-clean-type-class-derivation-in-scala-395eba3c0f4e)
 * [Chimney - Scala library for boilerplate-free data transformations](https://scalalandio.github.io/chimney/)
   * [Data Juggling - Part 1 - Getting Started with #Chimney](https://www.youtube.com/watch?v=ezz0BpEHEQY)
+* [com-lihaoyi](https://github.com/com-lihaoyi)
+  * [Introducing the com-lihaoyi Github Organization](https://www.lihaoyi.com/post/IntroducingthecomlihaoyiGithubOrganization.html)
 * [config - configuration library for JVM languages using HOCON files](https://github.com/lightbend/config)
   * [Data Juggling - Part 9 - Tame Your Twelve-Factor App's Config (Lightbend Config - Part 1)](https://www.youtube.com/watch?v=uQUimiHsLCw)
   * [Data Juggling - Part 10 - Tame Your Twelve-Factor App's Config (Lightbend Config - Part 2)](https://www.youtube.com/watch?v=NlOKF4RJELo)
@@ -1910,6 +1914,8 @@ Scala
   * [Newtype](https://francistoth.github.io/2020/04/11/newtypes.html)
   * [NewType is New Now!](https://medium.com/@afsal.taj06/newtype-is-new-now-63f1b632429d)
   * [A simple trick to improve type safety of your Scala code](https://blog.softwaremill.com/a-simple-trick-to-improve-type-safety-of-your-scala-code-ba80559ca092)
+  * [Value Classes in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=xf3i4ZjrNs0)
+  * [Value Classes in Scala - Rock the JVM Blog](https://blog.rockthejvm.com/value-classes/)
 * [simulacrum - First class syntax support for type classes in Scala](https://github.com/typelevel/simulacrum)
 
 # Tutorial
