@@ -826,7 +826,8 @@ Python
   * [What’s __init__ for me?. Designing for Python package import… | by Jacob Deppen | Towards Data Science](https://towardsdatascience.com/whats-init-for-me-d70a312da583)
   * [What is `__main__.py`?](https://stackoverflow.com/questions/4042905/what-is-main-py)
 * intern
-  * [파이썬의 효과적인 메모리 재활용 방법 - Interning](https://nephtyws.github.io/python/interning)
+  * [**파이썬의 효과적인 메모리 재활용 방법 - Interning**](https://nephtyws.github.io/python/interning)
+  * [Two variables in Python have same id, but not lists or tuples - Javaer101](https://www.javaer101.com/en/article/919136.html)
 * io
   * [Python StringIO and BytesIO Compared With Open() | by Siddharth Kshirsagar | The Startup | Medium](https://medium.com/swlh/python-stringio-and-bytesio-compared-with-open-c0e99b9def31)
 * isinstance
