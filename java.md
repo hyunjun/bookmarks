@@ -1383,6 +1383,7 @@ Java
 * [❄️스프링 부트와 React.js #1-1 스프링 부트 REST Data 기본세팅 - YouTube](https://www.youtube.com/watch?v=LAxaEBELods)
 * [❄️스프링 부트와 React.js #1-2 React.js 기본 - YouTube](https://www.youtube.com/watch?v=5b2Vn4kb22U)
 * [❄️스프링 부트와 React.js #2-1 Hypermedia 제어 - YouTube](https://www.youtube.com/watch?v=fpJqx3j9p98)
+* [❄️스프링 부트와 React.js #2-2 트래킹 Hypermedia 제어 - YouTube](https://www.youtube.com/watch?v=hMUJzrxvl8g)
 * [spring boot 로컬에서 smtp mail 테스트하기 :: 삶의여행](https://life-journey.tistory.com/43)
 * [Source Code Examples](https://www.sourcecodeexamples.net/p/free-spring-boot-projects.html)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
