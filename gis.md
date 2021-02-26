@@ -14,6 +14,10 @@ GIS
 * [공시지가 - 전국 모든 땅의 가격은 얼마나 높고 낮은가?](https://www.vw-lab.com/76?category=787869)
 * [Anton Balazh의 스톡 사진 및 이미지 포트폴리오](https://www.shutterstock.com/ko/g/antartis) 지형 고저차가 반영된 지구 이미지(개발x)
 * [주소 인식을 위한 삽질의 기록. 당신의 안전을 위해서라면 뭐든지 할 거예요. 그게 삽질이라도… | by Kyoungwon Lee | 당근마켓 팀블로그 | Jul, 2020 | Medium](https://medium.com/daangn/%EC%A3%BC%EC%86%8C-%EC%9D%B8%EC%8B%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%82%BD%EC%A7%88%EC%9D%98-%EA%B8%B0%EB%A1%9D-df2d8f82d25) 정규식
+* [GeoNames](http://www.geonames.org/)
+* [IP타겟팅 API](http://www.apistore.co.kr/api/apiView.do?service_seq=329)
+* [GOOGLE MAPS’S MOAT - How far ahead of Apple Maps is Google Maps?](https://www.justinobeirne.com/google-maps-moat)
+* [Alexander Müller - Spatial Range Queries Using Python In-Memory Indices](https://www.youtube.com/watch?v=_95bSEqMzUA)
 
 # Javascript
 * [네이버 지도 JavaScript API 완벽 가이드 – 투영, 지도 유형 편](http://d2.naver.com/helloworld/9121395)
@@ -21,6 +25,7 @@ GIS
 * [GeoTIFF Coordinate Querying with JavaScript | by Thomas Horner | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/geotiff-coordinate-querying-with-javascript-5e6caaaf88cf)
 * [An introduction into Deck.gl. Deck.gl is an open-source data… | by Ugur Ertas | Weekly Webtips | Medium](https://medium.com/weekly-webtips/an-introduction-into-deck-gl-f5c8ae84d9a5)
 * [Leaflet Map Routing JavaScript App - YouTube](https://www.youtube.com/watch?v=F8dnYNTncoU)
+* [Geo3x3: geo zone encoding, serialize latitude and longitude](https://github.com/taisukef/Geo3x3)
 
 # PostGIS
 * [POSTGIS 2.2 LEVERAGING POWER OF POSTGRESQL 9.5](http://www.postgresonline.com/journal/archives/350-PostGIS-2.2-leveraging-power-of-PostgreSQL-9.5.html)
@@ -48,6 +53,7 @@ GIS
 * [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
   * [You Might Not Need QGIS](http://blog.webkid.io/you-might-not-need-qgis/)
 * [pydeck: Large-scale interactive data visualization in Python](https://github.com/uber/deck.gl/tree/master/bindings/python/pydeck)
+* [python-geoip](https://pythonhosted.org/python-geoip/)
 
 # R
 * [R WSL에서 rgdal 패키지 설치 및 좌표 변환 사용해보기 - 미완성의신](https://unfinishedgod.netlify.app/2020/12/14/r-wsl%EC%97%90%EC%84%9C-rgdal-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%A2%8C%ED%91%9C-%EB%B3%80%ED%99%98-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0/)

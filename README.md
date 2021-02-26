@@ -66,7 +66,6 @@ bookmarks
     * [vim](vim.md)
   * [elasticsearch & lucene](elasticsearch_lucene.md)
   * [game](game.md)
-  * [geography](geography.md)
   * [gis](gis.md)
   * [git](git.md)
   * [graph](graph.md)
