@@ -455,6 +455,7 @@ App
 * postman
   * [practice - test 예제](https://github.com/hyunjun/practice_private/blob/master/project-scala-restful-api-with-mysql-mvl-assignment/test.postman_collection.json)
     * [Expect / Should - Chai](https://www.chaijs.com/api/bdd/) postman에 직접 관련된 건 아니지만 postman test 작성시 문법 참고
+  * [practice - newman(local, docker)](https://gist.github.com/hyunjun/92ef692157acfc7660b45f063e734afa#file-newman-md)
   * [Test script examples | Postman Learning Center](https://learning.postman.com/docs/writing-scripts/script-references/test-examples/)
   * [All-Things-Postman/Examples](https://github.com/DannyDainton/All-Things-Postman/tree/master/Examples)
   * [Command line integration with Newman](https://learning.getpostman.com/docs/postman/collection_runs/command_line_integration_with_newman/)
