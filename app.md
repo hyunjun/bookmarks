@@ -1396,6 +1396,7 @@ App
 * [**배치파일 기초 작성법 - snoopybox**](https://www.snoopybox.co.kr/1404)
 * [어느 위치에서 실행하든 경로를 유지하는 배치 파일 만들기. 이번 아티클은 작지만 확실히 유용한 팁 하나를 소개해볼까 합니다. 배치… | by Jung-Hyun Nam | Medium](https://medium.com/@rkttu/%EC%96%B4%EB%8A%90-%EC%9C%84%EC%B9%98%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%ED%95%98%EB%93%A0-%EA%B2%BD%EB%A1%9C%EB%A5%BC-%EC%9C%A0%EC%A7%80%ED%95%98%EB%8A%94-%EB%B0%B0%EC%B9%98-%ED%8C%8C%EC%9D%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-7b4cb07933d2)
 * [Creating my awesome Windows 10 dev setup | Chimerical](https://chimerical.ca/posts/creating-my-awesome-windows-10-dev-setup)
+* [This is Why Developers Embrace Microsoft Windows Again | by Erik van Baaren | Level Up Coding](https://levelup.gitconnected.com/this-is-why-developers-will-embrace-microsoft-windows-again-7437e494159d)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
