@@ -95,7 +95,7 @@ SQL
   * [(즐겁게 배우는 SQL #48) 트리거 - INSTEAD OF 트리거](https://jhrogue.blogspot.com/2021/02/sql-48-instead-of.html)
   * [(즐겁게 배우는 SQL #49) 윈도우 함수 - 윈도우 함수(1)](https://jhrogue.blogspot.com/2021/02/sql-49-1.html)
   * [(즐겁게 배우는 SQL #50) 윈도우 함수 - 윈도우 함수(2)](https://jhrogue.blogspot.com/2021/02/sql-50-2.html)
-* [지금까지 겪은 DB에 하지 말아야 할 짓](https://velog.io/@juunini/%EC%A7%80%EA%B8%88%EA%B9%8C%EC%A7%80-%EA%B2%AA%EC%9D%80-DB%EC%97%90-%ED%95%98%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-%EC%A7%93)
+* [DB에 하지 말아야 할 겪은 일들](https://velog.io/@juunini/DB%EC%97%90-%ED%95%98%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-%EA%B2%AA%EC%9D%80-%EC%9D%BC%EB%93%A4)
 * [고독쓰나미 - YouTube](https://www.youtube.com/channel/UClUrjhtzmAJL-sgXe6sNUkw)
 * [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
 * [EDB is a framework to make and manage backups of your database](https://github.com/RoxasShadow/EDB)
