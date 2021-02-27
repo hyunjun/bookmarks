@@ -752,6 +752,7 @@ Programming
 * [Financial Times의 데이터플랫폼 구축기 | GeekNews](https://news.hada.io/topic?id=3416)
 * [안심번호(050) 시스템 #1 - 시스템 구축 스토리 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/12/30/050system_introduction.html)
 * [How I scaled a software system's performance by 35,000% | by Joseph Gefroh | The Startup](https://medium.com/swlh/how-i-scaled-a-software-systems-performance-by-35-000-6dacd63732df)
+* [The Evolution of Precomputation Technology and its Role in Data Analytics](https://www.infoq.com/articles/evolution-precomputation-technology-data-analytics/)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -2062,6 +2063,8 @@ Programming
   * [1월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/01/b-1-4.html)
   * [2월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/02/b-2-1.html)
   * [2월 2주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/02/b-2-2.html)
+  * [2월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/02/b-2-3.html)
+  * [2월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/02/b-2-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -2297,6 +2300,7 @@ Programming
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
 * [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
+* [2020.09 둘째 주 End-And 한 주간의 주요 내용 정리 : #배경제거툴 #GPT-3 #뉴스큐레이션 | 지금 써보러 갑니다](http://icunow.co.kr/end-and2/)
 
 # Oncall On call
 * [Building On-Call Culture at GitHub - The GitHub Blog](https://github.blog/2021-01-06-building-on-call-culture-at-github/)
