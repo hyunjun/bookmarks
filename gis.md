@@ -19,6 +19,9 @@ GIS
 * [GOOGLE MAPS’S MOAT - How far ahead of Apple Maps is Google Maps?](https://www.justinobeirne.com/google-maps-moat)
 * [Alexander Müller - Spatial Range Queries Using Python In-Memory Indices](https://www.youtube.com/watch?v=_95bSEqMzUA)
 
+# Java
+* [가게 배달지역 관리방식 개편 프로젝트 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/02/27/s2-project.html)
+
 # Javascript
 * [네이버 지도 JavaScript API 완벽 가이드 – 투영, 지도 유형 편](http://d2.naver.com/helloworld/9121395)
 * [Top Maps API and Libraries in JavaScript | by Sathishravi | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/top-maps-api-and-libraries-in-javascript-e01b01ad5d2c)
