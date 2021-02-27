@@ -39,6 +39,7 @@ Data Science
 * [세상에서 가장 이해받지 못하는 영웅, 데이터 과학자 (2/3)](https://cojette.github.io/misunderstoodhero2_3/)
 * [세상에서 가장 이해받지 못하는 영웅, 데이터 과학자 (3/3)](https://cojette.github.io/misunderstoodhero3_3/)
 * [Full Stack Data Science: The Next Gen of Data Scientists Cohort | by Jay Kachhadia | Towards Data Science](https://towardsdatascience.com/full-stack-data-science-the-next-gen-of-data-scientists-cohort-82842399646e)
+* [Data Engineering Technology Tree | Jesse Anderson](https://www.jesse-anderson.com/2020/12/data-engineering-technology-tree/) DBA/Data Warehouse/SQL-Focused, Software Engineer, Data Scientists tech stack tree
 * [Awesome Data Engineering Learning Path - Best resources, books, courses](https://awesomedataengineering.com/)
 * [The Rise of the Data Engineer](https://medium.freecodecamp.com/the-rise-of-the-data-engineer-91be18f1e603)
 * A Beginner’s Guide to Data Engineering
@@ -327,6 +328,7 @@ Data Science
 * [**The Top 5 Data Trends for CDOs to Watch Out for in 2021 | by Prukalpa | Jan, 2021 | Towards Data Science**](https://towardsdatascience.com/the-top-5-data-trends-for-cdos-to-watch-out-for-in-2021-e230817bcb16)
   * [2021년 5가지 데이터 트렌드 | GeekNews](https://news.hada.io/topic?id=3677)
 * [9 Distance Measures in Data Science | Towards Data Science](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa)
+* [The Future of Data Engineering](https://www.infoq.com/articles/future-data-engineering-riccomini/)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
