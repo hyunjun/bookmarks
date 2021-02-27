@@ -141,6 +141,7 @@ Clojure
 * [Lesser known Clojure: variants of threading macro](http://www.spacjer.com/blog/2015/11/09/lesser-known-clojure-variants-of-threading-macro/)
 * [Mixing macros and code in cljc and supporting clj, cljs and self-hosted cljs, see https://github.com/cgrand/macrovich](https://gist.github.com/cgrand/c1a83d8bb5fc0b5a6c53e5a6deece213)
 * [Clojure Macros — Lessons from unspoken symbols](https://hackernoon.com/clojure-macros-lessons-from-unspoken-symbols-c4945d8ed8bf)
+* [Clojure Macros: Creating vars from a map — Martin Klepsch](https://martinklepsch.org/posts/clojure-macro-magic-vars-from-map.html)
 * [Macros vs. Monads](https://www.infoq.com/presentations/Macros-Monads)
 * [클로저 개발팀을 위한 지속적인 통합](http://clojure.or.kr/presentation/clojure_ci)
 * [동시성 프로그래밍 하기 좋은 Clojure](http://www.slideshare.net/eunminn/clojure-68804824)
@@ -266,6 +267,8 @@ Clojure
 * [Atabey Kaygun — Calculating Vertex Covers in Clojure](https://kaygun.tumblr.com/post/643590629046288384/calculating-vertex-covers-in-clojure)
 * [Using VS Code Calva extension to run & validate the Clojure project code. - YouTube](https://www.youtube.com/watch?v=oYqxbKufTQM)
 * [Rewrite EDN while preserving comments and formatting - YouTube](https://www.youtube.com/watch?v=bPoe2N7J5yg)
+* [Clojure of Things — Adam Helinski - YouTube](https://www.youtube.com/watch?v=VhjPb4HvCaY)
+* [Clojure is difficult, but worth it — Sezal Jain - YouTube](https://www.youtube.com/watch?v=dgu4NPF_mNA)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -605,6 +608,7 @@ Clojure
 * [codox - Clojure documentation tool](https://github.com/weavejester/codox)
   * [codox-klipse-theme](https://github.com/viebel/codox-klipse-theme)
 * [comment-or-uncomment-sexp command](http://endlessparentheses.com/a-comment-or-uncomment-sexp-command.html)
+* [Common-Metadata-Repository](https://github.com/nasa/Common-Metadata-Repository)
 * [Compojure](https://github.com/weavejester/compojure) routing
   * [4 Sinatra inspired frameworks on the JVM that will boost your productivity](http://www.deadcoderising.com/2015-08-17-4-sinatra-inspired-web-application-frameworks/)
   * [github.com/metosin/compojure-api/blob/master/examples/async/src/example/handler.clj](https://github.com/metosin/compojure-api/blob/master/examples/async/src/example/handler.clj)
@@ -810,6 +814,7 @@ Clojure
 * [ultra - A Leiningen plugin for a superior development environment](https://github.com/venantius/ultra)
 * [venia - A Clojure(Script) qraphql query client library](https://github.com/Vincit/venia)
 * [vizard - magic visualization](https://github.com/yieldbot/vizard)
+* [walkable - SQL library for building APIs](https://walkable.gitlab.io/)
 
 ## Library Command Line
 * [Kira McLean | Building A Fast Command Line App With Clojure](https://kiramclean.com/blog/building-a-fast-command-line-app-with-clojure/)
