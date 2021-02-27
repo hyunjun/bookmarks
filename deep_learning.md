@@ -233,6 +233,7 @@ Deep Learning
     * [OpenAI GYM atari-py 설치 오류 해결](http://rrbb014.tistory.com/43)
     * [OpenAI GYM을 Jupyter notebook환경에서 실행하기 & headless playing](http://rrbb014.tistory.com/44)
   * [CLIP: Connecting Text and Images](https://openai.com/blog/clip/)
+    * [natural-language-youtube-search: Search inside YouTube videos using natural language](https://github.com/haltakov/natural-language-youtube-search)
     * [clipping-CLIP-to-GAN](https://github.com/cloneofsimo/clipping-CLIP-to-GAN)
   * [orrb - Code for the paper "OpenAI Remote Rendering Backend"](https://github.com/openai/orrb)
   * [requests-for-research](https://openai.com/requests-for-research/)
@@ -2384,6 +2385,7 @@ CVPR2016)
 * [2020 나 혼자 RL한다 - YouTube](https://www.youtube.com/playlist?list=PL758EWSZu9DbUVYgS23gj5M-yxjdS2FKD)
 * [Reinforcement Learning meets the real-world:Industrial RL applications](https://tv.naver.com/v/16969158)
 * [강화학습으로 더 재미있는 게임 만들기](https://tech.devsisters.com/posts/crp-puzzle-bot/)
+* [어렵지만 도전할 가치 있는 '강화학습 알고리즘' 직접 실험하기 - ITWorld Korea](https://www.itworld.co.kr/news/183779)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
