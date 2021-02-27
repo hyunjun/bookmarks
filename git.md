@@ -186,6 +186,12 @@ Git
 * [복잡한 커밋 로그를 정리해줄 구원자, gitmoji](https://pilgwon.github.io/post/gitmoji)
 * [Everything You Always Wanted To Know About GitHub (But Were Afraid To Ask)](https://gh.clickhouse.tech/explorer/)
 * [Commits are snapshots, not diffs - The GitHub Blog](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
+* [Git is my buddy: Effective Git as a solo developer](https://mikkel.ca/blog/git-is-my-buddy-effective-solo-developer/)
+  * branch는 한 가지 유용한 일만 해야 함
+  * 모든 commit은 독립적 - commit마다 독자적인 테스트 포함, 모든 테스트 통과해야 함
+  * draft commit도 ok(하지만 build는 되야 함)
+  * commit을 완전히 버려도 좋다
+  * 실수 방어 도구 - git commit --amend, git commit --fixup [hash], git rebase --interactive main, git stash, git blame
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
