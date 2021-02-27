@@ -421,6 +421,7 @@ Linux
   * [**Curl Cookbook**](https://catonmat.net/cookbooks/curl)
     * [Announcing the Curl Cookbook](https://catonmat.net/announcing-curl-cookbook)
   * [Detecting the use of "curl | bash" server side | Application Security](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
+  * [**자주 사용하는 curl 명령어 옵션과 예제**](https://kibua20.tistory.com/148) chrome에서 curl 명령 확인
 * `cut`
   * [Linux Tutorials - 24 cut command Slitting a file vertically | GeeksforGeeks](https://www.youtube.com/watch?v=eHGCxEVlHd0)
   * `... | tr -s [:blank:] | cut -f<num> -d ' '` [How to specify more spaces for the delimiter using cut?](https://stackoverflow.com/questions/7142735/how-to-specify-more-spaces-for-the-delimiter-using-cut)
