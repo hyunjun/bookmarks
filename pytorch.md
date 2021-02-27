@@ -124,6 +124,8 @@ PyTorch
 * [Variational AutoEncoders for new fruits with Keras and Pytorch](https://becominghuman.ai/variational-autoencoders-for-new-fruits-with-keras-and-pytorch-6d0cfc4eeabd)
 * [Logging in Tensorboard with PyTorch (or any other library)](https://becominghuman.ai/logging-in-tensorboard-with-pytorch-or-any-other-library-c549163dee9e)
 * [Transfer Learning with Convolutional Neural Networks in PyTorch](https://towardsdatascience.com/transfer-learning-with-convolutional-neural-networks-in-pytorch-dd09190245ce)
+* [CNN-based-Celebrity-Classification-AI-Service-Using-Transfer-Learning: 3분만에 만드는 인공지능 서비스: 마동석/김종국/이병헌 분류기](https://github.com/ndb796/CNN-based-Celebrity-Classification-AI-Service-Using-Transfer-Learning)
+  * [3분 만에 만드는 인공지능 서비스 개발 강좌: 마동석/김종국/이병헌 분류기 (무료 GPU 사용) - YouTube](https://www.youtube.com/watch?v=Lu93Ah2h9XA)
 * [Making Your Neural Network Say “I Don’t Know” — Bayesian NNs using Pyro and PyTorch](https://towardsdatascience.com/making-your-neural-network-say-i-dont-know-bayesian-nns-using-pyro-and-pytorch-b1c24e6ab8cd)
 * [Proximal Policy Optimization Algorithms - PPO in PyTorch](http://blog.varunajayasiri.com/ml/ppo_pytorch.html)
 * [Pytorch Model summary](https://github.com/graykode/modelsummary)
