@@ -272,6 +272,7 @@ NLP
 * [KorGPT2Tutorial: Tutorial for pretraining Korean GPT-2 model](https://github.com/MrBananaHuman/KorGPT2Tutorial)
 * [KoGPT2-chatbot: Simple Chit-Chat based on KoGPT2](https://github.com/haven-jeon/KoGPT2-chatbot)
 * [Does GPT-2 Know Your Phone Number? – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2020/12/20/lmmem/)
+* [This Code Does Not Exist](https://doesnotexist.codes/) GPT2를 이용한 코드 생성
 * [awesome-gpt3](https://github.com/elyase/awesome-gpt3)
 * [How GPT3 Works - Visualizations and Animations – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 * [What is GPT-3? Showcase, possibilities, and implications - YouTube](https://www.youtube.com/watch?v=5fqxPOaaqi0)
@@ -1363,6 +1364,8 @@ NLP
 * [python-machine-learning-book-3rd-edition 네이버 영화 리뷰 감성 분류](https://github.com/rickiepark/python-machine-learning-book-3rd-edition/blob/master/ch08/naver_movie_review.ipynb)
 * [Sentiment Analysis (Opinion Mining) with Python - NLP Tutorial | Towards AI](https://medium.com/towards-artificial-intelligence/sentiment-analysis-opinion-mining-with-python-nlp-tutorial-d1f173ca4e3c)
 * [HuggingFace KoElectra로 NSMC 감성분석 Fine-tuning해보기 | by 김희규 | Aug, 2020 | Medium](https://medium.com/@heegyukim/huggingface-koelectra%EB%A1%9C-nsmc-%EA%B0%90%EC%84%B1%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-1a23a0c704af)
+* [nsmc-tf-text: tensorflow text로 간편하게 시작하는 NSMC 분류](https://github.com/jeongukjae/nsmc-tf-text)
+  * [편리한 NLP를 위한 TensorFlow-Text와 RaggedTensor – Jeong Ukjae](https://jeongukjae.github.io/posts/tensorflow-text-and-ragged-tensor/)
 * vader
   * [Simplifying Sentiment Analysis using VADER in Python (on Social Media Text)](https://medium.com/analytics-vidhya/simplifying-social-media-sentiment-analysis-using-vader-in-python-f9e6ec6fc52f)
   * [Rule-based Sentiment Analysis of App Store Review in Python | by Ng Wai Foong | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/rule-based-sentiment-analysis-of-app-store-review-in-python-94d8bbfc48bb)
@@ -1383,7 +1386,7 @@ NLP
 * [Sørensen–Dice coefficient](https://en.wikipedia.org/wiki/S%C3%B8rensen%E2%80%93Dice_coefficient)
 * [Tversky index](https://en.wikipedia.org/wiki/Tversky_index)
 * [FIVE MOST POPULAR SIMILARITY MEASURES IMPLEMENTATION IN PYTHON](https://dataaspirant.com/2015/04/11/five-most-popular-similarity-measures-implementation-in-python/)
-* [**Vector_Similarity - Python, Java implementation of TS-SS called from "A Hybrid Geometric Approach for Measuring Similarity Level Among Documents and Document Clustering"**](https://github.com/taki0112/Vector_Similarity)
+* [**Vector Similarity - Python, Java implementation of TS-SS called from "A Hybrid Geometric Approach for Measuring Similarity Level Among Documents and Document Clustering"**](https://github.com/taki0112/Vector_Similarity)
 * [MinHash Tutorial with Python Code](http://mccormickml.com/2015/06/12/minhash-tutorial-with-python-code/)
 * [Vector_Similarity](https://github.com/taki0112/Vector_Similarity/blob/master/README.md)
 * [NMF 알고리즘을 이용한 유사한 문서 검색과 구현(1/2)](http://bcho.tistory.com/1216) matrix factorization
