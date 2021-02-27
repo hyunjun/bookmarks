@@ -639,6 +639,7 @@ Business
 * [1,000억 원짜리 사업을 만드는 길 (The Road to $100M)](https://acquiredentrepreneur.tistory.com/27)
 * [시리즈 A 란 무엇인가? – Live & Venture](https://liveandventure.com/2020/09/27/series-a/)
 * [진정성과 스타트업 (번역) – 이바닥늬우스](https://ebadak.news/2020/12/14/earnest/)
+* [VC가 알려주는 스타트업 투자 유치 전략 197p PDF | GeekNews](https://news.hada.io/topic?id=3798)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
