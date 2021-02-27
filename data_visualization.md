@@ -146,6 +146,8 @@ Data Visualization
 * [D3로 서울시 강수량 그래프 만들기 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/d3-graph/)
 * [Quadtree and its implementation on Maps using D3 - YouTube](https://www.youtube.com/watch?v=nNi_ZMXWxx4)
 * [Data Visualization with D3, JavaScript, React - Full Course 2021 - YouTube](https://www.youtube.com/watch?v=2LhoCfjm8R4)
+* [10 Years of Open-Source Visualization / Mike Bostock / Observable](https://observablehq.com/@mbostock/10-years-of-open-source-visualization)
+  * [오픈소스 시각화 라이브러리 d3.js 개발 10년동안 배운 것 | GeekNews](https://news.hada.io/topic?id=3789)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
