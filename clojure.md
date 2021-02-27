@@ -267,6 +267,7 @@ Clojure
 * [Atabey Kaygun — Calculating Vertex Covers in Clojure](https://kaygun.tumblr.com/post/643590629046288384/calculating-vertex-covers-in-clojure)
 * [Using VS Code Calva extension to run & validate the Clojure project code. - YouTube](https://www.youtube.com/watch?v=oYqxbKufTQM)
 * [Rewrite EDN while preserving comments and formatting - YouTube](https://www.youtube.com/watch?v=bPoe2N7J5yg)
+* [Datalevin environment and runtime : Clojure](https://www.reddit.com/r/Clojure/comments/lqn01q/datalevin_environment_and_runtime/)
 * [Clojure of Things — Adam Helinski - YouTube](https://www.youtube.com/watch?v=VhjPb4HvCaY)
 * [Clojure is difficult, but worth it — Sezal Jain - YouTube](https://www.youtube.com/watch?v=dgu4NPF_mNA)
 
@@ -621,6 +622,7 @@ Clojure
 * [CounterClockWise IDE](https://github.com/ccw-ide) Eclipse Plugin for the Clojure Language
 * [cryogen - Static sites generated with Clojure](http://cryogenweb.org/)
 * [Crux - The open database with temporal graph query](https://opencrux.com/)
+  * [crux: General purpose bitemporal database for SQL, Datalog & graph queries](https://github.com/juxt/crux)
   * [Crux | Command Line Crux](https://opencrux.com/blog/crux-command-line.html)
 * [dali is a Clojure library for representing the SVG graphics format](https://github.com/stathissideris/dali)
 * Datalog
