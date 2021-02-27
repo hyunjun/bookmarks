@@ -1570,7 +1570,7 @@ Python
   * [Think Python: How to Think Like a Computer Scientist](http://greenteapress.com/thinkpython2/html/index.html)
   * [github.com/AllenDowney/ThinkPython2/code](https://github.com/AllenDowney/ThinkPython2/tree/master/code)
 * [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/) python + statistics, free download
-* [wtfpython: What the f*ck Python? 😱](https://github.com/satwikkansal/wtfpython)
+* [wtfpython: What the f\*ck Python? 😱](https://github.com/satwikkansal/wtfpython)
 
 # Bytecode
 * [Understanding Python bytecode by implementing tail call optimization](http://blog.fastforwardlabs.com/post/117173339298/bytecode-hacking-for-great-justice)
@@ -1607,6 +1607,7 @@ Python
 
 # Cryptography
 * [Elliptic Curve Cryptography: finite fields and discrete logarithms](http://andrea.corbellini.name/2015/05/23/elliptic-curve-cryptography-finite-fields-and-discrete-logarithms/)
+* [Basic Intro to Elliptic Curve Cryptography - Qvault](https://qvault.io/2020/09/17/very-basic-intro-to-elliptic-curve-cryptography/)
 * How to Build a Simple Crypto Trading Simulator
   * [Part 1 Learn to Code a Crypto Trading Simulator in Python](https://hackernoon.com/how-to-build-a-simple-crypto-trading-simulator-part-1-4ccdddcd6b76)
 * [How to encrypting and decrypting the messages in python| | Cryptography | |](https://www.youtube.com/watch?v=RFkbhqpRTZM)
@@ -3568,6 +3569,7 @@ Python
   * [**Python Ray 사용법 - Python 병렬처리, 분산처리 · 어쩐지 오늘은**](https://zzsza.github.io/mlops/2021/01/03/python-ray/)
   * [Ray 로 내 파이썬 코드 10배 빠르게 만들기. Ray 를 이용한 python 병렬처리 방법에 대해 알아봅니다. | by t.k.woo | Naver Shopping dev | Jan, 2021 | Medium](https://medium.com/naver-shopping-dev/ray-%EB%A1%9C-pytorch-model-inference-%ED%95%98%EA%B8%B0-77ce11304604)
   * [Retrieval Augmented Generation with Huggingface Transformers and Ray | Distributed Computing with Ray](https://medium.com/distributed-computing-with-ray/retrieval-augmented-generation-with-huggingface-transformers-and-ray-b09b56161b1e)
+  * [Getting Started with Distributed Machine Learning with PyTorch and Ray | by PyTorch | PyTorch | Feb, 2021 | Medium](https://medium.com/pytorch/getting-started-with-distributed-machine-learning-with-pytorch-and-ray-fd83c98fdead)
 * [PyParallel.org](http://pyparallel.org/)
   * [PyParallel - Experimental multicore fork of Python 3](https://github.com/pyparallel/pyparallel)
 
