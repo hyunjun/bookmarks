@@ -613,6 +613,10 @@ TensorFlow
   * [텐서플로 C++ API로 강화학습 구현하기](http://blog.naver.com/atelierjpro/220911555463)
   * [딥러닝을 이용한 주가 예측](http://blog.naver.com/logking1/220914588343)
 * [Building models with tf.text (TF World '19)](https://www.youtube.com/watch?v=iu_OSAg5slY)
+* [TF Everywhere Application for Beginner - YouTube](https://www.youtube.com/watch?v=2QxfO_md9N4)
+* [TF Everywhere Application for Developer - YouTube](https://www.youtube.com/watch?v=Xe_gFoVTwcQ)
+* [TF Everywhere competition - YouTube](https://www.youtube.com/watch?v=xgt7FKfpF2Q)
+* [TF Everywhere Tutorial & Guide - YouTube](https://www.youtube.com/watch?v=9Y5TunPY-xg)
 
 # Docker
 * [TF-KR 첫 모임: Docker 환경에서 TensorFlow를 설치하고 응용하기](https://www.youtube.com/watch?v=M853zrIwiJ4)
