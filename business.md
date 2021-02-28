@@ -80,6 +80,7 @@ Business
 * [똑똑하게 실패하는 조직의 4가지 조건](http://ppss.kr/archives/46577)
 * [웹 서비스 개발 회사의 효율적인 조직 구조 및 관리](http://www.popit.kr/%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%82%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B4%80%EB%A6%AC/)
 * [슈퍼셀의 역삼각형 조직 구조: 관리는 줄이고, 성공을 늘리기](http://masterfarseer.blogspot.com/2018/05/blog-post.html)
+* [Etsy CEO가 에자일한 조직 구조를 만든 방법](https://brunch.co.kr/@yongjinjinipln/89)
 * [10년간 슈퍼셀을 경영하며 배운 10가지 교훈 | 번역 블로그](https://masterfarseer.blogspot.com/2020/08/10-10.html)
 * [당신을 성장시켜 주는 조직](https://brunch.co.kr/@younghakjang/1)
 * [나쁜 말이 나쁜 조직을 만든다](https://brunch.co.kr/@lunarshore/333)
