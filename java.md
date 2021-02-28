@@ -97,7 +97,6 @@ Java
 * [Software impedance explained](https://medium.freecodecamp.org/software-impedance-6796cc65758b)
 * [Line Messaging API를 활용한 챗봇 만들기](https://dbbymoon.tistory.com/2)
 * [Annotation과 Reflection을 이용한 챗봇 컨트롤러 만들기](https://dbbymoon.tistory.com/5)
-* [1. JAVA Reflection과 Annotaion으로 필드 및 메소드에 값 주입하기](https://kim-jong-hyun.tistory.com/22)
 * [5월 우아한 Tech 세미나 후기](http://woowabros.github.io/woowabros/2019/05/09/techseminar-java-performance.html) 성능, 라이센스, 모니터링
 * [Writing Web Applications in Java - a Study of Alternatives](https://www.infoq.com/news/2019/05/web-app-java-jvm-alternatives/)
 * [Java Almanac](https://github.com/marchof/java-almanac) SDK version간 차이 정리
@@ -133,6 +132,7 @@ Java
 * [이펙티브 자바 3판 - 열거 타입과 애너테이션](http://astrod.github.io/java/2020/07/18/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-3%ED%8C%90-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98/) Enum, EnumSet, EnumMap, Annotation
 * [On the missing package private — or why Java is better than Kotlin in this regard | by Michał Stawski | VirtusLab | Medium](https://medium.com/virtuslab/on-the-missing-package-private-or-why-java-is-better-than-kotlin-in-this-regard-4a1c9ecbe40c)
 * [java 박싱 언박싱과 오버헤드에 대한 이야기](https://codingdog.tistory.com/entry/java-%EB%B0%95%EC%8B%B1-%EC%96%B8%EB%B0%95%EC%8B%B1%EA%B3%BC-%EC%98%A4%EB%B2%84%ED%97%A4%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0) boxing, unboxing, primitive
+* [1. JAVA Reflection과 Annotaion으로 필드 및 메소드에 값 주입하기](https://kim-jong-hyun.tistory.com/22)
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
@@ -242,6 +242,7 @@ Java
   * [Java Magic. Part 4: sun.misc.Unsafe](http://mishadoff.com/blog/java-magic-part-4-sun-dot-misc-dot-unsafe/)
 * static
   * [Static Keyword 와 Method Area (메소드 영역)](http://ict-nroo.tistory.com/m/19)
+  * [6. JAVA - static이란?](https://kim-jong-hyun.tistory.com/42)
 * String
   * [20 Things You Should Know About Strings In Java](http://javaconceptoftheday.com/tutorial-examples-strings-in-java/)
   * [How SubString Works Internally in Java](http://www.codenuclear.com/how-substring-works-internally-java/)
