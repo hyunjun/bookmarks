@@ -1562,6 +1562,7 @@ Programming Books
 * (NOT YET) [데이터 애널리틱스: 예제로 배우는 모델링 기법, 데이터 분석, 모델 구축 과정 | 위키북스](https://wikibook.co.kr/data-analytics/)
 * (NOT YET) [Do it! 쉽게 배우는 R 텍스트 마이닝](http://www.easyspub.co.kr/20_Menu/BookView/B001/425/PUB)
   * [Doit_textmining/docs at main · youngwoos/Doit_textmining](https://github.com/youngwoos/Doit_textmining/tree/main/docs)
+  * [Do it! 쉽게 배우는 R 텍스트 마이닝 - 04 감정 분석: 어떤 마음으로 글을 썼을까?](https://youngwoos.github.io/Doit_textmining/04-sentimentAnalysis.html)
 
 # Rust
 * (NOT YET) [러스트 프로그래밍 공식 가이드](https://jpub.tistory.com/980)
