@@ -754,6 +754,7 @@ Programming
 * [안심번호(050) 시스템 #1 - 시스템 구축 스토리 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/12/30/050system_introduction.html)
 * [How I scaled a software system's performance by 35,000% | by Joseph Gefroh | The Startup](https://medium.com/swlh/how-i-scaled-a-software-systems-performance-by-35-000-6dacd63732df)
 * [The Evolution of Precomputation Technology and its Role in Data Analytics](https://www.infoq.com/articles/evolution-precomputation-technology-data-analytics/)
+* [Everything About Software Architecture | by Mohit Malhotra | The Startup | Feb, 2021 | Medium](https://medium.com/swlh/everything-aboutsoftware-architecture-dfd2b9351ef4)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
