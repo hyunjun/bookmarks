@@ -104,7 +104,6 @@ Redis
 * [서버가 여러대면 로그인 정보는 어디에 저장할까? - Sticky Session, Session Clustering, Redis Session Storage](https://tjdrnr05571.tistory.com/3)
 * [Redis 성능 향상을 위한 Redis 세션 저장소와 캐시 저장소의 분리](https://chagokx2.tistory.com/99)
 * [**선물하기 시스템의 상품 재고는 어떻게 관리되어질까? - 우아한형제들 기술 블로그**](https://woowabros.github.io/experience/2021/01/19/product-stock.html) redis + RDB 배민 재고 관리
-* [Redis Cache 기능을 활용한 성능 개선 이야기 part 1 | Recoding Life](https://jane096.github.io/project/redis-caching/)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
@@ -141,6 +140,10 @@ Redis
   * [Get all keys in Redis database with python](https://stackoverflow.com/questions/22255589/get-all-keys-in-redis-database-with-python)
   * [**패턴으로 TTL 적용하기**](https://jojoldu.tistory.com/349) scan으로 pattern match되는 key를 찾아 expire 적용하는 script
   * [Redis keys 대신 scan 이용하기](https://tjdrnr05571.tistory.com/11)
+
+# Java
+* [Redis Cache 기능을 활용한 성능 개선 이야기 part 1 | Recoding Life](https://jane096.github.io/project/redis-caching/)
+* [Redis Cache 기능을 활용한 성능 개선 이야기 Part 2 | Recoding Life](https://jane096.github.io/project/redis-caching-part2/)
 
 # Library
 * [Gredis - Redis server built over grpc](https://github.com/voidabhi/gredis)
