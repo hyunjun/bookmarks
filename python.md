@@ -5,7 +5,6 @@ Python
 * [7+ Python Cheat Sheets for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
 * [Comprehensive Python Cheat Sheet for Beginners](https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2)
 * [PB Python Article Roadmap - Practical Business Python](https://pbpython.com/roadmap.html)
-* [colab-tutorial.ipynb - Colaboratory](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb) python 기초문법
 * [**Awesome Python**](http://awesome-python.com/)
 * [Awesome-Python](https://github.com/JoMingyu/Awesome-Python)
 * [Awesome-Python](https://github.com/vinta/awesome-python)
@@ -19,8 +18,6 @@ Python
 * [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io)
 * [pythonfiddle.com](http://pythonfiddle.com/)
 * [sentdex](https://www.youtube.com/user/sentdex)
-* [Python Tutorial for Beginners](https://www.youtube.com/playlist?list=PL1Z_7yg6Pa3CURAEFLwzXRYrhGcQskRhY)
-* [Python Programming Course](https://tutorialedge.net/course/python/)
 * [practical-python](https://dabeaz-course.github.io/practical-python/) dabeaz, David Beazley
 * [blog.thepythontutor.com](http://blog.thepythontutor.com/)
 * [Think Python](http://www.flowdas.com/thinkpython/)
@@ -34,12 +31,8 @@ Python
 * [프로그래밍 포기자를 위한 파이썬 | 김왼손의 Khim Academy](https://www.youtube.com/playlist?list=PLGPF8gvWLYyoyq_GJQWyOEKkXT5ErEaNK)
 * [미운코딩새끼](https://zetawiki.com/wiki/미운코딩새끼)
 * [기술 경영을 위한 프로그래밍](https://www.datascienceschool.net/view-notebook/6519e0a1e8ef4475b5765594d6c30378/) NumPy, matplotlib, Pandas, excel 연동, scrapy
-* [Python Programming Tutorials (Computer Science)](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
 * [Google for Education](https://developers.google.com/edu/python/)
 * [Full Stack Python의 'Best Python Resources'를 공부하면서 나름대로 정리한 자료](http://www.sangkon.com/2015/09/16/best_python_resources_kor/)
-* [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLkRo97mCIn9kU6vrnZnRg86sbh5Z29-rV)
-* [Python Tutorial | Beginners & Experienced – Learn Python](https://tutorial.eyehunts.com/python-tutorial/)
-* [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
 * [python.zeef.com/luis.solis](https://python.zeef.com/luis.solis)
 * [Practical Python for Astronomers](https://python4astronomers.github.io/index.html)
 * [Intermediate Python](http://book.pythontips.com)
@@ -162,7 +155,6 @@ Python
 * [PyML - Python을 이용한 머신러닝 (코세리 인증과정 도전 스터디)](http://psygrammer.github.io/PyML/)
 * [싸이폴리 - 사회인지신경 심리학 + 계량적 사회행동 분석](http://psygement.github.io/psypoli/)
 * [통계적 사고: 파이썬을 이용한 탐색적 자료 분석](http://think-stat.xwmooc.org/)
-* [Test And Quiz, Tutorial And Question & Answer, Training](http://www.hub4tech.com/python)
 * [Python Online Quiz | Online Test | Mock Exam](http://www.hub4tech.com/Python-online-quiz-test)
 * [Python Interview Questions and Answers](http://www.hub4tech.com/interview/python)
 * [80 Python Interview Practice Questions | by Cornellius Yudha Wijaya | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/80-python-interview-practice-questions-f1640eea66ac)
@@ -290,8 +282,6 @@ Python
 * [Rust를 사용해서 당신의 Python에 날개를 달아주세요](https://www.slideshare.net/JIHUNKIM26/rust-python-110278438)
 * [mindmap - Python for big data](http://www.xmind.net/m/WvfC#515)
 * [masnun.com/category/python](http://masnun.com/category/python)
-* [안녕 프로그래밍](https://opentutorials.org/course/2700)
-* [네 Python은 느립니다, 하지만 저는 신경쓰지 않습니다](https://b.ssut.me/yes-python-is-slow-and-i-dont-care/)
 * NDC2017
   * [**NDC2017: 박준철 Python 게임 서버 안녕하십니까 - 몬스터 슈퍼리그 게임 서버**](https://www.slideshare.net/joongom/ndc2017-python) 여러가지 배울 점이 많다
     * [Python 게임 서버 안녕하십니까?](https://github.com/JungWinter/Frozen/blob/master/07%20NDC_2017/ndc-02-07-%EB%AA%AC%EC%8A%A4%ED%84%B0%EC%8A%88%ED%8D%BC%EB%A6%AC%EA%B7%B8-%EA%B2%8C%EC%9E%84%EC%84%9C%EB%B2%84.md)
@@ -4316,6 +4306,18 @@ Python
 * [pytype - A static analyzer for Python code](https://github.com/google/pytype)
 * [Tsukkomi for Python types, inspired by typeannotations package https://pypi.python.org/pypi/tsukkomi](https://github.com/spoqa/tsukkomi)
 * [typeguard - Run-time type checker for Python](https://github.com/agronholm/typeguard)
+
+# Tutorial
+* [colab-tutorial.ipynb - Colaboratory](https://colab.research.google.com/github/cs231n/cs231n.github.io/blob/master/python-colab.ipynb) python 기초문법
+* [Python Tutorial for Beginners](https://www.youtube.com/playlist?list=PL1Z_7yg6Pa3CURAEFLwzXRYrhGcQskRhY)
+* [Python Programming Course](https://tutorialedge.net/course/python/)
+* [Python Programming Tutorials (Computer Science)](https://www.youtube.com/playlist?list=PLi01XoE8jYohWFPpC17Z-wWhPOSuh8Er-)
+* [Python Programming Tutorials](https://www.youtube.com/playlist?list=PLkRo97mCIn9kU6vrnZnRg86sbh5Z29-rV)
+* [Python Tutorial | Beginners & Experienced – Learn Python](https://tutorial.eyehunts.com/python-tutorial/)
+* [Learn Python - Free Interactive Python Tutorial](https://www.learnpython.org/)
+* [안녕 프로그래밍](https://opentutorials.org/course/2700)
+* [네 Python은 느립니다, 하지만 저는 신경쓰지 않습니다](https://b.ssut.me/yes-python-is-slow-and-i-dont-care/)
+* [파이썬 코딩 무료 강의 (기본편) - 6시간 뒤면 여러분도 개발자가 될 수 있어요 나도코딩 - YouTube](https://www.youtube.com/watch?v=kWiCuklohdY)
 
 # VSCode, Visual Studio Code
 * [김명신: Python 개발을 위한 최상의 무료 개발 도구 Visual Studio와 Visual Studio Code - PyCon Korea 2015](https://www.youtube.com/watch?v=QzfalQn1lc0)
