@@ -1209,6 +1209,7 @@ App
 * [paperwork.rocks](http://paperwork.rocks/)
 * [RemNote - 공부하고 글쓰는 사람을 위한 강력한 노트 도구 : SEOULRAIN](https://seoulrain.net/2020/09/12/remnote-review/)
 * [Roam](https://roamresearch.com) graph 형태로 자신의 note를 연결할 수 있는 듯
+  * [문서 작성법의 패러다임 시프트: 롬리서치 | Startup Lessons](https://tkim.co/2021/02/18/roam-research/)
 * [Rocketbook | Best Smart Notebook | Cloud Notebook | Reusable Notebook](https://getrocketbook.com/)
   * [전자레인지로 리셋? 자필 메모 저장앱](http://techholic.co.kr/archives/31506)
 * [Snip](https://mix.office.com/Snip) windows only
