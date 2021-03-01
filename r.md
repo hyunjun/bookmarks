@@ -338,6 +338,7 @@ R
 * [웹에서 하는 R통계 - 표만들기 - YouTube](https://www.youtube.com/watch?v=89UMLiSnhvI)
 * [웹에서 하는 R통계 : P값이란 무엇인가? - YouTube](https://www.youtube.com/watch?v=BBBrb3KIxnc)
 * [제1종오류, 제2종오류, 샘플수, 다중검정문제 - YouTube](https://www.youtube.com/watch?v=W8TuCuf7iHg)
+* [샘플수의 계산 - YouTube](https://www.youtube.com/watch?v=ZRCQkuC6meg)
 
 # API
 * [REX: Look around – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2229)
