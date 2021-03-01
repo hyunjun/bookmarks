@@ -296,6 +296,7 @@ Machine Learning
 * [Logistic Regression — Detailed Overview](https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc)
 * [Logistic Regression from scratch - Philipp Muens](https://philippmuens.com/logistic-regression-from-scratch/)
 * [머신러닝 - 로지스틱 리그레션(Logistic Regression) - YouTube](https://www.youtube.com/watch?v=zCjHcQJ3mkI)
+* [로지스틱회귀 Logistic Regression - 시그모이드 함수](https://blog.naver.com/pjt3591oo/222260445825)
 * [Multiclass Regression Tutorial](https://www.youtube.com/playlist?list=PLdeuKRJcjOTfgfyRrKf1G8BN6qIbaBa1d)
 * [5 Types of Regression and their properties](https://towardsdatascience.com/5-types-of-regression-and-their-properties-c5e1fa12d55e)
 * [Simple and Multiple Linear Regression in Python](https://towardsdatascience.com/simple-and-multiple-linear-regression-in-python-c928425168f9)
