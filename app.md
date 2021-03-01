@@ -1271,6 +1271,7 @@ App
 * Google sheet
   * [Google Sheet 로 몸무게를 기록하자](https://jusths.tistory.com/144) bar chart
   * [브라우저에서 Google Sheets를 서버 없이 데이터베이스처럼 사용하기 | FUREWEB](https://fureweb-com.github.io/blog/2020/11/16/using-google-sheets-as-a-database-without-a-server-in-the-browser.html)
+  * [불쌍한 개발자를 데이터 요청에서 해방시키는 방법 - YouTube](https://www.youtube.com/watch?v=32yNrr8rzP0)
 * Gmail
   * [5 open source alternatives to Gmail](https://opensource.com/life/15/9/open-source-alternatives-gmail)
   * [Gmail 로 개인 도메인 이메일주소 만들기](https://xguru.net/1963)
