@@ -2298,7 +2298,8 @@ Programming
     * [(02/13) 라인개발자들이 직접 뽑은 인생 책은? - YouTube](https://www.youtube.com/watch?v=A9hyHUnoIfI)
   * [(2월 20일) '패배자같은 개발 직무' 탈출법](https://jhrogue.blogspot.com/2021/02/2-20.html) 현대적인 자바스크립트 사이트를 얼마나 빠르게 만들 수 있을까?, 초급 개발자라면 리액트 역량 중요, 개발자 코드를 얼마나 자주 되돌릴까?
     * [(02/20) '패배자같은 개발 직무' 탈출법 - YouTube](https://www.youtube.com/watch?v=cmjVEkIdD3k)
-  * [(02/27) 구글의 "엔지니어링 디렉터" 면접 문제 - YouTube](https://www.youtube.com/watch?v=Cq0co4j-1tw) 메모리 릭 흥미로운 이야기, 자주 사용하는 curl 명령어 옵션 예제, 개발자 무료 서비스, 혼자서 깃 잘 쓰는 방법
+  * [(2월 27일) 구글의 "엔지니어링 디렉터" 면접 문제](https://jhrogue.blogspot.com/2021/03/2-27.html) 메모리 릭 흥미로운 이야기, 자주 사용하는 curl 명령어 옵션 예제, 개발자 무료 서비스, 혼자서 깃 잘 쓰는 방법
+    * [(02/27) 구글의 "엔지니어링 디렉터" 면접 문제 - YouTube](https://www.youtube.com/watch?v=Cq0co4j-1tw)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
 * [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
