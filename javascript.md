@@ -3339,6 +3339,7 @@ Javascript
 * [TypeScript에서 generic과 index type의 활용 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-01-20T00:00:00.000Z)
 * [CSS in JS 라이브러리에서 Typesafe하게 Theme 관리하기](https://tech.devsisters.com/posts/react-extend-theme/)
 * [Implementing the Elo Rating System | by Matt Mazzola | Medium](https://mattmazzola.medium.com/implementing-the-elo-rating-system-a085f178e065)
+* [올해 버려야 할 타입스크립트 나쁜 버릇 10가지 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210217)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
 * [foam: A personal knowledge management and sharing system for VSCode](https://github.com/foambubble/foam)
