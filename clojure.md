@@ -271,6 +271,8 @@ Clojure
 * [Clojure of Things — Adam Helinski - YouTube](https://www.youtube.com/watch?v=VhjPb4HvCaY)
 * [Clojure is difficult, but worth it — Sezal Jain - YouTube](https://www.youtube.com/watch?v=dgu4NPF_mNA)
 * [A closer look at {{roam/render}}](https://www.zsolt.blog/2021/02/a-closer-look-at-roamrender.html)
+* [Clojure's slow start — what's inside? - Clojure Goes Fast](http://clojure-goes-fast.com/blog/clojures-slow-start/)
+* [Agile & Coding: Interactive Web Development](https://davidvujic.blogspot.com/2021/02/interactive-web-development.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
