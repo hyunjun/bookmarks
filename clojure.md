@@ -270,6 +270,7 @@ Clojure
 * [Datalevin environment and runtime : Clojure](https://www.reddit.com/r/Clojure/comments/lqn01q/datalevin_environment_and_runtime/)
 * [Clojure of Things — Adam Helinski - YouTube](https://www.youtube.com/watch?v=VhjPb4HvCaY)
 * [Clojure is difficult, but worth it — Sezal Jain - YouTube](https://www.youtube.com/watch?v=dgu4NPF_mNA)
+* [A closer look at {{roam/render}}](https://www.zsolt.blog/2021/02/a-closer-look-at-roamrender.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -649,6 +650,7 @@ Clojure
 * [Fail / Pass pipelines for Clojure and ClojureScript https://github.com/runexec](https://github.com/runexec/lemon-disc)
 * [failjure - Monadic error utilities for general use in Clojure projects](https://github.com/adambard/failjure) return값으로 error를 다루는 library
 * [Ferret is a Clojure to C++ compiler](http://dropbox.nakkaya.com/builds/ferret-manual.html)
+* [ffclj: Clojure ffmpeg wrapper](https://github.com/luissantos/ffclj)
 * [flambo - A Clojure DSL for Apache Spark](https://github.com/yieldbot/flambo)
 * [flare - Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.)](https://github.com/aria42/flare)
 * [fxl - a Clojure spreadsheet library](https://github.com/zero-one-group/fxl)
@@ -744,7 +746,6 @@ Clojure
 * [Perseverance is a flexible retried operations library inspired by the Common Lisp’s condition system](https://github.com/grammarly/perseverance)
 * [plsci: PostgreSQL procedural language handler for Clojure via SCI](https://github.com/borkdude/plsci)
 * [plet - Parallel let macro inspired by Haxl](https://github.com/eunmin/plet)
-* [pod-babashka-sqlite3: A babashka pod for interacting with sqlite3](https://github.com/babashka/pod-babashka-sqlite3)
 * [Polylith - Polylith](https://polylith.gitbook.io/polylith/)
   * [Polylith - the last architecture you will ever need by Joakim Tengstrand and Furkan Bayraktar - YouTube](https://www.youtube.com/watch?v=pebwHmibla4)
 * [potemkin: some ideas which are almost good](https://github.com/clj-commons/potemkin)
@@ -830,6 +831,9 @@ Clojure
   hello, super fast clojure!
   ```
   * [Meetup: Writing Clojure on the Command Line with Babashka - YouTube](https://www.youtube.com/watch?v=RogyxI-GaGQ)
+  * [Babashka: a native Clojure interpreter for scripting @ GraalVM Workshop 2021 - Speaker Deck](https://speakerdeck.com/borkdude/babashka-a-native-clojure-interpreter-for-scripting-at-graalvm-workshop-2021)
+  * [babashka-sql-pods: Babashka pods for SQL databases](https://github.com/babashka/babashka-sql-pods)
+  * [pod-babashka-sqlite3: A babashka pod for interacting with sqlite3](https://github.com/babashka/pod-babashka-sqlite3)
 
 ## Library GraalVM
 * [How to build a native binary for your Clojure projects with GraalVM](https://github.com/BrunoBonacci/graalvm-clojure/blob/master/doc/clojure-graalvm-native-binary.md)
@@ -873,11 +877,13 @@ Clojure
 * [클로저의 test.check로 하는 강력한 테스팅](https://github.com/hatemogi/test-check-sample)
 * [TDD in ClojureScript](https://8thlight.com/blog/eric-smith/2016/10/05/a-testable-clojurescript-setup.html)
 * [TESTING STATEFUL AND CONCURRENT SYSTEMS USING TEST.CHECK](https://lispcast.com/testing-stateful-and-concurrent-systems-using-test-check/)
+* [Agile & Coding: Test Driven Development Deluxe](https://davidvujic.blogspot.com/2021/02/test-driven-development-deluxe.html)
 * [cprop-order - Test load-config order](https://github.com/eunmin/cprop-order)
 * [endpoint-check](https://github.com/k8s-study/endpoint-check/blob/master/README.md) ping test micro service 를 clojure httpkit 으로 구현, Kubernetes로 배포
+* [JEPSEN - Distributed Systems Safety Research](http://jepsen.io/)
+  * [Understanding the Jepsen toolkit // Polyglot Artisan](https://rhishikesh.com/posts/understanding_the_jepsen_toolkit/)
 * [kamera: UI testing via image comparison and devcards](https://github.com/oliyh/kamera)
 * [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
-* [Agile & Coding: Test Driven Development Deluxe](https://davidvujic.blogspot.com/2021/02/test-driven-development-deluxe.html)
 
 # Transducer
 * [Understanding Clojure transducers through types](https://gist.github.com/everyevery/39a44bf523df03a4ecf7)
