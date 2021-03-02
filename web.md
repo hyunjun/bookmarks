@@ -882,6 +882,7 @@ Web
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
 * [Wasmer - The Universal WebAssembly Runtime](https://wasmer.io/)
   * [서버측 웹어셈블리 런타임 ‘와스머’, GA 버전 공개 - CIO Korea](https://www.ciokorea.com/news/178284)
+  * [Wasmer 1.0. By leveraging Wasm for software… | by Syrus Akbary | Wasmer | Jan, 2021 | Medium](https://medium.com/wasmer/wasmer-1-0-3f86ca18c043)
   * [wasmer-go: WebAssembly runtime for Go](https://github.com/wasmerio/wasmer-go)
 * [webassembly.sh](https://webassembly.sh/)
 
