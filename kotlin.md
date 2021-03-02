@@ -195,7 +195,6 @@
 * [QR코드 스캐너](https://github.com/wonderful-coding-life/sample.qrcode.android)
   * [안드로이드 앱 만들기 - #2 QR코드 스캐너 - YouTube](https://www.youtube.com/watch?v=Yr0jbSSALKE)
 * [KMM 을 통한 Android, iOS 간 코드 공유. KMM(Kotlin multiplatform mobile) | by Myungpyo Shim | Jan, 2021 | Medium](https://myungpyo.medium.com/kmm-%EC%9D%84-%ED%86%B5%ED%95%9C-android-ios-%EA%B0%84-%EC%BD%94%EB%93%9C-%EA%B3%B5%EC%9C%A0-d1ef6f1cfb1e)
-* [My first Kotlin Symbol Processing Tool for Android | by SeongUg Steve Jung | Feb, 2021 | Medium](https://medium.com/@jsuch2362/my-first-kotlin-symbol-processing-tool-for-android-4eb3a2cfd600)
 
 # API
 * [Kotlin 키워드 및 연산자 해부 (1) — Hard Keywords](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-1-hard-keywords-3062f5fe2d11)
@@ -261,6 +260,9 @@
 * Koin
   * [Kotlin에서 Dagger2 쓰기 힘드니? 그럼 넌 Koin이야](https://medium.com/harrythegreat/kotlin%EC%97%90%EC%84%9C-dagger2-%EC%93%B0%EA%B8%B0-%ED%9E%98%EB%93%9C%EB%8B%88-%EA%B7%B8%EB%9F%BC-%EB%84%8C-koin%EC%9D%B4%EC%95%BC-e9e42ec1288e)
   * [Koin vs Dagger 그리고 추가된기능](https://medium.com/harrythegreat/android-koin-%EB%A0%88%EB%B2%A8%EC%97%85-deep-drive-56b63b2e35d2)
+* [ksp: Kotlin Symbol Processing API](https://github.com/google/ksp)
+  * [My first Kotlin Symbol Processing Tool for Android | by SeongUg Steve Jung | Feb, 2021 | Medium](https://medium.com/@jsuch2362/my-first-kotlin-symbol-processing-tool-for-android-4eb3a2cfd600)
+  * [Android Developers Blog: Announcing Kotlin Symbol Processing (KSP) Alpha](https://android-developers.googleblog.com/2021/02/announcing-kotlin-symbol-processing-ksp.html)
 * Ktlint [Format Your Kotlin Code With Ktlint | by Hector Smith | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/format-your-kotlin-code-with-ktlint-6fd1321504d0)
 * [Ktor - a framework for building asynchronous servers and clients](https://ktor.io/)
   * [Hexagonal Architecture with Kotlin, Ktor and Guice](https://hackernoon.com/hexagonal-architecture-with-kotlin-ktor-and-guice-f1b68fbdf2d9)
