@@ -474,6 +474,7 @@ Programming
 * Paypal [Paypal 여러 개의 상품 결제를 위한 API](https://jybaek.tistory.com/861)
 * [Public APIs - A collective list of free APIs for use in software and web development. https://ultimatecourses.com ](https://github.com/public-apis/public-apis)
 * [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
+* [Tesla API - Tesla API](https://www.teslaapi.io/)
 * [unofficial-apis - A collection of unofficial apis. Designed to inspire your next Friday night hack](https://github.com/Rolstenhouse/unofficial-apis)
 * [Urthecast - APIs for Earth Observation](https://www.urthecast.com/developers)
 
@@ -2201,6 +2202,7 @@ Programming
   * [월간 개발자스럽다 #61](https://blog.gaerae.com/2020/11/monthly.html)
   * [월간 개발자스럽다 #62](https://blog.gaerae.com/2020/12/monthly.html)
   * [월간 개발자스럽다 #63](https://blog.gaerae.com/2021/01/monthly.html)
+  * [월간 개발자스럽다 #64](https://blog.gaerae.com/2021/02/monthly.html)
 * [44BITS 뉴스레터 2020년 11주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-11)
 * [44BITS 뉴스레터 2020년 12주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-12)
 * [44BITS 뉴스레터 2020년 13주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-13)
