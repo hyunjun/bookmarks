@@ -1897,6 +1897,7 @@ Scala
   * [Variance Positions in Scala, Demystified | Rock the JVM - YouTube](https://www.youtube.com/watch?v=aUmj7jnXet4)
 * [Opaque Type Aliases and Open Classes | by Dean Wampler | Scala 3 | Nov, 2020 | Medium](https://medium.com/scala-3/opaque-type-aliases-and-open-classes-13076a6c07e4)
 * [Type classes with Scala 2](https://justinhj.github.io/2020/12/06/type-classes-scala-2.html)
+* [Self-Types in Scala - the Why and the How | Rock the JVM - YouTube](https://www.youtube.com/watch?v=ZnpB4B1fMSI)
 * HasId pattern
   * [HasId.scala](https://gist.github.com/knutwalker/788acb4c7ae9782fdf67)
   * [Scala Best Practices - Type class](https://nrinaudo.github.io/scala-best-practices/definitions/type_class.html)
