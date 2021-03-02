@@ -25,7 +25,8 @@ Monitoring
 * [Monitoring demystified: A guide for logging, tracing, metrics | TechBeacon](https://techbeacon.com/enterprise-it/monitoring-demystified-guide-logging-tracing-metrics)
 * [120가지 사용자 행동 분석을 자동화할 수 있는 '데이터 제품' 만들기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/data-analytics-platform-lua-analytics/)
 * [Monitoring Microservices the Right Way](https://www.infoq.com/articles/microservice-monitoring-right-way/)
-* [Netflix는 어떻게 수 백만 개의 디바이스를 모니터링 하나?](https://blog.imqa.io/how-netflix-monitors-millions-devices-robert-armstrong/)
+* [How Netflix Monitors Millions of Devices | LinkedIn](https://www.linkedin.com/pulse/how-netflix-monitors-millions-devices-robert-armstrong/)
+  * [Netflix는 어떻게 수 백만 개의 디바이스를 모니터링 하나?](https://blog.imqa.io/how-netflix-monitors-millions-devices-robert-armstrong/)
 
 # Grafana
 * [Grafana - Graphing System Statistics with Grafana](http://blog.endpoint.com/2015/08/graphing-system-statistics-with-grafana.html)
