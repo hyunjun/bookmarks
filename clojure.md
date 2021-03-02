@@ -963,4 +963,5 @@ Clojure
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
 * [Getting started with Clojure, Neovim and Conjure in minutes](https://oli.me.uk/getting-started-with-clojure-neovim-and-conjure-in-minutes/)
 * [dave yarwood · Conjuring Clojure in Vim: 2020 Edition](https://blog.djy.io/conjuring-clojure-in-vim-2020-edition/)
+* [How I use Conjure and Neovim to interact with Clojure (and more!) - YouTube](https://www.youtube.com/watch?v=ZSwbiZhvMdQ)
 * [vim-iced: Clojure Interactive Development Environment for Vim8/Neovim](https://github.com/liquidz/vim-iced)
