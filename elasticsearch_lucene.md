@@ -289,6 +289,7 @@ ElasticSearch - Lucene
 * [Technical deep dive into Elastic Agent + Ingest Manager - July 30, 2020 Elastic Meetup - YouTube](https://www.youtube.com/watch?v=hUD0isIni5M)
 * [Experience working with 600+TB ElasticSearch cluster | by Guillaume Dauvin | Botify Labs | Oct, 2020 | Medium](https://medium.com/botify-labs/experience-working-with-600-tb-elasticsearch-cluster-b6b5a4fa9127)
 * [컨퍼런스 발표 - YouTube](https://www.youtube.com/playlist?list=PLhFRZgJc2afqkp5aJxMiQhTOZYUa7ITQv)
+* [검색을 위한 데이터 다루기 - 우아한형제들 기술 블로그](https://woowabros.github.io/woowabros/2021/03/02/search-system.html)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
