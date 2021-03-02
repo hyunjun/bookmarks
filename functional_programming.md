@@ -434,6 +434,7 @@ Functional Programming
 * [Image editing with Functors | Blog of Adrian Salajan](https://adrian-salajan.github.io/blog/2021/01/25/images-functor)
 * [**2020 Hindsight - Scala | 2020 Hindsight - Scala**](https://2020-hindsight-scala.kevinly.dev/)
 * [01A: Scala FP basics: First-class function, higher order function, statements Vs expressions, immutability & recursion | Java-Success.com](https://www.java-success.com/01a-scala-functional-programming-basics-first-class-function-higher-order-function/)
+* [A Monads Approach for Beginners, in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=d-dy1x33moA)
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)
