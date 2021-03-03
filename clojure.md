@@ -555,6 +555,7 @@ Clojure
   * [Clojure and Atom Editor Setup](https://lemmings.io/clojure-and-atom-editor-setup-40f8f09237b4) clojure atom virtualbox
   * [Atom for Clojure - YouTube](https://www.youtube.com/playlist?list=PLYSnXTnpiJ5m2KirGxz3CUpNHJKa5FGZS)
   * [atomo - Clojure's Atom implementation in JavaScript](https://github.com/dialelo/atomo)
+  * [Atom as an IDE for Clojure – Billy Gigurtsis](https://www.bgigurtsis.com/blog/clojureAtom)
 * [Avout - distributed state in clojure](http://avout.io/)
 * [better-cond: A version of cond that supports :let clauses, and a number of other conveniences](https://github.com/Engelberg/better-cond)
 * [bidi - In the grand tradition of Clojure libraries we begin with an irrelevant quote](https://github.com/juxt/bidi#comparison-with-other-routing-libraries)
