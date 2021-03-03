@@ -812,7 +812,8 @@ Machine Learning
 # JavaScript
 * [11 Javascript Machine Learning Libraries To Use In Your App](https://blog.bitsrc.io/11-javascript-machine-learning-libraries-to-use-in-your-app-c49772cca46c)
 
-# [Kaggle](https://www.kaggle.com/)
+# Kaggle
+* [Kaggle: Your Home for Data Science](https://www.kaggle.com/)
 * [A simple model for Kaggle Bike Sharing](http://brandonharris.io/kaggle-bike-sharing/)
 * [KaggleBreak/problems](https://github.com/KaggleBreak/problems)
 * [Part 1: For Beginners - Bag of Words 캐글뽀개기 6월 이상열](http://nbviewer.ipython.org/gist/syleeie2310/d720330f793203829e47)
@@ -918,6 +919,7 @@ Machine Learning
 * [데이터 과학자의 놀이터이자 배움터··· ‘캐글’ 탐험 안내서 - CIO Korea](http://www.ciokorea.com/news/156983#csidx38a8f0304e359eb99d874466bd08c99)
 * [Google Research Football with Manchester City F.C. | Kaggle](https://www.kaggle.com/c/google-football/discussion)
 * [Hello-Kaggle: Kaggle을 처음 접하는 사람들을 위한 문서](https://github.com/stevekwon211/Hello-Kaggle)
+* [캐글 넷플릭스(netflix) 데이터를 이용한 데이터 분석 실습 (1)](https://stricky.tistory.com/451)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
