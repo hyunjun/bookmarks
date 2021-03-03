@@ -168,6 +168,7 @@ Network
 * [Moloch - Full Packet Capture Large scale, open source, indexed packet capture and search](https://molo.ch/)
 * [Nebula - a scalable overlay networking tool with a focus on performance, simplicity and security](https://github.com/slackhq/nebula)
   * [Introducing Nebula, the open source global overlay network from Slack](https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack-884110a5579)
+* [packet-analyzer - a simple Wireshark frame dissector plugin written in Lua](https://github.com/shanicohen1902/packet-analyzer)
 * [pcap 라이브러리](http://ehclub.co.kr/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%88%A0/pcap%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
 * prism_pacman [**글로벌 네트워크 에뮬레이터 prism_pacman 소개**](https://d2.naver.com/helloworld/7847943)
 * [scapy - packet manipulation](http://www.secdev.org/projects/scapy)
