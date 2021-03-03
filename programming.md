@@ -355,6 +355,7 @@ Programming
 * [Mountain West Ruby 2012 Capability vs. Suitability by Gary Bernhardt - YouTube](https://www.youtube.com/watch?v=NftT6HWFgq0) 소프트웨어 산업의 기념비적인 업적들을 되짚으며 ‘더 많은 일을 가능케 하는’ 그리고 ‘더 안정적이고 예측 가능한’ 서로 충돌하는 두 목표를 어떻게 주거니 받거니 차례로 추구하며 발전해 왔는지 소개
 * [리멤버 서버/웹 팀은 어떻게 일을 하는가? | DRAMA&COMPANY](https://blog.dramancompany.com/2020/12/%eb%a6%ac%eb%a9%a4%eb%b2%84-%ec%84%9c%eb%b2%84-%ec%9b%b9-%ed%8c%80%ec%9d%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%9d%bc%ec%9d%84-%ed%95%98%eb%8a%94%ea%b0%80/)
 * [국내/한국 개발자 커뮤니티 모아보기](https://open-support.tistory.com/entry/%EA%B5%AD%EB%82%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0)
+* [**Hashids - generate short unique ids from integers**](https://hashids.org/) 여러가지 다양한 언어별 github repo 제공
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
