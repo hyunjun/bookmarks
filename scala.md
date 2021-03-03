@@ -1911,6 +1911,8 @@ Scala
   * [Validate Service Configuration in Scala](https://medium.com/@alexey_novakov/validate-service-configuration-in-scala-85f661c4b5a6)
   * [Data Juggling - Part 8 - Getting Started with #refined](https://www.youtube.com/watch?v=aZsmapo1afQ)
   * [Refined Types in Scala: the Good, the Bad and the Ugly](https://medium.com/swlh/refined-types-the-good-the-bad-and-the-ugly-ee971e5d9137)
+  * [Refined Types in Scala - Rock the JVM Blog](https://blog.rockthejvm.com/refined-types/)
+  * [Refined Types in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=IDrGbsupaok)
   * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=Ts_zsamUq7Y) Refined type
 * [scala-newtype - NewTypes for Scala with no runtime overhead](https://github.com/estatico/scala-newtype)
   * [Newtype](https://francistoth.github.io/2020/04/11/newtypes.html)
