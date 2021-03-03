@@ -869,6 +869,7 @@ Scala
       * [From idea to product with ZLayer](https://scala.monster/welcome-zio/)
       * [Zio ZLayer with playframework](https://medium.com/@aadelegue/zio-zlayer-with-playframework-8e393574bea7)
       * [ZLayers by example - YouTube](https://www.youtube.com/watch?v=u5IrfkAo6nk)
+      * [Structuring Services with ZIO and ZLayer - YouTube](https://www.youtube.com/watch?v=PaogLRrYo64)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * sort
   * [The complexity of Java comparators, and the simplicity of Scala sort by](https://levelup.gitconnected.com/the-complexity-of-java-comparators-and-the-simplicity-of-scala-sort-by-f34f44d4b759)
