@@ -63,6 +63,7 @@ House
 * [베란다·발코니 차이 모르고 집샀다가 '이행강제금 폭탄'](https://news.v.daum.net/v/20181023040105309)
 * [집 구할 때 주의할 점](https://imgur.com/a/3eCbRa2)
 * [전세계약대리인 주의합시다](https://blog.naver.com/hs-villa/221320279967)
+* [**역전세 상황에서 전세금 미반환으로 인한 소송 및 강제경매까지 후기**](https://gist.github.com/hyunjun/d35dc920155b31a259c47a59f142ee73#file-md)
 * [EBS가 이상해 — “EBS 경제대기획 빚 3부작”](https://medium.com/@ghilbut/ebs%EA%B0%80-%EB%A7%8E%EC%9D%B4-%EC%95%84%ED%8C%8C-ebs-%EA%B2%BD%EC%A0%9C%EB%8C%80%EA%B8%B0%ED%9A%8D-%EB%B9%9A-3%EB%B6%80%EC%9E%91-6ddb8a45e4d)
 * 미세 먼지
   * [실내 공기질 개선 관련 팁들](http://blog.chesterventures.com/221492244810)
