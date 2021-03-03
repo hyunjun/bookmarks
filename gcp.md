@@ -117,6 +117,7 @@ Google Cloud Platform GCP
 * [Neural Structured learning - DACON](https://dacon.io/codeshare/1809) 딥페이크 변조 영상 탐지 AI 경진대회
 * [google-cloud-4-words: The Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words)
 * [Google Updates Its Cloud Run Service Support for WebSockets, HTTP/2, and gRPC Bidirectional Streams](https://www.infoq.com/news/2021/01/google-cloud-run-updates/)
+* [VM Running HTTPS Secured Apache Server on GCP - Part 1: Provision a Virtual Machine - YouTube](https://www.youtube.com/watch?v=cDVK4dPUbJ0)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
