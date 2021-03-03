@@ -1685,6 +1685,7 @@ Scala
 * [This Is Your App on Scala 3 by John A. De Goes - YouTube](https://www.youtube.com/watch?v=NY2ZkcYZj54)
 * [Explicit Nulls in Scala 3. Scala 3 has an optional feature which… | by ayush mittal | Feb, 2021 | Medium](https://ayushm4489.medium.com/explicit-nulls-in-scala-3-9aa9cdb6b10c)
 * [Why Scala 3 will be awesome by Piotr Gołębiewski - YouTube](https://www.youtube.com/watch?v=lA37gzEiQw4)
+* [Scala 3: New Types | Rock the JVM - YouTube](https://www.youtube.com/watch?v=orTmm6OMaLw)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
