@@ -976,6 +976,9 @@ Machine Learning
   * [Democratising Machine learning with H2O](https://towardsdatascience.com/democratising-machine-learning-with-h2o-7f2f79e10e3f)
 * [hyperopt - Distributed Asynchronous Hyperparameter Optimization in Python](https://github.com/hyperopt/hyperopt)
 * [Impyute - a library of missing data imputation algorithms written in Python 3](https://impyute.readthedocs.io)
+* [**JupyterFlow - Run your workflow on JupyterHub**](https://jupyterflow.com/)
+  * [번역 데이터 과학자들은 쿠버네티스에 관심이 없습니다 - MLOps | 커피고래의 노트](https://coffeewhale.com/kubernetes/mlops/2021/01/28/mlops-determinedai/)
+  * [데이터 과학자를 위한 ML툴 | 커피고래의 노트](https://coffeewhale.com/kubernetes/mlops/2021/03/02/mlops-jupyterflow/)
 * [Leaf is a open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe](https://github.com/autumnai/leaf)
 * LightGBM
   * [Welcome to LightGBM’s documentation! — LightGBM 2.3.2 documentation](https://lightgbm.readthedocs.io/)
