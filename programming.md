@@ -756,6 +756,7 @@ Programming
 * [How I scaled a software system's performance by 35,000% | by Joseph Gefroh | The Startup](https://medium.com/swlh/how-i-scaled-a-software-systems-performance-by-35-000-6dacd63732df)
 * [The Evolution of Precomputation Technology and its Role in Data Analytics](https://www.infoq.com/articles/evolution-precomputation-technology-data-analytics/)
 * [Everything About Software Architecture | by Mohit Malhotra | The Startup | Feb, 2021 | Medium](https://medium.com/swlh/everything-aboutsoftware-architecture-dfd2b9351ef4)
+* [Storing and retrieving millions of ad impressions per second](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/storing-and-retrieving-millions-of-ad-impressions-per-second.html)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
