@@ -585,7 +585,9 @@ Linux
 * `rdate` [리눅스(Linux) 계열 운영체제에서 시간 동기화하기](https://jhrun.tistory.com/158)
 * `read`
   * [How to read from file or stdin in bash?](http://stackoverflow.com/questions/6980090/how-to-read-from-file-or-stdin-in-bash)
-* redirection [You are here: Home / Guides / Explained: Input, Output and Error Redirection in Linux Explained: Input, Output and Error Redirection in Linux](https://linuxhandbook.com/redirection-linux)
+* redirection
+  * [You are here: Home / Guides / Explained: Input, Output and Error Redirection in Linux Explained: Input, Output and Error Redirection in Linux](https://linuxhandbook.com/redirection-linux)
+  * [리다이렉션(redirection), 파이프(pipe)의 개념 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/linux-redirection/)
 * `rm`
   * [How to Recover a Deleted File in Linux](https://www-tecmint-com.cdn.ampproject.org/c/s/www.tecmint.com/recover-deleted-file-in-linux/amp/)
 * `rsync`
