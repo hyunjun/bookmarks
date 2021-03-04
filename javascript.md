@@ -1020,6 +1020,7 @@ Javascript
   * [크롬을 이용한 자바스크립트 개발환경](https://www.youtube.com/watch?v=7sdxBzw66Mw) ES6
   * [Deep dive into ES6 Symbols](https://medium.com/javascript-in-plain-english/deep-dive-into-es6-symbols-3b44f4ba7eb3)
   * [✍🏼ES6 빠르게 훑어보기 - YouTube](https://www.youtube.com/watch?v=Fknu06X4qV4)
+  * [✍🏼ES6 빠르게 훑어보기 #node.js - YouTube](https://www.youtube.com/watch?v=fI-ebwytPrM)
 
 # GraphQL
 * [GraphQL](https://facebook.github.io/react/blog/2015/05/01/graphql-introduction.html)
