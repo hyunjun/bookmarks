@@ -1185,6 +1185,7 @@ Python
   * [LAZY SORTING (PYTHON RECIPE)](http://code.activestate.com/recipes/280501-lazy-sorting/)
   * [sorted 함수 예제](http://knight76.tistory.com/entry/python3-sorted-%ED%95%A8%EC%88%98-%EC%98%88%EC%A0%9C)
   * [3 Reasons Why You Should Almost Always Use sorted() in Python](https://medium.com/swlh/3-reasons-why-you-should-almost-always-use-sorted-in-python-9fe122e6ce71)
+  * [파이썬 sorted 사용 방법을 알아봅시다.](https://codingdog.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-sorted-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4) custom class __lt__
   * cmp_to_key
     * [practice - from functools import cmp_to_key](https://github.com/hyunjun/practice/commit/78f4a0a967224b892495de97d937d0e3aacf423d)
     * [HackerRank Sorting: Comparator (Python)](https://somjang.tistory.com/entry/HackerRank-Sorting-Comparator-Python)
