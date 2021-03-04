@@ -69,6 +69,7 @@ Flutter
 * [Custom Keyboard 제작하기! feat. 카카오뱅크 - YouTube](https://www.youtube.com/watch?v=dfaFK561PAo)
 * [Custom Paint 로 에르메스 워치페이스 그려봤어요~ - YouTube](https://www.youtube.com/watch?v=hBq4bqNpcDA)
 * [Form 으로 손쉽게 여러개의 텍스트필드 상태관리하기! - YouTube](https://www.youtube.com/watch?v=V4xk4pmzY2I)
+* [Hello Flutter 2.0!. 오늘 오전 2시 30분에 시작 된 Flutter Engage 행사에서는… | by CuroGom | Flutter Korea | Mar, 2021 | Medium](https://medium.com/flutter-korea/hello-flutter-2-0-12b56766a4cf)
 
 # Course Lecture MOOC
 * [Develop your first Application with Flutter](https://hackernoon.com/develop-your-first-application-with-flutter-60c4308d18b7)
@@ -131,4 +132,6 @@ Flutter
 * GetX
   * [Flutter 개발자는 무조건 알아야 하는 GetX #1-Navigation - YouTube](https://www.youtube.com/watch?v=wgJItCEL7hk)
   * [GetX 상태관리 이 영상 하나면 끝! #2 - State Management - YouTube](https://www.youtube.com/watch?v=CoFLunStYdU)
+* [flutter-folio: A platform adaptive Flutter app for desktop, mobile, and web](https://github.com/gskinnerTeam/flutter-folio)
+  * [Flutter Folio: A platform adaptive Flutter app for desktop, mobile, and web](https://flutter.gskinner.com/)
 * Retrofit [Rest API 엔드포인트 따느라 삽질 하셨나요? 제가 도와드릴게요 Retrofit! - YouTube](https://www.youtube.com/watch?v=GNc20BkoA2w)
