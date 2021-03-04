@@ -2640,7 +2640,7 @@ Javascript
 * [React.js 개발자를 위한 SSR 앱 개발 및 배포하기 - 원지혁 (AUSG 1기) :: AWS Community Day 2020](https://www.slideshare.net/awskr/aws-community-day-2020-reactjs-ssr)
 * [리액트 function component와 class component는 어떻게 다를까?](https://www.hamadevelop.me/reactfunctionclassdiff/)
 * [A simplified Jira clone built with React and Node](https://github.com/oldboyxx/jira_clone)
-* [How to Build a NETFLIX Clone using React, Firebase and Material-UI](https://morioh.com/p/04d033c106f5?f=5c224490c513a556c9042463)
+* [How to Build a NETFLIX Clone using React, Firebase and Material-UI](https://morioh.com/p/04d033c106f5)
 * [How to Build a TWITTER Clone with REACT.JS](https://morioh.com/p/67c41fc5f515)
 * [Build a Facebook Clone with React and Firebase](https://morioh.com/p/9fe6b56e50f5)
 * [Javascript(React)로 이미지 파일 용량 줄이기](https://www.popit.kr/react-%EC%9B%B9%EC%97%90%EC%84%9C-%EC%97%85%EB%A1%9C%EB%93%9C-%EC%A0%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8C%8C%EC%9D%BC-%EC%9A%A9%EB%9F%89-%EC%A4%84%EC%9D%B4%EA%B8%B0/)
