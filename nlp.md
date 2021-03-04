@@ -1022,6 +1022,8 @@ NLP
   * [Pororo 출시기념 이메일 요약기 - YouTube](https://www.youtube.com/watch?v=PtgnzgaURIM)
     * [gmail-summary.ipynb - Colaboratory](https://colab.research.google.com/drive/1vf6bRcjnTjztobN394KNtt9E_FPEKgUb#scrollTo=OLEk3DkImC-S)
     * [gmail-summary.ipynb - Colaboratory](https://colab.research.google.com/gist/hyunjun/4e0260800599ca4af8323039569bb062/gmail-summary.ipynb)
+  * [stock-news-summary: 관심 주식 종목의 뉴스의 요약본을 메일로 전달하는 모듈](https://github.com/myeonghak/stock-news-summary)
+    * [NLP 주식 뉴스 요약 메일링 프로그램 - 러닝머신의 Train Data Set](https://myeonghak.github.io/natural%20language%20processing/NLP-%EC%A3%BC%EC%8B%9D-%EB%89%B4%EC%8A%A4-%EC%9A%94%EC%95%BD-%EB%A9%94%EC%9D%BC%EB%A7%81-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8/)
 * [Pragmatic Segmenter - a rule-based sentence boundary detection gem that works out-of-the-box across many languages](https://github.com/diasks2/pragmatic_segmenter)
 * [PyText - a deep-learning based NLP modeling framework built on PyTorch](https://facebook.ai/developers/tools/pytext)
   * [PyText - A natural language modeling framework based on PyTorch https://fb.me/pytextdocs ](https://github.com/facebookresearch/pytext)
