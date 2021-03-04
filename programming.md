@@ -2693,6 +2693,7 @@ Programming
 
 # Troubleshooting, 장애 해결
 * [LINE의 장애 보고와 후속 절차 문화](https://engineering.linecorp.com/ko/blog/line-failure-reporting-and-follow-up-process-culture/)
+* [테크이야기 앱 서비스 장애편 #1 - 화면 로딩 속도](https://blog.imqa.io/app_failure_launch_time/)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
