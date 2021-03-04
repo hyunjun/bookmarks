@@ -897,6 +897,7 @@ AWS
 * [RDS Replica의 부하를 분산하는 방법](https://developer88.tistory.com/318)
 * [AWS 라우트53(Route53), 다른 계정으로 호스팅 영역 DNS 레코드 이전하기 | 44BITS](https://www.44bits.io/ko/post/aws-route-53-migration-hosted-zone-to-another-account)
 * [AWS 라우트53(Route 53) 다른 계정으로 도메인 이전하기 | 44BITS](https://www.44bits.io/ko/post/aws-route-53-migration-domain-to-another-account)
+* [GoDaddy에서 Route 53으로 네임 서버 변경하기 – OpsNow Tech Blog](https://blog.opsnow.com/42)
 
 # S3
 * [S3FS가 느리다구요? 그럼 goofys를 사용해 보세요](http://www.studyforcloud.com/s3fsga-neuridaguyo-geureom-goofysreul-sayonghae-boseyo-2/)
@@ -947,6 +948,9 @@ AWS
 * [Sagemaker Github Actions - YouTube](https://www.youtube.com/watch?v=SjqPeL4QJao)
 * [Introducing SageMaker Data Parallelism - AWS re:Invent 2020 - YouTube](https://www.youtube.com/watch?v=qS4VgHocAGQ)
 * [Scale By The Bay 2020: Antje Barth, Put Your Machine Learning on Autopilot - YouTube](https://www.youtube.com/watch?v=IBE6MdiyKlY)
+* [Amazon SageMaker 기반 사전 훈련된 딥러닝 모델 손쉽게 배포하기 – 김대근:: AWS Innovate 2021 - YouTube](https://www.youtube.com/watch?app=desktop&v=ZdOcrLKow3I)
+* [sagemaker-inference-samples-kr: Deep Learning(DL) Inference hands-on labs; Learn how to host pre-trained DL models to Amazon SageMaker Endpoint without building Docker Image](https://github.com/aws-samples/sagemaker-inference-samples-kr)
+* [인공지능을 대규모로 가속화하려면?](https://brunch.co.kr/@synabreu/108)
 
 # TDD, Test
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
