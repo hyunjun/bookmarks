@@ -3188,6 +3188,7 @@ Python
 * [**uvloop is a fast, drop-in replacement of the built-in asyncio event loop**](https://github.com/MagicStack/uvloop)
   * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
   * [High performance networking in Python (Yury Selivanov)](https://www.youtube.com/watch?v=WSq0S7UvI8E)
+  * [**Asynchronous Engine — (2) uvloop. uvloop Introduction & Inside (code… | by 달가을 | Mar, 2021 | Medium**](https://blue-hope.medium.com/asynchronous-engine-2-uvloop-ef895d2c2b4a)
 * [Uzi - an stunning Ransomeware due to its features](https://github.com/VedantGawade/Uzi)
 * [validus - A dead simple Python data validation library. It supports Python 3 only](https://github.com/shopnilsazal/validus)
 * [viztracer: VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution](https://github.com/gaogaotiantian/viztracer)
