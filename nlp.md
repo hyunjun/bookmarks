@@ -669,6 +669,7 @@ NLP
   * [A state-of-the-art open source chatbot](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot)
 * [**dialogpt-chat: Chatting with DialoGPT (Large-Scale Generative Pre-training for Conversational Response Generation)**](https://github.com/hyunwoongko/dialogpt-chat)
 * [kochat: Opensource Korean chatbot framework based on deep learning](https://github.com/gusdnd852/kochat)
+* [openchat: Opensource chatting framework for generative models](https://github.com/hyunwoongko/openchat)
 * [RASA - Create assistants that go beyond basic FAQs](https://rasa.com)
   * [Building a chatbot with Rasa](https://itnext.io/building-a-chatbot-with-rasa-9c3f3c6ad64d)
   * [Building a Conversational Chatbot for Slack using Rasa and Python -Part 1](https://towardsdatascience.com/building-a-conversational-chatbot-for-slack-using-rasa-and-python-part-1-bca5cc75d32f)
