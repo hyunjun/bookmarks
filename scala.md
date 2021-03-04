@@ -1261,6 +1261,8 @@ Scala
   * [How (not) to use shapeless for cross-layer conversions in Scala](https://blog.softwaremill.com/how-not-to-use-shapeless-for-cross-layer-conversions-in-scala-9ac36363aed9)
   * [Seriously Good Software Ch 3 Exercise 3 (with cats and shapeless)](https://gist.github.com/sungkmi/0d2cb8686d7f6170eec0a216eb776301) state monad version
 * [Skinny-ORM](http://skinny-framework.org/)
+* [skunk: A data access library for Scala + Postgres](https://github.com/tpolecat/skunk)
+  * [Pure Functional Database Programming‚ without JDBC - Rob Norris - YouTube](https://www.youtube.com/watch?v=NJrgj1vQeAI)
 * [slick - Functional Relational Mapping for Scala](http://slick.lightbend.com/)
   * [scala-slick.org](https://scala-slick.org/)
   * [Essential Slick](https://books.underscore.io/essential-slick/essential-slick-3.html)
