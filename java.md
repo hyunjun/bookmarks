@@ -116,6 +116,7 @@ Java
 * [maven - What is an uber jar? - Stack Overflow](https://stackoverflow.com/questions/11947037/what-is-an-uber-jar/39030649#39030649)
 * [Creating a Java off-heap in-memory database](https://blogs.oracle.com/javamagazine/creating-a-java-off-heap-in-memory-database)
 * [Impl classes are evil - OctoPerf](https://octoperf.com/blog/2016/10/27/impl-classes-are-evil/)
+* [16+ Tech Key Areas to go places as a Java Engineer or Architect | Java-Success.com](https://www.java-success.com/what-are-the-16-technical-key-areas-of-java-programming/)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -1359,6 +1360,7 @@ Java
 * [Spring Boot 2.3.0 Focuses on the Cloud](https://www.infoq.com/news/2020/06/spring-boot-230-cloud/)
 * [Spring Boot에서 AWS 파라미터 스토어로 private 설정값 사용하기](https://jojoldu.tistory.com/509)
 * [동일한 Bean(Class)에서 @Transactional 동작 방식 | Popit](https://www.popit.kr/%EB%8F%99%EC%9D%BC%ED%95%9C-beanclass%EC%97%90%EC%84%9C-transactional-%EB%8F%99%EC%9E%91-%EB%B0%A9%EC%8B%9D/)
+* [@Transactional의 rollback 이야기](https://kevink1103.oopy.io/465191f2-757e-4d0f-8e92-25d36de18070)
 * [Spring Boot에서 yyyy-MM 포맷으로 날짜 받고싶을때](https://jojoldu.tistory.com/527)
 * [Spring Boot 기초 정리 : 네이버 블로그](https://blog.naver.com/java7ang/222151557473)
 * [1. Spring Boot + MySQL 연동](https://kim-jong-hyun.tistory.com/12)
