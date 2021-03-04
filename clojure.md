@@ -273,6 +273,7 @@ Clojure
 * [A closer look at {{roam/render}}](https://www.zsolt.blog/2021/02/a-closer-look-at-roamrender.html)
 * [Clojure's slow start — what's inside? - Clojure Goes Fast](http://clojure-goes-fast.com/blog/clojures-slow-start/)
 * [Agile & Coding: Interactive Web Development](https://davidvujic.blogspot.com/2021/02/interactive-web-development.html)
+* [Adam James VODS - YouTube](https://www.youtube.com/channel/UCuNzTdzcO2RwHd_YUrhIFcw?app=desktop)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
