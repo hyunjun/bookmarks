@@ -1226,6 +1226,7 @@ Javascript
 * [Top JavaScript Frameworks and Tech Trends for 2021 | by Eric Elliott | JavaScript Scene | Dec, 2020 | Medium](https://medium.com/javascript-scene/top-javascript-frameworks-and-tech-trends-for-2021-d8cb0f7bda69)
 * [Data Fetching on the Web Still Sucks](https://performancejs.com/post/hde6a90/Data-Fetching-on-the-Web-Still-Sucks)
 * [금액-한글 변환 프로젝트 npm 배포하기 사내에서 사용 중이던 함수를 오픈소스로 만든 과정을 소개합니다](https://www.huskyhoochu.com/num-to-korean)
+* [댓글 플러그인 아포가토](http://www.slideshare.net/mctenshi/ss-55186165)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
 * aeiou
@@ -1590,6 +1591,7 @@ Javascript
 * [Unreal.js: Javascript runtime built for UnrealEngine 4](https://github.com/ncsoft/Unreal.js)
 * [urlcat: A URL builder library for JavaScript](https://github.com/balazsbotond/urlcat)
 * [vectorious - A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
+* [vite: Next generation frontend tooling. It's fast!](https://github.com/vitejs/vite)
 * [Vulcan: A JavaScript Automated Proof System](http://rmarcus.info/blog/2015/09/02/vulcan.html)
 * [WarriorJS - An exciting game of programming and Artificial Intelligence](https://warrior.js.org/) 일종의 게임, 유저가 직접 JS를 짜서 플레이
 * [watermark.js](http://brianium.github.io/watermarkjs/)
@@ -1651,7 +1653,6 @@ Javascript
 * [WYSIWYG editors](https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors)
 * [xeger - More verbose and readable regular expressions](https://github.com/JonAbrams/xeger)
 * [XType - jElegant, highly efficient data validation for JavaScript](http://xtype.js.org/overview)
-* [댓글 플러그인 아포가토](http://www.slideshare.net/mctenshi/ss-55186165)
 
 ## Library Angular React Vue comparison
 * [AngularJS vs. ReactJS vs. VueJS — Comparison](https://medium.com/@pixxelblog/angularjs-vs-reactjs-vs-vuejs-comparison-fd125a5ab2b0)
@@ -2888,6 +2889,8 @@ Javascript
 * Ext JS
   * [Ext JS 6 가이드](https://wikidocs.net/book/372)
 * [Flexbox.io](http://flexbox.io)
+* [flowchart-fun: A small app for making quick flowcharts from text ⿻](https://github.com/tone-row/flowchart-fun)
+  * [❄️예제로 맛보는 React.js #flowchart - YouTube](https://www.youtube.com/watch?v=xs7k-eHO81g)
 * [Formik - Build forms in React, without the tears](https://jaredpalmer.com/formik/)
   * [React Form Validation with Formik and Yup](https://hackernoon.com/react-form-validation-with-formik-and-yup-8b76bda62e10)
 * Framer X [내가 Framer X에 미쳐있는 이유 (Framer X 6개월 사용기)](https://medium.com/harbor-school/내가-framer-x에-미쳐있는-이유-framer-x-6개월-사용기-a3a400eddca)
