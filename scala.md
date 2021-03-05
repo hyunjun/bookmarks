@@ -1098,6 +1098,7 @@ Scala
   * [Scala Cats Contravariant Functors | by Krzysztof Grajek | Feb, 2021 | SoftwareMill Tech Blog](https://blog.softwaremill.com/scala-cats-contravariant-functors-2af1141c5956)
   * [Pure Functional Stream processing in Scala: Cats and Akka – Part 1 – Mihai Safta](https://www.mihaisafta.com/blog/2021/02/06/pure-functional-stream-processing-in-scala-cats-and-akka-part-1/)
   * [Pure Functional Stream processing in Scala: Cats and Akka – Part 2 - Mihai Safta](https://www.mihaisafta.com/blog/2021/02/14/pure-functional-stream-processing-in-scala-cats-and-akka-part-2/)
+  * [Scala Cats Invariant Functor | by Krzysztof Grajek | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/scala-cats-invariant-functor-be57d2e2fa91)
   * [Cats Effect: Home](https://typelevel.org/cats-effect/)
     * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
     * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
@@ -2018,3 +2019,5 @@ Scala
 * [Let’s Code Real World App Using Purely Functional Techniques (in Scala) - YouTube](https://www.youtube.com/watch?v=m40YOZr1nxQ)
 * [01: Scala Functional Programming basics - pure functions, referential transparency, side effects, etc | Java-Success.com](https://www.java-success.com/01-scala-functional-programming-basics-pure-functions-referential-transparency-side-effects-etc/)
 * [Scala First: Lessons from 3 student generations | Bjorn Regnell, Lund Univ., Sweden. | 12.06.2019 at 11:17 | Part of Scala Days 2019 | Swiss Tech Convention Center, EPFL, Lausanne](https://portal.klewel.com/watch/webcast/scala-days-2019/talk/10/)
+* [Lean for Scala programmers | Typista.org](https://typista.org/lean-for-scala-programmers/)
+* [Scala Algorithms - Master your scala](https://www.scala-algorithms.com/) 유료 판매하는 알고리즘 문제 스칼라 풀이인데 무료 6개는 기초로 볼만함
