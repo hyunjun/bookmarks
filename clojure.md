@@ -846,6 +846,7 @@ Clojure
 * [clojure-rust-graalvm: An example of Clojure program calling a Rust library, all combined into one executable using GraalVM](https://github.com/borkdude/clojure-rust-graalvm)
 * [datalevin/native at master · juji-io/datalevin](https://github.com/juji-io/datalevin/tree/master/native)
 * [lucene-grep: Grep-like utility based on Lucene Monitor compiled with GraalVM native-image](https://github.com/dainiusjocas/lucene-grep)
+* [tools-deps-native-experiment](https://github.com/borkdude/tools-deps-native-experiment)
 
 ## Library GraphQL
 * [The Case for Clojure and GraphQL: Replacing Django](https://functional.works-hub.com/blog/The-Case-for-Clojure-and-GraphQL-Replacing-Django)
