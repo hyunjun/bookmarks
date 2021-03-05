@@ -658,6 +658,7 @@ Clojure
 * [flambo - A Clojure DSL for Apache Spark](https://github.com/yieldbot/flambo)
 * [flare - Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.)](https://github.com/aria42/flare)
 * [fxl - a Clojure spreadsheet library](https://github.com/zero-one-group/fxl)
+  * [Scicloj Meeting #20: Anthony Khong about fxl: a composable, data-oriented spreadsheet library - YouTube](https://www.youtube.com/watch?v=d6qOzPQ9NUk)
 * fxml
   * [github.com/netpyoung/pt.using-fxml-on-clojure](https://github.com/netpyoung/pt.using-fxml-on-clojure)
   * [Using FXML on Clojure](https://www.slideshare.net/netpyoung/using-fxml-on-clojure)
@@ -706,7 +707,7 @@ Clojure
   * [depstar: Builds JARs, uberjars, does AOT, manifest generation, etc for deps.edn projects](https://github.com/seancorfield/depstar)
 * [LibHoney for Java | Honeycomb](https://docs.honeycomb.io/getting-data-in/java/libhoney/)
   * [APM with honeycomb.io in Clojure - Tim Zöller](https://javahippie.net/clojure/apm/monitoring/2021/01/30/honeycomb-with-clojure.html)
-* [libjulia-clj: Binding to julia via jna -- Currently extremely unstable --](https://github.com/cnuernber/libjulia-clj)
+* [libjulia-clj: Julia bindings for Clojure -- Currently somewhat unstable --](https://github.com/cnuernber/libjulia-clj)
 * [libpython-clj - libpython bindings into the techascent ecosystem](https://github.com/cnuernber/libpython-clj)
   * [Hugging Face GPT With Clojure](https://gigasquidsoftware.com/blog/2020/01/10/hugging-face-gpt-with-clojure/)
 * logger [Simple logger that works in bb](https://gist.github.com/borkdude/c97da85da67c7bcc5671765aef5a89ad)
