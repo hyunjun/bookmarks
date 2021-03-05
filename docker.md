@@ -915,6 +915,7 @@ Docker
 * [10 awesome Kubernetes tools every user should know | DevNation Tech Talk | Red Hat Developer](https://developers.redhat.com/devnation/tech-talks/10-kubernetes-tools)
 * [Migrating a gigantic financial system to 20,000 pods in the cloud | by Hubert Słojewski | VirtusLab | Feb, 2021 | Medium](https://medium.com/virtuslab/migrating-a-gigantic-financial-system-to-20-000-pods-in-the-cloud-220d5fcfcbc0)
 * [Kubernetes Cluster API 따라하며 이해하기 :: 조은우 개발 블로그](https://jonnung.dev/kubernetes/2021/02/28/cluster-api-quickstart/)
+* [제3회 스포카콘 Kubernetes in Spoqa](https://www.slideshare.net/ssuser1ac60e/3-kubernetes-in-spoqa)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)

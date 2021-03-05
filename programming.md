@@ -1430,6 +1430,7 @@ Programming
 * [Soscon](http://www.soscon.net/)
   * [“삼성표 오픈소스 기술, 써보셨나요?”](http://www.bloter.net/archives/242002)
   * [개발자, 회사.. 왜 오픈소스를 해야할까?](https://www.slideshare.net/MinsukLee/soscon2019/MinsukLee/soscon2019)
+* [Spoqa 기술 블로그 | 제3회 스포카콘 후기 및 발표 자료 공유](https://spoqa.github.io/2021/03/05/spoqacon-review.html)
 * Strata Data Conference 
   * [Make Data Work](https://conferences.oreilly.com/strata/strata-ny/public/schedule/proceedings)
 * Tech planet
