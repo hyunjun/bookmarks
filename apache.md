@@ -1032,3 +1032,4 @@ Apache
   * [Real-time Service Configuration으로 Consul을 신주소 서비스에 적용한 사례](http://woowabros.github.io/tools/2018/10/08/location-service-with-rcs.html)
   * [Mitchell Hashimoto on Consul since 1.2 and its Role as a Modern Service Mesh](https://www.youtube.com/watch?v=ZQFzR9JjxiI)
   * [Announcing HashiCorp’s Homebrew Tap](https://www.hashicorp.com/blog/announcing-hashicorp-homebrew-tap)
+  * `/usr/bin/consul-template -consul-retry-attempts=1 -template "./dynamic.ctmpl:./dynamic.conf" -config="/etc/consul.d/template/config.json" -once` template에서 conf를 생성하는 예
