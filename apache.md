@@ -31,6 +31,10 @@ Apache
 * [AWS EMR과 Airflow를 이용한 Batch Data Processing | by Min Jo | 101-devs | Aug, 2020 | Medium](https://medium.com/class101-dev/aws-emr%EA%B3%BC-airflow%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-batch-data-processing-a100fc2f4f10)
 * [CLASS101에서 Airflow와 Amazon EMR을 활용한 ETL 파이프라인 구축 - 조민구(CLASS101) :: 제32회 AWSKRUG DataScience모임 - YouTube](https://www.youtube.com/watch?v=ZhW0exu-woU)
 * [Introducing Airflow 2.0 | Astronomer](https://www.astronomer.io/blog/introducing-airflow-2-0)
+* [Airflow 실패여부 slack알람으로 받기 (python)](https://burning-dba.tistory.com/102)
+* [airflow CPU가 높게 점유되는 현상](https://burning-dba.tistory.com/111)
+* [airflow dag의 task를 실행하고 동작하지 않는 현상](https://burning-dba.tistory.com/117)
+* [실무에 바로 사용하는 Airflow 2.0 설치](https://burning-dba.tistory.com/127)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
