@@ -510,6 +510,7 @@ ElasticSearch - Lucene
   * [Embulk 공통 설정 외부로 분리하기](https://jungwoon.github.io/bigquery/2017/10/16/Embulk-Liquid/)
 * [EMS (Elasticsearch Monitoring System)](https://github.com/alden-kang/EMS)
 * [escli](https://github.com/DevopsArtFactory/escli) elastic search에 command를 curl 대신 편하게 보낼 수 있는 command line tool
+  * [Elastic Community Conference: 효율적인 ElasticSearch 클러스터 운영을 위한 escli 소개 - YouTube](https://www.youtube.com/watch?v=O5O-O9ydRzs)
 * [es-fixtures - Simple Fixture Loading for Elasticsearch from Node.js](https://github.com/toniov/es-fixtures)
 * [esquery-proxy - Elasticsearch 용 RESTful API Gateway/Proxy](http://jjeong.tistory.com/1268)
 * [es-swapi-test](https://github.com/ernestorx/es-swapi-test/blob/master/ES%20notebook.ipynb?__hstc=62641971.0135eefa3bdff6b723c411e4c9086d2d.1448241371111.1448241371111.1448241371111.1&__hssc=62641971.1.1448241371112&__hsfp=2294634674)
