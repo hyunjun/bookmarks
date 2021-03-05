@@ -2433,7 +2433,6 @@ Python
 * [jupyter notebook(주피터 노트북) 사용법](https://www.youtube.com/watch?v=jmk-3G8FYII)
 * [주피터 노트북 초기 환경설정 BEST3!](https://tariat.tistory.com/741)
 * [GPU Dashboards in Jupyter Lab](https://medium.com/rapids-ai/gpu-dashboards-in-jupyter-lab-757b17aae1d5)
-* [Jupyter is now a full-fledged IDE](https://towardsdatascience.com/jupyter-is-now-a-full-fledged-ide-c99218d33095)
 * [Jupyter Notebooks in the IDE](https://towardsdatascience.com/jupyter-notebooks-in-the-ide-visual-studio-code-versus-pycharm-5e72218eb3e8)
 * [A Jupyter kernel for SQLite - Jupyter Blog](https://blog.jupyter.org/a-jupyter-kernel-for-sqlite-9549c5dcf551)
 * [4 Awesome Tips for Enhancing Jupyter Notebooks - Towards Data Science](https://towardsdatascience.com/4-awesome-tips-for-enhancing-jupyter-notebooks-4d8905f926c5)
@@ -2444,7 +2443,6 @@ Python
 * [Making data science notebook collaborative - Jan Matas PyData Prague #8 2020 - YouTube](https://www.youtube.com/watch?v=GQr1uMK74F4)
 * [9 things you did not know about jupyter notebook | by Magdalena Konkiewicz | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3)
 * [Top 8 magic commands in Jupyter Notebook | by Magdalena Konkiewicz | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/top-8-magic-commands-in-jupyter-notebook-c1582e813560)
-* [An SQL solution for Jupyter. xeus-sql: A xeus-sqlite sequel | by Mariana Meireles | Feb, 2021 | Jupyter Blog](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925)
 * [BayPiggies July 2020 - "Notebooks Night" - YouTube](https://www.youtube.com/watch?v=8WnCWdbpIPU)
 
 ## Jupyter Library
@@ -2538,6 +2536,10 @@ Python
   * [사이킷런 해부학](https://drive.google.com/file/d/1NKZVDHVYdBCaGrY-Uf5J812p9M-R_Z1y/)
 * [Traitlets](https://github.com/ipython/traitlets)
 * Voila [Voila를 사용해 Jupyter Notebook Dashboard 만들기](https://zzsza.github.io/development/2020/01/06/jupyter_notebook_voila_dashboard/)
+* [xeus-python: Jupyter kernel for the Python programming language](https://github.com/jupyter-xeus/xeus-python)
+  * [Jupyter is now a full-fledged IDE](https://towardsdatascience.com/jupyter-is-now-a-full-fledged-ide-c99218d33095)
+  * [Jupyter: Get ready to ditch the IPython kernel | by Dimitris Poulopoulos | Medium | Towards Data Science](https://towardsdatascience.com/jupyter-get-ready-to-ditch-the-ipython-kernel-54d60776d7ef)
+  * [An SQL solution for Jupyter. xeus-sql: A xeus-sqlite sequel | by Mariana Meireles | Feb, 2021 | Jupyter Blog](https://blog.jupyter.org/an-sql-solution-for-jupyter-ef4a00a0d925)
 
 ## Jupyter cloud
 * [Six easy ways to run your Jupyter Notebook in the cloud](https://www.dataschool.io/cloud-services-for-jupyter-notebook/)
