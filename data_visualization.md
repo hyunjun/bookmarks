@@ -357,6 +357,7 @@ Data Visualization
 * [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
   * [You Might Not Need QGIS](http://blog.webkid.io/you-might-not-need-qgis/)
 * [ranwhen – Visualize when your system was running](https://github.com/p-e-w/ranwhen)
+* [scientific-visualization-book: ❗️WIP❗️An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book)
 * [SharkFest 2014 - Packet Analysis and Visualization with SteelScript](https://support.riverbed.com/apis/steelscript/SharkFest2014.slides.html)
 * [Superset - a data exploration platform designed to be visual, intuitive and interactive](http://superset.incubator.apache.org/)
 * [sweetviz: Visualize and compare datasets, target values and associations, with one line of code](https://github.com/fbdesignpro/sweetviz)
@@ -376,7 +377,7 @@ Data Visualization
   * [Grouped bar chart with labels — Matplotlib 3.2.1 documentation](https://matplotlib.org/3.2.1/gallery/lines_bars_and_markers/barchart.html)
 * [matplotlib/cheatsheets: Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets)
 * [Matplotlib Cheat Sheet: Plotting in Python](https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet)
-* [Matplotlib 3.1 cheat sheet. From an upcoming book on matplotlib](https://github.com/rougier/matplotlib-cheatsheet)
+* [matplotlib-cheatsheet: Matplotlib 3.1 cheat sheet](https://github.com/rougier/matplotlib-cheatsheet)
 * `http_proxy=x.y.z:port https_proxy=x.y.z:port conda install matplotlib`
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)
 * [The Simplest Way to Create Visualizations in Python Isn’t With matplotlib. | by Andre Ye | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/the-simplest-way-to-create-complex-visualizations-in-python-isnt-with-matplotlib-a5802f2dba92)
