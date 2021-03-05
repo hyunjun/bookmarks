@@ -886,6 +886,7 @@ AWS
 * [RDS를 복제해 주는 Replication 설정하기 #Master #Slave #AWS](https://developer88.tistory.com/317)
 * [RDS CA 인증서 2015 -> 2019 변경](https://linuxer.name/2019/10/rds-ca-인증서-2015-2019-변경/)
 * [AWS 7월 새소식 요약 및 Amazon RDS Proxy 집중 분석 :: 차니의 #클라우드클리닉 18회 :: Channy's Blog](http://blog.creation.net/channy-cloud-clinic-ep18)
+* [RDS 생성 및 R/Python 연동 - 미완성의신](https://unfinishedgod.netlify.app/2021/03/05/aws-rds-%EC%83%9D%EC%84%B1-%EB%B0%8F-r-python-%EC%97%B0%EB%8F%99/)
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 
 # Route53
