@@ -1741,6 +1741,7 @@ Javascript
 * [How to get started with internationalization in JavaScript](https://medium.freecodecamp.org/how-to-get-started-with-internationalization-in-javascript-c09a0d2cd834)
 * [자동완성, 힌트, 오류 확인되는 국제화 개발 환경 만든 이야기](https://www.notion.so/24434e28291049359918441c582ac4bb)
 * [JavaScript International Methods](https://itnext.io/javascript-international-methods-b70a2de09d92)
+* [국제화(i18n) 자동화 가이드 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210303)
 * [LinguiJS 를 사용하여 리액트 앱 다국어 지원하기](https://medium.com/plustv/linguijs-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%95%B1-%EB%8B%A4%EA%B5%AD%EC%96%B4-%EC%A7%80%EC%9B%90%ED%95%98%EA%B8%B0-ef7ea234c6a8)
 * [Polyglot.js - tiny I18n helper library by AirBnb](http://airbnb.io/polyglot.js/)
   * [What I learned by reverse-engineering Airbnb’s internationalization library](https://medium.freecodecamp.org/what-i-learned-by-reverse-engineering-airbnbs-internationalization-library-85580fe56ca3)
