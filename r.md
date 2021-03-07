@@ -339,6 +339,7 @@ R
 * [웹에서 하는 R통계 : P값이란 무엇인가? - YouTube](https://www.youtube.com/watch?v=BBBrb3KIxnc)
 * [제1종오류, 제2종오류, 샘플수, 다중검정문제 - YouTube](https://www.youtube.com/watch?v=W8TuCuf7iHg)
 * [샘플수의 계산 - YouTube](https://www.youtube.com/watch?v=ZRCQkuC6meg)
+* [기술통계, 통계결과를 ppt,word로 다운받기 - YouTube](https://www.youtube.com/watch?v=2HQ8_OiQk-c)
 
 # API
 * [REX: Look around – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2229)
@@ -560,6 +561,7 @@ R
   * [purrrogress - Add progress bars to mapping functions](https://github.com/halpo/purrrogress)
 * [R4Tistory](http://www.issactoast.com/category/R4Tistory%ED%8C%A8%ED%82%A4%EC%A7%80)
 * [ranger: A Fast Implementation of Random Forests](https://github.com/imbs-hl/ranger)
+* ragg [Modern Text Features in R](https://www.tidyverse.org/blog/2021/02/modern-text-features/)
 * [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)
 * [RcppArmadillo 0.5.200.1.0](http://www.r-bloggers.com/rcpparmadillo-0-5-200-1-0/)
 * [reactable-shiny-korea.pdf at master · YoungjunNa/presentations](https://github.com/YoungjunNa/presentations/blob/master/reactable-shiny-korea.pdf)
