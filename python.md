@@ -2807,6 +2807,7 @@ Python
 * [dash - a Python framework for building analytical web applications. No JavaScript required](https://github.com/plotly/dash)
   * [Dash: A Beginner’s Guide](https://towardsdatascience.com/dash-a-beginners-guide-d118bd620b5d)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
+* [Datalore란 무엇인가요? | The JetBrains Datalore Blog](https://blog.jetbrains.com/ko/datalore/2020/11/02/what-is-datalore/)
 * [DataMatrix - an intuitive Python library for working with column-based and continuous data](http://datamatrix.cogsci.nl/)
   * [Analyzing eye-movement and pupil-size data with Python DataMatrix](https://www.youtube.com/watch?v=PtUmhQ2vupw)
 * [dateutil - powerful extensions to datetime](https://pypi.org/project/python-dateutil/)
