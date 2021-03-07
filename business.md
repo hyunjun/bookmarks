@@ -475,6 +475,7 @@ Business
 * [좋은 PM이라면 늘 주의해야 할 4가지 의사결정 편향](https://brunch.co.kr/@ywkim36/20)
 * [나는 어떤 프로덕트 매니저 유형일까?](https://brunch.co.kr/@windydog/423)
 * [Creating Balance between Product Managers & Engineers](https://www.infoq.com/presentations/balance-management-engineers/)
+* [프로덕트 오너와 프로덕트 매니저가 같이 일하면?](https://brunch.co.kr/@yongjinjinipln/91)
 * [Ego Is the Enemy of Good Leadership](https://hbr.org/2018/11/ego-is-the-enemy-of-good-leadership)
 * [What Leaders Really Do 번역](https://docs.google.com/document/d/1mtClcLckGfdCXjtHfvSJj_5rZNXj8nSw_wqQagUy9W4)
 * [14화 리더가 절대 하지 말아야 하는 세가지 행동](https://brunch.co.kr/@mindclinic/94)
