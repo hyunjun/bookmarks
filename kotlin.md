@@ -204,6 +204,7 @@
 * [vararg 로 가변 인자를 전달하는 방법](https://developer88.tistory.com/322)
 * [Kotlin Collection Functions Cheat Sheet](https://medium.com/@elye.project/kotlin-collection-functions-cheat-sheet-975371a96c4b)
   * [Kotlin의 Collection 함수](https://medium.com/hongbeomi-dev/kotlin-collection-%ED%95%A8%EC%88%98-7a4b1290bce4)
+* [코틀린with,run,let,apply,also](https://brunch.co.kr/@mystoryg/151) 범위 지정 함수
 * Array
   * [배열(Array) #1](https://brunch.co.kr/@mystoryg/27)
   * [배열(Array) #2](https://brunch.co.kr/@mystoryg/47)
