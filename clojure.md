@@ -274,6 +274,8 @@ Clojure
 * [Clojure's slow start — what's inside? - Clojure Goes Fast](http://clojure-goes-fast.com/blog/clojures-slow-start/)
 * [Agile & Coding: Interactive Web Development](https://davidvujic.blogspot.com/2021/02/interactive-web-development.html)
 * [Adam James VODS - YouTube](https://www.youtube.com/channel/UCuNzTdzcO2RwHd_YUrhIFcw?app=desktop)
+* [Rapid Application Development with Hydrogen | by Irati Etxeberria | magnet.coop | Mar, 2021 | Medium](https://medium.com/magnetcoop/rapid-application-development-with-hydrogen-5130f463b30f)
+* [Clojure from a Schemer's perspective | More magic](https://www.more-magic.net/posts/thoughts-on-clojure.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -512,6 +514,7 @@ Clojure
 * [re:Clojure 2020 conference day 2 - YouTube](https://www.youtube.com/watch?v=NqWR_ysLkW8)
 * [Stratified Design: A Lisp Tradition - re:Clojure 2020 TALK - LispCast](https://lispcast.com/stratified-design-a-lisp-tradition-reclojure-2020-talk/)
 * [How To Be A REPL Sorcerer - Oliver Caldwell - re:Clojure 2020 - YouTube](https://www.youtube.com/watch?v=lR2vbwuzrIM)
+* [Clojure European Summer Time - Data Driven RAD with Malli, by Arne Brasseur - YouTube](https://www.youtube.com/watch?v=ww9yR_rbgQs)
 
 # Debug
 * [Debugging in Clojure?](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
@@ -842,6 +845,7 @@ Clojure
 
 ## Library GraalVM
 * [How to build a native binary for your Clojure projects with GraalVM](https://github.com/BrunoBonacci/graalvm-clojure/blob/master/doc/clojure-graalvm-native-binary.md)
+* [GraalVM native Clojure: hello world - YouTube](https://www.youtube.com/watch?v=G9Xp2zlEmos)
 * [clojure-graalvm-native-binary.md at master · BrunoBonacci/graalvm-clojure](https://github.com/BrunoBonacci/graalvm-clojure/blob/master/doc/clojure-graalvm-native-binary.md)
 * [clojure-rust-graalvm: An example of Clojure program calling a Rust library, all combined into one executable using GraalVM](https://github.com/borkdude/clojure-rust-graalvm)
 * [datalevin/native at master · juji-io/datalevin](https://github.com/juji-io/datalevin/tree/master/native)
@@ -855,6 +859,7 @@ Clojure
   * [lacinia-example](https://github.com/eunmin/lacinia-example)
 
 # REPL
+* [Clojure - Programming at the REPL: Enhancing your REPL workflow](https://clojure.org/guides/repl/enhancing_your_repl_workflow)
 * [A REPL Story](http://sprungcanary.net/2015/11/29/a-repl-story/)
 * [The Ultimate Guide To Clojure REPLs](https://lambdaisland.com/guides/clojure-repls/)
 * [The fastest Clojure REPL in the world](https://anmonteiro.com/2016/11/the-fastest-clojure-repl-in-the-world/)
@@ -884,6 +889,7 @@ Clojure
 * [TDD in ClojureScript](https://8thlight.com/blog/eric-smith/2016/10/05/a-testable-clojurescript-setup.html)
 * [TESTING STATEFUL AND CONCURRENT SYSTEMS USING TEST.CHECK](https://lispcast.com/testing-stateful-and-concurrent-systems-using-test-check/)
 * [Agile & Coding: Test Driven Development Deluxe](https://davidvujic.blogspot.com/2021/02/test-driven-development-deluxe.html)
+* [Automatically generated API tests with Clojure and Reitit - /dev/solita](https://dev.solita.fi/2021/03/05/automatically-generated-api-tests-with-clojure-and-reitit.html)
 * [cprop-order - Test load-config order](https://github.com/eunmin/cprop-order)
 * [endpoint-check](https://github.com/k8s-study/endpoint-check/blob/master/README.md) ping test micro service 를 clojure httpkit 으로 구현, Kubernetes로 배포
 * [JEPSEN - Distributed Systems Safety Research](http://jepsen.io/)
