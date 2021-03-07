@@ -952,6 +952,7 @@ App
 * [개발자를 위한 OS X(>= Catalina) 설정](https://www.sangkon.com/osx-setting-for-developer/)
 * [My Top Homebrew Packages for 2020 Become a power user and improve your productivity](https://medium.com/better-programming/my-top-homebrew-packages-for-2020-b6565d46de85) htop, tldr, jq, ncdu, tmux
 * [개발자를 위한 애플 실리콘 M1 맥 세팅 | 44BITS](https://www.44bits.io/ko/post/setup-apple-silicon-m1-for-developers)
+* [Install MySQL GUI, Mongodb in M1 Mac | by Ryan Kim | Mar, 2021 | Medium](https://equus3144.medium.com/install-mysql-gui-mongodb-in-m1-mac-dd8be6251f3f)
 * command terminal
   * sed [Mac OS X에서 Multi Tab(\t\t) 정리하기](https://jojoldu.tistory.com/542)
 * [Alacritty - Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
