@@ -627,7 +627,8 @@ Javascript
 * [Web Worker를 사용한 이미지 로딩 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-01-03-image-load-by-web-worker)
 * [Teaching the Unfortunate Parts](https://www.executeprogram.com/blog/teaching-the-unfortunate-parts)
 * [WebOTP API를 활용한 SMS 본인인증 기능 구현하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/01/31/WebOTP-API.html)
-* [**신입에게 추천하는 프론트엔드 가이드 - YouTube**](https://www.youtube.com/watch?v=4DS8_ZBQ8zs)
+* [FE Guide | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/fe-guide/ko)
+  * [**신입에게 추천하는 프론트엔드 가이드 - YouTube**](https://www.youtube.com/watch?v=4DS8_ZBQ8zs)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
