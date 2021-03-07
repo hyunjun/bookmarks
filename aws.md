@@ -624,6 +624,7 @@ AWS
 * [(리눅스 업스킬 도전 #22-b) notepad++ 편집기로 EC2 원격 호스트의 파일 편집하기](https://jhrogue.blogspot.com/2020/10/22-b-notepad-ec2.html)
 * [AWS 클라우드 초보들을 위한 EC2 인스턴스 SSH 로 접속하기. - YouTube](https://www.youtube.com/watch?v=oMVfhT_xlzk)
 * [aws ec2 nvme disk 의 device 위치 변경을 고정 시키기 - Cloud](https://vitta.tistory.com/62)
+* [🚚초간단 단독 EC2 서버 배포하는 법, #alias #nojenkins - YouTube](https://www.youtube.com/watch?v=iqd_aWzhtnc)
 
 # EKS
 * [awesome-eks | A curated list of awesome tools for Amazon EKS](https://realvz.github.io/awesome-eks/)
