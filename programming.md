@@ -343,6 +343,7 @@ Programming
 * [Managing Technical Debt. DevOps Essentials | by Stephen Kawaguchi | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/managing-technical-debt-b4f30cbccbe0)
 * [Towards an understanding of technical debt | Kellan Elliott-McCrea](https://kellanem.com/notes/towards-an-understanding-of-technical-debt)
 * [Understanding Tech Debt](https://www.slideshare.net/sm9kr/understanding-tech-debt)
+* [기술 부채?](https://velog.io/@juunini/%EA%B8%B0%EC%88%A0-%EB%B6%80%EC%B1%84)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-2. 여러 대의 서버에 흩어져 있는 세션을 어떻게 관리할 수 있을까?](https://chagokx2.tistory.com/93)
 * [서버 분산 처리 환경에서 데이터의 불일치를 어떻게 해결할까? Part 1 | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p2/)
@@ -2307,6 +2308,7 @@ Programming
     * [(02/20) '패배자같은 개발 직무' 탈출법 - YouTube](https://www.youtube.com/watch?v=cmjVEkIdD3k)
   * [(2월 27일) 구글의 "엔지니어링 디렉터" 면접 문제](https://jhrogue.blogspot.com/2021/03/2-27.html) 메모리 릭 흥미로운 이야기, 자주 사용하는 curl 명령어 옵션 예제, 개발자 무료 서비스, 혼자서 깃 잘 쓰는 방법
     * [(02/27) 구글의 "엔지니어링 디렉터" 면접 문제 - YouTube](https://www.youtube.com/watch?v=Cq0co4j-1tw)
+  * [(03/06) 빌어먹을 HTTP - YouTube](https://www.youtube.com/watch?v=s16TySh52lg) 빌어먹을 HTTP, 웹 소프트웨어의 미래는 HTML-over-WebSocket인가?, 효율적인 엔지니어 되기, 온프레미스 네트워크 이해
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
 * [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
