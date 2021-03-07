@@ -506,6 +506,7 @@ ElasticSearch - Lucene
   * [Having Fun: Python and Elasticsearch, Part 1](http://bitquabit.com/post/having-fun-python-and-elasticsearch-part-1/)
 * [elasticsearch-sql - Use SQL to query Elasticsearch](https://github.com/NLPchina/elasticsearch-sql)
   * [Getting Started with SQL](https://www.elastic.co/guide/en/elasticsearch/reference/master/sql-getting-started.html#sql-getting-started)
+  * [Elasticsearch SQL | Popit](https://www.popit.kr/elasticsearch-sql/)
 * [Embulk - open-source bulk data loader that helps data transfer between various databases, storages, file formats, and cloud services](http://www.embulk.org/)
   * [Embulk 공통 설정 외부로 분리하기](https://jungwoon.github.io/bigquery/2017/10/16/Embulk-Liquid/)
 * [EMS (Elasticsearch Monitoring System)](https://github.com/alden-kang/EMS)
