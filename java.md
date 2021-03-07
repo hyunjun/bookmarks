@@ -614,6 +614,7 @@ Java
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
 * [**여러 개의 JDK를 설치하고 선택해서 사용하기**](https://blog.benelog.net/installing-jdk.html) APT/YUM, update-alternatives / alternatives, Homebrew, Chocolatey, direnv, jEnv, SDKMAN, jabba
+* sdkman [윈도우에 여러 자바 설치하기](http://dalinaum.github.io/java/2021/03/07/multiple-jdks-2.html)
 
 ## JDK OpenJDK
 * [OpenJDK’s java.utils.Collection.sort() is broken: The good, the bad and the worst case?](http://envisage-project.eu/wp-content/uploads/2015/02/sorting.pdf)
