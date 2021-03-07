@@ -145,6 +145,9 @@
 # Book
 * [Table of Contents - Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
 
+# Conference
+* [GOTO 2020 • Next-Generation Programming: Rust & Elm • Richard Feldman - YouTube](https://www.youtube.com/watch?v=ukVqQGbxM9A)
+
 # Go
 * [A Rust Contributor Tries Their Hand at Go](http://www.polyglotweekly.com/2015/04/24/thoughts-of-a-rustacean-learning-go.html)
 * [Rust + Go](https://github.com/medimatrix/rust-plus-golang)
