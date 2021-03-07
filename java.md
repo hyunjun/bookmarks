@@ -134,6 +134,7 @@ Java
 * [On the missing package private — or why Java is better than Kotlin in this regard | by Michał Stawski | VirtusLab | Medium](https://medium.com/virtuslab/on-the-missing-package-private-or-why-java-is-better-than-kotlin-in-this-regard-4a1c9ecbe40c)
 * [java 박싱 언박싱과 오버헤드에 대한 이야기](https://codingdog.tistory.com/entry/java-%EB%B0%95%EC%8B%B1-%EC%96%B8%EB%B0%95%EC%8B%B1%EA%B3%BC-%EC%98%A4%EB%B2%84%ED%97%A4%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0) boxing, unboxing, primitive
 * [1. JAVA Reflection과 Annotaion으로 필드 및 메소드에 값 주입하기](https://kim-jong-hyun.tistory.com/22)
+* [굿 바이 자바 애플릿, Deprecate, for Removal](http://dalinaum.github.io/java/2021/03/07/good-bye-java-applet-deprecate-for-removal.html)
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
