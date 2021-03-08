@@ -629,6 +629,7 @@ Javascript
 * [WebOTP API를 활용한 SMS 본인인증 기능 구현하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/01/31/WebOTP-API.html)
 * [FE Guide | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/fe-guide/ko)
   * [**신입에게 추천하는 프론트엔드 가이드 - YouTube**](https://www.youtube.com/watch?v=4DS8_ZBQ8zs)
+* [프로모션용 웹앱 빌더, 만다오 - 우아한형제들 기술 블로그](https://woowabros.github.io/woowabros/2021/03/08/mandao.html)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -2719,6 +2720,7 @@ Javascript
 * [**최초 렌더링 속도 최적화**](https://woomin.netlify.app/Posts/2021-02-18-code-spliting/)
 * [100 days of react](https://dev.to/jwhubert91)
 * [리엑트기반 프로젝트 리펙토링 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222266155974)
+* [❄️새로운 React 프로젝트 만들기 #CRA - YouTube](https://www.youtube.com/watch?v=A6ECwH1FCa8)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -2964,7 +2966,8 @@ Javascript
   * [dynamic import로 줄여본 next.js 앱의 최초 로딩 시간 | blog.rhostem.com](https://blog.rhostem.com/posts/2020-05-10-nextjs-and-dynamic-import)
   * [Next.JS 10 Brings Automatic Image Optimization, Internationalized Routing, and Web Vitals Analytics](https://www.infoq.com/news/2020/11/nextjs-10-released/)
   * [Storybook에서 nextjs 에러가 발생할 때 - DEV](https://dev.to/dylanju/storybook-5f3c)
-  * [정직하게 배워보는 Next.js 시리즈를 시작합니다.](https://wonit.tistory.com/365)
+  * [정직하게 배워보는 Next.js 시리즈를 시작합니다](https://wonit.tistory.com/365)
+  * [웹 성능 최적화 SSR + Cache 적용기. 사용자에게 속도(Speed)는 얼마나 중요할까요? | by jpapa | 원티드 제품 팀블로그 | Mar, 2021 | Medium](https://medium.com/wantedjobs/%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-ssr-cache-%EC%A0%81%EC%9A%A9%EA%B8%B0-bf022e3a1a72)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Prism.js 적용하기](http://alpoxdev.com/posts/24)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
