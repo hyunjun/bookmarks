@@ -925,6 +925,7 @@ Machine Learning
 * [Google Research Football with Manchester City F.C. | Kaggle](https://www.kaggle.com/c/google-football/discussion)
 * [Hello-Kaggle: Kaggle을 처음 접하는 사람들을 위한 문서](https://github.com/stevekwon211/Hello-Kaggle)
 * [캐글 넷플릭스(netflix) 데이터를 이용한 데이터 분석 실습 (1)](https://stricky.tistory.com/451)
+* [캐글 넷플릭스(netflix) 데이터를 이용한 데이터 분석 실습 (2)](https://stricky.tistory.com/453)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
