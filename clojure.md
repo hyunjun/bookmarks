@@ -276,6 +276,7 @@ Clojure
 * [Adam James VODS - YouTube](https://www.youtube.com/channel/UCuNzTdzcO2RwHd_YUrhIFcw?app=desktop)
 * [Rapid Application Development with Hydrogen | by Irati Etxeberria | magnet.coop | Mar, 2021 | Medium](https://medium.com/magnetcoop/rapid-application-development-with-hydrogen-5130f463b30f)
 * [Clojure from a Schemer's perspective | More magic](https://www.more-magic.net/posts/thoughts-on-clojure.html)
+* [Clojure Goodness: Pure Function Sample Buying Coffee From FP Programming In Scala Written In Clojure - Messages from mrhaki](https://blog.mrhaki.com/2021/03/clojure-goodness-pure-function-sample.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -374,6 +375,7 @@ Clojure
   * [picture-gallery](https://github.com/lisp-korea/web-development-with-clojure/tree/master/ch8/picture-gallery)
     * [Web Development with Clojure - Ch8 first](https://www.youtube.com/watch?v=DGK--1i8YK8)
     * [Web Development with Clojure - Ch8 second](https://www.youtube.com/watch?v=f75GZq8ogaQ)
+* [Web Development with Clojure, Third Edition: Build Large, Maintainable Web Applications Interactively by Dmitri Sotnikov and Scot Brown](https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/)
 
 # [ClojureScript](http://clojurescript.org/)
 * [Awesome ClojureScript](https://github.com/emrehan/awesome-clojurescript)
@@ -840,6 +842,7 @@ Clojure
   ```
   * [Meetup: Writing Clojure on the Command Line with Babashka - YouTube](https://www.youtube.com/watch?v=RogyxI-GaGQ)
   * [Babashka: a native Clojure interpreter for scripting @ GraalVM Workshop 2021 - Speaker Deck](https://speakerdeck.com/borkdude/babashka-a-native-clojure-interpreter-for-scripting-at-graalvm-workshop-2021)
+  * [Re-Writing an OpenConnect VPN Connect script in Babashka | Tech.ToryAnderson.com](https://tech.toryanderson.com/2021/03/06/re-writing-an-openconnect-vpn-connect-script-in-babashka/)
   * [babashka-sql-pods: Babashka pods for SQL databases](https://github.com/babashka/babashka-sql-pods)
   * [pod-babashka-sqlite3: A babashka pod for interacting with sqlite3](https://github.com/babashka/pod-babashka-sqlite3)
 
