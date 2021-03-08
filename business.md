@@ -482,11 +482,13 @@ Business
 * [그렇게 최악의 리더가 된다: 절대 따라 하면 안 되는 11가지 리더 유형 | ㅍㅍㅅㅅ](https://ppss.kr/archives/227842)
 * [팀원 성장시키기: 발표 컨설팅 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220082)
 * [IT: 당신은 좋은 리더입니까?](https://jybaek.tistory.com/884)
+* [내적 동기 부여 RAMP | 에스티마의 인터넷이야기 EstimaStory.com](https://estimastory.com/2021/03/07/ramp/) RAMP
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
 * [좋은 매니저는 누구인가](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6281688150)
 * [초짜 매니저 가이드 – Andrew Ahn](https://www.andrewahn.co/silicon-valley/first-time-manager-guide/)
+* [최고 매니저들의 10가지 덕목 | 에스티마의 인터넷이야기 EstimaStory.com](https://estimastory.com/2021/03/07/greatmanager10/)
 * [아마존의 제품 개발 방법 Working Backwards](http://curioe.com/5)
 * [PURSUIT: Framework for your next great product idea](https://uxdesign.cc/pursuit-a-product-framework-for-product-y-folks-9575244fe9d2)
 * [First principle thinking: 제 1원칙 기반의 사고방식](https://www.andrewahn.co/product/first-principle-thinking/)
