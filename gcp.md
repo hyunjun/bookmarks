@@ -119,6 +119,7 @@ Google Cloud Platform GCP
 * [Google Updates Its Cloud Run Service Support for WebSockets, HTTP/2, and gRPC Bidirectional Streams](https://www.infoq.com/news/2021/01/google-cloud-run-updates/)
 * [VM Running HTTPS Secured Apache Server on GCP - Part 1: Provision a Virtual Machine - YouTube](https://www.youtube.com/watch?v=cDVK4dPUbJ0)
 * [VM Running HTTPS Secured Apache Server on GCP - Part 2: Install an Apache HTTP server on a VM - YouTube](https://www.youtube.com/watch?v=YjIzHjaaJNI)
+* [VM Running HTTPS Secured Apache Server on GCP - Part 3: Create a HTTPS Route using Let's Encrypt - YouTube](https://www.youtube.com/watch?v=JXeaREIoRB4)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
