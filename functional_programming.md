@@ -344,6 +344,7 @@ Functional Programming
 * [**3분 모나드**](https://overcurried.com/3%EB%B6%84%20%EB%AA%A8%EB%82%98%EB%93%9C/)
 * [A Monad is just a Monoid… - Michele Stieven - Medium](https://medium.com/@michelestieven/a-monad-is-just-a-monoid-a02bd2524f66)
 * [Functional Programming with Effects by Rob Norris - YouTube](https://www.youtube.com/watch?v=30q6BkBv5MY&t=22s)
+* [Ep 9: Transformers, Monads in Disguise - YouTube](https://www.youtube.com/watch?v=KMm71HLoy0w)
 
 # Python
 * [Origins of Python's "Functional" Features](http://python-history.blogspot.kr/2009/04/origins-of-pythons-functional-features.html)
