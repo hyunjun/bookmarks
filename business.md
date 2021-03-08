@@ -483,6 +483,7 @@ Business
 * [팀원 성장시키기: 발표 컨설팅 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220082)
 * [IT: 당신은 좋은 리더입니까?](https://jybaek.tistory.com/884)
 * [내적 동기 부여 RAMP | 에스티마의 인터넷이야기 EstimaStory.com](https://estimastory.com/2021/03/07/ramp/) RAMP
+* [자질 없는 리더보다 준비 없는 리더가 더 나쁘다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/236902)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
