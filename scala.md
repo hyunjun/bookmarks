@@ -174,6 +174,7 @@ Scala
 * [Asynchronous Programming and Scala](https://alexn.org/blog/2017/01/30/asynchronous-programming-scala.html)
 * [비동기 프로그래밍과 Scala](https://wiki.cys.wo.tc/doku.php?id=%EB%B9%84%EB%8F%99%EA%B8%B0_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EA%B3%BC_scala) monix 포함
 * [Making asynchronous programs functional with IO.async and IO.cancelable - Scala tutorial - YouTube](https://www.youtube.com/watch?v=-Nlz5HLqneQ)
+* ["Simplifying Asynchronous Code With Scala Async" by Philipp Haller](https://meetupfeed.io/talk/simplifying-asynchronous-code-with-scala-async-by-philipp-haller)
 * [Map, Flatmap, and Reduce Are Your New Best Friends](https://www.youtube.com/watch?v=2OvxOgayedU)
 * [Marconi Lanna - Elegant and Powerful Scala One-liners](https://www.youtube.com/watch?v=V08s4AfVQY4)
 * [ScalaIO - 2017](https://www.youtube.com/playlist?list=PLjkHSzY9VuL9UI2oYMc4HKKu_Dl9TOnPL)
@@ -673,6 +674,7 @@ Scala
   * [Scala Concurrency Advice: For Future Fun Fold On A FlatMap | by Bryan Bunch | Medium](https://medium.com/@brybunch/scala-concurrency-advice-for-future-fun-fold-on-a-flatmap-a06f37fdd498)
   * [Why Shouldn’t You Use Future\[Unit\] as a Return Type in a Scala Program | by Vigneshwaran Raveendran | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/why-shouldnt-you-use-future-unit-as-a-return-type-in-a-scala-program-a4c58f95b343)
   * [Implementing a CountDownLatch (async and dirty) - Alexandru Nedelcu](https://alexn.org/blog/2021/02/22/countdownlatch-async-dirty.html)
+  * [futil: minimal utilities for Scala Futures](https://github.com/alexklibisz/futil)
 * Implicit
   * [practice - implicit parameter](https://gist.github.com/hyunjun/be0a11583dfcb41f4273e5957e1c8022#file-implicit_parameter-scala)
   * [IMPLICIT PARAMETERS](https://docs.scala-lang.org/tour/implicit-parameters.html)
@@ -864,6 +866,7 @@ Scala
       * [Get started with ZIO Test](https://medium.com/@wiemzin/get-started-with-zio-test-7a27da355498)
       * [Effective testing with ZIO Test](https://scala.monster/zio-test/)
       * [Running Postgres integration tests easily with TestContainers and ZIO Test | In Absentia](https://hmemcpy.com/2020/10/running-postgres-integration-tests-easily-with-testcontainers-and-zio-test/)
+    * [ZIO World](https://zioworld.com/)
     * ZLayer
       * [What are the benefits of the ZIO modules with ZLayers](https://medium.com/@pascal.mengelt/what-are-the-benefits-of-the-zio-modules-with-zlayers-3bf6cc064a9b)
       * [From idea to product with ZLayer](https://scala.monster/welcome-zio/)
@@ -972,6 +975,7 @@ Scala
 * [Functional Scala London 2019: Day 1](https://juliano-alves.com/2019/12/17/functional-scala-london-2019-day-1/)
 * [Lambda World 2019](https://www.dev-log.me/Lambda_World_2019/)
 * [Scala Central at Expedia Group](https://medium.com/hotels-com-technology/scala-central-at-expedia-group-3a8002c6bb60)
+* [ScalaCon. A series of virtual conferences brought to you by Scala eXchange and Scala Days](http://www.scalacon.org/)
 * [scalar-conf.com](http://scalar-conf.com/)
 * [Scala Days](https://slideslive.com/scaladays)
   * [ScalaDays 2015 San Francisco](http://event.scaladays.org/scaladays-sanfran-2015)
@@ -1130,6 +1134,7 @@ Scala
   * [One-click install for Scala | The Scala Programming Language](https://www.scala-lang.org/2020/06/29/one-click-install.html)
   * [#Coursier - Crash Course - YouTube](https://www.youtube.com/watch?v=GPOVWEfYFlA)
   * [Single command #Scala Environment Setup via #Coursier - YouTube](https://www.youtube.com/watch?v=o9H2EQO3fVs)
+  * [Setting up a dev environment with Coursier | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=j-H6LSv2z_8)
 * [Cryptoaudit - a collection of tools that enables auditing system in a secure and publicly verificable way](https://github.com/synaptic-cl/cryptoaudit)
 * cs [Single command Scala setup - Alex Archambault](https://alexarchambault.github.io/posts/2020-09-21-cs-setup.html)
 * [curiodb - Distributed & Persistent Redis Clone built with Scala & Akka](https://github.com/stephenmcd/curiodb?new)
@@ -1608,6 +1613,7 @@ Scala
   * [#1 게릴라 방송 (2017-04-03)](https://www.youtube.com/watch?v=oaQ71Fm3q0U)
   * [#2 게릴라 방송 (2017-04-04)](https://www.youtube.com/watch?v=QjAOmX4Sj_4)
   * [#3 / Scala로 스크립팅 (2017-04-07)](https://www.youtube.com/watch?v=7drpR4p2cyo)
+* [sbt-bintray: fresh packages delivered from your sbt console](https://github.com/sbt/sbt-bintray)
 * sbt-bintray-remote-cache [remote caching sbt builds with Bintray | eed3si9n](https://eed3si9n.com/remote-caching-sbt-builds-with-bintray)
 * sbt-ci-release [auto publish sbt plugin from Travis CI | eed3si9n](http://eed3si9n.com/auto-publish-sbt-plugin)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
