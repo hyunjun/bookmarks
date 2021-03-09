@@ -117,6 +117,7 @@ Java
 * [Creating a Java off-heap in-memory database](https://blogs.oracle.com/javamagazine/creating-a-java-off-heap-in-memory-database)
 * [Impl classes are evil - OctoPerf](https://octoperf.com/blog/2016/10/27/impl-classes-are-evil/)
 * [16+ Tech Key Areas to go places as a Java Engineer or Architect | Java-Success.com](https://www.java-success.com/what-are-the-16-technical-key-areas-of-java-programming/)
+* [상품 피드 1차 개선 — Python 에서 Java 로!. 사고자 하는 물건이 있을때 다들 어디서 어떻게 구매 하시나요? (저는… | by Kahee Yu | 29CM 기술블로그 | Feb, 2021 | Medium](https://medium.com/29cm/%EC%83%81%ED%92%88-%ED%94%BC%EB%93%9C-1%EC%B0%A8-%EA%B0%9C%EC%84%A0-python-%EC%97%90%EC%84%9C-java-%EB%A1%9C-29ef4840022f)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
