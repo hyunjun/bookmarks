@@ -15,6 +15,7 @@ Baby
 * [오은영의 부모마음 아이마음](http://m.media.daum.net/m/media/series/54237)
 * [초2병 아들 상담 결과](http://jh4hj.tistory.com/entry/%EC%B4%882%EB%B3%91-%EC%95%84%EB%93%A4-%EC%83%81%EB%8B%B4-%EA%B2%B0%EA%B3%BC)
 * [현실적인 학폭/ 왕따 당할시에 대처법](https://www.fmkorea.com/best/773172623)
+* [오은영 교수가 알려주는 자신의 아이가 학폭 당할때 부모의 대처법](http://realnews.cafe24.com/posts1360)
 
 # 육아휴직
 * [모성보호제도2 – 육아휴직](https://blog.rocketpunch.com/2017/11/07/%EC%9D%B8%EC%82%AC%EB%85%B8%EB%AC%B4-%EA%B0%80%EC%9D%B4%EB%93%9C-%EB%AA%A8%EC%84%B1%EB%B3%B4%ED%98%B8%EC%A0%9C%EB%8F%842-%EC%9C%A1%EC%95%84%ED%9C%B4%EC%A7%81/)
