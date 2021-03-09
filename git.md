@@ -68,6 +68,7 @@ Git
 * [GitHub Repo 에 Travis CI 추가하기](http://inspiredjw.com/entry/GitHub-Repo-%EC%97%90-Travis-CI-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 * [About Travis CI](https://medium.com/@yoonjs2/about-travis-ci-65b04d3dead6)
 * [Travis Continuous deployment for your open source library](https://leobenkel.com/2019/09/travis-continuous-deployment/)
+* [Travis에서 조금 더 괜찮은 방법으로 .env 다루기 | 강준영 기술 블로그](https://juneyoung.io/devops-better-way-to-handle-env-in-travis-210308)
 * [알아두면 좋은 GIT 꿀팁 3개](https://brunch.co.kr/@sydneyitguy/5)
 * [Top 10 Free GitHub Alternatives for Private Repositories](http://toppersworld.com/top-10-free-github-alternatives-for-private-repositories/)
 * [**오픈소스 일기: GIT 그리고 저장소 다루기**](https://medium.com/@yoonjs2/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9D%BC%EA%B8%B0-git-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%A0%80%EC%9E%A5%EC%86%8C-%EB%8B%A4%EB%A3%A8%EA%B8%B0-9f66c98c1cb5)
