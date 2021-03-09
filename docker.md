@@ -662,6 +662,7 @@ Docker
 * [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
 * [Kubernetes in 9 minutes!](https://www.youtube.com/watch?v=QJ4fODH6DXI)
 * [Kubernetes Intro](https://blog.2dal.com/2018/02/28/kubernetes-intro/)
+* [드디어! "쿠버네티스(Kubernetes)" .. : 네이버블로그](https://blog.naver.com/ehunterkang/222261251200)
 * [쿠버네티스가 대세가 된 이유 3가지!](https://www.youtube.com/watch?v=S3FVcdZcZnA)
 * [Kubernetes Tutorial for Beginners Full Course in 4 Hours - YouTube](https://www.youtube.com/watch?v=X48VuDVv0do)
 * Kubernetes
