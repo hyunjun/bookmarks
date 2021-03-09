@@ -1134,6 +1134,7 @@ Programming
 * [스태틱 파일 버저닝 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/871)
 * [**1주차- 온프레미스 네트워크 이해**](https://brunch.co.kr/@topasvga/1509)
 * [CTO headaches: Top 5 cloud-to-cloud migration woes (and how to solve them!) | Cloud Native Computing Foundation](https://www.cncf.io/blog/2021/02/15/cto-headaches-top-5-cloud-to-cloud-migration-woes-and-how-to-solve-them/)
+* [클라우드 마이그레이션을 위한 AS-IS 시스템 분석 방법](https://tech.osci.kr/2021/03/09/111612589/)
 * [aws](aws.md)
 * [azure](azure.md)
 * [Dapr - Distributed Application Runtime](https://dapr.io/)
