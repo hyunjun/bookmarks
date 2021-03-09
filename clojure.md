@@ -377,7 +377,8 @@ Clojure
     * [Web Development with Clojure - Ch8 second](https://www.youtube.com/watch?v=f75GZq8ogaQ)
 * [Web Development with Clojure, Third Edition: Build Large, Maintainable Web Applications Interactively by Dmitri Sotnikov and Scot Brown](https://pragprog.com/titles/dswdcloj3/web-development-with-clojure-third-edition/)
 
-# [ClojureScript](http://clojurescript.org/)
+# ClojureScript
+* [ClojureScript](http://clojurescript.org/)
 * [Awesome ClojureScript](https://github.com/emrehan/awesome-clojurescript)
 * [ClojureScript Koans](http://clojurescriptkoans.com/)
 * [ClojureScript Next](http://swannodette.github.io/2015/07/29/clojurescript-17/)
@@ -417,6 +418,7 @@ Clojure
 * [NAVER Tech Talk: 개발언어, 설계(2018년 2월)](https://d2.naver.com/news/8149676)
 * [Up and running with ClojureScript in 2018](https://hackernoon.com/up-and-running-with-clojurescript-in-2018-7c7a1facfe46)
 * [Taming Advanced Compilation bugs in ClojureScript projects - /dev/solita](https://dev.solita.fi/2020/06/25/taming-cljs-advanced-compilation.html)
+* [Mike Fikes explains the ClojureScript Compiler (from https://cljs.pro) - YouTube](https://www.youtube.com/watch?v=kBKIGj1_WAo)
 
 ## ClojureScript Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest ](https://github.com/funcool/cats)
@@ -645,6 +647,7 @@ Clojure
 * [data.int-map: A map optimized for integer keys](https://github.com/clojure/data.int-map)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
   * [Datomic: 함수형 데이터베이스](https://github.com/philoskim/datomic-intro)
+* [docopt.clj: Clojure implementation of the docopt description language](https://github.com/nubank/docopt.clj)
 * [dog-board - A website written in noir](https://github.com/re-noir/dog-board)
 * [Drake is a simple-to-use, extensible, text-based data workflow tool that organizes command execution around data and its dependencies](https://github.com/Factual/drake)
 * [Duckling - a Clojure library that parses text into structured data](https://github.com/wit-ai/duckling)
