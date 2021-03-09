@@ -293,6 +293,7 @@ Scala
 * [GraphQL Overview—Part 2—Libraries | by Piotr Jasiak | SoftwareMill Tech Blog](https://blog.softwaremill.com/graphql-overview-part-2-libraries-7d6e1e24035d)
 * [Mutability in Scala - Rock the JVM Blog](https://blog.rockthejvm.com/mutability-in-scala/)
   * [Mutability in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=js3xtPNlMgo)
+* [Many happy early returns – Making the matrix](https://makingthematrix-wordpress-com.cdn.ampproject.org/c/s/makingthematrix.wordpress.com/2021/03/09/many-happy-early-returns/amp/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -2029,3 +2030,4 @@ Scala
 * [Scala First: Lessons from 3 student generations | Bjorn Regnell, Lund Univ., Sweden. | 12.06.2019 at 11:17 | Part of Scala Days 2019 | Swiss Tech Convention Center, EPFL, Lausanne](https://portal.klewel.com/watch/webcast/scala-days-2019/talk/10/)
 * [Lean for Scala programmers | Typista.org](https://typista.org/lean-for-scala-programmers/)
 * [Scala Algorithms - Master your scala](https://www.scala-algorithms.com/) 유료 판매하는 알고리즘 문제 스칼라 풀이인데 무료 6개는 기초로 볼만함
+* [What I Learned From Teaching Scala to 30000 Engineers by Daniel Ciocîrlan - YouTube](https://www.youtube.com/watch?v=gcwOEX9J6Hk)
