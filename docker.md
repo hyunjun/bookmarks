@@ -482,6 +482,7 @@ Docker
 * [Docker Engine 20.10 Released: Supports cgroups v2 and Dual Logging](https://www.infoq.com/news/2021/01/docker-engine-cgroups-logging/)
 * [How to Download Fedora, RHEL, and Windows Operating System (OS) Images and Verify through CheckSum - YouTube](https://www.youtube.com/watch?v=XDcOWGoD2UQ) ISO image
 * [Hypervisor KVM 모니터링하기 1](https://naleejang.tistory.com/241)
+* [Hypervisor KVM 모니터링하기 2](https://naleejang.tistory.com/242)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
