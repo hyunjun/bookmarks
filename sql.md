@@ -302,6 +302,7 @@ SQL
     * `ALTER TABLE [table name] RENAME [new table name]`
     * `ALTER TABLE [table name] ADD [column name] [type]`
     * [Unexpected slow ALTER TABLE in MySQL 5.7](https://www.percona.com/community-blog/2020/04/23/unexpected-slow-alter-table-mysql-5-7/)
+    * [practice - create insert alter](https://gist.github.com/hyunjun/17e9b03a1b0faa38c662#file-create_insert_alter-md)
   * `COALESCE(<column name>, 0)` column 값이 NULL인 경우 0 출력
   * CREATE
     * `CREATE TABLE [table name] LIKE [org table name]; -- index까지 복사. 물론 데이터는 복사하지 않음`
@@ -333,6 +334,7 @@ SQL
     * [`SELECT IFNULL((SELECT DISTINCT Salary FROM Employee ORDER BY Salary DESC LIMIT 1 OFFSET 1), NULL) AS SecondHighestSalary`](https://leetcode.com/problems/second-highest-salary/solution/)
     * [`SELECT class FROM courses GROUP BY class HAVING COUNT(DISTINCT student) >= 5`](https://leetcode.com/problems/classes-more-than-5-students/solution/)
     * [`SELECT * FROM cinema WHERE id % 2 = 1 AND description != 'boring' ORDER BY rating DESC`](https://leetcode.com/problems/not-boring-movies/solution/)
+    * [practice - create insert select](https://gist.github.com/hyunjun/17e9b03a1b0faa38c662#file-create_insert_select-md)
     * [GROUP_CONCAT](https://gist.github.com/hyunjun/17e9b03a1b0faa38c662#file-select_group_by-md)
       * [Can I concatenate multiple MySQL rows into one field?](https://stackoverflow.com/questions/276927/can-i-concatenate-multiple-mysql-rows-into-one-field)
     * age가 '만 xx세'로 되어 있을 때 숫자만 뽑아 그 차이를 구하는 경우
@@ -347,6 +349,7 @@ SQL
     * [2. 페이징 성능 개선하기 - 커버링 인덱스 사용하기](https://jojoldu.tistory.com/529)
     * [3-1. 페이징 성능 개선하기 - 검색 버튼 사용시 페이지 건수 고정하기](https://jojoldu.tistory.com/530)
     * [3-2. 첫 페이지 조회 결과 cache 하기](https://jojoldu.tistory.com/531)
+  * [practice - create insert recursive union](https://gist.github.com/hyunjun/17e9b03a1b0faa38c662#file-create_insert_recursive_union-md)
   * SHOW
     * `show [full] processlist` [터미널에서 쿼리 전체 보기](https://jybaek.tistory.com/823)
     * [Show Comment of Fields FROM Mysql Table](https://stackoverflow.com/questions/5404051/show-comment-of-fields-from-mysql-table)
