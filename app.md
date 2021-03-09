@@ -1237,6 +1237,7 @@ App
 * [Stop Using Markdown For Documentation](https://mister-gold.pro/posts/en/asciidoc-vs-markdown/) asciidoc
 * [When Markdown Meets Tables](https://blog.documentnode.io/when-markdown-meets-tables)
 * [6 Things Markdown Got Wrong](https://www.swyx.io/writing/markdown-mistakes/)
+* [Markdown: Aplicando na prática os comandos aprendidos na linguagem Markdown](https://github.com/JosephDaCosta/Markdown)
 * [caret.io - Markdown Editor for Mac / Windows / Linux](http://caret.io/) 유료
 * [DocFX - static documentation generator | DocFX website](https://dotnet.github.io/docfx/)
 * [dumbdown: The dumb alternative to markdown. The keyword for title is title](https://github.com/treenotation/dumbdown)
