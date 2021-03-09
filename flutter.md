@@ -137,3 +137,5 @@ Flutter
 * [Flutter & Project - YouTube](https://www.youtube.com/playlist?list=PLIKnSA4GMR4P42myd8MhG0_N7W321FnQa)
   * [flutterPlatformAll: Flutter Dev Channel(after 1.22.5 dev)](https://github.com/doyle-flutter/flutterPlatformAll)
 * [Flutter 2.0 버전 파해치기 Part 1 Null Safety - YouTube](https://www.youtube.com/watch?v=lNUcJXtyeUE)
+* [Flutter 2.0 버전 파해치기 Part 2 기존 프로젝트 박살내지 않고 2.0 업그레이드 하기 (FVM) - YouTube](https://www.youtube.com/watch?v=lSzUABa4OTI)
+* [Flutter 2.0 버전 파해치기 Part 3 새 버튼들! (TextButton, OutlinedButton, ElevatedButton) - YouTube](https://www.youtube.com/watch?v=gnxd61VRqvg)
