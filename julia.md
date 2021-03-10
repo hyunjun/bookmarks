@@ -107,6 +107,8 @@ Julia
   * [Introducing Hone: The Modular Object-Oriented Graphing Library For Julia | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/introducing-hone-a-modular-object-oriented-graphing-library-for-julia-823b028b462a)
   * [Adding Julia’s Polymorphic Dispatch To My Plotting Library (Part 4) | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/adding-julias-polymorphic-dispatch-to-my-plotting-library-part-4-1446e924774f)
   * [Adding Color And Features To My Graphing Library For Julia (Part 5) | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/adding-color-and-features-to-my-graphing-library-for-julia-part-5-15426b00dcaf)
+* [Multiple Dispatch: A Powerful Programming Paradigm | by Alex Powell | Jan, 2021 | Towards Data Science](https://towardsdatascience.com/multiple-dispatch-a-powerful-programming-paradigm-8bc8fcd2c73a)
+* [Optimizing Serial Code](https://mitmath.github.io/18337/lecture2/optimizing)
 
 # API
 * Pkg.add
