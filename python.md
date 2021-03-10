@@ -1520,6 +1520,12 @@ Python
 * [11 Best Python Books To Read in 2020 - Nextotech](https://nextotech.com/best-python-books-in-2020/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [Legally Free Python Books List - Python kitchen](https://www.pythonkitchen.com/legally-free-python-books-list/)
+* [Al Sweigart](https://www.freetechbooks.com/al-sweigart-a4040.html)
+  * [Cracking Codes with Python](https://www.freetechbooks.com/cracking-codes-with-python-t1344.html)
+  * [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.freetechbooks.com/automate-the-boring-stuff-with-python-practical-programming-for-total-beginners-t942.html)
+  * [Invent Your Own Computer Games with Python, 3rd Edition](https://www.freetechbooks.com/invent-your-own-computer-games-with-python-3rd-edition-t943.html)
+  * [Making Games with Python & Pygame](https://www.freetechbooks.com/making-games-with-python-pygame-t944.html)
+  * [Hacking Secret Ciphers with Python: A beginners guide to cryptography and computer programming with Python](https://www.freetechbooks.com/hacking-secret-ciphers-with-python-a-beginners-guide-to-cryptography-and-computer-programming-with-python-t945.html)
 * [**Books by Agiliq**](https://books.agiliq.com)
   * Django Admin Cookbook, Django ORM Cookbook, Building APIs with Django and Django Rest Framework, Building Multi Tenant Applications with Django, Django Projects Cookbook, Django Design Patterns, Django Gotchas
   * Journeyman Python, Essential Python Tools, Tweetable Python, Software consulting Howto, Visual Arts with Python
