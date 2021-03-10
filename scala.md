@@ -1698,6 +1698,7 @@ Scala
 * [Scala 3: New Types | Rock the JVM - YouTube](https://www.youtube.com/watch?v=orTmm6OMaLw)
 * [Tuples bring generic programming to Scala 3 | The Scala Programming Language](https://www.scala-lang.org/2021/02/26/tuples-bring-generic-programming-to-scala-3.html) Heterogeneous Lists, HLists
 * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=3HS1v4A5MaE&t=500s)
+* [What's new in Scala 3: Implicits! - YouTube](https://www.youtube.com/watch?v=TdwkzNq2gY0)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
