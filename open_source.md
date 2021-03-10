@@ -147,6 +147,7 @@ Open Source
 * [Open sourcing the Embedding Projector: a tool for visualizing high dimensional data](https://research.googleblog.com/2016/12/open-sourcing-embedding-projector-tool.html)
 * [매일 원하는 시간에 앱 실행하기](https://blog.naver.com/gsuite-reseller/221512786356)
 * [문서 번역으로 구글 컨트리뷰터가 되어보자](https://wormwlrm.github.io/2020/04/19/Contribute-to-Google-by-translating-document.html)
+* [꿀벌개발일지 :: 구글 앱스 스크립트에서 비동기 작업 추가하기](https://ohgyun.com/806)
 * [clasp: 구글 앱스 스크립트 로컬에서 개발하기](https://ohgyun.com/784)
 * Sheet
   * [Google Sheets as a Database – INSERT with Apps Script using POST/GET methods (with ajax example)](https://mashe.hawksey.info/2014/07/google-sheets-as-a-database-insert-with-apps-script-using-postget-methods-with-ajax-example/)
