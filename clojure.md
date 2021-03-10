@@ -64,6 +64,7 @@ Clojure
 * [Palindromic sequences in Clojure](http://blog.fogus.me/2015/04/13/palindromic-sequences-in-clojure/)
 * [clojure cheat sheet](http://www.closurecheatsheet.com)
 * [ClojureCheatSheet: Quick reference to a modern Lisp :-)](https://github.com/alhassy/ClojureCheatSheet)
+* [Clojure Cheatsheets](https://jafingerhut.github.io/)
 * [clojure.java.jdbc A low-level Clojure wrapper for JDBC-based access to databases](https://github.com/clojure/java.jdbc)
 * [Vars](http://philoskim.github.io/doc/var.html)
 * [Creative computing with Clojure](http://radar.oreilly.com/2015/05/creative-computing-with-clojure.html)
