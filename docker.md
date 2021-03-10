@@ -1141,6 +1141,8 @@ Docker
 * [오픈스택과 컨테이너 I](https://naleejang.tistory.com/229)
 * [오픈스택과 컨테이너 II](https://naleejang.tistory.com/230)
 * [오픈스택과 컨테이너 III](https://naleejang.tistory.com/231)
+* [2021.02 세미나 - kubernetes와 kubernetes on openstack 구축 사례 및 비교 - 김호진 - YouTube](https://www.youtube.com/watch?v=dbQcBlei2eI)
+  * [오픈소스컨설팅 쿠버네티스와 쿠버네티스 on 오픈스택 비교 및 구축 방법](https://www.slideshare.net/OpenSourceConsulting/on-244106649)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/)
