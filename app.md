@@ -955,6 +955,7 @@ App
 * [Install MySQL GUI, Mongodb in M1 Mac | by Ryan Kim | Mar, 2021 | Medium](https://equus3144.medium.com/install-mysql-gui-mongodb-in-m1-mac-dd8be6251f3f)
 * command terminal
   * sed [Mac OS X에서 Multi Tab(\t\t) 정리하기](https://jojoldu.tistory.com/542)
+* [Mac에서 개발 환경 (IntelliJ 기반) 꾸미기](https://jojoldu.tistory.com/556)
 * [Alacritty - Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
 * brew
