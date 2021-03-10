@@ -199,6 +199,7 @@ Programming Books
   * [테라폼 설치에서 운영까지 (Terraform Up & Running)](https://jybaek.tistory.com/893)
 * (NOT YET) [**스프링 부트와 AWS로 혼자 구현하는 웹 서비스 출간 후기**](https://jojoldu.tistory.com/463)
   * [freelec-springboot2-webservice](https://github.com/jojoldu/freelec-springboot2-webservice)
+* [210.(책추천) AWS시작으로 좋은 책들](https://brunch.co.kr/@topasvga/666)
 
 # Android
 
