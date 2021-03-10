@@ -575,7 +575,8 @@ Clojure
   * [Building on Boot](http://seancorfield.github.io/blog/2016/01/30/building-on-boot/)
   * [clj-templates](https://clj-templates.com/) Find Clojure templates for Leiningen and Boot
 * [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
-* [Calva: Clojure & ClojureScript support for VS Code](https://github.com/BetterThanTomorrow/calva/blob/master/README.md)
+* [Calva - an integrated REPL powered environment for enjoyable and productive Clojure and ClojureScript development in Visual Studio Code](https://calva.io/)
+  * [Calva: Clojure & ClojureScript support for VS Code](https://github.com/BetterThanTomorrow/calva/blob/master/README.md)
   * [Calva: Clojure 4 VS Code](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode#overview)
 * [Carica - a flexible configuration library](https://github.com/sonian/carica)
 * [Chestnut - a Leiningen template for a Clojure/ClojureScript app based on Om](https://github.com/plexus/chestnut)
