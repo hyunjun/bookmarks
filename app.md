@@ -803,6 +803,8 @@ App
   * [Serve Videos Instead of GIFs](https://www.dannyguo.com/blog/serve-videos-instead-of-gifs/) gif로 mp4 생성 command (글 주제와는 무관)
   * ffmpeg
     * `/usr/local/Cellar/ffmpeg/2.8.1_1/bin/ffmpeg -i <MOV> [-acodec copy -vcodec copy] <mp4>`
+    * `ffmpeg -n -loglevel error -i <MOV> -vcodec libx264 -crf 28 -preset faster -tune film <mp4>` test에서 11.1MB가 5.2MB로 감소
+      * [How can I reduce a video's size with ffmpeg? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/28803/how-can-i-reduce-a-videos-size-with-ffmpeg)
     * [ffmpeg 자막입히기, 자막 위치 조정](http://kerberosj.tistory.com/233)
     * [FFMPEG processing](https://leanpub.com/ffmpeg/read_full)
     * [동영상 파일 미리보기 이미지로 쪼개기 – rein's world](https://rein.kr/blog/archives/4561)
