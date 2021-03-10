@@ -90,6 +90,7 @@ AWS
 * [AWS-Load-balance-Failover-time-test - 리눅서의 기술술 블로그](https://linuxer.name/2020/11/aws-load-balance-failover-time-test/)
 * [AWS Application Load Balancer algorithms | by Simon Tabor | DAZN Engineering | Medium](https://medium.com/dazn-tech/aws-application-load-balancer-algorithms-765be2eca158)
 * [ELB에 무료 SSL인증서 받아서 설정하기](https://developer88.tistory.com/313)
+* [AWS - Elastic Load Balancer (ELB) - YouTube](https://www.youtube.com/watch?v=s9FHdj6jd_U)
 * [AWS-NLB-Sticky-sessions-timeout - 리눅서의 기술술 블로그](https://linuxer.name/2020/08/aws-nlb-sticky-sessions-timeout/)
 * [AWS NLBs and the mixed up TCP connections](https://www.niels-ole.com/cloud/aws/linux/2020/10/18/nlb-resets.html)
 * [Travis CI와 AWS ElasticBeanstalk 연동하기](http://jojoldu.tistory.com/317)
@@ -394,6 +395,7 @@ AWS
 * [Amazon SageMaker와 Apache Airflow을 통한  기계학습 워크플로 구축하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-end-to-end-machine-learning-workflows-with-amazon-sagemaker-and-apache-airflow/)
 * [AWS-instance-Attach to Auto Scaling Group](https://linuxer.name/2020/05/aws-instance-attach-to-auto-scaling-group/)
 * [ASG의 Lifecycle Hook 활용하기](https://brunch.co.kr/@alden/65) auto scaling
+* [필요한 만큼 컴퓨터를 자동으로 생성/제거 해주는 AWS Auto Scaling - YouTube](https://www.youtube.com/watch?v=_1Yqk-fLkec)
 * [SQS 메시지 양으로 EB Auto Scale 하기. HBsmith 에서는 QA 테스트를 돌리는 Worker 로서… | by HyeonKu Kang | Hard Boiled Smith Stories | Dec, 2020 | Medium](https://medium.com/hbsmith/sqs-%EB%A9%94%EC%84%B8%EC%A7%80-%EC%96%91%EC%9C%BC%EB%A1%9C-eb-auto-scale-%ED%95%98%EA%B8%B0-70bbfc7b7f5f)
 * [**천만 사용자를 위한 클라우드 아키텍처, 5년간의 여정**](https://aws.amazon.com/ko/blogs/korea/5-years-scalling-up-to-10-million-users/)
 * [발표, Infrastructure as Code 삽질기 - 완두블로그](https://wani.kr/posts/2018/11/18/infrastructure-as-code/) terraform, ansible, packer
@@ -475,7 +477,7 @@ AWS
 # Conference
 * [빠르게 훑어보는 "AWS Hero와 함께하는 re:Invent reCap 온라인 세미나" 후기](https://jybaek.tistory.com/888)
 * [AWS Community Day online 2020 - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu)
-* [beNX: Architecture Changes to Handle Massive Peak Traffic - YouTube](https://www.youtube.com/watch?v=cIqVilu7KUM) event driven, auto scalling
+* [beNX: Architecture Changes to Handle Massive Peak Traffic - YouTube](https://www.youtube.com/watch?v=cIqVilu7KUM) event driven, auto scaling
 * DevDay
   * [WS DevDay Seoul 2019](https://www.youtube.com/playlist?list=PLORxAVAC5fUWht8FSD70jbjRxp9h6izuI)
   * [AWS DevDay 2018](https://www.youtube.com/playlist?list=PLORxAVAC5fUX-mr4aJYC53zmJNgdxS-gl)
