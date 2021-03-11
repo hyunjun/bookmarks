@@ -353,6 +353,7 @@ NLP
 * [지식그래프에서 경로를 탐색하는 모델 AttnIO를 소개합니다](https://tech-kakaoenterprise.tistory.com/95)
 * [AI Grand Challenge, 인공지능 그랜드 챌린지 1위 입상 후기 및 입상 모델 설명](https://ai4nlp.tistory.com/17) 음성인식 + 텍스트분류
 * [ML and NLP Research Highlights of 2020](https://ruder.io/research-highlights-2020/)
+* [2018-2020 NLU 연구 동향을 소개합니다](https://www.kakaobrain.com/blog/118)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
