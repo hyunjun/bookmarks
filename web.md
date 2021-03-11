@@ -839,6 +839,7 @@ Web
   * [How do I measure request and response times at once using cURL?](https://stackoverflow.com/questions/18215389/how-do-i-measure-request-and-response-times-at-once-using-curl)
   * [Timing HTTP Requests with cURL](https://overloaded.io/timing-http-requests-curl)
   * [Simple HTTP benchmark with curl](http://blog.berezovsky.me/2012/09/simple-http-benchmark-with-curl.html)
+* [Apdex Score 그것이 알고싶다.. 개요 | by Jeongsk | 원티드 제품 팀블로그 | Mar, 2021 | Medium](https://medium.com/wantedjobs/apdex-score-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EC%95%8C%EA%B3%A0%EC%8B%B6%EB%8B%A4-bfdd27b8089d)
 * [cryload - HTTP benchmarking tool written in Crystal](https://github.com/Sdogruyol/cryload)
 * Lighthouse
   * [How to analyze website performance with Lighthouse Audit website performance manually, programmatically, or automatically](https://medium.freecodecamp.org/three-ways-to-analyze-website-performance-with-lighthouse-8d100966c04b)
