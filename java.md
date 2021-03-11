@@ -204,6 +204,9 @@ Java
 * JDBC
   * [자바가 디비와 사귀기까지 벌어지는 일들](https://www.slideshare.net/hangum/ss-80803201)
   * [JDBC로 실행되는 SQL에 자동으로 프로젝트 정보 주석 남기기](http://woowabros.github.io/tools/2018/08/16/jdbc-log-sql-projectinfo.html)
+  * [PoolCleaner 를 활용한 Connection Pool 최적화](http://blog.hwahae.co.kr/all/tech/tech-tech/5078/)
+  * [Driver does not support get/set network timeout for connections](https://medium.com/@shdotseo/driver-does-not-support-get-set-network-timeout-for-connections-82a8fd943fce)
+  * [sql injection과 jdbc PreparedStatement](https://codingdog.tistory.com/entry/sql-injection%EA%B3%BC-jdbc-PreparedStatement)
   * [HikariCP - 光 HikariCP・A solid, high-performance, JDBC connection pool at last](https://github.com/brettwooldridge/HikariCP)
     * [**HikariCP 세팅시 옵션 설명**](https://effectivesquid.tistory.com/entry/HikariCP-세팅시-옵션-설명)
     * [HikariCP는 test-while-idle과 같은 커넥션 갱신 기능이 없을까?](https://pkgonan.github.io/2018/04/HikariCP-test-while-idle)
@@ -211,8 +214,6 @@ Java
     * [HikariCP Dead lock에서 벗어나기 (실전편)](http://woowabros.github.io/experience/2020/02/06/hikaricp-avoid-dead-lock-2.html)
     * [Slick/HikariCP giving "too many connections" instead of timeouts](https://stackoverrun.com/ko/q/11283055)
     * [입 개발 HikariCP 는 왜 나를 물먹이는가… | Charsyam's Blog](https://charsyam.wordpress.com/2021/01/12/%EC%9E%85-%EA%B0%9C%EB%B0%9C-hikaricp-%EB%8A%94-%EC%99%9C-%EB%82%98%EB%A5%BC-%EB%AC%BC%EB%A8%B9%EC%9D%B4%EB%8A%94%EA%B0%80/)
-  * [Driver does not support get/set network timeout for connections](https://medium.com/@shdotseo/driver-does-not-support-get-set-network-timeout-for-connections-82a8fd943fce)
-  * [sql injection과 jdbc PreparedStatement](https://codingdog.tistory.com/entry/sql-injection%EA%B3%BC-jdbc-PreparedStatement)
 * Math
   * [Math 클래스의 반올림, 올림, 버림 등 자주 사용하는 메소드 정리](http://developer88.tistory.com/97)
   * [java BigDecimal을 이용해서 실수를 다뤄 봅시다.](https://codingdog.tistory.com/entry/java-BigDecimal%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%8B%A4%EC%88%98%EB%A5%BC-%EB%8B%A4%EB%A4%84-%EB%B4%85%EC%8B%9C%EB%8B%A4)
