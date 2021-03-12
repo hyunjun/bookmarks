@@ -2727,6 +2727,7 @@ Javascript
 * [❄️React 새로운 페이지 추가 #react-router-dom - YouTube](https://www.youtube.com/watch?v=wl3gtuHOisQ)
 * [❄️React 데이터 바인딩 #변수 #함수 #표현식 - YouTube](https://www.youtube.com/watch?v=9YbJmapYvUE)
 * [❄️React UI 컴포넌트 만들기 #헤더분리 #삽질포함 - YouTube](https://www.youtube.com/watch?v=lFF_YKEHlss)
+* [❄️React State와 생명주기 #Lifecycle - YouTube](https://www.youtube.com/watch?v=Ju8M2uQBBUY)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
