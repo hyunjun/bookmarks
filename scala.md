@@ -846,6 +846,7 @@ Scala
       * [Part2: Maximise the use of Scala types (Option & Either in zio-config) - YouTube](https://www.youtube.com/watch?v=SusCbrSK5eA)
       * [Part3: Intro to ADT, and scalable configuration management! - YouTube](https://www.youtube.com/watch?v=LGo_g1GK6_k)
     * [zio-json: Fast, secure JSON library with tight ZIO integration](https://github.com/zio/zio-json/)
+    * zio-k8s [Writing kubectl plugins with ZIO K8s](https://ziverge.com/blog/zio-k8s-kubectl-plugin/)
     * zio-prelude [What's Ap with zio-prelude?](https://justinhj.github.io/2020/08/02/whats-ap-with-zio-prelude.html)
     * [zio-properties: A ZIO alternative to Spring Properties](https://adrianfilip.com/2020/05/03/zio-properties-a-zio-alternative-to-spring-properties/)
     * ZIO STM
@@ -1368,6 +1369,7 @@ Scala
   * [Tapir vs Endpoints4s - The battle of the endpoints definition!](https://scalac.io/tapir-vs-endpoints4s/)
   * [Ditching the blueprint: towards a code-first approach to API management | by Andrea Fiore | lenses.io | Jan, 2021 | Medium](https://medium.com/lensesio/ditching-the-blueprint-towards-a-code-first-approach-to-api-management-ca34cfeaf537)
   * [Type driven API development using Scala and Tapir | by Andrea Fiore | lenses.io | Jan, 2021 | Medium](https://medium.com/lensesio/type-driven-api-development-using-scala-and-tapir-f5df4b614d67)
+  * [Tapir serverless: a proof of concept | by Adam Warski | Mar, 2021 | SoftwareMill Tech Blog](https://blog.softwaremill.com/tapir-serverless-a-proof-of-concept-6b8c9de4d396)
 
 ## Library Json
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
@@ -1699,6 +1701,7 @@ Scala
 * [Tuples bring generic programming to Scala 3 | The Scala Programming Language](https://www.scala-lang.org/2021/02/26/tuples-bring-generic-programming-to-scala-3.html) Heterogeneous Lists, HLists
 * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=3HS1v4A5MaE&t=500s)
 * [What's new in Scala 3: Implicits! - YouTube](https://www.youtube.com/watch?v=TdwkzNq2gY0)
+* [The future of Scaladoc. Scala 3, like all modern languages… | by Krzysztof Romanowski | VirtusLab | Mar, 2021 | Medium](https://medium.com/virtuslab/the-future-of-scaladoc-8bf78a4e2988)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
