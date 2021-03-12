@@ -195,6 +195,10 @@ Vision
   * [One-shot object detection](https://machinethink.net/blog/object-detection/)
   * [windows환경/darknet/ 점수내기 - DACON](https://dacon.io/codeshare/1717)
   * [YOLO Real time object detection on CPU](https://morioh.com/p/78141aa5a374)
+  * [GaussianYoloV3_Detector](https://github.com/JONGGON/Gluon-Detector/tree/master/GaussianYoloV3_Detector)
+  * [OpenDataCam - An open source tool to quantify the world](https://www.move-lab.com/project/opendatacam/) YOLO기반 카메라 활용
+  * [tfjs-yolo: YOLO v3 and Tiny YOLO v1, v2, v3 with Tensorflow.js](https://github.com/shaqian/tfjs-yolo)
+  * [TincyYOLO: a real-time, low-latency, low-power object detection system running on a Zynq UltraScale+ MPSoC](https://forums.xilinx.com/t5/Xcell-Daily-Blog/Tincy-YOLO-a-real-time-low-latency-low-power-object-detection/ba-p/815840)
   * v2
     * [이미지 Detection 문제와 딥러닝: YOLOv2로 얼굴인식하기](http://research.sualab.com/machine-learning/computer-vision/2018/05/14/image-detection-deep-learning.html)
     * [Object Detection using YOLOv2 in darkflow](https://github.com/deep-diver/Object-Detection-YOLOv2-Darkflow)
@@ -236,9 +240,6 @@ Vision
     * [YOLO V5 Model comparison - YouTube](https://www.youtube.com/watch?v=qwh9CGI1vNo)
     * [Yolo V5 Object Detection using Pytorch | On Local & Colab](https://morioh.com/p/4158eb7e4257)
     * ["Yolov5 Object Detection Using Google Colab & Python" | KNOWLEDGE DOCTOR | Mishu Dhar - YouTube](https://www.youtube.com/watch?v=D27EQe6XTk8)
-  * [GaussianYoloV3_Detector](https://github.com/JONGGON/Gluon-Detector/tree/master/GaussianYoloV3_Detector)
-  * [OpenDataCam - An open source tool to quantify the world](https://www.move-lab.com/project/opendatacam/) YOLO기반 카메라 활용
-  * [TincyYOLO: a real-time, low-latency, low-power object detection system running on a Zynq UltraScale+ MPSoC](https://forums.xilinx.com/t5/Xcell-Daily-Blog/Tincy-YOLO-a-real-time-low-latency-low-power-object-detection/ba-p/815840)
 * [CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/)
 * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 * [Convolutional Neural Networks limitations for AGI in Computer Vision](https://theintelligenceofinformation.wordpress.com/2017/05/03/convolutional-neural-networks-limitations-for-agi-in-computer-vision/)
