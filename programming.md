@@ -1151,6 +1151,8 @@ Programming
 * [opstrace: Secure observability, deployed in your own network. An open source alternative to SaaS solutions like datadog, signalfx...](https://github.com/opstrace/opstrace)
 * [Piku - the tiniest PaaS you've ever seen. Git push deployments to your own servers](https://piku.github.io/)
   * [piku - 초경량 PaaS | GeekNews](https://news.hada.io/topic?id=3659)
+* [rclone: "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files](https://github.com/rclone/rclone)
+  * [입 개발 rclone mount 빌드 방법 | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/12/%ec%9e%85-%ea%b0%9c%eb%b0%9c-rclone-mount-%eb%b9%8c%eb%93%9c-%eb%b0%a9%eb%b2%95/)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
@@ -2326,6 +2328,7 @@ Programming
 * [64비트 멀티코어 OS 원리와 구조](https://github.com/HIPERCUBE/64bit-Multicore-OS)
 * [**How Operating Systems Work: 10 Concepts you Should Know as a Developer**](https://codeburst.io/how-operating-systems-work-10-concepts-you-should-know-as-a-developer-8d63bb38331f)
 * [프로세스 동기화 - 임계구역 문제 (Critical-Section)](http://hongku.tistory.com/17)
+* [크리티컬섹션(critical section) 은 정말로 유저 영역일까? – Kudryavka Noumi](https://www.kudryavka.me/?p=991)
 * [Operating Systems Course Notes Main Page](https://www2.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/)
 * [NAVER Tech Talk: OS, 시스템 (2017년 7월~2018년 1월)](https://d2.naver.com/news/7119116)
 * [The 10 Operating System Concepts Software Developers Need to Remember](https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710)
