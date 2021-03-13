@@ -1195,6 +1195,8 @@ Java
 * [AOP 개요 - YouTube](https://www.youtube.com/watch?v=UY9-S2_KKNg)
 * [간단한 AOP 코드 #IntelliJ - YouTube](https://www.youtube.com/watch?v=JwrzfuJSfrk)
 * [스프링 부트에서 빠르게 AOP 코드 작성하기 #이보다쉬울수없다 - YouTube](https://www.youtube.com/watch?v=WVZjzDzXJIM)
+* [Spring 에서 AOP 구현하기 1편 - 개념설명 및 로깅 구현 - YouTube](https://www.youtube.com/watch?v=bszNuXKZeCs)
+* [Spring 에서 AOP 구현하기 2편 - 보안 모듈 - YouTube](https://www.youtube.com/watch?v=TO1LJ6Bg9M8)
 * [Spring Actuator 기초 설정 & IntelliJ 활용하기](https://www.popit.kr/spring-actuator-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95-intellij-%ED%99%9C%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [스프링캠프 2017 Day1 A2 : Async & Spring](https://www.youtube.com/watch?v=HKlUvCv9hvA)
 * [레거시 코드를 점진적으로 개선한 경험 스프링 레거시 코드를 개선하는데 실천한 13가지 방법](https://sogoagain.github.io/2020/03/08/%EB%A0%88%EA%B1%B0%EC%8B%9C-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B0%9C%EC%84%A0%ED%95%9C-%EA%B2%BD%ED%97%98/)
@@ -1229,11 +1231,13 @@ Java
 * [21. Spring - 게시판 목록의 No값(주로PK값)을 순번으로 나타내기](https://kim-jong-hyun.tistory.com/37)
 * [22. Spring - Profile별로 개발환경 세팅 및 배포](https://kim-jong-hyun.tistory.com/40)
 * [스프링은 프록시 객체를 어떻게 만들까?](https://soolow-and-sooteady.tistory.com/1)
+* [Spring에서 예외처리 하기 (초보 개발자 필수 시청) - YouTube](https://www.youtube.com/watch?v=MeAt9Em02Cs)
 * [thymeleaf](https://okdevtv.com/mib/spring/thymeleaf)
   * [Thymeleaf 시작하기 - YouTube](https://www.youtube.com/watch?v=tiRi6PLVesY)
   * [7. Spring Thymeleaf 적용해보기](https://kim-jong-hyun.tistory.com/18)
   * [8. Spring Thymeleaf 기본문법](https://kim-jong-hyun.tistory.com/19)
   * [9. Spring Thymeleaf Util class](https://kim-jong-hyun.tistory.com/20)
+  * [24. Spring - Thymeleaf 템플릿 메일발송](https://kim-jong-hyun.tistory.com/43)
 
 ## Library Spring Boot
 * [스프링 부트(Spring Boot) 소개 합니다](http://www.slideshare.net/topcredu/spring-boot-66190611)
