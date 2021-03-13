@@ -663,6 +663,7 @@ Algorithm
 * [Traversing a linearized tree](http://bannalia.blogspot.kr/2015/06/traversing-linearized-tree.html)
 * [Eli-Index - Ranked Prefix Search for Large Data on External Memory optimized for Mobile with ZERO lag initialization time](https://github.com/maksimpiriyev/Eli-Index/)
 * [Fenwick Trees](http://loonytek.com/2015/08/17/fenwick-trees/)
+* [펜윅 트리 (fenwick tree) : 구간합을 빠르게 구한다.](https://codingdog.tistory.com/entry/%ED%8E%9C%EC%9C%85-%ED%8A%B8%EB%A6%AC-fenwick-tree-%EA%B5%AC%EA%B0%84%ED%95%A9%EC%9D%84-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EA%B5%AC%ED%95%9C%EB%8B%A4)
 * [QuadTree with finite sized objects](http://xqt2.com/p/mtree.html)
 * [Interval hash tree: An eÆcient index structure for searching ob ject queries in large image databases](http://www.almaden.ibm.com/cs/people/stf/papers/caivd99.pdf)
 * [The BK-Tree – A Data Structure for Spell Checking](https://nullwords.wordpress.com/2013/03/13/the-bk-tree-a-data-structure-for-spell-checking/)
