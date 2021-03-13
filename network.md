@@ -101,6 +101,7 @@ Network
 * [NGINX와 quiche로 HTTP/3 시험해 보기](https://blog.cloudflare.com/ko/experiment-with-http-3-using-nginx-and-quiche-ko/)
 * [HTTP 3 is Out and About!. Evolution of HTTP from HTTP 1 to HTTP 3 | by Anuradha Wickramarachchi | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/http-3-is-out-and-about-7c903f9aab9e)
 * [The Long Road to HTTP/3 · Scorpil](https://scorpil.com/post/the-long-road-to-http3/)
+* [한 장으로 설명하는 HTTP/2와 HTTP/3 비교](https://www.facebook.com/photo.php?fbid=10159072624780040&set=a.406632300039&type=3)
 * [quiche의 CUBIC와 HyStart++ 지원](https://blog.cloudflare.com/ko/cubic-and-hystart-support-in-quiche-ko/)
 * [Introducing a Technology Preview of NGINX Support for QUIC and HTTP/3 - NGINX](https://www.nginx.com/blog/introducing-technology-preview-nginx-support-for-quic-http-3/)
 * [http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers](https://github.com/for-GET/http-decision-diagram)
