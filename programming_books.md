@@ -200,6 +200,7 @@ Programming Books
 * (NOT YET) [**스프링 부트와 AWS로 혼자 구현하는 웹 서비스 출간 후기**](https://jojoldu.tistory.com/463)
   * [freelec-springboot2-webservice](https://github.com/jojoldu/freelec-springboot2-webservice)
 * [210.(책추천) AWS시작으로 좋은 책들](https://brunch.co.kr/@topasvga/666)
+* (NOT YET) [Amazon Web Services로 시작하는 클라우드 입문](https://jybaek.tistory.com/907)
 
 # Android
 
