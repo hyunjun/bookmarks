@@ -2138,6 +2138,7 @@ Python
 * [**Develop and sell a Python API — from start to end tutorial | by Daniel Deutsch | Sep, 2020 | Towards Data Science**](https://towardsdatascience.com/develop-and-sell-a-python-api-from-start-to-end-tutorial-9a038e433966) AWS
 * [How to deploy Flask on IIS with Windows Authentication | by Rudy W | Medium](https://medium.com/@nerdijoe/how-to-deploy-flask-on-iis-with-windows-authentication-733839d657b7)
 * [12 requests per second in Python](https://suade.org/dev/12-requests-per-second-with-python/) uvloop
+* [Flask Course - Python Web Application Development - YouTube](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
 
 ## Flask Library
 * [Bread pan 기본적인 웹서비스를 간단하게 만드는 프로젝트 틀](https://github.com/jinhoyoo/breadpan) 구조 참고
@@ -3831,6 +3832,7 @@ Python
 * [자주쓰는 명령어로 배우는 Pandas #4 : 데이터 능숙하게 다루기](https://sjquant.tistory.com/57)
 * [Wes McKinney: pandas in 10 minutes | Walkthrough - YouTube](https://www.youtube.com/watch?v=_T8LGqJtuGc)
 * [Efficiently Cleaning Text with Pandas - Practical Business Python](https://pbpython.com/text-cleaning.html)
+* [Scaling Pandas: Dask vs Ray vs Modin vs Vaex vs RAPIDS](https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
   * [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
