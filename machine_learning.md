@@ -1165,6 +1165,7 @@ Machine Learning
 * [Decision Trees in Machine Learning (ML) with Python Tutorial | by Towards AI Team | Towards AI | Nov, 2020 | Medium](https://medium.com/towards-artificial-intelligence/decision-trees-in-machine-learning-ml-with-python-tutorial-3bfb457bce67)
 * [Gradient Descent for Machine Learning (ML) 101 with Python Tutorial | Towards AI](https://medium.com/towards-artificial-intelligence/gradient-descent-algorithm-for-machine-learning-python-tutorial-ml-9ded189ec556)
 * [best-of-ml-python: 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly](https://github.com/ml-tooling/best-of-ml-python)
+* [8 Basic Easy to Follow Steps to Learn Machine Learning with Python](https://www.mltut.com/basic-steps-to-learn-machine-learning-with-python)
 
 ## Python Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
