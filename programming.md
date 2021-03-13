@@ -761,6 +761,7 @@ Programming
 * [Everything About Software Architecture | by Mohit Malhotra | The Startup | Feb, 2021 | Medium](https://medium.com/swlh/everything-aboutsoftware-architecture-dfd2b9351ef4)
 * [Storing and retrieving millions of ad impressions per second](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/storing-and-retrieving-millions-of-ad-impressions-per-second.html)
 * [**LINE 미디어 스토리지 글로벌 배치 프로젝트를 소개합니다 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/line-mediastorage-at-scale/) cache ceph 좋은 글
+* [2020년 마이리얼트립 개발 조직의 변화와 성과 대한 회고-2편 : No.1 Travel Tech Leader를 향한 도전기 | by Lego | How we build MyRealTrip | Feb, 2021 | Medium](https://medium.com/myrealtrip-product/20%EB%85%84-%EA%B0%9C%EB%B0%9C%EC%A1%B0%EC%A7%81%EC%97%90-%EC%9E%88%EC%97%88%EB%8D%98-%EB%B3%80%ED%99%94%EC%99%80-%EC%84%B1%EA%B3%BC-%EB%8C%80%ED%95%9C-%ED%9A%8C%EA%B3%A0-2%ED%8E%B8-no-1-travel-tech-%ED%9A%8C%EC%82%AC%EB%A5%BC-%ED%96%A5%ED%95%9C-%EB%8F%84%EC%A0%84%EA%B8%B0-f6216be9fd09)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -1099,6 +1100,7 @@ Programming
 * [Site Reliability Engineering](https://landing.google.com/sre/book/chapters/foreword.html)
   * [구글, 사이트 신뢰성 워크북(SRE Workbook) 공개](https://www.44bits.io/ko/post/news--site-reliability-workbook-is-published)
   * [구글에서 세 번째 SRE 도서 Building Secure and Reliable Systems 무료 공개](https://www.44bits.io/ko/post/third-free-sre-book-build-seruce-and-reliable-system)
+* [Software Design for Flexibility | The MIT Press](https://mitpress.mit.edu/books/software-design-flexibility)
 * [ZLibrary Part of Z-Library project. The world's largest ebook library](https://b-ok.cc/)
 
 # Build Compile
@@ -1213,6 +1215,7 @@ Programming
 * [코드리뷰가 쏘아올린 작은공 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/02/09/cory.html)
 * [좋은 PR, 코드 리뷰에 대한 단상. 일 하다 보면 일관성 없는 PR, 가독성 떨어지는 코드 리뷰를 마주할… | by geekk | Feb, 2021 | Medium](https://octob.medium.com/%EC%A2%8B%EC%9D%80-pr-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8B%A8%EC%83%81-e08bfccc16b9)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
+* [Measuring enterprise developer productivity - The GitHub Blog](https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/)
 * [6 Simple Tips on How to Start Writing Clean Code](https://hackernoon.com/6-simple-tips-on-how-to-start-writing-clean-code-d66c241aa268)
 * [How to write Clean Code?](https://fullstackrubyonrails.com/blog/how-to-write-clean-code)
 * [카카오헤어샵의 CleanCode](https://brunch.co.kr/@cg4jins/2)
@@ -2315,6 +2318,7 @@ Programming
     * [(02/27) 구글의 "엔지니어링 디렉터" 면접 문제 - YouTube](https://www.youtube.com/watch?v=Cq0co4j-1tw)
   * [(3월 6일) 빌어먹을 HTTP](https://jhrogue.blogspot.com/2021/03/3-6-http.html) 빌어먹을 HTTP, 웹 소프트웨어의 미래는 HTML-over-WebSocket인가?, 효율적인 엔지니어 되기, 온프레미스 네트워크 이해
     * [(03/06) 빌어먹을 HTTP - YouTube](https://www.youtube.com/watch?v=s16TySh52lg)
+  * [(03/13) 스프링 네이티브 베타 출시 소식 - YouTube](https://www.youtube.com/watch?v=kZJsv5VndIc) 스프링 네이티브 베타 출시 소식, Programmers Recruiting·Survey 2021, 마이크로소프트에서 금지한 C 함수들, git clone 보안 문제
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
 * [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
