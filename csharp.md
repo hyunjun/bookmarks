@@ -124,6 +124,8 @@ C#
 * [Uno Platform](https://platform.uno/)
 * [WolframAlpha.NET - An implementation of the Wolfram|Alpha 2.0 API in C#](https://github.com/Genbox/WolframAlpha.NET)
 * [XLParser - A C# Excel formula parser with the following properties](https://github.com/spreadsheetlab/XLParser)
+* [youFastCSV: Most of data science projects require extracting data from csv files. So I customise an in-memory data model which supports reading csv file to memory and convert to json, html to xml at ultra speed. Below demo is running on a 8 cores CPU with 32GB memory. I completed this project within 12 days](https://github.com/YuWaiPang/youFastCSV)
+  * [youFastCSV: Convert your big csv file to in-memory and to other files JSON, HTML, XML very quickly - YouTube](https://www.youtube.com/watch?v=i6PqhXLv4is)
 
 # TDD, Test
 * [An example of state-based testing in C#](https://blog.ploeh.dk/2019/04/01/an-example-of-state-based-testing-in-c/)
