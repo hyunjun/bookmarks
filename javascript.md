@@ -97,6 +97,7 @@ Javascript
 * [How not to be afraid of JavaScript anymore](https://medium.freecodecamp.org/how-not-to-be-afraid-of-javascript-anymore-c40780dc071)
 * [바닐라 자바스크립트로 5분만에 모달창 만들기 (Vanilla JS Rocks : making pop up screen in 5 min)](https://www.youtube.com/watch?v=V08wXKHF_Xw)
 * [바닐라 자바스크립트로 "캐러셀 슬라이더" 만들기 (Vanilla JS : making Carousel slider)](https://www.youtube.com/watch?v=l18HCZqBs6I)
+* [Build a Weather App with Vanilla Javascript | Javascript Project for Beginners - YouTube](https://www.youtube.com/watch?v=s_Ie_yh_4Co)
 * [유튜브 클론 코딩__ 웹 사이트 vs 웹 앱 (Youtube Clone__Websites vs Webapps)](https://www.youtube.com/watch?v=r36fDtgXaWQ)
 * [Building a YouTube Clone With React — Part 1 | by Nouman | The Startup | Oct, 2020 | Medium](https://medium.com/swlh/building-a-youtube-clone-using-react-part-1-40fb09ae2837)
 * [Building a YouTube Clone Using React — Part 2 | by Nouman | The Startup | Oct, 2020 | Medium](https://medium.com/swlh/building-a-youtube-clone-using-react-part-2-a23a9dded270)
@@ -2002,6 +2003,7 @@ Javascript
 * [Node.js v15 가 모습을 드러냈습니다! | Eric's DevLog (데브로그)](https://www.kyungyeon.dev/posts/57)
 * [Nodejs로 만들어진 Web app을 리눅스에서 구동하는 방법 - YouTube](https://www.youtube.com/watch?v=xzhUSXGzc54)
 * [setTimeout(), setImmediate(), process.nextTick() 차이점](https://blog.naver.com/dlaxodud2388/222229554720)
+* [학교 인트라넷 프로젝트: 수정과 개발기](https://blog.skylightqp.kr/289)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -2728,6 +2730,7 @@ Javascript
 * [❄️React 데이터 바인딩 #변수 #함수 #표현식 - YouTube](https://www.youtube.com/watch?v=9YbJmapYvUE)
 * [❄️React UI 컴포넌트 만들기 #헤더분리 #삽질포함 - YouTube](https://www.youtube.com/watch?v=lFF_YKEHlss)
 * [❄️React State와 생명주기 #Lifecycle - YouTube](https://www.youtube.com/watch?v=Ju8M2uQBBUY)
+* [❄️원격 데이터 가져오기 #react #fetch - YouTube](https://www.youtube.com/watch?v=4BofPfwvoZY)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
