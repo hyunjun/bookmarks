@@ -457,6 +457,7 @@ ElasticSearch - Lucene
 * [은전한닢 프로젝트](http://eunjeon.blogspot.com/)
   * [은전한닢 설치 완전정복](http://www.popit.kr/%EC%9D%80%EC%A0%84%ED%95%9C%EB%8B%A2-%EC%84%A4%EC%B9%98-%EC%99%84%EC%A0%84%EC%A0%95%EB%B3%B5/)
   * [엘라스틱서치(elasticsearch)에 한글 형태소 분석기 은전한잎(eunjeon) 적용하기](http://blog.nacyot.com/articles/2015-06-13-eunjeon-with-elasticsearch/)
+  * [은전한닢을 인덱스에 세팅해보자](https://velog.io/@juunini/%EC%9D%80%EC%A0%84%ED%95%9C%EB%8B%A2%EC%9D%84-%EC%9D%B8%EB%8D%B1%EC%8A%A4%EC%97%90-%EC%84%B8%ED%8C%85%ED%95%B4%EB%B3%B4%EC%9E%90)
 * Beats
   * [Community Beats](https://www.elastic.co/guide/en/beats/libbeat/current/community-beats.html)
   * [나만의 Beats 만들기](http://kimjmin.net/2016/06/create-own-beats/)
