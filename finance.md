@@ -36,8 +36,6 @@ Finance
 * [A Step-By-Step Guide To Building a Trading Bot In Any Programming Language | by Yakko Majuri | Aug, 2020 | Noteworthy - The Journal Blog](https://blog.usejournal.com/a-step-by-step-guide-to-building-a-trading-bot-in-any-programming-language-d202ffe91569)
 * [코스피 ETF의 종류와 매월 일정금액을 투자했다면 그 결과는?!](https://tariat.tistory.com/968)
 * [적립식 ETF 투자의 장점과 단점은?!](https://tariat.tistory.com/971)
-* [국내 배당주 ETF 3가지 추천!](https://rollingbean.tistory.com/12)
-  * [요즘 부자들 '이것'을 조용히 모으고 있다 - YouTube](https://www.youtube.com/watch?v=dPV9X72Ifxk) Kodex 배당성장 ETF Arirang고배당주
 * [금융저널에 실린 기계학습논문을 구현한 MLFinLab | | 그대안의 작은 호수](https://smallake.kr/?p=28572)
 * ['국내외 주식 분석 리포트/해외 주식' 카테고리의 글 목록](https://ryanydollardollarbill.tistory.com/category/%EA%B5%AD%EB%82%B4%EC%99%B8%20%EC%A3%BC%EC%8B%9D%20%EB%B6%84%EC%84%9D%20%EB%A6%AC%ED%8F%AC%ED%8A%B8/%ED%95%B4%EC%99%B8%20%EC%A3%BC%EC%8B%9D)
 * ['블랙록'은 '금융 플랫폼' 회사다!](https://brunch.co.kr/@gauss92tgrd/16)
@@ -59,10 +57,8 @@ Finance
 * [한국인을 위한 맞춤 재테크 전략은 없을까?](https://blog.naver.com/hong8706/221223694635)
 * [우량 기술주 초기에 발견하는 방법](https://www.youtube.com/watch?v=WdPGjG0jSK0) 40의 법칙
 * [213. (초보) 역대급 주식 전설들의 유튜브 채널들 10개 소개!](https://www.youtube.com/watch?v=ZNNwIJymshw)
-* [미국주식 고배당주 총정리](https://usstock.tistory.com/75)
 * [슬기로운 대체투자 (3) 감옥 (교정시설) 펀드편](https://brunch.co.kr/@daegukim/66)
 * [쓰다 남은 달러로 불황에도 할 수있는 투자방법 알려드림(feat.美교도소주) / 돈워리스쿨](https://www.youtube.com/watch?v=ZZM-m-JP8-o)
-* [해외 고배당/자산배분 ETF 투자 - SPYD(분기), SPHD(월) / AOR등](http://blog.naver.com/yonghan_shin/221516283146)
 * [태국주식 사는 방법, 주식매매 따라해보기, 입금출금 해보기](https://www.youtube.com/watch?v=MWbVVKKOQgY)
 * [SaaS, Slack, Amazon SEO, Pinduoduo, Meituan, KPCB, a16z](https://medium.com/translink/two-cents-2-saas-slack-amazon-seo-pinduoduo-meituan-kpcb-a16z-c98c61b80e9c)
 * [월가의 퀀트 여제, 세계에서 가장 가벼운 금융회사를 꿈꾸다: 이지혜 대표 인터뷰](https://ppss.kr/archives/184025)
@@ -72,10 +68,15 @@ Finance
 * [INVESTMENT, MOIRA & ENOMA.. : 네이버블로그](https://blog.naver.com/moiraenomatia)
 * [자녀에게 사주면 좋을 해외주식 BEST 10 - YouTube](https://www.youtube.com/watch?v=95NL2JKDDvk)
 * [투자 자료 모음 - Google Sheets](https://docs.google.com/spreadsheets/d/1wPR2CCImrk6Qb8jwlGy2_RfDJu5PwY18POrJ3UR1sts/edit#gid=0)
-* 기업은행: 국책은행 배당
+* [증권사 텔레그램](https://gist.github.com/hyunjun/16b8120e16ad8211b18c5317e06fe023#file-md)
 * [Invest Helper](https://investhelper.ml/) 한국 ETF 위주
 * [Portfolio Visualizer](https://www.portfoliovisualizer.com/) 미국 ETF 위주
-* [증권사 텔레그램](https://gist.github.com/hyunjun/16b8120e16ad8211b18c5317e06fe023#file-md)
+* [미국주식 고배당주 총정리](https://usstock.tistory.com/75)
+* [해외 고배당/자산배분 ETF 투자 - SPYD(분기), SPHD(월) / AOR등](http://blog.naver.com/yonghan_shin/221516283146)
+* [국내 배당주 ETF 3가지 추천!](https://rollingbean.tistory.com/12)
+  * [요즘 부자들 '이것'을 조용히 모으고 있다 - YouTube](https://www.youtube.com/watch?v=dPV9X72Ifxk) Kodex 배당성장 ETF Arirang고배당주
+* [배당만 따먹어도 정기예금보다 배부르네](https://news.v.daum.net/v/20210315030352457)
+* 기업은행: 국책은행 배당
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
