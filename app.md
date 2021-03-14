@@ -1449,6 +1449,7 @@ App
   * [파일 전송이 어려울 때 텍스트 파일 내용 복사하기(putty)](https://github.com/wafe/Pile-of-Things/issues/13)
   * [How to export/import PuTTy sessions list?](https://stackoverflow.com/questions/13023920/how-to-export-import-putty-sessions-list)
 * [Scoop - A command-line installer for Windows](https://scoop.sh)
+  * [윈도우에 Visual Studio Code 패키지로 설치하기. - Scoop](http://dalinaum.github.io/windows/2021/03/14/scoop-visual-studio-code.html)
 * [Squirrel - An installation and update framework for Windows desktop apps](https://github.com/Squirrel/Squirrel.Windows)
 * ssh
   * [putty를 이용한 ssh 접속 환경 설정](http://moomini.tistory.com/70)
