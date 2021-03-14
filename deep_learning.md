@@ -904,6 +904,8 @@ Deep Learning
 * [CS 230 ― Deep Learning](https://stanford.edu/~shervine/teaching/cs-230.html)
   * [Deep Learning cheatsheets for Stanford's CS 230](https://github.com/afshinea/stanford-cs-230-deep-learning)
 * [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17/)
+* [CS W182 / 282A](https://cs182sp21.github.io/)
+  * [Deep Learning: CS 182 Spring 2021 - YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
 * [EE-559 – Deep Learning](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
   * [MIT 6.S191: Introduction to Deep Learning](https://medium.com/tensorflow/mit-6-s191-introduction-to-deep-learning-24994d705aca)
