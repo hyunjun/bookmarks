@@ -593,6 +593,8 @@ AWS
 * [DynamoDB 설계 방법: Single Table Design - CH DEVLOG](https://changhoi.github.io/posts/backend/dynamodb-single-table-design/)
 * [꿀벌개발일지 :: 효과적인 DynamoDB 디자인 및 활용](https://ohgyun.com/803)
 * [꿀벌개발일지 :: DynamoDB: 파티션키와 정렬키의 이해](https://ohgyun.com/805)
+* [꿀벌개발일지 :: DynamoDB: Building NoSQL Database-Driven Applications 노트](https://ohgyun.com/807)
+* [꿀벌개발일지 :: DynamoDB: 고민했던 것들에 대한 정리](https://ohgyun.com/808)
 
 # EC2
 * [아마존 웹 서비스 8 – 스왑 추가로 EC2 인스턴스에 날개 달기](http://www.creativeworksofknowledge.com/2015/07/29/aws-adding-swap-to-ec2-instance/)
