@@ -840,6 +840,7 @@ Programming Books
 
 # Flutter
 * (NOT YET) [처음 배우는 플러터 : 예제로 배우는 크로스 플랫폼 애플리케이션 개발](http://www.hanbit.co.kr/store/books/look.php?p_code=B8753032429)
+* (NOT YET) [소문난 명강의 : 오준석의 플러터 생존 코딩](http://hanbit.co.kr/store/books/look.php?p_code=B9770627589)
 
 # Functional programming
 * (NOT YET) [순수 함수형 데이터 구조 - 불변성과 지연 계산을 활용한 함수형 데이터 구조](http://acornpub.co.kr/book/purely-functional-structures)
