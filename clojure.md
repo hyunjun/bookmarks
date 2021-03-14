@@ -282,6 +282,8 @@ Clojure
 * [Rapid Application Development with Hydrogen | by Irati Etxeberria | magnet.coop | Mar, 2021 | Medium](https://medium.com/magnetcoop/rapid-application-development-with-hydrogen-5130f463b30f)
 * [Clojure from a Schemer's perspective | More magic](https://www.more-magic.net/posts/thoughts-on-clojure.html)
 * [Clojure Goodness: Pure Function Sample Buying Coffee From FP Programming In Scala Written In Clojure - Messages from mrhaki](https://blog.mrhaki.com/2021/03/clojure-goodness-pure-function-sample.html)
+* [Emanuel Goette, alias Crespo: Clojure](https://emanuelpeg.blogspot.com/search/label/Clojure) code snippet
+* [Creating Dungeon Games in Clojure; Data Functions - YouTube](https://www.youtube.com/watch?v=wsnMTfjkCMc)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -932,6 +934,7 @@ Clojure
   * [Part 4](https://dev.to/greencoder/build-your-own-transducer-and-impress-your-cat---part-4-2bp8)
 * [번역 Transducers 이해하기](https://medium.com/@autumn.bom/%EB%B2%88%EC%97%AD-transducers-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-c69e07840cc)
 * [A mental model for thinking about Clojure's Transducers | Functional Works](https://functional.works-hub.com/learn/a-mental-model-for-thinking-about-clojures-transducers-6baba)
+* [Understanding Transducers - Elben Shira](https://elbenshira.com/blog/understanding-transducers/)
 
 # Tutorial
 * [클로저 맛보기 스터디](http://slipp.net/questions/339)
