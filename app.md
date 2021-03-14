@@ -952,7 +952,6 @@ App
 * [How to set up your Mac for Web Development](https://medium.com/free-code-camp/how-to-set-up-your-mac-for-web-development-b40bebc0cac3)
 * [Developer turns the MacBook Pro Touch Bar into a Taskbar in Windows 10](https://www.notebookcheck.net/Developer-turns-the-MacBook-Pro-Touch-Bar-into-a-Taskbar-in-Windows-10.428205.0.html)
 * [개발자를 위한 OS X(>= Catalina) 설정](https://www.sangkon.com/osx-setting-for-developer/)
-* [My Top Homebrew Packages for 2020 Become a power user and improve your productivity](https://medium.com/better-programming/my-top-homebrew-packages-for-2020-b6565d46de85) htop, tldr, jq, ncdu, tmux
 * [개발자를 위한 애플 실리콘 M1 맥 세팅 | 44BITS](https://www.44bits.io/ko/post/setup-apple-silicon-m1-for-developers)
 * [Install MySQL GUI, Mongodb in M1 Mac | by Ryan Kim | Mar, 2021 | Medium](https://equus3144.medium.com/install-mysql-gui-mongodb-in-m1-mac-dd8be6251f3f)
 * command terminal
@@ -972,6 +971,8 @@ App
   * [Brewfile을 이용해서 팀 개발 환경 만들기](https://medium.com/plustv/brewfile을-이용해서-팀-개발-환경-만들기-1516cb21f669)
   * [홈브류(Homebrew)란?](https://www.44bits.io/ko/keyword/homebrew)
   * [How does Homebrew work? (starring Rust!)](https://medium.com/@jldlaughlin/how-does-homebrew-work-starring-rust-94ae5aa24552)
+  * [My Top Homebrew Packages for 2020 Become a power user and improve your productivity](https://medium.com/better-programming/my-top-homebrew-packages-for-2020-b6565d46de85) htop, tldr, jq, ncdu, tmux
+  * [M1 맥북에서 처음해야하는 일 - Homebrew부터](http://dalinaum.github.io/mac/2021/03/15/m1-init.html)
 * [DAEMONIZING PROCESSES IN OSX](https://imagineer.in/blog/daemonizing-processes-in-osx/)
 * [dev-setup - macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults](https://github.com/donnemartin/dev-setup)
 * [Docker-OSX - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!](https://github.com/sickcodes/Docker-OSX)
