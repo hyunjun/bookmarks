@@ -616,6 +616,7 @@ Programming
 * [atomic design](http://bradfrost.com/blog/post/atomic-web-design/)
   * [Atomic Design by Brad Frost](http://atomicdesign.bradfrost.com/)
   * [나눌 수 있다는 것은](http://kimbyeonghwan.tumblr.com/post/172760343341/%EB%82%98%EB%88%8C-%EC%88%98-%EC%9E%88%EB%8B%A4%EB%8A%94-%EA%B2%83%EC%9D%80)
+  * [Effective Atomic Design | kciter.so](https://kciter.so/posts/effective-atomic-design)
 * [아키텍처란](https://brunch.co.kr/@cleancode/33)
 * [Scalable webservice](https://www.slideshare.net/charsyam2/scalable-webservice)
 * Instagram
@@ -2176,6 +2177,7 @@ Programming
   * [기술 뉴스 #167 : 21-02-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1532)
   * [기술 뉴스 #168 : 21-02-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1534)
   * [기술 뉴스 #169 : 21-03-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1535)
+  * [기술 뉴스 #170 : 21-03-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1536)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -2318,7 +2320,8 @@ Programming
     * [(02/27) 구글의 "엔지니어링 디렉터" 면접 문제 - YouTube](https://www.youtube.com/watch?v=Cq0co4j-1tw)
   * [(3월 6일) 빌어먹을 HTTP](https://jhrogue.blogspot.com/2021/03/3-6-http.html) 빌어먹을 HTTP, 웹 소프트웨어의 미래는 HTML-over-WebSocket인가?, 효율적인 엔지니어 되기, 온프레미스 네트워크 이해
     * [(03/06) 빌어먹을 HTTP - YouTube](https://www.youtube.com/watch?v=s16TySh52lg)
-  * [(03/13) 스프링 네이티브 베타 출시 소식 - YouTube](https://www.youtube.com/watch?v=kZJsv5VndIc) 스프링 네이티브 베타 출시 소식, Programmers Recruiting·Survey 2021, 마이크로소프트에서 금지한 C 함수들, git clone 보안 문제
+  * [(3월 13일) 스프링 네이티브 베타 출시 소식](https://jhrogue.blogspot.com/2021/03/3-13.html) 스프링 네이티브 베타 출시 소식, Programmers Recruiting·Survey 2021, 마이크로소프트에서 금지한 C 함수들, git clone 보안 문제
+    * [(03/13) 스프링 네이티브 베타 출시 소식 - YouTube](https://www.youtube.com/watch?v=kZJsv5VndIc)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
 * [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
