@@ -433,6 +433,7 @@ SQL
   * StreamSets은 JDBC를 이용하여 폴링 기반의 스트림 데이터 캡처가 가능
   * 본문에서 MySQL 데이터베이스의 변경 사항을 캡처하고 HDFS/Hive/Impala로 streaming 하는 과정을 설명
 * [Delayed Replication을 이용해 유실된 데이터 빠르게 복구하기](http://tmondev.blog.me/220970798327)
+* [부하 분산을 위해 MySQL을 Master/Slave로 이중화를 구성해 본 이야기 | Recoding Life](https://jane096.github.io/project/mysql-master-slave-replication/)
 * [**MySQL을 NoSQL로 사용하기**](http://advent.perl.kr/2012/2012-12-12.html)
   * 2010년 글 memcached 400,000/sec get vs. 100,000/sec select MySQL/InnoDB
   * plugin을 통해 750,000/sec으로 성능 향상
@@ -565,7 +566,7 @@ SQL
 * [**Maxwell's daemon, an application that reads MySQL binlogs and writes row updates to Kafka, Kinesis, RabbitMQ, Google Cloud Pub/Sub, or Redis as JSON**](http://maxwells-daemon.io/)
   * 실시간에 가깝게 mysql 데이터를 가져옴. 텅스텐CDC에 비해 안정적이며, 필요한 테이블/컬럼 단위로 필터링 처리 가능
   * [MySQL CDC, Streaming Binary Logs and Asynchronous Triggers](https://www.percona.com/blog/2016/09/13/mysql-cdc-streaming-binary-logs-and-asynchronous-triggers/)
-* [Herb: Multi-DC Replication Engine for Uber’s Schemaless Datastore](https://eng.uber.com/herb-datacenter-replication/)
+* [Herb: Multi-DC Replication Engine for Uber’s Schemaless Datastore](https://eng.uber.com/herb-datacenter-ggnggnggreplication/)
   * Uber가 2014년부터 진행했던 프로젝
   * MySQL로 Schemaless를 구현한 사례, Herb라는 센터간 복제 기술로 고도화 실현
   * [Designing Schemaless, Uber Engineering’s Scalable Datastore Using MySQL](https://eng.uber.com/schemaless-part-one/)
