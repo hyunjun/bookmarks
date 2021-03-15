@@ -1008,6 +1008,7 @@ AWS
 * [providers, resource, variables, output, data](https://jybaek.tistory.com/899)
 * [Terraform + AWS 셋팅하기 Part 1. 모두싸인에서 DevOps 를 위해 Terraform 도입을 하고… | by Huy, Tae Young Kim | Modusign | Medium](https://medium.com/modusign/terraform-aws-%EC%85%8B%ED%8C%85%ED%95%98%EA%B8%B0-part-1-a3dae9f5fbbd)
 * [Terraform + AWS 셋팅하기 Part 2. Terraform 기능 중 assume_role 과 workspace… | by Huy, Tae Young Kim | Modusign | Medium](https://medium.com/modusign/terraform-aws-%EC%85%8B%ED%8C%85%ED%95%98%EA%B8%B0-part-2-7e601e880273)
+* [Testing HashiCorp Terraform](https://www.hashicorp.com/blog/testing-hashicorp-terraform)
 
 # Tutorial
 * [4분코딩 아마존 웹 서비스(Amazon Web Services)란?](https://www.youtube.com/watch?v=II5wMA5NrVM)
