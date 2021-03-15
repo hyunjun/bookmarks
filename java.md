@@ -1233,7 +1233,8 @@ Java
 * [22. Spring - Profile별로 개발환경 세팅 및 배포](https://kim-jong-hyun.tistory.com/40)
 * [스프링은 프록시 객체를 어떻게 만들까?](https://soolow-and-sooteady.tistory.com/1)
 * [Spring에서 예외처리 하기 (초보 개발자 필수 시청) - YouTube](https://www.youtube.com/watch?v=MeAt9Em02Cs)
-* Spring Native
+* [Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler](https://github.com/spring-projects-experimental/spring-native)
+  * [Announcing Spring Native Beta!](https://spring.io/blog/2021/03/11/announcing-spring-native-beta)
   * [native](https://okdevtv.com/mib/spring/native)
   * [스프링 네이티브 따라하기 #mac #aws? - YouTube](https://www.youtube.com/watch?v=cLMvvOHo3aw)
 * [thymeleaf](https://okdevtv.com/mib/spring/thymeleaf)
