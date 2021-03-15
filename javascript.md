@@ -2731,6 +2731,7 @@ Javascript
 * [❄️React UI 컴포넌트 만들기 #헤더분리 #삽질포함 - YouTube](https://www.youtube.com/watch?v=lFF_YKEHlss)
 * [❄️React State와 생명주기 #Lifecycle - YouTube](https://www.youtube.com/watch?v=Ju8M2uQBBUY)
 * [❄️원격 데이터 가져오기 #react #fetch - YouTube](https://www.youtube.com/watch?v=4BofPfwvoZY)
+* [❄️아주 짧은 코드로 원격 데이터 가져오기 #react #use-http - YouTube](https://www.youtube.com/watch?v=aBNoGQd6eAQ)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
