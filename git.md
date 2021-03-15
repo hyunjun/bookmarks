@@ -712,6 +712,7 @@ Git
   * [GitHub CLI 를 만져보자 - 2](https://jusths.tistory.com/177)
   * [GitHub 공식 CLI gh :: Outsider's Dev Story](https://blog.outsider.ne.kr/1498)
   * [bit: Bit is a modern Git CLI](https://github.com/chriswalz/bit)
+  * [Scripting with GitHub CLI - The GitHub Blog](https://github.blog/2021-03-11-scripting-with-github-cli/)
 * [GHFS - GitHub repos in your filesystem!](https://github.com/ImJasonH/ghfs)
 * [ghrequest - HTTP client for the GitHub API with cache support to get the most of your rate limit](https://github.com/issuetrackapp/ghrequest)
 * [giistr - Contribute to build the open-source world. Search, filter and help easily on the issues of the repositories you starred](https://giistr.com/) 기여할 수 있는 open source project 검색
