@@ -188,6 +188,7 @@ Android
 * [Pluu Dev - Android 호환성 유지에 대한 고찰 ~ SDK/라이브러리](http://pluu.github.io/blog/android/2021/02/27/compatibility-sdk-library/)
 * [안드로이드에서 카카오 우편번호 검색 구현하기 | Jungwoon Blog](https://jungwoon.github.io/android/2021/02/17/Implemente-DaumPostSearch.html)
 * [안드로이드 12 Preview 미리 만나보기](https://thdev.net/875)
+* [M1 맥북에서 안드로이드 에뮬레이터 사용하기](http://dalinaum.github.io/android/2021/03/15/m1-android-emulatore.html)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
