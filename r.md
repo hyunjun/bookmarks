@@ -669,6 +669,7 @@ R
   * [Tidy Animated Verbs](https://github.com/gadenbuie/tidyexplain)
   * [The tidyverse style guide](https://style.tidyverse.org/)
   * [의학연구지원 with R/shiny](https://jinseob2kim.github.io/lecture-general/tidyversekorea/#1)
+  * [tidyverse 인트로 및 데이터셋 설명 - 데이터 사이언스 기초 tidyverse 정복하기 1탄 - YouTube](https://www.youtube.com/watch?v=-P8CJnH9ZJI)
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)
   * [tidyquant with tqk](https://mrchypark.github.io/tqk_docs/tidyquant-with-tqk.html)
 * [tubeplayR - play youtube by R](https://github.com/kazutan/tubeplayR)
