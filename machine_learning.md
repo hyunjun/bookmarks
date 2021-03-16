@@ -1072,6 +1072,8 @@ Machine Learning
 * [Learning from Data - Yaser S. Abu-MostafaYaser S. Abu-Mostafa Machine Learning course - recorded at a live broadcast from Caltech](http://work.caltech.edu/telecourse.html)
 * [CS7641 at Georgia Tech / Udacity](https://www.udacity.com/course/machine-learning--ud262)
 * [CS156 at Caltech](https://www.youtube.com/playlist?list=PLvx5ei9aEEqKgDZ7oaQGSToFi-QER4v1M)
+* [CS 329S | Syllabus](https://stanford-cs329s.github.io/syllabus.html)
+  * [Stanford MLSys Seminars - YouTube](https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ)
 * [sentdex, Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
 * [Deep Learning TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
 * [Demis Hassabis, CEO, DeepMind Technologies - The Theory of Everything](https://www.youtube.com/watch?v=rbsqaJwpu6A)
