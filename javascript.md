@@ -864,6 +864,7 @@ Javascript
 * [Streamline your JavaScript code with top-level await | Opensource.com](https://opensource.com/article/20/11/top-level-await-javascript)
 * [callbaack, promise, async/awaitf를 활용한 비동기 처리 기법](https://blog.naver.com/pjt3591oo/222204144528)
 * [Async/Await :: HYE-ON](https://hye-on-astrogrammer.tistory.com/22)
+* [async/await 구문 작성 후 무야호를 외치는 방법 - DEV Community](https://dev.to/composite/async-await-2369)
 * [스크립트의 실행 시점을 조절하는 Async와 Defer 속성 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/03/01/Async-Defer-Attributes-of-Script-Tag.html)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
