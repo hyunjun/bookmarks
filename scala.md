@@ -869,6 +869,7 @@ Scala
       * [Effective testing with ZIO Test](https://scala.monster/zio-test/)
       * [Running Postgres integration tests easily with TestContainers and ZIO Test | In Absentia](https://hmemcpy.com/2020/10/running-postgres-integration-tests-easily-with-testcontainers-and-zio-test/)
     * [ZIO World](https://zioworld.com/)
+      * [ZIO World - ZIO HTTP - YouTube](https://www.youtube.com/watch?v=dVggks9_1Qk)
     * ZLayer
       * [What are the benefits of the ZIO modules with ZLayers](https://medium.com/@pascal.mengelt/what-are-the-benefits-of-the-zio-modules-with-zlayers-3bf6cc064a9b)
       * [From idea to product with ZLayer](https://scala.monster/welcome-zio/)
