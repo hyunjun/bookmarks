@@ -998,6 +998,7 @@ Programming
 * [우아콘2020 배달의민족 데이터베이스 IDC 탈출기 - YouTube](https://www.youtube.com/watch?v=kIVevqv1sEY) monolith DB 이전
 * [Best of 2020: When To Use - and Not To Use - Microservices - Container Journal](https://containerjournal.com/topics/container-ecosystems/when-to-use-and-not-to-use-microservices/)
 * [**Seven Hard-Earned Lessons Learned Migrating a Monolith to Microservices**](https://www.infoq.com/articles/lessons-learned-monolith-microservices/)
+* [MSA - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/MSA)
 * [Edgar: Solving Mysteries Faster with Observability | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
   * [Building Netflix’s Distributed Tracing Infrastructure | by Netflix Technology Blog | Oct, 2020 | Netflix TechBlog](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
 * [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
@@ -2666,6 +2667,9 @@ Programming
 * [생각을 그대로 프로그래밍하는 방법 part 2: PBT, REPL - YouTube](https://www.youtube.com/watch?v=xkRwR0sLwVA) property based testing
 * [소프트웨어 개발의 생산성, 그 어려움과 도전…](http://kwangshin.pe.kr/blog/2018/06/26/software-development-productivity-difficulties-and-challanges/)
 * Test pyramid
+* [테스트기반개발 실습 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=28278788)
+* [Unit Test - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/Unit+Test)
+* [1주차 - TDD 에 의한 문제 해결 과정 공유 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=12189733)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)

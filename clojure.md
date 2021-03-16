@@ -995,6 +995,7 @@ Clojure
 * [Poetry of Programming - YouTube](https://www.youtube.com/playlist?list=PLI-mrGTUXmHXeKhy6UGdDxIKwM8L4MTbq)
 * [**Clojure Newbie Guide**](http://www.clojurenewbieguide.com/)
 * [**Revisiting Clojure – Glenn Engstrand**](https://glennengstrand.info/blog/?p=557)
+* [1주차 스터디 - clojure 개발 환경 구축 및 기본 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=16416860)
 
 # Vim
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)

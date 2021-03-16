@@ -144,3 +144,6 @@ Google Cloud Platform GCP
 
 # Library
 * squid [GCP에서 Squid를 이용한 Proxy 서버 설정 방법](https://kibua20.tistory.com/129)
+
+# Tutorial
+* [구글 클라우드에서 데이터 처리하고 AI 적용하기 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=41582981)

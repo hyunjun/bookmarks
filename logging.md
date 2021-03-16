@@ -42,6 +42,7 @@ Logging
 * [Code Walked Out of a Spaghetti Bar… | by Nduka Anthony Okocha | Capital One Tech | Jun, 2020 | Medium](https://medium.com/capital-one-tech/code-walked-out-of-a-spaghetti-bar-2dcc1750789a)
 * [Logging Like a Pro. Theories and best practices on… | by Neal Hu | ITNEXT](https://itnext.io/logging-like-a-pro-8cc6ad09e415)
 * [쏘카에서 로그 파이프라인을 구축](https://www.linkedin.com/posts/mssqldba-joo_%EB%A1%9C%EA%B7%B8-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95-ugcPost-6772078735547097088-Ghfd/)
+* [1주차-로그관리 어떻게 할 것인가? - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=18350094)
 
 # [Fluentd](http://www.fluentd.org/)
 * [분산 로그 & 데이타 수집기 Fluentd](http://bcho.tistory.com/1115)

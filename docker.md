@@ -921,6 +921,7 @@ Docker
 * [Kubernetes Cluster API 따라하며 이해하기 :: 조은우 개발 블로그](https://jonnung.dev/kubernetes/2021/02/28/cluster-api-quickstart/)
 * [제3회 스포카콘 Kubernetes in Spoqa](https://www.slideshare.net/ssuser1ac60e/3-kubernetes-in-spoqa)
 * [Bottlerocket in Production Kubernetes Cluster | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/03/08/bottlerocket-on-kubernetes.html)
+* [Docker & Kubernetes - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=41582977)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)

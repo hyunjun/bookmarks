@@ -2036,3 +2036,4 @@ Scala
 * [Lean for Scala programmers | Typista.org](https://typista.org/lean-for-scala-programmers/)
 * [Scala Algorithms - Master your scala](https://www.scala-algorithms.com/) 유료 판매하는 알고리즘 문제 스칼라 풀이인데 무료 6개는 기초로 볼만함
 * [What I Learned From Teaching Scala to 30000 Engineers by Daniel Ciocîrlan - YouTube](https://www.youtube.com/watch?v=gcwOEX9J6Hk)
+* [Scala - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/Scala)

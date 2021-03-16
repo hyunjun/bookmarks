@@ -65,6 +65,7 @@ Android
 * [AAC를 활용한 MVVM 패턴](https://medium.com/@joongwon/android-aac%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-mvvm-%ED%8C%A8%ED%84%B4-e24a685fc25d)
 * [MVVM에 대해서 알아보겠습니다](https://developer88.tistory.com/205)
 * [AAC를 사용하여 MVVM Pattern을 구현한 안드로이드 앱 만들기](https://medium.com/hongbeomi-dev/aac%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-mvvm-pattern%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-1d6d73689bd0)
+* [안드로이드 아키텍처 with TDD - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=52528548) MVVM
 * [SingleLiveEvent와 Event 정리 - Jungwoon Blog](https://jungwoon.github.io/android/livedata/2020/11/25/SingleLiveEvent/)
 * [Android LiveData의 사용법과 내부 코드를 통한 UI 처리, 중복 처리 등 살펴보기](https://thdev.tech/android/2021/02/01/LiveData-Intro/)
 * [클린 아키텍처와 함께하는 배민앱 (Android)](http://woowabros.github.io/experience/2019/01/17/baeminapp-clean-architecture.html)

@@ -223,6 +223,8 @@ Algorithm
 * [Count min sketch](https://www.slideshare.net/charsyam2/count-min-sketch-241660239)
 * [노벨상의 매칭 알고리즘, 게일-섀플리(Gale-Shapley) 알고리즘](https://needjarvis.tistory.com/478) 1:1 match
 * [Two Pointer Algorithm | Two Sum Problem | Solve DS Problems in O(N) Time - YouTube](https://www.youtube.com/watch?v=2wVjt3yhGwg)
+* [코테 실전 대비! 자료구조와 함께 배우는 알고리즘 입문 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=52527451)
+* [Hacker Rank - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/Hacker+Rank)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)

@@ -130,6 +130,7 @@
 * [CONTROLLINO 개발환경 셋팅하기](https://blog.naver.com/badgay74/221731896509)
 * [아두이노 보드 개발 후기](https://ryulib.tistory.com/467)
 * [아두이노 전문가되기](https://brunch.co.kr/magazine/iots)
+* [IoT - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/IoT)
 * [Watchy - E-Paper Watch](https://www.tindie.com/products/sqfmi/watchy/#product-description)
   * ESP32 SoC, E-Paper 저전력 디스플레이, 아두이노 IDE로 직접 프로그래밍 가능한 오픈소스 워치키트
   * [Hack together your own e-paper smartwatch with this $50 open-source kit - The Verge](https://www.theverge.com/2021/1/13/22229985/customizable-epaper-smartwatch-kit-arduino)

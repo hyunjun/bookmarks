@@ -175,6 +175,7 @@
   * [MV-Whatever 정리 - 2. MVP](https://blog.naver.com/jukrang/221597910488)
 * [객체지향 디자인패턴 1](https://www.youtube.com/watch?v=lJES5TQTTWE)
 * [객체지향 디자인패턴 2](https://www.youtube.com/watch?v=q3_WXP9pPUQ)
+* [개발 실무 디자인 패턴 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=30771279)
 
 # Java
 * [Q1 – Q10 Java OOP interview questions & answers](https://www.java-success.com/java-oops-interview-questions-and-answers/)

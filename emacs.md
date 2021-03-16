@@ -28,6 +28,7 @@ Emacs
 * [Emacs 에서 직접 한글입력기사용 : 네이버 블로그](http://blog.naver.com/chesterroh/222022487454)
 * [15 reasons why I use emacs | Better Programming](https://medium.com/better-programming/15-reasons-why-i-use-emacs-with-gifs-5b03c6608b61)
 * [How to open a file in Emacs - Murilo Pereira](https://www.murilopereira.com/how-to-open-a-file-in-emacs/)
+* [spacemacs - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/spacemacs)
 
 # Library
 * Cask

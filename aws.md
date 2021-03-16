@@ -423,6 +423,7 @@ AWS
 * [AWS Announces New Database Service Babelfish for Aurora PostgreSQL in Preview](https://www.infoq.com/news/2020/12/aws-postgresql-aurora-babelfish/)
 * [AWS Launch Template 사용법 - YouTube](https://www.youtube.com/watch?v=ue7Rk20p_EA)
 * [AWS Cheat Sheets - Tutorials Dojo](https://tutorialsdojo.com/aws-cheat-sheets/)
+* [A.D.D - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/A.D.D) AWS Docker DeepLearning
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)

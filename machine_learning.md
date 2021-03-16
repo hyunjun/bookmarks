@@ -1168,6 +1168,7 @@ Machine Learning
 * [Gradient Descent for Machine Learning (ML) 101 with Python Tutorial | Towards AI](https://medium.com/towards-artificial-intelligence/gradient-descent-algorithm-for-machine-learning-python-tutorial-ml-9ded189ec556)
 * [best-of-ml-python: 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly](https://github.com/ml-tooling/best-of-ml-python)
 * [8 Basic Easy to Follow Steps to Learn Machine Learning with Python](https://www.mltut.com/basic-steps-to-learn-machine-learning-with-python)
+* [파이썬, ML - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=30770053)
 
 ## Python Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)

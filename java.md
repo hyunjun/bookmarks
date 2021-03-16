@@ -325,6 +325,7 @@ Java
 * [Top 10 Java Books for Programmers — All time Great](https://medium.com/swlh/top-10-java-books-for-programmers-all-time-great-82b0ee0b831a)
 * [Must-read books to learn Java programming](https://medium.freecodecamp.org/must-read-books-to-learn-java-programming-327a3768ea2f)
 * [10 Best Spring Framework Books for Java Developers | by javinpaul | Javarevisited | Feb, 2021 | Medium](https://medium.com/javarevisited/10-best-spring-framework-books-for-java-developers-360284c37036)
+* [이펙티브 자바 3/E 효과적으로 읽기 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=30771277)
 * [Seriously Good Software](https://www.manning.com/books/seriously-good-software)
   * [exercises in style — Bitbucket](https://bitbucket.org/mfaella/exercisesinstyle/src/master/)
 
@@ -743,6 +744,7 @@ Java
 * [메모리릭: gc가 쓰레기는 잘 수거하는데 무슨 문제라도 있나요](https://codingdog.tistory.com/entry/%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A6%AD-gc%EA%B0%80-%EC%93%B0%EB%A0%88%EA%B8%B0%EB%8A%94-%EC%9E%98-%EC%88%98%EA%B1%B0%ED%95%98%EB%8A%94%EB%8D%B0-%EB%AC%B4%EC%8A%A8-%EB%AC%B8%EC%A0%9C%EB%9D%BC%EB%8F%84-%EC%9E%88%EB%82%98%EC%9A%94)
 * [Why we chose Java for our High-Frequency Trading application | by Jad Sarmo | Oct, 2020 | Medium](https://medium.com/@jadsarmo/why-we-chose-java-for-our-high-frequency-trading-application-600f7c04da94) JIT
 * [A New Age of JVM Garbage Collectors - Alexander Yakushev - YouTube](https://www.youtube.com/watch?v=k4vkd0ahWjQ)
+* [Java 성능 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=30770051)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 
 ## JVM Flag, Option
@@ -1152,6 +1154,7 @@ Java
 * [13. Spring - jxls로 간편하게 엑셀업로드 구현하기](https://kim-jong-hyun.tistory.com/25)
 * [14. Spring - MessageSource로 메세지 및 다국어 관리하기](https://kim-jong-hyun.tistory.com/26)
 * [Spring Project 스프링 프로젝트 시작하기 - Spring Boot JPA](https://woolbro.tistory.com/41)
+* [JPA - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/JPA)
 * [Spring MVC 예제 - 직원 관리 프로그램](https://woolbro.tistory.com/42)
 * [Spring MVC 예제 - @RequestMapping 어노테이션 예제](https://woolbro.tistory.com/43)
 * [Spring Service Layer에 대한 고찰](https://velog.io/@sumusb/Spring-Service-Layer%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0) MVC
@@ -1234,6 +1237,8 @@ Java
 * [22. Spring - Profile별로 개발환경 세팅 및 배포](https://kim-jong-hyun.tistory.com/40)
 * [스프링은 프록시 객체를 어떻게 만들까?](https://soolow-and-sooteady.tistory.com/1)
 * [Spring에서 예외처리 하기 (초보 개발자 필수 시청) - YouTube](https://www.youtube.com/watch?v=MeAt9Em02Cs)
+* [8주차 - Spring 프레임워크 적용 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=6946858)
+* [Spring Core - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/Spring+Core)
 * [Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler](https://github.com/spring-projects-experimental/spring-native)
   * [Announcing Spring Native Beta!](https://spring.io/blog/2021/03/11/announcing-spring-native-beta)
   * [native](https://okdevtv.com/mib/spring/native)
@@ -1254,6 +1259,7 @@ Java
 * [Spring Boot와 AngualrJS를 조합한 코드 자동 생성 도구(scaffolding)](http://www.popit.kr/jhipster-scaffold-spring-boot-and-angualrjs/) JHipster
 * [Be Productive with JHipster by Julien Dubois and Deepu K Sasidharan](https://www.youtube.com/watch?v=dzdjP3CPOCs)
 * [Microservices with JAVA and JHipster in 10 minutes](https://www.linkedin.com/pulse/microservices-java-jhipster-10-minutes-lubomir-sobinovsky/)
+* [jhipster - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/jhipster)
 * 스프링 배치(스프링 Boot 기반)삽질기
   * [1탄 - Step간 데이터 공유](https://wckhg89.github.io/archivers/springbatch1)
   * [Spring Batch Meta-data Schema 커스터마이징](https://wckhg89.github.io/archivers/springbatch2)
