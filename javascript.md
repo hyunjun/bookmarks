@@ -2478,6 +2478,7 @@ Javascript
 * [About React Hook](https://medium.com/vingle-tech-blog/react-hook-ec3f25c2d8fa)
 * [리액트 훅! 코드를 따라치며 배워보자!](https://www.youtube.com/watch?v=ZRH23R2MlbY)
 * [React 컴포넌트를 커스텀 훅으로 제공하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-securities-frontend-3/)
+* [requestIdleCallback으로 초기 렌더링 시간 14% 단축하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-securities-frontend-4/)
 * [When to use React Suspense vs React Hooks](https://medium.freecodecamp.org/when-to-use-react-suspense-vs-react-hooks-f66ef94cb54f)
 * [Learn the basics of React Hooks in <10 minutes>](https://medium.freecodecamp.org/learn-the-basics-of-react-hooks-in-10-minutes-b2898287fe5d)
 * [Let’s get hooked: a quick introduction to React Hooks](https://medium.freecodecamp.org/lets-get-hooked-a-quick-introduction-to-react-hooks-9e8bc3fbaeac)
