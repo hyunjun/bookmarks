@@ -763,6 +763,7 @@ Programming
 * [Storing and retrieving millions of ad impressions per second](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/storing-and-retrieving-millions-of-ad-impressions-per-second.html)
 * [**LINE 미디어 스토리지 글로벌 배치 프로젝트를 소개합니다 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/line-mediastorage-at-scale/) cache ceph 좋은 글
 * [2020년 마이리얼트립 개발 조직의 변화와 성과 대한 회고-2편 : No.1 Travel Tech Leader를 향한 도전기 | by Lego | How we build MyRealTrip | Feb, 2021 | Medium](https://medium.com/myrealtrip-product/20%EB%85%84-%EA%B0%9C%EB%B0%9C%EC%A1%B0%EC%A7%81%EC%97%90-%EC%9E%88%EC%97%88%EB%8D%98-%EB%B3%80%ED%99%94%EC%99%80-%EC%84%B1%EA%B3%BC-%EB%8C%80%ED%95%9C-%ED%9A%8C%EA%B3%A0-2%ED%8E%B8-no-1-travel-tech-%ED%9A%8C%EC%82%AC%EB%A5%BC-%ED%96%A5%ED%95%9C-%EB%8F%84%EC%A0%84%EA%B8%B0-f6216be9fd09)
+* [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
