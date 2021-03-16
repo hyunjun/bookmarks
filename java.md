@@ -169,6 +169,7 @@ Java
   * [자바 arrayList addAll 메서드 : 어디서 오버헤드가 걸리는지 간단하게 분석해 봅시다](https://codingdog.tistory.com/entry/%EC%9E%90%EB%B0%94-arrayList-addAll-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%96%B4%EB%94%94%EC%84%9C-%EC%98%A4%EB%B2%84%ED%97%A4%EB%93%9C%EA%B0%80-%EA%B1%B8%EB%A6%AC%EB%8A%94%EC%A7%80-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EB%B6%84%EC%84%9D%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
   * [java map find key in value : 2개의 맵을 씁시다](https://codingdog.tistory.com/entry/java-map-find-key-in-value-2%EA%B0%9C%EC%9D%98-%EB%A7%B5%EC%9D%84-%EC%94%81%EC%8B%9C%EB%8B%A4)
   * [It is possible to "Just use maps" in Java! - Questions & Help / General Questions - ClojureVerse](https://clojureverse.org/t/it-is-possible-to-just-use-maps-in-java/7291)
+  * [java computeifpresent 메소드 : 이미 있는 키의 대응 값에 새 값을 적용한다.](https://codingdog.tistory.com/entry/java-computeifpresent-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%9D%B4%EB%AF%B8-%EC%9E%88%EB%8A%94-%ED%82%A4%EC%9D%98-%EB%8C%80%EC%9D%91-%EA%B0%92%EC%97%90-%EC%83%88-%EA%B0%92%EC%9D%84-%EC%A0%81%EC%9A%A9%ED%95%9C%EB%8B%A4)
 * Comparable, Comparator
   * [Java 배열 및 ArrayList를 Comparable과 Comparator를 이용해 정렬하기](http://developer88.tistory.com/75)
   * [java compareTo 메소드 : 순서가 중요한 곳에서 잘 쓰인다.](https://codingdog.tistory.com/entry/java-compareTo-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%88%9C%EC%84%9C%EA%B0%80-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B3%B3%EC%97%90%EC%84%9C-%EC%9E%98-%EC%93%B0%EC%9D%B8%EB%8B%A4)
