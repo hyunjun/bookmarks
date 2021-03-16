@@ -222,6 +222,7 @@ Algorithm
 * [Algorithms for Decision Making](https://algorithmsbook.com/)
 * [Count min sketch](https://www.slideshare.net/charsyam2/count-min-sketch-241660239)
 * [노벨상의 매칭 알고리즘, 게일-섀플리(Gale-Shapley) 알고리즘](https://needjarvis.tistory.com/478) 1:1 match
+* [Two Pointer Algorithm | Two Sum Problem | Solve DS Problems in O(N) Time - YouTube](https://www.youtube.com/watch?v=2wVjt3yhGwg)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
