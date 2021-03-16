@@ -94,6 +94,7 @@ Math
 * [BiVector.net: Geometric Algebra Resources](https://bivector.net/)
 * [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
 * [수학공부 카테고리 목록](https://lypicfa.tistory.com/559)
+* [혼돈 속의 질서 찾기: 그래프 램지이론 소개 – 과학의 지평](https://horizon.kias.re.kr/17100/)
 
 # Bezier
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
