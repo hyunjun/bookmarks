@@ -610,6 +610,7 @@ Clojure
 * [clj-template-reverse](https://github.com/sng2c/clj-template-reverse/blob/master/test/template_reverse/core_test.clj)
 * [clj-tiles: Scratch-like visual programming for Clojurescript](https://github.com/kloimhardt/clj-tiles)
 * [Clojars is a dead easy community repository for open source Clojure libraries](https://clojars.org/)
+* [clojisr: Clojure speaks statistics - a bridge between Clojure to R](https://github.com/scicloj/clojisr)
 * [clojupyter - A Jupyter kernel for Clojure. This will let you run Clojure code from the Jupyter console and notebook](https://github.com/clojupyter/clojupyter)
 * [clojure2minizinc - provides an interface between state-of-the-art constraint solvers (via MiniZinc) and a very high-level programming language with excellent abstraction capabilities, Clojure](https://github.com/tanders/clojure2minizinc)
 * [clojure-android](http://clojure-android.info/)
@@ -731,6 +732,7 @@ Clojure
 * [libpython-clj - libpython bindings into the techascent ecosystem](https://github.com/cnuernber/libpython-clj)
   * [Hugging Face GPT With Clojure](https://gigasquidsoftware.com/blog/2020/01/10/hugging-face-gpt-with-clojure/)
   * [Embedding Clojure In Python](https://clj-python.github.io/libpython-clj/embedded.html)
+  * [Extending Clojure with Python - Chris Nuernberger - YouTube](https://www.youtube.com/watch?v=vQPW16_jixs)
 * logger [Simple logger that works in bb](https://gist.github.com/borkdude/c97da85da67c7bcc5671765aef5a89ad)
 * [lokke: Lokke: Clojure for Guile](https://github.com/lokke-org/lokke)
 * [Loom - Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj http://aysy.lu/loom ](https://github.com/aysylu/loom)
@@ -992,6 +994,7 @@ Clojure
 * [question-mark 0.1.10](https://cljdoc.org/d/pbaille/question-mark/0.1.10/doc/readme)
 * [Poetry of Programming - YouTube](https://www.youtube.com/playlist?list=PLI-mrGTUXmHXeKhy6UGdDxIKwM8L4MTbq)
 * [**Clojure Newbie Guide**](http://www.clojurenewbieguide.com/)
+* [**Revisiting Clojure – Glenn Engstrand**](https://glennengstrand.info/blog/?p=557)
 
 # Vim
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
