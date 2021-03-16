@@ -934,6 +934,7 @@ Javascript
 * [크롬 개발자 도구를 이용한 자바스크립트 디버깅](https://subicura.com/2018/02/14/javascript-debugging.html)
 * [Debugging in the Browser - DEV Community](https://dev.to/bello/debugging-in-the-browser-4ece)
 * [Jison debugger](http://nolanlawson.github.io/jison-debugger/)
+* [🐞VS Code로 디버깅하기 #환경변수 - YouTube](https://www.youtube.com/watch?v=lzpot5LqjqI)
 
 # ECMAScript
 * [De Stijl: How necessary are var, let, and const?](http://raganwald.com/2015/05/30/de-stijl.html)
