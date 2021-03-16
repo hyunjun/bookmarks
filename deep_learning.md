@@ -269,7 +269,7 @@ Deep Learning
 * [ANN 구현하고 x^2 근사함수 찾기](https://github.com/dgtgrade/HumanLearning/blob/master/1001.py)
   * Universal Approximation Theorem 에 따르면 간단한 ANN으로도 가능
   * 구현된 간단한 ANN
-    * 입력 레이어: 노드 1개 
+    * 입력 레이어: 노드 1개
       * x 그대로임. 즉, feature 로서 다항식이나 비선형 함수 사용하지 않음
     * 히든 레이어: 1개, 노드: 50개
       * a = sigmoid(wx + b1)
@@ -299,7 +299,7 @@ Deep Learning
   * [Human Learning #1003 : Visual Test of Universal Approximation Theorem]((https://www.youtube.com/watch?v=SahmdQs6X74&list=PLefQdA1SdkhtRUuN_D3PdxaR2XTGQw8Ph&index=9)
   * ANN; 지난 글에서와 마찬가지 초간단 (Deep도 아닌) ANN
     * 히든 레이어 1개, 히든 노드 100개
-    * 입력 레이어: 노드 1개 
+    * 입력 레이어: 노드 1개
       * x 그대로임. 즉, feature 로서 다항식이나 비선형 함수 사용하지 않음
     * 히든 레이어: 1개, 노드: 100개
       * a = sigmoid(w1*x + b1)
@@ -309,7 +309,7 @@ Deep Learning
   * [코드](https://github.com/dgtgra…/HumanLearning/blob/master/1003.py)
     * Artificial Neural Network의 기초, Gradient Descent의 기초, Back Propagation의 기초
     * python에서 매트릭스 다루는 법: numpy
-    * python에서 그래프 그리는 법: matplotlib 
+    * python에서 그래프 그리는 법: matplotlib
     * python에서 이미지 읽는 법: skimage
     * Learning Rate 변경에 따른 학습 능력의 변화, 히든 노드수 변경에 따른 학습 능력의 변화
   * 실행환경
@@ -339,7 +339,7 @@ Deep Learning
     * 빨간색 점: 학습 결과 만들어진 근사 함수의 출력 데이터
   * [코드](https://github.com/dgtgra…/HumanLearning/blob/master/1002.py)
   * ANN; 지난 글에서와 마찬가지 초간단 (Deep도 아닌) ANN이고, 히든 노드만 100개로 변경함
-    * 입력 레이어: 노드 1개 
+    * 입력 레이어: 노드 1개
       * x 그대로임. 즉, feature 로서 다항식이나 비선형 함수 사용하지 않음
     * 히든 레이어: 1개, 노드: 100개
       * a = sigmoid(w1*x + b1)

@@ -94,7 +94,7 @@ TensorFlow
 * [basic mini encoder decoder model that translates 'hello' to 'hola'](https://gist.github.com/keon/e39d3cbfd80daff498772951fb784f35)
 * [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
 * [Conditional Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-CVAE)
-* 오토 인코더를 이용한 신용카드 비정상 거래 검출 
+* 오토 인코더를 이용한 신용카드 비정상 거래 검출
   * [#1 신용카드 거래 데이타 분석](http://bcho.tistory.com/1197)
   * [#2 MNIST 오토인코더 샘플](http://bcho.tistory.com/1198)
   * [#3 학습 데이타 전처리](http://bcho.tistory.com/1200)
@@ -127,7 +127,7 @@ TensorFlow
   * [Open Sourcing TensorFlowOnSpark: Distributed Deep Learning on Big-Data Clusters](http://yahoohadoop.tumblr.com/post/157196317141/open-sourcing-tensorflowonspark-distributed-deep)
 * [Distributing TensorFlow](http://henning.kropponline.de/2017/03/19/distributing-tensorflow/)
 * [DISTRIBUTED TENSORFLOW EXAMPLE](http://ischlag.github.io/2016/06/12/async-distributed-tensorflow/)
-* [Distributed TensorFlow Example](https://github.com/wsjeon/DistributedTensorFlowExample) distributed TensorFlow를 활용한 localhost에서의 asynchronous learning 예제 
+* [Distributed TensorFlow Example](https://github.com/wsjeon/DistributedTensorFlowExample) distributed TensorFlow를 활용한 localhost에서의 asynchronous learning 예제
 * [Distributed Tensorflow](https://clindatsci.com/blog/2017/5/31/distributed-tensorflow)
 * [Distributed TensorFlow: A Gentle Introduction](http://amid.fish/distributed-tensorflow-a-gentle-introduction)
 * [Implementation of IMPALA with Distributed Tensorflow](https://github.com/RLOpensource/IMPALA-Distributed-Tensorflow)
@@ -1026,7 +1026,7 @@ TensorFlow
   * [Tensorflow RNN을 통한 정현파 예측](http://qiita.com/yuyakato/items/ab38064ca215e8750865)
   * [Sin 데이터 예측](http://qiita.com/yukiB/items/5d5b202af86e3c587843)
 * [Time series prediction with multiple sequences input - LSTM](https://groups.google.com/forum/#!topic/keras-users/9GsDwkSdqBg) LSTM 데이터 예측에 대한 입력 처리에 대한 글
-* [LSTM NEURAL NETWORK FOR TIME SERIES PREDICTION](http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction) 주가 예측 및 정현파 예측 
+* [LSTM NEURAL NETWORK FOR TIME SERIES PREDICTION](http://www.jakob-aungiers.com/articles/a/LSTM-Neural-Network-for-Time-Series-Prediction) 주가 예측 및 정현파 예측
   * [LSTM Neural Network for Time Series Prediction](https://github.com/jaungiers/LSTM-Neural-Network-for-Time-Series-Prediction)
 * [Time Series Prediction with LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/time-series-prediction-lstm-recurrent-neural-networks-python-keras/) 국제선 승객에 관한 시계열 예측 문제
 * [TF-KR 첫모임: CNN과 Data Mutation을 이용한 Time Series Classification](https://www.youtube.com/watch?v=IiB6oElqCxA)

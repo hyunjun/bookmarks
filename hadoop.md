@@ -381,7 +381,7 @@ Hadoop
   * ref
     * [Specifying the Number of Reducers](http://hadoop.apache.org/docs/stable/hadoop-streaming/HadoopStreaming.html#Specifying_the_Number_of_Reducers) 당연히 결과는 reducer 개수만큼 출력
   * zipimport; local에서는 잘 동작하지만, streaming은 실패함
-    * [hadoop-how-to-include-third-party-library-in-python-mapreduce](http://stackoverflow.com/questions/15352981/hadoop-how-to-include-third-party-library-in-python-mapreduce) 
+    * [hadoop-how-to-include-third-party-library-in-python-mapreduce](http://stackoverflow.com/questions/15352981/hadoop-how-to-include-third-party-library-in-python-mapreduce)
     * [how-can-i-include-a-python-package-with-hadoop-streaming-job](http://stackoverflow.com/questions/6811549/how-can-i-include-a-python-package-with-hadoop-streaming-job)
     * [running-extrnal-python-lib-like-nltk-with-hadoop-streaming](http://stackoverflow.com/questions/24167933/running-extrnal-python-lib-like-nltk-with-hadoop-streaming/32135850#32135850)
   * [Using multiple mapper inputs in one streaming job on hadoop?](http://stackoverflow.com/questions/12180791/using-multiple-mapper-inputs-in-one-streaming-job-on-hadoop) -input을 원하는 개수만큼 사용

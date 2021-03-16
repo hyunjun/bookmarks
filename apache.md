@@ -385,7 +385,7 @@ Apache
 * [Kafka Summit New York](https://kafka-summit.org/kafka-summit-ny/schedule/)
 * [Kafka Summit New York 2019 Session Videos](https://www.confluent.io/blog/kafka-summit-new-york-2019-session-videos)
 * [Kafka Summit San Francisco](https://www.confluent.io/resources/kafka-summit-san-francisco-2019/)
-  * [Kafka Needs no Keeper](https://www.confluent.io/kafka-summit-san-francisco-2019/kafka-needs-no-keeper) 
+  * [Kafka Needs no Keeper](https://www.confluent.io/kafka-summit-san-francisco-2019/kafka-needs-no-keeper)
     * Kafka 2.4 들어가면서 zookeeper 가 사라지고 kafka controller broker 가 그 역할을 대신하는데, 어떻게 없앴고 어떤 변화가 있는지에 대한 세션
     * Elasticsearch 운영 경험이 있으신 분들은 kafka controller 가 es master-eligible node 와 비슷한 느낌
   * [Please Upgrade Apache Kafka. Now](https://www.confluent.io/kafka-summit-san-francisco-2019/please-upgrade-apache-kafka-now)
@@ -449,7 +449,7 @@ Apache
   * 스키마 저장소 구현; 저장소로서 Apache Kafka와 함께 작동하는 스키마 공급자 구현
   * 인 메모리 SchemaStore
     * 먼저 스키마를 위한 인 메모리 저장소 구현 가능. 이는 이러한 저장소 및 Kafa지원 저장소 캐시 요건을 이해하는 데 유용. SchemaStore는 VersionedSchema 항목 검색이 신속해야 하기 때문에, 각 검색 방법을 지원하기 위해 별도의 맵을 작성. ConcurrentHashMap을 사용하면 잠김 없이 복수의 스레드로부터 이들 맵에 접근 가능
-  * Kafka Topic에서/으로 쓰기 및 읽기 
+  * Kafka Topic에서/으로 쓰기 및 읽기
     * Kafka 기반 SchemaProvider의 나머지 반은 Kafka와 모든 커뮤니케이션을 수행할 수 있는 클래스. 이것은 스키마 컨셉에 묶일 필요가 없어 제네릭 코드로도 가능. 시작 시 모든 스키마를 읽고 새로운 스키마를 위해 계속 폴링하도록 하기 위해 다음과 같이 소비자를 설정
     * enable.auto.commit =false, 시작시 모든 스키마를 다시 읽기 때문
     * 우연히 group.id가 같은 다른 소비자와 메시지를 공유하지 않도록 모든 파티션을 해당 소비자에 수동으로 할당
@@ -497,7 +497,7 @@ Apache
 * [Apache Kafka Supports 200K Partitions Per Cluster](https://www.confluent.io/blog/apache-kafka-supports-200k-partitions-per-cluster)
   * 카프카 클러스터에서 파티션 수. 클러스터 내 브로커 한대 기준
   * 1.1.0 이전 2,000 ~ 4,000개 정도가 적절, 1.1.0 릴리즈 이후부터는 약 200,000개 까지 가능
-  * 이렇게 큰 변화가 있게 된 원인은, 주키퍼에 변경되는 업데이트를 async 처리하고, 브로커에 새로운 리더 정보 업데이트를 배치로 일괄 처리함으로써, 1.1.0 릴리즈 이전 버전보다 속도가 향상 
+  * 이렇게 큰 변화가 있게 된 원인은, 주키퍼에 변경되는 업데이트를 async 처리하고, 브로커에 새로운 리더 정보 업데이트를 배치로 일괄 처리함으로써, 1.1.0 릴리즈 이전 버전보다 속도가 향상
 * [Kafka 생태계 들여다보기](https://speakerdeck.com/dongjin/kafka-ecosystem-explained)
 * [Big Data, Fast Data @ PayPal](https://www.slideshare.net/r39132/big-data-fast-data-paypal)
   * Paypal 데이터 플랫폼 이야기. CDC(Change Data Capture)와 Kafka와 Avro를 같이 사용해야 하는 이유 등 아키텍처에 대해 설명
@@ -788,9 +788,9 @@ Apache
 * kudu-master clustering
 
   ```
-  kudu-master \ 
-    --master_addresses=172.23.30.101,172.23.30.102,172.23.30.103 \ 
-    --fs_data_dirs=/data1/kudu/master/data \ 
+  kudu-master \
+    --master_addresses=172.23.30.101,172.23.30.102,172.23.30.103 \
+    --fs_data_dirs=/data1/kudu/master/data \
     --fs_wal_dir=/data1/kudu/master/wal \
     --log_dir=/opt/log/kudu \
     --raft_get_node_instance_timeout_ms=60000

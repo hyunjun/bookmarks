@@ -28,7 +28,7 @@ Programming
 * [**lists - The definitive list of lists (of lists) curated on GitHub**](https://github.com/jnv/lists)
 * 여러가지 주요 언어를 배울 수 있는 다양한 project link
   * [🤓 Build your own (insert technology here) https://twitter.com/danistefanovic ](https://github.com/danistefanovic/build-your-own-x)
-  * [**Project Based Learning - Curated list of project-based tutorials**](https://github.com/tuvtran/project-based-learning) 
+  * [**Project Based Learning - Curated list of project-based tutorials**](https://github.com/tuvtran/project-based-learning)
   * [**Real World example apps - see how the exact same Medium.com clone (called Conduit) is built using any of our supported frontends and backends**](https://github.com/gothinkster/realworld/blob/master/README.md)
   * [Learn X by doing Y - A project-based learning search engine](https://aquadzn.github.io/learn-x-by-doing-y/)
 * [15 favorite programming tutorials and insights | Opensource.com](https://opensource.com/article/21/1/best-programming)
@@ -700,7 +700,7 @@ Programming
   * Divide and conquer가 아니라 conquer and divide를 이야기하는 부분은 일단 working solution/system을 만들고 opimization을 하라는 것과 일맥상통한다는 생각
 * [**결함 감내 시스템 (Fault-Tolerant System) 은 왜 중요한가**](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/%EC%96%B4%EB%A6%B4%EC%A0%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B2%B0%ED%95%A8-%EA%B0%90%EB%82%B4-%EC%8B%9C%EC%8A%A4%ED%85%9C-fault-tolerant-system-%EC%9D%80-%EC%99%9C-%EC%A4%91%EC%9A%94%ED%95%9C%EA%B0%80-%EA%B7%B8-%EC%9D%B4%EC%9C%A0%EC%99%80-%EB%AA%87%EA%B0%80%EC%A7%80-%ED%85%8C%ED%81%AC%EB%8B%89%EC%97%90-%EA%B4%80%ED%95%9C-%EA%B8%80/10156524746028462)
 * [**캐시 시스템에 필요한 fault tolerance 의미와 이를 제공하는 방안 | by Junhyun Park | JaM2in | Oct, 2020 | Medium**](https://medium.com/jam2in/%EC%BA%90%EC%8B%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-fault-tolerance-%EC%9D%98%EB%AF%B8%EC%99%80-%EC%9D%B4%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EC%95%88-a4e01132ac03)
-* 최신 브라우저의 내부 살펴보기 
+* 최신 브라우저의 내부 살펴보기
   * [**1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처**](https://d2.naver.com/helloworld/2922312) 매우 좋은 번역 글
   * [2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
   * [3 - 렌더러 프로세스의 내부 동작](https://d2.naver.com/helloworld/5237120)
@@ -864,8 +864,8 @@ Programming
 * [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
 * [API Management for Microservices @justinchronicle - 이모콘 EMOCON 2016 S/S](https://www.youtube.com/watch?v=DQBfa2Az69M)
 * [The Bootiful Microservice by Josh Long 한글 자막](https://www.youtube.com/watch?v=ZdpZlqumymM)
-  *  마이크로 서비스와 실행시 직면하는 문제 
-  *  스프링 부트 
+  *  마이크로 서비스와 실행시 직면하는 문제
+  *  스프링 부트
   *  스프링 클라우드; Config server, 넷플릭스 Eureka, 넷플릭스 Zuul // Ribbon, 넷플릭스 Hysterix (Circuit Breaker), 트위터 Zipkin (Distributed Tracing)
 * [롯데카드 사례 : 클라우드 컨테이너화를 통한 디지털 혁신 여정 - ITWorld Korea](http://www.itworld.co.kr/news/165085)
 * [Implementing Microservices with Scala and Akka - by Vaughn Vernon](https://www.youtube.com/watch?v=19rbbQ46LB4)
@@ -1443,7 +1443,7 @@ Programming
   * [“삼성표 오픈소스 기술, 써보셨나요?”](http://www.bloter.net/archives/242002)
   * [개발자, 회사.. 왜 오픈소스를 해야할까?](https://www.slideshare.net/MinsukLee/soscon2019/MinsukLee/soscon2019)
 * [Spoqa 기술 블로그 | 제3회 스포카콘 후기 및 발표 자료 공유](https://spoqa.github.io/2021/03/05/spoqacon-review.html)
-* Strata Data Conference 
+* Strata Data Conference
   * [Make Data Work](https://conferences.oreilly.com/strata/strata-ny/public/schedule/proceedings)
 * Tech planet
   * [Tech planet 2016 강의자료](http://readme.skplanet.com/?p=13174)
@@ -2699,7 +2699,7 @@ Programming
   * [클린 코드를 위한 테스트 주도 개발 2](https://hyesun03.github.io/2016/09/19/djangoTDD02/)
   * [클린 코드를 위한 테스트 주도 개발 3](https://hyesun03.github.io/2016/09/22/djangoTDD03/)
   * [클린 코드를 위한 테스트 주도 개발 4](https://hyesun03.github.io/2016/09/22/djangoTDD04/)
- 
+
 ## TDD, Test, BDD
 * [BDD(Behaviour-Driven Development)에 대한 간략한 정리](http://prostars.net/227)
 * [BDD와 TDD의 차이](https://blog.aliencube.org/ko/2014/04/02/differences-between-bdd-and-tdd/)
@@ -2731,7 +2731,7 @@ Programming
 * [한글 인코딩의 이해 2편: 유니코드와 Java를 이용한 한글 처리](http://d2.naver.com/helloworld/76650)
 * [전영규 유니코드 세미나 공개용](http://www.slideshare.net/jun562/ss-71045411)
 * [유니코드 한중일 잔혹사](http://j.mearie.org/post/155446739768/cjk-strangeness-in-unicode)
-* 유니코드 
+* 유니코드
   * [#1](http://www.bsidesoft.com/?p=3435)
   * [#2](http://www.bsidesoft.com/?p=3496)
   * [#3](http://www.bsidesoft.com/?p=3526)
