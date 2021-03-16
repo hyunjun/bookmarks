@@ -282,6 +282,7 @@ SQL
 * [Docker + MSSQL 개발하기](https://hyesunzzang.tistory.com/91)
 * [SQL서버 커밋할 수 없는 트랜잭션](https://hackhyun.tistory.com/288)
 * [MSSQL Server Tutorial For beginners - Techringe](https://www.techringe.com/mssql-server-tutorial-for-beginners/)
+* [SQL서버 VALUES의 다양한 용법(테이블 값 생성자) :: 전산이야기](https://hackhyun.tistory.com/295)
 
 # MySQL
 * practice
