@@ -270,7 +270,6 @@ Clojure
 * [**clojure-dsl-resources: A curated list of Clojure resources for dealing with domain-specific languages**](https://github.com/simongray/clojure-dsl-resources)
 * [Graph visualization playground with Cytoscape. | Yehonathan Sharvit](https://blog.klipse.tech/visualization/2021/02/16/graph-playground-cytoscape.html)
 * [Atabey Kaygun — Calculating Vertex Covers in Clojure](https://kaygun.tumblr.com/post/643590629046288384/calculating-vertex-covers-in-clojure)
-* [Using VS Code Calva extension to run & validate the Clojure project code. - YouTube](https://www.youtube.com/watch?v=oYqxbKufTQM)
 * [Rewrite EDN while preserving comments and formatting - YouTube](https://www.youtube.com/watch?v=bPoe2N7J5yg)
 * [Datalevin environment and runtime : Clojure](https://www.reddit.com/r/Clojure/comments/lqn01q/datalevin_environment_and_runtime/)
 * [Clojure of Things — Adam Helinski - YouTube](https://www.youtube.com/watch?v=VhjPb4HvCaY)
@@ -442,7 +441,6 @@ Clojure
   * externs가 제공이 안되는 경우 이 라이브러리를 사용
 * [cljs-test-display](https://github.com/bhauman/cljs-test-display)
 * [clojurecuda.uncomplicate.org](http://clojurecuda.uncomplicate.org/)
-* [clojureVSCode - Clojure support for Visual Studio Code](https://github.com/avli/clojureVSCode)
 * [clojerl - Clojure implemented on the Erlang VM](https://github.com/jfacorro/clojerl)
 * [cloverage - Simple clojure coverage tool. Currently requires clojure 1.4](https://github.com/lshift/cloverage)
 * [commom-pool-sample - Example for Apache Common Pool 2](https://github.com/eunmin/commom-pool-sample)
@@ -588,9 +586,6 @@ Clojure
   * [Building on Boot](http://seancorfield.github.io/blog/2016/01/30/building-on-boot/)
   * [clj-templates](https://clj-templates.com/) Find Clojure templates for Leiningen and Boot
 * [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
-* [Calva - an integrated REPL powered environment for enjoyable and productive Clojure and ClojureScript development in Visual Studio Code](https://calva.io/)
-  * [Calva: Clojure & ClojureScript support for VS Code](https://github.com/BetterThanTomorrow/calva/blob/master/README.md)
-  * [Calva: Clojure 4 VS Code](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode#overview)
 * [Carica - a flexible configuration library](https://github.com/sonian/carica)
 * [Chestnut - a Leiningen template for a Clojure/ClojureScript app based on Om](https://github.com/plexus/chestnut)
 * [Chime - a really lightweight Clojure scheduler](https://github.com/jarohen/chime)
@@ -892,6 +887,7 @@ Clojure
 * [Sending clojure data from the REPL to the clipboard | Basket's dev blog](https://basket-blog.netlify.app/pretty-print-clojure-data-to-clipboard)
 * [Reaching flow state with Clojure's REPL -- newline](https://www.newline.co/@shivekkhurana/reaching-flow-state-with-clojures-repl--14018b04)
 * [Distinction between three data related programming paradigms. | Yehonathan Sharvit](https://blog.klipse.tech/visualization/2021/02/16/data-related-paradigms.html)
+* [(λ. borkdude) 님의 트위터: "#clojure tip: You can run: (require 'foobar :reload) to just reload foobar, or: (require 'foobar :reload-all) to reload foobar + namespaces it depends on. This doesn't require any special tooling or IDEs, just a running REPL. Works in CLJS REPLs too." / 트위터](https://twitter.com/borkdude/status/1371223760020377600)
 * [Gorilla REPL](http://gorilla-repl.org/)
   * [lein-gorildown](https://github.com/ksseono/lein-gorildown)
 * [inf clojure REPL](https://github.com/boot-clj/boot/wiki/inf-clojure-REPL)
@@ -994,6 +990,8 @@ Clojure
 * [adam_james_tv - Twitch](https://www.twitch.tv/videos/924425381)
 * [Better learning with Clojure - Ostash.Dev](https://ostash.dev/posts/2021-02-20-better-learning/)
 * [question-mark 0.1.10](https://cljdoc.org/d/pbaille/question-mark/0.1.10/doc/readme)
+* [Poetry of Programming - YouTube](https://www.youtube.com/playlist?list=PLI-mrGTUXmHXeKhy6UGdDxIKwM8L4MTbq)
+* [**Clojure Newbie Guide**](http://www.clojurenewbieguide.com/)
 
 # Vim
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
@@ -1001,3 +999,11 @@ Clojure
 * [dave yarwood · Conjuring Clojure in Vim: 2020 Edition](https://blog.djy.io/conjuring-clojure-in-vim-2020-edition/)
 * [How I use Conjure and Neovim to interact with Clojure (and more!) - YouTube](https://www.youtube.com/watch?v=ZSwbiZhvMdQ)
 * [vim-iced: Clojure Interactive Development Environment for Vim8/Neovim](https://github.com/liquidz/vim-iced)
+
+# VSCode VS Code
+* [Using VS Code Calva extension to run & validate the Clojure project code. - YouTube](https://www.youtube.com/watch?v=oYqxbKufTQM)
+* [Get Started with Clojure in VS Code in 20 seconds - YouTube](https://www.youtube.com/watch?v=O6GrXXhCzCc)
+* [Calva - an integrated REPL powered environment for enjoyable and productive Clojure and ClojureScript development in Visual Studio Code](https://calva.io/)
+  * [Calva: Clojure & ClojureScript support for VS Code](https://github.com/BetterThanTomorrow/calva/blob/master/README.md)
+  * [Calva: Clojure 4 VS Code](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode#overview)
+* [clojureVSCode - Clojure support for Visual Studio Code](https://github.com/avli/clojureVSCode)
