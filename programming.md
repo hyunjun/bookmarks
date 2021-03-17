@@ -2671,6 +2671,7 @@ Programming
 * [테스트기반개발 실습 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=28278788)
 * [Unit Test - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/Unit+Test)
 * [1주차 - TDD 에 의한 문제 해결 과정 공유 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=12189733)
+* [여러분의 앱에는 카나리아가 살고 있나요? (다양한 카나리아 테스트 알아보기)](https://blog.imqa.io/app_canary_testing/) 대부분 내용은 광고
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
