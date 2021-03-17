@@ -846,7 +846,9 @@ Scala
       * [Part2: Maximise the use of Scala types (Option & Either in zio-config) - YouTube](https://www.youtube.com/watch?v=SusCbrSK5eA)
       * [Part3: Intro to ADT, and scalable configuration management! - YouTube](https://www.youtube.com/watch?v=LGo_g1GK6_k)
     * [zio-json: Fast, secure JSON library with tight ZIO integration](https://github.com/zio/zio-json/)
-    * zio-k8s [Writing kubectl plugins with ZIO K8s](https://ziverge.com/blog/zio-k8s-kubectl-plugin/)
+    * zio-k8s
+      * [Writing kubectl plugins with ZIO K8s](https://ziverge.com/blog/zio-k8s-kubectl-plugin/)
+      * [ZIO World - ZIO Kubernetes (ZIO K8S 1.0) - YouTube](https://www.youtube.com/watch?v=BUMe2hGKjXA)
     * zio-prelude [What's Ap with zio-prelude?](https://justinhj.github.io/2020/08/02/whats-ap-with-zio-prelude.html)
     * [zio-properties: A ZIO alternative to Spring Properties](https://adrianfilip.com/2020/05/03/zio-properties-a-zio-alternative-to-spring-properties/)
     * ZIO STM
