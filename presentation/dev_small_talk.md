@@ -9,3 +9,10 @@
   * 내공 외공 한쪽만으로도 최고수
     * e.g. 교수 비전공자로 성공한 사람 결국 어느 쪽이건 양쪽이 필요해짐
   * 주화입마
+* 야구
+  * 류현진
+    * 92mile fastball 피안타율 0.222
+    * 메이저리그 92mile fastball 피안타율 0.257 97mile fastball 0.225 98mile fastball 0.209
+    * 즉 류현진의 92mile = 메이저리그 97mile fastball
+    * pitch desgin을 통해 자신의 공의 위력을 상승
+    * 다만 류현진의 <90mile fastball 피안타율 0.308 구속이 느릴수록 약한 볼인 건 누구나 마찬가지. 구속을 안 타는 투수란 없음
