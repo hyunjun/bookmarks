@@ -633,6 +633,7 @@ Javascript
 * [FE Guide | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/fe-guide/ko)
   * [**신입에게 추천하는 프론트엔드 가이드 - YouTube**](https://www.youtube.com/watch?v=4DS8_ZBQ8zs)
 * [프로모션용 웹앱 빌더, 만다오 - 우아한형제들 기술 블로그](https://woowabros.github.io/woowabros/2021/03/08/mandao.html)
+* [운명의 Devs VOD 서비스의 시청시간 수집하기 - 피터 - YouTube](https://www.youtube.com/watch?v=CEBPWBtXXg8)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -1506,7 +1507,7 @@ Javascript
   * [Seomal - 서말](https://seomal.com/map/1/122)
   * [p5.js - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMCEvYJCyey1AlwT1yyBZK6c)
 * [paged.js - an open-source library to paginate content in the browser](https://www.pagedmedia.org/paged-js/)
-* Passport.js
+* [passport-github: GitHub authentication strategy for Passport and Node.js](https://github.com/jaredhanson/passport-github)
   * [Passport.js](https://opentutorials.org/course/3402)
   * [Node Passport를 이용한 Login](https://cheese10yun.github.io/Passport-part1/)
   * [Node Passport를 이용한 Login + Mysql](https://cheese10yun.github.io/passport-mysql/)
@@ -1514,6 +1515,7 @@ Javascript
   * [Learn how to handle authentication with Node using Passport.js](https://medium.freecodecamp.org/learn-how-to-handle-authentication-with-node-using-passport-js-4a56ed18e81e)
   * [Everything you need to know about the `passport-local` Passport JS Strategy](https://levelup.gitconnected.com/everything-you-need-to-know-about-the-passport-local-passport-js-strategy-633bbab6195)
   * [Everything you need to know about the `passport-jwt` Passport JS Strategy (and Angular implementation) | by Zach Gollwitzer | The Startup | Medium](https://medium.com/swlh/everything-you-need-to-know-about-the-passport-jwt-passport-js-strategy-8b69f39014b0)
+  * [🔐GitHub OAuth 로그인 #10분완성 #passport #node.js - YouTube](https://www.youtube.com/watch?v=anZqM4JnZ3o)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
 * [Peaks.js: Audio waveform rendering in the browser](http://www.bbc.co.uk/rd/blog/2013/10/audio-waveforms)
 * [perfect-arrows: A minimal tool for drawing perfect arrows between points and shapes](https://github.com/steveruizok/perfect-arrows)
