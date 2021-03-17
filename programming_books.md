@@ -533,6 +533,7 @@ Programming Books
 * (NOT YET) [딥러닝과 바둑-번역 후기 – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/deeplearningandgo/)
 * (NOT YET) [신경망 교과서 : 네이버 블로그](https://blog.naver.com/drvoss/222025379076)
 * (NOT YET) [심층 강화학습 인 액션](https://jpub.tistory.com/1098)
+  * [리뷰 심층 강화학습 인 액션 · TheoryDB](https://theorydb.github.io/review/2021/03/16/review-book-deep-reinforcement-learning-in-action/)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -850,6 +851,7 @@ Programming Books
 * (NOT YET) [게임으로 익히는 코딩 알고리즘](http://www.hanbit.co.kr/store/books/look.php?p_code=B7463314905)
 * (NOT YET) [파이썬으로 게임 만들기 그 첫 번째 이야기(입문편)](https://jpub.tistory.com/1092)
 * (NOT YET) [(번역서) 게임 엔진 블랙 북: 울펜슈타인 3D](https://jhrogue.blogspot.com/2020/10/3d.html)
+* (NOT YET) [리뷰 파이썬으로 배우는 게임 개발 입문편 · TheoryDB](https://theorydb.github.io/review/2021/03/02/review-book-python-game-low/)
 
 # Git
 
@@ -1570,6 +1572,7 @@ Programming Books
 * (NOT YET) [Do it! 쉽게 배우는 R 텍스트 마이닝](http://www.easyspub.co.kr/20_Menu/BookView/B001/425/PUB)
   * [Doit_textmining/docs at main · youngwoos/Doit_textmining](https://github.com/youngwoos/Doit_textmining/tree/main/docs)
   * [Do it! 쉽게 배우는 R 텍스트 마이닝 - 04 감정 분석: 어떤 마음으로 글을 썼을까?](https://youngwoos.github.io/Doit_textmining/04-sentimentAnalysis.html)
+  * [Do it! 쉽게 배우는 R 텍스트 마이닝 - 06 토픽 모델링: 어떤 주제로 글을 썼을까?](https://youngwoos.github.io/Doit_textmining/06/06-topicModeling.html)
 
 # Rust
 * (NOT YET) [러스트 프로그래밍 공식 가이드](https://jpub.tistory.com/980)
