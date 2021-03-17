@@ -283,6 +283,9 @@ Clojure
 * [Clojure Goodness: Pure Function Sample Buying Coffee From FP Programming In Scala Written In Clojure - Messages from mrhaki](https://blog.mrhaki.com/2021/03/clojure-goodness-pure-function-sample.html)
 * [Emanuel Goette, alias Crespo: Clojure](https://emanuelpeg.blogspot.com/search/label/Clojure) code snippet
 * [Creating Dungeon Games in Clojure; Data Functions - YouTube](https://www.youtube.com/watch?v=wsnMTfjkCMc)
+* [An example for redis publish subscribe feature with clojure...? - Questions & Help / How to? - ClojureVerse](https://clojureverse.org/t/an-example-for-redis-publish-subscribe-feature-with-clojure/7357)
+* [clojure-quotes/generated.md at master · Azel4231/clojure-quotes](https://github.com/Azel4231/clojure-quotes/blob/master/generated.md)
+* [Clojure for Java Developers](https://slides.com/jochenbedersdorfer/clojure-for-java-developers)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
