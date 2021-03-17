@@ -169,6 +169,7 @@ Web
 * [**다중 서버 환경에서 Session은 어떻게 공유하고 관리할까? - 2편(Sticky Session, Session Clustering, Session Storage 분리)**](https://hyuntaeknote.tistory.com/6)
 * [다중 서버 환경에서 Session은 어떻게 공유하고 관리할까? - 3편 (Disk based database vs In-Memory database)](https://hyuntaeknote.tistory.com/7?category=867120)
 * [다중 서버 환경에서 Session은 어떻게 공유하고 관리할까? - 4편(Redis vs Memcached)](https://hyuntaeknote.tistory.com/8)
+* [분산서버 환경에서 발생할 수 있는 Session 불일치 문제를 해결해봅시다 (1) - Sticky Session - See One](https://see-one.tistory.com/10)
 * [How to Fix ERR_CONNECTION_TIMED_OUT error](https://hackernoon.com/how-to-fix-err-connection-timed-out-error-1f1325bfaf8c)
 * [웹 접근성 관련 국내외 자료 모음. This is for everyone who is interested in A11y!](https://github.com/yonguilee/a11y_bookmarks)
 * [**Six steps to building your website from scratch**](https://medium.com/@khollobaugh/https-medium-com-khollobaugh-six-steps-to-building-your-website-from-scratch-a713288cc6d)
