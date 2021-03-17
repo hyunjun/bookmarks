@@ -286,6 +286,8 @@ Clojure
 * [An example for redis publish subscribe feature with clojure...? - Questions & Help / How to? - ClojureVerse](https://clojureverse.org/t/an-example-for-redis-publish-subscribe-feature-with-clojure/7357)
 * [clojure-quotes/generated.md at master · Azel4231/clojure-quotes](https://github.com/Azel4231/clojure-quotes/blob/master/generated.md)
 * [Clojure for Java Developers](https://slides.com/jochenbedersdorfer/clojure-for-java-developers)
+* [dictionary - How to refactor Clojure source code, especially to rename the keywords of a map collection? - Stack Overflow](https://stackoverflow.com/questions/66632450/how-to-refactor-clojure-source-code-especially-to-rename-the-keywords-of-a-map)
+* [My Clojure Port-Mortem](https://gist.github.com/wildermuthn/c783ed4f6735fa66c4e7ad34830b3977)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -429,6 +431,7 @@ Clojure
 * [Up and running with ClojureScript in 2018](https://hackernoon.com/up-and-running-with-clojurescript-in-2018-7c7a1facfe46)
 * [Taming Advanced Compilation bugs in ClojureScript projects - /dev/solita](https://dev.solita.fi/2020/06/25/taming-cljs-advanced-compilation.html)
 * [Mike Fikes explains the ClojureScript Compiler (from https://cljs.pro) - YouTube](https://www.youtube.com/watch?v=kBKIGj1_WAo)
+* [thegeez blog - Walkthrough of a spreadsheet/database-hybrid with Clojure(Script)](http://thegeez.net/2021/03/15/spreadsheet_database_clojure_aws.html)
 
 ## ClojureScript Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest ](https://github.com/funcool/cats)
@@ -612,6 +615,7 @@ Clojure
   * [A collection of Clojure refactoring functions for Emacs](https://github.com/clojure-emacs/clj-refactor.el)
 * [clj-template-reverse](https://github.com/sng2c/clj-template-reverse/blob/master/test/template_reverse/core_test.clj)
 * [clj-tiles: Scratch-like visual programming for Clojurescript](https://github.com/kloimhardt/clj-tiles)
+* [clods: A microservice and toolchain for providing UK organisational data services (ODS)](https://github.com/wardle/clods)
 * [Clojars is a dead easy community repository for open source Clojure libraries](https://clojars.org/)
 * [clojisr: Clojure speaks statistics - a bridge between Clojure to R](https://github.com/scicloj/clojisr)
 * [clojupyter - A Jupyter kernel for Clojure. This will let you run Clojure code from the Jupyter console and notebook](https://github.com/clojupyter/clojupyter)
@@ -750,6 +754,8 @@ Clojure
 * [marathon-clj - Clojure client library for Mesos Marathon](https://github.com/eunmin/marathon-clj)
 * [meander: Tools for transparent data transformation](https://github.com/noprompt/meander)
 * [medley - A lightweight library of useful Clojure functions](https://github.com/weavejester/medley)
+* [mirabelle: A stream processing engine for monitoring](https://github.com/mcorbin/mirabelle)
+  * [(mcorbin.fr): Mirabelle, a new stream processing engine for monitoring](https://mcorbin.fr/posts/2021-03-01-mirabelle-stream-processing/)
 * [mixfix-clj](https://github.com/awto/mixfix-clj) 중위 표기 이용 가능 e.g. 수식
 * [Monger - an idiomatic Clojure MongoDB driver for a more civilized age: with sane defaults, batteries included, well documented, very fast http://clojuremongodb.info](https://github.com/michaelklishin/monger)
 * [mongrove: A Clojure library designed to interact with MongoDB using the latest java-sync drivers : https://mongodb.github.io/mongo-java-driver/4.1/driver/](https://github.com/helpshift/mongrove)
