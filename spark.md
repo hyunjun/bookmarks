@@ -259,6 +259,7 @@
 * [Writing parquet on HDFS using Spark Streaming](https://community.cloudera.com/t5/Community-Articles/Writing-parquet-on-HDFS-using-Spark-Streaming/ta-p/248462)
 * [Experimenting with Neo4j and Apache Zeppelin (Neo4j)-\[:LOVES\]-(Zeppelin)](https://medium.com/apache-zeppelin-stories/experimenting-with-neo4j-and-apache-zeppelin-d80b7bec8fd2)
 * [Time-Series Missing Data Imputation In Apache Spark](http://www.jowanza.com/post/154094307399/time-series-missing-data-imputation-in-apache)
+* [Tempo: Distributed Time Series Analysis with Apache Spark™ and Delta Lake - YouTube](https://www.youtube.com/watch?v=Op8PbbRAQtw)
 * [**Data Science How-To: Using Apache Spark for Sports Analytics**](https://content.pivotal.io/blog/how-data-science-assists-sports)
   * [Using Spark To Analyze the NBA and the 3-point Shot](https://github.com/crawles/spark-nba-analytics)
 * [Hive on Spark: Getting Started](https://cwiki.apache.org/confluence/display/Hive/Hive+on+Spark%3A+Getting+Started)
