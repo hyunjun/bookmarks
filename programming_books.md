@@ -852,6 +852,7 @@ Programming Books
 * (NOT YET) [파이썬으로 게임 만들기 그 첫 번째 이야기(입문편)](https://jpub.tistory.com/1092)
 * (NOT YET) [(번역서) 게임 엔진 블랙 북: 울펜슈타인 3D](https://jhrogue.blogspot.com/2020/10/3d.html)
 * (NOT YET) [리뷰 파이썬으로 배우는 게임 개발 입문편 · TheoryDB](https://theorydb.github.io/review/2021/03/02/review-book-python-game-low/)
+* (NOT YET) [리뷰 파이썬으로 배우는 게임 개발 실전편 · TheoryDB](https://theorydb.github.io/review/2021/03/04/review-book-python-game-mid/)
 
 # Git
 
