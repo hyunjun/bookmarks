@@ -120,6 +120,7 @@ Bitcoin
 * [if(kakao)2020 코멘터리 02 : Klaytn, Caver, KAS 가 만들어가는 쉽고 빠른 BApp 개발 환경 – tech.kakao.com](https://tech.kakao.com/2020/11/11/if-kakao-2020-commentary-02-groundx/)
 * [if(kakao)2020 코멘터리 03 : Klip App2App API를 활용한 데모 앱 개발기 – tech.kakao.com](https://tech.kakao.com/2020/11/13/if-kakao-2020-commentary-03-groundx/)
 * [비트코인은 모르겠고, 블록체인이나 알아보자](https://maily.so/grabnews/posts/bdd741)
+* ["블록체인 기업으로 가는 길" 1일차 - 블록체인 일반](https://jhrogue.blogspot.com/2021/03/1.html)
 
 ## Blockchain Javascript
 * [자바스크립트로 블록체인 구현하기(입문)-1. 블록체인이란 무엇인가?](https://songseungwon.tistory.com/8)
