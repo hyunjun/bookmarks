@@ -2257,7 +2257,9 @@ Python
   * [Creating PyQt Layouts for GUI Python Applications - YouTube](https://www.youtube.com/watch?v=MY29YV9Wk7I)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
-* PySide2 [Python GUI with PyQT/PySide2. A look and guide at a popular GUI for… | by Keno Leon | The Startup | Medium](https://medium.com/swlh/python-gui-with-pyqt-pyside2-5cca38d739fa)
+* PySide
+  * [Python GUI with PyQT/PySide2. A look and guide at a popular GUI for… | by Keno Leon | The Startup | Medium](https://medium.com/swlh/python-gui-with-pyqt-pyside2-5cca38d739fa)
+  * ['파이썬-PySide6(PyQt6)' 카테고리의 글 목록](https://www.martinii.fun/category/%ED%8C%8C%EC%9D%B4%EC%8D%AC-PySide6%28PyQt6%29)
 * tkinter
   * ~[Python GUI Development with Tkinter](https://www.linkedin.com/learning/python-gui-development-with-tkinter?storeRef=voyager_feed_cymbii_learning)~
   * [**076923.github.io/posts/#Python-Tkinter**](https://076923.github.io/posts/#Python-Tkinter)
