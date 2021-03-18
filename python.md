@@ -3518,6 +3518,7 @@ Python
   * [pyinstaller-onefile.spec](https://github.com/readbeyond/aeneas/blob/master/pyinstaller-onefile.spec)
   * [pyinstaller 로 실행파일 만들기](https://ash84.net/2018/02/24/pyinstaller-usage/)
   * [If Pyinstaller makes too huge size exe file in Anaconda](https://www.youtube.com/watch?v=TwgfHWlruvM)
+  * [__file__ in Application by PyInstaller](https://velog.io/@youngkiu/file-in-Application-by-PyInstaller)
 * [PyOxidizer](https://pyoxidizer.readthedocs.io/)
 * [subpar: Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.](https://github.com/google/subpar)
 * virtualenv
