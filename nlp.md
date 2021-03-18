@@ -1103,6 +1103,8 @@ NLP
   * [KoNLPy-homi: Redesigned KoNLPy (Wrapper) for Usability and Portability with gRPC Using Homi](https://github.com/wesky93/KoNLPy-homi)
 * [korean - A library for Korean morphology](https://pythonhosted.org/korean/ko/)
   * [gist.github.com/allieus/0e8b609fe146ad63462ca81c70b2f5a2](https://gist.github.com/allieus/0e8b609fe146ad63462ca81c70b2f5a2)
+* [ko_restoration - Module for restoring Korean text working with KomornaPy](https://github.com/lynn-hong/ko_restoration)
+  * [파이썬(Python) 형태소 분석기를 활용한 한국어 원형 복원 분석기 설치 및 설정하기](https://lsjsj92.tistory.com/611)
 * [Koshort - a Python project for Korean natural language processing... or maybe Korean domestic cat](https://github.com/koshort)
   * [Goorm - A little word cloud generator in Python - Korean wrapper](https://github.com/koshort/goorm)
 * [krtpy - Korean Romanization/Hangulization utility written in python](https://github.com/danrasband/krtpy)
