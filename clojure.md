@@ -288,6 +288,7 @@ Clojure
 * [Clojure for Java Developers](https://slides.com/jochenbedersdorfer/clojure-for-java-developers)
 * [dictionary - How to refactor Clojure source code, especially to rename the keywords of a map collection? - Stack Overflow](https://stackoverflow.com/questions/66632450/how-to-refactor-clojure-source-code-especially-to-rename-the-keywords-of-a-map)
 * [My Clojure Port-Mortem](https://gist.github.com/wildermuthn/c783ed4f6735fa66c4e7ad34830b3977)
+* [First principles of Clojure with ClojureScript and React - YouTube](https://www.youtube.com/watch?v=2Sn88SIpaz8)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -504,6 +505,12 @@ Clojure
 * [Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure - YouTube](https://www.youtube.com/watch?v=wASCH_gPnDw)
 * [The Dutch Clojure Meetup - YouTube](https://www.youtube.com/c/AmscljNl/videos)
 * [A Love Letter to Clojure](https://www.infoq.com/presentations/developer-clojure/)
+* [Stratified Design: A Lisp Tradition - re:Clojure 2020 TALK - LispCast](https://lispcast.com/stratified-design-a-lisp-tradition-reclojure-2020-talk/)
+* [How To Be A REPL Sorcerer - Oliver Caldwell - re:Clojure 2020 - YouTube](https://www.youtube.com/watch?v=lR2vbwuzrIM)
+* [Clojure European Summer Time - Data Driven RAD with Malli, by Arne Brasseur - YouTube](https://www.youtube.com/watch?v=ww9yR_rbgQs)
+* [Zach Tellman - Always Be Composing - YouTube](https://www.youtube.com/watch?v=3oQTSP4FngY)
+* [Lessons Learned; the Nice and Accurate Counsel of Alex Miller, Programmer – Alex Miller - YouTube](https://www.youtube.com/watch?v=KeZNRypKVa4)
+* [On Abstraction – Zach Tellman - YouTube](https://www.youtube.com/watch?v=x9pxbnFC4aQ)
 * [제6회 - 2017.11.11 @D2 Startup Factory](https://gist.github.com/ksseono/db476b75f63d98fd0b459d2746913318)
   * [클로저 소개 - 제6회 리스프 세미나 발표](https://medium.com/happyprogrammer-in-jeju/%ED%81%B4%EB%A1%9C%EC%A0%80-%EC%86%8C%EA%B0%9C-%EC%A0%9C6%ED%9A%8C-%EB%A6%AC%EC%8A%A4%ED%94%84-%EC%84%B8%EB%AF%B8%EB%82%98-%EB%B0%9C%ED%91%9C-dc6700e0821d)
   * [Clojure/conj 2017](https://www.slideshare.net/DarrenKim9/clojureconj-2017-81991879)
@@ -528,9 +535,6 @@ Clojure
 * [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
 * [re:Clojure 2020 conference day 1 - YouTube](https://www.youtube.com/watch?v=qRI1Ved0SfE)
 * [re:Clojure 2020 conference day 2 - YouTube](https://www.youtube.com/watch?v=NqWR_ysLkW8)
-* [Stratified Design: A Lisp Tradition - re:Clojure 2020 TALK - LispCast](https://lispcast.com/stratified-design-a-lisp-tradition-reclojure-2020-talk/)
-* [How To Be A REPL Sorcerer - Oliver Caldwell - re:Clojure 2020 - YouTube](https://www.youtube.com/watch?v=lR2vbwuzrIM)
-* [Clojure European Summer Time - Data Driven RAD with Malli, by Arne Brasseur - YouTube](https://www.youtube.com/watch?v=ww9yR_rbgQs)
 
 # Debug
 * [Debugging in Clojure?](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
@@ -761,6 +765,7 @@ Clojure
 * [mongrove: A Clojure library designed to interact with MongoDB using the latest java-sync drivers : https://mongodb.github.io/mongo-java-driver/4.1/driver/](https://github.com/helpshift/mongrove)
 * [Muse](https://github.com/kachayev/muse)
   * [Solving the "N+1 Selects Problem" with Muse](https://github.com/kachayev/muse/blob/master/docs/sql.md)
+* [nasus: Zero-configuration command-line async HTTP files server in Clojure. Like Python's SimpleHTTPServer but scalable](https://github.com/kachayev/nasus)
 * [Neanderthal - Fast native-speed matrix and linear algebra in Clojure](http://neanderthal.uncomplicate.org/)
   * [Neanderthal 0.9.0 released - Clojure's high-performance computing story is getting into shape](http://dragan.rocks/articles/17/Neanderthal-090-released-Clojure-high-performance-computing)
   * [What's nice about Clojure numerical computing with new Neanderthal 0.16.0](http://dragan.rocks/articles/17/Neanderthal-016-Whats-nice-about-Clojure-numerical-computing-with-Neanderthal)
