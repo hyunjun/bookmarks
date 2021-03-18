@@ -1902,6 +1902,8 @@ Javascript
 * [process.env: What it is and why/when/how to use it effectively](https://codeburst.io/process-env-what-it-is-and-why-when-how-to-use-it-effectively-505d0b2831e7)
 * [dotenv – 환경 변수 사용하기](https://hudi.kr/node-js-dotenv-%ED%99%98%EA%B2%BD-%EB%B3%80%EC%88%98-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/)
   * [Storing credentials the right way!](https://medium.com/developer-secrets/storing-credentials-the-right-way-78074ae21727)
+  * [🔐환경변수 관리 라이브러리 #dotenv #노출피하기 #nodejs - YouTube](https://www.youtube.com/watch?v=A3TIpm0Vxvw)
+    * [dotenv](https://okdevtv.com/mib/nodejs/dotenv)
 * [pkg로 Node.js 애플리케이션의 하나의 바이너리로 만들기](https://blog.outsider.ne.kr/1379)
 * [pkg로 바이너리를 컴파일할 때 Native 애드온을 같이 사용할 때의 오류](https://blog.outsider.ne.kr/1381)
 * [Carlos Justiniano](http://cjus.me/)
