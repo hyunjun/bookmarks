@@ -453,6 +453,7 @@ Web
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
   * [Functional CSS, Tachyons - 함수형 CSS를 지향하는 프레임웍](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/tachyons)
+* [Tailwind CSS로 프로젝트에 CSS 작성 안하기 - Tailwind CSS(with React) 🌬](https://xtring-dev.tistory.com/entry/Styling-Tailwind-CSS%EB%A1%9C-%EB%B0%B1%EC%97%94%EB%93%9C%EB%8F%84-%EC%86%90%EC%89%BD%EA%B2%8C-Cool%ED%95%9C-CSS-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-tailwindcss)
 * [XP.css - A design system for building faithful recreations of old UIs](https://botoxparty.github.io/XP.css/)
 
 # Frontend
