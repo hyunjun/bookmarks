@@ -283,6 +283,7 @@ Business
 * [What is a RACI matrix? | CIO](https://www.cio.com/video/96867/what-is-a-raci-matrix)
 * [MVP와 PoC, Prototype, Pilot 차이. Agile, Lean Startup의 MVP(최소 실행가능 제품… | by 민현기(Min, Hyun-Gi) | 민현기(Min, Hyun Gi)’s Blog | Medium](https://medium.com/hgmin/poc-prototype-pilot-mvp%EB%9E%80-b659aa8304df)
 * [빅블러 시대, 이커머스로 입사해야하는 이유](https://brunch.co.kr/@windydog/436) 도메인별 사업 구조에 대한 이야기
+* [직장인 직원을 무능하게 만드는 방법 EBS.. : 네이버블로그](https://blog.naver.com/wcareer/222076597403)
 
 # 채용
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
