@@ -496,6 +496,8 @@ R
   * [Programming with data.table](https://www.r-bloggers.com/programming-with-data-table/)
   * [R data.table(데이터 테이블) – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2215)
   * [rshinymeetup17: data.table tutorial](https://github.com/kwhkim/rshinymeetup17)
+* [disk.frame: Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data](https://github.com/xiaodaigh/disk.frame/)
+  * [ZJ | Easy larger-than-RAM data manipulation with {disk.frame} | RStudio - YouTube](https://www.youtube.com/watch?v=EOjObl_GSi4)
 * [dlookr - Tools for Data Diagnosis, Exploration, Transformation](https://github.com/choonghyunryu/dlookr)
 * [‘dockr’: easy containerization for R](https://www.r-bloggers.com/dockr-easy-containerization-for-r/)
 * [dplyr 0.7.0: 유용한 기능 예제](http://blog.naver.com/hancury/221037709452)
