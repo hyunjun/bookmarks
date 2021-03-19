@@ -2191,6 +2191,8 @@ Javascript
 * [robot.js - Node.js Desktop Automation](https://github.com/octalmage/robotjs)
 * Schematics
   * [Schematics — An Introduction](https://blog.angular.io/schematics-an-introduction-dc1dfbc2a2b2)
+* [sequelize](https://okdevtv.com/mib/nodejs/sequelize)
+  * [🛢가볍게 시작하는 Node.js ORM #sequelize - YouTube](https://www.youtube.com/watch?v=lyNcUWQ9d4g)
 * [Shunter - a Node.js application built to read JSON and translate it into HTML](https://github.com/nature/shunter)
 * [smart-table-scroll - Build 1MM row tables with native scroll bars by reusing and yielding nodes](https://github.com/cmpolis/smart-table-scroll)
 * [stochator - Little utility library for random number generation](https://github.com/heydenberk/stochator#stochator)
