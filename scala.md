@@ -554,6 +554,7 @@ Scala
   * [practice - bitmap by for comprehension](https://gist.github.com/hyunjun/ccf149468a9d87857d0ce673e0127eb1#file-bitmap-md)
   * [practice - div](https://gist.github.com/hyunjun/9041c3294b6d4a8417a3a4451f1f1539#file-div-md)
   * [practice - prefer def over val for contant](https://gist.github.com/hyunjun/9041c3294b6d4a8417a3a4451f1f1539#file-prefer_def_over_val_for_contant-md)
+  * [practice - Rfc2898 crypto encryption decryption](https://gist.github.com/hyunjun/c6736ac17c51a36a6177b8eceda1576d#file-rfc2898crypto-scala)
 * [스칼라에서 리프팅(lifting) 이란?](http://hamait.tistory.com/894)
 * [Enumerations in Scala](https://www.youtube.com/watch?v=GqobszawRnQ)
 * [Scala Case Classes vs Enumeration - Wojciech Programming Blog](https://www.wlangiewicz.com/2016/03/20/scala-case-classes-vs-enumeration/)
