@@ -147,6 +147,7 @@ Clojure
 * [Clojure Macros — Lessons from unspoken symbols](https://hackernoon.com/clojure-macros-lessons-from-unspoken-symbols-c4945d8ed8bf)
 * [Clojure Macros: Creating vars from a map — Martin Klepsch](https://martinklepsch.org/posts/clojure-macro-magic-vars-from-map.html)
 * [Is it possible to redefine existing Clojure syntax with macros? : Clojure](https://www.reddit.com/r/Clojure/comments/m1y3t0/is_it_possible_to_redefine_existing_clojure/)
+* [Let's tap> with let> (a.k.a. My First Macro: taplet) - Showcase / Your Projects and Libraries - ClojureVerse](https://clojureverse.org/t/lets-tap-with-let-a-k-a-my-first-macro-taplet/7361)
 * [Macros vs. Monads](https://www.infoq.com/presentations/Macros-Monads)
 * [클로저 개발팀을 위한 지속적인 통합](http://clojure.or.kr/presentation/clojure_ci)
 * [동시성 프로그래밍 하기 좋은 Clojure](http://www.slideshare.net/eunminn/clojure-68804824)
@@ -289,6 +290,7 @@ Clojure
 * [dictionary - How to refactor Clojure source code, especially to rename the keywords of a map collection? - Stack Overflow](https://stackoverflow.com/questions/66632450/how-to-refactor-clojure-source-code-especially-to-rename-the-keywords-of-a-map)
 * [My Clojure Port-Mortem](https://gist.github.com/wildermuthn/c783ed4f6735fa66c4e7ad34830b3977)
 * [First principles of Clojure with ClojureScript and React - YouTube](https://www.youtube.com/watch?v=2Sn88SIpaz8)
+* [The concepts behind Data-Oriented programming | Yehonathan Sharvit](https://blog.klipse.tech/clojure/2021/03/15/rich-hickey-concepts.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -298,6 +300,7 @@ Clojure
 * [함수를 다른 함수의 인자로 넘겨보자](http://clojure.kr/parameter_function)
 * [Fast Function Currying in Clojure (Without Macros)](https://dragan.rocks/articles/18/Fluokitten-080-Fast-function-currying-in-Clojure)
 * [Clojure Functions in Four Ways - Rake Routes](https://www.rakeroutes.com/clojure-functions-in-four-ways)
+* [Building trees with and without zippers | Vincent Cantin’s blog](https://vincent.404.taipei/clojure/building-trees-with-and-without-zippers/)
 * clojure.spec
   * [INTRODUCING CLOJURE.SPEC](http://blog.cognitect.com/blog/2016/5/23/introducing-clojurespec)
   * [A Tool For Thought](http://swannodette.github.io/2016/06/03/tools-for-thought)
@@ -1022,6 +1025,7 @@ Clojure
 * [Using VS Code Calva extension to run & validate the Clojure project code. - YouTube](https://www.youtube.com/watch?v=oYqxbKufTQM)
 * [Get Started with Clojure in VS Code in 20 seconds - YouTube](https://www.youtube.com/watch?v=O6GrXXhCzCc)
 * [Calva - an integrated REPL powered environment for enjoyable and productive Clojure and ClojureScript development in Visual Studio Code](https://calva.io/)
+  * [Calva and the VIM Extension - Calva User Guide](https://calva.io/vim/)
   * [Calva: Clojure & ClojureScript support for VS Code](https://github.com/BetterThanTomorrow/calva/blob/master/README.md)
   * [Calva: Clojure 4 VS Code](https://marketplace.visualstudio.com/items?itemName=cospaia.clojure4vscode#overview)
 * [clojureVSCode - Clojure support for Visual Studio Code](https://github.com/avli/clojureVSCode)
