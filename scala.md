@@ -1577,6 +1577,7 @@ Scala
 * [What are monoids and how to use them - Scala tutorial](https://www.youtube.com/watch?v=ppzvmI6azaw)
 * [Homegrown #Scala Collections - Part 35.1 - Monoids and Basic Group Theory](https://www.youtube.com/watch?v=bT9qRjRuwCc)
 * [So you want to compose some functions](https://www.innoq.com/en/blog/function-monoids/)
+* [Semigroups and Monoids in Scala - YouTube](https://www.youtube.com/watch?v=LmBTiFYa-V4)
 * [scalablitz](http://knight76.tistory.com/entry/scala-scalablitz)
   * [Lightning-Fast Standard Collections With ScalaBlitz](https://scala-blitz.github.io/talks/scaladays2014-final.pdf)
 
