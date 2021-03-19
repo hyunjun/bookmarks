@@ -308,6 +308,7 @@ NLP
 * [tta: Transformer-based Text Auto-encoder (T-TA) using TensorFlow 2](https://github.com/jeongukjae/tta)
 * [Transformers Explained Visually (Part 1): Overview of Functionality | by Ketan Doshi | Towards Data Science](https://towardsdatascience.com/transformers-explained-visually-part-1-overview-of-functionality-95a6dd460452)
 * [Transformers Explained Visually (Part 2): How it works, step-by-step | by Ketan Doshi | Towards Data Science](https://towardsdatascience.com/transformers-explained-visually-part-2-how-it-works-step-by-step-b49fa4a64f34)
+* [Transformer in CV. The increasing convergence of computer… | by Cheng He | Towards Data Science](https://towardsdatascience.com/transformer-in-cv-bbdb58bf335e)
 * [Position Encoding의 종류와 분석. by 박승원 (http://swpark.me/) | by Team Deepest | Feb, 2021 | Medium](https://blog-deepest.medium.com/position-encoding%EC%9D%98-%EC%A2%85%EB%A5%98%EC%99%80-%EB%B6%84%EC%84%9D-ab1816b0f62a)
 * [10 Exciting Ideas of 2018 in NLP](https://databreak.netlify.com/2019-03-28-Exciting_Ideas_NLP_2018/)
 * [Talk Powerpoint Generator](https://korymath.github.io/talk-generator/)
