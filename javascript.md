@@ -889,6 +889,7 @@ Javascript
   * [Promise, 가만히 냅두면 어떻게 될까?](https://imch.dev/posts/what-happens-if-do-nothing-with-promise)
   * [JavaScript Visualized: Promises & Async/Await | by Lydia Hallie | Medium](https://medium.com/@lydiahallie/javascript-visualized-promises-async-await-a3f1aad8a943)
   * [Google JavaScript Technical Interview (Callback , Promise , Await / Async)](https://medium.com/javascript-in-plain-english/google-javascript-technical-interview-question-callback-promise-await-async-74b8dda2e331)
+  * [자바스크립트의 비동기 처리 패턴 - 콜백(callback), 프로미스(promise)](https://devkingdom.tistory.com/218)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
