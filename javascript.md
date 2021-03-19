@@ -1689,6 +1689,7 @@ Javascript
 * [React vs. Angular: The 2020 Edition | by Michael Krasnov | Better Programming | Jun, 2020 | Medium](https://medium.com/better-programming/react-vs-angular-the-2020-edition-1e558f280cb8)
 * [I created the exact same app in React and Vue. Here are the differences](https://sunilsandhu.com/posts/i-created-the-exact-same-app-in-react-and-vue-2020-edition)
 * [I created the exact same app in React and Vue. Here are the differences. 2020 Edition | by Sunil Sandhu | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/i-created-the-exact-same-app-in-react-and-vue-here-are-the-differences-2020-edition-36657f5aafdc)
+* [리액트(React.js)와 뷰(Vue.js)의 차이점](https://brunch.co.kr/@skykamja24/573)
 * [2020년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 1](https://d2.naver.com/helloworld/7226235) React, Angular
 * [2020년과 이후 JavaScript의 동향 - 라이브러리와 프레임워크 2](https://d2.naver.com/helloworld/6951656) Vue.js, Svelte, and Stimulus
 
