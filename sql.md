@@ -327,6 +327,7 @@ SQL
   * [LOAD_FILE() function](https://www.w3resource.com/mysql/string-functions/mysql-load_file-function.php)
   * RANK
     * [sql rank over 함수 알면 손쉽게 랭킹을 매길 수 있다](https://codingdog.tistory.com/entry/sql-rank-over-%ED%95%A8%EC%88%98-%EC%95%8C%EB%A9%B4-%EC%86%90%EC%89%BD%EA%B2%8C-%EB%9E%AD%ED%82%B9%EC%9D%84-%EB%A7%A4%EA%B8%B8-%EC%88%98-%EC%9E%88%EB%8B%A4)
+  * [replace into & insert into 차이점, 주의할점이 무엇인지 쉽고 간단하게 확인하기](https://stricky.tistory.com/456)
   * SELECT
     * [`SELECT p.FirstName, p.LastName, a.City, a.State FROM Person p LEFT JOIN Address a ON p.PersonId = a.PersonId`](https://leetcode.com/problems/combine-two-tables/solution/)
     * [`SELECT a.Name AS Employee FROM Employee AS a JOIN Employee AS b ON a.ManagerId = b.Id AND a.Salary > b.Salary`](https://leetcode.com/problems/employees-earning-more-than-their-managers/solution/)
