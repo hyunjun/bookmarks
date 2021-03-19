@@ -123,6 +123,7 @@ Azure
 * [All Around Azure: A Developer's Guide to IoT (EMEA) - YouTube](https://www.youtube.com/watch?v=242fsVDxXIc)
 * [유튜브 비디오 업로드시 애저 이벤트그리드를 통해 다양한 소셜 미디어로 확산시키기 | Aliencube](https://blog.aliencube.org/ko/2021/01/27/websub-to-eventgrid-via-cloudevents-and-beyond/)
 * [Cloud Data Engineering - Easy , Lucrative & Sustainable | LinkedIn](https://www.linkedin.com/pulse/cloud-data-engineering-easy-lucrative-sustainable-deepak-rajak/)
+* [애저듣보잡 자동화된 ML, 나도 해보자! - 한석진 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WksTnqh1hl0iygROuE7N7Qwf)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
