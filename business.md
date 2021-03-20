@@ -361,6 +361,7 @@ Business
 * [Five important lessons from four years as a software developer](https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226)
 * [여기, 문제가 있다.](https://brunch.co.kr/@hyungsukkim/124) 나도 어렸을 때라면 동의했겠지만 지금은 이렇게 생각하지 않음
 * [나는 블루홀에서 무엇을 배웠나 | 딥백수](https://dl4ab.github.io/2020/09/17/lesson-learned-at-bluehole/) 의도의 중요성 + 피드백
+* [내 의견이 맞는데 다른 분들이 몰라준다](https://brunch.co.kr/@cleancode/42)
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
@@ -573,6 +574,7 @@ Business
 * [**Dependency가 많은 프로젝트의 스케줄 관리 방법**](https://brunch.co.kr/@dan-mingookim/15) critical path
 * [PM이 ‘기술 부채’ 감소에 기여하는 방법](https://brunch.co.kr/@yongjinjinipln/87)
 * [이슈 트리(Issue Tree)를 그려야 하는 이유](https://brunch.co.kr/@lunarshore/406)
+* [**PM이 새로운 팀에 처음 한달동안 해야할 일**](https://brunch.co.kr/@yongjinjinipln/92)
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
