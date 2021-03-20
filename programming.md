@@ -2324,6 +2324,7 @@ Programming
     * [(03/06) 빌어먹을 HTTP - YouTube](https://www.youtube.com/watch?v=s16TySh52lg)
   * [(3월 13일) 스프링 네이티브 베타 출시 소식](https://jhrogue.blogspot.com/2021/03/3-13.html) 스프링 네이티브 베타 출시 소식, Programmers Recruiting·Survey 2021, 마이크로소프트에서 금지한 C 함수들, git clone 보안 문제
     * [(03/13) 스프링 네이티브 베타 출시 소식 - YouTube](https://www.youtube.com/watch?v=kZJsv5VndIc)
+  * [(03/20) 시니어 엔지니어들이 코딩 인터뷰를 싫어하는 이유 - YouTube](https://www.youtube.com/watch?v=4MZsf171RKk) 시니어 엔지니어들이 코딩 인터뷰를 싫어하는 이유, 라떼 자바 개발자들을 위한 팁, AWS S3에 저장된 객체 수는?
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
 * [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
@@ -2517,6 +2518,7 @@ Programming
     * 이를 해결하기 위해 gPRC 메시지를 CloudFlare 내부에서만 trailer 헤더 없이 HTTP/1.1 메시지로 변환하는 방법인 gRPC-web을 이용하고 이를 다시 HTTP/2로 변환하고 오리진에서 HTTP/2를 지원할 수 있도록 별도의 오리진 프락시를 구성했다고 함
 * [RSocket - a next-generation, reactive, layer 5 application communication protocol for building today's modern cloud-native and microservice applications](https://www.netifi.com/rsocket)
   * [Building a High-Performance Networking Protocol for Microservices](https://www.youtube.com/watch?v=WaQZCit5-O4)
+  * [Getting Started With RSocket: Spring Boot Server](https://spring.io/blog/2020/03/02/getting-started-with-rsocket-spring-boot-server)
 
 # Safe, Secret
 * [blackbox - Safely store secrets in Git/Mercurial/Subversion](https://github.com/StackExchange/blackbox)
