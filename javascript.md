@@ -2633,6 +2633,7 @@ Javascript
 * [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 1. 리소스 로딩](https://medium.com/myrealtrip-product/fe-website-perf-part1-6ae5b10e3433)
 * [마이리얼트립 웹사이트 성능 측정 및 최적화 Part 2. 렌더링](https://medium.com/myrealtrip-product/fe-website-perf-part2-e0c7462ef822)
 * [When to useMemo and useCallback](https://ideveloper2.dev/blog/2019-06-14--when-to-use-memo-and-use-callback)
+* [react 최적화 기법 - memo, useCallback, useMemo](https://blog.naver.com/pjt3591oo/222281569378)
 * [The State of React - Jared Palmer (@jaredpalmer) at @ReactEurope 2019](https://www.notion.so/The-State-of-React-Jared-Palmer-jaredpalmer-at-ReactEurope-2019-532abd86b3f8435887ac3b9d4d25a339)
 * [Create-React-App으로 SSR을 구현하며 배운 점 (feat. TypeScript)](https://www.slideshare.net/LanarkSeung/createreactapp-ssr-feat-typescript)
 * [React + Typescript + SSR + Code-splitting 환경설정하기](https://medium.com/@minoo/react-typescript-ssr-code-splitting-환경설정하기-d8cec9567871)
