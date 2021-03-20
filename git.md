@@ -227,6 +227,8 @@ Git
 * [GitHub Actions와 Fastlane을 사용해서 React Native 앱 배포하기 - GitHub Actions와 Fastlane을 사용해서 React Native로 개발한 앱을 자동으로 배포해 봅시다.](https://dev-yakuza.posstree.com/ko/react-native/github-actions-fastlane/)
 * [리서치 코드의 지속적 통합(CI) 튜토리얼(상편). By 송호연 | by Riiid Techblog | Feb, 2021 | Medium](https://riiidtechblog.medium.com/%EB%A6%AC%EC%84%9C%EC%B9%98-%EC%BD%94%EB%93%9C%EC%9D%98-%EC%A7%80%EC%86%8D%EC%A0%81-%ED%86%B5%ED%95%A9-ci-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-%EC%83%81%ED%8E%B8-aae5fabea681)
 * [GitHub Actions를 활용한 ECS 배포자동화. Deployment Automation (Django + Docker… | by Woosik Kim | Feb, 2021 | Medium](https://well-balanced.medium.com/github-action%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-ecs-%EB%B0%B0%ED%8F%AC%EC%9E%90%EB%8F%99%ED%99%94-dd359c259910)
+* [GitHub으로 시작하는 CI/CD #github #actions - YouTube](https://www.youtube.com/watch?v=Np64aq4AlLg)
+  * [actions](https://okdevtv.com/mib/github/actions)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
