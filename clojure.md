@@ -291,6 +291,9 @@ Clojure
 * [My Clojure Port-Mortem](https://gist.github.com/wildermuthn/c783ed4f6735fa66c4e7ad34830b3977)
 * [First principles of Clojure with ClojureScript and React - YouTube](https://www.youtube.com/watch?v=2Sn88SIpaz8)
 * [The concepts behind Data-Oriented programming | Yehonathan Sharvit](https://blog.klipse.tech/clojure/2021/03/15/rich-hickey-concepts.html)
+* [clojure-vulnerability-check-action: A simple GitHub Actions to scan for vulnerable dependencies](https://github.com/nnichols/clojure-vulnerability-check-action)
+* [Agile & Coding: Wake up, sleepy lambda](https://davidvujic.blogspot.com/2021/03/wake-up-sleepy-lambda.html?m=1)
+* [Clojure Vs. Java Comparison Guide in 2021 - Visualmodo](https://visualmodo.com/clojure-vs-java-comparison-guide-in-2021/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
