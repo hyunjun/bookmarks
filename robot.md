@@ -1,19 +1,12 @@
 Robot
 =====
 * [그를 빼고 ‘로봇공학’을 논하지 말라](http://www.bloter.net/archives/224824)
-* [ROS 로봇 프로그래밍](http://book.daum.net/detail/book.do?bookid=KOR9791195149278) 한라 004.73표66ㄹ
-  * [oroca.org](http://oroca.org/)
-  * [github.com/oroca](https://github.com/oroca)
-  * [robot.or.kr](http://robot.or.kr/)
-  * [ROS Courses (한국어)](https://www.youtube.com/playlist?list=PLRG6WP3c31_VIFtFAxSke2NG_DumVZPgw)
-  * [github.com/robotpilot/ros-seminar](https://github.com/robotpilot/ros-seminar)
 * [turtlebot3](http://emanual.robotis.com/docs/en/platform/turtlebot3/overview/)
   * [Turtlebot3](https://github.com/ROBOTIS-GIT/turtlebot3)
 * [OpenCR 1.0](http://emanual.robotis.com/docs/en/parts/controller/opencr10/)
   * [OpenCR](https://github.com/ROBOTIS-GIT/OpenCR)
 * [openmanipulator](http://emanual.robotis.com/docs/en/platform/openmanipulator/)
   * [OpenManipulator](https://github.com/ROBOTIS-GIT/open_manipulator)
-* [ros_tutorials](https://github.com/ROBOTIS-GIT/ros_tutorials)
 * [도롱뇽 닮은 로봇](http://techholic.co.kr/archives/30293)
 * [12g짜리 헤라클레스 로봇](http://techholic.co.kr/archives/32962)
 * [3D프린터로 만든 초소형 오픈소스 로봇](http://techholic.co.kr/archives/32551)
@@ -37,7 +30,6 @@ Robot
 * [Exploring the Hacker Tools of Mr Robot](https://hackertarget.com/hacker-tools-mr-robot//)
 * [PLEN Playground](http://plen.jp/playground/)
 * [Roberta – Learning with Robots](http://www.open-roberta.org/en/welcome/)
-* [ROSCon2015 총정리](http://cafe.naver.com/openrt/12384)
 * [일자리 정책, 무인화 대책은 안 보이네](http://www.bloter.net/archives/240824)
 * [Robot, Learning From Data](http://www.slideshare.net/samchoi7/robot-learning-from-data)
 * [www.robot-learning.org](http://www.robot-learning.org/)
@@ -46,7 +38,6 @@ Robot
 * [All the Robotic Process Automation (RPA) Stats You Need to Know](https://towardsdatascience.com/all-the-robotic-process-automation-rpa-stats-you-need-to-know-bcec22eaaad9)
 * [ROBOCON 2019 - China Robocon Champion - It's so admirable](https://www.youtube.com/watch?v=WmizhHexQHY)
 * [3D 프린터 로봇 제어를 위한 텐서플로](http://blog.daum.net/kimgyunghyun/2529)
-* ['SpotMicro_w_Jetson_Nano_wo_ROS' 태그의 글 목록](https://gcamp.tistory.com/tag/SpotMicro_w_Jetson_Nano_wo_ROS)
 * [강의 자료 - SpotMicro for G Camp](https://www.notion.so/SpotMicro-for-G-Camp-c541934a4bad4ad48d1e37ab94c10de8)
 * [Getting started in Robotics | Arthur Allshire](https://allshire.org/getting-started-robotics/)
 
@@ -68,3 +59,15 @@ Robot
 * [PyRobot - An Open Source Robotics Research Platform](https://www.pyrobot.org)
   * [PyRobot - An Open Source Robotics Research Platform](https://github.com/facebookresearch/pyrobot)
   * [Open-sourcing PyRobot to accelerate AI robotics research](https://ai.facebook.com/blog/open-sourcing-pyrobot-to-accelerate-ai-robotics-research/)
+
+# ROS
+* [ROS 로봇 프로그래밍](http://book.daum.net/detail/book.do?bookid=KOR9791195149278) 한라 004.73표66ㄹ
+  * [oroca.org](http://oroca.org/)
+  * [github.com/oroca](https://github.com/oroca)
+  * [robot.or.kr](http://robot.or.kr/)
+  * [ROS Courses (한국어)](https://www.youtube.com/playlist?list=PLRG6WP3c31_VIFtFAxSke2NG_DumVZPgw)
+  * [github.com/robotpilot/ros-seminar](https://github.com/robotpilot/ros-seminar)
+* [ros_tutorials](https://github.com/ROBOTIS-GIT/ros_tutorials)
+* [ROSCon2015 총정리](http://cafe.naver.com/openrt/12384)
+* ['SpotMicro_w_Jetson_Nano_wo_ROS' 태그의 글 목록](https://gcamp.tistory.com/tag/SpotMicro_w_Jetson_Nano_wo_ROS)
+* ['ROS1' 태그의 글 목록](https://gcamp.tistory.com/tag/ROS1)
