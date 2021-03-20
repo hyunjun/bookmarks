@@ -205,6 +205,10 @@ Json
 * [request-validator 1.5.0 - Python request validator](https://pypi.python.org/pypi/request-validator/1.5.0)
 * [validictory - A general purpose Python data validator](https://github.com/jamesturk/validictory)
 
+# Scala
+* [json2caseclass , #scala case class generator](https://json2caseclass.cleverapps.io/)
+  * [Are you still creating JSON #Scala case classes by hand? - YouTube](https://www.youtube.com/watch?v=zz3q6BB-AX4)
+
 # Swift
 * [When JSONDecoder meets the real world, things get ugly…](http://davelyon.net/2017/08/16/jsondecoder-in-the-real-world)
 
