@@ -205,6 +205,7 @@ Scala
 * [The Unison Language and its Scala-based Runtime—Paul Chiusano](https://www.youtube.com/watch?v=knqlWboqf_U)
   * [An intro to the Unison language and compilation via partial evaluation](http://slides.com/pchiusano/unison-scala-world-2017)
 * [Fast Immutable Interval Sets—Rüdiger Klaehn](https://www.youtube.com/watch?v=Lb07lshL4cw)
+* [Programming with Functions #5 - Immutability - YouTube](https://www.youtube.com/watch?v=E8JB99wis7A)
 * [Is your Scala object always a singleton?](https://blog.softwaremill.com/is-your-scala-object-always-a-singleton-cb3fd24a2fd9)
 * [Singleton Object in Scala](https://medium.com/@senthil.nayagan/singleton-object-in-scala-63fa8366bdfc)
 * [Maintaining Binary Compatibility in Scala](https://medium.com/zendesk-engineering/maintaining-binary-compatibility-in-scala-6e07157aac23)
@@ -293,7 +294,10 @@ Scala
 * [GraphQL Overview—Part 2—Libraries | by Piotr Jasiak | SoftwareMill Tech Blog](https://blog.softwaremill.com/graphql-overview-part-2-libraries-7d6e1e24035d)
 * [Mutability in Scala - Rock the JVM Blog](https://blog.rockthejvm.com/mutability-in-scala/)
   * [Mutability in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=js3xtPNlMgo)
-* [Many happy early returns – Making the matrix](https://makingthematrix-wordpress-com.cdn.ampproject.org/c/s/makingthematrix.wordpress.com/2021/03/09/many-happy-early-returns/amp/)
+* [Many happy early returns – Making the matrix](https://makingthematrix.wordpress.com/2021/03/09/many-happy-early-returns/)
+* [Scala on Android – Making the matrix](https://makingthematrix.wordpress.com/2021/03/17/scala-on-android/)
+* [JDK 16's Top 5 for Scala](https://www.scalawilliam.com/jdk16-scala-top5/)
+* [THE most important programming concept explained in 35 seconds. - YouTube](https://www.youtube.com/watch?v=7_cqmqPGLhM)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -829,7 +833,7 @@ Scala
     * [An Introduction to ZIO Kafka](https://ziverge.com/blog/introduction-to-zio-kafka/)
     * [Apache Kafka and ZIO. This article will explain why you want… | by Aleksandra Holubitska | Sep, 2020 | Medium](https://medium.com/@oleksandra_a/apache-kafka-and-zio-af418b4c54f0)
     * [How To Implement Streaming Microservices Using ZIO and Kafka](https://scalac.io/streaming-microservices-with-zio-and-kafka/)
-    * [An Introduction to Functional Design – John A De Goes](https://degoes.net/articles/functional-design)
+    * [Using ZIO Kafka with offset storage in Postgres for transactional processing | by Marek Kadek | Mar, 2021 | Medium](https://kadek-marek.medium.com/using-zio-kafka-with-offset-storage-in-postgres-for-transactional-processing-91042e81c095)
     * [Using Aspects To Transform Your Code With ZIO Environment - YouTube](https://www.youtube.com/watch?v=gcqWdNwNEPg)
     * [How to Use Thread.sleep Without Blocking on the JVM](https://www.freecodecamp.org/news/non-blocking-thread-sleep-on-jvm/) thread.sleep, project loom, ScheduledExecutorService, zio.sleep
     * [Scale By The Bay 2020: Leo Benkel, Enhancing Spark's Power with ZIO - YouTube](https://www.youtube.com/watch?v=OW0ggALNtSE)
@@ -879,6 +883,7 @@ Scala
       * [Zio ZLayer with playframework](https://medium.com/@aadelegue/zio-zlayer-with-playframework-8e393574bea7)
       * [ZLayers by example - YouTube](https://www.youtube.com/watch?v=u5IrfkAo6nk)
       * [Structuring Services with ZIO and ZLayer - YouTube](https://www.youtube.com/watch?v=PaogLRrYo64)
+      * [zio quick read: Extracting the executor for a service](https://appddeevvmeanderings.blogspot.com/2021/02/zio-quick-read-extracting-executor-for.html)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * sort
   * [The complexity of Java comparators, and the simplicity of Scala sort by](https://levelup.gitconnected.com/the-complexity-of-java-comparators-and-the-simplicity-of-scala-sort-by-f34f44d4b759)
@@ -1531,6 +1536,7 @@ Scala
 * [What's the Point of Applicative?](http://www.doscienceto.it/blog/posts/2020-03-24-applicative.html)
 * [What's Ap?](http://justinhj.github.io/2020/04/04/whats-ap.html)
 * [Scala의 모나드(Monad)에 대한 정리](https://wingnim.tistory.com/106)
+* [What is a #Monad? In 60 seconds! - YouTube](https://www.youtube.com/watch?v=I2iaaKU1mDg)
 
 ## Monad Tagless Final
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
@@ -1707,6 +1713,7 @@ Scala
 * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=3HS1v4A5MaE&t=500s)
 * [What's new in Scala 3: Implicits! - YouTube](https://www.youtube.com/watch?v=TdwkzNq2gY0)
 * [The future of Scaladoc. Scala 3, like all modern languages… | by Krzysztof Romanowski | VirtusLab | Mar, 2021 | Medium](https://medium.com/virtuslab/the-future-of-scaladoc-8bf78a4e2988)
+* [Pick any Card: Write Better Data Structures with Scala | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=mn5ZEuo8C80)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
@@ -1752,6 +1759,7 @@ Scala
 * [dotty+scala.js+async: interesting options](https://appddeevvmeanderings.blogspot.com/2020/10/dottyscalajsasync-interesting-options.html)
 * [ScalablyTyped - The Javascript ecosystem for Scala.js!](https://github.com/oyvindberg/ScalablyTyped)
 * [Scala.js + Snowpack + Scalablytyped tutorial - YouTube](https://www.youtube.com/watch?v=EiGGfH5hMMA)
+* [The importance of Scala.js](https://www.scalawilliam.com/importance-scalajs/)
 
 # TDD, Test
 * [Testing without mocking in Scala](http://engineering.monsanto.com/2015/07/28/avoiding-mocks/)
@@ -2041,3 +2049,4 @@ Scala
 * [Scala Algorithms - Master your scala](https://www.scala-algorithms.com/) 유료 판매하는 알고리즘 문제 스칼라 풀이인데 무료 6개는 기초로 볼만함
 * [What I Learned From Teaching Scala to 30000 Engineers by Daniel Ciocîrlan - YouTube](https://www.youtube.com/watch?v=gcwOEX9J6Hk)
 * [Scala - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/Scala)
+* [N-Queens in Scala: Approaching an Interview Problem With Pure Functional Programming - YouTube](https://www.youtube.com/watch?v=_O7mETYRDhY)
