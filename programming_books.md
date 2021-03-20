@@ -1200,6 +1200,7 @@ Programming Books
 * (NOT YET) [12가지 실무 프로젝트로 배우는 리눅스 관리의 기술 모던 리눅스 관리](https://www.gilbut.co.kr/book/view?bookcode=BN002552)
 * (NOT YET) [번역서 "BPF로 리눅스 관측 가능성 향상하기" 나왔습니다](http://occamsrazr.net/tt/363)
 * (NOT YET) [칼리 리눅스로 파헤치는 도커 해킹](https://bjpublic.tistory.com/362)
+* (NOT YET) [kkamagui의 작업실 :: 서평 프리-오픈소스 소프트웨어 혁명의 역사](https://kkamagui.tistory.com/939)
 
 ## Shell script, bash
 * 유닉스 리눅스 셸 스크립트 예제 사전
