@@ -1494,6 +1494,9 @@ Programming
 * [Waypoint by HashiCorp](https://www.waypointproject.io/)
   * [Announcing HashiCorp Waypoint](https://www.hashicorp.com/blog/announcing-waypoint)
   * [HashiCorp의 Waypoint 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1520)
+  * [HashiCorp Waypoint로 Kubernetes 클러스터에 배포하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1538)
+  * [HashiCorp의 Waypoint의 커스텀 플러그인 작성하기 #1 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1539)
+  * [HashiCorp의 Waypoint의 커스텀 플러그인 작성하기 #2 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1540)
 
 # Course MOOC Lecture
 * [외국대학 MOOC 영상과 대본 다운로드 받아 정리하는 방법 - 김형률 - YouTube](https://www.youtube.com/watch?v=kkfSgZAUdOA)
