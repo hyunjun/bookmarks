@@ -669,6 +669,7 @@ Programming Books
 * (NOT YET) [미술관에 GAN 딥러닝 실전 프로젝트 GAN으로 쓰기, 그리기, 게임하기, 작곡하기](http://www.hanbit.co.kr/store/books/look.php?p_code=B9882286651)
   * [책 Generative Deep Learning - 미술관에 GAN 딥러닝 실전 프로젝트](https://jybaek.tistory.com/852)
 * (NOT YET) [실전! GAN 프로젝트 - 텐서플로와 케라스를 이용한 차세대 생성적 적대 신경망 모델 구축](https://wikibook.co.kr/practical-gan/)
+* (NOT YET) [리뷰 GAN 첫걸음 · TheoryDB](https://theorydb.github.io/review/2021/03/20/review-book-first-gan/)
 
 ## Tensorflow
 * 텐서플로 첫걸음
@@ -876,6 +877,7 @@ Programming Books
 * (NOT YET) [Do it! 지옥에서 온 문서 관리자 깃&깃허브 입문](http://www.easyspub.co.kr/20_Menu/BookView/A001/342/PUB)
   * [opentutorials.org/module/3733](https://opentutorials.org/module/3733)
 * (NOT YET) [팀 개발을 위한 Git・GitHub 시작하기](https://jybaek.tistory.com/874)
+* (NOT YET) [Git TextBook | 깃 개념 잡기](https://git.jiny.dev/text/concept/)
 
 # Go
 
