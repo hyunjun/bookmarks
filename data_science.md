@@ -329,6 +329,7 @@ Data Science
   * [2021년 5가지 데이터 트렌드 | GeekNews](https://news.hada.io/topic?id=3677)
 * [9 Distance Measures in Data Science | Towards Data Science](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa)
 * [The Future of Data Engineering](https://www.infoq.com/articles/future-data-engineering-riccomini/)
+* [🗃개발에 필요한 데이터 구하기 #fetch - YouTube](https://www.youtube.com/watch?v=qgbxTPMlWIw)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
