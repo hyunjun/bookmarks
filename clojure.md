@@ -10,6 +10,7 @@ Clojure
 * [www.4clojure.com](http://www.4clojure.com/)
   * [Fibonacci Sequence – 4Clojure #26](http://seonho.kim/2017/03/12/4clojure-fibonacci-sequence/)
   * [seonho.kim/tag/4clojure](http://seonho.kim/tag/4clojure/)
+  * [What I learned solving all 156 4Clojure problems · Aaron Announces](https://aarondeobell.com/posts/clojure/4clojure-solved/)
 * [Clojure - DEV Community](https://dev.to/t/clojure)
 * [Building a community for sustainability-oriented Clojure work - Community Center / Community Building - ClojureVerse](https://clojureverse.org/t/building-a-community-for-sustainability-oriented-clojure-work/7159)
 * [clojure for the brave and true](http://www.braveclojure.com/)
@@ -30,6 +31,7 @@ Clojure
 * [What are your favorite Clojure/script youtube channels? : Clojure](https://www.reddit.com/r/Clojure/comments/m1frv9/what_are_your_favorite_clojurescript_youtube/)
 * [(defn podcast [themes] (conj themes 'Clojure 'ClojureScript))](https://defn.audio/)
 * [ClojureScript Podcast](https://clojurescriptpodcast.com/)
+* [The future of Clojure | ThoughtWorks](https://www.thoughtworks.com/podcasts/future-clojure)
 * [Jacek Schae](https://www.jacekschae.com/)
 * [Clojure Memo](http://philoskim.github.io/doc/)
 * [ClojureDocs is a community-powered documentation and examples repository for the Clojure programming language](https://clojuredocs.org/)
@@ -294,14 +296,17 @@ Clojure
 * [clojure-vulnerability-check-action: A simple GitHub Actions to scan for vulnerable dependencies](https://github.com/nnichols/clojure-vulnerability-check-action)
 * [Agile & Coding: Wake up, sleepy lambda](https://davidvujic.blogspot.com/2021/03/wake-up-sleepy-lambda.html?m=1)
 * [Clojure Vs. Java Comparison Guide in 2021 - Visualmodo](https://visualmodo.com/clojure-vs-java-comparison-guide-in-2021/)
+* [Datahike in ClojureScript with IndexedDB support](https://lambdaforge.io/2021/03/03/datahike-clojurescript.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
 * [20 cool Clojure functions](http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/)
 * [Intro to Higher Order Functions](http://comp-phil.blogspot.kr/2015/05/intro-to-higher-order-functions.html)
+* [Clojure higher-order functions explained: fnil | Daw-Ran Liou](https://dawranliou.com/blog/clojure-higher-order-functions-explained-fnil/)
 * [Functions Explained Through Patterns - Joseph Wilk](http://blog.josephwilk.net/clojure/functions-explained-through-patterns.html)
 * [함수를 다른 함수의 인자로 넘겨보자](http://clojure.kr/parameter_function)
 * [Fast Function Currying in Clojure (Without Macros)](https://dragan.rocks/articles/18/Fluokitten-080-Fast-function-currying-in-Clojure)
+* [Chris Houser / Jonathan Claggett - Illuminated Macros - YouTube](https://www.youtube.com/watch?v=o75g9ZRoLaw)
 * [Clojure Functions in Four Ways - Rake Routes](https://www.rakeroutes.com/clojure-functions-in-four-ways)
 * [Building trees with and without zippers | Vincent Cantin’s blog](https://vincent.404.taipei/clojure/building-trees-with-and-without-zippers/)
 * clojure.spec
@@ -439,6 +444,7 @@ Clojure
 * [Taming Advanced Compilation bugs in ClojureScript projects - /dev/solita](https://dev.solita.fi/2020/06/25/taming-cljs-advanced-compilation.html)
 * [Mike Fikes explains the ClojureScript Compiler (from https://cljs.pro) - YouTube](https://www.youtube.com/watch?v=kBKIGj1_WAo)
 * [thegeez blog - Walkthrough of a spreadsheet/database-hybrid with Clojure(Script)](http://thegeez.net/2021/03/15/spreadsheet_database_clojure_aws.html)
+* [WTF is CLOJURESCRIPT?! - YouTube](https://www.youtube.com/watch?app=desktop&v=ZMB-M_XDotE)
 
 ## ClojureScript Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest ](https://github.com/funcool/cats)
@@ -783,6 +789,7 @@ Clojure
 * [Onyx - Distributed, masterless, high performance, fault tolerant data processing for Clojure](https://github.com/onyx-platform/onyx)
   * [Onyx 0.8.0: Automatic State Management](http://michaeldrogalis.github.io/jekyll/update/2015/11/12/Onyx-0.8.0-Automatic-State-Management.html)
 * [overload-fn: Function overloading on type for Clojure](https://github.com/ertugrulcetin/overload-fn)
+* [oz: Data visualizations in Clojure and ClojureScript using Vega and Vega-lite](https://github.com/metasoarous/oz)
 * [Parens of the Dead - A screencast series of zombie-themed games written with Clojure and ClojureScript](http://www.parens-of-the-dead.com/)
 * [Parinfer - Let's simplify the way we write Lisp](http://shaunlebron.github.io/parinfer/index.html)
 * [Parinfer for CodeMirror](https://github.com/shaunlebron/parinfer-codemirror)
@@ -982,6 +989,7 @@ Clojure
 * [Clojure Programming Study Project](https://github.com/lisp-korea/ClojureProgramming)
 * [Clojure - Improving Development Startup Time](https://clojure.org/guides/dev_startup_time)
 * [Clojure - Threading Macros Guide](https://clojure.org/guides/threading_macros)
+* [Clojure - Java Interop](https://clojure.org/reference/java_interop#_the_dot_special_form)
 * [Full Stack Clojure Contact Book - YouTube](https://www.youtube.com/playlist?list=PLBeQxJQNprbgkmvbv80xC8R0SHcPsosjZ)
 * [Why Developers Should Look into Clojure](https://auth0-com.cdn.ampproject.org/c/s/auth0.com/blog/amp/why-developers-should-look-into-clojure/)
 * [coding dojo - maze solving](https://gist.github.com/mmzsource/e8c383f69244ebefde058004fee72a8a)
@@ -1016,6 +1024,7 @@ Clojure
 * [**Clojure Newbie Guide**](http://www.clojurenewbieguide.com/)
 * [**Revisiting Clojure – Glenn Engstrand**](https://glennengstrand.info/blog/?p=557)
 * [1주차 스터디 - clojure 개발 환경 구축 및 기본 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=16416860)
+* [Function Showcase: Interning Vars with Metadata Data in Clojure - YouTube](https://www.youtube.com/watch?v=jky8cKa-wbM)
 
 # Vim
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
