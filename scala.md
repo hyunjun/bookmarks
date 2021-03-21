@@ -298,6 +298,7 @@ Scala
 * [Scala on Android – Making the matrix](https://makingthematrix.wordpress.com/2021/03/17/scala-on-android/)
 * [JDK 16's Top 5 for Scala](https://www.scalawilliam.com/jdk16-scala-top5/)
 * [THE most important programming concept explained in 35 seconds. - YouTube](https://www.youtube.com/watch?v=7_cqmqPGLhM)
+* [Extreme Cleverness: Functional Data Structures in Scala - Daniel Spiewak - YouTube](https://www.youtube.com/watch?v=pNhBQJN44YQ)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
