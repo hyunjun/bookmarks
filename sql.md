@@ -502,6 +502,7 @@ SQL
 * [**MySQL을 이용한 분산락으로 여러 서버에 걸친 동시성 관리**](http://woowabros.github.io/experience/2019/05/30/mysql-user-level-lock.html)
 * [**Lock으로 이해하는 Transaction의 Isolation Level**](https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock)
 * [Transaction의 Isolation Level - 트랜잭션 격리수준](https://blog.naver.com/pjt3591oo/221754164462)
+* [프로그래밍 초식 : DB 트랜잭션 조금 이해하기 1, 2 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%B4%88%EC%8B%9D-DB-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%A1%B0%EA%B8%88-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1-2)
 * [DB를 이용한 분산 락 구현(MariaDB, MySQL)](https://javacan.tistory.com/entry/distributed-lock-using-db)
 * [꿀벌개발일지 :: lock=none, algorithm=inplace 으로 테이블 변경하기](https://ohgyun.com/800)
 * [MySQL 데이터베이스 한번에 끝내기 SQL Full Tutorial Course using MySQL Database](https://www.youtube.com/watch?v=vgIc4ctNFbc)
