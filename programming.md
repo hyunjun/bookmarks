@@ -640,6 +640,7 @@ Programming
 * [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 * [38 Actions and Insights to Become a Better Software Architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
 * [The Path to Becoming a Software Architect](https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a)
+* [아키텍트에게 기대하는 8가지 - YouTube](https://www.youtube.com/watch?v=FbWHw6GBCrU) 아키텍처 결정, 지속적인 아키텍처 분석, 최신 트렌드 유지, 결정 사항 준수 확인, 다양한 경험, 도메인 지식, 대인 관계 기술, 정치
 * [OpenFog Architecture Overview](http://uni2u.tistory.com/94)
 * Cache & CDN
   * [A beginner’s guide to Cache synchronization strategies](https://vladmihalcea.com/2015/04/20/a-beginners-guide-to-cache-synchronization-strategies/)
