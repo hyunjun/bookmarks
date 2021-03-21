@@ -233,6 +233,7 @@ Java
   * [java deepequals 메서드 정말 깊게 비교한다](https://codingdog.tistory.com/entry/java-deepequals-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%A0%95%EB%A7%90-%EA%B9%8A%EA%B2%8C-%EB%B9%84%EA%B5%90%ED%95%9C%EB%8B%A4)
   * equals
     * [자바 == 연산자 vs equals()](https://brunch.co.kr/@mystoryg/132)
+    * [java 다른 객체를 참조하는데 ==이 참인 경우가 있을까요?](https://codingdog.tistory.com/entry/java-%EB%8B%A4%EB%A5%B8-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EC%B0%B8%EC%A1%B0%ED%95%98%EB%8A%94%EB%8D%B0-%EC%9D%B4-%EC%B0%B8%EC%9D%B8-%EA%B2%BD%EC%9A%B0%EA%B0%80-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)
   * hashCode
     * [자바의 hashCode()](https://brunch.co.kr/@mystoryg/133)
 * Random
