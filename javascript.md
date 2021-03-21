@@ -1696,6 +1696,7 @@ Javascript
 
 ## Library Build
 * [Publish, ship, and install modern JavaScript for faster applications](https://web.dev/publish-modern-javascript/)
+* [자바스크립트 패키지 매니저의 여정 | Clean Coder](https://www.cleancoder.dev/package-manager-history/) npm yarn pnpm yarn 2(berry)
 * [Brunch - ultra-fast HTML5 build tool](https://brunch.io/)
 * [Lerna · A tool for managing JavaScript projects with multiple packages](https://lerna.js.org/)
   * [FE개발자의 성장 스토리 03 : 카카오 어드민 UI 컴포넌트를 모노레포로 개발하여 얻은 것들 – tech.kakao.com](https://tech.kakao.com/2020/12/03/frontend-growth-03/)
@@ -2722,6 +2723,7 @@ Javascript
 * [How to use React to Create a Weather App using RESTful APIs](https://morioh.com/p/914124c58a89)
 * [Stop Using React - DEV](https://dev.to/ender_minyard/why-you-should-stop-using-react-g7c)
 * [Introducing the New JSX Transform – React Blog](https://reactjs.org/blog/2020/09/22/introducing-the-new-jsx-transform.html)
+* [리액트와 바벨과 JSX의 관계](https://brunch.co.kr/@skykamja24/576)
 * [react 리액트와 socket.io를 활용한 랜덤강화게임(+ 채팅)](https://blog.naver.com/pjt3591oo/222106661530)
 * [How You Should Structure Your React Applications | by Thomas Guibert | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/how-you-should-structure-your-react-applications-e7dd32375a98)
 * [React — How To Proxy To Backend Server | by Bhargav Bachina | Bachina Labs | Medium](https://medium.com/bb-tutorials-and-thoughts/react-how-to-proxy-to-backend-server-5588a9e0347)
