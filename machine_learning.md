@@ -928,6 +928,7 @@ Machine Learning
 * [캐글 넷플릭스(netflix) 데이터를 이용한 데이터 분석 실습 (1)](https://stricky.tistory.com/451)
 * [캐글 넷플릭스(netflix) 데이터를 이용한 데이터 분석 실습 (2)](https://stricky.tistory.com/453)
 * [캐글 데이터 시각화 넷플릭스(netflix) 데이터를 이용한 데이터 분석 실습 (3)](https://stricky.tistory.com/454)
+* [영상 캐글 4그랜드마스터 데이콘 초청 한글 Abhishek Webinar2 Q/A - DACON](https://dacon.io/forum/402777)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
