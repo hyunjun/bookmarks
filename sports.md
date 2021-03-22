@@ -114,6 +114,7 @@ Sports
 * [그래서, 그 공이 마지막에 어떻게 됐다는 건데?](http://www.yagongso.com/?p=8339)
 * [나는 네가 다음 시즌에 잡을 삼진 개수를 알고 있다](http://www.yagongso.com/?p=9317) decision tree, random forest,...
 * [와인드업, 꼭 해야 할까?](http://www.yagongso.com/?p=9711) 고정관념에서 벗어나야 한다는 걸 다시 한 번 생각하게 하는 글
+* [토론토의 데이터 야구! 무엇이 달라졌을까 | 이승용 - YouTube](https://www.youtube.com/watch?v=oHmfE0cnsUU) Darren Willman: 야구선수 + 컴퓨터공학 스탯캐스트, 베이스볼서번트
 
 # Basketball
 * [**Basketball Terms- Terminology**](https://www.coachesclipboard.net/BasketballTerminology.html) diagram으로 court위 명칭 설명
