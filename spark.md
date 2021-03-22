@@ -875,6 +875,7 @@
 * [How to Manage Python Dependencies in Spark - The Databricks Blog](https://databricks.com/blog/2020/12/22/how-to-manage-python-dependencies-in-pyspark.html)
 * [데이터 분석 라이브러리 개발기 (1)](https://tech.devsisters.com/posts/devplay-analytics-library/)
 * [데이터 분석 라이브러리 개발기 (2) - 통합 테스팅과 문서화를 동시에 잡는 방법](https://tech.devsisters.com/posts/testing-devplay-analytics-library/)
+* [04b: Databricks – Spark SCD Type 2 with Merge | Java-Success.com](https://www.java-success.com/04b-databricks-spark-scd-type-2-with-merge/)
 * [Koalas: pandas API on Apache Spark](https://github.com/databricks/koalas)
   * [Koalas: Easy Transition from pandas to Apache Spark](https://databricks.com/blog/2019/04/24/koalas-easy-transition-from-pandas-to-apache-spark.html)
   * [10 Minutes from pandas to Koalas on Apache Spark With demonstrable Python how-to Koalas code snippets and Koalas best practices](https://databricks.com/blog/2020/03/31/10-minutes-from-pandas-to-koalas-on-apache-spark.html)
