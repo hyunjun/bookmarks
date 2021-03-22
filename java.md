@@ -568,10 +568,12 @@ Java
 * [These are the best free courses to help you learn Java 8 and Java 9](https://medium.freecodecamp.org/these-are-the-best-free-courses-to-help-you-learn-java-8-and-java-9-a7615c8644ab)
 * [How to Migrate to Java 9? It’s Easy if You Do It Smart](https://www.romexsoft.com/blog/migrate-to-java-9/)
 * [Java 9 - Javadoc Improvement - Java2Blog](https://java2blog.com/java-9-javadoc-improvement/)
+* [3주차 - Java 9 마무리 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=52529056)
 
 # Java10
 * [인포큐 - 자바 10 지역 변수 타입 추론](https://www.youtube.com/watch?v=iL-hr64hts4)
 * [You can finally declare Inferred Type local variables in Java with var — here’s why that’s awesome](https://medium.freecodecamp.org/you-can-finally-declare-local-variables-in-java-with-var-heres-why-that-s-awesome-4418cb7e2da3)
+* [New Features in Java 10 | Baeldung](https://www.baeldung.com/java-10-overview)
 
 # Java11
 * installation on centos 7
@@ -1452,6 +1454,7 @@ Java
 * [Java Streams vs Reactive Streams: Which, When, How, and Why? by Venkat Subramaniam](https://www.youtube.com/watch?v=kG2SEcl1aMM)
 * [**배달의민족 최전방 시스템! '가게노출 시스템'을 소개합니다**](https://woowabros.github.io/experience/2020/02/19/introduce-shop-display.html) Spring WebFlux, 설계, 테스트, 모니터링
 * [Reactive Streams](http://www.reactive-streams.org/)
+* [2주차 - 리액티브 스트림 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=52528887)
 * [Reactor - a foundational library for building reactive fast-data applications on the JVM](http://projectreactor.io/)
 * [Vert.x is a tool-kit for building reactive applications on the JVM](http://vertx.io/)
   * [vert.x - 최신 웹과 기업을 위한 매우 쉬운 비동기식 어플리케이션 개발](http://vertx-kor.otofu.me/)
