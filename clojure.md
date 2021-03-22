@@ -19,6 +19,7 @@ Clojure
 * [Awesome Clojure](https://github.com/razum2um/awesome-clojure)
 * [**Awesome list of clojure resources**](https://clojure.zeef.com/vlad.bokov)
 * [AwesomeClojure](https://github.com/mbuczko/awesome-clojure)
+* [awesome-clojure: Clojure를 사용하는 국내 회사](https://github.com/clojure-korea/awesome-clojure)
 * [Clojure releases vs. Clojure book publication dates](https://www.reddit.com/r/Clojure/comments/3q9jaw/clojure_releases_vs_clojure_book_publication_dates/)
 * [Clojure Programming Ch11 - Numerics and Mathematics](https://www.youtube.com/watch?v=kgPHDQNJrpg)
 * [Clojure Programming Ch12: Design Pattern](https://www.youtube.com/watch?v=i8baRF7Hdrs)
@@ -297,6 +298,8 @@ Clojure
 * [Agile & Coding: Wake up, sleepy lambda](https://davidvujic.blogspot.com/2021/03/wake-up-sleepy-lambda.html?m=1)
 * [Clojure Vs. Java Comparison Guide in 2021 - Visualmodo](https://visualmodo.com/clojure-vs-java-comparison-guide-in-2021/)
 * [Datahike in ClojureScript with IndexedDB support](https://lambdaforge.io/2021/03/03/datahike-clojurescript.html)
+* [Functional Polymorphism using Clojure’s Multimethods | by Ilan Uzan | Mar, 2021 | Medium](https://ilanuzan.medium.com/functional-polymorphism-using-clojures-multimethods-825c6f3666e6)
+* [The Lisp Curse](http://winestockwebdesign.com/Essays/Lisp_Curse.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -765,6 +768,7 @@ Clojure
   * [Luminus project 만들기](http://clojure.kr/for-newbie-leiningen-web-proj1)
   * [luminus-chunked-response](https://github.com/eunmin/luminus-chunked-response)
 * [malli - Plain data Schemas for Clojure/Script](https://github.com/metosin/malli)
+  * [Readme — metosin/malli 0.3.1](https://cljdoc.org/d/metosin/malli)
   * [Spec vs Malli : Clojure](https://www.reddit.com/r/Clojure/comments/lpv8ok/spec_vs_malli/)
 * [mamulengo - Lightweight database based on datascript with durable store and time travel for Clojure(Script)](https://github.com/wandersoncferreira/mamulengo)
 * [marathon-clj - Clojure client library for Mesos Marathon](https://github.com/eunmin/marathon-clj)
