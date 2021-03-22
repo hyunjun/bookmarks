@@ -2643,6 +2643,7 @@ Javascript
 * [**이제 React.js 를 버릴 때가 왔다**](https://seokjun.kim/time-to-stop-react/)
 * [리액트 꽃길만 걷기](https://drive.google.com/file/d/18MJDVzre8DYnEx9OITrYZOC_cVUeaSdV)
 * [React Clean Architecture](https://github.com/eduardomoroni/react-clean-architecture/blob/master/README.md)
+* [번역 React Clean Code를 위한 팁](https://one-it.tistory.com/entry/%EB%B2%88%EC%97%AD-React-Clean-Code%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%8C%81)
 * [react flicking](https://github.com/naver/egjs-flicking/blob/master/packages/react-flicking/README.md)
 * [5 Ways to animate a React app in 2019](https://hackernoon.com/5-ways-to-animate-a-reactjs-app-in-2019-56eb9af6e3bf)
 * [React에서 styled-components 사용하기](https://dev-yakuza.github.io/ko/react/styled-components/)
