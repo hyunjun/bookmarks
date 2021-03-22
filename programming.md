@@ -1002,6 +1002,7 @@ Programming
 * [Best of 2020: When To Use - and Not To Use - Microservices - Container Journal](https://containerjournal.com/topics/container-ecosystems/when-to-use-and-not-to-use-microservices/)
 * [**Seven Hard-Earned Lessons Learned Migrating a Monolith to Microservices**](https://www.infoq.com/articles/lessons-learned-monolith-microservices/)
 * [MSA - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/MSA)
+* Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Edgar: Solving Mysteries Faster with Observability | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
   * [Building Netflix’s Distributed Tracing Infrastructure | by Netflix Technology Blog | Oct, 2020 | Netflix TechBlog](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
 * [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
