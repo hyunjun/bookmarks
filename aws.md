@@ -837,6 +837,8 @@ AWS
   * [Serverless with IAC - terraform과 cloudformation 비교](https://www.slideshare.net/wesky93/serverless-with-iac-terraform-cloudformation)
   * [Deploy AWS CloudFormation stacks with GitHub Actions | AWS Open Source Blog](https://aws.amazon.com/ko/blogs/opensource/deploy-aws-cloudformation-stacks-with-github-actions/)
   * [CloudFormation을 이용해서 IaC 입문해보기 | Developers.IO](https://dev.classmethod.jp/articles/introduction-of-iac-using-cloudformation/)
+* [consoleme: A Central Control Plane for AWS Permissions and Access](https://github.com/Netflix/consoleme)
+  * [ConsoleMe: A Central Control Plane for AWS Permissions and Access | Netflix Tech Blog | Netflix TechBlog](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8)
 * [cortex - Deploy machine learning models in production https://cortex.dev ](https://github.com/cortexlabs/cortex/tree/v0.9.0)
   * "Run inference at scale"
     * TensorFlow, PyTorch, Sklearn 을 비롯한 여러 모델 지원
