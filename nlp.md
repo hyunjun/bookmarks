@@ -446,6 +446,7 @@ NLP
 * [딥러닝으로 동네생활 게시글 필터링하기. BERT를 사용해서 동네 생활 게시글 필터링 모델을 개발한 과정을… | by matthew l | 당근마켓 팀블로그 | Medium](https://medium.com/daangn/%EB%94%A5%EB%9F%AC%EB%8B%9D%EC%9C%BC%EB%A1%9C-%EB%8F%99%EB%84%A4%EC%83%9D%ED%99%9C-%EA%B2%8C%EC%8B%9C%EA%B8%80-%ED%95%84%ED%84%B0%EB%A7%81%ED%95%98%EA%B8%B0-263cfe4bc58d)
 * [Using BERT to Battle Job Scams. The BERT model has many practical… | by Sadrach Pierre, Ph.D. | Towards Data Science](https://towardsdatascience.com/using-bert-to-battle-job-scams-d98e6a0ca1e1)
 * [Pydata Berlin Meetup October 2020: Long Story Short: - YouTube](https://www.youtube.com/watch?v=LfdbCfKGKco)
+* [파이썬 문장 유사도 알고리즘 쉽게 확인하는 방법은?!](https://www.infoking.site/52)
 * [ALBERT Review](https://baekyeongmin.github.io/paper-review/albert-review/)
   * [ALBERT:언어 표현의 자율지도 학습](https://brunch.co.kr/@synabreu/32)
 * [Bart : Denoising Sequence-to-Sequence Pre-training for Natural Langua…](https://www2.slideshare.net/taeseonryu/bart-denoising-sequencetosequence-pretraining-for-natural-language-generation-translation-and-comprehension)
