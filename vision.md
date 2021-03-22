@@ -586,6 +586,7 @@ Vision
 * [OpenCV & Python. Getting started with Computer Vision… | by Keno Leon | Medium](https://medium.com/@k3no/opencv-python-8ea1d2fd46b9)
 * [Image Processing Best Practices in C++ for coding interviews. Write functions similar to ones in OpenCV with full explanation. | Medium](https://soubhihadri.medium.com/image-processing-best-practices-c-280caadacb82)
 * [Image Processing Best Practices — C++ Part 2 | by Soubhi Hadri | Nov, 2020 | Medium](https://soubhihadri.medium.com/image-processing-best-practices-c-part-2-c0988b2d3e0c)
+* [OpenCV Tutorial Part - 1 | OpenCV With Python | OpenCV Python Tutorial For Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=IIhI9XELGlo)
 * [box-visualizer: Make drawing and labeling bounding boxes easy as cake](https://github.com/shoumikchow/bbox-visualizer)
 * [genetic-drawing: A genetic algorithm toy project for drawing](https://github.com/anopara/genetic-drawing)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
