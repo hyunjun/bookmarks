@@ -194,6 +194,7 @@ Linux
 * [How to install Simple Screen Record "Peek" on Rhel8](https://naleejang.tistory.com/220)
 * [CentOS가 Ubuntu 보다 더 안정적인 이유](https://rainofpainki.github.io/ubuntu_vs_centos/) 별로 설득력 있는 견해라고 생각이 들진 않지만 참고용으로 기록
 * [환경구성 CentOS Vmware 실습 환경 설정 - 1](https://developer-ankiwoong.tistory.com/1031)
+* [Quay - YouTube](https://www.youtube.com/playlist?list=PLrvNoNIHON5bd6aqjpSJeYPMeI9ODv05U)
 * service
 
   ```
@@ -684,6 +685,7 @@ Linux
   * [우분투에서 sudo 명령어 없이 docker 사용하기](https://www.huskyhoochu.com/october-i-learned/)
   * [5 new sudo features you need to know in 2020 | Opensource.com](https://opensource.com/article/20/10/sudo-19)
   * [Difference between “sudo” and “su” command in Linux, UNIX, or Mac OS | by Bryant Jimin Son | Feb, 2021 | Medium](https://bryantson.medium.com/difference-between-sudo-and-su-command-in-linux-unix-or-mac-os-5cd22a7480f8)
+  * [Difference between "sudo" and "su" command in Linux - YouTube](https://www.youtube.com/watch?v=wLK9Y3T5sDI)
 * [systemd](http://www.freedesktop.org/wiki/Software/systemd/) redhat 6.3에서는 `configure`가 안 됨
   * [How to install, manage, start and autostart ssh service on RHEL 7 Linux](https://linuxconfig.org/how-to-install-manage-start-and-autostart-ssh-service-on-rhel-7-start)
   * [서버 프로세스를 관리하는 올바른 방법](http://www.codeok.net/%EC%84%9C%EB%B2%84%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC%20%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94%20%EC%98%AC%EB%B0%94%EB%A5%B8%20%EB%B0%A9%EB%B2%95)
