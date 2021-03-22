@@ -2328,7 +2328,8 @@ Programming
     * [(03/06) 빌어먹을 HTTP - YouTube](https://www.youtube.com/watch?v=s16TySh52lg)
   * [(3월 13일) 스프링 네이티브 베타 출시 소식](https://jhrogue.blogspot.com/2021/03/3-13.html) 스프링 네이티브 베타 출시 소식, Programmers Recruiting·Survey 2021, 마이크로소프트에서 금지한 C 함수들, git clone 보안 문제
     * [(03/13) 스프링 네이티브 베타 출시 소식 - YouTube](https://www.youtube.com/watch?v=kZJsv5VndIc)
-  * [(03/20) 시니어 엔지니어들이 코딩 인터뷰를 싫어하는 이유 - YouTube](https://www.youtube.com/watch?v=4MZsf171RKk) 시니어 엔지니어들이 코딩 인터뷰를 싫어하는 이유, 라떼 자바 개발자들을 위한 팁, AWS S3에 저장된 객체 수는?
+  * [(3월 20일) 시니어 엔지니어들이 코딩 인터뷰를 싫어하는 이유](https://jhrogue.blogspot.com/2021/03/3-20.html) 시니어 엔지니어들이 코딩 인터뷰를 싫어하는 이유, 라떼 자바 개발자들을 위한 팁, AWS S3에 저장된 객체 수는?
+    * [(03/20) 시니어 엔지니어들이 코딩 인터뷰를 싫어하는 이유 - YouTube](https://www.youtube.com/watch?v=4MZsf171RKk)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
 * [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
