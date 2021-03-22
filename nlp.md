@@ -1417,7 +1417,6 @@ NLP
 
 # Summary, Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
-* [summariz3](http://theeluwin.tumblr.com/post/146188165713/summariz3)
 * [Text summarization with TensorFlow](https://tensorflowkorea.wordpress.com/2016/08/25/text-summarization-with-tensorflow/)
 * [How to Run Text Summarization with TensorFlow](https://medium.com/@surmenok/how-to-run-text-summarization-with-tensorflow-d4472587602d)
 * [Text summarization with TensorFlow](https://research.googleblog.com/2016/08/text-summarization-with-tensorflow.html)
@@ -1434,6 +1433,7 @@ NLP
 * [Simple Text Summarizer Using Extractive Method](https://towardsdatascience.com/simple-text-summarizer-using-extractive-method-849b65c2dc5a)
 * [분석 DeepTitle : 한국어 기사 자동 요약](https://www.slideshare.net/BOAZbigdata/deeptitle)
 * [Text-Summarization-Repo: 텍스트 요약 관련 paper 및 관련 추천자료, data에 대한 정보를 축적해나가는 저장소입니다](https://github.com/uoneway/Text-Summarization-Repo)
+* [summarizers: Package for controllable summarization](https://github.com/hyunwoongko/summarizers)
 
 ## Summary, Summarize TextRank
 * [An Introduction to Text Summarization using the TextRank Algorithm (with Python implementation)](https://medium.com/analytics-vidhya/an-introduction-to-text-summarization-using-the-textrank-algorithm-with-python-implementation-2370c39d0c60)
@@ -1446,6 +1446,7 @@ NLP
 * [한국어 3줄 요약기 - TextRank 알고리즘을 사용한 3줄 요약기 크롬 확장 앱](https://github.com/graykode/summariz3)
 * [Text Summarization (1) - TextRank 알고리즘](https://gwlabs.tistory.com/29)
 * [python-rake](https://pypi.python.org/pypi/python-rake) 키워드 추출 패키지
+* [summariz3](http://theeluwin.tumblr.com/post/146188165713/summariz3)
 * [textacy: higher-level NLP built on spaCy](https://github.com/chartbeat-labs/textacy) text analysis based on spaCy
 
 # Spark
