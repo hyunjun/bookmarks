@@ -716,6 +716,7 @@ Interview
 * [개발자 이력서 작성하기 (feat. 이력서 공개)](https://brunch.co.kr/@hee072794/132)
 * [경력자의 지원동기 쓰는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220418)
 * [개발자가 회사에 지원할 때 점검해야 할 것 5가지](https://www.notion.so/5-29e9d83ea9ac4da491d8a3e95938d276)
+* [면접을 부르는 '개발자 이력서’ 쓰기 - 인프런 출시 소식](https://jhrogue.blogspot.com/2021/03/blog-post_22.html)
 * [Writing a Resume for a Data Science Career](https://towardsdatascience.com/writing-a-resume-for-a-data-science-career-62b9acd11692)
 * [www.careercup.com/resume](https://www.careercup.com/resume)
 * [Get a better job: Power Verbs for Resume Writing](https://www.youtube.com/watch?v=SVAIXGhwYt8)
