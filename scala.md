@@ -840,6 +840,7 @@ Scala
     * [Scale By The Bay 2020: Leo Benkel, Enhancing Spark's Power with ZIO - YouTube](https://www.youtube.com/watch?v=OW0ggALNtSE)
     * [Scale By The Bay 2020: Salar Rahmanian, Acting Lessons for Scala Engineers with Akka and ZIO - YouTube](https://www.youtube.com/watch?v=AQXBlbkf9wc)
     * [The Coralogix Operator: A Tale of ZIO and Kubernetes – Coralogix](https://coralogix.com/log-analytics-blog/the-coralogix-operator-a-tale-of-zio-and-kubernetes/)
+    * [Functional Legacy - How to Incorporate ZIO In Your Legacy Services by Natan Silnitsky - YouTube](https://www.youtube.com/watch?v=pdgr9bbFQLE)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
