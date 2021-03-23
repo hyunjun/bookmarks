@@ -2189,6 +2189,8 @@ Javascript
   * [try-puppeteer.appspot.com](https://try-puppeteer.appspot.com/)
   * [퍼펫티어(Puppeteer)로 회사 경매에서 득템하기](https://medium.com/jung-han/%ED%8D%BC%ED%8E%AB%ED%8B%B0%EC%96%B4-puppeteer-%EB%A1%9C-%ED%9A%8C%EC%82%AC-%EA%B2%BD%EB%A7%A4%EC%97%90%EC%84%9C-%EB%93%9D%ED%85%9C%ED%95%98%EA%B8%B0-47e4713b976f)
   * [theheadless.dev - Learn Puppeteer & Playwright](https://theheadless.dev/)
+* [qrcode](https://okdevtv.com/mib/nodejs/qrcode)
+  * [🎯QR코드로 출석부 만들기 #기획 #모바일웹 #nodejs #qrcode - YouTube](https://www.youtube.com/watch?v=FRKD2VO3LE0)
 * [queryl - Query language to perform complex object searches](https://github.com/issuetrackapp/queryl)
 * [robot.js - Node.js Desktop Automation](https://github.com/octalmage/robotjs)
 * Schematics
