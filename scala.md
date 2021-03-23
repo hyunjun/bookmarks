@@ -879,6 +879,7 @@ Scala
       * [Running Postgres integration tests easily with TestContainers and ZIO Test | In Absentia](https://hmemcpy.com/2020/10/running-postgres-integration-tests-easily-with-testcontainers-and-zio-test/)
     * [ZIO World](https://zioworld.com/)
       * [ZIO World - ZIO HTTP - YouTube](https://www.youtube.com/watch?v=dVggks9_1Qk)
+      * [ZIOWorld - ZIO Kafka - YouTube](https://www.youtube.com/watch?v=GECv1ONieLw)
     * ZLayer
       * [What are the benefits of the ZIO modules with ZLayers](https://medium.com/@pascal.mengelt/what-are-the-benefits-of-the-zio-modules-with-zlayers-3bf6cc064a9b)
       * [From idea to product with ZLayer](https://scala.monster/welcome-zio/)
@@ -1586,6 +1587,7 @@ Scala
 * [Homegrown #Scala Collections - Part 35.1 - Monoids and Basic Group Theory](https://www.youtube.com/watch?v=bT9qRjRuwCc)
 * [So you want to compose some functions](https://www.innoq.com/en/blog/function-monoids/)
 * [Semigroups and Monoids in Scala - YouTube](https://www.youtube.com/watch?v=LmBTiFYa-V4)
+* [Kit Langton - Troll Driven Development: Implementing Functional Effects by Way of Self-Lobotomy - YouTube](https://www.youtube.com/watch?v=MSygEhqdsqs)
 * [scalablitz](http://knight76.tistory.com/entry/scala-scalablitz)
   * [Lightning-Fast Standard Collections With ScalaBlitz](https://scala-blitz.github.io/talks/scaladays2014-final.pdf)
 
