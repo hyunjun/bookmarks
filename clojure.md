@@ -300,6 +300,7 @@ Clojure
 * [Datahike in ClojureScript with IndexedDB support](https://lambdaforge.io/2021/03/03/datahike-clojurescript.html)
 * [Functional Polymorphism using Clojure’s Multimethods | by Ilan Uzan | Mar, 2021 | Medium](https://ilanuzan.medium.com/functional-polymorphism-using-clojures-multimethods-825c6f3666e6)
 * [The Lisp Curse](http://winestockwebdesign.com/Essays/Lisp_Curse.html)
+* [Consistent Hashing with Clojure. In this post, let’s try and understand… | by Suvrat Apte | helpshift-engineering | Medium](https://medium.com/helpshift-engineering/consistent-hashing-with-clojure-5804f95960f8)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -377,6 +378,8 @@ Clojure
   * [How to ns - Stuart’s Opinionated Style Guide for Clojure Namespace Declarations](https://stuartsierra.com/2016/clojure-how-to-ns.html)
 * reduce
   * [reduce와 apply 함수의 차이 정리](https://groups.google.com/forum/#!msg/lisp-korea/3Em2cql5CQk/FWctFwjPAAAJ)
+* string
+  * [Fun with strings](https://clojurearcana.com/fun-with-strings/)
 * tail recursion
   * [2.1 Tail Recursion(꼬리 재귀)](http://philoskim.github.io/doc/recursion.html)
 
