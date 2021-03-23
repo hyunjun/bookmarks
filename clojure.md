@@ -301,12 +301,15 @@ Clojure
 * [Functional Polymorphism using Clojure’s Multimethods | by Ilan Uzan | Mar, 2021 | Medium](https://ilanuzan.medium.com/functional-polymorphism-using-clojures-multimethods-825c6f3666e6)
 * [The Lisp Curse](http://winestockwebdesign.com/Essays/Lisp_Curse.html)
 * [Consistent Hashing with Clojure. In this post, let’s try and understand… | by Suvrat Apte | helpshift-engineering | Medium](https://medium.com/helpshift-engineering/consistent-hashing-with-clojure-5804f95960f8)
+* [🛠 Bootstrapping our CI – Nextjournal](https://nextjournal.com/blog/ci)
+* [Practicalli: Overview of Language Server Protocol LSP for Clojure development](https://practicalli.github.io/blog/posts/overview-of-language-server-protocol-lsp-for-clojure-development/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
 * [20 cool Clojure functions](http://daveyarwood.github.io/2014/07/30/20-cool-clojure-functions/)
 * [Intro to Higher Order Functions](http://comp-phil.blogspot.kr/2015/05/intro-to-higher-order-functions.html)
 * [Clojure higher-order functions explained: fnil | Daw-Ran Liou](https://dawranliou.com/blog/clojure-higher-order-functions-explained-fnil/)
+* [Clojure higher-order functions explained: complement | Daw-Ran Liou](https://dawranliou.com/blog/clojure-higher-order-functions-explained-complement/)
 * [Functions Explained Through Patterns - Joseph Wilk](http://blog.josephwilk.net/clojure/functions-explained-through-patterns.html)
 * [함수를 다른 함수의 인자로 넘겨보자](http://clojure.kr/parameter_function)
 * [Fast Function Currying in Clojure (Without Macros)](https://dragan.rocks/articles/18/Fluokitten-080-Fast-function-currying-in-Clojure)
@@ -370,6 +373,7 @@ Clojure
   * [A guide to Custom Map Types in Clojure | WSSCode Blog](https://blog.wsscode.com/guide-to-custom-map-types/)
   * [Clojure Goodness: Merge Maps With Function To Set Value Duplicate Keys - Messages from mrhaki](https://blog.mrhaki.com/2021/02/clojure-goodness-merge-maps-with.html)
   * [array-map](http://philoskim.github.io/doc/tips.html#%28part._array-map%29)
+  * [Clojure Goodness: Turning Map Values To Map Keys - Messages from mrhaki](https://blog.mrhaki.com/2021/03/clojure-goodness-turning-map-values-to.html)
 * match
   * [github.com/clojure/core.match](https://github.com/clojure/core.match)
   * [learnyouahaskell.com/syntax-in-functions#pattern-matching](http://learnyouahaskell.com/syntax-in-functions#pattern-matching)
