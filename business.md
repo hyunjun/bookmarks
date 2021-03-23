@@ -218,6 +218,7 @@ Business
 * [7. 사공끼리 정보를 공유하지 않으면 배가 산으로 간다](https://brunch.co.kr/@svillustrated/82)
 * [구글, 애플, 아마존의 회의 운영 노하우](https://hbrforum.org/2017/07/22/%EA%B5%AC%EA%B8%80-%EC%95%A0%ED%94%8C-%EC%95%84%EB%A7%88%EC%A1%B4%EC%9D%98-%ED%9A%8C%EC%9D%98-%EC%9A%B4%EC%98%81-%EB%85%B8%ED%95%98%EC%9A%B0/)
 * [회의 정리의 기술](https://brunch.co.kr/@lunarshore/354) wrap up, 기록, email, 매일 논의
+* [**실리콘밸리 탑 클래스와 함께 일해보며**](https://brunch.co.kr/@iamzenon/26) 효율적인 회의
 * [회의 참석자의 7가지 유형](https://brunch.co.kr/@hyungsukkim/112)
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
 * [일잘러는 이런 사람 빅데이터로 알아보는 성공하는 직원의 비밀 | 인터비즈](https://blog.naver.com/businessinsight/221572920446)
