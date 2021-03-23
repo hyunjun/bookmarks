@@ -330,6 +330,7 @@ Data Science
 * [9 Distance Measures in Data Science | Towards Data Science](https://towardsdatascience.com/9-distance-measures-in-data-science-918109d069fa)
 * [The Future of Data Engineering](https://www.infoq.com/articles/future-data-engineering-riccomini/)
 * [🗃개발에 필요한 데이터 구하기 #fetch - YouTube](https://www.youtube.com/watch?v=qgbxTPMlWIw)
+* [좋은 분석환경은 공짜가 아니다](https://brunch.co.kr/@leoyang99/37)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
