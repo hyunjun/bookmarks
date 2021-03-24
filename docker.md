@@ -913,7 +913,6 @@ Docker
 * [**Kubernetes를 이용한 효율적인 데이터 엔지니어링(Airflow on Kubernetes VS Airflow Kubernetes Executor) - 1 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/data-engineering-with-airflow-k8s-1/)
 * [**Kubernetes를 이용한 효율적인 데이터 엔지니어링(Airflow on Kubernetes VS Airflow Kubernetes Executor) - 2 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/data-engineering-with-airflow-k8s-2/)
 * [쿠버네티스 클러스터 운영자를 위한 모니터링](https://www.samsungsds.com/kr/insights/kubernetes_monitoring.html)
-* [A CLI Tool for Multi-Cluster Kubernetes: Cloud Manager Rocks | by Jorge Simão | Jan, 2021 | Medium](https://einnovator.medium.com/a-cli-tool-for-multi-cluster-kubernetes-cloud-manager-rocks-af17124af2a6)
 * [**초보를 위한 쿠버네티스 안내서 - YouTube**](https://www.youtube.com/playlist?list=PLIUCBpK1dpsNf1m-2kiosmfn2nXfljQgb)
 * [IDG 블로그 | 쿠버네티스가 답이 아닐 때 - ITWorld Korea](https://www.itworld.co.kr/news/180699)
 * [Scaling Kubernetes to 7,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/)
@@ -935,6 +934,9 @@ Docker
 * [cloudflow - Streaming Data Pipelines on Kubernetes](https://cloudflow.io/)
   * [Scale By The Bay 2020: Nolan Grace, Cloudflow: Spark, Flink, and Akka Working together on Kubernetes - YouTube](https://www.youtube.com/watch?v=XOBb7bLS3Q8)
   * [How to build streaming data pipelines with Akka Streams, Flink, and Spark using Cloudflow - YouTube](https://www.youtube.com/watch?v=MaXCx0fy0xU)
+* cloud manager
+  * [A CLI Tool for Multi-Cluster Kubernetes: Cloud Manager Rocks | by Jorge Simão | Jan, 2021 | Medium](https://einnovator.medium.com/a-cli-tool-for-multi-cluster-kubernetes-cloud-manager-rocks-af17124af2a6)
+  * [Deploying Java/Spring Apps to Multiple Clouds with Kubernetes Cloud Manager | by Jorge Simão | Geek Culture | Mar, 2021 | Medium](https://medium.com/geekculture/deploying-java-spring-apps-to-multiple-clouds-with-kubernetes-cloud-manager-87cc61275cb0)
 * [faasd: A lightweight & portable faas engine](https://github.com/openfaas/faasd)
 * [Helm - The package manager for Kubernetes](https://helm.sh/)
   * [Helm 사용법](http://reoim.tistory.com/37)
