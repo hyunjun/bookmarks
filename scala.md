@@ -673,6 +673,8 @@ Scala
   * [Writing Async App in Scala. Part 1: Coding | Wix Engineering](https://medium.com/wix-engineering/writing-async-app-in-scala-part-1-coding-dd09b014d576)
   * [Writing Async App in Scala. Part 2: Exception Handling | Wix Engineering](https://medium.com/wix-engineering/writing-async-app-in-scala-part-2-exception-handling-3fba8504c6fa)
   * [Writing Async App in Scala. Part 3: Threading Model | by Dmitry Komanov | Wix Engineering | Medium](https://medium.com/wix-engineering/writing-async-app-in-scala-part-3-threading-model-ef9e9033bd33)
+  * [Programming with Functions #6 — Thread safety | by Maciek Gorywoda | Mar, 2021 | Medium](https://makingthematrix.medium.com/programming-with-functions-6-thread-safety-7a5e1b361c8e)
+    * [Programming with Functions #6: Thread safety - YouTube](https://www.youtube.com/watch?v=4kvZR3jgcds)
   * [Future.transform in Scala 2.12](https://nmatpt.com/blog/2017/02/09/scala-2.12-future-transform/)
   * [A Little Guide on Using Futures for Web Developers | svese Engineering Blog](https://svese.dev/a-little-guide-on-using-futures-for-web-developers/)
   * [map(), flatMap() on Futures & Options in scala - Knoldus Blogs](https://blog.knoldus.com/map-flatmap-on-futures-options-in-scala/)
@@ -879,7 +881,8 @@ Scala
       * [Running Postgres integration tests easily with TestContainers and ZIO Test | In Absentia](https://hmemcpy.com/2020/10/running-postgres-integration-tests-easily-with-testcontainers-and-zio-test/)
     * [ZIO World](https://zioworld.com/)
       * [ZIO World - ZIO HTTP - YouTube](https://www.youtube.com/watch?v=dVggks9_1Qk)
-      * [ZIOWorld - ZIO Kafka - YouTube](https://www.youtube.com/watch?v=GECv1ONieLw)
+      * [ZIO World - ZIO Kafka - YouTube](https://www.youtube.com/watch?v=GECv1ONieLw)
+      * [ZIO WORLD - ZIO SQL - YouTube](https://www.youtube.com/watch?v=cIMA6iT9B-k)
     * ZLayer
       * [What are the benefits of the ZIO modules with ZLayers](https://medium.com/@pascal.mengelt/what-are-the-benefits-of-the-zio-modules-with-zlayers-3bf6cc064a9b)
       * [From idea to product with ZLayer](https://scala.monster/welcome-zio/)
