@@ -1286,6 +1286,8 @@ App
   * [5 open source alternatives to Gmail](https://opensource.com/life/15/9/open-source-alternatives-gmail)
   * [Gmail 로 개인 도메인 이메일주소 만들기](https://xguru.net/1963)
   * [지메일의 골칫거리, 오래된 이메일을 간단히 정리하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/183389)
+* Powerpoint
+  * [파워포인트 문서 편집 노가다를 위한 매크로 모음 (추가기능) : 클리앙](https://www.clien.net/service/board/pds/15995022)
 
 # Password
 * [bitwarden - Solve your password management problems](https://bitwarden.com/) lastpass open source
