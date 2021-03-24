@@ -2191,6 +2191,7 @@ Javascript
   * [theheadless.dev - Learn Puppeteer & Playwright](https://theheadless.dev/)
 * [qrcode](https://okdevtv.com/mib/nodejs/qrcode)
   * [🎯QR코드로 출석부 만들기 #기획 #모바일웹 #nodejs #qrcode - YouTube](https://www.youtube.com/watch?v=FRKD2VO3LE0)
+  * [🎯QR코드로 출석부 만들기 2 #시나리오 #기본기능 #nodejs #qrcode - YouTube](https://www.youtube.com/watch?v=3obOWYxDNyg)
 * [queryl - Query language to perform complex object searches](https://github.com/issuetrackapp/queryl)
 * [robot.js - Node.js Desktop Automation](https://github.com/octalmage/robotjs)
 * Schematics
