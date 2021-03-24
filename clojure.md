@@ -151,6 +151,7 @@ Clojure
 * [Clojure Macros: Creating vars from a map — Martin Klepsch](https://martinklepsch.org/posts/clojure-macro-magic-vars-from-map.html)
 * [Is it possible to redefine existing Clojure syntax with macros? : Clojure](https://www.reddit.com/r/Clojure/comments/m1y3t0/is_it_possible_to_redefine_existing_clojure/)
 * [Let's tap> with let> (a.k.a. My First Macro: taplet) - Showcase / Your Projects and Libraries - ClojureVerse](https://clojureverse.org/t/lets-tap-with-let-a-k-a-my-first-macro-taplet/7361)
+* [Clojure Arcana](https://clojurearcana.com/threading-macros/)
 * [Macros vs. Monads](https://www.infoq.com/presentations/Macros-Monads)
 * [클로저 개발팀을 위한 지속적인 통합](http://clojure.or.kr/presentation/clojure_ci)
 * [동시성 프로그래밍 하기 좋은 Clojure](http://www.slideshare.net/eunminn/clojure-68804824)
