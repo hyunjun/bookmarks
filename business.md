@@ -77,6 +77,7 @@ Business
 * [조직의 합리성에 대한 노트: 막내착취, 중간관리자, 합리적 개인](http://ppss.kr/archives/58933)
 * [성공적인 기업과 그렇지 못한 기업들 간의 핵심적인 차이는 '얼마나 똑똑한가'가 아니라 '얼마나 건강한가' - 패트릭 렌치오니, 무엇이 조직을 움직이는가](https://xodmfal.blog.me/221358777125)
 * [중간 관리자의 역할 - 취합만 하고 마구 간섭하는 자리가 아니다](https://brunch.co.kr/@lunarshore/297)
+* [구글이 제시한 '관리자의 자격' - ZDNet korea](https://zdnet.co.kr/view/?no=20170227091914)
 * [똑똑하게 실패하는 조직의 4가지 조건](http://ppss.kr/archives/46577)
 * [웹 서비스 개발 회사의 효율적인 조직 구조 및 관리](http://www.popit.kr/%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%82%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B4%80%EB%A6%AC/)
 * [슈퍼셀의 역삼각형 조직 구조: 관리는 줄이고, 성공을 늘리기](http://masterfarseer.blogspot.com/2018/05/blog-post.html)
