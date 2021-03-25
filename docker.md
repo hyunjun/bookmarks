@@ -650,6 +650,7 @@ Docker
 * [Dockerfile의 모든 것 | Gracefullight](https://gracefullight.dev/2020/01/13/Dockerfile%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/)
 * [도커 이미지 빌드와 Dockerfile 기초 | 44BITS](https://www.44bits.io/ko/post/building-docker-image-basic-commit-diff-and-dockerfile)
 * [Buildpacks vs Dockerfiles](https://technology.doximity.com/articles/buildpacks-vs-dockerfiles)
+* [Docker/Container Tutorial: Write your first Dockerfile - YouTube](https://www.youtube.com/watch?v=V7eSfIxSEEE)
 
 # [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
 * [Introduction to gVisor: Sandboxed Linux Container Runtime](https://www.youtube.com/watch?v=Ur0hbW_K66s)
