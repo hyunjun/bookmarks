@@ -307,6 +307,7 @@ Programming
 * [위험상황을 대비하는 위험관리](https://chodragon9.github.io/blog/preventive-maintenance/)
 * [Linear Programming with Spreadsheets](https://www.datacamp.com/community/tutorials/linear-programming-with-spreadsheets)
 * [우아한 Developer Relations 두번째 이야기](http://woowabros.github.io/woowabros/2018/12/05/developer-relations2.html)
+* [쉽게 살 수 있을까 ? :: DevRel 이란?](https://hl1itj.tistory.com/221)
 * [The origin of complexity](https://itnext.io/the-origin-of-complexity-8ecb39130fc)
 * [Decrease complexity by separating Code from Data](https://blog.klipse.tech/databook/2020/10/30/data-book-chap2-part1.html)
 * ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
@@ -607,7 +608,6 @@ Programming
   * [packer - Build Automated Machine Images](https://www.packer.io/)
 * [피닉스 패턴의 VM 이미지 타입](http://bcho.tistory.com/1226)
 * [Packer와 Ansible을 이용하여, node.js 이미지 생성하기](http://bcho.tistory.com/1228)
-* [CI/CD 레퍼런스 아키텍쳐](http://bcho.tistory.com/1231)
 * [모던 아키텍트에 대해 개념 잡아보기](http://www.popit.kr/%EB%AA%A8%EB%8D%98-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B0%9C%EB%85%90-%EC%9E%A1%EC%95%84%EB%B3%B4%EA%B8%B0/)
 * [**안정된 의존관계 원칙과 안정된 추상화 원칙에 대하여**](http://woowabros.github.io/study/2018/03/05/sdp-sap.html) 설계에 대해 고민할 때 정말 좋은 글. 안정성과 추상성을 예시와 수식을 통해 설명
 * [A Guided Tour inside a clean architecture code base](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97)
@@ -1466,6 +1466,7 @@ Programming
 * [2020년 한 해 동안 방구석에서 온라인 오픈소스 컨퍼런스에 참가한 후기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/2020-virtual-opensource-conference-recap/)
 
 # Continuous Integration, CI
+* [CI/CD 레퍼런스 아키텍쳐](http://bcho.tistory.com/1231)
 * [Maximum Development Speed and Stability by Using a Continuous Integration and Deployment Server](https://medium.com/turtler/maximum-development-speed-and-stability-by-using-a-continuous-integration-and-deployment-server-1e1d5dbce5)
 * [CI - 지속적 통합 도구, 오픈소스 공개](http://tech.gitple.io/2017/12/13/ci-oss/)
 * [코딩은 줄이고, 생각은 더 많이 하기... 점진적으로 🔊 (Code Less, Think More… Incrementally!  🔊)](https://www.vobour.com/%EC%BD%94%EB%94%A9%EC%9D%80-%EC%A4%84%EC%9D%B4%EA%B3%A0-%EC%83%9D%EA%B0%81%EC%9D%80-%EB%8D%94-%EB%A7%8E%EC%9D%B4-%ED%95%98%EA%B8%B0-%EC%A0%90%EC%A7%84%EC%A0%81%EC%9C%BC%EB%A1%9C-%F0%9F%94%8A-code-l)
@@ -1493,6 +1494,7 @@ Programming
 * [A primer on DevOps pipeline: Continuous Integration & Continuous Delivery (CI/CD) | Enable Architect](https://www.redhat.com/architect/primer-devops)
 * [CI/CD(지속적 통합/지속적 제공): 개념, 방법, 장점, 구현 과정](https://www.redhat.com/ko/topics/devops/what-is-ci-cd)
 * [Improving how we deploy GitHub - The GitHub Blog](https://github.blog/2021-01-25-improving-how-we-deploy-github/)
+* [LINE 오픈챗 서버 원클릭 릴리스 자동화 시스템 개발기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-openchat-server-release-automation/)
 * teamcity
   * [TeamCity 설치하기](https://jojoldu.tistory.com/448)
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
