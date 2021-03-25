@@ -35,6 +35,7 @@ Apache
 * [airflow CPU가 높게 점유되는 현상](https://burning-dba.tistory.com/111)
 * [airflow dag의 task를 실행하고 동작하지 않는 현상](https://burning-dba.tistory.com/117)
 * [실무에 바로 사용하는 Airflow 2.0 설치](https://burning-dba.tistory.com/127)
+* [Airflow의 execution_date에 대하여 - Nephtyw’S Programming Stash](https://nephtyws.github.io/data/airflow-execution-date/)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
