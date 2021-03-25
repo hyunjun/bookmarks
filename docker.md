@@ -938,6 +938,7 @@ Docker
 * cloud manager
   * [A CLI Tool for Multi-Cluster Kubernetes: Cloud Manager Rocks | by Jorge Simão | Jan, 2021 | Medium](https://einnovator.medium.com/a-cli-tool-for-multi-cluster-kubernetes-cloud-manager-rocks-af17124af2a6)
   * [Deploying Java/Spring Apps to Multiple Clouds with Kubernetes Cloud Manager | by Jorge Simão | Geek Culture | Mar, 2021 | Medium](https://medium.com/geekculture/deploying-java-spring-apps-to-multiple-clouds-with-kubernetes-cloud-manager-87cc61275cb0)
+  * [Microservices Auto-Configuration with Connectors & Bindings: Cloud-Native Dependency-Injection in Kubernetes Cloud Manager | by Jorge Simão | Mar, 2021 | Medium](https://einnovator.medium.com/microservices-auto-configuration-with-connectors-bindings-cloud-native-dependency-injection-in-531488c74c4)
 * [faasd: A lightweight & portable faas engine](https://github.com/openfaas/faasd)
 * [Helm - The package manager for Kubernetes](https://helm.sh/)
   * [Helm 사용법](http://reoim.tistory.com/37)
