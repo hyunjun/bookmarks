@@ -225,6 +225,7 @@ Algorithm
 * [Two Pointer Algorithm | Two Sum Problem | Solve DS Problems in O(N) Time - YouTube](https://www.youtube.com/watch?v=2wVjt3yhGwg)
 * [코테 실전 대비! 자료구조와 함께 배우는 알고리즘 입문 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=52527451)
 * [Hacker Rank - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/Hacker+Rank)
+* [Facebook Hacker Cup 2019 Online Qualification Round - Nephtyw’S Programming Stash](https://nephtyws.github.io/algorithm/fb-competition-qualification/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
