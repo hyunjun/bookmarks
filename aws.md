@@ -17,11 +17,6 @@ AWS
 * [**서버리스 GraphQL 워크샵**](https://github.com/tonyfromundefined/serverless-graphql-workshop)
 * [AWS 재입문 블로그 – AppSync 편 (한국어)](https://dev.classmethod.jp/cloud/aws/aws-appsync-re-introduction-2019-korean-ver)
 * [돈 안드는 AWS 학습법](https://docs.google.com/presentation/d/e/2PACX-1vRCJvoi05saGm9yZkoAPJZbYM7odnKhYEir3fwY8pJXloZWs4qNT8gL1ZTBEpUFUnQZWtUBnG8mMSUQ/pub)
-* [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr)
-* [AWS Lambda — How to Automate Your Spark Jobs on AWS Elastic Map Reduce (EMR)](https://medium.com/@sdmandrell/aws-lambda-how-to-automate-your-spark-jobs-on-aws-elastic-map-reduce-emr-4fb71369ac48)
-* [Amazon EMR에서 spark-submit를 사용하여 사용자 애플리케이션 제출하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/submitting-user-applications-with-spark-submit/)
-* [AWS EMR 을 Terraform 으로 관리 할 때 몇가지 팁들](https://www.popit.kr/tips-for-terrafoming-aws-emr/)
-* [Slack Bot을 이용한 EMR 클러스터 제어 1편 - AWS + Slack API 연동](https://nephtyws.github.io/programming/slackbot_1)
 * [AWS Chatbot과 슬랙(Slack)을 연동하여 AWS 명령 실행하기](http://blog.naver.com/sehyunfa/221924899955)
 * [Spinning Up a Free Hadoop Cluster: Step by Step](http://insightdataengineering.com/blog/hadoopdevops/)
 * [Day One with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-one-aws-api-gateway/index.html)
@@ -390,10 +385,12 @@ AWS
 * [AWS 서버리스 서비스를 이용한 웹 애플리케이션 구축하기 Hands-on Lab](https://github.com/bskim/AWSServerlessHoL-CI-CD)
 * [Amazon Builders Library를 아십니까?](http://channy.creation.net/blog/1317)
 * [사용자수에 따른 AWS 아키텍처 설계하기](https://developer88.tistory.com/316)
-* [Apache Airflow, Genie 및 Amazon EMR을 통한 빅데이터 워크플로 오케스트레이션 – 1부](https://aws.amazon.com/ko/blogs/korea/orchestrate-big-data-workflows-with-apache-airflow-genie-and-amazon-emr-part-1/)
-* [Apache Airflow, Genie 및 Amazon EMR을 통한 빅데이터 워크플로 오케스트레이션 – 2부](https://aws.amazon.com/ko/blogs/korea/orchestrate-big-data-workflows-with-apache-airflow-genie-and-amazon-emr-part-2/)
-* [AWS EMR과 Airflow를 이용한 Batch Data Processing | by Min Jo | 101-devs | Aug, 2020 | Medium](https://medium.com/class101-dev/aws-emr%EA%B3%BC-airflow%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-batch-data-processing-a100fc2f4f10)
 * [Amazon SageMaker와 Apache Airflow을 통한  기계학습 워크플로 구축하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-end-to-end-machine-learning-workflows-with-amazon-sagemaker-and-apache-airflow/)
+* [AWSKRUG DS 2020/12 - Let the Airflow in AWS](https://www2.slideshare.net/ssuser9c8444/awskrug-ds-202012-let-the-airflow-in-aws)
+* [Airflow 오류 - Some workers seem to have died and gunicorn did not restart them as expected - Nephtyw’S Programming Stash](https://nephtyws.github.io/data/airflow-gunicorn-worker-error/)
+* [Airflow 오류 - The session is unavailable because no secret key was set - Nephtyw’S Programming Stash](https://nephtyws.github.io/data/airflow-flask-key-error/)
+* [Airflow 오류 - The CSRF session token is missing - Nephtyw’S Programming Stash](https://nephtyws.github.io/data/airflow-csrf-token/)
+* [Airflow에서 superuser 만드는 법 - Nephtyw’S Programming Stash](https://nephtyws.github.io/data/airflow-superuser/)
 * [AWS-instance-Attach to Auto Scaling Group](https://linuxer.name/2020/05/aws-instance-attach-to-auto-scaling-group/)
 * [ASG의 Lifecycle Hook 활용하기](https://brunch.co.kr/@alden/65) auto scaling
 * [필요한 만큼 컴퓨터를 자동으로 생성/제거 해주는 AWS Auto Scaling - YouTube](https://www.youtube.com/watch?v=_1Yqk-fLkec)
@@ -425,6 +422,7 @@ AWS
 * [AWS Launch Template 사용법 - YouTube](https://www.youtube.com/watch?v=ue7Rk20p_EA)
 * [AWS Cheat Sheets - Tutorials Dojo](https://tutorialsdojo.com/aws-cheat-sheets/)
 * [A.D.D - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/A.D.D) AWS Docker DeepLearning
+* [AWSKRUG DS - 데이터 엔지니어가 실무에서 맞닥뜨리는 문제들](https://www.slideshare.net/ssuser9c8444/awskrug-ds) 1) ORC Deep Dive 2) ORC Schema Evolution with AWS Glue 3) AWS EMR 격하게 tuning 해보기
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -459,6 +457,7 @@ AWS
 * [AWS에서 데이터처리 맛보기 AWS S3, Athena, Quicksight](https://jen6.github.io/2019/07/aws-aws-s3-athena-quicksihtiaws.html)
 * [AWS Athena의 권한 관리와 클라이언트 접속 – OpsNow Tech Blog](https://blog.opsnow.com/14)
 * [Amazon Athena로 ALB Access Log에서 원하는 데이터 추출하기](https://jojoldu.tistory.com/537)
+* [AWS Athena와 잘 어울리는 DB 클라이언트 - DBeaver - Nephtyw’S Programming Stash](https://nephtyws.github.io/database/dbeaver-with-athena/)
 
 # Book
 * [아마존 웹 서비스를 다루는 기술: 실무에서 필요한 AWS 클라우드의 모든 것!](http://pyrasis.com/book/TheArtOfAmazonWebServices)
@@ -652,6 +651,17 @@ AWS
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
   * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
 
+# EMS
+* [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr)
+* [AWS Lambda — How to Automate Your Spark Jobs on AWS Elastic Map Reduce (EMR)](https://medium.com/@sdmandrell/aws-lambda-how-to-automate-your-spark-jobs-on-aws-elastic-map-reduce-emr-4fb71369ac48)
+* [Amazon EMR에서 spark-submit를 사용하여 사용자 애플리케이션 제출하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/submitting-user-applications-with-spark-submit/)
+* [AWS EMR 을 Terraform 으로 관리 할 때 몇가지 팁들](https://www.popit.kr/tips-for-terrafoming-aws-emr/)
+* [Slack Bot을 이용한 EMR 클러스터 제어 1편 - AWS + Slack API 연동](https://nephtyws.github.io/programming/slackbot_1)
+* [Apache Airflow, Genie 및 Amazon EMR을 통한 빅데이터 워크플로 오케스트레이션 – 1부](https://aws.amazon.com/ko/blogs/korea/orchestrate-big-data-workflows-with-apache-airflow-genie-and-amazon-emr-part-1/)
+* [Apache Airflow, Genie 및 Amazon EMR을 통한 빅데이터 워크플로 오케스트레이션 – 2부](https://aws.amazon.com/ko/blogs/korea/orchestrate-big-data-workflows-with-apache-airflow-genie-and-amazon-emr-part-2/)
+* [AWS EMR과 Airflow를 이용한 Batch Data Processing | by Min Jo | 101-devs | Aug, 2020 | Medium](https://medium.com/class101-dev/aws-emr%EA%B3%BC-airflow%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-batch-data-processing-a100fc2f4f10)
+* [입 개발 EMR에서는 sc.addFile, Databricks에서는 그냥 dbfs 폴더를 이용하자. | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/25/%ec%9e%85-%ea%b0%9c%eb%b0%9c-emr%ec%97%90%ec%84%9c%eb%8a%94-sc-addfile-databricks%ec%97%90%ec%84%9c%eb%8a%94-%ea%b7%b8%eb%83%a5-dbfs-%ed%8f%b4%eb%8d%94%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%98%ec%9e%90/)
+
 # Fargate
 * [ECS의 매니지드 컨테이너 AWS 파게이트 시작하기](https://www.44bits.io/ko/post/getting-started-with-ecs-fargate)
 * [AWS 파게이트 가격 30%-50% 인하 발표 vCPU 20%, 메모리 65% 인하. 서울 리전을 포함해 1월 7일부터 적용](https://www.44bits.io/ko/post/news--fargate-significant-price-cuts)
@@ -660,6 +670,7 @@ AWS
 * [**ECS를 이용한 Serverless Batch 서버 travis ci + ECS를 이용한 Batch서버 효율화**](https://medium.com/myrealtrip-product/ecs%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-serverless-%EB%B0%B0%EC%B9%98-%EC%84%9C%EB%B2%84-63421bf55e67) Docker image Travis CI -> ECR -> Fargate
 * [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
 * [AWS - ECS fargate 예제](https://zigispace.net/1076)
+* [AWS ECS에서 force-new-deployment가 제대로 되지 않을 때 - Nephtyw’S Programming Stash](https://nephtyws.github.io/devops/ecs-force-new-deployment/)
 * [How to configure IAM roles for Fargate Tasks on AWS](https://towardsdatascience.com/how-to-configure-iam-roles-for-fargate-tasks-on-aws-76ad54f11314)
 
 # Lambda
