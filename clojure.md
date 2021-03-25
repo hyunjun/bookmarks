@@ -304,6 +304,7 @@ Clojure
 * [Consistent Hashing with Clojure. In this post, let’s try and understand… | by Suvrat Apte | helpshift-engineering | Medium](https://medium.com/helpshift-engineering/consistent-hashing-with-clojure-5804f95960f8)
 * [🛠 Bootstrapping our CI – Nextjournal](https://nextjournal.com/blog/ci)
 * [Practicalli: Overview of Language Server Protocol LSP for Clojure development](https://practicalli.github.io/blog/posts/overview-of-language-server-protocol-lsp-for-clojure-development/)
+* ["Alda's dynamic relationship with Clojure" by Dave Yarwood - YouTube](https://www.youtube.com/watch?v=6hUihVWdgW0)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
