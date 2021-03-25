@@ -394,8 +394,10 @@
 * [Speeding Time to Insight with a Modern ETL Approach - YouTube](https://www.youtube.com/watch?v=G5P8VbS0gXA) ETL -> ELT
 * [Scale-Out Using Spark in Serverless Herd Mode! - YouTube](https://www.youtube.com/watch?v=zoFwtJ-j5co)
 * [DBIOTransactionalCommit - Databricks](https://docs.databricks.com/_static/notebooks/dbio-transactional-commit.html)
+* [입 개발 EMR에서는 sc.addFile, Databricks에서는 그냥 dbfs 폴더를 이용하자. | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/25/%ec%9e%85-%ea%b0%9c%eb%b0%9c-emr%ec%97%90%ec%84%9c%eb%8a%94-sc-addfile-databricks%ec%97%90%ec%84%9c%eb%8a%94-%ea%b7%b8%eb%83%a5-dbfs-%ed%8f%b4%eb%8d%94%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%98%ec%9e%90/)
 
 # [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
+* [Apache Livy에서 Spark job stdout log를 보는 법 - Nephtyw’S Programming Stash](https://nephtyws.github.io/data/livy-logs-to-stdout/)
 
 # API
 * [Spark Programming Model : Resilient Distributed Dataset (RDD) - 2015](http://www.bogotobogo.com/Hadoop/BigData_hadoop_Apache_Spark_Programming_Model_RDD.php)
