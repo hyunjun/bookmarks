@@ -4155,6 +4155,7 @@ Python
 * [HUFS WEB project Notion & Slack 연동](https://github.com/0417taehyun/notion)
   * [Notion API / Slack API / AWS Lambda를 활용하여 효율적인 프로젝트 운영하기 01](https://velog.io/@dev_taehyun/Notion-API-Slack-API-AWS-Lambda-%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-01)
   * [Notion API / Slack API / AWS Lambda를 활용하여 효율적인 프로젝트 운영하기 02](https://velog.io/@dev_taehyun/Notion-API-Slack-API-AWS-Lambda-%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%9A%B4%EC%98%81%ED%95%98%EA%B8%B0-02)
+* [파이썬으로 슬랙 메시지 보내기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/programming/py-slack/)
 * [Slack Developer Kit for Python — Slack Developer Kit for Python](https://slack.dev/python-slackclient/index.html)
   * [slackapi/python-slackclient: Slack Developer Kit for Python](https://github.com/slackapi/python-slackclient)
 * [kakao-to-slack: send kakao talk message to slack](https://github.com/Kirade/kakao-to-slack)
