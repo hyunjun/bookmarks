@@ -131,6 +131,7 @@
 * [Data Processing In Rust With DataFusion (Arrow) | by Chengzhi Zhao | Towards Data Science](https://towardsdatascience.com/data-processing-in-rust-with-datafusion-arrow-56df5432de68)
 * [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
 * rustup [Rust 크로스 컴파일 방법](https://happygrammer.github.io/rust/problem/cross-compile/)
+* [Calling .NET APIs from Rust](https://ericsink.com/entries/lousygrep.html)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
