@@ -554,6 +554,7 @@ SQL
 * [**Building HashTag M : N Relation with Node.js, Sequelize(MySQL) | by Ryan Kim | Oct, 2020 | Medium**](https://equus3144.medium.com/building-hashtag-m-n-relation-with-node-js-sequelize-mysql-3dde6824d2a0)
 * [Blog of (former?) MySQL Entomologist: Linux /proc Filesystem for MySQL DBAs - Part I, Basics](https://mysqlentomologist.blogspot.com/2021/01/linux-proc-filesystem-for-mysql-dbas.html)
 * [How to delete lots of rows from a MySQL database without indefinite locking – Bram.us](https://www.bram.us/2021/01/14/how-to-delete-lots-of-rows-from-a-mysql-database-without-indefinite-locking/)
+* [MySQL/MariaDB에서 유저에게 multiple host를 부여하는 방법 - Nephtyw’S Programming Stash](https://nephtyws.github.io/database/mariadb-mysql-subnet-host/)
 
 ## MySQL Library
 * [MySQL/MariaDB의 inet_aton/ntoa 함수를 대체할 JPA 컨버터](https://javacan.tistory.com/entry/inet-aton-ntoa-jpa-converter)
