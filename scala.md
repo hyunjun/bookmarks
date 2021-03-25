@@ -734,6 +734,7 @@ Scala
   * [The cost of Scala Option](https://medium.com/@georgeleung_7777/the-cost-of-scala-option-987ffd64206b)
   * [Option — the null of our times. Things I would have told my… | by Adam Gajek | VirtusLab | Sep, 2020 | Medium](https://medium.com/virtuslab/option-the-null-of-our-times-77f3bfd7c234)
   * [I like Option.get - Alexandru Nedelcu](https://alexn.org/blog/2020/11/12/i-like-option-get.html)
+  * [**Scala의 예외 처리 - Option, Either, Try - Nephtyw’S Programming Stash**](https://nephtyws.github.io/programming/scala-option-either-try/)
 * Ordered
   * [A functional comparer](https://scalaprof.blogspot.com/2020/04/a-functional-comparer.html)
 * Ordering
