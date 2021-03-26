@@ -2811,6 +2811,7 @@ Python
   * [Dash: A Beginner’s Guide](https://towardsdatascience.com/dash-a-beginners-guide-d118bd620b5d)
 * [Datajoy - Python & R, for scientists Easy to use, online data processing with Python and R](https://www.getdatajoy.com/)
 * [Datalore란 무엇인가요? | The JetBrains Datalore Blog](https://blog.jetbrains.com/ko/datalore/2020/11/02/what-is-datalore/)
+  * [We Downloaded 10,000,000 Jupyter Notebooks From Github – This Is What We Learned | The JetBrains Datalore Blog](https://blog.jetbrains.com/datalore/2020/12/17/we-downloaded-10-000-000-jupyter-notebooks-from-github-this-is-what-we-learned/)
 * [DataMatrix - an intuitive Python library for working with column-based and continuous data](http://datamatrix.cogsci.nl/)
   * [Analyzing eye-movement and pupil-size data with Python DataMatrix](https://www.youtube.com/watch?v=PtUmhQ2vupw)
 * [dateutil - powerful extensions to datetime](https://pypi.org/project/python-dateutil/)
@@ -2836,6 +2837,8 @@ Python
   * [Django MS Azure에 Fabric으로 배포하기](https://beomi.github.io/2017/06/09/Deploy-Django-to-MS-Azure/)
   * [Deploy Django to MS Azure with Fabric3](https://beomi.github.io/2017/06/10/Deploy-Django-to-MS-Azure-EN/)
 * [Faster CPython](http://faster-cpython.readthedocs.io/) FAT Python
+* [fatcat-scholar: search interface for scholarly works](https://github.com/internetarchive/fatcat-scholar)
+  * [인터넷 아카이브, 논문 검색 엔진 IA Scholar 오픈 | GeekNews](https://news.hada.io/topic?id=3864)
 * [Faust - A library for building streaming applications in Python](https://faust.readthedocs.io/)
 * [fawkes: Fawkes, privacy preserving tool against facial recognition systems. More info at https://sandlab.cs.uchicago.edu/fawkes](https://github.com/Shawn-Shan/fawkes)
 * [fbchat: Facebook Chat (Messenger) for Python](http://fbchat.readthedocs.io)
