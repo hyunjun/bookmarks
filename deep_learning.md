@@ -1201,6 +1201,8 @@ Deep Learning
 * [50 Deep Learning Software Tools and Platforms, Updated](http://www.kdnuggets.com/2015/12/deep-learning-tools.html)
 * [Best Python Libraries for Machine Learning and Deep Learning](https://towardsdatascience.com/best-python-libraries-for-machine-learning-and-deep-learning-b0bd40c7e8c)
 * [A.I. Duet - A piano that responds to you](https://github.com/googlecreativelab/aiexperiments-ai-duet)
+* [AIQC Artificial Intelligence Quality Control - an open source framework for rapid & reproducible deep learning](https://aiqc.readthedocs.io/en/latest/)
+  * [Layne Sadler - AIQC: Framework for Reproducible and Rapid Deep Learning | PyData Boston Meetup - YouTube](https://www.youtube.com/watch?v=6mhfwuP2UzQ)
 * C3DL [딥러닝 분산 플랫폼, C3DL](https://d2.naver.com/helloworld/1914772)
 * [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)
 * Caffe
