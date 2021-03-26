@@ -101,6 +101,7 @@ Programming Books
 * (NOT YET) [도서 일상 속 사물이 알려주는 웹 API 디자인 – 지락문화예술공작단](https://jirak.net/wp/%EB%8F%84%EC%84%9C-%EC%9D%BC%EC%83%81-%EC%86%8D-%EC%82%AC%EB%AC%BC%EC%9D%B4-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EC%9B%B9-api-%EB%94%94%EC%9E%90%EC%9D%B8/)
 * [독서가 내게 가져다 준 것들 - 우아한형제들 기술 블로그](https://woowabros.github.io/growth/2020/11/25/what-reading-gave-to-me.html)
 * [한빛 리얼타임 eBook](https://www.hanbit.co.kr/realtime/books/new_webbook_list.html)
+* (NOT YET) [웹 애플리케이션 보안 : 네이버 블로그](https://blog.naver.com/ins_soul80/222288561320)
 
 # Agile Scrum
 
