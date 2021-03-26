@@ -2193,6 +2193,7 @@ Javascript
   * [🎯QR코드로 출석부 만들기 #기획 #모바일웹 #nodejs #qrcode - YouTube](https://www.youtube.com/watch?v=FRKD2VO3LE0)
   * [🎯QR코드로 출석부 만들기 2 #시나리오 #기본기능 #nodejs #qrcode - YouTube](https://www.youtube.com/watch?v=3obOWYxDNyg)
   * [🎯QR코드로 출석부 만들기 3 #암복호화 #nodejs #crypto - YouTube](https://www.youtube.com/watch?v=aEgQtYsjvQQ)
+  * [🎯QR코드로 출석부 만들기 4 #소셜로그인 #oauth2 #google - YouTube](https://www.youtube.com/watch?v=6Tn__0UwTrA)
 * [queryl - Query language to perform complex object searches](https://github.com/issuetrackapp/queryl)
 * [robot.js - Node.js Desktop Automation](https://github.com/octalmage/robotjs)
 * Schematics
