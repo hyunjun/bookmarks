@@ -305,6 +305,7 @@ Clojure
 * [🛠 Bootstrapping our CI – Nextjournal](https://nextjournal.com/blog/ci)
 * [Practicalli: Overview of Language Server Protocol LSP for Clojure development](https://practicalli.github.io/blog/posts/overview-of-language-server-protocol-lsp-for-clojure-development/)
 * ["Alda's dynamic relationship with Clojure" by Dave Yarwood - YouTube](https://www.youtube.com/watch?v=6hUihVWdgW0)
+* [Symbolic Assembly: Using Clojure to Meta-program Bytecode - Ramsey Nasser - YouTube](https://www.youtube.com/watch?v=eDad1pvwX34)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -784,6 +785,7 @@ Clojure
 * [marathon-clj - Clojure client library for Mesos Marathon](https://github.com/eunmin/marathon-clj)
 * [meander: Tools for transparent data transformation](https://github.com/noprompt/meander)
 * [medley - A lightweight library of useful Clojure functions](https://github.com/weavejester/medley)
+* [membrane: A platform agnostic clojure(script) library for creating user interfaces](https://github.com/phronmophobic/membrane)
 * [mirabelle: A stream processing engine for monitoring](https://github.com/mcorbin/mirabelle)
   * [(mcorbin.fr): Mirabelle, a new stream processing engine for monitoring](https://mcorbin.fr/posts/2021-03-01-mirabelle-stream-processing/)
 * [mixfix-clj](https://github.com/awto/mixfix-clj) 중위 표기 이용 가능 e.g. 수식
