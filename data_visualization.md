@@ -96,6 +96,7 @@ Data Visualization
 * [The Data Visualisation Catalogue](https://datavizcatalogue.com/)
 * [5 ‘More’ Open Source tools to get started with Data Visualisation | by Parul Pandey | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/5-more-open-source-tools-to-get-started-with-data-visualisation-a03373972f81)
 * [SVG와 삼각 함수로 도넛 차트 만들어보기 | Evans Library](https://evan-moon.github.io/2020/12/12/draw-arc-with-svg-clippath/)
+* [Visualizing Data Timeliness at Airbnb | by Chris C Williams | Airbnb Engineering & Data Science | Feb, 2021 | Medium](https://medium.com/airbnb-engineering/visualizing-data-timeliness-at-airbnb-ee638fdf4710)
 
 # D3.js
 * [d3.js 만든 마이크 보스톡, ‘뉴욕타임스’ 떠난다](http://www.bloter.net/archives/227355)
@@ -292,6 +293,7 @@ Data Visualization
     * [Part III: Making a Complete Dashboard](https://towardsdatascience.com/data-visualization-with-bokeh-in-python-part-iii-a-complete-dashboard-dc6a86aa6e23)
   * [Developing Dashboard Applications Using Bokeh - Bryan Van de Ven](https://www.youtube.com/watch?v=HmI1foA0MZc)
   * [Road to Visualization Expert Part 1 : App Store : unusual tools](https://www.kaggle.com/subinium/road-to-viz-expert-1-unusual-tools)
+  * [How to Build Interactive Data Visualizations for Python with Bokeh](https://www.infoq.com/articles/data-visualizations-python-bokeh/)
   * pandas_bokeh [Beautiful and Easy Plotting in Python — Pandas + Bokeh | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/beautiful-and-easy-plotting-in-python-pandas-bokeh-afa92d792167)
 * [cufflinks - Productivity Tools for Plotly + Pandas](https://github.com/santosjorge/cufflinks)
   * [Plotly Whirlwind Introduction.ipynb](https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb)
