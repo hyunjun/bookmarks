@@ -130,6 +130,7 @@ Vision
 * [A Step-by-Step Introduction to the Basic Object Detection Algorithms (Part 1)](https://www.analyticsvidhya.com/blog/2018/10/a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1/)
 * [Deep Learning for Object Detection: A Comprehensive Review](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
 * [Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow](https://github.com/matterport/Mask_RCNN)
+* [faster-r-cnn-tensorflow-api-custom: Faster R-CNN with Tensorflow API for Custom Dataset](https://github.com/dilaraozdemir/faster-r-cnn-tensorflow-api-custom)
 * [TensorFlow Object Detection API in 5 clicks from Colaboratory](https://medium.com/@nickbortolotti/tensorflow-object-detection-api-in-5-clicks-from-colaboratory-843b19a1edf1)
 * [Machine Learning for Design Systems: Training Tensorflow Object Detection API with design system symbols | by Jude Park | Sep, 2020 | Medium](https://medium.com/@judepark_6960/machine-learning-for-design-systems-315cd34b676f)
 * [Real-Time Object Detection with TensorFlow](https://medium.com/analytics-vidhya/real-time-object-detection-with-tensorflow-64e2677521ce)
@@ -429,6 +430,7 @@ Vision
   * [Introduction | WebRTC for the Curious](https://webrtcforthecurious.com/)
   * [WebRTC Library 다루기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/13/webrtc-library.html)
   * [WebRTC는 어떻게 실시간으로 데이터를 교환할 수 있을까? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/01/24/Introducing-WebRTC.html)
+  * [Comparing WebRTC with HTTP-based streaming](https://www.theoplayer.com/blog/comparing-webrtc-with-http-based-streaming)
   * [webrtcH4cKS: ~ Open Source Cloud Gaming with WebRTC](https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/)
 
 # OpenCL
@@ -691,6 +693,8 @@ Vision
 * [RetinaFace-tf2: RetinaFace (RetinaFace: Single-stage Dense Face Localisation in the Wild, published in 2019) reimplemented in Tensorflow 2.0, with pretrained weights available !](https://github.com/StanislasBertrand/RetinaFace-tf2)
 * sklearn [An Offbeat Approach to Brain Tumor Classification using Computer Vision](https://medium.com/towards-artificial-intelligence/an-offbeat-approach-to-brain-tumor-classification-using-computer-vision-19c9e7b84664)
 * [Speech2Face: Implementation of the CVPR 2019 Paper - Speech2Face: Learning the Face Behind a Voice by MIT CSAIL](https://github.com/saiteja-talluri/Speech2Face)
+* [VISSL · A library for state-of-the-art self-supervised learning](https://vissl.ai/)
+  * [SEER: The start of a more powerful, flexible, and accessible era for computer vision](https://ai.facebook.com/blog/seer-the-start-of-a-more-powerful-flexible-and-accessible-era-for-computer-vision)
 * [YouEye - kiosk machine helper solution for blinded people](https://github.com/code-yeongyu/YouEye)
   * [YouEye - kiosk machine helper solution for blinded people](https://www.youtube.com/watch?v=GAdjqtUidms)
 
