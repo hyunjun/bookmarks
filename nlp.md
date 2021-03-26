@@ -273,6 +273,7 @@ NLP
 * [KoGPT2-chatbot: Simple Chit-Chat based on KoGPT2](https://github.com/haven-jeon/KoGPT2-chatbot)
 * [Does GPT-2 Know Your Phone Number? – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2020/12/20/lmmem/)
 * [This Code Does Not Exist](https://doesnotexist.codes/) GPT2를 이용한 코드 생성
+* [자연어 인공지능 모델 해킹하기 | GeekNews](https://news.hada.io/topic?id=3886) GPT2 대상 공격
 * [awesome-gpt3](https://github.com/elyase/awesome-gpt3)
 * [How GPT3 Works - Visualizations and Animations – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
 * [What is GPT-3? Showcase, possibilities, and implications - YouTube](https://www.youtube.com/watch?v=5fqxPOaaqi0)
@@ -356,6 +357,7 @@ NLP
 * [AI Grand Challenge, 인공지능 그랜드 챌린지 1위 입상 후기 및 입상 모델 설명](https://ai4nlp.tistory.com/17) 음성인식 + 텍스트분류
 * [ML and NLP Research Highlights of 2020](https://ruder.io/research-highlights-2020/)
 * [2018-2020 NLU 연구 동향을 소개합니다](https://www.kakaobrain.com/blog/118)
+* [자연어 생성의 편견과 기타 유해성에 대처하기 - ITWorld Korea](https://www.itworld.co.kr/news/186448)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -1010,6 +1012,7 @@ NLP
 * [Koshort - Koshort은 한국어 NLP를 위한 high-level API 프로젝트입니다](https://koshort.github.io/)
 * [LASER - Zero-shot transfer across 93 languages: Open-sourcing enhanced LASER library](https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/)
 * [lit: The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.](https://github.com/pair-code/lit/)
+* live caption [구글 크롬, Live Caption 기능 공개 | GeekNews](https://news.hada.io/topic?id=3919)
 * Mecab
   * [Taku Kudo - Mecab developer](http://chasen.org/~taku/index.html.en)
   * [mecab-ko 윈도우에서 빌드하기](http://legendfinger.tistory.com/625)
@@ -1076,6 +1079,7 @@ NLP
 
 ## Library Python
 * [**13 Deep Learning Frameworks for Natural Language Processing in Python**](https://medium.com/@datamonsters/13-deep-learning-frameworks-for-natural-language-processing-in-python-2b84a6b6cd98)
+* [자연어 처리(NLP)가 필요하다면?··· 추천 파이썬 라이브러리 8종 - CIO Korea](https://www.ciokorea.com/news/187313) CoreNLP Gensim NLTK Pattern Polyglot PyNLPI SpaCy TextBlob
 * [Annoy (Approximate Nearest Neighbors Oh Yeah) - a C++ library with Python bindings to search for points in space that are close to a given query point](https://github.com/spotify/annoy)
   * [Approximate nearest neighbor methods and vector models – NYC ML meetup](http://www.slideshare.net/erikbern/approximate-nearest-neighbor-methods-and-vector-models-nyc-ml-meetup)
   * [Approximate Nearest Neighbors](https://brunch.co.kr/@goodvc78/15)
