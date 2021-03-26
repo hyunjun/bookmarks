@@ -319,6 +319,7 @@ Open Source
   * [github.com/uber/AthenaX](https://github.com/uber/AthenaX)
   * SQL 기반의 스트리밍 분석 플랫폼(KSQL에 비견)
 * [deck.gl - a WebGL-powered framework for visual exploratory data analysis of large datasets](https://uber.github.io/deck.gl/)
+* Gairos [Causal design patterns for data analysts | Emily Riederer](https://emilyriederer.netlify.app/post/causal-design-patterns/)
 * [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/) 지형 공간 데이터를 시각화 탐색을 용이하도록 하기 위해 개발한 오픈 소스 그리드 시스템
 * Neuropod [Uber Open-Sources AI Abstraction Layer Neuropod](https://www.infoq.com/news/2020/06/uber-ai-neuropod/)
 * [piranha: A tool for refactoring code related to feature flag APIs](https://github.com/uber/piranha/)
