@@ -53,6 +53,7 @@ Bitcoin
 * [Bitcoin From Scratch - Part 1](https://monokh.com/posts/bitcoin-from-scratch-part-1)
 * [Ray Dalio와 비트코인. Ray Dalio가 드디어 비트코인에 대한 생각을 공식적으로 밝혔다. | by 허진호 (Jin Ho Hur) | Jan, 2021 | Medium](https://hur.medium.com/ray-dalio%EC%99%80-%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-9af7d8066907)
 * [NFT, social token. 그리고, Creator Economy에서의 새로운 기회 | by 허진호 (Jin Ho Hur) | Mar, 2021 | Medium](https://hur.medium.com/nft-social-token-%EA%B7%B8%EB%A6%AC%EA%B3%A0-creator-economy%EC%97%90%EC%84%9C%EC%9D%98-%EA%B8%B0%ED%9A%8C-f8a6bf6d7a0)
+* [• Bitcoin vs. VISA energy consumption 2021 | Statista](https://www.statista.com/statistics/881541/bitcoin-energy-consumption-transaction-comparison-visa/)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
@@ -151,6 +152,7 @@ Bitcoin
 * [이더리움과 Eclipse attack](http://blog.seulgi.kim/2018/03/ethereum-eclipse-attack.html)
 * [이더리움 샤딩](https://blog.seulgi.kim/2018/04/ethereum-sharding.html)
 * [Onther DevCon 1 - Etherum 2.0 개요](http://mobicon.tistory.com/551)
+* [Mining Ethereum on M1 Mac GPU – Yifan Gu's Blog](https://blog.yifangu.com/2021/02/26/mining-ethereum-on-a-m1-mac-gpu/)
 * [GETH를 이용하여 private network 구축하기](https://blog.naver.com/pjt3591oo/222246052626)
 * [Ethereum](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180904_JM_Blockchain_03.md)
 * [PublicVotes - A publicly verifiable Voting System, powered by Smart Contracts](http://publicvotes.org/)
