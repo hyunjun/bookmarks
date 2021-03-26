@@ -26,3 +26,4 @@ Life
 * [저축보험을 하지 말아야할 이유 : 10년 장마저축보험의 결과는?](http://financialfreedom.kr/803)
 * ['연금보험의 배신'을 위한 시리즈 (1) - 공부하자, 저축보험의 실체](http://financialfreedom.kr/951)
 * ['연금보험의 배신'을 위한 시리즈 (2) - 세액공제 연금저축보험보다 좋은 것](http://financialfreedom.kr/952)
+* [절대 싸인해서는 안되는 보험서류 | 유머 게시판 | 루리웹 l RULIWEB](https://bbs.ruliweb.com/best/board/300143/read/51117916)
