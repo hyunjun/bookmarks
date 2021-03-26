@@ -739,6 +739,7 @@ Interview
 * [itresumeservice.com](http://www.itresumeservice.com/)
 * [latexresu.me](https://latexresu.me/)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
+* Resume.io [Create Your Job-winning Resume - (Free) Resume maker · Resume.io](https://resume.io/)
 * [rleonardi.com/interactive-resume](http://www.rleonardi.com/interactive-resume/)
 * [stackshare.io - Discover & discuss the best software tools & services](https://stackshare.io/) icons
   * [awesome-stacks - A curated list of tech stacks for building different applications & features https://awesomestacks.dev ](https://github.com/stackshareio/awesome-stacks)
