@@ -243,6 +243,7 @@ Apache
 * [2021 Apache Flink Meetup - Hosted by Netflix - YouTube](https://www.youtube.com/watch?v=rtz3p_iijP8)
 * [Flink setup for development (and some IntelliJ Idea cool tricks)](https://www.galiglobal.com/blog/2021/20210130-Flink-setup.html)
 * [Flink Concept - Operator 간 데이터 교환 | DevLog](https://leeyh0216.github.io/2021-03-25/flink_output)
+* [Flink Concept - Checkpointing(1) | DevLog](https://leeyh0216.github.io/2021-03-01/flink_checkpoint_1)
 * [flink_feature_radar.svg at feature_radar · StephanEwen/flink-web](https://github.com/StephanEwen/flink-web/blob/feature_radar/img/flink_feature_radar.svg) flink에서 제거/추가될 기능들
 * HRFS [On-demand low-latency feature generation at Hyperconnect - YouTube](https://www.youtube.com/watch?v=jujAAaMQdF4)
 
