@@ -80,6 +80,7 @@ Graph
   * [보험사기 잡아내는 법 (feat.그래프 모델링, 데이터 시각화)](https://bitnine.tistory.com/403)
   * [기고 그래프 기술의 가치…표현, 발견 그리고 추론](https://bitnine.tistory.com/407)
   * [AgensGraph Use Case: 제조 데이터 이력관리 시스템 구축](https://bitnine.tistory.com/448)
+  * [그래프 모델링으로 알아보는 FDS](https://bitnine.tistory.com/453)
 * [Apache Jena](http://jena.apache.org)
 * [BigData](http://www.mediaoptions.com/brokered-domains/bigdata-com)
 * [InfiniteGraph](http://www.objectivity.com/)
