@@ -1070,6 +1070,7 @@ Programming
 * [From vm to container to serverless](https://www.slideshare.net/welkaim/from-vm-to-container-to-serverless)
 * [A journey into serverless Tools and processes for serverless in production](https://medium.com/moonshot-internet/a-journey-into-serverless-af23e22e08b1)
 * [4세대 애플리케이션 모델을 이끄는 클라이언트-서버리스 탐구 - ITWorld Korea](http://www.itworld.co.kr/news/157112#csidx3bf62c38cae77a08af91eb13b34863c)
+* [Serverless – Engineers @ The LEGO Group](https://medium.com/lego-engineering/tagged/serverless)
 * [Seasons-of-Serverless: Repository responsible for the challenges in Seasons of Serverless 2020](https://github.com/microsoft/Seasons-of-Serverless)
 
 # Benchmark
