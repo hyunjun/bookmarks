@@ -357,6 +357,7 @@ C++
 * [Urho3D - Cross-platform 2D and 3D game engine, HTML5 samples](http://urho3d.github.io/HTML5-samples.html)
 * [Zapcc: a faster C++ compiler](http://www.zapcc.com/)
 * [zertcore5 - C++11 Server framework provides many exciting features!](https://github.com/warriorguo/zertcore5)
+* [ZLUDA: CUDA on Intel GPUs](https://github.com/vosen/ZLUDA)
 
 ## Library Allocator
 * [Giving a C++ compiler operators new and delete at build time is better than simply replacing malloc and free with the dynamic loader](https://docs.google.com/document/d/e/2PACX-1vTJmRADDPyybMjBxQ5r-PHEdHQWoOW-Wk87IVoT_EvFv9B5Ks3Mjuk8IXIDYPKFvWW6ezsl9PSZ1JbF/pub)
