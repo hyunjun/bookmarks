@@ -296,9 +296,11 @@ Scala
   * [Mutability in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=js3xtPNlMgo)
 * [Many happy early returns – Making the matrix](https://makingthematrix.wordpress.com/2021/03/09/many-happy-early-returns/)
 * [Scala on Android – Making the matrix](https://makingthematrix.wordpress.com/2021/03/17/scala-on-android/)
+* [Why Scala (still) hasn't missed the Android opportunity](https://www.scalawilliam.com/scala-android-opportunity/)
 * [JDK 16's Top 5 for Scala](https://www.scalawilliam.com/jdk16-scala-top5/)
 * [THE most important programming concept explained in 35 seconds. - YouTube](https://www.youtube.com/watch?v=7_cqmqPGLhM)
 * [Extreme Cleverness: Functional Data Structures in Scala - Daniel Spiewak - YouTube](https://www.youtube.com/watch?v=pNhBQJN44YQ)
+* [Scala is a Maintenance Nightmare - MungingData](https://mungingdata.com/scala/maintenance-nightmare-upgrade/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -881,7 +883,9 @@ Scala
       * [Effective testing with ZIO Test](https://scala.monster/zio-test/)
       * [Running Postgres integration tests easily with TestContainers and ZIO Test | In Absentia](https://hmemcpy.com/2020/10/running-postgres-integration-tests-easily-with-testcontainers-and-zio-test/)
     * [ZIO World](https://zioworld.com/)
+      * [#zioworld - YouTube](https://www.youtube.com/hashtag/zioworld)
       * [ZIO World - ZIO HTTP - YouTube](https://www.youtube.com/watch?v=dVggks9_1Qk)
+      * [Introducing ZIO Http. Introducing ZIO Http | by Tushar Mathur | Mar, 2021 | Dream11 Engineering](https://blog.dream11engineering.com/introducing-zio-http-2b66bb036fdc)
       * [ZIO World - ZIO Kafka - YouTube](https://www.youtube.com/watch?v=GECv1ONieLw)
       * [ZIO WORLD - ZIO SQL - YouTube](https://www.youtube.com/watch?v=cIMA6iT9B-k)
     * ZLayer
@@ -1577,6 +1581,7 @@ Scala
 * [Scala 3 - TF related improvements (mostly #implicits) - YouTube](https://www.youtube.com/watch?v=0MPfFBctWUc)
 * [Upgrade your Tagless Final with Tofu - I'm Pavels, welcome!](https://scala.monster/train-station-tofu/)
 * [The Death of Tagless Final by John A. De Goes - YouTube](https://www.youtube.com/watch?v=p98W4bUtbO8)
+* [The Tagless Final Pattern in Scala | Baeldung on Scala](https://www.baeldung.com/scala/tagless-final-pattern)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
@@ -1703,6 +1708,7 @@ Scala
 * [Ep 4: Scala 3 type classes - YouTube](https://www.youtube.com/watch?v=B2mTHpxw9JI)
 * [Scala 3: Path-Dependent Types, Type Projections, Dependent Methods and Functions - Rock the JVM Blog](https://blog.rockthejvm.com/scala-3-dependent-types/)
 * [Implementing Type classes in Scala 3 | by ayush mittal | Dec, 2020 | Medium](https://ayushm4489.medium.com/implementing-type-classes-in-scala-3-13c5ab38b91d)
+* [Automatic UI generation with Scala 3's type class derivation | kavedaa programming blog](https://kavedaa.github.io/auto-ui-generation/auto-ui-generation.html)
 * [Scala 3: Dependent Types, Part I. Scala 3 expands on the type-level… | by Dean Wampler | Scala 3 | Jan, 2021 | Medium](https://medium.com/scala-3/scala-3-dependent-types-part-i-273e9076e8f8)
 * [Scala 3: Dependent Types, Part II | by Dean Wampler | Scala 3 | Jan, 2021 | Medium](https://medium.com/scala-3/scala-3-dependent-types-part-ii-e7fc04dbfb08)
 * [Scala 3 Metaprogramming by Example by Adam Warski - YouTube](https://www.youtube.com/watch?v=leIB5tvDY64)
@@ -1749,6 +1755,7 @@ Scala
   * [Jon Pretty - The Future of Scala](https://www.youtube.com/watch?v=KEhGfpRpSOg)
   * [Jon Pretty — Fast and Furious - YouTube](https://www.youtube.com/watch?v=4HVySqElcnI)
   * [Justin Kaeser—Integrating Developer Experiences - YouTube](https://www.youtube.com/watch?v=lncUc4oHwxg)
+* [Scala3-migrate: a tool making it easier to migrate to Scala 3 - Scala 3 Release Projects - Scala Contributors](https://contributors.scala-lang.org/t/scala3-migrate-a-tool-making-it-easier-to-migrate-to-scala-3/4446/2)
 * [scodec: Scala combinator library for working with binary data](https://github.com/scodec/scodec)
   * [YOW! Lambda Jam 2020 - Michael Pilquist - Scodec for Scala 3 - YouTube](https://www.youtube.com/watch?v=2eTwf78FJmc)
 
