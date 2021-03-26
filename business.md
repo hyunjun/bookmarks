@@ -238,6 +238,7 @@ Business
 * [(개발자 영어 #4) 개발 관련 질문과 대답 방법](https://jhrogue.blogspot.com/2020/10/4.html)
 * [김게, 그리고 넓게](https://brunch.co.kr/@hyungsukkim/95) 일하는 방법에 대한 이야기
 * [CTO는 무슨 일을 하나?](http://www.mimul.com/pebble/default/2018/01/23/1516704882980.html)
+* [**awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups**](https://github.com/kuchin/awesome-cto)
 * [희생 vs 헌신](http://www.andrewahn.co/silicon-valley/sacrifice-vs-dedication/)
 * [전략 기획자의 책 1](https://brunch.co.kr/@lunarshore/292)
 * [전략 기획자의 책 2](https://brunch.co.kr/@lunarshore/293)
@@ -251,6 +252,7 @@ Business
 * [신년기념, 도그냥 무료 인강 풉니다](https://brunch.co.kr/@windydog/415)
 * [서비스기획자가 UI,UX만큼 공부해야 하는 것](https://brunch.co.kr/@windydog/413)
 * [토이리즘 SP표로 분석한 '클럽하우스'의 인기요인](https://brunch.co.kr/@windydog/431) 기획자의 서비스 분석
+* [왜 그는 데이터를 보게 되었는가?. 개인적인 관점임을 전제하고, 요즘은 IT 기획자로서 살아간다는 것이… | by Ghost_0503 | Mar, 2021 | Medium](https://nep-kim.medium.com/%EC%99%9C-%EA%B7%B8%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%B3%B4%EA%B2%8C-%EB%90%98%EC%97%88%EB%8A%94%EA%B0%80-87091b491251)
 * [신규 앱기획, 뭘 알아야 시작한다고?](https://brunch.co.kr/@windydog/440)
 * [케이스 스터디 어떻게 할 것인가](https://brunch.co.kr/@lunarshore/409) 기획
 * [휴대전화번호가 최악의 회원가입 수단인 이유: 클럽하우스 사례](https://gilhwan.com/entry/%ED%9C%B4%EB%8C%80%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80-%EC%B5%9C%EC%95%85%EC%9D%98-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EC%88%98%EB%8B%A8%EC%9D%B8-%EC%9D%B4%EC%9C%A0)
@@ -655,6 +657,8 @@ Business
 * [진정성과 스타트업 (번역) – 이바닥늬우스](https://ebadak.news/2020/12/14/earnest/)
 * [VC가 알려주는 스타트업 투자 유치 전략 197p PDF | GeekNews](https://news.hada.io/topic?id=3798)
 * [Kihong Bae - YouTube](https://www.youtube.com/user/khbae/videos)
+* [탈중개화 현상](https://www.thestartupbible.com/2017/08/how-to-prevent-or-minimize-disintermediation-for-marketplaces.html)
+* [스타트업의 첫 이사회 보고용 PPT 템플릿 | GeekNews](https://news.hada.io/topic?id=3893)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
