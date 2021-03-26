@@ -75,6 +75,7 @@ House
 * [아파트(부동산) 매입시 셀프등기 1](https://sieg0610.tistory.com/28)
 * [아파트(부동산) 매입시 셀프등기 2](https://sieg0610.tistory.com/29)
 * [이사 체크리스트](https://dkdlel072.tistory.com/entry/%EC%9D%B4%EC%82%AC-%EC%B2%B4%ED%81%AC%EB%A6%AC%EC%8A%A4%ED%8A%B8)
+* [내 연소득으로 살 수 있는 아파트, 어디에 있을까? (+중소기업 신입이 서울에 아파트를 사려면 몇년이 걸릴까?) – SPH](https://www.sphinfo.com/gis-house/)
 
 # Library
 * [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)
