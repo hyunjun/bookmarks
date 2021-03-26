@@ -7,6 +7,7 @@ Data Science
 * [리다, 기업을 위한 데이터과학 강의 공개](http://www.bloter.net/archives/250844)
 * [데이터과학에 입문하고 싶다면, 이곳부터](http://www.bloter.net/archives/240224)
 * [데이터과학을 시작할 때 도움되는 것들](http://ppss.kr/archives/122147)
+* [데이터 사이언스의 학습 로드맵 (번역) – 이바닥늬우스](https://ebadak.news/2021/03/20/data-science-learning-roadmap/)
 * [헬로 데이터 과학- 헬로 데이터 과학당신의 삶과 업무를 바꾸는 데이터 과학 (데이터 사이언스)](http://www.hellodatascience.com/)
   * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
   * [온라인 서비스 개선을 데이터 활용법 (How We Use Data 발표)](http://www.hellodatascience.com/?p=690)
@@ -332,6 +333,10 @@ Data Science
 * [The Future of Data Engineering](https://www.infoq.com/articles/future-data-engineering-riccomini/)
 * [🗃개발에 필요한 데이터 구하기 #fetch - YouTube](https://www.youtube.com/watch?v=qgbxTPMlWIw)
 * [좋은 분석환경은 공짜가 아니다](https://brunch.co.kr/@leoyang99/37)
+* [Causal design patterns for data analysts | Emily Riederer](https://emilyriederer.netlify.app/post/causal-design-patterns/)
+* [1부: 스타벅스 DT 소셜 데이터를 이용한 감성분석 – SPH](https://www.sphinfo.com/starbucksdt/)
+* [머신러닝 비지도학습으로 찾은 최적의 스타벅스 DT, TOP 4 ! – SPH](https://www.sphinfo.com/starbucksdt-ml2/)
+* [머신러닝 지도학습을 통해서 꼽아본 최적의 스타벅스 DT 장소!? – SPH](https://www.sphinfo.com/starbucksdt-ml3/)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
