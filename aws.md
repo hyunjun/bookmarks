@@ -37,12 +37,6 @@ AWS
 * [IAM의Policy에대해서](https://dev.classmethod.jp/articles/iam-3/)
 * [IAM에서 태그를 이용해서 Role Switch 해보기](https://dev.classmethod.jp/articles/iam/)
 * [iamlive: Generate a basic IAM policy from AWS client-side monitoring (CSM)](https://github.com/iann0036/iamlive)
-* [ECS를 시작하기전 알았으면 좋았을 것들 — 1. 용어 설명](https://medium.com/@herryhan2435/ecs%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84-%EA%B2%83%EB%93%A4-1-%EC%9A%A9%EC%96%B4-%EC%84%A4%EB%AA%85-92dbfb9d59f7)
-* [아마존 엘라스틱 컨테이너 서비스(ECS) 입문 - 도커(Docker) 컨테이너 오케스트레이션](https://www.44bits.io/ko/post/container-orchestration-101-with-docker-and-aws-elastic-container-service)
-* [ECS (Elastic Container Service)](https://github.com/sangyeol-kim/ausg-docker-seminar/blob/master/3.AWS_ECS)
-* [플레이오토 ECS 사용사례](https://www.slideshare.net/JaeSeongLee19/ecs-134788675)
-* [Elastic Container Service - 기본 개념](https://jybaek.tistory.com/903) ECS
-* [ECS container 안에 defunct 처리](https://jybaek.tistory.com/909)
 * [jungle - AWS operations by cli should be simpler](https://github.com/achiku/jungle)
 * [알파 유저를 위한 AWS 스터디 자료](http://channy.creation.net/blog/1082)
 * [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
@@ -205,7 +199,6 @@ AWS
 * [How to train custom Word Embeddings using GPU on AWS](https://towardsdatascience.com/how-to-train-custom-word-embeddings-using-gpu-on-aws-f62727a1e3f6)
 * [해외 오피스를 위한 Amazon Workspaces와 Amazon Workdocs 구축 경험기](https://docs.google.com/presentation/d/13LNYqyPzYSDpf3AXRTSOAtXHqjTzuC8Cn8l74GtnuqY/edit#slide=id.p1)
 * [Rancher 기본 입문](https://www.slideshare.net/HyunminKim5/awskrug-rancher)
-* [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
 * [A Beginner's Guide To Scaling To 11 Million+ Users On Amazon's AWS](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
 * [AWS #architecture 소모임 10회 결산](https://www.slideshare.net/addnull/20180531-hb-smith-10th-aws-architecture)
 * 텔레그램 & AWS 서비스 연동하기
@@ -347,7 +340,7 @@ AWS
 * [**AWS Multi-Region 멀티 리전 실습 가이드**](https://www.notion.so/AWS-Multi-Region-3f9033d05dcf41f4a4d14ae5bbc2cc98)
 * [아마존닷컴처럼 Amazon Forecast로 시계열 예측하기 - 강지양 솔루션즈 아키텍트(AWS ), 강태욱 매니저(GSSHOP)](https://www.youtube.com/watch?v=4MuVRFQVx8Y)
 * [EC2, Fargate 약정 할인 AWS Savings Plans 발표 예약 인스턴스(RI)를 대체할 약정 할인 방식](https://www.44bits.io/ko/post/aws-introducing-savings-plans)
-* [아마존 ECS(Elastic Container Service)를 간단히 모니터링하고 분석하는 방법 #Fargate #ECS](https://blog.naver.com/olpaemi/222260133555)
+* [Elastic Container Service - 용어 정리](https://jybaek.tistory.com/910)
 * [Service Catalog Part 1](https://zigispace.net/1056)
 * [데이터가 모든 것을 지배하는 곳, 아마존닷컴](https://ppss.kr/archives/207228)
 * [Three ways to reduce the costs of your HTTP(S) API on AWS](https://gameanalytics.com/blog/reduce-costs-https-api-aws.html)
@@ -634,6 +627,27 @@ AWS
 * [aws ec2 nvme disk 의 device 위치 변경을 고정 시키기 - Cloud](https://vitta.tistory.com/62)
 * [🚚초간단 단독 EC2 서버 배포하는 법, #alias #nojenkins - YouTube](https://www.youtube.com/watch?v=iqd_aWzhtnc)
 
+# ECS Elastic Container Service
+* [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
+* [ECS를 시작하기전 알았으면 좋았을 것들 — 1. 용어 설명](https://medium.com/@herryhan2435/ecs%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EC%A0%84-%EC%95%8C%EC%95%98%EC%9C%BC%EB%A9%B4-%EC%A2%8B%EC%95%98%EC%9D%84-%EA%B2%83%EB%93%A4-1-%EC%9A%A9%EC%96%B4-%EC%84%A4%EB%AA%85-92dbfb9d59f7)
+* [아마존 엘라스틱 컨테이너 서비스(ECS) 입문 - 도커(Docker) 컨테이너 오케스트레이션](https://www.44bits.io/ko/post/container-orchestration-101-with-docker-and-aws-elastic-container-service)
+* [ECS (Elastic Container Service)](https://github.com/sangyeol-kim/ausg-docker-seminar/blob/master/3.AWS_ECS)
+* [플레이오토 ECS 사용사례](https://www.slideshare.net/JaeSeongLee19/ecs-134788675)
+* [Elastic Container Service - 기본 개념](https://jybaek.tistory.com/903) ECS
+* [ECS container 안에 defunct 처리](https://jybaek.tistory.com/909)
+
+## ECS Fargate
+* [아마존 ECS(Elastic Container Service)를 간단히 모니터링하고 분석하는 방법 #Fargate #ECS](https://blog.naver.com/olpaemi/222260133555)
+* [ECS의 매니지드 컨테이너 AWS 파게이트 시작하기](https://www.44bits.io/ko/post/getting-started-with-ecs-fargate)
+* [AWS 파게이트 가격 30%-50% 인하 발표 vCPU 20%, 메모리 65% 인하. 서울 리전을 포함해 1월 7일부터 적용](https://www.44bits.io/ko/post/news--fargate-significant-price-cuts)
+* [ECS-CLI로 서울리전 Fargate 만들어보기](https://medium.com/harrythegreat/ecs-cli%EB%A1%9C-%EC%84%9C%EC%9A%B8%EB%A6%AC%EC%A0%84-fargate-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-bcf72a6595ad)
+* [Fargate를 이용한 ECS with VPC 1부](https://www.slideshare.net/HyunMookChoi/fargate-ecs-with-vpc-1)
+* [**ECS를 이용한 Serverless Batch 서버 travis ci + ECS를 이용한 Batch서버 효율화**](https://medium.com/myrealtrip-product/ecs%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-serverless-%EB%B0%B0%EC%B9%98-%EC%84%9C%EB%B2%84-63421bf55e67) Docker image Travis CI -> ECR -> Fargate
+* [AWS - ECS fargate 예제](https://zigispace.net/1076)
+* [AWS ECS에서 force-new-deployment가 제대로 되지 않을 때 - Nephtyw’S Programming Stash](https://nephtyws.github.io/devops/ecs-force-new-deployment/)
+* [How to configure IAM roles for Fargate Tasks on AWS](https://towardsdatascience.com/how-to-configure-iam-roles-for-fargate-tasks-on-aws-76ad54f11314)
+* [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
+
 # EKS
 * [awesome-eks | A curated list of awesome tools for Amazon EKS](https://realvz.github.io/awesome-eks/)
 * [서비스 중단 없이 Amazon EKS로 옮긴 이야기](http://engineering.vcnc.co.kr/2019/02/eks-migration/)
@@ -661,17 +675,6 @@ AWS
 * [Apache Airflow, Genie 및 Amazon EMR을 통한 빅데이터 워크플로 오케스트레이션 – 2부](https://aws.amazon.com/ko/blogs/korea/orchestrate-big-data-workflows-with-apache-airflow-genie-and-amazon-emr-part-2/)
 * [AWS EMR과 Airflow를 이용한 Batch Data Processing | by Min Jo | 101-devs | Aug, 2020 | Medium](https://medium.com/class101-dev/aws-emr%EA%B3%BC-airflow%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-batch-data-processing-a100fc2f4f10)
 * [입 개발 EMR에서는 sc.addFile, Databricks에서는 그냥 dbfs 폴더를 이용하자. | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/25/%ec%9e%85-%ea%b0%9c%eb%b0%9c-emr%ec%97%90%ec%84%9c%eb%8a%94-sc-addfile-databricks%ec%97%90%ec%84%9c%eb%8a%94-%ea%b7%b8%eb%83%a5-dbfs-%ed%8f%b4%eb%8d%94%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%98%ec%9e%90/)
-
-# Fargate
-* [ECS의 매니지드 컨테이너 AWS 파게이트 시작하기](https://www.44bits.io/ko/post/getting-started-with-ecs-fargate)
-* [AWS 파게이트 가격 30%-50% 인하 발표 vCPU 20%, 메모리 65% 인하. 서울 리전을 포함해 1월 7일부터 적용](https://www.44bits.io/ko/post/news--fargate-significant-price-cuts)
-* [ECS-CLI로 서울리전 Fargate 만들어보기](https://medium.com/harrythegreat/ecs-cli%EB%A1%9C-%EC%84%9C%EC%9A%B8%EB%A6%AC%EC%A0%84-fargate-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-bcf72a6595ad)
-* [Fargate를 이용한 ECS with VPC 1부](https://www.slideshare.net/HyunMookChoi/fargate-ecs-with-vpc-1)
-* [**ECS를 이용한 Serverless Batch 서버 travis ci + ECS를 이용한 Batch서버 효율화**](https://medium.com/myrealtrip-product/ecs%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-serverless-%EB%B0%B0%EC%B9%98-%EC%84%9C%EB%B2%84-63421bf55e67) Docker image Travis CI -> ECR -> Fargate
-* [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
-* [AWS - ECS fargate 예제](https://zigispace.net/1076)
-* [AWS ECS에서 force-new-deployment가 제대로 되지 않을 때 - Nephtyw’S Programming Stash](https://nephtyws.github.io/devops/ecs-force-new-deployment/)
-* [How to configure IAM roles for Fargate Tasks on AWS](https://towardsdatascience.com/how-to-configure-iam-roles-for-fargate-tasks-on-aws-76ad54f11314)
 
 # Lambda
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
