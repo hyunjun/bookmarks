@@ -734,6 +734,7 @@ App
     * [OBS Studio - OBS 스튜디오 가이드 - StreamLabs.kr](https://streamlabs.kr/obs-studio-guide/)
     * [영상제작 obs에서 발표용 화면 구성하기 - YouTube](https://www.youtube.com/watch?v=iVIRYY9TO0k)
     * [네이버 클라우드 플랫폼의 Live Station과 OBS로 온라인 행사 운영하기](https://blog.openinfradays.kr/share/2020/12/28/online-conference-with-obs.html)
+    * [원하는 특정 프로그램들의 소리만 방송(OBS).. : 네이버블로그](https://blog.naver.com/eternalguard/221550777714)
   6. [나트론 Natron](https://natrongithub.github.io)
     * 오픈 소스 노드 기반 합성 프로그램. 오픈 소스 및 상용 OpenFX 플러그인 지원. 다양한 VFX 이펙트를 만들거나 여러 영상을 노드 형식으로 합성 가능
   7. [잉크스케이프 Inkscape](https://inkscape.org/ko)
@@ -1516,6 +1517,7 @@ App
   * [Announcing Ubuntu on Windows Community Preview - WSL2 - Ubuntu Community Hub](https://discourse.ubuntu.com/t/announcing-ubuntu-on-windows-community-preview/19789)
   * [Blizzard Diablo IV debugs Linux core dumps from Visual Studio | C++ Team Blog](https://devblogs.microsoft.com/cppblog/blizzard-diablo-iv-debugs-linux-core-dumps-from-visual-studio/) GDB를 WSL에서 동작시키고, Visual Studio를 front로 사용
   * [**WSL2 기반 docker 사용시 vmmem 프로세스 메모리 소모량 줄이기**](https://meaownworld.tistory.com/160)
+  * [WSL-Hello-sudo: Let's sudo by face recognition of Windows Hello on Windows Subsystem for Linux (WSL). It runs on both WSL 1 and WSL 2. This is a PAM module for Linux on WSL](https://github.com/nullpo-head/WSL-Hello-sudo)
 * xLogWnd [디버깅 로그툴 xLogWnd : 클리앙](https://www.clien.net/service/board/pds/15729575)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [X server 4 Windows 10](https://x410.dev/)
