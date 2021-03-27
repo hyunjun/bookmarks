@@ -108,3 +108,4 @@ PHP
 * [opentutorials.org PHP](https://opentutorials.org/module/6)
 * [PHP 7 — Getting Started and OOP Improvements](https://www.infoq.com/articles/php7-getting-started/)
 * [PHP - The Wrong Way](https://phpthewrongway.com/)
+* [Learn PHP - Free Interactive PHP Tutorial](https://www.learn-php.org/)
