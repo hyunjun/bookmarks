@@ -132,6 +132,7 @@
 * [Rust for Clojurists](https://gist.github.com/oakes/4af1023b6c5162c6f8f0)
 * rustup [Rust 크로스 컴파일 방법](https://happygrammer.github.io/rust/problem/cross-compile/)
 * [Calling .NET APIs from Rust](https://ericsink.com/entries/lousygrep.html)
+* [Speed of Rust vs C](https://kornel.ski/rust-c-speed)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
@@ -158,6 +159,7 @@
 * [Why Discord is switching from Go to Rust](https://blog.discordapp.com/why-discord-is-switching-from-go-to-rust-a190bbca2b1f)
 * [Go vs Rust: Writing a CLI tool | by Paulo Cuchi @ Magrathea | Magrathea](https://blog.magrathealabs.com/go-vs-rust-writing-a-cli-tool-231accadcc88)
 * [Comparison between Java, Go, and Rust | by Dexter Darwich | Medium](https://medium.com/@dexterdarwich/comparison-between-java-go-and-rust-fdb21bd5fb7c)
+* ["러스트"와 "고"를 선택하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/186713)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
