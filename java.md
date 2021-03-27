@@ -1249,6 +1249,7 @@ Java
   * [Announcing Spring Native Beta!](https://spring.io/blog/2021/03/11/announcing-spring-native-beta)
   * [native](https://okdevtv.com/mib/spring/native)
   * [스프링 네이티브 따라하기 #mac #aws? - YouTube](https://www.youtube.com/watch?v=cLMvvOHo3aw)
+  * [Convert Spring Boot Apps to GraalVM with Spring Native Beta](https://www.infoq.com/news/2021/03/spring-native-beta-available/)
 * [thymeleaf](https://okdevtv.com/mib/spring/thymeleaf)
   * [Thymeleaf 시작하기 - YouTube](https://www.youtube.com/watch?v=tiRi6PLVesY)
   * [7. Spring Thymeleaf 적용해보기](https://kim-jong-hyun.tistory.com/18)
