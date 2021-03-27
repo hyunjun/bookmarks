@@ -94,6 +94,7 @@ iOS
 * [Bazel로 LINE의 iOS 앱 빌드 속도를 2배 빠르게! - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/improving-build-performance-line-ios-bazel/)
 * [접근성 지원, 개발자의 빠른 성장을 도와줍니다. - Dev Story of Sungdoo](https://sungdoo.dev/retrospective-or-psa/how-accessibility-nudges-you-to-be-better-developer/)
 * [“대구 사람들은 우리 앱을 못 쓴대요”라는 버그의 심각성은? - Dev Story of Sungdoo](https://sungdoo.dev/retrospective-or-psa/severity-of-bug-that-blocks-people-from-daegue)
+* [How Uber Deals with Large iOS App Size | Uber Engineering Blog](https://eng.uber.com/how-uber-deals-with-large-ios-app-size/)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
@@ -441,6 +442,7 @@ iOS
   * [Swift Framework 에서 C 라이브러리 사용](https://brunch.co.kr/@tilltue/60)
 * [Fix Bugs in Your Swift Code. Squash those critters | by Steven Curtis | Medium](https://stevenpcurtis.medium.com/fix-bugs-in-your-swift-code-e9d53bc11883)
 * [알아두면 쓸모 있는 Swift의 기능들 - 우아한형제들 기술 블로그](https://woowabros.github.io/swift/2021/02/18/swift-dynamic-features.html)
+* [SwiftPM Swift Package - ProcessInfo Environment 기반 빌드 환경설정](https://minsone.github.io/programming/processInfo-environment-based-build-configutation-swift-package)
 
 ## Library Swift
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
