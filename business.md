@@ -555,6 +555,7 @@ Business
 * [Book OKR - 전설적인 벤처투자자가 구글에 전해준 성공 방식 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1525)
 * [CPO가 활용하는 프레임워크 5가지](https://brunch.co.kr/@yongjinjinipln/83) Goals-Signals-Metrics (GSM), KPI Graphs, HEART, HOSKR, OKRs
 * [**평가방법 OKR, KPI, MBO 뭐가 다른거에요?**](https://brunch.co.kr/@ywkim36/41)
+* [OKR과 조직문화: OKR이 현장에서 실패하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220905)
 
 # Patent
 * 세기의 특허전쟁
