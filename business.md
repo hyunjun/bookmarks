@@ -461,6 +461,7 @@ Business
 * [초보 개발 팀장의 1년 회고: 좋은 팀장이 되기 위한 노력들 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220080)
 * [개발자 비급(祕笈) – 4. 팀장이 아니지만 괜찮아 :: Channy's Blog](http://channy.creation.net/blog/1399)
 * [Should you choose a Tech Lead or Engineering Manager Role? 정리](https://ugong2san.tistory.com/1891)
+* [The 5 Common Mistakes Of New Engineering Managers - Ochronus online](https://ochronus.online/the-5-common-mistakes-of-new-engineering-managers/)
 * [팀장이 된다는 것](https://www.folin.co/book/1063)
 * [독서광 구글의 아침은 자유가 시작된다](http://jhrogue.blogspot.com/2018/11/blog-post.html)
 * [**테크니컬 리더십: 시작하기**](http://leafbird.github.io/devnote/2018/11/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%A6%AC%EB%8D%94%EC%8B%AD-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
