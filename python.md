@@ -498,7 +498,9 @@ Python
 * [내 코드를 우아하게 만드는 파이썬 꿀팁 😮](https://sjquant.tistory.com/58) f-string, tuple, zip, enumerate, list comprehension, unpacking operators(`*`, `**`), dictionary, product
 * [Handy Python Snippets for Cleaner Code | by Tate Galbraith | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/handy-python-snippets-for-cleaner-code-a1e2c5d39a0d)
 * [11 Python Built-in Functions You Should Know | by Christopher Tao | Feb, 2021 | Towards Data Science](https://towardsdatascience.com/11-python-built-in-functions-you-should-know-877a2c2139db)
+* [파이썬 3.10의 새 '패턴 매칭'이 할 수 있는 일 - CIO Korea](https://www.ciokorea.com/news/185423)
 * [파이썬의 패턴 매칭 도입에 얽힌 이야기 - Morgenrøde](https://ryanking13.github.io/2021/03/04/python-patma.html)
+* [파이썬의 패턴 매칭 도입에 얽힌 이야기 | GeekNews](https://news.hada.io/topic?id=3848)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -618,7 +620,8 @@ Python
   * `datetime.datetime.now().date().isoformat()` insert into MySQL date type
   * [주차를 알고 싶을 땐 isocalendar](http://jiniya.net/ng/2017/11/isocalendar/)
   * [elapsed time in milliseconds](https://stackoverflow.com/questions/766335/python-speed-testing-time-difference-milliseconds)
-  * [Arrow: better dates and times for Python](http://arrow.readthedocs.io/)
+  * [arrow: Better dates & times for Python](https://github.com/arrow-py/arrow)
+    * [Arrow: better dates and times for Python](http://arrow.readthedocs.io/)
   * [파이썬의 시간대(datetime.timezone)에 대해 알아보기](https://spoqa.github.io/2019/02/15/python-timezone.html)
   * [Python UTC -6 to KST (UTC +9)](https://blog.kimkevin.net/python-utc-to-kst/)
   * [Parsing and Formatting Dates in Python With Datetime](https://www.youtube.com/watch?v=zY02utxcauo)
@@ -1259,6 +1262,8 @@ Python
     * [Measure the Real Size of Any Python Object](https://goshippo.com/blog/measure-real-size-any-python-object/)
   * stdin
     * [sys.stdin does not close on ctrl-d](http://stackoverflow.com/questions/15666923/sys-stdin-does-not-close-on-ctrl-d)
+* tarfile
+  * [Why are tar.xz files 15x smaller when using Python's tar library compared to macOS tar? - Super User](https://superuser.com/questions/1633073/why-are-tar-xz-files-15x-smaller-when-using-pythons-tar-library-compared-to-mac)
 * `timeit`
   * [practice timeit](https://gist.github.com/hyunjun/108701fa3436710c39fd)
   * [practice timeit - function call](https://github.com/hyunjun/practice/blob/master/python/test-numpy/test_numpy_loop.py)
@@ -1326,7 +1331,7 @@ Python
 * [Python async/await Tutorial](http://stackabuse.com/python-async-await-tutorial/) aiohttp
 * [Python 3, asyncio와 놀아보기](https://b.ssut.me/python-3-asyncio%EC%99%80-%EB%86%80%EC%95%84%EB%B3%B4%EA%B8%B0/)
 * [A Web Crawler With asyncio Coroutines](http://aosabook.org/en/500L/a-web-crawler-with-asyncio-coroutines.html)
-* [Concurrency in Python](https://selo77.github.io/2016/12/11/Concurrency-in-Python/) threading, multiprocessing, aiohttp
+* [**Concurrency in Python**](https://selo77.github.io/2016/12/11/Concurrency-in-Python/) threading, multiprocessing, aiohttp
 * [asyncio 공부](http://youngrok.com/asyncio%20%EA%B3%B5%EB%B6%80) echo server
 * [python async URL요청](https://dreamtamercom.wordpress.com/2017/03/22/python-async-url%EC%9A%94%EC%B2%AD/) aiohttp
 * [asyncio](http://soooprmx.com/wp/archives/5625)
@@ -2967,6 +2972,7 @@ Python
 * [oneliner - Convert any Python file into a single line of code](https://github.com/csvoss/oneliner)
 * [Opnieuw: A simple and intuitive retrying library for Python](https://tech.channable.com/posts/2020-02-05-opnieuw.html)
 * [Orator - AN ACTIVERECORD ORM FOR PYTHON](http://orator-orm.com/)
+* [outrun: Execute a local command using the processing power of another Linux machine.](https://github.com/Overv/outrun)
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
 * [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
 * [Pampy: The Pattern Matching for Python you always dreamed of](https://github.com/santinic/pampy)
@@ -3061,6 +3067,7 @@ Python
 * QPython
   * [1. 개발환경 구축](http://m.blog.naver.com/dls001215/220972361443)
 * [quack - Build system on top of build systems](https://github.com/Autodesk/quack)
+* [qutebrowser - a keyboard-focused browser with a minimal GUI based on Python and PyQt5 and free software, licensed under the GPL](https://qutebrowser.org/)
 * [readchar - Utilities to read single characters and key-strokes](https://pypi.python.org/pypi/readchar)
 * [readability - fast python port of arc90's readability tool, updated to match latest readability.js!](https://github.com/buriy/python-readability)
   * [risingdream.kr/lab/readability.html](http://risingdream.kr/lab/readability.html)
@@ -3529,7 +3536,6 @@ Python
   * [python virtual environment setup in ubuntu](http://django-easy-tutorial.blogspot.com/2015/08/python-virtual-environment-setup-in-ubuntu.html)
   * [개발환경 구축하기](https://nomade.kr/vod/setup/)
   * [파이썬 프로젝트 시작하기 - Virtualenv](http://www.flowdas.com/blog/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-virtualenv/)
-  * [Virtualenv/VirtualenvWrapper OS별 설치&이용법](https://beomi.github.io/2016/12/28/HowToSetup-Virtualenv-VirtualenvWrapper/)
   * [Connect virtualenv](https://github.com/jybaek/connect_virtualenv/blob/master/README.md)
   * [파이썬의 개발 “환경”(env) 도구들](https://spoqa.github.io/2017/10/06/python-env-managers.html)
   * [Python 개발환경 구성](https://blog.outsider.ne.kr/1324)
@@ -3549,6 +3555,9 @@ Python
   * [How to use Python virtualenv](https://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv/)
   * [Python virtualenv 정리 (Linux/Windows) :: 개발새발로그](https://dgkim5360.tistory.com/entry/python-virtualenv-on-linux-ubuntu-and-windows)
   * [Advice and Tips to Properly Work with Virtual Environments | by François St-Amant | Towards Data Science](https://towardsdatascience.com/advice-and-tips-to-properly-work-with-virtual-environments-67bbad9ba5b6)
+* [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io)
+  * [Virtualenv/VirtualenvWrapper OS별 설치&이용법](https://beomi.github.io/2016/12/28/HowToSetup-Virtualenv-VirtualenvWrapper/)
+  * [A guide to Python virtual environments with virtualenvwrapper | Opensource.com](https://opensource.com/article/21/2/python-virtualenvwrapper)
 
 ## Library parallel
 * [Parallel Processing in Python || Aaron Richter - YouTube](https://www.youtube.com/watch?v=L6jti_WXKKw)
@@ -4125,9 +4134,11 @@ Python
 * [New Features in Python 3.10 | Towards Data Science](https://towardsdatascience.com/new-features-in-python-3-10-66ac05e62fc7)
 * [Features You Likely Don’t Use in Python 3 — But You Should | LaptrinhX](https://laptrinhx.com/features-you-likely-don-t-use-in-python-3-but-you-should-2455806769/)
 * [9 Python 3 Hacks Programmers Probably Don’t Utilize | Better Programming](https://medium.com/better-programming/9-python-3-features-you-might-not-use-yet-fade13932a3e)
+* 2to3
+  * [Python 2to3 - Convert your Python 2 to Python 3 automatically!](https://www.youtube.com/watch?v=8qxKYnAsNuU)
+  * [Python 2.x에서 3.x으로 코드 자동 변환](https://kibua20.tistory.com/164)
 * [concurrent.futures - Easy parallel python with concurrent.futures](https://gist.github.com/mangecoeur/9540178)
   * [파이썬의 새로운 병렬처리 API – Concurrent.futures](https://soooprmx.com/archives/5669)
-* [Python 2to3 - Convert your Python 2 to Python 3 automatically!](https://www.youtube.com/watch?v=8qxKYnAsNuU)
 * [python3statement.org](http://www.python3statement.org/) 2020까지 python2.7 지원 중단하기로 하는 project 모음
 * [search-script-scrape - 101 real world web scraping exercises in Python 3 for data journalists https://github.com/compjour/search-script-scrape#repo-status](https://github.com/compjour/search-script-scrape/)
 * [**syntax_sugar**](https://github.com/czheo/syntax_sugar_python)
