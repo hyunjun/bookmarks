@@ -81,6 +81,7 @@ Network
 * [DNS(Domain Name System)에 대한 총정리](https://developer88.tistory.com/311)
 * [What happens when you update your DNS?](https://jvns.ca/blog/how-updating-dns-works/)
 * [온라인 협업 도구 노션(Notion) 장애와 DNS 문제 대응 | 44BITS](https://www.44bits.io/ko/post/news--notion-outage-dns-issue)
+* [DNS 레코드를 간단히 알아보아요 : 오픈 인프라 엔지니어 그룹](https://blog.o3g.org/network/dns-record/)
 
 # HTTP
 * [HTTP ERROR CODE](https://ukjin.tistory.com/2)
@@ -116,6 +117,7 @@ Network
 * [Understand the Flow of a HTTP Request | by Aakash Yadav | Better Programming | Medium](https://medium.com/better-programming/understand-the-flow-of-a-http-request-1a268ec193f0)
 * [1주차 - HTTP 개관, URL과 리소스 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=21004521)
 * [**HTTP Prompt - An interactive command-line HTTP client**](https://http-prompt.com/)
+* [HTTPWTF | HTTP Toolkit](https://httptoolkit.tech/blog/http-wtf/)
 
 # HTTPS
 * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
