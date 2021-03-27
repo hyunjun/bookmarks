@@ -118,6 +118,10 @@ Java
 * [Impl classes are evil - OctoPerf](https://octoperf.com/blog/2016/10/27/impl-classes-are-evil/)
 * [16+ Tech Key Areas to go places as a Java Engineer or Architect | Java-Success.com](https://www.java-success.com/what-are-the-16-technical-key-areas-of-java-programming/)
 * [상품 피드 1차 개선 — Python 에서 Java 로!. 사고자 하는 물건이 있을때 다들 어디서 어떻게 구매 하시나요? (저는… | by Kahee Yu | 29CM 기술블로그 | Feb, 2021 | Medium](https://medium.com/29cm/%EC%83%81%ED%92%88-%ED%94%BC%EB%93%9C-1%EC%B0%A8-%EA%B0%9C%EC%84%A0-python-%EC%97%90%EC%84%9C-java-%EB%A1%9C-29ef4840022f)
+* [Investigating MD5 overheads | Claes Redestad’s blog](https://cl4es.github.io/2021/01/04/Investigating-MD5-Overheads.html) UUID
+* [The Modern Java Platform - 2021 Edition - James Ward](https://jamesward.com/2021/03/16/the-modern-java-platform-2021-edition/)
+  * [The Modern Java Platform - 2021년판 | GeekNews](https://news.hada.io/topic?id=3907)
+* [21 Tech Skills Java Developers Can Learn in 2021](https://javarevisited.blogspot.com/2020/03/top-20-skills-java-developers-can-learn.html)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -136,6 +140,7 @@ Java
 * [java 박싱 언박싱과 오버헤드에 대한 이야기](https://codingdog.tistory.com/entry/java-%EB%B0%95%EC%8B%B1-%EC%96%B8%EB%B0%95%EC%8B%B1%EA%B3%BC-%EC%98%A4%EB%B2%84%ED%97%A4%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0) boxing, unboxing, primitive
 * [1. JAVA Reflection과 Annotaion으로 필드 및 메소드에 값 주입하기](https://kim-jong-hyun.tistory.com/22)
 * [굿 바이 자바 애플릿, Deprecate, for Removal](http://dalinaum.github.io/java/2021/03/07/good-bye-java-applet-deprecate-for-removal.html)
+* [Faster Charset Decoding | Claes Redestad’s blog](https://cl4es.github.io/2021/02/23/Faster-Charset-Decoding.html)
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
@@ -575,6 +580,7 @@ Java
 * [인포큐 - 자바 10 지역 변수 타입 추론](https://www.youtube.com/watch?v=iL-hr64hts4)
 * [You can finally declare Inferred Type local variables in Java with var — here’s why that’s awesome](https://medium.freecodecamp.org/you-can-finally-declare-local-variables-in-java-with-var-heres-why-that-s-awesome-4418cb7e2da3)
 * [New Features in Java 10 | Baeldung](https://www.baeldung.com/java-10-overview)
+* [Local Variable Type Inference: Declare Var, Not War | foojay](https://foojay.io/today/local-variable-type-inference-declare-var-not-war/)
 
 # Java11
 * installation on centos 7
@@ -606,6 +612,7 @@ Java
 * [Java Language Futures: Late 2019 Edition by Brian Goetz](https://www.youtube.com/watch?v=J6fegDQPgps)
 * [Java 14 Released](https://www.infoq.com/news/2020/03/java14-released/)
 * [New Relic Introduces Real-Time Java Profiling](https://www.infoq.com/news/2020/03/new-relic-java-profiling/)
+* [Records Come to Java](https://blogs.oracle.com/javamagazine/records-come-to-java)
 
 # Java15
 * [자바 8~15까지 변경 내역과 JVM 실제 통계 외 재미있는 개발 이야기](https://www.youtube.com/watch?v=poyLhO8W8MM)
@@ -623,7 +630,8 @@ Java
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
 * [**여러 개의 JDK를 설치하고 선택해서 사용하기**](https://blog.benelog.net/installing-jdk.html) APT/YUM, update-alternatives / alternatives, Homebrew, Chocolatey, direnv, jEnv, SDKMAN, jabba
-* sdkman [윈도우에 여러 자바 설치하기](http://dalinaum.github.io/java/2021/03/07/multiple-jdks-2.html)
+* [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
+  * [윈도우에 여러 자바 설치하기](http://dalinaum.github.io/java/2021/03/07/multiple-jdks-2.html)
 
 ## JDK OpenJDK
 * [OpenJDK’s java.utils.Collection.sort() is broken: The good, the bad and the worst case?](http://envisage-project.eu/wp-content/uploads/2015/02/sorting.pdf)
@@ -705,6 +713,7 @@ Java
 * [JVM 메모리 해부학](https://www.slideshare.net/DONGHUNLEE61/jvm-238616046)
 * [A New Future for Java. JVM, Kotlin, and where Java is going… | by The Bored Dev | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/a-new-future-for-java-b10a6789f962)
 * [JVM 내부 동작 원리 & 자바 컴파일,실행 순서 - 런타임 영역, JIT 컴파일러, 인터프리터](https://tjdrnr05571.tistory.com/19)
+* [Off-Heap memory reconnaissance • Brice Dutheil](https://blog.arkey.fr/2020/11/30/off-heap-reconnaissance/)
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
   * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics](https://micrometer.io/)
@@ -717,6 +726,7 @@ Java
   * [Project Loom? Better Futures? What’s next for JVM concurrent programming - YouTube](https://www.youtube.com/watch?v=_fFzyY_7UmA)
   * [**Java의 동시성 개선을 위한 Project Loom은 reactive streams를 대체할 것인가?**](https://gunsdevlog.blogspot.com/2020/09/java-project-loom-reactive-streams.html) 정말 좋은 글
   * [Scale By The Bay 2020: Adam Warski, Project Loom? Better Futures? What’s next for JVM concurrent... - YouTube](https://www.youtube.com/watch?v=q3qJH2QuqUA)
+  * [Going inside Java’s Project Loom and virtual threads](https://blogs.oracle.com/javamagazine/going-inside-javas-project-loom-and-virtual-threads)
 
 ## JVM GC Garbage Collection
 * [Garbage Collection의 기초](http://itmining.tistory.com/24)
@@ -749,6 +759,7 @@ Java
 * [Why we chose Java for our High-Frequency Trading application | by Jad Sarmo | Oct, 2020 | Medium](https://medium.com/@jadsarmo/why-we-chose-java-for-our-high-frequency-trading-application-600f7c04da94) JIT
 * [A New Age of JVM Garbage Collectors - Alexander Yakushev - YouTube](https://www.youtube.com/watch?v=k4vkd0ahWjQ)
 * [Java 성능 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=30770051)
+* [Understanding the JDK’s New Superfast Garbage Collectors](https://blogs.oracle.com/javamagazine/understanding-the-jdks-new-superfast-garbage-collectors)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 
 ## JVM Flag, Option
