@@ -743,6 +743,7 @@ SQL
 * [Change Data Capture in Postgres With Debezium](https://info.crunchydata.com/blog/postgres-change-data-capture-with-debezium)
 * [Postgres regex search over 10,000 GitHub repositories (using only a Macbook)](https://devlog.hexops.com/2021/postgres-regex-search-over-10000-github-repositories)
 * [Faster data migrations in Postgres](https://www.citusdata.com/blog/2021/02/20/faster-data-migrations-in-postgres/)
+* [PostgreSQL on ARM-based AWS EC2 Instances: Is It Any Good? - Percona Database Performance Blog](https://www.percona.com/blog/2021/01/22/postgresql-on-arm-based-aws-ec2-instances-is-it-any-good/)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
