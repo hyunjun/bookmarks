@@ -530,6 +530,8 @@ ElasticSearch - Lucene
   * [PyKOMORAN - wrapped KOMORAN in Python using Py4J. https://pydocs.komoran.kr ](https://github.com/shineware/PyKOMORAN)
 * [Manticore Search – Open-source database for search applications – Manticore Search](https://manticoresearch.com/homepage/)
   * [es2ms: Elasticsearch -> Manticore Search data migration tool](https://github.com/manticoresoftware/es2ms)
+* [MeiliSearch](https://www.meilisearch.com/)
+  * Elasticsearch 대체제 오픈소스(Rust). Sonic은 ID index만 저장하지만 MeiliSearch는 full document 저장
 * [movie-finder 오픈소스 검색엔진인 Elasticsearch 를 활용하여 '영화'를 검색을 하는 Vue.js 프로젝트](https://github.com/heejunghwang/movie-finder)
 * NEST
   * [NEST and Elasticsearch.Net 6.0: Now GA!](https://www.elastic.co/blog/nest-elasticsearch-net-6-0-ga)
@@ -562,6 +564,9 @@ ElasticSearch - Lucene
     * [스카우터 서버 플러그인을 활용한 Elastic Stack 연동](https://www.youtube.com/watch?v=wMcWilecZXU)
 * [Search Guard - an Elasticsearch plugin that offers encryption, authentication, and authorization](https://floragunn.com/searchguard/)
 * [so-elastalert-create](https://github.com/bryant-treacle/so-elastalert-create)
+* [sonic: 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM](https://github.com/valeriansaliou/sonic)
+  * Elasticsearch 대체제 오픈소스(Rust)
+  * [Sonic - 빠르고 가벼운 Schema-less 검색 백엔드 | GeekNews](https://news.hada.io/topic?id=3856)
 * [subitolabs - ElasticSearch TestR, filters - tokenizers - analyzers](http://es.subitolabs.com/#/)
 * [Typesense: fast, open-source, typo-tolerant search engine](https://typesense.org/)
   * [typesense - 오픈소스 검색 엔진 | GeekNews](https://news.hada.io/topic?id=3369)
