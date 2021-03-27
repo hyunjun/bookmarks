@@ -141,6 +141,7 @@ Linux
 * [How to use a WiFi interface](https://wiki.debian.org/WiFi/HowToUse#wpa_supplicant)
 * [How To Connect To A WPA Wifi Using Command Lines On Debian](https://www.howtoforge.com/how-to-connect-to-a-wpa-wifi-using-command-lines-on-debian)
 * [데비안(Debian)에서 최신 WIFI 드라이버 설치 방법](https://kkamagui.tistory.com/923)
+* [Debian running on Rust coreutils](https://sylvestre.ledru.info/blog/2021/03/09/debian-running-on-rust-coreutils)
 * fcitx
 
   ```
@@ -470,8 +471,11 @@ Linux
   * [디스크가 가득 찼을 때](http://wikibook.co.kr/article/when-the-disk-is-full/)
   * [df와 du의 용량차이 발생과 해결(아무리 지워도 디스크 사용량이 줄어들지 않을때)](http://me2c.blogspot.com/2011/02/df-du.html)
   * [How to reserve disk space to save yourself from a world of pain](https://tomssl.com/2016/04/01/how-to-reserve-disk-space-to-save-yourself-from-a-world-of-pain/)
+  * [duf: Disk Usage/Free Utility - a better 'df' alternative](https://github.com/muesli/duf)
 * `diff`
   * [Delta is a command-line utility for text diffs. View split diffs in the browser with syntax highlighting (demo), or in the command-line using the --cli flag](http://delta.octavore.com/)
+  * [diff-so-fancy: Good-lookin' diffs. Actually… nah… The best-lookin' diffs](https://github.com/so-fancy/diff-so-fancy)
+  * [graphtage: A semantic diff utility and library for tree-like files such as JSON, JSON5, XML, HTML, YAML, and CSV](https://github.com/trailofbits/graphtage)
 * `dirname` get directory name from path
 * `dmesg`
   * `dmesg -T` [practice - dmesg 시간 출력](https://gist.github.com/hyunjun/f2f337f82af1598fdb9a531f1d9b59b6#file-dmesg_t-sh)
@@ -593,6 +597,7 @@ Linux
 * redirection
   * [You are here: Home / Guides / Explained: Input, Output and Error Redirection in Linux Explained: Input, Output and Error Redirection in Linux](https://linuxhandbook.com/redirection-linux)
   * [리다이렉션(redirection), 파이프(pipe)의 개념 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/linux-redirection/)
+  * [Do Not Use '>' in Your Command Prompt (and How to Stay Safe in Shell) | Tanel Poder Consulting](https://tanelpoder.com/posts/how-to-stay-safe-in-shell/)
 * `rm`
   * [How to Recover a Deleted File in Linux](https://www-tecmint-com.cdn.ampproject.org/c/s/www.tecmint.com/recover-deleted-file-in-linux/amp/)
 * `rsync`
