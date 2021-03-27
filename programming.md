@@ -1692,6 +1692,8 @@ Programming
 * [Must Learn DevOps Tools for 2020. A curated list of the best DevOps tools… | by Tj Blogumas | Better Programming | Medium](https://medium.com/better-programming/must-learn-devops-tools-for-2020-1a8a2675e88f)
 * [How to Become an DevOps Engineer in 2020 | by Shane Shown | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/how-to-become-an-devops-engineer-in-2020-80b8740d5a52)
 * [DevOps Definition: Focus, means, and expected results](https://github.blog/2020-10-07-devops-definition/)
+* [인터뷰 카카오 공용준님의 "DevOps: on going pursuit of effectiveness" - YouTube](https://www.youtube.com/watch?v=0wvcWwFnZD8)
+  * [카카오 공용준님의 "DevOps: on going pursuit of effectiveness"](https://www.slideshare.net/jrogue/devops-on-going-pursuit-of-effectiveness)
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
