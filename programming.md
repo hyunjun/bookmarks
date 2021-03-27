@@ -48,6 +48,7 @@ Programming
 * [Three Projects to Make You a Better Programmer | by Giuseppe | The Dev Café | Medium](https://medium.com/the-dev-caf%C3%A9/three-projects-to-make-you-a-better-programmer-65903e53620a)
 * [15 App Ideas to Build and Level Up your Coding Skills](https://blog.bitsrc.io/15-app-ideas-to-build-and-level-up-your-coding-skills-28612c72a3b1)
 * [5 Technologies to Pick Up During Quarantine and Improve Your Software Engineering Skillset](https://levelup.gitconnected.com/5-technologies-to-pick-up-during-quarantine-and-improve-your-software-engineering-skillset-68bd766bee9c)
+* [5 Ways to Improve Your Code - YouTube](https://www.youtube.com/watch?v=1KeJc6V4Jjk)
 * [a2big.com](http://www.a2big.com/) 하둡, 머신러닝, 안드로이드, 아이폰, 장고 & NoSQL & 센서 개인용 지식 정리 페이지 느낌
 * [Google - Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [CS for All](http://www.cs.hmc.edu/csforall/)
@@ -359,6 +360,7 @@ Programming
 * [국내/한국 개발자 커뮤니티 모아보기](https://open-support.tistory.com/entry/%EA%B5%AD%EB%82%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0)
 * [코딩블로그 종류와 장점, 단점 | 블로그 선택](https://digiconfactory.tistory.com/entry/%EC%BD%94%EB%94%A9%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A2%85%EB%A5%98%EC%99%80-%EC%9E%A5%EC%A0%90-%EB%8B%A8%EC%A0%90-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%A0%ED%83%9D)
 * [**Hashids - generate short unique ids from integers**](https://hashids.org/) 여러가지 다양한 언어별 github repo 제공
+* [ISO 8601: the better date format | Blog | Kirby Kevinson](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -800,6 +802,7 @@ Programming
   * [Why Distributed Systems Are Hard - YouTube](https://www.youtube.com/watch?v=w9GP7MNbaRc)
 * [Distributed Systems Reading List](https://dancres.github.io/Pages/)
 * [**Patterns of Distributed Systems**](https://martinfowler.com/articles/patterns-of-distributed-systems/)
+* [Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 * [etcd | Home](https://etcd.io/)
   * [A Few Notes on Etcd Maintenance. Learnings on provisioning, compaction… | by Tasdik Rahman | Gojek Product + Tech](https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe)
 
@@ -1006,6 +1009,7 @@ Programming
 * [Best of 2020: When To Use - and Not To Use - Microservices - Container Journal](https://containerjournal.com/topics/container-ecosystems/when-to-use-and-not-to-use-microservices/)
 * [**Seven Hard-Earned Lessons Learned Migrating a Monolith to Microservices**](https://www.infoq.com/articles/lessons-learned-monolith-microservices/)
 * [MSA - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/MSA)
+* [6 overlooked facts of microservices | Enable Architect](https://www.redhat.com/architect/microservices-overlooked-facts)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Edgar: Solving Mysteries Faster with Observability | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
   * [Building Netflix’s Distributed Tracing Infrastructure | by Netflix Technology Blog | Oct, 2020 | Netflix TechBlog](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
@@ -1074,6 +1078,7 @@ Programming
 * [Seasons-of-Serverless: Repository responsible for the challenges in Seasons of Serverless 2020](https://github.com/microsoft/Seasons-of-Serverless)
 * [Serverless Is Amazing, but Here’s the Big Problem | by Mika Yeap | Feb, 2021 | Better Programming](https://betterprogramming.pub/serverless-is-amazing-but-heres-the-big-problem-9e76b65f23c6)
 * [Serverless Functions for Microservices? Probably Yes, But Stay Flexible to Change](https://www.infoq.com/articles/serverless-microservices-flexibility/)
+* [Delivering BBC Online using Serverless | by Johnathan Ishmael | BBC Design + Engineering | Medium](https://medium.com/bbc-design-engineering/delivering-bbc-online-using-serverless-79d4a9b0da16)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
@@ -1160,6 +1165,8 @@ Programming
 * [GCP Google Cloud Platform](gcp.md)
 * [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
 * [Dataiku 다타이쿠 클라우드 서버 설치 방법 가이드](https://stricky.tistory.com/351) 네이버 클라우드 플랫폼
+* Heroku
+  * [We are very far from a better Heroku for production apps in a hyper cloud | GitLab](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
 * [HopsFS: 100x Times Faster than AWS S3 - Logical Clocks](https://www.logicalclocks.com/blog/hopsfs-100x-times-faster-than-aws-s3)
 * [Libvirt - The Unsung Hero of Cloud Computing — Vyom](https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html)
 * [Micro 3.0 (M3O) - a platform for cloud native development | Micro](https://micro.mu/blog/2020/11/05/micro-v3-aka-m3o.html)
@@ -1255,6 +1262,7 @@ Programming
 * [25+ Useless Code Comments People Actually Wrote In Their Code](https://medium.com/javascript-in-plain-english/25-useless-code-comments-people-actually-wrote-in-their-code-6e55c370d562)
 * [How to Kill Your Developer Productivity - DZone DevOps](https://dzone.com/articles/how-to-kill-your-developer-productivity-humanitec)
 * [Type Fast, Work Fast. A programmer’s approach to optimize… | by Lucas Soares | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/type-fast-work-fast-b80eacd10e26)
+* [Five Code Review Antipatterns](https://blogs.oracle.com/javamagazine/five-code-review-antipatterns)
 * [eXtreme Programming](https://www.theteams.kr/teams/2694/post/67869)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
@@ -2376,6 +2384,7 @@ Programming
 * [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6.html)
 
 # Parser
+* [Zig, Parser Combinators - and Why They're Awesome](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome)
 * [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/)
   * [A Human-readable Scheduling Tool based on Python + ANTLR - Singapore Python User Group](https://www.youtube.com/watch?v=TCPhJpKv9SE)
 
@@ -2672,7 +2681,6 @@ Programming
 * [Lean Testing or Why Unit Tests are Worse than You Think](https://blog.usejournal.com/lean-testing-or-why-unit-tests-are-worse-than-you-think-b6500139a009)
 * [블랙박스 테스트 기법으로 테스트 케이스 설계하기](https://huns.me/posts/2020-01-09-35)
 * [Building an Effective Test Pipeline in a Service Oriented World](https://medium.com/airbnb-engineering/building-an-effective-test-pipeline-in-a-service-oriented-world-6968c513c6bd)
-* [Building an Effective Test Pipeline in a Service Oriented World](https://medium.com/airbnb-engineering/building-an-effective-test-pipeline-in-a-service-oriented-world-6968c513c6bd)
 * [테스트 커버리지 100%](https://blog.npcode.com/2020/02/28/%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%bb%a4%eb%b2%84%eb%a6%ac%ec%a7%80-100/)
 * [Verifying Microservice Integrations with Contract Testing - Atlassian Summit 2016](https://www.youtube.com/watch?v=-6x6XBDf9sQ)
 * [Dockerize your integration tests](https://medium.zenika.com/dockerize-your-integration-tests-8d26a7425baa)
@@ -2743,6 +2751,8 @@ Programming
 # Troubleshooting, 장애 해결
 * [LINE의 장애 보고와 후속 절차 문화](https://engineering.linecorp.com/ko/blog/line-failure-reporting-and-follow-up-process-culture/)
 * [테크이야기 앱 서비스 장애편 #1 - 화면 로딩 속도](https://blog.imqa.io/app_failure_launch_time/)
+* [How we found and fixed a rare race condition in our session handling - The GitHub Blog](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
+* [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
