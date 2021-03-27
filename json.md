@@ -13,6 +13,7 @@ Json
 * [B급 프로그래머 (스택오버플로우) 구글이 JSON 응답에 while(1);을 붙여 보내는 이유는?](http://jhrogue.blogspot.com/2019/03/b-json-while1.html)
 * [Use Binary Encoding Instead of JSON - Better Programming - Medium](https://medium.com/better-programming/use-binary-encoding-instead-of-json-dec745ec09b6)
 * [JSON 데이터 타입을 처리하는 웹 어플리케이션에서 XXE 취약점이 발생하는 이유](http://blog.naver.com/crehacktive3/222037182911)
+* [The Pretty JSON Revolution](http://www.ohler.com/dev/pretty.html)
 
 # C++
 * [JSON for Modern C++ https://nlohmann.github.io/json ](https://github.com/nlohmann/json)
@@ -140,6 +141,7 @@ Json
 * [json2table.com](http://json2table.com/)
 * [json2ts - generate TypeScript interfaces from json](http://json2ts.com/)
 * [JSON2XML](https://esstudio.site/json2xml/)
+* [json65: A JSON parser written in 6502 assembly language](https://github.com/ppelleti/json65)
 * [JSON to CSV - CSVJSON](https://csvjson.com/json2csv)
 * [json-chance - Create random JSON objects using json-spawn and Chance.js](https://github.com/luisfarzati/json-chance)
 * [JSONConfigurablePersonalSite - A JSON configurable personal site; example site: http://www.christophior.com](https://github.com/christophior/JSONConfigurablePersonalSite)
