@@ -52,6 +52,7 @@ Network
 * [네트워크는 왜 이렇게 생긴걸까? 공유기편 : 클리앙](https://www.clien.net/service/board/lecture/15887017)
 * [**Computer Networks: A Systems Approach — Computer Networks: A Systems Approach Version 6.2-dev documentation**](https://book.systemsapproach.org/)
 * [awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
+* [Ethernet and IP Networking 101 (Heavily Illustrated)](https://iximiuz.com/en/posts/computer-networking-101/)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
