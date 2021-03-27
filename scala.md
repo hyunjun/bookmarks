@@ -1944,6 +1944,7 @@ Scala
 * [Types, Kinds and Type Constructors in Scala - Rock the JVM Blog](https://blog.rockthejvm.com/scala-types-kinds/)
   * [Variance Positions in Scala, Demystified | Rock the JVM - YouTube](https://www.youtube.com/watch?v=aUmj7jnXet4)
 * [Opaque Type Aliases and Open Classes | by Dean Wampler | Scala 3 | Nov, 2020 | Medium](https://medium.com/scala-3/opaque-type-aliases-and-open-classes-13076a6c07e4)
+* [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=AaAHyHcLBWs&t=7920s) opaque type
 * [Type classes with Scala 2](https://justinhj.github.io/2020/12/06/type-classes-scala-2.html)
 * [Self-Types in Scala - the Why and the How | Rock the JVM - YouTube](https://www.youtube.com/watch?v=ZnpB4B1fMSI)
 * HasId pattern
