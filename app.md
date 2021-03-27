@@ -94,6 +94,8 @@ App
 * [Meshtag - A meshtag is a "drawable barcode" that you can create by drawing straight line segments at 3 different angles](http://www.meshtag.com/)
 * [move o scope - Explore your Moves activity history](https://move-o-scope.halftone.co/)
 * [mpv - a free, open source, and cross-platform media player](https://mpv.io/)
+* [myDrive](https://mydrive-storage.com/)
+  * [myDrive - 오픈소스 구글 드라이브 클론 | GeekNews](https://news.hada.io/topic?id=3940)
 * [Nik 컬렉션](https://www.google.com/nikcollection/)
 * [Obsidian - A second brain, for you, forever](https://obsidian.md/)
 * [Oven - 크리에이티브 프로젝트를 위한 세계에서 가장 진보된 온라인 프로토타이핑 툴](https://ovenapp.io/)
@@ -102,6 +104,7 @@ App
 * [Pandoc - a universal document converter](https://pandoc.org/)
   * `pandoc <markdown filename> -f markdown -t html -s -o <html filename>`
   * [**Writing a Book with Pandoc, Make, and Vim**](https://keleshev.com/my-book-writing-setup/)
+  * [Convert documents with Pandoc like a pro | Opensource.com](https://opensource.com/article/20/5/pandoc-cheat-sheet)
 * pdf
   * pdf to text
     * [github.com/spritecodej/crawling_examples/tree/master/pdf_parsing](https://github.com/spritecodej/crawling_examples/tree/master/pdf_parsing)
@@ -679,6 +682,7 @@ App
   * [mathpix - LaTeX, instantly](https://mathpix.com/)
   * [OpenDetex - Improved version of Detex - tool for extracting plain text from TeX and LaTeX sources](https://github.com/pkubowicz/opendetex)
   * [SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor](https://github.com/SwiftLaTeX/SwiftLaTeX)
+  * [Learn LaTeX online for free in beginner friendly lessons | learnlatex.org](https://www.learnlatex.org/en/)
 * [noti - Trigger notifications when a process completes](https://github.com/variadico/noti)
 * [다운로드 없이 SMS 문자만으로 즐기는 “앱”](http://techneedle.com/archives/20495)
 * [타임머신 앱? 카메라 대면 옛날 사진이…](http://techholic.co.kr/archives/31096)
@@ -876,7 +880,6 @@ App
 * [Muzzle - silence embarrassing notifications](https://muzzleapp.com/)
 * [n³ The missing terminal file manager for X](https://github.com/jarun/nnn)
 * [**nearlock.me**](http://nearlock.me/)
-* [NordVPN - VPN Reimagined for Mac OS](https://nordvpn.com/download/mac/)
 * [**OpenInTerminal - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty**](https://github.com/Ji4n1ng/OpenInTerminal)
 * [openldap - vagrant로 설치하는 openldap](http://raspberrypikor.blogspot.com/2016/11/vagrant-openldap.html)
 * Post-it for Mac [3M, 아이폰과의 동기화를 지원하는 Post-it for Mac을 발표](https://tagilog.tistory.com/441)
@@ -890,6 +893,8 @@ App
     * [github.com/dawnlabs/carbon](https://github.com/dawnlabs/carbon)
 * Screenshot
   * [CapturePlus](http://captureplus.net/)
+  * [Flameshot](https://flameshot.org/)
+    * [Flameshot - 강력한 오픈소스 캡쳐도구 | GeekNews](https://news.hada.io/topic?id=3777)
   * [Greenshot](https://getgreenshot.org/)
   * [Paparazzi! is a small utility for macOS that makes screenshots of webpages](https://derailer.org/paparazzi/)
   * [**픽픽 (PicPick)**](https://picpick.app/ko/)
@@ -1108,6 +1113,7 @@ App
 * [PlantUML - 다이어그램을 빠르게 작성하기 위한 오픈 소스 프로젝트](http://plantuml.com/)
   * [**C4 모델과 C4-PlantUML을 이용한 소프트웨어 구조 다이어그램 만들기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/diagramming-c4-model-c4-plantuml/)
   * [개발자 팁 무료 UML 다이어그램 작성. Visual Studio Code + PlantUML Extension : 클리앙](https://www.clien.net/service/board/lecture/13218515)
+  * [간단한 텍스트를 이용하여 멋진 UML 다이어그램을 만들 수 있는 오픈소스 도구입니다](https://plantuml.com/ko/)
   * [mindmap-diagram](https://plantuml.com/ko/mindmap-diagram)
   * [Salt (wireframe)](https://plantuml.com/ko/salt)
   * [wbs-diagram](https://plantuml.com/ko/wbs-diagram)
@@ -1249,6 +1255,7 @@ App
 * [DocFX - static documentation generator | DocFX website](https://dotnet.github.io/docfx/)
 * [dumbdown: The dumb alternative to markdown. The keyword for title is title](https://github.com/treenotation/dumbdown)
 * [Fongshen - Markdown with Ace example](http://simular.co/works/fongshen/)
+* [ghostwriter](https://wereturtle.github.io/ghostwriter/)
 * [hackmd.io](https://hackmd.io/) gist
 * [Haroopad](http://pad.haroopress.com/)
 * [Madoko is a fast markdown processor for writing professional articles, books, manuals, webpages and presentations, with a focus on simplicity and plain text readability](https://www.madoko.net/)
@@ -1377,7 +1384,7 @@ App
 * [원격 데스크톱 연결 시 모니터 여러 대 사용하기](https://bloodguy.tistory.com/1069)
 * [How to Change the Priority of Wireless Networks in Windows 8 or 10](https://www.howtogeek.com/131640/how-to-change-the-priority-of-wireless-networks-in-windows-8/)
 
-## Installation
+## Window Installation
 * 상황; win10을 upgrade하려고 했지만, 1709 이전 버전에서는 계속 오류가 발생하고, 여러가지 검색을 통해 시도한 방법도 모두 실패
   * [Download Windows 10 ISO From Microsoft Free Full Version](http://www.intowindows.com/download-windows-10-iso-from-microsoft-free-full-version/)
     * media creation tool을 통해 iso를 만들면 최신 업데이트가 적용되는 걸로 보임
@@ -1389,7 +1396,7 @@ App
       * 검색했더니 이런 자료가 있어 해봤지만 통하지 않았다. 결과적으로는 쓸모 없었음
   * 모든 작업을 마친 후 업데이트까지 적용했더니 윈도우 스토어도 정상 동작하고, Ubuntu도 검색가능하고, windows 기능 켜기/끄기를 통해 linux 관련 기능도 설정할 수 있는 검색창이 나옴
 
-## Development
+## Window Development
 * [GPU-accelerated Deep Learning on Windows 10 native (Keras/Tensorflow/CNTK/MXNet and PyTorch)](https://github.com/philferriere/dlwin)
 * [윈도우에서 심볼릭 링크 만들기](https://libsora.so/posts/ntfs-symbolic-link/)
 * [How to take advantage of symbolic links in Windows 10](https://www.techrepublic.com/article/how-to-take-advantage-of-symbolic-links-in-window-10/)
@@ -1522,3 +1529,7 @@ App
 * xLogWnd [디버깅 로그툴 xLogWnd : 클리앙](https://www.clien.net/service/board/pds/15729575)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [X server 4 Windows 10](https://x410.dev/)
+
+# VPN
+* [Algo로 개인 VPN 서버 구축하기(요약판) | 44BITS](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail-summary)
+* [NordVPN - VPN Reimagined for Mac OS](https://nordvpn.com/download/mac/)
