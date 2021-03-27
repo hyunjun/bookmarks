@@ -694,6 +694,7 @@ Git
 * [5 open source alternatives to GitHub | Opensource.com](https://opensource.com/article/20/11/open-source-alternatives-github)
 * [**Atomist Project Templates**](https://github.com/atomist-project-templates) Starting a new project should take near-zero effort, so you can get to writing code. That’s what we believe, and that’s what we’re building.
 * [binder - Turn a GitHub repo into a collection of interactive notebooks](http://mybinder.org/)
+* [bit: Bit is a modern Git CLI](https://github.com/chriswalz/bit)
 * bitbar [1일 1커밋의 목표를 가지고 있다면? - Bitbar Github 플러그인 설정하기 | Fernando 기술 블로그](https://fernando.kr/develop/2020-01-11-github-contributions/)
 * [Central Dogma - an open-source highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2](https://line.github.io/centraldogma/)
 * [Cgit, Nginx & Gitolite: A Personal Git Server « Bryan Brattlof](https://bryanbrattlof.com/cgit-nginx-gitolite-a-personal-git-server/)
