@@ -196,6 +196,7 @@ Web
 * [LINE MANGA: Page Stack을 이용해서 페이지 전환 처리하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-manga-smooth-page-transition-with-page-stack/)
 * [개선된 페이지 스택으로 LINE 증권의 웹 페이지 전환 처리하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-securities-frontend-2/)
 * [CGI와 웹서버](https://velog.io/@seanlion/cgi)
+* [1993: CGI Scripts and Early Server-Side Web Programming – Web Development History](https://webdevelopmenthistory.com/1993-cgi-scripts-and-early-server-side-web-programming/)
 * [매출 손실을 줄여주는 외부링크 관제 Bot, 'URL Checker' 개발기 | 뱅크샐러드](https://blog.banksalad.com/tech/url-status-checker/)
 * [The Ultimate List of YouTube Channels to Boost your Web Development and Programming Skills · Dev & Gear](https://devandgear.com/posts/the-ultimate-list-of-youtube-channels-to-boost-your-web-development-and-programming-skills/)
 * [The Ultimate Guide to Web Performance - DEV](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
@@ -449,6 +450,7 @@ Web
 * [스크롤바 숨기기](https://hyeonseok.com/soojung/css/2020/02/28/858.html)
 * [플렉스(flex) 박스, 한 번 정리하고 가자](https://jeonghwan-kim.github.io/dev/2020/03/09/flex.html)
 * [2020년 CSS 트랜드 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/870) Tailwind CSS
+* [web development languages - Web4College](https://www.web4college.com/)
 * [CSS-Only Carousel | CSS-Tricks](https://css-tricks.com/css-only-carousel/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
@@ -619,6 +621,8 @@ Web
 * Consul
   * [HAProxy and Consul with DNS for Service Discovery - HAProxy Technologies](https://www.haproxy.com/blog/haproxy-and-consul-with-dns-for-service-discovery/)
   * [Load Balancing Strategies for HashiCorp Consul](https://www.hashicorp.com/blog/load-balancing-strategies-for-consul/)
+* [imgproxy: Fast and secure standalone server for resizing and converting remote images](https://github.com/imgproxy/imgproxy)
+  * [빠르고 안전한 오픈소스 이미지 프록시 서버 | GeekNews](https://news.hada.io/topic?id=3949)
 * Keepalived
   * [practice - keepalived 설정, postscript 예 등](https://gist.github.com/hyunjun/5ce7e52f250bdfc2314f692072db3f30)
   * [keepalived + haproxy VIP 이중화 로드밸런싱 구축하기](https://blog.naver.com/hanajava/221626055915)
