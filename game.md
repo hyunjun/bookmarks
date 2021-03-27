@@ -56,8 +56,11 @@ Game
 * [greasyphone - Play NES using smartphones as joypads](https://github.com/olahol/greasyphone#greasyphone)
 * [Kaboom: an unusual Minesweeper](https://pwmarcz.pl/blog/kaboom/)
 * [LEd – 2D map editor](https://deepnight.net/tools/led-2d-level-editor/)
+* PICO-8 [‘판타지 비디오 게임 콘솔’ 게임 엔진! PICO-8 소개 : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=18640668&memberNo=40601392)
 * [Pixelbox.js - A downloadable Game Engine for Windows and macOS](https://pixwlk.itch.io/pixelbox)
 * [PlayCanvas WebGL Game Engine](https://playcanvas.com/)
+* [raylib](https://www.raylib.com/index.html)
+* [Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
 * [TwilioQuest - Discover your power to change the world with code.](https://www.twilio.com/quest)
 * Unity
   * [수식없이 게임 수학 이해하기](https://www.slideshare.net/MrDustinLee/ss-147084075)
