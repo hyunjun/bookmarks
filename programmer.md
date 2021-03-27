@@ -61,6 +61,7 @@ Programmer
 * [서버 개발자는 무엇부터 학습 해야할까 - 프레임워크, Git, SQL, Linux? - YouTube](https://www.youtube.com/watch?v=JfjH-uVkzAk)
 * [앨리스의 수다 라방 - YouTube](https://www.youtube.com/playlist?list=PL9fVSJzH3-mopbZLwUUNRp-MsMMte6Cst)
 * [드림코딩 by 엘리 - YouTube](https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w/videos)
+* [Effective Engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 
 # Cultuer, Team
 * [훌륭한 개발 문화의 이면(7) – 잉여력이냐 vs. 효율성이냐](http://channy.creation.net/blog/1238) 개발자 경력 경로
