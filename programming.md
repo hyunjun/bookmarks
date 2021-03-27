@@ -1072,6 +1072,8 @@ Programming
 * [4세대 애플리케이션 모델을 이끄는 클라이언트-서버리스 탐구 - ITWorld Korea](http://www.itworld.co.kr/news/157112#csidx3bf62c38cae77a08af91eb13b34863c)
 * [Serverless – Engineers @ The LEGO Group](https://medium.com/lego-engineering/tagged/serverless)
 * [Seasons-of-Serverless: Repository responsible for the challenges in Seasons of Serverless 2020](https://github.com/microsoft/Seasons-of-Serverless)
+* [Serverless Is Amazing, but Here’s the Big Problem | by Mika Yeap | Feb, 2021 | Better Programming](https://betterprogramming.pub/serverless-is-amazing-but-heres-the-big-problem-9e76b65f23c6)
+* [Serverless Functions for Microservices? Probably Yes, But Stay Flexible to Change](https://www.infoq.com/articles/serverless-microservices-flexibility/)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
@@ -1747,6 +1749,7 @@ Programming
 * [A Simple Implementation of Dynamic Configuration | by Jae Hyeon Bae | Robinhood](https://robinhood.engineering/a-simple-implementation-of-dynamic-configuration-71383bcc803b)
 * [개발자를 위한 인프라 기초 총정리 | Writer, IT Blog](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/)
 * [**(공유) 대규모 인프라를 운영하기 위한 15가지 정보**](https://brunch.co.kr/@topasvga/1510)
+* [Modern Infrastructure Automation with Packer, Terraform, and Consul](https://www.hashicorp.com/resources/modern-infrastructure-automation-with-packer-terraform-and-consul)
 * [Chef Infra - Infrastructure Automation for Hardened, Consistent Configuration at Any Scale](https://www.chef.io/products/chef-infra/)
   * [A complete beginner’s guide to Chef and infrastructure as code](https://medium.freecodecamp.org/an-introduction-to-chef-and-infrastructure-as-code-7d8ad2689b8)
   * [Making Breakfast: Chef at Airbnb](https://medium.com/airbnb-engineering/making-breakfast-chef-at-airbnb-8e74efff4707)
