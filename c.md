@@ -129,6 +129,7 @@ C
 * [Simple TCP/IP web server](http://www.paulgriffiths.net/program/c/webserv.php)
 * [Building Another Website, This Time in C | by Robert W. Oliver II | Sourcerer Blog](https://blog.sourcerer.io/building-another-website-this-time-in-c-93b7abdb9671) apache http server
 * [Can You Write a C Program Without a Main Function ? Here is How](https://latesthackingnews.com/2016/10/16/can-write-c-program-without-main-function/)
+* [How to write a good C main function | Opensource.com](https://opensource.com/article/19/5/how-write-good-c-main-function)
 * [practice - C Struct Hack](https://gist.github.com/hyunjun/2f4e666278435e37567a0656ab2c616a#file-struct_hack-md)
   * [practice](https://github.com/hyunjun/practice/tree/master/c/test-struct-hack)
   * [Struct Hack](https://www.geeksforgeeks.org/struct-hack/)
@@ -176,6 +177,7 @@ C
 * [Fun with conversion-operator name lookup – Arthur O'Dwyer – Stuff mostly about C++](https://quuxplusone.github.io/blog/2021/01/13/conversion-operator-lookup/)
 * [함수 오버로딩 : 클리앙](https://www.clien.net/service/board/lecture/15118190)
 * [헤더(header) 파일이란? 헤더 파일 개념 정리 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/programming/c-header/)
+* [It's raymarching march!](https://ch-st.de/its-ray-marching-march/)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -375,6 +377,7 @@ C
 * [noc - A potpourri of various code I want to release online](https://github.com/guillaumechereau/noc)
   * [Procedural graphics generation in C](http://blog.noctua-software.com/noc_turtle.html)
 * [nq - Unix command line queue utility](https://github.com/chneukirchen/nq)
+* [Nuklear: A single-header ANSI C immediate mode cross-platform GUI library](https://github.com/Immediate-Mode-UI/Nuklear)
 * objdump / gobjdump (OS X)
   * [practice - objdump](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
 * [OpenSSL](https://www.openssl.org/)
@@ -511,3 +514,5 @@ C
 # Web
 * [**나만의 웹서버 구현해보기!**](https://velog.io/@seanlion/webserver)
   * [Tiny-Web-Server](https://github.com/seanlion/Tiny-Web-Server)
+* [redbean](https://justine.lol/redbean/index.html)
+  * [Redbean - 파일1개로 실행되는 웹서버 | GeekNews](https://news.hada.io/topic?id=3815)
