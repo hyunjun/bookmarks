@@ -163,6 +163,7 @@ C++
 * [CLion 소개 : 네이버 블로그](https://blog.naver.com/ykish/222026766695)
 * [**Full Remote Mode Of CLion With Docker**](https://www.popit.kr/full-remote-mode-of-clion-with-docker/)
 * [**Remote Debug via GDB/gdbserver Of CLion With Docker**](https://www.popit.kr/remote-debug-via-gdbgdbserver%ef%bb%bf-of-clion-with-docker/)
+* [Learn to debug code with the GNU Debugger | Opensource.com](https://opensource.com/article/21/3/debug-code-gdb) GDB
 * [C++ Development with Visual Studio Code](https://www.youtube.com/watch?v=bK882S9ESpo)
 * [How to write Clean, Beautiful and Effective C++ Code](https://medium.com/@MKahsari/how-to-write-clean-beautiful-and-effective-c-code-d4699f5e3864)
 * [Windows Trampoline – Kudryavka Noumi](https://www.kudryavka.me/?p=959)
@@ -175,6 +176,8 @@ C++
 * [Ranges, Code Quality, and the Future of C++ | by Jason Meisel | Medium](https://medium.com/@jasonmeisel/ranges-code-quality-and-the-future-of-c-99adc6199608)
 * [Encapsulation in C++ and C. Code examples of achieving and… | by Kateryna Bondarenko | Medium](https://medium.com/@kateolenya/encapsulation-in-c-and-c-20dca9097e17)
 * [gflags (C++) uint32 지원 + ubuntu 16.04 – rein's world](https://rein.kr/blog/archives/5109)
+* [How C++ Resolves a Function Call](https://preshing.com/20210315/how-cpp-resolves-a-function-call/)
+* [A friendly guide to the syntax of C++ method pointers | Opensource.com](https://opensource.com/article/21/2/ccc-method-pointers)
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
