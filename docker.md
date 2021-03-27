@@ -48,6 +48,7 @@ Docker
 * [Docker Tutorial for Beginners - Fundamentals Of Dockerfile](https://morioh.com/p/5fe4189b9ead)
 * [Docker Tutorial for Beginners Full Course in 3 Hours - YouTube](https://www.youtube.com/watch?v=3c-iBn73dDE)
 * [docker tutorial.md at master · pandora0667/TILD](https://github.com/pandora0667/TILD/blob/master/Docker/docker%20tutorial.md)
+* [The Docker Handbook – 2021 Edition](https://www.freecodecamp.org/news/the-docker-handbook/)
 * [가장 쉽게 배우는 도커 - YouTube](https://www.youtube.com/watch?v=hWPv9LMlme8)
 * [WHAT IS DOCKER?](https://www.gangboard.com/blog/what-is-docker)
 * [Docker: Getting Started with Docker Docker 시작하기](http://www.sauru.so/blog/getting-started-with-docker/)
@@ -926,7 +927,9 @@ Docker
 * [Docker & Kubernetes - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=41582977)
 * [Jenkins에서 Kubernetes 플러그인을 이용해 보다 쉽고 효율적으로 성능 테스트하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/performance-test-in-jenkins-run-dynamic-pod-executors-in-kubernetes-parallelly/)
 * [The Evolution of Distributed Systems on Kubernetes](https://www.infoq.com/articles/distributed-systems-kubernetes/)
+* [Google admits Kubernetes container tech is so complex, it's had to roll out an Autopilot feature to do it all for you • The Register](https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/)
 * [Despite Google’s 'Autopilot,' Kubernetes is Still Hard - Container Journal](https://containerjournal.com/features/despite-googles-autopilot-kubernetes-is-still-hard/)
+* [Container부터 다시 살펴보는 Kubernetes Pod 동작원리 - Speaker Deck](https://speakerdeck.com/devinjeon/containerbuteo-dasi-salpyeoboneun-kubernetes-pod-dongjag-weonri)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1061,6 +1064,7 @@ Docker
 * [Galley is a command-line tool for orchestrating Docker containers in development and test environments](https://github.com/twitter-fabric/galley)
 * [hadolint - Dockerfile linter, validate inline bash, written in Haskell](https://github.com/hadolint/hadolint)
   * [Dockerfile 정적분석하기 (hadolint)](https://qiita.com/leechungkyu/items/50976861ae1faecaaafd)
+  * [Hadolint - 도커파일 린터 | GeekNews](https://news.hada.io/topic?id=3521)
 * [hyper - Hypervisor-agnostic Docker Engine](https://hyper.sh/)
   * [CLI and Daemon for Hyper](https://github.com/hyperhq/hyper)
 * [instadocker - Run any Docker container on the cloudin just 3 seconds](http://instadocker.com/)
