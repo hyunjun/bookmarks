@@ -553,6 +553,7 @@ App
     * [VS Code Productivity Tips and Tricks - YouTube](https://www.youtube.com/watch?v=lSvP2ahPojg)
     * [VSCode에서 정규표현식(Regex)로 원하는 문자열 치환하기](https://jojoldu.tistory.com/555)
     * [⚙️VSCode 자동 저장 기능 #삽질줄이기 - YouTube](https://www.youtube.com/watch?v=GdebOaCQEcI)
+    * [codetour: VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor](https://github.com/microsoft/codetour)
     * Debug
       * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
       * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
