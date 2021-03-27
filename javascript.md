@@ -1419,6 +1419,8 @@ Javascript
 * [Libscore scans the top million sites on the web to collect stats on JavaScript library usage](http://libscore.com)
 * [LinkeDOM: A JSDOM Alternative. JSDOM is awesome, but it’s slow at… | by Andrea Giammarchi | Feb, 2021 | Medium](https://webreflection.medium.com/linkedom-a-jsdom-alternative-53dd8f699311)
 * [Lissajous - A tool for programmatic audio performance in the browser using Javascript. http://lissajousjs.com](https://github.com/kylestetz/lissajous)
+* [lite-youtube-embed: A faster youtube embed](https://github.com/paulirish/lite-youtube-embed)
+  * [lite-youtube-embed - 더 빠른 유튜브 임베드 | GeekNews](https://news.hada.io/topic?id=3962)
 * [Liwe is a service for web developers to use smartphones as a remote for their webapp](http://liwe.co/)
 * [λJSON is a drop-in replacement for JSON which also allows you to parse and stringify pure functions and their contents](https://github.com/MaiaVictor/LJSON)
 * [LLJS : Low-Level JavaScript](http://mbebenita.github.io/LLJS/)
