@@ -19,6 +19,10 @@ GIS
 * [GOOGLE MAPS’S MOAT - How far ahead of Apple Maps is Google Maps?](https://www.justinobeirne.com/google-maps-moat)
 * [Alexander Müller - Spatial Range Queries Using Python In-Memory Indices](https://www.youtube.com/watch?v=_95bSEqMzUA)
 
+# Go
+* [find3: High-precision indoor positioning framework, version 3](https://github.com/schollz/find3)
+  * [Find3 - 고정밀도 실내 GPS 오픈소스 | GeekNews](https://news.hada.io/topic?id=3861)
+
 # Java
 * [가게 배달지역 관리방식 개편 프로젝트 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/02/27/s2-project.html)
 
