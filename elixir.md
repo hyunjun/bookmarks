@@ -111,6 +111,9 @@ Elixir
   * [Surface UI - A server-side rendering component library for Phoenix](http://surface-demo.msaraiva.io/)
   * [Elixir + Phoenix LiveView + Svelte, Why?](https://seokjun.kim/elixir-phoenix-liveview-svelte/)
   * [Phoenix LiveView + Typescript + Svelte + Tailwind CSS, How](https://seokjun.kim/elixir-phoenix-liveview-svelte-how/)
+* [Plausible Analytics | Simple, privacy-friendly alternative to Google Analytics](https://plausible.io/)
+  * [analytics: Simple, open-source, lightweight `(< 1 KB)` and privacy-friendly web analytics alternative to Google Analytics](https://github.com/plausible/analytics)
+  * [Why choose Plausible for an open source alternative to Google Analytics | Opensource.com](https://opensource.com/article/21/2/plausible)
 * Plug
   * [Plug 에러 메시지를 표시하는 방법](https://harfangk.github.io/2017/03/29/where-to-find-plug-errors-ko.html)
 * sentry [크래시 리포트, 에러 트래킹이 필요하면 sentry](http://ohyecloudy.com/pnotes/archives/sentry-error-tracking-software/)
