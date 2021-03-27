@@ -1150,6 +1150,8 @@ Programming
 * [**1주차- 온프레미스 네트워크 이해**](https://brunch.co.kr/@topasvga/1509)
 * [CTO headaches: Top 5 cloud-to-cloud migration woes (and how to solve them!) | Cloud Native Computing Foundation](https://www.cncf.io/blog/2021/02/15/cto-headaches-top-5-cloud-to-cloud-migration-woes-and-how-to-solve-them/)
 * [클라우드 마이그레이션을 위한 AS-IS 시스템 분석 방법](https://tech.osci.kr/2021/03/09/111612589/)
+* [성숙기 들어선 클라우드 세계의 새로운 문제점 7가지 - ITWorld Korea](https://www.itworld.co.kr/news/187633)
+* [기업용 클라우드 비용 최적화: 도구과 사례 | 슬로우뉴스](https://slownews.kr/79903)
 * [aws](aws.md)
 * [azure](azure.md)
 * [Dapr - Distributed Application Runtime](https://dapr.io/)
@@ -2097,6 +2099,7 @@ Programming
   * [2월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/02/b-2-3.html)
   * [2월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/02/b-2-4.html)
   * [3월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/03/b-3.html)
+  * [3월 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/03/b-3_27.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
