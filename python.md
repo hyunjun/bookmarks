@@ -422,6 +422,7 @@ Python
 * [I created my own YouTube algorithm (to stop me wasting time) | by Chris Lovejoy | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/i-created-my-own-youtube-algorithm-to-stop-me-wasting-time-afd170f4ca3a)
 * [Start Python #3 Backend Program 만들기 - Class - Kowana's coding](https://www.kowanas.com/coding/2020/12/20/class/)
 * [Common anti-patterns in Python - DeepSource](https://deepsource.io/blog/8-new-python-antipatterns/)
+* [**Building a full-text search engine in 150 lines of Python code · Bart de Goede**](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -4192,6 +4193,7 @@ Python
 * [CI Pipelines for Python Projects. What is a Continuous Integration… | by Martin Thoma | Level Up Coding](https://levelup.gitconnected.com/ci-pipelines-for-python-projects-9ac2830d2e38)
 * [파이썬으로 테스트 데이터 만들기 · 개발블로그](https://blog.gyus.me/2020/generate-test-data-with-python/)
 * [Test Automation with Python - The 3 Best Tools in 2021](https://www.activestate.com/blog/the-best-python-tools-for-test-automation/)
+* [My Python testing style guide - Stargirl (Thea) Flowers](https://blog.thea.codes/my-python-testing-style-guide/)
 * [atheris: A Coverage-Guided, Native Python Fuzzer](https://github.com/google/atheris)
 * faker, factory boy [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
 * [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
