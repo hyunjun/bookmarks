@@ -359,6 +359,8 @@ NLP
 * [ML and NLP Research Highlights of 2020](https://ruder.io/research-highlights-2020/)
 * [2018-2020 NLU 연구 동향을 소개합니다](https://www.kakaobrain.com/blog/118)
 * [자연어 생성의 편견과 기타 유해성에 대처하기 - ITWorld Korea](https://www.itworld.co.kr/news/186448)
+* [Best Practices: Designing autosuggest experiences](https://blog.prototypr.io/best-practices-designing-autosuggest-experiences-9c3394774519)
+  * [자동 추천(Autosuggest) 기능의 사용자 경험 설계하기 | GeekNews](https://news.hada.io/topic?id=3867)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
