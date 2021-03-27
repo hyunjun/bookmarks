@@ -888,6 +888,7 @@ Clojure
 * [ultra - A Leiningen plugin for a superior development environment](https://github.com/venantius/ultra)
 * [venia - A Clojure(Script) qraphql query client library](https://github.com/Vincit/venia)
 * [vizard - magic visualization](https://github.com/yieldbot/vizard)
+* [void.cljc: About void and absence of information](https://github.com/helins/void.cljc)
 * [walkable - SQL library for building APIs](https://walkable.gitlab.io/)
 
 ## Library Command Line
