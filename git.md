@@ -702,6 +702,7 @@ Git
 * [codebeat - Get instant feedback on your code](https://codebeat.co/)
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
+* [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
 * [Fork - a fast and friendly git client for Mac and Windows](https://git-fork.com)
 * Fossil [Get started with Fossil, an alternative to Git | Opensource.com](https://opensource.com/article/20/11/fossil)
 * [fugitive](https://github.com/tpope/vim-fugitive)
