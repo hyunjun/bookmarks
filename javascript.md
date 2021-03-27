@@ -48,6 +48,7 @@ Javascript
 * [자바스크립트와 V8 엔진의 메모리 관리 프로세스. Table of Contents | by Minjae Lee | 네이버 플레이스 개발 블로그 | Sep, 2020 | Medium](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1)
 * [Faster JavaScript calls · V8](https://v8.dev/blog/adaptor-frame)
 * [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
+* [**프론트엔드 개발자라면 알고 있어야 할 브라우저의 동작 과정 - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2021/03/27/How-browsers-work.html)
 * [The 10 Days of JavaScript](https://www.youtube.com/playlist?list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs)
 * [**30 Day Vanilla JS Coding Challenge**](https://javascript30.com/)
 * [#CodeTidbits30](https://medium.com/dailyjs/codetidbits30-9a782b17fa89)
@@ -350,14 +351,16 @@ Javascript
 * [2017 is the year that front-end developers should go back and master the basics](https://medium.freecodecamp.com/what-to-learn-in-2017-if-youre-a-frontend-developer-b6cfef46effd)
 * [흔한 2017년의 Front-end 기술 스택](http://seokjun.kr/front-end-dev-stack-2017/)
 * [JavaScript in 2017: 옛날 사람 탈출하기](https://meshlabs.ghost.io/javascript-in-2017/)
-* 2018년과 이후 JavaScript의 동향
-  * [JavaScript(ECMAScript)](http://d2.naver.com/helloworld/7495331)
-  * [라이브러리와 프레임워크](http://d2.naver.com/helloworld/3259111)
-  * [브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368)
 * 2017년과 이후 JavaScript의 동향
   * [JavaScript(ECMAScript)](http://d2.naver.com/helloworld/2809766)
   * [라이브러리와 프레임워크](http://d2.naver.com/helloworld/7229119)
   * [브라우저 밖의 JavaScript](http://d2.naver.com/helloworld/0473039)
+* 2018년과 이후 JavaScript의 동향
+  * [JavaScript(ECMAScript)](http://d2.naver.com/helloworld/7495331)
+  * [라이브러리와 프레임워크](http://d2.naver.com/helloworld/3259111)
+  * [브라우저 밖의 JavaScript](https://d2.naver.com/helloworld/5644368)
+* [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 1](https://d2.naver.com/helloworld/7700312) Deno등 node 개발 환경의 여러가지 다른 library등의 이야기도 나옴
+* [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 2](https://d2.naver.com/helloworld/7975004)
 * [THIS에 대하여 1](https://studystorage.blogspot.com/2017/03/javascript-this-1.html)
 * [자바스크립트 this 바인딩 우선순위](http://blog.jeonghwan.net/2017/10/22/js-context-binding.html)
 * [자바스크립트 this? 간단히 핵심만 파악하기](https://www.youtube.com/watch?v=PAr92molMHU)
@@ -1993,8 +1996,6 @@ Javascript
 * [Node.js에서의 프로토타입 오염 공격이란 무엇인가](https://blog.coderifleman.com/2019/07/19/prototype-pollution-attacks-in-nodejs/)
 * [로우 레벨로 살펴보는 Node.js 이벤트 루프](https://evan-moon.github.io/2019/08/01/nodejs-event-loop-workflow/)
 * [Using Node.js to Read Really, Really Large Datasets & Files (Pt 1)](https://itnext.io/using-node-js-to-read-really-really-large-files-pt-1-d2057fe76b33)
-* [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 1](https://d2.naver.com/helloworld/7700312) Deno등 node 개발 환경의 여러가지 다른 library등의 이야기도 나옴
-* [2019년과 이후 JavaScript의 동향 – 브라우저 밖의 JavaScript 2](https://d2.naver.com/helloworld/7975004)
 * [인증 1편 - Session Management](https://blog.naver.com/pjt3591oo/221695855740)
 * [20 ways to become a better Node.js developer in 2020](https://medium.com/@me_37286/20-ways-to-become-a-better-node-js-developer-in-2020-d6bd73fcf424)
 * [How we 30x'd our Node parallelism](https://blog.plaid.com/how-we-parallelized-our-node-service-by-30x/)
