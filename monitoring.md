@@ -18,6 +18,7 @@ Monitoring
 * [Pro Tips: How Booking.com Handles Millions of Metrics Per Second with Graphite](https://grafana.com/blog/2019/03/21/pro-tips-how-booking.com-handles-millions-of-metrics-per-second-with-graphite/)
 * [아이스크림 홈런 관측성 개선 세미나 - 레거시 관측성 올리기 1/10 → 5/10 후기](https://www.popit.kr/%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC-%ED%99%88%EB%9F%B0-%EA%B4%80%EC%B8%A1%EC%84%B1-%EA%B0%9C%EC%84%A0-%EC%84%B8%EB%AF%B8%EB%82%98-%EB%A0%88%EA%B1%B0%EC%8B%9C-%EA%B4%80%EC%B8%A1%EC%84%B1/)
 * [Lessons from Building Observability Tools at Netflix](https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17)
+* [“모니터링의 새로운 경계” 관찰 가능성의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/183899) Observability
 * [CPU 지표 정리](https://brunch.co.kr/@leedongins/75)
 * [알람에 관하여](https://woowabros.github.io/experience/2020/03/07/alarm.html)
 * [간단하게 만드는 이상한 알람](https://woowabros.github.io/experience/2020/05/14/anomaly_alarm.html)
