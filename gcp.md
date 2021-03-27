@@ -147,3 +147,5 @@ Google Cloud Platform GCP
 
 # Tutorial
 * [구글 클라우드에서 데이터 처리하고 AI 적용하기 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=41582981)
+* [GCPSketchnote: If you are looking to become a Google Cloud Engineer , then you are at the right place. GCPSketchnote is series where I share Google Cloud concepts in quick and easy to learn format](https://github.com/priyankavergadia/GCPSketchnote)
+  * [GCP Sketchnote - 그림으로 배우는 구글 클라우드 | GeekNews](https://news.hada.io/topic?id=3558)
