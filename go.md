@@ -318,6 +318,8 @@ Go
   * [Part 4 - Go Modules: v2 and Beyond](https://blog.golang.org/v2-go-modules)
   * [고 모듈을 사용하여 패키지 구성 방법 개선하기](https://www.popit.kr/고-모듈을-사용하여-패키지-구성-방법-개선하기/)
   * [고 모듈과 함께 비공개 외부 저장소를 사용하는 방법](https://www.popit.kr/%EA%B3%A0-%EB%AA%A8%EB%93%88%EA%B3%BC-%ED%95%A8%EA%BB%98-%EB%B9%84%EA%B3%B5%EA%B0%9C-%EC%99%B8%EB%B6%80-%EC%A0%80%EC%9E%A5%EC%86%8C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
+* net/IO
+  * [netaddr.IP: a new IP address type for Go · Tailscale Blog](https://tailscale.com/blog/netaddr-new-ip-type-for-go/)
 * net/http
   * [An Overview of Server-Side HTTP APIs in Go](https://medium.com/better-programming/overview-of-server-side-http-apis-in-go-44f052737e4b)
 * [regexp](https://golang.org/pkg/regexp/)
@@ -631,6 +633,8 @@ Go
 * [What Makes Go So Different?. Go is currently one of the most… | by Timothy Yalugin | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/what-makes-go-so-different-eb0648498ce0)
 * [Learn Go in ~5mins](https://gist.github.com/prologic/5f6afe9c1b98016ca278f4d507e65510)
 * [GO - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/GO)
+* [Darker Corners of Go - Rytis Biel](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
+* [The ecosystem of the Go programming language | Henrique Vicente](https://henvic.dev/posts/go/)
 
 # Web
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
@@ -643,6 +647,7 @@ Go
 * [7 Reasons Why Front End Developers Going Full Stack Should Choose Go | by Jeremy Morgan | Aug, 2020 | codeburst](https://codeburst.io/7-reasons-why-front-end-developers-going-full-stack-should-choose-go-294ec94cf900)
 * [go 언어로 웹서버 만들기](https://stricky.tistory.com/409)
 * [Top Go Web Frameworks](https://github.com/mingrammer/go-web-framework-stars)
+* [📖 Build a RESTful API on Go: Fiber, PostgreSQL, JWT and Swagger docs in isolated Docker containers - DEV Community](https://dev.to/koddr/build-a-restful-api-on-go-fiber-postgresql-jwt-and-swagger-docs-in-isolated-docker-containers-475j)
 * [Beego Framework An open source framework to build and develop your applications in the Go way](https://beego.me)
   * [Beego (Go application framework) 초간단 사용 소감](http://www.popit.kr/beego-go-application-framework-%EC%B4%88%EA%B0%84%EB%8B%A8-%EC%82%AC%EC%9A%A9-%EC%86%8C%EA%B0%90/)
 * [Echo - High performance, extensible, minimalist Go web framework](https://echo.labstack.com/)
@@ -669,5 +674,7 @@ Go
 * [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 * [Million WebSockets and Go](https://gbws.io/articles/million-websocket-and-go/)
 * [centrifugo - Real-time messaging (Websockets or SockJS) server in Go](https://github.com/centrifugal/centrifugo)
+* [go-websocket-chat-demo](https://github.com/heroku-examples/go-websocket-chat-demo)
+  * [Building a high-scale chat server on Cloud Run](https://ahmet.im/blog/cloud-run-chat-server/)
 * [melody - Minimalist websocket framework for Go](https://github.com/olahol/melody)
 * [melody-jsnes - Multiplayer NES through the magic of WebSockets and Go](https://github.com/olahol/melody-jsnes)
