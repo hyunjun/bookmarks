@@ -73,6 +73,7 @@ Open Source
 * [EOST2020](https://eostday.kr/)
   * [언택트 시대, 오픈소스 기여를 위해 고려해야 할 것들 - YouTube](https://www.youtube.com/watch?v=hrjbqK03O9k)
 * [“하나의 오픈소스, 많은 기여자” 프로메테우스가 작동하는 아름다운 방식 - ITWorld Korea](https://www.itworld.co.kr/news/178289)
+* [How I became a Kubernetes maintainer in 4 hours a week | Opensource.com](https://opensource.com/article/21/2/kubernetes-maintainer)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
