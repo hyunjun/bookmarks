@@ -300,6 +300,7 @@ Business
 * [채용에 관한 스타트업 대표의 네 가지 착각](https://brunch.co.kr/@curahee/210)
 * [CEO의 잘못된 채용에 대해](https://www.linkedin.com/posts/elfpenguin_ceotrgsqb-trgsqb-trgsqbsnyrcy-activity-6756877759907287040-wY_d/)
 * [같이 일하는 사람을 뽑으려고 할 때](https://brunch.co.kr/@jinhoyooephf/23)
+* [인재에 대한 스티브 잡스 명언 베스트 10, 잡스명언, 인재채용 :: 구름컴퍼니](https://leetim.tistory.com/71)
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
@@ -494,6 +495,7 @@ Business
 * [IT: 당신은 좋은 리더입니까?](https://jybaek.tistory.com/884)
 * [내적 동기 부여 RAMP | 에스티마의 인터넷이야기 EstimaStory.com](https://estimastory.com/2021/03/07/ramp/) RAMP
 * [자질 없는 리더보다 준비 없는 리더가 더 나쁘다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/236902)
+* [리더십은 리더에게 달려있지 않다](https://now.rememberapp.co.kr/2020/10/25/10503/)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
