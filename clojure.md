@@ -905,6 +905,7 @@ Clojure
   * [Meetup: Writing Clojure on the Command Line with Babashka - YouTube](https://www.youtube.com/watch?v=RogyxI-GaGQ)
   * [Babashka: a native Clojure interpreter for scripting @ GraalVM Workshop 2021 - Speaker Deck](https://speakerdeck.com/borkdude/babashka-a-native-clojure-interpreter-for-scripting-at-graalvm-workshop-2021)
   * [Re-Writing an OpenConnect VPN Connect script in Babashka | Tech.ToryAnderson.com](https://tech.toryanderson.com/2021/03/06/re-writing-an-openconnect-vpn-connect-script-in-babashka/)
+  * [Babashka book](https://book.babashka.org/)
   * [babashka-sql-pods: Babashka pods for SQL databases](https://github.com/babashka/babashka-sql-pods)
   * [pod-babashka-sqlite3: A babashka pod for interacting with sqlite3](https://github.com/babashka/pod-babashka-sqlite3)
 
