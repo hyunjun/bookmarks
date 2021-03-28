@@ -381,6 +381,7 @@ Data Visualization
 * [Matplotlib Cheat Sheet: Plotting in Python](https://www.datacamp.com/community/blog/python-matplotlib-cheat-sheet)
 * [matplotlib-cheatsheet: Matplotlib 3.1 cheat sheet](https://github.com/rougier/matplotlib-cheatsheet)
 * `http_proxy=x.y.z:port https_proxy=x.y.z:port conda install matplotlib`
+* [💡 Awesome New in Matplotlib 3.4.0 | Kaggle](https://www.kaggle.com/subinium/awesome-new-in-matplotlib-3-4-0)
 * [Simulating a simple harmonic oscillator in Python](http://ham.so/2015/04/14/simulating-a-spring-in-python.html)
 * [The Simplest Way to Create Visualizations in Python Isn’t With matplotlib. | by Andre Ye | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/the-simplest-way-to-create-complex-visualizations-in-python-isnt-with-matplotlib-a5802f2dba92)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
