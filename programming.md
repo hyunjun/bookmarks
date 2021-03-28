@@ -372,6 +372,9 @@ Programming
 * [‘행아웃’을 탄생시킨 혁신적 프로젝트 수행법, ‘스프린트’](http://www.bloter.net/archives/280123)
 * [애자일이 중요한 것이 아니다!](http://www.popit.kr/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%B4-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B2%83%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4/)
 * [Toss-X에서 애자일 회고를 했다](https://medium.com/@ghilbut/toss-x%EC%97%90%EC%84%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%9A%8C%EA%B3%A0%EB%A5%BC-%ED%96%88%EB%8B%A4-cee2f36e7f96)
+* [스포카에서는 회고를 어떻게 할까?](https://spoqa.github.io/2018/08/29/retrospect.html)
+* [2020년 마이리얼트립 개발 조직의 변화와 성과 대한 회고-2편 : No.1 Travel Tech Leader를 향한 도전기 | by Lego | How we build MyRealTrip | Feb, 2021 | Medium](https://medium.com/myrealtrip-product/20%EB%85%84-%EA%B0%9C%EB%B0%9C%EC%A1%B0%EC%A7%81%EC%97%90-%EC%9E%88%EC%97%88%EB%8D%98-%EB%B3%80%ED%99%94%EC%99%80-%EC%84%B1%EA%B3%BC-%EB%8C%80%ED%95%9C-%ED%9A%8C%EA%B3%A0-2%ED%8E%B8-no-1-travel-tech-%ED%9A%8C%EC%82%AC%EB%A5%BC-%ED%96%A5%ED%95%9C-%EB%8F%84%EC%A0%84%EA%B8%B0-f6216be9fd09)
+* [제품개발팀의 온라인 회고 | Medium](https://eyegochild.medium.com/%EC%A0%9C%ED%92%88%EA%B0%9C%EB%B0%9C%ED%8C%80%EC%9D%98-%EC%98%A8%EB%9D%BC%EC%9D%B8-%ED%9A%8C%EA%B3%A0-da5e846a447c)
 * [애자일 파이터](https://agile-fighter.github.io/2017/10/19/first/)
 * [애자일 & 스크럼 프로젝트 관리](https://hyunseob.github.io/2017/10/26/understanding-agile-scrum-project-management/)
 * [22. 애자일은 일을 빨리 하는 것이 아니다](https://brunch.co.kr/@svillustrated/24)
@@ -387,7 +390,6 @@ Programming
 * [애자일에 대한 질문을 받았습니다](https://www.vobour.com/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A7%88%EB%AC%B8%EC%9D%84-%EB%B0%9B%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4)
 * [Why Enterprise Agile Teams Fail](https://medium.com/startup-patterns/why-enterprise-agile-teams-fail-4ae64f7852d6)
 * [허술함을 가장한 애자일(느슨한 서비스)](https://www.popit.kr/%ED%97%88%EC%88%A0%ED%95%A8%EC%9D%84-%EA%B0%80%EC%9E%A5%ED%95%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EB%8A%90%EC%8A%A8%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4/)
-* [스포카에서는 회고를 어떻게 할까?](https://spoqa.github.io/2018/08/29/retrospect.html)
 * [Time to Improve Retrospective](https://medium.com/@vladbatushkov/time-to-improve-retrospective-9794a668b825)
 * [스크럼으로 처음 만나는 애자일 튜토리얼](https://wormwlrm.github.io/2018/09/09/Scrum-tutorial-for-adapting-agile-methodologies.html)
 * [Microsoft의 애자일](https://youngjaekim.wordpress.com/2019/03/29/microsoft%EC%9D%98-%EC%95%A0%EC%9E%90%EC%9D%BC/)
@@ -432,6 +434,7 @@ Programming
 * [클린 애자일 - 5장 기술 실천 방법](https://jusths.tistory.com/192)
 * [클린 애자일 - 6장 애자일해지기](https://jusths.tistory.com/193)
 * [The Shape of Code » Software effort estimation is mostly fake research](http://shape-of-code.coding-guidelines.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/) agile에 대한 이야기는 아니지만 story point 추정이 생각나 여기 넣어둠
+* [지금… IT개발팀에서 일하는 방식 GS SHOP 고군분투기](https://www.slideshare.net/hnki0104/it-gs-shop)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -770,7 +773,6 @@ Programming
 * [Everything About Software Architecture | by Mohit Malhotra | The Startup | Feb, 2021 | Medium](https://medium.com/swlh/everything-aboutsoftware-architecture-dfd2b9351ef4)
 * [Storing and retrieving millions of ad impressions per second](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/storing-and-retrieving-millions-of-ad-impressions-per-second.html)
 * [**LINE 미디어 스토리지 글로벌 배치 프로젝트를 소개합니다 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/line-mediastorage-at-scale/) cache ceph 좋은 글
-* [2020년 마이리얼트립 개발 조직의 변화와 성과 대한 회고-2편 : No.1 Travel Tech Leader를 향한 도전기 | by Lego | How we build MyRealTrip | Feb, 2021 | Medium](https://medium.com/myrealtrip-product/20%EB%85%84-%EA%B0%9C%EB%B0%9C%EC%A1%B0%EC%A7%81%EC%97%90-%EC%9E%88%EC%97%88%EB%8D%98-%EB%B3%80%ED%99%94%EC%99%80-%EC%84%B1%EA%B3%BC-%EB%8C%80%ED%95%9C-%ED%9A%8C%EA%B3%A0-2%ED%8E%B8-no-1-travel-tech-%ED%9A%8C%EC%82%AC%EB%A5%BC-%ED%96%A5%ED%95%9C-%EB%8F%84%EC%A0%84%EA%B8%B0-f6216be9fd09)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 
 ## Architecture Distributed
@@ -2654,6 +2656,7 @@ Programming
 * [**A/B테스트에서 하면 안되는 7가지 실수**](http://mindthelog.com/2017/08/ab-testing)
 * [아마존, 에어비앤비, 넷플릭스의 AB테스트 결과 정리](https://brunch.co.kr/@digitalnative/17)
 * [기획자의 일 - A/B 테스트](https://brunch.co.kr/@yongjinjinipln/70)
+* [📰 뉴욕 타임즈는 어떻게 A/B 테스트를 할까?  다른 | 곽기은 | 커리어리](https://careerly.co.kr/comments/18849?)
 * [**뱅크샐러드의 실험플랫폼 분석 인프라 살펴보기 | 뱅크샐러드**](https://blog.banksalad.com/tech/experiment-platform-analysis-architecture/)
 * [The Causal Analysis of Cannibalization in Online Products - Code as Craft](https://codeascraft.com/2020/02/24/the-causal-analysis-of-cannibalization-in-online-products/)
 * [**일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | Evans Library**](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
