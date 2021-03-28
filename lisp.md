@@ -184,6 +184,9 @@ Lisp
 * [python vs scheme part 1 - YouTube](https://www.youtube.com/watch?v=f-qtqWUKspA)
 * [Schemy - a lightweight Scheme-like scripting language interpreter for embedded use in .NET applications](https://github.com/Microsoft/schemy)
 
+# [tisp](https://github.com/faraazahmad/tisp)
+* [I was bored, so I built a programming language - DEV Community](https://dev.to/faraazahmad/i-was-bored-so-i-built-my-own-programming-language-30f1)
+
 # [ulisp](http://www.ulisp.com/) lisp for Arduino
 
 # Web
