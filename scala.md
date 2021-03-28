@@ -440,6 +440,7 @@ Scala
 * [Using Dotty Union types with Akka Typed – Part II](https://www.lunatech.com/2020/02/using-dotty-union-types-with-akka-typed-part-ii/)
 * [Akka Stream Coexistence With Akka Typed](https://kaplan.dev/articles/akka-stream-coexistence-with-akka-typed/)
 * [Akka Typed: Stateful and Stateless Actors | Rock the JVM - YouTube](https://www.youtube.com/watch?v=gwZjdRQTPu8)
+* [Akka Typed: Message adapters - YouTube](https://www.youtube.com/watch?app=desktop&v=aVgjEMA1AEQ)
 * [(Typed) Akka document 읽으면서 소소하게 정리 (Getting Started Guide)](https://wingnim.tistory.com/119)
 * [ES/CQRS the Akka way](https://medium.com/@reeebuuk/es-cqrs-the-akka-way-abbb3ffb89a1)
 * [The dark side of Akka and the remedy](https://www.slideshare.net/krivachy/the-dark-side-of-akka-and-the-remedy)
@@ -1521,7 +1522,6 @@ Scala
   * [part II](https://virtuslab.com/blog/arrows-monads-and-kleisli-part-ii/)
 * [ScalaSyd 40 - 1. Functor, Apply, Applicative, Bind and Monad by Oliver Daff (Sep 2015)](https://www.youtube.com/watch?v=3Ycp55QEbGM&list=PL16MLkuOzPTxk8OX3M9fb34nmnRoWqwvs)
 * [Deriving the Free Monad](http://underscore.io/blog/posts/2015/04/23/deriving-the-free-monad.html)
-* [Asynchronous Programming and Monad Transformers in Scala](http://tech.kakao.com/2016/05/04/asynchronous-programming-and-monad-transformers-in-scala/)
 * [Scala Monads: Declutter Your Code With Monadic Design](https://www.youtube.com/watch?v=Mw_Jnn_Y5iA)
 * [How to write composable functions and correct programs](https://medium.freecodecamp.org/monadic-composition-and-kleisli-arrows-1d96979bb32)
 * [Functional Composition And The Kleisli (Scala Exchange 2018 Talk) - YouTube](https://www.youtube.com/watch?v=5cY7sJAwIJc)
@@ -1530,7 +1530,6 @@ Scala
 * [38 lines of code towards better data validation in Scala](https://blog.softwaremill.com/38-lines-of-code-towards-better-data-validation-in-scala-c933e5a88f76) monad transformers, type classes, tagless final
 * [Final Tagless seen alive](https://blog.softwaremill.com/final-tagless-seen-alive-79a8d884691d)
 * [Freer doesn’t come for free](https://medium.com/barely-functional/freer-doesnt-come-for-free-c9fade793501)
-* [Monad Transformers aren’t hard!](https://medium.com/@alexander.zaidel/monad-transformers-arent-hard-23387c7ef4a6)
 * [Marvels of functional programming: Composing effects with monads](https://medium.com/@anil.thaplar/marvels-of-functional-programming-composing-effects-with-monads-4972962d09ca)
 * [Monads do not compose](http://blog.tmorris.net/posts/monads-do-not-compose/) Functor와 Applicative는 합성 가능. Monad는 합성 불가능
 * [Journey into the IO Monad (Part 1)](https://medium.com/@RaymondTayBL/journey-into-the-io-monad-part-1-bdf591b4fa09)
@@ -1540,14 +1539,17 @@ Scala
 * [The Making of an IO - Daniel Spiewak](https://www.youtube.com/watch?v=g_jP47HFpWA)
 * [3 Layer Scala Cake](https://blog.oyanglul.us/scala/3-layer-cake)
 * [Composing functions with Reader monad](https://medium.com/@alexander.zaidel/composing-functions-with-reader-monad-f3e471958e2a)
-* [Monad Transformers and Cats MTL](https://efekahraman.github.io/2019/07/monad-transformers-and-cats-mtl)
-* [Monad transformers and cats. Monad transformers implemented in cats… | by Krzysztof Atłasik | Nov, 2020 | SoftwareMill Tech Blog](https://blog.softwaremill.com/monad-transformers-and-cats-3-tips-for-beginners-196fabe58daa)
 * [Dependency injection with Reader Monad in Scala](https://medium.com/rahasak/dependency-injection-with-reader-monad-in-scala-fe05b29e04dd)
 * [scale.bythebay.io: Adelbert Chang, The Functor, Applicative, Monad talk](https://www.youtube.com/watch?v=L0aYcq1tqMo)
 * [What's the Point of Applicative?](http://www.doscienceto.it/blog/posts/2020-03-24-applicative.html)
 * [What's Ap?](http://justinhj.github.io/2020/04/04/whats-ap.html)
 * [Scala의 모나드(Monad)에 대한 정리](https://wingnim.tistory.com/106)
 * [What is a #Monad? In 60 seconds! - YouTube](https://www.youtube.com/watch?v=I2iaaKU1mDg)
+* [Asynchronous Programming and Monad Transformers in Scala](http://tech.kakao.com/2016/05/04/asynchronous-programming-and-monad-transformers-in-scala/)
+* [Monad Transformers aren’t hard!](https://medium.com/@alexander.zaidel/monad-transformers-arent-hard-23387c7ef4a6)
+* [Monad Transformers and Cats MTL](https://efekahraman.github.io/2019/07/monad-transformers-and-cats-mtl)
+* [Monad transformers and cats. Monad transformers implemented in cats… | by Krzysztof Atłasik | Nov, 2020 | SoftwareMill Tech Blog](https://blog.softwaremill.com/monad-transformers-and-cats-3-tips-for-beginners-196fabe58daa)
+* [Monad Transformers – Orji Samuel](https://samuelorji.com/monad-transformers/)
 
 ## Monad Tagless Final
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
