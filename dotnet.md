@@ -16,6 +16,7 @@
   * [.NET Conf 2021 x Seoul, Day 1 - YouTube](https://www.youtube.com/watch?v=Xk6FM2pFkqE)
   * [.NET Conf 2021 x Seoul 당김 기반 비동기 스트림 - IAsyncEnumerable(T) - YouTube](https://www.youtube.com/watch?v=cs2qsnbYFUc)
   * [.NET Conf 2021 x Seoul 다시 보기](https://www.notion.so/1dc78a175d8e46b6b9cec9ef19cbfa72?v=413c2a20f0b042c490305e0fe899036c)
+  * [.NET Conf Mini 21.04](https://dotnetconf.kr/mini/2104) Blazor, Span<T>
 * [.NET Conf 2020](https://www.dotnetconf.net/)
 * [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009)
 * [주간닷넷 2016년 1월 5일](http://blogs.msdn.com/b/eva/archive/2016/01/12/2016-1-5.aspx)
