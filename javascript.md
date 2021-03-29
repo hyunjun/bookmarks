@@ -663,6 +663,7 @@ Javascript
 * [HTTP 응답 지연을 이용한 서버간 작업 동기화 실험 (mutex over http)](https://blog.promedius.ai/0/)
 * [JavaScript: Loose Equals and Strict Equals | by Valentin Podkamennyi | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/javascript-loose-equals-and-strict-equals-ab2144fcbe)
 * [자바스크립트 엔진들의 hidden class 개념과 코드 실행 최적화를 위한 inline caching](https://blog.naver.com/dlaxodud2388/222263604696)
+* [Using Objects for Lookups| freecodecamp Basic Javascript - YouTube](https://www.youtube.com/watch?v=0gyap1hPePk)
 * Array
   * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
   * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
