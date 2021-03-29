@@ -1129,6 +1129,7 @@ Scala
   * [Cats Effect: Home](https://typelevel.org/cats-effect/)
     * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
     * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
+    * [Cats Effect 3 by Daniel Spiewak - YouTube](https://www.youtube.com/watch?v=KZtVBtOrP50)
     * [A rate-limiter in 15 lines of code with cats-effect](https://medium.com/disney-streaming/a-rate-limiter-in-15-lines-of-code-with-cats-effect-af09d838857a)
     * [Cats Effect Ref](https://lewisjkl.com/cats-effect-ref/)
     * [Time traveling in tests with Cats Effect](https://blog.softwaremill.com/time-traveling-in-tests-with-cats-effect-b22084f6a89)
