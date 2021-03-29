@@ -534,6 +534,7 @@ Data Science
 * [영화진흥원 박스오피스 순위 분위](https://developer-ankiwoong.tistory.com/806)
 * [Ondrej Kokes - High Performance Data Loss | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=hoaMzebS_l4)
 * [Data Science With Python | Python For Data Science | Data Science For Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=SJT4ZyLxIE0)
+* [python 데이터 분석 실습 코로나 19 2021 현재 시점 분석하기 1편](https://stricky.tistory.com/457)
 
 ## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
