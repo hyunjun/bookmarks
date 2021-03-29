@@ -731,6 +731,7 @@ ElasticSearch - Lucene
 * [튜토리얼 ElasticSearch - TLS 암호화 및 HTTPS 사용](https://techexpert.tips/ko/%ED%83%84%EC%84%B1-%EA%B2%80%EC%83%89/%ED%83%84%EB%A0%A5%EC%A0%81-%EA%B2%80%EC%83%89-tls-%EC%95%94%ED%98%B8%ED%99%94-%EB%B0%8F-https-%ED%86%B5%EC%8B%A0-%EC%82%AC%EC%9A%A9/)
 * [**Elastic Stack으로 코로나19 대시보드 만들기 - 1부 : 파이프라인 구성 - 꿈꾸는 태태태의 공간**](https://taetaetae.github.io/posts/make-dashboards-from-elasticstack-1/)
 * [**Elastic Stack으로 코로나19 대시보드 만들기 - 2부 : 대시보드 - 꿈꾸는 태태태의 공간**](https://taetaetae.github.io/posts/make-dashboards-from-elasticstack-2/)
+* [**처음부터 시작하는 Elastic - YouTube**](https://www.youtube.com/playlist?list=PLhFRZgJc2afp0gaUnQf68kJHPXLG16YCf) GCP
 
 # X-Pack
 * [Elastic Stack 그리고 X-Pack 이 왔습니다](https://www.elastic.co/kr/blog/heya-elastic-stack-and-x-pack)
