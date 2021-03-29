@@ -951,6 +951,7 @@ App
 * [Back to Bash: Remove Zsh and terminal themes on a Mac step-by-step](https://medium.com/the-code-review/back-to-bash-remove-zsh-and-terminal-themes-on-a-mac-step-by-step-f89f69d2ec73)
 * [Faster and enjoyable ZSH (maybe) • htr3n's](https://htr3n.github.io/2018/07/faster-zsh/)
 * [4 Simple Steps To Create An Awesome Terminal Experience On Your Mac](https://medium.com/tech-explained/4-simple-steps-to-create-an-awesome-terminal-experience-on-your-mac-70bd7a0e1b59)
+* [Make your terminal window pretty on Linux/MacOS with open source based theme tools - YouTube](https://www.youtube.com/watch?v=McaAsw_3C0w)
 * [OS X, Case Sensitive 볼륨을 Case Insensitive 볼륨으로 변경하기](https://elegantcoder.com/osx-convert-volume-case/)
 * [My favorite command-line utilities](https://hackernoon.com/macbook-my-command-line-utilities-f8a121c3b019)
 * [Determine OS X version from the command line](https://coderwall.com/p/4yz8dq/determine-os-x-version-from-the-command-line)
