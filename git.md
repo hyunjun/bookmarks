@@ -230,6 +230,7 @@ Git
 * [GitHub Actions를 활용한 ECS 배포자동화. Deployment Automation (Django + Docker… | by Woosik Kim | Feb, 2021 | Medium](https://well-balanced.medium.com/github-action%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-ecs-%EB%B0%B0%ED%8F%AC%EC%9E%90%EB%8F%99%ED%99%94-dd359c259910)
 * [GitHub으로 시작하는 CI/CD #github #actions - YouTube](https://www.youtube.com/watch?v=Np64aq4AlLg)
   * [actions](https://okdevtv.com/mib/github/actions)
+* [GitHub Actions의 pull_request_target과 workflow_run 이벤트 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1541)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
