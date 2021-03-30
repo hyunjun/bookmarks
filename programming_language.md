@@ -70,6 +70,7 @@ Programming Language
   * [GraalVM 21.0 Introduces a JVM Written in Java](https://www.infoq.com/news/2021/01/graalvm-21-jvm-java/)
   * [Java on Truffle — Going Fully Metacircular | by Oleg Šelajev | graalvm | Jan, 2021 | Medium](https://medium.com/graalvm/java-on-truffle-going-fully-metacircular-215531e3f840)
   * [Making sense of Native Image contents | graalvm](https://medium.com/graalvm/making-sense-of-native-image-contents-741a688dab4d)
+  * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=eKNEqWdC_Gs)
 * [-4 % 3 = ?](https://libsora.so/posts/sign-of-mod-operator/) 음수인 경우 language에 따라 mod의 결과가 다름
 * [연봉 높은 프로그래밍 언어 순위 2018](https://futurecreator.github.io/2018/08/07/highest-salaries-worldwide-programming-languages-2018/)
 * [Top 3 Programming Language To Watch Out in 2019](https://hackernoon.com/top-3-programming-language-to-watch-out-in-2019-95995e81ad2b)
