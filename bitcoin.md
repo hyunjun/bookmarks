@@ -124,6 +124,7 @@ Bitcoin
 * [비트코인은 모르겠고, 블록체인이나 알아보자](https://maily.so/grabnews/posts/bdd741)
 * ["블록체인 기업으로 가는 길" 1일차 - 블록체인 일반](https://jhrogue.blogspot.com/2021/03/1.html)
 * ["블록체인 기업으로 가는 길" 2일차 - 블록체인 기술](https://jhrogue.blogspot.com/2021/03/2.html)
+* ["블록체인 기업으로 가는 길" 3회 블록체인 사업 - YouTube](https://www.youtube.com/watch?v=dtGm4G0W33Q)
 
 ## Blockchain Javascript
 * [자바스크립트로 블록체인 구현하기(입문)-1. 블록체인이란 무엇인가?](https://songseungwon.tistory.com/8)
