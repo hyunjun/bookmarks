@@ -263,6 +263,7 @@ Scala
   * [순수 함수형 스칼라로 웹 애플리케이션 만들기](https://slides.com/guersam/pure-scala-webapp#/)
   * [순수 함수형 스칼라로 웹 애플리케이션 만들기](https://github.com/guersam/kcd2019)
 * [Identify Side Effects And Refactor Fearlessly](http://blog.leifbattermann.de/2020/02/03/identify-side-effects-and-refactor-fearlessly/)
+* [Fearless Refactoring with Functional Programming | Scala - YouTube](https://www.youtube.com/watch?v=Lp7YNuzWL-Y)
 * [Building Serverless Scala Services with GraalVM](https://www.inner-product.com/posts/serverless-scala-services-with-graalvm/)
 * [Deploying a full stack Scala application on Heroku](https://medium.com/@antoine.doeraene/deploying-a-full-stack-scala-application-on-heroku-6d8093a913b3)
 * [Fledge over the flow … How to determine a streaming problem](https://medium.com/@hajjijo313/fledge-over-the-flow-66e065b1ddbb) This is a story about a little experience of integrating (Akka-Stream, Alpakka-Kafka, Kafka, Aplakka-Slick, TimescaleDB) — Part 1/3
@@ -1788,6 +1789,7 @@ Scala
 * [ScalablyTyped - The Javascript ecosystem for Scala.js!](https://github.com/oyvindberg/ScalablyTyped)
 * [Scala.js + Snowpack + Scalablytyped tutorial - YouTube](https://www.youtube.com/watch?v=EiGGfH5hMMA)
 * [The importance of Scala.js](https://www.scalawilliam.com/importance-scalajs/)
+* [Deriving the Frontend — Form Combinator Fun with Scala.js - YouTube](https://www.youtube.com/watch?v=JHriftPO62I)
 
 # TDD, Test
 * [Testing without mocking in Scala](http://engineering.monsanto.com/2015/07/28/avoiding-mocks/)
