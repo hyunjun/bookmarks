@@ -889,6 +889,7 @@ Scala
       * [Introducing ZIO Http. Introducing ZIO Http | by Tushar Mathur | Mar, 2021 | Dream11 Engineering](https://blog.dream11engineering.com/introducing-zio-http-2b66bb036fdc)
       * [ZIO World - ZIO Kafka - YouTube](https://www.youtube.com/watch?v=GECv1ONieLw)
       * [ZIO WORLD - ZIO SQL - YouTube](https://www.youtube.com/watch?v=cIMA6iT9B-k)
+      * [ZIO WORLD - ZIO WEB - YouTube](https://www.youtube.com/watch?v=UBT-7h8JgU4)
     * ZLayer
       * [What are the benefits of the ZIO modules with ZLayers](https://medium.com/@pascal.mengelt/what-are-the-benefits-of-the-zio-modules-with-zlayers-3bf6cc064a9b)
       * [From idea to product with ZLayer](https://scala.monster/welcome-zio/)
