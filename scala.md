@@ -623,6 +623,9 @@ Scala
   * [How to Sort Lists in Scala with Tail Recursion - Rock the JVM Blog](https://blog.rockthejvm.com/sorting/)
     * [How to Sort Lists with Tail Recursion in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=YKwBBe3FlAM)
   * [Scala's List has a Secret - Alexandru Nedelcu](https://alexn.org/blog/2021/02/12/scala-list-secret.html)
+  * [Learning Scala by building Scala - Lists - Maurício Linhares' ramblings](https://mauricio.github.io/2013/11/25/learning-scala-by-building-scala-lists.html)
+  * [Learning Scala by building Scala - Lists Part 2 - Maurício Linhares' ramblings](https://mauricio.github.io/2013/12/08/learning-scala-by-building-scala-lists-part-2.html)
+  * [Learning Scala by building Scala - Lists and Option - Maurício Linhares' ramblings](https://mauricio.github.io/2013/12/25/learning-scala-by-building-scala-lists-part-3.html)
 * concurrent
   * duration
     * [Rock the JVM | How Does "20 seconds" Work in Scala?](https://rockthejvm.com/blog/215541/20-seconds)
@@ -638,6 +641,7 @@ Scala
   * [3 Useful Things About Scala’s Either Class That You Want To Know](https://levelup.gitconnected.com/3-useful-things-about-scalas-either-class-that-you-want-to-know-42adbe090e60)
   * [practice - Try vs. Either](https://gist.github.com/hyunjun/a3969336a5b8032260ba19efc74136c7#file-either_try-md)
     * [Try Either 비교](https://lascala.slack.com/archives/C11CB042G/p1608585060008900)
+  * [Scala's Either, Try and the M word - Maurício Linhares' ramblings](https://mauricio.github.io/2014/02/17/scala-either-try-and-the-m-word.html)
 * ExecutionContext
   * [Why do we need an execution context? - Wiem Zine - Medium](https://medium.com/@wiemzin/when-we-want-to-run-a-simple-code-using-future-we-get-a-compile-error-that-we-need-an-execution-ba416fca3739)
   * ContextShift [A short guide to Blocker. | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/a-short-guide-to-blocker-6cd29e145a12)
@@ -667,6 +671,7 @@ Scala
   * [The Future.await(s) for no one](https://medium.com/@idankoch_32247/the-future-await-s-for-no-one-652ed333f752)
   * [Easy Parallel Programming with Scala Futures](http://www.lihaoyi.com/post/EasyParallelProgrammingwithScalaFutures.html)
   * [**Promise for better Future**](https://medium.com/rahasak/promise-for-better-future-a174ce501f2c)
+  * [Scala, promises, futures, Netty and Memcached get together to have monads - Maurício Linhares' ramblings](https://mauricio.github.io/2014/05/01/scala-promises-futures-memcached-and-netty-having-fun.html)
   * [Getting Asynchronous in Scala : Part 1 (Future, Callbacks, Combinators etc.)](https://blog.knoldus.com/getting-asynchronous-in-scala-part-1-future-callbacks-combinators-etc/)
   * [Mastering Scala: Futures](https://www.credera.com/blog/credera-site/mastering-scala-futures/)
   * [Scala Futures](https://www.waitingforcode.com/scala-async/scala-futures/read)
@@ -1552,6 +1557,10 @@ Scala
 * [Monad Transformers and Cats MTL](https://efekahraman.github.io/2019/07/monad-transformers-and-cats-mtl)
 * [Monad transformers and cats. Monad transformers implemented in cats… | by Krzysztof Atłasik | Nov, 2020 | SoftwareMill Tech Blog](https://blog.softwaremill.com/monad-transformers-and-cats-3-tips-for-beginners-196fabe58daa)
 * [Monad Transformers – Orji Samuel](https://samuelorji.com/monad-transformers/)
+* [One Div Zero: Monads are Elephants Part 1](http://james-iry.blogspot.com/2007/09/monads-are-elephants-part-1.html)
+* [One Div Zero: Monads are Elephants Part 2](http://james-iry.blogspot.com/2007/10/monads-are-elephants-part-2.html)
+* [One Div Zero: Monads are Elephants Part 3](http://james-iry.blogspot.com/2007/10/monads-are-elephants-part-3.html)
+* [One Div Zero: Monads are Elephants Part 4](http://james-iry.blogspot.com/2007/11/monads-are-elephants-part-4.html)
 
 ## Monad Tagless Final
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
