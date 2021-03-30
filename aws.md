@@ -626,6 +626,7 @@ AWS
 * [AWS 클라우드 초보들을 위한 EC2 인스턴스 SSH 로 접속하기. - YouTube](https://www.youtube.com/watch?v=oMVfhT_xlzk)
 * [aws ec2 nvme disk 의 device 위치 변경을 고정 시키기 - Cloud](https://vitta.tistory.com/62)
 * [🚚초간단 단독 EC2 서버 배포하는 법, #alias #nojenkins - YouTube](https://www.youtube.com/watch?v=iqd_aWzhtnc)
+* [ec2_auto_stop.py - Finds ec2 of all regions and stops instances where the tag AutoStopProtect is not set to True](https://gist.github.com/serithemage/bb6ac8939a0819406ee27c9f34a55481)
 
 # ECS Elastic Container Service
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
