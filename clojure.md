@@ -33,6 +33,7 @@ Clojure
 * [(defn podcast [themes] (conj themes 'Clojure 'ClojureScript))](https://defn.audio/)
 * [ClojureScript Podcast](https://clojurescriptpodcast.com/)
 * [The future of Clojure | ThoughtWorks](https://www.thoughtworks.com/podcasts/future-clojure)
+* [A hidden message in Cognicast podcasts](https://grishaev.me/en/cognicast/)
 * [Jacek Schae](https://www.jacekschae.com/)
 * [Clojure Memo](http://philoskim.github.io/doc/)
 * [ClojureDocs is a community-powered documentation and examples repository for the Clojure programming language](https://clojuredocs.org/)
@@ -265,6 +266,7 @@ Clojure
 * [A Year Or So With Clojure | Giovani Altelino](https://www.giovanialtelino.com/post/a-year-clojure/)
 * [Reimplementing TeX's Algorithms: Looking Back at Thirty Years of Programming](https://www.infoq.com/news/2015/01/implementing-tex-in-clojure/)
 * [I will never let monads be in a Clojure project](https://grishaev.me/en/no-monads/)
+* [Systems in Clojure](https://grishaev.me/en/clj-book-systems/)
 * [Atabey Kaygun — Kruskal's Algorithm Implemented in Clojure](https://kaygun.tumblr.com/post/643010859143151616/kruskals-algorithm-implemented-in-clojure)
 * [Atabey Kaygun — Stoer-Wagner Algorithm in Clojure](https://kaygun.tumblr.com/post/643991756387532800/stoer-wagner-algorithm-in-clojure)
 * [Enigma 1: Turning rotors](https://asoftwarecraft.hashnode.dev/enigma-1-turning-rotors)
@@ -305,8 +307,18 @@ Clojure
 * [🛠 Bootstrapping our CI – Nextjournal](https://nextjournal.com/blog/ci)
 * [Practicalli: Overview of Language Server Protocol LSP for Clojure development](https://practicalli.github.io/blog/posts/overview-of-language-server-protocol-lsp-for-clojure-development/)
 * ["Alda's dynamic relationship with Clojure" by Dave Yarwood - YouTube](https://www.youtube.com/watch?v=6hUihVWdgW0)
+* [dave yarwood · Why I'm rewriting Alda in Go and Kotlin](https://blog.djy.io/why-im-rewriting-alda-in-go-and-kotlin/)
 * [Symbolic Assembly: Using Clojure to Meta-program Bytecode - Ramsey Nasser - YouTube](https://www.youtube.com/watch?v=eDad1pvwX34)
 * [Why Clojure (Lisp) is good for writing transpilers – Sequenced Thoughts from C/S](https://elangocheran.com/2020/03/18/why-clojure-lisp-is-good-for-writing-transpilers/amp/)
+* [User-Agent parser for Clojure](https://grishaev.me/en/user-agent/)
+* [Remus: a new RSS/Atom feed parser for Clojure](https://grishaev.me/en/remus/)
+* [Environ variables are not for configuring software](https://grishaev.me/en/env/)
+* [First Clojure stream in English](https://grishaev.me/en/clj-stream/)
+* [Thoughts on UI tests](https://grishaev.me/en/ui-test/)
+* [Dealing with emoji in Clojure](https://grishaev.me/en/emoji/)
+* [Clojure in Highload Cup](https://grishaev.me/en/highload-cup/)
+* [In-Memory SQLite Database In Clojure](https://grishaev.me/en/clj-sqlite/)
+* [On Clojure arguments](https://grishaev.me/en/clj-args/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -340,6 +352,8 @@ Clojure
   * [If you use Clojure Spec, how do you use it? Do you tend to put all your specs in one place or distribute them through the "modules" of your program?](https://www.quora.com/If-you-use-Clojure-Spec-how-do-you-use-it-Do-you-tend-to-put-all-your-specs-in-one-place-or-distribute-them-through-the-modules-of-your-program)
   * [Clojure Spec Expressing Data Constraints without Types - Alex Miller - YouTube](https://www.youtube.com/watch?v=Xb0UhDeHzBM)
   * [speced.def provides spec-backed forms of defn, defprotocol, fn, let etc. using the same exact syntax as clojure.core's](https://github.com/nedap/speced.def)
+  * [Dictionary-like Specs in Clojure](https://grishaev.me/spec-dict/)
+    * [spec-dict: Better map specs](https://github.com/igrishaev/spec-dict)
 * cond->
   * [The usefulness of Clojure's cond->](http://jakemccrary.com/blog/2016/04/10/the-usefulness-of-clojures-cond-arrow)
 * core.async
@@ -633,6 +647,7 @@ Clojure
   * [CIDER Keyboard Shortcuts](http://www.cheatography.com/bilus/cheat-sheets/emacs-cider/)
   * [Dark CIDER (by Bozhidar Batsov) - YouTube](https://www.youtube.com/watch?v=IvTDzKVL58Y)
   * [CIDER 1.0 | Meta Redux](https://metaredux.com/posts/2020/12/28/cider-1-0.html)
+  * [Clojure Webinar #1](https://grishaev.me/en/clj-webinar-1/)
 * [cljdropbox - A Clojure library designed to ... well, that part is up to you](https://github.com/skyjimmy/cljdropbox)
 * [clj-embed - A clojure library for using multiple clojure runtimes in a single jvm process](https://github.com/RutledgePaulV/clj-embed)
   * 하나의 jvm에서 여러 clojure 환경 사용 가능
@@ -698,6 +713,8 @@ Clojure
 * [data.int-map: A map optimized for integer keys](https://github.com/clojure/data.int-map)
 * [Datomic - Double-entry accounting software written in Clojure with Datomic](https://github.com/juxt/juxt-accounting)
   * [Datomic: 함수형 데이터베이스](https://github.com/philoskim/datomic-intro)
+  * [Conditional Queries in Datomic](https://grishaev.me/en/datomic-query/)
+  * [Migration from Postgres to Datomic](https://grishaev.me/en/pg-to-datomic/)
 * [docopt.clj: Clojure implementation of the docopt description language](https://github.com/nubank/docopt.clj)
 * [dog-board - A website written in noir](https://github.com/re-noir/dog-board)
 * [Drake is a simple-to-use, extensible, text-based data workflow tool that organizes command execution around data and its dependencies](https://github.com/Factual/drake)
@@ -757,6 +774,7 @@ Clojure
   * [leiningen-win-installer - An Installer for Leiningen on Windows](https://djpowell.github.io/leiningen-win-installer/)
   * [Leiningen GraalVM native builder image](https://github.com/valerauko/clojure-graalvm-native)
   * [Leiningen: Split an uberjar into dependencies.jar and app.jar (to optimize Docker layers and AWS Lambda functions)](https://blog.jakubholy.net/leiningen-split-uberjar-into-dependencies-and-app/)
+  * [Don't use Leiningen to run shell-scripts](https://grishaev.me/en/lein/)
 * [Leiningen plugin for executing tasks on sub-projects](https://github.com/kumarshantanu/lein-sub)
   * lein-count [Counting Clojure Code](http://aaroniba.net/counting-clojure-code) line 수가 아니라 tree node를 이용해 code 양을 계산
   * [lein-nsort: Leiningen plugin that checks that order of namespace declarations for Clojure and ClojureScript](https://github.com/ertugrulcetin/lein-nsort)
