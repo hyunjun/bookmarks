@@ -447,6 +447,7 @@ Programming Books
   * [제대로 된 실무서적 - 파이썬 데이터분석 실무 테크닉 100 | 딥백수](https://dl4ab.github.io/2020/09/04/python-data-analysis-technique)
 * (NOT YET) [데이터 과학 트레이닝 북 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/12/21/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-%EB%B6%81/)
 * (NOT YET) [팩트풀니스 - 우리가 세상을 오해하는 10가지 이유와 세상이 생각보다 괜찮은 이유 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1528)
+  * [데이터 분석가의 팩트풀니스](https://brunch.co.kr/@secreties86/40)
 * (NOT YET) [데이터 과학 트레이닝 북: 넘파이, 사이파이, 판다스, 매트플롯립을 활용하여 직접 실습해 보는 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/12/21/%eb%8d%b0%ec%9d%b4%ed%84%b0-%ea%b3%bc%ed%95%99-%ed%8a%b8%eb%a0%88%ec%9d%b4%eb%8b%9d-%eb%b6%81/)
 
 ## Deep Learning
