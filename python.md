@@ -3507,6 +3507,7 @@ Python
   * [**Hypermodern Python**](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/) pyenv, click, requests
   * [A hygienic Python setup for Linux, Mac, and WSL | by Ben Kehoe | Sep, 2020 | A Cloud Guru](https://read.acloud.guru/my-python-setup-77c57a2fc4b6)
   * [Hello Poetry (Dependency Management for Python)](https://jybaek.tistory.com/891)
+  * [Poetry를 사용한 파이썬 패키지 관리](https://lhy.kr/python-poetry)
 * [py2app - Create standalone Mac OS X applications with Python](https://py2app.readthedocs.io/)
 * pyenv
   * [pyenv Tutorial](https://amaral.northwestern.edu/resources/guides/pyenv-tutorial)
