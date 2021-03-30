@@ -1622,6 +1622,7 @@ Programming
 * [Top 5 Cybersecurity Tools for a Work-from-Home World | ActiveState](https://www.activestate.com/blog/top-5-cybersecurity-tools-for-a-work-from-home-world/)
 * [꿀벌개발일지 :: Salted Hashes vs. HMAC](https://ohgyun.com/801)
 * [Application Level Encryption for Software Architects](https://www.infoq.com/articles/ale-software-architects)
+* [생체 정보를 활용한 안전한 로그인, passwordless LINE 프로젝트를 소개합니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/secure-line-login-biometric-key/)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
