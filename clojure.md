@@ -306,6 +306,7 @@ Clojure
 * [Practicalli: Overview of Language Server Protocol LSP for Clojure development](https://practicalli.github.io/blog/posts/overview-of-language-server-protocol-lsp-for-clojure-development/)
 * ["Alda's dynamic relationship with Clojure" by Dave Yarwood - YouTube](https://www.youtube.com/watch?v=6hUihVWdgW0)
 * [Symbolic Assembly: Using Clojure to Meta-program Bytecode - Ramsey Nasser - YouTube](https://www.youtube.com/watch?v=eDad1pvwX34)
+* [Why Clojure (Lisp) is good for writing transpilers – Sequenced Thoughts from C/S](https://elangocheran.com/2020/03/18/why-clojure-lisp-is-good-for-writing-transpilers/amp/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -377,6 +378,7 @@ Clojure
   * [Clojure Goodness: Merge Maps With Function To Set Value Duplicate Keys - Messages from mrhaki](https://blog.mrhaki.com/2021/02/clojure-goodness-merge-maps-with.html)
   * [array-map](http://philoskim.github.io/doc/tips.html#%28part._array-map%29)
   * [Clojure Goodness: Turning Map Values To Map Keys - Messages from mrhaki](https://blog.mrhaki.com/2021/03/clojure-goodness-turning-map-values-to.html)
+  * [Returns a map](https://clojurearcana.com/returns-a-map/)
 * match
   * [github.com/clojure/core.match](https://github.com/clojure/core.match)
   * [learnyouahaskell.com/syntax-in-functions#pattern-matching](http://learnyouahaskell.com/syntax-in-functions#pattern-matching)
