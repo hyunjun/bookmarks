@@ -1077,3 +1077,5 @@
 * [Zeppelin notebook shortcuts - Mk’s Blog](https://moons08.github.io/programming/zeppelin_shortcuts/)
 * [Using Apache Zeppelin with SQL Server | by Mike Moritz | Medium](https://medium.com/@mike.p.moritz/using-apache-zeppelin-with-sql-server-d1964207ac5e)
 * [Zeplin ML: a ML plugin for Zeplin - YouTube](https://www.youtube.com/watch?v=a3jANIGk5EA)
+* [📊데이터 시각화 플랫폼 제플린 #zeppelin #dataviz - YouTube](https://www.youtube.com/watch?v=_7EP_FYVR-s)
+  * [zeppelin](https://okdevtv.com/mib/zeppelin)
