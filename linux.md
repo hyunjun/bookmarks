@@ -694,6 +694,7 @@ Linux
   * [우분투에서 sudo 명령어 없이 docker 사용하기](https://www.huskyhoochu.com/october-i-learned/)
   * [5 new sudo features you need to know in 2020 | Opensource.com](https://opensource.com/article/20/10/sudo-19)
   * [Difference between “sudo” and “su” command in Linux, UNIX, or Mac OS | by Bryant Jimin Son | Feb, 2021 | Medium](https://bryantson.medium.com/difference-between-sudo-and-su-command-in-linux-unix-or-mac-os-5cd22a7480f8)
+  * [Exploring the differences between sudo and su commands in Linux | Enable Sysadmin](https://www.redhat.com/sysadmin/difference-between-sudo-su)
   * [Difference between "sudo" and "su" command in Linux - YouTube](https://www.youtube.com/watch?v=wLK9Y3T5sDI)
 * [systemd](http://www.freedesktop.org/wiki/Software/systemd/) redhat 6.3에서는 `configure`가 안 됨
   * [How to install, manage, start and autostart ssh service on RHEL 7 Linux](https://linuxconfig.org/how-to-install-manage-start-and-autostart-ssh-service-on-rhel-7-start)
