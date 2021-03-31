@@ -109,6 +109,7 @@ Julia
   * [Adding Color And Features To My Graphing Library For Julia (Part 5) | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/adding-color-and-features-to-my-graphing-library-for-julia-part-5-15426b00dcaf)
 * [Multiple Dispatch: A Powerful Programming Paradigm | by Alex Powell | Jan, 2021 | Towards Data Science](https://towardsdatascience.com/multiple-dispatch-a-powerful-programming-paradigm-8bc8fcd2c73a)
 * [Optimizing Serial Code](https://mitmath.github.io/18337/lecture2/optimizing)
+* [Profiling type-inference](https://julialang.org/blog/2021/01/snoopi_deep/)
 
 # API
 * Pkg.add
