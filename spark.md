@@ -1079,3 +1079,4 @@
 * [Zeplin ML: a ML plugin for Zeplin - YouTube](https://www.youtube.com/watch?v=a3jANIGk5EA)
 * [📊데이터 시각화 플랫폼 제플린 #zeppelin #dataviz - YouTube](https://www.youtube.com/watch?v=_7EP_FYVR-s)
   * [zeppelin](https://okdevtv.com/mib/zeppelin)
+* [📊제플린 쉽게 시작하기 #zeppelin #dataviz - YouTube](https://www.youtube.com/watch?v=y-GWhTNW3sk)
