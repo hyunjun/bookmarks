@@ -361,6 +361,8 @@ Programming
 * [코딩블로그 종류와 장점, 단점 | 블로그 선택](https://digiconfactory.tistory.com/entry/%EC%BD%94%EB%94%A9%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A2%85%EB%A5%98%EC%99%80-%EC%9E%A5%EC%A0%90-%EB%8B%A8%EC%A0%90-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%A0%ED%83%9D)
 * [**Hashids - generate short unique ids from integers**](https://hashids.org/) 여러가지 다양한 언어별 github repo 제공
 * [ISO 8601: the better date format | Blog | Kirby Kevinson](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
+* [슬기로운 dooray 생활 - 4년간 한中을 오가며 써온 소감 총정리 | Popit](https://www.popit.kr/%ec%8a%ac%ea%b8%b0%eb%a1%9c%ec%9a%b4-dooray-%ec%83%9d%ed%99%9c-4%eb%85%84%ea%b0%84-%ed%95%9c%e4%b8%ad%ec%9d%84-%ec%98%a4%ea%b0%80%eb%a9%b0-%ec%8d%a8%ec%98%a8-%ec%86%8c%ea%b0%90-%ec%b4%9d%ec%a0%95/) 여러가지 개발 프로세스 관련 이야기
+* [다양한 아기발걸음으로 배우기 | Popit](https://www.popit.kr/%EB%8B%A4%EC%96%91%ED%95%9C-%EC%95%84%EA%B8%B0%EB%B0%9C%EA%B1%B8%EC%9D%8C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EA%B8%B0/)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -1082,6 +1084,7 @@ Programming
 * [Serverless Functions for Microservices? Probably Yes, But Stay Flexible to Change](https://www.infoq.com/articles/serverless-microservices-flexibility/)
 * [Delivering BBC Online using Serverless | by Johnathan Ishmael | BBC Design + Engineering | Medium](https://medium.com/bbc-design-engineering/delivering-bbc-online-using-serverless-79d4a9b0da16)
 * [Why Do We Need Serverless Computing? | by Bryant Jimin Son | Medium](https://bryantson.medium.com/why-do-we-need-serverless-computing-33e93c57ca02)
+* [Serverless Korea - YouTube](https://www.youtube.com/channel/UCI16eh9VClj1HSZWC4_ZMIw/videos)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
