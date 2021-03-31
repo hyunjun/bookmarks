@@ -485,6 +485,7 @@ Java
 * [IntelliJ에서 JPA ER Diagram 확인 방법](https://jojoldu.tistory.com/517)
 * [Meet Educational Products—Educational Products](https://www.jetbrains.com/help/education/educational-products.html#85aa)
 * [IntelliJ IDEA 2021.1 EAP 1 Supports Java 16](https://www.infoq.com/news/2021/02/intellij-idea-2021-eap1-java16/)
+* [키노트로 만든 IntelliJ, VSCode 키맵 템플릿](https://velog.io/@drypot/IntelliJ-VSCode-Keymap-Template)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
