@@ -1438,3 +1438,4 @@ Machine Learning
 * [Machine Learning by Analogy](https://www2.slideshare.net/ColleenFarrelly/machine-learning-by-analogy-59094152)
 * [40+ Modern Tutorials Covering All Aspects of Machine Learning - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/40-tutorials-covering-all-aspects-of-machine-learning)
 * [머신러닝야학](https://ml.yah.ac/)
+* [How to Learn Machine Learning Online Free in 2021?- Free Resources](https://www.mltut.com/how-to-learn-machine-learning-online-free/)
