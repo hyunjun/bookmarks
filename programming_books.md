@@ -778,6 +778,7 @@ Programming Books
 * (NOT YET) [쿠버네티스를 활용한 클라우드 네이티브 데브옵스](https://jybaek.tistory.com/864)
 * (NOT YET) [독서광 쿠버네티스 패턴](https://jhrogue.blogspot.com/2020/05/blog-post.html)
   * [Kubernetes Patterns - Examples](https://github.com/k8spatterns/examples)
+* (NOT YET) [쿠버네티스 입문 - 90가지 예제로 배우는 컨테이너 관리 자동화 표준 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1542)
 * (NOT YET) [Container Security (컨테이너 보안)](https://jybaek.tistory.com/892)
   * [류광의 번역 이야기 :: 번역서 "컨테이너 보안" 출간 소식](http://occamsrazr.net/tt/370)
 
