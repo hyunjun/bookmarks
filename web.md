@@ -581,6 +581,7 @@ Web
 * [nginx 시작하기 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222242046633)
 * [nginx 시작하기 로드밸런싱 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222242885659)
 * [Common Nginx misconfigurations that leave your web server open to attack | Detectify Blog](https://blog.detectify.com/2020/11/10/common-nginx-misconfigurations/)
+* [Nginx-ingress controller for cross-namespace support and fix 308 redirect loops with AWS NLB | by ismail yenigül | FAUN](https://faun.pub/nginx-ingress-controller-for-cross-namespace-support-and-fix-308-redirect-loops-with-aws-nlb-9c9ca58deeaa)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
 * [topngx - top for NGINX](https://github.com/gsquire/topngx)
