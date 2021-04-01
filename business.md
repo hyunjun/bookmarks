@@ -256,6 +256,7 @@ Business
 * [왜 그는 데이터를 보게 되었는가?. 개인적인 관점임을 전제하고, 요즘은 IT 기획자로서 살아간다는 것이… | by Ghost_0503 | Mar, 2021 | Medium](https://nep-kim.medium.com/%EC%99%9C-%EA%B7%B8%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%B3%B4%EA%B2%8C-%EB%90%98%EC%97%88%EB%8A%94%EA%B0%80-87091b491251)
 * [신규 앱기획, 뭘 알아야 시작한다고?](https://brunch.co.kr/@windydog/440)
 * [케이스 스터디 어떻게 할 것인가](https://brunch.co.kr/@lunarshore/409) 기획
+* [왜 넷플릭스 포스터는 때깔부터 다를까](https://rbworld.tistory.com/124)
 * [휴대전화번호가 최악의 회원가입 수단인 이유: 클럽하우스 사례](https://gilhwan.com/entry/%ED%9C%B4%EB%8C%80%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80-%EC%B5%9C%EC%95%85%EC%9D%98-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EC%88%98%EB%8B%A8%EC%9D%B8-%EC%9D%B4%EC%9C%A0)
 * [닌텐도는 어떻게 기술을 활용하는가](https://brunch.co.kr/@lunarshore/389)
 * [HBR 독후감 스티치픽스 CEO, 개인의 스타일을 대중에게 파는 법外](https://www.popit.kr/hbr-%EB%8F%85%ED%9B%84%EA%B0%90-%EC%8A%A4%ED%8B%B0%EC%B9%98%ED%94%BD%EC%8A%A4-ceo-%EA%B0%9C%EC%9D%B8%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84-%EB%8C%80%EC%A4%91%EC%97%90%EA%B2%8C-%ED%8C%8C/)
@@ -460,6 +461,7 @@ Business
 * [개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
 * [초보 개발 팀장의 1년 회고 - 좋은 팀장이 되기 위한 노력들](https://zzsza.github.io/diary/2020/04/26/novice-leader-retrospect/)
 * [초보 개발 팀장의 1년 회고: 좋은 팀장이 되기 위한 노력들 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220080)
+* [개발팀과 개발팀장이 사라져야 하는 이유](https://seokjun.kim/no-reason-for-dev-team/) 대체로 동의
 * [개발자 비급(祕笈) – 4. 팀장이 아니지만 괜찮아 :: Channy's Blog](http://channy.creation.net/blog/1399)
 * [Should you choose a Tech Lead or Engineering Manager Role? 정리](https://ugong2san.tistory.com/1891)
 * [The 5 Common Mistakes Of New Engineering Managers - Ochronus online](https://ochronus.online/the-5-common-mistakes-of-new-engineering-managers/)
