@@ -416,6 +416,8 @@ AWS
 * [AWS Cheat Sheets - Tutorials Dojo](https://tutorialsdojo.com/aws-cheat-sheets/)
 * [A.D.D - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/A.D.D) AWS Docker DeepLearning
 * [AWSKRUG DS - 데이터 엔지니어가 실무에서 맞닥뜨리는 문제들](https://www.slideshare.net/ssuser9c8444/awskrug-ds) 1) ORC Deep Dive 2) ORC Schema Evolution with AWS Glue 3) AWS EMR 격하게 tuning 해보기
+* [AWS Tag 적용 가이드와 활용 - 1부:: Mesh Korea Makers Blog](https://mesh.dev/20210217-dev-notes-003-aws-tag-01/)
+* [AWS Tag 적용 가이드와 활용 - 2부:: Mesh Korea Makers Blog](https://mesh.dev/20210311-dev-notes-004-aws-tag-02/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
