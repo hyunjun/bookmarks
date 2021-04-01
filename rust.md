@@ -183,6 +183,7 @@
 * [Maud - an experimental template language for Rust](http://lfairy.gitbooks.io/maud/content/)
 * [Metal IO library for Rust](https://github.com/carllerche/mio)
 * [Nannou - a library that aims to make it easy for artists to express themselves with simple, fast, reliable code](https://nannou.cc/)
+* [navi: An interactive cheatsheet tool for the command-line and application launchers](https://github.com/denisidoro/navi)
 * [Nom, a byte oriented, streaming, zero copy, parser combinators library in Rust](http://spw15.langsec.org/papers/couprie-nom.pdf)
 * [Nucleon is a dynamic TCP load balancer written in Rust](https://github.com/NicolasLM/nucleon)
 * nushell [Introducing nushell](http://www.jonathanturner.org/2019/08/introducing-nushell.html)
