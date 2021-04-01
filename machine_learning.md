@@ -644,6 +644,7 @@ Machine Learning
 * [200+ Machine Learning Projects Solved and Explained | by Aman Kharwal | Coders Camp | Feb, 2021 | Medium](https://medium.com/coders-camp/200-machine-learning-projects-solved-and-explained-56f1cc1c9ff3)
 * [Cannes: How ML saves us $1.7M a year on document previews - Dropbox](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
 * [머신러닝 모델링의 흔한 실수들 | Pega Devlog](https://jehyunlee.github.io/2021/02/24/Python-DS-62-mistakes/)
+* [지루하지 않게 코노미 사진 4만장 어노테이션하기 (머신러닝과 함께) | by Doyoung Gwak | 네이버 플레이스 개발 블로그 | Medium](https://medium.com/naver-place-dev/%EC%A7%80%EB%A3%A8%ED%95%98%EC%A7%80-%EC%95%8A%EA%B2%8C-%EC%BD%94%EB%85%B8%EB%AF%B8-%EC%82%AC%EC%A7%84-4%EB%A7%8C%EC%9E%A5-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EA%B3%BC-%ED%95%A8%EA%BB%98-619c60f8a071)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
