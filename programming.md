@@ -2769,6 +2769,7 @@ Programming
 # Troubleshooting, 장애 해결
 * [LINE의 장애 보고와 후속 절차 문화](https://engineering.linecorp.com/ko/blog/line-failure-reporting-and-follow-up-process-culture/)
 * [테크이야기 앱 서비스 장애편 #1 - 화면 로딩 속도](https://blog.imqa.io/app_failure_launch_time/)
+* [앱 서비스 장애편 #2 - 폰의 발열이 심해요 (CPU/GPU 편)](https://blog.imqa.io/app_failure_overheating_issue/?fbclid=IwAR3LWib2shjlR1Q0bhGrWMDsYKbOogTDZM1EwFYuAQ9pMsWWnVZQFsj--Ng)
 * [How we found and fixed a rare race condition in our session handling - The GitHub Blog](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
   * [GitHub이 세션 처리에서 흔치 않은 레이스 컨디션을 어떻게 찾고 수정했는가 | GeekNews](https://news.hada.io/topic?id=3927)
 * [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
