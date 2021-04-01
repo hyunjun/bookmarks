@@ -363,6 +363,7 @@ Programming
 * [ISO 8601: the better date format | Blog | Kirby Kevinson](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
 * [슬기로운 dooray 생활 - 4년간 한中을 오가며 써온 소감 총정리 | Popit](https://www.popit.kr/%ec%8a%ac%ea%b8%b0%eb%a1%9c%ec%9a%b4-dooray-%ec%83%9d%ed%99%9c-4%eb%85%84%ea%b0%84-%ed%95%9c%e4%b8%ad%ec%9d%84-%ec%98%a4%ea%b0%80%eb%a9%b0-%ec%8d%a8%ec%98%a8-%ec%86%8c%ea%b0%90-%ec%b4%9d%ec%a0%95/) 여러가지 개발 프로세스 관련 이야기
 * [다양한 아기발걸음으로 배우기 | Popit](https://www.popit.kr/%EB%8B%A4%EC%96%91%ED%95%9C-%EC%95%84%EA%B8%B0%EB%B0%9C%EA%B1%B8%EC%9D%8C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EA%B8%B0/)
+* [로블록스: 메타버스의 새벽. Roblox: Dawn of the Metaverse | by Kenial Lee | kokr | Mar, 2021 | Medium](https://medium.com/kokr/%EB%A1%9C%EB%B8%94%EB%A1%9D%EC%8A%A4-%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%EC%9D%98-%EC%83%88%EB%B2%BD-330a56386e34)
 * [2021.03.08 우리가 경험해온 메타버스, 앞으로 만나게 될 메타버스](https://www2.slideshare.net/KiheonShin/20210308-244069379) metaverse
 
 # Agile, Scrum
@@ -2219,6 +2220,7 @@ Programming
   * [기술 뉴스 #168 : 21-02-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1534)
   * [기술 뉴스 #169 : 21-03-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1535)
   * [기술 뉴스 #170 : 21-03-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1536)
+  * [기술 뉴스 #171 : 21-04-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1543)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -2768,6 +2770,7 @@ Programming
 * [LINE의 장애 보고와 후속 절차 문화](https://engineering.linecorp.com/ko/blog/line-failure-reporting-and-follow-up-process-culture/)
 * [테크이야기 앱 서비스 장애편 #1 - 화면 로딩 속도](https://blog.imqa.io/app_failure_launch_time/)
 * [How we found and fixed a rare race condition in our session handling - The GitHub Blog](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
+  * [GitHub이 세션 처리에서 흔치 않은 레이스 컨디션을 어떻게 찾고 수정했는가 | GeekNews](https://news.hada.io/topic?id=3927)
 * [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
 
 # Unicode
