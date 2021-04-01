@@ -132,6 +132,7 @@
 * [아두이노 전문가되기](https://brunch.co.kr/magazine/iots)
 * [IoT - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/IoT)
 * [미국의 USC대학교의 임베디드시스템 입문 교육 과제 둘러보기](https://open-support.tistory.com/entry/%EB%AF%B8%EA%B5%AD%EC%9D%98-USC%EB%8C%80%ED%95%99%EA%B5%90%EC%9D%98-%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9E%85%EB%AC%B8-%EA%B5%90%EC%9C%A1-%EA%B3%BC%EC%A0%9C-%EB%91%98%EB%9F%AC%EB%B3%B4%EA%B8%B0)
+* [ESP-32 보드로 간단한 블루투스 키보드 만들기](https://open-support.tistory.com/entry/ESP-32-%EB%B3%B4%EB%93%9C%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B8%94%EB%A3%A8%ED%88%AC%EC%8A%A4-%ED%82%A4%EB%B3%B4%EB%93%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 * [Watchy - E-Paper Watch](https://www.tindie.com/products/sqfmi/watchy/#product-description)
   * ESP32 SoC, E-Paper 저전력 디스플레이, 아두이노 IDE로 직접 프로그래밍 가능한 오픈소스 워치키트
   * [Hack together your own e-paper smartwatch with this $50 open-source kit - The Verge](https://www.theverge.com/2021/1/13/22229985/customizable-epaper-smartwatch-kit-arduino)
