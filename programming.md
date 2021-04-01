@@ -363,6 +363,7 @@ Programming
 * [ISO 8601: the better date format | Blog | Kirby Kevinson](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
 * [슬기로운 dooray 생활 - 4년간 한中을 오가며 써온 소감 총정리 | Popit](https://www.popit.kr/%ec%8a%ac%ea%b8%b0%eb%a1%9c%ec%9a%b4-dooray-%ec%83%9d%ed%99%9c-4%eb%85%84%ea%b0%84-%ed%95%9c%e4%b8%ad%ec%9d%84-%ec%98%a4%ea%b0%80%eb%a9%b0-%ec%8d%a8%ec%98%a8-%ec%86%8c%ea%b0%90-%ec%b4%9d%ec%a0%95/) 여러가지 개발 프로세스 관련 이야기
 * [다양한 아기발걸음으로 배우기 | Popit](https://www.popit.kr/%EB%8B%A4%EC%96%91%ED%95%9C-%EC%95%84%EA%B8%B0%EB%B0%9C%EA%B1%B8%EC%9D%8C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EA%B8%B0/)
+* [2021.03.08 우리가 경험해온 메타버스, 앞으로 만나게 될 메타버스](https://www2.slideshare.net/KiheonShin/20210308-244069379) metaverse
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -1085,6 +1086,7 @@ Programming
 * [Delivering BBC Online using Serverless | by Johnathan Ishmael | BBC Design + Engineering | Medium](https://medium.com/bbc-design-engineering/delivering-bbc-online-using-serverless-79d4a9b0da16)
 * [Why Do We Need Serverless Computing? | by Bryant Jimin Son | Medium](https://bryantson.medium.com/why-do-we-need-serverless-computing-33e93c57ca02)
 * [Serverless Korea - YouTube](https://www.youtube.com/channel/UCI16eh9VClj1HSZWC4_ZMIw/videos)
+* [효율적인 서버 관리를 찾아서, 서버리스(Serverless)](https://blog.ncsoft.com/platform-center-03-20210224/)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
@@ -2256,6 +2258,7 @@ Programming
   * [월간 개발자스럽다 #62](https://blog.gaerae.com/2020/12/monthly.html)
   * [월간 개발자스럽다 #63](https://blog.gaerae.com/2021/01/monthly.html)
   * [월간 개발자스럽다 #64](https://blog.gaerae.com/2021/02/monthly.html)
+  * [월간 개발자스럽다 #65](https://blog.gaerae.com/2021/03/monthly.html)
 * [44BITS 뉴스레터 2020년 11주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-11)
 * [44BITS 뉴스레터 2020년 12주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-12)
 * [44BITS 뉴스레터 2020년 13주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-13)
@@ -2731,6 +2734,7 @@ Programming
 * [**서버 사이드 테스트 자동화 여정 – 5. 성능 테스트 리포트 생성 및 자동화 시스템 업무 적용 결과**](https://engineering.linecorp.com/ko/blog/server-side-test-automation-5/)
 * [Model Controller Testsuite (MCT)을 이용한 테스트 자동화 구축](https://engineering.linecorp.com/ko/blog/applying-model-controller-testsuite-to-test-automation/)
 * [Top 10 Free Automation Test Tools That Will Make Your Life Easier](https://towardsdatascience.com/top-10-free-automation-software-that-will-make-your-life-easier-63217e670447)
+* [A/B 테스트 자동 분석툴 개발하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/02/26/auto-stats-test.html)
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
   * [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
 * [Gauge - Light weight cross-platform test automation http://getgauge.io](https://github.com/getgauge/gauge)
