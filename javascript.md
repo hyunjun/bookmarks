@@ -1173,6 +1173,7 @@ Javascript
 * Relay
   * [GraphQL and Relay: what are they and why do they matter?](https://hackernoon.com/graphql-and-relay-what-are-they-and-why-do-they-matter-d8dfcc3ce2ac)
   * [Relay로 구현한 Github 유저 검색하기 프로젝트 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/react-relay-github/)
+  * [Introducing Relay Hooks: Improved React APIs for Relay](https://developers.facebook.com/blog/post/2021/03/09/introducing-relay-hooks-improved-react-apis-relay/)
 * [xgenecloud: Instantly generate REST & GraphQL APIs on any Database (Supports : MySQL, PostgreSQL, MsSQL, SQLite, MariaDB & Aurora)](https://github.com/xgenecloud/xgenecloud)
 
 # Gulp
@@ -2736,6 +2737,7 @@ Javascript
 * [React에는 ‘함수형 컴포넌트’가 없다 | 프로그래머 이규원의 웹사이트](https://gyuwon.github.io/blog/2020/07/24/react-has-no-functional-components.html)
 * [Build a Voice Controlled React News Application using Alan AI](https://morioh.com/p/f169aaf5c014)
 * [Protecting Against XSS Attacks in React | by Tyler Hawkins | Jul, 2020 | Level Up Coding](https://levelup.gitconnected.com/protecting-against-xss-attacks-in-react-52442d9fff4c)
+* [Mitigate cross-site scripting (XSS) with a strict Content Security Policy (CSP)](https://web.dev/strict-csp/)
 * [Learn React Portal In 12 Minutes By Building A Modal](https://morioh.com/p/448a42ad2095)
 * [React v17 Release Candidate 톺아보기. 변경사항과 유의할점을 React 공식 문서와, 개인적인 지식을 덧붙여… | by 한영재 | Aug, 2020 | Medium](https://medium.com/@han7096/react-v17-release-candidate-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-6a4b091965c4)
 * [How to Create a PDF file using React.js](https://morioh.com/p/e6de5438e02d)
@@ -3260,6 +3262,7 @@ Javascript
   * [Migrating unit tests from Mocha, Chai, Sinon, Karma, PhantomJS to Jest](https://medium.com/@clint.brown/migrating-unit-tests-from-mocha-chai-sinon-karma-phantomjs-to-jest-c214df7f5262)
   * [How to make your sluggish Jest tests go faster | by Vitaly Kondratiev | ITNEXT](https://itnext.io/how-to-make-your-sluggish-jest-v23-tests-go-faster-1d4f3388bcdd)
   * [Jest를 IntelliJ (or Webstorm) Debug 모드로 실행하기](https://jojoldu.tistory.com/545)
+  * [React’s sync and async `act`. One challenge of writing React tests is… | by Ben Brostoff | Medium](https://medium.com/@bmb21/reacts-sync-and-async-act-caa297b658b0)
 * [Mocha.js](https://github.com/mochajs)
   * [Mocha 로 하는 JavaScript Testing](http://inspiredjw.com/entry/Mocha-%EB%A1%9C-%ED%95%98%EB%8A%94-JavaScript-Testing)
   * [Mocha.js org의 멤버가 되다](https://blog.outsider.ne.kr/1360)
