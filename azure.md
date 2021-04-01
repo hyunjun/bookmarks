@@ -124,6 +124,8 @@ Azure
 * [유튜브 비디오 업로드시 애저 이벤트그리드를 통해 다양한 소셜 미디어로 확산시키기 | Aliencube](https://blog.aliencube.org/ko/2021/01/27/websub-to-eventgrid-via-cloudevents-and-beyond/)
 * [Cloud Data Engineering - Easy , Lucrative & Sustainable | LinkedIn](https://www.linkedin.com/pulse/cloud-data-engineering-easy-lucrative-sustainable-deepak-rajak/)
 * [애저듣보잡 자동화된 ML, 나도 해보자! - 한석진 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WksTnqh1hl0iygROuE7N7Qwf)
+* [애저듣보잡 Azure Sphere - 윤기석 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9Wkv_uIdbKSXZaUCZG6BuBbhx)
+* [애저듣보잡 AKS 활용법 101 - 박인혜 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WkuMBsjmzk5E7GOG8DIh49Ur)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
