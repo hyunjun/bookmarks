@@ -72,6 +72,7 @@ Flutter
 * [Hello Flutter 2.0!. 오늘 오전 2시 30분에 시작 된 Flutter Engage 행사에서는… | by CuroGom | Flutter Korea | Mar, 2021 | Medium](https://medium.com/flutter-korea/hello-flutter-2-0-12b56766a4cf)
 * [Flutter Failed To Solve the Biggest Challenge for Our Cross-Platform App | by Georg von der Howen | Feb, 2021 | Better Programming](https://betterprogramming.pub/flutter-failed-to-solve-the-biggest-challenge-for-our-cross-platform-app-c551afa0ef18)
 * [Flutter Engage Extended Korea - YouTube](https://www.youtube.com/watch?v=wQjT0xTB6AI)
+* [Flutter 광고로 돈버는법 Google Mobile Ads - Part 2 Interstitial & Rewarded Ad - YouTube](https://www.youtube.com/watch?v=7oB1FY4mDCs)
 
 # Dart
 * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
