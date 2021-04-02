@@ -41,6 +41,7 @@ Javascript
 * [Beginner's Series to: JavaScript - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHhW0NCG7M536uHGOtJ95Ut2)
 * [Node.js V8 internals: an illustrative primer](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
 * [**Chrome 64, Node.js v10에서는 GC가 mark하는 동안 앱이 멈추지 않습니다**](https://tech.ssut.me/2018/06/16/concurrent-marking-in-v8/)
+* [JavaScript Garbage collection](https://techstack.hashnode.dev/javascript-garbage-collection)
 * [V8 엔진은 어떻게 내 코드를 실행하는 걸까?](https://evan-moon.github.io/2019/06/28/v8-analysis/)
 * [V8의 히든 클래스 이야기](https://engineering.linecorp.com/ko/blog/v8-hidden-class)
 * [The V8 Engine and JavaScript Optimization Tips](https://alligator.io/js/v8-engine/)
