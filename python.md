@@ -3691,6 +3691,8 @@ Python
 * [NumPy Illustrated: The Visual Guide to NumPy | by Lev Maximov | Better Programming | Dec, 2020 | Medium](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)
 * [Random Number Generator Tutorial with Python | Towards AI](https://medium.com/towards-artificial-intelligence/random-number-generator-tutorial-with-python-3b35986132c7)
 * [Illustrating Gershgorin disks with NumPy](https://www.johndcook.com/blog/2021/03/14/illustrating-gershgorn-disks-with-numpy/)
+* [NumPy — Why is it so fast?](https://medium.com/swlh/numpy-why-is-it-so-fast-8087f4da4d79)
+  * [번역 왜 NumPy는 빠를까요?](https://lazymatlab.tistory.com/113)
 * [Blaze translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems](http://blaze.pydata.org/)
   * [Introducing Blaze - Expressions](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-Expressions/)
   * [Introducing Blaze - Practice](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-HMDA/)
