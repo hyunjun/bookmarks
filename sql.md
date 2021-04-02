@@ -555,6 +555,7 @@ SQL
 * [Blog of (former?) MySQL Entomologist: Linux /proc Filesystem for MySQL DBAs - Part I, Basics](https://mysqlentomologist.blogspot.com/2021/01/linux-proc-filesystem-for-mysql-dbas.html)
 * [How to delete lots of rows from a MySQL database without indefinite locking – Bram.us](https://www.bram.us/2021/01/14/how-to-delete-lots-of-rows-from-a-mysql-database-without-indefinite-locking/)
 * [MySQL/MariaDB에서 유저에게 multiple host를 부여하는 방법 - Nephtyw’S Programming Stash](https://nephtyws.github.io/database/mariadb-mysql-subnet-host/)
+* [🛢CSV 파일 MySQL DB에 추가하기 - YouTube](https://www.youtube.com/watch?v=XLoit2-DPaI)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
