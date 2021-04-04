@@ -631,6 +631,7 @@ Java
 # Java16
 * [C++ 14 기능 지원부터 벡터 API까지··· JDK 16, 기능 구체화 - CIO Korea](http://www.ciokorea.com/news/165350)
 * [What We Know about Java 16 and 17 So Far](https://www.infoq.com/news/2020/11/java16-so-far/)
+* [A categorized list of all Java and JVM features since JDK 8 to 16 - Advanced Web Machinery](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
