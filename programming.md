@@ -2370,6 +2370,7 @@ Programming
     * [(03/20) 시니어 엔지니어들이 코딩 인터뷰를 싫어하는 이유 - YouTube](https://www.youtube.com/watch?v=4MZsf171RKk)
   * [(3월 27일) 웹 사이트 유지 관리 필수 체크 리스트, 주간-월간-분기별 작업은?](https://jhrogue.blogspot.com/2021/03/3-27.html) 도커/도커 컴포즈/도커 스왐/쿠버네티스, 새로운 엔지니어링 관리자가 저지르는 다섯 가지 흔한 실수, REST/GraphQL/gRPC, 웹 사이트 유지 관리 체크리스트, 주간-분기 별 작업은?
     * [(03/27) 웹 사이트 유지 관리 필수 체크 리스트, 주간-월간-분기별 작업은? - YouTube](https://www.youtube.com/watch?v=W7a995cKdmg)
+  * [(04/04) 선임 개발자와 자율성의 관계 - YouTube](https://www.youtube.com/watch?v=GephfquSBHk) HTTP/3 쓰는 곳이 있긴 한가?, 선임 개발자와 자율성의 관계, JDK 8~16 사이의 모든 기능을 정리한 목록, 마이크로서비스 이후의 기술은?, 50가지 HTML 우수 사례와 지침
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
 * [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
