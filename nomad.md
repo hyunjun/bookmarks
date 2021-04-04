@@ -336,3 +336,4 @@ Nomad & Remote
 * [The 3 Proven Rules to Become a Hyper-Productive Remote Worker](https://hackernoon.com/the-3-proven-rules-to-become-a-hyper-productive-remote-worker-8399093975d9)
 * [스포카에서는 어떻게 리모트, 플렉서블 근무를 할까](https://spoqa.github.io/2019/05/28/remote-flexible.html)
 * [비대면 소프트웨어 개발을 위한 핵심 시스템 10가지 - ZDNet korea](https://zdnet.co.kr/view/?no=20200727153118)
+* [What you can (and can’t) learn from GitLab about remote work | Dropbox Blog](https://blog.dropbox.com/topics/work-culture/what-you-can--and-can-t--learn-from-gitlab-about-remote-work)
