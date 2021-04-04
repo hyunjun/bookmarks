@@ -319,6 +319,7 @@ Clojure
 * [Clojure in Highload Cup](https://grishaev.me/en/highload-cup/)
 * [In-Memory SQLite Database In Clojure](https://grishaev.me/en/clj-sqlite/)
 * [On Clojure arguments](https://grishaev.me/en/clj-args/)
+* [The power of finding facts about personal preferences – Maurício Szabo](https://mauricio.szabo.link/blog/2021/04/01/the-power-of-finding-facts-about-personal-preferences/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -804,6 +805,7 @@ Clojure
 * [mamulengo - Lightweight database based on datascript with durable store and time travel for Clojure(Script)](https://github.com/wandersoncferreira/mamulengo)
 * [marathon-clj - Clojure client library for Mesos Marathon](https://github.com/eunmin/marathon-clj)
 * [meander: Tools for transparent data transformation](https://github.com/noprompt/meander)
+  * [Strange Loop Chat with Joel Holdbrooks about Meander - YouTube](https://www.youtube.com/watch?v=VeHhpINDCjg)
 * [medley - A lightweight library of useful Clojure functions](https://github.com/weavejester/medley)
 * [membrane: A platform agnostic clojure(script) library for creating user interfaces](https://github.com/phronmophobic/membrane)
 * [mirabelle: A stream processing engine for monitoring](https://github.com/mcorbin/mirabelle)
@@ -880,6 +882,7 @@ Clojure
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
 * [Selmer](https://github.com/yogthos/Selmer) template
 * [seqexp: Regexp for sequences!](https://github.com/cgrand/seqexp)
+* [shadow-git-inject: A shadow-cljs build hook that computes the "version" at build-time - from the ambient git context (latest tag?)](https://github.com/day8/shadow-git-inject)
 * [shrubbery - A stubbing, spying, and mocking library for Clojure protocols](https://github.com/bguthrie/shrubbery)
 * [sicmutils: Scmutils in Clojure](https://github.com/sicmutils/sicmutils)
 * [sim-template - Simulant project template](http://homegrown.io/articles/introducing-sim-template/)j
@@ -925,6 +928,7 @@ Clojure
   * [Meetup: Writing Clojure on the Command Line with Babashka - YouTube](https://www.youtube.com/watch?v=RogyxI-GaGQ)
   * [Babashka: a native Clojure interpreter for scripting @ GraalVM Workshop 2021 - Speaker Deck](https://speakerdeck.com/borkdude/babashka-a-native-clojure-interpreter-for-scripting-at-graalvm-workshop-2021)
   * [Re-Writing an OpenConnect VPN Connect script in Babashka | Tech.ToryAnderson.com](https://tech.toryanderson.com/2021/03/06/re-writing-an-openconnect-vpn-connect-script-in-babashka/)
+  * [babashka 0.3.1 new features: bb.edn + invoke any function from cmd line - YouTube](https://www.youtube.com/watch?v=_zr1dicJs-E)
   * [Babashka book](https://book.babashka.org/)
   * [babashka-sql-pods: Babashka pods for SQL databases](https://github.com/babashka/babashka-sql-pods)
   * [pod-babashka-sqlite3: A babashka pod for interacting with sqlite3](https://github.com/babashka/pod-babashka-sqlite3)
