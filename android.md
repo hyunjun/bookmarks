@@ -181,6 +181,7 @@ Android
 * [Pluu Dev - AndroidX Lifecycle ~ ViewTreeLifecycleOwner](http://pluu.github.io/blog/android/2020/12/21/viewtreelifecycle/)
 * [Pluu Dev - Lifecycle-ktx whenStateAtLeast와 withStateAtLeast ~ 1부](http://pluu.github.io/blog/android/2021/01/12/androidx-lifecycle-ktx/)
 * [Pluu Dev - Lifecycle-ktx whenStateAtLeast와 withStateAtLeast ~ 2부](http://pluu.github.io/blog/android/2021/01/14/android-lifecycle-ktx/)
+* [Pluu Dev - Lifecycle-ktx flowWithLifecycle API](http://pluu.github.io/blog/android/2021/04/03/repeatOnLifecycle/)
 * [혼자서 Android App 개발하기 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/12/31/developing-an-android-app-in-one-person.html)
 * [Pluu Dev - AppComapt ~ TextViewCompoundDrawablesXmlDetector](http://pluu.github.io/blog/android/2021/01/18/appcompattextview/)
 * [안드로이드 앱 프로그래밍 #2 - TextView를 다루어 봅시다. - YouTube](https://www.youtube.com/watch?v=kse65cWLwrU)
