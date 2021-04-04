@@ -174,6 +174,7 @@ App
 * WeKan [Get started with Wekan, an open source kanban board](https://opensource.com/article/19/1/productivity-tool-wekan)
 * [WhatApp desktop](http://whatsapp-desktop.com/)
 * [wordsafety.com - Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
+* [Wormhole - Simple, private file sharing](https://wormhole.app/)
 * [Youtransfer - The simple but elegant self-hosted file transfer & sharing solution](http://www.youtransfer.io/)
 * [Zotero - a free, easy-to-use tool to help you collect, organize, cite, and share research](https://www.zotero.org/)
 
