@@ -2028,6 +2028,8 @@ Javascript
 * [Nodejs로 만들어진 Web app을 리눅스에서 구동하는 방법 - YouTube](https://www.youtube.com/watch?v=xzhUSXGzc54)
 * [setTimeout(), setImmediate(), process.nextTick() 차이점](https://blog.naver.com/dlaxodud2388/222229554720)
 * [학교 인트라넷 프로젝트: 수정과 개발기](https://blog.skylightqp.kr/289)
+* [📥슬랙으로 알림 받기 - YouTube](https://www.youtube.com/watch?v=TE6FHGLwpbs)
+  * [slack](https://okdevtv.com/mib/slack)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
