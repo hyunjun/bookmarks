@@ -1106,6 +1106,7 @@ Java
 * [JPA에서 Reader DB 사용하기 (feat. AWS Aurora)](https://jojoldu.tistory.com/515)
 * [JPA exists 쿼리 성능 개선](https://jojoldu.tistory.com/516)
 * [JPA Entity Select에서 Update 쿼리 발생할 경우](https://jojoldu.tistory.com/536)
+* [JPA 사용시 @Embedded 주의사항](https://jojoldu.tistory.com/559)
 * [잊을만 하면 돌아오는 정산 신병들 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/02/05/pilot-project-siyoung.html)
 * [@Entity 선언시 기본 생성자만 Generate 에 노출되는 이슈](https://jojoldu.tistory.com/482)
 * [MultipleBagFetchException 발생시 해결 방법](https://jojoldu.tistory.com/457)
