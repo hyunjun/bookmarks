@@ -357,6 +357,7 @@ Apache
 * [Monitoring Kafka performance metrics](https://www.datadoghq.com/blog/monitoring-kafka-performance-metrics/)
 * [How to Monitor Kafka](https://blog.serverdensity.com/how-to-monitor-kafka/)
 * [MONITORING APACHE KAFKA WITH GRAFANA / INFLUXDB VIA JMX](https://softwaremill.com/monitoring-apache-kafka-with-influxdb-grafana/)
+* [카프카 커넥트 JMX + 로그스태시로 모니터링 하기](https://blog.voidmainvoid.net/375?category=698302)
 * [Monitoring Kafka Consumer Offsets](https://blog.godatadriven.com/monitoring-kafka-consumer-lag)
   * Kafka consumer offset을 간단하게 모니터링하는 방법
   * Kafka consumer offset을 HTTP를 통해 내보내고 Prometheus를 사용하여 Grafana로 시각화
@@ -406,6 +407,7 @@ Apache
 * [Apache Kafka Security | Need and Components of Kafka](https://medium.com/@rinu.gour123/apache-kafka-security-need-and-components-of-kafka-52b417d3ca77)
   * Zookeeper의 조합으로 권한제어, 인증제어, 암호화하는 방법
 * [Kafka Needs No Keeper - Removing ZooKeeper Dependency](https://www.confluent.io/blog/removing-zookeeper-dependency-in-kafka/)
+* [Kafka Without ZooKeeper: A Sneak Peek At the Simplest Kafka Yet](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)
 * [Kafka 보안 (1) - JAAS 및 SASL](https://springboot.cloud/31)
 * [Kafka 보안 (2) - SASL/PLAIN](https://springboot.cloud/32)
 * [**Apache Kafka지도 시간**](http://www.w3ii.com/ko/apache_kafka/default.html)
@@ -600,6 +602,7 @@ Apache
 * [Beyond the Brokers: A Tour of the Kafka Ecosystem](https://www.slideshare.net/ConfluentInc/beyond-the-brokers-a-tour-of-the-kafka-ecosystem-138678797)
 * [스케일아웃없이 순간 급증하는 주문 처리하기 (Microservice with Kafka)](https://tv.naver.com/v/11212897)
 * [Kafka for Engineers. Here are things about Kafka that you… | by Dave Taubler | Level Up Coding](https://levelup.gitconnected.com/kafka-for-engineers-975feaea6067)
+* [Kafka 운영 컨슈머 그룹 정보는 언제 사라질까? :: 언제나 김김](https://always-kimkim.tistory.com/entry/when-will-the-kafka-consumer-group-be-removed)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
