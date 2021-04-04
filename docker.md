@@ -931,6 +931,7 @@ Docker
 * [Google admits Kubernetes container tech is so complex, it's had to roll out an Autopilot feature to do it all for you • The Register](https://www.theregister.com/2021/02/25/google_kubernetes_autopilot/)
 * [Despite Google’s 'Autopilot,' Kubernetes is Still Hard - Container Journal](https://containerjournal.com/features/despite-googles-autopilot-kubernetes-is-still-hard/)
 * [Container부터 다시 살펴보는 Kubernetes Pod 동작원리 - Speaker Deck](https://speakerdeck.com/devinjeon/containerbuteo-dasi-salpyeoboneun-kubernetes-pod-dongjag-weonri)
+* [MacOS에 Kubeflow 설치하는 쉬운 방법. 그 교육의 일환으로 Kubeflow 튜토리얼을 정리 중입니다. 개인… | by Chris Song | Apr, 2021 | Medium](https://chris-loves-ai.medium.com/macos%EC%97%90-kubeflow-%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EC%89%AC%EC%9A%B4-%EB%B0%A9%EB%B2%95-728f8fc95c6d)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
