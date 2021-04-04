@@ -676,6 +676,7 @@ NLP
 * [How To Make a Chatbot in Python | Python Chat Bot Tutorial](https://morioh.com/p/55e676a3d9f8)
 * [채팅 프로그램 만들기 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222027725523)
 * [Build a Collaborative Chatbot with Google Sheets and TensorFlow | Jonathan Bgn](https://jonathanbgn.com/nlp/2020/09/29/chatbot-universal-sentence-encoder.html)
+* [Build A Simple Chatbot In Python With Deep Learning | by Kurtis Pykes | Mar, 2021 | Towards Data Science](https://towardsdatascience.com/a-simple-chatbot-in-python-with-deep-learning-3e8669997758)
 * [Blender, Facebook State-of-the-Art Human-Like Chatbot, Now Open Source](https://www.infoq.com/news/2020/04/facebook-blender-chatbot/)
   * [A state-of-the-art open source chatbot](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot)
 * [**dialogpt-chat: Chatting with DialoGPT (Large-Scale Generative Pre-training for Conversational Response Generation)**](https://github.com/hyunwoongko/dialogpt-chat)
