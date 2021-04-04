@@ -1751,6 +1751,7 @@ Scala
 * [Pick any Card: Write Better Data Structures with Scala | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=mn5ZEuo8C80)
 * [Scala 3: Infix Operator Notation. For a long time, Scala has supported a… | by Dean Wampler | Scala 3 | Mar, 2021 | Medium](https://medium.com/scala-3/scala-3-infix-operator-notation-26bd7c13d0a3)
 * [How Scala 3 Givens Work with Scala 2 Implicits - YouTube](https://www.youtube.com/watch?v=fStjOA0Wep4)
+* [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=8O-Qxgf28Ys) given extension
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
