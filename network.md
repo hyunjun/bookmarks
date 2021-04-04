@@ -106,6 +106,7 @@ Network
 * [한 장으로 설명하는 HTTP/2와 HTTP/3 비교](https://www.facebook.com/photo.php?fbid=10159072624780040&set=a.406632300039&type=3)
 * [quiche의 CUBIC와 HyStart++ 지원](https://blog.cloudflare.com/ko/cubic-and-hystart-support-in-quiche-ko/)
 * [Introducing a Technology Preview of NGINX Support for QUIC and HTTP/3 - NGINX](https://www.nginx.com/blog/introducing-technology-preview-nginx-support-for-quic-http-3/)
+* [Where is HTTP/3 right now? | daniel.haxx.se](https://daniel.haxx.se/blog/2021/04/02/where-is-http-3-right-now/)
 * [http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers](https://github.com/for-GET/http-decision-diagram)
   * [HTTP/REST IS NOT BIG, NOR HEALTHY. IT'S HELL NO!](http://hyperrest.github.io/2013-06-10-http-hell-no)
 * [**서버의 상태를 알려주는 HTTP 상태 코드**](https://evan-moon.github.io/2020/03/15/about-http-status-code/)
