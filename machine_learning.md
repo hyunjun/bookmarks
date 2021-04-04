@@ -1006,6 +1006,7 @@ Machine Learning
   * [MLflow - An open platform for the machine learning lifecycle - Abdulrahman Alfozan | PyData Riyadh - YouTube](https://www.youtube.com/watch?v=A-dNHEX7iU0)
   * [How to Utilize MLflow and Kubernetes to Build an Enterprise ML Platform - Databricks](https://databricks.com/session/how-to-utilize-mlflow-and-kubernetes-to-build-an-enterprise-ml-platform)
   * [Combining Machine Learning and MLflow with your Lakehouse. Data Brew | Episode 5 - YouTube](https://www.youtube.com/watch?v=FI-CzbPnW7I)
+  * [mlflow를 활용한 pipeline 시스템 구축](https://blog.naver.com/pjt3591oo/222298197217)
 * ML Kit
   * [모바일 개발자를 위한 ML Kit: Machine Learning SDK 소개](https://www.slideshare.net/inureyes/ml-kit-machine-learning-sdk)
   * [iOS에서 머신러닝](https://docs.google.com/presentation/d/1wA_PAjllpLLcFPuZcERYbQlPe1Ipb-bzIZinZg3zXkg/edit#slide=id.p1)
