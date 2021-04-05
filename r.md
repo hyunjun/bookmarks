@@ -645,6 +645,8 @@ R
   * [My Experience : Release and maintain CRAN packages](https://github.com/cardiomoon/LectureForRPackage)
   * [Meetup/210104 주택하위시장플랫폼(김철민).pdf at master · shinykorea/Meetup](https://github.com/shinykorea/Meetup/blob/master/20210104/210104_%EC%A3%BC%ED%83%9D%ED%95%98%EC%9C%84%EC%8B%9C%EC%9E%A5%ED%94%8C%EB%9E%AB%ED%8F%BC(%EA%B9%80%EC%B2%A0%EB%AF%BC).pdf)
   * [How to Share Flask APIs with Shiny as Applications | R-bloggers](https://www.r-bloggers.com/2021/02/how-to-share-flask-apis-with-shiny-as-applications/)
+  * [KED/Activity Index_210404_rev3.pdf at master · Hosun-Choi/KED](https://github.com/Hosun-Choi/KED/blob/master/Activity%20Index_210404_rev3.pdf) 활동성 지수
+  * [Shiny 환자데이터 입력웹 개발](https://zarathucorp.github.io/eCRF-SMCcath/shinykorea/)
   * [bs4Dash 패키지 연습](https://github.com/takos1026/test_bs4dash)
   * [Covid-19 interactive map (using R with shiny, leaflet and dplyr)](https://www.r-bloggers.com/covid-19-interactive-map-using-r-with-shiny-leaflet-and-dplyr/)
   * [Dacon: 공간정보 탐색적 데이터 분석 경진대회 Shiny 시각화](https://github.com/Unfinishedgod/dacon_jeju)
