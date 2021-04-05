@@ -971,6 +971,7 @@ Javascript
 * [Do we still need JavaScript frameworks?](https://medium.freecodecamp.org/do-we-still-need-javascript-frameworks-42576735949b)
 * [How we wrote the Fastest JavaScript UI Frameworks](https://medium.com/@ryansolid/how-we-wrote-the-fastest-javascript-ui-frameworks-a96f2636431e)
 * [ES5 to ESNext — here’s every feature added to JavaScript since 2015](https://medium.freecodecamp.org/es5-to-esnext-heres-every-feature-added-to-javascript-since-2015-d0c255e13c6e)
+* [ES5 이전의 JS에서 클래스 사용하기](https://velog.io/@juunini/ES5-%EC%9D%B4%EC%A0%84%EC%9D%98-JS%EC%97%90%EC%84%9C-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 * [The Complete Guide to ES10 Features](https://medium.freecodecamp.org/the-complete-guide-to-es10-features-5fd0feb9513a)
 * [ECMAScript 튜토리얼](https://wormwlrm.github.io/2019/04/04/ECMAScript-tutorial.html)
 * [‘let’ me be a ‘const’(ant), not a ‘var’(iable)!](https://medium.freecodecamp.org/let-me-be-a-const-ant-not-a-var-iable-1be52d153462)
