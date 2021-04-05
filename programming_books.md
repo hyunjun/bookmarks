@@ -892,6 +892,7 @@ Programming Books
 * (개발자를 위한)하룻밤에 읽는 Go 언어 이야기
   * 한라 005.13-신74ㅎ
   * Go 101 언어 자체보다는 왜 Go가 좋은지, Go 언어 소개. 간단히 읽기 좋음
+  * [개발자를 위한 하룻밤에 읽는 Go 언어 이야기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1544)
 * 디스커버리 Go 언어
   * 한라 005.13 염73ㄷ
 * The Go Programming Language
