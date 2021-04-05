@@ -1160,6 +1160,7 @@ Deep Learning
 * [프로젝트 GAN을 이용한 염색 및 헤어 스타일 합성, <꽤 GAN찮은 헤어살롱>](https://comlini8-8.tistory.com/49)
 * [Toonify yourself - Colaboratory](https://colab.research.google.com/drive/1s2XPNMwf6HDhrJ1FMwlW1jl-eQ2-_tlk)
 * [StyleGAN2를 이용한 성격 유형별 얼굴 생성 모델 연구 개발 과정 공개! (feat. MBTI) – SPH](https://www.sphinfo.com/stylegan2/)
+* [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery - YouTube](https://www.youtube.com/watch?v=5icI0NgALnQ)
 * [GAN 이미지 생성 알고리즘 테스트 하기](https://www.infoking.site/54)
 * [Face2Webtoon](https://github.com/sangyun884/Face2Webtoon)
 * [generative_inpainting: DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral](https://github.com/JiahuiYu/generative_inpainting)
