@@ -294,6 +294,7 @@ PyTorch
 * [**Detectron2 Tutorial**](https://colab.research.google.com/github/visionNoob/detectron2_aihub_tutorial/blob/master/Detectron2_Tutorial_(kor_ver).ipynb)
 * [Distiller - an open-source Python package for neural network compression research](https://github.com/NervanaSystems/distiller)
 * [DrQA - This is a PyTorch implementation of the DrQA system described in the ACL 2017 paper Reading Wikipedia to Answer Open-Domain Questions](https://github.com/facebookresearch/DrQA)
+* [Efemarai – Test. Visualize. Debug](https://efemarai.com/)
 * [efficient_densenet_pytorch - A PyTorch implementation of DenseNets, optimized to save GPU memory](https://github.com/gpleiss/efficient_densenet_pytorch)
 * [EuclidesDB - a multi-model machine learning feature database that is tight coupled with PyTorch](https://euclidesdb.readthedocs.io)
 * [fairseq - Facebook AI Research Sequence-to-Sequence Toolkit written in Python](https://github.com/pytorch/fairseq)
