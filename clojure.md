@@ -105,6 +105,7 @@ Clojure
 * [Using Emacs with Clojure](https://www.facebook.com/notes/jong-hoon-lee/using-emacs-with-clojure/1435323820126903)
 * [macOS에서 Emacs로 클로저 개발하기](https://github.com/eunmin/emacs-for-clojure)
 * [Configuring Emacs as a Clojure IDE - LSP Mode - LSP support for Emacs](https://emacs-lsp.github.io/lsp-mode/tutorials/clojure-guide/)
+* [A minimum-viable emacs config. for literate programming with Clojure.](https://gist.github.com/adam-james-v/7a61612ce0649afc78513f54b337d8c9)
 * [Writing Friendlier Clojure](http://adambard.com/blog/write-friendlier-clojure/)
 * [Structural typing for Clojure, somewhat inspired by Elm](https://github.com/marick/structural-typing)
 * [클로저(Clojure)를 시작하는 계기](https://medium.com/happyprogrammer-in-jeju/%ED%81%B4%EB%A1%9C%EC%A0%80-clojure-%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EA%B3%84%EA%B8%B0-1dc2d3f08176)
@@ -320,6 +321,7 @@ Clojure
 * [In-Memory SQLite Database In Clojure](https://grishaev.me/en/clj-sqlite/)
 * [On Clojure arguments](https://grishaev.me/en/clj-args/)
 * [The power of finding facts about personal preferences – Maurício Szabo](https://mauricio.szabo.link/blog/2021/04/01/the-power-of-finding-facts-about-personal-preferences/)
+* [How to avoid "illegal reflective access" warning in Clojure interop. (Cast?) - Stack Overflow](https://stackoverflow.com/questions/66914469/how-to-avoid-illegal-reflective-access-warning-in-clojure-interop-cast)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -881,7 +883,6 @@ Clojure
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
 * [Selmer](https://github.com/yogthos/Selmer) template
-* [seqexp: Regexp for sequences!](https://github.com/cgrand/seqexp)
 * [shadow-git-inject: A shadow-cljs build hook that computes the "version" at build-time - from the ambient git context (latest tag?)](https://github.com/day8/shadow-git-inject)
 * [shrubbery - A stubbing, spying, and mocking library for Clojure protocols](https://github.com/bguthrie/shrubbery)
 * [sicmutils: Scmutils in Clojure](https://github.com/sicmutils/sicmutils)
@@ -930,6 +931,7 @@ Clojure
   * [Re-Writing an OpenConnect VPN Connect script in Babashka | Tech.ToryAnderson.com](https://tech.toryanderson.com/2021/03/06/re-writing-an-openconnect-vpn-connect-script-in-babashka/)
   * [babashka 0.3.1 new features: bb.edn + invoke any function from cmd line - YouTube](https://www.youtube.com/watch?v=_zr1dicJs-E)
   * [Babashka book](https://book.babashka.org/)
+  * [deps.clj/deps.bat at master · borkdude/deps.clj](https://github.com/borkdude/deps.clj/blob/master/deps.bat#L1-L7)
   * [babashka-sql-pods: Babashka pods for SQL databases](https://github.com/babashka/babashka-sql-pods)
   * [pod-babashka-sqlite3: A babashka pod for interacting with sqlite3](https://github.com/babashka/pod-babashka-sqlite3)
 
@@ -947,6 +949,10 @@ Clojure
 * [bob2021: Repo used for a tutorial during BOB 2021, https://bobkonf.de/2021/klijs.html ](https://github.com/gklijs/bob2021)
 * [Lacinia - GraphQL implementation in pure Clojure http://lacinia.readthedocs.io ](https://github.com/walmartlabs/lacinia)
   * [lacinia-example](https://github.com/eunmin/lacinia-example)
+
+## Library Regex
+* [Structure and Interpretation of Malli Regex Schemas - Metosin](https://www.metosin.fi/blog/malli-regex-schemas/)
+* [seqexp: Regexp for sequences!](https://github.com/cgrand/seqexp)
 
 # REPL
 * [Clojure - Programming at the REPL: Enhancing your REPL workflow](https://clojure.org/guides/repl/enhancing_your_repl_workflow)
