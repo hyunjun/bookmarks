@@ -392,6 +392,8 @@ iOS
   * [Disposable의 종류](https://brunch.co.kr/@tilltue/49)
 * [RxSwift Scheduler Anatomy - Combine observable, Thread, Subject](https://brunch.co.kr/@tilltue/59)
 * [RxSwift Playground 파헤치기1 - Introduction](https://jhmdevdiary.tistory.com/26)
+* [RxSwift Playground 파헤치기2 - Operator (feat. startWith) 구조 파악하기](https://jhmdevdiary.tistory.com/27)
+* [iOS: RxSwift + clean architecture | by Raul Peña Alonso | Tiendeo Tech | Medium](https://medium.com/tiendeo-tech/ios-rxswift-clean-architecture-d7e9eaa60ba)
 * [Swift Combine, 시작하기](https://brunch.co.kr/@tilltue/65)
 * [Swift로 꼬리 재귀 사용하기](https://news.realm.io/kr/news/swift-tail-recursion)
 * [Swift의 강력한 mock 객체 만들기](https://news.realm.io/kr/news/making-mock-objects-more-useful-try-swift-2017)
