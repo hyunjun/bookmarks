@@ -326,7 +326,6 @@ AWS
 * [What should we know about AWS Security? (Part 2)](https://salerno-rafael.blogspot.com/2019/07/what-should-we-know-about-aws-security_27.html)
 * [AWS Solutions Architect - Associate certificate Study — 공식 문서 정리 Part 1](https://medium.com/@tkdgy0801/aws-solutions-architect-certificate-공부-영역-1-7abd91cd91a8)
 * [AWS Solutions Architect — Associate certificate Study — 공식 문서 정리 Part 2](https://medium.com/@tkdgy0801/aws-solutions-architect-associate-certificate-study-공식-문서-정리-part-2-3775eb75230e)
-* [AWS Certified Machine Learning-Specialty 도전기 | by Minsu Cho | Hard Boiled Smith Stories | Oct, 2020 | Medium](https://medium.com/hbsmith/aws-certified-machine-learning-specialty-%EB%8F%84%EC%A0%84%EA%B8%B0-36620bb7545b)
 * [AWS로 서버 없이 웹 서비스 운영하기 – 1](http://blog.dramancompany.com/2019/09/aws%eb%a1%9c-%ec%84%9c%eb%b2%84-%ec%97%86%ec%9d%b4-%ec%9b%b9-%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%9a%b4%ec%98%81%ed%95%98%ea%b8%b0-1/)
 * [이메일 인증 작업 서버리스 앱으로 구성하기](https://aws.amazon.com/ko/blogs/korea/using-callback-urls-for-approval-emails-with-aws-step-functions/)
 * [AWS 클라우드를 통해 최소기능제품(MVP) 빠르게 개발하기 - 윤석찬, AWS 테크에반젤리스트](https://www.slideshare.net/awskorea/how-to-build-startup-mvp-in-aws-cloud)
@@ -378,7 +377,6 @@ AWS
 * [AWS 서버리스 서비스를 이용한 웹 애플리케이션 구축하기 Hands-on Lab](https://github.com/bskim/AWSServerlessHoL-CI-CD)
 * [Amazon Builders Library를 아십니까?](http://channy.creation.net/blog/1317)
 * [사용자수에 따른 AWS 아키텍처 설계하기](https://developer88.tistory.com/316)
-* [Amazon SageMaker와 Apache Airflow을 통한  기계학습 워크플로 구축하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-end-to-end-machine-learning-workflows-with-amazon-sagemaker-and-apache-airflow/)
 * [AWSKRUG DS 2020/12 - Let the Airflow in AWS](https://www2.slideshare.net/ssuser9c8444/awskrug-ds-202012-let-the-airflow-in-aws)
 * [Airflow 오류 - Some workers seem to have died and gunicorn did not restart them as expected - Nephtyw’S Programming Stash](https://nephtyws.github.io/data/airflow-gunicorn-worker-error/)
 * [Airflow 오류 - The session is unavailable because no secret key was set - Nephtyw’S Programming Stash](https://nephtyws.github.io/data/airflow-flask-key-error/)
@@ -902,6 +900,39 @@ AWS
   * AI와 ML 툴링은 Python을 기반으로하며 scikit-learn 같은 Python 기반 도구를 사용하기 때문에 Python 기반 Lambda 런타임이 선택
 * [Amazon making online machine learning courses available for free](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 * [Graviton2 EC2로 BERT 돌리기?](https://brunch.co.kr/@ueber/321)
+* [AWS Certified Machine Learning-Specialty 도전기 | by Minsu Cho | Hard Boiled Smith Stories | Oct, 2020 | Medium](https://medium.com/hbsmith/aws-certified-machine-learning-specialty-%EB%8F%84%EC%A0%84%EA%B8%B0-36620bb7545b)
+* [data-science-on-aws/workshop: AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker](https://github.com/data-science-on-aws/workshop)
+
+## Machine Learning SageMaker
+* [Amazon SageMaker 출시 – 머신 러닝 기반 서비스 가속화](https://aws.amazon.com/ko/blogs/korea/sagemaker/)
+* [sagemaker-demos](https://github.com/cyrusmvahid/sagemaker-demos)
+* [AWS SageMaker Build](https://github.com/aws-samples/aws-sagemaker-build)
+* [Amazon SageMaker을 통한 손쉬운 Jupyter Notebook 활용하기 - 윤석찬 (AWS 테크에반젤리스트)](https://www.slideshare.net/awskorea/amazon-sage-maker-jupyter-notebook-channy-88646940)
+* [Amazon SageMaker 노트북 인스턴스에서 로컬 모드 사용하기](https://aws.amazon.com/ko/blogs/korea/use-the-amazon-sagemaker-local-mode-to-train-on-your-notebook-instance)
+* [Amazon SageMaker를 통한 美 대학 농구 결과 예측하기](https://aws.amazon.com/ko/blogs/korea/march-machine-learning-madness)
+* [Amazon SageMaker IP Insights 알고리즘을 사용하여 의심스러운 IP 주소 탐지하기](https://aws.amazon.com/ko/blogs/korea/detect-suspicious-ip-addresses-with-the-amazon-sagemaker-ip-insights-algorithm/)
+* [SageMaker  DeepRacer](https://drive.google.com/file/d/1rWvwV0meAvYflcgAGbAwoRzL3PNWFw_z/view)
+* [Amazon SageMaker Technical Deep Dive](https://www.youtube.com/playlist?list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz)
+* [TensorFlow 및 Apache MXNet으로 Amazon SageMaker에서 Keras 모델 교육 및 배포하기](https://cloud.hosting.kr/techblog_190725_machine-learning-train-and-deploy-keras-models-with-tensorflow-and-apache-mxnet-on-amazon-sagemaker/)
+* [Amazon FSx for Lustre 및 Amazon EFS 파일 시스템을 활용한 Amazon SageMaker 훈련 속도 향상법](https://www.megazone.com/techblog_20191008_speed-up-training-on-amazon-sagemaker-using-amazon-efs-or-amazon-fsx-for-lustre-file-systems)
+* [Cortex v0.9: An open source alternative to SageMaker](https://www.reddit.com/r/MachineLearning/comments/diwslw/p_cortex_v09_an_open_source_alternative_to/)
+* [Running your TensorFlow Models in SageMaker Workshop](https://github.com/aws-samples/TensorFlow-in-SageMaker-workshop)
+  * 1. SageMaker 스크립트 모드를 사용하여 SageMaker에서 실행되도록 TensorFlow 스크립트 포팅
+  * 2. TensorBoard 및 Amazon CloudWatch 지표를 사용하여 교육 작업을 모니터링
+  * 3. SageMaker 파이프 모드 입력을 사용하여 교육 작업을 최적화
+  * 4. 분산 교육 작업 실행
+  * 5. Amazon SageMaker에 훈련 된 모델 배포
+* [클라우드 환경에서 머신러닝 서비스 프로토타입 빠르게 만들어보기](https://urbanbase.github.io/dev/2019/10/24/Machine-Learning-Prototype.html)
+* [Sagemaker에서 PyTorch를 활용한 딥러닝 이미지 분류 모델 학습 및 배포](https://urbanbase.github.io/dev/2019/12/17/Deep-Learning-Image-Classification.html)
+* [AWS Sagemaker Ground Truth로 훈련용 이미지를 편하게 분류하자](https://helloworld.kurly.com/blog/aws-ground-truth/)
+* [Amazon SageMaker Operators for Kubernetes—examples for distributed training, hyperparameter tuning and model hosting](https://towardsdatascience.com/kubernetes-and-amazon-sagemaker-for-machine-learning-distributed-training-hyperparameter-tuning-187c821e25b4)
+* [Sagemaker Github Actions - YouTube](https://www.youtube.com/watch?v=SjqPeL4QJao)
+* [Introducing SageMaker Data Parallelism - AWS re:Invent 2020 - YouTube](https://www.youtube.com/watch?v=qS4VgHocAGQ)
+* [Scale By The Bay 2020: Antje Barth, Put Your Machine Learning on Autopilot - YouTube](https://www.youtube.com/watch?v=IBE6MdiyKlY)
+* [Amazon SageMaker 기반 사전 훈련된 딥러닝 모델 손쉽게 배포하기 – 김대근:: AWS Innovate 2021 - YouTube](https://www.youtube.com/watch?app=desktop&v=ZdOcrLKow3I)
+* [sagemaker-inference-samples-kr: Deep Learning(DL) Inference hands-on labs; Learn how to host pre-trained DL models to Amazon SageMaker Endpoint without building Docker Image](https://github.com/aws-samples/sagemaker-inference-samples-kr)
+* [인공지능을 대규모로 가속화하려면?](https://brunch.co.kr/@synabreu/108)
+* [Amazon SageMaker와 Apache Airflow을 통한  기계학습 워크플로 구축하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-end-to-end-machine-learning-workflows-with-amazon-sagemaker-and-apache-airflow/)
 
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
@@ -956,36 +987,6 @@ AWS
 # Scala
 * [Using Scala in the Cloud: A Guide to Amazon EC2 Instance Types](https://www.triplequote.com/blog/2019-guide-to-amazon-instances/)
 * [Scala Compilation Got 5x Faster With Triplequote Hydra](https://www.triplequote.com/blog/2019-scala-compilation-got-5-times-faster-with-triplequote-hydra/)
-
-# SageMaker
-* [Amazon SageMaker 출시 – 머신 러닝 기반 서비스 가속화](https://aws.amazon.com/ko/blogs/korea/sagemaker/)
-* [sagemaker-demos](https://github.com/cyrusmvahid/sagemaker-demos)
-* [AWS SageMaker Build](https://github.com/aws-samples/aws-sagemaker-build)
-* [Amazon SageMaker을 통한 손쉬운 Jupyter Notebook 활용하기 - 윤석찬 (AWS 테크에반젤리스트)](https://www.slideshare.net/awskorea/amazon-sage-maker-jupyter-notebook-channy-88646940)
-* [Amazon SageMaker 노트북 인스턴스에서 로컬 모드 사용하기](https://aws.amazon.com/ko/blogs/korea/use-the-amazon-sagemaker-local-mode-to-train-on-your-notebook-instance)
-* [Amazon SageMaker를 통한 美 대학 농구 결과 예측하기](https://aws.amazon.com/ko/blogs/korea/march-machine-learning-madness)
-* [Amazon SageMaker IP Insights 알고리즘을 사용하여 의심스러운 IP 주소 탐지하기](https://aws.amazon.com/ko/blogs/korea/detect-suspicious-ip-addresses-with-the-amazon-sagemaker-ip-insights-algorithm/)
-* [SageMaker  DeepRacer](https://drive.google.com/file/d/1rWvwV0meAvYflcgAGbAwoRzL3PNWFw_z/view)
-* [Amazon SageMaker Technical Deep Dive](https://www.youtube.com/playlist?list=PLhr1KZpdzukcOr_6j_zmSrvYnLUtgqsZz)
-* [TensorFlow 및 Apache MXNet으로 Amazon SageMaker에서 Keras 모델 교육 및 배포하기](https://cloud.hosting.kr/techblog_190725_machine-learning-train-and-deploy-keras-models-with-tensorflow-and-apache-mxnet-on-amazon-sagemaker/)
-* [Amazon FSx for Lustre 및 Amazon EFS 파일 시스템을 활용한 Amazon SageMaker 훈련 속도 향상법](https://www.megazone.com/techblog_20191008_speed-up-training-on-amazon-sagemaker-using-amazon-efs-or-amazon-fsx-for-lustre-file-systems)
-* [Cortex v0.9: An open source alternative to SageMaker](https://www.reddit.com/r/MachineLearning/comments/diwslw/p_cortex_v09_an_open_source_alternative_to/)
-* [Running your TensorFlow Models in SageMaker Workshop](https://github.com/aws-samples/TensorFlow-in-SageMaker-workshop)
-  * 1. SageMaker 스크립트 모드를 사용하여 SageMaker에서 실행되도록 TensorFlow 스크립트 포팅
-  * 2. TensorBoard 및 Amazon CloudWatch 지표를 사용하여 교육 작업을 모니터링
-  * 3. SageMaker 파이프 모드 입력을 사용하여 교육 작업을 최적화
-  * 4. 분산 교육 작업 실행
-  * 5. Amazon SageMaker에 훈련 된 모델 배포
-* [클라우드 환경에서 머신러닝 서비스 프로토타입 빠르게 만들어보기](https://urbanbase.github.io/dev/2019/10/24/Machine-Learning-Prototype.html)
-* [Sagemaker에서 PyTorch를 활용한 딥러닝 이미지 분류 모델 학습 및 배포](https://urbanbase.github.io/dev/2019/12/17/Deep-Learning-Image-Classification.html)
-* [AWS Sagemaker Ground Truth로 훈련용 이미지를 편하게 분류하자](https://helloworld.kurly.com/blog/aws-ground-truth/)
-* [Amazon SageMaker Operators for Kubernetes—examples for distributed training, hyperparameter tuning and model hosting](https://towardsdatascience.com/kubernetes-and-amazon-sagemaker-for-machine-learning-distributed-training-hyperparameter-tuning-187c821e25b4)
-* [Sagemaker Github Actions - YouTube](https://www.youtube.com/watch?v=SjqPeL4QJao)
-* [Introducing SageMaker Data Parallelism - AWS re:Invent 2020 - YouTube](https://www.youtube.com/watch?v=qS4VgHocAGQ)
-* [Scale By The Bay 2020: Antje Barth, Put Your Machine Learning on Autopilot - YouTube](https://www.youtube.com/watch?v=IBE6MdiyKlY)
-* [Amazon SageMaker 기반 사전 훈련된 딥러닝 모델 손쉽게 배포하기 – 김대근:: AWS Innovate 2021 - YouTube](https://www.youtube.com/watch?app=desktop&v=ZdOcrLKow3I)
-* [sagemaker-inference-samples-kr: Deep Learning(DL) Inference hands-on labs; Learn how to host pre-trained DL models to Amazon SageMaker Endpoint without building Docker Image](https://github.com/aws-samples/sagemaker-inference-samples-kr)
-* [인공지능을 대규모로 가속화하려면?](https://brunch.co.kr/@synabreu/108)
 
 # TDD, Test
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
