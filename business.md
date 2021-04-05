@@ -663,6 +663,7 @@ Business
 * [시리즈 A 란 무엇인가? – Live & Venture](https://liveandventure.com/2020/09/27/series-a/)
 * [진정성과 스타트업 (번역) – 이바닥늬우스](https://ebadak.news/2020/12/14/earnest/)
 * [VC가 알려주는 스타트업 투자 유치 전략 197p PDF | GeekNews](https://news.hada.io/topic?id=3798)
+* [스타트업 투자유지 전략.pdf](https://www.kvic.or.kr/upload/investment/20210114/20210114155945_63291.pdf)
 * [Kihong Bae - YouTube](https://www.youtube.com/user/khbae/videos)
 * [탈중개화 현상](https://www.thestartupbible.com/2017/08/how-to-prevent-or-minimize-disintermediation-for-marketplaces.html)
 * [스타트업의 첫 이사회 보고용 PPT 템플릿 | GeekNews](https://news.hada.io/topic?id=3893)
