@@ -312,6 +312,7 @@ Statistics
 
 # Book
 * [기초부터 응용까지 무료 통계학 eBook 19선 + α](http://wsyang.com/2013/08/free-ebooks-for-statistics/)
+* [인과추론의 두가지 도구 - The Book of Why](https://causal-inference-korea.gitbook.io/the-book-of-why/)
 * [An Adventure in STATISTICS](http://discoveringstatistics.blogspot.com/2016/04/if-youre-not-doing-something-different.html)
 * [An Introduction to Statistical Learning with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
   * [**github.com/hyunblee/ISLR-with-Python**](https://github.com/hyunblee/ISLR-with-Python) Introduction to Statistical Learning in R (ISLR)을 Python으로
