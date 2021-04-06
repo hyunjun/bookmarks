@@ -956,6 +956,7 @@ Java
   * [안드로이드 Jenkins(CI서버)에서 빌드시간을 90% 줄이는 4가지 방법 | by Ted Park | PRND | Jan, 2021 | Medium](https://medium.com/prnd/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-jenkins-ci%EC%84%9C%EB%B2%84-%EC%97%90%EC%84%9C-%EB%B9%8C%EB%93%9C%EC%8B%9C%EA%B0%84%EC%9D%84-90-%EC%A4%84%EC%9D%B4%EB%8A%94-4%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-176ee9378f1f)
   * [Jenkins를 이용해 지속적인 통합(CI)을 적용해보자 part 1 | Recoding Life](https://jane096.github.io/project/why-jenkins-ci/)
   * [Jenkins slave node 구성하기 - Troubleshooting 포함 - Nephtyw’S Programming Stash](https://nephtyws.github.io/devops/jenkins-slave-node/)
+  * [제모옥은 젠킨스 조회로직 개선으로 하겠습니다. 근데 이제 비동기를 곁들인 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/04/06/fetch-jenkins-api-async.html)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
   * [practice - install java11 using jenv](https://gist.github.com/hyunjun/88ad5a8172acf4801c903980ecba074e)
   * [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
