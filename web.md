@@ -725,6 +725,7 @@ Web
 * [API 보안 체크리스트](https://github.com/mingrammer/API-Security-Checklist/blob/master/README-ko.md)
 * [REST Security Basics](https://medium.com/@yellow/rest-security-basics-f59013850c4e)
 * [**그런 REST API로 괜찮은가**](http://slides.com/eungjun/rest)
+  * [Day1, 2-2. 그런 REST API로 괜찮은가 - YouTube](https://www.youtube.com/watch?v=RP_f5dMoHFc)
 * [(번역) RESTful API Designing guidelines — The best practices](https://wayhome25.github.io/etc/2017/11/26/restful-api-designing-guidelines/)
 * [HTTP API Design Guide](https://github.com/interagent/http-api-design)
 * [REST is the new SOAP](https://medium.com/@pakaldebonchamp/rest-is-the-new-soap-97ff6c09896d)
