@@ -1063,6 +1063,7 @@ AWS
 * [AWS - API Gateway 기반 VPC Link](https://zigispace.net/1072)
 * [Lambda Function을 위한 향상된 VPC 네트워크](https://zigispace.net/1081)
 * [AWS Network Firewall - Part 1 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1104)
+* [AWS Network Firewall - Part 2](https://zigispace.net/1130)
 * [AWS Network Firewall](https://www.notion.so/AWS-Network-Firewall-ced7fc495b45497590841acbf87c549d)
 * [AWS VPC/VPN(Openswan) 연동](https://blog.leedoing.com/32)
 * [VPC Peering 과 Transit Gateway 어떻게 다를까](https://dev.classmethod.jp/articles/different-from-vpc-peering-and-transit-gateway)
