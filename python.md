@@ -501,6 +501,7 @@ Python
 * [파이썬 3.10의 새 '패턴 매칭'이 할 수 있는 일 - CIO Korea](https://www.ciokorea.com/news/185423)
 * [파이썬의 패턴 매칭 도입에 얽힌 이야기 - Morgenrøde](https://ryanking13.github.io/2021/03/04/python-patma.html)
 * [파이썬의 패턴 매칭 도입에 얽힌 이야기 | GeekNews](https://news.hada.io/topic?id=3848)
+* [파이썬 함수, 모듈, 패키지의 차이점 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/programming/function-module-package/)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
