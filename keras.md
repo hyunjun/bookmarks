@@ -38,6 +38,7 @@ Keras
 * [Quiver: Deep Visualization for Keras](https://tensorflowkorea.wordpress.com/2016/11/15/quiver-deep-visualization-for-keras/)
 * [GPU-accelerated Theano & Keras on Windows 10 native](http://philferriere.blogspot.com/2016/07/gpu-accelerated-theano-keras-on-windows.html)
 * [How-To: Multi-GPU training with Keras, Python, and deep learning](https://www.pyimagesearch.com/2017/10/30/how-to-multi-gpu-training-with-keras-python-and-deep-learning/)
+* [keras에서 GPU 사용하기](https://mwna40000.tistory.com/17)
 * [Radio and Machine Learning Zen](https://oshearesearch.com/)
 * [Keras autoencoders (convolutional/fcc)](https://github.com/nanopony/keras-convautoencoder)
 * [Building Autoencoders in Keras](https://blog.keras.io/building-autoencoders-in-keras.html)
