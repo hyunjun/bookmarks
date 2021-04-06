@@ -194,6 +194,7 @@
 
 # Javascript
 * [Espruino: The Espruino JavaScript interpreter - Official Repo](https://github.com/espruino/Espruino)
+  * [javascript로 mcu에서 코딩이 가능한 - espruino 환경](https://open-support.tistory.com/entry/javascript%EB%A1%9C-mcu%EC%97%90%EC%84%9C-%EC%BD%94%EB%94%A9%EC%9D%B4-%EA%B0%80%EB%8A%A5%ED%95%9C-espruino-%ED%99%98%EA%B2%BD)
 * [smart.js - Embedded Javascript engine for C/C++ with networking, file, database and device interfaces](https://github.com/cesanta/smart.js)
 
 # Jetson
