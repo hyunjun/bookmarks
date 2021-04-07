@@ -1128,6 +1128,7 @@ Programming
   * [구글, 사이트 신뢰성 워크북(SRE Workbook) 공개](https://www.44bits.io/ko/post/news--site-reliability-workbook-is-published)
   * [구글에서 세 번째 SRE 도서 Building Secure and Reliable Systems 무료 공개](https://www.44bits.io/ko/post/third-free-sre-book-build-seruce-and-reliable-system)
 * [Software Design for Flexibility | The MIT Press](https://mitpress.mit.edu/books/software-design-flexibility)
+* [Values and objects in programming languages : MacLennan, Bruce J. : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/valuesobjectsinp00macl/mode/2up)
 * [ZLibrary Part of Z-Library project. The world's largest ebook library](https://b-ok.cc/)
 
 # Build Compile
