@@ -983,6 +983,7 @@ AWS
 * [S3, 넌 이것까지 할 수 있네(Amazon S3 신규 기능 소개)](https://dev.classmethod.jp/articles/summit-korea-introducing-new-features-of-s3/)
 * [AWS S3를 이용한 Jenkins 마이그레이션](https://jojoldu.tistory.com/508)
 * [Node.js x AWS Lambda x S3를 활용한 이미지 리사이징(Image Resizing) 다루기 | by Ryan Kim | Sep, 2020 | Medium](https://medium.com/@equus3144/node-js-x-aws-lambda-x-s3%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A6%AC%EC%82%AC%EC%9D%B4%EC%A7%95-image-resizing-%EB%8B%A4%EB%A3%A8%EA%B8%B0-d87435913958)
+* [딜리셔스 기술 블로그-딜리셔스 개발팀의 toy project](https://dealicious-inc.github.io/2021/03/02/toy-project.html)
 
 # Scala
 * [Using Scala in the Cloud: A Guide to Amazon EC2 Instance Types](https://www.triplequote.com/blog/2019-guide-to-amazon-instances/)
