@@ -659,6 +659,7 @@ Scala
   * [practice - Future.foldLeft를 이용해 Future\[Seq\[Object\]\] to Future\[Seq\[(Int, Boolean)\]\] to Future\[Seq\[Int\]\]](https://github.com/hyunjun/practice_private/blob/master/project-scala-restful-api-with-mysql-mvl-assignment/app/controllers/ScheduleController.scala#L40-L61)
   * [practice - foldLeft or Future.foldLeft](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-future_fold-scala)
     * tuple을 fold할 때 `... is not a member of Any` 오류가 발생하면 foldLeft를 사용
+  * [practice - Future.sequence로 List of Future\[Option\[Long\]\] -> Future of List -> Future\[Boolean\]](https://gist.github.com/hyunjun/316c673f80532a3373dc6e01b581c247#file-future_flatten-scala)
   * [Explanation on how to execute scala futures in serial one after the other](https://gist.github.com/dportabella/4e7569643ad693433ec6b86968f589b8)
   * Future.sequence
     * [How to flatten a List of Futures in Scala - Stack Overflow](https://stackoverflow.com/questions/26717249/how-to-flatten-a-list-of-futures-in-scala)
