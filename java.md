@@ -494,6 +494,7 @@ Java
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
 * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 * [IntelliJ IDEA best plugins](https://www.vojtechruzicka.com/idea-best-plugins/)
+* [CodeMetrics 플러그인 소개: 복잡도 점수로 자극 받기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/CodeMetrics-Plugin-Intro-Complexity-Level)
 * [VimtelliJ: All the best of Vim in IntelliJ](https://www.dev-log.me/VimtelliJ:_All_the_best_of_Vim_in_IntelliJ/)
 
 # Java8
