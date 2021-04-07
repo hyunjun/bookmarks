@@ -331,6 +331,7 @@ Haskell
 * [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/contents.html)
 * [Haskell from the Very Beginning](https://www.haskellfromtheverybeginning.com)
 * [Haskell Programming](http://haskellbook.com/)
+* [Introduction to Haskell | Antoni Diller](http://www.cantab.net/users/antoni.diller/haskell/haskell.html)
 * [Real World Haskell by Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/)
   * [I'm trying to update the Real World Haskell book](https://github.com/tssm/up-to-date-real-world-haskell)
   * [up-to-date-real-world-haskell: I'm trying to update the Real World Haskell book](https://github.com/tssm/up-to-date-real-world-haskell)
