@@ -951,6 +951,7 @@ NLP
 * [Daon 형태소 분석기](https://github.com/rasoio/daon)
 * [decaNLP - The Natural Language Decathlon: A Multitask Challenge for NLP](https://github.com/salesforce/decaNLP)
   * [The Natural Language Decathlon](https://einstein.ai/research/the-natural-language-decathlon)
+* [fastT5: ⚡ boost inference speed of T5 models by 5x & reduce the model size by 3x](https://github.com/Ki6an/fastT5)
 * [fastText is a library for efficient learning of word representations and sentence classification](https://github.com/facebookresearch/fastText)
   * C++, 추가적인 의존 라이브러리 없음
   * Deep Learning 기반의 분류기와 정확도는 비슷하면서도 속도가 빠름
