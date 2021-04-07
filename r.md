@@ -340,6 +340,8 @@ R
 * [제1종오류, 제2종오류, 샘플수, 다중검정문제 - YouTube](https://www.youtube.com/watch?v=W8TuCuf7iHg)
 * [샘플수의 계산 - YouTube](https://www.youtube.com/watch?v=ZRCQkuC6meg)
 * [기술통계, 통계결과를 ppt,word로 다운받기 - YouTube](https://www.youtube.com/watch?v=2HQ8_OiQk-c)
+* [R+port](https://bookdown.org/allenpark88/market_report/2021-market-report.html)
+  * [R-code-for-finance/market-report.rmd at master · parkminhyung/R-code-for-finance](https://github.com/parkminhyung/R-code-for-finance/blob/master/market-report.rmd)
 
 # API
 * [REX: Look around – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2229)
