@@ -878,6 +878,8 @@ Clojure
   * [github.com/replikativ](https://github.com/replikativ)
   * [Replikativ](https://www.slideshare.net/SangKyuPark1/replikativ/1)
 * [restpect](https://github.com/eunmin/the-clojurians-guide/tree/master/examples/restpect/basic) Restful API 통합테스트
+* [rewrite-edn: Utility lib on top of rewrite-cljc with common operations to update EDN while preserving whitespace and comments](https://github.com/borkdude/rewrite-edn)
+  * [Rewrite EDN while preserving comments and formatting - YouTube](https://www.youtube.com/watch?v=bPoe2N7J5yg)
 * [Ring](https://github.com/ring-clojure/ring) web
   * [Asynchronous Ring](https://skillsmatter.com/skillscasts/9057-asynchronous-ring)
   * [Async Ring 미들웨어 패턴](http://clojure.kr/async-ring-middleware-pattern)
@@ -934,6 +936,7 @@ Clojure
   * [Babashka book](https://book.babashka.org/)
   * [Babashka: a native Clojure interpreter for scripting — The 2021 Graal Workshop at CGO - YouTube](https://www.youtube.com/watch?v=Yjeh57eE9rg)
   * [deps.clj/deps.bat at master · borkdude/deps.clj](https://github.com/borkdude/deps.clj/blob/master/deps.bat#L1-L7)
+  * [Babashka pods: why, how to use and what's going on in the background? Example: go-sqlite3 - YouTube](https://www.youtube.com/watch?v=Q3EFNRwxLLo)
   * [babashka-sql-pods: Babashka pods for SQL databases](https://github.com/babashka/babashka-sql-pods)
   * [pod-babashka-sqlite3: A babashka pod for interacting with sqlite3](https://github.com/babashka/pod-babashka-sqlite3)
 
