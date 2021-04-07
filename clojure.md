@@ -935,6 +935,7 @@ Clojure
   * [babashka 0.3.1 new features: bb.edn + invoke any function from cmd line - YouTube](https://www.youtube.com/watch?v=_zr1dicJs-E)
   * [Babashka book](https://book.babashka.org/)
   * [Babashka: a native Clojure interpreter for scripting — The 2021 Graal Workshop at CGO - YouTube](https://www.youtube.com/watch?v=Yjeh57eE9rg)
+  * [Rewrite if with rewrite-clj and babashka](https://gist.github.com/borkdude/77369ba1b2d0fbd2608a8d12f518ade3)
   * [deps.clj/deps.bat at master · borkdude/deps.clj](https://github.com/borkdude/deps.clj/blob/master/deps.bat#L1-L7)
   * [Babashka pods: why, how to use and what's going on in the background? Example: go-sqlite3 - YouTube](https://www.youtube.com/watch?v=Q3EFNRwxLLo)
   * [babashka-sql-pods: Babashka pods for SQL databases](https://github.com/babashka/babashka-sql-pods)
