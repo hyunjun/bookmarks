@@ -603,6 +603,9 @@ Apache
 * [스케일아웃없이 순간 급증하는 주문 처리하기 (Microservice with Kafka)](https://tv.naver.com/v/11212897)
 * [Kafka for Engineers. Here are things about Kafka that you… | by Dave Taubler | Level Up Coding](https://levelup.gitconnected.com/kafka-for-engineers-975feaea6067)
 * [Kafka 운영 컨슈머 그룹 정보는 언제 사라질까? :: 언제나 김김](https://always-kimkim.tistory.com/entry/when-will-the-kafka-consumer-group-be-removed)
+* [a-great-day-out-with/a-great-day-out-with.github.io](https://github.com/a-great-day-out-with/a-great-day-out-with.github.io)
+  * [A Great Day Out With... Apache Kafka](https://a-great-day-out-with.github.io/kafka.html)
+* [KafkaConsumer Client Internals](https://d2.naver.com/helloworld/0974525)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
