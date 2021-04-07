@@ -111,6 +111,7 @@ Functional Programming
 * [Why developers are falling in love with functional programming | by Rhea Moutafis | Towards Data Science](https://towardsdatascience.com/why-developers-are-falling-in-love-with-functional-programming-13514df4048e)
 * [김진철의 How-to-Big Data | 빅데이터의 미래 (13) - CIO Korea](https://www.ciokorea.com/news/173704)
 * [**다시보는 커링 | overcurried**](https://overcurried.com/%EB%8B%A4%EC%8B%9C%EB%B3%B4%EB%8A%94%20%EC%BB%A4%EB%A7%81/)
+* [The reality of functional programming - Developer Melange PODCAST - LispCast](https://lispcast.com/the-reality-of-functional-programming-developer-melange-podcast/)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
