@@ -847,6 +847,7 @@ Scala
     * [An Introduction to ZIO Kafka](https://ziverge.com/blog/introduction-to-zio-kafka/)
     * [Apache Kafka and ZIO. This article will explain why you want… | by Aleksandra Holubitska | Sep, 2020 | Medium](https://medium.com/@oleksandra_a/apache-kafka-and-zio-af418b4c54f0)
     * [How To Implement Streaming Microservices Using ZIO and Kafka](https://scalac.io/streaming-microservices-with-zio-and-kafka/)
+    * [Production-grade Microservices with ZIO by Itamar Ravid - YouTube](https://www.youtube.com/watch?v=oMJ1RMdR7wg)
     * [Using ZIO Kafka with offset storage in Postgres for transactional processing | by Marek Kadek | Mar, 2021 | Medium](https://kadek-marek.medium.com/using-zio-kafka-with-offset-storage-in-postgres-for-transactional-processing-91042e81c095)
     * [Using Aspects To Transform Your Code With ZIO Environment - YouTube](https://www.youtube.com/watch?v=gcqWdNwNEPg)
     * [How to Use Thread.sleep Without Blocking on the JVM](https://www.freecodecamp.org/news/non-blocking-thread-sleep-on-jvm/) thread.sleep, project loom, ScheduledExecutorService, zio.sleep
@@ -865,6 +866,7 @@ Scala
       * [Part 1: Start writing better Scala with zio-config - YouTube](https://www.youtube.com/watch?v=l5CVQmSp7fY)
       * [Part2: Maximise the use of Scala types (Option & Either in zio-config) - YouTube](https://www.youtube.com/watch?v=SusCbrSK5eA)
       * [Part3: Intro to ADT, and scalable configuration management! - YouTube](https://www.youtube.com/watch?v=LGo_g1GK6_k)
+      * [Easy Config For Your App by Afsal Thaj - YouTube](https://www.youtube.com/watch?v=4SrSKluyyKo)
     * [zio-json: Fast, secure JSON library with tight ZIO integration](https://github.com/zio/zio-json/)
     * zio-k8s
       * [Writing kubectl plugins with ZIO K8s](https://ziverge.com/blog/zio-k8s-kubectl-plugin/)
@@ -904,6 +906,7 @@ Scala
       * [ZLayers by example - YouTube](https://www.youtube.com/watch?v=u5IrfkAo6nk)
       * [Structuring Services with ZIO and ZLayer - YouTube](https://www.youtube.com/watch?v=PaogLRrYo64)
       * [zio quick read: Extracting the executor for a service](https://appddeevvmeanderings.blogspot.com/2021/02/zio-quick-read-extracting-executor-for.html)
+      * [ZIO WORLD - ZLayer by Kit Langton - YouTube](https://www.youtube.com/watch?v=B3bAcU2-TGI)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
 * sort
   * [The complexity of Java comparators, and the simplicity of Scala sort by](https://levelup.gitconnected.com/the-complexity-of-java-comparators-and-the-simplicity-of-scala-sort-by-f34f44d4b759)
