@@ -345,6 +345,7 @@ PyTorch
 * [pytorch-struct - Fast, general, and tested differentiable structured prediction in PyTorch](https://github.com/harvardnlp/pytorch-struct)
 * [pytorch-template - PyTorch deep learning projects made easy](https://github.com/victoresque/pytorch-template)
 * [pytorch-wavenet - This is an implementation of the WaveNet architecture](https://github.com/vincentherrmann/pytorch-wavenet)
+* Qiskit [Hybrid quantum-classical Neural Networks with PyTorch and Qiskit](https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit-pytorch.html)
 * [QuickDraw - Implementation of Quickdraw - an online game developed by Google](https://github.com/1991viet/QuickDraw)
 * [RandWireNN - Unofficial PyTorch Implementation of: Exploring Randomly Wired Neural Networks for Image Recognition](https://github.com/seungwonpark/RandWireNN)
 * [Rock-Paper-Scissors-with-Jetson-Nano - an implementation for Rock-Paper-Scissors game with a machine. Jetson Nano is used for AI recognition of hand gesture](https://github.com/mokpi/Rock-Paper-Scissors-with-Jetson-Nano)
