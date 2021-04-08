@@ -2258,6 +2258,7 @@ Javascript
 
 # [React](http://reactkr.github.io/react)
 * [누구든지 하는 리액트: 초심자를 위한 리액트 핵심 강좌](https://velopert.com/3676) inflearn 유료 강의 일부, codesandbox.io 이용
+* [React는 왜 React일까? | Dev Log](https://reactiver.dev/where-did-the-name-react-come-from/)
 * [React와 Node.js를 활용한 고객 관리 시스템 개발](http://edu.goorm.io/learn/lecture/11817/react%EC%99%80-node-js%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B3%A0%EA%B0%9D-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EB%B0%9C/lesson/481540/create-react-app%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0) codepen.io, node, express, AWS RDS, material-ui
 * [React 사용자 인터페이스를 만들기 위한 JavaScript 라이브러리](https://ko.reactjs.org/)
 * [egoing.github.io/react-tutorial-example](https://egoing.github.io/react-tutorial-example)
