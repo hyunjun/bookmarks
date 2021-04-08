@@ -77,6 +77,7 @@ Clojure
 * [Category Theory abstractions for Clojure](http://funcool.github.io/cats/latest/)
 * [Open Source Clojure project to Monitor Deforestation from Satellite Imagery](http://clojureforscience.novonon.com/?p=53)
 * [Implementing a Clojure ns-browser in Light Table with React](http://rundis.github.io/blog/2015/lt_react.html)
+* [Light Table: The strange and wonderful saga of a pure Clojure editor — Pratik Karki - YouTube](https://www.youtube.com/watch?v=gFEoy5q8mcM)
 * [Clojure로 웹 서비스 개발 시작해보기](https://medium.com/@pitzcarraldo/clojure%EB%A1%9C-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EC%8B%9C%EC%9E%91%ED%95%B4%EB%B3%B4%EA%B8%B0-8db38437b2a3)
 * [Micro-Services: Clojure vs Scala](http://glennengstrand.info/blog/?p=360)
 * [ex-info](https://clojuredocs.org/clojure.core/ex-info)
@@ -940,6 +941,7 @@ Clojure
   * [Babashka pods: why, how to use and what's going on in the background? Example: go-sqlite3 - YouTube](https://www.youtube.com/watch?v=Q3EFNRwxLLo)
   * [babashka-sql-pods: Babashka pods for SQL databases](https://github.com/babashka/babashka-sql-pods)
   * [pod-babashka-sqlite3: A babashka pod for interacting with sqlite3](https://github.com/babashka/pod-babashka-sqlite3)
+  * [reorder.clj babashka script for reordering requires and imports in clojure files](https://gist.github.com/laurio/01530ea7700752885df21e92bb926f75)
 
 ## Library GraalVM
 * [How to build a native binary for your Clojure projects with GraalVM](https://github.com/BrunoBonacci/graalvm-clojure/blob/master/doc/clojure-graalvm-native-binary.md)
