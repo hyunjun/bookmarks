@@ -19,6 +19,7 @@
 * [Apache Spark Tutorial](https://www.youtube.com/playlist?list=PLEiEAq2VkUUKmozD5fU7Fvc-Wl5SmD7TP)
 * [Apache Spark Tutorials](https://www.youtube.com/playlist?list=PLkz1SCf5iB4dXiPdFD4hXwheRGRwhmd6K)
 * [Apache Spark 101](https://medium.com/plumbersofdatascience/apache-spark-101-971aaf5d4334)
+* [(16) Learn Apache Spark ( Databricks ) - Step by Step Guide | LinkedIn](https://www.linkedin.com/pulse/learn-apache-spark-databricks-step-guide-deepak-rajak/)
 * [Spark Internals](https://github.com/JerryLead/SparkInternals)
 * [Introduction to Spark Internals](http://www.slideshare.net/michiard/introduction-to-spark-internals)
 * [Start Your Journey with Apache Spark — Part 1](https://medium.com/expedia-group-tech/start-your-journey-with-apache-spark-part-1-3575b20ee088)
