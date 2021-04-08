@@ -1622,6 +1622,7 @@ Scala
 * [So you want to compose some functions](https://www.innoq.com/en/blog/function-monoids/)
 * [Semigroups and Monoids in Scala - YouTube](https://www.youtube.com/watch?v=LmBTiFYa-V4)
 * [Kit Langton - Troll Driven Development: Implementing Functional Effects by Way of Self-Lobotomy - YouTube](https://www.youtube.com/watch?v=MSygEhqdsqs)
+* [Monads are Monoids in the Category of Endofunctors - a Scala 3 Journey, No Psychobabble - YouTube](https://www.youtube.com/watch?v=CMm98RkCgPg)
 * [scalablitz](http://knight76.tistory.com/entry/scala-scalablitz)
   * [Lightning-Fast Standard Collections With ScalaBlitz](https://scala-blitz.github.io/talks/scaladays2014-final.pdf)
 
