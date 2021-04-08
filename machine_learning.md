@@ -60,7 +60,7 @@ Machine Learning
 * [기본적인 머신러닝과 딥러닝 강좌](https://www.inflearn.com/course/%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%95%EC%A2%8C/)
 * [2016 여름 머신러닝 워크샵 1일차 강의 (KAIST 오혜연 교수님)](https://www.youtube.com/watch?v=Wf6lIlJZgKg)
 * [Machine Learning 스터디 (1) Machine Learning이란?](http://sanghyukchun.github.io/57/)
-* [The Data Fabric for Machine Learning. Part 1.](https://towardsdatascience.com/the-data-fabric-for-machine-learning-part-1-2c558b7035d7)
+* [The Data Fabric for Machine Learning. Part 1](https://towardsdatascience.com/the-data-fabric-for-machine-learning-part-1-2c558b7035d7)
 * [기계 학습 기초](http://letsgoturing.tistory.com/9)
 * [통계 학습이란](http://bywords.tistory.com/entry/Statistical-Learning-1-Introduction)
 * [**기본적인 머신러닝과 딥러닝 강의**](http://hunkim.github.io/ml/)
@@ -623,7 +623,7 @@ Machine Learning
 * [**MLOps 1. 실험 관리 AI 혁신 속도는 모델 학습에서 배포까지 걸리는 속도에 비례한다**](https://brunch.co.kr/@chris-song/101)
 * [MLOps: Continuous delivery and automation pipelines in machine learning 번역](https://zzsza.github.io/mlops/2020/05/16/cd-and-automation-pipeline-in-ml/)
 * [Introducing MLOps - 차문수(Superb AI) :: 제33회 AWSKRUG DataScience모임 - YouTube](https://www.youtube.com/watch?v=CjloF7g-5O4)
-* [What is MLOps? Machine Learning Operations Explained](https://www.freecodecamp.org/news/what-is-mlops-machine-learning-operations-explained/amp/)
+* [What is MLOps? Machine Learning Operations Explained](https://www.freecodecamp.org/news/what-is-mlops-machine-learning-operations-explained/)
 * [Simulation vs. Machine Learning](https://vortarus.com/simulation-vs-machine-learning/)
 * [라쏘? 로지스틱? 회의에서 당당하게, 수식없이 기초개념부터](http://triviaz.net/blog:easy_lasso_logistic_regression) lasso logistic
 * [The Illustrated FixMatch for Semi-Supervised Learning](https://amitness.com/2020/03/fixmatch-semi-supervised/)
@@ -931,7 +931,7 @@ Machine Learning
 * [캐글 넷플릭스(netflix) 데이터를 이용한 데이터 분석 실습 (2)](https://stricky.tistory.com/453)
 * [캐글 데이터 시각화 넷플릭스(netflix) 데이터를 이용한 데이터 분석 실습 (3)](https://stricky.tistory.com/454)
 * [영상 캐글 4그랜드마스터 데이콘 초청 한글 Abhishek Webinar2 Q/A - DACON](https://dacon.io/forum/402777)
-* [How to break a model in 20 days. A tutorial on production model analytics.](https://evidentlyai.com/blog/tutorial-1-model-analytics-in-production)
+* [How to break a model in 20 days. A tutorial on production model analytics](https://evidentlyai.com/blog/tutorial-1-model-analytics-in-production)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
@@ -966,7 +966,7 @@ Machine Learning
 * [Alibi - an open source Python library aimed at machine learning model inspection and interpretation](https://github.com/SeldonIO/alibi)
 * [backend.ai](https://github.com/lablup/backend.ai/wiki)
   * [docs.backend.ai](http://docs.backend.ai)
-  * [lablup/backend.ai: Backend.AI is a streamlined, container-based computing cluster orchestrator that hosts diverse programming languages and popular computing/ML frameworks, with pluggable heterogeneous accelerator support including CUDA and ROCM.](https://github.com/lablup/backend.ai)
+  * [lablup/backend.ai: Backend.AI is a streamlined, container-based computing cluster orchestrator that hosts diverse programming languages and popular computing/ML frameworks, with pluggable heterogeneous accelerator support including CUDA and ROCM](https://github.com/lablup/backend.ai)
 * [BentoML - A platform for serving and deploying machine learning models http://BentoML.ai ](https://github.com/bentoml/BentoML)
 * [cortex: Model serving at scale](https://github.com/cortexlabs/cortex)
   * [We tried to build an end-to-end ML platform. Here’s why it failed. | by Caleb Kaiser | Towards Data Science](https://towardsdatascience.com/we-tried-to-build-an-end-to-end-ml-platform-heres-why-it-failed-190c0f503536)

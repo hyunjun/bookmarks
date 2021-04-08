@@ -55,7 +55,7 @@ Linux
 * [**Understanding disk usage in Linux**](https://ownyourbits.com/2018/05/02/understanding-disk-usage-in-linux/)
   * [번역 - Understanding disk usage in Linux](https://github.com/hatsari/article/blob/master/understanding_disk_usage_in_linux/understanding_disk_usage_in_linux_ko.md)
 * [팀 패스워드 관리 프로그램 tpass 후기](http://ohyecloudy.com/pnotes/archives/side-project-tpass/)
-* [**The 101 of ELF files on Linux: Understanding and Analysis**](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/amp/)
+* [**The 101 of ELF files on Linux: Understanding and Analysis**](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
 * [**What's in a Linux executable? - fasterthanli.me**](https://fasterthanli.me/series/making-our-own-executable-packer/part-1)
 * [**리눅스 서버 60초안에 상황파악하기**](https://b.luavis.kr/server/linux-performance-analysis)
   * uptime, dmesg | tail, vmstat 1, mpstat -p ALL 1, pidstat 1, iostat -xz 1, free -m, sar -n DEV 1, sar -n TCP,ETCP 1, top
@@ -599,7 +599,7 @@ Linux
   * [리다이렉션(redirection), 파이프(pipe)의 개념 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/linux-redirection/)
   * [Do Not Use '>' in Your Command Prompt (and How to Stay Safe in Shell) | Tanel Poder Consulting](https://tanelpoder.com/posts/how-to-stay-safe-in-shell/)
 * `rm`
-  * [How to Recover a Deleted File in Linux](https://www-tecmint-com.cdn.ampproject.org/c/s/www.tecmint.com/recover-deleted-file-in-linux/amp/)
+  * [How to Recover a Deleted File in Linux](https://www.tecmint.com/recover-deleted-file-in-linux/)
 * `rsync`
   * `rsync -avz --rsh="ssh -l [id]" [ip]:[src path] [dst path]`
     * daemon / ssh 방식 두 가지가 있는데, ssh의 경우 ssh public key를 추가해야 접속이 가능
