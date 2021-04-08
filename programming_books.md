@@ -1594,6 +1594,7 @@ Programming Books
   * [Do it! 쉽게 배우는 R 텍스트 마이닝 - 04 감정 분석: 어떤 마음으로 글을 썼을까?](https://youngwoos.github.io/Doit_textmining/04-sentimentAnalysis.html)
   * [Do it! 쉽게 배우는 R 텍스트 마이닝 - 06 토픽 모델링: 어떤 주제로 글을 썼을까?](https://youngwoos.github.io/Doit_textmining/06/06-topicModeling.html)
   * [Do it! 쉽게 배우는 R 텍스트 마이닝 - 07 텍스트 마이닝 프로젝트: 타다 금지법 기사 댓글 분석](https://youngwoos.github.io/Doit_textmining/07-project1.html)
+  * [Do it! 쉽게 배우는 R 텍스트 마이닝 - 08 텍스트 마이닝 프로젝트: 차기 대선 주자 SNS 여론 분석](https://youngwoos.github.io/Doit_textmining/08-project2.html)
 
 # Rust
 * (NOT YET) [러스트 프로그래밍 공식 가이드](https://jpub.tistory.com/980)
