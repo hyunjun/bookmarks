@@ -205,6 +205,7 @@ Programming Books
   * [freelec-springboot2-webservice](https://github.com/jojoldu/freelec-springboot2-webservice)
 * [210.(책추천) AWS시작으로 좋은 책들](https://brunch.co.kr/@topasvga/666)
 * (NOT YET) [Amazon Web Services로 시작하는 클라우드 입문](https://jybaek.tistory.com/907)
+* (NOT YET) [AWS Lambda로 시작하는 서버리스](https://bjpublic.tistory.com/379)
 
 # Android
 
@@ -785,6 +786,8 @@ Programming Books
 * (NOT YET) [쿠버네티스 입문 - 90가지 예제로 배우는 컨테이너 관리 자동화 표준 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1542)
 * (NOT YET) [Container Security (컨테이너 보안)](https://jybaek.tistory.com/892)
   * [류광의 번역 이야기 :: 번역서 "컨테이너 보안" 출간 소식](http://occamsrazr.net/tt/370)
+* (NOT YET) [핵심만 콕! 쿠버네티스](https://bjpublic.tistory.com/374)
+* (NOT YET) [알면 더 쉬운 도커 쿠버네티스](https://bjpublic.tistory.com/369)
 
 # Domain Driven Development DDD
 * [도메인 주도 설계(에릭에반스) -1](https://ash84.net/2017/06/04/domain-driven-development/)
@@ -824,6 +827,7 @@ Programming Books
   * [엘라스틱서치 실무 가이드](https://www.facebook.com/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98-%EC%8B%A4%EB%AC%B4-%EA%B0%80%EC%9D%B4%EB%93%9C-343249896296014)
 * (NOT YET) [엘라스틱서치 SELK 구축과 웹 해킹 분석](http://www.yes24.com/Product/Goods/79928972)
 * (NOT YET) [기초부터 다지는 ElasticSearch 운영 노하우: 기본 개념부터 클러스터 구축, 실무 활용 시나리오까지 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/01/07/%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0-%EB%8B%A4%EC%A7%80%EB%8A%94-elasticsearch-%EC%9A%B4%EC%98%81-%EB%85%B8%ED%95%98%EC%9A%B0-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90%EB%B6%80%ED%84%B0-%ED%81%B4/)
+* (NOT YET) [나만의 데이터 분석 플랫폼 엘라스틱서치](https://bjpublic.tistory.com/397)
 
 # Finance
 
@@ -1071,6 +1075,7 @@ Programming Books
 * (NOT YET) 처음 배우는 스프링 부트 2
   * [서평 처음 배우는 스프링 부트 2](https://www.popit.kr/서평-처음-배우는-스프링-부트-2)
 * (NOT YET) [배워서 바로 쓰는 스프링 부트2](https://jybaek.tistory.com/872)
+* (NOT YET) [예제로 배우는 스프링 부트 입문](https://bjpublic.tistory.com/384)
 * (NOT YET) [그레이들 - 문법과 구조에서 활용까지 빌드의 모든 것](https://freelec.co.kr/book/%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/)
 * (NOT YET) [엔터프라이즈 자바 마이크로서비스](https://jybaek.tistory.com/832)
 * (NOT YET) [자바 트러블슈팅](https://jpub.tistory.com/989)
@@ -1088,6 +1093,7 @@ Programming Books
 * (NOT YET) [<코어 자바스크립트> - 정재남 지음](http://greentec.egloos.com/4453678)
 * (NOT YET) [SNS 앱 예제로 배우는 프로그레시브 웹 앱 - YES24](http://www.yes24.com/Product/Goods/91360603)
 * (NOT YET) [《자바스크립트는 왜 그 모양일까?: 더글러스 크락포드가 알려주는 위험한 자바스크립트를 안전하게 사용하는 법》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/05/22/%e3%80%8a%ec%9e%90%eb%b0%94%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8%eb%8a%94-%ec%99%9c-%ea%b7%b8-%eb%aa%a8%ec%96%91%ec%9d%bc%ea%b9%8c-%eb%8d%94%ea%b8%80%eb%9f%ac%ec%8a%a4-%ed%81%ac%eb%9d%bd%ed%8f%ac/)
+* (NOT YET) [클론 코딩으로 시작하는 Next.js](https://bjpublic.tistory.com/391)
 
 ## Angular
 
@@ -1163,6 +1169,7 @@ Programming Books
   * 탐라 문005.74쿠31ㅇ
 * (NOT YET) [카프카 핵심 가이드](http://jpub.tistory.com/849)
 * (NOT YET) [실전 아파치 카프카](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B8503179529)
+* (NOT YET) [아파치 카프카 애플리케이션 프로그래밍 with 자바 - YES24](http://www.yes24.com/Product/Goods/99122569?OzSrank=1)
 
 # Kotlin
 
