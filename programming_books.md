@@ -1504,6 +1504,7 @@ Programming Books
   * [Book Do it! 점프 투 장고](https://sihan-son.github.io/do-it-django/)
 * (NOT YET) [진지한 파이썬](https://www.hanbit.co.kr/store/books/look.php?p_code=B2649943562)
   * [진지한 파이썬 (쥘리앵 당주 著, 김영하 譯, 2021)](https://jehyunlee.tistory.com/15)
+* (NOT YET) [효율적 개발로 이끄는 파이썬 실천 기술](https://jpub.tistory.com/1145)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
