@@ -142,7 +142,7 @@ Docker
 * [github.com/docker-library/docs](https://github.com/docker-library/docs)
 * [hub.docker.com](https://hub.docker.com/)
   * [Docker 위의 웹서버 프로젝트 구상하기](https://woolbro.tistory.com/102) ELK, Flask Vue, MongoDB
-  * [workout-log/back-end: workout-log의 백엔드 레포지토리 입니다.](https://github.com/workout-log/back-end) JavaScript, EC2, mongodb, Cookie + JWT
+  * [workout-log/back-end: workout-log의 백엔드 레포지토리 입니다](https://github.com/workout-log/back-end) JavaScript, EC2, mongodb, Cookie + JWT
   * [**GitHub Container Registry에 도커 이미지 Push 하기 - Qiita**](https://qiita.com/leechungkyu/items/f95998506d45feb15393)
   * [Dockerfile Security Best Practices - Cloudberry Engineering](https://cloudberry.engineering/article/dockerfile-security-best-practices/)
   * [Editing files in a docker container | by Maciek Opała | SoftwareMill Tech Blog](https://blog.softwaremill.com/editing-files-in-a-docker-container-f36d76b9613c)

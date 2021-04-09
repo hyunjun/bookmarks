@@ -9,7 +9,7 @@ Vim
 * [simple_vim_guide](https://github.com/johngrib/simple_vim_guide)
 * [Let’s learn Vim! Part 1](https://hackernoon.com/lets-learn-vim-part-1-4752116637b4)
 * [Let’s learn Vim! Part 2](https://hackernoon.com/lets-learn-vim-part-2-66b968f1551f)
-* [Learn-Vim: A book for learning the Vim editor the smart way.](https://github.com/iggredible/Learn-Vim)
+* [Learn-Vim: A book for learning the Vim editor the smart way](https://github.com/iggredible/Learn-Vim)
 * [How not to be afraid of Vim anymore - A curation of the most popular commands and how to use them](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
 * [Basic Vim Commands Every Linux User Must Know](https://linuxhandbook.com/basic-vim-commands)
 * [Vim 도대체 왜 쓰는가](https://bengi.kr/1349)

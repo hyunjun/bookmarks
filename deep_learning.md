@@ -1352,7 +1352,7 @@ Deep Learning
 * [SRZoo: An integrated repository for super-resolution using deep learning](https://github.com/idearibosome/srzoo)
 * TabNine [Autocompletion with deep learning](https://tabnine.com/blog/deep)
 * [VELES - Distributed platform for rapid Deep learning application development](https://velesnet.ml/)
-* [TurboTransformers: a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU.](https://github.com/Tencent/TurboTransformers)
+* [TurboTransformers: a fast and user-friendly runtime for transformer inference (Bert, Albert, GPT2, Decoders, etc) on CPU and GPU](https://github.com/Tencent/TurboTransformers)
 * [webdnn - Fastest DNN Execution Framework on Web Browser https://mil-tokyo.github.io/webdnn](https://github.com/mil-tokyo/webdnn)
 * [xcessiv - A web-based application for quick and scalable construction of massive machine learning ensembles](https://github.com/reiinakano/xcessiv)
 * [YOLO DARKNET - 구성 및 설치, 사용방법](http://www.popit.kr/yolo-darknet-%EA%B5%AC%EC%84%B1-%EB%B0%8F-%EC%84%A4%EC%B9%98-%EC%82%AC%EC%9A%A9%EB%B0%A9%EB%B2%95/)

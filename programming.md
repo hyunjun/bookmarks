@@ -431,7 +431,7 @@ Programming
 * [스크럼에 대한 경험 및 개인적인 생각 - FutureSeller](https://future-seller.dev/posts/scrum-experience)
 * [Advanced Daily Scrum Meeting · Dev Note](https://devstarsj.github.io/culture/2021/02/22/daily.scrum.meeting/)
 * [Sprint & Jira](https://www.slideshare.net/seokjoonyun9/sprint-jira)
-* [Agile Testing Condensed Korean Edition by Janet Gregory et al.](https://leanpub.com/agiletesting-condensed-korean-edition)
+* [Agile Testing Condensed Korean Edition by Janet Gregory et al](https://leanpub.com/agiletesting-condensed-korean-edition)
 * [클린 애자일 - 첫 마음으로 돌아가보는 여정](https://jusths.tistory.com/188)
 * [클린 애자일 - 3장 비즈니스 실천 방법](https://jusths.tistory.com/189)
 * [클린 애자일 - 4장 팀 실천 방법](https://jusths.tistory.com/190)

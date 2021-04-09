@@ -396,7 +396,7 @@ NoSQL
 * [MongoDB 이해하기 | kciter.so](https://kciter.so/posts/about-mongodb)
 * [Jepsen: MongoDB 4.2.6](https://jepsen.io/analyses/mongodb-4.2.6)
 * [mango - A MongoDB driver for Deno](https://github.com/denodrivers/mango)
-* [mongo-java-server: Fake implementation of MongoDB in Java that speaks the wire protocol.](https://github.com/bwaldvogel/mongo-java-server)
+* [mongo-java-server: Fake implementation of MongoDB in Java that speaks the wire protocol](https://github.com/bwaldvogel/mongo-java-server)
 
 # OmniSci
 * [OmniSci - Massively Accelerated Analytics and Data Science](https://www.omnisci.com/)

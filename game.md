@@ -36,7 +36,7 @@ Game
 * [게임 클라이언트 프로그래머로 취업하기 위해 필요한 10가지](https://ddayin.tistory.com/296)
 * ["I Need Practice Programming": 49 Ideas for Game Clones to Code](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
 * [**Software Library: MS-DOS Games : Free Software : Free Download, Borrow and Streaming : Internet Archive**](https://archive.org/details/softwarelibrary_msdos_games) emulator
-* [FreeCol - a turn-based strategy game based on the old game Colonization, and similar to Civilization. The objective of the game is to create an independent nation.](https://github.com/FreeCol/freecol)
+* [FreeCol - a turn-based strategy game based on the old game Colonization, and similar to Civilization. The objective of the game is to create an independent nation](https://github.com/FreeCol/freecol)
 * [Curriculum Guide | Riot Games](https://www.riotgames.com/en/urf-academy/curriculum-guide)
 * [Build Pac-Man Game With JavaScript - YouTube](https://www.youtube.com/watch?v=YBtzzVwrTeE)
 * [Collision Detection](http://www.jeffreythompson.org/collision-detection/)
@@ -61,7 +61,7 @@ Game
 * [PlayCanvas WebGL Game Engine](https://playcanvas.com/)
 * [raylib](https://www.raylib.com/index.html)
 * [Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
-* [TwilioQuest - Discover your power to change the world with code.](https://www.twilio.com/quest)
+* [TwilioQuest - Discover your power to change the world with code](https://www.twilio.com/quest)
 * Unity
   * [수식없이 게임 수학 이해하기](https://www.slideshare.net/MrDustinLee/ss-147084075)
   * [원리부터 파악하는 Unity의 DOTS](https://blog.iwanhae.ga/intro-of-unity-dots/)
@@ -72,7 +72,7 @@ Game
 * Unreal
   * [NDC 17 - ‘언알못’이 언리얼엔진을 배우려면 어떻게 해야 돼요?](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=71531)
   * [Unity에서 Unreal로 갈아타자](https://www.slideshare.net/ddayinhwang9/unity-unreal-210095797)
-* [universal-doom: A single .exe binary which runs DOOM on DOS 6, Windows 95 and Windows 10 (and probably everything in between).](https://github.com/nneonneo/universal-doom)
+* [universal-doom: A single .exe binary which runs DOOM on DOS 6, Windows 95 and Windows 10 (and probably everything in between)](https://github.com/nneonneo/universal-doom)
 * [Vassal - a game engine for building and playing online adaptations of board games and card games](http://www.vassalengine.org/)
 
 ## Library Python

@@ -334,7 +334,7 @@ Android
   * [Retrofit과 Coroutine 함께 이용하기](https://developer88.tistory.com/241)
   * [Retrofit2에서 Error Message 받아오기](https://jungwoon.github.io/android/2020/04/25/Retrofit-ErrorResponseHandling/)
   * [Retrofit과 Jsoup을 이용한 HTML파싱](https://developer88.tistory.com/246)
-  * [코루틴과 Retrofit를 쓸 때 디스패처는 필요없습니다.](http://dalinaum.github.io/android/2021/01/28/retrofit-does-not-need-dispachers-io.html)
+  * [코루틴과 Retrofit를 쓸 때 디스패처는 필요없습니다](http://dalinaum.github.io/android/2021/01/28/retrofit-does-not-need-dispachers-io.html)
   * [Retrofit 으로 파일 업로드 하기 | Jungwoon Blog](https://jungwoon.github.io/android/retrofit/2021/02/02/Retrofit-File-Upload.html)
   * [Retrofit2 사용법](https://brunch.co.kr/@mystoryg/149)
 * Room

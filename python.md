@@ -143,7 +143,7 @@ Python
 * [Recreational Maths in Python](http://www.alanzucconi.com/2015/11/03/recreational-maths-python/)
 * [DoingMathWithPython](https://github.com/DevStarSJ/Study/tree/master/Blog/Python/DoingMathWithPython)
 * [**A modern guide to getting started with Data Science and Python**](http://stackrefactoring.blogspot.kr/2015/11/eka-modern-guide-to-getting-started.html)
-* [ultimate-python: Ultimate Python study guide for newcomers and professionals alike.](https://github.com/huangsam/ultimate-python)
+* [ultimate-python: Ultimate Python study guide for newcomers and professionals alike](https://github.com/huangsam/ultimate-python)
 * [빅데이터를 위한 파이썬(Python) 교육 내용 정리](http://uincity.tistory.com/247)
 * [Python for Data Science - Python Brasil 11 (2015)](http://www.slideshare.net/gabrielspmoreira/python-for-data-science-python-brasil-11-2015)
 * [집단지성 프로그래밍 1(Machine Learning, Euclidean Distance, Pearson Correlation Coefficient)](http://yumere.tistory.com/70)
@@ -1098,7 +1098,7 @@ Python
   * [tracemalloc — Trace memory allocations](https://pytracemalloc.readthedocs.io/)
   * [VMprof Python client](https://github.com/vmprof/vmprof-python) profiler
     * [vmprof documentation](https://vmprof.readthedocs.org/)
-  * [yappi: Yet Another Python Profiler, but this time thread&coroutine aware.](https://github.com/sumerc/yappi)
+  * [yappi: Yet Another Python Profiler, but this time thread&coroutine aware](https://github.com/sumerc/yappi)
     * [Profiling을 통해 python async web application 병목지점 찾기 ⛑ - make all](https://makeall.me/2020/08/python-async-profiling.html)
       * Async web 작성 시에는 logging도 고려해야 하는 데 이 부분이 빠져있음
         * 기본 logging은 sync이기 때문에 bufferred or async logging을 사용하지 않으면 async web에서 성능 저하 발생
@@ -1191,7 +1191,7 @@ Python
   * [LAZY SORTING (PYTHON RECIPE)](http://code.activestate.com/recipes/280501-lazy-sorting/)
   * [sorted 함수 예제](http://knight76.tistory.com/entry/python3-sorted-%ED%95%A8%EC%88%98-%EC%98%88%EC%A0%9C)
   * [3 Reasons Why You Should Almost Always Use sorted() in Python](https://medium.com/swlh/3-reasons-why-you-should-almost-always-use-sorted-in-python-9fe122e6ce71)
-  * [파이썬 sorted 사용 방법을 알아봅시다.](https://codingdog.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-sorted-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4) custom class __lt__
+  * [파이썬 sorted 사용 방법을 알아봅시다](https://codingdog.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-sorted-%EC%82%AC%EC%9A%A9-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4) custom class __lt__
   * cmp_to_key
     * [practice - from functools import cmp_to_key](https://github.com/hyunjun/practice/commit/78f4a0a967224b892495de97d937d0e3aacf423d)
     * [HackerRank Sorting: Comparator (Python)](https://somjang.tistory.com/entry/HackerRank-Sorting-Comparator-Python)
@@ -2469,7 +2469,7 @@ Python
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
   * [Sarah Gibson - Sharing Reproducible Python Environments with Binder - YouTube](https://www.youtube.com/watch?v=wTVMHallSSA)
 * [Emacs IPython Notebook](http://tkf.github.io/emacs-ipython-notebook/)
-* [handcalcs: Python library for converting Python calculations into rendered latex.](https://github.com/connorferster/handcalcs)
+* [handcalcs: Python library for converting Python calculations into rendered latex](https://github.com/connorferster/handcalcs)
 * [Hydrogen - an interactive coding environment that supports Python, R, JavaScript and other Jupyter kernels](https://nteract.gitbooks.io/hydrogen/)
 * ipytracer [알고리즘 시각화 라이브러리 ipytracer 개발기](https://www.slideshare.net/Sn0wLe0pard/ipytracer)
 * [ipywidgets](https://ipywidgets.readthedocs.io)
@@ -2880,7 +2880,7 @@ Python
       * [google drive 연동](https://github.com/pjt3591oo/python-googledrive)
     * [Duplicate files, Deduper in Google Drive](https://eojji.blogspot.com/2019/06/duplicate-files-deduper-in-google-drive.html)
       * [Drive Deduper Finds duplicate files in Drive based on md5 checksum and offers to trash them](https://github.com/gsuitedevs/drive-utils/tree/master/deduper)
-    * [A script for downloading all files in a Google Drive folder.](https://gist.github.com/swyoon/5601cd17bcc2ada8599bfa7549e6f698)
+    * [A script for downloading all files in a Google Drive folder](https://gist.github.com/swyoon/5601cd17bcc2ada8599bfa7549e6f698)
     * [PYTHON 구글 드라이브 연동 :: 프즈](https://tolovefeels.tistory.com/57)
     * [gdown - Download a large file from Google Drive (curl/wget fails because of the security notice)](https://github.com/wkentaro/gdown)
   * sheet
@@ -2908,7 +2908,7 @@ Python
 * [High-Frequency-Trading-Model-with-IB - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB)
   * [Accompanying source codes for my book 'Mastering Python for Finance'](https://github.com/jamesmawm/Mastering-Python-for-Finance-source-codes)
 * [highlander - There can be only one... process](https://github.com/chriscannon/highlander)
-* [horrifying-pdf-experiments: Stuff which works in Chrome and maybe Acrobat and Foxit.](https://github.com/osnr/horrifying-pdf-experiments)
+* [horrifying-pdf-experiments: Stuff which works in Chrome and maybe Acrobat and Foxit](https://github.com/osnr/horrifying-pdf-experiments)
 * [howdoi - 파이썬 유틸 howdoi 분석](http://www.jinniahn.com/2016/09/howdoi.html)
 * [htsint: a Python library for sequencing pipelines that combines data through gene set generation](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0729-3)
 * [HTTPie: a CLI, cURL-like tool for humans](https://github.com/jkbrzt/httpie)
@@ -2974,7 +2974,7 @@ Python
 * [oneliner - Convert any Python file into a single line of code](https://github.com/csvoss/oneliner)
 * [Opnieuw: A simple and intuitive retrying library for Python](https://tech.channable.com/posts/2020-02-05-opnieuw.html)
 * [Orator - AN ACTIVERECORD ORM FOR PYTHON](http://orator-orm.com/)
-* [outrun: Execute a local command using the processing power of another Linux machine.](https://github.com/Overv/outrun)
+* [outrun: Execute a local command using the processing power of another Linux machine](https://github.com/Overv/outrun)
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
 * [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
 * [Pampy: The Pattern Matching for Python you always dreamed of](https://github.com/santinic/pampy)
@@ -3205,7 +3205,7 @@ Python
 * [uBiome Open Source - A place for microbiome enthusiasts to share tools, tips, sequences, and more](https://github.com/ubiome-opensource)
 * [**Undebt is a fast, straightforward, reliable tool for performing massive, automated code refactoring used @Yelp**](https://github.com/Yelp/undebt)
   * [Undebt: How We Refactored 3 Million Lines of Code](http://engineeringblog.yelp.com/2016/08/undebt-how-we-refactored-3-million-lines-of-code.html)
-* [usbkill: « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.](https://github.com/hephaest0s/usbkill)
+* [usbkill: « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer](https://github.com/hephaest0s/usbkill)
 * [uvicorn - The lightning-fast asyncio server, for Python 3. :unicorn: http://www.uvicorn.org ](https://github.com/encode/uvicorn)
 * [**uvloop is a fast, drop-in replacement of the built-in asyncio event loop**](https://github.com/MagicStack/uvloop)
   * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
@@ -3529,7 +3529,7 @@ Python
   * [If Pyinstaller makes too huge size exe file in Anaconda](https://www.youtube.com/watch?v=TwgfHWlruvM)
   * [__file__ in Application by PyInstaller](https://velog.io/@youngkiu/file-in-Application-by-PyInstaller)
 * [PyOxidizer](https://pyoxidizer.readthedocs.io/)
-* [subpar: Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel.](https://github.com/google/subpar)
+* [subpar: Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel](https://github.com/google/subpar)
 * virtualenv
   * [practice - use virtualenv in shell script](https://gist.github.com/hyunjun/e3abd9323a798ac6f70d387c3c1c07a9#file-shell_script-md)
   * [How To Setup Python Virtualenv on Ubuntu 15.04](https://syscoding.com/tutorials/13/how-to-setup-python-virtualenv-on-ubuntu-1504/)

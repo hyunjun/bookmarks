@@ -1147,7 +1147,7 @@ Scala
     * [Time traveling in tests with Cats Effect](https://blog.softwaremill.com/time-traveling-in-tests-with-cats-effect-b22084f6a89)
     * [cats-effect at ce3](https://github.com/typelevel/cats-effect/tree/ce3#cats-effect-3)
     * [Circuit Breaker Pattern with Cats Effect | by Hiroki Fujino | Level Up Coding](https://levelup.gitconnected.com/circuit-breaker-pattern-with-cats-effect-25947d0a4cba)
-    * [concurrency-in-scala-with-ce: Introduction to concepts of asynchronous and concurrent programming in Scala, based on cats-effect library.](https://github.com/slouc/concurrency-in-scala-with-ce)
+    * [concurrency-in-scala-with-ce: Introduction to concepts of asynchronous and concurrent programming in Scala, based on cats-effect library](https://github.com/slouc/concurrency-in-scala-with-ce)
     * [Typelevel.scala | Concurrency in Cats Effect 3](https://typelevel.org/blog/2020/10/30/concurrency-in-ce3.html)
     * [My Hakyll Blog - Polymorphic Effects in Scala](https://timwspence.github.io/blog/posts/2020-11-22-polymorphic-effects-in-scala.html)
     * [My Hakyll Blog - Threading best practices in Cats Effect](https://timwspence.github.io/blog/posts/2021-01-12-threading-best-practices-cats-effect.html)
@@ -1325,7 +1325,7 @@ Scala
   * [Writing native CLI applications in Scala with GraalVM](https://msitko.pl/blog/2020/03/10/writing-native-cli-applications-in-scala-with-graalvm.html)
 * [Toggle4s - Feature toggle managing service with etcd backend](https://medium.com/@itseranga/toggl4s-feature-toggle-service-with-etcd-backend-77e146e0fc32)
 * [Torque is now Scala - Fast, simple and secure](https://stellite.cash/)
-* [Wayeb: Wayeb is a Complex Event Processing and Forecasting (CEP/F) engine written in Scala.](https://github.com/ElAlev/Wayeb)
+* [Wayeb: Wayeb is a Complex Event Processing and Forecasting (CEP/F) engine written in Scala](https://github.com/ElAlev/Wayeb)
 * [wire-signals: A small and effective event-handling library for Scala](https://github.com/wireapp/wire-signals) reactive
   * [Wire Signals - Yet Another Event Streams Library - YouTube](https://www.youtube.com/watch?v=IgKjd_fhM0M)
   * [Wire Signals: Yet Another Event Streams Library by Maciek Gorywoda - YouTube](https://www.youtube.com/watch?v=tSj3ZEEsKyk)

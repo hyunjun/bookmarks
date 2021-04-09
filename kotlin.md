@@ -192,7 +192,7 @@
 * [**Android 개발을 수주해서 Kotlin을 제대로 써봤더니 최고였다**](https://gist.github.com/Hazealign/1bbc586ded1649a8f08f)
 * [Kotlin으로 Android개발 하기](https://developer88.tistory.com/171)
 * [Android Development Course - Build Native Apps with Kotlin](https://www.youtube.com/watch?v=Iz08OTTjR04)
-* [안드로이드의 익숙한 BaseXXX class를 알아보고, 설계의 중요성을 알아보자.](https://thdev.tech/kotlin/2020/12/08/kotlin_effective_14/)
+* [안드로이드의 익숙한 BaseXXX class를 알아보고, 설계의 중요성을 알아보자](https://thdev.tech/kotlin/2020/12/08/kotlin_effective_14/)
 * [QR코드 스캐너](https://github.com/wonderful-coding-life/sample.qrcode.android)
   * [안드로이드 앱 만들기 - #2 QR코드 스캐너 - YouTube](https://www.youtube.com/watch?v=Yr0jbSSALKE)
 * [KMM 을 통한 Android, iOS 간 코드 공유. KMM(Kotlin multiplatform mobile) | by Myungpyo Shim | Jan, 2021 | Medium](https://myungpyo.medium.com/kmm-%EC%9D%84-%ED%86%B5%ED%95%9C-android-ios-%EA%B0%84-%EC%BD%94%EB%93%9C-%EA%B3%B5%EC%9C%A0-d1ef6f1cfb1e)
@@ -222,7 +222,7 @@
 
 # Coroutine
 * [Kotlin Coroutines – Retrofit2 + Coroutines 동시에 다루기](http://www.kmshack.kr/2018/05/kotlin-coroutines-retrofit2-coroutines-%EB%8F%99%EC%8B%9C%EC%97%90-%EB%8B%A4%EB%A3%A8%EA%B8%B0/)
-* [Retrofit2와 Coroutines 사용 시 스케줄러는 어떻게 처리할까? - 내부 코드로 알아보자.](https://thdev.tech/kotlin/2021/01/12/Retrofit-Coroutines/)
+* [Retrofit2와 Coroutines 사용 시 스케줄러는 어떻게 처리할까? - 내부 코드로 알아보자](https://thdev.tech/kotlin/2021/01/12/Retrofit-Coroutines/)
 * [Kotlin Coroutines을 알아보고, 안드로이드에 library 적용하기](https://thdev.tech/kotlin/2018/10/04/Kotlin-Coroutines/)
 * [Kotlin Coroutines 안드로이드 OnClick에 활용하기](https://thdev.tech/kotlin/2018/10/11/Kotlin-Coroutines-Android/)
 * [Kotlin Coroutines의 Job 동작을 알아보자](https://thdev.tech/coroutines/2019/04/08/Init-Coroutines-Job/)

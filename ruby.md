@@ -63,7 +63,7 @@ Ruby
 * [Fast Ruby :heart_eyes: —— Collect Common Ruby idioms. https://github.com/JuanitoFatas/fast-ruby](https://github.com/JuanitoFatas/fast-ruby)
 * [Fluentd: a High Performance Unified Logging Layer](http://www.linux.com/news/enterprise/high-performance/147-high-performance/847237-fluentd-a-high-performance-unified-logging-layer)
 * [foghorn - Add a little Foghorn Leghorn to your ruby](https://github.com/rickr/foghorn)
-* [forward-proxy: 100 LOC Ruby forward proxy using only standard libraries.](https://github.com/jamesmoriarty/forward-proxy)
+* [forward-proxy: 100 LOC Ruby forward proxy using only standard libraries](https://github.com/jamesmoriarty/forward-proxy)
 * [gemfly - Update your Gemfile gems](http://gemfly.findings.co/)
 * [GraalVM for Ruby - RubySG - YouTube](https://www.youtube.com/watch?v=vh80hgoVTWI)
 * [infraruby](http://infraruby.com/)

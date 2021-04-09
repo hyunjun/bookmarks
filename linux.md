@@ -91,7 +91,7 @@ Linux
 * [Sandboxing and Workload Isolation · Fly](https://fly.io/blog/sandboxing-and-workload-isolation/)
 * [3차원 지구본을 콘솔에 그리기](https://jhrogue.blogspot.com/2020/08/5-3.html) pv, grep (GREP_COLORS)
 * [How Unix Works: Everything You Were Too Afraid to Ask | by Neil Kakkar | Better Programming | Medium](https://medium.com/better-programming/how-unix-works-everything-you-were-too-afraid-to-ask-f8396aeb2763)
-* [linuxupskillchallenge: Learn the skills required to sysadmin a remote Linux server from the commandline.](https://github.com/snori74/linuxupskillchallenge)
+* [linuxupskillchallenge: Learn the skills required to sysadmin a remote Linux server from the commandline](https://github.com/snori74/linuxupskillchallenge)
   * [리눅스업스킬도전 - YouTube](https://www.youtube.com/playlist?list=PLdntWJk2tJPLqMxhxCNX7aB0Gm52i5RFz)
   * [리눅스 업스킬 도전 프로젝트 총정리](https://jhrogue.blogspot.com/2020/11/blog-post.html)
   * [(리눅스 업스킬 도전 #4) 새로운 애플리케이션 설치하기](https://jhrogue.blogspot.com/2020/09/4.html)
@@ -383,7 +383,7 @@ Linux
   * [You are here: Home / Linux Commands / Getting Started With AWK Command](https://linuxhandbook.com/awk-command-tutorial/)
   * [Awk in 20 Minutes](https://ferd.ca/awk-in-20-minutes.html)
   * [Running Awk in parallel to process 256M records](https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html)
-  * [리눅스 awk 명령어 : 원하는 컬럼을 출력한다.](https://codingdog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-awk-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%9B%90%ED%95%98%EB%8A%94-%EC%BB%AC%EB%9F%BC%EC%9D%84-%EC%B6%9C%EB%A0%A5%ED%95%9C%EB%8B%A4)
+  * [리눅스 awk 명령어 : 원하는 컬럼을 출력한다](https://codingdog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-awk-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%9B%90%ED%95%98%EB%8A%94-%EC%BB%AC%EB%9F%BC%EC%9D%84-%EC%B6%9C%EB%A0%A5%ED%95%9C%EB%8B%A4)
   * [awk: BEGIN { ... | Jemma Issroff](https://jemma.dev/blog/awk-part-1)
 * `basename` get file name from path
   * e.g. `$ basename /tmp/mdstat.tmp .tmp` returns `mdstat`
@@ -429,7 +429,7 @@ Linux
   * [Linux Tutorials - 24 cut command Slitting a file vertically | GeeksforGeeks](https://www.youtube.com/watch?v=eHGCxEVlHd0)
   * `... | tr -s [:blank:] | cut -f<num> -d ' '` [How to specify more spaces for the delimiter using cut?](https://stackoverflow.com/questions/7142735/how-to-specify-more-spaces-for-the-delimiter-using-cut)
   * [Working with wide text files at the command line](https://www.johndcook.com/blog/2019/08/28/cut/)
-  * [리눅스 cut 명령어 : 구분자로 구분된 필드를 뽑아낸다.](https://codingdog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-cut-%EB%AA%85%EB%A0%B9%EC%96%B4-%EA%B5%AC%EB%B6%84%EC%9E%90%EB%A1%9C-%EA%B5%AC%EB%B6%84%EB%90%9C-%ED%95%84%EB%93%9C%EB%A5%BC-%EB%BD%91%EC%95%84%EB%82%B8%EB%8B%A4)
+  * [리눅스 cut 명령어 : 구분자로 구분된 필드를 뽑아낸다](https://codingdog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-cut-%EB%AA%85%EB%A0%B9%EC%96%B4-%EA%B5%AC%EB%B6%84%EC%9E%90%EB%A1%9C-%EA%B5%AC%EB%B6%84%EB%90%9C-%ED%95%84%EB%93%9C%EB%A5%BC-%EB%BD%91%EC%95%84%EB%82%B8%EB%8B%A4)
 * `date`
   * `date +%Y%m%d [--date '1 days ago']`
 
@@ -516,7 +516,7 @@ Linux
   * Pigz [Lei Mao's Log Book – Parallel Gzip - Pigz](https://leimao.github.io/blog/Parallel-Gzip-Pigz/)
 * `nohup`
   * [리눅스 nohup 사용법](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_nohup_%EC%82%AC%EC%9A%A9%EB%B2%95)
-  * [리눅스 nohup 명령어 : 터미널과 연결이 끊어져도 계속 돈다.](https://codingdog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-nohup-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%84%B8%EC%85%98%EA%B3%BC-%EC%97%B0%EA%B2%B0%EC%9D%B4-%EB%81%8A%EC%96%B4%EC%A0%B8%EB%8F%84-%EA%B3%84%EC%86%8D-%EB%8F%88%EB%8B%A4)
+  * [리눅스 nohup 명령어 : 터미널과 연결이 끊어져도 계속 돈다](https://codingdog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-nohup-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%84%B8%EC%85%98%EA%B3%BC-%EC%97%B0%EA%B2%B0%EC%9D%B4-%EB%81%8A%EC%96%B4%EC%A0%B8%EB%8F%84-%EA%B3%84%EC%86%8D-%EB%8F%88%EB%8B%A4)
 * `history`
   * `history -c` `history -d <line number>` [리눅스 history 지우기](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_history_%EC%A7%80%EC%9A%B0%EA%B8%B0)
   * [How To : 리눅스에서 명령 사용 요약하기 - ITWorld Korea](http://www.itworld.co.kr/news/158396) HISTSIZE, HISTIGNORE

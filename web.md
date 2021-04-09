@@ -263,7 +263,7 @@ Web
 
 ## Crawler Javascript
 * [동영상 목록 페이지에서 데이터 추출하기 - YouTube](https://www.youtube.com/watch?v=sSKdw5PlRyg)
-* [NIGHTMARE - A high-level browser automation library.](http://www.nightmarejs.org)
+* [NIGHTMARE - A high-level browser automation library](http://www.nightmarejs.org)
 * [Phantom Js (Amazing library for web scraping)](https://advencode.wordpress.com/2015/04/06/phantom-js-amazing-library-for-web-scraping/)
   * [Headless Chrome의 사용방법](https://blog.outsider.ne.kr/1291)
   * [AWS Lambda에서 사용한 Chrome의 headless_shell 직접 컴파일하기](https://blog.outsider.ne.kr/1294)
@@ -379,7 +379,7 @@ Web
 * [cyworld-bot - Cyworld image crawler](https://github.com/leegeunhyeok/cyworld-bot)
 * [Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites](https://webtransparency.cs.princeton.edu/dark-patterns/)
   * [dark-patterns: Code and data belonging to our CSCW 2019 paper: "Dark Patterns at Scale: Findings from a Crawl of 11K Shopping Websites"](https://github.com/aruneshmathur/dark-patterns)
-* [django_ebay_scrapy: eBay Scrapy can help eBay sellers to understand the marketplace with Keyword Analysis.](https://github.com/pss2138/django_ebay_scrapy)
+* [django_ebay_scrapy: eBay Scrapy can help eBay sellers to understand the marketplace with Keyword Analysis](https://github.com/pss2138/django_ebay_scrapy)
 * [ebay_scrapy](https://github.com/pss2138/ebay_scrapy)
 * [eventlet#web-crawler](http://eventlet.net/doc/examples.html#web-crawler)
 * [Google Image Downloader - A simple script that fetches images from Google with browser simulation](https://github.com/bemoregt/google-image-downloader)

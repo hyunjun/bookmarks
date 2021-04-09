@@ -346,7 +346,7 @@ NLP
 * [Text-to-SQL Learning to query tables with natural language](https://medium.com/@aerinykim/text-to-sql-learning-to-query-tables-with-natural-language-7d714e60a70d)
 * [클린봇 2.0: 문맥을 이해하는 악성 댓글(단문) 탐지 AI](https://d2.naver.com/helloworld/7753273) ELMO
 * [Semantic Segmentation PyTorch Tutorial & ECCV 2020 VIPriors Challenge 참가 후기 정리](https://hoya012.github.io/blog/segmentation_tutorial_pytorch/)
-  * [semantic-segmentation-tutorial-pytorch: A simple PyTorch codebase for semantic segmentation using Cityscapes.](https://github.com/hoya012/semantic-segmentation-tutorial-pytorch)
+  * [semantic-segmentation-tutorial-pytorch: A simple PyTorch codebase for semantic segmentation using Cityscapes](https://github.com/hoya012/semantic-segmentation-tutorial-pytorch)
 * [awesome-semantic-segmentation: awesome-semantic-segmentation](https://github.com/mrgloom/awesome-semantic-segmentation)
 * [머신러닝을 활용한 오픈챗 클린 스코어 모델 개발기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-openchat-cleanscore/)
 * [badword_check: 딥러닝을 통한 한글 욕설 분류 프로젝트](https://github.com/Nam-SW/badword_check)
@@ -373,7 +373,7 @@ NLP
 * [딥러닝 기반 한글 자동 띄어쓰기 API 공개](http://freesearch.pe.kr/archives/4647)
   * [딥러닝 한글 자동띄어쓰기 모형 성능 향상 및 API 업데이트](http://freesearch.pe.kr/archives/4674)
 * [한국어 띄어쓰기 프로그램 도전기](https://www.slideshare.net/TaekyoonChoi/taekyoon-choi-pycon)
-* [korean-spacing-model: 한국어 문장 띄어쓰기(삭제/추가) 모델입니다. 데이터 준비 후 직접 학습이 가능하도록 작성하였습니다.](https://github.com/jeongukjae/korean-spacing-model)
+* [korean-spacing-model: 한국어 문장 띄어쓰기(삭제/추가) 모델입니다. 데이터 준비 후 직접 학습이 가능하도록 작성하였습니다](https://github.com/jeongukjae/korean-spacing-model)
   * [한국어 띄어쓰기 모델 작성하기 – Jeong Ukjae](https://jeongukjae.github.io/posts/korean-spacing-model/)
 * [KoSpacing : 한글 자동 띄어쓰기 패키지 공개](http://freesearch.pe.kr/archives/4759)
   * [KoSpacing - R package for automatic Korean word spacing](https://github.com/haven-jeon/KoSpacing)
@@ -384,7 +384,7 @@ NLP
   * [sample](https://catalog.ldc.upenn.edu/desc/addenda/LDC2006T09.txt) EUC-KR encoded
 * [brat rapid annotation tool](http://brat.nlplab.org/index.html) online environment for collaborative text annotation
   * [brat rapid annotation tool (brat) - for all your textual annotation needs](https://github.com/nlplab/brat)
-* [doccano: Open source text annotation tool for machine learning practitioner.](https://github.com/doccano/doccano)
+* [doccano: Open source text annotation tool for machine learning practitioner](https://github.com/doccano/doccano)
 
 # BERT
 * [Open Sourcing BERT: State-of-the-Art Pre-training for Natural Language Processing](https://ai.googleblog.com/2018/11/open-sourcing-bert-state-of-art-pre.html)
@@ -1016,7 +1016,7 @@ NLP
   * [웹용 KorpuSQL 실행기](http://lab.bab2min.pe.kr/KorpuSQLWeb)
 * [Koshort - Koshort은 한국어 NLP를 위한 high-level API 프로젝트입니다](https://koshort.github.io/)
 * [LASER - Zero-shot transfer across 93 languages: Open-sourcing enhanced LASER library](https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/)
-* [lit: The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface.](https://github.com/pair-code/lit/)
+* [lit: The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface](https://github.com/pair-code/lit/)
 * live caption [구글 크롬, Live Caption 기능 공개 | GeekNews](https://news.hada.io/topic?id=3919)
 * Mecab
   * [Taku Kudo - Mecab developer](http://chasen.org/~taku/index.html.en)
@@ -1123,7 +1123,7 @@ NLP
 * [kss - Korean Sentence Splitter](https://pypi.org/project/kss/)
   * [Korean Sentence Splitter](https://github.com/likejazz/korean-sentence-splitter)
   * [한글 문장 분리기](http://docs.likejazz.com/kss/)
-  * [python-kss: Korean sentence splitter implemented in pure python.](https://github.com/hyunwoongko/python-kss)
+  * [python-kss: Korean sentence splitter implemented in pure python](https://github.com/hyunwoongko/python-kss)
 * [NLP Architect - an open-source Python library for exploring the state-of-the-art deep learning topologies and techniques for natural language processing and natural language understanding](http://nlp_architect.nervanasys.com/)
 * [NLTK](http://www.nltk.org)
   * [book](http://www.nltk.org/book/)
@@ -1649,7 +1649,7 @@ NLP
   * [음성인식모델로 음성합성 데이터 만들기 (kaldi 음성 인식 모델 환경 구현)](http://nblog.syszone.co.kr/archives/9788)
 * [KoG2P - Korean grapheme-to-phone conversion in Python](https://github.com/scarletcho/KoG2P) python 발음 생성 모듈
 * [KoSpeech: Open Source Project for Korean End-to-End (E2E) Automatic Speech Recognition (ASR) in Pytorch for Deep Learning Researchers](https://github.com/sooftware/KoSpeech)
-* [KsponSpeech-preprocess: Pre-processing KsponSpeech corpus (Korean Speech dataset) provided by AI Hub.](https://github.com/sooftware/KsponSpeech-preprocess)
+* [KsponSpeech-preprocess: Pre-processing KsponSpeech corpus (Korean Speech dataset) provided by AI Hub](https://github.com/sooftware/KsponSpeech-preprocess)
 * [Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data](https://github.com/NVIDIA/mellotron)
 * [**ratsgo's speechbook**](https://ratsgo.github.io/speechbook/)
 * Tabletop [Bringing Tabletop Audio to Actions on Google through media responses](https://medium.com/google-developers/bringing-tabletop-audio-to-actions-on-google-through-media-responses-a48bbcd9a38)
@@ -1660,7 +1660,7 @@ NLP
 * [wav2letter - a simple and efficient end-to-end Automatic Speech Recognition (ASR) system from Facebook AI Research](https://github.com/facebookresearch/wav2letter)
 * wav2letter++ [Introducing Wav2letter++ - How Facebook Implements Speech Recognition Systems Completely Based on Convolutional Neural Networks](https://towardsdatascience.com/introducing-wav2latter-9e94ae13246)
   * [Open sourcing wav2letter++, the fastest state-of-the-art speech system, and flashlight, an ML library going native](https://code.fb.com/ai-research/wav2letter/)
-* [Wav2Lip: This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020.](https://github.com/Rudrabha/Wav2Lip)
+* [Wav2Lip: This repository contains the codes of "A Lip Sync Expert Is All You Need for Speech to Lip Generation In the Wild", published at ACM Multimedia 2020](https://github.com/Rudrabha/Wav2Lip)
 * [Wav2vec 2.0: Learning the structure of speech from raw audio](https://ai.facebook.com/blog/wav2vec-20-learning-the-structure-of-speech-from-raw-audio)
   * [Fine-Tune Wav2Vec2 for English ASR in Hugging Face with 🤗 Transformers](https://huggingface.co/blog/fine-tune-wav2vec2-english)
   * [Fine-Tune XLSR-Wav2Vec2 for low-resource ASR with 🤗 Transformers](https://huggingface.co/blog/fine-tune-xlsr-wav2vec2)

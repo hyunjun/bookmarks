@@ -279,7 +279,7 @@ SQL
 * [Install SQL Server on Ubuntu](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-ubuntu)
 * [SQL Server 에게 String 이란? (NVARCHAR 인가 VARCHAR 인가)](http://woowabros.github.io/study/2019/01/25/sqlserver-jdbc-driver.html)
 * [SQL Server Tutorial](https://www.techonthenet.com/sql_server/index.php)
-* [Some Aspects of MS SQL Server Monitoring. Part 1.](https://hackernoon.com/some-aspects-of-ms-sql-server-monitoring-part-1-b6e67b313f6f)
+* [Some Aspects of MS SQL Server Monitoring. Part 1](https://hackernoon.com/some-aspects-of-ms-sql-server-monitoring-part-1-b6e67b313f6f)
 * [임시테이블, 테이블변수 간 성능이슈](https://hackhyun.tistory.com/276)
 * [토크ON세미나 47차. SQL 데이터분석 입문 | T아카데미](https://www.youtube.com/playlist?list=PL9mhQYIlKEheDlm4xo7xHbOLodw1VwLcL)
 * [쿼리 수행시간 확인방법](https://blog.naver.com/smonone/221508523991)
@@ -718,7 +718,7 @@ SQL
 * [A multi-node, elastic, petabyte scale, time-series database on Postgres for free (and more ways we are investing in our community)](https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/)
 * [How one word in PostgreSQL unlocked a 9x performance improvement](https://jlongster.com/how-one-word-postgresql-performance)
 * [How to Scale Postgres - Automation, Tuning & Sharding - Speaker Deck](https://speakerdeck.com/lfittl/how-to-scale-postgres-automation-tuning-and-sharding)
-* [Types of Indexes in PostgreSQL - Highgo Software Inc.](https://www.highgo.ca/2020/06/22/types-of-indexes-in-postgresql/)
+* [Types of Indexes in PostgreSQL - Highgo Software Inc](https://www.highgo.ca/2020/06/22/types-of-indexes-in-postgresql/)
 * [B-tree indexes - learn more about the heart of PostgreSQL - YouTube](https://www.youtube.com/watch?v=n5-xEEQFqPY)
 * [PostgreSQL EXPLAIN — pgMustard](https://www.pgmustard.com/docs/explain)
 * [Why We Switched From MongoDB to PostgresSQL](https://amasad.me/gpt_post)
@@ -746,7 +746,7 @@ SQL
 * [Postgres regex search over 10,000 GitHub repositories (using only a Macbook)](https://devlog.hexops.com/2021/postgres-regex-search-over-10000-github-repositories)
 * [Faster data migrations in Postgres](https://www.citusdata.com/blog/2021/02/20/faster-data-migrations-in-postgres/)
 * [PostgreSQL on ARM-based AWS EC2 Instances: Is It Any Good? - Percona Database Performance Blog](https://www.percona.com/blog/2021/01/22/postgresql-on-arm-based-aws-ec2-instances-is-it-any-good/)
-* [PostgreSQL: Asynchronous and "direct" IO support for PostgreSQL.](https://www.postgresql.org/message-id/20210223100344.llw5an2aklengrmn@alap3.anarazel.de)
+* [PostgreSQL: Asynchronous and "direct" IO support for PostgreSQL](https://www.postgresql.org/message-id/20210223100344.llw5an2aklengrmn@alap3.anarazel.de)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
@@ -841,7 +841,7 @@ SQL
   * [SQL Join](https://www.youtube.com/playlist?list=PLuHgQVnccGMAG1O1BRZCT3wkD_aPmPylq)
 * [Join 에 관해서 정리해 보겠습니다](https://developer88.tistory.com/331)
 * [SQL의 핵심, 다양한 종류의 조인 : 네이버 블로그](https://blog.naver.com/codeitofficial/222019008042)
-* [Say NO to Venn Diagrams When Explaining JOINs – Java, SQL and jOOQ.](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
+* [Say NO to Venn Diagrams When Explaining JOINs – Java, SQL and jOOQ](https://blog.jooq.org/2016/07/05/say-no-to-venn-diagrams-when-explaining-joins/)
 
 # Realm
 * [오픈소스 모바일 DB ‘렘’, 225억 투자 유치](http://www.bloter.net/archives/223748)

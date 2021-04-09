@@ -117,7 +117,7 @@ App
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 * [pixlr.com](http://pixlr.com/) 온라인 포토샵
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
-* [QR-Code-generator: High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust.](https://github.com/nayuki/QR-Code-generator)
+* [QR-Code-generator: High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, C++, C, Rust](https://github.com/nayuki/QR-Code-generator)
   * [Creating a QR Code step by step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
 * [Quip Desktop](https://quip.com/blog/desktop)
 * [radio.garden](http://radio.garden/)
@@ -313,7 +313,7 @@ App
 * MediaWiki
   * [MediaWiki 활용](http://blog.prettymay.com/)
 * [Medium CLI - Medium from your command line!](https://github.com/lambtron/medium-cli)
-* [medium-unlimited: A browser extension to read medium.com articles for free without membership.](https://github.com/manojVivek/medium-unlimited)
+* [medium-unlimited: A browser extension to read medium.com articles for free without membership](https://github.com/manojVivek/medium-unlimited)
 * [Mickey - A minimal one-column theme for Jekyll](https://github.com/vincentchan/Mickey)
 * [squall.io](http://squall.io/)
 * [pages.github.com](https://pages.github.com/)
@@ -1104,7 +1104,7 @@ App
 * [gliffy](https://www.gliffy.com/) Make Diagramming a Team Sport. Collaborate on flowcharts, org charts, UML, network diagrams & more
 * [Isoflow](https://isoflow.io/)
 * [Lucidchart - a visual workspace that combines diagramming, data visualization, and collaboration to accelerate understanding and drive innovation](https://www.lucidchart.com)
-* [mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.](https://mermaid-js.github.io/mermaid/)
+* [mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs](https://mermaid-js.github.io/mermaid/)
   * [mermaid: diagram as code · /usr/lib/libsora.so](https://libsora.so/posts/mermaid-diagram-as-code/)
 * [miro - An Online Visual Collaboration Platform for Teamwork | Miro](https://miro.com/)
 * [monodraw - Powerful ASCII art editor designed for the Mac](https://monodraw.helftone.com/)
@@ -1162,7 +1162,7 @@ App
   * [moseoritube.herokuapp.com](https://moseoritube.herokuapp.com/)
 * [mplayerx.org](http://mplayerx.org) 설치할 때 yahoo 관련 설치가 먼저 나오는데 skip할 것
 * [MuseScore 4. Moving from notation software to composition software. | MuseScore](https://musescore.org/en/MuseScore4)
-* [NoiseTorch: Real-time microphone noise suppression on Linux.](https://github.com/lawl/NoiseTorch)
+* [NoiseTorch: Real-time microphone noise suppression on Linux](https://github.com/lawl/NoiseTorch)
 * Owncast [Owncast - 오픈소스 라이브 스트리밍 서버 | GeekNews](https://news.hada.io/topic?id=3450)
 * [PassportPhoto4You](https://www.idphoto4you.com/)
   * [증명사진 만들고 편집하는 사이트](https://chagoonbass.tistory.com/300)
@@ -1173,7 +1173,7 @@ App
   * React(DOM)를 이용해 영상에 쓰일 컴포넌트를 만들고 ffmpeg로 export 가능하게 해주는 프로젝트
   * React의 장점을 영상 제작에 활용할 수 있는 것이 특징 (Reusable components, Powerful composition, Fast Refresh, Package ecosystem)
 * [Remove Image Background](https://www.remove.bg)
-* [Rewatch: The private & secure video channel for your team.](https://rewatch.tv/)
+* [Rewatch: The private & secure video channel for your team](https://rewatch.tv/)
   * [Rewatch - 팀/회사를 위한 비디오 공유 | GeekNews](https://news.hada.io/topic?id=3555)
 * [Shotcut - a free, open source, cross-platform video editor](https://github.com/mltframework/shotcut)
 * [SickZil-Machine](https://github.com/KUR-creative/SickZil-Machine) 딥러닝으로 만화에서 텍스트 제거
@@ -1210,10 +1210,10 @@ App
   * [Joplin - an open source note taking and to-do application with synchronization capabilities for Windows, macOS, Linux, Android and iOS. Forum: https://discourse.joplinapp.org/ https://joplinapp.org ](https://github.com/laurent22/joplin)
   * Markdown 문법/미리보기 지원, 모든 OS 지원(윈도우, 맥, 리눅스, 아이폰, 안드로이드), Webdav/ftp 동기화, 트리구조 노트 생성
   * ToDo 생성/알림 가능, 테마 변경 가능, pdf 내보내기 기능, vi/emacs 키보드 모드 지원
-* [nb: CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script.](https://github.com/xwmx/nb)
+* [nb: CLI plain-text note-taking, bookmarking, and archiving with encryption, filtering and search, Git-backed versioning and syncing, Pandoc-backed conversion, and more in a single portable script](https://github.com/xwmx/nb)
 * [Nimbus Note - One place to manage all your information | knowledge base | tasks | projects | etc](https://nimbusweb.me/)
   * [에버노트의 새로운 대안?이 될 수 있는 님부스 노트를 소개합니다. : 클리앙](https://www.clien.net/service/board/use/15793333)
-* [notable: The Markdown-based note-taking app that doesn't suck.](https://github.com/notable/notable)
+* [notable: The Markdown-based note-taking app that doesn't suck](https://github.com/notable/notable)
 * [notebooksapp.com](http://www.notebooksapp.com/)
 * [notion - All-in-one workspace](https://www.notion.so)
   * [스타트업, 더 좋은 문서도구가 필요해요! Notion을 만나다](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EB%8D%94-%EC%A2%8B%EC%9D%80-%EB%AC%B8%EC%84%9C%EB%8F%84%EA%B5%AC%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%B4%EC%9A%94-notion%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4-ff4f7e0414f)

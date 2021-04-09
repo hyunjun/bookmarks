@@ -176,11 +176,11 @@ Java
   * [java map find key in value : 2개의 맵을 씁시다](https://codingdog.tistory.com/entry/java-map-find-key-in-value-2%EA%B0%9C%EC%9D%98-%EB%A7%B5%EC%9D%84-%EC%94%81%EC%8B%9C%EB%8B%A4)
   * [It is possible to "Just use maps" in Java! - Questions & Help / General Questions - ClojureVerse](https://clojureverse.org/t/it-is-possible-to-just-use-maps-in-java/7291)
   * [7. JAVA - List<VO> <-> List<Map> 양방향 변환](https://kim-jong-hyun.tistory.com/47)
-  * [java computeifpresent 메소드 : 이미 있는 키의 대응 값에 새 값을 적용한다.](https://codingdog.tistory.com/entry/java-computeifpresent-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%9D%B4%EB%AF%B8-%EC%9E%88%EB%8A%94-%ED%82%A4%EC%9D%98-%EB%8C%80%EC%9D%91-%EA%B0%92%EC%97%90-%EC%83%88-%EA%B0%92%EC%9D%84-%EC%A0%81%EC%9A%A9%ED%95%9C%EB%8B%A4)
+  * [java computeifpresent 메소드 : 이미 있는 키의 대응 값에 새 값을 적용한다](https://codingdog.tistory.com/entry/java-computeifpresent-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%9D%B4%EB%AF%B8-%EC%9E%88%EB%8A%94-%ED%82%A4%EC%9D%98-%EB%8C%80%EC%9D%91-%EA%B0%92%EC%97%90-%EC%83%88-%EA%B0%92%EC%9D%84-%EC%A0%81%EC%9A%A9%ED%95%9C%EB%8B%A4)
   * [java ArrayDeque : 원형큐에 expand를 얹었다](https://codingdog.tistory.com/entry/java-ArrayDeque-%EC%9B%90%ED%98%95%ED%81%90%EC%97%90-expand%EB%A5%BC-%EC%96%B9%EC%97%88%EB%8B%A4)
 * Comparable, Comparator
   * [Java 배열 및 ArrayList를 Comparable과 Comparator를 이용해 정렬하기](http://developer88.tistory.com/75)
-  * [java compareTo 메소드 : 순서가 중요한 곳에서 잘 쓰인다.](https://codingdog.tistory.com/entry/java-compareTo-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%88%9C%EC%84%9C%EA%B0%80-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B3%B3%EC%97%90%EC%84%9C-%EC%9E%98-%EC%93%B0%EC%9D%B8%EB%8B%A4)
+  * [java compareTo 메소드 : 순서가 중요한 곳에서 잘 쓰인다](https://codingdog.tistory.com/entry/java-compareTo-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%88%9C%EC%84%9C%EA%B0%80-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B3%B3%EC%97%90%EC%84%9C-%EC%9E%98-%EC%93%B0%EC%9D%B8%EB%8B%A4)
 * datetime
   * [How to get previous day using datetime](http://stackoverflow.com/questions/2493724/how-to-get-previous-day-using-datetime)
   * [Java, Android에서 날짜 표현할 때 Calendar, Date 그리고 SimpleDateFormat](https://developer88.tistory.com/16)
@@ -225,7 +225,7 @@ Java
     * [입 개발 HikariCP 는 왜 나를 물먹이는가… | Charsyam's Blog](https://charsyam.wordpress.com/2021/01/12/%EC%9E%85-%EA%B0%9C%EB%B0%9C-hikaricp-%EB%8A%94-%EC%99%9C-%EB%82%98%EB%A5%BC-%EB%AC%BC%EB%A8%B9%EC%9D%B4%EB%8A%94%EA%B0%80/)
 * Math
   * [Math 클래스의 반올림, 올림, 버림 등 자주 사용하는 메소드 정리](http://developer88.tistory.com/97)
-  * [java BigDecimal을 이용해서 실수를 다뤄 봅시다.](https://codingdog.tistory.com/entry/java-BigDecimal%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%8B%A4%EC%88%98%EB%A5%BC-%EB%8B%A4%EB%A4%84-%EB%B4%85%EC%8B%9C%EB%8B%A4)
+  * [java BigDecimal을 이용해서 실수를 다뤄 봅시다](https://codingdog.tistory.com/entry/java-BigDecimal%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%8B%A4%EC%88%98%EB%A5%BC-%EB%8B%A4%EB%A4%84-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * net
   * [Java Socket Client (TCP/IP) 소켓 프로그래밍](https://woolbro.tistory.com/28)
   * [Java Socket Client (TCP/IP) 소켓 프로그래밍](https://woolbro.tistory.com/29)
@@ -361,7 +361,7 @@ Java
 * [java interrupt 메소드 어떻게 안전하게 종료하는가](https://codingdog.tistory.com/entry/java-interrupt-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EC%A2%85%EB%A3%8C%ED%95%98%EB%8A%94%EA%B0%80)
 * [원자성을 만족하는 메서드를 n개 호출하는 작업은 atomic 할까요](https://codingdog.tistory.com/entry/%EC%9B%90%EC%9E%90%EC%84%B1%EC%9D%84-%EB%A7%8C%EC%A1%B1%ED%95%98%EB%8A%94-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-n%EA%B0%9C-%ED%98%B8%EC%B6%9C%ED%95%98%EB%8A%94-%EC%9E%91%EC%97%85%EC%9D%80-atomic-%ED%95%A0%EA%B9%8C%EC%9A%94)
 * [왜 java의 hashmap 클래스는 멀티스레드 환경에서 안전하지 않는가](https://codingdog.tistory.com/entry/%EC%99%9C-java%EC%9D%98-hashmap-%ED%81%B4%EB%9E%98%EC%8A%A4%EB%8A%94-%EB%A9%80%ED%8B%B0%EC%8A%A4%EB%A0%88%EB%93%9C-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%84%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94%EA%B0%80)
-* [race condition : 둘 이상이 같은 자원을 가지고 경쟁한다.](https://codingdog.tistory.com/entry/race-condition-%EB%91%98-%EC%9D%B4%EC%83%81%EC%9D%B4-%EA%B0%99%EC%9D%80-%EB%AC%B4%EC%96%B8%EA%B0%80%EB%A5%BC-%EC%9C%84%ED%95%B4-%EA%B2%BD%EC%9F%81%ED%95%9C%EB%8B%A4)
+* [race condition : 둘 이상이 같은 자원을 가지고 경쟁한다](https://codingdog.tistory.com/entry/race-condition-%EB%91%98-%EC%9D%B4%EC%83%81%EC%9D%B4-%EA%B0%99%EC%9D%80-%EB%AC%B4%EC%96%B8%EA%B0%80%EB%A5%BC-%EC%9C%84%ED%95%B4-%EA%B2%BD%EC%9F%81%ED%95%9C%EB%8B%A4)
 * [A New Concurrency Model in Java. Things have changed considerably in the… | by The Bored Dev | Jun, 2020 | codeburst](https://codeburst.io/a-new-concurrency-model-in-java-975d597dd5e4)
 * [Performance of Modern Java on Data-Heavy Workloads, Part 1 · Hazelcast Jet](https://jet-start.sh/blog/2020/06/09/jdk-gc-benchmarks-part1)
 * [Performance of Modern Java on Data-Heavy Workloads, Part 2 · Hazelcast Jet](https://jet-start.sh/blog/2020/06/09/jdk-gc-benchmarks-part2)
@@ -422,7 +422,7 @@ Java
 * [자바 8 람다에서 checked exception을 어떻게 구현하면 좋을까?](https://www.slipp.net/questions/572)
 * [Functional Exceptions In Java](https://8thlight.com/blog/brian-gerstle/2019/01/22/fnl-exceptions-in-java.html)
 * [5. JAVA - 스트림과 함수형 인터페이스(람다식)](https://kim-jong-hyun.tistory.com/38)
-* [Design Patterns in the Light of Lambda Expressions. Venkat Subramaniam, Agile developer, inc.](https://www.youtube.com/watch?v=WN9kgdSVhDo)
+* [Design Patterns in the Light of Lambda Expressions. Venkat Subramaniam, Agile developer, inc](https://www.youtube.com/watch?v=WN9kgdSVhDo)
 * [Java 8의 람다 함수 살펴보기](https://huni.org/java-8의-람다-함수-살펴보기-1767d034f962)
 * [잘못 작성된 람다 코드를 삭제하기까지의 여정](https://helloworld.kurly.com/blog/study-in-lambda/)
 * [Mastering the new functional Java | by The Bored Dev | codeburst](https://codeburst.io/mastering-the-new-functional-java-2eb2f7472079)
@@ -1316,7 +1316,7 @@ Java
 * [Spring Batch Paging Reader 사용시 같은 조건의 데이터를 읽고 수정할때 문제](https://jojoldu.tistory.com/337)
 * [파일럿 프로젝트를 통한 배치경험기!](http://woowabros.github.io/experience/2019/03/31/pilot-batch.html)
 * [Spring batch & JPA에서 N+1 문제 해결](https://jojoldu.tistory.com/414)
-* [Spring Batch JpaCursorItemReader 도입되다.](https://jojoldu.tistory.com/551)
+* [Spring Batch JpaCursorItemReader 도입되다](https://jojoldu.tistory.com/551)
 * [Spring Batch의 멱등성 유지하기](https://jojoldu.tistory.com/451) 실행할 때마다 바뀔 수 있는 코드는 parameter로 넘겨주면 된다는 이야기
 * [Spring Batch 관리 도구로서의 Jenkins](https://jojoldu.tistory.com/489)
 * [Spring Batch의 유니크 Job Parameter 활용하기](https://jojoldu.tistory.com/487)

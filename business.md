@@ -72,7 +72,7 @@ Business
 * [몰입에 관한 생각 정리](https://brunch.co.kr/@younghakjang/79)
 * ['더 나은' 조직문화가 존재할까?](https://brunch.co.kr/@younghakjang/46)
 * [기업 문화의 시작, 소통](https://brunch.co.kr/@lunarshore/371)
-* [수평적 조직문화는 민주주의가 아니다.](https://brunch.co.kr/@supims/600)
+* [수평적 조직문화는 민주주의가 아니다](https://brunch.co.kr/@supims/600)
 * [조직을 성공적으로 변화시키는 5가지 방법](http://ppss.kr/archives/37761)
 * [조직의 합리성에 대한 노트: 막내착취, 중간관리자, 합리적 개인](http://ppss.kr/archives/58933)
 * [성공적인 기업과 그렇지 못한 기업들 간의 핵심적인 차이는 '얼마나 똑똑한가'가 아니라 '얼마나 건강한가' - 패트릭 렌치오니, 무엇이 조직을 움직이는가](https://xodmfal.blog.me/221358777125)
@@ -367,7 +367,7 @@ Business
 * [회사에서 언프로페셔널 하다는 피드백을 들었다](https://brunch.co.kr/@svillustrated/53) 명확한 communication
 * [흔한 프로그래머의 작명에 관한 사뭇 진지한 이야기](https://ppss.kr/archives/189212) 서로 의견이 충돌할 때 해결하는 예
 * [Five important lessons from four years as a software developer](https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226)
-* [여기, 문제가 있다.](https://brunch.co.kr/@hyungsukkim/124) 나도 어렸을 때라면 동의했겠지만 지금은 이렇게 생각하지 않음
+* [여기, 문제가 있다](https://brunch.co.kr/@hyungsukkim/124) 나도 어렸을 때라면 동의했겠지만 지금은 이렇게 생각하지 않음
 * [나는 블루홀에서 무엇을 배웠나 | 딥백수](https://dl4ab.github.io/2020/09/17/lesson-learned-at-bluehole/) 의도의 중요성 + 피드백
 * [내 의견이 맞는데 다른 분들이 몰라준다](https://brunch.co.kr/@cleancode/42)
 

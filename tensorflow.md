@@ -265,7 +265,7 @@ TensorFlow
 * [Welcome to tensorflow-diff-eq](https://dwd31415.github.io/tensorflow-diff-eq/)
 * [handwritten Digit Recognization using k - nearest neighbour using tensorflow | Machine Learning](https://www.youtube.com/watch?v=sDBMG0HCTH0)
 * [Handwritten digit Recognization in Tensorflow Using K-Nearest Neighbour](https://www.youtube.com/watch?v=2SCMYsOQ6wM)
-* [SimpleHTR: Handwritten Text Recognition (HTR) system implemented with TensorFlow.](https://github.com/githubharald/SimpleHTR)
+* [SimpleHTR: Handwritten Text Recognition (HTR) system implemented with TensorFlow](https://github.com/githubharald/SimpleHTR)
 * [A Workaround for Non-Determinism in TensorFlow](https://www.twosigma.com/insights/a-workaround-for-non-determinism-in-tensorflow)
   * reduce_sum대신 matmul을 이용해 재현성 해결
 * [dl-3cushion-hint - 딥러닝을 이용한 3쿠션 힌트 안드로이드앱](https://github.com/choonguri/dl-3cushion-hint)

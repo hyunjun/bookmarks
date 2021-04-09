@@ -420,7 +420,7 @@ Data Science
 * [academictorrents.com](http://academictorrents.com/)
 * [Announcing FsLab: Data science package](http://tomasp.net/blog/2015/announcing-fslab/index.html)
 * [Beaker](http://beakernotebook.com/?foo)
-* [danfo.js - an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data.](https://github.com/opensource9ja/danfojs)
+* [danfo.js - an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data](https://github.com/opensource9ja/danfojs)
   * [Pandas를 자바스크립트에서! Danfo.js - YouTube](https://www.youtube.com/watch?v=rPCgsu0bcM4)
 * [Digdag - a simple tool that helps you to build, run, schedule, and monitor complex pipelines of tasks](http://www.digdag.io/) Data Workflow Management Opensource Engine
 * [faker.js: generate massive amounts of realistic fake data in Node.js and the browser](https://github.com/Marak/faker.js)
@@ -549,7 +549,7 @@ Data Science
 * BlazingSQL(BSQL) [GPU-accelerated SQL and Data Science - Rodrigo Aramburu - YouTube](https://www.youtube.com/watch?v=Pu4dhJA8irU)
 * [dabl - the Data Analysis Baseline Library](https://amueller.github.io/dabl/dev)
   * [Doing Hard Things with Less Data; and Dabl: AutoML with a human in the loop - YouTube](https://www.youtube.com/watch?v=ntd68unD5TE)
-* [dagster: A data orchestrator for machine learning, analytics, and ETL.](https://github.com/dagster-io/dagster)
+* [dagster: A data orchestrator for machine learning, analytics, and ETL](https://github.com/dagster-io/dagster)
   * [Introducing Dagster. A open-source Python library for… | by Nick Schrock | Dagster | Medium](https://medium.com/dagster-io/introducing-dagster-dbd28442b2b7)
   * [Dagster: The Data Orchestrator. As machine learning, analytics, and… | by Nick Schrock | Dagster | Aug, 2020 | Medium](https://medium.com/dagster-io/dagster-the-data-orchestrator-5fe5cadb0dfb)
 * datatable [An Overview of Python’s Datatable package](https://towardsdatascience.com/an-overview-of-pythons-datatable-package-5d3a97394ee9)

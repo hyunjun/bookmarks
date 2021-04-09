@@ -259,7 +259,7 @@ Algorithm
 * [amortized 복잡도 : average complexity와 뭐가 다른가요?](https://codingdog.tistory.com/entry/amortized-%EB%B3%B5%EC%9E%A1%EB%8F%84-average-complexity%EC%99%80-%EB%AD%90%EA%B0%80-%EB%8B%A4%EB%A5%B8%EA%B0%80%EC%9A%94)
 * [Big O Notation - explained as easily as possible](https://thatcomputerscientist.com/big-o-notation-explained-as-easily-as-possible)
 * [Understanding Big O. How efficient is your algorithm? | by Valentin Podkamennyi | The Startup | Medium](https://medium.com/swlh/understanding-big-o-ff675cf63e11)
-* [알고리즘 시간 복잡도 대강 분석하는 방법을 예제를 통해 알아봅시다.](https://codingdog.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84-%EB%8C%80%EA%B0%95-%EB%B6%84%EC%84%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%98%88%EC%A0%9C%EB%A5%BC-%ED%86%B5%ED%95%B4-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+* [알고리즘 시간 복잡도 대강 분석하는 방법을 예제를 통해 알아봅시다](https://codingdog.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84-%EB%8C%80%EA%B0%95-%EB%B6%84%EC%84%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%98%88%EC%A0%9C%EB%A5%BC-%ED%86%B5%ED%95%B4-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 
 ## Time Complexity
 * `1/2 + 1/3 + ... + 1/n <= ln(n) + 1`이므로 O(log N)
@@ -669,7 +669,7 @@ Algorithm
 * [Traversing a linearized tree](http://bannalia.blogspot.kr/2015/06/traversing-linearized-tree.html)
 * [Eli-Index - Ranked Prefix Search for Large Data on External Memory optimized for Mobile with ZERO lag initialization time](https://github.com/maksimpiriyev/Eli-Index/)
 * [Fenwick Trees](http://loonytek.com/2015/08/17/fenwick-trees/)
-* [펜윅 트리 (fenwick tree) : 구간합을 빠르게 구한다.](https://codingdog.tistory.com/entry/%ED%8E%9C%EC%9C%85-%ED%8A%B8%EB%A6%AC-fenwick-tree-%EA%B5%AC%EA%B0%84%ED%95%A9%EC%9D%84-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EA%B5%AC%ED%95%9C%EB%8B%A4)
+* [펜윅 트리 (fenwick tree) : 구간합을 빠르게 구한다](https://codingdog.tistory.com/entry/%ED%8E%9C%EC%9C%85-%ED%8A%B8%EB%A6%AC-fenwick-tree-%EA%B5%AC%EA%B0%84%ED%95%A9%EC%9D%84-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EA%B5%AC%ED%95%9C%EB%8B%A4)
 * [QuadTree with finite sized objects](http://xqt2.com/p/mtree.html)
 * [Interval hash tree: An eÆcient index structure for searching ob ject queries in large image databases](http://www.almaden.ibm.com/cs/people/stf/papers/caivd99.pdf)
 * [The BK-Tree – A Data Structure for Spell Checking](https://nullwords.wordpress.com/2013/03/13/the-bk-tree-a-data-structure-for-spell-checking/)

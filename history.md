@@ -313,7 +313,7 @@ History
 * [객지에서 고생 중인 삼권분립의 완성 비화](http://www.huffingtonpost.kr/bawerk/story_b_7668688.html)
 * [SUPREME COURT OF THE UNITED STATES 14-556_3204](http://www.supremecourt.gov/opinions/14pdf/14-556_3204.pdf)
   * [(번역) 버락 오바마의 동성결혼 합헌 연설 전문](http://ppss.kr/archives/50234)
-  * [OBERGEFELL ET AL. v. HODGES, DIRECTOR, OHIO DEPARTMENT OF HEALTH, ET AL.](http://jeunstar.egloos.com/3033924)
+  * [OBERGEFELL ET AL. v. HODGES, DIRECTOR, OHIO DEPARTMENT OF HEALTH, ET AL](http://jeunstar.egloos.com/3033924)
   * [동성결혼 판결에서 승리할 수 있었던 10가지 이유](http://www.huffingtonpost.kr/marc-solomon/story_b_7676930.html)
 * [동성결혼에 대한 미국인의 정서 변화, ‘이렇게 빨리 변화한 것은 매우 드문 일입니다’](http://newspeppermint.com/2015/06/29/change-doesnt-usually-come-this-fast/)
 * [미국의 어느 교회에 세워진 여섯 색깔의 문, "하나님의 문은 모든 사람에게 열려있다."](http://www.huffingtonpost.kr/2015/07/02/story_n_7711064.html)
