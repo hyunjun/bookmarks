@@ -856,6 +856,7 @@ Scala
     * [Functional Legacy - How to Incorporate ZIO In Your Legacy Services by Natan Silnitsky - YouTube](https://www.youtube.com/watch?v=pdgr9bbFQLE)
     * [Ep 11: Search Hacker News with ZIO and magic - YouTube](https://www.youtube.com/watch?v=3P2Gi--dG9A)
     * [ZIO WORLD - ZIO Runtime System by John A. De Goes - YouTube](https://www.youtube.com/watch?v=OFFrw5aJzG4)
+    * [ZIO WORLD - Execution Tracing by Rob Walsh - YouTube](https://www.youtube.com/watch?v=1-z06KIde0k)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
