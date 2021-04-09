@@ -1364,6 +1364,8 @@ Javascript
   * [How I learned to write cleaner code using ESLint](https://blog.usejournal.com/how-i-learned-to-write-cleaner-code-using-eslint-11b5c8b0e1b8)
 * [eslisp - An S-expression syntax for ECMAScript/JavaScript, with Lisp-like hygienic macros. Minimal core, maximally customisable](https://github.com/anko/eslisp)
 * [eventstore - The open-source, functional database with Complex Event Processing in JavaScript](https://eventstore.org/)
+* [exceljs: Excel Workbook Manager](https://github.com/exceljs/exceljs)
+  * [**streaming API를 사용한 네이버페이의 대형 XLSX 파일 다운로드 구현**](https://d2.naver.com/helloworld/9423440)
 * [exifr - The fastest and most versatile JS EXIF reading library](https://github.com/MikeKovarik/exifr)
 * [ex-machinam - Minimalist state machine](https://github.com/RobinBressan/ex-machina)
 * [Explained Visually is an experiment in making hard ideas intuitive](https://github.com/vicapow/explained-visually)
