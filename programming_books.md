@@ -242,6 +242,7 @@ Programming Books
 * (NOT YET) [마이크로서비스 인 액션 올바른 마이크로서비스 도입을 위한 완벽 실용서](https://wikibook.co.kr/microservices-in-action/)
 * (NOT YET) [마이크로서비스 도입, 이렇게 한다](https://jhrogue.blogspot.com/2021/01/blog-post.html)
   * [<마이크로서비스 도입, 이렇게 한다> 도서 증정 이벤트](https://jhrogue.blogspot.com/2021/01/blog-post_28.html)
+* (NOT YET) [도메인 주도 설계로 시작하는 마이크로서비스 개발 | 위키북스](https://wikibook.co.kr/ddd-msa/)
 * (NOT YET) [소프트웨어 아키텍트가 알아야할 97가지 출간!!! | Architecture 101](https://architecture101.blog/2011/04/04/publish-eva-97architect/)
 
 # C
