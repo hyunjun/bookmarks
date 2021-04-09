@@ -1859,6 +1859,7 @@ Javascript
 * [Node.js로 5분안에 봇 만들기](http://blog.rootree.net/2016/05/31/facebook-bot-in-5minutes/)
 * [Node.js 를 이용한 웹 데이터 수집하기](https://dobest.io/nodejs-web-crawling-with-cheerio/)
 * [Node.js 에서 한글 인코딩 문제 해결하기](https://dobest.io/nodejs-euckr-encoding/)
+* [한글 깨지는(인코딩) 문제 해결하기 | 잡동사니 수집광](https://d2fault.github.io/2018/06/18/20180618-nodejs-encoding/)
 * [Docker 로 Node.js 배포하기](http://seokjun.kr/docker-nginx-node/)
 * [(번역)Architecture of Node.js Internal Codebase](http://blog.canapio.com/52)
 * [Windows에서 Node.js Native Module 설치하기](http://inspiredjw.com/entry/Windows%EC%97%90%EC%84%9C-Nodejs-Native-Module-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
