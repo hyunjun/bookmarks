@@ -22,6 +22,7 @@ Ocaml
 * [Starting an OCaml app project using Dune](https://medium.com/@bobbypriambodo/starting-an-ocaml-app-project-using-dune-d4f74e291de8)
 
 # Library
+* [coq: Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs](https://github.com/coq/coq)
 * [incremental - Introducing Incremental](https://blogs.janestreet.com/introducing-incremental/)
 * [jackline - XMPP client in OCaml](https://github.com/hannesm/jackline)
 * [jingoo - OCaml template engine almost compatible with jinja2](https://github.com/tategakibunko/jingoo)
