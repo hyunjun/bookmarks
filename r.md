@@ -540,6 +540,7 @@ R
 * [IRkernel - R kernel for Jupyter https://irkernel.github.io ](https://github.com/IRkernel/IRkernel)
 * jamovi
   * [R을 SPSS처럼 jamovi 무료 툴](http://blog.naver.com/kjhnav/221085543187)
+* [llr: Lisp-like-R: A clojure inspired lisp that compiles to R in R](https://github.com/dirkschumacher/llr)
 * magick
   * [Using Magick with RMarkdown and Shiny](https://www.r-bloggers.com/using-magick-with-rmarkdown-and-shiny/)
   * [Get text from pdfs or images using OCR: a tutorial with {tesseract} and {magick}](https://www.r-bloggers.com/get-text-from-pdfs-or-images-using-ocr-a-tutorial-with-tesseract-and-magick/)
