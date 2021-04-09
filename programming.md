@@ -823,6 +823,7 @@ Programming
 * [Database Driven Development에서 진짜 DDD로의 선회, 이벤트 스토밍 -2-](https://helloworld.kurly.com/blog/event-storming/)
 * [전술적 DDD를 사용 하 여 마이크로 서비스 디자인](https://docs.microsoft.com/ko-kr/azure/architecture/microservices/model/tactical-ddd)
 * [DDD 했더니 비대해지는 엔티티, 좋은 대책은 ?](http://jaynewho.com/post/45)
+* [Part 1: Domain Driven Design like a pro 🏅 | by Anders Gill | Raa Labs | Medium](https://medium.com/raa-labs/part-1-domain-driven-design-like-a-pro-f9e78d081f10)
 
 ## Architecture Microservice MSA
 * [**Microservice Architecture**](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)
