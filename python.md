@@ -2280,6 +2280,7 @@ Python
   * [Learn to Program 21 : TkInter Tutorial 2](https://www.youtube.com/watch?v=Mim5tTSf05E)
   * [Craft your own GUIs with Python and Tkinter](https://www.youtube.com/watch?v=Wb1YFgHqUZ8)
   * [How to Program a GUI Application (with Python Tkinter)!](https://www.youtube.com/watch?v=D8-snVfekto)
+  * [파이썬 Python 코딩 - GUI tkinter 음료주문 프로그램 업그레이드 - YouTube](https://www.youtube.com/watch?v=qEX8QM_hFT4)
 
 # IPython & [Jupyter](http://jupyter.org/try)
 * [nbviewer.ipython.org](http://nbviewer.ipython.org/)
