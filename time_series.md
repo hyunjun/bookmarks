@@ -42,6 +42,8 @@ Time Series
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
 * [Forecasting: Principles and Practice](https://otexts.com/fppkr/)
+* [Hands-on Time Series Analysis with Python - From Basics to Bleeding Edge Techniques | B V Vishwas | Apress](https://www.apress.com/gp/book/9781484259917)
+  * [hands-on-time-series-analylsis-python: Source Code for 'Hands-on Time Series Analysis with Python' by B V Vishwas and Ashish Patel](https://github.com/Apress/hands-on-time-series-analylsis-python)
 
 # Library
 * [TIMESERIES DATASTORES](http://abhishekkr.github.io/slides/2015.ggn.geeknight.timeseriesdb.htm#/)
