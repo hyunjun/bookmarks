@@ -54,6 +54,7 @@ Bitcoin
 * [Ray Dalio와 비트코인. Ray Dalio가 드디어 비트코인에 대한 생각을 공식적으로 밝혔다. | by 허진호 (Jin Ho Hur) | Jan, 2021 | Medium](https://hur.medium.com/ray-dalio%EC%99%80-%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-9af7d8066907)
 * [NFT, social token. 그리고, Creator Economy에서의 새로운 기회 | by 허진호 (Jin Ho Hur) | Mar, 2021 | Medium](https://hur.medium.com/nft-social-token-%EA%B7%B8%EB%A6%AC%EA%B3%A0-creator-economy%EC%97%90%EC%84%9C%EC%9D%98-%EA%B8%B0%ED%9A%8C-f8a6bf6d7a0)
 * [• Bitcoin vs. VISA energy consumption 2021 | Statista](https://www.statista.com/statistics/881541/bitcoin-energy-consumption-transaction-comparison-visa/)
+* [블록체인 저장을 뭐..? 비트코인 외계어 쉽게 이해하기](https://brunch.co.kr/@businessinsight/72)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
