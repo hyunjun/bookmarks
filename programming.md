@@ -439,6 +439,7 @@ Programming
 * [클린 애자일 - 6장 애자일해지기](https://jusths.tistory.com/193)
 * [The Shape of Code » Software effort estimation is mostly fake research](http://shape-of-code.coding-guidelines.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/) agile에 대한 이야기는 아니지만 story point 추정이 생각나 여기 넣어둠
 * [지금… IT개발팀에서 일하는 방식 GS SHOP 고군분투기](https://www.slideshare.net/hnki0104/it-gs-shop)
+* [IDG.tv | 에자일 개발 프로세스 이해하기 한글 자막 - YouTube](https://www.youtube.com/watch?v=5kILHLwE81Q)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
