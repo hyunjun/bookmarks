@@ -876,7 +876,7 @@ Deep Learning
 * [ICLR 2019 리뷰: 프로그램 소개 및 단순하고 효과적인 Network Pruning 방법론을 다룬 Best Paper 리뷰](http://research.sualab.com/review/2019/05/23/ICLR-2019-best-paper-review.html)
 * [NIPS 2016](http://beamandrew.github.io/deeplearning/2016/12/12/nips-2016.html)
   * [nips.cc/Conferences/2016/Schedule](https://nips.cc/Conferences/2016/Schedule)
-  * [All Code Implementations for NIPS 2016 papers](https://cdn.ampproject.org/c/s/amp.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/)
+  * [Project All Code Implementations for NIPS 2016 papers : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/5hwqeb/project_all_code_implementations_for_nips_2016/)
   * [LET'S DISCUSS: LEARNING METHODS FOR DIALOGUE NIPS 2016 WORKSHOP](http://letsdiscussnips2016.weebly.com/schedule.html)
   * [NIPS 2016 tutorial - Summary Nuts and bolts of building AI applications using Deep Learning](http://jaejunyoo.blogspot.com/2017/03/nips-2016-tutorial-summary-nuts-and-bolts-of-building-AI-AndrewNg.html)
     * [초짜 대학원생의 입장에서 정리한 NIPS 2016 tutorial: Nuts and bolts of building AI applications using Deep Learning by Andrew Ng](http://jaejunyoo.blogspot.com/2017/03/kr-nips-2016-tutorial-summary-nuts-and-bolts-of-building-AI-AndrewNg.html)
