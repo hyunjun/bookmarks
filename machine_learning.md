@@ -1030,6 +1030,7 @@ Machine Learning
 * [OpenML Home](https://test.openml.org/)
   * [OpenML 2019](https://www.slideshare.net/JoaquinVanschoren/openml-2019)
 * [Petuum - a distributed machine learning framework](http://petuum.github.io/?)
+* [PlaidML.pdf at main · ConstantPark/DL_Compiler](https://github.com/ConstantPark/DL_Compiler/blob/main/PlaidML.pdf)
 * [Predict - see who will convert, before they do](https://mixpanel.com/blog/2015/11/17/introducing-predict-see-who-will-convert-before-they-do)
   * [Mixpanel launches predict; what does this predict tool mean?](http://effinamazing.com/blog/mixpanel-launches-predict-what-does-this-predict-tool-mean/?fb_ref=f7aea373b9854983bcdbceea33d6d25c-Hackernews)
 * [rc-data - Question answering dataset featured in "Teaching Machines to Read and Comprehend](https://github.com/deepmind/rc-data/)
