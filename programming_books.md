@@ -789,6 +789,7 @@ Programming Books
   * [류광의 번역 이야기 :: 번역서 "컨테이너 보안" 출간 소식](http://occamsrazr.net/tt/370)
 * (NOT YET) [핵심만 콕! 쿠버네티스](https://bjpublic.tistory.com/374)
 * (NOT YET) [알면 더 쉬운 도커 쿠버네티스](https://bjpublic.tistory.com/369)
+* (NOT YET) [Programming Kubernetes :: Outsider's Dev Story](https://blog.outsider.ne.kr/1545)
 
 # Domain Driven Development DDD
 * [도메인 주도 설계(에릭에반스) -1](https://ash84.net/2017/06/04/domain-driven-development/)
