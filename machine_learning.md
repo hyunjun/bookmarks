@@ -626,6 +626,7 @@ Machine Learning
 * [What is MLOps? Machine Learning Operations Explained](https://www.freecodecamp.org/news/what-is-mlops-machine-learning-operations-explained/)
 * [A Chat with Andrew on MLOps: From Model-centric to Data-centric AI - YouTube](https://www.youtube.com/watch?v=06-AZXmwHjo)
   * [AI뉴스 AI계의 사대천왕, 앤드류 응 교수님의 주옥같은 인사이트가 우루루~데이터 중심 AI시대 그리고 MLOps의 급부상? 놓치면 안 될 응 교수님의 라이브 강좌 핵심 요약본! - YouTube](https://www.youtube.com/watch?v=20PlFERKCyo)
+  * [더 많은 데이터 중심으로, 덜 적은 모델로!](https://brunch.co.kr/@synabreu/117)
 * [Simulation vs. Machine Learning](https://vortarus.com/simulation-vs-machine-learning/)
 * [라쏘? 로지스틱? 회의에서 당당하게, 수식없이 기초개념부터](http://triviaz.net/blog:easy_lasso_logistic_regression) lasso logistic
 * [The Illustrated FixMatch for Semi-Supervised Learning](https://amitness.com/2020/03/fixmatch-semi-supervised/)
