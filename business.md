@@ -240,6 +240,7 @@ Business
 * [김게, 그리고 넓게](https://brunch.co.kr/@hyungsukkim/95) 일하는 방법에 대한 이야기
 * [CTO는 무슨 일을 하나?](http://www.mimul.com/pebble/default/2018/01/23/1516704882980.html)
 * [**awesome-cto: A curated and opinionated list of resources for Chief Technology Officers, with the emphasis on startups**](https://github.com/kuchin/awesome-cto)
+* [스타트업에서 CTO의 역할 | Guruble](http://guruble.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-cto%EC%9D%98-%EC%97%AD%ED%95%A0/)
 * [희생 vs 헌신](http://www.andrewahn.co/silicon-valley/sacrifice-vs-dedication/)
 * [전략 기획자의 책 1](https://brunch.co.kr/@lunarshore/292)
 * [전략 기획자의 책 2](https://brunch.co.kr/@lunarshore/293)
