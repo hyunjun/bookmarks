@@ -667,6 +667,7 @@ Python
   * [Why You Need Decorators in Your Python Code | by Michael Krasnov | Better Programming | Medium](https://medium.com/better-programming/why-you-need-decorators-in-your-python-code-df12d43eac9c)
   * [Decorators in Python. Introduction to the design pattern. | by Keno Leon | Python In Plain English | Medium](https://medium.com/python-in-plain-english/decorators-in-python-2c830015d719)
   * [Practical Python: Introduction to Decorators | by Soner Yıldırım | Dec, 2020 | Towards Data Science](https://towardsdatascience.com/practical-python-introduction-to-decorators-ac33d6f736cb)
+  * [파이썬 데코레이터를 작성하는 법을 배워야 하는 5가지 이유 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS5689111564)
 * descriptor
   * [descriptor로 함수 넣고 실행하기](http://blog.naver.com/zerosum99/220669587932)
   * [Python Descriptors](https://www.youtube.com/watch?v=ZdvpNaWwx24)
@@ -1302,6 +1303,7 @@ Python
   * [Python의 Generator와 yield 키워드](Python의 Generator와 yield 키워드)
   * [Python의 yield from 키워드는 무엇일까](https://item4.github.io/2018-03-04/What-is-The-Yield-From-Keyword-in-Python/)
   * [What Are Generators, Yields, and Streams in Python?](https://medium.com/better-programming/what-are-generators-yields-and-streams-in-python-a94072b3eb93)
+* zipfile [파이썬을 사용해 한글 파일명을 포함한 ZIP 파일 압축 해제 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8947142043)
 
 # Async Asynchronous AsyncIO
 * [docs.python.org/3/library/asyncio.html](https://docs.python.org/3/library/asyncio.html)
@@ -4370,6 +4372,8 @@ Python
   * [Part 3](http://ruslanspivak.com/lsbaws-part3/)
 * [5 Smooth Python Web-Frameworks For The Modern Developer | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/5-smooth-python-web-frameworks-for-the-modern-developer-47db692dfd52) FastAPI, Tornado, Pyramid, Quart, BlackSheep
 * [REST API 개발로 알아보는 WSGI, ASGI](https://blog.neonkid.xyz/249) uvicorn
+* [파이썬 기본 모듈로 HTTPS 서버 구축하기 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6163871474)
+  * [파이썬 한 줄로 로컬 테스트서버 만들기 - YouTube](https://www.youtube.com/watch?v=HIiL2cP87ec)
 * [BlackSheep: Fast ASGI web framework and HTTP client for Python asyncio](https://github.com/RobertoPrevato/BlackSheep)
 * [Brython - A Python 3 implementation for client-side web programming](http://www.brython.info)
   * [파이썬을 웹에서 실행하기 :: 프즈](https://tolovefeels.tistory.com/53)
