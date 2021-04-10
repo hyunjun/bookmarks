@@ -231,6 +231,7 @@ Git
 * [GitHub으로 시작하는 CI/CD #github #actions - YouTube](https://www.youtube.com/watch?v=Np64aq4AlLg)
   * [actions](https://okdevtv.com/mib/github/actions)
 * [GitHub Actions의 pull_request_target과 workflow_run 이벤트 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1541)
+* [내 깃허브가 털렸다](https://code-yeongyu.tistory.com/37)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
