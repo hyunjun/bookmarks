@@ -2377,6 +2377,7 @@ Programming
     * [(03/27) 웹 사이트 유지 관리 필수 체크 리스트, 주간-월간-분기별 작업은? - YouTube](https://www.youtube.com/watch?v=W7a995cKdmg)
   * [(4월 4일) 선임 개발자와 자율성의 관계](https://jhrogue.blogspot.com/2021/04/4-4.html) HTTP/3 쓰는 곳이 있긴 한가?, 선임 개발자와 자율성의 관계, JDK 8~16 사이의 모든 기능을 정리한 목록, 마이크로서비스 이후의 기술은?, 50가지 HTML 우수 사례와 지침
     * [(04/04) 선임 개발자와 자율성의 관계 - YouTube](https://www.youtube.com/watch?v=GephfquSBHk)
+  * [(4/10) 레거시를 파악하고 변경해나가기: 우선순위와 고려 사항들 - YouTube](https://www.youtube.com/watch?v=IO7TcBu-x8s) 승자의 경기와 패자의 경기, 레거시를 파악하고 변경해나가기: 우선순위와 고려 사항들, 마이크로소프트 OpenJDK 빌드, 미국 대법원, 구글의 자바 API 사용을 공정 사용으로 판결
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
 * [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
@@ -2510,6 +2511,7 @@ Programming
 
 # Refactoring
 * [레거시 코드에서 이해하기 쉬운코드로 리팩토링](https://chodragon9.github.io/blog/legacy-code-to-easy-code)
+* [**레거시를 파악하고 변경해나가기: 우선순위와 고려사항들 :: Kaden Sungbin Cho**](https://kadensungbincho.tistory.com/72)
 * [How I Failed to Deal With Legacy Code](https://medium.com/better-programming/how-i-failed-to-deal-with-legacy-code-8e123cff5bce)
 * [5 easy wins to refactor even the ugliest code](https://medium.com/hackernoon/5-easy-wins-to-refactor-even-the-ugliest-code-3c7874b2f1b4)
 * [Code Refactoring: Learn Code Smells And Level Up Your Game!](https://www.youtube.com/watch?v=D4auWwMsEnY)
