@@ -2160,6 +2160,7 @@ Javascript
 * [mdir.js: Mdir.js is text base file manager. Mdir.js is clone of LinM](https://github.com/la9527/mdir.js)
 * [nip - Node Input/output Piper](https://github.com/kolodny/nip)
 * [node-cron을 사용하여 node.js에서 특정 작업에 스케줄 설정하기](https://blog.l0gic.me/node-cron%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-node-js%EC%97%90%EC%84%9C-%ED%8A%B9%EC%A0%95-%EC%9E%91%EC%97%85%EC%97%90-%EC%8A%A4%EC%BC%80%EC%A4%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/)
+* nodeenv [파이썬을 사용한 Node.JS 가상 개발환경 구성 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS4559413038)
 * [nodegui: A library for building cross-platform native desktop applications with Node.js and CSS 🚀. React NodeGui : https://react.nodegui.org and Vue NodeGui: https://vue.nodegui.org ](https://github.com/nodegui/nodegui)
   * [NodeGUI - Electron alternatives: Exploring NodeGUI and React NodeGUI](https://blog.logrocket.com/electron-alternatives-exploring-nodegui-and-react-nodegui)
   * [NodeGUI - 고성능 크로스플랫폼 데스크탑 앱 프레임워크 | GeekNews](https://news.hada.io/topic?id=3846)
@@ -2785,6 +2786,7 @@ Javascript
 * [❄️원격 데이터 가져오기 #react #fetch - YouTube](https://www.youtube.com/watch?v=4BofPfwvoZY)
 * [❄️아주 짧은 코드로 원격 데이터 가져오기 #react #use-http - YouTube](https://www.youtube.com/watch?v=aBNoGQd6eAQ)
 * [2021 리액트 생태계 현황 | sizplay](https://www.sizplay.dev/react/2021-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%83%9D%ED%83%9C%EA%B3%84-%ED%98%84%ED%99%A9/)
+* [공통된 에러핸들링을 위한 http wrapper 함수 제작](https://blog.naver.com/pjt3591oo/222305175450)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
