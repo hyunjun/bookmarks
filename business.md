@@ -675,6 +675,7 @@ Business
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
 * [실리콘 밸리에서 가장 중요한 문서](https://jigjang.wordpress.com/2015/04/08/%EC%8B%A4%EB%A6%AC%EC%BD%98-%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%A4%91%EC%9A%94%ED%95%9C-%EB%AC%B8%EC%84%9C/) netflix 이야기
+* [브런치북 실리콘 밸리 트렌드 2021](https://brunch.co.kr/brunchbook/siliconvally21)
 
 # User 사용자 고객
 * [고객님의 데이터 사용량을 지켜주세요](https://jybaek.tistory.com/868)
