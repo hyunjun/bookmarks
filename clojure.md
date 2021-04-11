@@ -365,6 +365,7 @@ Clojure
   * [Queuing On EC2 With core.async](https://nervous.io/clojure/aws/async/sqs/messaging/2015/06/15/fink-nottle-sqs/)
   * [Reducers, transducers and core.async in Clojure](http://eli.thegreenplace.net/2017/reducers-transducers-and-coreasync-in-clojure)
   * [Reducers in Clojure - Level Up Coding](https://levelup.gitconnected.com/reducers-in-clojure-c088a5627412)
+  * [Faster csv reading/processing, how I got there with core.async - Showcase / Your Projects and Libraries - ClojureVerse](https://clojureverse.org/t/faster-csv-reading-processing-how-i-got-there-with-core-async/7420)
   * [wsscode-async: Core.async utilities package](https://github.com/wilkerlucio/wsscode-async)
 * core.logic
   * [core.logic](http://logic-tutorials-kr.readthedocs.org/ko/latest/)
@@ -478,6 +479,7 @@ Clojure
 * [Mike Fikes explains the ClojureScript Compiler (from https://cljs.pro) - YouTube](https://www.youtube.com/watch?v=kBKIGj1_WAo)
 * [thegeez blog - Walkthrough of a spreadsheet/database-hybrid with Clojure(Script)](http://thegeez.net/2021/03/15/spreadsheet_database_clojure_aws.html)
 * [WTF is CLOJURESCRIPT?! - YouTube](https://www.youtube.com/watch?app=desktop&v=ZMB-M_XDotE)
+* [Modern JS with CLJS: class and template literals - Projects / shadow-cljs - ClojureVerse](https://clojureverse.org/t/modern-js-with-cljs-class-and-template-literals/7450)
 
 ## ClojureScript Library
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest ](https://github.com/funcool/cats)
@@ -691,6 +693,7 @@ Clojure
 * [code3dworld: Learn programming in 3D World](https://github.com/ertugrulcetin/code3dworld)
 * [codox - Clojure documentation tool](https://github.com/weavejester/codox)
   * [codox-klipse-theme](https://github.com/viebel/codox-klipse-theme)
+* [cogent: a small theorem prover in clojure](https://github.com/erdos/cogent)
 * [comment-or-uncomment-sexp command](http://endlessparentheses.com/a-comment-or-uncomment-sexp-command.html)
 * [Common-Metadata-Repository](https://github.com/nasa/Common-Metadata-Repository)
 * [Compojure](https://github.com/weavejester/compojure) routing
@@ -846,6 +849,7 @@ Clojure
 * [Polylith - Polylith](https://polylith.gitbook.io/polylith/)
   * [Polylith - the last architecture you will ever need by Joakim Tengstrand and Furkan Bayraktar - YouTube](https://www.youtube.com/watch?v=pebwHmibla4)
 * [potemkin: some ideas which are almost good](https://github.com/clj-commons/potemkin)
+* [proletarian: A durable job queuing and worker system for Clojure backed by PostgreSQL](https://github.com/msolli/proletarian)
 * [prone Build Status - Better exception reporting middleware for Ring](https://github.com/magnars/prone)
 * [purnam - Language Extensions for Clojurescript http://purnam.github.io/purnam](https://github.com/purnam/purnam)
   * [ClojureScript interop 최강자 : purnam](https://groups.google.com/forum/#!topic/clojure-kr/rxUCiNLkgO4)
@@ -887,6 +891,7 @@ Clojure
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
 * [Selmer](https://github.com/yogthos/Selmer) template
+* [sereno: An open-source uptime monitoring application built on JVM (using Clojure & ClojureScript) with PostgreSQL as a single external dependency](https://github.com/sereno-xyz/sereno)
 * [shadow-git-inject: A shadow-cljs build hook that computes the "version" at build-time - from the ambient git context (latest tag?)](https://github.com/day8/shadow-git-inject)
 * [shrubbery - A stubbing, spying, and mocking library for Clojure protocols](https://github.com/bguthrie/shrubbery)
 * [sicmutils: Scmutils in Clojure](https://github.com/sicmutils/sicmutils)
@@ -914,6 +919,7 @@ Clojure
 * [Transit is a format and set of libraries for conveying values between applications written in different programming languages](https://github.com/cognitect/transit-format)
   * [Transit format: An interactive tutorial - better than JSON (part 1)](http://blog.klipse.tech/clojure/2016/09/22/transit-clojure.html)
 * [ultra - A Leiningen plugin for a superior development environment](https://github.com/venantius/ultra)
+* [unifyDB - a time-traveling graph database written in Clojure - YouTube](https://www.youtube.com/watch?v=hqQQyxeE-4Q)
 * [venia - A Clojure(Script) qraphql query client library](https://github.com/Vincit/venia)
 * [vizard - magic visualization](https://github.com/yieldbot/vizard)
 * [void.cljc: About void and absence of information](https://github.com/helins/void.cljc)
@@ -973,6 +979,7 @@ Clojure
 * [Reaching flow state with Clojure's REPL -- newline](https://www.newline.co/@shivekkhurana/reaching-flow-state-with-clojures-repl--14018b04)
 * [Distinction between three data related programming paradigms. | Yehonathan Sharvit](https://blog.klipse.tech/visualization/2021/02/16/data-related-paradigms.html)
 * [(λ. borkdude) 님의 트위터: "#clojure tip: You can run: (require 'foobar :reload) to just reload foobar, or: (require 'foobar :reload-all) to reload foobar + namespaces it depends on. This doesn't require any special tooling or IDEs, just a running REPL. Works in CLJS REPLs too." / 트위터](https://twitter.com/borkdude/status/1371223760020377600)
+* [Clem Repl Interface · GitLab](https://gitlab.com/unc-app-lab/clem-repl)
 * [Gorilla REPL](http://gorilla-repl.org/)
   * [lein-gorildown](https://github.com/ksseono/lein-gorildown)
 * [inf clojure REPL](https://github.com/boot-clj/boot/wiki/inf-clojure-REPL)
