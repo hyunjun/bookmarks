@@ -260,6 +260,7 @@ Linux
 * [Ubuntu의 apt-get 명령어 정리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/346)
 
 # Automation
+* [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
 * [ansible](https://www.ansible.com/)
   * [WHAT IS ANSIBLE?](https://www.ansible.com/resources/videos/quick-start-video)
   * [sysnet4admin.blogspot.com/search/label/ansible](https://sysnet4admin.blogspot.com/search/label/ansible)
@@ -287,8 +288,9 @@ Linux
   * [How to install software with Ansible | Opensource.com](https://opensource.com/article/20/9/install-packages-ansible)
 * [Bashible - a deployment/automation tool written in Bash (DSL). Inspired by Ansible. Simplifies things and prevents usual mistakes](https://github.com/mig1984/bashible)
 * [fabric](https://github.com/mathiasertl/fabric)
+* [Pulumi - Modern Infrastructure as Code](https://www.pulumi.com/) python
 * [salt](https://docs.saltstack.com/en/latest/topics/)
-* [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
+
 # Book
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)
 * [우분투](https://wikidocs.net/book/1002)
