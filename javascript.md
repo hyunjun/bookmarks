@@ -2985,6 +2985,7 @@ Javascript
   * [**Hexo에서 Gatsby로 블로그 마이그레이션 야크쉐이빙 후기**](https://evan-moon.github.io/2020/05/09/gatsby-migration-retrospective/)
   * [Gatsby 웹사이트에 적용한 다크 모드 | blog.rhostem.com](https://blog.rhostem.com/posts/2020-06-25-dark-mode-for-gatsby-website)
   * [개츠비의 이미지 처리 방식 | 김정환 블로그](https://jeonghwan-kim.github.io/dev/2020/08/19/gatsby-image.html)
+  * [Gatsby V3 Tutorial and Recipes Site Project - YouTube](https://www.youtube.com/watch?v=JlxXHlygVLM)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [handoff-visualizer - Wireless Network Handoff Visualizer built with React!](https://github.com/chonyy/handoff-visualizer)
