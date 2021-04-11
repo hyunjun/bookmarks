@@ -207,6 +207,7 @@ Web
 * [well-known 디렉토리와 securty.txt 그리고 humans.txt](https://www.hahwul.com/2021/03/18/what-is-wellknown-directory/)
 * [웹 접근성 인증 받는 방법과 후기 – Under The Pencil](https://elvanov.com/2123)
 * [50 HTML Best Practices & Guidelines to Build Better Web Projects | by Before Semicolon | Feb, 2021 | Medium](https://beforesemicolon.medium.com/50-html-best-practices-guidelines-to-build-better-web-projects-541736511c2d)
+* [37. 월드와이드웹(WWW)의 시작 1 | 만화로 나누는 자유/오픈소스 소프트웨어 이야기](https://joone.net/2021/01/02/37-%ec%9b%94%eb%93%9c%ec%99%80%ec%9d%b4%eb%93%9c%ec%9b%b9www%ec%9d%98-%ec%8b%9c%ec%9e%91-1/)
 
 # Apache
 * installation
@@ -901,6 +902,7 @@ Web
 * [Hands-on WebAssembly: Try the basics — Martian Chronicles, Evil Martians’ team blog](https://evilmartians.com/chronicles/hands-on-webassembly-try-the-basics)
 * [WebAssembly Is the End of the Internet As We Know It | by Michael Krasnov | Better Programming | Medium](https://medium.com/better-programming/webassembly-is-the-end-of-the-internet-as-we-know-it-9085a49cbc7b)
 * [Debugging WebAssembly with modern tools  |  Google Developers](https://developers.google.com/web/updates/2020/12/webassembly)
+* [From JavaScript to WebAssembly in three steps](https://engineering.q42.nl/webassembly/)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
