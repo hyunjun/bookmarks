@@ -188,6 +188,8 @@ PyTorch
   * [Private LB 0.9688 WeAreApe팀 코드 - DACON](https://dacon.io/codeshare/2351)
 * [SSD-pytorch: SSD: Single Shot MultiBox Detector pytorch implementation focusing on simplicity](https://github.com/uvipen/SSD-pytorch)
 * [Pytorch - 철강 불량 확인하기(feat K-Means, GMM)](https://blog.naver.com/jk96491/222286881935)
+* [AI 아이돌 교차편집 프로그램 :: 구름 저장고](https://dizwe.tistory.com/27)
+  * [Tobigs-team/Cross-Cutting: 제 10회 투빅스 컨퍼런스 AI 아이돌 교차편집](https://github.com/Tobigs-team/Cross-Cutting)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
