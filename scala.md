@@ -945,6 +945,7 @@ Scala
 * trait
   * [Everything You Ever Wanted to Know About Sealed Traits in Scala](http://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)
   * [practice - sealed trait - sealed class/companion object - final case class](https://gist.github.com/hyunjun/95db19477284625f359a5e250eabb471#file-sealed-md)
+  * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=NFA6mIb7toU) sbt-errors-summary, ADT 사용을 위한 sealed trait, sealed trait 문제점 및 해결, scala3 enum
   * [Scala - Java 의 interface 의 가려운 부분을 긁어주는 trait](https://starblood.tistory.com/entry/Scala-Java-%EC%9D%98-interface-%EC%9D%98-%EA%B0%80%EB%A0%A4%EC%9A%B4-%EB%B6%80%EB%B6%84%EC%9D%84-%EA%B8%81%EC%96%B4%EC%A3%BC%EB%8A%94-trait)
   * Back2Basics: The Story of Trait
     * [Part 1](https://blog.knoldus.com/back2basics-the-story-of-trait-part-1/)
@@ -1681,6 +1682,7 @@ Scala
 * sbt-bintray-remote-cache [remote caching sbt builds with Bintray | eed3si9n](https://eed3si9n.com/remote-caching-sbt-builds-with-bintray)
 * sbt-ci-release [auto publish sbt plugin from Travis CI | eed3si9n](http://eed3si9n.com/auto-publish-sbt-plugin)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
+* [sbt-errors-summary: sbt plugin to show a summary of compilation messages](https://github.com/Duhemm/sbt-errors-summary)
 * [sbt-jmh - "Trust no one, bench everything." - sbt plugin for JMH (Java Microbenchmark Harness)](https://github.com/ktoso/sbt-jmh)
 * [sbt-make allows sbt build and plugin authors to write tasks that transform project source files into output files](https://github.com/swoval/sbt-make)
   * [Introducing sbt-make](https://www.ethanatkins.com/2019/09/11/introducing-sbt-make.html)
@@ -1904,6 +1906,7 @@ Scala
 * [(47) ADT (Algebraic Data Types) 이란?](http://hamait.tistory.com/899)
 * [Save Your Time on Algebraic Data Type (ADT) Creation in Scala](https://blog.kevinlee.io/2019/10/01/save-your-time-on-algebraic-data-type-creation-in-scala/)
 * [Algebraic Data Types (ADT) in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=0wmcCdoExbM)
+* [Save Your Time on Algebraic Data Type (ADT) Creation in Scala | Kevin's Blog](https://blog.kevinlee.io/blog/2019/10/01/save-your-time-on-algebraic-data-type-creation-in-scala) intellij template
 * [Generalized Algebraic Data Types example in Scala](https://github.com/chrilves/gadt.scala)
   * [PROVING PRIMALITY WITH GADTS](https://chrilves.github.io/posts/prime/)
 * [Algebraic Data Types and Its Generic Presentation In Scala](https://levelup.gitconnected.com/algebraic-data-types-and-its-generic-presentation-in-scala-d2c1ce7740fe)
