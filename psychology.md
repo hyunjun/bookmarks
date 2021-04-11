@@ -39,3 +39,4 @@ Psychology
   * 본인이 좋아하는 시간, 공간 만들기
 * [혹독한 조언이 나를 살릴까?](http://agile.egloos.com/5931859)
 * [CEO 심리학 행복한 사람과 목적없는 대화…스트레스 피하는 최고의 방법 - 매일경제](https://www.mk.co.kr/news/business/view/2019/11/941310/)
+* [완벽을 추구하기보단, 차라리 대충 시작할 것 | ㅍㅍㅅㅅ](https://ppss.kr/archives/237885)
