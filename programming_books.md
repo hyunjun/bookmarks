@@ -207,6 +207,7 @@ Programming Books
 * [210.(책추천) AWS시작으로 좋은 책들](https://brunch.co.kr/@topasvga/666)
 * (NOT YET) [Amazon Web Services로 시작하는 클라우드 입문](https://jybaek.tistory.com/907)
 * (NOT YET) [AWS Lambda로 시작하는 서버리스](https://bjpublic.tistory.com/379)
+* (NOT YET) [배워서 바로 쓰는 14가지 AWS 구축 패턴](https://jybaek.tistory.com/913)
 
 # Android
 
