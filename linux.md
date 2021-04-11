@@ -108,6 +108,7 @@ Linux
 * [**리눅스/맥 커맨드라인 셸 입문자를 위한 생존 가이드 | 44BITS**](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner)
 * [Wesley Aptekar-Cassels | Timezone Bullshit](https://blog.wesleyac.com/posts/timezone-bullshit)
 * [A look at GSM | Harrison's Sandbox](https://harrisonsand.com/posts/gsm-security/)
+* [리눅스 사용에 도움주는 커뮤니티 사이트 모아보기](https://open-support.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%82%AC%EC%9A%A9%EC%97%90-%EB%8F%84%EC%9B%80%EC%A3%BC%EB%8A%94-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
