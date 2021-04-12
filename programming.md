@@ -140,6 +140,8 @@ Programming
 * [open tuner - An extensible framework for program autotuning](http://opentuner.org/)
 * [Quantify your coding - Metrics and insights about your programming using open source text editor plugins](https://wakatime.com/)
 * [learn to code through message chatting](http://www.jasymchat.com/)
+* [화상채팅 네트워크 설계 | 10분 TV](http://10bun.tv/projects/video-conferencing/01/#p2p-%ED%86%B5%EC%8B%A0%EC%9D%98-%EC%9B%90%EB%A6%AC)
+  * [01. 화상채팅 네트워크 설계 - YouTube](https://www.youtube.com/watch?v=HibUUfIEC0s)
 * [Axis Mundi - A secure, resilient, distributed and open communication platform](https://six-pack.github.io/Axis-Mundi/)
 * [A Live Programming Experience](http://research.microsoft.com/en-us/um/people/smcdirm/apx/index.html)
 * [How to be the Fastest Developer on Your Team, Part 1](http://techblog.centro.net/joshua-davison/how-to-be-the-fastest-developer-on-your-team-part-1/)
