@@ -499,6 +499,7 @@ SQL
 * [Failed to read auto-increment value from storage engine 해결 방법](https://jojoldu.tistory.com/417)
 * [MySQL – Keep an eye on your auto_increment values – lefred's blog: tribulations of a MySQL Evangelist](https://lefred.be/content/mysql-keep-an-eye-on-your-auto_increment-values/)
 * [(MySQL) Auto Increment에서 TypeSafe Bulk Insert 진행하기 (feat.EntityQL, JPA)](https://jojoldu.tistory.com/558)
+* [EntityQL로 OneToMany (1:N) Bulk Insert 구현하기](https://jojoldu.tistory.com/560)
 * [MySQL 자동 증가 칼럼의 최신 데이터 조회시 주의 사항](https://javacan.tistory.com/entry/MySQL-auto-inc-col-gotcha)
 * [**MySQL을 이용한 분산락으로 여러 서버에 걸친 동시성 관리**](http://woowabros.github.io/experience/2019/05/30/mysql-user-level-lock.html)
 * [**Lock으로 이해하는 Transaction의 Isolation Level**](https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock)
