@@ -1270,6 +1270,7 @@ Machine Learning
   * [사이킷런 해부학](https://drive.google.com/file/d/1NKZVDHVYdBCaGrY-Uf5J812p9M-R_Z1y/)
   * [Intro — Scikit-learn course](https://inria.github.io/scikit-learn-mooc/index.html)
   * [Scikit-Learn Course - Machine Learning in Python Tutorial - YouTube](https://www.youtube.com/watch?v=pqNCD_5r0IU)
+  * [Scikit-learn Crash Course - Machine Learning Library for Python - YouTube](https://www.youtube.com/watch?v=0B5eIE_1vpU)
 * [SHAP (SHapley Additive exPlanations) explains the output of any machine learning model using expectations and Shapley values](https://github.com/slundberg/shap)
 * [shapash: Shapash makes Machine Learning models transparent and understandable by everyone](https://github.com/MAIF/shapash)
   * [P Introducing Shapash, a new Python library : makes Machine Learning models transparent and understandable by everyone : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/kxrld8/p_introducing_shapash_a_new_python_library_makes/)
