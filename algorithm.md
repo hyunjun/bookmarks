@@ -227,6 +227,7 @@ Algorithm
 * [코테 실전 대비! 자료구조와 함께 배우는 알고리즘 입문 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=52527451)
 * [Hacker Rank - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/Hacker+Rank)
 * [Facebook Hacker Cup 2019 Online Qualification Round - Nephtyw’S Programming Stash](https://nephtyws.github.io/algorithm/fb-competition-qualification/)
+* [백준 배열 돌리기 5 : 전략적인 브루트 포스로 풀어봅시다.](https://codingdog.tistory.com/entry/%EB%B0%B1%EC%A4%80-%EB%B0%B0%EC%97%B4-%EB%8F%8C%EB%A6%AC%EA%B8%B0-5-%EC%A0%84%EB%9E%B5%EC%A0%81%EC%9D%B8-%EB%B8%8C%EB%A3%A8%ED%8A%B8-%ED%8F%AC%EC%8A%A4%EB%A1%9C-%ED%92%80%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
