@@ -71,6 +71,8 @@
 * [Gamma Structural Patterns](https://medium.com/@helmi.confo/gamma-structural-patterns-e03465bff4f8)
 * [Behavioral Design Pattern: State](https://medium.com/swlh/behavioral-design-pattern-state-d908192fe7e)
 * [5. 상태 패턴 with Unity](https://velog.io/@sonohoshi/5.-%EC%83%81%ED%83%9C-%ED%8C%A8%ED%84%B4-with-Unity) FSM Finite State Machine
+* [Design pattern - State pattern | 10분 TV](http://10bun.tv/etc/design-pattern-1/)
+* [클래스 상속과 인터페이스 구현의 차이 | 10분 TV](http://10bun.tv/beginner/episode-7/)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
@@ -263,6 +265,7 @@
 * [Organizing your Python Code. In spite of yourself | by Keno Leon | Medium](https://medium.com/@k3no/organizing-your-python-code-ca5445843368)
 * [Understanding the crux of objects and classes in python. | by Aakash Agrawal | Towards Data Science](https://towardsdatascience.com/understanding-the-crux-of-objects-and-classes-in-python-87c5f4f22d76)
 * [Start Python #1 Thread safe 싱글톤 패턴 - Kowana's coding](https://www.kowanas.com/coding/2020/11/29/%EC%8B%B1%EA%B8%80%ED%86%A4-%ED%8C%A8%ED%84%B4/)
+* [초보 탈출 #1 - 어려운 문제 조각내서 해결하기 | 10분 TV](http://10bun.tv/beginner/episode-1/#%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%98%84%EC%9E%A5-%EC%82%AC%EC%A7%84)
 
 # Ruby
 * [**(번역) 루비에서 상속을 피하는 방법**](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)
