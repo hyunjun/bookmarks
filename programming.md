@@ -2378,7 +2378,8 @@ Programming
     * [(03/27) 웹 사이트 유지 관리 필수 체크 리스트, 주간-월간-분기별 작업은? - YouTube](https://www.youtube.com/watch?v=W7a995cKdmg)
   * [(4월 4일) 선임 개발자와 자율성의 관계](https://jhrogue.blogspot.com/2021/04/4-4.html) HTTP/3 쓰는 곳이 있긴 한가?, 선임 개발자와 자율성의 관계, JDK 8~16 사이의 모든 기능을 정리한 목록, 마이크로서비스 이후의 기술은?, 50가지 HTML 우수 사례와 지침
     * [(04/04) 선임 개발자와 자율성의 관계 - YouTube](https://www.youtube.com/watch?v=GephfquSBHk)
-  * [(4/10) 레거시를 파악하고 변경해나가기: 우선순위와 고려 사항들 - YouTube](https://www.youtube.com/watch?v=IO7TcBu-x8s) 승자의 경기와 패자의 경기, 레거시를 파악하고 변경해나가기: 우선순위와 고려 사항들, 마이크로소프트 OpenJDK 빌드, 미국 대법원, 구글의 자바 API 사용을 공정 사용으로 판결
+  * [(4월 10일) 레거시를 파악하고 변경해나가기: 우선순위와 고려 사항들](https://jhrogue.blogspot.com/2021/04/4-10.html) 승자의 경기와 패자의 경기, 레거시를 파악하고 변경해나가기: 우선순위와 고려 사항들, 마이크로소프트 OpenJDK 빌드, 미국 대법원, 구글의 자바 API 사용을 공정 사용으로 판결
+    * [(4/10) 레거시를 파악하고 변경해나가기: 우선순위와 고려 사항들 - YouTube](https://www.youtube.com/watch?v=IO7TcBu-x8s)
 * [주간 DNA 소식지 #1](https://datanetworkanalysis.github.io/2020/09/04/news1)
 * [This month I Learned - 2020년 11월 | rinae's devlog](https://rinae.dev/posts/this-month-i-learned-2011)
 * [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
