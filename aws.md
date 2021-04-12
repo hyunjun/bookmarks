@@ -809,6 +809,7 @@ AWS
 * [0.1초 동안 컴퓨터를 빌려보자 - AWS Lambda - YouTube](https://www.youtube.com/watch?v=t8sjTFM_tfE)
 * [Deploy babashka script to AWS Lambda | Dainius Jocas](https://www.jocas.lt/blog/post/babashka-aws-lambda/)
 * [AWS 람다(Lambda) 그리고 GitHub 자동배포 연동 | PIGNOSE BARN](https://blog.pigno.se/post/137809815023/aws-lambda-deploy-github)
+* [Serverless 프레임워크를 이용한 람다 프로그래밍 #1 | 10분 TV](http://10bun.tv/etc/serverless-aws-python3-1/)
 
 ## Lambda Clojure
 * [native-clojure-lambda: Example project of Clojure + GraalVM Native Image + AWS Lambda container images](https://github.com/luontola/native-clojure-lambda)
