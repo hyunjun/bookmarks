@@ -323,6 +323,7 @@ Clojure
 * [On Clojure arguments](https://grishaev.me/en/clj-args/)
 * [The power of finding facts about personal preferences – Maurício Szabo](https://mauricio.szabo.link/blog/2021/04/01/the-power-of-finding-facts-about-personal-preferences/)
 * [How to avoid "illegal reflective access" warning in Clojure interop. (Cast?) - Stack Overflow](https://stackoverflow.com/questions/66914469/how-to-avoid-illegal-reflective-access-warning-in-clojure-interop-cast)
+* [PF4J and Clojure – Andrey Listopadov](https://andreyorst.gitlab.io/posts/2021-04-10-pf4j-and-clojure/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -398,6 +399,8 @@ Clojure
   * [array-map](http://philoskim.github.io/doc/tips.html#%28part._array-map%29)
   * [Clojure Goodness: Turning Map Values To Map Keys - Messages from mrhaki](https://blog.mrhaki.com/2021/03/clojure-goodness-turning-map-values-to.html)
   * [Returns a map](https://clojurearcana.com/returns-a-map/)
+  * [Clojure: Pre and Post conditions - YouTube](https://www.youtube.com/watch?v=w6xkxiYXBBo)
+  * [closeable-map: A Clojure map that implements java.io.Closeable, so that it represents an execution context that you can close](https://github.com/piotr-yuxuan/closeable-map)
 * match
   * [github.com/clojure/core.match](https://github.com/clojure/core.match)
   * [learnyouahaskell.com/syntax-in-functions#pattern-matching](http://learnyouahaskell.com/syntax-in-functions#pattern-matching)
@@ -623,6 +626,7 @@ Clojure
     * [1. 프로젝트 만들기](http://clojure.kr/arachne-tutorials-creating-a-project)
     * [2. HTTP 요청 처리하기](http://clojure.kr/arachne-tutorials-handling-http-requests)
     * [3. 컴포넌트와 의존성 주입](http://clojure.kr/arachne-tutorials-dependency-injection)
+* [asami: A graph store for Clojure and ClojureScript](https://github.com/threatgrid/asami)
 * Atom
   * [Clojure and Atom Editor Setup](https://lemmings.io/clojure-and-atom-editor-setup-40f8f09237b4) clojure atom virtualbox
   * [Atom for Clojure - YouTube](https://www.youtube.com/playlist?list=PLYSnXTnpiJ5m2KirGxz3CUpNHJKa5FGZS)
