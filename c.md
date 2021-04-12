@@ -178,6 +178,8 @@ C
 * [함수 오버로딩 : 클리앙](https://www.clien.net/service/board/lecture/15118190)
 * [헤더(header) 파일이란? 헤더 파일 개념 정리 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/programming/c-header/)
 * [It's raymarching march!](https://ch-st.de/its-ray-marching-march/)
+* [이벤트 기반 프로그래밍 | 10분 TV](http://10bun.tv/beginner/episode-6/)
+* [초보 탈출 #4 - 함수 호출의 원리 및 재귀호출 | 10분 TV](http://10bun.tv/beginner/episode-4/#%EC%9E%AC%EA%B7%80%ED%98%B8%EC%B6%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%98%88)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -456,6 +458,7 @@ C
   * `const char* const` an immutable pointer to an immutable character/string
 * [tagged pointer - 포인터에 정보 담기](http://blog.seulgi.kim/2018/02/c-tagged-pointer.html)
 * [c언어 문자열 경계 검사에 대한 몇 가지 이야기](https://codingdog.tistory.com/entry/c%EC%96%B8%EC%96%B4-%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B2%BD%EA%B3%84-%EA%B2%80%EC%82%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%95%BC%EA%B8%B0)
+* [포인터 이해하기 | 10분 TV](http://10bun.tv/beginner/episode-5/)
 
 # Standard Library
 * file
