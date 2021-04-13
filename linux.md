@@ -368,6 +368,7 @@ Linux
 * [6 Lesser-Known Linux Commands You Should Try | by Tate Galbraith | The Startup | Oct, 2020 | Medium](https://medium.com/swlh/6-lesser-known-linux-commands-you-should-try-ab739e1088d) tc, whiptail, shred, split, nl, flock
 * [**리눅스 아재력 or 할배력 셀프 테스트**](https://sunyzero.tistory.com/245)
 * [코드잇 :: 알고 있으면 개발자에게 유익한 유닉스 커맨드 꿀팁](https://blog.codeit.kr/post/6052b25f701df852a9157516) man less cp rm history
+* [**explainshell.com - match command-line arguments to their help text**](https://explainshell.com/)
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
