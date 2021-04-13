@@ -611,14 +611,6 @@ Apache
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
 * [akhq: Kafka GUI for Apache Kafka to manage topics, topics data, consumers group, schema registry, connect and more...](https://github.com/tchiotludo/akhq)
   * [카프카 매니저를 대체할 수 있을까?! AKHQ (Apache Kafka HQ) :: 언제나 김김](https://always-kimkim.tistory.com/entry/Kafka-%EC%B9%B4%ED%94%84%EC%B9%B4-%EB%A7%A4%EB%8B%88%EC%A0%80%EB%A5%BC-%EB%8C%80%EC%B2%B4%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-AKHQ-Apache-Kafka-HQ)
-* [Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka](https://github.com/akka/alpakka-kafka)
-  * [Alpakka Kafka connector — an open-source Reactive Enterprise Integration library for Java and Scala](https://blog.softwaremill.com/alpakka-kafka-connector-an-open-source-reactive-enterprise-integration-library-for-java-and-scala-c5f954b66787)
-  * [Retrying consumer architecture with Alpakkas](https://medium.com/@gabrielgiussi/retrying-consumer-architecture-with-alpakkas-ebd24eda1982)
-* [brooklin - An extensible distributed system for reliable nearline data streaming at scale](https://github.com/linkedin/Brooklin/)
-  * [Open Sourcing Brooklin: Near Real-Time Data Streaming at Scale](https://engineering.linkedin.com/blog/2019/brooklin-open-source)
-  * Kafka Connect + MirrorMaker의 대안으로 개발된 범용 Framework. Scalable할 뿐만 아니라 Kafka 외에도 다양한 Storage / Streaming System 지원
-  * 자체적인 Cluster를 설정해야 하며, 2019.07에 공개되어 자료 전무
-  * monitoring 방법은 MirrorMaker 1/2와 마찬가지로 내부적으로 kafka producer를 사용해 해당 process에 jmx로 접속해 producer sender metrics를 확인
 * [burrow - Kafka Consumer Lag Checking](https://github.com/linkedin/Burrow)
   * [Burrow - kafka consumer의 지연(lag)을 모니터링할 수 있는 효과적인 opensource tool](https://blog.voidmainvoid.net/243)
   * [Revisiting Burrow: Burrow 1.1](https://engineering.linkedin.com/blog/2018/05/revisiting-burrow--burrow-1-1-) Linkedin의 SRE팀에서 만들어서 오픈소스로 공개한 Apache Kafka의 Consumer 모니터링 도구
@@ -627,10 +619,6 @@ Apache
   * [kafka-lag-dashboard](https://blog.voidmainvoid.net/279)
 * [Conduktor - the ultimate Apache Kafka Desktop Client](https://www.conduktor.io)
 * [Cruise-control - the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters](https://github.com/linkedin/cruise-control)
-* [Debezium - Stream changes from your database](https://debezium.io)
-  * [How Debezium & Kafka Streams Can Help You Write CDC Solution](https://iamninad.com/how-debezium-kafka-stream-can-help-you-write-cdc/) Debezium과 Kafka를 사용하여 MySQL과 MongoDB에서 쓰여진 데이터를 캡처하는 플랫폼을 설정하는 방법
-  * [DevNation Live: Kafka and Debezium](https://www.slideshare.net/RedHatDevelopers/devnation-live-kafka-and-debezium)
-  * [Change Data Streaming Patterns for Microservices with Debezium](https://developers.redhat.com/videos/youtube/QYbXDp4Vu-8)
 * [Flafka: Apache Flume Meets Apache Kafka for Event Processing](http://blog.cloudera.com/blog/2014/11/flafka-apache-flume-meets-apache-kafka-for-event-processing/)
 * hive
   * [Kafka Storage Handler Module](https://github.com/apache/hive/tree/master/kafka-handler)
@@ -648,44 +636,8 @@ Apache
 * [kafka tools - A collection of tools for working with Apache Kafka](https://github.com/linkedin/kafka-tools)
 * [Kafractive - interative CLI tool for kafka admin, built on top of Spring Shell](https://github.com/gnu-gnu/kafractive)
 * [kowl: Kafka WebUI for exploring messages, consumers. configurations and more with a focus on a good UI & UX](https://github.com/cloudhut/kowl)
-* KSQL
-  * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
-    * spark streaming의 대체?
-    * Apache Kafka에서 SQL을 사용할 수 있는 인터페이스를 제공
-  * [Getting Started Analyzing Twitter Data in Apache Kafka through KSQL](https://www.confluent.io/blog/using-ksql-to-analyse-query-and-transform-data-in-kafka)
-    * 트위터의 스트리밍 데이터를 KSQL의 술어(predicate)로 필터링하고 시간당 사용자당 트윗 수를 계산하는 등 집계를 작성하는 예제
-  * [KSQL: Streaming SQL for Apache Kafka](https://www.rittmanmead.com/blog/2017/10/ksql-streaming-sql-for-apache-kafka/)
-  * [Taking KSQL for a Spin Using Real-time Device Data](https://www.rittmanmead.com/blog/2017/11/taking-ksql-for-a-spin-using-real-time-device-data/)
-    * KSQL을 사용하여 간단한 스트리밍 프로그램을 보여주는 포스트
-    * 입력이 드라이빙 게임 핸들의 디지털 센서 데이터 스트림
-  * [Building a Microservices Ecosystem with Kafka Streams and KSQL](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
-    * 카프카 스트림을 이용한 동기식 트랜잭션 시스템을 구축하는 예제
-    * 사이드카 패턴을 통해 비 JVM 언어에 대해 패턴을 구현하기 위해 KSQL을 사용하는 개념 언급
-  * [KSQL January release: Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-january-release-streaming-sql-apache-kafka/)
-  * [How to Write a User Defined Function (UDF) for KSQL](https://www.confluent.io/blog/write-user-defined-function-udf-ksql/)
-    * 아직 사용자 정의 함수(UDFs)의 런타임 구성을 지원하지 않지만 사용자 함수를 작성하고 빌드 가능
-  * [KSQL in Action: Real-Time Streaming ETL from Oracle Transactional Data](https://www.confluent.io/blog/ksql-in-action-real-time-streaming-etl-from-oracle-transactional-data)
-  * [Secure Stream Processing with Apache Kafka, Confluent Platform and KSQL](https://www.confluent.io/blog/secure-stream-processing-apache-kafka-ksql/)
-  * We ❤ syslogs: Real-time syslog Processing with Apache Kafka and KSQL
-    * [Part 1: Filtering](https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-part-1-filtering) Syslog Apache Kafka Connect plugin을 사용하여 Avro log 형식으로 Kafka로 가져온 후 KSQL을 사용하여 분석하는 방법을 설명
-    * [Part 2: Event-Driven Alerting with Slack](https://www.confluent.io/blog/real-time-syslog-processing-with-apache-kafka-and-ksql-part-2-event-driven-alerting-with-slack/)
-    * [Part 3: Enriching events with external data](https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-enriching-events-with-external-data/)
-      * MongoDB 데이터를 결합하여 Apache Kafka의 syslog 데이터에 KSQL을 사용하여 스트리밍 응용프로그램을 구축하는 과정 설명
-      * 알림은 Slack, 시각화 도구는 ES
-  * [How to Build a UDF and/or UDAF in KSQL 5.0](https://www.confluent.io/blog/build-udf-udaf-ksql-5-0) KSQL 5.0에서 사용자 정의 집계 함수를 사용하는 방법
-  * [ATM Fraud Detection with Apache Kafka and KSQL](https://www.confluent.io/blog/atm-fraud-detection-apache-kafka-ksql)
-    * [ATM Fraud Detection with Kafka and KSQL - Hands on Guide](https://github.com/confluentinc/demo-scene/blob/master/ksql-atm-fraud-detection/ksql-atm-fraud-detection-README.adoc)
-  * [Real-Time Sysmon Processing via KSQL and HELK — Part 1: Initial Integration](https://posts.specterops.io/real-time-sysmon-processing-via-ksql-and-helk-part-1-initial-integration-88c2b6eac839)
-    * HELK; 보안 이벤트 로그를 분석하기 위해 표준 ELK를 확장한 스택
-    * 이 글에서는 KSQL을 통해 추가 분석을 하는 방법을 설명
-  * [Machine learning & Kafka KSQL stream processing — bug me when I’ve left the heater on](https://medium.com/@simon.aubury/machine-learning-kafka-ksql-stream-processing-bug-me-when-ive-left-the-heater-on-bd47540cd1e8)
-  * [아파치 카프카 테스트용 data generator 소개 - ksql-datagen](https://blog.voidmainvoid.net/269)
-  * [KSQL - 효과적이고 간단한 스트리밍 프로세스 SQL엔진](https://www.slideshare.net/WonyoungChoi2/ksql-sql-182725060)
-  * [ksqlDB - The event streaming database purpose-built for stream processing applications](https://ksqldb.io/)
-    * [How Real-Time Stream Processing Safely Scales with ksqlDB](https://www.confluent.io/blog/how-real-time-stream-processing-safely-scales-with-ksqldb/)
 * [librdkafka: The Apache Kafka C/C++ library](https://github.com/edenhill/librdkafka)
 * MAADS [Machine Learning and AI at Scale with MAADS-VIPER and Apache Kafka](https://www.confluent.io/blog/transactional-machine-learning-with-maads-viper-and-apache-kafka/)
-* [mockedstreams - Scala DSL for Unit-Testing Processing Topologies in Kafka Streams](https://github.com/jpzk/mockedstreams)
 * rest proxy
   * [카프카의 토픽 데이터를 REST api로 주고받자 - Kafka rest proxy 사용](https://blog.voidmainvoid.net/345)
   * [Confluent REST Proxy 6.0: Putting Apache Kafka to REST](https://www.confluent.io/blog/confluent-rest-proxy-putting-kafka-to-rest/)
@@ -778,8 +730,57 @@ Apache
 * [Streaming the last few minutes from Kafka using Akka Streams](https://medium.com/wbaa/streaming-the-last-few-minutes-from-kafka-using-akka-streams-dfa2ecd1fdbb)
 * [How to Test Kafka Streams Applications](https://medium.com/better-programming/testing-kafka-streams-applications-1c5cb14c5376)
 * [Streaming With Probabilistic Data Structures: Why & How | by Eliav Lavi | Riskified Technology | Oct, 2020 | Medium](https://medium.com/riskified-technology/streaming-with-probabilistic-data-structures-why-how-b83b2adcd5d4)
+* [Batch to Real-Time Streams: 8 Years of Event Streaming with Apache Kafka](https://www.confluent.io/blog/batch-to-streams-8-years-of-event-streaming-with-apache-kafka/)
+* [Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka](https://github.com/akka/alpakka-kafka)
+  * [Alpakka Kafka connector — an open-source Reactive Enterprise Integration library for Java and Scala](https://blog.softwaremill.com/alpakka-kafka-connector-an-open-source-reactive-enterprise-integration-library-for-java-and-scala-c5f954b66787)
+  * [Retrying consumer architecture with Alpakkas](https://medium.com/@gabrielgiussi/retrying-consumer-architecture-with-alpakkas-ebd24eda1982)
+* [brooklin - An extensible distributed system for reliable nearline data streaming at scale](https://github.com/linkedin/Brooklin/)
+  * [Open Sourcing Brooklin: Near Real-Time Data Streaming at Scale](https://engineering.linkedin.com/blog/2019/brooklin-open-source)
+  * Kafka Connect + MirrorMaker의 대안으로 개발된 범용 Framework. Scalable할 뿐만 아니라 Kafka 외에도 다양한 Storage / Streaming System 지원
+  * 자체적인 Cluster를 설정해야 하며, 2019.07에 공개되어 자료 전무
+  * monitoring 방법은 MirrorMaker 1/2와 마찬가지로 내부적으로 kafka producer를 사용해 해당 process에 jmx로 접속해 producer sender metrics를 확인
+* [Debezium - Stream changes from your database](https://debezium.io)
+  * [How Debezium & Kafka Streams Can Help You Write CDC Solution](https://iamninad.com/how-debezium-kafka-stream-can-help-you-write-cdc/) Debezium과 Kafka를 사용하여 MySQL과 MongoDB에서 쓰여진 데이터를 캡처하는 플랫폼을 설정하는 방법
+  * [DevNation Live: Kafka and Debezium](https://www.slideshare.net/RedHatDevelopers/devnation-live-kafka-and-debezium)
+  * [Change Data Streaming Patterns for Microservices with Debezium](https://developers.redhat.com/videos/youtube/QYbXDp4Vu-8)
 * Decaton [Kafka를 이용한 작업 큐 라이브러리 'Decaton' 활용 사례 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/decaton-case-studies/)
 * [kafka-streams-viz - Kafka Streams Topology Visualizer](https://zz85.github.io/kafka-streams-viz/)
+* KSQL
+  * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
+    * spark streaming의 대체?
+    * Apache Kafka에서 SQL을 사용할 수 있는 인터페이스를 제공
+  * [Getting Started Analyzing Twitter Data in Apache Kafka through KSQL](https://www.confluent.io/blog/using-ksql-to-analyse-query-and-transform-data-in-kafka)
+    * 트위터의 스트리밍 데이터를 KSQL의 술어(predicate)로 필터링하고 시간당 사용자당 트윗 수를 계산하는 등 집계를 작성하는 예제
+  * [KSQL: Streaming SQL for Apache Kafka](https://www.rittmanmead.com/blog/2017/10/ksql-streaming-sql-for-apache-kafka/)
+  * [Taking KSQL for a Spin Using Real-time Device Data](https://www.rittmanmead.com/blog/2017/11/taking-ksql-for-a-spin-using-real-time-device-data/)
+    * KSQL을 사용하여 간단한 스트리밍 프로그램을 보여주는 포스트
+    * 입력이 드라이빙 게임 핸들의 디지털 센서 데이터 스트림
+  * [Building a Microservices Ecosystem with Kafka Streams and KSQL](https://www.confluent.io/blog/building-a-microservices-ecosystem-with-kafka-streams-and-ksql/)
+    * 카프카 스트림을 이용한 동기식 트랜잭션 시스템을 구축하는 예제
+    * 사이드카 패턴을 통해 비 JVM 언어에 대해 패턴을 구현하기 위해 KSQL을 사용하는 개념 언급
+  * [KSQL January release: Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-january-release-streaming-sql-apache-kafka/)
+  * [How to Write a User Defined Function (UDF) for KSQL](https://www.confluent.io/blog/write-user-defined-function-udf-ksql/)
+    * 아직 사용자 정의 함수(UDFs)의 런타임 구성을 지원하지 않지만 사용자 함수를 작성하고 빌드 가능
+  * [KSQL in Action: Real-Time Streaming ETL from Oracle Transactional Data](https://www.confluent.io/blog/ksql-in-action-real-time-streaming-etl-from-oracle-transactional-data)
+  * [Secure Stream Processing with Apache Kafka, Confluent Platform and KSQL](https://www.confluent.io/blog/secure-stream-processing-apache-kafka-ksql/)
+  * We ❤ syslogs: Real-time syslog Processing with Apache Kafka and KSQL
+    * [Part 1: Filtering](https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-part-1-filtering) Syslog Apache Kafka Connect plugin을 사용하여 Avro log 형식으로 Kafka로 가져온 후 KSQL을 사용하여 분석하는 방법을 설명
+    * [Part 2: Event-Driven Alerting with Slack](https://www.confluent.io/blog/real-time-syslog-processing-with-apache-kafka-and-ksql-part-2-event-driven-alerting-with-slack/)
+    * [Part 3: Enriching events with external data](https://www.confluent.io/blog/real-time-syslog-processing-apache-kafka-ksql-enriching-events-with-external-data/)
+      * MongoDB 데이터를 결합하여 Apache Kafka의 syslog 데이터에 KSQL을 사용하여 스트리밍 응용프로그램을 구축하는 과정 설명
+      * 알림은 Slack, 시각화 도구는 ES
+  * [How to Build a UDF and/or UDAF in KSQL 5.0](https://www.confluent.io/blog/build-udf-udaf-ksql-5-0) KSQL 5.0에서 사용자 정의 집계 함수를 사용하는 방법
+  * [ATM Fraud Detection with Apache Kafka and KSQL](https://www.confluent.io/blog/atm-fraud-detection-apache-kafka-ksql)
+    * [ATM Fraud Detection with Kafka and KSQL - Hands on Guide](https://github.com/confluentinc/demo-scene/blob/master/ksql-atm-fraud-detection/ksql-atm-fraud-detection-README.adoc)
+  * [Real-Time Sysmon Processing via KSQL and HELK — Part 1: Initial Integration](https://posts.specterops.io/real-time-sysmon-processing-via-ksql-and-helk-part-1-initial-integration-88c2b6eac839)
+    * HELK; 보안 이벤트 로그를 분석하기 위해 표준 ELK를 확장한 스택
+    * 이 글에서는 KSQL을 통해 추가 분석을 하는 방법을 설명
+  * [Machine learning & Kafka KSQL stream processing — bug me when I’ve left the heater on](https://medium.com/@simon.aubury/machine-learning-kafka-ksql-stream-processing-bug-me-when-ive-left-the-heater-on-bd47540cd1e8)
+  * [아파치 카프카 테스트용 data generator 소개 - ksql-datagen](https://blog.voidmainvoid.net/269)
+  * [KSQL - 효과적이고 간단한 스트리밍 프로세스 SQL엔진](https://www.slideshare.net/WonyoungChoi2/ksql-sql-182725060)
+  * [ksqlDB - The event streaming database purpose-built for stream processing applications](https://ksqldb.io/)
+    * [How Real-Time Stream Processing Safely Scales with ksqlDB](https://www.confluent.io/blog/how-real-time-stream-processing-safely-scales-with-ksqldb/)
+* [mockedstreams - Scala DSL for Unit-Testing Processing Topologies in Kafka Streams](https://github.com/jpzk/mockedstreams)
 
 # [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
