@@ -194,6 +194,7 @@ Git
   * commit을 완전히 버려도 좋다
   * 실수 방어 도구 - git commit --amend, git commit --fixup [hash], git rebase --interactive main, git stash, git blame
 * [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
+* [Git Workflow Diagram](https://happygrammer.github.io/guide/git-workflow-diagram/)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
