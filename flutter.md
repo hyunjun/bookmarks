@@ -73,6 +73,7 @@ Flutter
 * [Flutter Failed To Solve the Biggest Challenge for Our Cross-Platform App | by Georg von der Howen | Feb, 2021 | Better Programming](https://betterprogramming.pub/flutter-failed-to-solve-the-biggest-challenge-for-our-cross-platform-app-c551afa0ef18)
 * [Flutter Engage Extended Korea - YouTube](https://www.youtube.com/watch?v=wQjT0xTB6AI)
 * [Flutter 광고로 돈버는법 Google Mobile Ads - Part 2 Interstitial & Rewarded Ad - YouTube](https://www.youtube.com/watch?v=7oB1FY4mDCs)
+* [고급 Flutter를 사용해도 개발이 느렸던 이유... - YouTube](https://www.youtube.com/watch?v=xxJkq-zvWqI)
 
 # Dart
 * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
