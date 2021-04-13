@@ -241,6 +241,7 @@ Vision
     * [YOLO V5 Model comparison - YouTube](https://www.youtube.com/watch?v=qwh9CGI1vNo)
     * [Yolo V5 Object Detection using Pytorch | On Local & Colab](https://morioh.com/p/4158eb7e4257)
     * ["Yolov5 Object Detection Using Google Colab & Python" | KNOWLEDGE DOCTOR | Mishu Dhar - YouTube](https://www.youtube.com/watch?v=D27EQe6XTk8)
+    * [C# 기반 배포 가능한 딥러닝 객체 감지 프로그램 개발(feat. YOLO v5) #1 | by Minsu Cho | Hard Boiled Smith Stories | Apr, 2021 | Medium](https://medium.com/hbsmith/c-%EA%B8%B0%EB%B0%98-%EB%B0%B0%ED%8F%AC-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%9D%EC%B2%B4-%EA%B0%90%EC%A7%80-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B0%9C%EB%B0%9C-feat-yolo-v5-1-98581e397aa4)
 * [CS331B: Representation Learning in Computer Vision](http://web.stanford.edu/class/cs331b/)
 * [awesome-deep-vision-web-demo](https://github.com/hwalsuklee/awesome-deep-vision-web-demo)
 * [Convolutional Neural Networks limitations for AGI in Computer Vision](https://theintelligenceofinformation.wordpress.com/2017/05/03/convolutional-neural-networks-limitations-for-agi-in-computer-vision/)
