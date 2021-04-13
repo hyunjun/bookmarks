@@ -894,6 +894,7 @@ Clojure
   * [Async Ring 미들웨어 패턴](http://clojure.kr/async-ring-middleware-pattern)
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
+* [scicloj.ml - Proposal for a Clojure machine learning library](https://github.com/scicloj/scicloj.ml)
 * [Selmer](https://github.com/yogthos/Selmer) template
 * [sereno: An open-source uptime monitoring application built on JVM (using Clojure & ClojureScript) with PostgreSQL as a single external dependency](https://github.com/sereno-xyz/sereno)
 * [shadow-git-inject: A shadow-cljs build hook that computes the "version" at build-time - from the ambient git context (latest tag?)](https://github.com/day8/shadow-git-inject)
