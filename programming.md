@@ -781,6 +781,7 @@ Programming
 * [Storing and retrieving millions of ad impressions per second](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/storing-and-retrieving-millions-of-ad-impressions-per-second.html)
 * [**LINE 미디어 스토리지 글로벌 배치 프로젝트를 소개합니다 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/line-mediastorage-at-scale/) cache ceph 좋은 글
 * [구현한 채팅에 캐시 적용해서 성능 개선하기](https://velog.io/@seanlion/chatcache)
+* [**1인 기술 스타트업의 아키텍쳐 스택 | GeekNews**](https://news.hada.io/topic?id=4055)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 
 ## Architecture Distributed
