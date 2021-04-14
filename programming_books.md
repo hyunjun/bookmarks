@@ -920,6 +920,7 @@ Programming Books
 * (NOT YET) [Go 동시성 프로그래밍 개발자를 위한 도구와 테크닉](http://acornpub.co.kr/book/concurrency-in-go)
 * (NOT YET) [<Must Have> Tucker의 Go 언어 프로그래밍 : Golang 입문부터 고급 기법까지, 재미있는 4가지 프로젝트와 함께(27장 SOLID 전체 공개 버전) by 최현우 - issuu](https://issuu.com/iamhwchoi/docs/golang2)
   * [Tucker Programming - YouTube](https://www.youtube.com/channel/UCZp_ftx6UB_32VfVmlS3o_A)
+  * [Tucker의 Go 언어 프로그래밍](https://jhrogue.blogspot.com/2021/04/tucker-go.html)
 
 # Hadoop
 
