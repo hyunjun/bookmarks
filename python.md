@@ -628,6 +628,7 @@ Python
   * [Parsing and Formatting Dates in Python With Datetime](https://www.youtube.com/watch?v=zY02utxcauo)
   * [파이썬 날짜 다루기 date, datetime, yyyymmdd](https://krksap.tistory.com/1635)
   * [**파이썬(Python) datetime 클래스 치트시트**](https://www.44bits.io/ko/post/python-datatime-cheetsheet)
+  * [파이썬 Python 코딩 - 리눅스 크론 cron 스케줄러 기능 구현하기 - YouTube](https://www.youtube.com/watch?v=zZbOMgCJmA8)
 * decimal
   * [Question: High Precision Computing in Python or R](https://www.datasciencecentral.com/forum/topics/question-how-precision-computing-in-python)
   * [Floating-point cheat sheet for Python](https://floating-point-gui.de/languages/python/)
