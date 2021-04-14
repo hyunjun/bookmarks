@@ -339,6 +339,7 @@ Clojure
 * [Chris Houser / Jonathan Claggett - Illuminated Macros - YouTube](https://www.youtube.com/watch?v=o75g9ZRoLaw)
 * [Clojure Functions in Four Ways - Rake Routes](https://www.rakeroutes.com/clojure-functions-in-four-ways)
 * [Building trees with and without zippers | Vincent Cantin’s blog](https://vincent.404.taipei/clojure/building-trees-with-and-without-zippers/)
+* [The filter function in JavaScript and Clojure a detailed comparison with anonymous functions - YouTube](https://www.youtube.com/watch?v=z0NCJ3CfLw4)
 * clojure.spec
   * [INTRODUCING CLOJURE.SPEC](http://blog.cognitect.com/blog/2016/5/23/introducing-clojurespec)
   * [A Tool For Thought](http://swannodette.github.io/2016/06/03/tools-for-thought)
@@ -1009,6 +1010,7 @@ Clojure
 * [TESTING STATEFUL AND CONCURRENT SYSTEMS USING TEST.CHECK](https://lispcast.com/testing-stateful-and-concurrent-systems-using-test-check/)
 * [Agile & Coding: Test Driven Development Deluxe](https://davidvujic.blogspot.com/2021/02/test-driven-development-deluxe.html)
 * [Automatically generated API tests with Clojure and Reitit - /dev/solita](https://dev.solita.fi/2021/03/05/automatically-generated-api-tests-with-clojure-and-reitit.html)
+* [would clojure.test benefit from `(defmethod assert-expr thrown-with-data? ...)` - Clojure Q&A](https://ask.clojure.org/index.php/10468/would-clojure-test-benefit-from-defmethod-assert-expr-thrown)
 * [cprop-order - Test load-config order](https://github.com/eunmin/cprop-order)
 * [endpoint-check](https://github.com/k8s-study/endpoint-check/blob/master/README.md) ping test micro service 를 clojure httpkit 으로 구현, Kubernetes로 배포
 * [JEPSEN - Distributed Systems Safety Research](http://jepsen.io/)
