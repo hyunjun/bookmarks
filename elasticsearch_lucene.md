@@ -563,6 +563,8 @@ ElasticSearch - Lucene
   * [엘라스틱 스카우터 플러그인 밋업](https://docs.google.com/presentation/d/1cPTi9nDR0hrs5WkKN5bMQiyGPOPnD7MHq3aP_MopUNw/)
     * [스카우터 서버 플러그인을 활용한 Elastic Stack 연동](https://www.youtube.com/watch?v=wMcWilecZXU)
 * [Search Guard - an Elasticsearch plugin that offers encryption, authentication, and authorization](https://floragunn.com/searchguard/)
+* SeekStorm [Search API | Search as a Service | SeekStorm](https://seekstorm.com/)
+  * [DeepHN - 해커뉴스 3천만개 링크의 Full-Text 검색 도구 | GeekNews](https://news.hada.io/topic?id=4068)
 * [so-elastalert-create](https://github.com/bryant-treacle/so-elastalert-create)
 * [sonic: 🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM](https://github.com/valeriansaliou/sonic)
   * Elasticsearch 대체제 오픈소스(Rust)
