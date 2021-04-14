@@ -934,6 +934,12 @@ Docker
 * [Despite Google’s 'Autopilot,' Kubernetes is Still Hard - Container Journal](https://containerjournal.com/features/despite-googles-autopilot-kubernetes-is-still-hard/)
 * [Container부터 다시 살펴보는 Kubernetes Pod 동작원리 - Speaker Deck](https://speakerdeck.com/devinjeon/containerbuteo-dasi-salpyeoboneun-kubernetes-pod-dongjag-weonri)
 * [MacOS에 Kubeflow 설치하는 쉬운 방법. 그 교육의 일환으로 Kubeflow 튜토리얼을 정리 중입니다. 개인… | by Chris Song | Apr, 2021 | Medium](https://chris-loves-ai.medium.com/macos%EC%97%90-kubeflow-%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EC%89%AC%EC%9A%B4-%EB%B0%A9%EB%B2%95-728f8fc95c6d)
+* [The Evolution of Distributed Systems on Kubernetes](https://www.infoq.com/articles/distributed-systems-kubernetes/)
+  * Kubernetes를 이용한 마이크로 서비스 구현
+  * 최신 분산 애플리케이션은 클라우드 네이티브 플랫폼이 제공해야 하는 라이프사이클, 네트워킹, 바인딩 및 상태 관리에 대한 요구사항을 가지고 있음
+  * 쿠버네티스는 라이프사이클 관리에 대한 훌륭한 지원을 제공하지만 네트워킹, 바인딩 및 상태 관리 기본 요소를 충족시키기 위해 사이드카 및 운영자 개념을 사용하는 다른 플랫폼의 혼용이 요구됨
+  * 쿠버네티스의 향후 분산 시스템은 비즈니스 논리가 애플리케이션의 핵심을 이루는 여러 런타임으로 구성될 것이며 사이드카 "메카" 구성요소는 즉시 사용할 수 있는 강력한 분산 기본 요소를 제공함
+  * 이 분리된 메카 아키텍처는 통합형 비즈니스 로직 단위의 이점을 제공하며 패치 적용, 업그레이드 및 장기 유지 보수와 같은 프로덕션  운영을 개선함
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
