@@ -782,6 +782,7 @@ Programming
 * [**LINE 미디어 스토리지 글로벌 배치 프로젝트를 소개합니다 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/line-mediastorage-at-scale/) cache ceph 좋은 글
 * [구현한 채팅에 캐시 적용해서 성능 개선하기](https://velog.io/@seanlion/chatcache)
 * [**1인 기술 스타트업의 아키텍쳐 스택 | GeekNews**](https://news.hada.io/topic?id=4055)
+* [Top 5 Architecture Blog Posts for Q1 2021 | AWS Architecture Blog](https://aws.amazon.com/ko/blogs/architecture/top-5-architecture-blog-posts-for-q1-2021/)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 
 ## Architecture Distributed
