@@ -827,6 +827,7 @@ App
 * [맥 사용자라면 바로 설치해야 할 무료 앱 35가지 - ITWorld Korea](https://www.itworld.co.kr/news/176764)
 * [URL 별로 상황에 맞는 브라우져 실행하기 - tebica story](https://earlybird.kr/2538) Browserosaurus Finicky
 * [맥북 사면 바로 설치하는 무료 앱 9가지! - YouTube](https://www.youtube.com/watch?v=q7CGf6bJ8AA)
+* [애플 실리콘 M1 맥북 에어에 설치하면 좋을 iOS 앱 5가지 | Open Sea](https://opensea.kr/m1-%EB%A7%A5%EB%B6%81-%EC%97%90%EC%96%B4%EC%97%90-%EC%84%A4%EC%B9%98%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%84-ios-%EC%95%B1-5%EA%B0%80%EC%A7%80/)
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
 * Alfred [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
