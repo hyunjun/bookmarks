@@ -102,6 +102,7 @@ Flutter
 * [다트(Dart)로 웹 크롤링 맛보기 3df255a8b776](https://medium.com/@larkbless/%EB%8B%A4%ED%8A%B8-dart-%EB%A1%9C-%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81-%EB%A7%9B%EB%B3%B4%EA%B8%B0-3df255a8b776)
 * [왕초보 프로그래밍 강의 - YouTube](https://www.youtube.com/playlist?list=PLmEhRs1HB7RF1C7_C1oYzmc11iaC6DlNB)
 * [pure_firestore](https://github.com/kdy1/pure_firestore)
+* [dart 문법 - 데이터타입(기본타입, 자료구조)](https://blog.naver.com/pjt3591oo/222309654609)
 
 # Library
 * [디자인을 Flutter코드로 변환 - supernova툴](https://open-support.tistory.com/entry/%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-Flutter%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%B3%80%ED%99%98-supernova%ED%88%B4)
