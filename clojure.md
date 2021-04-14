@@ -324,6 +324,8 @@ Clojure
 * [The power of finding facts about personal preferences – Maurício Szabo](https://mauricio.szabo.link/blog/2021/04/01/the-power-of-finding-facts-about-personal-preferences/)
 * [How to avoid "illegal reflective access" warning in Clojure interop. (Cast?) - Stack Overflow](https://stackoverflow.com/questions/66914469/how-to-avoid-illegal-reflective-access-warning-in-clojure-interop-cast)
 * [PF4J and Clojure – Andrey Listopadov](https://andreyorst.gitlab.io/posts/2021-04-10-pf4j-and-clojure/)
+* [Stacktraces with clojure functions contain irrelevant information - Clojure Q&A](https://ask.clojure.org/index.php/10470/stacktraces-clojure-functions-contain-irrelevant-information)
+* [Study: Clojure, CoffeeScript and Haskell Are the Most Expressive General-purpose Languages](https://www.infoq.com/news/2013/03/Language-Expressiveness/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
