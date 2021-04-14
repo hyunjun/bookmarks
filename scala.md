@@ -553,6 +553,7 @@ Scala
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
 * [学ぼう！ コレクションフレームワーク](https://medium.com/nextbeat-engineering/%E5%AD%A6%E3%81%BC%E3%81%86-%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF-4b6ffaaf42d5) collection framework
 * [Applying a function to just one previous term in a Scala lazy collection](https://medium.com/swlh/applying-a-function-to-just-one-previous-term-in-a-scala-lazy-collection-59db607a05c2)
+* [Scala Val, Lazy Val And Def | Understand The Difference between val and lazy val in Scala | 2021 HD - YouTube](https://www.youtube.com/watch?v=7VC6znXIKY8)
 * [Option, Either, State, and IO: Imperative programming in a functional world](https://medium.com/disney-streaming/option-either-state-and-io-imperative-programming-in-a-functional-world-8e176049af81)
 * [Using Scala to Read Really, Really Large Files](https://medium.com/@morgen.peschke/using-scala-to-read-really-really-large-files-c9e3e9538bac)
   * Comparisons of The Standard Libraries, better-files, Akka Streams, FS2 (I/O helpers), FS2 (core), Reference Implementation in Java
@@ -859,6 +860,7 @@ Scala
     * [ZIO WORLD - ZIO Runtime System by John A. De Goes - YouTube](https://www.youtube.com/watch?v=OFFrw5aJzG4)
     * [ZIO WORLD - Execution Tracing by Rob Walsh - YouTube](https://www.youtube.com/watch?v=1-z06KIde0k)
     * [ZIO WORLD - Blocking by Adam Fraser - YouTube](https://www.youtube.com/watch?v=1g21c8VKeuU)
+    * [1st Zymposium - Building an App with ZIO - YouTube](https://www.youtube.com/watch?v=XUwynbWUlhg)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
