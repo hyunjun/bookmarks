@@ -314,6 +314,7 @@ Python
 * [It is ridiculously easy to generate any audio signal using Python](https://thehackerdiary.wordpress.com/2017/06/09/it-is-ridiculously-easy-to-generate-any-audio-signal-using-python/)
 * [Python Basics for Data Science](https://financedata.github.io/)
 * [Checking Your Daily Spending via SMS with Python, Plaid and Twilio](https://www.twilio.com/blog/2017/06/check-daily-spending-sms-python-plaid-twilio.html)
+* [파이썬 Python 코딩 - SMS 문자보내기, SMS LMS API 연동 방법 - YouTube](https://www.youtube.com/watch?v=uBnOJa9_UrI)
 * [The Fun of Reinvention (Screencast)](https://www.youtube.com/watch?v=js_0wjzuMfc) David Beazley
 * [Welcome to Intermediate and Advanced Software Carpentry!](http://intermediate-and-advanced-software-carpentry.readthedocs.io)
   * [**Wrapping C/C++ for Python**](http://intermediate-and-advanced-software-carpentry.readthedocs.io/en/latest/c++-wrapping.html) wrapper
