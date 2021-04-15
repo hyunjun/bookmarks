@@ -988,6 +988,7 @@ Javascript
 * [2020년과 이후 JavaScript의 동향 - JavaScript(ECMAScript)](https://d2.naver.com/helloworld/4268738)
 * [Stop Using Objects and Arrays to Store Data | by Anurag Kanoria | JavaScript In Plain English | Nov, 2020 | Medium](https://medium.com/javascript-in-plain-english/stop-using-objects-and-arrays-to-store-data-289c3edaaa33)
 * [ES2021 ES12에 추가될(된) 항목](https://blog.naver.com/pjt3591oo/222214299807)
+* [ES2021 - YouTube](https://www.youtube.com/playlist?list=PLcqDmjxt30RvEEN6eUCcSrrH-hKjCT4wt)
 * [ES Modules in Depth - ui.dev](https://ui.dev/esmodules/)
 * Babel
   * [Babel 너 믿을수 있니?](http://sculove.github.io/blog/2016/07/26/Babel-%EB%84%88-%EB%AF%BF%EC%9D%84%EC%88%98-%EC%9E%88%EB%8B%88/)
