@@ -563,6 +563,7 @@ Python
   * [Python Objects and Classes: The Most Important Python Concepts That You Need to Understand | Towards Data Science](https://towardsdatascience.com/the-most-important-python-concept-that-you-need-to-understand-985b98bbb84)
   * [Classes & Subclasses in Python. What, how, why and when to use. | by Keno Leon | The Startup | Medium](https://medium.com/swlh/classes-subclasses-in-python-12b6013d9f3)
   * [Public, Private, and Protected — Access Modifiers in Python | by Sarath Kaul | Better Programming | Medium](https://medium.com/better-programming/public-private-and-protected-access-modifiers-in-python-9024f4c1dd4)
+  * [파이썬 클래스, 객체 개념 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/programming/class-object/)
 * closure
   * [Optimize Python with Closures](http://tech.magnetic.com/2015/05/optimize-python-with-closures.html)
   * [Python - 클로저(Closure) 쉽게 생각하기](http://jonnung.blogspot.com/2014/09/python-easy-closure.html)
