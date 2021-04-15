@@ -270,6 +270,8 @@ ElasticSearch - Lucene
 * [Word count from documents](https://discuss.elastic.co/t/word-count-from-documents/117379)
 * [App Search 소개](https://jjeong.tistory.com/1407)
 * [벡터 필드를 사용한 텍스트 유사도 검색](https://www.elastic.co/kr/blog/text-similarity-search-with-vectors-in-elasticsearch)
+* [Elasticsearch 의 고급 필드 타입들 - YouTube](https://www.youtube.com/watch?v=9_MkRTXH0QU)
+  * unsigned_long, version, flattened, aggregate_metric_double, dense_vector
 * [2020-03-24 Virtual Meetup - Elastics Stack을 이용한 COVID19 대시보드 만들기](https://github.com/eskrug/elastic-demos/tree/master/covid19)
   * [Elastic Stack 으로 코로나19 대시보드 만들기 - 1](https://www.youtube.com/watch?v=FIrub1zraHQ)
   * [Elastic Stack 으로 코로나19 대시보드 만들기 - 2](https://www.youtube.com/watch?v=Vz6G3v5KNh0)
