@@ -96,6 +96,7 @@ Business
 * [어거지로 소통,협업 하지 마라](http://ppss.kr/archives/59165)
 * [협업의 미신 5가지](http://agile.egloos.com/5904102)
   * [OKKYCON: 2017 김창준 - 협업의 미신 5가지 - YouTube](https://www.youtube.com/watch?v=I4xkw_0XqAs)
+* [업무의 회색지대를 바라보며](https://brunch.co.kr/@jongmulim/34) 협업
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
 * [엘론 머스크가 알려주는 회사 내 소통 법](http://www.andrewahn.co/silicon-valley/elon-musk-comms-in-tesla/)
 * [美 IT업계서 45년 일한 어느 개발자의 여섯가지 조언 - ZDNet korea](https://zdnet.co.kr/view/?no=20210108154359)
