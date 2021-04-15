@@ -1100,6 +1100,7 @@ Clojure
 * [**Revisiting Clojure – Glenn Engstrand**](https://glennengstrand.info/blog/?p=557)
 * [1주차 스터디 - clojure 개발 환경 구축 및 기본 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=16416860)
 * [Function Showcase: Interning Vars with Metadata Data in Clojure - YouTube](https://www.youtube.com/watch?v=jky8cKa-wbM)
+* [How to Learn Clojure: The Main Study Stages](https://freshcodeit.com/how-to-stop-being-afraid-of-clojure)
 
 # Vim
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
