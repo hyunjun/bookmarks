@@ -3418,6 +3418,7 @@ Javascript
 * [타입스크립트와 호이스팅 · /usr/lib/libsora.so](https://libsora.so/posts/typescript-and-hoisting/)
 * [typeorm에서 repository.save() 호출할때 UPDATE 쿼리만 사용하기 · /usr/lib/libsora.so](https://libsora.so/posts/typeorm-entity-proxy-for-save/)
 * [ORM typeorm으로 CRUD부터 Active Record와 DataMapper 패턴 다루기](https://blog.naver.com/pjt3591oo/222309864102)
+* [ORM typeorm relation(관계) 설정하기 - 1:N, N:M](https://blog.naver.com/pjt3591oo/222310744958)
 * [express에서 콘솔로 찍은 로그를 HTTP 응답에 붙이기 · /usr/lib/libsora.so](https://libsora.so/posts/express-attach-console-log-to-response/)
 * [타입스크립트로 API 명세 작성하고 서버/클라 stub 생성하기 · /usr/lib/libsora.so](https://libsora.so/posts/stub-from-typescript-api-specification/)
 * [**callbackWaitsForEmptyEventLoop와 AWS Lambda의 함정 · /usr/lib/libsora.so**](https://libsora.so/posts/trap-callback-waits-for-empty-event-loop/) express
