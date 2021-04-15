@@ -326,6 +326,7 @@ Clojure
 * [PF4J and Clojure – Andrey Listopadov](https://andreyorst.gitlab.io/posts/2021-04-10-pf4j-and-clojure/)
 * [Stacktraces with clojure functions contain irrelevant information - Clojure Q&A](https://ask.clojure.org/index.php/10470/stacktraces-clojure-functions-contain-irrelevant-information)
 * [Study: Clojure, CoffeeScript and Haskell Are the Most Expressive General-purpose Languages](https://www.infoq.com/news/2013/03/Language-Expressiveness/)
+* [Clojurists Together 2020-Q4: new features and thank you! - YouTube](https://www.youtube.com/watch?v=P09GZVqiDdM)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -403,6 +404,7 @@ Clojure
   * [Clojure Goodness: Turning Map Values To Map Keys - Messages from mrhaki](https://blog.mrhaki.com/2021/03/clojure-goodness-turning-map-values-to.html)
   * [Returns a map](https://clojurearcana.com/returns-a-map/)
   * [Clojure: Pre and Post conditions - YouTube](https://www.youtube.com/watch?v=w6xkxiYXBBo)
+  * [How to use map, apply, concat and mapcat in Clojure - YouTube](https://www.youtube.com/watch?v=RFcEWZW1YaQ)
   * [closeable-map: A Clojure map that implements java.io.Closeable, so that it represents an execution context that you can close](https://github.com/piotr-yuxuan/closeable-map)
 * match
   * [github.com/clojure/core.match](https://github.com/clojure/core.match)
@@ -416,6 +418,7 @@ Clojure
   * [Fun with strings](https://clojurearcana.com/fun-with-strings/)
 * tail recursion
   * [2.1 Tail Recursion(꼬리 재귀)](http://philoskim.github.io/doc/recursion.html)
+  * [Clojure - Using Loop with Recur - YouTube](https://www.youtube.com/watch?v=_klNWMris1I)
 
 # Book
 * [초보자를 위한 클로져](https://www.gitbook.com/book/eunmin/clojure-for-beginners/)
