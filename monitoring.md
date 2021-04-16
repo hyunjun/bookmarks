@@ -52,7 +52,9 @@ Monitoring
 * [Tips for Designing Grafana Dashboards - Percona Database Performance Blog](https://www.percona.com/blog/2019/11/22/designing-grafana-dashboards/)
 * [Introducing the Redis Data Source Plug-in for Grafana | Redis Labs](https://redislabs.com/blog/introducing-the-redis-data-source-plug-in-for-grafana/)
 * [검색 모니터링 시스템 구축 - 다나와 기술블로그](https://danawalab.github.io/common/2021/04/09/Commom-Monitoring-System.html)
-* Grafana Tempo [Grafana Announces Grafana Tempo, a Distributed Tracing System](https://www.infoq.com/news/2020/12/grafana-tempo-distributed-tracin/)
+* Grafana Tempo
+  * [Grafana Announces Grafana Tempo, a Distributed Tracing System](https://www.infoq.com/news/2020/12/grafana-tempo-distributed-tracin/)
+  * [Intro to exemplars, which enable Grafana Tempo’s distributed tracing at massive scale | Grafana Labs](https://grafana.com/blog/2021/03/31/intro-to-exemplars-which-enable-grafana-tempos-distributed-tracing-at-massive-scale/)
 * [Loki tutorial: How to send logs from EKS with Promtail to get full visibility in Grafana | Grafana Labs](https://grafana.com/blog/2020/07/21/loki-tutorial-how-to-send-logs-from-eks-with-promtail-to-get-full-visibility-in-grafana/)
 
 # Library
