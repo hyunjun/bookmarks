@@ -643,6 +643,7 @@ Apache
 * rest proxy
   * [카프카의 토픽 데이터를 REST api로 주고받자 - Kafka rest proxy 사용](https://blog.voidmainvoid.net/345)
   * [Confluent REST Proxy 6.0: Putting Apache Kafka to REST](https://www.confluent.io/blog/confluent-rest-proxy-putting-kafka-to-rest/)
+* [spring-kafka-example: Example source code for KafkaKRU meetup](https://github.com/gnu-gnu/spring-kafka-example)
 * [Trifecta - a web-based and Command Line Interface (CLI) tool that enables users to quickly and easily inspect, verify and even query Kafka messages](https://github.com/ldaniels528/trifecta)
 * [trivup - Trivially Up a cluster of applications](https://github.com/edenhill/trivup)
   * 프로그래밍 방식으로 카프카 클러스터를 구축하고 해체하는 도구. 클라이언트 응용 프로그램에 대한 Kafka의 SSL 인증 및 암호화 지원
