@@ -1155,6 +1155,7 @@ Python
   * [Packaging and Distributing Projects](https://packaging.python.org/en/latest/distributing.html#uploading-your-project-to-pypi)
   * [pypi 패키지 만들어보기](http://blog.everypython.com/post/15/)
   * [파이썬 패키지 Pypi에 오픈소스 등록하는 방법](https://hides.tistory.com/1054)
+  * [파이썬 Python 코딩 - 패키지 만들어서 PyPI에 등록하기, 파이썬 저장소에 소스코드 등록, 개발자 인증^^ - YouTube](https://www.youtube.com/watch?v=UogEmMXR8HA)
   * [로컬 PYPI 서버 설정하기](http://daewonyoon.tistory.com/199)
   * [파이썬 패키지를 공유하는 법](https://code.tutsplus.com/ko/tutorials/how-to-share-your-python-packages--cms-26114)
   * [How We Deploy Python Code (hint: not using Git)](https://nylas.com/blog/packaging-deploying-python)
