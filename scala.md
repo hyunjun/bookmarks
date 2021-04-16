@@ -301,6 +301,10 @@ Scala
 * [Scala is a Maintenance Nightmare - MungingData](https://mungingdata.com/scala/maintenance-nightmare-upgrade/)
 * [Which stack do #Scala companies use in 2021? - YouTube](https://www.youtube.com/watch?v=9GvRyoevc2A)
 * [Managing Complexity | Functional Scala - YouTube](https://www.youtube.com/watch?v=NOf8Iyu5nrc)
+* [Image editing with Functors | Blog of Adrian Salajan](https://blog.adrian-salajan.com/blog/2021/01/25/images-functor)
+  * [adrian-salajan/dimages: denotational image lib](https://github.com/adrian-salajan/dimages)
+* [Image editing with Applicative | Blog of Adrian Salajan](https://blog.adrian-salajan.com/blog/2021/02/11/image-editing-with-applicative)
+* [Image editing with Monads | Blog of Adrian Salajan](https://blog.adrian-salajan.com/blog/2021/04/09/image-editing-with-monads)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1161,6 +1165,8 @@ Scala
     * [SF Scala: Essential Effects By Adam Rosien - YouTube](https://www.youtube.com/watch?v=9TR--8gAcZ8)
     * [Typelevel.scala | Why Are Fibers Fast?](https://typelevel.org/blog/2021/02/21/fibers-fast-mkay.html)
     * [Using Cats Effect Resource in Non-Functional Contexts · Horace Williams](https://worace.works/2021/03/25/cats-effect-resource-in-imperative-contexts/)
+    * [Fire-and-Forget in Cats Effect](https://www.inner-product.com/posts/fire-and-forget-in-cats-effect/)
+    * [herding cats — Effect system](https://eed3si9n.com/herding-cats/effect-system.html)
   * [cats-retry - A library for retrying actions that can fail](https://github.com/cb372/cats-retry)
     * [Functional retry handling with cats-retry in Scala](https://medium.com/@hirokifujino/functional-retry-handling-with-cats-retry-in-scala-7d0a5fd35956)
     * [Retry Failing Tasks with Cats and Scala - Alexandru Nedelcu](https://alexn.org/blog/2020/08/03/on-error-retry-loop.html)
@@ -1774,6 +1780,10 @@ Scala
 * [How Scala 3 Givens Work with Scala 2 Implicits - YouTube](https://www.youtube.com/watch?v=fStjOA0Wep4)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=8O-Qxgf28Ys) given extension
 * [Context is King. Context functions in Scala 3 | by Adam Warski | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/context-is-king-20f533474cb3)
+* [Scala 3: Extension Methods - YouTube](https://www.youtube.com/watch?v=c8vBO8hhYEA)
+* [The #Scala3 feature I'm most excited about! - YouTube](https://www.youtube.com/watch?v=NQ1d7r6OkDE)
+* [Use Indentation Guides in Scala3! - YouTube](https://www.youtube.com/watch?v=D2nhx0GxDxY)
+* [Infix Notation in #Scala Considered Harmful! - YouTube](https://www.youtube.com/watch?v=6BzQ-stJmDs)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
