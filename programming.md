@@ -1036,6 +1036,7 @@ Programming
     * [#2 - Spring과 Zipkin을 이용한 추적](http://bcho.tistory.com/1244)
     * [#3 -Stackdriver를 zipkin으로 사용하기](http://bcho.tistory.com/1245)
   * [Zipkin과 Scouter v2.5를 연동해보자](https://gunsdevlog.blogspot.com/2018/11/how-to-use-zipkin-scouter-storage.html)
+  * [LINE 광고 플랫폼의 MSA 환경에서 Zipkin을 활용해 로그 트레이싱하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-ads-msa-opentracing-zipkin/)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
