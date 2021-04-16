@@ -29,6 +29,7 @@ Emacs
 * [15 reasons why I use emacs | Better Programming](https://medium.com/better-programming/15-reasons-why-i-use-emacs-with-gifs-5b03c6608b61)
 * [How to open a file in Emacs - Murilo Pereira](https://www.murilopereira.com/how-to-open-a-file-in-emacs/)
 * [spacemacs - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/spacemacs)
+* [Introduction to Emacs - YouTube](https://www.youtube.com/watch?v=Ap8n70DkVOw)
 
 # Library
 * Cask
