@@ -1083,3 +1083,4 @@
 * [📊제플린 쉽게 시작하기 #zeppelin #dataviz - YouTube](https://www.youtube.com/watch?v=y-GWhTNW3sk)
 * [📊제플린과 DB 연결하기 #mysql #dataviz - YouTube](https://www.youtube.com/watch?v=TFNZx5pW_t4)
 * [Setup Zeppelin with K8S mode on NAVER Container Cluster | by EuiYul Song | Apr, 2021 | Medium](https://thddmlduf.medium.com/setup-zeppelin-with-k8s-mode-on-naver-container-cluster-896ca9815ca2)
+* [Dynamic Forms 동작 시 랜덤하게 paragraph 내용이 사라지는 문제와 임시 해결안 | by Sinjin | Feb, 2021 | Medium](https://sinjin0.medium.com/apache-zeppelin-dynamic-forms-%EB%8F%99%EC%9E%91-%EC%8B%9C-%EB%9E%9C%EB%8D%A4%ED%95%98%EA%B2%8C-paragraph-%EB%82%B4%EC%9A%A9%EC%9D%B4-%EC%82%AC%EB%9D%BC%EC%A7%80%EB%8A%94-%EB%AC%B8%EC%A0%9C%EC%99%80-%EC%9E%84%EC%8B%9C-%ED%95%B4%EA%B2%B0%EC%95%88-da3413f16a6)
