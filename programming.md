@@ -687,6 +687,9 @@ Programming
   * [The Technical Challenges of Building Cloudflare WARP](https://blog.cloudflare.com/warp-technical-challenges/)
   * [Cloudflare 도입 후기 5년간의 Cloudflare 사용 후기를 공유합니다](https://www.ridicorp.com/blog/2019/10/14/cloudflare-dos-and-donts/)
   * [Cloudflare Access](https://andromedarabbit.net/cloudflare-access/) access, 접근 제어
+  * [Cloudflare Pages is now Generally Available](https://blog.cloudflare.com/cloudflare-pages-ga/)
+    * Netlify처럼 프론트엔드 개발자들이 Cloudflare에 Jamstack 사이트를 배포할 수 있는 기능
+    * Git 저장소를 연결해서 빌드해서 바로 배포할 수 있고 웹 분석, 내장 리다이렉트, 프리뷰, 이미지 최적화 등의 기능 포함
   * [JVM and cache warm-up strategy for high traffic services](https://medium.com/teads-engineering/jvm-and-cache-warm-up-strategy-for-high-traffic-services-4b5016f8b565)
   * [스파게티 조인을 피하고 경계안에서 캐시 구현하기](https://www.popit.kr/스파게티-조인을-피하고-경계안에서-캐시-구현하기) operation cache, BoundedContext
   * [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
@@ -2232,6 +2235,7 @@ Programming
   * [기술 뉴스 #169 : 21-03-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1535)
   * [기술 뉴스 #170 : 21-03-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1536)
   * [기술 뉴스 #171 : 21-04-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1543)
+  * [기술 뉴스 #172 : 21-04-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1546)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
