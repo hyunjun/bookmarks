@@ -304,6 +304,8 @@ Go
   * [Practical Persistence in Go: SQL Databases](http://www.alexedwards.net/blog/practical-persistence-sql)
   * [Golang ORM, 무엇이 좋을까? · Billo Park](https://blog.billo.io/devposts/go_orm_recommandation/)
   * [Golang xORM 편리한 기능 소개 | Popit](https://www.popit.kr/golang-xorm-%ED%8E%B8%EB%A6%AC%ED%95%9C-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C/)
+  * [GORM - The fantastic ORM library for Golang, aims to be developer friendly](https://gorm.io/)
+    * [GORM 사용 시 주의할 점](https://bumbum.oopy.io/339a497f-ac96-4fd6-b5a5-d4937ce130a5)
 * defer
   * [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff)
   * [5 Gotchas of Defer in Go — Part I](https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01)
