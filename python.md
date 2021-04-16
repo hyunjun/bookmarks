@@ -1561,6 +1561,7 @@ Python
 * [Learn Python, Break Python: A Beginner's Guide to Programming, by Breaking Stuff Books](https://learnpythonbreakpython.com/)
 * [마야 파이썬 (Maya Python)](https://wikidocs.net/book/1564)
 * [실용 파이썬 프로그래밍(Practical Python Programming 번역) - WikiDocs](https://wikidocs.net/book/4673)
+* [pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes)
 * [Python 101](https://leanpub.com/python_101/read_full)
 * [Python 3.4 공부 좀 해볼까?](https://wikidocs.net/book/122)
 * [Python으로 배우는 BBC micro:bit](https://wikidocs.net/book/2632)
