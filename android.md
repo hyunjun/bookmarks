@@ -275,6 +275,7 @@ Android
   * [DI 두 번째, Dependency Injection Dagger2로 시작하기](https://poqw.github.io/di_2/)
   * [Dagger Hilt로 안드로이드 의존성 주입 시작하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/07/28/android-dagger-hilt.html)
   * [HILT 에 대해서 정리해 보겠습니다. # DI Dependency Injection](https://developer88.tistory.com/349)
+  * [Hilt,Dagger cannot access DefaultActivityViewModelFactory](https://tiii.tistory.com/46)
 * DeviceFarm/STF [코로나 시대 원격 QA! 오픈소스 디바이스팜 STF 도입기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/remote-qa-devicefarm-stf/)
 * [Flutter](flutter.md)
 * [Fresco - 페이스북이 만든 안드로이드 이미지 라이브러리](http://fresco.recrack.com/)
