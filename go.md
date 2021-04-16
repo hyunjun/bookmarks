@@ -286,6 +286,8 @@ Go
 * [Go: How Does a Program Recover?. Panics in Go are triggered when the… | by Vincent Blanchon | A Journey With Go | Oct, 2020 | Medium](https://medium.com/a-journey-with-go/go-how-does-a-program-recover-fbbbf27cc31e) defer panic WaitGroup
 * [Generics are the Generics of Go | Capital One | Capital One Tech](https://medium.com/capital-one-tech/generics-are-the-generics-of-go-3e0ef0cb9e04)
 * [Experimenting with generics in Go | by Alexey Soshin | The Startup | Medium](https://medium.com/swlh/experimenting-with-generics-in-go-39ffa155d6a1)
+* [src/runtime/HACKING.md - The Go Programming Language](https://golang.org/src/runtime/HACKING.md)
+  * [고언어(Golang) HACKING.md 내용 정리](https://novemberde.github.io/golang/2021/04/05/Golang-HACKING.html)
 * array
   * [The anatomy of Arrays in Go](https://medium.com/rungo/the-anatomy-of-arrays-in-go-24429e4491b7)
   * [Go: Slice and Memory Management](https://medium.com/a-journey-with-go/go-slice-and-memory-management-670498bb52be)
