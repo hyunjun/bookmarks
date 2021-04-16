@@ -36,6 +36,7 @@ Apache
 * [airflow dag의 task를 실행하고 동작하지 않는 현상](https://burning-dba.tistory.com/117)
 * [실무에 바로 사용하는 Airflow 2.0 설치](https://burning-dba.tistory.com/127)
 * [Airflow의 execution_date에 대하여 - Nephtyw’S Programming Stash](https://nephtyws.github.io/data/airflow-execution-date/)
+* [버킷플레이스 Airflow 도입기 - 오늘의집 블로그](https://www.bucketplace.co.kr/post/2021-04-13-%EB%B2%84%ED%82%B7%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4-airflow-%EB%8F%84%EC%9E%85%EA%B8%B0/)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
