@@ -1068,6 +1068,7 @@ Machine Learning
 * [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * [Machine Learning Video Library](https://work.caltech.edu/library/)
 * [A List Of Top 10 Free Machine Learning Online Courses and Tutorials](https://www.techleer.com/articles/453-a-list-of-top-10-free-machine-learning-online-courses-and-tutorials/)
+* [10 Best Online Courses for Machine Learning with Python-Bestseller 2021](https://www.mltut.com/best-online-courses-for-machine-learning-with-python/)
 * [Machine Learning Summer School 2017 Tübingen](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFUOvoYCdKikfck8YeUCnl9)
 * [Andrew Ng / Coursera](https://www.coursera.org/learn/machine-learning)
   * [Machine Learning Exercises In Python, Part 1](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/) python exercises of Andrew Ng's maching learning class on Coursera
