@@ -406,6 +406,8 @@ PyTorch
 * [Benchmarking Transformers: PyTorch and TensorFlow](https://medium.com/huggingface/benchmarking-transformers-pytorch-and-tensorflow-e2917fb891c2)
 * [Part 1: Components of the transformer model](https://nbviewer.jupyter.org/github/vinsis/math-and-ml-notes/blob/master/notebooks/Transformer%20-%20Illustration%20and%20code.ipynb) ipynb
 * [How to train a new language model from scratch using Transformers and Tokenizers](https://huggingface.co/blog/how-to-train)
+* [Accelerate — accelerate documentation](https://huggingface.co/docs/accelerate)
+  * [Introducing 🤗 Accelerate](https://huggingface.co/blog/accelerate-library)
 * [DALLE-pytorch: Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch](https://github.com/lucidrains/DALLE-pytorch)
 * [HanBert-Transformers](https://github.com/monologg/HanBert-Transformers)
 * [Pretrain Transformers Models in PyTorch using 🤗 Transformers | by George Mihaila | Oct, 2020 | Medium](https://gmihaila.medium.com/pretrain-transformers-models-in-pytorch-using-transformers-ecaaec00fbaa)
