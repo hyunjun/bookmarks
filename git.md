@@ -360,6 +360,7 @@ Git
       * 다시 old/path/file.txt로 변경하고 싶어서 `git reset new/path/file.txt`를 실행했다가 new/path에서는 사라지고 old/path에도 복원되지 않은 경우 사용
 * cherry-pick
   * [Git 체리픽(cherry-pick) 사용법](https://awesomezero.com/post/git-cherry-pick/)
+  * [작업단위 커밋 정복을 위한 rebase와 cherry-pick](https://blog.naver.com/pjt3591oo/222313140460)
 * clean
   * `git clean -fd` [git이 추적하지 않는 untracked files 한꺼번에 삭제하기](https://blog.outsider.ne.kr/1164?category=18)
 * clone
