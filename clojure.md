@@ -13,6 +13,7 @@ Clojure
   * [What I learned solving all 156 4Clojure problems · Aaron Announces](https://aarondeobell.com/posts/clojure/4clojure-solved/)
 * [Clojure - DEV Community](https://dev.to/t/clojure)
 * [Building a community for sustainability-oriented Clojure work - Community Center / Community Building - ClojureVerse](https://clojureverse.org/t/building-a-community-for-sustainability-oriented-clojure-work/7159)
+* [Practicalli: Clojure community - getting help](https://practicalli.github.io/blog/posts/cloure-community-getting-help/)
 * [clojure for the brave and true](http://www.braveclojure.com/)
 * [Clojure koans](http://clojurekoans.com/)
   * [클로저 선문답](http://clojurekoans.hatemogi.com/)
@@ -327,6 +328,8 @@ Clojure
 * [Stacktraces with clojure functions contain irrelevant information - Clojure Q&A](https://ask.clojure.org/index.php/10470/stacktraces-clojure-functions-contain-irrelevant-information)
 * [Study: Clojure, CoffeeScript and Haskell Are the Most Expressive General-purpose Languages](https://www.infoq.com/news/2013/03/Language-Expressiveness/)
 * [Clojurists Together 2020-Q4: new features and thank you! - YouTube](https://www.youtube.com/watch?v=P09GZVqiDdM)
+* [Why clojure is so powerful for flow and creativity in code | Racket](https://racket.com/p/why-clojure-is-powerful-creativity-code)
+* [Solving the Expression Problem with Clojure 1.2](https://web.archive.org/web/20110821210021/http://www.ibm.com/developerworks/java/library/j-clojure-protocols/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -425,6 +428,7 @@ Clojure
 * [클로저 웹 개발 시작하기](https://www.gitbook.com/book/eunmin/clojure-web-for-beginners)
 * [Best Clojure Books](http://programming-digressions.blogspot.kr/2015/08/best-clojure-books-are-we-there-yet.html)
 * [This is the home of O'Reilly's Clojure Cookbook - http://clojure-cookbook.com ](https://github.com/clojure-cookbook/clojure-cookbook)
+  * [clojure-cookbook: This is the home of O'Reilly's Clojure Cookbook](https://github.com/clojure-cookbook/clojure-cookbook)
 * [Clojure for the Brave and True](http://www.braveclojure.com/clojure-for-the-brave-and-true/)
 * [The Joy of Clojure](http://www.joyofclojure.com/)
   * [the joy of clojure source codes](https://github.com/ksseono/the-joy-of-clojure)
@@ -682,6 +686,7 @@ Clojure
 * [Clojars is a dead easy community repository for open source Clojure libraries](https://clojars.org/)
 * [clojisr: Clojure speaks statistics - a bridge between Clojure to R](https://github.com/scicloj/clojisr)
 * [clojupyter - A Jupyter kernel for Clojure. This will let you run Clojure code from the Jupyter console and notebook](https://github.com/clojupyter/clojupyter)
+* [Clojure2D P(art)icle System – Nextjournal](https://nextjournal.com/jackrusher/clojure2d-particle-system)
 * [clojure2minizinc - provides an interface between state-of-the-art constraint solvers (via MiniZinc) and a very high-level programming language with excellent abstraction capabilities, Clojure](https://github.com/tanders/clojure2minizinc)
 * [clojure-android](http://clojure-android.info/)
 * [clojure-api-starter](https://github.com/myungjaeyu/clojure-api-starter) web boilerplate
@@ -733,6 +738,7 @@ Clojure
   * [Datomic: 함수형 데이터베이스](https://github.com/philoskim/datomic-intro)
   * [Conditional Queries in Datomic](https://grishaev.me/en/datomic-query/)
   * [Migration from Postgres to Datomic](https://grishaev.me/en/pg-to-datomic/)
+* [devart-codefactory: Create a piece of art using code](https://github.com/postspectacular/devart-codefactory)
 * [docopt.clj: Clojure implementation of the docopt description language](https://github.com/nubank/docopt.clj)
 * [dog-board - A website written in noir](https://github.com/re-noir/dog-board)
 * [Drake is a simple-to-use, extensible, text-based data workflow tool that organizes command execution around data and its dependencies](https://github.com/Factual/drake)
@@ -852,6 +858,7 @@ Clojure
   * [lumos-pedestal-component - A component for pedestal](https://github.com/eunmin/lumos-pedestal-component)
   * [Pedestal is a sturdy and reliable base for services and APIs](http://pedestal.io/)
 * [Pegasus is a scalable, modular, polite web-crawler for Clojure http://getpegasus.io](https://github.com/shriphani/pegasus)
+* [penkala - a composable query builder for PostgreSQL written in Clojure](https://cljdoc.org/d/com.verybigthings/penkala)
 * [pepa - A document management system](https://github.com/bevuta/pepa)
 * [Perseverance is a flexible retried operations library inspired by the Common Lisp’s condition system](https://github.com/grammarly/perseverance)
 * [plsci: PostgreSQL procedural language handler for Clojure via SCI](https://github.com/borkdude/plsci)
@@ -1014,6 +1021,7 @@ Clojure
 * [Agile & Coding: Test Driven Development Deluxe](https://davidvujic.blogspot.com/2021/02/test-driven-development-deluxe.html)
 * [Automatically generated API tests with Clojure and Reitit - /dev/solita](https://dev.solita.fi/2021/03/05/automatically-generated-api-tests-with-clojure-and-reitit.html)
 * [would clojure.test benefit from `(defmethod assert-expr thrown-with-data? ...)` - Clojure Q&A](https://ask.clojure.org/index.php/10468/would-clojure-test-benefit-from-defmethod-assert-expr-thrown)
+* [bond: spying for tests](https://github.com/circleci/bond)
 * [cprop-order - Test load-config order](https://github.com/eunmin/cprop-order)
 * [endpoint-check](https://github.com/k8s-study/endpoint-check/blob/master/README.md) ping test micro service 를 clojure httpkit 으로 구현, Kubernetes로 배포
 * [JEPSEN - Distributed Systems Safety Research](http://jepsen.io/)
@@ -1101,6 +1109,7 @@ Clojure
 * [1주차 스터디 - clojure 개발 환경 구축 및 기본 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=16416860)
 * [Function Showcase: Interning Vars with Metadata Data in Clojure - YouTube](https://www.youtube.com/watch?v=jky8cKa-wbM)
 * [How to Learn Clojure: The Main Study Stages](https://freshcodeit.com/how-to-stop-being-afraid-of-clojure)
+* [Using Clojure Tools · Practicalli Clojure](https://practicalli.github.io/clojure/clojure-tools/using-clojure-tools.html)
 
 # Vim
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
