@@ -75,6 +75,7 @@ Flutter
 * [Flutter 광고로 돈버는법 Google Mobile Ads - Part 2 Interstitial & Rewarded Ad - YouTube](https://www.youtube.com/watch?v=7oB1FY4mDCs)
 * [고급 Flutter를 사용해도 개발이 느렸던 이유... - YouTube](https://www.youtube.com/watch?v=xxJkq-zvWqI)
 * [2% 부족한 SliverAppBar 완벽하게 사용!! #SliverAppBar #더코딩파파 #Flutter - YouTube](https://www.youtube.com/watch?v=xtdCoe8_pJE)
+* [Flutter Equatable 플러그인 사용하기 - YouTube](https://www.youtube.com/watch?v=9-FGJHTRRW0)
 
 # Dart
 * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
