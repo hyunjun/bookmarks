@@ -305,6 +305,7 @@ Scala
   * [adrian-salajan/dimages: denotational image lib](https://github.com/adrian-salajan/dimages)
 * [Image editing with Applicative | Blog of Adrian Salajan](https://blog.adrian-salajan.com/blog/2021/02/11/image-editing-with-applicative)
 * [Image editing with Monads | Blog of Adrian Salajan](https://blog.adrian-salajan.com/blog/2021/04/09/image-editing-with-monads)
+* [SF Scala: How to survive algorithms in Scala - YouTube](https://www.youtube.com/watch?v=Ee2Y9V5ePVo)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
