@@ -156,6 +156,7 @@ Android
 * [안드로이드 개발자라면 꼭 해야 하는(알아야 하는) 6가지](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%9D%BC%EB%A9%B4-%EA%BC%AD-%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%98%EB%8A%94-6%EA%B0%80%EC%A7%80-23df7f059da3)
 * [Android Dialog 구현하는 방법 #Kotlin 버전 다이얼로그](https://developer88.tistory.com/251)
 * [ViewBinding의 작은 변화](http://pluu.github.io/blog/android/2020/01/19/viewbinding/)
+* [ViewBinding 구현방법 정리](https://developer88.tistory.com/355)
 * [간편하고 안전하게 레이아웃 내 뷰를 참조하는 방법: 안드로이드 뷰 바인딩](https://www.androidhuman.com/2020-11-25-android_view_binding)
 * [Android 상태 저장의 기본에서 Savedstate까지](http://pluu.github.io/blog/android/2020/02/10/saved-state/)
 * [SavedState is Default](http://pluu.github.io/blog/android/2020/02/15/diff-androidx-lifecycle/)
