@@ -482,6 +482,7 @@ Programming
 * [APIs Explained for Product Manager](https://www.notion.so/APIs-Explained-for-Product-Manager-53ce50635bad462f9665cf4836b91429)
 * [웹 버전 관리 시스템](https://kdinner.tistory.com/101)
 * [Web API 유용한 곳 정리 및 모아보기](https://open-support.tistory.com/entry/Web-API-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EA%B3%B3-%EC%A0%95%EB%A6%AC-%EB%B0%8F-%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0)
+* [2captcha를 이용해서 사이트의 CAPTCHA 자동화로 처리하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1547)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
 * [KAKAO REST API](https://developer-ankiwoong.tistory.com/748)
