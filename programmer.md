@@ -63,6 +63,7 @@ Programmer
 * [드림코딩 by 엘리 - YouTube](https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w/videos)
 * [Effective Engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
 * [개발자 부업, 어디까지 해봤니? - 코드쓰는사람](https://taegon.kim/archives/10292)
+* [**1. 우아한형제들 부검 - 왜 떠나는지**](https://jojoldu.tistory.com/562)
 
 # Cultuer, Team
 * [훌륭한 개발 문화의 이면(7) – 잉여력이냐 vs. 효율성이냐](http://channy.creation.net/blog/1238) 개발자 경력 경로
