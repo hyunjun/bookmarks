@@ -126,6 +126,7 @@ Azure
 * [애저듣보잡 자동화된 ML, 나도 해보자! - 한석진 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WksTnqh1hl0iygROuE7N7Qwf)
 * [애저듣보잡 Azure Sphere - 윤기석 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9Wkv_uIdbKSXZaUCZG6BuBbhx)
 * [애저듣보잡 AKS 활용법 101 - 박인혜 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WkuMBsjmzk5E7GOG8DIh49Ur)
+* [Az-900 Azure Fundamentals | Week 5/6 | 애저 자격증 준비 - YouTube](https://www.youtube.com/watch?v=ewDuJSpEh5A)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
