@@ -953,6 +953,7 @@ App
 * [How to Jazz Up Your Bash Terminal — A Step By Step Guide With Pictures](https://medium.freecodecamp.org/jazz-up-your-bash-terminal-a-step-by-step-guide-with-pictures-80267554cb22)
 * [Back to Bash: Remove Zsh and terminal themes on a Mac step-by-step](https://medium.com/the-code-review/back-to-bash-remove-zsh-and-terminal-themes-on-a-mac-step-by-step-f89f69d2ec73)
 * [Faster and enjoyable ZSH (maybe) • htr3n's](https://htr3n.github.io/2018/07/faster-zsh/)
+* [4 steps to customizing your Mac terminal theme with open source tools | Opensource.com](https://opensource.com/article/21/4/zsh-mac)
 * [4 Simple Steps To Create An Awesome Terminal Experience On Your Mac](https://medium.com/tech-explained/4-simple-steps-to-create-an-awesome-terminal-experience-on-your-mac-70bd7a0e1b59)
 * [Make your terminal window pretty on Linux/MacOS with open source based theme tools - YouTube](https://www.youtube.com/watch?v=McaAsw_3C0w)
 * [OS X, Case Sensitive 볼륨을 Case Insensitive 볼륨으로 변경하기](https://elegantcoder.com/osx-convert-volume-case/)
@@ -1229,6 +1230,7 @@ App
 * [RemNote - 공부하고 글쓰는 사람을 위한 강력한 노트 도구 : SEOULRAIN](https://seoulrain.net/2020/09/12/remnote-review/)
 * [Roam](https://roamresearch.com) graph 형태로 자신의 note를 연결할 수 있는 듯
   * [문서 작성법의 패러다임 시프트: 롬리서치 | Startup Lessons](https://tkim.co/2021/02/18/roam-research/)
+  * [롬 리서치(Roam Research)란? 그래프 기반 노트 애플리케이션 | 44BITS](https://www.44bits.io/ko/keyword/roam-research)
 * [Rocketbook | Best Smart Notebook | Cloud Notebook | Reusable Notebook](https://getrocketbook.com/)
   * [전자레인지로 리셋? 자필 메모 저장앱](http://techholic.co.kr/archives/31506)
 * [Snip](https://mix.office.com/Snip) windows only
