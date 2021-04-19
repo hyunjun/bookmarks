@@ -2790,6 +2790,7 @@ Javascript
 * [❄️아주 짧은 코드로 원격 데이터 가져오기 #react #use-http - YouTube](https://www.youtube.com/watch?v=aBNoGQd6eAQ)
 * [2021 리액트 생태계 현황 | sizplay](https://www.sizplay.dev/react/2021-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%83%9D%ED%83%9C%EA%B3%84-%ED%98%84%ED%99%A9/)
 * [공통된 에러핸들링을 위한 http wrapper 함수 제작](https://blog.naver.com/pjt3591oo/222305175450)
+* [Build your own React](https://pomb.us/build-your-own-react/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
