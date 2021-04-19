@@ -1409,6 +1409,7 @@ Programming
 * [Cyclic dependencies are evil | F# for fun and profit](https://fsharpforfunandprofit.com/posts/cyclic-dependencies/)
 * [Parsing Algorithms – Dmitry Soshnikov](http://dmitrysoshnikov.com/courses/parsing-algorithms/)
 * [algorithm - What is the difference between LL and LR parsing? - Stack Overflow](https://stackoverflow.com/questions/5975741/what-is-the-difference-between-ll-and-lr-parsing)
+* [컴파일러는 어떻게 내가 작성한 코드를 인식하는걸까? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/04/18/Formal-Language-and-Compiler.html)
 
 # Conference
 * [calltospeakers.com](https://calltospeakers.com)
