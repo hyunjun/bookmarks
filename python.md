@@ -424,6 +424,7 @@ Python
 * [Start Python #3 Backend Program 만들기 - Class - Kowana's coding](https://www.kowanas.com/coding/2020/12/20/class/)
 * [Common anti-patterns in Python - DeepSource](https://deepsource.io/blog/8-new-python-antipatterns/)
 * [**Building a full-text search engine in 150 lines of Python code · Bart de Goede**](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
+* [내가 쓰고 있는 파이썬 버전과 구현체를 알아봅시다](https://codingdog.tistory.com/entry/%EB%82%B4%EA%B0%80-%EC%93%B0%EA%B3%A0-%EC%9E%88%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%B2%84%EC%A0%84%EA%B3%BC-%EA%B5%AC%ED%98%84%EC%B2%B4%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -1164,6 +1165,7 @@ Python
   * [How to Prepare and Publish Your First Python Package | by Yong Cui, Ph.D. | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/how-to-prepare-and-publish-your-first-python-package-85de378b77f6)
   * [devpi - Python PyPi staging server and packaging, testing, release tool http://doc.devpi.net](https://github.com/devpi/devpi)
     * [practice devpi - private PyPI 서버 구성 및 사용](https://gist.github.com/hyunjun/9b16890cf3e5997cab7dcc183102d184#file-devpi-md)
+  * [Top PyPI Packages: A monthly dump of the 4,000 most-downloaded packages from PyPI](https://hugovk.github.io/top-pypi-packages/)
 * signal
   * [함수가 완료되는데에 너무 오래 걸릴 때, timeout시키기](https://hashcode.co.kr/questions/2203/%ED%95%A8%EC%88%98%EA%B0%80-%EC%99%84%EB%A3%8C%EB%90%98%EB%8A%94%EB%8D%B0%EC%97%90-%EB%84%88%EB%AC%B4-%EC%98%A4%EB%9E%98-%EA%B1%B8%EB%A6%B4-%EB%95%8C-timeout%EC%8B%9C%ED%82%A4%EA%B8%B0)
 * socket
@@ -4400,6 +4402,8 @@ Python
   * [Using Docker Compose to deploy a lightweight Python REST API with a job queue | by Mike Moritz | Medium](https://medium.com/@mike.p.moritz/using-docker-compose-to-deploy-a-lightweight-python-rest-api-with-a-job-queue-37e6072a209b)
   * [FastAPI Authentication Example With OAuth2, JSON Web Tokens and Tortoise ORM - YouTube](https://www.youtube.com/watch?v=6hTRw_HK3Ts)
   * [FastAPI 톺아보기 - 부제: python 백엔드 봄은 온다](https://jybaek.tistory.com/890)
+  * [emoji_rank: This is slack bot for emoji ranking](https://github.com/JAY-Chan9yu/emoji_rank)
+    * [오픈소스 프로젝트를 만들어본 썰 풉니다! (feat. FastAPI, Slack) :: Jay's Code Factory](https://jay-ji.tistory.com/82)
   * [fastapi-boilerplate: FastAPI Boilerplate](https://github.com/teamhide/fastapi-boilerplate)
   * [shopping-mall](https://github.com/jybaek/shopping-mall) basic 예제 + uvicorn
 * mod_wsgi
