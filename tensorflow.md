@@ -952,6 +952,8 @@ TensorFlow
 * [tensortalk.com](https://tensortalk.com/)
 * [tensorwatch - Debugging, monitoring and visualization for Deep Learning and Reinforcement Learning](https://github.com/microsoft/tensorwatch)
 * [texar - Toolkit for Machine Learning, Natural Language Processing, and Text Generation, in TensorFlow https://asyml.io ](https://github.com/asyml/texar)
+* [tfds-korean: A collection of Korean Text Datasets ready to use using Tensorflow-Datasets](https://github.com/jeongukjae/tfds-korean)
+  * [Catalog | tfds-korean](https://jeongukjae.github.io/tfds-korean/)
 * [tf-explain implements interpretability methods as Tensorflow 2.0 callbacks to ease neural network's understanding](https://github.com/sicara/tf-explain)
   * [Introducing tf-explain, Interpretability for TensorFlow 2.0](https://blog.sicara.com/tf-explain-interpretability-tensorflow-2-9438b5846e35)
 * [TFLearn: Deep learning library featuring a higher-level API for TensorFlow](http://tflearn.org/)
