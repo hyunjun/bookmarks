@@ -267,6 +267,7 @@ SQL
 * [팁 MariaDB 사용자별 최대 쿼리 실행 시간 다르게 주기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/tip-mariadb-max-statement-time-per-user)
 * [Authentication Plugin - Unix Socket](https://mariadb.com/kb/en/authentication-plugin-unix-socket/)
 * [ClustrixDB](https://mariadb.com/products/clustrixdb/) distributed RDB
+* Galera [DIAMANTI Use Case : MariaDB with Galera Cluster | by Simon.kim | Mar, 2021 | Medium](https://knk1034.medium.com/diamanti-use-case-mariadb-with-galera-cluster-f921402ff282)
 * [mariadb-cdc로 MariaDB CDC 사용하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/mariadb-cdc-intro)
 * SkySQL [Jacob's Cafe :: 수십억건 데이터 처리를 위한 MariaDB Analytics (SkySQL)](https://calebpro.tistory.com/628)
 * [Testcontainers로 Mariadb 연동 통합 테스트하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/mariadb-integration-test-using-testcontainers)
