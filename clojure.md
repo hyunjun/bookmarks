@@ -35,6 +35,7 @@ Clojure
 * [ClojureScript Podcast](https://clojurescriptpodcast.com/)
 * [The future of Clojure | ThoughtWorks](https://www.thoughtworks.com/podcasts/future-clojure)
 * [A hidden message in Cognicast podcasts](https://grishaev.me/en/cognicast/)
+* [Episode 04 - Clojure by Telia Norway](https://soundcloud.com/telianorway/episode-04-clojure-edition)
 * [Jacek Schae](https://www.jacekschae.com/)
 * [Clojure Memo](http://philoskim.github.io/doc/)
 * [ClojureDocs is a community-powered documentation and examples repository for the Clojure programming language](https://clojuredocs.org/)
@@ -743,6 +744,7 @@ Clojure
 * [devart-codefactory: Create a piece of art using code](https://github.com/postspectacular/devart-codefactory)
 * [docopt.clj: Clojure implementation of the docopt description language](https://github.com/nubank/docopt.clj)
 * [dog-board - A website written in noir](https://github.com/re-noir/dog-board)
+* [doxa - in-memory database](https://github.com/ribelo/doxa/)
 * [Drake is a simple-to-use, extensible, text-based data workflow tool that organizes command execution around data and its dependencies](https://github.com/Factual/drake)
 * [Duckling - a Clojure library that parses text into structured data](https://github.com/wit-ai/duckling)
 * [Duct - Server-side application framework for Clojure](https://github.com/duct-framework/duct)
@@ -1113,6 +1115,7 @@ Clojure
 * [Function Showcase: Interning Vars with Metadata Data in Clojure - YouTube](https://www.youtube.com/watch?v=jky8cKa-wbM)
 * [How to Learn Clojure: The Main Study Stages](https://freshcodeit.com/how-to-stop-being-afraid-of-clojure)
 * [Using Clojure Tools · Practicalli Clojure](https://practicalli.github.io/clojure/clojure-tools/using-clojure-tools.html)
+* [10 life-changing minutes with Clojure (Windows) - DEV Community](https://dev.to/adasomg/10-life-changing-minutes-with-clojure-windows-3ofl)
 
 # Vim
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
