@@ -142,6 +142,7 @@ Vision
 * [TensorFlow’s Object Detection API using Google Collab](https://morioh.com/p/1603795e3746)
 * [How to Build Object Detection APIs Using TensorFlow and Flask](https://morioh.com/p/ac0e2f0c00a7)
 * [How to Build an Object Detection Classifier with TensorFlow 2.0 on Windows/Linux](https://morioh.com/p/6a5f8660ddad)
+* [TFOD 2.0 Custom Object Detection Step By Step Tutorial](https://morioh.com/p/806196d6446f)
 * [Using TensorFlow and the Serverless Framework for deep learning and image recognition](https://serverless.com/blog/using-tensorflow-serverless-framework-deep-learning-image-recognition/)
 * [Computer vision — creating a classifier using convolutions, pooling and TensorFlow | by Eligijus Bujokas | Towards Data Science](https://towardsdatascience.com/computer-vision-creating-a-classifier-using-convolutions-pooling-and-tensorflow-7e75d809acbc)
 * [RandWireNN - Unofficial Implementation of: "Exploring Randomly Wired Neural Networks for Image Recognition"](https://github.com/hebo1221/RandWireNN)
