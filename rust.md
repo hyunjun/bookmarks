@@ -275,6 +275,7 @@
 * [Why You Should Consider Rust for the Next Language You Learn | by Serokell | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/why-you-should-consider-rust-for-the-next-language-you-learn-39652d8e1bbe)
 * [A half-hour to learn Rust - fasterthanli.me](https://fasterthanli.me/articles/a-half-hour-to-learn-rust)
 * [Learning Rust for Beginners – Sequenced Thoughts from C/S](https://elangocheran.com/2021/01/26/learning-rust-for-beginners/)
+* [이 정도 이해하면 rust 언어 사용자라고 할 수도~](https://open-support.tistory.com/entry/%EC%9D%B4-%EC%A0%95%EB%8F%84-%EC%9D%B4%ED%95%B4%ED%95%98%EB%A9%B4-rust-%EC%96%B8%EC%96%B4-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%9D%BC%EA%B3%A0-%ED%95%A0-%EC%88%98%EB%8F%84)
 * [rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
   * 버그 수정하며 Rust 언어 배우기
   * 에러가 있는 코드를 수정하면서 Rust를 읽고 쓰는법 배우기
