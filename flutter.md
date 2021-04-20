@@ -77,6 +77,7 @@ Flutter
 * [2% 부족한 SliverAppBar 완벽하게 사용!! #SliverAppBar #더코딩파파 #Flutter - YouTube](https://www.youtube.com/watch?v=xtdCoe8_pJE)
 * [Flutter Equatable 플러그인 사용하기 - YouTube](https://www.youtube.com/watch?v=9-FGJHTRRW0)
 * ['CocoaPods not installed or not in valid state' 오류 해결하기](https://www.androidhuman.com/2021-04-18-flutter_cocoapods_not_installed_or_not_in_valid_state)
+* [Flutter Freezed 안써도 알고는 갑시다 - YouTube](https://www.youtube.com/watch?v=i5p6wXLAX7I)
 
 # Dart
 * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
