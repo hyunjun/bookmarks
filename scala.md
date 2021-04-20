@@ -1836,6 +1836,7 @@ Scala
 * [Scala.js + Snowpack + Scalablytyped tutorial - YouTube](https://www.youtube.com/watch?v=EiGGfH5hMMA)
 * [The importance of Scala.js](https://www.scalawilliam.com/importance-scalajs/)
 * [Deriving the Frontend — Form Combinator Fun with Scala.js - YouTube](https://www.youtube.com/watch?v=JHriftPO62I)
+* [Best Features of Scala 3 for Scala.js | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=llGtGd4qux0)
 * [Laminar · Simple, expressive, and safe UI library for Scala.js](https://laminar.dev/)
   * [Hands-on Laminar | by Rafał Zelek | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/hands-on-laminar-354ddcc536a9)
 * [ScalablyTyped - The Javascript ecosystem for Scala.js!](https://github.com/oyvindberg/ScalablyTyped)
