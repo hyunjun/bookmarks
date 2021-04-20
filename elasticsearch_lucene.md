@@ -416,6 +416,7 @@ ElasticSearch - Lucene
 * [**엑셀 피벗 테이블을 ElasticSearch와 Kibana로 만들어 보자**](https://engineering.linecorp.com/ko/blog/excel-to-elastic/)
 * [ELK 통합 로그 시스템을 활용한 IT보안 활용 추천 책 소개!!!](https://www.youtube.com/watch?v=vo_O7pWAM60)
 * [**오래된 Legacy 기술을 만났을 때 우리가 대처하는 방법, 무정지 서비스로 ELK 신규 노드 증설하는 삽질 경험**](https://blog.naver.com/tmondev/222152137673)
+* [ELK란? Dable에서의 ELK 활용 소개 | Dable Tech Blog](https://teamdable.github.io/techblog/introduce-ELK)
 
 # Go
 * [go-elasticsearch - The official Go client for Elasticsearch](https://github.com/elastic/go-elasticsearch)
