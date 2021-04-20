@@ -535,6 +535,7 @@ Data Science
 * [Ondrej Kokes - High Performance Data Loss | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=hoaMzebS_l4)
 * [Data Science With Python | Python For Data Science | Data Science For Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=SJT4ZyLxIE0)
 * [python 데이터 분석 실습 코로나 19 2021 현재 시점 분석하기 1편](https://stricky.tistory.com/457)
+* [CC-hurricane-analysis-project: A simple project with several functions that organize and manipulate data about Category 5 Hurricanes](https://github.com/giacomosx/CC-hurricane-analysis-project)
 
 ## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
