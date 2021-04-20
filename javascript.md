@@ -3358,6 +3358,8 @@ Javascript
 * [ReScript Documentation](https://rescript-lang.org/)
   * [ReScript in Korean](https://green-labs.github.io/rescript-in-korean/)
   * [(2) 그린랩스 ReScript 부트캠프 | LinkedIn](https://www.linkedin.com/pulse/%EA%B7%B8%EB%A6%B0%EB%9E%A9%EC%8A%A4-rescript-%EB%B6%80%ED%8A%B8%EC%BA%A0%ED%94%84-sungmin-yang/)
+  * [005. 그린랩스(Greenlabs) | One day dev](https://one-day.dev/post/005-greenlabs/)
+  * [One day dev / 하루개발 – 그린랩스(GreenLabs) 편 - YouTube](https://www.youtube.com/watch?v=_CtZ8wegTJM)
 * [Component Typing in React](https://hyunseob.github.io/2018/07/15/component-typing-in-react/)
 * [타입스크립트 3.0](https://engineering.huiseoul.com/%ED%83%80%EC%9E%85%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-3-0-99e5d45ec439)
 * [타입스크립트 모노레포](https://blog.bglee.me/posts/2018/typescript-monorepo/)
