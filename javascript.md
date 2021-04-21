@@ -427,6 +427,7 @@ Javascript
 * [CORS A to Y. 원티드에서 운영 이슈를 처리하면서 만났던 CORS 이슈에 대해 자세히… | by YeonSeo Woo | 원티드 제품 팀블로그 | Sep, 2020 | Medium](https://medium.com/wantedjobs/cors-a-to-y-28cc0b16349d)
 * [Why we need to know about CORS? | Evans Library](https://evan-moon.github.io/2020/05/21/about-cors/en/)
 * [Understanding CORS. Understanding CORS | by akshay sinha | Medium](https://medium.com/@akshaysin_86681/understanding-cors-93ddf18d32d6)
+* [CORS란? CORS 문제 해결하기](https://open-support.tistory.com/entry/CORS%EB%9E%80-CORS-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [메모리 크래시가 일어나는 과정](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
