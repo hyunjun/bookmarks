@@ -617,6 +617,7 @@ Programming Books
   * 탐라 문004.73 정17ㅁ
 * (NOT YET) [캐글 가이드 전 세계 데이터 과학자와 소통하고, 경쟁하고, 성장하기 | 동양북스](http://www.dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general_it&goods_code=2656)
 * [파이썬으로 시작하는 캐글](https://jpub.tistory.com/1141) kaggle
+* (NOT YET) [주머니 속의 머신러닝](https://jpub.tistory.com/1148) kaggle
 * (NOT YET) [패턴 인식과 머신 러닝](http://jpub.tistory.com/831)
 * (NOT YET) [파이썬으로 배우는 머신러닝의 교과서 - 그림으로 이해하고 코드로 확인하는 머신러닝, 딥러닝 기초](http://www.hanbit.co.kr/store/books/look.php?p_code=B8718279503)
   * [파이썬으로 배우는 머신러닝 교과서](https://jybaek.tistory.com/774)
