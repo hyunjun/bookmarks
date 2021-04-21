@@ -99,7 +99,6 @@
 * [6 useful Rust macros that you might not have seen before](https://blog.usejournal.com/6-useful-rust-macros-that-you-might-not-have-seen-before-59d1386f7bc5)
 * [10 Key Learnings in Rust after 30,000 Lines of Code](https://medium.com/@jondot/my-key-learnings-after-30-000-loc-in-rust-a553e6403c19)
 * [Declarative Programming in Rust](https://www.youtube.com/watch?v=Des3zZuTbhk)
-* [Rust, WebAssembly, and Javascript Make Three: An FFI Story](https://www.youtube.com/watch?v=nvLw_XKlZaU)
 * [Why is Rust slightly slower than C?](https://github.com/ixy-languages/ixy-languages/blob/master/Rust-vs-C-performance.md)
 * [What are the benchmarks of Golang vs. Rust?](https://www.quora.com/What-are-the-benchmarks-of-Golang-vs-Rust)
 * [Will Rust become mainstream language?](https://www.quora.com/Will-Rust-become-mainstream-language)
@@ -110,8 +109,6 @@
 * [github.com/leechanwoo/APSS/tree/master/rust](https://github.com/leechanwoo/APSS/tree/master/rust)
 * [Why Should You Learn Rust?](https://medium.com/better-programming/why-rust-d52516e70ab8)
 * [5 reasons why Rust is the future. If you are looking for some kind of… | by Francesco Gadaleta | Medium](https://frag.medium.com/5-reasons-why-rust-is-the-future-3e23adf0803b)
-* [Snake Game With Rust, JavaScript, and WebAssembly](https://medium.com/@geekrodion/snake-game-with-rust-javascript-and-webassembly-5e22b357ec7b)
-* [Snake Game With Rust, JavaScript, and WebAssembly | Part 2](https://medium.com/swlh/snake-game-with-rust-javascript-and-webassembly-part-2-9d729b87c186)
 * [Rust Adventures — From Java Class to Rust Struct](https://medium.com/analytics-vidhya/rust-adventures-from-java-class-to-rust-struct-1d63b66890cf)
 * [Cross-compile Rust programs to run on Turris Omnia](https://itnext.io/cross-compile-rust-programs-to-run-on-turris-omnia-e592b555e2aa)
 * [Graph & Tree Traversals in Rust - The Data Dump - Medium](https://medium.com/the-data-dump/graph-tree-traversals-in-rust-3c9c93a0feba)
@@ -196,7 +193,6 @@
 * [Plumbum (latin for lead) is a port of Michael Snoyman's excellent conduit library. It allows for production, transformation, and consumption of streams of data in constant memory](https://srijs.de/rust-plumbum/plumbum/)
 * [polars: Rust DataFrame library](https://github.com/ritchie46/polars)
   * [I wrote one of the fastest DataFrame libraries | Ritchie Vink](https://www.ritchievink.com/blog/2021/02/28/i-wrote-one-of-the-fastest-dataframe-libraries/)
-* [Pont - A multiplayer board game in Rust and WebAssembly](http://www.mattkeeter.com/projects/pont/)
 * RDBC [Rust Database Connectivity (RDBC)](https://andygrove.io/2020/01/rust-database-connectivity-rdbc/)
 * [Redox - Your Next(Gen) OS - Redox - Your Next(Gen) OS](https://www.redox-os.org/)
   * [Redox: A Rust Operating System https://redox-os.org](https://github.com/jackpot51/redox)
@@ -282,3 +278,10 @@
   * 컴파일 또는 테스트 에러가 나는 여러개의 카테고리 별 연습들로 구성 : 변수, 문자열, 쓰레드, Trait, 모듈, 펑션, 에러처리 등
   * watch 기능으로 폴더의 파일을 수정하면 자동으로 결과가 확인되고, 중간에 hint 도 보면서 진행가능
   * 컴파일 에러시 rustc --explain E0282 처럼 관련 설명을 보라는 문구 출력
+
+# WebAssembly
+* [Rust, WebAssembly, and Javascript Make Three: An FFI Story](https://www.youtube.com/watch?v=nvLw_XKlZaU)
+* [Snake Game With Rust, JavaScript, and WebAssembly](https://medium.com/@geekrodion/snake-game-with-rust-javascript-and-webassembly-5e22b357ec7b)
+* [Snake Game With Rust, JavaScript, and WebAssembly | Part 2](https://medium.com/swlh/snake-game-with-rust-javascript-and-webassembly-part-2-9d729b87c186)
+* [Rust를 WebAssembly로 컴파일하기](https://open-support.tistory.com/entry/Rust%EB%A5%BC-WebAssembly%EB%A1%9C-%EC%BB%B4%ED%8C%8C%EC%9D%BC%ED%95%98%EA%B8%B0)
+* [Pont - A multiplayer board game in Rust and WebAssembly](http://www.mattkeeter.com/projects/pont/)
