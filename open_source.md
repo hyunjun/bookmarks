@@ -161,10 +161,6 @@ Open Source
   * [Apps Script](https://m.blog.naver.com/gsuite-reseller/221534792390)
 * [gSubFolder](http://d.gfolder.net/gsubfolder)
 * [Guetzli - 구글의 오픈소스 JPEG 인코더 Guetzli](http://tmondev.blog.me/220960502049)
-* lighthouse
-* [web.dev/learn/#lighthouse](https://web.dev/learn/#lighthouse)
-  * [Lighthouse와 ChatOps 인터페이스를 이용한 웹사이트 성능 추적하기 | by André Tito Vasconcelos | 원티드 제품 팀블로그 | Mar, 2021 | Medium](https://medium.com/wantedjobs/lighthouse-slack-chatops-7e6184f5bd93)
-    * [wanteddev/lighthouse: Chatbot to run Lighthouse audits from Slack](https://github.com/wanteddev/lighthouse)
 * [PAIR (People + AI Research initiative)](https://www.facebook.com/nextobe1/posts/344322002670468)
 * [tink - Tink is a multi-language, cross-platform, open source library that provides cryptographic APIs that are secure, easy to use correctly, and hard(er) to misuse](https://github.com/google/tink)
 

@@ -865,7 +865,11 @@ Web
 * [Apdex Score 그것이 알고싶다.. 개요 | by Jeongsk | 원티드 제품 팀블로그 | Mar, 2021 | Medium](https://medium.com/wantedjobs/apdex-score-%EA%B7%B8%EA%B2%83%EC%9D%B4-%EC%95%8C%EA%B3%A0%EC%8B%B6%EB%8B%A4-bfdd27b8089d)
 * [cryload - HTTP benchmarking tool written in Crystal](https://github.com/Sdogruyol/cryload)
 * Lighthouse
+  * [web.dev/learn/#lighthouse](https://web.dev/learn/#lighthouse)
+  * [Lighthouse와 ChatOps 인터페이스를 이용한 웹사이트 성능 추적하기 | by André Tito Vasconcelos | 원티드 제품 팀블로그 | Mar, 2021 | Medium](https://medium.com/wantedjobs/lighthouse-slack-chatops-7e6184f5bd93)
+    * [wanteddev/lighthouse: Chatbot to run Lighthouse audits from Slack](https://github.com/wanteddev/lighthouse)
   * [How to analyze website performance with Lighthouse Audit website performance manually, programmatically, or automatically](https://medium.freecodecamp.org/three-ways-to-analyze-website-performance-with-lighthouse-8d100966c04b)
+  * [웹 퍼포먼스 개선을 위한 Lighthouse CI 도입기 – DRAMA&COMPANY](https://blog.dramancompany.com/2021/04/%ec%9b%b9-%ed%8d%bc%ed%8f%ac%eb%a8%bc%ec%8a%a4-%ea%b0%9c%ec%84%a0%ec%9d%84-%ec%9c%84%ed%95%9c-lighthouse-ci-%eb%8f%84%ec%9e%85%ea%b8%b0/)
   * [web-performance-test: lighthouse 자동화 스크립트](https://github.com/sangheon-kim/web-performance-test)
 * [wrk - a HTTP benchmarking tool](https://github.com/wg/wrk)
   * installation `make`; worked on Redhat 6.6/7.2
