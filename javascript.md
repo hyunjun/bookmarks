@@ -2793,6 +2793,7 @@ Javascript
 * [2021 리액트 생태계 현황 | sizplay](https://www.sizplay.dev/react/2021-%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%83%9D%ED%83%9C%EA%B3%84-%ED%98%84%ED%99%A9/)
 * [공통된 에러핸들링을 위한 http wrapper 함수 제작](https://blog.naver.com/pjt3591oo/222305175450)
 * [Build your own React](https://pomb.us/build-your-own-react/)
+* [react에서 fullpage v2 사용하기](https://velog.io/@juunini/react%EC%97%90%EC%84%9C-fullpage-v2-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
