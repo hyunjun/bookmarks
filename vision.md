@@ -599,6 +599,7 @@ Vision
 * ['jetson_nano_opencv_oct' 태그의 글 목록](https://www.g.camp/tag/jetson_nano_opencv_oct)
 * [Machine Learning Attack Series: Image Scaling Attacks · wunderwuzzi blog](https://embracethered.com/blog/posts/2020/husky-ai-image-rescaling-attacks/)
 * [Dance on Human Pose Estimation Using Artificial Intelligence - Genial Code](https://genial-code.com/dance-on-human-pose-estimation-using-artificial-intelligence/)
+* [Dominating an Online Game with Object Detection Using OpenCV - Template Matching. - YouTube](https://www.youtube.com/watch?v=vXqKniVe6P8)
 
 # OpenGL
 * [open.gl](https://open.gl/)
