@@ -55,6 +55,8 @@ Bitcoin
 * [NFT, social token. 그리고, Creator Economy에서의 새로운 기회 | by 허진호 (Jin Ho Hur) | Mar, 2021 | Medium](https://hur.medium.com/nft-social-token-%EA%B7%B8%EB%A6%AC%EA%B3%A0-creator-economy%EC%97%90%EC%84%9C%EC%9D%98-%EA%B8%B0%ED%9A%8C-f8a6bf6d7a0)
 * [• Bitcoin vs. VISA energy consumption 2021 | Statista](https://www.statista.com/statistics/881541/bitcoin-energy-consumption-transaction-comparison-visa/)
 * [블록체인 저장을 뭐..? 비트코인 외계어 쉽게 이해하기](https://brunch.co.kr/@businessinsight/72)
+* [ethereum ERC721을 이용한 NFT 만들기 - 1편](https://blog.naver.com/pjt3591oo/222317130702)
+* [ethereum ERC721을 이용한 NFT 만들기 - 2편](https://blog.naver.com/pjt3591oo/222317592157)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
