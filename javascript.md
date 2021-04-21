@@ -1604,6 +1604,8 @@ Javascript
   * [Introduction to Svelte actions - Singapore JS - YouTube](https://www.youtube.com/watch?v=YPX3KvvgDtQ)
   * [Flying Monocopter](https://flyingmonocopter.github.io/tags/svelte/)
   * [svelte-weather: 서울시 월별 평균 강수량 (1961~2020) 을 시각화한 자료](https://github.com/huskyhoochu/svelte-weather)
+  * [SvelteKit • The fastest way to build Svelte apps](https://kit.svelte.dev/)
+    * [Accessibility.kr에 스벨트킷 적용 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/874)
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
 * [SweetAlert](https://sweetalert.js.org/)
 * [SweetAlert2 - a beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes](https://sweetalert2.github.io/)
