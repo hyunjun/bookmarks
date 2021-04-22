@@ -1532,6 +1532,8 @@ App
   * [WSL Python & Jupyter notebook 설치 - 미완성의신](https://unfinishedgod.netlify.app/2021/03/26/wsl-python-jupyter-notebook-%EC%84%A4%EC%B9%98/)
   * [GWSL-Source: The actual code for GWSL. And some premade binaries](https://github.com/Opticos/GWSL-Source) python
   * [WSL-DistroManager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://github.com/rkttu/WSL-DistroManager)
+  * [WSLg Architecture | Windows Command Line](https://devblogs.microsoft.com/commandline/wslg-architecture/)
+    * [Introducing Linux GUI apps running on Windows using the Windows Subsystem for Linux (WSL) - YouTube](https://www.youtube.com/watch?v=f8_nvJzuaSU)
   * [WSL-Hello-sudo: Let's sudo by face recognition of Windows Hello on Windows Subsystem for Linux (WSL). It runs on both WSL 1 and WSL 2. This is a PAM module for Linux on WSL](https://github.com/nullpo-head/WSL-Hello-sudo)
   * [WSL Manager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://wslhub.com/)
     * [wsl-firststep: WSL을 설치하면서 처음에 하는 일들을 모아놓은 리포지터리입니다](https://github.com/rkttu/wsl-firststep)
