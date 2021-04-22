@@ -196,6 +196,7 @@
 * RDBC [Rust Database Connectivity (RDBC)](https://andygrove.io/2020/01/rust-database-connectivity-rdbc/)
 * [Redox - Your Next(Gen) OS - Redox - Your Next(Gen) OS](https://www.redox-os.org/)
   * [Redox: A Rust Operating System https://redox-os.org](https://github.com/jackpot51/redox)
+  * [Redox OS, "레독스OS" 라고 Rust로 작성된 OS](https://open-support.tistory.com/entry/Redox-OS-%EB%A0%88%EB%8F%85%EC%8A%A4OS-%EB%9D%BC%EA%B3%A0-Rust%EB%A1%9C-%EC%9E%91%EC%84%B1%EB%90%9C-OS)
 * [Rocket - a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety](https://rocket.rs/)
   * [Rocket: Web Servers in Rust!. Welcome back to our series on building… | by James Bowen | Medium](https://medium.com/@james_32022/rocket-web-servers-in-rust-46d862bb3514)
 * [rsedis - Redis re-implemented in Rust](https://github.com/seppo0010/rsedis)
