@@ -2039,6 +2039,8 @@ Javascript
 * [학교 인트라넷 프로젝트: 수정과 개발기](https://blog.skylightqp.kr/289)
 * [📥슬랙으로 알림 받기 - YouTube](https://www.youtube.com/watch?v=TE6FHGLwpbs)
   * [slack](https://okdevtv.com/mib/slack)
+* [42slack-bot](https://github.com/innovationacademy-kr/42slack-bot)
+  * [📥슬랙 봇 만들기 #1 - YouTube](https://www.youtube.com/watch?v=QUt-52U9nR4)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
