@@ -924,6 +924,8 @@ Clojure
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
 * [scicloj.ml - Proposal for a Clojure machine learning library](https://github.com/scicloj/scicloj.ml)
 * [Selmer](https://github.com/yogthos/Selmer) template
+* [sequence: Immutable, scalable, and easy to use ledger service](https://github.com/runopsio/sequence)
+  * [Things I Wish I Knew Before Building a Ledger - Decimals Blog](https://decimals.substack.com/p/things-i-wish-i-knew-before-building)
 * [sereno: An open-source uptime monitoring application built on JVM (using Clojure & ClojureScript) with PostgreSQL as a single external dependency](https://github.com/sereno-xyz/sereno)
 * [shadow-git-inject: A shadow-cljs build hook that computes the "version" at build-time - from the ambient git context (latest tag?)](https://github.com/day8/shadow-git-inject)
 * [shrubbery - A stubbing, spying, and mocking library for Clojure protocols](https://github.com/bguthrie/shrubbery)
