@@ -1647,6 +1647,7 @@ Programming
 * [꿀벌개발일지 :: Salted Hashes vs. HMAC](https://ohgyun.com/801)
 * [Application Level Encryption for Software Architects](https://www.infoq.com/articles/ale-software-architects)
 * [생체 정보를 활용한 안전한 로그인, passwordless LINE 프로젝트를 소개합니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/secure-line-login-biometric-key/)
+* [path traversal 공격 : 사용자의 입력을 믿으면 어떻게 될까요?](https://codingdog.tistory.com/entry/path-traversal-%EA%B3%B5%EA%B2%A9-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-%EC%9E%85%EB%A0%A5%EC%9D%84-%EB%AF%BF%EC%9C%BC%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%A0%EA%B9%8C%EC%9A%94)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
