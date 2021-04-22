@@ -79,6 +79,7 @@ Flutter
 * ['CocoaPods not installed or not in valid state' 오류 해결하기](https://www.androidhuman.com/2021-04-18-flutter_cocoapods_not_installed_or_not_in_valid_state)
 * [Flutter Freezed 안써도 알고는 갑시다 - YouTube](https://www.youtube.com/watch?v=i5p6wXLAX7I)
 * [Flutter Bloc 어렵지 않습니다 Part 1 - State, Event, Model, Repository - YouTube](https://www.youtube.com/watch?v=xlmkMF5kVvA)
+* [Flutter Bloc 어렵지 않습니다 Part 2 - Bloc Logic - YouTube](https://www.youtube.com/watch?v=B0yLnMi7NCc)
 
 # Dart
 * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
