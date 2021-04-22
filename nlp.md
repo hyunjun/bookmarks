@@ -948,6 +948,7 @@ NLP
 * [CLaF: Clova Language Framework https://naver.github.io/claf ](https://github.com/naver/claf)
 * [Compact Language Detector 2](https://github.com/CLD2Owners/cld2)
 * [ConceptNet - a multilingual knowledge base, representing words and phrases that people use and the common-sense relationships between them](https://github.com/commonsense/conceptnet5/wiki)
+* [coreferee: Coreference resolution for English, German and Polish, optimised for limited training data and easily extensible for further languages](https://github.com/msg-systems/coreferee)
 * Cubism
   * [SF Scala: Enhancing Spark's Power with ZIO, Qubism and NLP at Scale, Using Nix for Haskell](https://www.youtube.com/watch?v=Ov7WZroBkv0)
 * [Daon 형태소 분석기](https://github.com/rasoio/daon)
