@@ -80,6 +80,7 @@ Flutter
 * [Flutter Freezed 안써도 알고는 갑시다 - YouTube](https://www.youtube.com/watch?v=i5p6wXLAX7I)
 * [Flutter Bloc 어렵지 않습니다 Part 1 - State, Event, Model, Repository - YouTube](https://www.youtube.com/watch?v=xlmkMF5kVvA)
 * [Flutter Bloc 어렵지 않습니다 Part 2 - Bloc Logic - YouTube](https://www.youtube.com/watch?v=B0yLnMi7NCc)
+* [Flutter Bloc 어렵지 않습니다 Part 3 - UI, Cubit - YouTube](https://www.youtube.com/watch?v=eb5uhRhDD24)
 
 # Dart
 * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
