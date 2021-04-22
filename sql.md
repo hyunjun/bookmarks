@@ -356,6 +356,7 @@ SQL
     * [2. 페이징 성능 개선하기 - 커버링 인덱스 사용하기](https://jojoldu.tistory.com/529)
     * [3-1. 페이징 성능 개선하기 - 검색 버튼 사용시 페이지 건수 고정하기](https://jojoldu.tistory.com/530)
     * [3-2. 첫 페이지 조회 결과 cache 하기](https://jojoldu.tistory.com/531)
+    * [MySQL IN절을 통한 성능 개선 방법](https://jojoldu.tistory.com/565) 범위 조건에서는 인덱스 효과를 제대로 보지 못함 -> IN은 기존의 MySQL 이 가지고 있던 범위 조건의 비효율 회피
   * [practice - create insert recursive union](https://gist.github.com/hyunjun/17e9b03a1b0faa38c662#file-create_insert_recursive_union-md)
   * SHOW
     * `show [full] processlist` [터미널에서 쿼리 전체 보기](https://jybaek.tistory.com/823)
