@@ -2705,6 +2705,7 @@ Programming
 * [테스트 코드 없이 레거시 코드를 다 감수하시겠습니까?](http://woowabros.github.io/experience/2019/02/27/Working_Effectively_with_Legacy_Code.html)
 * [드라마 QA팀이 하는 일](http://blog.dramancompany.com/2019/03/%EB%93%9C%EB%9D%BC%EB%A7%88-qa%ED%8C%80%EC%9D%B4-%ED%95%98%EB%8A%94-%EC%9D%BC/)
 * [이동한님 Software QA 완벽한 SW는 없다! - YouTube](https://www.youtube.com/watch?v=zaI59OJCA3s)
+* [LINE의 QA는 어떻게 일할까? - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-line-qa/)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [Introduction to Test Driven Development (TDD)](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92)
 * ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다](https://repo.yona.io/doortts/blog/issue/1)
