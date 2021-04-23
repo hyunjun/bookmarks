@@ -259,6 +259,7 @@ Linux
 * [(리눅스 업스킬 도전 #15) 우분투 패키지 저장소 추가하기](https://jhrogue.blogspot.com/2020/10/15.html)
 * [(리눅스 업스킬 도전 #21-a) 우분투에서 한국어 로케일을 사용하려면 어떻게 해야 하나요?](https://jhrogue.blogspot.com/2020/10/21.html)
 * [Ubuntu의 apt-get 명령어 정리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/346)
+* [우분투에 최신 버전 노드 설치하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/875)
 
 # Automation
 * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
