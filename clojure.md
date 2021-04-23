@@ -1038,6 +1038,7 @@ Clojure
 * [Agile & Coding: Test Driven Development Deluxe](https://davidvujic.blogspot.com/2021/02/test-driven-development-deluxe.html)
 * [Automatically generated API tests with Clojure and Reitit - /dev/solita](https://dev.solita.fi/2021/03/05/automatically-generated-api-tests-with-clojure-and-reitit.html)
 * [would clojure.test benefit from `(defmethod assert-expr thrown-with-data? ...)` - Clojure Q&A](https://ask.clojure.org/index.php/10468/would-clojure-test-benefit-from-defmethod-assert-expr-thrown)
+* [Clojure: automated property-based tests for complicated inputs | by Yulia Kleb | AppsFlyer | Medium](https://medium.com/appsflyer/clojure-automated-property-based-tests-for-complicated-inputs-786de23de8f0)
 * [bond: spying for tests](https://github.com/circleci/bond)
 * [cprop-order - Test load-config order](https://github.com/eunmin/cprop-order)
 * [endpoint-check](https://github.com/k8s-study/endpoint-check/blob/master/README.md) ping test micro service 를 clojure httpkit 으로 구현, Kubernetes로 배포
