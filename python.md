@@ -3637,6 +3637,7 @@ Python
   * [Python Serverless Microframework, Chalice 사용하기, 08](https://lee-seul.github.io/python/backend/2018/05/18/python-serverless-microframework-08.html)
 * [Nirum: IDL compiler and RPC/distributed object framework for microservices http://nirum.org ](https://github.com/spoqa/nirum)
   * [니름: 쉬운 SOA 단위 테스트](https://www.slideshare.net/kanghyojun/soa-78799290)
+* [**opyrator: 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more**](https://github.com/ml-tooling/opyrator)
 * [Somata - a protocol and framework for building software on a network of connected microservices](http://somata.github.io/)
   * [github.com/somata](https://github.com/somata)
 
