@@ -1761,6 +1761,7 @@ Javascript
   * [NPM에 자신의 라이브러리 배포하기](https://dev-yakuza.github.io/ko/share/deploy-npm-library/)
   * [How to fix NPM error “Unable to authenticate, need: Bearer Authentication_URI” in NodeJS | by Bryant Jimin Son | Sep, 2020 | Medium](https://medium.com/@bryantjiminson/how-to-fix-npm-error-unable-to-authenticate-need-bearer-authentication-uri-in-nodejs-4aab94b3f2cd)
   * [**꿀벌개발일지 :: npm registry 를 찾지 못하는 이슈**](https://ohgyun.com/804)
+  * [Mac OS 업데이트 후, NPM install시 gyp 오류날 경우](https://jojoldu.tistory.com/566)
 * [pnpm: a Space-Efficient JavaScript Package Manager](https://www.infoq.com/news/2020/06/pnpm-javascript-package-manager/)
 * [Snowpack - Build web applications with less tooling and 10x faster iteration](https://www.snowpack.dev/)
   * [Introducing Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
