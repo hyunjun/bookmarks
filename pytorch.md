@@ -190,6 +190,7 @@ PyTorch
 * [Pytorch - 철강 불량 확인하기(feat K-Means, GMM)](https://blog.naver.com/jk96491/222286881935)
 * [AI 아이돌 교차편집 프로그램 :: 구름 저장고](https://dizwe.tistory.com/27)
   * [Tobigs-team/Cross-Cutting: 제 10회 투빅스 컨퍼런스 AI 아이돌 교차편집](https://github.com/Tobigs-team/Cross-Cutting)
+* [PyTorch Focal Loss :: 까먹을까봐 적어놓는 블로그](https://lattice378.tistory.com/16)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
