@@ -475,6 +475,8 @@ Data Visualization
   * [시계열데이터 시각화에 좋은 선그래프 lineplot 그리기](https://www.youtube.com/watch?v=GJM1QXwXtEw)
   * [데이터 시각화 seaborn 라이브러리 실습 해보기 feat.lmplot](https://stricky.tistory.com/124)
   * [파이썬으로 점심식사, 교과목 이수, 부모학력, 인종에 따른 시험 성적 데이터 분석 하기 feat.seaborn.catplot](https://stricky.tistory.com/149)
+  * [코로나 19 2021 현재 시점 분석하기 1편](https://stricky.tistory.com/457)
+  * [코로나 19 2021 현재 시점 데이터 동적 시각화 분석하기 2편](https://stricky.tistory.com/462)
   * [Seaborn 튜토리얼 번역 #1장 Visualizing statistical relationships](https://data101.tistory.com/6)
   * [Ridgeline Plot | Pega Devlog](https://jehyunlee.github.io/2020/09/07/Python-DS-30-mpl_dists/)
   * [Seaborn 0.11 Quick Review | Pega Devlog](https://jehyunlee.github.io/2020/09/09/Python-DS-31-seaborn_upgrade/)
