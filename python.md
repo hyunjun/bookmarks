@@ -3413,7 +3413,8 @@ Python
   * [Jupyter notebook support - Help | PyCharm](https://www.jetbrains.com/help/pycharm/jupyter-notebook-support.html)
     * [Are you still using JupyterLab?. There is a new premium product in the… | by Roman Orac | Towards Data Science](https://towardsdatascience.com/are-you-still-using-jupyterlab-ce1a4339c0a9)
   * Photonai [21 Techniques to Write Better Code | by Bruce H. Cottman, Ph.D. | The Startup | Medium](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
-* [Home — Spyder IDE](https://www.spyder-ide.org/)
+* [Sourcery | Automatically Improve Python Code Quality](https://sourcery.ai/) Instant Python refactoring
+* [Spyder IDE](https://www.spyder-ide.org/)
 * [Thonny - Python IDE for beginners](http://thonny.org/)
   * [Learn to code with Thonny — a Python IDE for beginners](https://fedoramagazine.org/learn-code-thonny-python-ide-beginners)
   * [Thonny - 초보자를 위한 Python IDE | GeekNews](https://news.hada.io/topic?id=3548)
