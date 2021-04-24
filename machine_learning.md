@@ -451,15 +451,6 @@ Machine Learning
 * [초짜 대학원생의 입장에서 이해하는 The Marginal Value of Adaptive Gradient Methods in Machine Learning (2)](http://jaejunyoo.blogspot.com/2017/06/marginal-value-of-adaptive-gradient-methods-in-ML2.html)
 * [Machine - June 2017 Preview](https://www.youtube.com/watch?v=N9q9qacAKoM) Machine Learning IDE
 * [음성/음악신호+머신러닝 초심자를 위한 가이드](http://keunwoochoi.blogspot.com/search?q=%EC%9D%8C%EC%95%85%EC%8B%A0%ED%98%B8+%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D+%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC+%EC%9C%84%ED%95%9C+%EA%B0%80%EC%9D%B4%EB%93%9C&max-results=20&by-date=true)
-* [Io17ex automl & autodraw](https://www.slideshare.net/taeyounglee1447/io17ex-automl-autodraw)
-* [Introducing AdaNet: Fast and Flexible AutoML with Learning Guarantees](https://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html)
-* [AdaNet 소개: 학습 보장을 이용한 빠르고 유연한 AutoML](https://developers-kr.googleblog.com/2019/01/introducing-adanet-fast-and-flexible.html)
-* [An Opinionated Introduction to AutoML and Neural Architecture Search](https://www.fast.ai/2018/07/16/auto-ml2/)
-* [AutoML Automatic Machine Learning Challenge & Lessons](http://slides.com/streguer/automl/fullscreen)
-* [AutoML](http://khanrc.github.io/tags/#AutoML)
-* [How to Beat Google’s AutoML - Hyperparameter Optimisation with Flair](https://towardsdatascience.com/how-to-beat-automl-hyperparameter-optimisation-with-flair-3b2f5092d9f5)
-* [automl-gs Provide an input CSV and a target field to predict, generate a model + code to run it](https://github.com/minimaxir/automl-gs)
-* [이미지 분류 모델 AutoML 파이프라인. 이미지 분류 모델 AutoML 활용하기 | by Yoo Gyoungyoon | 당근마켓 팀블로그 | Dec, 2020 | Medium](https://medium.com/daangn/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8-automl-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-68beb1ff15bf)
 * [개발자가 AI를 더 쉽게 빌드하고 배포할 수 있도록 Google Cloud AI가 확장해나가고 있습니다](https://developers-kr.googleblog.com/2019/06/unlocking-the-power-of-ai-with-solutions-designed-for-every-enterprise.html)
 * [Embrace Randomness in Machine Learning](http://machinelearningmastery.com/randomness-in-machine-learning/)
 * [RuleFit - 정확성과 설명성을 모두 만족하는 모델](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/340810176354984)
@@ -649,6 +640,7 @@ Machine Learning
 * [Cannes: How ML saves us $1.7M a year on document previews - Dropbox](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
 * [머신러닝 모델링의 흔한 실수들 | Pega Devlog](https://jehyunlee.github.io/2021/02/24/Python-DS-62-mistakes/)
 * [지루하지 않게 코노미 사진 4만장 어노테이션하기 (머신러닝과 함께) | by Doyoung Gwak | 네이버 플레이스 개발 블로그 | Medium](https://medium.com/naver-place-dev/%EC%A7%80%EB%A3%A8%ED%95%98%EC%A7%80-%EC%95%8A%EA%B2%8C-%EC%BD%94%EB%85%B8%EB%AF%B8-%EC%82%AC%EC%A7%84-4%EB%A7%8C%EC%9E%A5-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EA%B3%BC-%ED%95%A8%EA%BB%98-619c60f8a071)
+* [머신러닝 프로젝트를 '레벨 업'시킬 수 있는 8가지 방법 - CIO Korea](https://www.ciokorea.com/news/188798)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -659,6 +651,20 @@ Machine Learning
 * [데이터에 숨은 통찰력을 발견하라](https://www.imaso.co.kr/news/article_view.php?article_idx=20151005115357)
 * [mlstudy2019 2019년 머신러닝 스터디 모임](https://github.com/awskrug/mlstudy2019)
 * [Develop and sell a Machine Learning app — from start to end tutorial | by Daniel Deutsch | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/develop-and-sell-a-machine-learning-app-from-start-to-end-tutorial-ed5b5a2b6b2b)
+
+# AutoML
+* [Io17ex automl & autodraw](https://www.slideshare.net/taeyounglee1447/io17ex-automl-autodraw)
+* [Introducing AdaNet: Fast and Flexible AutoML with Learning Guarantees](https://ai.googleblog.com/2018/10/introducing-adanet-fast-and-flexible.html)
+* [AdaNet 소개: 학습 보장을 이용한 빠르고 유연한 AutoML](https://developers-kr.googleblog.com/2019/01/introducing-adanet-fast-and-flexible.html)
+* [An Opinionated Introduction to AutoML and Neural Architecture Search](https://www.fast.ai/2018/07/16/auto-ml2/)
+* [AutoML Automatic Machine Learning Challenge & Lessons](http://slides.com/streguer/automl/fullscreen)
+* [AutoML](http://khanrc.github.io/tags/#AutoML)
+* [How to Beat Google’s AutoML - Hyperparameter Optimisation with Flair](https://towardsdatascience.com/how-to-beat-automl-hyperparameter-optimisation-with-flair-3b2f5092d9f5)
+* [automl-gs Provide an input CSV and a target field to predict, generate a model + code to run it](https://github.com/minimaxir/automl-gs)
+* [이미지 분류 모델 AutoML 파이프라인. 이미지 분류 모델 AutoML 활용하기 | by Yoo Gyoungyoon | 당근마켓 팀블로그 | Dec, 2020 | Medium](https://medium.com/daangn/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8-automl-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-68beb1ff15bf)
+* [evalml: EvalML is an AutoML library written in python](https://github.com/alteryx/evalml)
+  * [Home — EvalML 0.23.0 documentation](https://evalml.alteryx.com/)
+* [mindsdb - Open Source AutoML for Developers](https://www.mindsdb.com/)
 
 # Book
 * [패턴 인식 - 오일석](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788970859040&orderClick=LEA&Kc)
@@ -1203,7 +1209,6 @@ Machine Learning
     * [ECE1513_Introduction_to_JAX](https://colab.research.google.com/drive/15Nn1i5AgfkLBdMGTif-RnfwqZrn1BPKQ) .ipynb
     * [ECE1513_Introduction_to_JAX_Student_Solutions](https://colab.research.google.com/drive/1YsoctmFgZ0joXdMqEHmTsP3AAyhyNlzI) .ipynb
 * [merlin: Kubernetes-friendly ML model management, deployment, and serving](https://github.com/gojek/merlin)
-* [mindsdb - Open Source AutoML for Developers](https://www.mindsdb.com/)
   * [Machine Learning Models as Tables - ClickHouse Software And Services | Altinity](https://altinity.com/blog/2020/08/10/machine-learning-models-as-tables)
 * [mljar-supervised: Automated Machine Learning Pipeline with Feature Engineering and Hyper-Parameters Tuning](https://github.com/mljar/mljar-supervised)
   * [P MLJAR + Optuna = simple tuning interface (for tabular data) : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/m64xwd/p_mljar_optuna_simple_tuning_interface_for/)
