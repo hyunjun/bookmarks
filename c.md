@@ -419,6 +419,7 @@ C
 * [Unicorn - The ultimate CPU emulator](http://www.unicorn-engine.org/)
 * [UNITY - UNIT TESTING FOR C (ESPECIALLY EMBEDDED SOFTWARE)](https://mark-vandervoord-yxrv.squarespace.com/unity)
 * [Vector Meshes](http://upcoder.com/13/vector-meshes)
+* [vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs](https://github.com/DualCoder/vgpu_unlock)
 * [WasmBoxC: Simple, Easy, and Fast VM-less Sandboxing](https://kripken.github.io/blog/wasm/2020/07/27/wasmboxc.html)
   * [WebAssembly를 이용, Firefox의 보안성 개선하기 ★ Mozilla 웹 기술 블로그](http://hacks.mozilla.or.kr/2020/08/securing-firefox-with-webassembly/)
 * [Yeppp! is a high-performance SIMD-optimized mathematical library for x86, ARM, and MIPS processors on Windows, Android, Mac OS X, and GNU/Linux systems](http://www.yeppp.info/)
