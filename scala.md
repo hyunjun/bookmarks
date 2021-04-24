@@ -2139,3 +2139,4 @@ Scala
 * [What I Learned From Teaching Scala to 30000 Engineers by Daniel Ciocîrlan - YouTube](https://www.youtube.com/watch?v=gcwOEX9J6Hk)
 * [Scala - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/Scala)
 * [N-Queens in Scala: Approaching an Interview Problem With Pure Functional Programming - YouTube](https://www.youtube.com/watch?v=_O7mETYRDhY)
+* [Scala :: ./side_effects.sh](http://zafirov.me/posts/scala/)
