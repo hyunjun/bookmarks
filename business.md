@@ -673,6 +673,8 @@ Business
 * [탈중개화 현상](https://www.thestartupbible.com/2017/08/how-to-prevent-or-minimize-disintermediation-for-marketplaces.html)
 * [스타트업의 첫 이사회 보고용 PPT 템플릿 | GeekNews](https://news.hada.io/topic?id=3893)
 * [브런치북 스타트업, 그리고 개발이야기](https://brunch.co.kr/brunchbook/chickenmoim)
+* [13일만에 투자받은 Airbyte의 IR덱 | GeekNews](https://news.hada.io/topic?id=3998)
+  * [The Deck We Used to Raise Our Seed with Accel in 13 Days](https://airbyte.io/articles/our-story/the-deck-we-used-to-raise-our-seed-with-accel-in-13-days/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
