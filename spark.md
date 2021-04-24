@@ -1015,6 +1015,7 @@
 * [File sink and Out-Of-Memory risk on waitingforcode.com - articles about Apache Spark Structured Streaming](https://www.waitingforcode.com/apache-spark-structured-streaming/file-sink-out-of-memory-risk/read)
 * [입 개발 Kafka 와 Spark Structured Streaming 에서 checkpoint 에서 아주 과거의 Offset이 있으면 어떻게 동작할까? | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/08/%EC%9E%85-%EA%B0%9C%EB%B0%9C-kafka-%EC%99%80-spark-structured-streaming-%EC%97%90%EC%84%9C-checkpoint-%EC%97%90%EC%84%9C-%EC%95%84%EC%A3%BC-%EA%B3%BC%EA%B1%B0%EC%9D%98-offset%EC%9D%B4-%EC%9E%88/)
 * [입 개발 Spark Structured Streaming 에서 Offset 은 어떻게 관리되는가(아주 간략한 버전)? | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/09/%EC%9E%85-%EA%B0%9C%EB%B0%9C-spark-structured-streaming-%EC%97%90%EC%84%9C-offset-%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B4%80%EB%A6%AC%EB%90%98%EB%8A%94%EA%B0%80%EC%95%84%EC%A3%BC-%EA%B0%84/)
+* [입 개발 Spark Kafka Streaming 에서의 BackPressure 에 대한 아주 간단한 정리. | Charsyam's Blog](https://charsyam.wordpress.com/2021/04/24/%EC%9E%85%EA%B0%9C%EB%B0%9C-spark-kafka-streaming-%EC%97%90%EC%84%9C%EC%9D%98-backpressure-%EC%97%90-%EB%8C%80%ED%95%9C-%EC%95%84%EC%A3%BC-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%A0%95%EB%A6%AC/)
 
 # TDD, Test
 * [Unit Testing Apache Spark Applications using Hive Tables](https://medium.com/homeaway-tech-blog/unit-testing-apache-spark-applications-using-hive-tables-ec653c6f25be)
