@@ -63,6 +63,7 @@ Presentation
 * [**GitPitch**](https://gitpitch.com/)
   * [wiki](https://github.com/gitpitch/gitpitch/wiki)
 * [canva.com](https://www.canva.com)
+* [digital-human](https://github.com/hunkim/digital-human)
 * [gratisography.com](https://gratisography.com/) free photo
 * [Gromit - Presenting Programs with Gromit](http://www.home.unix-ag.org/simon/gromit/)
 * [hacker-slides - github.com/jacksingleton/hacker-slides](https://github.com/jacksingleton/hacker-slides)
