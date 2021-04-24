@@ -149,6 +149,7 @@ Data Visualization
 * [Data Visualization with D3, JavaScript, React - Full Course 2021 - YouTube](https://www.youtube.com/watch?v=2LhoCfjm8R4)
 * [10 Years of Open-Source Visualization / Mike Bostock / Observable](https://observablehq.com/@mbostock/10-years-of-open-source-visualization)
   * [오픈소스 시각화 라이브러리 d3.js 개발 10년동안 배운 것 | GeekNews](https://news.hada.io/topic?id=3789)
+* [d3-geo, TopoJSON, canvas를 이용한 맵 차트 그리기 | by Jung Han | Apr, 2021 | Medium](https://junghan92.medium.com/d3-geo-topojson-canvas%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A7%B5-%EC%B0%A8%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B8%B0-ffab54ec23bf)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
@@ -169,6 +170,7 @@ Data Visualization
 
 # Javascript
 * [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
+* [Understanding front-end data visualization tools ecosystem in 2021 - Cube.js Blog](https://cube.dev/blog/dataviz-ecosystem-2021/)
 * chart.js
   * [The Beginner’s Guide to Chart.js](https://www.stanleyulili.com/javascript/beginner-guide-to-chartjs/)
   * [chart-on-blog: Tool for drawing chart on blog(based on chart.js) / 블로그 게시글에 차트 쉽게 그려주는 도구(chart.js 기반)](https://github.com/jaeyeon302/chart-on-blog)
@@ -241,6 +243,7 @@ Data Visualization
   * [(2) 롯데리아, 맘스터치](https://blog.naver.com/idjoopal/221513535891)
   * [(3) 분석 & 버거지수 계산](https://blog.naver.com/idjoopal/221519187440)
   * [(4) 버거지수 전국지도](https://blog.naver.com/idjoopal/221519294269)
+* ["버거 지수"는 진짜 도시의 발전 수준을 반영할까?](https://nbviewer.jupyter.org/gist/hyeshik/cf9f3d7686e07eedbfda?revision=6)
 * [The Next Level of Data Visualization in Python - How to make great-looking, fully-interactive plots with a single line of Python](https://towardsdatascience.com/the-next-level-of-data-visualization-in-python-dd6e99039d5e)
   * [Data-Analysis - nbviewer ipynb](https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb)
   * [Data-Analysis - Data Analysis Using Python and a little R](https://github.com/WillKoehrsen/Data-Analysis)
