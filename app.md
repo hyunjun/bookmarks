@@ -1376,6 +1376,7 @@ App
 * [PowerToys - Windows system utilities to maximize productivity](https://github.com/microsoft/PowerToys)
   * [Microsoft's new PowerToys Run launcher is like macOS's Spotlight for Windows 10](https://thenextweb.com/insider/2020/05/19/microsofts-new-powertoys-run-launcher-is-like-macoss-spotlight-for-windows-10/)
   * [“작지만 유용한 기능 모음” 윈도우 10의 새 파워토이 사용 가이드 - ITWorld Korea](http://www.itworld.co.kr/news/168665)
+  * [이게바로 윈도우판 굿락? 상상보다 훨씬 더 편해지는 윈도우 '무료 프로그램' 핵꿀팁 공개합니다. - YouTube](https://www.youtube.com/watch?v=bzg3otFT3zI)
 * [Rufus - create bootable USB](http://rufus.akeo.ie/)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [**SharpKeys - a utility that manages a Registry key that allows Windows to remap one key to any other key**](https://sharpkeys.codeplex.com/)
