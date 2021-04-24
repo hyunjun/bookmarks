@@ -3864,6 +3864,7 @@ Python
 * [Efficiently Cleaning Text with Pandas - Practical Business Python](https://pbpython.com/text-cleaning.html)
 * [Scaling Pandas: Dask vs Ray vs Modin vs Vaex vs RAPIDS](https://www.datarevenue.com/en-blog/pandas-vs-dask-vs-vaex-vs-modin-vs-rapids-vs-ray)
 * [Pareto and Pandas](https://www.johndcook.com/blog/2021/03/11/pareto-and-pandas/)
+* [Python Pandas Tutorial | What is Pandas | Features of Pandas # 1 - YouTube](https://www.youtube.com/watch?v=2NwUfnKhsuU)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
   * [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
 * [sidetable - Create Simple Summary Tables in Pandas](https://pbpython.com/sidetable.html)
