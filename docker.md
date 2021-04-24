@@ -96,6 +96,8 @@ Docker
 * [효율적인 도커 이미지 만들기 #2 - 도커 레이어 캐슁을 통한 빌드/배포 속도 높이기](https://bcho.tistory.com/1357)
 * [Speed up Docker build time with cache warming | Blog by Gaspare Vitta](https://www.gasparevitta.com/posts/docker-warm-up-cache-from-image-buildkit/)
 * [**도커 이미지 잘 만드는 방법**](https://jonnung.dev/docker/2020/04/08/optimizing-docker-images/)
+* [도커빌드 시간을 1/3로 줄여보았다. Part (1/2) | by Harim kim | 스마트스터디 기술 블로그 | Mar, 2021 | Medium](https://medium.com/smartstudy-tech/%EB%8F%84%EC%BB%A4%EB%B9%8C%EB%93%9C-%EC%8B%9C%EA%B0%84%EC%9D%84-1-3%EB%A1%9C-%EC%A4%84%EC%97%AC%EB%B3%B4%EC%95%98%EB%8B%A4-part-1-411840808f20)
+* [도커빌드 시간을 1/3로 줄여보았다. Part (2/2). 이번 글은 도커빌드 시간을 1/3로 줄여보았다 Part 1에서 이어지는… | by Harim kim | 스마트스터디 기술 블로그 | Mar, 2021 | Medium](https://medium.com/smartstudy-tech/%EB%8F%84%EC%BB%A4%EB%B9%8C%EB%93%9C-%EC%8B%9C%EA%B0%84%EC%9D%84-1-3%EB%A1%9C-%EC%A4%84%EC%97%AC%EB%B3%B4%EC%95%98%EB%8B%A4-part-2-ca72749abdb8)
 * [Docker Cloud에서 자동빌드하기 Setting Automated Build on Docker Cloud](http://www.sauru.so/blog/automated-build-with-docker-cloud/)
 * [Deploy Docker Containers with Docker Cloud](https://www.youtube.com/watch?v=F82K07NmRpk) 예전 버전인 점 감안
 * [DockerHub의 Automated Build](https://blog.outsider.ne.kr/1387)
@@ -169,6 +171,7 @@ Docker
     * [Anaconda와 Docker 를 사용한 머신러닝 개발환경 구성하기](https://m-learn.tistory.com/6)
     * [NIPA x Docker ! · Jerry's Blog](https://jjerry-k.github.io/deeplearning/2020/06/28/nipa_docker/)
     * [NIPA x VScode ! · Jerry's Blog](https://jjerry-k.github.io/deeplearning/2020/07/15/nipa_vscode/)
+    * [Distributed Training in TensorFlow with AI Platform & Docker | Sayak Paul](https://sayak.dev/distributed-training/)
   * [elasticsearch](https://hub.docker.com/_/elasticsearch/)
     * [ELK 사용해서 flask 로그 분석하기](https://woolbro.tistory.com/88)
   * [httpd](https://hub.docker.com/_/httpd/)
@@ -941,6 +944,7 @@ Docker
   * 쿠버네티스는 라이프사이클 관리에 대한 훌륭한 지원을 제공하지만 네트워킹, 바인딩 및 상태 관리 기본 요소를 충족시키기 위해 사이드카 및 운영자 개념을 사용하는 다른 플랫폼의 혼용이 요구됨
   * 쿠버네티스의 향후 분산 시스템은 비즈니스 논리가 애플리케이션의 핵심을 이루는 여러 런타임으로 구성될 것이며 사이드카 "메카" 구성요소는 즉시 사용할 수 있는 강력한 분산 기본 요소를 제공함
   * 이 분리된 메카 아키텍처는 통합형 비즈니스 로직 단위의 이점을 제공하며 패치 적용, 업그레이드 및 장기 유지 보수와 같은 프로덕션  운영을 개선함
+* [실사례로 본 DB on Kubernetes 효과. 기업의 가장 중요한 자산은 Data이다. 그 Data를 보관하고… | by Jerry(이정훈) | Apr, 2021 | Medium](https://jerryljh.medium.com/%EC%8B%A4%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B3%B8-db-on-kubernetes-%ED%9A%A8%EA%B3%BC-eaed8e4e5811)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
