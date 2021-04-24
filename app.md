@@ -368,9 +368,7 @@ App
 * [Things you may not know about Chrome DevTools](https://dev.to/lpellis/things-you-may-not-know-about-chrome-devtools-53k6)
 * [<번역>시니어 프론트엔드 개발자처럼 크롬 개발자도구 사용하기](https://junwoo45.github.io/2020-07-28-chrome_devtools/)
 * [크롬 데브툴(devtools) 디버깅 사용하기 - YouTube](https://www.youtube.com/watch?v=Mg74cmtEArc)
-* [한글 입력을 지원하는 크롬OS 터미널을 찾아서](https://libsora.so/posts/find-chrome-os-terminal-which-support-cjk-input/)
 * [Tools I wish I had known about when I started coding](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
-* [크롬OS에서 같은 앱을 2개 이상 여는 방법](https://libsora.so/posts/how-to-open-multiple-webapp-window-in-chrome-os/)
 * [데스크톱 프로그레시브 웹 앱](https://hyeonseok.com/soojung/dev/2018/11/14/844.html)
 * [Features of the Chrome API you should know](https://medium.freecodecamp.org/features-of-the-chrome-api-you-should-know-bf5c8b6c7733)
 * [크롬 확장프로그램 개발⛏️ 회고](https://zuminternet.github.io/Zum-Chrome-Extension/)
@@ -389,6 +387,12 @@ App
 * Requestly [Udemy강좌 Full HD로 보기](https://www.javastudy.net/2019/04/22/udemy%EA%B0%95%EC%A2%8C-full-hd%EB%A1%9C-%EB%B3%B4%EA%B8%B0/)
 * [screenity: The most powerful screen recorder & annotation tool for Chrome 🎥](https://github.com/alyssaxuu/screenity)
 * [TabFS](https://omar.website/tabfs/) browser extension that mounts your browser tabs as a filesystem on your computer
+
+# ChromeOS
+* [한글 입력을 지원하는 크롬OS 터미널을 찾아서](https://libsora.so/posts/find-chrome-os-terminal-which-support-cjk-input/)
+* [크롬OS에서 같은 앱을 2개 이상 여는 방법](https://libsora.so/posts/how-to-open-multiple-webapp-window-in-chrome-os/)
+* [How to Install Chrome OS on PC with Play Store Support (2021) | Beebom](https://beebom.com/how-install-chrome-os-on-pc/)
+* ['플레이 스토어'가 되는 '크롬 OS'를 PC에 설치하기 (완벽정리)](https://open-support.tistory.com/entry/%ED%94%8C%EB%A0%88%EC%9D%B4-%EC%8A%A4%ED%86%A0%EC%96%B4%EA%B0%80-%EB%90%98%EB%8A%94-%ED%81%AC%EB%A1%AC-OS%EB%A5%BC-PC%EC%97%90-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-%EC%99%84%EB%B2%BD%EC%A0%95%EB%A6%AC)
 
 # Comminucation
 * [“우리도 있다” 업무용 오픈소스 화상회의 툴 10선 - ITWorld Korea](https://www.itworld.co.kr/news/173069)
@@ -1530,6 +1534,7 @@ App
   * [**WSL2 기반 docker 사용시 vmmem 프로세스 메모리 소모량 줄이기**](https://meaownworld.tistory.com/160)
   * [WSL에 대해 알아보자.. 이번에는 WSL에 대해 알아보려 한다. | by 미완성의 신 | Medium](https://medium.com/@unfinishedgod/wsl%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-e01eb130bbff)
   * [WSL Python & Jupyter notebook 설치 - 미완성의신](https://unfinishedgod.netlify.app/2021/03/26/wsl-python-jupyter-notebook-%EC%84%A4%EC%B9%98/)
+  * [The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux | Windows Command Line](https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/)
   * [GWSL-Source: The actual code for GWSL. And some premade binaries](https://github.com/Opticos/GWSL-Source) python
   * [WSL-DistroManager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://github.com/rkttu/WSL-DistroManager)
   * [WSLg Architecture | Windows Command Line](https://devblogs.microsoft.com/commandline/wslg-architecture/)
