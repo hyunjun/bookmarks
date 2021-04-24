@@ -789,6 +789,7 @@ Programming
 * [구현한 채팅에 캐시 적용해서 성능 개선하기](https://velog.io/@seanlion/chatcache)
 * [**1인 기술 스타트업의 아키텍쳐 스택 | GeekNews**](https://news.hada.io/topic?id=4055)
 * [Top 5 Architecture Blog Posts for Q1 2021 | AWS Architecture Blog](https://aws.amazon.com/ko/blogs/architecture/top-5-architecture-blog-posts-for-q1-2021/)
+* [How We Built A Context-Specific Bidding System for Etsy Ads - Code as Craft](https://codeascraft.com/2021/03/23/how-we-built-a-context-specific-bidding-system-for-etsy-ads/)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 
 ## Architecture Distributed
@@ -2142,6 +2143,7 @@ Programming
   * [2월 4주 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/02/b-2-4.html)
   * [3월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/03/b-3.html)
   * [3월 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/03/b-3_27.html)
+  * [4월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/04/b-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -2643,6 +2645,8 @@ Programming
 * [The most important TDD rule](http://enterprisecraftsmanship.com/2015/07/20/the-most-important-tdd-rule/)
 * [My favorite way to TDD](http://blog.testdouble.com/posts/2015-09-10-how-i-use-test-doubles.html)
 * [Test Doubles 정리 Dummy, Fake, Stub, Mock](https://brunch.co.kr/@tilltue/55)
+* [Test And Test Doubles - YouTube](https://www.youtube.com/watch?v=4q9d8Aye0nY)
+  * [Test와 Test Double의 종류](https://www.notion.so/Test-Test-Double-03b480e651f14159bf14af0719279d97)
 * [A deeper theory of testing](http://www.win-vector.com/blog/2015/09/a-deeper-theory-of-testing/)
 * [Experiment Design and Modeling for Long-term Studies in Ads](http://www.unofficialgoogledatascience.com/)
 * [ProbeAPI Tools is a set of cross platform console command line utilities which are using public API to make distributed pinging, tracerouting and etc](https://github.com/optimal-software/probe-api)
