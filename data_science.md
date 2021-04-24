@@ -337,6 +337,8 @@ Data Science
 * [1부: 스타벅스 DT 소셜 데이터를 이용한 감성분석 – SPH](https://www.sphinfo.com/starbucksdt/)
 * [머신러닝 비지도학습으로 찾은 최적의 스타벅스 DT, TOP 4 ! – SPH](https://www.sphinfo.com/starbucksdt-ml2/)
 * [머신러닝 지도학습을 통해서 꼽아본 최적의 스타벅스 DT 장소!? – SPH](https://www.sphinfo.com/starbucksdt-ml3/)
+* [Data Observability In Practice: Data Monitoring At Scale With SQL And Machine Learning - Monte Carlo Data](https://www.montecarlodata.com/automated-data-quality-testing-at-scale-with-sql-and-machine-learning-2/)
+* [‘데이터 랭글링’ 및 ‘탐구 데이터 분석’ 따라잡기 - CIO Korea](https://www.ciokorea.com/news/187888)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -418,6 +420,8 @@ Data Science
 * [Learn Data Engineering: My Favorite Free Resources For Data Engineers](https://hackernoon.com/learn-data-engineering-my-favorite-free-resources-52a29ab999b)
 * [Interactive Tools for ML, DL and Math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools)
 * [academictorrents.com](http://academictorrents.com/)
+* [Airbyte | Open-Source Data Integration Pipelines To Your Warehouses](https://airbyte.io/)
+  * [Airbyte - 오픈소스 ELT | GeekNews](https://news.hada.io/topic?id=3666)
 * [Announcing FsLab: Data science package](http://tomasp.net/blog/2015/announcing-fslab/index.html)
 * [Beaker](http://beakernotebook.com/?foo)
 * [danfo.js - an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data](https://github.com/opensource9ja/danfojs)
@@ -554,6 +558,7 @@ Data Science
   * [Introducing Dagster. A open-source Python library for… | by Nick Schrock | Dagster | Medium](https://medium.com/dagster-io/introducing-dagster-dbd28442b2b7)
   * [Dagster: The Data Orchestrator. As machine learning, analytics, and… | by Nick Schrock | Dagster | Aug, 2020 | Medium](https://medium.com/dagster-io/dagster-the-data-orchestrator-5fe5cadb0dfb)
 * datatable [An Overview of Python’s Datatable package](https://towardsdatascience.com/an-overview-of-pythons-datatable-package-5d3a97394ee9)
+* [deep-daze: Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network). Technique was originally created by https://twitter.com/advadnoun ](https://github.com/lucidrains/deep-daze)
 * [GOAI: Open GPU-Accelerated Data Analytics](https://devblogs.nvidia.com/parallelforall/goai-open-gpu-accelerated-data-analytics/)
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
 * Kedro [Tam-Sanh Nguyen - Writing and Scaling Collaborative Data Pipelines with Kedro - YouTube](https://www.youtube.com/watch?v=4sCpfCiJLgs)
