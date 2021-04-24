@@ -326,6 +326,7 @@ Statistics
 
 # Course MOOC Lecture
 * [경제통계학](http://snui.snu.ac.kr/ocw/index.php?mode=view&id=1494)
+* [통계교육원](https://sti.kostat.go.kr/coresti/site/main.do)
 * [pubdata.tistory.com/category/Lecture_Statistics](http://pubdata.tistory.com/category/Data/Statistics)
 * [Engineering Statistics](http://www.itl.nist.gov/div898/handbook/index.htm)
 * [CS109: Probability for Computer Scientists](http://web.stanford.edu/class/cs109) 강의노트, 슬라이드, 데모 제공
