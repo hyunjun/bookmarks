@@ -38,6 +38,7 @@ Finance
 * [적립식 ETF 투자의 장점과 단점은?!](https://tariat.tistory.com/971)
 * [금융저널에 실린 기계학습논문을 구현한 MLFinLab | | 그대안의 작은 호수](https://smallake.kr/?p=28572)
 * ['국내외 주식 분석 리포트/해외 주식' 카테고리의 글 목록](https://ryanydollardollarbill.tistory.com/category/%EA%B5%AD%EB%82%B4%EC%99%B8%20%EC%A3%BC%EC%8B%9D%20%EB%B6%84%EC%84%9D%20%EB%A6%AC%ED%8F%AC%ED%8A%B8/%ED%95%B4%EC%99%B8%20%EC%A3%BC%EC%8B%9D)
+* [미국주식 '기업/산업 리포트 찾는 방법' 총정리! - 한강뷰가 사용하는 방법은? : 네이버 블로그](https://m.blog.naver.com/tete2002/222315925394)
 * ['블랙록'은 '금융 플랫폼' 회사다!](https://brunch.co.kr/@gauss92tgrd/16)
 * [How to transfer your stocks to your broker with DTC (Depository Trust Company) code | by Bryant Jimin Son | Feb, 2021 | Medium](https://bryantson.medium.com/how-to-transfer-your-stocks-to-your-broker-with-dtc-depository-trust-company-code-1448628bfb3e) RSU같은 stock option을 받았을때 Broker로 트랜스퍼하는 방법
 * [**월급쟁이 주식투자 하는 법 (feat. 퇴직금)**](https://gist.github.com/hyunjun/16b8120e16ad8211b18c5317e06fe023#file-md)
