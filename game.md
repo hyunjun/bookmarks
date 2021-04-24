@@ -40,6 +40,7 @@ Game
 * [Curriculum Guide | Riot Games](https://www.riotgames.com/en/urf-academy/curriculum-guide)
 * [Build Pac-Man Game With JavaScript - YouTube](https://www.youtube.com/watch?v=YBtzzVwrTeE)
 * [Collision Detection](http://www.jeffreythompson.org/collision-detection/)
+* ['둠'의 무서운 악마들은 플레이어를 봐주며 게임 한다](https://www.gamemeca.com/view.php?gid=1444361)
 
 # Board game
 * [ko.boardgamearena.com](https://ko.boardgamearena.com/)
