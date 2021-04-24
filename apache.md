@@ -1007,7 +1007,10 @@ Apache
 * [Reading and Understanding the Storm UI](http://www.malinga.me/reading-and-understanding-the-storm-ui-storm-ui-explained/)
 * [Introduction to Apache NiFi and Storm](https://speakerdeck.com/heartsavior/introduction-to-apache-nifi-and-storm)
 
-# [Superset](https://github.com/apache/incubator-superset) a data exploration and visualization web application
+# Superset
+* [Superset](https://github.com/apache/incubator-superset) a data exploration and visualization web application
+* [Supercharging Apache Superset | by Airbnb | Airbnb Engineering & Data Science](https://medium.com/airbnb-engineering/supercharging-apache-superset-b1a2393278bd)
+* [Use Apache Superset for open source business intelligence reporting | Opensource.com](https://opensource.com/article/21/4/business-intelligence-open-source)
 
 # [SystemML](http://systemml.apache.org/) Apache Spark와 Apache Hadoop을 확장하기 위해 빌드된 machine learning 라이브러리
 * [IBM's SystemML Machine Learning - Now Apache SystemML](https://github.com/SparkTC/systemml)
