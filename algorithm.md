@@ -363,6 +363,7 @@ Algorithm
 * [(99+) Solved all dynamic programming (dp) problems in 7 months. - LeetCode Discuss](https://leetcode.com/discuss/general-discussion/1000929/solved-all-dynamic-programming-dp-problems-in-7-months)
 * [Dynamic Programming(Beginner to Advanced) | Introduction | Lecture - 1 - YouTube](https://www.youtube.com/watch?v=vMoLobOs2CI)
 * [Dynamic Programming(Beginner to Advanced) | 4 Steps to Solve any DP Problem | Lecture - 2 - YouTube](https://www.youtube.com/watch?v=Gcubukn8L3w)
+* [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges - YouTube](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
