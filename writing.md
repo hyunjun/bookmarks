@@ -81,7 +81,10 @@ Writing
      이 섹션은 작성자의 ‘생각’이 가미되기 때문에, 회의에서도 피드백과 질문이 쏟아진다고 함
   7. 마무리: 한 단락, 5문장 안으로 간결하게 서술. 긍정적이고 미래지향적으로
   ```
+  * [파워포인트 발표는 절대 금지! 이게 아마존이 세계 1등 된 비결](https://news.v.daum.net/v/20210409030735761)
 * [직딩이 글쓰기를 연마해야 하는 이유. 미디엄을 다시 시작하고 나서 한번 다뤄볼까 싶었던 주제가 있다… | by Ghost_0503 | Mar, 2021 | Medium](https://nep-kim.medium.com/%EC%A7%81%EB%94%A9%EC%9D%B4-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC-%EC%97%B0%EB%A7%88%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-348badf4ed47)
+* [이코노미스트에게 배운 글쓰기 비법 | GeekNews](https://news.hada.io/topic?id=4092)
+  * [Writing tools I learned from The Economist - Built By Words](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the)
 
 # Programming
 * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
