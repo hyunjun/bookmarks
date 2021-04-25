@@ -566,6 +566,7 @@ Clojure
     * [Re-frame 시작하기 (1)](http://clojure.kr/getting-started-re-frame-1/)
     * [Re frame](http://www.slideshare.net/SangKyuPark1/re-frame-68818376)
     * [The Re-frame Guide](https://purelyfunctional.tv/guide/re-frame-building-blocks/)
+    * [ClojureScript Web App Tutorial Using Re-Frame and Http-Fx - YouTube](https://www.youtube.com/watch?v=yVb8PS6a4Mk)
     * [re-frame-10x - A debugging dashboard for re-frame. Comes with free x-ray glasses. (Previously known as re-frame-trace)](https://github.com/Day8/re-frame-10x)
     * [re-frame-debux](https://github.com/Day8/re-frame-debux)
     * [re-gen: Generator for re-frame application with navigation and using MaterialUI](https://github.com/rpofuk/re-gen)
