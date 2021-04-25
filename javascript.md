@@ -121,6 +121,7 @@ Javascript
 * [Introduction to JavaScript for Fortran Programmers](http://www.see.ed.ac.uk/~jwp/MSO/newMSO/lab/JS/)
 * [OK, Now I'll learn How To Program In JavaScript!](https://medium.com/@fagnerbrack/ok-now-ill-learn-how-to-program-in-javascript-2c7847414830)
 * [Want to learn JavaScript? Here’s a free 24-part course to get you started](https://medium.freecodecamp.org/want-to-learn-javascript-heres-a-free-24-part-course-to-get-you-started-e7777baf86fb)
+* [Build Javascript Projects From Scratch | JavaScript Projects For Beginners | JavaScript |Simplilearn - YouTube](https://www.youtube.com/watch?v=fi4E40kOGGM)
 * [FRONT-END DEVELOP 기초](http://junil-hwang.com/blog/category/lecture-note/front-end-develop-%EA%B8%B0%EC%B4%88/) javascript, node.js
 * [A practical guide to learning front end development for beginners](https://medium.freecodecamp.org/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41)
 * [Core 요약](http://mobicon.tistory.com/16)
