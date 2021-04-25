@@ -686,6 +686,7 @@ Algorithm
 * [Handling Trees in Data Science Algorithmic Interview](https://www.kdnuggets.com/2020/01/handling-trees-data-science-algorithmic-interview.html)
 * [Serialize and Deserialization Binary Tree, BST deserialization Explained. Leetcode 297, 449 - YouTube](https://www.youtube.com/watch?v=EIfDP5GH7Vs)
 * [Making Data Trees in Python. Learn about trees and how to implement… | by Keno Leon | The Startup | Medium](https://medium.com/swlh/making-data-trees-in-python-3a3ceb050cfd)
+* [트리 dp : 스크루지 민호 문제로 간단한 것만 풀어 봅시다](https://codingdog.tistory.com/entry/%ED%8A%B8%EB%A6%AC-dp-%EC%8A%A4%ED%81%AC%EB%A3%A8%EC%A7%80-%EB%AF%BC%ED%98%B8-%EB%AC%B8%EC%A0%9C%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B2%83%EB%A7%8C-%ED%92%80%EC%96%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 
 ## AVL Tree
 * [AVL Tree](https://ratsgo.github.io/data%20structure&algorithm/2017/10/27/avltree/)
