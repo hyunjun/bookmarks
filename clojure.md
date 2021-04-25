@@ -17,6 +17,7 @@ Clojure
 * [clojure for the brave and true](http://www.braveclojure.com/)
 * [Clojure koans](http://clojurekoans.com/)
   * [클로저 선문답](http://clojurekoans.hatemogi.com/)
+* [The One Clojure Koans Notebook... – Nextjournal](https://nextjournal.com/avidrucker/the-one-clojure-koans-notebook)
 * [Awesome Clojure](https://github.com/razum2um/awesome-clojure)
 * [**Awesome list of clojure resources**](https://clojure.zeef.com/vlad.bokov)
 * [AwesomeClojure](https://github.com/mbuczko/awesome-clojure)
@@ -331,6 +332,7 @@ Clojure
 * [Clojurists Together 2020-Q4: new features and thank you! - YouTube](https://www.youtube.com/watch?v=P09GZVqiDdM)
 * [Why clojure is so powerful for flow and creativity in code | Racket](https://racket.com/p/why-clojure-is-powerful-creativity-code)
 * [Solving the Expression Problem with Clojure 1.2](https://web.archive.org/web/20110821210021/http://www.ibm.com/developerworks/java/library/j-clojure-protocols/)
+* [Organizing Clojure code - A real problem? - Community Center / Beginners - ClojureVerse](https://clojureverse.org/t/organizing-clojure-code-a-real-problem/7567/16)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -410,6 +412,7 @@ Clojure
   * [Clojure: Pre and Post conditions - YouTube](https://www.youtube.com/watch?v=w6xkxiYXBBo)
   * [How to use map, apply, concat and mapcat in Clojure - YouTube](https://www.youtube.com/watch?v=RFcEWZW1YaQ)
   * [Transient set loses data? : Clojure](https://www.reddit.com/r/Clojure/comments/muqetg/transient_set_loses_data/)
+  * [Maps vs records - Community Center / Watercooler - ClojureVerse](https://clojureverse.org/t/maps-vs-records/7553)
   * [closeable-map: A Clojure map that implements java.io.Closeable, so that it represents an execution context that you can close](https://github.com/piotr-yuxuan/closeable-map)
 * match
   * [github.com/clojure/core.match](https://github.com/clojure/core.match)
