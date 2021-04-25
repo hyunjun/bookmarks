@@ -52,11 +52,8 @@ Bitcoin
 * [dapp campus](https://www.youtube.com/channel/UCvF95zGgUlY2G6Lkb1GO-fw)
 * [Bitcoin From Scratch - Part 1](https://monokh.com/posts/bitcoin-from-scratch-part-1)
 * [Ray Dalio와 비트코인. Ray Dalio가 드디어 비트코인에 대한 생각을 공식적으로 밝혔다. | by 허진호 (Jin Ho Hur) | Jan, 2021 | Medium](https://hur.medium.com/ray-dalio%EC%99%80-%EB%B9%84%ED%8A%B8%EC%BD%94%EC%9D%B8-9af7d8066907)
-* [NFT, social token. 그리고, Creator Economy에서의 새로운 기회 | by 허진호 (Jin Ho Hur) | Mar, 2021 | Medium](https://hur.medium.com/nft-social-token-%EA%B7%B8%EB%A6%AC%EA%B3%A0-creator-economy%EC%97%90%EC%84%9C%EC%9D%98-%EA%B8%B0%ED%9A%8C-f8a6bf6d7a0)
 * [• Bitcoin vs. VISA energy consumption 2021 | Statista](https://www.statista.com/statistics/881541/bitcoin-energy-consumption-transaction-comparison-visa/)
 * [블록체인 저장을 뭐..? 비트코인 외계어 쉽게 이해하기](https://brunch.co.kr/@businessinsight/72)
-* [ethereum ERC721을 이용한 NFT 만들기 - 1편](https://blog.naver.com/pjt3591oo/222317130702)
-* [ethereum ERC721을 이용한 NFT 만들기 - 2편](https://blog.naver.com/pjt3591oo/222317592157)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
@@ -186,6 +183,12 @@ Bitcoin
 * [ScaleChain - A customizable blockchain implementation for private blockchains](https://github.com/ScaleChain/scalechain)
 * [tierion - Your Bridge To The Blockchain](https://tierion.com/)
 * [ZeroNet - Real-time updated, P2P websites using Bitcoin cryptography and the BitTorrent network](http://zeronet.io/)
+
+# NFT
+* [NFT, social token. 그리고, Creator Economy에서의 새로운 기회 | by 허진호 (Jin Ho Hur) | Mar, 2021 | Medium](https://hur.medium.com/nft-social-token-%EA%B7%B8%EB%A6%AC%EA%B3%A0-creator-economy%EC%97%90%EC%84%9C%EC%9D%98-%EA%B8%B0%ED%9A%8C-f8a6bf6d7a0)
+* [ethereum ERC721을 이용한 NFT 만들기 - 1편](https://blog.naver.com/pjt3591oo/222317130702)
+* [ethereum ERC721을 이용한 NFT 만들기 - 2편](https://blog.naver.com/pjt3591oo/222317592157)
+* [문과생이 떠먹여주는 블록체인 - NFT 완전정복!) NFT의 활용, 메타 데이터 저장소 위치, ERC721 vs 1155 설명,차이점, 코드 살펴보기& 배포까지 - YouTube](https://www.youtube.com/watch?v=LRA4F9IZ1K0)
 
 # Python
 * [A peek under Bitcoin's hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
