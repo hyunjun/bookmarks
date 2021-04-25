@@ -1340,6 +1340,7 @@ NLP
 * [7 open source Q&A platforms](https://opensource.com/article/20/2/open-source-qa)
 * [QA Search Engine: Amazon Kendra, Canada project, Talk to Books, etc](https://www.youtube.com/watch?v=-SrjxUVWiLo)
 * [정답 유형을 분류하는 딥러닝 기술](https://tech.kakaoenterprise.com/64)
+* [gpt3-krtranslated-qa](https://github.com/hunkim/gpt3-krtranslated-qa)
 
 # Sentiment
 * [A comparison of open source tools for sentiment analysis](http://fotiad.is/blog/sentiment-analysis-comparison/)
