@@ -1576,6 +1576,8 @@ Javascript
 * [socketcluster - Highly scalable realtime microframework http://socketcluster.io ](https://github.com/SocketCluster/socketcluster)
 * [serializr - Serialize and deserialize complex object graphs to and from JSON and Javascript classes](https://github.com/mobxjs/serializr)
   * [실행 취소 / 다시 실행 기능 구현하기(feat. serializr)](https://blog.coderifleman.com/2019/06/29/create-the-undo-redo-feature/)
+* [Shepherd — Guide your users through a tour of your app](https://shepherdjs.dev/)
+  * [shepherd: Guide your users through a tour of your app](https://github.com/shipshapecode/shepherd)
 * [skit - A pure JavaScript frontend for building better web clients](http://skitjs.com/)
 * [Skypack - A new kind of JavaScript delivery network](https://www.skypack.dev/)
 * [Smartcrop.js implements an algorithm to find good crops for images](https://github.com/jwagner/smartcrop.js/)
