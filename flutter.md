@@ -81,8 +81,10 @@ Flutter
 * [Flutter Bloc 어렵지 않습니다 Part 1 - State, Event, Model, Repository - YouTube](https://www.youtube.com/watch?v=xlmkMF5kVvA)
 * [Flutter Bloc 어렵지 않습니다 Part 2 - Bloc Logic - YouTube](https://www.youtube.com/watch?v=B0yLnMi7NCc)
 * [Flutter Bloc 어렵지 않습니다 Part 3 - UI, Cubit - YouTube](https://www.youtube.com/watch?v=eb5uhRhDD24)
+* [Flutter NoSQL 데이터베이스 Hive - YouTube](https://www.youtube.com/watch?v=EenYDsyFzYs)
 
 # Dart
+* [awesome-dart: A curated list of awesome Dart frameworks, libraries, and software](https://github.com/yissachar/awesome-dart)
 * [Why Flutter Uses Dart](https://hackernoon.com/why-flutter-uses-dart-dd635a054ebf)
 * [Learn Dart In A Week With These Free Resources](https://hackernoon.com/learn-dart-in-a-week-with-these-free-resources-b892e5265220)
 * [다트(Dart) 소개 및 개발 환경](https://brunch.co.kr/@mystoryg/115)
