@@ -109,6 +109,7 @@ Writing
 * [잘못 된 문서화, 잘 된 문서화](https://tech.peoplefund.co.kr/2019/12/06/bad-and-good-documentation.html)
 * [실전 Digital Tranformation 아이디어 공유](https://www.popit.kr/%EC%8B%A4%EC%A0%84-digital-tranformation-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EA%B3%B5%EC%9C%A0/)
 * [2019년 11월 2일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-11-2.html) 튜토리얼과 하우투 문서의 차이점
+  * [개발 문서 이야기 – 튜토리얼과 하우투 문서의 차이점은? - YouTube](https://www.youtube.com/watch?v=HHlBLV281r0)
 * [The documentation system — Documentation system documentation](https://documentation.divio.com/) Tutorial how-to-guides explanation reference 차이점
 * [(개발자 영어 #2) 개발 과정에서 클린한 코드 문서화 방법](https://jhrogue.blogspot.com/2020/09/2_22.html)
 * [Code Documentation. That ugly thing...](https://www.slideshare.net/ChristosManios/code-documentation-that-ugly-thing)
@@ -117,6 +118,9 @@ Writing
 * [그것이 알고 싶다 - 왜 개발자는 글을 못 쓸까? - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/why-are-engineers-so-bad-at-writing/)
 * [컴퓨터 프로그래밍에 대한 명언 101가지 | IT의 중심에서](https://subokim.wordpress.com/2015/03/12/101-great-computer-programming-quotes/)
 * [How to write the introduction for a research paper - Google Slides](https://docs.google.com/presentation/d/1PZj0Sev2yjDu9NNr96S_wwjKCgIDhGmLjW1vtQpDhlk/mobilepresent?slide=id.p)
+* [개발자영어 #1 개발자에게 영어가 중요한 이유 - YouTube](https://www.youtube.com/watch?v=dmo3d2aGoxY)
+* [개발자영어 #2 개발 과정에서 클린한 코드 문서화 방법 - YouTube](https://www.youtube.com/watch?v=3cnWtuzccis)
+* [개발자영어 #3 영어 정보 찾기와 읽기 - YouTube](https://www.youtube.com/watch?v=1YHqaCunNOA)
 * [apiDoc - Inline Documentation for RESTful web APIs](https://apidocjs.com/)
   * [개발자가 싫어하는 문서화하기 2편 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222067713267)
 * [API Improvement Proposals](https://aip.dev)
