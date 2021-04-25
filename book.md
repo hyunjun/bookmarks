@@ -34,6 +34,7 @@ Book
   * 새뮤얼 헌팅턴, 문명의 충돌
 * (NOT YET) [사람은 어떻게 생각하고 배우고 기억하는가](https://jhrogue.blogspot.com/2020/06/blog-post.html?spref=tw)
 * (NOT YET) [실질적으로 도움을 많이 주는 자기계발서 4권](https://brunch.co.kr/@dryjshin/367)
+* (NOT YET) [부모님의 집 정리](https://news.v.daum.net/v/20210425180002886)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
