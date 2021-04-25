@@ -1796,6 +1796,7 @@ Scala
 * [Use Indentation Guides in Scala3! - YouTube](https://www.youtube.com/watch?v=D2nhx0GxDxY)
 * [Infix Notation in #Scala Considered Harmful! - YouTube](https://www.youtube.com/watch?v=6BzQ-stJmDs)
 * [Best Features of Scala 3 for Scala.js | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=llGtGd4qux0)
+* [My Take on Scala 3 by Wiem Zine Elabidine - YouTube](https://www.youtube.com/watch?v=8q9DuMIqL3w)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
