@@ -237,6 +237,7 @@ Finance
 * [파이스탁 - YouTube](https://www.youtube.com/c/pystock)
 * [**가상환경 파이썬 아나콘다 32비트 가상환경 만들고 키움 증권 API 연동 - 로스카츠의 AI 머신러닝**](https://losskatsu.github.io/it-infra/conda32)
 * [삼성전자 주가 예측 - 미완성의신](https://unfinishedgod.netlify.app/2021/04/21/python-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%A3%BC%EA%B0%80-%EC%98%88%EC%B8%A1/)
+* [Ehang 주가 분석 with 파이썬](https://seethefuture.tistory.com/63)
 * [Algorithmic Trading Using Python - Full Course - YouTube](https://www.youtube.com/watch?v=xfzGZB4HhEE)
 * [binance-trader-c1](https://github.com/yanagi7393/binance-trader-c1)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
