@@ -338,6 +338,7 @@ PyTorch
 * [pytorch-a2c-ppo-acktr](https://github.com/ikostrikov/pytorch-a2c-ppo-acktr)
 * [PyTorch-BigGraph - Software used for generating embeddings from large-scale graph-structured data. https://torchbiggraph.readthedocs.io ](https://github.com/facebookresearch/PyTorch-BigGraph)
   * [Open-sourcing PyTorch-BigGraph for faster embeddings of extremely large graphs](https://ai.facebook.com/blog/open-sourcing-pytorch-biggraph-for-faster-embeddings-of-extremely-large-graphs)
+* [pytorch-fm: Factorization Machine models in PyTorch](https://github.com/rixwew/pytorch-fm)
 * [pytorch_geometric - Geometric Deep Learning Extension Library for PyTorch](https://github.com/rusty1s/pytorch_geometric)
 * [PyTorch Geometry package - a geometric computer vision library for PyTorch](https://github.com/arraiy/torchgeometry)
 * [pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
