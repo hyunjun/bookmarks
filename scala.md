@@ -908,6 +908,7 @@ Scala
       * [Get started with ZIO Test](https://medium.com/@wiemzin/get-started-with-zio-test-7a27da355498)
       * [Effective testing with ZIO Test](https://scala.monster/zio-test/)
       * [Running Postgres integration tests easily with TestContainers and ZIO Test | In Absentia](https://hmemcpy.com/2020/10/running-postgres-integration-tests-easily-with-testcontainers-and-zio-test/)
+      * [What's Cooking in ZIO Test by Adam Fraser - YouTube](https://www.youtube.com/watch?v=JtfdcxgQ71E)
     * [ZIO World](https://zioworld.com/)
       * [#zioworld - YouTube](https://www.youtube.com/hashtag/zioworld)
       * [ZIO World - ZIO HTTP - YouTube](https://www.youtube.com/watch?v=dVggks9_1Qk)
