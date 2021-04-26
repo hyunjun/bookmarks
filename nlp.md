@@ -634,6 +634,7 @@ NLP
 * [Recipes for building an open-domain chatbot](https://parl.ai/projects/recipes/)
 * [How We Built Our In-house Chat Platform for the Web](https://engineering.grab.com/how-we-built-our-in-house-chat-platform-for-the-web)
 * [How We Improved Agent Chat Efficiency with Machine Learning](https://engineering.grab.com/how-we-improved-agent-chat-efficiency-with-ml)
+* [AI 모델 탐험기 #1 프롤로그: 인공지능의 달에 착륙하다 | by AI Network | AI Network_KR | Mar, 2021 | Medium](https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%ED%83%90%ED%97%98%EA%B8%B0-1-%ED%94%84%EB%A1%A4%EB%A1%9C%EA%B7%B8-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%EC%9D%98-%EB%8B%AC%EC%97%90-%EC%B0%A9%EB%A5%99%ED%95%98%EB%8B%A4-7377c829ab96)
 * [Botkit - Building Blocks for Building Slack Bots](https://howdy.ai/botkit/)
 * [bots.duolingo.com](http://bots.duolingo.com/)
 * [Chatbot](https://github.com/gusdnd852/Chatbot)
@@ -684,6 +685,7 @@ NLP
 * [**dialogpt-chat: Chatting with DialoGPT (Large-Scale Generative Pre-training for Conversational Response Generation)**](https://github.com/hyunwoongko/dialogpt-chat)
 * [kochat: Opensource Korean chatbot framework based on deep learning](https://github.com/gusdnd852/kochat)
 * [openchat: Opensource chatting framework for generative models](https://github.com/hyunwoongko/openchat)
+  * [AI 모델 탐험기 #2 챗봇이 뭐지? NLP 기술을 활용한 Open chat | by AI Network | AI Network_KR | Apr, 2021 | Medium](https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%ED%83%90%ED%97%98%EA%B8%B0-2-nlp-%EA%B8%B0%EC%88%A0%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-open-chat-b9612ca4d335)
 * [RASA - Create assistants that go beyond basic FAQs](https://rasa.com)
   * [Building a chatbot with Rasa](https://itnext.io/building-a-chatbot-with-rasa-9c3f3c6ad64d)
   * [Building a Conversational Chatbot for Slack using Rasa and Python -Part 1](https://towardsdatascience.com/building-a-conversational-chatbot-for-slack-using-rasa-and-python-part-1-bca5cc75d32f)
@@ -1073,6 +1075,8 @@ NLP
 * [tacit - Text Analysis,Collection and Interpretation Tool](http://tacit.usc.edu/)
 * [Text Understanding from Scratch](http://arxiv.org/abs/1502.01710)
 * [TextWorld: A learning environment for training reinforcement learning agents, inspired by text-based games](https://www.microsoft.com/en-us/research/blog/textworld-a-learning-environment-for-training-reinforcement-learning-agents-inspired-by-text-based-games/)
+* teachable-nlp [Ainize | Launchpad for open-source AI projects](https://ainize.ai/teachable-nlp)
+  * [AI 모델 탐험기 #3 모델 Fine-Tuning(feat. Teachable NLP) | by AI Network | AI Network_KR | Apr, 2021 | Medium](https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%ED%83%90%ED%97%98%EA%B8%B0-3-%EB%AA%A8%EB%8D%B8-fine-tuning-feat-teachable-nlp-557677764abf)
 
 ## Library Java
 * [한글 받침에따라서 '을/를' 구분하기](http://gun0912.tistory.com/65)
