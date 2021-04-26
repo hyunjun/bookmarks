@@ -364,6 +364,7 @@ C++
 * [vcpkg 설치 | 10분 TV](http://10bun.tv/install/vcpkg/)
 * [video-conferencing-example: 화상회의 예제](https://github.com/ryujt/video-conferencing-example)
   * [02. 간단한 음성 채팅 프로젝트 - YouTube](https://www.youtube.com/watch?v=7vwB3lnzvvg)
+  * [03. 비디오 압축 - YouTube](https://www.youtube.com/watch?v=8b50Zba1M9k)
 * [wxWidgets 설치 | 10분 TV](http://10bun.tv/install/wxWidgets/)
 * [Zapcc: a faster C++ compiler](http://www.zapcc.com/)
 * [zertcore5 - C++11 Server framework provides many exciting features!](https://github.com/warriorguo/zertcore5)
