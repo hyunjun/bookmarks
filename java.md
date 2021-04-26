@@ -1257,6 +1257,7 @@ Java
 * [18. Spring - Spring Security 기본세팅 및 로그인 테스트](https://kim-jong-hyun.tistory.com/33)
 * [19. Spring - Security의 Remember-me(자동로그인) 동작원리 및 구현시 주의사항](https://kim-jong-hyun.tistory.com/34)
 * [20. Spring - AccessDeniedHandler VS AuthenticationEntryPoint](https://kim-jong-hyun.tistory.com/36)
+* [29. Spring - Security에서 사용자의 권한을 동적으로 처리하기](https://kim-jong-hyun.tistory.com/53)
 * [JWT Token를 spring security에서 손쉽게 검증하기 위한 방법](https://life-journey.tistory.com/15)
 * [Apache Camel + Spring Boot REST API | Example | Java Techie - YouTube](https://www.youtube.com/watch?v=wFpAw0bpzns)
 * [REST with Spring Tutorial | Baeldung](https://www.baeldung.com/rest-with-spring-series)
