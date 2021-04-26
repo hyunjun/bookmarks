@@ -550,6 +550,7 @@ SQL
 * [Sometimes they come back: exfiltration through MySQL and CVE-2020-11579 - Shielder](https://www.shielder.it/blog/mysql-and-cve-2020-11579-exploitation/)
 * [MySQL Query Performance Troubleshooting: Resource-Based Approach - Percona Database Performance Blog](https://www.percona.com/blog/2020/07/15/mysql-query-performance-troubleshooting-resource-based-approach/)
 * [Please stop using this UPSERT anti-pattern - SQLPerformance.com](https://sqlperformance.com/2020/09/locking/upsert-anti-pattern)
+* [실행계획을 분석해서 SQL 성능튜닝을 해보자(feat.MySQL) | Recoding Life](https://jane096.github.io/project/refactoring-sql/)
 * [The MySQL cheatsheet we all need | Better Programming](https://medium.com/better-programming/the-mysql-cheatsheet-we-all-need-d1af0377bdc6)
 * [Why Uber Engineering Switched from Postgres to MySQL | Uber Engineering Blog](https://eng.uber.com/postgres-to-mysql-migration/)
 * [MySQL 쓰면서 하지 말아야 할 것 17가지 – Lael's World](https://blog.lael.be/post/370)
