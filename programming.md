@@ -1344,7 +1344,7 @@ Programming
 * [glot.io - an open source pastebin with runnable snippets and API](https://glot.io/)
 * [ideone.com](http://ideone.com/)
 * [PaizaCloud - Online editor and compiler](https://paiza.io/)
-* [repl.it](https://repl.it/)
+* Replit [The collaborative browser based IDE - Replit](https://replit.com/)
   * [Repl.it - A database for every repl](https://blog.repl.it/database)
 * [**Rosetta Code - Side-by-side code snippets from Rosetta Code**](www.rosettacode.org/)
 * [RosettaGit - to present solutions to the same task in as many different programming languages as possible](https://rosettagit.org/)
