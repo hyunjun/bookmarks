@@ -907,6 +907,8 @@ Python
 * map
   * [Mad Map: Python Road](http://kalnitsky.org/2015/06/14/mad-map/)
   * [practice - recursive call does NOT work](https://github.com/hyunjun/practice/blob/master/python/test-basic/map_cannot_do_recursive_call.py)
+* match case
+  * [Switch-Case is Match-Case python - Python Electroica Blog](https://blog.electroica.com/switch-case-is-match-case-python/)
 * metaclass
   * [Python metaclasses](http://ivansmirnov.io/python-metaclasses/)
   * [python data model 이해하기](http://www.slideshare.net/dahlmoon/numpy-20160330)
