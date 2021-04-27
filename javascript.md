@@ -3249,6 +3249,7 @@ Javascript
 * [📢📢 Discord Clone (Using React Redux Firebase Material UI) | Announcement | Today 3PM Sharp | 📢📢 - YouTube](https://www.youtube.com/watch?v=Ab-v8mRK55M)
 * [Build Discord Clone using REACT.JS | REDUX | Firebase as Backend | For beginners in 2021 | Part 1 | - YouTube](https://www.youtube.com/watch?v=haazYaSys0E)
 * [Discord Clone using ReactJS and Redux | Part 2 | Redux Tutorial in 2021 |Authentication & Deployment - YouTube](https://www.youtube.com/watch?v=CZR2zJNgLcw)
+* [redux를 이용한 컴포넌트 렌더링 최적화. 들어가며 | by Yeongsu Han | 원티드 제품 팀블로그 | Apr, 2021 | Medium](https://medium.com/wantedjobs/redux%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%81%B4%EB%9E%98%EC%8A%A4-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EB%A0%8C%EB%8D%94%EB%A7%81-%EC%B5%9C%EC%A0%81%ED%99%94-7d07e4d7b75f)
 * [react redux-socket V0.2.0 배포 & 소개](https://blog.naver.com/pjt3591oo/222109334074)
 * [redux-tcomb - Immutable and type-checked state and actions for Redux](https://github.com/gcanti/redux-tcomb)
 * [redux-undo-boilerplate - a magical boilerplate with hot reloading and awesome error handling™ that uses webpack, redux, react and redux-undo](https://github.com/omnidan/redux-undo-boilerplate#redux-undo-boilerplate)
