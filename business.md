@@ -138,6 +138,7 @@ Business
 * [**피드백은 어떻게 해야 할까?**](https://brunch.co.kr/@younghakjang/111) 매우 좋은 글. 실리콘밸리의 팀장들과 피드포워드라는 책에서 발췌 및 의견 추가
 * [**의견의 무게**](https://www.andrewahn.co/silicon-valley/opinion-suggestion-mandate/)
 * [피드백은 'A급 팀원'에게도 필요하다](https://brunch.co.kr/@1312capo/47)
+* [피드백, 효과적으로 하는 2가지 방법 | flex 공식 블로그](https://flex.team/blog/2021/04/27/better-feedback/)
 * [**직무 노트 쓰기**](https://brunch.co.kr/@lunarshore/365)
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
 * [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
