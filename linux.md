@@ -594,6 +594,7 @@ Linux
   * [The beauty of Unix pipelines](https://prithu.xyz/posts/unix-pipeline/)
 * `ps`
   * `ps -T -p <process num>` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
+  * `diff <(ps -aux) <(ps -ux)` [linux process substitution이 어떻게 동작하는지 간단하게 알아봅시다](https://codingdog.tistory.com/entry/linux-process-substitution%EC%9D%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EC%A7%80-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [pushd and popd - Linux Shell Scripting Essentials](https://www.oreilly.com/library/view/linux-shell-scripting/9781785284441/ch03s11.html)
 * `pwd`
   * [The myriad meanings of pwd in Unix systems](https://qmacro.org/2020/11/08/the-meaning-of-pwd-in-unix-systems/)
