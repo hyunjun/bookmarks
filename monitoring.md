@@ -124,3 +124,4 @@ Monitoring
 * [Level up your shell history with Loki and fzf | Opensource.com](https://opensource.com/article/20/10/shell-history-loki-fzf)
 * [Prometheus in a Clojure stack: Duct, Jetty, Compojure/Reitit and Hugsql](https://danlebrero.com/2021/02/03/prometheus-clojure-ring-sql-compojure-reitit/)
 * [A guide to setting up Kubernetes Service Level Objectives (SLOs) with Prometheus and Linkerd | Cloud Native Computing Foundation](https://www.cncf.io/blog/2020/11/13/a-guide-to-setting-up-kubernetes-service-level-objectives-slos-with-prometheus-and-linkerd/)
+* [토스의 서버 인프라 모니터링](https://toss.im/slash-21/sessions/1-2)

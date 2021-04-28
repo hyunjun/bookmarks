@@ -945,6 +945,7 @@ Docker
   * 쿠버네티스의 향후 분산 시스템은 비즈니스 논리가 애플리케이션의 핵심을 이루는 여러 런타임으로 구성될 것이며 사이드카 "메카" 구성요소는 즉시 사용할 수 있는 강력한 분산 기본 요소를 제공함
   * 이 분리된 메카 아키텍처는 통합형 비즈니스 로직 단위의 이점을 제공하며 패치 적용, 업그레이드 및 장기 유지 보수와 같은 프로덕션  운영을 개선함
 * [실사례로 본 DB on Kubernetes 효과. 기업의 가장 중요한 자산은 Data이다. 그 Data를 보관하고… | by Jerry(이정훈) | Apr, 2021 | Medium](https://jerryljh.medium.com/%EC%8B%A4%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B3%B8-db-on-kubernetes-%ED%9A%A8%EA%B3%BC-eaed8e4e5811)
+* [실수 없이 안전하게 쿠버네티스 운영하기](https://toss.im/slash-21/sessions/1-5)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)

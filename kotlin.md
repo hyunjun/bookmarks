@@ -283,6 +283,7 @@
 
 # TDD, Test
 * [Coroutine에서 Unit Test하는 방법에 대하여 #Kotlin](https://developer88.tistory.com/284)
+* [테스트 커버리지 100%](https://toss.im/slash-21/sessions/1-6)
 * [Kotlin — Unit Testing Classes Without Leaking Public API! | by Stanislav Kozlovski | Level Up Coding](https://levelup.gitconnected.com/kotlin-unit-testing-classes-without-leaking-public-api-871468695447)
 
 # Tutorial
