@@ -1265,6 +1265,28 @@ Programming
 * [뉴크루 온보딩 코드 리뷰어로 참여하기 – 카카오는 주니어와 함께 성장합니다. – tech.kakao.com](https://tech.kakao.com/2021/04/08/welcome-new-krew3/)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 * [Measuring enterprise developer productivity - The GitHub Blog](https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/)
+* [How to Kill Your Developer Productivity - DZone DevOps](https://dzone.com/articles/how-to-kill-your-developer-productivity-humanitec)
+* [Measuring Engineering Productivity | by O'Reilly Media | oreillymedia | Medium](https://medium.com/oreillymedia/measuring-engineering-productivity-a6da8605ffae)
+  * 생산성을 측정해야 하는 이유
+    * 사업을 확장하려면 엔지니어링 조직 규모를 늘려야 하지만, 커뮤니케이션 비용은 조직 규모에 제곱으로 늘어나기 때문에 사업 확장 속도에 맞출 수가 없음
+    * 그러므로 개인 생산성을 지속 개선해야 함. 생산성 개선 활동에도 리소스가 들어가기 때문에 효과적으로 할 필요가 있음
+  * 구글에서는 사회과학자를 포함한 다양한 분야의 연구원들로 구성된 팀을 구성하여 산출물 뿐 아니라 개인의 동기부여 측면 등 개인적인 측면까지 고려한 개발 생산성을 이해하려 함
+  * 어떤 개발 프로세스가 측정 가치가 있는지를 판단하는 방법
+    * 측정과 분석 등에 많은 비용이 들어가기 때문에 측정이 정말 가치있는가를 먼저 평가
+    * 사람들이 측정하고자 하는 프로세스가 있을 때 몇 가지 검증 질문(기대결과, 취할 수 있는 액션, 누가 결정하는가?) 을 통해서 측정할만한 가치가 있는지 확인
+    * 그 결과 많은 경우에 가치가 없었음. 가장 중요한 것은 해당 팀이 의사결정 권한이 있는지 여부
+  * 어떤 프로젝트를 측정하기로 결정하고 나면, GSM(Goal/Signals/Metrics) 프레임워크로 지표 생성
+  * Goal을 먼저 정하되 실제 지표를 포함하지 않은 상태로 모두가 동의할 수 있는 것으로 결정
+    * 다만, 밸런스 있는 목표를 정하는 것을 간과할 수 있으므로 5가지 핵심 구성요소를 정의. QUANTS(퀄리티, 몰입, 인지적복잡성, 속도, 만족)
+* [개발자 생산성을 측정하는 최고의 방법과 최악의 방법 - ITWorld Korea](https://www.itworld.co.kr/t/61023/%EA%B0%9C%EB%B0%9C%EC%9E%90/179979)
+  * 생산성을 측정할 때 시간이나 코드 라인 같은 것으로 보는 것보다, 완료한 릴리스 수로 파악하는 것이 그나마 낫지만 결함이나 퀄리티를 함께 봐야 함
+  * 개발 KPI로 생산성의 개선을 촉구하는 방식은 좋음
+    * 하지만 생산성 지표를 팀/개별 성과 목표와 동일시하는 것은 바람직하지 않는 행동으로 이어질 가능성이 큼
+    * 대신 생산성 이상의 더 넓은 지표로 안내하는 것이 좋음
+  * 생산성 개선은 기업이 수익을 늘리고 최종 사용자 경험을 개선하고 품질을 높이고 비용을 낮추고 혁신을 실현하는 데 도움이 돼야 함
+    * 전략적 역량을 제공하고 협업을 개선하고 효율성을 유도하고 정보 접근을 간소화하거나 위험을 낮추는 것도 중요
+  * 생산성을 측정하는 목표 중 하나는 생산성 개선을 이끄는 투자를 최적화하는 것
+  * 비즈니스 성과와 개발자 생산성 메트릭을 결합한 KPI는 '팀이 생산성을 개선하면서 우선순위가 높은 비즈니스 성과를 제공하고 있는가'라는 질문에 답하는 데 도움
 * [6 Simple Tips on How to Start Writing Clean Code](https://hackernoon.com/6-simple-tips-on-how-to-start-writing-clean-code-d66c241aa268)
 * [How to write Clean Code?](https://fullstackrubyonrails.com/blog/how-to-write-clean-code)
 * [카카오헤어샵의 CleanCode](https://brunch.co.kr/@cg4jins/2)
@@ -1287,7 +1309,6 @@ Programming
 * [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
 * [30+ Piece of Art Code Comment People Ever Wrote in Code](https://medium.com/javascript-in-plain-english/17-piece-of-art-code-comment-people-wrote-in-code-60a4284e0d92)
 * [25+ Useless Code Comments People Actually Wrote In Their Code](https://medium.com/javascript-in-plain-english/25-useless-code-comments-people-actually-wrote-in-their-code-6e55c370d562)
-* [How to Kill Your Developer Productivity - DZone DevOps](https://dzone.com/articles/how-to-kill-your-developer-productivity-humanitec)
 * [Type Fast, Work Fast. A programmer’s approach to optimize… | by Lucas Soares | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/type-fast-work-fast-b80eacd10e26)
 * [eXtreme Programming](https://www.theteams.kr/teams/2694/post/67869)
 * [code climate platform](https://codeclimate.com/platform)
