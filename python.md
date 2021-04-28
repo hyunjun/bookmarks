@@ -3374,6 +3374,7 @@ Python
   * [How to Create Joins in SQLAlchemy - YouTube](https://www.youtube.com/watch?v=FDrB5X3zSHc)
   * [book-rental-service/models.py at master · RavenKyu/book-rental-service](https://github.com/RavenKyu/book-rental-service/blob/master/book_rental_manager/models.py)
   * [Migrating to SQLAlchemy 2.0 — SQLAlchemy 1.4 Documentation](https://docs.sqlalchemy.org/en/14/changelog/migration_20.html)
+  * [SQLAlchemy add, flush, commit](https://jybaek.tistory.com/914)
   * [Alembic - a lightweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python](https://alembic.sqlalchemy.org/)
     * [SQLAlchemy and Alembic](https://www.slideshare.net/ssuser80e030/sqlalchemy-and-alembic)
     * [alembic을 이용해 DB 마이그레이션 하기 (1)](https://codeac.tistory.com/114)
