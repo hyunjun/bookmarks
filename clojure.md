@@ -279,6 +279,7 @@ Clojure
 * [Ostash.Dev - Code is a poetry](https://ostash.dev/)
 * [How to Deploy a Clojure Web Application with Nginx on Ubuntu 20.04](https://www.howtoforge.com/how-to-deploy-clojure-web-application-with-nginx-on-ubuntu-20-04/)
 * [Building a RESTful Web API in Clojure: a new approach (by Malcolm Sparks) | Meetup](https://www.meetup.com/ko-KR/London-Clojurians/events/276444743/)
+* [An Event-Driven REST Coffee Machine API with Clojure - Tiago Dall’Oca](https://tiagodalloca.github.io/blog/event-driven-coffee-machine/)
 * [Semantic Clojure Formatting | Meta Redux](https://metaredux.com/posts/2020/12/06/semantic-clojure-formatting.html)
 * [**clojure-dsl-resources: A curated list of Clojure resources for dealing with domain-specific languages**](https://github.com/simongray/clojure-dsl-resources)
 * [Graph visualization playground with Cytoscape. | Yehonathan Sharvit](https://blog.klipse.tech/visualization/2021/02/16/graph-playground-cytoscape.html)
@@ -331,6 +332,7 @@ Clojure
 * [Study: Clojure, CoffeeScript and Haskell Are the Most Expressive General-purpose Languages](https://www.infoq.com/news/2013/03/Language-Expressiveness/)
 * [Clojurists Together 2020-Q4: new features and thank you! - YouTube](https://www.youtube.com/watch?v=P09GZVqiDdM)
 * [Why clojure is so powerful for flow and creativity in code | Racket](https://racket.com/p/why-clojure-is-powerful-creativity-code)
+* [Clojure, I Choose You! | Aspect Analytics](https://www.aspect-analytics.com/media/blog/2021-04-26-clojure-i-choose-you/)
 * [Solving the Expression Problem with Clojure 1.2](https://web.archive.org/web/20110821210021/http://www.ibm.com/developerworks/java/library/j-clojure-protocols/)
 * [Organizing Clojure code - A real problem? - Community Center / Beginners - ClojureVerse](https://clojureverse.org/t/organizing-clojure-code-a-real-problem/7567/16)
 
@@ -347,6 +349,7 @@ Clojure
 * [Clojure Functions in Four Ways - Rake Routes](https://www.rakeroutes.com/clojure-functions-in-four-ways)
 * [Building trees with and without zippers | Vincent Cantin’s blog](https://vincent.404.taipei/clojure/building-trees-with-and-without-zippers/)
 * [The filter function in JavaScript and Clojure a detailed comparison with anonymous functions - YouTube](https://www.youtube.com/watch?v=z0NCJ3CfLw4)
+* [Exceptions in Clojure](https://grishaev.me/en/clj-book-exceptions/)
 * clojure.spec
   * [INTRODUCING CLOJURE.SPEC](http://blog.cognitect.com/blog/2016/5/23/introducing-clojurespec)
   * [A Tool For Thought](http://swannodette.github.io/2016/06/03/tools-for-thought)
