@@ -28,6 +28,7 @@ Monitoring
 * [Monitoring Microservices the Right Way](https://www.infoq.com/articles/microservice-monitoring-right-way/)
 * [How Netflix Monitors Millions of Devices | LinkedIn](https://www.linkedin.com/pulse/how-netflix-monitors-millions-devices-robert-armstrong/)
   * [Netflix는 어떻게 수 백만 개의 디바이스를 모니터링 하나?](https://blog.imqa.io/how-netflix-monitors-millions-devices-robert-armstrong/)
+* [트위터는 왜 모니터링 시스템을 다시 만들었나?](https://blog.imqa.io/twitter_monitoring_system_v2)
 
 # Grafana
 * [Grafana - Graphing System Statistics with Grafana](http://blog.endpoint.com/2015/08/graphing-system-statistics-with-grafana.html)
