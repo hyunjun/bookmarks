@@ -447,6 +447,7 @@ iOS
 * [Fix Bugs in Your Swift Code. Squash those critters | by Steven Curtis | Medium](https://stevenpcurtis.medium.com/fix-bugs-in-your-swift-code-e9d53bc11883)
 * [알아두면 쓸모 있는 Swift의 기능들 - 우아한형제들 기술 블로그](https://woowabros.github.io/swift/2021/02/18/swift-dynamic-features.html)
 * [SwiftPM Swift Package - ProcessInfo Environment 기반 빌드 환경설정](https://minsone.github.io/programming/processInfo-environment-based-build-configutation-swift-package)
+* [Publishers, Subscribers 알아보기](https://brunch.co.kr/@tilltue/66)
 
 ## Library Swift
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
@@ -508,13 +509,14 @@ iOS
 * [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 
 # Xcode
-* [CoPilot – Collaborative editing for Xcode](http://feinstruktur.com/copilot/)
 * [UI Testing in Xcode 7](http://masilotti.com/ui-testing-xcode-7/)
 * [Xcode Scheme Tips](http://littlebitesofcocoa.com/post/127245666487/65-xcode-scheme-tips)
-* [luft - The Xcode Plugin that helps you write lighter view controllers https://github.com/k0nserv/luft](https://github.com/k0nserv/luft)
 * [target overrides the `ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES` build setting 오류 해결](https://blog.asamaru.net/2017/04/11/target-overrides-the-always-embed-swift-standard-libraries-build-setting/)
 * [Xcode와 MacOS의 단축키로 마우스 움직임 최소화하기](http://news.realm.io/kr/news/xcode-shortcuts/)
 * [어느날 @objc Inference 와 관련된 경고를 보았다](http://seorenn.blogspot.com/2017/10/objc-inference.html)
 * [How to Setup C++ on Mac](https://www.youtube.com/watch?v=1E_kBSka_ec)
 * [앱 실행 중 갑자기 멈출 때 확인할 것!](https://blog.yagom.net/%EC%95%B1-%EC%8B%A4%ED%96%89-%EC%A4%91-%EA%B0%91%EC%9E%90%EA%B8%B0-%EB%A9%88%EC%B6%9C-%EB%95%8C-%ED%99%95%EC%9D%B8%ED%95%A0-%EA%B2%83/)
+* ['Xcode에서 'Unsupported OS version' 문제 해결하기](https://www.androidhuman.com/2021-04-26-xcode_unsupported_os_version)
+* [CoPilot – Collaborative editing for Xcode](http://feinstruktur.com/copilot/)
+* [luft - The Xcode Plugin that helps you write lighter view controllers https://github.com/k0nserv/luft](https://github.com/k0nserv/luft)
 * [안녕 XcodeGen](https://pilgwon.github.io/post/hello-xcodegen)
