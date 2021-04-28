@@ -900,6 +900,7 @@ Javascript
   * [JavaScript Visualized: Promises & Async/Await | by Lydia Hallie | Medium](https://medium.com/@lydiahallie/javascript-visualized-promises-async-await-a3f1aad8a943)
   * [Google JavaScript Technical Interview (Callback , Promise , Await / Async)](https://medium.com/javascript-in-plain-english/google-javascript-technical-interview-question-callback-promise-await-async-74b8dda2e331)
   * [자바스크립트의 비동기 처리 패턴 - 콜백(callback), 프로미스(promise)](https://devkingdom.tistory.com/218)
+  * [Javascript의 Promise를 알아보자 #ES6](https://developer88.tistory.com/373)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
@@ -1004,6 +1005,7 @@ Javascript
   * [프론트엔드 개발환경의 이해: Babel](http://jeonghwan-kim.github.io//series/2019/12/22/frontend-dev-env-babel.html)
   * [Babel 기초 다지기](https://imch.dev/posts/babel-practice)
   * [FE개발자의 성장 스토리 02 : Babel7과 corejs3 설정으로 전역 오염 없는 폴리필 사용하기 – tech.kakao.com](https://tech.kakao.com/2020/12/01/frontend-growth-02/)
+  * [Babel 을 Webstorm 과 터미널 에 적용하는 방법 # Compiler ES6](https://developer88.tistory.com/377)
 * ES6 ECMA2015
   * [es6-features.org](http://es6-features.org)
   * [Using the future of JavaScript, today](https://steveedson.co.uk/javascript/es6/)
@@ -3438,6 +3440,7 @@ Javascript
 * [typeorm에서 repository.save() 호출할때 UPDATE 쿼리만 사용하기 · /usr/lib/libsora.so](https://libsora.so/posts/typeorm-entity-proxy-for-save/)
 * [ORM typeorm으로 CRUD부터 Active Record와 DataMapper 패턴 다루기](https://blog.naver.com/pjt3591oo/222309864102)
 * [ORM typeorm relation(관계) 설정하기 - 1:N, N:M](https://blog.naver.com/pjt3591oo/222310744958)
+* [TypeORM에서 Camelcase 필드를 Snake 컬럼에 매핑하기](https://jojoldu.tistory.com/568)
 * [express에서 콘솔로 찍은 로그를 HTTP 응답에 붙이기 · /usr/lib/libsora.so](https://libsora.so/posts/express-attach-console-log-to-response/)
 * [타입스크립트로 API 명세 작성하고 서버/클라 stub 생성하기 · /usr/lib/libsora.so](https://libsora.so/posts/stub-from-typescript-api-specification/)
 * [**callbackWaitsForEmptyEventLoop와 AWS Lambda의 함정 · /usr/lib/libsora.so**](https://libsora.so/posts/trap-callback-waits-for-empty-event-loop/) express
