@@ -633,6 +633,7 @@ Programming Books
 * (NOT YET) [딥러닝 인 더 브라우저](https://jpub.tistory.com/1007)
 * (NOT YET) [머신 러닝 교과서 with 파이썬, 사이킷런, 텐서플로 - Python Machine Learning 2/E : Numpy, scikit-learn 0.2x, TensorFlow 2.x로 배우는 머신 러닝, 딥러닝 핵심 알고리즘](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=191948149)
   * [머신러닝 교과서 1장 정리](https://benghak.github.io/2020-01-09-ML_chapter_01)
+  * [머신 러닝 교과서 3판 - YouTube](https://www.youtube.com/playlist?list=PLJN246lAkhQiEc-QvvGzUneCWuRnCNKgU)
 * (NOT YET) [전문가를 위한 머신러닝 솔루션 - 파이썬을 이용한 머신러닝 고급 문제 해결 기법]((https://wikibook.co.kr/ml-solutions/)
 * (NOT YET) [파이썬을 활용한 머신러닝 쿡북](https://jybaek.tistory.com/839)
   * [책리뷰 파이썬을 활용한 머신러닝 쿡북](https://www.youtube.com/watch?v=UOKjbLfx4L0)
