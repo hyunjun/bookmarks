@@ -893,6 +893,7 @@ Scala
       * [ZIO STM: CountDownLatch in (effectively) two lines](https://fsvehla.blog/blog/2020/02/16/zio-stm-count-down-latch.html)
       * [Easily Create New Sync Types with ZIO STM](https://medium.com/wix-engineering/easily-create-new-sync-types-with-zio-stm-9a4feeb2c427)
       * [HOW TO WRITE A (COMPLETELY LOCK-FREE) CONCURRENT LRU CACHE WITH ZIO STM](https://scalac.io/how-to-write-a-completely-lock-free-concurrent-lru-cache-with-zio-stm/)
+      * [ZIO WORLD - ZIO STM by Dejan Mijic - YouTube](https://www.youtube.com/watch?v=z5bMnAJYDFM)
     * ZIO stream
       * [Speeding up time with Zio TestClock](https://timpigden.github.io/_pages/zio-streams/SpeedingUpTime.html)
       * [Simulating IoT Events - with Zio Streams](https://timpigden.github.io/_pages/zio-streams/GeneratingChillEvents.html)
@@ -1799,6 +1800,7 @@ Scala
 * [Infix Notation in #Scala Considered Harmful! - YouTube](https://www.youtube.com/watch?v=6BzQ-stJmDs)
 * [Best Features of Scala 3 for Scala.js | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=llGtGd4qux0)
 * [My Take on Scala 3 by Wiem Zine Elabidine - YouTube](https://www.youtube.com/watch?v=8q9DuMIqL3w)
+* [Scala 3: A Simpler Language · Signify Technology](https://www.signifytechnology.com/blog/2021/04/scala-3-a-simpler-language)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
