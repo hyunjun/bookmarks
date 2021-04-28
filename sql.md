@@ -751,6 +751,7 @@ SQL
 * [Faster data migrations in Postgres](https://www.citusdata.com/blog/2021/02/20/faster-data-migrations-in-postgres/)
 * [PostgreSQL on ARM-based AWS EC2 Instances: Is It Any Good? - Percona Database Performance Blog](https://www.percona.com/blog/2021/01/22/postgresql-on-arm-based-aws-ec2-instances-is-it-any-good/)
 * [PostgreSQL: Asynchronous and "direct" IO support for PostgreSQL](https://www.postgresql.org/message-id/20210223100344.llw5an2aklengrmn@alap3.anarazel.de)
+* [PostgreSQL 데이터 Client에서 KST로 확인하기 (feat. DataGrip)](https://jojoldu.tistory.com/567)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
