@@ -145,6 +145,7 @@
 * [Kotlin 1.4 Online Event: kotlinx.serialization 1.0 영상 정리](https://www.androidhuman.com/2020-11-08-kotlin_1_4_serialization)
 * [Apache Kafka® Event Streaming Platform For Kotlin Developers - YouTube](https://www.youtube.com/watch?v=Y-sqGKsnSHI)
 * [Idiomatic Logging in Kotlin | Baeldung on Kotlin](https://www.baeldung.com/kotlin/logging) slf4j
+* [Google Developers Korea Blog: Kotlin Serialization과 함께 DataStore 사용하기](https://developers-kr.googleblog.com/2021/04/using-datastore-with-kotlin-serialization.html)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
