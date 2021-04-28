@@ -460,6 +460,7 @@ C
 * [tagged pointer - 포인터에 정보 담기](http://blog.seulgi.kim/2018/02/c-tagged-pointer.html)
 * [c언어 문자열 경계 검사에 대한 몇 가지 이야기](https://codingdog.tistory.com/entry/c%EC%96%B8%EC%96%B4-%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B2%BD%EA%B3%84-%EA%B2%80%EC%82%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 * [포인터 이해하기 | 10분 TV](http://10bun.tv/beginner/episode-5/)
+* [kkamagui의 작업실 :: 미네소타 대학(University of Minnesota)에서 의도적으로 리눅스 커널(Linux Kernel)에 보안 위협을 초래했네요](https://kkamagui.tistory.com/943)
 
 # Standard Library
 * file
