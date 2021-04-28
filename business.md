@@ -261,6 +261,7 @@ Business
 * [왜 그는 데이터를 보게 되었는가?. 개인적인 관점임을 전제하고, 요즘은 IT 기획자로서 살아간다는 것이… | by Ghost_0503 | Mar, 2021 | Medium](https://nep-kim.medium.com/%EC%99%9C-%EA%B7%B8%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%B3%B4%EA%B2%8C-%EB%90%98%EC%97%88%EB%8A%94%EA%B0%80-87091b491251)
 * [신규 앱기획, 뭘 알아야 시작한다고?](https://brunch.co.kr/@windydog/440)
 * [케이스 스터디 어떻게 할 것인가](https://brunch.co.kr/@lunarshore/409) 기획
+* ['잘하는 기획자'의 기준은 무엇인가](https://brunch.co.kr/@darha/128)
 * [왜 넷플릭스 포스터는 때깔부터 다를까](https://rbworld.tistory.com/124)
 * [휴대전화번호가 최악의 회원가입 수단인 이유: 클럽하우스 사례](https://gilhwan.com/entry/%ED%9C%B4%EB%8C%80%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80-%EC%B5%9C%EC%95%85%EC%9D%98-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EC%88%98%EB%8B%A8%EC%9D%B8-%EC%9D%B4%EC%9C%A0)
 * [닌텐도는 어떻게 기술을 활용하는가](https://brunch.co.kr/@lunarshore/389)
@@ -698,3 +699,4 @@ Business
 * [알고 계십니까, 우리나라의 문양](http://ppss.kr/archives/28551)
 * [Smart Contract의 UX를 설계할 때 겪는 4가지 문제](https://engineering.huiseoul.com/%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8%EB%A5%BC-%EC%84%A4%EA%B3%84%ED%95%A0-%EB%95%8C-%EA%B2%AA%EA%B2%8C-%EB%90%98%EB%8A%94-4%EA%B0%80%EC%A7%80-ux-%EB%AC%B8%EC%A0%9C%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-8d271cc7e21d)
 * [나쁜 소프트웨어 디자인은 군함도 충돌하게 만든다](https://imseongkang.wordpress.com/2019/08/30/ussdesign/)
+* [1억 글로벌 서비스를 만들며 배운 것들 1](https://brunch.co.kr/@jinaseong/28)
