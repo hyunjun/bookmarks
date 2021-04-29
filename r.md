@@ -714,6 +714,7 @@ R
 * [Using unpack to Manage Your R Environment](https://www.r-bloggers.com/code-and-data-in-a-large-machine-learning-project-1/)
 * [Code and Data in a large Machine Learning project](https://www.r-bloggers.com/code-and-data-in-a-large-machine-learning-project-2/)
 * [Serverless Machine Learning with R on Cloud Run](https://www.r-bloggers.com/serverless-machine-learning-with-r-on-cloud-run/)
+* [How to plot XGBoost trees in R | R-bloggers](https://www.r-bloggers.com/2021/04/how-to-plot-xgboost-trees-in-r/)
 * [EnsembleML: An R package for Parallel Ensemble Modeling in R](https://www.r-bloggers.com/ensembleml-an-r-package-for-parallel-ensemble-modeling-in-r/)
 * [modelStudio - Interactive Studio with Explanations for ML Predictive Models](https://modeloriented.github.io/modelStudio/)
   * [Explanatory Model Analysis with modelStudio](https://www.r-bloggers.com/explanatory-model-analysis-with-modelstudio/)
