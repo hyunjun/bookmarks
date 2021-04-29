@@ -639,6 +639,7 @@ Go
 * [GO - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/GO)
 * [Darker Corners of Go - Rytis Biel](https://rytisbiel.com/2021/03/06/darker-corners-of-go/)
 * [The ecosystem of the Go programming language | Henrique Vicente](https://henvic.dev/posts/go/)
+* [nomadCoders 의 Go언어 강의 스크래퍼 프로젝트](https://open-support.tistory.com/entry/nomadCoders-%EC%9D%98-Go%EC%96%B8%EC%96%B4-%EA%B0%95%EC%9D%98-%EC%8A%A4%ED%81%AC%EB%9E%98%ED%8D%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 
 # Web
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
