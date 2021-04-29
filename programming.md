@@ -311,6 +311,7 @@ Programming
 * [위험상황을 대비하는 위험관리](https://chodragon9.github.io/blog/preventive-maintenance/)
 * [Linear Programming with Spreadsheets](https://www.datacamp.com/community/tutorials/linear-programming-with-spreadsheets)
 * [우아한 Developer Relations 두번째 이야기](http://woowabros.github.io/woowabros/2018/12/05/developer-relations2.html)
+* [우아한형제들 Developer Relations-Updated - 우아한형제들 기술 블로그](https://woowabros.github.io/devrel/2021/04/28/devrel-updated.html)
 * [쉽게 살 수 있을까 ? :: DevRel 이란?](https://hl1itj.tistory.com/221)
 * [The origin of complexity](https://itnext.io/the-origin-of-complexity-8ecb39130fc)
 * [Decrease complexity by separating Code from Data](https://blog.klipse.tech/databook/2020/10/30/data-book-chap2-part1.html)
@@ -793,6 +794,7 @@ Programming
 * [Top 5 Architecture Blog Posts for Q1 2021 | AWS Architecture Blog](https://aws.amazon.com/ko/blogs/architecture/top-5-architecture-blog-posts-for-q1-2021/)
 * [How We Built A Context-Specific Bidding System for Etsy Ads - Code as Craft](https://codeascraft.com/2021/03/23/how-we-built-a-context-specific-bidding-system-for-etsy-ads/)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
+* [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -1289,6 +1291,7 @@ Programming
     * 전략적 역량을 제공하고 협업을 개선하고 효율성을 유도하고 정보 접근을 간소화하거나 위험을 낮추는 것도 중요
   * 생산성을 측정하는 목표 중 하나는 생산성 개선을 이끄는 투자를 최적화하는 것
   * 비즈니스 성과와 개발자 생산성 메트릭을 결합한 KPI는 '팀이 생산성을 개선하면서 우선순위가 높은 비즈니스 성과를 제공하고 있는가'라는 질문에 답하는 데 도움
+* [프로덕트 조직의 생산성 높이기 (라인플러스 Fellow 김영재) - YouTube](https://www.youtube.com/watch?v=xlV82Q-ZmAA&list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne)
 * [6 Simple Tips on How to Start Writing Clean Code](https://hackernoon.com/6-simple-tips-on-how-to-start-writing-clean-code-d66c241aa268)
 * [How to write Clean Code?](https://fullstackrubyonrails.com/blog/how-to-write-clean-code)
 * [카카오헤어샵의 CleanCode](https://brunch.co.kr/@cg4jins/2)
@@ -1498,6 +1501,8 @@ Programming
   * [일본 LINE DEVELOPER DAY 2018 방문기](https://engineering.linecorp.com/ko/blog/line-developer-day-2018/)
 * NDC
   * [2017 NDC 참관 후기](http://www.popit.kr/2017-ndc-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0/)
+* [OKKYCON: 2021](http://okkycon.com/2021/)
+  * [OKKYCON: 2021 - YouTube](https://www.youtube.com/playlist?list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne)
 * [O’Reilly AI Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny/public/schedule/grid/public/2017-06-29)
   * [O’Reilly AI Conference 1일차 후기](https://cojette.github.io/OreillyAI_1/)
   * [O’Reilly AI Conference 2일차 후기](https://cojette.github.io/OreillyAI_2/)
@@ -1749,6 +1754,7 @@ Programming
 * [DevOps Definition: Focus, means, and expected results](https://github.blog/2020-10-07-devops-definition/)
 * [인터뷰 카카오 공용준님의 "DevOps: on going pursuit of effectiveness" - YouTube](https://www.youtube.com/watch?v=0wvcWwFnZD8)
   * [카카오 공용준님의 "DevOps: on going pursuit of effectiveness"](https://www.slideshare.net/jrogue/devops-on-going-pursuit-of-effectiveness)
+* [LINE 광고 서버 개발 팀의 DevOps 문화 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-ads-devops-culture/)
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
