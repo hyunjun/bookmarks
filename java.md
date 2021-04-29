@@ -124,6 +124,7 @@ Java
 * [21 Tech Skills Java Developers Can Learn in 2021](https://javarevisited.blogspot.com/2020/03/top-20-skills-java-developers-can-learn.html)
 * [SARO](https://saro.me/)
 * [Ahead of Time Compilation (AoT) | Baeldung](https://www.baeldung.com/ahead-of-time-compilation)
+* [프로그래밍 초식 : 사소한 개선 - 섞여 있는 계산 로직 분리 - YouTube](https://www.youtube.com/watch?v=gd9aeUywGcM)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -727,6 +728,7 @@ Java
 * [A New Future for Java. JVM, Kotlin, and where Java is going… | by The Bored Dev | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/a-new-future-for-java-b10a6789f962)
 * [JVM 내부 동작 원리 & 자바 컴파일,실행 순서 - 런타임 영역, JIT 컴파일러, 인터프리터](https://tjdrnr05571.tistory.com/19)
 * [Off-Heap memory reconnaissance • Brice Dutheil](https://blog.arkey.fr/2020/11/30/off-heap-reconnaissance/)
+* [How to Write Unmaintainable (But Wicked Fast!) Code on the JVM by John A. De Goes - YouTube](https://www.youtube.com/watch?v=k6GBKaG2MpQ)
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
   * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics](https://micrometer.io/)
