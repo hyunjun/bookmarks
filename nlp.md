@@ -1493,6 +1493,7 @@ NLP
 * [사쿠라 훈민정음](http://terms.naver.com/list.nhn?cid=41818&categoryId=41818&so=st4.asc)
 * [**Word Prediction using Convolutional Neural Networks**](https://github.com/Kyubyong/word_prediction)
 * [단디 - 한국어 맞춤법 검사기](https://marketplace.visualstudio.com/items?itemName=fallroot.vscode-dandy)
+* [비슷한 명령어 추천은 어떻게 하는걸까? – ~/xo.dev –](https://xo.dev/hacking-command-recommendation/) Levenshtein
 * [facebook 맞춤법 검사기 봇](https://www.facebook.com/groups/botgroup/permalink/504923836371451/)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
 
