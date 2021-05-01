@@ -37,6 +37,7 @@ Shell
 * [Writing Safe Shell Scripts](https://sipb.mit.edu/doc/safe-shell/)
   * [안전한 쉘 스크립트 작성하기 | GeekNews](https://news.hada.io/topic?id=1434)
 * [How to navigate directories faster with bash](https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html)
+* [What exactly was the point of \[ “x$var” = “xval” \]? – Vidar's Blog](https://www.vidarholen.net/contents/blog/?p=1035)
 * [**bash parameter expansion**](https://wizardzines.com/comics/parameter-expansion/)
   * ${var}, ${#var}, ${var/bear/panda}, ${var:-othervar}, ${var:?some error}, ${var#pattern}, ${var%pattern}, ${var:offset:length}
 * argument
