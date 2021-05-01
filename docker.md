@@ -304,6 +304,7 @@ Docker
 * [Show HN: CLI for executing code in many different languages with Docker](https://docker-exec.github.io/)
 * [Docker building dockers - keeping them small](https://github.com/jamiemccrindle/dockerception)
 * [Docker Without Docker](https://chimeracoder.github.io/docker-without-docker/)
+* [Docker without Docker · Fly](https://fly.io/blog/docker-without-docker/)
 * [7 Things You Must Be Doing With Docker](http://blog.getcrane.com/7-things-must-docker)
 * [Privilege Escalation via Docker](https://fosterelli.co/privilege-escalation-via-docker.html)
 * [Creating honeypots using Docker](http://itinsight.hu/blog/posts/2015-05-04-creating-honeypots-using-docker.html)
@@ -951,6 +952,8 @@ Docker
 * [실수 없이 안전하게 쿠버네티스 운영하기](https://toss.im/slash-21/sessions/1-5)
 * [Kubernetes 네트워크 이해하기 (1) : 컨테이너 네트워크부터 CNI까지 - Speaker Deck](https://speakerdeck.com/devinjeon/kubernetes-neteuweokeu-ihaehagi-1-keonteineo-neteuweokeubuteo-cniggaji)
 * [11 Ways (Not) to Get Hacked | Kubernetes](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
+* [쿠버네티스 Admission Control #1 | 커피고래의 노트](https://coffeewhale.com/kubernetes/admission-control/2021/04/28/opa1/)
+* [Kubernetes local playground alternatives | by Gabriel Garrido | ITNEXT](https://itnext.io/kubernetes-local-playground-alternatives-e1a590632b9f)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1002,6 +1005,7 @@ Docker
   * [Knative Cookbook | Red Hat Developer](https://developers.redhat.com/books/knative-cookbook)
 * [Kogito ergo automate - CLOUD-NATIVE BUSINESS AUTOMATION FOR BUILDING INTELLIGENT APPLICATIONS, BACKED BY BATTLE-TESTED CAPABILITIES](https://kogito.kie.org)
 * [kubectl-trace: Schedule bpftrace programs on your kubernetes cluster using the kubectl](https://github.com/iovisor/kubectl-trace)
+* [kubectx: Faster way to switch between clusters and namespaces in kubectl](https://github.com/ahmetb/kubectx)
 * [kubedoom: Kill Kubernetes pods by playing Id's DOOM!](https://github.com/storax/kubedoom)
 * Kubeflow
   * [Introducing Kubeflow - A Composable, Portable, Scalable ML Stack Built for Kubernetes](http://blog.kubernetes.io/2017/12/introducing-kubeflow-composable.html)
@@ -1019,6 +1023,7 @@ Docker
   * [조대협의 블로그 :: Kubeflow pipeline 과 TFX 메모](https://bcho.tistory.com/1378)
 * [kubethanos kills half of your pods randomly to engineer chaos in your preferred environment, gives you the opportunity to see how your system behaves under failures](https://github.com/berkay-dincer/kubethanos)
 * [Kubevirt | Wait... Running Virtual Machine (VM) inside Kuberenetes? Now, you can! - YouTube](https://www.youtube.com/watch?v=3kQDtXE4qi8)
+* [kubie: A more powerful alternative to kubectx and kubens](https://github.com/sbstp/kubie)
 * [Kui - a terminal with visualizations by and for developers](https://kui.tools/)
 * [Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/)
 * [Lens | The Kubernetes IDE](https://k8slens.dev/)
