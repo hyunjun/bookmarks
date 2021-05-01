@@ -1035,6 +1035,7 @@ Programming
 * [MSA - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/MSA)
 * [6 overlooked facts of microservices | Enable Architect](https://www.redhat.com/architect/microservices-overlooked-facts)
 * [Beyond Microservices in a one page | Joe's Happy Life](http://www.moneystock.net/wp_e/2021/04/30/beyond-microservices-in-a-one-page/)
+* [Microservice Architecture and its 10 Most Important Design Patterns | by Md Kamaruzzaman | Towards Data Science](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Edgar: Solving Mysteries Faster with Observability | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
   * [Building Netflix’s Distributed Tracing Infrastructure | by Netflix Technology Blog | Oct, 2020 | Netflix TechBlog](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
