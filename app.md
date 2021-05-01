@@ -111,6 +111,7 @@ App
     * [gist.github.com/youngrok/1c11e1afd49ec84e602497a14afae4ba](https://gist.github.com/youngrok/1c11e1afd49ec84e602497a14afae4ba)
   * [Book, again by code](https://lqez.github.io/blog/book-again-by-code.html) pycon program (종이) book 제작기
   * [오프라인으로 PDF 파일을 회전/결합/압축하려면?](https://jhrogue.blogspot.com/2020/09/pdf.html)
+  * [Beautiful PDFs from HTML](https://pdf.math.dev/)
   * [FalsiScan: Make it look like a PDF has been hand signed and scanned](https://gitlab.com/edouardklein/falsisign)
   * [mupdf - mirrored from git://git.ghostscript.com/mupdf.git http://mupdf.com ](https://github.com/ccxvii/mupdf)
   * [PDFtk Server - our command-line tool for working with PDFs. It is commonly used for client-side scripting or server-side processing of PDFs](https://www.pdflabs.com/tools/pdftk-server/)
@@ -1563,3 +1564,6 @@ App
 # VPN
 * [Algo로 개인 VPN 서버 구축하기(요약판) | 44BITS](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail-summary)
 * [NordVPN - VPN Reimagined for Mac OS](https://nordvpn.com/download/mac/)
+* Tailscale 개인 무료
+* [tinc - 오픈소스 P2P VPN 데몬 | GeekNews](https://news.hada.io/topic?id=4013)
+  * [tinc-boot: Bootstrap your Tinc node quickly and easy](https://github.com/reddec/tinc-boot)
