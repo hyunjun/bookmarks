@@ -52,6 +52,7 @@ Game
 * [Libplanet 게임잼](https://snack.planetarium.dev/kor/2020/03/libplanet-gamejam/)
 * [Game Source Code Collection : Free Software : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/gamesourcecode)
 * [돌핀 에뮬레이터](https://ko.dolphin-emu.org/)
+* [Doom3 BFG Source Code Review: Introduction](https://fabiensanglard.net/doom3_bfg/index.php)
 * [EnTT - a header-only, tiny and easy to use library for game programming and much more written in modern C++, mainly known for its innovative entity-component-system (ECS) model](https://github.com/skypjack/entt)
 * [Game - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine](https://github.com/leereilly/games)
 * [greasyphone - Play NES using smartphones as joypads](https://github.com/olahol/greasyphone#greasyphone)
