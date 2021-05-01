@@ -68,6 +68,8 @@ App
 * [cool-retro-term - A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
 * [Diffchecker - Online diff tool to compare text to find the difference between two text files](https://www.diffchecker.com/)
+* [Double Commander - a free cross platform open source file manager with two panels side by side](https://doublecmd.sourceforge.io/)
+  * [Double Commander - 크로스플랫폼 오픈소스 파일관리자 | GeekNews](https://news.hada.io/topic?id=3974)
 * [Ebook Reader for web](https://www.loudreader.com/)
 * [EPUB.to](https://epub.to/) EPUB 변환기
 * encryption
@@ -138,6 +140,7 @@ App
     3. 600DPI로 이미지를 처리해도 책한권 파일 용량이 20메가 정도 -> OCR성능 및 가독성 향상
 * [send-anywhere.com](https://send-anywhere.com/)
 * [ShareX - Sharing has never been easier](http://getsharex.com/)
+* [SpeedCrunch - a high-precision scientific calculator featuring a fast, keyboard-driven user interface](https://speedcrunch.org/)
 * [startupstash.com](http://startupstash.com/)
 * [StarUML 2](http://staruml.io/)
 * [Terminus - a terminal heavily inspired by Hyper](https://github.com/Eugeny/terminus)
@@ -844,6 +847,10 @@ App
 * AppPolice [docker kubernetes 활성화시 CPU 점유율 문제](http://mcchae.egloos.com/11310690)
 * [Backgroundifier - Turn your collection of oddly-sized images into beautiful desktop backgrounds!](http://backgroundifier.archagon.net/)
 * [cactusformac.com](http://cactusformac.com/)
+* Calculator
+  * [NaSC](https://parnold-x.github.io/nasc/)
+  * [Numi. Beautiful calculator app for Mac](https://numi.app/)
+    * [Numi - 깔끔한 맥용 계산기 앱 | GeekNews](https://news.hada.io/topic?id=3981)
 * [Coffeefy: 스타벅스 와이파이 자동 접속 애플리케이션](https://taegon.kim/archives/5720)
 * [Commander One Mac 무료 듀얼 패널 파일 관리자](http://mac.eltima.com/ko/file-manager.html)
 * compress
