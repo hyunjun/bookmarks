@@ -1077,6 +1077,7 @@ Python
   * [PYTHON 디버깅: `PRINT` 함수 가로채기](http://ds.sumeun.org/?p=2119)
   * [Print() in Python. A guide to printing and formatting your… | by Keno Leon | Medium](https://medium.com/@k3no/print-in-python-389aea412c1f) wkhtmltopdf, Pdfkit
   * [Python print() and beyond](https://josiasdev.best/python-print-and-beyond)
+  * [icecream: 🍦 Never use print() to debug again](https://github.com/gruns/icecream)
 * pprint
   * [Let’s talk about “prettyprint” or pprint in python | by Antaripa Saha | Dev Genius | Medium](https://medium.com/dev-genius/lets-talk-about-prettyprint-or-pprint-in-python-ddda1fa4cf0b)
   * [pyprnt - Python Pretty Printer https://pypi.org/project/pyprnt ](https://github.com/kevink1103/pyprnt)
@@ -1192,8 +1193,9 @@ Python
     * [002 - Binding the Socket and Listening for Connections (파이썬 리버스 쉘 - 소켓 묶기, 연결 대기)](https://creativeworks.tistory.com/entry/남의-컴퓨터를-내-마음대로-다룬다-Python-Reverse-Shell002-Binding-the-Socket-and-Listening-for-Connections-파이썬-리버스-쉘-소켓-묶기-연결-대기)
     * [003 - Sending Commands to the Client (파이썬 리버스 쉘 - 클라이언트에게 명령어 보내기)](https://creativeworks.tistory.com/entry/남의-컴퓨터를-내-마음대로-다룬다-Python-Reverse-Shell003-Sending-Commands-to-the-Client-파이썬-리버스-쉘-클라이언트에게-명령어-보내기)
     * [004 - Client Connection to Server (파이썬 리버스 쉘 - 클라이언트에서 서버에 연결하기)](https://creativeworks.tistory.com/entry/남의-컴퓨터를-내-마음대로-다룬다-Python-Reverse-Shell004-Client-Connection-to-Server-파이썬-리버스-쉘-클라이언트에서-서버에-연결하기?category=629705)
-  * [python - 파이썬의 epoll 및 비 블로킹](https://stackoverrun.com/ko/q/3421567)
   * [Learn Network Programming in Python by Building Four Projects](https://morioh.com/p/e483ad4aacec)
+  * [Reverse Engineering A Mysterious UDP Stream in My Hotel - Gokberk Yaltirakli](https://www.gkbrk.com/2016/05/hotel-music/)
+  * [python - 파이썬의 epoll 및 비 블로킹](https://stackoverrun.com/ko/q/3421567)
 * sort
   * [Length-wise-sorted list but, same length in alphabetical-order in a step](http://stackoverflow.com/questions/14103620/length-wise-sorted-list-but-same-length-in-alphabetical-order-in-a-step)
   * [LAZY SORTING (PYTHON RECIPE)](http://code.activestate.com/recipes/280501-lazy-sorting/)
@@ -1793,8 +1795,6 @@ Python
 * [modern-django - Modern Django: A Guide on How to Deploy Django-based Web Applications in 2017](https://github.com/djstein/modern-django)
 * [테스트 코드의 여러가지 유형](https://steemit.com/programming/@agile/6tx4g7)
 * [Django 나만의 Command 만들어보기](https://leop0ld.github.io/django/2017/03/23/make-django-custom-command.html)
-* [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
-* [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Learn Django](https://nomade.kr/vod/)
 * [Mistakes I Made Writing a Django App (and How I Fixed Them)](https://hackernoon.com/mistakes-i-made-writing-a-django-app-and-how-i-fixed-them-16de4e632042)
 * [Handling webhooks using Django and ngrok](https://hackernoon.com/handling-webhooks-using-django-and-ngrok-b7ff27a6fd47)
@@ -1935,8 +1935,11 @@ Python
 * [django로 크롤링해서 적용하기 +BeautifulSoup사용 — ChoSM'Programming](https://applepick.tistory.com/46)
 * [Django(2.x)와 Asyncio를 함께 사용해보자 No Celery! - JIHUN KIM - Medium](https://medium.com/@elastic7327/python3-6-x-django-2-x-%EC%97%90-asyncio%EB%A5%BC-%ED%95%A8%EA%BB%98-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90-without-celery-1256f12b1a37)
 * [참조](https://velog.io/@dev_taehyun/Django-%EC%A0%95%EC%B0%B8%EC%A1%B0%EC%99%80-%EC%97%AD%EC%B0%B8%EC%A1%B0)
+* [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
+  * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Doctor - Django code improvement bot](https://django.doctor/challenge)
 * django manager [화해 블로그](http://blog.hwahae.co.kr/%EC%A0%84%EC%B2%B4%EB%B3%B4%EA%B8%B0/tech/tech-tech/4108/)
+* [python-social-auth/social-app-django: Python Social Auth - Application - Django](https://github.com/python-social-auth/social-app-django)
 
 # DSL
 * [Extending Python Into the Future](https://morioh.com/p/6db365736476)
@@ -2682,7 +2685,6 @@ Python
 * [Don’t Miss out on these 24 Amazing Python Libraries for Data Science](https://www.analyticsvidhya.com/blog/2019/07/dont-miss-out-24-amazing-python-libraries-data-science/)
 * [파이썬 활용, 파이썬 프로젝트로 할 수 있는 일들을 알아보자!](https://tariat.tistory.com/775)
 * [**Top 10 Python libraries of 2019**](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
-* [Generate PDF with Python - Reportlab](https://morioh.com/p/81908a4730d4)
 * [3 Insane Secret Weapons for Python](https://towardsdatascience.com/the-3-secret-weapons-that-changed-my-python-editor-forever-c99f7b2e0084) kite, mypy, sonarlint
 * [10 Tools I Use to Craft Better Python Code | by Richard Quinn | Level Up Coding](https://levelup.gitconnected.com/10-tools-i-use-to-craft-better-python-code-b9a9776a7871) Black, Eradicate, Vulture, Coverage, Pycodestyle, Pylint, Mypy, Pyflakes, Doctest, Bandit, Radon
 * [Building Tools with Python. Leveraging the open source… | by Animesh Javali | Medium](https://medium.com/@javalianimesh/building-tools-with-python-5e38fe348a47) argparse, tkinter
@@ -2909,7 +2911,6 @@ Python
     * [구글시트로 개발자 해방시키기](https://www.slideshare.net/legacycoder/ss-190442750)
   * [sheetfu - Python library to interact with Google Sheets V4 API](https://github.com/socialpoint-labs/sheetfu)
   * [Advanced Drive Service in Apps Script](https://eojji.blogspot.com/2019/06/advanced-drive-service-in-apps-script.html)
-* [Google-Search-PDF-Crawler-pdf2txt-](https://github.com/hyojunmoon/Google_Search_PDF_Crawler_with_pdf2txt_converter)
 * [golpy: Efficient Conway's Game of Life implemented in Python using NumPy](https://github.com/Zeta611/golpy)
 * [goSecure - an easy-to-use and portable Virtual Private Network (VPN) solution](https://github.com/iadgov/goSecure)
 * [goto - A function decorator to use goto in Python](https://github.com/snoack/python-goto)
@@ -2925,7 +2926,6 @@ Python
 * [High-Frequency-Trading-Model-with-IB - A high-frequency trading model using Interactive Brokers API with pairs and mean-reversion in Python](https://github.com/jamesmawm/High-Frequency-Trading-Model-with-IB)
   * [Accompanying source codes for my book 'Mastering Python for Finance'](https://github.com/jamesmawm/Mastering-Python-for-Finance-source-codes)
 * [highlander - There can be only one... process](https://github.com/chriscannon/highlander)
-* [horrifying-pdf-experiments: Stuff which works in Chrome and maybe Acrobat and Foxit](https://github.com/osnr/horrifying-pdf-experiments)
 * [howdoi - 파이썬 유틸 howdoi 분석](http://www.jinniahn.com/2016/09/howdoi.html)
 * [htsint: a Python library for sequencing pipelines that combines data through gene set generation](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0729-3)
 * [HTTPie: a CLI, cURL-like tool for humans](https://github.com/jkbrzt/httpie)
@@ -2936,7 +2936,6 @@ Python
 * [Informer (TGInformer) - a bot library that allows you to masquerade as multiple REAL users on telegram and spy on 500+ Telegram channels per account](https://github.com/paulpierre/informer)
 * [Instagram-API-python](https://github.com/LevPasha/Instagram-API-python)
 * [Instagram Private API - A Python wrapper for the Instagram private API with no 3rd party dependencies. Supports both the app and web APIs](https://github.com/ping/instagram_private_api)
-* [invoice2data - Data extractor for PDF invoices](https://github.com/manuelRiel/invoice2data)
 * [iterfzf: Pythonic interface to fzf](https://github.com/dahlia/iterfzf)
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
   * [A million requests per second with Python](https://medium.freecodecamp.org/million-requests-per-second-with-python-95c137af319)
@@ -3614,6 +3613,13 @@ Python
   * [Getting Started with Distributed Machine Learning with PyTorch and Ray | by PyTorch | PyTorch | Feb, 2021 | Medium](https://medium.com/pytorch/getting-started-with-distributed-machine-learning-with-pytorch-and-ray-fd83c98fdead)
 * [PyParallel.org](http://pyparallel.org/)
   * [PyParallel - Experimental multicore fork of Python 3](https://github.com/pyparallel/pyparallel)
+
+## Library pdf
+* [Generate PDF with Python - Reportlab](https://morioh.com/p/81908a4730d4)
+* [Google-Search-PDF-Crawler-pdf2txt-](https://github.com/hyojunmoon/Google_Search_PDF_Crawler_with_pdf2txt_converter)
+* [horrifying-pdf-experiments: Stuff which works in Chrome and maybe Acrobat and Foxit](https://github.com/osnr/horrifying-pdf-experiments)
+* [invoice2data - Data extractor for PDF invoices](https://github.com/manuelRiel/invoice2data)
+* [ptext-release: pText is a library for reading, creating and manipulating PDF files in python](https://github.com/jorisschellekens/ptext-release/)
 
 ## Library string match
 * [Jellyfish - a python library for doing approximate and phonetic matching of strings](https://pypi.org/project/jellyfish/)
