@@ -517,6 +517,8 @@ Go
 * [Journey - A minimal blog engine written in Go, compatible with Ghost themes](https://kabukky.github.io/journey/)
 * [json-to-go](https://mholt.github.io/json-to-go/) json to go struct
 * [Kashmir is a LISP-inspired language with static typing that compiles to native code using Go](https://owickstrom.github.io/kashmir/)
+* [kashmir - Transactional Locking II (TL2)-inspired STM library for Go](https://github.com/talhof8/kashmir) 
+  * [Software Transactional Memory: a stairway to lock-free programming heaven? - DEV Community](https://dev.to/talhof8/software-transactional-memory-a-stairway-to-lock-free-programming-heaven-194j)
 * [let-go: Clojure-esque extension language for Go](https://github.com/nooga/let-go)
 * [lilliput - Resize images and animated GIFs in Go](https://github.com/discordapp/lilliput)
   * [**How Discord Resizes 150 Million Images Every Day with Go and C++**](https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d)
