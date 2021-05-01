@@ -526,5 +526,6 @@ C
   * [Tiny-Web-Server](https://github.com/seanlion/Tiny-Web-Server)
 * [darkhttpd: When you need a web server in a hurry](https://github.com/emikulic/darkhttpd)
   * [darkhttpd - C파일 1개로 작성된 초경량 웹서버 | GeekNews](https://news.hada.io/topic?id=4002)
+  * [darkhttpd](https://unix4lyfe.org/darkhttpd/)
 * [redbean](https://justine.lol/redbean/index.html)
   * [Redbean - 파일1개로 실행되는 웹서버 | GeekNews](https://news.hada.io/topic?id=3815)
