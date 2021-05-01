@@ -115,7 +115,6 @@ Programming
 * [devdocs.io](https://devdocs.io/)
 * [Rico's cheatsheets](https://devhints.io)
 * [What is CODE?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
-* [OpenCPU - a system for embedded scientific computing and reproducible research](https://www.opencpu.org/)
 * [Speak - How We Built A Blazing Fast Audio/Video Platform With Just A Team Of 4](http://stackshare.io/speak/how-we-built-a-blazing-fast-audio-video-platform-with-just-a-team-of-4)
 * [giant_collection_of_programming_links](https://github.com/andrew-canaday/giant_collection_of_programming_links)
 * [Molecular Programming Project](http://molecular-programming.org/)
@@ -371,6 +370,7 @@ Programming
 * [로블록스: 메타버스의 새벽. Roblox: Dawn of the Metaverse | by Kenial Lee | kokr | Mar, 2021 | Medium](https://medium.com/kokr/%EB%A1%9C%EB%B8%94%EB%A1%9D%EC%8A%A4-%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%EC%9D%98-%EC%83%88%EB%B2%BD-330a56386e34)
 * [2021.03.08 우리가 경험해온 메타버스, 앞으로 만나게 될 메타버스](https://www2.slideshare.net/KiheonShin/20210308-244069379) metaverse
 * [A System for Detecting Software Similarity](http://theory.stanford.edu/~aiken/moss/)
+* [How to Learn Complex Things Quickly: A Guide](https://product.hubspot.com/blog/how-to-learn-complex-things-quickly)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -1684,6 +1684,8 @@ Programming
 # CPU
 * [Understanding CPU Microarchitecture for Performance](https://speakerdeck.com/alblue/understanding-cpu-microarchitecture-for-performance)
 * [M1은 RISC-V의 상승을 예고한다 | GeekNews](https://news.hada.io/topic?id=3447)
+* [동영상 45분만에 보는 현대 CPU 아키텍쳐 정리 | GeekNews](https://news.hada.io/topic?id=4047)
+* [OpenCPU - a system for embedded scientific computing and reproducible research](https://www.opencpu.org/)
 
 # Cryptography, Security
 * [보안 그리고 암호화 알고리즘](https://naleejang.tistory.com/218)
@@ -2294,6 +2296,7 @@ Programming
   * [기술 뉴스 #170 : 21-03-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1536)
   * [기술 뉴스 #171 : 21-04-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1543)
   * [기술 뉴스 #172 : 21-04-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1546)
+  * [기술 뉴스 #173 : 21-05-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1549)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
