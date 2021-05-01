@@ -306,6 +306,7 @@ Scala
 * [Image editing with Applicative | Blog of Adrian Salajan](https://blog.adrian-salajan.com/blog/2021/02/11/image-editing-with-applicative)
 * [Image editing with Monads | Blog of Adrian Salajan](https://blog.adrian-salajan.com/blog/2021/04/09/image-editing-with-monads)
 * [SF Scala: How to survive algorithms in Scala - YouTube](https://www.youtube.com/watch?v=Ee2Y9V5ePVo)
+* [Our Scala Journey by Girish Kolanthra (Capital One) - YouTube](https://www.youtube.com/watch?v=agi-dFh_vEg)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1175,6 +1176,7 @@ Scala
     * [Typelevel.scala | Why Are Fibers Fast?](https://typelevel.org/blog/2021/02/21/fibers-fast-mkay.html)
     * [Using Cats Effect Resource in Non-Functional Contexts · Horace Williams](https://worace.works/2021/03/25/cats-effect-resource-in-imperative-contexts/)
     * [Fire-and-Forget in Cats Effect](https://www.inner-product.com/posts/fire-and-forget-in-cats-effect/)
+    * [Cats Effect 3: Racing IOs (and Fibers) - YouTube](https://www.youtube.com/watch?app=desktop&v=75HqyZ04AFs)
     * [herding cats — Effect system](https://eed3si9n.com/herding-cats/effect-system.html)
   * [Cats Parse](https://slides.com/lewisjkl/cats-parse)
     * [SF Scala: Introduction to Cats Parse By Jeff Lewis - YouTube](https://www.youtube.com/watch?v=wreCg30pyts)
