@@ -100,6 +100,7 @@ PHP
 * [phel-lang: Phel is a functional programming language that compiles to PHP. It is a dialect of Lisp inspired by Clojure and Janet](https://github.com/phel-lang/phel-lang)
 * [PHP TensorFlow binding](https://github.com/dstogov/php-tensorflow)
 * [Roadrunner - Modernizing PHP Applications with Golang](https://roadrunner.dev/)
+* [Slim - a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs](https://github.com/slimphp/Slim)
 * VarDumper
   * [var_dump 는 이제 그만! 예쁘고 편리한 symphony VarDumper 패키지](https://www.lesstif.com/pages/viewpage.action?pageId=26083691)
 * [webrtc-php: WebRTC PHP SSE shared-hosting without websockets](https://github.com/nielsbaloe/webrtc-php)
