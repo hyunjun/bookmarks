@@ -18,6 +18,7 @@ GIS
 * [IP타겟팅 API](http://www.apistore.co.kr/api/apiView.do?service_seq=329)
 * [GOOGLE MAPS’S MOAT - How far ahead of Apple Maps is Google Maps?](https://www.justinobeirne.com/google-maps-moat)
 * [Alexander Müller - Spatial Range Queries Using Python In-Memory Indices](https://www.youtube.com/watch?v=_95bSEqMzUA)
+* [A new way to make maps with OpenStreetMap | Protomaps](https://protomaps.com/blog/new-way-to-make-maps/)
 
 # Go
 * [find3: High-precision indoor positioning framework, version 3](https://github.com/schollz/find3)
