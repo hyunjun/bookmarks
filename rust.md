@@ -131,6 +131,7 @@
 * [Calling .NET APIs from Rust](https://ericsink.com/entries/lousygrep.html)
 * [Speed of Rust vs C](https://kornel.ski/rust-c-speed)
 * [Implicit In-order Forests: Zooming a billion trace events at 60fps - Tristan Hume](https://thume.ca/2021/03/14/iforests/)
+* [Using Rust to Write Safe and Correct Linux Kernel Drivers](https://www.infoq.com/news/2021/04/rust-linux-kernel-development/)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
