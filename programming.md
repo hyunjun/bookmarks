@@ -1122,6 +1122,7 @@ Programming
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
+* [Benchmarking low-level I/O: C, C++, Rust, Golang, Java, Python | by Eugene Retunsky | Star Gazers | Medium](https://medium.com/star-gazers/benchmarking-low-level-i-o-c-c-rust-golang-java-python-9a0d505f85f7)
 
 # Book
 * [programming-books](https://hyunjun.github.io/programming-books/)
