@@ -97,6 +97,7 @@ iOS
 * [“대구 사람들은 우리 앱을 못 쓴대요”라는 버그의 심각성은? - Dev Story of Sungdoo](https://sungdoo.dev/retrospective-or-psa/severity-of-bug-that-blocks-people-from-daegue)
 * [How Uber Deals with Large iOS App Size | Uber Engineering Blog](https://eng.uber.com/how-uber-deals-with-large-ios-app-size/)
 * [iOS 14.5 - 좌충우돌 앱 추적 투명성(App Tracking Transparency) 적용기](https://www.androidhuman.com/2021-04-28-ios_att_explainer)
+* [All Your Macs Are Belong To Us : Objective-See](https://objective-see.com/blog/blog_0x64.html)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
