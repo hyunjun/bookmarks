@@ -36,6 +36,7 @@ Shell
 * [Bash tips for everyday at the command line | Opensource.com](https://opensource.com/article/18/5/bash-tricks)
 * [Writing Safe Shell Scripts](https://sipb.mit.edu/doc/safe-shell/)
   * [안전한 쉘 스크립트 작성하기 | GeekNews](https://news.hada.io/topic?id=1434)
+* [How to navigate directories faster with bash](https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html)
 * [**bash parameter expansion**](https://wizardzines.com/comics/parameter-expansion/)
   * ${var}, ${#var}, ${var/bear/panda}, ${var:-othervar}, ${var:?some error}, ${var#pattern}, ${var%pattern}, ${var:offset:length}
 * argument
@@ -60,6 +61,8 @@ Shell
   * [배시 셸 스크팁트 프로그래밍(bash shell script programming)](https://www.lesstif.com/pages/viewpage.action?pageId=26083916)
   * [Linux bash. for loop and function, for adding numbers](https://stackoverflow.com/questions/22460266/linux-bash-for-loop-and-function-for-adding-numbers/22460518)
   * `for i in $(seq -f "$02g" 1 20); do echo $i; done` [How to zero pad a sequence of integers in bash so that all have the same width?](https://stackoverflow.com/questions/8789729/how-to-zero-pad-a-sequence-of-integers-in-bash-so-that-all-have-the-same-width)
+* popd
+* pushd
 * quote
   * [쉘에서 따옴표 안에 같은 종류의 따옴표 넣기](https://hyeonseok.com/soojung/dev/2017/07/16/821.html)
 * stdin
