@@ -1361,6 +1361,20 @@ App
 * [How to Create a List of Your Installed Programs on Windows](https://www.howtogeek.com/165293/how-to-get-a-list-of-software-installed-on-your-pc-with-a-single-command/)
 * [How To : 하드디스크 상태를 점검하고 모니터링하는 방법 - ITWorld Korea](http://www.itworld.co.kr/news/159494)
 * [윈도우10 비밀번호 분실했을 때 해제하는 방법! : 네이버 블로그](https://m.blog.naver.com/whitepolarbear/221414744015)
+* [한 세트의 키보드+마우스로 여러 컴퓨터를!](http://ppss.kr/archives/46609)
+* [Windows 10 사용자를 위한 7가지 활용팁](http://1boon.kakao.com/slownews/20161122n)
+* [HDD LLF Low Level Format Tool](http://hddguru.com/software/HDD-LLF-Low-Level-Format-Tool/) disk wipe, 삭제
+* [Windows Container 안의 Microsoft Office 자동화](https://medium.com/rkttu/microsoft-office-in-windows-container-28a7ff907780)
+* [“빨리 일하고 더 많이 놀기 위한” 윈도우 환경 최적화 팁 10가지](http://www.itworld.co.kr/news/122730)
+* [윈도우10 알아두면 쓸모 있을 팁 5가지](http://www.bloter.net/archives/372994)
+* [7 Tools to Copy Locked or In Use Files](https://www.raymond.cc/blog/copy-locked-file-in-use-with-hobocopy/)
+* [원격 데스크톱 연결 시 모니터 여러 대 사용하기](https://bloodguy.tistory.com/1069)
+* [How to Change the Priority of Wireless Networks in Windows 8 or 10](https://www.howtogeek.com/131640/how-to-change-the-priority-of-wireless-networks-in-windows-8/)
+* 복구
+  * [recuva](https://www.piriform.com/recuva)
+  * [testdisk 7.0](http://www.cgsecurity.org/wiki/TestDisk_Download)
+  * [Wise Data Recovery](http://www.wisecleaner.com/wise-data-recovery.html)
+  * [WinHex](https://www.x-ways.net/winhex/)
 * [Active Window Logger - A simple MS-Windows (VB 2008) app to smartly log the currently active foreground window of the system](https://github.com/TheCodeArtist/Active-Window-Logger)
 * [Cairo - Transform your Windows desktop with Cairo](https://cairoshell.com/)
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://cmder.net/)
@@ -1382,25 +1396,12 @@ App
   * [Microsoft's new PowerToys Run launcher is like macOS's Spotlight for Windows 10](https://thenextweb.com/insider/2020/05/19/microsofts-new-powertoys-run-launcher-is-like-macoss-spotlight-for-windows-10/)
   * [“작지만 유용한 기능 모음” 윈도우 10의 새 파워토이 사용 가이드 - ITWorld Korea](http://www.itworld.co.kr/news/168665)
   * [이게바로 윈도우판 굿락? 상상보다 훨씬 더 편해지는 윈도우 '무료 프로그램' 핵꿀팁 공개합니다. - YouTube](https://www.youtube.com/watch?v=bzg3otFT3zI)
+* [PSPad - free unicode developer editor, handles near any syntax like HTML, PHP, XHTML, R, JavaScript, ASP, Perl, C and many other languages with HEX editor, multilanguage interface](https://www.pspad.com/en/)
 * [Rufus - create bootable USB](http://rufus.akeo.ie/)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [**SharpKeys - a utility that manages a Registry key that allows Windows to remap one key to any other key**](https://sharpkeys.codeplex.com/)
 * [StaffPad is a brand new class of notation app](http://www.staffpad.net/)
 * [Worker Bee - Explore all the neat things your computer can do](http://workerbee.tonkworks.com/)
-* [한 세트의 키보드+마우스로 여러 컴퓨터를!](http://ppss.kr/archives/46609)
-* [Windows 10 사용자를 위한 7가지 활용팁](http://1boon.kakao.com/slownews/20161122n)
-* [HDD LLF Low Level Format Tool](http://hddguru.com/software/HDD-LLF-Low-Level-Format-Tool/) disk wipe, 삭제
-* 복구
-  * [recuva](https://www.piriform.com/recuva)
-  * [testdisk 7.0](http://www.cgsecurity.org/wiki/TestDisk_Download)
-  * [Wise Data Recovery](http://www.wisecleaner.com/wise-data-recovery.html)
-  * [WinHex](https://www.x-ways.net/winhex/)
-* [Windows Container 안의 Microsoft Office 자동화](https://medium.com/rkttu/microsoft-office-in-windows-container-28a7ff907780)
-* [“빨리 일하고 더 많이 놀기 위한” 윈도우 환경 최적화 팁 10가지](http://www.itworld.co.kr/news/122730)
-* [윈도우10 알아두면 쓸모 있을 팁 5가지](http://www.bloter.net/archives/372994)
-* [7 Tools to Copy Locked or In Use Files](https://www.raymond.cc/blog/copy-locked-file-in-use-with-hobocopy/)
-* [원격 데스크톱 연결 시 모니터 여러 대 사용하기](https://bloodguy.tistory.com/1069)
-* [How to Change the Priority of Wireless Networks in Windows 8 or 10](https://www.howtogeek.com/131640/how-to-change-the-priority-of-wireless-networks-in-windows-8/)
 
 ## Window Installation
 * 상황; win10을 upgrade하려고 했지만, 1709 이전 버전에서는 계속 오류가 발생하고, 여러가지 검색을 통해 시도한 방법도 모두 실패
