@@ -1044,6 +1044,7 @@ Docker
   * [Purpose built OS for Kubernetes and fully managed by Kubernetes. https://k3os.io ](https://github.com/rancher/k3os)
   * [쿠버네티스 멀티 클라우드/클러스터를 위한 Rancher](https://bcho.tistory.com/1348)
   * [Comparing Five Monitoring Options for Docker](http://rancher.com/comparing-monitoring-options-for-docker-deployments/)
+* [simplenetes: The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods](https://github.com/simplenetes-io/simplenetes)
 * Skaffold
   * [쿠버네티스용 Continuous Deployment 툴인 Skaffold](https://bcho.tistory.com/1342)
   * [쿠버네티스를 위한 CD 툴, Skaffold #2](https://bcho.tistory.com/1343)
@@ -1085,6 +1086,7 @@ Docker
 * [Droot - a super-easy application container engine with chroot without docker](https://github.com/yuuki1/droot)
 * [Empire - Introducing Empire: A self-hosted PaaS built on Docker & Amazon ECS](http://engineering.remind.com/introducing-empire/)
 * [Firecracker - Secure and fast microVMs for serverless computing](https://firecracker-microvm.github.io/)
+  * [firecracker: Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
   * [Firecracker: start a VM in less than a second](https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/)
 * firefighter [microVM: Another Level of Abstraction for Serverless Computing | by Mostafa Moradian | ITNEXT](https://itnext.io/microvm-another-level-of-abstraction-for-serverless-computing-5f106b030f15)
 * [Flocker 1.0: Container Data Management for Docker](https://clusterhq.com/2015/06/17/flocker-1-0/)
