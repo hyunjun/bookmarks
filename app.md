@@ -1108,10 +1108,12 @@ App
 * [Eve](https://github.com/witheve/Eve)
   * [Eve Version 0](http://www.chris-granger.com/2015/08/17/version-0/)
 * [flowchart.fun](https://flowchart.fun/) typing만으로 flowchart 생성
+  * [문자열로 플로우차트 생성하기 | GeekNews](https://news.hada.io/topic?id=3816)
 * [gliffy](https://www.gliffy.com/) Make Diagramming a Team Sport. Collaborate on flowcharts, org charts, UML, network diagrams & more
 * [Isoflow](https://isoflow.io/)
 * [Lucidchart - a visual workspace that combines diagramming, data visualization, and collaboration to accelerate understanding and drive innovation](https://www.lucidchart.com)
 * [mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs](https://mermaid-js.github.io/mermaid/)
+  * [Mermaid live editor](https://mermaid-js.github.io/mermaid-live-editor/#/edit/eyJjb2RlIjoiZ3JhcGggVERcbiAgICBBW0NocmlzdG1hc10gLS0-fEdldCBtb25leXwgQihHbyBzaG9wcGluZylcbiAgICBCIC0tPiBDe0xldCBtZSB0aGlua31cbiAgICBDIC0tPnxPbmV8IERbTGFwdG9wXVxuICAgIEMgLS0-fFR3b3wgRVtpUGhvbmVdXG4gICAgQyAtLT58VGhyZWV8IEZbZmE6ZmEtY2FyIENhcl0iLCJtZXJtYWlkIjp7InRoZW1lIjoiZGVmYXVsdCJ9LCJ1cGRhdGVFZGl0b3IiOmZhbHNlfQ)
   * [mermaid: diagram as code · /usr/lib/libsora.so](https://libsora.so/posts/mermaid-diagram-as-code/)
 * [miro - An Online Visual Collaboration Platform for Teamwork | Miro](https://miro.com/)
 * [monodraw - Powerful ASCII art editor designed for the Mac](https://monodraw.helftone.com/)
@@ -1120,6 +1122,7 @@ App
   * [Pencil - Multiplatform GUI Prototyping/Wireframing](https://github.com/prikhi/pencil)
 * [PlantText UML Editor](http://www.planttext.com/)
 * [PlantUML - 다이어그램을 빠르게 작성하기 위한 오픈 소스 프로젝트](http://plantuml.com/)
+  * [PlantUML Web Server](http://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa70000)
   * [**C4 모델과 C4-PlantUML을 이용한 소프트웨어 구조 다이어그램 만들기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/diagramming-c4-model-c4-plantuml/)
   * [개발자 팁 무료 UML 다이어그램 작성. Visual Studio Code + PlantUML Extension : 클리앙](https://www.clien.net/service/board/lecture/13218515)
   * [간단한 텍스트를 이용하여 멋진 UML 다이어그램을 만들 수 있는 오픈소스 도구입니다](https://plantuml.com/ko/)
@@ -1133,6 +1136,8 @@ App
 * [smartdraw.com](https://www.smartdraw.com/)
 * [Start Easy Diagram - a Web Editor for diagrams](https://www.starteasy.io/)
 * [StarUML](https://staruml.io/)
+* [swimlanes.io](https://swimlanes.io/)
+  * [Swimlanes - 온라인 시퀀스 다이어그램 에디터 | GeekNews](https://news.hada.io/topic?id=4149)
 * [Terrastruct - A diagramming tool for systems](https://terrastruct.com/)
 * [websequencediagrams.com](https://www.websequencediagrams.com/) 한글 깨짐
 * [Wireflow - user flow chart real-time collaborative tool](https://github.com/vanila-io/wireflow)
