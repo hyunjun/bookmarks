@@ -788,6 +788,7 @@ Clojure
 * [ffclj: Clojure ffmpeg wrapper](https://github.com/luissantos/ffclj)
 * [flambo - A Clojure DSL for Apache Spark](https://github.com/yieldbot/flambo)
 * [flare - Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.)](https://github.com/aria42/flare)
+* [fresh: Library to keep clojure src files up to date in a live runtime](https://github.com/slagyr/fresh)
 * [fxl - a Clojure spreadsheet library](https://github.com/zero-one-group/fxl)
   * [Scicloj Meeting #20: Anthony Khong about fxl: a composable, data-oriented spreadsheet library - YouTube](https://www.youtube.com/watch?v=d6qOzPQ9NUk)
 * fxml
@@ -1136,6 +1137,7 @@ Clojure
 * [How to Learn Clojure: The Main Study Stages](https://freshcodeit.com/how-to-stop-being-afraid-of-clojure)
 * [Using Clojure Tools · Practicalli Clojure](https://practicalli.github.io/clojure/clojure-tools/using-clojure-tools.html)
 * [10 life-changing minutes with Clojure (Windows) - DEV Community](https://dev.to/adasomg/10-life-changing-minutes-with-clojure-windows-3ofl)
+* [clojure - Getting started with clojure | clojure Tutorial](https://riptutorial.com/clojure)
 
 # Vim
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
