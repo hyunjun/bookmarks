@@ -286,6 +286,7 @@ Data Visualization
 * [파이썬 몇 줄로 간단히 해보는 탐색적 자료 분석](https://brunch.co.kr/@fermat39/104) pandas jupyter sweetviz pandas-profiling pandasgui
 * [Data Visualization using Python on Jupyter Notebook - YouTube](https://www.youtube.com/watch?v=tse_8LLWtfY)
 * [BayPiggies meeting January 2021: Serverless Computing with Wesley Chun and More! - YouTube](https://www.youtube.com/watch?v=nOj8y_gjSWI)
+* [Albert Tian Chen - COVIDCG:SARS-CoV-2 Mutation Tracking + Genomic Data Visualization | PyData Boston - YouTube](https://www.youtube.com/watch?v=G744eRCdAYo)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
 * [Awesome Panel](https://awesome-panel.org/)
