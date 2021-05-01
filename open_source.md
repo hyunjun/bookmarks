@@ -211,6 +211,7 @@ Open Source
   * [라이선스 변경에 대한 명확한 설명 | Elastic Blog](https://www.elastic.co/kr/blog/license-change-clarification)
   * [Elastic Changes Licences for Elasticsearch and Kibana: AWS Forks Both](https://www.infoq.com/news/2021/01/elastic-aws-open-source/)
   * [Elastic과 AWS의 분쟁, 어떻게 봐야 할까? :: Outsider's Dev Story](https://blog.outsider.ne.kr/1533)
+* [Reading AGPL — /dev/lawyer](https://writing.kemitchell.com/2021/01/24/Reading-AGPL.html)
 * [Olive Platform : 카카오에서 제공하는 오픈소스 관리 서비스 – tech.kakao.com](https://tech.kakao.com/2021/02/22/olive-platform/)
 
 # Line
