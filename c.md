@@ -180,6 +180,7 @@ C
 * [It's raymarching march!](https://ch-st.de/its-ray-marching-march/)
 * [이벤트 기반 프로그래밍 | 10분 TV](http://10bun.tv/beginner/episode-6/)
 * [초보 탈출 #4 - 함수 호출의 원리 및 재귀호출 | 10분 TV](http://10bun.tv/beginner/episode-4/#%EC%9E%AC%EA%B7%80%ED%98%B8%EC%B6%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%98%88)
+* [**Parsing Protobuf at 2+GB/s: How I Learned To Love Tail Calls in C**](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
