@@ -2523,6 +2523,7 @@ Python
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
 * jupytext [Version Control With Jupyter Notebook | by Shinichi Okada | Towards Data Science](https://towardsdatascience.com/version-control-with-jupyter-notebook-b9630bc5996e)
 * [nbterm - edit and execute Jupyter Notebooks in the terminal](https://github.com/davidbrochart/nbterm)
+  * [nbterm: Jupyter Notebooks in the terminal | by David Brochart | Apr, 2021 | Jupyter Blog](https://blog.jupyter.org/nbterm-jupyter-notebooks-in-the-terminal-6a2b55d08b70)
 * [nteract and create with data, words, and visuals](https://nteract.io/) jupyter notebook을 web이 아니라 local에서 실행
 * [Oasis - Data system opens its doors to all Liners](https://engineering.linecorp.com/en/blog/detail/333)
   * [모든 Liner를 위한 데이터 분석 웹 인터페이스 개발기](https://engineering.linecorp.com/ko/blog/detail/333)
@@ -3646,6 +3647,7 @@ Python
 * [Nirum: IDL compiler and RPC/distributed object framework for microservices http://nirum.org ](https://github.com/spoqa/nirum)
   * [니름: 쉬운 SOA 단위 테스트](https://www.slideshare.net/kanghyojun/soa-78799290)
 * [**opyrator: 🪄 Turns your machine learning code into microservices with web API, interactive GUI, and more**](https://github.com/ml-tooling/opyrator)
+  * [Opyrator - 파이썬 함수를 Microservice로 쉽게 만들기 | GeekNews](https://news.hada.io/topic?id=4144)
 * [Somata - a protocol and framework for building software on a network of connected microservices](http://somata.github.io/)
   * [github.com/somata](https://github.com/somata)
 
@@ -4400,6 +4402,7 @@ Python
 * Falcon [An Introduction to the Falcon Framework | by Esther Vaati | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/an-introduction-to-the-falcon-framework-a787ceea098)
 * [fastapi: FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://github.com/tiangolo/fastapi)
   * [FastAPI](https://fastapi.tiangolo.com/)
+  * [FastAPI - API 개발용 고성능 웹 프레임워크 | GeekNews](https://news.hada.io/topic?id=3686)
   * [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679)
   * [You Should Start Using FastAPI Now | by Tivadar Danka | Towards Data Science](https://towardsdatascience.com/you-should-start-using-fastapi-now-7efb280fec02)
   * [Intro to FastAPI - The Best Way to Create APIs in Python? - YouTube](https://www.youtube.com/watch?v=kCggyi_7pHg)
