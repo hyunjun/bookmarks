@@ -196,6 +196,7 @@ Open Source
 * [H3 2012 오픈소스로 개발 실력 쌓기](http://www.slideshare.net/kthcorp/h3-2012-15042338)
 * [**LibHunt**](https://www.libhunt.com/) Find The Software You Need
 * [Mailtrain | Self Hosted Newsletter App](https://mailtrain.org/)
+* [Matrix.org - An open network for secure, decentralized communication](https://matrix.org/)
 * [QP™ (Quantum Platform) is a family of lightweight, open source software frameworks for building responsive and modular real-time embedded applications as systems of cooperating, event-driven active objects (actors)](http://www.state-machine.com/qp/index.php)
 * [ScanCode - a tool to scan code and detect licenses, copyrights and more](https://github.com/nexB/scancode-toolkit/)
 * [Sourcegraph - 오픈소스 코드 검색하려면 ‘소스그래프’](http://www.bloter.net/archives/226279)
