@@ -71,6 +71,7 @@ C++
 * [Determinism with fixed point math](http://www.bonsai7.dk/determinism-and-fixed-point-math.html)
 * [Programmatic access to the call stack in C++](http://eli.thegreenplace.net/2015/programmatic-access-to-the-call-stack-in-c/)
 * [A garbage collector for C and C++](http://www.hboehm.info/gc/)
+* [High-performance garbage collection for C++ · V8](https://v8.dev/blog/high-performance-cpp-gc)
 * [Static if resurrected](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2015/n4461.html)
 * [Return Value Optimization](https://www.ibm.com/developerworks/community/blogs/5894415f-be62-4bc0-81c5-3956e82276f3/entry/RVO_V_S_std_move?lang=en)
 * [Additional C/C++ Tooling](http://nickdesaulniers.github.io/blog/2015/07/23/additional-c-slash-c-plus-plus-tooling/)
