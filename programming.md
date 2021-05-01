@@ -1324,6 +1324,8 @@ Programming
 * [codereview.stackexchange.com](http://codereview.stackexchange.com/)
 * [Paircast - Code Screencast Software](https://paircast.io/)
 * [SAW - The Software Analysis Workbench](http://saw.galois.com/index.html)
+* [Semgrep](https://semgrep.dev/)
+  * [Semgrep - 오픈소스 정적 코드 분석 도구 | GeekNews](https://news.hada.io/topic?id=4122)
 * Space [JetBrains 신제품 Space 및 Code With Me 로 생산적인 개발자 되기 by Mikhail Vink - YouTube](https://www.youtube.com/watch?v=J1mL-ghvfx0&t=902)
 * Upsource 가이드
   * [1. AWS에 구축하기](http://jojoldu.tistory.com/256)
@@ -1334,6 +1336,8 @@ Programming
 
 # Code Search
 * [MS, ‘빙’에 코드검색 기능 강화](http://www.bloter.net/archives/253974)
+* [개발자를 위한 정보 검색 팁](https://boxnwhis.kr/2020/09/27/ir-for-developers.html)
+* [인터넷 검색 팁 | GeekNews](https://news.hada.io/topic?id=4140)
 * [**30 seconds of code - Short code snippets for all your development needs**](https://www.30secondsofcode.org)
 * [codesearch - Fast, indexed regexp search over large file trees http://swtch.com/~rsc/regexp/regexp4.html](https://github.com/google/codesearch)
 * [omniref.com/tour](https://www.omniref.com/tour)
