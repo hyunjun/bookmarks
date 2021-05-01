@@ -310,6 +310,7 @@ Business
 * [CEO의 잘못된 채용에 대해](https://www.linkedin.com/posts/elfpenguin_ceotrgsqb-trgsqb-trgsqbsnyrcy-activity-6756877759907287040-wY_d/)
 * [같이 일하는 사람을 뽑으려고 할 때](https://brunch.co.kr/@jinhoyooephf/23)
 * [인재에 대한 스티브 잡스 명언 베스트 10, 잡스명언, 인재채용 :: 구름컴퍼니](https://leetim.tistory.com/71)
+* [Don’t hire top talent; hire for weaknesses.](https://benjiweber.co.uk/blog/2021/04/10/dont-hire-top-talent-hire-for-weaknesses/)
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
