@@ -190,6 +190,7 @@ Docker
     * [Dockerize Your Development Environment in VS Code | by Niall Joe Maher | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/dockerize-your-development-environment-in-vs-code-d55ba8d705a9)
     * [Here’s How You Can Use Docker With React | by Indrek Lasn | Better Programming | Medium](https://medium.com/better-programming/heres-how-you-can-use-docker-with-create-react-app-3ee3a972b04e)
     * [How to Reduce Node Docker Image Size by 10X | itsopensource](https://itsopensource.com/how-to-reduce-node-docker-image-size-by-ten-times/)
+    * [**Tiny Container Challenge: Building a 6kB Containerized HTTP Server! | DevOps Directive**](https://devopsdirective.com/posts/2021/04/tiny-container-image/)
   * jenkins
     * [Combining Jenkins and Docker for Continuously Running Instances](http://www.focusedsupport.com/blog/beyond-builds-combining-jenkins-and-docker-for-continuously-running-instances/)
   * [**jupyter-repo2docker**](https://repo2docker.readthedocs.io)
@@ -491,6 +492,7 @@ Docker
 * [Hypervisor KVM 모니터링하기 2](https://naleejang.tistory.com/242)
 * [Hypervisor KVM 모니터링하기 3](https://naleejang.tistory.com/243)
 * [See Docker Community All-Hands #2 at Docker Docker Virtual Meetups](https://events.docker.com/events/details/docker-docker-virtual-meetups-presents-docker-community-all-hands-2/)
+* [Laurence Tratt: Fast Enough VMs in Fast Enough Time](https://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time.html)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -789,6 +791,7 @@ Docker
 * [Kubernetes Prometheus Install](https://uni2u.tistory.com/105)
 * [누가 Kubernetes 클러스터에 있는 나의 사랑스러운 Prometheus 컨테이너를 죽였나! - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/prometheus-container-kubernetes-cluster/)
 * [Monitor Kubernetes with Prometheus & Grafana | Better Programming](https://medium.com/better-programming/monitor-your-kubernetes-cluster-with-prometheus-and-grafana-1f7d0195e59)
+* [13 Best Kubernetes Monitoring Tools: Open Source & Paid 2021 - Sematext](https://sematext.com/blog/kubernetes-monitoring-tools/)
 * [kubernetes를 이용한 서비스 무중단 배포](http://tech.kakao.com/2018/12/24/kubernetes-deploy/)
 * [Kubernetes and the Path to Serverless](https://www.youtube.com/watch?v=lKr6yw9Iw04)
 * [**Scaling Microservices with Message Queues, Spring Boot and Kubernetes**](https://hackernoon.com/scaling-microservices-with-message-queues-spring-boot-and-kubernetes-9ba4b0e48bdf)
@@ -946,6 +949,7 @@ Docker
   * 이 분리된 메카 아키텍처는 통합형 비즈니스 로직 단위의 이점을 제공하며 패치 적용, 업그레이드 및 장기 유지 보수와 같은 프로덕션  운영을 개선함
 * [실사례로 본 DB on Kubernetes 효과. 기업의 가장 중요한 자산은 Data이다. 그 Data를 보관하고… | by Jerry(이정훈) | Apr, 2021 | Medium](https://jerryljh.medium.com/%EC%8B%A4%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B3%B8-db-on-kubernetes-%ED%9A%A8%EA%B3%BC-eaed8e4e5811)
 * [실수 없이 안전하게 쿠버네티스 운영하기](https://toss.im/slash-21/sessions/1-5)
+* [Kubernetes 네트워크 이해하기 (1) : 컨테이너 네트워크부터 CNI까지 - Speaker Deck](https://speakerdeck.com/devinjeon/kubernetes-neteuweokeu-ihaehagi-1-keonteineo-neteuweokeubuteo-cniggaji)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
