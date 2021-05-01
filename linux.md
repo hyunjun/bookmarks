@@ -143,6 +143,7 @@ Linux
 * [How To Connect To A WPA Wifi Using Command Lines On Debian](https://www.howtoforge.com/how-to-connect-to-a-wpa-wifi-using-command-lines-on-debian)
 * [데비안(Debian)에서 최신 WIFI 드라이버 설치 방법](https://kkamagui.tistory.com/923)
 * [Debian running on Rust coreutils](https://sylvestre.ledru.info/blog/2021/03/09/debian-running-on-rust-coreutils)
+* [데비안 기반의 리눅스 배포판에서 페이스북에 한글 입력이 안될 때?](https://open-support.tistory.com/entry/%EB%8D%B0%EB%B9%84%EC%95%88-%EA%B8%B0%EB%B0%98%EC%9D%98-%EB%A6%AC%EB%88%85%EC%8A%A4-%EB%B0%B0%ED%8F%AC%ED%8C%90%EC%97%90%EC%84%9C-%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%EC%97%90-%ED%95%9C%EA%B8%80-%EC%9E%85%EB%A0%A5%EC%9D%B4-%EC%95%88%EB%90%A0-%EB%95%8C)
 * fcitx
 
   ```
