@@ -136,3 +136,4 @@ Writing
 * [The Mayfield Handbook of Technical & Scientific Writing](https://www.mit.edu/course/21/21.guide/toc.htm)
 * [Writing a technical book: from idea to print](https://sararobinson.dev/2020/11/17/writing-a-technical-book.html)
 * [구글 테크니컬라이터가 전하는 이야기 - Tech. Writer Log](https://naraewool.gitbook.io/techwriter/untitled/google-techwriter)
+* [기술문서 쉽게 쓰기 지침 #테크니컬라이터 #언어정책](https://tech.kakaoenterprise.com/105)
