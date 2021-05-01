@@ -35,6 +35,7 @@ Book
 * (NOT YET) [사람은 어떻게 생각하고 배우고 기억하는가](https://jhrogue.blogspot.com/2020/06/blog-post.html?spref=tw)
 * (NOT YET) [실질적으로 도움을 많이 주는 자기계발서 4권](https://brunch.co.kr/@dryjshin/367)
 * (NOT YET) [부모님의 집 정리](https://news.v.daum.net/v/20210425180002886)
+* (NOT YET) 거대도시 서울 철도 [지구 구하는 철학적 ‘철덕’ - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=44407)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
