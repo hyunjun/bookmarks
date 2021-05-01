@@ -1838,6 +1838,7 @@ Python
 * [정적 파일을 기본값으로 갖는 ImageField구현](https://lhy.kr/django-default-static-image-field)
 * [Dynamically import django settings for multiple environment such as local, dev, beta, production](http://blog.coffeeselo.com/django-settings-for-multiple-environments)
 * [9 Django Tips for Working with Databases](https://medium.com/@hakibenita/9-django-tips-for-working-with-databases-beba787ed7d3)
+* [Configure a Read Replica Database in Django | Towards Data Science](https://towardsdatascience.com/configure-a-read-replica-database-in-django-b0d54ec897f1)
 * [django에 MSSQL 연결하기](https://beomi.github.io/2018/02/02/Connect-django-to-MSSQL/)
 * [code.djangoproject.com/wiki/DjangoAndPyPy](https://code.djangoproject.com/wiki/DjangoAndPyPy)
 * [Faster Django Sites with PyPy](https://lincolnloop.com/blog/faster-django-sites-pypy/)
