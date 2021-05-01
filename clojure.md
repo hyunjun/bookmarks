@@ -36,6 +36,7 @@ Clojure
 * [ClojureScript Podcast](https://clojurescriptpodcast.com/)
 * [The future of Clojure | ThoughtWorks](https://www.thoughtworks.com/podcasts/future-clojure)
 * [A hidden message in Cognicast podcasts](https://grishaev.me/en/cognicast/)
+* [Gene Kim - Cognicast Episode 159](https://www.cognitect.com/cognicast/159)
 * [Episode 04 - Clojure by Telia Norway](https://soundcloud.com/telianorway/episode-04-clojure-edition)
 * [Jacek Schae](https://www.jacekschae.com/)
 * [Clojure Memo](http://philoskim.github.io/doc/)
@@ -335,6 +336,7 @@ Clojure
 * [Clojure, I Choose You! | Aspect Analytics](https://www.aspect-analytics.com/media/blog/2021-04-26-clojure-i-choose-you/)
 * [Solving the Expression Problem with Clojure 1.2](https://web.archive.org/web/20110821210021/http://www.ibm.com/developerworks/java/library/j-clojure-protocols/)
 * [Organizing Clojure code - A real problem? - Community Center / Beginners - ClojureVerse](https://clojureverse.org/t/organizing-clojure-code-a-real-problem/7567/16)
+* [Counting HTTP 0 9 3 0 by Oleksii Kachaiev - YouTube](https://www.youtube.com/watch?v=o5FXMVeSgFI)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -706,7 +708,9 @@ Clojure
 * [clj-kondo - A linter for Clojure code that sparks joy](https://github.com/borkdude/clj-kondo)
   * [REPL driven development with Clojure using Spacemacs, CIDER and clj-kondo - YouTube](https://www.youtube.com/watch?v=NDrpclY54E0)
   * [Linting Datalog with clj-kondo](https://www.lambdaforge.io/2019/11/08/clj-kondo-datalog-support.html)
+  * [clj-kondo.lsp: Clj-kondo language server and VSCode extension: https://marketplace.visualstudio.com/items?itemName=borkdude.clj-kondo ](https://github.com/clj-kondo/clj-kondo.lsp)
 * [cljmap-plantuml: View Clojure map as data diagram using PlantUML](https://github.com/jaeyeon-jo-kr/cljmap-plantuml)
+* [clj-maxima: Maxima as a clojure library](https://github.com/lsevero/clj-maxima)
 * [clj-refactor.el - Available refactorings](https://github.com/clojure-emacs/clj-refactor.el/wiki)
   * [A collection of Clojure refactoring functions for Emacs](https://github.com/clojure-emacs/clj-refactor.el)
 * [clj-template-reverse](https://github.com/sng2c/clj-template-reverse/blob/master/test/template_reverse/core_test.clj)
