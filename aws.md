@@ -669,6 +669,7 @@ AWS
 * [5일 만에 Azar Production Kubernetes cluster 이전하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/11/02/cluster-migration-in-5-days.html)
 * [EKS에서 쿠버네티스 포드의 IAM 권한 제어하기: Pod Identity Webhook](https://tech.devsisters.com/posts/pod-iam-role/)
 * [Setting up a working environment for Amazon EKS with AWS CloudShell - DEV Community](https://dev.to/aws-builders/setting-up-a-working-environment-for-amazon-eks-with-aws-cloudshell-1nn7)
+* [EKS Networking — CNI. AWS EKS provides managed Kubernetes… | by Amit Singh Rathore | Nerd For Tech | Mar, 2021 | Medium](https://medium.com/nerd-for-tech/eks-networking-cni-457ae298b9e6)
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
   * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
 
@@ -1046,7 +1047,8 @@ AWS
 * [Terraform + AWS 셋팅하기 Part 2. Terraform 기능 중 assume_role 과 workspace… | by Huy, Tae Young Kim | Modusign | Medium](https://medium.com/modusign/terraform-aws-%EC%85%8B%ED%8C%85%ED%95%98%EA%B8%B0-part-2-7e601e880273)
 * [Testing HashiCorp Terraform](https://www.hashicorp.com/blog/testing-hashicorp-terraform)
 * [입 개발 Databricks Terraform Provider databricks_aws_s3_mount 와 resource databricks_dbfs_file | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/30/%ec%9e%85-%ea%b0%9c%eb%b0%9c-databricks-terraform-provider-databricks_aws_s3_mount-%ec%99%80-resource-databricks_dbfs_file/)
-* [입 개발 Databricks Terrafrom Provider Install | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/30/%ec%9e%85-%ea%b0%9c%eb%b0%9c-databricks-terrafrom-provider-install/)
+* [입 개발 Databricks Terraform Provider Install | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/30/%ec%9e%85-%ea%b0%9c%eb%b0%9c-databricks-terrafrom-provider-install/)
+* [Terraform Best Practices - DevOps Unicorns 2019](https://www.slideshare.net/AntonBabenko/terraform-best-practices-devops-unicorns-2019)
 
 # Tutorial
 * [4분코딩 아마존 웹 서비스(Amazon Web Services)란?](https://www.youtube.com/watch?v=II5wMA5NrVM)
