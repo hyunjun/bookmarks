@@ -414,6 +414,7 @@ C
 * [startc is a minimal freestanding C runtime library for a 32-bit i386 PC](https://github.com/marssaxman/startc)
 * [Steel - Command line password manager](http://www.steelpasswordmanager.org/)
 * [SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages](http://www.swig.org/)
+* [tetris-os: An operating system, but it only plays Tetris](https://github.com/jdah/tetris-os)
 * [tinyosc - A minimal Open Sound Control (OSC) library written in C](https://github.com/mhroth/tinyosc)
 * [udptunnel - It allows TCP/UDP/ICMP traffic over UDP tunneling. It's useful to avoid Internet restrictions](https://github.com/astroza/udptunnel)
 * [uftrace - Function (graph) tracer for user-space](https://github.com/namhyung/uftrace)
