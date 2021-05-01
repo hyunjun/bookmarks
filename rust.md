@@ -228,6 +228,7 @@
 * [windows-rs: Rust for Windows](https://github.com/microsoft/windows-rs)
 * [xi editor - A modern editor with a backend written in Rust. https://xi-editor.io ](https://github.com/xi-editor/xi-editor)
   * [xi editor project is an attempt to build a high quality text editor, using modern software engineering techniques](https://github.com/google/xi-editor)
+* [xplr: A hackable, minimal, fast TUI file explorer](https://github.com/sayanarijit/xplr)
 * [xsv - A fast CSV command line toolkit written in Rust](https://github.com/BurntSushi/xsv)
   * [Doing a database join with CSV files](https://www.johndcook.com/blog/2019/12/31/sql-join-csv-files/)
 
