@@ -372,7 +372,6 @@ Python
 * [(PlaywithData)1day seminar_0630](https://www.slideshare.net/namsoojang3/playwithdata1day-seminar0630-152800415)
 * [**SERP Analysis with Google Search Console+Python**](https://hackernoon.com/serp-analysis-with-google-search-console-python-bf8a2ab43fa9)
   * Google Search Console Data, CSVs into a Pandas Dataframe, Plot total clicks over time
-* [Adaptive process and memory management for Python web servers](https://instagram-engineering.com/adaptive-process-and-memory-management-for-python-web-servers-15b0c410a043)
 * [Static Analysis at Scale: An Instagram Story](https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c)
 * [Python at Scale: Strict Modules](https://instagram-engineering.com/python-at-scale-strict-modules-c0bb9245c834)
 * [Pointers in Python](https://www.datacamp.com/community/tutorials/python-pointers)
@@ -2623,6 +2622,7 @@ Python
   * [How to permanently install a module on Google Colab](https://ayoolafelix.hashnode.dev/how-to-permanently-install-a-module-on-google-colab-ckixqrvs40su044s187y274tc)
   * [코랩에서 구글 모델 서치 구동하기](https://tykimos.github.io/2021/02/25/hello_model_search/)
   * [colab-biolab](https://github.com/hyeshik/colab-biolab)
+  * [colabctl: Google Colaboratory background/task executioner & controller.](https://github.com/TensorTom/colabctl)
   * [colab-tf-utils - Simple GDrive-Based model checkpointing from within Google's Colab service](https://github.com/Zahlii/colab-tf-utils)
   * [DeepLab Demo.ipynb](https://colab.research.google.com/github/tensorflow/models/blob/master/research/deeplab/deeplab_demo.ipynb)
   * [Mecab-ko-for-GoogleColab](https://github.com/SOMJANG/Mecab-ko-for-Google-Colab)
@@ -3462,8 +3462,10 @@ Python
   * [Pylint Tutorial – How to Write Clean Python](https://www.youtube.com/watch?v=fFY5103p5-c)
 
 ## Library Memory
+* [Adaptive process and memory management for Python web servers](https://instagram-engineering.com/adaptive-process-and-memory-management-for-python-web-servers-15b0c410a043)
 * [Diagnosing Memory "Leaks" in Python](http://chase-seibert.github.io/blog/2013/08/03/diagnosing-memory-leaks-python.html)
 * [How to recover lost Python source code if it's still resident in-memory](https://gist.github.com/simonw/8aa492e59265c1a021f5c5618f9e6b12)
+* [파이썬이 메모리를 관리하는 방법 | seonghyeon.dev](https://seonghyeon.dev/python-memory-management) 내부 메모리 관리 설명, pymalloc
 * [Memspector - Inspect memory usage of python functions](https://github.com/asciimoo/memspector/)
 * [psutil documentation — cross-platform library for retrieving information on running processes and system utilization (CPU, memory, disks, network, sensors) in Pytho](https://psutil.readthedocs.io/)
   * [python 프로그램 메모리 사용량 확인](https://jybaek.tistory.com/895)
