@@ -2600,12 +2600,13 @@ Programming
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
-* [NSA가 만든 무료 리버스 엔지니어링 툴, "기드라" 사용 방법](http://www.itworld.co.kr/news/122618)
 * [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/)
+* [화이트해커 웹 해킹 기술 - YouTube](https://www.youtube.com/playlist?list=PLK3IOiy3HLQb6jA9bA5-nJqFxJ96aytCz)
+* [NSA가 만든 무료 리버스 엔지니어링 툴, "기드라" 사용 방법](http://www.itworld.co.kr/news/122618)
 * [h4cker - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more](https://github.com/The-Art-of-Hacking/h4cker)
 * [ImHex: A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM](https://github.com/WerWolv/ImHex)
 * [Rainbow Tables | The Linux Rain](https://www.thelinuxrain.com/articles/rainbow-tables) hashed value to password
-* [화이트해커 웹 해킹 기술 - YouTube](https://www.youtube.com/playlist?list=PLK3IOiy3HLQb6jA9bA5-nJqFxJ96aytCz)
+* [Reverse-Engineering: A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures](https://github.com/mytechnotalent/Reverse-Engineering)
 
 # RPC
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
