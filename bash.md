@@ -34,6 +34,8 @@ Shell
 * [Minimal safe Bash script template | Better Dev](https://betterdev.blog/minimal-safe-bash-script-template/)
 * [Become shell literate](https://drewdevault.com/2020/12/12/Shell-literacy.html)
 * [Bash tips for everyday at the command line | Opensource.com](https://opensource.com/article/18/5/bash-tricks)
+* [Writing Safe Shell Scripts](https://sipb.mit.edu/doc/safe-shell/)
+  * [안전한 쉘 스크립트 작성하기 | GeekNews](https://news.hada.io/topic?id=1434)
 * [**bash parameter expansion**](https://wizardzines.com/comics/parameter-expansion/)
   * ${var}, ${#var}, ${var/bear/panda}, ${var:-othervar}, ${var:?some error}, ${var#pattern}, ${var%pattern}, ${var:offset:length}
 * argument
@@ -112,6 +114,8 @@ Shell
 * [abs | Home of the ABS programming language: the joy of shell scripting](https://www.abs-lang.org/)
   * [Introducing ABS, a programming language for shell scripting | by Alex Nadalin | freeCodeCamp.org | Medium](https://medium.com/free-code-camp/introducing-abs-a-programming-language-for-shell-scripting-dfbd737d621)
 * [aviary.sh: Minimal distributed configuration management in bash](https://github.com/team-video/aviary.sh)
+* [BASH with Debugger and Improved Debug Support and Error Handling](http://bashdb.sourceforge.net/)
+  * [BASH Debugger | GeekNews](https://news.hada.io/topic?id=4128)
 * [bashhub - Bash History in the Cloud](https://bashhub.com/)
 * [Bash Infinity - a standard library and a boilerplate framework for writing tools using bash](https://github.com/niieani/bash-oo-framework)
 * [Bash Quick References](https://shellmagic.xyz/)
@@ -122,6 +126,8 @@ Shell
 * [ShellCheck finds bugs in your shell scripts](https://www.shellcheck.net/)
   * [shellcheck: ShellCheck, a static analysis tool for shell scripts](https://github.com/koalaman/shellcheck)
   * [쉘 스크립트를 만드는 당신, ShellCheck을 써라!](http://blog.weirdx.io/post/43810)
+  * [Lessons learned from writing ShellCheck, GitHub’s now most starred Haskell project – Vidar's Blog](https://www.vidarholen.net/contents/blog/?p=859)
+    * [ShellCheck를 만들면서 배운 것들 | GeekNews](https://news.hada.io/topic?id=1486)
 * [Sherlock.py - transpiler that translate python to shell script language](https://github.com/Luavis/sherlock.py)
 * [tsk-tsk: TSK - The Scripting Kit](https://github.com/tsk-tsk/tsk-tsk)
 * zenity [How to Modernize Your Bash Scripts By Adding GUI | by Shalitha Suranga | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/how-to-modernize-your-bash-scripts-by-adding-gui-cba613a34cb7)
