@@ -20,6 +20,8 @@ Linux
 * [All about Linux](https://brunch.co.kr/magazine/linux)
 * [Understanding the bin, sbin, usr/bin , usr/sbin split](http://lists.busybox.net/pipermail/busybox/2010-December/074114.html)
 * [보안 강화 리눅스(Security-Enhanced Linux)](https://lesstif.gitbooks.io/web-service-hardening/content/selinux.html)
+* [6 open source tools and tips to securing a Linux server for beginners | Opensource.com](https://opensource.com/article/21/4/securing-linux-servers)
+  * [초보자를 위한 리눅스 서버 보안용 오픈소스들과 팁 | GeekNews](https://news.hada.io/topic?id=4152)
 * [Securing your Linux web server](https://hackernoon.com/securing-your-linux-web-server-2be683c223eb)
 * supervisord
   * [Deploy SSR Applications using Supervisord](https://hackernoon.com/deploy-ssr-applications-using-supervisord-dc32f1c0cda4)
@@ -720,6 +722,7 @@ Linux
   * [Working with systemd-networkd. All about using systemd-networkd as… | by Sahitya Maruvada | 100 Days of Linux | Medium](https://medium.com/100-days-of-linux/working-with-systemd-networkd-e461cfe80e6d)
   * [Services in systemd: In-Depth Tutorial | by Michael Krasnov | Better Programming | Medium](https://medium.com/better-programming/services-in-systemd-in-depth-tutorial-7e47c485edbf)
   * [How to set environment variable in systemd service? - Server Fault](https://serverfault.com/questions/413397/how-to-set-environment-variable-in-systemd-service)
+  * [5 reasons sysadmins love systemd | Opensource.com](https://opensource.com/article/21/4/sysadmins-love-systemd)
 * systemtap
   * [커널 분석을 위한 systemtap 스크립트](https://brunch.co.kr/@alden/42)
 * `tac`
