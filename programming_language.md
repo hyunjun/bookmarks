@@ -165,6 +165,8 @@ Programming Language
 * [CROBOTS is a programming game, for programmers (or aspiring programmers.)](http://tpoindex.github.io/crobots/)
 * [Crystal](http://crystal-lang.org/)
   * [Slick Like Ruby, Fast Like C — Does Such a Language Exist? | by Tameem Iftikhar | Better Programming | Medium](https://medium.com/better-programming/slick-like-ruby-fast-like-c-does-such-a-language-exist-9066fc16e6f1)
+  * [Crystal Language That Aims at C Performance with Ruby Syntax Releases 1.0](https://www.infoq.com/news/2021/04/crystal-ruby-c-release-1/)
+  * [루비 언어와 닮은꼴··· 크리스탈 1.0 릴리스 이모저모 - CIO Korea](https://www.ciokorea.com/news/187893)
 * [D](http://ddili.org/ders/d.en/)
   * [D 프로그래밍 언어](https://wikidocs.net/book/457)
   * [eBay's TSV Utilities: Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more. https://ebay.github.io/tsv-utils ](https://github.com/eBay/tsv-utils) csv/tsv
