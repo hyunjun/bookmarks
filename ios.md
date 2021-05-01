@@ -522,3 +522,4 @@ iOS
 * [CoPilot – Collaborative editing for Xcode](http://feinstruktur.com/copilot/)
 * [luft - The Xcode Plugin that helps you write lighter view controllers https://github.com/k0nserv/luft](https://github.com/k0nserv/luft)
 * [안녕 XcodeGen](https://pilgwon.github.io/post/hello-xcodegen)
+* [Xcode 프로젝트 내부 경로 관리](https://medium.com/@jungkim/xcode-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%82%B4%EB%B6%80-%EA%B2%BD%EB%A1%9C-%EA%B4%80%EB%A6%AC-b5e00f2a114a)
