@@ -1180,6 +1180,7 @@ Scala
     * [Fire-and-Forget in Cats Effect](https://www.inner-product.com/posts/fire-and-forget-in-cats-effect/)
     * [Cats Effect 3: Racing IOs (and Fibers) - YouTube](https://www.youtube.com/watch?v=75HqyZ04AFs)
     * [Cats Effect 3 - Introduction to Fibers - Rock the JVM Blog](https://blog.rockthejvm.com/cats-effect-fibers/)
+    * [Daniel Spiewak - Cats Effect 3 - YouTube](https://www.youtube.com/watch?v=JrpFFRdf7Q8)
     * [herding cats — Effect system](https://eed3si9n.com/herding-cats/effect-system.html)
   * [Cats Parse](https://slides.com/lewisjkl/cats-parse)
     * [SF Scala: Introduction to Cats Parse By Jeff Lewis - YouTube](https://www.youtube.com/watch?v=wreCg30pyts)
