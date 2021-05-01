@@ -4383,6 +4383,7 @@ Python
 * [안녕 프로그래밍](https://opentutorials.org/course/2700)
 * [네 Python은 느립니다, 하지만 저는 신경쓰지 않습니다](https://b.ssut.me/yes-python-is-slow-and-i-dont-care/)
 * [파이썬 코딩 무료 강의 (기본편) - 6시간 뒤면 여러분도 개발자가 될 수 있어요 나도코딩 - YouTube](https://www.youtube.com/watch?v=kWiCuklohdY)
+* [파이썬 YouTube 뮤직플레이어 개발 강좌](https://scv-life.tistory.com/97)
 
 # VSCode, Visual Studio Code
 * [김명신: Python 개발을 위한 최상의 무료 개발 도구 Visual Studio와 Visual Studio Code - PyCon Korea 2015](https://www.youtube.com/watch?v=QzfalQn1lc0)
