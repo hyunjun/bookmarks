@@ -148,6 +148,9 @@
 # Book
 * [Table of Contents - Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
 
+# Concurrency
+* [cs492-concur](https://github.com/kaist-cp/cs492-concur)
+
 # Conference
 * [GOTO 2020 • Next-Generation Programming: Rust & Elm • Richard Feldman - YouTube](https://www.youtube.com/watch?v=ukVqQGbxM9A)
 
