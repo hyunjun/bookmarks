@@ -230,6 +230,7 @@ Network
 * [QUIC과 HTTP/3 - 3. curl + quiche 로 HTTP3 요청해 보기](https://www.saturnsoft.net/network/2019/08/11/http3-curl-quiche/)
 * [The Maturing of QUIC](https://www.fastly.com/blog/maturing-of-quic)
 * [The state of QUIC and HTTP/3 2020 | Fastly](https://www.fastly.com/blog/state-of-quic-and-http3-2020)
+* [HTTP/3: 과거, 현재 그리고 미래](https://blog.cloudflare.com/ko-kr/http3-the-past-present-and-future-ko-kr/)
 * [Benchmarking QUIC. Summer 2020 | by Alex Yu | Medium](https://medium.com/@the.real.yushuf/benchmarking-quic-1fd043e944c7)
 * [페이스북 엔지니어링 블로그 번역 QUIC으로 수십억 트래픽을 대응하는 법](https://www.notion.so/QUIC-a6f0f26119a4417492e365134aa107bb)
 * [MsQuic - Cross platform C implementation of the IETF QUIC protocol](https://github.com/Microsoft/msquic)
