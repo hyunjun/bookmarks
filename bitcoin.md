@@ -156,6 +156,7 @@ Bitcoin
 * [Mining Ethereum on M1 Mac GPU – Yifan Gu's Blog](https://blog.yifangu.com/2021/02/26/mining-ethereum-on-a-m1-mac-gpu/)
 * [GETH를 이용하여 private network 구축하기](https://blog.naver.com/pjt3591oo/222246052626)
 * [Ethereum](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180904_JM_Blockchain_03.md)
+* [이더리움 2.0 정복하기 - YouTube](https://www.youtube.com/playlist?list=PLLDf3_vgzDhgVuQTdTZeVl69tAWMFIvIF)
 * [PublicVotes - A publicly verifiable Voting System, powered by Smart Contracts](http://publicvotes.org/)
 * [toolbox - etherscripter](http://etherscripter.com/0-5-1/)
 * [vyper - Pythonic Smart Contract Language for the EVM](https://github.com/ethereum/vyper)
@@ -189,6 +190,7 @@ Bitcoin
 * [ethereum ERC721을 이용한 NFT 만들기 - 1편](https://blog.naver.com/pjt3591oo/222317130702)
 * [ethereum ERC721을 이용한 NFT 만들기 - 2편](https://blog.naver.com/pjt3591oo/222317592157)
 * [문과생이 떠먹여주는 블록체인 - NFT 완전정복!) NFT의 활용, 메타 데이터 저장소 위치, ERC721 vs 1155 설명,차이점, 코드 살펴보기& 배포까지 - YouTube](https://www.youtube.com/watch?v=LRA4F9IZ1K0)
+* [크립토좀비 Chapter02) NFT 기반 좀비게임을 만들면서 익히는 누구나 할 수 있는 블록체인 코딩! 솔리디티 함수를 만들어 보면서 좀비에게 공격하는 기능 구현해 보기 - YouTube](https://www.youtube.com/watch?v=8ez2wx-ZqL8)
 
 # Python
 * [A peek under Bitcoin's hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
