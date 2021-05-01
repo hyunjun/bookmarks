@@ -203,6 +203,7 @@ Interview
 * [innovationacademy-kr/tech-hr](https://github.com/innovationacademy-kr/tech-hr/blob/master/SUMMARY.md)
 * [Why Senior Engineers Hate Coding Interviews | by Adam Storm | The Startup | Medium](https://medium.com/swlh/why-senior-engineers-hate-coding-interviews-d583d2855757)
 * [데이터 엔지니어 두 번째 취준 회고록 — 그랩의 블로그](https://tansfil.tistory.com/66)
+* [what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"](https://github.com/alex/what-happens-when)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
