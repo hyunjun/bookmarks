@@ -198,6 +198,7 @@ Git
 * [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
 * [Git Workflow Diagram](https://happygrammer.github.io/guide/git-workflow-diagram/)
 * [What’s wrong with Git? A conceptual design analysis | the morning paper](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
+* [Git as a NoSql database](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
