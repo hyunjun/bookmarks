@@ -209,6 +209,7 @@ Web
 * [웹 접근성 인증 받는 방법과 후기 – Under The Pencil](https://elvanov.com/2123)
 * [50 HTML Best Practices & Guidelines to Build Better Web Projects | by Before Semicolon | Feb, 2021 | Medium](https://beforesemicolon.medium.com/50-html-best-practices-guidelines-to-build-better-web-projects-541736511c2d)
 * [37. 월드와이드웹(WWW)의 시작 1 | 만화로 나누는 자유/오픈소스 소프트웨어 이야기](https://joone.net/2021/01/02/37-%ec%9b%94%eb%93%9c%ec%99%80%ec%9d%b4%eb%93%9c%ec%9b%b9www%ec%9d%98-%ec%8b%9c%ec%9e%91-1/)
+* [WebDevChallenge: A hopefully ever-growing list of web-development related challenges](https://github.com/jlem/WebDevChallenge)
 
 # Apache
 * installation
@@ -714,6 +715,7 @@ Web
 * [GET과 POST의 차이 :: Outsider's Dev Story](https://blog.outsider.ne.kr/312)
 * [**REST API: PUT VS POST**](https://1ambda.github.io/javascripts/rest-api-put-vs-post/)
 * [post vs put](https://multifrontgarden.tistory.com/245)
+* [새로운 HTTP SEARCH 메소드 | GeekNews](https://news.hada.io/topic?id=4083)
 * [Domain-Driven Design for RESTful Systems](https://yow.eventer.com/events/1004/talks/1047)
   * [도메인 주도 설계의 본질](http://www.slideshare.net/baejjae93/ss-27536729)
 * [DDD 입문 @ZUM](https://wckhg89.github.io/archivers/ddd)
