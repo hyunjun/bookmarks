@@ -158,7 +158,8 @@ iOS
 * [Mac app wrapping Facebook's Messenger for desktop](https://github.com/rsms/fb-mac-messenger)
 * [Hidden backdoor API to root privileges in Apple OS X](https://truesecdev.wordpress.com/2015/04/09/hidden-backdoor-api-to-root-privileges-in-apple-os-x/)
 
-# [Swift](https://swift.org/)
+# Swift
+* [Swift](https://swift.org/)
 * [Core Data 그리고 Swift: 동시 실행(Concurrency)](http://code.tutsplus.com/ko/tutorials/core-data-and-swift-concurrency--cms-25118)
 * [Objective-C 프로젝트를 Swift로 Converting하며 배운 교훈들](http://blog.sendbird.com/ko/objective-c-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-swift%EB%A1%9C-converting%ED%95%98%EB%A9%B0-%EB%B0%B0%EC%9A%B4-%EA%B5%90%ED%9B%88%EB%93%A4/)
 * [Swift 프로젝트에 Cocoa Pods 이용하기 - 완두블로그](https://wani.kr/posts/2015/02/16/how-to-use-cocoa-pods/)
@@ -479,6 +480,8 @@ iOS
   * [사진 게시판 API 만들기 4](http://blog.yagom.net/571)
   * [사진 게시판 API 만들기 5](http://blog.yagom.net/572)
   * [사진 게시판 API 만들기 6](http://blog.yagom.net/573)
+* [Soulver | Acqualia](https://www.acqualia.com/soulver/)
+  * [SoulverCore: A powerful Swift framework for evaluating mathematical expressions](https://github.com/soulverteam/SoulverCore)
 * SPM Swift Package Manager [Swift Package 에 리소스 추가하기](https://brunch.co.kr/@tilltue/63)
 * [Swift Core ML implementations of Transformers: GPT-2, BERT, more coming soon!](https://github.com/huggingface/swift-coreml-transformers)
 * [swifter - Tiny http server engine written in Swift programming language](https://github.com/glock45/swifter)
