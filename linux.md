@@ -375,6 +375,8 @@ Linux
 * [**리눅스 아재력 or 할배력 셀프 테스트**](https://sunyzero.tistory.com/245)
 * [코드잇 :: 알고 있으면 개발자에게 유익한 유닉스 커맨드 꿀팁](https://blog.codeit.kr/post/6052b25f701df852a9157516) man less cp rm history
 * [**explainshell.com - match command-line arguments to their help text**](https://explainshell.com/)
+* [How to Test Network Speed in Linux {9 Tools} | phoenixNAP KB](https://phoenixnap.com/kb/linux-network-speed-test)
+  * Speedtest, Fast, Color Bandwidth Meter (CBM), iPerf, nload, Tcptrack, Iftop, Wget, youtube-dl
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
@@ -1052,12 +1054,14 @@ Linux
 * Thread
   * [Raw Linux Threads via System Calls](http://nullprogram.com/blog/2015/05/15/)
 
-# [Tmux](https://tmux.github.io/)
+# Tmux
+* [Tmux](https://tmux.github.io/)
 * [install](http://linoxide.com/how-tos/install-tmux-manage-multiple-linux-terminals/)
 * [Tmux Tutorial](https://leimao.github.io/blog/Tmux-Tutorial/)
 * [**A Tmux crash course: tips and tweaks**](http://tangosource.com/blog/a-tmux-crash-course-tips-and-tweaks/)
 * [A tmux Crash Course](https://robots.thoughtbot.com/a-tmux-crash-course)
 * [tmux 입문자 시리즈 요약](http://haruair.com/blog/2124)
+* [Get Started With Tmux - Sunaina Pai](https://sunainapai.in/blog/get-started-with-tmux/)
 * [tmux shortcuts & cheatsheet](https://gist.github.com/MohamedAlaa/2961058)
 * [tmux cheat sheet](https://gist.github.com/andreyvit/2921703)
 * [TTY 멀티플랙서 tmux](https://blog.outsider.ne.kr/699)
@@ -1088,7 +1092,7 @@ Linux
   * [리눅스에서 터미널과 클립보드 연동하기 - Xclip과 Tmux](http://blog.nacyot.com/articles/2014-07-29-linux-terminal-and-copy-integration/)
   * [X클립을 사용한 리눅스의 GUI 클립보드와 터미널 연동](https://www.44bits.io/ko/post/connecting-terminal-and-gui-cliboard-in-linux-by-using-xclip)
 
-## command
+## Tmux command
 * 활성/비활성 pane 배경색 분리; tmux 1.8에서는 동작하지 않는 걸로 보임
 
   ```
@@ -1104,7 +1108,7 @@ Linux
 * [How do I reorder tmux windows?](http://superuser.com/questions/343572/how-do-i-reorder-tmux-windows)
   * `swap-window -s [from-number] -t [to-number]` or `swap-window -t [to-number]`
 
-## command troubleshooting
+## Tmux command troubleshooting
 * [tmux protocol version mismatch (client N server M)](http://unix.stackexchange.com/questions/122238/protocol-version-mismatch-client-8-server-6-when-trying-to-upgrade)
 
   ```
