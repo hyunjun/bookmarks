@@ -130,6 +130,7 @@
 * rustup [Rust 크로스 컴파일 방법](https://happygrammer.github.io/rust/problem/cross-compile/)
 * [Calling .NET APIs from Rust](https://ericsink.com/entries/lousygrep.html)
 * [Speed of Rust vs C](https://kornel.ski/rust-c-speed)
+* [Implicit In-order Forests: Zooming a billion trace events at 60fps - Tristan Hume](https://thume.ca/2021/03/14/iforests/)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
