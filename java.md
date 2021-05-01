@@ -547,6 +547,7 @@ Java
 * [Vavr’s flatMap in action](https://blog.softwaremill.com/vavrs-flatmap-in-action-a975a99c4319)
 * [Let’s replace common list and map usage patterns with Vavr](https://blog.softwaremill.com/lets-replace-common-list-and-map-usage-patterns-with-vavr-663b1f37a0d8)
 * [Java 8 Method reference - Java2Blog](https://java2blog.com/java-8-method-reference/)
+* [You can't afford to run Java 8](https://mikemybytes.com/2021/03/16/you-cant-afford-to-run-java-8/)
 
 ## Java8 Library
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)
@@ -642,6 +643,7 @@ Java
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
 * [**여러 개의 JDK를 설치하고 선택해서 사용하기**](https://blog.benelog.net/installing-jdk.html) APT/YUM, update-alternatives / alternatives, Homebrew, Chocolatey, direnv, jEnv, SDKMAN, jabba
+* [JDK Mission Control 8 Released](https://www.infoq.com/news/2021/04/jdk-mission-control-8-released/)
 * [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
   * [윈도우에 여러 자바 설치하기](http://dalinaum.github.io/java/2021/03/07/multiple-jdks-2.html)
 
@@ -673,6 +675,7 @@ Java
 * [jdk.java.net](https://jdk.java.net) OpenJDK 설치 binary
 * [Microsoft Build of OpenJDK](https://www.microsoft.com/openjdk)
   * [Announcing Preview of Microsoft Build of OpenJDK | Java at Microsoft](https://devblogs.microsoft.com/java/announcing-preview-of-microsoft-build-of-openjdk/)
+  * [MS, 자체 오픈 JDK 프리뷰 릴리즈 공개 - CIO Korea](https://www.ciokorea.com/news/189343)
 * [Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [TornadoVM: 🌪️ TornadoVM: A practical and efficient heterogeneous programming framework for managed languages](https://github.com/beehive-lab/TornadoVM)
   * [TornadoVM: Java for GPUs and FPGAs - YouTube](https://www.youtube.com/watch?v=Q-_eB86hPPA)
