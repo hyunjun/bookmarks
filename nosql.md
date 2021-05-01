@@ -4,8 +4,6 @@ NoSQL
 * [Acquisition of Seismic, Hydroacoustic, and Infrasonic Data with Hadoop and Accumulo](http://srl.geoscienceworld.org/content/88/6/1553)
   * 미국 국립 데이터 센터가 시계열 데이터를 수집하기 위해 HDFS, Apache Accumulo, Apache NiFi 및 Apache Zeppelin을 기반으로 하는 새로운 시스템을 어떻게 사용하고 있는지 설명
   * 현재 200 센서에서 거의 500,000 event/sec을 처리
-* [Building a Distributed Fault-Tolerant Key-Value Store](http://blog.fourthbit.com/2015/04/12/building-a-distributed-fault-tolerant-key-value-store)
-* [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 * [Indeed LSM Tree](https://github.com/indeedeng/lsmtree)
 * [ToroDB: A MongoDB-compatible, document-oriented database on top of PostgreSQL](http://www.8kdata.com/torodb/)
 * [Please stop calling databases CP or AP](https://martin.kleppmann.com/2015/05/11/please-stop-calling-databases-cp-or-ap.html)
@@ -39,6 +37,7 @@ NoSQL
 * ["NoSQL을 넘어" 분산 SQL의 당위성 - ITWorld Korea](http://www.itworld.co.kr/news/158527)
 * [5 Pitfalls of NoSQL Databases. I recorded a video in which I talk… | by Maciej Szymczyk | Sep, 2020 | ITNEXT](https://itnext.io/5-pitfalls-of-nosql-databases-c35012431a80)
 * [Have the tables turned on NoSQL? - Stack Overflow Blog](https://stackoverflow.blog/2021/01/14/have-the-tables-turned-on-nosql/)
+* [NoSQL Data Modeling Techniques – Highly Scalable Blog](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
 
 # ArangoDB
 * [Performance comparison between ArangoDB, MongoDB, Neo4j and OrientDB](https://www.arangodb.com/2015/06/performance-comparison-between-arangodb-mongodb-neo4j-and-orientdb/)
@@ -48,8 +47,6 @@ NoSQL
 
 # [Aerospike](http://www.aerospike.com/) High performance NoSQL database delivering speed at scale
 * [Call me maybe: Aerospike](https://aphyr.com/posts/324-call-me-maybe-aerospike)
-
-# [AtlasDB is a transactional layer on top of a key value store](https://github.com/palantir/atlasdb)
 
 # Azure DocumentDB
 * [NoSQL database service Azure DocumentDB now Generally Available](http://azure.microsoft.com/blog/2015/04/08/nosql-database-service-azure-documentdb-now-generally-available)
@@ -109,6 +106,7 @@ NoSQL
 * [Couchbase Spring data repository 적용기(1)](http://tmondev.blog.me/221016955783)
 * [Couchbase Spring data repository 적용기(2)](http://tmondev.blog.me/221022211160)
 * [Couchbase Spring data repository 적용기(3)](http://tmondev.blog.me/221024529817)
+* [Couchbase Details Its Distributed ACID Transaction Architecture](https://www.infoq.com/news/2021/04/couchbase-transactions/)
 
 # CouchDB
 * [Let’s learn Erlang and fix a bug on a CouchDB Cluster #1](http://robert-kowalski.de/blog/lets-learn-erlang-and-fix-a-bug-on-a-couchdb-cluster/)
@@ -129,12 +127,6 @@ NoSQL
 
 # [FiloDB](http://velvia.github.io/Introducing-FiloDB/)
 * [2017 High Performance Database with Scala, Akka, Spark](https://www.slideshare.net/EvanChan2/2017-high-performance-database-with-scala-akka-spark)
-
-# [FoundationDB](https://www.foundationdb.org/)
-* [FoundationDB - the open source, distributed, transactional key-value store https://www.foundationdb.org](https://github.com/apple/foundationdb/)
-  * 관계형DB의 ACID 트랜잭션을 지원하는 NoSQL DB
-  * 분산 인프라 기반 키-값 구조 저장소와 애플리케이션에 단일 SQL DB처럼 연결되는 추상화 계층 지원
-  * 애플이 인수 후 오폰소스로 공개
 
 # [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 
@@ -259,9 +251,6 @@ NoSQL
   * [한시간에 만드는 대용량 로그 수집 시스템](http://bcho.tistory.com/1158)
   * [Google Cloud에서 Dataflow 정리](https://jungwoon.github.io/google%20cloud/2017/12/13/Google-Dataflow/)
 
-# Graviton
-* [graviton: Graviton Database: ZFS for key-value stores](https://github.com/deroproject/graviton)
-
 # [Greenplum Database (GPDB)](https://github.com/greenplum-db/gpdb)
 * [stricky.tistory.com/category/GPDB with BIG data](https://stricky.tistory.com/category/GPDB%20with%20BIG_data)
   * [실시간 빅데이터 처리 DBMS 비교 Firebase Realtime Database vs GPDB](https://stricky.tistory.com/105)
@@ -279,14 +268,6 @@ NoSQL
 * [Mastering Hazelcast IMDG](https://hazelcast.com/resources/mastering-hazelcast)
 * [Securing Hazelcast (tcp) traffic with Stunnel | by Kamran Zafar | The Startup | Medium](https://medium.com/swlh/securing-hazelcast-tcp-traffic-with-stunnel-ff2b4b93158a)
 
-# [Infinispan](http://infinispan.org/) Distributed in-memory key/value data grid and cache
-* [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)
-
-# IndexedDB
-* [IndexedDB is an asynchronous, transactional, key-value object store](https://dev.opera.com/articles/introduction-to-indexeddb/)
-* [A quick but complete guide to IndexedDB and storing data in browsers](https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501)
-* [IndexedDB를 활용한 카트라이더 룰렛으로 성공한 덕후 되기](https://medium.com/@justdummyforall/indexeddb%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94-%EB%A3%B0%EB%A0%9B%EC%9C%BC%EB%A1%9C-%EC%84%B1%EA%B3%B5%ED%95%9C-%EB%8D%95%ED%9B%84-%EB%90%98%EA%B8%B0-b32cac013f06)
-
 # In-memory In memory
 * [A K/V Store For In-Memory Analytics: Part 1](http://0xdata.com/blog/2014/02/kv-store-memory-analytics/)
 * [A K/V Store For In-Memory Analytics, Part 2](http://0xdata.com/blog/2014/05/kv-store-memory-analytics-part-2-2/)
@@ -297,14 +278,35 @@ NoSQL
 # [Irmin - a distributed database that follows the same design principles as Git](https://github.com/mirage/irmin)
 * [Introducing Irmin: Git-like distributed, branchable storage](https://mirage.io/blog/introducing-irmin)
 
+# Key-Value
+* [Building a Distributed Fault-Tolerant Key-Value Store](http://blog.fourthbit.com/2015/04/12/building-a-distributed-fault-tolerant-key-value-store)
+* [Implementing a Key-Value Store](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
+* [AtlasDB is a transactional layer on top of a key value store](https://github.com/palantir/atlasdb)
+* [FoundationDB](https://www.foundationdb.org/)
+  * [FoundationDB - the open source, distributed, transactional key-value store https://www.foundationdb.org](https://github.com/apple/foundationdb/)
+    * 관계형DB의 ACID 트랜잭션을 지원하는 NoSQL DB
+    * 분산 인프라 기반 키-값 구조 저장소와 애플리케이션에 단일 SQL DB처럼 연결되는 추상화 계층 지원
+    * 애플이 인수 후 오폰소스로 공개
+* [graviton: Graviton Database: ZFS for key-value stores](https://github.com/deroproject/graviton)
+* [Infinispan](http://infinispan.org/) Distributed in-memory key/value data grid and cache
+  * [Infinispan Spark connector 0.1 released!](http://blog.infinispan.org/2015/08/infinispan-spark-connector-01-released.html)
+* [IndexedDB is an asynchronous, transactional, key-value object store](https://dev.opera.com/articles/introduction-to-indexeddb/)
+  * [A quick but complete guide to IndexedDB and storing data in browsers](https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501)
+  * [IndexedDB를 활용한 카트라이더 룰렛으로 성공한 덕후 되기](https://medium.com/@justdummyforall/indexeddb%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94-%EB%A3%B0%EB%A0%9B%EC%9C%BC%EB%A1%9C-%EC%84%B1%EA%B3%B5%ED%95%9C-%EB%8D%95%ED%9B%84-%EB%90%98%EA%B8%B0-b32cac013f06)
+* [lf - Fully Decentralized Fully Replicated Key/Value Store](https://github.com/zerotier/lf)
+* [MDBM - a super-fast memory-mapped key/value store](https://github.com/yahoo/mdbm)
+* [MICA: A Holistic Approach to Fast In-Memory Key-Value Storage](https://www.cs.cmu.edu/~hl/papers/mica-nsdi2014.pdf)
+* [minikeyvalue: A distributed key value store in under 1000 lines. Used in production at comma.ai](https://github.com/geohot/minikeyvalue)
+* [Sparkey - Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts](https://github.com/spotify/sparkey)
+* [UnQLite - An Embeddable NoSQL Database Engine](https://unqlite.org/)
+* Venice; Linkedin 에서 사용하고 있는 분산 Key-Value 데이터베이스
+  * [Venice Hybrid: Doing Lambda Better](https://engineering.linkedin.com/blog/2017/12/venice-hybrid--doing-lambda-better) Venice를 통해 Lambda 아키텍처를 구현하는 것을 설명
+
 # LevelDB
 * [Transaction manager for Node.js LevelDB: two-phase locking, snapshot isolation, atomic commits](https://github.com/cshum/level-transactions)
 * [A blazing fast geo database with LevelDB, Go and Geohashes](http://blog.nobugware.com/post/2015/leveldb_geohash_golang/)
 * [levi - Streaming full-text search for Node.js and browsers. Built on LevelDB](https://github.com/cshum/levi)
 * [Siberite is a simple leveldb backed message queue server](https://github.com/bogdanovich/siberite)
-
-# LF
-* [lf - Fully Decentralized Fully Replicated Key/Value Store](https://github.com/zerotier/lf)
 
 # [LMDB - Lightning Memory-Mapped Database Manager](http://symas.com/mdb/doc/)
 * [github.com/LMDB/lmdb](https://github.com/LMDB/lmdb)
@@ -317,8 +319,6 @@ NoSQL
 # MapD; C++로 구현, GPU 기반의 In-Memory Columnar SQL DB
 * [MapD: Massive Throughput Database Queries with LLVM on GPUs](http://devblogs.nvidia.com/parallelforall/mapd-massive-throughput-database-queries-llvm-gpus/)
 * [MapD Open Sources GPU-Powered Database](https://www.mapd.com/blog/2017/05/08/mapd-open-sources-gpu-powered-database/)
-
-# [MDBM - a super-fast memory-mapped key/value store](https://github.com/yahoo/mdbm)
 
 # Memcached
 * [MONITORING GROWING MEMCACHED](http://engineering.vinted.com/2015/06/09/monitoring-growing-memcached/)
@@ -341,10 +341,6 @@ NoSQL
 * [Customer Guest Post: Learning the MemSQL JSON Column Type](http://blog.memsql.com/json-column-type/)
 * [MemSQL Community Edition Available on AWS and Azure Marketplaces](http://blog.memsql.com/memsql-on-aws-and-azure/)
 * [Using MemSQL and Spark for Machine Learning](https://dzone.com/articles/using-memsql-and-spark-for-machine-learning-memsql)
-
-# [MICA: A Holistic Approach to Fast In-Memory Key-Value Storage](https://www.cs.cmu.edu/~hl/papers/mica-nsdi2014.pdf)
-
-# [minikeyvalue: A distributed key value store in under 1000 lines. Used in production at comma.ai](https://github.com/geohot/minikeyvalue)
 
 # MongoDB
 * [Install MongoDB Community Edition on macOS](https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/#install-mongodb-community-edition-on-macos)
@@ -395,6 +391,8 @@ NoSQL
 * [Getting Started with MongoDB: What I’ve Learned | Bugsnag Blog](https://www.bugsnag.com/blog/getting-started-with-mongodb)
 * [MongoDB 이해하기 | kciter.so](https://kciter.so/posts/about-mongodb)
 * [Jepsen: MongoDB 4.2.6](https://jepsen.io/analyses/mongodb-4.2.6)
+* [mongita: "Mongita is to MongoDB as SQLite is to SQL"](https://github.com/scottrogowski/mongita)
+  * [Mongita - 임베드 가능한 MongoDB | GeekNews](https://news.hada.io/topic?id=4137)
 * [mango - A MongoDB driver for Deno](https://github.com/denodrivers/mango)
 * [mongo-java-server: Fake implementation of MongoDB in Java that speaks the wire protocol](https://github.com/bwaldvogel/mongo-java-server)
 
@@ -460,8 +458,6 @@ NoSQL
 * [Why you should pick strong consistency, whenever possible](https://cloudplatform.googleblog.com/2018/01/why-you-should-pick-strong-consistency-whenever-possible.html)
   * Google Cloud Spanner가 multi-master replication과 다른점을 포함한 external consistency를 보장
 
-# [Sparkey - Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts](https://github.com/spotify/sparkey)
-
 # Splunk
 * [Falkonry for Splunk](https://www.youtube.com/watch?v=zJ7NWNel80c)
 
@@ -495,8 +491,5 @@ NoSQL
 
 # Trafodion Hadoop/HBase에서 Transaction SQL을 구현
 * [The Apache Software Foundation Announces Apache® Trafodion™ as a Top-Level Project](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces27)
-
-# Venice; Linkedin 에서 사용하고 있는 분산 Key-Value 데이터베이스
-* [Venice Hybrid: Doing Lambda Better](https://engineering.linkedin.com/blog/2017/12/venice-hybrid--doing-lambda-better) Venice를 통해 Lambda 아키텍처를 구현하는 것을 설명
 
 # [ZeroDB, an end-to-end encrypted database, is open source!](http://blog.zerodb.io/zerodb-open-source-announcement/)
