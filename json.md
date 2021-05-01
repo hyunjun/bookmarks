@@ -94,6 +94,8 @@ Json
 * [What Exactly Is a JSON Web Token (JWT)? | Better Programming](https://medium.com/better-programming/what-exactly-is-a-json-web-token-678e8a8a5fe4)
 * [LocalStorage vs Cookies: All You Need To Know About Storing JWT Tokens Securely in The Front-End - DEV](https://dev.to/cotter/localstorage-vs-cookies-all-you-need-to-know-about-storing-jwt-tokens-securely-in-the-front-end-15id)
 * [꿀벌개발일지 :: JWT 개념 이해하기](https://ohgyun.com/802)
+* [How to create an Authentication System using JWT and Node.js | by Ram Potabatti | Apr, 2021 | JavaScript in Plain English](https://javascript.plainenglish.io/authentication-systems-using-jwt-and-node-js-9c3cc14aaf82)
+* [JWT는 어디에 저장해야할까? - localStorage vs cookie](https://velog.io/@0307kwon/JWT%EB%8A%94-%EC%96%B4%EB%94%94%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-localStorage-vs-cookie)
 
 ## JWT Python
 * [JSON Web Token Tutorial with Example in Python](https://blog.apcelent.com/json-web-token-tutorial-with-example-in-python.html)
