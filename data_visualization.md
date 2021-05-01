@@ -80,8 +80,6 @@ Data Visualization
 * [Data visualizations for text: How to show the process of writing with the writing graph](https://hackernoon.com/data-visualizations-for-text-how-to-show-the-process-of-writing-c3221fadfa4e)
 * [Effective Visualization of Multi-Dimensional Data — A Hands-on Approach - Strategies for Effective Data Visualization](https://medium.com/swlh/effective-visualization-of-multi-dimensional-data-a-hands-on-approach-b48f36a56ee8)
 * [10 Free tools to get started with Data Visualisation-Easily & Instantly](https://towardsdatascience.com/10-free-tools-to-instantly-get-started-with-data-visualisation-d7fadb5f6dce)
-* [Analysis of Developers Trends with JavaScript Pivot Table and Charting Library](https://medium.com/@veronikarovnik/analysis-of-developers-trends-with-javascript-pivot-table-and-charting-library-b7b6e16ab71b)
-* [These are the best JavaScript chart libraries for 2019](https://medium.freecodecamp.org/these-are-the-best-javascript-chart-libraries-for-2019-29782f5e1dc2)
 * [Best Data and Big Data Visualization Techniques(KR)](https://databreak.netlify.com/2019-05-06-Best_Data_and_Big_Data_Visualization_Techniques)
 * [NAVER Tech Talk: FE devtalk 14회 (2019년 4월)](https://d2.naver.com/news/9516106)
 * [The Simpsons meets Data Visualization](https://towardsdatascience.com/the-simpsons-meets-data-visualization-ef8ef0819d13)
@@ -98,7 +96,49 @@ Data Visualization
 * [SVG와 삼각 함수로 도넛 차트 만들어보기 | Evans Library](https://evan-moon.github.io/2020/12/12/draw-arc-with-svg-clippath/)
 * [Visualizing Data Timeliness at Airbnb | by Chris C Williams | Airbnb Engineering & Data Science | Feb, 2021 | Medium](https://medium.com/airbnb-engineering/visualizing-data-timeliness-at-airbnb-ee638fdf4710)
 
-# D3.js
+# Facebook
+* [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
+
+# Google
+* [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)
+  * [코딩 않는 기자들, 그들이 구글러로 사는 법](http://www.bloter.net/archives/230748)
+* [How to Create a BI Dashboard Using a Pivot Table and a Charting Library](https://levelup.gitconnected.com/how-to-create-a-bi-dashboard-using-a-pivot-table-and-a-charting-library-3ade66b55600)
+  * google chart를 이용한 data visualization
+* Datalab
+  * [Google Launches Cloud Datalab, An Interactive Tool For Exploring And Visualizing Data](http://techcrunch.com/2015/10/13/google-launches-cloud-datalab-an-interactive-tool-for-exploring-and-visualizing-data)
+  * [Google Cloud에서 Datalab 사용하기 #1](https://jungwoon.github.io/google%20cloud/2017/10/27/Google-Datalab_1/)
+* [Facets: An Open Source Visualization Tool for Machine Learning Training Data](https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.html)
+
+# Graph
+* [4edbc373e2fc5b63ad0d](http://bl.ocks.org/anonymous/4edbc373e2fc5b63ad0d)
+* [Graph visualization](http://e.biohackers.net/Graph_visualization)
+
+# Javascript
+* [Analysis of Developers Trends with JavaScript Pivot Table and Charting Library](https://medium.com/@veronikarovnik/analysis-of-developers-trends-with-javascript-pivot-table-and-charting-library-b7b6e16ab71b)
+* [These are the best JavaScript chart libraries for 2019](https://medium.freecodecamp.org/these-are-the-best-javascript-chart-libraries-for-2019-29782f5e1dc2)
+* [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
+* [Understanding front-end data visualization tools ecosystem in 2021 - Cube.js Blog](https://cube.dev/blog/dataviz-ecosystem-2021/)
+* [VW LAB :: 보궐선거 득표율 반응형 지도 사용법](https://www.vw-lab.com/88)
+* [VW LAB :: OD 시각화 1 : 여러가지 시도](https://www.vw-lab.com/89)
+* [VW LAB :: OD 시각화 2 : 전국 인구 순이동](https://www.vw-lab.com/90)
+* chart.js
+  * [The Beginner’s Guide to Chart.js](https://www.stanleyulili.com/javascript/beginner-guide-to-chartjs/)
+  * [chart-on-blog: Tool for drawing chart on blog(based on chart.js) / 블로그 게시글에 차트 쉽게 그려주는 도구(chart.js 기반)](https://github.com/jaeyeon302/chart-on-blog)
+* [Greylock Data Visualization Library](https://greylock.js.org/)
+* [Mercury - data visualize and discovery with Javascript, such as apache zeppelin and jupyter](https://github.com/cloverhearts/mercury)
+* [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org ](https://github.com/mozilla/metrics-graphics)
+* [plotly.js](https://plot.ly/javascript/)
+  * [An introduction to plotly.js — an open source graphing library](https://medium.freecodecamp.org/an-introduction-to-plotly-js-an-open-source-graphing-library-c036a1876e2e)
+* [revogrid: Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible performance](https://github.com/revolist/revogrid)
+* [SandDance - Visually explore, understand, and present your data. https://sanddance.js.org ](https://github.com/Microsoft/SandDance)
+  * Visual Studio Code, Azure Data Studio에서도 사용 가능, 2D/3D 히스토그램, bar, density, scatter, Grid, Treemap 등 다양한 시각화 가능
+  * [Microsoft open sources SandDance, a visual data exploration tool](https://cloudblogs.microsoft.com/opensource/2019/10/10/microsoft-open-sources-sanddance-visual-data-exploration-tool/)
+* [Spectrogram in JavaScript](http://arc.id.au/Spectrogram.html)
+* Victory [차트 라이브러리 Victory 튜토리얼 따라하기. 자유도가 높지만 코드가 복잡해지는 D3.js, 자유도가 낮지만 원하는… | by Duckuism | podo_official | Sep, 2020 | Medium](https://medium.com/official-podo/%EC%B0%A8%ED%8A%B8-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-victory-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0-f9332ae7c97a)
+* [visx: 🐯 visx | visualization components](https://github.com/airbnb/visx)
+  * [Introducing visx from Airbnb. A collection of expressive, low-level… | by Chris C Williams | Airbnb Engineering & Data Science | Sep, 2020 | Medium](https://medium.com/airbnb-engineering/introducing-visx-from-airbnb-fd6155ac4658)
+
+## Javascript D3.js
 * [d3.js 만든 마이크 보스톡, ‘뉴욕타임스’ 떠난다](http://www.bloter.net/archives/227355)
 * [Data Visualization Experiments (react + d3.js)](https://github.com/sujinleeme/data-visualization-experiments)
 * [미세먼지 데이터 시각화하기까지](http://www.bloter.net/archives/225455)
@@ -111,7 +151,6 @@ Data Visualization
 * [d3 Legend](http://d3-legend.susielu.com/)
 * [Chemlambda is a graph rewriting system derived from graphic lambda calculus 1 which can be seen as a simple model of chemical or biological computing](http://chorasimilarity.github.io/chemlambda-gui/dynamic/bigpred.html#)
 * [Story-Boarding in a D3.js dashboard using Intro.js](https://anmolkoul.wordpress.com/2015/07/24/story-boarding-in-a-d3-js-dashboard-using-intro-js/)
-* [Creating a dynamic d3 visualization from the GitHub API](http://www.benlcollins.com/javascript/creating-a-dynamic-d3-visualization-from-the-github-api/)
 * [데이터 시각화, 문과생이 직접 도전해봤습니다](http://www.bloter.net/archives/236338)
 * [Tributary is an experimental environment for rapidly prototyping visualization code](http://tributary.io/)
 * [D3 within React the right way](http://oli.me.uk/2015/09/09/d3-within-react-the-right-way/)
@@ -146,47 +185,11 @@ Data Visualization
 * [D3.js — How to Make a Beautiful Bar Chart With The Most Powerful Visualization Library | by Dario Radečić | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/d3-js-how-to-make-a-beautiful-bar-chart-with-the-most-powerful-visualization-library-9bea4e00349a)
 * [D3로 서울시 강수량 그래프 만들기 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/d3-graph/)
 * [Quadtree and its implementation on Maps using D3 - YouTube](https://www.youtube.com/watch?v=nNi_ZMXWxx4)
-* [Data Visualization with D3, JavaScript, React - Full Course 2021 - YouTube](https://www.youtube.com/watch?v=2LhoCfjm8R4)
 * [10 Years of Open-Source Visualization / Mike Bostock / Observable](https://observablehq.com/@mbostock/10-years-of-open-source-visualization)
   * [오픈소스 시각화 라이브러리 d3.js 개발 10년동안 배운 것 | GeekNews](https://news.hada.io/topic?id=3789)
+* [Data Visualization with D3, JavaScript, React - Full Course 2021 - YouTube](https://www.youtube.com/watch?v=2LhoCfjm8R4)
+* [Creating a dynamic d3 visualization from the GitHub API](http://www.benlcollins.com/javascript/creating-a-dynamic-d3-visualization-from-the-github-api/)
 * [d3-geo, TopoJSON, canvas를 이용한 맵 차트 그리기 | by Jung Han | Apr, 2021 | Medium](https://junghan92.medium.com/d3-geo-topojson-canvas%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%A7%B5-%EC%B0%A8%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B8%B0-ffab54ec23bf)
-
-# Facebook
-* [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
-
-# Google
-* [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)
-  * [코딩 않는 기자들, 그들이 구글러로 사는 법](http://www.bloter.net/archives/230748)
-* [How to Create a BI Dashboard Using a Pivot Table and a Charting Library](https://levelup.gitconnected.com/how-to-create-a-bi-dashboard-using-a-pivot-table-and-a-charting-library-3ade66b55600)
-  * google chart를 이용한 data visualization
-* Datalab
-  * [Google Launches Cloud Datalab, An Interactive Tool For Exploring And Visualizing Data](http://techcrunch.com/2015/10/13/google-launches-cloud-datalab-an-interactive-tool-for-exploring-and-visualizing-data)
-  * [Google Cloud에서 Datalab 사용하기 #1](https://jungwoon.github.io/google%20cloud/2017/10/27/Google-Datalab_1/)
-* [Facets: An Open Source Visualization Tool for Machine Learning Training Data](https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.html)
-
-# Graph
-* [4edbc373e2fc5b63ad0d](http://bl.ocks.org/anonymous/4edbc373e2fc5b63ad0d)
-* [Graph visualization](http://e.biohackers.net/Graph_visualization)
-
-# Javascript
-* [Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
-* [Understanding front-end data visualization tools ecosystem in 2021 - Cube.js Blog](https://cube.dev/blog/dataviz-ecosystem-2021/)
-* chart.js
-  * [The Beginner’s Guide to Chart.js](https://www.stanleyulili.com/javascript/beginner-guide-to-chartjs/)
-  * [chart-on-blog: Tool for drawing chart on blog(based on chart.js) / 블로그 게시글에 차트 쉽게 그려주는 도구(chart.js 기반)](https://github.com/jaeyeon302/chart-on-blog)
-* [Greylock Data Visualization Library](https://greylock.js.org/)
-* [Mercury - data visualize and discovery with Javascript, such as apache zeppelin and jupyter](https://github.com/cloverhearts/mercury)
-* [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org ](https://github.com/mozilla/metrics-graphics)
-* [plotly.js](https://plot.ly/javascript/)
-  * [An introduction to plotly.js — an open source graphing library](https://medium.freecodecamp.org/an-introduction-to-plotly-js-an-open-source-graphing-library-c036a1876e2e)
-* [revogrid: Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible performance](https://github.com/revolist/revogrid)
-* [SandDance - Visually explore, understand, and present your data. https://sanddance.js.org ](https://github.com/Microsoft/SandDance)
-  * Visual Studio Code, Azure Data Studio에서도 사용 가능, 2D/3D 히스토그램, bar, density, scatter, Grid, Treemap 등 다양한 시각화 가능
-  * [Microsoft open sources SandDance, a visual data exploration tool](https://cloudblogs.microsoft.com/opensource/2019/10/10/microsoft-open-sources-sanddance-visual-data-exploration-tool/)
-* [Spectrogram in JavaScript](http://arc.id.au/Spectrogram.html)
-* Victory [차트 라이브러리 Victory 튜토리얼 따라하기. 자유도가 높지만 코드가 복잡해지는 D3.js, 자유도가 낮지만 원하는… | by Duckuism | podo_official | Sep, 2020 | Medium](https://medium.com/official-podo/%EC%B0%A8%ED%8A%B8-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-victory-%ED%8A%9C%ED%86%A0%EB%A6%AC%EC%96%BC-%EB%94%B0%EB%9D%BC%ED%95%98%EA%B8%B0-f9332ae7c97a)
-* [visx: 🐯 visx | visualization components](https://github.com/airbnb/visx)
-  * [Introducing visx from Airbnb. A collection of expressive, low-level… | by Chris C Williams | Airbnb Engineering & Data Science | Sep, 2020 | Medium](https://medium.com/airbnb-engineering/introducing-visx-from-airbnb-fd6155ac4658)
 
 # Library
 * [Better Data Presentation with Chart Blocks](https://blog.squarespace.com/better-data-presentation-with-chart-blocks)
