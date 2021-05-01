@@ -206,6 +206,7 @@ SQL
 * [Paper: Main Memory Database Systems: An Overview](http://blog.lastmind.io/archives/899)
 * [Paper: Staring into the Abyss: An Evaluation of Concurrency Control with One Thousand Cores](http://blog.lastmind.io/archives/903)
 * [Paper: Fast Serializable Multi-Version Concurrency Control for Main-Memory Database Systems – The Last Mind](http://blog.lastmind.io/archives/941)
+* [Foundations of Databases](http://webdam.inria.fr/Alice/)
 
 # Library
 * [Arctype | The fast and easy-to-use SQL client](https://arctype.com/)
@@ -266,6 +267,7 @@ SQL
 * [Observability Differences Between MySQL 8 and MariaDB 10.4](https://www.percona.com/blog/2020/02/05/observability-differences-between-mysql-8-and-mariadb-10-4/)
 * [Streaming backups in parallel using tee | DBA Dojo](https://dbadojo.com/2020/09/02/streaming-backups-in-parallel-using-tee/)
 * [팁 MariaDB 사용자별 최대 쿼리 실행 시간 다르게 주기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/tip-mariadb-max-statement-time-per-user)
+* [Logging all MariaDB and MySQL queries into the Slow Log - Vettabase](https://vettabase.com/blog/logging-all-mariadb-and-mysql-queries-into-the-slow-log/)
 * [Authentication Plugin - Unix Socket](https://mariadb.com/kb/en/authentication-plugin-unix-socket/)
 * [ClustrixDB](https://mariadb.com/products/clustrixdb/) distributed RDB
 * Galera [DIAMANTI Use Case : MariaDB with Galera Cluster | by Simon.kim | Mar, 2021 | Medium](https://knk1034.medium.com/diamanti-use-case-mariadb-with-galera-cluster-f921402ff282)
@@ -394,6 +396,7 @@ SQL
 * [30 mins with JSON in MySQL](http://dasini.net/blog/2015/11/17/30-mins-with-json-in-mysql/)
 * [Max JSON column length in MySQL](https://stackoverflow.com/questions/40711101/max-json-column-length-in-mysql)
 * [MySQL performance optimization: 50% more work with 60% less latency variance](http://engineering.pinterest.com/post/122520169079/mysql-performance-optimization-50-more-work-with)
+* [awesome-mysql-performance: 🔥 A curated list of awesome links related to MySQL / MariaDB / Percona performance tuning](https://github.com/Releem/awesome-mysql-performance)
 * [on ORDER BY optimization](http://dom.as/2015/07/30/on-order-by-optimization/)
 * [MySQL의 ORDER BY로 지정한 순서대로 정렬하기](https://brunch.co.kr/@hopeless/4)
 * [Learn to stop using shiny new things and love MySQL](https://engineering.pinterest.com/blog/learn-stop-using-shiny-new-things-and-love-mysql)
@@ -561,6 +564,7 @@ SQL
 * [How to delete lots of rows from a MySQL database without indefinite locking – Bram.us](https://www.bram.us/2021/01/14/how-to-delete-lots-of-rows-from-a-mysql-database-without-indefinite-locking/)
 * [MySQL/MariaDB에서 유저에게 multiple host를 부여하는 방법 - Nephtyw’S Programming Stash](https://nephtyws.github.io/database/mariadb-mysql-subnet-host/)
 * [🛢CSV 파일 MySQL DB에 추가하기 - YouTube](https://www.youtube.com/watch?v=XLoit2-DPaI)
+* [MySQL and UUIDs | Die wunderbare Welt von Isotopp](https://blog.koehntopp.info/2021/04/06/mysql-and-uuids.html)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
@@ -753,6 +757,11 @@ SQL
 * [PostgreSQL on ARM-based AWS EC2 Instances: Is It Any Good? - Percona Database Performance Blog](https://www.percona.com/blog/2021/01/22/postgresql-on-arm-based-aws-ec2-instances-is-it-any-good/)
 * [PostgreSQL: Asynchronous and "direct" IO support for PostgreSQL](https://www.postgresql.org/message-id/20210223100344.llw5an2aklengrmn@alap3.anarazel.de)
 * [PostgreSQL 데이터 Client에서 KST로 확인하기 (feat. DataGrip)](https://jojoldu.tistory.com/567)
+* [Setting up Streaming Replication in PostgreSQL 13 and Streaming Replication Internals - MigOps](https://www.migops.com/blog/2021/03/31/setting-up-streaming-replication-in-postgresql-13-and-streaming-replication-internals/)
+* [BRIN Index for PostgreSQL: Don't Forget the Benefits - Percona Database Performance Blog](https://www.percona.com/blog/2019/07/16/brin-index-for-postgresql-dont-forget-the-benefits/)
+* [10 Things I Hate About PostgreSQL | by Rick Branson | Medium](https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791)
+* [PostgreSQL Security Hardening | Teleport](https://goteleport.com/blog/securing-postgres-postgresql/)
+* [Speeding up recovery and VACUUM in Postgres 14 - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/speeding-up-recovery-and-vacuum-in-postgres-14/ba-p/2234071)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
@@ -760,6 +769,9 @@ SQL
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [Envelope - Introducing a new paradigm in web application development written specifically for PostgreSQL developers!](http://envelope.xyz/)
 * [Graphile | Powerful, Extensible and Performant GraphQL APIs Rapidly](https://www.graphile.org/)
+  * [Beyond REST: Rapid Development With GraphQL Microservices | Netflix TechBlog](https://netflixtechblog.com/beyond-rest-1b76f7c20ef6)
+* [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
+* [Home - Full text search in milliseconds with PostgreSQL](https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/)
   * [Beyond REST: Rapid Development With GraphQL Microservices | Netflix TechBlog](https://netflixtechblog.com/beyond-rest-1b76f7c20ef6)
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 * [Home - Full text search in milliseconds with PostgreSQL](https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/)
@@ -836,6 +848,8 @@ SQL
 * [Rain in Australia 캐글 날씨 데이터셋 다운로드 받아 mysql에 넣는 방법](https://stricky.tistory.com/448) DDL Datagrip
 * [초보자도 준비하는 SQL 코딩 테스트 시리즈를 마치며...](https://wonit.tistory.com/448)
 * [How to create a 1M record table with a single query | Anton Zhiyanov](https://antonz.org/random-table/) `with recursive`
+* [(4) Asheq Reza's answer to What are some useful SQL queries you've found? - Quora](https://www.quora.com/What-are-some-useful-SQL-queries-youve-found/answer/Asheq-Reza)
+* [Best practices for writing SQL queries](https://www.metabase.com/learn/building-analytics/sql-templates/sql-best-practices)
 
 ## Query, SQL Join
 * [SQL기초강좌(외부조인, outer join), 오라클, MySQL, 내부조인,외부조인,](http://www.slideshare.net/topcredu/sql-outer-join-mysql)
@@ -887,6 +901,7 @@ SQL
 * [LPC-2019: SQLite on Linux](https://sqlite.org/lpc2019/doc/trunk/briefing.md)
 * [SQLite 개념/구조/멀티 DB 실사용기 :: 메모장](https://ehdvudee.tistory.com/23)
 * [SQLite as a document database](https://dgl.cx/2020/06/sqlite-json-support)
+  * [SQLite를 도큐먼트DB로 사용하기 | GeekNews](https://news.hada.io/topic?id=3271)
 * [Many Small Queries Are Efficient In SQLite](https://sqlite.org/np1queryprob.html)
   * SQLite에서는 작은 쿼리 수백개도 효율적 (sqlite.org)
   * 웹페이지 하나 표시하는데 200개의 SQL문장을 쓴다면 MySQL,PostgreSQL 같은 기존 C/S DB에겐 과도함
@@ -899,16 +914,17 @@ SQL
 * [Cross-database queries in SQLite (and weeknotes)](https://simonwillison.net/2021/Feb/21/cross-database-queries/) Querying json data
 * [CG/SQL: Easy, accurate SQLite code generation - Facebook Engineering](https://engineering.fb.com/open-source/cg-sql/)
 * [DB Browser for SQLite](https://sqlitebrowser.org/)
+* [SQLite the only database you will ever need in most cases](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
+* [Exploring Tweets with SQLite + WASM - Divyendu's Blog](https://divu.in/experiments/wasm/twitter-sqlite)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
 * [litestream: Streaming S3 replication for SQLite](https://github.com/benbjohnson/litestream)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
+* [rqlite: The lightweight, distributed relational database built on SQLite](https://github.com/rqlite/rqlite)
+  * [7 years of open-source database development: lessons learned - Vallified](https://www.philipotoole.com/7-years-of-open-source-database-development-lessons-learned/)
+    * [7년간의 오픈소스 DB 개발에서 배운 것 | GeekNews](https://news.hada.io/topic?id=4096)
 * [simple-graph: This is a simple graph database in SQLite, inspired by "SQLite as a document database"](https://github.com/dpapathanasiou/simple-graph)
+* [sqlean: All the missing SQLite functions](https://github.com/nalgeon/sqlean)
 * [sqlitestudio.pl](http://sqlitestudio.pl/)
 
 ## SQLite Python
-* [A simple Python script to document the SQLite databases](https://towardsdatascience.com/a-simple-python-script-to-document-the-sqlite-databases-7932aa462cd8)
-* [Do You Know Python Has A Built-In Database? | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/do-you-know-python-has-a-built-in-database-d553989c87bd)
-* [SimpleSQLite - Python library to simplify the table creation and data insertion in SQLite database (Automatic table creation from data. Support various data type for insertion: dictionary/namedtuple/list/tuple) http://simplesqlite.readthedocs.org/en/stable/apis/simplesqlite.html](https://github.com/thombashi/SimpleSQLite)
-
-# SQLServer
 * [SQLServer JDBC의 이상한 동작](http://www.popit.kr/sqlserver-jdbc%EC%9D%98-%EC%9D%B4%EC%83%81%ED%95%9C-%EB%8F%99%EC%9E%91/)
