@@ -913,6 +913,8 @@ Web
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
+* [Pyodide](https://pyodide.org/) python to webassembly
+  * [모질라, 브라우저에 파이썬 통합하는 ‘파이어다이드’ 프로젝트 분리 - CIO Korea](https://www.ciokorea.com/news/191529)
 * [Wasmer - The Universal WebAssembly Runtime](https://wasmer.io/)
   * [서버측 웹어셈블리 런타임 ‘와스머’, GA 버전 공개 - CIO Korea](https://www.ciokorea.com/news/178284)
   * [Wasmer 1.0. By leveraging Wasm for software… | by Syrus Akbary | Wasmer | Jan, 2021 | Medium](https://medium.com/wasmer/wasmer-1-0-3f86ca18c043)
