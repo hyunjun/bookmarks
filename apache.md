@@ -309,7 +309,8 @@ Apache
 
 # [Jena](http://jena.apache.org)
 
-# [Kafka](http://kafka.apache.org/)
+# Kafka
+* [Kafka](http://kafka.apache.org/)
 * [kafka-tutorials.confluent.io](https://kafka-tutorials.confluent.io/)
 * [Docker Quick Start](https://docs.confluent.io/current/installation/docker/docs/quickstart.html)
 * [practice - Kafka on Python](https://hyunjun.github.io/kafka-on-python/)
@@ -410,7 +411,9 @@ Apache
 * [Apache Kafka Security | Need and Components of Kafka](https://medium.com/@rinu.gour123/apache-kafka-security-need-and-components-of-kafka-52b417d3ca77)
   * Zookeeper의 조합으로 권한제어, 인증제어, 암호화하는 방법
 * [Kafka Needs No Keeper - Removing ZooKeeper Dependency](https://www.confluent.io/blog/removing-zookeeper-dependency-in-kafka/)
+  * [Apache Kafka, ZooKeeper 의존성을 제거 | GeekNews](https://news.hada.io/topic?id=2100)
 * [Kafka Without ZooKeeper: A Sneak Peek At the Simplest Kafka Yet](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)
+  * [Kafka Without ZooKeeper 첫 배포 | GeekNews](https://news.hada.io/topic?id=3990)
 * [Kafka 보안 (1) - JAAS 및 SASL](https://springboot.cloud/31)
 * [Kafka 보안 (2) - SASL/PLAIN](https://springboot.cloud/32)
 * [**Apache Kafka지도 시간**](http://www.w3ii.com/ko/apache_kafka/default.html)
