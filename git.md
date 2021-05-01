@@ -195,6 +195,7 @@ Git
   * 실수 방어 도구 - git commit --amend, git commit --fixup [hash], git rebase --interactive main, git stash, git blame
 * [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
 * [Git Workflow Diagram](https://happygrammer.github.io/guide/git-workflow-diagram/)
+* [What’s wrong with Git? A conceptual design analysis | the morning paper](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -470,7 +471,7 @@ Git
   * [Git가지고 놀기(2) - Git Diff - 완두블로그](https://wani.kr/posts/2014/07/15/git-2-git-diff/)
   * [Better git diffs with FZF. git diff can be a little overwhelming… | by Rafael Mendiola | Medium](https://medium.com/@GroundControl/better-git-diffs-with-fzf-89083739a9cb)
   * [Better Git diff output for Ruby, Python, Elixir, Go and more | tekin.co.uk](https://tekin.co.uk/2020/10/better-git-diff-output-for-ruby-python-elixir-and-more) .gitattributes
-  * [delta - A syntax-highlighter for git and diff output](https://github.com/dandavison/delta)
+  * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * filter-branch
   * [git-filter-branch를 이용하여 모든 커밋으로부터 민감한 정보 파일 삭제하기](https://www.youtube.com/watch?v=wFfqKzrpWeY)
   * [Git에 커밋 된 커밋하면 안될 파일 제거하기](https://chaewonkong.github.io/posts/git-remove-commited-file.html)
@@ -490,6 +491,7 @@ Git
   * [GitHub 커밋 메세지에 JIRA 이슈번호 자동으로 넣어주기](https://medium.com/prnd/github-커밋-메세지에-jira-이슈번호-자동으로-넣어주기-779048784037)
   * [Git hook for large files: because who wants to have their 100TB data file committed to Git?](https://www.reddit.com/r/MachineLearning/comments/egadjz/p_git_hook_for_large_files_because_who_wants_to/)
   * [pre-commit hooks you must know. Boost your productivity and code… | by Martin Thoma | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/pre-commit-hooks-you-must-know-ff247f5feb7e)
+  * [**Heroku-style deployments with Docker and git tags**](https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/)
   * [Integrate `wemake-python-styleguide` in pre-commit git hook | by Jonathonbao | Medium](https://medium.com/@jonathonbao/integrate-wemake-python-styleguide-in-pre-commit-git-hook-872a8fc20233)
 * [`inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD
 * `log`
@@ -866,3 +868,4 @@ Git
 * [Building maintainable step-by-step tutorials with Git](http://info.meteor.com/blog/step-by-step-tutorials-with-git)
 * [git-step](https://okdevtv.com/mib/git-step)
 * [Git 기반의 오픈소스 프로젝트 개발 실습](http://www.kocw.net/home/search/kemView.do?kemId=1352154)
+* [GitHub에서 커뮤니티 기반 소프트웨어 프로젝트 빌드 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/paths/build-community-driven-projects-github/)
