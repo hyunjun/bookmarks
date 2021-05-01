@@ -1034,6 +1034,7 @@ Programming
 * [**Seven Hard-Earned Lessons Learned Migrating a Monolith to Microservices**](https://www.infoq.com/articles/lessons-learned-monolith-microservices/)
 * [MSA - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/MSA)
 * [6 overlooked facts of microservices | Enable Architect](https://www.redhat.com/architect/microservices-overlooked-facts)
+* [Beyond Microservices in a one page | Joe's Happy Life](http://www.moneystock.net/wp_e/2021/04/30/beyond-microservices-in-a-one-page/)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Edgar: Solving Mysteries Faster with Observability | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
   * [Building Netflix’s Distributed Tracing Infrastructure | by Netflix Technology Blog | Oct, 2020 | Netflix TechBlog](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
@@ -1206,6 +1207,7 @@ Programming
   * [piku - 초경량 PaaS | GeekNews](https://news.hada.io/topic?id=3659)
 * [rclone: "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files](https://github.com/rclone/rclone)
   * [입 개발 rclone mount 빌드 방법 | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/12/%ec%9e%85-%ea%b0%9c%eb%b0%9c-rclone-mount-%eb%b9%8c%eb%93%9c-%eb%b0%a9%eb%b2%95/)
+* [space-cloud: Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes](https://github.com/spaceuptech/space-cloud)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
