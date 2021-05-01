@@ -44,6 +44,7 @@ SQL
 * [DBMS는 어떻게 트랜잭션을 관리할까?](https://d2.naver.com/helloworld/407507)
 * [GalaXQL - Interactive SQL tutorial](http://sol.gfxile.net/galaxql.html)
 * [Learn SQL - Free Interactive SQL Tutorial](https://www.learnsqlonline.org/)
+* [SQL Tutorial for Beginners – Learn SQL Programming Online -Intellipaat](https://intellipaat.com/blog/tutorial/sql-tutorial/)
 * [(즐겁게 배우는 SQL) 기획 소개](https://jhrogue.blogspot.com/2020/11/sql.html)
 * [즐겁게 배우는 SQL - YouTube](https://www.youtube.com/playlist?list=PLdntWJk2tJPLinuRXcokohNLgc83ejwUt)
   * [(즐겁게 배우는 SQL #1) 정말 간단한 질의부터 시작하자](https://jhrogue.blogspot.com/2020/11/sql-1.html)
