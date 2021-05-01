@@ -175,6 +175,7 @@ Web
 * [**Six steps to building your website from scratch**](https://medium.com/@khollobaugh/https-medium-com-khollobaugh-six-steps-to-building-your-website-from-scratch-a713288cc6d)
 * [페이스북과 쿠키의 상관관계? Cookie 기초개념 잡아드림](https://www.youtube.com/watch?v=1emZgLiGE4s)
 * [Cookie Recipes](https://so-so.dev/web/cookie-recipes/)
+* [Best practices for cookie notices](https://web.dev/cookie-notice-best-practices/)
 * [URL shorteners set ad tracking cookies - luke miles](https://ylukem.com/blog/url-shorteners-set-ad-tracking-cookies)
 * [First-Party & Third-Party Cookies: What’s the Difference? - Clearcode Blog](https://clearcode.cc/blog/difference-between-first-party-third-party-cookies/)
 * [사라지는 쿠키, 디지털 광고를 위한 차세대 ‘추적’ 기술은 무엇? - ITWorld Korea](http://www.itworld.co.kr/news/161700)
