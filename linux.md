@@ -399,6 +399,7 @@ Linux
   * e.g. `$ basename /tmp/mdstat.tmp .tmp` returns `mdstat`
 * `bc`
   * [Computing pi with bc](https://www.johndcook.com/blog/2019/10/29/computing-pi-with-bc/)
+* `cat` [Cat and friends (Netcat and Socat) - Kubernetes, CI/CD, Git, Linux, Containers, Golang... and more](https://techsquad.rocks/blog/cat_and_friends_netcat_socat/)
 * `comm`
   * `comm [-1] [-2] [-3] [file1] [file2]` print common lines between file1 & file2 (-1 suppresses only lines from file1 & -2 does the same from file2, -3 does the same for duplicated lines)
     * [reverse diff](http://stackoverflow.com/questions/746458/how-to-show-lines-in-common-reverse-diff)
