@@ -84,6 +84,7 @@ Linux
 * [리눅스에서 커맨드 라인으로 모니터 밝기 조절하기](https://kkamagui.tistory.com/921)
 * [Cups AirPrint server with legacy printer driver support using Qemu](https://blog.project-insanity.org/2020/05/19/cups-airprint-server-with-legacy-printer-driver-support/)
 * [Run Fedora Workstation (or any OS) in Mac OS Environment with an open source QEMU - YouTube](https://www.youtube.com/watch?v=oFkbLeEMwA0)
+* [Introduction | QEMU internals](https://airbus-seclab.github.io/qemu_blog/)
 * [It's about time you try Linux. - Try Linux](https://www.trylinux.today/)
 * [net-rw/nf-tinyacl: Netfilter based ACL kernel module under Network stacks for studying](https://github.com/net-rw/nf-tinyacl)
 * [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
@@ -846,6 +847,7 @@ Linux
 * [리눅스 방화벽과 NAT를 위한 ipTables](https://bcho.tistory.com/1366)
 * [The Complicated Firewall](https://www.thelinuxrain.com/articles/the-complicated-firewall)
 * [Using Multiple NICs on Linux](https://tech.ssut.me/using-multiple-nics-on-linux/) ip iproute2
+* [Common interface for NIC statistics — Jakub Kicinski](https://people.kernel.org/kuba/common-interface-for-nic-statistics)
 * [iptables: How Kubernetes Services Direct Traffic to Pods | Dustin Specker](https://dustinspecker.com/posts/iptables-how-kubernetes-services-direct-traffic-to-pods/)
 
 # Kernel
