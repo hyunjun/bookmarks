@@ -1,6 +1,7 @@
 Machine Learning
 ================
 * [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
+  * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
   * [SCALABLE MACHINE LEARNING - THE STATE OF DATAOPS / MLOPS IN 2018](https://axsauze.github.io/scalable-data-science)
   * [머신러닝 오퍼레이션 자동화, MLOps](https://zzsza.github.io/mlops/2018/12/28/mlops/)
   * [MLOps NYC](https://www.mlopsnyc.com)
@@ -1306,6 +1307,7 @@ Machine Learning
   * [Neural network classification of data using Smile](https://www.datasciencecentral.com/profiles/blogs/neural-network-classification-of-data-using-smile)
 * [Streamlit - the first app framework specifically for Machine Learning and Data Science teams](https://streamlit.io/)
   * [awesome-streamlit: The purpose of this project is to share knowledge on how awesome Streamlit is and can be](https://github.com/MarcSkovMadsen/awesome-streamlit)
+  * [Streamlit - 파이썬 코드를 커스텀ML도구로 쉽게 만들기 | GeekNews](https://news.hada.io/topic?id=1498)
   * [Streamlit 101: An in-depth introduction](https://towardsdatascience.com/streamlit-101-an-in-depth-introduction-fc8aad9492f2)
   * [KR 파이썬 웹어플리케이션 맛보기 (feat. Streamlit) | by SEO, Wonyoung | Medium](https://wonyoungseo.medium.com/kr-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9B%B9%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%A7%9B%EB%B3%B4%EA%B8%B0-feat-streamlit-846937a7438d)
   * [How to Build a Simple Machine Learning Web App in Python](https://towardsdatascience.com/how-to-build-a-simple-machine-learning-web-app-in-python-68a45a0e0291)
