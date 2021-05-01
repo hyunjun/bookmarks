@@ -197,6 +197,7 @@ Android
 * [RecyclerView에서 고차함수 이용한 리스트아이템클릭 구현](https://developer88.tistory.com/356)
 * [getLastLocation 으로 유저의 마지막 위치얻어오기 # Android](https://developer88.tistory.com/357)
 * [What differs Android from other Linux based systems? - #embeddedbits](https://embeddedbits.org/what-differs-android-from-other-linux-based-systems/)
+* [안드로이드 개발 언어에 '러스트' 추가… 고질적인 C/C++ 메모리 버그 잡는다 - ITWorld Korea](https://www.itworld.co.kr/news/189783)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
