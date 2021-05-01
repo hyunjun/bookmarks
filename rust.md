@@ -135,6 +135,7 @@
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
 * [Rust의 반복문](https://blog.seulgi.kim/2020/06/loop-in-rust.html)
 * [Collections and Lifetimes in Rust! - The Startup - Medium](https://medium.com/swlh/collections-and-lifetimes-in-rust-d478934d17ea)
+* [rust 에서 print()의 format 관련 내용](https://open-support.tistory.com/entry/rust-%EC%97%90%EC%84%9C-print%EC%9D%98-format-%EA%B4%80%EB%A0%A8-%EB%82%B4%EC%9A%A9?)
 
 # Async Await
 * [Asynchronous IO in Rust](https://medium.com/@paulcolomiets/asynchronous-io-in-rust-36b623e7b965)
