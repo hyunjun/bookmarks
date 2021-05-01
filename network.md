@@ -219,6 +219,7 @@ Network
 * [TCP의 흐름제어, 오류제어, 혼잡제어 개념에 대한 개요](https://roka88.dev/114)
 * [소켓 프로그래밍. (Socket Programming) :: 개발자를 위한 레시피](https://recipes4dev.tistory.com/153)
 * [Introduction to TCP/IP and Sockets, part 1: Introducing the protocols and API - YouTube](https://www.youtube.com/watch?v=C7CpfL1p6y0)
+* [Introduction to TCP/IP and Sockets, part 2: Example code Walk-Through - YouTube](https://www.youtube.com/watch?v=OuYPe_HcLWc)
 
 # UDP
 * [Haste Framework UDP(User Datagram Protocol)를 기반으로 빠르고 쉬운 개발을 위해 만들어진 게임 서버 프레임워크](https://github.com/nhnent/haste.framework)
