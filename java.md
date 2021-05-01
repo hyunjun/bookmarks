@@ -372,6 +372,7 @@ Java
 * [The Low-Latency Rematch: Performance of Modern Java on Data-Heavy Workloads · Hazelcast Jet](https://jet-start.sh/blog/2020/06/23/jdk-gc-benchmarks-rematch)
 * [Sub-10 ms Latency in Java: Concurrent GC with Green Threads · Hazelcast Jet](https://jet-start.sh/blog/2020/08/05/gc-tuning-for-jet)
 * [Java Concurrency - Basics of Threads](https://turkogluc.com/java-concurrency-basics-of-threads/)
+* [race condition 을 이용한 toctou 에 대해서 알아봅시다](https://codingdog.tistory.com/entry/race-condition-%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-toctou-%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [LMAX Disruptor - A High Performance Inter-Thread Messaging Library](https://github.com/LMAX-Exchange/disruptor)
 
 ## Concurrency Parallel Thread Akka
@@ -639,6 +640,7 @@ Java
 * [C++ 14 기능 지원부터 벡터 API까지··· JDK 16, 기능 구체화 - CIO Korea](http://www.ciokorea.com/news/165350)
 * [What We Know about Java 16 and 17 So Far](https://www.infoq.com/news/2020/11/java16-so-far/)
 * [A categorized list of all Java and JVM features since JDK 8 to 16 - Advanced Web Machinery](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/)
+* [Java 16 Record to Reduce Boilerplate Code of POJO | CodersTea](https://www.coderstea.com/post/java/java-16-record-to-reduce-boilerplate-code-of-pojo/)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
