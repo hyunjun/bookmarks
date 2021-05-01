@@ -748,6 +748,12 @@ Programming
 * [Ready for changes with Hexagonal Architecture - Netflix TechBlog](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
 * [Hexagonal Architecture](https://blog.imqa.io/hexagonal-architecture/)
 * [**지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture/)
+* [지속 성장 가능한 소프트웨어를 만들어가는 방법. 스프링은 국내에서 정말 많이 쓰이고 있습니다, 개인적으로 많은 회사를… | by Gemini Kim | Apr, 2021 | Medium](https://geminikim.medium.com/%EC%A7%80%EC%86%8D-%EC%84%B1%EC%9E%A5-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EB%B0%A9%EB%B2%95-97844c5dab63) 스프링 이야기이나 일반론이기도 함
+  * 많은 회사와 시스템이 차세대라는 명목의 개발을 수없이 진행: 낭비
+  * 지속 성장 가능한 소프트웨어를 위한 핵심 주제 3가지
+    1. 비즈니스 로직의 의미와 코드로 어떻게 표현하는가
+    2. 소프트웨어의 레이어를 어떻게 관리하고 작성하는가
+    3. 어떤 관점으로 모듈화를 진행하고 어떤 방식으로 모듈을 확장하는가
 * [**LINE 메신저 앱 공유 모듈 통합 개발기 – 1**](https://engineering.linecorp.com/ko/blog/line-app-share-module-development-story-1/)
 * [**LINE 메신저 앱의 공유 모듈 통합 개발기 – 2**](https://engineering.linecorp.com/ko/blog/line-app-share-module-development-story-2/)
 * [LINE 트랜스코딩 서버 아키텍처 개선기 – 1](https://engineering.linecorp.com/ko/blog/line-transcoding-server-architecture-improvement-1/)
