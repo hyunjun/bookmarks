@@ -814,6 +814,7 @@ AWS
 * [Deploy babashka script to AWS Lambda | Dainius Jocas](https://www.jocas.lt/blog/post/babashka-aws-lambda/)
 * [AWS 람다(Lambda) 그리고 GitHub 자동배포 연동 | PIGNOSE BARN](https://blog.pigno.se/post/137809815023/aws-lambda-deploy-github)
 * [Serverless 프레임워크를 이용한 람다 프로그래밍 #1 | 10분 TV](http://10bun.tv/etc/serverless-aws-python3-1/)
+* [AWS 람다 용량 관리 | 김정환 블로그](https://jeonghwan-kim.github.io/dev/2021/03/29/lambda-limits.html)
 
 ## Lambda Clojure
 * [native-clojure-lambda: Example project of Clojure + GraalVM Native Image + AWS Lambda container images](https://github.com/luontola/native-clojure-lambda)
