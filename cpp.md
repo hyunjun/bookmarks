@@ -311,7 +311,7 @@ C++
 * [EASTL stands for Electronic Arts Standard Template Library. It is an extensive and robust implementation that has an emphasis on high performance](https://github.com/electronicarts/EASTL)
 * [easyexif - A tiny ISO-compliant C++ EXIF parsing library](https://github.com/mayanklahiri/easyexif)
 * [EigenRand: fastest random distribution generator for Eigen](https://github.com/bab2min/EigenRand)
-* enkiTS
+* [enkiTS: A permissively licensed C and C++ Task Scheduler for creating parallel programs. Requires C++11 support](https://github.com/dougbinks/enkiTS)
   * [Implementing a lightweight task scheduler](http://www.enkisoftware.com/devlogpost-20150822-1-Implementing_a_lightweight_task_scheduler.html)
 * [Evenk - A C++ library for concurrent programming](https://github.com/ademakov/Evenk)
 * [eXtendedMirror - A simple and powerful C++ reflection system](https://github.com/m4nu3lf/eXtendedMirror)
