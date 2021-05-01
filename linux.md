@@ -945,6 +945,7 @@ Linux
 * [noah - Bash on Ubuntu on macOS](https://github.com/linux-noah/noah/)
 * [NsJail - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf](http://google.github.io/nsjail/)
 * [Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration](http://ohmyz.sh/)
+* [Pass: The Standard Unix Password Manager](https://www.passwordstore.org/)
 * [πfs - the data-free filesystem!](https://github.com/philipl/pifs)
 * [pig - A Linux packet crafting tool](https://github.com/rafael-santiago/pig)
 * [prm - A minimal project manager for the terminal](https://github.com/eivind88/prm)
