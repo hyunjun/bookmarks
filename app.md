@@ -386,6 +386,7 @@ App
 * nuTab [Quick Notes New Tab Chrome Extension - nuTab](https://nutab.co/)
 * Requestly [Udemy강좌 Full HD로 보기](https://www.javastudy.net/2019/04/22/udemy%EA%B0%95%EC%A2%8C-full-hd%EB%A1%9C-%EB%B3%B4%EA%B8%B0/)
 * [screenity: The most powerful screen recorder & annotation tool for Chrome 🎥](https://github.com/alyssaxuu/screenity)
+* Snippyly [“공유를 넘어 협업으로” 크롬에서 스크린샷을 공유하는 가장 똑똑한 방법 - ITWorld Korea](https://www.itworld.co.kr/news/189733)
 * [TabFS](https://omar.website/tabfs/) browser extension that mounts your browser tabs as a filesystem on your computer
 
 # ChromeOS
@@ -1469,6 +1470,7 @@ App
 * [igloo - A small, but powerful terminal app for Windows](https://easyigloo.org/)
 * [kitty - the fast, featureful, GPU based terminal emulator — kitty 0.18.3 documentation](https://sw.kovidgoyal.net/kitty/)
 * [midipix - posix for windows](http://midipix.org/)
+* [notepad_logger - crates.io: Rust Package Registry](https://crates.io/crates/notepad_logger)
 * [Pajek: analysis and visualization of large networks](http://mrvar2.fdv.uni-lj.si/pajek/)
 * [PBOX - Windows Package Manager](http://pbox.me/)
 * PowerShell
