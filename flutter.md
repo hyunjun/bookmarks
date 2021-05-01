@@ -121,6 +121,8 @@ Flutter
 * [flutter-folio: A platform adaptive Flutter app for desktop, mobile, and web](https://github.com/gskinnerTeam/flutter-folio)
   * [Flutter Folio: A platform adaptive Flutter app for desktop, mobile, and web](https://flutter.gskinner.com/)
 * Retrofit [Rest API 엔드포인트 따느라 삽질 하셨나요? 제가 도와드릴게요 Retrofit! - YouTube](https://www.youtube.com/watch?v=GNc20BkoA2w)
+* [rxdart를 이용하여 bloc 패턴 구현(싱글톤 적용)](https://blog.naver.com/pjt3591oo/222330048295)
+  * [flutter-bloc-counter](https://github.com/pjt3591oo/flutter-bloc-counter)
 
 # Tutorial
 * [Develop your first Application with Flutter](https://hackernoon.com/develop-your-first-application-with-flutter-60c4308d18b7)
