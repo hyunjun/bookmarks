@@ -431,6 +431,7 @@ Javascript
 * [Understanding CORS. Understanding CORS | by akshay sinha | Medium](https://medium.com/@akshaysin_86681/understanding-cors-93ddf18d32d6)
 * [CORS란? CORS 문제 해결하기](https://open-support.tistory.com/entry/CORS%EB%9E%80-CORS-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0)
 * [웹브라우저의 이미지 캐싱 이슈 해결하기 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/5412/) CORS
+* [Deep dive in CORS: History, how it works, and best practices | Ilija Eftimov ⚡️](https://ieftimov.com/post/deep-dive-cors-history-how-it-works-best-practices/)
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [메모리 크래시가 일어나는 과정](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
@@ -645,6 +646,7 @@ Javascript
   * [**신입에게 추천하는 프론트엔드 가이드 - YouTube**](https://www.youtube.com/watch?v=4DS8_ZBQ8zs)
 * [프로모션용 웹앱 빌더, 만다오 - 우아한형제들 기술 블로그](https://woowabros.github.io/woowabros/2021/03/08/mandao.html)
 * [운명의 Devs VOD 서비스의 시청시간 수집하기 - 피터 - YouTube](https://www.youtube.com/watch?v=CEBPWBtXXg8)
+* [Content-aware image resizing in JavaScript | Trekhleb](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -692,6 +694,7 @@ Javascript
   * [console.log에서 css 사용하기](https://www.youtube.com/watch?v=RcwrSBvJOaw)
   * [Mastering JS console.log like a Pro](https://medium.com/javascript-in-plain-english/mastering-js-console-log-like-a-pro-1c634e6393f9)
   * [Stop Using console.log() In JavaScript | by Harsha Vardhan | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/stop-using-console-log-in-javascript-d29d6c24dc26)
+  * [Use console.log() like a pro - Marko Denic - Web Developer](https://markodenic.com/use-console-log-like-a-pro/)
 * Date
   * [Dates and Times in JavaScript – Igalia Compilers Team](https://blogs.igalia.com/compilers/2020/06/23/dates-and-times-in-javascript/)
   * [JavaScript Date Get and Set Methods](https://techstack.hashnode.dev/javascript-date-get-and-set-methods)
@@ -953,6 +956,8 @@ Javascript
 * [Debugging in the Browser - DEV Community](https://dev.to/bello/debugging-in-the-browser-4ece)
 * [Jison debugger](http://nolanlawson.github.io/jison-debugger/)
 * [🐞VS Code로 디버깅하기 #환경변수 - YouTube](https://www.youtube.com/watch?v=lzpot5LqjqI)
+* [웹 개발자 도구의 역사 - DEV Community](https://dev.to/composite/-4675)
+  * [웹 개발자 도구의 역사 | GeekNews](https://news.hada.io/topic?id=4099)
 
 # ECMAScript
 * [De Stijl: How necessary are var, let, and const?](http://raganwald.com/2015/05/30/de-stijl.html)
@@ -2105,6 +2110,7 @@ Javascript
   * [Let's Learn Deno! - A Secure Run Time Javascript & TS: 1.0. Basic - YouTube](https://www.youtube.com/watch?v=vSJn8LB_h8k)
   * [Try Deno as an alternative to Node.js | Opensource.com](https://opensource.com/article/21/2/deno)
   * [Deno - YouTube](https://www.youtube.com/playlist?list=PLrvNoNIHON5ZWFGk2QjqBdpQmX89jGuVj)
+  * [Deno 1.9 Release Notes | Deno Blog](https://deno.com/blog/v1.9)
   * [Aleph.js](https://alephjs.org/)
     * [Server-Rendered Web Applications in Deno with Aleph.js](https://www.infoq.com/news/2020/11/aleph-deno-web-app-nextJS/)
   * [deno-puppeteer: A port of puppeteer running on Deno](https://github.com/lucacasonato/deno-puppeteer)
