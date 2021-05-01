@@ -53,6 +53,7 @@ Network
 * [**Computer Networks: A Systems Approach — Computer Networks: A Systems Approach Version 6.2-dev documentation**](https://book.systemsapproach.org/)
 * [awesome-selfhosted: A list of Free Software network services and web applications which can be hosted on your own servers](https://github.com/awesome-selfhosted/awesome-selfhosted)
 * [Ethernet and IP Networking 101 (Heavily Illustrated)](https://iximiuz.com/en/posts/computer-networking-101/)
+* [네트워크 연결 테스트와 ping? :: neozest : neo+zest](https://www.neozest.com/entry/testingnetworkconnectionviapingICMP)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
@@ -82,6 +83,8 @@ Network
 * [What happens when you update your DNS?](https://jvns.ca/blog/how-updating-dns-works/)
 * [온라인 협업 도구 노션(Notion) 장애와 DNS 문제 대응 | 44BITS](https://www.44bits.io/ko/post/news--notion-outage-dns-issue)
 * [DNS 레코드를 간단히 알아보아요 : 오픈 인프라 엔지니어 그룹](https://blog.o3g.org/network/dns-record/)
+* [MaraDNS - a small open-source DNS server](https://maradns.samiam.org/)
+  * [MaraDNS - 서비스 테스트에 사용할 수 있는 간단한 Windows 용 DNS 서비스 | GeekNews](https://news.hada.io/topic?id=4001)
 
 # HTTP
 * [HTTP ERROR CODE](https://ukjin.tistory.com/2)
@@ -166,6 +169,14 @@ Network
   ```
 * [SSL 및 TLS 인증서를 관리하고 추적하는 4가지 모범 사례 - ITWorld Korea](http://www.itworld.co.kr/news/161095)
 * [LINE의 자체 개발 SSL 인증서 관리 시스템, VOYAGER - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/manage-ssl-certificates-with-secure-reliable-system/)
+
+# IP address
+* ifconfig.co [What is my IP address? — ifconfig.co](https://ifconfig.co/)
+  * [개발자 친화적인 "What is my IP" | GeekNews](https://news.hada.io/topic?id=3986)
+  * `curl ifconfig.co`
+* ifconfig.me [What Is My IP Address? - ifconfig.me](https://ifconfig.me/)
+* [ipify - A Simple Public IP Address API](https://www.ipify.org/)
+* IPinfo.io[Comprehensive IP address data, IP geolocation API and database - IPinfo.io](https://ipinfo.io/)
 
 # Library
 * [CIDR (Classless inter-domain routing)](https://github.com/m7shapan/cidr)
