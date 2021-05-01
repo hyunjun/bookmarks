@@ -267,6 +267,8 @@ C++
 * [postgame :: 신박한 c++20 2/2](https://postgame.tistory.com/657)
 * [How C++20 Changes the Way We Write Code - YouTube](https://www.youtube.com/watch?v=D81yl6_kHEM)
 * [An Improved Thread with C++20 - ModernesCpp.com](http://modernescpp.com/index.php/an-improved-thread-with-c-20)
+* [All C++20 core language features with examples | Oleksandr Koval’s blog](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
+  * [C++20의 주요 기능들 - 예제와 함께 정리 | GeekNews](https://news.hada.io/topic?id=4033)
 
 # CppCon
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
