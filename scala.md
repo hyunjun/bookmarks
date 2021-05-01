@@ -307,6 +307,7 @@ Scala
 * [Image editing with Monads | Blog of Adrian Salajan](https://blog.adrian-salajan.com/blog/2021/04/09/image-editing-with-monads)
 * [SF Scala: How to survive algorithms in Scala - YouTube](https://www.youtube.com/watch?v=Ee2Y9V5ePVo)
 * [Our Scala Journey by Girish Kolanthra (Capital One) - YouTube](https://www.youtube.com/watch?v=agi-dFh_vEg)
+* [Anomaly / outlier detection using isolation forest in Scala | by Kristof Slechten | Apr, 2021 | Medium](https://kristofsl.medium.com/anomaly-outlier-detection-using-isolation-forest-in-scala-9f5f4d6edff9)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -636,6 +637,7 @@ Scala
 * concurrent
   * duration
     * [Rock the JVM | How Does "20 seconds" Work in Scala?](https://rockthejvm.com/blog/215541/20-seconds)
+  * [Comparing Concurrent Programming Alternatives](https://blog.lunatech.com/posts/2021-04-28-calculating-pi-concurrently)
 * Double/Float
   * [Scala Doubles, and Precision](http://stackoverflow.com/questions/11106886/scala-doubles-and-precision) `BigDecimal(num).setScale(2, * * BigDecimal.RoundingMode.HALF_UP).toFloat/toDouble`
 * DSL
@@ -1176,7 +1178,8 @@ Scala
     * [Typelevel.scala | Why Are Fibers Fast?](https://typelevel.org/blog/2021/02/21/fibers-fast-mkay.html)
     * [Using Cats Effect Resource in Non-Functional Contexts · Horace Williams](https://worace.works/2021/03/25/cats-effect-resource-in-imperative-contexts/)
     * [Fire-and-Forget in Cats Effect](https://www.inner-product.com/posts/fire-and-forget-in-cats-effect/)
-    * [Cats Effect 3: Racing IOs (and Fibers) - YouTube](https://www.youtube.com/watch?app=desktop&v=75HqyZ04AFs)
+    * [Cats Effect 3: Racing IOs (and Fibers) - YouTube](https://www.youtube.com/watch?v=75HqyZ04AFs)
+    * [Cats Effect 3 - Introduction to Fibers - Rock the JVM Blog](https://blog.rockthejvm.com/cats-effect-fibers/)
     * [herding cats — Effect system](https://eed3si9n.com/herding-cats/effect-system.html)
   * [Cats Parse](https://slides.com/lewisjkl/cats-parse)
     * [SF Scala: Introduction to Cats Parse By Jeff Lewis - YouTube](https://www.youtube.com/watch?v=wreCg30pyts)
@@ -1376,6 +1379,7 @@ Scala
 * [quill - Free/Libre Compile-time Language Integrated Queries for Scala](https://getquill.io/)
   * [Cassandra scala client with Quill](https://medium.com/rahasak/cassandra-scala-client-with-quill-eaaa45c51fbf?)
   * [Working with Databases using Scala and Quill](http://www.lihaoyi.com/post/WorkingwithDatabasesusingScalaandQuill.html)
+  * [MiniQuill.scala at master · deusaquilus/miniquill](https://github.com/deusaquilus/miniquill/blob/master/src/main/scala/org/stuff/MiniQuill.scala)
 * [renesca - Scala library for the Neo4j REST API](https://github.com/renesca/renesca)
   * [renesca-magic - typesafe graph database schemas in Scala for Neo4j](https://github.com/renesca/renesca-magic)
 * [Skinny-ORM](http://skinny-framework.org/)
@@ -1702,6 +1706,7 @@ Scala
   * [#2 게릴라 방송 (2017-04-04)](https://www.youtube.com/watch?v=QjAOmX4Sj_4)
   * [#3 / Scala로 스크립팅 (2017-04-07)](https://www.youtube.com/watch?v=7drpR4p2cyo)
 * [sbt-bintray: fresh packages delivered from your sbt console](https://github.com/sbt/sbt-bintray)
+  * [Bintray to JFrog Artifactory migration status and sbt 1.5.1 | eed3si9n](https://eed3si9n.com/bintray-to-jfrog-artifactory-migration-status-and-sbt-1.5.1)
 * sbt-bintray-remote-cache [remote caching sbt builds with Bintray | eed3si9n](https://eed3si9n.com/remote-caching-sbt-builds-with-bintray)
 * sbt-ci-release [auto publish sbt plugin from Travis CI | eed3si9n](http://eed3si9n.com/auto-publish-sbt-plugin)
 * [sbt-coursier - ensures one's dependencies are fetched via coursier rather than by sbt itself, that relies on its own custom version of Ivy](https://get-coursier.io/docs/sbt-coursier)
@@ -1749,6 +1754,7 @@ Scala
 * [GOTO 2020 • Kotlin 4 vs. Scala 3 • Garth Gilmour & Eamonn Boyle](https://www.youtube.com/watch?v=sIL4mduqHe0)
 * [Starting with Scala 3 macros: a short tutorial](https://blog.softwaremill.com/starting-with-scala-3-macros-a-short-tutorial-88e9d2b2584c)
 * [Publish Scala 2 and Scala 3 macros together · MUnit](https://scalameta.org/munit/blog/2021/01/05/macromix.html)
+* [TASTY way of (re)writing macros in Scala 3 | by Kacper Korban | VirtusLab | Apr, 2021 | Medium](https://medium.com/virtuslab/tasty-way-of-re-writing-macros-in-scala-3-3ce704a2c37c)
 * [IMPORT SUGGESTIONS IN SCALA 3](https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html)
 * [Announcing the Moving from Scala 2 to Scala 3 course – Lunatech](https://www.lunatech.com/2020/06/announcing-the-moving-from-scala-2-to-scala-3-course/)
   * [lunatech-scala-2-to-scala3-course/exercises](https://github.com/lunatech-labs/lunatech-scala-2-to-scala3-course/tree/exercises-master/exercises)
@@ -1803,6 +1809,7 @@ Scala
 * [Best Features of Scala 3 for Scala.js | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=llGtGd4qux0)
 * [My Take on Scala 3 by Wiem Zine Elabidine - YouTube](https://www.youtube.com/watch?v=8q9DuMIqL3w)
 * [Scala 3: A Simpler Language · Signify Technology](https://www.signifytechnology.com/blog/2021/04/scala-3-a-simpler-language)
+* [Scala 3: Safer Pattern Matching with Matchable | by Dean Wampler | Scala 3 | Apr, 2021 | Medium](https://medium.com/scala-3/scala-3-safer-pattern-matching-with-matchable-f0396430ded6)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
@@ -2147,3 +2154,4 @@ Scala
 * [Scala - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/Scala)
 * [N-Queens in Scala: Approaching an Interview Problem With Pure Functional Programming - YouTube](https://www.youtube.com/watch?v=_O7mETYRDhY)
 * [Scala :: ./side_effects.sh](http://zafirov.me/posts/scala/)
+* [#Scala Crash Course by a Scala veteran (with some JavaScript flavor) - YouTube](https://www.youtube.com/watch?v=-xRfJcwhy7A)
