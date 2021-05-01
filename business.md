@@ -3,6 +3,8 @@ Business
 
 * [위대한 제품의 6가지 속성](http://www.venturesquare.net/577006)
 * [위대한 제품의 특성](http://www.andrewahn.co/product/great-products/)
+* [Don't sell a product, sell an experience. And give everything else away for free](http://hauser.io/dont-sell-a-product-sell-an-experience-and-give-everything-else-away-for-free/)
+* [Known vs Unknown Product Framework | by Gustavo Guiomar | Medium](https://guguiomar.medium.com/known-vs-unknown-framework-5808cb66f219)
 * [직장에서의 갈등을 극복하는 지혜로운 원칙들](http://www.venturesquare.net/578558)
 * [샤오미가 선택한 ‘미스핏’ 소니 부 대표의 6가지 말말말](http://besuccess.com/2014/12/sonny-vu/)
 * [평판의 세상](http://www.thestartupbible.com/2014/12/reputation-really-matters-and-may-be-everything.html)
@@ -40,7 +42,6 @@ Business
 * [A culture that attracts quality candidates](http://radianttiger.com/2015/04/20/a-culture-that-attracts-quality-candidates/)
 * [직장인이여, 회계하라!](http://ppss.kr/archives/43889)
 * [The Psychology of Pricing: A Gigantic List of Strategies](http://www.nickkolenda.com/psychological-pricing-strategies/)
-* [Don't sell a product, sell an experience. And give everything else away for free](http://hauser.io/dont-sell-a-product-sell-an-experience-and-give-everything-else-away-for-free/)
 * [5 Brilliant Lessons Entrepreneurs Can Learn from Moneyball](http://blog.saleswhale.io/five-brilliant-lessons-entrepreneurs-can-learn-from-moneyball/)
 * [고객과 직원의 마음을 얻는 능력, 공감력](http://newspeppermint.com/2015/05/12/empathy-in-business/)
 * [직장 내 갈등을 일으키는 부정적 성격 5가지](http://ppss.kr/archives/44767)
@@ -477,6 +478,10 @@ Business
 * [실리콘 밸리의 엔지니어링 매니저(리더)들은 대체 무엇을 하는가? (1편) - Sendbird](https://sendbird.com/ko/blog/eng-leader-role-1)
 * [실리콘 밸리의 엔지니어링 매니저(리더)들은 대체 무엇을 하는가? (2편) - Sendbird](https://sendbird.com/ko/blog/eng-leader-role-2)
 * [**당신의 매니저를 이용해라**](https://brunch.co.kr/@yongjinjinipln/94)
+* [managers-playbook: Heuristics for effective management](https://github.com/ksindi/managers-playbook)
+  * 효율적인 관리를 위한 휴리스틱들
+    1. 기본원칙 2. 1:1 미팅 3. 코칭 4. 피드백 5. 전략적 사고 6. 의사결정 7. 코딩 8. 티켓과 PR 프로세스 9. 커뮤니케이션
+    10. 채용 11. 온보딩 12. Managing Up : 매니저 관리 13. Managing Sideways : 동료 관리 14. 변화 발표 15. 더 읽을 것
 * [팀장이 된다는 것](https://www.folin.co/book/1063)
 * [독서광 구글의 아침은 자유가 시작된다](http://jhrogue.blogspot.com/2018/11/blog-post.html)
 * [**테크니컬 리더십: 시작하기**](http://leafbird.github.io/devnote/2018/11/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%A6%AC%EB%8D%94%EC%8B%AD-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
