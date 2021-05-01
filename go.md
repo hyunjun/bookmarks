@@ -426,6 +426,7 @@ Go
 * [Build your own dynamic DNS service with GO!](http://mkaczanowski.com/golang-build-dynamic-dns-service-go/)
 * [c2go - A tool for converting C to Go](https://github.com/elliotchance/c2go)
 * [caddy2 - A new kind of extensible platform for server apps](https://caddyserver.com/v2)
+* [casbin: An authorization library that supports access control models like ACL, RBAC, ABAC in Golang](https://github.com/casbin/casbin)
 * [Clones of the \*nix utilities written in go](https://github.com/polegone/gonix)
 * [BuffStreams - A library to simplify writing applications using TCP sockets to stream protobuff messages](https://github.com/StabbyCutyou/buffstreams)
 * [BrodalOkasakiHeap - An implementation of Brodal-Okasaki heap using Go](https://github.com/ckaygusu/BrodalOkasakiHeap)
