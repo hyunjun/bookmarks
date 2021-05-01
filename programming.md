@@ -2761,6 +2761,7 @@ Programming
 * [블랙박스 테스트 기법으로 테스트 케이스 설계하기](https://huns.me/posts/2020-01-09-35)
 * [Building an Effective Test Pipeline in a Service Oriented World](https://medium.com/airbnb-engineering/building-an-effective-test-pipeline-in-a-service-oriented-world-6968c513c6bd)
 * [테스트 커버리지 100%](https://blog.npcode.com/2020/02/28/%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%bb%a4%eb%b2%84%eb%a6%ac%ec%a7%80-100/)
+* [토스ㅣSLASH 21 - 테스트 커버리지 100% - YouTube](https://www.youtube.com/watch?v=jdlBu2vFv58&list=PL1DJtS1Hv1PiGXmgruP1_gM2TSvQiOsFL&index=8)
 * [Verifying Microservice Integrations with Contract Testing - Atlassian Summit 2016](https://www.youtube.com/watch?v=-6x6XBDf9sQ)
 * [Dockerize your integration tests](https://medium.zenika.com/dockerize-your-integration-tests-8d26a7425baa)
 * [테스트가 뭐예요?](https://www.slideshare.net/perhapsspy/ss-232479689)
