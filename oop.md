@@ -73,6 +73,7 @@
 * [5. 상태 패턴 with Unity](https://velog.io/@sonohoshi/5.-%EC%83%81%ED%83%9C-%ED%8C%A8%ED%84%B4-with-Unity) FSM Finite State Machine
 * [Design pattern - State pattern | 10분 TV](http://10bun.tv/etc/design-pattern-1/)
 * [클래스 상속과 인터페이스 구현의 차이 | 10분 TV](http://10bun.tv/beginner/episode-7/)
+* [**Design Patterns**](https://refactoring.guru/design-patterns)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
@@ -294,3 +295,5 @@
 # UML
 * [All the UML you need to know](http://www.cs.bsu.edu/homepages/pvg/misc/uml/)
 * [UML: 클래스 다이어그램과 소스코드 매핑](http://www.nextree.co.kr/p6753/)
+* [Why UML "Really" Died • Buttondown](https://buttondown.email/hillelwayne/archive/why-uml-really-died/)
+* [Has UML died without anyone noticing? | Ernesto Garbarino](https://garba.org/posts/2021/uml/)
