@@ -403,6 +403,7 @@ Go
 * [Go: How Are Deadlocks Triggered?. ℹ️ This article is based on Go 1.14. | by Vincent Blanchon | A Journey With Go | Jul, 2020 | Medium](https://medium.com/a-journey-with-go/go-how-are-deadlocks-triggered-2305504ac019)
 * [Go: Goroutine Leak Detector. A goroutine leak can easily be detected… | by Vincent Blanchon | A Journey With Go | Sep, 2020 | Medium](https://medium.com/a-journey-with-go/go-goroutine-leak-detector-61a949beb88)
 * [Notes on structured concurrency, or: Go statement considered harmful](https://muchtrans.com/translations/notes-on-structured-concurrency-or-go-statement-considered-harmful.ko.html)
+* [Concurrent API Patterns in Go. When I first started writing Golang… | by Mark Salpeter | Apr, 2021 | Medium](https://marksalpeter.com/concurrent-api-patterns-in-go-52fcb5a9c681)
 * [errgroup으로 goroutine 10배 잘 활용하기 | DevJin-Blog](https://devjin-blog.com/golang-errgroup-goroutine/)
 * [leaktest - Goroutine Leak Detector](https://github.com/fortytw2/leaktest)
 * [tistory-to-md: Tistory의 OpenAPI를 사용하여 게시글과 이미지를 MarkDown으로 백업하는 프로젝트 입니다](https://github.com/JaeSeoKim/tistory-to-md)
