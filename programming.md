@@ -348,6 +348,7 @@ Programming
 * [코딩 1도 없이 서비스 4개 만들기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/222612) 노코드
 * [Managing Technical Debt. DevOps Essentials | by Stephen Kawaguchi | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/managing-technical-debt-b4f30cbccbe0)
 * [Towards an understanding of technical debt | Kellan Elliott-McCrea](https://kellanem.com/notes/towards-an-understanding-of-technical-debt)
+* [The True Meaning of Technical Debt 💸 - Refactoring](https://refactoring.fm/p/the-true-meaning-of-technical-debt)
 * [Understanding Tech Debt](https://www.slideshare.net/sm9kr/understanding-tech-debt)
 * [기술 부채?](https://velog.io/@juunini/%EA%B8%B0%EC%88%A0-%EB%B6%80%EC%B1%84)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
@@ -369,6 +370,7 @@ Programming
 * [다양한 아기발걸음으로 배우기 | Popit](https://www.popit.kr/%EB%8B%A4%EC%96%91%ED%95%9C-%EC%95%84%EA%B8%B0%EB%B0%9C%EA%B1%B8%EC%9D%8C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EA%B8%B0/)
 * [로블록스: 메타버스의 새벽. Roblox: Dawn of the Metaverse | by Kenial Lee | kokr | Mar, 2021 | Medium](https://medium.com/kokr/%EB%A1%9C%EB%B8%94%EB%A1%9D%EC%8A%A4-%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%EC%9D%98-%EC%83%88%EB%B2%BD-330a56386e34)
 * [2021.03.08 우리가 경험해온 메타버스, 앞으로 만나게 될 메타버스](https://www2.slideshare.net/KiheonShin/20210308-244069379) metaverse
+* [A System for Detecting Software Similarity](http://theory.stanford.edu/~aiken/moss/)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -558,6 +560,7 @@ Programming
 * [ODC를 구축한 기술](https://blog.roto.codes/odc-tech-stack/) frontend
 * [Twitter는 어떻게 1초에 3,000개의 이미지를 처리하고 있나?](http://www.mimul.com/pebble/default/2016/10/12/1476262525827.html)
 * [Design Patterns](https://msdn.microsoft.com/en-us/library/dn600223.aspx)
+* [10 Design Patterns every Software Architect and Software Engineer must know | by Ravindra Elicherla | Medium](https://ravindraelicherla.medium.com/10-design-patterns-every-software-architect-must-know-b33237bc01c2)
 * [LINE LIVE 채팅 기능의 기반이 되는 아키텍처](http://developers.linecorp.com/blog/ko/?p=290)
 * [대규모인프라운영13.아키텍처전문가 되기1](https://brunch.co.kr/@topasvga/53)
 * [Adrian Cockcroft와 함께한 1시간의 Q&A](https://brunch.co.kr/@cleancode/29)
@@ -796,7 +799,8 @@ Programming
 * [Storing and retrieving millions of ad impressions per second](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/storing-and-retrieving-millions-of-ad-impressions-per-second.html)
 * [**LINE 미디어 스토리지 글로벌 배치 프로젝트를 소개합니다 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/line-mediastorage-at-scale/) cache ceph 좋은 글
 * [구현한 채팅에 캐시 적용해서 성능 개선하기](https://velog.io/@seanlion/chatcache)
-* [**1인 기술 스타트업의 아키텍쳐 스택 | GeekNews**](https://news.hada.io/topic?id=4055)
+* [The Architecture Behind A One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
+  * [**1인 기술 스타트업의 아키텍쳐 스택 | GeekNews**](https://news.hada.io/topic?id=4055)
 * [Top 5 Architecture Blog Posts for Q1 2021 | AWS Architecture Blog](https://aws.amazon.com/ko/blogs/architecture/top-5-architecture-blog-posts-for-q1-2021/)
 * [How We Built A Context-Specific Bidding System for Etsy Ads - Code as Craft](https://codeascraft.com/2021/03/23/how-we-built-a-context-specific-bidding-system-for-etsy-ads/)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
@@ -1196,11 +1200,13 @@ Programming
 * [클라우드 마이그레이션을 위한 AS-IS 시스템 분석 방법](https://tech.osci.kr/2021/03/09/111612589/)
 * [성숙기 들어선 클라우드 세계의 새로운 문제점 7가지 - ITWorld Korea](https://www.itworld.co.kr/news/187633)
 * [기업용 클라우드 비용 최적화: 도구과 사례 | 슬로우뉴스](https://slownews.kr/79903)
+* [서버리스와 서버의 비용 비교](https://brunch.co.kr/@cebi750/22)
 * [aws](aws.md)
 * [azure](azure.md)
 * [Dapr - Distributed Application Runtime](https://dapr.io/)
 * [GCP Google Cloud Platform](gcp.md)
 * [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
+* [Dark - a new way of building serverless backends. Just code your backend, with no infra, framework or deployment nightmares](https://darklang.com/)
 * [Dataiku 다타이쿠 클라우드 서버 설치 방법 가이드](https://stricky.tistory.com/351) 네이버 클라우드 플랫폼
 * Heroku
   * [We are very far from a better Heroku for production apps in a hyper cloud | GitLab](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
