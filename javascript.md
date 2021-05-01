@@ -1186,6 +1186,7 @@ Javascript
   * [Prisma, 넌 누구니?](https://velog.io/@ltnscp9028/Prisma-%EB%84%8C-%EB%88%84%EA%B5%AC%EB%8B%88-gr0ecme3)
   * [Prisma Schema 넌 누구니 ?](https://velog.io/@ltnscp9028/Prisma-Schema-%EB%84%8C-%EB%88%84%EA%B5%AC%EB%8B%88)
   * [Prisma Model, 넌 누구니 ?](https://velog.io/@ltnscp9028/Prisma-Model-%EB%84%8C-%EB%88%84%EA%B5%AC%EB%8B%88)
+  * [Prisma – The Complete ORM for Node.js & TypeScript](https://www.prisma.io/blog/prisma-the-complete-orm-inw24qjeawmb)
 * Relay
   * [GraphQL and Relay: what are they and why do they matter?](https://hackernoon.com/graphql-and-relay-what-are-they-and-why-do-they-matter-d8dfcc3ce2ac)
   * [Relay로 구현한 Github 유저 검색하기 프로젝트 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/react-relay-github/)
@@ -3020,6 +3021,7 @@ Javascript
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [handoff-visualizer - Wireless Network Handoff Visualizer built with React!](https://github.com/chonyy/handoff-visualizer)
 * [Hermes - JavaScript engine optimized for React Native](https://hermesengine.dev/)
+  * [Hermes - a small and lightweight JavaScript engine optimized for running React Native](https://github.com/facebook/hermes)
   * [Hermes 적용해봤어요!](https://www.notion.so/ffc3ef483a494b759c920f14bfa09c67)
 * [Hook Player 본인이 좋아하는 유튜브 링크로 자신만의 플레이 리스트를 만들고, 데스크탑, 모바일 어느 환경에서든 사용할 수 있습니다](https://indiemakers.net/review/hookplayer)
   * [github.com/dev4us/hook-player](https://github.com/dev4us/hook-player)
