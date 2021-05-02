@@ -471,6 +471,7 @@ Scala
 * [Attending a hackathon with Scala and Akka (Streams) on Microsoft Azure | The epic.blog](https://epic.blog/akka/2020/10/05/hackathon-with-scala-akka-on-azure.html)
 * [A case for akka-coordination lease | by Michał Ostruszka | Nov, 2020 | SoftwareMill Tech Blog](https://blog.softwaremill.com/a-case-for-akka-coordination-lease-4867887e4d7f)
 * [Akka Platform Guide :: Akka Platform Guide](https://developer.lightbend.com/docs/akka-platform-guide/index.html)
+* [Type safe, message driven, distributed - a whirlwind tour of Akka by Johan Andrén - YouTube](https://www.youtube.com/watch?v=o1iKDgq9Asg)
 * [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
 * Akka-Persistence-Postgres [Why we need yet another Akka persistence plugin | by Marcin Kubala | SoftwareMill Tech Blog](https://blog.softwaremill.com/why-we-need-yet-another-akka-persistence-plugin-4e08993eb04e)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
