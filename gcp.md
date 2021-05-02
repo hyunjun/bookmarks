@@ -93,6 +93,7 @@ Google Cloud Platform GCP
 * [gcloud설치하기](https://krksap.tistory.com/1638)
 * [GCP에 파티원 초대하고 프로젝트 같이 진행하기](https://jybaek.tistory.com/827)
 * [Serverless ML API 30분 완성 생산성 높은 AI 개발자 되기 (1)](https://brunch.co.kr/@chris-song/91)
+* [Google Developers Korea Blog: 자신만의 ML 레시피를 AI Platform으로 요리해보세요](https://developers-kr.googleblog.com/2021/05/cook-your-own-ml-recipes-ai-platform.html)
 * [Try to use Serverless function](https://jinhoyoo.github.io/Try-to-use-Serverless-function/)
 * [google cloud shell을 이용해서 proxy 서버로 사용해서 공짜로 vpn처럼 이용하기](https://gist.github.com/leoh0/cbafb6c13e677bb6b5928f57e039f435)
 * [Google Introduces Cloud Storage Connector for Hadoop Big Data Workloads](https://www.infoq.com/news/2019/09/Google-Cloud-Storage-Hadoop/)
