@@ -67,6 +67,7 @@ Finance
 * [버핏은 하락을 준비하고 있다 - YouTube](https://www.youtube.com/watch?v=CTby89NnjaY)
   * 버핏지수 = 주가 / 국가 GDP
   * 스테그플레이션이 우려되는 시기에 좋은 투자: 금보다 금광회사 e.g. 고려아연, 베릭골드
+* [버크셔 헤서웨이 2021년 주주총회 관련 글 (유튜버 김단테 번역본 참조) : 클리앙](https://www.clien.net/service/board/cm_stock/16112543) QQQ SPY
 * [INVESTMENT, MOIRA & ENOMA.. : 네이버블로그](https://blog.naver.com/moiraenomatia)
 * [자녀에게 사주면 좋을 해외주식 BEST 10 - YouTube](https://www.youtube.com/watch?v=95NL2JKDDvk)
 * [투자 자료 모음 - Google Sheets](https://docs.google.com/spreadsheets/d/1wPR2CCImrk6Qb8jwlGy2_RfDJu5PwY18POrJ3UR1sts/edit#gid=0)
