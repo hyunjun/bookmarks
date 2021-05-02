@@ -684,6 +684,7 @@ NLP
   * [A state-of-the-art open source chatbot](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot)
 * [**dialogpt-chat: Chatting with DialoGPT (Large-Scale Generative Pre-training for Conversational Response Generation)**](https://github.com/hyunwoongko/dialogpt-chat)
   * [P.1 Chatbot with Mic input/Speaker output using Python, Jarvis, and DialoGPT - YouTube](https://www.youtube.com/watch?v=CumHy6v7un0)
+  * [P.2 Chatbot with Mic input/Speaker output using Python, Jarvis, and DialoGPT - YouTube](https://www.youtube.com/watch?v=lheXIYXanuU)
 * [kochat: Opensource Korean chatbot framework based on deep learning](https://github.com/gusdnd852/kochat)
 * [openchat: Opensource chatting framework for generative models](https://github.com/hyunwoongko/openchat)
   * [AI 모델 탐험기 #2 챗봇이 뭐지? NLP 기술을 활용한 Open chat | by AI Network | AI Network_KR | Apr, 2021 | Medium](https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%ED%83%90%ED%97%98%EA%B8%B0-2-nlp-%EA%B8%B0%EC%88%A0%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-open-chat-b9612ca4d335)
