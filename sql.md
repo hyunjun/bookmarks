@@ -928,3 +928,6 @@ SQL
 
 ## SQLite Python
 * [SQLServer JDBC의 이상한 동작](http://www.popit.kr/sqlserver-jdbc%EC%9D%98-%EC%9D%B4%EC%83%81%ED%95%9C-%EB%8F%99%EC%9E%91/)
+* [A simple Python script to document the SQLite databases](https://towardsdatascience.com/a-simple-python-script-to-document-the-sqlite-databases-7932aa462cd8)
+* [Do You Know Python Has A Built-In Database? | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/do-you-know-python-has-a-built-in-database-d553989c87bd)
+* [SimpleSQLite - Python library to simplify the table creation and data insertion in SQLite database (Automatic table creation from data. Support various data type for insertion: dictionary/namedtuple/list/tuple) http://simplesqlite.readthedocs.org/en/stable/apis/simplesqlite.html](https://github.com/thombashi/SimpleSQLite)
