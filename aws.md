@@ -127,6 +127,7 @@ AWS
 * [AWS Code 서비스 특집 - 아마존 DevOps와 CodeDeploy, CodePipeline (윤석찬)](http://www.slideshare.net/awskorea/aws-code-services-special-amazon-dev-ops-codedeploy-codepipeline-voiceops-chatops)
 * [How to Create an AWS Continuous Deployment Pipeline – My Developer Planet](https://mydeveloperplanet.com/2020/11/18/how-to-create-an-aws-continuous-deployment-pipeline/)
 * [AWS 개발자 도구를 활용한 GitFlow 구현 방법](https://aws.amazon.com/ko/blogs/korea/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/)
+* [AWS Codebuild 용 커스텀 Windows Server 이미지 만드는 법 | by Jesang Yoon | Hard Boiled Smith Stories | May, 2021 | Medium](https://medium.com/hbsmith/aws-codebuild-%EC%9A%A9-%EC%BB%A4%EC%8A%A4%ED%85%80-windows-server-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95-939eeeeb06b7)
 * [AWS CodePipeline과 Amazon s3를 통한 정적 웹사이트 CI/CD 구축(Next.js) | by gon Kim | elecle_bike | Feb, 2021 | Medium](https://medium.com/elecle-bike/aws-codepipeline%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%A0%95%EC%A0%81-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-ci-cd-%EA%B5%AC%EC%B6%95-next-js-532fff15474)
 * [AWS Code Deploy를 통한 배포 자동화](http://blog.dramancompany.com/2017/04/aws-code-deploy%EB%A5%BC-%ED%86%B5%ED%95%9C-%EB%B0%B0%ED%8F%AC-%EC%9E%90%EB%8F%99%ED%99%94/)
 * [React 앱 AWS에 배포하기](https://isme2n.github.io/aws/2017/06/08/aws-deploy/)
