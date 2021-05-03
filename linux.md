@@ -265,6 +265,8 @@ Linux
 * [Ubuntu의 apt-get 명령어 정리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/346)
 * [우분투에 최신 버전 노드 설치하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/875)
 * [How Install GDebi package installer on Ubuntu 18.04](https://www.ubuntu18.com/install-gdebi-ubuntu-18/)
+* [Ubuntu에 AppImage를 System Application으로 등록하기](https://devbull.xyz/ubuntu-appimage/)
+* [Ubuntu 20.04에 MacOS Catalina를 VirtualBox로 설치하기](https://devbull.xyz/ubuntu-20-04-macos/)
 
 # Automation
 * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
