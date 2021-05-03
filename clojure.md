@@ -337,6 +337,7 @@ Clojure
 * [Solving the Expression Problem with Clojure 1.2](https://web.archive.org/web/20110821210021/http://www.ibm.com/developerworks/java/library/j-clojure-protocols/)
 * [Organizing Clojure code - A real problem? - Community Center / Beginners - ClojureVerse](https://clojureverse.org/t/organizing-clojure-code-a-real-problem/7567/16)
 * [Counting HTTP 0 9 3 0 by Oleksii Kachaiev - YouTube](https://www.youtube.com/watch?v=o5FXMVeSgFI)
+* [왜 폴 그레이엄은 회사 이름을 Y Combinator라고 지었을까 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/y-combinator/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -534,6 +535,7 @@ Clojure
   * [Clojure 강좌 05 - Cursive에서 Paredit 사용하기](https://www.youtube.com/watch?v=znCEr9V9s4E)
   * [Cursive local REPL 에서 UnsupportedClassVersionError 에러가 날 경우](https://gist.github.com/cheolhee/7bd80e9305833e5e7d3d53faca517790)
   * [Cursive: Installing](https://cursive-ide.com/userguide/)
+  * [My repl in Cursive throws compiler exceptions until I restart it : Clojure](https://www.reddit.com/r/Clojure/comments/n23y3y/my_repl_in_cursive_throws_compiler_exceptions/)
 * [datascript - An immutable in-memory database and Datalog query engine in ClojureScript](https://github.com/tonsky/datascript)
   * [datsync Datomic <-> DataScript syncing/replication utilities](https://github.com/metasoarous/datsync)
 * [datawalk](https://github.com/eggsyntax/datawalk) REPL에서 데이터 확인
@@ -781,6 +783,7 @@ Clojure
 * [Duct - Server-side application framework for Clojure](https://github.com/duct-framework/duct)
   * [Duct module.lacinia](https://github.com/kakao/duct-lacinia) graph ql
   * [Productive Duct James Reeves](https://www.youtube.com/watch?v=IVnBW2mT7Po)
+* [edamame: Configurable EDN/Clojure parser with location metadata](https://github.com/borkdude/edamame)
 * [Enlive - a selector-based (à la CSS) templating library for Clojure](https://github.com/cgrand/enlive)
 * [expresso - A clojure library for symbolic manipulation of Algebraic Expressions](https://github.com/clojure-numerics/expresso)
 * [Etaion - Pure Clojure implementation of Webdriver protocol](https://github.com/igrishaev/etaoin)
@@ -1073,6 +1076,7 @@ Clojure
 * [번역 Transducers 이해하기](https://medium.com/@autumn.bom/%EB%B2%88%EC%97%AD-transducers-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-c69e07840cc)
 * [A mental model for thinking about Clojure's Transducers | Functional Works](https://functional.works-hub.com/learn/a-mental-model-for-thinking-about-clojures-transducers-6baba)
 * [Understanding Transducers - Elben Shira](https://elbenshira.com/blog/understanding-transducers/)
+* [danzig - a easy-to-use transducer based data analysis tools for the clojure programming language](https://github.com/ribelo/danzig)
 
 # Tutorial
 * [클로저 맛보기 스터디](http://slipp.net/questions/339)
