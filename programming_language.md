@@ -335,6 +335,7 @@ Programming Language
   * [Mecab-ko 설정 파일과 사전 디렉터리를 상대 경로로 지정하기](http://occamsrazr.net/tt/355)
   * [Fennel: Lua Lisp Language](https://github.com/bakpakin/Fennel)
     * [the Fennel programming language](https://fennel-lang.org/)
+    * [~technomancy/fennel: from-clojure.md - sourcehut git](https://git.sr.ht/~technomancy/fennel/tree/main/from-clojure.md)
   * [lite - A lightweight text editor written in Lua](https://github.com/rxi/lite)
 * [Lush](http://lush.sourceforge.net/)
 * [Lux](https://github.com/LuxLang/lux)
