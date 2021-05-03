@@ -647,6 +647,7 @@ Javascript
 * [프로모션용 웹앱 빌더, 만다오 - 우아한형제들 기술 블로그](https://woowabros.github.io/woowabros/2021/03/08/mandao.html)
 * [운명의 Devs VOD 서비스의 시청시간 수집하기 - 피터 - YouTube](https://www.youtube.com/watch?v=CEBPWBtXXg8)
 * [Content-aware image resizing in JavaScript | Trekhleb](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
+* [깃플 스터디 프로젝트 | Programming Cloud-Native](https://tech.gitple.io/2021/05/03/study-project/) Angular Observable Docker Node-restful node-summarizer
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
