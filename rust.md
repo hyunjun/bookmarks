@@ -285,6 +285,7 @@
 * [Learning Rust for Beginners – Sequenced Thoughts from C/S](https://elangocheran.com/2021/01/26/learning-rust-for-beginners/)
 * [이 정도 이해하면 rust 언어 사용자라고 할 수도~](https://open-support.tistory.com/entry/%EC%9D%B4-%EC%A0%95%EB%8F%84-%EC%9D%B4%ED%95%B4%ED%95%98%EB%A9%B4-rust-%EC%96%B8%EC%96%B4-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%9D%BC%EA%B3%A0-%ED%95%A0-%EC%88%98%EB%8F%84)
 * [Why Rust strings seem hard | Brandon's Website](https://www.brandons.me/blog/why-rust-strings-seem-hard)
+* [Rust 입문용 치트시트](https://happygrammer.github.io/rust/cheat-seat/)
 * [Rust로 첫 번째 단계 수행 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/paths/rust-first-steps/)
   * [MS의 Rust 기초 가이드 한국어 | GeekNews](https://news.hada.io/topic?id=4095)
 * [rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
