@@ -83,6 +83,7 @@ Flutter
 * [Flutter NoSQL 데이터베이스 Hive - YouTube](https://www.youtube.com/watch?v=EenYDsyFzYs)
 * [플러터 장점 대방출~~ 내가 플러터를 쓰는 이유! - YouTube](https://www.youtube.com/watch?v=LYp0BPxPPuo)
 * [Null Safety 깔끔하게 이해하고 가세요!! flutter2.0 #더코딩파파 - YouTube](https://www.youtube.com/watch?v=kBrWlB4xElw)
+* [초간단 리소스 아끼는 방법 #flutter #late #더코딩파파 - YouTube](https://www.youtube.com/watch?v=_9qPtCZjbLo)
 
 # Dart
 * [awesome-dart: A curated list of awesome Dart frameworks, libraries, and software](https://github.com/yissachar/awesome-dart)
