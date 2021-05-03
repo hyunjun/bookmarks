@@ -2478,6 +2478,7 @@ Python
 * [9 things you did not know about jupyter notebook | by Magdalena Konkiewicz | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/9-things-you-did-not-know-about-jupyter-notebook-d0d995a8efb3)
 * [Top 8 magic commands in Jupyter Notebook | by Magdalena Konkiewicz | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/top-8-magic-commands-in-jupyter-notebook-c1582e813560)
 * [BayPiggies July 2020 - "Notebooks Night" - YouTube](https://www.youtube.com/watch?v=8WnCWdbpIPU)
+* [Windows 10 Jupyter Notebook 원격 + 테마 설정하는 방법(라우터 우회)](https://devbull.xyz/windows-10-jupyter-notebook-weongyeog-tema-seoljeonghaneun-bangbeob-rauteo-uhoe/)
 
 ## Jupyter Library
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
@@ -2529,6 +2530,7 @@ Python
 * [jupyterlab-interactive-dashboard-editor](https://github.com/jupytercalpoly/jupyterlab-interactive-dashboard-editor)
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
 * jupytext [Version Control With Jupyter Notebook | by Shinichi Okada | Towards Data Science](https://towardsdatascience.com/version-control-with-jupyter-notebook-b9630bc5996e)
+* nbextension [Jupyter notebook 테마 및 확장기능(nbextensions) 설치 방법](https://devbull.xyz/jupyter-notebook-theme-extensions/)
 * [nbterm - edit and execute Jupyter Notebooks in the terminal](https://github.com/davidbrochart/nbterm)
   * [nbterm: Jupyter Notebooks in the terminal | by David Brochart | Apr, 2021 | Jupyter Blog](https://blog.jupyter.org/nbterm-jupyter-notebooks-in-the-terminal-6a2b55d08b70)
 * [nteract and create with data, words, and visuals](https://nteract.io/) jupyter notebook을 web이 아니라 local에서 실행
