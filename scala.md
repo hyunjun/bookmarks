@@ -1612,6 +1612,8 @@ Scala
 * [One Div Zero: Monads are Elephants Part 2](http://james-iry.blogspot.com/2007/10/monads-are-elephants-part-2.html)
 * [One Div Zero: Monads are Elephants Part 3](http://james-iry.blogspot.com/2007/10/monads-are-elephants-part-3.html)
 * [One Div Zero: Monads are Elephants Part 4](http://james-iry.blogspot.com/2007/11/monads-are-elephants-part-4.html)
+* [Ep 12: ReaderT is good for the environment - YouTube](https://www.youtube.com/watch?v=t7rfvpd9mD0)
+  * [evalexample/Video12.scala at video12 · justinhj/evalexample](https://github.com/justinhj/evalexample/blob/video12/src/main/scala/livevideos/Video12.scala)
 
 ## Monad Tagless Final
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
