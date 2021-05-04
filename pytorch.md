@@ -329,6 +329,11 @@ PyTorch
   * [Introducing Opacus: A high-speed library for training PyTorch models with differential privacy](https://ai.facebook.com/blog/introducing-opacus-a-high-speed-library-for-training-pytorch-models-with-differential-privacy)
 * [paragraph-vectors - A PyTorch implementation of Paragraph Vectors (doc2vec)](https://github.com/inejc/paragraph-vectors)
 * [performer-pytorch: An implementation of Performer, a linear attention-based transformer, in Pytorch](https://github.com/lucidrains/performer-pytorch)
+* [policy-distillation-baselines: Pytorch Implementation of Policy Distillation for control, which has well-trained teachers via stable_baselines3](https://github.com/CUN-bjy/policy-distillation-baselines)
+  * Policy Distillation
+    * 16년 DeepMind에서 공개. 주로 transfer learning의 한 분야인 knowledge distillation 연구
+    * 강화학습과 접목되면서 continual learning 또는 multi-task learning에서 지향하고자 하는 방향성과 비슷한 부분이 많아 continual RL 및 multi-task RL의 방법들로 활용되기도 함
+  * 장점: 빠른 모델 학습, 모델 메모리와 연산량을 크게 줄이도록 경량화 가능, 쉽게 다양한 알고리즘 결합 가능
 * PyCUDA
   * [Deep-Learning-Boot-Camp/day02-PyTORCH-and-PyCUDA/PyCUDA](https://github.com/QuantScientist/Deep-Learning-Boot-Camp/tree/master/day02-PyTORCH-and-PyCUDA/PyCUDA)
 * [PyRobot - An Open Source Robotics Research Platform](https://www.pyrobot.org/)
