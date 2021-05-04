@@ -168,7 +168,7 @@ Programming
 * [Weekly Links #2 - 2016년 4월 넷째주](http://tech.kakao.com/2016/04/27/weekly-links-2/)
 * [stackoverflow.com/documentation](http://stackoverflow.com/documentation)
 * [프로그레시브 웹 앱 : 탭에서 벗어나기](http://han41858.tistory.com/13)
-* [개발 블로그 모음. 개발자 위키로 편집중. RSS 리더 http://codepen.io/sarojaba/full/MYOroq ](https://github.com/sarojaba/awesome-devblog)
+* [awesome-devblog: 어썸데브블로그. 국내 개발/기술 블로그 모음(only 실명으로)](https://github.com/sarojaba/awesome-devblog)
 * [어썸블로그](https://github.com/BenjaminKim/awesome-blogs)
 * [Feedly로 기술 블로그의 최신글을 모아서 볼 수 없을까? – 잔디에 기술 블로그 Lake 만들기](http://blog.jandi.com/ko/2020/02/11/feedly-and-jandi-blog-lake/)
 * [**개발자가 갖추어야 할 9가지 기술**](https://www.youtube.com/watch?v=fHyTA-UIcqs)
