@@ -10,6 +10,7 @@ AWS
 * [AWS 한국 블로그를 시작합니다](https://aws.amazon.com/ko/blogs/korea/welcome-to-aws-korea-blog/)
 * [Category: AWS Community Heroes](https://aws.amazon.com/ko/blogs/korea/category/aws-community-heroes/)
 * [awesome-aws - A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome](https://github.com/donnemartin/awesome-aws)
+* [AWS in Plain English](https://aws.plainenglish.io/)
 * [AWS 전문가 되기](https://brunch.co.kr/magazine/devops)
 * [zigispace.net/category/클라우드\_가상화/AWS](https://zigispace.net/category/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_%EA%B0%80%EC%83%81%ED%99%94/AWS)
 * [아마존 웹 서비스(AWS, Amazon Web Serivce)란?](https://www.44bits.io/ko/keyword/amazon-web-service)
