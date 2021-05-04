@@ -2358,6 +2358,9 @@ CVPR2016)
 * [Playing Text-adventure Games with an AI](https://medium.com/@rajammanabrolu/kg-dqn-57d06004022)
 * [DRL Value-based Methods - DQN](https://parksurk.github.io/deep/reinfocement/learning/drlnd_2-4_value_based_methods-post/)
 * [Teach an Agent Play a Game Using Q-Learning in Numpy](https://towardsdatascience.com/using-q-learning-in-numpy-to-teach-an-agent-to-play-a-game-4fee32eb922a)
+* [DQN_HER.ipynb at master · HERIUN/RLstudy](https://github.com/HERIUN/RLstudy/blob/master/DQN_HER.ipynb)
+  * BitFlip환경에서 DQN+HER 구현
+  * [rl-paper-study/210412 - Hindsight Experience Replay, M. Andrychowicz et al, 2017.pdf at master · utilForever/rl-paper-study](https://github.com/utilForever/rl-paper-study/blob/master/4th/210412%20-%20Hindsight%20Experience%20Replay%2C%20M.%20Andrychowicz%20et%20al%2C%202017.pdf)
 
 ## RL MOOC, Lectures
 * [List Of Free Deep Learning Courses Online](https://www.marktechpost.com/2018/11/17/list-of-free-deep-learning-courses-online)
