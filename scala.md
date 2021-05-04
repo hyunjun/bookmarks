@@ -875,6 +875,7 @@ Scala
     * [2nd Zymposium - Adam Fraser, Kit Langton & Tushar Mathur - YouTube](https://www.youtube.com/watch?v=g6w1BuKlSQs)
     * [I Can Has? (And So Can You!) — Exploring ZIO's Has Type - YouTube](https://www.youtube.com/watch?v=1e0C0jUzup4)
     * [A ZIO cheatsheet | alvinalexander.com](https://alvinalexander.com/scala/zio-cheatsheet/)
+    * [The ZIO of the Future by John De Goes - YouTube](https://www.youtube.com/watch?v=u3pgyEiu9eU)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)

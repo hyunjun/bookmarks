@@ -3076,6 +3076,7 @@ Javascript
 * [react-blessed - A React custom renderer for the blessed library](https://github.com/Yomguithereal/react-blessed)
 * [React Color - A Collection of Color Pickers from Sketch, Photoshop, Chrome & more](http://casesandberg.github.io/react-color/)
 * [React.Component vs React.createClass](http://reactjsnews.com/composing-components/)
+* [React-Django로 프론트앤드 백앤드 만들기 - YouTube](https://www.youtube.com/playlist?list=PLPSEcXNQeO0bNX2fjb4_V84iQMewXhCDA)
 * [React Desktop - React UI Components for OS X El Capitan and Windows 10](https://github.com/gabrielbull/react-desktop)
 * [React Fast Refresh | Dev Log](https://reactiver.dev/react-fast-refresh/)
   * [React Fast Refresh 적용하기. 최근 react-hot-loader를 적용한 리액트 환경에서… | by Jusung Hwang | Mar, 2021 | Medium](https://nabigraphics.medium.com/react-fast-refresh-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-d68dab89da57)

@@ -139,6 +139,7 @@
 * [Rust의 반복문](https://blog.seulgi.kim/2020/06/loop-in-rust.html)
 * [Collections and Lifetimes in Rust! - The Startup - Medium](https://medium.com/swlh/collections-and-lifetimes-in-rust-d478934d17ea)
 * [rust 에서 print()의 format 관련 내용](https://open-support.tistory.com/entry/rust-%EC%97%90%EC%84%9C-print%EC%9D%98-format-%EA%B4%80%EB%A0%A8-%EB%82%B4%EC%9A%A9?)
+* [rust 에서 String 에서 요소 하나 하나를 index 인덱싱 하는 방법](https://open-support.tistory.com/entry/rust-%EC%97%90%EC%84%9C-String-%EC%97%90%EC%84%9C-%EC%9A%94%EC%86%8C-%ED%95%98%EB%82%98-%ED%95%98%EB%82%98%EB%A5%BC-index-%EC%9D%B8%EB%8D%B1%EC%8B%B1-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 
 # Async Await
 * [Asynchronous IO in Rust](https://medium.com/@paulcolomiets/asynchronous-io-in-rust-36b623e7b965)
