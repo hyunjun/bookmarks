@@ -569,6 +569,20 @@ R
 * ragg [Modern Text Features in R](https://www.tidyverse.org/blog/2021/02/modern-text-features/)
 * [rbokeh - Interactive plotting with rbokeh](http://www.r-bloggers.com/interactive-plotting-with-rbokeh/)
 * [RcppArmadillo 0.5.200.1.0](http://www.r-bloggers.com/rcpparmadillo-0-5-200-1-0/)
+* [RcppMeCab: RcppMeCab: Rcpp Interface of CJK Morpheme Analyzer MeCab](https://github.com/junhewk/RcppMeCab)
+  1. https://bitbucket.org/eunjeon/mecab-ko-dic/src/master/ 에서 mecab-ko-dic 다운로드
+  2. 압축을 풀면 여러 CSV파일이 있는데, 이중 NNG.csv를 타겟으로 해서 사전컴파일
+    * `mecab-dict-index -m C:/mecab/mecab-ko-dic/model.bin -d C:/mecab/mecab-ko-dic/userdic -u userdic2.dic -f utf8 -t utf8 C:/mecab/mecab-ko-dic/userdic/NNG.csv`
+  3. C:/mecab에 컴파일된 사전 userdic.dic 생성
+  4. RStudio에서 형태소분석 실행
+
+    ```
+    "한글 테스트 입니다." %>% 
+    pos(format = "data.frame", user_dic = "C:/mecab/user.dic") 
+    ```
+    * 실행결과 "model is NULL" 메시지, format을 "data.frame"으로 지정하지 않으면 Exception: list( )
+    * 사용자 사전을 지정하지 않으면 정상적으로 형태소분석 ``"한글/NNG"      "테스트/NNG"    "입니다/VCP+EF" "./SF"``
+    * 문제점: MeCab 사용자 사전으로 형태소분석이 불가능
 * [reactable-shiny-korea.pdf at master · YoungjunNa/presentations](https://github.com/YoungjunNa/presentations/blob/master/reactable-shiny-korea.pdf)
 * readr
   * [readr package 의 guess_encoding() 함수를 이용한 Text 파일의 인코딩 타입 추론](https://lovetoken.github.io/r/2017/10/07/guessEncoding.html)
