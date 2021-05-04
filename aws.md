@@ -654,6 +654,7 @@ AWS
 * [AWS ECS에서 force-new-deployment가 제대로 되지 않을 때 - Nephtyw’S Programming Stash](https://nephtyws.github.io/devops/ecs-force-new-deployment/)
 * [How to configure IAM roles for Fargate Tasks on AWS](https://towardsdatascience.com/how-to-configure-iam-roles-for-fargate-tasks-on-aws-76ad54f11314)
 * [Elastic Container Service - CPU, Memory 설정 최적화](https://jybaek.tistory.com/912)
+* [Elastic Container Service - Service Type](https://jybaek.tistory.com/915)
 * [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
 
 # EKS
