@@ -371,6 +371,7 @@ Programming
 * [2021.03.08 우리가 경험해온 메타버스, 앞으로 만나게 될 메타버스](https://www2.slideshare.net/KiheonShin/20210308-244069379) metaverse
 * [A System for Detecting Software Similarity](http://theory.stanford.edu/~aiken/moss/)
 * [How to Learn Complex Things Quickly: A Guide](https://product.hubspot.com/blog/how-to-learn-complex-things-quickly)
+* [23 Active Software Engineering Publications on Medium | by Anupam Chugh | Mar, 2021 | Better Programming](https://betterprogramming.pub/23-active-software-engineering-publications-on-medium-a17484223b9a) engineering blog
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -1155,6 +1156,7 @@ Programming
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 * [hacker shelf](http://hackershelf.com/)
 * [oreilly.com/programming/free](http://www.oreilly.com/programming/free/)
+* [The Pragmatic Programmers](https://medium.com/pragmatic-programmers)
 * [Professional Software Development 2020.02](https://mixmastamyk.bitbucket.io/pro_soft_dev/index.html)
 * [Site Reliability Engineering](https://landing.google.com/sre/book/chapters/foreword.html)
   * [구글, 사이트 신뢰성 워크북(SRE Workbook) 공개](https://www.44bits.io/ko/post/news--site-reliability-workbook-is-published)
