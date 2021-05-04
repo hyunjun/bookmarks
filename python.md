@@ -2488,6 +2488,11 @@ Python
 * [10 Useful Jupyter Notebook Extensions for a Data Scientist in 2021 | Towards Data Science](https://towardsdatascience.com/10-useful-jupyter-notebook-extensions-for-a-data-scientist-bd4cb472c25e)
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
   * [Sarah Gibson - Sharing Reproducible Python Environments with Binder - YouTube](https://www.youtube.com/watch?v=wTVMHallSSA)
+* [drawdata: Draw datasets from within Jupyter](https://github.com/koaning/drawdata)
+  * [calmcode - learn code calmly](https://calmcode.io/labs/drawdata.html)
+  * 선을 그리거나, 점을 찍으면 2차원 데이터 생성. 데이터는 csv나 json 포맷 데이터셋으로 다운 가능
+  * 장점: 사용이 쉽고 직관적. 교육용 데이터셋 생성에 유용
+  * 단점: 아직 label을 4개(a,b,c,d)까지 생성 가능
 * [Emacs IPython Notebook](http://tkf.github.io/emacs-ipython-notebook/)
 * [handcalcs: Python library for converting Python calculations into rendered latex](https://github.com/connorferster/handcalcs)
 * [Hydrogen - an interactive coding environment that supports Python, R, JavaScript and other Jupyter kernels](https://nteract.gitbooks.io/hydrogen/)
