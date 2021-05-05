@@ -1707,6 +1707,7 @@ Programming
 * [생체 정보를 활용한 안전한 로그인, passwordless LINE 프로젝트를 소개합니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/secure-line-login-biometric-key/)
 * [path traversal 공격 : 사용자의 입력을 믿으면 어떻게 될까요?](https://codingdog.tistory.com/entry/path-traversal-%EA%B3%B5%EA%B2%A9-%EC%82%AC%EC%9A%A9%EC%9E%90%EC%9D%98-%EC%9E%85%EB%A0%A5%EC%9D%84-%EB%AF%BF%EC%9C%BC%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%A0%EA%B9%8C%EC%9A%94)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
+* Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
 
