@@ -1962,8 +1962,10 @@ Python
 * [Using Markdown to Create Responsive HTML Emails](https://pbpython.com/markdown-email.html)
 * [파이썬을 이용하여 이메일(email) 전송 - 파일첨부, HTML 양식 사용](https://blog.naver.com/pjt3591oo/221836832117)
 * [elven.io - Email us to get any Python programming task completed](https://elven.io/)
+* [eml-attachment-extractor: Python script for extracting attachments from .eml files](https://github.com/jayadeepk/eml-attachment-extractor)
 * [Envelopes - Mailing for human beings](http://tomekwojcik.github.io/envelopes/) email
 * [exchangelib - Python client for Microsoft Exchange Web Services (EWS)](https://github.com/ecederstrand/exchangelib)
+* extract_attachments.py [A simple (and probably naive) script to extract attachments from .eml files for those of us who don't use software email clients](https://gist.github.com/cdunklau/9001357)
 * smtplib
   * [practice - basic example](https://gist.github.com/hyunjun/4c11d8d517b3d4fb470818e152ac157a#file-python_smtplib-md)
   * [Python, smtplib, 이메일 발송](http://blog.naver.com/dudwo567890/220891685689)
