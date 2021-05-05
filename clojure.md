@@ -55,6 +55,7 @@ Clojure
 * [Why we picked Clojure](https://medium.com/@metabase/why-we-picked-clojure-448bf759dc83)
 * [Why Clojure?](https://getctx.io/blog/why-clojure/)
 * [Why Clojure?](https://blog.cleancoder.com/uncle-bob/2019/08/22/WhyClojure.html)
+* [Clojure, I Choose You! | Aspect Analytics](https://www.aspect-analytics.com/media/blog/2021-04-26-clojure-i-choose-you/)
 * [Clojure from the ground up: roadmap](https://aphyr.com/posts/318-clojure-from-the-ground-up-roadmap)
 * [Just Enough Clojure for Riemann](http://kartar.net/2015/04/just-enough-clojure-for-riemann/)
 * [Clojure With Carin Meier](https://howistart.org/posts/clojure/1)
