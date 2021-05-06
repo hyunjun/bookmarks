@@ -38,6 +38,7 @@ Clojure
 * [The future of Clojure | ThoughtWorks](https://www.thoughtworks.com/podcasts/future-clojure)
 * [A hidden message in Cognicast podcasts](https://grishaev.me/en/cognicast/)
 * [Gene Kim - Cognicast Episode 159](https://www.cognitect.com/cognicast/159)
+* [:borkdude (The man, the myth, the legend) by Lost in Lambduhhs • A podcast on Anchor](https://anchor.fm/lostinlambduhhs/episodes/borkdude-The-man--the-myth--the-legend-e10anmp)
 * [Episode 04 - Clojure by Telia Norway](https://soundcloud.com/telianorway/episode-04-clojure-edition)
 * [Jacek Schae](https://www.jacekschae.com/)
 * [Clojure Memo](http://philoskim.github.io/doc/)
@@ -616,6 +617,7 @@ Clojure
     * [clojure/conj 2017](https://www.youtube.com/playlist?list=PLZdCLR02grLqCR8EKuil8NrffZuTl0kwL)
   * [Clojure/conj 2018](https://www.youtube.com/playlist?list=PLZdCLR02grLpMkEBXT22FTaJYxB92i3V3)
 * [clojureD 2019: "Workflow engines with Clojure – It's a match!" by Tim Zöller - YouTube](https://www.youtube.com/watch?v=M1HrLAud6MA)
+* [clojureD 2020: "Writing maintainable Clojure" by Erik Assum - YouTube](https://www.youtube.com/watch?v=Tq7r97G4b7Y)
 * [clojurenorth.com](http://clojurenorth.com/)
 * [Clojure/north 2020 - YouTube](https://www.youtube.com/playlist?list=PL_arKaS8JOXHHaK715NZjVpfzKebcJD5U)
   * [Building Marvelous and Heroic Systems from the Ground Up - Mark Bastian (Workshop) - YouTube](https://www.youtube.com/watch?v=eink6oICdOQ)
@@ -938,6 +940,7 @@ Clojure
 * [Ring](https://github.com/ring-clojure/ring) web
   * [Asynchronous Ring](https://skillsmatter.com/skillscasts/9057-asynchronous-ring)
   * [Async Ring 미들웨어 패턴](http://clojure.kr/async-ring-middleware-pattern)
+  * [The Artificery: A (poorly) animated introduction to Clojure's HTTP server library Ring](https://drewverlee.github.io/posts-output/2021-5-2-ring)
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
 * [scicloj.ml - Proposal for a Clojure machine learning library](https://github.com/scicloj/scicloj.ml)
@@ -1079,6 +1082,7 @@ Clojure
 * [번역 Transducers 이해하기](https://medium.com/@autumn.bom/%EB%B2%88%EC%97%AD-transducers-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-c69e07840cc)
 * [A mental model for thinking about Clojure's Transducers | Functional Works](https://functional.works-hub.com/learn/a-mental-model-for-thinking-about-clojures-transducers-6baba)
 * [Understanding Transducers - Elben Shira](https://elbenshira.com/blog/understanding-transducers/)
+* [Clojure Koans 26 Transducers Notebook – Nextjournal](https://nextjournal.com/avidrucker/clojure-koans-26-transducers-notebook)
 * [danzig - a easy-to-use transducer based data analysis tools for the clojure programming language](https://github.com/ribelo/danzig)
 
 # Tutorial
