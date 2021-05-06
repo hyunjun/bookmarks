@@ -2869,6 +2869,10 @@ Programming
 * [How we found and fixed a rare race condition in our session handling - The GitHub Blog](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
   * [GitHub이 세션 처리에서 흔치 않은 레이스 컨디션을 어떻게 찾고 수정했는가 | GeekNews](https://news.hada.io/topic?id=3927)
 * [How I cut GTA Online loading times by 70%](https://nee.lv/2021/02/28/How-I-cut-GTA-Online-loading-times-by-70/)
+* [WhaTip 시스템 장애 해결을 위해 기억할 것 (Feat. 모니터링, 또 모니터링) - YouTube](https://www.youtube.com/watch?v=2QzolGatzc8)
+* [WhaTip 시스템 장애 해결을 위한 조언 여섯가지! - YouTube](https://www.youtube.com/watch?v=iVHZTB3H6iU)
+* [WhaTip 시스템 장애 해결 유형 3가지! - YouTube](https://www.youtube.com/watch?v=kaOLDqPF3t0)
+* [WhaTip 모르면 후회하는 시스템 장애 문제 정의 - YouTube](https://www.youtube.com/watch?v=yc-x2jtg-60)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
