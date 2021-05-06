@@ -954,6 +954,14 @@ Docker
 * [11 Ways (Not) to Get Hacked | Kubernetes](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
 * [쿠버네티스 Admission Control #1 | 커피고래의 노트](https://coffeewhale.com/kubernetes/admission-control/2021/04/28/opa1/)
 * [Kubernetes local playground alternatives | by Gabriel Garrido | ITNEXT](https://itnext.io/kubernetes-local-playground-alternatives-e1a590632b9f)
+* [9월 와탭 쿠버네티스 웨비나 (full) - YouTube](https://www.youtube.com/watch?v=f7c54VkBed4)
+* [토크ON세미나 쿠버네티스 살펴보기 1강 - 컨테이너 오케스트레이션 | T아카데미 - YouTube](https://www.youtube.com/watch?v=WxzWXqTNdlw)
+* [토크ON세미나 쿠버네티스 살펴보기 2강 - 쿠버네티스 & 쿠버네티스 아키텍쳐 | T아카데미 - YouTube](https://www.youtube.com/watch?v=xZ3tcFvbUGc)
+* [토크ON세미나 쿠버네티스 살펴보기 3강 - 실습 환경구성 | T아카데미 - YouTube](https://www.youtube.com/watch?v=4GQRysL1Cc8)
+* [토크ON세미나 쿠버네티스 살펴보기 4강 - Docker(도커) 실습 | T아카데미 - YouTube](https://www.youtube.com/watch?v=4T6wKk_ZWCM)
+* [토크ON세미나 쿠버네티스 살펴보기 5강 - Docker-Compose(도커 컴포즈) 실습 | T아카데미 - YouTube](https://www.youtube.com/watch?v=mMfyyUbwtBE)
+* [토크ON세미나 쿠버네티스 살펴보기 6강 - Kubernetes(쿠버네티스) 실습 1 | T아카데미 - YouTube](https://www.youtube.com/watch?v=G0-VoHbunks)
+* [토크ON세미나 쿠버네티스 살펴보기 7강 - Kubernetes(쿠버네티스) 실습 2 | T아카데미 - YouTube](https://www.youtube.com/watch?v=v6TUgqfV3Fo)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
