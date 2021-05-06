@@ -655,6 +655,7 @@ Git
   * `git remote update` [Git remote branch 가져오기](https://cjh5414.github.io/get-git-remote-branch/)
   * [Checkout a branch from a fork](https://github.community/t5/How-to-use-Git-and-GitHub/Checkout-a-branch-from-a-fork/m-p/78)
   * [How to pull remote branch from somebody else's repo](https://stackoverflow.com/questions/5884784/how-to-pull-remote-branch-from-somebody-elses-repo)
+    * [practice - forked branch를 local로 가져오기](https://gist.github.com/hyunjun/d61a173e6b81c603ab02#file-remote_add_from_forked-md)
 * reset
   * [Unstage a deleted file in git](http://stackoverflow.com/questions/9591407/unstage-a-deleted-file-in-git)
   * `git reset --hard ORIG_HEAD`
