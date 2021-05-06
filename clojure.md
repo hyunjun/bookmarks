@@ -11,6 +11,7 @@ Clojure
   * [Fibonacci Sequence – 4Clojure #26](http://seonho.kim/2017/03/12/4clojure-fibonacci-sequence/)
   * [seonho.kim/tag/4clojure](http://seonho.kim/tag/4clojure/)
   * [What I learned solving all 156 4Clojure problems · Aaron Announces](https://aarondeobell.com/posts/clojure/4clojure-solved/)
+  * [4Clojure Walkthrough – Nextjournal](https://nextjournal.com/avidrucker/4clojure-walkthrough)
 * [Clojure - DEV Community](https://dev.to/t/clojure)
 * [Building a community for sustainability-oriented Clojure work - Community Center / Community Building - ClojureVerse](https://clojureverse.org/t/building-a-community-for-sustainability-oriented-clojure-work/7159)
 * [Practicalli: Clojure community - getting help](https://practicalli.github.io/blog/posts/cloure-community-getting-help/)
@@ -892,6 +893,7 @@ Clojure
   * [Function serialization between Clojure processes and dialects](https://github.com/dvlopt/fdat.cljc)
 * [Onyx - Distributed, masterless, high performance, fault tolerant data processing for Clojure](https://github.com/onyx-platform/onyx)
   * [Onyx 0.8.0: Automatic State Management](http://michaeldrogalis.github.io/jekyll/update/2015/11/12/Onyx-0.8.0-Automatic-State-Management.html)
+* [optaplanner-clj: Example of Optaplanner in Clojure](https://github.com/joinr/optaplanner-clj)
 * [overload-fn: Function overloading on type for Clojure](https://github.com/ertugrulcetin/overload-fn)
 * [oz: Data visualizations in Clojure and ClojureScript using Vega and Vega-lite](https://github.com/metasoarous/oz)
 * [Parens of the Dead - A screencast series of zombie-themed games written with Clojure and ClojureScript](http://www.parens-of-the-dead.com/)
@@ -1147,6 +1149,7 @@ Clojure
 * [Using Clojure Tools · Practicalli Clojure](https://practicalli.github.io/clojure/clojure-tools/using-clojure-tools.html)
 * [10 life-changing minutes with Clojure (Windows) - DEV Community](https://dev.to/adasomg/10-life-changing-minutes-with-clojure-windows-3ofl)
 * [clojure - Getting started with clojure | clojure Tutorial](https://riptutorial.com/clojure)
+* [Six years of professional Clojure development - falkoriemenschneider.de](http://www.falkoriemenschneider.de/a__2021-05-10__Six-years-of-professional-Clojure-development.html)
 
 # Vim
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
