@@ -704,6 +704,7 @@ Algorithm
 * [이진탐색트리(Binary Search Tree)](https://ratsgo.github.io/data%20structure&algorithm/2017/10/22/bst/)
 * [is Binary Search Tree](http://astrod.github.io/2018/01/08/8.html)
 * [BST Sequences in Python](https://hackernoon.com/bst-sequences-in-python-c072c0e9b19f)
+* [이진 탐색 트리(BST) 구현하기(Python3)](https://velog.io/@seanlion/bstimplementation)
 
 ## Heap
 * [Heap 자료구조와 Priority Queue](http://codingmonster.net/archives/13089)
