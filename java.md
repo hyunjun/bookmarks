@@ -731,6 +731,7 @@ Java
   * [07. Case Study(Memory Leak)](https://blog.naver.com/pcmola/222064258040)
   * [08. Case Study(메모리 설정값 변경)](https://blog.naver.com/pcmola/222064880474)
 * [JVM 메모리 해부학](https://www.slideshare.net/DONGHUNLEE61/jvm-238616046)
+* [JAVA 메모리 사용량 테스트, 이건 해보셨나요? - YouTube](https://www.youtube.com/watch?v=_PerqNUKKjY)
 * [A New Future for Java. JVM, Kotlin, and where Java is going… | by The Bored Dev | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/a-new-future-for-java-b10a6789f962)
 * [JVM 내부 동작 원리 & 자바 컴파일,실행 순서 - 런타임 영역, JIT 컴파일러, 인터프리터](https://tjdrnr05571.tistory.com/19)
 * [Off-Heap memory reconnaissance • Brice Dutheil](https://blog.arkey.fr/2020/11/30/off-heap-reconnaissance/)
@@ -1466,6 +1467,7 @@ Java
 * [❄️스프링 부트와 React.js #5 UI 및 API 보안 - YouTube](https://www.youtube.com/watch?v=1qfnglFZsNY)
 * [spring boot 로컬에서 smtp mail 테스트하기 :: 삶의여행](https://life-journey.tistory.com/43)
 * [Source Code Examples](https://www.sourcecodeexamples.net/p/free-spring-boot-projects.html)
+* [30. Spring - Spring Boot Configuration Properties 클래스 만들기](https://kim-jong-hyun.tistory.com/56)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
