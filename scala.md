@@ -931,6 +931,7 @@ Scala
       * [zio quick read: Extracting the executor for a service](https://appddeevvmeanderings.blogspot.com/2021/02/zio-quick-read-extracting-executor-for.html)
       * [ZIO WORLD - ZLayer by Kit Langton - YouTube](https://www.youtube.com/watch?v=B3bAcU2-TGI)
     * [Zparkio - Boiler plate framework to use Spark and ZIO together](https://github.com/leobenkel/Zparkio)
+    * ZScheduler [ZIO WORLD - ZScheduler by Adam Fraser - YouTube](https://www.youtube.com/watch?app=desktop&v=GaWcmRHS-qI&feature=youtu.be)
 * sort
   * [The complexity of Java comparators, and the simplicity of Scala sort by](https://levelup.gitconnected.com/the-complexity-of-java-comparators-and-the-simplicity-of-scala-sort-by-f34f44d4b759)
   * [Sorting in Scala — a cat shop example](https://medium.com/swlh/sorting-in-scala-a-cat-shop-example-1888b843056b)
