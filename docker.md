@@ -1014,6 +1014,7 @@ Docker
 * [Kogito ergo automate - CLOUD-NATIVE BUSINESS AUTOMATION FOR BUILDING INTELLIGENT APPLICATIONS, BACKED BY BATTLE-TESTED CAPABILITIES](https://kogito.kie.org)
 * [kubectl-trace: Schedule bpftrace programs on your kubernetes cluster using the kubectl](https://github.com/iovisor/kubectl-trace)
 * [kubectx: Faster way to switch between clusters and namespaces in kubectl](https://github.com/ahmetb/kubectx)
+* [kubectxon: Easy to check active-context in kubernetes thru the prompt](https://github.com/sysnet4admin/kubectxon)
 * [kubedoom: Kill Kubernetes pods by playing Id's DOOM!](https://github.com/storax/kubedoom)
 * Kubeflow
   * [Introducing Kubeflow - A Composable, Portable, Scalable ML Stack Built for Kubernetes](http://blog.kubernetes.io/2017/12/introducing-kubeflow-composable.html)
