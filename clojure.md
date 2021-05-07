@@ -40,6 +40,7 @@ Clojure
 * [Gene Kim - Cognicast Episode 159](https://www.cognitect.com/cognicast/159)
 * [:borkdude (The man, the myth, the legend) by Lost in Lambduhhs • A podcast on Anchor](https://anchor.fm/lostinlambduhhs/episodes/borkdude-The-man--the-myth--the-legend-e10anmp)
 * [Episode 04 - Clojure by Telia Norway](https://soundcloud.com/telianorway/episode-04-clojure-edition)
+* [#71 - The true and brave Daniel Higginbotham by defn](https://soundcloud.com/defn-771544745/71-the-true-and-brave-daniel-higginbotham)
 * [Jacek Schae](https://www.jacekschae.com/)
 * [Clojure Memo](http://philoskim.github.io/doc/)
 * [ClojureDocs is a community-powered documentation and examples repository for the Clojure programming language](https://clojuredocs.org/)
@@ -341,6 +342,7 @@ Clojure
 * [Organizing Clojure code - A real problem? - Community Center / Beginners - ClojureVerse](https://clojureverse.org/t/organizing-clojure-code-a-real-problem/7567/16)
 * [Counting HTTP 0 9 3 0 by Oleksii Kachaiev - YouTube](https://www.youtube.com/watch?v=o5FXMVeSgFI)
 * [왜 폴 그레이엄은 회사 이름을 Y Combinator라고 지었을까 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/y-combinator/)
+* [Live coding Mail File, day 4! Parse email, get money. - YouTube](https://www.youtube.com/watch?v=LmsHnASPzHE)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
