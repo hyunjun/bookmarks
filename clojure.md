@@ -998,6 +998,7 @@ Clojure
   * [Babashka: a native Clojure interpreter for scripting @ GraalVM Workshop 2021 - Speaker Deck](https://speakerdeck.com/borkdude/babashka-a-native-clojure-interpreter-for-scripting-at-graalvm-workshop-2021)
   * [Re-Writing an OpenConnect VPN Connect script in Babashka | Tech.ToryAnderson.com](https://tech.toryanderson.com/2021/03/06/re-writing-an-openconnect-vpn-connect-script-in-babashka/)
   * [babashka 0.3.1 new features: bb.edn + invoke any function from cmd line - YouTube](https://www.youtube.com/watch?v=_zr1dicJs-E)
+  * [Our bb.edn](https://gist.github.com/delyada/9f50fa7466358e55f27e4e6b4314242f)
   * [Babashka book](https://book.babashka.org/)
   * [Babashka: a native Clojure interpreter for scripting — The 2021 Graal Workshop at CGO - YouTube](https://www.youtube.com/watch?v=Yjeh57eE9rg)
   * [Rewrite if with rewrite-clj and babashka](https://gist.github.com/borkdude/77369ba1b2d0fbd2608a8d12f518ade3)
