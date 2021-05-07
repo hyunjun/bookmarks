@@ -740,6 +740,7 @@ Clojure
   * [Overview - Clojure LSP](https://clojure-lsp.github.io/clojure-lsp/)
   * [clojure-lsp: my new drug (1 week experience report) - YouTube](https://www.youtube.com/watch?v=WMnVv63ezFQ)
 * [ClojureRS: Clojure, implemented atop Rust (unofficial)](https://github.com/clojure-rs/ClojureRS)
+* [clojure-rte · GitLab](https://gitlab.lrde.epita.fr/jnewton/clojure-rte) rational type expressions (RTEs)
 * [clojure-turtle - A Clojure library that implements the Logo programming language in a Clojure context](https://github.com/google/clojure-turtle)
 * [clojure-web-minsetup](https://github.com/clonekim/clojure-web-minsetup)
 * [Clojush - The Push programming language and the PushGP genetic programming system implemented in Clojure. http://hampshire.edu/lspector/push.html](https://github.com/lspector/Clojush)
