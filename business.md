@@ -300,6 +300,7 @@ Business
 * [빅블러 시대, 이커머스로 입사해야하는 이유](https://brunch.co.kr/@windydog/436) 도메인별 사업 구조에 대한 이야기
 * [직장인 직원을 무능하게 만드는 방법 EBS.. : 네이버블로그](https://blog.naver.com/wcareer/222076597403)
 * [대표님, 왜 우리는 목적 없이 일해야 하나요 | ㅍㅍㅅㅅ](https://ppss.kr/archives/215281)
+* [코로나 이후 마리트의 1년을 돌아보며](https://brunch.co.kr/@leedonggun/22)
 
 # 채용
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
