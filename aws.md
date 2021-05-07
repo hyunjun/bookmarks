@@ -635,6 +635,7 @@ AWS
 * [🚚초간단 단독 EC2 서버 배포하는 법, #alias #nojenkins - YouTube](https://www.youtube.com/watch?v=iqd_aWzhtnc)
 * [ec2_auto_stop.py - Finds ec2 of all regions and stops instances where the tag AutoStopProtect is not set to True](https://gist.github.com/serithemage/bb6ac8939a0819406ee27c9f34a55481)
 * [AWS-UBUNTU 환경에서 Jupyter notebook 설치](https://seethefuture.tistory.com/37)
+* [버스트 가능한 T타입 인스턴스 소개](https://jybaek.tistory.com/916)
 
 # ECS Elastic Container Service
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
