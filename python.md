@@ -4181,6 +4181,7 @@ Python
 * [Python 3.9 Update New Features. Write less code, achieve more! | by Radian Krisno | Towards Data Science](https://towardsdatascience.com/python-3-9-update-new-features-e4a580fc5c2)
 * [파이썬 3.9의 새로운 기능과 더 나아진 기능 - ITWorld Korea](http://www.itworld.co.kr/news/168295)
 * [Python Will be Dead in 2021? A review of the final version of Python 3.9 | by Rizky Maulana N | Towards Data Science](https://towardsdatascience.com/python-will-be-dead-in-2021-bdbc28400996)
+* [Python 3.9에 등장한 상큼한 8가지 Features | MADTECH](https://tech.madup.com/Python3.9/)
 * [New Features in Python 3.10 | Towards Data Science](https://towardsdatascience.com/new-features-in-python-3-10-66ac05e62fc7)
 * [Features You Likely Don’t Use in Python 3 — But You Should | LaptrinhX](https://laptrinhx.com/features-you-likely-don-t-use-in-python-3-but-you-should-2455806769/)
 * [9 Python 3 Hacks Programmers Probably Don’t Utilize | Better Programming](https://medium.com/better-programming/9-python-3-features-you-might-not-use-yet-fade13932a3e)
