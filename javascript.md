@@ -3498,6 +3498,7 @@ Javascript
 * [typescript-boilerplate: A modern TypeScript project setup, for Node.js and browsers (using esbuild).](https://github.com/metachris/typescript-boilerplate)
   * [Starting a TypeScript Project in 2021 · Chris Hager](https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/)
   * [최신 도구로 새 TypeScript 프로젝트 시작하기 2021 | GeekNews](https://news.hada.io/topic?id=4158)
+* [xstate: State machines and statecharts for the modern web](https://github.com/davidkpiano/xstate)
 
 # Vue.js
 * [vuejs.org - a library for building modern web interfaces](http://vuejs.org/)
