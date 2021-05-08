@@ -762,6 +762,7 @@ SQL
 * [10 Things I Hate About PostgreSQL | by Rick Branson | Medium](https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791)
 * [PostgreSQL Security Hardening | Teleport](https://goteleport.com/blog/securing-postgres-postgresql/)
 * [Speeding up recovery and VACUUM in Postgres 14 - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/speeding-up-recovery-and-vacuum-in-postgres-14/ba-p/2234071)
+* [PostgreSQL RDS Slow 쿼리 Slack으로 알람 보내기](https://jojoldu.tistory.com/570)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
