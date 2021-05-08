@@ -15,6 +15,7 @@ App
 * [1인 창작자를 위한 보물같은 서비스들 ②](http://ppss.kr/archives/57049)
 * [해외 메일서비스 안내](http://www.jonathanks.com/blog/2009-07-23/offshore-email-services)
 * [윈도우·리눅스·맥OS 모두 지원, 게다가 무료!··· 추천 오픈소스 SW 6종](http://www.ciokorea.com/news/28691)
+* [가난한 개발자나 스타트업을 위한 무료 서비스들!](https://open-support.tistory.com/entry/%EA%B0%80%EB%82%9C%ED%95%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%82%98-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%AC%B4%EB%A3%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%93%A4)
 * [Allow Anyone to Upload Files Directly to Your Drive](https://www.youtube.com/watch?v=Fr9KAJQoWsk) 로그인 없이 구글 드라이브에 파일 저장
 * 데스크탑 자동화
   * autoit
@@ -1479,6 +1480,7 @@ App
 * [igloo - A small, but powerful terminal app for Windows](https://easyigloo.org/)
 * [kitty - the fast, featureful, GPU based terminal emulator — kitty 0.18.3 documentation](https://sw.kovidgoyal.net/kitty/)
 * [midipix - posix for windows](http://midipix.org/)
+* msys2 [윈도우 msys2는 완벽한 POSIX 호환 레이어인가?](https://jhrogue.blogspot.com/2021/05/b-msys2-posix.html)
 * [notepad_logger - crates.io: Rust Package Registry](https://crates.io/crates/notepad_logger)
 * [Pajek: analysis and visualization of large networks](http://mrvar2.fdv.uni-lj.si/pajek/)
 * [PBOX - Windows Package Manager](http://pbox.me/)
