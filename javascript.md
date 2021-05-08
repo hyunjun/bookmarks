@@ -3024,6 +3024,7 @@ Javascript
   * [Gatsby 웹사이트에 적용한 다크 모드 | blog.rhostem.com](https://blog.rhostem.com/posts/2020-06-25-dark-mode-for-gatsby-website)
   * [개츠비의 이미지 처리 방식 | 김정환 블로그](https://jeonghwan-kim.github.io/dev/2020/08/19/gatsby-image.html)
   * [Gatsby V3 Tutorial and Recipes Site Project - YouTube](https://www.youtube.com/watch?v=JlxXHlygVLM)
+  * [누구나 블로그 개발 할 수 있다! React 기반 Gatsby로 기술 블로그 개발하기 - 구름EDU](https://edu.goorm.io/lecture/25881/%EB%88%84%EA%B5%AC%EB%82%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B0%9C%EB%B0%9C-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8B%A4-react-%EA%B8%B0%EB%B0%98-gatsby%EB%A1%9C-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [handoff-visualizer - Wireless Network Handoff Visualizer built with React!](https://github.com/chonyy/handoff-visualizer)
