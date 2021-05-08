@@ -27,3 +27,9 @@
 * [제프 베조스의 마지막 연례 주주서한 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240022)
   * 마지막 섹션에서 리처드 도킨스가 지은 『The Blind Watchmaker』의 한 부분을 첨부
   * 사람의 체온은 죽고 나서 주위의 온도와 같아진다. 결국 ‘달라져야 살아남는다’
+* 실수
+  * 대가들도 실수를 함
+  * 도널드 크누스 교수도 한 때 goto문을 옹호(?)
+    * [What was Donald Knuth wrong about? | Hacker News](https://news.ycombinator.com/item?id=17164505)
+    * [다익스트라, 왜 goto에 시비(?)를 거는가? - ZDNet korea](https://zdnet.co.kr/view/?no=00000010060491&from=pc)
+  * 마틴 오더스키. scala에 xml을 언어 자체의 기능으로 포함. xml을 data format의 미래라고 오판
