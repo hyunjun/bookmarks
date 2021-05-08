@@ -1471,6 +1471,7 @@ Python
   * [**구조적 동시성에 대한 소고, 또는 Go 문의 해로움**](https://muchtrans.com/translations/notes-on-structured-concurrency-or-go-statement-considered-harmful.ko.html?hide-original=true)
     * 정말 좋은 글. 특히 놀라운 건 Donald Knuth같은 사람도 한 때 goto를 옹호했다는 점
   * [Nathaniel J Smith - Python Concurrency for Mere Mortals - Pyninsula #10](https://www.youtube.com/watch?v=i-R704I8ySE)
+  * [Trio: Structured Concurrency for Python (Alternative to Asyncio) - YouTube](https://www.youtube.com/watch?v=DwSwYLn5ye4)
 * [vibora - Fast, asynchronous and elegant Python web framework. https://vibora.io ](https://github.com/vibora-io/vibora)
 
 # Automation
