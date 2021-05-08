@@ -636,6 +636,7 @@ AWS
 * [ec2_auto_stop.py - Finds ec2 of all regions and stops instances where the tag AutoStopProtect is not set to True](https://gist.github.com/serithemage/bb6ac8939a0819406ee27c9f34a55481)
 * [AWS-UBUNTU 환경에서 Jupyter notebook 설치](https://seethefuture.tistory.com/37)
 * [버스트 가능한 T타입 인스턴스 소개](https://jybaek.tistory.com/916)
+* [Spot Instance pricing history](https://jybaek.tistory.com/917)
 
 # ECS Elastic Container Service
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
