@@ -220,6 +220,7 @@ Java
   * [PoolCleaner 를 활용한 Connection Pool 최적화](http://blog.hwahae.co.kr/all/tech/tech-tech/5078/)
   * [Driver does not support get/set network timeout for connections](https://medium.com/@shdotseo/driver-does-not-support-get-set-network-timeout-for-connections-82a8fd943fce)
   * [sql injection과 jdbc PreparedStatement](https://codingdog.tistory.com/entry/sql-injection%EA%B3%BC-jdbc-PreparedStatement)
+  * [How to Achieve Greatness in JDBC Performance | CodersTea](https://www.coderstea.com/post/java/how-to-achieve-greatness-in-jdbc-performance/)
   * [HikariCP - 光 HikariCP・A solid, high-performance, JDBC connection pool at last](https://github.com/brettwooldridge/HikariCP)
     * [**HikariCP 세팅시 옵션 설명**](https://effectivesquid.tistory.com/entry/HikariCP-세팅시-옵션-설명)
     * [HikariCP는 test-while-idle과 같은 커넥션 갱신 기능이 없을까?](https://pkgonan.github.io/2018/04/HikariCP-test-while-idle)
