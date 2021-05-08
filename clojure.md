@@ -41,6 +41,7 @@ Clojure
 * [:borkdude (The man, the myth, the legend) by Lost in Lambduhhs • A podcast on Anchor](https://anchor.fm/lostinlambduhhs/episodes/borkdude-The-man--the-myth--the-legend-e10anmp)
 * [Episode 04 - Clojure by Telia Norway](https://soundcloud.com/telianorway/episode-04-clojure-edition)
 * [#71 - The true and brave Daniel Higginbotham by defn](https://soundcloud.com/defn-771544745/71-the-true-and-brave-daniel-higginbotham)
+* [Could we build Newtonian mechanics on purpose? - LispCast](https://lispcast.com/could-we-build-newtonian-mechanics-on-purpose/)
 * [Jacek Schae](https://www.jacekschae.com/)
 * [Clojure Memo](http://philoskim.github.io/doc/)
 * [ClojureDocs is a community-powered documentation and examples repository for the Clojure programming language](https://clojuredocs.org/)
@@ -323,6 +324,7 @@ Clojure
 * [Why Clojure (Lisp) is good for writing transpilers – Sequenced Thoughts from C/S](https://elangocheran.com/2020/03/18/why-clojure-lisp-is-good-for-writing-transpilers/)
 * [User-Agent parser for Clojure](https://grishaev.me/en/user-agent/)
 * [Remus: a new RSS/Atom feed parser for Clojure](https://grishaev.me/en/remus/)
+* [Kern parser combinator with bb](https://gist.github.com/borkdude/bbc78b34e77ef91510ace75862d23aeb)
 * [Environ variables are not for configuring software](https://grishaev.me/en/env/)
 * [First Clojure stream in English](https://grishaev.me/en/clj-stream/)
 * [Thoughts on UI tests](https://grishaev.me/en/ui-test/)
@@ -343,6 +345,7 @@ Clojure
 * [Counting HTTP 0 9 3 0 by Oleksii Kachaiev - YouTube](https://www.youtube.com/watch?v=o5FXMVeSgFI)
 * [왜 폴 그레이엄은 회사 이름을 Y Combinator라고 지었을까 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/y-combinator/)
 * [Live coding Mail File, day 4! Parse email, get money. - YouTube](https://www.youtube.com/watch?v=LmsHnASPzHE)
+* [Funktionale Programmierung - DSLs ganz einfach mit Clojure](https://funktionale-programmierung.de/2021/05/03/clojure-dsl.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -721,6 +724,7 @@ Clojure
 * [clj-maxima: Maxima as a clojure library](https://github.com/lsevero/clj-maxima)
 * [clj-refactor.el - Available refactorings](https://github.com/clojure-emacs/clj-refactor.el/wiki)
   * [A collection of Clojure refactoring functions for Emacs](https://github.com/clojure-emacs/clj-refactor.el)
+* [clj-statecharts](https://lucywang000.github.io/clj-statecharts/) State Machine and StateCharts for Clojure(Script). Inspired by [XState](https://github.com/davidkpiano/xstate)
 * [clj-template-reverse](https://github.com/sng2c/clj-template-reverse/blob/master/test/template_reverse/core_test.clj)
 * [clj-tiles: Scratch-like visual programming for Clojurescript](https://github.com/kloimhardt/clj-tiles)
 * [clods: A microservice and toolchain for providing UK organisational data services (ODS)](https://github.com/wardle/clods)
