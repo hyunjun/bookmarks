@@ -644,6 +644,7 @@ Machine Learning
 * [머신러닝 프로젝트를 '레벨 업'시킬 수 있는 8가지 방법 - CIO Korea](https://www.ciokorea.com/news/188798)
 * [**LINE 메신저 앱에 온 디바이스 머신 러닝 적용하기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/on-device-machine-learning-line-app/)
 * [Sai Ma - MIY: Model It Yourself - with ML Legobricks - YouTube](https://www.youtube.com/watch?v=dhYVu9L30ns)
+* [Pydata Berlin April 2021: How to detect silent failures in ML models - YouTube](https://www.youtube.com/watch?v=TE37ROjLdEE)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
