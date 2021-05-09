@@ -1634,6 +1634,7 @@ Javascript
 * [Three.js - JavaScript 3D library](http://threejs.org/)
   * [Interactive 3D Graphics by Autodesk](https://www.udacity.com/course/interactive-3d-graphics--cs291)
   * [The Basics of THREE.js](https://www.youtube.com/playlist?list=PLOGomoq5sDLutXOHLlESKG2j9CCnCwVqg)
+  * [Build a 3D World in React with ThreeJS and React Three Fiber - YouTube](https://www.youtube.com/watch?v=9ZEjSxDRIik)
 * [timetabl/timetabl](https://github.com/timetabl/timetabl) Source code of www.timetabl.com
 * [Toast ui editor - GFM Markdown Wysiwyg Editor - Productive and Extensible](https://github.com/nhnent/tui.editor)
   * [FE Guide Get packed with compass and map for Front-End Javascript development voyage with FE Guide](https://ui.toast.com/fe-guide/ko/)
