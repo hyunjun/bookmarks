@@ -3209,10 +3209,6 @@ Python
 * tox
   * [Unit Testing in Python — tox and nox | by Martin Thoma | Python In Plain English | Medium](https://medium.com/python-in-plain-english/unit-testing-in-python-tox-and-nox-833e4bbce729)
   * [Guix-tox, a functional version of tox](http://blogs.rdoproject.org/7843/guix-tox-a-functional-version-of-tox)
-* [tqdm](https://pypi.python.org/pypi/tqdm) A Fast, Extensible Progress Meter (progress bar)
-  * [파이썬 상태바 라이브러리, tqdm 알아보기](https://tariat.tistory.com/421)
-  * [A Demo of tqdm](https://www.youtube.com/watch?v=TGxP5N7nG0I)
-  * [Show progress in your Python apps with tqdm | Opensource.com](https://opensource.com/article/20/12/tqdm-python)
 * [Tesseract-OCR](https://github.com/tesseract-ocr/)
   * [문자인식 오픈소스 Tesseract-OCR, python wrapper tesserocr 설치](https://blog.naver.com/pgh7092/221099597471)
   * [파이썬 Python 코딩 #14 - tesseract OCR 이미지에서 텍스트 추출 - YouTube](https://www.youtube.com/watch?v=rNxMwtottmM)
@@ -3633,6 +3629,16 @@ Python
 * [horrifying-pdf-experiments: Stuff which works in Chrome and maybe Acrobat and Foxit](https://github.com/osnr/horrifying-pdf-experiments)
 * [invoice2data - Data extractor for PDF invoices](https://github.com/manuelRiel/invoice2data)
 * [ptext-release: pText is a library for reading, creating and manipulating PDF files in python](https://github.com/jorisschellekens/ptext-release/)
+
+## Library progress bar
+* [Python Progress Bars in 9 minutes - YouTube](https://www.youtube.com/watch?v=AntTxtOWyAI) tqdm, alive-bar
+* [alive-progress: A new kind of Progress Bar, with real time throughput, eta and very cool animations!](https://github.com/rsalmei/alive-progress)
+* [progress: Easy to use progress bars for Python](https://github.com/verigak/progress/)
+* [python-progressbar: Progressbar 2 - A progress bar for Python 2 and Python 3 - "pip install progressbar2"](https://github.com/WoLpH/python-progressbar)
+* [tqdm](https://pypi.python.org/pypi/tqdm) A Fast, Extensible Progress Meter (progress bar)
+  * [파이썬 상태바 라이브러리, tqdm 알아보기](https://tariat.tistory.com/421)
+  * [A Demo of tqdm](https://www.youtube.com/watch?v=TGxP5N7nG0I)
+  * [Show progress in your Python apps with tqdm | Opensource.com](https://opensource.com/article/20/12/tqdm-python)
 
 ## Library string match
 * [Jellyfish - a python library for doing approximate and phonetic matching of strings](https://pypi.org/project/jellyfish/)
