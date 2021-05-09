@@ -31,6 +31,7 @@ Programming
   * [**Project Based Learning - Curated list of project-based tutorials**](https://github.com/tuvtran/project-based-learning)
   * [**Real World example apps - see how the exact same Medium.com clone (called Conduit) is built using any of our supported frontends and backends**](https://github.com/gothinkster/realworld/blob/master/README.md)
   * [Learn X by doing Y - A project-based learning search engine](https://aquadzn.github.io/learn-x-by-doing-y/)
+  * [Home - Projects Based Learning](https://projectsbasedlearning.com/)
 * [15 favorite programming tutorials and insights | Opensource.com](https://opensource.com/article/21/1/best-programming)
 * [**작은 교육**](http://slownews.kr/44304)
 * [재미로 시작한 개발 공부 열 달, 그리고 삽질기](https://www.slideshare.net/wheejuni/ss-84047369)
@@ -372,6 +373,7 @@ Programming
 * [A System for Detecting Software Similarity](http://theory.stanford.edu/~aiken/moss/)
 * [How to Learn Complex Things Quickly: A Guide](https://product.hubspot.com/blog/how-to-learn-complex-things-quickly)
 * [23 Active Software Engineering Publications on Medium | by Anupam Chugh | Mar, 2021 | Better Programming](https://betterprogramming.pub/23-active-software-engineering-publications-on-medium-a17484223b9a) engineering blog
+* [5 Best Practices for Over-the-Air (OTA) Updates - IoT Central](https://www.iotcentral.io/blog/5-best-practices-for-over-the-air-ota-updates)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -1636,6 +1638,8 @@ Programming
 * [“영국은 에듀테크 허브…1천곳 기업 활동 중”](http://www.bloter.net/archives/241601)
 * [데이터 실무자들이 추천하는 데이터 사이언스 온라인 무료 강의 13개](http://commeci.kr/?p=479)
 * [부트캠퍼를 위한 컴퓨터 과학](https://csbooks.wisedog.net/)
+* [누구나 이해하는 컴퓨터 하드웨어 개요 - YouTube](https://www.youtube.com/watch?v=k4g49yTY1RQ&list=PLIGFku39tFfbMweTcTx5GWF67em5kITnM)
+* [컴퓨터 개념 및 실습_서울대학교 공과대학 민상렬 교수님 - YouTube](https://www.youtube.com/playlist?list=PLpDJrhQ7qbNHjCGC42CrtGq1FXMskBi3K)
 * [Here are 380 Ivy League courses you can take online right now for free](https://medium.freecodecamp.org/here-are-380-ivy-league-courses-you-can-take-online-right-now-for-free-9b3ffcbd7b8c)
 * [560+ Free Online Programming & Computer Science Courses You Can Start in February](https://medium.freecodecamp.org/free-online-programming-computer-science-courses-you-can-start-in-february-e621d959e64)
 * [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
