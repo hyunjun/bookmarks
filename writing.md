@@ -125,6 +125,7 @@ Writing
   * [개발자가 싫어하는 문서화하기 2편 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222067713267)
 * [API Improvement Proposals](https://aip.dev)
 * [Doxygen: Main Page](https://www.doxygen.nl)
+* [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
 * slate [Doing Stupid Stuff with GitHub Actions | DevOps Directive](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
 * [standardese: A (work-in-progress) nextgen Doxygen for C++](https://github.com/standardese/standardese)
 
