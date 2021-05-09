@@ -1,6 +1,7 @@
 .net
 ====
 * [dotnetdev.kr community](https://spectrum.chat/dotnetdev-kr)
+* [닷넷데브 - C#과 닷넷을 좋아하는 개발자들을 위한 사랑방입니다](https://forum.dotnetdev.kr/)
 * [닷넷데브 - YouTube](https://www.youtube.com/channel/UCxCPX4tUbFyMseJVjVwcb9g)
 * [OmniSharp - Cross platform .NET development](http://www.omnisharp.net/)
 * [Visual C++ Cross-Platform Mobile](https://www.visualstudio.com/en-us/explore/cplusplus-mdd-vs)
