@@ -946,6 +946,7 @@ Programming
 * [Why Microservices Work For Us](https://segment.com/blog/why-microservices/)
 * [Goodbye Microservices: From 100s of problem children to 1 superstar](https://segment.com/blog/goodbye-microservices/)
   * [번역 잘가요 마이크로서비스: 100개의 문제점 투성이를 1개의 슈퍼스타로](https://tech.ssut.me/2018/07/31/goodbye-microservice/)
+* [The Problem With Microservices - YouTube](https://www.youtube.com/watch?v=zzMLg3Ys5vI)
 * [마이크로서비스 아키텍처 구축하기](https://blog.powerumc.kr/501)
 * [스타트업 관점에서 본 마이크로서비스](https://engineering.huiseoul.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%EB%B3%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-862405dd88d2)
 * [Powering Microservices with Docker, Kubernetes, Kafka and MongoDB](https://www.youtube.com/watch?v=F_BuRIAnvqE)
