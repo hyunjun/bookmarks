@@ -1041,6 +1041,7 @@ Linux
 * [Es: a shell with higher-order functions](http://wryun.github.io/es-shell/)
 * [fish shell - Finally, a command line shell for the 90s](http://fishshell.com/?version=2.2)
   * [Switching from zsh to fish](http://jbrodriguez.io/switching-from-zsh-to-fish/)
+  * [My Fish shell workflow for coding - YouTube](https://www.youtube.com/watch?v=KKxhf50FIPI)
   * [fundle - A minimalist package manager for fish inspired by Vundle](https://github.com/tuvistavie/fundle)
 * [journal - A unix/linux command line utility that creates a new journal text file with today's date on your computer](https://github.com/davidkneely/journal)
   * `journalctl -u <service name> > <file name>` [How to see full log from systemctl status service?](https://unix.stackexchange.com/questions/225401/how-to-see-full-log-from-systemctl-status-service/225407) system service를 시작할 수 없는 경우
