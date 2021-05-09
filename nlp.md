@@ -690,6 +690,16 @@ NLP
 * [kochat: Opensource Korean chatbot framework based on deep learning](https://github.com/gusdnd852/kochat)
 * [openchat: Opensource chatting framework for generative models](https://github.com/hyunwoongko/openchat)
   * [AI 모델 탐험기 #2 챗봇이 뭐지? NLP 기술을 활용한 Open chat | by AI Network | AI Network_KR | Apr, 2021 | Medium](https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%ED%83%90%ED%97%98%EA%B8%B0-2-nlp-%EA%B8%B0%EC%88%A0%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-open-chat-b9612ca4d335)
+* [Parrot: A practical and feature-rich paraphrasing framework to augment human intents in text form to build robust NLU models for conversational engines](https://github.com/PrithivirajDamodaran/Parrot)
+  * To build a chatbot you need data for your intent classification. But what if you have too little? Paraphrasing is one option for augmentation. But what is a good paraphrase?
+  * Almost all conditioned text generation models are validated on 2 factors:
+    1. If the generated text conveys the same meaning as the original context (Adequacy)
+    2. If the text is fluent / grammatically correct english (Fluency)
+  * For instance Neural Machine Translation outputs are tested for Adequacy and Fluency
+  * But a good paraphrase should be adequate and fluent while being as different as possible on the surface lexical form. With respect to this definition, the 3 key metrics that measures the quality of paraphrases are:
+    1. Adequacy: Is the meaning preserved adequately?
+    2. Fluency: Is the paraphrase fluent English?
+    3. Diversity: Lexical / Phrasal / Syntactical → how much has the paraphrase changed the original sentence?
 * [RASA - Create assistants that go beyond basic FAQs](https://rasa.com)
   * [Building a chatbot with Rasa](https://itnext.io/building-a-chatbot-with-rasa-9c3f3c6ad64d)
   * [Building a Conversational Chatbot for Slack using Rasa and Python -Part 1](https://towardsdatascience.com/building-a-conversational-chatbot-for-slack-using-rasa-and-python-part-1-bca5cc75d32f)
