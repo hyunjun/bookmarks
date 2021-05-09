@@ -157,6 +157,7 @@ Android
 * [Android Dialog 구현하는 방법 #Kotlin 버전 다이얼로그](https://developer88.tistory.com/251)
 * [ViewBinding의 작은 변화](http://pluu.github.io/blog/android/2020/01/19/viewbinding/)
 * [ViewBinding 구현방법 정리](https://developer88.tistory.com/355)
+* [Pluu Dev - ViewBinding / DataBinding에서의 불안한 ID 정의(root ... not recommend)](http://pluu.github.io/blog/android/2021/05/09/not-recommend-view-id/)
 * [간편하고 안전하게 레이아웃 내 뷰를 참조하는 방법: 안드로이드 뷰 바인딩](https://www.androidhuman.com/2020-11-25-android_view_binding)
 * [Android 상태 저장의 기본에서 Savedstate까지](http://pluu.github.io/blog/android/2020/02/10/saved-state/)
 * [SavedState is Default](http://pluu.github.io/blog/android/2020/02/15/diff-androidx-lifecycle/)
