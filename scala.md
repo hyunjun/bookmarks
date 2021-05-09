@@ -1034,6 +1034,7 @@ Scala
 * [reddit.com/r/ScalaConferenceVideos/new/](https://www.reddit.com/r/ScalaConferenceVideos/new/)
 * [Functional Scala London 2019: Day 1](https://juliano-alves.com/2019/12/17/functional-scala-london-2019-day-1/)
 * [Lambda World 2019](https://www.dev-log.me/Lambda_World_2019/)
+* [Scalabase](http://www.scalabaseconf.com/) 초보자 적합
 * [Scala Central at Expedia Group](https://medium.com/hotels-com-technology/scala-central-at-expedia-group-3a8002c6bb60)
 * [ScalaCon. A series of virtual conferences brought to you by Scala eXchange and Scala Days](http://www.scalacon.org/)
 * [scalar-conf.com](http://scalar-conf.com/)
