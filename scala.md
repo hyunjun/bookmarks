@@ -1789,6 +1789,10 @@ Scala
 * [Implementing Type classes in Scala 3 | by ayush mittal | Dec, 2020 | Medium](https://ayushm4489.medium.com/implementing-type-classes-in-scala-3-13c5ab38b91d)
 * [Automatic UI generation with Scala 3's type class derivation | kavedaa programming blog](https://kavedaa.github.io/auto-ui-generation/auto-ui-generation.html)
 * [Typeclasses in Scala 3 | 47 Degrees](https://www.47deg.com/blog/scala-3-typeclasses/)
+* [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=v9Qgb0c8Rx8)
+  * case class/object pattern matching, extention method
+  * `def doubleInt(n: 2 | 3 | 10): Int = n * 2` function parameter에 type대신 value도 가능, 즉 특정 값을 type 대신 사용 가능 e.g. `val n10: 10 = 10`
+  * [Union Types | Scala 3 — Book | Scala Documentation](https://docs.scala-lang.org/scala3/book/types-union.html)
 * [Scala 3: Dependent Types, Part I. Scala 3 expands on the type-level… | by Dean Wampler | Scala 3 | Jan, 2021 | Medium](https://medium.com/scala-3/scala-3-dependent-types-part-i-273e9076e8f8)
 * [Scala 3: Dependent Types, Part II | by Dean Wampler | Scala 3 | Jan, 2021 | Medium](https://medium.com/scala-3/scala-3-dependent-types-part-ii-e7fc04dbfb08)
 * [Scala 3 Metaprogramming by Example by Adam Warski - YouTube](https://www.youtube.com/watch?v=leIB5tvDY64)
