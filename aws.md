@@ -422,6 +422,7 @@ AWS
 * [한달 10만원으로 추천시스템 구축하기 AWS Personalize 도입 후기 / python SDK](https://dq-dreamsearch.com/121)
 * [Observability Workshop](https://observability.workshop.aws/ko/)
 * [LotteOn: BI Platform Using MicroStrategy, Amazon Redshift, and AWS Glue on AWS (Korean) - YouTube](https://www.youtube.com/watch?v=qv9q0sFt6aY)
+* [Data discovery & metadata management (amundsen installation)](https://www.slideshare.net/changunjung/data-discovery-metadata-management-amundsen-installation)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
