@@ -645,6 +645,7 @@ Machine Learning
 * [**LINE 메신저 앱에 온 디바이스 머신 러닝 적용하기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/on-device-machine-learning-line-app/)
 * [Sai Ma - MIY: Model It Yourself - with ML Legobricks - YouTube](https://www.youtube.com/watch?v=dhYVu9L30ns)
 * [Pydata Berlin April 2021: How to detect silent failures in ML models - YouTube](https://www.youtube.com/watch?v=TE37ROjLdEE)
+* [원티드는 어떻게 AI로 채용 결과를 예측하고 매칭할까? | by 황리건 Reagan Hwang | 원티드 제품 팀블로그 | May, 2021 | Medium](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-ai%EB%A1%9C-%EC%B1%84%EC%9A%A9-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EC%98%88%EC%B8%A1%ED%95%98%EA%B3%A0-%EB%A7%A4%EC%B9%AD%ED%95%A0%EA%B9%8C-7bdcd8840b6b)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
