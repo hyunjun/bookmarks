@@ -45,6 +45,7 @@ Programming Books
   * 2018.10 탐라
 * (NOT YET) 우린 이렇게 왔다 미국의 테크 기업으로 이직한 토종 한국인 25인의 취업 이야기
   * 2018.10 탐라
+* (NOT YET) [누가 IT시장 취업에 성공하는가: 신입 경력 지원자와 면접관을 위한 지침서](https://roadbook.co.kr/252)
 * (NOT YET) [데브옵스 (DevOps Troubleshooting)](http://jybaek.tistory.com/759)
 * (NOT YET) [데브옵스 핸드북](http://acornpub.co.kr/book/devops-handbook)
   * [데브옵스 핸드북 실천법 핵심 요약](http://javacan.tistory.com/entry/devops-handbook-core-practice-summary)
