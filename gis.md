@@ -20,6 +20,7 @@ GIS
 * [Alexander Müller - Spatial Range Queries Using Python In-Memory Indices](https://www.youtube.com/watch?v=_95bSEqMzUA)
 * [A new way to make maps with OpenStreetMap | Protomaps](https://protomaps.com/blog/new-way-to-make-maps/)
 * [카카오맵이 빠르게 길을 찾아주는 방법: CCH를 이용한 개편기 – tech.kakao.com](https://tech.kakao.com/2021/05/10/kakaomap-cch/)
+* [구글맵 api를 이용해 서울 맛집 리스트 지도 시각화 및 인구수의 상관관계](https://speedanddirection.tistory.com/87)
 
 # Go
 * [find3: High-precision indoor positioning framework, version 3](https://github.com/schollz/find3)
