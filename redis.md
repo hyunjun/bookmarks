@@ -106,6 +106,7 @@ Redis
 * [**선물하기 시스템의 상품 재고는 어떻게 관리되어질까? - 우아한형제들 기술 블로그**](https://woowabros.github.io/experience/2021/01/19/product-stock.html) redis + RDB 배민 재고 관리
 * [레디스(Redis)는 언제 어떻게 사용하는 게 좋을까](https://brunch.co.kr/@skykamja24/575)
 * [입 개발 Redis가 maxmemory 보다 더 썼다가 OOM 에러를 던져요!!! | Charsyam's Blog](https://charsyam.wordpress.com/2021/04/14/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis%EA%B0%80-maxmemory-%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EC%8D%BC%EB%8B%A4%EA%B0%80-oom-%EC%97%90%EB%9F%AC%EB%A5%BC-%EB%8D%98%EC%A0%B8%EC%9A%94/)
+* [Improve Cache Speed at Scale - RedisConf 2020 - YouTube](https://www.youtube.com/watch?v=mPg20ykAFU4) Cache Stampede, TTL, PER, 디바운싱, Hot Keys, 읽기분산, 레플리카, 압축
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
