@@ -455,6 +455,7 @@ NLP
 * [Using BERT to Battle Job Scams. The BERT model has many practical… | by Sadrach Pierre, Ph.D. | Towards Data Science](https://towardsdatascience.com/using-bert-to-battle-job-scams-d98e6a0ca1e1)
 * [Pydata Berlin Meetup October 2020: Long Story Short: - YouTube](https://www.youtube.com/watch?v=LfdbCfKGKco)
 * [파이썬 문장 유사도 알고리즘 쉽게 확인하는 방법은?!](https://www.infoking.site/52)
+* [deep learning NLP easy to understand BERT - YouTube](https://www.youtube.com/watch?v=w80YhQ4nMxI)
 * [ALBERT Review](https://baekyeongmin.github.io/paper-review/albert-review/)
   * [ALBERT:언어 표현의 자율지도 학습](https://brunch.co.kr/@synabreu/32)
 * [Bart : Denoising Sequence-to-Sequence Pre-training for Natural Langua…](https://www2.slideshare.net/taeseonryu/bart-denoising-sequencetosequence-pretraining-for-natural-language-generation-translation-and-comprehension)
