@@ -710,6 +710,7 @@ Clojure
   * [Dark CIDER (by Bozhidar Batsov) - YouTube](https://www.youtube.com/watch?v=IvTDzKVL58Y)
   * [CIDER 1.0 | Meta Redux](https://metaredux.com/posts/2020/12/28/cider-1-0.html)
   * [Clojure Webinar #1](https://grishaev.me/en/clj-webinar-1/)
+* [clj-clapps: Clojure library for creating command line apps elegantly](https://github.com/clj-clapps/clj-clapps)
 * [cljdropbox - A Clojure library designed to ... well, that part is up to you](https://github.com/skyjimmy/cljdropbox)
 * [clj-embed - A clojure library for using multiple clojure runtimes in a single jvm process](https://github.com/RutledgePaulV/clj-embed)
   * 하나의 jvm에서 여러 clojure 환경 사용 가능
@@ -823,6 +824,7 @@ Clojure
   * [hiccup.space - clojure(script) based template engine](http://hiccup.space/)
   * [html-to-hiccup - Emacs package that turns HTML into Hiccup syntax, a notation popular when doing Clojure/ClojureScript web development](https://github.com/plexus/html-to-hiccup)
 * [Hitchhiker trees are a newly invented (by @dgrnbrg) datastructure, synthesizing fractal trees and functional data structures, to create fast, snapshottable, massively scalable databases](https://github.com/dgrnbrg/hitchhiker-tree)
+* [holy-lambda: The micro framework that integrates Clojure with AWS Lambda on either Java, Clojure Native, or Babashka runtime](https://github.com/FieryCod/holy-lambda)
 * [honeysql: Turn Clojure data structures into SQL](https://github.com/seancorfield/honeysql)
 * [HTTP Kit - A high-performance event-driven HTTP client+server for Clojure](https://github.com/http-kit/http-kit)
 * [immutant](http://immutant.org/)
@@ -840,6 +842,7 @@ Clojure
 * [jai - Manipulate source code like the DOM http://docs.caudate.me/jai](https://github.com/zcaudate/jai)
 * [Janet - a functional and imperative programming language](https://janet-lang.org/)
   * [janet - A dynamic language and bytecode vm](https://github.com/janet-lang/janet)
+* [jasentaa: A parser combinator library for Clojure and ClojureScript](https://github.com/rm-hull/jasentaa)
 * [java.data - Functions for recursively converting Java beans to Clojure and vice versa](https://github.com/clojure/java.data)
 * [jme-clj: A Clojure 3D Game Engine Wrapper, Powered By jMonkeyEngine](https://github.com/ertugrulcetin/jme-clj)
   * [jme-clj | Clojure 3D Game Development Demo - YouTube](https://www.youtube.com/watch?v=IOPz9I49snM)
@@ -1069,6 +1072,7 @@ Clojure
 * [Automatically generated API tests with Clojure and Reitit - /dev/solita](https://dev.solita.fi/2021/03/05/automatically-generated-api-tests-with-clojure-and-reitit.html)
 * [would clojure.test benefit from `(defmethod assert-expr thrown-with-data? ...)` - Clojure Q&A](https://ask.clojure.org/index.php/10468/would-clojure-test-benefit-from-defmethod-assert-expr-thrown)
 * [Clojure: automated property-based tests for complicated inputs | by Yulia Kleb | AppsFlyer | Medium](https://medium.com/appsflyer/clojure-automated-property-based-tests-for-complicated-inputs-786de23de8f0)
+* [Clojure test coverage with Eftest and Cloverage | Andrey Bogoyavlensky](https://bogoyavlensky.com/blog/eftest-cloverage/)
 * [bond: spying for tests](https://github.com/circleci/bond)
 * [cprop-order - Test load-config order](https://github.com/eunmin/cprop-order)
 * [endpoint-check](https://github.com/k8s-study/endpoint-check/blob/master/README.md) ping test micro service 를 clojure httpkit 으로 구현, Kubernetes로 배포
