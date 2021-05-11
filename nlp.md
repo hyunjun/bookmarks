@@ -465,6 +465,8 @@ NLP
 * [exBERT - A Visual Analysis Tool to Explore Learned Representations in Transformers Models](http://exbert.net/)
 * [HanBert-54kN](https://github.com/tbai2019/HanBert-54k-N)
 * [Keras-Bert를 이용한 간단 구현(정확도 94%) - DACON](https://dacon.io/codeshare/2044)
+* [KeyBERT: Minimal keyword extraction with BERT](https://github.com/MaartenGr/KeyBERT)
+  * [KeyBERT.ipynb - Colaboratory](https://colab.research.google.com/drive/1OxpgwKqSzODtO3vS7Xe1nEmZMCAIMckX?usp=sharing)
 * [KoBART: Korean BART](https://github.com/SKT-AI/KoBART) Bidirectional and Auto-Regressive Transformers, 한국어 encoder-decoder 언어 모델
   * [Korean BERT pre-trained cased (KoBERT)](https://github.com/SKTBrain/KoBERT)
   * [KoBART-summarization: Summarization module based on KoBART](https://github.com/seujung/KoBART-summarization)
