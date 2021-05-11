@@ -308,6 +308,7 @@ Vision
 * [Parallel_Development_Community_GPGPU_Study](https://github.com/ConstantPark/Parallel_Development_Community_GPGPU_Study)
   * [Parallel Development Community - YouTube](https://www.youtube.com/channel/UCh09yimx3phi31V7B2DVHOw/videos)
 * [How To Become A Computer Vision Engineer In 2021 | by Richmond Alake | Jan, 2021 | Towards Data Science](https://towardsdatascience.com/how-to-become-a-computer-vision-engineer-in-2021-c563545d4c9a)
+* [LINE AR 렌더링 엔진 개발기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-ar-rendering-engine-yuki-elsa/)
 
 # Book
 * [Hands-On Computer Vision with TensorFlow 2, published by Packt](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
