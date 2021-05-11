@@ -2289,6 +2289,9 @@ Python
   * ['파이썬-PySide6(PyQt6)' 카테고리의 글 목록](https://www.martinii.fun/category/%ED%8C%8C%EC%9D%B4%EC%8D%AC-PySide6%28PyQt6%29)
   * ['파이썬-PySide6(PyQt6)' 카테고리의 글 목록](https://employeecoding.tistory.com/category/%ED%8C%8C%EC%9D%B4%EC%8D%AC-PySide6%28PyQt6%29)
   * [PyDracula - Modern Gui Python / Flat Style - Qt Designer/PySide6 or PyQt6 - YouTube](https://www.youtube.com/watch?v=9DnaHg4M_AM)
+* [PySimpleGUI](https://pysimplegui.readthedocs.io/)
+  * [Python GUI Development With PySimpleGUI - YouTube](https://www.youtube.com/watch?v=-_z2RPAH0Qk)
+  * [Simplify Python GUI Development With PySimpleGUI – Real Python](https://realpython.com/courses/simplify-gui-dev-pysimplegui/)
 * tkinter
   * ~[Python GUI Development with Tkinter](https://www.linkedin.com/learning/python-gui-development-with-tkinter?storeRef=voyager_feed_cymbii_learning)~
   * [**076923.github.io/posts/#Python-Tkinter**](https://076923.github.io/posts/#Python-Tkinter)
