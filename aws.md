@@ -463,7 +463,6 @@ AWS
 * [아마존 웹 서비스를 다루는 기술: 실무에서 필요한 AWS 클라우드의 모든 것!](http://pyrasis.com/book/TheArtOfAmazonWebServices)
 
 # CloudWatch
-* [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [AWS Lambda 로 Cron Job 돌리기](https://medium.com/itus-project/aws-aws-lambda-%EB%A1%9C-cron-job-%EB%8F%8C%EB%A6%AC%EA%B8%B0-c1c8875dc288)
 * [Serverless + AWS Lambda + AWS CloudWatch + Slack 를 활용한 Web crawler 만들기](https://novemberde.github.io/node/2017/12/31/Node-crawler.html)
 * [Simplifying Apache server logs with Amazon CloudWatch Logs Insights](https://aws.amazon.com/ko/blogs/mt/simplifying-apache-server-logs-with-amazon-cloudwatch-logs-insights)
@@ -471,10 +470,13 @@ AWS
 * [CloudWatch 메트릭 그래프 스냅샷 만들기](https://brunch.co.kr/@alden/53)
 * [CloudWatch 이상 동작 탐지 기능 사용하기 #1](https://brunch.co.kr/@alden/54)
 * [CloudWatch 이상 동작 탐지 기능 사용하기 #2](https://brunch.co.kr/@alden/56)
-* [New – Amazon CloudWatch Anomaly Detection](https://aws.amazon.com/ko/blogs/aws/new-amazon-cloudwatch-anomaly-detection/)
 * [아직도 Amazon GuardDuty 도입을 안 하셨다면?](https://urbanbase.github.io/dev/2020/11/01/Amazon-GuardDuty.html)
 * [AWS의 눈 - Cloud Watch - YouTube](https://www.youtube.com/watch?v=jGryI-hBA38)
+* [CloudWatch를 이용한 RDS (PostgreSQL) 스케줄링 시작/종료](https://jojoldu.tistory.com/572)
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
+* [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
+* [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
+* [New – Amazon CloudWatch Anomaly Detection](https://aws.amazon.com/ko/blogs/aws/new-amazon-cloudwatch-anomaly-detection/)
 
 # Conference
 * [빠르게 훑어보는 "AWS Hero와 함께하는 re:Invent reCap 온라인 세미나" 후기](https://jybaek.tistory.com/888)
@@ -882,7 +884,6 @@ AWS
     * 멀티모델 캐슁으로 다수 모델을 효율적으로 서빙
     * 다운타임 없는 롤링 업데이트 지원
     * A/B 테스팅을 위한 트래픽 분할
-* [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
 * [kops-cui - a CUI that helps you install Kubernetes Cluster easily with KOPS](https://github.com/nalbam/kops-cui)
 * [LocalStack - A fully functional local AWS cloud stack](https://github.com/localstack/localstack)
 * [mu - a tool for managing your microservices platform](https://getmu.io/)
