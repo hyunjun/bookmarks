@@ -36,8 +36,8 @@ Interview
 * [5 alternatives to the Fizzbuzz test for hiring programmers](http://david.elbe.me/developers/hiring/2014/09/17/fizzbuzz-alternatives.html)
 * [Startup Job Offers And How To Interview Founders](http://techcrunch.com/2015/05/28/startup-job-offers-and-how-to-interview-founders)
 * [National Geographic Life Hacking](https://www.facebook.com/NatGeoKorea/videos/955990741099081) 면접 볼 때 마지막으로 물어볼 거 있냐는 질문에 대한 질문
-* [채용 담당자한테 꼭 물어봐야하는 6가지 질문](http://www.upfly.me/2017/03/28/what-to-ask-to-recruiters/)
-* [면접 후, 이메일로 어필하는 방법](https://www.upfly.me/2019/07/11/how-to-send-email-after-interview/)
+* [채용 담당자한테 꼭 물어봐야하는 6가지 질문 — 업플라이 #Upfly](https://www.upfly.me/blog/what-to-ask-to-recruiters)
+* [면접 후, 이메일로 어필하는 방법 — 업플라이 #Upfly](https://www.upfly.me/blog/how-to-send-email-after-interview/)
 * [Writing code on whiteboards is hard](http://ericlippert.com/2015/06/01/writing-code-on-whiteboards-is-hard/)
 * [Why Most Hiring Processes Suck](http://www.adammcfarland.com/2011/12/13/why-most-hiring-processes-suck/)
 * [Interview cake - I will teach you to be good at programming interviews](https://www.interviewcake.com/)
@@ -171,8 +171,8 @@ Interview
 * [LINE 서버 개발자가 되기까지 내가 준비한 것들](https://engineering.linecorp.com/ko/blog/things-i-prepared-to-be-a-line-server-developer/) 일반적인 준비
 * [클라우드알못에서 AWS 이직까지](https://reoim.tistory.com/63)
 * [핀란드 회사 면접 후기](https://www.notion.so/5ba586908f464cb4abb6d9ebd9986211)
-* [레퍼런스 체크 효과적으로 준비하는 방법](https://www.upfly.me/2019/08/29/reference-check-prep/)
-* [해외 기업과 면접과 보기 전에 반드시 알아야할 것](https://www.upfly.me/2019/09/19/what-to-know-before-interview/)
+* [레퍼런스 체크 효과적으로 준비하는 방법 — 업플라이 #Upfly](https://www.upfly.me/blog/reference-check-prep/)
+* [외국계 기업과 면접과 보기 전에 반드시 알아야할 것 — 업플라이 #Upfly](https://www.upfly.me/blog/what-to-know-before-interview/)
 * [Programming trick questions](https://qntm.org/trick)
 * [신입 개발자 면접 질문 시리즈](https://www.notion.so/54d624628a634c879cc93d94f54cd2d1) 여러 주제를 전반적으로 다루는 데 꽤 괜찮음
 * [기술 면접 질문 기술 면접 예상 질문 대비하기 - 운영체제(OS)편](https://gmlwjd9405.github.io/2017/10/01/basic-concepts-of-development-os.html)
@@ -706,7 +706,7 @@ Interview
 * [Tips to Optimize your LinkedIn Profile for Developers](https://medium.com/@samanthaming/tips-to-optimize-your-linkedin-profile-for-developers-77777c1e2c2e)
 * [LinkedIn-dentation & Formatting](http://stephendnicholas.com/posts/linked-in-formatting) linkedin에 indent 넣는 방법
 * [Tips to Optimize your LinkedIn Profile for Developers](https://medium.com/@samanthaming/tips-to-optimize-your-linkedin-profile-for-developers-77777c1e2c2e)
-* [해외 리쿠르터의 이목을 사로잡는 링크드인 작성법](http://www.upfly.me/index.php/2016/10/16/howtolinkedin/)
+* [해외 리쿠르터의 이목을 사로잡는 링크드인 작성법 — 업플라이 #Upfly](https://www.upfly.me/blog/howtolinkedin/)
 * [한국인들이 저지르는 링크드인 실수 TOP 5](https://www.youtube.com/watch?v=G7jPNzx4oDU)
 * [(소프트웨어 엔지니어를 위한) 끝내주는 이력서를 쓰는 방법](http://www.haeyounglee.com/post/41769497481/how-to-write-a-killer-resume#.VytJ4RWLSZ0)
 * [이력서 페이지 개발기, Resume](http://hsol.tistory.com/927)
@@ -753,7 +753,7 @@ Interview
 
 # Salary 연봉
 * [연봉협상시 기억할 15가지 규칙](http://ppss.kr/archives/57332)
-* [연봉 협상하는 방법](http://www.upfly.me/2017/11/30/how-to-negotiate-salary/)
+* [영어면접 질문: What's Your Current Salary? — 업플라이 #Upfly](https://www.upfly.me/blog/how-to-negotiate-salary/)
 * [외국계 연봉협상 기본급 이외에 협상할 수 있는 것들](https://www.youtube.com/watch?v=xiYOJ-tHe8s)
 * [Do Not Disclose Your Salary to Recruiters](http://jacquesmattheij.com/do-not-disclose-your-salary-to-recruiters)
 * [Totally Honest Software Engineering Negotiations](http://pastebin.com/raw.php?i=eBetxc1Q)
@@ -769,9 +769,10 @@ Interview
 * [스톡옵션 개론](https://www.thestartupbible.com/2014/10/stock-option-101.html)
 * [스톡옵션 가격](https://www.thestartupbible.com/2019/10/pricing-stock-options.html)
 * [See How Your Salary Compares](https://www.wsj.com/graphics/how-does-your-pay-stack-up/)
-* [기업이 당신과 연봉협상하지 않은 진짜 이유](https://www.upfly.me/2019/07/25/how-to-negotiate-salary-well/)
+* [기업이 당신과 연봉협상하지 않은 진짜 이유 — 업플라이 #Upfly](https://www.upfly.me/blog/how-to-negotiate-salary-well)
 * [스톡옵션?](https://brunch.co.kr/@mirr5510/29)
 * [Leaked Salary Spreadsheet Reveals Microsoft Employee Earnings for a Second Year | by Dave Gershgorn | Sep, 2020 | OneZero](https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309)
+* [개발자 연봉이 올랐어요! – Dreaming for the Future](http://www.chidoo.me/index.php/2021/05/07/2021-developer-salary-shock/)
 * [levels.fyi](https://www.levels.fyi/) 미국 회사 직급별 연봉
 * [paysa.com - Make the most out of your job Paysa is your free personal career advisor](https://www.paysa.com/)
 * [perks.guide](http://perks.guide/) 회사 복지 비교
