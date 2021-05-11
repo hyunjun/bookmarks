@@ -42,8 +42,8 @@ Nomad & Remote
 * [퇴사학교](http://t-school.kr/)
 * [직장인 퇴사 열풍, '진짜 퇴사' 언제 고민해야 할까](https://brunch.co.kr/@insaboy/19)
 * [언제 직장을 그만두는 것이 좋을까?](https://brunch.co.kr/@hyungsukkim/50)
-* [해외 한인 커뮤니티](http://www.upfly.me/2016/10/31/jobs-korean-speakers/)
-* [한국인 채용하는 해외 포지선 찾는 방법](https://www.upfly.me/2017/04/13/job-search-for-koreans/)
+* [한국 기업의 해외지사 채용 사이트 리스트 — 업플라이 #Upfly](https://www.upfly.me/blog/jobs-korean-speakers/)
+* [한국인 채용하는 해외 포지션 찾는 방법 — 업플라이 #Upfly](https://www.upfly.me/blog/job-search-for-koreans/)
 * [Automattic의 채용 과정 - 한 자바스크립트 엔지니어의 입사기](https://taegon.kim/archives/5678)
 * [1년 반 정도의 원격 근무 경험](https://blog.outsider.ne.kr/1359)
 * [Developer Survey Results 2017](https://stackoverflow.com/insights/survey/2017/)
@@ -248,7 +248,7 @@ Nomad & Remote
 * [북유럽 노르웨이 취업, 이민](http://www.nordikhus.com/%EB%B6%81%EC%9C%A0%EB%9F%BD-%EB%85%B8%EB%A5%B4%EC%9B%A8%EC%9D%B4-%EC%B7%A8%EC%97%85-%EC%9D%B4%EB%AF%BC/)
 
 # Remote
-* [원격 근무 가능한 포지션 구하는 방법](https://www.upfly.me/2017/10/27/remote-digital-nomad-jobs)
+* [원격근무 가능한 포지션 구하는 방법 (a.k.a 디지털 노마드의 길) — 업플라이 #Upfly](https://www.upfly.me/blog/remote-digital-nomad-jobs)
 * [한국에 자율 출퇴근 혹은 원격 근무가 되는 회사가 있나요?](https://milooy.github.io/remote-or-flexible-work-company-in-korea)
 * [7 Great Tools to Help You While Working Remotely](https://medium.com/better-programming/hidden-gems-among-tools-to-help-you-while-working-remotely-a7c975d379a5)
 * [angel.co](https://angel.co/)

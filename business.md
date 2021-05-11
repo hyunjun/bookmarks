@@ -674,8 +674,8 @@ Business
 * [Otis](https://www.thestartupbible.com/2019/09/otis.html) [artbloc.io](https://artbloc.io)
 * [스타트업이 문제를 마주할 때, 가장 먼저 해야 할 질문](https://ppss.kr/archives/204662) Netflix의 The Canada Principle
 * [영화 〈머니볼〉을 통해 본 본질을 사고하는 법 3가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/219958) 정확한 문제 설정, 통제 가능한 옵션, 선택과 집중
-* [온라인 창업 아이디어 고르는 방법](https://www.upfly.me/2019/08/01/how-to-find-business-idea/)
-* [내 사업이 망한 진짜 이유](https://www.upfly.me/2019/09/05/startup-failure-example-analysis/)
+* [온라인 창업 아이디어 고르는 방법 — 업플라이 #Upfly](https://www.upfly.me/blog/how-to-find-business-idea/)
+* [내 사업이 망한 진짜 이유 — 업플라이 #Upfly](https://www.upfly.me/blog/startup-failure-example-analysis/)
 * [Startup Essentials 우아한형제들, 컬리](https://verticalplatform.kr/archives/10637)
 * [창업 아이템 고르는 법](https://liveandventure.com/2020/05/21/item/)
 * [Unit Economics — 성장을 드라이브하는 기준 — How I invest (3) - 허진호 (Jin Ho Hur) - Medium](https://medium.com/@hur/unit-economics-%EC%84%B1%EC%9E%A5%EC%9D%84-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C%ED%95%98%EB%8A%94-%EA%B8%B0%EC%A4%80-how-i-invest-3-2fff1dad51c6)
