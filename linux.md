@@ -202,6 +202,7 @@ Linux
 * [How to install Simple Screen Record "Peek" on Rhel8](https://naleejang.tistory.com/220)
 * [CentOS가 Ubuntu 보다 더 안정적인 이유](https://rainofpainki.github.io/ubuntu_vs_centos/) 별로 설득력 있는 견해라고 생각이 들진 않지만 참고용으로 기록
 * [환경구성 CentOS Vmware 실습 환경 설정 - 1](https://developer-ankiwoong.tistory.com/1031)
+* [Rocky Linux 8.3 RC1 설치로 본 RHEL와 CentOS의 비교](https://tech.osci.kr/2021/05/12/119374564/)
 * [Quay - YouTube](https://www.youtube.com/playlist?list=PLrvNoNIHON5bd6aqjpSJeYPMeI9ODv05U)
 * service
 
