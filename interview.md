@@ -481,6 +481,7 @@ Interview
 * [Top 50+ Web API Testing Interview Questions Ultimate list](https://www.katalon.com/resources-center/blog/web-api-testing-interview-questions/)
 * [실시간 댓글 개발기(part.1) – DAU 60만 Alex 댓글의 실시간 댓글을 위한 이벤트 기반 아키텍처](https://tech.kakao.com/2020/06/08/websocket-part1/) polling vs. websocket, kafka, NiFi, Redis
 * [Scalability concepts: read-after-write consistency](https://medium.com/@avik.das/scalability-concepts-read-after-write-consistency-3ff70b71e1d1)
+* [Back-of-the-envelope Calculations - byte-by-byte](https://byte-by-byte.wistia.com/medias/19dr9infcj?wvideo=19dr9infcj)
 
 # Book
 * [System Design Interview Book Review: Finally, a Book for Getting Better at Architecting Systems - The Pragmatic Engineer](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/)
