@@ -119,6 +119,7 @@ Azure
 * [애저와 기트허브의 결합 ··· ‘애저 정적 웹앱’ 첫걸음   - CIO Korea](http://www.ciokorea.com/news/157728)
 * [개발 환경 구성: 495. Azure - Location이 다른 웹/DB 서버의 경우 발생하는 성능 하락](https://www.sysnet.pe.kr/2/0/12273)
 * [프리지아 랩 :: Incorrect localization about "Create storage account"](https://www.dokyun.pe.kr/256)
+* [프리지아 랩 :: Azure Storage 계정에서 SMB 다중 채널 사용하기](https://www.dokyun.pe.kr/262)
 * [How to quickly develop and manage hundreds of ML models to pivot your organization using Azure Databricks - The Databricks Blog](https://databricks.com/blog/2020/08/28/operationalize-100-machine-learning-models-in-as-little-as-12-weeks-with-azure-databricks.html)
 * [Deploying a Machine Learning Model with Azure ML Pipelines](https://vladiliescu.net/deploying-models-with-azure-ml-pipelines/)
 * [All Around Azure: A Developer's Guide to IoT (EMEA) - YouTube](https://www.youtube.com/watch?v=242fsVDxXIc)
