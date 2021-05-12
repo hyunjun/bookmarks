@@ -136,6 +136,7 @@ Clojure
 * [The 2016 JUXT Clojure Technology Radar](https://juxt.pro/radar.html)
 * [Clojure Destructuring Tutorial and Cheat Sheet](https://gist.github.com/john2x/e1dca953548bfdfb9844)
 * [Clojure - Destructuring lists and maps tutorial - YouTube](https://www.youtube.com/watch?v=gdpzUpvZZJk)
+* [Destructuring in Clojure - Ostash.Dev](https://ostash.dev/posts/2021-05-10-destructuring-in-clojure/)
 * [Locks vs Concurrency Primitives](http://www.lispcast.com/locks-v-concurrency-primitives)
 * [구글 개발자, 자연어로 작성하는 프로그래밍 언어 공개](http://www.bloter.net/archives/251344)
 * [The End of Dynamic Languages](http://elbenshira.com/blog/the-end-of-dynamic-languages/)
@@ -717,6 +718,7 @@ Clojure
 * [clj-embed - A clojure library for using multiple clojure runtimes in a single jvm process](https://github.com/RutledgePaulV/clj-embed)
   * 하나의 jvm에서 여러 clojure 환경 사용 가능
   * 여러 버전의 라이브러리를 한 환경에서 사용 가능
+* [clj-graal-docs: Scripts and tips to get Clojure latest working with GraalVM latest](https://github.com/lread/clj-graal-docs)
 * [clj-http - An idiomatic clojure http client wrapping the apache client. Offically supported version. http://clojars.org/clj-http](https://github.com/dakrone/clj-http)
 * [clj-java-decompiler](https://github.com/clojure-goes-fast/clj-java-decompiler)
 * [clj-kondo - A linter for Clojure code that sparks joy](https://github.com/borkdude/clj-kondo)
@@ -981,6 +983,7 @@ Clojure
 * [task - Simple, functional and value-oriented concurrency primitives for Clojure](https://github.com/ane/task)
 * [TCP-Server](https://github.com/weavejester/tcp-server)
 * [tech.ml.dataset: Clojure dataframe library and pipeline for data processing and machine learning](https://github.com/techascent/tech.ml.dataset)
+* [tesla-microservice: Common basis for some of otto.de's clojure microservices](https://github.com/otto-de/tesla-microservice)
 * [thi.ng - An open source collection of 20+ computational design tools for Clojure & Clojurescript](http://thi.ng/)
 * [timbre - Pure Clojure/Script logging library https://www.taoensso.com](https://github.com/ptaoussanis/timbre)
 * [TinyClojure is a project to build a small, easily embeddable version of Clojure/ClojureScript in portable C++](https://github.com/WillDetlor/TinyClojure)
