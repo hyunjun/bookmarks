@@ -1283,6 +1283,7 @@ Java
 * [21. Spring - 게시판 목록의 No값(주로PK값)을 순번으로 나타내기](https://kim-jong-hyun.tistory.com/37)
 * [22. Spring - Profile별로 개발환경 세팅 및 배포](https://kim-jong-hyun.tistory.com/40)
 * [31. Spring - application.properties 한글깨짐에 대한 원인 및 해결](https://kim-jong-hyun.tistory.com/57)
+* [34. Spring - @RequestBody 어노테이션의 동작방식](https://kim-jong-hyun.tistory.com/60)
 * [스프링은 프록시 객체를 어떻게 만들까?](https://soolow-and-sooteady.tistory.com/1)
 * [Spring에서 예외처리 하기 (초보 개발자 필수 시청) - YouTube](https://www.youtube.com/watch?v=MeAt9Em02Cs)
 * [8주차 - Spring 프레임워크 적용 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=6946858)
