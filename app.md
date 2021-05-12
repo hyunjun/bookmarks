@@ -437,6 +437,7 @@ App
   * Ungit, Termius, Alacritty, Byobu, Spacedesk
 * [7 Command-Line Tools That Make Your Life Easier | by Daan | Aug, 2020 | Level Up Coding](https://levelup.gitconnected.com/7-command-line-tools-that-make-your-life-easier-d69c38850d6c)
   * Enhancd, The Fuck, Git Stats, Autojump, Bat, Oh my ZSH, Fony
+* [윈도우 컨테이너용 SQL Server 구동 스크립트 - 📤 정보 공유 - 닷넷데브](https://forum.dotnetdev.kr/t/sql-server/871)
 * [aquerytool.com](http://aquerytool.com/) DB schema
 * [asdf: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more](https://github.com/asdf-vm/asdf)
   * [asdf - An extendable version manager](https://asdf-vm.com/)
