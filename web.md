@@ -460,6 +460,7 @@ Web
 * [2020년 CSS 트랜드 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/870) Tailwind CSS
 * [web development languages - Web4College](https://www.web4college.com/)
 * [CSS-Only Carousel | CSS-Tricks](https://css-tricks.com/css-only-carousel/)
+* [linear-gradient 속성에 transition 적용하기 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-05-12-linear-gradient-text)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
   * [Functional CSS, Tachyons - 함수형 CSS를 지향하는 프레임웍](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/tachyons)
