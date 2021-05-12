@@ -276,6 +276,7 @@ Vision
 * [Building an image search service from scratch](https://blog.insightdatascience.com/the-unreasonable-effectiveness-of-deep-learning-representations-4ce83fc663cf)
 * [Google FaceTracker 예제 (1)](https://brunch.co.kr/@mystoryg/53)
 * [Short Introduction to Data Augmentation](https://markku.ai/post/data-augmentation/)
+* [Image Data Augmentation Overview](https://hoya012.github.io/blog/Image-Data-Augmentation-Overview/)
 * [HOLOGAN: UNSUPERVISED LEARNING OF 3D REPRESENTATIONS FROM NATURAL IMAGES](https://www.monkeyoverflow.com/#/hologan-unsupervised-learning-of-3d-representations-from-natural-images/)
 * [구글 인공지능 가속 모듈 코랄(Coral) 구입 후기](https://pmice.tistory.com/334)
 * [구글 코랄(Coral) 환경설정 및 예제 분류 모델 실행해보기](https://pmice.tistory.com/335)
