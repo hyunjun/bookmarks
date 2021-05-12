@@ -348,6 +348,7 @@ Clojure
 * [Live coding Mail File, day 4! Parse email, get money. - YouTube](https://www.youtube.com/watch?v=LmsHnASPzHE)
 * [Funktionale Programmierung - DSLs ganz einfach mit Clojure](https://funktionale-programmierung.de/2021/05/03/clojure-dsl.html)
 * [Homoiconicity & Feature Flags — Martin Klepsch](https://martinklepsch.org/posts/homoiconicity-and-feature-flags.html)
+* [Inside Clojure's Collection Model – Inside Clojure](https://insideclojure.org/2016/03/16/collections/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -535,6 +536,7 @@ Clojure
 * [cljs-test-display](https://github.com/bhauman/cljs-test-display)
 * [clojurecuda.uncomplicate.org](http://clojurecuda.uncomplicate.org/)
 * [clojerl - Clojure implemented on the Erlang VM](https://github.com/jfacorro/clojerl)
+  * [Clojure JVM + BEAM = Clojerl (by Juan Facorro) - YouTube](https://www.youtube.com/watch?v=vgxOKmZYDwU)
 * [cloverage - Simple clojure coverage tool. Currently requires clojure 1.4](https://github.com/lshift/cloverage)
 * [commom-pool-sample - Example for Apache Common Pool 2](https://github.com/eunmin/commom-pool-sample)
 * [criterium - Benchmarking library for clojure http://hugoduncan.github.com/criterium](https://github.com/hugoduncan/criterium)
@@ -670,6 +672,7 @@ Clojure
 * [adi - data modelling for the ambitious http://docs.caudate.me/adi](https://github.com/zcaudate/adi) datomic 대신
 * [aero: A small library for explicit, intentful configuration](https://github.com/juxt/aero)
   * [Clojure Configuration Variables Using Aero - YouTube](https://www.youtube.com/watch?v=ODsoc2QQyyU)
+* [amazonica: A comprehensive Clojure client for the entire Amazon AWS api](https://github.com/mcohen01/amazonica)
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [annotate - Annotate is a library for adding type annotations to functions and checking those types at runtime](https://github.com/roomkey/annotate)
 * [ANTLR (ANother Tool for Language Recognition) - a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/) java
@@ -1017,6 +1020,7 @@ Clojure
   * [Babashka book](https://book.babashka.org/)
   * [Babashka: a native Clojure interpreter for scripting — The 2021 Graal Workshop at CGO - YouTube](https://www.youtube.com/watch?v=Yjeh57eE9rg)
   * [Rewrite if with rewrite-clj and babashka](https://gist.github.com/borkdude/77369ba1b2d0fbd2608a8d12f518ade3)
+  * [Babashka in Nextjournal 101 Demo – Nextjournal](https://nextjournal.com/avidrucker/babashka-in-nextjournal-101-demo)
   * [deps.clj/deps.bat at master · borkdude/deps.clj](https://github.com/borkdude/deps.clj/blob/master/deps.bat#L1-L7)
   * [Babashka pods: why, how to use and what's going on in the background? Example: go-sqlite3 - YouTube](https://www.youtube.com/watch?v=Q3EFNRwxLLo)
   * [babashka-sql-pods: Babashka pods for SQL databases](https://github.com/babashka/babashka-sql-pods)
