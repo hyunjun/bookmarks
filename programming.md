@@ -949,6 +949,7 @@ Programming
 * [Goodbye Microservices: From 100s of problem children to 1 superstar](https://segment.com/blog/goodbye-microservices/)
   * [번역 잘가요 마이크로서비스: 100개의 문제점 투성이를 1개의 슈퍼스타로](https://tech.ssut.me/2018/07/31/goodbye-microservice/)
 * [The Problem With Microservices - YouTube](https://www.youtube.com/watch?v=zzMLg3Ys5vI)
+* [GOTO 2021 • The Problem with Microservices • Dave Farley - YouTube](https://www.youtube.com/watch?v=V3NQt5KP7EM)
 * [마이크로서비스 아키텍처 구축하기](https://blog.powerumc.kr/501)
 * [스타트업 관점에서 본 마이크로서비스](https://engineering.huiseoul.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-%EB%B3%B8-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-862405dd88d2)
 * [Powering Microservices with Docker, Kubernetes, Kafka and MongoDB](https://www.youtube.com/watch?v=F_BuRIAnvqE)
@@ -1748,6 +1749,7 @@ Programming
 * [Debugging Incidents in Google's Distributed Systems - ACM Queue](https://queue.acm.org/detail.cfm?id=3404974)
 * [Here’s How I Solved a Weird Bug Using Tried and True Debugging Strategies | CSS-Tricks](https://css-tricks.com/heres-how-i-solved-a-weird-bug-using-tried-and-true-debugging-strategies/)
 * [디버깅으로 문제 해결하는 방법 - YouTube](https://www.youtube.com/watch?v=bJKr70z54Mc) IntelliJ + Java
+* [GOTO 2017 • Debugging Under Fire: Keep your Head when Systems have Lost their Mind • Bryan Cantrill - YouTube](https://www.youtube.com/watch?v=30jNsCVLpAE)
 
 # DevOps
 * [60 best open source tools to do DevOps](https://elasticbox.com/blog/devops-open-source-tools/)
@@ -2827,6 +2829,7 @@ Programming
 * [1주차 - TDD 에 의한 문제 해결 과정 공유 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=12189733)
 * [여러분의 앱에는 카나리아가 살고 있나요? (다양한 카나리아 테스트 알아보기)](https://blog.imqa.io/app_canary_testing/) 대부분 내용은 광고
 * [3월 우아한테크세미나 우아한ATDD - YouTube](https://www.youtube.com/watch?v=ITVpmjM4mUE)
+* [GOTO 2021 • When Test Driven Development Goes Wrong • Dave Farley - YouTube](https://www.youtube.com/watch?v=-4Ybn0Cz2oU)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
