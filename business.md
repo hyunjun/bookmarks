@@ -383,6 +383,7 @@ Business
 * [나는 블루홀에서 무엇을 배웠나 | 딥백수](https://dl4ab.github.io/2020/09/17/lesson-learned-at-bluehole/) 의도의 중요성 + 피드백
 * [내 의견이 맞는데 다른 분들이 몰라준다](https://brunch.co.kr/@cleancode/42)
 * [존경받는 리더들이 가진 커뮤니케이션 패턴 8가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/217174)
+* [아담 그랜트가 말하는 “고집 불통 리더”를 설득하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240026)
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
