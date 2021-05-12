@@ -625,6 +625,7 @@ Clojure
 * [clojureD 2019: "Workflow engines with Clojure – It's a match!" by Tim Zöller - YouTube](https://www.youtube.com/watch?v=M1HrLAud6MA)
 * [clojureD 2020: "Writing maintainable Clojure" by Erik Assum - YouTube](https://www.youtube.com/watch?v=Tq7r97G4b7Y)
 * [clojurenorth.com](http://clojurenorth.com/)
+  * [Building Marvelous and Heroic Systems from the Ground Up - Mark Bastian (Workshop) - YouTube](https://www.youtube.com/watch?v=eink6oICdOQ)
 * [Clojure/north 2020 - YouTube](https://www.youtube.com/playlist?list=PL_arKaS8JOXHHaK715NZjVpfzKebcJD5U)
   * [Building Marvelous and Heroic Systems from the Ground Up - Mark Bastian (Workshop) - YouTube](https://www.youtube.com/watch?v=eink6oICdOQ)
 * [Clojure/West 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrKAOj8FJ1GGmNM5l7Okz0a)
