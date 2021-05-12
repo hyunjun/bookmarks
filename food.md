@@ -196,3 +196,4 @@ Food
 # Tea
 * [이 텀블러 하나면…어디서나 차 한잔](http://techholic.co.kr/archives/33599)
 * [Next Story 아이스티 특별하게 마시는 방법 15](http://www.huffingtonpost.kr/2015/06/11/story_n_7558278.html)
+* [서울에서 세계여행을? 인생 밀크티 카페 6 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240937)
