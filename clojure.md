@@ -347,6 +347,7 @@ Clojure
 * [왜 폴 그레이엄은 회사 이름을 Y Combinator라고 지었을까 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/y-combinator/)
 * [Live coding Mail File, day 4! Parse email, get money. - YouTube](https://www.youtube.com/watch?v=LmsHnASPzHE)
 * [Funktionale Programmierung - DSLs ganz einfach mit Clojure](https://funktionale-programmierung.de/2021/05/03/clojure-dsl.html)
+* [Homoiconicity & Feature Flags — Martin Klepsch](https://martinklepsch.org/posts/homoiconicity-and-feature-flags.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
