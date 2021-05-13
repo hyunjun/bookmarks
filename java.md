@@ -7,6 +7,7 @@ Java
 * [codingbat.com/java](http://codingbat.com/java)
 * [Online Tutorial to Learn Java - CodeGym](https://codegym.cc/) online Java programming course 80% based on practice
 * [Learn Java - Free Interactive Java Tutorial](https://www.learnjavaonline.org/)
+* [Java 입문 수업 (생활코딩) - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck)
 * [Java의 함수형 프로그래밍이 생각보다 위험하지 않은 이유](https://justhackem.wordpress.com/2014/06/19/why-functional-programming-in-java-is-not-dangerous/)
 * [Keyword extraction in Java](http://www.vikasing.com/2013/09/keyword-extraction-in-java.html)
 * [Extracting meaningful text from webpages](http://www.vikasing.com/2012/03/extracting-meaningful-text-from.html)
