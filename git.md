@@ -186,6 +186,7 @@ Git
 * [Git push 결과물이 Github 잔디에 반영이 안될 때 해결하기 | by Ryan Kim | Nov, 2020 | Medium](https://equus3144.medium.com/git-push-%EA%B2%B0%EA%B3%BC%EB%AC%BC%EC%9D%B4-github-%EC%9E%94%EB%94%94%EC%97%90-%EB%B0%98%EC%98%81%EC%9D%B4-%EC%95%88%EB%90%A0-%EB%95%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-5968a988b212)
 * [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.slideshare.net/subicura/gitops-cicd-156402754)
 * [GitOps Observability — Visualizing the journey of a container | by Samiya Akhtar | Nov, 2020 | Medium](https://samiyaakhtar.medium.com/gitops-observability-visualizing-the-journey-of-a-container-5f6ef1f3c9d2)
+* [깃옵스가 '아직' 주류로 부상할 준비가 되지 않은 이유 - ITWorld Korea](https://www.itworld.co.kr/news/193624) gitops
 * [복잡한 커밋 로그를 정리해줄 구원자, gitmoji](https://pilgwon.github.io/post/gitmoji)
 * [Everything You Always Wanted To Know About GitHub (But Were Afraid To Ask)](https://gh.clickhouse.tech/explorer/)
 * [Commits are snapshots, not diffs - The GitHub Blog](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
