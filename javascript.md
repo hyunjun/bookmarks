@@ -552,6 +552,7 @@ Javascript
 * [Pretty Print Your Site with JavaScript Take your print feature to the next level](https://levelup.gitconnected.com/pretty-print-your-site-with-javascript-d69f63956529)
 * [How to detect a sequence of keystrokes in JavaScript](https://medium.com/javascript-in-plain-english/how-to-detect-a-sequence-of-keystrokes-in-javascript-83ec6ffd8e93)
 * [Understanding Memoization in JavaScript to Improve Performance](https://blog.bitsrc.io/understanding-memoization-in-javascript-to-improve-performance-2763ab107092)
+* [Create a memoized function in JavaScript - DEV Community](https://dev.to/jeremydmarx813/create-a-memoized-function-in-javascript-43pi)
 * [A basic introduction to JavaScript variable definitions and hoisting](https://medium.freecodecamp.org/a-basic-introduction-to-javascript-variable-definitions-and-hoisting-93aa38e742eb)
 * [호이스팅과 var, let, const | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/hoisting-var-let-const/)
 * [실행 컨텍스트(Execution Context)를 통해 알아본 호이스팅(Hoisting) 현상의 발생 원인과 이를 통한 let과 var의 차이](https://blog.naver.com/dlaxodud2388/222238394694)
