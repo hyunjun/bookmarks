@@ -39,6 +39,7 @@ Clojure
 * [A hidden message in Cognicast podcasts](https://grishaev.me/en/cognicast/)
 * [Gene Kim - Cognicast Episode 159](https://www.cognitect.com/cognicast/159)
 * [:borkdude (The man, the myth, the legend) by Lost in Lambduhhs • A podcast on Anchor](https://anchor.fm/lostinlambduhhs/episodes/borkdude-The-man--the-myth--the-legend-e10anmp)
+* [Clojure : Articles](https://www.rightrelevance.com/search/articles?query=clojure)
 * [Episode 04 - Clojure by Telia Norway](https://soundcloud.com/telianorway/episode-04-clojure-edition)
 * [#71 - The true and brave Daniel Higginbotham by defn](https://soundcloud.com/defn-771544745/71-the-true-and-brave-daniel-higginbotham)
 * [Could we build Newtonian mechanics on purpose? - LispCast](https://lispcast.com/could-we-build-newtonian-mechanics-on-purpose/)
@@ -350,6 +351,10 @@ Clojure
 * [Homoiconicity & Feature Flags — Martin Klepsch](https://martinklepsch.org/posts/homoiconicity-and-feature-flags.html)
 * [Inside Clojure's Collection Model – Inside Clojure](https://insideclojure.org/2016/03/16/collections/)
 * [Rewriting the Technical Interview](https://aphyr.com/posts/353-rewriting-the-technical-interview)
+* [(recur thoughts "Building a library I - Rationale")](https://emil0r.com/posts/2021-05-05-building-a-library-1/)
+* [(recur thoughts "Building a library II - Planning phase")](https://emil0r.com/posts/2021-05-06-building-a-library-2/)
+* [(recur thoughts "Building a library III - Study case ez-wire")](https://emil0r.com/posts/2021-05-09-building-a-library-3/)
+* [(recur thoughts "Building a library IV")](https://emil0r.com/posts/2021-05-10-building-a-library-4/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
