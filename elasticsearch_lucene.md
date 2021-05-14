@@ -613,6 +613,7 @@ ElasticSearch - Lucene
 * [Logstash 필터 elapsed](https://www.popit.kr/logstash-필터-elapsed)
 * [Logstash로 트랜잭션 시간 구하기](https://www.popit.kr/logstash%EB%A1%9C-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%8B%9C%EA%B0%84-%EA%B5%AC%ED%95%98%EA%B8%B0/)
 * [제3회 스포카콘 Elasticsearch 동기화 개선을 위한 고군분투기](https://www.slideshare.net/ssusera5d93e/3-elasticsearch)
+* [logstash-output-jdbc: JDBC output for Logstash](https://github.com/theangryangel/logstash-output-jdbc)
 
 # Lucene
 * [Search Engine (내용기반 검색 기술 : FTR)](https://docs.com/sunnykwak/3330)
