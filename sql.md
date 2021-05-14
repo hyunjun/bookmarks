@@ -716,7 +716,6 @@ SQL
 * [The Internals of PostgreSQL for database administrators and system developers](http://www.interdb.jp/pg/index.html)
 * [Lessons learned scaling PostgreSQL database to 1.2bn records/month](https://medium.com/@gajus/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067)
 * [How to update objects inside JSONB arrays with PostgreSQL](https://medium.freecodecamp.org/how-to-update-objects-inside-jsonb-arrays-with-postgresql-5c4e03be256a)
-* [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
 * [Parallelism in PostgreSQL](https://www.percona.com/blog/2019/07/30/parallelism-in-postgresql/)
 * [Postgres Handles More Than You Think](https://www.infoq.com/articles/postgres-handles-more-than-you-think/)
 * [NoSQL과RDBMS 중 적합한 데이터베이스 선택하기(feat.인스타그램DB)](https://mustread.tistory.com/5)
@@ -742,7 +741,6 @@ SQL
 * [PostgreSQL 13 Features Distilled. Index optimization, incremental… | by Kovid Rathee | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/postgresql-13-features-distilled-c0c0adcfa020)
 * [Improving Postgres Connection Scalability: Snapshots - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/improving-postgres-connection-scalability-snapshots/ba-p/1806462)
 * [Postgres Observability](https://pgstats.dev/)
-* [**PostgreSQL 튜닝 - Autovacuum 최적화에 대하여**](https://nrise.github.io/posts/postgresql-autovacuum/)
 * [Stored Procedures as a backend. or “How we got rid of Django and whole… | by Oleg Zech | Oct, 2020 | Medium](https://gnuhost.medium.com/stored-procedures-as-a-backend-c5d2db452fc2)
 * [BLOB cleanup in PostgreSQL - CYBERTEC | Data Science & PostgreSQL](https://www.cybertec-postgresql.com/en/blob-cleanup-in-postgresql/)
 * [PostgreSQL Database Security: What You Need To Know - Percona Database Performance Blog](https://www.percona.com/blog/2021/01/04/postgresql-database-security-what-you-need-to-know/)
@@ -761,8 +759,13 @@ SQL
 * [BRIN Index for PostgreSQL: Don't Forget the Benefits - Percona Database Performance Blog](https://www.percona.com/blog/2019/07/16/brin-index-for-postgresql-dont-forget-the-benefits/)
 * [10 Things I Hate About PostgreSQL | by Rick Branson | Medium](https://rbranson.medium.com/10-things-i-hate-about-postgresql-20dbab8c2791)
 * [PostgreSQL Security Hardening | Teleport](https://goteleport.com/blog/securing-postgres-postgresql/)
-* [Speeding up recovery and VACUUM in Postgres 14 - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/speeding-up-recovery-and-vacuum-in-postgres-14/ba-p/2234071)
 * [PostgreSQL RDS Slow 쿼리 Slack으로 알람 보내기](https://jojoldu.tistory.com/570)
+* Vacuum
+  * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
+  * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
+  * [Speeding up recovery and VACUUM in Postgres 14 - Microsoft Tech Community](https://techcommunity.microsoft.com/t5/azure-database-for-postgresql/speeding-up-recovery-and-vacuum-in-postgres-14/ba-p/2234071)
+  * [**PostgreSQL 튜닝 - Autovacuum 최적화에 대하여**](https://nrise.github.io/posts/postgresql-autovacuum/)
+  * [PostgreSQL Autovacuum 장애 대응기 (1). 29CM에서는 Amazon RDS for PostgreSQL를 사용하고… | by Jimin Lee | 29CM 기술블로그 | May, 2021 | Medium](https://medium.com/29cm/postgresql-autovacuum-%EC%9E%A5%EC%95%A0-%EB%8C%80%EC%9D%91%EA%B8%B0-1-8284955c0193)
 
 ## PostgreSQL Library
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
@@ -808,8 +811,6 @@ SQL
 * [sql_firewall - SQL Firewall Extension for PostgreSQL](https://github.com/uptimejp/sql_firewall)
 * [stolon - PostgreSQL cloud native HA replication manager](https://github.com/sorintlab/stolon)
 * [ToroDB: A MongoDB-compatible, document-oriented database on top of PostgreSQL](http://www.8kdata.com/torodb/)
-* Vacuum
-  * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
 * [Vitesse X - A Speed Extension for PostgreSQL](http://vitessedata.com/)
 * [Yoke - a Postgres redundancy/auto-failover solution that provides a high-availability PostgreSQL cluster that's simple to manage](https://github.com/nanopack/yoke)
 
