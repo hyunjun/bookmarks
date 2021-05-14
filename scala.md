@@ -16,6 +16,7 @@ Scala
   * [Rob Norris: Telescopes and Types - The Scala Logs | Podcast on Spotify](https://open.spotify.com/episode/5yX2y0rspokvELFvEvfeZZ)
   * [Scala Love – Podcast about Scala Programming Language and its community](https://scala.love/)
   * [Adam Rosien: Cheese Pairings For Effects - The Scala Logs | Podcast on Spotify](https://open.spotify.com/episode/169kHgsVpYzyK3ixy6KQ9q?si=dt754Us-Tl6HeuaOla9qmQ&nd=1)
+  * [Jakub Kozłowski: From Highschool to Teaching Scala - The Scala Logs | Podcast on Spotify](https://open.spotify.com/episode/4ZTAe6Slie5oXciwRqdMyj?si=FOuxQE7rQJW9pHWE1YgNKg&nd=1)
 * [scala center -  For open source. For education. A new not-for-profit center established at EPFL](https://scala.epfl.ch/)
 * [라 스칼라 코딩단](https://github.com/codeport/scala)
   * [라스코단 번역 프로젝트](https://github.com/codeport/scala/wiki/%EB%B2%88%EC%97%AD%EC%9E%90%EB%A3%8C)
@@ -1225,6 +1226,7 @@ Scala
   * [Netty at Twitter with Finagle](https://www.youtube.com/watch?v=HJP_108i0ik)
 * [flip - Fast and lightweight probability tools for a dataset and a data stream](https://github.com/xxxnell/flip)
   * [Fast and Simple Statistics with Scala](https://www.slideshare.net/Nell4/fast-and-simple-statistics-with-scala)
+* [Flog: a functional logger for Scala | by Robin Hillyard | May, 2021 | Medium](https://scala-prof.medium.com/flog-a-functional-logger-for-scala-986d4039562f)
 * [fs2 - Compositional, streaming I/O library for Scala https://fs2.io ](https://github.com/functional-streams-for-scala/fs2)
   * [Intro to Functional Streams for Scala (FS2)](https://www.youtube.com/watch?v=cahvyadYfX8)
   * [Intro to Functional Streams for Scala (FS2) - Part 2: Chunks & Pipes](https://www.youtube.com/watch?v=HM0mOu5o2uA)
@@ -1773,6 +1775,7 @@ Scala
 * [Scala 3: Opaque Types | Rock the JVM - YouTube](https://www.youtube.com/watch?v=8-b2AoctkiY)
 * [Get more clarity with opaque types by Magda Stożek - YouTube](https://www.youtube.com/watch?v=WUvUBJcANV8)
 * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=fRDZoZoWTMU) opaque type
+* [Opaque Type Alias in Scala 3 | Baeldung on Scala](https://www.baeldung.com/scala/opaque-type-alias)
 * [Annoying things in Scala 2 that’ll be (mostly) gone in Scala 3 | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/annoying-things-in-scala-2-thatll-be-mostly-gone-in-scala-3-e1479a6d855c)
 * [Scala 3: Enums | Rock the JVM - YouTube](https://www.youtube.com/watch?v=QnrXubpILu4)
 * [Let’s Talk About the Scala 3 Indentation - Rock the JVM Blog](https://blog.rockthejvm.com/scala-3-indentation/)
