@@ -1422,6 +1422,7 @@ Python
   * [Async/Awaiting Production](https://www.youtube.com/watch?v=NLaeCFr_FlI)
   * [Dmitry Nazarov: "Future Pythonic Web: ASGI & Daphne"](https://www.youtube.com/watch?v=6xEKPsKBbD0)
   * [Build Your Own Async](https://www.youtube.com/watch?v=Y4Gt3Xjd7G8)
+  * [Python Asyncio, Requests, Aiohttp | Make faster API Calls - YouTube](https://www.youtube.com/watch?v=nFn4_nA_yk8)
 
 ## Async Asynchronous AsyncIO Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)
