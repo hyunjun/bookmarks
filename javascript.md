@@ -3077,6 +3077,7 @@ Javascript
   * [Storybook에서 nextjs 에러가 발생할 때 - DEV](https://dev.to/dylanju/storybook-5f3c)
   * [정직하게 배워보는 Next.js 시리즈를 시작합니다](https://wonit.tistory.com/365)
   * [웹 성능 최적화 SSR + Cache 적용기. 사용자에게 속도(Speed)는 얼마나 중요할까요? | by jpapa | 원티드 제품 팀블로그 | Mar, 2021 | Medium](https://medium.com/wantedjobs/%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-ssr-cache-%EC%A0%81%EC%9A%A9%EA%B8%B0-bf022e3a1a72)
+  * [Next.js typescript 프로젝트 생성부터 eslint 세팅까지](https://velog.io/@juunini/Next.js-typescript-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1%EB%B6%80%ED%84%B0-eslint-%EC%84%B8%ED%8C%85%EA%B9%8C%EC%A7%80)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Prism.js 적용하기](http://alpoxdev.com/posts/24)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
