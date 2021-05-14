@@ -2996,6 +2996,7 @@ Python
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
 * [nonoCAPTCHA: An asynchronized Python library to automate solving ReCAPTCHA v2 using audio](https://github.com/mikeyy/nonoCAPTCHA)
+* [notion-sdk-py](https://github.com/Blue-Hope/notion-sdk-py)
 * [Numba](http://numba.pydata.org/)
   * [Optimizing Python in the Real World: NumPy, Numba, and the NUFFT](https://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/)
   * [numba - 성능 업!](http://pythonkim.tistory.com/95)
