@@ -1857,6 +1857,7 @@ Scala
   * [Jon Pretty - The Future of Scala](https://www.youtube.com/watch?v=KEhGfpRpSOg)
   * [Jon Pretty — Fast and Furious - YouTube](https://www.youtube.com/watch?v=4HVySqElcnI)
   * [Justin Kaeser—Integrating Developer Experiences - YouTube](https://www.youtube.com/watch?v=lncUc4oHwxg)
+* `sbt ++3.0.0! console`
 * [Scala3-migrate: a tool making it easier to migrate to Scala 3 - Scala 3 Release Projects - Scala Contributors](https://contributors.scala-lang.org/t/scala3-migrate-a-tool-making-it-easier-to-migrate-to-scala-3/4446/2)
 * [scodec: Scala combinator library for working with binary data](https://github.com/scodec/scodec)
   * [YOW! Lambda Jam 2020 - Michael Pilquist - Scodec for Scala 3 - YouTube](https://www.youtube.com/watch?v=2eTwf78FJmc)
