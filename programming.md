@@ -374,6 +374,7 @@ Programming
 * [How to Learn Complex Things Quickly: A Guide](https://product.hubspot.com/blog/how-to-learn-complex-things-quickly)
 * [23 Active Software Engineering Publications on Medium | by Anupam Chugh | Mar, 2021 | Better Programming](https://betterprogramming.pub/23-active-software-engineering-publications-on-medium-a17484223b9a) engineering blog
 * [5 Best Practices for Over-the-Air (OTA) Updates - IoT Central](https://www.iotcentral.io/blog/5-best-practices-for-over-the-air-ota-updates)
+* [기술 스택 전면 교체와 고려해야 할 사항](https://jahong.tistory.com/entry/%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D-%EC%A0%84%EB%A9%B4-%EA%B5%90%EC%B2%B4%EC%99%80-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%ED%95%A0-%EC%82%AC%ED%95%AD)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
