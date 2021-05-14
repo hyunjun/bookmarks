@@ -524,6 +524,7 @@ Business
 * [리더십은 리더에게 달려있지 않다](https://now.rememberapp.co.kr/2020/10/25/10503/)
 * [리더가 관리해야 할 4가지 Resource](https://brunch.co.kr/@feeljaekim/30)
 * [적당히 까칠한 리더가 좋은 리더다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240773) 이탈 Exit 표출 Voice 방관 Neglect 감내 Loyalty
+* [Good Leadership Is About Asking Good Questions](https://hbr.org/2021/01/good-leadership-is-about-asking-good-questions)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
