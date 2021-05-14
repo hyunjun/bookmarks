@@ -1903,6 +1903,7 @@ Scala
 * [Let's build a Scala mock library](https://squidarth.com/scala/programming/2020/10/04/scala-mocks.html)
 * [How To Make Integration Tests Less Flaky - DEV](https://dev.to/adamgordonbell/how-to-make-integration-tests-less-flaky-bel)
 * [Stop Letting Your Tests “Make” Your Luck | by Asaf Manshary | Riskified Technology | Feb, 2021 | Medium](https://medium.com/riskified-technology/stop-letting-your-tests-make-your-luck-15eeb2b098ad)
+* [Scala com Gitlab para iniciantes. | LinkedIn](https://www.linkedin.com/pulse/scala-com-gitlab-para-iniciantes-lucas-oliveira/)
 * [AirSpec - a new functional testing framework for Scala and Scala.js](https://github.com/wvlet/airframe/tree/master/airspec)
   * [AirSpec: Writing Tests As Plain Functions In Scala](https://medium.com/airframe/airspec-bbc8d4369157)
 * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
