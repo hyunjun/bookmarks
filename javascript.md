@@ -8,6 +8,7 @@ Javascript
 * [간단히 훑어보는 자바스크립트 기본기 다지기](https://joshua1988.github.io/web-development/javascript/javascript-basic-summary/)
 * [기발자의 한 놈만 패는 Javascript](https://www.youtube.com/user/INKWEON7269)
 * [그림으로 배우는 자바스크립트](https://brunch.co.kr/magazine/painting-code)
+* [JavaScript Basics Before You Learn React](https://morioh.com/p/fb839c7da909)
 * [Best courses to learn Javascript](https://codeburst.io/best-courses-to-learn-javascript-in-2017-fc3a254638cc)
 * [edtech - YouTube](https://www.youtube.com/channel/UCzsmG59Td5XqzZwipgJ0qJg/playlists)
 * [(2주차) HTML, CSS와 함께 Javascript 기본 쉽게 이해하기](https://www.grabbing.me/2-HTML-CSS-Javascript-a274672c84cb4671a4fdbc17baba02dc)
@@ -840,6 +841,7 @@ Javascript
 * [Eager Loading in Angular. In Angular, there are 3 main types of… | by Chameera Dulanga | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/eager-loading-in-angular-7aab94c09ab3)
 * [Packaging your Spring Boot and Angular 2+ projects together | by Diego Hordi | Level Up Coding](https://levelup.gitconnected.com/packaging-your-spring-boot-and-angular-2-projects-together-a13a9c5efdb7)
 * [Angular - Tutorial To Prototyping | LinkedIn](https://www.linkedin.com/pulse/angular-tutorial-prototyping-indrayudh-roy/)
+* [Angular v12.0.0 릴리즈 노트](https://han41858.tistory.com/56)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
