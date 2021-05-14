@@ -349,6 +349,7 @@ Clojure
 * [Funktionale Programmierung - DSLs ganz einfach mit Clojure](https://funktionale-programmierung.de/2021/05/03/clojure-dsl.html)
 * [Homoiconicity & Feature Flags — Martin Klepsch](https://martinklepsch.org/posts/homoiconicity-and-feature-flags.html)
 * [Inside Clojure's Collection Model – Inside Clojure](https://insideclojure.org/2016/03/16/collections/)
+* [Rewriting the Technical Interview](https://aphyr.com/posts/353-rewriting-the-technical-interview)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
