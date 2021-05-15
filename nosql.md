@@ -391,6 +391,7 @@ NoSQL
 * [MONGODB SEOUL.Local - YouTube](https://www.youtube.com/watch?v=sycYpKOGTMA)
 * [Getting Started with MongoDB: What I’ve Learned | Bugsnag Blog](https://www.bugsnag.com/blog/getting-started-with-mongodb)
 * [MongoDB 이해하기 | kciter.so](https://kciter.so/posts/about-mongodb)
+* [MongoDB Database 와 Collection 그리고 Document CRUD 하기](https://developer88.tistory.com/395)
 * [Jepsen: MongoDB 4.2.6](https://jepsen.io/analyses/mongodb-4.2.6)
 * [mongita: "Mongita is to MongoDB as SQLite is to SQL"](https://github.com/scottrogowski/mongita)
   * [Mongita - 임베드 가능한 MongoDB | GeekNews](https://news.hada.io/topic?id=4137)
