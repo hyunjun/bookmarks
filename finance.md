@@ -80,6 +80,8 @@ Finance
   * [요즘 부자들 '이것'을 조용히 모으고 있다 - YouTube](https://www.youtube.com/watch?v=dPV9X72Ifxk) Kodex 배당성장 ETF Arirang고배당주
 * [배당만 따먹어도 정기예금보다 배부르네](https://news.v.daum.net/v/20210315030352457)
 * 기업은행: 국책은행 배당
+* [웬만해서는 하락하지 않는 우주방어 주식 5종목 - YouTube](https://www.youtube.com/watch?v=T3-_lDib-wg)
+  * 통신주: SK telecom LG U+ Verizon, LG생활건강, 맥쿼리인프라, 코웨이?, KT&G, 필립모리스
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
@@ -239,6 +241,7 @@ Finance
 * [**가상환경 파이썬 아나콘다 32비트 가상환경 만들고 키움 증권 API 연동 - 로스카츠의 AI 머신러닝**](https://losskatsu.github.io/it-infra/conda32)
 * [삼성전자 주가 예측 - 미완성의신](https://unfinishedgod.netlify.app/2021/04/21/python-%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90-%EC%A3%BC%EA%B0%80-%EC%98%88%EC%B8%A1/)
 * [Ehang 주가 분석 with 파이썬](https://seethefuture.tistory.com/63)
+* [How to Create a Mean Reverting Trading Algorithm - YouTube](https://www.youtube.com/watch?v=0PfgqNYTl4Q)
 * [Algorithmic Trading Using Python - Full Course - YouTube](https://www.youtube.com/watch?v=xfzGZB4HhEE)
 * [binance-trader-c1](https://github.com/yanagi7393/binance-trader-c1)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
