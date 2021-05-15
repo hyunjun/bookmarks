@@ -159,6 +159,7 @@ Business
 * [성공한 사람들과 크게 성공한 사람들의 5가지 차이점](http://ppss.kr/archives/48436)
 * [근무기강 강조하는 회사치고 잘 되는 회사 없다](http://www.huffingtonpost.kr/2015/07/02/story_n_7713246.html)
 * [효율적인 근무환경의 꿈](http://www.venturesquare.net/599724)
+* [Efficiency is the Enemy](https://fs.blog/2021/05/slack/) 효율성 slack 여유
 * [우리 팀의 근무 수칙](https://brunch.co.kr/@svillustrated/54) Team Working principles & guidelines
 * [구글의 아침은 자유가 시작된다 / Work Rules! (한국어 버전, Korean Ver.) #workrules](http://www.slideshare.net/alleciel/work-rules-korean-ver)
 * [한국 기업문화를 보여주는 6가지 사례(제보 모음)](http://www.huffingtonpost.kr/2015/08/27/story_n_8041662.html)
