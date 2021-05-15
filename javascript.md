@@ -676,6 +676,7 @@ Javascript
 * [JavaScript: Loose Equals and Strict Equals | by Valentin Podkamennyi | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/javascript-loose-equals-and-strict-equals-ab2144fcbe)
 * [자바스크립트 엔진들의 hidden class 개념과 코드 실행 최적화를 위한 inline caching](https://blog.naver.com/dlaxodud2388/222263604696)
 * [Using Objects for Lookups| freecodecamp Basic Javascript - YouTube](https://www.youtube.com/watch?v=0gyap1hPePk)
+* [Hello, Modules!. JavaScript Modules, also known as ESM… | by Sindre Sorhus | May, 2021 | 🦄 Sindre Sorhus’ blog](https://blog.sindresorhus.com/hello-modules-d1010b4e777b)
 * Array
   * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
   * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
@@ -933,6 +934,7 @@ Javascript
 * [The Road to learn React](https://leanpub.com/the-road-to-learn-react/read_full)
 * [Structure and Interpretation of Computer Programs — JavaScript Adaptation](https://sicp.comp.nus.edu.sg/index.html) SICP javascript edition
 * [try! helloworld 자바스크립트](https://thebook.io/006894/)
+* [thejsway: The JavaScript Way book](https://github.com/thejsway/thejsway)
 * [You-Dont-Know-JS: A book series on JavaScript. @YDKJS on twitter](https://github.com/getify/You-Dont-Know-JS)
 
 # Chart
@@ -1709,6 +1711,7 @@ Javascript
 * [wheelnav.js - Wheel the Force be with you wheelnav.js brings spinning into your web pages](http://wheelnavjs.softwaretailoring.net/index.html)
 * [whenever.js - A javascript re-interpretation of the Whenever esolang](https://github.com/sarahgp/whenever.js)
 * [wildflower-touch - A Wildflower IDE for touch devices](https://github.com/pschanely/wildflower-touch)
+* [winbox: WinBox is a professional HTML5 window manager for the web: lightweight, outstanding performance, no dependencies, fully customizable, open source!](https://github.com/nextapps-de/winbox)
 * [WinJS: The Windows Library for JavaScript](https://dev.windows.com/en-us/develop/winjs)
 * [WYSIWYG editors](https://github.com/cheeaun/mooeditable/wiki/Javascript-WYSIWYG-editors)
 * [xeger - More verbose and readable regular expressions](https://github.com/JonAbrams/xeger)
@@ -1792,6 +1795,7 @@ Javascript
   * [create-react-app에서 snowpack으로의 마이그레이션 | blog.rhostem.com](https://blog.rhostem.com/posts/2020-12-16-migration-from-cra-to-snowpack)
 * [vite: Next generation frontend tooling. It's fast!](https://github.com/vitejs/vite)
   * [Replit - Why We Switched From Webpack To Vite](https://blog.replit.com/vite)
+* [Volta - The Hassle-Free JavaScript Tool Manager](https://volta.sh/)
 * [workerize: Run a module in a Web Worker](https://github.com/developit/workerize)
   * [Bundling Web Workers for NPM | souporserious](https://souporserious.com/bundling-workers-for-npm/)
 * [Yarn: First Look at the New Package Manager for JavaScript](http://www.eloquentwebapp.com/yarn-new-package-manager-javascript/)
@@ -1818,7 +1822,8 @@ Javascript
 * [샘플 영상 MEAN Stack 개발 강의](https://www.youtube.com/watch?v=W24k4953KQw)
 * [Why MEAN is an ideal stack for large-scale eCommerce projects](https://hackernoon.com/why-mean-is-an-ideal-stack-for-large-scale-ecommerce-projects-7432c006de83)
 
-# [Node.js - Future Node.js releases will be from this repo. https://iojs.org](https://github.com/nodejs/node)
+# Node.js
+* [Node.js - Future Node.js releases will be from this repo. https://iojs.org](https://github.com/nodejs/node)
 * [node.js 빠르게 개발하기](https://www.youtube.com/watch?v=qGEXyRQ67e8)
 * [WEB2 - Node.js](https://opentutorials.org/course/3332)
 * [**The definitive Node.js handbook**](https://medium.freecodecamp.org/the-definitive-node-js-handbook-6912378afc6e)
@@ -2198,6 +2203,7 @@ Javascript
   * [Architectural Changes in math.js V2](http://josdejong.com/blog/2015/08/08/architectural-changes-in-mathjs-v2/)
 * Matterhorn [Announcing Matterhorn a Node.js API Server Boilerplate](https://medium.freecodecamp.org/announcing-matterhorn-a-node-js-api-server-boilerplate-4994759f1bf6)
 * [mdir.js: Mdir.js is text base file manager. Mdir.js is clone of LinM](https://github.com/la9527/mdir.js)
+* [nexe: 🎉 create a single executable out of your node.js apps](https://github.com/nexe/nexe)
 * [nip - Node Input/output Piper](https://github.com/kolodny/nip)
 * [node-cron을 사용하여 node.js에서 특정 작업에 스케줄 설정하기](https://blog.l0gic.me/node-cron%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-node-js%EC%97%90%EC%84%9C-%ED%8A%B9%EC%A0%95-%EC%9E%91%EC%97%85%EC%97%90-%EC%8A%A4%EC%BC%80%EC%A4%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/)
 * nodeenv
@@ -2226,6 +2232,7 @@ Javascript
 * [Omicron: A Simple Library to Build HTTP Servers in Node.js](https://medium.com/better-programming/omicron-a-simple-library-to-build-http-servers-in-node-js-421ef387da7c)
 * [Opbeat makes monitoring and debugging your Node.js production apps much faster, and your code better](https://opbeat.com/nodejs/)
 * [pg-live-select](https://github.com/numtel/pg-live-select)
+* [pkg: Package your Node.js project into an executable](https://github.com/vercel/pkg)
 * [Playwright - a Node library to automate Chromium, Firefox and WebKit with a single API](https://playwright.dev/)
   * [playwright: Node.js library to automate Chromium, Firefox and WebKit with a single API](https://github.com/microsoft/playwright)
   * [Playwright 1.0 Release Automates Chromium, Firefox, and WebKit-Based Browsers](https://www.infoq.com/news/2020/05/playwright-10-browser-automation/)
@@ -2263,6 +2270,7 @@ Javascript
   * [Schematics — An Introduction](https://blog.angular.io/schematics-an-introduction-dc1dfbc2a2b2)
 * [sequelize](https://okdevtv.com/mib/nodejs/sequelize)
   * [🛢가볍게 시작하는 Node.js ORM #sequelize - YouTube](https://www.youtube.com/watch?v=lyNcUWQ9d4g)
+* [shelljs: Portable Unix shell commands for Node.js](https://github.com/shelljs/shelljs)
 * [Shunter - a Node.js application built to read JSON and translate it into HTML](https://github.com/nature/shunter)
 * [smart-table-scroll - Build 1MM row tables with native scroll bars by reusing and yielding nodes](https://github.com/cmpolis/smart-table-scroll)
 * [stochator - Little utility library for random number generation](https://github.com/heydenberk/stochator#stochator)
@@ -3325,6 +3333,7 @@ Javascript
 * [Angular: Unit Testing Jasmine, Karma (step by step)](https://medium.com/frontend-fun/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4)
 * [cypress - The web has evolved. Finally, testing has too](https://www.cypress.io/)
   * [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
+* [folio: A customizable test framework to build your own test frameworks](https://github.com/microsoft/folio) typescript
 * [gentest - Generative testing for JavaScript. Save time and catch more bugs by letting the computer write test cases for you. WIP](https://github.com/graue/gentest)
 * Jasmine [An Introduction to Jasmine Unit Testing](https://medium.freecodecamp.org/jasmine-unit-testing-tutorial-4e757c2cbf42)
 * [**JavaScript & Node.js Testing Best Practices**](https://github.com/goldbergyoni/javascript-testing-best-practices/blob/master/readme.kr.md)
@@ -3499,9 +3508,12 @@ Javascript
 * [typescript 기반의 리액트 인터페이스(interface, type) 이해하기](https://blog.naver.com/pjt3591oo/222342618084)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
+  * [Replit - CLUI: Building a Graphical Command Line](https://blog.replit.com/clui)
 * [foam: A personal knowledge management and sharing system for VSCode](https://github.com/foambubble/foam)
 * [geo-pattern: Create beautiful generative geometric background images from a string ✨ TypeScript port of jasonlong/geo_pattern. Supports both Node.js and Browser](https://github.com/mooyoul/geo-pattern)
+* [hatetris: Tetris which always gives you the worst piece](https://github.com/qntm/hatetris)
 * [kutt - Free Modern URL Shortener. https://kutt.it ](https://github.com/thedevs-network/kutt)
+* [orbit: Experimental spaced repetition platform for exploring new ideas in memory augmentation and programmable attention](https://github.com/andymatuschak/orbit)
 * [saas: Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript](https://github.com/async-labs/saas)
 * [serina - tweet downloader https://libsora.so/serina ](https://github.com/if1live/serina)
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
