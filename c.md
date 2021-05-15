@@ -393,6 +393,7 @@ C
 * [pagesim - Simulation of common page replacement algorithms used by operating systems to manage memory usage](https://github.com/selbyk/pagesim)
 * [pcre2](https://github.com/luvit/pcre2)
   * [pcre2 sample code](https://github.com/dsindex/blog/wiki/%5Bc%5D-pcre2-sample-code)
+* [permafrost-engine: An OpenGL RTS game engine written in C](https://github.com/eduard-permyakov/permafrost-engine)
 * [picoc - A very small C interpreter](https://github.com/zsaleeba/picoc)
 * [pijFORTHos - A bare-metal FORTH operating system for Raspberry Pi](https://github.com/organix/pijFORTHos)
 * [pingfs - Stores your data in ICMP ping packets](https://github.com/yarrick/pingfs)
