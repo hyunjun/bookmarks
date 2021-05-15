@@ -670,7 +670,8 @@ Docker
 # Harbor
 * [**Private Docker Registry를 구축하기 위한 오픈소스 Harbor 도입기**](https://engineering.linecorp.com/ko/blog/harbor-for-private-docker-registry/)
 
-# [Kubernetes](http://kubernetes.io)
+# Kubernetes
+* [Kubernetes](http://kubernetes.io)
 * [쿠버네티스 문서](https://kubernetes.io/ko/docs/home/)
 * [튜토리얼](https://kubernetes.io/ko/docs/tutorials/)
 * [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
@@ -962,6 +963,7 @@ Docker
 * [토크ON세미나 쿠버네티스 살펴보기 5강 - Docker-Compose(도커 컴포즈) 실습 | T아카데미 - YouTube](https://www.youtube.com/watch?v=mMfyyUbwtBE)
 * [토크ON세미나 쿠버네티스 살펴보기 6강 - Kubernetes(쿠버네티스) 실습 1 | T아카데미 - YouTube](https://www.youtube.com/watch?v=G0-VoHbunks)
 * [토크ON세미나 쿠버네티스 살펴보기 7강 - Kubernetes(쿠버네티스) 실습 2 | T아카데미 - YouTube](https://www.youtube.com/watch?v=v6TUgqfV3Fo)
+* [IDG 블로그 | 쿠버네티스를 좀 더 공격적으로 이용해야 하는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/193644)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
