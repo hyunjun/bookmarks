@@ -1097,6 +1097,7 @@ Python
   * [profiling - An interactive continuous Python profiler](https://github.com/what-studio/profiling)
   * [Profiling CPython at Instagram](https://engineering.instagram.com/profiling-cpython-at-instagram-89d4cbeeb898)
   * [Profiling and optimizing Python code](https://osf.io/upav8/)
+  * [Profiling Python Code](https://devopedia.org/profiling-python-code)
   * [Building FunctionTrace, a graphical Python profiler](https://hacks.mozilla.org/2020/05/building-functiontrace-a-graphical-python-profiler/)
   * [파이썬 코드 프로파일링에 유용한 라이브러리 5가지 - ITWorld Korea](https://www.itworld.co.kr/news/176579) Time, Timeit, cProfile, Pyinstrument, Py-spy, Yappi
   * [Pympler - a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application](https://pythonhosted.org/Pympler)
