@@ -937,6 +937,7 @@ Linux
 * [Keep : A personal shell command keeper](https://hackernoon.com/keep-a-personal-shell-command-keeper-dac3ab488626)
 * [kime: Korean IME](https://github.com/Riey/kime)
 * [Lightning is a tool designed to allow you to find and open files as fast as physically possible](https://github.com/fouric/lightning-cd)
+* [lima: Lima: Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac")](https://github.com/AkihiroSuda/lima)
 * [Linuxbrew - a fork of Homebrew, the Mac OS package manager, for Linux](https://github.com/Linuxbrew/brew)
   * [Linuxbrew A fork of Homebrew for Linux](http://brew.sh/linuxbrew/)
 * [loadlibrary - Porting Windows Dynamic Link Libraries to Linux](https://github.com/taviso/loadlibrary)
