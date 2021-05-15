@@ -1323,6 +1323,8 @@ Javascript
 * [create JS](http://createjs.com/Home)
 * [Crypton is a framework for creating zero-knowledge applications with JavaScript](https://github.com/SpiderOak/crypton)
 * [CubbyFlow - voxel-based fluid simulation engine for computer games based on Jet framework](https://github.com/utilForever/CubbyFlow)
+* [dataflow: An experimental self-hosted Observable notebook editor, with support for FileAttachments, Secrets, custom standard libraries, and more!](https://github.com/asg017/dataflow)
+  * [Introducing Dataflow, a self-hosted Observable Notebook Editor / Alex Garcia / Observable](https://observablehq.com/@asg017/introducing-dataflow)
 * day.js [Moment.js를 Day.js로 대체하기](https://john015.github.io/moment-js%EB%A5%BC-day-js%EB%A1%9C-%EB%8C%80%EC%B2%B4%ED%95%98%EA%B8%B0)
 * [Delivery and Shipping Tracking Service https://tracker.delivery/guide ](https://github.com/shlee322/delivery-tracker)
 * discord.js [How to create a music bot using Discord.js](https://medium.freecodecamp.org/how-to-create-a-music-bot-using-discord-js-4436f5f3f0f8)
