@@ -630,6 +630,7 @@ Java
 * [Java 14 Released](https://www.infoq.com/news/2020/03/java14-released/)
 * [New Relic Introduces Real-Time Java Profiling](https://www.infoq.com/news/2020/03/new-relic-java-profiling/)
 * [Records Come to Java](https://blogs.oracle.com/javamagazine/records-come-to-java)
+* [Why Java's Records Are Better\* Than Lombok's @Data and Kotlin's Data Classes // nipafx](https://nipafx.dev/java-record-semantics/)
 
 # Java15
 * [자바 8~15까지 변경 내역과 JVM 실제 통계 외 재미있는 개발 이야기](https://www.youtube.com/watch?v=poyLhO8W8MM)
