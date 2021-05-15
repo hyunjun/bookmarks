@@ -234,6 +234,7 @@
 * [JavaScript Technical Interview Question: is React a MVC or MVVM?](https://medium.com/javascript-in-plain-english/javascript-interview-question-is-react-an-mvc-or-mvvm-ac2ea2a5127d)
 * [Commonly Used Design Patterns in JavaScript](https://medium.com/better-programming/commonly-used-design-patterns-in-javascript-bfcd91827002)
 * [7 best JavaScript Design Patterns You Should Know](https://morioh.com/p/738f2be15243)
+* [ES6로 구현하는 디자인 패턴 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222351379222)
 
 # Python
 * [Python: Design Patterns](https://www.linkedin.com/learning/python-design-patterns)
