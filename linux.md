@@ -106,6 +106,7 @@ Linux
 * [Getting started with btrfs for Linux | Opensource.com](https://opensource.com/article/20/11/btrfs-linux)
 * [Tricky Signal Tracing in Kernel](https://www.ooseel.net/me/2020/12/tricky-signal-tracing-in-kernel/)
 * [Perl and Python one-liners in bash, cmd, and PowerShell](https://www.johndcook.com/blog/2020/12/14/shells-quoting-and-one-liners/)
+* [**My Favorite One Liners | Muhammad**](https://muhammadraza.me/2021/Oneliners/)
 * [9 things to do in your first 10 minutes on a Linux server | Opensource.com](https://opensource.com/article/20/12/linux-server) 서버를 새로 받은 경우 할 일
 * [커맨드라인 인터페이스, 셸, 터미널이란? | 44BITS](https://www.44bits.io/ko/keyword/command-line-interface-cli-shell-and-terminal)
 * [**리눅스/맥 커맨드라인 셸 입문자를 위한 생존 가이드 | 44BITS**](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner)
@@ -341,6 +342,7 @@ Linux
   * [Empty the linux buffer cache](http://www.commandlinefu.com/commands/view/1026/empty-the-linux-buffer-cache)
   * [How do you empty the buffers and cache on a Linux system?](http://unix.stackexchange.com/questions/87908/how-do-you-empty-the-buffers-and-cache-on-a-linux-system)
   * [리눅스 서버의 메모리 간단 관리 방법(사용량 확인/캐시삭제/정기관리)](https://osasf.net/discussion/587/리눅스-서버의-메모리-간단-관리-방법-사용량-확인-캐시삭제-정기관리)
+  * [Dropping cache didn’t drop cache](https://blog.twitter.com/engineering/en_us/topics/open-source/2021/dropping-cache-didnt-drop-cache.html)
 * [More shell, less egg](http://leancrew.com/all-this/2011/12/more-shell-less-egg/) `tr -cs A-Za-z '\n' < [input] | tr A-Z a-z | sort | uniq -c | sort -rn | sed ${1}q`
 * [Extract it](http://extractit.mawalabs.de/) command line to extract compressed file
 * [Designing Command Line Experiences](http://neovintage.org/product/design/2015/10/01/designing-command-line-experiences/)
@@ -608,6 +610,7 @@ Linux
 * `ps`
   * `ps -T -p <process num>` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
   * `diff <(ps -aux) <(ps -ux)` [linux process substitution이 어떻게 동작하는지 간단하게 알아봅시다](https://codingdog.tistory.com/entry/linux-process-substitution%EC%9D%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EC%A7%80-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+  * [ProcMon-for-Linux: Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system](https://github.com/Sysinternals/ProcMon-for-Linux/) process monitor
 * [pushd and popd - Linux Shell Scripting Essentials](https://www.oreilly.com/library/view/linux-shell-scripting/9781785284441/ch03s11.html)
 * `pwd`
   * [The myriad meanings of pwd in Unix systems](https://qmacro.org/2020/11/08/the-meaning-of-pwd-in-unix-systems/)
@@ -893,6 +896,7 @@ Linux
   * Links, Lynx, w3m, Googler
 * [Linux Productivity Tools](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf)
 * [20 productivity tools for the Linux terminal](https://opensource.com/article/20/6/productivity-tools-linux-terminal)
+* [Linux Terminal Tools](pdfs/LPT_LISA.pdf)
 * [4 Best Terminal Browsers for Linux Command Line](https://itsfoss.com/terminal-web-browsers/) W3M, Lynx, Links2, eLinks
 * [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
 * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
@@ -999,6 +1003,7 @@ Linux
 * [hazelnut is an APACHE licensed library written in Python designed to provide a simple and pythonic way to parse the /proc/meminfo file on LINUX based systems](https://github.com/mrsmn/hazelnut)
 * Stack and Heap
   * [THE STACK AND THE HEAP](https://www.cs.berkeley.edu/~jrs/61b/lec/09) java stack, stack frame, and heap
+  * [Where the top of the stack is on x86 - Eli Bendersky's website](https://eli.thegreenplace.net/2011/02/04/where-the-top-of-the-stack-is-on-x86/)
 * [linux 환경에서의 메모리 보호기법을 알아보자(1)](https://bpsecblog.wordpress.com/2016/05/16/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%B3%B4%ED%98%B8%EA%B8%B0%EB%B2%95/) ASLR : Address Space Layout Randomization
 * [번역 Linux에서 메모리를 다 써버렸을 때 일어나는 일](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-linux%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A5%BC-%EB%8B%A4-%EC%8D%A8%EB%B2%84%EB%A0%B8%EC%9D%84-%EB%95%8C-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%9D%BC-9dadba29c89c)
 * [**Out Of Memory Killer 회피하기**](https://medium.com/@EJSohn/out-of-memory-killer-%ED%9A%8C%ED%94%BC%ED%95%98%EA%B8%B0-9efc65f88c92)
