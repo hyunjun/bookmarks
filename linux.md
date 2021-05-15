@@ -858,6 +858,7 @@ Linux
 * [Using Multiple NICs on Linux](https://tech.ssut.me/using-multiple-nics-on-linux/) ip iproute2
 * [Common interface for NIC statistics — Jakub Kicinski](https://people.kernel.org/kuba/common-interface-for-nic-statistics)
 * [iptables: How Kubernetes Services Direct Traffic to Pods | Dustin Specker](https://dustinspecker.com/posts/iptables-how-kubernetes-services-direct-traffic-to-pods/)
+* [A Deep Dive into Iptables and Netfilter Architecture](https://netpple.github.io/2021/deep-dive-iptables-netfilter-architecture/)
 
 # Kernel
 * [linux-insides - A little bit about a linux kernel](https://github.com/0xAX/linux-insides)
