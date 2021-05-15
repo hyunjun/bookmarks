@@ -102,6 +102,7 @@
 * [inline, noinline 한번에 이해하기](https://medium.com/harrythegreat/kotlin-inline-noinline-%ED%95%9C%EB%B2%88%EC%97%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1d54ff34151c)
 * [카카오가 메시징 서버에 자바 대신 코틀린 써본 경험담](https://byline.network/2018/09/5-20)
 * [Full-stack Reactive Kotlin with Project Reactor & Spring Boot 2](https://speakerdeck.com/mkheck/full-stack-reactive-kotlin-with-project-reactor-and-spring-boot-2)
+* [Kotlin으로 Spring 개발할 때 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-kotlin/)
 * [Reactive Streams and Kotlin Flows](https://medium.com/@elizarov/reactive-streams-and-kotlin-flows-bfd12772cda4)
 * [Hacking with Kotlin: prepending](https://proandroiddev.com/hacking-with-kotlin-prepending-d1ba87b64846)
 * [코틀린으로 구현하는 당신의 첫번째 Node.js app](https://devsh.tistory.com/135)
