@@ -1711,7 +1711,6 @@ Scala
 * [cached compilation for sbt](http://eed3si9n.com/cached-compilation-for-sbt)
 * [Mirco Dotta—Crack Open Sbt and Master your Build Times - YouTube](https://www.youtube.com/watch?v=Mx_gQz8MTrI)
 * [현프 3-2 스칼라 패키지 관리자 sbt 고찰 : 클리앙](https://www.clien.net/service/board/cm_app/13709851)
-* [Scala 3 in sbt 1.5 | The Scala Programming Language](https://scala-lang.org/blog/2021/04/08/scala-3-in-sbt.html)
 * [Should you learn #Scala2 or #Scala3 in 2021? - YouTube](https://www.youtube.com/watch?v=GzVu5UiUFEk)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=eb7eaOMlwGs) scala.jfro.io scala3
 * [maven2sbt | maven2sbt](https://maven2sbt.kevinly.dev)
@@ -1752,6 +1751,7 @@ Scala
 
 # Scala 3
 * [practice - extension method & typeclass](https://gist.github.com/hyunjun/19a8514f8fec476b11554177f9192768#file-extension_method_and_typeclass-scala)
+* [Scala 3 - YouTube](https://www.youtube.com/playlist?list=PLmtsMNDRU0BwsVUbhsH2HMqDMPNhQ0HPc)
 * [TOWARDS SCALA 3](http://www.scala-lang.org/blog/2018/04/19/scala-3.html)
 * [A Tour of Scala 3 - Martin Odersky](https://www.youtube.com/watch?v=_Rnrx2lo9cw)
 * [A quiet, attractive new programming language (Scala 3)](https://alvinalexander.com/scala/scala-3-dotty-0.19-attractive-programming-language)
@@ -1794,6 +1794,7 @@ Scala
 * [Implementing Type classes in Scala 3 | by ayush mittal | Dec, 2020 | Medium](https://ayushm4489.medium.com/implementing-type-classes-in-scala-3-13c5ab38b91d)
 * [Automatic UI generation with Scala 3's type class derivation | kavedaa programming blog](https://kavedaa.github.io/auto-ui-generation/auto-ui-generation.html)
 * [Typeclasses in Scala 3 | 47 Degrees](https://www.47deg.com/blog/scala-3-typeclasses/)
+* [Automatically Deriving Typeclass Instances in Scala 3 | 47 Degrees](https://www.47deg.com/blog/scala-3-deriving-typeclasses/)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=v9Qgb0c8Rx8)
   * case class/object pattern matching, extention method
   * `def doubleInt(n: 2 | 3 | 10): Int = n * 2` function parameter에 type대신 value도 가능, 즉 특정 값을 type 대신 사용 가능 e.g. `val n10: 10 = 10`
@@ -1815,10 +1816,11 @@ Scala
 * [Tuples bring generic programming to Scala 3 | The Scala Programming Language](https://www.scala-lang.org/2021/02/26/tuples-bring-generic-programming-to-scala-3.html) Heterogeneous Lists, HLists
 * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=3HS1v4A5MaE&t=500s)
 * [What's new in Scala 3: Implicits! - YouTube](https://www.youtube.com/watch?v=TdwkzNq2gY0)
+* [How Scala 3 Givens Work with Scala 2 Implicits - YouTube](https://www.youtube.com/watch?v=fStjOA0Wep4)
+* [Implicits in Scala 3 – Explicitly for the People? by Mikołaj Koziarkiewicz - YouTube](https://www.youtube.com/watch?v=VrCuIWTkQiA)
 * [The future of Scaladoc. Scala 3, like all modern languages… | by Krzysztof Romanowski | VirtusLab | Mar, 2021 | Medium](https://medium.com/virtuslab/the-future-of-scaladoc-8bf78a4e2988)
 * [Pick any Card: Write Better Data Structures with Scala | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=mn5ZEuo8C80)
 * [Scala 3: Infix Operator Notation. For a long time, Scala has supported a… | by Dean Wampler | Scala 3 | Mar, 2021 | Medium](https://medium.com/scala-3/scala-3-infix-operator-notation-26bd7c13d0a3)
-* [How Scala 3 Givens Work with Scala 2 Implicits - YouTube](https://www.youtube.com/watch?v=fStjOA0Wep4)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=8O-Qxgf28Ys) given extension
 * [Context is King. Context functions in Scala 3 | by Adam Warski | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/context-is-king-20f533474cb3)
 * [Scala 3: Extension Methods - YouTube](https://www.youtube.com/watch?v=c8vBO8hhYEA)
@@ -1858,7 +1860,9 @@ Scala
   * [Jon Pretty - The Future of Scala](https://www.youtube.com/watch?v=KEhGfpRpSOg)
   * [Jon Pretty — Fast and Furious - YouTube](https://www.youtube.com/watch?v=4HVySqElcnI)
   * [Justin Kaeser—Integrating Developer Experiences - YouTube](https://www.youtube.com/watch?v=lncUc4oHwxg)
-* `sbt ++3.0.0! console`
+* sbt
+  * `sbt ++3.0.0! console`
+  * [Scala 3 in sbt 1.5 | The Scala Programming Language](https://scala-lang.org/blog/2021/04/08/scala-3-in-sbt.html)
 * [Scala3-migrate: a tool making it easier to migrate to Scala 3 - Scala 3 Release Projects - Scala Contributors](https://contributors.scala-lang.org/t/scala3-migrate-a-tool-making-it-easier-to-migrate-to-scala-3/4446/2)
 * [scodec: Scala combinator library for working with binary data](https://github.com/scodec/scodec)
   * [YOW! Lambda Jam 2020 - Michael Pilquist - Scodec for Scala 3 - YouTube](https://www.youtube.com/watch?v=2eTwf78FJmc)
