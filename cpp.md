@@ -181,6 +181,8 @@ C++
 * [How C++ Resolves a Function Call](https://preshing.com/20210315/how-cpp-resolves-a-function-call/)
 * [A friendly guide to the syntax of C++ method pointers | Opensource.com](https://opensource.com/article/21/2/ccc-method-pointers)
 * [Intel oneAPI and DPC++(heewook 2021 04 19 15 37 48) - YouTube](https://www.youtube.com/watch?v=ONhxOOpZuHM)
+* [Papers and Presentations](https://sean-parent.stlab.cc/papers-and-presentations/)
+* [Improving Print Logging with Line Pos Info & Modern C++ - C++ Stories](https://www.cppstories.com/2019/04/file-pos-log/)
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
