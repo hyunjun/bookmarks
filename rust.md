@@ -297,6 +297,7 @@
   * 컴파일 또는 테스트 에러가 나는 여러개의 카테고리 별 연습들로 구성 : 변수, 문자열, 쓰레드, Trait, 모듈, 펑션, 에러처리 등
   * watch 기능으로 폴더의 파일을 수정하면 자동으로 결과가 확인되고, 중간에 hint 도 보면서 진행가능
   * 컴파일 에러시 rustc --explain E0282 처럼 관련 설명을 보라는 문구 출력
+* Rustonomicon [Introduction - The Rustonomicon](https://doc.rust-lang.org/nomicon/)
 
 # WebAssembly
 * [Rust, WebAssembly, and Javascript Make Three: An FFI Story](https://www.youtube.com/watch?v=nvLw_XKlZaU)
