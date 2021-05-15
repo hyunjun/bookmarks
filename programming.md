@@ -375,6 +375,7 @@ Programming
 * [23 Active Software Engineering Publications on Medium | by Anupam Chugh | Mar, 2021 | Better Programming](https://betterprogramming.pub/23-active-software-engineering-publications-on-medium-a17484223b9a) engineering blog
 * [5 Best Practices for Over-the-Air (OTA) Updates - IoT Central](https://www.iotcentral.io/blog/5-best-practices-for-over-the-air-ota-updates)
 * [기술 스택 전면 교체와 고려해야 할 사항](https://jahong.tistory.com/entry/%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D-%EC%A0%84%EB%A9%B4-%EA%B5%90%EC%B2%B4%EC%99%80-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%ED%95%A0-%EC%82%AC%ED%95%AD)
+* [XY 문제 | 허튼소리](https://hut.mearie.org/xy-problem/) 좋은 질문 하기
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -1178,6 +1179,7 @@ Programming
   * [구글, 사이트 신뢰성 워크북(SRE Workbook) 공개](https://www.44bits.io/ko/post/news--site-reliability-workbook-is-published)
   * [구글에서 세 번째 SRE 도서 Building Secure and Reliable Systems 무료 공개](https://www.44bits.io/ko/post/third-free-sre-book-build-seruce-and-reliable-system)
 * [Software Design for Flexibility | The MIT Press](https://mitpress.mit.edu/books/software-design-flexibility)
+* [Software Engineering Course (SWEBOK) | IEEE Computer Society](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 * [Values and objects in programming languages : MacLennan, Bruce J. : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/valuesobjectsinp00macl/mode/2up)
 * [ZLibrary Part of Z-Library project. The world's largest ebook library](https://b-ok.cc/)
 
@@ -1652,7 +1654,7 @@ Programming
 * [데이터 실무자들이 추천하는 데이터 사이언스 온라인 무료 강의 13개](http://commeci.kr/?p=479)
 * [부트캠퍼를 위한 컴퓨터 과학](https://csbooks.wisedog.net/)
 * [누구나 이해하는 컴퓨터 하드웨어 개요 - YouTube](https://www.youtube.com/watch?v=k4g49yTY1RQ&list=PLIGFku39tFfbMweTcTx5GWF67em5kITnM)
-* [컴퓨터 개념 및 실습_서울대학교 공과대학 민상렬 교수님 - YouTube](https://www.youtube.com/playlist?list=PLpDJrhQ7qbNHjCGC42CrtGq1FXMskBi3K)
+* [컴퓨터 개념 및 실습 서울대학교 공과대학 민상렬 교수님 - YouTube](https://www.youtube.com/playlist?list=PLpDJrhQ7qbNHjCGC42CrtGq1FXMskBi3K)
 * [Here are 380 Ivy League courses you can take online right now for free](https://medium.freecodecamp.org/here-are-380-ivy-league-courses-you-can-take-online-right-now-for-free-9b3ffcbd7b8c)
 * [560+ Free Online Programming & Computer Science Courses You Can Start in February](https://medium.freecodecamp.org/free-online-programming-computer-science-courses-you-can-start-in-february-e621d959e64)
 * [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
@@ -1761,6 +1763,8 @@ Programming
 * [Here’s How I Solved a Weird Bug Using Tried and True Debugging Strategies | CSS-Tricks](https://css-tricks.com/heres-how-i-solved-a-weird-bug-using-tried-and-true-debugging-strategies/)
 * [디버깅으로 문제 해결하는 방법 - YouTube](https://www.youtube.com/watch?v=bJKr70z54Mc) IntelliJ + Java
 * [GOTO 2017 • Debugging Under Fire: Keep your Head when Systems have Lost their Mind • Bryan Cantrill - YouTube](https://www.youtube.com/watch?v=30jNsCVLpAE)
+* Ozcode [Debugging Solutions from Dev to Production - Ozcode](https://oz-code.com/)
+  * [Advanced Techniques for Production Debugging - YouTube](https://www.youtube.com/watch?v=eghHZvffilA)
 
 # DevOps
 * [60 best open source tools to do DevOps](https://elasticbox.com/blog/devops-open-source-tools/)
@@ -1805,6 +1809,7 @@ Programming
 * [인터뷰 카카오 공용준님의 "DevOps: on going pursuit of effectiveness" - YouTube](https://www.youtube.com/watch?v=0wvcWwFnZD8)
   * [카카오 공용준님의 "DevOps: on going pursuit of effectiveness"](https://www.slideshare.net/jrogue/devops-on-going-pursuit-of-effectiveness)
 * [LINE 광고 서버 개발 팀의 DevOps 문화 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-ads-devops-culture/)
+* [How To Become A DevOps Engineer In 2021: A Comprehensive Guide](https://devopscube.com/become-devops-engineer)
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
