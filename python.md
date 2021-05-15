@@ -3442,6 +3442,7 @@ Python
   * [Pycharm Python Console에서 한글깨짐 해결방법](https://www.martinii.fun/entry/Pycharm-Python-Console%EC%97%90%EC%84%9C-%ED%95%9C%EA%B8%80%EA%B9%A8%EC%A7%90-%ED%95%B4%EA%B2%B0%EB%B0%A9%EB%B2%95)
   * [PyCharm vs VSCode. Is it time to change your IDE? | by S Ahmad | Towards Data Science](https://towardsdatascience.com/pycharm-vs-vscode-9ffbed46ac9e)
   * [Getting Started with PyCharm for Python Anaconda Plugin - YouTube](https://www.youtube.com/watch?v=x3wFzjh3L_Q)
+  * [PyCharm Tutorial | Full Course 2021 - YouTube](https://www.youtube.com/watch?v=hc50ALh_x5g)
   * [Jupyter notebook support - Help | PyCharm](https://www.jetbrains.com/help/pycharm/jupyter-notebook-support.html)
     * [Are you still using JupyterLab?. There is a new premium product in the… | by Roman Orac | Towards Data Science](https://towardsdatascience.com/are-you-still-using-jupyterlab-ce1a4339c0a9)
   * Photonai [21 Techniques to Write Better Code | by Bruce H. Cottman, Ph.D. | The Startup | Medium](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
