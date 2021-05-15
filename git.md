@@ -187,6 +187,7 @@ Git
 * [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.slideshare.net/subicura/gitops-cicd-156402754)
 * [GitOps Observability — Visualizing the journey of a container | by Samiya Akhtar | Nov, 2020 | Medium](https://samiyaakhtar.medium.com/gitops-observability-visualizing-the-journey-of-a-container-5f6ef1f3c9d2)
 * [깃옵스가 '아직' 주류로 부상할 준비가 되지 않은 이유 - ITWorld Korea](https://www.itworld.co.kr/news/193624) gitops
+* [Observability and GitOps - DZone DevOps](https://dzone.com/articles/observability-and-gitops)
 * [복잡한 커밋 로그를 정리해줄 구원자, gitmoji](https://pilgwon.github.io/post/gitmoji)
 * [Everything You Always Wanted To Know About GitHub (But Were Afraid To Ask)](https://gh.clickhouse.tech/explorer/)
 * [Commits are snapshots, not diffs - The GitHub Blog](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
@@ -200,6 +201,7 @@ Git
 * [Git Workflow Diagram](https://happygrammer.github.io/guide/git-workflow-diagram/)
 * [What’s wrong with Git? A conceptual design analysis | the morning paper](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
 * [Git as a NoSql database](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/)
+* [Scaling monorepo maintenance | The GitHub Blog](https://github.blog/2021-04-29-scaling-monorepo-maintenance/)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
