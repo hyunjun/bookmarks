@@ -269,6 +269,8 @@ Go
 * [좋은 구문 오류 생성하기](http://dalinaum.github.io/compiler/2021/02/04/yyerror.html)
 * [Working with Embed in Go 1.16 Version](https://lakefs.io/working-with-embed-in-go/)
 * [go-profiler-notes/block.md at main · DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes/blob/main/block.md)
+* [Build A Simple Terminal Emulator In 100 Lines of Golang](https://ishuah.com/2021/03/10/build-a-terminal-emulator-in-100-lines-of-go/)
+* [Branchless Coding in Go | Matt Nakama](https://mattnakama.com/blog/go-branchless-coding/)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
