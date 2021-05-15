@@ -36,6 +36,7 @@ Presentation
 * [무적의 투자유치용 덱 작성법](http://bridge.500startups.co.kr/%EB%AC%B4%EC%A0%81%EC%9D%98-%ED%88%AC%EC%9E%90%EC%9C%A0%EC%B9%98%EC%9A%A9-%EB%8D%B1-%EC%9E%91%EC%84%B1%EB%B2%95/)
 * [여러분은 발표하는 기회를 잡아야 합니다](http://aerosky.tistory.com/entry/%EC%97%AC%EB%9F%AC%EB%B6%84%EC%9D%80-%EB%B0%9C%ED%91%9C%ED%95%98%EB%8A%94-%EA%B8%B0%ED%9A%8C%EB%A5%BC-%EC%9E%A1%EC%95%84%EC%95%BC-%ED%95%A9%EB%8B%88%EB%8B%A4)
 * [손정의회장의 탁월한 커뮤니케이션 능력](https://estimastory.com/2019/08/15/sonsvf2/)
+* [손정의회장의 탁월한 스토리텔링 능력 | 에스티마의 인터넷이야기 EstimaStory.com](https://estimastory.com/2021/05/15/softbank2021/)
 * [팀원 성장시키기 : 발표 컨설팅](https://zzsza.github.io/diary/2019/10/20/helping-presentation/)
 * [AZ-5 button - Something that is believed to resolve a problem but actually only exacerbates it](https://www.urbandictionary.com/define.php?term=AZ-5%20button) Chernobyl에 나온 위급상황에 누르는 버튼. 실제로는 더 악화시켜서 폭발시킴. 비유에 사용가능할 듯
 * [프레젠테이션을 잘하는 법](https://ppss.kr/archives/207368)
