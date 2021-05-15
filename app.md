@@ -402,6 +402,8 @@ App
 
 # Comminucation
 * [“우리도 있다” 업무용 오픈소스 화상회의 툴 10선 - ITWorld Korea](https://www.itworld.co.kr/news/173069)
+* [Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://excalidraw.com/)
+  * [Excalidraw - 오픈소스 가상 칠판 협업도구 | GeekNews](https://news.hada.io/topic?id=4234)
 * [makepagecall.com/](https://www.makepagecall.com/) 화상 통화 + canvas(칠판)
 * [wire](https://wire.com/) skype alternative
 
@@ -858,6 +860,7 @@ App
 * [Commander One Mac 무료 듀얼 패널 파일 관리자](http://mac.eltima.com/ko/file-manager.html)
 * compress
   * [Password Protect Zip Files in Mac OS X](http://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/)
+* [CP-M-for-OS-X: A z80 emulator + CP/M-80 reimplementation that intends to allow original CP/M software to be used under OS X](https://github.com/TomHarte/CP-M-for-OS-X)
 * [CubicSDR - Cross-Platform and Open-Source Software-Defined Radio Application](http://cubicsdr.com/)
 * [debit and credit](https://debitandcredit.app/) 가계부
 * [diskmaker x - OS X 요세미티 설치 디스크를 클릭만으로 뚝딱 만들 수 있는 'DiskMaker X'](http://macnews.tistory.com/2548)
