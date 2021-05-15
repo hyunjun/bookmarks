@@ -538,6 +538,7 @@ Linux
 * `nohup`
   * [리눅스 nohup 사용법](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_nohup_%EC%82%AC%EC%9A%A9%EB%B2%95)
   * [리눅스 nohup 명령어 : 터미널과 연결이 끊어져도 계속 돈다](https://codingdog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-nohup-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%84%B8%EC%85%98%EA%B3%BC-%EC%97%B0%EA%B2%B0%EC%9D%B4-%EB%81%8A%EC%96%B4%EC%A0%B8%EB%8F%84-%EA%B3%84%EC%86%8D-%EB%8F%88%EB%8B%A4)
+  * [shell 원격 접속해서 시간 오래 걸리는 작업, 접속 끊어도 계속 진행되게 하기 nohup, disown, screen | 웹으로 말하기](https://mytory.net/archives/2340)
 * `history`
   * `history -c` `history -d <line number>` [리눅스 history 지우기](https://zetawiki.com/wiki/%EB%A6%AC%EB%88%85%EC%8A%A4_history_%EC%A7%80%EC%9A%B0%EA%B8%B0)
   * [How To : 리눅스에서 명령 사용 요약하기 - ITWorld Korea](http://www.itworld.co.kr/news/158396) HISTSIZE, HISTIGNORE
