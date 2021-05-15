@@ -96,6 +96,16 @@ Programming Language
 * [DSL Development Environment](https://www.jetbrains.com/mps/)
 * [The little engine that could: Linchpin DSL for Pinterest ranking](https://medium.com/@Pinterest_Engineering/the-little-engine-that-could-linchpin-dsl-for-pinterest-ranking-17699add8e56)
 
+# Finite State Machine FSM
+* [awesome-fsm: 🤖 A curated list of awesome resources related to finite state machines and statecharts](https://github.com/leonardomso/awesome-fsm)
+* [Verifying State Machine Behavior Using test.check](http://blog.guillermowinkler.com/blog/2015/04/12/verifying-state-machine-behavior-using-test-dot-check/)
+* [Designing a State Machine without conditionals](http://jjcorrea.github.io/2015/05/05/designing-a-state-machine-without-conditionals/)
+* [From Live Sequence Charts to State Machines and Back: A Guided Tour](http://fots.ua.ac.be/teaching/modelingpapers/LSC2SM-Schobbens.pdf)
+* [reduce-fsm provides a simple way to specify clojure finite state machines](https://github.com/cdorrat/reduce-fsm/blob/master/README.md)
+* [FLVIz - Finite Automata Simulator written in QT/Graphviz](https://github.com/wkoszek/flviz)
+* [State machine 코드를 작성하기 위한 방법 다시 생각해보기](https://gist.github.com/luncliff/4874c74a32331db357d4ede80db1610d)
+* [State machines are wonderful tools](https://nullprogram.com/blog/2020/12/31/)
+
 # Languages
 * [Programming languages](https://github.com/showcases/programming-languages)
 * [들어보셨나요? 한글 프로그래밍 언어 3종](http://www.bloter.net/archives/240918)
@@ -484,15 +494,6 @@ Programming Language
 * [Zephir - Hello World - 완두블로그](https://wani.kr/posts/2015/05/03/zephir-1/)
 * [Zig Programming Language](https://ziglang.org/)
   * [Zig in 30 minutes](https://gist.github.com/ityonemo/769532c2017ed9143f3571e5ac104e50)
-
-# State Machine
-* [Verifying State Machine Behavior Using test.check](http://blog.guillermowinkler.com/blog/2015/04/12/verifying-state-machine-behavior-using-test-dot-check/)
-* [Designing a State Machine without conditionals](http://jjcorrea.github.io/2015/05/05/designing-a-state-machine-without-conditionals/)
-* [From Live Sequence Charts to State Machines and Back: A Guided Tour](http://fots.ua.ac.be/teaching/modelingpapers/LSC2SM-Schobbens.pdf)
-* [reduce-fsm provides a simple way to specify clojure finite state machines](https://github.com/cdorrat/reduce-fsm/blob/master/README.md)
-* [FLVIz - Finite Automata Simulator written in QT/Graphviz](https://github.com/wkoszek/flviz)
-* [State machine 코드를 작성하기 위한 방법 다시 생각해보기](https://gist.github.com/luncliff/4874c74a32331db357d4ede80db1610d)
-* [State machines are wonderful tools](https://nullprogram.com/blog/2020/12/31/)
 
 # Type
 * [What is the appeal of dynamically-typed languages?](https://gist.github.com/non/ec48b0a7343db8291b92)
