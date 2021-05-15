@@ -1059,6 +1059,7 @@ NLP
   * annoy와 비슷하지만 graph tree 기반 indexing
 * [nlg-eval - Evaluation code for various unsupervised automated metrics for Natural Language Generation](https://github.com/Maluuba/nlg-eval)
 * [parserator - a framework for making parsers using natural language processing (NLP) methods](http://parserator.datamade.us/)
+* [pattern: Web mining module for Python, with tools for scraping, natural language processing, machine learning, network analysis and visualization](https://github.com/clips/pattern)
 * [pecab: Pure python mecab analyzer for Japanese and Korean](https://github.com/hyunwoongko/pecab)
 * [Pororo: A Deep Learning based Multilingual Natural Language Processing Library](https://github.com/kakaobrain/pororo)
   * [Welcome to Pororo’s documentation! — Pororo 0.1.2 documentation](https://kakaobrain.github.io/pororo/)
