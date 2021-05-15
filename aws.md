@@ -892,6 +892,8 @@ AWS
   * [Netlify Dev 기능으로 개발 중인 사이트 Netlify에 배포하기](https://blog.outsider.ne.kr/1438)
 * [pingcloud-cli - CLI application to check http request latency of AWS, Google Cloud Platform and Azure](https://github.com/reoim/pingcloud-cli)
 * [Sleemo – A new way to develop serverless GraphQL backend using AWS AppSync | Developers.IO](https://dev.classmethod.jp/articles/sleemo-introduction/)
+* [Smithy — Smithy 1.0 documentation](https://awslabs.github.io/smithy/)
+  * [AWS Smithy - 서비스 및 SDK 정의용 언어 | GeekNews](https://news.hada.io/topic?id=4218)
 * [ssh-over-ssm Configure SSH and use AWS SSM to connect to instances](https://github.com/elpy1/ssh-over-ssm)
 * [Up – deploy serverless apps in seconds](https://medium.freecodecamp.org/up-b3db1ca930ee)
 * [You Still Hot - AWS Lambda 및 Google Cloud Functions의 Cold Start 문제를 해결하기 위한 스케줄러 애플리케이션](https://github.com/Hanul/YouStillHot)
@@ -1061,6 +1063,7 @@ AWS
 * [입 개발 Databricks Terraform Provider databricks_aws_s3_mount 와 resource databricks_dbfs_file | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/30/%ec%9e%85-%ea%b0%9c%eb%b0%9c-databricks-terraform-provider-databricks_aws_s3_mount-%ec%99%80-resource-databricks_dbfs_file/)
 * [입 개발 Databricks Terraform Provider Install | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/30/%ec%9e%85-%ea%b0%9c%eb%b0%9c-databricks-terrafrom-provider-install/)
 * [Terraform Best Practices - DevOps Unicorns 2019](https://www.slideshare.net/AntonBabenko/terraform-best-practices-devops-unicorns-2019)
+* [Welcome - Terraform Best Practices](https://www.terraform-best-practices.com/)
 
 # Tutorial
 * [4분코딩 아마존 웹 서비스(Amazon Web Services)란?](https://www.youtube.com/watch?v=II5wMA5NrVM)
