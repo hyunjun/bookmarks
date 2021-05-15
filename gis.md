@@ -7,7 +7,9 @@ GIS
 * [Hello, Geo-fence!](http://woowabros.github.io/experience/2018/03/31/hello-geofence.html)
 * [**배달아~ 배달 가는길 알려줘!(단호함)**](http://woowabros.github.io/experience/2019/02/07/real-distance-finder.html) 배달 거리 계산. A\*
 * [How Lyft Creates Hyper-Accurate Maps from Open-Source Maps and Real-Time Data](https://eng.lyft.com/how-lyft-creates-hyper-accurate-maps-from-open-source-maps-and-real-time-data-8dcf9abdd46a)
-* what3words [지도의 혁신으로 소니 등 굴지의 기업에서 1,500억 원 투자를 이끌어 낸, 영국 남자 이야기](https://ppss.kr/archives/193927)
+* what3words
+  * [지도의 혁신으로 소니 등 굴지의 기업에서 1,500억 원 투자를 이끌어 낸, 영국 남자 이야기](https://ppss.kr/archives/193927)
+  * [» What3Words – The Algorithm](https://cybergibbons.com/security-2/what3words-the-algorithm/)
 * [**디지털 지도와 오픈 데이터를 바라보는 몇 가지 관점**](https://medium.com/seoul-libre-maps/%EB%94%94%EC%A7%80%ED%84%B8-%EC%A7%80%EB%8F%84%EC%99%80-%EC%98%A4%ED%94%88%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%B0%94%EB%9D%BC%EB%B3%B4%EB%8A%94-%EB%AA%87-%EA%B0%80%EC%A7%80-%EA%B4%80%EC%A0%90-76a4bd411168) 개발 이야기는 아니지만 open street map에 대한 좋은 글
 * [Open Geoscience Computing Repository](https://github.com/yohanesnuwara/open-geoscience-repository)
 * [국토교통부 실거래가 데이터 전처리](https://www.vw-lab.com/80?category=787869)
@@ -32,10 +34,14 @@ GIS
 # Javascript
 * [네이버 지도 JavaScript API 완벽 가이드 – 투영, 지도 유형 편](http://d2.naver.com/helloworld/9121395)
 * [Top Maps API and Libraries in JavaScript | by Sathishravi | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/top-maps-api-and-libraries-in-javascript-e01b01ad5d2c)
-* [GeoTIFF Coordinate Querying with JavaScript | by Thomas Horner | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/geotiff-coordinate-querying-with-javascript-5e6caaaf88cf)
-* [An introduction into Deck.gl. Deck.gl is an open-source data… | by Ugur Ertas | Weekly Webtips | Medium](https://medium.com/weekly-webtips/an-introduction-into-deck-gl-f5c8ae84d9a5)
-* [Leaflet Map Routing JavaScript App - YouTube](https://www.youtube.com/watch?v=F8dnYNTncoU)
+* Deck.gl [An introduction into Deck.gl. Deck.gl is an open-source data… | by Ugur Ertas | Weekly Webtips | Medium](https://medium.com/weekly-webtips/an-introduction-into-deck-gl-f5c8ae84d9a5)
 * [Geo3x3: geo zone encoding, serialize latitude and longitude](https://github.com/taisukef/Geo3x3)
+* GeoTIFF
+  * [GeoTIFF Coordinate Querying with JavaScript | by Thomas Horner | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/geotiff-coordinate-querying-with-javascript-5e6caaaf88cf)
+  * [Cloud Optimized GeoTIFF - An imagery format for cloud-native geospatial processing](https://www.cogeo.org/)
+    * [A Handy Introduction to Cloud Optimized GeoTIFFs | by Patrick Armstrong | Planet Stories | Medium](https://medium.com/planet-stories/a-handy-introduction-to-cloud-optimized-geotiffs-1f2c9e716ec3)
+* [Leaflet Map Routing JavaScript App - YouTube](https://www.youtube.com/watch?v=F8dnYNTncoU)
+* [mapscii: MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me \<= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows](https://github.com/rastapasta/mapscii)
 
 # PostGIS
 * [POSTGIS 2.2 LEVERAGING POWER OF POSTGRESQL 9.5](http://www.postgresonline.com/journal/archives/350-PostGIS-2.2-leveraging-power-of-PostgreSQL-9.5.html)
