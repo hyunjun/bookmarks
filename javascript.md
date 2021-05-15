@@ -651,6 +651,7 @@ Javascript
 * [Content-aware image resizing in JavaScript | Trekhleb](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
 * [깃플 스터디 프로젝트 | Programming Cloud-Native](https://tech.gitple.io/2021/05/03/study-project/) Angular Observable Docker Node-restful node-summarizer
 * [동물상 테스트 - 당신의 얼굴 사진으로 동물상을 확인해보세요](https://open-support.tistory.com/entry/%EB%8F%99%EB%AC%BC%EC%83%81-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%96%BC%EA%B5%B4-%EC%82%AC%EC%A7%84%EC%9C%BC%EB%A1%9C-%EB%8F%99%EB%AC%BC%EC%83%81%EC%9D%84-%ED%99%95%EC%9D%B8%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94)
+* [유니코드 점자로 그래픽 디스플레이 만들기 유니코드 점자 문자로 CLI에서 그래픽을 표시해보자!](https://lazygyu.net/blog/graphic_display_by_braille_pattern)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
