@@ -545,6 +545,7 @@ Algorithm
 
 # Random
 * [PCG, A Family of Better Random Number Generators](http://www.pcg-random.org/)
+* [Evolution of random number generators](https://www.johndcook.com/blog/2021/04/29/reinventing-rng/) RANDU MINSTD PCG
 * [The Ziggurat Algorithm for Random Gaussian Sampling](http://heliosphan.org/zigguratalgorithm/zigguratalgorithm.html)
 * [폰 노이만식 난수 생성법(Basic von Neumann extractor)](https://johngrib.github.io/wiki/von-neumann-extractor/)
 * [컴퓨터가 만드는 랜덤은 정말로 랜덤일까?](https://evan-moon.github.io/2019/07/14/what-is-random/)
