@@ -1834,6 +1834,7 @@ Scala
 * [Scala 3: Safer Pattern Matching with Matchable | by Dean Wampler | Scala 3 | Apr, 2021 | Medium](https://medium.com/scala-3/scala-3-safer-pattern-matching-with-matchable-f0396430ded6)
 * [Scala 3 Release Party – find out how it went! - Sphere.it](https://sphere.it/scala-3-release-party-find-out-how-it-went/)
 * [Scala 3 is here!🎉🎉🎉 | The Scala Programming Language](https://www.scala-lang.org/blog/2021/05/14/scala3-is-here.html)
+* [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=vUCWhWFWGFo) strictEquality opaque type enum
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
