@@ -682,6 +682,8 @@ Clojure
 * [aero: A small library for explicit, intentful configuration](https://github.com/juxt/aero)
   * [Clojure Configuration Variables Using Aero - YouTube](https://www.youtube.com/watch?v=ODsoc2QQyyU)
 * [amazonica: A comprehensive Clojure client for the entire Amazon AWS api](https://github.com/mcohen01/amazonica)
+* [americano: A simple tool for compiling Java from the Clojure CLI](https://github.com/IGJoshua/americano)
+  * [Clojure CLI Tool for Compiling Java Without Code – Services Diplomatiques et Consulaires – Enzyklopädien, Fachbücher, Schulbücher](https://www.duthel.info/clojure-cli-tool-for-compiling-java-without-code/)
 * [Anglican - a open source, just-in-time-compiled probablistic programming language](http://www.robots.ox.ac.uk/~fwood/anglican/index.html)
 * [annotate - Annotate is a library for adding type annotations to functions and checking those types at runtime](https://github.com/roomkey/annotate)
 * [ANTLR (ANother Tool for Language Recognition) - a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/) java
@@ -795,6 +797,7 @@ Clojure
   * [Datalog for trees in Clojure](http://blog.juxt.pro/posts/datascript-dom.html)
   * [Learn Datalog Today](http://www.learndatalogtoday.org/)
   * [Datahike - ((de)composing persistent datalog for everybody) - YouTube](https://www.youtube.com/watch?v=j_fAJ5wRyes)
+  * [DOMAIN MODELING WITH DATALOG by Norbert Wojtowicz - YouTube](https://www.youtube.com/watch?v=oo-7mN9WXTw)
 * [data.deque - Persistent Deque for Clojure(Script)](https://github.com/namenu/data.deque)
 * [datalevin: A port of Datascript to LMDB](https://github.com/juji-io/datalevin)
 * [Dativity - a stateless, data driven process engine library for Clojure and ClojureScript](https://github.com/agentbellnorm/dativity)
@@ -892,6 +895,7 @@ Clojure
 * logger [Simple logger that works in bb](https://gist.github.com/borkdude/c97da85da67c7bcc5671765aef5a89ad)
 * [lokke: Lokke: Clojure for Guile](https://github.com/lokke-org/lokke)
 * [Loom - Graph library for Clojure. Mailing list https://groups.google.com/forum/#!forum/loom-clj http://aysy.lu/loom ](https://github.com/aysylu/loom)
+* [lovelace: A Clojure wrapper for Notion's API 🌺](https://github.com/arthurbarroso/lovelace)
 * [luminus - Luminus is a Clojure micro-framework](http://www.luminusweb.net/) web template
   * [Clojure with LuminusWeb](https://medium.com/@itstedpark/clojure-with-luminusweb-e688a670166d)
   * [Luminus에서 clj-refactor 설정하기](http://clojure.kr/luminus-clj-refactor)
