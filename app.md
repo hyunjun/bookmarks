@@ -440,6 +440,29 @@ App
 * [7 Command-Line Tools That Make Your Life Easier | by Daan | Aug, 2020 | Level Up Coding](https://levelup.gitconnected.com/7-command-line-tools-that-make-your-life-easier-d69c38850d6c)
   * Enhancd, The Fuck, Git Stats, Autojump, Bat, Oh my ZSH, Fony
 * [윈도우 컨테이너용 SQL Server 구동 스크립트 - 📤 정보 공유 - 닷넷데브](https://forum.dotnetdev.kr/t/sql-server/871)
+* [웹 서비스 구현의 모든 것! 무료 제작툴 39개 몽땅 알려드림! - YouTube](https://www.youtube.com/watch?v=u3Ph_M2bySg&list=PLHiW_ibXGXcXmAy0wbF8urO30wsbW9QBk)
+  * 기획 http://trello.com https://www.notion.so
+  * 디자인 https://www.figma.com
+  * 사진 https://unsplash.com
+  * 코드 에디터 https://code.visualstudio.com
+  * CSS 라이브러리 https://tailwindcss.com https://bulma.io
+  * 깃 저장소 https://github.com https://about.gitlab.com https://bitbucket.org/product
+  * 클라이언트 https://insomnia.rest (REST) https://altair.sirmuel.design (GraphQL) 
+  * 검색엔진 https://www.algolia.com
+  * 유저 비밀번호 관리 https://auth0.com https://aws.amazon.com/ko/cognito
+  * 이메일 https://www.mailgun.com https://mailchimp.com
+  * SSL Certificate https://letsencrypt.org
+  * 백엔드 https://www.heroku.com https://aws.amazon.com
+  * 프론트엔드 https://pages.github.com https://www.netlify.com
+  * 서버리스 https://aws.amazon.com/lambda https://cloud.google.com/functions
+  * 데이터베이스, https://aws.amazon.com/dynamodb https://cloud.google.com/firestore https://www.mongodb.com/cloud/atlas https://fauna.com
+  * 파일 업로드 https://cloud.google.com/storage https://cloudinary.com
+  * 에러 리포팅 https://sentry.io
+  * 채팅 https://pusher.com
+  * 푸쉬알림 https://onesignal.com
+  * 피드 getstream.io
+  * 분석 analytics.google.com https://www.hotjar.com https://mixpanel.com
+  * 시간관리 https://wakatime.com
 * [aquerytool.com](http://aquerytool.com/) DB schema
 * [asdf: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more](https://github.com/asdf-vm/asdf)
   * [asdf - An extendable version manager](https://asdf-vm.com/)
