@@ -3517,6 +3517,7 @@ Javascript
 * [kutt - Free Modern URL Shortener. https://kutt.it ](https://github.com/thedevs-network/kutt)
 * [orbit: Experimental spaced repetition platform for exploring new ideas in memory augmentation and programmable attention](https://github.com/andymatuschak/orbit)
 * [saas: Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript](https://github.com/async-labs/saas)
+* [safe-typeorm: TypeORM helper for safe type development](https://github.com/samchon/safe-typeorm)
 * [serina - tweet downloader https://libsora.so/serina ](https://github.com/if1live/serina)
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
   * [TGrid 3분 PR 동영상](https://www.youtube.com/watch?v=r7zRdc0XxLk)
