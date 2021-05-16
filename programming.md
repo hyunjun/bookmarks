@@ -866,6 +866,14 @@ Programming
 * [DDD 했더니 비대해지는 엔티티, 좋은 대책은 ?](http://jaynewho.com/post/45)
 * [Part 1: Domain Driven Design like a pro 🏅 | by Anders Gill | Raa Labs | Medium](https://medium.com/raa-labs/part-1-domain-driven-design-like-a-pro-f9e78d081f10)
 
+## Architecture Event Driven
+* [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
+* [Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo)
+* [이벤트 주도 아키텍처는 어떤 이점을 주는가?](https://www.popit.kr/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%9D%B4%EC%A0%90%EC%9D%84-%EC%A3%BC%EB%8A%94%EA%B0%80/)
+* [From Monolith to Event-Driven: Finding Seams in Your Future Architecture](https://www.infoq.com/articles/event-driven-finding-seams/)
+* [Kafka와 MongoDB, Kubernetes로 유연하고 확장 가능한 LINE 쇼핑 플랫폼 구축하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-shopping-platform-kafka-mongodb-kubernetes/)
+* [**Event Driven Architecture란?. MicroService Architecture(MSA)는 loosely… | by yjs0997 | DT Evangelist 기술 블로그 | Medium**](https://medium.com/dtevangelist/event-driven-microservice-%EB%9E%80-54b4eaf7cc4a) 강추
+
 ## Architecture Microservice MSA
 * [**Microservice Architecture**](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)
 * [Microservices without the Servers](https://aws.amazon.com/ko/blogs/compute/microservices-without-the-servers/)
@@ -1074,14 +1082,6 @@ Programming
     * [#3 -Stackdriver를 zipkin으로 사용하기](http://bcho.tistory.com/1245)
   * [Zipkin과 Scouter v2.5를 연동해보자](https://gunsdevlog.blogspot.com/2018/11/how-to-use-zipkin-scouter-storage.html)
   * [LINE 광고 플랫폼의 MSA 환경에서 Zipkin을 활용해 로그 트레이싱하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-ads-msa-opentracing-zipkin/)
-
-## Architecture Event Driven
-* [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
-* [Microservices + Events + Docker = A Perfect Trio](https://www.youtube.com/watch?v=sSm2dRarhPo)
-* [이벤트 주도 아키텍처는 어떤 이점을 주는가?](https://www.popit.kr/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EC%A3%BC%EB%8F%84-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EB%8A%94-%EC%96%B4%EB%96%A4-%EC%9D%B4%EC%A0%90%EC%9D%84-%EC%A3%BC%EB%8A%94%EA%B0%80/)
-* [From Monolith to Event-Driven: Finding Seams in Your Future Architecture](https://www.infoq.com/articles/event-driven-finding-seams/)
-* [Kafka와 MongoDB, Kubernetes로 유연하고 확장 가능한 LINE 쇼핑 플랫폼 구축하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-shopping-platform-kafka-mongodb-kubernetes/)
-* [**Event Driven Architecture란?. MicroService Architecture(MSA)는 loosely… | by yjs0997 | DT Evangelist 기술 블로그 | Medium**](https://medium.com/dtevangelist/event-driven-microservice-%EB%9E%80-54b4eaf7cc4a) 강추
 
 ## Architecture Serverless
 * [Serverless-ish: A scaling story - Queue-based Autoscaling Microservices](https://codeburst.io/serverless-ish-a-scaling-story-5732945b93ab)
