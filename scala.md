@@ -309,6 +309,7 @@ Scala
 * [SF Scala: How to survive algorithms in Scala - YouTube](https://www.youtube.com/watch?v=Ee2Y9V5ePVo)
 * [Our Scala Journey by Girish Kolanthra (Capital One) - YouTube](https://www.youtube.com/watch?v=agi-dFh_vEg)
 * [Anomaly / outlier detection using isolation forest in Scala | by Kristof Slechten | Apr, 2021 | Medium](https://kristofsl.medium.com/anomaly-outlier-detection-using-isolation-forest-in-scala-9f5f4d6edff9)
+* [Ruminations on Learning Scala – Scala for Cybersecurity](https://www.cyberscala.org/ruminations-on-learning-scala/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
