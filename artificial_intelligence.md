@@ -101,7 +101,8 @@ Artificial Intelligence
 * [Artificial Intelligence Programming Python](https://medium.com/@rinu.gour123/artificial-intelligence-programming-python-d3d9a4e03b92)
 * [진정한 인공지능을 향한 단계들 Steps Toward Artificial Intelligence (1)](https://www.youtube.com/watch?v=3oDn3tNgam0)
 * [진정한 인공지능을 향한 단계들 Steps Toward Artificial Intelligence (2)](https://www.youtube.com/watch?v=DTEqcYUnOR0)
-* [주디아 펄의 “인과에 대하여(The book of Why)”](http://newspeppermint.com/2019/04/08/m-book-of-why/) casual inference
+* [주디아 펄의 “인과에 대하여(The book of Why)”](http://newspeppermint.com/2019/04/08/m-book-of-why/) causal inference
+* [awesome-causal-inference](https://github.com/ksseono/awesome-causal-inference)
 * [Progress Toward Safe and Reliable AI](http://ai.stanford.edu/blog/reliable-ai/)
 * [Artificial Intelligence Conference](https://conferences.oreilly.com/ai/ai-ca/public/schedule/proceedings)
 * [LF AI Foundation Interactive Landscape](https://landscape.lfai.foundation/)
