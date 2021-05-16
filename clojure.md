@@ -355,6 +355,9 @@ Clojure
 * [(recur thoughts "Building a library II - Planning phase")](https://emil0r.com/posts/2021-05-06-building-a-library-2/)
 * [(recur thoughts "Building a library III - Study case ez-wire")](https://emil0r.com/posts/2021-05-09-building-a-library-3/)
 * [(recur thoughts "Building a library IV")](https://emil0r.com/posts/2021-05-10-building-a-library-4/)
+* [Organizing Clojure code with Functional Core, Imperative Shell | by Shantanu Kumar | May, 2021 | Medium](https://kumarshantanu.medium.com/organizing-clojure-code-with-functional-core-imperative-shell-2f2ee869faa2)
+* [Paths, Paths, Paths ...](https://code.thheller.com/blog/shadow-cljs/2021/05/13/paths-paths-paths.html) classpath
+* [Using Hue connected lights and temp sensors to preview today's weather! | Medium](https://weakreference.medium.com/shorts-or-jeans-revisited-e2fc7f9c9559)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -737,6 +740,7 @@ Clojure
   * [clj-kondo.lsp: Clj-kondo language server and VSCode extension: https://marketplace.visualstudio.com/items?itemName=borkdude.clj-kondo ](https://github.com/clj-kondo/clj-kondo.lsp)
 * [cljmap-plantuml: View Clojure map as data diagram using PlantUML](https://github.com/jaeyeon-jo-kr/cljmap-plantuml)
 * [clj-maxima: Maxima as a clojure library](https://github.com/lsevero/clj-maxima)
+* [cljol: Experimental code using Java Object Layout (JOL) from Clojure](https://github.com/jafingerhut/cljol)
 * [clj-refactor.el - Available refactorings](https://github.com/clojure-emacs/clj-refactor.el/wiki)
   * [A collection of Clojure refactoring functions for Emacs](https://github.com/clojure-emacs/clj-refactor.el)
 * [clj-statecharts](https://lucywang000.github.io/clj-statecharts/) State Machine and StateCharts for Clojure(Script). Inspired by [XState](https://github.com/davidkpiano/xstate)
@@ -1032,6 +1036,7 @@ Clojure
   * [babashka-sql-pods: Babashka pods for SQL databases](https://github.com/babashka/babashka-sql-pods)
   * [pod-babashka-sqlite3: A babashka pod for interacting with sqlite3](https://github.com/babashka/pod-babashka-sqlite3)
   * [reorder.clj babashka script for reordering requires and imports in clojure files](https://gist.github.com/laurio/01530ea7700752885df21e92bb926f75)
+  * [spartan.spec: A spartan version of clojure.spec compatible with babashka](https://github.com/borkdude/spartan.spec)
 
 ## Library GraalVM
 * [How to build a native binary for your Clojure projects with GraalVM](https://github.com/BrunoBonacci/graalvm-clojure/blob/master/doc/clojure-graalvm-native-binary.md)
