@@ -178,6 +178,7 @@ AWS
 * [Rock Solid Kafka and ZooKeeper Ops on AWS](https://jobs.zalando.com/tech/blog/rock-solid-kafka)
 * [Amazon MSK](https://www.joinc.co.kr/w/man/12/aws/MSK) kafka
 * [AWS MSK(Kafka) 실습 및 예제 코드(Java), 장단점, 가격](https://blog.voidmainvoid.net/299)
+* [Introduce Apache Kafka and AWS MSK](https://www.slideshare.net/WonyoungChoi2/introduce-apache-kafka-and-aws-msk)
 * [Kafka in AWS with SSL Offloading using Load Balancer](https://medium.com/code-tech/kafka-in-aws-with-ssl-offloading-using-load-balancer-c337da1435c3)
 * [Installing and running Kafka on AWS instance (CentOS)](https://blog.knoldus.com/installing-and-running-kafka-on-aws-instance-centos/)
 * [AWS에 카프카 클러스터 설치하기(ec2, 3 brokers)](https://blog.voidmainvoid.net/325)
