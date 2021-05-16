@@ -3535,6 +3535,7 @@ Python
   * [Installing PIP on Windows](https://medium.com/@ankitgin/setting-up-pip-for-windows-a644be0f1cea)
   * [user mode로 설치한 pip 패키지 PATH에 등록하기](https://beomi.github.io/2018/02/12/Add-packages-installed-with-pip-usermode/)
   * [Commonly used Python - pip commands](https://dev.to/dev0928/commonly-used-python-pip-commands-255d)
+  * [Python pip 삭제되었을 시 재설치 해결법 : 네이버 블로그](https://blog.naver.com/vwjdalsgkv/222221277282)
 * [pipx - Install and Run Python Applications in Isolated Environments](https://pipxproject.github.io/pipx/)
 * pypc [The Python3 Package Creator](https://github.com/mekarpeles/pypc)
 * [Python: beyond the basics I - pip, virtualenv, pipenv & list comprehensions](https://medium.com/@m0etaz/python-beyond-the-basics-i-c9b67a804505)
