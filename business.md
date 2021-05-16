@@ -304,6 +304,7 @@ Business
 * [대표님, 왜 우리는 목적 없이 일해야 하나요 | ㅍㅍㅅㅅ](https://ppss.kr/archives/215281)
 * [코로나 이후 마리트의 1년을 돌아보며](https://brunch.co.kr/@leedonggun/22)
 * [잭 도시가 트위터와 스퀘어를 동시에 경영할 수 있는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240587) block, routine, 업무생산성
+* [개방형 사무실의 비밀 | ㅍㅍㅅㅅ](https://ppss.kr/archives/193462) office 개인 공간 privacy 생산성
 
 # 채용
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
@@ -591,6 +592,7 @@ Business
 * [CPO가 활용하는 프레임워크 5가지](https://brunch.co.kr/@yongjinjinipln/83) Goals-Signals-Metrics (GSM), KPI Graphs, HEART, HOSKR, OKRs
 * [**평가방법 OKR, KPI, MBO 뭐가 다른거에요?**](https://brunch.co.kr/@ywkim36/41)
 * [OKR과 조직문화: OKR이 현장에서 실패하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220905)
+* [할일목록에 OKR 적용하기](https://brunch.co.kr/@graypool/30)
 
 # Patent
 * 세기의 특허전쟁
