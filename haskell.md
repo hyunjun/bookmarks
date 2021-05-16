@@ -291,6 +291,7 @@ Haskell
 * [Scale By The Bay 2020: Ryan Orendorff & Daniel Hensley, Programming machine learning algorithms... - YouTube](https://www.youtube.com/watch?v=IYLZKh8uIQ4)
 * [Scale By The Bay 2020: Yves Parès, Reproducible Data Pipelines Using Controlled Effects - YouTube](https://www.youtube.com/watch?v=BVZBXz_wjP0)
 * [Counting Bits with Haskell (The Bad and the Good Way™️) - YouTube](https://www.youtube.com/watch?v=drYFAEzKJOE)
+* [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
