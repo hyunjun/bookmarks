@@ -292,6 +292,7 @@ Haskell
 * [Scale By The Bay 2020: Yves Parès, Reproducible Data Pipelines Using Controlled Effects - YouTube](https://www.youtube.com/watch?v=BVZBXz_wjP0)
 * [Counting Bits with Haskell (The Bad and the Good Way™️) - YouTube](https://www.youtube.com/watch?v=drYFAEzKJOE)
 * [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
+* [Sierpinski Triangle - Polyglot FP for Fun and Profit - Haskell and Sc…](https://www.slideshare.net/pjschwarz/sierpinski-triangle-polyglot-fp-for-fun-and-profit-haskell-and-scala)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
