@@ -392,6 +392,7 @@ Clojure
   * [spell-spec - clojure.spec.alpha helpers that check for misspelled map keys, with expound integration](https://github.com/bhauman/spell-spec)
   * [If you use Clojure Spec, how do you use it? Do you tend to put all your specs in one place or distribute them through the "modules" of your program?](https://www.quora.com/If-you-use-Clojure-Spec-how-do-you-use-it-Do-you-tend-to-put-all-your-specs-in-one-place-or-distribute-them-through-the-modules-of-your-program)
   * [Clojure Spec Expressing Data Constraints without Types - Alex Miller - YouTube](https://www.youtube.com/watch?v=Xb0UhDeHzBM)
+  * [Union Types with Clojure.Spec](https://lambdaisland.com/blog/2016-09-25-union-types)
   * [speced.def provides spec-backed forms of defn, defprotocol, fn, let etc. using the same exact syntax as clojure.core's](https://github.com/nedap/speced.def)
   * [Dictionary-like Specs in Clojure](https://grishaev.me/spec-dict/)
     * [spec-dict: Better map specs](https://github.com/igrishaev/spec-dict)
@@ -653,6 +654,7 @@ Clojure
 * [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
 * [re:Clojure 2020 conference day 1 - YouTube](https://www.youtube.com/watch?v=qRI1Ved0SfE)
 * [re:Clojure 2020 conference day 2 - YouTube](https://www.youtube.com/watch?v=NqWR_ysLkW8)
+* [stuarthalloway/presentations](https://github.com/stuarthalloway/presentations)
 
 # Debug
 * [Debugging in Clojure?](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
