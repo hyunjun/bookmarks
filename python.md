@@ -3628,6 +3628,7 @@ Python
   * [Coiled: Scaling Python Simply](https://coiled.io/)
   * [dask-sql: Query Your (Big) Data With The Power of Python & SQL - Nils Braun - YouTube](https://www.youtube.com/watch?v=aLoTc_cX6yY)
   * s3fs [Using S3 Just Like a Local File System in Python | by Sven Balnojan | The Startup | Medium](https://medium.com/swlh/using-s3-just-like-a-local-file-system-in-python-497737783f11)
+* [mpi4jax: Zero-copy MPI communication of JAX arrays, for turbo-charged HPC applications in Python](https://github.com/mpi4jax/mpi4jax)
 * [Ray - a fast and simple framework for building and running distributed applications](https://ray.readthedocs.io)
   * [ray - A system for parallel and distributed Python that unifies the ML ecosystem](https://github.com/ray-project/ray)
   * [Modern Parallel and Distributed Python: A Quick Tutorial on Ray](https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8)
