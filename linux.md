@@ -115,6 +115,8 @@ Linux
 * [리눅스 사용에 도움주는 커뮤니티 사이트 모아보기](https://open-support.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%82%AC%EC%9A%A9%EC%97%90-%EB%8F%84%EC%9B%80%EC%A3%BC%EB%8A%94-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0)
 * [5 Linux Terminal Applications You Need To Have - YouTube](https://www.youtube.com/watch?v=E8Ww39z_28A)
 * [7 AWESOME Linux Terminal Applications and Utilities - YouTube](https://www.youtube.com/watch?v=ZNNqkeeOdrk)
+* [리눅스에서 안드로이드 앱 사용하기](https://open-support.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%97%90%EC%84%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+* [리눅스 30주년 맞이 리누스 토발즈 인터뷰 번역 - 파트 1 | hacklog](https://sjp38.github.io/ko/post/torvalds_interview_for_30th_anniversary_of_linux_kernel_part1/)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
