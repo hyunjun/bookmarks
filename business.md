@@ -305,6 +305,7 @@ Business
 * [코로나 이후 마리트의 1년을 돌아보며](https://brunch.co.kr/@leedonggun/22)
 * [잭 도시가 트위터와 스퀘어를 동시에 경영할 수 있는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240587) block, routine, 업무생산성
 * [개방형 사무실의 비밀 | ㅍㅍㅅㅅ](https://ppss.kr/archives/193462) office 개인 공간 privacy 생산성
+* [The Long Game](https://www.thestartupbible.com/2021/05/the-long-game.html) 꾸준함의 중요성
 
 # 채용
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
