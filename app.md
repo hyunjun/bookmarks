@@ -1017,6 +1017,7 @@ App
 * command terminal
   * sed [Mac OS X에서 Multi Tab(\t\t) 정리하기](https://jojoldu.tistory.com/542)
 * [Mac에서 개발 환경 (IntelliJ 기반) 꾸미기](https://jojoldu.tistory.com/556)
+* [macOS에서 한글 파일/디렉터리 잘 다루기 – rein's world](https://rein.kr/blog/archives/5378)
 * [Alacritty - Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
 * brew
