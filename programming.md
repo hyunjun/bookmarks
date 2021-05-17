@@ -2849,6 +2849,8 @@ Programming
 * [여러분의 앱에는 카나리아가 살고 있나요? (다양한 카나리아 테스트 알아보기)](https://blog.imqa.io/app_canary_testing/) 대부분 내용은 광고
 * [3월 우아한테크세미나 우아한ATDD - YouTube](https://www.youtube.com/watch?v=ITVpmjM4mUE)
 * [GOTO 2021 • When Test Driven Development Goes Wrong • Dave Farley - YouTube](https://www.youtube.com/watch?v=-4Ybn0Cz2oU)
+* [회고: 현업에서 TDD 실천하기 #1](https://brunch.co.kr/@tilltue/69)
+* [회고 : 두번째 프로젝트를 TDD로 진행하며... #2](https://brunch.co.kr/@tilltue/45)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
