@@ -919,6 +919,7 @@ Web
 * [WebAssembly Is the End of the Internet As We Know It | by Michael Krasnov | Better Programming | Medium](https://medium.com/better-programming/webassembly-is-the-end-of-the-internet-as-we-know-it-9085a49cbc7b)
 * [Debugging WebAssembly with modern tools  |  Google Developers](https://developers.google.com/web/updates/2020/12/webassembly)
 * [From JavaScript to WebAssembly in three steps](https://engineering.q42.nl/webassembly/)
+* [FE개발자의 성장 스토리 08 : WebAssembly 개발기 – tech.kakao.com](https://tech.kakao.com/2021/05/17/frontend-growth-08/)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
