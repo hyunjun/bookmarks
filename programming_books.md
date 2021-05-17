@@ -107,6 +107,7 @@ Programming Books
 * (NOT YET) [한 권으로 읽는 컴퓨터 구조와 프로그래밍](https://www.onlybook.co.kr/entry/secret-programs)
   * [한 권으로 읽는 컴퓨터 구조와 프로그래밍 - YouTube](https://www.youtube.com/watch?v=H89867LMv-4)
   * [한 권으로 읽는 컴퓨터 구조와 프로그래밍](https://jhrogue.blogspot.com/2021/04/blog-post.html)
+* (NOT YET) [이야기로 배우는 구글 빅쿼리](https://jybaek.tistory.com/918) GCP Google Big Query
 
 # Agile Scrum
 
