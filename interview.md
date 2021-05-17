@@ -749,6 +749,7 @@ Interview
 * [cakeresume.com/v2](https://www.cakeresume.com/v2)
 * [itresumeservice.com](http://www.itresumeservice.com/)
 * [latexresu.me](https://latexresu.me/)
+* [latex_resume_template_kor](https://github.com/changh95/latex_resume_template_kor)
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * Resume.io [Create Your Job-winning Resume - (Free) Resume maker · Resume.io](https://resume.io/)
 * [rleonardi.com/interactive-resume](http://www.rleonardi.com/interactive-resume/)
