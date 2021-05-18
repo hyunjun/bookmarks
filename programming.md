@@ -455,6 +455,7 @@ Programming
 * [스크럼의 진행 과정. ■ 스크럼이란? | by 황선영 | POCS | Medium](https://medium.com/pocs/%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%98-%EC%A7%84%ED%96%89-%EA%B3%BC%EC%A0%95-b6faa13e0e8c)
 * [Cross functional team의 성장 레시피. 요기요 회고 kit 절찬리 무료 다운로드 가능 | by Suemin Lee | Delivery Tech Korea — 요기요&배달통 기술블로그 | Apr, 2021 | Medium](https://medium.com/deliverytechkorea/cross-functional-team%EC%9D%98-%EC%84%B1%EC%9E%A5-%EB%A0%88%EC%8B%9C%ED%94%BC-728f87cb86c0)
 * [Programmers, what do you despise about Agile? - Quora](https://www.quora.com/Programmers-what-do-you-despise-about-Agile)
+* [애자일과 PO - Google Slides](https://docs.google.com/presentation/d/1rQ4zVlFl4GInIQYs24rm78FDc6BwM_a3ZdpNJLIh41E/mobilepresent?slide=id.p) [pdf](pdfs/agile_and_po.pdf)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
