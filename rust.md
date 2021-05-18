@@ -133,6 +133,7 @@
 * [Implicit In-order Forests: Zooming a billion trace events at 60fps - Tristan Hume](https://thume.ca/2021/03/14/iforests/)
 * [Using Rust to Write Safe and Correct Linux Kernel Drivers](https://www.infoq.com/news/2021/04/rust-linux-kernel-development/)
 * [리눅스 커널에서의 Rust 지원을 위한 RFC | GeekNews](https://news.hada.io/topic?id=4080)
+* [Rust for the Seasoned Scala Developer](https://phazer99.blogspot.com/2021/05/rust-for-seasoned-scala-developer.html)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
