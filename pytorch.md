@@ -194,6 +194,7 @@ PyTorch
 * [PyTorch Ecosystem Day 2021 톺아보기 - Seunghwan Hong](https://harrydrippin.github.io/2021/04/24/pytorch-ecosystem-day-2021/)
 * [Top 10 Performance Tuning Practices for Pytorch | by Wonyoung Shin | 네이버 쇼핑 개발 블로그 | Apr, 2021 | Medium](https://medium.com/naver-shopping-dev/top-10-performance-tuning-practices-for-pytorch-e6c510152f76)
 * [Federated-Averaging-PyTorch](https://github.com/vaseline555/Federated-Averaging-PyTorch) FedAvg
+* [Suite를 활용한 머신러닝 워크플로우 실전 체험기 – Superb AI Blog](https://blog.superb-ai.com/ko/data-labeling-with-superb-ai-suite/)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
