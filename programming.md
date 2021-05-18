@@ -1610,6 +1610,7 @@ Programming
 * [CI/CD(지속적 통합/지속적 제공): 개념, 방법, 장점, 구현 과정](https://www.redhat.com/ko/topics/devops/what-is-ci-cd)
 * [Improving how we deploy GitHub - The GitHub Blog](https://github.blog/2021-01-25-improving-how-we-deploy-github/)
 * [LINE 오픈챗 서버 원클릭 릴리스 자동화 시스템 개발기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-openchat-server-release-automation/)
+* [CI/CD 자동화가 가져다 준 행복 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/ci-cd-automation/)
 * teamcity
   * [TeamCity 설치하기](https://jojoldu.tistory.com/448)
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
