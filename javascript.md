@@ -1635,6 +1635,7 @@ Javascript
   * [SvelteKit • The fastest way to build Svelte apps](https://kit.svelte.dev/)
     * [Accessibility.kr에 스벨트킷 적용 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/874)
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
+* [swc - Super fast javascript / typescript compiler](https://swc.rs/)
 * [SweetAlert](https://sweetalert.js.org/)
 * [SweetAlert2 - a beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes](https://sweetalert2.github.io/)
 * [TableSorter.js 로 Sorting 개발하기](https://brunch.co.kr/@ourlove/76)
