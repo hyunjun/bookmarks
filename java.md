@@ -786,6 +786,7 @@ Java
 * [A New Age of JVM Garbage Collectors - Alexander Yakushev - YouTube](https://www.youtube.com/watch?v=k4vkd0ahWjQ)
 * [Java 성능 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=30770051)
 * [Understanding the JDK’s New Superfast Garbage Collectors](https://blogs.oracle.com/javamagazine/understanding-the-jdks-new-superfast-garbage-collectors)
+* [Java garbage collection interview questions & answers](https://www.java-success.com/java-garbage-collection-interview-questions-and-answers/)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 
 ## JVM Flag, Option
