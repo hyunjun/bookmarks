@@ -1814,6 +1814,7 @@ Programming
   * [카카오 공용준님의 "DevOps: on going pursuit of effectiveness"](https://www.slideshare.net/jrogue/devops-on-going-pursuit-of-effectiveness)
 * [LINE 광고 서버 개발 팀의 DevOps 문화 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-ads-devops-culture/)
 * [How To Become A DevOps Engineer In 2021: A Comprehensive Guide](https://devopscube.com/become-devops-engineer)
+* [A new era of DevOps, powered by machine learning](https://www.allthingsdistributed.com/2021/05/devops-powered-by-machine-learning.html)
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
