@@ -340,6 +340,7 @@ Data Science
 * [Data Observability In Practice: Data Monitoring At Scale With SQL And Machine Learning - Monte Carlo Data](https://www.montecarlodata.com/automated-data-quality-testing-at-scale-with-sql-and-machine-learning-2/)
 * [‘데이터 랭글링’ 및 ‘탐구 데이터 분석’ 따라잡기 - CIO Korea](https://www.ciokorea.com/news/187888)
 * [Silent data corruption: Mitigating effects at scale - Facebook Engineering](https://engineering.fb.com/2021/02/23/data-infrastructure/silent-data-corruption/)
+* [데이터 처리 플랫폼 : 네이버 블로그](https://blog.naver.com/airguy76/221368741735)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
