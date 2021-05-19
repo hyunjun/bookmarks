@@ -127,6 +127,7 @@ Java
 * [Ahead of Time Compilation (AoT) | Baeldung](https://www.baeldung.com/ahead-of-time-compilation)
 * [프로그래밍 초식 : 사소한 개선 - 섞여 있는 계산 로직 분리 - YouTube](https://www.youtube.com/watch?v=gd9aeUywGcM)
 * [테크톡 당신의 코드는 POJO하신가요? - YouTube](https://www.youtube.com/watch?v=5NcqgXgmmjg)
+* [프로그램 초식(취향?): 쿼리에서 로직 빼기 - YouTube](https://www.youtube.com/watch?v=fnH_SR3n9Ew)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
