@@ -27,6 +27,7 @@ SQL
 * [NewSQL vs. NoSQL for New OLTP](https://www.youtube.com/watch?v=uhDM4fcI2aI)
 * [Database expert on why NoSQL mattered — and SQL still matters](https://medium.com/s-c-a-l-e/database-guru-on-why-nosql-matters-and-sql-still-matters-c64239fe84fd)
 * [SQL Style Guide](http://www.sqlstyle.guide/)
+* [SQL Commands Cheat Sheet - Download in PDF & JPG Format - Intellipaat](https://intellipaat.com/blog/tutorial/sql-tutorial/sql-commands-cheat-sheet/)
 * [How does a relational database work](http://coding-geek.com/how-databases-work/)
 * [Generating MoM, YoY and CMGR from SQL](http://tech.yunojuno.com/sql-window-functions)
 * [Crab adds SQL to your command lin](http://etia.co.uk/)
