@@ -1192,6 +1192,7 @@ Clojure
 * [How to Learn Clojure: The Main Study Stages](https://freshcodeit.com/how-to-stop-being-afraid-of-clojure)
 * [Using Clojure Tools · Practicalli Clojure](https://practicalli.github.io/clojure/clojure-tools/using-clojure-tools.html)
 * [10 life-changing minutes with Clojure (Windows) - DEV Community](https://dev.to/adasomg/10-life-changing-minutes-with-clojure-windows-3ofl)
+* [Beginner Clojure Environment Setup (Windows)](https://www.notion.so/Beginner-Clojure-Environment-Setup-Windows-36f70c16b9a7420da3cd797a3eb712fa)
 * [clojure - Getting started with clojure | clojure Tutorial](https://riptutorial.com/clojure)
 * [Six years of professional Clojure development - falkoriemenschneider.de](http://www.falkoriemenschneider.de/a__2021-05-10__Six-years-of-professional-Clojure-development.html)
 
