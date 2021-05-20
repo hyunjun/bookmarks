@@ -650,6 +650,7 @@ Linux
   * [Is Your Linux Version Hiding Interrupt CPU Usage From You? | Tanel Poder Consulting](https://tanelpoder.com/posts/linux-hiding-interrupt-cpu-usage/#how-to-measure-interrupt-cpu-overhead-when-irq-time-accounting-is-disabled) /proc/stat perf
   * [**서버에 걸리는 부하, 추측하지 말고 계측하자**](https://injae-kim.github.io/dev/2020/07/09/how-to-check-single-server-load-average.html) CPU, I/O bound
   * [Load Average에 대하여 :: Lunatine's Box — Lunatine's Box](https://lunatine.net/2016/02/19/about-load-average/)
+  * [Network Monitoring using SAR. In this blog we will have a look at how… | by Malith Jayasinghe | Medium](https://medium.com/@malith.jayasinghe/network-monitoring-using-sar-37bab6ce9f68)
 * `sed`
   * `find . -iname "*.java" -exec sed -i '' 's/[[:space:]]*$//' {} +` 특정 확장자 파일의 trailing whitespace를 sed로 제거
     * [find & sed (search and replace) - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/36795/find-sed-search-and-replace)
