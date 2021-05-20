@@ -634,6 +634,7 @@ Linux
 * `sar`
   * [practice - 지난 30일간 average CPU load만 모아서 그 평균을 계산](https://gist.github.com/hyunjun/af9868ec793c43a4f146ea2409190d00#file-sar-md)
   * [practice - 지난 14일간 average CPU load + memory usage 계산](https://gist.github.com/hyunjun/af9868ec793c43a4f146ea2409190d00#file-test_sar-sh)
+  * [practice - cpu, memory, buffer, disk, pageout on CentOS 7](https://gist.github.com/hyunjun/af9868ec793c43a4f146ea2409190d00#file-sar_examples-md)
   * [Understanding Linux CPU Load - when should you be worried?](https://scoutapm.com/blog/understanding-load-averages)
   * [CPU Load에 대해](https://brunch.co.kr/@leedongins/76)
   * [Linux capacity planning: 5 things you need to do](https://www.redhat.com/sysadmin/linux-capacity-planning)
