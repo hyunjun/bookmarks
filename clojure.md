@@ -1038,6 +1038,7 @@ Clojure
   * [Babashka pods: why, how to use and what's going on in the background? Example: go-sqlite3 - YouTube](https://www.youtube.com/watch?v=Q3EFNRwxLLo)
   * [Playing New Music On Old Car Stereo With Clojure And Babashka | Savo's Blog](https://savo.rocks/posts/playing-new-music-on-old-car-stereo-with-clojure-and-babashka/)
   * [babashka-sql-pods: Babashka pods for SQL databases](https://github.com/babashka/babashka-sql-pods)
+  * [bb-clis: Babashka CLIs](https://github.com/cldwalker/bb-clis)
   * [pod-babashka-sqlite3: A babashka pod for interacting with sqlite3](https://github.com/babashka/pod-babashka-sqlite3)
   * [reorder.clj babashka script for reordering requires and imports in clojure files](https://gist.github.com/laurio/01530ea7700752885df21e92bb926f75)
   * [spartan.spec: A spartan version of clojure.spec compatible with babashka](https://github.com/borkdude/spartan.spec)
