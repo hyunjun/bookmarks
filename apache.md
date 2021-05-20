@@ -278,7 +278,8 @@ Apache
 * [Accelerate Apache Spark SQL Queries](https://ignite.apache.org/use-cases/spark/sql-queries.html)
 * [Performance Tuning of an Apache Kafka/Spark Streaming System](https://mapr.com/blog/performance-tuning-apache-kafkaspark-streaming-system/)
 
-# [Impala](http://impala.io/)
+# Impala
+* [Impala](http://impala.io/)
 * [Apache Impala (Incubating)](http://www.cloudera.com/products/apache-hadoop/impala.html)
 * [Contributing to Impala](http://www.slideshare.net/cloudera/contributing-to-impala)
 * [The Impala Cookbook](http://www.slideshare.net/cloudera/the-impala-cookbook-42530186)
@@ -306,6 +307,7 @@ Apache
 * [Assessment of Apache Impala Performance using Cloudera Manager Metrics – Part 1 of 3](https://blog.cloudera.com/blog/2018/12/assessment-of-apache-impala-performance-using-cloudera-manager-metrics-part-1-of-3)
   * Cloudera Manger의 차트와 메트릭 기능을 사용하여 Impala 성능 이슈를 해결하는 방법
 * [Impala At Scale - 임상배 이사 (Cloudera)](https://www.youtube.com/watch?v=8RlqL2kZ-NA)
+* [practice - extract hour from unixtimestamp](https://gist.github.com/hyunjun/bc930e0bb463d8993ef11163895d6438#file-extract_hour_from_unixtimestamp-md)
 
 # [Jena](http://jena.apache.org)
 
