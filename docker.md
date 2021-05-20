@@ -494,6 +494,7 @@ Docker
 * [Hypervisor KVM 모니터링하기 3](https://naleejang.tistory.com/243)
 * [See Docker Community All-Hands #2 at Docker Docker Virtual Meetups](https://events.docker.com/events/details/docker-docker-virtual-meetups-presents-docker-community-all-hands-2/)
 * [Laurence Tratt: Fast Enough VMs in Fast Enough Time](https://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time.html)
+* [MORE AGILE: 구글의 클라우드 컴퓨팅 아키텍처와 오픈소스 컨테이너 프로젝트 Docker](https://www.moreagile.net/2014/05/ContainersAtScale.html) container화의 시작
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
