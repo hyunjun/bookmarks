@@ -896,7 +896,9 @@ Scala
     * zio-k8s
       * [Writing kubectl plugins with ZIO K8s](https://ziverge.com/blog/zio-k8s-kubectl-plugin/)
       * [ZIO World - ZIO Kubernetes (ZIO K8S 1.0) - YouTube](https://www.youtube.com/watch?v=BUMe2hGKjXA)
-    * zio-prelude [What's Ap with zio-prelude?](https://justinhj.github.io/2020/08/02/whats-ap-with-zio-prelude.html)
+    * zio-prelude
+      * [What's Ap with zio-prelude?](https://justinhj.github.io/2020/08/02/whats-ap-with-zio-prelude.html)
+      * [Zymposium - Prelude Redux (Type-classes without Type-classes) - YouTube](https://www.youtube.com/watch?v=97Yc0Ub9aZ8)
     * [zio-properties: A ZIO alternative to Spring Properties](https://adrianfilip.com/2020/05/03/zio-properties-a-zio-alternative-to-spring-properties/)
     * ZIO Schema [Zymposium - ZIO Schema - YouTube](https://www.youtube.com/watch?v=GfNiDaL5aIM)
     * ZIO STM
