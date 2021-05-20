@@ -531,5 +531,6 @@ Programming Language
 * [What are covariance and contravariance?](https://www.stephanboyer.com/post/132/what-are-covariance-and-contravariance)
   * [**공변성과 반공변성은 무엇인가?**](https://edykim.com/ko/post/what-is-coercion-and-anticommunism/)
 * [Static type의 맹점](https://b.luavis.kr/web/the-shocking-secret-about-static-types)
+* [An experiment about static and dynamic type systems](https://www.ics.uci.edu/~jajones/INF102-S18/readings/23_hanenberg.pdf) doubts about the positive impact of static type systems on development time
 * [The Future of Programming is Dependent Types — Programming Word of the Day](https://medium.com/background-thread/the-future-of-programming-is-dependent-types-programming-word-of-the-day-fcd5f2634878)
 * [Demystifying Type Systems | by Ihor Morenets | Wix Engineering](https://medium.com/wix-engineering/demystifying-type-systems-3a16fafbd92e)
