@@ -69,6 +69,7 @@ Programmer
 * [**2. 우아한형제들 부검 - 어디로 가는지**](https://jojoldu.tistory.com/564)
 * [욕 안 먹는 개발자되기 · shiren the creator](https://blog.shiren.dev/2021-04-20/)
 * [1억 글로벌 서비스를 만들며 배운 것들 2](https://brunch.co.kr/@jinaseong/29) 디자이너 이야기이지만 읽어볼만 함
+* [신입 개발자로서 도움이 된 포스트/자료 모음](https://velog.io/@hyounglee/for-newbies)
 
 # Cultuer, Team
 * [훌륭한 개발 문화의 이면(7) – 잉여력이냐 vs. 효율성이냐](http://channy.creation.net/blog/1238) 개발자 경력 경로
