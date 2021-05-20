@@ -19,7 +19,6 @@ Java
 * [133 Core Java Interview Questions Answers From Last 5 Years - The MEGA List](http://javarevisited.blogspot.com/2015/10/133-java-interview-questions-answers-from-last-5-years.html)
 * [Review these 50 questions to crack your Java programming interview](https://medium.freecodecamp.org/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f)
 * [Java bytecode hacking for fun and profit](http://cory.li/bytecode-hacking/)
-* [The Escape of ArrayList.iterator()](http://psy-lob-saw.blogspot.kr/2014/12/the-escape-of-arraylistiterator.html)
 * [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
 * [Java! Real or Not?](http://java.metagno.me/)
 * [Intersection of two Sets optimized way in Java](http://docs.likejazz.com/intersection-of-two-sets/)
@@ -128,6 +127,7 @@ Java
 * [프로그래밍 초식 : 사소한 개선 - 섞여 있는 계산 로직 분리 - YouTube](https://www.youtube.com/watch?v=gd9aeUywGcM)
 * [테크톡 당신의 코드는 POJO하신가요? - YouTube](https://www.youtube.com/watch?v=5NcqgXgmmjg)
 * [프로그램 초식(취향?): 쿼리에서 로직 빼기 - YouTube](https://www.youtube.com/watch?v=fnH_SR3n9Ew)
+* [9 Java low latency interview questions & answers with lots of diagrams](https://www.java-success.com/writing-low-latency-applications-in-java/)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -147,6 +147,8 @@ Java
 * [1. JAVA Reflection과 Annotaion으로 필드 및 메소드에 값 주입하기](https://kim-jong-hyun.tistory.com/22)
 * [굿 바이 자바 애플릿, Deprecate, for Removal](http://dalinaum.github.io/java/2021/03/07/good-bye-java-applet-deprecate-for-removal.html)
 * [Faster Charset Decoding | Claes Redestad’s blog](https://cl4es.github.io/2021/02/23/Faster-Charset-Decoding.html)
+* [The Escape of ArrayList.iterator()](http://psy-lob-saw.blogspot.kr/2014/12/the-escape-of-arraylistiterator.html)
+* [07: Java Iterable Vs Iterator differences and know how | Java-Success.com](https://www.java-success.com/%E2%99%A5-java-iterable-vs-iterator-differences-and-know-how/)
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
