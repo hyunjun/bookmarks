@@ -503,6 +503,7 @@ Java
 * [IntelliJ IDEA 2021.1 EAP 1 Supports Java 16](https://www.infoq.com/news/2021/02/intellij-idea-2021-eap1-java16/)
 * [키노트로 만든 IntelliJ, VSCode 키맵 템플릿](https://velog.io/@drypot/IntelliJ-VSCode-Keymap-Template)
 * [특정 포트 Process 종료하기](https://jojoldu.tistory.com/563)
+* [10분 테코톡 🍟 웨지의 인텔리제이 디버깅 - YouTube](https://www.youtube.com/watch?v=gkutTlwi70s)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
