@@ -923,6 +923,7 @@ NLP
 * [Language Models are Open Knowledge Graphs .. but are hard to mine! | by Nikhil Dharap | Jan, 2021 | Towards Data Science](https://towardsdatascience.com/language-models-are-open-knowledge-graphs-but-are-hard-to-mine-13e128f3d64d)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
   * [Jay Alammar - Take A Look Inside Language Models With Ecco | PyData Khobar - YouTube](https://www.youtube.com/watch?v=rHrItfNeuh0)
+* [KLUE Benchmark](https://klue-benchmark.com/)
 * [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA)
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
