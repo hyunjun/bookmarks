@@ -764,6 +764,7 @@ SQL
 * [PostgreSQL RDS Slow 쿼리 Slack으로 알람 보내기](https://jojoldu.tistory.com/570)
 * [Using PostgreSQL as a Data Warehouse](https://www.narrator.ai/blog/using-postgresql-as-a-data-warehouse/)
   * [PostgreSQL을 데이터 웨어하우스로 사용하기 | GeekNews](https://news.hada.io/topic?id=4239)
+* [Mac에 PostgreSQL없이 PSQL만 설치하기](https://jojoldu.tistory.com/574)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
