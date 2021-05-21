@@ -192,7 +192,6 @@ Android
 * [Pluu Dev - 간단하게 Navigation 생성 및 흐름 살펴보기](http://pluu.github.io/blog/android/2021/01/23/navigation-start/)
 * [Pluu Dev - Android 호환성 유지에 대한 고찰 ~ 언어편](http://pluu.github.io/blog/android/2021/01/27/compatibility-language/)
 * [Pluu Dev - Android 호환성 유지에 대한 고찰 ~ SDK/라이브러리](http://pluu.github.io/blog/android/2021/02/27/compatibility-sdk-library/)
-* [Pluu Dev - 요약 What's new in Android testing tools (Google I/O '21)](http://pluu.github.io/blog/android/io21/2021/05/20/whats-new-in-android-testing-tools/)
 * [안드로이드에서 카카오 우편번호 검색 구현하기 | Jungwoon Blog](https://jungwoon.github.io/android/2021/02/17/Implemente-DaumPostSearch.html)
 * [안드로이드 12 Preview 미리 만나보기](https://thdev.net/875)
 * [M1 맥북에서 안드로이드 에뮬레이터 사용하기](http://dalinaum.github.io/android/2021/03/15/m1-android-emulatore.html)
@@ -234,6 +233,7 @@ Android
 * [I/O에서 발표된 Android의 현재를 정리해보았습니다](https://developers-kr.googleblog.com/2019/08/whats-now-in-android.html)
 * [요약 Demystifying Android Accessibility Development (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/09/23/io19-demystifying-android-accessibility-development/)
 * [사내 Android 개발자 행사, LINE Android Day 후기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-android-day-1-recap/)
+* [Pluu Dev - 요약 What's new in Android testing tools (Google I/O '21)](http://pluu.github.io/blog/android/io21/2021/05/20/whats-new-in-android-testing-tools/)
 
 # Course MOOC Lecture
 * [안드로이드 강의 자료(Android Lecture)](https://github.com/jyheo/android-lecture)
