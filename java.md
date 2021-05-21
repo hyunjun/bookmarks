@@ -128,6 +128,7 @@ Java
 * [테크톡 당신의 코드는 POJO하신가요? - YouTube](https://www.youtube.com/watch?v=5NcqgXgmmjg)
 * [프로그램 초식(취향?): 쿼리에서 로직 빼기 - YouTube](https://www.youtube.com/watch?v=fnH_SR3n9Ew)
 * [9 Java low latency interview questions & answers with lots of diagrams](https://www.java-success.com/writing-low-latency-applications-in-java/)
+* [코드라떼 자바 - 메모리 모델 기초 - YouTube](https://www.youtube.com/watch?v=m9lv_Zt7otk) memory model
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -159,6 +160,8 @@ Java
   * [3. JAVA - Arrays.asList()와 List.of()의 차이](https://kim-jong-hyun.tistory.com/31)
   * [java 두 배열 비교할 때 어떻게 하면 좋을까요?](https://codingdog.tistory.com/entry/java-%EB%91%90-%EB%B0%B0%EC%97%B4-%EB%B9%84%EA%B5%90%ED%95%A0-%EB%95%8C-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%84%EA%B9%8C%EC%9A%94)
 * [autovalue](https://github.com/google/auto/blob/master/value/userguide/index.md)
+* Base64
+  * [Java Base64: How to Encode and Decode Base64 in Java | CodersTea](https://www.coderstea.com/post/java/java-base64-how-to-encode-and-decode-base64-in-java/)
 * class
   * [4대 중첩 클래스(내부 클래스)](http://dkatlf900.tistory.com/49)
   * [Fully Immutable Class in java](https://www.linkedin.com/pulse/fully-immutable-class-java-saral-saxena/)
