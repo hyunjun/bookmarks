@@ -507,6 +507,7 @@ Java
 * [키노트로 만든 IntelliJ, VSCode 키맵 템플릿](https://velog.io/@drypot/IntelliJ-VSCode-Keymap-Template)
 * [특정 포트 Process 종료하기](https://jojoldu.tistory.com/563)
 * [10분 테코톡 🍟 웨지의 인텔리제이 디버깅 - YouTube](https://www.youtube.com/watch?v=gkutTlwi70s)
+* [JetBrains Productivity Day 4부 패널토크 온/오프라인 인플루언서와 함께하는 IntelliJ IDEA와 생산성에 대한 이야기 - YouTube](https://www.youtube.com/watch?v=FCa4bTUowTY)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
@@ -1486,6 +1487,7 @@ Java
 * [30. Spring - Spring Boot Configuration Properties 클래스 만들기](https://kim-jong-hyun.tistory.com/56)
 * [32. Spring - Spring Boot 애플리케이션 war 배포 및 Tomcat Probe Manager 설정](https://kim-jong-hyun.tistory.com/58)
 * [2월 우아한테크세미나 우아한 스프링 부트 - YouTube](https://www.youtube.com/watch?v=z0EaPjF3pCQ) [pdf](pdfs/wooahan_spring_boot.pdf)
+* [spring-batch-querydsl: 스프링배치와 QuerydslPagingItemReader](https://github.com/jojoldu/spring-batch-querydsl)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
