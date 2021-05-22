@@ -133,6 +133,7 @@ Math
 * [**An Interactive Introduction to Fourier Transforms**](http://www.jezzamon.com/fourier/)
   * [푸리에 변환을 반응형으로 소개합니다](http://www.jezzamon.com/fourier/ko.html)
   * [fourier-playground: 푸리에 변환 실험실](https://github.com/suhdonghwi/fourier-playground)
+* [The Fourier transform is a neural network | sidsite](https://sidsite.com/posts/fourier-nets/)
 
 # Geometry
 * [eukleides - a geometry drawing language](http://eukleides.org/)
