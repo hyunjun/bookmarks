@@ -251,6 +251,8 @@ Nomad & Remote
 * [원격근무 가능한 포지션 구하는 방법 (a.k.a 디지털 노마드의 길) — 업플라이 #Upfly](https://www.upfly.me/blog/remote-digital-nomad-jobs)
 * [한국에 자율 출퇴근 혹은 원격 근무가 되는 회사가 있나요?](https://milooy.github.io/remote-or-flexible-work-company-in-korea)
 * [7 Great Tools to Help You While Working Remotely](https://medium.com/better-programming/hidden-gems-among-tools-to-help-you-while-working-remotely-a7c975d379a5)
+* [The Remote Work Report by GitLab: The Future of Work is Remote | GitLab](https://about.gitlab.com/remote-work-report/)
+  * [원격 근무 리포트 2021 51p PDF | GeekNews](https://news.hada.io/topic?id=4202)
 * [angel.co](https://angel.co/)
 * [flexjobs.com](https://www.flexjobs.com)
 * [remote.co](https://remote.co/)
