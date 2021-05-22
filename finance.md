@@ -43,6 +43,7 @@ Finance
 * [How to transfer your stocks to your broker with DTC (Depository Trust Company) code | by Bryant Jimin Son | Feb, 2021 | Medium](https://bryantson.medium.com/how-to-transfer-your-stocks-to-your-broker-with-dtc-depository-trust-company-code-1448628bfb3e) RSU같은 stock option을 받았을때 Broker로 트랜스퍼하는 방법
 * [**월급쟁이 주식투자 하는 법 (feat. 퇴직금)**](https://gist.github.com/hyunjun/16b8120e16ad8211b18c5317e06fe023#file-md)
 * [Enombic - 나만의 주식 인덱스 만들기 | GeekNews](https://news.hada.io/topic?id=3817)
+* [대가들의 투자 지침 01 - 자본 보존에 대해 : 네이버 블로그](https://blog.naver.com/jeunkim/222308104212)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
