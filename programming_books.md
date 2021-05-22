@@ -206,6 +206,7 @@ Programming Books
   * [테라폼 설치에서 운영까지 (Terraform Up & Running)](https://jybaek.tistory.com/893)
 * (NOT YET) [**스프링 부트와 AWS로 혼자 구현하는 웹 서비스 출간 후기**](https://jojoldu.tistory.com/463)
   * [freelec-springboot2-webservice](https://github.com/jojoldu/freelec-springboot2-webservice)
+  * [(2020.12.16) 스프링 부트와 AWS로 혼자 구현하는 웹 서비스 최신 코드로 변경하기](https://jojoldu.tistory.com/539)
 * [210.(책추천) AWS시작으로 좋은 책들](https://brunch.co.kr/@topasvga/666)
 * (NOT YET) [Amazon Web Services로 시작하는 클라우드 입문](https://jybaek.tistory.com/907)
 * (NOT YET) [AWS Lambda로 시작하는 서버리스](https://bjpublic.tistory.com/379)
@@ -340,6 +341,9 @@ Programming Books
 * (NOT YET) [이것이 MySQL이다](https://sihan-son.github.io/MYSQL/)
 * (NOT YET) [프로젝트 성패를 결정짓는 데이터 모델링 이야기](https://jybaek.tistory.com/887)
 * (NOT YET) [모두를 위한 PostgreSQL](https://bjpublic.tistory.com/394)
+* (NOT YET) [Real MySQL - YES24](http://www.yes24.com/Product/Goods/6960931)
+* (NOT YET) [Real MariaDB - YES24](http://www.yes24.com/Product/Goods/12653486?OzSrank=1)
+* (NOT YET) [High Performance MySQL: Optimization, Backups, and Replication: Schwartz, Baron, Zaitsev, Peter, Tkachenko, Vadim: 9781449314286: Amazon.com: Books](https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287)
 
 # Data Science
 
