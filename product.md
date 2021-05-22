@@ -148,6 +148,7 @@ Product
 * [세계에서 가장 조용한 블루투스 기계식 키보드! - 제닉스 Matias Laptop Pro](http://www.piscomu.com/PC/214030)
 * [The White Keyboard](https://www.massdrop.com/buy/the-whitefox-keyboard)
 * [기계식무선키보드 Royal Kludge RK61](https://developer-ankiwoong.tistory.com/835)
+* [Beginner’s Guide to Mechanical Keyboards - Jenny’s Newsletter](https://coolgadget.substack.com/p/beginners-guide-to-mechanical-keyboards)
 
 # Lamp
 * [전선 없이 빛을 내는 크리스마스 트리 전구](http://www.earlyadopter.co.kr/9430)
