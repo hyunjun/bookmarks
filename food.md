@@ -60,6 +60,7 @@ Food
 
 # 라면
 * [최현석 셰프의 쫄깃쫄깃 컵라면 레시피(동영상)](http://www.huffingtonpost.kr/2015/07/16/story_n_7806760.html)
+* [공식만 알면 라면이 더 맛있어진다!!! | 이심전심 N TALK - 마음에서 마음으로 전하는 농심 블로그](https://blog.nongshim.com/385)
 
 # 소고기
 * [냉장고를 부탁해 – 하우두유두](http://www.creativeworksofknowledge.com/2015/04/01/tofu-pork-steak/)
