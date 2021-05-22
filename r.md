@@ -852,3 +852,4 @@ R
 * [plotly를 사용한 반응형 그래프 그리기](https://issactoast.github.io/rprog2-plotly.html)
 * [r2d3 - R Interface to D3 Visualizations](https://blog.rstudio.com/2018/10/05/r2d3-r-interface-to-d3-visualizations/)
 * [rayshader - R Package for 2D and 3D mapping and data visualization https://www.rayshader.com ](https://github.com/tylermorganwall/rayshader)
+* [SDS375: SDS 375 Data Visualization in R](https://github.com/wilkelab/SDS375)
