@@ -308,6 +308,9 @@ Business
 * [개방형 사무실의 비밀 | ㅍㅍㅅㅅ](https://ppss.kr/archives/193462) office 개인 공간 privacy 생산성
 * [The Long Game](https://www.thestartupbible.com/2021/05/the-long-game.html) 꾸준함의 중요성
 * [우리의 일, 제품, 사람, 문화 이 모든 것의 기준 '핵심가치 10가지'](https://www.devsisters.com/ko/story/68/)
+* [Why do we buy into the 'cult' of overwork? - BBC Worklife](https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork) 야근 과로
+* [Amazon, Apple, Facebook, and Google became big tech companies by acquiring hundreds of smaller companies - Washington Post](https://www.washingtonpost.com/technology/interactive/2021/amazon-apple-facebook-google-acquisitions/) visualization
+* ['지속적 학습 문화' 구축법 10가지 - CIO Korea](https://www.ciokorea.com/news/190963)
 
 # 채용
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
@@ -532,6 +535,7 @@ Business
 * [리더가 관리해야 할 4가지 Resource](https://brunch.co.kr/@feeljaekim/30)
 * [적당히 까칠한 리더가 좋은 리더다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240773) 이탈 Exit 표출 Voice 방관 Neglect 감내 Loyalty
 * [Good Leadership Is About Asking Good Questions](https://hbr.org/2021/01/good-leadership-is-about-asking-good-questions)
+* [What Leaders Really Do – TLNT](https://www.tlnt.com/what-leaders-really-do/)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -597,6 +601,7 @@ Business
 * [**평가방법 OKR, KPI, MBO 뭐가 다른거에요?**](https://brunch.co.kr/@ywkim36/41)
 * [OKR과 조직문화: OKR이 현장에서 실패하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220905)
 * [할일목록에 OKR 적용하기](https://brunch.co.kr/@graypool/30)
+* [How to explain OKRs ( Objectives and Key Results) in plain English | The Enterprisers Project](https://enterprisersproject.com/article/2021/4/okrs-explained-plain-english)
 
 # Patent
 * 세기의 특허전쟁
@@ -705,6 +710,7 @@ Business
 * [브런치북 스타트업, 그리고 개발이야기](https://brunch.co.kr/brunchbook/chickenmoim)
 * [13일만에 투자받은 Airbyte의 IR덱 | GeekNews](https://news.hada.io/topic?id=3998)
   * [The Deck We Used to Raise Our Seed with Accel in 13 Days](https://airbyte.io/articles/our-story/the-deck-we-used-to-raise-our-seed-with-accel-in-13-days/)
+* [스타트업, 왜 실패하는가? | 리더십 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/8_1/article_no/1705)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
