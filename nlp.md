@@ -367,6 +367,7 @@ NLP
 * [자연어 생성의 편견과 기타 유해성에 대처하기 - ITWorld Korea](https://www.itworld.co.kr/news/186448)
 * [Best Practices: Designing autosuggest experiences](https://blog.prototypr.io/best-practices-designing-autosuggest-experiences-9c3394774519)
   * [자동 추천(Autosuggest) 기능의 사용자 경험 설계하기 | GeekNews](https://news.hada.io/topic?id=3867)
+* ['사물에 이입해 대답한다' 구글, 개발자 회의서 AI 기술 역량 과시 - CIO Korea](https://www.ciokorea.com/news/194544) LaMDA MUM
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
