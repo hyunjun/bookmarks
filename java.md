@@ -748,6 +748,7 @@ Java
 * [JVM 내부 동작 원리 & 자바 컴파일,실행 순서 - 런타임 영역, JIT 컴파일러, 인터프리터](https://tjdrnr05571.tistory.com/19)
 * [Off-Heap memory reconnaissance • Brice Dutheil](https://blog.arkey.fr/2020/11/30/off-heap-reconnaissance/)
 * [How to Write Unmaintainable (But Wicked Fast!) Code on the JVM by John A. De Goes - YouTube](https://www.youtube.com/watch?v=k6GBKaG2MpQ)
+* [🚀 Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure) | Technorage](https://deepu.tech/memory-management-in-jvm/)
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
   * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics](https://micrometer.io/)
