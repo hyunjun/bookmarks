@@ -691,7 +691,7 @@ Interview
 * [whoishiring.io - Who is hiring? Map Edition](http://whoishiring.io/)
 * [vaadin.com](https://vaadin.com/jobs?gclid=COPMhIPR8ckCFQuCvQod-YALmQ)
 
-## Remote
+## Job Search Remote
 * [siderly.com - GET REMOTE WORK WITH YOUR SIDE PROJECT](http://siderly.com/)
 * [talentboard - The best and simple way to find remote work](http://talentboard.me/candidate)
 
