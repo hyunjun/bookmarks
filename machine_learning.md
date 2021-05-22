@@ -633,6 +633,7 @@ Machine Learning
 * [Is Machine Learning the Right Tool?](https://www.infoq.com/presentations/machine-learning-right-tool/)
 * [Building Machine Learning infra](https://morioh.com/p/b0384838c50f)
 * [Principal Component Analysis (PCA) with Python Examples — Tutorial | by Towards AI Team | Towards AI | Nov, 2020 | Medium](https://medium.com/towards-artificial-intelligence/principal-component-analysis-pca-with-python-examples-tutorial-67a917bae9aa)
+* [Principal Component Analysis explained visually](https://setosa.io/ev/principal-component-analysis/) PCA
 * [조대협의 블로그 :: 머신러닝 파이프라인에서 데이터 전처리 방법](https://bcho.tistory.com/1380) 일반적인 이야기 + GCP 이야기
 * [Introducing Machine Learning for Developers Newsletter (ML4Devs, Issue 1) - Machine Learning for Developers](https://ml4devs.substack.com/p/001-machine-learning-for-developers-newsletter)
 * [Machine Learning vs. Traditional Software Development (ML4Devs, Issue 2) - Machine Learning for Developers](https://ml4devs.substack.com/p/002-machine-learning-vs-traditional-software)
@@ -647,6 +648,7 @@ Machine Learning
 * [Sai Ma - MIY: Model It Yourself - with ML Legobricks - YouTube](https://www.youtube.com/watch?v=dhYVu9L30ns)
 * [Pydata Berlin April 2021: How to detect silent failures in ML models - YouTube](https://www.youtube.com/watch?v=TE37ROjLdEE)
 * [원티드는 어떻게 AI로 채용 결과를 예측하고 매칭할까? | by 황리건 Reagan Hwang | 원티드 제품 팀블로그 | May, 2021 | Medium](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-ai%EB%A1%9C-%EC%B1%84%EC%9A%A9-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EC%98%88%EC%B8%A1%ED%95%98%EA%B3%A0-%EB%A7%A4%EC%B9%AD%ED%95%A0%EA%B9%8C-7bdcd8840b6b)
+* [Comparing ML as a Service (MLaaS): Amazon AWS, IBM Watson, MS Azure | AltexSoft](https://www.altexsoft.com/blog/datascience/comparing-machine-learning-as-a-service-amazon-microsoft-azure-google-cloud-ai-ibm-watson/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -977,6 +979,7 @@ Machine Learning
 * [Highest Rated ML Projects on Github](https://towardsdatascience.com/highest-rated-ml-projects-on-github-694486293512)
 * [A Tour of End-to-End Machine Learning Platforms – Databaseline by Ian Hellström](https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/)
 * [‘머신러닝을 쉽게’··· 추천 오픈소스 도구 14선 - CIO Korea](http://www.ciokorea.com/news/166185)
+* ['내부 머신러닝 지원' 데이터베이스 8종 - CIO Korea](https://www.ciokorea.com/news/192599)
 * [aerosolve](http://airbnb.io/aerosolve/)
   * [aerosolve](http://nerds.airbnb.com/aerosolve)
   * [에어비앤비, 머신러닝 데이터 분석도구 오픈소스로 공개](http://www.bloter.net/archives/229587)
@@ -1010,6 +1013,7 @@ Machine Learning
 * [**JupyterFlow - Run your workflow on JupyterHub**](https://jupyterflow.com/)
   * [번역 데이터 과학자들은 쿠버네티스에 관심이 없습니다 - MLOps | 커피고래의 노트](https://coffeewhale.com/kubernetes/mlops/2021/01/28/mlops-determinedai/)
   * [데이터 과학자를 위한 ML툴 | 커피고래의 노트](https://coffeewhale.com/kubernetes/mlops/2021/03/02/mlops-jupyterflow/)
+* [Kobra | A visual programming language for machine learning (in beta)](https://kobra.dev/)
 * [Leaf is a open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe](https://github.com/autumnai/leaf)
 * LightGBM
   * [Welcome to LightGBM’s documentation! — LightGBM 2.3.2 documentation](https://lightgbm.readthedocs.io/)
