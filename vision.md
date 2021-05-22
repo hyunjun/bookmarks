@@ -687,6 +687,7 @@ Vision
   * [FaceMaskDetection: 开源人脸口罩检测模型和数据 Detect faces and determine whether people are wearing mask](https://ainize.ai/woomurf/FaceMaskDetection)
 * [facenet - Face Recognition using Tensorflow](https://github.com/davidsandberg/facenet)
 * [face_recognition - The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
+* [Facial-Emotion-Recognition: Third year undergraduate project in Computer Science. Creation of facial emotion recognition system using deep learning (Keras, Tensorflow, OpenCV)](https://github.com/CallumAltham/Facial-Emotion-Recognition)
 * [malmopy: Python Library for working with Project Malmo - Hack & Tell Singapore](https://www.youtube.com/watch?v=-IbC88-Fa7w)
 * [mmtracking: OpenMMLab Video Perception Toolbox. It supports Single Object Tracking (SOT), Multiple Object Tracking (MOT), Video Object Detection (VID) with a unified framework](https://github.com/open-mmlab/mmtracking)
 * [norfair: Lightweight Python library for adding real-time 2D object tracking to any detector](https://github.com/tryolabs/norfair)
