@@ -235,6 +235,7 @@ Android
 * [요약 Demystifying Android Accessibility Development (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/09/23/io19-demystifying-android-accessibility-development/)
 * [사내 Android 개발자 행사, LINE Android Day 후기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-android-day-1-recap/)
 * [Pluu Dev - 요약 What's new in Android testing tools (Google I/O '21)](http://pluu.github.io/blog/android/io21/2021/05/20/whats-new-in-android-testing-tools/)
+* [Pluu Dev - 요약 Refreshing widgets (Google I/O '21)](http://pluu.github.io/blog/android/io21/2021/05/21/io21-refreshing-widgets/)
 
 # Course MOOC Lecture
 * [안드로이드 강의 자료(Android Lecture)](https://github.com/jyheo/android-lecture)
