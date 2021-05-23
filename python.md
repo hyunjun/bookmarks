@@ -3512,6 +3512,8 @@ Python
 * [Publishing Well Formed Python Packages - Julin Shaji - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=XFGXCK6HZbk)
 * [Virtual Environments Demystified | Lukas Waymann](https://meribold.org/python/2018/02/13/virtual-environments-9487/) 임의로 가상 환경 구성
 * [How to make an awesome Python package in 2021 | Anton Zhiyanov](https://antonz.org/python-packaging/)
+* [나의 파이썬 환경 구축기 1 - 써본 것들에 대한 생각](https://dailyheumsi.tistory.com/243) pyenv poetry
+* [나의 파이썬 환경 구축기 2 - pyenv + poetry](https://dailyheumsi.tistory.com/244) pyenv poetry
 * [ezpypi: Very simple and easy to use pip on any os](https://github.com/dlehdgud2380/ezpypi)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
   * [Pex를 이용한 배포](https://b.luavis.kr/python/deploy-with-pex)
