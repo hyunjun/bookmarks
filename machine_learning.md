@@ -249,6 +249,7 @@ Machine Learning
 * [Cross-validation for detecting and preventing overfitting](http://www.autonlab.org/tutorials/overfit10.pdf)
 * [18. 모델의 과최적화를 피하는 방법 (overfitting, regularization)](http://daeson.tistory.com/m/184)
 * [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
+* [The Secret behind Train and Test Split in Machine Learning Process - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/the-secret-behind-train-and-test-split)
 * [Sergey Feldman: You Should Probably Be Doing Nested Cross-Validation | PyData Miami 2019](https://www.youtube.com/watch?v=DuDtXtKNpZs)
 * [크로스 밸리데이션(cross validation, 교차 검증)의 개념, 의미 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/machine-learning/cross-validation/)
 * [딥러닝 필수 파이썬 지식: 이미지 파일 확장자 검증](https://www.youtube.com/watch?v=LUgM_TBT35E)
