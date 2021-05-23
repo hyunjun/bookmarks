@@ -252,6 +252,7 @@ Programming Books
   * ['마이크로서비스 도입 이렇게 한다' 출연 동영상과 멋진 독후감 소개](https://jhrogue.blogspot.com/2021/05/b.html)
 * (NOT YET) [도메인 주도 설계로 시작하는 마이크로서비스 개발 | 위키북스](https://wikibook.co.kr/ddd-msa/)
 * (NOT YET) [소프트웨어 아키텍트가 알아야할 97가지 출간!!! | Architecture 101](https://architecture101.blog/2011/04/04/publish-eva-97architect/)
+* (NOT YET) [엔터프라이즈 환경을 위한 마이크로서비스 | 에이콘출판사](http://www.acornpub.co.kr/book/microservices-enterprise)
 
 # C
 
@@ -932,6 +933,7 @@ Programming Books
 * (NOT YET) [<Must Have> Tucker의 Go 언어 프로그래밍 : Golang 입문부터 고급 기법까지, 재미있는 4가지 프로젝트와 함께(27장 SOLID 전체 공개 버전) by 최현우 - issuu](https://issuu.com/iamhwchoi/docs/golang2)
   * [Tucker Programming - YouTube](https://www.youtube.com/channel/UCZp_ftx6UB_32VfVmlS3o_A)
   * [Tucker의 Go 언어 프로그래밍](https://jhrogue.blogspot.com/2021/04/tucker-go.html)
+* (NOT YET) [Go 마스터하기 2/e | 에이콘출판사](http://www.acornpub.co.kr/book/mastering-go-2e)
 
 # Hadoop
 
@@ -1616,6 +1618,7 @@ Programming Books
   * [Do it! 쉽게 배우는 R 텍스트 마이닝 - 06 토픽 모델링: 어떤 주제로 글을 썼을까?](https://youngwoos.github.io/Doit_textmining/06/06-topicModeling.html)
   * [Do it! 쉽게 배우는 R 텍스트 마이닝 - 07 텍스트 마이닝 프로젝트: 타다 금지법 기사 댓글 분석](https://youngwoos.github.io/Doit_textmining/07-project1.html)
   * [Do it! 쉽게 배우는 R 텍스트 마이닝 - 08 텍스트 마이닝 프로젝트: 차기 대선 주자 SNS 여론 분석](https://youngwoos.github.io/Doit_textmining/08-project2.html)
+* (NOT YET) [메이저리그 야구 통계학 2/e | 에이콘출판사](http://www.acornpub.co.kr/book/mlb-statistics-2e)
 
 # Rust
 * (NOT YET) [러스트 프로그래밍 공식 가이드](https://jpub.tistory.com/980)
