@@ -438,6 +438,7 @@ Web
   * [Web Scraping Using Selenium. A simplified example of scraping an… | by Kiprono Elijah Koech | Towards Data Science](https://towardsdatascience.com/web-scraping-e-commerce-website-using-selenium-1088131c8541)
   * [How to Use Selenium to Automate Everything in the Browser | by James Briggs | Python In Plain English | Oct, 2020 | Medium](https://medium.com/python-in-plain-english/how-to-use-selenium-to-automate-everything-in-the-browser-c18a28750125)
   * [파이썬 셀레니움 이미지 크롤링으로 배우는 업무 자동화의 기초 - YouTube](https://www.youtube.com/watch?v=1b7pXC1-IbE)
+  * [New Live Stream: Modern UI Test Automation with Selenium Libraries | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2021/05/new-live-stream-modern-ui-test-automation-with-selenium-libraries/)
 * [springer_free_books - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine](https://github.com/alexgand/springer_free_books)
 * [youtube-downloader-v1.0](https://github.com/jiyeon1997/youtube-downloader-v1.0)
 
