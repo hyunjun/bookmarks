@@ -202,6 +202,7 @@ Git
 * [What’s wrong with Git? A conceptual design analysis | the morning paper](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
 * [Git as a NoSql database](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/)
 * [Scaling monorepo maintenance | The GitHub Blog](https://github.blog/2021-04-29-scaling-monorepo-maintenance/)
+* [Spoqa 기술 블로그 | Semantic Versioning 소개](https://spoqa.github.io/2012/12/18/semantic-versioning.html)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -402,6 +403,9 @@ Git
   * [git commit accepts several message flags (-m) to allow multiline commits](https://www.stefanjudis.com/today-i-learned/git-commit-accepts-several-message-flags-m-to-allow-multiline-commits/)
   * [git commit author 변경 (커밋 작성자 변경하기)](https://madplay.github.io/post/change-git-author-name)
   * [Commits are snapshots, not diffs - The GitHub Blog](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
+  * [Conventional Commits](https://www.conventionalcommits.org/ko/v1.0.0-beta.4/)
+  * [Commitizen](https://github.com/commitizen)
+    * [Commitizen으로 커밋, 버전 관리하기](https://dailyheumsi.tistory.com/266)
 * `config`
   * basics
 
@@ -500,6 +504,7 @@ Git
   * [pre-commit hooks you must know. Boost your productivity and code… | by Martin Thoma | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/pre-commit-hooks-you-must-know-ff247f5feb7e)
   * [**Heroku-style deployments with Docker and git tags**](https://ricardoanderegg.com/posts/git-push-deployments-docker-tags/)
   * [Integrate `wemake-python-styleguide` in pre-commit git hook | by Jonathonbao | Medium](https://medium.com/@jonathonbao/integrate-wemake-python-styleguide-in-pre-commit-git-hook-872a8fc20233)
+  * [pre-commit 도구로 Git Hook 사용하기 | Engineering Blog by Dale Seo](https://www.daleseo.com/pre-commit/)
 * [`inject`](https://news.ycombinator.com/item?id=9705690) amend commits other than HEAD
 * `log`
   * `git log --all -- [deleted path/to/file]` [How to locate a deleted file in the commit history?](http://stackoverflow.com/questions/7203515/how-to-locate-a-deleted-file-in-the-commit-history)
