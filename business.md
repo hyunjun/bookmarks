@@ -504,6 +504,7 @@ Business
 * [**테크니컬 리더십: 시작하기**](http://leafbird.github.io/devnote/2018/11/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%A6%AC%EB%8D%94%EC%8B%AD-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
 * [정우영 칼럼 KBO와 NPB를 우승한 힐만 감독의 리더십](https://sports.v.daum.net/v/20181116103351891)
 * [신수정의 리더십 코칭 ① 리더라면 갖춰야 할 '무시당할 용기'](http://www.ttimes.co.kr/view.html?no=2020021310187718217)
+* [당신은 조직 내에서 좋은 코치인가요? : 네이버 블로그](https://blog.naver.com/careeryooncoach/222341446900)
 * [Google Spent a Decade Researching What Makes a Great Boss. It Came Up With These 10 Things](https://www.inc.com/justin-bariso/google-spent-a-decade-researching-what-makes-a-great-boss-they-came-up-with-these-10-things.html)
 * ["솔직히 말하면 다양성은 개소리야"](https://brunch.co.kr/@svillustrated/58) 한 가지 기준으로만 팀을 구성했을 때 나타난 문제점
 * [혼내는 것도 요령이 있다](http://moneyman.kr/archives/1584)
