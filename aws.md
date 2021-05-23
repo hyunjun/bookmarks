@@ -664,6 +664,7 @@ AWS
 * [How to configure IAM roles for Fargate Tasks on AWS](https://towardsdatascience.com/how-to-configure-iam-roles-for-fargate-tasks-on-aws-76ad54f11314)
 * [Elastic Container Service - CPU, Memory 설정 최적화](https://jybaek.tistory.com/912)
 * [Elastic Container Service - Service Type](https://jybaek.tistory.com/915)
+* [AWS Elastic Container Service 프레젠테이션 정리](https://jybaek.tistory.com/919)
 * [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
 
 # EKS
