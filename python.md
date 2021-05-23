@@ -2171,6 +2171,7 @@ Python
 * [How to deploy Flask on IIS with Windows Authentication | by Rudy W | Medium](https://medium.com/@nerdijoe/how-to-deploy-flask-on-iis-with-windows-authentication-733839d657b7)
 * [12 requests per second in Python](https://suade.org/dev/12-requests-per-second-with-python/) uvloop
 * [Flask Course - Python Web Application Development - YouTube](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
+* [Some New Features in Flask 2.0 - YouTube](https://www.youtube.com/watch?v=SMTf5UWlw1s)
 
 ## Flask Library
 * [Bread pan 기본적인 웹서비스를 간단하게 만드는 프로젝트 틀](https://github.com/jinhoyoo/breadpan) 구조 참고
