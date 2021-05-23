@@ -70,6 +70,7 @@ Python
   * [번역 파이썬 GIL은 사라질까?](https://seonghyeon.dev/has-the-python-gil-been-slain/)
   * [python의 GIL과 threading](https://blog.hanaoto.me/gil-and-threading-in-python/)
   * [왜 Python에는 GIL이 있는가](https://dgkim5360.tistory.com/entry/understanding-the-global-interpreter-lock-of-cpython)
+  * [python gil이 있으니까 thread safe 할까요?](https://codingdog.tistory.com/entry/python-gil%EC%9D%B4-%EC%9E%88%EC%9C%BC%EB%8B%88%EA%B9%8C-thread-safe-%ED%95%A0%EA%B9%8C%EC%9A%94)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
 * [Python Trainer](https://github.com/aaronchall/pythontrainer)
 * [Hands-on Introduction to Spatial Data Analysis in Python](https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python)
