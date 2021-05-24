@@ -2173,6 +2173,7 @@ Python
 * [12 requests per second in Python](https://suade.org/dev/12-requests-per-second-with-python/) uvloop
 * [Flask Course - Python Web Application Development - YouTube](https://www.youtube.com/watch?v=Qr4QMBUPxWo)
 * [Some New Features in Flask 2.0 - YouTube](https://www.youtube.com/watch?v=SMTf5UWlw1s)
+* [Using Async Functions Inside of Flask Routes - YouTube](https://www.youtube.com/watch?v=0z74b3c63GA)
 
 ## Flask Library
 * [Bread pan 기본적인 웹서비스를 간단하게 만드는 프로젝트 틀](https://github.com/jinhoyoo/breadpan) 구조 참고
