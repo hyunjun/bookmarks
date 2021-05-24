@@ -129,6 +129,7 @@ Java
 * [프로그램 초식(취향?): 쿼리에서 로직 빼기 - YouTube](https://www.youtube.com/watch?v=fnH_SR3n9Ew)
 * [9 Java low latency interview questions & answers with lots of diagrams](https://www.java-success.com/writing-low-latency-applications-in-java/)
 * [코드라떼 자바 - 메모리 모델 기초 - YouTube](https://www.youtube.com/watch?v=m9lv_Zt7otk) memory model
+* [코드라떼 자바 - Call By Value, 값에 의한 호출 - YouTube](https://www.youtube.com/watch?v=Vd1C3-wHc4Y)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
