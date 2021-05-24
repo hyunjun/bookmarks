@@ -238,6 +238,7 @@ Android
 * [Pluu Dev - 요약 Refreshing widgets (Google I/O '21)](http://pluu.github.io/blog/android/io21/2021/05/21/io21-refreshing-widgets/)
 * [Pluu Dev - 요약 Top 12 tips to get ready for Android 12 (Google I/O '21)](http://pluu.github.io/blog/android/io21/2021/05/22/io21-top-12-tips-to-get-ready-for-android-12/)
 * [Pluu Dev - 요약 What’s new in Android privacy (Google I/O '21)](http://pluu.github.io/blog/android/io21/2021/05/23/io21-whats-new-in-android-privacy/)
+* [Pluu Dev - 요약 Effective background tasks on Android (Google I/O '21)](http://pluu.github.io/blog/android/io21/2021/05/23/io21-effective-background-tasks-on-android/)
 
 # Course MOOC Lecture
 * [안드로이드 강의 자료(Android Lecture)](https://github.com/jyheo/android-lecture)
