@@ -96,6 +96,7 @@ AWS
 * [1. Github Action & AWS Beanstalk 배포하기 - Github Action으로 빌드하기](https://jojoldu.tistory.com/543)
 * [2. Github Action & AWS Beanstalk 배포하기 - profile=local로 배포하기](https://jojoldu.tistory.com/549)
 * [elastic beanstalk Amazon Linux2 python 환경 마이그레이션 후기 | by Juneseok Byun | Hard Boiled Smith Stories | May, 2021 | Medium](https://medium.com/hbsmith/elastic-beanstalk-amazon-linux2-python-%ED%99%98%EA%B2%BD-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%9B%84%EA%B8%B0-96fe21370d84)
+* [AWS Elastic Beanstalk Amazon Linux2 환경에서의 로그 커스터마이징 (Amazon Cloudwatch & EB Web Console) | by Juneseok Byun | Hard Boiled Smith Stories | May, 2021 | Medium](https://medium.com/hbsmith/aws-elastic-beanstalk-amazon-linux2-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EB%A1%9C%EA%B7%B8-%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95-amazon-cloudwatch-eb-web-console-1dcb9cc79316)
 * [AWS Transit Gateway - 1](http://zigispace.net/991)
 * [AWS Transit Gateway - 2](http://zigispace.net/992)
 * [AWS Transit Gateway와 Site-to-Site VPN을 이용한 오피스 네트워크 구성 | by Dahyun | 원티드 제품 팀블로그 | Oct, 2020 | Medium](https://medium.com/wantedjobs/aws-transit-gateway%EC%99%80-site-to-site-vpn%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%94%BC%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B5%AC%EC%84%B1-50d4948274bc)
