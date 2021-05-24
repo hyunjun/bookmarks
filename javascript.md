@@ -2328,6 +2328,7 @@ Javascript
 * [Free Course Fridays: Hello React — React Training for JavaScript Beginners](https://codeburst.io/free-course-fridays-hello-react-react-training-for-javascript-beginners-71cba2698735)
 * [Reactjs JavaScript Tutorial - Full Course 10 Hours (2020)](https://morioh.com/p/e183701d79aa)
 * [React Full Course - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://morioh.com/p/34eeae8b4e34)
+* [React course - Clelab](https://clelab.io/course/0)
 * [egoing.github.io/react-tutorial-example](https://egoing.github.io/react-tutorial-example)
 * [React-web-tutorial - React tutorial for WEB beginners](https://github.com/kimxogus/React-web-tutorial)
 * [Try React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
