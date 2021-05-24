@@ -600,9 +600,11 @@ Business
 * [Book OKR - 전설적인 벤처투자자가 구글에 전해준 성공 방식 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1525)
 * [CPO가 활용하는 프레임워크 5가지](https://brunch.co.kr/@yongjinjinipln/83) Goals-Signals-Metrics (GSM), KPI Graphs, HEART, HOSKR, OKRs
 * [**평가방법 OKR, KPI, MBO 뭐가 다른거에요?**](https://brunch.co.kr/@ywkim36/41)
+* [평가 방법 OKR, KPI, MBO 뭐가 다른 거예요? - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2021/03/17/okr-kpi-mbo/)
 * [OKR과 조직문화: OKR이 현장에서 실패하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220905)
 * [할일목록에 OKR 적용하기](https://brunch.co.kr/@graypool/30)
 * [How to explain OKRs ( Objectives and Key Results) in plain English | The Enterprisers Project](https://enterprisersproject.com/article/2021/4/okrs-explained-plain-english)
+* [달성 가능한 목표](https://www.thestartupbible.com/2021/05/how-to-set-realistic-goals-for-your-employees.html#comment-6893) OKR 자체는 아니고 목표 설정에 대한 이야기
 
 # Patent
 * 세기의 특허전쟁
