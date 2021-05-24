@@ -983,6 +983,7 @@ Clojure
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
 * [scicloj.ml - Proposal for a Clojure machine learning library](https://github.com/scicloj/scicloj.ml)
+* [sci-script-tag](https://borkdude.github.io/sci-script-tag/) exposes the Small Clojure Interpreter in the browser in such a way that you can use it with the script tag
 * [Selmer](https://github.com/yogthos/Selmer) template
 * [sequence: Immutable, scalable, and easy to use ledger service](https://github.com/runopsio/sequence)
   * [Things I Wish I Knew Before Building a Ledger - Decimals Blog](https://decimals.substack.com/p/things-i-wish-i-knew-before-building)
