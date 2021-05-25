@@ -1482,6 +1482,8 @@ Programming Books
   * [서평, jpub](https://medium.com/@strncpy/%ED%95%9C-%EA%B6%8C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B8%B0%EC%B4%88-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%82%AC%EA%B3%A0%EB%B2%95-cd5f19d6ff7a)
 * 고성능 파이썬
   * 한라 005.133고294ㄱ
+  * [고성능 파이썬(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B8494674601)
+    * [high-performance-python](https://github.com/UrangUrang/high-performance-python)
 * [**실전 스케일링 파이썬 프로그래밍**](https://blog.insightbook.co.kr/2018/08/22/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%ED%99%95%EC%9E%A5%EA%B3%BC-%EB%B6%84%EC%82%B0-%E3%80%8E%EC%8B%A4%EC%A0%84-%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-%ED%8C%8C/)
   * 2018.09
   * 탐라 문005.133 단77ㅅ
