@@ -1016,6 +1016,7 @@ App
 * [Install MySQL GUI, Mongodb in M1 Mac | by Ryan Kim | Mar, 2021 | Medium](https://equus3144.medium.com/install-mysql-gui-mongodb-in-m1-mac-dd8be6251f3f)
 * [M1 맥북 개발 환경 세팅](https://jojoldu.tistory.com/571)
 * command terminal
+  * diskutil [꿀벌개발일지 :: 홈어시스턴스 이미지 생성 시 오류](https://ohgyun.com/810)
   * sed [Mac OS X에서 Multi Tab(\t\t) 정리하기](https://jojoldu.tistory.com/542)
 * [Mac에서 개발 환경 (IntelliJ 기반) 꾸미기](https://jojoldu.tistory.com/556)
 * [macOS에서 한글 파일/디렉터리 잘 다루기 – rein's world](https://rein.kr/blog/archives/5378)
