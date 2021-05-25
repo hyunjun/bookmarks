@@ -1287,6 +1287,7 @@ Docker
   * [도커 없이 컨테이너 만들기 5편 - Google Slides](https://docs.google.com/presentation/d/1rQQzmg83m_lU6mcIy2eZSXDlLqKmJB748GfPeHDWTeI/edit) [pdf](pdfs/container_without_docker_5.pdf)
   * [도커 없이 컨테이너 만들기 6편 - Google Slides](https://docs.google.com/presentation/d/10JRQpeRHKhrl_FS-IWyCENRF9mjedXlxZbX8o0MEoFk/edit) [pdf](pdfs/container_without_docker_6.pdf)
   * [도커 없이 컨테이너 만들기 7편 - Google Slides](https://docs.google.com/presentation/d/10TCStiRnnvF-IBCGx7hNB4na5YI-CSmxWB6HpG9HCrc/edit) [pdf](pdfs/container_without_docker_7.pdf)
+  * [도커 없이 컨테이너 만들기 8편 - Google Slides](https://docs.google.com/presentation/d/1CY3lXDpWSsNbp8mhUsQAsp474jY7THt7CpCf5dWdLEc/edit) [pdf](pdfs/container_without_docker_8.pdf)
 
 # Virtualization
 * [Virt Tools](https://www.virt-tools.org/)
