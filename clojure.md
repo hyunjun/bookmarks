@@ -354,6 +354,7 @@ Clojure
 * [Paths, Paths, Paths ...](https://code.thheller.com/blog/shadow-cljs/2021/05/13/paths-paths-paths.html) classpath
 * [Using Hue connected lights and temp sensors to preview today's weather! | Medium](https://weakreference.medium.com/shorts-or-jeans-revisited-e2fc7f9c9559)
 * [Fibonacci Numbers in the Real World](https://lee-phillips.org/lispmath/)
+* [Once Upon a Class](https://danielsz.github.io/blog/2021-05-12T13_24.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
