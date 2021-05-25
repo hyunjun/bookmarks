@@ -1053,6 +1053,8 @@ NLP
   * [mecab-ko 윈도우에서 빌드하기](http://legendfinger.tistory.com/625)
   * [윈도우 python3.X  mecab 설치 간단~](https://cleancode-ws.tistory.com/97)
   * [Google Colab에서 Mecab-ko-dic 쉽게 사용하기](https://somjang.tistory.com/entry/Google-Colab%EC%97%90%EC%84%9C-Mecab-koMecab-ko-dic-%EC%89%BD%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+  * [mecab-bind: Binding MeCab Tagger to Python3 and TensorFlow](https://github.com/jeongukjae/mecab-bind)
+    * [mecab-ko-dic-prebuilt: 미리 빌드되어 있는 mecab-ko-dic](https://github.com/jeongukjae/mecab-ko-dic-prebuilt)
   * [natto-py - combines the Python programming language with MeCab, the part-of-speech and morphological analyzer for the Japanese language](https://github.com/buruzaemon/natto-py)
   * [python-mecab - A repository to bind mecab for Python 3.5+. Not using swig nor pybind. https://pypi.org/project/python-mecab ](https://github.com/jeongukjae/python-mecab)
 * [Memory Networks](https://github.com/facebook/MemNN)
