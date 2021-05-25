@@ -94,6 +94,7 @@ Flutter
 * [다트 기본 구조 및 중요 개념](https://brunch.co.kr/@mystoryg/116)
 * [다트(Dart) 키워드(Keyword)](https://brunch.co.kr/@mystoryg/117)
 * [다트 주석, 변수, 상수, 타입](https://brunch.co.kr/@mystoryg/118)
+* [Dart에서 변수 - Flutter로 앱을 개발하기 위해서 Flutter의 개발 언어인 Dart에 대해서 알아봅시다. 이번 블로그 포스트에서는 Dart의 변수에 대해서 알아봅니다](https://dev-yakuza.posstree.com/ko/flutter/dart/variable/)
 * [다트 함수(Dart Function)](https://brunch.co.kr/@mystoryg/119)
 * [다트 연산자(Dart Operator)](https://brunch.co.kr/@mystoryg/120)
 * [다트 조건문과 반복문(Control Flow)](https://brunch.co.kr/@mystoryg/121)
