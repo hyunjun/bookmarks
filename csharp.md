@@ -45,6 +45,12 @@ C#
 
 # API
 * [C# Futures: Null Check Operator](https://www.infoq.com/news/2020/07/CSharp-Null-Check/)
+* [C# - AllocHGlobal 보다는 AllocCoTaskMem 을 사용하자 - jacking75](https://jacking75.github.io/NET_memory_AllocCoTaskMem/)
+* [C# - 메모리 확보 벤치 마크 6 종 모음 - jacking75](https://jacking75.github.io/NET_memory_benchmark/)
+* [C# - .NET 5를 사용하고 싶은 이유 6가지 - jacking75](https://jacking75.github.io/NET_5/)
+* [C# - 리플렉션으로 C# 클래스 구조를 분석하여 C의 구조체 생성하기 - jacking75](https://jacking75.github.io/NET_class_reflect_struct/)
+* [C# - .NET Core에서 비밀 문자를 안전하게 운용 (개발 환경 편) - jacking75](https://jacking75.github.io/NET_screat_string/)
+* [C# - C++구조체 멤버에 대해 C# 클래스의 프로퍼티로 마셜링 - jacking75](https://jacking75.github.io/NET_cpp_struct_to_csharp/)
 * Async, Await
   * [C#의 Task 비동기 프로그래밍 모델](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/concepts/async/)
   * [beware of async void in your code](http://theburningmonk.com/2012/10/c-beware-of-async-void-in-your-code/)
@@ -117,6 +123,8 @@ C#
 * [Json.NET](https://www.newtonsoft.com/json)
   * [JSON.NET JObject - how do I get value from this nested JSON structure](https://stackoverflow.com/questions/40538001/json-net-jobject-how-do-i-get-value-from-this-nested-json-structure)
 * [NuGet - The landing page for NuGet's repositories](https://github.com/nuget/home)
+* [Polly: Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+](https://github.com/App-vNext/Polly)
+  * [C# - Polly를 사용하여 탄력적인 응용 프로그램 만들기 - jacking75](https://jacking75.github.io/NET_lib_polly/)
 * [SerialQueue - C# Implementation of a SerialQueue in the style of Apple's Grand Central Dispatch queues](https://github.com/borland/SerialQueue)
 * [SparkCLR adds C# language binding to Apache Spark enabling the implementation of Spark driver code and data processing operations in C#](https://github.com/Microsoft/SparkCLR)
 * [Symbolism, a computer algebra library for C#](https://github.com/dharmatech/Symbolism/)
