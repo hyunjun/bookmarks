@@ -100,6 +100,7 @@ Android
 * [How to start using C++ code in your Android project](https://medium.freecodecamp.org/c-usage-in-android-4b57edf84322)
 * [안드로이드 기존 프로젝트에 c++ 코드를 사용하는 방법 :: Nomad Engineer](https://universehan.tistory.com/9)
 * [A guide to Object Detection with Fritz: Build a pet monitoring app in Android with machine learning](https://medium.freecodecamp.org/a-guide-to-object-detection-with-fritz-build-a-pet-monitoring-app-in-android-with-machine-learning-a8ed500978e5)
+* [(머신러닝) 꽃이름 맞추기 안드로이드 앱제작 #1 / 2 - YouTube](https://www.youtube.com/watch?v=TNvRqUu35tw)
 * [WorkManager로 정기적인 백그라운드 작업 수행하기](https://blog.kmshack.kr/work_manager/)
 * [Android dev updates - week15 of 2019](https://androidkr.blogspot.com/2019/03/android-dev-updates-week15-of-2019.html)
 * [How to develop an Android App in 2019: embracing the ‘new’ Android](https://medium.freecodecamp.org/developing-an-android-app-in-2019-embracing-the-new-android-51000037b6fa)
