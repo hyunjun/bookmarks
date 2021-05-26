@@ -566,6 +566,7 @@ Javascript
   * [André Staltz: Two Fundamental Abstractions - Uphill Conf 2018](https://www.youtube.com/watch?v=fdol03pcvMA)
 * [How to use the apply(💅), call(📞), and bind(➰) methods in JavaScript](https://medium.freecodecamp.org/how-to-use-the-apply-call-and-bind-methods-in-javascript-80a8e6096a90)
 * [bind(), call(), and apply() in JavaScript - DEV](https://dev.to/rajatmehra05/bind-call-and-apply-in-javascript-3ml)
+* [그 많던 bind 함수는 다 어디로 갔을까? | Popit](https://www.popit.kr/%ea%b7%b8-%eb%a7%8e%eb%8d%98-bind-%ed%95%a8%ec%88%98%eb%8a%94-%eb%8b%a4-%ec%96%b4%eb%94%94%eb%a1%9c-%ea%b0%94%ec%9d%84%ea%b9%8c/)
 * [When to capitalize your JavaScript constants](https://medium.freecodecamp.org/when-to-capitalize-your-javascript-constants-4fabc0a4a4c4)
 * [Here are the most popular ways to make an HTTP request in JavaScript](https://medium.freecodecamp.org/here-is-the-most-popular-ways-to-make-an-http-request-in-javascript-954ce8c95aaa)
 * [Comparing different ways to make HTTP requests in Javascript in 2020](https://medium.com/javascript-in-plain-english/comparing-different-ways-to-make-http-requests-in-javascript-39ab0f090788)
@@ -1507,7 +1508,9 @@ Javascript
 * [MockTheClock - A tiny JS library to... spoof timers and other date/time functions. Useful for slowing down 3D animations](https://github.com/zb3/MockTheClock)
 * Mongoose
   * [Mongoose(몽구스) 프로미스](https://www.zerocho.com/category/MongoDB/post/59b6228e92f5830019d41ac4)
+  * [Mongoose(몽구스) 쿼리 빌더](https://www.zerocho.com/category/MongoDB/post/59bd148b1474c800194b695a)
   * [Develop Node.js and MongoDB Apps with Mongoose](https://www.designmycodes.com/node/develop-nodejs-and-mongodb-apps-with-mongoose.html)
+  * [Mongoose Document 생성과 CRUD 구현 # NodeJS mongoDB](https://developer88.tistory.com/396)
 * [Moment.js | Home](https://momentjs.com/)
   * [calendar-ex: this calendar app is made for improvement of react](https://github.com/hokidoki/calendar-ex)
     * [React를 이용한 Calendar Application 개요](https://hokeydokey.tistory.com/110)
