@@ -89,6 +89,8 @@ Interview
 * [미국 두번째 인터뷰 후기...](http://www.neochae.com/2019/10/blog-post.html)
 * [코딩 공부 후 3개월 간 구직하며 배운 점](https://brunch.co.kr/@imagineer/194)
 * [구직 과정 기록(1): 준비하기](https://rein.kr/blog/archives/5429)
+* [코딩 테스트에 대한 생각](https://rein.kr/blog/archives/5453)
+* [구직 과정 기록(2): 단계별 진행](https://rein.kr/blog/archives/5444)
 * [어떻게 질문하는가?](https://brunch.co.kr/@imagineer/292)
 * [Jackson Gabbard](https://www.youtube.com/channel/UCcdCkJKXlRoXVD03eo-q8mQ/videos)
 * [**Ace the coding interview, every time**](https://www.linkedin.com/pulse/20141120061048-6976444-ace-the-coding-interview-every-time)
