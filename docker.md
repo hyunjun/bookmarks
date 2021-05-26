@@ -1118,6 +1118,8 @@ Docker
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * ksonnet
   * [쿠버네티스 리소스 배포와 관리를 위한 ksonnet](http://bcho.tistory.com/1302)
+* [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes](https://github.com/external-secrets/kubernetes-external-secrets)
+  * [k8s External Secrets 훑어보기](https://brunch.co.kr/@alden/68)
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
 * [magicpak enables you to build minimal docker images without any bothersome preparation such as static linking](https://github.com/coord-e/magicpak)
 * [Morte: an intermediate language for super-optimizing functional programs](http://www.haskellforall.com/2014/09/morte-intermediate-language-for-super.html)
