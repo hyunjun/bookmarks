@@ -1767,6 +1767,7 @@ Scala
 * [A Tour of Scala 3 - Martin Odersky](https://www.youtube.com/watch?v=_Rnrx2lo9cw)
 * [A quiet, attractive new programming language (Scala 3)](https://alvinalexander.com/scala/scala-3-dotty-0.19-attractive-programming-language)
 * [A Beginner's Guide to Scala 3.0 - Knoldus Blogs](https://blog.knoldus.com/a-beginner-guide-to-scala-3-0/)
+* [Scala 3 Hello, world!](https://softwaremill.com/scala-3-relase/)
 * [Learn myself some Scala 3, episode 1: metaprogramming – inline](https://heikoseeberger.rocks/2019/06/19/2019-06-19-dotty-1/)
 * [Learn myself some Scala 3, episode 2: extension methods](https://heikoseeberger.rocks/2019/12/04/2019-12-04-dotty-2/)
 * [Learn myself some Scala 3, episode 3: type classes](https://heikoseeberger.rocks/2019/12/10/2019-12-10-dotty-3/)
