@@ -85,6 +85,7 @@ Writing
 * [직딩이 글쓰기를 연마해야 하는 이유. 미디엄을 다시 시작하고 나서 한번 다뤄볼까 싶었던 주제가 있다… | by Ghost_0503 | Mar, 2021 | Medium](https://nep-kim.medium.com/%EC%A7%81%EB%94%A9%EC%9D%B4-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%A5%BC-%EC%97%B0%EB%A7%88%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-348badf4ed47)
 * [이코노미스트에게 배운 글쓰기 비법 | GeekNews](https://news.hada.io/topic?id=4092)
   * [Writing tools I learned from The Economist - Built By Words](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the)
+* [기본만 생각하는 글쓰기 - Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vTCDVh9kL49D6I0sftVJAD-ph6p8dqeqCyIcgC-e3fi7EMUAvTMCov_dKY5sHqWJ72GA4h1SdbcLRkP/pub?slide=id.p)
 
 # Programming
 * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
