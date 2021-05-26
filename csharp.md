@@ -51,6 +51,7 @@ C#
 * [C# - 리플렉션으로 C# 클래스 구조를 분석하여 C의 구조체 생성하기 - jacking75](https://jacking75.github.io/NET_class_reflect_struct/)
 * [C# - .NET Core에서 비밀 문자를 안전하게 운용 (개발 환경 편) - jacking75](https://jacking75.github.io/NET_screat_string/)
 * [C# - C++구조체 멤버에 대해 C# 클래스의 프로퍼티로 마셜링 - jacking75](https://jacking75.github.io/NET_cpp_struct_to_csharp/)
+* [C# - .NET Core에서 Generic Host 사용하기 - jacking75](https://jacking75.github.io/NET_GenericHost/)
 * Async, Await
   * [C#의 Task 비동기 프로그래밍 모델](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/concepts/async/)
   * [beware of async void in your code](http://theburningmonk.com/2012/10/c-beware-of-async-void-in-your-code/)
