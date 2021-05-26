@@ -819,6 +819,7 @@ Programming
 * [Top 5 Architecture Blog Posts for Q1 2021 | AWS Architecture Blog](https://aws.amazon.com/ko/blogs/architecture/top-5-architecture-blog-posts-for-q1-2021/)
 * [How We Built A Context-Specific Bidding System for Etsy Ads - Code as Craft](https://codeascraft.com/2021/03/23/how-we-built-a-context-specific-bidding-system-for-etsy-ads/)
 * [How image search works at Dropbox - Dropbox](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox)
+* [On-site search design patterns for e-commerce: schema structure, data driven ranking & more](https://project-a.github.io/on-site-search-design-patterns-for-e-commerce/)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
 
