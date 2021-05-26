@@ -355,6 +355,7 @@ Clojure
 * [Using Hue connected lights and temp sensors to preview today's weather! | Medium](https://weakreference.medium.com/shorts-or-jeans-revisited-e2fc7f9c9559)
 * [Fibonacci Numbers in the Real World](https://lee-phillips.org/lispmath/)
 * [Once Upon a Class](https://danielsz.github.io/blog/2021-05-12T13_24.html)
+* [Learn AST - Clojure – Nextjournal](https://nextjournal.com/learn-ast-with-clojure/20210524)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -829,6 +830,7 @@ Clojure
 * [failjure - Monadic error utilities for general use in Clojure projects](https://github.com/adambard/failjure) return값으로 error를 다루는 library
 * [Ferret is a Clojure to C++ compiler](http://dropbox.nakkaya.com/builds/ferret-manual.html)
 * [ffclj: Clojure ffmpeg wrapper](https://github.com/luissantos/ffclj)
+* [FkCSS: Powerful styling without leaving Clojure/ClojureScript - f\*\*k CSS](https://github.com/raystubbs/FkCSS)
 * [flambo - A Clojure DSL for Apache Spark](https://github.com/yieldbot/flambo)
 * [flare - Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.)](https://github.com/aria42/flare)
 * [fluree/db: Fluree database / query server source](https://github.com/fluree/db)
@@ -873,6 +875,7 @@ Clojure
   * [jme-clj | Clojure 3D Game Development Demo - YouTube](https://www.youtube.com/watch?v=IOPz9I49snM)
 * [joker - Small interpreted dialect of Clojure written in Go](https://github.com/candid82/joker)
 * [lab-ml/nn: 🧠 Minimal implementations of neural network architectures and layers in PyTorch with side-by-side notes](https://github.com/lab-ml/nn)
+* [LaTTe: LaTTe : a Laboratory for Type Theory experiments (in clojure)](https://github.com/latte-central/LaTTe)
 * leiningen
   * [dependency priority (1)](http://clojure.kr/leiningen-1/)
   * [leiningen-win-installer - An Installer for Leiningen on Windows](https://djpowell.github.io/leiningen-win-installer/)
@@ -953,6 +956,7 @@ Clojure
 * [plet - Parallel let macro inspired by Haxl](https://github.com/eunmin/plet)
 * [Polylith - Polylith](https://polylith.gitbook.io/polylith/)
   * [Polylith - the last architecture you will ever need by Joakim Tengstrand and Furkan Bayraktar - YouTube](https://www.youtube.com/watch?v=pebwHmibla4)
+* [potato: Delicious conversations platform in Common Lisp and ClojureScript](https://github.com/cicakhq/potato)
 * [potemkin: some ideas which are almost good](https://github.com/clj-commons/potemkin)
 * [proletarian: A durable job queuing and worker system for Clojure backed by PostgreSQL](https://github.com/msolli/proletarian)
 * [prone Build Status - Better exception reporting middleware for Ring](https://github.com/magnars/prone)
@@ -1060,6 +1064,8 @@ Clojure
 * [clojure-graalvm-native-binary.md at master · BrunoBonacci/graalvm-clojure](https://github.com/BrunoBonacci/graalvm-clojure/blob/master/doc/clojure-graalvm-native-binary.md)
 * [clojure-rust-graalvm: An example of Clojure program calling a Rust library, all combined into one executable using GraalVM](https://github.com/borkdude/clojure-rust-graalvm)
 * [datalevin/native at master · juji-io/datalevin](https://github.com/juji-io/datalevin/tree/master/native)
+* [graalvm-clojure: This project contains a set of "hello world" projects to verify which Clojure libraries do actually compile and produce native images under GraalVM](https://github.com/BrunoBonacci/graalvm-clojure)
+* [jayfu: Jayfu is a tutorial on how to create a Clojure CLI with GraalVM native-image and SCI](https://github.com/borkdude/jayfu)
 * [lucene-grep: Grep-like utility based on Lucene Monitor compiled with GraalVM native-image](https://github.com/dainiusjocas/lucene-grep)
 * [tools-deps-native-experiment](https://github.com/borkdude/tools-deps-native-experiment)
 
@@ -1206,6 +1212,7 @@ Clojure
 * [Beginner Clojure Environment Setup (Windows)](https://www.notion.so/Beginner-Clojure-Environment-Setup-Windows-36f70c16b9a7420da3cd797a3eb712fa)
 * [clojure - Getting started with clojure | clojure Tutorial](https://riptutorial.com/clojure)
 * [Six years of professional Clojure development - falkoriemenschneider.de](http://www.falkoriemenschneider.de/a__2021-05-10__Six-years-of-professional-Clojure-development.html)
+* [Onboarding for New Clojurians - Athens Research Handbook](https://athensresearch.gitbook.io/handbook/main-stuff/learning-at-athens-academy-education/clojure/onboarding-for-new-clojurians)
 
 # Vim
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
@@ -1213,6 +1220,7 @@ Clojure
 * [dave yarwood · Conjuring Clojure in Vim: 2020 Edition](https://blog.djy.io/conjuring-clojure-in-vim-2020-edition/)
 * [How I use Conjure and Neovim to interact with Clojure (and more!) - YouTube](https://www.youtube.com/watch?v=ZSwbiZhvMdQ)
 * [vim-iced: Clojure Interactive Development Environment for Vim8/Neovim](https://github.com/liquidz/vim-iced)
+  * [vim-iced-multi-session: vim-iced plugin to add support for multi session](https://github.com/liquidz/vim-iced-multi-session)
 
 # VSCode VS Code
 * [Using VS Code Calva extension to run & validate the Clojure project code. - YouTube](https://www.youtube.com/watch?v=oYqxbKufTQM)
