@@ -100,7 +100,8 @@ Android
 * [How to start using C++ code in your Android project](https://medium.freecodecamp.org/c-usage-in-android-4b57edf84322)
 * [안드로이드 기존 프로젝트에 c++ 코드를 사용하는 방법 :: Nomad Engineer](https://universehan.tistory.com/9)
 * [A guide to Object Detection with Fritz: Build a pet monitoring app in Android with machine learning](https://medium.freecodecamp.org/a-guide-to-object-detection-with-fritz-build-a-pet-monitoring-app-in-android-with-machine-learning-a8ed500978e5)
-* [(머신러닝) 꽃이름 맞추기 안드로이드 앱제작 #1 / 2 - YouTube](https://www.youtube.com/watch?v=TNvRqUu35tw)
+* [(머신러닝) 꽃이름 맞추기 안드로이드 앱제작 #1/2 - YouTube](https://www.youtube.com/watch?v=TNvRqUu35tw)
+* [(머신러닝) 꽃이름 맞추기 안드로이드 앱제작 #2/2 - YouTube](https://www.youtube.com/watch?v=K74NDaNJfZw)
 * [WorkManager로 정기적인 백그라운드 작업 수행하기](https://blog.kmshack.kr/work_manager/)
 * [Android dev updates - week15 of 2019](https://androidkr.blogspot.com/2019/03/android-dev-updates-week15-of-2019.html)
 * [How to develop an Android App in 2019: embracing the ‘new’ Android](https://medium.freecodecamp.org/developing-an-android-app-in-2019-embracing-the-new-android-51000037b6fa)
@@ -202,6 +203,7 @@ Android
 * [What differs Android from other Linux based systems? - #embeddedbits](https://embeddedbits.org/what-differs-android-from-other-linux-based-systems/)
 * [안드로이드 개발 언어에 '러스트' 추가… 고질적인 C/C++ 메모리 버그 잡는다 - ITWorld Korea](https://www.itworld.co.kr/news/189783)
 * [인공지능 손글자(숫자) 판별기, 안드로이드 앱 만들어 보기. - YouTube](https://www.youtube.com/watch?v=vL0J0Fyfa4k)
+* [react-native 안드로이드 빌드가 안될 때 (Unsupported class file major version 60)](https://velog.io/@juunini/react-native-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%B9%8C%EB%93%9C%EA%B0%80-%EC%95%88%EB%90%A0-%EB%95%8C-Unsupported-class-file-major-version-60)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
