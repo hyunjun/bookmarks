@@ -76,6 +76,7 @@ Open Source
 * [How I became a Kubernetes maintainer in 4 hours a week | Opensource.com](https://opensource.com/article/21/2/kubernetes-maintainer)
 * [꼼수로 오픈소스 기여하기. 오픈소스 기여로 매력적인 GitHub 프로필 만들기 | by Woosik Kim | Apr, 2021 | Medium](https://well-balanced.medium.com/%EA%BC%BC%EC%88%98%EB%A1%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0-b34ee4cc2bc2)
 * [Selecting open-source code for LLDP: lldpd vs openlldp - IoT Central](https://www.iotcentral.io/blog/selecting-open-source-code-for-lldp-lldpd-vs-openlldp)
+* [라인의 풀타임 오픈소스 개발팀 이야기 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=QdRCe_IGGzI)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
