@@ -274,6 +274,7 @@ Clojure
 * [Consistent Hashing with Clojure | Ponderings of a Curious Mind](https://suvratapte.com/consistent-hashing-with-clojure/)
 * [algo.generic](https://github.com/clojure/algo.generic)
 * [Write pretty printed Clojure data structures to the clipboard](https://gist.github.com/baskeboler/7d226374582246d28b25801e28e18216)
+* [What Lies Beneath - A Deep Dive Into Clojure's Data Structures - Mohit Thatte - YouTube](https://www.youtube.com/watch?v=7BFF50BHPPo)
 * [Dynamic Notebooks and Literate Programming (by Sam Ritchie) - YouTube](https://www.youtube.com/watch?v=UCEzBNh9ufs)
 * [A Random Job Interview Challenge In Clojure | Savo's Blog](https://savo.rocks/posts/a-random-job-interview-challenge-in-clojure/)
 * [A Year Or So With Clojure | Giovani Altelino](https://www.giovanialtelino.com/post/a-year-clojure/)
