@@ -369,6 +369,7 @@ NLP
 * [Best Practices: Designing autosuggest experiences](https://blog.prototypr.io/best-practices-designing-autosuggest-experiences-9c3394774519)
   * [자동 추천(Autosuggest) 기능의 사용자 경험 설계하기 | GeekNews](https://news.hada.io/topic?id=3867)
 * ['사물에 이입해 대답한다' 구글, 개발자 회의서 AI 기술 역량 과시 - CIO Korea](https://www.ciokorea.com/news/194544) LaMDA MUM
+* [텍스트 스타일을 바꾸는 딥러닝 기술 | Kakao Enterprise AI Research](https://kakaoenterprise.github.io/deepdive/210525) text style transfer
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -1310,6 +1311,7 @@ NLP
 * [핑퐁팀 ML 세미나, 그 다섯 번째 – 핑퐁팀 블로그](https://blog.pingpong.us/ml-seminar-season-5/)
 * [핑퐁팀 ML 세미나, 그 여섯 번째 – 핑퐁팀 블로그](https://blog.pingpong.us/ml-seminar-season-6/)
 * [**집현전 NLP 리뷰 모임**](https://github.com/jiphyeonjeon/nlp-review)
+* [Kakao Enterprise AI Research | 카카오엔터프라이즈 연구 성과를 공개하는 리서치 플랫폼](https://kakaoenterprise.github.io/)
 
 # Parser
 * [Announcing SyntaxNet: The World’s Most Accurate Parser Goes Open Source](http://googleresearch.blogspot.kr/2016/05/announcing-syntaxnet-worlds-most.html)
