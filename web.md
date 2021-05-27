@@ -42,7 +42,6 @@ Web
 * [SVG Path Animation - 완두블로그](https://wani.kr/posts/2013/12/04/svg-path-animation/)
 * [The Art of Graceful Reloading](http://daniellombrana.es/blog/2015/07/01/the-art-of-graceful-reloading.html)
 * [Things to Know When Making a Web Application in 2015](http://blog.venanti.us/web-app-2015/)
-* [Using Encryption and Authentication Correctly](https://paragonie.com/blog/2015/05/using-encryption-and-authentication-correctly?resubmit=true)
 * [Ask HN: How, bottom to top, does a modern web application work?](https://news.ycombinator.com/item?id=9889352)
 * [Taking Chrome DevTools outside of the browser](https://kenneth.io/blog/2014/12/28/taking-chrome-devtools-outside-the-browser/?repost=1)
 * [Building Real Time Web Apps](https://www.dropbox.com/s/u4vcao2equgpck9/BuildingRealTimeWebAppsBook_1.1.pdf?dl=0)
@@ -190,7 +189,6 @@ Web
 * [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/)
 * [원티드 - 요즘 "프론트엔드 개발" 어떻게 하지? 참관 후기](https://velog.io/@velopert/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%9A%94%EC%A6%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EC%A7%80-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0)
 * [Building and deploying modern websites and apps - GitHub Universe 2019](https://www.youtube.com/watch?v=KlO5Ksk7baQ)
-* [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete)
 * [HTML 파일 기본 구조 - 완두블로그](https://wani.kr/posts/2014/11/19/html-skeleton/)
 * [Timeout에 관한 정리](https://effectivesquid.tistory.com/entry/Timeout%EC%97%90-%EA%B4%80%ED%95%9C-%EC%A0%95%EB%A6%AC)
 * [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
@@ -227,6 +225,11 @@ Web
 * [아파치 2.4에 추가된 filesize 식을 이용해서 특정 크기를 넘어서는 파일 접근 차단하기](http://javacan.tistory.com/entry/forbid-large-size-file-access-using-filesize-in-apache24)
 * [아파치 모듈로 개발된 API 서버, 이음 베이론을 소개합니다](http://bigmatch.i-um.net/2013/11/20/ium-api-veyron/)
 * [Common Apache Errors | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/common-apache-errors)
+
+# Authentication
+* [Using Encryption and Authentication Correctly](https://paragonie.com/blog/2015/05/using-encryption-and-authentication-correctly?resubmit=true)
+* [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete)
+* [머릿말 - 웹 인증 및 SSO 가이드](https://wiki.kreonet.net/web-auth-sso)
 
 # Book
 * [web-service-hardening](https://www.gitbook.com/book/lesstif/web-service-hardening/)
