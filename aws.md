@@ -955,6 +955,7 @@ AWS
 * [sagemaker-inference-samples-kr: Deep Learning(DL) Inference hands-on labs; Learn how to host pre-trained DL models to Amazon SageMaker Endpoint without building Docker Image](https://github.com/aws-samples/sagemaker-inference-samples-kr)
 * [인공지능을 대규모로 가속화하려면?](https://brunch.co.kr/@synabreu/108)
 * [Amazon SageMaker와 Apache Airflow을 통한  기계학습 워크플로 구축하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-end-to-end-machine-learning-workflows-with-amazon-sagemaker-and-apache-airflow/)
+* [이미지 라벨링(Image Labeling), 노가다가 답일까? | by MUSINSA tech | Medium | MUSINSA tech](https://medium.com/musinsa-tech/imagelabeling-c351c0258a62)
 
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
