@@ -308,6 +308,7 @@ Haskell
 * [하스켈 if](https://gist.github.com/nattybear/c6ad0618869bd7521d719f270436bff1)
 * [하스켈 Continuation Passing Style, CPS](https://gist.github.com/nattybear/387d22fc82c7339a29e0c93084fef10e)
 * [하스켈 달러 표시](https://gist.github.com/nattybear/86eb28e25f82affc58f5b8a2f02c6742) 우선순위
+* [Functor, Natural Transformatiom](https://gist.github.com/nattybear/874f0e3764aae7c81c2c120cae0cc6aa)
 * do [The doomsday machine](https://tech.fretlink.com/the-doomsday-machine/)
 * exception
   * [THE THREE KINDS OF HASKELL EXCEPTIONS AND HOW TO USE THEM](https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html)
