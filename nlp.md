@@ -405,6 +405,7 @@ NLP
 * [Language Learning with BERT - TensorFlow and Deep Learning Singapore](https://www.youtube.com/watch?v=0EtD5ybnh_s)
 * [BERT-NER - Use google BERT to do CoNLL-2003 NER !](https://github.com/kyzhouhzau/BERT-NER)
 * [BERT-BiLSMT-CRF-NER - Tensorflow solution of NER task Using BiLSTM-CRF model with Google BERT Fine-tuning](https://github.com/macanv/BERT-BiLSMT-CRF-NER)
+* [BERT을 이용한 NER 적용 방법 정리 :: MezzanineX](https://mezzaninex.tistory.com/entry/AI-BERT%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-NER-%EC%A0%81%EC%9A%A9-%EB%B0%A9%EB%B2%95-%EC%A0%95%EB%A6%AC)
 * [Dissecting BERT](https://medium.com/dissecting-bert)
 * [Bert state Of The Art pre Training for nlp Post](https://parksurk.github.io/BERT-State-of-the-Art-Pre-training-for-NLP-post)
 * [bert-multiple-gpu - A multiple GPU support version of BERT](https://github.com/JayYip/bert-multiple-gpu)
