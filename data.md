@@ -69,6 +69,7 @@ Government
 * [빅데이터 거버넌스(Data Governance)의 정의 및 목적, 그리고 고려사항과 도구들 :: Kaden Sungbin Cho](https://kadensungbincho.tistory.com/12)
 
 # Library
+* [AssemblyDataReader: Assembly Data Reader - 열린국회정보의 API를 이용해 데이터를 쉽게 받아올 수 있게 만든 오픈소스 라이브러리](https://github.com/hohyun321/AssemblyDataReader)
 * [Label Studio - an open-source, configurable data annotation tool](https://github.com/heartexlabs/label-studio)
 * [recaptcha-dataset: Dataset of thousands of reCAPTCHA images](https://github.com/deathlyface/recaptcha-dataset)
 * [recipenlg: Set of scripts and notebooks used to produce results visible in RecipeNLG paper](https://github.com/Glorf/recipenlg)
