@@ -342,6 +342,7 @@ Data Science
 * [Silent data corruption: Mitigating effects at scale - Facebook Engineering](https://engineering.fb.com/2021/02/23/data-infrastructure/silent-data-corruption/)
 * [데이터 처리 플랫폼 : 네이버 블로그](https://blog.naver.com/airguy76/221368741735)
 * [김진철의 How-to-Big Data | How-to-Big Data 핵심 정리(Key Takeaways) (1) - CIO Korea](https://www.ciokorea.com/news/191719)
+* [세미나 후기 Wanted Con. Data 요즘 데이터 팀은 어떻게 일할까?](https://blog.naver.com/rposter/222324418413)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
