@@ -303,6 +303,7 @@ Linux
   * [20 개의 ANSIBLE 인터뷰 질문](https://linux.systemv.pe.kr/20-%EA%B0%9C%EC%9D%98-ansible-%EC%9D%B8%ED%84%B0%EB%B7%B0-%EC%A7%88%EB%AC%B8/)
   * [**Vagrant와 Ansible로 하는 서버 관리 기초**](https://velog.io/@jonghunbok/Vagrant%EC%99%80-Ansible%EB%A1%9C-%ED%95%98%EB%8A%94-%EC%84%9C%EB%B2%84-%EA%B4%80%EB%A6%AC-%EA%B8%B0%EC%B4%88)
   * [How to install software with Ansible | Opensource.com](https://opensource.com/article/20/9/install-packages-ansible)
+  * [How To Write Ansible Playbooks | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/how-to-write-ansible-playbooks)
 * [Bashible - a deployment/automation tool written in Bash (DSL). Inspired by Ansible. Simplifies things and prevents usual mistakes](https://github.com/mig1984/bashible)
 * [fabric](https://github.com/mathiasertl/fabric)
 * [Pulumi - Modern Infrastructure as Code](https://www.pulumi.com/) python
@@ -449,6 +450,7 @@ Linux
     * [Announcing the Curl Cookbook](https://catonmat.net/announcing-curl-cookbook)
   * [Detecting the use of "curl | bash" server side | Application Security](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
   * [**자주 사용하는 curl 명령어 옵션과 예제**](https://kibua20.tistory.com/148) chrome에서 curl 명령 확인
+  * [“I could rewrite curl” | daniel.haxx.se](https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/)
 * `cut`
   * [Linux Tutorials - 24 cut command Slitting a file vertically | GeeksforGeeks](https://www.youtube.com/watch?v=eHGCxEVlHd0)
   * `... | tr -s [:blank:] | cut -f<num> -d ' '` [How to specify more spaces for the delimiter using cut?](https://stackoverflow.com/questions/7142735/how-to-specify-more-spaces-for-the-delimiter-using-cut)
@@ -742,6 +744,7 @@ Linux
   * [Services in systemd: In-Depth Tutorial | by Michael Krasnov | Better Programming | Medium](https://medium.com/better-programming/services-in-systemd-in-depth-tutorial-7e47c485edbf)
   * [How to set environment variable in systemd service? - Server Fault](https://serverfault.com/questions/413397/how-to-set-environment-variable-in-systemd-service)
   * [5 reasons sysadmins love systemd | Opensource.com](https://opensource.com/article/21/4/sysadmins-love-systemd)
+  * [systemd: The Good Parts - Christine Dodrill](https://christine.website/talks/systemd-the-good-parts-2021-05-16)
 * systemtap
   * [커널 분석을 위한 systemtap 스크립트](https://brunch.co.kr/@alden/42)
 * `tac`
@@ -774,6 +777,7 @@ Linux
     * [2019년 11월 10일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-11-10.html)
     * [User power, not power users: htop and its design philosophy « hisham.hm](https://hisham.hm/2020/12/18/user-power-not-power-users-htop-and-its-design-philosophy/)
     * [htop-dev/htop: htop - an interactive process viewer](https://github.com/htop-dev/htop)
+  * [highest-cpu.sh](https://gist.github.com/Sangdol/168b3a687b2becc2f74d1d5a5f7670f5) Threadhold 값 (30%) 이상 CPU 점유하고 있는 프로세스 중 가장 높은 CPU 점유하고 있는 프로세스 반환
 * `tr`
   * [remove-all-white-spaces](http://stackoverflow.com/questions/9953448/how-to-remove-all-white-spaces-from-a-given-text-file) `tr -d [:blank:]`
   * [replace-whitespaces-with-tabs-in-linux](http://stackoverflow.com/questions/1424126/replace-whitespaces-with-tabs-in-linux)
