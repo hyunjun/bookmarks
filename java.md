@@ -130,6 +130,7 @@ Java
 * [9 Java low latency interview questions & answers with lots of diagrams](https://www.java-success.com/writing-low-latency-applications-in-java/)
 * [코드라떼 자바 - 메모리 모델 기초 - YouTube](https://www.youtube.com/watch?v=m9lv_Zt7otk) memory model
 * [코드라떼 자바 - Call By Value, 값에 의한 호출 - YouTube](https://www.youtube.com/watch?v=Vd1C3-wHc4Y)
+* [Java is criminally underhyped](https://jackson.sh/posts/2021-04-java-underrated/?s=09)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -753,6 +754,7 @@ Java
 * [Off-Heap memory reconnaissance • Brice Dutheil](https://blog.arkey.fr/2020/11/30/off-heap-reconnaissance/)
 * [How to Write Unmaintainable (But Wicked Fast!) Code on the JVM by John A. De Goes - YouTube](https://www.youtube.com/watch?v=k6GBKaG2MpQ)
 * [🚀 Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure) | Technorage](https://deepu.tech/memory-management-in-jvm/)
+* [Demystifying Java Virtual Machine Memory Management | foojay](https://foojay.io/today/demystifying-jvm-memory-management/)
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
   * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics](https://micrometer.io/)
@@ -1490,6 +1492,7 @@ Java
 * [30. Spring - Spring Boot Configuration Properties 클래스 만들기](https://kim-jong-hyun.tistory.com/56)
 * [32. Spring - Spring Boot 애플리케이션 war 배포 및 Tomcat Probe Manager 설정](https://kim-jong-hyun.tistory.com/58)
 * [2월 우아한테크세미나 우아한 스프링 부트 - YouTube](https://www.youtube.com/watch?v=z0EaPjF3pCQ) [pdf](pdfs/wooahan_spring_boot.pdf)
+* [Integration Tests with Spring Boot and @SpringBootTest](https://reflectoring.io/spring-boot-test/)
 * [spring-batch-querydsl: 스프링배치와 QuerydslPagingItemReader](https://github.com/jojoldu/spring-batch-querydsl)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
@@ -1571,12 +1574,14 @@ Java
   * [Victor Rentea - Unit Testing like a Pro: The Circle of Purity](https://www.youtube.com/watch?v=1Z_h55jMe-M)
   * [Unit Testing like a Pro - Towards a Testable Design by Victor Rentea](https://www.youtube.com/watch?v=mMvrCDW6rVM)
   * [What is JUnit? | Why Mockito?](https://www.youtube.com/watch?v=eILy4p99ac8)
+  * [Stubbing and Mocking with Mockito and JUnit - Semaphore Tutorial](https://semaphoreci.com/community/tutorials/stubbing-and-mocking-with-mockito-2-and-junit)
   * [LocalStack을 활용한 Integration Test 환경 만들기](http://woowabros.github.io/tools/2019/07/18/localstack-integration.html)
   * [연과 백엔드 팀은 유닛 테스트를 어떻게 할까?](https://blog.scienceoflove.co.kr/how-sol-tdd)
   * [단위 테스트 활용 방법: JUnit 참조 가이드](https://jinson.tistory.com/entry/번역-Unit-Testing-Best-Practices-JUnit-Reference-Guide-단위-테스트-활용-방법-JUnit-참조-가이드)
   * [JUnit: time to shift into 5th gear! Julien Topçu & Juliette de Rancourt](https://www.youtube.com/watch?v=Fca8yUIJfd0)
   * [더 자바: 코드를 테스트하는 다양한 방법](https://docs.google.com/presentation/d/1HaiVt-TNqA2wTMzjfGfzkBVgOGJIW7IH04CHNvNwbPs)
   * [JUnit 5 + Kotlin 테스트 클래스에서 생성자 주입 이슈 · 도전하는 개발자](https://minkukjo.github.io/framework/2020/06/28/JUnit-23/)
+  * [JUnit5로 계층 구조의 테스트 코드 작성하기 - 기계인간 John Grib](https://johngrib.github.io/wiki/junit5-nested/)
 * [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
 
 # Web
