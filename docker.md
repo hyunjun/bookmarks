@@ -495,6 +495,7 @@ Docker
 * [See Docker Community All-Hands #2 at Docker Docker Virtual Meetups](https://events.docker.com/events/details/docker-docker-virtual-meetups-presents-docker-community-all-hands-2/)
 * [Laurence Tratt: Fast Enough VMs in Fast Enough Time](https://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time.html)
 * [MORE AGILE: 구글의 클라우드 컴퓨팅 아키텍처와 오픈소스 컨테이너 프로젝트 Docker](https://www.moreagile.net/2014/05/ContainersAtScale.html) container화의 시작
+* [How Do Kubernetes and Docker Create IP Addresses?! | Dustin Specker](https://dustinspecker.com/posts/how-do-kubernetes-and-docker-create-ip-addresses/)
 
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
@@ -662,6 +663,8 @@ Docker
 * [Golang Docker 멀티 스테이지 빌드로 한 큐에 이미지 만들기](https://lynlab.co.kr/blog/89)
 * [Go 프로젝트 Docker 이미지 크기 99.2% 줄이기 (부제: 이미지 크기 12921% 떡상 시키기)](https://code-yeongyu.tistory.com/36)
 * [Docker/Container Tutorial: Write your first Dockerfile - YouTube](https://www.youtube.com/watch?v=V7eSfIxSEEE)
+* [Creating the Perfect Python Dockerfile | by Luis Sena | May, 2021 | Medium](https://luis-sena.medium.com/creating-the-perfect-python-dockerfile-51bdec41f1c8)
+* [Docker For .NET Developers - .NET Guide](https://www.jetbrains.com/dotnet/guide/tutorials/docker-dotnet/)
 
 # [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
 * [Introduction to gVisor: Sandboxed Linux Container Runtime](https://www.youtube.com/watch?v=Ur0hbW_K66s)
@@ -1121,6 +1124,7 @@ Docker
   * [쿠버네티스 리소스 배포와 관리를 위한 ksonnet](http://bcho.tistory.com/1302)
 * [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes](https://github.com/external-secrets/kubernetes-external-secrets)
   * [k8s External Secrets 훑어보기](https://brunch.co.kr/@alden/68)
+* [localizer: ⛵ A no-frills local development tool for service developers working in Kubernetes](https://github.com/getoutreach/localizer)
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
 * [magicpak enables you to build minimal docker images without any bothersome preparation such as static linking](https://github.com/coord-e/magicpak)
 * [Morte: an intermediate language for super-optimizing functional programs](http://www.haskellforall.com/2014/09/morte-intermediate-language-for-super.html)
