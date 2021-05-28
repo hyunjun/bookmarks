@@ -488,8 +488,9 @@ App
 ## Development Project Management
 * [6 Must-Try Project Management Tools for Software Development](https://hackernoon.com/the-6-best-project-management-tools-for-software-development-dbe00a9771cf)
 * [The Next Wave of Work Management Software](https://hackernoon.com/the-next-wave-of-work-management-software-81f392c728e3)
-  * [**Airtable**](https://airtable.com/) Zenkit, Notion, Coda
+* [**Airtable**](https://airtable.com/) Zenkit, Notion, Coda
 * [monday.com](https://monday.com/)
+* [nocodb: 🔥 🔥 The Open Source Airtable alternative](https://github.com/nocodb/nocodb)
 
 ## Development Rest client
 * [insomnia - Debug APIs like a human, not a robot Finally, a REST client you'll love](https://insomnia.rest/)
@@ -857,6 +858,7 @@ App
     * [ffmpeg 자막입히기, 자막 위치 조정](http://kerberosj.tistory.com/233)
     * [FFMPEG processing](https://leanpub.com/ffmpeg/read_full)
     * [동영상 파일 미리보기 이미지로 쪼개기 – rein's world](https://rein.kr/blog/archives/4561)
+    * [Your browser and my browser see different colors | Mux blog](https://mux.com/blog/your-browser-and-my-browser-see-different-colors/) ffmpeg 자체는 아니지만 사용법 참고
     * [FFMPEG.WASM](https://ffmpegwasm.github.io/)
     * [vdx: An intuitive CLI for processing video, powered by FFmpeg](https://github.com/yuanqing/vdx)
 * [Mac의 클립보드 명령어 - pbcopy & pbpaste](https://jojoldu.tistory.com/466)
@@ -892,6 +894,7 @@ App
 * [diskmaker x - OS X 요세미티 설치 디스크를 클릭만으로 뚝딱 만들 수 있는 'DiskMaker X'](http://macnews.tistory.com/2548)
 * [edgeview](edgeview.co.kr/)
 * [eDEX-UI - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support](https://github.com/GitSquared/edex-ui)
+* [Fig](https://fig.io/) Fig adds VSCode-style autocomplete to your existing terminal
 * [finicky: A macOS app for customizing which browser to start](https://github.com/johnste/finicky)
 * [flashlight - the missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
 * [HackStore - free alternative of App Store](https://hack-store.com/)
@@ -1156,6 +1159,7 @@ App
 * [flowchart.fun](https://flowchart.fun/) typing만으로 flowchart 생성
   * [문자열로 플로우차트 생성하기 | GeekNews](https://news.hada.io/topic?id=3816)
 * [gliffy](https://www.gliffy.com/) Make Diagramming a Team Sport. Collaborate on flowcharts, org charts, UML, network diagrams & more
+* [IcePanel | Solution | System docs for visual people](https://icepanel.io/)
 * [Isoflow](https://isoflow.io/)
 * [Lucidchart - a visual workspace that combines diagramming, data visualization, and collaboration to accelerate understanding and drive innovation](https://www.lucidchart.com)
 * [mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs](https://mermaid-js.github.io/mermaid/)
@@ -1264,6 +1268,7 @@ App
   * [노 코드 혁명! 5분만에 타이머 앱 만들기!](https://www.youtube.com/watch?v=XbqbLF3NiWw)
   * [우버가 선택한 원페이지 협업툴, Coda – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/141428)
 * [Dynalist - The best outlining app for your best work](https://dynalist.io/)
+* [HTML Notepad – HTML WYSIWYG editor for the rest of us](https://html-notepad.com/)
 * [icloud-notepad](http://www.slashie.org/articles/icloud-notepad/)
 * [Joplin - an open source note taking and to-do application with synchronisation capabilities](https://joplinapp.org/)
   * [Get started with Joplin, a note-taking app](https://opensource.com/article/19/1/productivity-tool-joplin)
@@ -1420,6 +1425,7 @@ App
 * [7 Tools to Copy Locked or In Use Files](https://www.raymond.cc/blog/copy-locked-file-in-use-with-hobocopy/)
 * [원격 데스크톱 연결 시 모니터 여러 대 사용하기](https://bloodguy.tistory.com/1069)
 * [How to Change the Priority of Wireless Networks in Windows 8 or 10](https://www.howtogeek.com/131640/how-to-change-the-priority-of-wireless-networks-in-windows-8/)
+* ["더 빠르고 편리해" 아직도 유효한 윈도우 명령 프롬프트 6가지 - ITWorld Korea](https://www.itworld.co.kr/news/195299) echo powercfg ipconfig tracert sfc chkdsk
 * 복구
   * [recuva](https://www.piriform.com/recuva)
   * [testdisk 7.0](http://www.cgsecurity.org/wiki/TestDisk_Download)
@@ -1450,6 +1456,7 @@ App
 * [Rufus - create bootable USB](http://rufus.akeo.ie/)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
 * [**SharpKeys - a utility that manages a Registry key that allows Windows to remap one key to any other key**](https://sharpkeys.codeplex.com/)
+* [Simplevisor -  simple, portable, Intel VT-x hypervisor](https://ionescu007.github.io/SimpleVisor/)
 * [StaffPad is a brand new class of notation app](http://www.staffpad.net/)
 * [Worker Bee - Explore all the neat things your computer can do](http://workerbee.tonkworks.com/)
 
@@ -1550,6 +1557,7 @@ App
   * [윈도우 터미널 설치하기](http://dalinaum.github.io/windows/2021/03/10/windows-terminal.html)
 * [Win-builds is a large distribution of binary packages for Windows](http://win-builds.org/doku.php)
 * [winget : 윈도 앱 설치 관리자(패키지 관리자)](https://sunyzero.tistory.com/271)
+* [winget-cli: Windows Package Manager CLI (aka winget)](https://github.com/microsoft/winget-cli)
 * [WinUI - The modern native UI platform of Windows](https://microsoft.github.io/microsoft-ui-xaml/)
 * WSL Windows Subsystem for Linux
   * [practice - windows10 & WSL2](https://gist.github.com/hyunjun/cf2af70a460bf00fa5997dea80308b28)
