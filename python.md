@@ -451,6 +451,7 @@ Python
   * [Kivy - Mobile and Desktop App Dev w/ Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfwnDTZWw8H3hN_VRQfq8rF)
   * [KivyAndroidClassification](https://github.com/ahmedfgad/KivyAndroidClassification)
   * [Running NumPy in Android Devices using the Kivy Python Framework](https://heartbeat.fritz.ai/running-numpy-in-android-devices-using-kivy-python-framework-524cb0fac7c5)
+  * [Kivy - 안드로이드 앱 만들기 - 강좌링크](https://open-support.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%ACPython-Kivy-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EA%B0%95%EC%A2%8C%EB%A7%81%ED%81%AC)
   * [NumPyCNNAndroid - This project builds Convolutional Neural Network (CNN) for Android using Kivy and NumPy](https://github.com/ahmedfgad/NumPyCNNAndroid)
 
 # API
@@ -1937,6 +1938,7 @@ Python
 * [django transaction 궁금증](https://gist.github.com/cuhong/b8358cae0f5bc3198c9015fcd34bb456)
 * [Daniel Feldroy - YouTube](https://www.youtube.com/c/DanielFeldroy/videos)
 * [Django 3.1 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/django-3-1-release-note-summary)
+* [Django 3.2 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/django-3-2-release-note-summary)
 * [How To Scale and Secure a Django Application with Docker, Nginx, and Let's Encrypt | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-scale-and-secure-a-django-application-with-docker-nginx-and-let-s-encrypt)
 * [장고 라이브 코딩쇼 (50분, 유튜브 St.) - YouTube](https://www.youtube.com/watch?v=12J8IHG17lM)
 * [Managing Sessions in Django. Understanding your Django session with… | by Goutom Roy | Better Programming | Medium](https://medium.com/better-programming/managing-sessions-in-django-92ef72db4c63)
