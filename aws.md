@@ -682,6 +682,7 @@ AWS
 * [5일 만에 Azar Production Kubernetes cluster 이전하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/11/02/cluster-migration-in-5-days.html)
 * [EKS에서 쿠버네티스 포드의 IAM 권한 제어하기: Pod Identity Webhook](https://tech.devsisters.com/posts/pod-iam-role/)
 * [Setting up a working environment for Amazon EKS with AWS CloudShell - DEV Community](https://dev.to/aws-builders/setting-up-a-working-environment-for-amazon-eks-with-aws-cloudshell-1nn7)
+* [컨테이너 워크로드 도입을 위한, Amazon EKS 파헤쳐 보기 pdf](https://aws-joozero.s3.ap-northeast-2.amazonaws.com/container/AWSKRUG-Amazon-EKS-joozero.pdf)
 * [EKS Networking — CNI. AWS EKS provides managed Kubernetes… | by Amit Singh Rathore | Nerd For Tech | Mar, 2021 | Medium](https://medium.com/nerd-for-tech/eks-networking-cni-457ae298b9e6)
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
   * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
