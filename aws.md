@@ -426,6 +426,10 @@ AWS
 * [Observability Workshop](https://observability.workshop.aws/ko/)
 * [LotteOn: BI Platform Using MicroStrategy, Amazon Redshift, and AWS Glue on AWS (Korean) - YouTube](https://www.youtube.com/watch?v=qv9q0sFt6aY)
 * [Data discovery & metadata management (amundsen installation)](https://www.slideshare.net/changunjung/data-discovery-metadata-management-amundsen-installation)
+* [**Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance | talawah.io**](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/)
+* [Instance Price Guide](https://instaguide.io/)
+* [Serverless patterns | Serverless Land](https://serverlessland.com/patterns)
+  * [AWS Serverless Patterns | GeekNews](https://news.hada.io/topic?id=4285)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -643,6 +647,7 @@ AWS
 * [AWS-UBUNTU 환경에서 Jupyter notebook 설치](https://seethefuture.tistory.com/37)
 * [버스트 가능한 T타입 인스턴스 소개](https://jybaek.tistory.com/916)
 * [Spot Instance pricing history](https://jybaek.tistory.com/917)
+* [How to port your OS to EC2](https://www.daemonology.net/blog/2018-07-14-port-OS-to-EC2.html)
 
 # ECS Elastic Container Service
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
