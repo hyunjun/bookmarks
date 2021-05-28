@@ -863,7 +863,7 @@ Scala
     * [5 lessons learned from my continuing awesome journey with ZIO | by Natan Silnitsky | Wix Engineering | Sep, 2020 | Medium](https://medium.com/wix-engineering/5-lessons-learned-from-my-continuing-awesome-journey-with-zio-66319d12ed7c)
     * [An Introduction to ZIO Kafka](https://ziverge.com/blog/introduction-to-zio-kafka/)
     * [Apache Kafka and ZIO. This article will explain why you want… | by Aleksandra Holubitska | Sep, 2020 | Medium](https://medium.com/@oleksandra_a/apache-kafka-and-zio-af418b4c54f0)
-    * [How To Implement Streaming Microservices Using ZIO and Kafka](https://scalac.io/streaming-microservices-with-zio-and-kafka/)
+    * [How To Implement Streaming Microservices Using ZIO and Kafka](https://scalac.io/blog/streaming-microservices-with-zio-and-kafka/)
     * [Production-grade Microservices with ZIO by Itamar Ravid - YouTube](https://www.youtube.com/watch?v=oMJ1RMdR7wg)
     * [Using ZIO Kafka with offset storage in Postgres for transactional processing | by Marek Kadek | Mar, 2021 | Medium](https://kadek-marek.medium.com/using-zio-kafka-with-offset-storage-in-postgres-for-transactional-processing-91042e81c095)
     * [Using Aspects To Transform Your Code With ZIO Environment - YouTube](https://www.youtube.com/watch?v=gcqWdNwNEPg)
@@ -887,6 +887,7 @@ Scala
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
       * [Functional Effect systems in Sclala: Build your own ZIO/Cats-Effect/Monix... | Wix Engineering](https://medium.com/wix-engineering/demystifying-functional-effect-systems-in-scala-14419039a423)
       * [fibers.md](https://gist.github.com/djspiewak/d9930891d419c26fac1d58b5274f45ba)
+      * [How to successfully manage a ZIO Fiber’s lifecycle | by Natan Silnitsky | Wix Engineering | May, 2021 | Medium](https://medium.com/wix-engineering/how-to-successfully-manage-a-zio-fibers-lifecycle-96fe9c4ecd06)
     * gRPC [Functional, Type-safe, Testable Microservices with ZIO gRPC - YouTube](https://www.youtube.com/watch?v=XTkhxRTH1nE)
     * ZIO-AWS [ZIO-AWS with ZIO Query](https://vigoo.github.io/posts/2020-11-01-zioaws-zioquery.html)
     * zio-config
@@ -919,6 +920,8 @@ Scala
     * ZIO stream
       * [Autorecovery for (JMS) Streams | Blended - ZIO](http://blended-scala.org/posts/2020-10-30-recoveringstreams/)
       * [Keep alive for JMS connections | Blended - ZIO](http://blended-scala.org/posts/2020-11-05-jmskeepalive/)
+      * [Exploring ZIO - Part I - SmartJava](https://www.smartjava.org/content/exploring-zio-part-1/)
+      * [Exploring ZIO - Part II - ZStream and modules - SmartJava](https://www.smartjava.org/content/exploring-zio-part-2/)
     * ZIO test
       * [Get started with ZIO Test](https://medium.com/@wiemzin/get-started-with-zio-test-7a27da355498)
       * [Effective testing with ZIO Test](https://scala.monster/zio-test/)
@@ -1781,6 +1784,7 @@ Scala
 * [Starting with Scala 3 macros: a short tutorial](https://blog.softwaremill.com/starting-with-scala-3-macros-a-short-tutorial-88e9d2b2584c)
 * [Publish Scala 2 and Scala 3 macros together · MUnit](https://scalameta.org/munit/blog/2021/01/05/macromix.html)
 * [TASTY way of (re)writing macros in Scala 3 | by Kacper Korban | VirtusLab | Apr, 2021 | Medium](https://medium.com/virtuslab/tasty-way-of-re-writing-macros-in-scala-3-3ce704a2c37c)
+* [Scala 3 macros tips & tricks](https://softwaremill.com/scala-3-macros-tips-and-tricks/)
 * [IMPORT SUGGESTIONS IN SCALA 3](https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html)
 * [Announcing the Moving from Scala 2 to Scala 3 course – Lunatech](https://www.lunatech.com/2020/06/announcing-the-moving-from-scala-2-to-scala-3-course/)
   * [lunatech-scala-2-to-scala3-course/exercises](https://github.com/lunatech-labs/lunatech-scala-2-to-scala3-course/tree/exercises-master/exercises)
@@ -1789,6 +1793,7 @@ Scala
 * [Get more clarity with opaque types by Magda Stożek - YouTube](https://www.youtube.com/watch?v=WUvUBJcANV8)
 * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=fRDZoZoWTMU) opaque type
 * [Opaque Type Alias in Scala 3 | Baeldung on Scala](https://www.baeldung.com/scala/opaque-type-alias)
+* [Paying homage to the Compall-Michael pattern, and anticipating Scala 3 Opaque Types](https://blog.lunatech.com/posts/2021-05-14-paying-homage-to-the-compall-michael-representation)
 * [Annoying things in Scala 2 that’ll be (mostly) gone in Scala 3 | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/annoying-things-in-scala-2-thatll-be-mostly-gone-in-scala-3-e1479a6d855c)
 * [Scala 3: Enums | Rock the JVM - YouTube](https://www.youtube.com/watch?v=QnrXubpILu4)
 * [Let’s Talk About the Scala 3 Indentation - Rock the JVM Blog](https://blog.rockthejvm.com/scala-3-indentation/)
@@ -1827,6 +1832,7 @@ Scala
 * [Why Scala 3 will be awesome by Piotr Gołębiewski - YouTube](https://www.youtube.com/watch?v=lA37gzEiQw4)
 * [Scala 3: New Types | Rock the JVM - YouTube](https://www.youtube.com/watch?v=orTmm6OMaLw)
 * [Generalized Algebraic Datatypes in Scala 3](https://blog.oyanglul.us/scala/dotty/en/gadt)
+* [Build your own refinement types in Scala 3](https://msitko.pl/blog/build-your-own-refinement-types-in-scala3.html)
 * [Tuples bring generic programming to Scala 3 | The Scala Programming Language](https://www.scala-lang.org/2021/02/26/tuples-bring-generic-programming-to-scala-3.html) Heterogeneous Lists, HLists
 * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=3HS1v4A5MaE&t=500s)
 * [What's new in Scala 3: Implicits! - YouTube](https://www.youtube.com/watch?v=TdwkzNq2gY0)
