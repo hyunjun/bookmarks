@@ -766,6 +766,7 @@ SQL
   * [PostgreSQL을 데이터 웨어하우스로 사용하기 | GeekNews](https://news.hada.io/topic?id=4239)
 * [Mac에 PostgreSQL없이 PSQL만 설치하기](https://jojoldu.tistory.com/574)
 * [large csv to postgresql](https://gist.github.com/TimDSChoi/ca30197f502e3ff5c0743c8d46a48449) 대용량 csv를 입력하는 예(문제가 있음)
+* [An early look at Postgres 14: Performance and Monitoring Improvements](https://pganalyze.com/blog/postgres-14-performance-monitoring)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
@@ -926,6 +927,7 @@ SQL
 * [SQLite the only database you will ever need in most cases](https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html)
 * [Exploring Tweets with SQLite + WASM - Divyendu's Blog](https://divu.in/experiments/wasm/twitter-sqlite)
 * [Hosting SQLite databases on Github Pages - (or any static file hoster) - phiresky's blog](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
+* [SQLite in production with WAL](https://victoria.dev/blog/sqlite-in-production-with-wal/)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
 * [litestream: Streaming S3 replication for SQLite](https://github.com/benbjohnson/litestream)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
