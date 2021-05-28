@@ -414,6 +414,7 @@ Python
 * [Understanding Python Operator Overloading to prevent wrong code | by Doojin Kang | Aug, 2020 | Medium](https://medium.com/@doojin.kang/understanding-python-operator-overloading-to-prevent-wrong-code-a96668e6c263)
 * [Chiel Peters - Python: From Source to Execution | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=xfC5o8HxaBk)
 * [Clean Code in Python. “A long descriptive name is better than… | by Esteban Solorzano | Dev Genius | Medium](https://medium.com/dev-genius/clean-code-in-python-8251eea292fa)
+* [10 Quick Clean Coding Hacks in Python | by Sruthi Korlakunta | Towards Data Science](https://towardsdatascience.com/10-quick-and-clean-coding-hacks-in-python-1ccb16aa571b)
 * [Use Python to Power Up Your Day Job | by Martin Andersson Aaberge | Better Programming | Medium](https://medium.com/better-programming/how-to-use-python-to-power-up-your-day-job-c6cd835a7c92)
 * [The Unseen Pitfalls of Python. Because 257 is not 257 but 256 is 256 | by Salvador Aleguas | codeburst](https://codeburst.io/the-unseen-pitfalls-of-python-7ca57f021d08)
 * [5 Python Code Smells You Should Be Wary Of | by Anupam Chugh | Towards Data Science](https://towardsdatascience.com/5-python-code-smells-you-should-be-wary-of-c48cc0eb9d8b)
@@ -2993,6 +2994,7 @@ Python
 * [lupa - Lua in Python http://pypi.python.org/pypi/lupa](https://github.com/scoder/lupa)
 * [macropy - Macros in Python: quasiquotes, case classes, LINQ and more!](https://github.com/lihaoyi/macropy)
 * [Magic Python - a package with preferences and syntax highlighter for cutting edge Python 3, although Python 2 is well supported, too](https://github.com/MagicStack/MagicPython)
+* [magic-wormhole: get things from one computer to another, safely](https://github.com/magic-wormhole/magic-wormhole) Get things from one computer to another, safely
 * [Mani - a distribued cron like scheduler](https://github.com/sherinkurian/mani)
 * [MicroPython](http://www.micropython.org/)
   * [MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)
