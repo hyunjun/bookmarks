@@ -378,6 +378,10 @@ Programming
 * [5 Best Practices for Over-the-Air (OTA) Updates - IoT Central](https://www.iotcentral.io/blog/5-best-practices-for-over-the-air-ota-updates)
 * [기술 스택 전면 교체와 고려해야 할 사항](https://jahong.tistory.com/entry/%EA%B8%B0%EC%88%A0-%EC%8A%A4%ED%83%9D-%EC%A0%84%EB%A9%B4-%EA%B5%90%EC%B2%B4%EC%99%80-%EA%B3%A0%EB%A0%A4%ED%95%B4%EC%95%BC-%ED%95%A0-%EC%82%AC%ED%95%AD)
 * [XY 문제 | 허튼소리](https://hut.mearie.org/xy-problem/) 좋은 질문 하기
+* [devlibrary.withgoogle.com](https://devlibrary.withgoogle.com/)
+  * [구글 디벨로퍼 라이브러리 | GeekNews](https://news.hada.io/topic?id=4303) 구글 기술을 이용한 우수 블로그 글과 오픈소스 프로젝트들 모음
+* [Devbook - Search Engine for Developers](https://usedevbook.com/)
+  * [개발자들을 위한 검색 엔진 - Devbook | GeekNews](https://news.hada.io/topic?id=4269)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -963,6 +967,7 @@ Programming
 * [대용량 환경에서 그럭저럭 돌아가는 서비스 만들기](https://www.popit.kr/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EA%B7%B8%EB%9F%AD%EC%A0%80%EB%9F%AD-%EB%8F%8C%EC%95%84%EA%B0%80%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [From Monolith to Microservices at Grab (aka Go for Grab)](https://www.youtube.com/watch?v=HrTt_C-2VGY)
 * [Using API Gateways to Facilitate Your Transition from Monolith to Microservices](https://blog.getambassador.io/using-api-gateways-to-facilitate-your-transition-from-monolith-to-microservices-5e630da24717)
+* [From Monolith to Microservices](https://www.infoq.com/presentations/github-rails-monolith-microservices/)
 * [What is an API Gateway?](https://www.youtube.com/watch?v=vHQqQBYJtLI)
 * [Spring Camp 2018 : 11번가 Spring Cloud 기반 MSA로의 전환 – 지난 1년간의 이야기](http://readme.skplanet.com/?p=13933) spring boot, hystrix, ribbon, eureka, zuul
 * [Why Microservices Work For Us](https://segment.com/blog/why-microservices/)
@@ -1076,6 +1081,7 @@ Programming
 * [6 overlooked facts of microservices | Enable Architect](https://www.redhat.com/architect/microservices-overlooked-facts)
 * [Beyond Microservices in a one page | Joe's Happy Life](http://www.moneystock.net/wp_e/2021/04/30/beyond-microservices-in-a-one-page/)
 * [Microservice Architecture and its 10 Most Important Design Patterns | by Md Kamaruzzaman | Towards Data Science](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
+* [Case Study: a Decade of Microservices at a Financial Firm](https://www.infoq.com/articles/Microservices-Case-Study/)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Edgar: Solving Mysteries Faster with Observability | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
   * [Building Netflix’s Distributed Tracing Infrastructure | by Netflix Technology Blog | Oct, 2020 | Netflix TechBlog](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
@@ -1172,6 +1178,7 @@ Programming
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [Computational Thinking for Educators](https://computationalthinkingcourse.withgoogle.com/course)
   * [구글 CT코스](https://manchoi.gitbooks.io/computational-thinking-of-google/content/index.html)
+* [Evidence-based Software Engineering: based on the publicly available data](http://www.knosof.co.uk/ESEUR/)
 * [free-programming-books](https://github.com/vhf/free-programming-books/blob/master/free-programming-books.md)
 * [free-programming-books-ko](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-ko.md)
 * [free-programming-books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
@@ -1244,6 +1251,8 @@ Programming
 * [Micro 3.0 (M3O) - a platform for cloud native development | Micro](https://micro.mu/blog/2020/11/05/micro-v3-aka-m3o.html)
   * [Why we are building a CLI first PaaS without a web frontend](https://crufter.com/cli-first-paas)
 * nextcloud [클라우드 스토리지: Nextcloud | Varins](https://varins.com/library/server/cloud-storage-nextcloud/)
+* [OpenTelemetry](https://opentelemetry.io/)
+  * [Why (and how) GitHub is adopting OpenTelemetry | The GitHub Blog](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/)
 * [opstrace: Secure observability, deployed in your own network. An open source alternative to SaaS solutions like datadog, signalfx...](https://github.com/opstrace/opstrace)
 * [Piku - the tiniest PaaS you've ever seen. Git push deployments to your own servers](https://piku.github.io/)
   * [piku - 초경량 PaaS | GeekNews](https://news.hada.io/topic?id=3659)
@@ -1350,6 +1359,7 @@ Programming
 * [Clean Code: 5 Essential Takeaways - Better Programming - Medium](https://medium.com/better-programming/clean-code-5-essential-takeaways-2a0b17ccd05c)
 * [(C)Lean Code. The new generation of Clean Code. | by Huge Ponkce | The Startup | Medium](https://medium.com/swlh/c-lean-code-db84f8e312d4)
 * [No, your clean code won't save the planet • Buttondown](https://buttondown.email/hillelwayne/archive/no-your-clean-code-wont-save-the-planet/)
+* [It's probably time to stop recommending Clean Code @ Things Of Interest](https://qntm.org/clean)
 * [How to write clean functions](https://dev.to/manu4216/how-to-write-clean-functions-bmh)
 * [Write code that is easy to delete, not easy to... — programming is terrible](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [가게노출 파트의 조금은 색다른 파일럿 프로젝트, 그리고 첫 업무까지의 이야기](https://woowabros.github.io/experience/2020/04/29/pilot-project-deocks.html)
@@ -1825,6 +1835,7 @@ Programming
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
 * [A service to help with testing of sending the right emails https://api.unverified.email ](https://github.com/ptek/api.unverified.email)
 * [500 마일 이메일 문제](https://edykim.com/ko/post/500-mile-email-problem/)
+* [Your E-Mail Validation Logic is Wrong](https://www.netmeister.org/blog/email.html)
 * [gmail-helper - it will contain different utilities for GMail API over OAuth2](https://github.com/abhishekkr/gmail-helper)
 * IMAP
   * [links of commands](https://gist.github.com/hyunjun/0e730ad6c9a5f2562f6ec6027cc8a95e)
@@ -1876,6 +1887,7 @@ Programming
 * [이미지 최적화 자동화하기](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/?hl=ko)
 * [Image Formats, Performance and Cognitive Load](https://www.infoq.com/presentations/image-formats-performance/)
 * [jpeg.md at master · corkami/formats](https://github.com/corkami/formats/blob/master/image/jpeg.md)
+* [Finally understanding PNG | Compress-Or-Die](https://compress-or-die.com/Understanding-PNG)
 
 # Infrastructure
 * [IT인프라 전문가 되기](https://brunch.co.kr/magazine/it-infra)
@@ -2243,6 +2255,7 @@ Programming
   * [4월 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/05/b-4.html)
   * [5월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/05/b-5-2.html)
   * [5월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/05/b-5.html)
+  * [5월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/05/b-5-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -2861,6 +2874,7 @@ Programming
 * [GOTO 2021 • When Test Driven Development Goes Wrong • Dave Farley - YouTube](https://www.youtube.com/watch?v=-4Ybn0Cz2oU)
 * [회고: 현업에서 TDD 실천하기 #1](https://brunch.co.kr/@tilltue/69)
 * [회고 : 두번째 프로젝트를 TDD로 진행하며... #2](https://brunch.co.kr/@tilltue/45)
+* [Experiences from Having Developers Write E2E Tests](https://www.infoq.com/news/2021/05/developers-e2e-tests/)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
