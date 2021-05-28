@@ -2566,6 +2566,7 @@ Python
 * [**polynote - The polyglot notebook with first-class Scala support**](https://polynote.org)
   * [Open-sourcing Polynote: an IDE-inspired polyglot notebook](https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)
   * [hub.docker.com/r/k3vin/polynote-spark](https://hub.docker.com/r/k3vin/polynote-spark)
+* powerbiclient [Announcing Power BI in Jupyter notebooks | Microsoft Power BI Blog | Microsoft Power BI](https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-in-jupyter-notebooks/)
 * [pyxll-jupyter · PyPI](https://pypi.org/project/pyxll-jupyter/)
   * 엑셀 주피터 노트북 결합
   * 엑셀 데이터를 파이선으로 조작하거나, 파이선으로 조작된 데이터나 시각화 정보를 엑셀로 가져오는 2-way binding 작업에 유용
