@@ -307,7 +307,9 @@ Java
   * [Do or Do Not: Patterns and Antipatterns with the Try type](https://medium.com/software-ascending/do-or-do-not-patterns-and-antipatterns-with-the-try-type-c77a63f74cc9)
 * util
   * ComparableTimSort.countRunAndMakeAscending [java countrunandmakeascending 메소드 : 키가 거꾸로 들어온 듯한 이유](https://codingdog.tistory.com/entry/java-countrunandmakeascending-%EB%A9%94%EC%86%8C%EB%93%9C-%ED%82%A4%EA%B0%80-%EA%B1%B0%EA%BE%B8%EB%A1%9C-%EB%93%A4%EC%96%B4%EC%98%A8-%EB%93%AF%ED%95%9C-%EC%9D%B4%EC%9C%A0)
-  * List [java UnmodifiableCollection : 무엇이 다른가요?](https://codingdog.tistory.com/entry/java-UnmodifiableCollection-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80%EC%9A%94)
+  * List
+    * [java UnmodifiableCollection : 무엇이 다른가요?](https://codingdog.tistory.com/entry/java-UnmodifiableCollection-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80%EC%9A%94)
+    * [java collections reverse : list를 뒤집는 연산을 간단하게 알아봅시다.](https://codingdog.tistory.com/entry/java-collections-reverse-list%EB%A5%BC-%EB%92%A4%EC%A7%91%EB%8A%94-%EC%97%B0%EC%82%B0%EC%9D%84-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
   * regex regular expression
     * ip address
       * [Matching Numeric Ranges with a Regular Expression](http://www.regular-expressions.info/numericranges.html)
