@@ -167,6 +167,7 @@ C
 * [**Parsing Protobuf at 2+GB/s: How I Learned To Love Tail Calls in C**](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
 * [Your ABI is Probably Wrong](https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html)
 * [함수의 극한 구하는 프로그램 만들기(C언어) | 수성비 전자방](https://toopyo.tistory.com/entry/limitfx)
+* [Why I still like C and strongly dislike C++ « Kostya's Boring Codec World](https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -177,6 +178,7 @@ C
 # Book
 * [An Introduction to C & GUI Programming – the new book from Raspberry Pi Press](https://www.raspberrypi.org/blog/an-introduction-to-c-gui-programming-the-new-book-from-raspberry-pi-press/)
 * [Modern C](https://modernc.gforge.inria.fr/)
+* [C 프로그래밍: 현대적 접근](https://wikidocs.net/26942)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
