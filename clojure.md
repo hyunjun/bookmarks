@@ -989,7 +989,7 @@ Clojure
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
 * [scicloj.ml - Proposal for a Clojure machine learning library](https://github.com/scicloj/scicloj.ml)
-* [sci-script-tag](https://borkdude.github.io/sci-script-tag/) exposes the Small Clojure Interpreter in the browser in such a way that you can use it with the script tag
+* [scittle](https://borkdude.github.io/scittle/) exposes the Small Clojure Interpreter in the browser in such a way that you can use it with the script tag
 * [Selmer](https://github.com/yogthos/Selmer) template
 * [sequence: Immutable, scalable, and easy to use ledger service](https://github.com/runopsio/sequence)
   * [Things I Wish I Knew Before Building a Ledger - Decimals Blog](https://decimals.substack.com/p/things-i-wish-i-knew-before-building)
@@ -1053,6 +1053,7 @@ Clojure
   * [deps.clj/deps.bat at master · borkdude/deps.clj](https://github.com/borkdude/deps.clj/blob/master/deps.bat#L1-L7)
   * [Babashka pods: why, how to use and what's going on in the background? Example: go-sqlite3 - YouTube](https://www.youtube.com/watch?v=Q3EFNRwxLLo)
   * [Playing New Music On Old Car Stereo With Clojure And Babashka | Savo's Blog](https://savo.rocks/posts/playing-new-music-on-old-car-stereo-with-clojure-and-babashka/)
+  * [Conjure babashka auto nREPL jack in - asciinema](https://asciinema.org/a/415758)
   * [babashka-sql-pods: Babashka pods for SQL databases](https://github.com/babashka/babashka-sql-pods)
   * [bb-clis: Babashka CLIs](https://github.com/cldwalker/bb-clis)
   * [pod-babashka-sqlite3: A babashka pod for interacting with sqlite3](https://github.com/babashka/pod-babashka-sqlite3)
