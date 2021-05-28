@@ -307,6 +307,7 @@ NoSQL
 * [A blazing fast geo database with LevelDB, Go and Geohashes](http://blog.nobugware.com/post/2015/leveldb_geohash_golang/)
 * [levi - Streaming full-text search for Node.js and browsers. Built on LevelDB](https://github.com/cshum/levi)
 * [Siberite is a simple leveldb backed message queue server](https://github.com/bogdanovich/siberite)
+* [Sherlock Holmes and the case of a crashing devenv.exe | The .NET Tools Blog](https://blog.jetbrains.com/dotnet/2021/04/27/sherlock-holmes-and-the-case-of-a-crashing-devenv-exe/)
 
 # [LMDB - Lightning Memory-Mapped Database Manager](http://symas.com/mdb/doc/)
 * [github.com/LMDB/lmdb](https://github.com/LMDB/lmdb)
@@ -402,6 +403,9 @@ NoSQL
 # OmniSci
 * [OmniSci - Massively Accelerated Analytics and Data Science](https://www.omnisci.com/)
 * [OmniSciDB (formerly MapD Core) https://www.omnisci.com ](https://github.com/omnisci/omniscidb)
+
+# PlanetScale
+* [Announcing PlanetScale: The database for developers.](https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers)
 
 # [Pyro: A Spatial-Temporal Big-Data Storage System](https://www.usenix.org/conference/atc15/technical-session/presentation/li_shen)
 
