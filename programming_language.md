@@ -68,6 +68,7 @@ Programming Language
   * [How the HotSpot and Graal JVMs Execute Java Code - YouTube](https://www.youtube.com/watch?v=CCMDzPYWsAk)
   * [GraalVM night! - Singapore Java User Group - YouTube](https://www.youtube.com/watch?v=N0nWly2wclo)
   * [GraalVM 21.0 Introduces a JVM Written in Java](https://www.infoq.com/news/2021/01/graalvm-21-jvm-java/)
+  * [GraalVM 21.1 Supports JDK 16](https://www.infoq.com/news/2021/05/graalvm-21-1-supports-jdk16/)
   * [Java on Truffle — Going Fully Metacircular | by Oleg Šelajev | graalvm | Jan, 2021 | Medium](https://medium.com/graalvm/java-on-truffle-going-fully-metacircular-215531e3f840)
   * [Making sense of Native Image contents | graalvm](https://medium.com/graalvm/making-sense-of-native-image-contents-741a688dab4d)
   * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=eKNEqWdC_Gs)
@@ -81,6 +82,8 @@ Programming Language
 * [Language Server Protocol](https://microsoft.github.io/language-server-protocol/)
 * [Grammars for programming languages](https://medium.com/@mikhail.barash.mikbar/grammars-for-programming-languages-fae3a72a22c6)
 * [언어별로 살펴본 Deep Copy와 Shallow Copy - Kowana's coding](https://www.kowanas.com/coding/2021/01/02/deep-copy%EC%99%80-shallow-copy/)
+* [Comby · Structural code search and replace for ~every language](https://comby.dev/)
+  * [Comby - 코드 검색 및 구조 변경 도구 | GeekNews](https://news.hada.io/topic?id=4344)
 
 # Closure
 * [Closures And Objects Are Equivalent](http://c2.com/cgi/wiki?ClosuresAndObjectsAreEquivalent)
@@ -157,6 +160,7 @@ Programming Language
 * [Ballerina - Cloud Native Programming Language](https://ballerina.io/)
 * Basic
   * [GWBASIC 레거시 이야기](http://thdev.net/744)
+* [Beads Language Home site](https://beadslang.org/)
 * [Bosque programming language - an experiment in regularized design for a machine assisted rapid and reliable software development lifecycle](https://github.com/Microsoft/BosqueLanguage)
   * [Microsoft Launches Bosque: An Open Source Programming Language](https://www.technotification.com/2019/04/microsoft-launches-bosque-programming-language.html)
 * C2lang
@@ -291,6 +295,7 @@ Programming Language
   * [Welcome to Hy’s documentation!](http://docs.hylang.org/)
   * [HyREPL - an implementation of the nREPL protocol for Hy](https://github.com/Foxboron/HyREPL)
   * [Complex slicing in numpy](https://groups.google.com/forum/m/#!topic/hylang-discuss/gDWb_sSD1CQ)
+* [hyperscript - an experimental scripting language designed for the web, inspired by HyperTalk](https://hyperscript.org/)
 * [imba - programming language for web](http://imba.io/)
 * [Idris - A Language with Dependent Types](http://www.idris-lang.org/)
   * [Type-Driven Development with Idris 리뷰](https://harfangk.github.io/2017/10/24/tdd-with-idris-review-ko.html)
@@ -323,6 +328,7 @@ Programming Language
   * [LLVM 난독화 path 만들기 - CFG-Flattening : 클리앙](https://www.clien.net/service/board/lecture/15891468)
 * Logo
   * [구글 개발자, 자연어로 작성하는 프로그래밍 언어 공개](http://www.bloter.net/archives/251344)
+  * [Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1) - turtleSpaces](https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/)
 * [Lola-2: A Logic Description Language](http://www.inf.ethz.ch/personal/wirth/Lola/index.html)
 * Lua
   * [Lua Missions - Lua Koans, minus the Zen stuff](https://github.com/kikito/lua_missions)
