@@ -95,6 +95,7 @@ Math
 * [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
 * [수학공부 카테고리 목록](https://lypicfa.tistory.com/559)
 * [혼돈 속의 질서 찾기: 그래프 램지이론 소개 – 과학의 지평](https://horizon.kias.re.kr/17100/)
+* [“브라우저에서 바로 수학 계산” MS, 엣지에 ‘매스 솔버’ 추가 예정 - ITWorld Korea](https://www.itworld.co.kr/news/194744)
 
 # Bezier
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
