@@ -55,6 +55,7 @@ Network
 * [Ethernet and IP Networking 101 (Heavily Illustrated)](https://iximiuz.com/en/posts/computer-networking-101/)
 * [네트워크 연결 테스트와 ping? :: neozest : neo+zest](https://www.neozest.com/entry/testingnetworkconnectionviapingICMP)
 * [포트 포워딩이란? – Lamanus' Archive](https://lamanus.kr/59)
+* [**Boosting Dropbox upload speed—and making Windows’ TCP stack resilient to network reordering - Dropbox**](https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed#microsofts-long-term-fix)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
@@ -180,6 +181,7 @@ Network
 * IPinfo.io[Comprehensive IP address data, IP geolocation API and database - IPinfo.io](https://ipinfo.io/)
 
 # Library
+* [A(x56) - URL Lengthener](https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/)
 * [CIDR (Classless inter-domain routing)](https://github.com/m7shapan/cidr)
 * Cicso packet tracer
   * [네트워크 장비 없이 공부하기 - Cisco Packet Tracer](https://www.youtube.com/watch?v=0f1viq6FjK4)
@@ -246,4 +248,5 @@ Network
 * [HTTP/3: 과거, 현재 그리고 미래](https://blog.cloudflare.com/ko-kr/http3-the-past-present-and-future-ko-kr/)
 * [Benchmarking QUIC. Summer 2020 | by Alex Yu | Medium](https://medium.com/@the.real.yushuf/benchmarking-quic-1fd043e944c7)
 * [페이스북 엔지니어링 블로그 번역 QUIC으로 수십억 트래픽을 대응하는 법](https://www.notion.so/QUIC-a6f0f26119a4417492e365134aa107bb)
+* [QUIC 버전 1의 RFC 승인 | saturnsoft.net](https://www.saturnsoft.net/network/2021/05/27/quic-rfc9000/)
 * [MsQuic - Cross platform C implementation of the IETF QUIC protocol](https://github.com/Microsoft/msquic)
