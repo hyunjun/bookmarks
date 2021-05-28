@@ -130,6 +130,7 @@ Azure
 * [애저듣보잡 AKS 활용법 101 - 박인혜 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WkuMBsjmzk5E7GOG8DIh49Ur)
 * [Az-900 Azure Fundamentals | Week 5/6 | 애저 자격증 준비 - YouTube](https://www.youtube.com/watch?v=ewDuJSpEh5A)
 * [Build and Deploy Spring Boot with Mongo DB App on Azure | Secure DB secrets with key vaults - YouTube](https://www.youtube.com/watch?v=hQV0uZDWHQI)
+* [리얼월드 서버의 미제사건, 원인 모를 과부하 해결하기. 리얼월드는 Microsoft Azure 위에서 돌아가고 있습니다… | by 이예찬 | Uniquegood | May, 2021 | Medium](https://medium.com/uniquegood/%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-%EC%84%9C%EB%B2%84%EC%9D%98-%EB%AF%B8%EC%A0%9C%EC%82%AC%EA%B1%B4-%EC%9B%90%EC%9D%B8-%EB%AA%A8%EB%A5%BC-%EA%B3%BC%EB%B6%80%ED%95%98-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-9806f783fc67)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
