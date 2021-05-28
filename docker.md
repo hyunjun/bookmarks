@@ -967,6 +967,7 @@ Docker
 * [토크ON세미나 쿠버네티스 살펴보기 7강 - Kubernetes(쿠버네티스) 실습 2 | T아카데미 - YouTube](https://www.youtube.com/watch?v=v6TUgqfV3Fo)
 * [IDG 블로그 | 쿠버네티스를 좀 더 공격적으로 이용해야 하는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/193644)
 * [A Guide to the Kubernetes Networking Model - Kevin Sookocheff](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
+* [**번역 쿠버네티스 2,500대 노드 운영하기 | 커피고래의 노트**](https://coffeewhale.com/scaling-node01) etcd kube master docker image pull networking ARP cache
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
