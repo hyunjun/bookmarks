@@ -48,6 +48,9 @@ Game
 * [playok.com](http://www.playok.com/)
 * [yucata.de](http://www.yucata.de/en)
 
+# Book
+* [Game Programming Patterns](http://www.gameprogrammingpatterns.com/)
+
 # Library
 * [Eller's algorithm creates 'perfect' mazes, having only a single path between any two cells, one row at a time](http://www.neocomputer.org/projects/eller.html)
 * [Libplanet 게임잼](https://snack.planetarium.dev/kor/2020/03/libplanet-gamejam/)
