@@ -614,6 +614,7 @@ Apache
 * [a-great-day-out-with/a-great-day-out-with.github.io](https://github.com/a-great-day-out-with/a-great-day-out-with.github.io)
   * [A Great Day Out With... Apache Kafka](https://a-great-day-out-with.github.io/kafka.html)
 * [KafkaConsumer Client Internals](https://d2.naver.com/helloworld/0974525)
+* [Apache Kafka for Industrial IoT and Manufacturing 4.0 - Kai Waehner](https://www.kai-waehner.de/blog/2021/05/19/apache-kafka-industrial-iot-manufacturing-4-0-automotive-energy-logistics/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
