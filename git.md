@@ -831,6 +831,7 @@ Git
 * [SCM Breeze is a set of shell scripts (for bash and zsh) that enhance your interaction with git](https://github.com/ndbroadbent/scm_breeze)
 * [SourceTree - Simplicity and power in a beautiful Git GUI](https://www.sourcetreeapp.com)
   * [Reverse Commit SourceTree 에서 되돌리는 Git](https://developer88.tistory.com/362)
+* [Stacked Git – an application for managing Git commits as a stack of patches](https://stacked-git.github.io/)
 * [Sublime Merge](https://www.sublimemerge.com/) Meet a new Git client, from the makers of Sublime Text
 * [Tig - Text-mode interface for git http://jonas.nitro.dk/tig ](https://github.com/jonas/tig)
   * [Tig: text-mode interface for Git](http://jonas.nitro.dk/tig/)
