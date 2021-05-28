@@ -489,6 +489,8 @@ Go
 * [golongpoll - golang HTTP longpolling library, making web pub-sub easy!](https://github.com/jcuga/golongpoll)
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
 * [Go Micro - a framework for microservice development](https://go-micro.dev/)
+* gomobile [Mobile · golang/go Wiki](https://github.com/golang/go/wiki/Mobile)
+  * [Go 언어로 Android / iOS 앱 코드 작성하기](https://open-support.tistory.com/entry/Go-%EC%96%B8%EC%96%B4%EB%A1%9C-Android-iOS-%EC%95%B1-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 * [go-nfs: golang NFSv3 server](https://github.com/willscott/go-nfs/)
 * [Goofys is a Filey-System interface to S3](https://github.com/kahing/goofys)
 * GoPacket
