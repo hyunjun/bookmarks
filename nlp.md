@@ -318,6 +318,7 @@ NLP
 * [Generative Python Transformer p.3 - Preprocessing Dataset - YouTube](https://www.youtube.com/watch?v=PUr-4ouD0Xc)
 * [Generative Python Transformer p.4 - Tokenizing - YouTube](https://www.youtube.com/watch?v=4WHt1VLon_U)
 * [Generative Python Transformer p.5 - Training and some testing of GPT-2 model - YouTube](https://www.youtube.com/watch?v=2486auSLTUI)
+* [Generative Python Transformer p.6 - Testing larger model - YouTube](https://www.youtube.com/watch?v=vG-z-Y_Sfrw)
 * [유니버설 컴퓨팅 엔진으로 사전 훈련된 트랜스포머](https://brunch.co.kr/@synabreu/115)
 * [Position Encoding의 종류와 분석. by 박승원 (http://swpark.me/) | by Team Deepest | Feb, 2021 | Medium](https://blog-deepest.medium.com/position-encoding%EC%9D%98-%EC%A2%85%EB%A5%98%EC%99%80-%EB%B6%84%EC%84%9D-ab1816b0f62a)
 * [10 Exciting Ideas of 2018 in NLP](https://databreak.netlify.com/2019-03-28-Exciting_Ideas_NLP_2018/)
