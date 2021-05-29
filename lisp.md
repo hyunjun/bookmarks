@@ -89,6 +89,7 @@ Lisp
 * [William Byrd on "The Most Beautiful Program Ever Written" PWL NYC](https://www.youtube.com/watch?v=OyfBQmvr2Hc)
 * [An Intuition for Lisp Syntax](https://stopa.io/post/265)
 * [Carp: A statically typed lisp, without a GC, for real-time applications](https://github.com/carp-lang/Carp)
+* [steloflute :: Lisp 계열 언어에서의 mutation 방법에 대한 고찰](https://steloflute.tistory.com/entry/Lisp-%EA%B3%84%EC%97%B4-%EC%96%B8%EC%96%B4%EC%97%90%EC%84%9C%EC%9D%98-mutation-%EB%B0%A9%EB%B2%95%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0)
 
 # Bel
 * [Bel](http://www.paulgraham.com/bel.html)
