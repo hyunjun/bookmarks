@@ -604,6 +604,8 @@ Go
 ## Library MySQL
 * [Three bugs in the Go MySQL Driver](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
 * [Connecting to MySQL and Creating a Database | Go (Golang) MySQL Tutorial](https://golangbot.com/connect-create-db-mysql/)
+* [golang Mysql 여러줄 insert 속도 문제 - Sean - Medium](https://ykish72.medium.com/golang-mysql-%EC%97%AC%EB%9F%AC%EC%A4%84-insert-%EC%86%8D%EB%8F%84-%EB%AC%B8%EC%A0%9C-c784a7922ae7)
+* [Mysql 테스트프로그램에 C++이나 C#대신 익숙하지 않은 golang쓴 이유 | by Sean | May, 2021 | Medium](https://ykish72.medium.com/mysql-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%97%90-c-%EC%9D%B4%EB%82%98-c-%EB%8C%80%EC%8B%A0-%EC%9D%B5%EC%88%99%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%80-golang%EC%93%B4-%EC%9D%B4%EC%9C%A0-45d0902c979f)
 * [dalga - MySQL backed Job Scheduler with a HTTP interface https://godoc.org/github.com/cenkalti/dalga/dalga](https://github.com/cenkalti/dalga)
 
 # Machine Learning
