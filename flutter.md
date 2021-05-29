@@ -86,6 +86,7 @@ Flutter
 * [초간단 리소스 아끼는 방법 #flutter #late #더코딩파파 - YouTube](https://www.youtube.com/watch?v=_9qPtCZjbLo)
 * [Bottom Navigation, Router, AppBar Menu 구성하기](https://blog.naver.com/pjt3591oo/222343936600)
 * [안드로이드 스튜디오에서 앱 실행시 JAVA_HOME PATH 문제가 발생한다면?](https://www.androidhuman.com/2021-05-28-flutter_android_studio_not_installed)
+* [Flutter 을 AWS lambda와 연동하기(IOS, Android)](https://blog.naver.com/nanotoly/222373488193)
 
 # Dart
 * [awesome-dart: A curated list of awesome Dart frameworks, libraries, and software](https://github.com/yissachar/awesome-dart)
