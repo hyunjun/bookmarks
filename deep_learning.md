@@ -2336,6 +2336,7 @@ CVPR2016)
 * [어렵지만 도전할 가치 있는 '강화학습 알고리즘' 직접 실험하기 - ITWorld Korea](https://www.itworld.co.kr/news/183779)
 * [Algorithm_For_RL: studying algorithm for RL](https://github.com/LeejwUniverse/Algorithm_For_RL)
 * [강화학습 환경 개발 (넥슨 옥찬호) - YouTube](https://www.youtube.com/watch?v=PuVLgXhEBpQ)
+* [android_env](https://github.com/deepmind/android_env)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
