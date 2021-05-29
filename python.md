@@ -1519,6 +1519,7 @@ Python
 * [Bioinformatics in Python; DNA Toolkit. Part 5, 6 & 7: Open Reading Frames, Protein Search in NCBI database | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/dna-toolkit-part-5-6-7-open-reading-frames-protein-search-in-ncbi-database-90bd8c09b78f)
 * [Bioinformatics Tools Programming in Python with Qt: Part 1. | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/bioinformatics-tools-programming-in-python-with-qt-part-1-1a5937e7d53c)
 * [Bioinformatics Tools Programming in Python with Qt: Part 2. | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/bioinformatics-tools-programming-in-python-with-qt-part-2-1a4f6e0ef39)
+* [PyCTD - programmatically access and analyze data provided by the Comparative Toxicogenomics Database](https://pyctd.readthedocs.io)
 * [Rosalind - a platform for learning bioinformatics and programming through problem solving](http://rosalind.info/problems/locations/)
 
 # Book
