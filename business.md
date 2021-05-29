@@ -540,6 +540,8 @@ Business
 * [적당히 까칠한 리더가 좋은 리더다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240773) 이탈 Exit 표출 Voice 방관 Neglect 감내 Loyalty
 * [Good Leadership Is About Asking Good Questions](https://hbr.org/2021/01/good-leadership-is-about-asking-good-questions)
 * [What Leaders Really Do – TLNT](https://www.tlnt.com/what-leaders-really-do/)
+* [Respondeat superior - Wikipedia](https://en.wikipedia.org/wiki/Respondeat_superior) let the master answer
+  * [상급자책임 - 위키백과, 우리 모두의 백과사전](https://ko.wikipedia.org/wiki/%EC%83%81%EA%B8%89%EC%9E%90%EC%B1%85%EC%9E%84)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
