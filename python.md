@@ -808,6 +808,7 @@ Python
   * [Python Generators Explained! (Sort of)](https://hackernoon.com/python-generators-35ac68334882)
   * [How to Create a Generator in Python](https://medium.com/better-programming/how-to-create-a-generator-in-python-5ee587621879)
   * [Optimize python code with generators - Chetan Mishra - Medium](https://medium.com/@chetaniam/optimize-python-code-with-generators-aef839996ee4)
+  * [파이썬 generator는 어떻게 실행 위치를 기억하고 있을까요?](https://codingdog.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-generator%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%A4%ED%96%89-%EC%9C%84%EC%B9%98%EB%A5%BC-%EA%B8%B0%EC%96%B5%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)
 * globals [Alternatives to Using Globals in Python | by Keno Leon | Better Programming | Medium](https://medium.com/better-programming/alternatives-to-using-globals-in-python-a3b2a7d5411b)
 * hash
   * [입 개발 Python 3.3 부터는 hash 결과가 프로세스 마다 달라요!!!](https://charsyam.wordpress.com/2018/01/29/%EC%9E%85-%EA%B0%9C%EB%B0%9C-python-3-3-%EB%B6%80%ED%84%B0%EB%8A%94-hash-%EA%B2%B0%EA%B3%BC%EA%B0%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%A7%88%EB%8B%A4-%EB%8B%AC%EB%9D%BC%EC%9A%94/)
