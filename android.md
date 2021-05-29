@@ -244,6 +244,7 @@ Android
 * [Pluu Dev - 요약 Effective background tasks on Android (Google I/O '21)](http://pluu.github.io/blog/android/io21/2021/05/23/io21-effective-background-tasks-on-android/)
 * [Pluu Dev - 요약 State of Kotlin on Android (Google I/O '21)](http://pluu.github.io/blog/android/io21/2021/05/24/io21-state-of-kotlin-on-android/)
 * [Pluu Dev - 요약 What’s new in foldables, tablets, and large screens (Google I/O '21)](http://pluu.github.io/blog/android/io21/2021/05/26/io21-whats-new-in-foldables-tablets-and-large-screens/)
+* [Pluu Dev - 요약 What's new in Jetpack Compose (Google I/O '21)](http://pluu.github.io/blog/android/io21/2021/05/29/io21-whats-new-in-jetpack-compose/)
 
 # Course MOOC Lecture
 * [안드로이드 강의 자료(Android Lecture)](https://github.com/jyheo/android-lecture)
