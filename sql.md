@@ -809,6 +809,7 @@ SQL
   * [Announcing pg_stat_monitor Tech Preview: Get Better Insights Into Query Performance in PostgreSQL - Percona Database Performance Blog](https://www.percona.com/blog/2020/10/14/announcing-pg_stat_monitor-tech-preview-get-better-insights-into-query-performance-in-postgresql/)
 * [PG-Strom is an extension of PostgreSQL, works as custom-scan provider](https://wiki.postgresql.org/wiki/PGStrom)
 * [pgTAP - a suite of database functions that make it easy to write TAP-emitting unit tests in psql scripts or xUnit-style test functions](http://pgtap.org/)
+* [PolarDB-for-PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL)
 * [PostgresqlCO.NF: PostgreSQL configuration for humans](https://postgresqlco.nf/en/doc/param/)
 * [PostgREST: REST API for any Postgres database](https://github.com/PostgREST/postgrest)
   * [PostgREST - a standalone web server that turns your PostgreSQL database directly into a RESTful AP](https://postgrest.org/)
