@@ -30,6 +30,7 @@ Emacs
 * [How to open a file in Emacs - Murilo Pereira](https://www.murilopereira.com/how-to-open-a-file-in-emacs/)
 * [spacemacs - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/spacemacs)
 * [Introduction to Emacs - YouTube](https://www.youtube.com/watch?v=Ap8n70DkVOw)
+* [인텔맥에서 iTerm 2와 함께하는 Emacs 친화적인 환경설정 : 클리앙](https://www.clien.net/service/board/cm_mac/16149146)
 
 # Library
 * Cask
