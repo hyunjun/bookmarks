@@ -181,6 +181,7 @@ C++
 * [How C++ Resolves a Function Call](https://preshing.com/20210315/how-cpp-resolves-a-function-call/)
 * [A friendly guide to the syntax of C++ method pointers | Opensource.com](https://opensource.com/article/21/2/ccc-method-pointers)
 * [Intel oneAPI and DPC++(heewook 2021 04 19 15 37 48) - YouTube](https://www.youtube.com/watch?v=ONhxOOpZuHM)
+* [인텔맥 Big Sur에서 oneAPI환경 설정 (intel compiler / MKL / Time Profile) : 클리앙](https://www.clien.net/service/board/cm_mac/16151788)
 * [Papers and Presentations](https://sean-parent.stlab.cc/papers-and-presentations/)
 * [Improving Print Logging with Line Pos Info & Modern C++ - C++ Stories](https://www.cppstories.com/2019/04/file-pos-log/)
 
