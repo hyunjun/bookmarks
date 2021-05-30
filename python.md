@@ -2416,7 +2416,8 @@ Python
     * 오류 발생 `Cannot remove entries from nonexistent file /path/to/anaconda/lib/python2.7/site-packages/easy-install.pth`
     * [`pip install --ignore-installed --upgrade pip setuptools`](https://github.com/tensorflow/tensorflow/issues/3324) 실행 후 재실행하니 성공
 * [Release of IPython 6.0](https://blog.jupyter.org/2017/04/19/release-of-ipython-6-0/)
-* [2016317 파이썬기초_파이썬_다중설치부터_Jupyter를이용한프로그래밍_이태영](https://www.slideshare.net/TaeYoungLee1/2016317-jupyter)
+* [2016317 파이썬기초 파이썬 다중설치부터 Jupyter를이용한프로그래밍 이태영](https://www.slideshare.net/TaeYoungLee1/2016317-jupyter)
+* [**인텔맥 Big Sur에서 연구용 Python / Jupyter 환경설정 및 기본 활용 예시 : 클리앙**](https://www.clien.net/service/board/cm_mac/16183761)
 * [Top 10 IPython Notebook Tutorials for Data Science and Machine Learning](http://www.kdnuggets.com/2016/04/top-10-ipython-nb-tutorials.html)
 * [IPython Notebook을 통한 데이터 분석 #1](http://blog.ncsoft.com/?p=21870)
 * [IPython Notebook을 통한 데이터 분석 #2](http://blog.ncsoft.com/?p=23081)
