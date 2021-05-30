@@ -459,6 +459,7 @@ Data Visualization
 * [Validation with Visualization (3) | Pega Devlog](https://jehyunlee.github.io/2021/04/09/Python-DS-68-visualcv3/)
 * [Python을 이용한 연구데이터 시각화 Part 1 | Pega Devlog](https://jehyunlee.github.io/2021/04/30/Python-DS-70-pythonvis1/)
 * [Python을 이용한 연구데이터 시각화 Part 2 | Pega Devlog](https://jehyunlee.github.io/2021/05/03/Python-DS-71-pythonvis2/)
+* [Lecture Survey Summary (Google Forms) | Pega Devlog](https://jehyunlee.github.io/2021/05/30/Python-DS-75-googlesurvey/)
 * [How matrices transform space - Pritesh Shrivastava’s Blog](https://pritesh-shrivastava.github.io/blog/2021/02/09/matrix-transformation)
 * [Matplotlib Vis. Function | Pega Devlog](https://jehyunlee.github.io/2021/05/18/Python-DS-73-mplfunc/)
 * [**itermplot - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal**](https://github.com/daleroberts/itermplot)
