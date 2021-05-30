@@ -85,6 +85,7 @@ Monitoring
 * [Pinpoint is an open source APM (Application Performance Management) tool for large-scale distributed systems written in Java](https://github.com/naver/pinpoint)
   * [**java 애플리케이션 트러블 슈팅 사례 & pinpoint**](https://www.slideshare.net/deview/d2-java-pinpoint)
   * [Pinpoint APM Node 버전 설치하기](https://jojoldu.tistory.com/573)
+  * [Pinpoint APM Node 사용하기](https://jojoldu.tistory.com/576)
 * [Ptop - An awesome task manager written in Python !](http://black-perl.me/ptop/)
 * [pyDash - A Python App For Monitoring Your Linux Server](http://linoxide.com/monitoring-2/pydash-python-app-monitoring-linux-server/)
 * [scouter - Open Source S/W Performance Monitoring](https://github.com/scouter-project/scouter)
