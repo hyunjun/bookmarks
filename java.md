@@ -169,6 +169,7 @@ Java
   * [Fully Immutable Class in java](https://www.linkedin.com/pulse/fully-immutable-class-java-saral-saxena/)
   * [Anonymous Inner Classes in Java](https://www.youtube.com/watch?v=FPWkRaqwT84)
   * [java inner class](http://blog.woniper.net/362)
+  * [Class Loaders in Java | Class loader](https://www.java4u.in/2021/05/class%20loader.html)
 * Collections
   * [Collections.compare(JDK, Eclipse, Guava, Apache...); by Lima, Nanivadekar and Raab](https://www.youtube.com/watch?v=hWwbPguayNA)
   * HashMap
@@ -1027,6 +1028,7 @@ Java
   * [Simplifying Java Boilerplate Through Lombok - YouTube](https://www.youtube.com/watch?v=cjftvp-pILs)
   * [자바 코딩 간소화 기능 lombok - YouTube](https://www.youtube.com/watch?v=g20-0VIpmM4)
   * [Lombok을 쓰며 겪었던 문제](https://velog.io/@juunini/Lombok%EC%9D%84-%EC%93%B0%EB%A9%B0-%EA%B2%AA%EC%97%88%EB%8D%98-%EB%AC%B8%EC%A0%9C)
+  * [Project Lombok & MapStruct with Spring Boot | Java Bean Mappings | Spring Boot MapStruct CRUD API - YouTube](https://www.youtube.com/watch?v=EVCrLp-k494)
 * [Machine Learning - Java collection that provides Java packages for developing a machine learning algorithm](https://github.com/sebig3000/MachineLearning)
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)
 * Maven
@@ -1493,7 +1495,10 @@ Java
 * [32. Spring - Spring Boot 애플리케이션 war 배포 및 Tomcat Probe Manager 설정](https://kim-jong-hyun.tistory.com/58)
 * [2월 우아한테크세미나 우아한 스프링 부트 - YouTube](https://www.youtube.com/watch?v=z0EaPjF3pCQ) [pdf](pdfs/wooahan_spring_boot.pdf)
 * [Integration Tests with Spring Boot and @SpringBootTest](https://reflectoring.io/spring-boot-test/)
+* [Spring Boot Custom Filters | Filter Registration Bean | Swagger Integration with Filters | WebFilter - YouTube](https://www.youtube.com/watch?v=Bcne87cnzHg)
+* [Connect Spring Boot REST API with Firebase | Cloud Firestore | Google Firebase | RESTFUL CURD API - YouTube](https://www.youtube.com/watch?v=auFJziKIVnM)
 * [spring-batch-querydsl: 스프링배치와 QuerydslPagingItemReader](https://github.com/jojoldu/spring-batch-querydsl)
+* [testing-spring-boot-applications-masterclass: 🍃 Everything You Need to Know About Testing Spring Boot Applications](https://github.com/rieckpil/testing-spring-boot-applications-masterclass)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
 
 # Memory Leak, OOM, Out of memory
