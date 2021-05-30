@@ -554,6 +554,8 @@ Programming Books
 * (NOT YET) [신경망 교과서 : 네이버 블로그](https://blog.naver.com/drvoss/222025379076)
 * (NOT YET) [심층 강화학습 인 액션](https://jpub.tistory.com/1098)
   * [리뷰 심층 강화학습 인 액션 · TheoryDB](https://theorydb.github.io/review/2021/03/16/review-book-deep-reinforcement-learning-in-action/)
+* (NOT YET) Do it 강화학습 입문
+  * [start-RL: Do it 강화학습 입문(Getting Started with Deep Reinforcement Learning) 소스코드 저장소](https://github.com/yunho0130/start-RL)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
