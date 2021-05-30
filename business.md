@@ -329,6 +329,7 @@ Business
 * [A급 인재를 떠나게 하는 7가지 방법](https://brunch.co.kr/@hyungsukkim/20)
 * [어떻게 인재를 모을 것인가 : 클래스101 피플팀 리드 김동현 | flex 공식 블로그](https://flex.team/blog/2021/05/06/class101/)
 * [(기업설문) 어떤 개발자를 구하시나요? – Place Of 42Seoul Story](https://42place.innovationacademy.kr/archives/6884)
+* [수습 기간은 피드백 미팅에 달려있다](https://brunch.co.kr/@kaytee/11)
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
