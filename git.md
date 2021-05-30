@@ -164,6 +164,7 @@ Git
 * [GitHub에서 GPG 서명하기 (for OS X)](https://medium.com/@Makart/github%EC%97%90%EC%84%9C-gpg-%EC%84%9C%EB%AA%85%ED%95%98%EA%B8%B0-for-os-x-4f45ad8f1a49)
 * [GPG(GNU PG)를 이용해 git 커밋에 서명하는 방법 | 44BITS](https://www.44bits.io/ko/post/add-signing-key-to-git-commit-by-gpg)
 * [git 다중 사용자 신원 설정](http://jhrogue.blogspot.com/2020/04/5-git.html)
+* [How to Work with GitHub and Multiple Accounts](https://gist.github.com/JoaquimLey/e6049a12c8fd2923611802384cd2fb4a)
 * [Setting Up Git Identities](https://www.micah.soy/posts/setting-up-git-identities/)
 * [**10 Extraordinary GitHub Repos for All Developers**](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0)
 * [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
@@ -203,6 +204,7 @@ Git
 * [Git as a NoSql database](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/)
 * [Scaling monorepo maintenance | The GitHub Blog](https://github.blog/2021-04-29-scaling-monorepo-maintenance/)
 * [Spoqa 기술 블로그 | Semantic Versioning 소개](https://spoqa.github.io/2012/12/18/semantic-versioning.html)
+* [컨벤셔널 커밋을 이용한 CHANGELOG 및 시멘틱 버저닝(Semantic Versioning) 자동화 | 딥백수](https://deepbaksu.github.io/2021/05/29/semantic-release/)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -811,6 +813,9 @@ Git
 * [git-visualizer](http://veniversum.me/git-visualizer/)
 * [**gitxiv - Collaborative Open Computer Science**](http://gitxiv.com/)
 * [gkv - Git as a KV store](https://github.com/ybur-yug/gkv)
+* [Gource - a software version control visualization tool](https://gource.io/)
+  * [Gource: software version control visualization](https://github.com/acaudwell/Gource)
+  * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=rZSGoY8MYc0)
 * [grep.app - Search across a half million git repos](https://grep.app/)
 * [Hot-Repos - Periodically share links of hot GitHub repositories on FB](https://github.com/parkjs814/Hot-Repos)
   * [www.facebook.com/hotrepos](https://www.facebook.com/hotrepos)
