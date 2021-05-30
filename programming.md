@@ -1242,6 +1242,8 @@ Programming
 * [azure](azure.md)
 * [Dapr - Distributed Application Runtime](https://dapr.io/)
   * [Dapr, Lego for Microservices - YouTube](https://www.youtube.com/watch?v=NUMIYFbOkcc)
+  * [Dapr - Getting started - YouTube](https://www.youtube.com/watch?v=WJ__6gRA9hI)
+  * [Alex Thissen — Dapr for building distributed .NET Core applications - YouTube](https://www.youtube.com/watch?v=FyFr5HzsQXE)
 * [GCP Google Cloud Platform](gcp.md)
 * [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
 * [Dark - a new way of building serverless backends. Just code your backend, with no infra, framework or deployment nightmares](https://darklang.com/)
