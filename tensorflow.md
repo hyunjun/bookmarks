@@ -492,6 +492,7 @@ TensorFlow
 * [Tensorflow2 with jit compiling on multi-gpu training](https://github.com/sseung0703/TF2-jit-compile-on-multi-gpu)
 * [Regression API Test](https://gist.github.com/krikit/32c918cc03b52315ade562267a91fa6b)
 * [Predicting Probability Distributions Using Neural Networks - Taboola Tech Blog](https://engineering.taboola.com/predicting-probability-distributions/)
+* [SETI, step by step guide for Beginner/EDA/TF | Kaggle](https://www.kaggle.com/yeonghyeon/seti-step-by-step-guide-for-beginner-eda-tf)
 
 # 2.0
 * [TensorFlow 2.0을 출시했습니다](https://developers-kr.googleblog.com/2019/10/tensorflow-2-0-is-now-available.html)
@@ -968,6 +969,7 @@ TensorFlow
 * TFX TensorFlow Extended
   * [Introducing the TFX interactive notebook](https://blog.tensorflow.org/2019/11/introducing-tfx-interactive-notebook.html)
 * [TOCO: 텐서플로우 라이트 최적화 컨버터](http://blog.canapio.com/139)
+* [white-box-layer](https://github.com/YeongHyeon/white-box-layer)
 * [ZhuSuan - A Library for Bayesian Deep Learning, Generative Models, Based on Tensorflow http://zhusuan.readthedocs.io](https://github.com/thu-ml/zhusuan)
 
 # LSTM
