@@ -1178,6 +1178,7 @@ Scala
   * [Pure Functional Stream processing in Scala: Cats and Akka – Part 2 - Mihai Safta](https://www.mihaisafta.com/blog/2021/02/14/pure-functional-stream-processing-in-scala-cats-and-akka-part-2/)
   * [Scala Cats Invariant Functor | by Krzysztof Grajek | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/scala-cats-invariant-functor-be57d2e2fa91)
   * [herding cats — herding cats](https://eed3si9n.com/herding-cats/index.html)
+  * [Cats with Scala: Essential Type Class Hierarchy - YouTube](https://www.youtube.com/watch?v=_afyiQB7N0Y)
   * [Cats Effect · The pure asynchronous runtime for Scala](https://typelevel.org/cats-effect/)
     * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
     * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
