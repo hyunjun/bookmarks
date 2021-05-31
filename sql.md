@@ -810,6 +810,7 @@ SQL
 * [PG-Strom is an extension of PostgreSQL, works as custom-scan provider](https://wiki.postgresql.org/wiki/PGStrom)
 * [pgTAP - a suite of database functions that make it easy to write TAP-emitting unit tests in psql scripts or xUnit-style test functions](http://pgtap.org/)
 * [PolarDB-for-PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL)
+  * [PolarDB for PostgreSQL | GeekNews](https://news.hada.io/topic?id=4362)
 * [PostgresqlCO.NF: PostgreSQL configuration for humans](https://postgresqlco.nf/en/doc/param/)
 * [PostgREST: REST API for any Postgres database](https://github.com/PostgREST/postgrest)
   * [PostgREST - a standalone web server that turns your PostgreSQL database directly into a RESTful AP](https://postgrest.org/)
