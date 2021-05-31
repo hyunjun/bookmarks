@@ -1149,6 +1149,7 @@ Programming
 * [Why Do We Need Serverless Computing? | by Bryant Jimin Son | Medium](https://bryantson.medium.com/why-do-we-need-serverless-computing-33e93c57ca02)
 * [Serverless Korea - YouTube](https://www.youtube.com/channel/UCI16eh9VClj1HSZWC4_ZMIw/videos)
 * [효율적인 서버 관리를 찾아서, 서버리스(Serverless)](https://blog.ncsoft.com/platform-center-03-20210224/)
+* [2021년 5월 - YouTube](https://www.youtube.com/playlist?list=PLIUYAlRx8QDRsMxFPtK8b9xjXSunHvBUF)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
