@@ -908,6 +908,7 @@ Clojure
   * [Clojure with LuminusWeb](https://medium.com/@itstedpark/clojure-with-luminusweb-e688a670166d)
   * [Luminus에서 clj-refactor 설정하기](http://clojure.kr/luminus-clj-refactor)
   * [Luminus project 만들기](http://clojure.kr/for-newbie-leiningen-web-proj1)
+  * [Clojure in Action: Teaching new Clojure devs on our work applications | Tech.ToryAnderson.com](https://tech.toryanderson.com/2021/05/29/clojure-in-action-teaching-new-clojure-devs-on-our-work-applications/)
   * [luminus-chunked-response](https://github.com/eunmin/luminus-chunked-response)
 * [malli - Plain data Schemas for Clojure/Script](https://github.com/metosin/malli)
   * [Readme — metosin/malli 0.3.1](https://cljdoc.org/d/metosin/malli)
