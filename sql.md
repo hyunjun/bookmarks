@@ -244,6 +244,7 @@ SQL
 * [SQLPad - A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, ClickHouse, Crate, Vertica, Presto, SAP HANA, Snowflake, BigQuery, SQLite, and many others via ODBC](https://rickbergfalk.github.io/sqlpad/#/)
 * [SQL Translation - Translate your SQL from one dialect to another](https://www.jooq.org/translate/)
 * Teleport [Introducing Database Access | Teleport](https://goteleport.com/blog/introducing-database-access/) NAT
+* table_ddl [mariadb mysql 특정 스키마 테이블 ddl 추출 프로그램 배포](https://stricky.tistory.com/468)
 * [usql - Universal command-line interface for SQL databases](https://github.com/xo/usql)
 * [UXSql Application Builder](https://www.notion.so/UXSql-Application-Builder-18857e102ca54c37b4e5f887f68f3a55) MSSQL, MySQL 가능
 * VisualSQL [We Made SQL Visual - Why and How](https://chartio.com/blog/why-we-made-sql-visual-and-how-we-finally-did-it/)
