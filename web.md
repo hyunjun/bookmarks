@@ -877,6 +877,8 @@ Web
 * [Website Launch Checklist](https://tryblocks.com/departure/)
 * [**웹 사이트 유지 관리 체크리스트, 주간-분기 별 작업은? : 디자인로그(DESIGN LOG)**](https://www.designlog.org/2512857)
 * [How Wix improved website performance by evolving their infrastructure](https://web.dev/wix/)
+* [내 웹 페이지 성능을 어떻게 올릴까? — 기초 | Medium](https://haragoo30.medium.com/%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B8%B0%EC%B4%88-1e107b44eb46)
+* [내 웹 페이지 성능을 어떻게 올릴까? — 예제 | by JungHoon Park | Jun, 2021 | Medium](https://haragoo30.medium.com/%EB%82%B4-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%98%AC%EB%A6%B4%EA%B9%8C-%EC%98%88%EC%A0%9C-a1800d10d4ed)
 * [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
   * [Simple Performance Testing with Apache Benchmark](http://www.chriswpage.com/2010/01/simple-performance-testing-with-apache-benchmark/)
   * [Example of using Apache Bench (ab) to POST JSON to an API](https://gist.github.com/kelvinn/6a1c51b8976acf25bd78)
