@@ -692,6 +692,7 @@ AWS
 * [컨테이너 워크로드 도입을 위한, Amazon EKS 파헤쳐 보기 pdf](https://aws-joozero.s3.ap-northeast-2.amazonaws.com/container/AWSKRUG-Amazon-EKS-joozero.pdf)
 * [EKS Networking — CNI. AWS EKS provides managed Kubernetes… | by Amit Singh Rathore | Nerd For Tech | Mar, 2021 | Medium](https://medium.com/nerd-for-tech/eks-networking-cni-457ae298b9e6)
 * [ISMS 1편 - AWS(+EKS)에서 업무 환경 망분리](https://velog.io/@owen1025/ISMS-1%ED%8E%B8-AWSEKS%EC%97%90%EC%84%9C-%EC%97%85%EB%AC%B4-%ED%99%98%EA%B2%BD-%EB%A7%9D-%EB%B6%84%EB%A6%AC)
+* [AWS EKS Network, Load Balancer | Ssup2 Blog](https://ssup2.github.io/theory_analysis/AWS_EKS_Network_Load_Balancer/)
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
   * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
 
