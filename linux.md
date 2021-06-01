@@ -307,6 +307,7 @@ Linux
 * [Bashible - a deployment/automation tool written in Bash (DSL). Inspired by Ansible. Simplifies things and prevents usual mistakes](https://github.com/mig1984/bashible)
 * [fabric](https://github.com/mathiasertl/fabric)
 * [Pulumi - Modern Infrastructure as Code](https://www.pulumi.com/) python
+  * [Pulumi - IaC in your favorite programming language! - YouTube](https://www.youtube.com/watch?v=vIjeiDcsR3Q)
 * [salt](https://docs.saltstack.com/en/latest/topics/)
 
 # Book
