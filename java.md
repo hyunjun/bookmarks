@@ -437,6 +437,7 @@ Java
 * [Java Lambda (7) 람다와 클로저](https://futurecreator.github.io/2018/08/09/java-lambda-and-closure/)
 * [GOTO 2019 • Achieving Functional Programming in Java • John Napier](https://www.youtube.com/watch?v=VUH_HhAaNpc)
 * [slieb.org - Java 8 Functional Interfaces with Exceptions](http://slieb.org/blog/throwable-interfaces/)
+* [What is a stream ?| introduction to Stream in java _ Programobile](https://programobile.blogspot.com/2021/05/what-is-stream-introduction-to-stream.html)
 * [Handling checked exceptions in Java streams](https://www.oreilly.com/ideas/handling-checked-exceptions-in-java-streams)
 * [Get a Taste of Lambdas and Get Addicted to Streams by Venkat Subramaniam](https://www.youtube.com/watch?v=1OpAgZvYXLQ)
 * [How to use groupingBy Collector in Java Streams - CodersTea](https://www.coderstea.com/post/java/how-to-use-groupingby-collector-in-java-streams/)
