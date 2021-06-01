@@ -184,6 +184,7 @@ Web
 * [**http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers**](https://github.com/for-GET/http-decision-diagram) flowchart로 http status code 반환값의 흐름을 파악
   * [HTTP decision diagram](https://camo.githubusercontent.com/4e15cccf2a9277dcca2c8824092547dee7058744/68747470733a2f2f7261776769746875622e636f6d2f666f722d4745542f687474702d6465636973696f6e2d6469616772616d2f6d61737465722f6874747064642e706e67)
 * [Optimize your web apps for Interactive Canvas](https://medium.com/google-developers/optimize-your-web-apps-for-interactive-canvas-18f8645f8382)
+* [삽질하기 싫으면 꼭 읽어봐야 할 Canvas 트러블 슈팅 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210526)
 * [Native lazy-loading for the web](https://web.dev/native-lazy-loading)
 * [회원가입을 쉽게 만드는 UI/UX 디자인은?](https://brunch.co.kr/@dalgudot/101) mobile web 이야기이지만 component의 선택도 데이터에 의해 해야한다는 점에서 참고할 만한 이야기
 * [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/)
@@ -536,7 +537,7 @@ Web
   * [The Shop app https://shop.polymer-project.org](https://github.com/polymer/shop)
     * [shop.polymer-project.org](https://shop.polymer-project.org/)
   * [Google’s PRPL Web development pattern](http://www.slideshare.net/inureyes/googles-prpl-web-development-pattern)
-* [API request builder - Helps you create your requests faster, saving you precious time on your development https://postwoman.io https://liyasthomas.github.io/postwoman ](https://github.com/liyasthomas/postwoman)
+* postwoman [API request builder - Helps you create your requests faster, saving you precious time on your development https://postwoman.io https://liyasthomas.github.io/postwoman ](https://github.com/liyasthomas/postwoman)
 * [Quinn - A web framework designed for things to come](http://quinnjs.com/)
 * [Statinamic - A static website generator for creating dynamic websites using React components](http://moox.io/statinamic/)
 * Swagger
@@ -937,7 +938,7 @@ Web
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
-* [Pyodide](https://pyodide.org/) python to webassembly
+* [Pyodide](https://pyodide.org/) Python with the scientific stack, compiled to WebAssembly
   * [모질라, 브라우저에 파이썬 통합하는 ‘파이어다이드’ 프로젝트 분리 - CIO Korea](https://www.ciokorea.com/news/191529)
 * [Wasmer - The Universal WebAssembly Runtime](https://wasmer.io/)
   * [서버측 웹어셈블리 런타임 ‘와스머’, GA 버전 공개 - CIO Korea](https://www.ciokorea.com/news/178284)
