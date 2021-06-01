@@ -559,6 +559,7 @@ Scala
 * [Scaling ETL with Scala](https://medium.com/protenus/scaling-etl-with-scala-6c317d77fd82)
 * [The Power of Akka Streams](https://aleksandarskrbic.github.io/power-of-akka-streams/)
 * [Akka Stream a Walkthrough From Simple Source to Parallel Execution | by Konstantin Bodnia | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/akka-stream-a-walkthrough-from-simple-source-to-parallel-execution-6a7ec24d07d8)
+* [Video Streaming With Akka Streams - DZone Java](https://dzone.com/articles/hello-world-in-akka)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
