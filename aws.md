@@ -430,6 +430,8 @@ AWS
 * [Instance Price Guide](https://instaguide.io/)
 * [Serverless patterns | Serverless Land](https://serverlessland.com/patterns)
   * [AWS Serverless Patterns | GeekNews](https://news.hada.io/topic?id=4285)
+* [1. AWS 가입 하기 및 프리티어 소개 - YouTube](https://www.youtube.com/watch?v=0DnFtUwsk1s)
+* [글로벌 번역키 자동화(v1.0.0) | by Donghoon Nam | 원티드 제품 팀블로그 | Jun, 2021 | Medium](https://medium.com/wantedjobs/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B2%88%EC%97%AD%ED%82%A4-%EC%9E%90%EB%8F%99%ED%99%94-v1-0-0-f074cafd7f40)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -689,6 +691,7 @@ AWS
 * [Setting up a working environment for Amazon EKS with AWS CloudShell - DEV Community](https://dev.to/aws-builders/setting-up-a-working-environment-for-amazon-eks-with-aws-cloudshell-1nn7)
 * [컨테이너 워크로드 도입을 위한, Amazon EKS 파헤쳐 보기 pdf](https://aws-joozero.s3.ap-northeast-2.amazonaws.com/container/AWSKRUG-Amazon-EKS-joozero.pdf)
 * [EKS Networking — CNI. AWS EKS provides managed Kubernetes… | by Amit Singh Rathore | Nerd For Tech | Mar, 2021 | Medium](https://medium.com/nerd-for-tech/eks-networking-cni-457ae298b9e6)
+* [ISMS 1편 - AWS(+EKS)에서 업무 환경 망분리](https://velog.io/@owen1025/ISMS-1%ED%8E%B8-AWSEKS%EC%97%90%EC%84%9C-%EC%97%85%EB%AC%B4-%ED%99%98%EA%B2%BD-%EB%A7%9D-%EB%B6%84%EB%A6%AC)
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
   * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
 
