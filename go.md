@@ -79,7 +79,6 @@ Go
 * [The Golang UK Conference](http://www.golanguk.com/)
   * [Stupid Gopher Tricks](http://talks.golang.org/2015/tricks.slide#1)
 * [TLS with Go](https://ericchiang.github.io/tls/go/https/2015/06/21/go-tls.html)
-* [An Exercise in Profiling a Go Program](http://thornydev.blogspot.kr/2015/07/an-exercise-in-profiling-go-program.html)
 * [Setting Go variables from the outside](https://blog.cloudflare.com/setting-go-variables-at-compile-time/)
 * [Qihoo 360 and Go](http://blog.golang.org/qihoo)
 * [Lexical Scanning in Go](http://cuddle.googlecode.com/hg/talk/lex.html)
@@ -102,7 +101,6 @@ Go
 * [Handling 1 Million Requests per Minute with Go](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
 * [Performance without the event loop](http://dave.cheney.net/2015/08/08/performance-without-the-event-loop)
 * [Surprises in GopherJS Performance](http://www.gopherjs.org/blog/2015/09/28/surprises-in-gopherjs-performance/)
-* [Solve Go Performance Issues by Profiling | by Patrick Gopher | The Startup | Medium](https://medium.com/swlh/solve-go-performance-issues-by-profiling-65d643f65c98)
 * [Keysort: The Schwartzian Transform in Go](http://danverbraganza.com/writings/keysort-schwartzian-transform-go)
 * [Cross compilation with Go 1.5](http://dave.cheney.net/2015/08/22/cross-compilation-with-go-1-5)
 * [Getting C-compatible structs in Go with and for cgo](https://utcc.utoronto.ca/~cks/space/blog/programming/GoCGoCompatibleStructs)
@@ -268,7 +266,6 @@ Go
 * [Go vs Java - Go에서의 객체 지향 :: Jinsu Playground](https://umi0410.github.io/blog/golang/go-vs-java-oop/) OOP
 * [좋은 구문 오류 생성하기](http://dalinaum.github.io/compiler/2021/02/04/yyerror.html)
 * [Working with Embed in Go 1.16 Version](https://lakefs.io/working-with-embed-in-go/)
-* [go-profiler-notes/block.md at main · DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes/blob/main/block.md)
 * [Build A Simple Terminal Emulator In 100 Lines of Golang](https://ishuah.com/2021/03/10/build-a-terminal-emulator-in-100-lines-of-go/)
 * [Branchless Coding in Go | Matt Nakama](https://mattnakama.com/blog/go-branchless-coding/)
 
@@ -627,6 +624,13 @@ Go
 * [gatus: Automated service health dashboard](https://github.com/TwinProduction/gatus)
 * [Kapacitor - Open source framework for processing, monitoring, and alerting on time series data](https://github.com/influxdb/kapacitor)
 * [rtop - Remote Server Monitoring over SSH](http://www.rtop-monitor.org/)
+
+# Profile
+* [An Exercise in Profiling a Go Program](http://thornydev.blogspot.kr/2015/07/an-exercise-in-profiling-go-program.html)
+* [Solve Go Performance Issues by Profiling | by Patrick Gopher | The Startup | Medium](https://medium.com/swlh/solve-go-performance-issues-by-profiling-65d643f65c98)
+* [go-profiler-notes/block.md at main · DataDog/go-profiler-notes](https://github.com/DataDog/go-profiler-notes/blob/main/block.md)
+* pprof [Profiling Go Programs - The Go Blog](https://blog.golang.org/pprof)
+* [pprof++: A Go Profiler with Hardware Performance Monitoring | Uber Engineering Blog](https://eng.uber.com/pprof-go-profiler/)
 
 # Rust
 * [Golang vs Rust 퍼포먼스 벤치마킹 썰](https://blog.stibee.com/golang-vs-rust-%ED%8D%BC%ED%8F%AC%EB%A8%BC%EC%8A%A4-%EB%B2%A4%EC%B9%98%EB%A7%88%ED%82%B9-%EC%8D%B0-bac94bc26e2e)
