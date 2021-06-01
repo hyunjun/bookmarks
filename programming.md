@@ -919,6 +919,7 @@ Programming
 * [**Service Mesh 란?**](https://medium.com/dtevangelist/service-mesh-란-8dfafb56fc07)
 * [From Monolith to Service Mesh, via a Front Proxy — Learnings from stories of building the Envoy Proxy](https://blog.getambassador.io/from-monolith-to-service-mesh-via-a-front-proxy-learnings-from-stories-of-building-the-envoy-333711bfd60c)
 * [Service Mesh Ultimate Guide: Managing Service-to-Service Communications in the Era of Microservices](https://www.infoq.com/articles/service-mesh-ultimate-guide/)
+* [**오픈소스컨설팅 서비스 메쉬(Service mesh)**](https://www.slideshare.net/OpenSourceConsulting/service-mesh-248775710) Istio Linkerd
 * [Envoy Is the Real Deal](https://medium.com/rain-capital/envoy-is-the-real-deal-6deb755dd84f)
 * [How we migrated Dropbox from Nginx to Envoy - Dropbox](https://dropbox.tech/infrastructure/how-we-migrated-dropbox-from-nginx-to-envoy)
 * [Event Mesh: The Architecture Layer for the Event-Driven Enterprise](https://medium.com/swlh/event-mesh-the-architecture-layer-for-the-event-driven-enterprise-d15db85f7bdd)
