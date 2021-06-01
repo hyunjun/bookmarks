@@ -610,6 +610,7 @@ Javascript
 * [Three dots ( … ) in JavaScript](https://dev.to/sagar/three-dots---in-javascript-26ci)
 * [닌자 코드](https://ko.javascript.info/ninja-code) 하면 안 되는 코드 작성 방식 설명
 * [SPA에서의 접근성에 대해 배운 것들](https://muchtrans.com/translations/what-i-ve-learned-about-accessibility-in-spas.ko.html)
+* [**Vanilla JS에서 SPA 라우팅 시스템 구현하기 - Dev. DY**](https://kdydesign.github.io/2020/10/06/spa-route-tutorial/)
 * [POLA Would Have Prevented the Event-Stream Incident](https://medium.com/agoric/pola-would-have-prevented-the-event-stream-incident-45653ecbda99)
 * [**웹 개발자의 지옥, 이메일 폼 개발하기**](https://vallista.kr/2019/12/27/%EC%9B%B9-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%A7%80%EC%98%A5-%EC%9D%B4%EB%A9%94%EC%9D%BC-%ED%8F%BC-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0/index.html) 내용 자체뿐만 아니라 내용 전개 방법도 좋음
 * [Tistory TOC(Table Of Contents) 구현기](https://www.wbluke.com/21)
@@ -1686,6 +1687,7 @@ Javascript
   * [Webpack2, 입문 가이드 2편: Plugins](https://jaeyeophan.github.io/2017/05/06/webpack-tutorial-2/)
   * [Webpack2, 입문 가이드 3편, Option](https://jaeyeophan.github.io/2017/05/08/webpack-tutorial-3/)
   * [웹팩의 기본 개념](http://blog.jeonghwan.net/js/2017/05/15/webpack.html)
+  * [웹팩 개념 알아보기](https://velog.io/@mnz/Webpack-%EC%9B%B9%ED%8C%A9-%EA%B0%9C%EB%85%90-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0)
   * [김정환 블로그 웹팩의 file-loader와 url-loader](http://blog.jeonghwan.net/js/2017/05/22/webpack-file-loader.html)
   * [From Webpack To FuseBox](https://engineering.huiseoul.com/from-webpack-to-fusebox-bf3b058fdaea)
   * [뒤늦게 알아보는 '왜 Webpack인가?'](https://dev.zzoman.com/2017/09/04/why-do-you-need-to-learn-about-webpack/)
