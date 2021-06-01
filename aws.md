@@ -432,6 +432,8 @@ AWS
   * [AWS Serverless Patterns | GeekNews](https://news.hada.io/topic?id=4285)
 * [1. AWS 가입 하기 및 프리티어 소개 - YouTube](https://www.youtube.com/watch?v=0DnFtUwsk1s)
 * [글로벌 번역키 자동화(v1.0.0) | by Donghoon Nam | 원티드 제품 팀블로그 | Jun, 2021 | Medium](https://medium.com/wantedjobs/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EB%B2%88%EC%97%AD%ED%82%A4-%EC%9E%90%EB%8F%99%ED%99%94-v1-0-0-f074cafd7f40)
+* [Amazon Timestream – 시계열 데이터베이스 – Amazon Web Services](https://aws.amazon.com/ko/timestream/)
+  * [Amazon Timestream - Time series is the new black](https://www.allthingsdistributed.com/2021/06/amazon-timestream-time-series-is-the-new-black.html)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
