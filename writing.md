@@ -123,6 +123,7 @@ Writing
 * [개발자영어 #2 개발 과정에서 클린한 코드 문서화 방법 - YouTube](https://www.youtube.com/watch?v=3cnWtuzccis)
 * [개발자영어 #3 영어 정보 찾기와 읽기 - YouTube](https://www.youtube.com/watch?v=1YHqaCunNOA)
 * [Why programmers don’t write documentation | Kislay Verma](https://kislayverma.com/programming/why-programmers-dont-write-documentation/)
+* [Writing as a dominant engineering skill | LinkedIn](https://www.linkedin.com/pulse/writing-dominant-engineering-skill-maksim-ekimovskii/)
 * [apiDoc - Inline Documentation for RESTful web APIs](https://apidocjs.com/)
   * [개발자가 싫어하는 문서화하기 2편 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222067713267)
 * [API Improvement Proposals](https://aip.dev)
