@@ -1309,6 +1309,7 @@ Java
 * [8주차 - Spring 프레임워크 적용 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=6946858)
 * [Spring Core - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/Spring+Core)
 * [테크톡 스프링 데이터 들여다보기 - YouTube](https://www.youtube.com/watch?v=N6tc44b-ATk)
+* [Spring 레플리케이션 트랜잭션 처리 방식 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-transaction/)
 * jasypt [28. Spring - jasypt로 application.properties(yml) 데이터 암/복호화](https://kim-jong-hyun.tistory.com/50)
 * [Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler](https://github.com/spring-projects-experimental/spring-native)
   * [Announcing Spring Native Beta!](https://spring.io/blog/2021/03/11/announcing-spring-native-beta)
