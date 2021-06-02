@@ -185,6 +185,7 @@ Web
   * [HTTP decision diagram](https://camo.githubusercontent.com/4e15cccf2a9277dcca2c8824092547dee7058744/68747470733a2f2f7261776769746875622e636f6d2f666f722d4745542f687474702d6465636973696f6e2d6469616772616d2f6d61737465722f6874747064642e706e67)
 * [Optimize your web apps for Interactive Canvas](https://medium.com/google-developers/optimize-your-web-apps-for-interactive-canvas-18f8645f8382)
 * [삽질하기 싫으면 꼭 읽어봐야 할 Canvas 트러블 슈팅 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210526)
+* [HTML Canvas를 활용하여 인터랙티브 콘텐츠 만들기. Canvas(캔버스) 기술은 일반적인 HTML 요소로는 표현하기 힘든… | by 이예찬 | Uniquegood | May, 2021 | Medium](https://medium.com/uniquegood/html-canvas%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9D%B8%ED%84%B0%EB%9E%99%ED%8B%B0%EB%B8%8C-%EC%BD%98%ED%85%90%EC%B8%A0-%EB%A7%8C%EB%93%A4%EA%B8%B0-3ef51c33323e)
 * [Native lazy-loading for the web](https://web.dev/native-lazy-loading)
 * [회원가입을 쉽게 만드는 UI/UX 디자인은?](https://brunch.co.kr/@dalgudot/101) mobile web 이야기이지만 component의 선택도 데이터에 의해 해야한다는 점에서 참고할 만한 이야기
 * [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/)
