@@ -584,6 +584,7 @@ Business
 * [데이터ver '매니지먼트 마이오피아'의 시대](https://brunch.co.kr/@windydog/344)
 * [온라인 광고 기초 페이스북, 구글, 카카오.. : 네이버블로그](https://blog.naver.com/adrielai/222107262371)
 * [브런치북 브랜드 되살리기](https://brunch.co.kr/brunchbook/re-branding)
+* [**Google 광고에 대해 알아보자 - Google Ad Manager**](https://www.brightparagon.me/posts/google-ad-manager)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
@@ -749,3 +750,7 @@ Business
 * [Smart Contract의 UX를 설계할 때 겪는 4가지 문제](https://engineering.huiseoul.com/%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8%EB%A5%BC-%EC%84%A4%EA%B3%84%ED%95%A0-%EB%95%8C-%EA%B2%AA%EA%B2%8C-%EB%90%98%EB%8A%94-4%EA%B0%80%EC%A7%80-ux-%EB%AC%B8%EC%A0%9C%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-8d271cc7e21d)
 * [나쁜 소프트웨어 디자인은 군함도 충돌하게 만든다](https://imseongkang.wordpress.com/2019/08/30/ussdesign/)
 * [1억 글로벌 서비스를 만들며 배운 것들 1](https://brunch.co.kr/@jinaseong/28)
+* [사용자를 바보로 만들지 마세요](https://brunch.co.kr/@joojun/104)
+  * UX 문구에 관해서 좋은 지표를 만들기 위해 사용자에게 불편함을 주는 다크 패턴이나 컴펌 쉐이밍(Confirm shaming)을 다룬 글
+  * 컴펌 쉐이밍은 서비스가 원하는 액션을 수행하지 않을 때 사용자가 불안감이나 수치심을 느끼는 "혜택을 포기할래요"나 "비싸게 구매하기" 같은 문구
+  * 이러한 접근은 지표는 오를지 몰라도 사용자에게 안 좋은 경험을 주기 때문에 서비스 자체에 대한 불신을 주어서 안 좋다
