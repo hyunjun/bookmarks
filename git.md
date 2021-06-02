@@ -729,6 +729,10 @@ Git
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
+* Flat Data [GitHub OCTO | Flat Data](https://octo.github.com/projects/flat-data)
+  * Git을 이용해 데이터 처리. 다른 인프라스트럭처가 필요 없이 GitHub를 이용해서 데이터를 수집하고 보여줄 수 있게 하는 프로젝트
+  * 데이터를 수집하고 변환하는 GitHub Actions, 데이터 워크플로우를 작성하는 VS Code 확장 에디터, 처리된 데이터를 보는 뷰어 3가지로 구성
+  * GitHub OCTO라는 소프트웨어 개발의 미래를 연구하는 CTO 조직에서 작성
 * [Fork - a fast and friendly git client for Mac and Windows](https://git-fork.com)
 * Fossil [Get started with Fossil, an alternative to Git | Opensource.com](https://opensource.com/article/20/11/fossil)
 * [fugitive](https://github.com/tpope/vim-fugitive)
@@ -763,6 +767,8 @@ Git
 * [**git-history - Quickly browse the history of any GitHub file https://githistory.xyz **](https://github.com/pomber/git-history)
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
 * github1s [🚀깃헙 코드를 1초만에 VS Code로 - YouTube](https://www.youtube.com/watch?v=eFol6hBxm0E)
+* [github-artifact-exporter: A set of packages to make exporting artifacts from GitHub easier](https://github.com/github/github-artifact-exporter)
+  * GitHub의 데이터를 내보내기 쉽게 도와주는 GitHub에서 만든 패키지. 현재 이슈를 CSV나 JSON으로 export
 * [github-auto-locker: Automatically lock old, closed GitHub issues](https://github.com/presidentbeef/github-auto-locker)
 * [GitHub Hovercard - Quick user hovercard for GitHub](https://github.com/Justineo/github-hovercard)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
