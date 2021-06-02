@@ -1620,6 +1620,8 @@ App
 * [Algo로 개인 VPN 서버 구축하기(요약판) | 44BITS](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail-summary)
 * [NordVPN - VPN Reimagined for Mac OS](https://nordvpn.com/download/mac/)
 * [OpenVPN을 이용해 사설망 접근하기](https://brunch.co.kr/@alden/69)
+  * 회사에서 보안을 위해서 VPN을 구현하는 일은 흔하고 구현하는 방법은 다양한 접근이 존재
+  * 쉽게 사용할 수 있는 OpenVPN을 AWS EC2에 설치해서 사설망(AWS 내부망)에 접근하는 환경 설정을 설명
 * Tailscale 개인 무료
 * [tinc - 오픈소스 P2P VPN 데몬 | GeekNews](https://news.hada.io/topic?id=4013)
   * [tinc-boot: Bootstrap your Tinc node quickly and easy](https://github.com/reddec/tinc-boot)
