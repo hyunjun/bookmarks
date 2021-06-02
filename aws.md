@@ -455,6 +455,7 @@ AWS
 * [AWS Amplify 노하우 시리즈 포스팅을 공개합니다! #aws #amplify | Developers.IO](https://dev.classmethod.jp/articles/amplify-tips-series-korean/)
 * [AWS Amplify Console을 이용하여 프론트엔드 개발 환경 개선하기](http://blog.hwahae.co.kr/%EC%A0%84%EC%B2%B4%EB%B3%B4%EA%B8%B0/tech/tech-tech/3848/)
 * [Modular imports with AWS Amplify. The latest release of AWS Amplify now… | by Nader Dabit | Medium](https://medium.com/@dabit3/modular-imports-with-aws-amplify-daeb387b6985)
+* [Amplify Console에 monorepo를 연결해서 웹호스팅 할 때의 주의사항 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/5637/)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
