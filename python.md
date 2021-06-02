@@ -1954,6 +1954,7 @@ Python
 * [Django Doctor - Django code improvement bot](https://django.doctor/challenge)
 * django manager [화해 블로그](http://blog.hwahae.co.kr/%EC%A0%84%EC%B2%B4%EB%B3%B4%EA%B8%B0/tech/tech-tech/4108/)
 * [python-social-auth/social-app-django: Python Social Auth - Application - Django](https://github.com/python-social-auth/social-app-django)
+* [(동영상) T24 장고(Django) 01강 웹프로그래밍과 Django](https://gcamp.tistory.com/572?category=817332)
 
 # DSL
 * [Extending Python Into the Future](https://morioh.com/p/6db365736476)
