@@ -275,6 +275,7 @@ Linux
 * [Ubuntu에 AppImage를 System Application으로 등록하기](https://devbull.xyz/ubuntu-appimage/)
 * [Ubuntu 20.04에 MacOS Catalina를 VirtualBox로 설치하기](https://devbull.xyz/ubuntu-20-04-macos/)
 * [절전 모드로 내려가는 우분투 머신](https://www.sysnet.pe.kr/Default.aspx?mode=0&sub=0&detail=1&pageno=0&wid=523&rssMode=1&wtype=0)
+* [절전 모드로 내려가는 우분투 머신](https://www.sysnet.pe.kr/0/0/523)
 
 # Automation
 * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
