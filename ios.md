@@ -454,6 +454,7 @@ iOS
 * [알아두면 쓸모 있는 Swift의 기능들 - 우아한형제들 기술 블로그](https://woowabros.github.io/swift/2021/02/18/swift-dynamic-features.html)
 * [SwiftPM Swift Package - ProcessInfo Environment 기반 빌드 환경설정](https://minsone.github.io/programming/processInfo-environment-based-build-configutation-swift-package)
 * [Publishers, Subscribers 알아보기](https://brunch.co.kr/@tilltue/66)
+* [iOS 14.5 NavigationLink의 Unable to present 오류 해결하기](https://pilgwon.github.io/post/navigation-link-trouble-shooting)
 
 ## Library Swift
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
