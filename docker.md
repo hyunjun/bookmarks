@@ -970,6 +970,10 @@ Docker
 * [IDG 블로그 | 쿠버네티스를 좀 더 공격적으로 이용해야 하는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/193644)
 * [A Guide to the Kubernetes Networking Model - Kevin Sookocheff](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
 * [**번역 쿠버네티스 2,500대 노드 운영하기 | 커피고래의 노트**](https://coffeewhale.com/scaling-node01) etcd kube master docker image pull networking ARP cache
+  * OpenAI에서 Kubernetes의 노드를 2,500대 운영하면서 겪은 문제와 개선한 과정을 정리한 글을 번역
+  * 처음에는 etcd에서 성능 저하 발생, 이는 Fluentd와 Datadog의 문제였고 이는 해결했지만 Events API를 ectd 클러스터와 분리하는 것을 추천
+  * OpenAI의 특성상 작업을 한곳에 모으려고 kube-scheduler를 수정해서 작업이 한곳에 모였지만 노드에 집중되어서 발생한 문제가 발생
+  * 특정 Docker 이미지가 너무 큰 문제로 다른 이미지까지 지연되는 --serialize-image-pulls 설정 문제 등도 알게 됨
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1126,6 +1130,9 @@ Docker
   * [쿠버네티스 리소스 배포와 관리를 위한 ksonnet](http://bcho.tistory.com/1302)
 * [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes](https://github.com/external-secrets/kubernetes-external-secrets)
   * [k8s External Secrets 훑어보기](https://brunch.co.kr/@alden/68)
+    * AWS에서 Kubernetes를 사용할 때 시크릿 정보를 AWS에서 관리하는 Secrets Manger나 Parameter Store에서 가져오기 위해 External Secrets을 사용하는 방법을 설명
+    * External Secrets 컨트롤러가 Secrets Manager에 접근해서 정보를 가져올 수 있도록 권한을 설정하는 방법을 설명
+    * 이렇게 가져온 정보는 Secrets이 되므로 Deployment 등에서 envFrom이나 secretRef로 가져와서 사용 가능
 * [localizer: ⛵ A no-frills local development tool for service developers working in Kubernetes](https://github.com/getoutreach/localizer)
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
 * [magicpak enables you to build minimal docker images without any bothersome preparation such as static linking](https://github.com/coord-e/magicpak)
