@@ -87,6 +87,7 @@ Flutter
 * [Bottom Navigation, Router, AppBar Menu 구성하기](https://blog.naver.com/pjt3591oo/222343936600)
 * [안드로이드 스튜디오에서 앱 실행시 JAVA_HOME PATH 문제가 발생한다면?](https://www.androidhuman.com/2021-05-28-flutter_android_studio_not_installed)
 * [Flutter 을 AWS lambda와 연동하기(IOS, Android)](https://blog.naver.com/nanotoly/222373488193)
+* [Linter - Flutter에서 코드의 스타일을 통일하고, 잠재적인 버그를 찾기 위해 Linter를 설정하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/flutter/linter/)
 
 # Dart
 * [awesome-dart: A curated list of awesome Dart frameworks, libraries, and software](https://github.com/yissachar/awesome-dart)
