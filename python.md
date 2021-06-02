@@ -785,6 +785,7 @@ Python
   * [**Python GC가 작동하는 원리**](https://winterj.me/python-gc/)
   * [자동 Garbage Collection 주기](https://weicomes.tistory.com/277)
   * [Garbage collection in Python: things you need to know](https://rushter.com/blog/python-garbage-collector/)
+  * [Do you know how python cleanses itself? | LinkedIn](https://www.linkedin.com/pulse/do-you-know-how-python-cleanses-itself-shaleen-taneja/) reference count
   * [heapsy: Python Heap Tracer](https://github.com/Ashon/heapsy)
     * [Prometheus와 Python GC 모듈을 이용해 동작중인 애플리케이션의 힙 사용량 측정해 본 이야기 | Lifestack](https://ashon.github.io/blog/2020/08/24/python-heap-exporter.html)
 * generator
