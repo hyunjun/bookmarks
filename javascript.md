@@ -2087,6 +2087,11 @@ Javascript
   * [📥슬랙 봇 만들기 #1 - YouTube](https://www.youtube.com/watch?v=QUt-52U9nR4)
 * [NodeJS Get 과 Post 의 Parameter 와 QueryString 전달 방법](https://developer88.tistory.com/376)
 * [Node.js 16 available now. We are excited to announce the release… | by Node.js | Node.js Collection | Apr, 2021 | Medium](https://medium.com/the-node-js-collection/node-js-16-available-now-7f5099a97e70)
+* [Introducing WebContainers: Run Node.js natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
+  * 개발환경을 만드는 StackBlitz에서 Next.js와 Google과 협업 WebContainers 공개
+  * WebAssembly를 일종의 OS를 브라우저 내에서 구현해 Node.js를 바로 브라우저 안에서 실행
+  * 현재 Chrome Edge, Brave 브라우저 구현 Safari와 Firefox 지원 예정. Next.js, GraphQL, 바닐라 Node.js 실행
+  * 로컬보다 빌드, 패키지 설치도 훨씬 빨랐으며 크롬의 개발자 도구를 바로 연결해서 Node.js를 디버깅 가능, 브라우저에서 동작하므로 안전
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
