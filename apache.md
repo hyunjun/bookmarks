@@ -38,6 +38,8 @@ Apache
 * [Airflow의 execution_date에 대하여 - Nephtyw’S Programming Stash](https://nephtyws.github.io/data/airflow-execution-date/)
 * [버킷플레이스 Airflow 도입기 - 오늘의집 블로그](https://www.bucketplace.co.kr/post/2021-04-13-%EB%B2%84%ED%82%B7%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4-airflow-%EB%8F%84%EC%9E%85%EA%B8%B0/)
 * [쏘카 데이터 그룹 - Airflow와 함께한 데이터 환경 구축기(feat. Airflow on Kubernetes) - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2021/06/01/data-engineering-with-airflow.html)
+  * 처음에는 Rundeck 이용, Airflow를 사용하기로 하면서 매니지드 서비스인 GCP의 Composer 사용, 회사와 데이터 팀이 커지면서 문제 발생
+  * 결국 Kubernetes 위에서 Airflow를 구축해서 운영하기로 결정. Kubernetes 위에서 운영하는 방법을 자세히 설명
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
