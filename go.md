@@ -268,6 +268,7 @@ Go
 * [Working with Embed in Go 1.16 Version](https://lakefs.io/working-with-embed-in-go/)
 * [Build A Simple Terminal Emulator In 100 Lines of Golang](https://ishuah.com/2021/03/10/build-a-terminal-emulator-in-100-lines-of-go/)
 * [Branchless Coding in Go | Matt Nakama](https://mattnakama.com/blog/go-branchless-coding/)
+* [server-client-template-go](https://github.com/codingpot/server-client-template-go)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -548,6 +549,11 @@ Go
   * [Discovering and exploring mmap using Go](https://brunocalza.me/discovering-and-exploring-mmap-using-go/)
   * [But how, exactly, databases use mmap?](https://brunocalza.me/but-how-exactly-databases-use-mmap/)
 * [Monsti - a free and open source CMS written in Go](http://www.monsti.org/)
+* [notifications-engine: Affordable notifications for Kubernetes](https://github.com/argoproj/notifications-engine)
+  * [Notifications Engine is here!. The Argoproj community has been working… | by Alexander Matyushentsev | May, 2021 | Argo Project](https://blog.argoproj.io/notifications-engine-is-here-ca961cd67b87)
+    * Argo에서 Argo CD와 Argo Rollouts에서 알림 용도로 사용하고 있는 노티피케이션 엔진을 공개
+    * Kubernetes 컨트롤러에서 Slack, MS Teams, Mattermost, SMTP, Telegram 등에 알림을 보낼 수 있고 설정과 템플릿을 이용해서 알림을 사용
+    * 원하는 알림의 컨트롤러를 Golang으로 구현하고 Configmap을 이용해서 알림을 만들면 각 프로젝트에서 어노테이션으로 알림을 설정
 * [passgo - Simple golang password manager](https://github.com/ejcx/passgo)
 * [pet : CLI Snippet Manager - Simple command-line snippet manager, written in Go](https://github.com/knqyf263/pet)
 * [Plugins for Go](https://github.com/dullgiulio/pingo)
