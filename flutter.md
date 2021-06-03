@@ -38,7 +38,6 @@ Flutter
 * [galpi - Book logging app made with Flutter](https://github.com/heejongahn/galpi)
   * [갈피: 나의 첫 모바일 앱 개발기](https://ahnheejong.name/articles/galpi-development-diary/)
 * [Flutter, 왜 선택하지 못했나](https://engineering.linecorp.com/ko/blog/flutter-pros-and-cons/)
-* [Flutter Widget of the Week](https://www.youtube.com/playlist?list=PLOU2XLYxmsIL0pH0zWe_ZOHgGhZ7UasUE)
 * [Why we think Flutter will help us scale mobile development at Nubank](https://medium.com/building-nubank/https-medium-com-freire-why-nubank-chose-flutter-61b80b568772)
 * [Flutter - JSON 사용하기](https://www.youtube.com/watch?v=E6KKL0Oe-2E)
 * [Flutter - JSON in the background / isolate | 백그라운드 처리](https://www.youtube.com/watch?v=4qpMzUcatsU)
@@ -51,9 +50,11 @@ Flutter
 * [Declarative UI 찬양](https://xrath.com/2020/03/declarative-ui/)
 * [21 Awesome Flutter UI Plugins](https://www.dunebook.com/awesome-ui-plugins-for-flutter/)
 * [플러터 Hello World 살펴보기](https://brunch.co.kr/@mystoryg/137)
+* [Flutter Widget of the Week](https://www.youtube.com/playlist?list=PLOU2XLYxmsIL0pH0zWe_ZOHgGhZ7UasUE)
 * [Stateless Widget 위젯 기본 개념 (1/2) | 플러터 위젯 기본 개념 (Flutter Widget Fundamental concept) (1/2)](https://brunch.co.kr/@mystoryg/136)
 * [Stateful Widget 위젯 기본 개념 (2/2) | 플러터 위젯 기본 개념 (Flutter Widget Fundamental concept) (2/2)](https://brunch.co.kr/@mystoryg/138)
 * [Stateful Widget 생명주기](https://brunch.co.kr/@mystoryg/139)
+* [위젯 - Flutter를 이용하여 앱을 개발해 봅시다. 이번 블로그 포스트에서는 Flutter에서 사용되는 위젯에 관해서 알아봅시다.](https://dev-yakuza.posstree.com/ko/flutter/widget/)
 * [Building a Cross-Platform Image Classifier with Flutter and TensorFlow Lite](https://heartbeat.fritz.ai/building-a-cross-platform-image-classifier-with-flutter-and-tensorflow-lite-c7789af9b33a)
 * [Flutter Tensorflow Tutorial for Beginners](https://morioh.com/p/5f05517a40a4)
 * [Flutter vs Native vs React-Native: Examining performance](https://medium.com/swlh/flutter-vs-native-vs-react-native-examining-performance-31338f081980)
@@ -87,6 +88,7 @@ Flutter
 * [Bottom Navigation, Router, AppBar Menu 구성하기](https://blog.naver.com/pjt3591oo/222343936600)
 * [안드로이드 스튜디오에서 앱 실행시 JAVA_HOME PATH 문제가 발생한다면?](https://www.androidhuman.com/2021-05-28-flutter_android_studio_not_installed)
 * [Flutter 을 AWS lambda와 연동하기(IOS, Android)](https://blog.naver.com/nanotoly/222373488193)
+* [flutter doctor --android-licenses 문제 해결하기](https://www.androidhuman.com/2021-06-02-flutter_android_license_noclassdeffound)
 * [Linter - Flutter에서 코드의 스타일을 통일하고, 잠재적인 버그를 찾기 위해 Linter를 설정하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/flutter/linter/)
 
 # Dart
