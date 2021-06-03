@@ -357,6 +357,10 @@ Clojure
 * [Fibonacci Numbers in the Real World](https://lee-phillips.org/lispmath/)
 * [Once Upon a Class](https://danielsz.github.io/blog/2021-05-12T13_24.html)
 * [Learn AST - Clojure – Nextjournal](https://nextjournal.com/learn-ast-with-clojure/20210524)
+* [What I learned launching my first product, part 1 - Startup in a Month](https://startupinamonth.net/what-i-learned-pt-1/)
+* [What I learned launching my first product, part 2 - Startup in a Month](https://startupinamonth.net/what-i-learned-pt-2/)
+* [What I learned launching my first product, part 3 - Startup in a Month](https://startupinamonth.net/what-i-learned-pt-3/)
+* [Clojure to markdown](https://gist.github.com/genmeblog/14a03bf7ee67f3435376e482e3981759)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -373,6 +377,8 @@ Clojure
 * [The filter function in JavaScript and Clojure a detailed comparison with anonymous functions - YouTube](https://www.youtube.com/watch?v=z0NCJ3CfLw4)
 * [Exceptions in Clojure](https://grishaev.me/en/clj-book-exceptions/)
 * [Clojure Error Messages are Accidental - LispCast](https://lispcast.com/clojure-error-messages-accidental/)
+* [Working with binary data in clojure](https://fctorial.com/posts/parse_struct.html) serialization
+* [Clojure Sequence API Cheatsheet – Nextjournal](https://nextjournal.com/try/jackrusher/clojure-sequence-api-cheatsheet)
 * clojure.spec
   * [INTRODUCING CLOJURE.SPEC](http://blog.cognitect.com/blog/2016/5/23/introducing-clojurespec)
   * [A Tool For Thought](http://swannodette.github.io/2016/06/03/tools-for-thought)
@@ -405,7 +411,7 @@ Clojure
   * [Reducers in Clojure - Level Up Coding](https://levelup.gitconnected.com/reducers-in-clojure-c088a5627412)
   * [Faster csv reading/processing, how I got there with core.async - Showcase / Your Projects and Libraries - ClojureVerse](https://clojureverse.org/t/faster-csv-reading-processing-how-i-got-there-with-core-async/7420)
   * [wsscode-async: Core.async utilities package](https://github.com/wilkerlucio/wsscode-async)
-* core.logic
+* [core.logic](https://github.com/clojure/core.logic)
   * [core.logic](http://logic-tutorials-kr.readthedocs.org/ko/latest/)
   * [The magical island of kanren core logic intro part 1](http://objectcommando.com/blog/2011/11/04/the-magical-island-of-kanren-core-logic-intro-part-1/)
   * [core.logic - Clojure, 웹개발이 다가 아니예요](http://www.slideshare.net/SeonhoKim/corelogic-clojure)
@@ -674,7 +680,6 @@ Clojure
 
 # Library
 * [The Top 100 Clojure Libraries in 2016 - After Analyzing 30,000+ Dependencies](http://blog.takipi.com/the-top-100-clojure-libraries-in-2016-after-analyzing-30000-dependencies/)
-* [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)
 * [Clojure SQL Migration Libaries](https://adambard.com/blog/clojure-migration-libraries/)
 * [The state of Clojure on Android](http://blog.ndk.io/2015/04/23/state-of-coa.html)
 * [A modular blogging platform written in Clojure](https://github.com/FelixHoer/blog)
@@ -719,7 +724,6 @@ Clojure
   * [Migrating a Leiningen Project to Boot](http://blog.michielborkent.nl/blog/2015/06/06/from-leiningen-to-boot/)
   * [Building on Boot](http://seancorfield.github.io/blog/2016/01/30/building-on-boot/)
   * [clj-templates](https://clj-templates.com/) Find Clojure templates for Leiningen and Boot
-* [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
 * [cardigan-bay: A new wiki engine in Clojure ...](https://github.com/interstar/cardigan-bay)
 * [Carica - a flexible configuration library](https://github.com/sonian/carica)
 * [Chestnut - a Leiningen template for a Clojure/ClojureScript app based on Om](https://github.com/plexus/chestnut)
@@ -790,7 +794,6 @@ Clojure
       2. 이벤트 방식 프로그래밍 라이브러리인 manifold(https://github.com/ztellman/manifold)의 deferred를 리턴하는 방식
       3. core.async의 채널을 리턴하는 방식
   * [async-compojure-example](https://github.com/eunmin/async-compojure-example)
-* [cortex - Machine learning in Clojure](https://github.com/thinktopic/cortex)
 * [CounterClockWise IDE](https://github.com/ccw-ide) Eclipse Plugin for the Clojure Language
 * [cryogen - Static sites generated with Clojure](http://cryogenweb.org/)
 * [Crux - The open database with temporal graph query](https://opencrux.com/)
@@ -895,6 +898,7 @@ Clojure
   * [depstar: Builds JARs, uberjars, does AOT, manifest generation, etc for deps.edn projects](https://github.com/seancorfield/depstar)
 * [LibHoney for Java | Honeycomb](https://docs.honeycomb.io/getting-data-in/java/libhoney/)
   * [APM with honeycomb.io in Clojure - Tim Zöller](https://javahippie.net/clojure/apm/monitoring/2021/01/30/honeycomb-with-clojure.html)
+  * [Tracing Clojure code with alter-var-root - Tim Zöller](https://javahippie.net/clojure/apm/2021/05/29/tracing-with-alter-var-root.html)
 * [libjulia-clj: Julia bindings for Clojure -- Currently somewhat unstable --](https://github.com/cnuernber/libjulia-clj)
 * [libpython-clj - libpython bindings into the techascent ecosystem](https://github.com/cnuernber/libpython-clj)
   * [Hugging Face GPT With Clojure](https://gigasquidsoftware.com/blog/2020/01/10/hugging-face-gpt-with-clojure/)
@@ -938,6 +942,7 @@ Clojure
 * [Nightcode - A handy tool for your Clojure adventures](https://sekao.net/nightcode/)
 * [nippy - High-performance serialization library for Clojure https://www.taoensso.com ](https://github.com/ptaoussanis/nippy)
   * [Function serialization between Clojure processes and dialects](https://github.com/dvlopt/fdat.cljc)
+* [omniconf: Configuration library for Clojure that favors explicitness](https://github.com/grammarly/omniconf)
 * [Onyx - Distributed, masterless, high performance, fault tolerant data processing for Clojure](https://github.com/onyx-platform/onyx)
   * [Onyx 0.8.0: Automatic State Management](http://michaeldrogalis.github.io/jekyll/update/2015/11/12/Onyx-0.8.0-Automatic-State-Management.html)
 * [optaplanner-clj: Example of Optaplanner in Clojure](https://github.com/joinr/optaplanner-clj)
@@ -989,7 +994,6 @@ Clojure
   * [The Artificery: A (poorly) animated introduction to Clojure's HTTP server library Ring](https://drewverlee.github.io/posts-output/2021-5-2-ring)
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
-* [scicloj.ml - Proposal for a Clojure machine learning library](https://github.com/scicloj/scicloj.ml)
 * [scittle](https://borkdude.github.io/scittle/) exposes the Small Clojure Interpreter in the browser in such a way that you can use it with the script tag
 * [Selmer](https://github.com/yogthos/Selmer) template
 * [sequence: Immutable, scalable, and easy to use ledger service](https://github.com/runopsio/sequence)
@@ -1014,7 +1018,6 @@ Clojure
 * [tapestry: Weave loom fibers into your Clojure](https://github.com/teknql/tapestry)
 * [task - Simple, functional and value-oriented concurrency primitives for Clojure](https://github.com/ane/task)
 * [TCP-Server](https://github.com/weavejester/tcp-server)
-* [tech.ml.dataset: Clojure dataframe library and pipeline for data processing and machine learning](https://github.com/techascent/tech.ml.dataset)
 * [tesla-microservice: Common basis for some of otto.de's clojure microservices](https://github.com/otto-de/tesla-microservice)
 * [thi.ng - An open source collection of 20+ computational design tools for Clojure & Clojurescript](http://thi.ng/)
 * [timbre - Pure Clojure/Script logging library https://www.taoensso.com](https://github.com/ptaoussanis/timbre)
@@ -1081,6 +1084,14 @@ Clojure
 ## Library Regex
 * [Structure and Interpretation of Malli Regex Schemas - Metosin](https://www.metosin.fi/blog/malli-regex-schemas/)
 * [seqexp: Regexp for sequences!](https://github.com/cgrand/seqexp)
+
+# Machine Learning ML
+* [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)
+* [Scicloj ml-study 12.2: Literate programming with Notespace, data visualizations with Hanami - YouTube](https://www.youtube.com/watch?v=2tGk1Jh7dJs)
+* [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
+* [cortex - Machine learning in Clojure](https://github.com/thinktopic/cortex)
+* [scicloj.ml - Proposal for a Clojure machine learning library](https://github.com/scicloj/scicloj.ml)
+* [tech.ml.dataset: Clojure dataframe library and pipeline for data processing and machine learning](https://github.com/techascent/tech.ml.dataset)
 
 # REPL
 * [Clojure - Programming at the REPL: Enhancing your REPL workflow](https://clojure.org/guides/repl/enhancing_your_repl_workflow)
