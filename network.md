@@ -140,6 +140,8 @@ Network
 * [알아두면 쓸데없는 신비한 TLS 1.3](https://b.luavis.kr/server/tls-1.3)
 * [TLS 연결 디버깅: 인증서 오류를 찾아서](https://rein.kr/blog/archives/4525)
 * [TLS 연결 디버깅: Forward Secrecy 재확인하기](https://rein.kr/blog/archives/4529)
+* [블로그 설정 개편 (2021-05)](https://rein.kr/blog/archives/5359) Blog에 TLS 1.3 / HTTP2 / ECDSA 인증서 적용
+* [블로그 설정 개편: ECDSA 인증서 체인](https://rein.kr/blog/archives/5492)
 * [HTTPS - 1. 그림으로 이해하는 HTTPS](https://www.youtube.com/watch?v=NhTstvC7DYY)
 * [HTTPS - 2. HTTPS의 Ciphersuite -1. 키 교환과 인증](https://www.youtube.com/watch?v=iEig3jlT45Y)
 * [HTTPS - 3. 키 유도(Key derivation)](https://www.youtube.com/watch?v=er1eG2dfURQ)
