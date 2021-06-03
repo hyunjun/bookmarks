@@ -314,6 +314,7 @@ Data Visualization
   * [Introducing JupyterDash](https://medium.com/plotly/introducing-jupyterdash-811f1f57c02e)
   * [Introduction to Dash Plotly - Data Visualization in Python - YouTube](https://www.youtube.com/watch?v=hSPmj7mK6ng)
   * [C for Python Developers and Data Visualization With Dash | Real Python Podcast #46 - YouTube](https://www.youtube.com/watch?v=wj5wRjqXct0)
+  * [Docker를 사용한 Dash 웹앱 생성 - 미완성의신](https://unfinishedgod.netlify.app/2021/06/02/python-docker%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%9C-dash-%EC%9B%B9%EC%95%B1-%EC%83%9D%EC%84%B1/)
   * [dash-detr - A User Interface for DETR built with Dash. 100% Python](https://github.com/plotly/dash-detr)
 * Datapane [Analyse in Python. Share with Datapane](https://datapane.com/)
   * [Introduction to Datapane: A Python Library to Build Interactive Reports | by Khuyen Tran | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/introduction-to-datapane-a-python-library-to-build-interactive-reports-4593fd3cb9c8)
