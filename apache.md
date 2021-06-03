@@ -424,6 +424,7 @@ Apache
 * [**Apache Kafka지도 시간**](http://www.w3ii.com/ko/apache_kafka/default.html)
 * [Exactly-once Support in Apache Kafka](https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f)
 * [Exactly-once Semantics are Possible: Here’s How Kafka Does it](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
+* [카프카 스트림즈 All stream threads have died. 오류 해결 방안](https://voidmainvoid.tistory.com/437)
 * [kafka exactly-once delivery를 지원하기 위한 transaction](https://blog.voidmainvoid.net/354)
 * [Upgrading Apache Kafka Clients Just Got Easier](https://www.confluent.io/blog/upgrading-apache-kafka-clients-just-got-easier/)
   * 최신 버전에 Kafka 클라이언트의 순방향/역방향 호환성 추가
@@ -744,6 +745,7 @@ Apache
 * [How to Test Kafka Streams Applications](https://medium.com/better-programming/testing-kafka-streams-applications-1c5cb14c5376)
 * [Streaming With Probabilistic Data Structures: Why & How | by Eliav Lavi | Riskified Technology | Oct, 2020 | Medium](https://medium.com/riskified-technology/streaming-with-probabilistic-data-structures-why-how-b83b2adcd5d4)
 * [Batch to Real-Time Streams: 8 Years of Event Streaming with Apache Kafka](https://www.confluent.io/blog/batch-to-streams-8-years-of-event-streaming-with-apache-kafka/)
+* [카프카 스트림즈 Exactly-once 설정하는 방법과 내부 동작](https://voidmainvoid.tistory.com/438)
 * [Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka](https://github.com/akka/alpakka-kafka)
   * [Alpakka Kafka connector — an open-source Reactive Enterprise Integration library for Java and Scala](https://blog.softwaremill.com/alpakka-kafka-connector-an-open-source-reactive-enterprise-integration-library-for-java-and-scala-c5f954b66787)
   * [Retrying consumer architecture with Alpakkas](https://medium.com/@gabrielgiussi/retrying-consumer-architecture-with-alpakkas-ebd24eda1982)
