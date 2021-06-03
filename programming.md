@@ -1241,6 +1241,7 @@ Programming
 * [기업용 클라우드 비용 최적화: 도구과 사례 | 슬로우뉴스](https://slownews.kr/79903)
 * [서버리스와 서버의 비용 비교](https://brunch.co.kr/@cebi750/22)
 * [Arm 칩부터 엣지컴퓨팅까지··· 7가지 키워드로 짚어본 '클라우드' 진화 - CIO Korea](https://www.ciokorea.com/news/189383)
+* [클라우드 가상화 비율](https://naleejang.tistory.com/245)
 * [aws](aws.md)
 * [azure](azure.md)
 * [Dapr - Distributed Application Runtime](https://dapr.io/)
