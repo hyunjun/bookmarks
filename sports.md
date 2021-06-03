@@ -140,6 +140,7 @@ Sports
 * [The Math PhD Turning Basketball Into a Science](https://www.youtube.com/watch?v=MpLHMKTolVw)
 * [**How Mapping Shots In The NBA Changed It Forever**](https://fivethirtyeight.com/features/how-mapping-shots-in-the-nba-changed-it-forever/)
 * [Canvassing The NBA’s International Business Landscape](https://medium.com/the-inter-national-basketball-association/canvassing-the-nbas-international-business-cefc0cd2d919)
+* [농구 좋아하는 외국인steadylosing님의블로그 : 네이버 블로그](https://blog.naver.com/steadylosing)
 
 # Football
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)
