@@ -676,6 +676,8 @@ AWS
 * [Elastic Container Service - CPU, Memory 설정 최적화](https://jybaek.tistory.com/912)
 * [Elastic Container Service - Service Type](https://jybaek.tistory.com/915)
 * [AWS Elastic Container Service 프레젠테이션 정리](https://jybaek.tistory.com/919)
+* [AWS ECS Anywhere - Part 1 (클러스터 생성 및 외부 인스턴스 등록)](https://zigispace.net/1133)
+* [AWS ECS Anywhere - Part 2 (Task 정의 및 실행 예제)](https://zigispace.net/1134)
 * [terraform-aws-ecs-fargate](https://github.com/nalbam/terraform-aws-ecs-fargate)
 
 # EKS
