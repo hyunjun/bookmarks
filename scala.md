@@ -1202,6 +1202,7 @@ Scala
     * [Cats Effect 3: Racing IOs (and Fibers) - YouTube](https://www.youtube.com/watch?v=75HqyZ04AFs)
     * [Cats Effect 3 - Introduction to Fibers - Rock the JVM Blog](https://blog.rockthejvm.com/cats-effect-fibers/)
     * [Daniel Spiewak - Cats Effect 3 - YouTube](https://www.youtube.com/watch?v=JrpFFRdf7Q8)
+    * [Death of Blocker: blocking in Cats Effect 3 - Scala tutorial - YouTube](https://www.youtube.com/watch?v=Tq9rBvvPMcE)
     * [herding cats — Effect system](https://eed3si9n.com/herding-cats/effect-system.html)
   * [Cats Parse](https://slides.com/lewisjkl/cats-parse)
     * [SF Scala: Introduction to Cats Parse By Jeff Lewis - YouTube](https://www.youtube.com/watch?v=wreCg30pyts)
@@ -1846,6 +1847,7 @@ Scala
 * [Scala 3: Infix Operator Notation. For a long time, Scala has supported a… | by Dean Wampler | Scala 3 | Mar, 2021 | Medium](https://medium.com/scala-3/scala-3-infix-operator-notation-26bd7c13d0a3)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=8O-Qxgf28Ys) given extension
 * [Context is King. Context functions in Scala 3 | by Adam Warski | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/context-is-king-20f533474cb3)
+* [Scala 3: Using context functions for request context with http4s and log4cats | by Ivan Kurchenko | May, 2021 | Medium](https://ivan-kurchenko.medium.com/scala-3-using-context-functions-for-request-context-with-http4s-and-log4cats-61c88f1d4d42)
 * [Scala 3: Extension Methods - YouTube](https://www.youtube.com/watch?v=c8vBO8hhYEA)
 * [The #Scala3 feature I'm most excited about! - YouTube](https://www.youtube.com/watch?v=NQ1d7r6OkDE)
 * [Use Indentation Guides in Scala3! - YouTube](https://www.youtube.com/watch?v=D2nhx0GxDxY)
@@ -1857,6 +1859,7 @@ Scala
 * [Scala 3 Release Party – find out how it went! - Sphere.it](https://sphere.it/scala-3-release-party-find-out-how-it-went/)
 * [Scala 3 is here!🎉🎉🎉 | The Scala Programming Language](https://www.scala-lang.org/blog/2021/05/14/scala3-is-here.html)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=vUCWhWFWGFo) strictEquality opaque type enum
+* [Top Level Exports in #Scala3 - YouTube](https://www.youtube.com/watch?v=dh61X4GZmvg)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
