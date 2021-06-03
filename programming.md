@@ -1755,6 +1755,7 @@ Programming
 * [The Three Things to Never Build In Your App: Authentication, Notifications, and Payments | Courier](https://www.courier.com/blog/the-three-things-to-never-build-in-your-app)
 * [Send My: Arbitrary data transmission via Apple's Find My network | Positive Security](https://positive.security/blog/send-my)
 * [kkamagui의 작업실 :: Black Hat USA 2021에 가상 머신 탈출(Virtual Machine Escape) 탐지 및 방어와 관련된 논문이 채택되었습니다](https://kkamagui.tistory.com/944)
+* [Simple Introduction to Public-Key Cryptography and Cryptanalysis: Illustration with Random Permutations - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/simple-introduction-to-cryptography-and-cryptanalysis)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
