@@ -74,6 +74,7 @@
 * [Design pattern - State pattern | 10분 TV](http://10bun.tv/etc/design-pattern-1/)
 * [클래스 상속과 인터페이스 구현의 차이 | 10분 TV](http://10bun.tv/beginner/episode-7/)
 * [**Design Patterns**](https://refactoring.guru/design-patterns)
+* [**Design Pattern : 구조 패턴(Structural Patterns)**](https://velog.io/@ha0kim/Design-Pattern-%EA%B5%AC%EC%A1%B0-%ED%8C%A8%ED%84%B4Structural-Patterns)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
