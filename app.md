@@ -970,10 +970,10 @@ App
 * [Theine 2 - Caffeine for your Mac](https://www.ixeau.com/apps/theine/) KeepingYouAwake같은 앱
 * [Timeline 3D for mac](http://bedreams.tistory.com/78)
 * [UnnaturalScrollWheels: Invert scroll direction for physical scroll wheels while maintaining "Natural" scrolling for trackpads on MacOS](https://github.com/ther0n/UnnaturalScrollWheels)
-* Vim
-  * [install mac vim - gvim](https://gist.github.com/hectorperez/71040d264044f7164d64)
-  * [macOS : safari에 vim extension (vimari)설치하기](https://sunyzero.tistory.com/266)
+* Vim [install mac vim - gvim](https://gist.github.com/hectorperez/71040d264044f7164d64)
 * [Vimac](https://vimacapp.com/)
+* [vimari: Safari port of vimium](https://github.com/televator-apps/vimari)
+  * [macOS : safari에 vim extension (vimari)설치하기](https://sunyzero.tistory.com/266)
 * [volumemixer-app.com](http://www.volumemixer-app.com/)
 * [**Where Is My Mouse?**](http://macnews.tistory.com/4007)
 * [wifimapper.com](http://wifimapper.com/)
