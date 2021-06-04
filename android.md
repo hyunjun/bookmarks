@@ -222,6 +222,7 @@ Android
 * [Android Studio Tips #2](http://pluu.github.io/blog/android%20studio/2019/07/24/android-studio-tip2/)
 * [요약 What's New in Android Studio (Android Dev Summit '19)](http://pluu.github.io/blog/android/androiddevsummit/2019/11/07/ads19-whats-new-in-android-studio/)
 * [요약 Android Studio: Debugging Tips n' Tricks (Android Dev Summit '19)](http://pluu.github.io/blog/android/androiddevsummit/2019/11/14/ads19-android-studio-debugging/)
+* [안드로이드 스튜디오에서 Open Android module in Android Studio 메뉴가 사라졌어요!](https://www.androidhuman.com/2021-06-03-flutter_android_missing_open_android_module)
 
 # Conference
 * [DroidKaigi 2019 참가 후기](http://pluu.github.io/blog/owner/droidkaigi/2019/02/14/droidkaigi-review/)
