@@ -463,6 +463,7 @@ Programming
 * [Cross functional team의 성장 레시피. 요기요 회고 kit 절찬리 무료 다운로드 가능 | by Suemin Lee | Delivery Tech Korea — 요기요&배달통 기술블로그 | Apr, 2021 | Medium](https://medium.com/deliverytechkorea/cross-functional-team%EC%9D%98-%EC%84%B1%EC%9E%A5-%EB%A0%88%EC%8B%9C%ED%94%BC-728f87cb86c0)
 * [Programmers, what do you despise about Agile? - Quora](https://www.quora.com/Programmers-what-do-you-despise-about-Agile)
 * [애자일과 PO - Google Slides](https://docs.google.com/presentation/d/1rQ4zVlFl4GInIQYs24rm78FDc6BwM_a3ZdpNJLIh41E/mobilepresent?slide=id.p) [pdf](pdfs/agile_and_po.pdf)
+* [Agile, 애자일관련 소프트웨어의 열두가지 개발원칙에 대해서 알아보자](https://devocean.sk.com/blog/techBoardDetail.do?ID=159948)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
