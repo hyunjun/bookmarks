@@ -3271,6 +3271,7 @@ Python
   * [**Asynchronous Engine — (2) uvloop. uvloop Introduction & Inside (code… | by 달가을 | Mar, 2021 | Medium**](https://blue-hope.medium.com/asynchronous-engine-2-uvloop-ef895d2c2b4a)
 * [Uzi - an stunning Ransomeware due to its features](https://github.com/VedantGawade/Uzi)
 * [validus - A dead simple Python data validation library. It supports Python 3 only](https://github.com/shopnilsazal/validus)
+* [Visual Python](https://www.visualpython.ai/) GUI based Python code generator
 * [viztracer: VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution](https://github.com/gaogaotiantian/viztracer)
   * [Understand your Python code with this open source visualization tool | Opensource.com](https://opensource.com/article/20/11/python-code-viztracer)
   * [Tracing the Python GIL | Maarten Breddels’ blog](https://www.maartenbreddels.com/perf/jupyter/python/tracing/gil/2021/01/14/Tracing-the-Python-GIL.html) viztracer + perf
