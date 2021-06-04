@@ -230,6 +230,7 @@ Docker
   * Nginx
     * [AWS ECS에서 Nginx - Node.js 웹서버 구성하기](https://coinbine.com/post/150)
     * [도커가 답이다](https://jybaek.tistory.com/803)
+    * [Docker, 도커의 이미지를 이용해서 컨테이너를 실행 및 중지해보자](https://devocean.sk.com/blog/techBoardDetail.do?ID=163125)
   * R
     * [hub.docker.com/r/mrchypark/tfr-rstudio/tags](https://hub.docker.com/r/mrchypark/tfr-rstudio/tags/)
     * [Docker swarm development environment for customized medical study app](https://github.com/jinseob2kim/swarm-setting)
