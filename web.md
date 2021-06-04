@@ -867,6 +867,7 @@ Web
 * [nGrinder - Enterprise level performance testing solution based on The Grinder](https://naver.github.io/ngrinder/)
   * [내 서버는 동시 사용자 몇명일 때 터질까? - Ngrinder를 이용해 성능/부하 테스트](https://tjdrnr05571.tistory.com/17)
   * [내가 만든 서비스는 얼마나 많은 사용자가 이용할 수 있을까? - 2편(nGrinder를 활용한 성능테스트)](https://hyuntaeknote.tistory.com/11)
+  * [nGrinder를 이용한 api 성능테스트 후기 | Recoding Life](https://jane097.github.io/project/ngrinder-performance-test/)
 * [Siege - an http load testing and benchmarking utility](https://www.joedog.org/siege-home/)
 * [vegeta - HTTP load testing tool and library. It's over 9000!](https://github.com/tsenart/vegeta)
 
