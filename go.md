@@ -538,6 +538,8 @@ Go
     * python service를 go로 바꾸는 과정에서 발생한 여러가지 기술 문제들을 자세히 설명하는 좋은 글
 * [linda - Multi-platform, highly configurable conference bot](https://github.com/kpashka/linda)
 * [Logrus is a structured logger for Go (golang), completely API compatible with the standard library logger](https://github.com/Sirupsen/logrus)
+* [lorca: Build cross-platform modern desktop apps in Go + HTML5](https://github.com/zserge/lorca)
+  * [golang - Lorca를 사용하여 Go로 HTML5 앱 만들기 - jacking75](https://jacking75.github.io/go_lib_Lorca/)
 * [Machinery is an asynchronous task queue/job queue based on distributed message passing](https://github.com/RichardKnop/machinery)
   * [Machinery - Machinery is an asynchronous task queue/job queue based on distributed message passing](http://richardknop.github.io/machinery/)
 * [mark - A markdown processor written in Go. built for fun](https://github.com/a8m/mark)
