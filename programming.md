@@ -1242,6 +1242,7 @@ Programming
 * [서버리스와 서버의 비용 비교](https://brunch.co.kr/@cebi750/22)
 * [Arm 칩부터 엣지컴퓨팅까지··· 7가지 키워드로 짚어본 '클라우드' 진화 - CIO Korea](https://www.ciokorea.com/news/189383)
 * [클라우드 가상화 비율](https://naleejang.tistory.com/245)
+* [‘이투스’ 클라우드 전환 사례: 문의선 CTO 인터뷰 | 슬로우뉴스](https://slownews.kr/80915?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+slownews+%28%EC%8A%AC%EB%A1%9C%EC%9A%B0%EB%89%B4%EC%8A%A4%29)
 * [aws](aws.md)
 * [azure](azure.md)
 * [Dapr - Distributed Application Runtime](https://dapr.io/)
