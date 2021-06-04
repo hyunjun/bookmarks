@@ -174,4 +174,5 @@ Flutter
 * [Flutter 2.0 버전 파해치기 Part 3 새 버튼들! (TextButton, OutlinedButton, ElevatedButton) - YouTube](https://www.youtube.com/watch?v=gnxd61VRqvg)
 * [Flutter - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/Flutter)
 * [모든 레이아웃에서 작동하는 앱 제작! #더코딩파파 - YouTube](https://www.youtube.com/watch?v=nFp3zIlGQvY)
+* [레이아웃 - Flutter를 이용하여 앱을 개발해 봅시다. 이번 블로그 포스트에서는 Flutter에서 화면의 레이아웃을 담당하는 위젯들에 대해서 알아보도록 하겠습니다.](https://dev-yakuza.posstree.com/ko/flutter/layout/)
 * [시작하기 - Flutter를 이용하여 앱을 개발해 봅시다. 이번 블로그 포스트에서는 Flutter 프로젝트를 생성하고, 주요 파일과 폴더를 살펴보도록 하겠습니다](https://dev-yakuza.posstree.com/ko/flutter/start/)
