@@ -538,17 +538,18 @@ TensorFlow
 * [tf2-reformer: Reproducing the reformer with tf2](https://github.com/domyounglee/tf2-reformer)
 
 # Book
+* [A Curated List Of Dedicated Resources- TensorFlow Books](https://www.techleer.com/articles/401-a-curated-list-of-dedicated-resources-tensorflow-books/)
 * [Deep Learning With Python](https://machinelearningmastery.com/deep-learning-with-python/)
-* [TensorFlow 한글문서](https://www.gitbook.com/book/tensorflowkorea/tensorflow-kr/)
-* [TensorFlow 한글문서](https://tensorflowkorea.gitbooks.io/tensorflow-kr/)
-* [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow)
-  * [Machine Learning with TensorFlow github](https://github.com/BinRoot/TensorFlow-Book)
 * First Contact with Tensorflow
   * [First Contact with Tensorflow 번역팀 깃헙](https://github.com/dyanos/FirstContactWithTensorFlowKr)
   * [First Contact with Tensorflow 번역팀 블로그](http://infractal.org/2016/07/22/1-tensorflow-basics/)
+* [Machine Learning with TensorFlow](https://www.manning.com/books/machine-learning-with-tensorflow)
+  * [Machine Learning with TensorFlow github](https://github.com/BinRoot/TensorFlow-Book)
 * [Machine Learning with TensorFlow](http://www.tensorflowbook.com/)
   * [Review ML with TensorFlow](https://tensorflow.blog/2017/05/16/review-ml-with-tensorflow/)
-* [A Curated List Of Dedicated Resources- TensorFlow Books](https://www.techleer.com/articles/401-a-curated-list-of-dedicated-resources-tensorflow-books/)
+* [TensorFlow 한글문서](https://www.gitbook.com/book/tensorflowkorea/tensorflow-kr/)
+* [TensorFlow 한글문서](https://tensorflowkorea.gitbooks.io/tensorflow-kr/)
+* [더북(TheBook): 딥러닝 텐서플로 교과서](https://thebook.io/080263/)
 
 # Classification
 * [이미지 Classification 문제와 딥러닝: AlexNet으로 개vs고양이 분류하기](http://research.sualab.com/machine-learning/computer-vision/2018/01/17/image-classification-deep-learning.html)

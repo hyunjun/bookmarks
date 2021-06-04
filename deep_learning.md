@@ -816,6 +816,8 @@ Deep Learning
 * [좌충우돌 강화 학습의 이론과 구현 (원고)](http://books.sumeun.org/index.php/2019/01/14/sumeunrl/)
 * [파이썬을 이용한 머신러닝, 딥러닝 실전 개발 입문](http://wikibook.co.kr/python-machine-learning/?path=facebook)
   * [머신러닝/딥러닝 실전 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
+* [더북(TheBook): 모두의 딥러닝 개정2판](https://thebook.io/080228/)
+* [더북(TheBook): 신경망 교과서](https://thebook.io/080232/) 1~3장만
 * [11 Deep Learning Articles, Tutorials and Resources](http://www.datasciencecentral.com/profiles/blogs/11-deep-learning-articles-tutorials-and-resources)
 * [Artificial Intelligence Book of January 2017](http://artificialbrain.xyz/artificial-intelligence-book-of-january-2017/)
 * [Book: Deep Learning With Python](http://www.datasciencecentral.com/forum/topics/book-deep-learning-with-python) Theano and TensorFlow using Keras

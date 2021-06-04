@@ -681,6 +681,10 @@ Machine Learning
 * [Machine Learning 강의노트](https://wikidocs.net/book/587)
 * [머신러닝/딥러닝 실전 입문](https://www.youtube.com/playlist?list=PLBXuLgInP-5m_vn9ycXHRl7hlsd1huqmS)
 * [모두를 위한 컨벡스 최적화](https://convex-optimization-for-all.github.io/)
+* [더북(TheBook): 머신 러닝 워크북](https://thebook.io/006789/) 4~8장만
+* [더북(TheBook): 머신 러닝을 다루는 기술 with 파이썬, 사이킷런](https://thebook.io/007017/) 1~5장만
+* [더북(TheBook): 머신 러닝을 위한 수학 with 파이썬, R](https://thebook.io/007019/)
+* [더북(TheBook): 머신 러닝 교과서 with 파이썬, 사이킷런, 텐서플로](https://thebook.io/007022/) 1~4장만
 * [Deep Learning](http://www.iro.umontreal.ca/~bengioy/dlbook/)
 * [Model-Based Machine Learning](http://www.mbmlbook.com/)
 * [Machine Learning: a Probabilistic Perspective](http://www.cs.ubc.ca/~murphyk/MLbook/)

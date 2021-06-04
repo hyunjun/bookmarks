@@ -358,6 +358,15 @@ Java
 * [Must-read books to learn Java programming](https://medium.freecodecamp.org/must-read-books-to-learn-java-programming-327a3768ea2f)
 * [10 Best Spring Framework Books for Java Developers | by javinpaul | Javarevisited | Feb, 2021 | Medium](https://medium.com/javarevisited/10-best-spring-framework-books-for-java-developers-360284c37036)
 * [이펙티브 자바 3/E 효과적으로 읽기 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=30771277)
+* [더북(TheBook): 가장 빨리 만나는 자바 8](https://thebook.io/006725/) 1~2장만
+* [더북(TheBook): 스프링 4 코딩 공작소](https://thebook.io/006746/) 1~7장만
+* [더북(TheBook): 자바와 JUnit을 활용한 실용주의 단위 테스트](https://thebook.io/006814/) 1~3장만
+* [더북(TheBook): Java EE 디자인 패턴](https://thebook.io/006880/) 1~4장만
+* [더북(TheBook): 모두의 자바](https://thebook.io/006889/)
+* [더북(TheBook): 스프링 마이크로서비스 코딩 공작소](https://thebook.io/006962/) 1~3장만
+* [더북(TheBook): 가장 빨리 만나는 코어 자바 9](https://thebook.io/006985/) 2~4장만
+* [더북(TheBook): 전문가를 위한 스프링 5](https://thebook.io/006987/) 1~4장만
+* [더북(TheBook): 자바 코딩의 기술](https://thebook.io/007025/) 1~3장만
 * [Seriously Good Software](https://www.manning.com/books/seriously-good-software)
   * [exercises in style — Bitbucket](https://bitbucket.org/mfaella/exercisesinstyle/src/master/)
 

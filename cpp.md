@@ -216,11 +216,15 @@ C++
   * [Visual C++의 volatile](http://blog.seulgi.kim/2017/11/vcpp-volatile.html)
 
 # Book
-* [The C++ Standard Library](https://leanpub.com/cpplibrary)
-* [Modern C++ Cookbook](https://github.com/utilForever/ModernCppCookbook)
-* [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 * [알고리즘 문제해결을 위한 C/C++ 기초](https://wikidocs.net/book/1000)
+* [더북(TheBook): 모던 C++ 입문](https://thebook.io/006828/) 1장만
+* [더북(TheBook): C++14 STL 철저 입문](https://thebook.io/006842/) 1~3장만
+* [더북(TheBook): 스프링 부트 코딩 공작소](https://thebook.io/006859/) 2~5장만
+* [더북(TheBook): 코딩 테스트를 위한 자료 구조와 알고리즘 with C++](https://thebook.io/080239/) 1~3장만
+* [The C++ Standard Library](https://leanpub.com/cpplibrary)
 * [C++ Template Note](https://wikidocs.net/book/54)
+* [The Definitive C++ Book Guide and List](https://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
+* [Modern C++ Cookbook](https://github.com/utilForever/ModernCppCookbook)
 * [Refactoring](http://jczeus.com/refac_cpp.html)
 
 # C++11

@@ -56,6 +56,9 @@ NoSQL
 
 # [Blazing GPU Database](http://blazingdb.com/)
 
+# Book
+* [더북(TheBook): NoSQL 철저 입문](https://thebook.io/006765/) 3~8장만
+
 # Cassandra
 * [Performance doubling with message coalescing](http://www.datastax.com/dev/blog/performance-doubling-with-message-coalescing)
 * [Cassandra: Daughter of Dynamo and BigTable](http://www.insightdataengineering.com/blog/cass.html)

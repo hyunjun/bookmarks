@@ -98,6 +98,7 @@ C#
 # Book
 * [C# 초급 (국제공부연맹)](https://wikidocs.net/book/318)
 * [도서: 시작하세요! C# 7.3 프로그래밍](https://www.sysnet.pe.kr/2/0/11837)
+* [더북(TheBook): C# 교과서](https://thebook.io/006890/) 1~5장만
 
 # C# 7
 * [C# 7 Work List of Features](https://github.com/dotnet/roslyn/issues/2136)

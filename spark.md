@@ -507,6 +507,7 @@
 * trigger [Spark Trigger Options](https://dzone.com/articles/spark-trigger-options)
 
 # Book
+* [더북(TheBook): 스파크를 다루는 기술](https://thebook.io/006908/) 4~6장만
 * [**Mastering Apache Spark 2.0**](https://jaceklaskowski.gitbooks.io/mastering-apache-spark/)
 * [Advanced Analytics with Spark Source Code](https://github.com/sryza/aas)
 * [Best Apache Spark and Scala Books for Mastering Spark Scala](https://data-flair.training/blogs/best-apache-spark-scala-books/)

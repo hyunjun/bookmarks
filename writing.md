@@ -87,6 +87,9 @@ Writing
   * [Writing tools I learned from The Economist - Built By Words](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the)
 * [기본만 생각하는 글쓰기 - Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vTCDVh9kL49D6I0sftVJAD-ph6p8dqeqCyIcgC-e3fi7EMUAvTMCov_dKY5sHqWJ72GA4h1SdbcLRkP/pub?slide=id.p)
 
+# Book
+* [더북(TheBook): 스타일과 목적을 살리는 웹 글쓰기](https://thebook.io/006745/) 1~4장만
+
 # Programming
 * [데이터 과학자의 데이터로 책 쓰기: 데이터는 기획력과 감수성이다](http://ppss.kr/archives/73144)
 * [SI 개발 프로세스 (절차 및 산출물 요약)](https://docs.com/sunnykwak/2550/si-project-standard-process)

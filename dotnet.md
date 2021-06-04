@@ -90,6 +90,9 @@
 * [Announcing .NET 6 Preview 1 | .NET Blog](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/)
 * [.NET for Beginners - Dusted Codes](https://dusted.codes/dotnet-for-beginners)
 
+# Book
+* [더북(TheBook): ASP.NET & Core를 다루는 기술](https://thebook.io/006824/)
+
 # Conference Meetup
 * [.NET Conf 2019 키노트](https://www.youtube.com/watch?v=8qtmRG5vQxM&list=PLFVJi7gR5oaP715fktQtSV6vJE76MLide)
 * [The Journey to One .NET | BOD106 - YouTube](https://www.youtube.com/watch?v=ctSqiD8BGPM)

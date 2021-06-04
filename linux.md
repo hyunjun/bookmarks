@@ -314,6 +314,8 @@ Linux
 # Book
 * [리눅스를 활용한 회사 인프라 구축의 모든 것](https://www.lesstif.com/display/1STB/Home)
 * [우분투](https://wikidocs.net/book/1002)
+* [더북(TheBook): 리눅스 서버를 다루는 기술](https://thebook.io/006718/)
+* [더북(TheBook): 모던 리눅스 관리](https://thebook.io/007021/) 1~4장만
 * [The Unix Workbench](https://leanpub.com/unix/read_full)
 * [Just Enough Linux](https://leanpub.com/jelinux/read_full)
 

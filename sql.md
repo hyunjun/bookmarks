@@ -198,6 +198,10 @@ SQL
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
 * [SQLite로 가볍게 배우는 데이터베이스](https://wikidocs.net/book/1530)
+* [더북(TheBook): 오라클 SQL과 PL/SQL을 다루는 기술](https://thebook.io/006696/)
+* [더북(TheBook): SQL 코딩의 기술](https://thebook.io/006882/) 1~3장만
+* [더북(TheBook): 모두의 SQL](https://thebook.io/006977/)
+* [더북(TheBook): 누구나 쉽게 SQL](https://thebook.io/080202/)
 * [Readings in Database Systems, 5th Edition](http://www.redbook.io/)
 * [SQL Indexing and Tuning e-Book for developers: Use The Index, Luke covers Oracle, MySQL, PostgreSQL, SQL Server, ...](https://use-the-index-luke.com/)
 

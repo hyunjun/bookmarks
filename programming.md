@@ -1177,6 +1177,12 @@ Programming
 * [books for developers](https://docs.google.com/spreadsheets/d/1sQQmSalRUcPXFz8uJodAcxrad_19oHAlvCSj35VVX3c/edit#gid=0)
 * [Effective 시리즈](http://hamait.tistory.com/826)
 * [인공지능: 현대적 접근 방식](http://likejazz.com/post/162061958444/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%ED%98%84%EB%8C%80%EC%A0%81-%EC%A0%91%EA%B7%BC-%EB%B0%A9%EC%8B%9D)
+* [더북(TheBook): 그로스 해킹](https://thebook.io/006767/) 1~3장만
+* [더북(TheBook): 소프트웨어 악취를 제거하는 리팩토링](https://thebook.io/006804/) 1~3장만
+* [더북(TheBook): 해커 플레이북 2](https://thebook.io/006840/) 1~3장만
+* [더북(TheBook): 인크립션: 실용주의 암호화](https://thebook.io/006879/)
+* [더북(TheBook): 심플 소프트웨어](https://thebook.io/006994/) 9~17장만
+* [더북(TheBook): 마이크로서비스 패턴](https://thebook.io/007035/) 1~4장만
 * [Top 5 Contemporary Software Engineering Books](https://medium.com/ki-labs-engineering/top-5-contemporary-software-engineering-books-8b5ca6a28e83)
 * [The 25 best programming books of all-time. A data-backed answer](https://www.daolf.com/posts/best-programming-books/)
 * [100+ e-books on popular technologies for free](https://www.syncfusion.com/resources/techportal/ebooks)
@@ -2063,6 +2069,9 @@ Programming
 
 # Microsoft
 * [알면 놀라는 마이크로소프트의 25가지 혁신 기술](http://m.seminartoday.net/news/articleView.html?idxno=8526)
+
+# Mobile
+* [더북(TheBook): 모두의 앱 인벤터](https://thebook.io/080226/)
 
 # News & Blog
 * [기술 & 스타트업 뉴스레터 및 블로그 모음 | Guru's Blog](https://xguru.net/2222)

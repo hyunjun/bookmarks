@@ -194,6 +194,7 @@ Keras
 * [케라스 API를 사용한 사용자 정의 모델 만들기 with 텐서플로 2.3+2.4 Colaboratory](https://colab.research.google.com/github/rickiepark/handson-ml2/blob/master/custom_model_in_keras.ipynb)
 
 # Book
+* [더북(TheBook): 케라스 창시자에게 배우는 딥러닝](https://thebook.io/006975/) 1~3장만
 * [keras-idiomatic-programmer - Handbooks and Code Samples for Software Engineers wanting to learn the Keras Machine Learning framework](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer)
 
 # CNN

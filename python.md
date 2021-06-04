@@ -1546,6 +1546,16 @@ Python
 * [파이썬 괴식 레시피 - 긱(Geek)스럽게 파이썬 활용하기](https://wikidocs.net/book/2460)
 * [파이썬 책 추천 목록 정리](https://github.com/daejinseok/books/blob/master/Python_Book_List.md)
 * [중급 파이썬: 파이썬 팁들](https://ddanggle.gitbooks.io/interpy-kr/content/)
+* [강좌: 파이썬 코딩 도장](https://dojang.io/course/view.php?id=7)
+* [더북(TheBook): 파이썬을 이용한 컴퓨터 과학 입문](https://thebook.io/006793/) 1장만
+* [더북(TheBook): 씽크 파이썬](https://thebook.io/006878/)
+* [더북(TheBook): Try! helloworld 파이썬](https://thebook.io/006888/)
+* [더북(TheBook): 모두의 알고리즘 with 파이썬](https://thebook.io/006935/)
+* [더북(TheBook): 모두의 엔트리 with 엔트리파이선](https://thebook.io/006948/)
+* [더북(TheBook): 컴퓨터 사이언스 부트캠프 with 파이썬](https://thebook.io/006950/)
+* [더북(TheBook): 모던 파이썬 입문](https://thebook.io/006992/) 2부(7~12장)만
+* [더북(TheBook): 모두의 파이썬: 20일 만에 배우는 프로그래밍 기초(개정판)](https://thebook.io/007026/)
+* [더북(TheBook): 파이썬 코딩의 기술 - 개정 2판](https://thebook.io/080235/) 1~2장만
 * [FIND THE BEST PYTHON BOOKS](http://pythonbooks.org/)
 * [11 Best Python Books To Read in 2020 - Nextotech](https://nextotech.com/best-python-books-in-2020/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)

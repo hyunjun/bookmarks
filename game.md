@@ -49,6 +49,11 @@ Game
 * [yucata.de](http://www.yucata.de/en)
 
 # Book
+* [더북(TheBook): 콘솔 워즈](https://thebook.io/006768/) Part1~2만
+* [더북(TheBook): 멀티플레이어 게임 프로그래밍](https://thebook.io/006821/) 1~4장만
+* [더북(TheBook): 게임 서버 프로그래밍 교과서](https://thebook.io/006884/)
+* [더북(TheBook): 엔트리 게임 제작 무작정 따라하기](https://thebook.io/006974/) 1~10, 12, 14장만
+* [더북(TheBook): 마인크래프트 게임 제작 무작정 따라하기](https://thebook.io/006993/)
 * [Game Programming Patterns](http://www.gameprogrammingpatterns.com/)
 
 # Library

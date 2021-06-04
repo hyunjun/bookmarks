@@ -922,6 +922,16 @@ Javascript
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
 # Book
+* [더북(TheBook): Meteor 코딩 공작소](https://thebook.io/006810/) 1~6장만
+* [더북(TheBook): 자바스크립트 패턴과 테스트](https://thebook.io/006844/) 1~6장만
+* [더북(TheBook): try! helloworld 자바스크립트](https://thebook.io/006894/)
+* [더북(TheBook): RxJS 반응형 프로그래밍](https://thebook.io/006934/) 1~3장만
+* [더북(TheBook): Node.js 마이크로서비스 코딩 공작소](https://thebook.io/006947/)
+* [더북(TheBook): 리액트 교과서](https://thebook.io/006961/) 3~7장만
+* [더북(TheBook): Vue.js 코딩 공작소](https://thebook.io/007024/) 1~3장만
+* [더북(TheBook): 자바스크립트 코딩의 기술](https://thebook.io/007030/) 2장만
+* [더북(TheBook): 리액트를 다루는 기술 [개정판]](https://thebook.io/080203/)
+* [더북(TheBook): Node.js 교과서 개정 2판](https://thebook.io/080229/) 1~8, 15~16장만
 * [The Beginners Guide To Node.js](https://leanpub.com/nodejsbasics/read_full)
 * [clean-code-javascript](https://github.com/qkraudghgh/clean-code-javascript-ko)
 * [clean-code-javascript - Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)

@@ -341,6 +341,7 @@ Go
 * [가장 빨리 만나는 Go 언어 출간 및 원고 공개](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
 * [개발자를 위한 하룻밤에 읽는 Go 언어 이야기](http://www.hanbit.co.kr/ebook/look.html?isbn=9788968487903)
 * [디스커버리 Go 언어](https://github.com/jaeyeom/gogo)
+* [더북(TheBook): Go 언어 웹 프로그래밍 철저 입문](https://thebook.io/006806/)
 * [A curated list of Golang books](https://github.com/dariubs/GoBooks)
 * [Effective Go](https://golang.org/doc/effective_go.html)
   * [golang-korea 번역](https://web.archive.org/web/20160115102517/https://code.google.com/p/golang-korea/)

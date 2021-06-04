@@ -498,6 +498,9 @@ Docker
 * [MORE AGILE: 구글의 클라우드 컴퓨팅 아키텍처와 오픈소스 컨테이너 프로젝트 Docker](https://www.moreagile.net/2014/05/ContainersAtScale.html) container화의 시작
 * [How Do Kubernetes and Docker Create IP Addresses?! | Dustin Specker](https://dustinspecker.com/posts/how-do-kubernetes-and-docker-create-ip-addresses/)
 
+# Book
+* [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
+
 # BoxFuse
 * [Why Immutable Infrastructure?](https://boxfuse.com/learn/why.html)
 * [Immutable Infrastructure: No SSH](https://boxfuse.com/blog/no-ssh.html)

@@ -445,6 +445,9 @@ Programming Language
 * [SARL - General-purpose Agent-Oriented Programming Language](http://www.sarl.io/)
 * scratch
   * [스크래치 프로그램](https://www.youtube.com/playlist?list=PL2rijbugmnWSq6DoO6_0PusswLS0fGZPt)
+  * [더북(TheBook): 모두의 스크래치 알고리즘](https://thebook.io/007033/)
+  * [더북(TheBook): 모두의 스크래치 개정 2판](https://thebook.io/080213/)
+  * [더북(TheBook): 모두의 인공지능 with 스크래치](https://thebook.io/080210/)
 * self
   * [Morphic: The Self User Interface Framework¶](http://handbook.selflanguage.org/current/morphic.html)
 * Shen

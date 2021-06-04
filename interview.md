@@ -492,6 +492,7 @@ Interview
 * [Giving back - how I cleared L6 System Design - Part 3 - Blind](https://www.teamblind.com/post/qubF6fS2)
 
 # Book
+* [더북(TheBook): 커리어 스킬](https://thebook.io/006990/) 2~9장만
 * [System Design Interview Book Review: Finally, a Book for Getting Better at Architecting Systems - The Pragmatic Engineer](https://blog.pragmaticengineer.com/system-design-interview-an-insiders-guide-review/)
 
 # Data Science

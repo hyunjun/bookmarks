@@ -254,6 +254,7 @@ Algorithm
 
 # Book
 * [자료구조와 알고리즘에 대해서](https://www.sangkon.com/about_ds_book/)
+* [더북(TheBook): 리얼월드 알고리즘](https://thebook.io/006952/) 1~3장만
 * [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [Introduction - algo-en](https://labuladong.gitbook.io/algo-en/)
   * [fucking-algorithm at english](https://github.com/labuladong/fucking-algorithm/tree/english)

@@ -176,9 +176,12 @@ C
 * [autotools 간단한 사용 예제](http://egloos.zum.com/studyfoss/v/5343014)
 
 # Book
+* [C 프로그래밍: 현대적 접근](https://wikidocs.net/26942)
+* [강좌: C 언어 코딩 도장](https://dojang.io/course/view.php?id=2)
+* [더북(TheBook): 모두의 C 언어](https://thebook.io/006989/)
+* [더북(TheBook): 실전 대비 C 알고리즘 인터뷰](https://thebook.io/007031/) 1~3장만
 * [An Introduction to C & GUI Programming – the new book from Raspberry Pi Press](https://www.raspberrypi.org/blog/an-introduction-to-c-gui-programming-the-new-book-from-raspberry-pi-press/)
 * [Modern C](https://modernc.gforge.inria.fr/)
-* [C 프로그래밍: 현대적 접근](https://wikidocs.net/26942)
 
 # [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)

@@ -313,6 +313,8 @@ Vision
 * [LINE AR 렌더링 엔진 개발기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-ar-rendering-engine-yuki-elsa/)
 
 # Book
+* [더북(TheBook): Visual C++ 영상 처리 프로그래밍](https://thebook.io/006796/) 1~11장만
+* [더북(TheBook): OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝](https://thebook.io/006939/)
 * [Hands-On Computer Vision with TensorFlow 2, published by Packt](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
 * [Introduction to Computer Graphics -- Title Page](http://math.hws.edu/graphicsbook/index.html)
 * [Computer Graphics from Scratch - Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/)

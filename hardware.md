@@ -153,6 +153,8 @@
 * [Raspberry Pi: Measure, Record, Explore](https://leanpub.com/RPiMRE/read_full)
 * [Raspberry Pi Computing: Ultrasonic Distance Measurement](https://leanpub.com/rpcultra/read_full)
 * [Raspberry Pi Computing: Analog Measurement](https://leanpub.com/rpcanalog/read_full)
+* [더북(TheBook): 모두의 마이크로비트](https://thebook.io/080233/) 0~8장만
+* [더북(TheBook): 모두의 아두이노 환경 센서](https://thebook.io/080261/)
 
 # Dio
 * [토종 공개SW 로봇 “아이에게 코딩 교육을…”](http://techholic.co.kr/archives/33041)

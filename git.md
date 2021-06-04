@@ -246,6 +246,7 @@ Git
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
+* [더북(TheBook): Git 교과서](https://thebook.io/080212/)
 * [git-scm.com/book/ko/v1](https://git-scm.com/book/ko/v2/)
 * [Git TextBook | 깃 개념 잡기](https://git.jiny.dev/text/concept/)
 

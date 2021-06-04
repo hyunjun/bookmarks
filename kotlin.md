@@ -215,6 +215,9 @@
   * [Kotlin에서 try catch finally로 처리하는 Exception](https://developer88.tistory.com/245)
   * [RunCatching을 이용한 Kotlin Exception처리 #try, catch](https://www.popit.kr/logstash-필터-elapsed)
 
+# Book
+* [더북(TheBook): 코틀린을 다루는 기술](https://thebook.io/080208/) 1~3장만
+
 # Conference
 * [kotlinconf.com](https://kotlinconf.com/)
   * [youtube.com/results?search_query=#kotlinconf19](https://www.youtube.com/results?search_query=%23kotlinconf19)

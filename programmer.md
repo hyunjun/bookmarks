@@ -72,6 +72,10 @@ Programmer
 * [신입 개발자로서 도움이 된 포스트/자료 모음](https://velog.io/@hyounglee/for-newbies)
 * [Why I prefer making useless stuff - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
 
+# Book
+* [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
+* [더북(TheBook): 소프트 스킬 : 평범한 개발자의 비범한 인생 전략 71가지](https://thebook.io/006794/) 26장만
+
 # Cultuer, Team
 * [훌륭한 개발 문화의 이면(7) – 잉여력이냐 vs. 효율성이냐](http://channy.creation.net/blog/1238) 개발자 경력 경로
 * [팀 문화의 탄생](https://woowabros.github.io/experience/2020/05/13/birth-of-team-culture.html) 정말 이대로 실행한다면 엄청나게 훌륭한 회사
