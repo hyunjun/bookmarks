@@ -409,6 +409,7 @@ iOS
 * [About Swift](http://wlaxhrl.tistory.com/68)
 * [Version Compatibility](http://wlaxhrl.tistory.com/69)
 * [lazy var in ios swift](https://medium.com/@abhimuralidharan/lazy-var-in-ios-swift-96c75cb8a13a)
+* [Swift의 lazy var](https://brunch.co.kr/@tilltue/71)
 * [Simple Stylesheets in Swift](https://hackernoon.com/simple-stylesheets-in-swift-6dda57b5b00d)
 * [Basics of parallel programming with Swift](https://medium.com/flawless-app-stories/basics-of-parallel-programming-with-swift-93fee8425287)
 * [Parallel programming with Swift: Operations](https://medium.com/flawless-app-stories/parallel-programming-with-swift-operations-54cbefaf3cb0)
