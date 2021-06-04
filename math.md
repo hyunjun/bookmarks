@@ -5,6 +5,7 @@ Math
 * [blog.naver.com/mbko](http://blog.naver.com/mbko)
   * [미적분학; 벡터미분4강, 일반곡선좌표계, 계량텐서(metric tensor), 공변벡터 & 반변벡터](http://m.blog.naver.com/mbko/130108166782)
 * [벡터미적분학+상미분방정식](https://www.youtube.com/playlist?list=PLGqSWalYhuTW6P994i9OKhyCav-qA2Ns3)
+* [공대생들을 위한 미적분 필수 핵심 요약 4 - 미적분 공식 일상언어처럼 이해하고 사용하기 - YouTube](https://www.youtube.com/watch?v=cO7bJR42fQY)
 * [집합론](https://www.youtube.com/playlist?list=PLGqSWalYhuTX1ADacN59EG3t90wtvSfrv)
 * [장자윤 선생님의 편입수학 - 미분의 정의와 뜻](https://www.youtube.com/watch?v=cr_SVH27n4c)
 * [엔지니어를 위한 미분기하 1/5 : 미분기하학의 직관적인 소개 - YouTube](https://www.youtube.com/watch?v=ZaEm7u3W9qU)
