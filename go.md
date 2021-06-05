@@ -567,6 +567,7 @@ Go
 * [Ransomware](https://github.com/mauri870/ransomware) The intent here is to disseminate and teach more about security in the actual world. Remember, security is always a double-edged sword
 * [requesthub - Receive, Log, and Proxy HTTP requests](https://github.com/kyledayton/requesthub)
 * [restic - a program that does backups right](https://restic.net/)
+* [rests_v: 잔여 백신 맵 서비스 모니터링](https://github.com/cwon/rests_v)
 * [rf · pkg.go.dev](https://pkg.go.dev/rsc.io/rf) an experimental refactoring tool
 * [Risotto compiles JSX using Golang](https://github.com/mamaar/risotto)
 * [Roshi - a large-scale CRDT set implementation for timestamped events](https://github.com/soundcloud/roshi)
