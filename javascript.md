@@ -980,6 +980,8 @@ Javascript
 * [🐞VS Code로 디버깅하기 #환경변수 - YouTube](https://www.youtube.com/watch?v=lzpot5LqjqI)
 * [웹 개발자 도구의 역사 - DEV Community](https://dev.to/composite/-4675)
   * [웹 개발자 도구의 역사 | GeekNews](https://news.hada.io/topic?id=4099)
+* [JavaScript Developer Tools](https://techstack.hashnode.dev/javascript-developer-tools)
+  * [3. JavaScript Developers tools - YouTube](https://www.youtube.com/watch?v=lcqTJTdvoWE)
 
 # ECMAScript
 * [De Stijl: How necessary are var, let, and const?](http://raganwald.com/2015/05/30/de-stijl.html)
