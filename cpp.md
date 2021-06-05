@@ -162,9 +162,6 @@ C++
 * [c++ sort 의 비교함수가 true만 리턴할 때 어떤 일이 일어날까요?](https://codingdog.tistory.com/entry/c-sort-%EC%9D%98-%EB%B9%84%EA%B5%90%ED%95%A8%EC%88%98%EA%B0%80-true%EB%A7%8C-%EB%A6%AC%ED%84%B4%ED%95%A0-%EB%95%8C-%EC%96%B4%EB%96%A4-%EC%9D%BC%EC%9D%B4-%EC%9D%BC%EC%96%B4%EB%82%A0%EA%B9%8C%EC%9A%94)
 * [초보 탈출 #2 - 멀티 스레드 프로그래밍 1](http://10bun.tv/beginner/episode-2/)
 * [초보 탈출 #3 - 멀티 스레드 프로그래밍 2 | 10분 TV](http://10bun.tv/beginner/episode-3/)
-* [CLion 소개 : 네이버 블로그](https://blog.naver.com/ykish/222026766695)
-* [**Full Remote Mode Of CLion With Docker**](https://www.popit.kr/full-remote-mode-of-clion-with-docker/)
-* [**Remote Debug via GDB/gdbserver Of CLion With Docker**](https://www.popit.kr/remote-debug-via-gdbgdbserver%ef%bb%bf-of-clion-with-docker/)
 * [Learn to debug code with the GNU Debugger | Opensource.com](https://opensource.com/article/21/3/debug-code-gdb) GDB
 * [C++ Development with Visual Studio Code](https://www.youtube.com/watch?v=bK882S9ESpo)
 * [How to write Clean, Beautiful and Effective C++ Code](https://medium.com/@MKahsari/how-to-write-clean-beautiful-and-effective-c-code-d4699f5e3864)
@@ -284,6 +281,14 @@ C++
 * [CppCon 2015: John Farrier “Demystifying Floating Point"](https://www.youtube.com/watch?v=k12BJGSc2Nc)
 * [CppCon 2019 Presentation Materials](https://github.com/CppCon/CppCon2019)
 * [CppCon 2020 Plenary Talks - YouTube](https://www.youtube.com/playlist?list=PLHTh1InhhwT4PVVy3PGfw0Va7wZNrH0-w)
+
+# IDE
+* CLion
+  * [CLion 소개 : 네이버 블로그](https://blog.naver.com/ykish/222026766695)
+  * [**Full Remote Mode Of CLion With Docker**](https://www.popit.kr/full-remote-mode-of-clion-with-docker/)
+  * [**Remote Debug via GDB/gdbserver Of CLion With Docker**](https://www.popit.kr/remote-debug-via-gdbgdbserver%ef%bb%bf-of-clion-with-docker/)
+* [Dev-Cpp: A fast, portable, simple, and free C/C++ IDE](https://github.com/Embarcadero/Dev-Cpp/)
+  * [Dev-C++ 윈도우에서 사용 가능한 간단한 C/C++ IDE](https://jhrogue.blogspot.com/2021/06/b-dev-c-cc-ide.html)
 
 # Library
 * [Socket.IO C++](http://socket.io/blog/socket-io-cpp/)
