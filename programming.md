@@ -1261,10 +1261,12 @@ Programming
 * [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
 * [Dark - a new way of building serverless backends. Just code your backend, with no infra, framework or deployment nightmares](https://darklang.com/)
 * [Dataiku 다타이쿠 클라우드 서버 설치 방법 가이드](https://stricky.tistory.com/351) 네이버 클라우드 플랫폼
+* [DigitalOcean – The developer cloud](https://www.digitalocean.com/)
 * Heroku
   * [We are very far from a better Heroku for production apps in a hyper cloud | GitLab](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
 * [HopsFS: 100x Times Faster than AWS S3 - Logical Clocks](https://www.logicalclocks.com/blog/hopsfs-100x-times-faster-than-aws-s3)
 * [Libvirt - The Unsung Hero of Cloud Computing — Vyom](https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html)
+* Linode [Cloud Computing & Linux Servers | Alternative to AWS | Linode](https://www.linode.com/)
 * [Micro 3.0 (M3O) - a platform for cloud native development | Micro](https://micro.mu/blog/2020/11/05/micro-v3-aka-m3o.html)
   * [Why we are building a CLI first PaaS without a web frontend](https://crufter.com/cli-first-paas)
 * nextcloud [클라우드 스토리지: Nextcloud | Varins](https://varins.com/library/server/cloud-storage-nextcloud/)
@@ -1276,6 +1278,7 @@ Programming
 * [rclone: "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files](https://github.com/rclone/rclone)
   * [입 개발 rclone mount 빌드 방법 | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/12/%ec%9e%85-%ea%b0%9c%eb%b0%9c-rclone-mount-%eb%b9%8c%eb%93%9c-%eb%b0%a9%eb%b2%95/)
 * [space-cloud: Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes](https://github.com/spaceuptech/space-cloud)
+* Vultr [SSD VPS Servers, Cloud Servers and Cloud Hosting by Vultr - Vultr.com](https://www.vultr.com/)
 
 # Code Coverage
 * [Writing a Code Coverage Tool](http://ismail.badawi.io/blog/2013/05/03/writing-a-code-coverage-tool/)
