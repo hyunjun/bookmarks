@@ -653,6 +653,7 @@ App
       * [파이썬 외부 라이브러리를 설치해요. 파이썬 개발은 Visiual Studio Code로 하세요. - YouTube](https://www.youtube.com/watch?v=sEFwlGefm6U)
       * [Jupyter Notebooks in Visual Studio Code](https://www.youtube.com/watch?v=FSdIoJdSnig)
       * [Jupyter Notebooks in Visual Studio Code](https://techcommunity.microsoft.com/t5/educator-developer-blog/jupyter-notebooks-in-visual-studio-code/ba-p/1155747)
+      * [Notebooks in VS Code (2021 Demo) - YouTube](https://www.youtube.com/watch?v=TDMFsUEgRZI)
       * [아직도 쥬피터노트북을 사용하시나요? - YouTube](https://www.youtube.com/watch?v=kQHk-sMB5HA)
       * [How to correctly set PYTHONPATH for Visual Studio Code - Stack Overflow](https://stackoverflow.com/questions/53653083/how-to-correctly-set-pythonpath-for-visual-studio-code)
       * [Has VS Code Become the Best IDE for Python? | Young Coder | Matthew MacDonald | Young Coder](https://medium.com/young-coder/has-vs-code-become-the-best-ide-for-python-bf0f92d2aef4)
