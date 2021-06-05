@@ -492,6 +492,8 @@ AWS
 
 # Conference
 * [빠르게 훑어보는 "AWS Hero와 함께하는 re:Invent reCap 온라인 세미나" 후기](https://jybaek.tistory.com/888)
+* 한국AWS사용자그룹 데이터사이언스 모임 자료 [datascience-group: AWSKRUG Datascience Small Group](https://github.com/awskrug/datascience-group)
+  * [데이터사이언스 없이 추천시스템 만들기 - 디큐 :: 제39회 AWSKRUG DataScience모임 - YouTube](https://www.youtube.com/watch?v=bOjE3IWYSS8)
 * [AWS Community Day online 2020 - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu)
 * [beNX: Architecture Changes to Handle Massive Peak Traffic - YouTube](https://www.youtube.com/watch?v=cIqVilu7KUM) event driven, auto scaling
 * DevDay
