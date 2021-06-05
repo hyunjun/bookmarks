@@ -3030,6 +3030,7 @@ Python
 * [NeuPy - Neural Networks in Python](http://neupy.com/)
 * [Neural Doodle - Use a deep neural network to borrow the skills of real artists and turn your two-bit doodles into masterpieces](https://github.com/alexjc/neural-doodle)
 * [nonoCAPTCHA: An asynchronized Python library to automate solving ReCAPTCHA v2 using audio](https://github.com/mikeyy/nonoCAPTCHA)
+* notion-py [파이썬에서 노션 API를 사용하여 뉴스 크롤링한 정보를 노션에 업로드하기 (notion-py)](https://butter-shower.tistory.com/189)
 * [notion-sdk-py](https://github.com/Blue-Hope/notion-sdk-py)
 * [Numba](http://numba.pydata.org/)
   * [Optimizing Python in the Real World: NumPy, Numba, and the NUFFT](https://jakevdp.github.io/blog/2015/02/24/optimizing-python-with-numpy-and-numba/)
