@@ -132,6 +132,8 @@ C#
   * [C# - Polly를 사용하여 탄력적인 응용 프로그램 만들기 - jacking75](https://jacking75.github.io/NET_lib_polly/)
 * [SerialQueue - C# Implementation of a SerialQueue in the style of Apple's Grand Central Dispatch queues](https://github.com/borland/SerialQueue)
 * [SparkCLR adds C# language binding to Apache Spark enabling the implementation of Spark driver code and data processing operations in C#](https://github.com/Microsoft/SparkCLR)
+* [StyleCopAnalyzers: An implementation of StyleCop rules using the .NET Compiler Platform](https://github.com/DotNetAnalyzers/StyleCopAnalyzers)
+  * [C# - StyleCop.Analyzers를 도입하여 코드 정리하기 - jacking75](https://jacking75.github.io/NET_csharp_StyleCop_Analyzers/)
 * [Symbolism, a computer algebra library for C#](https://github.com/dharmatech/Symbolism/)
   * [physics problem using Symbolism](https://gist.github.com/dharmatech/a5e74ef03d98b3ff1c45)
 * [Uno Platform](https://platform.uno/)
