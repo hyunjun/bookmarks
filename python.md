@@ -1314,6 +1314,7 @@ Python
   * [Working with XML tree data in Python](https://hackingandslacking.com/dealing-with-xml-in-python-b577630294b0)
   * [박피디의 게임 개발 이야기 : Cubase drm xml 포멧 파일을 단순한 text 포멧으로 변경하는 python 코드](http://parkpd.egloos.com/4186280) beautifulsoup
   * [박피디의 게임 개발 이야기 : Cubase 드럼맵 파일을 drm <-> text 형태로 변환하는 파이썬 코드](http://parkpd.egloos.com/4190073)
+  * [XML & ElementTree || Python Tutorial || Learn Python Programming - YouTube](https://www.youtube.com/watch?v=j0xr0-IAqyk)
 * yield
   * [Python의 yield 키워드 알아보기](https://tech.ssut.me/2017/03/24/what-does-the-yield-keyword-do-in-python/)
   * [Python의 Generator와 yield 키워드](Python의 Generator와 yield 키워드)
