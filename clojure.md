@@ -637,6 +637,7 @@ Clojure
   * [클로저 소개 - 제6회 리스프 세미나 발표](https://medium.com/happyprogrammer-in-jeju/%ED%81%B4%EB%A1%9C%EC%A0%80-%EC%86%8C%EA%B0%9C-%EC%A0%9C6%ED%9A%8C-%EB%A6%AC%EC%8A%A4%ED%94%84-%EC%84%B8%EB%AF%B8%EB%82%98-%EB%B0%9C%ED%91%9C-dc6700e0821d)
   * [Clojure/conj 2017](https://www.slideshare.net/DarrenKim9/clojureconj-2017-81991879)
 * [Datahike by Christian Weilbach at Bay Area Clojure meetup 2021-03-09 - YouTube](https://www.youtube.com/watch?v=GG-S-xrDS5M)
+* [Every Clojure Talk Ever - Alex Engelberg and Derek Slager - YouTube](https://www.youtube.com/watch?v=jlPaby7suOc)
 * [clojure/conj](http://clojure-conj.org/)
   * [Clojure/conj 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLrl5ie970A24kvti21hGiOf)
   * [Clojure/conj 2016](https://www.youtube.com/playlist?list=PLZdCLR02grLofiMKo0bCeLHZC0_2rpqsz)
