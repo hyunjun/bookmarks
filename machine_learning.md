@@ -650,6 +650,9 @@ Machine Learning
 * [Pydata Berlin April 2021: How to detect silent failures in ML models - YouTube](https://www.youtube.com/watch?v=TE37ROjLdEE)
 * [원티드는 어떻게 AI로 채용 결과를 예측하고 매칭할까? | by 황리건 Reagan Hwang | 원티드 제품 팀블로그 | May, 2021 | Medium](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-ai%EB%A1%9C-%EC%B1%84%EC%9A%A9-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EC%98%88%EC%B8%A1%ED%95%98%EA%B3%A0-%EB%A7%A4%EC%B9%AD%ED%95%A0%EA%B9%8C-7bdcd8840b6b)
 * [Comparing ML as a Service (MLaaS): Amazon AWS, IBM Watson, MS Azure | AltexSoft](https://www.altexsoft.com/blog/datascience/comparing-machine-learning-as-a-service-amazon-microsoft-azure-google-cloud-ai-ibm-watson/)
+* [Using Machine Learning to Predict Value of Homes On Airbnb | by Robert Chang | Airbnb Engineering & Data Science | Medium](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d) 에어비엔비에서의 가격 예측
+* [Using Machine Learning to Improve Streaming Quality at Netflix | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f) 넷플릭스에서 스트리밍 퀄리티 실시간 개선
+* [How we grew from 0 to 4 million women on our fashion app, with a vertical machine learning approach | by Gabriel Aldamiz... | HackerNoon.com | Medium](https://medium.com/hackernoon/how-we-grew-from-0-to-4-million-women-on-our-fashion-app-with-a-vertical-machine-learning-approach-f8b7fc0a89d7) 패션 앱에서 소비자 경험 개선
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -1065,6 +1068,7 @@ Machine Learning
 * [traingenerator: 🧙 A web app to generate template code for machine learning](https://github.com/jrieke/traingenerator)
 * [Tribuo - A Java machine learning library](https://github.com/oracle/tribuo)
   * [오라클, 자바 머신러닝 라이브러리 ‘트리뷰오’ 오픈소스로 공개 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=17811)
+* wandb.ai [Weights & Biases – Developer tools for ML](https://wandb.ai/site) MLOps 인프라
 * [WSO2 Machine Learner: Why would You care?](https://iwringer.wordpress.com/2015/09/25/wso2-machine-learner-why-would-you-care/)
 
 # LinkedIn

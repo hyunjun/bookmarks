@@ -620,7 +620,7 @@ Data Science
   * [CatBoost vs. Light GBM vs. XGBoost](https://www.kdnuggets.com/2018/03/catboost-vs-light-gbm-vs-xgboost.html)
 * [Recommendation System Algorithms](http://www.datasciencecentral.com/profiles/blogs/recommendation-system-algorithms)
 * [인공지능추천시스템 airs 개발기 모델링과 시스템](https://www.slideshare.net/deview/airs-80886207)
-* [Spotify’s Discover Weekly: How machine learning finds your new music](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe)
+* [Spotify’s Discover Weekly: How machine learning finds your new music](https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe) 노래 추천
 * [Introduction to Recommender System. Part 1 (Collaborative Filtering, Singular Value Decomposition)](https://medium.com/@huangkh19951228/introduction-to-recommender-system-part-1-collaborative-filtering-singular-value-decomposition-44c9659c5e75)
   * [Introduction to Recommender System Part 1 정리](https://ugong2san.tistory.com/1885)
 * [Introduction to Recommendation Systems](https://github.com/miguelgfierro/sciblog_support/blob/master/Intro_to_Recommendation_Systems/Intro_Recommender.ipynb)
