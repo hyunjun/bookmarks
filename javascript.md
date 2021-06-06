@@ -1651,6 +1651,7 @@ Javascript
   * [늘씬한 웹 프런트엔드 프레임워크 Svelte 완전정복 4시간+ 정주행 - 스벨트의 모든 것을 한자리에서 알려드립니다 - YouTube](https://www.youtube.com/watch?v=SMatXKHgS1A)
   * [IE에서 스벨트 실행하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/872)
   * [Introduction to Svelte actions - Singapore JS - YouTube](https://www.youtube.com/watch?v=YPX3KvvgDtQ)
+  * [몇가지 리액트와 스벨트 비교 글 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/876)
   * [Flying Monocopter](https://flyingmonocopter.github.io/tags/svelte/)
   * [svelte-weather: 서울시 월별 평균 강수량 (1961~2020) 을 시각화한 자료](https://github.com/huskyhoochu/svelte-weather)
   * [SvelteKit • The fastest way to build Svelte apps](https://kit.svelte.dev/)
