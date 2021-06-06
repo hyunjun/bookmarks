@@ -152,6 +152,7 @@ Java
 * [Faster Charset Decoding | Claes Redestad’s blog](https://cl4es.github.io/2021/02/23/Faster-Charset-Decoding.html)
 * [The Escape of ArrayList.iterator()](http://psy-lob-saw.blogspot.kr/2014/12/the-escape-of-arraylistiterator.html)
 * [07: Java Iterable Vs Iterator differences and know how | Java-Success.com](https://www.java-success.com/%E2%99%A5-java-iterable-vs-iterator-differences-and-know-how/)
+* [java visual vm 으로 메모리 사용량을 간단하게 파악해 봅시다](https://codingdog.tistory.com/entry/java-visual-vm-%EC%9C%BC%EB%A1%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%9F%89%EC%9D%84-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%ED%8C%8C%EC%95%85%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [java switch 문 : string에 대해서 어떻게 쓰는지 예제로 알아봅시다](https://codingdog.tistory.com/entry/java-switch-%EB%AC%B8-string%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%93%B0%EB%8A%94%EC%A7%80-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
@@ -792,6 +793,7 @@ Java
   * 여러가지 GC algorithm 기본 동작 방식 소개
 * [가비지 컬렉션(Garbage Collection)](https://jungwoon.github.io/java,%20gc/2019/07/27/Garbage-Collection/)
 * [Java gc log 분석, 시각화하는 무료 사이트 추천 gceasy.io](https://blog.voidmainvoid.net/213)
+* [java gc log 를 출력해 봅시다](https://codingdog.tistory.com/entry/java-gc-log-%EB%A5%BC-%EC%B6%9C%EB%A0%A5%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [GC Tuning Confessions Of A Performance Engineer](http://www.slideshare.net/MonicaBeckwith/gc-confessions)
 * [Java's new Z Garbage Collector (ZGC) is very exciting](https://www.opsian.com/blog/javas-new-zgc-is-very-exciting/)
 * [**G1: Garbage first garbage collector**](https://b.luavis.kr/server/g1-gc)
