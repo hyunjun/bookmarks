@@ -746,6 +746,7 @@ Apache
 * [Streaming With Probabilistic Data Structures: Why & How | by Eliav Lavi | Riskified Technology | Oct, 2020 | Medium](https://medium.com/riskified-technology/streaming-with-probabilistic-data-structures-why-how-b83b2adcd5d4)
 * [Batch to Real-Time Streams: 8 Years of Event Streaming with Apache Kafka](https://www.confluent.io/blog/batch-to-streams-8-years-of-event-streaming-with-apache-kafka/)
 * [카프카 스트림즈 Exactly-once 설정하는 방법과 내부 동작](https://voidmainvoid.tistory.com/438)
+* [카프카 스트림즈! 대용량, 폭발적인 성능의 실시간 데이터 처리! - YouTube](https://www.youtube.com/watch?v=vKxhPUUEDmM)
 * [Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka](https://github.com/akka/alpakka-kafka)
   * [Alpakka Kafka connector — an open-source Reactive Enterprise Integration library for Java and Scala](https://blog.softwaremill.com/alpakka-kafka-connector-an-open-source-reactive-enterprise-integration-library-for-java-and-scala-c5f954b66787)
   * [Retrying consumer architecture with Alpakkas](https://medium.com/@gabrielgiussi/retrying-consumer-architecture-with-alpakkas-ebd24eda1982)
