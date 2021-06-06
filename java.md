@@ -152,6 +152,7 @@ Java
 * [Faster Charset Decoding | Claes Redestad’s blog](https://cl4es.github.io/2021/02/23/Faster-Charset-Decoding.html)
 * [The Escape of ArrayList.iterator()](http://psy-lob-saw.blogspot.kr/2014/12/the-escape-of-arraylistiterator.html)
 * [07: Java Iterable Vs Iterator differences and know how | Java-Success.com](https://www.java-success.com/%E2%99%A5-java-iterable-vs-iterator-differences-and-know-how/)
+* [java switch 문 : string에 대해서 어떻게 쓰는지 예제로 알아봅시다](https://codingdog.tistory.com/entry/java-switch-%EB%AC%B8-string%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%93%B0%EB%8A%94%EC%A7%80-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
