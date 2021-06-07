@@ -643,6 +643,7 @@ Scala
   * [Learning Scala by building Scala - Lists and Option - Maurício Linhares' ramblings](https://mauricio.github.io/2013/12/25/learning-scala-by-building-scala-lists-part-3.html)
   * [Functional Collections in Scala - YouTube](https://www.youtube.com/watch?v=Y5rPHZaUakg)
   * [Scala collections methods explained using food 😋 - Waris Radji](https://warisradji.com/2021/06/04/scala-collections-methods-explained-using-food/index.html)
+    * [practice - collections methods](https://gist.github.com/hyunjun/3eddbf4ba54b1a603f38e52b78a9b0e6#file-collections_methods-scala)
 * concurrent
   * duration
     * [Rock the JVM | How Does "20 seconds" Work in Scala?](https://rockthejvm.com/blog/215541/20-seconds)
