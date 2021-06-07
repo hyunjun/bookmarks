@@ -309,6 +309,7 @@ PyTorch
   * [fairseq/README.md at master · pytorch/fairseq](https://github.com/pytorch/fairseq/blob/master/examples/wav2vec/README.md)
   * [fairseq/examples/wav2vec at master · pytorch/fairseq](https://github.com/pytorch/fairseq/tree/master/examples/wav2vec)
 * [FastPhotoStyle](https://github.com/nvidia/fastphotostyle)
+* [functorch: functorch is a prototype of JAX-like composable function transforms for PyTorch](https://github.com/facebookresearch/functorch)
 * [Glow - a machine learning compiler and execution engine for various hardware targets](https://github.com/pytorch/glow/)
 * [gpytorch - A highly efficient and modular implementation of Gaussian Processes in PyTorch](https://github.com/cornellius-gp/gpytorch)
 * [HiddenLayer - A lightweight library for neural network graphs and training metrics for PyTorch and Tensorflow](https://github.com/waleedka/hiddenlayer)
