@@ -1895,6 +1895,7 @@ Scala
   * `sbt ++3.0.0! console`
   * [Scala 3 in sbt 1.5 | The Scala Programming Language](https://scala-lang.org/blog/2021/04/08/scala-3-in-sbt.html)
 * [Scala3-migrate: a tool making it easier to migrate to Scala 3 - Scala 3 Release Projects - Scala Contributors](https://contributors.scala-lang.org/t/scala3-migrate-a-tool-making-it-easier-to-migrate-to-scala-3/4446/2)
+* [The road to Scala 3 using scala3-migrate | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=RDY3NMZYWwY)
 * [scodec: Scala combinator library for working with binary data](https://github.com/scodec/scodec)
   * [YOW! Lambda Jam 2020 - Michael Pilquist - Scodec for Scala 3 - YouTube](https://www.youtube.com/watch?v=2eTwf78FJmc)
 
