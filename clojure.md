@@ -365,6 +365,7 @@ Clojure
 * [Tour of our 250k line Clojure codebase – Tech blog](https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/amp/)
 * [Algebraic Effects(-ish Things) in Clojure - lilac.town](https://lilac.town/writing/effects-in-clojure/)
 * [Inspiring a future Clojure editor with forgotten Lisp UX - Shaun Lebron - YouTube](https://www.youtube.com/watch?v=K0Tsa3smr1w)
+* [OSS Clojure-Datalog Databases](https://clojurelog.github.io/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
