@@ -364,6 +364,7 @@ Clojure
 * [This is why people say that in functional programming the order of execution doesn’t matter - Learning Resources - ClojureVerse](https://clojureverse.org/t/this-is-why-people-say-that-in-functional-programming-the-order-of-execution-doesn-t-matter/7737)
 * [Tour of our 250k line Clojure codebase – Tech blog](https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/amp/)
 * [Algebraic Effects(-ish Things) in Clojure - lilac.town](https://lilac.town/writing/effects-in-clojure/)
+* [Inspiring a future Clojure editor with forgotten Lisp UX - Shaun Lebron - YouTube](https://www.youtube.com/watch?v=K0Tsa3smr1w)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
