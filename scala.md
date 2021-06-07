@@ -886,6 +886,7 @@ Scala
     * [A ZIO cheatsheet | alvinalexander.com](https://alvinalexander.com/scala/zio-cheatsheet/)
     * [The ZIO of the Future by John De Goes - YouTube](https://www.youtube.com/watch?v=u3pgyEiu9eU)
     * [Zymposium - Full Stack Development (Part 1) - YouTube](https://www.youtube.com/watch?v=0oz8ZTf-LD0)
+    * [Zymposium - Full Stack Development (Part 2) - YouTube](https://www.youtube.com/watch?v=VqTqFhU9Mrs)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
