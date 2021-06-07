@@ -743,7 +743,6 @@ AWS
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
 * [AWS CodePipeline을 활용한 빌드/배포 자동화](https://urbanbase.github.io/dev/2019/07/02/AWS-CodePipeline.html)
-* [lambda proc - Running a companion process to an AWS Lambda function in go](https://github.com/jasonmoo/lambda_proc)
 * [How We Use AWS Lambda for Rapidly Intensifying Workloads](http://blog.cloudsploit.com/2015/09/15/how-we-use-lambda/)
 * [JAWS is a 100% free and open-source framework for building serverless applications (web, mobile, IoT) using Amazon Web Services' Lambda, API Gateway, and more](https://github.com/jaws-framework/JAWS/blob/master/README.md)
 * [AWS Lambda 를 이용한 테스트 구현](https://blog.awskr.org/running-tests-in-aws-lambda.html)
@@ -848,6 +847,10 @@ AWS
 
 ## Lambda Clojure
 * [native-clojure-lambda: Example project of Clojure + GraalVM Native Image + AWS Lambda container images](https://github.com/luontola/native-clojure-lambda)
+
+## Lambda Go
+* [첫번째 글 - Hello World on API Gateway :: Alden's Dev Story](https://fallwalker.tistory.com/4)
+* [lambda proc - Running a companion process to an AWS Lambda function in go](https://github.com/jasonmoo/lambda_proc)
 
 ## Lambda Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
