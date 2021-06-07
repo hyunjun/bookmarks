@@ -361,6 +361,9 @@ Clojure
 * [What I learned launching my first product, part 2 - Startup in a Month](https://startupinamonth.net/what-i-learned-pt-2/)
 * [What I learned launching my first product, part 3 - Startup in a Month](https://startupinamonth.net/what-i-learned-pt-3/)
 * [Clojure to markdown](https://gist.github.com/genmeblog/14a03bf7ee67f3435376e482e3981759)
+* [This is why people say that in functional programming the order of execution doesn’t matter - Learning Resources - ClojureVerse](https://clojureverse.org/t/this-is-why-people-say-that-in-functional-programming-the-order-of-execution-doesn-t-matter/7737)
+* [Tour of our 250k line Clojure codebase – Tech blog](https://tech.redplanetlabs.com/2021/06/03/tour-of-our-250k-line-clojure-codebase/amp/)
+* [Algebraic Effects(-ish Things) in Clojure - lilac.town](https://lilac.town/writing/effects-in-clojure/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -1228,6 +1231,8 @@ Clojure
 * [clojure - Getting started with clojure | clojure Tutorial](https://riptutorial.com/clojure)
 * [Six years of professional Clojure development - falkoriemenschneider.de](http://www.falkoriemenschneider.de/a__2021-05-10__Six-years-of-professional-Clojure-development.html)
 * [Onboarding for New Clojurians - Athens Research Handbook](https://athensresearch.gitbook.io/handbook/main-stuff/learning-at-athens-academy-education/clojure/onboarding-for-new-clojurians)
+* [(번역) 클로저, 지금 바로 시작합시다! - 1부 | 그린랩스](https://green-labs.github.io/start-your-clojure-project-now-1)
+* [(번역) 클로저, 지금 바로 시작합시다! - 2부 | 그린랩스](https://green-labs.github.io/start-your-clojure-project-now-2)
 
 # Vim
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
