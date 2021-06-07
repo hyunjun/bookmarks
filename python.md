@@ -4507,6 +4507,7 @@ Python
   * [Using Docker Compose to deploy a lightweight Python REST API with a job queue | by Mike Moritz | Medium](https://medium.com/@mike.p.moritz/using-docker-compose-to-deploy-a-lightweight-python-rest-api-with-a-job-queue-37e6072a209b)
   * [FastAPI Authentication Example With OAuth2, JSON Web Tokens and Tortoise ORM - YouTube](https://www.youtube.com/watch?v=6hTRw_HK3Ts)
   * [FastAPI 톺아보기 - 부제: python 백엔드 봄은 온다](https://jybaek.tistory.com/890)
+  * [Fast API 로 3시간만에 추천 서버 만들기 (implicit, docker, gitlabCI)](https://school-of-life.tistory.com/166)
   * [emoji_rank: This is slack bot for emoji ranking](https://github.com/JAY-Chan9yu/emoji_rank)
     * [오픈소스 프로젝트를 만들어본 썰 풉니다! (feat. FastAPI, Slack) :: Jay's Code Factory](https://jay-ji.tistory.com/82)
   * [fastapi-boilerplate: FastAPI Boilerplate](https://github.com/teamhide/fastapi-boilerplate)
