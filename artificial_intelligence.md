@@ -159,6 +159,7 @@ Artificial Intelligence
   * [George Hotz on Comma.AI and the state of self-driving cars](https://www.youtube.com/watch?v=Hxoke1lDJ9w)
 * [DoWhy - a Python library for causal inference that supports explicit modeling and testing of causal assumptions. DoWhy is based on a unified language for causal inference, combining causal graphical models and potential outcomes frameworks https://microsoft.github.io/dowhy ](https://github.com/Microsoft/dowhy)
   * [Introducing DoWhy Microsoft’s Framework for Causal Inference](https://towardsdatascience.com/introducing-dowhy-cc58b75d61ac)
+* [DS2.ai | 혁신가를 위한 AIOps 플랫폼](https://ds2.ai/)
 * Fiber [Uber AI Introduce Fiber, a New Library for Distributed Machine Learning](https://www.infoq.com/news/2020/04/uber-fiber-distributed-ml/)
 * [milvus: An open source embedding vector similarity search engine powered by Faiss, NMSLIB and Annoy](https://github.com/milvus-io/milvus)
   * [Milvus: A big leap to scalable AI search engine - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/milvus-a-big-leap-to-scalable-ai-search-engine)
