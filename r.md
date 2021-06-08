@@ -672,6 +672,8 @@ R
   * [Dacon: 공간정보 탐색적 데이터 분석 경진대회 Shiny 시각화](https://github.com/Unfinishedgod/dacon_jeju)
   * xaringan [파워포인트를 넘어서 - xaringan](https://statkclee.github.io/ds-authoring/seoul_r_xaringan.html)
   * [webrPSM - YouTube](https://www.youtube.com/watch?v=MjzX-DLB0jc) Propensity score matching
+* simplevis [Make ggplot2 Visualisation Easier and Quicker • simplevis](https://statisticsnz.github.io/simplevis/)
+  * [ggplot2 보다 훨씬 쉽고 간편한 visualization library](https://stock79.tistory.com/entry/ggplot2-%EB%B3%B4%EB%8B%A4-%ED%9B%A8%EC%94%AC-%EC%89%BD%EA%B3%A0-%EA%B0%84%ED%8E%B8%ED%95%9C-visualization-library)
 * sp
   * [R에서 sp package 의 proj4string(), spTransform() 함수를 이용한 좌표계 변환 예제](https://lovetoken.github.io/r/2018/04/15/sp_proj4string_spTransform.html)
 * [sparklyr — R interface for Apache Spark](https://blog.rstudio.org/2016/09/27/sparklyr-r-interface-for-apache-spark/)
