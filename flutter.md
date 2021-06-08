@@ -56,6 +56,7 @@ Flutter
 * [Stateful Widget 생명주기](https://brunch.co.kr/@mystoryg/139)
 * [위젯 - Flutter를 이용하여 앱을 개발해 봅시다. 이번 블로그 포스트에서는 Flutter에서 사용되는 위젯에 관해서 알아봅시다.](https://dev-yakuza.posstree.com/ko/flutter/widget/)
 * [Image 위젯 - Flutter를 이용하여 앱을 개발해 봅시다. 이번 블로그 포스트에서는 Flutter에서 이미지를 표시하기 위해 Image 위젯을 사용하는 방법에 대해서 알아봅니다](https://dev-yakuza.posstree.com/ko/flutter/widget/image/)
+* [Snackbar 위젯 - Flutter를 이용하여 앱을 개발해 봅시다. 이번 블로그 포스트에서는 Flutter에서 스낵바를 표시하기 위해 Snackbar 위젯을 사용하는 방법에 대해서 알아봅니다](https://dev-yakuza.posstree.com/ko/flutter/widget/snackbar/)
 * [Building a Cross-Platform Image Classifier with Flutter and TensorFlow Lite](https://heartbeat.fritz.ai/building-a-cross-platform-image-classifier-with-flutter-and-tensorflow-lite-c7789af9b33a)
 * [Flutter Tensorflow Tutorial for Beginners](https://morioh.com/p/5f05517a40a4)
 * [Flutter vs Native vs React-Native: Examining performance](https://medium.com/swlh/flutter-vs-native-vs-react-native-examining-performance-31338f081980)
