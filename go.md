@@ -417,6 +417,7 @@ Go
 * [A command-line fuzzy finder written in Go](https://github.com/junegunn/fzf)
 * [구글 고의 위력을 보여주는 10가지 오픈소스 프로젝트](http://www.itworld.co.kr/news/133382)
 * [A simpler building block for Go CLIs | by Michael Fridman | Medium](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
+* [golang - Go로 만드는 P2P 라이브러리 - jacking75](https://jacking75.github.io/go_lib_p2p/)
 * Android
   * [See Android Go! Go, Android. Go!](http://www.codingvelocity.com/2015/07/23/go-mobile-intro.html)
 * [antibody - A faster and simpler antigen written in Golang. http://antibody.elasticbeanstalk.com ](https://github.com/caarlos0/antibody)
