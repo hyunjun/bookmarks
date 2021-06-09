@@ -192,6 +192,7 @@ Open Source
   * [Why FlatBuffers](https://rwinslow.com/posts/why-flatbuffers/)
   * [Tutorial: Use FlatBuffers in Go](https://rwinslow.com/posts/use-flatbuffers-in-golang/)
 * [Fossies - The "Fossies" Software Archive](http://fossies.org/)
+* [FOSSLight | 오픈 소스 컴플라이언스 관리를 위한 오픈 소스 프로젝트](https://fosslight.org/ko/)
 * [**Github - 오픈소스 기여를 위한 GITHUB 개념정리**](http://guruble.com/?p=116)
 * [Grid - Open sourcing Grid, the Guardian’s new image management service](https://www.theguardian.com/info/developer-blog/2015/aug/12/open-sourcing-grid-image-service)
 * [H3 2012 오픈소스로 개발 실력 쌓기](http://www.slideshare.net/kthcorp/h3-2012-15042338)
