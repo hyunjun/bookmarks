@@ -128,6 +128,7 @@ Bitcoin
 * ["블록체인 기업으로 가는 길" 3일차 - 블록체인 사업](https://jhrogue.blogspot.com/2021/03/3.html)
 * [chia-blockchain Wiki](https://github.com/Chia-Network/chia-blockchain/wiki)
 * [The Limits to Blockchain Scalability](https://vitalik.ca/general/2021/05/23/scaling.html)
+* [블록체인을 어디에 쓸까? 왜 중요하다고 하는걸까?](https://velog.io/@couchcoding/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%B4-%EC%99%9C-%ED%95%B5%EC%8B%AC%EC%9D%BC%EA%B9%8C-%EC%96%B4%EB%94%94%EC%97%90-%EC%93%B8-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C)
 
 ## Blockchain Javascript
 * [자바스크립트로 블록체인 구현하기(입문)-1. 블록체인이란 무엇인가?](https://songseungwon.tistory.com/8)
