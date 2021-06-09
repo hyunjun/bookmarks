@@ -2369,7 +2369,6 @@ Javascript
 * [React Chat Basic Tutorial](https://hackernoon.com/react-chat-basic-tutorial-7bd2af16a57e)
 * [Tutorial: how to deploy a production React app to Heroku](https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-deploy-a-production-react-app-to-heroku-c4831dfcfa08)
 * [React and APIs - Full Tutorial - Hacker News API Application](https://www.youtube.com/watch?v=LN6Dol_fX0w)
-* [How to Build Tetris in React - GameDev Tutorial (with React Hooks!)](https://www.youtube.com/watch?v=ZGOaCxX8HIU)
 * [**컴포넌트 제대로 만들기 | DailyEngineering**](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
 * [React는 왜 React일까? | Dev Log](https://reactiver.dev/where-did-the-name-react-come-from/)
 * [React와 Node.js를 활용한 고객 관리 시스템 개발](http://edu.goorm.io/learn/lecture/11817/react%EC%99%80-node-js%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B3%A0%EA%B0%9D-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EB%B0%9C/lesson/481540/create-react-app%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0) codepen.io, node, express, AWS RDS, material-ui
@@ -2593,9 +2592,6 @@ Javascript
 * [**스프링 부트 + 리액트 개발 셋업 2018**](https://start.goodtime.co.kr/2018/09/%ec%8a%a4%ed%94%84%eb%a7%81-%eb%b6%80%ed%8a%b8-%eb%a6%ac%ec%95%a1%ed%8a%b8-%ea%b0%9c%eb%b0%9c-%ec%85%8b%ec%97%85-2018/)
 * [리액트 프로젝트 코드 스플리팅 정복하기](https://velog.io/@velopert/react-code-splitting)
 * [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap/blob/master/roadmap.png)
-* [React Hook and Recompose](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181029-20181109/20181101_BB_React_hook_and_recompose.md)
-* [About React Hook](https://medium.com/vingle-tech-blog/react-hook-ec3f25c2d8fa)
-* [리액트 훅! 코드를 따라치며 배워보자!](https://www.youtube.com/watch?v=ZRH23R2MlbY)
 * [React 컴포넌트를 커스텀 훅으로 제공하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-securities-frontend-3/)
 * [requestIdleCallback으로 초기 렌더링 시간 14% 단축하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-securities-frontend-4/)
 * [리액트를 처음부터 배워보자. — 01. React.js란 무엇인가? - react-native-seoul](https://medium.com/react-native-seoul/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-01-react-js%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-ad8ba252ee28)
@@ -2882,6 +2878,11 @@ Javascript
 * [React Hooks 10분만에 배우기 (useState, useEffect, customHooks) - YouTube](https://www.youtube.com/watch?v=uStypvlzi8w)
 * [리액트 훅스(react hooks)와 험블 객체 패턴(humble object pattern) 그리고 테스트 | Coderifleman's blog](https://blog.coderifleman.com/2021/04/21/react-hooks-and-humble-object-pattern-and-tests/)
 * [Lorenz Weiß · Five common mistakes writing react components (with hooks) in 2020](https://www.lorenzweiss.de/common_mistakes_react_hooks/)
+* [How to Build Tetris in React - GameDev Tutorial (with React Hooks!)](https://www.youtube.com/watch?v=ZGOaCxX8HIU)
+* [React Hook and Recompose](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181029-20181109/20181101_BB_React_hook_and_recompose.md)
+* [About React Hook](https://medium.com/vingle-tech-blog/react-hook-ec3f25c2d8fa)
+* [리액트 훅! 코드를 따라치며 배워보자!](https://www.youtube.com/watch?v=ZRH23R2MlbY)
+* [react-action-listener: Middleware, React hook which allows making side effect and listening actions of Context or Redux](https://github.com/qkreltms/react-action-listener)
 
 ## React Native
 * [리액트 네이티브 튜토리얼](https://realhanbit.co.kr/books/30/pages/338/preview)
