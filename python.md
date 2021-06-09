@@ -3976,6 +3976,7 @@ Python
 
 # Conference
 * [OctopusCon: Python Edition](https://octopuscon.com/events/octopuscon-python-edition/)
+* [When Python Practices Go Wrong - YouTube](https://www.youtube.com/watch?v=ZdVgwhHXMpE)
 
 ## Conference EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
