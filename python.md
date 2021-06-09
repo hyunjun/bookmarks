@@ -244,6 +244,7 @@ Python
 * [10 Best Python Projects of 2018](https://www.youtube.com/watch?v=G0rQ7AEl5LA)
   * Travelling Salesman Problem, System Design Primer, Facial Recognition, WhatWaf, SimpleCoin, Detectron, Vid2Vid, The Algorithms, Pip Env
 * [10 Crazy Cool Project Ideas for Python Developers | by Juan Cruz Martinez | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/10-crazy-cool-project-ideas-for-python-developers-d7efeb0a345)
+* [Top 45 Python Project Ideas for Beginners - Intellipaat](https://intellipaat.com/blog/python-project-ideas-for-beginners/)
 * [파이썬 데이터 검색](http://www.slideshare.net/dahlmoon/20160302-58759476)
 * [Using Python to Parse Spreadsheet Data](https://www.sitepoint.com/using-python-parse-spreadsheet-data/)
 * [Python source code analysis by Prashanth Raghu](https://intopython.com/)
