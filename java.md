@@ -674,6 +674,9 @@ Java
 * [A categorized list of all Java and JVM features since JDK 8 to 16 - Advanced Web Machinery](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/)
 * [Java 16 Record to Reduce Boilerplate Code of POJO | CodersTea](https://www.coderstea.com/post/java/java-16-record-to-reduce-boilerplate-code-of-pojo/)
 
+# Java17
+* [자바 17이 다가오면... - DEV Community](https://dev.to/composite/17-62e)
+
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
 * [**여러 개의 JDK를 설치하고 선택해서 사용하기**](https://blog.benelog.net/installing-jdk.html) APT/YUM, update-alternatives / alternatives, Homebrew, Chocolatey, direnv, jEnv, SDKMAN, jabba
