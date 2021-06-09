@@ -131,7 +131,9 @@ Flutter
 
 # Library
 * [디자인을 Flutter코드로 변환 - supernova툴](https://open-support.tistory.com/entry/%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-Flutter%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%B3%80%ED%99%98-supernova%ED%88%B4)
-* Moor [가장쉽게 SQLite 를 사용하는 방법 Moor! - Part 1 - YouTube](https://www.youtube.com/watch?v=Bs8K7SLk2oY)
+* Moor
+  * [가장쉽게 SQLite 를 사용하는 방법 Moor! - Part 1 - YouTube](https://www.youtube.com/watch?v=Bs8K7SLk2oY)
+  * [가장쉽게 SQLite 를 사용하는 방법 Moor! - Part 2 Join, Migration - YouTube](https://www.youtube.com/watch?v=zDdXiHkwJXI)
 * GetX
   * [Flutter 개발자는 무조건 알아야 하는 GetX #1-Navigation - YouTube](https://www.youtube.com/watch?v=wgJItCEL7hk)
   * [GetX 상태관리 이 영상 하나면 끝! #2 - State Management - YouTube](https://www.youtube.com/watch?v=CoFLunStYdU)
