@@ -882,6 +882,7 @@ Python
   * [Python 의 Filter / Map / Reduce 그리고 Comprehension](http://seorenn.blogspot.com/2018/08/python3-filter-map-reduce.html)
   * [A quick yet complete tour of lists in Python3 in just seven minutes](https://medium.freecodecamp.org/a-quick-yet-complete-tour-of-lists-in-python3-in-just-seven-minutes-437e615110d0)
   * [How slow is python list.pop(0) ?. An empirical study on python list.pop… | by Hongjian Wang | Medium](https://medium.com/@shuangzizuobh2/how-well-do-you-code-python-9bec36bbc322)
+  * [파이썬의 list.pop(0)을 쓰면 안 되나요?](https://codingdog.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-listpop0%EC%9D%84-%EC%93%B0%EB%A9%B4-%EC%95%88-%EB%90%98%EB%82%98%EC%9A%94) collections.deque가 가장 빠르다는 이야기
 * [logging](https://docs.python.org/3/howto/logging.html)
   * DEBUG < INFO < WARNING < ERROR < CRITICAL, 기본 설정은 WARNING
   * [practice - experiences](https://gist.github.com/hyunjun/328f746f119564d16269a6e890969126)
