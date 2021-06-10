@@ -607,6 +607,7 @@ Scala
 * [Objects and Companions in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=OI3F_fuFYjg)
 * [01A: Scala Class Vs. Object and Companion object interview Q&As | Java-Success.com](https://www.java-success.com/01a-scala-class-vs-object-and-companion-object-interview-qas/)
 * [Programming with Functions #7: Expressions over statements - YouTube](https://www.youtube.com/watch?v=1fOQGGK0Ydo)
+* [A case study of flatMap vs flatten](https://systemfw.org/posts/flatten.html)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -1083,6 +1084,9 @@ Scala
 * [Typelevel Summit Boston, March 2018](https://www.youtube.com/playlist?list=PL_5uJkfWNxdl-qzhg3yjg7p5HPw_oHfpu)
 * [SF Scala: Kiar - Key/Value store with MVCC based Transaction System By Sandeep Virdi - YouTube](https://www.youtube.com/watch?v=0XJuq3DYqF8)
 
+# Debugging
+* [Debugging and Observing Your Scala Code · Terse Systems](https://tersesystems.com/blog/2021/06/06/debugging-and-observing-your-scala-code/)
+
 # IntelliJ
 * [INTELLIJ SCALA PLUGIN BLOG](https://blog.jetbrains.com/scala/)
 * [Scala로 만들어본 이름점](https://jsideas.net/name_chemistry/)
@@ -1207,6 +1211,11 @@ Scala
     * [Cats Effect 3 - Introduction to Fibers - Rock the JVM Blog](https://blog.rockthejvm.com/cats-effect-fibers/)
     * [Daniel Spiewak - Cats Effect 3 - YouTube](https://www.youtube.com/watch?v=JrpFFRdf7Q8)
     * [Death of Blocker: blocking in Cats Effect 3 - Scala tutorial - YouTube](https://www.youtube.com/watch?v=Tq9rBvvPMcE)
+    * [Migrating a functional app to Cats Effect 3 - Scala tutorial - YouTube](https://www.youtube.com/watch?v=97HCUZwRpQA)
+    * [Cats: Essential Type Class Hierarchy, Explained - Rock the JVM Blog](https://blog.rockthejvm.com/cats-typeclass-hierarchy/)
+    * [Programs as Values, Part I : Intro & Compositionality](https://systemfw.org/posts/programs-as-values-I.html)
+    * [Programs as Values, Part II : Doing & Being](https://systemfw.org/posts/programs-as-values-II.html)
+    * [Programs as Values, Part III: Explicit Control Flow](http://systemfw.org/posts/programs-as-values-III.html) cats.effetcs.IO
     * [herding cats — Effect system](https://eed3si9n.com/herding-cats/effect-system.html)
   * [Cats Parse](https://slides.com/lewisjkl/cats-parse)
     * [SF Scala: Introduction to Cats Parse By Jeff Lewis - YouTube](https://www.youtube.com/watch?v=wreCg30pyts)
@@ -1866,6 +1875,7 @@ Scala
 * [Scala 3 is here!🎉🎉🎉 | The Scala Programming Language](https://www.scala-lang.org/blog/2021/05/14/scala3-is-here.html)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=vUCWhWFWGFo) strictEquality opaque type enum
 * [Top Level Exports in #Scala3 - YouTube](https://www.youtube.com/watch?v=dh61X4GZmvg)
+* [Favor composition over inheritance in #Scala3 with exports! - YouTube](https://www.youtube.com/watch?v=s1MLX9OMuSg)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
