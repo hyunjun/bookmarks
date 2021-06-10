@@ -1184,6 +1184,8 @@ Programming
 * [더북(TheBook): 인크립션: 실용주의 암호화](https://thebook.io/006879/)
 * [더북(TheBook): 심플 소프트웨어](https://thebook.io/006994/) 9~17장만
 * [더북(TheBook): 마이크로서비스 패턴](https://thebook.io/007035/) 1~4장만
+* [컴퓨터 과학 언플러그드](https://statkclee.github.io/unplugged/)
+* [Software Carpentry: 소프트웨어 카펜트리 버젼 5.3.](http://statkclee.github.io/swcarpentry-version-5-3-new/)
 * [Top 5 Contemporary Software Engineering Books](https://medium.com/ki-labs-engineering/top-5-contemporary-software-engineering-books-8b5ca6a28e83)
 * [The 25 best programming books of all-time. A data-backed answer](https://www.daolf.com/posts/best-programming-books/)
 * [100+ e-books on popular technologies for free](https://www.syncfusion.com/resources/techportal/ebooks)
