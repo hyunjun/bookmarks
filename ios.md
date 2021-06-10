@@ -99,6 +99,7 @@ iOS
 * [iOS 14.5 - 좌충우돌 앱 추적 투명성(App Tracking Transparency) 적용기](https://www.androidhuman.com/2021-04-28-ios_att_explainer)
 * [All Your Macs Are Belong To Us : Objective-See](https://objective-see.com/blog/blog_0x64.html)
 * [iOS에서의 Audio Session](https://wlaxhrl.tistory.com/92)
+* [How to Download iOS Simulator (Xcode) in Command Line and Install it](https://gist.github.com/NicholasTD07/3ffbaee9973ae06b5a12)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
