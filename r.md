@@ -379,6 +379,7 @@ R
 * [R 무료 ebook 모음](http://stock79.tistory.com/178)
 * [더북(TheBook): R을 이용한 데이터 처리 & 분석 실무](https://thebook.io/006723/)
 * [더북(TheBook): 모두의 R 데이터 분석](https://thebook.io/080217/)
+* [Software Carpentry: 데이터 과학](https://statkclee.github.io/data-science/)
 * [3 recommended books on learning R](https://www.r-bloggers.com/3-recommended-books-on-learning-r/)
 * [10 great books about R](http://www.datasciencecentral.com/profiles/blogs/10-great-books-about-r-1)
 * [Advanced R by Hadley Wickham](http://adv-r.had.co.nz/)
@@ -451,7 +452,6 @@ R
 * torch [딥러닝 공략집 with R](https://statisticsplaybook.github.io/deeplearning-playbook/)
 
 # Installation
-* [데이터 과학 개발 환경: R+파이썬](https://statkclee.github.io/data-science/ds-languages.html)
 * [Windows Subsystem for Linux (WSL)를 이용하여 Windows에서 Linux 버전 R과 RStudio 사용하기](https://ecosang.github.io/blog_kor/miscellaneous/wsl_kor/)
 
 # Java
