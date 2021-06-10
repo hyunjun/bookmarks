@@ -1559,6 +1559,9 @@ Python
 * [더북(TheBook): 모던 파이썬 입문](https://thebook.io/006992/) 2부(7~12장)만
 * [더북(TheBook): 모두의 파이썬: 20일 만에 배우는 프로그래밍 기초(개정판)](https://thebook.io/007026/)
 * [더북(TheBook): 파이썬 코딩의 기술 - 개정 2판](https://thebook.io/080235/) 1~2장만
+* [xwMOOC: 프로그래밍과 문제해결](https://statkclee.github.io/code-perspectives/) 파이썬, 리보그, 러플
+* [RUR-PLE](http://statkclee.github.io/rur-ple/)
+* [리보그와 파이썬 배우기! — 리보그와 함께 파이썬 배우기](http://reeborg.ca/docs/ko/)
 * [FIND THE BEST PYTHON BOOKS](http://pythonbooks.org/)
 * [11 Best Python Books To Read in 2020 - Nextotech](https://nextotech.com/best-python-books-in-2020/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
@@ -1640,6 +1643,9 @@ Python
 * [Python is NOT Single Threaded (and how to bypass the GIL) - YouTube](https://www.youtube.com/watch?v=m2yeB94CxVQ) 여러가지 예제
 
 # Course MOOC Lecture
+* [파이썬 코딩 강의를 제작하였습니다 (6시간 / 기본편) : 클리앙](https://www.clien.net/service/board/lecture/14613889)
+* [모두를 위한 파이썬 (PY4E) 강좌소개 : 부스트코스](https://www.boostcourse.org/cs122)
+  * [www.py4inf.com/translations/KO/book_009_ko.pdf](http://www.py4inf.com/translations/KO/book_009_ko.pdf)
 * [MOOC: Python (파이썬 강좌)](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
 * [K-MOOC: Python](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJvRVv9_je9j3BpHwGHSZHz)
 * [K-MOOC Operation Research : Numpy Part #1](https://www.youtube.com/watch?v=Fm1sWcdL_ak)
@@ -1649,7 +1655,6 @@ Python
 * [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 * [More “Python for Beginners” videos…times two!](https://cloudblogs.microsoft.com/opensource/2020/05/04/more-python-for-beginners-videos/)
 * [Learn Python On AWS Workshop :: Learn Python on AWS](https://learn-to-code.workshop.aws/)
-* [파이썬 코딩 강의를 제작하였습니다 (6시간 / 기본편) : 클리앙](https://www.clien.net/service/board/lecture/14613889)
 
 # Cryptography
 * [Elliptic Curve Cryptography: finite fields and discrete logarithms](http://andrea.corbellini.name/2015/05/23/elliptic-curve-cryptography-finite-fields-and-discrete-logarithms/)
@@ -3979,6 +3984,7 @@ Python
 # Conference
 * [OctopusCon: Python Edition](https://octopuscon.com/events/octopuscon-python-edition/)
 * [When Python Practices Go Wrong - YouTube](https://www.youtube.com/watch?v=ZdVgwhHXMpE)
+* [키노트 파이썬 커뮤니티가 교육에 기여할 수 있는 것들 - 송석리 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=ex2STT6GX-U&t=418s)
 
 ## Conference EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
