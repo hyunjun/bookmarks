@@ -93,6 +93,7 @@ Flutter
 * [flutter doctor --android-licenses 문제 해결하기](https://www.androidhuman.com/2021-06-02-flutter_android_license_noclassdeffound)
 * [Linter - Flutter에서 코드의 스타일을 통일하고, 잠재적인 버그를 찾기 위해 Linter를 설정하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/flutter/linter/)
 * [스택 내비게이션 - Flutter를 이용하여 앱을 개발해 봅시다. 이번 블로그 포스트에서는 Flutter로 생성한 프로젝트에서 스택 내비게이션을 사용하는 방법에 대해서 알아봅니다](https://dev-yakuza.posstree.com/ko/flutter/navigator/stack/)
+* [Drawer 내비게이션 - Flutter를 이용하여 앱을 개발해 봅시다. 이번 블로그 포스트에서는 Flutter로 생성한 프로젝트에서 드로어 내비게이션을 사용하는 방법에 대해서 알아봅니다](https://dev-yakuza.posstree.com/ko/flutter/navigator/drawer/)
 
 # Dart
 * [awesome-dart: A curated list of awesome Dart frameworks, libraries, and software](https://github.com/yissachar/awesome-dart)
