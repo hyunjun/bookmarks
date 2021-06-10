@@ -3531,6 +3531,7 @@ Javascript
 * [ORM typeorm으로 CRUD부터 Active Record와 DataMapper 패턴 다루기](https://blog.naver.com/pjt3591oo/222309864102)
 * [ORM typeorm relation(관계) 설정하기 - 1:N, N:M](https://blog.naver.com/pjt3591oo/222310744958)
 * [TypeORM에서 Camelcase 필드를 Snake 컬럼에 매핑하기](https://jojoldu.tistory.com/568)
+* [1. TypeORM에서 페이징 API 만들기 - 기본페이징 기능](https://jojoldu.tistory.com/579)
 * [express에서 콘솔로 찍은 로그를 HTTP 응답에 붙이기 · /usr/lib/libsora.so](https://libsora.so/posts/express-attach-console-log-to-response/)
 * [타입스크립트로 API 명세 작성하고 서버/클라 stub 생성하기 · /usr/lib/libsora.so](https://libsora.so/posts/stub-from-typescript-api-specification/)
 * [**callbackWaitsForEmptyEventLoop와 AWS Lambda의 함정 · /usr/lib/libsora.so**](https://libsora.so/posts/trap-callback-waits-for-empty-event-loop/) express
