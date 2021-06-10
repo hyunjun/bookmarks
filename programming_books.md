@@ -347,6 +347,7 @@ Programming Books
 * (NOT YET) [Real MySQL - YES24](http://www.yes24.com/Product/Goods/6960931)
 * (NOT YET) [Real MariaDB - YES24](http://www.yes24.com/Product/Goods/12653486?OzSrank=1)
 * (NOT YET) [High Performance MySQL: Optimization, Backups, and Replication: Schwartz, Baron, Zaitsev, Peter, Tkachenko, Vadim: 9781449314286: Amazon.com: Books](https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287)
+* (NOT YET) [독학으로 예제따라 익히는 mysql/mariadb SQL 입문서](https://stricky.tistory.com/469)
 
 # Data Science
 
