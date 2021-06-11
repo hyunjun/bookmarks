@@ -3360,6 +3360,7 @@ Python
 * [ShivyC - C compiler created in Python](https://github.com/ShivamSarodia/ShivyC)
 
 ## Library cache
+* [cache 데코레이터로 최적화하기](https://blog.seulgi.kim/2021/05/python-cache-decorator.html) functools.lru_cache functools.cache
 * [cachetools - Extensible memoizing collections and decorators](http://cachetools.readthedocs.io)
 * functools.lru_cache
   * python 3 [lru_cache](https://gist.github.com/hyunjun/cae504f02fd8a0e140d8)
