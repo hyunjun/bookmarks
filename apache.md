@@ -377,7 +377,6 @@ Apache
 * [Kafka New Producer API를 활용한 유실 없는 비동기 데이터 전송](http://readme.skplanet.com/?p=13042)
 * [Kafka 0.9 Consumer 클라이언트 소개](http://www.popit.kr/kafka-0-9-consumer-%ED%81%B4%EB%9D%BC%EC%9D%B4%EC%96%B8%ED%8A%B8-%EC%86%8C%EA%B0%9C/)
 * [Presto SQL을 이용하여 Kafka topic 데이터 조회하기](http://www.popit.kr/presto-sql%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-kafka-topic-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A1%B0%ED%9A%8C%ED%95%98%EA%B8%B0/)
-* [Presto Kafka connector 개선 실패기](http://www.popit.kr/presto-kafka-connector-%EA%B0%9C%EC%84%A0-%EC%8B%A4%ED%8C%A8%EA%B8%B0/)
 * [New in Cloudera Enterprise 5.8: Flafka Improvements for Real-Time Data Ingest](http://blog.cloudera.com/blog/2016/08/new-in-cloudera-enterprise-5-8-flafka-improvements-for-real-time-data-ingest/)
 * [Kafka Python client 성능 테스트](http://www.popit.kr/kafka-python-client-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
 * [Understanding of Apache Kafka – Part.1](http://bitnine.net/blog-computing/understanding-of-apache-kafka-part-1/)
@@ -406,9 +405,6 @@ Apache
 * [Martin Kleppmann | Kafka Summit London 2019 Keynote | Is Kafka a Database?](https://www.youtube.com/watch?v=BuE6JvQE_CY)
   * [Online Event Processing Achieving consistency where distributed transactions have failed](https://queue.acm.org/detail.cfm?id=3321612)
 * [The First Annual State of Apache Kafka Client Use Survey](https://www.confluent.io/blog/first-annual-state-apache-kafka-client-use-survey/) Kafka와 함께 어떤 언어를 많이 사용하는지와 이유
-* [Splunking Kafka with Kafka Connect](https://lilgreenwein.com/2017/02/16/splunking-kafka-with-kafka-connect/)
-  * Kafka에서 Splunk로 데이터를 전송하기 위한 새로운 Kafka Connect 플러그인을 설명(아키텍처 및 디자인 선택 포함)
-  * Kafka Connect를 설정하여 Kafka topic을 Splunk Heavy Forwarder로 데이터를 스트리밍하는 튜토리얼 포함
 * [Benchmarking Kafka Performance Part 1: Write Throughpu](https://hackernoon.com/benchmarking-kafka-performance-part-1-write-throughput-7c7a76ab7db1)
 * [Securing the Confluent Schema Registry for Apache Kafaka](https://www.confluent.io/blog/securing-confluent-schema-registry-apache-kafka/)
   * Confluent Schema Registry를 보호하고 ZooKeeper 및 Kafka 클러스터 보안 연결하도록 구성하는 방법 소개
@@ -429,16 +425,10 @@ Apache
 * [Upgrading Apache Kafka Clients Just Got Easier](https://www.confluent.io/blog/upgrading-apache-kafka-clients-just-got-easier/)
   * 최신 버전에 Kafka 클라이언트의 순방향/역방향 호환성 추가
   * 이 기능을 사용하는 방법 및 브로커와 다른 버전의 클라이언트를 사용할 경우에 대해 설명
-* The Simplest Useful Kafka Connect Data Pipeline In The World … or Thereabouts
-  * [Part 1](https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-1/)
-    * RDBMS (이 경우 MySQL)에서 변경 데이터 캡처를 위해 Apache Kafka Connect를 사용하는 방법을 예제를 통해 설명
-  * [Part 2](https://www.confluent.io/blog/blogthe-simplest-useful-kafka-connect-data-pipeline-in-the-world-or-thereabouts-part-2/)
-  * [Part 3](https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-3/)
 * [How to Build and Deploy Scalable Machine Learning in Production with Apache Kafka](https://www.confluent.io/blog/build-deploy-scalable-machine-learning-production-apache-kafka/)
   * 미션 크리티컬한 실시간 애플리케이션에서 중앙집중적이고 확장가능한 아키텍처를 어떻게 만들지에 대한 유스케이스에 대해 논의
 * [Benchmarking Message Queue Latency](https://bravenewgeek.com/benchmarking-message-queue-latency/)
 * [How Apache Kafka Inspired Our Platform Events Architecture](https://engineering.salesforce.com/how-apache-kafka-inspired-our-platform-events-architecture-2f351fe4cf63)
-* [Getting started with the Kafka Connect Cassandra Source](https://medium.com/walmartlabs/getting-started-with-the-kafka-connect-cassandra-source-e6e06ec72e97) Ladoop 에서 제공하고 있는 Cassandra Source Connector 사용하여 Kafka로 스트리밍을 설정하는 방법 소개
 * [How to know if Apache Kafka is right for you](https://medium.freecodecamp.org/how-to-know-if-apache-kafka-is-right-for-you-1b2e468d52b9)
 * [URP? Excuse You! The Three Kafka Metrics You Need to Know](https://www.slideshare.net/ToddPalino/urp-excuse-you-the-three-kafka-metrics-you-need-to-know) under replicated partition, request handler, requst time에 대해 모니터링할 수 있는 Kafka 메트릭 설명
 * [Top 5 Things Every Apache Kafka Developer Should Know](https://www.confluent.io/blog/5-things-every-kafka-developer-should-know/)
@@ -563,7 +553,6 @@ Apache
 * [Log Compacted Topics in Apache Kafka](https://towardsdatascience.com/log-compacted-topics-in-apache-kafka-b1aa1e4665a7)
   * Consumer Offset 정보가 `__consumer_offsets`라는 토픽에 저장, 그 토픽의 cleanup.policy가 Compact 로 설정
 * [Log Management in Apache Kafka - Speaker Deck](https://speakerdeck.com/dongjin/log-management-in-apache-kafka)
-* [Kafka Connect S3 Source Connector](https://docs.confluent.io/current/connect/kafka-connect-s3-source/index.html)
 * [kafka 운영 - kafka의 Exception들 - (1)](https://springboot.cloud/35)
 * [Kafka 로그 종류 및 로그 샘플에 대한 설명](https://godway1225.wordpress.com/2019/08/29/kafka-로그-종류-및-로그-샘플에-대한-설명)
 * [kafka 개발 - AdminClient 로 관리 기능 개발하기 - Broker 정보 보기](https://springboot.cloud/36)
@@ -596,7 +585,6 @@ Apache
 * [Kafka-client client.dns.lookup 옵션 정리](https://blog.voidmainvoid.net/331)
 * [기본 개념잡기](https://victorydntmd.tistory.com/344)
 * [Ordering of events in Kafka](https://medium.com/@siddhbhatt/ordering-of-events-in-kafka-e5692663e708)
-* [Connecting Kafka to MinIO. How to connect data being distributed… | by Alex | The Startup | Medium](https://medium.com/swlh/connecting-kafka-to-a-minio-s3-bucket-using-kafka-connect-92d34a81704e)
 * [Why Kafka Is so Fast. Discover the deliberate design… | by Emil Koutanov | The Startup | Medium](https://medium.com/swlh/why-kafka-is-so-fast-bde0d987cd03)
 * [Is Apache Kafka a Database?. Can and should Apache Kafka replace a… | by Kai Waehner | Medium](https://medium.com/@megachucky/is-apache-kafka-a-database-ddc310898f5c)
 * [kafka 아는 척하기 (개발자용) :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/kafka-intro-1-for-developers)
@@ -635,8 +623,6 @@ Apache
 * [Flafka: Apache Flume Meets Apache Kafka for Event Processing](http://blog.cloudera.com/blog/2014/11/flafka-apache-flume-meets-apache-kafka-for-event-processing/)
 * hive
   * [Kafka Storage Handler Module](https://github.com/apache/hive/tree/master/kafka-handler)
-* [kafka-connect-datagen: Connector that generates data for demos](https://github.com/confluentinc/kafka-connect-datagen)
-  * [kafka-connect-datagen 커넥터로 테스트 데이터 생성하기](https://always-kimkim.tistory.com/entry/kafka-develop-kafka-connect-datagen)
 * [Kafka Manager - A tool for managing Apache Kafka](https://github.com/yahoo/kafka-manager)
   * [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
   * [Kafka Manager Consumer Lag Exporter](https://github.com/thinker0/kafka-manager-consumer-lag-exporter)
@@ -747,9 +733,6 @@ Apache
 * [Batch to Real-Time Streams: 8 Years of Event Streaming with Apache Kafka](https://www.confluent.io/blog/batch-to-streams-8-years-of-event-streaming-with-apache-kafka/)
 * [카프카 스트림즈 Exactly-once 설정하는 방법과 내부 동작](https://voidmainvoid.tistory.com/438)
 * [카프카 스트림즈! 대용량, 폭발적인 성능의 실시간 데이터 처리! - YouTube](https://www.youtube.com/watch?v=vKxhPUUEDmM)
-* [Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka](https://github.com/akka/alpakka-kafka)
-  * [Alpakka Kafka connector — an open-source Reactive Enterprise Integration library for Java and Scala](https://blog.softwaremill.com/alpakka-kafka-connector-an-open-source-reactive-enterprise-integration-library-for-java-and-scala-c5f954b66787)
-  * [Retrying consumer architecture with Alpakkas](https://medium.com/@gabrielgiussi/retrying-consumer-architecture-with-alpakkas-ebd24eda1982)
 * [brooklin - An extensible distributed system for reliable nearline data streaming at scale](https://github.com/linkedin/Brooklin/)
   * [Open Sourcing Brooklin: Near Real-Time Data Streaming at Scale](https://engineering.linkedin.com/blog/2019/brooklin-open-source)
   * Kafka Connect + MirrorMaker의 대안으로 개발된 범용 Framework. Scalable할 뿐만 아니라 Kafka 외에도 다양한 Storage / Streaming System 지원
@@ -760,6 +743,25 @@ Apache
   * [DevNation Live: Kafka and Debezium](https://www.slideshare.net/RedHatDevelopers/devnation-live-kafka-and-debezium)
   * [Change Data Streaming Patterns for Microservices with Debezium](https://developers.redhat.com/videos/youtube/QYbXDp4Vu-8)
 * Decaton [Kafka를 이용한 작업 큐 라이브러리 'Decaton' 활용 사례 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/decaton-case-studies/)
+* kafka connect
+  * [Kafka Connect S3 Source Connector](https://docs.confluent.io/current/connect/kafka-connect-s3-source/index.html)
+  * [Presto Kafka connector 개선 실패기](http://www.popit.kr/presto-kafka-connector-%EA%B0%9C%EC%84%A0-%EC%8B%A4%ED%8C%A8%EA%B8%B0/)
+  * [Splunking Kafka with Kafka Connect](https://lilgreenwein.com/2017/02/16/splunking-kafka-with-kafka-connect/)
+    * Kafka에서 Splunk로 데이터를 전송하기 위한 새로운 Kafka Connect 플러그인을 설명(아키텍처 및 디자인 선택 포함)
+    * Kafka Connect를 설정하여 Kafka topic을 Splunk Heavy Forwarder로 데이터를 스트리밍하는 튜토리얼 포함
+  * The Simplest Useful Kafka Connect Data Pipeline In The World … or Thereabouts
+    * [Part 1](https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-1/)
+      * RDBMS (이 경우 MySQL)에서 변경 데이터 캡처를 위해 Apache Kafka Connect를 사용하는 방법을 예제를 통해 설명
+    * [Part 2](https://www.confluent.io/blog/blogthe-simplest-useful-kafka-connect-data-pipeline-in-the-world-or-thereabouts-part-2/)
+    * [Part 3](https://www.confluent.io/blog/simplest-useful-kafka-connect-data-pipeline-world-thereabouts-part-3/)
+  * [Getting started with the Kafka Connect Cassandra Source](https://medium.com/walmartlabs/getting-started-with-the-kafka-connect-cassandra-source-e6e06ec72e97) Ladoop 에서 제공하고 있는 Cassandra Source Connector 사용하여 Kafka로 스트리밍을 설정하는 방법 소개
+  * [Connecting Kafka to MinIO. How to connect data being distributed… | by Alex | The Startup | Medium](https://medium.com/swlh/connecting-kafka-to-a-minio-s3-bucket-using-kafka-connect-92d34a81704e)
+  * [How to Write a Kafka Connector with Proper Configuration Handling](https://www.confluent.io/blog/write-a-kafka-connect-connector-with-configuration-handling/)
+  * [kafka-connect-datagen: Connector that generates data for demos](https://github.com/confluentinc/kafka-connect-datagen)
+    * [kafka-connect-datagen 커넥터로 테스트 데이터 생성하기](https://always-kimkim.tistory.com/entry/kafka-develop-kafka-connect-datagen)
+  * [Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka](https://github.com/akka/alpakka-kafka)
+    * [Alpakka Kafka connector — an open-source Reactive Enterprise Integration library for Java and Scala](https://blog.softwaremill.com/alpakka-kafka-connector-an-open-source-reactive-enterprise-integration-library-for-java-and-scala-c5f954b66787)
+    * [Retrying consumer architecture with Alpakkas](https://medium.com/@gabrielgiussi/retrying-consumer-architecture-with-alpakkas-ebd24eda1982)
 * [kafka-streams-viz - Kafka Streams Topology Visualizer](https://zz85.github.io/kafka-streams-viz/)
 * KSQL
   * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
