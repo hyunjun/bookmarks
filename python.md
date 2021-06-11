@@ -427,6 +427,7 @@ Python
 * [Common anti-patterns in Python - DeepSource](https://deepsource.io/blog/8-new-python-antipatterns/)
 * [**Building a full-text search engine in 150 lines of Python code · Bart de Goede**](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
 * [내가 쓰고 있는 파이썬 버전과 구현체를 알아봅시다](https://codingdog.tistory.com/entry/%EB%82%B4%EA%B0%80-%EC%93%B0%EA%B3%A0-%EC%9E%88%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%B2%84%EC%A0%84%EA%B3%BC-%EA%B5%AC%ED%98%84%EC%B2%B4%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+* [Python at Netflix. By Pythonistas at Netflix, coordinated… | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/python-at-netflix-bba45dae649e)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
