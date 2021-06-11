@@ -392,6 +392,7 @@ AWS
 * [ASG의 Lifecycle Hook 활용하기](https://brunch.co.kr/@alden/65) auto scaling
 * [필요한 만큼 컴퓨터를 자동으로 생성/제거 해주는 AWS Auto Scaling - YouTube](https://www.youtube.com/watch?v=_1Yqk-fLkec)
 * [SQS 메시지 양으로 EB Auto Scale 하기. HBsmith 에서는 QA 테스트를 돌리는 Worker 로서… | by HyeonKu Kang | Hard Boiled Smith Stories | Dec, 2020 | Medium](https://medium.com/hbsmith/sqs-%EB%A9%94%EC%84%B8%EC%A7%80-%EC%96%91%EC%9C%BC%EB%A1%9C-eb-auto-scale-%ED%95%98%EA%B8%B0-70bbfc7b7f5f)
+* [AutoScalingGroup의 Scheduled action 활용하기 :: Alden's Dev Story](https://fallwalker.tistory.com/5)
 * [**천만 사용자를 위한 클라우드 아키텍처, 5년간의 여정**](https://aws.amazon.com/ko/blogs/korea/5-years-scalling-up-to-10-million-users/)
 * [발표, Infrastructure as Code 삽질기 - 완두블로그](https://wani.kr/posts/2018/11/18/infrastructure-as-code/) terraform, ansible, packer
 * [AWS EC2 + GOST(Go Simple Tunnel)를 사용하여 쉽게 Foward Proxy 서버 만들기 - 완두블로그](https://wani.kr/posts/2019/09/25/ec2-gost-easy-forward-proxy/)
