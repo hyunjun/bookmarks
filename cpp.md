@@ -181,6 +181,7 @@ C++
 * [인텔맥 Big Sur에서 oneAPI환경 설정 (intel compiler / MKL / Time Profile) : 클리앙](https://www.clien.net/service/board/cm_mac/16151788)
 * [Papers and Presentations](https://sean-parent.stlab.cc/papers-and-presentations/)
 * [Improving Print Logging with Line Pos Info & Modern C++ - C++ Stories](https://www.cppstories.com/2019/04/file-pos-log/)
+* [C++ 코드 품질 관리 비법 · Present](https://present.do/decks/60bf8f711903093a77d15ef3)
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)

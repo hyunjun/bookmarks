@@ -397,6 +397,7 @@ NoSQL
 * [MongoDB 이해하기 | kciter.so](https://kciter.so/posts/about-mongodb)
 * [MongoDB Database 와 Collection 그리고 Document CRUD 하기](https://developer88.tistory.com/395)
 * [Mongdb 4.4 Index : 네이버 블로그](https://blog.naver.com/tpgpfkwkem0/222286470701)
+* [MongoDB 이해하기 · Present](https://present.do/decks/60bf90bc1903093a77d1606d)
 * [Jepsen: MongoDB 4.2.6](https://jepsen.io/analyses/mongodb-4.2.6)
 * [mongita: "Mongita is to MongoDB as SQLite is to SQL"](https://github.com/scottrogowski/mongita)
   * [Mongita - 임베드 가능한 MongoDB | GeekNews](https://news.hada.io/topic?id=4137)
