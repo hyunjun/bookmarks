@@ -45,6 +45,7 @@ Anomaly Detection
 * [엘라스틱 지도학습으로 IDS 정오탐 구분해보기](https://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1-%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5%EC%9C%BC%EB%A1%9C-ids-%EC%A0%95%EC%98%A4%ED%83%90-%EA%B5%AC%EB%B6%84%ED%95%B4%EB%B3%B4%EA%B8%B0/)
 * [Simple Anomaly Detection Using Plain SQL | Haki Benita](https://hakibenita.com/sql-anomaly-detection)
 * [Anomaly Detection on AWS (Korean) | AWS 교육 및 자격증](https://www.aws.training/Details/Video?id=61180)
+* [실시간 데이터 검증하기 | MakinaRocks Tech Blog](https://makinarocks.github.io/testing-data-in-online-env/)
 
 # Book
 * [엘라스틱서치로 알아보는 이상징후 분석: Data Anomaly Detection](https://play.google.com/store/books/details/강명훈_엘라스틱서치로_알아보는_이상징후_분석?id=eqjDDwAAQBAJ)
