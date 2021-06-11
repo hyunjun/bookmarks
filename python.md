@@ -4497,6 +4497,8 @@ Python
 * [REST API 개발로 알아보는 WSGI, ASGI](https://blog.neonkid.xyz/249) uvicorn
 * [파이썬 기본 모듈로 HTTPS 서버 구축하기 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6163871474)
   * [파이썬 한 줄로 로컬 테스트서버 만들기 - YouTube](https://www.youtube.com/watch?v=HIiL2cP87ec)
+* [Anvil | Build Web Apps with Nothing but Python](https://anvil.works/)
+  * [Python on the front-end? How to build an entire web app with only Python - YouTube](https://www.youtube.com/watch?v=vj0zW_pSZn0)
 * [BlackSheep: Fast ASGI web framework and HTTP client for Python asyncio](https://github.com/RobertoPrevato/BlackSheep)
 * [Brython - A Python 3 implementation for client-side web programming](http://www.brython.info)
   * [파이썬을 웹에서 실행하기 :: 프즈](https://tolovefeels.tistory.com/53)
