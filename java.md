@@ -1585,7 +1585,9 @@ Java
 * [통합 테스트에서 INSERT 쿼리 위한 보조 클래스 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/helper-for-insert-query-in-inttest)
 * [Integration Testing from the Trenches - Nicolas Frankel - Singapore Java User Group - YouTube](https://www.youtube.com/watch?v=BTooPk65XJE)
 * [Step by Step Toward Property Based Testing | LeadingAgile](https://www.leadingagile.com/2018/04/step-by-step-toward-property-based-testing/)
-* ArchUnit [How to test your Java project’s architecture with ArchUnit](https://medium.freecodecamp.org/java-archunit-testing-the-architecture-a09f089585be)
+* ArchUnit [Unit test your Java architecture - ArchUnit](https://www.archunit.org/)
+  * [How to test your Java project’s architecture with ArchUnit](https://medium.freecodecamp.org/java-archunit-testing-the-architecture-a09f089585be)
+  * [ArchUnit - UnitTest로 아키텍처 검사를](https://d2.naver.com/helloworld/9222129)
 * [AssertJ가 JUnit의 assertThat 보다 편리한 이유](https://www.youtube.com/watch?v=zLx_fI24UXM)
 * DBUnit
   * [스프링부트에서 DbUnit 을 이용하여 DB 테스트 해보기](http://woowabros.github.io/experience/2019/11/06/db-unit.html)
