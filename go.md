@@ -287,6 +287,7 @@ Go
 * [Experimenting with generics in Go | by Alexey Soshin | The Startup | Medium](https://medium.com/swlh/experimenting-with-generics-in-go-39ffa155d6a1)
 * [src/runtime/HACKING.md - The Go Programming Language](https://golang.org/src/runtime/HACKING.md)
   * [고언어(Golang) HACKING.md 내용 정리](https://novemberde.github.io/golang/2021/04/05/Golang-HACKING.html)
+* [golang - 특이한 init 함수 - jacking75](https://jacking75.github.io/go_init/)
 * array
   * [The anatomy of Arrays in Go](https://medium.com/rungo/the-anatomy-of-arrays-in-go-24429e4491b7)
   * [Go: Slice and Memory Management](https://medium.com/a-journey-with-go/go-slice-and-memory-management-670498bb52be)
