@@ -101,6 +101,7 @@ Vision
 * [Software Quality Evaluation of Face Recognition APIs & Libraries](https://attachment.fbsbx.com/file_download.php?id=144014609283876&eid=ASuLtcAHSaxC4uBfwTZfMfiV-jvfry-BgHbRpc4M7oiMXmCU9K6SPWCYQPun8biQKlU&inline=1&ext=1443546585&hash=AStC4ePfGZtRqfLg)
 * [지각CAV - 지각 심리학 + Computer (Vision + Audio + Video)](http://psygrammer.github.io/cav/)
 * [Image Processing 101](https://codewords.recurse.com/issues/six/image-processing-101)
+* [Image processing Lecture00, 01 - YouTube](https://www.youtube.com/watch?v=9g0r03TfPfI)
 * [Weep for Graphics Programming](http://adriansampson.net/blog/opengl.html)
 * [CAP6412: Advanced Computer Vision (Spring 2016)](http://www.cs.ucf.edu/~bgong/CAP6412.html)
 * [Intel H.264 Encoding and Decoding](http://ryulib.tistory.com/426)
