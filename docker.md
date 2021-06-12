@@ -497,6 +497,8 @@ Docker
 * [Laurence Tratt: Fast Enough VMs in Fast Enough Time](https://tratt.net/laurie/blog/entries/fast_enough_vms_in_fast_enough_time.html)
 * [MORE AGILE: 구글의 클라우드 컴퓨팅 아키텍처와 오픈소스 컨테이너 프로젝트 Docker](https://www.moreagile.net/2014/05/ContainersAtScale.html) container화의 시작
 * [How Do Kubernetes and Docker Create IP Addresses?! | Dustin Specker](https://dustinspecker.com/posts/how-do-kubernetes-and-docker-create-ip-addresses/)
+* [Reverse Engineering a Docker Image — The Art of Machinery](https://theartofmachinery.com/2021/03/18/reverse_engineering_a_docker_image.html)
+* [File Permissions: the painful side of Docker – Coding Thoughts](https://blog.gougousis.net/file-permissions-the-painful-side-of-docker/)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -978,9 +980,11 @@ Docker
   * 처음에는 etcd에서 성능 저하 발생, 이는 Fluentd와 Datadog의 문제였고 이는 해결했지만 Events API를 ectd 클러스터와 분리하는 것을 추천
   * OpenAI의 특성상 작업을 한곳에 모으려고 kube-scheduler를 수정해서 작업이 한곳에 모였지만 노드에 집중되어서 발생한 문제가 발생
   * 특정 Docker 이미지가 너무 큰 문제로 다른 이미지까지 지연되는 --serialize-image-pulls 설정 문제 등도 알게 됨
+* [IPVS: How Kubernetes Services Direct Traffic to Pods | Dustin Specker](https://dustinspecker.com/posts/ipvs-how-kubernetes-services-direct-traffic-to-pods)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
+* [Kubernetes: 6 open source tools to put your cluster to the test | The Enterprisers Project](https://enterprisersproject.com/article/2021/5/kubernetes-6-open-source-tools-to-test-clusters)
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
   * [컨테이너 기반의 워크플로우 솔루션 argo](http://bcho.tistory.com/1299)
 * [Cilium - Linux Native, API-Aware Networking and Security for Containers](https://cilium.io/)
