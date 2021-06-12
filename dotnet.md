@@ -142,6 +142,10 @@
 * [referencesource.microsoft.com](http://referencesource.microsoft.com/) .NET Framework source code online
 * Uno [Uno - 싱글 코드로 모든 OS를 지원하는 플랫폼 | GeekNews](https://news.hada.io/topic?id=3153)
 
+# TDD Test
+* [.NET에서 테스트 - .NET | Microsoft Docs](https://docs.microsoft.com/ko-kr/dotnet/core/testing/)
+* [playwright-dotnet: .NET version of the Playwright testing and automation library](https://github.com/microsoft/playwright-dotnet)
+
 # [Visual Studio](https://www.visualstudio.com/)
 * [code.visualstudio.com](https://code.visualstudio.com)
 * [code.visualstudio.com/Download](https://code.visualstudio.com/Download)
