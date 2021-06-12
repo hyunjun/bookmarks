@@ -125,6 +125,7 @@ Go
 * [Go's error handling: good and bad](http://openmymind.net/Golangs-Error-Handling-Good-And-Bad/)
 * [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
 * [Designing errors with Go 1.13](https://tech.xing.com/designing-errors-with-go-1-13-81692537457)
+* [golang - golang error handling (Go1.13) - jacking75](https://jacking75.github.io/go_error_handling/)
 * [400 DAYS OF GO](http://www.philipotoole.com/400-days-of-go/)
 * [Calling a Linear Solver C Library From Go](http://davidraff.com/calling-a-linear-programming-solver-from-go)
 * [Some Algorithms implemented in Go](https://github.com/minaandrawos/Algorithms)
