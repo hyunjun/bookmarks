@@ -43,6 +43,11 @@ Game
 * ['둠'의 무서운 악마들은 플레이어를 봐주며 게임 한다](https://www.gamemeca.com/view.php?gid=1444361)
 * [Compute@Edge: porting the iconic video game DOOM | Fastly](https://www.fastly.com/blog/compute-edge-porting-the-iconic-video-game-doom)
 * [Writing a Game From Scratch - Part One | Legion](http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html)
+* [호오 게임을 만드시겠다구요? 1 - YouTube](https://www.youtube.com/watch?v=aloDgutOgKs)
+* [호오 게임을 만드시겠다구요? 2 - YouTube](https://www.youtube.com/watch?v=4mrTc6scLj8)
+* [호오 게임을 만드시겠다구요? 3 - YouTube](https://www.youtube.com/watch?v=MlEq6G6AgLw)
+* [호오 게임을 만드시겠다구요? 4 - YouTube](https://www.youtube.com/watch?v=888dOz12dEo)
+* [호오 게임을 만드시겠다구요? 5 - 게임만들기에서 가장 중요한것 그건 바로 인앱결제 - YouTube](https://www.youtube.com/watch?v=jImbLTOwJoQ)
 
 # Board game
 * [ko.boardgamearena.com](https://ko.boardgamearena.com/)
