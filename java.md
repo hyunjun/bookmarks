@@ -1012,6 +1012,8 @@ Java
   * [Jenkins를 이용해 지속적인 통합(CI)을 적용해보자 part 1 | Recoding Life](https://jane096.github.io/project/why-jenkins-ci/)
   * [Jenkins slave node 구성하기 - Troubleshooting 포함 - Nephtyw’S Programming Stash](https://nephtyws.github.io/devops/jenkins-slave-node/)
   * [제모옥은 젠킨스 조회로직 개선으로 하겠습니다. 근데 이제 비동기를 곁들인 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/04/06/fetch-jenkins-api-async.html)
+  * [Prometheus와 Grafana를 활용한 Jenkins 모니터링 및 Alarm 구현 | by MUSINSA tech | Medium | MUSINSA tech](https://medium.com/musinsa-tech/sre-fe8c7edfb772)
+  * [How a Jenkins Job Broke our Jenkins UI - Slack Engineering](https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
   * [practice - install java11 using jenv](https://gist.github.com/hyunjun/88ad5a8172acf4801c903980ecba074e)
   * [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
