@@ -29,6 +29,8 @@
 * [객체 지향 언어의 두 가지 줄기](http://mohwa.github.io/blog/javascript/2015/10/16/prototype/)
 * [OOP 에서의 클래스와 인스턴스 개념](https://www.youtube.com/watch?v=8B2Wxks5Sig)
 * [Object-Oriented Programming is Bad](https://www.youtube.com/watch?v=QM1iUe6IofM)
+* [The faster you unlearn OOP, the better for you and your software — Dawid Ciężarkiewicz aka `dpc`](https://dpc.pw/the-faster-you-unlearn-oop-the-better-for-you-and-your-software)
+* [Object-Oriented Programming is Garbage: 3800 SLOC example - YouTube](https://www.youtube.com/watch?v=V6VP-2aIcSc)
 * [SOLID 원칙](http://dev-momo.tistory.com/entry/SOLID-%EC%9B%90%EC%B9%99)
 * [SOLID 원칙](https://medium.com/@dev_momo/solid-%EC%9B%90%EC%B9%99-10fba70afc58)
 * [SOLID 원칙](https://hg-pyun.github.io/solid)
@@ -237,6 +239,7 @@
 * [Commonly Used Design Patterns in JavaScript](https://medium.com/better-programming/commonly-used-design-patterns-in-javascript-bfcd91827002)
 * [7 best JavaScript Design Patterns You Should Know](https://morioh.com/p/738f2be15243)
 * [ES6로 구현하는 디자인 패턴 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222351379222)
+* [Design Patterns in JavaScript. Commonly Used Design Patterns With Code… | by Mahdhi Rezvi | Jun, 2021 | Bits and Pieces](https://blog.bitsrc.io/design-patterns-in-javascript-3872f36fe345)
 
 # Python
 * [Python: Design Patterns](https://www.linkedin.com/learning/python-design-patterns)
