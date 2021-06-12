@@ -162,13 +162,6 @@ Web
 * [“To be a good designer you must be a good engineer in every sense: curious, inquisitive](https://www.degreeless.design/) design 자습 자료
 * [2018년, Mozilla Hacks Top 10](http://hacks.mozilla.or.kr/2019/01/mozilla-hacks-10-most-read-posts-of-2018/)
 * [Web workers in action: why they’re helpful, and how you should use them](https://medium.freecodecamp.org/web-workers-in-action-2c9ff33be266)
-* [웹 서버 개발의 Session 전략](https://devhaks.github.io/2019/04/20/session-strategy)
-* [다중 서버 환경에서는 Session은 어떻게 공유하고 관리할까? - 1편 (Scale-Up / Scale-Out이란?)](https://hyuntaeknote.tistory.com/4?category=867120)
-* [**다중 서버 환경에서 Session은 어떻게 공유하고 관리할까? - 2편(Sticky Session, Session Clustering, Session Storage 분리)**](https://hyuntaeknote.tistory.com/6)
-* [다중 서버 환경에서 Session은 어떻게 공유하고 관리할까? - 3편 (Disk based database vs In-Memory database)](https://hyuntaeknote.tistory.com/7?category=867120)
-* [다중 서버 환경에서 Session은 어떻게 공유하고 관리할까? - 4편(Redis vs Memcached)](https://hyuntaeknote.tistory.com/8)
-* [분산서버 환경에서 발생할 수 있는 Session 불일치 문제를 해결해봅시다 (1) - Sticky Session - See One](https://see-one.tistory.com/10)
-* [Sticky Session과 Session Clustering - SMJ Blog](https://smjeon.dev/web/sticky-session/)
 * [How to Fix ERR_CONNECTION_TIMED_OUT error](https://hackernoon.com/how-to-fix-err-connection-timed-out-error-1f1325bfaf8c)
 * [웹 접근성 관련 국내외 자료 모음. This is for everyone who is interested in A11y!](https://github.com/yonguilee/a11y_bookmarks)
 * [**Six steps to building your website from scratch**](https://medium.com/@khollobaugh/https-medium-com-khollobaugh-six-steps-to-building-your-website-from-scratch-a713288cc6d)
@@ -526,6 +519,8 @@ Web
 * [FastCGI — The Forgotten Treasure](http://www.nongnu.org/fastcgi/)
 * [Flight - An event-driven web framework, from Twitter](http://flightjs.github.io/)
 * [gatling - a high performance web server](http://www.fefe.de/gatling)
+* [html5-qrcode: A cross platform HTML5 QR code reader](https://github.com/mebjas/html5-qrcode)
+  * [Html5-QRCode - 크로스플랫폼 QR코드 리더 | GeekNews](https://news.hada.io/topic?id=4397)
 * [HTTP/2 Dashboard BETA - Monitoring the adoption and performance of HTTP/2 on the Web](http://isthewebhttp2yet.com/index.html)
 * [Hurl.it - Make HTTP requests](https://www.hurl.it/)
   * [Hurl - 웹기반 HTTP Req 테스트 도구 | GeekNews](https://news.hada.io/topic?id=4250)
@@ -831,6 +826,16 @@ Web
 # Server
 * [스타트업을 위한 서버 안내서](https://subokim.wordpress.com/2015/07/17/server-for-startup/)
 
+# Session
+* [웹 서버 개발의 Session 전략](https://devhaks.github.io/2019/04/20/session-strategy)
+* [다중 서버 환경에서는 Session은 어떻게 공유하고 관리할까? - 1편 (Scale-Up / Scale-Out이란?)](https://hyuntaeknote.tistory.com/4?category=867120)
+* [**다중 서버 환경에서 Session은 어떻게 공유하고 관리할까? - 2편(Sticky Session, Session Clustering, Session Storage 분리)**](https://hyuntaeknote.tistory.com/6)
+* [다중 서버 환경에서 Session은 어떻게 공유하고 관리할까? - 3편 (Disk based database vs In-Memory database)](https://hyuntaeknote.tistory.com/7?category=867120)
+* [다중 서버 환경에서 Session은 어떻게 공유하고 관리할까? - 4편(Redis vs Memcached)](https://hyuntaeknote.tistory.com/8)
+* [분산서버 환경에서 발생할 수 있는 Session 불일치 문제를 해결해봅시다 (1) - Sticky Session - See One](https://see-one.tistory.com/10)
+* [Sticky Session과 Session Clustering - SMJ Blog](https://smjeon.dev/web/sticky-session/)
+* [openreplay: OpenReplay is developer-friendly, open-source session replay](https://github.com/openreplay/openreplay)
+
 # Test
 * [Easy A/B testing at Nextdoor](https://engblog.nextdoor.com/2015/07/09/ab-testing/)
 * [A/B Testing: The Good, the Bad and the Ugly with Corey Losenegger at Madison+ UX](https://www.youtube.com/watch?v=0dVIjWTI_A0)
@@ -871,7 +876,8 @@ Web
 * [nGrinder - Enterprise level performance testing solution based on The Grinder](https://naver.github.io/ngrinder/)
   * [내 서버는 동시 사용자 몇명일 때 터질까? - Ngrinder를 이용해 성능/부하 테스트](https://tjdrnr05571.tistory.com/17)
   * [내가 만든 서비스는 얼마나 많은 사용자가 이용할 수 있을까? - 2편(nGrinder를 활용한 성능테스트)](https://hyuntaeknote.tistory.com/11)
-  * [nGrinder를 이용한 api 성능테스트 후기 | Recoding Life](https://jane097.github.io/project/ngrinder-performance-test/)
+  * [nGrinder를 이용한 api 성능테스트 후기 | Recoding Life](https://jane096.github.io/project/ngrinder-performance-test/)
+  * [nGrinder 성능테스트 결과를 통한 로그인 성능개선 과정을 알아보자 | Recoding Life](https://jane096.github.io/project/ngrinder-login-refactoring/)
 * [Siege - an http load testing and benchmarking utility](https://www.joedog.org/siege-home/)
 * [vegeta - HTTP load testing tool and library. It's over 9000!](https://github.com/tsenart/vegeta)
 
@@ -941,6 +947,8 @@ Web
 * [From JavaScript to WebAssembly in three steps](https://engineering.q42.nl/webassembly/)
 * [FE개발자의 성장 스토리 08 : WebAssembly 개발기 – tech.kakao.com](https://tech.kakao.com/2021/05/17/frontend-growth-08/)
 * [WASM SYNTH, or, how music taught me the beauty of math](https://timdaub.github.io/2020/02/19/wasm-synth/)
+* [웹어셈블리를 활용한 유망한 프로그래밍 언어 프로젝트 10가지 - ITWorld Korea](https://www.itworld.co.kr/news/196324)
+* [Making JavaScript run fast on WebAssembly](https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
