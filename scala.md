@@ -1876,6 +1876,7 @@ Scala
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=vUCWhWFWGFo) strictEquality opaque type enum
 * [Top Level Exports in #Scala3 - YouTube](https://www.youtube.com/watch?v=dh61X4GZmvg)
 * [Favor composition over inheritance in #Scala3 with exports! - YouTube](https://www.youtube.com/watch?v=s1MLX9OMuSg)
+* [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=M6RP9quyUsU) typeclass Mirror
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
