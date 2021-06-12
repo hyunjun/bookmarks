@@ -597,6 +597,8 @@ App
     * [VS Code Productivity Tips and Tricks - YouTube](https://www.youtube.com/watch?v=lSvP2ahPojg)
     * [VSCode에서 정규표현식(Regex)로 원하는 문자열 치환하기](https://jojoldu.tistory.com/555)
     * [⚙️VSCode 자동 저장 기능 #삽질줄이기 - YouTube](https://www.youtube.com/watch?v=GdebOaCQEcI)
+    * [Deep dive into Visual Studio Code extension security vulnerabilities | Snyk](https://snyk.io/blog/visual-studio-code-extension-security-vulnerabilities-deep-dive/)
+    * [Vulnerable Visual Studio Code extensions impact over 2M Developers | Snyk](https://snyk.io/blog/vulnerable-visual-studio-code-extensions-marketplace/)
     * [codetour: VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor](https://github.com/microsoft/codetour)
     * Debug
       * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
@@ -720,11 +722,12 @@ App
   * [Guppy - A WYSIWYG Mathematics Editor Enter mathematical expressions below (help)](https://daniel3735928559.github.io/guppy/)
   * [8 Best LaTeX Editors](https://beebom.com/best-latex-editors/)
   * [How I'm able to take notes in mathematics lectures using LaTeX and Vim](https://castel.dev/post/lecture-notes-1/)
+  * [Learn LaTeX online for free in beginner friendly lessons | learnlatex.org](https://www.learnlatex.org/en/)
+  * [Web Publications — LaTeX Style](https://goessner.github.io/mdmath/publication.html)
   * [LaTeX.css — Make your website look like a LaTeX document](https://latex.now.sh/)
   * [mathpix - LaTeX, instantly](https://mathpix.com/)
   * [OpenDetex - Improved version of Detex - tool for extracting plain text from TeX and LaTeX sources](https://github.com/pkubowicz/opendetex)
   * [SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor](https://github.com/SwiftLaTeX/SwiftLaTeX)
-  * [Learn LaTeX online for free in beginner friendly lessons | learnlatex.org](https://www.learnlatex.org/en/)
 * [noti - Trigger notifications when a process completes](https://github.com/variadico/noti)
 * [다운로드 없이 SMS 문자만으로 즐기는 “앱”](http://techneedle.com/archives/20495)
 * [타임머신 앱? 카메라 대면 옛날 사진이…](http://techholic.co.kr/archives/31096)
@@ -740,6 +743,8 @@ App
 
 # Google
 * [구글 드라이브 호스팅](https://blog.naver.com/gsuite-reseller/221507513707)
+* [Unattach. Free your Google storage by removing Gmail attachments](https://unattach.app/)
+  * [Unattach - Gmail 첨부파일 지워서 구글 계정 용량 아끼기 | GeekNews](https://news.hada.io/topic?id=4368)
 
 # Hacking
 * [A hacker intercepted your Wi-Fi traffic and stole your contacts, passwords, and financial data. Here’s how](https://hackernoon.com/a-hacker-intercepted-your-wifi-traffic-stole-your-contacts-passwords-financial-data-heres-how-4fc0df9ff152) wifi 보안 관련 이야기
@@ -762,6 +767,7 @@ App
 * [Visualize Your Cloud](https://www.moh.io/mohiomap/welcome.php)
 * [많이들 모른다는 아이폰 메모에 숨겨진 기능](http://1boon.kakao.com/share/iphonememo7)
 * [iOS 기본 앱 대체 서드파티 앱 시리즈 리스트 정리](https://www.clien.net/service/board/cm_iphonien/12508851)
+* [손쉽게 업무시간 절약하는 깨알 아이폰 팁 10가지 - CIO Korea](https://www.ciokorea.com/news/195754)
 * [a-Shell - A text-based user interface for a screen-based platform](https://holzschu.github.io/a-Shell_iOS/)
 
 # Linux
@@ -1342,6 +1348,10 @@ App
 * [stackedit.io](https://stackedit.io/) gist, github(유료)
 * [VNote - A note-taking application that knows programmers and Markdown better](https://vnotex.github.io/vnote)
 * [Zettlr | A Markdown Editor for the 21st Century](https://www.zettlr.com/)
+
+# Novel
+* [novelWriter: novelWriter is an open source plain text editor designed for writing novels. It supports a minimal markdown syntax for formatting text. It is written with Python 3 (3.6+) and Qt 5 (5.3+) for cross-platform support](https://github.com/vkbo/novelWriter)
+* [The Ren'Py Visual Novel Engine](https://www.renpy.org/)
 
 # Office
 * [알아 두면 도움되는 17가지 구글 문서도구 팁](http://www.itworld.co.kr/news/127491)
