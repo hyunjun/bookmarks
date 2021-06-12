@@ -44,6 +44,7 @@ Logging
 * [쏘카에서 로그 파이프라인을 구축](https://www.linkedin.com/posts/mssqldba-joo_%EB%A1%9C%EA%B7%B8-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95-ugcPost-6772078735547097088-Ghfd/)
 * [1주차-로그관리 어떻게 할 것인가? - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=18350094)
 * [Why you shouldn’t log into db. From time to time, I see systems… | by Márton Waszlavik | Medium](https://medium.com/@marton.waszlavik/why-you-shouldnt-log-into-db-e700c2cb0c8c)
+* [What the Fastly outage can teach us about writing error messages | OnlineOrNot](https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages)
 
 # [Fluentd](http://www.fluentd.org/)
 * [분산 로그 & 데이타 수집기 Fluentd](http://bcho.tistory.com/1115)
