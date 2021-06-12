@@ -298,6 +298,8 @@
 * [How I Started Self-Hosting. I hosted my personal cloud on a cluster… | by Will Ho | Better Programming | Medium](https://medium.com/better-programming/how-i-started-self-hosting-df17f0919d64)
 * [Faux86: A portable, open-source 8086 PC emulator for bare metal Raspberry Pi](https://github.com/jhhoward/Faux86)
 * [Lichee Nano Pi - Will it run Debian? - James Dawson](https://blog.jmdawson.co.uk/lichee-nano-pi-will-it-run-debian/)
+* [Raspberry Pi 4 Model B WiFi Ethernet Bridge - Will Haley](https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/)
+* [Manage your Raspberry Pi with Cockpit | Opensource.com](https://opensource.com/article/21/5/raspberry-pi-cockpit)
 
 # Reverse Engineering
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
