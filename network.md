@@ -89,6 +89,7 @@ Network
 * [What happens when you update your DNS?](https://jvns.ca/blog/how-updating-dns-works/)
 * [온라인 협업 도구 노션(Notion) 장애와 DNS 문제 대응 | 44BITS](https://www.44bits.io/ko/post/news--notion-outage-dns-issue)
 * [DNS 레코드를 간단히 알아보아요 : 오픈 인프라 엔지니어 그룹](https://blog.o3g.org/network/dns-record/)
+* [Improving DNS Privacy with Oblivious DoH in 1.1.1.1](https://blog.cloudflare.com/oblivious-dns/)
 * [MaraDNS - a small open-source DNS server](https://maradns.samiam.org/)
   * [MaraDNS - 서비스 테스트에 사용할 수 있는 간단한 Windows 용 DNS 서비스 | GeekNews](https://news.hada.io/topic?id=4001)
 
