@@ -78,6 +78,7 @@ Open Source
 * [Selecting open-source code for LLDP: lldpd vs openlldp - IoT Central](https://www.iotcentral.io/blog/selecting-open-source-code-for-lldp-lldpd-vs-openlldp)
 * [라인의 풀타임 오픈소스 개발팀 이야기 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=QdRCe_IGGzI)
 * [오픈소스를 여행하는 히치하이커를 위한 안내서 · Present](https://present.do/decks/60bf97881903093a77d166ad)
+* [Patents in Open Source](https://google.github.io/opencasebook/patents/)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
