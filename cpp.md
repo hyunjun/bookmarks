@@ -182,6 +182,7 @@ C++
 * [Papers and Presentations](https://sean-parent.stlab.cc/papers-and-presentations/)
 * [Improving Print Logging with Line Pos Info & Modern C++ - C++ Stories](https://www.cppstories.com/2019/04/file-pos-log/)
 * [C++ 코드 품질 관리 비법 · Present](https://present.do/decks/60bf8f711903093a77d15ef3)
+* [Why We Need Build Systems - Sticky Bits - Powered by FeabhasSticky Bits – Powered by Feabhas](https://blog.feabhas.com/2021/06/why-we-need-build-systems/)
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
@@ -288,7 +289,8 @@ C++
   * [CLion 소개 : 네이버 블로그](https://blog.naver.com/ykish/222026766695)
   * [**Full Remote Mode Of CLion With Docker**](https://www.popit.kr/full-remote-mode-of-clion-with-docker/)
   * [**Remote Debug via GDB/gdbserver Of CLion With Docker**](https://www.popit.kr/remote-debug-via-gdbgdbserver%ef%bb%bf-of-clion-with-docker/)
-* [Dev-Cpp: A fast, portable, simple, and free C/C++ IDE](https://github.com/Embarcadero/Dev-Cpp/)
+* Dev-C++ [Home - Dev-C++ Official Website](http://dev-cpp.com/)
+  * [Dev-Cpp: A fast, portable, simple, and free C/C++ IDE](https://github.com/Embarcadero/Dev-Cpp/)
   * [Dev-C++ 윈도우에서 사용 가능한 간단한 C/C++ IDE](https://jhrogue.blogspot.com/2021/06/b-dev-c-cc-ide.html)
 
 # Library
@@ -319,7 +321,6 @@ C++
 * [cpp_reflection - Simple reflection system in C++](https://github.com/Cylix/cpp_reflection)
 * [CppMem: Interactive C/C++ memory model](http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/)
 * [crypto++](http://cryptopp.com/)
-* [Dev-C++ Official Website](https://www.bloodshed.net/) IDE
 * [Discohash - A super fast and simple hash. 5GB/s serial (depending on hardware)](https://github.com/cris691/discohash)
 * [DuckDB - an embeddable SQL OLAP Database Management System](https://github.com/cwida/duckdb)
 * [dwarfs: A fast high compression read-only file system](https://github.com/mhx/dwarfs)
@@ -333,6 +334,7 @@ C++
 * [eznetpp - This is an asynchronous network library for C++ programmers](https://github.com/kangic/eznetpp)
 * [Folly Futures - Futures for C++11 at Facebook](https://code.facebook.com/posts/1661982097368498/futures-for-c-11-at-facebook/)
 * [fmt: A modern formatting library](https://github.com/fmtlib/fmt)
+* [FTXUI: C++ Functional Terminal User Interface](https://github.com/ArthurSonzogni/FTXUI)
 * [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)
 * [Google Robots.txt Parser and Matcher Library](https://github.com/google/robotstxt)
   * [Google's robots.txt Parser is Now Open Source](https://opensource.googleblog.com/2019/07/googles-robotstxt-parser-is-now-open.html)
