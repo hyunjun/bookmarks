@@ -771,6 +771,7 @@ Git
 * [github-artifact-exporter: A set of packages to make exporting artifacts from GitHub easier](https://github.com/github/github-artifact-exporter)
   * GitHub의 데이터를 내보내기 쉽게 도와주는 GitHub에서 만든 패키지. 현재 이슈를 CSV나 JSON으로 export
 * [github-auto-locker: Automatically lock old, closed GitHub issues](https://github.com/presidentbeef/github-auto-locker)
+* [GitHub Awesome: Browse Every Awesome List on GitHub](https://app.polymersearch.com/discover/github-awesome)
 * [GitHub Hovercard - Quick user hovercard for GitHub](https://github.com/Justineo/github-hovercard)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
 * [github.surf](https://github.surf/)
