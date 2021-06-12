@@ -1519,6 +1519,7 @@ Java
 * [Integration Tests with Spring Boot and @SpringBootTest](https://reflectoring.io/spring-boot-test/)
 * [Spring Boot Custom Filters | Filter Registration Bean | Swagger Integration with Filters | WebFilter - YouTube](https://www.youtube.com/watch?v=Bcne87cnzHg)
 * [Connect Spring Boot REST API with Firebase | Cloud Firestore | Google Firebase | RESTFUL CURD API - YouTube](https://www.youtube.com/watch?v=auFJziKIVnM)
+* [Spring Boot Admin Server | Managing & Monitoring Microservices by using Spring Boot Admin Server - YouTube](https://www.youtube.com/watch?v=B2Gf9GRGKn4)
 * [spring-batch-querydsl: 스프링배치와 QuerydslPagingItemReader](https://github.com/jojoldu/spring-batch-querydsl)
 * [testing-spring-boot-applications-masterclass: 🍃 Everything You Need to Know About Testing Spring Boot Applications](https://github.com/rieckpil/testing-spring-boot-applications-masterclass)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
