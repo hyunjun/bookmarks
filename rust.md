@@ -186,6 +186,8 @@
 * [Glommio - A Thread-per-Core Crate for Rust & Linux | Datadog](https://www.datadoghq.com/blog/engineering/introducing-glommio/)
 * [imageflow - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow https://docs.imageflow.io ](https://github.com/imazen/imageflow)
 * [IRON - extensible web framework for rust](http://ironframework.io/)
+* [kalker - A flexible calculator that supports variables and functions defined by the user](https://kalker.strct.net/)
+  * [Kalker/kalk is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals](https://github.com/PaddiM8/kalker)
 * [kiro-editor: A terminal UTF-8 text editor written in Rust 📝🦀](https://github.com/rhysd/kiro-editor)
 * [kiss-ui - A simple UI framework for Rust built on top of IUP (http://webserver2.tecgraf.puc-rio.br/iup/)](https://github.com/cybergeek94/kiss-ui)
 * [LALRPOP is an LR(1) parser generator that emits Rust code](http://smallcultfollowing.com/babysteps/blog/2015/09/14/lalrpop/)
@@ -224,6 +226,7 @@
 * [Rust-Bio - a bioinformatics library for the Rust language](https://rust-bio.github.io/)
 * [rust-doom - A Doom Renderer written in Rust](https://github.com/cristicbz/rust-doom)
 * [rustorm - A simple ORM for rust](https://github.com/ivanceras/rustorm)
+* [rustpad: Efficient and minimal collaborative code editor, self-hosted, no database required](https://github.com/ekzhang/rustpad)
 * [RustPython A Python-3 (CPython >= 3.5.0) Interpreter written in Rust](https://github.com/RustPython/RustPython)
 * [Rust-TodoMVC](http://tcr.github.io/rust-todomvc/)
 * Rusty Machine
