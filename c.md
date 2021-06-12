@@ -538,6 +538,8 @@ C
 # Web
 * [**나만의 웹서버 구현해보기!**](https://velog.io/@seanlion/webserver)
   * [Tiny-Web-Server](https://github.com/seanlion/Tiny-Web-Server)
+* [Althttpd: The Althttpd Webserver](https://sqlite.org/althttpd/doc/trunk/althttpd.md)
+  * [Althttpd - C파일 1개로 된 간단한 웹서버 | GeekNews](https://news.hada.io/topic?id=4418)
 * [darkhttpd: When you need a web server in a hurry](https://github.com/emikulic/darkhttpd)
   * [darkhttpd - C파일 1개로 작성된 초경량 웹서버 | GeekNews](https://news.hada.io/topic?id=4002)
   * [darkhttpd](https://unix4lyfe.org/darkhttpd/)
