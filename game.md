@@ -42,6 +42,7 @@ Game
 * [Collision Detection](http://www.jeffreythompson.org/collision-detection/)
 * ['둠'의 무서운 악마들은 플레이어를 봐주며 게임 한다](https://www.gamemeca.com/view.php?gid=1444361)
 * [Compute@Edge: porting the iconic video game DOOM | Fastly](https://www.fastly.com/blog/compute-edge-porting-the-iconic-video-game-doom)
+* [Writing a Game From Scratch - Part One | Legion](http://feertech.com/legion/software/game/2021/05/28/game-from-scratch-02.html)
 
 # Board game
 * [ko.boardgamearena.com](https://ko.boardgamearena.com/)
@@ -71,6 +72,8 @@ Game
 * PICO-8 [‘판타지 비디오 게임 콘솔’ 게임 엔진! PICO-8 소개 : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=18640668&memberNo=40601392)
 * [Pixelbox.js - A downloadable Game Engine for Windows and macOS](https://pixwlk.itch.io/pixelbox)
 * [PlayCanvas WebGL Game Engine](https://playcanvas.com/)
+* [POKEGB: a gameboy emulator that only plays Pokémon blue](https://binji.github.io/posts/pokegb/)
+  * [POKEGB - 포켓몬블루만 실행 가능한 게임보이 에뮬 개발기 | GeekNews](https://news.hada.io/topic?id=4399)
 * [raylib](https://www.raylib.com/index.html)
 * [Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
 * [TwilioQuest - Discover your power to change the world with code](https://www.twilio.com/quest)
