@@ -38,6 +38,7 @@ AWS
 * [IAM의Policy에대해서](https://dev.classmethod.jp/articles/iam-3/)
 * [IAM에서 태그를 이용해서 Role Switch 해보기](https://dev.classmethod.jp/articles/iam/)
 * [iamlive: Generate a basic IAM policy from AWS client-side monitoring (CSM)](https://github.com/iann0036/iamlive)
+* [혼란스러운 AWS 접근 제어, 데이터 노출의 원인…라이트스핀 - ITWorld Korea](https://www.itworld.co.kr/news/196984)
 * [jungle - AWS operations by cli should be simpler](https://github.com/achiku/jungle)
 * [알파 유저를 위한 AWS 스터디 자료](http://channy.creation.net/blog/1082)
 * [Amazon Web Services in Plain English](https://www.expeditedssl.com/aws-in-plain-english)
