@@ -25,6 +25,7 @@ Programming
 * [안녕 프로그래밍](https://holaxprogramming.com/)
   * [github.com/stunstunstun/awesome-wiki](https://github.com/stunstunstun/awesome-wiki)
 * [awesome-philosophy-compsci: A list of resources that cross the disciplines of Computer Science and Philosophy](https://github.com/glennstreet/awesome-philosophy-compsci)
+* [Best-websites-a-programmer-should-visit: Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [**lists - The definitive list of lists (of lists) curated on GitHub**](https://github.com/jnv/lists)
 * 여러가지 주요 언어를 배울 수 있는 다양한 project link
   * [🤓 Build your own (insert technology here) https://twitter.com/danistefanovic ](https://github.com/danistefanovic/build-your-own-x)
@@ -357,6 +358,7 @@ Programming
 * [기술 부채?](https://velog.io/@juunini/%EA%B8%B0%EC%88%A0-%EB%B6%80%EC%B1%84)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-2. 여러 대의 서버에 흩어져 있는 세션을 어떻게 관리할 수 있을까?](https://chagokx2.tistory.com/93)
+* [사용자가 늘어나게 된다면 서버를 어떻게 확장해야할까? | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p1/) scale up scale out
 * [서버 분산 처리 환경에서 데이터의 불일치를 어떻게 해결할까? Part 1 | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p2/)
 * [서버 분산 처리 환경에서 세션 불일치를 어떻게 해결할까? Part 2 | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p3/)
 * [**무료로 개인 프로젝트 호스팅 하기 | 딥백수**](https://dl4ab.github.io/2020/09/06/free-web-server-for-your-portfolio/)
@@ -510,6 +512,8 @@ Programming
   * [웹페이지 자동화를 위한 캡차(CAPTCHA) 우회 서비스 - 개발자스럽다](https://blog.gaerae.com/2021/04/captcha-solving-service.html)
 * [결제 시스템의 SDK와 API 디자인](https://toss.im/slash-21/sessions/1-7)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
+* dev.file.kiwi 파일 키위 [소개 - ❤️개발자](https://dev.file.kiwi/)
+  * [API 공개- 무료 대용량 파일첨부/전송 | GeekNews](https://news.hada.io/topic?id=4376)
 * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
 * [KAKAO REST API](https://developer-ankiwoong.tistory.com/748)
   * [카카오 장소검색 API 활용안내(Play with Data)](https://www.notion.so/API-Play-with-Data-6156b17b222b4d0ca495a4cc3f2e41c6)
@@ -1091,6 +1095,8 @@ Programming
 * [Case Study: a Decade of Microservices at a Financial Firm](https://www.infoq.com/articles/Microservices-Case-Study/)
 * [대규모 서비스를 위한 Micro Frontend · Present](https://present.do/decks/60bf99021903093a77d16769)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
+* [Crossbar.io](https://crossbar.io/)
+  * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
 * [Edgar: Solving Mysteries Faster with Observability | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
   * [Building Netflix’s Distributed Tracing Infrastructure | by Netflix Technology Blog | Oct, 2020 | Netflix TechBlog](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
 * [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
@@ -1255,6 +1261,7 @@ Programming
 * [Arm 칩부터 엣지컴퓨팅까지··· 7가지 키워드로 짚어본 '클라우드' 진화 - CIO Korea](https://www.ciokorea.com/news/189383)
 * [클라우드 가상화 비율](https://naleejang.tistory.com/245)
 * [‘이투스’ 클라우드 전환 사례: 문의선 CTO 인터뷰 | 슬로우뉴스](https://slownews.kr/80915?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+slownews+%28%EC%8A%AC%EB%A1%9C%EC%9A%B0%EB%89%B4%EC%8A%A4%29)
+* [Rule number one: Avoid vendor lock-in | Sean Boots](https://sboots.ca/2021/05/12/rule-number-one-avoid-vendor-lock-in/) cloud만 해당하는 건 아니지만
 * [aws](aws.md)
 * [azure](azure.md)
 * [Dapr - Distributed Application Runtime](https://dapr.io/)
@@ -1774,6 +1781,8 @@ Programming
 * [kkamagui의 작업실 :: Black Hat USA 2021에 가상 머신 탈출(Virtual Machine Escape) 탐지 및 방어와 관련된 논문이 채택되었습니다](https://kkamagui.tistory.com/944)
 * [Simple Introduction to Public-Key Cryptography and Cryptanalysis: Illustration with Random Permutations - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/simple-introduction-to-cryptography-and-cryptanalysis)
 * [웹 개발을 위해 꼭 알아야하는 보안 공격 · Present](https://present.do/decks/60bf91801903093a77d160ed)
+* [Password Managers](https://lock.cmpxchg8b.com/passmgrs.html)
+* ["사례로 본" 보편적인 공급망 공격 유형 6가지 - ITWorld Korea](https://www.itworld.co.kr/news/196219)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
@@ -1863,6 +1872,7 @@ Programming
 * [A service to help with testing of sending the right emails https://api.unverified.email ](https://github.com/ptek/api.unverified.email)
 * [500 마일 이메일 문제](https://edykim.com/ko/post/500-mile-email-problem/)
 * [Your E-Mail Validation Logic is Wrong](https://www.netmeister.org/blog/email.html)
+* [What's in email tracking links and pixels? | Beng Tan](https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/)
 * [gmail-helper - it will contain different utilities for GMail API over OAuth2](https://github.com/abhishekkr/gmail-helper)
 * IMAP
   * [links of commands](https://gist.github.com/hyunjun/0e730ad6c9a5f2562f6ec6027cc8a95e)
@@ -1913,6 +1923,7 @@ Programming
 # Image
 * [이미지 최적화 자동화하기](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/?hl=ko)
 * [Image Formats, Performance and Cognitive Load](https://www.infoq.com/presentations/image-formats-performance/)
+* [iconvg: IconVG is a compact, binary format for simple vector graphics: icons, logos, glyphs and emoji](https://github.com/google/iconvg)
 * [jpeg.md at master · corkami/formats](https://github.com/corkami/formats/blob/master/image/jpeg.md)
 * [Finally understanding PNG | Compress-Or-Die](https://compress-or-die.com/Understanding-PNG)
 
@@ -2286,6 +2297,7 @@ Programming
   * [5월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/05/b-5-2.html)
   * [5월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/05/b-5.html)
   * [5월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/05/b-5-4.html)
+  * [6월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/06/b-6-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -2566,6 +2578,7 @@ Programming
 * [가상 머신, 거의 모든 IT 혁신의 출발점 - ITWorld Korea](http://www.itworld.co.kr/news/166350)
 * [Operating systems development for Dummies | by Leo Whitehead | Medium](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
 * [From Zero to main(): How to Write a Bootloader from Scratch | Interrupt](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
+* [Why interruptions are frustrating to developers | Tellspin](https://tellspin.app/blog/why-interruptions-are-frustrating-to-developers/)
 * [운영체제: 01. 운영체제가 뭐길래? - YouTube](https://www.youtube.com/watch?v=zGBm37kze9I)
 * [Cosmos (C# Open Source Managed Operating System) - an operating system development kit](https://www.gocosmos.org/)
 * [MIT CSAIL Parallel and Distributed Operating Systems Group](https://pdos.csail.mit.edu/projects/biscuit.html)
@@ -2688,6 +2701,7 @@ Programming
 * [OOP Software Meets Business 2014 마틴 파울러가 말 하는 리팩토링의 절차와 중요성](https://wonit.tistory.com/354)
 * [Refactoring and Design Patterns](https://refactoring.guru/)
 * [**FE개발자의 성장 스토리 05 : 의존관계를 이용해 구조적 리팩토링 포인트 찾기 – tech.kakao.com**](https://tech.kakao.com/2021/01/12/frontend-growth-05/) Angular 대상이지만 언어/프레임워크 관계없이 적용 가능한 좋은 이야기
+* [The world of unstructured programming, i.e. spaghetti code – The Craft of Coding](https://craftofcoding.wordpress.com/2020/02/12/the-world-of-unstructured-programming-i-e-spaghetti-code/)
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
@@ -2784,6 +2798,7 @@ Programming
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [현장에서 사용하는 Software production](https://www.slideshare.net/brotherjinho/software-production-157160056)
 * [How to Add New Features to Your App in Production and Not Ruin Anything](https://medium.com/quick-code/how-to-add-new-features-to-your-app-in-production-and-not-ruin-anything-da2c6dfb6fc2)
+* [Software Engineering at Google: Practices, Tools, Values, and Culture](https://www.infoq.com/articles/software-engineering-google/)
 
 # TDD, Test
 * [TDD is dead. Long live testing](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
@@ -2907,6 +2922,8 @@ Programming
 * [회고: 현업에서 TDD 실천하기 #1](https://brunch.co.kr/@tilltue/69)
 * [회고 : 두번째 프로젝트를 TDD로 진행하며... #2](https://brunch.co.kr/@tilltue/45)
 * [Experiences from Having Developers Write E2E Tests](https://www.infoq.com/news/2021/05/developers-e2e-tests/)
+* [NDC21 "자동테스트는 필수 시스템이 될 것"...엔씨 개발자 5년의 기록 콘텐츠 Enterprise TECH G 기사본문 - 테크M](https://www.techm.kr/news/articleView.html?idxno=84662)
+  * [게임 테스트 자동화 5년의 기록, 리니지M과 리니지2M의 자동테스트 회고](https://ndc.nexon.com/session/sessionView?sessNo=100007275)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
