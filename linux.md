@@ -305,6 +305,7 @@ Linux
   * [**Vagrant와 Ansible로 하는 서버 관리 기초**](https://velog.io/@jonghunbok/Vagrant%EC%99%80-Ansible%EB%A1%9C-%ED%95%98%EB%8A%94-%EC%84%9C%EB%B2%84-%EA%B4%80%EB%A6%AC-%EA%B8%B0%EC%B4%88)
   * [How to install software with Ansible | Opensource.com](https://opensource.com/article/20/9/install-packages-ansible)
   * [How To Write Ansible Playbooks | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/how-to-write-ansible-playbooks)
+  * [How Do Ansible Tags Work? - Percona Database Performance Blog](https://www.percona.com/blog/2020/04/27/how-do-ansible-tags-work/)
 * [Bashible - a deployment/automation tool written in Bash (DSL). Inspired by Ansible. Simplifies things and prevents usual mistakes](https://github.com/mig1984/bashible)
 * [fabric](https://github.com/mathiasertl/fabric)
 * [Pulumi - Modern Infrastructure as Code](https://www.pulumi.com/) python
@@ -316,8 +317,9 @@ Linux
 * [우분투](https://wikidocs.net/book/1002)
 * [더북(TheBook): 리눅스 서버를 다루는 기술](https://thebook.io/006718/)
 * [더북(TheBook): 모던 리눅스 관리](https://thebook.io/007021/) 1~4장만
-* [The Unix Workbench](https://leanpub.com/unix/read_full)
 * [Just Enough Linux](https://leanpub.com/jelinux/read_full)
+* [Linux Terminal Tools 103p PDF | GeekNews](https://news.hada.io/topic?id=4194) [pdf](./pdfs/LPT_LISA.pdf)
+* [The Unix Workbench](https://leanpub.com/unix/read_full)
 
 # Command
 * practice
@@ -543,6 +545,7 @@ Linux
   * [리눅스에서 Grep and , or , not 사용법](http://hamait.tistory.com/809)
   * [Use long flags when scripting |> News and podcasts for developers |> Changelog](https://changelog.com/posts/use-long-flags-when-scripting)
   * [(리눅스 업스킬 도전 #8) 문자열 탐색을 위한 grep](https://jhrogue.blogspot.com/2020/09/8-grep.html)
+  * ripgrep [Finding CSV files that start with a BOM using ripgrep | Simon Willison’s TILs](https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep)
 * `gzip`
   * [Parallel gzip compression with pigz](https://rachaellappan.github.io/pigz/)
   * Pigz [Lei Mao's Log Book – Parallel Gzip - Pigz](https://leimao.github.io/blog/Parallel-Gzip-Pigz/)
@@ -570,6 +573,8 @@ Linux
   * [(리눅스 업스킬 도전 #19) 아이노드와 심볼릭 링크](https://jhrogue.blogspot.com/2020/10/19.html)
   * [(리눅스 업스킬 도전 #21-c) busybox에서 심볼릭 링크를 걸어서 실행할 기능을 알아내는 방법](https://jhrogue.blogspot.com/2020/10/21-c-busybox.html)
 * locate
+* [ls\* Commands Are Even More Useful Than You May Have Thought - nixCraft](https://www.cyberciti.biz/open-source/command-line-hacks/linux-ls-commands-examples/)
+  * `lsscsi lsblk lsb_release lsusb lscpu lspci lshw lshw-gtk ls lsof lsattr lshal lsinitramfs lsmod lspcmcia lswm lsdvd lslk lsmbox lscgroup lsdiff lspst lsdnssec lsmem lsdev lslocks lsar lslogins lsgpu lstopo lsipc`
 * `ls`
   * [Linux ls Command: Sort Files By Size](https://www.cyberciti.biz/faq/linux-ls-command-sort-by-file-size/)
 * `mkdir`
@@ -619,6 +624,7 @@ Linux
   * [How Linux pipes work under the hood](https://brandonwamboldt.ca/how-linux-pipes-work-under-the-hood-1518/) pipe 동작 내부 설명
   * [How are Unix pipes implemented?](https://toroid.org/unix-pipe-implementation)
   * [The beauty of Unix pipelines](https://prithu.xyz/posts/unix-pipeline/)
+  * [The Unix Game](https://unixgame.io)
 * `ps`
   * `ps -T -p <process num>` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
   * `diff <(ps -aux) <(ps -ux)` [linux process substitution이 어떻게 동작하는지 간단하게 알아봅시다](https://codingdog.tistory.com/entry/linux-process-substitution%EC%9D%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EC%A7%80-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
@@ -912,7 +918,7 @@ Linux
   * Links, Lynx, w3m, Googler
 * [Linux Productivity Tools](https://www.usenix.org/sites/default/files/conference/protected-files/lisa19_maheshwari.pdf)
 * [20 productivity tools for the Linux terminal](https://opensource.com/article/20/6/productivity-tools-linux-terminal)
-* [Linux Terminal Tools](pdfs/LPT_LISA.pdf)
+* [Linux Terminal Tools](https://ketancmaheshwari.github.io/pdfs/LPT_LISA.pdf) [pdf](pdfs/LPT_LISA.pdf)
 * [4 Best Terminal Browsers for Linux Command Line](https://itsfoss.com/terminal-web-browsers/) W3M, Lynx, Links2, eLinks
 * [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
 * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
