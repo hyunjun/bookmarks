@@ -1088,6 +1088,7 @@ App
       * → ssh 접속시 ASCII로 경고 보이기
     * > it2prof production && cat /Users/{myID}/production-warning.txt && ssh production01
     * ASCII tool [link 1](https://www.patorjk.com/software/taag/#p=display&f=ANSI%20Shadow&t=PRODUCTION) [link 2](https://www.patorjk.com/software/taag/#p=display&f=Calvin%20S&t=PRODUCTION) [link 3](https://www.patorjk.com/software/taag/#p=display&f=Delta%20Corps%20Priest%201&t=PRODUCTION)
+  * [iterm2 에 한글 자소 분리 문제](https://jojoldu.tistory.com/580)
 * [Mac CLI  OS X command line tools for developers](https://github.com/guarinogabriel/mac-cli)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
