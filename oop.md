@@ -297,6 +297,7 @@
 
 # Typescript
 * [Typescript SOLID (1) - 단일책임원칙(SRP) - 완두블로그](https://wani.kr/posts/2020/03/10/typescript-solid-1-srp/)
+* [Design Patterns in TypeScript - YouTube](https://www.youtube.com/watch?v=D40olxrDw38)
 
 # UML
 * [All the UML you need to know](http://www.cs.bsu.edu/homepages/pvg/misc/uml/)
