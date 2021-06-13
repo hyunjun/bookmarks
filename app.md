@@ -830,6 +830,9 @@ App
 * [맥에서 사용할 최강 무료 오픈소스 앱 12가지](http://www.itworld.co.kr/slideshow/91497)
 * [맥 유저라면 한 번 꼭 써봐야하는 10가지 무료 앱](http://www.itworld.co.kr/slideshow/96010)
 * [국내 맥 사용자에게 추천하는 무료 앱 12선](http://macnews.tistory.com/4267)
+* ['최소 비용에 최대 기능' 맥 사용자를 위한 무료 앱 30가지](http://www.itworld.co.kr/news/150073)
+* [맥북 사면 바로 설치하는 무료 앱 9가지!](https://www.youtube.com/watch?v=q7CGf6bJ8AA) Spectacle, Appcleaner, Weather bug, Itsycal, Keka, Amphetamine, Helium 3, Encrypto, Alfred
+* [맥 사용자라면 바로 설치해야 할 무료 앱 35가지 - ITWorld Korea](https://www.itworld.co.kr/news/176764)
 * [맥에서 아이폰 사진 앨범 일괄 전체 삭제 하는 방법](http://ddiriri.tistory.com/107)
 * [Mac에서 사용하는 툴들](https://github.com/msbaek/memo/blob/master/mac-tools.md)
 * [코드에서 macOS 노티피케이션 센터 띄우기](https://www.haruair.com/blog/4333)
@@ -873,11 +876,7 @@ App
 * [유니버설 클립보드 - 맥북(MacBook)과 아이패드(IPad) 간에 클립보드 공유해서 복사 붙여넣기](https://www.44bits.io/ko/post/clipboard-sharning-between-macbook-and-ipad-using-universal-clipboard)
 * [하나 타자 연습 개발후기](https://medium.com/@jungkim/%ED%95%98%EB%82%98-%ED%83%80%EC%9E%90-%EC%97%B0%EC%8A%B5-%EA%B0%9C%EB%B0%9C%ED%9B%84%EA%B8%B0-1e4391b323bf)
 * [12 Terminal Tips and Tricks Using macOS and HomeBrew](https://medium.com/better-programming/12-terminal-tips-and-tricks-using-macos-and-homebrew-4e89c2ccb2fb)
-* ['최소 비용에 최대 기능' 맥 사용자를 위한 무료 앱 30가지](http://www.itworld.co.kr/news/150073)
-* [맥북 사면 바로 설치하는 무료 앱 9가지!](https://www.youtube.com/watch?v=q7CGf6bJ8AA) Spectacle, Appcleaner, Weather bug, Itsycal, Keka, Amphetamine, Helium 3, Encrypto, Alfred
-* [맥 사용자라면 바로 설치해야 할 무료 앱 35가지 - ITWorld Korea](https://www.itworld.co.kr/news/176764)
 * [URL 별로 상황에 맞는 브라우져 실행하기 - tebica story](https://earlybird.kr/2538) Browserosaurus Finicky
-* [맥북 사면 바로 설치하는 무료 앱 9가지! - YouTube](https://www.youtube.com/watch?v=q7CGf6bJ8AA)
 * [애플 실리콘 M1 맥북 에어에 설치하면 좋을 iOS 앱 5가지 | Open Sea](https://opensea.kr/m1-%EB%A7%A5%EB%B6%81-%EC%97%90%EC%96%B4%EC%97%90-%EC%84%A4%EC%B9%98%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%84-ios-%EC%95%B1-5%EA%B0%80%EC%A7%80/)
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
 * Alfred [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
