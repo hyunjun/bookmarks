@@ -1308,6 +1308,8 @@ Python
 * uuid
   * [timeflake: Timeflake is a 128-bit, roughly-ordered, URL-safe UUID](https://github.com/anthonynsimon/timeflake)
     * [Timeflake - 128bit, 어느정도 정렬된, URL에도 안전한 UUID | GeekNews](https://news.hada.io/topic?id=3633)
+* webbrowser
+  * [코로나 언택트 시대, 우리는 어떻게 수업 시간에 잘 수 있을까요?](https://velog.io/@junhoyeo/%EC%BD%94%EB%A1%9C%EB%82%98-%EC%96%B8%ED%83%9D%ED%8A%B8-%EC%8B%9C%EB%8C%80-%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%88%98%EC%97%85-%EC%8B%9C%EA%B0%84%EC%97%90-%EC%9E%98-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)
 * with, context manager
   * [with 문과 file에 대한 고찰](http://mcchae.egloos.com/11223913)
   * [**Today I Learned: 파이썬 context manager, with구문으로 안전한 리소스 관리를 하자**](https://sjquant.github.io/파이썬-Context-Manager)
