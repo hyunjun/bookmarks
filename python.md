@@ -1921,6 +1921,7 @@ Python
 * [A little hacker news in Django](https://github.com/dduong42/hnews)
 * [Merging Django ORM with SQLAlchemy for Easier Data Analysis](https://hackernoon.com/merging-django-orm-with-sqlalchemy-for-easier-data-analysis-75b85e2cc0b9)
 * [Python Django Web Framework - Full Course for Beginners](https://www.youtube.com/watch?v=F5mRW0jo-U4)
+* [Python Django Course for Beginners 2021 - Learn Django from Scratch in this 100% Free & Tutorial! - YouTube](https://www.youtube.com/watch?v=t7DrJqcUviA)
 * [The Basics of Django Models](https://www.youtube.com/watch?v=r9kT-jm136Q)
 * [Using Django in a Standalone Script](https://www.youtube.com/watch?v=AS01VoC9l5w)
 * [My Favorite Django Packages in 2019](https://vsupalov.com/favorite-django-packages-2019/)
