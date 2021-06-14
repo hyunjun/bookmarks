@@ -247,6 +247,7 @@ Finance
 * [Ehang 주가 분석 with 파이썬](https://seethefuture.tistory.com/63)
 * [How to Create a Mean Reverting Trading Algorithm - YouTube](https://www.youtube.com/watch?v=0PfgqNYTl4Q)
 * [Algorithmic Trading Using Python - Full Course - YouTube](https://www.youtube.com/watch?v=xfzGZB4HhEE)
+* [삼성증권 퀀트모델링 A to Z](https://brunch.co.kr/@gauss92tgrd/23)
 * [binance-trader-c1](https://github.com/yanagi7393/binance-trader-c1)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
