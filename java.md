@@ -195,8 +195,8 @@ Java
   * [7. JAVA - List<VO> <-> List<Map> 양방향 변환](https://kim-jong-hyun.tistory.com/47)
   * [java computeifpresent 메소드 : 이미 있는 키의 대응 값에 새 값을 적용한다](https://codingdog.tistory.com/entry/java-computeifpresent-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%9D%B4%EB%AF%B8-%EC%9E%88%EB%8A%94-%ED%82%A4%EC%9D%98-%EB%8C%80%EC%9D%91-%EA%B0%92%EC%97%90-%EC%83%88-%EA%B0%92%EC%9D%84-%EC%A0%81%EC%9A%A9%ED%95%9C%EB%8B%A4)
   * [java ArrayDeque : 원형큐에 expand를 얹었다](https://codingdog.tistory.com/entry/java-ArrayDeque-%EC%9B%90%ED%98%95%ED%81%90%EC%97%90-expand%EB%A5%BC-%EC%96%B9%EC%97%88%EB%8B%A4)
-  * [java treemap ceilingkey higherkey floorkey lowerkey 를 써 봅시다.](https://codingdog.tistory.com/entry/java-treemap-ceilingkey-higherkey-floorkey-lowerkey-%EB%A5%BC-%EC%8D%A8-%EB%B4%85%EC%8B%9C%EB%8B%A4)
-  * [java collections ncopies : 리스트를 초기화 할 때 이용할 만 하다.](https://codingdog.tistory.com/entry/java-collections-ncopies-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%B4%88%EA%B8%B0%ED%99%94-%ED%95%A0-%EB%95%8C-%EC%9D%B4%EC%9A%A9%ED%95%A0-%EB%A7%8C-%ED%95%98%EB%8B%A4)
+  * [java treemap ceilingkey higherkey floorkey lowerkey 를 써 봅시다](https://codingdog.tistory.com/entry/java-treemap-ceilingkey-higherkey-floorkey-lowerkey-%EB%A5%BC-%EC%8D%A8-%EB%B4%85%EC%8B%9C%EB%8B%A4)
+  * [java collections ncopies : 리스트를 초기화 할 때 이용할 만 하다](https://codingdog.tistory.com/entry/java-collections-ncopies-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%B4%88%EA%B8%B0%ED%99%94-%ED%95%A0-%EB%95%8C-%EC%9D%B4%EC%9A%A9%ED%95%A0-%EB%A7%8C-%ED%95%98%EB%8B%A4)
 * Comparable, Comparator
   * [Java 배열 및 ArrayList를 Comparable과 Comparator를 이용해 정렬하기](http://developer88.tistory.com/75)
   * [java compareTo 메소드 : 순서가 중요한 곳에서 잘 쓰인다](https://codingdog.tistory.com/entry/java-compareTo-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%88%9C%EC%84%9C%EA%B0%80-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B3%B3%EC%97%90%EC%84%9C-%EC%9E%98-%EC%93%B0%EC%9D%B8%EB%8B%A4)
@@ -205,7 +205,7 @@ Java
   * [Java, Android에서 날짜 표현할 때 Calendar, Date 그리고 SimpleDateFormat](https://developer88.tistory.com/16)
   * [양력에서 음력 변환 - ChineseCalendar 클래스가 맞지 않는 이유, 한국과 중국의 음력 차이](https://blog.naver.com/birdparang/221445233118)
   * [DateTimeFormatter에서 년도표시에 yyyy대신 uuuu를 사용해야하는 이유?](https://blog.voidmainvoid.net/288)
-  * [datetime 비교를 어떻게 할 수 있는지 예제 문제로 알아봅시다.](https://codingdog.tistory.com/entry/datetime-%EB%B9%84%EA%B5%90%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EC%A7%80-%EC%98%88%EC%A0%9C-%EB%AC%B8%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+  * [datetime 비교를 어떻게 할 수 있는지 예제 문제로 알아봅시다](https://codingdog.tistory.com/entry/datetime-%EB%B9%84%EA%B5%90%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EC%A7%80-%EC%98%88%EC%A0%9C-%EB%AC%B8%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * Enum
   * [Java Enum 활용기](http://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
   * [Enum값의 사용](http://developer88.tistory.com/148)
@@ -315,7 +315,7 @@ Java
   * ComparableTimSort.countRunAndMakeAscending [java countrunandmakeascending 메소드 : 키가 거꾸로 들어온 듯한 이유](https://codingdog.tistory.com/entry/java-countrunandmakeascending-%EB%A9%94%EC%86%8C%EB%93%9C-%ED%82%A4%EA%B0%80-%EA%B1%B0%EA%BE%B8%EB%A1%9C-%EB%93%A4%EC%96%B4%EC%98%A8-%EB%93%AF%ED%95%9C-%EC%9D%B4%EC%9C%A0)
   * List
     * [java UnmodifiableCollection : 무엇이 다른가요?](https://codingdog.tistory.com/entry/java-UnmodifiableCollection-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80%EC%9A%94)
-    * [java collections reverse : list를 뒤집는 연산을 간단하게 알아봅시다.](https://codingdog.tistory.com/entry/java-collections-reverse-list%EB%A5%BC-%EB%92%A4%EC%A7%91%EB%8A%94-%EC%97%B0%EC%82%B0%EC%9D%84-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+    * [java collections reverse : list를 뒤집는 연산을 간단하게 알아봅시다](https://codingdog.tistory.com/entry/java-collections-reverse-list%EB%A5%BC-%EB%92%A4%EC%A7%91%EB%8A%94-%EC%97%B0%EC%82%B0%EC%9D%84-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
   * regex regular expression
     * ip address
       * [Matching Numeric Ranges with a Regular Expression](http://www.regular-expressions.info/numericranges.html)

@@ -2689,7 +2689,7 @@ Python
   * [How to permanently install a module on Google Colab](https://ayoolafelix.hashnode.dev/how-to-permanently-install-a-module-on-google-colab-ckixqrvs40su044s187y274tc)
   * [코랩에서 구글 모델 서치 구동하기](https://tykimos.github.io/2021/02/25/hello_model_search/)
   * [colab-biolab](https://github.com/hyeshik/colab-biolab)
-  * [colabctl: Google Colaboratory background/task executioner & controller.](https://github.com/TensorTom/colabctl)
+  * [colabctl: Google Colaboratory background/task executioner & controller](https://github.com/TensorTom/colabctl)
   * [colab-tf-utils - Simple GDrive-Based model checkpointing from within Google's Colab service](https://github.com/Zahlii/colab-tf-utils)
   * [DeepLab Demo.ipynb](https://colab.research.google.com/github/tensorflow/models/blob/master/research/deeplab/deeplab_demo.ipynb)
   * [Mecab-ko-for-GoogleColab](https://github.com/SOMJANG/Mecab-ko-for-Google-Colab)

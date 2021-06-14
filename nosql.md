@@ -409,7 +409,7 @@ NoSQL
 * [OmniSciDB (formerly MapD Core) https://www.omnisci.com ](https://github.com/omnisci/omniscidb)
 
 # PlanetScale
-* [Announcing PlanetScale: The database for developers.](https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers)
+* [Announcing PlanetScale: The database for developers](https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers)
 
 # [Pyro: A Spatial-Temporal Big-Data Storage System](https://www.usenix.org/conference/atc15/technical-session/presentation/li_shen)
 
