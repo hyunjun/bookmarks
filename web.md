@@ -985,3 +985,4 @@ Web
 * [Gunicorn 'Green Unicorn' is a Python WSGI HTTP Server for UNIX](http://gunicorn.org/)
   * [**Django memory leak with gunicorn**](https://rayed.com/wordpress/?p=1669)
   * [gunicorn (> = 19.2)는 max_requests과 함께 max_requests_jitter도 사용하자](https://qiita.com/ryu22e/items/2668a2243a5191bcdc78)
+  * [gunicorn 설정의 A to Z – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/5567/)
