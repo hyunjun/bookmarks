@@ -429,7 +429,7 @@ AWS
 * [Observability Workshop](https://observability.workshop.aws/ko/)
 * [LotteOn: BI Platform Using MicroStrategy, Amazon Redshift, and AWS Glue on AWS (Korean) - YouTube](https://www.youtube.com/watch?v=qv9q0sFt6aY)
 * [Data discovery & metadata management (amundsen installation)](https://www.slideshare.net/changunjung/data-discovery-metadata-management-amundsen-installation)
-* [**Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance | talawah.io**](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/)
+* [**Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance | talawah.io**](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/) optimization
 * [Instance Price Guide](https://instaguide.io/)
 * [Serverless patterns | Serverless Land](https://serverlessland.com/patterns)
   * [AWS Serverless Patterns | GeekNews](https://news.hada.io/topic?id=4285)
