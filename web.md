@@ -205,7 +205,7 @@ Web
 * [50 HTML Best Practices & Guidelines to Build Better Web Projects | by Before Semicolon | Feb, 2021 | Medium](https://beforesemicolon.medium.com/50-html-best-practices-guidelines-to-build-better-web-projects-541736511c2d)
 * [37. 월드와이드웹(WWW)의 시작 1 | 만화로 나누는 자유/오픈소스 소프트웨어 이야기](https://joone.net/2021/01/02/37-%ec%9b%94%eb%93%9c%ec%99%80%ec%9d%b4%eb%93%9c%ec%9b%b9www%ec%9d%98-%ec%8b%9c%ec%9e%91-1/)
 * [WebDevChallenge: A hopefully ever-growing list of web-development related challenges](https://github.com/jlem/WebDevChallenge)
-* [Under 1px line](https://hokeydokey.tistory.com/156?fbclid=IwAR04VjNX5KpWrgu7meOEfl68kxbXoIFHKEYIuzWNiJfr--fZc_R1XYx5370)
+* [Under 1px line](https://hokeydokey.tistory.com/156)
 
 # Apache
 * installation
