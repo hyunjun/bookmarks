@@ -2753,7 +2753,9 @@ Programming
       * 엣지 프락시가 오리진에서 객체를 가져올 때는 HTTP/1.1을 쓰고 있었는데 gRPC를 프락시하려면 오리진과의 통신에도 HTTP/2를 사용해야 함
       * gRPC 스트리밍을 지원하려면 반대쪽에서 응답 헤더를 받은 뒤에 바디를 보내야 함
     * 이를 해결하기 위해 gPRC 메시지를 CloudFlare 내부에서만 trailer 헤더 없이 HTTP/1.1 메시지로 변환하는 방법인 gRPC-web을 이용하고 이를 다시 HTTP/2로 변환하고 오리진에서 HTTP/2를 지원할 수 있도록 별도의 오리진 프락시를 구성했다고 함
+  * fly.io [Deploy gRPC and gRPC-Web Services · Fly](https://fly.io/docs/app-guides/grpc-and-grpc-web-services/) gRPC cloud?
   * [geoip](https://github.com/charsyam/geoip)
+  * [ghz · gRPC benchmarking and load testing tool](https://ghz.sh/) protocol이 다르기 때문에 curl등으로 테스트가 불가능하므로 필요한 gRPC를 테스트할 수 있는 도구
 * [RSocket - a next-generation, reactive, layer 5 application communication protocol for building today's modern cloud-native and microservice applications](https://www.netifi.com/rsocket)
   * [Building a High-Performance Networking Protocol for Microservices](https://www.youtube.com/watch?v=WaQZCit5-O4)
   * [Getting Started With RSocket: Spring Boot Server](https://spring.io/blog/2020/03/02/getting-started-with-rsocket-spring-boot-server)
