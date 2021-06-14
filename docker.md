@@ -1051,14 +1051,10 @@ Docker
   * [Kubeflow 파이프라인 운용하기](https://medium.com/daangn/kubeflow-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%9A%B4%EC%9A%A9%ED%95%98%EA%B8%B0-6c6d7bc98c30)
   * [조대협의 블로그 :: Kubeflow pipeline 과 TFX 메모](https://bcho.tistory.com/1378)
   * [krsh: A declarative KubeFlow Management Tool](https://github.com/riiid/krsh)
-    * Kubeflow Pipeline을 선언적으로 관리하기 위한 툴킷입니다. 김완수 님이 주도적으로 만들었어요 ㅎㅎ
-Github Star 눌러주세요!
-https://github.com/riiid/krsh
-Riiid에서는 Kubeflow Pipeline으로 머신러닝 파이프라인을 관리하고 있습니다. Kubeflow Pipeline은 Kubernetes 위에서 파이프라인을 관리하는 머신러닝 분야의 Airflow라고 이해하시면 편해요-
-Kubeflow Pipeline을 배포할 때 매번 빌드를 하고 업로드를 하는 작업을 하게 되는데, 이 과정을 Terraform처럼 `krsh apply` 명령을 cli에서 보내면 자동으로 파이프라인의 형상을 관리할 수 있게 만들었습니다. 
-Infrastructure as Code (IaC)의 철학을 머신러닝 파이프라인에도 적용한 거라 보시면 됩니다.
-구체적인 소개는 다음주 토요일(6/5) MLOps-KR 1회 컨퍼런스에서 김완수 님이 발표해주실 예정입니다.
-Riiid는 오픈소스 컨트리뷰션 활동을 적극적으로 지원하는 문화를 갖고 있습니다. 내부적으로 만든 멋진 라이브러리들을 차례로 공개할 예정입니다.
+    * Kubeflow Pipeline을 선언적으로 관리하기 위한 툴킷
+    * Riiid에서는 Kubeflow Pipeline으로 머신러닝 파이프라인을 관리. Kubeflow Pipeline은 Kubernetes 위에서 파이프라인을 관리하는 머신러닝 분야의 Airflow 역할
+    * Kubeflow Pipeline을 배포할 때 매번 빌드를 하고 업로드를 하는 작업을 하게 되는데, 이 과정을 Terraform처럼 `krsh apply` 명령을 cli에서 보내면 자동으로 파이프라인의 형상을 관리할 수 있게 작성
+    * Infrastructure as Code (IaC)의 철학을 머신러닝 파이프라인에도 적용
 * kubelet API [Attacking Kubernetes clusters using the Kubelet API | by Eduardo Baitello | FAUN](https://faun.pub/attacking-kubernetes-clusters-using-the-kubelet-api-abafc36126ca)
 * kubespray
   * [처음 만난 Kubespray](http://knight76.tistory.com/entry/kubespary-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-Kubespray)
@@ -1081,6 +1077,7 @@ Riiid는 오픈소스 컨트리뷰션 활동을 적극적으로 지원하는 문
   * [How To Run NodeJS API on Minikube | by Bhargav Bachina | Bachina Labs | Medium](https://medium.com/bb-tutorials-and-thoughts/how-to-run-nodejs-api-on-local-kubernetes-a9e61274be22)
 * [network-node-manager: network-node-manager is a kubernetes controller that controls the network configuration of a node to resolve network issues of kubernetes](https://github.com/kakao/network-node-manager)
   * [Kubernetes의 네트워크 이슈를 해결할 수 있는 network-node-manager – tech.kakao.com](https://tech.kakao.com/2021/03/03/network-node-manager/)
+* [Okteto - The Kubernetes development platform](https://okteto.com/) cloud?
 * [OperatorHub.io - a new home for the Kubernetes community to share Operators. Find an existing Operator or list your own today](https://www.operatorhub.io)
 * [Rancher - Complete container management platform Deploy and manage Kubernetes with ease](https://rancher.com/)
   * [Purpose built OS for Kubernetes and fully managed by Kubernetes. https://k3os.io ](https://github.com/rancher/k3os)
