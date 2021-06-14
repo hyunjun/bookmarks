@@ -2229,3 +2229,4 @@ Scala
 * [N-Queens in Scala: Approaching an Interview Problem With Pure Functional Programming - YouTube](https://www.youtube.com/watch?v=_O7mETYRDhY)
 * [Scala :: ./side_effects.sh](http://zafirov.me/posts/scala/)
 * [#Scala Crash Course by a Scala veteran (with some JavaScript flavor) - YouTube](https://www.youtube.com/watch?v=-xRfJcwhy7A)
+* [Scala-Resources/README.md at main · fullStackRyan/Scala-Resources](https://github.com/fullStackRyan/Scala-Resources/blob/main/README.md)
