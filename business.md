@@ -406,6 +406,7 @@ Business
 * [내 의견이 맞는데 다른 분들이 몰라준다](https://brunch.co.kr/@cleancode/42)
 * [존경받는 리더들이 가진 커뮤니케이션 패턴 8가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/217174)
 * [아담 그랜트가 말하는 “고집 불통 리더”를 설득하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240026)
+* [5 whys로 디자인에 설득력 더하기](https://brunch.co.kr/@cliche-cliche/113)
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
