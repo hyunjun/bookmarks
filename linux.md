@@ -395,6 +395,7 @@ Linux
 * [**explainshell.com - match command-line arguments to their help text**](https://explainshell.com/)
 * [How to Test Network Speed in Linux {9 Tools} | phoenixNAP KB](https://phoenixnap.com/kb/linux-network-speed-test)
   * Speedtest, Fast, Color Bandwidth Meter (CBM), iPerf, nload, Tcptrack, Iftop, Wget, youtube-dl
+* [Linux / UNIX List Just Directories Or Directory Names - nixCraft](https://www.cyberciti.biz/faq/linux-list-just-directories-or-directory-names/) `ls -d */` `find . -type d -ls` `find . -d 1 -type d`
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
@@ -766,6 +767,7 @@ Linux
 * `tar`
   * [Portability of tar features](https://dev.gentoo.org/~mgorny/articles/portability-of-tar-features.html)
   * [(리눅스 업스킬 도전 #16) tar와 친구들](https://jhrogue.blogspot.com/2020/10/16-tar.html)
+  * [리눅스 tar.gz 파일 압축/삭제 하기 :: Jechue World](https://jechue.tistory.com/100) `find . -name "<file name pattern>" -exec sh -c 'tar cvzf {}.tar.gz {}; rm -f {};' \;
 * `taskset`
   * [리눅스의 CPU affinity. 리눅스에서 SMP(Symmetric MultiProcessing)을… | by Out of Bedlam | Medium](https://medium.com/@OutOfBedlam/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9D%98-cpu-affinity-5df1a7ab3d99)
 * `tcpdump`
