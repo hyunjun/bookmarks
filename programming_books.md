@@ -470,6 +470,7 @@ Programming Books
   * [데이터 분석가의 팩트풀니스](https://brunch.co.kr/@secreties86/40)
 * (NOT YET) [데이터 과학 트레이닝 북: 넘파이, 사이파이, 판다스, 매트플롯립을 활용하여 직접 실습해 보는 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/12/21/%eb%8d%b0%ec%9d%b4%ed%84%b0-%ea%b3%bc%ed%95%99-%ed%8a%b8%eb%a0%88%ec%9d%b4%eb%8b%9d-%eb%b6%81/)
 * (NOT YET) [더 괜찮은 개발자가 되기 위한 AI 품질 관리 가이드 | 프리렉](https://freelec.co.kr/book/%EB%8D%94-%EA%B4%9C%EC%B0%AE%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-ai-%ED%92%88%EC%A7%88-%EA%B4%80%EB%A6%AC-%EA%B0%80%EC%9D%B4%EB%93%9C/)
+* (NOT YET) [엑셀과 비교하며 배우는 파이썬 데이터 분석](https://jpub.tistory.com/1159)
 
 ## Deep Learning
 * 가장 빨리 만나는 딥러닝 with Caffe
