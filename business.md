@@ -552,6 +552,7 @@ Business
 * [What Leaders Really Do – TLNT](https://www.tlnt.com/what-leaders-really-do/)
 * [Respondeat superior - Wikipedia](https://en.wikipedia.org/wiki/Respondeat_superior) let the master answer
   * [상급자책임 - 위키백과, 우리 모두의 백과사전](https://ko.wikipedia.org/wiki/%EC%83%81%EA%B8%89%EC%9E%90%EC%B1%85%EC%9E%84)
+* [리더의 무례함은 대가를 치른다 | 리더십 | DBR](https://dbr.donga.com/article/view/1306/article_no/10071/ac/a_list)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
