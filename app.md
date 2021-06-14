@@ -660,6 +660,7 @@ App
       * [How to correctly set PYTHONPATH for Visual Studio Code - Stack Overflow](https://stackoverflow.com/questions/53653083/how-to-correctly-set-pythonpath-for-visual-studio-code)
       * [Has VS Code Become the Best IDE for Python? | Young Coder | Matthew MacDonald | Young Coder](https://medium.com/young-coder/has-vs-code-become-the-best-ide-for-python-bf0f92d2aef4)
       * [VSCode on Google Colab](https://amitness.com/vscode-on-colab/)
+      * [VSCode's Python Interactive mode is AMAZING! - YouTube](https://www.youtube.com/watch?v=lwN4-W1WR84)
     * remote
       * [마이크로소프트 비주얼 스튜디오 코드, 원격 개발 기능 지원](https://www.44bits.io/ko/post/news--vs-code-now-supports-remote-development)
       * [Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
