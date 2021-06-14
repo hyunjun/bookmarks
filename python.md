@@ -3970,6 +3970,7 @@ Python
 * [Pareto and Pandas](https://www.johndcook.com/blog/2021/03/11/pareto-and-pandas/)
 * [Practical SQL for Data Analysis | Haki Benita](https://hakibenita.com/sql-for-data-analysis)
 * [Python Pandas Tutorial | What is Pandas | Features of Pandas # 1 - YouTube](https://www.youtube.com/watch?v=2NwUfnKhsuU)
+* [Exploring Your Dataset With Pandas and Python - YouTube](https://www.youtube.com/watch?v=XM5gR1sE3B0)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
   * [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
 * [polars: Fast multi-threaded DataFrame library in Rust and Python](https://github.com/pola-rs/polars)
