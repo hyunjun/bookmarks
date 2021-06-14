@@ -45,6 +45,7 @@ Logging
 * [1주차-로그관리 어떻게 할 것인가? - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=18350094)
 * [Why you shouldn’t log into db. From time to time, I see systems… | by Márton Waszlavik | Medium](https://medium.com/@marton.waszlavik/why-you-shouldnt-log-into-db-e700c2cb0c8c)
 * [What the Fastly outage can teach us about writing error messages | OnlineOrNot](https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages)
+* [데이터 로그 설계, 데이터 로깅, 이벤트 로그 설계, 데이터 QA의 모든 것 · 어쩐지 오늘은](https://zzsza.github.io/data/2021/06/13/data-event-log-definition/)
 
 # [Fluentd](http://www.fluentd.org/)
 * [분산 로그 & 데이타 수집기 Fluentd](http://bcho.tistory.com/1115)
