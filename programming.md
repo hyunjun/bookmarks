@@ -189,6 +189,7 @@ Programming
 * [Building Airbnb’s Internationalization Platform | by Hua Zheng | Airbnb Engineering & Data Science | Oct, 2020 | Medium](https://medium.com/airbnb-engineering/building-airbnbs-internationalization-platform-45cf0104b63c)
 * [글로벌 서비스 개발 - 우아한형제들 세미나](https://devtimothy.tistory.com/140) 지역별 특성에 맞는 개발 방식 및 주의점
 * [풋내기 창업자의 스타트업 창업하기 11화 — 해외시장 진출. 페북의 MAU 그래프입니다. 2004년 2월에 창업한 페북은 3년만에… | by gary | 당근마켓 팀블로그 | Nov, 2020 | Medium](https://medium.com/daangn/%ED%92%8B%EB%82%B4%EA%B8%B0-%EC%B0%BD%EC%97%85%EC%9E%90%EC%9D%98-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EC%B0%BD%EC%97%85%ED%95%98%EA%B8%B0-11%ED%99%94-%ED%95%B4%EC%99%B8%EC%8B%9C%EC%9E%A5-%EC%A7%84%EC%B6%9C-6d735072deb9)
+* [딜리셔스 개발팀 연대기 | dealicious-inc.github.io](https://dealicious-inc.github.io/2021/06/14/dev-team-chronicle.html)
 * [The Languages, Frameworks and Tools You Should Learn in 2017](http://tutorialzine.com/2016/12/the-languages-frameworks-tools-you-should-learn-in-2017/)
 * [한국 인터넷 역사 프로젝트](https://sites.google.com/gfolder.net/koreainternethistory)
 * [개발자료공유 트렐로](https://trello.com/b/DlJ9r6tg/dev-ref)
