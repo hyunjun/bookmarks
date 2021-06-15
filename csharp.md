@@ -53,6 +53,7 @@ C#
 * [C# - C++구조체 멤버에 대해 C# 클래스의 프로퍼티로 마셜링 - jacking75](https://jacking75.github.io/NET_cpp_struct_to_csharp/)
 * [C# - .NET Core에서 Generic Host 사용하기 - jacking75](https://jacking75.github.io/NET_GenericHost/)
 * [C# - System.Text.Json의 읽기 전용 속성을 가진 객체의 직렬화 - jacking75](https://jacking75.github.io/NET_json/)
+* [C# - .NET 업그레이드 어시스턴트를 이용하여 .NET Framework에서 .NET 5을 쉽게 업그레이드 하기 WinForm - jacking75](https://jacking75.github.io/NET_upgrade_5/)
 * Async, Await
   * [C#의 Task 비동기 프로그래밍 모델](https://docs.microsoft.com/ko-kr/dotnet/csharp/programming-guide/concepts/async/)
   * [beware of async void in your code](http://theburningmonk.com/2012/10/c-beware-of-async-void-in-your-code/)
