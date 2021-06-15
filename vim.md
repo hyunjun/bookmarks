@@ -27,6 +27,9 @@ Vim
     ctags -R --fields=+l --languages=python --python-kinds=-iv -f ./tags . $(python -c "import os, sys; print(' '.join('{}'.format(d) for d in sys.path if os.path.isdir(d)))")
     alias python_ctags="ctags -R --fields=+l --languages=python --python-kinds=-iv -f ./tags . $(python -c "import os, sys; print(' '.join('{}'.format(d) for d in sys.path if os.path.isdir(d)))")"
     ```
+* find
+  * `:/<pattern>/` [substitute - Find and replace using regular expressions - Vi and Vim Stack Exchange](https://vi.stackexchange.com/questions/3115/find-and-replace-using-regular-expressions)
+    * e.g. `:/micro[ ]\?frontend/` 'microfrontend' or 'micro frontend'
 * join
   * [How to join lines without producing a space?](https://vi.stackexchange.com/questions/439/how-to-join-lines-without-producing-a-space)
 * quickfix
