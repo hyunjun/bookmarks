@@ -201,6 +201,7 @@ Vim
   * [Vimwiki + Jekyll + Github.io로 나만의 위키를 만들자](https://johngrib.github.io/blog/2017/12/06/my-wiki/)
 
 # Plugin
+* [Vim Awesome](https://vimawesome.com/)
 * [Python으로 vim plugin 만들기](http://www.slideshare.net/mysqlguru/python-vim-plugin)
 * [레거시 코드를 파괴하는 Vim 벽돌 깨기](http://woowabros.github.io/tools/2017/07/06/vim-game-code-break.html)
 * [IntelliJ 의 VIM 플러그인 마개조하기](http://woowabros.github.io/tools/2016/06/18/ideavim-customize-00.html)
