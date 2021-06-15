@@ -1806,6 +1806,7 @@ Python
 * [도서 — 파이썬 웹프로그래밍 실전편 (요약)](https://medium.com/%EB%8F%84%EC%84%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9B%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%8B%A4%EC%A0%84%ED%8E%B8-%EC%9A%94%EC%95%BD)
 * [Django migration 궁금증](http://curzy95.tumblr.com/post/154808299896/django-migration-%EA%B6%81%EA%B8%88%EC%A6%9D)
 * [How to migrate Django from SQLite to PostgreSQL](https://gist.github.com/sirodoht/f598d14e9644e2d3909629a41e3522ad)
+* [Django에 postgresql 연동하기 - ㅁㄱㅈㄱ](https://well-eat-well-sleep.blogspot.com/2021/06/django-postgresql_7.html)
 * [Disqus 장고 3.x 사용 중 migrate 에러 해결 방법](https://developer-ankiwoong.tistory.com/920)
 * [ElasticSearch with Django the easy way](https://medium.freecodecamp.com/elasticsearch-with-django-the-easy-way-909375bc16cb)
 * [장고(Django)와 함께하는 Celery 첫걸음](https://beomi.github.io/2016/11/04/eb-b2-88-ec-97-ad-ec-9e-a5-ea-b3-a0django-ec-99-80-ed-95-a8-ea-bb-98-ed-95-98-eb-8a-94-celery-ec-b2-ab-ea-b1-b8-ec-9d-8c/)
