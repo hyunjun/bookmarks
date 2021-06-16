@@ -521,13 +521,6 @@ Apache
   * [Part 2](https://jack-vanlightly.com/blog/2018/9/18/how-to-lose-messages-on-a-kafka-cluster-part-2)
 * [Kafka Using Java. Part 1](https://medium.com/pharos-production/kafka-using-java-e10bfeec8638)
 * [Kafka Using Java. Part 2](https://medium.com/pharos-production/kafka-using-java-part-2-83fd604ed627)
-* [MirrorMaker Performance Tuning Tuning Kafka for Cross Data Center Replication](https://engineering.salesforce.com/mirrormaker-performance-tuning-63afaed12c21)
-  * compression.type 지정
-  * Producer 에서 사용하면, Network BW 및 Broker단의 CPU 절약
-  * 전통적으로 Kafka 프로젝트 안에 탑재되어 있던 툴이지만 설계가 오래되서 scalable하게 동작하지 않으므로, 어지간히 오래된 Cluster 내용을 옮기는 게 아니라면 비추천
-* [Kafka Replication: The case for MirrorMaker 2.0](https://blog.cloudera.com/blog/2019/05/kafka-replication-the-case-for-mirrormaker-2/)
-  * MirrorMaker 1의 대안으로 Cloudera 엔지니어가 개발. 1보다 훨씬 좋지만 아직 정식 탑재된 게 아니라 문서화 부족
-* [MirrorMaker2 가 release되었습니다](https://blog.voidmainvoid.net/293)
 * [**blog.voidmainvoid.net/category/.../Kafka**](https://blog.voidmainvoid.net/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0/Kafka)
   * [blog.voidmainvoid.net/tag/kafka](https://blog.voidmainvoid.net/tag/kafka)
   * [Kafka broker와 java client의 버젼 하위호환성 정리](https://blog.voidmainvoid.net/193)
@@ -540,7 +533,6 @@ Apache
 * [Kafka, Java, and Bitcoin](https://medium.com/pharos-production/kafka-java-and-bitcoin-cf0009767645)
 * [What's New in Kafka 2.2?](https://www.youtube.com/watch?v=kaWbp1Cnfo4)
 * [Understanding Kafka with Factorio](https://hackernoon.com/understanding-kafka-with-factorio-74e8fc9bf181)
-* [How to run Kafka Mirror Maker using Kerberos clusters](https://www.youtube.com/watch?v=2jkk3ZycW78)
 * [Kerberos 인증 #1](https://devidea.tistory.com/79)
 * [Kerberos 인증 #2](https://devidea.tistory.com/80)
 * [**카프카 설치 시 가장 중요한 설정 4가지**](https://www.popit.kr/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%84%A4%EC%B9%98-%EC%8B%9C-%EA%B0%80%EC%9E%A5-%EC%A4%91%EC%9A%94%ED%95%9C-%EC%84%A4%EC%A0%95-4%EA%B0%80%EC%A7%80/)
@@ -762,6 +754,16 @@ Apache
   * [Alpakka Kafka connector - Alpakka is a Reactive Enterprise Integration library for Java and Scala, based on Reactive Streams and Akka](https://github.com/akka/alpakka-kafka)
     * [Alpakka Kafka connector — an open-source Reactive Enterprise Integration library for Java and Scala](https://blog.softwaremill.com/alpakka-kafka-connector-an-open-source-reactive-enterprise-integration-library-for-java-and-scala-c5f954b66787)
     * [Retrying consumer architecture with Alpakkas](https://medium.com/@gabrielgiussi/retrying-consumer-architecture-with-alpakkas-ebd24eda1982)
+  * MirrorMaker2 [kafka/connect/mirror at trunk · apache/kafka](https://github.com/apache/kafka/tree/trunk/connect/mirror)
+    * [How to run Kafka Mirror Maker using Kerberos clusters](https://www.youtube.com/watch?v=2jkk3ZycW78)
+    * [MirrorMaker Performance Tuning Tuning Kafka for Cross Data Center Replication](https://engineering.salesforce.com/mirrormaker-performance-tuning-63afaed12c21)
+      * compression.type 지정
+      * Producer 에서 사용하면, Network BW 및 Broker단의 CPU 절약
+      * 전통적으로 Kafka 프로젝트 안에 탑재되어 있던 툴이지만 설계가 오래되서 scalable하게 동작하지 않으므로, 어지간히 오래된 Cluster 내용을 옮기는 게 아니라면 비추천
+    * [Kafka Replication: The case for MirrorMaker 2.0](https://blog.cloudera.com/blog/2019/05/kafka-replication-the-case-for-mirrormaker-2/)
+      * MirrorMaker 1의 대안으로 Cloudera 엔지니어가 개발. 1보다 훨씬 좋지만 아직 정식 탑재된 게 아니라 문서화 부족
+    * [MirrorMaker2 가 release되었습니다](https://blog.voidmainvoid.net/293)
+    * [MirrorMaker2 마이그레이션](https://devidea.tistory.com/107)
 * [kafka-streams-viz - Kafka Streams Topology Visualizer](https://zz85.github.io/kafka-streams-viz/)
 * KSQL
   * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
