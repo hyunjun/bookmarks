@@ -648,6 +648,7 @@ Programming
 * [**24시간 365일 서버/인프라를 지탱하는 기술**](http://astrod.github.io/2017/12/17/17.html)
 * [**넷플릭스의 카오스 엔지니어링의 원칙**](http://channy.creation.net/blog/1173#.WkXB71SFjy0)
 * [Chaos Engineering을 위한 최신 도구 업데이트 - 윤석찬 (AWS 테크에반젤리스트)](https://www.youtube.com/watch?v=mLWD4KCQuT4)
+  * [ChaosBlade - An Open-Source Chaos Engineering Tool by Alibaba - Alibaba Cloud Community](https://www.alibabacloud.com/blog/chaosblade---an-open-source-chaos-engineering-tool-by-alibaba_594850) 카오스 엔지니어링 시나리오를 생성하고 쉽게 사용
 * [트래픽 폭증에도 안정을 유지한 카카오톡](https://brunch.co.kr/@kakao-it/170)
 * [Phoenix (피닉스) 서버 패턴](http://bcho.tistory.com/1224)
 * [VM 이미지 생성을 위한 오픈소스 Packer](http://bcho.tistory.com/1225)
@@ -2400,6 +2401,7 @@ Programming
   * [기술 뉴스 #173 : 21-05-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1549)
   * [기술 뉴스 #174 : 21-05-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1550)
   * [기술 뉴스 #175 : 21-06-02 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1551)
+  * [기술 뉴스 #176 : 21-06-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1552)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
