@@ -35,9 +35,6 @@ Google Cloud Platform GCP
 * [Google Cloud Platform에 Terraform 설정하기](https://blog.outsider.ne.kr/1366)
 * [Stack driver profiler](http://bcho.tistory.com/1248)
 * [GCP의 새로운 대화형 CLI](https://developers-kr.googleblog.com/2018/04/gcp-cli.html)
-* [Container Engine (GKE #1. 개념)](http://jybaek.tistory.com/658)
-* [Container Engine (GKE #2. cluster 생성)](http://jybaek.tistory.com/659)
-* [Kubernetes Engine (GKE #3. 터미널 배포)](http://jybaek.tistory.com/739)
 * [Spring Boot 로 테스트해 본 Stackdriver trace](https://medium.com/@jwlee98/gcp-spring-boot-%EB%A1%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%B4-%EB%B3%B8-stackdriver-trace-fefa46394af8)
 * [Google Cloud Platform의 빅데이터 제품 살펴보기#1 - GCS, GCE](https://jungwoon.github.io/google%20cloud/2018/05/27/GCP-Bigdata-Products/)
 * [Google Cloud Platform의 빅데이터 제품 살펴보기 - DataFlow](https://jungwoon.github.io/google%20cloud/2018/06/17/GCP-DataFlow-Java/)
@@ -55,17 +52,6 @@ Google Cloud Platform GCP
 * [<구글 빅쿼리 완벽 가이드> 도서 증정 이벤트](https://jhrogue.blogspot.com/2020/11/blog-post_25.html)
 * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11)
 * [How to create and connect to Google Cloud Virtual Machine with SSH](https://medium.freecodecamp.org/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd)
-* GKE 차근 차근 알아보기
-  * [1탄 — GKE 개요](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1%ED%83%84-gke-%EA%B0%9C%EC%9A%94-382dc69b2ec4)
-  * [2탄 — GKE 서비스 및 확장 해보기](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-2%ED%83%84-gke-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B0%8F-%ED%99%95%EC%9E%A5-%ED%95%B4%EB%B3%B4%EA%B8%B0-5c9b137e72c8)
-  * [3탄 — GCP 서비스 연결 해보기](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-3%ED%83%84-gcp-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%97%B0%EA%B2%B0-%ED%95%B4%EB%B3%B4%EA%B8%B0-ae608b1b4338)
-  * [4탄 — GKE 설정 외부화 (configMap, Secrets)](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-4%ED%83%84-gke-%EC%84%A4%EC%A0%95-%EC%99%B8%EB%B6%80%ED%99%94-configmap-secrets-354da3a91edf)
-  * [5탄 — Cloud Build 를 통한 CI/CD](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-5%ED%83%84-cloud-build-%EB%A5%BC-%ED%86%B5%ED%95%9C-ci-cd-47f1486937e4)
-  * [6탄 — Cloud IAM 과 Kubernetes RBAC](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-6%ED%83%84-cloud-iam-%EA%B3%BC-kubernetes-rbac-f02b52cf538e)
-  * [7탄 — Istio 로 하는 Service Mesh](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-7%ED%83%84-istio-%EB%A1%9C-%ED%95%98%EB%8A%94-service-mesh-9e9363945cbb)
-  * [8탄 — Istio 더 알아보기1 (Traffic Management)](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-8%ED%83%84-istio-%EB%8D%94-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B01-traffic-management-bc7b3674b7f2)
-* [Announcing new GKE architecture specialization—now with one month free access](https://cloud.google.com/blog/products/containers-kubernetes/announcing-new-gke-architecture-specialization)
-* [구글 GKE 네트워크 기본 보안](https://bcho.tistory.com/1358)
 * [AI 스피커 만들기 ( #1 )](http://jybaek.tistory.com/766)
 * [Deep learning VM](http://bcho.tistory.com/1298)
   * [cloud.google.com/deep-learning-vm/docs/concepts-images](https://cloud.google.com/deep-learning-vm/docs/concepts-images)
@@ -145,6 +131,24 @@ Google Cloud Platform GCP
 * [Building a Simple Web Upload Interface with Google Cloud Run and Cloud Storage](https://medium.com/google-developers/building-a-simple-web-upload-interface-with-google-cloud-run-and-cloud-storage-eba0a97edc7b)
 * [서버리스의 맏형 Knative 기반의 Cloud Run](https://jybaek.tistory.com/875)
 * [Deploy a Node API to Cloud Run. Run custom Docker images on Google’s… | by Dirk Hoekstra | Better Programming | Medium](https://medium.com/better-programming/deploy-a-node-api-to-cloud-run-f93fea4ff2e6)
+
+# GKE
+* [Container Engine (GKE #1. 개념)](http://jybaek.tistory.com/658)
+* [Container Engine (GKE #2. cluster 생성)](http://jybaek.tistory.com/659)
+* [Kubernetes Engine (GKE #3. 터미널 배포)](http://jybaek.tistory.com/739)
+* GKE 차근 차근 알아보기
+  * [1탄 — GKE 개요](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-1%ED%83%84-gke-%EA%B0%9C%EC%9A%94-382dc69b2ec4)
+  * [2탄 — GKE 서비스 및 확장 해보기](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-2%ED%83%84-gke-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%B0%8F-%ED%99%95%EC%9E%A5-%ED%95%B4%EB%B3%B4%EA%B8%B0-5c9b137e72c8)
+  * [3탄 — GCP 서비스 연결 해보기](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-3%ED%83%84-gcp-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%97%B0%EA%B2%B0-%ED%95%B4%EB%B3%B4%EA%B8%B0-ae608b1b4338)
+  * [4탄 — GKE 설정 외부화 (configMap, Secrets)](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-4%ED%83%84-gke-%EC%84%A4%EC%A0%95-%EC%99%B8%EB%B6%80%ED%99%94-configmap-secrets-354da3a91edf)
+  * [5탄 — Cloud Build 를 통한 CI/CD](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-5%ED%83%84-cloud-build-%EB%A5%BC-%ED%86%B5%ED%95%9C-ci-cd-47f1486937e4)
+  * [6탄 — Cloud IAM 과 Kubernetes RBAC](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-6%ED%83%84-cloud-iam-%EA%B3%BC-kubernetes-rbac-f02b52cf538e)
+  * [7탄 — Istio 로 하는 Service Mesh](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-7%ED%83%84-istio-%EB%A1%9C-%ED%95%98%EB%8A%94-service-mesh-9e9363945cbb)
+  * [8탄 — Istio 더 알아보기1 (Traffic Management)](https://medium.com/@jwlee98/gcp-gke-%EC%B0%A8%EA%B7%BC-%EC%B0%A8%EA%B7%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-8%ED%83%84-istio-%EB%8D%94-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B01-traffic-management-bc7b3674b7f2)
+* [Announcing new GKE architecture specialization—now with one month free access](https://cloud.google.com/blog/products/containers-kubernetes/announcing-new-gke-architecture-specialization)
+* [구글 GKE 네트워크 기본 보안](https://bcho.tistory.com/1358)
+* [GKE CNI Performance benchmark. 목차 : | by 이성우 | Cloud Villains | Jun, 2021 | Medium](https://medium.com/ctc-mzc/gke-cni-performance-benchmark-2021-06-10-5ff0e6feabe5)
+  * Kubernetes에서 사용할 수 있는 CNI 중 Kubenet, Calico, Cilium을 Idle 상태, 트래픽을 줄 때의 상황 등에서 네트워크 성능, CPU/램의 사용량 등을 비교
 
 # Library
 * squid [GCP에서 Squid를 이용한 Proxy 서버 설정 방법](https://kibua20.tistory.com/129)
