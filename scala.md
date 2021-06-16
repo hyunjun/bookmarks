@@ -285,6 +285,7 @@ Scala
 * [Scale By The Bay 2020: Natan Silnitsky, 8 Lessons Learned from using Kafka with 1000 microservices - YouTube](https://www.youtube.com/watch?v=XEZeLoO2iBk)
 * [Building a transportation cloud with microservices | by Jonas Chapuis | Bestmile | Mar, 2021 | Medium](https://medium.com/bestmile/building-a-transportation-cloud-with-microservices-bad4daddd1f4)
 * [3 Tricks with Call-by-Name in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=4DrjlJbblkQ)
+* [5 Nice Scala Tricks for Concise and Expressive Code | Rock the JVM - YouTube](https://www.youtube.com/watch?v=aX-Lc6NXhC8)
 * [**Concurrent state machines**](https://www.inner-product.com/posts/concurrent-state-machines/)
 * [Protobufs in Scala - YouTube](https://www.youtube.com/watch?v=s-Q9A30PBv0)
 * [스칼라의 일반적인 유한 상태 기계 (변환기) - 우수한 라이브러리](http://ko.uwenku.com/question/p-umcxjfse-kp.html)
