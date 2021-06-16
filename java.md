@@ -1594,6 +1594,9 @@ Java
 * ArchUnit [Unit test your Java architecture - ArchUnit](https://www.archunit.org/)
   * [How to test your Java project’s architecture with ArchUnit](https://medium.freecodecamp.org/java-archunit-testing-the-architecture-a09f089585be)
   * [ArchUnit - UnitTest로 아키텍처 검사를](https://d2.naver.com/helloworld/9222129)
+    * 아키텍처 구조와 규칙을 쉽게 정의하고 검사해주는 ArchUnit의 사용법 설명
+    * ArchUnit의 테스트를 작성해서 의존관계와 상속 관계 등을 검사하고 레이어 아키텍처 등을 선언형/명령형으로 검사 가능
+    * AssertJ와 연동 가능. 네이버에서 Support 패키지는 다른 패키지를 의존하면 안 된다는 규칙, API 문서화를 위한 속성 통일 등의 규칙을 적용
 * [AssertJ가 JUnit의 assertThat 보다 편리한 이유](https://www.youtube.com/watch?v=zLx_fI24UXM)
 * DBUnit
   * [스프링부트에서 DbUnit 을 이용하여 DB 테스트 해보기](http://woowabros.github.io/experience/2019/11/06/db-unit.html)
