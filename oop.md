@@ -240,6 +240,7 @@
 * [7 best JavaScript Design Patterns You Should Know](https://morioh.com/p/738f2be15243)
 * [ES6로 구현하는 디자인 패턴 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222351379222)
 * [Design Patterns in JavaScript. Commonly Used Design Patterns With Code… | by Mahdhi Rezvi | Jun, 2021 | Bits and Pieces](https://blog.bitsrc.io/design-patterns-in-javascript-3872f36fe345)
+* [아토믹(Atomic) 컴포넌트 디자인 개발 패턴](https://brunch.co.kr/@skykamja24/580)
 
 # Python
 * [Python: Design Patterns](https://www.linkedin.com/learning/python-design-patterns)
