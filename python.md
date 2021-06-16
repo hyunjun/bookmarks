@@ -3859,6 +3859,7 @@ Python
 * [Reading Poorly Structured Excel Files with Pandas - Practical Business Python](https://pbpython.com/pandas-excel-range.html)
 * [IO Tools (Text, CSV, HDF5, ...)](http://pandas.pydata.org/pandas-docs/stable/io.html#io-excel-writer)
 * [Complete Python Pandas Data Science Tutorial! (Reading CSV/Excel files, Sorting, Filtering, Groupby)](https://www.youtube.com/watch?v=vmEHCJofslg)
+* [엑셀 자동화 - 사무직을 위한 파이썬](https://maeng-gun.github.io/excel) excel xlwings
 * [Bringing the python data stack to the shell prompt](https://github.com/robdmc/pandashells)
 * [Discovery Engines: Statistical Learning with Python and pandas](https://www.youtube.com/watch?v=nMZf9V_J_Sw)
 * [Efficient Tabular Storage](http://matthewrocklin.com/blog/work/2015/08/28/Storage/)
