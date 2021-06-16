@@ -320,6 +320,7 @@ Business
 * [루틴이 나를 변화시킬 수 있다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241778)
 * [직원들에게 효과적으로 포상 주는 핵심방법 3가지 포인트 |](http://www.casenews.co.kr/news/articleViewAmp.html?idxno=4302)
 * [회사가 말해주지 않는 승진의 비밀 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241768)
+* [회사 성과는 좋았는데, 인센티브는 왜 이 정도? | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/why-this-is-incentives/)
 
 # 채용
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
