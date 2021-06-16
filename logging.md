@@ -45,7 +45,10 @@ Logging
 * [1주차-로그관리 어떻게 할 것인가? - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=18350094)
 * [Why you shouldn’t log into db. From time to time, I see systems… | by Márton Waszlavik | Medium](https://medium.com/@marton.waszlavik/why-you-shouldnt-log-into-db-e700c2cb0c8c)
 * [What the Fastly outage can teach us about writing error messages | OnlineOrNot](https://onlineornot.com/what-fastly-outage-can-teach-about-writing-error-messages)
-* [데이터 로그 설계, 데이터 로깅, 이벤트 로그 설계, 데이터 QA의 모든 것 · 어쩐지 오늘은](https://zzsza.github.io/data/2021/06/13/data-event-log-definition/)
+* [**데이터 로그 설계, 데이터 로깅, 이벤트 로그 설계, 데이터 QA의 모든 것 · 어쩐지 오늘은**](https://zzsza.github.io/data/2021/06/13/data-event-log-definition/)
+  * 서비스에서 데이터 추적을 위해 많은 로그를 쌓게 되는데 이 데이터 로그의 설계부터 QA까지 기획자, PM, 마케터들이 이해할 수 있게 정리한 글
+  * 데이터 로깅을 하기 위해 필요한 상식, 사용할 수 있는 플랫폼들 정리. 서버 로그와 클라이언트 로그의 차이, 웹이나 앱의 로깅 특성도 잘 정리
+  * 이벤트 로그를 어떻게 설계하는 방법과 예시도 잘 나와 있어서 데이터 추적에 대한 이해도를 높이거나 서비스에 로깅 설계를 할 때 참고
 
 # [Fluentd](http://www.fluentd.org/)
 * [분산 로그 & 데이타 수집기 Fluentd](http://bcho.tistory.com/1115)
