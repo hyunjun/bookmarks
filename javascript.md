@@ -1841,6 +1841,12 @@ Javascript
   * [yarn global 설정하기 - 완두블로그](https://wani.kr/posts/2017/05/24/yarn-global-setting/)
   * [yarn-deduplicate: Deduplication tool for yarn.lock files](https://github.com/atlassian/yarn-deduplicate)
   * [npm vs Yarn — Choosing the right package manager | by Harsha Vardhan | JavaScript In Plain English](https://medium.com/javascript-in-plain-english/npm-vs-yarn-choosing-the-right-package-manager-a5f04256a93f)
+* Yarn Berry
+  * [Yarn Berry 플러그인과 “since”](https://toss.tech/article/yarn-berry-plugins-and-since)
+    * Yarn Berry에 추가된 플러그인 기능 사용법 설명, 토스 프론트엔드에서 "since"라는 플러그인을 만드는 과정 설명
+    * 이전에 yarn 1과 Lerna를 사용해서 모노 레포에서 변경사항이 있는 서비스만 찾아낼 수 있게 Lerna의 --since 옵션을 사용
+    * Yarn Berry는 Lerna와 같이 사용 불가 + Lerna 유지보수가 잘 않됨
+    * 모노 레포에서 특정 커밋 이후에 변경사항이 있는 워크스페이스만 찾아 명령어를 실행하는 since라는 플러그인 제작
 
 ## Library Internationalization i18n 국제화
 * [How to get started with internationalization in JavaScript](https://medium.freecodecamp.org/how-to-get-started-with-internationalization-in-javascript-c09a0d2cd834)
@@ -2822,6 +2828,9 @@ Javascript
 * [공통된 에러핸들링을 위한 http wrapper 함수 제작](https://blog.naver.com/pjt3591oo/222305175450)
 * [Build your own React](https://pomb.us/build-your-own-react/)
 * [react에서 fullpage v2 사용하기](https://velog.io/@juunini/react%EC%97%90%EC%84%9C-fullpage-v2-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+* [React 18: 렌더링 최적화를 위한 자동 배칭 | immigration9](https://immigration9.github.io/react/2021/06/12/automatic-batching-react.html)
+  * Batching은 여러 state 업데이트를 하나의 리렌더링으로 묶어주는 것. 이를 통해 성능 개선
+  * React 18은 createRoot로 자동 배칭 가능. 자동 배칭을 원하지 않는 경우와 Hook, Class와 사용할 때의 영향에 대한 설명
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
