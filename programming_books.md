@@ -1,6 +1,7 @@
 Programming Books
 =================
 
+* [2021 개발자 필독서](https://www.notion.so/2021-de02598a8b5d4ab5a9d1c7f9aa069e3f)
 * mindmap
   * [언어와 컴퓨터 과학 기초](https://www.mindmeister.com/502625671/_?fullscreen=1)
   * [언어와 기초 이론](https://www.mindmeister.com/781068868/_?fullscreen=1)
