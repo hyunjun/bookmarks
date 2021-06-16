@@ -977,6 +977,7 @@ Machine Learning
 * [k-Nearest Neighbors: Who are close to you?](https://medium.com/cracking-the-data-science-interview/k-nearest-neighbors-who-are-close-to-you-19df59b97e7d)
 * [Simplified KNN Algorithm using Python with coding explanation | by Yogesh Chauhan | Towards Data Science](https://towardsdatascience.com/simplified-knn-algorithm-using-python-with-coding-explanation-ab597391b4c3)
 * [ML from Scratch: K-Nearest Neighbors Classifier | by Aman Sharma | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/ml-from-scratch-k-nearest-neighbors-classifier-3fc51438346b)
+* [Machine Learning Nuggets: Introduction to K-NN Algorithm | by Venkat | Jun, 2021 | Medium](https://venkatkollimarla.medium.com/machine-learning-nuggets-introduction-to-k-nn-algorithm-2bb6ddf3876b)
 * [TOROS N2 - lightweight approximate Nearest Neighbor library which runs faster even with large datasets](https://github.com/kakao/n2) python
   * [TOROS N2](https://brunch.co.kr/@kakao-it/300)
 
