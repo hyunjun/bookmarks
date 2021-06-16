@@ -49,6 +49,8 @@ Game
 * [호오 게임을 만드시겠다구요? 4 - YouTube](https://www.youtube.com/watch?v=888dOz12dEo)
 * [호오 게임을 만드시겠다구요? 5 - 게임만들기에서 가장 중요한것 그건 바로 인앱결제 - YouTube](https://www.youtube.com/watch?v=jImbLTOwJoQ)
 * [호오 게임을 만드시겠다구요? 6 - 안드로이드 빌드 도전 - YouTube](https://www.youtube.com/watch?v=BgWhXn6ENHM)
+* [호오 게임을 만드시겠다구요? 7 - 게임 기획하기 - YouTube](https://www.youtube.com/watch?v=ICiKSSgTfGA)
+* [호오 게임을 만드시겠다구요? 8 - 2D 캔버스 훑어보기 - YouTube](https://www.youtube.com/watch?v=mjQ8o_ZHEFM)
 
 # Board game
 * [ko.boardgamearena.com](https://ko.boardgamearena.com/)
