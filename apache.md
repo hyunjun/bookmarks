@@ -40,6 +40,7 @@ Apache
 * [쏘카 데이터 그룹 - Airflow와 함께한 데이터 환경 구축기(feat. Airflow on Kubernetes) - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2021/06/01/data-engineering-with-airflow.html)
   * 처음에는 Rundeck 이용, Airflow를 사용하기로 하면서 매니지드 서비스인 GCP의 Composer 사용, 회사와 데이터 팀이 커지면서 문제 발생
   * 결국 Kubernetes 위에서 Airflow를 구축해서 운영하기로 결정. Kubernetes 위에서 운영하는 방법을 자세히 설명
+* [Hello, Apache Airflow](https://jybaek.tistory.com/921)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
