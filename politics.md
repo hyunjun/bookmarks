@@ -18,6 +18,7 @@ Politics
 * [그들의 찌라시를 분석한다 ①](http://ppss.kr/archives/59347)
 * [그들의 찌라시를 분석한다 ② – 친일 방어 논리편](http://ppss.kr/archives/59765)
 * [신공항을 둘러싼 치열한 ‘정치 드라마’ - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=43298) 글 전개 방식이 좋아서
+* [초강대국, 패권등 국제정치 개념 정리](https://pgr21.com/freedom/89953)
 
 # 한국
 * [**시대정신을 묻는다**](http://www.huffingtonpost.kr/zeitgeist-korea/)
@@ -129,6 +130,7 @@ Politics
   * [노무현 대통령 영국 왕실 초청 방문시](http://cafe.daum.net/kseriforum/9Q8k/23560)
   * [고건의 공인 50년 (13) 사스(SARS) 대책](http://media.daum.net/politics/others/newsview?newsid=20130228004705500)
   * [노무현의 업적이 뭐냐구요?](http://m.blog.naver.com/namfx/67860541)
+  * [노무현 사료관](http://archives.knowhow.or.kr/)
   * 경제지표
     * [개인당 국민소득](_politics/20150803131219_emUziaw3_19150234509E4AEA1AA94C.png)
     * [개인당 국민소득 증가액](_politics/20150803131219_O6DS8LAQ_01150234509E4AE614D53B.png)
