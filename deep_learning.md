@@ -668,6 +668,7 @@ Deep Learning
 * [A Beginners Guide to Federated Learning](https://hackernoon.com/a-beginners-guide-to-federated-learning-b29e29ba65cf)
 * [federated learning - 보안 걱정 없는 모바일 딥러닝 학습법 (연합 학습)](https://www.youtube.com/watch?v=ei_e7nHS6SE)
 * [Survey report of Federated Learning - TooTouch](https://tootouch.github.io/research/federated_learning/)
+* [아마존, 구글 FLoC 차단 | GeekNews](https://news.hada.io/topic?id=4449)
 * [LxMLS 2017](https://www.youtube.com/playlist?list=PLToLj8M4ao-fuRfnzEJCCnvuW2_FeJ73N)
 * [Recent Advances for a Better Understanding of Deep Learning − Part I](https://towardsdatascience.com/recent-advances-for-a-better-understanding-of-deep-learning-part-i-5ce34d1cc914)
 * [Why Randomness should be Embraced and Not Feared](https://medium.com/intuitionmachine/why-randomness-should-be-leveraged-and-not-filtered-be31a94e85ef)
