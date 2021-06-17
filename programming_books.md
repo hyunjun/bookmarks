@@ -59,6 +59,7 @@ Programming Books
 * [해킹 일렉트로닉스: 아두이노와 라즈베리 파이로 배우는 전자공학](http://jpub.tistory.com/821)
   * 2018.09
   * 한라 569몽877ㅎ
+* (NOT YET) [아두이노 바이블](https://jpub.tistory.com/1164)
 * (NOT YET) [스타트업 인 액션](http://book.daum.net/detail/book.do?bookid=BOK00032597745AL)
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
