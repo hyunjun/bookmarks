@@ -23,6 +23,7 @@ Json
 
 # Clojure
 * [Avoid Converting JavaScript Objects](http://blog.fikesfarm.com/posts/2017-11-09-avoid-converting-javascript-objects.html)
+* [JUXT Blog - Clojure's JSON ecosystem](https://www.juxt.pro/blog/json-in-clojure)
 * [Cheshire - Clojure JSON and JSON SMILE (binary json format) encoding/decoding](https://github.com/dakrone/cheshire)
   * [clojure.data.json vs cheshire benchmark](https://gist.github.com/kyleburton/ac3e7fb742902b864b61)
 * [data.json - JSON parser/generator to/from Clojure data structures](https://github.com/clojure/data.json)
