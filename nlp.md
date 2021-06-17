@@ -371,6 +371,7 @@ NLP
   * [자동 추천(Autosuggest) 기능의 사용자 경험 설계하기 | GeekNews](https://news.hada.io/topic?id=3867)
 * ['사물에 이입해 대답한다' 구글, 개발자 회의서 AI 기술 역량 과시 - CIO Korea](https://www.ciokorea.com/news/194544) LaMDA MUM
 * [텍스트 스타일을 바꾸는 딥러닝 기술 | Kakao Enterprise AI Research](https://kakaoenterprise.github.io/deepdive/210525) text style transfer
+* ['빅데이터/빅데이터 with python' 카테고리의 글 목록](https://ehclub.net/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20with%20python) 웹 검색엔진 만들기
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
