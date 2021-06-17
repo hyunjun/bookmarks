@@ -84,6 +84,7 @@ Finance
 * [웬만해서는 하락하지 않는 우주방어 주식 5종목 - YouTube](https://www.youtube.com/watch?v=T3-_lDib-wg)
   * 통신주: SK telecom LG U+ Verizon, LG생활건강, 맥쿼리인프라, 코웨이?, KT&G, 필립모리스
 * [그랩을 살려는 이유, 그리고 리스크 - YouTube](https://www.youtube.com/watch?v=YFTQssrANy0)
+* [슈퍼개미 배진한 레슨몬TV - YouTube](https://www.youtube.com/channel/UCu2R3TCLSxYV8pRyBGNOh2g/videos)
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
