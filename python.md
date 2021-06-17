@@ -4534,6 +4534,7 @@ Python
   * [emoji_rank: This is slack bot for emoji ranking](https://github.com/JAY-Chan9yu/emoji_rank)
     * [오픈소스 프로젝트를 만들어본 썰 풉니다! (feat. FastAPI, Slack) :: Jay's Code Factory](https://jay-ji.tistory.com/82)
   * [fastapi-boilerplate: FastAPI Boilerplate](https://github.com/teamhide/fastapi-boilerplate)
+  * [FastapiTutorial](https://www.fastapitutorial.com/)
   * [shopping-mall](https://github.com/jybaek/shopping-mall) basic 예제 + uvicorn
 * mod_wsgi
   * [What package I should install for 'pcre-devel'?](http://stackoverflow.com/questions/2263404/what-package-i-should-install-for-pcre-devel)
