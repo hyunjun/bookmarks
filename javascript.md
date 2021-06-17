@@ -1792,8 +1792,11 @@ Javascript
   * [npm에 배포하기 이전에 테스트 하기](http://blog.naver.com/pjt3591oo/221037875598)
   * [npm 모듈배포 - cli에서 사용할 수 있는 형태로도 배포를 해보자](http://blog.naver.com/pjt3591oo/221037777385)
   * [npm 소개 및 활용 ft. package.json](https://blog.l0gic.me/npm-%EC%86%8C%EA%B0%9C-%EB%B0%8F-%ED%99%9C%EC%9A%A9/)
-  * [노드를 더 우아하게. npm 이야기](http://jybaek.tistory.com/717)
   * [package.json과 package-lock.json의 혼재](https://medium.com/@pyeonjy97/package-json%EA%B3%BC-package-lock-json%EC%9D%98-%ED%98%BC%EC%9E%AC-83b80518c453)
+  * [NPM 의 package.json을 이용한 효율적 설치 방법](https://developer88.tistory.com/270)
+  * [모두 알지만 모두 모르는 package.json | 감성 프로그래밍](https://programmingsummaries.tistory.com/385)
+  * [Semver explained - why there's a caret (^) in my package.json?](http://bytearcher.com/articles/semver-explained-why-theres-a-caret-in-my-package-json/) semantic version
+  * [노드를 더 우아하게. npm 이야기](http://jybaek.tistory.com/717)
   * [Do I really need package-lock.json file?](https://hackernoon.com/do-i-really-need-package-lock-json-file-321ce29e7d2c)
   * [Mastering the Art of NPM](https://hackernoon.com/mastering-the-art-of-npm-ca06357150cb)
   * [These 6 essential tools will release, version, and maintain your NPM modules for you](https://hackernoon.com/these-6-essential-tools-will-maintain-your-npm-modules-for-you-4cbbee88e0cb)
@@ -1814,7 +1817,6 @@ Javascript
   * [NPM in the console](https://github.com/egoing/NPM-in-the-console)
     * [NPM in the console - Console에서 NPM을](https://www.youtube.com/watch?v=2m4iTjdgbMU)
   * [pnpm, 플랫하지 않은 패키지 매니저](https://imch.dev/posts/pnpm-a-manager-what-is-not-flat)
-  * [NPM 의 package.json을 이용한 효율적 설치 방법](https://developer88.tistory.com/270)
   * [npm install 에러 - MacOS](https://jybaek.tistory.com/865)
   * [10 things you should know about NPM](https://medium.com/javascript-in-plain-english/10-things-you-should-know-about-npm-f72f94a13954)
   * [NPM에 자신의 라이브러리 배포하기](https://dev-yakuza.github.io/ko/share/deploy-npm-library/)
@@ -1909,7 +1911,6 @@ Javascript
 * [DEBUGGING NODE.JS MEMORY LEAKS](http://blog.flowdock.com/2015/06/22/debugging-node-js-memory-leaks/)
 * [iron-node - Debug Node.js code with Google Chrome Developer Tools](https://github.com/s-a/iron-node)
 * [Synchronous File IO in Node.js](http://www.daveeddy.com/2013/03/26/synchronous-file-io-in-nodejs/)
-* [Semver explained - why there's a caret (^) in my package.json?](http://bytearcher.com/articles/semver-explained-why-theres-a-caret-in-my-package-json/)
 * [PUSHING THE PERFORMANCE LIMITS OF NODE.JS](http://www.jut.io/blog/2015/pushing-node-js-performance-limits)
 * [Hapi HTTP Mocking With Nock.js](http://jowanza.com/post/128386483144/hapi-http-mocking-with-nockjs)
 * [Time Traveling in Node.js Notebooks](http://blog.tonicdev.com/2015/09/10/time-traveling-in-node.js-notebooks.html)
@@ -3019,6 +3020,7 @@ Javascript
 * [Mark a Coordinate on Mapbox Map in React Native | by nhammad | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/mark-a-coordinate-on-mapbox-map-in-react-native-5d21c71ed46e)
 * [React Native and Android Studio: Everything you need to get started in Linux | by Romano Fenzo Flores | The Startup | Medium](https://medium.com/swlh/react-native-and-android-studio-everything-you-need-to-get-started-in-linux-b47154e78f9e)
 * [리액트 네이티브 앱 전환 그리고 1년 후 - 리디주식회사 RIDI Corporation](https://ridicorp.com/story/react-native-1year-review)
+* [react-native-cli 로 typescript 프로젝트 생성하기](https://velog.io/@juunini/react-native-cli-%EB%A1%9C-typescript-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
 * [react-native-daummap](https://www.npmjs.com/package/react-native-daummap)
 
 ## React Library
