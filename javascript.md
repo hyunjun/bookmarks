@@ -1821,6 +1821,8 @@ Javascript
   * [How to fix NPM error “Unable to authenticate, need: Bearer Authentication_URI” in NodeJS | by Bryant Jimin Son | Sep, 2020 | Medium](https://medium.com/@bryantjiminson/how-to-fix-npm-error-unable-to-authenticate-need-bearer-authentication-uri-in-nodejs-4aab94b3f2cd)
   * [**꿀벌개발일지 :: npm registry 를 찾지 못하는 이슈**](https://ohgyun.com/804)
   * [Mac OS 업데이트 후, NPM install시 gyp 오류날 경우](https://jojoldu.tistory.com/566)
+* [Nx: Smart, Extensible Build Framework](https://nx.dev/)
+  * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐. 소프트웨어의 수명과 복잡도는 대개 비례 관계입니다. 아무리 정교하고… | by 히로 | CLASS101 | Jun, 2021 | Medium](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77) microfrontend
 * [pnpm: a Space-Efficient JavaScript Package Manager](https://www.infoq.com/news/2020/06/pnpm-javascript-package-manager/)
 * [Snowpack - Build web applications with less tooling and 10x faster iteration](https://www.snowpack.dev/)
   * [Introducing Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
