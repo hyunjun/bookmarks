@@ -423,6 +423,8 @@ Programming
 * [WIP — Work in… What? | Scrum.org](https://hackernoon.com/wip-work-in-what-scrum-org-e10c57e0a7a2)
 * [JIRA 프로젝트 이슈 커스터마이징하기](https://evan-moon.github.io/2019/06/16/jira-customizing-issue)
 * [JIRA를 하자! - 쿠키런 : 오븐브레이크의 JIRA 도입기](https://tech.devsisters.com/posts/jira-of-qa)
+* [Solved: JQL find flagged issues](https://community.atlassian.com/t5/Jira-Software-questions/JQL-find-flagged-issues/qaq-p/664698)
+* Jira Search e.g. [`project = <project name> AND (type = Bug OR type = "Bug Fix" OR type = "Bug Sub-Task" ) AND status != Closed AND status != Cancelled AND status != "WON'T FIX"`](https://gist.github.com/hyunjun/0594e58adaec6ec1cb75158f5f97cad8#gistcomment-3783579)
 * [애자일이 도대체 뭐길래?](https://evan-moon.github.io/2019/07/02/what-is-agile)
 * [KPT하는 스타트업은 성장한다](https://brunch.co.kr/@fromjayden/7) Keep Problem Try
 * [What is Kanban? (and how does it work)](https://www.youtube.com/watch?v=xhxncRy-_Rk)
@@ -1742,6 +1744,7 @@ Programming
 * [gitxiv - Collaborative Open Computer Science](http://gitxiv.com/)
 * [inflearn.com/roadmaps](https://www.inflearn.com/roadmaps)
 * [infractal.org](http://infractal.org/)
+* JetBrains Academy [Learn computer programming | Online courses from JetBrains Academy](https://www.jetbrains.com/academy/)
 * [Khan Academy | Free Online Courses, Lessons & Practice](https://www.khanacademy.org/)
   * [khan-dl: Download courses from khanacademy.org](https://github.com/rand-net/khan-dl)
 * [K MOOC](http://www.kmooc.kr/)
