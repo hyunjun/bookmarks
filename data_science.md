@@ -368,6 +368,7 @@ Data Science
 * [The Elements of Data Analytic Style](https://leanpub.com/datastyle/read_full)
 * [Executive Data Science](https://leanpub.com/eds/read_full)
 * [Data Analysis for the Life Sciences](https://leanpub.com/dataanalysisforthelifesciences/read_full)
+* [Data-Engineering-with-Python: Data Engineering with Python, published by Packt](https://github.com/PacktPublishing/Data-Engineering-with-Python)
 * [Statistical inference for data science](https://leanpub.com/LittleInferenceBook/read_full)
 * [Essays on Data Analysis](https://leanpub.com/dataanalysisessays/read_full)
 * [Advanced Linear Models for Data Science](https://leanpub.com/lm)
