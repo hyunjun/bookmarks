@@ -205,6 +205,7 @@ Android
 * [인공지능 손글자(숫자) 판별기, 안드로이드 앱 만들어 보기. - YouTube](https://www.youtube.com/watch?v=vL0J0Fyfa4k)
 * [react-native 안드로이드 빌드가 안될 때 (Unsupported class file major version 60)](https://velog.io/@juunini/react-native-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EB%B9%8C%EB%93%9C%EA%B0%80-%EC%95%88%EB%90%A0-%EB%95%8C-Unsupported-class-file-major-version-60)
 * [Android Firebase FireStore Adding and Retrieving data in Kotlin 2020 - YouTube](https://www.youtube.com/watch?v=5UEdyUFi_uQ)
+* [안드로이드 플레이스토어에서 인앱결제 부가가치세 설정하기](https://velog.io/@jeho/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4%ED%86%A0%EC%96%B4%EC%97%90%EC%84%9C-%EC%9D%B8%EC%95%B1%EA%B2%B0%EC%A0%9C-%EB%B6%80%EA%B0%80%EA%B0%80%EC%B9%98%EC%84%B8-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
