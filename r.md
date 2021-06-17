@@ -248,13 +248,6 @@ R
 * [Time Series Analysis - 1 | Time Series in R | Time Series Forecasting | Data Science | Simplilearn](https://www.youtube.com/watch?v=gj4L2isnOf8)
 * [Time Series Analysis - 2 | Time Series in R | ARIMA Model Forecasting | Data Science | Simplilearn](https://www.youtube.com/watch?v=Y5T3ZEMZZKs)
 * [Data Science With R | Introduction to Data Science with R | Data Science For Beginners | Simplilearn](https://www.youtube.com/watch?v=0vCK17cQt14)
-* [Logistic Regression in R | Logistic Regression in R Example | Data Science Algorithms | Simplilearn](https://www.youtube.com/watch?v=XycruVLySDg)
-* [로지스틱 회귀(Logistic Regression) – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2237)
-* [Linear Regression in R | Linear Regression in R With Example | Data Science Algorithms | Simplilearn](https://www.youtube.com/watch?v=2Sb1Gvo5si8)
-* [Support Vector Machine in R | SVM Algorithm Example | Data Science With R Tutorial | Simplilearn](https://www.youtube.com/watch?v=QkAmOb1AMrY)
-* [Decision Tree In R | Decision Tree Algorithm | Data Science Tutorial | Machine Learning |Simplilearn](https://www.youtube.com/watch?v=HmEPCEXn-ZM)
-* [Random Forest In R | Random Forest Algorithm | Random Forest Tutorial | Machine Learning |Simpilearn](https://www.youtube.com/watch?v=HeTT73WxKIc)
-* [Implementing Random Forest in R - A Practical Application of Random Forest in Classifying Breast Cancer Patients](https://towardsdatascience.com/implement-random-forest-in-r-b00b69eb8501)
 * [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/)
 * [재현가능한 과학적 분석을 위한 R](https://statkclee.github.io/r-gapminder-kr/)
 * [재현가능한 과학적 분석을 위한 R (Gapminder)](https://statkclee.github.io/r-novice-gapminder/index-kr.html)
@@ -713,6 +706,13 @@ R
 * [RCrawler: An R package for parallel web crawling and scraping - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S2352711017300110)
 
 # Machine Learning
+* [Logistic Regression in R | Logistic Regression in R Example | Data Science Algorithms | Simplilearn](https://www.youtube.com/watch?v=XycruVLySDg)
+* [로지스틱 회귀(Logistic Regression) – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2237)
+* [Linear Regression in R | Linear Regression in R With Example | Data Science Algorithms | Simplilearn](https://www.youtube.com/watch?v=2Sb1Gvo5si8)
+* [Support Vector Machine in R | SVM Algorithm Example | Data Science With R Tutorial | Simplilearn](https://www.youtube.com/watch?v=QkAmOb1AMrY)
+* [Decision Tree In R | Decision Tree Algorithm | Data Science Tutorial | Machine Learning |Simplilearn](https://www.youtube.com/watch?v=HmEPCEXn-ZM)
+* [Random Forest In R | Random Forest Algorithm | Random Forest Tutorial | Machine Learning |Simpilearn](https://www.youtube.com/watch?v=HeTT73WxKIc)
+* [Implementing Random Forest in R - A Practical Application of Random Forest in Classifying Breast Cancer Patients](https://towardsdatascience.com/implement-random-forest-in-r-b00b69eb8501)
 * [Machine Learning with R: An Irresponsibly Fast Tutorial](http://will-stanton.com/machine-learning-with-r-an-irresponsibly-fast-tutorial/)
 * [**R을 활용한 머신러닝**](http://nbviewer.jupyter.org/format/slides/gist/KevinSHNa/007b8b578c645748b138633322280ba3#/)
 * [A Guide to Machine Learning in R for Beginners: Logistic Regression](https://medium.com/analytics-vidhya/a-guide-to-machine-learning-in-r-for-beginners-part-5-4c00f2366b90)
@@ -738,6 +738,7 @@ R
 * [modelStudio - Interactive Studio with Explanations for ML Predictive Models](https://modeloriented.github.io/modelStudio/)
   * [Explanatory Model Analysis with modelStudio](https://www.r-bloggers.com/explanatory-model-analysis-with-modelstudio/)
 * SuperLearner [Guide to SuperLearner](https://cran.r-project.org/web/packages/SuperLearner/vignettes/Guide-to-SuperLearner.html)
+* [train_test_split_R: Split an R data frame into train_X, test_X, train_y, and test_y sets. Optimize representativity of samples across features](https://github.com/KalebCoberly/train_test_split_R)
 
 # NLP
 * [한글 텍스트 형태소 분석기 사용 코드](https://github.com/vl0w0lv/kor-tm/blob/master/Rcode)
