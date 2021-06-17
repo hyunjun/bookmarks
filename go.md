@@ -427,6 +427,8 @@ Go
   * [See Android Go! Go, Android. Go!](http://www.codingvelocity.com/2015/07/23/go-mobile-intro.html)
 * [antibody - A faster and simpler antigen written in Golang. http://antibody.elasticbeanstalk.com ](https://github.com/caarlos0/antibody)
 * [arc - An Adaptive Replacement Cache (ARC) written in Go](https://github.com/alexanderGugel/arc)
+* [atomic: Wrapper types for sync/atomic which enforce atomic access](https://github.com/uber-go/atomic)
+  * [golang - go.uber.org/atomic 패키지를 사용하여 atomic 다루기 - jacking75](https://jacking75.github.io/go_lib_uber_atomic/)
 * [AWS SDK for Go](https://aws.amazon.com/ko/blogs/aws/developer-preview-of-aws-sdk-for-go-is-now-available/)
   * [Now Available: Version 1.0 of the AWS SDK for Go](https://aws.amazon.com/ko/blogs/aws/now-available-version-1-0-of-the-aws-sdk-for-go/)
 * [bigcache - Efficient cache for gigabytes of data written in Go](https://github.com/allegro/bigcache)
