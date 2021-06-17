@@ -4540,6 +4540,9 @@ Python
     * `yum install pcre-devel.x86_64 -y`
     * `apt-get install libpcre3-dev -y`
 * [Pyramid, a Python Web Framework](https://trypyramid.com/)
+* [PyWebIO](https://pywebio.readthedocs.io/)
+  * [How to build your first simple web application in Python with PyWebIO - YouTube](https://www.youtube.com/watch?v=n6I58WJiKGU)
+    * [pywebio-bmi](https://github.com/dataprofessor/pywebio-bmi)
 * [Quart documentation](https://pgjones.gitlab.io/quart/)
 * [Tornado Web Server](https://www.tornadoweb.org/)
   * [Python Tornado 웹서버 개발 HelloWorld부터 비동기식 데이터 처리까지](https://speakerdeck.com/spritecodej/junbeom-park)
