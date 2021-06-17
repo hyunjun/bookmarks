@@ -341,6 +341,7 @@ History
 * [삼국지 실제 역사적 배경과 실제 지리](https://www.youtube.com/watch?v=Y5CyZJgiuVE)
 * [정사 삼국지방 파성넷](http://rexhistoria.net/)
 * [홍콩의 싸움: 정체성의 관점에서](http://slownews.kr/73604)
+* [왜 중국은 고령화를 걱정하는가?](https://pgr21.com/freedom/90326)
 
 ## India
 * [인도서 '환생 믿은' 고대 유골이 발견됐다](http://www.huffingtonpost.kr/2015/04/16/story_n_7076778.html)
