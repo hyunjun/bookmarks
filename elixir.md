@@ -71,6 +71,7 @@ Elixir
 * [Metaprogramming Elixir / Chris McCord](http://ohyecloudy.com/pnotes/archives/book-metaprogramming-elixir/)
 * [#elixirlang 매크로 코드 디버깅 팁](http://ohyecloudy.com/pnotes/archives/elixirlang-how-to-debug-macro/)
 * [#elixirlang Elixir-Slack 라이브러리가 매크로를 사용해 slack api 호출 함수를 생성하는 방법](http://ohyecloudy.com/pnotes/archives/how-elixir-slack-library-uses-macros-to-create-slack-api-calling-functions/)
+* [#elixirlang 매크로를 사용해 decorator를 구현하는 방법](http://ohyecloudy.com/pnotes/archives/elixirlang-how-to-implement-decorator-with-macro/)
 * [Elixir vs Scala](https://www.infoq.com/presentations/elixir-vs-scala/)
 
 # Book
