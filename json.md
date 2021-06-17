@@ -126,6 +126,8 @@ Json
 * [JMESPath - a query language for JSON](http://jmespath.org/)
 * [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo ](https://github.com/jpmens/jo)
 * [**jq - a lightweight and flexible command-line JSON processor**](http://stedolan.github.io/jq/)
+  * [practice - 몇 개의 key value들을 string으로 묶어서 출력](https://gist.github.com/hyunjun/1e9051236e9cc05ac3a407bd062ac3d7#file-example-md)
+    * [Using jq to parse and display multiple fields in a json serially - Stack Overflow](https://stackoverflow.com/questions/28164849/using-jq-to-parse-and-display-multiple-fields-in-a-json-serially)
   * [커맨드라인 JSON 프로세서 jq](https://www.44bits.io/ko/post/cli_json_processor_jq_basic_syntax)
   * [Install jq on Centos 7](https://medium.com/@gchandra/install-jq-on-centos-7-459dd650baa3)
 
@@ -134,6 +136,7 @@ Json
     # yum install jq -y
     ```
   * [Parsing JSON at the CLI: A Practical Introduction to `jq` (and more!) | Sequoia McDowell](https://sequoia.makes.software/parsing-json-at-the-cli-a-practical-introduction-to-jq-and-more/)
+  * [linux - Using jq to fetch key value from json output - Stack Overflow](https://stackoverflow.com/questions/39798542/using-jq-to-fetch-key-value-from-json-output)
 * [jsawk - Like awk, but for JSON http://thinkminimo.com](https://github.com/micha/jsawk)
 * Json2CSharp [Convert JSON to C# Classes Online - Json2CSharp Toolkit](https://json2csharp.com/)
 * [JSON 2 HTML](https://json.bloople.net/)
