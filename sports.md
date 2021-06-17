@@ -142,6 +142,8 @@ Sports
 * [Canvassing The NBA’s International Business Landscape](https://medium.com/the-inter-national-basketball-association/canvassing-the-nbas-international-business-cefc0cd2d919)
 * [농구 좋아하는 외국인steadylosing님의블로그 : 네이버 블로그](https://blog.naver.com/steadylosing)
 * [South Korean KBL Team Stats - RealGM](https://basketball.realgm.com/international/league/63/South-Korean-KBL/team-stats)
+* [농구 통계를 사용해 Visual Studio Code에서 경기 플레이 최적화 - 새 영화 ‘스페이스 잼 새로운 시대’의 영감 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/paths/optimize-basketball-games-with-machine-learning/)
+* [데이터를 사용하여 농구 코트에서 결정을 내리는 웹앱 만들기 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/sports-machine-learning/optimize-basketball-player-rest-breaks/)
 
 # Football
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)
