@@ -9,6 +9,7 @@ Linux
 * [Linux Survival](http://linuxsurvival.com/)
 * [Understanding the bin, sbin, usr/bin, usr/sbin Split](http://landley.net/writing/hackermonthly-issue022-pg33.pdf)
 * [운영체제 - 이화여자대학교 반효경](http://www.kocw.net/home/search/kemView.do?kemId=1046323&ar=pop)
+* [리눅스 사용에 도움주는 커뮤니티 사이트 모아보기 : 클리앙](https://www.clien.net/service/board/useful/16060639)
 * [A history of modern init systems (1992-2015)](http://blog.darknedgy.net/technology/2015/09/05/0/)
 * [brunch.co.kr/@alden](https://brunch.co.kr/@alden/)
 * [High Performance Multi-core Networked and Storage Systems for Linux](http://natsys-lab.blogspot.kr/2015/09/fast-memory-pool-allocators-boost-nginx.html)
