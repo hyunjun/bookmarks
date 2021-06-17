@@ -476,7 +476,7 @@ App
   * [Dash란?](http://byron1st.pe.kr/?p=244)
 * [docz - It has never been so easy to document your things! https://docz.site](https://github.com/pedronauck/docz)
 * [Lando - A Local Dev Tool For Every Project | Lando](https://lando.dev/)
-* mysetting [Develop. Share. Discover. For developers - mysetting](https://mysetting.io/)
+* mysetting [**Develop. Share. Discover. For developers - mysetting**](https://mysetting.io/)
 * [n8n.io - Open Source Alternative for Zapier/tray.io](https://n8n.io)
 * [Nix - a tool that takes a unique approach to package management and system configuration](https://nixos.org/)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
