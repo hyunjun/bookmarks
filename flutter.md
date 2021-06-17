@@ -19,7 +19,6 @@ Flutter
 * [An Introduction to Flutter: The Basics](https://medium.freecodecamp.org/an-introduction-to-flutter-the-basics-9fe541fd39e2)
 * [Flutter: the good, the bad and the ugly](https://medium.com/asos-techblog/flutter-vs-react-native-for-ios-android-app-development-c41b4e038db9)
 * [Flutter 입문. 안드로이드, iOS 개발을 한 번에](https://www.youtube.com/playlist?list=PLxTmPHxRH3VUueVvEnrP8qxHAP5x9XAPv)
-* [How to integrate your iOS Flutter App with Firebase on MacOS](https://medium.freecodecamp.org/how-to-integrate-your-ios-flutter-app-with-firebase-on-macos-6ad08e2714f0)
 * [RTFM 공부법 - 플러터 (Flutter) 튜토리얼 1](https://www.youtube.com/watch?v=7LwE_7kJbAY)
 * [Flutter vs React Native — Will Flutter Kill React Native](https://hackernoon.com/flutter-vs-react-native-will-flutter-kill-react-native-16f5515e5444)
 * [Flutter와 싸우기, 그리고 화해하기](https://speakerdeck.com/dsa28s/2019-gdg-suwon-na-kodinghanda-flutter-pyeon-flutterwa-ssaugi-geurigo-hwahaehagi)
@@ -134,6 +133,12 @@ Flutter
 * [pure_firestore](https://github.com/kdy1/pure_firestore)
 * [dart 문법 - 데이터타입(기본타입, 자료구조)](https://blog.naver.com/pjt3591oo/222309654609)
 
+# Firebase
+* [How to integrate your iOS Flutter App with Firebase on MacOS](https://medium.freecodecamp.org/how-to-integrate-your-ios-flutter-app-with-firebase-on-macos-6ad08e2714f0)
+* [Flutter 강의 with Provider 그리고 Firebase - YouTube](https://www.youtube.com/watch?v=w1fmJOSsNyA)
+* [7시간 | 코딩기초부터 고급까지 Flutter 강의 with Provider 그리고 Firebase | Login page | 로그인 페이지 - YouTube](https://www.youtube.com/watch?v=w1fmJOSsNyA)
+* [Firebase core - 이번 블로그 포스트에서는 Flutter에서 Firebase를 연동하는 방법에 대해서 알아보겠습니다](https://dev-yakuza.posstree.com/ko/flutter/firebase/core/)
+
 # Library
 * [디자인을 Flutter코드로 변환 - supernova툴](https://open-support.tistory.com/entry/%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-Flutter%EC%BD%94%EB%93%9C%EB%A1%9C-%EB%B3%80%ED%99%98-supernova%ED%88%B4)
 * Moor
@@ -160,8 +165,6 @@ Flutter
 * [Flutter Tutorial for Beginners](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ)
 * [Flutter Widget](https://www.youtube.com/playlist?list=PLIKnSA4GMR4NXpNdCtJOL0BhWcxX_BBHJ)
 * [pythonkim.tistory.com/category/플러터](https://pythonkim.tistory.com/category/%ED%94%8C%EB%9F%AC%ED%84%B0)
-* [Flutter 강의 with Provider 그리고 Firebase - YouTube](https://www.youtube.com/watch?v=w1fmJOSsNyA)
-* [7시간 | 코딩기초부터 고급까지 Flutter 강의 with Provider 그리고 Firebase | Login page | 로그인 페이지 - YouTube](https://www.youtube.com/watch?v=w1fmJOSsNyA)
 * [앱개발 Flutter Provider 로 SNS 스타일 Infinite Scroll 구현하기! - YouTube](https://www.youtube.com/watch?v=z06BqWRMPo8)
 * [Flutter 강좌 with Provider | Login page | 로그인 페이지](https://www.youtube.com/watch?v=kB3tTZhnJIg)
 * [Provider없이 앱을 만들면 힘들지... #상태관리 #flutter #더코딩파파 - YouTube](https://www.youtube.com/watch?v=ikV-Ub9XgO4)
