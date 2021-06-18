@@ -2976,6 +2976,13 @@ Programming
   * [Spock Extension과 Elasticsearch + Kibana 조합으로 테스트 결과를 빠르게 피드백 받기](http://woowabros.github.io/experience/2019/12/16/quickly-get-feedback-on-your-test-with-spock-extension-and-es-kibana.html)
 
 # Troubleshooting, 장애 해결
+* Experiences
+  * 여러 대의 server에서 동일한 server program을 동일한 version을 실행했는데 한 대만 이해할 수 없는 오류 발생
+    * 담당자가 아무리 조사해도 logic상 오류가 없었는데, 조사 결과 해당 server만 hardware 사양이 달랐고, 사용한 compiler가 해당 hardware의 특정 chip에서 연산 오류가 있었던 매우 희귀한 사례
+  * 갑자기 server가 down된 듯 Grafana monitoring도 멈추고, ssh 접속도 불가
+    * hardware NIC module이 문제를 일으켜서 복구 후 정상 원복
+    * 하지만 error report가 올라가지 않았는데 그 이유는 NIC module 문제로 network 자체가 안 되어 오류 수집도 불가능하니 보고도 안되어서
+    * 그나마 다행이었던 점은 server 작업이 email 처리이기 때문에 시간이 밀려도 처리만 제대로 되면 문제가 발생하지 않는 건데, 만약 실시간성 작업이었으면 문제가 커졌을 듯
 * [LINE의 장애 보고와 후속 절차 문화](https://engineering.linecorp.com/ko/blog/line-failure-reporting-and-follow-up-process-culture/)
 * [테크이야기 앱 서비스 장애편 #1 - 화면 로딩 속도](https://blog.imqa.io/app_failure_launch_time/)
 * [앱 서비스 장애편 #2 - 폰의 발열이 심해요 (CPU/GPU 편)](https://blog.imqa.io/app_failure_overheating_issue/)
