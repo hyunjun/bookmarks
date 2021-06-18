@@ -73,6 +73,7 @@ Programmer
 * [1억 글로벌 서비스를 만들며 배운 것들 2](https://brunch.co.kr/@jinaseong/29) 디자이너 이야기이지만 읽어볼만 함
 * [신입 개발자로서 도움이 된 포스트/자료 모음](https://velog.io/@hyounglee/for-newbies)
 * [Why I prefer making useless stuff - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
+* [System Compleat. System Compleat.](https://kerberosj.tistory.com/) Singapore DBS 근무
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
