@@ -476,6 +476,7 @@ Scala
 * [A case for akka-coordination lease | by Michał Ostruszka | Nov, 2020 | SoftwareMill Tech Blog](https://blog.softwaremill.com/a-case-for-akka-coordination-lease-4867887e4d7f)
 * [Akka Platform Guide :: Akka Platform Guide](https://developer.lightbend.com/docs/akka-platform-guide/index.html)
 * [Type safe, message driven, distributed - a whirlwind tour of Akka by Johan Andrén - YouTube](https://www.youtube.com/watch?v=o1iKDgq9Asg)
+* [Akka Serverless | @lightbend](https://www.lightbend.com/akka-serverless)
 * [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
 * Akka-Persistence-Postgres [Why we need yet another Akka persistence plugin | by Marcin Kubala | SoftwareMill Tech Blog](https://blog.softwaremill.com/why-we-need-yet-another-akka-persistence-plugin-4e08993eb04e)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
@@ -1879,6 +1880,7 @@ Scala
 * [Top Level Exports in #Scala3 - YouTube](https://www.youtube.com/watch?v=dh61X4GZmvg)
 * [Favor composition over inheritance in #Scala3 with exports! - YouTube](https://www.youtube.com/watch?v=s1MLX9OMuSg)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=M6RP9quyUsU) typeclass Mirror
+* [Existential Crisis: Implementing MapK in Scala 3 - DEV Community](https://dev.to/raquo/existential-crisis-implementing-mapk-in-scala-3-2fo1)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
@@ -1958,6 +1960,7 @@ Scala
 * [Scala com Gitlab para iniciantes. | LinkedIn](https://www.linkedin.com/pulse/scala-com-gitlab-para-iniciantes-lucas-oliveira/)
 * [AirSpec - a new functional testing framework for Scala and Scala.js](https://github.com/wvlet/airframe/tree/master/airspec)
   * [AirSpec: Writing Tests As Plain Functions In Scala](https://medium.com/airframe/airspec-bbc8d4369157)
+* [Difflicious - helps you find and compare the differences between values](https://jatcwang.github.io/difflicious/)
 * [Hedgehog - a modern property-based testing system](https://github.com/hedgehogqa/scala-hedgehog)
   * [practice - hedgehog](https://gist.github.com/hyunjun/c47c7e1956c2bea685b337458fa51883#file-hedgehog-scala)
   * [hedgehog.qa](https://hedgehog.qa/)
