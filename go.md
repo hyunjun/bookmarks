@@ -332,6 +332,8 @@ Go
   * [Regex Tester - Golang](https://regex-golang.appspot.com/assets/html/index.html)
   * [Go by Example: Regular Expressions](https://gobyexample.com/regular-expressions)
   * [가장 빨리 만나는 Go 언어 Unit 48. 정규표현식 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit48)
+* strings
+  * [golang - Go 언어의 strings.Builder을 이용한 문자열 연결 최적화 및 벤치마킹 - jacking75](https://jacking75.github.io/go_strings_Builder/)
 * sync
   * [A Closer Look at Go’s sync Package](https://medium.com/@teivah/a-closer-look-at-go-sync-package-9f4e4a28c35a)
 * time
@@ -616,6 +618,7 @@ Go
 * [vtprotobuf: A Protocol Buffers compiler that generates optimized marshaling & unmarshaling Go code for ProtoBuf APIv2](https://github.com/planetscale/vtprotobuf)
   * [Vitess | A database clustering system for horizontal scaling of MySQL](https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/)
 * [wego - weather app for the terminal](https://github.com/schachmat/wego)
+* wmi2struct [golang - Windows Management Instrumentation을 쉽게 얻을 수 있는 도구 wmi2struct - jacking75](https://jacking75.github.io/go_lib_wmi2struct/)
 * [xid: golang GUID 생성 package 둘러보기](https://jusths.tistory.com/148)
 * [xurls - Extract urls from text](https://github.com/mvdan/xurls)
 * [Yahoo Stock Quotes in Go](https://github.com/doneland/yquotes)
