@@ -206,6 +206,7 @@ Web
 * [37. 월드와이드웹(WWW)의 시작 1 | 만화로 나누는 자유/오픈소스 소프트웨어 이야기](https://joone.net/2021/01/02/37-%ec%9b%94%eb%93%9c%ec%99%80%ec%9d%b4%eb%93%9c%ec%9b%b9www%ec%9d%98-%ec%8b%9c%ec%9e%91-1/)
 * [WebDevChallenge: A hopefully ever-growing list of web-development related challenges](https://github.com/jlem/WebDevChallenge)
 * [Under 1px line](https://hokeydokey.tistory.com/156)
+* [LINE에서 하루 만에 정적 웹 페이지 개발해서 배포하는 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/how-to-quickly-develop-static-pages-in-line/)
 
 # Apache
 * installation
@@ -879,6 +880,7 @@ Web
   * [내가 만든 서비스는 얼마나 많은 사용자가 이용할 수 있을까? - 2편(nGrinder를 활용한 성능테스트)](https://hyuntaeknote.tistory.com/11)
   * [nGrinder를 이용한 api 성능테스트 후기 | Recoding Life](https://jane096.github.io/project/ngrinder-performance-test/)
   * [nGrinder 성능테스트 결과를 통한 로그인 성능개선 과정을 알아보자 | Recoding Life](https://jane096.github.io/project/ngrinder-login-refactoring/)
+  * [스케일링 가능한 Ngrinder 환경 구축하기 (feat. AWS Beanstalk)](https://jojoldu.tistory.com/581)
 * [Siege - an http load testing and benchmarking utility](https://www.joedog.org/siege-home/)
 * [vegeta - HTTP load testing tool and library. It's over 9000!](https://github.com/tsenart/vegeta)
 
