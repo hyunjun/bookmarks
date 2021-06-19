@@ -845,6 +845,11 @@ NLP
 * [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 * [List of free resources to learn Natural Language Processing](https://blog.paralleldots.com/data-science/nlp/free-natural-language-processing-resources)
 * [Learn Natural Language Processing](https://www.youtube.com/watch?v=GazFsfcijXQ)
+* [9 Best Tensorflow Courses & Certifications Online- Discover the Best One!](https://www.mltut.com/best-tensorflow-courses-certifications-online/)
+* [DeepMind x UCL | Deep Learning Lectures | 7/12 | Deep Learning for Natural Language Processing - YouTube](https://www.youtube.com/watch?v=8zAP2qWAsKg)
+* [NLP Course | For You](https://lena-voita.github.io/nlp_course.html) word embeddings, text classification, language modeling, seq2seq and attention
+* [Best Natural Language Processing Courses Online in 2021-UPDATED](https://www.mltut.com/best-natural-language-processing-courses-online-to-become-expert/)
+* [11 Best Natural Language Processing Courses Online- Bestseller in 2021](https://www.mltut.com/best-natural-language-processing-courses-online-to-become-expert/)
 * [Computational Linguistics](https://hpshin.github.io/ComputationalLinguistics/index.html)
 * [CS224d: Deep Learning for Natural Language Processing](http://cs224d.stanford.edu/)
   * [DSBA CS224d](https://www.youtube.com/playlist?list=PLetSlH8YjIfUf3gBv1JpCLa9WVaL8yE0-)
@@ -865,10 +870,6 @@ NLP
 * [CS 20SI: Tensorflow for Deep Learning Research](https://web.stanford.edu/class/cs20si/)
 * [YSDA Natural Language Processing course](https://github.com/yandexdataschool/nlp_course)
   * [NLP_COURSE: A Deep Learning YSDA Natural Language Processing Course By GitHub](https://www.techleer.com/articles/570-nlp_course-a-deep-learning-ysda-natural-language-processing-course-by-github)
-* [DeepMind x UCL | Deep Learning Lectures | 7/12 | Deep Learning for Natural Language Processing - YouTube](https://www.youtube.com/watch?v=8zAP2qWAsKg)
-* [9 Best Tensorflow Courses & Certifications Online- Discover the Best One!](https://www.mltut.com/best-tensorflow-courses-certifications-online/)
-* [NLP Course | For You](https://lena-voita.github.io/nlp_course.html) word embeddings, text classification, language modeling, seq2seq and attention
-* [Best Natural Language Processing Courses Online in 2021-UPDATED](https://www.mltut.com/best-natural-language-processing-courses-online-to-become-expert/)
 
 # Data
 * [Justin J. Nguyen: Exposing Dark Data in the enterprise with custom NLP | PyData Miami 2019](https://www.youtube.com/watch?v=iFgNcBahUAE)
