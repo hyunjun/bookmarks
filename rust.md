@@ -135,6 +135,7 @@
 * [리눅스 커널에서의 Rust 지원을 위한 RFC | GeekNews](https://news.hada.io/topic?id=4080)
 * [Rust for the Seasoned Scala Developer](https://phazer99.blogspot.com/2021/05/rust-for-seasoned-scala-developer.html)
 * [Behind the scenes of 1Password for Linux | by Dave Teare | May, 2021 | Medium](https://dteare.medium.com/behind-the-scenes-of-1password-for-linux-d59b19143a23)
+* [Rust: Zero Cost Abstractions - YouTube](https://www.youtube.com/watch?v=JCGjjk5ccV0)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
