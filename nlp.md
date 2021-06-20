@@ -163,7 +163,6 @@ NLP
     * Semantics – what is the meaning?: “no implementation bugs”
     * Pragmatics – what is the purpose or goal?: “implemented the right algorithm.”
 * [Deep Learning for Text Understanding from Scratch](http://www.kdnuggets.com/2015/03/deep-learning-text-understanding-from-scratch.html)
-* [**Mining English and Korean text with Python**](https://www.lucypark.kr/courses/2015-ba/text-mining.html)
 * [How to get started in NLP](https://medium.com/towards-data-science/how-to-get-started-in-nlp-6a62aa4eaeff)
 * [NATURAL LANGUAGE GENERATION](http://www.inf.ed.ac.uk/teaching/courses/nlg/)
 * [NLP for Korean](https://github.com/bage79/nlp4kor)
@@ -1134,7 +1133,6 @@ NLP
   * [Approximate nearest neighbor methods and vector models – NYC ML meetup](http://www.slideshare.net/erikbern/approximate-nearest-neighbor-methods-and-vector-models-nyc-ml-meetup)
   * [Approximate Nearest Neighbors](https://brunch.co.kr/@goodvc78/15)
 * [Document Clustering with Python](http://brandonrose.org/clustering)
-* [Mining English and Korean text with Python](http://www.lucypark.kr/courses/2015-ba/text-mining.html)
 * [ecco: Visuals and explore NLP language models. Ecco creates interactive visualizations directly in Jupyter notebooks explaining the behavior of Transformer-based language models (like GPT2)](https://github.com/jalammar/ecco)
 * [Ekphrasis - a text processing tool, geared towards text from social networks, such as Twitter or Facebook. Ekphrasis performs tokenization, word normalization, word segmentation (for splitting hashtags) and spell correction](https://github.com/cbaziotis/ekphrasis)
 * [Emoji for Python](https://github.com/carpedm20/emoji)
@@ -1221,6 +1219,8 @@ NLP
   * [TextFeatureSelection — A Python package - Praveen Govindaraj - Medium](https://medium.com/@praveengovi/textfeatureselection-a-python-package-c7493207b92)
 * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
 * [textgenrnn - Python module to easily generate text using a pretrained character-based recurrent neural network](https://github.com/minimaxir/textgenrnn)
+* [twitter_optimus_twint: Analyzing tweets with Twint, Optimus and Apache Spark](https://github.com/FavioVazquez/twitter_optimus_twint)
+  * [Analyzing Tweets with NLP in minutes with Spark, Optimus and Twint | by Favio Vázquez | Towards Data Science](https://towardsdatascience.com/analyzing-tweets-with-nlp-in-minutes-with-spark-optimus-and-twint-a0c96084995f)
 * [UTagger](http://nlplab.ulsan.ac.kr/doku.php?id=utagger)
 * [Vowpal Wabbit is a machine learning system which pushes the frontier of machine learning with techniques such as online, hashing, allreduce, reductions, learning2search, active, and interactive learning. http://hunch.net/~vw ](https://github.com/JohnLangford/vowpal_wabbit)
   * [vwnlp - Solving NLP problems with Vowpal Wabbit: Tutorial and more](https://github.com/hal3/vwnlp)
@@ -1541,6 +1541,8 @@ NLP
 * [Python을 활용한 텍스트 마이닝](http://www.lifebloom.biz/category/py/tm/)
 * [Text Mining 101: A Stepwise Introduction to Topic Modeling using Latent Semantic Analysis (using Python)](https://medium.com/analytics-vidhya/text-mining-101-a-stepwise-introduction-to-topic-modeling-using-latent-semantic-analysis-using-add9c905efd9)
 * [Natural Language Processing (NLP) & Text Mining Tutorial Using NLTK | NLP Training | Edureka](https://www.youtube.com/watch?v=05ONoGfmKvA)
+* [**Mining English and Korean text with Python**](https://www.lucypark.kr/courses/2015-ba/text-mining.html)
+* [teanaps: 텍스트 분석을 위한 교육용 Python 패키지 입니다](https://github.com/fingeredman/teanaps)
 
 # TFIDF, TF-IDF
 * [TFIDF In Java](https://github.com/taki0112/TFIDF_Java)
@@ -1706,6 +1708,7 @@ NLP
   * [2. Live coding Jarvis Transcriptions for Speech to Text Dataset p.2 - YouTube](https://www.youtube.com/watch?v=BDl6fzhp2Ao)
 * [openspeech: Open-Source Toolkit for End-to-End Speech Recognition leveraging PyTorch-Lightning and Hydra](https://github.com/sooftware/openspeech)
 * [**ratsgo's speechbook**](https://ratsgo.github.io/speechbook/)
+* [speech-recognition: Develop speech recognition models with Tensorflow 2](https://github.com/cosmoquester/speech-recognition)
 * Tabletop [Bringing Tabletop Audio to Actions on Google through media responses](https://medium.com/google-developers/bringing-tabletop-audio-to-actions-on-google-through-media-responses-a48bbcd9a38)
 * [Tacotron, Wavenet-Vocoder, Koearn TTS](https://github.com/hccho2/Tacotron-Wavenet-Vocoder)
   * [딥러닝 음성합성 multi-speaker-tacotron(tacotron+deepvoice)설치 및 사용법](http://nblog.syszone.co.kr/archives/9416)
@@ -1722,6 +1725,7 @@ NLP
   * [인간처럼 톤․억양 재현한 음성을…](http://techholic.co.kr/archives/60333)
 * VocGAN [더 깨끗하고 완벽한 AI 음성을 위해, 뉴럴 보코더(Neural Vocoder)](https://blog.ncsoft.com/vocgan-ai-20200922/)
 * voice [Common Voice Project](https://voice.mozilla.org/)
+* [voice2json | Command-line tools for speech and intent recognition on Linux](https://voice2json.org/)
 
 # Wikipedia
 * [**practice - wikipedia**](https://gist.github.com/hyunjun/3f628bbf2a4ccdcd11f4)
