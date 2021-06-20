@@ -9,10 +9,13 @@
   * 내공 외공 한쪽만으로도 최고수
     * e.g. 교수 비전공자로 성공한 사람 결국 어느 쪽이건 양쪽이 필요해짐
   * 주화입마
-  * architecture에서 흐름을 단순화해야 하는 이유
-    * 프로그래밍을 배울 때 goto를 피해야 한다고 배움. 스파게티 코드를 피하기 위해서
-    * 이런 문제를 피하기 위해 oop, design pattern, ... 같은 게 생겨나게 되었음
-    * architecture도 마찬가지. 특히 MSA로 만드는 경우 micro service 하나 하나를 function으로 바꿔서 보면 이런 위험에 빠지기 쉬움
+  * architecture
+    * 흐름을 단순화해야 하는 이유
+      * 프로그래밍을 배울 때 goto를 피해야 한다고 배움. 스파게티 코드를 피하기 위해서
+      * 이런 문제를 피하기 위해 oop, design pattern, ... 같은 게 생겨나게 되었음
+      * architecture도 마찬가지. 특히 MSA로 만드는 경우 micro service 하나 하나를 function으로 바꿔서 보면 이런 위험에 빠지기 쉬움
+    * [미래를 예측할 수 없으니 가능한 단순하게 만들어라](https://twitter.com/promit_roy/status/1405912880663433223)
+      * John Carmack이 유명해서인지 마치 그가 한 말인 거 처럼 퍼지는 데 [John Carmack은 retweet](https://twitter.com/ID_AA_Carmack/status/1405932642005041153)하면서 의견을 더함
   * balance
     * 가장 중요한 부분에 집중해야 하는 건 코드 작성에서도 마찬가지이지만 그렇다고 균형을 잃고 한쪽에 과도하게 집중하면 반대로 손실도 항상 발생
     * 야구에서 장타력을 더 향상시키기 위해 웨이트를 늘력 근육량을 키웠다가 균형을 잃고 타격 지표 전체가 하락하는 일은 빈번(e.g. 2021 터커)
