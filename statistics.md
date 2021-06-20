@@ -407,6 +407,7 @@ Statistics
   * [Markov Chain Monte Carlo in Python - A Complete Real-World Implementation](https://towardsdatascience.com/markov-chain-monte-carlo-in-python-44f7e609be98)
   * [Probabilistic Programming: A Modern Bayesian Workflow || Peadar Coyle](https://www.youtube.com/watch?v=7QlKZKbQa6M)
   * [Hands On Bayesian Statistics with Python, PyMC3 & ArviZ](https://towardsdatascience.com/hands-on-bayesian-statistics-with-python-pymc3-arviz-499db9a59501)
+  * [Supercharging Decision Making with Bayes - YouTube](https://www.youtube.com/watch?v=pJH_2y9J9-I)
 * [Statistics Using Python Tutorial](https://www.youtube.com/playlist?list=PLlz0muypSBNZXEDDy7RftBdIJNHEN0t1a)
   * [Part 4](https://www.youtube.com/watch?v=6ZA5lvooc5I)
   * [Part 5](https://www.youtube.com/watch?v=CISnF83dGTc)
