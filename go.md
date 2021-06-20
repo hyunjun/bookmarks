@@ -269,6 +269,9 @@ Go
 * [Build A Simple Terminal Emulator In 100 Lines of Golang](https://ishuah.com/2021/03/10/build-a-terminal-emulator-in-100-lines-of-go/)
 * [Branchless Coding in Go | Matt Nakama](https://mattnakama.com/blog/go-branchless-coding/)
 * [server-client-template-go](https://github.com/codingpot/server-client-template-go)
+* [golang - Linux의 binfmt_misc을 사용하여 Go 스크립트를 직접 실행할 수 있게 하기 - jacking75](https://jacking75.github.io/go_binfmt_misc/)
+* [첫번째 글 - Hello World on API Gateway](https://fallwalker.tistory.com/4)
+* [두번째 글 - 함수 사용하기](https://fallwalker.tistory.com/9)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
