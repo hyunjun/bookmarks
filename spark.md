@@ -715,8 +715,6 @@
   * [Resilient Distributed Datasets: A Fault-Tolerant Abstraction for In-Memory Cluster Computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf)
 * [Feature Engineering at Scale With Spark](http://eugenezhulenev.com/blog/2015/06/10/feature-engineering-at-scale/)
 * [Audience Modeling With Spark ML Pipelines](http://eugenezhulenev.com/blog/2015/09/09/audience-modeling-with-spark-ml-pipelines/)
-* [Manage your Machine Learning Lifecycle with MLflow — Part 1](https://towardsdatascience.com/manage-your-machine-learning-lifecycle-with-mlflow-part-1-a7252c859f72)
-* [MLflow: An Open Platform to Simplify the Machine Learning Lifecycle](https://www.infoq.com/presentations/mlflow-databricks/)
 * [Spark + AI Summit 2018 — Overview](https://towardsdatascience.com/spark-ai-summit-2018-overview-7c5a8d7be296)
 * [Using Native Math Libraries to Accelerate Spark Machine Learning Applications](https://www.cloudera.com/documentation/guru-howto/data_science/topics/ght_native_math_libs_to_accelerate_spark_ml.html)
   * Spark ML용 네이티브 라이브러리를 사용해 모델 훈련 속도를 높이는 방법
@@ -731,8 +729,12 @@
 * [An Introduction to Machine Learning with Apache Spark™](https://www.youtube.com/playlist?list=PLTPXxbhUt-YWBA6a9pS0aRsRxju0IfUeG)
 * [Multiple Column Feature Transformations in Spark ML](http://blog.madhukaraphatak.com/multi-column-feature-transformation-spark-ml/)
 * [End to End Spark TensorFlow PyTorch Pipelines with Databricks DeltaJim Dowling Logical Clocks ABKim](https://www.youtube.com/watch?v=zGNQQfEjCQY)
+* [Accelerating Deep Learning on the JVM with Apache Spark and NVIDIA GPUs](https://www.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Meson: Netflix's framework for executing machine learning workflows](http://techblog.netflix.com/2016/05/meson_31.html)
+* MLflow
+  * [Manage your Machine Learning Lifecycle with MLflow — Part 1](https://towardsdatascience.com/manage-your-machine-learning-lifecycle-with-mlflow-part-1-a7252c859f72)
+  * [MLflow: An Open Platform to Simplify the Machine Learning Lifecycle](https://www.infoq.com/presentations/mlflow-databricks/)
 * MLLib
   * [Decision Trees](http://spark.apache.org/docs/latest/mllib-decision-tree.html)
   * [MLlib: Machine Learning in Apache Spark](http://arxiv.org/pdf/1505.06807.pdf)
@@ -890,6 +892,7 @@
   * [10 Minutes from pandas to Koalas on Apache Spark With demonstrable Python how-to Koalas code snippets and Koalas best practices](https://databricks.com/blog/2020/03/31/10-minutes-from-pandas-to-koalas-on-apache-spark.html)
   * [New Developments in the Open Source Ecosystem: Apache Spark 3 0, Delta Lake, and Koalas](https://www.youtube.com/watch?v=scM_WQMhB3A)
   * [pandas 코드로 대규모 클러스터에서 더 빠르게 빅데이터를 분석 해보자 - Koalas - 박현우 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=Y9kdUq_qIa8)
+  * [The Jungle of Koalas, Pandas, Optimus and Spark | by Favio Vázquez | Towards Data Science](https://towardsdatascience.com/the-jungle-of-koalas-pandas-optimus-and-spark-dd486f873aa4)
   * [Project Zen: Making Spark Pythonic | Reynold Xin | Keynote Data + AI Summit EU 2020 - YouTube](https://www.youtube.com/watch?v=-vJLTEOdLvA)
 * [Petastorm - a library enabling the use of Parquet storage from Tensorflow, Pytorch, and other Python-based ML training frameworks](https://petastorm.readthedocs.io/)
   * [Introducing Petastorm: Uber ATG's Data Access Library for Deep Learning | Uber Engineering Blog](https://eng.uber.com/petastorm/)
