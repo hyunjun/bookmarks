@@ -1730,6 +1730,7 @@ Programming
 * [code with google - Every student deserves the chance to explore, advance, and succeed in computer science](https://edu.google.com/code-with-google)
 * [codingwithchrome.foo](http://codingwithchrome.foo/)
   * [구글, SW 교육도구 ‘코딩 위드 크롬’ 무료 공개](https://www.bloter.net/archives/257828)
+* [코딩엑스 - 코딩/AI 올인원 학습 플랫폼](https://coding-x.com/class)
 * [coursebuffet.com](https://www.coursebuffet.com/)
 * [edwith.org](https://www.edwith.org)
 * [edu.goorm.io](http://edu.goorm.io/)
@@ -1787,6 +1788,7 @@ Programming
 * [웹 개발을 위해 꼭 알아야하는 보안 공격 · Present](https://present.do/decks/60bf91801903093a77d160ed)
 * [Password Managers](https://lock.cmpxchg8b.com/passmgrs.html)
 * ["사례로 본" 보편적인 공급망 공격 유형 6가지 - ITWorld Korea](https://www.itworld.co.kr/news/196219)
+* [Elliptic Curve Cryptography Explained – Fang-Pen's coding note](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
