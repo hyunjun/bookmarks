@@ -1669,6 +1669,9 @@ Programming
   * [TeamCity ServerUrl 변경하기](https://jojoldu.tistory.com/447)
   * [Teamcity Github 로그인 연동](https://jojoldu.tistory.com/454)
   * [TeamCity 빌드 실패시 결과 Slack으로 알람 받기](https://jojoldu.tistory.com/458)
+* μDeploy
+  * [Uber Engineering’s Micro Deploy: Deploying Daily with Confidence | Uber Engineering Blog](https://eng.uber.com/micro-deploy-code/)
+  * [Safe and Fast Deploys at Planet Scale - YouTube](https://www.youtube.com/watch?v=uZMuifSV2S8)
 * [Waypoint by HashiCorp](https://www.waypointproject.io/)
   * [Announcing HashiCorp Waypoint](https://www.hashicorp.com/blog/announcing-waypoint)
   * [HashiCorp의 Waypoint 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1520)
