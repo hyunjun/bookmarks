@@ -2134,6 +2134,7 @@ Javascript
   * [client 인증(Athentication) & 인가(Ahtuorization) handler 구현 - 클라이언트편](https://blog.naver.com/pjt3591oo/222121552945)
   * [axios 활용 - Authentication & Authorization 블로그 정리 - YouTube](https://www.youtube.com/watch?v=sQgi9oQHu3I)
   * [What is Axios and how to use it with React 🚀 | by Adam Kiss | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/what-is-axios-and-how-to-use-it-with-react-1470d19e1b83)
+  * [Axios 러닝 가이드](https://xn--xy1bk56a.run/axios/)
   * [axios-logger - Beautify Axios Logging Messages](https://github.com/hg-pyun/axios-logger)
 * [black-screen - A terminal emulator for the 21st century](https://github.com/shockone/black-screen)
 * [blessed - A high-level terminal interface library for node.js](https://github.com/chjj/blessed)
@@ -3146,6 +3147,7 @@ Javascript
   * [정직하게 배워보는 Next.js 시리즈를 시작합니다](https://wonit.tistory.com/365)
   * [웹 성능 최적화 SSR + Cache 적용기. 사용자에게 속도(Speed)는 얼마나 중요할까요? | by jpapa | 원티드 제품 팀블로그 | Mar, 2021 | Medium](https://medium.com/wantedjobs/%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-ssr-cache-%EC%A0%81%EC%9A%A9%EA%B8%B0-bf022e3a1a72)
   * [Next.js typescript 프로젝트 생성부터 eslint 세팅까지](https://velog.io/@juunini/Next.js-typescript-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1%EB%B6%80%ED%84%B0-eslint-%EC%84%B8%ED%8C%85%EA%B9%8C%EC%A7%80)
+  * [React 2025 – Build applications from the future, today](https://react2025.com/) next.js + react.js
   * [serverless-next.js deploy](https://awesomezero.com/development/serverless/) AWS
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Prism.js 적용하기](http://alpoxdev.com/posts/24)
