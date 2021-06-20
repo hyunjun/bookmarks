@@ -353,6 +353,7 @@ Statistics
 * [Heuristic models for marginal probability assessment updates](http://xheimlichkeit.com/methods/2015/10/12/how-to-update-probabilities.html)
 * [Probability concepts explained: Marginalisation](https://towardsdatascience.com/probability-concepts-explained-marginalisation-2296846344fc)
 * [**Statistics 110: Probability**](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
+* [Probability.ipynb at main · norvig/pytudes](https://github.com/norvig/pytudes/blob/main/ipynb/Probability.ipynb)
 
 ## Probablistic Programming
 * [What is probabilistic programming?](http://radar.oreilly.com/2013/04/probabilistic-programming.html)
