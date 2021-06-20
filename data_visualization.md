@@ -302,6 +302,7 @@ Data Visualization
   * [Road to Visualization Expert Part 1 : App Store : unusual tools](https://www.kaggle.com/subinium/road-to-viz-expert-1-unusual-tools)
   * [How to Build Interactive Data Visualizations for Python with Bokeh](https://www.infoq.com/articles/data-visualizations-python-bokeh/)
   * pandas_bokeh [Beautiful and Easy Plotting in Python — Pandas + Bokeh | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/beautiful-and-easy-plotting-in-python-pandas-bokeh-afa92d792167)
+* [Clustergam: visualisation of cluster analysis – Martin Fleischmann](https://martinfleischmann.net/clustergam-visualisation-of-cluster-analysis/)
 * [cufflinks - Productivity Tools for Plotly + Pandas](https://github.com/santosjorge/cufflinks)
   * [Plotly Whirlwind Introduction.ipynb](https://nbviewer.jupyter.org/github/WillKoehrsen/Data-Analysis/blob/master/plotly/Plotly%20Whirlwind%20Introduction.ipynb)
 * [d3fdgraph - d3 interactive animated force-directed graphs in a jupyter notebook](https://github.com/intuitivetextmining/d3fdgraph)
