@@ -491,6 +491,7 @@ Javascript
 * [Designing very large (JavaScript) applications](https://medium.com/@cramforce/designing-very-large-javascript-applications-6e013a3291a3)
 * [Top 10 JavaScript errors from 1000+ projects (and how to avoid them)](https://codeburst.io/top-10-javascript-errors-from-1000-projects-and-how-to-avoid-them-2956ce008437)
 * [Handling Errors in JavaScript: The Definitive Guide](https://levelup.gitconnected.com/the-definite-guide-to-handling-errors-gracefully-in-javascript-58424d9c60e6)
+* [프론트엔드 모니터링에서 Script error. 만 나올때](https://jojoldu.tistory.com/582)
 * [JavaScript Clean Code: Error Handling](https://medium.com/better-programming/javascript-clean-code-error-handling-9cd7e87fdbe3)
 * [JavaScript Clean Code — Vertical Formatting](https://levelup.gitconnected.com/javascript-clean-code-vertical-formatting-d15097f5f30e)
 * [JavaScript Clean Code — Quick Best Practices | by Denis Cangemi | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/javascript-clean-code-best-practices-461c24c53cae)
