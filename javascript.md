@@ -2238,6 +2238,10 @@ Javascript
     * [nabigraphics/render-link-preview-image-on-server-example: Render an link preview image on server](https://github.com/nabigraphics/render-link-preview-image-on-server-example)
 * [falcor - A JavaScript library for efficient data fetching](http://netflix.github.io/falcor/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
+* [Fastify, Fast and low overhead web framework, for Node.js](https://www.fastify.io/)
+  * [fastify-crash-course: API built with Fastify](https://github.com/bradtraversy/fastify-crash-course)
+    * [Fastify Crash Course | Node.js Framework - YouTube](https://www.youtube.com/watch?v=Lk-uVEVGxOA)
+  * [Express vs Fastify performance. The goal of this article is to find out… | by Sergey Onufrienko | Medium](https://medium.com/@onufrienkos/express-vs-fastify-performance-4dd5d73e08e2)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly#about)
 * [gity - Git wrapper for Node](https://github.com/stevenmiller888/gity)
 * [GLORIOUS DEMO](https://glorious.codes/demo) The easiest way of creating animations to show your code in action
