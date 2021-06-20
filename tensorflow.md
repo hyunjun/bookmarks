@@ -493,6 +493,7 @@ TensorFlow
 * [Regression API Test](https://gist.github.com/krikit/32c918cc03b52315ade562267a91fa6b)
 * [Predicting Probability Distributions Using Neural Networks - Taboola Tech Blog](https://engineering.taboola.com/predicting-probability-distributions/)
 * [SETI, step by step guide for Beginner/EDA/TF | Kaggle](https://www.kaggle.com/yeonghyeon/seti-step-by-step-guide-for-beginner-eda-tf)
+* [케라스와 텐서플로 허브를 사용한 영화 리뷰 텍스트 분류하기  |  TensorFlow Core](https://www.tensorflow.org/tutorials/keras/text_classification_with_hub?hl=ko)
 
 # 2.0
 * [TensorFlow 2.0을 출시했습니다](https://developers-kr.googleblog.com/2019/10/tensorflow-2-0-is-now-available.html)
@@ -759,6 +760,7 @@ TensorFlow
 * [A Curated List Of Dedicated Resources- Tensorflow Libraries](https://www.techleer.com/articles/403-a-curated-list-of-dedicated-resources-tensorflow-libraries/)
 * [BMW InnovationLab - This organization contains open source software published by the developers and partners of the BMW InnovationLab](https://github.com/BMW-InnovationLab)
 * [Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow)
+* [cdc-fraud-detection-demo: Realtime Credit Card fraud detection, using CDC (Change Data Capture) data source and TensorFlow model from a Kaggle competition](https://github.com/tzolov/cdc-fraud-detection-demo)
 * [DeepOSM](https://techstory.shma.so/deeposm-e50338b94029)
 * [Dynamic Neural Manifold --or-- Dynamic Neural Networks in Tensorflow](https://github.com/Miej/Dynamic_Neural_Manifold)
 * [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)
@@ -866,6 +868,7 @@ TensorFlow
   * [새로운 TensorFlow Hub 웹 경험](https://developers-kr.googleblog.com/2019/01/a-new-tensorflow-hub-web-experience.html)
 * [TensorFlow.js](https://js.tensorflow.org/)
   * [tfjs/GALLERY.md](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md)
+  * [tfjs-examples/angular-predictive-prefetching at master · tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples/tree/master/angular-predictive-prefetching)
   * [github.com/zaidalyafeai/tensorflowjs-binary](https://github.com/zaidalyafeai/tensorflowjs-binary)
   * [Introducing TensorFlow.js: Machine Learning in Javascript](https://medium.com/tensorflow/introducing-tensorflow-js-machine-learning-in-javascript-bf3eab376db)
   * [A Gentle Introduction to TensorFlow.js](https://medium.com/tensorflow/a-gentle-introduction-to-tensorflow-js-dba2e5257702)
