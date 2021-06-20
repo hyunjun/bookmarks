@@ -498,6 +498,7 @@ Clojure
 * [ClojureScript Next](http://swannodette.github.io/2015/07/29/clojurescript-17/)
 * [Exploring the Clojurescript REPL](http://www.alexeberts.com/exploring-the-clojurescript-repl/)
 * [ClojureScript Unraveled](http://funcool.github.io/clojurescript-unraveled)
+* [Having Fun with Clojurescript on Google Cloud Function | by Zero One Group | Zero One Group | Medium](https://medium.com/zero-one-group/having-fun-with-clojurescript-on-google-cloud-function-8434d5f94d25)
 * [algo.monads - Macros for defining monads, and definition of the most common monads](https://github.com/clojure/algo.monads)
   * [monads-in-clojure Back in 2009 I wrote a four-part tutorial on monads for Clojure programmers. It can be considered an introduction to the algo.monads library](https://github.com/khinsen/monads-in-clojure)
     * [monad in clojure 1](http://clojure.kr/monad-in-clojure-1/)
