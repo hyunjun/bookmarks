@@ -2072,6 +2072,7 @@ Programming
     * [RabbitMQ 의 DLX (Dead Letter eXchange) 기능](https://springloops.wordpress.com/2014/01/24/rabbitmq-%EC%9D%98-dlx-dead-letter-exchange-%EA%B8%B0%EB%8A%A5/)
     * [Using Dead-letter Exchange config](https://blog.leocat.kr/notes/2018/07/31/rabbitmq-delayed-queue)
   * [Management Command Line Tool](https://www.rabbitmq.com/management-cli.html) rabbitmqadmin
+  * [Idiomatic RabbitMQ • Gavin M. Roy • RabbitMQ Summit - YouTube](https://www.youtube.com/watch?v=fNbdgWe5Tbs)
   * [mio-java.tistory.com/category/개발/rabbitMq](https://mio-java.tistory.com/category/%EA%B0%9C%EB%B0%9C/rabbitMq)
 * [rq - Simple job queues for Python https://python-rq.org ](https://github.com/rq/rq)
 * [S-MQTTT, or: secure-MQTT-over-Traefik · Jurian Sluiman](https://jurian.slui.mn/posts/smqttt-or-secure-mqtt-over-traefik/)
