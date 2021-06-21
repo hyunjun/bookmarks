@@ -1881,6 +1881,7 @@ Scala
 * [Favor composition over inheritance in #Scala3 with exports! - YouTube](https://www.youtube.com/watch?v=s1MLX9OMuSg)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=M6RP9quyUsU) typeclass Mirror
 * [Existential Crisis: Implementing MapK in Scala 3 - DEV Community](https://dev.to/raquo/existential-crisis-implementing-mapk-in-scala-3-2fo1)
+* [Scala at Light Speed, Part 7: Scala 3 Contextual Abstractions - YouTube](https://www.youtube.com/watch?v=snz7WHjD-xs)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
@@ -1912,7 +1913,7 @@ Scala
   * `sbt ++3.0.0! console`
   * [Scala 3 in sbt 1.5 | The Scala Programming Language](https://scala-lang.org/blog/2021/04/08/scala-3-in-sbt.html)
 * [Scala3-migrate: a tool making it easier to migrate to Scala 3 - Scala 3 Release Projects - Scala Contributors](https://contributors.scala-lang.org/t/scala3-migrate-a-tool-making-it-easier-to-migrate-to-scala-3/4446/2)
-* [The road to Scala 3 using scala3-migrate | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=RDY3NMZYWwY)
+  * [The road to Scala 3 using scala3-migrate | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=RDY3NMZYWwY)
 * [scodec: Scala combinator library for working with binary data](https://github.com/scodec/scodec)
   * [YOW! Lambda Jam 2020 - Michael Pilquist - Scodec for Scala 3 - YouTube](https://www.youtube.com/watch?v=2eTwf78FJmc)
 
