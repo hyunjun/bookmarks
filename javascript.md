@@ -2242,6 +2242,7 @@ Javascript
   * [fastify-crash-course: API built with Fastify](https://github.com/bradtraversy/fastify-crash-course)
     * [Fastify Crash Course | Node.js Framework - YouTube](https://www.youtube.com/watch?v=Lk-uVEVGxOA)
   * [Express vs Fastify performance. The goal of this article is to find out… | by Sergey Onufrienko | Medium](https://medium.com/@onufrienkos/express-vs-fastify-performance-4dd5d73e08e2)
+  * [A Fast Introduction to Fastify (NodeJS Web Framework) - YouTube](https://www.youtube.com/watch?v=pGhWPDlF2sM)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly#about)
 * [gity - Git wrapper for Node](https://github.com/stevenmiller888/gity)
 * [GLORIOUS DEMO](https://glorious.codes/demo) The easiest way of creating animations to show your code in action
