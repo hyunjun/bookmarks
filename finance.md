@@ -99,6 +99,7 @@ Finance
 * [불곰의 가치투자 따라하기](https://www.youtube.com/watch?v=9OF2lxsiyF8)
 * [이제 인공지능이 자산운용을 한다](https://brunch.co.kr/@gauss92tgrd/14)
 * [더북(TheBook): 파이썬으로 배우는 포트폴리오](https://thebook.io/080227/)
+* [퀀트자료 Data Science for Economics and Finance](https://bellman.tistory.com/13)
 
 # Fintech
 * [bloter.net/fintech-enterprise](http://www.bloter.net/archives/category/news/fintech-enterprise)
