@@ -575,6 +575,7 @@ SQL
 * [MySQL/MariaDB에서 유저에게 multiple host를 부여하는 방법 - Nephtyw’S Programming Stash](https://nephtyws.github.io/database/mariadb-mysql-subnet-host/)
 * [🛢CSV 파일 MySQL DB에 추가하기 - YouTube](https://www.youtube.com/watch?v=XLoit2-DPaI)
 * [MySQL and UUIDs | Die wunderbare Welt von Isotopp](https://blog.koehntopp.info/2021/04/06/mysql-and-uuids.html)
+* [MySQL에서 리셋되는 시퀀스 만들어보기 | gywndi's database](https://gywn.net/2021/06/resetable-sequence-for-mysql/)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
