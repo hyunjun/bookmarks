@@ -932,6 +932,7 @@ NLP
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
   * [Jay Alammar - Take A Look Inside Language Models With Ecco | PyData Khobar - YouTube](https://www.youtube.com/watch?v=rHrItfNeuh0)
 * [KLUE Benchmark](https://klue-benchmark.com/)
+  * [klue-transformers-tutorial: KLUE 데이터를 활용한 HuggingFace Transformers 튜토리얼](https://github.com/Huffon/klue-transformers-tutorial)
 * [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA)
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
