@@ -610,6 +610,7 @@ Scala
 * [01A: Scala Class Vs. Object and Companion object interview Q&As | Java-Success.com](https://www.java-success.com/01a-scala-class-vs-object-and-companion-object-interview-qas/)
 * [Programming with Functions #7: Expressions over statements - YouTube](https://www.youtube.com/watch?v=1fOQGGK0Ydo)
 * [A case study of flatMap vs flatten](https://systemfw.org/posts/flatten.html)
+* [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=XfQjnTT4on0) 여러가지 SDK API
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
