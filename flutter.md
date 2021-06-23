@@ -172,6 +172,7 @@ Flutter
 * [앱개발 Flutter Provider 로 SNS 스타일 Infinite Scroll 구현하기! - YouTube](https://www.youtube.com/watch?v=z06BqWRMPo8)
 * [Flutter 강좌 with Provider | Login page | 로그인 페이지](https://www.youtube.com/watch?v=kB3tTZhnJIg)
 * [Provider없이 앱을 만들면 힘들지... #상태관리 #flutter #더코딩파파 - YouTube](https://www.youtube.com/watch?v=ikV-Ub9XgO4)
+* [Provider - 이번 블로그 포스트에서는 Flutter에서 전역 상태 또는 위젯끼리 상태를 공유하기 위해 Provider를 사용하는 방법에 대해서 알아보겠습니다](https://dev-yakuza.posstree.com/ko/flutter/provider/)
 * [앱개발 Flutter VS React Native 각 프레임워크가 어떻게 크로스플랫폼 렌더링을 하는지까지 싹 다 정리! - YouTube](https://www.youtube.com/watch?v=nyHIau1shc0)
 * [리얼 Flutter #1 Flutter 핵심 들여다보기 - Kowana's coding](https://www.kowanas.com/coding/2020/12/07/flutter-%ed%95%b5%ec%8b%ac/)
 * [리얼 Flutter #2 Flutter Project 시작 - 빈 화면과 Splash - Kowana's coding](https://www.kowanas.com/coding/2020/12/08/flutter-project-%EC%8B%9C%EC%9E%91/)
