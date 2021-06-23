@@ -134,6 +134,7 @@ Azure
 * [**폭발적인 사용자 증가로 마주한 성능 저하 2종 해결하기. 갑작스럽게 트래픽이 폭증하는 상황에서 아무런 문제가 발생하지 않았으면… | by 이예찬 | Uniquegood | Jun, 2021 | Medium**](https://medium.com/uniquegood/%ED%8F%AD%EB%B0%9C%EC%A0%81%EC%9D%B8-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A6%9D%EA%B0%80%EB%A1%9C-%EB%A7%88%EC%A3%BC%ED%95%9C-%EC%84%B1%EB%8A%A5-%EC%A0%80%ED%95%98-2%EC%A2%85-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-f60ba284258e)
   * 큐의 메시지의 양을 제대로 소비하지 못하면서 지연되는 문제, 두 번째는 데이터베이스 커넥션 풀을 충분히 설정하지 못해서 타임아웃이 발생
   * await 사용 주의, db connection pool 설정
+* [Bicep으로 애저 리소스 프로비저닝하기 | ep0. 인트로 | 애저듣보잡 - YouTube](https://www.youtube.com/watch?v=C0ck7eoO7DM)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
