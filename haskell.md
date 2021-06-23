@@ -310,6 +310,7 @@ Haskell
 * [하스켈 달러 표시](https://gist.github.com/nattybear/86eb28e25f82affc58f5b8a2f02c6742) 우선순위
 * [Functor, Natural Transformatiom](https://gist.github.com/nattybear/874f0e3764aae7c81c2c120cae0cc6aa)
 * [fun.hs - c++ cout endl 흉내내기](https://gist.github.com/KiJeong-Lim/ed4bdf387db4842c63d40e6bc45f49b1)
+* [하스켈 Prelude 안 쓰기](https://gist.github.com/nattybear/f3598068d604c82a6d1a6de44bf161a4)
 * do [The doomsday machine](https://tech.fretlink.com/the-doomsday-machine/)
 * exception
   * [THE THREE KINDS OF HASKELL EXCEPTIONS AND HOW TO USE THEM](https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html)
@@ -494,6 +495,7 @@ Haskell
 * [Typeable — A long journey to type-safe dynamic type representation (Part 3)](https://medium.com/@hgiasac/typeable-a-long-journey-to-type-safe-dynamic-type-representation-part-3-80a2a34329dd)
 * [Trade-Offs in Type Safety](https://alpacaaa.net/type-safety/)
 * [Type inference - Splinter Suidman](https://splintah.gitlab.io/posts/2020-06-14-Type-inference.html)
+* [하스켈 타입 클래스](https://gist.github.com/nattybear/417d862ca39c964cea3a28bed2b72ce0)
 
 # Tutorial
 * [INTRODUCTION TO FUNCTIONAL PROGRAMMING USING HASKELL](https://1ambda.github.io/haskell/) 한글
