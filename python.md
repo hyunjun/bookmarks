@@ -2529,6 +2529,7 @@ Python
 * [Top 8 magic commands in Jupyter Notebook | by Magdalena Konkiewicz | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/top-8-magic-commands-in-jupyter-notebook-c1582e813560)
 * [BayPiggies July 2020 - "Notebooks Night" - YouTube](https://www.youtube.com/watch?v=8WnCWdbpIPU)
 * [Windows 10 Jupyter Notebook 원격 + 테마 설정하는 방법(라우터 우회)](https://devbull.xyz/windows-10-jupyter-notebook-weongyeog-tema-seoljeonghaneun-bangbeob-rauteo-uhoe/)
+* [debugging - Jupyter notebook never finishes processing using multiprocessing (Python 3) - Stack Overflow](https://stackoverflow.com/questions/47313732/jupyter-notebook-never-finishes-processing-using-multiprocessing-python-3)
 
 ## Jupyter Library
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
