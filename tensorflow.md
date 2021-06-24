@@ -761,6 +761,7 @@ TensorFlow
 * [BMW InnovationLab - This organization contains open source software published by the developers and partners of the BMW InnovationLab](https://github.com/BMW-InnovationLab)
 * [Caffe to TensorFlow](https://github.com/ethereon/caffe-tensorflow)
 * [cdc-fraud-detection-demo: Realtime Credit Card fraud detection, using CDC (Change Data Capture) data source and TensorFlow model from a Kaggle competition](https://github.com/tzolov/cdc-fraud-detection-demo)
+* [deeplab2: DeepLab2 is a TensorFlow library for deep labeling, aiming to provide a unified and state-of-the-art TensorFlow codebase for dense pixel labeling tasks](https://github.com/google-research/deeplab2)
 * [DeepOSM](https://techstory.shma.so/deeposm-e50338b94029)
 * [Dynamic Neural Manifold --or-- Dynamic Neural Networks in Tensorflow](https://github.com/Miej/Dynamic_Neural_Manifold)
 * [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)
