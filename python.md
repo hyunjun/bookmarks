@@ -4198,6 +4198,7 @@ Python
 * [us.pycon.org/2020](https://us.pycon.org/2020/online/)
 * [PyCon.KR 2020 - YouTube](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7)
   * [파이썬으로 법률 역사 연구하기 - 김재윤 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=-teop71JmbQ)
+* [PyCon US 2021 - YouTube](https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYk1Y5P8kryoyd83L_0Uk5K)
 
 ## Conference PyData
 * [A Machine Learning Data Pipeline - PyData SG](https://www.youtube.com/watch?v=knU-p68JPE0)
