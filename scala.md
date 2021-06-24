@@ -1883,6 +1883,7 @@ Scala
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=M6RP9quyUsU) typeclass Mirror
 * [Existential Crisis: Implementing MapK in Scala 3 - DEV Community](https://dev.to/raquo/existential-crisis-implementing-mapk-in-scala-3-2fo1)
 * [Scala at Light Speed, Part 7: Scala 3 Contextual Abstractions - YouTube](https://www.youtube.com/watch?v=snz7WHjD-xs)
+* [Scala 3 goodies for Scala 2 developers | In Absentia](https://hmemcpy.com/2021/06/scala-3-goodies-for-scala-2-developers/)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
