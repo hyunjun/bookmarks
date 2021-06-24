@@ -1357,6 +1357,7 @@ Programming
 * [좋은 PR, 코드 리뷰에 대한 단상. 일 하다 보면 일관성 없는 PR, 가독성 떨어지는 코드 리뷰를 마주할… | by geekk | Feb, 2021 | Medium](https://octob.medium.com/%EC%A2%8B%EC%9D%80-pr-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8B%A8%EC%83%81-e08bfccc16b9)
 * [Five Code Review Antipatterns](https://blogs.oracle.com/javamagazine/five-code-review-antipatterns)
 * [뉴크루 온보딩 코드 리뷰어로 참여하기 – 카카오는 주니어와 함께 성장합니다. – tech.kakao.com](https://tech.kakao.com/2021/04/08/welcome-new-krew3/)
+* [글로벌 기업은 코드 리뷰를 어떻게 할까요? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=30978428&memberNo=36733075&navigationType=push)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 * [Measuring enterprise developer productivity - The GitHub Blog](https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/)
 * [How to Kill Your Developer Productivity - DZone DevOps](https://dzone.com/articles/how-to-kill-your-developer-productivity-humanitec)
