@@ -1062,6 +1062,7 @@ Programming
 * [Lessons from DAZN: Scaling Your Project with Micro-Frontends - YouTube](https://www.youtube.com/watch?v=tD1rcWSfYpo)
 * [How We Build Micro Frontends. Building micro-frontends to speed up… | by Jonathan Saring | Bits and Pieces](https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc)
 * [대규모 서비스를 위한 Micro Frontend · Present](https://present.do/decks/60bf99021903093a77d16769)
+* [Micro-Frontends Simplified - YouTube](https://www.youtube.com/watch?v=89hSa1pKPPg)
 * [마이크로서비스 배포 혁명](https://jflip.tistory.com/23)
 * [What Comes after Microservices? Multi-Runtime Microservices with Bilgin Ibryam at QCon London](https://www.infoq.com/news/2020/03/multi-runtime-microservices/)
 * [Multi-Runtime Microservices Architecture](https://www.infoq.com/articles/multi-runtime-microservice-architecture/)
