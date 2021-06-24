@@ -89,6 +89,7 @@
 * [@devlead - Mattias Karlsson's Blog - My preferred .NET console stack](https://www.devlead.se/posts/2021/2021-01-15-my-preferred-console-stack)
 * [Announcing .NET 6 Preview 1 | .NET Blog](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/)
 * [.NET for Beginners - Dusted Codes](https://dusted.codes/dotnet-for-beginners)
+* [알아두면 쓸모 있는 .NET 이야기 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=31479637&memberNo=36733075&navigationType=push)
 
 # Book
 * [더북(TheBook): ASP.NET & Core를 다루는 기술](https://thebook.io/006824/)
