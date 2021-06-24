@@ -154,6 +154,7 @@ Java
 * [07: Java Iterable Vs Iterator differences and know how | Java-Success.com](https://www.java-success.com/%E2%99%A5-java-iterable-vs-iterator-differences-and-know-how/)
 * [java visual vm 으로 메모리 사용량을 간단하게 파악해 봅시다](https://codingdog.tistory.com/entry/java-visual-vm-%EC%9C%BC%EB%A1%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%9F%89%EC%9D%84-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%ED%8C%8C%EC%95%85%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [java switch 문 : string에 대해서 어떻게 쓰는지 예제로 알아봅시다](https://codingdog.tistory.com/entry/java-switch-%EB%AC%B8-string%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%93%B0%EB%8A%94%EC%A7%80-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+* [What are Operators in Java - YouTube](https://www.youtube.com/watch?v=997xqAZT3CM)
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
@@ -1018,6 +1019,7 @@ Java
   * [제모옥은 젠킨스 조회로직 개선으로 하겠습니다. 근데 이제 비동기를 곁들인 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/04/06/fetch-jenkins-api-async.html)
   * [Prometheus와 Grafana를 활용한 Jenkins 모니터링 및 Alarm 구현 | by MUSINSA tech | Medium | MUSINSA tech](https://medium.com/musinsa-tech/sre-fe8c7edfb772)
   * [How a Jenkins Job Broke our Jenkins UI - Slack Engineering](https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/)
+  * [iOS 플랫폼의 Jenkins CI 환경 구축하기 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/5706/)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
   * [practice - install java11 using jenv](https://gist.github.com/hyunjun/88ad5a8172acf4801c903980ecba074e)
   * [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
