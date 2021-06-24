@@ -32,12 +32,6 @@
 * [타입 변환하기](https://blog.seulgi.kim/2019/05/rust-type-conversion.html)
 * [Data Types in Rust: Borrowing from Both Worlds](https://medium.com/@james_32022/data-types-in-rust-borrowing-from-both-worlds-b12a377391ae)
 * [Unsafe Rust: An Intro and Open Questions](http://cglab.ca/~abeinges/blah/rust-unsafe-intro/)
-* [I wrote a website in Rust and lived to tell the tale](http://blog.viraptor.info/post/i-wrote-a-website-in-rust-and-lived-to-tell-the-tale)
-* [A Simple Web App in Rust, Part 1](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-1/)
-* [Is Rust a good choice for web services?](https://www.quora.com/Is-Rust-a-good-choice-for-web-services)
-* [Trying Rust for web services](https://blog.wearewizards.io/trying-rust-for-web-services)
-* [A web application completely in Rust](https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471)
-* [Lessons learned on writing web applications completely in Rust](https://medium.com/@saschagrunert/lessons-learned-on-writing-web-applications-completely-in-rust-2080d0990287)
 * [Generating Rust Bindings for Embedded Libraries](http://spin.atomicobject.com/2015/05/21/generate-embedded-rust-bindings/)
 * [Three months of Rust](http://scattered-thoughts.net/blog/2015/06/04/three-months-of-rust/)
 * [Expressing L-systems in Rust](http://unconj.ca/blog/expressing-l-systems-in-rust.html)
@@ -171,7 +165,6 @@
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
-* [An example of a Rust web service with Iron and Hyper](https://github.com/brson/httptest)
 * [Backend-agnostic snapshotting backup system](https://github.com/google/hat-backup)
 * [Library for serializing the RSS web content syndication format https://crates.io/crates/rss](https://github.com/frewsxcv/rust-rss)
 * [Creating performant REST APIs with Rust using Rocket, Diesel and Serde — Part 1](https://medium.com/@amolele/creating-performant-rest-apis-with-rust-using-rocket-diesel-and-serde-bbe5a4f33a4e)
@@ -186,7 +179,6 @@
 * [glium library - safe openGL in rust](https://medium.com/@tomaka/the-glium-library-5be149d87dc1)
 * [Glommio - A Thread-per-Core Crate for Rust & Linux | Datadog](https://www.datadoghq.com/blog/engineering/introducing-glommio/)
 * [imageflow - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow https://docs.imageflow.io ](https://github.com/imazen/imageflow)
-* [IRON - extensible web framework for rust](http://ironframework.io/)
 * [kalker - A flexible calculator that supports variables and functions defined by the user](https://kalker.strct.net/)
   * [Kalker/kalk is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals](https://github.com/PaddiM8/kalker)
 * [kiro-editor: A terminal UTF-8 text editor written in Rust 📝🦀](https://github.com/rhysd/kiro-editor)
@@ -217,8 +209,6 @@
   * [Redox OS, "레독스OS" 라고 Rust로 작성된 OS](https://open-support.tistory.com/entry/Redox-OS-%EB%A0%88%EB%8F%85%EC%8A%A4OS-%EB%9D%BC%EA%B3%A0-Rust%EB%A1%9C-%EC%9E%91%EC%84%B1%EB%90%9C-OS)
 * [reciprocal: Faster division by constants that aren't known at compile-time](https://github.com/pkhuong/reciprocal)
   * [Baseline implementations should be predictable - Paul Khuong: some Lisp](https://pvk.ca/Blog/2021/05/14/baseline-implementations-should-be-predictable/)
-* [Rocket - a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety](https://rocket.rs/)
-  * [Rocket: Web Servers in Rust!. Welcome back to our series on building… | by James Bowen | Medium](https://medium.com/@james_32022/rocket-web-servers-in-rust-46d862bb3514)
 * [rsedis - Redis re-implemented in Rust](https://github.com/seppo0010/rsedis)
 * [ruffle: A Flash Player emulator written in Rust](https://github.com/ruffle-rs/ruffle)
 * [Rusoto, an AWS SDK for Rust](http://blog.dualspark.com/aws/api/rust/sdk/2015/10/05/introducing-rusoto.html)
@@ -306,6 +296,19 @@
   * watch 기능으로 폴더의 파일을 수정하면 자동으로 결과가 확인되고, 중간에 hint 도 보면서 진행가능
   * 컴파일 에러시 rustc --explain E0282 처럼 관련 설명을 보라는 문구 출력
 * Rustonomicon [Introduction - The Rustonomicon](https://doc.rust-lang.org/nomicon/)
+
+# Web
+* [I wrote a website in Rust and lived to tell the tale](http://blog.viraptor.info/post/i-wrote-a-website-in-rust-and-lived-to-tell-the-tale)
+* [A Simple Web App in Rust, Part 1](http://joelmccracken.github.io/entries/a-simple-web-app-in-rust-pt-1/)
+* [Is Rust a good choice for web services?](https://www.quora.com/Is-Rust-a-good-choice-for-web-services)
+* [Trying Rust for web services](https://blog.wearewizards.io/trying-rust-for-web-services)
+* [A web application completely in Rust](https://medium.com/@saschagrunert/a-web-application-completely-in-rust-6f6bdb6c4471)
+* [Lessons learned on writing web applications completely in Rust](https://medium.com/@saschagrunert/lessons-learned-on-writing-web-applications-completely-in-rust-2080d0990287)
+* [An example of a Rust web service with Iron and Hyper](https://github.com/brson/httptest)
+* [Virtual Lunch & Learn: Why you want to choose Rust for your next web service! - YouTube](https://www.youtube.com/watch?v=s2Xk3dMTHg8)
+* [IRON - extensible web framework for rust](http://ironframework.io/)
+* [Rocket - a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety](https://rocket.rs/)
+  * [Rocket: Web Servers in Rust!. Welcome back to our series on building… | by James Bowen | Medium](https://medium.com/@james_32022/rocket-web-servers-in-rust-46d862bb3514)
 
 # WebAssembly
 * [Rust, WebAssembly, and Javascript Make Three: An FFI Story](https://www.youtube.com/watch?v=nvLw_XKlZaU)
