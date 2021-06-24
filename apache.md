@@ -157,7 +157,8 @@ Apache
 
 # [Falcon - Simplifying Managing Data Jobs on Hadoop](http://www.slideshare.net/Hadoop_Summit/apache-falcon-simplifying-managing-data-jobs-on-hadoop)
 
-# [Flink](https://flink.apache.org/)
+# Flink
+* [Flink](https://flink.apache.org/)
 * [Apache Flink Training](http://dataartisans.github.io/flink-training/)
 * [Juggling with Bits and Bytes](http://flink.apache.org/news/2015/05/11/Juggling-with-Bits-and-Bytes.html)
 * [스사모 테크톡 - Apache Flink 둘러보기](http://www.slideshare.net/sangwookimme/apache-flink-48832827)
@@ -252,6 +253,7 @@ Apache
 * [Flink Concept - Checkpointing(1) | DevLog](https://leeyh0216.github.io/2021-03-01/flink_checkpoint_1)
 * [Flink Concept - pipeline.object_reuse | leeyh0216's devlog](https://leeyh0216.github.io/posts/flink_object_reuse/)
 * [Flink Concept - Flink의 Kafka Consumer 동작 방식(1) | leeyh0216's devlog](https://leeyh0216.github.io/posts/flink_kafka_consumer_works_1/)
+* [글로벌 기업이 더 주목하는 스트림 프로세싱 프레임워크 - 플링크(Flink) 이해하기 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=31721490&memberNo=36733075&navigationType=push)
 * [flink_feature_radar.svg at feature_radar · StephanEwen/flink-web](https://github.com/StephanEwen/flink-web/blob/feature_radar/img/flink_feature_radar.svg) flink에서 제거/추가될 기능들
 * HRFS [On-demand low-latency feature generation at Hyperconnect - YouTube](https://www.youtube.com/watch?v=jujAAaMQdF4)
 
@@ -491,6 +493,7 @@ Apache
 * [Moving From Legacy To Event-Driven With Kafka](https://www.youtube.com/watch?v=H_ang8BatXQ)
 * [CDC & CDC Sink Platform 개발 1편 - CDC Platform 개발 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/01/11/cdc-platform.html) Event Bus, Event Driven
 * [CDC & CDC Sink Platform 개발 2편 - CDC Sink Platform 개발 및 CQRS 패턴의 적용 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/03/22/cdc-sink-platform.html)
+* [CDC & CDC Sink Platform 개발 3편 - CDC Event Application Consuming 및 Event Stream Join의 구현 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/06/21/cdc-event-application-consuming.html)
 * [카프카 컨슈머 애플리케이션 배포 전략](https://medium.com/11st-pe-techblog/%EC%B9%B4%ED%94%84%EC%B9%B4-%EC%BB%A8%EC%8A%88%EB%A8%B8-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%B0%B0%ED%8F%AC-%EC%A0%84%EB%9E%B5-4cb2c7550a72)
 * [**cloudurable.com/categories/kafka**](http://cloudurable.com/categories/kafka/index.html)
   * [**Kafka Tutorial 13: Creating Advanced Kafka Producers in Java**](http://cloudurable.com/blog/kafka-tutorial-kafka-producer-advanced-java-examples/index.html)
