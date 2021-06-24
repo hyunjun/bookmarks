@@ -192,6 +192,7 @@ Git
 * [GitOps Observability — Visualizing the journey of a container | by Samiya Akhtar | Nov, 2020 | Medium](https://samiyaakhtar.medium.com/gitops-observability-visualizing-the-journey-of-a-container-5f6ef1f3c9d2)
 * [깃옵스가 '아직' 주류로 부상할 준비가 되지 않은 이유 - ITWorld Korea](https://www.itworld.co.kr/news/193624) gitops
 * [Observability and GitOps - DZone DevOps](https://dzone.com/articles/observability-and-gitops)
+* [데브옵스의 확장 모델 - 깃옵스(GitOps) 이해하기 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=30601103&memberNo=36733075&navigationType=push)
 * [복잡한 커밋 로그를 정리해줄 구원자, gitmoji](https://pilgwon.github.io/post/gitmoji)
 * [Everything You Always Wanted To Know About GitHub (But Were Afraid To Ask)](https://gh.clickhouse.tech/explorer/)
 * [Commits are snapshots, not diffs - The GitHub Blog](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
