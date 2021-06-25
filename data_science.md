@@ -670,6 +670,7 @@ Data Science
 * [T아카데미 | 스마트 ICT 전문가 양성](https://tacademy.skplanet.com/live/player/onlineLectureDetail.action?seq=194)
 * [1년차 주니어가 추천 시스템 현장에서 마주한 고민. 머신 러닝의 여러 분야 중 추천 시스템에 가장 큰 매력을 느꼈습니다… | by Zimin | WATCHA | Apr, 2021 | Medium](https://medium.com/watcha/1%EB%85%84%EC%B0%A8-%EC%A3%BC%EB%8B%88%EC%96%B4%EA%B0%80-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C-%EB%A7%88%EC%A3%BC%ED%95%9C-%EA%B3%A0%EB%AF%BC-12f568eb2cc2)
 * [비용 효율적인 Click-Through Rate Prediction 모델로 하쿠나 라이브 추천시스템 구축하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/04/26/hakuna-recsys-gb.html)
+* [카카오 AI추천 : 토픽 모델링과 MAB를 이용한 카카오 개인화 추천 – tech.kakao.com](https://tech.kakao.com/2021/06/25/kakao-ai-recommendation-01/) Multi Armed Bandit
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
