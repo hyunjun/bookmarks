@@ -273,6 +273,7 @@ Scala
 * [Run Scala applications with GraalVM and Docker - With http4s, doobie and cats-effects](https://medium.com/rahasak/run-scala-applications-with-graalvm-and-docker-a1e67701e935)
 * [scala - What's the difference between => , ()=>, and Unit=> - Stack Overflow](https://stackoverflow.com/questions/4543228/whats-the-difference-between-and-unit)
 * [Yet Another Arithmetic Parser in Scala - Synerise - Medium](https://medium.com/synerise/yet-another-arithmetic-parser-in-scala-43dad055d81f)
+* [Writing an Interpreter From Scratch | Toptal](https://www.toptal.com/scala/writing-an-interpreter)
 * [Railway Oriented Programming in Scala - Pierre's Blog](https://blog.pjam.me/posts/railway-oriented-programming-scala/)
   * [Railway Oriented Programming](https://www.slideshare.net/ScottWlaschin/railway-oriented-programming)
 * [Parallel Validation for Railway Oriented Programming in Scala | by pierre jambet | The Startup | Medium](https://medium.com/swlh/parallel-validation-for-railway-oriented-programming-in-scala-fc5b96fc33ca)
@@ -611,6 +612,7 @@ Scala
 * [Programming with Functions #7: Expressions over statements - YouTube](https://www.youtube.com/watch?v=1fOQGGK0Ydo)
 * [A case study of flatMap vs flatten](https://systemfw.org/posts/flatten.html)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=XfQjnTT4on0) 여러가지 SDK API
+* [Composable Scala Matchers: Introduction | by Robin Hillyard | Jun, 2021 | Medium](https://scala-prof.medium.com/composable-scala-matchers-introduction-efd1c0fe0533)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -671,6 +673,7 @@ Scala
   * ContextShift [A short guide to Blocker. | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/a-short-guide-to-blocker-6cd29e145a12)
 * fold
   * [Scalaでコレクションを前後処理しつつ走査する](https://medium.com/nextbeat-engineering/scala%E3%81%A7%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%92%E5%89%8D%E5%BE%8C%E5%87%A6%E7%90%86%E3%81%97%E3%81%A4%E3%81%A4%E8%B5%B0%E6%9F%BB%E3%81%99%E3%82%8B-401a4edb6bab) foldLeft
+  * [Destroy your foldLeft with traverse and State - Scala tutorial - YouTube](https://www.youtube.com/watch?v=UC1OTg5zBnY)
 * for
   * [Scala: comprehending the for-comprehension](https://medium.com/@linas.m/scala-comprehending-the-for-comprehension-67c9f7953655?sk=2d7b8d3a89bf3d48f42075db0a1c0c26)
 * future
@@ -892,12 +895,14 @@ Scala
     * [Zymposium - Full Stack Development (Part 1) - YouTube](https://www.youtube.com/watch?v=0oz8ZTf-LD0)
     * [Zymposium - Full Stack Development (Part 2) - YouTube](https://www.youtube.com/watch?v=VqTqFhU9Mrs)
     * [Part 1 - What is ZIO and should you learn it? - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=XwMKw03w8bs)
+    * [Part 2 - `ZIO[_, _, Success]` - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=7MNY0o2i_vg)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
       * [Functional Effect systems in Sclala: Build your own ZIO/Cats-Effect/Monix... | Wix Engineering](https://medium.com/wix-engineering/demystifying-functional-effect-systems-in-scala-14419039a423)
       * [fibers.md](https://gist.github.com/djspiewak/d9930891d419c26fac1d58b5274f45ba)
       * [How to successfully manage a ZIO Fiber’s lifecycle | by Natan Silnitsky | Wix Engineering | May, 2021 | Medium](https://medium.com/wix-engineering/how-to-successfully-manage-a-zio-fibers-lifecycle-96fe9c4ecd06)
+      * [Scala with ZIO: Introduction to Fibers - YouTube](https://www.youtube.com/watch?v=0OTYAVWUnU4)
     * gRPC [Functional, Type-safe, Testable Microservices with ZIO gRPC - YouTube](https://www.youtube.com/watch?v=XTkhxRTH1nE)
     * ZIO-AWS [ZIO-AWS with ZIO Query](https://vigoo.github.io/posts/2020-11-01-zioaws-zioquery.html)
     * zio-config
@@ -1260,6 +1265,7 @@ Scala
 * [flip - Fast and lightweight probability tools for a dataset and a data stream](https://github.com/xxxnell/flip)
   * [Fast and Simple Statistics with Scala](https://www.slideshare.net/Nell4/fast-and-simple-statistics-with-scala)
 * [Flog: a functional logger for Scala | by Robin Hillyard | May, 2021 | Medium](https://scala-prof.medium.com/flog-a-functional-logger-for-scala-986d4039562f)
+  * [Flog: a functional logger for Scala | by Robin Hillyard | CodeX | May, 2021 | Medium](https://medium.com/codex/flog-a-functional-logger-for-scala-986d4039562f)
 * [fs2 - Compositional, streaming I/O library for Scala https://fs2.io ](https://github.com/functional-streams-for-scala/fs2)
   * [Intro to Functional Streams for Scala (FS2)](https://www.youtube.com/watch?v=cahvyadYfX8)
   * [Intro to Functional Streams for Scala (FS2) - Part 2: Chunks & Pipes](https://www.youtube.com/watch?v=HM0mOu5o2uA)
