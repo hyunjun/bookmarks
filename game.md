@@ -126,3 +126,4 @@ Game
 
 ## Library Scala
 * [Indigo · A game engine for programmers](https://indigoengine.io/)
+  * [How to write a fire shader · Indigo](https://indigoengine.io/docs/guides/howto-fire-shader)
