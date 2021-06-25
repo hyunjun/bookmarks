@@ -416,6 +416,7 @@ Go
 * [Golang 의 동시성을 이용한 소수 찾기](https://jusths.tistory.com/141)
 * [Go 언어의 동시성 관리 방법 · Present](https://present.do/decks/60bf9c111903093a77d168a9)
 * [**Goroutine 은 어떻게 동작할까? :: sungjunyoung**](https://sungjunyoung.github.io/posts/how-goroutine-works/)
+* [golang - Go 채팅 서버를 만들면서 goroutine과 channel 이해하기 - jacking75](https://jacking75.github.io/go_chatServer/)
 * [errgroup으로 goroutine 10배 잘 활용하기 | DevJin-Blog](https://devjin-blog.com/golang-errgroup-goroutine/)
 * [leaktest - Goroutine Leak Detector](https://github.com/fortytw2/leaktest)
 * [tistory-to-md: Tistory의 OpenAPI를 사용하여 게시글과 이미지를 MarkDown으로 백업하는 프로젝트 입니다](https://github.com/JaeSeoKim/tistory-to-md)
