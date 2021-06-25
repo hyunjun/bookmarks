@@ -1699,6 +1699,7 @@ Scala
 * [Upgrade your Tagless Final with Tofu - I'm Pavels, welcome!](https://scala.monster/train-station-tofu/)
 * [The Death of Tagless Final by John A. De Goes - YouTube](https://www.youtube.com/watch?v=p98W4bUtbO8)
 * [The Tagless Final Pattern in Scala | Baeldung on Scala](https://www.baeldung.com/scala/tagless-final-pattern)
+* [Tagless Final in Scala: A Practical example | Juan Pablo Royo Sales](https://jproyo.github.io/posts/2019-02-07-practical-tagless-final-in-scala.html)
 
 # Monoids
 * [About those Monoids](http://eed3si9n.com/learning-scalaz/Monoid.html)
