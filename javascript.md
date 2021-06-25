@@ -3581,6 +3581,7 @@ Javascript
 * [typescript 기반의 리액트 인터페이스(interface, type) 이해하기](https://blog.naver.com/pjt3591oo/222342618084)
 * [10 Insights from Adopting TypeScript at Scale | Tech At Bloomberg](https://www.techatbloomberg.com/blog/10-insights-adopting-typescript-at-scale/)
   * [블룸버그가 TypeScript를 대규모로 도입하며 배운 것들 | GeekNews](https://news.hada.io/topic?id=4386)
+* [Building Strongly Typed REST Clients with TypeScript - YouTube](https://www.youtube.com/watch?v=aZ6nnGlfBG8)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
