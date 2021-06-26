@@ -64,6 +64,7 @@ Git
 * Git 내부 구조를 알아보자
   * [(0) — 프로젝트 소개와 예고](https://medium.com/happyprogrammer-in-jeju/git-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%98%88%EA%B3%A0-bf3a8549f439)
   * [(1) — 기본 오브젝트](https://medium.com/happyprogrammer-in-jeju/git-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-1-%EA%B8%B0%EB%B3%B8-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-81b34f85fe53)
+* [Git for Computer Scientists](https://eagain.net/articles/git-for-computer-scientists/) Quick introduction to git internals
 * [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
 * [gitlet.js - how Git works under the covers](http://gitlet.maryrosecook.com/docs/gitlet.html)
 * GitHub로 프로젝트 관리하기
