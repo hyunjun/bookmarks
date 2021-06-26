@@ -314,6 +314,7 @@ Haskell
 * do [The doomsday machine](https://tech.fretlink.com/the-doomsday-machine/)
 * exception
   * [THE THREE KINDS OF HASKELL EXCEPTIONS AND HOW TO USE THEM](https://www.tweag.io/posts/2020-04-16-exceptions-in-haskell.html)
+  * [Exceptions tutorial](https://markkarpov.com/tutorial/exceptions.html)
 * filter [하스켈 filter 만들어보기](https://gist.github.com/nattybear/9746555fe0db4bf7d3440e0e5b6561f0)
 * foldMap foldable [하스켈 Foldable](https://gist.github.com/nattybear/8d8341b8b8d4116da625a9a60d03a433)
 * Functor
@@ -418,6 +419,7 @@ Haskell
 * Pandoc [Custom Markdown in Pandoc](https://dev.to/riccardoodone/custom-markdown-in-pandoc-43hf)
 * Parsec
   * [Parsing the untyped λ-calculus with Parsec](http://mattwetmore.me/posts/parsing-combinators-with-parser-combinators.html)
+  * [Megaparsec tutorial](https://markkarpov.com/tutorial/megaparsec.html)
 * [password - provides packages for easily working with passwords in Haskell](https://github.com/cdepillabout/password)
 * [polysemy: Higher-order, low-boilerplate, zero-cost free monads](https://hackage.haskell.org/package/polysemy)
   * [Polysemy - Part I - Introduction](https://sir4ur0n.github.io/posts/intro-polysemy.html)
