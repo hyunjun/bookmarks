@@ -355,6 +355,7 @@ Java
   * [Netty.io Reloaded #006 | ByteBuf Advanced | Ingrim4](https://www.youtube.com/watch?v=oOTq7ddYT2M)
   * [리액터 네티(Reactor Netty)로 간단한 TCP 서버 만들기](http://javacan.tistory.com/entry/reactor-netty-simple-tcp-server)
   * [우리도 채팅있으면 좋을 것 같아요. - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/06/19/chat-app.html)
+  * [go net vs gnet vs reactor netty 소켓 서버 성능 비교 - YouTube](https://www.youtube.com/watch?v=xqqjCTt_l3E)
 * [ReactiveX - An API for asynchronous programming with observable streams](http://reactivex.io/)
 
 # Book
