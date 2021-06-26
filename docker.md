@@ -625,6 +625,7 @@ Docker
 * [Docker Compose로 NodeJS, Nginx 를 한번에 설치해 보자](https://developer88.tistory.com/300)
 * [Docker Compose 로 local 개발 환경 쉽게 관리하기](https://blog.gangnamunni.com/post/docker-compose-for-local-env)
 * [Docker Compose 로 Full Stack JS 개발환경 구축하기 - YouTube](https://www.youtube.com/watch?v=0GmqiNKJ1tw)
+* [Docker Compose와 버전별 특징 : NHN Cloud Meetup](https://meetup.toast.com/posts/277/)
 * [dcw - Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
@@ -982,6 +983,8 @@ Docker
   * OpenAI의 특성상 작업을 한곳에 모으려고 kube-scheduler를 수정해서 작업이 한곳에 모였지만 노드에 집중되어서 발생한 문제가 발생
   * 특정 Docker 이미지가 너무 큰 문제로 다른 이미지까지 지연되는 --serialize-image-pulls 설정 문제 등도 알게 됨
 * [IPVS: How Kubernetes Services Direct Traffic to Pods | Dustin Specker](https://dustinspecker.com/posts/ipvs-how-kubernetes-services-direct-traffic-to-pods)
+* [Test your Kubernetes experiments with an open source web interface | Opensource.com](https://opensource.com/article/21/6/chaos-mesh-kubernetes)
+* [Capturing container traffic on Kubernetes | by Peter Gillich | FAUN](https://faun.pub/capturing-container-traffic-on-kubernetes-ee4a49b833b7)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1091,6 +1094,8 @@ Docker
   * [쿠버네티스용 Continuous Deployment 툴인 Skaffold](https://bcho.tistory.com/1342)
   * [쿠버네티스를 위한 CD 툴, Skaffold #2](https://bcho.tistory.com/1343)
   * [Skaffold 에서 Kubernetes context 변경](https://bcho.tistory.com/1352)
+* [Space Cloud: Instant Realtime APIs for Serverless Apps](https://space-cloud.io/)
+  * [Space Cloud - k8s 기반 서버리스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4447)
 * [Submariner k8s project documentation website](https://submariner.io/) 다중 Kubernetes 클러스터 연결, 서비스 디스커버리 제공
 * [TELEPRESENCE FAST, LOCAL DEVELOPMENT FOR KUBERNETES AND OPENSHIFT MICROSERVICES](https://www.telepresence.io/)
   * [Telepresence로 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/7861046)
@@ -1117,6 +1122,7 @@ Docker
 * [dive - A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size](https://github.com/wagoodman/dive)
   * 도커 이미지를 탐색하고 각 레이어를 분석해서 낭비되는 용량이 얼마인지, 얼마나 이미지 용량을 더 줄일 수 있는지 확인할 수 있는 CLI 툴
 * [Docker Bench - The Docker Bench for Security is a script that checks for all the automatable tests included in the CIS Docker 1.6 Benchmark. https://dockerbench.com](https://github.com/diogomonica/docker-bench-security)
+* [docker-debug: use new container attach on already container go on debug](https://github.com/zeromake/docker-debug)
 * [Docker monitoring](https://ruxit.com/docker-monitoring/)
 * [Docker-OSX: Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!](https://github.com/sickcodes/Docker-OSX)
 * [DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) https://dockersl.im ](https://github.com/docker-slim/docker-slim)
@@ -1323,6 +1329,7 @@ Docker
   * [도커 없이 컨테이너 만들기 6편 - Google Slides](https://docs.google.com/presentation/d/10JRQpeRHKhrl_FS-IWyCENRF9mjedXlxZbX8o0MEoFk/edit) [pdf](pdfs/container_without_docker_6.pdf)
   * [도커 없이 컨테이너 만들기 7편 - Google Slides](https://docs.google.com/presentation/d/10TCStiRnnvF-IBCGx7hNB4na5YI-CSmxWB6HpG9HCrc/edit) [pdf](pdfs/container_without_docker_7.pdf)
   * [도커 없이 컨테이너 만들기 8편 - Google Slides](https://docs.google.com/presentation/d/1CY3lXDpWSsNbp8mhUsQAsp474jY7THt7CpCf5dWdLEc/edit) [pdf](pdfs/container_without_docker_8.pdf)
+* [Toward Vagrant 3.0](https://www.hashicorp.com/blog/toward-vagrant-3-0)
 
 # Virtualization
 * [Virt Tools](https://www.virt-tools.org/)
