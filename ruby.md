@@ -79,6 +79,7 @@ Ruby
 * [opal-rails - ringing Ruby to Rails · Rails bindings for Opal http://opalrb.org](https://github.com/opal/opal-rails)
 * [Printing images in the terminal with 9 lines of Ruby](http://radek.io/2015/06/29/catpix/)
 * [pronuncify - automate incrementally producing word pronunciation recordings for Wiktionary through Wikimedia Commons](https://github.com/abartov/pronuncify)
+* [rhizome: A JIT for Ruby, implemented in pure Ruby](https://github.com/chrisseaton/rhizome)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [rtrace - Rtrace is an x86/x86_64 native code debugger written in Ruby with zero dependencies http://www.yahoo.com](https://github.com/yahoo/rtrace)
 * [RubyFiddle](http://rubyfiddle.com/)
