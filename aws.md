@@ -857,6 +857,8 @@ AWS
 
 ## Lambda Go
 * [첫번째 글 - Hello World on API Gateway :: Alden's Dev Story](https://fallwalker.tistory.com/4)
+* [두번째 글 - 함수 사용하기](https://fallwalker.tistory.com/9)
+* [세번째 글 - 패키지 만들기](https://fallwalker.tistory.com/10)
 * [lambda proc - Running a companion process to an AWS Lambda function in go](https://github.com/jasonmoo/lambda_proc)
 * [AWS Lambda를 동시에 500개 이상 호출하기](https://devbull.xyz/aws-lambda-500-concurrency/)
 
