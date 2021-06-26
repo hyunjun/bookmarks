@@ -209,6 +209,7 @@ Linux
 * [환경구성 CentOS Vmware 실습 환경 설정 - 1](https://developer-ankiwoong.tistory.com/1031)
 * [Rocky Linux 8.3 RC1 설치로 본 RHEL와 CentOS의 비교](https://tech.osci.kr/2021/05/12/119374564/)
 * [Quay - YouTube](https://www.youtube.com/playlist?list=PLrvNoNIHON5bd6aqjpSJeYPMeI9ODv05U)
+* checksec [Identify security properties on Linux using checksec | Opensource.com](https://opensource.com/article/21/6/linux-checksec)
 * service
 
   ```
@@ -397,6 +398,8 @@ Linux
 * [How to Test Network Speed in Linux {9 Tools} | phoenixNAP KB](https://phoenixnap.com/kb/linux-network-speed-test)
   * Speedtest, Fast, Color Bandwidth Meter (CBM), iPerf, nload, Tcptrack, Iftop, Wget, youtube-dl
 * [Linux / UNIX List Just Directories Or Directory Names - nixCraft](https://www.cyberciti.biz/faq/linux-list-just-directories-or-directory-names/) `ls -d */` `find . -type d -ls` `find . -d 1 -type d`
+* [modern-unix: A collection of modern/faster/saner alternatives to common unix commands](https://github.com/ibraheemdev/modern-unix#----bat--)
+  * bat exa lsd delta dust duf broot fd ripgrep ag fzf mcfly choose jq sd cheat tldr bottom glances gtop hyperfine gping procs httpie curlie xh zoxide dog
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
@@ -768,7 +771,7 @@ Linux
 * `tar`
   * [Portability of tar features](https://dev.gentoo.org/~mgorny/articles/portability-of-tar-features.html)
   * [(리눅스 업스킬 도전 #16) tar와 친구들](https://jhrogue.blogspot.com/2020/10/16-tar.html)
-  * [리눅스 tar.gz 파일 압축/삭제 하기 :: Jechue World](https://jechue.tistory.com/100) `find . -name "<file name pattern>" -exec sh -c 'tar cvzf {}.tar.gz {}; rm -f {};' \;
+  * [리눅스 tar.gz 파일 압축/삭제 하기 :: Jechue World](https://jechue.tistory.com/100) `find . -name "<file name pattern>" -exec sh -c 'tar cvzf {}.tar.gz {}; rm -f {};' \;`
 * `taskset`
   * [리눅스의 CPU affinity. 리눅스에서 SMP(Symmetric MultiProcessing)을… | by Out of Bedlam | Medium](https://medium.com/@OutOfBedlam/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%9D%98-cpu-affinity-5df1a7ab3d99)
 * `tcpdump`
@@ -879,6 +882,7 @@ Linux
 * [Turn GNU command line tools into SaaS (Stupid Hackathon Project)](https://github.com/diafygi/gnu-pricing)
 * [GNU Coreutils](https://www.gnu.org/software/coreutils/manual/coreutils.html)
   * numfmt [Formatting numbers at the command line](https://www.johndcook.com/blog/2019/10/30/numfmt/)
+  * [Coreutils Gotchas](https://www.pixelbeat.org/docs/coreutils-gotchas.html)
 
 # iptable
 * [리눅스 방화벽과 NAT를 위한 ipTables](https://bcho.tistory.com/1366)
@@ -942,7 +946,9 @@ Linux
 * [**direnv -- Unclutter your .profile**](https://direnv.net/)
   * [폴더별 환경 관리를 위한 direnv](https://blog.outsider.ne.kr/1306)
   * [direnv로 디렉토리(프로젝트) 별 개발환경 구축하기 - 루비(Ruby), 파이썬(Python), 노드(Node) 개발 환경 구축](https://www.44bits.io/ko/post/direnv_for_managing_directory_environment)
+  * [direnv – unclutter your .profile | direnv](https://direnv.net/)
 * [duf: Disk Usage/Free Utility](https://github.com/muesli/duf)
+* [elfcat: ELF visualizer. Generates HTML files from ELF binaries](https://github.com/ruslashev/elfcat)
 * [**entr - A utility for running arbitrary commands when files change**](https://github.com/clibs/entr)
 * [FireHOL(firewall) and FireQOS(traffic shaping)](http://firehol.org/)
 * [fuck - thefuck: Magnificent app which corrects your previous console command](https://github.com/nvbn/thefuck)
