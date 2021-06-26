@@ -199,4 +199,5 @@ Bitcoin
 # Python
 * [A peek under Bitcoin's hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
 * [비트코인 채굴의 원리를 파이썬으로 구현해보자! - YouTube](https://www.youtube.com/watch?v=JM3j7uBKnt8)
+* [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
 * [python-snarks](https://github.com/Onther-Tech/python-snarks)
