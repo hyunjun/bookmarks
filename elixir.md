@@ -69,10 +69,12 @@ Elixir
 * [Elixir on Erlang VM demystified. How does Elixir work under the hood?](https://blog.lelonek.me/elixir-on-erlang-vm-demystified-320557d09e1f)
 * [3 Key Elixir Takeaways For Java Developers | by Živković Miloš | Dev Genius | Medium](https://medium.com/dev-genius/3-key-elixir-takeaways-for-java-developers-ecea614812e9)
 * [Metaprogramming Elixir / Chris McCord](http://ohyecloudy.com/pnotes/archives/book-metaprogramming-elixir/)
+* [Metaprogramming in Elixir](https://serokell.io/blog/elixir-metaprogramming)
 * [#elixirlang 매크로 코드 디버깅 팁](http://ohyecloudy.com/pnotes/archives/elixirlang-how-to-debug-macro/)
 * [#elixirlang Elixir-Slack 라이브러리가 매크로를 사용해 slack api 호출 함수를 생성하는 방법](http://ohyecloudy.com/pnotes/archives/how-elixir-slack-library-uses-macros-to-create-slack-api-calling-functions/)
 * [#elixirlang 매크로를 사용해 decorator를 구현하는 방법](http://ohyecloudy.com/pnotes/archives/elixirlang-how-to-implement-decorator-with-macro/)
 * [Elixir vs Scala](https://www.infoq.com/presentations/elixir-vs-scala/)
+* [Elixir in Production: Glific](https://serokell.io/blog/elixir-in-production-glific)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
@@ -114,6 +116,7 @@ Elixir
   * [Surface UI - A server-side rendering component library for Phoenix](http://surface-demo.msaraiva.io/)
   * [Elixir + Phoenix LiveView + Svelte, Why?](https://seokjun.kim/elixir-phoenix-liveview-svelte/)
   * [Phoenix LiveView + Typescript + Svelte + Tailwind CSS, How](https://seokjun.kim/elixir-phoenix-liveview-svelte-how/)
+  * [Phoenix: An Introduction to Elixir's Web Framework](https://serokell.io/blog/introduction-to-phoenix)
 * [Plausible Analytics | Simple, privacy-friendly alternative to Google Analytics](https://plausible.io/)
   * [analytics: Simple, open-source, lightweight `(< 1 KB)` and privacy-friendly web analytics alternative to Google Analytics](https://github.com/plausible/analytics)
   * [Why choose Plausible for an open source alternative to Google Analytics | Opensource.com](https://opensource.com/article/21/2/plausible)
