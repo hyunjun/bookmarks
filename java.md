@@ -19,6 +19,7 @@ Java
 * [133 Core Java Interview Questions Answers From Last 5 Years - The MEGA List](http://javarevisited.blogspot.com/2015/10/133-java-interview-questions-answers-from-last-5-years.html)
 * [Review these 50 questions to crack your Java programming interview](https://medium.freecodecamp.org/review-these-50-questions-to-crack-your-java-programming-interview-69d03d746b7f)
 * [Java bytecode hacking for fun and profit](http://cory.li/bytecode-hacking/)
+* [Hacking third-party APIs on the JVM](https://blog.frankel.ch/hacking-third-party-api-jvm/)
 * [What Are C, C++, and Java Used For?](http://danluu.com/boring-languages/)
 * [Java! Real or Not?](http://java.metagno.me/)
 * [Intersection of two Sets optimized way in Java](http://docs.likejazz.com/intersection-of-two-sets/)
@@ -601,6 +602,7 @@ Java
 * [Java8 Stream의 parallel 처리](http://www.popit.kr/java8-stream%EC%9D%98-parallel-%EC%B2%98%EB%A6%AC/)
 * [Parallel and Asynchronous Programming with Streams and CompletableFuture with Venkat Subramaniam](https://www.youtube.com/watch?v=0hQvWIdwnw4)
 * [자바에서 스트림이란 무엇이고 어떻게 코드를 간결하고 가독성 높게 만들수 있는지 설명합니다. - YouTube](https://www.youtube.com/watch?v=x8-p7Hcxpr8)
+* stream.Collectors [Teeing, a hidden gem in the Java API](https://blog.frankel.ch/teeing-java-api/)
 
 # Java9
 * [Countdown to Java 9 Release Date](http://www.java9countdown.xyz/)
@@ -682,6 +684,7 @@ Java
 
 # Java17
 * [자바 17이 다가오면... - DEV Community](https://dev.to/composite/17-62e)
+* [Internal JDK Elements Strongly Encapsulated in JDK 17](https://www.infoq.com/news/2021/06/internals-encapsulated-jdk17/)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
@@ -706,6 +709,7 @@ Java
 * [Open JDK의 변화](https://qwefgh90.github.io//research/2019/10/12/Open-JDK의-변화.html)
 * [EP.07 OpenJDK 적용하고 벌써 1년, 뭐가 달라졌을까?](https://www.youtube.com/watch?v=BzJifsLXcNA)
 * [java - Difference between OpenJDK and Adoptium/AdoptOpenJDK - Stack Overflow](https://stackoverflow.com/questions/52431764/difference-between-openjdk-and-adoptium-adoptopenjdk)
+* [Everything you need to know about OpenJDK’s move to Git and GitHub](https://blogs.oracle.com/javamagazine/openjdk-mercurial-git-github)
 * [AdoptOpenJDK](https://adoptopenjdk.net/)
   * [자바11 드디어 AdoptOpenJDK에 (2018-10-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=zqnN27A8BNw)
   * [AdoptOpenJDK - HomeBrew TAP](https://github.com/AdoptOpenJDK/homebrew-openjdk)
@@ -1110,6 +1114,7 @@ Java
 * [**snappy-java - Snappy compressor/decompressor for Java**](https://github.com/xerial/snappy-java)
 * [SPMF - An Open-Source Data Mining Library](http://www.philippe-fournier-viger.com/spmf/index.php?link=algorithms.php)
 * SpotBugs [자바 애플리케이션의 보안 검수 방법 살펴보기](https://engineering.linecorp.com/ko/blog/static-analysis-of-java-app)
+* [SproutLife: Evolving version of Conway’s Game of Life](https://github.com/ShprAlex/SproutLife)
 * [STOMP - The Simple Text Oriented Messaging Protocol](https://stomp.github.io/)
   * [WebSocket, STOMP을 연동한 채팅서비스 구현](http://scw0531.blog.me/221097188275)
   * [자바 Stomp Client 성능 개선기](https://hyperconnect.github.io/2020/03/24/improve-stomp-client.html)
