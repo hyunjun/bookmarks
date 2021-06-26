@@ -129,6 +129,7 @@ Network
 * [팀 버너스리가 HTTP 프로토콜을 만든 이유 – Thinker Blog](https://thinker94.com/ko/posts/bernerslee_first_http_translate/)
 * [Understand the Flow of a HTTP Request | by Aakash Yadav | Better Programming | Medium](https://medium.com/better-programming/understand-the-flow-of-a-http-request-1a268ec193f0)
 * [1주차 - HTTP 개관, URL과 리소스 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=21004521)
+* [7XX-rfc: An RFC for a new series of HTTP status codes covering developer fouls](https://github.com/joho/7XX-rfc)
 * [**HTTP Prompt - An interactive command-line HTTP client**](https://http-prompt.com/)
 * [HTTPWTF | HTTP Toolkit](https://httptoolkit.tech/blog/http-wtf/)
 
