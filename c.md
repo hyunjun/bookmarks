@@ -114,6 +114,8 @@ C
 * [Building Another Website, This Time in C | by Robert W. Oliver II | Sourcerer Blog](https://blog.sourcerer.io/building-another-website-this-time-in-c-93b7abdb9671) apache http server
 * [Can You Write a C Program Without a Main Function ? Here is How](https://latesthackingnews.com/2016/10/16/can-write-c-program-without-main-function/)
 * [How to write a good C main function | Opensource.com](https://opensource.com/article/19/5/how-write-good-c-main-function)
+* [What does gcc main.c do?. Table of Contents | by Connor Brereton | Medium](https://medium.com/@connorbrereton/what-does-gcc-main-c-do-bc96824a60a4) compile 과정
+* [Main is usually a function. So then when is it not?](https://jroweboy.github.io/c/asm/2015/01/26/when-is-main-not-a-function.html)
 * [practice - C Struct Hack](https://gist.github.com/hyunjun/2f4e666278435e37567a0656ab2c616a#file-struct_hack-md)
   * [practice](https://github.com/hyunjun/practice/tree/master/c/test-struct-hack)
   * [Struct Hack](https://www.geeksforgeeks.org/struct-hack/)
@@ -150,7 +152,6 @@ C
 * [Why is there a "V" in SIGSEGV Segmentation Fault?](https://blog.cloudflare.com/why-is-there-a-v-in-sigsegv-segmentation-fault/)
 * [C - Mac에서 C Programming하는 방법 : 네이버블로그](https://blog.naver.com/scw0531/222028905378) xcode
 * [3차원 도넛을 콘솔에 그리기](https://jhrogue.blogspot.com/2020/07/5-3.html)
-* [What does gcc main.c do?. Table of Contents | by Connor Brereton | Medium](https://medium.com/@connorbrereton/what-does-gcc-main-c-do-bc96824a60a4) compile 과정
 * [Exploring mullender.c - A deep dive into the first IOCCC winner :: LainSystems](https://lainsystems.com/posts/exploring-mullender-dot-c/)
 * [The problem with C | cor3ntin](https://cor3ntin.github.io/posts/c/)
 * [C’s Biggest Mistake - Digital Mars](https://digitalmars.com/articles/C-biggest-mistake.html)
