@@ -149,6 +149,7 @@ Python
 * [Python for Data Science - Python Brasil 11 (2015)](http://www.slideshare.net/gabrielspmoreira/python-for-data-science-python-brasil-11-2015)
 * [집단지성 프로그래밍 1(Machine Learning, Euclidean Distance, Pearson Correlation Coefficient)](http://yumere.tistory.com/70)
 * [Tutorial – Getting Started with GraphLab For Machine Learning in Python](http://www.analyticsvidhya.com/blog/2015/12/started-graphlab-python/)
+* [python-tutorial: A Python 3 programming tutorial for beginners.](https://github.com/Akuli/python-tutorial)
 * [Python for Quants. Volume I](http://www.smallake.kr/?p=20841)
 * [문제에 집중하는 Python with Open Source](https://docs.google.com/presentation/d/1VMtYfMMFSOIli-N-yMol_yLdcfIIScoVVs64FtDA6hk/edit#slide=id.g35f391192_00)
 * [Canyon decimation example](http://m.blog.naver.com/hgh73/220569839674)
@@ -245,6 +246,7 @@ Python
   * Travelling Salesman Problem, System Design Primer, Facial Recognition, WhatWaf, SimpleCoin, Detectron, Vid2Vid, The Algorithms, Pip Env
 * [10 Crazy Cool Project Ideas for Python Developers | by Juan Cruz Martinez | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/10-crazy-cool-project-ideas-for-python-developers-d7efeb0a345)
 * [Top 45 Python Project Ideas for Beginners - Intellipaat](https://intellipaat.com/blog/python-project-ideas-for-beginners/)
+* [140 Python Projects with Source Code | by Priyesh Sinha | May, 2021 | DataDrivenInvestor](https://medium.datadriveninvestor.com/140-python-projects-with-source-code-fa12c9e2aeac)
 * [파이썬 데이터 검색](http://www.slideshare.net/dahlmoon/20160302-58759476)
 * [Using Python to Parse Spreadsheet Data](https://www.sitepoint.com/using-python-parse-spreadsheet-data/)
 * [Python source code analysis by Prashanth Raghu](https://intopython.com/)
@@ -1530,6 +1532,7 @@ Python
 * [Bioinformatics Tools Programming in Python with Qt: Part 1. | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/bioinformatics-tools-programming-in-python-with-qt-part-1-1a5937e7d53c)
 * [Bioinformatics Tools Programming in Python with Qt: Part 2. | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/bioinformatics-tools-programming-in-python-with-qt-part-2-1a4f6e0ef39)
 * [Python for Bioinformatics - Drug Discovery Using Machine Learning and Data Analysis - YouTube](https://www.youtube.com/watch?v=jBlTQjcKuaY)
+* [Biopython Tutorial and Cookbook.pdf](https://biopython.org/DIST/docs/tutorial/Tutorial.pdf)
 * [PyCTD - programmatically access and analyze data provided by the Comparative Toxicogenomics Database](https://pyctd.readthedocs.io)
 * [Rosalind - a platform for learning bioinformatics and programming through problem solving](http://rosalind.info/problems/locations/)
 
@@ -1571,6 +1574,7 @@ Python
 * [11 Best Python Books To Read in 2020 - Nextotech](https://nextotech.com/best-python-books-in-2020/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [Legally Free Python Books List - Python kitchen](https://www.pythonkitchen.com/legally-free-python-books-list/)
+* [100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/)
 * [Al Sweigart](https://www.freetechbooks.com/al-sweigart-a4040.html)
   * [Cracking Codes with Python](https://www.freetechbooks.com/cracking-codes-with-python-t1344.html)
   * [Automate the Boring Stuff with Python: Practical Programming for Total Beginners](https://www.freetechbooks.com/automate-the-boring-stuff-with-python-practical-programming-for-total-beginners-t942.html)
@@ -1585,6 +1589,7 @@ Python
 * [byte of python-korean](http://byteofpython-korean.sourceforge.net/byte_of_python.html)
 * [Clean Architectures in Python](https://leanpub.com/clean-architectures-in-python/read_full)
   * [Leonardo Giordani - Clean Architectures in Python - YouTube](https://www.youtube.com/watch?v=bieO6YOZ4uc)
+* [Clean Architectures in Python](https://www.pycabook.com/)
 * [cosmic_python - Simple patterns for building complex applications](http://www.cosmicpython.com/book/preface.html) architecture
 * [CPython Internals: Paperback Now Available – Real Python](https://realpython.com/products/cpython-internals-paperback/)
 * [Dive Into Python 3](http://getpython3.com/diveintopython3/)
@@ -1597,6 +1602,7 @@ Python
 * [Full Stack Python](https://www.fullstackpython.com/)
 * Flask [점프 투 플라스크 - WikiDocs](https://wikidocs.net/book/4542)
 * [free-python-books: Python books free to read online or download](https://github.com/pamoroso/free-python-books)
+* Invent with Python [Beyond the Basic Stuff with Python](https://inventwithpython.com/beyond/)
 * [Learn Python, Break Python: A Beginner's Guide to Programming, by Breaking Stuff Books](https://learnpythonbreakpython.com/)
 * [Learn Python the Right way](https://learnpythontherightway.com/)
   * [올바른 방법으로 Python 배우기 무료 E북 | GeekNews](https://news.hada.io/topic?id=4256)
@@ -2530,6 +2536,7 @@ Python
 * [BayPiggies July 2020 - "Notebooks Night" - YouTube](https://www.youtube.com/watch?v=8WnCWdbpIPU)
 * [Windows 10 Jupyter Notebook 원격 + 테마 설정하는 방법(라우터 우회)](https://devbull.xyz/windows-10-jupyter-notebook-weongyeog-tema-seoljeonghaneun-bangbeob-rauteo-uhoe/)
 * [debugging - Jupyter notebook never finishes processing using multiprocessing (Python 3) - Stack Overflow](https://stackoverflow.com/questions/47313732/jupyter-notebook-never-finishes-processing-using-multiprocessing-python-3)
+* [주피터노트북 코드 없이 아웃풋만 pdf 또는 html로 저장하기 - 아무튼 워라밸](http://hleecaster.com/export-jupyter-notebook-without-code/)
 
 ## Jupyter Library
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
@@ -2591,6 +2598,7 @@ Python
 * nbextension [Jupyter notebook 테마 및 확장기능(nbextensions) 설치 방법](https://devbull.xyz/jupyter-notebook-theme-extensions/)
 * [nbterm - edit and execute Jupyter Notebooks in the terminal](https://github.com/davidbrochart/nbterm)
   * [nbterm: Jupyter Notebooks in the terminal | by David Brochart | Apr, 2021 | Jupyter Blog](https://blog.jupyter.org/nbterm-jupyter-notebooks-in-the-terminal-6a2b55d08b70)
+* notebook-environments [Manage python virtual environments on the working notebook server](https://pythonawesome.com/manage-python-virtual-environments-on-the-working-notebook-server/)
 * [nteract and create with data, words, and visuals](https://nteract.io/) jupyter notebook을 web이 아니라 local에서 실행
 * [Oasis - Data system opens its doors to all Liners](https://engineering.linecorp.com/en/blog/detail/333)
   * [모든 Liner를 위한 데이터 분석 웹 인터페이스 개발기](https://engineering.linecorp.com/ko/blog/detail/333)
@@ -2748,6 +2756,7 @@ Python
 * [Don’t Miss out on these 24 Amazing Python Libraries for Data Science](https://www.analyticsvidhya.com/blog/2019/07/dont-miss-out-24-amazing-python-libraries-data-science/)
 * [파이썬 활용, 파이썬 프로젝트로 할 수 있는 일들을 알아보자!](https://tariat.tistory.com/775)
 * [**Top 10 Python libraries of 2019**](https://tryolabs.com/blog/2019/12/10/top-10-python-libraries-of-2019/)
+* [20 Python libraries you aren’t using (but should) – O’Reilly](https://www.oreilly.com/content/20-python-libraries-you-arent-using-but-should/)
 * [3 Insane Secret Weapons for Python](https://towardsdatascience.com/the-3-secret-weapons-that-changed-my-python-editor-forever-c99f7b2e0084) kite, mypy, sonarlint
 * [10 Tools I Use to Craft Better Python Code | by Richard Quinn | Level Up Coding](https://levelup.gitconnected.com/10-tools-i-use-to-craft-better-python-code-b9a9776a7871) Black, Eradicate, Vulture, Coverage, Pycodestyle, Pylint, Mypy, Pyflakes, Doctest, Bandit, Radon
 * [Building Tools with Python. Leveraging the open source… | by Animesh Javali | Medium](https://medium.com/@javalianimesh/building-tools-with-python-5e38fe348a47) argparse, tkinter
@@ -2942,6 +2951,7 @@ Python
 * [flexx - Python UI tookit based on web technology http://flexx.readthedocs.org](https://github.com/zoofIO/flexx)
 * [flickrd - 파이썬3으로 작성한 플리커 사진 다운로드 프로그램](https://github.com/grollcake/flickrd)
 * [FilterPy - a Python library that implements a number of Bayesian filters, most notably Kalman filters](http://filterpy.readthedocs.io/)
+* [fsspec: Filesystem interfaces for Python — fsspec 2021.06.1+1.gd915d3e.dirty documentation](https://filesystem-spec.readthedocs.io/en/latest/index.html)
 * [GDB dashboard - Modular visual interface for GDB in Python](https://github.com/cyrus-and/gdb-dashboard)
 * [gevent - Coroutine-based concurrency library for Python http://gevent.org](https://github.com/gevent/gevent)
   * [Python 개발자를 위한 gevent](http://leekchan.com/gevent-tutorial-ko/)
@@ -3055,6 +3065,7 @@ Python
   * [High Performance Data Processing in Python || Donald Whyte](https://www.youtube.com/watch?v=nmYyISMdOqY) numpy & numba
     * [High Performance Data Processing in Python](https://github.com/DonaldWhyte/high-performance-data-processing-in-python)
 * [Nuitka - the extremely compatible Python compiler](http://nuitka.net/)
+  * [Nuitka - a Python compiler written in Python. It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, and 3.9. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module](https://github.com/Nuitka/Nuitka)
 * OpenBCI [On Brain-Computer Interfaces and Explainable Workflows using Python | PyData Boston Meetup - YouTube](https://www.youtube.com/watch?v=aFr-pdgZVmE) BrainWave
 * [Ohmu - View space usage in your terminal](https://github.com/paul-nechifor/ohmu)
 * [oneliner - Convert any Python file into a single line of code](https://github.com/csvoss/oneliner)
