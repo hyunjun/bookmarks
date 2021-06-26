@@ -114,7 +114,7 @@ Python
 * [Full Javascript Parser - Abstract Syntax Tree](http://hz2.org/blog/ast.html)
 * [**Building a dataflow graph in Python**](http://www.mattkeeter.com/projects/graph/)
 * [Ask HN: Good Python codebases to read?](https://news.ycombinator.com/item?id=9896369)
-* [매끄럽게 움직이는 실시간 스펙트럼 분석기를 만들자!](http://blog.youngminz.kr/2015/08/11/%EB%B2%88%EC%97%AD-%EB%A7%A4%EB%81%84%EB%9F%BD%EA%B2%8C-%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8A%A4%ED%8E%99%ED%8A%B8%EB%9F%BC-%EB%B6%84%EC%84%9D%EA%B8%B0%EB%A5%BC/)
+* [~매끄럽게 움직이는 실시간 스펙트럼 분석기를 만들자!~](http://blog.youngminz.kr/2015/08/11/%EB%B2%88%EC%97%AD-%EB%A7%A4%EB%81%84%EB%9F%BD%EA%B2%8C-%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8A%A4%ED%8E%99%ED%8A%B8%EB%9F%BC-%EB%B6%84%EC%84%9D%EA%B8%B0%EB%A5%BC/)
 * [Bayesian Cookies](http://www.sidhantgodiwala.com/blog/2015/07/12/bayesian-cookies/)
 * [Zen of python poster](https://github.com/ewjoachim/zen-of-python)
 * [The Zen of Python: Write Beautiful Code | by Oleksii Kharkovyna | Towards Data Science](https://towardsdatascience.com/the-zen-of-python-write-beautiful-code-e36844381ee6)
@@ -1960,7 +1960,8 @@ Python
 * [How to Build an E-commerce Website with Django and Python](https://www.youtube.com/watch?v=YZvRrldjf1Y)
 * [Django - tweetme 소셜서비스 구현해보기 (1) - Django Setup](https://woolbro.tistory.com/55)
 * [Django Builder](https://mmcardle.github.io/django_builder/)
-* [Django get_or_create() 함수에서 발생한 MySQL Deadlock 이슈 해결하기](https://tech.peoplefund.co.kr/2019/10/26/get-or-create-deadlock.html)
+* [Django get_or_create() 함수에서 발생한 MySQL Deadlock 이슈 해결하기 - 구영민의 개발 블로그](https://youngminz.netlify.app/posts/get-or-create-deadlock)
+* [Django get_or_create 함수 쓸 때는 unique 같이 쓰자 - 구영민의 개발 블로그](https://youngminz.netlify.app/posts/django-get-or-create-with-unique)
 * [Django Mysql - Python DB 연동 방법](https://developer-ankiwoong.tistory.com/931)
 * [장고에서 C mysql 이 임포트 되지 않는 문제 해결하기 · 개발블로그](https://blog.gyus.me/2020/import-c-library-in-python/)
 * [Django 2 by Example, published by Packt](https://github.com/PacktPublishing/Django-2-by-Example)
@@ -1982,12 +1983,13 @@ Python
 * [django로 크롤링해서 적용하기 +BeautifulSoup사용 — ChoSM'Programming](https://applepick.tistory.com/46)
 * [Django(2.x)와 Asyncio를 함께 사용해보자 No Celery! - JIHUN KIM - Medium](https://medium.com/@elastic7327/python3-6-x-django-2-x-%EC%97%90-asyncio%EB%A5%BC-%ED%95%A8%EA%BB%98-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90-without-celery-1256f12b1a37)
 * [참조](https://velog.io/@dev_taehyun/Django-%EC%A0%95%EC%B0%B8%EC%A1%B0%EC%99%80-%EC%97%AD%EC%B0%B8%EC%A1%B0)
+* [(동영상) T24 장고(Django) 01강 웹프로그래밍과 Django](https://gcamp.tistory.com/572?category=817332)
+* [카카오톡 같은 채팅 시스템 데이터베이스 설계, 구현, 테스트 코드 만들어보기 - 구영민의 개발 블로그](https://youngminz.netlify.app/posts/django-1-to-1-chat-service)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Doctor - Django code improvement bot](https://django.doctor/challenge)
 * django manager [화해 블로그](http://blog.hwahae.co.kr/%EC%A0%84%EC%B2%B4%EB%B3%B4%EA%B8%B0/tech/tech-tech/4108/)
 * [python-social-auth/social-app-django: Python Social Auth - Application - Django](https://github.com/python-social-auth/social-app-django)
-* [(동영상) T24 장고(Django) 01강 웹프로그래밍과 Django](https://gcamp.tistory.com/572?category=817332)
 
 # DSL
 * [Extending Python Into the Future](https://morioh.com/p/6db365736476)
@@ -3284,7 +3286,7 @@ Python
 * [transcript - Python 3.6 to JavaScript compiler - Lean, fast, open! - http://www.transcrypt.org](https://github.com/QQuick/Transcrypt)
 * [transducers-python](https://github.com/cognitect-labs/transducers-python)
 * [transitions - A lightweight, object-oriented finite state machine implementation in Python with many extensions](https://github.com/pytransitions/transitions)
-  * [**유한 상태 기계를 Django에 적용하여 상태 변경을 관리하기**](https://tech.peoplefund.co.kr/2019/03/26/managing-state-using-finite-state-machine.html)
+  * [**유한 상태 기계를 Django에 적용하여 상태 변경을 관리하기 - 구영민의 개발 블로그**](https://youngminz.netlify.app/posts/managing-state-using-finite-state-machine)
 * [TrumpScript](https://github.com/samshadwell/TrumpScript) parser, tokenizer, compiler 참고
 * [Twisted Introduction](http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted/)
 * Twitter
