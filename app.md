@@ -86,6 +86,7 @@ App
 * [immersion - a people-centric view of your email life](https://immersion.media.mit.edu/)
 * [JScreenFix Repair stuck pixels](http://www.jscreenfix.com/)
 * [KODExplorer - A web based file manager,Instead of ftp,online ide http://kalcaddle.com](https://github.com/kalcaddle/KODExplorer)
+* [LANDrop - Drop any files to any devices on your LAN](https://landrop.app/) send-anywhere 유사
 * [lantern - Open Internet for everyone. Lantern is a free desktop application that delivers fast, reliable and secure access to the open Internet for users in censored regions. It uses a variety of techniques to stay unblocked, including P2P and domain fronting. Lantern relies on users in uncensored regions acting as access points to the open Internet. https://getlantern.org ](https://github.com/getlantern/lantern)
 * LDS [개발자와 디자이너의 협업을 위한 LINE 디자인 시스템, LDS 소개 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-design-system/)
 * Liner
@@ -406,6 +407,7 @@ App
 * [Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://excalidraw.com/)
   * [Excalidraw - 오픈소스 가상 칠판 협업도구 | GeekNews](https://news.hada.io/topic?id=4234)
 * [makepagecall.com/](https://www.makepagecall.com/) 화상 통화 + canvas(칠판)
+* [Nettu Meet - 온라인 강의를 위한 오픈소스 화상 회의 시스템 | GeekNews](https://news.hada.io/topic?id=4437)
 * [wire](https://wire.com/) skype alternative
 
 # Cowork
@@ -479,6 +481,8 @@ App
 * mysetting [**Develop. Share. Discover. For developers - mysetting**](https://mysetting.io/)
 * [n8n.io - Open Source Alternative for Zapier/tray.io](https://n8n.io)
 * [Nix - a tool that takes a unique approach to package management and system configuration](https://nixos.org/)
+* [peco: Simplistic interactive filtering tool](https://github.com/peco/peco)
+  * [**Peco 사용법: 커맨드라인 텍스트 증분검색 필터링 도구 | 44BITS**](https://www.44bits.io/ko/post/incremental-search-tool-peco)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
 * [Skynet - The decentralized CDN and file sharing platform for devs](https://siasky.net/)
 * [Sourcetrail - The offline cross-platform source explorer Get productive on unfamiliar source code](https://www.sourcetrail.com/)
@@ -892,6 +896,7 @@ App
   * [NaSC](https://parnold-x.github.io/nasc/)
   * [Numi. Beautiful calculator app for Mac](https://numi.app/)
     * [Numi - 깔끔한 맥용 계산기 앱 | GeekNews](https://news.hada.io/topic?id=3981)
+* [Clipy: Clipboard extension app for macOS.](https://github.com/Clipy/Clipy)
 * [Coffeefy: 스타벅스 와이파이 자동 접속 애플리케이션](https://taegon.kim/archives/5720)
 * [Commander One Mac 무료 듀얼 패널 파일 관리자](http://mac.eltima.com/ko/file-manager.html)
 * compress
@@ -944,6 +949,7 @@ App
 * [openldap - vagrant로 설치하는 openldap](http://raspberrypikor.blogspot.com/2016/11/vagrant-openldap.html)
 * Post-it for Mac [3M, 아이폰과의 동기화를 지원하는 Post-it for Mac을 발표](https://tagilog.tistory.com/441)
 * [QLStephen - 확장자에 관계없이 텍스트 파일 미리보기 QLStephen](http://mcchae.egloos.com/10981138)
+* [Rectangle](https://rectangleapp.com/) spectacle 유사
 * [Rocket Fuel](https://itunes.apple.com/app/rocket-fuel/id1114196460) prevents your Mac from going to sleep or dimming its display
 * Screencast
   * [**OS X Screencast to animated GIF**](https://gist.github.com/dergachev/4627207)
@@ -1210,6 +1216,7 @@ App
 * [2020 최고의 사진 측량 소프트웨어 : 네이버 블로그](https://blog.naver.com/j1392497/222111621788)
 * [9xbuddy : 그냥 최고 온라인 다운로더](https://9xbuddy.in/)
   * [9xbuddy - 모든 비디오 다운로더 | GeekNews](https://news.hada.io/topic?id=3757)
+* [AES67 Stream Monitor - aes67.app](https://aes67.app/) Free and Open Source Audio over IP Monitoring App
 * audacity [오픈소스 오디오 편집툴 : Audacity](https://jybaek.tistory.com/801)
 * [Apache OpenMeetings Project – Home](https://openmeetings.apache.org/) video conferencing, instant messaging, white board, collaborative document editing and other groupware tools
 * AVPlayer [How to set up video streaming in your app with AVPlayer](https://medium.freecodecamp.org/how-to-set-up-video-streaming-in-your-app-with-avplayer-7dc21bb82f3)
@@ -1336,6 +1343,8 @@ App
 * [ghostwriter](https://wereturtle.github.io/ghostwriter/)
 * [hackmd.io](https://hackmd.io/) gist
 * [Haroopad](http://pad.haroopress.com/)
+* [lookatme: An interactive, terminal-based markdown presenter](https://github.com/d0c-s4vage/lookatme)
+  * [lookatme - 터미널 기반 마크다운 프리젠테이션 도구 | GeekNews](https://news.hada.io/topic?id=4433)
 * [Madoko is a fast markdown processor for writing professional articles, books, manuals, webpages and presentations, with a focus on simplicity and plain text readability](https://www.madoko.net/)
 * [Markdownify](https://tibastral.github.io/markdownify/)
 * [MarkdownEditors](https://techstory.shma.so/markdowneditors-c174fb4896ff) android
@@ -1381,6 +1390,9 @@ App
   * [지메일의 골칫거리, 오래된 이메일을 간단히 정리하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/183389)
 * Powerpoint
   * [파워포인트 문서 편집 노가다를 위한 매크로 모음 (추가기능) : 클리앙](https://www.clien.net/service/board/pds/15995022)
+* [TreeSheets](http://strlen.com/treesheets/)
+  * [TreeSheets Tutorial](http://strlen.com/treesheets/docs/tutorial.html)
+  * [TreeSheets - 오픈소스 프리폼 데이터 오거나이저 | GeekNews](https://news.hada.io/topic?id=4501)
 
 # Password
 * [bitwarden - Solve your password management problems](https://bitwarden.com/) lastpass open source
