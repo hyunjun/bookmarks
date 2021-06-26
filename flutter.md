@@ -102,6 +102,7 @@ Flutter
 * [Firebase Crashlytics - 이번 블로그 포스트에서는 Flutter에서 Firebase의 Crashlytics를 연동하고 사용하는 방법에 대해서 알아보겠습니다](https://dev-yakuza.posstree.com/ko/flutter/firebase/crashlytics/)
 * [TTS - Text To Speech - 이번 블로그 포스트에서는 Flutter에서 TTS(Text To Speech) 기능를 사용하는 방법에 대해서 알아보겠습니다](https://dev-yakuza.posstree.com/ko/flutter/tts/)
 * [앱 이름 변경 - 이번 블로그 포스트에서는 Flutter로 생성한 앱의 이름을 변경하는 방법에 대해서 살펴보겠습니다](https://dev-yakuza.posstree.com/ko/flutter/app-name/)
+* [애니메이션 - 이번 블로그 포스트에서는 Flutter에서 간단한 애니메이션을 사용하기 위해 AnimatedContainer와 AnimatedOpacity를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/flutter/widget/animated/)
 
 # Dart
 * [awesome-dart: A curated list of awesome Dart frameworks, libraries, and software](https://github.com/yissachar/awesome-dart)
