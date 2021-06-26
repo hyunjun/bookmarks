@@ -163,6 +163,7 @@ C++
 * [초보 탈출 #2 - 멀티 스레드 프로그래밍 1](http://10bun.tv/beginner/episode-2/)
 * [초보 탈출 #3 - 멀티 스레드 프로그래밍 2 | 10분 TV](http://10bun.tv/beginner/episode-3/)
 * [Learn to debug code with the GNU Debugger | Opensource.com](https://opensource.com/article/21/3/debug-code-gdb) GDB
+* [7 Top Tips for Debugging C++ | The CLion Blog](https://blog.jetbrains.com/clion/2021/06/7-top-tips-for-debugging-cpp/)
 * [C++ Development with Visual Studio Code](https://www.youtube.com/watch?v=bK882S9ESpo)
 * [How to write Clean, Beautiful and Effective C++ Code](https://medium.com/@MKahsari/how-to-write-clean-beautiful-and-effective-c-code-d4699f5e3864)
 * [Windows Trampoline – Kudryavka Noumi](https://www.kudryavka.me/?p=959)
