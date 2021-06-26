@@ -905,6 +905,7 @@ TensorFlow
     * [face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07)
   * [Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code](https://hackernoon.com/handtrackjs-677c29c1d585)
   * [Pose Animator](https://github.com/yemount/pose-animator/)
+  * [TensorFlow.js의 2021년](https://brunch.co.kr/@advisor/30)
   * [tensorspace - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js https://tensorspace.org ](https://github.com/tensorspace-team/tensorspace)
     * [TensorSpace.js](https://tensorspace.org/index.html)
   * twilio
