@@ -34,6 +34,7 @@ Programming
   * [Learn X by doing Y - A project-based learning search engine](https://aquadzn.github.io/learn-x-by-doing-y/)
   * [Home - Projects Based Learning](https://projectsbasedlearning.com/)
 * [15 favorite programming tutorials and insights | Opensource.com](https://opensource.com/article/21/1/best-programming)
+* [TutorialsTeacher - Learn Web Technologies](https://www.tutorialsteacher.com/)
 * [**작은 교육**](http://slownews.kr/44304)
 * [재미로 시작한 개발 공부 열 달, 그리고 삽질기](https://www.slideshare.net/wheejuni/ss-84047369)
   * [재미로 시작한 개발 공부 열 달, 그리고 삽질기](https://www.youtube.com/watch?v=SCtQJ6xI4Zw)
@@ -64,6 +65,7 @@ Programming
 * [Practice-it is a web application to help you practice solving Java programming problems online](https://practiceit.cs.washington.edu/)
 * [codestepbystep.com](https://codestepbystep.com/)
 * [codingbat.com](https://codingbat.com/)
+* [Exercism - Code practice and mentorship for everyone](https://exercism.io/)
 * [www.livecoding.tv/livestreams](https://www.livecoding.tv/livestreams/)
   * [YC-Backed Livecoding.tv Is Twitch.tv For Coding](http://techcrunch.com/2015/06/29/yc-backed-livecoding-tv-is-the-twitch-tv-for-coding)
 * [Thousands of People Are Watching This Guy Code a Search Engine](http://motherboard.vice.com/read/thousands-of-people-are-watching-this-guy-code-a-search-engine)
@@ -364,6 +366,7 @@ Programming
 * [서버 분산 처리 환경에서 데이터의 불일치를 어떻게 해결할까? Part 1 | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p2/)
 * [서버 분산 처리 환경에서 세션 불일치를 어떻게 해결할까? Part 2 | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p3/)
 * [**무료로 개인 프로젝트 호스팅 하기 | 딥백수**](https://dl4ab.github.io/2020/09/06/free-web-server-for-your-portfolio/)
+* [basics-of-server-development: 서버 개발자로서 홀로서기](https://github.com/Zeniuus/basics-of-server-development)
 * [A Guide on Good Backend Coding Practices | by Jimmy Soh | The Internal Startup | Medium](https://medium.com/the-internal-startup/a-guide-on-good-backend-coding-practices-e43f80422559) 기본 원칙
 * [나의 백엔드 배포 환경 정책 · /usr/lib/libsora.so](https://libsora.so/posts/my-backend-deployment-environment-policy/) development environment
 * [Joe Duffy - The Error Model](http://joeduffyblog.com/2016/02/07/the-error-model/)
@@ -548,11 +551,14 @@ Programming
 * [CHAT SERVICE ARCHITECTURE: SERVERS](http://engineering.riotgames.com/news/chat-service-architecture-servers)
 * [Making The Case For Building Scalable Stateful Services In The Modern Era](http://highscalability.com/blog/2015/10/12/making-the-case-for-building-scalable-stateful-services-in-t.html)
 * [**How Netflix Directs 1/3rd of Internet Traffic**](http://www.infoq.com/presentations/netflix-streaming-arch)
+* [Netflix System Design- Backend Architecture - DEV Community](https://dev.to/gbengelebs/netflix-system-design-backend-architecture-10i3)
 * [새해 0시, 라인이 대규모 트래픽을 처리하는 방법 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=igw8oUQBXtc)
 * [글로벌 규모! 라인 메신저 신년 대응 트래픽의 특징 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=5J_Nn5VDrkI)
 * [대규모 트래픽 애플리케이션 성능 튜닝 노하우 다 알려 드림 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=5oTlFJ0llNw)
 * [How Data Inspires Building a Scalable, Resilient and Secure Cloud Infrastructure At Netflix](https://netflixtechblog.com/how-data-inspires-building-a-scalable-resilient-and-secure-cloud-infrastructure-at-netflix-c14ea9f2d00c)
 * [Scaling Uber](http://www.infoq.com/presentations/uber-scalability-arch)
+* [uber 아키텍처](http://knight76.tistory.com/entry/%ED%8E%8C-uber-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
+* [UBER system design. Uber’s technology may look simple but… | by Narendra L | Medium](https://medium.com/@narengowda/uber-system-design-8b2bc95e2cfe)
 * [서버 아키텍처 Vol. 2 (자막)](http://www.slideshare.net/sublee/lt-vol-2)
 * [**서버 비용을 70%나 줄인 온디맨드 리사이징 이야기**](http://engineering.vcnc.co.kr/2016/05/ondemand-image-resizing/)
 * [설계 중심의 시스템 구현](https://blog.ifunfactory.com/2016/01/29/%EC%84%A4%EA%B3%84-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84-2/)
@@ -608,7 +614,6 @@ Programming
   * [MVC, MVP, MVVM 비교](https://magi82.github.io/android-mvc-mvp-mvvm/)
   * [MVVM 아키텍처 패턴 | 프로그래머 이규원의 웹사이트](https://gyuwon.github.io/blog/2017/03/05/mvvm-architectural-pattern.html)
 * [Repository 패턴에 대해서 정리해 보겠습니다](https://developer88.tistory.com/210)
-* [uber 아키텍처](http://knight76.tistory.com/entry/%ED%8E%8C-uber-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [Why do we use Web Frameworks?](http://www.lispcast.com/why-web-frameworks)
 * [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](http://www.gabrielgambetta.com/client-server-game-architecture.html)
 * [**세분화(Granular) 애플리케이션 아키텍처 패턴**](https://medium.com/@jwyeom63/%EC%84%B8%EB%B6%84%ED%99%94-granular-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%8C%A8%ED%84%B4-1f6a2d720545)
@@ -1100,6 +1105,7 @@ Programming
 * [Beyond Microservices in a one page | Joe's Happy Life](http://www.moneystock.net/wp_e/2021/04/30/beyond-microservices-in-a-one-page/)
 * [Microservice Architecture and its 10 Most Important Design Patterns | by Md Kamaruzzaman | Towards Data Science](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
 * [Case Study: a Decade of Microservices at a Financial Firm](https://www.infoq.com/articles/Microservices-Case-Study/)
+* [마이크로서비스에서 데이터를 중앙화하면 안 되는 3가지 이유 - ITWorld Korea](https://www.itworld.co.kr/news/198864)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -1199,6 +1205,7 @@ Programming
 * [더북(TheBook): 심플 소프트웨어](https://thebook.io/006994/) 9~17장만
 * [더북(TheBook): 마이크로서비스 패턴](https://thebook.io/007035/) 1~4장만
 * [컴퓨터 과학 언플러그드](https://statkclee.github.io/unplugged/)
+* [생계형 개발자, SI에서 살아남기 개정판 - WikiDocs](https://wikidocs.net/book/5794)
 * [Software Carpentry: 소프트웨어 카펜트리 버젼 5.3.](http://statkclee.github.io/swcarpentry-version-5-3-new/)
 * [Top 5 Contemporary Software Engineering Books](https://medium.com/ki-labs-engineering/top-5-contemporary-software-engineering-books-8b5ca6a28e83)
 * [The 25 best programming books of all-time. A data-backed answer](https://www.daolf.com/posts/best-programming-books/)
@@ -1831,6 +1838,7 @@ Programming
 * [Here’s How I Solved a Weird Bug Using Tried and True Debugging Strategies | CSS-Tricks](https://css-tricks.com/heres-how-i-solved-a-weird-bug-using-tried-and-true-debugging-strategies/)
 * [디버깅으로 문제 해결하는 방법 - YouTube](https://www.youtube.com/watch?v=bJKr70z54Mc) IntelliJ + Java
 * [GOTO 2017 • Debugging Under Fire: Keep your Head when Systems have Lost their Mind • Bryan Cantrill - YouTube](https://www.youtube.com/watch?v=30jNsCVLpAE)
+* [Reasons why bugs might feel "impossible"](https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/)
 * Ozcode [Debugging Solutions from Dev to Production - Ozcode](https://oz-code.com/)
   * [Advanced Techniques for Production Debugging - YouTube](https://www.youtube.com/watch?v=eghHZvffilA)
 
@@ -2313,6 +2321,7 @@ Programming
   * [5월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/05/b-5-4.html)
   * [6월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/06/b-6-2.html)
   * [6월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/06/b-6.html)
+  * [6월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/06/b-6-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
