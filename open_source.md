@@ -201,6 +201,8 @@ Open Source
 * [**LibHunt**](https://www.libhunt.com/) Find The Software You Need
 * [Mailtrain | Self Hosted Newsletter App](https://mailtrain.org/)
 * [Matrix.org - An open network for secure, decentralized communication](https://matrix.org/)
+* [Open Source Insights](https://deps.dev/)
+  * [Open Source Insights - 오픈소스를 이해하기 쉽게 | GeekNews](https://news.hada.io/topic?id=4429)
 * [QP™ (Quantum Platform) is a family of lightweight, open source software frameworks for building responsive and modular real-time embedded applications as systems of cooperating, event-driven active objects (actors)](http://www.state-machine.com/qp/index.php)
 * [ScanCode - a tool to scan code and detect licenses, copyrights and more](https://github.com/nexB/scancode-toolkit/)
 * [Sourcegraph - 오픈소스 코드 검색하려면 ‘소스그래프’](http://www.bloter.net/archives/226279)
