@@ -122,6 +122,7 @@ Javascript
 * [js-must-watch - Must-watch videos about javascript](https://github.com/bolshchikov/js-must-watch)
 * [tryhelloworld.co.kr/courses/자바스크립트-입문](https://tryhelloworld.co.kr/courses/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%9E%85%EB%AC%B8)
 * [Introduction to JavaScript for Fortran Programmers](http://www.see.ed.ac.uk/~jwp/MSO/newMSO/lab/JS/)
+* [JavaScript for Cats](http://jsforcats.com/)
 * [OK, Now I'll learn How To Program In JavaScript!](https://medium.com/@fagnerbrack/ok-now-ill-learn-how-to-program-in-javascript-2c7847414830)
 * [Want to learn JavaScript? Here’s a free 24-part course to get you started](https://medium.freecodecamp.org/want-to-learn-javascript-heres-a-free-24-part-course-to-get-you-started-e7777baf86fb)
 * [Build Javascript Projects From Scratch | JavaScript Projects For Beginners | JavaScript |Simplilearn - YouTube](https://www.youtube.com/watch?v=fi4E40kOGGM)
