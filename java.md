@@ -229,6 +229,7 @@ Java
   * [토비의 봄 TV 4회 (2) Generics에서 와일드카드 활용법, 람다와 인터섹션 타입을 이용한 동적인 기능확장법](https://www.youtube.com/watch?v=PQ58n0hk7DI)
   * [Java의 Generics](https://medium.com/@joongwon/java-java%EC%9D%98-generics-604b562530b3) covariant/contravariant, 공변/반공변
   * [Java 제네릭 Generics DEEP DIVE](https://futurecreator.github.io/2018/08/12/java-generics/)
+  * [Java Generics in no time "? extends" & "? super" explained with a diagram | Java-Success.com](https://www.java-success.com/java-generics-and-wildcards-extends-super-explained-with-a-diagram/)
 * `java.util.Properties`
   * [java.util.Properties](https://github.com/hyunjun/practice/tree/master/java/test-property)
   * [How to read values from properties file in java example](http://www.instanceofjava.com/2018/01/how-to-read-values-from-properties-file.html)
