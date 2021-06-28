@@ -1594,6 +1594,7 @@ Javascript
   * [Everything you need to know about the `passport-local` Passport JS Strategy](https://levelup.gitconnected.com/everything-you-need-to-know-about-the-passport-local-passport-js-strategy-633bbab6195)
   * [Everything you need to know about the `passport-jwt` Passport JS Strategy (and Angular implementation) | by Zach Gollwitzer | The Startup | Medium](https://medium.com/swlh/everything-you-need-to-know-about-the-passport-jwt-passport-js-strategy-8b69f39014b0)
   * [🔐GitHub OAuth 로그인 #10분완성 #passport #node.js - YouTube](https://www.youtube.com/watch?v=anZqM4JnZ3o)
+  * [깃플 스터디 프로젝트 | Programming Cloud-Native](https://tech.gitple.io/2021/06/28/blog-study-project/)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
 * [Peaks.js: Audio waveform rendering in the browser](http://www.bbc.co.uk/rd/blog/2013/10/audio-waveforms)
 * [perfect-arrows: A minimal tool for drawing perfect arrows between points and shapes](https://github.com/steveruizok/perfect-arrows)
