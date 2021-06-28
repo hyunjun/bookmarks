@@ -1306,6 +1306,7 @@ Python
     * [Python urllib HTTP 헤더 인젝션 취약점](http://blog.alyac.co.kr/m/post/668)
   * [Urllib - GET Requests || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=LosIGgon_KM)
   * [archives :: 소켓과 urllib2 속도차이](https://qkqhxla1.tistory.com/29)
+  * [URL Encoding 된 CSV 파일 한줄로 ecode 하기 (feat. Python3)](https://jojoldu.tistory.com/583)
 * urlparse
   * [urlparse – Split URL into component pieces](https://pymotw.com/2/urlparse/)
 * uuid
