@@ -589,6 +589,7 @@ Python
 * copy
   * [More Python 1 - Copy](http://add2paper.github.io/2014/12/01/More-Python-1-Copy/)
   * [파이썬의 함정 - 3 참조,얕은 복사,깊은 복사](http://hamait.tistory.com/844)
+  * [파이썬 얕은 복사, 깊은 복사 개념 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/programming/py-deepcopy/)
 * coroutine
   * [A Curious Course on Coroutines and Concurrency](http://dabeaz.com/coroutines/)
     * [dabeaz.com/coroutines/Coroutines.pdf](http://dabeaz.com/coroutines/Coroutines.pdf)
