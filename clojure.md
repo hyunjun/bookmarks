@@ -366,6 +366,7 @@ Clojure
 * [Algebraic Effects(-ish Things) in Clojure - lilac.town](https://lilac.town/writing/effects-in-clojure/)
 * [Inspiring a future Clojure editor with forgotten Lisp UX - Shaun Lebron - YouTube](https://www.youtube.com/watch?v=K0Tsa3smr1w)
 * [OSS Clojure-Datalog Databases](https://clojurelog.github.io/)
+* [On Types](https://blog.cleancoder.com/uncle-bob/2021/06/25/OnTypes.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
