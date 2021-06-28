@@ -289,6 +289,8 @@
 * [Rust 입문용 치트시트](https://happygrammer.github.io/rust/cheat-seat/)
 * [Rust로 첫 번째 단계 수행 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/paths/rust-first-steps/)
   * [MS의 Rust 기초 가이드 한국어 | GeekNews](https://news.hada.io/topic?id=4095)
+* [Beginner's Series to: Rust - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x)
+  * [Take your first steps with Rust - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/)
 * [rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
   * 버그 수정하며 Rust 언어 배우기
   * 에러가 있는 코드를 수정하면서 Rust를 읽고 쓰는법 배우기
