@@ -97,8 +97,10 @@ Programming Books
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
 * (NOT YET) [처음 배우는 플러터, 유동환 저(2020)](https://medium.com/@larkbless/%EC%84%9C%ED%8F%89-%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%9C%A0%EB%8F%99%ED%99%98-%EC%A0%80-2020-1327c26c57cc)
 * (NOT YET) [줄리아를 생각하다 데이터 과학자를 위한 최적의 프로그래밍 언어](http://www.yes24.com/Product/Goods/89643887?scode=032&OzSrank=1)
-* (NOT YET) [개발 7년차, 매니저 1일차](https://jybaek.tistory.com/867)
+* [개발 7년차, 매니저 1일차](https://jybaek.tistory.com/867)
+  * ★★★★★
   * [독서광 개발 7년차, 매니저 1일차](https://jhrogue.blogspot.com/2020/06/7-1.html)
+  * [개발 7년차, 매니저 1일차](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C-7%EB%85%84%EC%B0%A8-%EB%A7%A4%EB%8B%88%EC%A0%80-1%EC%9D%BC%EC%B0%A8-3189fcbc2d54)
 * (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * [엔지니어링 매니저 필독 도서&아티클](https://welcome.publy.co/em-books-and-articles/)
 * (NOT YET) [(유튜브 방송) UX/UI의 10가지 심리학 법칙](https://jhrogue.blogspot.com/2020/09/uxui-10.html)
@@ -174,7 +176,8 @@ Programming Books
 * (NOT YET) [서평: 그들은 알고리즘을 알았을까? ](https://blog.gaerae.com/2018/10/once-upon-an-algorithm.html)
 * (NOT YET) [자료구조 입문 - 알고리즘과 그림으로 이해하고 C로 구현하는](https://freelec.co.kr/book/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EA%B8%B0%EB%B3%B8%EC%9D%84-%ED%83%84%ED%83%84%ED%9E%88-%ED%95%98%EC%9E%90/)
 * (NOT YET) [알고리즘 트레이닝: 프로그래밍 대회 입문 가이드](https://blog.insightbook.co.kr/2019/05/07/%E3%80%8A%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%8C%80%ED%9A%8C-%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%9D%B4%EB%93%9C/)
-* (NOT YET) [파이썬 자료구조와 알고리즘 : 기초 튼튼, 핵심 쏙쏙, 실력 쑥쑥](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B8465804191)
+* [파이썬 자료구조와 알고리즘 : 기초 튼튼, 핵심 쏙쏙, 실력 쑥쑥](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B8465804191)
+  * [파이썬 자료구조와 알고리즘](https://jh4hj.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * (NOT YET) [퍼즐로 배우는 알고리즘 with 파이썬](https://blog.naver.com/ydot/221616317667)
 * (NOT YET) [다이내믹 프로그래밍 완전 정복](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B9440449667)
 * (NOT YET) [파이썬 알고리즘 인터뷰 95가지 알고리즘 문제 풀이로 완성하는 코딩 테스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=245495826)
@@ -185,6 +188,7 @@ Programming Books
 * (NOT YET) [파이썬을 이용한 컴퓨터 과학 입문 - YES24](http://www.yes24.com/Product/Goods/85111306)
 * (NOT YET) [책 리뷰 실전 대비 C 알고리즘 인터뷰 – 길벗 | Charsyam's Blog](https://charsyam.wordpress.com/2021/01/10/%ec%b1%85-%eb%a6%ac%eb%b7%b0-%ec%8b%a4%ec%a0%84-%eb%8c%80%eb%b9%84-c-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%9d%b8%ed%84%b0%eb%b7%b0-%ea%b8%b8%eb%b2%97/)
 * (NOT YET) [알라딘: 코드 없는 알고리즘과 데이터 구조](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=264048968)
+* [다이나믹 프로그래밍 완전 정복](https://jh4hj.tistory.com/entry/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5)
 
 # Amazon AWS
 
@@ -258,6 +262,10 @@ Programming Books
 * (NOT YET) [소프트웨어 아키텍트가 알아야할 97가지 출간!!! | Architecture 101](https://architecture101.blog/2011/04/04/publish-eva-97architect/)
 * (NOT YET) [엔터프라이즈 환경을 위한 마이크로서비스 | 에이콘출판사](http://www.acornpub.co.kr/book/microservices-enterprise)
 * (NOT YET) [파이썬으로 살펴보는 아키텍처 패턴](https://www.hanbit.co.kr/store/books/look.php?p_code=B9529701010) TDD DDD EDM
+* [이벤트 기반 마이크로서비스 구축](https://nymets.medium.com/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B8%B0%EB%B0%98-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-c2e4bbfdba2e)
+  * ★★★★☆
+* [개발자에서 아키텍트로](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EC%84%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EB%A1%9C-76317c59165f)
+  * ★★★★☆
 
 # C
 
@@ -291,6 +299,7 @@ Programming Books
   * [Learning C++ Functional Programming](https://github.com/PacktPublishing/LearningCPPFunctionalProgramming)
   * [(번역서) 모던 C++로 배우는 함수형 프로그래밍 예제 코드](https://github.com/surinkim/learning_cpp_functional_programming_kor)
 * [C++ 최적화 : 최고 성능을 구현하는 10가지 검증된 기법](http://www.hanbit.co.kr/store/books/look.php?p_code=B8975427001)
+  * [C++ 최적화 : 최고 성능을 구현하는 10가지 검증된 기법](https://jh4hj.tistory.com/entry/C-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%B5%9C%EA%B3%A0-%EC%84%B1%EB%8A%A5%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-10%EA%B0%80%EC%A7%80-%EA%B2%80%EC%A6%9D%EB%90%9C-%EA%B8%B0%EB%B2%95)
 * (NOT YET) [고성능을 위한 언어 C++ - 이론과 C++17, 메모리 관리, 동시성, STL 알고리즘 모범 사례](http://acornpub.co.kr/book/c-high-performance)
 
 # C#
@@ -528,7 +537,7 @@ Programming Books
   * [실체가 손에 잡히는 딥러닝(1) "인공지능의 세계, 머신러닝과 딥러닝은 어떻게 등장했나"](https://www.popit.kr/deep-learning-1)
   * [실체가 손에 잡히는 딥러닝(2) “인간의 뇌를 모방한 신경망, 그리고 딥러닝”](https://www.popit.kr/deep-learning-2)
   * [실체가 손에 잡히는 딥러닝(3) “이것만은 꼭 알아두자! 딥러닝의 꽃 - 가중치, 편향, 활성화 함수, 역전파”](https://www.popit.kr/%EC%8B%A4%EC%B2%B4%EA%B0%80-%EC%86%90%EC%97%90-%EC%9E%A1%ED%9E%88%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D3-%EC%9D%B4%EA%B2%83%EB%A7%8C%EC%9D%80-%EA%BC%AD-%EC%95%8C%EC%95%84%EB%91%90%EC%9E%90)
-* (NOT YET) [파이썬 날코딩으로 알고 짜는 딥러닝](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B8585180187)
+* [파이썬 날코딩으로 알고 짜는 딥러닝](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B8585180187)
   * [1장](https://www.slideshare.net/mediahanbit/1-220897934)
   * [2장](https://www.slideshare.net/mediahanbit/2-220898680)
   * [3장](https://www.slideshare.net/mediahanbit/ss-220899210)
@@ -536,6 +545,7 @@ Programming Books
   * [5장](https://www.slideshare.net/mediahanbit/5-221709470)
   * [6장](https://www.slideshare.net/mediahanbit/6-221707156)
   * [7장](https://www.slideshare.net/mediahanbit/7-221707223)
+  * [파이썬 날코딩으로 알고 짜는 딥러닝](https://jh4hj.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%82%A0%EC%BD%94%EB%94%A9%EC%9C%BC%EB%A1%9C-%EC%95%8C%EA%B3%A0-%EC%A7%9C%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D)
 * (NOT YET) [알파고를 분석하며 배우는 인공지능](https://jpub.tistory.com/941)
 * (NOT YET) [실전 예제로 배우는 GAN - 파이썬, 텐서플로, 케라스로 다양한 GAN 아키텍처를 구축하고 활용하기](https://wikibook.co.kr/gan/)
 * (NOT YET) [파이썬을 이용한 머신러닝, 딥러닝 실전 앱 개발 - 실무에서 즉시 활용 가능한 머신러닝, 딥러닝 실전 앱 개발](https://wikibook.co.kr/python-ml-app-dev/)
@@ -551,7 +561,9 @@ Programming Books
 * (NOT YET) [단단한 강화학습: 강화학습 기본 개념을 제대로 정리한 인공지능 교과서](https://jpub.tistory.com/1026)
 * (NOT YET) [검색을 위한 딥러닝: 심층 신경망을 활용하는 차세대 검색 엔진 개발](https://jpub.tistory.com/1017)
   * [도서리뷰 검색을 위한 딥러닝 2장: 동의어 생성](https://medium.com/@leejukyung/%EB%8F%84%EC%84%9C%EB%A6%AC%EB%B7%B0-%EA%B2%80%EC%83%89%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%94%A5%EB%9F%AC%EB%8B%9D-2%EC%9E%A5-%EB%8F%99%EC%9D%98%EC%96%B4-%EC%83%9D%EC%84%B1-6c00bf856df4)
-* (NOT YET) [파이썬으로 배우는 딥러닝 교과서 이미지 인식 모델을 만들면서 익히는 딥러닝](http://www.hanbit.co.kr/store/books/look.php?p_code=B5364144898)
+* [파이썬으로 배우는 딥러닝 교과서 이미지 인식 모델을 만들면서 익히는 딥러닝](http://www.hanbit.co.kr/store/books/look.php?p_code=B5364144898)
+  * ★★★★☆
+  * [파이썬으로 배우는 딥러닝 교과서](https://nymets.medium.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B5%90%EA%B3%BC%EC%84%9C-a4a3eb376a8)
 * (NOT YET) [딥러닝을 위한 수학 인공지능의 핵심 원리를 이해하고 파이썬으로 구현해 보는](https://wikibook.co.kr/mathdl/)
 * (NOT YET) [친절한 실전 딥러닝 수업](https://bjpublic.tistory.com/355)
   * [친절한 실전 딥러닝 수업](https://github.com/bjpublic/TMI-Deeplearning)
@@ -565,6 +577,10 @@ Programming Books
   * [리뷰 심층 강화학습 인 액션 · TheoryDB](https://theorydb.github.io/review/2021/03/16/review-book-deep-reinforcement-learning-in-action/)
 * (NOT YET) Do it 강화학습 입문
   * [start-RL: Do it 강화학습 입문(Getting Started with Deep Reinforcement Learning) 소스코드 저장소](https://github.com/yunho0130/start-RL)
+* [처음 시작하는 딥러닝](https://nymets.medium.com/%EC%B2%98%EC%9D%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D-1f4c108283e4)
+  * ★★★★☆
+* [그로킹 딥러닝](https://nymets.medium.com/%EA%B7%B8%EB%A1%9C%ED%82%B9-%EB%94%A5%EB%9F%AC%EB%8B%9D-2cc20305877e)
+  * ★★★★☆
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
@@ -657,8 +673,10 @@ Programming Books
   * [머신러닝 교과서 1장 정리](https://benghak.github.io/2020-01-09-ML_chapter_01)
   * [머신 러닝 교과서 3판 - YouTube](https://www.youtube.com/playlist?list=PLJN246lAkhQiEc-QvvGzUneCWuRnCNKgU)
 * (NOT YET) [전문가를 위한 머신러닝 솔루션 - 파이썬을 이용한 머신러닝 고급 문제 해결 기법]((https://wikibook.co.kr/ml-solutions/)
-* (NOT YET) [파이썬을 활용한 머신러닝 쿡북](https://jybaek.tistory.com/839)
+* [파이썬을 활용한 머신러닝 쿡북](https://jybaek.tistory.com/839)
+  * ★★★★☆
   * [책리뷰 파이썬을 활용한 머신러닝 쿡북](https://www.youtube.com/watch?v=UOKjbLfx4L0)
+  * [파이썬을 활용한 머신러닝 쿡북](https://nymets.medium.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%BF%A1%EB%B6%81-3f443a5cdb39)
 * (NOT YET) [머신러닝 도감](https://jpub.tistory.com/990)
 * (NOT YET) [단단한 머신러닝](https://jpub.tistory.com/1010)
 * (NOT YET) [머신러닝을 위한 파이썬 한 조각](https://bjpublic.tistory.com/352)
@@ -691,6 +709,7 @@ Programming Books
   * [케라스 창시자에게 배우는 딥러닝](https://subinium.github.io/Keras/)
   * [tensorflow.org/tutorials/keras](https://www.tensorflow.org/tutorials/keras)
   * [3장. 신경망 시작하기 (1)](https://subinium.github.io/Keras-3-1/)
+  * [케라스 창시자에게 배우는 딥러닝](https://jh4hj.tistory.com/entry/%EC%BC%80%EB%9D%BC%EC%8A%A4-%EC%B0%BD%EC%8B%9C%EC%9E%90%EC%97%90%EA%B2%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%94%A5%EB%9F%AC%EB%8B%9D)
 * (NOT YET) [케라스 창시자의 딥러닝 with R](https://jpub.tistory.com/897)
 * (NOT YET) [딥러닝 모델 설계를 떠받치는 기술 딥러닝이 안 풀릴 때 보는 케라스 해법 정리서](http://wikibook.co.kr/deep-learning-reference/)
 * [정석으로 배우는 딥러닝 텐서플로와 케라스로 배우는 시계열 데이터 처리 알고리즘](http://wikibook.co.kr/deep-learning-with-tensorflow/)
@@ -877,7 +896,9 @@ Programming Books
 * (NOT YET) [파이썬과 케라스를 이용한 딥러닝/강화학습 주식투자](http://wikibook.co.kr/deep-learning-trading/)
   * 한라 004.73-김36ㄷ
 * [파이썬 증권 데이터 분석](http://hanbit.co.kr/store/books/look.php?p_code=B7026921929)
+  * ★★★★☆
   * [StockAnalysisInPython](https://github.com/INVESTAR/StockAnalysisInPython)
+  * [파이썬 증권 데이터 분석](https://nymets.medium.com/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%A6%9D%EA%B6%8C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-424d289de071)
 * (NOT YET) [퀀트 전략을 위한 인공지능 트레이딩](https://www.hanbit.co.kr/store/books/look.php?p_code=B1740090592)
 * (NOT YET) [알고리즘트레이딩을 위한 파이썬](https://brunch.co.kr/@gauss92tgrd/15)
 
@@ -947,6 +968,7 @@ Programming Books
   * [Tucker Programming - YouTube](https://www.youtube.com/channel/UCZp_ftx6UB_32VfVmlS3o_A)
   * [Tucker의 Go 언어 프로그래밍](https://jhrogue.blogspot.com/2021/04/tucker-go.html)
 * (NOT YET) [Go 마스터하기 2/e | 에이콘출판사](http://www.acornpub.co.kr/book/mastering-go-2e)
+* [Head First Go](https://nymets.medium.com/head-first-go-feb4c5a80708)
 
 # Hadoop
 
@@ -1017,6 +1039,8 @@ Programming Books
 * (NOT YET) [구글 클라우드 플랫폼 입문 - 웹부터 머신러닝을 이용한 클라우드 애플리케이션까지](https://freelec.co.kr/book/%EA%B5%AC%EA%B8%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9C%BC%EB%A1%9C-%EA%B5%AC%EC%B6%95%ED%95%98%EC%9E%90/)
 * (NOT YET) [대용량 아키텍처와 성능 튜닝조대협의 서버 사이드](https://freelec.co.kr/book/1749/)
 * (NOT YET) [클라우드 네이티브 패턴 - 변화에 잘 견디는 소프트웨어 개발](http://acornpub.co.kr/book/cloud-native-patterns)
+* [클라우드 네이티브](https://nymets.medium.com/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-bd9365de890c)
+  * ★★★★☆
 
 # Interview
 
@@ -1115,6 +1139,7 @@ Programming Books
 * (NOT YET) [자바 트러블슈팅](https://jpub.tistory.com/989)
 * (NOT YET) [알라딘: 자바 코딩의 기술](https://www.gilbut.co.kr/book/view?bookcode=BN002823)
 * (NOT YET) [Practical 모던 자바: 어려워진 자바, 실무에 자신 있게 적용하기 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/09/16/practical-%eb%aa%a8%eb%8d%98-%ec%9e%90%eb%b0%94-%ec%96%b4%eb%a0%a4%ec%9b%8c%ec%a7%84-%ec%9e%90%eb%b0%94-%ec%8b%a4%eb%ac%b4%ec%97%90-%ec%9e%90%ec%8b%a0-%ec%9e%88%ea%b2%8c-%ec%a0%81%ec%9a%a9%ed%95%98/)
+* [Think Data Structures 자바로 배우는 핵심 자료구조와 알고리즘](https://nymets.medium.com/think-data-structures-%EC%9E%90%EB%B0%94%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%95%B5%EC%8B%AC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-d26ba67c7179)
 
 # JavaScript
 
@@ -1129,6 +1154,7 @@ Programming Books
 * (NOT YET) [《자바스크립트는 왜 그 모양일까?: 더글러스 크락포드가 알려주는 위험한 자바스크립트를 안전하게 사용하는 법》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/05/22/%e3%80%8a%ec%9e%90%eb%b0%94%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8%eb%8a%94-%ec%99%9c-%ea%b7%b8-%eb%aa%a8%ec%96%91%ec%9d%bc%ea%b9%8c-%eb%8d%94%ea%b8%80%eb%9f%ac%ec%8a%a4-%ed%81%ac%eb%9d%bd%ed%8f%ac/)
 * (NOT YET) [클론 코딩으로 시작하는 Next.js](https://bjpublic.tistory.com/391)
 * (NOT YET) [《이펙티브 타입스크립트: 동작 원리의 이해와 구체적인 조언 62가지》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/06/10/%e3%80%8a%ec%9d%b4%ed%8e%99%ed%8b%b0%eb%b8%8c-%ed%83%80%ec%9e%85%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8-%eb%8f%99%ec%9e%91-%ec%9b%90%eb%a6%ac%ec%9d%98-%ec%9d%b4%ed%95%b4%ec%99%80-%ea%b5%ac%ec%b2%b4/)
+* [혼자 공부하는 자바스크립트](https://nymets.medium.com/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-8e7e770c9650)
 
 ## Angular
 
@@ -1269,8 +1295,10 @@ Programming Books
 * 나의 첫 UNIX 교과서
   * 한라 005.44키35ㄴ
   * 명령어 참고에 도움이 될 듯. soso
-* (NOT YET) [유닉스의 탄생](https://jybaek.tistory.com/876)
+* [유닉스의 탄생](https://jybaek.tistory.com/876)
+  * ★★★★★
   * [유닉스의 탄생 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1521)
+  * [유닉스의 탄생. 제목에서 알 수 있듯 책을 읽는다고 해도 프로그래밍에 대해 배울 수… | by Jun | Jun, 2021 | Medium](https://nymets.medium.com/%EC%9C%A0%EB%8B%89%EC%8A%A4%EC%9D%98-%ED%83%84%EC%83%9D-edf150eb3598)
 
 ## Vim
 
