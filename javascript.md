@@ -499,6 +499,7 @@ Javascript
 * [2020년 6월 20일 개발 이야기 특집(자바스크립트 세상의 클린코드)](https://jhrogue.blogspot.com/2020/06/b-2020-6-20.html)
 * [Who Else Wants to Write Clean JavaScript Code? - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/who-else-wants-to-write-clean-javascript-code-ff4f7896e6bd)
 * [7 Types of Native Errors in JavaScript You Should Know](https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492)
+* [자주 발생하는 자바스크립트 에러 · shiren the creator](https://blog.shiren.dev/2021-06-29/)
 * JS로 배우는 자료구조와 알고리즘
   * [1 : 언어 기초](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-1-%EC%96%B8%EC%96%B4-%EA%B8%B0%EC%B4%88-1a1179db2f29)
   * [2 : Array 자료구조 (1)](https://medium.com/@eurobin4321/js%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2-array-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-1-70afb578f276)
