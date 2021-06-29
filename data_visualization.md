@@ -465,6 +465,7 @@ Data Visualization
 * [How matrices transform space - Pritesh Shrivastava’s Blog](https://pritesh-shrivastava.github.io/blog/2021/02/09/matrix-transformation)
 * [Matplotlib Vis. Function | Pega Devlog](https://jehyunlee.github.io/2021/05/18/Python-DS-73-mplfunc/)
 * [Legend Control | Pega Devlog](https://jehyunlee.github.io/2021/06/06/Python-DS-76-mpllegend/)
+* [Datetime X-axis Control | Pega Devlog](https://jehyunlee.github.io/2021/06/29/Python-DS-77-datetime/)
 * [**itermplot - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal**](https://github.com/daleroberts/itermplot)
 * [mpld3 - Plotly 랑 Bokeh 공부하기 귀찮다. 그냥 matplotlib 를 사용해서 웹서비스하자](http://hamait.tistory.com/850)
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn)
