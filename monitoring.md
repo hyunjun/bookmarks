@@ -28,6 +28,7 @@ Monitoring
 * [Monitoring Microservices the Right Way](https://www.infoq.com/articles/microservice-monitoring-right-way/)
 * [How Netflix Monitors Millions of Devices | LinkedIn](https://www.linkedin.com/pulse/how-netflix-monitors-millions-devices-robert-armstrong/)
   * [Netflix는 어떻게 수 백만 개의 디바이스를 모니터링 하나?](https://blog.imqa.io/how-netflix-monitors-millions-devices-robert-armstrong/)
+  * [Netflix는 어떻게 수 백만 개의 디바이스를 모니터링 하나? | Architecture 101](https://architecture101.blog/2021/06/29/netflix_dre/)
 * [트위터는 왜 모니터링 시스템을 다시 만들었나?](https://blog.imqa.io/twitter_monitoring_system_v2)
 * [IMQA (모바일 앱 실시간 성능 모니터링)는 개발자 도구를 어떻게 사용했을까?](https://blog.imqa.io/imqa_devtools/)
 * [서비스 개선의 시작, 지속적인 서비스 지표 모니터링부터. 서비스를 개선하고 지표를 확인하는 일련의 과정과 그 과정에서 얻은… | by 버즈니 | May, 2021 | Medium](https://buzzni.medium.com/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EC%84%A0%EC%9D%98-%EC%8B%9C%EC%9E%91-%EC%A7%80%EC%86%8D%EC%A0%81%EC%9D%B8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A7%80%ED%91%9C-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EB%B6%80%ED%84%B0-623bd70a5105)
