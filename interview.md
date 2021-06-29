@@ -755,6 +755,7 @@ Interview
 * [How to Write a Résumé That Stands Out](https://hbr.org/2014/12/how-to-write-a-resume-that-stands-out)
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
 * [cakeresume.com/v2](https://www.cakeresume.com/v2)
+* [ddongule-simple-portfolio: Portfolio for Developers! Make your own portfolio Simple and Fast!](https://github.com/ddongule/ddongule-simple-portfolio)
 * [itresumeservice.com](http://www.itresumeservice.com/)
 * [latexresu.me](https://latexresu.me/)
 * [latex_resume_template_kor](https://github.com/changh95/latex_resume_template_kor)
