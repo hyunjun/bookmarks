@@ -320,6 +320,7 @@ Haskell
 * Functor
   * [Effectful Haskell: IO, Monads, Functors](http://slpopejoy.github.io/posts/Effectful01.html)
   * [Functors and monads for analyzing data](https://izbicki.me/blog/functors-and-monads-for-analyzing-data.html)
+  * [하스켈 좌충우돌 State Monad 구현기](https://gist.github.com/nattybear/4bea2b783cf463d5d16e99ea36cca1e7)
   * [Initial Algebra as Directed Colimit](https://bartoszmilewski.com/2020/04/09/initial-algebra-as-directed-colimit/)
   * [Functortown: A Map of the Territory](https://typeclasses.com/functortown)
   * [하스켈 Functor](https://gist.github.com/nattybear/04c0ec8e82e45ebbf140a744510ef519)
