@@ -3792,6 +3792,7 @@ Javascript
 * [Deep dive into Vue.js · Present](https://present.do/decks/60bed033f79479437375f2da)
 * [Vue.js와 Reactive Programming · Present](https://present.do/decks/60bf928c1903093a77d161d7)
 * [Tour of Vue.js · Present](https://present.do/decks/60bf94931903093a77d16467)
+* [Vue.js 강의 자료 · Present](https://present.do/courses/60dc15a9e81ae77becf4e27b)
 * [anissia-core](https://github.com/anissia-net/anissia-core)
 * [anissia-web](https://github.com/anissia-net/anissia-web)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
