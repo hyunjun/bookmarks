@@ -954,6 +954,7 @@ Web
 * [FE개발자의 성장 스토리 08 : WebAssembly 개발기 – tech.kakao.com](https://tech.kakao.com/2021/05/17/frontend-growth-08/)
 * [WASM SYNTH, or, how music taught me the beauty of math](https://timdaub.github.io/2020/02/19/wasm-synth/)
 * [웹어셈블리를 활용한 유망한 프로그래밍 언어 프로젝트 10가지 - ITWorld Korea](https://www.itworld.co.kr/news/196324)
+* [웹어셈블리 인기에 날개달까?··· 주목할 만한 언어 프로젝트 11가지 - CIO Korea](https://www.ciokorea.com/news/199344)
 * [Making JavaScript run fast on WebAssembly](https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
