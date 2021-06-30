@@ -217,6 +217,7 @@ AWS
 * [AWS와 GCP VPN 연동 예제](https://zigispace.net/1024)
 * [AWS와 Azure VPN 연동 예제](https://zigispace.net/1026)
 * [AWS에서 SWAN을 설치하여 Azure와 VPN 연동 예제](https://zigispace.net/1027)
+* [Azure - AWS 간의 VPN 연동 및 BGP 연결](https://zigispace.net/1136)
 * [AWS Client VPN 기반 개발 트래픽 관리](https://grip.news/archives/1581)
 * [The Open Guide to Amazon Web Services](https://github.com/open-guides/og-aws)
 * [Performance Insight 써도 돼요?](http://woowabros.github.io/r-d/2018/12/01/performance_insight.html)
