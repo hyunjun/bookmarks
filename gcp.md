@@ -112,6 +112,7 @@ Google Cloud Platform GCP
 * [구글 클라우드 플랫폼에서 마이크로서비스 실행하기 - ITWorld Korea](https://www.itworld.co.kr/news/190743)
 * [MLOps: Big Picture in GCP. “Why do we need different CI/CD for… | by Park Chansung | Google Developers Experts | May, 2021 | Medium](https://medium.com/google-developer-experts/mlops-big-picture-in-gcp-a637566d6ae8)
 * [Vertex 파이프라인  |  Vertex AI  |  Google Cloud](https://cloud.google.com/vertex-ai/docs/pipelines?hl=ko)
+* [버텍스 AI로 무장한 새로운 구글 머신러닝 클라우드](https://brunch.co.kr/@synabreu/140)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
