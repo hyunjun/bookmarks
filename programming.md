@@ -41,6 +41,7 @@ Programming
 * [개발자를 위한 넓고 얕은 지식](https://www.slideshare.net/godrm/ss-84035645)
   * [개발자를 위한 넓고 얕은 지식](https://www.youtube.com/watch?v=567gB2kfwAs)
 * [소프트웨어 전문가되기](https://brunch.co.kr/magazine/daddy-book)
+* [**초보 웹 개발자를 위한 학습 안내서**](https://subicura.com/2021/06/27/study-guide.html)
 * [These YouTube Channels Taught Me How to Code | by keypressingmonkey | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/these-youtube-channels-taught-me-how-to-code-6264fedfd325)
 * [Developer Roadmaps - Step by step guides and paths to learn different tools or technologies](https://roadmap.sh/roadmaps)
 * [Awesome Roadmaps](https://github.com/awesome-roadmaps)
