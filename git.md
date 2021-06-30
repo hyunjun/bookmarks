@@ -163,6 +163,7 @@ Git
 * [Bitbucket 쉽게 시작하는 방법 & 사용법](https://blog.naver.com/silvury14/220918267535)
 * [기존 프로젝트를 Bitbucket과 SourceTree로 올려보자](https://developer88.tistory.com/65)
 * [Github Two Factor 인증 설정하기 (feat. Authenticator)](https://jojoldu.tistory.com/449)
+* [Password authentication is temporarily disabled as part of a brownout. Please use a personal access token instead. | by gon Kim | elecle | Jun, 2021 | Medium](https://medium.com/elecle-bike/password-authentication-is-temporarily-disabled-as-part-of-a-brownout-c507835b87f5)
 * [Complete list of github markdown emoji markup](https://gist.github.com/rxaviers/7360908)
 * [Github 패스워드 교체시 로컬 비밀번호도 변경하기](https://jojoldu.tistory.com/467)
 * [GitHub에서 GPG 서명하기 (for OS X)](https://medium.com/@Makart/github%EC%97%90%EC%84%9C-gpg-%EC%84%9C%EB%AA%85%ED%95%98%EA%B8%B0-for-os-x-4f45ad8f1a49)
@@ -246,6 +247,8 @@ Git
 * [GitHub Actions를 활용한 ECS 배포자동화. Deployment Automation (Django + Docker… | by Woosik Kim | Feb, 2021 | Medium](https://well-balanced.medium.com/github-action%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-ecs-%EB%B0%B0%ED%8F%AC%EC%9E%90%EB%8F%99%ED%99%94-dd359c259910)
 * [GitHub으로 시작하는 CI/CD #github #actions - YouTube](https://www.youtube.com/watch?v=Np64aq4AlLg)
   * [actions](https://okdevtv.com/mib/github/actions)
+* [github action과 heroku를 이용한 빌드/배포 자동화 - YouTube](https://www.youtube.com/watch?v=YMdwYPCyxRk)
+  * [springboot-helloworld: springboot 데모 프로젝트 - helloworld](https://github.com/choisungwookDevops/springboot-helloworld)
 * [GitHub Actions의 pull_request_target과 workflow_run 이벤트 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1541)
 * [내 깃허브가 털렸다](https://code-yeongyu.tistory.com/37)
 
