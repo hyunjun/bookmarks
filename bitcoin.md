@@ -92,7 +92,6 @@ Bitcoin
 * [dApp 개발하기 위한 준비 Remix + metamask](https://blog.naver.com/pjt3591oo/221182053161)
 * [PART 4. 스마트 컨트랙트 개발 도구 remix 다루기](https://blog.naver.com/pjt3591oo/221591235876)
 * [블록체인이 꿈꾸는 세상 (What Blockchains Dream)](https://organicmedialab.com/2018/01/12/what-blockchains-dream/)
-* [Learn Blockchains by Building One](https://github.com/pjt3591oo/blockchain-javascript)
 * 블록체인플랫폼
   * [①이더리움, 블록체인 2.0 시대를 열다](http://www.bloter.net/archives/299780)
 * [G Coin - A simple implementation of Blockchain for understanding easily](https://github.com/golbin/g-coin)
@@ -131,8 +130,14 @@ Bitcoin
 * [블록체인을 어디에 쓸까? 왜 중요하다고 하는걸까?](https://velog.io/@couchcoding/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%B4-%EC%99%9C-%ED%95%B5%EC%8B%AC%EC%9D%BC%EA%B9%8C-%EC%96%B4%EB%94%94%EC%97%90-%EC%93%B8-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C)
 
 ## Blockchain Javascript
+* [Learn Blockchains by Building One](https://github.com/pjt3591oo/blockchain-javascript)
 * [자바스크립트로 블록체인 구현하기(입문)-1. 블록체인이란 무엇인가?](https://songseungwon.tistory.com/8)
 * [자바스크립트로 블록체인 구현하기(입문)-2. 코드 작성](https://songseungwon.tistory.com/9)
+* [How to Build Your Own Blockchain in NodeJS - DEV Community](https://dev.to/codesphere/how-to-build-your-own-blockchain-in-nodejs-3ijh)
+* [SavjeeCoin](https://github.com/SavjeeTutorials/SavjeeCoin)
+  * [Creating a blockchain with Javascript (Blockchain, part 1)](https://www.youtube.com/watch?v=zVqczFZr124)
+  * [Implementing Proof-of-Work in Javascript (Blockchain, part 2)](https://www.youtube.com/watch?v=HneatE69814)
+  * [Miner rewards & transactions - Blockchain in Javascript (part 3)](https://www.youtube.com/watch?v=fRV6cGXVQ4I)
 
 ## Blockchain Python
 * [A simple and secure Blockchain Database API written in Python](https://hackernoon.com/how-finance-data-can-be-secured-by-blockchain-technology-a-fast-and-simple-adoption-with-200-5e762299b67)
@@ -181,10 +186,6 @@ Bitcoin
 * Polkadot.js [How Polkadot.js Lets You Connect Infinite Parachains](https://medium.com/hackernoon/how-polkadot-js-lets-you-connect-infinite-parachains-9afb13ba7396)
 * [Orisi - an open source framework for Bitcoin smart contracts](http://orisi.org/about)
 * [Qeditas: A Formal Library as a Bitcoin Spin-Of](http://qeditas.org/qeditas.pdf)
-* [SavjeeCoin](https://github.com/SavjeeTutorials/SavjeeCoin)
-  * [Creating a blockchain with Javascript (Blockchain, part 1)](https://www.youtube.com/watch?v=zVqczFZr124)
-  * [Implementing Proof-of-Work in Javascript (Blockchain, part 2)](https://www.youtube.com/watch?v=HneatE69814)
-  * [Miner rewards & transactions - Blockchain in Javascript (part 3)](https://www.youtube.com/watch?v=fRV6cGXVQ4I)
 * [ScaleChain - A customizable blockchain implementation for private blockchains](https://github.com/ScaleChain/scalechain)
 * [tierion - Your Bridge To The Blockchain](https://tierion.com/)
 * [ZeroNet - Real-time updated, P2P websites using Bitcoin cryptography and the BitTorrent network](http://zeronet.io/)
