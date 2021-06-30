@@ -495,6 +495,7 @@ Business
 * [리더는 어떠해야 한다](https://brunch.co.kr/@hyungsukkim/85)
 * [허락된 실패](http://www.thestartupbible.com/2018/04/the-permission-to-fail.html)
 * [솜씨 좋은 감독에게서 배우는 ‘일 잘하는 조직 만드는 법’](http://platum.kr/archives/100265)
+* [대표가 남 탓하려면 창업을 하지 마시라](https://brunch.co.kr/@graypool/66) 좋은 조직
 * [스스로 효과적이라고 생각한 일하는 방식 몇 가지](https://brunch.co.kr/@windydog/416)
 * [리더는 회의록을 직접 써야 한다](https://brunch.co.kr/@derekderek/6)
 * [뛰어난 리더는 회의를 하지 않는다](https://brunch.co.kr/@andrewlee/95)
