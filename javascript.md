@@ -2402,6 +2402,7 @@ Javascript
 * [React Chat Basic Tutorial](https://hackernoon.com/react-chat-basic-tutorial-7bd2af16a57e)
 * [Tutorial: how to deploy a production React app to Heroku](https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-deploy-a-production-react-app-to-heroku-c4831dfcfa08)
 * [React and APIs - Full Tutorial - Hacker News API Application](https://www.youtube.com/watch?v=LN6Dol_fX0w)
+* [lets-react: React tutorial written in React](https://github.com/Avantgarde95/lets-react)
 * [**컴포넌트 제대로 만들기 | DailyEngineering**](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
 * [React는 왜 React일까? | Dev Log](https://reactiver.dev/where-did-the-name-react-come-from/)
 * [React와 Node.js를 활용한 고객 관리 시스템 개발](http://edu.goorm.io/learn/lecture/11817/react%EC%99%80-node-js%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B3%A0%EA%B0%9D-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EB%B0%9C/lesson/481540/create-react-app%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0) codepen.io, node, express, AWS RDS, material-ui
