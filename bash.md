@@ -123,6 +123,8 @@ Shell
 * [bashhub - Bash History in the Cloud](https://bashhub.com/)
 * [Bash Infinity - a standard library and a boilerplate framework for writing tools using bash](https://github.com/niieani/bash-oo-framework)
 * [Bash Quick References](https://shellmagic.xyz/)
+* [.bashrc generator: create your .bashrc PS1 with a drag and drop interface](http://bashrcgenerator.com/)
+  * 터미널에서 프롬프트에 표시되는 PS1을 쉽게 만들어 주는 웹사이트
 * [bashttpd - a simple, configurable web server written in bash](https://github.com/avleen/bashttpd)
 * [commit.sh: Generate commit message according to AngularJS Commit Message Conventions](https://github.com/outstanding1301/commit.sh)
 * [import - a simple and fast module system for Bash and other Unix shells](https://import.pw/)
