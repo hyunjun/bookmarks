@@ -499,6 +499,11 @@ Docker
 * [How Do Kubernetes and Docker Create IP Addresses?! | Dustin Specker](https://dustinspecker.com/posts/how-do-kubernetes-and-docker-create-ip-addresses/)
 * [Reverse Engineering a Docker Image — The Art of Machinery](https://theartofmachinery.com/2021/03/18/reverse_engineering_a_docker_image.html)
 * [File Permissions: the painful side of Docker – Coding Thoughts](https://blog.gougousis.net/file-permissions-the-painful-side-of-docker/)
+* [Tech Preview: Docker Dev Environments - Docker Blog](https://www.docker.com/blog/tech-preview-docker-dev-environments/)
+  * Docker Desktop 3.5에서 Docker Dev Environments가 테크 프리뷰로 추가
+  * git에서 브랜치를 오가면서 환경을 관리할 필요 없이 동시에 여러 환경을 띄우고 각 환경의 코드도 접속 가능
+  * 이 환경은 .docker 폴더 아래 Docker Compose를 이용해서 개발에 필요한 환경을 구성해서 사용 가능
+  * 환경이 코드에 있으므로 다른 개발자와도 공유해서 관리 가능
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -1029,6 +1034,8 @@ Docker
 * k3s
   * [k3s로 간단하게 Kubernetes 환경 구축하기](https://si.mpli.st/dev/2020-01-01-easy-k8s-with-k3s/)
   * [Bare-metal Kubernetes with K3s](https://blog.alexellis.io/bare-metal-kubernetes-with-k3s/)
+* [karpenter: Kubernetes Node Autoscaling: built for flexibility, performance, and scalability](https://github.com/awslabs/karpenter)
+  * Kubernetes 노드 오토스케일러
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
   * [Announcing KEDA: bringing event-driven containers and functions to Kubernetes](https://cloudblogs.microsoft.com/opensource/2019/05/06/announcing-keda-kubernetes-event-driven-autoscaling-containers/)
 * [Knative](https://knative.dev/)
