@@ -2347,6 +2347,11 @@ Javascript
 * [trymodule - A simple cli tool for trying out different nodejs modules](https://github.com/VictorBjelkholm/trymodule)
 * [tvcl - A simple CLI for tracking tv shows](https://www.npmjs.com/package/tvcl)
 * [undici: An HTTP/1.1 client, written from scratch for Node.js](https://github.com/nodejs/undici)
+  * [Node.js Undici](https://undici.nodejs.org/)
+  * [Introducing Undici@4. After a few years since the first… | by Node.js | Jun, 2021 | Medium](https://nodejs.medium.com/introducing-undici-4-1e321243e007)
+    * Node.js의 코어 HTTP 모듈을 만들던 개발자들이 만든 HTTP 라이브러리
+    * 코어에 포함된 HTTP는 초기 설계상의 한계로 현재의 버그나 성능 문제를 호환성을 깨뜨리지 않고는 해결하기 어려운 상황
+    * 실험적으로 만들기 시작한 라이브러리였지만 지금은 프로덕션에 사용할 수 있을 정도로 안정성이 올라왔고 코어 HTTP 모듈보다도 훨씬 좋은 성능
 * [vantage - A new take on interactive CLI for Node](https://github.com/dthree/vantage)
 * [volta: Volta: Start your engines](https://github.com/volta-cli/volta)
 * [Vorpal is Node's first framework for building interactive CLI applications](https://github.com/dthree/vorpal/###)
@@ -2856,6 +2861,10 @@ Javascript
 * [React 18: 렌더링 최적화를 위한 자동 배칭 | immigration9](https://immigration9.github.io/react/2021/06/12/automatic-batching-react.html)
   * Batching은 여러 state 업데이트를 하나의 리렌더링으로 묶어주는 것. 이를 통해 성능 개선
   * React 18은 createRoot로 자동 배칭 가능. 자동 배칭을 원하지 않는 경우와 Hook, Class와 사용할 때의 영향에 대한 설명
+* [React 18: Suspense를 이용한 새로운 SSR 아키텍처 | immigration9](https://immigration9.github.io/react/2021/06/13/new-suspense-ssr-architecture.html)
+  * React 18에서 도입되는 Suspense를 이용해서 SSR 아키텍처를 어떻게 개선했는지를 설명
+  * 기존에는 SSR을 하기 위해 매번 전체 애플리케이션을 작업하고 필요한 부분을 사용해야 했기에 비효율적
+  * <Suspense>를 이용해서 별도의 단위로 분리한 뒤에 처리할 수 있어서 성능이 개선
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
