@@ -42,6 +42,9 @@ Programming
   * [개발자를 위한 넓고 얕은 지식](https://www.youtube.com/watch?v=567gB2kfwAs)
 * [소프트웨어 전문가되기](https://brunch.co.kr/magazine/daddy-book)
 * [**초보 웹 개발자를 위한 학습 안내서**](https://subicura.com/2021/06/27/study-guide.html)
+  * 온라인에 공개된 로드맵을 기준으로 공부해야 할 부분
+  * 코딩테스트에 대한 준비와 기본기를 쌓는 부분
+  * 클론코딩과 스터디 모임, 모각코, 콘퍼런스 등에서 이용할 수 있는 사이트와 어떤 부분이 도움 되었는지 설명
 * [These YouTube Channels Taught Me How to Code | by keypressingmonkey | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/these-youtube-channels-taught-me-how-to-code-6264fedfd325)
 * [Developer Roadmaps - Step by step guides and paths to learn different tools or technologies](https://roadmap.sh/roadmaps)
 * [Awesome Roadmaps](https://github.com/awesome-roadmaps)
@@ -2428,6 +2431,7 @@ Programming
   * [기술 뉴스 #174 : 21-05-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1550)
   * [기술 뉴스 #175 : 21-06-02 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1551)
   * [기술 뉴스 #176 : 21-06-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1552)
+  * [기술 뉴스 #177 : 21-07-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1553)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
