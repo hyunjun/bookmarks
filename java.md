@@ -1108,6 +1108,8 @@ Java
     * [10부. 블록킹을 리액티브로 또는 반대로](https://www.youtube.com/watch?v=Bh8vTfO_4CE)
 * [Rspec - Testing Logstash Configs With Rspec](http://johan.org.uk/sysadmin/blog/2013/01/25/testing-logstash-configs-with-rspec/)
 * [SaltluxLiveStock - 솔트룩스 주식을 실시간으로 라이언이 알려줍니다](https://github.com/MrBananaHuman/SaltluxLiveStock)
+* [servicetalk: A networking framework that evolves with your application](https://github.com/apple/servicetalk)
+  * JVM 네트워크 애플리케이션 프레임워크로 Apple에서 오픈소스로 공개
 * [ShedLock - Distributed lock for your scheduled tasks](https://github.com/lukas-krecan/ShedLock)
   * [ShedLock을 이용한 Master - Slave (primary - secondary, leader - follower) 구분 없는 스케줄러 만들기](https://www.popit.kr/shedlock%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-master-slave-primary-secondary-leader-follower-%EA%B5%AC%EB%B6%84-%EC%97%86%EB%8A%94-%EC%8A%A4%EC%BC%80%EC%A4%84%EB%9F%AC-%EB%A7%8C%EB%93%A4/)
 * [Siddhi - a java library that listens to events from data streams, detects complex conditions described via a Streaming SQL language, and triggers actions. It performs both Stream Processing and Complex Event Processing](https://github.com/wso2/siddhi)
