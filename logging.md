@@ -50,7 +50,8 @@ Logging
   * 데이터 로깅을 하기 위해 필요한 상식, 사용할 수 있는 플랫폼들 정리. 서버 로그와 클라이언트 로그의 차이, 웹이나 앱의 로깅 특성도 잘 정리
   * 이벤트 로그를 어떻게 설계하는 방법과 예시도 잘 나와 있어서 데이터 추적에 대한 이해도를 높이거나 서비스에 로깅 설계를 할 때 참고
 
-# [Fluentd](http://www.fluentd.org/)
+# Fluentd
+* [Fluentd](http://www.fluentd.org/)
 * [분산 로그 & 데이타 수집기 Fluentd](http://bcho.tistory.com/1115)
 * [Personal Logging으로 삽질하기 #1](https://medium.com/@HatusneMiku3939/personal-logging%EC%9C%BC%EB%A1%9C-%EC%82%BD%EC%A7%88%ED%95%98%EA%B8%B0-1-d40ae348ac5e)
 * [Personal Logging으로 삽질하기 #2](https://medium.com/@HatusneMiku3939/personal-logging%EC%9C%BC%EB%A1%9C-%EC%82%BD%EC%A7%88%ED%95%98%EA%B8%B0-2-36677466b8b8)

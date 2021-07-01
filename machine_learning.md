@@ -1082,7 +1082,8 @@ Machine Learning
 # Microsoft
 * [Distributed Machine Learning Toolkit](http://www.dmtk.io/)
 
-## [Azure](azure.md)
+## Azure
+* [Azure](azure.md)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)
@@ -1437,7 +1438,8 @@ Machine Learning
 * [theano-tutorial](https://github.com/craffel/theano-tutorial)
 * [IPython Theano Tutorials](https://github.com/jaberg/IPythonTheanoTutorials)
 
-# [Torch](http://torch.ch/)
+# Torch
+* [Torch](http://torch.ch/)
 * [Awesome Torch - A curated list of awesome Torch tutorials, projects and communities](https://github.com/carpedm20/awesome-torch)
 * [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
 * [neural-style - Torch implementation of neural style algorithm](https://github.com/jcjohnson/neural-style)

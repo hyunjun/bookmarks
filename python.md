@@ -2357,7 +2357,8 @@ Python
   * [How to Program a GUI Application (with Python Tkinter)!](https://www.youtube.com/watch?v=D8-snVfekto)
   * [파이썬 Python 코딩 - GUI tkinter 음료주문 프로그램 업그레이드 - YouTube](https://www.youtube.com/watch?v=qEX8QM_hFT4)
 
-# IPython & [Jupyter](http://jupyter.org/try)
+# IPython & Jupyter
+* [Jupyter](http://jupyter.org/try)
 * [nbviewer.ipython.org](http://nbviewer.ipython.org/)
 * [IPython and Jupyter in Depth: High productivity, interactive Python - PyCon 2017](https://www.youtube.com/watch?v=VQBZ2MqWBZI)
   * [github.com/ipython/ipython-in-depth](https://github.com/ipython/ipython-in-depth)

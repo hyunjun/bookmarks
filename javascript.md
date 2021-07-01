@@ -1236,7 +1236,8 @@ Javascript
 * [Gulp로 구성한 퍼블리싱 개발 환경](https://rhostem.github.io/posts/2018-05-20-gulp-static-site/)
 * [Gulp 넌 왜 갑자기 말썽이냐... (feat. cssnano) - 완두블로그](https://wani.kr/posts/2016/08/22/gulp-error/)
 
-# [JQuery](http://jquery.com/)
+# JQuery
+* [JQuery](http://jquery.com/)
 * [**DataTables**](http://datatables.net/)
 * [반응형 사진 슬라이더 jQuery 플러그인 소스 28개](http://somgle.tistory.com/107)
 * [jQueryUI 로 Drag&Drop 메뉴 개발하기](https://brunch.co.kr/@ourlove/77)
@@ -2384,7 +2385,8 @@ Javascript
   * [🎯QR코드로 출석부 만들기 5 #qr-checkin #oauth2 #google - YouTube](https://www.youtube.com/watch?v=N9RZfhLS430)
   * [🎯QR코드로 출석부 만들기 6 #sqlite #mysql #sequelize - YouTube](https://www.youtube.com/watch?v=JFk_wyNOJxE)
 
-# [React](http://reactkr.github.io/react)
+# React
+* [React](http://reactkr.github.io/react)
 * [누구든지 하는 리액트: 초심자를 위한 리액트 핵심 강좌](https://velopert.com/3676) inflearn 유료 강의 일부, codesandbox.io 이용
 * [React.js 강좌 시리즈](https://www.youtube.com/playlist?list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
 * [React Transition 강좌](https://www.miriya.net/p/271)

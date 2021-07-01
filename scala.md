@@ -1720,7 +1720,8 @@ Scala
 * [scalablitz](http://knight76.tistory.com/entry/scala-scalablitz)
   * [Lightning-Fast Standard Collections With ScalaBlitz](https://scala-blitz.github.io/talks/scaladays2014-final.pdf)
 
-# [SBT](http://www.scala-sbt.org/)
+# SBT
+* [SBT](http://www.scala-sbt.org/)
 * [classpaths](http://www.scala-sbt.org/1.x/docs/Howto/classpaths.html)
 * [Customizing paths](http://www.scala-sbt.org/1.x/docs/Howto-Customizing-Paths.html)
 * [Library dependencies](https://www.scala-sbt.org/1.x/docs/Library-Dependencies.html)
@@ -1927,7 +1928,8 @@ Scala
 * [scodec: Scala combinator library for working with binary data](https://github.com/scodec/scodec)
   * [YOW! Lambda Jam 2020 - Michael Pilquist - Scodec for Scala 3 - YouTube](https://www.youtube.com/watch?v=2eTwf78FJmc)
 
-# [Scala.js](https://www.scala-js.org/)
+# Scala.js
+* [Scala.js](https://www.scala-js.org/)
 * [Conway's Game of Life in ScalaJS](http://ivanyu.github.io/life-scalajs/)
 * [Hands-on Scala.js - Writing client-side web applications in Scala](http://www.lihaoyi.com/hands-on-scala-js/)
 * [Developing simple chemical physics simulations that run in the browser](https://medium.com/@matthagy/developing-simple-chemical-physics-simulations-that-run-in-the-browser-fa1665879c78)

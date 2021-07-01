@@ -147,7 +147,8 @@
 * [.NET에서 테스트 - .NET | Microsoft Docs](https://docs.microsoft.com/ko-kr/dotnet/core/testing/)
 * [playwright-dotnet: .NET version of the Playwright testing and automation library](https://github.com/microsoft/playwright-dotnet)
 
-# [Visual Studio](https://www.visualstudio.com/)
+# Visual Studio
+* [Visual Studio](https://www.visualstudio.com/)
 * [code.visualstudio.com](https://code.visualstudio.com)
 * [code.visualstudio.com/Download](https://code.visualstudio.com/Download)
 * [Version Control - Enterprise-ready source code management for teams of all sizes](https://www.visualstudio.com/en-us/version-control-vs)

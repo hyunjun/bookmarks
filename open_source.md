@@ -101,7 +101,8 @@ Open Source
   * [Knowledge Repo v0.8.3 documentation](https://knowledge-repo.readthedocs.io)
 * [StreamAlert 간단 리뷰](https://andromedarabbit.net/streamalert-%EA%B0%84%EB%8B%A8-%EB%A6%AC%EB%B7%B0/)
 
-# [Disney](http://disney.github.io/)
+# Disney
+* [Disney](http://disney.github.io/)
 
 # Dropbox
 * [How Dropbox Security builds tools for threat detection and incident response](https://blogs.dropbox.com/tech/2019/10/how-dropbox-security-builds-better-tools-for-threat-detection-and-incident-response/)
@@ -139,7 +140,8 @@ Open Source
   * [5 ways Facebook improved compression at scale with Zstandard](https://code.fb.com/core-data/zstandard/)
     * ORC 파일이나 데이터베이스 저장과 같은 사용 사례
 
-# [fossasia](https://fossasia.org/)
+# fossasia
+* [fossasia](https://fossasia.org/)
 
 # Google
 * [깃허브에서 인기 높은 구글의 오픈소스 프로젝트 10종](http://www.bloter.net/archives/243254)

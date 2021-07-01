@@ -561,7 +561,8 @@ Web
 * [Lisp for the Web, Part II](http://msnyder.info/posts/2011/07/lisp-for-the-web-part-ii/)
 * [Lisp for The Modern Web](http://vitovan.com/lispweb3.html)
 
-# [Nginx](http://nginx.com/)
+# Nginx
+* [Nginx](http://nginx.com/)
 * [Thread Pools in NGINX Boost Performance 9x!](http://nginx.com/blog/thread-pools-boost-performance-9x/)
 * [Announcing O’Reilly’s New Book: “NGINX: A Practical Guide to High Performance”](https://www.nginx.com/blog/announcing-oreillys-new-book-nginx-a-practical-guide-to-high-performance/)
 * [nginx and multi-threading support](http://forum.nginx.org/read.php?2,229381,229396#msg-229396)
@@ -932,7 +933,8 @@ Web
 * [Jar 파일 스캔 제외로 톰캣 시작 시간 단축](http://javacan.tistory.com/entry/decrease-tomcat-startup-time-by-skip-jar-scan)
 * [How to install Tomcat application server in Linux Fedora/Centos/RHEL | by Bryant Jimin Son | Jul, 2020 | Medium](https://medium.com/@bryantjiminson/how-to-install-tomcat-application-server-in-linux-fedora-centos-rhel-eac9a9dbce79)
 
-# [WebAssembly](https://github.com/WebAssembly/)
+# WebAssembly
+* [WebAssembly](https://github.com/WebAssembly/)
 * [WebAssembly- Explained](http://moduscreate.com/webassembly-explained/)
 * [2015 LLVM Developers’ Meeting: Jf Bastien & Dan Gohman “WebAssembly: Here Be Dragons"](https://www.youtube.com/watch?v=5W7NkofUtAw)
 * [WebAssembly: a binary format for the web](http://www.2ality.com/2015/06/web-assembly.html)

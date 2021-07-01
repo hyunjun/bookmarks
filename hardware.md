@@ -53,7 +53,8 @@
 * [스마트 식물재배기 앱 만들기 : 네이버 카페](https://cafe.naver.com/creativethon/6432)
 * [kindle-dash: Power efficient dashboard for Kindle 4 NT devices](https://github.com/pascalw/kindle-dash)
 
-# [Arduino](http://www.arduino.cc)
+# Arduino
+* [Arduino](http://www.arduino.cc)
 * [아두이노 강좌](http://studymake.tistory.com/113)
 * [초보집사, 아두이노로 고양이 장난감 만들다](http://www.bloter.net/archives/225070)
 * [아두이노로 만든 ‘블로터’표 미세먼지 측정기](http://www.bloter.net/archives/225362)
@@ -137,9 +138,11 @@
   * ESP32 SoC, E-Paper 저전력 디스플레이, 아두이노 IDE로 직접 프로그래밍 가능한 오픈소스 워치키트
   * [Hack together your own e-paper smartwatch with this $50 open-source kit - The Verge](https://www.theverge.com/2021/1/13/22229985/customizable-epaper-smartwatch-kit-arduino)
 
-# [Artik](https://www.artik.io/)
+# Artik
+* [Artik](https://www.artik.io/)
 
-# [Banana Pi - A Highend Single-Board Computer](http://www.bananapi.org/p/product.html)
+# Banana Pi
+* [Banana Pi - A Highend Single-Board Computer](http://www.bananapi.org/p/product.html)
 * banana pi quick start
   * [os 설치](http://jusths.tistory.com/26)
   * [원격 접속](http://jusths.tistory.com/28)
@@ -206,7 +209,8 @@
   * [jetbot/docker at master · NVIDIA-AI-IOT/jetbot](https://github.com/NVIDIA-AI-IOT/jetbot/tree/master/docker)
   * [Docker Tips - JetBot](https://jetbot.org/master/reference/docker_tips.html)
 
-# [Microbit](https://www.microbit.co.uk/)
+# Microbit
+* [Microbit](https://www.microbit.co.uk/)
 * [The Story of MicroPython on the BBC micro:bit](http://ntoll.org/article/story-micropython-on-microbit)
 * [마이크로비츠 체험기 - 이렇게 어이없는 피지컬 교구가 있을 수가 있는지](http://www.cooltown.co.kr/samstory/getStreamView/267/1946/)
 * [BBC Micro Elite source code - BBC Micro Elite](https://www.bbcelite.com/)
@@ -308,7 +312,8 @@
 * [Reverse Engineering challenges](https://challenges.re/)
 * [/dev/ttyS0 - EMBEDDED DEVICE HACKING](http://www.devttys0.com/)
 
-# [Spark](http://www.spark.io)
+# Spark
+* [Spark](http://www.spark.io)
 
 # SSD
 [개발자를 위한 SSD (Coding for SSD) - Part 1 : 목차](http://tech.kakao.com/2016/07/13/coding-for-ssd-part-1/)

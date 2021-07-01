@@ -97,7 +97,8 @@ Lisp
 # Book
 * [Lisp Web Tales](https://leanpub.com/lispwebtales/read_full)
 
-# [Common Lisp](https://common-lisp.net/)
+# Common Lisp
+* [Common Lisp](https://common-lisp.net/)
 * [CLiki - the common lisp wiki](http://www.cliki.net/)
 * [Common Lisp as a Scripting Language, 2015 edition](http://fare.livejournal.com/184127.html)
 * [A Brief Guide to CLOS](http://www.aiai.ed.ac.uk/~jeff/clos-guide.html)
@@ -134,26 +135,32 @@ Lisp
 * [Learn Emacs Lisp in 15 minutes](http://www.emacs-doctor.com/learn-emacs-lisp-in-15-minutes.html)
 * [RSA Signatures in Emacs Lisp](http://nullprogram.com/blog/2015/10/30/)
 
-# [Hy](http://docs.hylang.org/)
+# Hy
+* [Hy](http://docs.hylang.org/)
 * [Live-coding Blender with Hy](http://mccormick.cx/news/entries/live-coding-blender-with-hy)
 
-# [Javelin](https://github.com/kimtg/Javelin)
+# Javelin
+* [Javelin](https://github.com/kimtg/Javelin)
 * [introduction](https://plus.google.com/104991371003811734633/posts/ZWp1rDKVSzJ)
 
-# [New Lisp - newLISP® for Mac OS X, GNU Linux, Unix and Windows](http://www.newlisp.org/)
+# New Lisp
+* [New Lisp - newLISP® for Mac OS X, GNU Linux, Unix and Windows](http://www.newlisp.org/)
 
 # PicoLisp
 * [4clojure tasks in PicoLisp](http://www.mail-archive.com/picolisp@software-lab.de/msg05327.html)
 
-# [Pixel Pi](http://stuarth.github.io/pixie/pixie-pi/)
+# Pixel Pi
+* [Pixel Pi](http://stuarth.github.io/pixie/pixie-pi/)
 
-# [Pixie - A Lightweight Lisp with 'Magical' Powers" by Timothy Baldridge](https://www.youtube.com/watch?v=1AjhFZVfB9c)
+# Pixie
+* [Pixie - A Lightweight Lisp with 'Magical' Powers" by Timothy Baldridge](https://www.youtube.com/watch?v=1AjhFZVfB9c)
 
 # Quicklisp
 * [Quicklisp library bundles](http://www.quicklisp.org/beta/bundles.html)
 * [Quicklisp: On Beyond Beta](https://github.com/quicklisp/els-london-2015)
 
-# [Racket](http://racket-lang.org/)
+# Racket
+* [Racket](http://racket-lang.org/)
 * [Deterministic Pixels](http://darrennewton.com/2015/01/04/deterministic-pixels/)
 * [Low-level web programming in Racket + a wiki in 500 lines](http://matt.might.net/articles/low-level-web-in-racket/)
 * [Optimizing "Send More Money" in Racket](http://gus-massa.blogspot.kr/2015/06/optimizing-send-more-money-in-racket.html)
@@ -188,14 +195,17 @@ Lisp
 * [python vs scheme part 1 - YouTube](https://www.youtube.com/watch?v=f-qtqWUKspA)
 * [Schemy - a lightweight Scheme-like scripting language interpreter for embedded use in .NET applications](https://github.com/Microsoft/schemy)
 
-# [tisp](https://github.com/faraazahmad/tisp)
+# tisp
+* [tisp](https://github.com/faraazahmad/tisp)
 * [I was bored, so I built a programming language - DEV Community](https://dev.to/faraazahmad/i-was-bored-so-i-built-my-own-programming-language-30f1)
 
-# [ulisp](http://www.ulisp.com/) lisp for Arduino
+# ulisp
+* [ulisp](http://www.ulisp.com/) lisp for Arduino
 
 # Web
 * [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm)
 * [Lisp for the Web, Part II](http://msnyder.info/posts/2011/07/lisp-for-the-web-part-ii/)
 * [Lisp for The Modern Web](http://vitovan.com/lispweb3.html)
 
-# [wisp: A little Clojure-like LISP in JavaScript](https://github.com/wisp-lang/wisp)
+# wisp
+* [wisp: A little Clojure-like LISP in JavaScript](https://github.com/wisp-lang/wisp)

@@ -268,7 +268,7 @@ Algorithm
 * [Understanding Big O. How efficient is your algorithm? | by Valentin Podkamennyi | The Startup | Medium](https://medium.com/swlh/understanding-big-o-ff675cf63e11)
 * [알고리즘 시간 복잡도 대강 분석하는 방법을 예제를 통해 알아봅시다](https://codingdog.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84-%EB%8C%80%EA%B0%95-%EB%B6%84%EC%84%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%98%88%EC%A0%9C%EB%A5%BC-%ED%86%B5%ED%95%B4-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 
-## Time Complexity
+## Complexity Big O notation Time Complexity
 * `1/2 + 1/3 + ... + 1/n <= ln(n) + 1`이므로 O(log N)
 * [The Ultimate Beginners Guide To Analysis of Algorithm](https://codeburst.io/the-ultimate-beginners-guide-to-analysis-of-algorithm-b8d32aa909c5)
 * [The 5 Fundamental Running Times in Computer Science](https://medium.com/cracking-the-data-science-interview/the-5-fundamental-running-times-in-computer-science-e6872c7a103)
@@ -276,7 +276,7 @@ Algorithm
 * [#5 How To Calculate Time Complexity Example 1| Designed To Crack Interviews | By LinkedIn Engineer - YouTube](https://www.youtube.com/watch?v=ZfhUL5ZKWMg)
 * [파이썬 자료형 별 주요 연산자의 시간 복잡도 (Big-O) · 초보몽키의 개발공부로그](https://wayhome25.github.io/python/2017/06/14/time-complexity/)
 
-## Space Complexity
+## Complexity Big O notation Space Complexity
 
 # Combination
 * [Iteratively find all combinations of size k of an array of characters (N choose K)](https://stackoverflow.com/questions/31175503/iteratively-find-all-combinations-of-size-k-of-an-array-of-characters-n-choose)
@@ -323,7 +323,7 @@ Algorithm
 * [dtreeviz : Decision Tree Visualization](https://github.com/parrt/dtreeviz)
   * [How to visualize decision trees](https://explained.ai/decision-tree-viz/index.html)
 
-## Detection
+## Data Mining Detection
 * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
 * [Beat Detection Algorithms (Part 2)](http://mziccard.me/2015/06/12/beats-detection-algorithms-2/)
 
@@ -486,7 +486,7 @@ Algorithm
   * This article looks at why hash maps (unsorted) are popular for in-memory indexes whereas b-tree (sorted) are common in databases. It describes the trade-offs of the two approaches, and how those best fit in-memory/db use cases.
 * [MinHash란? - 완두블로그](https://wani.kr/posts/2016/11/24/minhash/)
 
-## Consistent Hashing
+## Hash Consistent Hashing
 * [**입 개발 Consistent Hashing 에 대한 기초**](http://www.popit.kr/consistent-hashing/)
 * [The easiest consistent hashing](https://www.slideshare.net/charsyam2/the-easiest-consistent-hashing)
 * [Jump consistent hash](http://www.popit.kr/jump-consistent-hash/)
@@ -501,7 +501,7 @@ Algorithm
 * [**Consistent Hashing**](https://brunch.co.kr/@springboot/258) 스스로 구현도 해보고 여러가지 참고할만한 링크 포함
 * [Gossip Dissemination](https://martinfowler.com/articles/patterns-of-distributed-systems/gossip-dissemination.html)
 
-## Distributed Hash Table, DHT
+## Hash Distributed Hash Table, DHT
 * [Simple basic explanation of a Distributed Hash Table (DHT)](https://stackoverflow.com/questions/144360/simple-basic-explanation-of-a-distributed-hash-table-dht)
 * [Distributed Hash Tables And Why They Are Better Than Blockchain For Exchanging Health Records](https://medium.com/@michael.dufel_10220/distributed-hash-tables-and-why-they-are-better-than-blockchain-for-exchanging-health-records-d469534cc2a5)
 * [Kademlia 분산 해시 테이블 적용기](https://snack.planetarium.dev/kor/2019/09/kademlia/)
@@ -515,7 +515,8 @@ Algorithm
 * [Reversing a Linked List: Easy as 1, 2, 3](https://medium.com/outco/reversing-a-linked-list-easy-as-1-2-3-560fbffe2088)
 * [**linked-list-good-taste: Linus Torvalds' linked list argument for good taste, explained**](https://github.com/mkirchner/linked-list-good-taste) Linus Tovalds의 double pointer를 사용한 구현. special case를 없애기 위함
 
-# [Minimax](https://en.wikipedia.org/wiki/Minimax)
+# Minimax
+* [Minimax](https://en.wikipedia.org/wiki/Minimax)
 * [Tic Tac Toe: Understanding The Minimax Algorithm](http://neverstopbuilding.com/minimax)
 * [How to make your Tic Tac Toe game unbeatable by using the minimax algorithm](https://medium.freecodecamp.org/how-to-make-your-tic-tac-toe-game-unbeatable-by-using-the-minimax-algorithm-9d690bad4b37)
 * [Minimax with Alpha Beta Pruning](https://www.youtube.com/watch?v=zp3VMe0Jpf8)
@@ -535,7 +536,7 @@ Algorithm
 # Probablistic Filter
 * [Probablistic Filter 확률론적 필터](https://docs.google.com/presentation/d/e/2PACX-1vRuVja4WtbxkL800SKOYeiTXvi7IciqgRAZjXqqkXCV4KWbxzLcCP2RsadezenK80Q8BrOAn3GrMGvo/pub) Bloom Filter, Counting Filter, Cuckoo hash
 
-## Bloom Filter
+## Probablistic Filter Bloom Filter
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
 * [PROBABILISTIC M2M RELATIONSHIPS USING BLOOM FILTERS](http://zacharyvoase.com/2012/08/31/m2mbloom/)
 * [What are Bloom filters?](https://medium.com/the-story/what-are-bloom-filters-1ec2a50c68ff)
@@ -618,11 +619,11 @@ Algorithm
 * [Selection Sort Algorithm Visually Explained](https://levelup.gitconnected.com/selection-sort-algorithm-visually-explained-5bdba8c2acb1)
 * [median of median : 피벗을 중앙의 중앙값을 선택한다](https://codingdog.tistory.com/entry/median-of-median-%ED%94%BC%EB%B2%97%EC%9D%84-%EC%A4%91%EC%95%99%EC%9D%98-%EC%A4%91%EC%95%99%EA%B0%92%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%9C%EB%8B%A4)
 
-## Nibble
+## Sort Nibble
 * [Nibblesort: Adventures in Optimization](http://belkadan.com/blog/2015/05/Nibblesort/)
 * [Nibble Sort](http://www.hanshq.net/nibble_sort.html)
 
-## Quick
+## Sort Quick
 * [A Historical Perspective and Empirical Study](www.liacs.nl/~graaf/STUDENTENSEMINARIUM/quicksorthistorical.pdf)
 * [Typelevel quicksort in Scala](http://jto.github.io/articles/typelevel_quicksort/)
 * [glibc/stdlib/qsort.c quicksort](https://code.woboq.org/userspace/glibc/stdlib/qsort.c.html)
@@ -631,10 +632,11 @@ Algorithm
 * [Let’s Sort It Out, The Quicksort Way](https://blog.usejournal.com/lets-sort-it-out-the-quicksort-way-9292e67cfc5e)
 * [알고리즘 – Quick Sort (퀵정렬)](https://brainshareme.com/quicksort/)
 
-## Radix
+## Sort Radix
 * [Radix? Redis!](https://tosslab.github.io/2017/05/09/radix_redis.html)
 
-## [Sorting network](https://en.wikipedia.org/wiki/Sorting_network)
+## Sort Sorting network
+* [Sorting network](https://en.wikipedia.org/wiki/Sorting_network)
 
 # String
 * [String Interview Questions: The Ultimate Guide](https://www.byte-by-byte.com/strings/)
