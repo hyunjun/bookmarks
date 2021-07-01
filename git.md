@@ -211,6 +211,8 @@ Git
 * [Scaling monorepo maintenance | The GitHub Blog](https://github.blog/2021-04-29-scaling-monorepo-maintenance/)
 * [Spoqa 기술 블로그 | Semantic Versioning 소개](https://spoqa.github.io/2012/12/18/semantic-versioning.html)
 * [컨벤셔널 커밋을 이용한 CHANGELOG 및 시멘틱 버저닝(Semantic Versioning) 자동화 | 딥백수](https://deepbaksu.github.io/2021/05/29/semantic-release/)
+* [GitHub Packages Container registry is generally available | The GitHub Blog](https://github.blog/2021-06-21-github-packages-container-registry-generally-available/)
+  * Docker Hub처럼 GitHub에 컨테이너 이미지를 배포하고 받아올 수 있음
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -735,6 +737,9 @@ Git
 * [classroom github - Your course assignments on GitHub](https://classroom.github.com/)
 * [CloneGits - A tool to clone all of a user's GitHub repos to the local machine](https://github.com/jsnider3/CloneGits)
 * [codebeat - Get instant feedback on your code](https://codebeat.co/)
+* [Copilot · Your AI pair programmer](https://copilot.github.com/)
+  * 공개된 코드로 학습된 OpenAI의 Codex 모델을 이용해서 GitHub에서 AI와 페어 프로그래밍
+  * 주석을 이해해서 코드를 작성해 주거나 반복적인 코드를 완성해 주거나 다른 코드를 제시
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
