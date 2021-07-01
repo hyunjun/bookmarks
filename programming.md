@@ -1106,6 +1106,7 @@ Programming
 * [Microservice Architecture and its 10 Most Important Design Patterns | by Md Kamaruzzaman | Towards Data Science](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
 * [Case Study: a Decade of Microservices at a Financial Firm](https://www.infoq.com/articles/Microservices-Case-Study/)
 * [마이크로서비스에서 데이터를 중앙화하면 안 되는 3가지 이유 - ITWorld Korea](https://www.itworld.co.kr/news/198864)
+* [Three Patterns To Scale Your Microservices - YouTube](https://www.youtube.com/watch?v=1dAnMkF4Mc4)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
