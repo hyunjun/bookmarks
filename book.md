@@ -40,6 +40,7 @@ Book
 * [어슐러 르 귄의 세계](https://terms.naver.com/entry.naver?docId=3572906&cid=58819&categoryId=58835)
 * (NOT YET) 새의 언어 [멍청해서 '새대가리'라고? 큰 착각입니다 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=44607)
 * (NOT YET) [특판남이 알려주는 돈 되는 특허 AtoZ](https://jhrogue.blogspot.com/2021/06/atoz.html)
+* (NOT YET) [나는 왜 내가 힘들까](https://jhrogue.blogspot.com/2021/07/blog-post.html)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)

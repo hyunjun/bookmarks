@@ -507,6 +507,7 @@ Data Visualization
   * [수능 Trend Visualization (2) | Pega Devlog](https://jehyunlee.github.io/2020/12/21/Python-DS-49-suneung2/)
   * [수능 Trend Visualization (3) | Pega Devlog](https://jehyunlee.github.io/2020/12/24/Python-DS-50-suneung3/)
   * [Gibbs Sampling in N-Dimension | Pega Devlog](https://jehyunlee.github.io/2021/04/20/Python-DS-69-gibbsampling/)
+  * [Seaborn Heatmap & Colorbar Control | Pega Devlog](https://jehyunlee.github.io/2021/07/01/Python-DS-78-heatmapcolorbar/)
   * [Matplotlib+ Seaborn + Pandas: An Ideal Amalgamation for Statistical Data Visualisation | by Meet Desai | Towards Data Science](https://towardsdatascience.com/matplotlib-seaborn-pandas-an-ideal-amalgamation-for-statistical-data-visualisation-f619c8e8baa3)
   * [파이썬 데이터 시각화 도구 씨본의 변화들 seaborn - distplot이 없어졌다?! - YouTube](https://www.youtube.com/watch?v=J2KTLJQDN6k)
   * [Mastering catplot() in Seaborn with categorical plots | Towards Data Science](https://towardsdatascience.com/mastering-catplot-in-seaborn-categorical-data-visualization-guide-abab7b2067af)

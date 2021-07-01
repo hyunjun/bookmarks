@@ -213,7 +213,8 @@ Math
 * [의사가 들려주는 선형대수 이야기 - 1. Vector Space](https://www.youtube.com/watch?v=Xo-eaKe1AAY)
 * [직교행렬(Orthogonal Matrix)의 의미](https://losskatsu.github.io/linear-algebra/orthogonal/)
 
-## Linear Algebra [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
+## Linear Algebra
+* [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
 * [Flame Project](http://www.cs.utexas.edu/~flame/web/)
 * [Spark](http://www.cs.utexas.edu/users/flame/Spark/index.html)
 * [Coding the Matrix](https://github.com/tylee33/CodingtheMatrix)

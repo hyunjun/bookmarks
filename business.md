@@ -495,6 +495,7 @@ Business
 * [리더는 어떠해야 한다](https://brunch.co.kr/@hyungsukkim/85)
 * [허락된 실패](http://www.thestartupbible.com/2018/04/the-permission-to-fail.html)
 * [솜씨 좋은 감독에게서 배우는 ‘일 잘하는 조직 만드는 법’](http://platum.kr/archives/100265)
+* [대표가 남 탓하려면 창업을 하지 마시라](https://brunch.co.kr/@graypool/66) 좋은 조직
 * [스스로 효과적이라고 생각한 일하는 방식 몇 가지](https://brunch.co.kr/@windydog/416)
 * [리더는 회의록을 직접 써야 한다](https://brunch.co.kr/@derekderek/6)
 * [뛰어난 리더는 회의를 하지 않는다](https://brunch.co.kr/@andrewlee/95)
@@ -645,6 +646,7 @@ Business
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
 * [Product Management Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/product-management-top-10-articles-for-the-past-year-v-2017-7e1b2a0ba020)
 * [Product Management for Engineers](https://www.notion.so/Product-Management-for-Engineers-3bdc32513f434eccb1610dd158f0dbcc)
+* [좋은 프로덕트 팀과 나쁜 프로덕트 팀의 17가지 차이](https://brunch.co.kr/@ashashash/101)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
@@ -766,3 +768,4 @@ Business
   * 컴펌 쉐이밍은 서비스가 원하는 액션을 수행하지 않을 때 사용자가 불안감이나 수치심을 느끼는 "혜택을 포기할래요"나 "비싸게 구매하기" 같은 문구
   * 이러한 접근은 지표는 오를지 몰라도 사용자에게 안 좋은 경험을 주기 때문에 서비스 자체에 대한 불신을 주어서 안 좋다
 * [UX와 통계학 · Present](https://present.do/decks/60bf964c1903093a77d16625)
+* ['-하기'형, 버튼이 왜 이래](https://brunch.co.kr/@joojun/113)

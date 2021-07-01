@@ -122,7 +122,8 @@ Julia
     julia> ; git config --global https.proxy http://...
     ```
 
-# [BioJulia](https://github.com/BioJulia)
+# BioJulia
+* [BioJulia](https://github.com/BioJulia)
 
 # Book
 * [Julia Programming for Operations Research: A Primer on Computing](http://www.chkwon.net/julia/)

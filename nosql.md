@@ -45,7 +45,8 @@ NoSQL
 * [Data modeling with multi-model databases](http://radar.oreilly.com/2015/07/data-modeling-with-multi-model-databases.html)
 * [NoSQL Performance Benchmark 2018 – MongoDB, PostgreSQL, OrientDB, Neo4j and ArangoDB](https://www.arangodb.com/2018/02/nosql-performance-benchmark-2018-mongodb-postgresql-orientdb-neo4j-arangodb)
 
-# [Aerospike](http://www.aerospike.com/) High performance NoSQL database delivering speed at scale
+# Aerospike
+* [Aerospike](http://www.aerospike.com/) High performance NoSQL database delivering speed at scale
 * [Call me maybe: Aerospike](https://aphyr.com/posts/324-call-me-maybe-aerospike)
 
 # Azure DocumentDB
@@ -54,7 +55,8 @@ NoSQL
 # Benchmark
 * [**Yahoo! Cloud System Benchmark (YCSB)**](https://github.com/brianfrankcooper/YCSB)
 
-# [Blazing GPU Database](http://blazingdb.com/)
+# Blazing GPU Database
+* [Blazing GPU Database](http://blazingdb.com/)
 
 # Book
 * [더북(TheBook): NoSQL 철저 입문](https://thebook.io/006765/) 3~8장만
@@ -79,17 +81,20 @@ NoSQL
 * Phantom - Reactive type-safe Scala driver for Apache Cassandra/Datastax Enterprise
   * [Getting Started With Phantom](https://blog.knoldus.com/2017/09/24/getting-started-with-phantom/)
 
-# [ceph](http://ceph.com/)
+# ceph
+* [ceph](http://ceph.com/)
 * [처음 만난 ceph](http://knight76.tistory.com/entry/%ED%8E%8C%EC%A7%88-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-ceph)
 * [Rook Ceph 운영시 장단점](https://andromedarabbit.net/rook-ceph-%EC%9A%B4%EC%98%81%EC%8B%9C-%EC%9E%A5%EB%8B%A8%EC%A0%90/)
 * [Ceph scales to 10 billion objects – Blocks and Files](https://blocksandfiles.com/2020/09/22/ceph-scales-to-10-billion-objects/)
 
-# [ClickHouse](https://clickhouse.yandex/) an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries
+# ClickHouse
+* [ClickHouse](https://clickhouse.yandex/) an open source column-oriented database management system capable of real time generation of analytical data reports using SQL queries
 * [ClickHouse 기반 분석 파이프라인 구축](https://medium.com/delightroom/clickhouse-%EA%B8%B0%EB%B0%98-%EB%B6%84%EC%84%9D-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95-ea25b8ba43e9)
 * [ClickHouse and S3 Compatible Object Storage | Altinity](https://altinity.com/blog/clickhouse-and-s3-compatible-object-storage)
 * [Clickhouse as an alternative to ElasticSearch and MySQL, for log storage and analysis, in 2021](https://pixeljets.com/blog/clickhouse-vs-elasticsearch/)
 
-# [CockroachDB](https://github.com/cockroachdb/cockroach)
+# CockroachDB
+* [CockroachDB](https://github.com/cockroachdb/cockroach)
 * [How CockroachDB Does Distributed, Atomic Transactions](http://www.cockroachlabs.com/blog/how-cockroachdb-distributes-atomic-transactions/)
 * [SQL in CockroachDB: Mapping Table Data to Key-Value Storage](http://www.cockroachlabs.com/blog/sql-in-cockroachdb-mapping-table-data-to-key-value-storage/)
 * [Why Go Was the Right Choice for CockroachDB](http://www.cockroachlabs.com/blog/why-go-was-the-right-choice-for-cockroachdb/)
@@ -118,20 +123,25 @@ NoSQL
 # CryptDB
 * [CryptDB - A database system that can process SQL queries over encrypted data](https://github.com/CryptDB/cryptdb)
 
-# [Datomic](http://www.datomic.com/)
+# Datomic
+* [Datomic](http://www.datomic.com/)
 
 # EdgeDB
 * [EdgeDB—The next generation database](https://edgedb.com/)
 * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
 
-# [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)
+# Ehcache: Java's Most Widely-Used Cache
+* [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)
 
-# [EnnoDB](http://twigtechnology.com/blog/2015/06/11/announcing-ennodb/)
+# EnnoDB
+* [EnnoDB](http://twigtechnology.com/blog/2015/06/11/announcing-ennodb/)
 
-# [FiloDB](http://velvia.github.io/Introducing-FiloDB/)
+# FiloDB
+* [FiloDB](http://velvia.github.io/Introducing-FiloDB/)
 * [2017 High Performance Database with Scala, Akka, Spark](https://www.slideshare.net/EvanChan2/2017-high-performance-database-with-scala-akka-spark)
 
-# [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
+# Geode - an open source, distributed, in-memory database for scale-out applications
+* [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 
 # Google
 * BigQuery
@@ -254,7 +264,8 @@ NoSQL
   * [한시간에 만드는 대용량 로그 수집 시스템](http://bcho.tistory.com/1158)
   * [Google Cloud에서 Dataflow 정리](https://jungwoon.github.io/google%20cloud/2017/12/13/Google-Dataflow/)
 
-# [Greenplum Database (GPDB)](https://github.com/greenplum-db/gpdb)
+# Greenplum Database (GPDB)
+* [Greenplum Database (GPDB)](https://github.com/greenplum-db/gpdb)
 * [stricky.tistory.com/category/GPDB with BIG data](https://stricky.tistory.com/category/GPDB%20with%20BIG_data)
   * [실시간 빅데이터 처리 DBMS 비교 Firebase Realtime Database vs GPDB](https://stricky.tistory.com/105)
   * [greenplum sql 튜닝 파라미터 정리 (쿼리 튜닝 parameter)](https://stricky.tistory.com/118)
@@ -264,10 +275,12 @@ NoSQL
   * [PL/R 결과를 반환하는 5가지 방법 (5 ways to return PL/R result on Greenplum)](https://rfriend.tistory.com/532)
   * [PL/R Error ERROR: Error on receive from seg0 slice1: server closed the connection unexpectedly 확인사항과 대처 방안](https://rfriend.tistory.com/530)
 
-# [H2 Database Engine](http://www.h2database.com/)
+# H2 Database Engine
+* [H2 Database Engine](http://www.h2database.com/)
 * [테스트 코드에서 H2 DB 사용자 정의 함수 사용하기](https://javacan.tistory.com/entry/use-h2-db-user-defined-function)
 
-# [HazelCast](http://hazelcast.org/)
+# HazelCast
+* [HazelCast](http://hazelcast.org/)
 * [Mastering Hazelcast IMDG](https://hazelcast.com/resources/mastering-hazelcast)
 * [Securing Hazelcast (tcp) traffic with Stunnel | by Kamran Zafar | The Startup | Medium](https://medium.com/swlh/securing-hazelcast-tcp-traffic-with-stunnel-ff2b4b93158a)
 
@@ -278,7 +291,8 @@ NoSQL
 * [인-메모리 데이터 기술을 활용한 실시간 빅데이터 분석](https://www.youtube.com/watch?v=PuA6qplF0Gk)
 * [Paper: An Empirical Evaluation of In-Memory Multi-Version Concurrency Control](http://blog.lastmind.io/archives/910)
 
-# [Irmin - a distributed database that follows the same design principles as Git](https://github.com/mirage/irmin)
+# Irmin - a distributed database that follows the same design principles as Git
+* [Irmin - a distributed database that follows the same design principles as Git](https://github.com/mirage/irmin)
 * [Introducing Irmin: Git-like distributed, branchable storage](https://mirage.io/blog/introducing-irmin)
 
 # Key-Value
@@ -312,7 +326,8 @@ NoSQL
 * [Siberite is a simple leveldb backed message queue server](https://github.com/bogdanovich/siberite)
 * [Sherlock Holmes and the case of a crashing devenv.exe | The .NET Tools Blog](https://blog.jetbrains.com/dotnet/2021/04/27/sherlock-holmes-and-the-case-of-a-crashing-devenv-exe/)
 
-# [LMDB - Lightning Memory-Mapped Database Manager](http://symas.com/mdb/doc/)
+# LMDB - Lightning Memory-Mapped Database Manager
+* [LMDB - Lightning Memory-Mapped Database Manager](http://symas.com/mdb/doc/)
 * [github.com/LMDB/lmdb](https://github.com/LMDB/lmdb)
 * [python-LMDB](https://github.com/dsindex/blog/wiki/%5Bpython%5D-LMDB)
 
@@ -411,7 +426,8 @@ NoSQL
 # PlanetScale
 * [Announcing PlanetScale: The database for developers](https://www.planetscale.com/blog/announcing-planetscale-the-database-for-developers)
 
-# [Pyro: A Spatial-Temporal Big-Data Storage System](https://www.usenix.org/conference/atc15/technical-session/presentation/li_shen)
+# Pyro: A Spatial-Temporal Big-Data Storage System
+* [Pyro: A Spatial-Temporal Big-Data Storage System](https://www.usenix.org/conference/atc15/technical-session/presentation/li_shen)
 
 # Realm
 * [Between 사용 사례: APT를 활용한 Realm 마이그레이션](https://realm.io/kr/news/realm-meetup-vcnc-between-case-study/)
@@ -446,7 +462,8 @@ NoSQL
 # Riak
 * [Dynamiq - A simple implimentation of a queue on top of riak](https://github.com/Tapjoy/dynamiq)
 
-# [RocketDB](http://rocketdb.io/)
+# RocketDB
+* [RocketDB](http://rocketdb.io/)
 
 # RocksDB
 * [Libplanet RocksDB 적용기](https://snack.planetarium.dev/kor/2020/04/rocksdb/)
@@ -454,7 +471,8 @@ NoSQL
 # RYE
 * [rye, 샤딩을 지원하는 오픈소스 관계형 dbms](https://www.slideshare.net/deview/223rye-dbms)
 
-# [SapphireDb A SELF-HOSTED, EASY TO USE REALTIME DATABASE](https://sapphire-db.com/)
+# SapphireDb A SELF-HOSTED, EASY TO USE REALTIME DATABASE
+* [SapphireDb A SELF-HOSTED, EASY TO USE REALTIME DATABASE](https://sapphire-db.com/)
 
 # Spanner
 * [글로벌 분산 데이터베이스 Spanner](http://d2.naver.com/helloworld/216593)
@@ -481,16 +499,19 @@ NoSQL
 * [The Open Source Alternative to Firebase. | The Open Source Firebase Alternative | Supabase](https://supabase.io/)
 * [Supabase 공개 베타 시작 - 오픈소스 Firebase 대체제 | GeekNews](https://news.hada.io/topic?id=3347)
 
-# [Tarantool - Get your data in RAM. Get compute close to data. Enjoy the performance](http://tarantool.org/)
+# Tarantool - Get your data in RAM. Get compute close to data. Enjoy the performance
+* [Tarantool - Get your data in RAM. Get compute close to data. Enjoy the performance](http://tarantool.org/)
 
-# [Terracotta](http://terracotta.org/products/bigmemory)
+# Terracotta
+* [Terracotta](http://terracotta.org/products/bigmemory)
 
-# [TileDB](http://tiledb.io/)
+# TileDB
 * [TileDB](http://tiledb.io/)
   * 고밀도 다차원 배열을 지원하도록 설계된 새로운 데이터베이스
   * 현재 HDFS, S3, GFS 등 다양한 백엔드와 결합 가능
 
-# [TiDB is a distributed SQL database](https://github.com/pingcap/tidb)
+# TiDB a distributed SQL database
+* [TiDB is a distributed SQL database](https://github.com/pingcap/tidb)
 * [TiDB introduction](https://www.pingcap.com/docs/overview/#tidb-introduction)
 * [Running TiDB on Kubernetes](https://banzaicloud.com/blog/tidb-kubernetes/) Kubernetes에서 TiDB를 실행하는 방법
 * [The Hybrid Database Capturing Perishable Insights at Yiguo](https://www.datanami.com/2018/02/22/hybrid-database-capturing-perishable-insights-yiguo/) 중국 대형 온라인 농산물 마켓인 Yiguo에서 SQL Server, My SQL, Hadoop에서 TiDB와 TiSpark으로 마이그레이션 한 방법과 이유에 대해 설명
@@ -503,4 +524,5 @@ NoSQL
 # Trafodion Hadoop/HBase에서 Transaction SQL을 구현
 * [The Apache Software Foundation Announces Apache® Trafodion™ as a Top-Level Project](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces27)
 
-# [ZeroDB, an end-to-end encrypted database, is open source!](http://blog.zerodb.io/zerodb-open-source-announcement/)
+# ZeroDB, an end-to-end encrypted database
+* [ZeroDB, an end-to-end encrypted database, is open source!](http://blog.zerodb.io/zerodb-open-source-announcement/)

@@ -175,7 +175,8 @@ SQL
 * [You might as well timestamp it |> Changelog](https://changelog.com/posts/you-might-as-well-timestamp-it) flag보다 timestamp를 써야 한다는 주장
   * [is_leave vs leaved_at vs leave_status](https://jojoldu.tistory.com/577)
 
-# [Altibase](https://github.com/ALTIBASE/altibase)
+# Altibase
+* [Altibase](https://github.com/ALTIBASE/altibase)
 
 # Amazon Aurora Database
 * [Redesigning MySQL - AWS Tech Talk on the Aurora Database](https://engineering.opendns.com/2015/04/07/redesigning-mysql-aws-tech-talk-on-the-aurora-database/)

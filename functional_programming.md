@@ -295,7 +295,8 @@ Functional Programming
   * [Applying Git and Optimistic Concurrency Control principles to Data Oriented Programming](https://blog.klipse.tech/databook/2020/12/18/occ-do-git.html)
   * [Object spread와 lodash.cloneDepp 비교하기](https://blog.naver.com/pjt3591oo/222201718116)
 
-# [Kind](https://en.wikipedia.org/wiki/Kind_%28type_theory%29)
+# Kind
+* [Kind](https://en.wikipedia.org/wiki/Kind_%28type_theory%29)
 
 # Lambda
 * [람다, 익명 함수, 클로저](https://hyunseob.github.io/2016/09/17/lambda-anonymous-function-closure/)

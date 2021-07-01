@@ -1236,7 +1236,8 @@ Javascript
 * [Gulp로 구성한 퍼블리싱 개발 환경](https://rhostem.github.io/posts/2018-05-20-gulp-static-site/)
 * [Gulp 넌 왜 갑자기 말썽이냐... (feat. cssnano) - 완두블로그](https://wani.kr/posts/2016/08/22/gulp-error/)
 
-# [JQuery](http://jquery.com/)
+# JQuery
+* [JQuery](http://jquery.com/)
 * [**DataTables**](http://datatables.net/)
 * [반응형 사진 슬라이더 jQuery 플러그인 소스 28개](http://somgle.tistory.com/107)
 * [jQueryUI 로 Drag&Drop 메뉴 개발하기](https://brunch.co.kr/@ourlove/77)
@@ -2384,7 +2385,8 @@ Javascript
   * [🎯QR코드로 출석부 만들기 5 #qr-checkin #oauth2 #google - YouTube](https://www.youtube.com/watch?v=N9RZfhLS430)
   * [🎯QR코드로 출석부 만들기 6 #sqlite #mysql #sequelize - YouTube](https://www.youtube.com/watch?v=JFk_wyNOJxE)
 
-# [React](http://reactkr.github.io/react)
+# React
+* [React](http://reactkr.github.io/react)
 * [누구든지 하는 리액트: 초심자를 위한 리액트 핵심 강좌](https://velopert.com/3676) inflearn 유료 강의 일부, codesandbox.io 이용
 * [React.js 강좌 시리즈](https://www.youtube.com/playlist?list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
 * [React Transition 강좌](https://www.miriya.net/p/271)
@@ -2402,6 +2404,7 @@ Javascript
 * [React Chat Basic Tutorial](https://hackernoon.com/react-chat-basic-tutorial-7bd2af16a57e)
 * [Tutorial: how to deploy a production React app to Heroku](https://medium.com/jeremy-gottfrieds-tech-blog/tutorial-how-to-deploy-a-production-react-app-to-heroku-c4831dfcfa08)
 * [React and APIs - Full Tutorial - Hacker News API Application](https://www.youtube.com/watch?v=LN6Dol_fX0w)
+* [lets-react: React tutorial written in React](https://github.com/Avantgarde95/lets-react)
 * [**컴포넌트 제대로 만들기 | DailyEngineering**](https://hyunseob.github.io/2019/06/02/react-component-the-right-way/)
 * [React는 왜 React일까? | Dev Log](https://reactiver.dev/where-did-the-name-react-come-from/)
 * [React와 Node.js를 활용한 고객 관리 시스템 개발](http://edu.goorm.io/learn/lecture/11817/react%EC%99%80-node-js%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EA%B3%A0%EA%B0%9D-%EA%B4%80%EB%A6%AC-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B0%9C%EB%B0%9C/lesson/481540/create-react-app%EC%9C%BC%EB%A1%9C-%EB%A6%AC%EC%95%A1%ED%8A%B8-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0) codepen.io, node, express, AWS RDS, material-ui
@@ -3410,6 +3413,7 @@ Javascript
 * [Secure Code Review and Penetration Testing of Node.js and JavaScript Apps | by Mostafa Moradian | The Startup | Medium](https://medium.com/swlh/secure-code-review-and-penetration-testing-of-node-js-and-javascript-apps-41485b1a9518)
 * [Mock Service Worker Library Enables Resilient REST and GraphQL API Testing](https://www.infoq.com/news/2020/11/msw-mocking-graphql-rest-api/)
 * [FEConf2020 프론트엔드 TDD 발표 후기 | 마이크로프로텍트 블로그](https://microprotect.github.io/2020/12/16/frontend-tdd-feconf2020/)
+* [프론트엔드 테스트의 모든 것. 저와 같은 사람이라면 개발 워크플로우에서 테스트를 자동화하여 원치 않는… | by André Tito Vasconcelos | 원티드 제품 팀블로그 | Jun, 2021 | Medium](https://medium.com/wantedjobs/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-48912486f72d)
 * [Angular: Unit Testing Jasmine, Karma (step by step)](https://medium.com/frontend-fun/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4)
 * [cypress - The web has evolved. Finally, testing has too](https://www.cypress.io/)
   * [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
@@ -3804,3 +3808,4 @@ Javascript
 * [Vue Native](https://vue-native.io/)
 * [VuePress](https://vuepress.vuejs.org/)
 * [vue-state-store: 📦 Vue State Management (with Publish & Subscribe pattern)](https://github.com/ahaofficial/vue-state-store)
+* [Vuestic UI — Vue.js 3.0 UI Framework](https://vuestic.dev/)

@@ -33,12 +33,6 @@ R
 * [Multi-threaded R](http://www.popit.kr/multi-threaded-r/)
 * [R IN A 64 BIT WORLD](http://www.win-vector.com/blog/2015/06/r-in-a-64-bit-world/)
 * [Hacking “Chutes and Ladders” using R](http://ethanmarkowitz.com/index.php/2015/05/24/hacking-chutes-and-ladders-using-r/)
-* [useR!2017 Roundup](https://www.r-bloggers.com/user2017-roundup/)
-* [European R Users Meeting](http://2018.erum.io/)
-  * [eRum 2018 Tuesday - nagyHall](https://www.youtube.com/watch?v=9nuxlqXAmmc)
-* [useR! 2018](https://user2018.r-project.org/scientific/)
-  * [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/videos)
-* [RUCK 2017](https://www.slideshare.net/r-kor/presentations)
 * [R at Microsoft](http://blog.revolutionanalytics.com/2015/06/r-at-microsoft.html)
   * [Galaxy classification: a data science workflow with Microsoft R Server 9](https://github.com/Microsoft/microsoft-r/tree/master/R%20Server%20Operationalization/GalaxyClassificationWorkflow)
 * [Mortgages Are About Math: Open-Source Loan-Level Analysis of Fannie and Freddie](http://toddwschneider.com/posts/mortgages-are-about-math-open-source-loan-level-analysis-of-fannie-and-freddie/?imm_mid=0d3fda&cmp=em-data-na-na-newsltr_20150624)
@@ -393,6 +387,8 @@ R
 * [Text Mining with R](http://tidytextmining.com/)
 
 # Conference Meetup
+* [European R Users Meeting](http://2018.erum.io/)
+  * [eRum 2018 Tuesday - nagyHall](https://www.youtube.com/watch?v=9nuxlqXAmmc)
 * [LA East R Users Presentations](https://github.com/laRusers/presentations)
 * [New York R conference](http://www.rstats.nyc/)
 * [R/Finance](http://www.rinfinance.com/)
@@ -405,6 +401,7 @@ R
   * [Top 10 Presentations from rstudio::conf 2019 – The Best R Conference of the Year!](https://www.analyticsvidhya.com/blog/2019/01/top-highlights-rstudioconf-2019-best-r-conference/)
   * [A new image on DigitalOcean to start using RStudio Server without waiting more than 2 minutes](https://www.r-bloggers.com/a-new-image-on-digitalocean-to-start-using-rstudio-server-without-waiting-more-than-2-minutes-2/)
 * [rstudio::global(2021)](https://global.rstudio.com/student/catalog)
+* [RUCK 2017](https://www.slideshare.net/r-kor/presentations)
 * [R User Conference in Korea 2018](http://ruck2018.r-kor.org/speakers)
 * [R USER CONFERENCE IN KOREA 2019 프로그램](http://ruck2019.r-kor.org/program/)
 * [Seoul R Meetup - YouTube](https://www.youtube.com/channel/UCW-epmIvjBEhhVXw_F0Nqbw)
@@ -413,6 +410,10 @@ R
     * 미국주식 데이터 수집 이현열 [R을 이용한 해외 주식용 데이터 수집](https://hyunyulhenry.github.io/lecture/210210_r_meetup/index.html)
     * R을 이용한 GIS 데이터 핸들링 하헌철
     * 돈이 될지도 모르는 암호화폐의 변동성 분석 안상선
+* [useR!2017 Roundup](https://www.r-bloggers.com/user2017-roundup/)
+* [useR! 2018](https://user2018.r-project.org/scientific/)
+  * [videos](https://www.youtube.com/channel/UC_R5smHVXRYGhZYDJsnXTwg/videos)
+* [useR 2021](https://user2021.r-project.org/)
 
 # Course MOOC Lecture
 * [데이터홀릭](https://www.youtube.com/playlist?list=PLOvmIXlrvHO18HuniAOdzlvMQxHumeAoE)

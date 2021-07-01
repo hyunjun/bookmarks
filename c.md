@@ -184,7 +184,8 @@ C
 * [An Introduction to C & GUI Programming – the new book from Raspberry Pi Press](https://www.raspberrypi.org/blog/an-introduction-to-c-gui-programming-the-new-book-from-raspberry-pi-press/)
 * [Modern C](https://modernc.gforge.inria.fr/)
 
-# [clang](http://clang.llvm.org)
+# clang
+* [clang](http://clang.llvm.org)
 * [Writing a basic clang static analysis check](https://bbannier.github.io/blog/2015/05/02/Writing-a-basic-clang-static-analysis-check.html)
 * [Clang by example: detecting unused functions](http://binary-studio.com/2014/09/02/detecting-unused-functions/)
 * [How to compile C apps with musl and Clang](https://procedural.github.io/How-to-compile-C-apps-with-musl-and-Clang/)

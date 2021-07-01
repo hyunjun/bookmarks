@@ -408,6 +408,7 @@ Statistics
   * [Probabilistic Programming: A Modern Bayesian Workflow || Peadar Coyle](https://www.youtube.com/watch?v=7QlKZKbQa6M)
   * [Hands On Bayesian Statistics with Python, PyMC3 & ArviZ](https://towardsdatascience.com/hands-on-bayesian-statistics-with-python-pymc3-arviz-499db9a59501)
   * [Supercharging Decision Making with Bayes - YouTube](https://www.youtube.com/watch?v=pJH_2y9J9-I)
+  * [Practicing Python With CSV Files and Extracting Values With "filter" | Real Python Podcast #66 - YouTube](https://www.youtube.com/watch?v=_FTO0DEayaw)
 * [Statistics Using Python Tutorial](https://www.youtube.com/playlist?list=PLlz0muypSBNZXEDDy7RftBdIJNHEN0t1a)
   * [Part 4](https://www.youtube.com/watch?v=6ZA5lvooc5I)
   * [Part 5](https://www.youtube.com/watch?v=CISnF83dGTc)

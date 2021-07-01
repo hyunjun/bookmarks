@@ -305,7 +305,8 @@ Hadoop
 * [How to generate Hive Random Data based on input data schema 1](https://www.youtube.com/watch?v=bLKdT2WW2-s)
 * [Extending Hive Replication: Transactional Tables, External Tables, and Statistics](https://blog.cloudera.com/extending-hive-replication-transactional-tables-external-tables-and-statistics/)
 
-# [Hue](http://gethue.com/)
+# Hue
+* [Hue](http://gethue.com/)
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
 * [Get Started with Hue](http://www.cloudera.com/documentation/enterprise/latest/topics/hue.html)
 * [Hadoop Tutorial - Hue: Execute Hive queries and schedule them with Oozie](https://www.youtube.com/watch?v=Tu1IM4rph6w)

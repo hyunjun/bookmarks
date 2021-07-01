@@ -1082,7 +1082,8 @@ Machine Learning
 # Microsoft
 * [Distributed Machine Learning Toolkit](http://www.dmtk.io/)
 
-## [Azure](azure.md)
+## Azure
+* [Azure](azure.md)
 
 ## Oxford
 * [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)
@@ -1142,6 +1143,7 @@ Machine Learning
   * [The Simplest Introduction to Basic Machine Learning](https://docs.google.com/presentation/d/1in-VlWD43cWzw60duQ4GdkkmTRhIooSy7oVwhL82NpU)
 * [Machine Learning University - YouTube](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw)
 * [Machine Learning Full Course | Learn Machine Learning | Machine Learning Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=9f-GarcDY58)
+* [ML-For-Beginners: 12 weeks, 24 lessons, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)
 * [(ML Lecture 01) Regression Case Study](https://gcamp.tistory.com/1766)
 * [Best Machine Learning Courses for Finance You Must Know in 2021](https://www.mltut.com/best-machine-learning-courses-for-finance/)
 * [Best Resources to Learn Machine Learning Online in 2021](https://www.mltut.com/best-resources-to-learn-machine-learning-online/)
@@ -1437,7 +1439,8 @@ Machine Learning
 * [theano-tutorial](https://github.com/craffel/theano-tutorial)
 * [IPython Theano Tutorials](https://github.com/jaberg/IPythonTheanoTutorials)
 
-# [Torch](http://torch.ch/)
+# Torch
+* [Torch](http://torch.ch/)
 * [Awesome Torch - A curated list of awesome Torch tutorials, projects and communities](https://github.com/carpedm20/awesome-torch)
 * [A DSL for deep neural networks, supporting Caffe and Torch http://ajtulloch.github.io/dnngraph](https://github.com/ajtulloch/dnngraph)
 * [neural-style - Torch implementation of neural style algorithm](https://github.com/jcjohnson/neural-style)

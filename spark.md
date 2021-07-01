@@ -398,7 +398,8 @@
 * [DBIOTransactionalCommit - Databricks](https://docs.databricks.com/_static/notebooks/dbio-transactional-commit.html)
 * [입 개발 EMR에서는 sc.addFile, Databricks에서는 그냥 dbfs 폴더를 이용하자. | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/25/%ec%9e%85-%ea%b0%9c%eb%b0%9c-emr%ec%97%90%ec%84%9c%eb%8a%94-sc-addfile-databricks%ec%97%90%ec%84%9c%eb%8a%94-%ea%b7%b8%eb%83%a5-dbfs-%ed%8f%b4%eb%8d%94%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%98%ec%9e%90/)
 
-# [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
+# Apache Livy
+* [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
 * [Apache Livy에서 Spark job stdout log를 보는 법 - Nephtyw’S Programming Stash](https://nephtyws.github.io/data/livy-logs-to-stdout/)
 
 # API
@@ -553,7 +554,8 @@
 * [Getting Started with PySpark for Big Data Analytics, using Jupyter Notebooks and Docker](https://medium.com/@GaryStafford/getting-started-with-pyspark-for-big-data-analytics-using-jupyter-notebooks-and-docker-ba39d2e3d6c7)
 * [DIY: Apache Spark & Docker. Set up a Spark cluster in Docker from… | by Shane De Silva | Towards Data Science](https://towardsdatascience.com/diy-apache-spark-docker-bb4f11c10d24)
 
-# [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
+# GraphX
+* [GraphX](https://spark.apache.org/docs/1.0.0/graphx-programming-guide.html)
 * [Spark Streaming and GraphX at Netflix - Apache Spark Meetup, May 19, 2015](https://www.youtube.com/watch?v=gqgPtcDmLGs)
 * [스사모 테크톡 - GraphX](http://www.slideshare.net/sangwookimme/graphx)
 * [Computing Shortest Distances Incrementally with Spark](http://insightdataengineering.com/blog/incr-short-dist-graphx/)
@@ -570,7 +572,8 @@
 * [HBase Integration with Spark | How to Integrate HBase with Spark | Spark Integration with HBase](https://www.youtube.com/watch?v=gGwB0kCcdu0)
 * [How to create Spark Dataframe on HBase table](https://medium.com/@thomaspt748/how-to-create-spark-dataframe-on-hbase-table-e9c8db31bb30)
 
-# [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
+# Ignite
+* [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
 
 # Installation
 * [Installing Apache Spark 2.3.0 on macOS High Sierra](https://medium.com/luckspark/installing-spark-2-3-0-on-macos-high-sierra-276a127b8b85)
@@ -1042,7 +1045,8 @@
 * [Spark on YARN: a Deep Dive - Sandy Ryza, Cloudera](https://www.youtube.com/watch?v=N6pJhxCPe-Y)
 * [Apache Spark Performance Benchmarks show Kubernetes has caught up with YARN - Data Mechanics Blog](https://datamechanics.webflow.io/blog-post/apache-spark-performance-benchmarks-show-kubernetes-has-caught-up-with-yarn)
 
-# [Zeppelin](http://zeppelin-project.org/)
+# Zeppelin
+* [Zeppelin](http://zeppelin-project.org/)
 * [Apache Zeppelin Release 0.7.0](http://zeppelin.apache.org/releases/zeppelin-release-0.7.0.html)
 * [www.zepl.com](https://www.zepl.com/) previously www.zeppelinhub.com
 * practice
