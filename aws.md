@@ -306,6 +306,9 @@ AWS
 * [(Troubleshooting) 내 로컬에서는 잘 되는데...? (내로잘)](https://perfectacle.github.io/2019/06/11/aws-sg-trobuleshooting)
 * [AWS와 함께 간단하게 HTTP/2 적용하기](https://evan-moon.github.io/2019/06/13/http2-with-aws/)
 * [AWS, CloudFormation 을 사용한 WAF 자동 구축 및 운영](https://grip.news/archives/1382)
+* [AWS CloudFormation을 위한 퍼블릭 레지스트리 소개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-a-public-registry-for-aws-cloudformation/)
+  * AWS CloudFormation을 사용할 때 서드파티의 리소스나 모듈을 가져다 쓸 수 있는 공개 레지스트리
+  * 현재 35개의 확장 프로그램이 있고 MongoDB, DataDo, JFrong, Snyk 등이 포함, CloudFormation이나 CDK에서 확장을 바로 이용해서 프로비저닝 가능
 * [How to Use AWS Textract to Extract Text from Scanned Documents in S3 Buckets](https://hackernoon.com/how-to-use-aws-textract-to-extract-text-from-scanned-documents-in-s3-buckets-5f85e8ba0a37)
 * [AWS 자격증 시험 - 클라우드 종사자(Cloud Practitioner) 후기](https://yongho1037.tistory.com/783)
 * [AWS 솔루션 아키텍트 어소시에이트 자격증 취득 후기 AWS 공인 자격증 준비와 합격자 혜택](https://www.44bits.io/ko/post/aws-certification-solutions-architect-associate)
