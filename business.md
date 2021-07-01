@@ -646,6 +646,7 @@ Business
 * [A hitchhiker’s guide to product management](http://yilunzh.com/pm/)
 * [Product Management Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/product-management-top-10-articles-for-the-past-year-v-2017-7e1b2a0ba020)
 * [Product Management for Engineers](https://www.notion.so/Product-Management-for-Engineers-3bdc32513f434eccb1610dd158f0dbcc)
+* [좋은 프로덕트 팀과 나쁜 프로덕트 팀의 17가지 차이](https://brunch.co.kr/@ashashash/101)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
@@ -767,3 +768,4 @@ Business
   * 컴펌 쉐이밍은 서비스가 원하는 액션을 수행하지 않을 때 사용자가 불안감이나 수치심을 느끼는 "혜택을 포기할래요"나 "비싸게 구매하기" 같은 문구
   * 이러한 접근은 지표는 오를지 몰라도 사용자에게 안 좋은 경험을 주기 때문에 서비스 자체에 대한 불신을 주어서 안 좋다
 * [UX와 통계학 · Present](https://present.do/decks/60bf964c1903093a77d16625)
+* ['-하기'형, 버튼이 왜 이래](https://brunch.co.kr/@joojun/113)
