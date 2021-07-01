@@ -52,14 +52,16 @@ Apache
   * Apache Ampari 2.5 공개. 서비스 자동 재시작, 로그 로테이션/로그 검색, 개선된 구성 관리와 새로운 모니터링 기능 등이 포함
 * [How to upgrade Apache Ambari 2.6.2 to Apache Ambari 2.7.3](https://www.youtube.com/watch?v=BJfF5jMfAqk)
 
-# [Apex](http://apex.apache.org/) 스트림 및 배치 프로세스 엔진
+# Apex
+* [Apex](http://apex.apache.org/) 스트림 및 배치 프로세스 엔진
 * [Real-time Stream Processing using Apache Apex](http://www.slideshare.net/ApacheApex/realtime-stream-processing-using-apache-apex)
 * [Throughput, Latency, and Yahoo! Performance Benchmarks. Is there a winner? - See more at: https://www.datatorrent.com/blog/throughput-latency-and-yahoo](https://www.datatorrent.com/blog/throughput-latency-and-yahoo/)
 * [SQL on Apache Apex](https://www.datatorrent.com/blog/sql-apache-apex)
 * [Writing to Apache Kudu from Apache Apex](http://www.atrato.io/blog/2017/05/28/apex-kudu-output/)
   * Apache Apex를 사용하여 Apache Kafka에서 Apache Kudu로 데이터를 쓰는 방법
 
-# [Arrow](http://arrow.apache.org/)
+# Arrow
+* [Arrow](http://arrow.apache.org/)
 * [Apache Arrow - Powering Columnar In-Memory Analytics - Arrow is a set of technologies that enable big-data systems to process and move data fast](https://github.com/apache/arrow)
 * [Why pandas users should be excited about Apache Arrow](http://wesmckinney.com/blog/pandas-and-apache-arrow/)
 * [Feather: A Fast On-Disk Format for Data Frames for R and Python, powered by Apache Arrow](http://blog.cloudera.com/blog/2016/03/feather-a-fast-on-disk-format-for-data-frames-for-r-and-python-powered-by-apache-arrow/)
@@ -74,10 +76,12 @@ Apache
 * [Apache Arrow and Java: Lightning Speed Big Data Transfer](https://www.infoq.com/articles/apache-arrow-java/)
 * [Apache Arrow: Read DataFrame With Zero Memory | Towards Data Science](https://towardsdatascience.com/apache-arrow-read-dataframe-with-zero-memory-69634092b1a)
 
-# [Atlas](https://atlas.apache.org/) 데이터 거버넌스, 표준, 계보 관리 플랫폼
+# Atlas
+* [Atlas](https://atlas.apache.org/) 데이터 거버넌스, 표준, 계보 관리 플랫폼
 * [Apache Atlas — Using the v2 Rest API](https://medium.com/hashmapinc/apache-atlas-using-the-v2-rest-api-6f9be1c256ae) Atlas의 Rest API를 사용하여 데이터를 기록하는 방법 소개
 
-# Beam (Former [DataFlow](https://wiki.apache.org/incubator/DataflowProposal))
+# Beam
+* Former [DataFlow](https://wiki.apache.org/incubator/DataflowProposal)
 * [The Beam Model : Streams & Tables](https://docs.google.com/document/d/1u-4o_0uj8uKa2SVNPBNxIKfvcJ4t66ecCoU1M2yVoDA/mobilebasic)
   * 스트림 및 테이블을 기반으로 작성된 Apache Beam 모델에 대한 내용
 * [bcho.tistory.com/search/dataflow](http://bcho.tistory.com/search/dataflow)
@@ -95,27 +99,33 @@ Apache
 # BookKeeper
 * [Apache BookKeeper: A High Performance and Low Latency Storage Service](https://www.slideshare.net/hustlmsp/apache-bookkeeper-a-high-performance-and-low-latency-storage-service)
 
-# [Brooklyn](https://brooklyn.apache.org/)
+# Brooklyn
+* [Brooklyn](https://brooklyn.apache.org/)
 
-# [Camel](https://github.com/apache/camel)
+# Camel
+* [Camel](https://github.com/apache/camel)
 * [Apache Camel 소개](https://medium.com/@OutOfBedlam/apache-camel-%EC%86%8C%EA%B0%9C-1b20e6e12a93)
 * [Streaming in the Cloud With Camel and Strimzi](http://blog.joshdreagan.com/2019/05/30/streaming_in_the_cloud_with_camel_and_strimzi/)
 * [How Apache Camel simplified our process integrations](https://medium.com/trendyol-tech/how-apache-camel-simplified-our-process-integrations-9e17d0251650)
 
-# [Commons](https://commons.apache.org/)
+# Commons
+* [Commons](https://commons.apache.org/)
 
 # Cordova
 * [Apache Cordova: after 10 months, I won't be using it anymore](http://geekcoder.org/apache-cordova-after-10-months-i-wont-using-it-anymore/)
 * [Cordova 환경 구성 & Git Ignore 설정](http://brantiffy.axisj.com/archives/377)
 * [ionic cordova emulate 실행 시 Cannot read property 'replace' of undefined 에러 해결하기](http://www.haruair.com/blog/3962)
 
-# [Crunch](https://crunch.apache.org/)
+# Crunch
+* [Crunch](https://crunch.apache.org/)
 
-# [Drill](http://drill.apache.org/)
+# Drill
+* [Drill](http://drill.apache.org/)
 * [Apache Drill SQL Query Optimization | Whiteboard Walkthrough](https://www.mapr.com/blog/apache-drill-sql-query-optimization-whiteboard-walkthrough)
 * [A Gentle introduction to Apache Drill](https://medium.com/a-tale-of-2-from-data-to-information/apache-drill-101-391c5eb801c8)
 
-# [Druid](http://incubator.apache.org/projects/druid.html)
+# Druid
+* [Druid](http://incubator.apache.org/projects/druid.html)
 * [druid.io](http://druid.io/)
 * [임플라이, 드루이드 기반 오픈소스 분석 플랫폼 공개](http://www.bloter.net/archives/241499)
 * [Imply - Exploratory Analytics Powered By Druid](http://imply.io/)
@@ -156,7 +166,8 @@ Apache
 # Eagle
 * [Apache Eagle](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces1)
 
-# [Falcon - Simplifying Managing Data Jobs on Hadoop](http://www.slideshare.net/Hadoop_Summit/apache-falcon-simplifying-managing-data-jobs-on-hadoop)
+# Falcon
+* [Falcon - Simplifying Managing Data Jobs on Hadoop](http://www.slideshare.net/Hadoop_Summit/apache-falcon-simplifying-managing-data-jobs-on-hadoop)
 
 # Flink
 * [Flink](https://flink.apache.org/)
@@ -263,26 +274,31 @@ Apache
   * Apache Flume용 새로운 channel selector인 "Round-Robin Channel Selector" 설명
   * 이 선택기를 사용하면 기본 배치 처리량의 약 10배까지 확장
 
-# [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
+# Geode
+* [Geode - an open source, distributed, in-memory database for scale-out applications](http://geode.incubator.apache.org/)
 * [Apache Geode Lab](https://github.com/Pivotal-Open-Source-Hub/StockInference-Spark/blob/master/Geode.md)
 
-# [Goblin](https://github.com/apache/incubator-gobblin)
+# Goblin
+* [Goblin](https://github.com/apache/incubator-gobblin)
 
 # HAWQ - advanced enterprise SQL-on-Hadoop query engine and analytic database
 * [The Apache Software Foundation Announces Apache® HAWQ® as a Top-Level Project](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces38)
 * [Apache HAWQ 2.4.0.0 Release](https://cwiki.apache.org/confluence/display/HAWQ/Apache+HAWQ+2.4.0.0+Release)
 
-# [Hivemall](https://hivemall.incubator.apache.org/)
+# Hivemall
+* [Hivemall](https://hivemall.incubator.apache.org/)
 * [hivemall.incubator.apache.org/userguide/index.html](http://hivemall.incubator.apache.org/userguide/index.html)
 * [Scalable machine learning library for Hive/Hadoop](https://github.com/myui/hivemall)
 * [Apache Hivemall: Machine Learning Library for Apache Hive/Spark/Pig](http://www.slideshare.net/myui/dots20161029-myui)
 
-# [Iceberg - a table format for large, slow-moving tabular data](https://github.com/Netflix/iceberg)
+# Iceberg
+* [Iceberg - a table format for large, slow-moving tabular data](https://github.com/Netflix/iceberg)
 * 넷플릭스, 대용량 자료 저장공간을 빠른 DB 테이블처럼 사용하는 기술
 * [Iceberg: a fast table format for S3](https://www.slideshare.net/Hadoop_Summit/iceberg-a-fast-table-format-for-s3-103201179)
 * [Iceberg: a fast table format for S3](https://www.youtube.com/watch?v=nWwQMlrjhy0)
 
-# [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
+# Ignite
+* [Ignite](https://ignite.apache.org/features/igniterdd.html) - Spark Shared RDDs
 * [Accelerate Apache Spark SQL Queries](https://ignite.apache.org/use-cases/spark/sql-queries.html)
 * [Performance Tuning of an Apache Kafka/Spark Streaming System](https://mapr.com/blog/performance-tuning-apache-kafkaspark-streaming-system/)
 
@@ -317,7 +333,8 @@ Apache
 * [Impala At Scale - 임상배 이사 (Cloudera)](https://www.youtube.com/watch?v=8RlqL2kZ-NA)
 * [practice - extract hour from unixtimestamp](https://gist.github.com/hyunjun/bc930e0bb463d8993ef11163895d6438#file-extract_hour_from_unixtimestamp-md)
 
-# [Jena](http://jena.apache.org)
+# Jena
+* [Jena](http://jena.apache.org)
 
 # Kafka
 * [Kafka](http://kafka.apache.org/)
@@ -810,7 +827,8 @@ Apache
     * [How Real-Time Stream Processing Safely Scales with ksqlDB](https://www.confluent.io/blog/how-real-time-stream-processing-safely-scales-with-ksqldb/)
 * [mockedstreams - Scala DSL for Unit-Testing Processing Topologies in Kafka Streams](https://github.com/jpzk/mockedstreams)
 
-# [Kudu](http://kudu.apache.org/)
+# Kudu
+* [Kudu](http://kudu.apache.org/)
 * [Kudu](http://blog.cloudera.com/blog/2015/09/kudu-new-apache-hadoop-storage-for-fast-analytics-on-fast-data/)
 * [getkudu.io](http://getkudu.io/)
 * [Kudu: New Hadoop Storage for Fast Analytics on Fast Data](http://www.slideshare.net/cloudera/kudu-new-hadoop-storage-for-fast-analytics-on-fast-data)
@@ -853,15 +871,19 @@ Apache
 * [Testing Apache Kudu Applications on the JVM](https://blog.cloudera.com/blog/2019/03/testing-apache-kudu-applications-on-the-jvm/)
 * [Kudu as Storage Layer to Digitize Credit Processes](https://dataworkssummit.com/barcelona-2019/session/kudu-as-storage-layer-to-digitize-credit-processes/)
 
-# [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
+# Kylin
+* [Kylin](http://kylin.apache.org/) Extreme OLAP Engine for Big Data
 * [**빅데이터 다차원 분석 플랫폼, Kylin**](http://d2.naver.com/helloworld/1057065)
 * [Apache Kylin 2.2.0 is released](https://kylin.apache.org/docs21/release_notes.html)
   * Apache Ranger를 사용하여 테이블 레벨에서 ACL을 관리하는 기능 등이 탑재
 * [Using Hue to interact with Apache Kylin in your cluster or on AWS](http://gethue.com/using-hue-to-interact-with-apache-kylin/) Hue에서 JDBC 드라이버를 통해 Apache Kylin을 조회할 수 있는 방법을 설명합니다. AWS EMR 포함
 
-* [Logging](https://logging.apache.org)
+# Kyuubi
+* [Kyuubi Project Incubation Status - Apache Incubator](https://incubator.apache.org/projects/kyuubi.html)
+  * distributed multi-tenant Thrift JDBC/ODBC server for large-scale data management, processing, and analytics, built on top of Apache Spark and designed to support more engines (i.e., Apache Flink)
 
-# [Mesos](http://mesos.apache.org/)
+# Mesos
+* [Mesos](http://mesos.apache.org/)
 * [Advanced Mesos Course](http://open.mesosphere.com/intro-course/)
 * [Spark(1.2.1 -> 1.3.1) 을 위한 Mesos(0.18 -> 0.22.rc) - Upgrade](http://hoondongkim.blogspot.kr/2015/05/spark121-131-mesos018-021-upgrade.html)
 * [mesos, omega, borg: a survey](http://www.umbrant.com/blog/2015/mesos_omega_borg_survey.html)
@@ -869,9 +891,11 @@ Apache
 * [minmesos - Testing infrastructure for Mesos frameworks](http://minimesos.org/)
 * [메소스(mesos) 공부](http://knight76.tistory.com/entry/%EB%A9%94%EC%86%8C%EC%8A%A4-%EA%B0%84%EB%8B%A8-%EC%A0%95%EB%A6%AC)
 
-# [Metron](http://metron.apache.org) 보안에 포커스를 둔 분석 시스템
+# Metron
+* [Metron](http://metron.apache.org) 보안에 포커스를 둔 분석 시스템
 
-# [Nifi](https://nifi.apache.org/) Apache nifi is an easy to use, powerful, and reliable system to process and distribute data
+# Nifi
+* [Nifi](https://nifi.apache.org/) Apache nifi is an easy to use, powerful, and reliable system to process and distribute data
 * [NiFi를 이용한 빅데이터 플랫폼 개선](http://www.popit.kr/bigdata-platform-based-on-nifi/)
 * [NSA의 Dataflow 엔진 Apache NiFi 소개와 설치](http://www.popit.kr/apache-nifi-overview-and-install/)
 * [NiFi vs Falcon vs Oozie](https://www.linkedin.com/pulse/nifi-vs-falcon-oozie-birender-saini)
@@ -900,10 +924,12 @@ Apache
 * [Processing one billion events per second with NiFi](https://blog.cloudera.com/benchmarking-nifi-performance-and-scalability/)
   * [Importing RDBMS Data Into Hive Using NiFi on CDP Public Cloud](https://www.youtube.com/watch?v=XsL63ZQYmLE)
 
-# [Nutch](http://nutch.apache.org/)
+# Nutch
+* [Nutch](http://nutch.apache.org/)
 * [Apache Nutch - 오픈소스 웹 검색 엔진](http://jsonlee.tistory.com/entry/Apache-Nutch-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%9B%B9-%EA%B2%80%EC%83%89-%EC%97%94%EC%A7%84)
 
-# [Oozie](http://oozie.apache.org/)
+# Oozie
+* [Oozie](http://oozie.apache.org/)
 * [How-to: Use the New Apache Oozie Database Migration Tool](http://blog.cloudera.com/blog/2016/11/how-to-use-the-new-apache-oozie-database-migration-tool/)
 * [Jailbreak Oozie Spark action](https://medium.com/@ylashin/jailbreak-oozie-spark-action-c19d27bf85e2)
 
@@ -919,7 +945,8 @@ Apache
 * [Apache Hadoop Ozone – Object Store Architecture](https://ko.hortonworks.com/blog/apache-hadoop-ozone-object-store-architecture/)
 * [One billion files in Ozone](https://blog.cloudera.com/one-billion-files-in-ozone/)
 
-# [Parquet](https://parquet.apache.org/)
+# Parquet
+* [Parquet](https://parquet.apache.org/)
 * [Using Apache Parquet at AppNexus](http://blog.cloudera.com/blog/2015/04/using-apache-parquet-at-appnexus/)
 * [Dremel made simple with Parquet](https://blog.twitter.com/2013/dremel-made-simple-with-parquet)
 * [Benchmarking Apache Parquet: The Allstate Experience](http://blog.cloudera.com/blog/2016/04/benchmarking-apache-parquet-the-allstate-experience/)
@@ -929,7 +956,8 @@ Apache
   * 이 글에서는 그 이유를 설명하고 정렬할 column을 파악하는 방법에 대한 아이디어 제공
 * [**Parquet Internal Part 1. Google Dremel(1)**](https://medium.com/@leeyh0216/parquet-internal-part-1-google-dremel-1-3b95e1136a05)
 
-# [Phoenix](http://phoenix.apache.org/) High performance relational database layer over HBase for low latency applications
+# Phoenix
+* [Phoenix](http://phoenix.apache.org/) High performance relational database layer over HBase for low latency applications
 * [Apache Phoenix Joins Cloudera Labs](http://blog.cloudera.com/blog/2015/05/apache-phoenix-joins-cloudera-labs/)
 * [Apache Phoenix: Use Cases and New Features](http://www.slideshare.net/HBaseCon/apache-phoenix-use-cases-and-new-features)
   * HBase + Phoenix를 활용하여 Timeseries DB로 사용하도록 하는 Argus, ACID Transaction 이 가능케 하는 Apache Tephra, Cost bases Query Optimizer인 Apache Calite 활용 사례 소개
@@ -942,7 +970,8 @@ Apache
 * [Apache Phoenix for CDH](https://www.cloudera.com/downloads/phoenix.html)
   * [Apache Phoenix for CDH](https://blog.cloudera.com/blog/2019/07/apache-phoenix-for-cdh)
 
-# [Pig](http://pig.apache.org/)
+# Pig
+* [Pig](http://pig.apache.org/)
 * [A Simple Explanation of COGROUP in Apache Pig](http://joshualande.com/cogroup-in-pig/)
 * [practice - gist.github.com/hyunjun/55f83bfd91e2b1e24f46](https://gist.github.com/hyunjun/55f83bfd91e2b1e24f46)
 * [hug number of part files](https://github.com/dsindex/blog/wiki/%5Bpig%5D-hug-number-of-part-files)
@@ -954,10 +983,12 @@ Apache
 * [Introducing Apache Pinot 0.5.0. We are excited to announce that Apache… | by Ting Chen | Apache Pinot Developer Blog | Sep, 2020 | Medium](https://medium.com/apache-pinot-developer-blog/introducing-apache-pinot-0-5-0-e27983b6a678)
 * [Intro to Apache Pinot - YouTube](https://www.youtube.com/watch?v=T70jTTYhYyM)
 
-# [PredictionIO](http://predictionio.incubator.apache.org/)
+# PredictionIO
+* [PredictionIO](http://predictionio.incubator.apache.org/)
 * [incubator-predictionio - PredictionIO, a machine learning server for developers and ML engineers. Built on Apache Spark, HBase and Spray. http://prediction.io ](https://github.com/apache/incubator-predictionio)
 
-# Pulsar 기존의 메시징/스트리밍 시스템의 단점을 보완하기 위해 Yahoo에서 시작된 분산형 pub-sub 시스템
+# Pulsar
+* [Apache Pulsar](https://pulsar.apache.org/) 기존의 메시징/스트리밍 시스템의 단점을 보완하기 위해 Yahoo에서 시작된 분산형 pub-sub 시스템
 * Geo-replication in Apache Pulsar
   * [part 1: concepts and features](https://streaml.io/blog/apache-pulsar-geo-replication)
   * [part 2: patterns and practices](https://streaml.io/blog/geo-replication-patterns-practices)
@@ -974,7 +1005,8 @@ Apache
 * [Event-driven railway network based on Pulsar - I'm Pavels, welcome!](https://scala.monster/train-station/) scala
 * [Scale By The Bay 2020: Keynote: Karthik Ramasy, Apache Pulsar @ Splunk - YouTube](https://www.youtube.com/watch?v=rmiQb4wsCTI)
 
-# [Ranger](http://ranger.apache.org)
+# Ranger
+* [Ranger](http://ranger.apache.org)
 * [IT’S MORPHING TIME: APACHE RANGER GRADUATES TO A TOP LEVEL PROJECT – PART 2](https://hortonworks.com/blog/morphing-time-apache-ranger-graduates-top-level-project-part-2/)
   * Apache 탑 레벨 프로젝트로 승격된 Apach Ranger에 대한 Key Feature 소개
   * 속성 기반의 엑세스 제어, 정책 엔진, 하드웨어 관리 모들과 결합할 수 있는 키 관리 서비스 등을 포함
@@ -982,7 +1014,8 @@ Apache
   * Hortonworks에서 Apache Ranger를 통해 Hive 또는 Apark SQL에서 행렬 수준의 데이터 엑세스 및 데이터 마스킹을 지원하는 방법을 간단한 데모와 함께 설명
 * [Apache Ranger Vs Sentry](https://www.linkedin.com/pulse/apache-ranger-vs-sentry-mythily-rajavelu/) Hadoop 에코시스템들에 대한 인증과 여러 보안 기능을 제공하는 Apache Ranger와 Apache Sentry에 대해 비교 설명
 
-# [River](https://river.apache.org/)
+# River
+* [River](https://river.apache.org/)
 
 # Samza
 * [REAL-TIME FULL-TEXT SEARCH WITH LUWAK AND SAMZA](http://blog.confluent.io/2015/04/13/real-time-full-text-search-with-luwak-and-samza/)
@@ -992,7 +1025,8 @@ Apache
   * Apache Kafka와 Apache Samza에 기반한 배치 시스템을 사용
   * 처리량을 향상시키기 위해 데이터 처리는 각 데이터센터에서 하도록 설계
 
-# [SINGA](http://singa.apache.org/docs/overview.html) a general distributed deep learning platform for training big deep learning models over large datasets
+# SINGA
+* [SINGA](http://singa.apache.org/docs/overview.html) a general distributed deep learning platform for training big deep learning models over large datasets
 
 # Slider
 * [Slider Project Incubation Status - Apache Incubator](http://incubator.apache.org/projects/slider.html)
@@ -1002,7 +1036,8 @@ Apache
 # Solr
 * [gooper.com/검색엔진-solr](http://www.gooper.com/ss/index.php?mid=bigdata)
 
-# [Spot](http://spot.incubator.apache.org/) 네트워크 데이터를 분석하여 infosec 위협을 탐지하는데 사용
+# Spot
+* [Spot](http://spot.incubator.apache.org/) 네트워크 데이터를 분석하여 infosec 위협을 탐지하는데 사용
 * [Apache Spot (incubating) and Cloudera on AWS in 60 Minutes](http://blog.cloudera.com/blog/2018/02/apache-spot-incubating-and-cloudera-on-aws-in-60-minutes/)
   * Apache Kafka(처리용), Apache Spark(처리 및 ML 분석용), Apache Hadoop(처리 및 저장용) 등을 기반으로 한 Apache Spot의 아키텍처 소개
   * Spot은 파일 시스템의 변경 사항을 감지하고 이벤트를 발생시키는 Python Watchdog 라이브러리를 사용
@@ -1036,11 +1071,13 @@ Apache
 * [Supercharging Apache Superset | by Airbnb | Airbnb Engineering & Data Science](https://medium.com/airbnb-engineering/supercharging-apache-superset-b1a2393278bd)
 * [Use Apache Superset for open source business intelligence reporting | Opensource.com](https://opensource.com/article/21/4/business-intelligence-open-source)
 
-# [SystemML](http://systemml.apache.org/) Apache Spark와 Apache Hadoop을 확장하기 위해 빌드된 machine learning 라이브러리
+# SystemML
+* [SystemML](http://systemml.apache.org/) Apache Spark와 Apache Hadoop을 확장하기 위해 빌드된 machine learning 라이브러리
 * [IBM's SystemML Machine Learning - Now Apache SystemML](https://github.com/SparkTC/systemml)
 * [The Apache Software Foundation Announces Apache® SystemML™ as a Top-Level Project](https://blogs.apache.org/foundation/entry/the-apache-software-foundation-announces13)
 
-# [Tajo](http://tajo.apache.org/)
+# Tajo
+* [Tajo](http://tajo.apache.org/)
 * [Introduction to Apache Tajo](http://www.slideshare.net/gruter/introduction-to-apache-tajo)
 * [누구나 따라할 수 있는 Tajo 시작하기 : How to install Apache Tajo](http://blrunner.com/101)
 * [아즈카반으로 타조 워크플로우 구성하기 : How to schedule Tajo Job using Azkaban](http://blrunner.com/102)
@@ -1059,15 +1096,20 @@ Apache
 * [Apache Thrift](https://github.com/likejazz/likejazz.github.io/wiki/Apache-Thrift)
 * [아파치 쓰리프트의 bool 타입 관련 제한 값](http://knight76.tistory.com/entry/%EC%95%84%ED%8C%8C%EC%B9%98-%EC%93%B0%EB%A6%AC%ED%94%84%ED%8A%B8%EC%9D%98-bool-%ED%83%80%EC%9E%85-%EA%B4%80%EB%A0%A8-%EC%A0%9C%ED%95%9C-%EA%B0%92)
 
-# [Tika](https://tika.apache.org/)
+# Tika
+* [Tika](https://tika.apache.org/)
 
-# [Toree](http://toree.apache.org/)
+# Toree
+* [Toree](http://toree.apache.org/)
 
-# [UIMA](https://uima.apache.org)
+# UIMA
+* [UIMA](https://uima.apache.org)
 
-# [WEEX](https://weex.apache.org/) A framework for building Mobile cross-platform UIs
+# WEEX
+* [WEEX](https://weex.apache.org/) A framework for building Mobile cross-platform UIs
 
-# [Zookeeper](http://zookeeper.apache.org/)
+# Zookeeper
+* [Zookeeper](http://zookeeper.apache.org/)
 * [Zoom: Reactive Programming with Zookeeper](http://blog.midonet.org/zoom-reactive-programming-zookeeper/)
 * [The Discovery of Apache ZooKeeper’s Poison Packet](http://www.pagerduty.com/blog/the-discovery-of-apache-zookeepers-poison-packet/)
 * [Mining Zookeeper’s transaction log to track down bugs](https://medium.com/@ivankelly/mining-zookeeper-s-transaction-log-to-track-down-bugs-63b4c653bb6)
