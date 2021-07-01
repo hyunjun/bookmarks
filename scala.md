@@ -900,10 +900,12 @@ Scala
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
+      * [Background processing in functional Scala #2 - YouTube](https://www.youtube.com/watch?v=pSWzC_pLQ0Q)
       * [Functional Effect systems in Sclala: Build your own ZIO/Cats-Effect/Monix... | Wix Engineering](https://medium.com/wix-engineering/demystifying-functional-effect-systems-in-scala-14419039a423)
       * [fibers.md](https://gist.github.com/djspiewak/d9930891d419c26fac1d58b5274f45ba)
       * [How to successfully manage a ZIO Fiber’s lifecycle | by Natan Silnitsky | Wix Engineering | May, 2021 | Medium](https://medium.com/wix-engineering/how-to-successfully-manage-a-zio-fibers-lifecycle-96fe9c4ecd06)
       * [Scala with ZIO: Introduction to Fibers - YouTube](https://www.youtube.com/watch?v=0OTYAVWUnU4)
+      * [ZIO: Introduction to Fibers - Rock the JVM Blog](https://blog.rockthejvm.com/zio-fibers/)
     * gRPC [Functional, Type-safe, Testable Microservices with ZIO gRPC - YouTube](https://www.youtube.com/watch?v=XTkhxRTH1nE)
     * ZIO-AWS [ZIO-AWS with ZIO Query](https://vigoo.github.io/posts/2020-11-01-zioaws-zioquery.html)
     * zio-config
@@ -1199,6 +1201,7 @@ Scala
   * [Scala Cats Invariant Functor | by Krzysztof Grajek | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/scala-cats-invariant-functor-be57d2e2fa91)
   * [herding cats — herding cats](https://eed3si9n.com/herding-cats/index.html)
   * [Cats with Scala: Essential Type Class Hierarchy - YouTube](https://www.youtube.com/watch?v=_afyiQB7N0Y)
+  * [(re)constructing sequences with Alternative - Scala tutorial - YouTube](https://www.youtube.com/watch?v=s3DRr1dQmrc)
   * [Cats Effect · The pure asynchronous runtime for Scala](https://typelevel.org/cats-effect/)
     * [Cats Effect 3.0 Interruption Model Proposal](https://github.com/typelevel/cats-effect/issues/681)
     * [Cats Effect 3.0 Proposal](https://gist.github.com/djspiewak/fb7851cc4f804f851e70d15ba7c94bb1)
@@ -1666,6 +1669,7 @@ Scala
 * [One Div Zero: Monads are Elephants Part 4](http://james-iry.blogspot.com/2007/11/monads-are-elephants-part-4.html)
 * [Ep 12: ReaderT is good for the environment - YouTube](https://www.youtube.com/watch?v=t7rfvpd9mD0)
   * [evalexample/Video12.scala at video12 · justinhj/evalexample](https://github.com/justinhj/evalexample/blob/video12/src/main/scala/livevideos/Video12.scala)
+* [2021 06 27 automatic-coloring-for-effects.md at master · rssh/notes](https://github.com/rssh/notes/blob/master/2021_06_27_automatic-coloring-for-effects.md)
 
 ## Monad Tagless Final
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
@@ -1836,6 +1840,7 @@ Scala
 * [Mirror, Mirror on the Wall, Who’s the Genericioust of Them All? - Generic Programming with Scala 3 - Philipp Martini](https://blog.philipp-martini.de/blog/magic-mirror-scala3/)
 * [What’s New in Scala 3?. A new compiler, creator applications… | by Akash Srivastava | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/whats-new-in-scala-3-586d69879253)
 * [Quill, Dotty, And The Awesome Power of 'Inline' by Alexander Ioffe - YouTube](https://www.youtube.com/watch?v=SmBpGkIsJIU)
+* [Scala 3: A Look at “inline” (and “Programming Scala” is Now Published!) | by Dean Wampler | Scala 3 | Jun, 2021 | Medium](https://medium.com/scala-3/scala-3-a-look-at-inline-and-programming-scala-is-now-published-9690ca43c23a)
 * [Ep 1: Scala 3 Enums, Implicits, and Context Functions - YouTube](https://www.youtube.com/watch?v=J01u_Dmrx5U)
 * [Ep 2: Type classes with Scala 2 - YouTube](https://www.youtube.com/watch?v=pJFfXhZlR5o)
 * [Ep 3: Evaluating our Numeric Type class - YouTube](https://www.youtube.com/watch?v=56Xj-5kCEm0)
@@ -1894,6 +1899,8 @@ Scala
 * [Scala at Light Speed, Part 7: Scala 3 Contextual Abstractions - YouTube](https://www.youtube.com/watch?v=snz7WHjD-xs)
 * [Scala 3 goodies for Scala 2 developers | In Absentia](https://hmemcpy.com/2021/06/scala-3-goodies-for-scala-2-developers/)
 * [Scala 3: Anti-Givens - YouTube](https://www.youtube.com/watch?v=HQojyuZK-Uo)
+* [Scala 3: Anti-Givens - Rock the JVM Blog](https://blog.rockthejvm.com/anti-givens/)
+* [Scala 3 Tech Report by SoftwareMill](https://softwaremill.com/scala-3-tech-report/)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
