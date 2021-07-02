@@ -100,6 +100,7 @@ Business
 * [협업의 미신 5가지](http://agile.egloos.com/5904102)
   * [OKKYCON: 2017 김창준 - 협업의 미신 5가지 - YouTube](https://www.youtube.com/watch?v=I4xkw_0XqAs)
 * [업무의 회색지대를 바라보며](https://brunch.co.kr/@jongmulim/34) 협업
+* [사일로를 없애고 협업을 부르는 마법 - T Times](http://www.ttimes.co.kr/view.html?no=2021070115407774399)
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
 * [엘론 머스크가 알려주는 회사 내 소통 법](http://www.andrewahn.co/silicon-valley/elon-musk-comms-in-tesla/)
 * [기업 문화의 시작, 소통: 진실의 순간에 드러나는 기업 문화의 민낯 | ㅍㅍㅅㅅ](https://ppss.kr/archives/218668)
