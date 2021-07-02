@@ -1114,6 +1114,8 @@ NLP
 * [StarSpace - Learning embeddings for classification, retrieval and ranking](https://github.com/facebookresearch/Starspace)
   * [Embed All The Things](https://www.facebook.com/groups/PyTorchKR/permalink/967337433405938/)
 * [**The Super Duper NLP Repo**](https://notebooks.quantumstat.com/)
+* [text-to-text-transfer-transformer: Code for the paper "Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer"](https://github.com/google-research/text-to-text-transfer-transformer)
+  * [kolang-t5-base: T5-base model for Korean](https://github.com/seujung/kolang-t5-base)
 * [tacit - Text Analysis,Collection and Interpretation Tool](http://tacit.usc.edu/)
 * [Text Understanding from Scratch](http://arxiv.org/abs/1502.01710)
 * [TextWorld: A learning environment for training reinforcement learning agents, inspired by text-based games](https://www.microsoft.com/en-us/research/blog/textworld-a-learning-environment-for-training-reinforcement-learning-agents-inspired-by-text-based-games/)
