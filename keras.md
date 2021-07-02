@@ -192,6 +192,7 @@ Keras
 * [keras Conv2D | Pega Devlog](https://jehyunlee.github.io/2020/11/29/Python-DL-1-conv2d/)
 * [keras BatchNormalization | Pega Devlog](https://jehyunlee.github.io/2020/12/01/Python-DL-4-bn/)
 * [케라스 API를 사용한 사용자 정의 모델 만들기 with 텐서플로 2.3+2.4 Colaboratory](https://colab.research.google.com/github/rickiepark/handson-ml2/blob/master/custom_model_in_keras.ipynb)
+* [딥러닝 으로 리뷰에서 제품 속성 정보 추출하기 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/5967/)
 
 # Book
 * [더북(TheBook): 케라스 창시자에게 배우는 딥러닝](https://thebook.io/006975/) 1~3장만
