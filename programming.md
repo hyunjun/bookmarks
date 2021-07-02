@@ -479,6 +479,7 @@ Programming
 * [애자일과 PO - Google Slides](https://docs.google.com/presentation/d/1rQ4zVlFl4GInIQYs24rm78FDc6BwM_a3ZdpNJLIh41E/mobilepresent?slide=id.p) [pdf](pdfs/agile_and_po.pdf)
 * [Agile, 애자일관련 소프트웨어의 열두가지 개발원칙에 대해서 알아보자](https://devocean.sk.com/blog/techBoardDetail.do?ID=159948)
 * [뉴 노멀 시대의 인셉션 워크숍 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/inception-workshop-in-the-new-normal/) agile inception project inception
+* [OpenWork, 카카오의 일하는 방식 – tech.kakao.com](https://tech.kakao.com/2021/07/02/openwork-agile/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
