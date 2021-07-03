@@ -200,6 +200,7 @@ Java
   * [java ArrayDeque : 원형큐에 expand를 얹었다](https://codingdog.tistory.com/entry/java-ArrayDeque-%EC%9B%90%ED%98%95%ED%81%90%EC%97%90-expand%EB%A5%BC-%EC%96%B9%EC%97%88%EB%8B%A4)
   * [java treemap ceilingkey higherkey floorkey lowerkey 를 써 봅시다](https://codingdog.tistory.com/entry/java-treemap-ceilingkey-higherkey-floorkey-lowerkey-%EB%A5%BC-%EC%8D%A8-%EB%B4%85%EC%8B%9C%EB%8B%A4)
   * [java collections ncopies : 리스트를 초기화 할 때 이용할 만 하다](https://codingdog.tistory.com/entry/java-collections-ncopies-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%B4%88%EA%B8%B0%ED%99%94-%ED%95%A0-%EB%95%8C-%EC%9D%B4%EC%9A%A9%ED%95%A0-%EB%A7%8C-%ED%95%98%EB%8B%A4)
+  * [Enhancement of Java Collection Classes | Making Java easy to learn](https://javatechonline.com/enhancement-of-java-collection-classes/)
 * Comparable, Comparator
   * [Java 배열 및 ArrayList를 Comparable과 Comparator를 이용해 정렬하기](http://developer88.tistory.com/75)
   * [java compareTo 메소드 : 순서가 중요한 곳에서 잘 쓰인다](https://codingdog.tistory.com/entry/java-compareTo-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%88%9C%EC%84%9C%EA%B0%80-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B3%B3%EC%97%90%EC%84%9C-%EC%9E%98-%EC%93%B0%EC%9D%B8%EB%8B%A4)
@@ -1046,6 +1047,7 @@ Java
   * [HtmlUnit close all windows memory leak](https://stackoverrun.com/ko/q/7258293)
   * [Out Of Memory Error](https://github.com/jhy/jsoup/issues/339)
 * [jvisualvm을 사용한 jvm 모니터링](http://m.egloos.zum.com/aploit/v/5746753)
+  * [javap, jps, jmap, and jvisualvm tutorial - analyzing the heap histogram | Java-Success.com](https://www.java-success.com/javap-jps-jmap-and-jvisualvm-tutorial-analyzing-the-heap-histogram/)
 * [Katharsis library adds an additional layer on top of RESTful endpoint to provide easy HATEOAS support for Java by implementing JSON:API standard](http://katharsis.io/)
 * KoreanTextMatcher [한글 초성 검색과 KoreanTextMatcher 3.0](https://bangjunyoung.github.io/2019/08/23/한글-초성-검색과-KoreanTextMatcher-3-0/)
 * [leakcanary - Detect All Memory Leaks With LeakCanary](https://realm.io/news/droidcon-ricau-memory-leaks-leakcanary/)
