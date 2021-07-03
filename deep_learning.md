@@ -1977,6 +1977,8 @@ Deep Learning
 * [the morning paper](https://blog.acolyer.org/)
 * [Summaries and notes on Deep Learning research papers](https://github.com/dennybritz/deeplearning-papernotes)
 * [openreview.net](https://openreview.net/)
+* [취미로 연구하다 논문까지 썼다고?](https://brunch.co.kr/@modulabs/20)
+* [3줄논문리뷰 자가지도학습과 강화학습의 샘플 효율성](https://bellman.tistory.com/20)
 * [9 Key Deep Learning Papers, Explained](http://www.kdnuggets.com/2016/09/9-key-deep-learning-papers-explained.html/3)
   * 이름 / 이해 난이도 / 읽기 수월함 / 필수성 / 선행지식
   * AlexNet (2012) 하 / 쉬움 / 필수 / 콘볼루션 오퍼레이션 지식, 이미지넷 챌린지
