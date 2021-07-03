@@ -85,7 +85,6 @@ Java
 * [Top 8 Java RESTful Micro Frameworks – Pros/Cons](https://www.gajotres.net/best-available-java-restful-micro-frameworks/)
 * [Java 에러 : could not find java.dll](http://sunyzero.tistory.com/256)
 * [Invest in Your Java Katalogue](https://www.youtube.com/watch?v=GDnMEOaKUMs)
-* [A faster alternative to Java Reflection](https://medium.freecodecamp.org/a-faster-alternative-to-java-reflection-db6b1e48c33e)
 * [How to code the Caesar Cipher: an introduction to basic encryption](https://medium.freecodecamp.org/how-to-code-the-caesar-cipher-an-introduction-to-basic-encryption-3bf77b4e19f7)
 * [What you should learn to become a Master Yoda in Java](https://levelup.gitconnected.com/what-you-should-learn-to-become-a-master-yoda-in-java-59c69207df78)
 * [100 High-Quality Java Developers’ Blogs](https://www.programcreek.com/2012/11/top-100-java-developers-blogs/)
@@ -97,7 +96,6 @@ Java
 * [java 엑셀 파일 읽기 (xlsx)](https://huskdoll.tistory.com/890)
 * [Software impedance explained](https://medium.freecodecamp.org/software-impedance-6796cc65758b)
 * [Line Messaging API를 활용한 챗봇 만들기](https://dbbymoon.tistory.com/2)
-* [Annotation과 Reflection을 이용한 챗봇 컨트롤러 만들기](https://dbbymoon.tistory.com/5)
 * [5월 우아한 Tech 세미나 후기](http://woowabros.github.io/woowabros/2019/05/09/techseminar-java-performance.html) 성능, 라이센스, 모니터링
 * [Writing Web Applications in Java - a Study of Alternatives](https://www.infoq.com/news/2019/05/web-app-java-jvm-alternatives/)
 * [Java Almanac](https://github.com/marchof/java-almanac) SDK version간 차이 정리
@@ -148,7 +146,10 @@ Java
 * [이펙티브 자바 3판 - 열거 타입과 애너테이션](http://astrod.github.io/java/2020/07/18/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-3%ED%8C%90-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98/) Enum, EnumSet, EnumMap, Annotation
 * [On the missing package private — or why Java is better than Kotlin in this regard | by Michał Stawski | VirtusLab | Medium](https://medium.com/virtuslab/on-the-missing-package-private-or-why-java-is-better-than-kotlin-in-this-regard-4a1c9ecbe40c)
 * [java 박싱 언박싱과 오버헤드에 대한 이야기](https://codingdog.tistory.com/entry/java-%EB%B0%95%EC%8B%B1-%EC%96%B8%EB%B0%95%EC%8B%B1%EA%B3%BC-%EC%98%A4%EB%B2%84%ED%97%A4%EB%93%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0) boxing, unboxing, primitive
+* [A faster alternative to Java Reflection](https://medium.freecodecamp.org/a-faster-alternative-to-java-reflection-db6b1e48c33e)
+* [Annotation과 Reflection을 이용한 챗봇 컨트롤러 만들기](https://dbbymoon.tistory.com/5)
 * [1. JAVA Reflection과 Annotaion으로 필드 및 메소드에 값 주입하기](https://kim-jong-hyun.tistory.com/22)
+* [Java Reflection API: The Magical World of Java | CodersTea](https://www.coderstea.com/post/java/the-magic-of-javas-reflection-api/)
 * [굿 바이 자바 애플릿, Deprecate, for Removal](http://dalinaum.github.io/java/2021/03/07/good-bye-java-applet-deprecate-for-removal.html)
 * [Faster Charset Decoding | Claes Redestad’s blog](https://cl4es.github.io/2021/02/23/Faster-Charset-Decoding.html)
 * [The Escape of ArrayList.iterator()](http://psy-lob-saw.blogspot.kr/2014/12/the-escape-of-arraylistiterator.html)
@@ -411,6 +412,7 @@ Java
 * [Java Concurrency - Basics of Threads](https://turkogluc.com/java-concurrency-basics-of-threads/)
 * [race condition 을 이용한 toctou 에 대해서 알아봅시다](https://codingdog.tistory.com/entry/race-condition-%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-toctou-%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [LMAX Disruptor - A High Performance Inter-Thread Messaging Library](https://github.com/LMAX-Exchange/disruptor)
+* [thread.currentthread 메소드를 이용해서 쓰레드들이 request를 어떻게 처리하는지 실험해 봅시다](https://codingdog.tistory.com/entry/threadcurrentthread-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%93%B0%EB%A0%88%EB%93%9C%EB%93%A4%EC%9D%B4-request%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94%EC%A7%80-%EC%8B%A4%ED%97%98%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 
 ## Concurrency Parallel Thread Akka
 * [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
@@ -1061,6 +1063,8 @@ Java
   * [자바 코딩 간소화 기능 lombok - YouTube](https://www.youtube.com/watch?v=g20-0VIpmM4)
   * [Lombok을 쓰며 겪었던 문제](https://velog.io/@juunini/Lombok%EC%9D%84-%EC%93%B0%EB%A9%B0-%EA%B2%AA%EC%97%88%EB%8D%98-%EB%AC%B8%EC%A0%9C)
   * [Project Lombok & MapStruct with Spring Boot | Java Bean Mappings | Spring Boot MapStruct CRUD API - YouTube](https://www.youtube.com/watch?v=EVCrLp-k494)
+  * [Say Good-Bye to Boilerplate Code with Lombok: Part 1-Installation | CodersTea](https://coderstea.com/post/java/say-good-bye-to-boilerplate-code-with-lombok-part-1-installation/)
+  * [Say Good-Bye to Boilerplate Code with Lombok: Part 2-The Code | CodersTea](https://www.coderstea.com/post/java/say-good-bye-to-boilerplate-code-with-lombok-part-2-the-code/)
 * [Machine Learning - Java collection that provides Java packages for developing a machine learning algorithm](https://github.com/sebig3000/MachineLearning)
 * [Mappedbus - IPC between multiple Java processes with nanosecond latency](http://mappedbus.io/)
 * Maven
