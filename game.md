@@ -121,6 +121,7 @@ Game
   * [파이썬 코딩 강의를 또 제작하였습니다 (활용편/게임개발) : 클리앙](https://www.clien.net/service/board/lecture/14927515)
   * [파이썬 실전 프로젝트 | 기억력 테스트 게임, 침팬지를 이겨라 - YouTube](https://www.youtube.com/watch?v=Qsk-xsi73YA)
   * [파이썬 코딩 강의를 제작하였습니다 (황금캐기 게임) : 클리앙](https://www.clien.net/service/board/lecture/16193080)
+  * [xneko를 파이게임으로 이식하면서... (결론: 수학의 중요성)](https://jhrogue.blogspot.com/2021/07/b-xneko.html)
   * [pygame-physics](https://github.com/idgmatrix/pygame-physics)
 * [pyNES - NES games in python](http://gutomaia.net/pyNES/)
 * [Pyxel - a retro game engine for Python](https://github.com/kitao/pyxel)
