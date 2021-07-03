@@ -1575,6 +1575,7 @@ Javascript
   * [네이버 D2 클론 코딩하기 1편](https://brunch.co.kr/@skykamja24/317)
   * [Create documentation easily using NuxtJS VueJS content plugin | by Bikram KC | Nov, 2020 | Medium](https://bikramkc.medium.com/create-documentation-easily-using-nuxtjs-vuejs-content-plugin-e06b220ce37c)
 * [Nx is a set of extensible dev tools for monorepos, which helps you develop like Google, Facebook, and Microsoft](https://nx.dev/)
+  * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐. 소프트웨어의 수명과 복잡도는 대개 비례 관계입니다. 아무리 정교하고… | by 히로 | CLASS101 | Jun, 2021 | Medium](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77) microfrontend
   * [NX-REACT NX 기반으로 React 개발환경 구성하기](https://mobicon.tistory.com/570)
 * [oclif: Node.js Open CLI Framework. Built with 💜 by Heroku.  https://oclif.io](https://github.com/oclif/oclif)
   * [Open Sourcing oclif, the CLI Framework that Powers Our CLIs](https://blog.heroku.com/open-cli-framework)
