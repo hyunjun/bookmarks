@@ -50,7 +50,6 @@ Linux
 * [Uninterruptible Sleep](https://eklitzke.org/uninterruptible-sleep)
 * [Linux 서버에 JIRA 설치하기](https://jungwoon.github.io/jira/2018/04/04/Install-JIRA-On-Demand/)
 * [Compute Engine에 JIRA 설치하기](https://jungwoon.github.io/jira/compute%20engine/2018/04/13/Data-JIRA-Installation-On-GCE/)
-* [All about dev. on Ubuntu | 한상곤 Sangon Han | 2015.09](https://www.youtube.com/watch?time_continue=1&v=JbH-xzD7IkE)
 * [**파일(file)에 대한 토막글**](https://sunyzero.tistory.com/260)
 * [**Java, max user processes, open files**](http://woowabros.github.io/experience/2018/04/17/linux-maxuserprocess-openfiles.html)
   * [java, open files, max user processes](http://jojoldu.tistory.com/287)
@@ -243,6 +242,7 @@ Linux
   * [프로젝트 출시 10일 후 새벽 4시에 발생한 장애의 원인](https://iamsang.com/blog/2017/05/27/server-failure-10-days-after-release/) /tmp directory 관련 내용
 
 ## 배포판 Ubuntu
+* [All about dev. on Ubuntu | 한상곤 Sangon Han | 2015.09 - YouTube](https://www.youtube.com/watch?v=JbH-xzD7IkE)
 * [16.04 설치후 세팅](http://programmingsummaries.tistory.com/389)
 * [Ubuntu 설치 후 초기 세팅하기](https://cupjoo.tistory.com/1)
 * [우분투 16 에 파이썬 3.6 설치 pip3.6 하고](http://hamait.tistory.com/917)
@@ -278,6 +278,7 @@ Linux
 * [Ubuntu 20.04에 MacOS Catalina를 VirtualBox로 설치하기](https://devbull.xyz/ubuntu-20-04-macos/)
 * [절전 모드로 내려가는 우분투 머신](https://www.sysnet.pe.kr/Default.aspx?mode=0&sub=0&detail=1&pageno=0&wid=523&rssMode=1&wtype=0)
 * [절전 모드로 내려가는 우분투 머신](https://www.sysnet.pe.kr/0/0/523)
+* [marcokhan :: Ubuntu How to Kernel Compile](https://marcokhan.tistory.com/246)
 
 # Automation
 * [Python and SSH: sending commands over SSH using Paramiko](https://daanlenaerts.com/blog/2016/01/02/python-and-ssh-sending-commands-over-ssh-using-paramiko/)
