@@ -1094,6 +1094,7 @@ Deep Learning
 * [PR-001: Generative adversarial nets by Jaejun Yoo (2017/4/13)](https://www.youtube.com/watch?v=L3hz57whyNw)
 * [PR-005: Playing Atari with Deep Reinforcement Learning (NIPS 2013 Deep Learning Workshop)](https://www.youtube.com/watch?v=V7_cNTfm2i8)
 * [kkweon.github.io/pr12-web-app-elm](https://kkweon.github.io/pr12-web-app-elm/)
+* [pr12er: PR12를 좀더 잘보기 위한 프로젝트](https://github.com/codingpot/pr12er)
 * [Generative Adversarial Networks for Beginners Build a neural network that learns to generate handwritten digits](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners)
   * [Introduction to generative adversarial networks](https://github.com/jonbruner/generative-adversarial-networks)
   * GAN은 알려진 입력 데이터와 비슷한 합성 데이터를 만드는 방법을 학습하는 신경망
