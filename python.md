@@ -2341,6 +2341,7 @@ Python
   * [Python GUI with PyQT/PySide2. A look and guide at a popular GUI for… | by Keno Leon | The Startup | Medium](https://medium.com/swlh/python-gui-with-pyqt-pyside2-5cca38d739fa)
   * ['파이썬-PySide6(PyQt6)' 카테고리의 글 목록](https://www.martinii.fun/category/%ED%8C%8C%EC%9D%B4%EC%8D%AC-PySide6%28PyQt6%29)
   * ['파이썬-PySide6(PyQt6)' 카테고리의 글 목록](https://employeecoding.tistory.com/category/%ED%8C%8C%EC%9D%B4%EC%8D%AC-PySide6%28PyQt6%29)
+  * [Python build a responsive GUI | UI with ANIMATED transitions | PyQt PySide Custom Widgets Module - YouTube](https://www.youtube.com/watch?v=i1iN_CQcnWc)
   * [PyDracula - Modern Gui Python / Flat Style - Qt Designer/PySide6 or PyQt6 - YouTube](https://www.youtube.com/watch?v=9DnaHg4M_AM)
 * [PySimpleGUI](https://pysimplegui.readthedocs.io/)
   * [Python GUI Development With PySimpleGUI - YouTube](https://www.youtube.com/watch?v=-_z2RPAH0Qk)
