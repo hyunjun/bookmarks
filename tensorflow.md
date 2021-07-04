@@ -560,6 +560,7 @@ TensorFlow
 * [TensorFlow Hub와 Estimator로 텍스트 분류 모델 빌드하기](https://developers-kr.googleblog.com/2019/03/tensorflow-hub-estimator.html)
 * [Auto-classification of NAVER Shopping Product Categories using TensorFlow](https://medium.com/tensorflow/auto-classification-of-naver-shopping-product-categories-using-tensorflow-225f1fdb6f09)
 * [Machine Learning Foundations: How to Classifying real-world images](https://morioh.com/p/1e1262427f7f)
+* [tensorflow_text_classification.py](https://gist.github.com/MSWon/c2af428354cb6beac94c982d9ec9342f)
 
 # CNN
 * [Convolutional Neural Network for Text Classification in Tensorflow](https://github.com/dennybritz/cnn-text-classification-tf)
