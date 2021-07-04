@@ -841,6 +841,7 @@ NLP
 
 # Course MOOC Lecture
 * [언어와 컴퓨터 (100.130)](https://github.com/suzisuti/lecture/tree/master/2018/LC)
+* [자연어처리 특강 - YouTube](https://www.youtube.com/playlist?list=PLgD4RfwkG2A5fNsi7PyhWCiIz5zU2Q6Z0)
 * [Donkuk_AI_NLP_MachineTranslation - 동국대학교 영어영문학부 대상으로 진행하는 인공지능, 자연언어처리, 기계번역 강의자료](https://github.com/Parkchanjun/Donkuk_AI_NLP_MachineTranslation)
 * [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
 * [List of free resources to learn Natural Language Processing](https://blog.paralleldots.com/data-science/nlp/free-natural-language-processing-resources)
