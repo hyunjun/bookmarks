@@ -111,9 +111,11 @@ Google Cloud Platform GCP
 * [Learn how to create a secured HTTP website with Let’s Encrypt Certificate Authority (CA) on an Apache HTTPS server running on a Google Cloud Platform (GCP)’s VM | by Bryant Jimin Son | Mar, 2021 | Medium](https://bryantson.medium.com/learn-how-to-create-a-secured-http-website-with-lets-encrypt-certificate-authority-ca-on-an-add5d71d95c1) letsencrypt
 * [구글 클라우드 플랫폼에서 마이크로서비스 실행하기 - ITWorld Korea](https://www.itworld.co.kr/news/190743)
 * [MLOps: Big Picture in GCP. “Why do we need different CI/CD for… | by Park Chansung | Google Developers Experts | May, 2021 | Medium](https://medium.com/google-developer-experts/mlops-big-picture-in-gcp-a637566d6ae8)
-* [Vertex 파이프라인  |  Vertex AI  |  Google Cloud](https://cloud.google.com/vertex-ai/docs/pipelines?hl=ko)
-* [버텍스 AI로 무장한 새로운 구글 머신러닝 클라우드](https://brunch.co.kr/@synabreu/140)
-* [I/O Extended with doubleS - Vertex AI (박찬성) - YouTube](https://www.youtube.com/watch?v=JNkMvoAi3fk)
+* Vertex AI
+  * [Vertex 파이프라인  |  Vertex AI  |  Google Cloud](https://cloud.google.com/vertex-ai/docs/pipelines?hl=ko)
+  * [버텍스 AI로 무장한 새로운 구글 머신러닝 클라우드](https://brunch.co.kr/@synabreu/140)
+  * [I/O Extended with doubleS - Vertex AI (박찬성) - YouTube](https://www.youtube.com/watch?v=JNkMvoAi3fk)
+  * [구글 머신러닝 클라우드, ‘버텍스 AI’로 무장하다 | 슬로우뉴스](https://slownews.kr/81261)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
