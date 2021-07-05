@@ -370,6 +370,7 @@ Programming
 * [The True Meaning of Technical Debt 💸 - Refactoring](https://refactoring.fm/p/the-true-meaning-of-technical-debt)
 * [Understanding Tech Debt](https://www.slideshare.net/sm9kr/understanding-tech-debt)
 * [기술 부채?](https://velog.io/@juunini/%EA%B8%B0%EC%88%A0-%EB%B6%80%EC%B1%84)
+* [**기술부채가 쌓여있는 상황에서 서비스 성능 임팩트 있게 개선하기 | by GeonHo Tony Han | CLASS101 | Jul, 2021 | Medium**](https://medium.com/class101/%EA%B8%B0%EC%88%A0%EB%B6%80%EC%B1%84%EA%B0%80-%EC%8C%93%EC%97%AC%EC%9E%88%EB%8A%94-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EC%9E%84%ED%8C%A9%ED%8A%B8-%EC%9E%88%EA%B2%8C-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-b4c6d8ccc9c6)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-2. 여러 대의 서버에 흩어져 있는 세션을 어떻게 관리할 수 있을까?](https://chagokx2.tistory.com/93)
 * [사용자가 늘어나게 된다면 서버를 어떻게 확장해야할까? | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p1/) scale up scale out
