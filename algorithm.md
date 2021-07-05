@@ -177,8 +177,6 @@ Algorithm
 * [Introduction to Algorithms Abdul Bari](https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw/videos)
 * [The Two Egg Problem](https://jusths.tistory.com/117)
 * [General Egg Problem](https://jusths.tistory.com/119)
-* [Egg Dropping Problem - Approach to write the code (Dynamic Programming) | GeeksforGeeks](https://www.youtube.com/watch?v=KVfxgpI3Tv0)
-* [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/collection/5668639101419520/5633779737559040)
 * [Maximum Subarray Problem](https://jusths.tistory.com/129)
 * [악마와 동전 게임](https://nbviewer.jupyter.org/github/cynthia/pytudes/blob/gh-pages/ipynb/Coin%20Flip.ipynb)
 * [알고리즘의 개념과 알고리즘의 효율적 설계](https://www.youtube.com/watch?v=tgHwP0srUIk)
@@ -212,7 +210,6 @@ Algorithm
 * [An Introduction to Sliding Window Algorithms | by Jordan Moore | Level Up Coding](https://levelup.gitconnected.com/an-introduction-to-sliding-window-algorithms-5533c4fe1cc7)
 * [알고리즘 문제풀이 #4 코딩도장 지뢰찾기 이야기](https://adunhansa.tistory.com/325)
 * [na982 :: 삼성 SW 역량 테스트 어른 상어](https://na982.tistory.com/128)
-* [An Illustrative Introduction to Dynamic Time Warping | by Esmaeil Alizadeh | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/an-illustrative-introduction-to-dynamic-time-warping-36aa98513b98) DTW
 * [배열에서 가장 큰 직사각형 구하기 : 관찰을 통해 풀어봅시다](https://codingdog.tistory.com/entry/%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95-%EA%B5%AC%ED%95%98%EA%B8%B0-%EA%B4%80%EC%B0%B0%EC%9D%84-%ED%86%B5%ED%95%B4-%ED%92%80%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [Maximum Perimeter Triangle with Greedy Approach | by Pulsara Sandeepa | Oct, 2020 | Level Up Coding](https://levelup.gitconnected.com/maximum-perimeter-triangle-with-greedy-approach-bd6279471d2e)
 * [All Pythagorean Triplets in Optimal Time Complexity | Level Up Coding](https://levelup.gitconnected.com/all-pythagorean-triplets-less-than-equal-n-in-optimal-time-complexity-babfbe742337)
@@ -334,6 +331,9 @@ Algorithm
 * [Union-Find Algorithm | Dev Log](https://reactiver.dev/union-find-algorithm/)
 
 # Dynamic Programming
+* [Egg Dropping Problem - Approach to write the code (Dynamic Programming) | GeeksforGeeks](https://www.youtube.com/watch?v=KVfxgpI3Tv0)
+* [Grokking Dynamic Programming Patterns for Coding Interviews](https://www.educative.io/collection/5668639101419520/5633779737559040)
+* [An Illustrative Introduction to Dynamic Time Warping | by Esmaeil Alizadeh | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/an-illustrative-introduction-to-dynamic-time-warping-36aa98513b98) DTW
 * [A Dynamic Programming Model For Baseball](http://footballcommentary.com/bbmodel.htm)
 * [LCS example](http://www.tk0221.com/2015/05/dynamic-programming.html)
 * [Needleman–Wunsch algorithm](https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm)
@@ -370,6 +370,7 @@ Algorithm
 * [Dynamic Programming(Beginner to Advanced) | Introduction | Lecture - 1 - YouTube](https://www.youtube.com/watch?v=vMoLobOs2CI)
 * [Dynamic Programming(Beginner to Advanced) | 4 Steps to Solve any DP Problem | Lecture - 2 - YouTube](https://www.youtube.com/watch?v=Gcubukn8L3w)
 * [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges - YouTube](https://www.youtube.com/watch?v=oBt53YbR9Kk)
+* [New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time - Blind](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
