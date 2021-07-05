@@ -1172,6 +1172,7 @@ Deep Learning
 * [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery - YouTube](https://www.youtube.com/watch?v=5icI0NgALnQ)
 * [StyleCLIP-Tutorial](https://github.com/ndb796/StyleCLIP-Tutorial)
   * [딥러닝 기반의 이미지 편집 기술: StyleCLIP 설명 및 코드 실습 (꼼꼼한 딥러닝 논문 리뷰와 코드 실습) - YouTube](https://www.youtube.com/watch?v=hFC7DSh9RIw)
+* [StyleCLIP에 대한 소개](https://brunch.co.kr/@advisor/33)
 * [GAN 이미지 생성 알고리즘 테스트 하기](https://www.infoking.site/54)
 * [Face2Webtoon](https://github.com/sangyun884/Face2Webtoon)
 * [generative_inpainting: DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral](https://github.com/JiahuiYu/generative_inpainting)
