@@ -29,7 +29,7 @@ Psychology
   * [01 그래, 나 실패했다](https://brunch.co.kr/@rooneykim/40)
   * [02 아, 이제 어떡하지?](https://brunch.co.kr/@rooneykim/42)
 * [실패](https://interpiler.com/2019/04/09/1302/) 펄서 행성 발견에 관련된 이야기
-* [PsychoPy - Psychology software in Python](http://www.psychopy.org/)
+* [똑똑한 사람이 나쁜 결정을 내리는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/221326)
 * [일상생활에서 자존감을 높이는 방법들](https://imgur.com/a/xTHuEbJ)
   * [정신과 의사가 알려준 자존감 확실히 높이는 법](https://youtu.be/KWm9asILbnE)
   * 스스로 정성스럽게 요리하기
@@ -40,3 +40,4 @@ Psychology
 * [혹독한 조언이 나를 살릴까?](http://agile.egloos.com/5931859)
 * [CEO 심리학 행복한 사람과 목적없는 대화…스트레스 피하는 최고의 방법 - 매일경제](https://www.mk.co.kr/news/business/view/2019/11/941310/)
 * [완벽을 추구하기보단, 차라리 대충 시작할 것 | ㅍㅍㅅㅅ](https://ppss.kr/archives/237885)
+* [PsychoPy - Psychology software in Python](http://www.psychopy.org/)
