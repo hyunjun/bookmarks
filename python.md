@@ -3994,6 +3994,7 @@ Python
 * [Python Pandas Tutorial | What is Pandas | Features of Pandas # 1 - YouTube](https://www.youtube.com/watch?v=2NwUfnKhsuU)
 * [Exploring Your Dataset With Pandas and Python - YouTube](https://www.youtube.com/watch?v=XM5gR1sE3B0)
 * [The ten most important Pandas functions, and how to work with them](https://www.activestate.com/blog/the-ten-most-important-pandas-functions-and-how-to-work-with-them/)
+* [How To Make Your Pandas Loop 71803 Times Faster | by Benedikt Droste | Towards Data Science](https://towardsdatascience.com/how-to-make-your-pandas-loop-71-803-times-faster-805030df4f06)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
   * [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
 * [optimus: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF and PySpark](https://github.com/hi-primus/optimus)
