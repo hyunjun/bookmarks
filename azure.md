@@ -135,6 +135,7 @@ Azure
   * 큐의 메시지의 양을 제대로 소비하지 못하면서 지연되는 문제, 두 번째는 데이터베이스 커넥션 풀을 충분히 설정하지 못해서 타임아웃이 발생
   * await 사용 주의, db connection pool 설정
 * [Bicep으로 애저 리소스 프로비저닝하기 | ep0. 인트로 | 애저듣보잡 - YouTube](https://www.youtube.com/watch?v=C0ck7eoO7DM)
+* [프리지아 랩 :: Solving Azure subscription problem in Azure Extension of Visual Studio Code](https://www.dokyun.pe.kr/264)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
