@@ -945,6 +945,7 @@ SQL
 * [Exploring Tweets with SQLite + WASM - Divyendu's Blog](https://divu.in/experiments/wasm/twitter-sqlite)
 * [Hosting SQLite databases on Github Pages - (or any static file hoster) - phiresky's blog](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
 * [SQLite in production with WAL](https://victoria.dev/blog/sqlite-in-production-with-wal/)
+* [**SQLite의 알려지지 않은 이야기 | GeekNews**](https://news.hada.io/topic?id=4558)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
 * [litestream: Streaming S3 replication for SQLite](https://github.com/benbjohnson/litestream)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
