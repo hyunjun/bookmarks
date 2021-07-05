@@ -442,6 +442,7 @@ AWS
 * [Amazon Timestream – 시계열 데이터베이스 – Amazon Web Services](https://aws.amazon.com/ko/timestream/)
   * [Amazon Timestream - Time series is the new black](https://www.allthingsdistributed.com/2021/06/amazon-timestream-time-series-is-the-new-black.html)
 * [AWS 대회에서 1등 했습니다! – DRAMA&COMPANY](https://blog.dramancompany.com/2021/06/awsgameday2021/)
+* [AWS 기반 추천 시스템 아키텍처](https://www.joinc.co.kr/w/man/12/aws/scenario/recommendation)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
