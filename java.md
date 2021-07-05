@@ -130,6 +130,7 @@ Java
 * [코드라떼 자바 - 메모리 모델 기초 - YouTube](https://www.youtube.com/watch?v=m9lv_Zt7otk) memory model
 * [코드라떼 자바 - Call By Value, 값에 의한 호출 - YouTube](https://www.youtube.com/watch?v=Vd1C3-wHc4Y)
 * [Java is criminally underhyped](https://jackson.sh/posts/2021-04-java-underrated/?s=09)
+* [Starting Fast: Investigating Java's Static Compilation Landscape - YouTube](https://www.youtube.com/watch?v=ry8O4HooIBI)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
