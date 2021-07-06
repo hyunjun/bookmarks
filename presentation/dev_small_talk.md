@@ -40,3 +40,4 @@
     * [What was Donald Knuth wrong about? | Hacker News](https://news.ycombinator.com/item?id=17164505)
     * [다익스트라, 왜 goto에 시비(?)를 거는가? - ZDNet korea](https://zdnet.co.kr/view/?no=00000010060491&from=pc)
   * 마틴 오더스키. scala에 xml을 언어 자체의 기능으로 포함. xml을 data format의 미래라고 오판
+* [문경은 - 선수들을 100% 믿고 기다리는 게 좋은 것만은 아니었다](https://sports.news.naver.com/news.nhn?oid=529&aid=0000057518)
