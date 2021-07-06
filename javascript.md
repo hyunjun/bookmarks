@@ -2404,6 +2404,7 @@ Javascript
 * [React Full Course - Learn Fundamentals, Hooks, Context API, React Router, Custom Hooks](https://morioh.com/p/34eeae8b4e34)
 * [React course - Clelab](https://clelab.io/course/0)
 * [React란 - 리액트란 무엇인지 알아보고, 리액트의 특징에 대해서 살펴봅니다](https://dev-yakuza.posstree.com/ko/react/create-react-app/react/)
+* [create-react-app에서 TypeScript - create-react-app으로 생성한 React 프로젝트에 TypeScript를 적용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/create-react-app/typescript/)
 * [egoing.github.io/react-tutorial-example](https://egoing.github.io/react-tutorial-example)
 * [React-web-tutorial - React tutorial for WEB beginners](https://github.com/kimxogus/React-web-tutorial)
 * [Try React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
