@@ -1000,6 +1000,7 @@ Machine Learning
 * [backend.ai](https://github.com/lablup/backend.ai/wiki)
   * [docs.backend.ai](http://docs.backend.ai)
   * [lablup/backend.ai: Backend.AI is a streamlined, container-based computing cluster orchestrator that hosts diverse programming languages and popular computing/ML frameworks, with pluggable heterogeneous accelerator support including CUDA and ROCM](https://github.com/lablup/backend.ai)
+  * [Backend.AI 오픈소스 기여 가이드 | Lablup Blog](https://blog.lablup.com/posts/2021/07/05/backendai-contribution-guide/)
 * [BentoML - A platform for serving and deploying machine learning models http://BentoML.ai ](https://github.com/bentoml/BentoML)
   * [Machine Learning Serving - BentoML 사용법 · 어쩐지 오늘은](https://zzsza.github.io/mlops/2021/04/18/bentoml-basic/)
 * [cortex: Model serving at scale](https://github.com/cortexlabs/cortex)
