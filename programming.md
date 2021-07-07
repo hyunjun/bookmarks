@@ -2972,6 +2972,7 @@ Programming
 * [Experiences from Having Developers Write E2E Tests](https://www.infoq.com/news/2021/05/developers-e2e-tests/)
 * [NDC21 "자동테스트는 필수 시스템이 될 것"...엔씨 개발자 5년의 기록 콘텐츠 Enterprise TECH G 기사본문 - 테크M](https://www.techm.kr/news/articleView.html?idxno=84662)
   * [게임 테스트 자동화 5년의 기록, 리니지M과 리니지2M의 자동테스트 회고](https://ndc.nexon.com/session/sessionView?sessNo=100007275)
+* [You're Testing WHAT? • Gojko Adzic • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=5_IW7npQk9k)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
