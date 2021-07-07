@@ -226,7 +226,7 @@ Vision
     * [YOLOv3](https://www.youtube.com/watch?v=MPU2HistivI)
     * [How to Build an Object Tracker Using YOLOv3, Deep SORT and TensorFlow](https://morioh.com/p/5f4db2fffbfa)
     * [Tutorial #1 : Use YOLOv3 : AlexeyAB/darknet (Video files / Webcam) Windows or Linux - YouTube](https://www.youtube.com/watch?v=Qvx9HcRyhmo)
-    * [How to Build an Object Tracker Using YOLOv3, Deep SORT and TensorFlow](https://morioh.com/p/5f4db2fffbfa)
+    * [Suite와 Valohai로 YOLOv3 파이프라인 설계하기 - Superb AI Blog](https://www.superb-ai.com/ko-blog/building-a-yolov3-pipeline-with-valohai-and-superb-ai)
   * v4
     * [YOLOv4 (v3/v2) - Windows and Linux version of Darknet Neural Networks for object detection (Tensor Cores are used) http://pjreddie.com/darknet ](https://github.com/AlexeyAB/darknet)
     * [YOLOv4 in the CLOUD: Build and Train Custom Object Detector](https://morioh.com/p/450b2ab62a56)
