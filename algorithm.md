@@ -137,6 +137,7 @@ Algorithm
 * [2020 카카오 인턴십 for Tech developers 문제해설 – tech.kakao.com](https://tech.kakao.com/2020/07/01/2020-internship-test/)
 * [2021 카카오 신입공채 1차 온라인 코딩 테스트 for Tech developers 문제해설 – tech.kakao.com](https://tech.kakao.com/2021/01/25/2021-kakao-recruitment-round-1/)
 * [2021 카카오 신입공채 2차 온라인 코딩 테스트 for Tech developers 문제해설 – tech.kakao.com](https://tech.kakao.com/2021/02/16/2021-kakao-recruitment-round-2/)
+* [2021 카카오 인턴십 for Tech developers 코딩 테스트 해설 – tech.kakao.com](https://tech.kakao.com/2021/07/08/2021-%ec%b9%b4%ec%b9%b4%ec%98%a4-%ec%9d%b8%ed%84%b4%ec%8b%ad-for-tech-developers-%ec%bd%94%eb%94%a9-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ed%95%b4%ec%84%a4/)
 * [2019년 상반기 LINE 인턴 채용 코딩테스트 문제 해설](https://engineering.linecorp.com/ko/blog/2019-firsthalf-line-internship-recruit-coding-test/)
 * [Programming Puzzle Solutions](https://www.xarg.org/puzzles/)
 * [프로그래밍을 잘하는 5가지 방법 — 1. 자료구조와 알고리즘 공부하기](https://medium.com/@ghilbut/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%84-%EC%9E%98%ED%95%98%EB%8A%94-5%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-1-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B3%B5%EB%B6%80%ED%95%98%EA%B8%B0-ebf3a3f79ee2)
