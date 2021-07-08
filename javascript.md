@@ -2762,6 +2762,7 @@ Javascript
 * [5 Ways to animate a React app in 2019](https://hackernoon.com/5-ways-to-animate-a-reactjs-app-in-2019-56eb9af6e3bf)
 * [React에서 styled-components 사용하기](https://dev-yakuza.github.io/ko/react/styled-components/)
 * [Styling Styled Components 이해하고 사용하기! (with React) 💅](https://xtring-dev.tistory.com/entry/Styling-Styled-Components-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-%F0%9F%92%85)
+* [create-react-app에서 styled-components - create-react-app으로 생성한 React 프로젝트에 styled-components를 적용하는 방법에 대해서 알아봅시다.](https://dev-yakuza.posstree.com/ko/react/create-react-app/styled-components/)
 * [React에서 root import하기](https://dev-yakuza.github.io/ko/react/root-import/)
 * [RN(React Native)에서 root import하기](https://dev-yakuza.github.io/ko/react-native/root-import/)
 * [create-react-app에서 절대 경로 import - create-react-app의 타입스크립트로 생성한 React 프로젝트에 절대 경로를 사용하여 컴포넌트를 추가하는 방법에 대해서 알아본다.](https://dev-yakuza.posstree.com/ko/react/create-react-app/root-import/)
