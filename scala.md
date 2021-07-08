@@ -897,6 +897,7 @@ Scala
     * [Part 1 - What is ZIO and should you learn it? - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=XwMKw03w8bs)
     * [Part 2 - `ZIO[_, _, Success]` - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=7MNY0o2i_vg)
     * [Part 3 - `ZIO[_, Error, _]` & Variance - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=oKaQXxEa7a8)
+    * [ZIO News - Issue #28 | Revue](https://www.getrevue.co/profile/zio/issues/zio-news-issue-28-654279)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1146,6 +1147,7 @@ Scala
   * [GraphQL in Scala with Caliban — Part 3: Customization](https://medium.com/@ghostdogpr/graphql-in-scala-with-caliban-part-3-8962a02d5d64)
   * [Caliban Client: a type-safe GraphQL Client for Scala and Scala.js](https://medium.com/@ghostdogpr/caliban-client-a-type-safe-graphql-client-for-scala-and-scala-js-718aa42c5ef7)
   * [Caliban: Functional GraphQL Library for Scala by Pierre Ricadat - YouTube](https://www.youtube.com/watch?v=oLvdhVNIC3k)
+* Capacitor [Cross-Platform Mobile dev with Scala and Capacitor | by Antoine Doeraene | Geek Culture | Jul, 2021 | Medium](https://medium.com/geekculture/cross-platform-mobile-dev-with-scala-and-capacitor-54e69b62b50c)
 * [Cats - Lightweight, modular, and extensible library for functional programming](https://typelevel.org/cats/)
   * [Cats - An Introduction to Cats](http://underscore.io/blog/posts/2015/06/10/an-introduction-to-cats.html)
   * [Cats - A new library for functional programming in Scala](https://www.youtube.com/watch?v=cEVm73XFX4w)
