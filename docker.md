@@ -993,6 +993,7 @@ Docker
 * [Test your Kubernetes experiments with an open source web interface | Opensource.com](https://opensource.com/article/21/6/chaos-mesh-kubernetes)
 * [Capturing container traffic on Kubernetes | by Peter Gillich | FAUN](https://faun.pub/capturing-container-traffic-on-kubernetes-ee4a49b833b7)
 * [Architecting Kubernetes clusters — choosing the best autoscaling strategy](https://learnk8s.io/kubernetes-autoscaling-strategies)
+* [리얼리눅스 무료세미나: 도커/쿠버네티스/클라우드 네트워크 문제해결이 어려운 이유 - YouTube](https://www.youtube.com/watch?v=McDxXTGnWPE)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
