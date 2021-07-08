@@ -219,6 +219,7 @@
 * [rustorm - A simple ORM for rust](https://github.com/ivanceras/rustorm)
 * [rustpad: Efficient and minimal collaborative code editor, self-hosted, no database required](https://github.com/ekzhang/rustpad)
 * [RustPython A Python-3 (CPython >= 3.5.0) Interpreter written in Rust](https://github.com/RustPython/RustPython)
+  * [RustPython - 공개SW 포털](https://www.oss.kr/contribution_academy_project/show/122cbe35-df6d-4702-9b5b-3064cde4a816)
 * [Rust-TodoMVC](http://tcr.github.io/rust-todomvc/)
 * Rusty Machine
   * [Rusty Machine- Machine Learning in Rust](https://www.techleer.com/articles/349-rusty-machine-machine-learning-in-rust/)
