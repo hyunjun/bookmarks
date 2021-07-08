@@ -1638,6 +1638,7 @@ App
   * [WSL Manager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://wslhub.com/)
     * [wsl-firststep: WSL을 설치하면서 처음에 하는 일들을 모아놓은 리포지터리입니다](https://github.com/rkttu/wsl-firststep)
     * [고급 - 배포판 복사하기 | wsl-firststep](https://wslhub.com/wsl-firststep/advanced/copy-distro.html)
+  * [wsl-sdk-com: WSL SDK COM Module (Out-of-Process Type)](https://github.com/wslhub/wsl-sdk-com)
 * xLogWnd [디버깅 로그툴 xLogWnd : 클리앙](https://www.clien.net/service/board/pds/15729575)
 * [X Windows for Amazon Linux AMI](http://www.popit.kr/x-windows-for-amazon-linux-ami/)
 * [X server 4 Windows 10](https://x410.dev/)
