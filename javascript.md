@@ -2873,6 +2873,7 @@ Javascript
   * React 18에서 도입되는 Suspense를 이용해서 SSR 아키텍처를 어떻게 개선했는지를 설명
   * 기존에는 SSR을 하기 위해 매번 전체 애플리케이션을 작업하고 필요한 부분을 사용해야 했기에 비효율적
   * <Suspense>를 이용해서 별도의 단위로 분리한 뒤에 처리할 수 있어서 성능이 개선
+* [React 18을 준비하세요.. 요약 | by 최철헌 | 네이버 플레이스 개발 블로그 | Jul, 2021 | Medium](https://medium.com/naver-place-dev/react-18%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EC%84%B8%EC%9A%94-8603c36ddb25)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
