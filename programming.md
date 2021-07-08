@@ -531,6 +531,7 @@ Programming
   * [웹페이지 자동화를 위한 캡차(CAPTCHA) 우회 서비스 - 개발자스럽다](https://blog.gaerae.com/2021/04/captcha-solving-service.html)
 * [결제 시스템의 SDK와 API 디자인](https://toss.im/slash-21/sessions/1-7)
 * [Rebuilding Twitter’s Public API - YouTube](https://www.youtube.com/watch?v=axFSaH_-IMw)
+* [How Netflix Scales Its API with GraphQL Federation - YouTube](https://www.youtube.com/watch?v=QrEOvHdH2Cg)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * dev.file.kiwi 파일 키위 [소개 - ❤️개발자](https://dev.file.kiwi/)
   * [API 공개- 무료 대용량 파일첨부/전송 | GeekNews](https://news.hada.io/topic?id=4376)
