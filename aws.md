@@ -70,10 +70,6 @@ AWS
 * [AWS 관리형 인스턴스를 사용해야만 하는 이유 – OpsNow Tech Blog](https://blog.opsnow.com/23)
 * [Amazon Web Services - Labs](https://github.com/awslabs)
 * [Cloud With Me makes setting up and managing AWS servers easier](https://techcrunch.com/2016/07/12/cloud-with-me-makes-setting-up-and-managing-aws-servers-easier/)
-* [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
-  * [Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800)
-* [Elastic Beanstalk Developer Guide](https://github.com/awsdocs/aws-elastic-beanstalk-developer-guide/)
-* [How to deploy a Node.js app to the AWS Elastic Beanstalk](https://medium.freecodecamp.org/how-to-deploy-a-node-js-app-to-the-aws-elastic-beanstalk-f150899ed977)
 * [Deploying a production Node/Express Mongo App to AWS — A Reflection](https://medium.freecodecamp.org/deploying-a-production-node-express-mongo-app-to-aws-a-reflection-8982894289c6)
 * [How to directly deploy Github code of MERN/MEAN app on AWS?](https://www.youtube.com/watch?v=i9g2Sg10DPk)
 * [AWS ElasticBeanstalk의 ELB 찾기](http://jojoldu.tistory.com/312)
@@ -85,19 +81,6 @@ AWS
 * [AWS - Elastic Load Balancer (ELB) - YouTube](https://www.youtube.com/watch?v=s9FHdj6jd_U)
 * [AWS-NLB-Sticky-sessions-timeout - 리눅서의 기술술 블로그](https://linuxer.name/2020/08/aws-nlb-sticky-sessions-timeout/)
 * [AWS NLBs and the mixed up TCP connections](https://www.niels-ole.com/cloud/aws/linux/2020/10/18/nlb-resets.html)
-* [Travis CI와 AWS ElasticBeanstalk 연동하기](http://jojoldu.tistory.com/317)
-* AWS Beanstalk을 이용한 성능 튜닝 시리즈
-  * [1. DB Connection Pool](http://jojoldu.tistory.com/318)
-  * [2. 커널 파라미터 튜닝](http://jojoldu.tistory.com/319)
-  * [3. Nginx 튜닝](http://jojoldu.tistory.com/322)
-  * [4. 기타](http://jojoldu.tistory.com/323)
-* [Elastic Beanstalk로 Next.js 앱 배포하기](https://blog.rhostem.com/posts/2019-09-01-deploy-next-app-to-eb)
-* [AWS ElasticBeanstalk (빈스톡) 삭제 실패시 처리 방안](https://jojoldu.tistory.com/479)
-* [AWS Beanstalk Linux2 에서 Nginx 설정이 안될때](https://jojoldu.tistory.com/541)
-* [1. Github Action & AWS Beanstalk 배포하기 - Github Action으로 빌드하기](https://jojoldu.tistory.com/543)
-* [2. Github Action & AWS Beanstalk 배포하기 - profile=local로 배포하기](https://jojoldu.tistory.com/549)
-* [elastic beanstalk Amazon Linux2 python 환경 마이그레이션 후기 | by Juneseok Byun | Hard Boiled Smith Stories | May, 2021 | Medium](https://medium.com/hbsmith/elastic-beanstalk-amazon-linux2-python-%ED%99%98%EA%B2%BD-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%9B%84%EA%B8%B0-96fe21370d84)
-* [AWS Elastic Beanstalk Amazon Linux2 환경에서의 로그 커스터마이징 (Amazon Cloudwatch & EB Web Console) | by Juneseok Byun | Hard Boiled Smith Stories | May, 2021 | Medium](https://medium.com/hbsmith/aws-elastic-beanstalk-amazon-linux2-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EB%A1%9C%EA%B7%B8-%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95-amazon-cloudwatch-eb-web-console-1dcb9cc79316)
 * [AWS Transit Gateway - 1](http://zigispace.net/991)
 * [AWS Transit Gateway - 2](http://zigispace.net/992)
 * [AWS Transit Gateway와 Site-to-Site VPN을 이용한 오피스 네트워크 구성 | by Dahyun | 원티드 제품 팀블로그 | Oct, 2020 | Medium](https://medium.com/wantedjobs/aws-transit-gateway%EC%99%80-site-to-site-vpn%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%94%BC%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B5%AC%EC%84%B1-50d4948274bc)
@@ -245,8 +228,6 @@ AWS
 * [서버리스 시대에 GitOps를 통한 모던 CI/CD 파이프라인 구축](https://aws.amazon.com/ko/blogs/korea/building-a-modern-ci-cd-pipeline-in-the-serverless-era-with-gitops)
 * [그들이 AWS 위에서 데이터 파이프라인을 운영하는 법](https://docs.google.com/presentation/d/1_v-f5B67v-hcmEbltLEfjSS5MKKctztdAGZzEHs2DPM)
 * [Serverless Programmable Voice](https://www.slideshare.net/mooyoul/serverless-programmable-voice)
-* [아빠 왜 집에서 일해요? (feat. aws)](http://totuworld.github.io/2019/01/09/aws-beanstalk/)
-  * Elastic Beanstalk에서 node.js의 dev와 prod 환경에서 version 차이로 인한 오류 해결 이야기
 * [AWS, 몽고DB 호환 아마존 도큐먼트DB 발표](https://www.44bits.io/ko/post/news--aws-announce-mongodb-compatible-documentdb)
 * AWS - Direct Connect
   * [Part 1](http://zigispace.net/986)
@@ -714,6 +695,28 @@ AWS
 * [Amazon EKS 업그레이드 - 유정열(당근마켓) , ECS와 컨테이너화 및 운영 - 김지민(AWS) :: 제20회 AWSKRUG Container모임 - YouTube](https://www.youtube.com/watch?v=BM8otOWxLO8)
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
   * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
+
+# Elastic Beanstalk
+* [한종원 : Daily Continuous Deployment를 위한 custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](https://www.youtube.com/watch?v=dEu24HJpuSI)
+  * [Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800)
+* [Elastic Beanstalk Developer Guide](https://github.com/awsdocs/aws-elastic-beanstalk-developer-guide/)
+* [How to deploy a Node.js app to the AWS Elastic Beanstalk](https://medium.freecodecamp.org/how-to-deploy-a-node-js-app-to-the-aws-elastic-beanstalk-f150899ed977)
+* [아빠 왜 집에서 일해요? (feat. aws)](http://totuworld.github.io/2019/01/09/aws-beanstalk/)
+  * Elastic Beanstalk에서 node.js의 dev와 prod 환경에서 version 차이로 인한 오류 해결 이야기
+* [Travis CI와 AWS ElasticBeanstalk 연동하기](http://jojoldu.tistory.com/317)
+* AWS Beanstalk을 이용한 성능 튜닝 시리즈
+  * [1. DB Connection Pool](http://jojoldu.tistory.com/318)
+  * [2. 커널 파라미터 튜닝](http://jojoldu.tistory.com/319)
+  * [3. Nginx 튜닝](http://jojoldu.tistory.com/322)
+  * [4. 기타](http://jojoldu.tistory.com/323)
+* [Elastic Beanstalk로 Next.js 앱 배포하기](https://blog.rhostem.com/posts/2019-09-01-deploy-next-app-to-eb)
+* [AWS ElasticBeanstalk (빈스톡) 삭제 실패시 처리 방안](https://jojoldu.tistory.com/479)
+* [AWS Beanstalk Linux2 에서 Nginx 설정이 안될때](https://jojoldu.tistory.com/541)
+* [1. Github Action & AWS Beanstalk 배포하기 - Github Action으로 빌드하기](https://jojoldu.tistory.com/543)
+* [2. Github Action & AWS Beanstalk 배포하기 - profile=local로 배포하기](https://jojoldu.tistory.com/549)
+* [elastic beanstalk Amazon Linux2 python 환경 마이그레이션 후기 | by Juneseok Byun | Hard Boiled Smith Stories | May, 2021 | Medium](https://medium.com/hbsmith/elastic-beanstalk-amazon-linux2-python-%ED%99%98%EA%B2%BD-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%9B%84%EA%B8%B0-96fe21370d84)
+* [AWS Elastic Beanstalk Amazon Linux2 환경에서의 로그 커스터마이징 (Amazon Cloudwatch & EB Web Console) | by Juneseok Byun | Hard Boiled Smith Stories | May, 2021 | Medium](https://medium.com/hbsmith/aws-elastic-beanstalk-amazon-linux2-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EB%A1%9C%EA%B7%B8-%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95-amazon-cloudwatch-eb-web-console-1dcb9cc79316)
+* [AWS Elastic Beanstalk - 인프라 운영 부담 없는 코드 기반 배포 서비스 :: 5분 클라우드 데모 - YouTube](https://www.youtube.com/watch?v=gPEHFx_DlII)
 
 # EMS
 * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr)
