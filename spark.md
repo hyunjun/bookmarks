@@ -636,6 +636,7 @@
   * [Demystifying Delta Lake. Data Brew | Episode 3 - YouTube](https://www.youtube.com/watch?v=Zws7u9DC5SE)
   * [Delta Lake on Databricks Demo - YouTube](https://www.youtube.com/watch?v=BMO90DI82Dc)
   * [Make Reliable ETL Easy on Delta Lake - YouTube](https://www.youtube.com/watch?v=1AotjGNLo3Q)
+  * [Building Lakehouses on Delta Lake with SQL Analytics Primer - YouTube](https://www.youtube.com/watch?v=n9cRw6AkNDQ)
 * [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)
 * EMR
   * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
