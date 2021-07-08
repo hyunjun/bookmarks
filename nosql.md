@@ -76,6 +76,7 @@ NoSQL
 * [Store Semantic Web Triples into Cassandra](https://blog.knoldus.com/2017/11/22/store-semantic-web-triples-into-cassandra/)
 * [How Discord Stores Billions of Messages](https://blog.discordapp.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
 * [Cassandra scala client](https://medium.com/rahasak/cassandra-scala-client-d50ebd5a9723)
+* [Change Data Capture for Distributed Databases @Netflix - YouTube](https://www.youtube.com/watch?v=Z4Gx7SP1E14) Cassandra + Kafka + Flink / HTAP (hybrid transaction and analytic processing) databases
 * [Doradus is a REST service that extends a Cassandra NoSQL database with a graph-based data model](https://github.com/dell-oss/Doradus)
 * [legacy - A light weight Cassandra backup utility](https://github.com/iamthemovie/legacy)
 * Phantom - Reactive type-safe Scala driver for Apache Cassandra/Datastax Enterprise
