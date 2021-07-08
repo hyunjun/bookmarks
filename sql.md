@@ -278,6 +278,7 @@ SQL
 * [Streaming backups in parallel using tee | DBA Dojo](https://dbadojo.com/2020/09/02/streaming-backups-in-parallel-using-tee/)
 * [팁 MariaDB 사용자별 최대 쿼리 실행 시간 다르게 주기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/tip-mariadb-max-statement-time-per-user)
 * [Logging all MariaDB and MySQL queries into the Slow Log - Vettabase](https://vettabase.com/blog/logging-all-mariadb-and-mysql-queries-into-the-slow-log/)
+* [마리아DB 파티션 테이블+자동 증가 칼럼 대박 버그 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%EB%A7%88%EB%A6%AC%EC%95%84DB-%ED%8C%8C%ED%8B%B0%EC%85%98-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9E%90%EB%8F%99-%EC%A6%9D%EA%B0%80-%EC%B9%BC%EB%9F%BC-%EB%8C%80%EB%B0%95-%EB%B2%84%EA%B7%B8)
 * [Authentication Plugin - Unix Socket](https://mariadb.com/kb/en/authentication-plugin-unix-socket/)
 * [ClustrixDB](https://mariadb.com/products/clustrixdb/) distributed RDB
 * Galera [DIAMANTI Use Case : MariaDB with Galera Cluster | by Simon.kim | Mar, 2021 | Medium](https://knk1034.medium.com/diamanti-use-case-mariadb-with-galera-cluster-f921402ff282)
