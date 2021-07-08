@@ -610,6 +610,8 @@ Vision
 * [Machine Learning Attack Series: Image Scaling Attacks · wunderwuzzi blog](https://embracethered.com/blog/posts/2020/husky-ai-image-rescaling-attacks/)
 * [Dance on Human Pose Estimation Using Artificial Intelligence - Genial Code](https://genial-code.com/dance-on-human-pose-estimation-using-artificial-intelligence/)
 * [Dominating an Online Game with Object Detection Using OpenCV - Template Matching. - YouTube](https://www.youtube.com/watch?v=vXqKniVe6P8)
+* [점자만으로 동영상 만들기](https://blog.chosunghyun.com/kr-video-braille-pattern-stream/)
+  * [anaclumos/video-in-dots: Tools: Video to Braille Subtitles](https://github.com/anaclumos/video-in-dots)
 * [box-visualizer: Make drawing and labeling bounding boxes easy as cake](https://github.com/shoumikchow/bbox-visualizer)
 * [genetic-drawing: A genetic algorithm toy project for drawing](https://github.com/anopara/genetic-drawing)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
