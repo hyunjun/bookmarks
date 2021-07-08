@@ -304,3 +304,4 @@
 * [An introduction to context-oriented programming in Kotlin | by Alexander Nozik | ProAndroidDev](https://proandroiddev.com/an-introduction-context-oriented-programming-in-kotlin-2e79d316b0a2)
 * [interview-at-some-company](https://github.com/wooseopkim/interview-at-some-company)
 * [(완결) 디모의 Kotlin 강좌 - YouTube](https://www.youtube.com/playlist?list=PLQdnHjXZyYadiw5aV3p6DwUdXV2bZuhlN)
+* [코틀린(Kotlin), 꼭 해야하나요? - 박상권의 삽질블로그](https://gun0912.tistory.com/81)
