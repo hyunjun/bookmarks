@@ -324,6 +324,7 @@ Business
 * [회사가 말해주지 않는 승진의 비밀 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241768)
 * [회사 성과는 좋았는데, 인센티브는 왜 이 정도? | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/why-this-is-incentives/)
 * [좋은 제품관리자 vs 나쁜 제품관리자](https://brunch.co.kr/@graypool/72)
+* [좋은 야구선수와 좋은 기업의 공통점 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240553)
 
 # 채용
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
@@ -561,6 +562,7 @@ Business
   * [상급자책임 - 위키백과, 우리 모두의 백과사전](https://ko.wikipedia.org/wiki/%EC%83%81%EA%B8%89%EC%9E%90%EC%B1%85%EC%9E%84)
 * [리더의 무례함은 대가를 치른다 | 리더십 | DBR](https://dbr.donga.com/article/view/1306/article_no/10071/ac/a_list)
 * [홍석환의 인사 잘하는 남자 직원을 성장시키는 3가지 방법 | 한경닷컴](https://www.hankyung.com/thepen/lifeist/article/202106110895Q)
+* [리더는 어떤 사람이해야 하는 걸까](https://brunch.co.kr/@jidesign/72)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
