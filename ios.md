@@ -99,7 +99,6 @@ iOS
 * [iOS 14.5 - 좌충우돌 앱 추적 투명성(App Tracking Transparency) 적용기](https://www.androidhuman.com/2021-04-28-ios_att_explainer)
 * [All Your Macs Are Belong To Us : Objective-See](https://objective-see.com/blog/blog_0x64.html)
 * [iOS에서의 Audio Session](https://wlaxhrl.tistory.com/92)
-* [How to Download iOS Simulator (Xcode) in Command Line and Install it](https://gist.github.com/NicholasTD07/3ffbaee9973ae06b5a12)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
@@ -109,7 +108,6 @@ iOS
   * [Appium 사용기 – IOS swift app UI 테스트](https://domich.wordpress.com/2017/04/19/appium-%EC%82%AC%EC%9A%A9%EA%B8%B0-ios-swift-app-ui-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
   * [테스트 자동화 프레임워크 - appium 도입](https://jybaek.tistory.com/873)
 * [AppStarterbeta - Build native iOS prototypes online](https://appstarter.io/)
-* [blade - Generate XCode image catalogs for iOS / OSX app icons, universal images, and more](https://github.com/jondot/blade)
 * [CocoaPods.org](https://cocoapods.org/)
   * [CocoaPods 설치 및 Pod 설치](http://blog.yagom.net/534)
   * [cocoapods-binary-cache](https://github.com/grab/cocoapods-binary-cache)
@@ -139,9 +137,6 @@ iOS
 * [researchkit - Introducing ResearchKit](http://researchkit.github.io/index.html)
 * [sudo-touchid - A fork of `sudo` with Touch ID support](https://github.com/mattrajca/sudo-touchid)
 * [TLPhotoPicker - application to pick images and videos from multiple smart album in iOS, similar to the current facebook app](https://github.com/tilltue/TLPhotoPicker)
-* Tuist [Xcode on steroids | Tuist](https://tuist.io/)
-  * [Xcode 프로젝트 관리를 위한 Tuist 사용해보기 | Medium](https://okanghoon.medium.com/xcode-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-tuist-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-6a92950780be)
-  * [XcodeGen 에서 Tuist 로 전환하기 | Medium](https://okanghoon.medium.com/xcodegen-%EC%97%90%EC%84%9C-tuist-%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-3f0156e0c2ea)
 * [vftool: A simple macOS Virtualisation.framework wrapper](https://github.com/evansm7/vftool)
 * [크로스 플랫폼 자마린(Xamarin) 으로 allb앱 출시하기까지](http://cafe.naver.com/mcbugi/337885)
 
@@ -531,6 +526,7 @@ iOS
 * [CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 
 # Xcode
+* [How to Download iOS Simulator (Xcode) in Command Line and Install it](https://gist.github.com/NicholasTD07/3ffbaee9973ae06b5a12)
 * [UI Testing in Xcode 7](http://masilotti.com/ui-testing-xcode-7/)
 * [Xcode Scheme Tips](http://littlebitesofcocoa.com/post/127245666487/65-xcode-scheme-tips)
 * [target overrides the `ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES` build setting 오류 해결](https://blog.asamaru.net/2017/04/11/target-overrides-the-always-embed-swift-standard-libraries-build-setting/)
@@ -539,7 +535,12 @@ iOS
 * [How to Setup C++ on Mac](https://www.youtube.com/watch?v=1E_kBSka_ec)
 * [앱 실행 중 갑자기 멈출 때 확인할 것!](https://blog.yagom.net/%EC%95%B1-%EC%8B%A4%ED%96%89-%EC%A4%91-%EA%B0%91%EC%9E%90%EA%B8%B0-%EB%A9%88%EC%B6%9C-%EB%95%8C-%ED%99%95%EC%9D%B8%ED%95%A0-%EA%B2%83/)
 * ['Xcode에서 'Unsupported OS version' 문제 해결하기](https://www.androidhuman.com/2021-04-26-xcode_unsupported_os_version)
-* [CoPilot – Collaborative editing for Xcode](http://feinstruktur.com/copilot/)
-* [luft - The Xcode Plugin that helps you write lighter view controllers https://github.com/k0nserv/luft](https://github.com/k0nserv/luft)
 * [안녕 XcodeGen](https://pilgwon.github.io/post/hello-xcodegen)
 * [Xcode 프로젝트 내부 경로 관리](https://medium.com/@jungkim/xcode-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%82%B4%EB%B6%80-%EA%B2%BD%EB%A1%9C-%EA%B4%80%EB%A6%AC-b5e00f2a114a)
+* [Xcode Pro 처럼 빌드환경 세팅하기](https://xtring-dev.tistory.com/entry/iOS-Xcode-Pro-%EC%B2%98%EB%9F%BC-%EB%B9%8C%EB%93%9C%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0)
+* [blade - Generate XCode image catalogs for iOS / OSX app icons, universal images, and more](https://github.com/jondot/blade)
+* [CoPilot – Collaborative editing for Xcode](http://feinstruktur.com/copilot/)
+* [luft - The Xcode Plugin that helps you write lighter view controllers https://github.com/k0nserv/luft](https://github.com/k0nserv/luft)
+* Tuist [Xcode on steroids | Tuist](https://tuist.io/)
+  * [Xcode 프로젝트 관리를 위한 Tuist 사용해보기 | Medium](https://okanghoon.medium.com/xcode-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-tuist-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-6a92950780be)
+  * [XcodeGen 에서 Tuist 로 전환하기 | Medium](https://okanghoon.medium.com/xcodegen-%EC%97%90%EC%84%9C-tuist-%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-3f0156e0c2ea)
