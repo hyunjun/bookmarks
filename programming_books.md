@@ -1698,6 +1698,7 @@ Programming Books
   * 한라 005.13-오24프
 * 스칼라로 배우는 함수형 프로그래밍
   * 한라 005.13-키66ㅎ
+  * [5 Key Lessons from Functional Programming in Scala - Sandro Maglione](https://www.sandromaglione.com/functional-programming-5-key-lessons-functional-programming-in-scala/)
 * (NOT YET) 스칼라 동시성 프로그래밍 : 복잡한 동시성 프로그램을 스칼라로 쉽게 개발하는 방법
   * 한라 005.133-프295ㅅ
 * (한라 취소됨) [누구나 쉽게 스칼라+플레이스칼라 입문부터 게시판, 채팅 프로그램 제작까지](http://book.daum.net/detail/book.do?bookid=KOR9788968484728)
