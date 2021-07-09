@@ -396,10 +396,11 @@ Scala
 * [Reactive Architecture with Play, Akka, and Scala - Henrik Engstrom (Typesafe)](https://www.youtube.com/watch?v=ksSgjQ_Ye9c)
 * [Introduction to Reactive: A Hands-on Workshop with Play and Akka](https://www.youtube.com/watch?v=rfGzllkpCaw)
 * [Introduction to Akka by Yannick De Turck](https://www.youtube.com/watch?v=_nk5rnlRQ8E)
+* [Scala and Akka: An Introduction](https://medium.com/coderlawyer/scala-and-akka-an-introduction-cdf3476d0fc6)
+* [Gentle introduction to Akka with Scala - YouTube](https://www.youtube.com/watch?v=RfKxoW8HQUY)
 * [Technology Hour - Implementing the Reactive Manifesto with Akka - Adam Warski](https://www.youtube.com/watch?v=LXEhQPEupX8)
 * [A tour of the (advanced) Akka features in 60 minutes by Johan Janssen](https://www.youtube.com/watch?v=4sP8v9lM6Kw)
 * [Event-Sourced Architectures with Akka](https://www.youtube.com/watch?v=gvsRl6xZiiE)
-* [Scala and Akka: An Introduction](https://medium.com/coderlawyer/scala-and-akka-an-introduction-cdf3476d0fc6)
 * [Learning Akka Tutorial](https://www.youtube.com/playlist?list=PLTgRMOcmRb3O_bU_p12FTYS7mEYeyzZ6G)
 * [Resilient Applications with Akka Persistence](https://www.youtube.com/watch?v=qqNsGomfabc)
 * [Up, Up, and Out: Scaling Software with Akka](https://www.youtube.com/watch?v=GBvtE61Wrto)
@@ -897,6 +898,7 @@ Scala
     * [Part 1 - What is ZIO and should you learn it? - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=XwMKw03w8bs)
     * [Part 2 - `ZIO[_, _, Success]` - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=7MNY0o2i_vg)
     * [Part 3 - `ZIO[_, Error, _]` & Variance - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=oKaQXxEa7a8)
+    * [Part 4 - `ZIO[Env, _, _]` - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=e1kIjiWHVhE)
     * [ZIO News - Issue #28 | Revue](https://www.getrevue.co/profile/zio/issues/zio-news-issue-28-654279)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
@@ -1232,6 +1234,7 @@ Scala
     * [Programs as Values, Part II : Doing & Being](https://systemfw.org/posts/programs-as-values-II.html)
     * [Programs as Values, Part III: Explicit Control Flow](http://systemfw.org/posts/programs-as-values-III.html) cats.effetcs.IO
     * [herding cats — Effect system](https://eed3si9n.com/herding-cats/effect-system.html)
+    * [Supervisor | Background processing in functional Scala #3 - YouTube](https://www.youtube.com/watch?v=-zr1cCWf4iI)
   * [Cats Parse](https://slides.com/lewisjkl/cats-parse)
     * [SF Scala: Introduction to Cats Parse By Jeff Lewis - YouTube](https://www.youtube.com/watch?v=wreCg30pyts)
     * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=cIsITBqUVlI) refined type, cats.parse
@@ -1406,6 +1409,7 @@ Scala
   * [sttp2: an overview of proposed changes](https://blog.softwaremill.com/sttp2-an-overview-of-proposed-changes-8de23c94684f)
   * [What’s coming up in sttp client 3? | by Adam Warski | Sep, 2020 | SoftwareMill Tech Blog](https://blog.softwaremill.com/whats-coming-up-in-sttp-client-3-30d01ab42d1b)
   * [sttp client 3 is here!. What’s new in the latest stable release… | by Adam Warski | Jan, 2021 | SoftwareMill Tech Blog](https://blog.softwaremill.com/sttp-client-3-is-here-bb9ebe925931)
+  * sttp-oauth2 [OAuth2 Scala application with sttp-oauth2, part 1 - Dev notes](https://blog.michalp.net/posts/scala/oauth2-app-p1/)
 * [Syto - Digital Signal Processing library for Scala](https://github.com/SashkoTar/syto)
   * [Syto — pure Scala library for filter design/implementation and digital signal processing](https://medium.com/@cupreous.bowels/syto-pure-scala-library-for-filter-design-implementation-and-digital-signal-processing-1916626b9de4)
 * [teleport-scala A native CLI in Scala to quickly move through the filesystem](https://github.com/note/teleport-scala)
@@ -1416,6 +1420,7 @@ Scala
 * [wire-signals: A small and effective event-handling library for Scala](https://github.com/wireapp/wire-signals) reactive
   * [Wire Signals - Yet Another Event Streams Library - YouTube](https://www.youtube.com/watch?v=IgKjd_fhM0M)
   * [Wire Signals: Yet Another Event Streams Library by Maciek Gorywoda - YouTube](https://www.youtube.com/watch?v=tSj3ZEEsKyk)
+  * [Wire Signals. Yet Another Event Streams Library | by Maciek Gorywoda | The Startup | Medium](https://medium.com/swlh/wire-signals-81918bbcc07f)
 
 ## Library Build
 * [A quick tour of build tools in Scala](https://manuel.bernhardt.io/2018/04/19/quick-tour-build-tools-scala/)
@@ -1823,6 +1828,7 @@ Scala
 * [Publish Scala 2 and Scala 3 macros together · MUnit](https://scalameta.org/munit/blog/2021/01/05/macromix.html)
 * [TASTY way of (re)writing macros in Scala 3 | by Kacper Korban | VirtusLab | Apr, 2021 | Medium](https://medium.com/virtuslab/tasty-way-of-re-writing-macros-in-scala-3-3ce704a2c37c)
 * [Scala 3 macros tips & tricks](https://softwaremill.com/scala-3-macros-tips-and-tricks/)
+* [Scala 3: Macros. Last time I introduced one of the new… | by Dean Wampler | Scala 3 | Jul, 2021 | Medium](https://medium.com/scala-3/scala-3-macros-d63dd6811f89)
 * [IMPORT SUGGESTIONS IN SCALA 3](https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html)
 * [Announcing the Moving from Scala 2 to Scala 3 course – Lunatech](https://www.lunatech.com/2020/06/announcing-the-moving-from-scala-2-to-scala-3-course/)
   * [lunatech-scala-2-to-scala3-course/exercises](https://github.com/lunatech-labs/lunatech-scala-2-to-scala3-course/tree/exercises-master/exercises)
