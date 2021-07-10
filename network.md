@@ -57,6 +57,7 @@ Network
 * [네트워크 연결 테스트와 ping? :: neozest : neo+zest](https://www.neozest.com/entry/testingnetworkconnectionviapingICMP)
 * [포트 포워딩이란? – Lamanus' Archive](https://lamanus.kr/59)
 * [**Boosting Dropbox upload speed—and making Windows’ TCP stack resilient to network reordering - Dropbox**](https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed#microsofts-long-term-fix)
+* TFO [TCP Fast Open? Not so fast! | APNIC Blog](https://blog.apnic.net/2021/07/05/tcp-fast-open-not-so-fast/)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
