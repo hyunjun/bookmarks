@@ -235,6 +235,7 @@ Web
 * [더북(TheBook): 모두의 HTML5 & CSS3](https://thebook.io/006943/)
 * [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
 * [web-service-hardening](https://www.gitbook.com/book/lesstif/web-service-hardening/)
+* [Web Browser Engineering](https://browser.engineering/index.html)
 
 # C++
 * [Cheerp 1.1 - C++ for the Web with fast startup times, dynamic memory and now, more speed!](http://leaningtech.com/cheerp/blog/2015/06/17/Cheerp-1.1/)
@@ -358,6 +359,8 @@ Web
 * [Searching the web for \< $1000 / month | Search more with less](https://quickwit.io/blog/commoncrawl/)
 * [Web_Scrapping_python_for_begginers | Kaggle](https://www.kaggle.com/vithal2311/web-scrapping-python-for-begginers)
 * [python 인스타그램 크롤러 or 스크래퍼 : 네이버 블로그](https://blog.naver.com/vwjdalsgkv/222370775182)
+* [Scrape YouTube Search with Python (part 1) | by Dimitry Zub | Geek Culture | Jun, 2021 | Medium](https://medium.com/geekculture/scrape-youtube-search-with-python-part-1-7521a0f40315)
+* [Scrape YouTube Search with Python (part 2) | by Dimitry Zub | Geek Culture | Jun, 2021 | Medium](https://medium.com/geekculture/scrape-youtube-search-with-python-part-2-285699904bd5)
 * [AutoCrawler - Google, Naver multiprocess image crawler (High Quality & Speed & Customizable)](https://github.com/YoongiKim/AutoCrawler)
 * [**Beautiful Soup**](http://www.crummy.com/software/BeautifulSoup/)
   * [practice - beautiful soup](https://github.com/hyunjun/practice/blob/master/python/crawl_korean_go_kr.py)
