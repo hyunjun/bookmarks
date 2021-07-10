@@ -129,7 +129,7 @@ Java
 * [9 Java low latency interview questions & answers with lots of diagrams](https://www.java-success.com/writing-low-latency-applications-in-java/)
 * [코드라떼 자바 - 메모리 모델 기초 - YouTube](https://www.youtube.com/watch?v=m9lv_Zt7otk) memory model
 * [코드라떼 자바 - Call By Value, 값에 의한 호출 - YouTube](https://www.youtube.com/watch?v=Vd1C3-wHc4Y)
-* [Java is criminally underhyped](https://jackson.sh/posts/2021-04-java-underrated/?s=09)
+* [Java is criminally underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
 * [Starting Fast: Investigating Java's Static Compilation Landscape - YouTube](https://www.youtube.com/watch?v=ry8O4HooIBI)
 
 # API
@@ -789,6 +789,8 @@ Java
 * [How to Write Unmaintainable (But Wicked Fast!) Code on the JVM by John A. De Goes - YouTube](https://www.youtube.com/watch?v=k6GBKaG2MpQ)
 * [🚀 Visualizing memory management in JVM(Java, Kotlin, Scala, Groovy, Clojure) | Technorage](https://deepu.tech/memory-management-in-jvm/)
 * [Demystifying Java Virtual Machine Memory Management | foojay](https://foojay.io/today/demystifying-jvm-memory-management/)
+* [JVM Ecosystem Report 2021 | Snyk](https://snyk.io/jvm-ecosystem-report-2021/)
+  * [JVM 에코시스템 보고서 2021 | GeekNews](https://news.hada.io/topic?id=4579)
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
   * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics](https://micrometer.io/)
@@ -1032,6 +1034,7 @@ Java
   * [Prometheus와 Grafana를 활용한 Jenkins 모니터링 및 Alarm 구현 | by MUSINSA tech | Medium | MUSINSA tech](https://medium.com/musinsa-tech/sre-fe8c7edfb772)
   * [How a Jenkins Job Broke our Jenkins UI - Slack Engineering](https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/)
   * [iOS 플랫폼의 Jenkins CI 환경 구축하기 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/5706/)
+  * [Devops 2021: The best Jenkins Plugins to have in 2021 | by DevopsCurry | DevopsCurry | Medium](https://medium.com/devopscurry/devops-2021-the-best-jenkins-plugins-to-have-in-2021-b015189a19b5)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
   * [practice - install java11 using jenv](https://gist.github.com/hyunjun/88ad5a8172acf4801c903980ecba074e)
   * [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
