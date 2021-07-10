@@ -102,7 +102,6 @@ App
 * [myDrive](https://mydrive-storage.com/)
   * [myDrive - 오픈소스 구글 드라이브 클론 | GeekNews](https://news.hada.io/topic?id=3940)
 * [Nik 컬렉션](https://www.google.com/nikcollection/)
-* [Obsidian - A second brain, for you, forever](https://obsidian.md/)
 * [Oven - 크리에이티브 프로젝트를 위한 세계에서 가장 진보된 온라인 프로토타이핑 툴](https://ovenapp.io/)
 * [Paintbrush](https://sourceforge.net/projects/paintbrush)
   * [맥에는 '그림판'이 없나요? 무료로 쓸 수 있는 맥용 스케치∙드로잉 프로그램 3가지](http://macnews.tistory.com/4173)
@@ -408,6 +407,8 @@ App
   * [Excalidraw - 오픈소스 가상 칠판 협업도구 | GeekNews](https://news.hada.io/topic?id=4234)
 * [makepagecall.com/](https://www.makepagecall.com/) 화상 통화 + canvas(칠판)
 * [Nettu Meet - 온라인 강의를 위한 오픈소스 화상 회의 시스템 | GeekNews](https://news.hada.io/topic?id=4437)
+* [Strive](https://www.openstrive.org/)
+  * [Strive - 오픈소스 화상 회의 플랫폼 | GeekNews](https://news.hada.io/topic?id=4524)
 * [wire](https://wire.com/) skype alternative
 
 # Cowork
@@ -572,6 +573,7 @@ App
     * [Developing inside a Container](https://code.visualstudio.com/docs/remote/containers)
     * [Developing in WSL](https://code.visualstudio.com/docs/remote/wsl)
     * [Getting Started with Java in Visual Studio Code](https://code.visualstudio.com/docs/java/java-tutorial)
+    * [Visual Studio Code Boosts Java IDE Capabilities](https://www.infoq.com/news/2021/07/visual-studio-code-java-ide/)
     * [VS CODE를 웹 상에 띄워놓고 어디서든 코딩하기](https://eungbean.github.io/2019/11/04/remote-vscode/)
     * [You can now try Microsoft’s web-based version of Visual Studio](https://techcrunch.com/2019/11/04/you-can-now-try-microsofts-web-based-version-of-visual-studio/)
     * [VS Code로 컨테이너 안에서 개발하기](https://medium.com/@ssowonny/vs-code%EB%A1%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%EC%95%88%EC%97%90%EC%84%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-d8ed0950d69a)
@@ -597,6 +599,7 @@ App
     * [VS Code’s REST Client Plugin is All You Need to Make API Calls | by Paige Niedringhaus | Oct, 2020 | Bits and Pieces](https://blog.bitsrc.io/vs-codes-rest-client-plugin-is-all-you-need-to-make-api-calls-e9e95fcfd85a)
     * [VSCode 온라인 IDE - YouTube](https://www.youtube.com/watch?v=ch5OvYKnmUc)
     * [21 VSCode Shortcuts To Code Faster and Funner – JSManifest](https://jsmanifest.com/21-vscode-shortcuts-to-code-faster-and-funner/)
+    * [11 Useful VSCode Keyboard Shortcuts | Medium](https://jstutorial.medium.com/11-useful-vscode-keyboard-shortcuts-d171c37aa963)
     * [Foam | A personal knowledge management and sharing system for VSCode](https://foambubble.github.io/foam/) knowledge graph
     * [VS Code Productivity Tips and Tricks - YouTube](https://www.youtube.com/watch?v=lSvP2ahPojg)
     * [VSCode에서 정규표현식(Regex)로 원하는 문자열 치환하기](https://jojoldu.tistory.com/555)
@@ -694,6 +697,7 @@ App
   * [kakoune - mawww's experiment for a better code editor](https://github.com/mawww/kakoune)
 * [Micro - a modern and intuitive terminal-based text editor](https://micro-editor.github.io/)
 * [nuclide - Building Nuclide, a unified developer experience](https://code.facebook.com/posts/397706937084869/)
+* [Onivim 2 - Modal Editing from the Future](https://v2.onivim.io/)
 * Sublime Text
   * [MonokaiJsonPlus - Sublime's Monokai Theme with Beautiful Colored JSON https://www.colibriapps.com](https://github.com/colibriapps/monokaiJsonPlus)
   * [Sublime Text 3 for python and django](http://www.slideshare.net/raccoonyy/sublime-text-3-for-python-and-django)
@@ -1018,6 +1022,7 @@ App
 * [Faster and enjoyable ZSH (maybe) • htr3n's](https://htr3n.github.io/2018/07/faster-zsh/)
 * [4 steps to customizing your Mac terminal theme with open source tools | Opensource.com](https://opensource.com/article/21/4/zsh-mac)
 * [zsh + oh-my-zsh(omz) 설치 및 세팅](https://devbull.xyz/zsh-oh-my-zsh-setup/)
+* [Faster and enjoyable ZSH (maybe) • htr3n's](https://htr3n.github.io/2018/07/faster-zsh/)
 * [4 Simple Steps To Create An Awesome Terminal Experience On Your Mac](https://medium.com/tech-explained/4-simple-steps-to-create-an-awesome-terminal-experience-on-your-mac-70bd7a0e1b59)
 * [Make your terminal window pretty on Linux/MacOS with open source based theme tools - YouTube](https://www.youtube.com/watch?v=McaAsw_3C0w)
 * [OS X, Case Sensitive 볼륨을 Case Insensitive 볼륨으로 변경하기](https://elegantcoder.com/osx-convert-volume-case/)
@@ -1333,6 +1338,7 @@ App
 * [Links to URLs containing parentheses](https://meta.stackexchange.com/questions/13501/links-to-urls-containing-parentheses) 주소에 괄호 넣기. 한글은 이걸로 안 됨
 * [Master Markdown in Ten Minutes](https://medium.com/better-programming/master-markdown-in-ten-minutes-ce9721c51eb)
 * [Stop Using Markdown For Documentation](https://mister-gold.pro/posts/en/asciidoc-vs-markdown/) asciidoc
+* [Compare AsciiDoc and Markdown :: Asciidoctor Docs](https://docs.asciidoctor.org/asciidoc/latest/asciidoc-vs-markdown/)
 * [When Markdown Meets Tables](https://blog.documentnode.io/when-markdown-meets-tables)
 * [6 Things Markdown Got Wrong](https://www.swyx.io/writing/markdown-mistakes/)
 * [Markdown: Aplicando na prática os comandos aprendidos na linguagem Markdown](https://github.com/JosephDaCosta/Markdown)
@@ -1353,6 +1359,7 @@ App
 * [markdowntopdf.com](http://www.markdowntopdf.com/)
 * [marp - Markdown Presentation Ecosystem](https://marp.app/)
 * mdjs [Introducing mdjs](https://medium.com/better-programming/introducing-mdjs-6bedba3d7c6f)
+* [Obsidian - A second brain, for you, forever](https://obsidian.md/)
 * [**prose.io**](http://prose.io) github
 * [**readme.so - Easiest Way to Create A README**](https://readme.so/)
 * sokuricat [소쿠리캣 - 마크다운으로 글쓰는 고양이](https://sokuricat.com/)
@@ -1379,6 +1386,7 @@ App
   * [How To : 엑셀에서 종속적 드롭다운 목록 만드는 방법](http://www.itworld.co.kr/news/151189)
   * [How To Find And Replace Multiple Text Strings Within A Text String | How To Excel](https://www.howtoexcel.org/vba/how-to-find-and-replace-multiple-text-strings-within-a-text-string/)
   * [회사 내 애로사항 및 개선점 응답 데이터 (from 직원 대상 익명 설문조사) 취합 및 처리하기 · Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io Wiki](https://github.com/Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io/wiki/%ED%9A%8C%EC%82%AC-%EB%82%B4-%EC%95%A0%EB%A1%9C%EC%82%AC%ED%95%AD-%EB%B0%8F-%EA%B0%9C%EC%84%A0%EC%A0%90-%EC%9D%91%EB%8B%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-(from-%EC%A7%81%EC%9B%90-%EB%8C%80%EC%83%81-%EC%9D%B5%EB%AA%85-%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC)-%EC%B7%A8%ED%95%A9-%EB%B0%8F-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
+  * [알아두면 유용한 윈도우 및 맥용 엑셀 단축키 - CIO Korea](https://www.ciokorea.com/news/199979)
   * [LAMBDA: The ultimate Excel worksheet function - Microsoft Research](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
 * Google sheet
   * [Google Sheet 로 몸무게를 기록하자](https://jusths.tistory.com/144) bar chart
