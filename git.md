@@ -418,6 +418,8 @@ Git
   * [git commit author 변경 (커밋 작성자 변경하기)](https://madplay.github.io/post/change-git-author-name)
   * [Commits are snapshots, not diffs - The GitHub Blog](https://github.blog/2020-12-17-commits-are-snapshots-not-diffs/)
   * [Conventional Commits](https://www.conventionalcommits.org/ko/v1.0.0-beta.4/)
+  * [Commit Often, Perfect Later, Publish Once—Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
+  * [Things I wish Git had: Commit groups](http://blog.danieljanus.pl/2021/07/01/commit-groups/)
   * [Commitizen](https://github.com/commitizen)
     * [Commitizen으로 커밋, 버전 관리하기](https://dailyheumsi.tistory.com/266)
 * `config`
@@ -545,6 +547,7 @@ Git
     ```
     * `git lg`, `git lg -p` 변경사항 포함, `git lga` branch까지 함께
   * [Git 커밋 히스토리를 출력할 때 꿀팁](https://blog.naver.com/codeitofficial/221944918052)
+  * [When it comes to git history, less is more • Stephen Brennan](https://brennan.io/2021/06/15/git-less-is-more/)
 * merge
   * [How to "Merge" Specific Files from Another Branch](http://jasonrudolph.com/blog/2009/02/25/git-tip-how-to-merge-specific-files-from-another-branch/)
   * `git merge --no-commit --no-ff <name>` [Is there a git-merge --dry-run option?](http://stackoverflow.com/questions/501407/is-there-a-git-merge-dry-run-option)
