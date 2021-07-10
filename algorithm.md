@@ -146,6 +146,7 @@ Algorithm
 * [Python으로 시작하는 알고리듬](https://www.holaxprogramming.com/2017/12/29/algorithms-learning-strategy/)
 * [All Algorithms implemented in Python](https://www.techleer.com/articles/560-all-algorithms-implemented-in-python/)
 * [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/static/pythonds/index.html)
+* [research!rsc: Version SAT](https://research.swtch.com/version-sat) Dependency hell is NP-complete
 * [P-NP, NP Hard, NP Complete](http://inverse90.tistory.com/m/entry/PNP-NP-Hard-NP-Complete)
 * [P-NP 에 대하여](https://jusths.tistory.com/122)
 * [난제 PNP 문제 - YouTube](https://www.youtube.com/watch?v=nxbufH4JnpA)
