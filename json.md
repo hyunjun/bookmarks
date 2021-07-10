@@ -105,6 +105,7 @@ Json
 * [JSON Web Token Tutorial with Example in Python](https://blog.apcelent.com/json-web-token-tutorial-with-example-in-python.html)
 * [“JWT Authorization in Python, Part 1: Practise.”](https://steelkiwi.com/blog/jwt-authorization-python-part-1-practise/)
 * [“JWT authorization in Python, Part 2: THEORY.”](https://steelkiwi.com/blog/jwt-authorization-python-part-2-theory/)
+* [How to Handle JWTs in Python](https://auth0.com/blog/how-to-handle-jwt-in-python/)
 * [Django REST framework JWT Auth](https://getblimp.github.io/django-rest-framework-jwt/)
 * [Flask-JWT-login](https://github.com/devArtoria/Flask-JWT-login/)
 * [pyjwt - JSON Web Token implementation in Python https://pyjwt.readthedocs.io ](https://github.com/jpadilla/pyjwt)
