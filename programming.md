@@ -25,6 +25,7 @@ Programming
 * [안녕 프로그래밍](https://holaxprogramming.com/)
   * [github.com/stunstunstun/awesome-wiki](https://github.com/stunstunstun/awesome-wiki)
 * [awesome-philosophy-compsci: A list of resources that cross the disciplines of Computer Science and Philosophy](https://github.com/glennstreet/awesome-philosophy-compsci)
+* [the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more](https://github.com/trimstray/the-book-of-secret-knowledge)
 * [Best-websites-a-programmer-should-visit: Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [**lists - The definitive list of lists (of lists) curated on GitHub**](https://github.com/jnv/lists)
 * 여러가지 주요 언어를 배울 수 있는 다양한 project link
@@ -85,6 +86,7 @@ Programming
 * [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 * [**소프트웨어 설계란 무엇인가?**](https://www.mimul.com/blog/what-is-software-design/) 문서의 중요성을 설명한 92년 글 번역문. 20여년이 지났어도 유효한 좋은 글(그러니 역자도 번역했겠지)
 * [A Philosophy of Software Design | John Ousterhout | Talks at Google - YouTube](https://www.youtube.com/watch?v=bmSAYlu0NcY) 좋은 소프트웨어 디자인을 어떻게 알아보고, 가르치고, 가꿔 나갈지에 대한 이야기
+* [Book Review: A Philosophy of Software Design | Johz Blog](https://johz.bearblog.dev/book-review-philosophy-software-design/)
 * [Analysis & Design · Present](https://present.do/decks/60c21e8267ba0b4949e79f42)
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/)
 * [Getting Started with the Sport of Programming](http://sportprogramming.blogspot.in/2014/07/getting-started-with-sport-of.html)
@@ -389,6 +391,7 @@ Programming
 * [**Hashids - generate short unique ids from integers**](https://hashids.org/) 여러가지 다양한 언어별 github repo 제공
 * [ISO 8601: the better date format | Blog | Kirby Kevinson](https://kirby.kevinson.org/blog/iso-8601-the-better-date-format/)
 * [슬기로운 dooray 생활 - 4년간 한中을 오가며 써온 소감 총정리 | Popit](https://www.popit.kr/%ec%8a%ac%ea%b8%b0%eb%a1%9c%ec%9a%b4-dooray-%ec%83%9d%ed%99%9c-4%eb%85%84%ea%b0%84-%ed%95%9c%e4%b8%ad%ec%9d%84-%ec%98%a4%ea%b0%80%eb%a9%b0-%ec%8d%a8%ec%98%a8-%ec%86%8c%ea%b0%90-%ec%b4%9d%ec%a0%95/) 여러가지 개발 프로세스 관련 이야기
+* [기고 | 효과적인 IT프로세스 구축하기 ‘4가지 전제 조건’ - CIO Korea](https://www.ciokorea.com/news/200264) 프로세스 최적화 지표, SLA
 * [다양한 아기발걸음으로 배우기 | Popit](https://www.popit.kr/%EB%8B%A4%EC%96%91%ED%95%9C-%EC%95%84%EA%B8%B0%EB%B0%9C%EA%B1%B8%EC%9D%8C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EA%B8%B0/)
 * [로블록스: 메타버스의 새벽. Roblox: Dawn of the Metaverse | by Kenial Lee | kokr | Mar, 2021 | Medium](https://medium.com/kokr/%EB%A1%9C%EB%B8%94%EB%A1%9D%EC%8A%A4-%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%EC%9D%98-%EC%83%88%EB%B2%BD-330a56386e34)
 * [2021.03.08 우리가 경험해온 메타버스, 앞으로 만나게 될 메타버스](https://www2.slideshare.net/KiheonShin/20210308-244069379) metaverse
@@ -403,6 +406,8 @@ Programming
   * [구글 디벨로퍼 라이브러리 | GeekNews](https://news.hada.io/topic?id=4303) 구글 기술을 이용한 우수 블로그 글과 오픈소스 프로젝트들 모음
 * [Devbook - Search Engine for Developers](https://usedevbook.com/)
   * [개발자들을 위한 검색 엔진 - Devbook | GeekNews](https://news.hada.io/topic?id=4269)
+* [What is content modeling? | Sanity.io guide](https://www.sanity.io/guides/content-modeling-guide-introduction)
+* [Why is NanoID Replacing UUID?. A Tiny, URL-Friendly Unique String… | by Charuka Herath | Jun, 2021 | Bits and Pieces](https://blog.bitsrc.io/why-is-nanoid-replacing-uuid-1b5100e62ed2)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -478,6 +483,7 @@ Programming
 * [클린 애자일 - 5장 기술 실천 방법](https://jusths.tistory.com/192)
 * [클린 애자일 - 6장 애자일해지기](https://jusths.tistory.com/193)
 * [The Shape of Code » Software effort estimation is mostly fake research](http://shape-of-code.coding-guidelines.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/) agile에 대한 이야기는 아니지만 story point 추정이 생각나 여기 넣어둠
+* [Software Estimation Is Hard. Do It Anyway. - Jacob Kaplan-Moss](https://jacobian.org/2021/may/20/estimation/)
 * [지금… IT개발팀에서 일하는 방식 GS SHOP 고군분투기](https://www.slideshare.net/hnki0104/it-gs-shop)
 * [IDG.tv | 에자일 개발 프로세스 이해하기 한글 자막 - YouTube](https://www.youtube.com/watch?v=5kILHLwE81Q)
 * [스크럼의 진행 과정. ■ 스크럼이란? | by 황선영 | POCS | Medium](https://medium.com/pocs/%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%98-%EC%A7%84%ED%96%89-%EA%B3%BC%EC%A0%95-b6faa13e0e8c)
@@ -858,7 +864,9 @@ Programming
 * [How We Built A Context-Specific Bidding System for Etsy Ads - Code as Craft](https://codeascraft.com/2021/03/23/how-we-built-a-context-specific-bidding-system-for-etsy-ads/)
 * [How image search works at Dropbox - Dropbox](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox)
 * [On-site search design patterns for e-commerce: schema structure, data driven ranking & more](https://project-a.github.io/on-site-search-design-patterns-for-e-commerce/)
+* [Delivering Modern Website Experiences: The Journey to a Content Mesh | Gatsby](https://www.gatsbyjs.com/blog/2018-10-04-journey-to-the-content-mesh/) CMS
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
+* [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
 
 ## Architecture Distributed
@@ -1225,6 +1233,7 @@ Programming
 * [Software Carpentry: 소프트웨어 카펜트리 버젼 5.3.](http://statkclee.github.io/swcarpentry-version-5-3-new/)
 * [Top 5 Contemporary Software Engineering Books](https://medium.com/ki-labs-engineering/top-5-contemporary-software-engineering-books-8b5ca6a28e83)
 * [The 25 best programming books of all-time. A data-backed answer](https://www.daolf.com/posts/best-programming-books/)
+* [software-architecture-books: A comprehensive list of books on Software Architecture.](https://github.com/mhadidg/software-architecture-books)
 * [100+ e-books on popular technologies for free](https://www.syncfusion.com/resources/techportal/ebooks)
 * [allitebooks.org](http://www.allitebooks.org/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
@@ -1254,7 +1263,9 @@ Programming
   * [Continuous integration and deployment with Bazel](https://blogs.dropbox.com/tech/2019/12/continuous-integration-and-deployment-with-bazel/)
   * [Watch - Migrating Twitter's Monorepo from Pants to Bazel](https://opensourcelive.withgoogle.com/events/bazelcon2020/watch?talk=day1-talk2)
 * [earthly - Build automation for the container era](https://github.com/earthly/earthly)
+  * [Earthly - Better Builds](https://earthly.dev/) makefile + docker
   * [Earthly - Builds in container era](https://vladaionescu.com/introducing-earthly-build-automation-for-the-container-era-55619c63c3e)
+  * [Can we build better?](https://blog.earthly.dev/better-builds/)
 * [Pants: A fast, scalable build system](https://pantsbuild.github.io/)
 * [Please](https://please.build/)
 
@@ -1383,6 +1394,7 @@ Programming
 * [Five Code Review Antipatterns](https://blogs.oracle.com/javamagazine/five-code-review-antipatterns)
 * [뉴크루 온보딩 코드 리뷰어로 참여하기 – 카카오는 주니어와 함께 성장합니다. – tech.kakao.com](https://tech.kakao.com/2021/04/08/welcome-new-krew3/)
 * [글로벌 기업은 코드 리뷰를 어떻게 할까요? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=30978428&memberNo=36733075&navigationType=push)
+* [How to Review Someone Else’s Code: Tips and Best Practices](https://www.codecademy.com/resources/blog/code-review-best-practices/)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 * [Measuring enterprise developer productivity - The GitHub Blog](https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/)
 * [How to Kill Your Developer Productivity - DZone DevOps](https://dzone.com/articles/how-to-kill-your-developer-productivity-humanitec)
@@ -1560,6 +1572,7 @@ Programming
 * [Parsing Algorithms – Dmitry Soshnikov](http://dmitrysoshnikov.com/courses/parsing-algorithms/)
 * [algorithm - What is the difference between LL and LR parsing? - Stack Overflow](https://stackoverflow.com/questions/5975741/what-is-the-difference-between-ll-and-lr-parsing)
 * [컴파일러는 어떻게 내가 작성한 코드를 인식하는걸까? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/04/18/Formal-Language-and-Compiler.html)
+* [CompilerJobs | A listing of compiler, language and runtime teams for people looking for jobs in this area](https://mgaudet.github.io/CompilerJobs/)
 
 # Conference
 * [calltospeakers.com](https://calltospeakers.com)
@@ -1740,6 +1753,7 @@ Programming
 * [부트캠퍼를 위한 컴퓨터 과학](https://csbooks.wisedog.net/)
 * [누구나 이해하는 컴퓨터 하드웨어 개요 - YouTube](https://www.youtube.com/watch?v=k4g49yTY1RQ&list=PLIGFku39tFfbMweTcTx5GWF67em5kITnM)
 * [컴퓨터 개념 및 실습 서울대학교 공과대학 민상렬 교수님 - YouTube](https://www.youtube.com/playlist?list=PLpDJrhQ7qbNHjCGC42CrtGq1FXMskBi3K)
+* [보편적인 프로그래밍 교육에 관한 오해 - Google Docs](https://docs.google.com/document/d/1oDd5wswtiyNCjHQr5NgAv3ZU-8-5rJZUXEo3Puq_htI/)
 * [Here are 380 Ivy League courses you can take online right now for free](https://medium.freecodecamp.org/here-are-380-ivy-league-courses-you-can-take-online-right-now-for-free-9b3ffcbd7b8c)
 * [560+ Free Online Programming & Computer Science Courses You Can Start in February](https://medium.freecodecamp.org/free-online-programming-computer-science-courses-you-can-start-in-february-e621d959e64)
 * [Compilers](https://lagunita.stanford.edu/courses/Engineering/Compilers/Fall2014/about)
@@ -1821,6 +1835,7 @@ Programming
 * [Password Managers](https://lock.cmpxchg8b.com/passmgrs.html)
 * ["사례로 본" 보편적인 공급망 공격 유형 6가지 - ITWorld Korea](https://www.itworld.co.kr/news/196219)
 * [Elliptic Curve Cryptography Explained – Fang-Pen's coding note](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/)
+* [Kaspersky Password Manager: All your passwords are belong to us | Donjon](https://donjon.ledger.com/kaspersky-password-manager/)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
@@ -1952,6 +1967,7 @@ Programming
 * [Fira Code: monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 * [font compare](http://s9w.github.io/font_compare/)
 * [hack - http://sourcefoundry.org/hack](http://sourcefoundry.org/hack/)
+* [hoard-of-bitfonts: turns out I like bitmap fonts](https://github.com/robhagemans/hoard-of-bitfonts)
 * [Input - Fonts for Code, from Font Bureau](http://input.fontbureau.com/)
 * [Iosevka](http://be5invis.github.io/Iosevka/)
 * [JetBrains Mono](https://www.jetbrains.com/lp/mono/)
@@ -2632,6 +2648,8 @@ Programming
 * [STM32를 활용한 FreeRTOS 입문](https://www.g.camp/tag/freertos_2020)
 * [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6.html)
 * [Course Operating System (CPA310) - 운영체제 강의 - YouTube](https://www.youtube.com/playlist?list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN)
+* [winix: A UNIX-style Operating System for the Waikato RISC Architecture Microprocessor (WRAMP)](https://github.com/halfer53/winix)
+* [x86-bare-metal-examples: Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QEMU 2.10中的Ubuntu 17.10主机和真实硬件上进行了测试。 Userland作弊网址：https：//github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM裸机安装程序位于：https：//github.com/cirosantilli/linux-kernel-module-cheat#baremetal- 设置](https://github.com/cirosantilli/x86-bare-metal-examples)
 
 # Parser
 * [Zig, Parser Combinators - and Why They're Awesome](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome)
@@ -2760,6 +2778,7 @@ Programming
 * [ImHex: A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM](https://github.com/WerWolv/ImHex)
 * [Rainbow Tables | The Linux Rain](https://www.thelinuxrain.com/articles/rainbow-tables) hashed value to password
 * [Reverse-Engineering: A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures](https://github.com/mytechnotalent/Reverse-Engineering)
+* [Reverse Engineering WiFi on RISC-V BL602](https://lupyuen.github.io/articles/wifi)
 
 # RPC
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
@@ -2805,6 +2824,7 @@ Programming
   * fly.io [Deploy gRPC and gRPC-Web Services · Fly](https://fly.io/docs/app-guides/grpc-and-grpc-web-services/) gRPC cloud?
   * [geoip](https://github.com/charsyam/geoip)
   * [ghz · gRPC benchmarking and load testing tool](https://ghz.sh/) protocol이 다르기 때문에 curl등으로 테스트가 불가능하므로 필요한 gRPC를 테스트할 수 있는 도구
+* [Ice - 종합 RPC 프레임워크 | GeekNews](https://news.hada.io/topic?id=4515)
 * [RSocket - a next-generation, reactive, layer 5 application communication protocol for building today's modern cloud-native and microservice applications](https://www.netifi.com/rsocket)
   * [Building a High-Performance Networking Protocol for Microservices](https://www.youtube.com/watch?v=WaQZCit5-O4)
   * [Getting Started With RSocket: Spring Boot Server](https://spring.io/blog/2020/03/02/getting-started-with-rsocket-spring-boot-server)
@@ -2850,6 +2870,8 @@ Programming
 * [현장에서 사용하는 Software production](https://www.slideshare.net/brotherjinho/software-production-157160056)
 * [How to Add New Features to Your App in Production and Not Ruin Anything](https://medium.com/quick-code/how-to-add-new-features-to-your-app-in-production-and-not-ruin-anything-da2c6dfb6fc2)
 * [Software Engineering at Google: Practices, Tools, Values, and Culture](https://www.infoq.com/articles/software-engineering-google/)
+* [Principles.dev - Software Engineering Principles](https://principles.dev/)
+  * [Software Engineering Principles | GeekNews](https://news.hada.io/topic?id=4534)
 
 # TDD, Test
 * [TDD is dead. Long live testing](http://david.heinemeierhansson.com/2014/tdd-is-dead-long-live-testing.html)
@@ -3062,6 +3084,7 @@ Programming
 * [Unicode In Five Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
 * [Windows: 176. Raymond Chen이 한글날에 밝히는 윈도우의 한글 자모 분리 현상](https://www.sysnet.pe.kr/2/0/12369)
 * [Ridiculously fast unicode (UTF-8) validation – Daniel Lemire's blog](https://lemire.me/blog/2020/10/20/ridiculously-fast-unicode-utf-8-validation/)
+* [Unicode sorting is hard & why browsers added special emoji matching to regexp](https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching)
 
 # Virtual Machine
 * [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
