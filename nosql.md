@@ -417,6 +417,7 @@ NoSQL
 * [Jepsen: MongoDB 4.2.6](https://jepsen.io/analyses/mongodb-4.2.6)
 * [mongita: "Mongita is to MongoDB as SQLite is to SQL"](https://github.com/scottrogowski/mongita)
   * [Mongita - 임베드 가능한 MongoDB | GeekNews](https://news.hada.io/topic?id=4137)
+* MontyDB [A pure Python-implemented database that looks and works like MongoDB](https://pythonawesome.com/a-pure-python-implemented-database-that-looks-and-works-like-mongodb/)
 * [mango - A MongoDB driver for Deno](https://github.com/denodrivers/mango)
 * [mongo-java-server: Fake implementation of MongoDB in Java that speaks the wire protocol](https://github.com/bwaldvogel/mongo-java-server)
 
