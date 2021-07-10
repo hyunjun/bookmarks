@@ -1118,6 +1118,7 @@ Clojure
 * [Reaching flow state with Clojure's REPL -- newline](https://www.newline.co/@shivekkhurana/reaching-flow-state-with-clojures-repl--14018b04)
 * [Distinction between three data related programming paradigms. | Yehonathan Sharvit](https://blog.klipse.tech/visualization/2021/02/16/data-related-paradigms.html)
 * [(λ. borkdude) 님의 트위터: "#clojure tip: You can run: (require 'foobar :reload) to just reload foobar, or: (require 'foobar :reload-all) to reload foobar + namespaces it depends on. This doesn't require any special tooling or IDEs, just a running REPL. Works in CLJS REPLs too." / 트위터](https://twitter.com/borkdude/status/1371223760020377600)
+* [REPL vs CLI: IDE wars | (:dev/notes vlaaad)](https://vlaaad.github.io/clj-vs-cli)
 * [Clem Repl Interface · GitLab](https://gitlab.com/unc-app-lab/clem-repl)
 * [dram: Interactive Clojure REPL Guides](https://github.com/BetterThanTomorrow/dram)
 * [Gorilla REPL](http://gorilla-repl.org/)
