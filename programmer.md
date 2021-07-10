@@ -74,6 +74,7 @@ Programmer
 * [신입 개발자로서 도움이 된 포스트/자료 모음](https://velog.io/@hyounglee/for-newbies)
 * [Why I prefer making useless stuff - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
 * [System Compleat. System Compleat.](https://kerberosj.tistory.com/) Singapore DBS 근무
+* [왜 개발자는 잘못된 기술 선택을 밥 먹듯이 하나?](https://kingofbackend.tistory.com/129)
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
