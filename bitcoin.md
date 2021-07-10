@@ -180,6 +180,8 @@ Bitcoin
 * [bitmulate - Simulated cryptocurrency trading system https://bitimulate.com ](https://github.com/velopert/bitimulate)
 * [BlockSeer Introduction](https://www.youtube.com/watch?v=y_MNVekX6g4)
 * [cointrol - Bitcoin trading bot with a real-time dashboard for Bitstamp](https://github.com/jkbrzt/cointrol)
+* [DeFi-Developer-Road-Map: DeFi Developer Road Map. Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
+  * [DeFi 개발자 로드맵 | GeekNews](https://news.hada.io/topic?id=4500)
 * [Filecoin is a data storage network and electronic currency based on Bitcoin](http://filecoin.io/)
 * [Jade Service Runner - A Bridge for Decentralized Service Development](https://hackernoon.com/jade-service-runner-bd5ca222b7fc)
 * [Jetcoin Reference Implementation https://jetcoin.org](https://github.com/jetcoins/jetcoin)
@@ -202,3 +204,4 @@ Bitcoin
 * [비트코인 채굴의 원리를 파이썬으로 구현해보자! - YouTube](https://www.youtube.com/watch?v=JM3j7uBKnt8)
 * [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
 * [python-snarks](https://github.com/Onther-Tech/python-snarks)
+* [SmartPy - an intuitive and powerful smart contract development platform for Tezos](https://smartpy.io/)
