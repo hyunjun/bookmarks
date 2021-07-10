@@ -174,6 +174,8 @@ SQL
 * [Running a bakery on Emacs and PostgreSQL // Just a Summary](https://bofh.org.uk/2019/02/25/baking-with-emacs/)
 * [You might as well timestamp it |> Changelog](https://changelog.com/posts/you-might-as-well-timestamp-it) flag보다 timestamp를 써야 한다는 주장
   * [is_leave vs leaved_at vs leave_status](https://jojoldu.tistory.com/577)
+* [글로벌 칼럼 | DB 분산 처리 기법 '샤딩', "웬만하면 하지 마라" - ITWorld Korea](https://www.itworld.co.kr/news/200134) sharding
+* [The State of the Open Source Database Industry in 2020: Part Three - Percona Database Performance Blog](https://www.percona.com/blog/2020/04/22/the-state-of-the-open-source-database-industry-in-2020-part-three/)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
@@ -491,6 +493,7 @@ SQL
 * [beaker_session MySQL server has gone away](https://ash84.net/2017/11/10/beaker_session-mysql-server-has-gone-away/)
 * [MariaDB Binlog을 이용한 변경사항 추적](https://www.ridicorp.com/blog/2017/10/30/binlog-collector)
 * [MySQL binlog파서와 memcached plugin의 콜라보레이션! | gywndi's database](https://gywn.net/2020/08/mysql-binlog-memcached-plugin-collaboration/)
+* [Streaming MySQL Binlogs to S3 (or Any Object Storage) - Percona Database Performance Blog](https://www.percona.com/blog/streaming-mysql-binlogs-to-s3-or-any-object-storage/)
 * [pt-query-digest](https://www.percona.com/doc/percona-toolkit/LATEST/pt-query-digest.html)
 * [Optimizing slow web pages with mk-query-digest](https://www.percona.com/blog/2011/04/07/optimizing-slow-web-pages-with-mk-query-digest/)
 * [Poor man’s query logging](https://www.percona.com/blog/2008/11/07/poor-mans-query-logging/)
@@ -783,6 +786,7 @@ SQL
 * [large csv to postgresql](https://gist.github.com/TimDSChoi/ca30197f502e3ff5c0743c8d46a48449) 대용량 csv를 입력하는 예(문제가 있음)
 * [An early look at Postgres 14: Performance and Monitoring Improvements](https://pganalyze.com/blog/postgres-14-performance-monitoring)
 * [Hierarchical Structures in PostgreSQL](https://hoverbear.org/blog/postgresql-hierarchical-structures/)
+* [Globally Distributed Postgres · Fly](https://fly.io/blog/globally-distributed-postgres/)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
@@ -947,6 +951,9 @@ SQL
 * [Hosting SQLite databases on Github Pages - (or any static file hoster) - phiresky's blog](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
 * [SQLite in production with WAL](https://victoria.dev/blog/sqlite-in-production-with-wal/)
 * [**SQLite의 알려지지 않은 이야기 | GeekNews**](https://news.hada.io/topic?id=4558)
+* [Show HN: SQLite query inside a Bash function | Hacker News](https://news.ycombinator.com/item?id=27762201)
+* [Using sqlite3 as a notekeeping document graph with automatic reference indexing](https://epilys.github.io/bibliothecula/notekeeping.html)
+* [The Untold Story of SQLite With Richard Hipp - CoRecursive Podcast](https://corecursive.com/066-sqlite-with-richard-hipp/)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
 * [litestream: Streaming S3 replication for SQLite](https://github.com/benbjohnson/litestream)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
