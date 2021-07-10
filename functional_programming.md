@@ -114,6 +114,7 @@ Functional Programming
 * [The reality of functional programming - Developer Melange PODCAST - LispCast](https://lispcast.com/the-reality-of-functional-programming-developer-melange-podcast/)
 * [Legacy in Functional Programming PODCAST - LispCast](https://lispcast.com/legacy-in-functional-programming-podcast/)
 * [라인 백엔드 개발자의 함수형 프로그래밍 언어 실전 사용기 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=H6JxxWL6bJI)
+* [Immutability is not enough](https://codewords.recurse.com/issues/six/immutability-is-not-enough)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
