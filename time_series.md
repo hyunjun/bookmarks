@@ -38,6 +38,7 @@ Time Series
 * [Introduction to Machine Learning with Time Series || Markus Loning - YouTube](https://www.youtube.com/watch?v=wqQKFu41FIw)
 * [AI 리뷰 MIT, 시계열 데이터 이상을 감지하는 딥러닝 기반 'TadGAN' 알고리즘 오픈 소스로 공개 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=18700)
 * [시계열 분석을 하라고?](https://brunch.co.kr/@lunarshore/405)
+* [Write a time-series database engine from scratch](https://nakabonne.dev/posts/write-tsdb-from-scratch/)
 
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
@@ -107,6 +108,7 @@ Time Series
   * [Predicting the ‘Future’ with Facebook’s Prophet](https://towardsdatascience.com/predicting-the-future-with-facebook-s-prophet-bdfe11af10ff)
   * [시계열 예측 패키지 Prophet 소개](https://hyperconnect.github.io/2020/03/09/prophet-package.html)
 * [questdb: An open source SQL database designed to process time series data, faster](https://github.com/questdb/questdb)
+  * [How databases handle 10 million devices in high-cardinality benchmarks | Time series data, faster](https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/)
 * [spark-ts - Time Series for Spark (The spark-ts Package)](https://github.com/sryza/spark-timeseries)
 * [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
 * [TimescaleDB](http://www.timescale.com)
