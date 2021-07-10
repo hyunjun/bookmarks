@@ -130,6 +130,7 @@
 * [Rust for the Seasoned Scala Developer](https://phazer99.blogspot.com/2021/05/rust-for-seasoned-scala-developer.html)
 * [Behind the scenes of 1Password for Linux | by Dave Teare | May, 2021 | Medium](https://dteare.medium.com/behind-the-scenes-of-1password-for-linux-d59b19143a23)
 * [Rust: Zero Cost Abstractions - YouTube](https://www.youtube.com/watch?v=JCGjjk5ccV0)
+* [Compiling Rust is NP-hard](https://niedzejkob.p4.team/rust-np/)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
@@ -175,6 +176,7 @@
 * [Cicada - a simple Unix shell written in Rust](https://github.com/mitnk/cicada)
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)
 * [deuterium-orm - Fully typed SQL query builder for Rust](https://github.com/deuterium-orm/deuterium)
+* [difftastic: a syntax-aware diff](https://github.com/wilfred/difftastic)
 * [Encoder and decoder for HTTP chunked transfer coding (RFC 7230 § 4.1) https://crates.io/crates/chunked_transfer](https://github.com/frewsxcv/rust-chunked-transfer)
 * [glium library - safe openGL in rust](https://medium.com/@tomaka/the-glium-library-5be149d87dc1)
 * [Glommio - A Thread-per-Core Crate for Rust & Linux | Datadog](https://www.datadoghq.com/blog/engineering/introducing-glommio/)
