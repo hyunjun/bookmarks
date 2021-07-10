@@ -769,6 +769,8 @@ Clojure
 * [clj-statecharts](https://lucywang000.github.io/clj-statecharts/) State Machine and StateCharts for Clojure(Script). Inspired by [XState](https://github.com/davidkpiano/xstate)
 * [clj-template-reverse](https://github.com/sng2c/clj-template-reverse/blob/master/test/template_reverse/core_test.clj)
 * [clj-tiles: Scratch-like visual programming for Clojurescript](https://github.com/kloimhardt/clj-tiles)
+* [clj-time: A date and time library for Clojure, wrapping the Joda Time library](https://github.com/KirinDave/clj-time)
+* [cljs-time: A clj-time inspired date library for clojurescript](https://github.com/andrewmcveigh/cljs-time)
 * [clods: A microservice and toolchain for providing UK organisational data services (ODS)](https://github.com/wardle/clods)
 * [Clojars is a dead easy community repository for open source Clojure libraries](https://clojars.org/)
 * [clojisr: Clojure speaks statistics - a bridge between Clojure to R](https://github.com/scicloj/clojisr)
