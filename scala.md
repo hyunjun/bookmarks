@@ -1424,8 +1424,6 @@ Scala
 
 ## Library Build
 * [A quick tour of build tools in Scala](https://manuel.bernhardt.io/2018/04/19/quick-tour-build-tools-scala/)
-* [earthly: Build automation for the post-container era](https://github.com/earthly/earthly)
-  * [Can we build better?](https://blog.earthly.dev/better-builds/)
 * [Mill - your shiny new Java/Scala build tool](http://www.lihaoyi.com/mill/)
   * [How to create Build Pipelines in Scala](http://www.lihaoyi.com/post/HowtocreateBuildPipelinesinScala.html)
   * [Scala/Mill: Step 1, Creating a new Mill project | alvinalexander.com](https://alvinalexander.com/scala/mill-build-tool/step-1-hello-world/)
