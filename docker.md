@@ -148,6 +148,7 @@ Docker
   * [**GitHub Container Registry에 도커 이미지 Push 하기 - Qiita**](https://qiita.com/leechungkyu/items/f95998506d45feb15393)
   * [Dockerfile Security Best Practices - Cloudberry Engineering](https://cloudberry.engineering/article/dockerfile-security-best-practices/)
   * [Editing files in a docker container | by Maciek Opała | SoftwareMill Tech Blog](https://blog.softwaremill.com/editing-files-in-a-docker-container-f36d76b9613c)
+  * [Container images for portable development environments](https://pythonawesome.com/container-images-for-portable-development-environments/)
   * [centos](https://hub.docker.com/_/centos/)
   * couchbase
     * [Setting Up a Couchbase Cluster in 10 Minutes with Docker Compose](https://medium.com/@teivah/setting-up-a-couchbase-cluster-in-10-minutes-with-docker-and-docker-compose-61e5ccfae21a)
@@ -792,6 +793,9 @@ Docker
 * [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
 * [Kubernetes ingress, deep dive](https://banzaicloud.com/blog/k8s-ingress/)
 * [A Terrible, Horrible, No-Good, Very Bad Day at Slack | by Laura Nolan | Jun, 2020 | Several People Are Coding](https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack-dfe05b485f82) ingress
+* [Kubernetes Ingress Controllers - Google Sheets](https://docs.google.com/spreadsheets/d/191WWNpjJ2za6-nbG4ZoUMXMpUK8KlCIosvQB0f-oq3k/edit#gid=907731238)
+* [Kubernetes — Ingress Overview. What is K8s Ingress? — Introduction to… | by Ashish Patel | DevOps Mojo | Jul, 2021 | Medium](https://medium.com/devops-mojo/kubernetes-ingress-overview-what-is-kubernetes-ingress-introduction-to-k8s-ingress-b0f81525ffe2)
+* [Kubernetes Ingress — AWS EKS Cluster with AWS Load Balancer Controller | by George Tsopouridis | Medium](https://gtsopour.medium.com/kubernetes-ingress-aws-eks-cluster-with-aws-load-balancer-controller-cf49126f8221)
 * [K8s를 위한 추천 CI/CD](https://andromedarabbit.net/k8s%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B6%94%EC%B2%9C-ci-cd/)
 * [쿠버네티스 코드 읽기](https://sangwook.github.io/2018/06/19/kubernetes-k8s-code.html)
 * [리소스 (Resource)에 대해](http://bcho.tistory.com/1265)
@@ -834,6 +838,7 @@ Docker
   * [2부. Pod, Node 그리고 Service](https://www.youtube.com/watch?v=lVG9LU90ZQw)
   * [3부 (완결): 애플리케이션 스케일링과 롤링 업데이트](https://www.youtube.com/watch?v=6q1MRXNUzPU)
 * [Boosting your kubectl productivity](https://learnk8s.io/blog/kubectl-productivity/)
+* [Everything Useful I Know About kubectl](https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/)
 * [Coding a real-time dashboard for Kubernetes](https://learnk8s.io/real-time-dashboard)
 * [**쿠버네티스 시작하기 - 쿠버네티스란 무엇인가?**](https://subicura.com/2019/05/19/kubernetes-basic-1.html)
 * [**쿠버네티스 시작하기 - 설치부터 배포까지**](https://subicura.com/2020/12/13/kubernetes-basic-2.html)
@@ -928,7 +933,6 @@ Docker
 * [How a Kubernetes Pod Gets an IP Address | Ronak Nathani](https://ronaknathani.com/blog/2020/08/how-a-kubernetes-pod-gets-an-ip-address/)
 * [CI/CD Pipelines With Kubernetes in Docker (KinD) | Better Programming](https://medium.com/better-programming/accelerate-your-ci-cd-pipelines-with-kubernetes-in-docker-kind-109a67b39c82)
 * [Kubernetes Imperative Commands Every Engineer Should Learn | by Luisapreciado | Dev Genius | Medium](https://medium.com/dev-genius/kubernetes-imperative-commands-every-engineer-should-learn-3b5d8217fa29)
-* [Kubernetes Ingress Controllers - Google Sheets](https://docs.google.com/spreadsheets/d/191WWNpjJ2za6-nbG4ZoUMXMpUK8KlCIosvQB0f-oq3k/edit#gid=907731238)
 * [4 Simple Kubernetes Terminal Customizations to Boost Your Productivity | by Komal Venkatesh Ganesan | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/4-simple-kubernetes-terminal-customizations-to-boost-your-productivity-deda60a19924)
 * [4 ways to run Kubernetes locally | Opensource.com](https://opensource.com/article/20/11/run-kubernetes-locally)
 * [Troubleshooting in Kubernetes: A Strategic Guide | by Komal Venkatesh Ganesan | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/troubleshooting-in-kubernetes-a-strategic-guide-ceec28db0043)
@@ -1112,6 +1116,7 @@ Docker
   * [Telepresence로 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/7861046)
   * [Istio와 Telepresence로 공용 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/4817173)
   * [Kubernetes 클러스터에 배포할 애플리케이션의 로컬 개발을 쉽게 해줄 Telepresence :: Outsider's Dev Story](https://blog.outsider.ne.kr/1526)
+  * [Run Telepresence Anywhere Part 1: Containers | by Kelsey Evans | Jun, 2021 | Ambassador Labs](https://blog.getambassador.io/run-telepresence-anywhere-part-1-containers-3d9e235b6776)
 
 # Library
 * [Top GUI for Docker | by appfleet team | appfleet | Medium](https://medium.com/appfleet/top-gui-for-docker-9b45588393d3)
@@ -1136,6 +1141,8 @@ Docker
 * [docker-debug: use new container attach on already container go on debug](https://github.com/zeromake/docker-debug)
 * [Docker monitoring](https://ruxit.com/docker-monitoring/)
 * [Docker-OSX: Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!](https://github.com/sickcodes/Docker-OSX)
+* [docker-py: A Python library for the Docker Engine API](https://github.com/docker/docker-py)
+  * [A Python library for the Docker Engine API](https://pythonawesome.com/a-python-library-for-the-docker-engine-api/)
 * [DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source) https://dockersl.im ](https://github.com/docker-slim/docker-slim)
 * [docker-sync - Run your application at full speed while syncing your code for development, finally empowering you to utilize docker for development under OSX/Windows/Linux](https://docker-sync.readthedocs.io)
   * [Docker 로 쾌적한 개발환경 구축하기 Ruby on Rails 개발환경을 Docker로 옮겨보았습니다](https://medium.com/myrealtrip-product/docker-%EB%A1%9C-%EC%BE%8C%EC%A0%81%ED%95%9C-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-e484b80947a3?sk=81c84f2359395e5a1e4fbffec40b6c6e)
