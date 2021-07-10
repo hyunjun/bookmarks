@@ -1291,6 +1291,7 @@ Programming
 * [클라우드 가상화 비율](https://naleejang.tistory.com/245)
 * [‘이투스’ 클라우드 전환 사례: 문의선 CTO 인터뷰 | 슬로우뉴스](https://slownews.kr/80915)
 * [Rule number one: Avoid vendor lock-in | Sean Boots](https://sboots.ca/2021/05/12/rule-number-one-avoid-vendor-lock-in/) cloud만 해당하는 건 아니지만
+* [‘수익은 내 것, 찜찜함은 네 것!’··· 클라우드의 10가지 그늘 - CIO Korea](https://www.ciokorea.com/news/199709)
 * [aws](aws.md)
 * [azure](azure.md)
 * [Dapr - Distributed Application Runtime](https://dapr.io/)
@@ -2340,6 +2341,7 @@ Programming
   * [6월 2주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/06/b-6-2.html)
   * [6월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/06/b-6.html)
   * [6월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/06/b-6-4.html)
+  * [7월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/07/b-7-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
