@@ -526,6 +526,7 @@ Linux
   * [df와 du의 용량차이 발생과 해결(아무리 지워도 디스크 사용량이 줄어들지 않을때)](http://me2c.blogspot.com/2011/02/df-du.html)
   * [How to find the largest directories or largest files?](https://superuser.com/questions/276487/how-to-find-the-largest-directories-or-largest-files)
   * [컴퓨터 vs 책: 5분 따라하기 리눅스에서 용량을 가장 많이 차지하는 파일/디렉토리 찾기](https://jhrogue.blogspot.com/2020/06/5.html)
+  * [Replace du with dust on Linux | Opensource.com](https://opensource.com/article/21/6/dust-linux)
 * `echo`
   * `echo -e "..."` ['echo' without newline in a shell script](http://stackoverflow.com/questions/11193466/echo-without-newline-in-a-shell-script)
 * `find`
@@ -763,6 +764,7 @@ Linux
   * [How to set environment variable in systemd service? - Server Fault](https://serverfault.com/questions/413397/how-to-set-environment-variable-in-systemd-service)
   * [5 reasons sysadmins love systemd | Opensource.com](https://opensource.com/article/21/4/sysadmins-love-systemd)
   * [systemd: The Good Parts - Christine Dodrill](https://christine.website/talks/systemd-the-good-parts-2021-05-16)
+  * [Avoiding complexity with systemd | Michael Maclean](https://mgdm.net/weblog/systemd/)
 * systemtap
   * [커널 분석을 위한 systemtap 스크립트](https://brunch.co.kr/@alden/42)
 * `tac`
@@ -904,6 +906,7 @@ Linux
 * [Linux kernel development](https://github.com/0xAX/linux-insides/blob/master/Misc/contribute.md)
 * [BPF / XDP 8월 세미나 KossLab](https://www.slideshare.net/TaeungSong/bpf-xdp-8-kosslab)
 * [TIL: eBPF is awesome](https://filipnikolovski.com/posts/ebpf/)
+* [How To Add eBPF Observability To Your Product](https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html)
 * [**Interactive map of Linux kernel**](https://makelinux.github.io/kernel/map/)
 * [Submitting your first patch to the Linux kernel - Cristian Henrique - Medium](https://medium.com/@crhenr/submitting-your-first-patch-to-the-linux-kernel-e81d2541fac6)
 * [Getting started with Linux kernel development](https://gist.github.com/vegard/22200a9f91af138a99ae22a9b814a9a4)
