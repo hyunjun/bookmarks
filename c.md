@@ -169,6 +169,7 @@ C
 * [Your ABI is Probably Wrong](https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html)
 * [함수의 극한 구하는 프로그램 만들기(C언어) | 수성비 전자방](https://toopyo.tistory.com/entry/limitfx)
 * [Why I still like C and strongly dislike C++ « Kostya's Boring Codec World](https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/)
+* [My toy renderer, part 1: Keep it simple](https://momentsingraphics.de/ToyRenderer1KeepItSimple.html)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -345,6 +346,7 @@ C
   * [cmake / hunter / devpi / setup.py](https://knouackr-my.sharepoint.com/:b:/g/personal/halatha_knou_ac_kr/EV2PrN0CF4hBn7IWzOd5C7UBJ4wyGNEgyft61d4KkaIt7A?e=ZCQW7F)
 * [**Hyperscan is a high-performance multiple regex matching library**](https://01.org/hyperscan)
 * [iC8: An interpreted Chip-8 emulator written in C](https://github.com/prophittcorey/iC8)
+* [image-unshredding](https://github.com/robinhouston/image-unshredding) reconstruct photographs whose columns have been shuffled
 * [indent: Indent and Format C Program Source](https://www.gnu.org/software/indent/manual/indent.html) beautifier
   * CentOS에 기본 설치되어 있음
   * ‘-br’ ‘--braces-on-if-line’
@@ -453,6 +455,7 @@ C
 * [Comparing clang to other open source compilers](https://opensource.apple.com/source/clang/clang-23/clang/tools/clang/www/comparison.html)
 * [Portability is Reliability – Evan Nemerson](http://evan.nemerson.com/2021/05/04/portability-is-reliability/)
 * [chibicc: A small C compiler](https://github.com/rui314/chibicc)
+* [CompCert: The CompCert formally-verified C compiler](https://github.com/AbsInt/CompCert)
 * [distcc: a fast, free distributed C/C++ compiler](https://distcc.github.io/)
 * [movfuscator - The single instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
 * [Speck is a small and fast unit testing framework for the C programming language](https://github.com/compiler-dept/speck)
