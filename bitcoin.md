@@ -134,6 +134,7 @@ Bitcoin
 * [자바스크립트로 블록체인 구현하기(입문)-1. 블록체인이란 무엇인가?](https://songseungwon.tistory.com/8)
 * [자바스크립트로 블록체인 구현하기(입문)-2. 코드 작성](https://songseungwon.tistory.com/9)
 * [How to Build Your Own Blockchain in NodeJS - DEV Community](https://dev.to/codesphere/how-to-build-your-own-blockchain-in-nodejs-3ijh)
+* [Blockchain 101 (or How to Build a Blockchain with JavaScript) - YouTube](https://www.youtube.com/watch?v=JiEAuaNFZGo)
 * [SavjeeCoin](https://github.com/SavjeeTutorials/SavjeeCoin)
   * [Creating a blockchain with Javascript (Blockchain, part 1)](https://www.youtube.com/watch?v=zVqczFZr124)
   * [Implementing Proof-of-Work in Javascript (Blockchain, part 2)](https://www.youtube.com/watch?v=HneatE69814)
