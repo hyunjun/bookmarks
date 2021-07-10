@@ -107,6 +107,7 @@ Python
 * [A Neural Network in 11 lines of Python](http://iamtrask.github.io/2015/07/12/basic-python-network/?)
 * [Searching for Approximate Nearest Neighbours](http://developers.lyst.com/2015/07/10/ann/)
 * [Best Practices for Managing Your Code Library](http://pbpython.com/best-practices.html)
+* [Python Best Practices for a New Project in 2021 - Alex Mitelman](https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/)
 * [CFD Python: 12 steps to Navier-Stokes](http://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/)
 * [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
 * [Fun with BPF, or, shutting down a TCP listening socket the hard way](http://pythonsweetness.tumblr.com/post/125005930662/fun-with-bpf-or-shutting-down-a-tcp-listening)
@@ -341,6 +342,7 @@ Python
 * [What are some one liners in Python that would take a hundred in C? - Quora](https://www.quora.com/What-are-some-one-liners-in-Python-that-would-take-a-hundred-in-C)
 * [18 Python scripts that help you write code faster](https://morioh.com/p/4f4b74ba17cc)
 * [Pythonic Code, By Example](https://www.youtube.com/watch?v=o0LohkA3UR4)
+* [Write good examples by starting with real code](https://jvns.ca/blog/2021/07/08/writing-great-examples/)
 * [TIL - How to Python "pythonically"](https://velog.io/@seob/TIL-How-to-Python-pythonically)
 * [win32 api in python](http://algomarket.wikidot.com/win32-api-in-python)
 * [win32print](http://timgolden.me.uk/python/win32_how_do_i/print.html)
@@ -430,6 +432,7 @@ Python
 * [**Building a full-text search engine in 150 lines of Python code · Bart de Goede**](https://bart.degoe.de/building-a-full-text-search-engine-150-lines-of-code/)
 * [내가 쓰고 있는 파이썬 버전과 구현체를 알아봅시다](https://codingdog.tistory.com/entry/%EB%82%B4%EA%B0%80-%EC%93%B0%EA%B3%A0-%EC%9E%88%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%B2%84%EC%A0%84%EA%B3%BC-%EA%B5%AC%ED%98%84%EC%B2%B4%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [Python at Netflix. By Pythonistas at Netflix, coordinated… | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/python-at-netflix-bba45dae649e)
+* [Clever vs Insightful Code • Hillel Wayne](https://www.hillelwayne.com/post/cleverness/)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -479,6 +482,7 @@ Python
 * [8 Advanced Python Tricks Used by Seasoned Programmers | by Erik van Baaren | Towards Data Science](https://towardsdatascience.com/8-advanced-python-tricks-used-by-seasoned-programmers-757804975802) attrs
 * [잘 알려져 있지 않은 파이썬 기능](https://yuda.dev/254)
 * [Road to become a Python Ninja — Data Structures](https://blog.usejournal.com/python-basics-data-structures-d378d854df1b) 기본 data structure
+* [Commonly Used Python Functions For Data Structure](https://www.c-sharpcorner.com/article/commonly-used-python-functions-for-data-structure/)
 * [Comprehending the ‘Comprehensions’ in Python](https://towardsdatascience.com/comprehending-the-concept-of-comprehensions-in-python-c9dafce5111)
 * [Extended Iterable Unpacking - 어-썸한 파이썬의 맛을 보아라](http://ulismoon.tistory.com/9)
 * [**Iterables vs. Iterators vs. Generators**](https://nvie.com/posts/iterators-vs-generators/) 서로의 관계를 그림과 함께 잘 설명
@@ -584,6 +588,7 @@ Python
   * deque [Python - 데크(deque) 언제, 왜 사용해야 하는가?](https://chaewonkong.github.io/posts/python-deque.html)
 * configparser
   * [파이썬에서 설정값 관리하기](https://mingrammer.com/ways-to-manage-the-configuration-in-python)
+  * [Use Python to parse configuration files | Opensource.com](https://opensource.com/article/21/6/parse-configuration-files-python) INI, JSON, YAML, TOML
 * contextlib
   * [On the Beauty of Python's ExitStack — Nikolaus Rath's Website](https://www.rath.org/on-the-beauty-of-pythons-exitstack.html)
 * copy
@@ -878,6 +883,7 @@ Python
   * [9 Things to Know to Master List Comprehensions in Python](https://medium.com/better-programming/9-things-to-know-to-master-list-comprehensions-in-python-8bc0411ec2ed)
   * [파이썬의 Comprehension 소개](https://mingrammer.com/introduce-comprehension-of-python)
   * [Python List Comprehensions in 5-minutes | by Daniel Bourke | Towards Data Science](https://towardsdatascience.com/python-list-comprehensions-in-5-minutes-40a68cbe4561)
+  * [List Comprehension in Python Explained for Beginners](https://www.freecodecamp.org/news/list-comprehension-in-python/)
   * [Python Comprehension. A guided tour and quick start. | by Keno Leon | Medium](https://medium.com/@k3no/python-comprehension-885cd3f27f4a)
   * [**파이썬에서 2중 리스트를 flatten하게 만들기**](https://winterj.me/list_of_lists_to_flatten/)
   * [Python - 리스트 순회중 수정하는 문제](https://ash84.net/2017/06/29/common-mistake-5-modifying-a-list-while-iterating-over-it/)
@@ -910,9 +916,10 @@ Python
     * [파이썬 로깅, 끝까지 파보면서 내가 배운 것](https://www.slideshare.net/ssuserf482d4/ss-126936692)
   * [Copy-Pastable Logging Scheme for Python | by Dalya Gartzman | codeburst](https://codeburst.io/copy-pastable-logging-scheme-for-python-c17efcf9e6dc)
   * [**Python3: Logging With Multiprocessing | by Jonathonbao | Medium**](https://medium.com/@jonathonbao/python3-logging-with-multiprocessing-f51f460b8778)
+  * [Power-Up Your Python Logging. A guide to take you from beginner to… | by David Tippett | Better Programming | Medium](https://medium.com/better-programming/power-up-your-python-logging-6dd3ed38f322)
   * [Autologging — easier logging and tracing for Python classes](http://pythonhosted.org/Autologging/)
   * [loguru: Python logging made (stupidly) simple](https://github.com/Delgan/loguru)
-  * [Power-Up Your Python Logging. A guide to take you from beginner to… | by David Tippett | Better Programming | Medium](https://medium.com/better-programming/power-up-your-python-logging-6dd3ed38f322)
+  * logzero [Robust and effective logging for Python 2 and 3](https://pythonawesome.com/robust-and-effective-logging-for-python-2-and-3/)
 * loop
   * [python loop performace check](https://gist.github.com/junghanw/ab8e7d758e4c866260172e2ed27a9ef0)
   * [David DB Baumgold Looping Like a Pro in Python PyCon 2017](https://www.youtube.com/watch?v=u8g9scXeAcI)
@@ -2839,6 +2846,7 @@ Python
 * [Autowire - light & simple dependency injection library for Python](https://github.com/Hardtack/Autowire)
 * [Bake — the strangely familiar workflow utility](https://github.com/kennethreitz/bake) makefile과 비슷하게 bakefile을 통해 작업 처리. automation
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
+* BaseCrack [A Python tool that can decode all alphanumeric base encoding schemes](https://pythonawesome.com/a-python-tool-that-can-decode-all-alphanumeric-base-encoding-schemes/)
 * [BeeWare - The IDEs of Python](http://pybee.org/)
   * [Building a Cross-Platform Native App with BeeWare](https://www.youtube.com/watch?v=HHkqK-Ncs0U)
   * [Introduction to BeeWare - Singapore Python User Group](https://www.youtube.com/watch?v=i5DmL294lIg)
@@ -2856,6 +2864,7 @@ Python
 * [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
 * [bwa: 이거 봐(Bwa): Notification Sender for Discord, E-mail, Slack, and Telegram](https://github.com/somniumism/bwa)
 * [c8d - A Chip-8 disassembler in Python](https://github.com/prophittcorey/c8d)
+* [calcengine: Simple Python Calculation Engine](https://github.com/bsdz/calcengine)
 * [castervoice - On Voice Coding](https://dusty.phillips.codes/2020/02/15/on-voice-coding/)
 * Celery
   * [Introduction to Celery](https://www.youtube.com/watch?v=waD4MEj8WGw)
@@ -2932,6 +2941,7 @@ Python
 * [docx](https://pypi.python.org/pypi/docx) Microsoft Office Word 2007
   * [extract data(paragraph, table) from docx file](http://stackrefactoring.blogspot.com/2016/10/extract-dataparagraph-table-from-docx.html)
 * [DoGelang](http://pyos.github.io/dg/)
+* domhttpx [A google search engine dorker with HTTP toolkit built with python](https://pythonawesome.com/a-google-search-engine-dorker-with-http-toolkit-built-with-python/)
 * [dontasq - Extend built-in Python collections with LINQ-for-objects style methods](https://github.com/borzunov/dontasq)
 * [Edward is a Python library for probabilistic modeling, inference, and criticism](https://github.com/blei-lab/edward)
 * [Elizabeth - a Python library, which helps generate mock data for various purposes. This data can be particularly useful during software development and testing. http://lk-geimfari.github.io/elizabeth ](https://github.com/lk-geimfari/elizabeth)
@@ -2974,6 +2984,7 @@ Python
 * [ghapi: A delightful and complete interface to GitHub's amazing API](https://github.com/fastai/ghapi/tree/master/)
   * [Learn about ghapi, a new third-party Python client for the GitHub API - The GitHub Blog](https://github.blog/2020-12-18-learn-about-ghapi-a-new-third-party-python-client-for-the-github-api/)
 * [Ghost.py - Webkit based scriptable web browser for python. http://ghost-py.readthedocs.org](https://github.com/jeanphix/Ghost.py)
+* GNU Radio [A free toolkit that provides signal processing blocks to implement software radios](https://pythonawesome.com/a-free-toolkit-that-provides-signal-processing-blocks-to-implement-software-radios/)
 * [GOOGLER: NOW YOU CAN GOOGLE FROM LINUX TERMINAL!](https://itsfoss.com/review-googler-linux/)
 * google API
   * calendar [One Day Builds: Task Automation With Python](https://www.youtube.com/watch?v=sbhQNZVxcPc)
@@ -3079,6 +3090,7 @@ Python
 * [oneliner - Convert any Python file into a single line of code](https://github.com/csvoss/oneliner)
 * [Opnieuw: A simple and intuitive retrying library for Python](https://tech.channable.com/posts/2020-02-05-opnieuw.html)
 * [Orator - AN ACTIVERECORD ORM FOR PYTHON](http://orator-orm.com/)
+* orfipy [A python tool to extract ORFs in an extremely and fast and flexible manner](https://pythonawesome.com/a-python-tool-to-extract-orfs-in-an-extremely-and-fast-and-flexible-manner/)
 * [outrun: Execute a local command using the processing power of another Linux machine](https://github.com/Overv/outrun)
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
 * [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
@@ -3324,6 +3336,7 @@ Python
   * [Tracing the Python GIL | Maarten Breddels’ blog](https://www.maartenbreddels.com/perf/jupyter/python/tracing/gil/2021/01/14/Tracing-the-Python-GIL.html) viztracer + perf
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
+* vyper [Pythonic Smart Contract Language for the EVM](https://pythonawesome.com/pythonic-smart-contract-language-for-the-evm/)
 * [Watchdog](http://pythonhosted.org/watchdog/) Python API library and shell utilities to monitor file system events
   * [Watching a directory for file changes with Python](http://brunorocha.org/python/watching-a-directory-for-file-changes-with-python.html)
   * [Using Python's Watchdog to monitor changes to a directory](https://www.michaelcho.me/article/using-pythons-watchdog-to-monitor-changes-to-a-directory)
@@ -3479,6 +3492,7 @@ Python
 
 ## Library IDE
 * [Best Python IDEs and Code Editors You Must Use in 2020](https://towardsdatascience.com/best-python-ides-and-code-editors-you-must-use-in-2020-2303a53db24)
+* [A Python IDE meant for learning programming](https://pythonawesome.com/a-python-ide-meant-for-learning-programming/)
 * [Eric - a full featured Python editor and IDE, written in Python](https://eric-ide.python-projects.org)
 * PyCharm
   * [practice - 별도 설치한 python으로 설정하기](https://gist.github.com/hyunjun/6b3896931108a9f174e8aa9003e506db#file-configuration-md)
@@ -4295,6 +4309,7 @@ Python
 * [Python Will be Dead in 2021? A review of the final version of Python 3.9 | by Rizky Maulana N | Towards Data Science](https://towardsdatascience.com/python-will-be-dead-in-2021-bdbc28400996)
 * [Python 3.9에 등장한 상큼한 8가지 Features | MADTECH](https://tech.madup.com/Python3.9/)
 * [New Features in Python 3.10 | Towards Data Science](https://towardsdatascience.com/new-features-in-python-3-10-66ac05e62fc7)
+* [How to use the coolest new features in Python 3.10](https://thenextweb.com/news/how-to-use-new-features-python-3-10-syndication)
 * [Features You Likely Don’t Use in Python 3 — But You Should | LaptrinhX](https://laptrinhx.com/features-you-likely-don-t-use-in-python-3-but-you-should-2455806769/)
 * [9 Python 3 Hacks Programmers Probably Don’t Utilize | Better Programming](https://medium.com/better-programming/9-python-3-features-you-might-not-use-yet-fade13932a3e)
 * 2to3
