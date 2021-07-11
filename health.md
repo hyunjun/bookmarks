@@ -28,3 +28,4 @@ Health
 * [맨몸운동](http://magazine.channel.daum.net/p/tag/%EB%A7%A8%EB%AA%B8%EC%9A%B4%EB%8F%99?category=jamiet)
 * [러닝머신보다 효과 좋은 마운틴 클라이머 운동](https://brunch.co.kr/@tenbody/1419)
 * [플랭크 운동 종류](https://imgur.com/a/x2TYgyv)
+* [목 아무리 주물러도 안 풀리던 게 바로 풀렸다고 난리 난 스트레칭 방법 (+영상) – JoaPost](http://joapost.com/?p=252921)
