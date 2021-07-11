@@ -7,6 +7,7 @@ Economy
   * [기본소득, 정치적 시민을 만들어낼 수 있는 마중물](http://www.huffingtonpost.kr/biyn/story_b_7348432.html)
   * [일반 사람들은 소득 불평등 정도를 제대로 알고 있을까요?](http://newspeppermint.com/2015/06/01/perceivinginequality/)
   * [기본소득의 다양한 스펙트럼 총정리](http://www.ttimes.co.kr/view.html?no=2017030313077722164)
+  * [근로소득과 세금 + 준조세에 대한 생각](https://rein.kr/blog/archives/5402)
 * [우버와 갈라파고스?](http://www.venturesquare.net/577294)
 * [16조달러, 사상 최대 상속전쟁이 시작된다](http://www.huffingtonpost.kr/nopil-kwak/story_b_6907098.html)
 * [최저 임금은 왜 올라가지 않는가](http://ppss.kr/archives/38239)
