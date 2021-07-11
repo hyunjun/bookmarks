@@ -962,6 +962,7 @@ Web
 * [웹어셈블리를 활용한 유망한 프로그래밍 언어 프로젝트 10가지 - ITWorld Korea](https://www.itworld.co.kr/news/196324)
 * [웹어셈블리 인기에 날개달까?··· 주목할 만한 언어 프로젝트 11가지 - CIO Korea](https://www.ciokorea.com/news/199344)
 * [Making JavaScript run fast on WebAssembly](https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly)
+* [Making JavaScript on WebAssembly Fast - YouTube](https://www.youtube.com/watch?v=CRaMls9oVBw)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
