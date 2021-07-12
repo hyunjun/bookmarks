@@ -1,6 +1,5 @@
 Game
 ====
-* [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games/v2)
 * [게임 만드는 비법, 거저 퍼드립니다](http://www.huffingtonpost.kr/asadal/story_b_6765806.html)
 * [던전999F + 1인개발에 대한 몇가지 이야기](http://wlhermit.blog.me/220319619224)
 * [CARD GAME RULES](http://www.pagat.com/)
@@ -35,7 +34,6 @@ Game
 * [피카츄 배구](https://gorisanson.github.io/pikachu-volleyball/ko/)
 * [게임 클라이언트 프로그래머로 취업하기 위해 필요한 10가지](https://ddayin.tistory.com/296)
 * ["I Need Practice Programming": 49 Ideas for Game Clones to Code](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
-* [**Software Library: MS-DOS Games : Free Software : Free Download, Borrow and Streaming : Internet Archive**](https://archive.org/details/softwarelibrary_msdos_games) emulator
 * [FreeCol - a turn-based strategy game based on the old game Colonization, and similar to Civilization. The objective of the game is to create an independent nation](https://github.com/FreeCol/freecol)
 * [Curriculum Guide | Riot Games](https://www.riotgames.com/en/urf-academy/curriculum-guide)
 * [Build Pac-Man Game With JavaScript - YouTube](https://www.youtube.com/watch?v=YBtzzVwrTeE)
@@ -100,6 +98,11 @@ Game
   * [Unity에서 Unreal로 갈아타자](https://www.slideshare.net/ddayinhwang9/unity-unreal-210095797)
 * [universal-doom: A single .exe binary which runs DOOM on DOS 6, Windows 95 and Windows 10 (and probably everything in between)](https://github.com/nneonneo/universal-doom)
 * [Vassal - a game engine for building and playing online adaptations of board games and card games](http://www.vassalengine.org/)
+
+## Library DOS
+* [DOS 프로그램 저장소 - DOS 프로그램 저장소](https://oldpc.tistory.com/)
+* [DOSGames.com Free DOS game downloads - Over 1,500 games](https://dosgames.com/)
+* [**Software Library: MS-DOS Games : Free Software : Free Download, Borrow and Streaming : Internet Archive**](https://archive.org/details/softwarelibrary_msdos_games/v2) emulator
 
 ## Library Python
 * [Lightweight snake game running in the console](https://github.com/tancredi/python-console-snake)
