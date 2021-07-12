@@ -149,10 +149,6 @@ Go
 * [Go 언어로 우버에서 초당 요청수가 가장 많은 서비스를 어떻게 개발했나?](https://only2sea.wordpress.com/2016/03/08/go-%EC%96%B8%EC%96%B4%EB%A1%9C-%EC%9A%B0%EB%B2%84%EC%97%90%EC%84%9C-%EC%B4%88%EB%8B%B9-%EC%9A%94%EC%B2%AD%EC%88%98%EA%B0%80-%EA%B0%80%EC%9E%A5-%EB%A7%8E%EC%9D%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-2/)
 * [An introduction to LLVM in Go](https://blog.felixangell.com/an-introduction-to-llvm-in-go/)
 * [gotips - golang tips](https://github.com/beyondns/gotips)
-* [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
-* [Go kit - A toolkit for microservices](http://gokit.io/)
-  * [gokit-examples](https://github.com/shijuvar/gokit-examples)
-  * [Go Microservices with Go kit: Introduction](https://medium.com/@shijuvar/go-microservices-with-go-kit-introduction-43a757398183)
 * [How I have rewritten my cryptocurrency from PHP to Go in 8 months. Part 1](http://blog.dcoin.club/2016/03/11/go-part1/)
 * [software.intel.com - Golang](https://software.intel.com/en-us/tags/42877)
 * [Go언어로 오픈소스 배송조회 서비스 만들기](http://subicura.com/2016/06/13/start-go-shipment-tracking-opensource.html)
@@ -507,7 +503,6 @@ Go
   * [A guide to linting Go programs](https://freshman.tech/linting-golang/)
 * [golongpoll - golang HTTP longpolling library, making web pub-sub easy!](https://github.com/jcuga/golongpoll)
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
-* [Go Micro - a framework for microservice development](https://go-micro.dev/)
 * gomobile [Mobile · golang/go Wiki](https://github.com/golang/go/wiki/Mobile)
   * [Go 언어로 Android / iOS 앱 코드 작성하기](https://open-support.tistory.com/entry/Go-%EC%96%B8%EC%96%B4%EB%A1%9C-Android-iOS-%EC%95%B1-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 * [go-nfs: golang NFSv3 server](https://github.com/willscott/go-nfs/)
@@ -631,6 +626,19 @@ Go
 * [xurls - Extract urls from text](https://github.com/mvdan/xurls)
 * [Yahoo Stock Quotes in Go](https://github.com/doneland/yquotes)
 * [yh: YAML syntax highlighter to bring colours where only jq could](https://github.com/andreazorzetto/yh)
+
+## Library Microservice
+* [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
+* [Building Microservices in Go Series' Articles - DEV Community](https://dev.to/mariocarrion/series/11630)
+  * [Building Microservices in Go: Caching using memcached - DEV Community](https://dev.to/mariocarrion/building-microservices-in-go-caching-using-memcached-2f1l)
+  * [Building Microservices in Go: Domain Driven Design and Project Layout - DEV Community](https://dev.to/mariocarrion/microservices-in-go-domain-driven-design-and-project-layout-2108)
+  * [Building Microservices in Go: Repository Pattern - DEV Community](https://dev.to/mariocarrion/building-microservices-in-go-repository-pattern-5pa)
+  * [Building Microservices in Go: Services in Domain Driven Design - DEV Community](https://dev.to/mariocarrion/building-microservices-in-go-services-in-domain-driven-design-3oic)
+  * [Building Microservices in Go: REST APIs: Implementing and Dealing with errors - DEV Community](https://dev.to/mariocarrion/building-microservices-in-go-rest-apis-implementing-and-dealing-with-errors-5gpc)
+* [Go kit - A toolkit for microservices](http://gokit.io/)
+  * [gokit-examples](https://github.com/shijuvar/gokit-examples)
+  * [Go Microservices with Go kit: Introduction](https://medium.com/@shijuvar/go-microservices-with-go-kit-introduction-43a757398183)
+* [Go Micro - a framework for microservice development](https://go-micro.dev/)
 
 ## Library MySQL
 * [Three bugs in the Go MySQL Driver](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
