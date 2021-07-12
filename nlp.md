@@ -1221,6 +1221,7 @@ NLP
   * [Vincent Warmerdam - Playing by the Rules-Based-Systems | PyData Eindhoven 2020 - YouTube](https://www.youtube.com/watch?v=nJAmN6gWdK8)
   * [merge-idioms: Implementation of Spacy's NLP pipeline for merging idioms as standalone tokens](https://github.com/eubinecto/merge-idioms) 숙어는 tokenizing할 때 각 단어별로 나누지 않는 library
   * [Prodigy: A new tool for radically efficient machine teaching](https://explosion.ai/blog/prodigy-annotation-tool-active-learning)
+  * [Introducing spaCy v3.1 · Explosion](https://explosion.ai/blog/spacy-v3-1)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 * [TextFeatureSelection · PyPI](https://pypi.org/project/TextFeatureSelection/)
