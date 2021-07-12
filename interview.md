@@ -209,6 +209,7 @@ Interview
 * [데이터 엔지니어 두 번째 취준 회고록 — 그랩의 블로그](https://tansfil.tistory.com/66)
 * [what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"](https://github.com/alex/what-happens-when)
 * [Staff engineer interview 경험](https://www.facebook.com/groups/helpdev/permalink/4088725231186787/)
+* [시리즈 | 개발자 취업 가이드 - ding_coding_co](https://velog.io/@academey/series/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B7%A8%EC%97%85%EA%B0%80%EC%9D%B4%EB%93%9C)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
