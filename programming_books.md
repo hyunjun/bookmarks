@@ -487,6 +487,7 @@ Programming Books
 * (NOT YET) [더 괜찮은 개발자가 되기 위한 AI 품질 관리 가이드 | 프리렉](https://freelec.co.kr/book/%EB%8D%94-%EA%B4%9C%EC%B0%AE%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-ai-%ED%92%88%EC%A7%88-%EA%B4%80%EB%A6%AC-%EA%B0%80%EC%9D%B4%EB%93%9C/)
 * (NOT YET) [엑셀과 비교하며 배우는 파이썬 데이터 분석](https://jpub.tistory.com/1159)
 * (NOT YET) [루비페이퍼 :: 파이썬을 이용한 데이터 분석의 정석](https://www.rubypaper.co.kr/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EC%9D%98-%EC%A0%95%EC%84%9D)
+* (NOT YET) [실무 예제로 배우는 데이터 공학](https://jpub.tistory.com/1175)
 
 ## Deep Learning
 * 가장 빨리 만나는 딥러닝 with Caffe
@@ -1671,6 +1672,7 @@ Programming Books
   * [Do it! 쉽게 배우는 R 텍스트 마이닝 - 08 텍스트 마이닝 프로젝트: 차기 대선 주자 SNS 여론 분석](https://youngwoos.github.io/Doit_textmining/08-project2.html)
 * (NOT YET) [메이저리그 야구 통계학 2/e | 에이콘출판사](http://www.acornpub.co.kr/book/mlb-statistics-2e)
 * (NOT YET) [실전에서 바로 쓰는 시계열 데이터 처리와 분석 in R](https://jpub.tistory.com/1173)
+* (NOT YET) [친절한 R with 스포츠 데이터](https://kuduz.tistory.com/1258)
 
 # Rust
 * (NOT YET) [러스트 프로그래밍 공식 가이드](https://jpub.tistory.com/980)
