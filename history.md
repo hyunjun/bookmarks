@@ -341,6 +341,7 @@ History
 * [삼국지 실제 역사적 배경과 실제 지리](https://www.youtube.com/watch?v=Y5CyZJgiuVE)
 * [정사 삼국지방 파성넷](http://rexhistoria.net/)
 * [홍콩의 싸움: 정체성의 관점에서](http://slownews.kr/73604)
+* [기사 - 홍콩의 진실에 대하여 1: 우리는 아편전쟁의 진실을 모른다](https://www.ddanzi.com/ddanziNews/690716496)
 * [왜 중국은 고령화를 걱정하는가?](https://pgr21.com/freedom/90326)
 
 ## India
