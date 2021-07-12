@@ -250,6 +250,7 @@ Haskell
 * [Deploying your application with NixOS](https://romainviallard.dev/en/blog/deploying-your-app-with-nixos/)
 * [YourFirstGame with Haskell, Godot, and godot-haskell](https://spartanengineer.com/posts/2020-05-24-yourfirstgame-with-haskell-and-godot.html)
 * [Simply typed lambda calculus](https://splintah.gitlab.io/posts/2020-05-24-Simply-typed-lambda.html)
+* [하스켈 람다 대수](https://gist.github.com/nattybear/8c99c68c3acdfa8a952f9b804c810e94) lambda calculus
 * [Subgame perfection made difficult](https://julesh.com/2020/05/26/subgame-perfection-made-difficult/)
 * [Update Everything](https://funwithfunctions.com/posts/2020-05-24-update-everything.html)
 * [Making Music with Haskell From Scratch](https://www.youtube.com/watch?v=FYTZkE5BZ-0)
