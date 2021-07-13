@@ -656,6 +656,7 @@ Machine Learning
 * [Using Machine Learning to Predict Value of Homes On Airbnb | by Robert Chang | Airbnb Engineering & Data Science | Medium](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d) 에어비엔비에서의 가격 예측
 * [Using Machine Learning to Improve Streaming Quality at Netflix | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f) 넷플릭스에서 스트리밍 퀄리티 실시간 개선
 * [How we grew from 0 to 4 million women on our fashion app, with a vertical machine learning approach | by Gabriel Aldamiz... | HackerNoon.com | Medium](https://medium.com/hackernoon/how-we-grew-from-0-to-4-million-women-on-our-fashion-app-with-a-vertical-machine-learning-approach-f8b7fc0a89d7) 패션 앱에서 소비자 경험 개선
+* [Tuning Model Performance | Uber Engineering Blog](https://eng.uber.com/tuning-model-performance/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
