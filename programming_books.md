@@ -1389,6 +1389,7 @@ Programming Books
   * 탐라 문005.76네68ㅂ
   * 스톰 프로젝트 창시자의 저서
   * 람다 아키텍처, thrift 스리프트, 하둡, 맵리듀스, J캐스캘로그, 엘리펀트DB, 카산드라, 스톰
+* (NOT YET) [그래프 알고리즘 | 에이콘출판사](http://www.acornpub.co.kr/book/graph-algorithms)
 
 ## Casandra
 
