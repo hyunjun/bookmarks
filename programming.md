@@ -2843,6 +2843,7 @@ Programming
   * [암호나 안전한 정보를 저장하기 위한 소프트웨어 금고 (Vault)](http://egloos.zum.com/mcchae/v/11318672)
     * [docker-compose for vault with consul](https://github.com/mcchae/docker_consul_vault)
   * [비밀번호 TOOL, VAULT 사용법](https://seulcode.tistory.com/174)
+  * [Securing Secrets and Identity for 100,000+ Edge Devices at Starbucks with HashiCorp Vault](https://www.hashicorp.com/resources/starbucks-secrets-at-the-retail-edge-with-hashicorp-vault)
 
 # Serialization 직렬화
 * [**직렬화**](http://j.mearie.org/post/122845365013/serialization)
