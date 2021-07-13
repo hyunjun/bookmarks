@@ -737,6 +737,7 @@ Interview
 * [잘 정리된 이력서보다 중요한 것 – by minieetea](https://minieetea.com/2021/04/archives/6193)
 * [개발자가 회사에 지원할 때 점검해야 할 것 5가지](https://www.notion.so/5-29e9d83ea9ac4da491d8a3e95938d276)
 * [면접을 부르는 '개발자 이력서’ 쓰기 - 인프런 출시 소식](https://jhrogue.blogspot.com/2021/03/blog-post_22.html)
+* [자소서에 절대 쓰지 말아야 하는 다섯 가지 표현 | ㅍㅍㅅㅅ](https://ppss.kr/archives/243171)
 * [Writing a Resume for a Data Science Career](https://towardsdatascience.com/writing-a-resume-for-a-data-science-career-62b9acd11692)
 * [www.careercup.com/resume](https://www.careercup.com/resume)
 * [Get a better job: Power Verbs for Resume Writing](https://www.youtube.com/watch?v=SVAIXGhwYt8)
