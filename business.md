@@ -192,6 +192,7 @@ Business
 * [KPI가 피곤한 이유](https://brunch.co.kr/@lunarshore/316)
 * [잘못된 성과 지표의 위험 – Andrew Ahn](https://www.andrewahn.co/product/setting-wrong-metrics/)
 * [조직 문화: 직원들을 수동적 존재로 만들 것인가, 자기주도적인 인재로 만들 것인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/226677)
+* [내가 일하고 싶은 회사 만들기](https://brunch.co.kr/@yoon10003/44) 컬쳐북
 * [상거래 진화의 역사…실크로드에서 O2O까지](http://www.bloter.net/archives/241981)
 * [MBA 여름 인턴을 하면서 배운 점들](http://ppss.kr/archives/59371)
 * [기숙사를 제공하는 스타트업: 기업 복지에 대하여](http://ppss.kr/archives/57926)
