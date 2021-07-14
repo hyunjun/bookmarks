@@ -895,6 +895,7 @@ Scala
     * [The ZIO of the Future by John De Goes - YouTube](https://www.youtube.com/watch?v=u3pgyEiu9eU)
     * [Zymposium - Full Stack Development (Part 1) - YouTube](https://www.youtube.com/watch?v=0oz8ZTf-LD0)
     * [Zymposium - Full Stack Development (Part 2) - YouTube](https://www.youtube.com/watch?v=VqTqFhU9Mrs)
+    * [Zymposium - Variance - YouTube](https://www.youtube.com/watch?v=2uEjXuFBsBk)
     * [Part 1 - What is ZIO and should you learn it? - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=XwMKw03w8bs)
     * [Part 2 - `ZIO[_, _, Success]` - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=7MNY0o2i_vg)
     * [Part 3 - `ZIO[_, Error, _]` & Variance - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=oKaQXxEa7a8)
