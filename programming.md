@@ -2935,6 +2935,7 @@ Programming
 * [아마존, 에어비앤비, 넷플릭스의 AB테스트 결과 정리](https://brunch.co.kr/@digitalnative/17)
 * [기획자의 일 - A/B 테스트](https://brunch.co.kr/@yongjinjinipln/70)
 * [📰 뉴욕 타임즈는 어떻게 A/B 테스트를 할까?  다른 | 곽기은 | 커리어리](https://careerly.co.kr/comments/18849?)
+* [테크 웨비나 쿠팡 출신 개발자의 A/B 테스트 플랫폼 MVP 개발기 - YouTube](https://www.youtube.com/watch?v=w7JHb60zk9k)
 * [**뱅크샐러드의 실험플랫폼 분석 인프라 살펴보기 | 뱅크샐러드**](https://blog.banksalad.com/tech/experiment-platform-analysis-architecture/)
 * [The Causal Analysis of Cannibalization in Online Products - Code as Craft](https://codeascraft.com/2020/02/24/the-causal-analysis-of-cannibalization-in-online-products/)
 * [**일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | Evans Library**](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
