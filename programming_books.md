@@ -362,6 +362,7 @@ Programming Books
 * (NOT YET) [Real MariaDB - YES24](http://www.yes24.com/Product/Goods/12653486?OzSrank=1)
 * (NOT YET) [High Performance MySQL: Optimization, Backups, and Replication: Schwartz, Baron, Zaitsev, Peter, Tkachenko, Vadim: 9781449314286: Amazon.com: Books](https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287)
 * (NOT YET) [독학으로 예제따라 익히는 mysql/mariadb SQL 입문서](https://stricky.tistory.com/469)
+* (NOT YET) [업무에 바로 쓰는 SQL 튜닝](https://jybaek.tistory.com/926)
 
 # Data Science
 
@@ -689,6 +690,7 @@ Programming Books
   * [혼자 공부하는 머신러닝+딥러닝 - YouTube](https://www.youtube.com/playlist?list=PLVsNizTWUw7HpqmdphX9hgyWl15nobgQX)
 * (NOT YET) [선형대수와 통계학으로 배우는 머신러닝 with 파이썬](https://bjpublic.tistory.com/392)
 * (NOT YET) [이보다 더 쉬울 수 없는 자바 머신러닝 with Weka](https://bjpublic.tistory.com/393)
+* (NOT YET) [신호와 소음](https://jhrogue.blogspot.com/2021/07/blog-post_14.html)
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
