@@ -84,6 +84,7 @@ Sports
 * [류현진의 구종 체인지업, 하드 슬라이더, 커브 파헤치기](http://baseballgen.com/263)
 * [이현우의 MLB+ 데뷔전에서 반전을 만들어낸 오타니](http://v.sports.media.daum.net/v/20180402130304195)
 * [선발 에이스 시대의 종말이 온다 1이닝 선발부터 벌떼 불펜까지 다양해지는 투수 운용 방식](http://weekly.donga.com/3/all/11/1412439/1)
+* [로봇 심판과 판정 알고리즘의 의미 있는 도전](https://brunch.co.kr/@kakao-it/290)
 
 ## Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
