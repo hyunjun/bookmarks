@@ -2887,6 +2887,8 @@ Javascript
 * [React 18을 준비하세요.. 요약 | by 최철헌 | 네이버 플레이스 개발 블로그 | Jul, 2021 | Medium](https://medium.com/naver-place-dev/react-18%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EC%84%B8%EC%9A%94-8603c36ddb25)
 * [What's New in React 18 and More News from Frontend World - Frontend News #12 | frontendhouse.com - YouTube](https://www.youtube.com/watch?v=_0-DldcqPc0)
 * [클래스101의 디자인 시스템, One Product System | by 히로 | CLASS101 | Jul, 2021 | Medium](https://medium.com/class101/%ED%81%B4%EB%9E%98%EC%8A%A4101%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-one-product-system-35681c551343)
+* [ESLint - React에서 소스 코드를 분석하여 버그와 오류를 찾기 위해 ESLint를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/eslint/)
+* [Prettier - React에서 Prettier를 사용하여 코드의 포맷을 일정하게 유지시켜 보자](https://dev-yakuza.posstree.com/ko/react/prettier/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -3069,7 +3071,6 @@ Javascript
 * [From React to React Native. Getting started with mobile development | by Steffy Lo | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/from-react-to-react-native-5d884a1632d7)
 * [비주얼 타이머 앱 개발하며 배운 것들 | 매일 성장하기 - 김용균](https://edykim.com/ko/post/what-i-have-learned-from-visual-timer/)
 * [React Native에서 ESLint, Prettier를 프로처럼 사용하기 - React Native 프로젝트에 ESLint와 Prettier를 적용하는 방법과 Husky, lint-staged로 프로처럼 사용하는 방법에 대해서 알아봅니다](https://dev-yakuza.github.io/ko/react-native/eslint-prettier-husky-lint-staged/)
-* [Prettier - React에서 Prettier를 사용하여 코드의 포맷을 일정하게 유지시켜 보자](https://dev-yakuza.posstree.com/ko/react/prettier/)
 * [React Native에서 인앱 결제 구현하기 - React Native에서 인앱 결제를 구현하기 위해 react-native-iap를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react-native/react-native-iap/)
 * [Mark a Coordinate on Mapbox Map in React Native | by nhammad | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/mark-a-coordinate-on-mapbox-map-in-react-native-5d21c71ed46e)
 * [React Native and Android Studio: Everything you need to get started in Linux | by Romano Fenzo Flores | The Startup | Medium](https://medium.com/swlh/react-native-and-android-studio-everything-you-need-to-get-started-in-linux-b47154e78f9e)
@@ -3651,6 +3652,7 @@ Javascript
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
   * [TGrid 3분 PR 동영상](https://www.youtube.com/watch?v=r7zRdc0XxLk)
 * [ts-migrate: A tool to help migrate JavaScript code quickly and conveniently to TypeScript](https://github.com/airbnb/ts-migrate)
+* [tsx_fullstack_boilerplate: Full Stack Boilerplate](https://github.com/litcoderr/tsx_fullstack_boilerplate)
 * [typedi: Simple yet powerful dependency injection tool for JavaScript and TypeScript](https://github.com/typestack/typedi)
   * [typedi를 이용하여 Dependency Injection(DI) 이해하기](https://blog.naver.com/pjt3591oo/222386896479)
     * [typedi_sample](https://github.com/pjt3591oo/typedi_sample)
