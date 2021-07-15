@@ -3203,6 +3203,7 @@ Javascript
   * [Next.js typescript 프로젝트 생성부터 eslint 세팅까지](https://velog.io/@juunini/Next.js-typescript-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1%EB%B6%80%ED%84%B0-eslint-%EC%84%B8%ED%8C%85%EA%B9%8C%EC%A7%80)
   * [React 2025 – Build applications from the future, today](https://react2025.com/) next.js + react.js
   * [Develop. Preview. Ship. For the best frontend teams – Vercel](https://vercel.com/)
+  * [Next.js 에서 Static 파일 배포. Next.js 에서는 now 라는 자체 배포 플랫폼을 운영하고 있다. | by Ted Park | Medium](https://itstedpark.medium.com/next-js-%EC%97%90%EC%84%9C-static-%ED%8C%8C%EC%9D%BC-%EB%B0%B0%ED%8F%AC-86c9ae0f952f)
   * [serverless-next.js deploy](https://awesomezero.com/development/serverless/) AWS
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Piral, a Modern React-Based Microfrontends Library](https://www.infoq.com/news/2021/06/piral-microfrontends/)
