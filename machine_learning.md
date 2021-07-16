@@ -964,6 +964,7 @@ Machine Learning
 * [How to break a model in 20 days. A tutorial on production model analytics](https://evidentlyai.com/blog/tutorial-1-model-analytics-in-production)
 * [Shopee - Price Match Guarantee | Kaggle](https://www.kaggle.com/c/shopee-product-matching/discussion/238136)
 * [캐글 집 가격 예측 대회 탐색적 데이터 분석 - 캐글 스터디 2기 - YouTube](https://www.youtube.com/watch?v=KGJxNW67b7I)
+* [AI Factory](http://aifactory.space/)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
