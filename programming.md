@@ -408,6 +408,7 @@ Programming
   * [개발자들을 위한 검색 엔진 - Devbook | GeekNews](https://news.hada.io/topic?id=4269)
 * [What is content modeling? | Sanity.io guide](https://www.sanity.io/guides/content-modeling-guide-introduction)
 * [Why is NanoID Replacing UUID?. A Tiny, URL-Friendly Unique String… | by Charuka Herath | Jun, 2021 | Bits and Pieces](https://blog.bitsrc.io/why-is-nanoid-replacing-uuid-1b5100e62ed2)
+* [다른 개발자들은 어떤 포트폴리오 프로젝트를 만들었을까? feat. 포트폴리오 레퍼런스 찾는 법](https://velog.io/@ruizhen88/%EB%8B%A4%EB%A5%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%80-%EC%96%B4%EB%96%A4-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%97%88%EC%9D%84%EA%B9%8C)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -1702,6 +1703,7 @@ Programming
 * [Improving how we deploy GitHub - The GitHub Blog](https://github.blog/2021-01-25-improving-how-we-deploy-github/)
 * [LINE 오픈챗 서버 원클릭 릴리스 자동화 시스템 개발기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-openchat-server-release-automation/)
 * [CI/CD 자동화가 가져다 준 행복 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/ci-cd-automation/)
+* **[**실용주의 데브옵스 for MSA – tech.kakao.com](https://tech.kakao.com/2021/07/16/devops-for-msa/) GitOps, Argo CD 도입
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
 * teamcity
@@ -2462,6 +2464,7 @@ Programming
   * [기술 뉴스 #175 : 21-06-02 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1551)
   * [기술 뉴스 #176 : 21-06-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1552)
   * [기술 뉴스 #177 : 21-07-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1553)
+  * [기술 뉴스 #178 : 21-07-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1554)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
