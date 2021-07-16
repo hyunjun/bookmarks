@@ -3266,6 +3266,7 @@ Python
     * [OneQ Web Application Scrapy 웹 크롤링- OneQ](https://docs.google.com/presentation/d/1r_uJlPzxhBt8q6NxUYZBdf4MdOPFAJ6FCOpSpArWz10/edit#slide=id.p)
   * [웹 스크래핑(web scraping with python)](http://slowcampus.com/5)
   * [웹사이트 크롤링해서 파일 저장 하기(분양정보수집사례)](http://uslifelog.tistory.com/45)
+  * [웹크롤러 scrapy를 소개합니다](https://jybaek.tistory.com/927)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)
 * SimPy
