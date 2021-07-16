@@ -1841,6 +1841,9 @@ Javascript
   * [**꿀벌개발일지 :: npm registry 를 찾지 못하는 이슈**](https://ohgyun.com/804)
   * [Mac OS 업데이트 후, NPM install시 gyp 오류날 경우](https://jojoldu.tistory.com/566)
   * [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/)
+    * npm에서 보안 감사에 사용하는 npm audit이 문제 있다고 지적하는 글, React의 Dan Abramov 작성
+    * npm aduit은 별도 명령어도 있지만 npm install을 실행했을 때도 자동 실행. 먼저 npm audit 동작 방식 설명
+    * create-react-app으로 프로젝트 생성하자마자 나오는 5개의 취약점이 모두 개발 단계/빌드 시에만 쓰여서 실제 공격당할 가능성이 없음에도 이를 경고, 프로젝트 메인테이너들은 이와 관련한 업데이트 리포트를 계속 받아 시간 낭비
 * [Nx is a set of extensible dev tools for monorepos, which helps you develop like Google, Facebook, and Microsoft](https://nx.dev/)
   * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐. 소프트웨어의 수명과 복잡도는 대개 비례 관계입니다. 아무리 정교하고… | by 히로 | CLASS101 | Jun, 2021 | Medium](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77) microfrontend
     * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐 | GeekNews](https://news.hada.io/topic?id=4572)
@@ -2886,6 +2889,7 @@ Javascript
   * 기존에는 SSR을 하기 위해 매번 전체 애플리케이션을 작업하고 필요한 부분을 사용해야 했기에 비효율적
   * <Suspense>를 이용해서 별도의 단위로 분리한 뒤에 처리할 수 있어서 성능이 개선
 * [React 18을 준비하세요.. 요약 | by 최철헌 | 네이버 플레이스 개발 블로그 | Jul, 2021 | Medium](https://medium.com/naver-place-dev/react-18%EC%9D%84-%EC%A4%80%EB%B9%84%ED%95%98%EC%84%B8%EC%9A%94-8603c36ddb25)
+  * 리렌더링이 필요한 업데이트를 자동으로 묶어주는 "자동배치", 긴급 업데이트 외에 천천히 업데이트해도 되는 전환 업데이트를 명시적으로 할 수 있는 startTransition를 포함한 동시성 API, <Suspense>를 이용한 서버 사이드 렌더링의 사용 방법을 설명
 * [What's New in React 18 and More News from Frontend World - Frontend News #12 | frontendhouse.com - YouTube](https://www.youtube.com/watch?v=_0-DldcqPc0)
 * [클래스101의 디자인 시스템, One Product System | by 히로 | CLASS101 | Jul, 2021 | Medium](https://medium.com/class101/%ED%81%B4%EB%9E%98%EC%8A%A4101%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-one-product-system-35681c551343)
 * [ESLint - React에서 소스 코드를 분석하여 버그와 오류를 찾기 위해 ESLint를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/eslint/)
