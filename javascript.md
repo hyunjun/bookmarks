@@ -51,6 +51,7 @@ Javascript
 * [V8 JavaScript Engine 8.0 Reduces Heap by 40%, Adds Optional Chaining and Null Coalescing](https://www.infoq.com/news/2019/12/v8-8-0-heap-reduction/)
 * [자바스크립트와 V8 엔진의 메모리 관리 프로세스. Table of Contents | by Minjae Lee | 네이버 플레이스 개발 블로그 | Sep, 2020 | Medium](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1)
 * [Faster JavaScript calls · V8](https://v8.dev/blog/adaptor-frame)
+* [Chromium이 발표한 RenderingNG가 무엇인가? | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210713)
 * [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 * [**프론트엔드 개발자라면 알고 있어야 할 브라우저의 동작 과정 - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2021/03/27/How-browsers-work.html)
 * [Chromium Composition과 Layer | Seokho’s blog](https://devsdk.github.io/ko/development/2021/03/29/blink-render-composition.html)
@@ -2889,6 +2890,7 @@ Javascript
 * [클래스101의 디자인 시스템, One Product System | by 히로 | CLASS101 | Jul, 2021 | Medium](https://medium.com/class101/%ED%81%B4%EB%9E%98%EC%8A%A4101%EC%9D%98-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-one-product-system-35681c551343)
 * [ESLint - React에서 소스 코드를 분석하여 버그와 오류를 찾기 위해 ESLint를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/eslint/)
 * [Prettier - React에서 Prettier를 사용하여 코드의 포맷을 일정하게 유지시켜 보자](https://dev-yakuza.posstree.com/ko/react/prettier/)
+* [React 상태 관리 기술 소개 2021 ⚜️🌐 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210707)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -3638,6 +3640,7 @@ Javascript
   * [블룸버그가 TypeScript를 대규모로 도입하며 배운 것들 | GeekNews](https://news.hada.io/topic?id=4386)
 * [Building Strongly Typed REST Clients with TypeScript - YouTube](https://www.youtube.com/watch?v=aZ6nnGlfBG8)
 * [Lightning fast & simple Typescript Serverless builds - DEV Community](https://dev.to/aws-builders/lightning-fast-simple-typescript-serverless-builds-33ed)
+* [A TypeScript Express Starter App](https://morioh.com/p/8cd90da6e9c5)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
