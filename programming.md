@@ -208,6 +208,8 @@ Programming
 * [Dreyfus Model](http://blog.lastmind.io/archives/593)
 * [능력 있는 개발자는 어떻게 알아볼 수 있나? by 황준식님](https://okky.kr/article/370719)
 * [백발의 개발자가 되기 위한 커리어 패스](http://zdnet.co.kr/column_view.asp?artice_id=20141106211852)
+* [Overview - Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
+  * 소프트웨어 엔지니어, QA 엔지니어, SRE, 머신러닝 엔지니어, 엔지니어링 매니저마다 각 레벨에서의 기대되는 역할과 핵심 책임 정리
 * [CROSS-PLATFORM GUI TOOLKIT TRAINWRECK, 2016 EDITION](http://blog.johnnovak.net/2016/05/29/cross-platform-gui-trainwreck-2016-edition/)
 * [Top 8 Cross-Platform Frameworks for App Development in 2021 - Messapps](https://messapps.com/allcategories/development/best-cross-platform-app-development-frameworks/)
 * [**좋은 코딩을 위한 13 가지 간단한 규칙**](https://mingrammer.com/translation-13-simple-rules-for-good-coding)
