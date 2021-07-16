@@ -974,6 +974,10 @@ Docker
 * [실사례로 본 DB on Kubernetes 효과. 기업의 가장 중요한 자산은 Data이다. 그 Data를 보관하고… | by Jerry(이정훈) | Apr, 2021 | Medium](https://jerryljh.medium.com/%EC%8B%A4%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B3%B8-db-on-kubernetes-%ED%9A%A8%EA%B3%BC-eaed8e4e5811)
 * [실수 없이 안전하게 쿠버네티스 운영하기](https://toss.im/slash-21/sessions/1-5)
 * [Kubernetes 네트워크 이해하기 (1) : 컨테이너 네트워크부터 CNI까지 - Speaker Deck](https://speakerdeck.com/devinjeon/kubernetes-neteuweokeu-ihaehagi-1-keonteineo-neteuweokeubuteo-cniggaji)
+* [CNI Benchmark: Understanding Cilium Network Performance — Cilium](https://cilium.io/blog/2021/05/11/cni-benchmark)
+  * CNI인 Cilium과 Calico의 네트워크 성능 비교 차이점 분석, eBPF를 비교하기 위해 Calico eBPF도 비교 대상에 추가
+  * 컨테이너 간 네트워크에는 오버헤드가 있는데 eBPF는 iptables와 오버헤드 발생 부분 생략 가능, 네트워크 성능이 훨씬 개선
+  * 네트워크 부하를 더 크게 한 결과에서도 eBPF(Cilium, Calico 둘 다)가 좋은 성능
 * [11 Ways (Not) to Get Hacked | Kubernetes](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
 * [쿠버네티스 Admission Control #1 | 커피고래의 노트](https://coffeewhale.com/kubernetes/admission-control/2021/04/28/opa1/)
 * [쿠버네티스 Admission Control #2 - Open Policy Agent | 커피고래의 노트](https://coffeewhale.com/kubernetes/admission-control/2021/05/04/opa2/)
@@ -1002,6 +1006,19 @@ Docker
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
 * [Kubernetes: 6 open source tools to put your cluster to the test | The Enterprisers Project](https://enterprisersproject.com/article/2021/5/kubernetes-6-open-source-tools-to-test-clusters)
+* [Kubernetes Essential Tools: 2021. Review of the best tools for Kubernetes | by Javier Ramos | Jul, 2021 | ITNEXT](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572)
+  * K3D: 로컬용 Kubernetes 클러스터
+  * Lens: K8S IDE
+  * ArgoCD: GitOps
+  * Kanico: CI/CD 파이프라인
+  * Istio: 서비스 메쉬
+  * Crossplane: 서드파티 리소스 관리용
+  * Knative: 서버리스
+  * Kyverno: 정책 관리
+  * Kubevela: Open Application Model을 도입한 어플리케이션 플랫폼
+  * Snyk: 보안 감사
+  * Velero: 백업/복구
+  * Sealed Secrets: Git에 민감한 정보 저장
 * [Antrea Joins CNCF Sandbox](https://blogs.vmware.com/opensource/2021/05/05/antrea-joins-cncf-sandbox/) CNI(Container Network Interface)와 Kubernetes NetworkPolicy를 pod 수준에서 구현한 VMWare의 프로젝트
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
   * [컨테이너 기반의 워크플로우 솔루션 argo](http://bcho.tistory.com/1299)
