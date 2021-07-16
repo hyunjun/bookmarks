@@ -745,6 +745,7 @@ Git
   * 공개된 코드로 학습된 OpenAI의 Codex 모델을 이용해서 GitHub에서 AI와 페어 프로그래밍
   * 주석을 이해해서 코드를 작성해 주거나 반복적인 코드를 완성해 주거나 다른 코드를 제시
   * [Github Copilot에 관한 생각](https://brunch.co.kr/@advisor/34)
+  * [AI로 코딩?! 깃허브 코파일럿(GitHub Copilot) 프리뷰를 써봤습니다! - YouTube](https://www.youtube.com/watch?v=Km7LT5SJch8)
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
