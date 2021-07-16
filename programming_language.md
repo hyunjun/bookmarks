@@ -74,6 +74,10 @@ Programming Language
   * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=eKNEqWdC_Gs)
   * [Faster warmup, smaller downloads, JDK 16 builds with GraalVM 21.1 | graalvm](https://medium.com/graalvm/graalvm-21-1-96e18f6806bf)
   * [GraalVM at Facebook. Facebook is using GraalVM to accelerate… | by Alina Yurenko | graalvm | Jul, 2021 | Medium](https://medium.com/graalvm/graalvm-at-facebook-af09338ac519)
+  * [Facebook에서의 Graalvm | Oracle Java Embedded Korea Blog](https://blogs.oracle.com/javakr/graalvm-facebook)
+    * Facebook에서 Java 8/Java11용 Oracle JDK와 OpenJDK를 사용하다가 GraalVM으로 변경
+    * 성능 개선이 주목적이었기 때문에 GraalVM으로 전환하는 것만으로도 성능 향상, 모듈식 확장이 가능해 유지 보수가 편해질 것으로 판단해 GraalVM 선택
+    * 코드 변경 없이 런타임만 전환해서 마이그레이션 가능, Spark에 도입한 결과 CPU 사용량이 10% 감소
 * [-4 % 3 = ?](https://libsora.so/posts/sign-of-mod-operator/) 음수인 경우 language에 따라 mod의 결과가 다름
 * [연봉 높은 프로그래밍 언어 순위 2018](https://futurecreator.github.io/2018/08/07/highest-salaries-worldwide-programming-languages-2018/)
 * [Top 3 Programming Language To Watch Out in 2019](https://hackernoon.com/top-3-programming-language-to-watch-out-in-2019-95995e81ad2b)
