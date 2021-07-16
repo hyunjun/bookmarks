@@ -475,6 +475,7 @@ Web
 * [linear-gradient 속성에 transition 적용하기 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-05-12-linear-gradient-text)
 * [Learn CSS](https://web.dev/learn/css/)
 * [CSS-in-JS와 성능 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/877)
+* [IE를 버리면 사용할 수 있는 CSS 명세. | naradesign.github.io](https://naradesign.github.io/css-ie-not-supported.html)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
   * [Functional CSS, Tachyons - 함수형 CSS를 지향하는 프레임웍](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/tachyons)
@@ -972,6 +973,8 @@ Web
   * [Wasmer 1.0. By leveraging Wasm for software… | by Syrus Akbary | Wasmer | Jan, 2021 | Medium](https://medium.com/wasmer/wasmer-1-0-3f86ca18c043)
   * [wasmer-go: WebAssembly runtime for Go](https://github.com/wasmerio/wasmer-go)
   * [v86: x86 virtualization in your browser, recompiling x86 to wasm on the fly](https://github.com/copy/v86/)
+* [wasm-fizzbuzz: WebAssembly from Scratch: From FizzBuzz to DooM](https://github.com/diekmann/wasm-fizzbuzz)
+  * WebAssembly로 FizzBuzz 앱을 직접 작성해 보고 Doom을 WebAssembly로 포팅해보는 튜토리얼
 * [webassembly.sh](https://webassembly.sh/)
 
 # Websocket
