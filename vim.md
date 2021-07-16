@@ -13,6 +13,7 @@ Vim
 * [How not to be afraid of Vim anymore - A curation of the most popular commands and how to use them](https://medium.freecodecamp.org/how-not-to-be-afraid-of-vim-anymore-ec0b7264b0ae)
 * [Basic Vim Commands Every Linux User Must Know](https://linuxhandbook.com/basic-vim-commands)
 * [Vim 도대체 왜 쓰는가](https://bengi.kr/1349)
+* [vim 입문자 핵심 단축키 공략](https://jybaek.tistory.com/928)
 * [(05/30) "Vim 도대체 왜 쓰는가" 외 재미있는 개발 이야기](https://www.youtube.com/watch?v=LckoVnyWkX0)
 * [8 Vim Tricks That Will Take You From Beginner to Expert | by Tyler Lum | The Startup | Medium](https://medium.com/swlh/8-vim-tricks-that-will-take-you-from-beginner-to-expert-817ff4870245)
 * [7 Surprising Vim Tricks That Will Save You Hours | by Tyler Lum | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/7-surprising-vim-tricks-that-will-save-you-hours-b158d23fe9b7)
