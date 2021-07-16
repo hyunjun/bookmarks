@@ -900,6 +900,7 @@ Scala
     * [Part 2 - `ZIO[_, _, Success]` - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=7MNY0o2i_vg)
     * [Part 3 - `ZIO[_, Error, _]` & Variance - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=oKaQXxEa7a8)
     * [Part 4 - `ZIO[Env, _, _]` - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=e1kIjiWHVhE)
+    * [Part 5 - ZIO.access - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=1t0GPFumFkE)
     * [ZIO News - Issue #28 | Revue](https://www.getrevue.co/profile/zio/issues/zio-news-issue-28-654279)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
@@ -1676,6 +1677,7 @@ Scala
 * [Ep 12: ReaderT is good for the environment - YouTube](https://www.youtube.com/watch?v=t7rfvpd9mD0)
   * [evalexample/Video12.scala at video12 · justinhj/evalexample](https://github.com/justinhj/evalexample/blob/video12/src/main/scala/livevideos/Video12.scala)
 * [2021 06 27 automatic-coloring-for-effects.md at master · rssh/notes](https://github.com/rssh/notes/blob/master/2021_06_27_automatic-coloring-for-effects.md)
+* [Programming with Functions #8: Monads - YouTube](https://www.youtube.com/watch?v=KZCoBTRBRMs)
 
 ## Monad Tagless Final
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
@@ -1908,6 +1910,7 @@ Scala
 * [Scala 3: Anti-Givens - YouTube](https://www.youtube.com/watch?v=HQojyuZK-Uo)
 * [Scala 3: Anti-Givens - Rock the JVM Blog](https://blog.rockthejvm.com/anti-givens/)
 * [Scala 3 Tech Report by SoftwareMill](https://softwaremill.com/scala-3-tech-report/)
+* [#LETSMEETUP - Will Scala 3 be your new favorite language? - YouTube](https://www.youtube.com/watch?v=DwmQgtvf7F0)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
