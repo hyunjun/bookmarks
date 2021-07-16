@@ -38,6 +38,7 @@ NoSQL
 * [5 Pitfalls of NoSQL Databases. I recorded a video in which I talk… | by Maciej Szymczyk | Sep, 2020 | ITNEXT](https://itnext.io/5-pitfalls-of-nosql-databases-c35012431a80)
 * [Have the tables turned on NoSQL? - Stack Overflow Blog](https://stackoverflow.blog/2021/01/14/have-the-tables-turned-on-nosql/)
 * [NoSQL Data Modeling Techniques – Highly Scalable Blog](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
+* [Airbridge가 직접 개발한 OLAP DB, Luft를 소개합니다](https://blog.ab180.co/posts/introducing-luft)
 
 # ArangoDB
 * [Performance comparison between ArangoDB, MongoDB, Neo4j and OrientDB](https://www.arangodb.com/2015/06/performance-comparison-between-arangodb-mongodb-neo4j-and-orientdb/)
