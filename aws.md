@@ -477,6 +477,7 @@ AWS
 * [아직도 Amazon GuardDuty 도입을 안 하셨다면?](https://urbanbase.github.io/dev/2020/11/01/Amazon-GuardDuty.html)
 * [AWS의 눈 - Cloud Watch - YouTube](https://www.youtube.com/watch?v=jGryI-hBA38)
 * [CloudWatch를 이용한 RDS (PostgreSQL) 스케줄링 시작/종료](https://jojoldu.tistory.com/572)
+* [CloudWatch 이상 지표를 슬랙 알람으로 받기 (feat. SNS, Lambda)](https://jojoldu.tistory.com/586)
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
@@ -896,6 +897,7 @@ AWS
 * [aws-ml-experimenter - Framework for running ML models on Amazon EC2 and analyzing results with Shiny](https://github.com/rikturr/aws-ml-experimenter)
 * [AWS Report - Tool For Analyzing Amazon Resources](https://www.kitploit.com/2020/01/aws-report-tool-for-analyzing-amazon.html)
 * [AWS SSM Send-Command · Actions · GitHub Marketplace](https://github.com/marketplace/actions/aws-ssm-send-command)
+  * [영상 현직 개발자가 추천하는 쉽고 편한 오픈소스 2종 - ZDNet korea](https://zdnet.co.kr/view/?no=20210714134829) aws ssm send-command, tailwind css
 * [AWS Toolkit for IntelliJ를 통해 손쉽게 서버리스 앱 배포해 보기](https://aws.amazon.com/ko/blogs/korea/aws-toolkit-for-intellij-now-generally-available)
 * Boto3
   * [Now Available – AWS SDK For Python (Boto3)](https://aws.amazon.com/ko/blogs/aws/now-available-aws-sdk-for-python-3-boto3/)
