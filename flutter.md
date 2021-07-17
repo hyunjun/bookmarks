@@ -107,6 +107,7 @@ Flutter
 * [Shared preferences - 이번 블로그 포스트에서는 Flutter에서 로컬에 간단한 데이터를 저장하기 위해 Shared preferences 패키지를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/flutter/shared-preferences/)
 * [SQLite - 이번 블로그 포스트에서는 Flutter에서 SQLite를 사용하는 방법에 대해서 살펴봅시다](https://dev-yakuza.posstree.com/ko/flutter/widget/sqflite/)
 * [플러터 iOS 앱 실행시 iproxy 관련 경고가 뜨며 앱이 실행되지 않는다면?](https://www.androidhuman.com/2021-07-14-flutter_ios_iproxy)
+* [Unity 개발자의 Flutter 앱 개발기 🤖](https://velog.io/@sangh518/Unity-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-Flutter-%EC%95%B1-%EA%B0%9C%EB%B0%9C%EA%B8%B0)
 
 # Dart
 * [awesome-dart: A curated list of awesome Dart frameworks, libraries, and software](https://github.com/yissachar/awesome-dart)
