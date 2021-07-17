@@ -81,6 +81,7 @@ App
 * Figma
   * [기획자, 디자이너, 퍼블리셔의 경계를 허무는 물건, Figma](https://medium.com/@gssisaac/%EA%B8%B0%ED%9A%8D%EC%9E%90-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94%EC%9D%98-%EA%B2%BD%EA%B3%84%EB%A5%BC-%ED%97%88%EB%AC%B4%EB%8A%94-%EB%AC%BC%EA%B1%B4-figma-f9bd1162ebd4)
   * [주니어 개발자가 Figma로 로고 디자인 해본 썰.txt - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/12/27/Refatoring-Logo-with-Figma.html)
+  * [소규모 팀을 위한 Figma 디자인 핸드오프 시스템 (파일 공유) | by Jiyu Han | Jul, 2021 | Medium](https://jiyu0719.medium.com/%EC%86%8C%EA%B7%9C%EB%AA%A8-%ED%8C%80%EC%9D%84-%EC%9C%84%ED%95%9C-figma-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%95%B8%EB%93%9C%EC%98%A4%ED%94%84-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%8C%8C%EC%9D%BC-%EA%B3%B5%EC%9C%A0-cf497b4f7f87)
 * [fra.me](https://fra.me/)
   * [프레임 “웹브라우저에서 윈도우 프로그램 쉽게 띄우세요”](http://www.bloter.net/archives/233836)
 * [immersion - a people-centric view of your email life](https://immersion.media.mit.edu/)
@@ -1043,6 +1044,7 @@ App
   * sed [Mac OS X에서 Multi Tab(\t\t) 정리하기](https://jojoldu.tistory.com/542)
 * [Mac에서 개발 환경 (IntelliJ 기반) 꾸미기](https://jojoldu.tistory.com/556)
 * [macOS에서 한글 파일/디렉터리 잘 다루기 – rein's world](https://rein.kr/blog/archives/5378)
+* [gluebyte — 맥에서 깨진 한글 파일명 복구하기](https://gluebyte.tumblr.com/post/132268284865)
 * [Alacritty - Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
 * brew
