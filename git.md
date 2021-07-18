@@ -746,6 +746,7 @@ Git
   * 주석을 이해해서 코드를 작성해 주거나 반복적인 코드를 완성해 주거나 다른 코드를 제시
   * [Github Copilot에 관한 생각](https://brunch.co.kr/@advisor/34)
   * [AI로 코딩?! 깃허브 코파일럿(GitHub Copilot) 프리뷰를 써봤습니다! - YouTube](https://www.youtube.com/watch?v=Km7LT5SJch8)
+  * [GitHub Copilot: A Powerful, Controversial Autocomplete for Developers – The New Stack](https://thenewstack.io/github-copilot-a-powerful-controversial-autocomplete-for-developers)
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
