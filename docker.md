@@ -604,6 +604,7 @@ Docker
   * [practice of `--env-file=... --rm -v <local dir>:<container dir> -p <host port>:<container port>`](https://github.com/hyunjun/practice/commit/44863bda89d8e306e0b60974d089a8da26000c41)
   * [A Brief Primer on Docker Networking Rules: EXPOSE, -p, -P, --link](https://www.ctl.io/developers/blog/post/docker-networking-rules/)
   * [맥에서 도커 네트워크 포트 여는 방법](http://bcho.tistory.com/1251)
+  * [**network bridge mode : 네이버블로그**](https://blog.naver.com/pjt3591oo/222436182026)
   * [Start containers automatically](https://docs.docker.com/engine/admin/start-containers-automatically/)
   * pipe-like, stdin, stdout; 몇 가지 테스트해봤으나 잘 안됨
     * [Attach stdout of one container to stdin of another (pipe-like)](https://github.com/moby/moby/issues/14221)
