@@ -306,6 +306,7 @@ Android
   * [Dagger Hilt로 안드로이드 의존성 주입 시작하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/07/28/android-dagger-hilt.html)
   * [HILT 에 대해서 정리해 보겠습니다. # DI Dependency Injection](https://developer88.tistory.com/349)
   * [Hilt,Dagger cannot access DefaultActivityViewModelFactory](https://tiii.tistory.com/46)
+  * [Compose Tab without Hilt. Migration Rule 4 : Compose Navigation… | by SeongUg Steve Jung | Jul, 2021 | Medium](https://jsuch2362.medium.com/compose-tab-without-hilt-34992f27ad4b)
 * DeviceFarm/STF [코로나 시대 원격 QA! 오픈소스 디바이스팜 STF 도입기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/remote-qa-devicefarm-stf/)
 * [Flutter](flutter.md)
 * [Fresco - 페이스북이 만든 안드로이드 이미지 라이브러리](http://fresco.recrack.com/)
