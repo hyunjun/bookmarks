@@ -2,6 +2,7 @@ Clojure
 =======
 * [clojure.kr](http://clojure.kr)
 * [Articles: clojure | Functional Works](https://functional.works-hub.com/clojure-articles)
+* [Clojure - Clojure Deref (July 16, 2021)](https://clojure.org/news/2021/07/16/deref)
 * [www.tryclj.com](http://www.tryclj.com/)
 * [clojurecademy.com](https://clojurecademy.com)
 * [clojureverse.org](https://clojureverse.org/)
@@ -369,6 +370,8 @@ Clojure
 * [Inspiring a future Clojure editor with forgotten Lisp UX - Shaun Lebron - YouTube](https://www.youtube.com/watch?v=K0Tsa3smr1w)
 * [OSS Clojure-Datalog Databases](https://clojurelog.github.io/)
 * [On Types](https://blog.cleancoder.com/uncle-bob/2021/06/25/OnTypes.html)
+* [Getting Started with Site - YouTube](https://www.youtube.com/watch?v=1QJQF4NwOkQ)
+* [Building Site - YouTube](https://www.youtube.com/playlist?list=PLrCB9bq0iVIoCCV7SGJH1bXTrDfp2mP4i)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -1079,6 +1082,7 @@ Clojure
   * [bb-clis: Babashka CLIs](https://github.com/cldwalker/bb-clis)
   * [pod-babashka-sqlite3: A babashka pod for interacting with sqlite3](https://github.com/babashka/pod-babashka-sqlite3)
   * [reorder.clj babashka script for reordering requires and imports in clojure files](https://gist.github.com/laurio/01530ea7700752885df21e92bb926f75)
+  * selmer [Babashka Selmer << in action – Nextjournal](https://nextjournal.com/borkdude/babashka-selmer)
   * [spartan.spec: A spartan version of clojure.spec compatible with babashka](https://github.com/borkdude/spartan.spec)
 
 ## Library GraalVM
@@ -1155,6 +1159,7 @@ Clojure
 * [JEPSEN - Distributed Systems Safety Research](http://jepsen.io/)
   * [Understanding the Jepsen toolkit // Polyglot Artisan](https://rhishikesh.com/posts/understanding_the_jepsen_toolkit/)
 * [kamera: UI testing via image comparison and devcards](https://github.com/oliyh/kamera)
+* [rcf: turn your Rich Comment Forms into tests](https://github.com/hyperfiddle/rcf)
 * [stripe-tester-clj - Test Stripe webhooks locally in Clojure](https://github.com/buttercloud/stripe-tester-clj)
 
 # Transducer
