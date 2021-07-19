@@ -1331,6 +1331,8 @@ Javascript
   * [Developing Backbone.js Applications](http://addyosmani.github.io/backbone-fundamentals/)
 * [bayes.js - MCMC and Bayes in the browser](https://github.com/rasmusab/bayes.js)
 * [billboard.js - 14일만에 GITHUB 스타 1K 받은 차트 오픈소스 개발기](http://netil.github.io/slides/billboard.js)
+* [Bit: The platform for the modular web](https://bit.dev/)
+  * [JavaScript Marathon | Let's Build with Bit - YouTube](https://www.youtube.com/watch?v=7afMBwj5fR4)
 * [BooJS - Unix swiss army knife for headless browser javascript](https://github.com/sotownsend/BooJS)
 * [bootstrap](http://getbootstrap.com/)
   * [What’s New in Bootstrap 4](https://scotch.io/bar-talk/whats-new-in-bootstrap-4)
