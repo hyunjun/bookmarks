@@ -290,6 +290,7 @@ NLP
 * [과연 GPT-3는 얼마나 똑똑한 걸까? – 핑퐁팀 블로그](https://blog.pingpong.us/gpt3-evaluation/)
 * [Can GPT-3 Make Analogies?. By Melanie Mitchell | by Melanie Mitchell | Medium](https://medium.com/@melaniemitchell.me/can-gpt-3-make-analogies-16436605c446)
 * [GPT-3은 얼마내고 써야할까요?](https://media-ai.tistory.com/16) 계산 과정이 재미있음
+* [구독자 GPT-3는 우리 중에 최약체지](https://maily.so/kyeom.ai/posts/366f2a)
 * [gpt-neo: An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library](https://github.com/EleutherAI/gpt-neo/)
 * [21년 2월 2주 - from __future__ import dreamfrom __future__ import dream](http://freesearch.pe.kr/archives/5034)
 * [minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training](https://github.com/karpathy/minGPT) 일종의 교육용 GPT
@@ -963,6 +964,7 @@ NLP
   * [ML (Huggingface transformers) coding tips from Yannic Kilcher](https://www.notion.so/ML-Huggingface-transformers-coding-tips-from-Yannic-Kilcher-30b4d8298bfb45cba199d4f1651a1d9f)
   * [A small timing experiment on the new Tokenizers library — a write-up](https://towardsdatascience.com/a-small-timing-experiment-on-the-new-tokenizers-library-a-write-up-7caab6f80ea6)
   * [Beyond Classification With Transformers and Hugging Face | by Nikhil Dharap | Towards Data Science](https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
+  * [parallelformers: Parallelformers: An Efficient Model Parallelization Toolkit for Deployment](https://github.com/tunib-ai/parallelformers)
 * [3 Natural Language Processing Tools From AWS to Python | by SeattleDataGuy | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/3-natural-language-processing-tools-from-aws-to-python-954dbb34b189)
   * [Amazon Comprehend - Natural Language Processing (NLP) and Machine Learning (ML)](https://aws.amazon.com/comprehend/)
   * [Cloud Natural Language  |  Google Cloud](https://cloud.google.com/natural-language)
