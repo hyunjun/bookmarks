@@ -115,6 +115,7 @@ Functional Programming
 * [Legacy in Functional Programming PODCAST - LispCast](https://lispcast.com/legacy-in-functional-programming-podcast/)
 * [라인 백엔드 개발자의 함수형 프로그래밍 언어 실전 사용기 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=H6JxxWL6bJI)
 * [Immutability is not enough](https://codewords.recurse.com/issues/six/immutability-is-not-enough)
+* [실무에서 써먹는 불변성 | Popit](https://www.popit.kr/%ec%8b%a4%eb%ac%b4%ec%97%90%ec%84%9c-%ec%8d%a8%eb%a8%b9%eb%8a%94-%eb%b6%88%eb%b3%80%ec%84%b1/)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
@@ -204,6 +205,7 @@ Functional Programming
   * [5 : No Exceptions](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-5-no-exceptions-5f37ac594323)
   * [6 : No Locks or Synchronized Blocks](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-6-no-locks-or-synchronized-blocks-ea5a47644689)
   * [7 : Immutable Collections](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-7-immutable-collections-83ba78aaf4dd)
+* [Java 8 transforming your thinking from OOP to FP](https://www.java-success.com/java-8-transforming-thinking-oop-fop-java-8-examples/)
 * [VΛVΓ (Vavr, formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality](https://github.com/vavr-io/vavr)
   * [vavr - A new powerful collection library saves us from source.stream().really("?").collect(sink()) pipelines](http://www.vavr.io/)
 
