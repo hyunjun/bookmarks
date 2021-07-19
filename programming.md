@@ -2773,6 +2773,7 @@ Programming
 * [Refactoring and Design Patterns](https://refactoring.guru/)
 * [**FE개발자의 성장 스토리 05 : 의존관계를 이용해 구조적 리팩토링 포인트 찾기 – tech.kakao.com**](https://tech.kakao.com/2021/01/12/frontend-growth-05/) Angular 대상이지만 언어/프레임워크 관계없이 적용 가능한 좋은 이야기
 * [The world of unstructured programming, i.e. spaghetti code – The Craft of Coding](https://craftofcoding.wordpress.com/2020/02/12/the-world-of-unstructured-programming-i-e-spaghetti-code/)
+* [시스템 수준 리팩토링 시작하기](https://brunch.co.kr/@graypool/90)
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
@@ -3069,6 +3070,7 @@ Programming
 * [WhaTip 시스템 장애 해결을 위한 조언 여섯가지! - YouTube](https://www.youtube.com/watch?v=iVHZTB3H6iU)
 * [WhaTip 시스템 장애 해결 유형 3가지! - YouTube](https://www.youtube.com/watch?v=kaOLDqPF3t0)
 * [WhaTip 모르면 후회하는 시스템 장애 문제 정의 - YouTube](https://www.youtube.com/watch?v=yc-x2jtg-60)
+* [**Uber - 엣지+멀티 클라우드 장애 핸들링 이야기 (Part I)**](https://blog.imqa.io/uber-failover-handling/)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
