@@ -1199,6 +1199,7 @@ App
   * [**C4 모델과 C4-PlantUML을 이용한 소프트웨어 구조 다이어그램 만들기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/diagramming-c4-model-c4-plantuml/)
   * [개발자 팁 무료 UML 다이어그램 작성. Visual Studio Code + PlantUML Extension : 클리앙](https://www.clien.net/service/board/lecture/13218515)
   * [간단한 텍스트를 이용하여 멋진 UML 다이어그램을 만들 수 있는 오픈소스 도구입니다](https://plantuml.com/ko/)
+  * [**기존 테이블 구성을 클래스로 시각화하기**](https://brunch.co.kr/@graypool/81)
   * [mindmap-diagram](https://plantuml.com/ko/mindmap-diagram)
   * [Salt (wireframe)](https://plantuml.com/ko/salt)
   * [wbs-diagram](https://plantuml.com/ko/wbs-diagram)
