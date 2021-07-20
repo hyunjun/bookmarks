@@ -1201,6 +1201,7 @@ App
   * [간단한 텍스트를 이용하여 멋진 UML 다이어그램을 만들 수 있는 오픈소스 도구입니다](https://plantuml.com/ko/)
   * [**기존 테이블 구성을 클래스로 시각화하기**](https://brunch.co.kr/@graypool/81)
   * [시스템의 상태와 상태도 작성](https://brunch.co.kr/@graypool/89)
+  * [데이터 쓰임새 관찰과 표기](https://brunch.co.kr/@graypool/93)
   * [mindmap-diagram](https://plantuml.com/ko/mindmap-diagram)
   * [Salt (wireframe)](https://plantuml.com/ko/salt)
   * [wbs-diagram](https://plantuml.com/ko/wbs-diagram)
