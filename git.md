@@ -18,6 +18,7 @@ Git
     * → 로컬 브랜치 삭제하기
 * [Explain Git with D3](https://onlywei.github.io/explain-git-with-d3/)
 * [git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
+* [Git / GitHub 안내서](https://subicura.com/git/)
 * [Git 분산버전 관리시스템](https://www.gitbook.com/book/mylko72/git/details)
 * [Introduction to Git - Core Concepts - YouTube](https://www.youtube.com/watch?v=uR6G2v_WsRA)
 * [Introduction to Git - Branching and Merging - YouTube](https://www.youtube.com/watch?v=FyAAIHHClqI)
