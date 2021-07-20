@@ -254,6 +254,16 @@ Git
   * [springboot-helloworld: springboot 데모 프로젝트 - helloworld](https://github.com/choisungwookDevops/springboot-helloworld)
 * [GitHub Actions의 pull_request_target과 workflow_run 이벤트 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1541)
 * [내 깃허브가 털렸다](https://code-yeongyu.tistory.com/37)
+* [GitHub Actions로 수행하는 CI/CD DevOps, 리포트 만들기, 메시지 보내기 등의 놀라운 작업들 - YouTube](https://www.youtube.com/watch?v=356L7uv_W8Q)
+  * 깃허브 코리아 밋업: 깃허브 액션 데모 발표
+  * GitHub Korea Meetup 그룹 7월 이벤트를 통해서 한 "깃허브 액션으로 수행하는 CI/CD DevOps, 리포트 만들기, 메시지 보내기 등등의 놀라운 작업들" 발표
+    •  "깃허브 헬로 월드" 시작하기
+    • Microsoft Teams 메시지 보내기
+    •  Twilio 로 텍스트 문자 메시지 보내기
+    •  Infra CI/CD 로 Azure Web App 자동 생산하기
+    • App Dev CI/CD 로 NodeJS 앱을 JEST 테스트/테스트 카버리지/깃허브 페키지 빌드/깃허브 아티팩트 사용한후 Azure 웹앱으로 배포하
+    •  그리고 Terraform 으로 AWS 에 2개의 가상 머신에 로드발렌스 되어 있고 오토 스케일 기능 갖추어진 리소스 생산하기 
+* [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
