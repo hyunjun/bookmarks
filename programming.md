@@ -411,6 +411,7 @@ Programming
 * [What is content modeling? | Sanity.io guide](https://www.sanity.io/guides/content-modeling-guide-introduction)
 * [Why is NanoID Replacing UUID?. A Tiny, URL-Friendly Unique String… | by Charuka Herath | Jun, 2021 | Bits and Pieces](https://blog.bitsrc.io/why-is-nanoid-replacing-uuid-1b5100e62ed2)
 * [다른 개발자들은 어떤 포트폴리오 프로젝트를 만들었을까? feat. 포트폴리오 레퍼런스 찾는 법](https://velog.io/@ruizhen88/%EB%8B%A4%EB%A5%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%80-%EC%96%B4%EB%96%A4-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%97%88%EC%9D%84%EA%B9%8C)
+* [토이프로젝트 썰 나의 개발자 랭킹은?! OPGC 에서 확인해보세요! :: Jay's Code Factory](https://jay-ji.tistory.com/84)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -1134,6 +1135,7 @@ Programming
 * [마이크로서비스에서 데이터를 중앙화하면 안 되는 3가지 이유 - ITWorld Korea](https://www.itworld.co.kr/news/198864)
 * [Three Patterns To Scale Your Microservices - YouTube](https://www.youtube.com/watch?v=1dAnMkF4Mc4)
 * [Design Microservice Architectures the Right Way - YouTube](https://www.youtube.com/watch?v=j6ow-UemzBc)
+* [Building MSA in Enterprise - 권용석(삼성전자 무선사업부), 정영준(AWS) :: 제21회 AWSKRUG Container모임 - YouTube](https://www.youtube.com/watch?v=O-4hag2jDBc)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
