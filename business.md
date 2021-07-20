@@ -101,6 +101,7 @@ Business
   * [OKKYCON: 2017 김창준 - 협업의 미신 5가지 - YouTube](https://www.youtube.com/watch?v=I4xkw_0XqAs)
 * [업무의 회색지대를 바라보며](https://brunch.co.kr/@jongmulim/34) 협업
 * [사일로를 없애고 협업을 부르는 마법 - T Times](http://www.ttimes.co.kr/view.html?no=2021070115407774399)
+* [내가 왜 옆 팀 업무를 알아야 돼···스타트업 갉아먹는 사일로 현상 위험경보 │ 매거진한경](https://magazine.hankyung.com/job-joy/article/202107136908d)
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
 * [엘론 머스크가 알려주는 회사 내 소통 법](http://www.andrewahn.co/silicon-valley/elon-musk-comms-in-tesla/)
 * [기업 문화의 시작, 소통: 진실의 순간에 드러나는 기업 문화의 민낯 | ㅍㅍㅅㅅ](https://ppss.kr/archives/218668)
@@ -528,6 +529,7 @@ Business
     10. 채용 11. 온보딩 12. Managing Up : 매니저 관리 13. Managing Sideways : 동료 관리 14. 변화 발표 15. 더 읽을 것
 * [팀장이 된다는 것](https://www.folin.co/book/1063)
 * [“처음으로 팀장이 됩니다” 좋은 팀장은 어떻게 해야 하나요? – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/163797)
+* [Ep.20 우리팀에선 언제 매니저/팀장 채용을 해야할까? - YouTube](https://www.youtube.com/watch?v=vXH2cmjsxb0)
 * [독서광 구글의 아침은 자유가 시작된다](http://jhrogue.blogspot.com/2018/11/blog-post.html)
 * [**테크니컬 리더십: 시작하기**](http://leafbird.github.io/devnote/2018/11/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC-%EB%A6%AC%EB%8D%94%EC%8B%AD-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0/)
 * [정우영 칼럼 KBO와 NPB를 우승한 힐만 감독의 리더십](https://sports.v.daum.net/v/20181116103351891)
