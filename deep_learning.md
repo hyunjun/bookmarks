@@ -2351,6 +2351,8 @@ CVPR2016)
 * [android_env](https://github.com/deepmind/android_env)
 * [HSC2021-AlphaSolar](https://github.com/Yeachan-Heo/HSC2021-AlphaSolar)
 * [3줄 Survey RL for CO](https://bellman.tistory.com/36)
+* [강화학습 팁 모음](https://ropiens.tistory.com/132)
+* [강화학습 팁 모음(2) - reward function 작성 요령](https://ropiens.tistory.com/139)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
