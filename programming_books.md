@@ -1160,6 +1160,8 @@ Programming Books
 * (NOT YET) [<코어 자바스크립트> - 정재남 지음](http://greentec.egloos.com/4453678)
 * (NOT YET) [SNS 앱 예제로 배우는 프로그레시브 웹 앱 - YES24](http://www.yes24.com/Product/Goods/91360603)
 * (NOT YET) [《자바스크립트는 왜 그 모양일까?: 더글러스 크락포드가 알려주는 위험한 자바스크립트를 안전하게 사용하는 법》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/05/22/%e3%80%8a%ec%9e%90%eb%b0%94%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8%eb%8a%94-%ec%99%9c-%ea%b7%b8-%eb%aa%a8%ec%96%91%ec%9d%bc%ea%b9%8c-%eb%8d%94%ea%b8%80%eb%9f%ac%ec%8a%a4-%ed%81%ac%eb%9d%bd%ed%8f%ac/)
+  * [자바스크립트는 왜 그모양일까? 1.이름](https://velog.io/@undefined/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%99%9C-%EA%B7%B8%EB%AA%A8%EC%96%91%EC%9D%BC%EA%B9%8C-1.%EC%9D%B4%EB%A6%84)
+  * ['자바스크립트는 왜 그모양일까' 읽기 | rinae's devlog](https://rinae.dev/posts/how-javascript-works-summary)
 * (NOT YET) [클론 코딩으로 시작하는 Next.js](https://bjpublic.tistory.com/391)
 * (NOT YET) [《이펙티브 타입스크립트: 동작 원리의 이해와 구체적인 조언 62가지》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/06/10/%e3%80%8a%ec%9d%b4%ed%8e%99%ed%8b%b0%eb%b8%8c-%ed%83%80%ec%9e%85%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8-%eb%8f%99%ec%9e%91-%ec%9b%90%eb%a6%ac%ec%9d%98-%ec%9d%b4%ed%95%b4%ec%99%80-%ea%b5%ac%ec%b2%b4/)
 * [혼자 공부하는 자바스크립트](https://nymets.medium.com/%ED%98%BC%EC%9E%90-%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94-%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-8e7e770c9650)
