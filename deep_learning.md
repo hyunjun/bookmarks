@@ -718,13 +718,14 @@ Deep Learning
 * [Alphago zero cheatsheet](https://medium.com/applied-data-science/alphago-zero-explained-in-one-diagram-365f5abf67e0)
 * [AlphaGo Zero - How and Why it Works](http://tim.hibal.org/blog/alpha-zero-how-and-why-it-works/)
 * [Deep Learning: AlphaGo Zero Explained In One Picture](https://www.datasciencecentral.com/profiles/blogs/deep-learning-alphago-zero-explained-in-one-picture)
-* [minigo - An open-source implementation of the AlphaGoZero algorithm](https://github.com/tensorflow/minigo)
 * [Explained Simply: How an AI program mastered the ancient game of Go](https://medium.freecodecamp.org/explained-simply-how-an-ai-program-mastered-the-ancient-game-of-go-62b8940a9080)
 * [알파고 분석 Part.1 - 엑셈 CTO 박재호](https://www.youtube.com/watch?v=b8MUVASzb8M)
-* [Alpha-Omok Minimal version of DeepMind AlphaZero](https://github.com/reinforcement-learning-kr/alpha_omok)
-  * [알파오목](https://www.youtube.com/watch?v=rJHEM31Dxw8)
 * [쉽게 읽는 강화학습 논문 알파고 제로(Zero) 논문 리뷰](https://www.youtube.com/watch?v=CgOGKChwWrw)
 * [플밍노트 너와 나의 인공지능이 멍청한 이유 - YoungJin Shin](http://www.jiniya.net/ng/2020/07/deep-learning-101/) 일반적인 이야기이지만 바둑을 통해 전개
+* [2021-KAIST-Include-AlphaGoZero: 2021년 KAIST 동아리 Include 스터디 - AlphaGo와 AlphaGo Zero를 활용한 인공지능 바둑](https://github.com/utilForever/2021-KAIST-Include-AlphaGoZero)
+* [Alpha-Omok Minimal version of DeepMind AlphaZero](https://github.com/reinforcement-learning-kr/alpha_omok)
+  * [알파오목](https://www.youtube.com/watch?v=rJHEM31Dxw8)
+* [minigo - An open-source implementation of the AlphaGoZero algorithm](https://github.com/tensorflow/minigo)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
