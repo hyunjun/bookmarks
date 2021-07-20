@@ -3170,6 +3170,8 @@ Javascript
   * [Hermes 적용해봤어요!](https://www.notion.so/ffc3ef483a494b759c920f14bfa09c67)
 * [Hook Player 본인이 좋아하는 유튜브 링크로 자신만의 플레이 리스트를 만들고, 데스크탑, 모바일 어느 환경에서든 사용할 수 있습니다](https://indiemakers.net/review/hookplayer)
   * [github.com/dev4us/hook-player](https://github.com/dev4us/hook-player)
+* [jotai: 👻 Primitive and flexible state management for React](https://github.com/pmndrs/jotai)
+  * [Atomic state management - Jotai – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/6099/)
 * [mern.io - Easily build production ready universal apps](http://mern.io/)
 * [Metric: Building a quantitative self app in Meteor and React](http://liamz.co/2015/08/metric-building-a-quantitative-self-app-in-meteor-and-react/)
 * MobX
