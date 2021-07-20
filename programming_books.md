@@ -118,6 +118,7 @@ Programming Books
 * (NOT YET) [레거시 코드 활용 전략](https://jhrogue.blogspot.com/2021/07/blog-post_8.html)
 * (NOT YET) [요즘 팀장은 이렇게 일합니다 - 중앙북스](https://jbooks.joins.com/book/book_info.asp?bokid=2455)
   * [“팀장이 가장 어려웠어요”…모두가 알아야 할 ‘팀장 리더십’ : 네이버 뉴스](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=243&aid=0000014586)
+* (NOT YET) [하드씽](https://jhrogue.blogspot.com/2021/07/blog-post_21.html)
 
 # Agile Scrum
 
