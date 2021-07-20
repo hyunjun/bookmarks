@@ -964,6 +964,15 @@ NLP
   * [ML (Huggingface transformers) coding tips from Yannic Kilcher](https://www.notion.so/ML-Huggingface-transformers-coding-tips-from-Yannic-Kilcher-30b4d8298bfb45cba199d4f1651a1d9f)
   * [A small timing experiment on the new Tokenizers library — a write-up](https://towardsdatascience.com/a-small-timing-experiment-on-the-new-tokenizers-library-a-write-up-7caab6f80ea6)
   * [Beyond Classification With Transformers and Hugging Face | by Nikhil Dharap | Towards Data Science](https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
+  * [koclip: KoCLIP: Korean port of OpenAI CLIP, in Flax](https://github.com/jaketae/koclip)
+    * 2021년 1월 OpenAI 가 공개한 CLIP(Contrastive Language–Image Pre-training)은 자연어와 이미지를 동시에 학습하는 멀티모달 모델로 ImageNet등의 태스크에서 기존 모델을 상회하는 정확도와 범용성
+    * KoCLIP은 오픈소스로 공개 되는 첫 한국어 멀티모달 인공지능으로 AIHub의 한국어-이미지 캡션 데이터셋을 사용해 학습
+    * Flax-Community-Week에서 제공한 TPU3-v8 VM 을 활용해 KoCLIP-Base와 KoCLIP-Large, 총 두 버전의 모델 제작
+    * KoCLIP-Base는 텍스트 인코더로 klue/roberta-large와 이미지 인코더로 openai/clip-vit-base-patch32 를, KoCLIP-Large는 같은 텍스트 인코더와 google/vit-large-patch16-224를 이미지 인코더로 사용
+    * KoCLIP은 다양한 방향으로 활용 가능성을 품고 있으며 다음 세 가지 기능이 [Streamlit](https://tinyurl.com/koclip-app)을 통해 배포
+    * Text2Image: 텍스트 쿼리를 입력하면 사전에 저장해둔 사진들 중 쿼리와 가장 유사도 높은 사진 반환
+    * Image2Text: Zero-Shot Classifier의 한 종류로 사진과 다수의 레이블을 입력하면 여러 레이블중 사진과 가장 어울리는 것을 반환
+    * Text2Patch: 역시 Zero-Shot Classifier의 한 갈래로 사진과 텍스트 쿼리가 입력되면 텍스트와 가장 연관성이 깊은 사진 패치 반환
   * [parallelformers: Parallelformers: An Efficient Model Parallelization Toolkit for Deployment](https://github.com/tunib-ai/parallelformers)
 * [3 Natural Language Processing Tools From AWS to Python | by SeattleDataGuy | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/3-natural-language-processing-tools-from-aws-to-python-954dbb34b189)
   * [Amazon Comprehend - Natural Language Processing (NLP) and Machine Learning (ML)](https://aws.amazon.com/comprehend/)
