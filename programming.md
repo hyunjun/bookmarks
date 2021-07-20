@@ -2740,6 +2740,7 @@ Programming
 * [Beyond the Database, and beyond the Stream Processor: What's the Next Step for Data Management?](https://www.infoq.com/articles/whats-the-next-step-for-data-management/)
 * [Uber’s Real-Time Push Platform | Uber Engineering Blog](https://eng.uber.com/real-time-push-platform/)
 * [wavve 뽀로로 사태를 점검합니다](https://jybaek.tistory.com/894)
+* [네이버클라우드 Live Commerce on NAVER Cloud Platform (라이브커머스 세미나 Full ver.) - YouTube](https://www.youtube.com/watch?v=QzBtMHDtH3k)
 
 ## Real Time Processing, Streaming Library
 * [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
