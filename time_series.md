@@ -40,6 +40,7 @@ Time Series
 * [시계열 분석을 하라고?](https://brunch.co.kr/@lunarshore/405)
 * [Write a time-series database engine from scratch](https://nakabonne.dev/posts/write-tsdb-from-scratch/)
 * [How to Apply K-means Clustering to Time Series Data | by Alexandra Amidon | Towards Data Science](https://towardsdatascience.com/how-to-apply-k-means-clustering-to-time-series-data-28d04a8f7da3)
+* [ADsP 시계열 분석 모델을 공부했다. (AR, MA, ARIMA, ACF, PACF)](https://blog.naver.com/tjgml1343/222077619748)
 
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
