@@ -119,6 +119,8 @@ Programming Books
 * (NOT YET) [요즘 팀장은 이렇게 일합니다 - 중앙북스](https://jbooks.joins.com/book/book_info.asp?bokid=2455)
   * [“팀장이 가장 어려웠어요”…모두가 알아야 할 ‘팀장 리더십’ : 네이버 뉴스](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=243&aid=0000014586)
 * (NOT YET) [하드씽](https://jhrogue.blogspot.com/2021/07/blog-post_21.html)
+* (NOT YET) [배틀그라운드 신화를 만든 10년의 도전 크래프톤 웨이](http://www.gimmyoung.com/Book/BookView?bookCode=BC003339&bookType=all) 한국판 하드씽
+  * [최윤섭님 서평](https://www.facebook.com/photo?fbid=6059054744134439)
 
 # Agile Scrum
 
