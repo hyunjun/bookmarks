@@ -78,6 +78,7 @@ House
 * [내 연소득으로 살 수 있는 아파트, 어디에 있을까? (+중소기업 신입이 서울에 아파트를 사려면 몇년이 걸릴까?) – SPH](https://www.sphinfo.com/gis-house/)
 * [올해 수도권 부동산 절대로 사지마라 (김기원 대표) - YouTube](https://www.youtube.com/watch?v=dUmdSSTu-Pk)
   * 전세대비 저평가지수, 처분가능소득 vs 매수, KB부동산지수 vs 물가지수 누적증감률, 물가대비 저평가 index, 주택구매력지수(HAI) vs 매매, GDP대비 시가총액, 시가총액 / 국민순자산
+* [기사 - 생중계 인알못의 인테리어 턴키 시공기1 : 서울을 떠나며](https://www.ddanzi.com/ddanziNews/671587897)
 
 # Library
 * [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)
