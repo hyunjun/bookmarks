@@ -642,6 +642,7 @@ App
       * [Try Out New Vs Code Features for Improved Productivity | by Ravi | Analytics Vidhya | Nov, 2020 | Medium](https://medium.com/analytics-vidhya/try-out-new-vs-code-features-for-improved-productivity-29d3969ad872)
       * [Top 10 VS Code extensions for 2021 - LogRocket Blog](https://blog.logrocket.com/top-10-vs-code-extensions-2021/)
       * [Visual Studio 신나는 코드 타이핑 - 파워모드(PowerMode)](https://skuld2000.tistory.com/89)
+      * [간단한 VSCode Extension 만들기 예제 - YouTube](https://www.youtube.com/watch?v=R671qx3m7vo)
     * Git
       * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
       * [mac에서 visual studio code를 git commit editor로 설정하기](http://blog.woniper.net/352)
