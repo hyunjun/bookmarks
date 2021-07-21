@@ -476,6 +476,7 @@ Web
 * [Learn CSS](https://web.dev/learn/css/)
 * [CSS-in-JS와 성능 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/877)
 * [IE를 버리면 사용할 수 있는 CSS 명세. | naradesign.github.io](https://naradesign.github.io/css-ie-not-supported.html)
+* [새로운 CSS 기능적인 의사 클래스 :is()와 :where() | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210721)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
   * [Functional CSS, Tachyons - 함수형 CSS를 지향하는 프레임웍](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/tachyons)
