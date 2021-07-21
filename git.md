@@ -214,6 +214,7 @@ Git
 * [컨벤셔널 커밋을 이용한 CHANGELOG 및 시멘틱 버저닝(Semantic Versioning) 자동화 | 딥백수](https://deepbaksu.github.io/2021/05/29/semantic-release/)
 * [GitHub Packages Container registry is generally available | The GitHub Blog](https://github.blog/2021-06-21-github-packages-container-registry-generally-available/)
   * Docker Hub처럼 GitHub에 컨테이너 이미지를 배포하고 받아올 수 있음
+* [GitHub, 블로그에 방문자 카운터를 달아보자 | SILENTSOFT](https://blog.silentsoft.org/archives/192)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
