@@ -536,6 +536,7 @@ iOS
 * [앱 실행 중 갑자기 멈출 때 확인할 것!](https://blog.yagom.net/%EC%95%B1-%EC%8B%A4%ED%96%89-%EC%A4%91-%EA%B0%91%EC%9E%90%EA%B8%B0-%EB%A9%88%EC%B6%9C-%EB%95%8C-%ED%99%95%EC%9D%B8%ED%95%A0-%EA%B2%83/)
 * ['Xcode에서 'Unsupported OS version' 문제 해결하기](https://www.androidhuman.com/2021-04-26-xcode_unsupported_os_version)
 * [안녕 XcodeGen](https://pilgwon.github.io/post/hello-xcodegen)
+* [당근마켓 iOS 프로젝트에 XcodeGen 도입하기 | 당근마켓 팀블로그](https://medium.com/daangn/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-xcodegen-%EB%8F%84%EC%9E%85%ED%95%98%EA%B8%B0-d0fd54691aad)
 * [Xcode 프로젝트 내부 경로 관리](https://medium.com/@jungkim/xcode-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%82%B4%EB%B6%80-%EA%B2%BD%EB%A1%9C-%EA%B4%80%EB%A6%AC-b5e00f2a114a)
 * [Xcode Pro 처럼 빌드환경 세팅하기](https://xtring-dev.tistory.com/entry/iOS-Xcode-Pro-%EC%B2%98%EB%9F%BC-%EB%B9%8C%EB%93%9C%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0)
 * [blade - Generate XCode image catalogs for iOS / OSX app icons, universal images, and more](https://github.com/jondot/blade)
@@ -544,3 +545,4 @@ iOS
 * Tuist [Xcode on steroids | Tuist](https://tuist.io/)
   * [Xcode 프로젝트 관리를 위한 Tuist 사용해보기 | Medium](https://okanghoon.medium.com/xcode-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-tuist-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-6a92950780be)
   * [XcodeGen 에서 Tuist 로 전환하기 | Medium](https://okanghoon.medium.com/xcodegen-%EC%97%90%EC%84%9C-tuist-%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-3f0156e0c2ea)
+  * [당근마켓) XcodeGen 에서 Tuist 로 전환하기 | 당근마켓 팀블로그](https://medium.com/daangn/xcodegen-%EC%97%90%EC%84%9C-tuist-%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-3f0156e0c2ea)
