@@ -37,6 +37,7 @@ Haskell
 * [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
 * [Gausian distributions form a monoid](https://izbicki.me/blog/gausian-distributions-are-monoids)
+* [하스켈 Ordering 모노이드](https://gist.github.com/nattybear/73125b643e8c3360bdb034ed45fa9b42)
 * [Blazing fast Fibonacci numbers using Monoids](http://www.haskellforall.com/2020/04/blazing-fast-fibonacci-numbers-using.html)
 * [Monoidal Catamorphisms | Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2020/06/15/monoidal-catamorphisms/)
 * [하스켈 세미그룹 모노이드 제약](https://gist.github.com/nattybear/57ba14d0ebaf57f8836cea0e2aa6773e)
