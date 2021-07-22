@@ -177,7 +177,6 @@ Docker
     * [ELK 사용해서 flask 로그 분석하기](https://woolbro.tistory.com/88)
   * [httpd](https://hub.docker.com/_/httpd/)
   * java
-    * [Jib 1.0.0 is GA—building Java Docker images has never been easier](https://cloud.google.com/blog/products/application-development/jib-1-0-0-is-ga-building-java-docker-images-has-never-been-easier)
     * [Creating Docker images with Spring Boot 2.3.0.M1](https://spring.io/blog/2020/01/27/creating-docker-images-with-spring-boot-2-3-0-m1)
     * [SPRING 스프링부트로 도커 이미지 만들기](https://gracelove91.tistory.com/97)
     * [Create Docker Image without Dockerfile in Spring Boot](https://morioh.com/p/56262a739ff3)
@@ -634,6 +633,7 @@ Docker
 * [Docker Compose 로 Full Stack JS 개발환경 구축하기 - YouTube](https://www.youtube.com/watch?v=0GmqiNKJ1tw)
 * [Docker Compose와 버전별 특징 : NHN Cloud Meetup](https://meetup.toast.com/posts/277/)
 * [1. Docker Compose로 Nodejs 개발/배포환경 구성하기 - Dockerfile로 구성하기](https://jojoldu.tistory.com/584)
+* [2. Docker Compose로 Nodejs 개발/배포환경 구성하기 - Docker Compose로 개선하기](https://jojoldu.tistory.com/587)
 * [dcw - Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
@@ -1186,6 +1186,8 @@ Docker
 * [instadocker - Run any Docker container on the cloudin just 3 seconds](http://instadocker.com/)
 * [jib - Build container images for your Java applications](https://github.com/GoogleContainerTools/jib)
   * [Spring Boot 과 Docker (with jib)](https://medium.com/@gaemi/spring-boot-과-docker-with-jib-657d32a6b1f0)
+  * [Jib 1.0.0 is GA—building Java Docker images has never been easier](https://cloud.google.com/blog/products/application-development/jib-1-0-0-is-ga-building-java-docker-images-has-never-been-easier)
+  * [jib를 이용한 자바 앱 컨테이너화](https://brunch.co.kr/@alden/72)
 * [K9s — the powerful terminal UI for Kubernetes | by Flant staff | Flant | Medium](https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f)
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * ksonnet
