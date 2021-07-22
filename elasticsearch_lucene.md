@@ -301,6 +301,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치의 멀티테넌트 환경 적용하기 - 케이스로 살펴보는 테넌트 적용 방법 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=30127970&memberNo=36733075&navigationType=push)
 * [엘라스틱서치(Elasticsearch)에서 관계형 데이터 모델링하기 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=31824430&memberNo=36733075&navigationType=push)
 * [10분 이내에 페타바이트 규모의 클라우드 저장 공간 쿼리 작업 | Elastic Blog](https://www.elastic.co/kr/blog/querying-a-petabyte-of-cloud-storage-in-10-minutes)
+* [Google Cloud Platform 마켓플레이스에서 Elastic Cloud 시작하기 - YouTube](https://www.youtube.com/watch?v=ntT_jqPpPRE)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
