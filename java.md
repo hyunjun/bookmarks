@@ -691,6 +691,7 @@ Java
 * [What We Know about Java 16 and 17 So Far](https://www.infoq.com/news/2020/11/java16-so-far/)
 * [A categorized list of all Java and JVM features since JDK 8 to 16 - Advanced Web Machinery](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/)
 * [Java 16 Record to Reduce Boilerplate Code of POJO | CodersTea](https://www.coderstea.com/post/java/java-16-record-to-reduce-boilerplate-code-of-pojo/)
+* [What's New in Java 16 - YouTube](https://www.youtube.com/watch?v=OIi6gbc7BaE)
 
 # Java17
 * [자바 17이 다가오면... - DEV Community](https://dev.to/composite/17-62e)
