@@ -882,6 +882,8 @@ App
     * [FFMPEG processing](https://leanpub.com/ffmpeg/read_full)
     * [동영상 파일 미리보기 이미지로 쪼개기 – rein's world](https://rein.kr/blog/archives/4561)
     * [Your browser and my browser see different colors | Mux blog](https://mux.com/blog/your-browser-and-my-browser-see-different-colors/) ffmpeg 자체는 아니지만 사용법 참고
+    * [ffmpeg-screen-record-agent: ffmpeg을 이용한 화면 녹화 에이전트](https://github.com/ryujt/ffmpeg-screen-record-agent)
+      * [10bun.tv](http://ffmpeg-screen-record-agent.s3-website.ap-northeast-2.amazonaws.com/) FFmpeg를 이용한 화면녹화 모듈 개발
     * [FFMPEG.WASM](https://ffmpegwasm.github.io/)
     * [vdx: An intuitive CLI for processing video, powered by FFmpeg](https://github.com/yuanqing/vdx)
 * [Mac의 클립보드 명령어 - pbcopy & pbpaste](https://jojoldu.tistory.com/466)
@@ -1203,6 +1205,7 @@ App
   * [**기존 테이블 구성을 클래스로 시각화하기**](https://brunch.co.kr/@graypool/81)
   * [시스템의 상태와 상태도 작성](https://brunch.co.kr/@graypool/89)
   * [데이터 쓰임새 관찰과 표기](https://brunch.co.kr/@graypool/93)
+  * [객체의 상태와 엔티티](https://brunch.co.kr/@graypool/96)
   * [mindmap-diagram](https://plantuml.com/ko/mindmap-diagram)
   * [Salt (wireframe)](https://plantuml.com/ko/salt)
   * [wbs-diagram](https://plantuml.com/ko/wbs-diagram)
