@@ -1567,6 +1567,9 @@ Deep Learning
   * [Neural_Acceleration_Study - YouTube](https://www.youtube.com/channel/UCh05O9mScsWVaP3EWX1AKDQ/videos)
 * [Neural Networks from Scratch with Python Code and Math in Detail— I | by Towards AI Team | Towards AI — Multidisciplinary Science Journal | Jun, 2020 | Medium](https://medium.com/towards-artificial-intelligence/building-neural-networks-from-scratch-with-python-code-and-math-in-detail-i-536fae5d7bbf)
 * [Building Neural Networks with Python Code and Math in Detail — II | by Towards AI Team | Towards AI — Multidisciplinary Science Journal | Jun, 2020 | Medium](https://medium.com/towards-artificial-intelligence/building-neural-networks-with-python-code-and-math-in-detail-ii-bbe8accbf3d1)
+* [Python 신경망 학습 (1) : 네이버 블로그](https://blog.naver.com/eunseong31/221590935770)
+* [Python 신경망 학습 (2) : 네이버 블로그](https://blog.naver.com/eunseong31/221597561463)
+* [Python 신경망 학습 (3) : 네이버 블로그](https://blog.naver.com/eunseong31/221598016421)
 
 ## Neural Network ConvNets CNN
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
