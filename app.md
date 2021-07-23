@@ -1106,6 +1106,7 @@ App
     * > it2prof production && cat /Users/{myID}/production-warning.txt && ssh production01
     * ASCII tool [link 1](https://www.patorjk.com/software/taag/#p=display&f=ANSI%20Shadow&t=PRODUCTION) [link 2](https://www.patorjk.com/software/taag/#p=display&f=Calvin%20S&t=PRODUCTION) [link 3](https://www.patorjk.com/software/taag/#p=display&f=Delta%20Corps%20Priest%201&t=PRODUCTION)
   * [iterm2 에 한글 자소 분리 문제](https://jojoldu.tistory.com/580)
+  * [Combining the terminal (iTerm) with the IDE - Alexandru Nedelcu](https://alexn.org/blog/2021/07/18/iterm-open-file-cmd-click-ide-semantic-history.html)
 * [Mac CLI  OS X command line tools for developers](https://github.com/guarinogabriel/mac-cli)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
@@ -1206,6 +1207,7 @@ App
   * [시스템의 상태와 상태도 작성](https://brunch.co.kr/@graypool/89)
   * [데이터 쓰임새 관찰과 표기](https://brunch.co.kr/@graypool/93)
   * [객체의 상태와 엔티티](https://brunch.co.kr/@graypool/96)
+  * [소프트웨어 디자인 개선을 위한 비대면 협업](https://brunch.co.kr/@graypool/95)
   * [mindmap-diagram](https://plantuml.com/ko/mindmap-diagram)
   * [Salt (wireframe)](https://plantuml.com/ko/salt)
   * [wbs-diagram](https://plantuml.com/ko/wbs-diagram)
