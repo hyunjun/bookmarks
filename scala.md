@@ -512,6 +512,7 @@ Scala
 * [10000 nodes and beyond with Akka Cluster and Rapid](https://manuel.bernhardt.io/2020/04/30/10000-node-cluster-with-akka-and-rapid/)
 * [Orchestrating startup and shutdown in Scala](https://medium.com/bestmile/orchestrating-startup-and-shutdown-in-scala-f7ad2644835a)
 * [Akka Cluster split brain failures — are you ready for it?](https://blog.softwaremill.com/akka-cluster-split-brain-failures-are-you-ready-for-it-d9406b97e099)
+* [Story of importing a large dataset to Akka Cluster | by Michał Bogacz | VirtusLab | Jul, 2021 | Medium](https://medium.com/virtuslab/story-of-importing-a-large-dataset-to-akka-cluster-60ed3bba8184)
 * [Hydra - an Akka Cluster based system which provides high available container service for apps](https://github.com/wherby/Hydra/)
   * [HydraRelease - Release works for Hydra Cluster](https://github.com/wherby/HydraRelease)
 
@@ -651,6 +652,7 @@ Scala
   * [Functional Collections in Scala - YouTube](https://www.youtube.com/watch?v=Y5rPHZaUakg)
   * [Scala collections methods explained using food 😋 - Waris Radji](https://warisradji.com/2021/06/04/scala-collections-methods-explained-using-food/index.html)
     * [practice - collections methods](https://gist.github.com/hyunjun/3eddbf4ba54b1a603f38e52b78a9b0e6#file-collections_methods-scala)
+  * [Linear Collections in Scala: Seq, List, Array, Vector, Set, Range - YouTube](https://www.youtube.com/watch?v=UvUkpduo6uE)
 * concurrent
   * duration
     * [Rock the JVM | How Does "20 seconds" Work in Scala?](https://rockthejvm.com/blog/215541/20-seconds)
@@ -896,11 +898,13 @@ Scala
     * [Zymposium - Full Stack Development (Part 1) - YouTube](https://www.youtube.com/watch?v=0oz8ZTf-LD0)
     * [Zymposium - Full Stack Development (Part 2) - YouTube](https://www.youtube.com/watch?v=VqTqFhU9Mrs)
     * [Zymposium - Variance - YouTube](https://www.youtube.com/watch?v=2uEjXuFBsBk)
+    * [Zymposium - Proto-Quill Release Party - YouTube](https://www.youtube.com/watch?v=El9fkkHewp0)
     * [Part 1 - What is ZIO and should you learn it? - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=XwMKw03w8bs)
     * [Part 2 - `ZIO[_, _, Success]` - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=7MNY0o2i_vg)
     * [Part 3 - `ZIO[_, Error, _]` & Variance - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=oKaQXxEa7a8)
     * [Part 4 - `ZIO[Env, _, _]` - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=e1kIjiWHVhE)
     * [Part 5 - ZIO.access - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=1t0GPFumFkE)
+    * [Part 6 - zio.Has - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=epTKGRuxbOE)
     * [ZIO News - Issue #28 | Revue](https://www.getrevue.co/profile/zio/issues/zio-news-issue-28-654279)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
@@ -1190,7 +1194,6 @@ Scala
   * [scala with cats 책 읽으면서 필기(하다보니 번역급) Chapter 5 (Monad Transformers)](https://wingnim.tistory.com/115)
   * [scala with cats 책 읽으면서 필기 Chapter 6 (Semigroupal and Applicative)](https://wingnim.tistory.com/116)
   * [scala with cats 책 읽으면서 필기 Chapter 7 (Foldable and Traverse)](https://wingnim.tistory.com/117)
-  * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
   * [Idiomatic Error Handling in Scala - Rock the JVM Blog](https://blog.rockthejvm.com/idiomatic-error-handling-in-scala/) Either, Try, Validated
     * [Idiomatic Error Handling in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=P1KwLUDO4jI)
   * [Addendum to Alex N's blog post on Scala warnings](https://www.inner-product.com/posts/nowarn-addendum/)
@@ -1237,6 +1240,9 @@ Scala
     * [Programs as Values, Part III: Explicit Control Flow](http://systemfw.org/posts/programs-as-values-III.html) cats.effetcs.IO
     * [herding cats — Effect system](https://eed3si9n.com/herding-cats/effect-system.html)
     * [Supervisor | Background processing in functional Scala #3 - YouTube](https://www.youtube.com/watch?v=-zr1cCWf4iI)
+  * Cats MTL
+    * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
+    * [Ep 14: Monad transformers using the Cats MTL library - YouTube](https://www.youtube.com/watch?v=aT6PNjqQLs8)
   * [Cats Parse](https://slides.com/lewisjkl/cats-parse)
     * [SF Scala: Introduction to Cats Parse By Jeff Lewis - YouTube](https://www.youtube.com/watch?v=wreCg30pyts)
     * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=cIsITBqUVlI) refined type, cats.parse
@@ -1866,6 +1872,7 @@ Scala
 * [Scala 3: Dependent Types, Part I. Scala 3 expands on the type-level… | by Dean Wampler | Scala 3 | Jan, 2021 | Medium](https://medium.com/scala-3/scala-3-dependent-types-part-i-273e9076e8f8)
 * [Scala 3: Dependent Types, Part II | by Dean Wampler | Scala 3 | Jan, 2021 | Medium](https://medium.com/scala-3/scala-3-dependent-types-part-ii-e7fc04dbfb08)
 * [Scala 3 Metaprogramming by Example by Adam Warski - YouTube](https://www.youtube.com/watch?v=leIB5tvDY64)
+* [Metaprogramming in Scala 3: Inline | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=J3VRzMvqWeo)
 * [Scale By The Bay 2020: Robert J. Neal, A Reinforcement Learning Framework in Scala 3 - YouTube](https://www.youtube.com/watch?v=neYTpeKbGBE)
 * [Night Dreamer #1 – Marrying Scala 3 to LWJGL - YouTube](https://www.youtube.com/watch?v=vSv2t-Kkb64)
 * [What's new in Scala 3: all the "small" things - YouTube](https://www.youtube.com/watch?v=GCuskYmhvAc)
