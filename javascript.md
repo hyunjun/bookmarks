@@ -654,6 +654,7 @@ Javascript
 * [2020년과 이후 JavaScript의 동향 - WebAssembly](https://d2.naver.com/helloworld/8257914) wasm
 * [Multi Segment Display in JavaScript | by Chris Webb | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/multi-segment-display-in-javascript-6f256153cda8)
 * [Client Side Rendering vs Server Side Rendering 모르면 일단 누르세요~ - YouTube](https://www.youtube.com/watch?v=5W72UHb-9iI) CSR, SSR
+* [SSR? Server-Side Rendering? 그게 뭔데? | by We SeungJun | IOTRUST : Team Blog | Jul, 2021 | Medium](https://medium.com/iotrustlab/ssr-server-side-rendering-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0-22d7e918ec1)
 * [로그인 페이지 만들기 실무편 | Animated Login page Tutorial (Label Text Animation) - YouTube](https://www.youtube.com/watch?v=dWfpp-0riYA)
 * [Learn JavaScript Event Listeners In 18 Minutes - YouTube](https://www.youtube.com/watch?v=XF1_MlZ5l6M)
 * [Web Worker를 사용한 이미지 로딩 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-01-03-image-load-by-web-worker)
@@ -3224,6 +3225,7 @@ Javascript
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
 * [react-axes npm version - A react component that can easily use egjs-axes](https://github.com/naver/egjs-axes/tree/master/packages/react)
 * [react-blessed - A React custom renderer for the blessed library](https://github.com/Yomguithereal/react-blessed)
+* [react-cnp-component-creator](https://js021.notion.site/react-cnp-component-creator-78164503819f43b1837978b6ca4027b3)
 * [React Color - A Collection of Color Pickers from Sketch, Photoshop, Chrome & more](http://casesandberg.github.io/react-color/)
 * [React.Component vs React.createClass](http://reactjsnews.com/composing-components/)
 * [React-Django로 프론트앤드 백앤드 만들기 - YouTube](https://www.youtube.com/playlist?list=PLPSEcXNQeO0bNX2fjb4_V84iQMewXhCDA)
