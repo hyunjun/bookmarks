@@ -128,10 +128,6 @@ NoSQL
 # Datomic
 * [Datomic](http://www.datomic.com/)
 
-# EdgeDB
-* [EdgeDB—The next generation database](https://edgedb.com/)
-* [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
-
 # Ehcache: Java's Most Widely-Used Cache
 * [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)
 
