@@ -128,6 +128,7 @@ Shell
 * [bashttpd - a simple, configurable web server written in bash](https://github.com/avleen/bashttpd)
 * [commit.sh: Generate commit message according to AngularJS Commit Message Conventions](https://github.com/outstanding1301/commit.sh)
 * [import - a simple and fast module system for Bash and other Unix shells](https://import.pw/)
+* [only-stackoverflow: 구글, 덕덕고 검색에서 stackoverflow 짝퉁 사이트 숨기기 (Adblock, adguard, uBlock Origin, etc...)](https://github.com/RyuaNerin/only-stackoverflow)
 * osh [Four Features That Justify a New Unix Shell](http://www.oilshell.org/blog/2020/10/osh-features.html)
 * [ShellCheck finds bugs in your shell scripts](https://www.shellcheck.net/)
   * [shellcheck: ShellCheck, a static analysis tool for shell scripts](https://github.com/koalaman/shellcheck)
