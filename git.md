@@ -763,6 +763,7 @@ Git
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
+* [every-git-commit-shorthash: Git repository with a commit for every single shorthash](https://github.com/not-an-aardvark/every-git-commit-shorthash)
 * Flat Data [GitHub OCTO | Flat Data](https://octo.github.com/projects/flat-data)
   * Git을 이용해 데이터 처리. 다른 인프라스트럭처가 필요 없이 GitHub를 이용해서 데이터를 수집하고 보여줄 수 있게 하는 프로젝트
   * 데이터를 수집하고 변환하는 GitHub Actions, 데이터 워크플로우를 작성하는 VS Code 확장 에디터, 처리된 데이터를 보는 뷰어 3가지로 구성
