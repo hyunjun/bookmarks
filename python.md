@@ -4,6 +4,7 @@ Python
   * [Python Cheat Sheet](https://github.com/crazyguitar/pysheeet)
 * [7+ Python Cheat Sheets for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
 * [Comprehensive Python Cheat Sheet for Beginners](https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2)
+* [Python Cheatsheet - DEV Community](https://dev.to/envoy_/python-cheatsheet-33ec)
 * [PB Python Article Roadmap - Practical Business Python](https://pbpython.com/roadmap.html)
 * [**Awesome Python**](http://awesome-python.com/)
 * [Awesome-Python](https://github.com/JoMingyu/Awesome-Python)
@@ -1238,6 +1239,8 @@ Python
   * [How to Use F-Strings for String Formatting in Python](https://www.youtube.com/watch?v=c8nHlLEmtNg)
   * [F-strings — make your python code more readable today](https://medium.com/@ikamenshchikov/f-strings-make-your-python-code-faster-and-more-readable-today-579ef9ca0313)
   * [Python에 F-string 이라는 게 있었다?](https://seorenn.tistory.com/76)
+  * [String Formatting in Python — 6 Things to Know About f-strings | by Yong Cui, Ph.D. | The Startup | Medium](https://medium.com/swlh/string-formatting-in-python-6-things-to-know-about-f-strings-72fd38d96172)
+  * [6 Python f-strings tips and tricks - 30 seconds of code](https://www.30secondsofcode.org/articles/s/6-python-f-strings-tips)
   * [How To Use String Formatters in Python 3](https://www.digitalocean.com/community/tutorials/how-to-use-string-formatters-in-python-3)
   * 0 padding for multi variables; [Nicest way to pad zeroes to string](http://stackoverflow.com/questions/339007/nicest-way-to-pad-zeroes-to-string)
 
@@ -1258,7 +1261,6 @@ Python
   * [Useful String Methods in Python](https://towardsdatascience.com/useful-string-methods-in-python-5047ea4d3f90)
   * [String interpolation in Python and R](https://www.johndcook.com/blog/2019/09/12/string-interpolation/)
   * [Interpy = Python String Interpolation](https://github.com/syrusakbary/interpy)
-  * [String Formatting in Python — 6 Things to Know About f-strings | by Yong Cui, Ph.D. | The Startup | Medium](https://medium.com/swlh/string-formatting-in-python-6-things-to-know-about-f-strings-72fd38d96172)
   * [Converting Between Strings and Lists in Python](https://www.youtube.com/watch?v=vhzxtXwIHYI)
   * [10 Python String Processing Tips & Tricks](https://www.kdnuggets.com/2020/01/python-string-processing-primer.html)
   * [How do I remove letters from a string in Python?](https://www.quora.com/How-do-I-remove-letters-from-a-string-in-Python)
@@ -1591,6 +1593,7 @@ Python
   * [Invent Your Own Computer Games with Python, 3rd Edition](https://www.freetechbooks.com/invent-your-own-computer-games-with-python-3rd-edition-t943.html)
   * [Making Games with Python & Pygame](https://www.freetechbooks.com/making-games-with-python-pygame-t944.html)
   * [Hacking Secret Ciphers with Python: A beginners guide to cryptography and computer programming with Python](https://www.freetechbooks.com/hacking-secret-ciphers-with-python-a-beginners-guide-to-cryptography-and-computer-programming-with-python-t945.html)
+* [The Big Book of Small Python Projects](https://inventwithpython.com/bigbookpython/)
 * [**Books by Agiliq**](https://books.agiliq.com)
   * Django Admin Cookbook, Django ORM Cookbook, Building APIs with Django and Django Rest Framework, Building Multi Tenant Applications with Django, Django Projects Cookbook, Django Design Patterns, Django Gotchas
   * Journeyman Python, Essential Python Tools, Tweetable Python, Software consulting Howto, Visual Arts with Python
@@ -2228,6 +2231,7 @@ Python
 * [Using Async Functions Inside of Flask Routes - YouTube](https://www.youtube.com/watch?v=0z74b3c63GA)
 
 ## Flask Library
+* [Athena: Athena is a web application developed in Python-Flask-SQLite for testing your skills as a Hacker, Coder and Warrior](https://github.com/yezz123/Athena)
 * [Bread pan 기본적인 웹서비스를 간단하게 만드는 프로젝트 틀](https://github.com/jinhoyoo/breadpan) 구조 참고
 * [Flask-aiohttp — Asynchronous Flask application with aiohttp](https://flask-aiohttp.readthedocs.io)
 * [Flask-AppBuilder - Simple and rapid application development framework, built on top of Flask. Includes detailed security, auto CRUD generation for your models, google charts and much more](http://flask-appbuilder.readthedocs.io/)
@@ -2551,6 +2555,7 @@ Python
 * [Windows 10 Jupyter Notebook 원격 + 테마 설정하는 방법(라우터 우회)](https://devbull.xyz/windows-10-jupyter-notebook-weongyeog-tema-seoljeonghaneun-bangbeob-rauteo-uhoe/)
 * [debugging - Jupyter notebook never finishes processing using multiprocessing (Python 3) - Stack Overflow](https://stackoverflow.com/questions/47313732/jupyter-notebook-never-finishes-processing-using-multiprocessing-python-3)
 * [주피터노트북 코드 없이 아웃풋만 pdf 또는 html로 저장하기 - 아무튼 워라밸](http://hleecaster.com/export-jupyter-notebook-without-code/)
+* [On writing clean Jupyter notebooks | by Eduardo Blancas | Jul, 2021 | Towards Data Science](https://towardsdatascience.com/on-writing-clean-jupyter-notebooks-abdf6c708c75)
 
 ## Jupyter Library
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
@@ -3067,6 +3072,7 @@ Python
   * [George Hotz | Programming | minikeyvalue: a sub 1000 line key value store (for production!)](https://www.youtube.com/watch?v=cAFjZ1gXBxc)
 * [miracle-ad - AAA 중 Authorization 관련 모듈 - miracle-acl](http://mcchae.egloos.com/11272920)
 * [MORPHiS is a global encrypted distributed datastore intended to replace the cloud for storage and far more](https://morph.is/)
+* [moviepy: Video editing with Python](https://github.com/Zulko/moviepy)
 * [MUMPS : a parallel sparse direct solver](http://mumps.enseeiht.fr/)
 * [natsort - Simple yet flexible natural sorting in Python](https://github.com/SethMMorton/natsort)
 * [NBAPB (Blog Auto Posting Bot)](https://github.com/pjt3591oo/blog_post_bot_cli)
@@ -3737,6 +3743,8 @@ Python
 * [horrifying-pdf-experiments: Stuff which works in Chrome and maybe Acrobat and Foxit](https://github.com/osnr/horrifying-pdf-experiments)
 * [invoice2data - Data extractor for PDF invoices](https://github.com/manuelRiel/invoice2data)
 * [ptext-release: pText is a library for reading, creating and manipulating PDF files in python](https://github.com/jorisschellekens/ptext-release/)
+* [pystitcher: pystitcher stitches your PDF files together, generating nice customizable bookmarks for you using a declarative markdown file as input](https://github.com/captn3m0/pystitcher)
+  * [Uses PyPDF3 for reading and writing PDF files written in python](https://pythonawesome.com/uses-pypdf3-for-reading-and-writing-pdf-files-written-in-python/)
 
 ## Library progress bar
 * [Python Progress Bars in 9 minutes - YouTube](https://www.youtube.com/watch?v=AntTxtOWyAI) tqdm, alive-bar
@@ -4043,6 +4051,7 @@ Python
 * [OctopusCon: Python Edition](https://octopuscon.com/events/octopuscon-python-edition/)
 * [When Python Practices Go Wrong - YouTube](https://www.youtube.com/watch?v=ZdVgwhHXMpE)
 * [키노트 파이썬 커뮤니티가 교육에 기여할 수 있는 것들 - 송석리 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=ex2STT6GX-U&t=418s)
+* [Python News Brief (Q2 2021) - Honeybadger Developer Blog](https://www.honeybadger.io/blog/2021-q2-python/)
 
 ## Conference EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -4560,6 +4569,7 @@ Python
   * [Python on the front-end? How to build an entire web app with only Python - YouTube](https://www.youtube.com/watch?v=vj0zW_pSZn0)
 * [BlackSheep: Fast ASGI web framework and HTTP client for Python asyncio](https://github.com/RobertoPrevato/BlackSheep)
 * [Brython - A Python 3 implementation for client-side web programming](http://www.brython.info)
+  * [Brython (Browser Python) is an implementation of Python 3 running in the browser](https://github.com/brython-dev/brython)
   * [파이썬을 웹에서 실행하기 :: 프즈](https://tolovefeels.tistory.com/53)
   * [Sick of Using Javascript for the Web? Use Browser Python Instead | by Yakko Majuri | The Startup | Medium](https://medium.com/swlh/sick-of-javascript-just-use-browser-python-4b9679efe08b)
 * Falcon [An Introduction to the Falcon Framework | by Esther Vaati | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/an-introduction-to-the-falcon-framework-a787ceea098)
