@@ -756,6 +756,7 @@ Interview
 * [Resume Assistant - Mircrosoft Linkedin](https://blog.linkedin.com/2017/november/8/Creating-your-resume-just-got-a-whole-lot-easier-with-Microsoft-and-LinkedIn)
 * [How to Write a Résumé That Stands Out](https://hbr.org/2014/12/how-to-write-a-resume-that-stands-out)
 * [노션으로 “나다운” 이력서 만들기.pdf | ㅍㅍㅅㅅ](https://ppss.kr/archives/243020)
+* [getting-a-gig: Guide for getting a gig as a tech student](https://github.com/cassidoo/getting-a-gig)
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
 * [cakeresume.com/v2](https://www.cakeresume.com/v2)
 * [ddongule-simple-portfolio: Portfolio for Developers! Make your own portfolio Simple and Fast!](https://github.com/ddongule/ddongule-simple-portfolio)
