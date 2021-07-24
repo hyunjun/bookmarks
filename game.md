@@ -126,10 +126,13 @@ Game
   * [파이썬 실전 프로젝트 | 기억력 테스트 게임, 침팬지를 이겨라 - YouTube](https://www.youtube.com/watch?v=Qsk-xsi73YA)
   * [파이썬 코딩 강의를 제작하였습니다 (황금캐기 게임) : 클리앙](https://www.clien.net/service/board/lecture/16193080)
   * [xneko를 파이게임으로 이식하면서... (결론: 수학의 중요성)](https://jhrogue.blogspot.com/2021/07/b-xneko.html)
+  * [pygame-conways-game-of-life: Conway's Game of Life implemented in PyGame](https://github.com/m-zebrak/pygame-conways-game-of-life)
+    * [Conway's Game of Life implemented in PyGame](https://pythonawesome.com/conways-game-of-life-implemented-in-pygame/)
   * [pygame-physics](https://github.com/idgmatrix/pygame-physics)
 * [pyNES - NES games in python](http://gutomaia.net/pyNES/)
 * [Pyxel - a retro game engine for Python](https://github.com/kitao/pyxel)
   * [PyCon KR 2019 뱅크샐러드 돌아보기](https://medium.com/rainist-engineering/pycon-kr-2019-banksalad-5b4816325949)
+* [Turn based roguelike in python](https://pythonawesome.com/turn-based-roguelike-in-python/)
 
 ## Library Scala
 * [Indigo · A game engine for programmers](https://indigoengine.io/)
