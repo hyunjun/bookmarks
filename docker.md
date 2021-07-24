@@ -636,6 +636,8 @@ Docker
 * [2. Docker Compose로 Nodejs 개발/배포환경 구성하기 - Docker Compose로 개선하기](https://jojoldu.tistory.com/587)
 * [dcw - Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
+* [kool.dev](https://kool.dev/)
+  * [Kool - 더 나은 로컬 개발 환경 | GeekNews](https://news.hada.io/topic?id=4616)
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
 
 # CI Continuous Integration
@@ -1003,6 +1005,7 @@ Docker
 * [Capturing container traffic on Kubernetes | by Peter Gillich | FAUN](https://faun.pub/capturing-container-traffic-on-kubernetes-ee4a49b833b7)
 * [Architecting Kubernetes clusters — choosing the best autoscaling strategy](https://learnk8s.io/kubernetes-autoscaling-strategies)
 * [리얼리눅스 무료세미나: 도커/쿠버네티스/클라우드 네트워크 문제해결이 어려운 이유 - YouTube](https://www.youtube.com/watch?v=McDxXTGnWPE)
+* [Migrate virtual machines to Kubernetes with this new tool | Opensource.com](https://opensource.com/article/21/6/migrate-vms-kubernetes-forklift)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1032,6 +1035,8 @@ Docker
   * [A CLI Tool for Multi-Cluster Kubernetes: Cloud Manager Rocks | by Jorge Simão | Jan, 2021 | Medium](https://einnovator.medium.com/a-cli-tool-for-multi-cluster-kubernetes-cloud-manager-rocks-af17124af2a6)
   * [Deploying Java/Spring Apps to Multiple Clouds with Kubernetes Cloud Manager | by Jorge Simão | Geek Culture | Mar, 2021 | Medium](https://medium.com/geekculture/deploying-java-spring-apps-to-multiple-clouds-with-kubernetes-cloud-manager-87cc61275cb0)
   * [Microservices Auto-Configuration with Connectors & Bindings: Cloud-Native Dependency-Injection in Kubernetes Cloud Manager | by Jorge Simão | Mar, 2021 | Medium](https://einnovator.medium.com/microservices-auto-configuration-with-connectors-bindings-cloud-native-dependency-injection-in-531488c74c4)
+* [Devtron - The DevOps Accelerator](https://devtron.ai/)
+  * [DevTron - k8s용 소프트웨어 딜리버리 워크플로우 | GeekNews](https://news.hada.io/topic?id=4593)
 * [faasd: A lightweight & portable faas engine](https://github.com/openfaas/faasd)
 * [Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. (Project under CNCF)](https://github.com/fluid-cloudnative/fluid) 분산 데이터 세트 오케스트레이터/엑셀러레이터
 * [Helm - The package manager for Kubernetes](https://helm.sh/)
@@ -1058,6 +1063,7 @@ Docker
 * k3s
   * [k3s로 간단하게 Kubernetes 환경 구축하기](https://si.mpli.st/dev/2020-01-01-easy-k8s-with-k3s/)
   * [Bare-metal Kubernetes with K3s](https://blog.alexellis.io/bare-metal-kubernetes-with-k3s/)
+* [K9s — the powerful terminal UI for Kubernetes | by Flant staff | Flant | Medium](https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f)
 * [karpenter: Kubernetes Node Autoscaling: built for flexibility, performance, and scalability](https://github.com/awslabs/karpenter)
   * Kubernetes 노드 오토스케일러
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
@@ -1071,6 +1077,8 @@ Docker
   * [Getting Started with Knative in Scala | @lightbend](https://www.lightbend.com/blog/getting-started-with-knative-in-scala)
   * [Knative Cookbook | Red Hat Developer](https://developers.redhat.com/books/knative-cookbook)
 * [Kogito ergo automate - CLOUD-NATIVE BUSINESS AUTOMATION FOR BUILDING INTELLIGENT APPLICATIONS, BACKED BY BATTLE-TESTED CAPABILITIES](https://kogito.kie.org)
+* ksonnet
+  * [쿠버네티스 리소스 배포와 관리를 위한 ksonnet](http://bcho.tistory.com/1302)
 * [kubectl-debug: Debug your pod by a new container with every troubleshooting tools pre-installed](https://github.com/aylei/kubectl-debug)
 * [kubectl-trace: Schedule bpftrace programs on your kubernetes cluster using the kubectl](https://github.com/iovisor/kubectl-trace)
 * [kubectx: Faster way to switch between clusters and namespaces in kubectl](https://github.com/ahmetb/kubectx)
@@ -1096,17 +1104,26 @@ Docker
     * Kubeflow Pipeline을 배포할 때 매번 빌드를 하고 업로드를 하는 작업을 하게 되는데, 이 과정을 Terraform처럼 `krsh apply` 명령을 cli에서 보내면 자동으로 파이프라인의 형상을 관리할 수 있게 작성
     * Infrastructure as Code (IaC)의 철학을 머신러닝 파이프라인에도 적용
 * kubelet API [Attacking Kubernetes clusters using the Kubelet API | by Eduardo Baitello | FAUN](https://faun.pub/attacking-kubernetes-clusters-using-the-kubelet-api-abafc36126ca)
+* [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes](https://github.com/external-secrets/kubernetes-external-secrets)
+  * [k8s External Secrets 훑어보기](https://brunch.co.kr/@alden/68)
+    * AWS에서 Kubernetes를 사용할 때 시크릿 정보를 AWS에서 관리하는 Secrets Manger나 Parameter Store에서 가져오기 위해 External Secrets을 사용하는 방법을 설명
+    * External Secrets 컨트롤러가 Secrets Manager에 접근해서 정보를 가져올 수 있도록 권한을 설정하는 방법을 설명
+    * 이렇게 가져온 정보는 Secrets이 되므로 Deployment 등에서 envFrom이나 secretRef로 가져와서 사용 가능
 * kubespray
   * [처음 만난 Kubespray](http://knight76.tistory.com/entry/kubespary-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-Kubespray)
   * [kubespray를 통한 클러스터 구축 - WONIZZ.LOG](https://blog.wonizz.tk/2021/05/17/kubernetes-kubespray/)
+* kubestack [Enjoy the best developer experience and build your Kubernetes platform | Kubestack](https://www.kubestack.com/)
+  * [KubeStack — A Must Use. An Open-Source, Easy-to-use GitOps… | by Shanika Perera | Geek Culture | Jun, 2021 | Medium](https://medium.com/geekculture/kubestack-a-must-use-117a32efd427)
 * [kubethanos kills half of your pods randomly to engineer chaos in your preferred environment, gives you the opportunity to see how your system behaves under failures](https://github.com/berkay-dincer/kubethanos)
 * [Kubevirt | Wait... Running Virtual Machine (VM) inside Kuberenetes? Now, you can! - YouTube](https://www.youtube.com/watch?v=3kQDtXE4qi8)
 * [kubie: A more powerful alternative to kubectx and kubens](https://github.com/sbstp/kubie)
 * [Kui - a terminal with visualizations by and for developers](https://kui.tools/)
 * [Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/)
 * [Lens | The Kubernetes IDE](https://k8slens.dev/)
+* [localizer: ⛵ A no-frills local development tool for service developers working in Kubernetes](https://github.com/getoutreach/localizer)
 * [maesh - Simpler Service Mesh](https://containo.us/maesh/)
   * [Announcing Maesh, a Lightweight and Simpler Service Mesh Made by the Traefik Team](https://blog.containo.us/announcing-maesh-a-lightweight-and-simpler-service-mesh-made-by-the-traefik-team-cb866edc6f29)
+* [MicroK8s - Zero-ops Kubernetes for developers, edge and IoT](https://microk8s.io/)
 * Minikube
   * [Using Kubernetes for Local Development — Minikube](https://medium.com/devopslinks/using-kubernetes-minikube-for-local-development-c37c6e56e3db)
   * [Getting started with Minikube: Kubernetes on your laptop](https://opensource.com/article/18/10/getting-started-minikube)
@@ -1119,6 +1136,8 @@ Docker
   * [Kubernetes의 네트워크 이슈를 해결할 수 있는 network-node-manager – tech.kakao.com](https://tech.kakao.com/2021/03/03/network-node-manager/)
 * [Okteto - The Kubernetes development platform](https://okteto.com/) cloud?
 * [OperatorHub.io - a new home for the Kubernetes community to share Operators. Find an existing Operator or list your own today](https://www.operatorhub.io)
+* [QUARKUS - Supersonic Subatomic Java A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards](https://quarkus.io/)
+  * [Why Quarkus](http://in.relation.to/2019/03/08/why-quarkus/)
 * [Rancher - Complete container management platform Deploy and manage Kubernetes with ease](https://rancher.com/)
   * [Purpose built OS for Kubernetes and fully managed by Kubernetes. https://k3os.io ](https://github.com/rancher/k3os)
   * [쿠버네티스 멀티 클라우드/클러스터를 위한 Rancher](https://bcho.tistory.com/1348)
@@ -1188,16 +1207,7 @@ Docker
   * [Spring Boot 과 Docker (with jib)](https://medium.com/@gaemi/spring-boot-과-docker-with-jib-657d32a6b1f0)
   * [Jib 1.0.0 is GA—building Java Docker images has never been easier](https://cloud.google.com/blog/products/application-development/jib-1-0-0-is-ga-building-java-docker-images-has-never-been-easier)
   * [jib를 이용한 자바 앱 컨테이너화](https://brunch.co.kr/@alden/72)
-* [K9s — the powerful terminal UI for Kubernetes | by Flant staff | Flant | Medium](https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f)
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
-* ksonnet
-  * [쿠버네티스 리소스 배포와 관리를 위한 ksonnet](http://bcho.tistory.com/1302)
-* [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes](https://github.com/external-secrets/kubernetes-external-secrets)
-  * [k8s External Secrets 훑어보기](https://brunch.co.kr/@alden/68)
-    * AWS에서 Kubernetes를 사용할 때 시크릿 정보를 AWS에서 관리하는 Secrets Manger나 Parameter Store에서 가져오기 위해 External Secrets을 사용하는 방법을 설명
-    * External Secrets 컨트롤러가 Secrets Manager에 접근해서 정보를 가져올 수 있도록 권한을 설정하는 방법을 설명
-    * 이렇게 가져온 정보는 Secrets이 되므로 Deployment 등에서 envFrom이나 secretRef로 가져와서 사용 가능
-* [localizer: ⛵ A no-frills local development tool for service developers working in Kubernetes](https://github.com/getoutreach/localizer)
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
 * [magicpak enables you to build minimal docker images without any bothersome preparation such as static linking](https://github.com/coord-e/magicpak)
 * [Morte: an intermediate language for super-optimizing functional programs](http://www.haskellforall.com/2014/09/morte-intermediate-language-for-super.html)
@@ -1221,8 +1231,6 @@ Docker
   * [컨테이너 기술:: Docker와 Podman](https://naleejang.tistory.com/227)
   * [Transitioning from Docker to Podman - Red Hat Developer](https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/)
   * [How to replace Docker with Podman on a Mac | Enable Sysadmin](https://www.redhat.com/sysadmin/replace-docker-podman-macos)
-* [QUARKUS - Supersonic Subatomic Java A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards](https://quarkus.io/)
-  * [Why Quarkus](http://in.relation.to/2019/03/08/why-quarkus/)
   * [Quarkus란?](https://www.redhat.com/ko/topics/cloud-native-apps/what-is-quarkus)
   * [Building a Microservice From the Ground up With Quarkus, Kotlin, and Debezium | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/building-a-microservice-from-the-ground-up-with-quarkus-kotlin-and-debezium-83ae5c8a8bbc)
   * [Implementing the Transactional Outbox Pattern with Debezium in Quarkus | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/implementing-the-transactional-outbox-pattern-with-debezium-in-quarkus-f2680306951)
