@@ -68,6 +68,8 @@ Logging
 * [Apache logging services](https://logging.apache.org)
 * [Apex Logs — Structured log management](https://apex.sh/logs/)
   * [Apex Logs public beta. My latest product Apex Logs is now in… | by TJ Holowaychuk | Aug, 2020 | Medium](https://medium.com/@tjholowaychuk/apex-logs-public-beta-48c683464054)
+* lnav [The Logfile Navigator | The Logfile Navigator, lnav for short, is an advanced log file viewer for the small-scale](https://lnav.org/)
+  * [The Logfile Navigator | GeekNews](https://news.hada.io/topic?id=4606)
 * [LOGAI – AUTOMATED LOG ANALYTICS FOR VALIDATION](https://ko.hortonworks.com/blog/logai-automated-log-analytics-validation/)
   * Hortonworks의 HDP 테스트에서 나온 로그를 분석하는 도구
   * 시스템에서 빈도(frequency), 동시 발생(co-occurence), 기타 상관 모델을 사용하여 에러를 하이라이트하고, trace와 기타 내용
