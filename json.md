@@ -63,6 +63,7 @@ Json
 * [JSON Text를 JSON Object로 변환하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/257)
 * [파서 만들기 (1) - JSON.stringify - 완두블로그](https://wani.kr/posts/2020/02/11/make-parser-1/)
 * [파서 만들기 (2) - JSON.parse - 완두블로그](https://wani.kr/posts/2020/02/22/make-parser-2/)
+* [No Way, JOSE! Javascript Object Signing and Encryption is a Bad Standard That Everyone Should Avoid - Paragon Initiative Enterprises Blog](https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid)
 * [nearley.js - JS Parsing Toolkit](https://nearley.js.org/)
   * [**JSON.parse 직접 만들어보기. By 최종찬 | by Riiid Techblog | Dec, 2020 | Medium**](https://riiidtechblog.medium.com/json-parse-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-f567ecdf08c0)
 
