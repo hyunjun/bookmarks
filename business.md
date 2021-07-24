@@ -549,6 +549,7 @@ Business
 * [팀장님, 그렇게 하는 거 아니에요(3) - 완전한 솔직한 조언으로 전환하기](https://blog.naver.com/nanotoly/222071755163)
 * [팀장님, 그렇게 하는 거 아니에요(4) - 해고](https://blog.naver.com/nanotoly/222072316985)
 * [그래서 내 업무가 정확히 뭡니까? 업무 지시를 명확하게 하지 않는 상사](https://blog.naver.com/wantedlab/222369623767)
+* ['타고난 리더'보다 '평범한 팀장'이 더 좋은 이유 : 네이버 뉴스](https://news.naver.com/main/read.naver?sid1=110&oid=243&aid=0000014570)
 * [팀 내 갈등은 팀장의 자산(?) | ㅍㅍㅅㅅ](https://ppss.kr/archives/227487)
 * [나는 무슨 수로 최고의 리더와 일하게 되었나](https://ppss.kr/archives/206018)
 * [**PM은 리더가 아니다?··· 프로젝트 관리자들의 8가지 착각**](http://www.ciokorea.com/news/146190)
@@ -755,6 +756,8 @@ Business
 * [13일만에 투자받은 Airbyte의 IR덱 | GeekNews](https://news.hada.io/topic?id=3998)
   * [The Deck We Used to Raise Our Seed with Accel in 13 Days](https://airbyte.io/articles/our-story/the-deck-we-used-to-raise-our-seed-with-accel-in-13-days/)
 * [스타트업, 왜 실패하는가? | 리더십 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/8_1/article_no/1705)
+* [Startup Concepts - A Junior VC](https://ajuniorvc.com/startup-concepts/)
+  * [Startup Concepts - 만화책 스타일의 스타트업 단어 설명 | GeekNews](https://news.hada.io/topic?id=4671)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
