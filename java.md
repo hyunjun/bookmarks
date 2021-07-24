@@ -141,8 +141,6 @@ Java
 * [왜 자바에서 final 멤버 변수는 관례적으로 static을 붙일까?](https://djkeh.github.io/articles/Why-should-final-member-variables-be-conventionally-static-in-Java-kor/)
 * [왜 main()는 public static void인가?](https://coco-log.tistory.com/138)
 * [Miro Cupak - The Good, the Bad and the Ugly of Java API design](https://www.youtube.com/watch?v=GGahNwIkAeA)
-* [java hashCode vs identityHashcode : 이 둘은 무엇이 다를까요?](https://codingdog.tistory.com/entry/java-hashCode-vs-identityHashcode-%EC%9D%B4-%EB%91%98%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%BC%EA%B9%8C%EC%9A%94)
-* [왜 java에서는 equals 메서드를 오버라이드 하면 hashCode 도 같이 해야 할까요?](https://codingdog.tistory.com/entry/%EC%99%9C-java%EC%97%90%EC%84%9C%EB%8A%94-equals-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%93%9C-%ED%95%98%EB%A9%B4-hashCode-%EB%8F%84-%EA%B0%99%EC%9D%B4-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
 * [Implementing in-memory compression for objects in Java](https://stackoverflow.com/questions/5934495/implementing-in-memory-compression-for-objects-in-java)
 * [The Error Handling Done Right - The Startup - Medium](https://medium.com/swlh/the-error-handling-done-right-d19ffca2656f)
 * [이펙티브 자바 3판 - 열거 타입과 애너테이션](http://astrod.github.io/java/2020/07/18/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-3%ED%8C%90-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98/) Enum, EnumSet, EnumMap, Annotation
@@ -273,6 +271,9 @@ Java
     * [java 다른 객체를 참조하는데 ==이 참인 경우가 있을까요?](https://codingdog.tistory.com/entry/java-%EB%8B%A4%EB%A5%B8-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EC%B0%B8%EC%A1%B0%ED%95%98%EB%8A%94%EB%8D%B0-%EC%9D%B4-%EC%B0%B8%EC%9D%B8-%EA%B2%BD%EC%9A%B0%EA%B0%80-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)
   * hashCode
     * [자바의 hashCode()](https://brunch.co.kr/@mystoryg/133)
+    * [java hashCode vs identityHashcode : 이 둘은 무엇이 다를까요?](https://codingdog.tistory.com/entry/java-hashCode-vs-identityHashcode-%EC%9D%B4-%EB%91%98%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%BC%EA%B9%8C%EC%9A%94)
+    * [왜 java에서는 equals 메서드를 오버라이드 하면 hashCode 도 같이 해야 할까요?](https://codingdog.tistory.com/entry/%EC%99%9C-java%EC%97%90%EC%84%9C%EB%8A%94-equals-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%93%9C-%ED%95%98%EB%A9%B4-hashCode-%EB%8F%84-%EA%B0%99%EC%9D%B4-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
+    * [JVM Anatomy Quark #26: Identity Hash Code](https://shipilev.net/jvm/anatomy-quarks/26-identity-hash-code/)
 * Random
   * [Java에서 랜덤 함수를 이용해 난수 얻기](https://developer88.tistory.com/183)
 * Serializable
@@ -658,6 +659,7 @@ Java
   ```
 * [OpenJDK 11, tools of the trade](https://blog.frankel.ch/openjdk-11-tools-trade/) jps, jinfo, jmap, jstack, jconsole
 * [A Year with Java 11 in Production!](https://www.infoq.com/presentations/java-11-production-story/)
+* [Java 8에서 Java 11로 전환 - Azure | Microsoft Docs](https://docs.microsoft.com/ko-kr/azure/developer/java/fundamentals/transition-from-java-8-to-java-11) jdeprscan jdeps
 
 # Java12
 * [Teeing Collector in Java 12](http://blog.codefx.org/java/teeing-collector/)
@@ -696,6 +698,7 @@ Java
 # Java17
 * [자바 17이 다가오면... - DEV Community](https://dev.to/composite/17-62e)
 * [Internal JDK Elements Strongly Encapsulated in JDK 17](https://www.infoq.com/news/2021/06/internals-encapsulated-jdk17/)
+* [Java News Roundup: JDK 17, JDK 18, Open Liberty, Payara, Quarkus and Spring](https://www.infoq.com/news/2021/07/java-news-roundup-jul05-2021/)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
@@ -1053,6 +1056,8 @@ Java
   * [JMeter을 이용해서 웹서버 성능 테스트하기 - YouTube](https://www.youtube.com/watch?v=1AyxqIePusA)
   * [테스트 명장, Apache JMeter](https://jybaek.tistory.com/889)
 * [jOOλ - The Missing Parts in Java 8 jOOλ improves the JDK libraries in areas where the Expert Group's focus was elsewhere](https://github.com/jOOQ/jOOL)
+* [JReleaser](https://jreleaser.org/) publish binaries to Homebrew, Scoop, Snapcraft, Chocolatey, among others
+  * [Quick and Seamless Release Management for Java Projects with JReleaser](https://www.infoq.com/articles/java-release-management-with-jreleaser/)
 * [jsoup: Java HTML Parser](https://jsoup.org/)
   * [HtmlUnit close all windows memory leak](https://stackoverrun.com/ko/q/7258293)
   * [Out Of Memory Error](https://github.com/jhy/jsoup/issues/339)
