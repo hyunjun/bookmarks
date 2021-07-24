@@ -170,6 +170,7 @@ Web
 * [Best practices for cookie notices](https://web.dev/cookie-notice-best-practices/)
 * [URL shorteners set ad tracking cookies - luke miles](https://ylukem.com/blog/url-shorteners-set-ad-tracking-cookies)
 * [First-Party & Third-Party Cookies: What’s the Difference? - Clearcode Blog](https://clearcode.cc/blog/difference-between-first-party-third-party-cookies/)
+* [A beginner's guide to cookies — Quartz Weekly Obsession — Quartz](https://qz.com/emails/quartz-obsession/2015806/)
 * [사라지는 쿠키, 디지털 광고를 위한 차세대 ‘추적’ 기술은 무엇? - ITWorld Korea](http://www.itworld.co.kr/news/161700)
 * [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
 * [번역 What Is the Difference Between a URI, a URL and a URN?](https://www.codeameba.com/2019/08/18/uri-url-urn/)
@@ -207,6 +208,7 @@ Web
 * [WebDevChallenge: A hopefully ever-growing list of web-development related challenges](https://github.com/jlem/WebDevChallenge)
 * [Under 1px line](https://hokeydokey.tistory.com/156)
 * [LINE에서 하루 만에 정적 웹 페이지 개발해서 배포하는 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/how-to-quickly-develop-static-pages-in-line/)
+* [All Programming is Web Programming](https://blog.codinghorror.com/all-programming-is-web-programming/) 기술 이야기는 아니지만 맞는 말이며 참고할만한 말
 
 # Apache
 * installation
@@ -557,8 +559,6 @@ Web
   * [Spring REST API 문서를 Swagger로 만들자](http://yookeun.github.io/java/2017/02/26/java-swagger/)
   * [API the Docs 참관 후기](https://engineering.linecorp.com/ko/blog/detail/292)
   * [Designing REST API with Open API Specification (OAS) v2.0 & v3.0 using Swagger](https://hackernoon.com/designing-rest-api-with-open-api-specification-oas-v2-0-v3-0-using-swagger-11dd4ef8cea6)
-* [traefik: The Cloud Native Application Proxy](https://github.com/traefik/traefik)
-  * [traefik - 클라우드 네이티브 어플리케이션 프록시 | GeekNews](https://news.hada.io/topic?id=3668)
 * [TSWS, A Totally Simple Web Server](https://github.com/dfletcher/tsws)
 * [UrlDiff - Simple visual regression testing](http://www.productchart.com/blog/2015-07-19-urldiff)
 
@@ -617,6 +617,7 @@ Web
 * [Nginx-ingress controller for cross-namespace support and fix 308 redirect loops with AWS NLB | by ismail yenigül | FAUN](https://faun.pub/nginx-ingress-controller-for-cross-namespace-support-and-fix-308-redirect-loops-with-aws-nlb-9c9ca58deeaa)
 * [daphne, nginx을 활용한 소켓 통신 연결 삽질 극복기(TroubleShooting)](https://velog.io/@seanlion/daphnenginxtroubleshooting)
 * [Microservices design and deployment with NGINX | Free Ebook](https://www.nginx.com/resources/library/designing-deploying-microservices/)
+* [The NGINX Real-Time API Handbook - NGINX](https://www.nginx.com/resources/library/real-time-api-handbook)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
 * [topngx - top for NGINX](https://github.com/gsquire/topngx)
@@ -658,6 +659,7 @@ Web
 
 # Proxy
 * [코딩방송 Season1- EP 15. 프록시 proxy](https://www.youtube.com/watch?v=fC3Cxh5B9Ug)
+* [Why should I use a Reverse Proxy if Node.js is Production-Ready?](https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca)
 * Consul
   * [HAProxy and Consul with DNS for Service Discovery - HAProxy Technologies](https://www.haproxy.com/blog/haproxy-and-consul-with-dns-for-service-discovery/)
   * [Load Balancing Strategies for HashiCorp Consul](https://www.hashicorp.com/blog/load-balancing-strategies-for-consul/)
@@ -677,8 +679,10 @@ Web
   * [Docker기반 Redis 구축하기 - (8) HAProxy를 이용한 분산처리 환경 구축하기 | Carrey's 기술블로그](https://jaehun2841.github.io/2018/12/02/2018-12-02-docker-8/#haproxycfg-%ED%8C%8C%EC%9D%BC-%EC%9E%91%EC%84%B1)
   * [HAProxy 고가용성 설정](https://www.ibm.com/support/knowledgecenter/ko/SSYMRC_6.0.5/com.ibm.jazz.install.doc/topics/t_setup_haproxy_ha.html)
   * [Announcing HAProxy 2.2 - HAProxy Technologies](https://www.haproxy.com/blog/announcing-haproxy-2-2/)
-* [MITMProxy로 실시간 검색어 조작하기](https://www.youtube.com/watch?v=2Of-zvygg8w)
-* [traefik: The Cloud Native Edge Router](https://github.com/containous/traefik)
+* [Mitmproxy 7](https://mitmproxy.org/posts/releases/mitmproxy7/)
+  * [MITMProxy로 실시간 검색어 조작하기](https://www.youtube.com/watch?v=2Of-zvygg8w)
+* [traefik: The Cloud Native Application Proxy](https://github.com/traefik/traefik)
+  * [traefik - 클라우드 네이티브 어플리케이션 프록시 | GeekNews](https://news.hada.io/topic?id=3668)
 
 # Python
 * Let’s Build A Web Server
@@ -706,6 +710,8 @@ Web
     * `yum install pcre-devel.x86_64 -y`
     * `apt-get install libpcre3-dev -y`
   * [mod_fastcgi, mod_wsgi](https://github.com/dsindex/blog/wiki/%5Bpython%5D-mod_fastcgi,-mod_wsgi)
+* [pook: HTTP traffic mocking and testing made simple in Python](https://github.com/h2non/pook)
+  * [HTTP traffic mocking and testing made simple in Python](https://pythonawesome.com/http-traffic-mocking-and-testing-made-simple-in-python/)
 * [pyhttptest: HTTP tests over RESTful APIs](https://github.com/slaily/pyhttptest)
 * [search-script-scrape - 101 real world web scraping exercises in Python 3 for data journalists https://github.com/compjour/search-script-scrape#repo-status](https://github.com/compjour/search-script-scrape/)
 * [Streamlit. The fastest way to build custom ML tools](https://www.streamlit.io/)
@@ -819,10 +825,6 @@ Web
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
 * [grest: Build REST APIs with Neo4j and Flask, as quickly as possible!](https://github.com/mostafa/grest)
   * [The Story of gREST, A Graph-based Restful API Development Framework | by Mostafa Moradian | Medium](https://medium.com/@mostafamoradian/the-story-of-grest-a-graph-base-restful-api-development-framework-e1f93b8a850d)
-
-# Reverse Proxy
-* [Why should I use a Reverse Proxy if Node.js is Production-Ready?](https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca)
-* [Trafik - A modern reverse proxy](http://traefik.github.io/)
 
 # Security 보안
 * [All you need to know about user session security](https://hackernoon.com/all-you-need-to-know-about-user-session-security-ee5245e6bdad)
