@@ -538,6 +538,7 @@ Algorithm
 
 # Probablistic Filter
 * [Probablistic Filter 확률론적 필터](https://docs.google.com/presentation/d/e/2PACX-1vRuVja4WtbxkL800SKOYeiTXvi7IciqgRAZjXqqkXCV4KWbxzLcCP2RsadezenK80Q8BrOAn3GrMGvo/pub) Bloom Filter, Counting Filter, Cuckoo hash
+* [Ribbon filter: Practically smaller than Bloom and Xor](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/)
 
 ## Probablistic Filter Bloom Filter
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
@@ -619,6 +620,7 @@ Algorithm
 * [인트로 정렬 : c++의 sort는 왜 최악의 경우에도 빠르게 동작하는가?](https://codingdog.tistory.com/entry/%EC%9D%B8%ED%8A%B8%EB%A1%9C-%EC%A0%95%EB%A0%AC-c%EC%9D%98-sort%EB%8A%94-%EC%99%9C-%EC%B5%9C%EC%95%85%EC%9D%98-%EA%B2%BD%EC%9A%B0%EC%97%90%EB%8F%84-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80)
 * [k번째 수 찾기:count sort를 응용해 봅시다](https://codingdog.tistory.com/entry/k%EB%B2%88%EC%A7%B8-%EC%88%98-%EC%B0%BE%EA%B8%B0-count-sort%EB%A5%BC-%EC%9D%91%EC%9A%A9%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [Tim sort에 대해 알아보자](https://d2.naver.com/helloworld/0315536)
+* [Beating TimSort at Merging - Earthly Blog](https://earthly.dev/blog/python-timsort-merge/)
 * [Selection Sort Algorithm Visually Explained](https://levelup.gitconnected.com/selection-sort-algorithm-visually-explained-5bdba8c2acb1)
 * [median of median : 피벗을 중앙의 중앙값을 선택한다](https://codingdog.tistory.com/entry/median-of-median-%ED%94%BC%EB%B2%97%EC%9D%84-%EC%A4%91%EC%95%99%EC%9D%98-%EC%A4%91%EC%95%99%EA%B0%92%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%9C%EB%8B%A4)
 
