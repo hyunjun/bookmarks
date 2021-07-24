@@ -13,6 +13,7 @@ SQL
 * [New course: Learn SQL interactively on Khan Academy](http://cs-blog.khanacademy.org/2015/05/just-released-full-introductory-sql.html)
 * [Top 5 SQL and Database Courses to Learn Online](https://medium.com/hackernoon/top-5-sql-and-database-courses-to-learn-online-48424533ac61)
 * [SQLBolt, a series of interactive lessons and exercises](http://sqlbolt.com/)
+  * [SQLBolt - 인터랙티브 예제로 SQL 배우기 | GeekNews](https://news.hada.io/topic?id=4619)
 * [Effective Micro-caching in Relational Database](http://www.briskat.com/blog/Effective-Caching/)
 * [Graphs in the database: SQL meets social networks](http://techportal.inviqa.com/2009/09/07/graphs-in-the-database-sql-meets-social-networks/)
 * [**sqlfiddle.com**](http://sqlfiddle.com/)
@@ -36,6 +37,7 @@ SQL
 * [How I bypassed Cloudflare's SQL Injection filter](https://www.astrocamel.com/web/2020/09/04/how-i-bypassed-cloudflares-sql-injection-filter.html)
 * [Error-Based SQL Injection.. : 네이버블로그](https://blog.naver.com/crehacktive3/222187681939)
 * [웹 개발자를 위한 SQL injection 웹 해킹 보안 가이드](https://blog.naver.com/nanotoly/222214308327)
+* [데이터베이스 보안을 향상시키는 11가지 기술 - ITWorld Korea](https://www.itworld.co.kr/news/201094)
 * [Welcome to the π-Base - A community database of topological examples with automated deduction and powerful search](http://topology.jdabbs.com/)
 * [Yesquel: scalable SQL storage for Web applications](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/106-aguilera.pdf)
 * [FreeGeoDB - Free database of geographic place names and corresponding geospatial data](https://github.com/delight-im/FreeGeoDB)
@@ -176,6 +178,8 @@ SQL
   * [is_leave vs leaved_at vs leave_status](https://jojoldu.tistory.com/577)
 * [글로벌 칼럼 | DB 분산 처리 기법 '샤딩', "웬만하면 하지 마라" - ITWorld Korea](https://www.itworld.co.kr/news/200134) sharding
 * [The State of the Open Source Database Industry in 2020: Part Three - Percona Database Performance Blog](https://www.percona.com/blog/2020/04/22/the-state-of-the-open-source-database-industry-in-2020-part-three/)
+* [Against SQL](https://scattered-thoughts.net/writing/against-sql/)
+* [A beginner's guide to database multitenancy - Vlad Mihalcea](https://vladmihalcea.com/database-multitenancy/)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
@@ -549,6 +553,7 @@ SQL
 * [Upgrading MySQL (Percona Server) from 5.7 to 8.0 | by Flant staff | Flant | Medium](https://medium.com/flant-com/upgrading-mysql-percona-server-5-to-8-4bce53bdce5c)
 * [MySQL 8.0 업그레이드 전 짚어봐야할 몇 가지! | STAR::DATABASE](https://stardba.net/sun/checkpoint-mysql80-upgrade/)
 * [MySQL 8.0.22: Asynchronous Replication Automatic Connection (IO Thread) Failover - Percona Database Performance Blog](https://www.percona.com/blog/2020/10/26/mysql-8-0-22-asynchronous-replication-automatic-connection-io-thread-failover/)
+* [Migrating Facebook to MySQL 8.0 - Facebook Engineering](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/)
 * [5 MySQL features you need to know](https://opensource.com/article/20/3/mysql-features)
 * [18 Things You Can Do to Remove MySQL Bottlenecks Caused by High Traffic (Part One)](https://www.percona.com/blog/2020/04/03/18-things-you-can-do-to-remove-mysql-bottlenecks-caused-by-high-traffic-part-one/)
 * [Need to Connect to a Local MySQL Server? Use Unix Domain Socket!](https://www.percona.com/blog/2020/04/13/need-to-connect-to-a-local-mysql-server-use-unix-domain-socket/)
@@ -671,8 +676,10 @@ SQL
 * [Managing big enough data in postgres](http://blog.tarkalabs.com/2015/04/16/managing-big-enough-data-in-postgres/)
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://blog.confluent.io/2015/04/23/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [Compressing PostgreSQL JSONB data 12x using cstore_fdw](https://www.citusdata.com/blog/14-marco/156-compressing-jsonb-using-cstore-fdw)
+* [How to update objects inside JSONB arrays with PostgreSQL](https://medium.freecodecamp.org/how-to-update-objects-inside-jsonb-arrays-with-postgresql-5c4e03be256a)
 * [Migrating to JSON in PostgreSQL](https://developer.s24.com/blog/migrating-json-postgresql.html)
 * [Unleash the Power of Storing JSON in Postgres](https://blog.codeship.com/unleash-the-power-of-storing-json-in-postgres/)
+* [Cut Out the Middle Tier: Generating JSON Directly from Postgres](https://blog.crunchydata.com/blog/generating-json-directly-from-postgres)
 * [PostgreSQL vs. MS SQL Server](http://www.pg-versus-ms.com/)
 * [A simple relational data access tool for NodeJS](https://github.com/robconery/massive-js)
 * [A proof of concept MongoDB clone built on Postgres](https://github.com/JerrySievert/mongolike)
@@ -737,7 +744,6 @@ SQL
   * 데이터베이스 API Call을 복제하여 구 개의 데이터베이스서 실행하고 로깅을 하는 방법을 포함하여 데이터베이스 롤아웃 및 마이그레이션 작업 과정
 * [The Internals of PostgreSQL for database administrators and system developers](http://www.interdb.jp/pg/index.html)
 * [Lessons learned scaling PostgreSQL database to 1.2bn records/month](https://medium.com/@gajus/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067)
-* [How to update objects inside JSONB arrays with PostgreSQL](https://medium.freecodecamp.org/how-to-update-objects-inside-jsonb-arrays-with-postgresql-5c4e03be256a)
 * [Parallelism in PostgreSQL](https://www.percona.com/blog/2019/07/30/parallelism-in-postgresql/)
 * [Postgres Handles More Than You Think](https://www.infoq.com/articles/postgres-handles-more-than-you-think/)
 * [NoSQL과RDBMS 중 적합한 데이터베이스 선택하기(feat.인스타그램DB)](https://mustread.tistory.com/5)
@@ -788,6 +794,11 @@ SQL
 * [An early look at Postgres 14: Performance and Monitoring Improvements](https://pganalyze.com/blog/postgres-14-performance-monitoring)
 * [Hierarchical Structures in PostgreSQL](https://hoverbear.org/blog/postgresql-hierarchical-structures/)
 * [Globally Distributed Postgres · Fly](https://fly.io/blog/globally-distributed-postgres/)
+* [PostgreSQL, Memory and the Cloud™ · Alexander Sosna](https://sosna.de/posts/pgaas-memory-overcommit/)
+* EdgeDB
+  * [EdgeDB—The next generation database](https://edgedb.com/)
+  * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
+  * [EdgeDB - 개발자를 위한 차세대 오픈소스 ORDB | GeekNews](https://news.hada.io/topic?id=4602)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
@@ -955,6 +966,7 @@ SQL
   * [**SQLite의 알려지지 않은 이야기 | GeekNews**](https://news.hada.io/topic?id=4558)
 * [Show HN: SQLite query inside a Bash function | Hacker News](https://news.ycombinator.com/item?id=27762201)
 * [Using sqlite3 as a notekeeping document graph with automatic reference indexing](https://epilys.github.io/bibliothecula/notekeeping.html)
+* [35% Faster Than The Filesystem](https://www.sqlite.org/fasterthanfs.html)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
 * [litestream: Streaming S3 replication for SQLite](https://github.com/benbjohnson/litestream)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
@@ -970,3 +982,5 @@ SQL
 * [A simple Python script to document the SQLite databases](https://towardsdatascience.com/a-simple-python-script-to-document-the-sqlite-databases-7932aa462cd8)
 * [Do You Know Python Has A Built-In Database? | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/do-you-know-python-has-a-built-in-database-d553989c87bd)
 * [SimpleSQLite - Python library to simplify the table creation and data insertion in SQLite database (Automatic table creation from data. Support various data type for insertion: dictionary/namedtuple/list/tuple) http://simplesqlite.readthedocs.org/en/stable/apis/simplesqlite.html](https://github.com/thombashi/SimpleSQLite)
+* [SQLite-Image-Handler: Simple to use image handler for python sqlite3.](https://github.com/mozancetin/SQLite-Image-Handler)
+  * [Simple to use image handler for python sqlite3](https://pythonawesome.com/simple-to-use-image-handler-for-python-sqlite3/)
