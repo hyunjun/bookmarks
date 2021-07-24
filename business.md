@@ -552,6 +552,7 @@ Business
 * [그래서 내 업무가 정확히 뭡니까? 업무 지시를 명확하게 하지 않는 상사](https://blog.naver.com/wantedlab/222369623767)
 * ['타고난 리더'보다 '평범한 팀장'이 더 좋은 이유 : 네이버 뉴스](https://news.naver.com/main/read.naver?sid1=110&oid=243&aid=0000014570)
 * [팀 내 갈등은 팀장의 자산(?) | ㅍㅍㅅㅅ](https://ppss.kr/archives/227487)
+* [시작은 어디서부터 인가?](https://brunch.co.kr/@tilltue/68) 관련 서적 추천
 * [나는 무슨 수로 최고의 리더와 일하게 되었나](https://ppss.kr/archives/206018)
 * [**PM은 리더가 아니다?··· 프로젝트 관리자들의 8가지 착각**](http://www.ciokorea.com/news/146190)
 * [좋은 PM이라면 늘 주의해야 할 4가지 의사결정 편향](https://brunch.co.kr/@ywkim36/20)
