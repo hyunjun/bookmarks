@@ -864,6 +864,7 @@ AWS
 * [AWS 람다 용량 관리 | 김정환 블로그](https://jeonghwan-kim.github.io/dev/2021/03/29/lambda-limits.html)
 * [Serverless 환경에서 수행시간이 긴 작업 처리하기](http://labs.brandi.co.kr/2021/05/31/kimms4.html)
 * [aws lambda bcrypt 오류 해결 방법 : 네이버 블로그](https://blog.naver.com/nanotoly/222428214801)
+* [Behind the scenes, AWS Lambda](https://www.bschaatsbergen.com/behind-the-scenes-lambda)
 * [moderncloud: ModernCloud is a browser-based serverless platform that lets developers build functions and endpoints in minutes](https://github.com/ModernCloud/moderncloud)
   * [ModernCloud - 브라우저 기반 서버리스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4583)
 
@@ -1151,5 +1152,6 @@ AWS
 * [HBsmith가 AWS Client VPN로 갈아탄 이유. 소프트웨어는 건물과 비슷해서 첫 배포된 이후부터 폐기될 때까지 계속… | by Jesang Yoon | Hard Boiled Smith Stories | Oct, 2020 | Medium](https://medium.com/hbsmith/hbsmith%EA%B0%80-aws-client-vpn%EB%A1%9C-%EA%B0%88%EC%95%84%ED%83%84-%EC%9D%B4%EC%9C%A0-29119ecdc381)
 * [NCP-to-AWS-IPsec-multi-Cloud - 리눅서의 기술술 블로그](https://linuxer.name/2020/11/ncp-to-aws-ipsec-multi-cloud/)
 * [AWS-managed-MQ-RabbitMQ-VPC-review - 리눅서의 기술술 블로그](https://linuxer.name/2020/11/aws-managed-mq-rabbitmq-vpc-review/)
+* [공유 VPC와 Amazon의 RabbitMQ – Lamanus' Archive](https://lamanus.kr/92)
 * [AWS VPC Reachability Analyzer - Part 1 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1108)
 * [AWS VPC Reachability Analyzer - Part 2 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1110)
