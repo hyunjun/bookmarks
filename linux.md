@@ -239,6 +239,7 @@ Linux
       * 개별 repository에 대해 proxy를 설정할 때는 /etc/yum.repos.d/some.repo의 각 항목마다 추가
   * [Which yum variable can give 6 or 7 as output](https://stackoverflow.com/questions/35978202/which-yum-variable-can-give-6-or-7-as-output/35978695#35978695)
   * [Why does yum return error: \[Errno 256\] No more mirrors to try ? - Red Hat Customer Portal](https://access.redhat.com/solutions/203603)
+  * [rpm-software-management/dnf: Package manager based on libdnf and libsolv. Replaces YUM](https://github.com/rpm-software-management/dnf)
 * /tmp
   * [프로젝트 출시 10일 후 새벽 4시에 발생한 장애의 원인](https://iamsang.com/blog/2017/05/27/server-failure-10-days-after-release/) /tmp directory 관련 내용
 
@@ -785,6 +786,8 @@ Linux
   * [tcpdump 기본 사용법](http://jojoldu.tistory.com/316)
 * `telnet`
   * [telnet과 ssh가 어떻게 패킷을 날리는지 간단하게 실습해 봅시다](https://codingdog.tistory.com/entry/telnet%EA%B3%BC-ssh%EA%B0%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%8C%A8%ED%82%B7%EC%9D%84-%EB%82%A0%EB%A6%AC%EB%8A%94%EC%A7%80-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%8B%A4%EC%8A%B5%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
+* `time`
+  * [`time(1)` and CPU frequency scaling](https://www.uninformativ.de/blog/postings/2021-07-14/0/POSTING-en.html)
 * `top`
   * [Can You Top This? 15 Practical Linux Top Command Examples](http://www.thegeekstuff.com/2010/01/15-practical-unix-linux-top-command-examples/)
   * [catching top waits – domas mituzas](https://dom.as/2020/07/06/catching-top-waits/)
@@ -794,7 +797,8 @@ Linux
   * `top -H` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
   * `top -H -p <PID>` [How to get the number of threads in a Java process](https://stackoverflow.com/questions/1922290/how-to-get-the-number-of-threads-in-a-java-process)
   * [bashtop - Awesome Linux resource monitor - nixCraft](https://www.cyberciti.biz/open-source/command-line-hacks/bashtop-awesome-linux-resource-monitor-tool/)
-  * [bpytop - Awesome Linux, macOS and FreeBSD resource monitor - nixCraft](https://www.cyberciti.biz/open-source/command-line-hacks/bpytop-awesome-linux-macos-and-freebsd-resource-monitor/)
+  * [bpytop: Linux/OSX/FreeBSD resource monitor](https://github.com/aristocratos/bpytop)
+    * [bpytop - Awesome Linux, macOS and FreeBSD resource monitor - nixCraft](https://www.cyberciti.biz/open-source/command-line-hacks/bpytop-awesome-linux-macos-and-freebsd-resource-monitor/)
   * htop
     * [2019년 11월 10일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-11-10.html)
     * [User power, not power users: htop and its design philosophy « hisham.hm](https://hisham.hm/2020/12/18/user-power-not-power-users-htop-and-its-design-philosophy/)
@@ -830,6 +834,7 @@ Linux
 * `xargs`
   * [10 Xargs Command Examples in Linux / UNIX](https://www.thegeekstuff.com/2013/12/xargs-examples/)
   * [xargs를 사용하여 이름에 공백과 따옴표가있는 파일을 복사하려면 어떻게해야합니까?](https://ko.programqa.com/question/143171/)
+  * [xargs considered harmful - by Tyler Adams - CodeFaster](https://codefaster.substack.com/p/xargs-considered-harmful)
 * [`xxd`](https://linux.die.net/man/1/xxd)
   * 0, 1에 대한 bit format 출력
     * `xxd -b (Filename) > BINARY.bin` 현재 디렉토리에 BINARY.bin 파일 생성
@@ -998,6 +1003,7 @@ Linux
 * [Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration](http://ohmyz.sh/)
 * [Pass: The Standard Unix Password Manager](https://www.passwordstore.org/)
 * [πfs - the data-free filesystem!](https://github.com/philipl/pifs)
+  * [압축률이 100%에 가까운 원주율 파일 시스템 | GeekNews](https://news.hada.io/topic?id=4624)
 * [pig - A Linux packet crafting tool](https://github.com/rafael-santiago/pig)
 * [prm - A minimal project manager for the terminal](https://github.com/eivind88/prm)
 * [**pxi (pixie) - a small, fast, and magical command-line data processor similar to jq, mlr, and awk**](https://github.com/Yord/pxi)
