@@ -82,6 +82,7 @@ Programming
   * [Part V: Signature Quadratic Form Distance](http://www.deepideas.net/building-content-based-search-engine-signature-quadratic-form-distance/)
 * [Building personal search infrastructure for your knowledge and code Overview of search tools for desktop and mobile; using Emacs and Ripgrep as desktop search engine](https://beepb00p.xyz/pkm-search.html)
 * [10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
+* [Michael Feathers - 10 Papers Every Developer Should Read](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
 * [arxiv sanity perserver](http://www.arxiv-sanity.com/top) top papers based on people's libraries
 * [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 * [**소프트웨어 설계란 무엇인가?**](https://www.mimul.com/blog/what-is-software-design/) 문서의 중요성을 설명한 92년 글 번역문. 20여년이 지났어도 유효한 좋은 글(그러니 역자도 번역했겠지)
@@ -210,6 +211,7 @@ Programming
 * [백발의 개발자가 되기 위한 커리어 패스](http://zdnet.co.kr/column_view.asp?artice_id=20141106211852)
 * [Overview - Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
   * 소프트웨어 엔지니어, QA 엔지니어, SRE, 머신러닝 엔지니어, 엔지니어링 매니저마다 각 레벨에서의 기대되는 역할과 핵심 책임 정리
+  * [드롭박스의 엔지니어링 커리어 프레임워크 | GeekNews](https://news.hada.io/topic?id=4604)
 * [CROSS-PLATFORM GUI TOOLKIT TRAINWRECK, 2016 EDITION](http://blog.johnnovak.net/2016/05/29/cross-platform-gui-trainwreck-2016-edition/)
 * [Top 8 Cross-Platform Frameworks for App Development in 2021 - Messapps](https://messapps.com/allcategories/development/best-cross-platform-app-development-frameworks/)
 * [**좋은 코딩을 위한 13 가지 간단한 규칙**](https://mingrammer.com/translation-13-simple-rules-for-good-coding)
@@ -234,8 +236,12 @@ Programming
 * [네이버 검색의 SRE 시스템](https://d2.naver.com/helloworld/2047663)
 * [SRE 팀에서 장애의 root cause를 찾고 재발방지 하는 방법 - 우아한형제들 기술 블로그](https://woowabros.github.io/sre/2020/11/11/sre-troubleshoooting.html)
 * [**school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role**](https://github.com/linkedin/school-of-sre)
+* [The Ultimate Guide to Onboarding New Developers: Industry Best Practices](https://codesubmit.io/blog/guide-to-onboarding-developers/)
+  * [개발자 온보딩 가이드 : 첫 90일을 어떻게 계획해야 할까 | GeekNews](https://news.hada.io/topic?id=4643)
 * [시스템신뢰성개발팀을 소개합니다. - 우아한형제들 기술 블로그](https://woowabros.github.io/sre/2021/02/22/introduction-to-sre.html)
 * [SRE 사례 소개](https://toss.im/slash-21/sessions/1-4)
+* [Practical Guide to SRE: Incident Severity Levels | Rootly](https://rootly.io/blog/practical-guide-to-sre-incident-severity-levels)
+* [Google - Site Reliability Engineering](https://sre.google/sre-book/accelerating-sre-on-call/)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Teach Yourself Programming in Ten Years**](http://norvig.com/21-days.html)
 * [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
@@ -413,6 +419,9 @@ Programming
 * [Why is NanoID Replacing UUID?. A Tiny, URL-Friendly Unique String… | by Charuka Herath | Jun, 2021 | Bits and Pieces](https://blog.bitsrc.io/why-is-nanoid-replacing-uuid-1b5100e62ed2)
 * [다른 개발자들은 어떤 포트폴리오 프로젝트를 만들었을까? feat. 포트폴리오 레퍼런스 찾는 법](https://velog.io/@ruizhen88/%EB%8B%A4%EB%A5%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%80-%EC%96%B4%EB%96%A4-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%97%88%EC%9D%84%EA%B9%8C)
 * [토이프로젝트 썰 나의 개발자 랭킹은?! OPGC 에서 확인해보세요! :: Jay's Code Factory](https://jay-ji.tistory.com/84)
+* [0x7FDE623822FC16E6 : a magic constant for double float reciprocal - Paul Khuong mostly on Lisp](http://pvk.ca/Blog/LowLevel/software-reciprocal.html)
+* [What Does It Take To Be a Tech Giant? | Miguel Rochefort](https://miguelrochefort.com/blog/tech-giant/)
+  * [Tech Giant가 되려면 뭐가 필요한가 ? | GeekNews](https://news.hada.io/topic?id=4600)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -544,6 +553,8 @@ Programming
 * [Rebuilding Twitter’s Public API - YouTube](https://www.youtube.com/watch?v=axFSaH_-IMw)
 * [How Netflix Scales Its API with GraphQL Federation - YouTube](https://www.youtube.com/watch?v=QrEOvHdH2Cg)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
+* [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
+  * [CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=4662)
 * dev.file.kiwi 파일 키위 [소개 - ❤️개발자](https://dev.file.kiwi/)
   * [API 공개- 무료 대용량 파일첨부/전송 | GeekNews](https://news.hada.io/topic?id=4376)
 * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
@@ -714,6 +725,9 @@ Programming
 * [When to use which Infrastructure-as-code tool](https://medium.com/cloudnativeinfra/when-to-use-which-infrastructure-as-code-tool-665af289fbde) 여러가지 IaaS tool 소개
 * [Learn about different open source based Infrastructure as Code (IAC) tools for DevOps - YouTube](https://www.youtube.com/watch?v=nUwj01ROjfs)
 * [Infra as Code with Packer, Ansible and Terraform](https://www.slideshare.net/InhoKang2/infra-as-code-with-packer-ansible-and-terraform)
+* [History of Infra as Code](https://www.infoq.com/presentations/history-infra-as-code/)
+* [Infrastructure as Code](https://www.hashicorp.com/products/terraform/infrastructure-as-code)
+* [코드형 인프라, 보안이 필요한 이유와 베스트 프랙티스 - ITWorld Korea](https://www.itworld.co.kr/news/200844) IaC
 * [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1)
 * [Scaling Infrastructure Engineering at Slack](https://www.youtube.com/watch?v=yHBwoZh1Mxg)
 * [LINE 인프라 플랫폼의 뒷이야기 – 서비스 확장성을 확보하며 운영 비용 줄이기](https://engineering.linecorp.com/ko/blog/challenges-and-solutions-of-line-infra-scaleout/)
@@ -871,6 +885,7 @@ Programming
 * [On-site search design patterns for e-commerce: schema structure, data driven ranking & more](https://project-a.github.io/on-site-search-design-patterns-for-e-commerce/)
 * [Delivering Modern Website Experiences: The Journey to a Content Mesh | Gatsby](https://www.gatsbyjs.com/blog/2018-10-04-journey-to-the-content-mesh/) CMS
 * [Essential Complexity in Systems Architecture - YouTube](https://www.youtube.com/watch?v=RNl8uD74KAw)
+* [(정성글) 백신예약 서버가 터지는 이유에 대한 상세한 해설 - DogDrip.Net 개드립](https://www.dogdrip.net/dogdrip/338552744)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
@@ -892,6 +907,7 @@ Programming
 * [Distributing Content to Open Connect](https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9) consistent hashing
 * [Distributed Computing](https://www.youtube.com/watch?v=YS-QvfCZWvc)
 * [Understanding the 8 Fallacies of Distributed Systems](https://dzone.com/articles/understanding-the-8-fallacies-of-distributed-syste) 분산 시스템의 8가지 오류에 대한 예와 각각에 대한 몇 가지 솔루션
+* [Navigating the 8 fallacies of distributed computing | Ably Blog: Data in Motion](https://ably.com/blog/8-fallacies-of-distributed-computing)
 * [Distributed System — Introduction](https://medium.com/@leeyh0216/distributed-system-introduction-c50883fcd3a0)
 * [**jack-vanlightly.com/blog/category/Distributed+Systems**](https://jack-vanlightly.com/blog/category/Distributed+Systems)
 * [Many Nodes, One Distributed System](https://medium.com/baseds/many-nodes-one-distributed-system-9921f85205c4)
@@ -905,6 +921,7 @@ Programming
 * [Distributed Systems Reading List](https://dancres.github.io/Pages/)
 * [**Patterns of Distributed Systems**](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 * [Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
+* [Summer Blog Backlog: Distributed Systems](http://www.oilshell.org/blog/2021/07/blog-backlog-2.html)
 * [etcd | Home](https://etcd.io/)
   * [A Few Notes on Etcd Maintenance. Learnings on provisioning, compaction… | by Tasdik Rahman | Gojek Product + Tech](https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe)
 
@@ -1205,7 +1222,8 @@ Programming
 * [Why Do We Need Serverless Computing? | by Bryant Jimin Son | Medium](https://bryantson.medium.com/why-do-we-need-serverless-computing-33e93c57ca02)
 * [Serverless Korea - YouTube](https://www.youtube.com/channel/UCI16eh9VClj1HSZWC4_ZMIw/videos)
 * [효율적인 서버 관리를 찾아서, 서버리스(Serverless)](https://blog.ncsoft.com/platform-center-03-20210224/)
-* [2021년 5월 - YouTube](https://www.youtube.com/playlist?list=PLIUYAlRx8QDRsMxFPtK8b9xjXSunHvBUF)
+* 서버리스 코리아 [2021년 5월 - YouTube](https://www.youtube.com/playlist?list=PLIUYAlRx8QDRsMxFPtK8b9xjXSunHvBUF)
+* [Seven guiding principles of serverless systems](https://www.advosight.com/post/seven-guiding-principles-of-serverless-systems)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
@@ -1279,6 +1297,8 @@ Programming
 
 # Cloud
 * [The Cost of Cloud Computing](https://read.acloud.guru/the-true-cost-of-cloud-a-comparison-of-two-development-teams-edc77d3dc6dc)
+* [Taking Control of Confusing Cloud Costs](https://www.infoq.com/articles/taking-control-of-cloud-costs/)
+* [Managing costs in the cloud: why you can end up paying more...](https://thestack.technology/managing-costs-in-the-cloud-percona/)
 * [How to build a SaaS with $0](https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8)
 * [The Tech Stack of a One-Man SaaS](https://panelbear.com/blog/tech-stack/)
 * [GCP vs AWS vs Azure 서비스 비교](https://docs.google.com/spreadsheets/d/1TR2_ytoHh9-InEZEjree7730GNdmrsGUDhxH1BlqK1Q)
@@ -1296,7 +1316,6 @@ Programming
 * [Oracle Cloud 방화벽 설정 (http/https 특정 포트 열기)](https://kibua20.tistory.com/124)
 * [오라클 클라우드 무료 인스턴스를 활용한 VPN 서버 구축하기 : 클리앙](https://www.clien.net/service/board/lecture/15587467?type=recommend)
 * [클라우드 우분투에 gui로 원격 연결하기](https://evols-atirev.tistory.com/27)
-* [Taking Control of Confusing Cloud Costs](https://www.infoq.com/articles/taking-control-of-cloud-costs/)
 * [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
 * [‘역설투성이'··· 우리가 클라우드를 싫어하는 11가지 이유 - CIO Korea](https://www.ciokorea.com/news/177989)
 * [스태틱 파일 버저닝 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/871)
@@ -1711,6 +1730,7 @@ Programming
 * [LINE 오픈챗 서버 원클릭 릴리스 자동화 시스템 개발기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-openchat-server-release-automation/)
 * [CI/CD 자동화가 가져다 준 행복 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/ci-cd-automation/)
 * **[**실용주의 데브옵스 for MSA – tech.kakao.com](https://tech.kakao.com/2021/07/16/devops-for-msa/) GitOps, Argo CD 도입
+* [CI/CD 파이프라인을 보호하는 6가지 모범 사례 - ITWorld Korea](https://www.itworld.co.kr/news/201624)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
 * teamcity
@@ -1972,6 +1992,7 @@ Programming
 * [cascadia-code](https://github.com/microsoft/cascadia-code)
 * [codeface](https://github.com/chrissimpkins/codeface)
 * [Comic Mono | comic-mono-font](https://dtinth.github.io/comic-mono-font/)
+* [creep: a pretty sweet 4px wide pixel font](https://github.com/romeovs/creep)
 * [D2 Coding 글꼴](https://github.com/naver/d2codingfont/releases)
 * [Fira Code: monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 * [font compare](http://s9w.github.io/font_compare/)
@@ -2127,6 +2148,8 @@ Programming
     * [Using Dead-letter Exchange config](https://blog.leocat.kr/notes/2018/07/31/rabbitmq-delayed-queue)
   * [Management Command Line Tool](https://www.rabbitmq.com/management-cli.html) rabbitmqadmin
   * [Idiomatic RabbitMQ • Gavin M. Roy • RabbitMQ Summit - YouTube](https://www.youtube.com/watch?v=fNbdgWe5Tbs)
+  * [RabbitMQ Streams Overview | RabbitMQ - Blog](https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-overview/)
+    * [RabbitMQ Streams | GeekNews](https://news.hada.io/topic?id=4613)
   * [mio-java.tistory.com/category/개발/rabbitMq](https://mio-java.tistory.com/category/%EA%B0%9C%EB%B0%9C/rabbitMq)
 * [rq - Simple job queues for Python https://python-rq.org ](https://github.com/rq/rq)
 * [S-MQTTT, or: secure-MQTT-over-Traefik · Jurian Sluiman](https://jurian.slui.mn/posts/smqttt-or-secure-mqtt-over-traefik/)
@@ -2367,6 +2390,7 @@ Programming
   * [6월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/06/b-6.html)
   * [6월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/06/b-6-4.html)
   * [7월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/07/b-7-1.html)
+  * [7월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/07/b-7-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -2633,6 +2657,7 @@ Programming
 * [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
 * [2020.09 둘째 주 End-And 한 주간의 주요 내용 정리 : #배경제거툴 #GPT-3 #뉴스큐레이션 | 지금 써보러 갑니다](http://icunow.co.kr/end-and2/)
 * [이바닥번역글 – 이바닥늬우스](https://ebadak.news/category/%ec%9d%b4%eb%b0%94%eb%8b%a5%eb%b2%88%ec%97%ad%ea%b8%80/)
+* [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
 * [Building On-Call Culture at GitHub - The GitHub Blog](https://github.blog/2021-01-06-building-on-call-culture-at-github/)
@@ -2785,7 +2810,8 @@ Programming
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
 * [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/)
 * [화이트해커 웹 해킹 기술 - YouTube](https://www.youtube.com/playlist?list=PLK3IOiy3HLQb6jA9bA5-nJqFxJ96aytCz)
-* [NSA가 만든 무료 리버스 엔지니어링 툴, "기드라" 사용 방법](http://www.itworld.co.kr/news/122618)
+* [Ghidra](https://ghidra-sre.org/) A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
+  * [NSA가 만든 무료 리버스 엔지니어링 툴, "기드라" 사용 방법](http://www.itworld.co.kr/news/122618)
 * [h4cker - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more](https://github.com/The-Art-of-Hacking/h4cker)
 * [ImHex: A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM](https://github.com/WerWolv/ImHex)
 * [Rainbow Tables | The Linux Rain](https://www.thelinuxrain.com/articles/rainbow-tables) hashed value to password
@@ -3076,6 +3102,7 @@ Programming
 * [WhaTip 시스템 장애 해결 유형 3가지! - YouTube](https://www.youtube.com/watch?v=kaOLDqPF3t0)
 * [WhaTip 모르면 후회하는 시스템 장애 문제 정의 - YouTube](https://www.youtube.com/watch?v=yc-x2jtg-60)
 * [**Uber - 엣지+멀티 클라우드 장애 핸들링 이야기 (Part I)**](https://blog.imqa.io/uber-failover-handling/)
+* [The stack overflow of death. How we lost DNS and what we're doing to prevent this in the future. - bunny.net Blog](https://bunny.net/blog/the-stack-overflow-of-death-dns-collapse/)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
@@ -3096,10 +3123,12 @@ Programming
   * [#3](http://www.bsidesoft.com/?p=3526)
 * [**야생의 유니코드**](http://klutzy.nanabi.org/blog/2014/06/20/unicode/)
 * [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
+* [한글과 유니코드](https://gist.github.com/Pusnow/aa865fa21f9557fa58d691a8b79f8a6d)
 * [Unicode In Five Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
 * [Windows: 176. Raymond Chen이 한글날에 밝히는 윈도우의 한글 자모 분리 현상](https://www.sysnet.pe.kr/2/0/12369)
 * [Ridiculously fast unicode (UTF-8) validation – Daniel Lemire's blog](https://lemire.me/blog/2020/10/20/ridiculously-fast-unicode-utf-8-validation/)
 * [Unicode sorting is hard & why browsers added special emoji matching to regexp](https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching)
+* [convert between NFC and NFD Unicode normalization (e.g. for Korean)](https://gist.github.com/kjoonlee/326b8f42e39bcc045e9932fef5511031) convmv
 
 # Virtual Machine
 * [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)
