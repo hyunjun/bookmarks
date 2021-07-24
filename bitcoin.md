@@ -55,6 +55,7 @@ Bitcoin
 * [• Bitcoin vs. VISA energy consumption 2021 | Statista](https://www.statista.com/statistics/881541/bitcoin-energy-consumption-transaction-comparison-visa/)
 * [블록체인 저장을 뭐..? 비트코인 외계어 쉽게 이해하기](https://brunch.co.kr/@businessinsight/72)
 * [(보고서) 암호자산 성장은 국채와 통화정책에까지 영향을 미칠까? | GeekNews](https://news.hada.io/topic?id=4187)
+* [On anyone-can-spend Pay-to-Taproot outputs before activation](https://b10c.me/blog/007-spending-p2tr-pre-activation/)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
@@ -128,6 +129,7 @@ Bitcoin
 * [chia-blockchain Wiki](https://github.com/Chia-Network/chia-blockchain/wiki)
 * [The Limits to Blockchain Scalability](https://vitalik.ca/general/2021/05/23/scaling.html)
 * [블록체인을 어디에 쓸까? 왜 중요하다고 하는걸까?](https://velog.io/@couchcoding/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%B4-%EC%99%9C-%ED%95%B5%EC%8B%AC%EC%9D%BC%EA%B9%8C-%EC%96%B4%EB%94%94%EC%97%90-%EC%93%B8-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C)
+* [문과생 개발자가 떠먹여주는 블록체인) E01-1 간단한 컨트렉트 짜보기 - YouTube](https://www.youtube.com/watch?v=piz1Qsmo4_Q)
 
 ## Blockchain Javascript
 * [Learn Blockchains by Building One](https://github.com/pjt3591oo/blockchain-javascript)
