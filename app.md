@@ -57,7 +57,6 @@ App
 * [5 open source tools I can't live without | Opensource.com](https://opensource.com/article/20/10/open-source-tools) tmate, ix, asciinema, GNOME Pomodoro, Jitsi
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
-* [Anki - Powerful, intelligent flash cards. Remembering things just became much easier](https://apps.ankiweb.net/)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [Archivy - self-hosted knowledge repository](https://archivy.github.io/)
   * 북마킹한 웹페이지 내용을 로컬에 자동 저장
@@ -384,6 +383,7 @@ App
 * [**Chrome에서 네트워크 테스트를 할 때의 Tip**](https://developer88.tistory.com/320)
 * [웹 스토리지 : 무엇을 써야할까요?](https://han41858.tistory.com/54)
 * [크롬 확장 플러그인 톺아보기 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/01/08/chrome-devtools-in-depth.html)
+* ['업무 줄이고 퇴근 당기는' 크롬 브라우저 활용 팁 8가지 - ITWorld Korea](https://www.itworld.co.kr/news/201124)
 * [Async Cookie Store API 살펴보기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20201027/)
 * thisisunsafe [How to get through Chrome security error pages - Miguel Piedrafita](https://miguelpiedrafita.com/chrome-thisisunsafe)
 * [리스틀리 - 세상에서 가장 빠른 웹 데이터 추출](https://www.listly.io/ko) crawler
@@ -406,6 +406,8 @@ App
 * [“우리도 있다” 업무용 오픈소스 화상회의 툴 10선 - ITWorld Korea](https://www.itworld.co.kr/news/173069)
 * [Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://excalidraw.com/)
   * [Excalidraw - 오픈소스 가상 칠판 협업도구 | GeekNews](https://news.hada.io/topic?id=4234)
+* [LiveKit - Open source infrastructure for real time audio and video.](https://livekit.io/)
+  * [LiveKit - 실시간 커뮤니케이션 플랫폼 오픈소스 | GeekNews](https://news.hada.io/topic?id=4642)
 * [makepagecall.com/](https://www.makepagecall.com/) 화상 통화 + canvas(칠판)
 * [Nettu Meet - 온라인 강의를 위한 오픈소스 화상 회의 시스템 | GeekNews](https://news.hada.io/topic?id=4437)
 * [Strive](https://www.openstrive.org/)
@@ -607,6 +609,7 @@ App
     * [⚙️VSCode 자동 저장 기능 #삽질줄이기 - YouTube](https://www.youtube.com/watch?v=GdebOaCQEcI)
     * [Deep dive into Visual Studio Code extension security vulnerabilities | Snyk](https://snyk.io/blog/visual-studio-code-extension-security-vulnerabilities-deep-dive/)
     * [Vulnerable Visual Studio Code extensions impact over 2M Developers | Snyk](https://snyk.io/blog/vulnerable-visual-studio-code-extensions-marketplace/)
+    * [How To Set Up VS Code for PHP Development with PHP Intelephense | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-visual-studio-code-for-php-projects)
     * [codetour: VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor](https://github.com/microsoft/codetour)
     * Debug
       * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
@@ -671,6 +674,7 @@ App
       * [Has VS Code Become the Best IDE for Python? | Young Coder | Matthew MacDonald | Young Coder](https://medium.com/young-coder/has-vs-code-become-the-best-ide-for-python-bf0f92d2aef4)
       * [VSCode on Google Colab](https://amitness.com/vscode-on-colab/)
       * [VSCode's Python Interactive mode is AMAZING! - YouTube](https://www.youtube.com/watch?v=lwN4-W1WR84)
+      * [Python in Visual Studio Code – July 2021 Release | Python](https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2021-release/)
     * remote
       * [마이크로소프트 비주얼 스튜디오 코드, 원격 개발 기능 지원](https://www.44bits.io/ko/post/news--vs-code-now-supports-remote-development)
       * [Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
@@ -720,8 +724,6 @@ App
   * [Typora 글꼴 변경하기](http://bundokim.tistory.com/43)
 
 # Etc
-* [Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams](http://aprt.us/)
-  * ["Apparatus: A Hybrid Graphics Editor / Programming Environment" by Toby Schachman](https://www.youtube.com/watch?v=i3Xack9ufYk)
 * [bloxp - Export any blog and turn it into a downloadable ebook. Save your favorite blog as a unique, readable file!](http://www.bloxp.com/)
 * latex
   * [Free & Interactive Online Introduction to LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1)
@@ -916,6 +918,7 @@ App
 * [diskmaker x - OS X 요세미티 설치 디스크를 클릭만으로 뚝딱 만들 수 있는 'DiskMaker X'](http://macnews.tistory.com/2548)
 * [edgeview](edgeview.co.kr/)
 * [eDEX-UI - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support](https://github.com/GitSquared/edex-ui)
+* [FanFan](https://fanfan.rambo.codes/) soothing sound of computer fans
 * [Fig](https://fig.io/) Fig adds VSCode-style autocomplete to your existing terminal
 * [finicky: A macOS app for customizing which browser to start](https://github.com/johnste/finicky)
 * [flashlight - the missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
@@ -1166,6 +1169,8 @@ App
 # Mindmap, Diagram
 * [machow2.com/best-free-alternatives-visio-mac](https://machow2.com/best-free-alternatives-visio-mac/)
 * [Free Flowchart Creator and Workflow Diagram Apps – A Guide for Managers](https://www.freecodecamp.org/news/flow-chart-creator-and-workflow-diagram-apps/)
+* [Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams](http://aprt.us/)
+  * ["Apparatus: A Hybrid Graphics Editor / Programming Environment" by Toby Schachman](https://www.youtube.com/watch?v=i3Xack9ufYk)
 * [asciiflow.com](http://asciiflow.com/)
 * [atlas.mindmup.com](https://atlas.mindmup.com)
 * [AWS 아키텍처 아이콘 아키텍처 다이어그램 구축을 위해 설정된 공식 AWS 아이콘](https://aws.amazon.com/ko/architecture/icons/)
@@ -1237,6 +1242,8 @@ App
 * audacity [오픈소스 오디오 편집툴 : Audacity](https://jybaek.tistory.com/801)
 * [Apache OpenMeetings Project – Home](https://openmeetings.apache.org/) video conferencing, instant messaging, white board, collaborative document editing and other groupware tools
 * AVPlayer [How to set up video streaming in your app with AVPlayer](https://medium.freecodecamp.org/how-to-set-up-video-streaming-in-your-app-with-avplayer-7dc21bb82f3)
+* [AVPress - an in-browser video compressor](https://avpress.zaps.dev/)
+  * [AVPress - 인-브라우저 비디오 압축 도구 | GeekNews](https://news.hada.io/topic?id=4670)
 * [awesomevideoplayer.com](http://www.awesomevideoplayer.com/) multi screen 동시 조작 가능
 * [boltstream: Boltstream Live Video Streaming Website + Backend](https://github.com/benwilber/boltstream)
 * Canva [이미지 편집 서비스 캔바(Canva)](https://www.44bits.io/ko/post/preparing-wtd-meetup-without-a-designer-nor-photoshop#%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%BA%94%EB%B0%94canva)
@@ -1333,10 +1340,16 @@ App
 * [Standard Notes | A Simple And Private Notes App](https://standardnotes.org/)
 * [transpose - Structured Notes to Manage Your Business and Life](https://transpose.com/)
 * [Wiki.js](https://wiki.js.org/)
+* [WriteFreely](https://writefreely.org/)
 * [Yorkie](https://yorkie.dev/)
   * [Yorkie Team](https://github.com/yorkie-team)
 
-## Markdown
+## Note Flashcard
+* [Anki - Powerful, intelligent flash cards. Remembering things just became much easier](https://apps.ankiweb.net/)
+* [Zorbi | Spaced Repetition Flashcards | Zorbi | Spaced Repetition Flashcards](https://zorbi.cards/)
+  * [Zorbi - 무료 플래시 카드 | GeekNews](https://news.hada.io/topic?id=4631)
+
+## Note Markdown
 * [존 그루버 마크다운 페이지 번역](http://nolboo.github.io/blog/2013/09/07/john-gruber-markdown/)
 * [놀부의 마크다운 사용법 - 무료 툴을 중심으로 한 워크플로우](http://nolboo.github.io/blog/2014/04/15/how-to-use-markdown/)
 * [마크다운 에디터 고르기](http://astrod.github.io/2015/10/25/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EC%97%90%EB%94%94%ED%84%B0-%EA%B3%A0%EB%A5%B4%EA%B8%B0.html)
@@ -1473,6 +1486,7 @@ App
 * [원격 데스크톱 연결 시 모니터 여러 대 사용하기](https://bloodguy.tistory.com/1069)
 * [How to Change the Priority of Wireless Networks in Windows 8 or 10](https://www.howtogeek.com/131640/how-to-change-the-priority-of-wireless-networks-in-windows-8/)
 * ["더 빠르고 편리해" 아직도 유효한 윈도우 명령 프롬프트 6가지 - ITWorld Korea](https://www.itworld.co.kr/news/195299) echo powercfg ipconfig tracert sfc chkdsk
+* [내 PC 하드웨어 사양과 제품 정보, 윈도우 10 기본 도구로 알아보기 - ITWorld Korea](https://www.itworld.co.kr/news/200559) HWiNFO Spaccy
 * 복구
   * [recuva](https://www.piriform.com/recuva)
   * [testdisk 7.0](http://www.cgsecurity.org/wiki/TestDisk_Download)
