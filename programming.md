@@ -142,7 +142,6 @@ Programming
 * [Podflix - It's Kinda Like Netflix for Podcasts!](https://podflix.app/)
 * [codingradio.xyz](https://codingradio.xyz/)
 * [stdout.fm - 소프트웨어 개발, 테크 뉴스, 전자제품에 대해 잡담하는 팟캐스트. #stdoutfm](https://stdout.fm/)
-* [Essential facts about floating point calculations](http://mortoray.com/2015/07/06/essential-facts-about-floating-point-calculations/)
 * [New paper: Theory of Programs](https://bertrandmeyer.com/2015/07/06/new-paper-theory-of-programs/)
 * [relation between type theory and category theory](http://ncatlab.org/nlab/show/relation+between+type+theory+and+category+theory)
 * [References for "The Future of Programming"](http://worrydream.com/dbx/)
@@ -251,9 +250,11 @@ Programming
 * [번역 OpenSSH의 기본 키 암호화는 평문보다 못합니다](https://tech.ssut.me/2018/08/07/the-default-openssh-key-encryption-is-worse-than-plaintext/)
 * [Seriously, stop using RSA](https://blog.trailofbits.com/2019/07/08/fuck-rsa/) RSA는 취약하니 사용하지 말고 다른 대체 알고리즘 기반 library를 사용하라는 글
 * [**Project Guidelines**](https://github.com/HyunSeob/project-guidelines/blob/master/README-ko.md)
+* [Essential facts about floating point calculations](http://mortoray.com/2015/07/06/essential-facts-about-floating-point-calculations/)
 * [**100 * 0.7 = ? 남들과는 조금 다른 부동소수점 이야기**](https://libsora.so/posts/amazing-floating-point-100x07/)
 * [Floating Point Math](https://0.30000000000000004.com/)
 * [GNU GCC on x86 does not round floating-point divisions to the nearest value – Daniel Lemire's blog](https://lemire.me/blog/2020/06/26/gcc-not-nearest/)
+* [입 개발 bits로 시간을 얼마나 표현할 수 있을까? | Charsyam's Blog](https://charsyam.wordpress.com/2021/07/24/%EC%9E%85-%EA%B0%9C%EB%B0%9C-bits%EB%A1%9C-%EC%8B%9C%EA%B0%84%EC%9D%84-%EC%96%BC%EB%A7%88%EB%82%98-%ED%91%9C%ED%98%84%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C/)
 * [매개변수(parameter)와 전달인자(parameter)](https://wayhome25.github.io/etc/2017/12/31/parameter-argument/)
 * [프로그래밍에서 인지 편향](http://www.mimul.com/pebble/default/2018/01/05/1515145860439.html)
 * [RLP encoding](http://blog.seulgi.kim/2018/01/rlp-encoding.html)
@@ -507,6 +508,7 @@ Programming
 * [Agile, 애자일관련 소프트웨어의 열두가지 개발원칙에 대해서 알아보자](https://devocean.sk.com/blog/techBoardDetail.do?ID=159948)
 * [뉴 노멀 시대의 인셉션 워크숍 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/inception-workshop-in-the-new-normal/) agile inception project inception
 * [OpenWork, 카카오의 일하는 방식 – tech.kakao.com](https://tech.kakao.com/2021/07/02/openwork-agile/)
+* [DEVIEW 2020 :: 주먹구구 게 섯거라 K-Agile이 나가신다 (우리에게 딱 맞춘 애자일로 함께 팀을 개선한 이야기)](https://deview.kr/2020/sessions/383)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
