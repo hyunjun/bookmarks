@@ -518,6 +518,7 @@ Python
 * [파이썬 코드의 아주 사소하고 미묘한 성능 개선.. : 네이버블로그](https://blog.naver.com/vwjdalsgkv/222334032772)
 * [알아두면 쓸데없는 파이썬 내장 커맨드라인 스크립트 - Morgenrøde](https://ryanking13.github.io/2021/06/10/python-commandline-scripts.html) 다양한 `python -m ...` commands
   * [알아두면 쓸데없는 파이썬 내장 커맨드라인 스크립트 | GeekNews](https://news.hada.io/topic?id=4431)
+* [The difference between a=a+b and a+=b in Python | by Chetan Ambi | Jul, 2021 | Towards AI](https://pub.towardsai.net/the-difference-between-a-a-b-and-a-b-in-python-a7338d96e408)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
