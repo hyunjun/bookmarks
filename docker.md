@@ -682,6 +682,7 @@ Docker
 * [Docker/Container Tutorial: Write your first Dockerfile - YouTube](https://www.youtube.com/watch?v=V7eSfIxSEEE)
 * [Creating the Perfect Python Dockerfile | by Luis Sena | May, 2021 | Medium](https://luis-sena.medium.com/creating-the-perfect-python-dockerfile-51bdec41f1c8)
 * [Docker For .NET Developers - .NET Guide](https://www.jetbrains.com/dotnet/guide/tutorials/docker-dotnet/)
+* [Dockerfile 이미지 만들기, 쉘 스크립트 사용시 주의사항](https://blog.naver.com/pjt3591oo/222444809844)
 
 # gvisor
 * [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
