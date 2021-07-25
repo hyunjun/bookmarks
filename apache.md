@@ -268,6 +268,7 @@ Apache
 * [Flink Concept - Flink의 Kafka Consumer 동작 방식(1) | leeyh0216's devlog](https://leeyh0216.github.io/posts/flink_kafka_consumer_works_1/)
 * [글로벌 기업이 더 주목하는 스트림 프로세싱 프레임워크 - 플링크(Flink) 이해하기 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=31721490&memberNo=36733075&navigationType=push)
 * [flink_feature_radar.svg at feature_radar · StephanEwen/flink-web](https://github.com/StephanEwen/flink-web/blob/feature_radar/img/flink_feature_radar.svg) flink에서 제거/추가될 기능들
+* [Flink Job Listener: Run a task After Flink Job is Completed | CodersTea](https://www.coderstea.com/post/big-data/flink-job-listener-run-a-task-after-flink-job-is-completed/)
 * HRFS [On-demand low-latency feature generation at Hyperconnect - YouTube](https://www.youtube.com/watch?v=jujAAaMQdF4)
 
 # Flume
