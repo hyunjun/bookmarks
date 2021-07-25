@@ -259,6 +259,7 @@ AWS
 * [aws-well-architected-labs: Hands on labs and code to help you learn, measure, and build using architectural best practices](https://github.com/awslabs/aws-well-architected-labs)
 * [file system clustering as glusterfs in kubernetes environment on aws platform](https://github.com/graykode/kubernetes-glusterfs-aws)
 * [AWS 딥 러닝 컨테이너 서비스 출시 – 기계 학습 모델 학습용 최적화 이미지 제공](https://aws.amazon.com/ko/blogs/korea/new-aws-deep-learning-containers/)
+* [AWS에서 시작하는 Container 생활 – 강인호:: AWS Builders Online Series - YouTube](https://www.youtube.com/watch?v=wgJYt_VF6yA)
 * [AWS ELK로 RDS Slowquery 모니터링](https://hyunki1019.tistory.com/151)
 * [aws.amazon.com/ko/architecture](https://aws.amazon.com/ko/architecture/)
 * [AWS - Architecture study: WEB APPLICATION HOSTING](https://github.com/AUSG/aws-architecture-study/blob/master/MyungJin/README.md)
@@ -448,6 +449,7 @@ AWS
 * [AWS Amplify Console을 이용하여 프론트엔드 개발 환경 개선하기](http://blog.hwahae.co.kr/%EC%A0%84%EC%B2%B4%EB%B3%B4%EA%B8%B0/tech/tech-tech/3848/)
 * [Modular imports with AWS Amplify. The latest release of AWS Amplify now… | by Nader Dabit | Medium](https://medium.com/@dabit3/modular-imports-with-aws-amplify-daeb387b6985)
 * [Amplify Console에 monorepo를 연결해서 웹호스팅 할 때의 주의사항 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/5637/)
+* [클라우드 네이티브 기반 사진 공유 애플리케이션 만들어 보기 – 김필중:: AWS Builders Online Series - YouTube](https://www.youtube.com/watch?v=piQI4Hs2jmk)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -865,6 +867,7 @@ AWS
 * [Serverless 환경에서 수행시간이 긴 작업 처리하기](http://labs.brandi.co.kr/2021/05/31/kimms4.html)
 * [aws lambda bcrypt 오류 해결 방법 : 네이버 블로그](https://blog.naver.com/nanotoly/222428214801)
 * [Behind the scenes, AWS Lambda](https://www.bschaatsbergen.com/behind-the-scenes-lambda)
+* [AWS Lambda 컨테이너 이미지 서비스 활용하기 – 김태수:: AWS Builders Online Series - YouTube](https://www.youtube.com/watch?v=tTg9Lp7Sqok)
 * [moderncloud: ModernCloud is a browser-based serverless platform that lets developers build functions and endpoints in minutes](https://github.com/ModernCloud/moderncloud)
   * [ModernCloud - 브라우저 기반 서버리스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4583)
 
