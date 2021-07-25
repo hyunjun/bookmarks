@@ -587,6 +587,7 @@ SQL
 * [🛢CSV 파일 MySQL DB에 추가하기 - YouTube](https://www.youtube.com/watch?v=XLoit2-DPaI)
 * [MySQL and UUIDs | Die wunderbare Welt von Isotopp](https://blog.koehntopp.info/2021/04/06/mysql-and-uuids.html)
 * [MySQL에서 리셋되는 시퀀스 만들어보기 | gywndi's database](https://gywn.net/2021/06/resetable-sequence-for-mysql/)
+* [데이터베이스에서 위도경도 관리 - MySQL Spatial SQL](https://blog.naver.com/ndskr/222444680248)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
