@@ -183,6 +183,7 @@ Algorithm
 * [악마와 동전 게임](https://nbviewer.jupyter.org/github/cynthia/pytudes/blob/gh-pages/ipynb/Coin%20Flip.ipynb)
 * [알고리즘의 개념과 알고리즘의 효율적 설계](https://www.youtube.com/watch?v=tgHwP0srUIk)
 * [Python 100제](https://www.notion.so/6ee1860ce29a41bc8eb6b9cfa7d7f06c)
+* [Python 코딩테스트 꿀팁 저장소 · yunsikus](https://yunsikus.github.io/algorithm/2021/03/06/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C%EC%BD%94%ED%85%8C%EC%A0%95%EB%B3%B5/)
 * [Optimal Stopping - 최고의 선택 문제](https://nbviewer.jupyter.org/gist/FinanceData/e5300d99301ffbee54d741d0e62ac361)
 * [수학과 함께 복잡한 문제를 단순하게 만들자!](https://evan-moon.github.io/2019/10/30/make-simple-with-math/)
 * [평방 분할 (Sqrt Decompositon) : 루트로 쪼개보자](https://codingdog.tistory.com/entry/%ED%8F%89%EB%B0%A9-%EB%B6%84%ED%95%A0-Sqrt-Decompositon-%EB%A3%A8%ED%8A%B8%EB%A1%9C-%EC%AA%BC%EA%B0%9C%EB%B3%B4%EC%9E%90)
@@ -647,6 +648,7 @@ Algorithm
 * [String Interview Questions: The Ultimate Guide](https://www.byte-by-byte.com/strings/)
 * [Beating Textbook Algorithms in String Search](https://medium.com/wix-engineering/beating-textbook-algorithms-in-string-search-5d24b2f1bbd0)
 * [Code optimization, how to optimize the code, code performance, how to increase code performance, how to make code more readable. | JavaScript In Plain English](https://medium.com/javascript-in-plain-english/optimize-your-code-and-itll-execute-up-to-55-faster-%EF%B8%8F-3f0c1929ab07) palindrome
+* [문자열 padding 처리로 가희와 파일탐색기 문제를 풀어봅시다](https://codingdog.tistory.com/554)
 * [Aho Corasick](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
   * [Aho-Corasick Algorithm(아호 코라식 알고리즘)](https://www.slideshare.net/ssuser81b91b/ahocorasick-algorithm)
   * [Aho-Corasick string matching algorithm](http://hwamir.tistory.com/)
