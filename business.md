@@ -248,6 +248,7 @@ Business
 * [우리는 직장에 대해 말할 수 있는가?](https://brunch.co.kr/@hyungsukkim/17)
 * [공정한 평가라는 환상](https://brunch.co.kr/@hyungsukkim/18)
 * [홍석환의 인사 잘하는 남자 이팀장의 잘못된 목표관리](https://www.hankyung.com/thepen/article/105908) 객관적인 지표를 통한 평가 등
+* [성과 리뷰 미팅이 Show로 끝나는 이유 - 경영전문블로그 Innovator](http://www.innovator.or.kr/2021/07/show.html)
 * [직장생활에서 피해야 할 사람들](https://brunch.co.kr/@hyungsukkim/36)
 * [나를 지키기 위한 10가지 원칙](https://brunch.co.kr/@hyungsukkim/61)
 * [질문할 때, 생각할 때, 실행할 때](https://brunch.co.kr/@hyungsukkim/89) 당연한 이야기지만 그냥 지나치기 쉬운 부분
@@ -577,6 +578,8 @@ Business
 * [리더의 무례함은 대가를 치른다 | 리더십 | DBR](https://dbr.donga.com/article/view/1306/article_no/10071/ac/a_list)
 * [홍석환의 인사 잘하는 남자 직원을 성장시키는 3가지 방법 | 한경닷컴](https://www.hankyung.com/thepen/lifeist/article/202106110895Q)
 * [리더는 어떤 사람이해야 하는 걸까](https://brunch.co.kr/@jidesign/72)
+* [애플이 생각하는 재량적 리더십](https://brunch.co.kr/@jcmarkpark/161)
+  * 담당업무 박스 owning box 교육업무 박스 teaching box 학습업무 박스 learning box 위임업무 박스 delegating box 로 업무 분류 및 분량 조절
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -587,6 +590,7 @@ Business
 * [PURSUIT: Framework for your next great product idea](https://uxdesign.cc/pursuit-a-product-framework-for-product-y-folks-9575244fe9d2)
 * [First principle thinking: 제 1원칙 기반의 사고방식](https://www.andrewahn.co/product/first-principle-thinking/)
 * [PM/PO가 되어서는 안되는 사람](https://brunch.co.kr/@hyungsukkim/121)
+* [시작은 어디서부터 인가?](https://brunch.co.kr/@tilltue/68) 여러가지 책 list 참고할만함
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
