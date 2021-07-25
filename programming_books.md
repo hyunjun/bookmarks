@@ -131,7 +131,9 @@ Programming Books
   * [리뷰: 함께 자라기 - 애자일로 가는 길](https://blog.gaerae.com/2019/03/book-agile.html)
 * (NOT YET) [소프트웨어 장인: 아마추어에서 프로페셔널로](https://wormwlrm.github.io/2019/04/04/Software-Craftsmanship.html)
   * [나는 어떤 마음으로 소프트웨어를 만들어야 하는가](https://evan-moon.github.io/2019/09/05/about-software-craftsmanship/)
-* (NOT YET) [카이젠 저니: 나와 팀이 함께 자라는 애자일 여행](https://jpub.tistory.com/959)
+* [**카이젠 저니: 나와 팀이 함께 자라는 애자일 여행**](https://jpub.tistory.com/959)
+  * 소설같은 형식으로 매우 쉽게 읽을 수 있지만 내용이 충실
+  * [성장과 개선은 내가 만들고 함께 하는 것이다](https://brunch.co.kr/@khorikim/514)
 * (NOT YET) [네이키드 애자일](https://imch.dev/posts/naked-agile)
 * (NOT YET) [《클린 애자일: 새로운 세대를 위한 애자일 가치와 실천》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/12/03/%e3%80%8a%ed%81%b4%eb%a6%b0-%ec%95%a0%ec%9e%90%ec%9d%bc-%ec%83%88%eb%a1%9c%ec%9a%b4-%ec%84%b8%eb%8c%80%eb%a5%bc-%ec%9c%84%ed%95%9c-%ec%95%a0%ec%9e%90%ec%9d%bc-%ea%b0%80%ec%b9%98%ec%99%80-%ec%8b%a4/)
 
