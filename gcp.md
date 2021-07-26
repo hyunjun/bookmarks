@@ -116,6 +116,10 @@ Google Cloud Platform GCP
   * [버텍스 AI로 무장한 새로운 구글 머신러닝 클라우드](https://brunch.co.kr/@synabreu/140)
   * [I/O Extended with doubleS - Vertex AI (박찬성) - YouTube](https://www.youtube.com/watch?v=JNkMvoAi3fk)
   * [구글 머신러닝 클라우드, ‘버텍스 AI’로 무장하다 | 슬로우뉴스](https://slownews.kr/81261)
+  * [Google I/O 2021 Extended Bacolod (Vertex AI) - Google Slides](https://docs.google.com/presentation/d/14WBBu65QuoLW_0wLJ0ymuzLUfAD9dwd7bb8kf1-5ztc/)
+    * [I/O Extended Bacolod 2021 - YouTube](https://www.youtube.com/watch?v=CymqhbZga-o&t=3674s)
+    * 신생아 시절의 사진을 라벨링, AutoML로 얼굴의 위치를 Object Detection 하는 파이프라인 구축, 파이프라인을 통해 학습 완료시, 자동으로 GCP 에 배포
+    * MLOps 영역; 파이프라인에 AutoML 통합, 새로 학습된 모델로 무중단 배포, 추가 학습용 데이터를 주입하면 전체 파이프라인 자동 실행
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
