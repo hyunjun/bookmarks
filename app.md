@@ -675,6 +675,10 @@ App
       * [VSCode on Google Colab](https://amitness.com/vscode-on-colab/)
       * [VSCode's Python Interactive mode is AMAZING! - YouTube](https://www.youtube.com/watch?v=lwN4-W1WR84)
       * [Python in Visual Studio Code – July 2021 Release | Python](https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2021-release/)
+      * [김명신: Python 개발을 위한 최상의 무료 개발 도구 Visual Studio와 Visual Studio Code - PyCon Korea 2015](https://www.youtube.com/watch?v=QzfalQn1lc0)
+      * [Dan Taylor - Get Productive with Python in Visual Studio Code](https://www.youtube.com/watch?v=6YLMWU-5H9o)
+      * [Python in Visual Studio Code – October 2018 Release](https://blogs.msdn.microsoft.com/pythonengineering/2018/11/08/python-in-visual-studio-code-october-2018-release) jupyter support
+      * [Python in Visual Studio Code – October 2019 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-october-2019-release)
     * remote
       * [마이크로소프트 비주얼 스튜디오 코드, 원격 개발 기능 지원](https://www.44bits.io/ko/post/news--vs-code-now-supports-remote-development)
       * [Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
