@@ -891,6 +891,7 @@ Web
   * [nGrinder를 이용한 api 성능테스트 후기 | Recoding Life](https://jane096.github.io/project/ngrinder-performance-test/)
   * [nGrinder 성능테스트 결과를 통한 로그인 성능개선 과정을 알아보자 | Recoding Life](https://jane096.github.io/project/ngrinder-login-refactoring/)
   * [스케일링 가능한 Ngrinder 환경 구축하기 (feat. AWS Beanstalk)](https://jojoldu.tistory.com/581)
+  * [nGrinder에 적용한 HttpCore 5와 HttpCore 5 살펴보기](https://d2.naver.com/helloworld/0881672)
 * [Siege - an http load testing and benchmarking utility](https://www.joedog.org/siege-home/)
 * [vegeta - HTTP load testing tool and library. It's over 9000!](https://github.com/tsenart/vegeta)
 
