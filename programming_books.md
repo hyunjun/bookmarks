@@ -1147,6 +1147,8 @@ Programming Books
 * (NOT YET) [배워서 바로 쓰는 스프링 부트2](https://jybaek.tistory.com/872)
 * (NOT YET) [예제로 배우는 스프링 부트 입문](https://bjpublic.tistory.com/384)
 * (NOT YET) [스프링 부트 실전 활용 마스터 책 소개](https://jhrogue.blogspot.com/2021/05/blog-post_27.html)
+* (NOT YET) [스프링 배치 완벽 가이드 2/e | 에이콘출판사](http://www.acornpub.co.kr/book/definitive-spring-batch)
+  * [스프링 배치 완벽 가이드 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=65765957)
 * (NOT YET) [그레이들 - 문법과 구조에서 활용까지 빌드의 모든 것](https://freelec.co.kr/book/%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%A4%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/)
 * (NOT YET) [엔터프라이즈 자바 마이크로서비스](https://jybaek.tistory.com/832)
 * (NOT YET) [자바 트러블슈팅](https://jpub.tistory.com/989)
