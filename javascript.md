@@ -60,6 +60,7 @@ Javascript
 * [**30 Day Vanilla JS Coding Challenge**](https://javascript30.com/)
 * [#CodeTidbits30](https://medium.com/dailyjs/codetidbits30-9a782b17fa89)
 * [번역 바닐라 자바스크립트로 상태 관리 시스템 구축](http://devtimothy.tistory.com/86)
+* [Vanilla Javascript로 상태관리 시스템 만들기 | 개발자 황준일](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Store/)
 * 초보자를 위한 바닐라 자바스크립트
   * [#0-1 Requirements : JS for Beginners](https://www.youtube.com/watch?v=wUHncG3VwPw)
   * [#0-2 What are we building : JS for Beginners](https://www.youtube.com/watch?v=ygVeQEgxm4o)
