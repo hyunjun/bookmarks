@@ -99,6 +99,7 @@ iOS
 * [iOS 14.5 - 좌충우돌 앱 추적 투명성(App Tracking Transparency) 적용기](https://www.androidhuman.com/2021-04-28-ios_att_explainer)
 * [All Your Macs Are Belong To Us : Objective-See](https://objective-see.com/blog/blog_0x64.html)
 * [iOS에서의 Audio Session](https://wlaxhrl.tistory.com/92)
+* [홈 화면에서 클릭 한 번에 QR 체크인하자!](https://velog.io/@sesang06/%ED%99%88-%ED%99%94%EB%A9%B4%EC%97%90%EC%84%9C-%ED%81%B4%EB%A6%AD-%ED%95%9C-%EB%B2%88%EC%97%90-QR-%EC%B2%B4%ED%81%AC%EC%9D%B8%ED%95%98%EC%9E%90)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
