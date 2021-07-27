@@ -94,6 +94,7 @@ Business
 * [레거시 운영개발팀을 수습하다](https://greypencil.tistory.com/113) 팀 운영 이야기
 * [2년 동안 근무했던 회사를 떠나며](https://evan-moon.github.io/2019/08/17/leave-the-company/) 개발자 입장에서 팀원들로 인해 변화된 자신에 대한 이야기
 * [Your “high bar” is wrecking your team](http://brandonhays.com/blog/2018/06/19/your-high-bar-is-wrecking-your-team/)
+* [팀워크 · Soojin Ro](https://soojin.ro/blog/teamwork)
 * [직원을 적으로 돌리는 회사](https://brunch.co.kr/@lunarshore/124)
 * [직원을 뽑았으면 잘하는 일을 시켜라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/168406)
 * [어거지로 소통,협업 하지 마라](http://ppss.kr/archives/59165)
