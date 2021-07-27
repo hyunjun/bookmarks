@@ -390,8 +390,9 @@ Web
   * [How to scrape websites with Python and BeautifulSoup](https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe)
   * [Web Scraping With Beautiful Soup in Python](https://github.com/areed1192/sigma_coding_youtube/blob/master/python/python-data_science/web-scraping/Web%20Scraping%20Wikipedia.ipynb)
     * [Python Beautiful Soup](https://www.youtube.com/playlist?list=PLcFcktZ0wnNkOo9FQ2wrDcsV0jYqEYu1z)
-  * [TOOBUK](https://github.com/ramoi/toobuk)
   * [Scraping URLs with BeautifulSoup](https://hackingandslacking.com/scraping-urls-with-beautifulsoup-e794a555bb0f)
+  * [Web Scraping E-Commerce Website with Beautiful Soup + Excel [Multiple Pages] PART 1/2 - YouTube](https://www.youtube.com/watch?v=y0TpyWhrcDk)
+  * [TOOBUK](https://github.com/ramoi/toobuk)
 * [canrevan: 대량의 네이버 뉴스 기사를 수집하는 라이브러리입니다](https://github.com/affjljoo3581/canrevan)
 * [corona-tracker](https://github.com/iidx/corona-tracker) crawl + telegram bot
 * [Crawler](https://github.com/rudvlf0413/crawler)
