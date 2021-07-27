@@ -64,6 +64,7 @@ Web
 * [Fantastic Web Design Tool](https://editor.easylogic.studio/)
   * [개발자, 트렌드를 버리다 — 1년 후 소감](https://medium.com/@easylogic/%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8A%B8%EB%A0%8C%EB%93%9C%EB%A5%BC-%EB%B2%84%EB%A6%AC%EB%8B%A4-1%EB%85%84-%ED%9B%84-%EC%86%8C%EA%B0%90-e75a859280e9)
 * [11 Useful Online Tools for Frontend Developers](https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63)
+* [Top 49 Web Development Tools for 2021](https://www.lambdatest.com/blog/top-web-development-tools-for-2021/)
 * [Managing two million web servers](http://joearms.github.io/2016/03/13/Managing-two-million-webservers.html)
 * [Rocket.chat 채팅 서비스 만들기](http://900stage.com/%EC%B1%84%ED%8C%85-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%A4%EB%8B%A4/)
 * [웹 아이콘 폰트 패키지, FONTIUM](https://fontium.koism.com/)
@@ -451,6 +452,7 @@ Web
   * [How to Use Selenium to Automate Everything in the Browser | by James Briggs | Python In Plain English | Oct, 2020 | Medium](https://medium.com/python-in-plain-english/how-to-use-selenium-to-automate-everything-in-the-browser-c18a28750125)
   * [파이썬 셀레니움 이미지 크롤링으로 배우는 업무 자동화의 기초 - YouTube](https://www.youtube.com/watch?v=1b7pXC1-IbE)
   * [New Live Stream: Modern UI Test Automation with Selenium Libraries | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2021/05/new-live-stream-modern-ui-test-automation-with-selenium-libraries/)
+  * [Web Scraping Multiple Pages with Python and Selenium + CSV File - YouTube](https://www.youtube.com/watch?v=m3liwOyJPC8)
 * [springer_free_books - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine](https://github.com/alexgand/springer_free_books)
 * [youtube-downloader-v1.0](https://github.com/jiyeon1997/youtube-downloader-v1.0)
 
