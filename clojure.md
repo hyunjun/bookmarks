@@ -212,6 +212,7 @@ Clojure
 * [Clojure Future / Delay / Promise](http://clojure.kr/Clojure-Future-Delay-Promise)
 * [Faster Compilation/Runtime and Spec Caching Fixes](https://clojurescript.org/news/2017-06-27-faster-compilation-runtime-and-spec-caching-fixes)
 * [Maven으로 Leiningen 프로젝트 패키징하기](http://seonho.kim/2017/07/09/maven%EC%9C%BC%EB%A1%9C-leiningen-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%8C%A8%ED%82%A4%EC%A7%95%ED%95%98%EA%B8%B0/)
+* [JUXT Blog - How-to: Clojure libraries on Maven Central](https://www.juxt.pro/blog/maven-central)
 * [Improved JavaScript Object Literal Printing](http://blog.fikesfarm.com/posts/2017-07-29-improved-javascript-object-literal-printing.html)
 * [Clojure, Java 9, and You - Toby Crawley](https://www.youtube.com/watch?v=4fevIDAxQAM)
 * [Moving Forward by Letting Go](http://yogthos.net/posts/2017-10-03-MovingForwardByLettingGo.html)
