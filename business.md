@@ -103,6 +103,7 @@ Business
 * [업무의 회색지대를 바라보며](https://brunch.co.kr/@jongmulim/34) 협업
 * [사일로를 없애고 협업을 부르는 마법 - T Times](http://www.ttimes.co.kr/view.html?no=2021070115407774399)
 * [내가 왜 옆 팀 업무를 알아야 돼···스타트업 갉아먹는 사일로 현상 위험경보 │ 매거진한경](https://magazine.hankyung.com/job-joy/article/202107136908d)
+* [사일로효과와 리더의 역할 : 네이버 블로그](https://blog.naver.com/jik5252/222078891952)
 * [한국 사회의 뿌리 깊은 소통 문제](https://brunch.co.kr/@younghakjang/24)
 * [엘론 머스크가 알려주는 회사 내 소통 법](http://www.andrewahn.co/silicon-valley/elon-musk-comms-in-tesla/)
 * [기업 문화의 시작, 소통: 진실의 순간에 드러나는 기업 문화의 민낯 | ㅍㅍㅅㅅ](https://ppss.kr/archives/218668)
