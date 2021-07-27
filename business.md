@@ -581,6 +581,7 @@ Business
 * [리더는 어떤 사람이해야 하는 걸까](https://brunch.co.kr/@jidesign/72)
 * [애플이 생각하는 재량적 리더십](https://brunch.co.kr/@jcmarkpark/161)
   * 담당업무 박스 owning box 교육업무 박스 teaching box 학습업무 박스 learning box 위임업무 박스 delegating box 로 업무 분류 및 분량 조절
+* [김영헌의 마중물 사람을 놓치지 마라 | 한경닷컴](https://www.hankyung.com/thepen/lifeist/article/202107269281Q)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
