@@ -141,6 +141,7 @@ Artificial Intelligence
 * [모두를 위한 AI | Coursera](https://www.coursera.org/learn/ai-for-everyone)
   * [꿀벌개발일지 :: AI For Everyone 노트](https://ohgyun.com/792)
 * [Learn AI for Free](https://blog.goodaudience.com/learn-ai-for-free-5b186cde3990)
+* [AI는 내친구 #25 KMOOC 비전공자를 위한 딥러닝 강의 예고 | KAIST AI STUDIO - YouTube](https://www.youtube.com/watch?v=8AYcP4y2GQc)
 * [alina.ai/courses/practical_dl_for_coders](http://alina.ai/courses/practical_dl_for_coders/) 코더들을 위한 실전 딥러닝 강의
 * [Artificial Intelligence Lecture Series](https://www.youtube.com/playlist?list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee)
 * [blog.alina.ai/courses/ai-pm](http://blog.alina.ai/courses/ai-pm/)
