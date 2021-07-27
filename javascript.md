@@ -2905,6 +2905,7 @@ Javascript
 * [husky, lint-staged - React에서 husky와 lint-staged를 사용하여 Git에 커밋할 때, ESLint와 Prettier를 실행하도록 설정해 봅시다](https://dev-yakuza.posstree.com/ko/react/husky-lint-staged/)
 * [GitHub Actions으로 Prettier와 ESLint 사용하기 - React 프로젝트에 설정한 Prettier와 ESLint를 GitHub Actions를 사용하여 실행해 봅시다](https://dev-yakuza.posstree.com/ko/react/github-actions/prettier-eslint/)
 * [React's UI State Model vs Vanilla JavaScript DOM State — A Beginner's Introduction](https://arihantverma.com/posts/2021/07/17/react-ui-state-model-vs-vanilla-js/)
+* [Integrate a Stripe Payment with React - DEV Community](https://dev.to/hajarnasr/integrate-a-stripe-payment-with-react-1f9h)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -3224,6 +3225,7 @@ Javascript
   * [Next.js 에서 Static 파일 배포. Next.js 에서는 now 라는 자체 배포 플랫폼을 운영하고 있다. | by Ted Park | Medium](https://itstedpark.medium.com/next-js-%EC%97%90%EC%84%9C-static-%ED%8C%8C%EC%9D%BC-%EB%B0%B0%ED%8F%AC-86c9ae0f952f)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
+    * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
   * [serverless-next.js deploy](https://awesomezero.com/development/serverless/) AWS
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Piral, a Modern React-Based Microfrontends Library](https://www.infoq.com/news/2021/06/piral-microfrontends/)
