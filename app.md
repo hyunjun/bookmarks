@@ -1247,6 +1247,8 @@ App
 * [AES67 Stream Monitor - aes67.app](https://aes67.app/) Free and Open Source Audio over IP Monitoring App
 * audacity [오픈소스 오디오 편집툴 : Audacity](https://jybaek.tistory.com/801)
 * [Apache OpenMeetings Project – Home](https://openmeetings.apache.org/) video conferencing, instant messaging, white board, collaborative document editing and other groupware tools
+* [AudioKitSynthOne: AudioKit Synth One: Open-Source iOS Synthesizer App](https://github.com/AudioKit/AudioKitSynthOne)
+  * [iOS 오픈소스 뮤직앱 신스 원 : 클리앙](https://www.clien.net/service/board/useful/16359730)
 * AVPlayer [How to set up video streaming in your app with AVPlayer](https://medium.freecodecamp.org/how-to-set-up-video-streaming-in-your-app-with-avplayer-7dc21bb82f3)
 * [AVPress - an in-browser video compressor](https://avpress.zaps.dev/)
   * [AVPress - 인-브라우저 비디오 압축 도구 | GeekNews](https://news.hada.io/topic?id=4670)
