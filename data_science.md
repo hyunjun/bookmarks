@@ -343,6 +343,7 @@ Data Science
 * [데이터 처리 플랫폼 : 네이버 블로그](https://blog.naver.com/airguy76/221368741735)
 * [김진철의 How-to-Big Data | How-to-Big Data 핵심 정리(Key Takeaways) (1) - CIO Korea](https://www.ciokorea.com/news/191719)
 * [세미나 후기 Wanted Con. Data 요즘 데이터 팀은 어떻게 일할까?](https://blog.naver.com/rposter/222324418413)
+* [게임 속 시장을 들여다보기 위한 단 하나의 지표](https://blog.ncsoft.com/game-data-analytics-20200924/)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -592,6 +593,7 @@ Data Science
   * [Weak Supervision: A New Programming Paradigm for Machine Learning](http://ai.stanford.edu/blog/weak-supervision/)
   * [Introducing the New Snorkel](https://www.snorkel.org/hello-world-v-0-9/)
   * [Snorkel is a fundamentally new interface to ML without hand-labeled training data](https://www.snorkel.ai/07-14-2020-snorkel-ai-launch.html)
+  * [게임의 부정 사용자를 탐지하는 방법, Snorkel을 활용해 라벨 보정하기](https://blog.ncsoft.com/game-data-analytics-20210122/)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)
