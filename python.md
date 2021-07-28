@@ -4016,6 +4016,7 @@ Python
 # Music
 * [Music Genre Classifier](https://github.com/indrajithi/mgc-django)
 * [파이썬으로 계이름 맞히기](https://fishneverdies.tistory.com/28)
+* [Making A Synth With Python — Oscillators | Alan | Python in Plain English](https://python.plainenglish.io/making-a-synth-with-python-oscillators-2cb8e68e9c3b)
 * [cherrymusic - Stream your own music collection to all your devices! The easy to use free and open-source music streaming server http://www.fomori.org/cherrymusic](https://github.com/devsnd/cherrymusic)
 * [kord: a music theory development framework in python](https://github.com/synestematic/kord)
 * [Librosa - audio and music processing in Python](https://librosa.github.io)
