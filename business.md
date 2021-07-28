@@ -623,6 +623,9 @@ Business
 * [온라인 광고 기초 페이스북, 구글, 카카오.. : 네이버블로그](https://blog.naver.com/adrielai/222107262371)
 * [브런치북 브랜드 되살리기](https://brunch.co.kr/brunchbook/re-branding)
 * [**Google 광고에 대해 알아보자 - Google Ad Manager**](https://www.brightparagon.me/posts/google-ad-manager)
+* [모바일 마케팅 분석 무작정 따라하기 #1](https://danbi-ncsoft.github.io/works/2019/08/06/works-mobile_mkt-1.html)
+* [모바일 마케팅 분석 무작정 따라하기 #2](https://danbi-ncsoft.github.io/works/2019/08/19/works-mobile_mkt-2.html)
+* [오랫동안 사랑받는 게임이 되도록, 유저의 LTV(유저 생애 가치) 예측하기](https://blog.ncsoft.com/game-data-analytics-20201014/)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
