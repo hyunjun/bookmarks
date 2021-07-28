@@ -374,6 +374,7 @@ App
 * [Things you may not know about Chrome DevTools](https://dev.to/lpellis/things-you-may-not-know-about-chrome-devtools-53k6)
 * [<번역>시니어 프론트엔드 개발자처럼 크롬 개발자도구 사용하기](https://junwoo45.github.io/2020-07-28-chrome_devtools/)
 * [크롬 데브툴(devtools) 디버깅 사용하기 - YouTube](https://www.youtube.com/watch?v=Mg74cmtEArc)
+* [남들 모르는 크롬 개발자도구 소소한 기능 8개 - YouTube](https://www.youtube.com/watch?v=toXJLUa7i0Y)
 * [Tools I wish I had known about when I started coding](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
 * [데스크톱 프로그레시브 웹 앱](https://hyeonseok.com/soojung/dev/2018/11/14/844.html)
 * [Features of the Chrome API you should know](https://medium.freecodecamp.org/features-of-the-chrome-api-you-should-know-bf5c8b6c7733)
