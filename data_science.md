@@ -377,6 +377,7 @@ Data Science
 * [The Best Free Books for Learning Data Science](https://www.dataquest.io/blog/free-books-learn-data-science)
 * [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 * [Great Books for Data Science](https://towardsdatascience.com/great-books-for-data-science-7a2de76bc612)
+* [브런치북 데이터 과학 미니북](https://brunch.co.kr/brunchbook/dsbook)
 
 # Course MOOC Lecture
 * [**수강료 500만원 데이터사이언스 스쿨 커리큘럼을 대체하는 온라인 무료강의 15개 커리큘럼**](http://earlybird.ai/data_science_free_curriculum/)
@@ -556,6 +557,7 @@ Data Science
 * [Lesser Known Python Libraries for Data Science](https://medium.com/analytics-vidhya/python-libraries-for-data-science-other-than-pandas-and-numpy-95da30568fad)
 * [**10 Simple hacks to speed up your Data Analysis in Python**](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b) 여러가지 분야(data, visualization등)의 library
 * [Python ETL Tools: Best 8 Options](https://towardsdatascience.com/python-etl-tools-best-8-options-5ef731e70b49)
+* [데이터 과학을 위해 '더 개선된' 최신 필수 파이썬 툴 6가지](https://open-support.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9C%84%ED%95%B4-%EB%8D%94-%EA%B0%9C%EC%84%A0%EB%90%9C-%EC%B5%9C%EC%8B%A0-%ED%95%84%EC%88%98-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%88%B4-6%EA%B0%80%EC%A7%80)
 * [**Accelerator**](https://github.com/eBay/accelerator) 단일 시스템에서 테라바이트 단위의 데이터를 고속 처리를 하도록 설계된 eBay에서 개발한 오프소스 프레임워크
   * [accelerator-project_skeleton](https://github.com/eBay/accelerator-project_skeleton)
   * [Announcing the Accelerator](https://www.ebayinc.com/stories/blogs/tech/announcing-the-accelerator-processing-1-000-000-000-lines-per-second-on-a-single-computer/)
