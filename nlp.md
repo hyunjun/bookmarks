@@ -1496,6 +1496,7 @@ NLP
 * [Chapter 3 : 단어 임베딩을 사용하여 텍스트 유사성 계산하기](https://eda-ai-lab.tistory.com/118)
 * [11. Deep Learning Cookbook/03. 단어 임베딩을 사용하여 텍스트 유사성 계산하기](https://daljoong2.tistory.com/36)
 * [엘라스틱서치의 벡터(Vector) 필드와 텐서플로우를 이용한 문서 유사도 검색 (1) > Similarity Search #elasticsearch](https://blog.naver.com/olpaemi/221639136195)
+* [텍스트 요약 모델 성능 평가를 위한 새로운 척도, RDASS를 소개합니다. | Kakao Enterprise AI Research](https://kakaoenterprise.github.io/deepdive/210729)
 
 # Summary, Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
