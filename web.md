@@ -200,6 +200,7 @@ Web
 * [The Ultimate Guide to Web Performance - DEV](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
 * [developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer](https://github.com/apptension/developer-handbook)
 * [Timing web requests with cURL and Chrome](https://blog.cloudflare.com/a-question-of-timing/) TTFB time to first byte curl
+* [TTFB로 서비스 성능 측정하기. TTFB(Time To First Byte)를 통해 알아보는 내… | by Ryan Kim | Jul, 2021 | Medium](https://equus3144.medium.com/ttfb%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95%ED%95%98%EA%B8%B0-21baef090c7d)
 * [FE개발자의 성장 스토리 06 : 2021년 Chrome의 새로운 변화 – Schemeful same-site을 대응하자 – tech.kakao.com](https://tech.kakao.com/2021/02/02/frontend-growth-06/)
 * [브라우저의 동작 원리와 렌더링 최적화 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/how-browser-works/)
 * [well-known 디렉토리와 securty.txt 그리고 humans.txt](https://www.hahwul.com/2021/03/18/what-is-wellknown-directory/)
