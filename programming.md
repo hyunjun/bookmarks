@@ -941,6 +941,7 @@ Programming
 * [DDD 했더니 비대해지는 엔티티, 좋은 대책은 ?](http://jaynewho.com/post/45)
 * [Part 1: Domain Driven Design like a pro 🏅 | by Anders Gill | Raa Labs | Medium](https://medium.com/raa-labs/part-1-domain-driven-design-like-a-pro-f9e78d081f10)
 * [Domain-driven design · Present](https://present.do/decks/60bed187f79479437375f362)
+* [Domain Driven Design Patterns in Python - YouTube](https://www.youtube.com/watch?v=hv-LiKQgN90)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
