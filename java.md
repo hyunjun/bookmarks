@@ -628,6 +628,7 @@ Java
   * [Javaone 2016 keynote](https://www.oracle.com/javaone/on-demand/index.html?bcid=5131218264001)
 * [자바9 자바 플랫폼 모듈 시스템](http://whiteship.me/?p=13980)
 * [what is the difference in Interface of Java7, Java8 and Java9?](http://technikes.com/what-is-the-difference-in-interface-of-java7-java8-and-java9/)
+* [Java 9 Interface Private Methods](https://javaconceptoftheday.com/java-9-interface-private-methods/)
 * [나만 모르고 있던 – Java 9 (Java9 빠르게 훑어 보기)](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-java9-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B3%B4%EA%B8%B0/)
 * [JShell with Example in Java 9](https://www.linkedin.com/pulse/jshell-example-java-9-vivek-vara/)
   * [RunJShell](https://runjshell.com/)
