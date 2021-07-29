@@ -1195,6 +1195,7 @@ Docker
 * [Firecracker - Secure and fast microVMs for serverless computing](https://firecracker-microvm.github.io/)
   * [firecracker: Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
   * [Firecracker: start a VM in less than a second](https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/)
+  * [kkamagui의 작업실 :: 아마존(Amazon) Firecracker 시작하기](https://kkamagui.tistory.com/945)
 * firefighter [microVM: Another Level of Abstraction for Serverless Computing | by Mostafa Moradian | ITNEXT](https://itnext.io/microvm-another-level-of-abstraction-for-serverless-computing-5f106b030f15)
 * [Flocker 1.0: Container Data Management for Docker](https://clusterhq.com/2015/06/17/flocker-1-0/)
 * [Galley is a command-line tool for orchestrating Docker containers in development and test environments](https://github.com/twitter-fabric/galley)
