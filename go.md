@@ -704,6 +704,7 @@ Go
 * [How to mock? Go Way](https://blog.learngoprogramming.com/how-to-mock-in-your-go-golang-tests-b9eee7d7c266)
 * [Unit Testing Using Mocking in Go - Priyanshu Gautam - Medium](https://medium.com/@priyanshugautam1997/unit-testing-using-mocking-in-go-f281122f499f)
 * [유연하고 테스트 가능한 Go 코드 작성하기 - 당근마켓 팀 블로그 | by Marco | 당근마켓 팀블로그](https://medium.com/daangn/how-to-write-a-testable-golang-code-4c0e67612bb8)
+* [Golang 인터페이스와 단위 테스트 | Popit](https://www.popit.kr/golang-%ec%9d%b8%ed%84%b0%ed%8e%98%ec%9d%b4%ec%8a%a4%ec%99%80-%eb%8b%a8%ec%9c%84-%ed%85%8c%ec%8a%a4%ed%8a%b8/)
 * [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)
   * [고랭에서 찾기 힘든 버그 잡는다… ‘고 퍼즈’ 베타 테스트 공개 - CIO Korea](https://www.ciokorea.com/news/196604)
 * [MartianProxy is a proxy designed for use in E2E testing](https://github.com/google/martian)
