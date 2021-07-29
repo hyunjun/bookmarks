@@ -3225,6 +3225,7 @@ Javascript
   * [Develop. Preview. Ship. For the best frontend teams – Vercel](https://vercel.com/)
   * [Next.js 에서 Static 파일 배포. Next.js 에서는 now 라는 자체 배포 플랫폼을 운영하고 있다. | by Ted Park | Medium](https://itstedpark.medium.com/next-js-%EC%97%90%EC%84%9C-static-%ED%8C%8C%EC%9D%BC-%EB%B0%B0%ED%8F%AC-86c9ae0f952f)
   * [Next.js 공식문서 파헤치기(1) - 시작하기](https://xtring-dev.tistory.com/entry/Nextjs-Nextjs-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0)
+  * [Next.js 공식문서 파헤치기(2) - 기본개념 "Pages, Pre-Rendering 방식(SSG/SSR)"](https://xtring-dev.tistory.com/entry/Nextjs-Nextjs-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B02-Nextjs%EC%9D%98-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%ED%8A%B9%EC%A7%95)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
