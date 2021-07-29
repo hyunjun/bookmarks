@@ -264,10 +264,11 @@ Programming Books
     * 그렇다면 transaction 처리는? 2단계 commit같은 분산 transaction, 나중에 재시도하기, 전체 작업 중지하기 등...
   * [마이크로서비스 아키텍처 구축](https://blog.outsider.ne.kr/1482)
 * (NOT YET) [마이크로서비스 인 액션 올바른 마이크로서비스 도입을 위한 완벽 실용서](https://wikibook.co.kr/microservices-in-action/)
-* (NOT YET) [마이크로서비스 도입, 이렇게 한다](https://jhrogue.blogspot.com/2021/01/blog-post.html)
+* [마이크로서비스 도입, 이렇게 한다](https://jhrogue.blogspot.com/2021/01/blog-post.html)
   * [<마이크로서비스 도입, 이렇게 한다> 도서 증정 이벤트](https://jhrogue.blogspot.com/2021/01/blog-post_28.html)
   * [**마이크로서비스 도입 이렇게 한다 | Popit**](https://www.popit.kr/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%84%9c%eb%b9%84%ec%8a%a4-%eb%8f%84%ec%9e%85-%ec%9d%b4%eb%a0%87%ea%b2%8c-%ed%95%9c%eb%8b%a4/)
   * ['마이크로서비스 도입 이렇게 한다' 출연 동영상과 멋진 독후감 소개](https://jhrogue.blogspot.com/2021/05/b.html)
+  * [마이크로서비스 도입, 이렇게 한다](https://jybaek.tistory.com/929)
 * (NOT YET) [도메인 주도 설계로 시작하는 마이크로서비스 개발 | 위키북스](https://wikibook.co.kr/ddd-msa/)
 * (NOT YET) [소프트웨어 아키텍트가 알아야할 97가지 출간!!! | Architecture 101](https://architecture101.blog/2011/04/04/publish-eva-97architect/)
 * (NOT YET) [엔터프라이즈 환경을 위한 마이크로서비스 | 에이콘출판사](http://www.acornpub.co.kr/book/microservices-enterprise)
