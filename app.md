@@ -1024,6 +1024,7 @@ App
     * [Oh My Zsh로 예쁘고 직관적인 터미널 만들기!](http://kkamagui.tistory.com/903) ubuntu 설치
   * [zsh installation](https://github.com/Kevin-Lee/for-linux/blob/master/scripts/zsh/zsh-installation.md)
   * [Oh-My-Zsh! Made for CLI Lovers](https://hackernoon.com/oh-my-zsh-made-for-cli-lovers-bea538d42ec1)
+  * [42 세미나 '최적화에 미친 남자 hmin'의 극한의 마개조 특강! #1. 터미널 + 크롬 - YouTube](https://www.youtube.com/watch?v=NljihG695UY)
 * [MacBook: Dev Setup](https://hackernoon.com/macbook-dev-setup-5890e61a8f0a) homebrew, iterm2, zsh, sdkman등 설치 방법 소개
 * [완벽한 Mac 작업환경 세팅하기 (vim, zsh, iterm)](https://blog.pigno.se/post/184576332493/%EC%99%84%EB%B2%BD%ED%95%9C-mac-%EC%9E%91%EC%97%85%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-vim-zsh-iterm)
 * [Mac os에 zsh 세팅하기](https://mishka86.github.io/2019/09/27/zsh-setting/)
