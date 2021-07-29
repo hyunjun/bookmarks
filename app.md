@@ -1333,6 +1333,7 @@ App
   * [Andrea's Notion Story](https://www.notion.so/9b54b64c084f4fdaa2e8979f6490ac5f)
   * [구글 캘린더 연동](https://brunch.co.kr/@sijin90/34)
   * [“완벽한 생산성 앱은 없는 걸까?” 당신이 모르던 노션의 세계를 알려준다](https://ppss.kr/archives/204813)
+  * [Notion to presentation slides](https://wunderpresentation.com/create/notion/)
   * [notion-py로 노션(Notion)을 내 블로그의 CMS로 사용하기](https://younho9.dev/notion-as-blog-cms)
   * [notion-py로 노션 CMS 구축하기 - 데이터베이스 활용](https://younho9.dev/notion-cms-using-database)
 * [paperkit.net](http://paperkit.net/)
