@@ -343,6 +343,7 @@ Android
   * [번역 DroidKaigi 2017 ~ DataBinding 로 구현하는 MVVM Architecture](http://pluu.github.io/blog/android/droidkaigi/2017/12/25/droidkaigi-databindingteshi-xian-surumvvm-architecture/)
   * [Databinding 사용법](https://brunch.co.kr/@mystoryg/150)
   * [Databinding Observable for Jetpack Compose | by SeongUg Steve Jung | Jun, 2021 | Medium](https://medium.com/@jsuch2362/databinding-observable-for-jetpack-compose-377f8df47449)
+  * [Jetpack Compose 에 관한 정리 # Android UI](https://developer88.tistory.com/391)
 * [kati - an experimental GNU make clone](https://github.com/google/kati)
 * Koin
   * [Android + DI + KOIN = Easy?!](http://pluu.github.io/blog/android/2018/11/25/android-di-koin-easy/)
