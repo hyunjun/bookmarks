@@ -149,6 +149,7 @@ Scala
 * [user-land compiler warnings in Scala](http://eed3si9n.com/user-land-compiler-warnings-in-scala)
 * [user-land compiler warnings in Scala, part 2](http://eed3si9n.com/user-land-compiler-warnings-in-scala-part2)
 * [**#Scala Compiler Options, Fatal Warnings and Linting Guide - YouTube**](https://www.youtube.com/watch?v=A04WXhM3LrM)
+* [An intro to the Scala presentation compiler](https://www.chris-kipp.io/blog/an-intro-to-the-scala-presentation-compiler)
 * [Configuring and suppressing warnings in Scala | The Scala Programming Language](https://www.scala-lang.org/2021/01/12/configuring-and-suppressing-warnings.html)
 * [BETTER MANAGEMENT OF TRANSITIVE DEPENDENCIES AND CONFLICTS](https://www.scala-lang.org/2019/10/17/dependency-management.html)
 * [Top 5 things that slow down your Scala build](https://www.triplequote.com/blog/2019-10-24-5-things-slow-down-build/)
@@ -195,6 +196,7 @@ Scala
 * [To tag a type](https://medium.com/iterators/to-tag-a-type-88dc344bb66c)
 * [What is `transparent` in Scala?](https://medium.com/@jducoeur/what-is-transparent-in-scala-cf5c9e9350f3)
 * [Exceptions, referential transparency and your Scala code](https://medium.com/@itay.maman/exceptions-referential-transparency-and-your-scala-code-4fc3f84043ad)
+* [Why Should You Care About Referential Transparency? - YouTube](https://www.youtube.com/watch?v=CmHEid4qnco)
 * [Picking a Language for Introductory CS — The Argument Against Python](https://medium.com/@drmarkclewis/picking-a-languages-for-introductory-cs-the-argument-againstpython-4331cca26cfa)
 * [NAVER Tech Talk: Scala 밋업(2018년 10월)](https://d2.naver.com/news/9362795) Monad, Akka
 * [Implementing Immutable Trie in Scala](https://medium.com/@AlirezaMeskin/implementing-immutable-trie-in-scala-c0ab58fd401)
@@ -905,6 +907,7 @@ Scala
     * [Part 4 - `ZIO[Env, _, _]` - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=e1kIjiWHVhE)
     * [Part 5 - ZIO.access - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=1t0GPFumFkE)
     * [Part 6 - zio.Has - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=epTKGRuxbOE)
+    * [Part 7 - ZLayer - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=FOStEDZAZWs)
     * [ZIO News - Issue #28 | Revue](https://www.getrevue.co/profile/zio/issues/zio-news-issue-28-654279)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
@@ -1113,6 +1116,7 @@ Scala
 * [Scala로 만들어본 이름점](https://jsideas.net/name_chemistry/)
   * [이름점 - Scala Code 수정](https://jsideas.net/name_chemistry_refactoring/)
 * [Integrating Developer Experiences — The Build Server Protocol in the IntelliJ Scala plugin](https://blog.jetbrains.com/scala/2019/08/08/integrating-developer-experiences-the-build-server-protocol-in-the-intellij-scala-plugin/)
+* [IntelliJ Scala Plugin 2021.2 Is Out! | The Scala Plugin Blog](https://blog.jetbrains.com/scala/2021/07/27/intellij-scala-plugin-2021-2/)
 
 # Library
 * [The Top 100 Scala Libraries in 2015 – Based on 64,562 GitHub Libraries](http://blog.takipi.com/the-top-100-scala-libraries-in-2015-based-on-64562-github-libraries/)
@@ -1125,6 +1129,7 @@ Scala
 * [Use Scala Macros and Quasiquotes to Reduce Boilerplate | Toptal](https://www.toptal.com/scala/macros-quasiquotes-reduce-boilerplate)
 * [A FUNCTIONAL ECOSYSTEM](http://vectos.net/posts/2019-06-10-a-functional-ecosystem.html)
 * [Exploring Scala Tooling ecosystem – Jeferson David Ossa](https://www.youtube.com/watch?v=TBfvbrAXaWA) 다양한 tool 소개
+* [tooling-talks: A monthly series of talks about tooling](https://github.com/ckipp01/tooling-talks)
 * [Top 15 Scala Libraries for Data Science in 2018](https://www.datasciencecentral.com/profiles/blogs/top-15-scala-libraries-for-data-science-in-2018-1)
 * [**TOP 10 SCALA LIBRARIES FOR DATA SCIENCE**](https://analyticsindiamag.com/top-10-scala-libraries-for-data-science/)
 * [Scala tooling in 2019](https://geirsson.com/2019.html)
@@ -1404,6 +1409,7 @@ Scala
   * [The Shape(less) of Type Class Derivation in Scala 3](https://portal.klewel.com/watch/webcast/scala-days-2019/talk/20/)
   * [How (not) to use shapeless for cross-layer conversions in Scala](https://blog.softwaremill.com/how-not-to-use-shapeless-for-cross-layer-conversions-in-scala-9ac36363aed9)
   * [Seriously Good Software Ch 3 Exercise 3 (with cats and shapeless)](https://gist.github.com/sungkmi/0d2cb8686d7f6170eec0a216eb776301) state monad version
+  * [Mike Limansky - From Scala 2 shapeless to Scala 3](http://limansky.me/posts/2021-07-26-from-scala-2-shapeless-to-scala-3.html)
 * Slinky [Slinky 0.6.0: The One With Hooks](https://medium.com/@shadaj/slinky-0-6-0-the-one-with-hooks-c7f36d78f103)
 * [specs2 - software specification for scala](http://etorreborre.github.io/specs2/)
   * [Becoming reasonable](https://medium.com/@etorreborre_99063/becoming-reasonable-361d7f674ee0)
@@ -2273,3 +2279,4 @@ Scala
 * [Scala :: ./side_effects.sh](http://zafirov.me/posts/scala/)
 * [#Scala Crash Course by a Scala veteran (with some JavaScript flavor) - YouTube](https://www.youtube.com/watch?v=-xRfJcwhy7A)
 * [Scala-Resources/README.md at main · fullStackRyan/Scala-Resources](https://github.com/fullStackRyan/Scala-Resources/blob/main/README.md)
+* [Learning Scala with #Intellij Scala Plugin 2021(#Scala #REPL #ScratchPad ) - YouTube](https://www.youtube.com/watch?v=61Nnh7R-Abk)
