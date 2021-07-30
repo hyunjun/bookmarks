@@ -264,6 +264,7 @@ Git
     •  Infra CI/CD 로 Azure Web App 자동 생산하기
     • App Dev CI/CD 로 NodeJS 앱을 JEST 테스트/테스트 카버리지/깃허브 페키지 빌드/깃허브 아티팩트 사용한후 Azure 웹앱으로 배포하
     •  그리고 Terraform 으로 AWS 에 2개의 가상 머신에 로드발렌스 되어 있고 오토 스케일 기능 갖추어진 리소스 생산하기 
+* [GitHub Actions 워크플로우의 승인 기능 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1556)
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
 
 # Book
