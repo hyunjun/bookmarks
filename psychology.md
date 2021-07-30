@@ -42,4 +42,5 @@ Psychology
 * [완벽을 추구하기보단, 차라리 대충 시작할 것 | ㅍㅍㅅㅅ](https://ppss.kr/archives/237885)
 * [정신과 의사가 말하는 유독 예민한 사람들의 네가지 특징 - NBA Mania](https://mania.kr/g2/bbs/board.php?bo_table=freetalk&wr_id=4900623)
 * [욕망의 두 형태에 대한 대화](https://brunch.co.kr/@graypool/84)
+* [욕망의 두 형태에 대한 대화 II](https://brunch.co.kr/@graypool/85)
 * [PsychoPy - Psychology software in Python](http://www.psychopy.org/)
