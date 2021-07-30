@@ -82,9 +82,6 @@ Business
 * [중간 관리자의 역할 - 취합만 하고 마구 간섭하는 자리가 아니다](https://brunch.co.kr/@lunarshore/297)
 * [구글이 제시한 '관리자의 자격' - ZDNet korea](https://zdnet.co.kr/view/?no=20170227091914)
 * [똑똑하게 실패하는 조직의 4가지 조건](http://ppss.kr/archives/46577)
-* [웹 서비스 개발 회사의 효율적인 조직 구조 및 관리](http://www.popit.kr/%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%82%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B4%80%EB%A6%AC/)
-* [슈퍼셀의 역삼각형 조직 구조: 관리는 줄이고, 성공을 늘리기](http://masterfarseer.blogspot.com/2018/05/blog-post.html)
-* [Etsy CEO가 에자일한 조직 구조를 만든 방법](https://brunch.co.kr/@yongjinjinipln/89)
 * [10년간 슈퍼셀을 경영하며 배운 10가지 교훈 | 번역 블로그](https://masterfarseer.blogspot.com/2020/08/10-10.html)
 * [당신을 성장시켜 주는 조직](https://brunch.co.kr/@younghakjang/1)
 * [나쁜 말이 나쁜 조직을 만든다](https://brunch.co.kr/@lunarshore/333)
@@ -93,7 +90,6 @@ Business
 * [Secrets Of Successful Teamwork: Insights From Google - YouTube](https://www.youtube.com/watch?v=hHIikHJV9fI)
 * [레거시 운영개발팀을 수습하다](https://greypencil.tistory.com/113) 팀 운영 이야기
 * [2년 동안 근무했던 회사를 떠나며](https://evan-moon.github.io/2019/08/17/leave-the-company/) 개발자 입장에서 팀원들로 인해 변화된 자신에 대한 이야기
-* [Your “high bar” is wrecking your team](http://brandonhays.com/blog/2018/06/19/your-high-bar-is-wrecking-your-team/)
 * [팀워크 · Soojin Ro](https://soojin.ro/blog/teamwork)
 * [직원을 적으로 돌리는 회사](https://brunch.co.kr/@lunarshore/124)
 * [직원을 뽑았으면 잘하는 일을 시켜라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/168406)
@@ -112,7 +108,6 @@ Business
 * [우리 회사는 회사 문화와 잘 어울리는 사람을 선호합니다](http://ppss.kr/archives/48564)
 * [Why Hiring for "Culture Fit" Hurts Your Culture](http://www.paperplanes.de/2015/6/11/why-hiring-for-culture-fit-hurts-your-culture.html)
 * [11. 대기업 Aaron과 실리콘밸리 Bryan](https://brunch.co.kr/@svillustrated/12)
-* [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
 * [공과 사 그 애매한 경계](https://brunch.co.kr/@younghakjang/22)
 * [오래 가려면 후배와 함께 가라](http://ppss.kr/archives/49070)
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -249,9 +244,6 @@ Business
 * [휴스턴 농구에는 왜 센터가 없을까](https://brunch.co.kr/@lunarshore/382) 패러다임 시프트
 * [회사에 꼭 필요한 5가지 유형](https://brunch.co.kr/@hyungsukkim/26)
 * [우리는 직장에 대해 말할 수 있는가?](https://brunch.co.kr/@hyungsukkim/17)
-* [공정한 평가라는 환상](https://brunch.co.kr/@hyungsukkim/18)
-* [홍석환의 인사 잘하는 남자 이팀장의 잘못된 목표관리](https://www.hankyung.com/thepen/article/105908) 객관적인 지표를 통한 평가 등
-* [성과 리뷰 미팅이 Show로 끝나는 이유 - 경영전문블로그 Innovator](http://www.innovator.or.kr/2021/07/show.html)
 * [직장생활에서 피해야 할 사람들](https://brunch.co.kr/@hyungsukkim/36)
 * [나를 지키기 위한 10가지 원칙](https://brunch.co.kr/@hyungsukkim/61)
 * [질문할 때, 생각할 때, 실행할 때](https://brunch.co.kr/@hyungsukkim/89) 당연한 이야기지만 그냥 지나치기 쉬운 부분
@@ -343,6 +335,18 @@ Business
 * [풀필먼트는 물류랑 무엇이 다른가?](https://brunch.co.kr/@graypool/80)
 * [넷플릭스가 성공한 이유는 문화도, 알고리즘도, 제품도 아니다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240583) 규모의 경제
 
+# 우선순위
+* [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
+* [모두가 알고 있는데 아무도 하지 않는 일](https://brunch.co.kr/@hyungsukkim/127) 우선순위
+* [BRICE로 우선순위 정하기](https://brunch.co.kr/@yongjinjinipln/77)
+
+# 조직 구조
+* [웹 서비스 개발 회사의 효율적인 조직 구조 및 관리](http://www.popit.kr/%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%82%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B4%80%EB%A6%AC/)
+* [슈퍼셀의 역삼각형 조직 구조: 관리는 줄이고, 성공을 늘리기](http://masterfarseer.blogspot.com/2018/05/blog-post.html)
+* [Etsy CEO가 에자일한 조직 구조를 만든 방법](https://brunch.co.kr/@yongjinjinipln/89)
+* [화해 제품 조직이 목적 중심으로 일하는 방법 part.1 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/hwahaeteam/culture/5873/)
+* [화해 제품 조직이 목적 중심으로 일하는 방법 part.2](http://blog.hwahae.co.kr/all/tech/tech-tech/6470/)
+
 # 채용
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (2)](http://newspeppermint.com/2015/06/11/32466/)
@@ -360,10 +364,12 @@ Business
 * [수습 기간은 피드백 미팅에 달려있다](https://brunch.co.kr/@kaytee/11)
 * [미래 조직의 인재상 (앞으로 기업에서는 어떤 사람을 채용해야 할까?](https://blog.naver.com/hs_group/222438548992)
 
-# 우선순위
-* [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
-* [모두가 알고 있는데 아무도 하지 않는 일](https://brunch.co.kr/@hyungsukkim/127) 우선순위
-* [BRICE로 우선순위 정하기](https://brunch.co.kr/@yongjinjinipln/77)
+# 평가 performance evaluation
+* [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
+* [공정한 평가라는 환상](https://brunch.co.kr/@hyungsukkim/18)
+* [홍석환의 인사 잘하는 남자 이팀장의 잘못된 목표관리](https://www.hankyung.com/thepen/article/105908) 객관적인 지표를 통한 평가 등
+* [성과 리뷰 미팅이 Show로 끝나는 이유 - 경영전문블로그 Innovator](http://www.innovator.or.kr/2021/07/show.html)
+* [Your “high bar” is wrecking your team](http://brandonhays.com/blog/2018/06/19/your-high-bar-is-wrecking-your-team/)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -587,6 +593,7 @@ Business
 * [애플이 생각하는 재량적 리더십](https://brunch.co.kr/@jcmarkpark/161)
   * 담당업무 박스 owning box 교육업무 박스 teaching box 학습업무 박스 learning box 위임업무 박스 delegating box 로 업무 분류 및 분량 조절
 * [김영헌의 마중물 사람을 놓치지 마라 | 한경닷컴](https://www.hankyung.com/thepen/lifeist/article/202107269281Q)
+* [존댓말 쓰는 리더](https://brunch.co.kr/@joonwriter/5)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
