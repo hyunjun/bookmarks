@@ -95,3 +95,4 @@
 * [브릭캠퍼스](https://www.facebook.com/brickcampusjeju/)
 * [송당목장 민오름 숲터널](https://brunch.co.kr/@architect-shlee/934)
 * [버려진 비밀 벙커, 미디어아트로 되살아나다](http://v.media.daum.net/v/20180606044504550)
+* 생각하는 정원 [유명인들이 제주 가면 꼭 방문, 외국 교과서에도 실렸다 제주살이를 꿈꾸는 당신에게- 한 언론인의 탐라국 일기](https://news.v.daum.net/v/20210727185100373)
