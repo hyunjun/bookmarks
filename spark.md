@@ -424,6 +424,7 @@
   * [Part 6 : Anatomy of V2 Write API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-6/)
   * [Part 7 : Meetup Talk](http://blog.madhukaraphatak.com/spark-datasource-v2-part-7/)
 * [Migrating to Spark 2.4 Data Source API](http://blog.madhukaraphatak.com/migrate-spark-datasource-2.4/)
+* [Map Filter Reduce & Lambda in Python & Scala| Comparison of Lambda Syntaxes Step by Step| Beginners - YouTube](https://www.youtube.com/watch?v=ugbad1B0IZ4)
 * aggregate
 
   ```
@@ -589,6 +590,7 @@
 * [Create Spark Scala SBT project in Intellij Idea. 1-minute tutorial - YouTube](https://www.youtube.com/watch?v=XLgzBqrEZ0U)
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 * [Spark 2: How to install it on Windows in 5 steps](https://medium.com/@dvainrub/how-to-install-apache-spark-2-x-in-your-pc-e2047246ffc3)
+* [Apache Spark Setup in Windows|Intellij IDE|CommandLine|Databricks|Zeppelin|All Methods Covered 2021. - YouTube](https://www.youtube.com/watch?v=S5p-2vlUBYo)
 
 # Kubernetes
 * [Introduction to Spark on Kubernetes](https://banzaicloud.github.io/blog/spark-k8s/)
