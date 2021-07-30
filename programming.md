@@ -509,6 +509,7 @@ Programming
 * [뉴 노멀 시대의 인셉션 워크숍 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/inception-workshop-in-the-new-normal/) agile inception project inception
 * [OpenWork, 카카오의 일하는 방식 – tech.kakao.com](https://tech.kakao.com/2021/07/02/openwork-agile/)
 * [DEVIEW 2020 :: 주먹구구 게 섯거라 K-Agile이 나가신다 (우리에게 딱 맞춘 애자일로 함께 팀을 개선한 이야기)](https://deview.kr/2020/sessions/383)
+* [애자일 프로젝트 계획: 빨리 만들고, 빨리 내보내야 하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/242690) MVP
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -2989,6 +2990,7 @@ Programming
 * [드라마 QA팀이 하는 일](http://blog.dramancompany.com/2019/03/%EB%93%9C%EB%9D%BC%EB%A7%88-qa%ED%8C%80%EC%9D%B4-%ED%95%98%EB%8A%94-%EC%9D%BC/)
 * [이동한님 Software QA 완벽한 SW는 없다! - YouTube](https://www.youtube.com/watch?v=zaI59OJCA3s)
 * [LINE의 QA는 어떻게 일할까? - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-line-qa/)
+* [듀얼 QA 프로세스를 소개합니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/dual-qa-process/)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [Introduction to Test Driven Development (TDD)](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92)
 * ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다](https://repo.yona.io/doortts/blog/issue/1)
