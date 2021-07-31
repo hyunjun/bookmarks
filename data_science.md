@@ -23,6 +23,7 @@ Data Science
   * [(part 2): the perfect candidate doesn’t exist](https://medium.com/@skyetetra/hiring-data-scientists-part-2-the-perfect-candidate-doesnt-exist-ec0d8afc4658)
   * [(part 3): interview questions](https://medium.com/@skyetetra/hiring-data-scientists-my-interview-questions-56d5ae3fc621)
   * [(part 4): the case study](https://medium.com/@skyetetra/hiring-data-scientists-part-4-the-case-study-a285fdb75d08)
+* [Top Python Data Science Interview Questions | .cult by Honeypot](https://cult.honeypot.io/reads/top-python-data-science-interview-questions/)
 * [GitHub Special: Data Scientists to Follow & Best Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
 * [How to Become a Data Scientist](http://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
 * [So You Want To Be a Data Scientist: A Guide for College Grads](http://www.datanami.com/2015/06/04/so-you-want-to-be-a-data-scientist-a-guide-for-college-grads/)
@@ -149,47 +150,6 @@ Data Science
 * [e커머스 데이터 파헤치기-6편](https://brunch.co.kr/@genie7pe/8)
 * [데이터와 관련하여 기업들이 공개한 기술은 어떤게 있을까?](http://hongwonjun.me/post/138333142713/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-%EA%B4%80%EB%A0%A8%ED%95%98%EC%97%AC-%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4-%EA%B3%B5%EA%B0%9C%ED%95%9C-%EA%B8%B0%EC%88%A0%EC%9D%80-%EC%96%B4%EB%96%A4%EA%B2%8C-%EC%9E%88%EC%9D%84%EA%B9%8C)
 * [The Automatic Statistician - An artificial intelligence for data science](http://www.automaticstatistician.com/examples/)
-* [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
-  * 데이터 사이언스에 많이 사용되는 확률밀도함수들
-    * Bernoulli
-      * 동전의 앞/뒤처럼 이벤트가 0 또는 1밖에 일어나지 않는 분포
-      * 동전은 확률이 0.5/0.5 겠지만 다른 경우도 있을 수 있음
-    * Uniform
-      * 주사위처럼 모든 결과에 대한 확률이 동일한 확률분포
-    * Binomial
-      * 동전을 n번 던졌을 때 p번만큼 앞면이 나올 확률은?
-      * Binomial은 이렇게 0 또는 1이 나오는 이벤트(각각이 Bernoulli확률을 갖는 이벤트)에 대해 1이 발생활 횟수에 대한 확률
-    * Poisson
-      * 1시간에 평균 10번의 전화통화가 온다고 가정. 그렇다면 한시간에 12번 전화통화가 올 확률은? 이것이 바로 poisson(포아송) 확률
-      * 이것은, 예를 들어, 60분 중 48번의 실패(0)와 12번의 성공(1)을 하면 ok. 또는, 60분이 아니라 더 잘게 쪼개서 988번의 실패와 12번의 성공을 하면 ok
-      * 이처럼 시행횟수가 크고 이벤트가 일어날 확률이 작은 bionomial 분포가 바로 poisson 분포에 수렴(이 때문에 binomial의 근사로도 사용)
-    * Hypergeometric
-      * 까만공과 하얀공이 절반씩 있는데 그것을 여러번 뽑는다고 가정. 그럼 이것은 Binomial과 동일한가?
-      * 아님. 왜냐면 공을 뽑을 때 만약 그 공을 다시 채워넣지 않는다면 남아있는 공의 확률은 바뀌기 때문
-      * Binomial의 경우와 달리 replacement(다시 보충)를 허용하지 않는 것이 바로 hypergeometric 확률입니다.
-    * Geometric
-      * 주사위를 굴렸을 때 한번에 6이 나올 확률은? 두번만에 6이 나올 확률은? 세번만에, 네번만에...
-      * 이처럼 geometric 분포는 어떤 이벤트가 일어날 때까지의 횟수에 대한 확률
-      * 이벤트의 확률이 어떠하든 늘 "가장 첫번째"에 이벤트가 발생할 확률이 가장 크다
-    * Negative Binomial
-      * Geometric이 한번 성공할 때까지 걸리는 횟수에 대한 분포라면 negative binominal은 n번 성공할 때까지 걸리는 횟수에 대한 분포
-비슷하게 안지은거야?;;)
-    * Exponential
-      * bionomial의 연속버전이 poisson이었다면, geometric의 연속버전이 exponential분포
-      * 다시말해 "평균 5분만에 전화가 걸려온다고 할 때 다음 전화가 7분 후에 걸려올 확률은?"
-    * Weibull
-      * exponential이 "다음 이벤트가 성공할 때 까지의 실패구간은"에 대한 함수였다면 반대로 Weibull은 "첫 실패가 발생할 때까지 이번 이벤트가 성공할 구간"에 대한 확률
-    * Gaussian (Normal)
-      * 너무 유명한 확률분포
-      * 특히 매우 많은 수의 동일 확률분포를 가진 샘플들의 산술평균은 그 샘플들이 어떤 분포를 따르든(binomial이든 exponential이든 아님 다른거든) 결국 Gaussian 분포로 수렴한다는 "중심극한정리"가 매우 유용하기에 매우 많은 곳에 적용 가능
-    * Log-normal
-      * 변수의 log 값이 Gaussian을 나타내는 분포
-      * 다시말해 Gaussian을 exponential 한 함수
-    * Student’s t-distribution
-      * 정규분포의 mean 값에 대한 판단을 내릴 떄 사용하는 확률분포
-    * Chi-squared distribution
-      * Gaussian 분포를 가진 확률변수의 제곱들의 합에 대한 분포
-      * 예를 들어 k자유도의 chi-squared는 k개의 독립적인 Gaussian들에 대한 합의 확률분포
 * [좋다는 건 알겠는데 좀 써보고 싶소. 데이터! - 넘버웍스 하용호 대표](http://www.slideshare.net/Gonnector/ss-60993909)
 * [‘데이터’를 똑똑하게 만드는 오픈소스 기술 12종](http://www.bloter.net/archives/238491)
 * [Google Data Studio (beta) provides everything you need to turn your data into beautiful, informative reports that are easy to read, easy to share, and fully customizable](http://www.google.com/analytics/data-studio/)
@@ -344,6 +304,7 @@ Data Science
 * [김진철의 How-to-Big Data | How-to-Big Data 핵심 정리(Key Takeaways) (1) - CIO Korea](https://www.ciokorea.com/news/191719)
 * [세미나 후기 Wanted Con. Data 요즘 데이터 팀은 어떻게 일할까?](https://blog.naver.com/rposter/222324418413)
 * [게임 속 시장을 들여다보기 위한 단 하나의 지표](https://blog.ncsoft.com/game-data-analytics-20200924/)
+* [Why and how should you learn “Productive Data Science”? - KDnuggets](https://www.kdnuggets.com/2021/07/learn-productive-data-science.html)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -455,6 +416,8 @@ Data Science
 * [Mirador is a tool for visual exploration of complex datasets](http://fathom.info/mirador/)
 * [Mockaroo - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats](https://www.mockaroo.com/)
 * [Mode - Analyze raw or modeled data with SQL, Python, or R without moving between different tools](https://mode.com)
+* [nf-data-explorer: The Data Explorer gives you fast, safe access to data stored in Cassandra, Dynomite, and Redis](https://github.com/Netflix/nf-data-explorer)
+  * [Exploring Data @ Netflix. By Gim Mahasintunan on behalf of Data… | by Netflix Technology Blog | Jun, 2021 | Netflix TechBlog](https://netflixtechblog.com/exploring-data-netflix-9d87e20072e3)
 * [Piwik - Open Analytics Platform](http://piwik.org/)
 * [Weld: A common runtime for high performance data analytics](https://blog.acolyer.org/2017/01/16/weld-a-common-runtime-for-high-performance-data-analytics/)
   * Numba와 비슷하게, Rust 기반 컴파일러를 이용해 Data 분석 스크립트의 속도를 최적화하여 빠르게 함
@@ -557,7 +520,7 @@ Data Science
 * [Lesser Known Python Libraries for Data Science](https://medium.com/analytics-vidhya/python-libraries-for-data-science-other-than-pandas-and-numpy-95da30568fad)
 * [**10 Simple hacks to speed up your Data Analysis in Python**](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b) 여러가지 분야(data, visualization등)의 library
 * [Python ETL Tools: Best 8 Options](https://towardsdatascience.com/python-etl-tools-best-8-options-5ef731e70b49)
-* [데이터 과학을 위해 '더 개선된' 최신 필수 파이썬 툴 6가지](https://open-support.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EA%B3%BC%ED%95%99%EC%9D%84-%EC%9C%84%ED%95%B4-%EB%8D%94-%EA%B0%9C%EC%84%A0%EB%90%9C-%EC%B5%9C%EC%8B%A0-%ED%95%84%EC%88%98-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%88%B4-6%EA%B0%80%EC%A7%80)
+* [데이터 과학을 위해 '더 개선된' 최신 필수 파이썬 툴 6가지 - ITWorld Korea](https://www.itworld.co.kr/news/202304)
 * [**Accelerator**](https://github.com/eBay/accelerator) 단일 시스템에서 테라바이트 단위의 데이터를 고속 처리를 하도록 설계된 eBay에서 개발한 오프소스 프레임워크
   * [accelerator-project_skeleton](https://github.com/eBay/accelerator-project_skeleton)
   * [Announcing the Accelerator](https://www.ebayinc.com/stories/blogs/tech/announcing-the-accelerator-processing-1-000-000-000-lines-per-second-on-a-single-computer/)
@@ -596,6 +559,8 @@ Data Science
   * [Introducing the New Snorkel](https://www.snorkel.org/hello-world-v-0-9/)
   * [Snorkel is a fundamentally new interface to ML without hand-labeled training data](https://www.snorkel.ai/07-14-2020-snorkel-ai-launch.html)
   * [게임의 부정 사용자를 탐지하는 방법, Snorkel을 활용해 라벨 보정하기](https://blog.ncsoft.com/game-data-analytics-20210122/)
+* [Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather than invoking the Python interpreter, Tuplex generates optimized LLVM bytecode for the given pipeline and input data set](https://github.com/tuplex/tuplex)
+  * [Tuplex - 병렬 빅데이터 처리 프레임워크 | GeekNews](https://news.hada.io/topic?id=4580)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)
