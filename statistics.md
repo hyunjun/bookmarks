@@ -346,9 +346,11 @@ Statistics
 * [Understanding Waiting Times Between Events with the Poisson and Exponential Distributions](http://nbviewer.ipython.org/github/nicolewhite/notebooks/blob/master/Poisson.ipynb)
 * [Predicting the Frequency of Asteroid Impacts with a Poisson Processes](https://towardsdatascience.com/predicting-the-frequency-of-asteroid-impacts-with-a-poisson-processes-98d483efa61d)
 * [푸아송 분포의 아이디어와 유도 과정에 대한 구체적인 원리](https://injae-kim.github.io/dev/2020/07/17/easy-to-understand-poisson-distribution.html)
+* [Poisson's Equation is the Most Powerful Tool not yet in your Toolbox](https://mattferraro.dev/posts/poissons-equation)
 
 # Probability
 * [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
+* [Probability Cheat Sheet - Harvard University - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/probability-cheat-sheet)
 * [Foundations of probability theory](https://terrytao.wordpress.com/2015/09/29/275a-notes-0-foundations-of-probability-theory/)
 * [Heuristic models for marginal probability assessment updates](http://xheimlichkeit.com/methods/2015/10/12/how-to-update-probabilities.html)
 * [Probability concepts explained: Marginalisation](https://towardsdatascience.com/probability-concepts-explained-marginalisation-2296846344fc)
@@ -409,6 +411,7 @@ Statistics
   * [Hands On Bayesian Statistics with Python, PyMC3 & ArviZ](https://towardsdatascience.com/hands-on-bayesian-statistics-with-python-pymc3-arviz-499db9a59501)
   * [Supercharging Decision Making with Bayes - YouTube](https://www.youtube.com/watch?v=pJH_2y9J9-I)
   * [Practicing Python With CSV Files and Extracting Values With "filter" | Real Python Podcast #66 - YouTube](https://www.youtube.com/watch?v=_FTO0DEayaw)
+  * [BAYESIAN A/B TESTING WITH EXPECTED LOSS](https://lumiamitie.github.io/data/bayesian-ab-testing/)
 * [Statistics Using Python Tutorial](https://www.youtube.com/playlist?list=PLlz0muypSBNZXEDDy7RftBdIJNHEN0t1a)
   * [Part 4](https://www.youtube.com/watch?v=6ZA5lvooc5I)
   * [Part 5](https://www.youtube.com/watch?v=CISnF83dGTc)
