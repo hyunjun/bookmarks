@@ -19,6 +19,7 @@ Politics
 * [그들의 찌라시를 분석한다 ② – 친일 방어 논리편](http://ppss.kr/archives/59765)
 * [신공항을 둘러싼 치열한 ‘정치 드라마’ - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=43298) 글 전개 방식이 좋아서
 * [초강대국, 패권등 국제정치 개념 정리](https://pgr21.com/freedom/89953)
+* [자유(Freedom)와 자유(Liberty)의 차이 - PENTALOGIA](https://pentalogia.com/archives/601)
 
 # 한국
 * [**시대정신을 묻는다**](http://www.huffingtonpost.kr/zeitgeist-korea/)
