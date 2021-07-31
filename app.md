@@ -389,6 +389,8 @@ App
 * thisisunsafe [How to get through Chrome security error pages - Miguel Piedrafita](https://miguelpiedrafita.com/chrome-thisisunsafe)
 * [리스틀리 - 세상에서 가장 빠른 웹 데이터 추출](https://www.listly.io/ko) crawler
   * [아마존과 쿠팡이 쓰는 툴이 한국 SW였다 : 개발자 필요없는 크롤링 서비스 리스틀리 사용기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233475)
+* [Bubbles: Video and Screenshot Collaboration](https://www.usebubbles.com/)
+  * ["번거로운 화상회의 이제 그만" 말풍선으로 아이디어 공유하는 크롬 확장 프로그램 '버블스' - ITWorld Korea](https://www.itworld.co.kr/news/201594)
 * [codecopy: A browser extension that adds copy to clipboard buttons on every code block](https://github.com/zenorocha/codecopy)
 * my notes [“크롬 새 탭을 메모장으로” 화려하지 않아도 실용적인 마이 노트(My Notes) - ITWorld Korea](http://www.itworld.co.kr/news/167215)
 * nuTab [Quick Notes New Tab Chrome Extension - nuTab](https://nutab.co/)
