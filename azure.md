@@ -137,6 +137,7 @@ Azure
 * [Bicep으로 애저 리소스 프로비저닝하기 | ep0. 인트로 | 애저듣보잡 - YouTube](https://www.youtube.com/watch?v=C0ck7eoO7DM)
 * [프리지아 랩 :: Solving Azure subscription problem in Azure Extension of Visual Studio Code](https://www.dokyun.pe.kr/264)
 * [An Illustrated Guide To Fusion Development](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/an-illustrated-guide-to-fusion-development/ba-p/2567146)
+* [MVP Watch Party (8번째 이야기) -  Dynamics 365 + Power Platform (회사 쇼핑몰 프로그램에 파워 플랫폼으로 날개 달기) - YouTube](https://www.youtube.com/watch?v=2ej0RknvGnk)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
