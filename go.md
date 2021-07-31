@@ -533,6 +533,7 @@ Go
   * [golang - Go 언어의 DB mock(sqlmock)을 알기 쉽도록 해 보았다 - jacking75](https://jacking75.github.io/go_splmock/)
 * [go-tea - Tea provides an Elm inspired functional framework for interactive command-line programs](https://github.com/tj/go-tea)
 * [GoWork - Go Library for distributing work to workers](https://github.com/ryanskidmore/GoWork)
+* [gpu-operator: NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes](https://github.com/NVIDIA/gpu-operator)
 * [grace - Graceful restart for Go servers. https://godoc.org/github.com/facebookgo/grace](https://github.com/facebookgo/grace)
 * gRPC
   * [gRPC Deadline](https://jusths.tistory.com/131)
