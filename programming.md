@@ -2395,6 +2395,7 @@ Programming
   * [6월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/06/b-6-4.html)
   * [7월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/07/b-7-1.html)
   * [7월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/07/b-7-3.html)
+  * [7월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/07/b-7.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -2704,6 +2705,7 @@ Programming
 
 # Quantum computer
 * [그래서 양자컴퓨팅이 뭔데? – 문과생을 위한 해설서](https://byline.network/2019/11/05-18/)
+* [퀀텀 컴퓨팅 기초 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/paths/quantum-computing-fundamentals/)
 
 # Reactive
 * [리액티브 개발 패러다임에 담긴 메시지](http://m.zdnet.co.kr/column_view.asp?artice_id=20161010104628#imadnews)
@@ -2730,7 +2732,7 @@ Programming
 * [대용량 스트리밍 데이터 실시간 분석](http://d2.naver.com/helloworld/7731491)
 * [데이타 스트리밍 처리에 대한 이해](http://bcho.tistory.com/1119)
 * [실시간 데이터 처리를 위한 개념](https://jungwoon.github.io/jungwoon.github.io/REALTIME-DATA-PROCESSING-CONCEPT/)
-* [LINE 광고 데이터 파이프라인 BigDB](https://engineering.linecorp.com/ko/blog/detail/146)
+* [LINE 광고 데이터 파이프라인 BigDB - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/bigdb-an-ad-data-pipeline-for-line/)
 * [Single Page Apps and Realtime APIs](http://slides.com/grosjona/realtime)
 * Comparison of Apache Stream Processing Frameworks
   * [Part 1](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1)
@@ -2776,14 +2778,14 @@ Programming
 * [네이버클라우드 Live Commerce on NAVER Cloud Platform (라이브커머스 세미나 Full ver.) - YouTube](https://www.youtube.com/watch?v=QzBtMHDtH3k)
 
 ## Real Time Processing, Streaming Library
-* [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
-* CEP Complex Event Processing
-  * [Welcome to Siddhi](http://siddhi.sourceforge.net/)
-* [gor - HTTP traffic replay in real-time. Replay traffic from production to staging and dev environments. http://leonsbox.com/blog/2013/06/04/improving-testing-by-using-real-traffic-from-production](https://github.com/buger/gor/)
-* Heron
+* [Apache Heron · A realtime, distributed, fault-tolerant stream processing engine](https://heron.incubator.apache.org/)
   * [Twitter Heron: Stream Processing at Scale](http://blog.acolyer.org/2015/06/15/twitter-heron-stream-processing-at-scale/)
   * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)
   * [트위터 스트림 처리 서버 (heron) 최적화 내용](http://knight76.tistory.com/entry/%ED%8E%8C-%ED%8A%B8%EC%9C%84%ED%84%B0-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%EC%B2%98%EB%A6%AC-%EC%84%9C%EB%B2%84-heron-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%82%B4%EC%9A%A9)
+  * [Apache Heron - 실시간, 분산, fault-tolerant 스트림 처리 엔진 | GeekNews](https://news.hada.io/topic?id=4608)
+* CEP Complex Event Processing
+  * [Welcome to Siddhi](http://siddhi.sourceforge.net/)
+* [gor - HTTP traffic replay in real-time. Replay traffic from production to staging and dev environments. http://leonsbox.com/blog/2013/06/04/improving-testing-by-using-real-traffic-from-production](https://github.com/buger/gor/)
 * [Mantis - a platform to build an ecosystem of realtime stream processing applications](https://netflix.github.io/mantis/)
   * [Open Sourcing Mantis: A Platform For Building Cost-Effective, Realtime, Operations-Focused Applications](https://medium.com/netflix-techblog/open-sourcing-mantis-a-platform-for-building-cost-effective-realtime-operations-focused-5b8ff387813a)
 * Pinot
@@ -2791,6 +2793,7 @@ Programming
   * [pino - 링크드인, 실시간 분석 SW ‘피노’ 오픈소스로 공개](http://www.bloter.net/archives/229991)
 * [Redpanda - Vectorized](https://vectorized.io/redpanda/) A Kafka® API compatible streaming platform for mission-critical workloads
   * [Redpanda is the real-time engine for modern apps](https://github.com/vectorizedio/redpanda)
+* [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
 
 # Refactoring
 * [레거시 코드에서 이해하기 쉬운코드로 리팩토링](https://chodragon9.github.io/blog/legacy-code-to-easy-code)
