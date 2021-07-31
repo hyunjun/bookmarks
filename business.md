@@ -334,6 +334,9 @@ Business
   * 그래서 그 일을 계속 해야 하는지 가장 좋은 기준은 그 문제를 흥미롭게 생각하는가이고 이 기준을 적용하려면 자신에게 정직해야 함
 * [풀필먼트는 물류랑 무엇이 다른가?](https://brunch.co.kr/@graypool/80)
 * [넷플릭스가 성공한 이유는 문화도, 알고리즘도, 제품도 아니다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240583) 규모의 경제
+* [Building a data team at a mid-stage startup: a short story · Erik Bernhardsson](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
+  * [**스타트업에서 데이터 팀 만들기 | GeekNews**](https://news.hada.io/topic?id=4597) 데이터사이언스 팀 이야기이지만 팀 구성과 관련된 일반적인 상황에 대해서도 생각해볼 수 있음
+* [칼럼 중국게임들의 고퀄리티, 높은 노동강도에서 나오는 것 아니다 : Global No.1 Game Media 게임포커스](http://gamefocus.co.kr/detail_m.php?number=105222)
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
