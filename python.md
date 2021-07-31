@@ -2966,9 +2966,13 @@ Python
     * [Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800)
   * [4 Python libraries for building great command-line user interfaces](https://opensource.com/article/17/5/4-practical-python-libraries)
   * [Tools for Writing Python CLI Applications](https://hackernoon.com/tools-for-writing-python-cli-applications-ba52db1e454f)
+  * [python_snippet: Python and data science snippets on the command line](https://github.com/khuyentran1401/python_snippet)
+    * [Python and data science snippets on the command line](https://pythonawesome.com/python-and-data-science-snippets-on-the-command-line/)
+  * [PyVNCs - Simple command line multiplatform python VNC Server](https://github.com/radixcl/pyvncs)
   * [richer: Table renderer for dataclass using Rich](https://github.com/sarojaba/richer)
   * [simm.py - announcing command line file similarity tool](http://write-up.semantic-db.org/121-announcing-command-line-file-similarity-tool.html)
   * [soccer-cli - Football scores for hackers. A command line interface for all the football scores](https://github.com/architv/soccer-cli)
+  * [topydo - A command-line todo list application using the todo.txt format](https://github.com/bram85/topydo)
 * [Python Development: 7 Libraries to Look For in 2017](http://www.evontech.com/what-we-are-saying/entry/python-development-7-libraries-to-look-for-in-2017.html)
 * [My top 5 ‘new’ Python modules of 2015](http://blog.rtwilson.com/my-top-5-new-python-modules-of-2015/) tqdm, joblib, folium, tinydb, dill
 * [10 Python Machine Learning Projects on GitHub](http://www.datasciencecentral.com/profiles/blogs/10-python-machine-learning-projects-on-github)
@@ -3052,6 +3056,7 @@ Python
     * [conda 환경에서 pip 패키지도 동시에 업데이트 하기](http://ohgyun.com/774)
     * `conda install accelerate` [How to put that GPU to good use with Python](https://weeraman.com/put-that-gpu-to-good-use-with-python-e5a437168c01)
     * [conda env 터미널 명령어. 아나콘다 가상환경 명령어 정리 (진짜 간단한데, 구글링하기 귀찮아서… | by 5eo1ab | Medium](https://medium.com/@5eo1ab/conda-env-%ED%84%B0%EB%AF%B8%EB%84%90-%EB%AA%85%EB%A0%B9%EC%96%B4-adc8366f8a9d)
+    * [Using conda on an M1 Mac. Run multiple conda distributions to get… | by Nils Flaschel | Jul, 2021 | Towards Data Science](https://towardsdatascience.com/using-conda-on-an-m1-mac-b2df5608a141)
   * [**Data Science for Losers**](http://blog.brakmic.com/data-science-for-losers/)
   * [LEARNING PYTHON FOR DATA SCIENCE: CHEAT SHEETS](https://www.continuum.io/blog/developer-blog/learning-python-data-science-cheat-sheets)
   * [Python Anaconda & GPU - 세팅 및 성능 비교](http://hoondongkim.blogspot.com/2016/09/python-anaconda-gpu.html)
@@ -3085,6 +3090,7 @@ Python
 * [Boost.Python](http://www.boost.org/doc/libs/master/libs/python/doc/html/index.html)
   * [Installing boost and boost-python on OSX with Homebrew](http://www.pyimagesearch.com/2015/04/27/installing-boost-and-boost-python-on-osx-with-homebrew/)
 * [bpython - A fancy curses interface to the Python interactive interpreter http://bpython-interpreter.org ](https://github.com/bpython/bpython)
+* [BrickRegistration - a tool to generate synthetic 3d scenes for toying with bricks registration](https://github.com/GistNoesis/BrickRegistration)
 * [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
 * [bwa: 이거 봐(Bwa): Notification Sender for Discord, E-mail, Slack, and Telegram](https://github.com/somniumism/bwa)
 * [c8d - A Chip-8 disassembler in Python](https://github.com/prophittcorey/c8d)
@@ -3408,7 +3414,6 @@ Python
 * [PyV8 - a python wrapper for Google V8 engine](https://github.com/flier/pyv8)
   * [PyV8을 이용한 자바스크립트 악성코드 분석하기](http://www.hanul93.com/kicomav-pyv8/)
   * [Python, PyV8로 javascript 실행하기](https://blog.naver.com/dudwo567890/220895234080)
-* [PyVNCs - Simple command line multiplatform python VNC Server](https://github.com/radixcl/pyvncs)
 * pyzbar [파이썬 Python 코딩 - 바코드 QR코드 리더기 만들기 Scanning Bar Code Qr Code - Opencv, Pyzbar with Python - YouTube](https://www.youtube.com/watch?v=CUNVIfmfGuE)
 * QPython
   * [1. 개발환경 구축](http://m.blog.naver.com/dls001215/220972361443)
@@ -3520,7 +3525,6 @@ Python
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 * [TAICHI: OPEN-SOURCE COMPUTER GRAPHICS LIBRARY](http://taichi.graphics/)
 * [tomorrow - Magic decorator syntax for asynchronous code in Python](https://github.com/madisonmay/Tomorrow)
-* [topydo - A command-line todo list application using the todo.txt format](https://github.com/bram85/topydo)
 * tox
   * [Unit Testing in Python — tox and nox | by Martin Thoma | Python In Plain English | Medium](https://medium.com/python-in-plain-english/unit-testing-in-python-tox-and-nox-833e4bbce729)
   * [Guix-tox, a functional version of tox](http://blogs.rdoproject.org/7843/guix-tox-a-functional-version-of-tox)
@@ -4099,6 +4103,7 @@ Python
 
 # Pandas
 * [pandas - Python Data Analysis Library](https://pandas.pydata.org/)
+* [pandas documentation — pandas 1.3.1 documentation](https://pandas.pydata.org/pandas-docs/stable/)
 * practice
   * [read excel](https://github.com/hyunjun/practice/blob/master/python/test-pandas/read_excel.ipynb)
   * `data.iloc[:,0:8].values.tolist()`  행은 모두 사용하고, 열은 [0,8]만 추출해서 리스트로 변환
@@ -4247,6 +4252,7 @@ Python
 * [Exploring Your Dataset With Pandas and Python - YouTube](https://www.youtube.com/watch?v=XM5gR1sE3B0)
 * [The ten most important Pandas functions, and how to work with them](https://www.activestate.com/blog/the-ten-most-important-pandas-functions-and-how-to-work-with-them/)
 * [How To Make Your Pandas Loop 71803 Times Faster | by Benedikt Droste | Towards Data Science](https://towardsdatascience.com/how-to-make-your-pandas-loop-71-803-times-faster-805030df4f06)
+* [Pandas not enough? Here are a few good alternatives to processing larger and faster data in Python - KDnuggets](https://www.kdnuggets.com/2021/07/pandas-alternatives-processing-larger-faster-data-python.html)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
   * [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
 * [optimus: Agile Data Preparation Workflows made easy with Pandas, Dask, cuDF, Dask-cuDF and PySpark](https://github.com/hi-primus/optimus)
