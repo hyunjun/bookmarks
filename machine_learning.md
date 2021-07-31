@@ -616,6 +616,7 @@ Machine Learning
   * [13. Policy Gradient (PG)](https://skettee.github.io/post/policy_gradient/)
 * [Naïve Bayes for Machine Learning – From Zero to Hero](https://blog.floydhub.com/naive-bayes-for-machine-learning/)
 * [**Rules of Machine Learning: Best Practices for ML Engineering 정리**](https://zzsza.github.io/data/2019/12/15/rules-of-ml)
+* [Rules of Machine Learning:  |  ML Universal Guides  |  Google Developers](https://developers.google.com/machine-learning/guides/rules-of-ml)
 * [**MLOps 1. 실험 관리 AI 혁신 속도는 모델 학습에서 배포까지 걸리는 속도에 비례한다**](https://brunch.co.kr/@chris-song/101)
 * [MLOps: Continuous delivery and automation pipelines in machine learning 번역](https://zzsza.github.io/mlops/2020/05/16/cd-and-automation-pipeline-in-ml/)
 * [Introducing MLOps - 차문수(Superb AI) :: 제33회 AWSKRUG DataScience모임 - YouTube](https://www.youtube.com/watch?v=CjloF7g-5O4)
@@ -624,12 +625,14 @@ Machine Learning
   * [AI뉴스 AI계의 사대천왕, 앤드류 응 교수님의 주옥같은 인사이트가 우루루~데이터 중심 AI시대 그리고 MLOps의 급부상? 놓치면 안 될 응 교수님의 라이브 강좌 핵심 요약본! - YouTube](https://www.youtube.com/watch?v=20PlFERKCyo)
   * [더 많은 데이터 중심으로, 덜 적은 모델로!](https://brunch.co.kr/@synabreu/117)
 * [앤드류 응 교수가 말하는 MLOps](https://brunch.co.kr/@synabreu/137)
+* [칼럼ㅣAI 프로젝트 악순환 고리 끊어라··· 'ML옵스' 마인드셋이 필요한 이유 - CIO Korea](https://www.ciokorea.com/news/202454)
 * [Simulation vs. Machine Learning](https://vortarus.com/simulation-vs-machine-learning/)
 * [라쏘? 로지스틱? 회의에서 당당하게, 수식없이 기초개념부터](http://triviaz.net/blog:easy_lasso_logistic_regression) lasso logistic
 * [The Illustrated FixMatch for Semi-Supervised Learning](https://amitness.com/2020/03/fixmatch-semi-supervised/)
 * [Why we do machine learning engineering with YAML, not notebooks](https://towardsdatascience.com/why-we-do-machine-learning-engineering-with-yaml-not-notebooks-a2a97f5e04f8)
 * [Pseudo-Labeling to deal with small datasets — What, Why & How?](https://towardsdatascience.com/pseudo-labeling-to-deal-with-small-datasets-what-why-how-fd6f903213af)
 * [Introducing Label Studio, a swiss army knife of data labeling](https://towardsdatascience.com/introducing-label-studio-a-swiss-army-knife-of-data-labeling-140c1be92881)
+* [Hand Labeling Considered Harmful – O’Reilly](https://www.oreilly.com/radar/arguments-against-hand-labeling/)
 * [**machine-learning-experiments: Interactive Machine Learning experiments: models training + models demo**](https://github.com/trekhleb/machine-learning-experiments)
   * [Machine Learning Experiments](https://trekhleb.github.io/machine-learning-experiments/)
 * [Learning Machine Learning | Cloud AI | Google Cloud](https://cloud.google.com/products/ai/ml-comic-1)
@@ -657,6 +660,7 @@ Machine Learning
 * [Using Machine Learning to Improve Streaming Quality at Netflix | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f) 넷플릭스에서 스트리밍 퀄리티 실시간 개선
 * [How we grew from 0 to 4 million women on our fashion app, with a vertical machine learning approach | by Gabriel Aldamiz... | HackerNoon.com | Medium](https://medium.com/hackernoon/how-we-grew-from-0-to-4-million-women-on-our-fashion-app-with-a-vertical-machine-learning-approach-f8b7fc0a89d7) 패션 앱에서 소비자 경험 개선
 * [Tuning Model Performance | Uber Engineering Blog](https://eng.uber.com/tuning-model-performance/)
+* [9 Deadly Sins of Dataset Selection in ML | by Sandeep Uttamchandani | Jun, 2021 | Towards Data Science](https://towardsdatascience.com/9-deadly-sins-of-ml-dataset-selection-db7ee757efa0)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
