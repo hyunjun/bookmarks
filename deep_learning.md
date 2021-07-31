@@ -1183,6 +1183,8 @@ Deep Learning
 * [malnyun_faces: 침착한 생성모델 학습기](https://github.com/bryandlee/malnyun_faces)
 * [sefa: Code for paper `Closed-Form Factorization of Latent Semantics in GANs`](https://github.com/genforce/sefa)
 * [TGAN - Generative adversarial training for synthesizing tabular data https://sdv-dev.github.io/TGAN ](https://github.com/sdv-dev/TGAN)
+* [This beach does not exist](https://thisbeachdoesnotexist.com/)
+  * [이 해변은 존재하지 않습니다 | GeekNews](https://news.hada.io/topic?id=4649)
 
 # Java
 * [SmallData | Blog | Building a simple neural net in Java](https://smalldata.tech/blog/2016/05/03/building-a-simple-neural-net-in-java)
@@ -1571,6 +1573,8 @@ Deep Learning
 * [Python 신경망 학습 (1) : 네이버 블로그](https://blog.naver.com/eunseong31/221590935770)
 * [Python 신경망 학습 (2) : 네이버 블로그](https://blog.naver.com/eunseong31/221597561463)
 * [Python 신경망 학습 (3) : 네이버 블로그](https://blog.naver.com/eunseong31/221598016421)
+* [triton: Development repository for the Triton language and compiler](https://github.com/openai/triton)
+  * [Introducing Triton: Open-Source GPU Programming for Neural Networks](https://www.openai.com/blog/triton/)
 
 ## Neural Network ConvNets CNN
 * [컨볼루셔널 뉴럴넷 (Convolutional Neural Network)](http://t-robotics.blogspot.com/2016/05/convolutional-neural-network_31.html)
@@ -2358,6 +2362,7 @@ CVPR2016)
 * [강화학습 팁 모음](https://ropiens.tistory.com/132)
 * [강화학습 팁 모음(2) - reward function 작성 요령](https://ropiens.tistory.com/139)
 * [Mava: A new Open-Source Framework for Multi-Agent Reinforcement Learning | InstaDeep - Decision-Making AI For The Enterprise](https://www.instadeep.com/2021/07/mava-a-new-framework-for-distributed-multi-agent-reinforcement-learning/)
+* [Deep Reinforcement Learning is a waste of time](http://www.jtoy.net/blog/deep-reinforcement-learning-is-a-waste-of-time.html)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
