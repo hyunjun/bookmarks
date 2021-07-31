@@ -496,6 +496,7 @@ AWS
   * [AWS DevDay 2018](https://www.youtube.com/playlist?list=PLORxAVAC5fUX-mr4aJYC53zmJNgdxS-gl)
     * [AWS 2018 dev day - GraphQL with Lambda](https://www.slideshare.net/wesky93/aws-2018-dev-day-graphql-with-lambda)
   * [AWS DevDay SEOUL 2017 | 300원에 2백만뷰 소화하기 - 김동희 CTO(로켓펀치)](https://www.youtube.com/watch?v=5ky-35i1FkQ)
+* [AWS Builders 온라인 2021 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUWPziIFAho12lvGl1hR7ZZ5)
 * AWS re:Invent
   * [AWS re:Invent 2019 AI/ML](https://www.youtube.com/playlist?list=PLV6rN8mnHlrfrGupPQkoif-HEp3lWiXdn)
     * [AWS re:Invent 2019 비하인드 스토리](http://channy.creation.net/blog/1250)
