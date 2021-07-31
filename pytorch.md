@@ -340,6 +340,8 @@ PyTorch
   * 장점: 빠른 모델 학습, 모델 메모리와 연산량을 크게 줄이도록 경량화 가능, 쉽게 다양한 알고리즘 결합 가능
 * PyCUDA
   * [Deep-Learning-Boot-Camp/day02-PyTORCH-and-PyCUDA/PyCUDA](https://github.com/QuantScientist/Deep-Learning-Boot-Camp/tree/master/day02-PyTORCH-and-PyCUDA/PyCUDA)
+* [pynmsnn: NeuroMorphic Predictive Model with Spiking Neural Networks (SNN) using Pytorch](https://github.com/ajayarunachalam/pynmsnn)
+  * [NeuroMorphic Predictive Model with Spiking Neural Networks in Python](https://pythonawesome.com/neuromorphic-predictive-model-with-spiking-neural-networks-in-python/)
 * [PyRobot - An Open Source Robotics Research Platform](https://www.pyrobot.org/)
   * [Open-sourcing PyRobot to accelerate AI robotics research](https://ai.facebook.com/blog/open-sourcing-pyrobot-to-accelerate-ai-robotics-research/)
 * [pystiche: A Framework for Neural Style Transfer | by Philip Meier | PyTorch | Dec, 2020 | Medium](https://medium.com/pytorch/pystiche-a-framework-for-neural-style-transfer-1ea6e4825f32)
@@ -359,6 +361,8 @@ PyTorch
 * [pytorch-redis - Basic MNIST Example with RedisClient](https://github.com/jinserk/pytorch-redis)
 * [pytorch-struct - Fast, general, and tested differentiable structured prediction in PyTorch](https://github.com/harvardnlp/pytorch-struct)
 * [pytorch-template - PyTorch deep learning projects made easy](https://github.com/victoresque/pytorch-template)
+* [pytorch-toolbelt: PyTorch extensions for fast R&D prototyping and Kaggle farming](https://github.com/BloodAxe/pytorch-toolbelt)
+  * [A Python library with a set of bells and whistles for PyTorch](https://pythonawesome.com/a-python-library-with-a-set-of-bells-and-whistles-for-pytorch/)
 * [PyTorchVideo · A deep learning library for video understanding research](https://pytorchvideo.org/)
 * [pytorch-wavenet - This is an implementation of the WaveNet architecture](https://github.com/vincentherrmann/pytorch-wavenet)
 * Qiskit [Hybrid quantum-classical Neural Networks with PyTorch and Qiskit](https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit-pytorch.html)
@@ -383,6 +387,8 @@ PyTorch
   * [TorchIO - a Python library for efficient loading, preprocessing, augmentation and patch-based sampling of 3D medical images in deep learning, following the design of PyTorch](https://torchio.readthedocs.io/)
 * [torchlars - A LARS implementation in PyTorch](https://github.com/kakaobrain/torchlars)
   * [torchlars가 탄생하기까지](https://www.kakaobrain.com/blog/113)
+* [TorchShard: Slicing a PyTorch Tensor Into Parallel Shards](https://github.com/KaiyuYue/torchshard)
+  * [Introduction to TorchShard. A Lightweight Library for Scaling-up… | by Kaiyu Yue | PyTorch | Jul, 2021 | Medium](https://medium.com/pytorch/torchshard-a31fcbfdc354)
 * [torchtext package consists of data processing utilities and popular datasets for natural language](http://torchtext.readthedocs.io/)
 * [torchvision - Datasets, Transforms and Models specific to Computer Vision](https://github.com/pytorch/vision)
   * [torchvision 0.3: segmentation, detection models, new datasets and more..](https://pytorch.org/blog/torchvision03/)
