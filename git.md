@@ -789,6 +789,7 @@ Git
   * [bit: Bit is a modern Git CLI](https://github.com/chriswalz/bit)
   * [Scripting with GitHub CLI - The GitHub Blog](https://github.blog/2021-03-11-scripting-with-github-cli/)
   * [Work with GitHub Actions in your terminal with GitHub CLI - The GitHub Blog](https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/)
+  * [GitHub CLI gh의 새 기능 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1557)
 * [GHFS - GitHub repos in your filesystem!](https://github.com/ImJasonH/ghfs)
 * [ghrequest - HTTP client for the GitHub API with cache support to get the most of your rate limit](https://github.com/issuetrackapp/ghrequest)
 * [giistr - Contribute to build the open-source world. Search, filter and help easily on the issues of the repositories you starred](https://giistr.com/) 기여할 수 있는 open source project 검색
