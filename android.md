@@ -176,6 +176,8 @@ Android
 * [Android의 View, Canvas, Surface 그리고 Window에 관한 정리](https://developer88.tistory.com/225)
 * [Making our Android Studio Apps Reactive with UI Components & Redux](https://netflixtechblog.com/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244)
 * [Android Emulator 30.0.10 ~ Freeform Window Mode](http://pluu.github.io/blog/android/emulator/2020/06/14/emulator-freeform/)
+* [M1 맥북에서 안드로이드 에뮬레이터 사용하기](http://dalinaum.github.io/android/2021/03/15/m1-android-emulatore.html)
+* [Linux를 위한 6가지 최고의 Android 에뮬레이터](https://open-support.tistory.com/entry/Linux%EB%A5%BC-%EC%9C%84%ED%95%9C-6%EA%B0%80%EC%A7%80-%EC%B5%9C%EA%B3%A0%EC%9D%98-Android-%EC%97%90%EB%AE%AC%EB%A0%88%EC%9D%B4%ED%84%B0)
 * [요약 What's New in Android Development Tools (Android 11 Beta Launch)](http://pluu.github.io/blog/android/io20/2020/06/14/io20-whats-new-in-android-development-tools/)
 * [Android 소스 최적화 (100GB에서 65GB로 줄이기)](https://kibua20.tistory.com/51) repo, git
 * [알아두면 쓸모있는 신비한 안드로이드 지식 9가지. 많은 분들이 의외로 모르는 안드로이드 관련 잡다한 상식들이나 팁들에… | by Ted Park | 박상권의 삽질블로그 | Aug, 2020 | Medium](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%93%B8%EB%AA%A8%EC%9E%88%EB%8A%94-%EC%8B%A0%EB%B9%84%ED%95%9C-%EC%9E%A1%ED%95%99%EC%A7%80%EC%8B%9D-9%EA%B0%80%EC%A7%80-2948f60ccdbb)
@@ -199,7 +201,6 @@ Android
 * [Pluu Dev - Android 호환성 유지에 대한 고찰 ~ SDK/라이브러리](http://pluu.github.io/blog/android/2021/02/27/compatibility-sdk-library/)
 * [안드로이드에서 카카오 우편번호 검색 구현하기 | Jungwoon Blog](https://jungwoon.github.io/android/2021/02/17/Implemente-DaumPostSearch.html)
 * [안드로이드 12 Preview 미리 만나보기](https://thdev.net/875)
-* [M1 맥북에서 안드로이드 에뮬레이터 사용하기](http://dalinaum.github.io/android/2021/03/15/m1-android-emulatore.html)
 * [RecyclerView에서 고차함수 이용한 리스트아이템클릭 구현](https://developer88.tistory.com/356)
 * [getLastLocation 으로 유저의 마지막 위치얻어오기 # Android](https://developer88.tistory.com/357)
 * [What differs Android from other Linux based systems? - #embeddedbits](https://embeddedbits.org/what-differs-android-from-other-linux-based-systems/)
