@@ -132,6 +132,7 @@ Java
 * [Java is criminally underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
 * [Starting Fast: Investigating Java's Static Compilation Landscape - YouTube](https://www.youtube.com/watch?v=ry8O4HooIBI)
 * [bcrypt는 salt가 매번 달라지는데 어떻게 match 판단을 그리 잘 할까요?](https://codingdog.tistory.com/entry/bcrypt%EB%8A%94-salt%EA%B0%80-%EB%A7%A4%EB%B2%88-%EB%8B%AC%EB%9D%BC%EC%A7%80%EB%8A%94%EB%8D%B0-match%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%98-%EC%8B%9C%ED%82%AC%EA%B9%8C%EC%9A%94)
+* [Java:Applying colors of your choice to images | by Sai Pitchuka | Medium](https://saibaburvr.medium.com/java-applying-colors-of-your-choice-to-images-884dd6d7f12d)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -212,6 +213,7 @@ Java
   * [양력에서 음력 변환 - ChineseCalendar 클래스가 맞지 않는 이유, 한국과 중국의 음력 차이](https://blog.naver.com/birdparang/221445233118)
   * [DateTimeFormatter에서 년도표시에 yyyy대신 uuuu를 사용해야하는 이유?](https://blog.voidmainvoid.net/288)
   * [datetime 비교를 어떻게 할 수 있는지 예제 문제로 알아봅시다](https://codingdog.tistory.com/entry/datetime-%EB%B9%84%EA%B5%90%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EC%A7%80-%EC%98%88%EC%A0%9C-%EB%AC%B8%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+  * [Convert Milliseconds to & from LocalDateTime in Java8 & Above | CodersTea](https://www.coderstea.com/post/java/convert-milliseconds-to-and-from-localdatetime-in-java8-above/)
 * Enum
   * [Java Enum 활용기](http://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
   * [Enum값의 사용](http://developer88.tistory.com/148)
