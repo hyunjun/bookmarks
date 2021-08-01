@@ -511,6 +511,9 @@ Programming
 * [DEVIEW 2020 :: 주먹구구 게 섯거라 K-Agile이 나가신다 (우리에게 딱 맞춘 애자일로 함께 팀을 개선한 이야기)](https://deview.kr/2020/sessions/383)
 * [애자일 프로젝트 계획: 빨리 만들고, 빨리 내보내야 하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/242690) MVP
 * ["AI 개발 프로세스 안이하게 생각하면 실패" - ZDNet korea](https://zdnet.co.kr/view/?no=20210725170429) AI뿐 아니라 일반적으로도 적용되는 이야기
+* [애자일(agile)이란 무엇인가?](https://velog.io/@katanazero86/%EC%95%A0%EC%9E%90%EC%9D%BCagile%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+* [CI/CD 도입기 1편 - 폭포수 모델과 애자일](https://velog.io/@sjhello/Jenkins%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-CICD-%EC%A0%81%EC%9A%A9)
+* [애자일을 대충 알고 있는 당신을 위하여](https://velog.io/@dell_mond/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%84-%EB%8C%80%EC%B6%A9-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%8A%94-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%9C%84%ED%95%98%EC%97%AC)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
