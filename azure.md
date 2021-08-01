@@ -141,7 +141,8 @@ Azure
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
-* [Watch party (2번째 이야기) - Microsoft Cloud로 차별화된 SaaS 앱 빌드 - YouTube](https://www.youtube.com/watch?v=DnbXm-kHc0s&list=PLblCEfhpME9DCc9sXlqdxoD9N_ILF0A_H)
+* [세미나 발표 - YouTube](https://www.youtube.com/playlist?list=PLblCEfhpME9DCc9sXlqdxoD9N_ILF0A_H)
+  * [Watch party (2번째 이야기) - Microsoft Cloud로 차별화된 SaaS 앱 빌드 - YouTube](https://www.youtube.com/watch?v=DnbXm-kHc0s&list=PLblCEfhpME9DCc9sXlqdxoD9N_ILF0A_H)
 * [MVP Global Cloud Skills Challenge 후기](https://blog.naver.com/dodream7/222387580776)
 
 # Cosmos DB
