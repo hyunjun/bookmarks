@@ -882,6 +882,9 @@ AWS
 * [lambda proc - Running a companion process to an AWS Lambda function in go](https://github.com/jasonmoo/lambda_proc)
 * [AWS Lambda를 동시에 500개 이상 호출하기](https://devbull.xyz/aws-lambda-500-concurrency/)
 
+## Lambda javascript
+* [serverless 배포하기 (1) serverless-webpack 초급 · /usr/lib/libsora.so](https://if1live.github.io/posts/deploying-serverless-1-serverless-webpack-beginning/)
+
 ## Lambda Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
 * [How to Setup AWS Lambda in Scala without any external Library](https://edward-huang.com/aws/cloud/2019/11/28/how-to-setup-aws-lambda-in-scala-without-any-external-library/)
