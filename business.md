@@ -192,6 +192,7 @@ Business
 * [잘못된 성과 지표의 위험 – Andrew Ahn](https://www.andrewahn.co/product/setting-wrong-metrics/)
 * [조직 문화: 직원들을 수동적 존재로 만들 것인가, 자기주도적인 인재로 만들 것인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/226677)
 * [내가 일하고 싶은 회사 만들기](https://brunch.co.kr/@yoon10003/44) 컬쳐북
+* [나는 회사에서 '프로'와 일하고 싶다](https://brunch.co.kr/@1slide1message/112)
 * [상거래 진화의 역사…실크로드에서 O2O까지](http://www.bloter.net/archives/241981)
 * [MBA 여름 인턴을 하면서 배운 점들](http://ppss.kr/archives/59371)
 * [기숙사를 제공하는 스타트업: 기업 복지에 대하여](http://ppss.kr/archives/57926)
@@ -283,6 +284,8 @@ Business
 * [기준점](https://www.thestartupbible.com/2019/09/follow-your-own-star.html) 자존감에 관한 이야기
 * [How to onboard a new hire / 신규입사자 조직안착 과정](http://woowabros.github.io/experience/2019/10/11/developer-onboarding.html) 정확히는 인사에 관한 이야기이지만 참고할만 함
 * [인사제도도 유행을 탑니다 (다양성으로 수렴하는 인사제도 따라잡기) | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/hr-management/)
+* [구글의 아침은 자유가 시작된다](https://brunch.co.kr/@myungyiyoo/26)
+  * [커리어 노트 55 ‘내가 왜 이러는 걸까'에 대한 답을 찾으려면](https://blog.naver.com/junedec369/222444664272)
 * [**정산시스템팀**](https://woowahan.oopy.io/60a06399-3f95-4fec-a436-000ad6baff40) 배민의 개발에 대한 이야기지만 onboarding 문서 참고로도 좋음
 * [Making the Remote Onboarding a Success](https://engineering.zalando.com/posts/2021/04/making-the-remote-onboarding-a-success.html)
 * [Under-promise and over-deliver](https://www.thestartupbible.com/2019/10/under-promise-and-over-deliver.html) 일하는 자세로서 매우 동감하는 글. 제목이 모든 걸 알려준다
