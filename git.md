@@ -755,6 +755,9 @@ Git
 * [classroom github - Your course assignments on GitHub](https://classroom.github.com/)
 * [CloneGits - A tool to clone all of a user's GitHub repos to the local machine](https://github.com/jsnider3/CloneGits)
 * [codebeat - Get instant feedback on your code](https://codebeat.co/)
+* [CodeQL documentation](https://codeql.github.com/) 원하는 대로 쿼리문을 작성해서 코드의 취약점 등을 검사할 수 있는 도구
+  * [Introducing the CodeQL package manager (public beta) | GitHub Changelog](https://github.blog/changelog/2021-07-28-introducing-the-codeql-package-manager-public-beta/)
+    * GitHub에서 코드를 검사할 수 있는 CodeQL의 패키지 매니저가 퍼블릭 베타로 열려서 CodeQL 패키지를 사용하거나 직접 업로드 가능
 * [Copilot · Your AI pair programmer](https://copilot.github.com/)
   * 공개된 코드로 학습된 OpenAI의 Codex 모델을 이용해서 GitHub에서 AI와 페어 프로그래밍
   * 주석을 이해해서 코드를 작성해 주거나 반복적인 코드를 완성해 주거나 다른 코드를 제시
