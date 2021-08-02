@@ -53,6 +53,9 @@ Javascript
 * [자바스크립트와 V8 엔진의 메모리 관리 프로세스. Table of Contents | by Minjae Lee | 네이버 플레이스 개발 블로그 | Sep, 2020 | Medium](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1)
 * [Faster JavaScript calls · V8](https://v8.dev/blog/adaptor-frame)
 * [Chromium이 발표한 RenderingNG가 무엇인가? | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210713)
+  * Chrome에서 발표한 차세대 렌더링 아키텍처 RenderingNG, 크로스 브라우저 이슈를 최대한 없애고 안정적인 렌더링 성능을 구현하는 것이 목표
+  * web-platform-tests를 이용해서 수만 개의 테스트로 호환성 향상, Chromium, Edge, Firefox, Safari 개발자들이 함께 제작
+  * 렌더링 성능에서는 캐싱과 GPU 가속을 이용한 성능 격리를 구현해서 메인 스레드가 바쁘더라도 렌더링 속도는 유지 가능
 * [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 * [**프론트엔드 개발자라면 알고 있어야 할 브라우저의 동작 과정 - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2021/03/27/How-browsers-work.html)
 * [Chromium Composition과 Layer | Seokho’s blog](https://devsdk.github.io/ko/development/2021/03/29/blink-render-composition.html)
@@ -710,6 +713,9 @@ Javascript
   * [How array.prototype.map() works](https://medium.freecodecamp.org/how-array-prototype-map-works-b6b69379c3af)
   * [Array 메소드(push, pop 등) 알아보기](https://blog.naver.com/pjt3591oo/222210241412)
   * [Array를 반복문에서 사용하는 방법](https://blog.naver.com/pjt3591oo/222231590683)
+  * [Kent C. Dodds’ .filter() Trick Will Change How You Use JavaScript | by Dr. Derek Austin 🥳 | Coding at Dawn | Jun, 2021 | Medium](https://medium.com/coding-at-dawn/kent-c-dodds-filter-trick-will-change-how-you-use-javascript-87b5112f9f6d)
+    * 유명한 JavaScript 개발자인 Kent C. Dodds가 JavaScript의 배열에서 filter(Boolean)으로 배열에서 falsy 값을 제거하는 팁 설명
+    * 조건별로 배열에 넣는 작업을 하는 경우 유용한 팁
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
@@ -1405,6 +1411,10 @@ Javascript
   * [REACT와 ELECTRONJS로 데스크톱 앱 만들어보기 #1 프로젝트 세팅하기](https://www.fiveminutesdev.com/react%EC%99%80-electronjs%EB%A1%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85)
   * [REACT와 ELECTRONJS로 데스크톱 앱 만들어보기 #2 라우팅](https://www.fiveminutesdev.com/react%EC%99%80-electronjs%EB%A1%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-2-%EB%9D%BC%EC%9A%B0%ED%8C%85/)
   * [How to build a React based Electron app - paachu - Medium](https://medium.com/@impaachu/how-to-build-a-react-based-electron-app-d0f27413f17f)
+  * [WebView2 and Electron | Electron Blog](https://www.electronjs.org/blog/webview2)
+    * Microsoft의 WebView2와 Electron 차이점 정리
+    * 둘 다 웹 기술로 데스크톱 앱을 만드는 것이 목적이지만 Electron은 Chromium 기반 WebView2는 Edge 기반
+    * WebView2는 Edge와 DLL을 공유하고 Node.js를 불포함
 * [Elevator.js fixes those awkward "scroll to top" moments the old fashioned way](http://tholman.com/elevator.js/)
 * [ELI5: Flow - Static Type Checker for JavaScript](https://developers.facebook.com/blog/post/2020/12/14/eli5-flow-static-type-checker-javascript/)
 * [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
@@ -2605,6 +2615,7 @@ Javascript
   * [Git편](http://harbor.school/stories/data-visualization-1/)
   * [아무것도 모르고 React 시작하기](http://harbor.school/stories/data-visualization-2/)
   * [React 그놈.. (props vs state)](http://harbor.school/stories/data-visualization-3-props-state/)
+* [Props와 State - React에서 데이터를 다루는 주요 개념인 Props와 State가 무엇인지 알아보고, 사용하는 방법에 대해서 살펴봅시다](https://dev-yakuza.posstree.com/ko/react/props-state/)
 * [1. 리액트 설치하기](https://blog.naver.com/gi_balja/221224082297)
 * [Useful Custom Hooks for Tired React Devs | by Tom Norton | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/useful-custom-hooks-for-tired-react-devs-f2f602dc754f)
 * [How to build Chrome extensions with React + Parcel](https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f)
@@ -3665,6 +3676,7 @@ Javascript
 * [Building Strongly Typed REST Clients with TypeScript - YouTube](https://www.youtube.com/watch?v=aZ6nnGlfBG8)
 * [Lightning fast & simple Typescript Serverless builds - DEV Community](https://dev.to/aws-builders/lightning-fast-simple-typescript-serverless-builds-33ed)
 * [A TypeScript Express Starter App](https://morioh.com/p/8cd90da6e9c5)
+* [TypeScript Handbook 한글 번역본](https://vriz.notion.site/TypeScript-Handbook-45b1bc86f2ed4886b393a5586fcf2a31) 4.3.5를 기준 번역(+해석)본
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
