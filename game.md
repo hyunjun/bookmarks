@@ -50,6 +50,7 @@ Game
 * [호오 게임을 만드시겠다구요? 7 - 게임 기획하기 - YouTube](https://www.youtube.com/watch?v=ICiKSSgTfGA)
 * [호오 게임을 만드시겠다구요? 8 - 2D 캔버스 훑어보기 - YouTube](https://www.youtube.com/watch?v=mjQ8o_ZHEFM)
 * [모바일에서의 알파 블렌딩과 테스팅](https://chulin28ho.tistory.com/660)
+* [게임의 재미는 어디에서 오는가? - 자막 · Present](https://present.do/decks/61075e902bbbe81f6f83e4ad)
 
 # Board game
 * [ko.boardgamearena.com](https://ko.boardgamearena.com/)
