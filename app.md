@@ -1222,6 +1222,7 @@ App
   * [객체의 상태와 엔티티](https://brunch.co.kr/@graypool/96)
   * [소프트웨어 디자인 개선을 위한 비대면 협업](https://brunch.co.kr/@graypool/95)
   * [객체 상태도의 실전 활용](https://brunch.co.kr/@graypool/98)
+  * [복잡한 업무규칙 논의를 촉진하는 상태도](https://brunch.co.kr/@graypool/102)
   * [mindmap-diagram](https://plantuml.com/ko/mindmap-diagram)
   * [Salt (wireframe)](https://plantuml.com/ko/salt)
   * [wbs-diagram](https://plantuml.com/ko/wbs-diagram)
