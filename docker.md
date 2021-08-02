@@ -1211,6 +1211,9 @@ Docker
   * [Spring Boot 과 Docker (with jib)](https://medium.com/@gaemi/spring-boot-과-docker-with-jib-657d32a6b1f0)
   * [Jib 1.0.0 is GA—building Java Docker images has never been easier](https://cloud.google.com/blog/products/application-development/jib-1-0-0-is-ga-building-java-docker-images-has-never-been-easier)
   * [jib를 이용한 자바 앱 컨테이너화](https://brunch.co.kr/@alden/72)
+    * [jib를 이용한 자바 앱 컨테이너화](https://alden-kang.tistory.com/1)
+    * Java 애플리케이션을 Docker 이미지로 만들 때 빌드과정 등의 복잡함을 쉽게 해결할 수 있도록 Google에서 만든 jib를 이용해서 Java 애플리케이션으로 도커 이미지를 사용하는 방법을 설명
+    * Gradle로 jib를 설정해서 빌드부터 Docker 이미지 생성, 푸시까지 한 번에 되는 과정
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
 * [magicpak enables you to build minimal docker images without any bothersome preparation such as static linking](https://github.com/coord-e/magicpak)
@@ -1273,6 +1276,7 @@ Docker
   * [(a Primer) Part I](https://mesosphere.com/blog/networking-docker-containers/)
   * [Part II: Service Discovery for Traditional Apps and Microservices](https://mesosphere.com/blog/networking-docker-containers-part-ii-service-discovery-traditional-apps-microservices)
   * [Part III: Architectural Patterns for Service Registration, Service Discovery, and Load Balancing](https://mesosphere.com/blog/networking-docker-containers-part-iii-architectural-patterns-service-registration-service-discovery-load-balancing)
+* [OKKY - 도커컨테이너와 로컬DB연결시키기](https://okky.kr/article/650088)
 
 # Nomad
 * [Nomad, a cluster manager and scheduler designed for microservices and batch workloads](https://www.hashicorp.com/blog/nomad.html)
