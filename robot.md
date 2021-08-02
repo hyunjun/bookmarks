@@ -40,6 +40,8 @@ Robot
 * [3D 프린터 로봇 제어를 위한 텐서플로](http://blog.daum.net/kimgyunghyun/2529)
 * [강의 자료 - SpotMicro for G Camp](https://www.notion.so/SpotMicro-for-G-Camp-c541934a4bad4ad48d1e37ab94c10de8)
 * [Getting started in Robotics | Arthur Allshire](https://allshire.org/getting-started-robotics/)
+* [Continual Learning for Robotics(1)](https://ropiens.tistory.com/133?category=992370)
+* [Continual Learning for Robotics(2)](https://ropiens.tistory.com/143?category=992370)
 
 # Book
 * [추천! 로봇공학 / 기계학습 무료 교재(pdf) 15가지](http://t-robotics.blogspot.in/2015/01/pdf-15.html)
