@@ -73,6 +73,9 @@ Monitoring
 * datadog [Cloud Monitoring as a Service | Datadog](https://www.datadoghq.com/)
   * [데이터독(Datadog)이란? 클라우드 모니터링 서비스](https://www.44bits.io/ko/keyword/datadog)
   * [Datadog APM으로 내 프로젝트 모니터링 하기 | Recoding Life](https://jane096.github.io/project/apm-monitoring/)
+  * [Bringing reliability closer to you with Reliably and DataDog - DEV Community](https://dev.to/reliably/bringing-reliability-closer-to-you-with-reliably-and-datadog-2jbm)
+    * Reliably에서 만든 CLI를 이용해서 SLO를 측정하는 방법 설명
+    * 간단한 웹서버에서 일부는 오류가 발생하도록 작성하고 Datadog에 APM을 연동해 두고 reliably를 이용해서 Datadog의 매트릭을 가져와서 SLO 보고서를 만드는 방법 설명
 * Flamingo
   * [Big Data Platform--Flamingo v3.0 Demo](https://www.youtube.com/watch?v=VnDcS2tqaqU)
 * [froxlor Server Management Panel](http://froxlor.org/)
