@@ -79,6 +79,8 @@ Open Source
 * [라인의 풀타임 오픈소스 개발팀 이야기 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=QdRCe_IGGzI)
 * [오픈소스를 여행하는 히치하이커를 위한 안내서 · Present](https://present.do/decks/60bf97881903093a77d166ad)
 * [Patents in Open Source](https://google.github.io/opencasebook/patents/)
+* [처음으로 오픈소스에 기여해 본 이야기 | Lucas wiki](https://wiki.lucashan.space/essay/contribute-to-open-source/)
+  * GraphQL을 사용하면서 사용한 graphqurl에서 introspection query가 처리 안 되는 문제를 발견하고 이유를 찾다가 graphqurl의 헤더 문제임을 찾아내고 기여해서 수정한 과정
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
