@@ -143,6 +143,7 @@ Business
 * [피드백은 'A급 팀원'에게도 필요하다](https://brunch.co.kr/@1312capo/47)
 * [피드백, 효과적으로 하는 2가지 방법 | flex 공식 블로그](https://flex.team/blog/2021/04/27/better-feedback/)
 * [피드백에 멍들다 | 리더십 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/8_1/article_no/1322)
+* [Open Work를 향한 작은 노력들 : 조직의 작은 변화 만들기 – tech.kakao.com](https://tech.kakao.com/2021/07/05/openwork-cuddy/) 심리적 안정감을 높이고 점진적인 변화를 만들어 나가는 팀 문화 feedback
 * [**직무 노트 쓰기**](https://brunch.co.kr/@lunarshore/365)
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
 * [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
