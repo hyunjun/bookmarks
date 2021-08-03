@@ -254,6 +254,8 @@ Finance
 * [How to Create a Mean Reverting Trading Algorithm - YouTube](https://www.youtube.com/watch?v=0PfgqNYTl4Q)
 * [Algorithmic Trading Using Python - Full Course - YouTube](https://www.youtube.com/watch?v=xfzGZB4HhEE)
 * [삼성증권 퀀트모델링 A to Z](https://brunch.co.kr/@gauss92tgrd/23)
+* [1/2 ETF 전종목 브라우저의 네트워크 탭을 이해하면 코드 한 줄로 가능하다?! - YouTube](https://www.youtube.com/watch?v=-eVe2Dzj6lI)
+* [2/2 ETF 전종목 수집 JSON 타입도 판다스로?! - YouTube](https://www.youtube.com/watch?v=1ydH6ugjNOQ)
 * [binance-trader-c1](https://github.com/yanagi7393/binance-trader-c1)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
