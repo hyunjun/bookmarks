@@ -692,6 +692,7 @@ Business
 * [Product Management Top 10 Articles for the Past Year (v.2017)](https://medium.mybridge.co/product-management-top-10-articles-for-the-past-year-v-2017-7e1b2a0ba020)
 * [Product Management for Engineers](https://www.notion.so/Product-Management-for-Engineers-3bdc32513f434eccb1610dd158f0dbcc)
 * [좋은 프로덕트 팀과 나쁜 프로덕트 팀의 17가지 차이](https://brunch.co.kr/@ashashash/101)
+* [IT 직무 탐구: 프로덕트 매니저 vs 프로덕트 오너 (+그 외) | 요즘IT](https://yozm.wishket.com/magazine/detail/905/)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
