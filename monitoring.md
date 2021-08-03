@@ -82,6 +82,8 @@ Monitoring
 * [Funnel is a distributed monitoring system based on a lightweight streaming protocol](http://oncue.github.io/funnel/)
 * [glances: Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems](https://github.com/nicolargo/glances)
 * [GoAccess - Visual Web Log Analyzer](https://goaccess.io/)
+* [health: A simple and flexible health check library for Go](https://github.com/alexliesenfeld/health)
+  * 애플리케이션 가용성 확인을 위해 Go 언어로 만들어진 상태 확인 라이브러리. 클라우드 인프라에서 사용 가능, http.Handler 제공
 * [inspect - a collection of metrics gathering, analysis utilities for various subsystems of linux, mysql and postgres](https://github.com/square/inspect)
 * [installsheild](https://github.com/gyunseul9/installsheild)
   * 설치항목 - 웹서버: 아파치, 스크립트 언어: PHP, No-SQL: REDIS, No-SQL 클러스터: 루비, 데이터수집데몬: node.js,  REDIS 모니터링: RedisLive , 모니터링 데이터 수집: sqlite, 백업 및 감시 스케줄러: crontab
