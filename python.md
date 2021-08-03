@@ -4541,6 +4541,7 @@ Python
   * [PyCon KR 2019 Python Type Hinting and Static Type Checking](https://speakerdeck.com/blur/python-type-hinting-and-static-type-checking)
   * [Python Type Hints: Pros & Cons](https://www.youtube.com/watch?v=QS7m167SVXU)
   * [Release: Static type checker in Python](https://deepsource.io/blog/release-mypy)
+* mypyc [Welcome to mypyc documentation!](https://mypyc.readthedocs.io)
 * [PyAnnotate: Auto-generate PEP-484 annotations](https://github.com/dropbox/pyannotate)
 * [pydantic - Data validation and settings management using python 3.6 type hinting](https://pydantic-docs.helpmanual.io/)
   * [The Beginner’s Guide to Pydantic. A Python package to parse and validate… | by Ng Wai Foong | Better Programming | Medium](https://medium.com/better-programming/the-beginners-guide-to-pydantic-ba33b26cde89)
