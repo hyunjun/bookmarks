@@ -682,6 +682,7 @@ App
       * [Dan Taylor - Get Productive with Python in Visual Studio Code](https://www.youtube.com/watch?v=6YLMWU-5H9o)
       * [Python in Visual Studio Code – October 2018 Release](https://blogs.msdn.microsoft.com/pythonengineering/2018/11/08/python-in-visual-studio-code-october-2018-release) jupyter support
       * [Python in Visual Studio Code – October 2019 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-october-2019-release)
+      * [VSCode의 Jupyter Extension을 사용하여 간단하게 Python으로 데이터 시각화하기 : NHN Cloud Meetup](https://meetup.toast.com/posts/283) 데이터 통계 및 시각화
     * remote
       * [마이크로소프트 비주얼 스튜디오 코드, 원격 개발 기능 지원](https://www.44bits.io/ko/post/news--vs-code-now-supports-remote-development)
       * [Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
@@ -1223,6 +1224,7 @@ App
   * [소프트웨어 디자인 개선을 위한 비대면 협업](https://brunch.co.kr/@graypool/95)
   * [객체 상태도의 실전 활용](https://brunch.co.kr/@graypool/98)
   * [복잡한 업무규칙 논의를 촉진하는 상태도](https://brunch.co.kr/@graypool/102)
+  * [Git스러운 지식 정보의 개정(Revision)](https://brunch.co.kr/@graypool/110)
   * [mindmap-diagram](https://plantuml.com/ko/mindmap-diagram)
   * [Salt (wireframe)](https://plantuml.com/ko/salt)
   * [wbs-diagram](https://plantuml.com/ko/wbs-diagram)
@@ -1396,6 +1398,7 @@ App
 * [markdown-to-html](https://github.com/cwjohan/markdown-to-html)
 * [markdowntopdf.com](http://www.markdowntopdf.com/)
 * [marp - Markdown Presentation Ecosystem](https://marp.app/)
+* [milkdown: 🍼 Plugin driven WYSIWYG markdown editor](https://github.com/Saul-Mirone/milkdown)
 * mdjs [Introducing mdjs](https://medium.com/better-programming/introducing-mdjs-6bedba3d7c6f)
 * [Obsidian - A second brain, for you, forever](https://obsidian.md/)
 * [**prose.io**](http://prose.io) github
