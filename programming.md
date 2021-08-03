@@ -515,6 +515,14 @@ Programming
 * [애자일(agile)이란 무엇인가?](https://velog.io/@katanazero86/%EC%95%A0%EC%9E%90%EC%9D%BCagile%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
 * [CI/CD 도입기 1편 - 폭포수 모델과 애자일](https://velog.io/@sjhello/Jenkins%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-CICD-%EC%A0%81%EC%9A%A9)
 * [애자일을 대충 알고 있는 당신을 위하여](https://velog.io/@dell_mond/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%84-%EB%8C%80%EC%B6%A9-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%8A%94-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%9C%84%ED%95%98%EC%97%AC)
+* [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 1장 #1-1 | 요즘IT](https://yozm.wishket.com/magazine/detail/691/)
+* [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 1장 #1-2 | 요즘IT](https://yozm.wishket.com/magazine/detail/692/)
+* [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 1장 #1-3 | 요즘IT](https://yozm.wishket.com/magazine/detail/702/)
+* [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 1장 #1-4 | 요즘IT](https://yozm.wishket.com/magazine/detail/703/)
+* [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 2장 #2-1 | 요즘IT](https://yozm.wishket.com/magazine/detail/814/)
+* [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 2장 #2-2 | 요즘IT](https://yozm.wishket.com/magazine/detail/815/)
+* [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 2장 #2-3 | 요즘IT](https://yozm.wishket.com/magazine/detail/910/)
+* [우리회사는 왜 애자일 전환에 실패했을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/917/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
