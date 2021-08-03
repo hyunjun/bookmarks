@@ -38,7 +38,7 @@ Javascript
 * [Transitioning to modern JavaScript - YouTube](https://www.youtube.com/watch?v=cLxNdLK--yI)
 * [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg)
 * [Plan, Code, and Deploy a Startup in 2 Hours Full Stack JavaScript Tutorial](https://www.youtube.com/watch?v=lauywdXKEXI)
-* [JS Is Weird](https://jsisweird.com/)
+* [JS Is Weird](https://jsisweird.com/) JavaScript의 이상한 문법 25개 문제
 * [1주차-Trello 아키텍처 overview, javascript 기본 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=19530125)
 * [Modern JavaScript for Python Developers - YouTube](https://www.youtube.com/watch?v=jAbDjt0pens)
 * [Over 20 Resources to Advance Your JavaScript Skills | by Thomas Lombart | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/over-20-resources-to-advance-your-javascript-skills-1d5758ca1bf2)
@@ -50,7 +50,7 @@ Javascript
 * [V8의 히든 클래스 이야기](https://engineering.linecorp.com/ko/blog/v8-hidden-class)
 * [The V8 Engine and JavaScript Optimization Tips](https://alligator.io/js/v8-engine/)
 * [V8 JavaScript Engine 8.0 Reduces Heap by 40%, Adds Optional Chaining and Null Coalescing](https://www.infoq.com/news/2019/12/v8-8-0-heap-reduction/)
-* [자바스크립트와 V8 엔진의 메모리 관리 프로세스. Table of Contents | by Minjae Lee | 네이버 플레이스 개발 블로그 | Sep, 2020 | Medium](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1)
+* [자바스크립트와 V8 엔진의 메모리 관리 프로세스. Table of Contents | by Minjae Lee | 네이버 플레이스 개발 블로그 | Sep, 2020 | Medium](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1) OutOfMemory / memory leak 현상 이해
 * [Faster JavaScript calls · V8](https://v8.dev/blog/adaptor-frame)
 * [Chromium이 발표한 RenderingNG가 무엇인가? | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210713)
   * Chrome에서 발표한 차세대 렌더링 아키텍처 RenderingNG, 크로스 브라우저 이슈를 최대한 없애고 안정적인 렌더링 성능을 구현하는 것이 목표
@@ -1891,6 +1891,7 @@ Javascript
     * 이전에 yarn 1과 Lerna를 사용해서 모노 레포에서 변경사항이 있는 서비스만 찾아낼 수 있게 Lerna의 --since 옵션을 사용
     * Yarn Berry는 Lerna와 같이 사용 불가 + Lerna 유지보수가 잘 않됨
     * 모노 레포에서 특정 커밋 이후에 변경사항이 있는 워크스페이스만 찾아 명령어를 실행하는 since라는 플러그인 제작
+  * [node_modules로부터 우리를 구원해 줄 Yarn Berry](https://toss.tech/article/node-modules-and-yarn-berry)
 
 ## Library Internationalization i18n 국제화
 * [How to get started with internationalization in JavaScript](https://medium.freecodecamp.org/how-to-get-started-with-internationalization-in-javascript-c09a0d2cd834)
@@ -2918,6 +2919,9 @@ Javascript
 * [GitHub Actions으로 Prettier와 ESLint 사용하기 - React 프로젝트에 설정한 Prettier와 ESLint를 GitHub Actions를 사용하여 실행해 봅시다](https://dev-yakuza.posstree.com/ko/react/github-actions/prettier-eslint/)
 * [React's UI State Model vs Vanilla JavaScript DOM State — A Beginner's Introduction](https://arihantverma.com/posts/2021/07/17/react-ui-state-model-vs-vanilla-js/)
 * [Integrate a Stripe Payment with React - DEV Community](https://dev.to/hajarnasr/integrate-a-stripe-payment-with-react-1f9h)
+* [효율적인 프런트엔드 에러 핸들링 | JBEE.io](https://jbee.io/react/error-declarative-handling-0/)
+* [클라이언트의 사용자 중심 예외 처리 | JBEE.io](https://jbee.io/react/error-declarative-handling-2/) 프런트엔드의 에러를 사용자 중심으로 분류하고 에러 특징을 파악해 무엇을 고려해야 하는지 분석
+* [선언적으로 에러 상황 제어하기 | JBEE.io](https://jbee.io/react/error-declarative-handling-3/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -3118,6 +3122,7 @@ Javascript
 * [9 React Styled-Components UI Libraries for 2019 | by Jonathan Saring | Bits and Pieces](https://blog.bitsrc.io/9-react-styled-components-ui-libraries-for-2018-4e1a0bd3e179)
 * [21 React UI Component Libraries You Should Start Using from Today | by Amy J. Andrews | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/21-react-ui-component-libraries-you-should-start-using-from-today-6249758d188)
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
+* [arctext: 💿 UI component to draw curved text in circles](https://github.com/junhoyeo/arctext)
 * [Chakra UI | Design System built with React](https://chakra-ui.com/)
   * [Accessible and Beautiful Components with Chakra UI | by Malcolm Laing | Frontend Digest | Jun, 2020 | Medium](https://medium.com/frontend-digest/accessibie-and-beautiful-components-with-chakra-ui-bd37a2d72f5f)
 * Context API
