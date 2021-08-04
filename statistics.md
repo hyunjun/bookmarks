@@ -56,6 +56,7 @@ Statistics
 * [Understanding the t-distribution and its normal approximation](http://rpsychologist.com/d3/tdist/)
 * [Statistics for Hackers by Jake VanderPlas](https://speakerdeck.com/jakevdp/statistics-for-hackers)
 * [Frequentism and Bayesianism: A Python-driven Primer](http://arxiv.org/abs/1411.5018)
+* [베이지언 러닝 15 - 빈도주의와 베이지언 차이점 이해하기 - YouTube](https://www.youtube.com/watch?v=MPHMJRhRWq4)
 * [Probability, Mathematical Statistics, Stochastic Processes](http://www.math.uah.edu/stat/)
 * [A Simple Introduction to Complex Stochastic Processes](https://www.datasciencecentral.com/profiles/blogs/a-simple-introduction-to-complex-stochastic-processes)
 * [Probabilistic algorithms for fun and pseudorandom profit](http://www.slideshare.net/TylerTreat/probabilistic-algorithms-for-fun-and-pseudorandom-profit)
