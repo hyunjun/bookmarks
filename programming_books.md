@@ -279,6 +279,7 @@ Programming Books
   * ★★★★☆
 * (NOT YET) [《가상 면접 사례로 배우는 대규모 시스템 설계 기초》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/07/22/%E3%80%8A%EA%B0%80%EC%83%81-%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EA%B8%B0%EC%B4%88/)
   * [독서광 대규모 시스템 설계 기초 - YouTube](https://www.youtube.com/watch?v=KRIY7Y_8AKY)
+  * [독서광 가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://jhrogue.blogspot.com/2021/08/blog-post.html)
 
 # C
 
@@ -1597,6 +1598,7 @@ Programming Books
 * (NOT YET) [파이썬 비동기 라이브러리 Asyncio (케일럽 해팅 著, 동동구 譯, 2021)](https://jehyunlee.tistory.com/20)
 * (NOT YET) [파이썬으로 살펴보는 아키텍처 패턴](https://jybaek.tistory.com/920)
 * (NOT YET) [파이썬 스킬 업 (브라이언 오버랜드, 존 베넷 著, 조인석 譯, 2021)](https://jehyunlee.tistory.com/23)
+* (NOT YET) [지루한 일을 해치우자, 《뚝딱뚝딱 파이썬 자동화》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/07/16/%EC%A7%80%EB%A3%A8%ED%95%9C-%EC%9D%BC%EC%9D%84-%ED%95%B4%EC%B9%98%EC%9A%B0%EC%9E%90-%E3%80%8A%EB%9A%9D%EB%94%B1%EB%9A%9D%EB%94%B1-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%8F%99%ED%99%94%E3%80%8B/)
 
 ## Python Crawler
 * [왕초보! 파이썬 배워 크롤러 DIY 하다!](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=79657889)
