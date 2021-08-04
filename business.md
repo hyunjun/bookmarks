@@ -377,6 +377,10 @@ Business
 * [홍석환의 인사 잘하는 남자 이팀장의 잘못된 목표관리](https://www.hankyung.com/thepen/article/105908) 객관적인 지표를 통한 평가 등
 * [성과 리뷰 미팅이 Show로 끝나는 이유 - 경영전문블로그 Innovator](http://www.innovator.or.kr/2021/07/show.html)
 * [Your “high bar” is wrecking your team](http://brandonhays.com/blog/2018/06/19/your-high-bar-is-wrecking-your-team/)
+* [분노만 남는 인사평가…'목표·기준'이 없다 | 컴퍼니 타임스의 생생한 인터뷰 확인하기, IT/웹/통신 0.0 평점 | 잡플래닛](https://www.jobplanet.co.kr/contents/news-1480)
+* [우리회사,구글 따라해도 구글처럼 안되는 이유 | 컴퍼니 타임스의 생생한 인터뷰 확인하기, IT/웹/통신 0.0 평점 | 잡플래닛](https://www.jobplanet.co.kr/contents/news-1481)
+* [스타트업이 알아야 할 성장의 방법 | 컴퍼니 타임스의 생생한 인터뷰 확인하기, IT/웹/통신 0.0 평점 | 잡플래닛](https://www.jobplanet.co.kr/contents/news-1482)
+* ["3년 치 이력서를 미리 썼더니 마법이 일어났다."(f. 황성현 대표) - T Times](http://www.ttimes.co.kr/view.html?no=2021072715587727215&RN)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
