@@ -642,6 +642,7 @@ Programming
 * [빠르게 훑어보는 리디페이 백엔드 개발기](https://www.ridicorp.com/slides/skimming-ridi-pay-backend/) payment까지 포함한 source 공개
 * [빠르게 훑어보는 리디페이 백엔드 개발기](https://speakerdeck.com/ridi/bbareuge-hulteoboneun-ridipei-baegendeu-gaebalgi)
 * [**Antman 프로젝트 개발기**](https://engineering.linecorp.com/ko/blog/antman-project-development-story/)
+* [카트 개발 연대기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/my-cart-development-history/)
 * [ODC를 구축한 기술 - Serverless, SPA, AWS Lambda Edge](https://blog.roto.codes/odc-tech-stack-aws-lambda-edge/)
 * [ODC를 구축한 기술](https://blog.roto.codes/odc-tech-stack/) frontend
 * [Twitter는 어떻게 1초에 3,000개의 이미지를 처리하고 있나?](http://www.mimul.com/pebble/default/2016/10/12/1476262525827.html)
