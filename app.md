@@ -1225,6 +1225,7 @@ App
   * [객체 상태도의 실전 활용](https://brunch.co.kr/@graypool/98)
   * [복잡한 업무규칙 논의를 촉진하는 상태도](https://brunch.co.kr/@graypool/102)
   * [Git스러운 지식 정보의 개정(Revision)](https://brunch.co.kr/@graypool/110)
+  * [기부상태 UL로 만들어보기](https://brunch.co.kr/@graypool/118)
   * [mindmap-diagram](https://plantuml.com/ko/mindmap-diagram)
   * [Salt (wireframe)](https://plantuml.com/ko/salt)
   * [wbs-diagram](https://plantuml.com/ko/wbs-diagram)
