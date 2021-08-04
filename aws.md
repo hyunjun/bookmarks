@@ -427,6 +427,7 @@ AWS
 * [AWS 기반 추천 시스템 아키텍처](https://www.joinc.co.kr/w/man/12/aws/scenario/recommendation)
 * [**금융 IT 그리고 클라우드**](https://www.joinc.co.kr/w/man/12/finance/ITandFinance)
 * [AWS Proton - 소규모 회사를 위한 서버리스 배포 서비스 :: #5분클라우드데모 - YouTube](https://www.youtube.com/watch?v=5q7B9bu0dsU)
+* [Amazon Pinpoint로 다채널 마케팅 커뮤니케이션 서비스 하기 | by 김현진 | Cloud Villains | Jul, 2021 | Medium](https://medium.com/ctc-mzc/amazon-pinpoint-%EB%A1%9C-%EB%8B%A4%EC%B1%84%EB%84%90-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%95%98%EA%B8%B0-d3f54d262f74)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
