@@ -59,6 +59,7 @@ House
 * [묵시적 갱신](https://blog.naver.com/cy4028/221146795130)
 * [집 계약할 때 알아야 하는 서류 4총사](http://move.realestate.daum.net/tipview.asp?idx=46)
 * [전세 · 월세계약서 나에게 유리하게 쓰는 TIP 4](https://www.youtube.com/watch?v=e8TFgcXc5vc)
+* [전세 사기를 피하는 3가지 방법](http://moneyman.kr/archives/7872)
 * ["집에 비가 새요"..집주인 vs 세입자, 누구 책임일까](http://v.media.daum.net/v/20180712051510817)
 * [**부동산 시장의 신호와 소음**](https://brunch.co.kr/@charlieoppa86/33)
 * [베란다·발코니 차이 모르고 집샀다가 '이행강제금 폭탄'](https://news.v.daum.net/v/20181023040105309)
