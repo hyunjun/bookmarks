@@ -253,6 +253,7 @@ Vision
 * [How To Become A Computer Vision Engineer In 2021 | by Richmond Alake | Jan, 2021 | Towards Data Science](https://towardsdatascience.com/how-to-become-a-computer-vision-engineer-in-2021-c563545d4c9a)
 * [LINE AR 렌더링 엔진 개발기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-ar-rendering-engine-yuki-elsa/)
 * [컴퓨터 비전 데이터에 대한 모든 것｜슈퍼브에이아이 Blog](https://www.superb-ai.com/ko-blog/everything-about-computer-vision-data)
+* [Generative Adversarial Networks를 이용한 Nickface 개발 – tech.kakao.com](https://tech.kakao.com/2021/08/04/nickface/)
 
 # Book
 * [더북(TheBook): Visual C++ 영상 처리 프로그래밍](https://thebook.io/006796/) 1~11장만
