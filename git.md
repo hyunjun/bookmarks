@@ -815,6 +815,8 @@ Git
 * [github-auto-locker: Automatically lock old, closed GitHub issues](https://github.com/presidentbeef/github-auto-locker)
 * [GitHub Awesome: Browse Every Awesome List on GitHub](https://app.polymersearch.com/discover/github-awesome)
 * [GitHub Hovercard - Quick user hovercard for GitHub](https://github.com/Justineo/github-hovercard)
+* [github-ko-ext: 깃헙 한글화 확장 프로그램](https://github.com/hatemogi/github-ko-ext)
+  * [GitHub 한글화 실험 프로젝트. “개발자가 자주 쓰는 GitHub 웹사이트를 한글화 하면 친숙해서 좋지… | by 김대현 | HappyProgrammer | Medium](https://medium.com/happyprogrammer-in-jeju/github-%ED%95%9C%EA%B8%80%ED%99%94-%EC%8B%A4%ED%97%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-5b9e040d1d75)
 * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
 * [github.surf](https://github.surf/)
   * [Github.surf를 소개합니다! — 코드를 서핑하기 가장 빠르고 쿨한 방법 (CLI, Extension 지원) | by softmarshmallow | bridgedxyz | Feb, 2021 | Medium](https://medium.com/bridgedxyz/ko-%EF%B8%8F-github-surf%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%84%9C%ED%95%91%ED%95%98%EA%B8%B0-%EA%B0%80%EC%9E%A5-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%EC%BF%A8%ED%95%9C-%EB%B0%A9%EB%B2%95-cli-extension-%EC%A7%80%EC%9B%90-65e6a9a07bd5)
