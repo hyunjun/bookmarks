@@ -128,6 +128,8 @@ Lisp
 * [klisp is an implementation of the Kernel Programming Language](http://klisp.org/)
 * [LFE, Lisp Flavoured Erlang, is a lisp syntax front-end to the Erlang compiler. Code produced with it is compatible with "normal" Erlang code. An LFE evaluator and shell is also included](https://github.com/rvirding/lfe)
 * [Lucerne - A web framework for Common Lisp](http://eudoxia.me/lucerne/)
+* [nyxt: Nyxt - the Internet on your terms](https://github.com/atlas-engineer/nyxt)
+  * [Next, the Programmable Web Browser (aka alternative to Chrome and Firefox) - YouTube](https://www.youtube.com/watch?v=gv0Q2u2hGgU)
 * [Option 9: A Shoot'em Up Miniature Video Game](http://pages.cs.wisc.edu/~psilord/lisp-public/option-9.html)
 
 # Elisp
