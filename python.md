@@ -4515,6 +4515,7 @@ Python
 * [Static Typing in Python. Conducting Type Checking with Ease | by Eden Au | Towards Data Science](https://towardsdatascience.com/static-typing-in-python-55aa6dfe61b4)
 * [You Should Start Using Type Annotations in Python | by Tivadar Danka | Towards Data Science](https://towardsdatascience.com/python-type-annotations-and-why-you-should-use-them-6f647c6b4e9c)
 * [Generics/templates in python? - Stack Overflow](https://stackoverflow.com/questions/6725868/generics-templates-in-python)
+* [No, not typing. Types. - YouTube](https://www.youtube.com/watch?v=3A0y-ksmGgI)
 * [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
 * [LibCST - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree https://libcst.readthedocs.io ](https://github.com/Instagram/LibCST)
   * [Static Analysis at Scale: An Instagram Story](https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c)
