@@ -145,6 +145,7 @@ Business
 * [피드백, 효과적으로 하는 2가지 방법 | flex 공식 블로그](https://flex.team/blog/2021/04/27/better-feedback/)
 * [피드백에 멍들다 | 리더십 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/8_1/article_no/1322)
 * [Open Work를 향한 작은 노력들 : 조직의 작은 변화 만들기 – tech.kakao.com](https://tech.kakao.com/2021/07/05/openwork-cuddy/) 심리적 안정감을 높이고 점진적인 변화를 만들어 나가는 팀 문화 feedback
+* [기분 상하지 않게 협업하는 피드백 방법 ‘SBIT’ (f. 황성현 대표) - YouTube](https://www.youtube.com/watch?v=HtC9APOIvkw)
 * [**직무 노트 쓰기**](https://brunch.co.kr/@lunarshore/365)
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
 * [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
@@ -517,6 +518,7 @@ Business
 * [첼시가 스탬포드브릿지 전투에서 얻은 것](http://v.sports.media.daum.net/v/20171107031234116) 안토니오 콘테
 * [어떻게 부하를 육성할 것인가](http://1boon.kakao.com/ppss/59c0f264ed94d20001845306) 조 지라디, 알렉스 퍼거슨, ...
 * [또 이직 성공! 무야호~~ 【옐카3】 131회 - YouTube](https://www.youtube.com/watch?v=grq1hctIyyo) 무리뉴 거래적 리더십. 상황이 좋을 땐 괜찮으나 안 좋을 땐 최악
+* [배구선수 안 해본 감독…여자배구 4강 이끈 ‘전술 명장’ : 올림픽 : 스포츠 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/sports/sportstemp/1006482.html) 라바리니
 * [신뢰와 좋은 리더의 조건](http://www.venturesquare.net/754190)
 * [리더에게 필요한 심리적 안정감](https://brunch.co.kr/@younghakjang/40)
 * [리더십을 잃는 쉽고 빠른 방법](https://brunch.co.kr/@younghakjang/48)
