@@ -87,6 +87,7 @@ Writing
 * [이코노미스트에게 배운 글쓰기 비법 | GeekNews](https://news.hada.io/topic?id=4092)
   * [Writing tools I learned from The Economist - Built By Words](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the)
 * [기본만 생각하는 글쓰기 - Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vTCDVh9kL49D6I0sftVJAD-ph6p8dqeqCyIcgC-e3fi7EMUAvTMCov_dKY5sHqWJ72GA4h1SdbcLRkP/pub?slide=id.p)
+* [내가 전자책부터 쓴 이유 + 실행 방법 - 업플라이 #Upfly](https://www.upfly.me/blog/why-ebook-is-good-and-how-to-publish-one-yourself)
 
 # Book
 * [더북(TheBook): 스타일과 목적을 살리는 웹 글쓰기](https://thebook.io/006745/) 1~4장만
