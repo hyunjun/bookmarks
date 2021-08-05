@@ -1246,6 +1246,7 @@ Scala
     * [Programs as Values, Part III: Explicit Control Flow](http://systemfw.org/posts/programs-as-values-III.html) cats.effetcs.IO
     * [herding cats — Effect system](https://eed3si9n.com/herding-cats/effect-system.html)
     * [Supervisor | Background processing in functional Scala #3 - YouTube](https://www.youtube.com/watch?v=-zr1cCWf4iI)
+    * [The Cats Effect 3 Course for Scala Developers | Rock the JVM](https://rockthejvm.com/p/cats-effect)
   * Cats MTL
     * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
     * [Ep 14: Monad transformers using the Cats MTL library - YouTube](https://www.youtube.com/watch?v=aT6PNjqQLs8)
