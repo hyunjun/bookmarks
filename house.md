@@ -17,6 +17,7 @@ House
 * [도구 하나 없이…정글에서 집 만드는 법](http://techholic.co.kr/archives/40372)
 * [주택임대차 확정일자 온라인으로 손쉽게 받는다](http://www.huffingtonpost.kr/2015/09/13/story_n_8128570.html)
 * [알기 어려운 부동산법.. 전입신고·확정일자의 차이는](https://news.v.daum.net/v/20181102130216733)
+* [매거진 | 내 전세금을 지키려면? 대항력과 우선변제권의 발생 시점](https://www.goodchobo.com/magazine/MZTY/389) 확정일자
 * [안전하게 내 전세금 지키는 법](http://realestate.daum.net/news/detail/main/20180224080055530)
 * [주택 임차보증금 제때 돌려주지 않을 때](https://blog.naver.com/misona777/220720026315)
   * [내용증명 보내기](http://slownews.kr/46462)
@@ -28,6 +29,7 @@ House
 * [깡통전세 공포, 전세보증금 안돌려주는 집주인 대처법](http://board.realestate.daum.net/gaia/do/estate/power/read?bbsId=power&articleId=2048)
 * [전셋값 하락하는데.."집주인이 보증금을 안줘요"](http://realestate.daum.net/news/detail/main/20181102040003773)
 * [전세보증보험 들어도 전세사기를 당하는 이유는? 국가때문](https://brunch.co.kr/@readme999/241)
+* [매거진 | 전세보증금 반환 보증 보험](https://www.goodchobo.com/magazine/MZTY/269)
 * [전세의 종말 (상)](https://brunch.co.kr/@zip/28)
 * [전세의 종말 (하)](https://brunch.co.kr/@zip/30)
 * [전세 만기 됐는데 집주인이 전세금을 안 주면 어떻게 해야 하나요?](https://www.youtube.com/watch?v=BTVLl_k_zSE)
@@ -98,6 +100,7 @@ House
   * 전세대비 저평가지수, 처분가능소득 vs 매수, KB부동산지수 vs 물가지수 누적증감률, 물가대비 저평가 index, 주택구매력지수(HAI) vs 매매, GDP대비 시가총액, 시가총액 / 국민순자산
 * [기사 - 생중계 인알못의 인테리어 턴키 시공기1 : 서울을 떠나며](https://www.ddanzi.com/ddanziNews/671587897)
 * [보푸라기 아랫집 누수사고 '일배책'으로 보상받자](https://news.v.daum.net/v/20210731100505549) 일상생활배상책임보험
+* [매거진 | 보증금을 지키는 방법, 전세권 설정](https://www.goodchobo.com/magazine/MZTY/529)
 
 # Library
 * [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)
