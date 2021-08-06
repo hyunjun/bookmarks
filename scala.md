@@ -316,6 +316,7 @@ Scala
 * [Our Scala Journey by Girish Kolanthra (Capital One) - YouTube](https://www.youtube.com/watch?v=agi-dFh_vEg)
 * [Anomaly / outlier detection using isolation forest in Scala | by Kristof Slechten | Apr, 2021 | Medium](https://kristofsl.medium.com/anomaly-outlier-detection-using-isolation-forest-in-scala-9f5f4d6edff9)
 * [Ruminations on Learning Scala – Scala for Cybersecurity](https://www.cyberscala.org/ruminations-on-learning-scala/)
+* [#GitHub #Copilot for #Scala - Does it work? - YouTube](https://www.youtube.com/watch?v=hYzJNCdoh-Y)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1785,6 +1786,7 @@ Scala
 * [현프 3-2 스칼라 패키지 관리자 sbt 고찰 : 클리앙](https://www.clien.net/service/board/cm_app/13709851)
 * [Should you learn #Scala2 or #Scala3 in 2021? - YouTube](https://www.youtube.com/watch?v=GzVu5UiUFEk)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=eb7eaOMlwGs) scala.jfro.io scala3
+* [sudori part 2 | eed3si9n](https://eed3si9n.com/sudori-part2)
 * [maven2sbt | maven2sbt](https://maven2sbt.kevinly.dev)
   * [#1 게릴라 방송 (2017-04-03)](https://www.youtube.com/watch?v=oaQ71Fm3q0U)
   * [#2 게릴라 방송 (2017-04-04)](https://www.youtube.com/watch?v=QjAOmX4Sj_4)
