@@ -547,6 +547,7 @@ Java
 * [특정 포트 Process 종료하기](https://jojoldu.tistory.com/563)
 * [10분 테코톡 🍟 웨지의 인텔리제이 디버깅 - YouTube](https://www.youtube.com/watch?v=gkutTlwi70s)
 * [JetBrains Productivity Day 4부 패널토크 온/오프라인 인플루언서와 함께하는 IntelliJ IDEA와 생산성에 대한 이야기 - YouTube](https://www.youtube.com/watch?v=FCa4bTUowTY)
+* [IntelliJ & Webstorm import시 double quotes 대신에 single quotes 기본값으로 사용하기](https://jojoldu.tistory.com/589)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
@@ -844,6 +845,7 @@ Java
 * [**Java HotSpot VM G1GC**](https://johngrib.github.io/wiki/java-g1gc/)
 * [Java 의 GC는 어떻게 동작하나?](https://mirinae312.github.io/develop/2018/06/04/jvm_gc.html)
 * [G1 GC 적용과 JVM Upgrade](https://brunch.co.kr/@alden/45)
+* [영상 : G1 GC 써볼까? :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/try-g1-gc)
 * [java: 도달 가능한 객체가 무엇일까요](https://codingdog.tistory.com/entry/java-%EB%8F%84%EB%8B%AC-%EA%B0%80%EB%8A%A5%ED%95%9C-%EA%B0%9D%EC%B2%B4%EA%B0%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94)
 * [메모리릭: gc가 쓰레기는 잘 수거하는데 무슨 문제라도 있나요](https://codingdog.tistory.com/entry/%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A6%AD-gc%EA%B0%80-%EC%93%B0%EB%A0%88%EA%B8%B0%EB%8A%94-%EC%9E%98-%EC%88%98%EA%B1%B0%ED%95%98%EB%8A%94%EB%8D%B0-%EB%AC%B4%EC%8A%A8-%EB%AC%B8%EC%A0%9C%EB%9D%BC%EB%8F%84-%EC%9E%88%EB%82%98%EC%9A%94)
 * [Why we chose Java for our High-Frequency Trading application | by Jad Sarmo | Oct, 2020 | Medium](https://medium.com/@jadsarmo/why-we-chose-java-for-our-high-frequency-trading-application-600f7c04da94) JIT
@@ -970,6 +972,7 @@ Java
   * [The Problem with Gradle](https://www.bruceeckel.com/2021/01/02/the-problem-with-gradle/)
   * [message.properties → \*.json 변환하여 프론트 프로젝트에 넣기. (gradle) :: 삶의여행](https://life-journey.tistory.com/42)
   * [🐘스프링 부트 Gradle 사용하기 - YouTube](https://www.youtube.com/watch?v=YFoTFJQ3pZo)
+  * [빌드 시스템, Gradle을 사용해 보자 : 네이버 블로그](https://blog.naver.com/ndskr/222459031744)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * [hwplib: hwp library for java](https://github.com/neolord0/hwplib)
 * [Immutables 2.0 - We use immutable objects all the time. We created Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most full-featured and mature tool in this field!](http://immutables.github.io/)
