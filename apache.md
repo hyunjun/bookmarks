@@ -341,6 +341,7 @@ Apache
 # Kafka
 * [Kafka](http://kafka.apache.org/)
 * [kafka-tutorials.confluent.io](https://kafka-tutorials.confluent.io/)
+* [Confluent Developer: Your Apache Kafka® Journey begins here](https://developer.confluent.io/)
 * [Docker Quick Start](https://docs.confluent.io/current/installation/docker/docs/quickstart.html)
 * [practice - Kafka on Python](https://hyunjun.github.io/kafka-on-python/)
   * [Kafka Python and Google Analytics](http://www.admintome.com/blog/kafka-python-and-google-analytics/)
