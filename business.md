@@ -372,6 +372,7 @@ Business
 * [(기업설문) 어떤 개발자를 구하시나요? – Place Of 42Seoul Story](https://42place.innovationacademy.kr/archives/6884)
 * [수습 기간은 피드백 미팅에 달려있다](https://brunch.co.kr/@kaytee/11)
 * [미래 조직의 인재상 (앞으로 기업에서는 어떤 사람을 채용해야 할까?](https://blog.naver.com/hs_group/222438548992)
+* [IT 인재가 넝쿨째 모인다?··· CIO들이 전하는 ‘인복’의 비결 - CIO Korea](https://www.ciokorea.com/news/202879)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
@@ -757,6 +758,7 @@ Business
 * [스타트업 3년 사용기](http://curioe.com/10)
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
 * [싸우지 않고 의사 결정을 하는 방법](https://brunch.co.kr/@svillustrated/78) 모든 옵션 작성. 데이터에 기반해 입장 정리. 각자 입장에 기반해 변증법을 이용해 토론. 동의하지 않아도 합의대로 이행
+* [Open Decision-Making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
 * [(30) 스타트업 시대의 끝, 프로젝트의 시대의 등장](https://brunch.co.kr/@myong/43)
 * [스타트업 필독서 "서비스 디자인 씽킹"](https://brunch.co.kr/@insuk/34)
 * [5년만에 7배 성장한 글로벌 테크IPO](https://estimastory.com/2019/04/13/techipo/) 2018 Top tech IPO 10개; 중국 5, 미국 3, 스웨덴(Spotify), 네덜란드(Adyen)
