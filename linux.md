@@ -403,6 +403,8 @@ Linux
 * [Linux / UNIX List Just Directories Or Directory Names - nixCraft](https://www.cyberciti.biz/faq/linux-list-just-directories-or-directory-names/) `ls -d */` `find . -type d -ls` `find . -d 1 -type d`
 * [modern-unix: A collection of modern/faster/saner alternatives to common unix commands](https://github.com/ibraheemdev/modern-unix#----bat--)
   * bat exa lsd delta dust duf broot fd ripgrep ag fzf mcfly choose jq sd cheat tldr bottom glances gtop hyperfine gping procs httpie curlie xh zoxide dog
+* [6 Command Line Tools for Productive Programmers - Earthly Blog](https://earthly.dev/blog/command-line-tools/) broot, Funky, Fuzzy Finder (FZF), McFly, Better CD, GitUpdate, JQ, mitmproxy, Pandoc, PSTree, Earthly linting prose
+* [Efficient File Copying On Linux](https://eklitzke.org/efficient-file-copying-on-linux)
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
@@ -605,6 +607,9 @@ Linux
   * [Play with Netcat in Ubuntu](https://www.unixmen.com/play-with-netcat-in-ubuntu/)
   * [네트워크 해킹계의 맥가이버칼이 있다? netcat (넷캣) 1편](https://www.youtube.com/watch?v=B1z8bW7_s1A)
   * [**Streamhut - stream your terminal Share your terminal in real-time with anyone — without installing anything**](https://streamhut.io/)
+    * [Streamhut - Terminal을 스트리밍 하기 | GeekNews](https://news.hada.io/topic?id=2206)
+  * [TStream - Streaming from terminal](https://www.tstream.club/)
+    * [TStream - 자신의 터미널을 라이브 스트리밍 | GeekNews](https://news.hada.io/topic?id=4727)
 * nm
   * [How do I list the symbols in a .so file](http://stackoverflow.com/questions/34732/how-do-i-list-the-symbols-in-a-so-file)
 * nmap
@@ -939,6 +944,8 @@ Linux
 * [20 productivity tools for the Linux terminal](https://opensource.com/article/20/6/productivity-tools-linux-terminal)
 * [Linux Terminal Tools](https://ketancmaheshwari.github.io/pdfs/LPT_LISA.pdf) [pdf](pdfs/LPT_LISA.pdf)
 * [4 Best Terminal Browsers for Linux Command Line](https://itsfoss.com/terminal-web-browsers/) W3M, Lynx, Links2, eLinks
+* [Top 7 terminal emulators for Linux | Opensource.com](https://opensource.com/life/17/10/top-terminal-emulators)
+  * GNOME terminal, Guake, guake, Konsole, konsolee, Terminator, Tilda, Xterm, Yakuake
 * [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
 * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
 * [alacritty - A cross-platform, GPU-accelerated terminal emulator](https://github.com/alacritty/alacritty)
@@ -965,9 +972,11 @@ Linux
 * [FireHOL(firewall) and FireQOS(traffic shaping)](http://firehol.org/)
 * [fuck - thefuck: Magnificent app which corrects your previous console command](https://github.com/nvbn/thefuck)
 * [fzf](https://github.com/junegunn/fzf)
-  * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
   * [fzf 좋으다](https://engineering.huiseoul.com/fzf-%EC%A2%8B%EC%9C%BC%EB%8B%A4-76fa97578794)
   * [Why you should be using fzf, the command line fuzzy finder](https://medium.freecodecamp.org/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff)
+  * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
+  * [fzf-for-js: Do fuzzy matching using FZF algorithm in JavaScript](https://github.com/ajitid/fzf-for-js)
+    * [FZF for JavaScript - 브라우저에서도 퍼지 검색을 | GeekNews](https://news.hada.io/topic?id=4695)
 * [hello — helloSystem experimental documentation](https://hellosystem.github.io/docs/)
 * htop [htop explained](https://peteris.rocks/blog/htop/)
 * [i3 - improved tiling wm](https://i3wm.org/)
@@ -1069,6 +1078,7 @@ Linux
 * [Beej's Guide to Network Programming Using Internet Sockets](http://beej.us/guide/bgnet/)
   * [html](http://beej.us/guide/bgnet/output/html/multipage/index.html)
 * [데이터 고속전송 가이드](https://wiki.kreonet.net/faster-data)
+* [Weeknotes: Fun with Unix domain sockets](https://simonwillison.net/2021/Jul/13/unix-domain-sockets/)
 
 # Shell
 * [Bash Shortcuts Gem](http://zwischenzugs.tk/index.php/2015/07/01/bash-shortcuts-gem/)
