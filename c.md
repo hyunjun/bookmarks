@@ -170,6 +170,7 @@ C
 * [함수의 극한 구하는 프로그램 만들기(C언어) | 수성비 전자방](https://toopyo.tistory.com/entry/limitfx)
 * [Why I still like C and strongly dislike C++ « Kostya's Boring Codec World](https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/)
 * [My toy renderer, part 1: Keep it simple](https://momentsingraphics.de/ToyRenderer1KeepItSimple.html)
+* [Learning that you can use unions in C for grouping things into namespaces](https://utcc.utoronto.ca/~cks/space/blog/programming/CUnionsForNamespaces)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -503,7 +504,9 @@ C
   * [C string handling@wikipedia](https://en.wikipedia.org/wiki/C_string_handling)
   * example
     * [tokenization of 1 & 2 byte space mixed string](https://github.com/hyunjun/practice/tree/master/c/test_2byte_space)
-  * stpcpy [What's the difference between strcpy and stpcpy?](http://stackoverflow.com/questions/5826773/whats-the-difference-between-strcpy-and-stpcpy)
+  * stpcpy
+    * [What's the difference between strcpy and stpcpy?](http://stackoverflow.com/questions/5826773/whats-the-difference-between-strcpy-and-stpcpy)
+    * [strcpy: a niche function you don't need](https://nullprogram.com/blog/2021/07/30/)
   * strcspn [string-indexof-function-in-c](http://stackoverflow.com/questions/4824/string-indexof-function-in-c)
   * strscpy [strscpy() and the hazards of improved interfaces](https://lwn.net/Articles/659214/)
   * wide char string
