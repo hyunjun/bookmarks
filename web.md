@@ -173,6 +173,7 @@ Web
 * [First-Party & Third-Party Cookies: What’s the Difference? - Clearcode Blog](https://clearcode.cc/blog/difference-between-first-party-third-party-cookies/)
 * [A beginner's guide to cookies — Quartz Weekly Obsession — Quartz](https://qz.com/emails/quartz-obsession/2015806/)
 * [사라지는 쿠키, 디지털 광고를 위한 차세대 ‘추적’ 기술은 무엇? - ITWorld Korea](http://www.itworld.co.kr/news/161700)
+* [The Cookieless World - 디지털 마케팅의 새 시대를 위한 가이드 | GeekNews](https://news.hada.io/topic?id=4761)
 * [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
 * [번역 What Is the Difference Between a URI, a URL and a URN?](https://www.codeameba.com/2019/08/18/uri-url-urn/)
 * [Custom URI Scheme 만들기](https://nsinc.tistory.com/77)
@@ -211,6 +212,7 @@ Web
 * [Under 1px line](https://hokeydokey.tistory.com/156)
 * [LINE에서 하루 만에 정적 웹 페이지 개발해서 배포하는 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/how-to-quickly-develop-static-pages-in-line/)
 * [All Programming is Web Programming](https://blog.codinghorror.com/all-programming-is-web-programming/) 기술 이야기는 아니지만 맞는 말이며 참고할만한 말
+* [MS Edge, Super Duper Secure Mode 실험 | GeekNews](https://news.hada.io/topic?id=4771)
 
 # Apache
 * installation
@@ -707,6 +709,7 @@ Web
 * [The Alternative to Web Scraping. The “lazy” programmer’s guide to… | by Doug Guthrie | Towards Data Science](https://towardsdatascience.com/the-alternative-to-web-scraping-8d530ae705ca)
 * [5 Smooth Python Web-Frameworks For The Modern Developer | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/5-smooth-python-web-frameworks-for-the-modern-developer-47db692dfd52) FastAPI, Tornado, Pyramid, Quart, BlackSheep
 * [REST API 개발로 알아보는 WSGI, ASGI](https://blog.neonkid.xyz/249) uvicorn
+* [Python and REST APIs: Interacting With Web Services – Real Python](https://realpython.com/api-integration-in-python/)
 * [파이썬 기본 모듈로 HTTPS 서버 구축하기 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6163871474)
   * [파이썬 한 줄로 로컬 테스트서버 만들기 - YouTube](https://www.youtube.com/watch?v=HIiL2cP87ec)
 * [Anvil | Build Web Apps with Nothing but Python](https://anvil.works/)
