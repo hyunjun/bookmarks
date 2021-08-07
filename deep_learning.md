@@ -696,6 +696,7 @@ Deep Learning
 * [딥러닝 배치 사이즈(batch size) vs 에포크(epoch) vs 반복(iteration)의 차이 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/machine-learning/epoch-batch/)
 * [원티드는 어떻게 AI로 채용 결과를 예측하고 매칭할까? | by 황리건 Reagan Hwang | 원티드 제품 팀블로그 | May, 2021 | Medium](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-ai%EB%A1%9C-%EC%B1%84%EC%9A%A9-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EC%98%88%EC%B8%A1%ED%95%98%EA%B3%A0-%EB%A7%A4%EC%B9%AD%ED%95%A0%EA%B9%8C-7bdcd8840b6b)
 * [최신 Optimizer를 적용해보자! – 학습 방향의 최적화 방법을 새롭게 제시한 AngularGrad – Linewalks Blog](https://blog.linewalks.com/archives/7595)
+* [옵티마이저(Optimizer) · Data Science](https://yngie-c.github.io/deep%20learning/2020/03/19/training_techs/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
