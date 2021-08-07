@@ -65,6 +65,8 @@ Logging
 * [Fluentd로 데이터파이프라인 구축하기 kafka→kafka→s3](https://blog.voidmainvoid.net/261)
 
 # Library
+* [angle-grinder: Slice and dice logs on the command line](https://github.com/rcoh/angle-grinder)
+  * [Angle-grinder - 실시간 로그 뷰어 | GeekNews](https://news.hada.io/topic?id=4694)
 * [Apache logging services](https://logging.apache.org)
 * [Apex Logs — Structured log management](https://apex.sh/logs/)
   * [Apex Logs public beta. My latest product Apex Logs is now in… | by TJ Holowaychuk | Aug, 2020 | Medium](https://medium.com/@tjholowaychuk/apex-logs-public-beta-48c683464054)
