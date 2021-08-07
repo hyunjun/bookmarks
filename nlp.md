@@ -295,6 +295,8 @@ NLP
 * [21년 2월 2주 - from __future__ import dreamfrom __future__ import dream](http://freesearch.pe.kr/archives/5034)
 * [minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training](https://github.com/karpathy/minGPT) 일종의 교육용 GPT
 * [꿀벌개발일지 :: 뉴스: GPT-Neo 를 개발하고 있다는 소식](https://ohgyun.com/796)
+* [mesh-transformer-jax: Model parallel transformers in JAX and Haiku](https://github.com/kingoflolz/mesh-transformer-jax)
+  * [Checking out a 6-Billion parameter GPT model, GPT-J, from Eleuther AI - YouTube](https://www.youtube.com/watch?v=_z86t7LerrQ)
 * [I build my ideas #8 - 07/19/20 - I build my ideas from Jordan Singer](https://ibuildmyideas.substack.com/p/i-build-my-ideas-8-071920)
 * [Text generation with a Variational Autoencoder](https://nicgian.github.io/text-generation-vae/)
 * [Sentence Simplification with Seq2Seq](https://towardsdatascience.com/sentence-simplification-with-seq2seq-1b20d05a4663)
