@@ -5,6 +5,7 @@ Python
 * [7+ Python Cheat Sheets for Beginners and Experts](https://sinxloud.com/python-cheat-sheet-beginner-advanced/)
 * [Comprehensive Python Cheat Sheet for Beginners](https://medium.com/the-codehub/comprehensive-python-cheat-sheet-for-beginners-5d76bb038fa2)
 * [Python Cheatsheet - DEV Community](https://dev.to/envoy_/python-cheatsheet-33ec)
+* [A Comprehensive Cheatsheet for python developer](https://pythonawesome.com/a-comprehensive-cheatsheet-for-python-developer/)
 * [PB Python Article Roadmap - Practical Business Python](https://pbpython.com/roadmap.html)
 * [**Awesome Python**](http://awesome-python.com/)
 * [Awesome-Python](https://github.com/JoMingyu/Awesome-Python)
@@ -334,6 +335,7 @@ Python
 * [Webinar Recording: 10 Tips for Pythonic Code](https://blog.jetbrains.com/pycharm/2016/07/webinar-recording-10-tips-for-pythonic-code/)
 * [15 Python tips and tricks, so you don’t have to look them up on Stack Overflow](https://medium.com/@george.seif94/15-python-tips-and-tricks-so-you-dont-have-to-look-them-up-on-stack-overflow-90cec02705ae)
 * [12 Python Tips and Tricks For Writing Better Code | by Pavel Tech | Jun, 2020 | Towards Data Science](https://towardsdatascience.com/12-python-tips-and-tricks-for-writing-better-code-b57e7eea580b)
+* [12 Python Tips & Tricks You must know | Ayushi Rawat](https://ayushirawat.com/12-python-tips-and-tricks-you-must-know)
 * [I Thought I Was Mastering Python Until I Discovered These Tricks](https://towardsdatascience.com/i-thought-i-was-mastering-python-until-i-discovered-these-tricks-e40d9c71f4e2)
 * [30 Magical Python Tricks to Write Better Code - Towards Data Science](https://towardsdatascience.com/30-magical-python-tricks-to-write-better-code-e54d1642c255)
 * [The ultimate guide to writing better Python code | by Rhea Moutafis | Towards Data Science](https://towardsdatascience.com/the-ultimate-guide-to-writing-better-python-code-1362a1209e5a)
@@ -521,6 +523,7 @@ Python
 * [알아두면 쓸데없는 파이썬 내장 커맨드라인 스크립트 - Morgenrøde](https://ryanking13.github.io/2021/06/10/python-commandline-scripts.html) 다양한 `python -m ...` commands
   * [알아두면 쓸데없는 파이썬 내장 커맨드라인 스크립트 | GeekNews](https://news.hada.io/topic?id=4431)
 * [The difference between a=a+b and a+=b in Python | by Chetan Ambi | Jul, 2021 | Towards AI](https://pub.towardsai.net/the-difference-between-a-a-b-and-a-b-in-python-a7338d96e408)
+* [5 hidden gems in Python 3 | Opensource.com](https://opensource.com/article/21/7/python-3)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -588,6 +591,7 @@ Python
 * collections
   * [파이썬 Collections 모듈 이해하기](http://www.slideshare.net/dahlmoon/collections-20160313)
   * [Introducing high-performance datatypes in Python with the collections library | by George Seif | Level Up Coding](https://levelup.gitconnected.com/introducing-high-performance-datatypes-in-python-with-the-collections-library-3d8c334827a5)
+  * chainmap [Python's ChainMap: Manage Multiple Contexts Effectively – Real Python](https://realpython.com/python-chainmap/)
   * Counter [Counting Things in Python: A History](http://treyhunner.com/2015/11/counting-things-in-python/)
   * deque [Python - 데크(deque) 언제, 왜 사용해야 하는가?](https://chaewonkong.github.io/posts/python-deque.html)
 * configparser
@@ -727,6 +731,7 @@ Python
   * [7 Advanced Python Dictionary Techniques | Towards Data Science](https://towardsdatascience.com/7-advanced-python-dictionary-techniques-you-should-know-416194d82d2c)
   * [Dictionary as an Alternative to If-Else | by Khuyen Tran | Towards Data Science](https://towardsdatascience.com/dictionary-as-an-alternative-to-if-else-76fe57a1e4af)
   * [Python’s Most Powerful Data Type. Everything you ever need to know about… | by Erik van Baaren | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/pythons-most-powerful-data-type-89628a9e1467)
+  * [How to Flatten a Dictionary in Python in 4 Different Ways](https://www.freecodecamp.org/news/how-to-flatten-a-dictionary-in-python-in-4-different-ways/)
 * dis
   * [PyInstaller로 만든 EXE 파일에서 Python code 뽑아내기](https://item4.github.io/2018-11-04/Extract-Python-Code-from-PyInstaller-EXE-File/)
 * double/float
@@ -842,6 +847,8 @@ Python
   * [importify: Import and export your configuration like a boss](https://github.com/litcoderr/importify)
   * [파이썬 상대경로 import 에러 ImportError: attempted relative import with no known parent package](https://myjorney.tistory.com/52)
   * [Start Python #4 Backend Program 만들기 – library import - Kowana's coding](https://www.kowanas.com/coding/2020/12/27/library/)
+  * [reorder_python_imports: Rewrites source to reorder python imports](https://github.com/asottile/reorder_python_imports)
+    * [A Tool for automatically reordering python imports](https://pythonawesome.com/a-tool-for-automatically-reordering-python-imports/)
 * `__init__.py`
   * [모듈 치환 (override) 에 대한 고찰](http://mcchae.egloos.com/11218595)
   * [모듈에서 `__init__.py` 외에 `__main__.py` 의 사용](http://mcchae.egloos.com/11240652)
@@ -924,6 +931,8 @@ Python
   * [Autologging — easier logging and tracing for Python classes](http://pythonhosted.org/Autologging/)
   * [loguru: Python logging made (stupidly) simple](https://github.com/Delgan/loguru)
   * logzero [Robust and effective logging for Python 2 and 3](https://pythonawesome.com/robust-and-effective-logging-for-python-2-and-3/)
+  * [python-json-logger · PyPI](https://pypi.org/project/python-json-logger/)
+    * [Json Formatter for the standard python logger](https://pythonawesome.com/json-formatter-for-the-standard-python-logger/)
 * loop
   * [python loop performace check](https://gist.github.com/junghanw/ab8e7d758e4c866260172e2ed27a9ef0)
   * [David DB Baumgold Looping Like a Pro in Python PyCon 2017](https://www.youtube.com/watch?v=u8g9scXeAcI)
@@ -1641,6 +1650,8 @@ Python
   * [Notebooks for "Python for Signal Processing" book](https://github.com/leehaesung/Python-for-Signal-Processing)
 * [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/)
   * [CS 61A Fall 2020](https://cs61a.org/)
+* [The-Python-Workshop: A New, Interactive Approach to Learning Python](https://github.com/PacktWorkshops/The-Python-Workshop)
+  * [A New, Interactive Approach to Learning Python](https://pythonawesome.com/a-new-interactive-approach-to-learning-python/)
 * Think DSP
   * [January is DSP month!](http://thinkdsp.blogspot.com/2015/01/january-is-dsp-month.html)
 * [Think Python: How to Think Like a Computer Scientist 2판](https://surpreem.com/think-python-how-to-think-like-a-computer-scientist-2%ED%8C%90/)
@@ -2966,6 +2977,8 @@ Python
     * [Daily Continuous Deployment를 위한 Custom CLI 개발 및 AWS Elastic Beanstalk에 적용하기](http://www.slideshare.net/addnull/daily-continuous-deployment-custom-cli-aws-elastic-beanstalk-64946800)
   * [4 Python libraries for building great command-line user interfaces](https://opensource.com/article/17/5/4-practical-python-libraries)
   * [Tools for Writing Python CLI Applications](https://hackernoon.com/tools-for-writing-python-cli-applications-ba52db1e454f)
+  * [bun: A Python package for a basic CLI and GUI user interface](https://github.com/caltechlibrary/bun)
+    * [A Python package for a basic CLI and GUI user interface](https://pythonawesome.com/a-python-package-for-a-basic-cli-and-gui-user-interface/)
   * [python_snippet: Python and data science snippets on the command line](https://github.com/khuyentran1401/python_snippet)
     * [Python and data science snippets on the command line](https://pythonawesome.com/python-and-data-science-snippets-on-the-command-line/)
   * [PyVNCs - Simple command line multiplatform python VNC Server](https://github.com/radixcl/pyvncs)
@@ -3149,6 +3162,11 @@ Python
   * [Python behind the scenes #3: stepping through the CPython source code](https://tenthousandmeters.com/blog/python-behind-the-scenes-3-stepping-through-the-cpython-source-code/)
   * [Python behind the scenes #5: how variables are implemented in CPython](https://tenthousandmeters.com/blog/python-behind-the-scenes-5-how-variables-are-implemented-in-cpython/)
   * [Python behind the scenes #6: how Python object system works](https://tenthousandmeters.com/blog/python-behind-the-scenes-6-how-python-object-system-works/)
+  * [Python behind the scenes #7: how Python attributes work](https://tenthousandmeters.com/blog/python-behind-the-scenes-7-how-python-attributes-work/)
+  * [Python behind the scenes #8: how Python integers work](https://tenthousandmeters.com/blog/python-behind-the-scenes-8-how-python-integers-work/)
+  * [Python behind the scenes #9: how Python strings work](https://tenthousandmeters.com/blog/python-behind-the-scenes-9-how-python-strings-work/)
+  * [Python behind the scenes #10: how Python dictionaries work](https://tenthousandmeters.com/blog/python-behind-the-scenes-10-how-python-dictionaries-work/)
+  * [Python behind the scenes #11: how the Python import system works](https://tenthousandmeters.com/blog/python-behind-the-scenes-11-how-the-python-import-system-works/)
   * [cinder: Instagram's performance oriented fork of CPython](https://github.com/facebookincubator/cinder)
     * [인스타그램, C파이썬 3.8의 성능 중점 포크 ‘신더’ 공개 - CIO Korea](https://www.ciokorea.com/news/192974)
   * [faster-cpython/plan.md at master · markshannon/faster-cpython](https://github.com/markshannon/faster-cpython/blob/master/plan.md)
@@ -3293,6 +3311,7 @@ Python
   * [MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems](https://github.com/micropython/micropython)
   * [Writing Fast and Efficient MicroPython by the Creator of MicroPython](https://www.youtube.com/watch?v=-gz_fbgy4JU)
   * [MicroPython Used in Industrial Applications](https://www.youtube.com/watch?v=WgpMWEdKuyY)
+  * [awesome-micropython: A curated list of awesome MicroPython libraries, frameworks, software and resources](https://github.com/mcauser/awesome-micropython)
 * [minikeyvalue](https://github.com/geohot/minikeyvalue)
   * [George Hotz | Programming | minikeyvalue: a sub 1000 line key value store (for production!)](https://www.youtube.com/watch?v=cAFjZ1gXBxc)
 * [miracle-ad - AAA 중 Authorization 관련 모듈 - miracle-acl](http://mcchae.egloos.com/11272920)
