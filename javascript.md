@@ -52,10 +52,12 @@ Javascript
 * [V8 JavaScript Engine 8.0 Reduces Heap by 40%, Adds Optional Chaining and Null Coalescing](https://www.infoq.com/news/2019/12/v8-8-0-heap-reduction/)
 * [자바스크립트와 V8 엔진의 메모리 관리 프로세스. Table of Contents | by Minjae Lee | 네이버 플레이스 개발 블로그 | Sep, 2020 | Medium](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1) OutOfMemory / memory leak 현상 이해
 * [Faster JavaScript calls · V8](https://v8.dev/blog/adaptor-frame)
+* [How JavaScript works: an overview of the engine, the runtime, and the call stack | by Alexander Zlatkov | SessionStack Blog](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
 * [Chromium이 발표한 RenderingNG가 무엇인가? | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210713)
   * Chrome에서 발표한 차세대 렌더링 아키텍처 RenderingNG, 크로스 브라우저 이슈를 최대한 없애고 안정적인 렌더링 성능을 구현하는 것이 목표
   * web-platform-tests를 이용해서 수만 개의 테스트로 호환성 향상, Chromium, Edge, Firefox, Safari 개발자들이 함께 제작
   * 렌더링 성능에서는 캐싱과 GPU 가속을 이용한 성능 격리를 구현해서 메인 스레드가 바쁘더라도 렌더링 속도는 유지 가능
+* [Overview of the RenderingNG architecture - Chrome Developers](https://developer.chrome.com/blog/renderingng-architecture/)
 * [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 * [**프론트엔드 개발자라면 알고 있어야 할 브라우저의 동작 과정 - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2021/03/27/How-browsers-work.html)
 * [Chromium Composition과 Layer | Seokho’s blog](https://devsdk.github.io/ko/development/2021/03/29/blink-render-composition.html)
@@ -654,6 +656,7 @@ Javascript
 * [이벤트 핸들러를 대하는 개발자의 자세](https://blog.shiren.dev/2020-07-27-1/)
 * [fe-news/2020-08.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2020-08.md)
 * [fe-news/2020-09.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2020-09.md)
+* [fe-news/2021-08.md at master · naver/fe-news](https://github.com/naver/fe-news/blob/master/issues/2021-08.md)
 * [The Front-End Features You Might Have Missed | by Adrien Miquel | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/the-front-end-features-you-might-have-missed-38f3ad1360a9)
 * [2020년과 이후 JavaScript의 동향 - WebAssembly](https://d2.naver.com/helloworld/8257914) wasm
 * [Multi Segment Display in JavaScript | by Chris Webb | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/multi-segment-display-in-javascript-6f256153cda8)
@@ -2159,18 +2162,15 @@ Javascript
   * [📥슬랙 봇 만들기 #1 - YouTube](https://www.youtube.com/watch?v=QUt-52U9nR4)
 * [NodeJS Get 과 Post 의 Parameter 와 QueryString 전달 방법](https://developer88.tistory.com/376)
 * [Node.js 16 available now. We are excited to announce the release… | by Node.js | Node.js Collection | Apr, 2021 | Medium](https://medium.com/the-node-js-collection/node-js-16-available-now-7f5099a97e70)
-* [Introducing WebContainers: Run Node.js natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
-  * 개발환경을 만드는 StackBlitz에서 Next.js와 Google과 협업 WebContainers 공개
-  * WebAssembly를 일종의 OS를 브라우저 내에서 구현해 Node.js를 바로 브라우저 안에서 실행
-  * 현재 Chrome Edge, Brave 브라우저 구현 Safari와 Firefox 지원 예정. Next.js, GraphQL, 바닐라 Node.js 실행
-  * 로컬보다 빌드, 패키지 설치도 훨씬 빨랐으며 크롬의 개발자 도구를 바로 연결해서 Node.js를 디버깅 가능, 브라우저에서 동작하므로 안전
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
   * [nodejstools](https://github.com/Microsoft/nodejstools)
 * [10 Node.js Frameworks Worth Checking Out: Express, Loopback, Hapi, and Beyond](https://medium.freecodecamp.org/10-node-js-frameworks-worth-checking-out-express-loopback-hapi-and-beyond-7b537b590f89)
 * [14 Most Useful NodeJS Libraries in 2020](https://medium.com/javascript-in-plain-english/14-most-useful-nodejs-libraries-in-2020-9e0a5e72d1d8)
-* AdonisJS [Node.js 웹 프레임워크 ‘AdonisJS’](https://medium.com/@larkbless/node-js%EC%9D%98-%EB%9D%BC%EB%9D%BC%EB%B2%A8-adonisjs-d9ef209ade9c)
+* AdonisJS
+  * [Node.js 웹 프레임워크 ‘AdonisJS’](https://medium.com/@larkbless/node-js%EC%9D%98-%EB%9D%BC%EB%9D%BC%EB%B2%A8-adonisjs-d9ef209ade9c)
+  * [AdonisJS - Node.js용 웹 프레임워크 | GeekNews](https://news.hada.io/topic?id=4768)
 * axios
   * [client 인증(Athentication) & 인가(Ahtuorization) handler 구현 - 클라이언트편](https://blog.naver.com/pjt3591oo/222121552945)
   * [axios 활용 - Authentication & Authorization 블로그 정리 - YouTube](https://www.youtube.com/watch?v=sQgi9oQHu3I)
@@ -2305,6 +2305,8 @@ Javascript
   * [Architectural Changes in math.js V2](http://josdejong.com/blog/2015/08/08/architectural-changes-in-mathjs-v2/)
 * Matterhorn [Announcing Matterhorn a Node.js API Server Boilerplate](https://medium.freecodecamp.org/announcing-matterhorn-a-node-js-api-server-boilerplate-4994759f1bf6)
 * [mdir.js: Mdir.js is text base file manager. Mdir.js is clone of LinM](https://github.com/la9527/mdir.js)
+* [ncc: Compile a Node.js project into a single file. Supports TypeScript, binary addons, dynamic requires](https://github.com/vercel/ncc)
+  * [ncc - Node.js 프로젝트를 1개 파일로 컴파일 | GeekNews](https://news.hada.io/topic?id=4740)
 * [nexe: 🎉 create a single executable out of your node.js apps](https://github.com/nexe/nexe)
 * [nip - Node Input/output Piper](https://github.com/kolodny/nip)
 * [node-cron을 사용하여 node.js에서 특정 작업에 스케줄 설정하기](https://blog.l0gic.me/node-cron%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-node-js%EC%97%90%EC%84%9C-%ED%8A%B9%EC%A0%95-%EC%9E%91%EC%97%85%EC%97%90-%EC%8A%A4%EC%BC%80%EC%A4%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0/)
@@ -2389,6 +2391,13 @@ Javascript
 * [vantage - A new take on interactive CLI for Node](https://github.com/dthree/vantage)
 * [volta: Volta: Start your engines](https://github.com/volta-cli/volta)
 * [Vorpal is Node's first framework for building interactive CLI applications](https://github.com/dthree/vorpal/###)
+* [webcontainer-core](https://github.com/stackblitz/webcontainer-core)
+  * [Introducing WebContainers: Run Node.js natively in your browser](https://blog.stackblitz.com/posts/introducing-webcontainers/)
+    * 개발환경을 만드는 StackBlitz에서 Next.js와 Google과 협업 WebContainers 공개
+    * WebAssembly를 일종의 OS를 브라우저 내에서 구현해 Node.js를 바로 브라우저 안에서 실행
+    * 현재 Chrome Edge, Brave 브라우저 구현 Safari와 Firefox 지원 예정. Next.js, GraphQL, 바닐라 Node.js 실행
+    * 로컬보다 빌드, 패키지 설치도 훨씬 빨랐으며 크롬의 개발자 도구를 바로 연결해서 Node.js를 디버깅 가능, 브라우저에서 동작하므로 안전
+  * [WebContainers, Running Node.JS in the Browser](https://www.infoq.com/news/2021/07/webcontainers-nodejs/)
 * [web-term - A fullscreen terminal in your browser](https://github.com/IonicaBizau/web-term)
 * [Wit-Faebook Messenger Example](https://github.com/hunkim/Wit-Facebook)
 
@@ -3498,6 +3507,7 @@ Javascript
 * [Mock Service Worker Library Enables Resilient REST and GraphQL API Testing](https://www.infoq.com/news/2020/11/msw-mocking-graphql-rest-api/)
 * [FEConf2020 프론트엔드 TDD 발표 후기 | 마이크로프로텍트 블로그](https://microprotect.github.io/2020/12/16/frontend-tdd-feconf2020/)
 * [프론트엔드 테스트의 모든 것. 저와 같은 사람이라면 개발 워크플로우에서 테스트를 자동화하여 원치 않는… | by André Tito Vasconcelos | 원티드 제품 팀블로그 | Jun, 2021 | Medium](https://medium.com/wantedjobs/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83-48912486f72d)
+* [Write fewer, longer tests](https://kentcdodds.com/blog/write-fewer-longer-tests)
 * [Angular: Unit Testing Jasmine, Karma (step by step)](https://medium.com/frontend-fun/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4)
 * [cypress - The web has evolved. Finally, testing has too](https://www.cypress.io/)
   * [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
