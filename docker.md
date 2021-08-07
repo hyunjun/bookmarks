@@ -504,6 +504,7 @@ Docker
   * git에서 브랜치를 오가면서 환경을 관리할 필요 없이 동시에 여러 환경을 띄우고 각 환경의 코드도 접속 가능
   * 이 환경은 .docker 폴더 아래 Docker Compose를 이용해서 개발에 필요한 환경을 구성해서 사용 가능
   * 환경이 코드에 있으므로 다른 개발자와도 공유해서 관리 가능
+* ["컨테이너 혁명을 주도하는" 도커의 의미와 장단점 - ITWorld Korea](https://www.itworld.co.kr/news/203644)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -1025,6 +1026,8 @@ Docker
   * Snyk: 보안 감사
   * Velero: 백업/복구
   * Sealed Secrets: Git에 민감한 정보 저장
+* [Useful Interactive Terminal and Graphical UI Tools for Kubernetes](https://williamlam.com/2020/04/useful-interactive-terminal-and-graphical-ui-tools-for-kubernetes.html)
+  * Octant Lens Kubevious kubelive K9s
 * [Antrea Joins CNCF Sandbox](https://blogs.vmware.com/opensource/2021/05/05/antrea-joins-cncf-sandbox/) CNI(Container Network Interface)와 Kubernetes NetworkPolicy를 pod 수준에서 구현한 VMWare의 프로젝트
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
   * [컨테이너 기반의 워크플로우 솔루션 argo](http://bcho.tistory.com/1299)
@@ -1112,6 +1115,7 @@ Docker
     * AWS에서 Kubernetes를 사용할 때 시크릿 정보를 AWS에서 관리하는 Secrets Manger나 Parameter Store에서 가져오기 위해 External Secrets을 사용하는 방법을 설명
     * External Secrets 컨트롤러가 Secrets Manager에 접근해서 정보를 가져올 수 있도록 권한을 설정하는 방법을 설명
     * 이렇게 가져온 정보는 Secrets이 되므로 Deployment 등에서 envFrom이나 secretRef로 가져와서 사용 가능
+* Kubernetes Hardening Guidance [The NSA Can Help Secure Your Kubernetes Clusters – The New Stack](https://thenewstack.io/the-nsa-can-help-you-secure-your-kubernetes-clusters/)
 * kubespray
   * [처음 만난 Kubespray](http://knight76.tistory.com/entry/kubespary-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-Kubespray)
   * [kubespray를 통한 클러스터 구축 - WONIZZ.LOG](https://blog.wonizz.tk/2021/05/17/kubernetes-kubespray/)
@@ -1142,6 +1146,14 @@ Docker
 * [OperatorHub.io - a new home for the Kubernetes community to share Operators. Find an existing Operator or list your own today](https://www.operatorhub.io)
 * [QUARKUS - Supersonic Subatomic Java A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards](https://quarkus.io/)
   * [Why Quarkus](http://in.relation.to/2019/03/08/why-quarkus/)
+  * [Quarkus란?](https://www.redhat.com/ko/topics/cloud-native-apps/what-is-quarkus)
+  * [Building a Microservice From the Ground up With Quarkus, Kotlin, and Debezium | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/building-a-microservice-from-the-ground-up-with-quarkus-kotlin-and-debezium-83ae5c8a8bbc)
+  * [Implementing the Transactional Outbox Pattern with Debezium in Quarkus | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/implementing-the-transactional-outbox-pattern-with-debezium-in-quarkus-f2680306951)
+  * [Building a Resilient Microservice with Quarkus and Wiremock | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/building-a-resilient-microservice-with-quarkus-and-wiremock-de59b2a4fac7)
+  * [Securing a Microservice in Quarkus with OpenID Connect | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/securing-a-microservice-in-quarkus-with-openid-connect-505204d1c9a9)
+  * [Running a Microservice in Quarkus on GraalVM | by Iain Porter | Sep, 2020 | Medium](https://medium.com/@changeant/running-a-microservice-in-quarkus-on-graalvm-52d6b42a5840)
+  * [Containerizing your Microservice in Quarkus with Jib | by Iain Porter | Sep, 2020 | Medium](https://medium.com/@changeant/containerizing-your-microservice-in-quarkus-with-jib-fae0f62bd57e)
+  * [Building a CI Pipeline for a Microservice in Quarkus with CircleCI | by Iain Porter | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/building-a-ci-pipeline-for-a-microservice-in-quarkus-with-circleci-11e9b679423f)
 * [Rancher - Complete container management platform Deploy and manage Kubernetes with ease](https://rancher.com/)
   * [Purpose built OS for Kubernetes and fully managed by Kubernetes. https://k3os.io ](https://github.com/rancher/k3os)
   * [쿠버네티스 멀티 클라우드/클러스터를 위한 Rancher](https://bcho.tistory.com/1348)
@@ -1159,6 +1171,8 @@ Docker
   * [Istio와 Telepresence로 공용 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/4817173)
   * [Kubernetes 클러스터에 배포할 애플리케이션의 로컬 개발을 쉽게 해줄 Telepresence :: Outsider's Dev Story](https://blog.outsider.ne.kr/1526)
   * [Run Telepresence Anywhere Part 1: Containers | by Kelsey Evans | Jun, 2021 | Ambassador Labs](https://blog.getambassador.io/run-telepresence-anywhere-part-1-containers-3d9e235b6776)
+* [Verrazzano Enterprise Container Platform](https://verrazzano.io/)
+  * [오라클, 쿠버네티스용 ‘베라짜노 컨테이너 플랫폼’ 발표 - CIO Korea](https://www.ciokorea.com/news/203699)
 
 # Library
 * [Top GUI for Docker | by appfleet team | appfleet | Medium](https://medium.com/appfleet/top-gui-for-docker-9b45588393d3)
@@ -1220,6 +1234,7 @@ Docker
 * [magicpak enables you to build minimal docker images without any bothersome preparation such as static linking](https://github.com/coord-e/magicpak)
 * [Morte: an intermediate language for super-optimizing functional programs](http://www.haskellforall.com/2014/09/morte-intermediate-language-for-super.html)
 * [netmanager 1.0 - Network management for docker containers](https://github.com/vmulas/docker-netmanager)
+* [netshoot: a Docker + Kubernetes network trouble-shooting swiss-army container](https://github.com/nicolaka/netshoot)
 * [Network Containers](https://www.zerotier.com/blog/?p=490)
 * [nginx-proxy](https://github.com/jwilder/nginx-proxy)
   * tcp request를 domain name base로 구분하여 각각의 docker container로 연결해주는 nginx 기반의 proxy
@@ -1239,14 +1254,7 @@ Docker
   * [컨테이너 기술:: Docker와 Podman](https://naleejang.tistory.com/227)
   * [Transitioning from Docker to Podman - Red Hat Developer](https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/)
   * [How to replace Docker with Podman on a Mac | Enable Sysadmin](https://www.redhat.com/sysadmin/replace-docker-podman-macos)
-  * [Quarkus란?](https://www.redhat.com/ko/topics/cloud-native-apps/what-is-quarkus)
-  * [Building a Microservice From the Ground up With Quarkus, Kotlin, and Debezium | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/building-a-microservice-from-the-ground-up-with-quarkus-kotlin-and-debezium-83ae5c8a8bbc)
-  * [Implementing the Transactional Outbox Pattern with Debezium in Quarkus | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/implementing-the-transactional-outbox-pattern-with-debezium-in-quarkus-f2680306951)
-  * [Building a Resilient Microservice with Quarkus and Wiremock | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/building-a-resilient-microservice-with-quarkus-and-wiremock-de59b2a4fac7)
-  * [Securing a Microservice in Quarkus with OpenID Connect | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/securing-a-microservice-in-quarkus-with-openid-connect-505204d1c9a9)
-  * [Running a Microservice in Quarkus on GraalVM | by Iain Porter | Sep, 2020 | Medium](https://medium.com/@changeant/running-a-microservice-in-quarkus-on-graalvm-52d6b42a5840)
-  * [Containerizing your Microservice in Quarkus with Jib | by Iain Porter | Sep, 2020 | Medium](https://medium.com/@changeant/containerizing-your-microservice-in-quarkus-with-jib-fae0f62bd57e)
-  * [Building a CI Pipeline for a Microservice in Quarkus with CircleCI | by Iain Porter | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/building-a-ci-pipeline-for-a-microservice-in-quarkus-with-circleci-11e9b679423f)
+  * [Run a Linux virtual machine in Podman | Opensource.com](https://opensource.com/article/21/7/linux-podman)
 * [registry.hub.docker.com](https://registry.hub.docker.com)
 * [rocker-compose - Docker composition tool with idempotency features for deploying apps composed of multiple containers](https://github.com/grammarly/rocker-compose)
 * [seagull - Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
