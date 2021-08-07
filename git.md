@@ -767,6 +767,7 @@ Git
   * [백지장도 'AI'가 맞들면 더 낫다··· 코딩 돕는 ML 도구 3가지 - CIO Korea](https://www.ciokorea.com/news/200444)
   * [깃허브 코파일럿, 개발자 반응은?··· "놀랍도록 유용"vs"아직 미흡" - CIO Korea](https://www.ciokorea.com/news/200619)
   * [Research recitation - GitHub Docs](https://docs.github.com/en/github/copilot/research-recitation)
+  * [GitHub Copilot의 8가지 대안](https://open-support.tistory.com/entry/GitHub-Copilot%EC%9D%98-8%EA%B0%80%EC%A7%80-%EB%8C%80%EC%95%88)
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
