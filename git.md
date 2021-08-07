@@ -158,6 +158,8 @@ Git
 * [GitHub Actions에서 GitHub Container Registry에 이미지 푸시하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1531)
 * [**Git 계정 여러 개 동시 사용하기**](https://blog.outsider.ne.kr/1448)
 * [README.md 10초만에 깔끔하게 만드는 법](https://gomcine.tistory.com/entry/READMEmd-10%EC%B4%88%EB%A7%8C%EC%97%90-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95?category=624615)
+* [fiddly: Create beautiful and simple HTML pages from your Readme.md files](https://github.com/SaraVieira/fiddly)
+  * [Fiddly - Readme를 예쁜 웹페이지로 만들기 | GeekNews](https://news.hada.io/topic?id=4688)
 * [Unlocking GitHub's Hidden Feature in 3 Minutes - YouTube](https://www.youtube.com/watch?v=0_RDoNJ1zGg)
 * [Github Profile Readme로 프로필 꾸미기 · 어쩐지 오늘은](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/)
 * [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)
@@ -346,6 +348,7 @@ Git
   * [git bisect 로 문제가 발생한 commit 빠르고 쉽게 찾기](https://blog.gangnamunni.com/2020/04/13/understanding_git_bisect.html)
   * [7.10 Git 도구 - Git으로 버그 찾기](https://git-scm.com/book/ko/v2/Git-도구-Git으로-버그-찾기)
   * [Fortunately, I don't squash my commits](https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/)
+* `blame` [git-blame-someone-else: Blame someone else for your bad code](https://github.com/jayphelps/git-blame-someone-else)
 * `branch`
   * [learngitbranching.js.org](http://learngitbranching.js.org/)
   * [Git 브랜치 배우기](http://pcottle.github.io/learnGitBranching/)
@@ -579,11 +582,15 @@ Git
   * [merge a remote branch locally](https://stackoverflow.com/questions/21651185/git-merge-a-remote-branch-locally)
   * [Git Merge Strategy Options and Examples](https://www.atlassian.com/git/tutorials/using-branches/merge-strategy)
   * [merge - How to replace master branch in Git, entirely, from another branch? - Stack Overflow](https://stackoverflow.com/questions/2862590/how-to-replace-master-branch-in-git-entirely-from-another-branch) master에 merge한 commit들이 문제가 있는 경우 다시 다른 branch를 master에 덮어쓸 때 유용
-* restore [새 버전에 맞게 git checkout 대신 switch/restore 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1505)
+* restore
+  * [새 버전에 맞게 git checkout 대신 switch/restore 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1505)
+  * [New in Git: switch and restore](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/)
 * show
 * status
   * `git status --porcelain` git에 추가되지 않은 file 출력
-* switch [새 버전에 맞게 git checkout 대신 switch/restore 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1505)
+* switch
+  * [새 버전에 맞게 git checkout 대신 switch/restore 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1505)
+  * [New in Git: switch and restore](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/)
 * undo
   * [How to undo (almost) anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
   * [How to undo changes in Git](https://medium.freecodecamp.org/how-to-undo-changes-in-git-e1da7930afdb)
