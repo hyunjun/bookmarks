@@ -1039,6 +1039,7 @@ Linux
   * [up - Ultimate Plumber | GeekNews](https://news.hada.io/topic?id=3989)
 * [VTM | Text-based Desktop Environment, aka Monotty Desktop (desktopio)](https://vtm.netxs.online/)
 * Wayland [Think twice before abandoning Xorg. Wayland breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
+* [Warp—The blazingly fast, Rust-based terminal](https://www.warp.dev/)
 * [X2GO: Linux Remote Desktop & Terminal Server System With Support For Published Applications](https://www.youtube.com/watch?v=oSuy1TS8FGs)
 * [Xmobar updates from ZuriHac](https://psibi.in/posts/2020-06-16-xmobar-zurihac.html)
 * [xrdp - an open source RDP server](https://github.com/neutrinolabs/xrdp)
