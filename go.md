@@ -631,6 +631,8 @@ Go
 * [vim-go - Go development plugin for Vim](https://github.com/fatih/vim-go)
 * [vtprotobuf: A Protocol Buffers compiler that generates optimized marshaling & unmarshaling Go code for ProtoBuf APIv2](https://github.com/planetscale/vtprotobuf)
   * [Vitess | A database clustering system for horizontal scaling of MySQL](https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/)
+* [wails: Create desktop apps using Go and Web Technologies](https://github.com/wailsapp/wails)
+  * [Wails - Go 사용 데스크톱 응용 프로그램 개발 프레임 워크 | GeekNews](https://news.hada.io/topic?id=4774)
 * [wego - weather app for the terminal](https://github.com/schachmat/wego)
 * wmi2struct [golang - Windows Management Instrumentation을 쉽게 얻을 수 있는 도구 wmi2struct - jacking75](https://jacking75.github.io/go_lib_wmi2struct/)
 * [xid: golang GUID 생성 package 둘러보기](https://jusths.tistory.com/148)
