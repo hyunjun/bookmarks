@@ -312,6 +312,7 @@ AWS
 * [AWS-Linux-EBS-to-EFS - 리눅서의 기술술 블로그](https://linuxer.name/2020/09/aws-linux-ebs-to-efs/)
 * [Re:Invent 2020에 소개된 gp3로 EBS 비용을 절감해보자! – 클라우드 지식 공유 블로그](https://bloggrumatic.wpcomstaging.com/2020/12/11/ebs-gp3-selection-guide/)
 * [AWS EBS gp3 출시하자마자 EKS에서 사용하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/07/05/ebs-csi-gp3-support.html)
+* [AWS Announces the General Availability of Amazon EBS io2 Block Express Volumes](https://www.infoq.com/news/2021/07/amazon-ebs-io2-block-ga/)
 * [AWS 비용 최적화 – 1. 리디북스의 예약 인스턴스 활용 사례](https://aws.amazon.com/ko/blogs/korea/cost-optimization-cases-ridibooks-reserved-instance/)
 * [AWS의 Certificate Manager 로 SSL 인증서 발급 받기](https://jojoldu.tistory.com/434)
 * [우분투에서 letsencrypt로 인증서 발급, AWS에 적용](https://jybaek.tistory.com/821)
@@ -428,6 +429,7 @@ AWS
 * [**금융 IT 그리고 클라우드**](https://www.joinc.co.kr/w/man/12/finance/ITandFinance)
 * [AWS Proton - 소규모 회사를 위한 서버리스 배포 서비스 :: #5분클라우드데모 - YouTube](https://www.youtube.com/watch?v=5q7B9bu0dsU)
 * [Amazon Pinpoint로 다채널 마케팅 커뮤니케이션 서비스 하기 | by 김현진 | Cloud Villains | Jul, 2021 | Medium](https://medium.com/ctc-mzc/amazon-pinpoint-%EB%A1%9C-%EB%8B%A4%EC%B1%84%EB%84%90-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%95%98%EA%B8%B0-d3f54d262f74)
+* [AWS’s Egregious Egress](https://blog.cloudflare.com/aws-egregious-egress/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -749,10 +751,7 @@ AWS
 * [AWS Lambda와 API Gateway를 통한 Serverless Architecture 특집 (윤석찬)](http://www.slideshare.net/awskorea/serverless-architecture-lambda-api-gateway)
 * [Serverless Framework: A Deep Overview of the Best AWS Lambda + API Gateway Automation Solution](http://cloudacademy.com/blog/serverless-framework-aws-lambda-api-gateway-python/)
 * [람다를 이용해 이미지 리사이징 서버 만들기](http://blog.jeonghwan.net/2016/05/13/image-resizing-with-lambda.html)
-* [**하루만에 서버리스 온디맨드 이미지 리사이징 서비스 구축하기**](https://todait.github.io/image-resizing-service) zappa, flask, wand
 * [Lambda 한개로 만드는 On-demand Image Resizing](https://engineering.huiseoul.com/lambda-%ED%95%9C%EA%B0%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-on-demand-image-resizing-d48167cc1c31)
-* [Preview the Python Serverless Microframework for AWS](https://aws.amazon.com/ko/blogs/developer/preview-the-python-serverless-microframework-for-aws/)
-  * [chalice - Python Serverless Microframework for AWS](https://github.com/aws/chalice)
 * [AWS Summit Seoul 2016 - AWS 실시간 분석 서비스 삼총사를 활용한 초간단 분석 플랫폼 구성하기 (정민영 CTO, 비트패킹컴퍼니)](https://www.youtube.com/watch?v=ATrUK00jUBk&list=PLORxAVAC5fUUkUqoqL4M_73OdB9c5aIld)
 * [AWS 클라우드 기반 서버리스 컴퓨팅 패턴과 사례 ::: KRNET 2017 - 윤석찬, 테크에반젤리스트](https://www.slideshare.net/awskorea/serverless-architecture-krnet2017)
 * [AWS Lambda: Apex로 관리하기](https://hyunseob.github.io/2017/07/09/aws-lambda-with-apex/)
@@ -784,7 +783,6 @@ AWS
 * [Wild Rydes 서버리스 워크삽 가이드](https://github.com/awskrug/aws-serverless-workshops)
 * [AWS Lambda에 Tensorflow/Keras 배포하기](https://beomi.github.io/2017/12/07/Deploy-Tensorflow-Keras-on-AWS-Lambda/)
 * [AWS Lambda를 통한 Tensorflow 및 Keras 기반 추론 모델 서비스하기](https://speakerdeck.com/beomi/aws-lambdareul-tonghan-tensorflow-mic-keras-giban-curon-model-seobiseuhagi)
-* [How to Handle your Python packaging in Lambda with Serverless plugins](https://serverless.com/blog/serverless-python-packaging/)
 * [Serverless Framework with AWS Lambda](https://medium.com/@jee0645/serverless-framework-with-aws-lambda-8188bf11d349)
 * [Wildrydes 서버리스 웹 애플리케이션 워크샵](https://github.com/awskrug/unithon-serverless-2018)
 * [Asynchronous execution with AWS lambda](https://medium.com/@jee0645/asynchronous-execution-with-aws-lambda-2fbccbe83f78)
@@ -822,8 +820,6 @@ AWS
 * [서버리스 어플리케이션 최적화 해보기](https://github.com/jmyung/jmyung.github.io/blob/master/_posts/2018-12-20-optimizing-serverless.md)
 * [Sentiment Analysis API on AWS Lambda (feat. SAM, BotHub.Studio)](https://www.slideshare.net/SangwonPark8/sentiment-analysis-api-on-aws-lambda-feat-sam-bothubstudio-107594101)
 * [Lambda & API GateWay Deploy](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181015_JH_Serverless_Deploy.md)
-* [AWS Lambda 배포 패키지(Python)](https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html)
-* [AWS Lambda Layers로 함수 공통용 Python 패키지 재사용하기](https://beomi.github.io/2018/11/30/using-aws-lambda-layers-on-python3/)
 * [Build a Ruby based Lambda Function](https://hackernoon.com/build-a-ruby-based-lambda-function-44f3d006fef6)
 * [프로그래밍 언어 루비(Ruby) 공식 지원을 발표](https://www.44bits.io/ko/post/news--announce-ruby-support-for-aws-lambda)
 * [AWS 람다 커스텀 런타임 만들기(feat. 루비 2.6.0)](https://www.44bits.io/ko/post/how-to-create-aws-lambda-custom-runtime-feat-ruby-2-6-0)
@@ -865,7 +861,6 @@ AWS
 * [0.1초 동안 컴퓨터를 빌려보자 - AWS Lambda - YouTube](https://www.youtube.com/watch?v=t8sjTFM_tfE)
 * [Deploy babashka script to AWS Lambda | Dainius Jocas](https://www.jocas.lt/blog/post/babashka-aws-lambda/)
 * [AWS 람다(Lambda) 그리고 GitHub 자동배포 연동 | PIGNOSE BARN](https://blog.pigno.se/post/137809815023/aws-lambda-deploy-github)
-* [Serverless 프레임워크를 이용한 람다 프로그래밍 #1 | 10분 TV](http://10bun.tv/etc/serverless-aws-python3-1/)
 * [AWS 람다 용량 관리 | 김정환 블로그](https://jeonghwan-kim.github.io/dev/2021/03/29/lambda-limits.html)
 * [Serverless 환경에서 수행시간이 긴 작업 처리하기](http://labs.brandi.co.kr/2021/05/31/kimms4.html)
 * [aws lambda bcrypt 오류 해결 방법 : 네이버 블로그](https://blog.naver.com/nanotoly/222428214801)
@@ -886,6 +881,16 @@ AWS
 
 ## Lambda javascript
 * [serverless 배포하기 (1) serverless-webpack 초급 · /usr/lib/libsora.so](https://if1live.github.io/posts/deploying-serverless-1-serverless-webpack-beginning/)
+
+## Lambda python
+* [**하루만에 서버리스 온디맨드 이미지 리사이징 서비스 구축하기**](https://todait.github.io/image-resizing-service) zappa, flask, wand
+* [Preview the Python Serverless Microframework for AWS](https://aws.amazon.com/ko/blogs/developer/preview-the-python-serverless-microframework-for-aws/)
+  * [chalice - Python Serverless Microframework for AWS](https://github.com/aws/chalice)
+* [How to Handle your Python packaging in Lambda with Serverless plugins](https://serverless.com/blog/serverless-python-packaging/)
+* [AWS Lambda 배포 패키지(Python)](https://docs.aws.amazon.com/ko_kr/lambda/latest/dg/lambda-python-how-to-create-deployment-package.html)
+* [AWS Lambda Layers로 함수 공통용 Python 패키지 재사용하기](https://beomi.github.io/2018/11/30/using-aws-lambda-layers-on-python3/)
+* [Serverless 프레임워크를 이용한 람다 프로그래밍 #1 | 10분 TV](http://10bun.tv/etc/serverless-aws-python3-1/)
+* [How to Write a Secure Python Serverless App on AWS Lambda | Okta Developer](https://developer.okta.com/blog/2021/07/26/python-serverless)
 
 ## Lambda Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
