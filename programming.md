@@ -685,6 +685,7 @@ Programming
 * [Under Deconstruction: The State of Shopify’s Monolith – Shopify Engineering](https://engineering.shopify.com/blogs/engineering/shopify-monolith)
 * [Why I've Been Merging Microservices Back Into The Monolith At InVision](https://www.bennadel.com/blog/3944-why-ive-been-merging-microservices-back-into-the-monolith-at-invision.htm)
 * [Breaking the Monolith. Website Modular Architecture | Agoda Engineering & Design](https://medium.com/agoda-engineering/breaking-the-monolith-f3538d9c3ad6)
+* [Is there any place for monoliths in 2021? - Francisco J. Revoredo](https://fjrevoredo.me/is-there-any-place-for-monoliths-in-2021/)
 * [개발자가 바라본 중국 쇼핑 축제 쐉쓰이(광군제)](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EC%A4%91%EA%B5%AD-%EC%87%BC%ED%95%91-%EC%B6%95%EC%A0%9C-%EA%B4%91%EA%B5%B0%EC%A0%9C)
 * [2018 광군제(双十一) 서비스 운영 후기](https://www.popit.kr/2018-광군제双十一-서비스-운영-후기)
 * [깃플 기술스택 구경하세요~ (백엔드 편)](http://tech.gitple.io/2017/11/08/gitple-techstack-backend/)
@@ -942,6 +943,7 @@ Programming
 * [**Patterns of Distributed Systems**](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 * [Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 * [Summer Blog Backlog: Distributed Systems](http://www.oilshell.org/blog/2021/07/blog-backlog-2.html)
+* [Engineering dependability and fault tolerance in a distributed system - High Scalability -](http://highscalability.com/blog/2021/2/19/engineering-dependability-and-fault-tolerance-in-a-distribut.html)
 * [etcd | Home](https://etcd.io/)
   * [A Few Notes on Etcd Maintenance. Learnings on provisioning, compaction… | by Tasdik Rahman | Gojek Product + Tech](https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe)
 
@@ -1135,6 +1137,8 @@ Programming
 * [대규모 서비스를 위한 Micro Frontend · Present](https://present.do/decks/60bf99021903093a77d16769)
 * [Micro-Frontends Simplified - YouTube](https://www.youtube.com/watch?v=89hSa1pKPPg)
 * [Lessons from DAZN: Scaling Your Project with Micro-Frontends - YouTube](https://www.youtube.com/watch?v=tD1rcWSfYpo)
+* [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐. 소프트웨어의 수명과 복잡도는 대개 비례 관계입니다. 아무리 정교하고… | by 히로 | CLASS101 | Jun, 2021 | Medium](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77)
+  * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐 | GeekNews](https://news.hada.io/topic?id=4572)
 * [마이크로서비스 배포 혁명](https://jflip.tistory.com/23)
 * [What Comes after Microservices? Multi-Runtime Microservices with Bilgin Ibryam at QCon London](https://www.infoq.com/news/2020/03/multi-runtime-microservices/)
 * [Multi-Runtime Microservices Architecture](https://www.infoq.com/articles/multi-runtime-microservice-architecture/)
@@ -1352,6 +1356,9 @@ Programming
 * [‘이투스’ 클라우드 전환 사례: 문의선 CTO 인터뷰 | 슬로우뉴스](https://slownews.kr/80915)
 * [Rule number one: Avoid vendor lock-in | Sean Boots](https://sboots.ca/2021/05/12/rule-number-one-avoid-vendor-lock-in/) cloud만 해당하는 건 아니지만
 * [‘수익은 내 것, 찜찜함은 네 것!’··· 클라우드의 10가지 그늘 - CIO Korea](https://www.ciokorea.com/news/199709)
+* [Testing Practices for Cloud Engineering | Pulumi](https://www.pulumi.com/blog/infrastructure-testing-concepts/)
+* [IDG 블로그 | “대화가 필요한” 클라우드 데이터베이스와 클라우드 인프라 - ITWorld Korea](https://www.itworld.co.kr/news/203594)
+* [컬러 오브 머니··· '색'으로 알아보는 클라우드 지출 - CIO Korea](https://www.ciokorea.com/news/203649)
 * [aws](aws.md)
 * [azure](azure.md)
 * [Dapr - Distributed Application Runtime](https://dapr.io/)
@@ -1885,6 +1892,7 @@ Programming
 * [웹 개발을 위해 꼭 알아야하는 보안 공격 · Present](https://present.do/decks/60bf91801903093a77d160ed)
 * [Password Managers](https://lock.cmpxchg8b.com/passmgrs.html)
 * ["사례로 본" 보편적인 공급망 공격 유형 6가지 - ITWorld Korea](https://www.itworld.co.kr/news/196219)
+* ['사례로 본' 코드 재사용이 여전히 보안 악몽인 이유 - ITWorld Korea](https://www.itworld.co.kr/news/202964)
 * [Elliptic Curve Cryptography Explained – Fang-Pen's coding note](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/)
 * [Kaspersky Password Manager: All your passwords are belong to us | Donjon](https://donjon.ledger.com/kaspersky-password-manager/)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
@@ -2819,6 +2827,7 @@ Programming
 * [레거시 코드에서 이해하기 쉬운코드로 리팩토링](https://chodragon9.github.io/blog/legacy-code-to-easy-code)
 * [**레거시를 파악하고 변경해나가기: 우선순위와 고려사항들 :: Kaden Sungbin Cho**](https://kadensungbincho.tistory.com/72)
 * [How I Failed to Deal With Legacy Code](https://medium.com/better-programming/how-i-failed-to-deal-with-legacy-code-8e123cff5bce)
+* ['앱 현대화' 필수라는데... CIO가 알아야 할 어두운 비밀 11가지 - CIO Korea](https://www.ciokorea.com/news/203104)
 * [5 easy wins to refactor even the ugliest code](https://medium.com/hackernoon/5-easy-wins-to-refactor-even-the-ugliest-code-3c7874b2f1b4)
 * [Code Refactoring: Learn Code Smells And Level Up Your Game!](https://www.youtube.com/watch?v=D4auWwMsEnY)
 * [Code Smell: Side Effects](https://medium.com/thinkster-io/code-smell-side-effects-caf799df2151)
@@ -3067,6 +3076,7 @@ Programming
   * [게임 테스트 자동화 5년의 기록, 리니지M과 리니지2M의 자동테스트 회고](https://ndc.nexon.com/session/sessionView?sessNo=100007275)
 * [You're Testing WHAT? • Gojko Adzic • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=5_IW7npQk9k)
 * [Unit Test 시작하기 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/6274/)
+* [How to Step Up Cloud Infrastructure Testing | Pulumi](https://www.pulumi.com/what-is/how-to-step-up-cloud-infrastructure-testing/)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
@@ -3096,6 +3106,8 @@ Programming
   * [클린 코드를 위한 테스트 주도 개발 2](https://hyesun03.github.io/2016/09/19/djangoTDD02/)
   * [클린 코드를 위한 테스트 주도 개발 3](https://hyesun03.github.io/2016/09/22/djangoTDD03/)
   * [클린 코드를 위한 테스트 주도 개발 4](https://hyesun03.github.io/2016/09/22/djangoTDD04/)
+* [Peanut: 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines](https://github.com/Clivern/Peanut)
+  * [Peanut - 개발 & 테스트 자동화를 위해 각종 DB와 서비스를 쉽게 배포하는 도구 | GeekNews](https://news.hada.io/topic?id=4741)
 
 ## TDD, Test, BDD
 * [BDD(Behaviour-Driven Development)에 대한 간략한 정리](http://prostars.net/227)
