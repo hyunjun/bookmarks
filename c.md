@@ -531,6 +531,7 @@ C
 
 # TDD Test
 * [Embedded C/C++ Unit Testing Basics | Interrupt](https://interrupt.memfault.com//blog/unit-testing-basics)
+* [문제를 출제할 때 없으면 안 된다는 c assert 함수에 대해 알아봅시다.](https://codingdog.tistory.com/570)
 * [checkedc: Checked C is an extension to C that adds checking to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses. This repo has a wiki for Checked C, sample code, the specification, and test code](https://github.com/microsoft/checkedc)
 * ceedling [Unit-testing (embedded) C applications with Ceedling](http://dmitryfrank.com/articles/unit_testing_embedded_c_applications#)
 * [CMOCK - AUTOMATED MOCK & STUB GENERATION FOR C](https://mark-vandervoord-yxrv.squarespace.com/cmock) unit test
