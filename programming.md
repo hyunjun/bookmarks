@@ -970,6 +970,7 @@ Programming
 * [From Monolith to Event-Driven: Finding Seams in Your Future Architecture](https://www.infoq.com/articles/event-driven-finding-seams/)
 * [Kafka와 MongoDB, Kubernetes로 유연하고 확장 가능한 LINE 쇼핑 플랫폼 구축하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-shopping-platform-kafka-mongodb-kubernetes/)
 * [**Event Driven Architecture란?. MicroService Architecture(MSA)는 loosely… | by yjs0997 | DT Evangelist 기술 블로그 | Medium**](https://medium.com/dtevangelist/event-driven-microservice-%EB%9E%80-54b4eaf7cc4a) 강추
+* [Thinking in Events: From Databases to Distributed Collaboration Software - YouTube](https://www.youtube.com/watch?v=ePHpAPacOdI)
 
 ## Architecture Microservice MSA
 * [**Microservice Architecture**](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)
@@ -1987,6 +1988,7 @@ Programming
 * [500 마일 이메일 문제](https://edykim.com/ko/post/500-mile-email-problem/)
 * [Your E-Mail Validation Logic is Wrong](https://www.netmeister.org/blog/email.html)
 * [What's in email tracking links and pixels? | Beng Tan](https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/)
+* [Can You Validate These Emails? - YouTube](https://www.youtube.com/watch?v=60BPETbra9U)
 * [gmail-helper - it will contain different utilities for GMail API over OAuth2](https://github.com/abhishekkr/gmail-helper)
 * IMAP
   * [links of commands](https://gist.github.com/hyunjun/0e730ad6c9a5f2562f6ec6027cc8a95e)
