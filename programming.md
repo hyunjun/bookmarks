@@ -1959,7 +1959,6 @@ Programming
 * 개발과 운영의 조화
   * [1 기존 개발 체계의 문제점](http://bcho.tistory.com/815)
   * [2 Devops의 정의](http://bcho.tistory.com/817)
-* [전 위메프 CTO 김요섭님의 DEVOPS](http://bcho.tistory.com/1112)
 * [What DevOps Really Means](https://medium.com/verifa/what-devops-really-means-54f6ee8f68f1)
 * [DevOps101 — First Steps on Terraform: Terraform + OpenStack + Ansible](https://hackernoon.com/terraform-openstack-ansible-d680ea466e22)
 * [DevOps 오픈소스 트랜드 (클라우드, 모바일 중심)](https://www.slideshare.net/arload/devops-125948933/arload/devops-125948933)
