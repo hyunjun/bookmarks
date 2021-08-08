@@ -3339,6 +3339,7 @@ Javascript
   * [Recoil.js — The New, Better State Management Library for React | by Guna Shekar Proddaturi | Better Programming | Jun, 2020 | Medium](https://medium.com/better-programming/recoil-js-the-new-better-state-management-library-for-react-1095947b5191)
   * [Recoil 레시피: 서버 사이드 렌더링 - 코드쓰는사람](https://taegon.kim/archives/10263)
   * [Recoil atomFamily를 사용한 상태 관리 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-07-07-state-management-with-recoil-atomfamily)
+  * [Recoil 0.4 - 패치노트 읽기 | immigration9](https://immigration9.github.io/react,recoil/2021/08/01/reading-patchnote-recoil04.html)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [sagen을 사용해서 간단히 상태 관리하기](https://jungpaeng.tistory.com/100)
