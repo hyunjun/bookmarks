@@ -1952,7 +1952,8 @@ Programming
   * [22회 - 금주의 Tool / Service 소개 (4회) 1부](https://www.youtube.com/watch?v=FqKytNdVmAU)
   * [22회 - 금주의 Tool / Service 소개 (4회) 2부](https://www.youtube.com/watch?v=dFbU2QrNy-c)
 * [NDC 17 없어서 못 뽑는다는 데브옵스(DevOps) 개발자, 어떤 일을 할까?](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=71605)
-* [(11) DevOps 란 무엇일까?](http://www.mobiinside.com/kr/2017/11/27/subokim-devops/)
+* [IT의 중심에서 (11) DevOps 란 무엇일까? - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2017/11/27/it%ec%9d%98-%ec%a4%91%ec%8b%ac%ec%97%90%ec%84%9c-11-devops-%eb%9e%80-%eb%ac%b4%ec%97%87%ec%9d%bc%ea%b9%8c/)
+* [DevOps 란 무엇일까? – IT의 중심에서](https://subokim.wordpress.com/2017/11/15/what-is-devops/)
 * [IDC 1도 모르는 개발자가 DevOps를 만났을때](https://www.slideshare.net/ssuserd5b689/idc-1-devops-105987290)
 * [What Is DevOps?](https://www.youtube.com/watch?v=NCj11DHWcG8)
 * 개발과 운영의 조화
