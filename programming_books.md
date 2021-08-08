@@ -22,6 +22,7 @@ Programming Books
 * [한빛 리얼타임 eBook](https://www.hanbit.co.kr/realtime/books/new_webbook_list.html)
 * [2021년 상반기 개발자는 이 책을 읽었다](https://www.notion.so/2021-73cb3aa263ae4c4c903e10b854dda826)
 * [2021 개발자 필독서 ](https://www.kyobobook.co.kr/eventRenewal/eventViewByPid.laf?eventPid=42768)
+* [OKKY - 절판된 개발서적 합법적으로 구하는 방법](https://okky.kr/article/1016313)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * [사물인터넷을위한 BBC microbit 프로그래밍](http://jpub.tistory.com/723)
   * 한라 005.118 서64ㅂ
