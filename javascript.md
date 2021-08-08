@@ -3118,6 +3118,7 @@ Javascript
 * [Mark a Coordinate on Mapbox Map in React Native | by nhammad | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/mark-a-coordinate-on-mapbox-map-in-react-native-5d21c71ed46e)
 * [React Native and Android Studio: Everything you need to get started in Linux | by Romano Fenzo Flores | The Startup | Medium](https://medium.com/swlh/react-native-and-android-studio-everything-you-need-to-get-started-in-linux-b47154e78f9e)
 * [리액트 네이티브 앱 전환 그리고 1년 후 - 리디주식회사 RIDI Corporation](https://ridicorp.com/story/react-native-1year-review)
+* [React-Native M1 arm64 리액트 네이티브 세팅(with. expo & React Native CLI)](https://qnrjs42.github.io/react-native/m1-arm64-setting)
 * [react-native-cli 로 typescript 프로젝트 생성하기](https://velog.io/@juunini/react-native-cli-%EB%A1%9C-typescript-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1%ED%95%98%EA%B8%B0)
 * [react-native-daummap](https://www.npmjs.com/package/react-native-daummap)
 
