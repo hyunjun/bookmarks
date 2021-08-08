@@ -201,6 +201,8 @@ SQL
 * [Aurora MySQL 스냅샷을 Parquet 로 S3 에 Export](https://chang12.github.io/rds-snapshot-export-to-s3/)
 * [When Should I Use Amazon Aurora and When Should I use RDS MySQL? - Percona Database Performance Blog](https://www.percona.com/blog/2018/07/17/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql/)
 * [A First Glance at Amazon Aurora Serverless RDS - Percona Database Performance Blog](https://www.percona.com/blog/2020/10/27/a-first-glance-at-amazon-aurora-serverless-rds/)
+* [AWS Announces New Database Service Babelfish for Aurora PostgreSQL in Preview](https://www.infoq.com/news/2020/12/aws-postgresql-aurora-babelfish/)
+* [Amazon Aurora PostgreSQL 에서 pg_bigm 모듈사용하기](https://jojoldu.tistory.com/590)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
