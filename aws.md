@@ -79,8 +79,12 @@ AWS
 * [AWS Application Load Balancer algorithms | by Simon Tabor | DAZN Engineering | Medium](https://medium.com/dazn-tech/aws-application-load-balancer-algorithms-765be2eca158)
 * [ELB에 무료 SSL인증서 받아서 설정하기](https://developer88.tistory.com/313)
 * [AWS - Elastic Load Balancer (ELB) - YouTube](https://www.youtube.com/watch?v=s9FHdj6jd_U)
+* [How to solve the API-GW “30 seconds limitation” using ALB](https://hackernoon.com/how-to-solve-the-api-gw-30-seconds-limitation-using-alb-700bf3b1bd0e)
+* [클라우드에서 SQL injection 정도는 기본으로 막아줍니다](https://jybaek.tistory.com/822) cloudfront or ALB
+* [패킷 덤프를 통해 확인하는 ALB와 NLB의 차이점 (1) - ALB 동작 원리](https://alden-kang.tistory.com/6)
 * [AWS-NLB-Sticky-sessions-timeout - 리눅서의 기술술 블로그](https://linuxer.name/2020/08/aws-nlb-sticky-sessions-timeout/)
 * [AWS NLBs and the mixed up TCP connections](https://www.niels-ole.com/cloud/aws/linux/2020/10/18/nlb-resets.html)
+* [패킷 덤프를 통해 확인하는 ALB와 NLB의 차이점 (2) - NLB 동작 원리](https://alden-kang.tistory.com/8)
 * [AWS Transit Gateway - 1](http://zigispace.net/991)
 * [AWS Transit Gateway - 2](http://zigispace.net/992)
 * [AWS Transit Gateway와 Site-to-Site VPN을 이용한 오피스 네트워크 구성 | by Dahyun | 원티드 제품 팀블로그 | Oct, 2020 | Medium](https://medium.com/wantedjobs/aws-transit-gateway%EC%99%80-site-to-site-vpn%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%94%BC%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B5%AC%EC%84%B1-50d4948274bc)
@@ -405,7 +409,6 @@ AWS
 * [다른 AWS Reseller를 이용하면서 OpsNow를 이용하는 방법! – OpsNow Tech Blog](https://blog.opsnow.com/22)
 * [입 개발 AWS S3 503 Slow Down과 AWS S3 Versioning은 관계가 있다. | Charsyam's Blog](https://charsyam.wordpress.com/2020/11/26/%ec%9e%85-%ea%b0%9c%eb%b0%9c-aws-s3-503-slow-down%ea%b3%bc-aws-s3-versioning%ec%9d%80-%ea%b4%80%ea%b3%84%ea%b0%80-%ec%9e%88%eb%8b%a4/)
 * [AWS-apple-MAC-instance - 리눅서의 기술술 블로그](https://linuxer.name/2020/12/aws-apple-mac-instance/)
-* [AWS Announces New Database Service Babelfish for Aurora PostgreSQL in Preview](https://www.infoq.com/news/2020/12/aws-postgresql-aurora-babelfish/)
 * [AWS Launch Template 사용법 - YouTube](https://www.youtube.com/watch?v=ue7Rk20p_EA)
 * [AWS Cheat Sheets - Tutorials Dojo](https://tutorialsdojo.com/aws-cheat-sheets/)
 * [A.D.D - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/A.D.D) AWS Docker DeepLearning
@@ -467,6 +470,8 @@ AWS
 * [AWS Athena의 권한 관리와 클라이언트 접속 – OpsNow Tech Blog](https://blog.opsnow.com/14)
 * [Amazon Athena로 ALB Access Log에서 원하는 데이터 추출하기](https://jojoldu.tistory.com/537)
 * [AWS Athena와 잘 어울리는 DB 클라이언트 - DBeaver - Nephtyw’S Programming Stash](https://nephtyws.github.io/database/dbeaver-with-athena/)
+
+# Aurora -> [sql](sql.md)
 
 # Book
 * [아마존 웹 서비스를 다루는 기술: 실무에서 필요한 AWS 클라우드의 모든 것!](http://pyrasis.com/book/TheArtOfAmazonWebServices)
@@ -795,8 +800,6 @@ AWS
 * [AWS Serverless architecture을 응용한 안정적인 DW 플랫폼 구현](http://story.haezoom.com/?p=1020)
 * [AWS Lambda — should you have few monolithic functions or many single-purposed functions?](https://hackernoon.com/aws-lambda-should-you-have-few-monolithic-functions-or-many-single-purposed-functions-8c3872d4338f)
 * [ALB+EC2 to API gateway + Lambda](https://www.slideshare.net/KyuhyunByun1/albec2-to-api-gateway-lambda)
-* [How to solve the API-GW “30 seconds limitation” using ALB](https://hackernoon.com/how-to-solve-the-api-gw-30-seconds-limitation-using-alb-700bf3b1bd0e)
-* [클라우드에서 SQL injection 정도는 기본으로 막아줍니다](https://jybaek.tistory.com/822) cloudfront or ALB
 * [AWS 서비스를 통하여 다양한 컨텐츠를 빠르게 전송하기 #AWS Summit Online Korea](https://dev.classmethod.jp/articles/summit_korea_rapidly_transfer_content/) Edge, CloudFront, Global Accelerator
 * [Amazon CloudFront Origin Shield-Review - 리눅서의 기술술 블로그](https://linuxer.name/2020/10/amazon-cloudfront-origin-shield-review)
 * [Amazon CloudFront: Range GET Behavior | by Hedy Kim | Cloud Villains | Jun, 2021 | Medium](https://medium.com/ctc-mzc/amazon-cloudfront-range-get-behavior-e419e22f128f)
