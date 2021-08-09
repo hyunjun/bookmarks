@@ -134,6 +134,7 @@ Writing
 * [Writing as a dominant engineering skill | LinkedIn](https://www.linkedin.com/pulse/writing-dominant-engineering-skill-maksim-ekimovskii/)
 * [LaTeX 과 PDF](https://statkclee.github.io/latex/document-ide.html)
 * [LaTeX 과 PDF](https://statkclee.github.io/latex/latex-writing.html)
+* [Building a Documentation Culture :: antrix.net](https://antrix.net/posts/2021/documentation/) c4model
 * [apiDoc - Inline Documentation for RESTful web APIs](https://apidocjs.com/)
   * [개발자가 싫어하는 문서화하기 2편 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222067713267)
 * [API Improvement Proposals](https://aip.dev)
