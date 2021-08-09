@@ -258,7 +258,6 @@ Clojure
 * [Clojure 개발 환경 셋업 #1 - Leiningen](https://www.youtube.com/watch?v=0Y_jRgcVrq0)
 * [Clojure 개발 환경 셋업 #2 - REPL](https://www.youtube.com/watch?v=1QyUz-FUCWM)
 * [Clojure 개발 환경 셋업 #3 - Calva](https://www.youtube.com/watch?v=7UVgW-A-e9g) [33:05~33:45](https://www.youtube.com/watch?v=8AJkLS7YqFg)
-* [Stuart Halloway Aim Small, Miss Small: Writing Correct Programs](https://www.deconstructconf.com/2018/stuart-halloway-aim-small-miss-small-writing-correct-programs)
 * [Clojure socket prepl cookbook](https://oli.me.uk/2019-03-22-clojure-socket-prepl-cookbook/)
 * [Try to build with graal](https://github.com/dundalek/closh/commit/352a523385ca8a99d25aeec2d18d0bca6ed8e5e2)
 * [Datahike Release 0.2.0](https://lambdaforge.io/2019/09/20/datahike-release-0.2.0.html)
@@ -681,6 +680,8 @@ Clojure
 * [re:Clojure 2020 conference day 1 - YouTube](https://www.youtube.com/watch?v=qRI1Ved0SfE)
 * [re:Clojure 2020 conference day 2 - YouTube](https://www.youtube.com/watch?v=NqWR_ysLkW8)
 * [stuarthalloway/presentations](https://github.com/stuarthalloway/presentations)
+  * [Stuart Halloway Aim Small, Miss Small: Writing Correct Programs](https://www.deconstructconf.com/2018/stuart-halloway-aim-small-miss-small-writing-correct-programs)
+  * ["Running With Scissors: Live Coding With Data" by Stuart Halloway - YouTube](https://www.youtube.com/watch?v=Qx0-pViyIDU)
 
 # Debug
 * [Debugging in Clojure?](http://stackoverflow.com/questions/2352020/debugging-in-clojure)
