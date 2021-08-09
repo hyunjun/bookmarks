@@ -58,6 +58,7 @@
   * [Making Apache Spark Testing Easy with Spark Testing Base](http://blog.cloudera.com/blog/2015/09/making-apache-spark-testing-easy-with-spark-testing-base/)
   * [Getting Apache Spark Customers to Production](http://www.slideshare.net/cloudera/getting-apache-spark-customers-to-production)
   * [Why Your Apache Spark Job is Failing](http://www.slideshare.net/cloudera/why-your-apache-spark-job-is-failing)
+  * [How to use Apache Spark with CDP Operational Database Experience - Cloudera Blog](https://blog.cloudera.com/how-to-use-apache-spark-with-cdp-operational-database-experience/)
 * [The Apache Spark @youtube](https://www.youtube.com/user/TheApacheSpark)
 * [Apache spark 소개 및 실습](http://www.slideshare.net/KangDognhyun/apache-spark-70360736)
 * [Spark 소개 1부](http://www.slideshare.net/brotherjinho/spark-1-48694544)
