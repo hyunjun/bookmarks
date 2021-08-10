@@ -650,6 +650,7 @@ App
       * [Top 10 VS Code extensions for 2021 - LogRocket Blog](https://blog.logrocket.com/top-10-vs-code-extensions-2021/)
       * [Visual Studio 신나는 코드 타이핑 - 파워모드(PowerMode)](https://skuld2000.tistory.com/89)
       * [간단한 VSCode Extension 만들기 예제 - YouTube](https://www.youtube.com/watch?v=R671qx3m7vo)
+      * [Top 5 Must-have VS Code extensions](https://open-support.tistory.com/entry/Top-5-Must-have-VS-Code-extensions)
     * Git
       * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
       * [mac에서 visual studio code를 git commit editor로 설정하기](http://blog.woniper.net/352)
@@ -1404,6 +1405,7 @@ App
 * [milkdown: 🍼 Plugin driven WYSIWYG markdown editor](https://github.com/Saul-Mirone/milkdown)
 * mdjs [Introducing mdjs](https://medium.com/better-programming/introducing-mdjs-6bedba3d7c6f)
 * [Obsidian - A second brain, for you, forever](https://obsidian.md/)
+  * [쓸만한 Obsidian 웹클립퍼가 나왔네요! : 클리앙](https://www.clien.net/service/board/lecture/16394051)
 * [**prose.io**](http://prose.io) github
 * [**readme.so - Easiest Way to Create A README**](https://readme.so/)
 * sokuricat [소쿠리캣 - 마크다운으로 글쓰는 고양이](https://sokuricat.com/)
