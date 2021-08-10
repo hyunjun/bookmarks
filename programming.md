@@ -1181,6 +1181,7 @@ Programming
 * [Three Patterns To Scale Your Microservices - YouTube](https://www.youtube.com/watch?v=1dAnMkF4Mc4)
 * [Design Microservice Architectures the Right Way - YouTube](https://www.youtube.com/watch?v=j6ow-UemzBc)
 * [Building MSA in Enterprise - 권용석(삼성전자 무선사업부), 정영준(AWS) :: 제21회 AWSKRUG Container모임 - YouTube](https://www.youtube.com/watch?v=O-4hag2jDBc)
+* [Pitfalls and Patterns in Microservice Dependency Management - YouTube](https://www.youtube.com/watch?v=kjbfvP65Jn0)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
