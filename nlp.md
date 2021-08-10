@@ -378,6 +378,7 @@ NLP
 * ['빅데이터/빅데이터 with python' 카테고리의 글 목록](https://ehclub.net/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0%20with%20python) 웹 검색엔진 만들기
 * [How MDN's autocomplete search works - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
   * [MDN의 검색 자동완성 구현 방법 | GeekNews](https://news.hada.io/topic?id=4762)
+* [NLP와 OCR, 머신 러닝으로 더욱 편리하고 특별한 LINE 가계부 만들기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-kakeibo-with-nlp-ocr-machinelearning/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
