@@ -2933,6 +2933,7 @@ Javascript
 * [클라이언트의 사용자 중심 예외 처리 | JBEE.io](https://jbee.io/react/error-declarative-handling-2/) 프런트엔드의 에러를 사용자 중심으로 분류하고 에러 특징을 파악해 무엇을 고려해야 하는지 분석
 * [선언적으로 에러 상황 제어하기 | JBEE.io](https://jbee.io/react/error-declarative-handling-3/)
 * [리액트 실력을 일취월장 하는 법](https://brunch.co.kr/@skykamja24/606)
+* [Home - About React - A Tutorial website for React Developers](https://aboutreact.com/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
