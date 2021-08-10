@@ -372,6 +372,7 @@ Clojure
 * [On Types](https://blog.cleancoder.com/uncle-bob/2021/06/25/OnTypes.html)
 * [Getting Started with Site - YouTube](https://www.youtube.com/watch?v=1QJQF4NwOkQ)
 * [Building Site - YouTube](https://www.youtube.com/playlist?list=PLrCB9bq0iVIoCCV7SGJH1bXTrDfp2mP4i)
+* [Datomic Cloud - Getting Started - YouTube](https://www.youtube.com/watch?v=6Sn2PTzglCw)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
