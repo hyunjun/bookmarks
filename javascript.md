@@ -1693,6 +1693,7 @@ Javascript
   * [Introduction to Svelte actions - Singapore JS - YouTube](https://www.youtube.com/watch?v=YPX3KvvgDtQ)
   * [몇가지 리액트와 스벨트 비교 글 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/876)
   * [Flying Monocopter](https://flyingmonocopter.github.io/tags/svelte/)
+  * [Svelte - Web App Development Reimagined • Mark Volkmann • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=4CGzFwHoD0A)
   * [svelte-weather: 서울시 월별 평균 강수량 (1961~2020) 을 시각화한 자료](https://github.com/huskyhoochu/svelte-weather)
   * [SvelteKit • The fastest way to build Svelte apps](https://kit.svelte.dev/)
     * [Accessibility.kr에 스벨트킷 적용 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/874)
