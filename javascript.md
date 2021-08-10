@@ -2932,6 +2932,7 @@ Javascript
 * [효율적인 프런트엔드 에러 핸들링 | JBEE.io](https://jbee.io/react/error-declarative-handling-0/)
 * [클라이언트의 사용자 중심 예외 처리 | JBEE.io](https://jbee.io/react/error-declarative-handling-2/) 프런트엔드의 에러를 사용자 중심으로 분류하고 에러 특징을 파악해 무엇을 고려해야 하는지 분석
 * [선언적으로 에러 상황 제어하기 | JBEE.io](https://jbee.io/react/error-declarative-handling-3/)
+* [리액트 실력을 일취월장 하는 법](https://brunch.co.kr/@skykamja24/606)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -3149,6 +3150,7 @@ Javascript
   * [How to Use React’s Context API and useContext() Hooks Effectively | by Paige Niedringhaus | Better Programming | Medium](https://medium.com/better-programming/how-to-use-reacts-context-api-and-usecontext-hooks-effectively-ed98ad9343b6)
   * [Using the React useContext Hook](https://medium.com/digio-australia/using-the-react-usecontext-hook-9f55461c4eae)
   * [**Blogged Answers: Why React Context is Not a "State Management" Tool (and Why It Doesn't Replace Redux) · Mark's Dev Blog**](https://blog.isquaredsoftware.com/2021/01/blogged-answers-why-react-context-is-not-a-state-management-tool-and-why-it-doesnt-replace-redux/)
+  * [Context API - React에서 데이터를 다루는 개념중 하나인 Context API를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/context-api/)
 * [Corfu - Beautiful React UI Kit](https://codekits.co/corfu.html)
   * [무료 리액트 UI 키트 'Corfu' 소개, 사용 및 활용방법 알려줌!](https://www.youtube.com/watch?v=G38ic-3qlWA)
 * [Cycle.js - A fully reactive JavaScript framework for Human-Computer Interaction](http://cycle.js.org/)
@@ -3279,6 +3281,7 @@ Javascript
 * [ReactJS For Stupid People](http://blog.andrewray.me/reactjs-for-stupid-people/)
 * reactjs-popup
   * [Introducing reactjs-popup 🎉 —React popup, Modals, Tooltips and Menus — All in one](https://hackernoon.com/introducing-reactjs-popup-modals-tooltips-and-menus-all-in-one-227de37766fa)
+* [react-kakao-maps-sdk: React components for using kakao map api](https://github.com/JaeSeoKim/react-kakao-maps-sdk)
 * [React Lifecycle Visualizer](https://github.com/Oblosys/react-lifecycle-visualizer)
 * [react-loadable - ⏳ A higher order component for loading components with promises](https://github.com/thejameskyle/react-loadable)
 * [React-metaform is a React library for dynamically generating forms based on metadata](https://github.com/gearz-lab/react-metaform)
