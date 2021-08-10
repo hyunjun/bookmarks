@@ -990,6 +990,8 @@ Programming Books
   * [Tucker의 Go 언어 프로그래밍](https://jhrogue.blogspot.com/2021/04/tucker-go.html)
 * (NOT YET) [Go 마스터하기 2/e | 에이콘출판사](http://www.acornpub.co.kr/book/mastering-go-2e)
 * [Head First Go](https://nymets.medium.com/head-first-go-feb4c5a80708)
+* (NOT YET) [밑바닥부터 만드는 인터프리터 in Go](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=277193668)
+* (NOT YET) [밑바닥부터 만드는 컴파일러 in Go](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=277194800)
 
 # Hadoop
 
