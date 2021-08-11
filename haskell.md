@@ -310,6 +310,7 @@ Haskell
 * [하스켈 infix 연산자](https://gist.github.com/nattybear/630fc2a4f419b23ccc297d9eff2b8eba)
 * [하스켈 polymorphism](https://gist.github.com/nattybear/16910b4aca976819a78c80ce2d4ba6ae)
 * [하스켈 타입 변수](https://gist.github.com/nattybear/dfa8cf35854e67038d1487ae36e3f036)
+* [하스켈 타입 만들기](https://gist.github.com/nattybear/0cef0bd7636dbc30c7d5173833dab031)
 * [하스켈 if](https://gist.github.com/nattybear/c6ad0618869bd7521d719f270436bff1)
 * [하스켈 Continuation Passing Style, CPS](https://gist.github.com/nattybear/387d22fc82c7339a29e0c93084fef10e)
 * [하스켈 달러 표시](https://gist.github.com/nattybear/86eb28e25f82affc58f5b8a2f02c6742) 우선순위
