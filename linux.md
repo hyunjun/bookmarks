@@ -401,7 +401,7 @@ Linux
 * [How to Test Network Speed in Linux {9 Tools} | phoenixNAP KB](https://phoenixnap.com/kb/linux-network-speed-test)
   * Speedtest, Fast, Color Bandwidth Meter (CBM), iPerf, nload, Tcptrack, Iftop, Wget, youtube-dl
 * [Linux / UNIX List Just Directories Or Directory Names - nixCraft](https://www.cyberciti.biz/faq/linux-list-just-directories-or-directory-names/) `ls -d */` `find . -type d -ls` `find . -d 1 -type d`
-* [modern-unix: A collection of modern/faster/saner alternatives to common unix commands](https://github.com/ibraheemdev/modern-unix#----bat--)
+* [modern-unix: A collection of modern/faster/saner alternatives to common unix commands](https://github.com/ibraheemdev/modern-unix)
   * bat exa lsd delta dust duf broot fd ripgrep ag fzf mcfly choose jq sd cheat tldr bottom glances gtop hyperfine gping procs httpie curlie xh zoxide dog
 * [6 Command Line Tools for Productive Programmers - Earthly Blog](https://earthly.dev/blog/command-line-tools/) broot, Funky, Fuzzy Finder (FZF), McFly, Better CD, GitUpdate, JQ, mitmproxy, Pandoc, PSTree, Earthly linting prose
 * [Efficient File Copying On Linux](https://eklitzke.org/efficient-file-copying-on-linux)
