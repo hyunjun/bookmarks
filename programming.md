@@ -1900,6 +1900,9 @@ Programming
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
+* FIDO [line-fido2-server: FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples](https://github.com/line/line-fido2-server)
+  * [FIDO at LINE: 패스워드 없는 세상으로의 첫 발걸음 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/fido-at-line/)
+  * [FIDO at LINE: FIDO2 서버를 오픈 소스로 공개했습니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/fido-at-line-fido2-server-opensource/)
 * FingerprintJS [Cross-browser tracking vulnerablity in Tor, Safari, Chrome and Firefox - FingerprintJS](https://fingerprintjs.com/blog/external-protocol-flooding/)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
 
