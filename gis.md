@@ -43,6 +43,11 @@ GIS
 * [Leaflet Map Routing JavaScript App - YouTube](https://www.youtube.com/watch?v=F8dnYNTncoU)
 * [mapscii: MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me \<= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows](https://github.com/rastapasta/mapscii)
 
+# Library
+* [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/) 지형 공간 데이터를 시각화 탐색을 용이하도록 하기 위해 개발한 오픈 소스 그리드 시스템
+  * [h3: Hexagonal hierarchical geospatial indexing system](https://github.com/uber/h3)
+  * [Large Scale Geospatial Indexing and Analysis on Apache Spark - YouTube](https://www.youtube.com/watch?v=TF_VvPUPCqU)
+
 # PostGIS
 * [POSTGIS 2.2 LEVERAGING POWER OF POSTGRESQL 9.5](http://www.postgresonline.com/journal/archives/350-PostGIS-2.2-leveraging-power-of-PostgreSQL-9.5.html)
 * [PostGIS와 함께하는 GIS 3세대 - FOSS4G Korea 2017](https://www.slideshare.net/jangbi882/postgis-gis-3-foss4g-korea-2017)
