@@ -1306,6 +1306,10 @@ Programming Books
 * (NOT YET) [번역서 "BPF로 리눅스 관측 가능성 향상하기" 나왔습니다](http://occamsrazr.net/tt/363)
 * (NOT YET) [칼리 리눅스로 파헤치는 도커 해킹](https://bjpublic.tistory.com/362)
 * (NOT YET) [kkamagui의 작업실 :: 서평 프리-오픈소스 소프트웨어 혁명의 역사](https://kkamagui.tistory.com/939)
+* [리눅스 입문자를 위한 명령어 사전](https://www.hanbit.co.kr/store/books/look.php?p_code=B4300598719)
+  * ★★★★☆
+  * [리눅스 입문자를 위한 명령어 사전. 유닉스의 탄생을 읽고 나서 썼지만 유닉스/리눅스 운영체제는 문서화의… | by Jun | Aug, 2021 | Medium](https://nymets.medium.com/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%82%AC%EC%A0%84-d9cf272eca03)
+  * [리눅스 입문자를 위한 명령어 사전](https://jh4hj.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%82%AC%EC%A0%84)
 
 ## Shell script, bash
 * 유닉스 리눅스 셸 스크립트 예제 사전
