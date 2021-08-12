@@ -19,7 +19,7 @@
   * balance
     * 가장 중요한 부분에 집중해야 하는 건 코드 작성에서도 마찬가지이지만 그렇다고 균형을 잃고 한쪽에 과도하게 집중하면 반대로 손실도 항상 발생
     * 야구에서 장타력을 더 향상시키기 위해 웨이트를 늘력 근육량을 키웠다가 균형을 잃고 타격 지표 전체가 하락하는 일은 빈번(e.g. 2021 터커)
-    * ![드래곤볼같은 만화에서도 나오는 이야기](dragonball_balance.jpg)
+    * <img src="dragonball_balance.jpg" alt="" width="300"/>
 * 야구
   * 류현진
     * 92mile fastball 피안타율 0.222
@@ -43,7 +43,7 @@
 * [문경은 - 선수들을 100% 믿고 기다리는 게 좋은 것만은 아니었다](https://sports.news.naver.com/news.nhn?oid=529&aid=0000057518)
 * [Asian Telecommunications Companies Achieve Data-Driven Innovation with Cloudera](https://www.cloudera.com/about/news-and-blogs/press-releases/2021-08-03-asian-telecommunications-companies-achieve-data-driven-innovation-with-cloudera.html)
   * 내부적으로는 의미있는 일일 수 있으나 business적으로도 그럴까?
-  * ![LG U+ cloudera](cloudera_lguplus.png)
+  * <img src="cloudera_lguplus.png" alt="" width="300"/>
 * 하루키의 우천염천
   * 오픈소스나 개인 프로젝트 등의 다른 일을 하는 게 마치 하루키의 수필과도 같다는 생각이 듦
   * 핵심작업을 하기 위한 도움닫기이자 새로운 활력을 얻는 바탕이 되지 않을까?
