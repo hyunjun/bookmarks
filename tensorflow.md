@@ -477,7 +477,6 @@ TensorFlow
 * [Tensorflow C++ 동적 링크드 라이브러리(stanalone C++ project) 만들기](https://ita9naiwa.github.io/tensorflow/2017/11/26/how-to-tensorflow-C++.html)
 * [My Tensorflow Test](https://github.com/rky0930/MyTensorflowTest)
 * [**CPU, GPU, and TensorFlow**](https://teamdable.github.io/techblog/CPU-GPU-and-TensorFlow) CPU, GPU의 기본 구조 및 차이에 대한 좋은 글
-* [Predicting Diabetes using Logistic Regression with TensorFlow.js | Deep Learning for JavaScript Hackers (Part I)](https://www.curiousily.com/posts/diabetes-prediction-using-logistic-regression-with-tensorflow-js/)
 * [TensorFlow에서 추천 시스템 구축: 개요](https://cloud.google.com/solutions/machine-learning/recommendation-system-tensorflow-overview)
 * [TensorFlow with Apache Arrow Datasets](https://medium.com/tensorflow/tensorflow-with-apache-arrow-datasets-cdbcfe80a59f)
 * [Introducing Neural Structured Learning in TensorFlow](https://medium.com/tensorflow/introducing-neural-structured-learning-in-tensorflow-5a802efd7afd)
@@ -904,11 +903,13 @@ TensorFlow
   * [Realtime Object Detection with MobileNet - ML with Tensorflow.js](https://morioh.com/p/38cef719dc0d)
   * [자바스크립트로 만드는 인공지능 - TensorFlow.js - YouTube](https://www.youtube.com/watch?v=5q2E3JMXTKU)
   * [Real-time AR Sudoku solver - Made with TensorFlow.js - YouTube](https://www.youtube.com/watch?v=x-HH0kwbO-4)
+  * [TensorFlow.js의 2021년](https://brunch.co.kr/@advisor/30)
+  * [Predicting Diabetes using Logistic Regression with TensorFlow.js | Deep Learning for JavaScript Hackers (Part I)](https://www.curiousily.com/posts/diabetes-prediction-using-logistic-regression-with-tensorflow-js/)
+  * [TensorFlow로 디자인시스템 만들기. 이 블로그 포스팅은 저에게 매우 의미 있는 순간입니다. 저는 지난해부터… | by Jude Park | Aug, 2021 | Medium](https://judepark-6960.medium.com/a-design-system-made-with-tensorflow-js-8f6c567e9593)
   * [face-api.js](https://github.com/justadudewhohacks/face-api.js)
     * [face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07)
   * [Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code](https://hackernoon.com/handtrackjs-677c29c1d585)
   * [Pose Animator](https://github.com/yemount/pose-animator/)
-  * [TensorFlow.js의 2021년](https://brunch.co.kr/@advisor/30)
   * [tensorspace - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js https://tensorspace.org ](https://github.com/tensorspace-team/tensorspace)
     * [TensorSpace.js](https://tensorspace.org/index.html)
   * twilio
