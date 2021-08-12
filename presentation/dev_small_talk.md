@@ -44,3 +44,7 @@
 * [Asian Telecommunications Companies Achieve Data-Driven Innovation with Cloudera](https://www.cloudera.com/about/news-and-blogs/press-releases/2021-08-03-asian-telecommunications-companies-achieve-data-driven-innovation-with-cloudera.html)
   * 내부적으로는 의미있는 일일 수 있으나 business적으로도 그럴까?
   * ![LG U+ cloudera](cloudera_lguplus.png)
+* 하루키의 우천염천
+  * 오픈소스나 개인 프로젝트 등의 다른 일을 하는 게 마치 하루키의 수필과도 같다는 생각이 듦
+  * 핵심작업을 하기 위한 도움닫기이자 새로운 활력을 얻는 바탕이 되지 않을까?
+  * <img src="uten_enten.jpeg" alt="" width="300"/>
