@@ -1591,6 +1591,7 @@ Javascript
   * [date-fns 활용 - caneldar를 만들어보자. 2편 - YouTube](https://www.youtube.com/watch?v=o8CefEw3mJ4)
   * [date-fns 활용 - caneldar를 만들어보자. 3편 & nest.js 프레임워크 흉내내기 - YouTube](https://www.youtube.com/watch?v=hcEwNEd8QjE)
   * [백엔드 개발자는 꼭 배워보세요 - YouTube](https://www.youtube.com/watch?v=SHfR1tLpe1o)
+  * [nestjs mailer를 이용하여 메일 보내기](https://blog.naver.com/pjt3591oo/222467283376)
   * [nestia: Automatic SDK and Document generator for the NestJS](https://github.com/samchon/nestia)
 * Netlify
   * [Run Cypress Tests on Netlify Using a Single Line](https://cypress.io/blog/2020/03/30/run-cypress-tests-on-netlify-using-a-single-line/)
@@ -3264,6 +3265,7 @@ Javascript
 * [orbit-react](https://techstory.shma.so/orbit-react-b06e76f380ec)
 * [Piral, a Modern React-Based Microfrontends Library](https://www.infoq.com/news/2021/06/piral-microfrontends/)
 * [Prism.js 적용하기](http://alpoxdev.com/posts/24)
+* [Preact | Preact: Fast 3kb React alternative with the same ES6 API. Components & Virtual DOM](https://preactjs.com/)
 * [radium - Comparison of CSS in JS Libraries for React](https://github.com/FormidableLabs/radium/blob/master/docs/comparison/README.md)
 * [react-axes npm version - A react component that can easily use egjs-axes](https://github.com/naver/egjs-axes/tree/master/packages/react)
 * [react-blessed - A React custom renderer for the blessed library](https://github.com/Yomguithereal/react-blessed)
@@ -3363,6 +3365,8 @@ Javascript
 * [Utopia - a design and coding environment for React projects and components that runs in the browser](https://utopia.app/)
 * [VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library)
 * [WhoTalk - React + Node.js Web App](https://www.youtube.com/watch?v=wZDSY5zPE2A)
+* [zustand: 🐻 Bear necessities for state management in React](https://github.com/pmndrs/zustand)
+  * [React 상태 관리 라이브러리 Zustand의 코드를 파헤쳐보자 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210812)
 
 ## React TDD Test
 * [A series of examples on how to TDD React](https://github.com/zpratt/react-tdd-guide)
