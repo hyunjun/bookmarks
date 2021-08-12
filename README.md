@@ -27,6 +27,8 @@ bookmarks
   * [philosophy](philosophy.md)
   * [politics](politics.md)
   * [presentation](presentation.md)
+    * [dev small talk](presentation/dev_small_talk.md)
+    * [speed](presentation/speed.md)
   * [product](product.md)
   * [psychology](psychology.md)
   * [religion](religion.md)
