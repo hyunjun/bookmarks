@@ -20,6 +20,7 @@ Politics
 * [신공항을 둘러싼 치열한 ‘정치 드라마’ - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=43298) 글 전개 방식이 좋아서
 * [초강대국, 패권등 국제정치 개념 정리](https://pgr21.com/freedom/89953)
 * [자유(Freedom)와 자유(Liberty)의 차이 - PENTALOGIA](https://pentalogia.com/archives/601)
+* ['시민종교', 정치와 종교의 교묘하고도 양가적인 결합 < 연재 < 기사본문 - 뉴스앤조이](https://www.newsnjoy.or.kr/news/articleView.html?idxno=303178)
 
 # 한국
 * [**시대정신을 묻는다**](http://www.huffingtonpost.kr/zeitgeist-korea/)
