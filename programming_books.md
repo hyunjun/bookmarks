@@ -598,6 +598,8 @@ Programming Books
   * ★★★★☆
 * [그로킹 딥러닝](https://nymets.medium.com/%EA%B7%B8%EB%A1%9C%ED%82%B9-%EB%94%A5%EB%9F%AC%EB%8B%9D-2cc20305877e)
   * ★★★★☆
+* (NOT YET) 실습하며 배우는 딥러닝 입문 with Kaggle
+  * [Dr. Bean의 코딩교실 - YouTube](https://www.youtube.com/user/FlyHeavensky)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
