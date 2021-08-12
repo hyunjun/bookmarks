@@ -215,6 +215,7 @@ Graph
 * [Knowledge Graph Embedding by Translating on Hyperplanes](http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8531/8546)
 * [Learning Structured Embeddings of Knowledge Bases](https://ronan.collobert.com/pub/matos/2011_knowbases_aaai.pdf)
 * [Google Knowledge Graph — The Best Guide For Beginners](https://hackernoon.com/google-knowledge-graph-the-best-guide-for-beginners-d513c1180abf)
+* [Thought Vectors, Knowledge Graphs, and Curious Death(?) of Keyword Search - YouTube](https://www.youtube.com/watch?v=JrORpCkuK3g)
 
 # Library
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)
