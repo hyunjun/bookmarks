@@ -652,6 +652,7 @@ Business
 * [모바일 마케팅 분석 무작정 따라하기 #1](https://danbi-ncsoft.github.io/works/2019/08/06/works-mobile_mkt-1.html)
 * [모바일 마케팅 분석 무작정 따라하기 #2](https://danbi-ncsoft.github.io/works/2019/08/19/works-mobile_mkt-2.html)
 * [오랫동안 사랑받는 게임이 되도록, 유저의 LTV(유저 생애 가치) 예측하기](https://blog.ncsoft.com/game-data-analytics-20201014/)
+* [AI 글에서 업무 자동화를 떠올리기](https://brunch.co.kr/@graypool/108)
 
 # Mobile
 * ["앱의 시대"는 끝났다](http://ppss.kr/archives/34606)
