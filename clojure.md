@@ -1099,6 +1099,8 @@ Clojure
 * [graalvm-clojure: This project contains a set of "hello world" projects to verify which Clojure libraries do actually compile and produce native images under GraalVM](https://github.com/BrunoBonacci/graalvm-clojure)
 * [jayfu: Jayfu is a tutorial on how to create a Clojure CLI with GraalVM native-image and SCI](https://github.com/borkdude/jayfu)
 * [lucene-grep: Grep-like utility based on Lucene Monitor compiled with GraalVM native-image](https://github.com/dainiusjocas/lucene-grep)
+* [mobiletest](https://github.com/phronmophobic/mobiletest)
+  * [Apropos 2021-07-24 on Vimeo](https://vimeo.com/585335551)
 * [tools-deps-native-experiment](https://github.com/borkdude/tools-deps-native-experiment)
 
 ## Library GraphQL
