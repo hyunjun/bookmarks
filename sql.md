@@ -203,6 +203,7 @@ SQL
 * [A First Glance at Amazon Aurora Serverless RDS - Percona Database Performance Blog](https://www.percona.com/blog/2020/10/27/a-first-glance-at-amazon-aurora-serverless-rds/)
 * [AWS Announces New Database Service Babelfish for Aurora PostgreSQL in Preview](https://www.infoq.com/news/2020/12/aws-postgresql-aurora-babelfish/)
 * [Amazon Aurora PostgreSQL 에서 pg_bigm 모듈사용하기](https://jojoldu.tistory.com/590)
+* [(AWS Aurora) PostgreSQL에서 Lock 쿼리 확인하고 원인 종료하기](https://jojoldu.tistory.com/591)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
