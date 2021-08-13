@@ -216,6 +216,7 @@
 * [Understanding software design patterns](https://opensource.com/article/19/7/understanding-software-design-patterns)
 * [옵저버 레지스트리 서비스 구현](https://codegizer.me/2020/04/21/lab-observer-service-registry-ver2.html)
 * [DesignPattern: Test project for learning GoF design pattern](https://github.com/IamYeong/DesignPattern)
+* [객체지향 (Object Oriented) 디자인 (Design)](https://jojoldu.tistory.com/592)
 
 # JavaScript
 * [JavaScript 객체 지향 프로그래밍](https://opentutorials.org/module/4047)
