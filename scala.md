@@ -456,6 +456,7 @@ Scala
 * [Using Dotty Union types with Akka Typed](https://www.lunatech.com/2020/02/using-dotty-union-types-with-akka-typed/)
 * [Using Dotty Union types with Akka Typed – Part II](https://www.lunatech.com/2020/02/using-dotty-union-types-with-akka-typed-part-ii/)
 * [Akka Stream Coexistence With Akka Typed](https://kaplan.dev/articles/akka-stream-coexistence-with-akka-typed/)
+* [Akka Streams — Getting Started. From zero to production with Akka… | by Sergio Cano | Aug, 2021 | Medium](https://medium.com/@canosergio90/akka-streams-getting-started-32b5ebc60604)
 * [Akka Typed: Stateful and Stateless Actors | Rock the JVM - YouTube](https://www.youtube.com/watch?v=gwZjdRQTPu8)
 * [Akka Typed: Message adapters - YouTube](https://www.youtube.com/watch?v=aVgjEMA1AEQ)
 * [(Typed) Akka document 읽으면서 소소하게 정리 (Getting Started Guide)](https://wingnim.tistory.com/119)
