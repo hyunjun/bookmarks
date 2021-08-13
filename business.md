@@ -345,6 +345,7 @@ Business
 * [Building a data team at a mid-stage startup: a short story · Erik Bernhardsson](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
   * [**스타트업에서 데이터 팀 만들기 | GeekNews**](https://news.hada.io/topic?id=4597) 데이터사이언스 팀 이야기이지만 팀 구성과 관련된 일반적인 상황에 대해서도 생각해볼 수 있음
 * [칼럼 중국게임들의 고퀄리티, 높은 노동강도에서 나오는 것 아니다 : Global No.1 Game Media 게임포커스](http://gamefocus.co.kr/detail_m.php?number=105222)
+* [한중일 출신이 구글에서 더 올라가지 못하는 3가지 이유 - YouTube](https://www.youtube.com/watch?v=BgaWOzvH49A)
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
@@ -385,7 +386,7 @@ Business
 * [분노만 남는 인사평가…'목표·기준'이 없다 | 컴퍼니 타임스의 생생한 인터뷰 확인하기, IT/웹/통신 0.0 평점 | 잡플래닛](https://www.jobplanet.co.kr/contents/news-1480)
 * [우리회사,구글 따라해도 구글처럼 안되는 이유 | 컴퍼니 타임스의 생생한 인터뷰 확인하기, IT/웹/통신 0.0 평점 | 잡플래닛](https://www.jobplanet.co.kr/contents/news-1481)
 * [스타트업이 알아야 할 성장의 방법 | 컴퍼니 타임스의 생생한 인터뷰 확인하기, IT/웹/통신 0.0 평점 | 잡플래닛](https://www.jobplanet.co.kr/contents/news-1482)
-* ["3년 치 이력서를 미리 썼더니 마법이 일어났다."(f. 황성현 대표) - T Times](http://www.ttimes.co.kr/view.html?no=2021072715587727215&RN)
+* [“3년 치 이력서를 미리 썼더니 마법이 일어났다.”(f. 황성현 대표) - YouTube](https://www.youtube.com/watch?v=9unwtrZQDuA)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
