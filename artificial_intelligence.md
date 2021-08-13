@@ -119,6 +119,9 @@ Artificial Intelligence
 * [인공지능(AI) 아나운서 개발기 – AI PLUS Tech Blog](https://blog.est.ai/2020/12/ai-anchor/)
 * [The Map of Artificial Intelligence (2020) | in AI Territory | The Startup](https://medium.com/swlh/the-map-of-artificial-intelligence-2020-2c4f446f4e43)
 * [Microsoft Special Edition](https://tykimos.github.io/2021/02/13/Microsoft_Special_Edition/)
+* [서비스 향 AI 모델 개발하기 (1) - 학습 데이터셋 준비](https://www.upstage.ai/post/%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%96%A5-ai-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0)
+* [서비스 향 AI 모델 개발하기 (2) - 모델 테스트 & 모델 요구사항](https://www.upstage.ai/post/%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%96%A5-ai-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-2)
+* [서비스 향 AI 모델 개발하기 (3)](https://www.upstage.ai/post/%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%96%A5-ai-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-3)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
