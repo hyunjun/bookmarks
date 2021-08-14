@@ -1596,6 +1596,7 @@ Javascript
 * Netlify
   * [Run Cypress Tests on Netlify Using a Single Line](https://cypress.io/blog/2020/03/30/run-cypress-tests-on-netlify-using-a-single-line/)
   * [Netlify 로 정적 웹 사이트 배포하기](https://jojoldu.tistory.com/546)
+  * [Tutorial - How To Deploy Your Site Under 1 Min With Netlify - YouTube](https://www.youtube.com/watch?v=iw4o2BZ0vy0)
 * [notie.js - a clean and simple notification plugin (alert/growl style) for javascript, with no dependencies](https://github.com/jaredreich/notie.js)
 * [nuxt.js](https://nuxtjs.cmty.io/)
   * [네이버 D2 클론 코딩하기 1편](https://brunch.co.kr/@skykamja24/317)
