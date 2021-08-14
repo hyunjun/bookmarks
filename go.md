@@ -278,6 +278,7 @@ Go
   * Prometheus로 매트릭을 수집할 때 Exporter에서 매트릭을 가져와서 Prometheus가 저장
   * 이 Exporter를 Go 언어로 직접 구현해 보면서 Exporter의 구조를 이해하게 해주는 글
   * 먼저 Prometheus가 접근할 수 있게 HTTP 요청을 받도록 열어주고 커넥션 수를 반환하도록 Collector를 구현하는 과정
+* [Golang Dependency Injection — { DEV SWEETER ; }](https://syntaxsugar.tistory.com/entry/Golang-Dependency-Injection)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
