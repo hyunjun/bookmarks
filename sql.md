@@ -180,6 +180,7 @@ SQL
 * [The State of the Open Source Database Industry in 2020: Part Three - Percona Database Performance Blog](https://www.percona.com/blog/2020/04/22/the-state-of-the-open-source-database-industry-in-2020-part-three/)
 * [Against SQL](https://scattered-thoughts.net/writing/against-sql/)
 * [A beginner's guide to database multitenancy - Vlad Mihalcea](https://vladmihalcea.com/database-multitenancy/)
+* [칼럼｜데이터베이스의 '주류 교체', 숨막히게 더딜지라도... - CIO Korea](https://www.ciokorea.com/news/204299)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
