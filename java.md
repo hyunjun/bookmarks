@@ -554,7 +554,8 @@ Java
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
 * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 * [IntelliJ IDEA best plugins](https://www.vojtechruzicka.com/idea-best-plugins/)
-* [intellij에서 mybatis generator 플러그인을 사용해 봅시다.](https://codingdog.tistory.com/558)
+* [intellij에서 mybatis generator 플러그인을 사용해 봅시다](https://codingdog.tistory.com/558)
+* [7 Must have IntelliJ IDEA Plugins in 2021 for Java Developers | CodersTea](https://www.coderstea.com/post/java/7-must-have-intellij-idea-plugins-in-2021-for-java-developers/)
 * [CodeMetrics 플러그인 소개: 복잡도 점수로 자극 받기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/CodeMetrics-Plugin-Intro-Complexity-Level)
 * [VimtelliJ: All the best of Vim in IntelliJ](https://www.dev-log.me/VimtelliJ:_All_the_best_of_Vim_in_IntelliJ/)
 
