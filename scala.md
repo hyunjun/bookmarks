@@ -317,6 +317,7 @@ Scala
 * [Anomaly / outlier detection using isolation forest in Scala | by Kristof Slechten | Apr, 2021 | Medium](https://kristofsl.medium.com/anomaly-outlier-detection-using-isolation-forest-in-scala-9f5f4d6edff9)
 * [Ruminations on Learning Scala – Scala for Cybersecurity](https://www.cyberscala.org/ruminations-on-learning-scala/)
 * [#GitHub #Copilot for #Scala - Does it work? - YouTube](https://www.youtube.com/watch?v=hYzJNCdoh-Y)
+* [Number (part 1) Precision numeric computation with Scala | CodeX](https://medium.com/codex/number-part-1-c98313903714)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -912,6 +913,7 @@ Scala
     * [Part 5 - ZIO.access - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=1t0GPFumFkE)
     * [Part 6 - zio.Has - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=epTKGRuxbOE)
     * [Part 7 - ZLayer - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=FOStEDZAZWs)
+    * [Part 8 - ZLayer DSL - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=WjjdlhvOS7Y)
     * [ZIO News - Issue #28 | Revue](https://www.getrevue.co/profile/zio/issues/zio-news-issue-28-654279)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
@@ -933,7 +935,7 @@ Scala
     * zio-k8s
       * [Writing kubectl plugins with ZIO K8s](https://ziverge.com/blog/zio-k8s-kubectl-plugin/)
       * [ZIO World - ZIO Kubernetes (ZIO K8S 1.0) - YouTube](https://www.youtube.com/watch?v=BUMe2hGKjXA)
-    * zio-prelude
+    * [ZIO Prelude · Next Generation Functional Abstractions For Scala](https://zio.github.io/zio-prelude/)
       * [What's Ap with zio-prelude?](https://justinhj.github.io/2020/08/02/whats-ap-with-zio-prelude.html)
       * [Zymposium - Prelude Redux (Type-classes without Type-classes) - YouTube](https://www.youtube.com/watch?v=97Yc0Ub9aZ8)
       * [Ep 13: Another angle on monad transformers with Zio Prelude - YouTube](https://www.youtube.com/watch?v=tEnZZlOn-jI)
