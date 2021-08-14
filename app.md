@@ -948,6 +948,8 @@ App
 * [hyperterm.org](https://hyperterm.org)
 * [i-funbox.com](http://www.i-funbox.com/) the File and App Management Tool
 * [IINA - The modern media player for macOS](https://iina.io/)
+  * [맥 어플 추천 IINA - 최고의 동영상 플레이어](https://truesale.tistory.com/215)
+* itsycal [맥 어플 추천 Itsycal(이치칼) 메뉴 막대 달력](https://truesale.tistory.com/entry/%EB%A7%A5-%EC%96%B4%ED%94%8C-%EC%B6%94%EC%B2%9C-Itsycal%EC%9D%B4%EC%B9%98%EC%B9%BC-%EB%A9%94%EB%89%B4-%EB%A7%89%EB%8C%80-%EB%8B%AC%EB%A0%A5)
 * [**KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)**](https://github.com/newmarcel/KeepingYouAwake)
 * [Keka the macOS file archiver Store more, share with privacy](https://www.keka.io) 압축
 * [Loading - 무료 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
