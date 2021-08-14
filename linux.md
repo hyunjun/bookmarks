@@ -1080,6 +1080,7 @@ Linux
   * [html](http://beej.us/guide/bgnet/output/html/multipage/index.html)
 * [데이터 고속전송 가이드](https://wiki.kreonet.net/faster-data)
 * [Weeknotes: Fun with Unix domain sockets](https://simonwillison.net/2021/Jul/13/unix-domain-sockets/)
+* [Linux Kernel network (networking stack)](https://pr0gr4m.tistory.com/entry/Linux-Kernel-network-networking-stack)
 
 # Shell
 * [Bash Shortcuts Gem](http://zwischenzugs.tk/index.php/2015/07/01/bash-shortcuts-gem/)
