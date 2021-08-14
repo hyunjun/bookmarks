@@ -92,6 +92,7 @@ Data Science
 * [Linear Algebra for Data Scientists](http://alexhwoods.com/2015/07/11/linear-algebra-for-data-scientists)
 * [Reading Between the Lines: How We Make Sense of Users’ Searches](http://engineeringblog.yelp.com/2015/02/reading-between-the-lines-how-we-make-sense-of-users-searches.html)
 * [Research papers that changed the world of Big Data](http://www.bigdata-madesimple.com/research-papers-that-changed-the-world-of-big-data/)
+* [Paper Search using ScopusAPI | Pega Devlog](https://jehyunlee.github.io/2021/08/13/Python-DS-82-scopusapi/)
 * [Data Analysis (1): Neuroimaging Data loading using SPM8 toolbox](http://skyeong.tistory.com/127)
 * [당신이 알고 있는 좋은 데이터 분석 슬라이드가 있나요?](https://github.com/ysunmi0427/awesome-data-analysis-slides)
 * [The last-mile problem: How data science and behavioral science can work together](http://dupress.com/articles/behavioral-economics-predictive-analytics/)
