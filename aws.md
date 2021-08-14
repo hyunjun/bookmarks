@@ -871,6 +871,7 @@ AWS
 * [aws lambda bcrypt 오류 해결 방법 : 네이버 블로그](https://blog.naver.com/nanotoly/222428214801)
 * [Behind the scenes, AWS Lambda](https://www.bschaatsbergen.com/behind-the-scenes-lambda)
 * [AWS Lambda 컨테이너 이미지 서비스 활용하기 – 김태수:: AWS Builders Online Series - YouTube](https://www.youtube.com/watch?v=tTg9Lp7Sqok)
+* [A Rotating Proxy that utilizes Cellular Network, Cloudflare WARP, AWS Lambda](https://tech.ssut.me/a-rotating-proxy-that-uses-cellular-network-cloudflare-warp-aws-lambda/)
 * [moderncloud: ModernCloud is a browser-based serverless platform that lets developers build functions and endpoints in minutes](https://github.com/ModernCloud/moderncloud)
   * [ModernCloud - 브라우저 기반 서버리스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4583)
 
