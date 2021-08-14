@@ -76,6 +76,7 @@ Business
 * [수평적 조직문화는 민주주의가 아니다](https://brunch.co.kr/@supims/600)
 * [벤 호로위츠 "CEO 임무는 기업문화 만들기..원칙 세우고 예외 없이 적용하라"](https://news.v.daum.net/v/20210530182001925) 하드씽 Hard Thing
 * [막막한 위기 닥쳤다면 조직문화부터 바꿔라](https://n.news.naver.com/article/015/0004554178) 하드씽 Hard Thing
+* [HR연구소 올림픽에 '도박' 종목이 유지되는 이유](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=849) 기업 문화에 문제가 있으면 고쳐야 함
 * [조직을 성공적으로 변화시키는 5가지 방법](http://ppss.kr/archives/37761)
 * [조직의 합리성에 대한 노트: 막내착취, 중간관리자, 합리적 개인](http://ppss.kr/archives/58933)
 * [성공적인 기업과 그렇지 못한 기업들 간의 핵심적인 차이는 '얼마나 똑똑한가'가 아니라 '얼마나 건강한가' - 패트릭 렌치오니, 무엇이 조직을 움직이는가](https://xodmfal.blog.me/221358777125)
@@ -544,6 +545,7 @@ Business
 * [리더는 회의록을 직접 써야 한다](https://brunch.co.kr/@derekderek/6)
 * [뛰어난 리더는 회의를 하지 않는다](https://brunch.co.kr/@andrewlee/95)
 * [“컨센서스를 이루지 말고 의사 결정을 내려라”(1)](http://bridge.500startups.co.kr/%EC%BB%A8%EC%84%BC%EC%84%9C%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EB%A3%A8%EC%A7%80-%EB%A7%90%EA%B3%A0-%EC%9D%98%EC%82%AC-%EA%B2%B0%EC%A0%95%EC%9D%84-%EB%82%B4%EB%A0%A4%EB%9D%BC1)
+* ["우리 회사 IT가 산으로 가는 신호" 잘못된 IT 의사결정 패턴 12가지 - ITWorld Korea](https://www.itworld.co.kr/news/204459)
 * [조직의 동의를 얻는 법](http://www.andrewahn.co/product/getting-to-an-yes)
 * [개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
 * [초보 개발 팀장의 1년 회고 - 좋은 팀장이 되기 위한 노력들](https://zzsza.github.io/diary/2020/04/26/novice-leader-retrospect/)
@@ -581,6 +583,7 @@ Business
 * [팀장님, 그렇게 하는 거 아니에요(3) - 완전한 솔직한 조언으로 전환하기](https://blog.naver.com/nanotoly/222071755163)
 * [팀장님, 그렇게 하는 거 아니에요(4) - 해고](https://blog.naver.com/nanotoly/222072316985)
 * [그래서 내 업무가 정확히 뭡니까? 업무 지시를 명확하게 하지 않는 상사](https://blog.naver.com/wantedlab/222369623767)
+* [실리콘밸리선 구체적 지시가 없다, 내가 찾아서 해내면 그게 내 몸값](https://news.v.daum.net/v/20210409030916799)
 * ['타고난 리더'보다 '평범한 팀장'이 더 좋은 이유 : 네이버 뉴스](https://news.naver.com/main/read.naver?sid1=110&oid=243&aid=0000014570)
 * [팀 내 갈등은 팀장의 자산(?) | ㅍㅍㅅㅅ](https://ppss.kr/archives/227487)
 * [시작은 어디서부터 인가?](https://brunch.co.kr/@tilltue/68) 관련 서적 추천
