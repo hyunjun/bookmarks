@@ -122,6 +122,7 @@ Programming Books
 * (NOT YET) [하드씽](https://jhrogue.blogspot.com/2021/07/blog-post_21.html)
 * (NOT YET) [배틀그라운드 신화를 만든 10년의 도전 크래프톤 웨이](http://www.gimmyoung.com/Book/BookView?bookCode=BC003339&bookType=all) 한국판 하드씽
   * [최윤섭님 서평](https://www.facebook.com/photo?fbid=6059054744134439)
+* (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
 
 # Agile Scrum
 
