@@ -742,6 +742,7 @@
 * [Multiple Column Feature Transformations in Spark ML](http://blog.madhukaraphatak.com/multi-column-feature-transformation-spark-ml/)
 * [End to End Spark TensorFlow PyTorch Pipelines with Databricks DeltaJim Dowling Logical Clocks ABKim](https://www.youtube.com/watch?v=zGNQQfEjCQY)
 * [Accelerating Deep Learning on the JVM with Apache Spark and NVIDIA GPUs](https://www.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/)
+* [Spark ML hyperparameter tuning](https://softwaremill.com/spark-ml-hyperparameter-tuning/)
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Meson: Netflix's framework for executing machine learning workflows](http://techblog.netflix.com/2016/05/meson_31.html)
 * MLflow
