@@ -140,6 +140,7 @@ Product
   * [드디어 출시된 타자기형 키보드](http://www.bloter.net/archives/244075)
 * [Sonder keyboard](https://www.sonderdesign.com/)
 * [아누이노 삼킨 인체공학 키보드](http://techholic.co.kr/archives/35582)
+* [아두이노 커스텀 키보드 제작](https://lazygyu.net/blog/make_a_custom_machanical_keyboard)
 * [애플 ‘포스터치’ 뛰어넘는 차세대 입력기기, ‘센셀모프’](http://www.bloter.net/archives/237129)
 * [장인이 만든…원목 키보드·무선 충전기](http://techholic.co.kr/archives/39532)
 * [Ultimate Hacking Keyboard](https://www.crowdsupply.com/ugl/ultimate-hacking-keyboard)
