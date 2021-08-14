@@ -369,6 +369,7 @@ Git
   * [들어도 봤고, 쓰고도 있는데... GitFlow 제대로 알고 쓰기](https://blog.gangnamunni.com/2020/03/23/understanding_git_flow.html)
   * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
   * [git flow model - YouTube](https://www.youtube.com/watch?v=EzcF6RX8RrQ)
+  * [git-flow 소개, 설치 및 사용법](https://hbase.tistory.com/60)
   * [형상관리 전략정리](https://chodragon9.github.io/blog/git-scm-experience/)
   * [효율적인 협업을 위한 Git Branching 전략](https://harrydrippin.github.io/programming/2017/07/03/git-branching-strategy.html)
   * [An Efficient Git Branching Strategy Every Developer Should Know | by Anurag Sidana | Better Programming | Medium](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)
