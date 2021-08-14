@@ -270,6 +270,7 @@ Git
 * [GitHub Actions 워크플로우의 승인 기능 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1556)
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
 * [Continuous Delivery: GitHub Actions (Developer Workflow Automation with GitHub Actions CICD) - YouTube](https://www.youtube.com/watch?v=cKMO0aeh8GI)
+* [GitHub Actions로 npm publish 자동화하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1559)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
