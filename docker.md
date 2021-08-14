@@ -281,6 +281,7 @@ Docker
     * [Ubuntu 16.04 Docker 설치](http://uni2u.tistory.com/92)
     * [깡통 우분투를 도커로 올려보자](https://jybaek.tistory.com/829)
   * [DIT4C image for Apache Zeppelin](https://hub.docker.com/r/dit4c/dit4c-container-zeppelin/)
+  * [Build statically linked Graal-VM native-image using Make and Docker. Go through all TODO-steps!](https://gist.github.com/johanthoren/74529bcbc94779757de8d12acd5022ab)
 * [Docker로 파이썬 배포 운영하기](http://greatkim91.tistory.com/194)
 * [파이썬 Docker 이미지 관리하기](http://greatkim91.tistory.com/195)
 * [도커를 이용한 파이썬 모듈 배포하기 - 서준석](https://www.youtube.com/watch?v=RRT58hbDXNs)
