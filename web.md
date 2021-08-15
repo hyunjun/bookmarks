@@ -213,6 +213,7 @@ Web
 * [LINE에서 하루 만에 정적 웹 페이지 개발해서 배포하는 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/how-to-quickly-develop-static-pages-in-line/)
 * [All Programming is Web Programming](https://blog.codinghorror.com/all-programming-is-web-programming/) 기술 이야기는 아니지만 맞는 말이며 참고할만한 말
 * [MS Edge, Super Duper Secure Mode 실험 | GeekNews](https://news.hada.io/topic?id=4771)
+* [정부의 웹사이트 총량제는 코로나19 방역을 어떻게 방해하나 — 북저널리즘 - 젊은 혁신가를 위한 콘텐츠 커뮤니티](https://www.bookjournalism.com/@imc/53)
 
 # Apache
 * installation
@@ -1018,6 +1019,9 @@ Web
 * [웹어셈블리를 활용한 유망한 프로그래밍 언어 프로젝트 10가지 - ITWorld Korea](https://www.itworld.co.kr/news/196324)
 * [웹어셈블리 인기에 날개달까?··· 주목할 만한 언어 프로젝트 11가지 - CIO Korea](https://www.ciokorea.com/news/199344)
 * [Making JavaScript run fast on WebAssembly](https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly)
+* [WebAssembly with Golang by scratch | by Roman Romadin | Aug, 2021 | ITNEXT](https://itnext.io/webassemply-with-golang-by-scratch-e05ec5230558)
+  * Go 언어 이용 간단한 WebAssembly 작성 예제
+  * 코드는 Hello World를 출력하는 정도이지만 Go로 작성한 코드를 컴파일해서 HTML 페이지와 연동해서 불러오는 방법 소개
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
