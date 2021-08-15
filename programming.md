@@ -449,6 +449,8 @@ Programming
 * [애자일을 키워드로 배워보자 : 애자일 키워드 팟캐스트](http://agile.egloos.com/5904205)
 * [방법론 도입이 실패하는 이유](http://agile.egloos.com/5906079)
 * [What is Agile Workflow? (ELI5)](https://medium.com/scrumi/what-is-agile-workflow-eli5-15040cbd5e75)
+* [What is Agile? | Atlassian](https://www.atlassian.com/agile)
+  * [What is Agile? | Atlassian - 아틀라시안이 알려주는 애자일 A to | GeekNews](https://news.hada.io/topic?id=4389)
 * [Can You Stop Using Story Points?](https://hackernoon.com/can-you-stop-using-story-points-ac36449ffa10)
 * [사용자 스토리 포인트로 스마트하게 프로젝트 진행하기(feat. LINE Pay 개발 팀) - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/user-story-point-in-line-pay-team/)
 * [왜 애자일은 동작하지 않을까?(Why Isn’t Agile Working?)](https://www.vobour.com/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%80-%EB%8F%99%EC%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84%EA%B9%8C-why-isn%E2%80%99t-agile-working)
@@ -469,11 +471,13 @@ Programming
 * [Scrum Is Dead. All Hail Kanban, the New King - Better Programming - Medium](https://medium.com/better-programming/scrum-is-dead-all-hail-kanban-the-new-king-2cd6249feef8)
 * [Google I/O 2019 – Thinking in 5G Workshop 세션 참석 후기](https://engineering.linecorp.com/ko/blog/google-io-2019-thinking-in-5g-workshop-review/) 디자인 스프린트 이야기이지만 참고할만한 부분이 많음
 * [Why do some developers at strong companies like Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske)
+  * [왜 어떤 구글 개발자들은 애자일 개발이 무의미하다고 하는가에 대한 (전) 구글 엔지니어 디렉터의 답변 | GeekNews](https://news.hada.io/topic?id=265)
 * [애자일 키워드 팟캐스트](http://www.podbbang.com/ch/14757)
 * [The Death of Agile and Beyond](https://www.infoq.com/articles/death-agile-beyond/)
 * [클린 소프트웨어(애자일 개발과 설계)](https://blog.naver.com/jwyoon25/221591645594)
 * [책 후기 클린 소프트웨어](http://blog.wimy.com/456/)
 * [Why software developers (quite honestly) hate Agile](https://www.objectstyle.com/agile/why-developers-hate-agile)
+  * [왜 (일부) 개발자들은 Agile 을 싫어하는가 | GeekNews](https://news.hada.io/topic?id=661)
 * [애자일 개발자가 지켜야 할 중요한 코딩 프랙티스 7가지](http://www.itworld.co.kr/news/134294)
 * [당장 실행할 수 있는 애자일 실천법](https://selfothercontext.com/2019/10/28/agile-practices/)
 * [Scrum: A Primer On Adaptive Techniques](https://angel.co/blog/scrum-a-primer-on-adaptive-techniques)
@@ -486,8 +490,8 @@ Programming
 * [Agile Software in the Real World: Responding vs Planning](https://medium.com/swlh/agile-software-in-the-real-world-responding-vs-planning-ade5c2ee8692)
 * [포커, 어디까지 쳐봤니 – 서비스 개발에 플래닝 포커 도입 사례 (feat. 원격근무) – tech.kakao.com](https://tech.kakao.com/2020/09/08/planning-poker/)
 * [차세대, 리팩토링 그리고 애자일](https://www.popit.kr/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%A0%EC%9E%90%EC%9D%BC/)
-* [Spotify의 Squad 팀 모델은 실패였다](https://news.hada.io/topic?id=2191)
 * [Spotify’s Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)
+  * [Spotify의 Squad 팀 모델은 실패였다](https://news.hada.io/topic?id=2191)
 * [What is Fake Agile? Understanding the Dark Side of Agile and How to Avoid It | Process Street | Checklist, Workflow and SOP Software](https://www.process.st/fake-agile/)
 * [ENG 애자일 코치, 스크럼 마스터? 직장인 리더십의 진정한 조건! | 일하는 우리 | - YouTube](https://www.youtube.com/watch?v=U67CRZFwZTQ)
 * [IT 알려주는 은행원 애자일 전문가 되는 비법 공개 - YouTube](https://www.youtube.com/watch?v=QJ4zM8CAKp0)
@@ -525,6 +529,8 @@ Programming
 * [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 2장 #2-2 | 요즘IT](https://yozm.wishket.com/magazine/detail/815/)
 * [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 2장 #2-3 | 요즘IT](https://yozm.wishket.com/magazine/detail/910/)
 * [우리회사는 왜 애자일 전환에 실패했을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/917/)
+* [Agile at 20: The Failed Rebellion - Simple Thread](https://www.simplethread.com/agile-at-20-the-failed-rebellion/)
+  * [Agile 20주년 : 실패한 반란 | GeekNews](https://news.hada.io/topic?id=4788)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -1898,12 +1904,20 @@ Programming
 * ['사례로 본' 코드 재사용이 여전히 보안 악몽인 이유 - ITWorld Korea](https://www.itworld.co.kr/news/202964)
 * [Elliptic Curve Cryptography Explained – Fang-Pen's coding note](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/)
 * [Kaspersky Password Manager: All your passwords are belong to us | Donjon](https://donjon.ledger.com/kaspersky-password-manager/)
+* [SAML is insecure by design | joonas.fi](https://joonas.fi/2021/08/saml-is-insecure-by-design/)
+  * single-sign on에 사용하는 표준인 SAML(Security Assertion Markup Language)이 왜 보안에 취약한지 설명
+  * SAML이 서명에 사용하는 XML이 로우 데이터를 그대로 사용하지 않고 XML을 정리해서 다시 사용하기 때문에(예를 들어 불필요한 부분을 지우고 정돈된 XML로 만들어서) 공격자가 이를 이용해서 XML을 조작해도 서명을 동일하게 만들어서 공격할 수 있다고 설명
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
 * FIDO [line-fido2-server: FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples](https://github.com/line/line-fido2-server)
+  * [What is FIDO? - FIDO Alliance](https://fidoalliance.org/what-is-fido/)
+    * FIDO: 패스워드 없이 인증을 할 수 있게 하는 표준
   * [FIDO at LINE: 패스워드 없는 세상으로의 첫 발걸음 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/fido-at-line/)
   * [FIDO at LINE: FIDO2 서버를 오픈 소스로 공개했습니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/fido-at-line-fido2-server-opensource/)
+    * FIDO에는 생체인증이나 PIN 등으로 인증하는 UAF와 인증키가 포함된 하드웨어로 추가 인증하는 U2F, 이 둘을 통합해서 개선한 FIDO2가 존재
+    * FIDO2는 다양한 웹브라우저에서 지원하고 있기 때문에 FIDO2로 자리 잡는 분위기
+    * FIDO Alliance에서 상호 운용성 테스트를 진행해서 표준 준수 여부를 인증해 주는데 이 과정을 통해 테스트에 통과하고 그 결과물인 FIDO2 서버를 오픈소스로 공개
 * FingerprintJS [Cross-browser tracking vulnerablity in Tor, Safari, Chrome and Firefox - FingerprintJS](https://fingerprintjs.com/blog/external-protocol-flooding/)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
 
@@ -2535,6 +2549,7 @@ Programming
   * [기술 뉴스 #176 : 21-06-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1552)
   * [기술 뉴스 #177 : 21-07-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1553)
   * [기술 뉴스 #178 : 21-07-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1554)
+  * [기술 뉴스 #180 : 21-08-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1560)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
