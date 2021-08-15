@@ -189,8 +189,6 @@ Git
 * [GitHub 아이디/패스워드 입력 없이 사용하는 방법](https://kibua20.tistory.com/88)
 * [rest-api-description: An OpenAPI description for GitHub's REST API](https://github.com/github/rest-api-description)
 * [practice - github api to get PR review time's 90 percentile](https://github.com/hyunjun/practice_private/blob/ea459fdebaf28d580f332d863807c2bf69ed75e5/agoda/get_pr_90.py)
-* [GitHub Codespaces 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1497)
-* [GitHub Codespaces의 개발 환경 설정하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1509)
 * [How a one line change decreased our clone times by 99% | by Pinterest Engineering | Pinterest Engineering Blog | Oct, 2020 | Medium](https://medium.com/pinterest-engineering/how-a-one-line-change-decreased-our-build-times-by-99-b98453265370)
 * [The Easiest Way To Remove Checked In Credentials From A Git Repo | by Tanmay Deshpande | Medium](https://medium.com/@tanmay.avinash.deshpande/the-easiest-way-to-remove-checked-in-credentials-from-a-git-repo-704a373b94e3)
 * [Git push 결과물이 Github 잔디에 반영이 안될 때 해결하기 | by Ryan Kim | Nov, 2020 | Medium](https://equus3144.medium.com/git-push-%EA%B2%B0%EA%B3%BC%EB%AC%BC%EC%9D%B4-github-%EC%9E%94%EB%94%94%EC%97%90-%EB%B0%98%EC%98%81%EC%9D%B4-%EC%95%88%EB%90%A0-%EB%95%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-5968a988b212)
@@ -271,12 +269,28 @@ Git
 * [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
 * [Continuous Delivery: GitHub Actions (Developer Workflow Automation with GitHub Actions CICD) - YouTube](https://www.youtube.com/watch?v=cKMO0aeh8GI)
 * [GitHub Actions로 npm publish 자동화하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1559)
+* [GitHub 프로필을 iMessage 대화 메시지로 꾸며보기 | by Jin Hyung Park | Aug, 2021 | Medium](https://medium.com/@jypthemiracle/github-%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%84-imessage-%EB%8C%80%ED%99%94-%EA%B5%AC%EB%A6%84%EC%9C%BC%EB%A1%9C-%EA%BE%B8%EB%A9%B0%EB%B3%B4%EA%B8%B0-d41d48b3b921)
+  * GitHub에서 자신의 프로필 페이지를 원하는 대로 꾸밀 수 있는 프로필 저장소 기능을 이용해 프로필 페이지에 iMessage 형식으로 대화하듯 인사말과 날씨등을 보여주는 기능을 구현하는 과정 설명
+  * 프로필에서 스크립트 등을 원하는 대로 사용할 수는 없으므로 액션을 이용해서 SVG로 생성해서 보여주는 과정을 거치게 되는데 해당 기능을 원래 구현했던 개발자의 소스를 참고해서 이 기능이 어떻게 구현되는지 설명
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
 * [더북(TheBook): Git 교과서](https://thebook.io/080212/)
 * [git-scm.com/book/ko/v1](https://git-scm.com/book/ko/v2/)
 * [Git TextBook | 깃 개념 잡기](https://git.jiny.dev/text/concept/)
+
+# Codespaces
+* [GitHub Codespaces](https://github.com/features/codespaces)
+  * Codespaces가 유료임에도 GitHub의 Team이나 Enterprise Cloud 플랜을 사용하는 사람이자 조직만 Codespaces 사용 가능
+  * Codespaces를 사용하려면 org 설정에서 활성화를 해주어야 하고 사용한 만큼 비용을 지불하는 구조
+* [GitHub Codespaces 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1497)
+* [GitHub Codespaces의 개발 환경 설정하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1509)
+* [GitHub’s Engineering Team has moved to Codespaces | The GitHub Blog](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
+  * GitHub 엔지니어링 팀이 GitHub.com 개발 환경을 GitHub Codespaces로 변경. Codespaces는 VS Code를 이용해서 클라우드 개발환경을 제공하는 GitHub 기능
+  * 이전에는 로컬 macOS 환경에서 GitHub.com 개발, 개발환경 설정에 스크립트 이용, 열심히 관리했지만 자주 깨지고 유지하기가 어려움
+  * 다른 컴퓨팅 환경처럼 개발환경도 쉽게 띄우고 교체할 수 있는 환경으로 넘어가기 위해 Codespaces 도입, 로컬에서 45분 걸리던 개발환경 설정을 5분으로
+  * GitHub.com 코드 베이스가 너무 커서 shallow 클론을 진행하고 나이틀리 빌드로 devcontainer를 미리 만들어 놓고 사용하면서 5분까지 줄였으나 여기서 더 개선하기 위해 사전빌드를 진행해서 10초까지 줄임
+  * 이제 새 직원이 와도 10초 만에 개발환경을 띄울 수 있게 되었고 VM의 리소스 한 줄만 바꾸면 모든 개발자가 더 좋은 컴퓨팅 환경에서 개발 가능
 
 # Command
 * [**Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)**](https://github.com/mingrammer/git-tips)
@@ -632,6 +646,10 @@ Git
     ```
     * [The refs/for namespace](https://gerrit-review.googlesource.com/Documentation/concept-refs-for-namespace.html)
     * [The Dark Side of the Force Push](https://willi.am/blog/2014/08/12/the-dark-side-of-the-force-push/)
+  * [Git Force vs Force with Lease. And When to Use Them | by Mohammad-Ali A'RÂBI | Aug, 2021 | ITNEXT](https://itnext.io/git-force-vs-force-with-lease-9d0e753e8c41)
+    * `--force`보다 더 안전한 `--force-with-lease`를 쓰라는 글
+    * `--force`는 리모트 브랜치를 망가뜨릴 수도 있으므로 다른 브랜치에 리베이스하거나, 이전 커밋 메시지를 바꾸거나 합치거나 순서를 바꾸는 등의 작업을 할 때는 `--force-with-lease`로도 충분
+    * 꼭 필요할 때만 `--force` 사용
   * `git pull --rebase origin master`
     * master에서 branch A, B를 각각 만들고 예를 들어 A branch가 먼저 merge해서 B에서 A branch의 master 변경 사항을 합쳐야 할 경우
     * rebase하고 난 후 remote/B와는 git history가 달라서 git push -f로 remote에 넣어줘야 했음
