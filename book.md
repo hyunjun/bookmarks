@@ -139,7 +139,8 @@ Book
   * 레시피란 요컨대 삶의 방식이다. 무엇을 취하고 무엇을 버릴 것인가에 대한 가치 기준과도 같은 것이다. 무언가를 버리지 않고서는 아무것도 얻을 수 없다.
     * <img src="images/IMG_5817.JPG" alt="" width="300"/>
   * 아일레이 섬을 가보고 싶어진다
-* 우천염천
+* [우천염천](http://jh4hj.tistory.com/entry/%EC%9A%B0%EC%B2%9C%EC%97%BC%EC%B2%9C)
+  * ★★★☆☆ 2017.12.27
   * ★★★☆☆ 2021.08.12
   * 예전에도 읽었지만 오랜만에 다시 읽어봤다. 88년 서울 올림픽이 열리던 시절 그리스와 터키 여행.
   * 그리스도 터키도 조금씩 다녀봤지만(그래도 터키는 2주 가까이 돌아다녔으니 제법 다닌 편) 30년도 더 전과 비교하기는 무리다
@@ -178,6 +179,11 @@ Book
   * 한라 843 그298ㅋ
 * [볼포](http://blog.naver.com/jaehangpark/221050215537)
   * 탐라 문695.704바66ㅂ
+* (NOT YET) 선동열 야구학
+  * [선동열 야구학 | 다음스포츠](https://sports.daum.net/series/5103761#0)
+  * [UCN스포츠 레전드를 찾아서 - 선동열 1편 - YouTube](https://www.youtube.com/watch?v=0TwFzv1TlyQ) 과거에는 백스윙을 크게 가져가라고 잘못 가르쳤다고 함
+  * [UCN스포츠 레전드를 찾아서 - 선동열 2편 - YouTube](https://www.youtube.com/watch?v=c6ZY9o1Oqj0)
+  * [UCN스포츠 레전드를 찾아서 - 선동열 3편 - YouTube](https://www.youtube.com/watch?v=yWlgeYyFZzQ)
 
 # Stock
 * (NOT YET) [할 수 있다! 퀀트 투자](https://pgr21.com/pb/pb.php?id=freedom&no=77211)
@@ -189,8 +195,6 @@ Book
 * [고양이가 사랑한 파리](https://medium.com/@strncpy/%EA%B3%A0%EC%96%91%EC%9D%B4%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%9C-%ED%8C%8C%EB%A6%AC-96808480a203)
   * ★★★☆☆ 2017.06.01
 * [라오스에 대체 뭐가 있는데요?](http://jh4hj.tistory.com/entry/%EB%9D%BC%EC%98%A4%EC%8A%A4%EC%97%90-%EB%8C%80%EC%B2%B4-%EB%AD%90%EA%B0%80-%EC%9E%88%EB%8A%94%EB%8D%B0%EC%9A%94)
-  * ★★★☆☆ 2017.12.27
-* [우천염천](http://jh4hj.tistory.com/entry/%EC%9A%B0%EC%B2%9C%EC%97%BC%EC%B2%9C)
   * ★★★☆☆ 2017.12.27
 * [스페인 예술로 걷다](https://post.naver.com/viewer/postView.nhn?volumeNo=8743894)
   * ★★★☆☆ 2018.04.23
