@@ -32,6 +32,11 @@ Monitoring
 * [트위터는 왜 모니터링 시스템을 다시 만들었나?](https://blog.imqa.io/twitter_monitoring_system_v2)
 * [IMQA (모바일 앱 실시간 성능 모니터링)는 개발자 도구를 어떻게 사용했을까?](https://blog.imqa.io/imqa_devtools/)
 * [서비스 개선의 시작, 지속적인 서비스 지표 모니터링부터. 서비스를 개선하고 지표를 확인하는 일련의 과정과 그 과정에서 얻은… | by 버즈니 | May, 2021 | Medium](https://buzzni.medium.com/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EC%84%A0%EC%9D%98-%EC%8B%9C%EC%9E%91-%EC%A7%80%EC%86%8D%EC%A0%81%EC%9D%B8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A7%80%ED%91%9C-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EB%B6%80%ED%84%B0-623bd70a5105)
+* [Applying flame graphs outside of performance analysis](https://blog.twitter.com/engineering/en_us/topics/open-source/2021/applying-flame-graphs-outside-of-performance-analysis)
+  * flame graph는 성능 분석에는 자주 사용, 그 외에는 별로 사용되지 않는데, 트위터에서 매트릭 분석에 flame graph를 사용한 사례
+  * Twitter 내부의 매트릭 수집은 매년 30~40%씩 증가, 최근 이 증가속도가 더 커지게 되어 분석 시작
+  * 매트릭을 서비스의 어떤 기능이 가장 많이 보내고 있는지, 어떤 매트릭 키스페이스가 많은 매트릭을 생성했는지 알기 위해 flame graph 적용
+  * 쉽게 어떤 매트릭 키스페이스가 큰지 찾음. 이 분석으로 가장 큰 서비스 중 하나인 광고팀의 매트릭을 33% 감소
 
 # Grafana
 * [Grafana - Graphing System Statistics with Grafana](http://blog.endpoint.com/2015/08/graphing-system-statistics-with-grafana.html)
