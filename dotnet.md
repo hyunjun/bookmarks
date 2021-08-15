@@ -13,13 +13,6 @@
 * [Writing a simple Decompiler for .NET - Part 1 - First half](http://www.codeandux.com/writing-a-simple-decompiler-for-net-part-1/)
 * [Writing a simple Decompiler for .NET - Part 1 - Second half](http://www.codeandux.com/writing-a-simple-decompiler-for-net-part-1b/)
 * [The Profound Weakness of the .NET OSS Ecosystem](http://www.aaronstannard.com/the-profound-weakness-of-the-net-oss-ecosystem/)
-* [.NET Conf 2021 x Seoul 홈](https://www.notion.so/NET-Conf-2021-x-Seoul-228462238add4fc5a885fb81e2687528)
-  * [.NET Conf 2021 x Seoul, Day 1 - YouTube](https://www.youtube.com/watch?v=Xk6FM2pFkqE)
-  * [.NET Conf 2021 x Seoul 당김 기반 비동기 스트림 - IAsyncEnumerable(T) - YouTube](https://www.youtube.com/watch?v=cs2qsnbYFUc)
-  * [.NET Conf 2021 x Seoul 다시 보기](https://www.notion.so/1dc78a175d8e46b6b9cec9ef19cbfa72?v=413c2a20f0b042c490305e0fe899036c)
-  * [.NET Conf Mini 21.04](https://dotnetconf.kr/mini/2104) Blazor, Span<T>
-* [.NET Conf 2020](https://www.dotnetconf.net/)
-* [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009)
 * [주간닷넷 2016년 1월 5일](http://blogs.msdn.com/b/eva/archive/2016/01/12/2016-1-5.aspx)
 * [주간닷넷 2016년 2월 11일](http://blogs.msdn.com/b/eva/archive/2016/02/16/2016-2-11.aspx)
 * [주간닷넷 2016년 4월 12일](https://blogs.msdn.microsoft.com/eva/?p=8495)
@@ -95,11 +88,18 @@
 * [더북(TheBook): ASP.NET & Core를 다루는 기술](https://thebook.io/006824/)
 
 # Conference Meetup
-* [.NET Conf 2019 키노트](https://www.youtube.com/watch?v=8qtmRG5vQxM&list=PLFVJi7gR5oaP715fktQtSV6vJE76MLide)
 * [The Journey to One .NET | BOD106 - YouTube](https://www.youtube.com/watch?v=ctSqiD8BGPM)
 * [.NET Conf 2021 x Seoul 홈](https://www.notion.so/NET-Conf-2021-x-Seoul-228462238add4fc5a885fb81e2687528)
+  * [.NET Conf 2021 x Seoul, Day 1 - YouTube](https://www.youtube.com/watch?v=Xk6FM2pFkqE)
+  * [.NET Conf 2021 x Seoul 당김 기반 비동기 스트림 - IAsyncEnumerable(T) - YouTube](https://www.youtube.com/watch?v=cs2qsnbYFUc)
+  * [.NET Conf 2021 x Seoul 다시 보기](https://www.notion.so/1dc78a175d8e46b6b9cec9ef19cbfa72?v=413c2a20f0b042c490305e0fe899036c)
+  * [.NET Conf Mini 21.04](https://dotnetconf.kr/mini/2104) Blazor, Span<T>
+  * [.NET Conf Mini 21.08 - YouTube](https://www.youtube.com/watch?v=i9zw6x6zQLI)
 * [2021년 1월 - YouTube](https://www.youtube.com/playlist?list=PLIUYAlRx8QDSrW7baJ35bazYNnqxV8-Pn)
   * JAM stack session: 아마존 S3 버킷과 Amplify 서비스를 이용해 애플리케이션을 배포하는 과정
+* [.NET Conf 2020](https://www.dotnetconf.net/)
+* [.NET Conf 2019 키노트](https://www.youtube.com/watch?v=8qtmRG5vQxM&list=PLFVJi7gR5oaP715fktQtSV6vJE76MLide)
+* [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009)
 
 # Mac
 * [Visual Studio for Mac 설치하기](http://carrotcarrot.blog.me/220864151652)
