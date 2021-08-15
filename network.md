@@ -109,6 +109,12 @@ Network
 * [나만 모르고 있던 – HTTP/2](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-http2/)
 * [Delivering HTTP/2 upload speed improvements](https://blog.cloudflare.com/delivering-http-2-upload-speed-improvements/)
 * [HTTP/2 소개  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/http2?hl=ko)
+* [HTTP/2: The Sequel is Always Worse | PortSwigger Research](https://portswigger.net/research/http2)
+  * HTTP/2가 바로 도입할 수 있는 프로토콜로 많이들 생각하지만, RFC의 불완전성이나 구현 결함으로 인해서 발생하는 HTTP/2에서의 공격 위협 설명
+  * 프론트엔드 서버가 HTTP/2로 받아서 백엔드 서버로 보낼 때는 HTTP/1.1을 사용하는 경우 요청 길이를 Content-Length 헤더에서 파싱할 때 Transfer-Encoding 헤더에서 파싱할지 합의하지 않았기 때문에 발생
+    * 이를 이용해서 요청의 길이를 착각하게 만들어서 공격자가 임의의 문자열을 요청에 넣을 수 있음
+  * 프론트엔드 서버가 백엔드에 연결할 때 기존 연결을 사용할지 다시 새로 연결할지 정해야 하는데 기존 연결을 재사용할 때 터널링을 악용해서 공격에 필요한 정보를 알아내거나 캐시 중독을 일으킬 수 있음
+  * HTTP/2가 method나 path가 헤더에 있기 때문에 이를 중복해서 보내는 경우에도 허용하는 등의 HTTP/2가 가진 취약점
 * [HTTP/3 explained](https://daniel.haxx.se/http3-explained/)
 * [**HTTP/3: 과거, 현재 그리고 미래**](https://blog.cloudflare.com/ko/http3-the-past-present-and-future-ko/) 전반적인 http 내용을 잘 설명
 * [An early look at HTTP/3](https://pgjones.dev/blog/early-look-at-http3-2019/)
@@ -121,6 +127,8 @@ Network
 * [Introducing a Technology Preview of NGINX Support for QUIC and HTTP/3 - NGINX](https://www.nginx.com/blog/introducing-technology-preview-nginx-support-for-quic-http-3/)
 * [Where is HTTP/3 right now? | daniel.haxx.se](https://daniel.haxx.se/blog/2021/04/02/where-is-http-3-right-now/)
 * [Introduction - HTTP/3 explained](https://http3-explained.haxx.se/)
+* [HTTP/3 From A To Z: Core Concepts (Part 1) — Smashing Magazine](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
+  * [HTTP3, 사실 진짜로 바뀐건 TCP 였다. | Hama Develop](https://www.hamadevelop.me/http3/)
 * [http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers](https://github.com/for-GET/http-decision-diagram)
   * [HTTP/REST IS NOT BIG, NOR HEALTHY. IT'S HELL NO!](http://hyperrest.github.io/2013-06-10-http-hell-no)
 * [**서버의 상태를 알려주는 HTTP 상태 코드**](https://evan-moon.github.io/2020/03/15/about-http-status-code/)
