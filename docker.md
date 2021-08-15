@@ -1036,6 +1036,11 @@ Docker
 * [Antrea Joins CNCF Sandbox](https://blogs.vmware.com/opensource/2021/05/05/antrea-joins-cncf-sandbox/) CNI(Container Network Interface)와 Kubernetes NetworkPolicy를 pod 수준에서 구현한 VMWare의 프로젝트
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
   * [컨테이너 기반의 워크플로우 솔루션 argo](http://bcho.tistory.com/1299)
+  * [Argo CD - Declarative GitOps CD for Kubernetes](https://argo-cd.readthedocs.io/)
+    * [Introducing the AppSource Controller for ArgoCD | by Marco Acea | Aug, 2021 | Argo Project](https://blog.argoproj.io/introducing-the-appsource-controller-for-argocd-52f21d28d643)
+      * ArgoCD의 애플리케이션은 어드민이 각각 만들어주어야 하는데 여러 애플리케이션을 만들어야 할 때 app-of-apps 구현이나 ApplicationSet CRD를 많이 이용
+      * 하지만 이 두 방법도 중앙화된 방법이므로 어드민의 개입 없이 개발자가 직접 관리할 수 있게 하는 AppSource 프로젝트를 공개
+      * AppSource 컨트롤러를 이용하면 어드민은 사용자가 네임스페이스 내에서 ArgoCD 앱을 배포하도록 해서 개발자가 직접 앱을 배포 가능
 * [Cilium - Linux Native, API-Aware Networking and Security for Containers](https://cilium.io/)
   * [Kubernetes Network & Cilium](https://www.notion.so/Kubernetes-Network-Cilium-1d4371f562ea4acdb5e679e376a7c992)
 * [cloudflow - Streaming Data Pipelines on Kubernetes](https://cloudflow.io/)
@@ -1316,6 +1321,7 @@ Docker
   * [오픈소스컨설팅 쿠버네티스와 쿠버네티스 on 오픈스택 비교 및 구축 방법](https://www.slideshare.net/OpenSourceConsulting/on-244106649)
 * [OpenvSwitch 와 Open Virtual Network](https://naleejang.tistory.com/244)
 * [클라우드 시스템 운영 비율](https://naleejang.tistory.com/246)
+* [오픈소스 컨트리뷰션 1주차 스프린트 : 오픈스택 환경 구성하기 | by Ryan Kim | Aug, 2021 | Medium](https://equus3144.medium.com/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%EC%85%98-1%EC%A3%BC%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%EC%98%A4%ED%94%88%EC%8A%A4%ED%83%9D-%EC%84%A4%EC%B9%98-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0-be44aed886)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/)
