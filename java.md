@@ -264,6 +264,7 @@ Java
   * [Fundamentals of UDP Socket Programming in Java](https://medium.com/javarevisited/fundamentals-of-udp-socket-programming-in-java-4a6972370592)
   * [Java 의 SSLHandshakeException 문제 해결](https://www.lesstif.com/pages/viewpage.action?pageId=29590407)
   * getHostAddress [사용자의 IP를 가져오기 (IPv4)](https://blog.naver.com/platinasnow/220332173012)
+  * ServerSocket [localhost는 IPv6와 IPv4 어떤걸로 동작할까? :: 시행착오를 줄이는 방법](https://jinssssun.tistory.com/2)
 * NIO
   * [**NIO 정리**](https://jungwoon.github.io/java/2019/01/14/NIO/) 예제와 함께 전반적으로 잘 정리
 * Object
