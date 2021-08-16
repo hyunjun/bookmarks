@@ -347,6 +347,7 @@ Business
   * [**스타트업에서 데이터 팀 만들기 | GeekNews**](https://news.hada.io/topic?id=4597) 데이터사이언스 팀 이야기이지만 팀 구성과 관련된 일반적인 상황에 대해서도 생각해볼 수 있음
 * [칼럼 중국게임들의 고퀄리티, 높은 노동강도에서 나오는 것 아니다 : Global No.1 Game Media 게임포커스](http://gamefocus.co.kr/detail_m.php?number=105222)
 * [한중일 출신이 구글에서 더 올라가지 못하는 3가지 이유 - YouTube](https://www.youtube.com/watch?v=BgaWOzvH49A)
+* [**스타트업이 시니어를 잘 활용하려면**](https://brunch.co.kr/@say2lee/33) 매우 맞는 이야기
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
@@ -805,6 +806,7 @@ Business
 * [스타트업, 왜 실패하는가? | 리더십 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/8_1/article_no/1705)
 * [Startup Concepts - A Junior VC](https://ajuniorvc.com/startup-concepts/)
   * [Startup Concepts - 만화책 스타일의 스타트업 단어 설명 | GeekNews](https://news.hada.io/topic?id=4671)
+* [초반전 경영학… 실리콘밸리 달구는 신성 스타트업의 비밀 |](https://www.thescoop.co.kr/news/articleViewAmp.html?idxno=51558)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
