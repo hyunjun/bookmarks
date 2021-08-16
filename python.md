@@ -1593,8 +1593,6 @@ Python
 * [더북(TheBook): 모두의 파이썬: 20일 만에 배우는 프로그래밍 기초(개정판)](https://thebook.io/007026/)
 * [더북(TheBook): 파이썬 코딩의 기술 - 개정 2판](https://thebook.io/080235/) 1~2장만
 * [xwMOOC: 프로그래밍과 문제해결](https://statkclee.github.io/code-perspectives/) 파이썬, 리보그, 러플
-* [RUR-PLE](http://statkclee.github.io/rur-ple/)
-* [리보그와 파이썬 배우기! — 리보그와 함께 파이썬 배우기](http://reeborg.ca/docs/ko/)
 * [FIND THE BEST PYTHON BOOKS](http://pythonbooks.org/)
 * [11 Best Python Books To Read in 2020 - Nextotech](https://nextotech.com/best-python-books-in-2020/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
@@ -1648,6 +1646,10 @@ Python
   * [Python for Signal Processing](http://python-for-signal-processing.blogspot.com/)
   * [Python-for-Signal-Processing](https://nbviewer.jupyter.org/github/unpingco/Python-for-Signal-Processing)
   * [Notebooks for "Python for Signal Processing" book](https://github.com/leehaesung/Python-for-Signal-Processing)
+* [Reeborg's world](https://reeborg.ca/index_en.html)
+  * [리보그와 파이썬 배우기! — 리보그와 함께 파이썬 배우기](http://reeborg.ca/docs/ko/)
+  * [리보그 세상 | 리보그 세상(Reeborg’s World)](https://statkclee.github.io/reeborg/)
+* [RUR-PLE](http://statkclee.github.io/rur-ple/)
 * [SICP in Python](https://wizardforcel.gitbooks.io/sicp-in-python/)
   * [CS 61A Fall 2020](https://cs61a.org/)
 * [The-Python-Workshop: A New, Interactive Approach to Learning Python](https://github.com/PacktWorkshops/The-Python-Workshop)
