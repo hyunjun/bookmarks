@@ -95,6 +95,7 @@ Data Visualization
 * [5 ‘More’ Open Source tools to get started with Data Visualisation | by Parul Pandey | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/5-more-open-source-tools-to-get-started-with-data-visualisation-a03373972f81)
 * [SVG와 삼각 함수로 도넛 차트 만들어보기 | Evans Library](https://evan-moon.github.io/2020/12/12/draw-arc-with-svg-clippath/)
 * [Visualizing Data Timeliness at Airbnb | by Chris C Williams | Airbnb Engineering & Data Science | Feb, 2021 | Medium](https://medium.com/airbnb-engineering/visualizing-data-timeliness-at-airbnb-ee638fdf4710)
+* [데이터를 시각적으로 표현하기 위한 문법 - GRAMMAR OF GRAPHICS](https://lumiamitie.github.io/data/grammar-of-graphics/)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
