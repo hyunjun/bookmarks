@@ -906,6 +906,7 @@ Scala
     * [Zymposium - Variance - YouTube](https://www.youtube.com/watch?v=2uEjXuFBsBk)
     * [Zymposium - Proto-Quill Release Party - YouTube](https://www.youtube.com/watch?v=El9fkkHewp0)
     * [Zymposium — Smart Assertions - YouTube](https://www.youtube.com/watch?v=lgCb4-4M-fw)
+    * [Zymposium — Integrating the learning from TypeScript in designing a ZIO powered by Scala 3 - YouTube](https://www.youtube.com/watch?v=toSdrNimrTc)
     * [Part 1 - What is ZIO and should you learn it? - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=XwMKw03w8bs)
     * [Part 2 - `ZIO[_, _, Success]` - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=7MNY0o2i_vg)
     * [Part 3 - `ZIO[_, Error, _]` & Variance - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=oKaQXxEa7a8)
@@ -914,7 +915,9 @@ Scala
     * [Part 6 - zio.Has - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=epTKGRuxbOE)
     * [Part 7 - ZLayer - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=FOStEDZAZWs)
     * [Part 8 - ZLayer DSL - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=WjjdlhvOS7Y)
+    * [Part 9 - Effect Tracking - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=xwh0BAJtZFo)
     * [ZIO News - Issue #28 | Revue](https://www.getrevue.co/profile/zio/issues/zio-news-issue-28-654279)
+    * [Organizing Services with ZIO and ZLayers - Rock the JVM Blog](https://blog.rockthejvm.com/structuring-services-with-zio-zlayer/)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
