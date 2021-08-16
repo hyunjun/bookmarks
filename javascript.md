@@ -1592,6 +1592,7 @@ Javascript
   * [date-fns 활용 - caneldar를 만들어보자. 3편 & nest.js 프레임워크 흉내내기 - YouTube](https://www.youtube.com/watch?v=hcEwNEd8QjE)
   * [백엔드 개발자는 꼭 배워보세요 - YouTube](https://www.youtube.com/watch?v=SHfR1tLpe1o)
   * [nestjs mailer를 이용하여 메일 보내기](https://blog.naver.com/pjt3591oo/222467283376)
+  * [1. NestJS & TypeORM 환경에서 Monorepo 구성하기 - 기본 환경 구성 및 명령어](https://jojoldu.tistory.com/594)
   * [nestia: Automatic SDK and Document generator for the NestJS](https://github.com/samchon/nestia)
 * Netlify
   * [Run Cypress Tests on Netlify Using a Single Line](https://cypress.io/blog/2020/03/30/run-cypress-tests-on-netlify-using-a-single-line/)
@@ -3706,6 +3707,8 @@ Javascript
 * [Lightning fast & simple Typescript Serverless builds - DEV Community](https://dev.to/aws-builders/lightning-fast-simple-typescript-serverless-builds-33ed)
 * [A TypeScript Express Starter App](https://morioh.com/p/8cd90da6e9c5)
 * [TypeScript Handbook 한글 번역본](https://vriz.notion.site/TypeScript-Handbook-45b1bc86f2ed4886b393a5586fcf2a31) 4.3.5를 기준 번역(+해석)본
+* [tsconfig의 모든 것 - 1. Root fields | Evans Library](https://evan-moon.github.io/2021/07/30/tsconfig-options-root-fields/)
+* [tsconfig의 모든 것 - 2. Compiler options > Type Checking | Evans Library](https://evan-moon.github.io/2021/08/08/tsconfig-compiler-options-type-check/)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
