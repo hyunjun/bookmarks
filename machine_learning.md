@@ -1039,6 +1039,7 @@ Machine Learning
 * [Leaf is a open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe](https://github.com/autumnai/leaf)
 * LightGBM
   * [Welcome to LightGBM’s documentation! — LightGBM 2.3.2 documentation](https://lightgbm.readthedocs.io/)
+  * [Ensemble Colab에서 LightGBM 사용하기!](https://somjang.tistory.com/entry/Ensemble-Colab%EC%97%90%EC%84%9C-LightGBM-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
   * [lightgbm-serving: A lightweight server for LightGBM](https://github.com/jeongukjae/lightgbm-serving)
 * [Machine Learning - Java collection that provides Java packages for developing a machine learning algorithm](https://github.com/sebig3000/MachineLearning)
 * [MediaPipe - a cross-platform framework for building multimodal applied machine learning pipelines https://mediapipe.dev ](https://github.com/google/mediapipe)
