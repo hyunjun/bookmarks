@@ -441,7 +441,6 @@ PyTorch
 # Translation
 * [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
 * [Neural Machine Translation](https://github.com/lyeoni/nlp-tutorial/tree/master/neural-machine-translation)
-* [OpenNMT_Library_Tutorial_Using_Colab](https://github.com/Parkchanjun/OpenNMT_Library_Tutorial_Using_Colab)
 
 # Tutorial
 * [준비 운동: NumPy — PyTorch Tutorials 1.6.0 documentation](https://tutorials.pytorch.kr/beginner/examples_tensor/two_layer_net_numpy.html)
