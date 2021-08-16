@@ -3327,6 +3327,7 @@ Javascript
   * [How to Use React-Router to create an SPA | by gravity well (Rob Tomlin) | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/react-router-and-spas-made-easy-19fd1db0d6fc)
   * [react-router 구현하며 이해하기](https://woomin.netlify.app/Posts/2021-02-26-react-router/)
   * [리액트 라우터 상태(keep alive) 유지하기](https://blog.naver.com/pjt3591oo/222353304332)
+  * [create-react-app에서 React Router 사용하기 - create-react-app로 생성한 React에서 페이지 전환 기능을 구현하기 위해 react-router를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/create-react-app/react-router/)
 * [react scope - VISUALIZE YOUR REACT COMPONENTS AS YOU INTERACT WITH YOUR APPLICATION](http://reactscope.com/)
 * [React Sight — Visualise your React apps](https://medium.com/javascript-in-plain-english/react-sight-visualize-your-react-applications-ec3c7e1ae154)
 * [react-slick의 slider 아이템이 중복으로 뜨는 경우](https://blog.naver.com/pjt3591oo/222355605182)
