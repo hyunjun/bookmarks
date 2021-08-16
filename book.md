@@ -36,6 +36,13 @@ Book
 * (NOT YET) 새의 언어 [멍청해서 '새대가리'라고? 큰 착각입니다 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=44607)
 * (NOT YET) [특판남이 알려주는 돈 되는 특허 AtoZ](https://jhrogue.blogspot.com/2021/06/atoz.html)
 * (NOT YET) [나는 왜 내가 힘들까](https://jhrogue.blogspot.com/2021/07/blog-post.html)
+* [나는 알래스카에서 죽었다](https://blog.naver.com/chefjhkim/220965838528)
+  * ★★★★☆ 2021.08.16
+  * 호시노 미치오가 왜 캄차카 반도에서 사고를 당했는지 알게 되었다
+  * 항상 인디언의 전설에 관심을 갖고 그들의 옛 이야기를 쫓던 호시노 미치오는 큰까마귀를 중심으로 시베리아에서 알래스카로 건너온(걸로 믿었던) 인디언들의 기원을 쫓았고 그래서 캄차카 반도로 그 흔적을 추적했었다
+  * 호시노 미치오의 차분하면서도 편안한, 또 좀 쓸쓸한 분위기의 글이 마음을 참 편하게 한다
+  * "이야기가 죽어 간다는 것은 그런 것이다"
+    * <img src="images/hoshino_michio_0.jpg" alt="" width="300"/><img src="images/hoshino_michio_1.jpg" alt="" width="300"/>
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
