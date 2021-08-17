@@ -895,6 +895,7 @@ Scala
     * [ZIO WORLD - ZIO Runtime System by John A. De Goes - YouTube](https://www.youtube.com/watch?v=OFFrw5aJzG4)
     * [ZIO WORLD - Execution Tracing by Rob Walsh - YouTube](https://www.youtube.com/watch?v=1-z06KIde0k)
     * [ZIO WORLD - Blocking by Adam Fraser - YouTube](https://www.youtube.com/watch?v=1g21c8VKeuU)
+    * [ZIO World - Panel Discussion - YouTube](https://www.youtube.com/watch?v=JxVe2M3ahm8)
     * [1st Zymposium - Building an App with ZIO - YouTube](https://www.youtube.com/watch?v=XUwynbWUlhg)
     * [ZIO Profiler by Maxim Schuwalow - YouTube](https://www.youtube.com/watch?v=rdETYUc8XyI)
     * [2nd Zymposium - Adam Fraser, Kit Langton & Tushar Mathur - YouTube](https://www.youtube.com/watch?v=g6w1BuKlSQs)
