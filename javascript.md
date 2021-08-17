@@ -1414,6 +1414,7 @@ Javascript
   * [REACT와 ELECTRONJS로 데스크톱 앱 만들어보기 #1 프로젝트 세팅하기](https://www.fiveminutesdev.com/react%EC%99%80-electronjs%EB%A1%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-1-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%84%B8%ED%8C%85)
   * [REACT와 ELECTRONJS로 데스크톱 앱 만들어보기 #2 라우팅](https://www.fiveminutesdev.com/react%EC%99%80-electronjs%EB%A1%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-2-%EB%9D%BC%EC%9A%B0%ED%8C%85/)
   * [How to build a React based Electron app - paachu - Medium](https://medium.com/@impaachu/how-to-build-a-react-based-electron-app-d0f27413f17f)
+  * [FE개발자의 성장 스토리 11 : Electron, 저도 한번 해보겠습니다. – tech.kakao.com](https://tech.kakao.com/2021/08/17/frontend-growth-11/)
   * [WebView2 and Electron | Electron Blog](https://www.electronjs.org/blog/webview2)
     * Microsoft의 WebView2와 Electron 차이점 정리
     * 둘 다 웹 기술로 데스크톱 앱을 만드는 것이 목적이지만 Electron은 Chromium 기반 WebView2는 Edge 기반
@@ -2938,6 +2939,7 @@ Javascript
 * [선언적으로 에러 상황 제어하기 | JBEE.io](https://jbee.io/react/error-declarative-handling-3/)
 * [리액트 실력을 일취월장 하는 법](https://brunch.co.kr/@skykamja24/606)
 * [Home - About React - A Tutorial website for React Developers](https://aboutreact.com/)
+* [React Virtual Dom and Memo on Performance | by Kasun Vimukthi | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/react-virtual-dom-and-memo-hooks-on-performance-8b9498d7b3e1)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
