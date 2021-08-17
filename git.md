@@ -913,6 +913,7 @@ Git
   * [Probot: Scheduler 사용하기](https://blog.outsider.ne.kr/1402)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * PyGithub [Github 저장소 API 호출로 삭제하기](https://velog.io/@king/Github-%EC%A0%80%EC%9E%A5%EC%86%8C-API-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0)
+* [ReadmePlants/about-project.md at main · devxb/ReadmePlants](https://github.com/devxb/ReadmePlants/blob/main/about-project.md)
 * [release: Generate changelogs with a single command](https://github.com/vercel/release)
 * [scientist - 깃허브, 루비 언어용 리팩토링 도구 출시](http://www.bloter.net/archives/249184)
 * [SCM Breeze is a set of shell scripts (for bash and zsh) that enhance your interaction with git](https://github.com/ndbroadbent/scm_breeze)
