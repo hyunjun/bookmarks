@@ -28,6 +28,7 @@ Business
 * [성과주의가 조직을 망치는 5가지 이유](http://ppss.kr/archives/36083)
 * [번아웃을 막는 방법](https://subokim.wordpress.com/2013/04/12/prevent-burnout/)
 * [The World's 50 Most Innovative Companies](http://www.fastcompany.com/section/most-innovative-companies-2015)
+* [네카라쿠배당토 | 국내 IT 기업 목록](https://techcompanies.kr/)
 * [회사 내의 자위행위자들](http://ppss.kr/archives/39976)
 * [여행업과 두 얼굴의 수수료](http://ppss.kr/archives/38199)
 * [직원의 행복이 곧 회사의 경쟁력이다 by 디즈니](http://outstanding.kr/%EC%A7%81%EC%9B%90%EC%9D%98-%ED%96%89%EB%B3%B5%EC%9D%80-%EA%B3%A7-%ED%9A%8C%EC%82%AC%EC%9D%98-%EA%B2%BD%EC%9F%81%EB%A0%A5%EC%9D%B4%EB%8B%A4-by-%EB%94%94%EC%A6%88%EB%8B%88/)
