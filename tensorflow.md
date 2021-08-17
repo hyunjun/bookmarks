@@ -1298,3 +1298,4 @@ TensorFlow
 * [Softmax Regression 기본 개념 파악 및 실습하기 | sTricky](https://stricky.tistory.com/445)
 * [꿀벌개발일지 :: DeepLearning.AI TensorFlow Developer 노트](https://ohgyun.com/799)
 * [9 Best Tensorflow Courses & Certifications Online in 2021- Find the Best!](https://www.mltut.com/best-tensorflow-courses-certifications-online/)
+* [Best TensorFlow Courses from World-Class Educators](https://kanger.dev/tensorflow-courses)
