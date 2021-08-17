@@ -1009,6 +1009,7 @@ App
 * [Sound Flower](https://code.google.com/p/soundflower/downloads/list)
 * [**Spectacle**](https://github.com/eczarny/spectacle)
   * [www.spectacleapp.com](https://www.spectacleapp.com/)
+* spoof-mac [노트북에서 통신사 WIFI 사용하기](https://brunch.co.kr/@promise4u/186)
 * [ssheven: A modern SSH client for Mac OS 7/8/9](https://github.com/cy384/ssheven)
 * [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
 * [Theine 2 - Caffeine for your Mac](https://www.ixeau.com/apps/theine/) KeepingYouAwake같은 앱
