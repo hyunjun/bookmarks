@@ -77,6 +77,7 @@ Finance
 * [Portfolio Visualizer](https://www.portfoliovisualizer.com/) 미국 ETF 위주
 * [미국주식 고배당주 총정리](https://usstock.tistory.com/75)
 * [해외 고배당/자산배분 ETF 투자 - SPYD(분기), SPHD(월) / AOR등](http://blog.naver.com/yonghan_shin/221516283146)
+* [(주식) 미국 주식 입문자들을 위한 ETF 간단 소개](https://pgr21.com/freedom/92619) IVV, VOO, SPLG, VTI, QQQ, SMH, XLF, XLV, ...
 * [국내 배당주 ETF 3가지 추천!](https://rollingbean.tistory.com/12)
   * [요즘 부자들 '이것'을 조용히 모으고 있다 - YouTube](https://www.youtube.com/watch?v=dPV9X72Ifxk) Kodex 배당성장 ETF Arirang고배당주
 * [배당만 따먹어도 정기예금보다 배부르네](https://news.v.daum.net/v/20210315030352457)
@@ -85,6 +86,7 @@ Finance
   * 통신주: SK telecom LG U+ Verizon, LG생활건강, 맥쿼리인프라, 코웨이?, KT&G, 필립모리스
 * [그랩을 살려는 이유, 그리고 리스크 - YouTube](https://www.youtube.com/watch?v=YFTQssrANy0)
 * [슈퍼개미 배진한 레슨몬TV - YouTube](https://www.youtube.com/channel/UCu2R3TCLSxYV8pRyBGNOh2g/videos)
+* [슈퍼서민 - YouTube](https://www.youtube.com/channel/UCvwFSUne__pjWQ3wXdhgUrA)
 * [당장 우선주 담아라…가치투자 대부 강방천이 꼽은 톱픽 | 한경닷컴](https://www.hankyung.com/finance/article/2021071122621)
 * [돈 공부 28년 만에 알게 된 '절대 잃지 않는' 투자 방법 (feat. 홍춘욱) - YouTube](https://www.youtube.com/watch?v=nB3aK74tfzY) 달러투자
 * [단 5분, 환율우대 100% 받으면서 달러 환차익 투자하기 - YouTube](https://www.youtube.com/watch?v=_T8ksFg4_bs) 외화 RP
