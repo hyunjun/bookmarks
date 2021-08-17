@@ -14,6 +14,7 @@ Data Science
   * [데이터 지능(Data Intelligence) 팟캐스트](http://www.hellodatascience.com/?p=751)
 * [인정받는 데이터 분석가 되기 – 외부 세미나 요약 –](http://freesearch.pe.kr/archives/4384)
 * [데이터 분석가는 어떤 SKILLSET을 가져야 하는가?](https://www.slideshare.net/HeeSeo/skillset-123722714)
+* [당근마켓 팀과 데이터 분석. 프로덕트 데이터 분석가는 어떤 일을 하는가 | by matthew l | 당근마켓 팀블로그 | Aug, 2021 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%ED%8C%80%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-b3d5af6159bc)
 * [Overfitting을 피해보자!](http://freesearch.pe.kr/archives/4487)
 * [손에 잡히는 데이터 과학 이야기](https://brunch.co.kr/magazine/datascience)
 * [How to Become a Data Scientist for Free](http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free)
