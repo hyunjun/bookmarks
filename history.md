@@ -206,6 +206,7 @@ History
 * [친일은 왜 단죄해야 하는가](http://www.hani.co.kr/arti/opinion/column/731734.html)
 * [조선의 3대 천재 이광수, '밀정' 아내와 이혼한 이유](http://media.daum.net/culture/others/newsview?newsid=20160916160004834&RIGHT_REPLY=R4)
 * [보수층이 굴레를 벗으려는 시도!](http://ttimes.co.kr/view.html?no=2016081615057751505)
+* [애국자 안창호와 친일파 윤치호, 애국가 작사가는 누구? - 오마이뉴스](http://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0002766248&SRS_CD=0000012199)
 
 ## 조선
 * [blog.naver.com/alsn76](http://blog.naver.com/alsn76)
@@ -249,6 +250,9 @@ History
 
 ## 고조선
 * [흑요석은 고조선 사람들의 '성공 조건'이었다](http://v.media.daum.net/v/20171022190905447)
+
+## 백제
+* [이기환의 흔적의 역사 '백제의 요서경략' 설파하면 '사이비' '국뽕'인가 - 경향신문](https://www.khan.co.kr/culture/culture-general/article/202108100500001)
 
 # Military
 * [전투와 무기에 관한 세 가지 썰](http://ppss.kr/archives/51712)
