@@ -181,6 +181,7 @@ SQL
 * [Against SQL](https://scattered-thoughts.net/writing/against-sql/)
 * [A beginner's guide to database multitenancy - Vlad Mihalcea](https://vladmihalcea.com/database-multitenancy/)
 * [칼럼｜데이터베이스의 '주류 교체', 숨막히게 더딜지라도... - CIO Korea](https://www.ciokorea.com/news/204299)
+* [영상 : 초보자가 저지르기 쉬운 DB 코딩 실수 3가지 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%EC%98%81%EC%83%81-%EC%B4%88%EB%B3%B4%EC%9E%90%EA%B0%80-%EC%A0%80%EC%A7%80%EB%A5%B4%EA%B8%B0-%EC%89%AC%EC%9A%B4-DB-%EC%BD%94%EB%94%A9-%EC%8B%A4%EC%88%98-3%EA%B0%80%EC%A7%80)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
