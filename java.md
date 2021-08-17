@@ -551,6 +551,7 @@ Java
 * [10분 테코톡 🍟 웨지의 인텔리제이 디버깅 - YouTube](https://www.youtube.com/watch?v=gkutTlwi70s)
 * [JetBrains Productivity Day 4부 패널토크 온/오프라인 인플루언서와 함께하는 IntelliJ IDEA와 생산성에 대한 이야기 - YouTube](https://www.youtube.com/watch?v=FCa4bTUowTY)
 * [IntelliJ & Webstorm import시 double quotes 대신에 single quotes 기본값으로 사용하기](https://jojoldu.tistory.com/589)
+* [IntelliJ & WebStorm에서 ES6(& TS) Import 문에 space 포함시키기](https://jojoldu.tistory.com/595)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
@@ -812,6 +813,7 @@ Java
 * [Demystifying Java Virtual Machine Memory Management | foojay](https://foojay.io/today/demystifying-jvm-memory-management/)
 * [JVM Ecosystem Report 2021 | Snyk](https://snyk.io/jvm-ecosystem-report-2021/)
   * [JVM 에코시스템 보고서 2021 | GeekNews](https://news.hada.io/topic?id=4579)
+* [Journey to the Centre of the JVM — Daniel Spiewak - YouTube](https://www.youtube.com/watch?v=EFkpmFt61Jo)
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
   * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics](https://micrometer.io/)
