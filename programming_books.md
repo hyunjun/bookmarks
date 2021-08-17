@@ -17,7 +17,6 @@ Programming Books
 * [SW교육도서 소개](http://hicoding.kr/?page_id=38623) 초등학생용이지만 수준이 상당함
 * [전자책 출간 후기](https://www.popit.kr/%EC%A0%84%EC%9E%90%EC%B1%85-%EC%B6%9C%EA%B0%84-%ED%9B%84%EA%B8%B0)
 * [전자책 1인출판 도전기 #6 출판사 신고하기 (1)](https://brunch.co.kr/@merryseo/9)
-* [엔지니어링 매니저 필독 도서&아티클](https://welcome.publy.co/em-books-and-articles/)
 * [독서가 내게 가져다 준 것들 - 우아한형제들 기술 블로그](https://woowabros.github.io/growth/2020/11/25/what-reading-gave-to-me.html)
 * [한빛 리얼타임 eBook](https://www.hanbit.co.kr/realtime/books/new_webbook_list.html)
 * [2021년 상반기 개발자는 이 책을 읽었다](https://www.notion.so/2021-73cb3aa263ae4c4c903e10b854dda826)
@@ -61,7 +60,6 @@ Programming Books
   * 2018.09
   * 한라 005.12파297ㄷ
   * vagrant, docker, kubernetes, puppet, chef, ansible, docker swarm, docker compose, consul, etcd, registrator, confd, nginx/ha proxy
-* (NOT YET) [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
 * [해킹 일렉트로닉스: 아두이노와 라즈베리 파이로 배우는 전자공학](http://jpub.tistory.com/821)
   * 2018.09
   * 한라 569몽877ㅎ
@@ -76,7 +74,6 @@ Programming Books
 * (NOT YET) [프로그래밍의 정석](https://www.popit.kr/bookreview-principlesofprogramming)
 * (NOT YET) [**빅데이터를 지탱하는 기술**](http://jpub.tistory.com/8610)
 * (NOT YET) [프로그래밍의 정석 - 프로그래머가 반드시 알아야 할 101가지 원리 원칙](https://freelec.co.kr/book/1448/)
-* ["맨먼스미신" 서평](https://www.popit.kr/%EB%A7%A8%EB%A8%BC%EC%8A%A4%EB%AF%B8%EC%8B%A0-%EC%84%9C%ED%8F%89)
 * (NOT YET) [인텔리제이 IDEA 기본 사용법부터 고급 기능까지 마스터하기](http://acornpub.co.kr/book/intellij-idea)
 * (NOT YET) [AI 빅데이터에 숨어있는 수학의 아름다움](http://www.sejongbooks.co.kr/book_board/pubstory_book_view.php?id=bookstory&no=20501&category=08)
 * (NOT YET) [**HTTP 완벽 가이드: 웹은 어떻게 동작하는가**](https://blog.outsider.ne.kr/1431)
@@ -103,11 +100,6 @@ Programming Books
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
 * (NOT YET) [처음 배우는 플러터, 유동환 저(2020)](https://medium.com/@larkbless/%EC%84%9C%ED%8F%89-%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%9C%A0%EB%8F%99%ED%99%98-%EC%A0%80-2020-1327c26c57cc)
 * (NOT YET) [줄리아를 생각하다 데이터 과학자를 위한 최적의 프로그래밍 언어](http://www.yes24.com/Product/Goods/89643887?scode=032&OzSrank=1)
-* [개발 7년차, 매니저 1일차](https://jybaek.tistory.com/867)
-  * ★★★★★
-  * [독서광 개발 7년차, 매니저 1일차](https://jhrogue.blogspot.com/2020/06/7-1.html)
-  * [개발 7년차, 매니저 1일차](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C-7%EB%85%84%EC%B0%A8-%EB%A7%A4%EB%8B%88%EC%A0%80-1%EC%9D%BC%EC%B0%A8-3189fcbc2d54)
-* (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * (NOT YET) [(유튜브 방송) UX/UI의 10가지 심리학 법칙](https://jhrogue.blogspot.com/2020/09/uxui-10.html)
 * (NOT YET) [도서 일상 속 사물이 알려주는 웹 API 디자인 – 지락문화예술공작단](https://jirak.net/wp/%EB%8F%84%EC%84%9C-%EC%9D%BC%EC%83%81-%EC%86%8D-%EC%82%AC%EB%AC%BC%EC%9D%B4-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EC%9B%B9-api-%EB%94%94%EC%9E%90%EC%9D%B8/)
 * (NOT YET) [웹 애플리케이션 보안 : 네이버 블로그](https://blog.naver.com/ins_soul80/222288561320)
@@ -117,12 +109,6 @@ Programming Books
 * (NOT YET) [이야기로 배우는 구글 빅쿼리](https://jybaek.tistory.com/918) GCP Google Big Query
 * (NOT YET) [스트리밍 시스템 | 에이콘출판사](http://www.acornpub.co.kr/book/streaming-systems)
 * (NOT YET) [레거시 코드 활용 전략](https://jhrogue.blogspot.com/2021/07/blog-post_8.html)
-* (NOT YET) [요즘 팀장은 이렇게 일합니다 - 중앙북스](https://jbooks.joins.com/book/book_info.asp?bokid=2455)
-  * [“팀장이 가장 어려웠어요”…모두가 알아야 할 ‘팀장 리더십’ : 네이버 뉴스](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=243&aid=0000014586)
-* (NOT YET) [하드씽](https://jhrogue.blogspot.com/2021/07/blog-post_21.html)
-* (NOT YET) [배틀그라운드 신화를 만든 10년의 도전 크래프톤 웨이](http://www.gimmyoung.com/Book/BookView?bookCode=BC003339&bookType=all) 한국판 하드씽
-  * [최윤섭님 서평](https://www.facebook.com/photo?fbid=6059054744134439)
-* (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
 
 # Agile Scrum
 
@@ -1339,6 +1325,24 @@ Programming Books
 
 * 손이 먼저 반응하는 Practical Vim
   * 탐라 문005.51 네68p
+
+# Management
+* [엔지니어링 매니저 필독 도서&아티클](https://welcome.publy.co/em-books-and-articles/)
+* [엔지니어링 매니저가 꼭 읽어야 할 도서&아티클](https://blog.careerly.co.kr/engineering-reading/)
+* (NOT YET) [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
+* ["맨먼스미신" 서평](https://www.popit.kr/%EB%A7%A8%EB%A8%BC%EC%8A%A4%EB%AF%B8%EC%8B%A0-%EC%84%9C%ED%8F%89)
+* [개발 7년차, 매니저 1일차](https://jybaek.tistory.com/867)
+  * ★★★★★
+  * [독서광 개발 7년차, 매니저 1일차](https://jhrogue.blogspot.com/2020/06/7-1.html)
+  * [개발 7년차, 매니저 1일차](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C-7%EB%85%84%EC%B0%A8-%EB%A7%A4%EB%8B%88%EC%A0%80-1%EC%9D%BC%EC%B0%A8-3189fcbc2d54)
+* (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
+* (NOT YET) [요즘 팀장은 이렇게 일합니다 - 중앙북스](https://jbooks.joins.com/book/book_info.asp?bokid=2455)
+  * [“팀장이 가장 어려웠어요”…모두가 알아야 할 ‘팀장 리더십’ : 네이버 뉴스](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=243&aid=0000014586)
+* (NOT YET) [하드씽](https://jhrogue.blogspot.com/2021/07/blog-post_21.html)
+* (NOT YET) [배틀그라운드 신화를 만든 10년의 도전 크래프톤 웨이](http://www.gimmyoung.com/Book/BookView?bookCode=BC003339&bookType=all) 한국판 하드씽
+  * [최윤섭님 서평](https://www.facebook.com/photo?fbid=6059054744134439)
+* (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
+* (NOT YET) [실리콘밸리의 팀장들](http://www.chungrim.com/booktotal/bin/view.php?&code=book&isbn=978-89-352-1282-8&cpage=1)
 
 # Math
 
