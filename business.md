@@ -350,6 +350,9 @@ Business
 * [칼럼 중국게임들의 고퀄리티, 높은 노동강도에서 나오는 것 아니다 : Global No.1 Game Media 게임포커스](http://gamefocus.co.kr/detail_m.php?number=105222)
 * [한중일 출신이 구글에서 더 올라가지 못하는 3가지 이유 - YouTube](https://www.youtube.com/watch?v=BgaWOzvH49A)
 * [**스타트업이 시니어를 잘 활용하려면**](https://brunch.co.kr/@say2lee/33) 매우 맞는 이야기
+* [순항 중인 사업 뒤집기와 리팩토링](https://brunch.co.kr/@graypool/107)
+* [The rise of the one-person unicorn](https://www.nothingventured.com/the-rise-of-the-one-person-unicorn/)
+  * [1인 유니콘 기업의 등장 | GeekNews](https://news.hada.io/topic?id=4834)
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
@@ -618,6 +621,7 @@ Business
   * 담당업무 박스 owning box 교육업무 박스 teaching box 학습업무 박스 learning box 위임업무 박스 delegating box 로 업무 분류 및 분량 조절
 * [김영헌의 마중물 사람을 놓치지 마라 | 한경닷컴](https://www.hankyung.com/thepen/lifeist/article/202107269281Q)
 * [존댓말 쓰는 리더](https://brunch.co.kr/@joonwriter/5)
+* [신임 리더가 경계해야 할 네 가지 증후군 | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/%ec%8b%a0%ec%9e%84-%eb%a6%ac%eb%8d%94%ea%b0%80-%ea%b2%bd%ea%b3%84%ed%95%b4%ec%95%bc-%ed%95%a0-%eb%84%a4-%ea%b0%80%ec%a7%80-%ec%a6%9d%ed%9b%84%ea%b5%b0/)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
