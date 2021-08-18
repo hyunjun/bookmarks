@@ -427,6 +427,7 @@ Programming
 * [What Does It Take To Be a Tech Giant? | Miguel Rochefort](https://miguelrochefort.com/blog/tech-giant/)
   * [Tech Giant가 되려면 뭐가 필요한가 ? | GeekNews](https://news.hada.io/topic?id=4600)
 * [Data-Driven Development in the Automotive Field - YouTube](https://www.youtube.com/watch?v=SExQZna9x90)
+* [쏘카 백오피스 팀 내 공통 코드(Common Code) 관리 변천사 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2021/08/17/common-code-management.html)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
