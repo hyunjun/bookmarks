@@ -36,13 +36,6 @@ Book
 * (NOT YET) 새의 언어 [멍청해서 '새대가리'라고? 큰 착각입니다 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=44607)
 * (NOT YET) [특판남이 알려주는 돈 되는 특허 AtoZ](https://jhrogue.blogspot.com/2021/06/atoz.html)
 * (NOT YET) [나는 왜 내가 힘들까](https://jhrogue.blogspot.com/2021/07/blog-post.html)
-* [나는 알래스카에서 죽었다](https://blog.naver.com/chefjhkim/220965838528)
-  * ★★★★☆ 2021.08.16
-  * 호시노 미치오가 왜 캄차카 반도에서 사고를 당했는지 알게 되었다
-  * 항상 인디언의 전설에 관심을 갖고 그들의 옛 이야기를 쫓던 호시노 미치오는 큰까마귀를 중심으로 시베리아에서 알래스카로 건너온(걸로 믿었던) 인디언들의 기원을 쫓았고 그래서 캄차카 반도로 그 흔적을 추적했었다
-  * 호시노 미치오의 차분하면서도 편안한, 또 좀 쓸쓸한 분위기의 글이 마음을 참 편하게 한다
-  * "이야기가 죽어 간다는 것은 그런 것이다"
-    * <img src="images/hoshino_michio_0.jpg" alt="" width="300"/><img src="images/hoshino_michio_1.jpg" alt="" width="300"/>
 * (NOT YET) [돈의 심리학](https://jhrogue.blogspot.com/2021/08/blog-post_18.html)
 
 # Africa
@@ -124,6 +117,23 @@ Book
 * (NOT YET) 본격 한중일 세계사 (굽시니스트)
 * (NOT YET) [마지막으로 읽는 세계사 책](https://brunch.co.kr/@taeherself/248)
 * 총 균 쇠 [759쪽짜리 책이 3판 42쇄까지 찍은 이유: 『총, 균, 쇠』 | ㅍㅍㅅㅅ](https://ppss.kr/archives/223828)
+
+# [Hoshino Michio](https://www.michio-hoshino.com/)
+* 알래스카, 바람 같은 이야기
+* 여행하는 나무
+* 노던라이츠
+* [나는 알래스카에서 죽었다](https://blog.naver.com/chefjhkim/220965838528)
+  * ★★★★☆ 2021.08.16
+  * 호시노 미치오가 왜 캄차카 반도에서 사고를 당했는지 알게 되었다
+  * 항상 인디언의 전설에 관심을 갖고 그들의 옛 이야기를 쫓던 호시노 미치오는 큰까마귀를 중심으로 시베리아에서 알래스카로 건너온(걸로 믿었던) 인디언들의 기원을 쫓았고 그래서 캄차카 반도로 그 흔적을 추적했었다
+  * 호시노 미치오의 차분하면서도 편안한, 또 좀 쓸쓸한 분위기의 글이 마음을 참 편하게 한다
+  * "이야기가 죽어 간다는 것은 그런 것이다"
+    * <img src="images/hoshino_michio_0.jpg" alt="" width="300"/><img src="images/hoshino_michio_1.jpg" alt="" width="300"/>
+* 긴 여행의 도중
+  * ★★★★☆ 2021.08.18
+  * 다른 책들도 그렇지만 호시노 미치오가 만난 사람들을 중심으로 이야기 전개
+  * 제인 구달과도 인연이 있는지는 몰랐는데 생각해보면 참 잘 어울린다. 다만 아프리카에서 같이 2주 여행을 했다는 데 어느 날 아침엔 커다른 침팬지의 습격도 받았다고...
+  * 곰 연구자인 친구가 있는데 곰에게 습격당해 얼굴을 크게 다쳤다고 한다. 호시노 미치오의 최후를 생각하니 이것도 인연이었나 싶다
 
 # Math
 * [한번읽고 평생 써먹는 수학상식 이야기](http://jybaek.tistory.com/754)
