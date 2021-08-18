@@ -500,6 +500,7 @@ App
 * [Sourcetrail - The offline cross-platform source explorer Get productive on unfamiliar source code](https://www.sourcetrail.com/)
 * [TeamGantt - Online Gantt Chart Software](https://www.teamgantt.com/)
 * Termius [멀티 플랫폼 SSH 클라이언트: Termius](https://macnews.tistory.com/5728)
+* Zapier [바쁜 실무자를 위한 자동화 Tool - Zapier](https://brunch.co.kr/@expnote/62)
 * [Zeal - An offline documentation browser inspired by Dash](https://zealdocs.org/)
 
 ## Development Project Management
