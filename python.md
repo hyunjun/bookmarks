@@ -371,7 +371,6 @@ Python
 * [Python: Beyond the basics II - IPython, encapsulation & args](https://medium.com/@m0etaz/python-beyond-the-basics-ii-16964d70c4da)
 * [Python stories, September 2018](https://hackernoon.com/python-stories-september-2018-d34e526edde2)
 * [stdout_009.log: PEP 572, PEP 8000, Python Software Foundation](https://stdout.fm/9/)
-* [Dependency Injection in Python: The Java Guy’s Perspective - Dependency Injection (DI) in Python? Seriously?](https://medium.com/ki-labs-engineering/dependency-injection-in-python-the-java-guys-perspective-6f96d672c5e7)
 * [How to write a simple toy database in Python within minutes](https://medium.freecodecamp.org/how-to-write-a-simple-toy-database-in-python-within-minutes-51ff49f47f1)
 * [Python APIs - APIs are an easy and standardized way to access information across different companies](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-api) Google, Yelp, Youtube
 * [연산자(operators)의 유용성](https://www.martinii.fun/blog/why-operators-are-useful/)
@@ -3088,7 +3087,6 @@ Python
 * [API-Hour - Write efficient network daemons (HTTP, SSH...) with ease. http://pythonhosted.org/api_hour ](https://github.com/Eyepea/API-Hour)
 * [Asyncio Time Travel Loop](https://github.com/realcr/asyncio_time_travel)
 * [asyncwsgi](https://github.com/nehz/asyncwsgi)
-* [Autowire - light & simple dependency injection library for Python](https://github.com/Hardtack/Autowire)
 * [Bake — the strangely familiar workflow utility](https://github.com/kennethreitz/bake) makefile과 비슷하게 bakefile을 통해 작업 처리. automation
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
 * BaseCrack [A Python tool that can decode all alphanumeric base encoding schemes](https://pythonawesome.com/a-python-tool-that-can-decode-all-alphanumeric-base-encoding-schemes/)
@@ -3741,6 +3739,12 @@ Python
   * [sqlbuilder.readthedocs.io](https://sqlbuilder.readthedocs.io)
   * [practice - sqlbuilder](https://gist.github.com/hyunjun/2c0f820e9bbe6810dc186b1885beb622) 간단히 test해봤는데 python에서 호출할 query를 만드는 데는 확실히 유용할 거 같음
 * [tortoise-orm: Familiar asyncio ORM for python, built with relations in mind](https://github.com/tortoise/tortoise-orm)
+
+## Library dependency injection
+* [Dependency Injection in Python: The Java Guy’s Perspective - Dependency Injection (DI) in Python? Seriously?](https://medium.com/ki-labs-engineering/dependency-injection-in-python-the-java-guys-perspective-6f96d672c5e7)
+* [Autowire - light & simple dependency injection library for Python](https://github.com/Hardtack/Autowire)
+* [Dependency Injector — Dependency injection framework for Python — Dependency Injector 4.35.2 documentation](https://python-dependency-injector.ets-labs.org/)
+  * [**파이썬 애플리케이션 의존성 주입 - dependency injector**](https://www.humphreyahn.dev/blog/dependency-injector)
 
 ## Library IDE
 * [Best Python IDEs and Code Editors You Must Use in 2020](https://towardsdatascience.com/best-python-ides-and-code-editors-you-must-use-in-2020-2303a53db24)
