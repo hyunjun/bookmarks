@@ -1200,7 +1200,7 @@ NLP
 * [kss - Korean Sentence Splitter](https://pypi.org/project/kss/)
   * [Korean Sentence Splitter](https://github.com/likejazz/korean-sentence-splitter)
   * [한글 문장 분리기](http://docs.likejazz.com/kss/)
-  * [python-kss: Korean sentence splitter implemented in pure python](https://github.com/hyunwoongko/python-kss)
+  * [Kss: A Toolkit for Korean sentence segmentation](https://github.com/hyunwoongko/kss)
 * [NLP Architect - an open-source Python library for exploring the state-of-the-art deep learning topologies and techniques for natural language processing and natural language understanding](http://nlp_architect.nervanasys.com/)
 * [NLTK](http://www.nltk.org)
   * [book](http://www.nltk.org/book/)
