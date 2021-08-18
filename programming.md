@@ -3102,6 +3102,7 @@ Programming
 * [You're Testing WHAT? • Gojko Adzic • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=5_IW7npQk9k)
 * [Unit Test 시작하기 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/6274/)
 * [How to Step Up Cloud Infrastructure Testing | Pulumi](https://www.pulumi.com/what-is/how-to-step-up-cloud-infrastructure-testing/)
+* [LINE에서 테스트를 최적화하는 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/testing-optimization/)
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
