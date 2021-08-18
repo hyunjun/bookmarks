@@ -43,6 +43,7 @@ Book
   * 호시노 미치오의 차분하면서도 편안한, 또 좀 쓸쓸한 분위기의 글이 마음을 참 편하게 한다
   * "이야기가 죽어 간다는 것은 그런 것이다"
     * <img src="images/hoshino_michio_0.jpg" alt="" width="300"/><img src="images/hoshino_michio_1.jpg" alt="" width="300"/>
+* (NOT YET) [돈의 심리학](https://jhrogue.blogspot.com/2021/08/blog-post_18.html)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
