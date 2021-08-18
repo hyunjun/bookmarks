@@ -65,7 +65,9 @@ Javascript
 * [**30 Day Vanilla JS Coding Challenge**](https://javascript30.com/)
 * [#CodeTidbits30](https://medium.com/dailyjs/codetidbits30-9a782b17fa89)
 * [번역 바닐라 자바스크립트로 상태 관리 시스템 구축](http://devtimothy.tistory.com/86)
+* [Vanilla Javascript로 웹 컴포넌트 만들기 | 개발자 황준일](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Component/)
 * [Vanilla Javascript로 상태관리 시스템 만들기 | 개발자 황준일](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Store/)
+* [Vanilla Javascript로 가상돔(Virtual DOM) 만들기 | 개발자 황준일](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Virtual-DOM/)
 * 초보자를 위한 바닐라 자바스크립트
   * [#0-1 Requirements : JS for Beginners](https://www.youtube.com/watch?v=wUHncG3VwPw)
   * [#0-2 What are we building : JS for Beginners](https://www.youtube.com/watch?v=ygVeQEgxm4o)
@@ -412,6 +414,7 @@ Javascript
 * [자바스크립트 실행 문맥(Execution Context)의 기본동작](http://qwefgh90.github.io/javascript/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%EC%8B%A4%ED%96%89-%EB%AC%B8%EB%A7%A5/)
 * [Understanding Execution Context and Execution Stack in Javascript](https://blog.bitsrc.io/understanding-execution-context-and-execution-stack-in-javascript-1c9ea8642dd0)
 * [코어 자바스크립트 실행 컨텍스트](https://www.huskyhoochu.com/execution-context/)
+* [자바스크립트 실행 컨텍스트 | 개발자 황준일](https://junilhwang.github.io/TIL/Javascript/Domain/Execution-Context/)
 * [JavaScript Stack from Scratch #0](https://medium.com/@jinro4/%EB%B2%88%EC%97%AD-javascript-stack-from-scratch-0-2bb0898c322)
 * [HTML5 Games Workshop](https://mozdevs.github.io/html5-games-workshop/)
   * [HTML5 게임 워크샵: JavaScript로 오락실 게임을 만들어보세요!](http://hacks.mozilla.or.kr/2017/05/html5-games-workshop-make-a-platformer-game-with-javascript/)
