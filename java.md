@@ -820,6 +820,8 @@ Java
   * [Full Stack Monitoring of JVM Applications, Using Micrometer](https://www.infoq.com/news/2019/10/monitoring-micrometer)
 * [**Open sourcing oomd, a new approach to handling OOMs**](https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/)
   * Facebook 인프라 확장에 따라 발생한 여러 부작용 중 메모리 부족(OOM)을 개선하기 위해 전통적인 리눅스 OOM killer 보다 빨리 응답하고 신뢰할 수 있는 솔루션으로 oomd를 개발, 적용,오픈 소스 공개
+* [JVM Architecture란? :: 당근케잌](https://yeon-kr.tistory.com/112)
+* [Java Memory Model(자바 메모리 모델) :: 당근케잌](https://yeon-kr.tistory.com/114)
 * [**Project Loom: Fibers and Continuations for the Java Virtual Machine**](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)
   * [**Project Loom: Fiber와 Continuation**](http://guruma.github.io/posts/2018-09-27-Project-Loom-Fiber-And-Continuation/)
   * [Project Loom: Helping Write Concurrent Applications on the Java Platform by Ron Pressler](https://www.youtube.com/watch?v=lIq-x_iI-kc)
