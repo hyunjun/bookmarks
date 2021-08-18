@@ -2349,6 +2349,7 @@ Javascript
   * [playwright: Node.js library to automate Chromium, Firefox and WebKit with a single API](https://github.com/microsoft/playwright)
   * [Playwright 1.0 Release Automates Chromium, Firefox, and WebKit-Based Browsers](https://www.infoq.com/news/2020/05/playwright-10-browser-automation/)
   * [Fast and reliable cross-browser testing with Playwright 🎭 | by Arjun Attam | Medium](https://medium.com/@arjunattam/fast-and-reliable-cross-browser-testing-with-playwright-155c0e8a821f)
+  * [Playwright로 E2E 테스트 작성하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210818)
 * pm2
   * [PM2 를 이용하여 NodeJS 프로세스 관리하기](http://www.tutorialbook.co.kr/entry/PM2-%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-NodeJS-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0)
   * [pm2-webshell: Expose a fully capable terminal in your browser](https://keymetrics.io/2015/06/10/pm2-ssh-expose-a-fully-capable-terminal-within-your-browser/)
