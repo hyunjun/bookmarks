@@ -144,6 +144,10 @@ Azure
 * [세미나 발표 - YouTube](https://www.youtube.com/playlist?list=PLblCEfhpME9DCc9sXlqdxoD9N_ILF0A_H)
   * [Watch party (2번째 이야기) - Microsoft Cloud로 차별화된 SaaS 앱 빌드 - YouTube](https://www.youtube.com/watch?v=DnbXm-kHc0s&list=PLblCEfhpME9DCc9sXlqdxoD9N_ILF0A_H)
 * [MVP Global Cloud Skills Challenge 후기](https://blog.naver.com/dodream7/222387580776)
+* [Tech Talk | Simon and Denny Build a Thing! Part One - YouTube](https://www.youtube.com/watch?v=EYUPZ73bVsA)
+* [Tech Talk | Simon and Denny Build a Thing! Part Two - YouTube](https://www.youtube.com/watch?v=suVeEiSBDf4)
+* [Tech Talk | Simon and Denny Build a Thing! Part Three - YouTube](https://www.youtube.com/watch?v=de5lbzi3vV0)
+* [Tech Talk | Simon + Denny Build A Thing! Part Four - YouTube](https://www.youtube.com/watch?v=Tmaoou3NchQ)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
