@@ -173,6 +173,7 @@ Network
 * [**HOW HTTPS WORKS**](https://howhttps.works/)
 * [**How HTTPS works - How HTTPS works**](https://howhttps.works/ko/)
 * [HTTPS를 쓰면 패스워드를 평문으로 보내도 될까? | yoonho's dev notes](https://yoonhogo.github.io/blog/2020-09-08/HTTPS-plain-text-safety/)
+* [http와 https가 어떤 차이가 있는지 간단하게 실습해 봅시다](https://codingdog.tistory.com/580)
 
 ## HTTPS SSL
 * [HTTPS와 SSL 인증서 - 생활코딩](https://opentutorials.org/course/228/4894)
