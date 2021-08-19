@@ -874,6 +874,8 @@ Javascript
 * [Packaging your Spring Boot and Angular 2+ projects together | by Diego Hordi | Level Up Coding](https://levelup.gitconnected.com/packaging-your-spring-boot-and-angular-2-projects-together-a13a9c5efdb7)
 * [Angular - Tutorial To Prototyping | LinkedIn](https://www.linkedin.com/pulse/angular-tutorial-prototyping-indrayudh-roy/)
 * [Angular v12.0.0 릴리즈 노트](https://han41858.tistory.com/56)
+* [Incremental vs Virtual DOM. Will Incremental DOM Replace Virtual… | by Chameera Dulanga | Bits and Pieces](https://blog.bitsrc.io/incremental-vs-virtual-dom-eb7157e43dca)
+  * [Incremental DOM과 Virtual DOM 비교 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210819)
 
 # Asynchronous
 * [async-cartogram - Javascript non-blocking cartograms (web workers / node) https://laem.github.io/async-cartogram](https://github.com/laem/async-cartogram)
@@ -1537,6 +1539,7 @@ Javascript
 * [Mancy - A cross platform JavaScript REPL application based on electron and react frameworks](https://github.com/princejwesley/Mancy)
   * [Cross platform JavaScript REPL application based on Electron and React](http://www.mancy-re.pl/)
 * [map-chat - A super simple location based chat http://idoco.github.io/map-chat](https://github.com/idoco/map-chat)
+* [MaskPassword: This is a suggestion for passwords that change over time, not always a constant string of passwords](https://github.com/danwha/MaskPassword)
 * [massCode - A free and open source code snippets manager for developers. https://masscode.io ](https://github.com/antonreshetov/massCode)
 * [Material Design Hierarchical Display](http://zavoloklom.github.io/material-design-hierarchical-display/)
 * [MetaES is a metacircular interpreter of JavaScript language written in JavaScript](http://metaes.org/)
