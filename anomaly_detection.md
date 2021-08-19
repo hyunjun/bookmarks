@@ -50,6 +50,10 @@ Anomaly Detection
 # Book
 * [엘라스틱서치로 알아보는 이상징후 분석: Data Anomaly Detection](https://play.google.com/store/books/details/강명훈_엘라스틱서치로_알아보는_이상징후_분석?id=eqjDDwAAQBAJ)
 
+# Library
+* [rule_engine: Anomaly classification with rules](https://github.com/jjthomas/rule_engine)
+  * [A Fast Decision Rule Engine for Anomaly Detection - YouTube](https://www.youtube.com/watch?v=KSf3NoXONqI)
+
 # Python
 * [anomaly detection with python](https://speakerdeck.com/rosiebloxsom/anomaly-detection-with-python)
 * [5 Ways to Detect Outliers That Every Data Scientist Should Know (Python Code)](https://towardsdatascience.com/5-ways-to-detect-outliers-that-every-data-scientist-should-know-python-code-70a54335a623)
