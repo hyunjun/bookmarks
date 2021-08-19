@@ -346,7 +346,12 @@ History
 * [삼국지 실제 역사적 배경과 실제 지리](https://www.youtube.com/watch?v=Y5CyZJgiuVE)
 * [정사 삼국지방 파성넷](http://rexhistoria.net/)
 * [홍콩의 싸움: 정체성의 관점에서](http://slownews.kr/73604)
+* [기사 - 홍콩의 진실에 대하여, 프롤로그: 역사는 어떻게 봐야 하는가](https://www.ddanzi.com/ddanziNews/688917829)
 * [기사 - 홍콩의 진실에 대하여 1: 우리는 아편전쟁의 진실을 모른다](https://www.ddanzi.com/ddanziNews/690716496)
+* [기사 - 홍콩의 진실에 대하여 2: 세 개의 정체성](https://www.ddanzi.com/ddanziNews/692269790)
+* [기사 - 홍콩의 진실에 대하여 3: 아편전쟁 이후와 공산당 도피처](https://www.ddanzi.com/ddanziNews/693812215)
+* [기사 - 홍콩의 진실에 대하여 4: 홍콩인 정체성, 탄생하다](https://www.ddanzi.com/ddanziNews/694805428)
+* [기사 - 홍콩의 진실에 대하여 5: 정치를 연습하지 못한 자유인, 중국과 충돌하다](https://www.ddanzi.com/ddanziNews/696583455)
 * [왜 중국은 고령화를 걱정하는가?](https://pgr21.com/freedom/90326)
 
 ## India
