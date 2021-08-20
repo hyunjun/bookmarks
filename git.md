@@ -272,6 +272,7 @@ Git
 * [GitHub 프로필을 iMessage 대화 메시지로 꾸며보기 | by Jin Hyung Park | Aug, 2021 | Medium](https://medium.com/@jypthemiracle/github-%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%84-imessage-%EB%8C%80%ED%99%94-%EA%B5%AC%EB%A6%84%EC%9C%BC%EB%A1%9C-%EA%BE%B8%EB%A9%B0%EB%B3%B4%EA%B8%B0-d41d48b3b921)
   * GitHub에서 자신의 프로필 페이지를 원하는 대로 꾸밀 수 있는 프로필 저장소 기능을 이용해 프로필 페이지에 iMessage 형식으로 대화하듯 인사말과 날씨등을 보여주는 기능을 구현하는 과정 설명
   * 프로필에서 스크립트 등을 원하는 대로 사용할 수는 없으므로 액션을 이용해서 SVG로 생성해서 보여주는 과정을 거치게 되는데 해당 기능을 원래 구현했던 개발자의 소스를 참고해서 이 기능이 어떻게 구현되는지 설명
+* [Github action를 이용한 커뮤니티 행사 관리/운영 하기! | JaeSeoKim's Blog](https://jaeseokim.dev/42Seoul/Github_action%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0_%ED%96%89%EC%82%AC_%EA%B4%80%EB%A6%AC%EC%9A%B4%EC%98%81_%ED%95%98%EA%B8%B0/)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
