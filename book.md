@@ -37,6 +37,7 @@ Book
 * (NOT YET) [특판남이 알려주는 돈 되는 특허 AtoZ](https://jhrogue.blogspot.com/2021/06/atoz.html)
 * (NOT YET) [나는 왜 내가 힘들까](https://jhrogue.blogspot.com/2021/07/blog-post.html)
 * (NOT YET) [돈의 심리학](https://jhrogue.blogspot.com/2021/08/blog-post_18.html)
+* (NOT YET) [막스 베버와 마르크스, ‘더럽게 어렵지만’ 읽어야 하는 이유 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=45296)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
