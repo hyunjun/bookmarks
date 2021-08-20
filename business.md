@@ -148,6 +148,7 @@ Business
 * [피드백에 멍들다 | 리더십 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/8_1/article_no/1322)
 * [Open Work를 향한 작은 노력들 : 조직의 작은 변화 만들기 – tech.kakao.com](https://tech.kakao.com/2021/07/05/openwork-cuddy/) 심리적 안정감을 높이고 점진적인 변화를 만들어 나가는 팀 문화 feedback
 * [기분 상하지 않게 협업하는 피드백 방법 ‘SBIT’ (f. 황성현 대표) - YouTube](https://www.youtube.com/watch?v=HtC9APOIvkw)
+* [피드백의 힘, 어떻게 만들 것인가?](https://brunch.co.kr/@graypool/115)
 * [**직무 노트 쓰기**](https://brunch.co.kr/@lunarshore/365)
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
 * [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
