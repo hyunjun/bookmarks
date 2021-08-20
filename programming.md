@@ -1388,6 +1388,7 @@ Programming
 * [DigitalOcean – The developer cloud](https://www.digitalocean.com/)
 * Heroku
   * [We are very far from a better Heroku for production apps in a hyper cloud | GitLab](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
+  * [How To Deploy Node Js Feathers Framework On Heroku - YouTube](https://www.youtube.com/watch?v=R2yKyhgtklU)
 * [HopsFS: 100x Times Faster than AWS S3 - Logical Clocks](https://www.logicalclocks.com/blog/hopsfs-100x-times-faster-than-aws-s3)
 * [Libvirt - The Unsung Hero of Cloud Computing — Vyom](https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html)
 * Linode [Cloud Computing & Linux Servers | Alternative to AWS | Linode](https://www.linode.com/)
