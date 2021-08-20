@@ -908,6 +908,7 @@ Scala
     * [Zymposium - Proto-Quill Release Party - YouTube](https://www.youtube.com/watch?v=El9fkkHewp0)
     * [Zymposium — Smart Assertions - YouTube](https://www.youtube.com/watch?v=lgCb4-4M-fw)
     * [Zymposium — Integrating the learning from TypeScript in designing a ZIO powered by Scala 3 - YouTube](https://www.youtube.com/watch?v=toSdrNimrTc)
+    * [Zymposium - ZIO Flow - YouTube](https://www.youtube.com/watch?v=DDZ8HgWOpBk)
     * [Part 1 - What is ZIO and should you learn it? - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=XwMKw03w8bs)
     * [Part 2 - `ZIO[_, _, Success]` - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=7MNY0o2i_vg)
     * [Part 3 - `ZIO[_, Error, _]` & Variance - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=oKaQXxEa7a8)
@@ -1121,12 +1122,17 @@ Scala
 # Debugging
 * [Debugging and Observing Your Scala Code · Terse Systems](https://tersesystems.com/blog/2021/06/06/debugging-and-observing-your-scala-code/)
 
-# IntelliJ
+# IDE
+
+## IDE IntelliJ
 * [INTELLIJ SCALA PLUGIN BLOG](https://blog.jetbrains.com/scala/)
 * [Scala로 만들어본 이름점](https://jsideas.net/name_chemistry/)
   * [이름점 - Scala Code 수정](https://jsideas.net/name_chemistry_refactoring/)
 * [Integrating Developer Experiences — The Build Server Protocol in the IntelliJ Scala plugin](https://blog.jetbrains.com/scala/2019/08/08/integrating-developer-experiences-the-build-server-protocol-in-the-intellij-scala-plugin/)
 * [IntelliJ Scala Plugin 2021.2 Is Out! | The Scala Plugin Blog](https://blog.jetbrains.com/scala/2021/07/27/intellij-scala-plugin-2021-2/)
+
+## IDE VS Code
+* [Migrating from IntelliJ IDEA to VSCode and Metals – Staying Productive at Writing Scala | Iterators](https://www.iteratorshq.com/blog/migrating-from-intellij-idea-to-vscode-and-metals-staying-productive-at-writing-scala/)
 
 # Library
 * [The Top 100 Scala Libraries in 2015 – Based on 64,562 GitHub Libraries](http://blog.takipi.com/the-top-100-scala-libraries-in-2015-based-on-64562-github-libraries/)
@@ -1295,6 +1301,7 @@ Scala
 * [Finagle - A fault tolerant, protocol-agnostic RPC system](https://github.com/twitter/finagle)
   * [스프링캠프 2016 B-4 : SCALA와 FINAGLE을 사용한 MICRO SERVICE ARCHITECTURE 구현하기](https://www.youtube.com/watch?v=Fjm9k32ADO4)
   * [Netty at Twitter with Finagle](https://www.youtube.com/watch?v=HJP_108i0ik)
+  * [Building Twitter's backend RPC services with Finagle by Dorothy Ordogh - YouTube](https://www.youtube.com/watch?v=xXNZsD0B08k)
 * [flip - Fast and lightweight probability tools for a dataset and a data stream](https://github.com/xxxnell/flip)
   * [Fast and Simple Statistics with Scala](https://www.slideshare.net/Nell4/fast-and-simple-statistics-with-scala)
 * [Flog: a functional logger for Scala | by Robin Hillyard | May, 2021 | Medium](https://scala-prof.medium.com/flog-a-functional-logger-for-scala-986d4039562f)
@@ -1362,6 +1369,7 @@ Scala
 * [scala audio file - Minimal Scala library to process audio files](https://github.com/mziccard/scala-audio-file)
   * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
   * [Beat Detection Algorithms (Part 2)](http://mziccard.me/2015/06/12/beats-detection-algorithms-2/)
+* [ScalaCache: A Caching Library To Rule Them All | Baeldung on Scala](https://www.baeldung.com/scala/scalacache)
 * [SCALA CLIPPY, HELPING YOU UNDERSTAND WHAT THE COMPILER ERRORS ACTUALLY MEAN](https://softwaremill.com/scala-clippy-helping-understand-compiler-errors/)
   * [#Scala #Clippy - Crash Course](https://www.youtube.com/watch?v=KUGaCdlBFkE)
 * [Scalafix - Refactoring and linting tool for Scala](https://scalacenter.github.io/scalafix/)
@@ -1792,7 +1800,6 @@ Scala
 * [cached compilation for sbt](http://eed3si9n.com/cached-compilation-for-sbt)
 * [Mirco Dotta—Crack Open Sbt and Master your Build Times - YouTube](https://www.youtube.com/watch?v=Mx_gQz8MTrI)
 * [현프 3-2 스칼라 패키지 관리자 sbt 고찰 : 클리앙](https://www.clien.net/service/board/cm_app/13709851)
-* [Should you learn #Scala2 or #Scala3 in 2021? - YouTube](https://www.youtube.com/watch?v=GzVu5UiUFEk)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=eb7eaOMlwGs) scala.jfro.io scala3
 * [sudori part 2 | eed3si9n](https://eed3si9n.com/sudori-part2)
 * [maven2sbt | maven2sbt](https://maven2sbt.kevinly.dev)
@@ -1936,6 +1943,7 @@ Scala
 * [Scala 3: Anti-Givens - Rock the JVM Blog](https://blog.rockthejvm.com/anti-givens/)
 * [Scala 3 Tech Report by SoftwareMill](https://softwaremill.com/scala-3-tech-report/)
 * [#LETSMEETUP - Will Scala 3 be your new favorite language? - YouTube](https://www.youtube.com/watch?v=DwmQgtvf7F0)
+* [Should you learn #Scala2 or #Scala3 in 2021? - YouTube](https://www.youtube.com/watch?v=GzVu5UiUFEk)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
