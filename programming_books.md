@@ -888,6 +888,7 @@ Programming Books
 * (NOT YET) [기초부터 다지는 ElasticSearch 운영 노하우: 기본 개념부터 클러스터 구축, 실무 활용 시나리오까지 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/01/07/%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0-%EB%8B%A4%EC%A7%80%EB%8A%94-elasticsearch-%EC%9A%B4%EC%98%81-%EB%85%B8%ED%95%98%EC%9A%B0-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90%EB%B6%80%ED%84%B0-%ED%81%B4/)
 * (NOT YET) [나만의 데이터 분석 플랫폼 엘라스틱서치](https://bjpublic.tistory.com/397)
 * (NOT YET) [엘라스틱 스택 개발부터 운영까지](https://www.onlybook.co.kr/entry/elasticstack)
+  * [엘라스틱 스택 개발부터 운영까지](https://jhrogue.blogspot.com/2021/08/blog-post_20.html)
 
 # Finance
 
