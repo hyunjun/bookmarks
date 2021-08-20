@@ -35,6 +35,7 @@ Network
 * [OSI 7계층(OSI 7 Layer)과 TCP.. : 네이버블로그](https://blog.naver.com/demonicws/40117378644)
 * [네트워크 기초(1) - OSI 7계층이란? - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/network-basic01/)
 * [네트워크 기초(2) - OSI 7계층 - 1계층: 물리 계층 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/network-basic02/)
+* [네트워크 기초(3) - OSI 7계층 - 2계층: 데이터 링크 계층 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/network-basic03/)
 * [SDN - Software Defined Network](https://naleejang.tistory.com/224)
 * [SDN and OVN(Open Virtual Network)](https://naleejang.tistory.com/225)
 * [OVN Network Creating Process](https://naleejang.tistory.com/226)
