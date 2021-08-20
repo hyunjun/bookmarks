@@ -1468,6 +1468,8 @@ Javascript
   * [Flagsmith - 오픈소스 Feature Flag 서비스 | GeekNews](https://news.hada.io/topic?id=4477)
 * [flowchart.js - Draws simple SVG flow chart diagrams from textual representation of the diagram](http://adrai.github.io/flowchart.js/)
 * [flowy - The minimal javascript library to create flowcharts](https://github.com/alyssaxuu/flowy)
+* [Fluid Framework](https://fluidframework.com/)
+  * [FluidFramework: Library for building distributed, real-time collaborative web applications](https://github.com/microsoft/FluidFramework)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly)
 * [formfiller.js - Stop Wasting Your Time FormFiller: A Javascript bookmarklet for repopulating forms](https://formfillerjs.com/)
 * [Fortune.js - a high-level I/O library for web applications](http://fortunejs.com/)
