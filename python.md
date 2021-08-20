@@ -3854,7 +3854,9 @@ Python
 * [How to make an awesome Python package in 2021 | Anton Zhiyanov](https://antonz.org/python-packaging/)
 * [나의 파이썬 환경 구축기 1 - 써본 것들에 대한 생각](https://dailyheumsi.tistory.com/243) pyenv poetry
 * [나의 파이썬 환경 구축기 2 - pyenv + poetry](https://dailyheumsi.tistory.com/244) pyenv poetry
+* [**파이썬 패키징 – 과거, 현재, 미래 – 야단법썬과 함께하는 블로그**](https://search5blog.wordpress.com/2021/08/19/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B3%BC%EA%B1%B0-%ED%98%84%EC%9E%AC-%EB%AF%B8%EB%9E%98/)
 * [ezpypi: Very simple and easy to use pip on any os](https://github.com/dlehdgud2380/ezpypi)
+* [Flit 3.3.0 — Flit 3.3.0 documentation](https://flit.readthedocs.io/)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
   * [Pex를 이용한 배포](https://b.luavis.kr/python/deploy-with-pex)
 * pip
@@ -3905,6 +3907,7 @@ Python
   * [A hygienic Python setup for Linux, Mac, and WSL | by Ben Kehoe | Sep, 2020 | A Cloud Guru](https://read.acloud.guru/my-python-setup-77c57a2fc4b6)
   * [Hello Poetry (Dependency Management for Python)](https://jybaek.tistory.com/891)
   * [Poetry를 사용한 파이썬 패키지 관리](https://lhy.kr/python-poetry)
+  * [Document docker poetry best practices · Discussion #1879 · python-poetry/poetry](https://github.com/python-poetry/poetry/discussions/1879)
 * [py2app - Create standalone Mac OS X applications with Python](https://py2app.readthedocs.io/)
 * pyenv
   * [pyenv Tutorial](https://amaral.northwestern.edu/resources/guides/pyenv-tutorial)
