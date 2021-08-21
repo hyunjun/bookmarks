@@ -40,7 +40,8 @@ GIS
   * [GeoTIFF Coordinate Querying with JavaScript | by Thomas Horner | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/geotiff-coordinate-querying-with-javascript-5e6caaaf88cf)
   * [Cloud Optimized GeoTIFF - An imagery format for cloud-native geospatial processing](https://www.cogeo.org/)
     * [A Handy Introduction to Cloud Optimized GeoTIFFs | by Patrick Armstrong | Planet Stories | Medium](https://medium.com/planet-stories/a-handy-introduction-to-cloud-optimized-geotiffs-1f2c9e716ec3)
-* [Leaflet Map Routing JavaScript App - YouTube](https://www.youtube.com/watch?v=F8dnYNTncoU)
+* [Leaflet - a JavaScript library for interactive maps](https://leafletjs.com/)
+  * [Leaflet Map Routing JavaScript App - YouTube](https://www.youtube.com/watch?v=F8dnYNTncoU)
 * [mapscii: MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me \<= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows](https://github.com/rastapasta/mapscii)
 
 # Library
