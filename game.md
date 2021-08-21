@@ -51,6 +51,7 @@ Game
 * [호오 게임을 만드시겠다구요? 8 - 2D 캔버스 훑어보기 - YouTube](https://www.youtube.com/watch?v=mjQ8o_ZHEFM)
 * [모바일에서의 알파 블렌딩과 테스팅](https://chulin28ho.tistory.com/660)
 * [게임의 재미는 어디에서 오는가? - 자막 · Present](https://present.do/decks/61075e902bbbe81f6f83e4ad)
+* [GDC 2011 동굴 이야기 강연 : 게임개발시 주의할 5개 요소 (번역) | GeekNews](https://news.hada.io/topic?id=4818)
 
 # Board game
 * [ko.boardgamearena.com](https://ko.boardgamearena.com/)
@@ -102,6 +103,7 @@ Game
   * [Unity에서 Unreal로 갈아타자](https://www.slideshare.net/ddayinhwang9/unity-unreal-210095797)
 * [universal-doom: A single .exe binary which runs DOOM on DOS 6, Windows 95 and Windows 10 (and probably everything in between)](https://github.com/nneonneo/universal-doom)
 * [Vassal - a game engine for building and playing online adaptations of board games and card games](http://www.vassalengine.org/)
+* [Warzone 2100: A Free And Open Source Real-Time Strategy Game](https://wz2100.net/)
 
 ## Library DOS
 * [DOS 프로그램 저장소 - DOS 프로그램 저장소](https://oldpc.tistory.com/)
@@ -112,6 +114,8 @@ Game
 * [Lightweight snake game running in the console](https://github.com/tancredi/python-console-snake)
 * [파이썬으로 블리자드 디아블로3 API 이용하기!](https://tariat.tistory.com/738)
 * [Learn Python by Building Five Games - Full Course](https://www.youtube.com/watch?v=XGf2GcyHPhc) turtle, pygame
+* [flappy-bird: just a copied of flappy bird game](https://github.com/thuongton999/flappy-bird)
+  * [A copied of flappy bird game made with python](https://pythonawesome.com/a-copied-of-flappy-bird-game-made-with-python/)
 * [PyBoy - Game Boy emulator written in Python](https://github.com/Baekalfen/PyBoy)
 * Pygame
   * [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
