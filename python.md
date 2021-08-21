@@ -116,7 +116,6 @@ Python
 * [How to create a text mining algorithm with Python](http://breakoutroom.co/v/641)
 * [Fun with BPF, or, shutting down a TCP listening socket the hard way](http://pythonsweetness.tumblr.com/post/125005930662/fun-with-bpf-or-shutting-down-a-tcp-listening)
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)
-* [Full Javascript Parser - Abstract Syntax Tree](http://hz2.org/blog/ast.html)
 * [**Building a dataflow graph in Python**](http://www.mattkeeter.com/projects/graph/)
 * [Ask HN: Good Python codebases to read?](https://news.ycombinator.com/item?id=9896369)
 * [~매끄럽게 움직이는 실시간 스펙트럼 분석기를 만들자!~](http://blog.youngminz.kr/2015/08/11/%EB%B2%88%EC%97%AD-%EB%A7%A4%EB%81%84%EB%9F%BD%EA%B2%8C-%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%8A%A4%ED%8E%99%ED%8A%B8%EB%9F%BC-%EB%B6%84%EC%84%9D%EA%B8%B0%EB%A5%BC/)
@@ -134,7 +133,6 @@ Python
 * [On insecure software distribution practices](http://epadillas.com/2015/10/01/On-insecure-software-distribution-practices.html)
 * [R vs Python: head to head data analysis](https://www.dataquest.io/blog/python-vs-r/)
 * [27 languages to improve your Python](http://www.curiousefficiency.org/posts/2015/10/languages-to-improve-your-python.html)
-* [Writing a Fuzzy Receipt Parser in Python](http://tech.trivago.com/2015/10/06/python_receipt_parser/)
 * [python wats - A "wat" is what I call a snippet of code that demonstrates a counterintuitive edge case of a programming language](https://github.com/cosmologicon/pywat)
 * [From Python to Go, and Back Again](https://docs.google.com/presentation/d/1LO_WI3N-3p2Wp9PDWyv5B6EGFZ8XTOTNJ7Hd40WOUHo/mobilepresent?pli=1&slide=id.g70b0035b2_1_168)
 * [Wrapping Go in Python](https://www.youtube.com/watch?v=6v6OZXk2E_w)
@@ -347,6 +345,7 @@ Python
 * [What are some one liners in Python that would take a hundred in C? - Quora](https://www.quora.com/What-are-some-one-liners-in-Python-that-would-take-a-hundred-in-C)
 * [18 Python scripts that help you write code faster](https://morioh.com/p/4f4b74ba17cc)
 * [Pythonic Code, By Example](https://www.youtube.com/watch?v=o0LohkA3UR4)
+* [Pythonic monotonic | Ned Batchelder](https://nedbatchelder.com/blog/202108/pythonic_monotonic.html) 글쓴이가 말했듯 좋은 코드라고 생각하지 않음
 * [Write good examples by starting with real code](https://jvns.ca/blog/2021/07/08/writing-great-examples/)
 * [TIL - How to Python "pythonically"](https://velog.io/@seob/TIL-How-to-Python-pythonically)
 * [win32 api in python](http://algomarket.wikidot.com/win32-api-in-python)
@@ -523,6 +522,7 @@ Python
   * [알아두면 쓸데없는 파이썬 내장 커맨드라인 스크립트 | GeekNews](https://news.hada.io/topic?id=4431)
 * [The difference between a=a+b and a+=b in Python | by Chetan Ambi | Jul, 2021 | Towards AI](https://pub.towardsai.net/the-difference-between-a-a-b-and-a-b-in-python-a7338d96e408)
 * [5 hidden gems in Python 3 | Opensource.com](https://opensource.com/article/21/7/python-3)
+* [Python any() and all() Functions – Explained with Examples](https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -1133,6 +1133,7 @@ Python
   * [Profiling Python Code](https://devopedia.org/profiling-python-code)
   * [Building FunctionTrace, a graphical Python profiler](https://hacks.mozilla.org/2020/05/building-functiontrace-a-graphical-python-profiler/)
   * [파이썬 코드 프로파일링에 유용한 라이브러리 5가지 - ITWorld Korea](https://www.itworld.co.kr/news/176579) Time, Timeit, cProfile, Pyinstrument, Py-spy, Yappi
+  * [Visualizing the Results of Profiling Python Code - Thirld Word Blog](https://thirld.com/blog/2014/11/30/visualizing-the-results-of-profiling-python-code/) pyprof2calltree pyinstrument
   * [Pympler - a development tool to measure, monitor and analyze the memory behavior of Python objects in a running Python application](https://pythonhosted.org/Pympler)
   * [Py-Spy: A sampling profiler for Python programs](https://github.com/benfred/py-spy)
   * [StackImpact Python Agent - Production Profiler: CPU, memory allocations, blocking calls, exceptions, metrics, and more https://stackimpact.com](https://github.com/stackimpact/stackimpact-python)
@@ -1940,6 +1941,8 @@ Python
 * PyConKr 2018 [**GDB와 strace로 Hang 걸린 Python Process 원격 디버깅**](https://www.slideshare.net/kym970918/gdb-strace-hang-python-process-110423511)
 * [Ultimate Guide to Python Debugging](https://martinheinz.dev/blog/24)
 * [bugbuzz - Fall in love with debugging](https://github.com/victorlin/bugbuzz-python)
+* [NoPdb: Non-interactive Python Debugger — NoPdb documentation](https://nopdb.readthedocs.io/)
+  * [NoPdb: Non-interactive Python Debugger](https://pythonawesome.com/nopdb-non-interactive-python-debugger/)
 * PDB
   * [Aligning PDB structures with Biopython](http://combichem.blogspot.com/2013/08/aligning-pdb-structures-with-biopython.html)
   * [Python 디버깅 (PDB)](http://pythonstudy.xyz/python/article/504-Python-%EB%94%94%EB%B2%84%EA%B9%85-PDB)
@@ -2843,6 +2846,7 @@ Python
 * [jupyterlab-interactive-dashboard-editor](https://github.com/jupytercalpoly/jupyterlab-interactive-dashboard-editor)
 * [jupyterlite: Wasm powered Jupyter running in the browser](https://github.com/jtpio/jupyterlite)
   * [JupyterLite - WASM 기반 Jupyter | GeekNews](https://news.hada.io/topic?id=4358)
+  * [JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python | by Jeremy Tuloup | Jul, 2021 | Jupyter Blog](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa)
 * [jupyterthemes](https://github.com/dunovank/jupyter-themes)
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
 * jupytext [Version Control With Jupyter Notebook | by Shinichi Okada | Towards Data Science](https://towardsdatascience.com/version-control-with-jupyter-notebook-b9630bc5996e)
@@ -3081,6 +3085,7 @@ Python
   * [Anaconda-Python 환경에서 VSCode를 사용하는 방법(프로젝트 생성, 환경 구축, 디버깅)](https://chojjong.blog.me/221228053941)
   * [데이터 분석을 위한 파이썬 개발환경 구축 (Windows)](https://sjquant.github.io/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B6%84%EC%84%9D%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EA%B0%9C%EB%B0%9C%ED%99%98%EA%B2%BD-%EA%B5%AC%EC%B6%95/)
   * [How to get started with Python for Deep Learning and Data Science](https://medium.freecodecamp.org/how-to-get-started-with-python-for-deep-learning-and-data-science-3bed07f91a08)
+  * [아나콘다 소개와 주피터 확장 설치방법 소개 - YouTube](https://www.youtube.com/watch?v=TSGcBvZo-8g)
   * miniconda [Stop Using Anaconda for Your Data Science Projects | by Rionaldi Chandraseta | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/stop-using-anaconda-for-your-data-science-projects-1fc29821c6f6)
 * [angr is a framework for analyzing binaries](http://angr.io/)
 * [Anime2Sketch: A sketch extractor for anime/illustration](https://github.com/Mukosame/Anime2Sketch)
@@ -3283,7 +3288,6 @@ Python
 * [iterfzf: Pythonic interface to fzf](https://github.com/dahlia/iterfzf)
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
   * [A million requests per second with Python](https://medium.freecodecamp.org/million-requests-per-second-with-python-95c137af319)
-* [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
 * [jurigged: Hot reloading for Python](https://github.com/breuleux/jurigged)
 * [Kanna makes html components easier to display. like table, panel, etc](https://github.com/h4wldev/kanna)
 * [Kazoo - a Python library designed to make working with Zookeeper a more hassle-free experience that is less prone to error](https://kazoo.readthedocs.io/)
@@ -3556,7 +3560,6 @@ Python
 * [transducers-python](https://github.com/cognitect-labs/transducers-python)
 * [transitions - A lightweight, object-oriented finite state machine implementation in Python with many extensions](https://github.com/pytransitions/transitions)
   * [**유한 상태 기계를 Django에 적용하여 상태 변경을 관리하기 - 구영민의 개발 블로그**](https://youngminz.netlify.app/posts/managing-state-using-finite-state-machine)
-* [TrumpScript](https://github.com/samshadwell/TrumpScript) parser, tokenizer, compiler 참고
 * [Twisted Introduction](http://krondo.com/an-introduction-to-asynchronous-programming-and-twisted/)
 * Twitter
   * [Twitter API tutorial](http://socialmedia-class.org/twittertutorial.html)
@@ -3957,6 +3960,7 @@ Python
   * [How to use Python virtualenv](https://www.pythonforbeginners.com/basics/how-to-use-python-virtualenv/)
   * [Python virtualenv 정리 (Linux/Windows) :: 개발새발로그](https://dgkim5360.tistory.com/entry/python-virtualenv-on-linux-ubuntu-and-windows)
   * [Advice and Tips to Properly Work with Virtual Environments | by François St-Amant | Towards Data Science](https://towardsdatascience.com/advice-and-tips-to-properly-work-with-virtual-environments-67bbad9ba5b6)
+  * [Virtual Environments — Setup and Importance in Python | by Robbie Prior | Jul, 2021 | Towards Data Science](https://towardsdatascience.com/virtual-environments-setup-importance-python-4375fed7d40b)
 * [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io)
   * [Virtualenv/VirtualenvWrapper OS별 설치&이용법](https://beomi.github.io/2016/12/28/HowToSetup-Virtualenv-VirtualenvWrapper/)
   * [A guide to Python virtual environments with virtualenvwrapper | Opensource.com](https://opensource.com/article/21/2/python-virtualenvwrapper)
@@ -4303,6 +4307,13 @@ Python
   * [Beyond Pandas: Spark, Dask, Vaex and other big data technologies battling head to head | by Jonathan Alexander | Towards Data Science](https://towardsdatascience.com/beyond-pandas-spark-dask-vaex-and-other-big-data-technologies-battling-head-to-head-a453a1f8cc13)
   * [7 reasons why I love Vaex for data science | by Jovan Veljanoski | Towards Data Science](https://towardsdatascience.com/7-reasons-why-i-love-vaex-for-data-science-99008bc8044b)
 
+# Parser
+* [Full Javascript Parser - Abstract Syntax Tree](http://hz2.org/blog/ast.html)
+* [Writing a Fuzzy Receipt Parser in Python](http://tech.trivago.com/2015/10/06/python_receipt_parser/)
+* [pycparser: Complete C99 parser in pure Python](https://github.com/eliben/pycparser)
+  * [A parser for the C language written in Python](https://pythonawesome.com/a-parser-for-the-c-language-written-in-python/)
+* [TrumpScript](https://github.com/samshadwell/TrumpScript) parser, tokenizer, compiler 참고
+
 # Podcast
 * [Tech Debt and Refactoring at Yelp! with Andrew Mason – Episode 110](https://www.podcastinit.com/tech-debt-and-refactoring-at-yelp-with-andrew-mason-episode-110/)
 
@@ -4352,6 +4363,7 @@ Python
 * [PyCon KR 2019 Why is Python 3.7 fastest](https://speakerdeck.com/jungwinter/why-is-python-3-dot-7-fastest)
 * [What’s New In Python 3.8](https://docs.python.org/3/whatsnew/3.8.html)
 * [Try out walrus operator in Python 3.8 Get started with Python 3.8 alpha 1](https://medium.com/hultner/try-out-walrus-operator-in-python-3-8-d030ce0ce601)
+* [The Walrus Operator: Python 3.8 Assignment Expressions – Real Python](https://realpython.com/python-walrus-operator/)
 * [When and Why to Use := Over = in Python | by Andre Ye | Towards Data Science](https://towardsdatascience.com/when-and-why-to-use-over-in-python-b91168875453)
 * [파이썬(Python) 3.8 릴리스와 주요 변경 사항](https://www.44bits.io/ko/post/python-3-8-release-note-summary)
 * [Some New Features in Python 3.8](https://www.youtube.com/watch?v=-Rh4XW89VlQ)
@@ -4596,6 +4608,7 @@ Python
 * [네 Python은 느립니다, 하지만 저는 신경쓰지 않습니다](https://b.ssut.me/yes-python-is-slow-and-i-dont-care/)
 * [파이썬 코딩 무료 강의 (기본편) - 6시간 뒤면 여러분도 개발자가 될 수 있어요 나도코딩 - YouTube](https://www.youtube.com/watch?v=kWiCuklohdY)
 * [파이썬 YouTube 뮤직플레이어 개발 강좌](https://scv-life.tistory.com/97)
+* [The Best Way to Learn Python – Python Programming Tutorial for Beginners](https://www.freecodecamp.org/news/the-best-way-to-learn-python-python-programming-tutorial-for-beginners/)
 
 # Web -> [web](web.md)
 
