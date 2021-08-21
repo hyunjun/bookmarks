@@ -38,6 +38,12 @@ Book
 * (NOT YET) [나는 왜 내가 힘들까](https://jhrogue.blogspot.com/2021/07/blog-post.html)
 * (NOT YET) [돈의 심리학](https://jhrogue.blogspot.com/2021/08/blog-post_18.html)
 * (NOT YET) [막스 베버와 마르크스, ‘더럽게 어렵지만’ 읽어야 하는 이유 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=45296)
+* 오쿠다 히데오 항구마을식당
+  * ★★★☆☆ 2021.08.20
+  * 하루키도 그랬지만 출판사에서 작가를 통해 여행기를 쓰는 게 관행 혹은 유행이 있나 싶은 생각이 들었음
+  * 배를 타고 항구 마을을 돌아다니는 컨셉이 있지만 결국 오쿠다 히데오라는 사람의 스타일이 좋아야 편하게 읽을 수 있는 이야기
+  * 유명한 소설가지만 평범한 아저씨의 여행을 술자리에서 이야기 듣는 거 처럼 편하게 읽을 수 있다
+  * 다만 일본인 아저씨라서 한국에 대한 이야기 부분이나(부산 여행도 있음) 바에서 일하는 사람들의 이야기에서 약간 불편함을 느끼는 경우도 있을 듯
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
