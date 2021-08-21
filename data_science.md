@@ -648,6 +648,7 @@ Data Science
 * [비용 효율적인 Click-Through Rate Prediction 모델로 하쿠나 라이브 추천시스템 구축하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/04/26/hakuna-recsys-gb.html)
 * [카카오 AI추천 : 토픽 모델링과 MAB를 이용한 카카오 개인화 추천 – tech.kakao.com](https://tech.kakao.com/2021/06/25/kakao-ai-recommendation-01/) Multi Armed Bandit
 * [Advertiser Recommendation Systems at Pinterest | by Pinterest Engineering | Pinterest Engineering Blog | Jul, 2021 | Medium](https://medium.com/pinterest-engineering/advertiser-recommendation-systems-at-pinterest-ccb255fbde20)
+* [Recommender System KR](https://root-decimal-c5d.notion.site/Recommender-System-KR-5b773a06e99145e6855bae391c94dc44)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
