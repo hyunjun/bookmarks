@@ -779,6 +779,7 @@ Programming Books
 * (NOT YET) [파이토치 첫걸음](https://jpub.tistory.com/914)
   * (NOT YET) [파이토치 첫걸음](https://jpub.tistory.com/918)
 * (NOT YET) [파이토치 첫걸음 딥러닝 기초부터 RNN, 오토인코더, GAN 실전 기법까지](http://www.hanbit.co.kr/store/books/look.php?p_code=B7818450418)
+  * [리뷰 파이토치 첫걸음 · TheoryDB](https://theorydb.github.io/review/2021/08/21/review-book-fitst-pytorch/)
 * (NOT YET) [딥러닝에 목마른 사람들을 위한 PyTorch](https://www.notion.so/PyTorch-37bbddb9ca76472c81fc063013368e6b)
 * (NOT YET) [김기현의 자연어 처리 딥러닝 캠프(파이토치 편)](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B1294694476)
   * [자연어 처리 딥러닝 캠프](https://jybaek.tistory.com/820)
