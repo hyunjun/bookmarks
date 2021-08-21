@@ -733,6 +733,7 @@ Interview
 * [신입 소프트웨어 엔지니어의 영문 이력서 작성하기](https://sujinlee.me/entry-level-en-resume/)
 * [인터뷰 면접관이 좋아하는 이력서 쓰기 - YouTube](https://www.youtube.com/watch?v=JM-Tz6dGH1U)
 * [개발자 이력서 작성하기 (feat. 이력서 공개)](https://brunch.co.kr/@hee072794/132)
+* [신입 개발자를 위한 이력서 추천 양식 – Place Of 42Seoul Story](https://42place.innovationacademy.kr/archives/9113)
 * [경력자의 지원동기 쓰는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220418)
 * [잘 정리된 이력서보다 중요한 것 - 이상한모임](https://blog.weirdx.io/post/63289)
 * [잘 정리된 이력서보다 중요한 것 – by minieetea](https://minieetea.com/2021/04/archives/6193)
