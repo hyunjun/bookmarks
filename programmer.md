@@ -39,6 +39,7 @@ Programmer
 * [The Software Engineering Job Ladder](https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3)
 * [왜 45세 정년이 될 수 밖에 없는가 (기술기업의 관점에서)](http://windy96.egloos.com/3495731)
   * Theory Z Teamism, Theory A Open Allocation
+* [An Old Hacker's Tips On Staying Employed - by Mad Ned - The Mad Ned Memo](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
 * [The One Who Kept VLC Free](https://www.welcometothejungle.co/en/articles/kempf-interview-vlc-videolan)
 * [john-carmack-plan-archive/by_year/johnc_plan_1996.txt](https://github.com/ESWAT/john-carmack-plan-archive/blob/master/by_year/johnc_plan_1996.txt)
 * [**The Product-Minded Software Engineer**](https://blog.pragmaticengineer.com/the-product-minded-engineer/) 제목 그대로
