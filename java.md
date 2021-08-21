@@ -552,6 +552,7 @@ Java
 * [JetBrains Productivity Day 4부 패널토크 온/오프라인 인플루언서와 함께하는 IntelliJ IDEA와 생산성에 대한 이야기 - YouTube](https://www.youtube.com/watch?v=FCa4bTUowTY)
 * [IntelliJ & Webstorm import시 double quotes 대신에 single quotes 기본값으로 사용하기](https://jojoldu.tistory.com/589)
 * [IntelliJ & WebStorm에서 ES6(& TS) Import 문에 space 포함시키기](https://jojoldu.tistory.com/595)
+* [IntelliJ Idea tricks that I use daily — Java/Spring MS Handling | by Chandrika Deb | Tech x Talent | Jun, 2021 | Medium](https://medium.com/coderbyte/intellij-idea-tricks-that-i-use-daily-java-spring-ms-handling-40bc1239d371)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
@@ -716,6 +717,8 @@ Java
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
 * [**여러 개의 JDK를 설치하고 선택해서 사용하기**](https://blog.benelog.net/installing-jdk.html) APT/YUM, update-alternatives / alternatives, Homebrew, Chocolatey, direnv, jEnv, SDKMAN, jabba
 * [JDK Mission Control 8 Released](https://www.infoq.com/news/2021/04/jdk-mission-control-8-released/)
+* [JDKMon: A little tool written in JavaFX that monitors your installed JDK's and inform you about updates](https://github.com/HanSolo/JDKMon)
+  * [Introducing JDKMon: a New Tool to Detect and Update JDKs](https://www.infoq.com/news/2021/08/jdkmon-java/)
 * [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
   * [윈도우에 여러 자바 설치하기](http://dalinaum.github.io/java/2021/03/07/multiple-jdks-2.html)
 
@@ -947,6 +950,7 @@ Java
 * [CrococryptLib for Java and Android: The easiest way to integrate encryption into your application](http://www.frankhissen.de/crococryptlib-home-en-frank-hissen-it-software.html)
 * [DEC PDP-8 emulator](http://www.timgorton.com/pdp8/)
 * [Eclipse Collections](https://www.eclipse.org/collections/)
+  * [The missing Java data structures no one ever told you about — Part 1 | by Donald Raab | Javarevisited | Aug, 2021 | Medium](https://medium.com/javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-1-f45b6d0ee969)
 * [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)
 * [excel-download: Rapid development possible and Simple Excel Download Library For JAVA 8+](https://github.com/lannstark/excel-download)
   * [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기) - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/10/08/excel-download.html)
@@ -1650,6 +1654,7 @@ Java
 * [통합 테스트에서 INSERT 쿼리 위한 보조 클래스 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/helper-for-insert-query-in-inttest)
 * [Integration Testing from the Trenches - Nicolas Frankel - Singapore Java User Group - YouTube](https://www.youtube.com/watch?v=BTooPk65XJE)
 * [Step by Step Toward Property Based Testing | LeadingAgile](https://www.leadingagile.com/2018/04/step-by-step-toward-property-based-testing/)
+* [The Best Java Testing Frameworks to focus in 2021 - pCloudy](https://www.pcloudy.com/blogs/the-best-java-testing-frameworks-to-focus-in-2021/)
 * ArchUnit [Unit test your Java architecture - ArchUnit](https://www.archunit.org/)
   * [How to test your Java project’s architecture with ArchUnit](https://medium.freecodecamp.org/java-archunit-testing-the-architecture-a09f089585be)
   * [ArchUnit - UnitTest로 아키텍처 검사를](https://d2.naver.com/helloworld/9222129)
@@ -1677,7 +1682,7 @@ Java
   * [더 자바: 코드를 테스트하는 다양한 방법](https://docs.google.com/presentation/d/1HaiVt-TNqA2wTMzjfGfzkBVgOGJIW7IH04CHNvNwbPs)
   * [JUnit 5 + Kotlin 테스트 클래스에서 생성자 주입 이슈 · 도전하는 개발자](https://minkukjo.github.io/framework/2020/06/28/JUnit-23/)
   * [JUnit5로 계층 구조의 테스트 코드 작성하기 - 기계인간 John Grib](https://johngrib.github.io/wiki/junit5-nested/)
-  * [A Comprehensive Guide On JUnit 5 Extensions](https://www.lambdatest.com/blog/junit5-extensions/?utm_source=pocket_mylist)
+  * [A Comprehensive Guide On JUnit 5 Extensions](https://www.lambdatest.com/blog/junit5-extensions/)
   * [JUnit 5 Introduction for TDD Development in Java | CodersTea](https://www.coderstea.com/post/java/junit-5-introduction-for-tdd-development-in-java/)
 * [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
 
