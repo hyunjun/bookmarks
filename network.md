@@ -73,6 +73,9 @@ Network
 * [downman.tistory.com/category/응용/TCPIP](http://downman.tistory.com/category/%EC%9D%91%EC%9A%A9/TCPIP)
 * [epoll 설명](http://blueheartscabin.blogspot.com/2013/08/c-epoll.html)
 
+# Course
+* [Computer Networking: a Top Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
+
 # DNS
 * [how DNS works](https://howdns.works/)
 * [DNS 기초 지식 – 컴퓨터의 실체와 작동 원리 上](http://library.gabia.com/contents/domain/3979)
