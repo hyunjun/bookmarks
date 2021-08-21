@@ -189,6 +189,7 @@ C++
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
 * [The year is 2017 - Is the preprocessor still needed in C++?](https://foonathan.net/2017/05/preprocessor/)
+* [Infinite monkey - Nico Brailovsky's blog: C++ exceptions under the hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html)
 * auto_ptr
   * [auto_ptr - 조심히 사용해야 하는 스마트 포인터](http://ohyecloudy.com/pnotes/archives/286/)
 * const
