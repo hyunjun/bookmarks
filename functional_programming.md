@@ -369,6 +369,8 @@ Functional Programming
 * [PyCon AU 2018 | FP demystified](https://2018.pycon-au.org/talks/45075-fp-demystified/)
 * [Going Functional in Python (with code) | by Hair Parra | Analytics Vidhya | Sep, 2020 | Medium](https://medium.com/analytics-vidhya/going-functional-in-python-with-code-b50ba7742469)
 * [Functioning with python functional programming- lambda, map, filter, zip, reduce, accumulate | LinkedIn](https://www.linkedin.com/pulse/functioning-python-functional-programming-lambda-map-shaleen-taneja/)
+* [funcy: A fancy and practical functional tools](https://github.com/Suor/funcy)
+  * [A collection of fancy functional tools focused on practicality](https://pythonawesome.com/a-collection-of-fancy-functional-tools-focused-on-practicality/)
 * [Monads, in my Python? by Xuanyi Chew - YouTube](https://www.youtube.com/watch?v=WNwV3wR4JjA)
 * [Monads in Python: Why and How? - YouTube](https://www.youtube.com/watch?v=26jVysJHB-s)
   * [vincent-prz/monad_comprehension.py](https://github.com/vincent-prz/monad_comprehension.py)
@@ -377,8 +379,14 @@ Functional Programming
   * [practice/python/test-monad](https://github.com/hyunjun/practice/tree/master/python/test-monad)
 * [Monads in Python. A simple implementation of the Failure… | by Martin McBride | The Startup | Medium](https://medium.com/swlh/monads-in-python-e3c9592285d6)
   * [practice - failure.py](https://github.com/hyunjun/practice/blob/master/python/test-monad/failure.py)
+* [pampy: Pampy: The Pattern Matching for Python you always dreamed of](https://github.com/santinic/pampy)
+  * [Pampy: Pattern Matching for Python](https://pythonawesome.com/pampy-pattern-matching-for-python/)
 * [Pycket: A Tracing JIT For a Functional Language](http://lambda-the-ultimate.org/node/5152)
+* [PyToolz API Documentation — Toolz 0.10.0 documentation](https://toolz.readthedocs.io/)
+  * [A functional standard library for Python](https://pythonawesome.com/a-functional-standard-library-for-python/)
 * scalaps [Introducing scalaps: Scala-inspired data structures for Python](https://medium.com/@matthagy/introducing-scalaps-scala-inspired-data-structures-for-python-53f3afc8696)
+* [simplematch: Minimal, super readable string pattern matching for python.](https://github.com/tfeldmann/simplematch)
+  * [Minimal, super readable string pattern matching for python](https://pythonawesome.com/minimal-super-readable-string-pattern-matching-for-python/)
 
 # Racket
 * [내 맘대로 프로그램 설계 7. - 함수형 프로그래밍](https://black7375.tistory.com/62)
