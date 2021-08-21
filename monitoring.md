@@ -19,6 +19,7 @@ Monitoring
 * [아이스크림 홈런 관측성 개선 세미나 - 레거시 관측성 올리기 1/10 → 5/10 후기](https://www.popit.kr/%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC-%ED%99%88%EB%9F%B0-%EA%B4%80%EC%B8%A1%EC%84%B1-%EA%B0%9C%EC%84%A0-%EC%84%B8%EB%AF%B8%EB%82%98-%EB%A0%88%EA%B1%B0%EC%8B%9C-%EA%B4%80%EC%B8%A1%EC%84%B1/)
 * [Lessons from Building Observability Tools at Netflix](https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17)
 * [“모니터링의 새로운 경계” 관찰 가능성의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/183899) Observability
+* [Beyond Monitoring: The Rise of Observability | by Aparna Dhinakaran | Medium](https://aparnadhinak.medium.com/beyond-monitoring-the-rise-of-observability-c53bdc1d2e0b)
 * [CPU 지표 정리](https://brunch.co.kr/@leedongins/75)
 * [알람에 관하여](https://woowabros.github.io/experience/2020/03/07/alarm.html)
 * [간단하게 만드는 이상한 알람](https://woowabros.github.io/experience/2020/05/14/anomaly_alarm.html)
@@ -66,6 +67,7 @@ Monitoring
   * [Grafana Announces Grafana Tempo, a Distributed Tracing System](https://www.infoq.com/news/2020/12/grafana-tempo-distributed-tracin/)
   * [Intro to exemplars, which enable Grafana Tempo’s distributed tracing at massive scale | Grafana Labs](https://grafana.com/blog/2021/03/31/intro-to-exemplars-which-enable-grafana-tempos-distributed-tracing-at-massive-scale/)
 * [Loki tutorial: How to send logs from EKS with Promtail to get full visibility in Grafana | Grafana Labs](https://grafana.com/blog/2020/07/21/loki-tutorial-how-to-send-logs-from-eks-with-promtail-to-get-full-visibility-in-grafana/)
+  * [Realtime Fastly logs with Grafana Loki for under $1 a day | by Alina Frolova | Aug, 2021 | loveholidays tech](https://tech.loveholidays.com/realtime-fastly-logs-with-grafana-loki-for-under-1-a-day-5b63ccf32d66)
 
 # Library
 * [Anitya is a release monitoring project](https://github.com/fedora-infra/anitya)
