@@ -813,7 +813,8 @@ Business
 * [스타트업, 왜 실패하는가? | 리더십 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/8_1/article_no/1705)
 * [Startup Concepts - A Junior VC](https://ajuniorvc.com/startup-concepts/)
   * [Startup Concepts - 만화책 스타일의 스타트업 단어 설명 | GeekNews](https://news.hada.io/topic?id=4671)
-* [초반전 경영학… 실리콘밸리 달구는 신성 스타트업의 비밀 |](https://www.thescoop.co.kr/news/articleViewAmp.html?idxno=51558)
+* [초반전 경영학… 실리콘밸리 달구는 신성 스타트업의 비밀](https://www.thescoop.co.kr/news/articleViewAmp.html?idxno=51558)
+* [World Entrepreneurs’ Day(세계 기업가의 날)을 기념하며 소개하는 스타트업을 위한 7가지 팁과 정보 | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/08/21/7-startup-tips-and-tricks-in-honor-of-world-entrepreneurs-day/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
