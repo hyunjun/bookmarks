@@ -138,6 +138,7 @@ Azure
 * [프리지아 랩 :: Solving Azure subscription problem in Azure Extension of Visual Studio Code](https://www.dokyun.pe.kr/264)
 * [An Illustrated Guide To Fusion Development](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/an-illustrated-guide-to-fusion-development/ba-p/2567146)
 * [MVP Watch Party (8번째 이야기) -  Dynamics 365 + Power Platform (회사 쇼핑몰 프로그램에 파워 플랫폼으로 날개 달기) - YouTube](https://www.youtube.com/watch?v=2ej0RknvGnk)
+* [깃헙 액션과 Microsoft 365, 파워 플랫폼을 이용해서 혼자서 해커톤 운영하기 | Aliencube](https://blog.aliencube.org/ko/2021/08/20/running-hackathon-by-yourself-with-gha-m365-and-pp/)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
