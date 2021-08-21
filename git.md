@@ -211,11 +211,12 @@ Git
 * [What’s wrong with Git? A conceptual design analysis | the morning paper](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
 * [Git as a NoSql database](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/)
 * [Scaling monorepo maintenance | The GitHub Blog](https://github.blog/2021-04-29-scaling-monorepo-maintenance/)
-* [Spoqa 기술 블로그 | Semantic Versioning 소개](https://spoqa.github.io/2012/12/18/semantic-versioning.html)
-* [컨벤셔널 커밋을 이용한 CHANGELOG 및 시멘틱 버저닝(Semantic Versioning) 자동화 | 딥백수](https://deepbaksu.github.io/2021/05/29/semantic-release/)
 * [GitHub Packages Container registry is generally available | The GitHub Blog](https://github.blog/2021-06-21-github-packages-container-registry-generally-available/)
   * Docker Hub처럼 GitHub에 컨테이너 이미지를 배포하고 받아올 수 있음
 * [GitHub, 블로그에 방문자 카운터를 달아보자 | SILENTSOFT](https://blog.silentsoft.org/archives/192)
+* [Highlights from Git 2.33 | The GitHub Blog](https://github.blog/2021-08-16-highlights-from-git-2-33/)
+* [github.dev - GitHub코드를 VS Code로 1초만에 둘러보기 | GeekNews](https://news.hada.io/topic?id=4802)
+* [코드베이스 시각화 하기 | GeekNews](https://news.hada.io/topic?id=4782)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -273,6 +274,7 @@ Git
   * GitHub에서 자신의 프로필 페이지를 원하는 대로 꾸밀 수 있는 프로필 저장소 기능을 이용해 프로필 페이지에 iMessage 형식으로 대화하듯 인사말과 날씨등을 보여주는 기능을 구현하는 과정 설명
   * 프로필에서 스크립트 등을 원하는 대로 사용할 수는 없으므로 액션을 이용해서 SVG로 생성해서 보여주는 과정을 거치게 되는데 해당 기능을 원래 구현했던 개발자의 소스를 참고해서 이 기능이 어떻게 구현되는지 설명
 * [Github action를 이용한 커뮤니티 행사 관리/운영 하기! | JaeSeoKim's Blog](https://jaeseokim.dev/42Seoul/Github_action%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0_%ED%96%89%EC%82%AC_%EA%B4%80%EB%A6%AC%EC%9A%B4%EC%98%81_%ED%95%98%EA%B8%B0/)
+* [Automating a software company with GitHub Actions - PostHog](https://posthog.com/blog/automating-a-software-company-with-github-actions)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
@@ -631,6 +633,7 @@ Git
   * [헤이딜러 개발팀 모두가 행복한 개발/PR관리 방법 7가지](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EB%AA%A8%EB%91%90%EA%B0%80-%ED%96%89%EB%B3%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C-pr%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-7%EA%B0%80%EC%A7%80-1d4cd5d091f0)
   * [원티드랩 프론트엔드 팀의 Pull Request 양식 및 자동화 | by Chaeryn Park | 원티드 제품 팀블로그 | Mar, 2021 | Medium](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C%EB%9E%A9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%8C%80%EC%9D%98-pull-request-%EC%96%91%EC%8B%9D-%EB%B0%8F-%EC%9E%90%EB%8F%99%ED%99%94-42e393832ffc)
   * [Github에서 PR 생성 시 Reviewer 자동으로 할당하기 (feat. CODEOWNERS)](https://goodgid.github.io/Github-CODEOWNERS/)
+  * [번역 Art of Clean Pull Requests - 클린한 Git PR의 기술](https://blog.sonim1.com/224)
 * push
   * [How to resolve a GitHub error “push declined due to email privacy restrictions” when you try to push a change | by Bryant Jimin Son | Feb, 2021 | Medium](https://bryantson.medium.com/how-to-resolve-a-github-error-push-declined-due-to-email-privacy-restrictions-when-you-try-to-b748f6ca0bcd)
 * `rebase`
