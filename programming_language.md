@@ -89,6 +89,7 @@ Programming Language
 * [언어별로 살펴본 Deep Copy와 Shallow Copy - Kowana's coding](https://www.kowanas.com/coding/2021/01/02/deep-copy%EC%99%80-shallow-copy/)
 * [Comby · Structural code search and replace for ~every language](https://comby.dev/)
   * [Comby - 코드 검색 및 구조 변경 도구 | GeekNews](https://news.hada.io/topic?id=4344)
+* [Programming Idioms](https://programming-idioms.org/)
 
 # Closure
 * [Closures And Objects Are Equivalent](http://c2.com/cgi/wiki?ClosuresAndObjectsAreEquivalent)
@@ -335,6 +336,8 @@ Programming Language
   * [A Complete Guide to LLVM for Programming Language Creators](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
   * [LLVM Call 난독화 패스 만들기 : 클리앙](https://www.clien.net/service/board/lecture/15887081)
   * [LLVM 난독화 path 만들기 - CFG-Flattening : 클리앙](https://www.clien.net/service/board/lecture/15891468)
+  * [LLVM internals, part 1: the bitcode format](https://blog.yossarian.net/2021/07/19/LLVM-internals-part-1-bitcode-format)
+  * [Exploring Clang/LLVM optimization on programming horror](https://blog.matthieud.me/2020/exploring-clang-llvm-optimization-on-programming-horror/)
 * Logo
   * [구글 개발자, 자연어로 작성하는 프로그래밍 언어 공개](http://www.bloter.net/archives/251344)
   * [Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1) - turtleSpaces](https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/)
