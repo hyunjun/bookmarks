@@ -119,6 +119,7 @@ Linux
 * [리눅스 30주년 맞이 리누스 토발즈 인터뷰 번역 - 파트 1 | hacklog](https://sjp38.github.io/ko/post/torvalds_interview_for_30th_anniversary_of_linux_kernel_part1/)
 * [리눅스 30주년 맞이 리누스 토발즈 인터뷰 번역 - 파트 2 | hacklog](https://sjp38.github.io/ko/post/torvalds_interview_for_30th_anniversary_of_linux_kernel_part2/)
 * [Linux 유저 권한 설정 및 그룹](https://developer88.tistory.com/393) /etc/group /etc/passwd
+* [Console Desktop Guide](https://pspodcasting.net/dan/blog/2018/console_desktop.html)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -372,6 +373,7 @@ Linux
 * [리눅스 실무기술300](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-linux_practical_tech300-md)
 * [**8 super heroic Linux commands that you probably aren't using**](https://www.youtube.com/watch?v=Zuwa8zlfXSY)
 * [Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
+* [ANSI Escape Codes](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)
 * [**The Art of Command Line**](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md) 기초적인 부분을 거의 모두 정리해 놓은 매우 유용한 자료
 * [Command line reference – Database and OS scripting](https://ss64.com)
 * [Munging CSV files with standard Unix tools](https://www.johndcook.com/blog/2019/08/30/cut-sort-awk/) cut sort awk
@@ -403,6 +405,7 @@ Linux
 * [Linux / UNIX List Just Directories Or Directory Names - nixCraft](https://www.cyberciti.biz/faq/linux-list-just-directories-or-directory-names/) `ls -d */` `find . -type d -ls` `find . -d 1 -type d`
 * [modern-unix: A collection of modern/faster/saner alternatives to common unix commands](https://github.com/ibraheemdev/modern-unix)
   * bat exa lsd delta dust duf broot fd ripgrep ag fzf mcfly choose jq sd cheat tldr bottom glances gtop hyperfine gping procs httpie curlie xh zoxide dog
+  * [Modern Unix - 유닉스 명령들의 최신 대체제 | GeekNews](https://news.hada.io/topic?id=4784)
 * [6 Command Line Tools for Productive Programmers - Earthly Blog](https://earthly.dev/blog/command-line-tools/) broot, Funky, Fuzzy Finder (FZF), McFly, Better CD, GitUpdate, JQ, mitmproxy, Pandoc, PSTree, Earthly linting prose
 * [Efficient File Copying On Linux](https://eklitzke.org/efficient-file-copying-on-linux)
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
@@ -531,6 +534,7 @@ Linux
   * [How to find the largest directories or largest files?](https://superuser.com/questions/276487/how-to-find-the-largest-directories-or-largest-files)
   * [컴퓨터 vs 책: 5분 따라하기 리눅스에서 용량을 가장 많이 차지하는 파일/디렉토리 찾기](https://jhrogue.blogspot.com/2020/06/5.html)
   * [Replace du with dust on Linux | Opensource.com](https://opensource.com/article/21/6/dust-linux)
+  * [Check used disk space on Linux with du | Opensource.com](https://opensource.com/article/21/7/check-disk-space-linux-du)
 * `echo`
   * `echo -e "..."` ['echo' without newline in a shell script](http://stackoverflow.com/questions/11193466/echo-without-newline-in-a-shell-script)
 * `find`
@@ -822,6 +826,7 @@ Linux
     * [sed replace newline (or 5 ways to remove line breaks with sed, python, tr, perl, xargs) 1](http://slash4.net/blog/python/sed-replace-newline-or-python-awk-tr-perl-xargs.html)
 * `trace`
   * [Choosing a Linux Tracer (2015)](http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html)
+  * [Analyze the Linux kernel with ftrace | Opensource.com](https://opensource.com/article/21/7/linux-kernel-ftrace)
 * `truncate`
   * [지정된 크기의 더미 파일 만들기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/soojung/dev/2020/08/23/864.html)
 * `uname`
@@ -920,6 +925,7 @@ Linux
 * [BPF / XDP 8월 세미나 KossLab](https://www.slideshare.net/TaeungSong/bpf-xdp-8-kosslab)
 * [TIL: eBPF is awesome](https://filipnikolovski.com/posts/ebpf/)
 * [How To Add eBPF Observability To Your Product](https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html)
+* [eBPF 재단 출범 | GeekNews](https://news.hada.io/topic?id=4816)
 * [**Interactive map of Linux kernel**](https://makelinux.github.io/kernel/map/)
 * [Submitting your first patch to the Linux kernel - Cristian Henrique - Medium](https://medium.com/@crhenr/submitting-your-first-patch-to-the-linux-kernel-e81d2541fac6)
 * [Getting started with Linux kernel development](https://gist.github.com/vegard/22200a9f91af138a99ae22a9b814a9a4)
@@ -1005,6 +1011,7 @@ Linux
 * [Mininet - An Instant Virtual Network on your Laptop](http://mininet.org/)
 * [MinIO Client - a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. https://min.io/download ](https://github.com/minio/mc)
 * [Mosh: the mobile shell](https://mosh.org/)
+  * [Mosh : Mobile Shell - 진화된 SSH | GeekNews](https://news.hada.io/topic?id=4810)
 * ngrok [외부 네트워크에서 localhost로 접속 - ngrok](https://jybaek.tistory.com/798)
 * [netmap - the fast packet I/O framework](http://info.iet.unipi.it/~luigi/netmap/)
 * [nextspace - NeXTSTEP-like desktop environment for Linux https://trunkmaster.github.io ](https://github.com/trunkmaster/nextspace)
