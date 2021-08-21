@@ -257,46 +257,6 @@ NLP
 * [콜라 좀… 쉽게 담을 수 없나요, 쓰앵님](http://woowabros.github.io/experience/2019/02/25/android-improve_shop-menu-explore_1.html) 메뉴 검색을 위해 초중종성 분리 검색 개발
 * [Machine Learning with Python: NLP and Text Recognition](https://levelup.gitconnected.com/machine-learning-with-python-nlp-and-text-recognition-94444d55b0ef)
 * [Deploying Handwritten Text Recognition Using Tensorflow and CNN](https://artificialintelligence.oodles.io/dev-blogs/Deploying-Handwritten-Text-Recognition-Using-Tensorflow-and-CNN/)
-* [GPT 한글판 - YouTube](https://www.youtube.com/playlist?list=PLVNY1HnUlO24P-ntdjID_89eVO4PjhI2q)
-* [OpenAI GPT-2: Understanding Language Generation through Visualization](https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8)
-  * [Better Language Models and Their Implications](https://openai.com/blog/better-language-models) GPT-2 based artificial news
-  * [GPT-2 Playground](https://colab.research.google.com/github/ilopezfr/gpt-2/blob/master/gpt-2-playground_.ipynb)
-* [The Way you Write Code Is About to Change: Join the Waiting List | by Dimitris Poulopoulos | Towards Data Science](https://towardsdatascience.com/the-way-you-write-code-is-about-to-change-join-the-waiting-list-8c9e544e5de0) OpenAI
-* [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
-* [OpenGPT-2: We Replicated GPT-2 Because You Can Too](https://medium.com/@vanya_cohen/opengpt-2-we-replicated-gpt-2-because-you-can-too-45e34e6d36dc)
-* [Fine-Tuning GPT-2 from Human Preferences](https://openai.com/blog/fine-tuning-gpt-2/)
-* [Algpt2 Part 2 | Bilal Khan](https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html)
-* [KoGPT2 - Korean GPT-2 pretrained cased (KoGPT2)](https://github.com/SKT-AI/KoGPT2)
-* [KoGPT2ForParaphrasing](https://github.com/MrBananaHuman/KoGPT2ForParaphrasing)
-* [Too big to deploy: How GPT-2 is breaking servers](https://towardsdatascience.com/too-big-to-deploy-how-gpt-2-is-breaking-production-63ab29f0897c)
-* [The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
-* [KorGPT2Tutorial: Tutorial for pretraining Korean GPT-2 model](https://github.com/MrBananaHuman/KorGPT2Tutorial)
-* [KoGPT2-chatbot: Simple Chit-Chat based on KoGPT2](https://github.com/haven-jeon/KoGPT2-chatbot)
-* [Does GPT-2 Know Your Phone Number? – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2020/12/20/lmmem/)
-* [This Code Does Not Exist](https://doesnotexist.codes/) GPT2를 이용한 코드 생성
-* [자연어 인공지능 모델 해킹하기 | GeekNews](https://news.hada.io/topic?id=3886) GPT2 대상 공격
-* [awesome-gpt3](https://github.com/elyase/awesome-gpt3)
-* [How GPT3 Works - Visualizations and Animations – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
-* [What is GPT-3? Showcase, possibilities, and implications - YouTube](https://www.youtube.com/watch?v=5fqxPOaaqi0)
-* [GPT-3가 뭐길래, 제2의 알파고? - YouTube](https://www.youtube.com/watch?v=vLCQGkT2nFc)
-* [GPT-3, 인류 역사상 가장 뛰어난 언어 AI – 핑퐁팀 블로그](https://blog.pingpong.us/gpt3-review/)
-* [OpenAI GPT-3 - Good At Almost Everything! 🤖 - YouTube](https://www.youtube.com/watch?v=_x9AwxfjxvE)
-* [Can GPT-3 Make Analogies?. By Melanie Mitchell | by Melanie Mitchell | Aug, 2020 | Medium](https://medium.com/@melaniemitchell.me/can-gpt-3-make-analogies-16436605c446)
-* [GPT-3의 다섯 가지 한계 – 핑퐁팀 블로그](https://blog.pingpong.us/gpt3-limit/)
-* [GPT-3 paper를 읽고 써보는 간략한 리뷰, Language Models are Few-Shot Learners](https://ai4nlp.tistory.com/11)
-* [대화형 인공지능(GPT-3) 한방에 이해하기 feat. 솔트룩스 이경일 대표 - YouTube](https://www.youtube.com/watch?v=LO1aa_1J_HE)
-* [The First Wave of GPT-3 Enabled Applications Offer a Preview of Our AI Future](https://www.infoq.com/articles/gpt3-enabled-applications/)
-* [영상 초보자도 쉽게 GPT-3를 사용해 혼자서 GPT-3 모델을 구현한다 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=17777)
-* [과연 GPT-3는 얼마나 똑똑한 걸까? – 핑퐁팀 블로그](https://blog.pingpong.us/gpt3-evaluation/)
-* [Can GPT-3 Make Analogies?. By Melanie Mitchell | by Melanie Mitchell | Medium](https://medium.com/@melaniemitchell.me/can-gpt-3-make-analogies-16436605c446)
-* [GPT-3은 얼마내고 써야할까요?](https://media-ai.tistory.com/16) 계산 과정이 재미있음
-* [구독자 GPT-3는 우리 중에 최약체지](https://maily.so/kyeom.ai/posts/366f2a)
-* [gpt-neo: An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library](https://github.com/EleutherAI/gpt-neo/)
-* [21년 2월 2주 - from __future__ import dreamfrom __future__ import dream](http://freesearch.pe.kr/archives/5034)
-* [minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training](https://github.com/karpathy/minGPT) 일종의 교육용 GPT
-* [꿀벌개발일지 :: 뉴스: GPT-Neo 를 개발하고 있다는 소식](https://ohgyun.com/796)
-* [mesh-transformer-jax: Model parallel transformers in JAX and Haiku](https://github.com/kingoflolz/mesh-transformer-jax)
-  * [Checking out a 6-Billion parameter GPT model, GPT-J, from Eleuther AI - YouTube](https://www.youtube.com/watch?v=_z86t7LerrQ)
 * [I build my ideas #8 - 07/19/20 - I build my ideas from Jordan Singer](https://ibuildmyideas.substack.com/p/i-build-my-ideas-8-071920)
 * [Text generation with a Variational Autoencoder](https://nicgian.github.io/text-generation-vae/)
 * [Sentence Simplification with Seq2Seq](https://towardsdatascience.com/sentence-simplification-with-seq2seq-1b20d05a4663)
@@ -349,8 +309,6 @@ NLP
   * [텍스트데이터분석](https://www.youtube.com/playlist?list=PLaTc2c6yEwmohRzCxWQqJ7Z9aqc-sQ5gC)
 * [NLU sense](https://nlusense.com)
 * [A no-frills guide to most Natural Language Processing Models — The Pre-LSTM Ice-Age — (R)NNLM, GloVe, Word2Vec & fastText](https://towardsdatascience.com/a-no-frills-guide-to-most-natural-language-processing-models-part-1-the-pre-lstm-ice-age-86055dd5d67c)
-* [AI x Bookathon｜인공지능을 수필 쓰는 작가로 학습시켜보자!](https://jeinalog.tistory.com/25) GPT, hdf5, scrapy, selenium
-  * [Ai bookathon public](https://www.slideshare.net/MinjungChung1/ai-bookathon-public)
 * [Natural Language Processing(NLP) Real World Project in Web Using Flask:- Himanshu Tripathi](https://www.youtube.com/watch?v=7E_CtqM_nsE)
 * [싸이감성체를 활용한 한국인 인증 인터페이스 개발기](https://brunch.co.kr/@andrewyhc/127)
 * [네이버 스마트 스토어 구매평을 통한 소비자 반응 분석(텍스트 분석) 프로젝트](https://github.com/seoulblanc/NaverStoreData)
@@ -363,7 +321,6 @@ NLP
 * [머신러닝을 활용한 오픈챗 클린 스코어 모델 개발기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-openchat-cleanscore/)
 * [badword_check: 딥러닝을 통한 한글 욕설 분류 프로젝트](https://github.com/Nam-SW/badword_check)
 * [**위클리 NLP - jiho-ml**](https://www.jiho-ml.com/tag/weekly-nlp/)
-* [Google AI Blog: Advancing NLP with Efficient Projection-Based Model Architectures](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html) GPT-3와 반대로 적은 parameter로 만드는 model에 대한 이야기
 * [Automate Data Cleaning with Unsupervised Learning | by Marco Cerliani | Towards Data Science](https://towardsdatascience.com/automate-data-cleaning-with-unsupervised-learning-2046ef59ac17)
 * [Knowledge Graphs in Natural Language Processing @ ACL 2020 | by Michael Galkin | Towards Data Science](https://towardsdatascience.com/knowledge-graphs-in-natural-language-processing-acl-2020-ebb1f0a6e0b1)
 * [지식그래프에서 경로를 탐색하는 모델 AttnIO를 소개합니다](https://tech-kakaoenterprise.tistory.com/95)
@@ -955,6 +912,52 @@ NLP
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
 * [WellnessConversationAI: Korean Language Model을 이용한 심리상담 대화 언어 모델](https://github.com/nawnoes/WellnessConversationAI)
 
+## Language Model LM GPT
+* [GPT 한글판 - YouTube](https://www.youtube.com/playlist?list=PLVNY1HnUlO24P-ntdjID_89eVO4PjhI2q)
+* [OpenAI GPT-2: Understanding Language Generation through Visualization](https://towardsdatascience.com/openai-gpt-2-understanding-language-generation-through-visualization-8252f683b2f8)
+  * [Better Language Models and Their Implications](https://openai.com/blog/better-language-models) GPT-2 based artificial news
+  * [GPT-2 Playground](https://colab.research.google.com/github/ilopezfr/gpt-2/blob/master/gpt-2-playground_.ipynb)
+* [The Way you Write Code Is About to Change: Join the Waiting List | by Dimitris Poulopoulos | Towards Data Science](https://towardsdatascience.com/the-way-you-write-code-is-about-to-change-join-the-waiting-list-8c9e544e5de0) OpenAI
+* [The Illustrated GPT-2 (Visualizing Transformer Language Models)](https://jalammar.github.io/illustrated-gpt2/)
+* [OpenGPT-2: We Replicated GPT-2 Because You Can Too](https://medium.com/@vanya_cohen/opengpt-2-we-replicated-gpt-2-because-you-can-too-45e34e6d36dc)
+* [Fine-Tuning GPT-2 from Human Preferences](https://openai.com/blog/fine-tuning-gpt-2/)
+* [Algpt2 Part 2 | Bilal Khan](https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html)
+* [KoGPT2 - Korean GPT-2 pretrained cased (KoGPT2)](https://github.com/SKT-AI/KoGPT2)
+* [KoGPT2ForParaphrasing](https://github.com/MrBananaHuman/KoGPT2ForParaphrasing)
+* [Too big to deploy: How GPT-2 is breaking servers](https://towardsdatascience.com/too-big-to-deploy-how-gpt-2-is-breaking-production-63ab29f0897c)
+* [The Annotated GPT-2](https://amaarora.github.io/2020/02/18/annotatedGPT2.html)
+* [KorGPT2Tutorial: Tutorial for pretraining Korean GPT-2 model](https://github.com/MrBananaHuman/KorGPT2Tutorial)
+* [KoGPT2-chatbot: Simple Chit-Chat based on KoGPT2](https://github.com/haven-jeon/KoGPT2-chatbot)
+* [Does GPT-2 Know Your Phone Number? – The Berkeley Artificial Intelligence Research Blog](https://bair.berkeley.edu/blog/2020/12/20/lmmem/)
+* [This Code Does Not Exist](https://doesnotexist.codes/) GPT2를 이용한 코드 생성
+* [자연어 인공지능 모델 해킹하기 | GeekNews](https://news.hada.io/topic?id=3886) GPT2 대상 공격
+* [awesome-gpt3](https://github.com/elyase/awesome-gpt3)
+* [How GPT3 Works - Visualizations and Animations – Jay Alammar – Visualizing machine learning one concept at a time](https://jalammar.github.io/how-gpt3-works-visualizations-animations/)
+* [What is GPT-3? Showcase, possibilities, and implications - YouTube](https://www.youtube.com/watch?v=5fqxPOaaqi0)
+* [GPT-3가 뭐길래, 제2의 알파고? - YouTube](https://www.youtube.com/watch?v=vLCQGkT2nFc)
+* [GPT-3, 인류 역사상 가장 뛰어난 언어 AI – 핑퐁팀 블로그](https://blog.pingpong.us/gpt3-review/)
+* [OpenAI GPT-3 - Good At Almost Everything! 🤖 - YouTube](https://www.youtube.com/watch?v=_x9AwxfjxvE)
+* [Can GPT-3 Make Analogies?. By Melanie Mitchell | by Melanie Mitchell | Aug, 2020 | Medium](https://medium.com/@melaniemitchell.me/can-gpt-3-make-analogies-16436605c446)
+* [GPT-3의 다섯 가지 한계 – 핑퐁팀 블로그](https://blog.pingpong.us/gpt3-limit/)
+* [GPT-3 paper를 읽고 써보는 간략한 리뷰, Language Models are Few-Shot Learners](https://ai4nlp.tistory.com/11)
+* [대화형 인공지능(GPT-3) 한방에 이해하기 feat. 솔트룩스 이경일 대표 - YouTube](https://www.youtube.com/watch?v=LO1aa_1J_HE)
+* [The First Wave of GPT-3 Enabled Applications Offer a Preview of Our AI Future](https://www.infoq.com/articles/gpt3-enabled-applications/)
+* [영상 초보자도 쉽게 GPT-3를 사용해 혼자서 GPT-3 모델을 구현한다 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=17777)
+* [과연 GPT-3는 얼마나 똑똑한 걸까? – 핑퐁팀 블로그](https://blog.pingpong.us/gpt3-evaluation/)
+* [Can GPT-3 Make Analogies?. By Melanie Mitchell | by Melanie Mitchell | Medium](https://medium.com/@melaniemitchell.me/can-gpt-3-make-analogies-16436605c446)
+* [GPT-3은 얼마내고 써야할까요?](https://media-ai.tistory.com/16) 계산 과정이 재미있음
+* [구독자 GPT-3는 우리 중에 최약체지](https://maily.so/kyeom.ai/posts/366f2a)
+* [OpenAI Codex 공개 및 파이썬 퍼즐 챌린지 예정 | GeekNews](https://news.hada.io/topic?id=4803)
+* [gpt-neo: An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library](https://github.com/EleutherAI/gpt-neo/)
+* [21년 2월 2주 - from __future__ import dreamfrom __future__ import dream](http://freesearch.pe.kr/archives/5034)
+* [minGPT: A minimal PyTorch re-implementation of the OpenAI GPT (Generative Pretrained Transformer) training](https://github.com/karpathy/minGPT) 일종의 교육용 GPT
+* [꿀벌개발일지 :: 뉴스: GPT-Neo 를 개발하고 있다는 소식](https://ohgyun.com/796)
+* [AI x Bookathon｜인공지능을 수필 쓰는 작가로 학습시켜보자!](https://jeinalog.tistory.com/25) GPT, hdf5, scrapy, selenium
+  * [Ai bookathon public](https://www.slideshare.net/MinjungChung1/ai-bookathon-public)
+* [Google AI Blog: Advancing NLP with Efficient Projection-Based Model Architectures](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html) GPT-3와 반대로 적은 parameter로 만드는 model에 대한 이야기
+* [mesh-transformer-jax: Model parallel transformers in JAX and Haiku](https://github.com/kingoflolz/mesh-transformer-jax)
+  * [Checking out a 6-Billion parameter GPT model, GPT-J, from Eleuther AI - YouTube](https://www.youtube.com/watch?v=_z86t7LerrQ)
+
 # LDA Latent Dirichlet Allocation
 * [Latent Dirichlet Allocation](https://en.wikipedia.org/wiki/Latent_Dirichlet_allocation)
 * [Yes24 책 추천 알고리즘, 어떻게 구현했나](http://hyunje.com/data%20analysis/2016/02/02/yes24-recommendation-2/)
@@ -1510,6 +1513,7 @@ NLP
 * [11. Deep Learning Cookbook/03. 단어 임베딩을 사용하여 텍스트 유사성 계산하기](https://daljoong2.tistory.com/36)
 * [엘라스틱서치의 벡터(Vector) 필드와 텐서플로우를 이용한 문서 유사도 검색 (1) > Similarity Search #elasticsearch](https://blog.naver.com/olpaemi/221639136195)
 * [텍스트 요약 모델 성능 평가를 위한 새로운 척도, RDASS를 소개합니다. | Kakao Enterprise AI Research](https://kakaoenterprise.github.io/deepdive/210729)
+* [Nearest Neighbor Indexes for Similarity Search | Pinecone](https://www.pinecone.io/learn/vector-indexes/)
 
 # Summary, Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
@@ -1748,6 +1752,7 @@ NLP
   * [2. Live coding Jarvis Transcriptions for Speech to Text Dataset p.2 - YouTube](https://www.youtube.com/watch?v=BDl6fzhp2Ao)
 * [openspeech: Open-Source Toolkit for End-to-End Speech Recognition leveraging PyTorch-Lightning and Hydra](https://github.com/openspeech-team/openspeech)
 * [**ratsgo's speechbook**](https://ratsgo.github.io/speechbook/)
+* SoundStream [구글, End-to-End 뉴럴 오디오 코덱 SoundStream 공개 | GeekNews](https://news.hada.io/topic?id=4824)
 * [speech-recognition: Develop speech recognition models with Tensorflow 2](https://github.com/cosmoquester/speech-recognition)
 * Tabletop [Bringing Tabletop Audio to Actions on Google through media responses](https://medium.com/google-developers/bringing-tabletop-audio-to-actions-on-google-through-media-responses-a48bbcd9a38)
 * [Tacotron, Wavenet-Vocoder, Koearn TTS](https://github.com/hccho2/Tacotron-Wavenet-Vocoder)
