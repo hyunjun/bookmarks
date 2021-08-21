@@ -171,6 +171,7 @@ C
 * [Why I still like C and strongly dislike C++ « Kostya's Boring Codec World](https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/)
 * [My toy renderer, part 1: Keep it simple](https://momentsingraphics.de/ToyRenderer1KeepItSimple.html)
 * [Learning that you can use unions in C for grouping things into namespaces](https://utcc.utoronto.ca/~cks/space/blog/programming/CUnionsForNamespaces)
+* [(12) Joe Zbiciak's answer to Can someone post a simplified C program for AI algorithm, and what type of hardware will be typically used? - Quora](https://www.quora.com/Can-someone-post-a-simplified-C-program-for-AI-algorithm-and-what-type-of-hardware-will-be-typically-used/answer/Joe-Zbiciak)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -478,6 +479,7 @@ C
 * [c언어 문자열 경계 검사에 대한 몇 가지 이야기](https://codingdog.tistory.com/entry/c%EC%96%B8%EC%96%B4-%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B2%BD%EA%B3%84-%EA%B2%80%EC%82%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 * [포인터 이해하기 | 10분 TV](http://10bun.tv/beginner/episode-5/)
 * [kkamagui의 작업실 :: 미네소타 대학(University of Minnesota)에서 의도적으로 리눅스 커널(Linux Kernel)에 보안 위협을 초래했네요](https://kkamagui.tistory.com/943)
+* [c++ - pointer comparisons "<" with one past the last element of an array object - Stack Overflow](https://stackoverflow.com/questions/16233868/pointer-comparisons-with-one-past-the-last-element-of-an-array-object)
 
 # Standard Library
 * file
