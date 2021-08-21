@@ -804,6 +804,7 @@ SQL
 * [Hierarchical Structures in PostgreSQL](https://hoverbear.org/blog/postgresql-hierarchical-structures/)
 * [Globally Distributed Postgres · Fly](https://fly.io/blog/globally-distributed-postgres/)
 * [PostgreSQL, Memory and the Cloud™ · Alexander Sosna](https://sosna.de/posts/pgaas-memory-overcommit/)
+* [PostgreSQL에서 Order By가 선적용되는 슬로우 쿼리 해결책](https://jojoldu.tistory.com/596)
 * EdgeDB
   * [EdgeDB—The next generation database](https://edgedb.com/)
   * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
