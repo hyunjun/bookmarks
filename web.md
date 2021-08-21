@@ -686,6 +686,7 @@ Web
   * [Docker기반 Redis 구축하기 - (8) HAProxy를 이용한 분산처리 환경 구축하기 | Carrey's 기술블로그](https://jaehun2841.github.io/2018/12/02/2018-12-02-docker-8/#haproxycfg-%ED%8C%8C%EC%9D%BC-%EC%9E%91%EC%84%B1)
   * [HAProxy 고가용성 설정](https://www.ibm.com/support/knowledgecenter/ko/SSYMRC_6.0.5/com.ibm.jazz.install.doc/topics/t_setup_haproxy_ha.html)
   * [Announcing HAProxy 2.2 - HAProxy Technologies](https://www.haproxy.com/blog/announcing-haproxy-2-2/)
+  * [**Reining in the thundering herd ⛈ Getting to 80% CPU utilization with Django**](https://blog.clubhouse.com/reining-in-the-thundering-herd-with-django-and-gunicorn/)
 * [Mitmproxy 7](https://mitmproxy.org/posts/releases/mitmproxy7/)
   * [MITMProxy로 실시간 검색어 조작하기](https://www.youtube.com/watch?v=2Of-zvygg8w)
 * [traefik: The Cloud Native Application Proxy](https://github.com/traefik/traefik)
@@ -1022,6 +1023,7 @@ Web
 * [WebAssembly with Golang by scratch | by Roman Romadin | Aug, 2021 | ITNEXT](https://itnext.io/webassemply-with-golang-by-scratch-e05ec5230558)
   * Go 언어 이용 간단한 WebAssembly 작성 예제
   * 코드는 Hello World를 출력하는 정도이지만 Go로 작성한 코드를 컴파일해서 HTML 페이지와 연동해서 불러오는 방법 소개
+* [What Is WebAssembly — and Why Are You Hearing So Much About It? – The New Stack](https://thenewstack.io/what-is-webassembly/)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
