@@ -16,7 +16,7 @@ Json
 * [The Pretty JSON Revolution](http://www.ohler.com/dev/pretty.html)
 
 # C++
-* [JSON for Modern C++ https://nlohmann.github.io/json ](https://github.com/nlohmann/json)
+* [json: JSON for Modern C++](https://github.com/nlohmann/json)
 * [jsoncpp 를 이용하여 C++에서 JSON 생성 및 Parsing 하기](http://devluna.blogspot.com/2015/09/jsoncpp-c-json-parsing.html)
 * [JsonPack is a high-performance and extremely easy-to-use JSON serialization library for C++ 11](https://github.com/ymglez/jsonpack)
 * [simdjson: Parsing gigabytes of JSON per second](https://github.com/simdjson/simdjson)
@@ -216,6 +216,7 @@ Json
 * [Ijson - an iterative JSON parser with a standard Python iterator interface](https://pypi.org/project/ijson/) stream 이용
   * [파이썬으로 나무위키 JSON 덤프 데이터 파싱하기. 기계학습 등에 사용할만한 한글 데이터가 많지 않은데. 나무위키 문서는… | by 김희규 | Jul, 2020 | Medium](https://medium.com/@heegyukim/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4-json-%EB%8D%A4%ED%94%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%8B%B1%ED%95%98%EA%B8%B0-8f41cee1e155) namu-wiki-extractor
 * jmespath [4 Tricks to Effectively Use JSON in Python | by Erik van Baaren | Towards Data Science](https://towardsdatascience.com/4-tricks-to-effectively-use-json-in-python-4ca18c3f91d0)
+* [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
 * [pandas.read_json](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_json.html)
 * [request-validator 1.5.0 - Python request validator](https://pypi.python.org/pypi/request-validator/1.5.0)
 * [validictory - A general purpose Python data validator](https://github.com/jamesturk/validictory)
