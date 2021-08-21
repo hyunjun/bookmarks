@@ -56,6 +56,7 @@ App
 * [모두의 프린터](https://modu-print.tistory.com/)
 * [**the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more**](https://github.com/trimstray/the-book-of-secret-knowledge) 엄청나게 다양한 여러가지 tool
 * [5 open source tools I can't live without | Opensource.com](https://opensource.com/article/20/10/open-source-tools) tmate, ix, asciinema, GNOME Pomodoro, Jitsi
+* [Best Collaboration Tools in 2021 – Survey Results | The Space Blog](https://blog.jetbrains.com/space/2021/07/16/best-collaboration-tools/)
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
@@ -117,6 +118,7 @@ App
   * [Book, again by code](https://lqez.github.io/blog/book-again-by-code.html) pycon program (종이) book 제작기
   * [오프라인으로 PDF 파일을 회전/결합/압축하려면?](https://jhrogue.blogspot.com/2020/09/pdf.html)
   * [Beautiful PDFs from HTML](https://pdf.math.dev/)
+  * [리뷰 | 무료 온라인 PDF 편집기 ‘PDF 캔디’ 44가지의 도구로 대부분의 작업 처리 - ITWorld Korea](https://www.itworld.co.kr/news/205379)
   * [FalsiScan: Make it look like a PDF has been hand signed and scanned](https://gitlab.com/edouardklein/falsisign)
   * [mupdf - mirrored from git://git.ghostscript.com/mupdf.git http://mupdf.com ](https://github.com/ccxvii/mupdf)
   * [PDFtk Server - our command-line tool for working with PDFs. It is commonly used for client-side scripting or server-side processing of PDFs](https://www.pdflabs.com/tools/pdftk-server/)
@@ -146,6 +148,7 @@ App
 * [SpeedCrunch - a high-precision scientific calculator featuring a fast, keyboard-driven user interface](https://speedcrunch.org/)
 * [startupstash.com](http://startupstash.com/)
 * [StarUML 2](http://staruml.io/)
+* [TableCloth: 식탁보 프로젝트](https://github.com/yourtablecloth/TableCloth) 윈도우 샌드박스를 이용해 인터넷 뱅킹/전자정부 인터넷 서비스를 사용하도록 하는 프로젝트
 * [Terminus - a terminal heavily inspired by Hyper](https://github.com/Eugeny/terminus)
 * [TextBundle - file format aims to provide a more seamless user experience when exchanging plain text files, like Markdown or Fountain, between sandboxed applications](http://textbundle.org/)
 * Tor
@@ -158,6 +161,8 @@ App
   * [How to install ubuntu on VirtualBox with vagrant](https://devgrill.com/how-to-install-ubuntu-on-virtualbox-with-vagrant-2/)
   * [How to provision an Nginx server on VirtualBox using vagrant](https://devgrill.com/how-to-provision-an-nginx-server-on-virtualbox-using-vagrant/)
   * [ngrok](https://dev-yakuza.github.io/ko/environment/ngrok/)
+* [Ventoy: A new bootable USB solution.](https://github.com/ventoy/Ventoy)
+  * ['벤토이'를 활용한 궁극의 윈도우 복구 드라이브 만들기 - ITWorld Korea](https://www.itworld.co.kr/news/205159)
 * VirtualBox
   * [Install OS X 10.10 Yosemite in VirtualBox](http://blog.frd.mn/install-os-x-10-10-yosemite-in-virtualbox/)
   * [HOWTO: Moving a Windows (XP) installation from a broken PC to a new one... using Virtualbox](http://thegoodcodeinn.blogspot.kr/2015/10/howto-moving-windows-xp-installation.html)
@@ -399,6 +404,7 @@ App
 * [codecopy: A browser extension that adds copy to clipboard buttons on every code block](https://github.com/zenorocha/codecopy)
 * my notes [“크롬 새 탭을 메모장으로” 화려하지 않아도 실용적인 마이 노트(My Notes) - ITWorld Korea](http://www.itworld.co.kr/news/167215)
 * nuTab [Quick Notes New Tab Chrome Extension - nuTab](https://nutab.co/)
+* [one-click-extensions-manager: a simple chrome extension to manage chrome extension](https://github.com/hankxdev/one-click-extensions-manager)
 * Requestly [Udemy강좌 Full HD로 보기](https://www.javastudy.net/2019/04/22/udemy%EA%B0%95%EC%A2%8C-full-hd%EB%A1%9C-%EB%B3%B4%EA%B8%B0/)
 * [screenity: The most powerful screen recorder & annotation tool for Chrome 🎥](https://github.com/alyssaxuu/screenity)
 * Snippyly [“공유를 넘어 협업으로” 크롬에서 스크린샷을 공유하는 가장 똑똑한 방법 - ITWorld Korea](https://www.itworld.co.kr/news/189733)
@@ -690,6 +696,7 @@ App
       * [Python in Visual Studio Code – October 2018 Release](https://blogs.msdn.microsoft.com/pythonengineering/2018/11/08/python-in-visual-studio-code-october-2018-release) jupyter support
       * [Python in Visual Studio Code – October 2019 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-october-2019-release)
       * [VSCode의 Jupyter Extension을 사용하여 간단하게 Python으로 데이터 시각화하기 : NHN Cloud Meetup](https://meetup.toast.com/posts/283) 데이터 통계 및 시각화
+      * [VS Code Python Tool Revamps Jupyter Notebooks Experience -- Visual Studio Magazine](https://visualstudiomagazine.com/articles/2021/08/09/vs-code-python-aug21.aspx)
     * remote
       * [마이크로소프트 비주얼 스튜디오 코드, 원격 개발 기능 지원](https://www.44bits.io/ko/post/news--vs-code-now-supports-remote-development)
       * [Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
@@ -976,6 +983,8 @@ App
 * [Muzzle - silence embarrassing notifications](https://muzzleapp.com/)
 * [n³ The missing terminal file manager for X](https://github.com/jarun/nnn)
 * [**nearlock.me**](http://nearlock.me/)
+* Onyx [Titanium Software | Operating system utilities for Mac - OnyX](https://titanium-software.fr/en/onyx.html)
+  * [리뷰 | 오닉스, 맥 사용자를 위한 필수 무료 시스템 관리 툴 - ITWorld Korea](https://www.itworld.co.kr/news/204814)
 * [**OpenInTerminal - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty**](https://github.com/Ji4n1ng/OpenInTerminal)
 * [openldap - vagrant로 설치하는 openldap](http://raspberrypikor.blogspot.com/2016/11/vagrant-openldap.html)
 * Post-it for Mac [3M, 아이폰과의 동기화를 지원하는 Post-it for Mac을 발표](https://tagilog.tistory.com/441)
@@ -1251,6 +1260,8 @@ App
 * [StarUML](https://staruml.io/)
 * [swimlanes.io](https://swimlanes.io/)
   * [Swimlanes - 온라인 시퀀스 다이어그램 에디터 | GeekNews](https://news.hada.io/topic?id=4149)
+* [Systemizer - A system design tool](https://honzaap.github.io/Systemizer/)
+  * [Systemizer - 시스템 디자인 시각화 도구 | GeekNews](https://news.hada.io/topic?id=4785)
 * [Terrastruct - A diagramming tool for systems](https://terrastruct.com/)
 * [websequencediagrams.com](https://www.websequencediagrams.com/) 한글 깨짐
 * [Wireflow - user flow chart real-time collaborative tool](https://github.com/vanila-io/wireflow)
@@ -1403,6 +1414,8 @@ App
 * [ghostwriter](https://wereturtle.github.io/ghostwriter/)
 * [hackmd.io](https://hackmd.io/) gist
 * [Haroopad](http://pad.haroopress.com/)
+* [LiaScript](https://liascript.github.io/)
+  * [LiaScript - 마크다운으로 온라인 강좌 만들기 | GeekNews](https://news.hada.io/topic?id=4783)
 * [lookatme: An interactive, terminal-based markdown presenter](https://github.com/d0c-s4vage/lookatme)
   * [lookatme - 터미널 기반 마크다운 프리젠테이션 도구 | GeekNews](https://news.hada.io/topic?id=4433)
 * [Madoko is a fast markdown processor for writing professional articles, books, manuals, webpages and presentations, with a focus on simplicity and plain text readability](https://www.madoko.net/)
@@ -1551,6 +1564,7 @@ App
 * [**SharpKeys - a utility that manages a Registry key that allows Windows to remap one key to any other key**](https://sharpkeys.codeplex.com/)
 * [Simplevisor -  simple, portable, Intel VT-x hypervisor](https://ionescu007.github.io/SimpleVisor/)
 * [StaffPad is a brand new class of notation app](http://www.staffpad.net/)
+* [wincompose: 🔣 Compose Key for Windows](https://github.com/samhocevar/wincompose) special key 입력
 * [Worker Bee - Explore all the neat things your computer can do](http://workerbee.tonkworks.com/)
 
 ## Window Installation
