@@ -411,6 +411,8 @@ Android
 * [Sagiri - 유니티 로그 뷰어, Sagiri](https://libsora.so/posts/introduce-sagiri/)
 * [sample-mask](https://github.com/wonderful-coding-life/sample-mask)
 * [sms-cli - Stealth desktop SMS app. Compatible with Android via SMS Gateway API (http://smsgateway.me)](https://github.com/atduarte/sms-cli)
+* [SMSHub: Android SMS Gateway application for sending and receiving SMS via HTTP API in Kotlin](https://github.com/juancrescente/SMSHub)
+  * [SMSHub - 안드로이드폰을 이용한 SMS 전송/수신용 Gateway | GeekNews](https://news.hada.io/topic?id=4797)
 * [sunflower: A gardening app illustrating Android development best practices with Android Jetpack](https://github.com/android/sunflower)
 * HTTP
   * [Android의 HTTP 클라이언트 라이브러리](http://d2.naver.com/helloworld/377316)
