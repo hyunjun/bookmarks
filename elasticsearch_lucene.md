@@ -524,6 +524,7 @@ ElasticSearch - Lucene
   * [elasticsearch-py](https://github.com/elastic/elasticsearch-py)
   * [How to Query Elasticsearch with Python](http://marcobonzanini.com/2015/02/02/how-to-query-elasticsearch-with-python/)
   * [Having Fun: Python and Elasticsearch, Part 1](http://bitquabit.com/post/having-fun-python-and-elasticsearch-part-1/)
+  * [ElasticSearch 공식 파이썬 라이브러리가 더 이상 오픈소스 포크버전과 동작하지 않 | GeekNews](https://news.hada.io/topic?id=4791)
 * [elasticsearch-sql - Use SQL to query Elasticsearch](https://github.com/NLPchina/elasticsearch-sql)
   * [Getting Started with SQL](https://www.elastic.co/guide/en/elasticsearch/reference/master/sql-getting-started.html#sql-getting-started)
   * [Elasticsearch SQL | Popit](https://www.popit.kr/elasticsearch-sql/)
