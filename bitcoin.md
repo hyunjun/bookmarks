@@ -169,6 +169,7 @@ Bitcoin
 * [GETH를 이용하여 private network 구축하기](https://blog.naver.com/pjt3591oo/222246052626)
 * [Ethereum](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180904_JM_Blockchain_03.md)
 * [이더리움 2.0 정복하기 - YouTube](https://www.youtube.com/playlist?list=PLLDf3_vgzDhgVuQTdTZeVl69tAWMFIvIF)
+* [The Problem with Ethereum. How did Ethereum become a system that… | by Tomer Strolight | Aug, 2021 | Medium](https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95)
 * [PublicVotes - A publicly verifiable Voting System, powered by Smart Contracts](http://publicvotes.org/)
 * [toolbox - etherscripter](http://etherscripter.com/0-5-1/)
 * [vyper - Pythonic Smart Contract Language for the EVM](https://github.com/ethereum/vyper)
