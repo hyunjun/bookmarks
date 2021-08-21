@@ -883,8 +883,9 @@ Scala
     * [An Introduction to ZIO Kafka](https://ziverge.com/blog/introduction-to-zio-kafka/)
     * [Apache Kafka and ZIO. This article will explain why you want… | by Aleksandra Holubitska | Sep, 2020 | Medium](https://medium.com/@oleksandra_a/apache-kafka-and-zio-af418b4c54f0)
     * [How To Implement Streaming Microservices Using ZIO and Kafka](https://scalac.io/blog/streaming-microservices-with-zio-and-kafka/)
-    * [Production-grade Microservices with ZIO by Itamar Ravid - YouTube](https://www.youtube.com/watch?v=oMJ1RMdR7wg)
     * [Using ZIO Kafka with offset storage in Postgres for transactional processing | by Marek Kadek | Mar, 2021 | Medium](https://kadek-marek.medium.com/using-zio-kafka-with-offset-storage-in-postgres-for-transactional-processing-91042e81c095)
+    * [ZIO Kafka with Scala: A Tutorial - YouTube](https://www.youtube.com/watch?v=ExFjjczwwHs)
+    * [Production-grade Microservices with ZIO by Itamar Ravid - YouTube](https://www.youtube.com/watch?v=oMJ1RMdR7wg)
     * [Using Aspects To Transform Your Code With ZIO Environment - YouTube](https://www.youtube.com/watch?v=gcqWdNwNEPg)
     * [How to Use Thread.sleep Without Blocking on the JVM](https://www.freecodecamp.org/news/non-blocking-thread-sleep-on-jvm/) thread.sleep, project loom, ScheduledExecutorService, zio.sleep
     * [Scale By The Bay 2020: Leo Benkel, Enhancing Spark's Power with ZIO - YouTube](https://www.youtube.com/watch?v=OW0ggALNtSE)
