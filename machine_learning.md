@@ -1403,6 +1403,8 @@ Machine Learning
 * [Reinforcement Learning 그리고 OpenAI - 2: CartPole예제 이해하기](http://www.modulabs.co.kr/RL_library/2136)
 * [Reinforcement Learning 그리고 OpenAI - 3: CartPole and Deep Q Learning (1) DQN(Deep Q-Networks)](http://www.modulabs.co.kr/RL_library/2621)
 * [Reinforcement Learning](https://github.com/sangjinhong/deep_learning)
+* [RLlib: Scalable Reinforcement Learning — Ray v1.5.2](https://docs.ray.io/en/latest/rllib.html)
+  * [오픈소스(RLlib) 문제 발견부터 컨트리뷰션 까지 | MakinaRocks Tech Blog](https://makinarocks.github.io/open-source-contributions-rllib/)
 
 # Spark
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
