@@ -178,6 +178,8 @@
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)
 * [deuterium-orm - Fully typed SQL query builder for Rust](https://github.com/deuterium-orm/deuterium)
 * [difftastic: a syntax-aware diff](https://github.com/wilfred/difftastic)
+* [druid - Rust](https://docs.rs/druid/)
+  * [So you want to write a GUI framework](https://www.cmyr.net/blog/gui-framework-ingredients.html)
 * [Encoder and decoder for HTTP chunked transfer coding (RFC 7230 § 4.1) https://crates.io/crates/chunked_transfer](https://github.com/frewsxcv/rust-chunked-transfer)
 * [glium library - safe openGL in rust](https://medium.com/@tomaka/the-glium-library-5be149d87dc1)
 * [Glommio - A Thread-per-Core Crate for Rust & Linux | Datadog](https://www.datadoghq.com/blog/engineering/introducing-glommio/)
