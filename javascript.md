@@ -1513,7 +1513,9 @@ Javascript
 * [jscomp - Ahead of time JavaScript compiler](https://github.com/tmikov/jscomp)
 * [json-chance - Create random JSON objects using json-spawn and Chance.js](https://github.com/luisfarzati/json-chance)
 * [jsonplus - JSON parser that supports self reference and comments](https://github.com/serkanyersen/jsonplus)
-* [JSZip + FileSaver : 자바스크립트 파일 압축 다운로드 도구](https://gs.saro.me/#!m=elec&jn=807)
+* [jszip: Create, read and edit .zip files with Javascript](https://github.com/Stuk/jszip)
+  * [JSZip + FileSaver : 자바스크립트 파일 압축 다운로드 도구](https://gs.saro.me/#!m=elec&jn=807)
+  * [JSZip - Zip파일 생성/읽기/수정용 JS 라이브러리 | GeekNews](https://news.hada.io/topic?id=4815)
 * JXcore
   * [Cracking JXcore](http://markhaase.com/2014/07/01/cracking-jxcore/)
   * [Cracking JXcore… Again](http://markhaase.com/2015/06/25/cracking-jxcore-again/)
@@ -1632,6 +1634,7 @@ Javascript
   * [Everything you need to know about the `passport-jwt` Passport JS Strategy (and Angular implementation) | by Zach Gollwitzer | The Startup | Medium](https://medium.com/swlh/everything-you-need-to-know-about-the-passport-jwt-passport-js-strategy-8b69f39014b0)
   * [🔐GitHub OAuth 로그인 #10분완성 #passport #node.js - YouTube](https://www.youtube.com/watch?v=anZqM4JnZ3o)
   * [깃플 스터디 프로젝트 | Programming Cloud-Native](https://tech.gitple.io/2021/06/28/blog-study-project/)
+  * [Passport.js 로 소셜 로그인 구현하기](https://velog.io/@parkoon/Passport.js-%EB%A1%9C-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EC%9D%B4)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
 * [Peaks.js: Audio waveform rendering in the browser](http://www.bbc.co.uk/rd/blog/2013/10/audio-waveforms)
 * [perfect-arrows: A minimal tool for drawing perfect arrows between points and shapes](https://github.com/steveruizok/perfect-arrows)
@@ -2176,6 +2179,7 @@ Javascript
   * [📥슬랙 봇 만들기 #1 - YouTube](https://www.youtube.com/watch?v=QUt-52U9nR4)
 * [NodeJS Get 과 Post 의 Parameter 와 QueryString 전달 방법](https://developer88.tistory.com/376)
 * [Node.js 16 available now. We are excited to announce the release… | by Node.js | Node.js Collection | Apr, 2021 | Medium](https://medium.com/the-node-js-collection/node-js-16-available-now-7f5099a97e70)
+* [Nodejs Security - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
