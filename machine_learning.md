@@ -662,6 +662,7 @@ Machine Learning
 * [How we grew from 0 to 4 million women on our fashion app, with a vertical machine learning approach | by Gabriel Aldamiz... | HackerNoon.com | Medium](https://medium.com/hackernoon/how-we-grew-from-0-to-4-million-women-on-our-fashion-app-with-a-vertical-machine-learning-approach-f8b7fc0a89d7) 패션 앱에서 소비자 경험 개선
 * [Tuning Model Performance | Uber Engineering Blog](https://eng.uber.com/tuning-model-performance/)
 * [9 Deadly Sins of Dataset Selection in ML | by Sandeep Uttamchandani | Jun, 2021 | Towards Data Science](https://towardsdatascience.com/9-deadly-sins-of-ml-dataset-selection-db7ee757efa0)
+* [머신러닝 모델링의 흔한 실수들 60+ 사례 중 데이터 관련 사례](https://jehyunlee.github.io/2021/02/24/Python-DS-62-mistakes/210222_%EC%9D%B4%EC%A0%9C%ED%98%84_mistakes.pdf)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
