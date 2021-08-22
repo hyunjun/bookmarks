@@ -37,6 +37,11 @@
 * [S.O.L.I.D. Principles Around You](https://dev.to/trekhleb/s-o-l-i-d-principles-around-you-1o17)
 * [The S.O.L.I.D Principles in Pictures | by Ugonna Thelma | Backticks & Tildes | Medium](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 * [SOLID 법칙 中 LID. 인터페이스 분리 원칙, 리스코프 치환 원칙, 의존성 역전 원칙에 대해… | by 남현욱 | 휴먼스케이프 기술 블로그 | Medium](https://medium.com/humanscape-tech/solid-%EB%B2%95%EC%B9%99-%E4%B8%AD-lid-fb9b89e383ef)
+* **모든 개발자가 알아야만 하는 SOLID 원칙**
+  * [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
+  * [1편(SRP/OCP)](http://doublem.org/SOLID_SRP_OCP)
+  * [2편(LSP/ISP/DIP)](http://doublem.org/SOLID_LSP_ISP_DIP)
+* [올바른 객체지향 설계 - 'solid 원칙' 이란?](https://dimohy.slogger.today/oriented-solid)
 * [인상적인 코딩 테스트 그리고 합격](https://www.popit.kr/%EC%9D%B8%EC%83%81%EC%A0%81%EC%9D%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%95%A9%EA%B2%A9/) 제목과 달리 가장 중요한 건 SOLID를 알고 구현하고 설명할 수 있어야 한다는 이야기
 * [싱글턴은 정적이지 않다](https://justhackem.wordpress.com/2017/07/05/singleton-is-not-static/)
 * [꼬리에 꼬리를 무는 - 유사 디자인 패턴들(1/2편)](http://hamait.tistory.com/868)
@@ -50,10 +55,6 @@
 * [새로운 프로그래밍 모델의 필요성](http://qwefgh90.github.io/actor/%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%AA%A8%EB%8D%B8%EC%9D%98-%ED%95%84%EC%9A%94%EC%84%B1/)
 * [여러 메서드가 동일 처리 흐름을 갖는 코드 정리 예시: 클래스 추출](http://javacan.tistory.com/entry/remove-duplicate-process-by-extracting-class)
 * [Object-oriented Programming in 7 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8)
-* **모든 개발자가 알아야만 하는 SOLID 원칙**
-  * [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
-  * [1편(SRP/OCP)](http://doublem.org/SOLID_SRP_OCP)
-  * [2편(LSP/ISP/DIP)](http://doublem.org/SOLID_LSP_ISP_DIP)
 * [Robert.C.Martin 블로그 번역-1 : 단일 책임 원칙(The Single Responsibility Principle)](https://medium.com/@joohotheman/robert-c-martin-블로그-번역-1-단일-책임-원칙-the-single-responsibility-principle-edabedde6240)
 * [Robert.C.Martin 블로그번역 -2 개방/폐쇄 원칙에 대하여(The Open/Closed Principle)](https://medium.com/@joohotheman/robert-c-martin-블로그번역-2-개방-폐쇄-원칙에-대하여-the-open-closed-principle-c80388209e89)
 * [10 OOP Design Principles Every Programmer Should Know](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65)
