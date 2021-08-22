@@ -439,6 +439,8 @@ SQL
 * [인덱스 생성, 조회](http://egloos.zum.com/hanaduri/v/19112)
 * [패스트캠퍼스 SQL튜닝캠프 2일차 - 인덱스 향상](http://jojoldu.tistory.com/167)
 * [Index에 대해서 정리해 봅니다. #MySQL](https://developer88.tistory.com/332)
+* [**MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기**](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
+* [BTree 그리고 인덱스(INDEX)의 정체](https://blog.naver.com/pjt3591oo/222479946713)
 * [mysql 커버링 인덱스란 무엇인가? | sTricky](https://stricky.tistory.com/441) cover index
 * [gildang MySQL tutorial](http://gildang.co.kr/?p=2383)
 * [MySQL Slow Query log Monitoring using Beats & ELK](http://www.slideshare.net/YoungHeonKim1/mysql-slow-query-log-monitoring-using-beats-elk)
@@ -525,7 +527,6 @@ SQL
 * [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
 * [MySQL for Excel](https://www.mysql.com/why-mysql/windows/excel)
 * [MySQL 전방탐색 지원](https://www.popit.kr/경-mysql-전방탐색-지원-축)
-* [**MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기**](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
 * [MySQL performance-schema-instruments 사용에 따른 성능 영향 실험](https://engineering.linecorp.com/ko/blog/mysql-research-performance-schema-instruments/)
 * [An in-depth look at Database Indexing](https://medium.freecodecamp.org/database-indexing-at-a-glance-bb50809d48bd)
 * **MySQL High Availability Framework Explained** ScaleGrid라는 MySQL service 회사에서 자사의 기술을 이용해 설명했지만, 일반적인 High Availability를 이해하기 위한 기초로 굉장히 좋은 글
@@ -544,6 +545,7 @@ SQL
 * [프로그래밍 초식 : DB 트랜잭션 조금 이해하기 1, 2 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%B4%88%EC%8B%9D-DB-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%A1%B0%EA%B8%88-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1-2)
 * [DB를 이용한 분산 락 구현(MariaDB, MySQL)](https://javacan.tistory.com/entry/distributed-lock-using-db)
 * [꿀벌개발일지 :: lock=none, algorithm=inplace 으로 테이블 변경하기](https://ohgyun.com/800)
+* [락(Lock)너는 무엇을 잠그는 녀석이니?](https://blog.naver.com/pjt3591oo/222479605880)
 * [MySQL 데이터베이스 한번에 끝내기 SQL Full Tutorial Course using MySQL Database](https://www.youtube.com/watch?v=vgIc4ctNFbc)
 * [MySQL InnoDB의 메모리 캐시 서버로 변신! | STAR::DATABASE](https://stardba.net/chan/mysql-innodb-as-cache-server-monitoring/)
   * [**MySQL InnoDB의 메모리 캐시 서버로 변신! – 설정편 –**](https://gywn.net/2019/09/mysql-innodb-as-cache-server-config/)
