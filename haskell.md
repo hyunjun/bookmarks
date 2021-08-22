@@ -298,6 +298,7 @@ Haskell
 * [Sierpinski Triangle - Polyglot FP for Fun and Profit - Haskell and Sc…](https://www.slideshare.net/pjschwarz/sierpinski-triangle-polyglot-fp-for-fun-and-profit-haskell-and-scala)
 * [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Has…](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-1)
 * [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Has…](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-2)
+* [N-Queens Combinatorial Problem - Polyglot FP for fun and profit - Haskell and Scala - Part 3](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-3)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
