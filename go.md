@@ -280,6 +280,7 @@ Go
   * 먼저 Prometheus가 접근할 수 있게 HTTP 요청을 받도록 열어주고 커넥션 수를 반환하도록 Collector를 구현하는 과정
 * [Golang Dependency Injection — { DEV SWEETER ; }](https://syntaxsugar.tistory.com/entry/Golang-Dependency-Injection)
 * [Golang Configuration — { DEV SWEETER ; }](https://syntaxsugar.tistory.com/entry/Golang-Configuration)
+* [Clean Swift Scaffold. 화면에 필요한 객체준비하는게 몹시 귀찮았던 iOS개발자의 go활용기 | by Hyeonsu Ha | 당근마켓 팀블로그 | Aug, 2021 | Medium](https://medium.com/daangn/clean-swift-scaffold-3e4b5cec475)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -459,6 +460,7 @@ Go
 * [Caire - Content aware image resize library](https://github.com/esimov/caire)
 * cgapp [Create Go App를 이용하여 편하게 프로젝트 생성](https://blog.naver.com/pjt3591oo/222151297558)
 * [Clarifai Golang Library - Unofficial library written for the Clarifai API](https://github.com/samuelcouch/clarifai)
+* [cobra: A Commander for modern Go CLI interactions](https://github.com/spf13/cobra)
 * [cmux - Connection multiplexer for GoLang: serve different services on the same port!](https://github.com/soheilhy/cmux)
 * [Daptin - Backend As A Service - GraphQL/JSON-API Headless CMS](https://github.com/daptin/daptin)
   * [Daptin - 오픈소스 Backend as a Service & Headless CMS | GeekNews](https://news.hada.io/topic?id=4667)
