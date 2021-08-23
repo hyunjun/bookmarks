@@ -306,6 +306,7 @@ ElasticSearch - Lucene
 * [무신사의 검색 품질, 어떤 지표로 관리할까? | by MUSINSA tech | MUSINSA tech](https://medium.com/musinsa-tech/map-416b5f143943)
 * [elastic-study-the-total-economic-impact-of-elastic-observability-and-security-solutions-2021-june.pdf](https://www.elastic.co/kr/pdf/elastic-study-the-total-economic-impact-of-elastic-observability-and-security-solutions-2021-june.pdf) Elastic Observability 및 Elastic Security 솔루션의 Total Economic Impact™
 * [How to monitor Spring Boot Microservices using ELK Stack? | Making Java easy to learn](https://javatechonline.com/how-to-monitor-spring-boot-microservices-using-elk-stack)
+* [알도개 엘라스틱 스택과 ELK 의의 - YouTube](https://www.youtube.com/watch?v=1x59QE2YS4E)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
