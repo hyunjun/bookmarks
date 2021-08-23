@@ -2468,6 +2468,7 @@ Javascript
 * [create-react-app에서 TypeScript - create-react-app으로 생성한 React 프로젝트에 TypeScript를 적용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/create-react-app/typescript/)
 * [egoing.github.io/react-tutorial-example](https://egoing.github.io/react-tutorial-example)
 * [React-web-tutorial - React tutorial for WEB beginners](https://github.com/kimxogus/React-web-tutorial)
+* [입문자를 위한 React.js. React는 현재 Front-End 기술자들이 많이 사용하는 기술이자… | by HAN BAEK | Aug, 2021 | Medium](https://medium.com/@bms6168/react-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-react-js-ba080e82f8b5)
 * [Try React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [번역 깊이 있는 리액트 개발 환경 구축하기](https://sujinlee.me/webpack-react-tutorial/)
 * [A Complete React Boilerplate Tutorial — From Zero to Hero](https://medium.freecodecamp.org/a-complete-react-boilerplate-tutorial-from-zero-to-hero-20023e086c4a)
