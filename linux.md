@@ -120,6 +120,7 @@ Linux
 * [리눅스 30주년 맞이 리누스 토발즈 인터뷰 번역 - 파트 2 | hacklog](https://sjp38.github.io/ko/post/torvalds_interview_for_30th_anniversary_of_linux_kernel_part2/)
 * [Linux 유저 권한 설정 및 그룹](https://developer88.tistory.com/393) /etc/group /etc/passwd
 * [Console Desktop Guide](https://pspodcasting.net/dan/blog/2018/console_desktop.html)
+* [Linux에서 로드 밸런서와 캐시 서버를 멀티 코어 스케일 시키기 위한 커널 튜닝 - Google Docs](https://docs.google.com/document/d/10v2_8dt3t_HDT56k_Wf2THwq3cPSDccj-Agfik087X8/edit)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
