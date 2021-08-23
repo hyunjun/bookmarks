@@ -42,6 +42,7 @@ Robot
 * [Getting started in Robotics | Arthur Allshire](https://allshire.org/getting-started-robotics/)
 * [Continual Learning for Robotics(1)](https://ropiens.tistory.com/133?category=992370)
 * [Continual Learning for Robotics(2)](https://ropiens.tistory.com/143?category=992370)
+* [Robot Dogs: A Programmer's Best Friend - YouTube](https://www.youtube.com/watch?v=U2nNI9Yp_0g)
 
 # Book
 * [추천! 로봇공학 / 기계학습 무료 교재(pdf) 15가지](http://t-robotics.blogspot.in/2015/01/pdf-15.html)
