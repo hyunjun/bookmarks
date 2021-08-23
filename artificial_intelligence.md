@@ -122,6 +122,7 @@ Artificial Intelligence
 * [서비스 향 AI 모델 개발하기 (1) - 학습 데이터셋 준비](https://www.upstage.ai/post/%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%96%A5-ai-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0)
 * [서비스 향 AI 모델 개발하기 (2) - 모델 테스트 & 모델 요구사항](https://www.upstage.ai/post/%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%96%A5-ai-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-2)
 * [서비스 향 AI 모델 개발하기 (3)](https://www.upstage.ai/post/%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%96%A5-ai-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-3)
+* ["AI는 만능 아냐···범위와 업무요건 명확히 해야" - ZDNet korea](https://zdnet.co.kr/view/?no=20210822105201)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
