@@ -193,6 +193,7 @@ Statistics
 * [아빠가 들려주는 예측모형](https://www.youtube.com/playlist?list=PLQrL7n-YSrfc2psUlBzyhs1ulzcE-7YPO)
 * [Dongjin | Basic Statistics(1)](https://dongqui.github.io//posts/basic-statistics)
 * [Dongjin | Basic Statistics(2)](https://dongqui.github.io//posts/basic-statistics2)
+* ["표본은 적어도 30개"는 어쩌다 국룰이 되었는가](https://data101.oopy.io/big-enough-sample-30)
 
 # Bayes
 * [쉽게 이해하는 베이즈 정리](http://blog.naver.com/anthouse28/221077405435)
