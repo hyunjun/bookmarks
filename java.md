@@ -396,7 +396,7 @@ Java
   * [Effective Java · Present](https://present.do/decks/60c3d9b88ae5e6673633b6eb/embed)
 
 # Concurrency Parallel Thread
-* [Java Concurrency Utilities](java.util.concurrent - Java Concurrency Utilities)
+* [Java Concurrency Utilities](https://docs.oracle.com/javase/8/docs/technotes/guides/concurrency/index.html)
 * [JDK IO 2014 - Java Concurrency and Non blocking IO - Dr Heinz M. Kabutz](https://www.youtube.com/watch?v=vkjNjZiMt4w)
 * [Call a non-reentrant native shared library from multiple Java threads](http://stackoverflow.com/questions/14553996/call-a-non-reentrant-native-shared-library-from-multiple-java-threads)
 * [Lamport's bakery algorithm](https://en.m.wikipedia.org/wiki/Lamport%27s_bakery_algorithm#Code_Examples)
