@@ -118,6 +118,7 @@ Functional Programming
 * [실무에서 써먹는 불변성 | Popit](https://www.popit.kr/%ec%8b%a4%eb%ac%b4%ec%97%90%ec%84%9c-%ec%8d%a8%eb%a8%b9%eb%8a%94-%eb%b6%88%eb%b3%80%ec%84%b1/)
 * [Charles Scalfani, Author of Functional Programming Made Easier: A Step-by-Step Guide](https://leanpub.com/podcasts/frontmatter/charles-scalfani-03-08-21)
 * [다양한 함수의 정의와 표현](https://brunch.co.kr/@graypool/41)
+* [How Functional Programming Can Make You A Better Developer - YouTube](https://www.youtube.com/watch?v=EqO4TcNLjl0)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
