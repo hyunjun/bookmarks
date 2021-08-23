@@ -133,6 +133,7 @@ Clojure
 * [Serverless Microservices - Ben Vandgrift & Adam Hunter](https://www.youtube.com/watch?v=w14NJkV5yAg)
 * [Why is Clojure bootstrapping so slow?](http://blog.ndk.io/2014/02/25/clojure-bootstrapping.html)
 * [The 2016 JUXT Clojure Technology Radar](https://juxt.pro/radar.html)
+* [JUXT Blog - The JUXT Clojure Radar 2021](https://www.juxt.pro/blog/radar-2021)
 * [Clojure Destructuring Tutorial and Cheat Sheet](https://gist.github.com/john2x/e1dca953548bfdfb9844)
 * [Clojure - Destructuring lists and maps tutorial - YouTube](https://www.youtube.com/watch?v=gdpzUpvZZJk)
 * [Destructuring in Clojure - Ostash.Dev](https://ostash.dev/posts/2021-05-10-destructuring-in-clojure/)
