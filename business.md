@@ -197,6 +197,7 @@ Business
 * [KPI가 피곤한 이유](https://brunch.co.kr/@lunarshore/316)
 * [잘못된 성과 지표의 위험 – Andrew Ahn](https://www.andrewahn.co/product/setting-wrong-metrics/)
 * [조직 문화: 직원들을 수동적 존재로 만들 것인가, 자기주도적인 인재로 만들 것인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/226677)
+* [우아한 조직 문화 이야기. ‘조직의 문화’ 라는 단어, 다소 광범위하고 모호한 단어입니다. 사전적… | by 주요한 | Next Blue | Aug, 2021 | Medium](https://medium.com/next-blue/%EC%9A%B0%EC%95%84%ED%95%9C-%EC%A1%B0%EC%A7%81-%EB%AC%B8%ED%99%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-6b4d4a281f99)
 * [내가 일하고 싶은 회사 만들기](https://brunch.co.kr/@yoon10003/44) 컬쳐북
 * [나는 회사에서 '프로'와 일하고 싶다](https://brunch.co.kr/@1slide1message/112)
 * [상거래 진화의 역사…실크로드에서 O2O까지](http://www.bloter.net/archives/241981)
@@ -384,6 +385,7 @@ Business
 * [수습 기간은 피드백 미팅에 달려있다](https://brunch.co.kr/@kaytee/11)
 * [미래 조직의 인재상 (앞으로 기업에서는 어떤 사람을 채용해야 할까?](https://blog.naver.com/hs_group/222438548992)
 * [IT 인재가 넝쿨째 모인다?··· CIO들이 전하는 ‘인복’의 비결 - CIO Korea](https://www.ciokorea.com/news/202879)
+* [핵심인재의 성과를 이끌어내는 방법 | 경력직은 잡인덱스](https://jobindexworld.com/contents/view/7504)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
@@ -513,6 +515,7 @@ Business
 * [시키는 일만 잘 하는 사람을 예찬하다](http://ppss.kr/archives/27900)
 * [실력만큼 중요한, 일 잘하는 이미지 쌓기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/218888)
 * [애자일, OKR, 플랫폼… 키워드가 당신을 ‘일잘’로 만들어주진 않는다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233881)
+* [일 잘하는 사람들의 5가지 습관 | ㅍㅍㅅㅅ](https://ppss.kr/archives/244794)
 * [비즈니스 리더가 스스로에게 꼭 던져야 할 질문 4가지](http://ppss.kr/archives/37789)
 * [쪼잔한 리더가 성공한다](http://ppss.kr/archives/27042)
 * [3가지 부정의 힘으로 조직의 실패를 예방하라](http://ppss.kr/archives/37755)
