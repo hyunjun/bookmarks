@@ -890,6 +890,7 @@ Programming Books
 * (NOT YET) [나만의 데이터 분석 플랫폼 엘라스틱서치](https://bjpublic.tistory.com/397)
 * (NOT YET) [엘라스틱 스택 개발부터 운영까지](https://www.onlybook.co.kr/entry/elasticstack)
   * [엘라스틱 스택 개발부터 운영까지](https://jhrogue.blogspot.com/2021/08/blog-post_20.html)
+  * [독서광 엘라스틱 스택 개발부터 운영까지 - YouTube](https://www.youtube.com/watch?v=_TWmXx1ECd4)
 
 # Finance
 
