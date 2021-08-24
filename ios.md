@@ -132,6 +132,8 @@ iOS
 * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
 * [Jandi: 🌱 Growth everyday your github contributions in macOS status bar](https://github.com/techinpark/Jandi)
 * [libimobiledevice - A cross-platform software protocol library and tools to communicate with iOS® devices natively](http://www.libimobiledevice.org/)
+* [needle: Compile-time safe Swift dependency injection framework](https://github.com/uber/needle)
+  * [모듈화하고 Needle 적용해보기. iOS Dependency Injection by Uber’s… | by Hyeonsu Ha | 당근마켓 팀블로그 | Aug, 2021 | Medium](https://medium.com/daangn/%EB%AA%A8%EB%93%88%ED%99%94%ED%95%98%EA%B3%A0-needle-%EC%A0%81%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0-bd5e9f3c450b)
 * [PINCache - Fast, non-deadlocking parallel object cache for iOS and OS X](https://github.com/pinterest/PINCache)
 * [ReactNativeDuckie : iOS App Development with React Native and ClojureScript](https://github.com/cheolhee/ReactNativeDuckie)
   * [iOS App 개발 with React Native + ClojureScript](http://www.slideshare.net/cheolhee/ios-app-with-react-native-clojurescript)
@@ -467,7 +469,7 @@ iOS
 * [Publishers, Subscribers 알아보기](https://brunch.co.kr/@tilltue/66)
 * [iOS 14.5 NavigationLink의 Unable to present 오류 해결하기](https://pilgwon.github.io/post/navigation-link-trouble-shooting)
 
-## Library Swift
+## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
 * [Bond - A Swift binding framework](https://github.com/SwiftBond/Bond)
 * [Bridge - Simple Typed JSON HTTP Networking in Swift 2.0](https://github.com/rawrjustin/Bridge)
