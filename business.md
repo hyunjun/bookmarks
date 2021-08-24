@@ -355,6 +355,7 @@ Business
 * [순항 중인 사업 뒤집기와 리팩토링](https://brunch.co.kr/@graypool/107)
 * [The rise of the one-person unicorn](https://www.nothingventured.com/the-rise-of-the-one-person-unicorn/)
   * [1인 유니콘 기업의 등장 | GeekNews](https://news.hada.io/topic?id=4834)
+* [쿠팡은 아마존, 네이버는 쇼피파이](https://brunch.co.kr/@graypool/132)
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
