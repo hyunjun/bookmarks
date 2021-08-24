@@ -320,6 +320,7 @@ SQL
 * [SQL서버 커밋할 수 없는 트랜잭션](https://hackhyun.tistory.com/288)
 * [MSSQL Server Tutorial For beginners - Techringe](https://www.techringe.com/mssql-server-tutorial-for-beginners/)
 * [SQL서버 VALUES의 다양한 용법(테이블 값 생성자) :: 전산이야기](https://hackhyun.tistory.com/295)
+* [맥북 docker 에 mssql 설치 하기](https://stricky.tistory.com/500)
 
 # MySQL
 * practice
