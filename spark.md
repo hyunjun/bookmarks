@@ -792,6 +792,8 @@
 * [Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning http://oryx.io](https://github.com/OryxProject/oryx)
   * [Production Recommendation Systems with Cloudera](http://blog.cloudera.com/blog/2018/02/production-recommendation-systems-with-cloudera/) 기계 학습 기능을 위한 인프라 및 데이터 파이프라인을 구축하기 위해 Cloudera Oryx 프로젝트를 사용하는 예제
   * Kafka + Spark + Cloudera Hadoop 를 이용한 추천시스템
+* [raydp: RayDP: Distributed data processing library that provides simple APIs for running Spark on Ray and integrating Spark with distributed deep learning and machine learning frameworks](https://github.com/oap-project/raydp)
+  * [Build Large-Scale Data Analytics and AI Pipeline Using RayDP - YouTube](https://www.youtube.com/watch?v=B4iXQtxX2cs)
 * [spark-vlbfgs - an implementation of the Vector-free L-BFGS solver and some scalable machine learning algorithms for Apache Spark](https://github.com/yanboliang/spark-vlbfgs)
 * TransmogrifAI [Chetan Khatri - TransmogrifAI - Automate ML Workflow with power of Scala and Spark at massive scale](https://www.youtube.com/watch?v=96LLM2UI07o)
 
