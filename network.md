@@ -37,6 +37,8 @@ Network
 * [네트워크 기초(2) - OSI 7계층 - 1계층: 물리 계층 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/network-basic02/)
 * [네트워크 기초(3) - OSI 7계층 - 2계층: 데이터 링크 계층 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/network-basic03/)
 * [네트워크 기초(4) - OSI 7계층 - 3계층: 네트워크 계층 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/network-basic04/)
+* [네트워크 기초(5) - OSI 7계층 - 4계층: 전송 계층 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/network-basic05/)
+* [네트워크 기초(6) - OSI 7계층 - 5,6,7계층 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/network-basic06/)
 * [SDN - Software Defined Network](https://naleejang.tistory.com/224)
 * [SDN and OVN(Open Virtual Network)](https://naleejang.tistory.com/225)
 * [OVN Network Creating Process](https://naleejang.tistory.com/226)
