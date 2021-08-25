@@ -21,6 +21,7 @@ Programmer
 * [내가 StackOverflow를 사용하는 방법](https://emaren84.github.io/blog/archivers/how-i-use-stackoverflow-kor)
 * [046.016 컴퓨터과학이 여는 세계](http://ropas.snu.ac.kr/~kwang/046.016/benew/)
 * [30년간 개발자로 살면서 배운 것 Lessons From A Lifetime Of Being A Programmer](https://taegon.kim/archives/6546)
+* [가장 똑똑한 소프트웨어 엔지니어에게 배운 10가지 교훈 | 요즘IT](https://yozm.wishket.com/magazine/detail/969/)
 * [11 Pieces Of Advice For Programmers | by Daan | Level Up Coding](https://levelup.gitconnected.com/11-pieces-of-advice-for-programmers-8bcbad6330e9)
 * [All the best engineering advice I stole from non-technical people | by Marianne Bellotti | Medium](https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f)
 * [**실리콘밸리 전설들의 수다: Masters of Scale**](http://www.andrewahn.co/silicon-valley/masters-of-scale/)
