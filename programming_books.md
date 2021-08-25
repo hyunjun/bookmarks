@@ -491,6 +491,7 @@ Programming Books
 * (NOT YET) [엑셀과 비교하며 배우는 파이썬 데이터 분석](https://jpub.tistory.com/1159)
 * (NOT YET) [루비페이퍼 :: 파이썬을 이용한 데이터 분석의 정석](https://www.rubypaper.co.kr/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EC%9D%98-%EC%A0%95%EC%84%9D)
 * (NOT YET) [실무 예제로 배우는 데이터 공학](https://jpub.tistory.com/1175)
+* (NOT YET) [데이터 분석가의 숫자유감](https://jhrogue.blogspot.com/2021/08/blog-post_25.html)
 
 ## Deep Learning
 * 가장 빨리 만나는 딥러닝 with Caffe
