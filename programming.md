@@ -389,6 +389,7 @@ Programming
 * [서버 분산 처리 환경에서 데이터의 불일치를 어떻게 해결할까? Part 1 | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p2/)
 * [서버 분산 처리 환경에서 세션 불일치를 어떻게 해결할까? Part 2 | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p3/)
 * [**무료로 개인 프로젝트 호스팅 하기 | 딥백수**](https://dl4ab.github.io/2020/09/06/free-web-server-for-your-portfolio/)
+* [무료로 웹호스팅, 서비스 이용하기 :: 개발의 모든 이야기](https://uznam8x.tistory.com/84)
 * [basics-of-server-development: 서버 개발자로서 홀로서기](https://github.com/Zeniuus/basics-of-server-development)
 * [A Guide on Good Backend Coding Practices | by Jimmy Soh | The Internal Startup | Medium](https://medium.com/the-internal-startup/a-guide-on-good-backend-coding-practices-e43f80422559) 기본 원칙
 * [나의 백엔드 배포 환경 정책 · /usr/lib/libsora.so](https://libsora.so/posts/my-backend-deployment-environment-policy/) development environment
