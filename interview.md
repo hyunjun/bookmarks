@@ -775,6 +775,7 @@ Interview
 # Salary 연봉
 * [연봉협상시 기억할 15가지 규칙](http://ppss.kr/archives/57332)
 * [앞자리가 달라지는 이직 연봉 협상 전략 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241446)
+* [연봉 협상에 실패하는 이유는 ‘이것’ 때문이다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/244823)
 * [영어면접 질문: What's Your Current Salary? — 업플라이 #Upfly](https://www.upfly.me/blog/how-to-negotiate-salary/)
 * [외국계 연봉협상 기본급 이외에 협상할 수 있는 것들](https://www.youtube.com/watch?v=xiYOJ-tHe8s)
 * [Do Not Disclose Your Salary to Recruiters](http://jacquesmattheij.com/do-not-disclose-your-salary-to-recruiters)
