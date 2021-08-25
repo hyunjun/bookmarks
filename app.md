@@ -574,6 +574,7 @@ App
     * [The Ultimate Atom Editor Setup (+for JS/React)](https://medium.com/productivity-freak/my-atom-editor-setup-for-js-react-9726cd69ad20)
   * VS Code, visual studio code
     * [VS Code 소개 및 설치방법](http://gomcine.tistory.com/entry/VS-Code-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0)
+    * [Visual Studio Code 기본 사용법 - YouTube](https://www.youtube.com/watch?v=K8qVH8V0VvY)
     * [Visual Studio Code를 파이썬 IDE 로 이용해 보기](http://mcchae.egloos.com/11262544)
     * [Visual Studio Code의 Golang 개발 환경](https://blog.outsider.ne.kr/1351)
     * [개발 생산성을 올려주는 VSCode의 소소(?)한 기능들](https://www.vobour.com/%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EC%98%AC%EB%A0%A4%EC%A3%BC%EB%8A%94-vscode%EC%9D%98-%EC%86%8C%EC%86%8C-%ED%95%9C-%EA%B8%B0%EB%8A%A5%EB%93%A4)
@@ -919,7 +920,9 @@ App
 * [애플 실리콘 M1 맥북 에어에 설치하면 좋을 iOS 앱 5가지 | Open Sea](https://opensea.kr/m1-%EB%A7%A5%EB%B6%81-%EC%97%90%EC%96%B4%EC%97%90-%EC%84%A4%EC%B9%98%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%84-ios-%EC%95%B1-5%EA%B0%80%EC%A7%80/)
 * [주간 인프런 #33 생산성을 높여요 - Mac 추천 생산성 앱 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-33)
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
-* Alfred [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
+* Alfred
+  * [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
+  * [네이버 카페 검색용 알프레드 워크플로우 제작 - 코드쓰는사람](https://taegon.kim/archives/10357)
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
 * [AntiRTDPI macOS kernel extension helping to neutralise Rostelecom's passive DPI](https://github.com/dzhidzhoev/AntiRTDPI) 웹 차단 우회
 * [appcleaner](https://freemacsoft.net/appcleaner/)
