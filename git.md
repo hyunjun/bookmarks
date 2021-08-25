@@ -633,6 +633,7 @@ Git
   * [원티드랩 프론트엔드 팀의 Pull Request 양식 및 자동화 | by Chaeryn Park | 원티드 제품 팀블로그 | Mar, 2021 | Medium](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C%EB%9E%A9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%8C%80%EC%9D%98-pull-request-%EC%96%91%EC%8B%9D-%EB%B0%8F-%EC%9E%90%EB%8F%99%ED%99%94-42e393832ffc)
   * [Github에서 PR 생성 시 Reviewer 자동으로 할당하기 (feat. CODEOWNERS)](https://goodgid.github.io/Github-CODEOWNERS/)
   * [번역 Art of Clean Pull Requests - 클린한 Git PR의 기술](https://blog.sonim1.com/224)
+  * [Pull Request Review GitHub App 을 만들어보며.. | by Maeng Sol | Aug, 2021 | Medium](https://msolo021015.medium.com/pull-request-review-github-app-%EB%A7%8C%EB%93%A4%EA%B8%B0-83fd18d7ecaa)
 * push
   * [How to resolve a GitHub error “push declined due to email privacy restrictions” when you try to push a change | by Bryant Jimin Son | Feb, 2021 | Medium](https://bryantson.medium.com/how-to-resolve-a-github-error-push-declined-due-to-email-privacy-restrictions-when-you-try-to-b748f6ca0bcd)
 * `rebase`
