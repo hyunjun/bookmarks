@@ -910,6 +910,7 @@ Scala
     * [Zymposium — Smart Assertions - YouTube](https://www.youtube.com/watch?v=lgCb4-4M-fw)
     * [Zymposium — Integrating the learning from TypeScript in designing a ZIO powered by Scala 3 - YouTube](https://www.youtube.com/watch?v=toSdrNimrTc)
     * [Zymposium - ZIO Flow - YouTube](https://www.youtube.com/watch?v=DDZ8HgWOpBk)
+    * [Zymposium — Full Stack Frontend - YouTube](https://www.youtube.com/watch?v=lJvoeYlRf-g)
     * [Part 1 - What is ZIO and should you learn it? - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=XwMKw03w8bs)
     * [Part 2 - `ZIO[_, _, Success]` - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=7MNY0o2i_vg)
     * [Part 3 - `ZIO[_, Error, _]` & Variance - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=oKaQXxEa7a8)
