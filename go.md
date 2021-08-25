@@ -56,13 +56,6 @@ Go
 * [Distributed Read-Write Mutex in Go](https://github.com/jonhoo/drwmutex)
 * [Using Go at The New York Times](https://www.youtube.com/watch?v=bAQ9ShmXYLY)
 * [Four Days of Go](http://www.evanmiller.org/four-days-of-go.html)
-* [Manual Memory Management in Go](https://deferpanic.com/blog/manual-memory-management-in-go/)
-* [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
-* [Go memory ballast: How I learned to stop worrying and love the heap](https://blog.twitch.tv/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2)
-* [Memory Optimizations for Go Systems | by Nishant Roy | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/memory-optimizations-for-go-systems-48d95cf64a13)
-* [research!rsc: Hardware Memory Models (Memory Models, Part 1)](https://research.swtch.com/hwmm)
-* [research!rsc: Programming Language Memory Models (Memory Models, Part 2)](https://research.swtch.com/plmm)
-* [research!rsc: Updating the Go Memory Model (Memory Models, Part 3)](https://research.swtch.com/gomm)
 * [Why Go for Decision Trees?](http://datascience.systemsbiology.net/tag/cloudforest/)
 * [Go in Go](http://talks.golang.org/2015/gogo.slide)
 * [The State of Go](http://talks.golang.org/2015/state-of-go-may.slide)
@@ -677,6 +670,19 @@ Go
 * [dotGo 2017 - Francesc Campoy Flores - Machine Learning and Go](https://www.youtube.com/watch?v=lcyNjgEG9H8)
 * [Gorse - Open Source Recommender System](https://gorse.io/)
   * [Gorse - 추천 시스템 오픈소스 | GeekNews](https://news.hada.io/topic?id=4647)
+
+# Memory
+* [Manual Memory Management in Go](https://deferpanic.com/blog/manual-memory-management-in-go/)
+* [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
+* [Go memory ballast: How I learned to stop worrying and love the heap](https://blog.twitch.tv/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2)
+* [Memory Optimizations for Go Systems | by Nishant Roy | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/memory-optimizations-for-go-systems-48d95cf64a13)
+* [research!rsc: Hardware Memory Models (Memory Models, Part 1)](https://research.swtch.com/hwmm)
+* [research!rsc: Programming Language Memory Models (Memory Models, Part 2)](https://research.swtch.com/plmm)
+* [research!rsc: Updating the Go Memory Model (Memory Models, Part 3)](https://research.swtch.com/gomm)
+* [Go 언어의 GC에 대해 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/go-gc/) 1.10 기준
+* [Avoiding Memory Leak in Golang API | Hacker Noon](https://hackernoon.com/avoiding-memory-leak-in-golang-api-1843ef45fca8)
+* [Golang Long Time Performance Test - Memory Leak 해결 과정 — { DEV SWEETER ; }](https://syntaxsugar.tistory.com/entry/Golang-Long-Time-Performance-Test-Memory-Leak-%EB%A9%94%EC%9D%B8-%EB%94%94%EC%89%AC)
+* [**Golang Memory Management — { DEV SWEETER ; }**](https://syntaxsugar.tistory.com/entry/Golang-Memory-Management) 1.16 기준
 
 # Monitoring
 * [Monitoring microservices with Synthetic Transactions in Go](http://labs.unacast.com/2016/03/10/monitoring-microservices-synthetic-transactions-in-go/)
