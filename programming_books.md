@@ -1355,6 +1355,10 @@ Programming Books
 * (NOT YET) [왜 리더인가(이나모리 가즈오 지음/김윤경 옮김/다산북스 펴냄) - YouTube](https://www.youtube.com/watch?v=_mhyRrB0pWs)
 * (NOT YET) [순서 파괴, 아마존의 유일한 성공 원칙](https://brunch.co.kr/@dream40k/121)
 * (NOT YET) [넷플릭스, '규칙 없음'](https://brunch.co.kr/@pliossun/170)
+* [나는 아마존에서 미래를 다녔다, 박정준](http://valuevine.kr/archives/2560)
+  * ★★★★☆ 2021.08.25
+  * 아마존에 12년이나 근무했던 개발자(였다가 경영분석으로 변경)였고 지금은 자기 사업을 하는 저자의 아마존에서의 경험을 잘 보여준 책
+  * 너무 긍정적인 쪽으로 치우친 게 아닌가 싶긴 하지만 그래도 배울 점이 많음
 
 # Math
 
