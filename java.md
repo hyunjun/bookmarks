@@ -471,6 +471,7 @@ Java
 * [Java Lambda (5) 변수 범위](https://futurecreator.github.io/2018/08/02/java-lambda-variable-scope/)
 * [Java Lambda (6) 예외 처리](https://futurecreator.github.io/2018/08/09/java-lambda-handling-exception/)
 * [Java Lambda (7) 람다와 클로저](https://futurecreator.github.io/2018/08/09/java-lambda-and-closure/)
+* [java 람다 개념을 이해할 때 중요할 법한 function apply 메서드를 알아봅시다](https://codingdog.tistory.com/587)
 * [GOTO 2019 • Achieving Functional Programming in Java • John Napier](https://www.youtube.com/watch?v=VUH_HhAaNpc)
 * [slieb.org - Java 8 Functional Interfaces with Exceptions](http://slieb.org/blog/throwable-interfaces/)
 * [What is a stream ?| introduction to Stream in java _ Programobile](https://programobile.blogspot.com/2021/05/what-is-stream-introduction-to-stream.html)
