@@ -922,6 +922,7 @@ Scala
     * [Part 9 - Effect Tracking - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=xwh0BAJtZFo)
     * [ZIO News - Issue #28 | Revue](https://www.getrevue.co/profile/zio/issues/zio-news-issue-28-654279)
     * [Organizing Services with ZIO and ZLayers - Rock the JVM Blog](https://blog.rockthejvm.com/structuring-services-with-zio-zlayer/)
+    * [Home | Ziverge](https://ziverge.com/blog/)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
