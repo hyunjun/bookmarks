@@ -4373,6 +4373,7 @@ Python
 * [Reimplementing a Solaris command in Python gained 17x performance improvement from C](https://blogs.oracle.com/solaris/reimplementing-a-solaris-in-python-gained-17x-performance-improvement-from-c)
 * [Dictionary Merging and Updating in Python 3.9](https://medium.com/better-programming/dictionary-merging-and-updating-in-python-3-9-4ac67c667ce)
 * [New Features in Python 3.9](https://towardsdatascience.com/new-features-in-python39-2529765429fe)
+* [What's new in Python 3.9? - DeepSource](https://deepsource.io/blog/python-3-9-whats-new/)
 * [Take a Look at the Awesome New Features Coming in Python 3.9 | by Michael Krasnov | Better Programming | Medium](https://medium.com/better-programming/take-a-look-at-the-awesome-new-features-coming-in-python-3-9-8753c494de39)
 * [10 Awesome Python 3.9 Features. The Must-Know Python 3.9 Features | by Farhad Malik | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/10-awesome-python-3-9-features-b8c27f5eba5c)
 * [파이썬(Python) 3.9 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/python-3-9-release-note-summary)
