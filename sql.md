@@ -419,6 +419,7 @@ SQL
 * [MySQL NULL 처리 삽질](http://www.popit.kr/mysql-null-%EC%B2%98%EB%A6%AC-%EC%82%BD%EC%A7%88/)
 * [리눅스 서버 구축하기 7. MySQL 설치](http://library.gabia.com/contents/infrahosting/3564)
 * [**MySQL Tutorial**](http://www.mysqltutorial.org/)
+* [왕초보용! 갖고 노는 MySQL 데이터베이스 강좌 - YouTube](https://www.youtube.com/watch?v=dgpBXNa9vJc)
 * [how innodb lost its advantage](http://dom.as/2015/04/09/how-innodb-lost-its-advantage/)
 * [How MySQL Is Able To Scale To 200 Million QPS - MySQL Cluster](http://highscalability.com/blog/2015/5/18/how-mysql-is-able-to-scale-to-200-million-qps-mysql-cluster.html)
 * [Working with JSON in MySQL](https://scotch.io/tutorials/working-with-json-in-mysql)
