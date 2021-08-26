@@ -274,6 +274,7 @@ Git
   * 프로필에서 스크립트 등을 원하는 대로 사용할 수는 없으므로 액션을 이용해서 SVG로 생성해서 보여주는 과정을 거치게 되는데 해당 기능을 원래 구현했던 개발자의 소스를 참고해서 이 기능이 어떻게 구현되는지 설명
 * [Github action를 이용한 커뮤니티 행사 관리/운영 하기! | JaeSeoKim's Blog](https://jaeseokim.dev/42Seoul/Github_action%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0_%ED%96%89%EC%82%AC_%EA%B4%80%EB%A6%AC%EC%9A%B4%EC%98%81_%ED%95%98%EA%B8%B0/)
 * [Automating a software company with GitHub Actions - PostHog](https://posthog.com/blog/automating-a-software-company-with-github-actions)
+* [Github Actions 로컬 개발 환경 구성하기 - Burt.K](https://blog.burt.pe.kr/posts/skyfe79-blog.contents-980082002-post-26/)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
