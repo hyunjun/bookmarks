@@ -461,6 +461,7 @@ AWS
 * [Modular imports with AWS Amplify. The latest release of AWS Amplify now… | by Nader Dabit | Medium](https://medium.com/@dabit3/modular-imports-with-aws-amplify-daeb387b6985)
 * [Amplify Console에 monorepo를 연결해서 웹호스팅 할 때의 주의사항 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/5637/)
 * [클라우드 네이티브 기반 사진 공유 애플리케이션 만들어 보기 – 김필중:: AWS Builders Online Series - YouTube](https://www.youtube.com/watch?v=piQI4Hs2jmk)
+* [AWS Amplify 와 Serverless 구현에 대한 정리 # AppSync](https://developer88.tistory.com/344)
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -1149,6 +1150,7 @@ AWS
 * [입 개발 Databricks Terraform Provider Install | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/30/%ec%9e%85-%ea%b0%9c%eb%b0%9c-databricks-terrafrom-provider-install/)
 * [Terraform Best Practices - DevOps Unicorns 2019](https://www.slideshare.net/AntonBabenko/terraform-best-practices-devops-unicorns-2019)
 * [Welcome - Terraform Best Practices](https://www.terraform-best-practices.com/)
+* [DevOps팀의 Terraform 모험 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/terraform-adventure/)
 
 # Tutorial
 * [4분코딩 아마존 웹 서비스(Amazon Web Services)란?](https://www.youtube.com/watch?v=II5wMA5NrVM)
