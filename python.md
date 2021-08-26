@@ -2605,6 +2605,7 @@ Python
   * [Craft your own GUIs with Python and Tkinter](https://www.youtube.com/watch?v=Wb1YFgHqUZ8)
   * [How to Program a GUI Application (with Python Tkinter)!](https://www.youtube.com/watch?v=D8-snVfekto)
   * [파이썬 Python 코딩 - GUI tkinter 음료주문 프로그램 업그레이드 - YouTube](https://www.youtube.com/watch?v=qEX8QM_hFT4)
+  * [How to Build a Weather App in Python? | GeeksforGeeks - YouTube](https://www.youtube.com/watch?v=3w0XfBU2ufw)
 
 # IPython & Jupyter
 * [Jupyter](http://jupyter.org/try)
