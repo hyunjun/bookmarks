@@ -920,7 +920,7 @@ Linux
 * [Timers in the Linux kernel](https://github.com/0xAX/linux-insides/blob/master/Timers/timers-1.md)
 * [Writing a Simple Linux Kernel Module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
 * [Initialization](https://github.com/0xAX/linux-insides/tree/master/Initialization)
-* [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/html/index.html)
+* [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [Kernel bypass](https://blog.cloudflare.com/kernel-bypass/)
 * [Linux kernel development](https://github.com/0xAX/linux-insides/blob/master/Misc/contribute.md)
 * [BPF / XDP 8월 세미나 KossLab](https://www.slideshare.net/TaeungSong/bpf-xdp-8-kosslab)
