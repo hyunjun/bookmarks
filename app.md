@@ -846,6 +846,7 @@ App
 * [20 essential Mac keyboard shortcuts to save you a click | by Popular Science | Popular Science | Medium](https://medium.com/popular-science/20-essential-mac-keyboard-shortcuts-to-save-you-a-click-36a1d71216aa)
 * [Some Differences between macOS and Common Unix Systems](https://www.dyx.name/posts/macunix.html)
 * [Hardening macOS - Ricard Bejarano](https://blog.bejarano.io/hardening-macos/)
+* [Xcode 파일청소로 맥 하드용량 확보 - dobiho on HCI](http://dobiho.com/7192/)
 
 ## Mac App
 * [**practice - 최초 설치 후 install**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)
