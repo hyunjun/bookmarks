@@ -649,6 +649,7 @@ Data Science
 * [카카오 AI추천 : 토픽 모델링과 MAB를 이용한 카카오 개인화 추천 – tech.kakao.com](https://tech.kakao.com/2021/06/25/kakao-ai-recommendation-01/) Multi Armed Bandit
 * [Advertiser Recommendation Systems at Pinterest | by Pinterest Engineering | Pinterest Engineering Blog | Jul, 2021 | Medium](https://medium.com/pinterest-engineering/advertiser-recommendation-systems-at-pinterest-ccb255fbde20)
 * [Recommender System KR](https://root-decimal-c5d.notion.site/Recommender-System-KR-5b773a06e99145e6855bae391c94dc44)
+* [유튜브는 내가 좋아할 다음 영상을 어떻게 추천해줄까? (알기 쉽게 설명한 구글 최신 논문) – techNeedle 테크니들](https://techneedle.com/archives/38234)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
