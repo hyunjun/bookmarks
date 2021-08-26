@@ -849,6 +849,7 @@ Programming Books
 * (NOT YET) [클라우드 네이티브를 위한 쿠버네티스 실전 프로젝트 | 동양북스](https://www.dongyangbooks.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2720)
 * (NOT YET) [15단계로 배우는 도커와 쿠버네티스](https://jpub.tistory.com/1090)
   * [쿠버네티스 시작하기 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=65765967)
+* (NOT YET) [Kubernetes: Up & Running • Brendan Burns & Matt Turner • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Nr3i2r-ffnc)
 
 # Domain Driven Development DDD
 * [도메인 주도 설계(에릭에반스) -1](https://ash84.net/2017/06/04/domain-driven-development/)
