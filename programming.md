@@ -1209,6 +1209,7 @@ Programming
 * [Building MSA in Enterprise - 권용석(삼성전자 무선사업부), 정영준(AWS) :: 제21회 AWSKRUG Container모임 - YouTube](https://www.youtube.com/watch?v=O-4hag2jDBc)
 * [Pitfalls and Patterns in Microservice Dependency Management - YouTube](https://www.youtube.com/watch?v=kjbfvP65Jn0)
 * [API vs. Microservices: The Complete Guide - Snipcart](https://snipcart.com/blog/api-vs-microservices-architecture)
+* [Databases in the Microservices World - YouTube](https://www.youtube.com/watch?v=-9Veoch50Bg) micro database, event sourcing등. 기초적인 내용(이지만 잊기 쉬우니 보면 좋음)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
