@@ -817,6 +817,8 @@ Clojure
       2. 이벤트 방식 프로그래밍 라이브러리인 manifold(https://github.com/ztellman/manifold)의 deferred를 리턴하는 방식
       3. core.async의 채널을 리턴하는 방식
   * [async-compojure-example](https://github.com/eunmin/async-compojure-example)
+* [corona-project: Europe COVID-19 statistics website generator](https://github.com/Sangdol/corona-project)
+  * [이상현 IN 베를린 :: 유럽 코로나 확진자 수 프로젝트 개발/실패기](https://iamsang.com/blog/2021/08/25/corona-project/)
 * [CounterClockWise IDE](https://github.com/ccw-ide) Eclipse Plugin for the Clojure Language
 * [cryogen - Static sites generated with Clojure](http://cryogenweb.org/)
 * [Crux - The open database with temporal graph query](https://opencrux.com/)
