@@ -630,6 +630,7 @@ Business
 * [존댓말 쓰는 리더](https://brunch.co.kr/@joonwriter/5)
 * [신임 리더가 경계해야 할 네 가지 증후군 | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/%ec%8b%a0%ec%9e%84-%eb%a6%ac%eb%8d%94%ea%b0%80-%ea%b2%bd%ea%b3%84%ed%95%b4%ec%95%bc-%ed%95%a0-%eb%84%a4-%ea%b0%80%ec%a7%80-%ec%a6%9d%ed%9b%84%ea%b5%b0/)
 * [이해관계자 시대의 리더십 | 리더십 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/8_1/article_no/1741) leadership에만 국한되지 않고 business 전반에 걸친 이야기
+* [Biz times 강한 리더는 필요하다…조직원을 강하게 만드는 리더는 꼭 필요하다 - 매일경제](https://www.mk.co.kr/news/business/view/2021/08/824257/)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
