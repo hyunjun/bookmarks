@@ -3731,6 +3731,7 @@ Javascript
 * [TypeScript Handbook 한글 번역본](https://vriz.notion.site/TypeScript-Handbook-45b1bc86f2ed4886b393a5586fcf2a31) 4.3.5를 기준 번역(+해석)본
 * [tsconfig의 모든 것 - 1. Root fields | Evans Library](https://evan-moon.github.io/2021/07/30/tsconfig-options-root-fields/)
 * [tsconfig의 모든 것 - 2. Compiler options > Type Checking | Evans Library](https://evan-moon.github.io/2021/08/08/tsconfig-compiler-options-type-check/)
+* [tsconfig.json Type Checking](https://velog.io/@juunini/tsconfig.json-Type-Checking)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
