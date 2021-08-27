@@ -1588,6 +1588,7 @@ Java
 * [Spring Boot Custom Filters | Filter Registration Bean | Swagger Integration with Filters | WebFilter - YouTube](https://www.youtube.com/watch?v=Bcne87cnzHg)
 * [Connect Spring Boot REST API with Firebase | Cloud Firestore | Google Firebase | RESTFUL CURD API - YouTube](https://www.youtube.com/watch?v=auFJziKIVnM)
 * [Spring Boot Admin Server | Managing & Monitoring Microservices by using Spring Boot Admin Server - YouTube](https://www.youtube.com/watch?v=B2Gf9GRGKn4)
+* [Build Reactive Java Microservices with Spring Boot and JHipster - YouTube](https://www.youtube.com/watch?v=OKjgooXQEj4)
 * [2.4 부터 변경된 구성파일 처리방식 살펴보기 - I'm honeymon(JiHeon Kim)](https://honeymon.io/tech/2021/01/16/spring-boot-config-data-migration.html)
 * [Spring Boot 2.2.0 : Quicker startup times with Lazy Initialization | by Sai Pitchuka | Medium](https://saibaburvr.medium.com/spring-boot-2-2-0-quicker-startup-times-with-lazy-initialization-2db2eb258dea)
 * [spring-batch-querydsl: 스프링배치와 QuerydslPagingItemReader](https://github.com/jojoldu/spring-batch-querydsl)
