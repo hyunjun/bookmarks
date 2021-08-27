@@ -373,6 +373,8 @@ Clojure
 * [On Types](https://blog.cleancoder.com/uncle-bob/2021/06/25/OnTypes.html)
 * [Building Site - YouTube](https://www.youtube.com/playlist?list=PLrCB9bq0iVIoCCV7SGJH1bXTrDfp2mP4i)
 * [Datomic Cloud - Getting Started - YouTube](https://www.youtube.com/watch?v=6Sn2PTzglCw)
+* [Data validation in Clojure - Ostash.Dev](https://ostash.dev/posts/2021-08-22-data-validation-in-clojure/)
+* [Just a Blog: Clojure CLI Tools in Debian - GSoC 2021 Partial Evaluation Report](http://allentiak.github.io/posts-output/2021-08-13--gsoc-partial-evaluation-report--clojure.build.tools.in.debian/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -1088,6 +1090,7 @@ Clojure
   * [Conjure babashka auto nREPL jack in - asciinema](https://asciinema.org/a/415758)
   * [babashka-sql-pods: Babashka pods for SQL databases](https://github.com/babashka/babashka-sql-pods)
   * [bb-clis: Babashka CLIs](https://github.com/cldwalker/bb-clis)
+  * [bb-guestbook](https://github.com/SVMBrown/bb-guestbook) Example webserver with Babashka
   * [pod-babashka-sqlite3: A babashka pod for interacting with sqlite3](https://github.com/babashka/pod-babashka-sqlite3)
   * [reorder.clj babashka script for reordering requires and imports in clojure files](https://gist.github.com/laurio/01530ea7700752885df21e92bb926f75)
   * selmer [Babashka Selmer << in action – Nextjournal](https://nextjournal.com/borkdude/babashka-selmer)
