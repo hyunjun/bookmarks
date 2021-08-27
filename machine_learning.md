@@ -555,6 +555,7 @@ Machine Learning
 * [XGBoost 알고리즘의 개념 이해](https://bcho.tistory.com/1354)
 * [Configure XGBoost Models with YAML](https://towardsdatascience.com/configure-xgboost-models-with-yaml-defa99be90ef)
 * [Getting hyped about automated hyperparameter tuning](https://sararobinson.dev/2019/09/12/hyperparameter-tuning-xgboost.html) xgboost
+* [Intro to XGBoost Models (decision-tree-based ensemble ML algorithms) - YouTube](https://www.youtube.com/watch?v=0ikyjpaUDFQ)
 * [Facebook’s Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 * [머신러닝 하루 만에 배우려고 하지 마라](https://github.com/youngwoos/etc/blob/master/Don%E2%80%99t%20learn%20Machine%20Learning%20in%2024%20hours.md)
 * [DeepTide - The world's first massive collaboration machine learning platform Collaborate with top AI researchers on the biggest problems](http://deeptide.ai/)
