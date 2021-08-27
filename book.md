@@ -54,6 +54,11 @@ Book
   * [Dollar Street - photos as data to kill country stereotypes](https://www.gapminder.org/dollar-street)
     * 저자가 만든 재단에서 제작한 사이트 중 하나
     * 소득에 따른 삶의 모습을 보여주는 게 흔히 책에서 볼 수 있는 각 나라의 고유 복장을 보여주는 거 보다 현실에 가깝기 때문에 이런 사이트를 만들었다고 함
+* [21세기를 위한 21가지 제언](https://science-infuse.tistory.com/1003)
+  * 2021.08.27
+  * 유발 하라리의 책이라기에 읽어봤지만 문제만 제기하는 데 그쳐 읽다가 멈춤
+  * 물론 여러가지 중요한, 특히 남들이 주목하지 않는 문제의 경우 문제 제기 자체가 의미가 있긴 하지만 계속 여러가지 문제만 나열되니 읽기에 흥미가 떨어져 중도에 덮음
+  * 코로나 같은 건 상대적으로 지엽적인 문제로 봤을지 아니면 중요한 문제로 생각했을지 궁금하긴 함(책이 2018년작)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
@@ -239,6 +244,10 @@ Book
     * <img src="images/owl22.jpg" alt="" width="300"/>
   * 자신보다 잘 쓰는 사람은 객관적으로 봐서 그리 많지 않음. 이 일을 나보다 잘 하는 사람이 그리 많지 않다고 생각하면 일하기가 즐거움
     * <img src="images/owl23.jpg" alt="" width="300"/>
+* [무라카미 하루키의 100곡](https://blog.naver.com/sunnygirl07/221507665833) 하루키가 쓴 책 아님
+  * 2021.08.27
+  * 머릿말과 뒤의 해설만 읽음. 스마트 도서관 책이라 훑어보지 못하고 그냥 표지만 보고 빌려서 실수
+  * 하루키의 소설에 나온 음악을 주제로 책을 만들 정도니 하루키의 위상에 대해 다시 한 번 생각하게 되었지만 내 취향은 아님
 
 # Religion
 * (NOT YET) [권력과 교회](https://1boon.daum.net/fanzeel/Church)
