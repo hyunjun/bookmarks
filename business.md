@@ -390,6 +390,7 @@ Business
 * [IT 인재가 넝쿨째 모인다?··· CIO들이 전하는 ‘인복’의 비결 - CIO Korea](https://www.ciokorea.com/news/202879)
 * [핵심인재의 성과를 이끌어내는 방법 | 경력직은 잡인덱스](https://jobindexworld.com/contents/view/7504)
 * [떡상할 회사의 채용 과정 공통점 4가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/244787)
+* [채용하는데 2주, 퇴사하는데도 2주? 넷플릭스, '부검 메일'로 퇴사 문화 만들어 - 사례뉴스](http://www.casenews.co.kr/news/articleView.html?idxno=4247)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
