@@ -914,6 +914,7 @@ Git
 * [hub helps you win at git. http://hub.github.com ](https://github.com/github/hub)
 * [isomorphic-git: A pure JavaScript implementation of git for node and browsers!](https://github.com/isomorphic-git/isomorphic-git)
 * [joe - A .gitignore magician in your command line](https://github.com/karan/joe)
+* [Magit! A Git Porcelain inside Emacs](https://magit.vc/)
 * [Octotree - GitHub 코드 트리를 쉽게 보여주는 브라우저 확장 프로그램](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)
 * [Pijul, a next-generation distributed version control system](https://pijul.org/)
 * [Probot으로 GitHub App 만들기](https://blog.outsider.ne.kr/1390)
