@@ -920,6 +920,7 @@ Scala
     * [Part 7 - ZLayer - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=FOStEDZAZWs)
     * [Part 8 - ZLayer DSL - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=WjjdlhvOS7Y)
     * [Part 9 - Effect Tracking - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=xwh0BAJtZFo)
+    * [Part 10 - core & persistence - TF to ZIO (The Big Rewrite) - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=-RZk0NGF5BU)
     * [ZIO News - Issue #28 | Revue](https://www.getrevue.co/profile/zio/issues/zio-news-issue-28-654279)
     * [Organizing Services with ZIO and ZLayers - Rock the JVM Blog](https://blog.rockthejvm.com/structuring-services-with-zio-zlayer/)
     * [Home | Ziverge](https://ziverge.com/blog/)
@@ -1473,6 +1474,7 @@ Scala
 ## Library DB Database
 * [Comparing Scala relational database access libraries](https://softwaremill.com/comparing-scala-relational-database-access-libraries/)
 * [An intro to writing native DB driver in Scala | by Marek Kadek | Apr, 2021 | Medium](https://kadek-marek.medium.com/a-guide-to-writing-native-db-driver-in-scala-7f5cb1cf20a0)
+* [Using oracles to test the service and data layer](https://vectos.net/posts/2021-08-09-oracle-testing/)
 * [quill - Free/Libre Compile-time Language Integrated Queries for Scala](https://getquill.io/)
   * [Cassandra scala client with Quill](https://medium.com/rahasak/cassandra-scala-client-with-quill-eaaa45c51fbf?)
   * [Working with Databases using Scala and Quill](http://www.lihaoyi.com/post/WorkingwithDatabasesusingScalaandQuill.html)
@@ -2130,6 +2132,7 @@ Scala
 * [From @Transactional to type-safe, reasonable transactions](https://blog.softwaremill.com/from-transactional-to-type-safe-reasonable-transactions-a5019906245e)
 * [Illustrated guide to Types, Sets and Values](https://medium.com/@1jpablo1/illustrated-guide-to-types-sets-and-values-8093d0b7d648)
 * [Understanding `F[_]` in Scala](https://medium.com/bigpanda-engineering/understanding-f-in-scala-4bec5996761f)
+* [What is `F[_]` in Scala? | 47 Degrees](https://www.47deg.com/blog/what-is-F-with-hole-in-scala/)
 * [Exploring Type Annotations in Scala](https://www.geekabyte.io/2017/12/exploration-of-type-annotations-in-scala.html)
 * [Part 1: Application of literal and dependent object types in Scala 2.13](https://medium.com/@yevgennerush/part-1-application-of-literal-and-dependent-object-types-in-scala-2-13-62dbe4493dce)
 * [Typeclasses](https://francistoth.github.io/2020/04/09/typeclasses.html)
