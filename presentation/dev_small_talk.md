@@ -43,6 +43,10 @@
     * 점수차가 크게 벌어진 경기에서 신인이나 1군 경험이 별로 없는 선수를 등판시키는 경우와 비슷하지 않을까?
   * 육성 시스템의 필요성. 그러나 현실적으로 여유가 없음. 마치 KBO의 현실과 똑같은데 해결책은?
     * [19세 유망주, 미국은 싱글A부터..한국은? 외인 사령탑이 답하다 MD이슈](https://sports.v.daum.net/v/kcL0qUA1xs)
+  * delivery
+    * 투수의 투구폼도 delivery, CI/CD의 D도 delivery
+    * 투수의 투구폼은 throwing이 아닌 pitching을 위함. 속도가 빠르면 좋지만 빠른 속도가 목적이 아님. 부드럽고 부상이 없으며 모든 힘을 잘 전달하는 delivery가 중요
+    * CI/CD도 product release로 고객에게 product를 제대로 제공하기 위함. 속도가 빨라야 하지만, 자동화를 통해 product가 제대로 배포되고 버그가 있으면 다시 rollback하는 등의 처리가 중요
 * [제프 베조스의 마지막 연례 주주서한 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240022)
   * 마지막 섹션에서 리처드 도킨스가 지은 『The Blind Watchmaker』의 한 부분을 첨부
   * 사람의 체온은 죽고 나서 주위의 온도와 같아진다. 결국 ‘달라져야 살아남는다’
