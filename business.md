@@ -181,7 +181,6 @@ Business
 * [기획이 소설은 아니니까 경영을 과학으로 어떻게 만들 것인가](https://brunch.co.kr/@lunarshore/336)
 * [세상의 모든 직장인은 4가지 유형으로 나뉜다(사진)](http://www.huffingtonpost.kr/2015/09/01/story_n_8068438.html)
 * [회사를 떠난 사람들: 회사 밖에서 세상을 버텨내는 자영업자, PC방 사장](http://ppss.kr/archives/56129)
-* [A급 인재를 떠나게 하는 7가지 방법](https://brunch.co.kr/@hyungsukkim/20)
 * [사업을 시작하기 전에 명심해야 할 25가지](http://ppss.kr/archives/56018)
 * [커머스 BM은 어떻게 세분화되었으며, 앞으로 어떻게 진화할 것인가? – Commerce Positioning Map을 중심으로](http://verticalplatform.kr/archives/5218)
 * [직원들의 행복도를 높이는 6가지 방법](http://ppss.kr/archives/56434)
@@ -387,6 +386,7 @@ Business
 * [(기업설문) 어떤 개발자를 구하시나요? – Place Of 42Seoul Story](https://42place.innovationacademy.kr/archives/6884)
 * [수습 기간은 피드백 미팅에 달려있다](https://brunch.co.kr/@kaytee/11)
 * [미래 조직의 인재상 (앞으로 기업에서는 어떤 사람을 채용해야 할까?](https://blog.naver.com/hs_group/222438548992)
+* [좋은 인재의 세가지 특징 | LinkedIn](https://www.linkedin.com/pulse/%25EC%25A2%258B%25EC%259D%2580-%25EC%259D%25B8%25EC%259E%25AC%25EC%259D%2598-%25EC%2584%25B8%25EA%25B0%2580%25EC%25A7%2580-%25ED%258A%25B9%25EC%25A7%2595-yung-nok-chun-1e/) 열망 호기심 주도성. 다소 뻔하지만 중요한 이야기
 * [IT 인재가 넝쿨째 모인다?··· CIO들이 전하는 ‘인복’의 비결 - CIO Korea](https://www.ciokorea.com/news/202879)
 * [핵심인재의 성과를 이끌어내는 방법 | 경력직은 잡인덱스](https://jobindexworld.com/contents/view/7504)
 * [떡상할 회사의 채용 과정 공통점 4가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/244787)
