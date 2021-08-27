@@ -150,6 +150,7 @@ Clojure
 * [Clojure programs versus Java](https://benchmarksgame.alioth.debian.org/u64q/clojure.html) source code included
 * [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](http://hyperpolyglot.org/lisp)
 * [deftype vs defrecord](http://www.lispcast.com/deftype-vs-defrecord)
+* [Down the rabbit hole with Clojure, defrecord, and macros - DEV Community](https://dev.to/hlship/down-the-rabbit-hole-with-clojure-defrecord-and-macros-3aal)
 * [choosing type forms 2](https://chasemerick.files.wordpress.com/2011/07/choosingtypeforms2.png)
 * [Ubuntu to deploy from Dockerfile. clojure. \*.jar. or something like that](https://medium.com/@itstedpark/ubuntu-to-deploy-from-dockerfile-clojure-jar-or-something-like-that-7d7233bc695a)
 * [Clojure Fundamentals For Beginners](https://www.eduonix.com/courses/Software-Development/clojure-fundamentals-for-beginners)
@@ -357,6 +358,7 @@ Clojure
 * [(recur thoughts "Building a library IV")](https://emil0r.com/posts/2021-05-10-building-a-library-4/)
 * [Organizing Clojure code with Functional Core, Imperative Shell | by Shantanu Kumar | May, 2021 | Medium](https://kumarshantanu.medium.com/organizing-clojure-code-with-functional-core-imperative-shell-2f2ee869faa2)
 * [Paths, Paths, Paths ...](https://code.thheller.com/blog/shadow-cljs/2021/05/13/paths-paths-paths.html) classpath
+* [The Classpath is a Lie](https://lambdaisland.com/blog/2021-08-25-classpath-is-a-lie)
 * [Using Hue connected lights and temp sensors to preview today's weather! | Medium](https://weakreference.medium.com/shorts-or-jeans-revisited-e2fc7f9c9559)
 * [Fibonacci Numbers in the Real World](https://lee-phillips.org/lispmath/)
 * [Once Upon a Class](https://danielsz.github.io/blog/2021-05-12T13_24.html)
