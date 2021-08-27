@@ -482,6 +482,7 @@ Algorithm
 * [Counting hash collisions with the birthday paradox](http://matt.might.net/articles/counting-hash-collisions/)
 * [해싱 - 1 해시의 정의와 목적](http://codingmonster.net/archives/13412)
 * [해싱 - 2 해시와 탐색](http://codingmonster.net/archives/13426)
+* [해쉬함수](https://developer88.tistory.com/389)
 * [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
 * [An Introduction to Hashing in the Era of Machine Learning](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0)
 * [SHA-256 Hash Algorithm](http://jusths.tistory.com/43)
