@@ -931,6 +931,10 @@ Programming
 * [10 Architecture Patterns Used In Enterprise Software Development Today - YouTube](https://www.youtube.com/watch?v=BrT3AO8bVQY)
 * [10 Things Learned Releasing Databricks Enterprise Wide - YouTube](https://www.youtube.com/watch?v=T5TO184SHGQ) 기술적인 이야기 + 경험담
 * [Evolution of search engines architecture - Algolia New Search Architecture Part 1 - High Scalability -](http://highscalability.com/blog/2021/8/2/evolution-of-search-engines-architecture-algolia-new-search.html)
+* [**Organization: A Tool for Software Architects • Eberhard Wolff • GOTO 2021 - YouTube**](https://www.youtube.com/watch?v=wwzn4l_gmco)
+  * 어떤 특정 기술을 사용하는 게 중요한 게 아니라 팀원들이 합의가 중요. 그걸 위해 중요한 건 communication
+  * "서비스"는 독립적이어야 함. 다른 "서비스"에 의존하면 안 됨
+  * Architects shouldn't do architecture, spread knowledge about ... and make stakeholders use the knowledge, teams define the architecture
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
