@@ -590,6 +590,7 @@ AWS
 * [AWS Severless IoT 1 – 개발 계획](http://webframeworks.kr/tutorials/weplanet/1plan/)
 * [AWS Tutorial – Learn Amazon Web Services from Experts](https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/)
 * [OSS AWS 핸즈온 강의](http://www.slideshare.net/JuHongJeong1/oss-aws-69310654)
+* [AWS Cloud Practitioner Training | AWS Cloud Practitioner Essentials | AWS Full Course | Simplillearn - YouTube](https://www.youtube.com/watch?v=35JSBXkjuhk)
 
 # Docker
 * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
