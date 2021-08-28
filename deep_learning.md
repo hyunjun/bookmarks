@@ -917,6 +917,7 @@ Deep Learning
 * [CS 598 LAZ: Cutting-Edge Trends in Deep Learning and Recognition](http://slazebni.cs.illinois.edu/spring17/)
 * [CS W182 / 282A](https://cs182sp21.github.io/)
   * [Deep Learning: CS 182 Spring 2021 - YouTube](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
+  * [CS W182 / 282A at UC Berkeley Designing, Visualizing and Understanding Deep Neural Networks - Deep Learnings - 2021 - YouTube](https://www.youtube.com/playlist?list=PLuv1FSpHurUevSXe_k0S7Onh6ruL-_NNh)
 * [EE-559 – Deep Learning](https://documents.epfl.ch/users/f/fl/fleuret/www/dlc/)
 * [6.S191: Introduction to Deep Learning](http://introtodeeplearning.com/)
   * [MIT 6.S191: Introduction to Deep Learning](https://medium.com/tensorflow/mit-6-s191-introduction-to-deep-learning-24994d705aca)
@@ -1252,6 +1253,7 @@ Deep Learning
   * [A Practical Introduction to Deep Learning with Caffe and Python](http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/)
   * [Caffe 와 Python을 사용하여 딥러닝으로 개와 고양이 구분하기 1](http://kyubot.tistory.com/96)
   * [Caffe 와 Python을 사용하여 딥러닝으로 개와 고양이 구분하기 2](http://kyubot.tistory.com/97)
+* [chitra: A multi-functional library for full-stack Deep Learning. Simplifies Model Building, API development, and Model Deployment](https://github.com/aniketmaurya/chitra)
 * Cloudera
   * [Deep Learning Frameworks on CDH and Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/deep-learning-frameworks-on-cdh-and-cloudera-data-science-workbench/)
     * CDH & Cloudera Data Science Workbench 기반의 딥러닝 프레임워크 소개
