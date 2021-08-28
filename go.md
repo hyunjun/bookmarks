@@ -395,6 +395,7 @@ Go
 
 # goroutine
 * [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
+* [Go concurrency is not parallelism: Real world lessons with Monte Carlo simulations](https://www.soroushjp.com/2015/02/07/go-concurrency-is-not-parallelism-real-world-lessons-with-monte-carlo-simulations/)
 * [CONCURRENCY OUTLOOK USING CMS DAS SERVICE](https://indico.cern.ch/event/449425/session/1/contribution/6/attachments/1168560/1685802/DAS_python_vs_go.pdf)
 * [Concurrency, Goroutines and GOMAXPROCS](http://www.goinggo.net/2014/01/concurrency-goroutines-and-gomaxprocs.html)
 * [Gracefully stopping goroutines](https://machiel.me/gracefully-stopping-goroutines/)
