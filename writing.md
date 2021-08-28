@@ -89,6 +89,7 @@ Writing
 * [기본만 생각하는 글쓰기 - Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vTCDVh9kL49D6I0sftVJAD-ph6p8dqeqCyIcgC-e3fi7EMUAvTMCov_dKY5sHqWJ72GA4h1SdbcLRkP/pub?slide=id.p)
 * [내가 전자책부터 쓴 이유 + 실행 방법 - 업플라이 #Upfly](https://www.upfly.me/blog/why-ebook-is-good-and-how-to-publish-one-yourself)
 * [생산적 글쓰기를 위한 좋은 메모법](https://brunch.co.kr/@graypool/61)
+* [강력한 비즈니스 글쓰기의 과학 | 자기계발 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/6_1/article_no/1739)
 
 # Book
 * [더북(TheBook): 스타일과 목적을 살리는 웹 글쓰기](https://thebook.io/006745/) 1~4장만
@@ -156,3 +157,6 @@ Writing
 * [구글 테크니컬라이터가 전하는 이야기 - Tech. Writer Log](https://naraewool.gitbook.io/techwriter/untitled/google-techwriter)
 * [기술문서 쉽게 쓰기 지침 #테크니컬라이터 #언어정책](https://tech.kakaoenterprise.com/105)
 * [개발자들을 위한 테크니컬 라이팅 10계명 #기술문서 작성법#개발자 글쓰기 #테크니컬라이터](https://tech-kakaoenterprise.tistory.com/110)
+
+# Reading
+* [How to Remember What You Read](https://fs.blog/2021/08/remember-books/)
