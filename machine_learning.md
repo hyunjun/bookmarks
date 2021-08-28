@@ -12,6 +12,7 @@ Machine Learning
 * [Awesome-Mobility-Machine-Learning-Contents](https://github.com/zzsza/Awesome-Mobility-Machine-Learning-Contents)
 * [applied-ml: 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
 * [Machine Learning Roadmap 2020](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva) mindmap
+* [ml-roadmap](https://github.com/merveenoyan/ml-roadmap)
 * [Essential Guide to keep up with AI/ML/CV](https://github.com/BAILOOL/DoYouEvenLearn)
 * [머신러닝](https://www.youtube.com/playlist?list=PLVNY1HnUlO241gILgQloWAs0xrrkqQfKe)
 * [reddit.com/r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
@@ -22,6 +23,7 @@ Machine Learning
 * [머신러닝 공부 순서, 방법 및 강의 정리](http://gomcine.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B3%B5%EB%B6%80-%EC%88%9C%EC%84%9C-%EB%B0%8F-%EB%B0%A9%EB%B2%95-%EA%B0%95%EC%9D%98-%EC%A0%95%EB%A6%AC)
 * [딥러닝 공부 가이드 (HW / SW 준비편)](http://t-robotics.blogspot.kr/2015/06/hw-sw.html)
 * [How to Get Hired as a Machine Learning Engineer](https://www.infoq.com/articles/get-hired-machine-learning-engineer/)
+* [AI, ML and Data Engineering InfoQ Trends Report - August 2021](https://www.infoq.com/articles/ai-ml-data-engineering-trends-2021/)
 * Machine Learning is Fun!
   * [The world’s easiest introduction to Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
   * [Part 2 Using Machine Learning to generate Super Mario Maker levels](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
@@ -628,6 +630,7 @@ Machine Learning
   * [더 많은 데이터 중심으로, 덜 적은 모델로!](https://brunch.co.kr/@synabreu/117)
 * [앤드류 응 교수가 말하는 MLOps](https://brunch.co.kr/@synabreu/137)
 * [칼럼ㅣAI 프로젝트 악순환 고리 끊어라··· 'ML옵스' 마인드셋이 필요한 이유 - CIO Korea](https://www.ciokorea.com/news/202454)
+* [MLOps And Machine Learning Roadmap - KDnuggets](https://www.kdnuggets.com/2021/08/mlops-machine-learning-roadmap.html)
 * [Simulation vs. Machine Learning](https://vortarus.com/simulation-vs-machine-learning/)
 * [라쏘? 로지스틱? 회의에서 당당하게, 수식없이 기초개념부터](http://triviaz.net/blog:easy_lasso_logistic_regression) lasso logistic
 * [The Illustrated FixMatch for Semi-Supervised Learning](https://amitness.com/2020/03/fixmatch-semi-supervised/)
@@ -664,6 +667,7 @@ Machine Learning
 * [Tuning Model Performance | Uber Engineering Blog](https://eng.uber.com/tuning-model-performance/)
 * [9 Deadly Sins of Dataset Selection in ML | by Sandeep Uttamchandani | Jun, 2021 | Towards Data Science](https://towardsdatascience.com/9-deadly-sins-of-ml-dataset-selection-db7ee757efa0)
 * [머신러닝 모델링의 흔한 실수들 60+ 사례 중 데이터 관련 사례](https://jehyunlee.github.io/2021/02/24/Python-DS-62-mistakes/210222_%EC%9D%B4%EC%A0%9C%ED%98%84_mistakes.pdf)
+* [Real Estate pricing with Machine Learning & non-traditional data sources | Tryolabs Blog](https://tryolabs.com/blog/2021/06/25/real-estate-pricing-with-machine-learning--non-traditional-data-sources/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -723,6 +727,7 @@ Machine Learning
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
   * [mml-book.github.io](https://github.com/mml-book/mml-book.github.io)
 * [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
+* [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html)
 * [A Beginner Mathematics Book For Machine Learning](https://www.techleer.com/articles/564-a-beginner-mathematics-book-for-machine-learning/)
 * [Model-Based Machine Learning](http://mbmlbook.com)
 * [PRML(Pattern Recognition & Machien Learning, Bishop) 정리](http://norman3.github.io/prml/)
@@ -776,6 +781,8 @@ Machine Learning
 * [Smarter Ways to Encode Categorical Data for Machine Learning](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159)
 * [Classification & Clustering 모델 평가](https://bcho.tistory.com/1206)
 * [Python Voting Classifiers 다수결 분류의 정의와 구현](https://nonmeyet.tistory.com/entry/Python-Voting-Classifiers%EB%8B%A4%EC%88%98%EA%B2%B0-%EB%B6%84%EB%A5%98%EC%9D%98-%EC%A0%95%EC%9D%98%EC%99%80-%EA%B5%AC%ED%98%84)
+* [dirty_cat: machine learning on dirty categories — Dirty cat](https://dirty-cat.github.io/stable/)
+  * [Dirty categories: learning with non normalized strings — Dirty data science](http://dirtydata.science/python/gen_notes/02_dirty_categories.html)
 * [Lime: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)
 
 # Clojure
@@ -1032,6 +1039,8 @@ Machine Learning
   * [StackNet is a computational, scalable and analytical Meta modelling framework](https://github.com/kaz-Anova/StackNet)
   * [H2O for Inexperienced Users](https://www.h2o.ai/blog/h2o-for-inexperienced-users/)
   * [Democratising Machine learning with H2O](https://towardsdatascience.com/democratising-machine-learning-with-h2o-7f2f79e10e3f)
+* [HAXPlaybook: The HAX Playbook is an interactive tool for generating interaction scenarios to test when designing user-facing AI systems](https://github.com/microsoft/HAXPlaybook)
+  * ['책임 있는 AI' 설계 가이드… 마이크로소프트 HAX의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/203244)
 * [hyperopt - Distributed Asynchronous Hyperparameter Optimization in Python](https://github.com/hyperopt/hyperopt)
 * [Impyute - a library of missing data imputation algorithms written in Python 3](https://impyute.readthedocs.io)
 * [**JupyterFlow - Run your workflow on JupyterHub**](https://jupyterflow.com/)
@@ -1161,6 +1170,8 @@ Machine Learning
 * [(ML Lecture 01) Regression Case Study](https://gcamp.tistory.com/1766)
 * [Best Machine Learning Courses for Finance You Must Know in 2021](https://www.mltut.com/best-machine-learning-courses-for-finance/)
 * [Best Resources to Learn Machine Learning Online in 2021](https://www.mltut.com/best-resources-to-learn-machine-learning-online/)
+* [learning-machine: A handbook for ML built on answers](https://github.com/rentruewang/learning-machine)
+  * [A handbook for machine learning with python](https://pythonawesome.com/a-handbook-for-machine-learning-with-python/)
 
 # Python
 * [**Bare bones Python implementations of Machine Learning models and algorithms.  Aims to cover everything from Data Mining techniques to Deep Learning**](https://github.com/eriklindernoren/ML-From-Scratch)
@@ -1325,6 +1336,7 @@ Machine Learning
   * [Intro — Scikit-learn course](https://inria.github.io/scikit-learn-mooc/index.html)
   * [Scikit-Learn Course - Machine Learning in Python Tutorial - YouTube](https://www.youtube.com/watch?v=pqNCD_5r0IU)
   * [Scikit-learn Crash Course - Machine Learning Library for Python - YouTube](https://www.youtube.com/watch?v=0B5eIE_1vpU)
+  * [Machine learning with missing values — Dirty data science](http://dirtydata.science/python/gen_notes/01_missing_values.html)
 * [shap: A game theoretic approach to explain the output of any machine learning model](https://github.com/slundberg/shap)
   * [Interpret Any Machine Learning Model With Shapley Values - YouTube](https://www.youtube.com/watch?v=so_82GfrVnI)
 * [shapash: Shapash makes Machine Learning models transparent and understandable by everyone](https://github.com/MAIF/shapash)
