@@ -840,11 +840,12 @@ Docker
 * [Kubernetes in the Google Cloud #3](https://charsyam.wordpress.com/2019/01/27/%EA%B5%AC%EA%B8%80%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%BC-kubernetes-in-the-google-cloud-3/)
 * [How to deploy Laravel the easy way with Kubernetes](https://medium.freecodecamp.org/how-to-deploy-laravel-the-easy-way-with-kubernetes-bb9a0778696c)
 * [Centos 7에 kubeadm을 이용해서 쿠버네티스 (1.13 기준) 설치하기](http://javacan.tistory.com/entry/k8s-install-in-centos7)
+* [개발자를 위한 쿠버네티스(Kubernetes) 클러스터 구성하기(Kubeadm, GCE, CentOS)](https://futurecreator.github.io/2019/02/25/kubernetes-cluster-on-google-compute-engine-for-developers/)
+* [Kubeadm을 이용한 ARMv8 클러스터 구축. 최근 다양한 기업들이 ARM 진영에 관심을 가지면서 고성능 프로세서들이… | by inerplat | Aug, 2021 | Medium](https://medium.com/@inerplat/kubeadm%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-armv8-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EA%B5%AC%EC%B6%95-12a642af3213)
 * [k8s cronjob 제한](https://ash84.net/2019/01/20/k8s-cronjob-limitations/)
 * [PodPreset](https://bcho.tistory.com/1304)
 * [PodDisruptionBudget](https://bcho.tistory.com/1305)
 * [Ruben Orduz, Nolan Brubaker - A Python-flavored Introduction to Containers And Kubernetes](https://www.youtube.com/watch?v=kx-048qE-TI)
-* [개발자를 위한 쿠버네티스(Kubernetes) 클러스터 구성하기(Kubeadm, GCE, CentOS)](https://futurecreator.github.io/2019/02/25/kubernetes-cluster-on-google-compute-engine-for-developers/)
 * 쿠버네티스 시작하기
   * [1부. minikube와 kubectl 사용해서 앱 배포하기](https://www.youtube.com/watch?v=IFc1mG48j0s)
   * [2부. Pod, Node 그리고 Service](https://www.youtube.com/watch?v=lVG9LU90ZQw)
