@@ -1838,6 +1838,8 @@ Programming
 * [Number Theory and Cryptography: A Distance Learning Course for High School Students](http://blogs.ams.org/matheducation/2015/07/01/number-theory-and-cryptography-a-distance-learning-course-for-high-school-students/)
 * [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html)
 * [O'Reilly Learning Paths](http://shop.oreilly.com/category/learning-path.do?imm_mid=0e33ca&cmp=em-na-books-videos-lp-promo_day_against_drm_20160503_lp)
+* [Open Logic Project – Open Source, Customizable, Advanced Logic Text](https://openlogicproject.org/)
+  * [Open Logic Project Builds](http://builds.openlogicproject.org/)
 * [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/open-source-society/computer-science)
   * [알짜 e강의만 모아 볼까…OSS 대학](http://www.bloter.net/archives/240899)
 * [Open Textbook Library](http://open.umn.edu/opentextbooks/)
@@ -2492,6 +2494,7 @@ Programming
   * [7월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/07/b-7.html)
   * [8월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/08/b-8-1.html)
   * [8월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/08/b-8-3.html)
+  * [8월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/08/b-8.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
