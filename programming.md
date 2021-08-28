@@ -941,6 +941,7 @@ Programming
 * [CQRS 아는 척하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/CQRS-for-dummies)
 * [CQRS and Event Sourcing](https://www.slideshare.net/InhoKang2/cqrs-and-event-sourcing-94653639)
 * [Event Sourcing Example & Explained in plain English - YouTube](https://www.youtube.com/watch?v=AUj4M-st3ic)
+* [Projections in Event Sourcing: Build ANY model you want! - YouTube](https://www.youtube.com/watch?v=bTRjO6JK4Ws)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
