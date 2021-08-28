@@ -90,6 +90,7 @@ Programming Language
 * [Comby · Structural code search and replace for ~every language](https://comby.dev/)
   * [Comby - 코드 검색 및 구조 변경 도구 | GeekNews](https://news.hada.io/topic?id=4344)
 * [Programming Idioms](https://programming-idioms.org/)
+* [Programming Language Tourism: Leave Python and See the World! - YouTube](https://www.youtube.com/watch?v=O2ArH_MoeKQ) 트렌드 변화 및 Elm, Idris등 다른 언어들에 대한 이야기
 
 # Closure
 * [Closures And Objects Are Equivalent](http://c2.com/cgi/wiki?ClosuresAndObjectsAreEquivalent)
