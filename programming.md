@@ -917,6 +917,7 @@ Programming
   * 어떤 특정 기술을 사용하는 게 중요한 게 아니라 팀원들이 합의가 중요. 그걸 위해 중요한 건 communication
   * "서비스"는 독립적이어야 함. 다른 "서비스"에 의존하면 안 됨
   * Architects shouldn't do architecture, spread knowledge about ... and make stakeholders use the knowledge, teams define the architecture
+* [Software Architecture and Design - YouTube](https://www.youtube.com/playlist?list=PL4JxLacgYgqTgS8qQPC17fM-NWMTr5GW6) 다양한 주제에 대한 짧은 설명들
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
