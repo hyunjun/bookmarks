@@ -129,6 +129,7 @@ Vision
 * [Object Detection with Tensorflow Helper Tool](https://github.com/5taku/tensorflow_object_detection_helper_tool)
 * [Object Detection with 10 lines of code](https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606)
 * [A Step-by-Step Introduction to the Basic Object Detection Algorithms (Part 1)](https://www.analyticsvidhya.com/blog/2018/10/a-step-by-step-introduction-to-the-basic-object-detection-algorithms-part-1/)
+* [Object detection in an hour - Stray Robots Blog](https://www.strayrobots.io/blog/object-detection-in-an-hour)
 * [Deep Learning for Object Detection: A Comprehensive Review](https://towardsdatascience.com/deep-learning-for-object-detection-a-comprehensive-review-73930816d8d9)
 * [Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow](https://github.com/matterport/Mask_RCNN)
 * [faster-r-cnn-tensorflow-api-custom: Faster R-CNN with Tensorflow API for Custom Dataset](https://github.com/dilaraozdemir/faster-r-cnn-tensorflow-api-custom)
@@ -436,6 +437,8 @@ Vision
     * [How to Build an Object Tracker Using YOLOv3, Deep SORT and TensorFlow](https://morioh.com/p/5f4db2fffbfa)
     * [Tutorial #1 : Use YOLOv3 : AlexeyAB/darknet (Video files / Webcam) Windows or Linux - YouTube](https://www.youtube.com/watch?v=Qvx9HcRyhmo)
     * [Suite와 Valohai로 YOLOv3 파이프라인 설계하기 - Superb AI Blog](https://www.superb-ai.com/ko-blog/building-a-yolov3-pipeline-with-valohai-and-superb-ai)
+    * [thermal_signature_drone_detection: Detection of drones using their thermal signatures from thermal camera through YOLO-V3 based CNN with modifications to encapsulate drone motion](https://github.com/mion666459/thermal_signature_drone_detection)
+      * [Drone Detection using Thermal Signature in python](https://pythonawesome.com/drone-detection-using-thermal-signature-in-python/)
   * v4
     * [YOLOv4 (v3/v2) - Windows and Linux version of Darknet Neural Networks for object detection (Tensor Cores are used) http://pjreddie.com/darknet ](https://github.com/AlexeyAB/darknet)
     * [YOLOv4 in the CLOUD: Build and Train Custom Object Detector](https://morioh.com/p/450b2ab62a56)
