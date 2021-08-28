@@ -690,6 +690,7 @@ App
       * [How to correctly set PYTHONPATH for Visual Studio Code - Stack Overflow](https://stackoverflow.com/questions/53653083/how-to-correctly-set-pythonpath-for-visual-studio-code)
       * [Has VS Code Become the Best IDE for Python? | Young Coder | Matthew MacDonald | Young Coder](https://medium.com/young-coder/has-vs-code-become-the-best-ide-for-python-bf0f92d2aef4)
       * [VSCode on Google Colab](https://amitness.com/vscode-on-colab/)
+      * [How to Use Google Colab with VS Code](https://www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/)
       * [VSCode's Python Interactive mode is AMAZING! - YouTube](https://www.youtube.com/watch?v=lwN4-W1WR84)
       * [Python in Visual Studio Code – July 2021 Release | Python](https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2021-release/)
       * [김명신: Python 개발을 위한 최상의 무료 개발 도구 Visual Studio와 Visual Studio Code - PyCon Korea 2015](https://www.youtube.com/watch?v=QzfalQn1lc0)
