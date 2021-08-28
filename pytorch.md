@@ -477,3 +477,4 @@ PyTorch
 * [how-to-read-pytorch: Quick, visual, principled introduction to pytorch code through five colab notebooks](https://github.com/davidbau/how-to-read-pytorch)
 * [파이토치(PyTorch) 튜토리얼에 오신 것을 환영합니다 — PyTorch Tutorials 1.6.0 documentation](https://tutorials.pytorch.kr/)
 * [PyTorch Fundamentals - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/)
+* [Understanding PyTorch with an example: a step-by-step tutorial | by Daniel Godoy | Towards Data Science](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
