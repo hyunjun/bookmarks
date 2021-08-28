@@ -923,6 +923,11 @@ Programming
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
 
 ## Architecture CQRS & Event Sourcing
+* [Traversals and Scans and CQRS, oh my! - Itamar Ravid](https://www.youtube.com/watch?v=dw0sGpp5TNA)
+* [CQRS](https://leanpub.com/cqrs/read_full)
+* [번역 마틴 파울러 CQRS 포스팅](https://medium.com/@joohotheman/번역-마틴-파울러-cqrs-포스팅-245c63bb1e58)
+* [CQRS 아는 척하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/CQRS-for-dummies)
+* [Is a REST API with CQRS Possible? - YouTube](https://www.youtube.com/watch?v=6XO6vSiioWE)
 * [나만 모르고 있던 CQRS & EventSourcing](http://www.popit.kr/cqrs-eventsourcing/)
 * [CQRS and Event Sourcing for dummies](https://www.javacodegeeks.com/2015/07/cqrs-and-event-sourcing-for-dummies.html)
 * 이벤트 소싱 및 CQRS 패턴의 원리와 구현 사례
@@ -930,16 +935,12 @@ Programming
   * 이벤트 소싱 구현 - 메시지 중심 작업 절차, 프레임워크, 응용프로그램 데모, 아키텍팅 및 구현 사례 소개
   * [이벤트 소싱 원리와 구현](https://www.youtube.com/watch?v=Yd7TXUdcaUQ)
   * [이벤트 소싱 원리와 구현](https://tv.naver.com/v/2669754)
-* [Traversals and Scans and CQRS, oh my! - Itamar Ravid](https://www.youtube.com/watch?v=dw0sGpp5TNA)
-* [CQRS](https://leanpub.com/cqrs/read_full)
+* [CQRS and Event Sourcing](https://www.slideshare.net/InhoKang2/cqrs-and-event-sourcing-94653639)
 * [Semantic Event Sourcing: case study of moving from CRUD to log based state management](https://www.youtube.com/watch?v=uNodMFBgsDs)
-* [번역 마틴 파울러 CQRS 포스팅](https://medium.com/@joohotheman/번역-마틴-파울러-cqrs-포스팅-245c63bb1e58)
 * [Event Sourcing — 마틴 파울러](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-event-sourcing-%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC-bc426abb0b98)
 * [What is Event Sourcing?](https://cloudnative.ly/what-is-event-sourcing-d201ed740451)
 * [Event Sourcing과 Fintech Platform - YouTube](https://www.youtube.com/watch?v=1QH6rKSGvY4)
 * [Stop overselling Event Sourcing as the silver bullet to microservice architectures | by Oskar uit de Bos | The Startup | Medium](https://medium.com/swlh/stop-overselling-event-sourcing-as-the-silver-bullet-to-microservice-architectures-f43ca25ff9e7)
-* [CQRS 아는 척하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/CQRS-for-dummies)
-* [CQRS and Event Sourcing](https://www.slideshare.net/InhoKang2/cqrs-and-event-sourcing-94653639)
 * [Event Sourcing - YouTube](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 * [Why Event Sourced Systems Fail eng / Greg Young - YouTube](https://www.youtube.com/watch?v=FKFu78ZEIi8)
 
