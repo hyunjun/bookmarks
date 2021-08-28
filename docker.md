@@ -1061,6 +1061,8 @@ Docker
 * [Crossplane](https://crossplane.io/) Compose cloud infrastructure and services into custom platform APIs
   * [Crossplane #1 - 소개 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1561)
   * [Crossplane #2 - Configuration :: Outsider's Dev Story](https://blog.outsider.ne.kr/1562)
+* [dashboard: General-purpose web UI for Kubernetes clusters](https://github.com/kubernetes/dashboard)
+  * [On Securing the Kubernetes Dashboard | by Joe Beda | Heptio](https://blog.heptio.com/on-securing-the-kubernetes-dashboard-16b09b1b7aca)
 * [Devtron - The DevOps Accelerator](https://devtron.ai/)
   * [DevTron - k8s용 소프트웨어 딜리버리 워크플로우 | GeekNews](https://news.hada.io/topic?id=4593)
 * [faasd: A lightweight & portable faas engine](https://github.com/openfaas/faasd)
