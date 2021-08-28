@@ -285,6 +285,7 @@ Data Science
 * [**다시 찾아간 지표의 세계**](https://cojette.github.io/metrics_revisited/) vanity metrics, actionable metrics
 * [3 Design Principles for Engineering Data](https://medium.com/@WomenWhoCode/3-design-principles-for-engineering-data-9d03dcb1711f)
 * [데이터분석가로서 업무 과정과 경험, 배움을 공유합니다 - 우아한형제들 기술 블로그](https://woowabros.github.io/woowabros/2020/07/01/how_data_analyst_works.html)
+* [당근마켓 팀과 데이터 분석. 프로덕트 데이터 분석가는 어떤 일을 하는가 | by matthew l | 당근마켓 팀블로그 | Aug, 2021 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%ED%8C%80%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-b3d5af6159bc)
 * [IT 회사에서 데이터 직군은 데이터를 어떻게 관리할까?](https://www.grabbing.me/IT-90338d3bcad14cc3b7d4bc004d1b13ce)
 * [Data Science Life Cycle 101 for Dummies like Me | by Sangeet Moy Das | Towards Data Science](https://towardsdatascience.com/data-science-life-cycle-101-for-dummies-like-me-e66b47ad8d8f)
 * [입력 데이터를 정규화 하는 이유 : 네이버 블로그](https://blog.naver.com/jk96491/222103858904)
@@ -305,12 +306,22 @@ Data Science
 * [머신러닝 지도학습을 통해서 꼽아본 최적의 스타벅스 DT 장소!? – SPH](https://www.sphinfo.com/starbucksdt-ml3/)
 * [Data Observability In Practice: Data Monitoring At Scale With SQL And Machine Learning - Monte Carlo Data](https://www.montecarlodata.com/automated-data-quality-testing-at-scale-with-sql-and-machine-learning-2/)
 * [‘데이터 랭글링’ 및 ‘탐구 데이터 분석’ 따라잡기 - CIO Korea](https://www.ciokorea.com/news/187888)
+* [글로벌 칼럼 | 데이터 랭글링을 비하해선 안 되는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/203859)
+* [칼럼ㅣ결코 하찮지 않다!··· '데이터 랭글링' 작업이 가치 있는 이유 - CIO Korea](https://www.ciokorea.com/news/203489)
 * [Silent data corruption: Mitigating effects at scale - Facebook Engineering](https://engineering.fb.com/2021/02/23/data-infrastructure/silent-data-corruption/)
 * [데이터 처리 플랫폼 : 네이버 블로그](https://blog.naver.com/airguy76/221368741735)
 * [김진철의 How-to-Big Data | How-to-Big Data 핵심 정리(Key Takeaways) (1) - CIO Korea](https://www.ciokorea.com/news/191719)
 * [세미나 후기 Wanted Con. Data 요즘 데이터 팀은 어떻게 일할까?](https://blog.naver.com/rposter/222324418413)
 * [게임 속 시장을 들여다보기 위한 단 하나의 지표](https://blog.ncsoft.com/game-data-analytics-20200924/)
 * [Why and how should you learn “Productive Data Science”? - KDnuggets](https://www.kdnuggets.com/2021/07/learn-productive-data-science.html)
+* [**The Quick and Dirty Guide to Building Your Data Platform | by Barr Moses | Jul, 2021 | Towards Data Science**](https://towardsdatascience.com/the-quick-and-dirty-guide-to-building-your-data-platform-2f21dc4b7c94)
+* [Big Data World, Part 1: Definitions | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/05/04/big-data-world-part-1-definitions/)
+* [빅데이터의 세계, 2부: 직무 | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/07/01/big-data-world-part-2-roles/)
+* [빅데이터의 세계, 3부: 데이터 파이프라인 구축 | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/07/07/big-data-world-part-3-building-data-pipelines/)
+* [빅데이터의 세계, 4부: 아키텍처 | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/07/09/big-data-world-part-4-architecture/)
+* [Big Data World, Part 5: CAP Theorem | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/06/03/big-data-world-part-5-cap-theorem/)
+* [현대 신경과학은 과연 동키콩을 이해할 수 있는가 (2016) | GeekNews](https://news.hada.io/topic?id=4812) 기술적으로 관련이 있는 건 없지만 시사점이 있음
+* [Why MapReduce is making a comeback — Estuary](https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -520,7 +531,8 @@ Data Science
 * [Ondrej Kokes - High Performance Data Loss | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=hoaMzebS_l4)
 * [Data Science With Python | Python For Data Science | Data Science For Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=SJT4ZyLxIE0)
 * [python 데이터 분석 실습 코로나 19 2021 현재 시점 분석하기 1편](https://stricky.tistory.com/457)
-* [CC-hurricane-analysis-project: A simple project with several functions that organize and manipulate data about Category 5 Hurricanes](https://github.com/giacomosx/CC-hurricane-analysis-project)
+* [15 Python Snippets to Optimize your Data Science Pipeline - KDnuggets](https://www.kdnuggets.com/2021/08/15-python-snippets-optimize-data-science-pipeline.html)
+* [5 ways for Data Scientists to Code Efficiently in Python](https://www.analyticsvidhya.com/blog/2021/08/5-ways-for-data-scientists-to-code-efficiently-in-python/)
 
 ## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
@@ -534,6 +546,7 @@ Data Science
   * [accelerator-project_skeleton](https://github.com/eBay/accelerator-project_skeleton)
   * [Announcing the Accelerator](https://www.ebayinc.com/stories/blogs/tech/announcing-the-accelerator-processing-1-000-000-000-lines-per-second-on-a-single-computer/)
 * BlazingSQL(BSQL) [GPU-accelerated SQL and Data Science - Rodrigo Aramburu - YouTube](https://www.youtube.com/watch?v=Pu4dhJA8irU)
+* [CC-hurricane-analysis-project: A simple project with several functions that organize and manipulate data about Category 5 Hurricanes](https://github.com/giacomosx/CC-hurricane-analysis-project)
 * [dabl - the Data Analysis Baseline Library](https://amueller.github.io/dabl/dev)
   * [Doing Hard Things with Less Data; and Dabl: AutoML with a human in the loop - YouTube](https://www.youtube.com/watch?v=ntd68unD5TE)
 * [dagster: A data orchestrator for machine learning, analytics, and ETL](https://github.com/dagster-io/dagster)
@@ -557,6 +570,7 @@ Data Science
   * [Accelerating Data Science with RAPIDS - Keith Kraus](https://www.youtube.com/watch?v=GVUA3vSPzio)
   * [RAPIDS cuGraph](https://medium.com/rapids-ai/rapids-cugraph-1ab2d9a39ec6)
   * [Fundamentals Of Accelerated Data Science With RAPIDS](https://ign0relee.github.io/Nvidia-Accelerated-Data-Science-With-Rapids)
+  * [Using GPUs for Data Science and Data Analytics](https://www.exxactcorp.com/blog/Deep-Learning/using-gpus-for-data-science)
 * [RoboSat - an end-to-end pipeline written in Python 3 for feature extraction from aerial and satellite imagery](https://github.com/mapbox/robosat)
   * [PyParis 2018 - Robosat: an Open Source and efficient Semantic Segmentation...](https://www.youtube.com/watch?v=y-leS9uBl7Y)
 * [siuba: Python library for using dplyr like syntax with pandas and SQL](https://github.com/machow/siuba)
@@ -652,6 +666,7 @@ Data Science
 * [Advertiser Recommendation Systems at Pinterest | by Pinterest Engineering | Pinterest Engineering Blog | Jul, 2021 | Medium](https://medium.com/pinterest-engineering/advertiser-recommendation-systems-at-pinterest-ccb255fbde20)
 * [Recommender System KR](https://root-decimal-c5d.notion.site/Recommender-System-KR-5b773a06e99145e6855bae391c94dc44)
 * [유튜브는 내가 좋아할 다음 영상을 어떻게 추천해줄까? (알기 쉽게 설명한 구글 최신 논문) – techNeedle 테크니들](https://techneedle.com/archives/38234)
+* [Collaborative filtering doesn't work for us](https://about.chatroulette.com/posts/better-match-making-part-1/)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
