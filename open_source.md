@@ -326,6 +326,7 @@ Open Source
 * Shardlib [Sharding, simplification, and Twitter’s ads serving platform](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/sharding-simplification-and-twitters-ads-serving-platform.html)
 
 # Uber
+* [Cost-Efficient Open Source Big Data Platform at Uber](https://eng.uber.com/cost-efficient-big-data-platform/)
 * Apollo
   * [Real Time Analytics at UBER Scale](https://www.youtube.com/watch?v=XSXvPNEykb4)
   * [Video: Real-Time Analytics at UBER Scale](https://www.memsql.com/blog/real-time-analytics-at-uber-scale/)
