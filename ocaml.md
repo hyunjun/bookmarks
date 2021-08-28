@@ -20,6 +20,7 @@ Ocaml
 * [Hindley Milner Type Inference](https://github.com/prakhar1989/type-inference)
 * [Translating Unix Philosophy into modern environments](https://hackernoon.com/translating-unix-philosophy-into-modern-environments-80d7949834f3)
 * [Starting an OCaml app project using Dune](https://medium.com/@bobbypriambodo/starting-an-ocaml-app-project-using-dune-d4f74e291de8)
+* [Detecting use-cases for GADTs in OCaml | Mads Hartmann](https://blog.mads-hartmann.com/ocaml/2015/01/05/gadt-ocaml.html)
 
 # Library
 * [coq: Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs](https://github.com/coq/coq)
