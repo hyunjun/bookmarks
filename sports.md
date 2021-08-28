@@ -146,6 +146,7 @@ Sports
 * [농구 통계를 사용해 Visual Studio Code에서 경기 플레이 최적화 - 새 영화 ‘스페이스 잼 새로운 시대’의 영감 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/paths/optimize-basketball-games-with-machine-learning/)
 * [데이터를 사용하여 농구 코트에서 결정을 내리는 웹앱 만들기 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/sports-machine-learning/optimize-basketball-player-rest-breaks/)
 * [데이터를 통해 보는 리그 샷 트렌드 - NBA Mania](https://mania.kr/g2/bbs/board.php?bo_table=maniazine&wr_id=205193)
+* [Profile - josiah.brady | Tableau Public](https://public.tableau.com/app/profile/josiah.brady/viz/KBLKoreanBasketballLeague2019)
 
 # Football
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)
