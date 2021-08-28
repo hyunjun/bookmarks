@@ -377,6 +377,7 @@ Clojure
 * [Datomic Cloud - Getting Started - YouTube](https://www.youtube.com/watch?v=6Sn2PTzglCw)
 * [Data validation in Clojure - Ostash.Dev](https://ostash.dev/posts/2021-08-22-data-validation-in-clojure/)
 * [Just a Blog: Clojure CLI Tools in Debian - GSoC 2021 Partial Evaluation Report](http://allentiak.github.io/posts-output/2021-08-13--gsoc-partial-evaluation-report--clojure.build.tools.in.debian/)
+* [Betting your company on Lisp: 5 years with Clojure in production by Adam Tornhill - YouTube](https://www.youtube.com/watch?v=asnh6KXoidA)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
