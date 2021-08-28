@@ -636,24 +636,6 @@ Programming
 * [서버 아키텍처 Vol. 2 (자막)](http://www.slideshare.net/sublee/lt-vol-2)
 * [**서버 비용을 70%나 줄인 온디맨드 리사이징 이야기**](http://engineering.vcnc.co.kr/2016/05/ondemand-image-resizing/)
 * [설계 중심의 시스템 구현](https://blog.ifunfactory.com/2016/01/29/%EC%84%A4%EA%B3%84-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84-2/)
-* CQRS
-  * [나만 모르고 있던 CQRS & EventSourcing](http://www.popit.kr/cqrs-eventsourcing/)
-  * [CQRS and Event Sourcing for dummies](https://www.javacodegeeks.com/2015/07/cqrs-and-event-sourcing-for-dummies.html)
-  * 이벤트 소싱 및 CQRS 패턴의 원리와 구현 사례
-    * 이벤트 소싱 원리 - 개요, 데이터 영속, 메시징, CQRS(Command and Query Responsibility Segregation)
-    * 이벤트 소싱 구현 - 메시지 중심 작업 절차, 프레임워크, 응용프로그램 데모, 아키텍팅 및 구현 사례 소개
-    * [이벤트 소싱 원리와 구현](https://www.youtube.com/watch?v=Yd7TXUdcaUQ)
-    * [이벤트 소싱 원리와 구현](https://tv.naver.com/v/2669754)
-  * [Traversals and Scans and CQRS, oh my! - Itamar Ravid](https://www.youtube.com/watch?v=dw0sGpp5TNA)
-  * [CQRS](https://leanpub.com/cqrs/read_full)
-  * [Semantic Event Sourcing: case study of moving from CRUD to log based state management](https://www.youtube.com/watch?v=uNodMFBgsDs)
-  * [번역 마틴 파울러 CQRS 포스팅](https://medium.com/@joohotheman/번역-마틴-파울러-cqrs-포스팅-245c63bb1e58)
-  * [Event Sourcing — 마틴 파울러](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-event-sourcing-%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC-bc426abb0b98)
-  * [What is Event Sourcing?](https://cloudnative.ly/what-is-event-sourcing-d201ed740451)
-  * [Event Sourcing과 Fintech Platform - YouTube](https://www.youtube.com/watch?v=1QH6rKSGvY4)
-  * [Stop overselling Event Sourcing as the silver bullet to microservice architectures | by Oskar uit de Bos | The Startup | Medium](https://medium.com/swlh/stop-overselling-event-sourcing-as-the-silver-bullet-to-microservice-architectures-f43ca25ff9e7)
-  * [CQRS 아는 척하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/CQRS-for-dummies)
-  * [CQRS and Event Sourcing](https://www.slideshare.net/InhoKang2/cqrs-and-event-sourcing-94653639)
 * [홈쇼핑처럼 개발후기](http://subicura.com/2016/05/30/likehs-develop-log.html)
 * [Sherlock: Near Real Time Search Indexing](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d) HBase, Storm, Kafka,Redis
 * [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
@@ -938,6 +920,26 @@ Programming
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
+
+## Architecture CQRS & Event Sourcing
+* [나만 모르고 있던 CQRS & EventSourcing](http://www.popit.kr/cqrs-eventsourcing/)
+* [CQRS and Event Sourcing for dummies](https://www.javacodegeeks.com/2015/07/cqrs-and-event-sourcing-for-dummies.html)
+* 이벤트 소싱 및 CQRS 패턴의 원리와 구현 사례
+  * 이벤트 소싱 원리 - 개요, 데이터 영속, 메시징, CQRS(Command and Query Responsibility Segregation)
+  * 이벤트 소싱 구현 - 메시지 중심 작업 절차, 프레임워크, 응용프로그램 데모, 아키텍팅 및 구현 사례 소개
+  * [이벤트 소싱 원리와 구현](https://www.youtube.com/watch?v=Yd7TXUdcaUQ)
+  * [이벤트 소싱 원리와 구현](https://tv.naver.com/v/2669754)
+* [Traversals and Scans and CQRS, oh my! - Itamar Ravid](https://www.youtube.com/watch?v=dw0sGpp5TNA)
+* [CQRS](https://leanpub.com/cqrs/read_full)
+* [Semantic Event Sourcing: case study of moving from CRUD to log based state management](https://www.youtube.com/watch?v=uNodMFBgsDs)
+* [번역 마틴 파울러 CQRS 포스팅](https://medium.com/@joohotheman/번역-마틴-파울러-cqrs-포스팅-245c63bb1e58)
+* [Event Sourcing — 마틴 파울러](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-event-sourcing-%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC-bc426abb0b98)
+* [What is Event Sourcing?](https://cloudnative.ly/what-is-event-sourcing-d201ed740451)
+* [Event Sourcing과 Fintech Platform - YouTube](https://www.youtube.com/watch?v=1QH6rKSGvY4)
+* [Stop overselling Event Sourcing as the silver bullet to microservice architectures | by Oskar uit de Bos | The Startup | Medium](https://medium.com/swlh/stop-overselling-event-sourcing-as-the-silver-bullet-to-microservice-architectures-f43ca25ff9e7)
+* [CQRS 아는 척하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/CQRS-for-dummies)
+* [CQRS and Event Sourcing](https://www.slideshare.net/InhoKang2/cqrs-and-event-sourcing-94653639)
+* [Event Sourcing Example & Explained in plain English - YouTube](https://www.youtube.com/watch?v=AUj4M-st3ic)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
