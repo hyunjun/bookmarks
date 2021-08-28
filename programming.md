@@ -1400,6 +1400,7 @@ Programming
 * [클라우드 컴퓨팅을 써야 하는 이유 & 그리고 “클라우드 컴퓨팅을 안다는 것” 에 관하여 | by Bryant Jimin Son | Medium](https://bryantson.medium.com/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%84-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%84-%EC%95%88%EB%8B%A4%EB%8A%94-%EA%B2%83-%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-6fcf9a763c38)
 * [넷플릭스∙스포티파이∙우버의 공통점…'클라우드 네이티브'의 정의와 특징 - ITWorld Korea](https://www.itworld.co.kr/news/205274)
 * [글로벌 칼럼 | 오늘날 클라우드 서비스가 만들어지는 방식 - ITWorld Korea](https://www.itworld.co.kr/news/205109)
+* [차니의 클라우드 클리닉 :: Channy's Blog](http://blog.creation.net/category/cloud-clinic)
 * [aws](aws.md)
 * [azure](azure.md)
 * [Dapr - Distributed Application Runtime](https://dapr.io/)
