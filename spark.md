@@ -714,6 +714,8 @@
 * [Deep Dive into Monitoring Spark Applications Using Web UI and SparkListeners (Jacek Laskowski)](https://www.youtube.com/watch?v=mVP9sZ6K__Y)
 * [Apache Spark performance - All relevant key performance metrics about your Apache Spark instance in minutes](https://www.dynatrace.com/technologies/apache-spark-monitoring/apache-spark-performance/)
 * [HTRACE TUTORIAL: HOW TO MONITOR YOUR DISTRIBUTED SYSTEMS](https://www.scalyr.com/blog/htrace-tutorial-how-to-monitor-distributed-systems)
+* [delight: A Spark UI and Spark History Server alternative with CPU and Memory metrics! Delight is free, cross-platform, and open-source](https://github.com/datamechanics/delight)
+  * [Delight: An Improved Apache Spark UI, Free, and Cross-Platform - YouTube](https://www.youtube.com/watch?v=9v03aztrVnA)
 * [spark-dependencies - Spark job for dependency links http://jaegertracing.io ](https://github.com/jaegertracing/spark-dependencies)
 * [spark-jobs-rest-client - Fluent client for interacting with Spark Standalone Mode's Rest API for submitting, killing and monitoring the state of jobs](https://github.com/ywilkof/spark-jobs-rest-client)
 * [Sparklint - The missing Spark Performance Debugger that can be drag and dropped into your spark application!](https://github.com/groupon/sparklint)
