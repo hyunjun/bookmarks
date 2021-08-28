@@ -1,4 +1,4 @@
- Hardware
+Hardware
 ========
 * [소프트웨어 개발자를 위한 사물인터넷 하드웨어 개발 플랫폼 ‘어니언오메가’ 킥스타터 등장](http://besuccess.com/2015/04/onion-omega-is-a-hardware-development-platform-designed-specifically-for-software-developer/)
 * [kocoafab.cc](http://www.kocoafab.cc/)
@@ -209,6 +209,7 @@
 
 # Jetson
 * [installJupyterNotebook: 젯슨나노에서 주피터노트북과 주피터랩을 설치하는 법](https://github.com/jugfk/installJupyterNotebook)
+* [DIY-ai-art: How to build your own AI art installation from scratch](https://github.com/maxvfischer/DIY-ai-art)
 * [jetbot: An educational AI robot based on NVIDIA Jetson Nano](https://github.com/NVIDIA-AI-IOT/jetbot)
   * [Jetson User Group For Korean | Facebook](https://www.facebook.com/groups/JUGFK/permalink/682904155863206/)
   * [jetbot/docker at master · NVIDIA-AI-IOT/jetbot](https://github.com/NVIDIA-AI-IOT/jetbot/tree/master/docker)
