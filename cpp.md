@@ -405,6 +405,7 @@ C++
   * [TCMalloc : Thread-Caching Malloc](http://goog-perftools.sourceforge.net/doc/tcmalloc.html)
 
 # Thread
+* [Writing Multithreaded Applications in C++ (the right way) – DeathByTape](https://deathbytape.com/articles/2015/02/03/cpp-threading.html)
 * [Learn C++ Multi-Threading in 5 Minutes | by Ari Saif | HackerNoon.com | Medium](https://medium.com/hackernoon/learn-c-multi-threading-in-5-minutes-8b881c92941f)
 * [y-cruncher - A Multi-Threaded Pi-Program](http://www.numberworld.org/y-cruncher/) Pi 31조자리까지 계산 프로그램
 
