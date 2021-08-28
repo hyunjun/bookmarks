@@ -75,6 +75,7 @@ Elixir
 * [#elixirlang 매크로를 사용해 decorator를 구현하는 방법](http://ohyecloudy.com/pnotes/archives/elixirlang-how-to-implement-decorator-with-macro/)
 * [Elixir vs Scala](https://www.infoq.com/presentations/elixir-vs-scala/)
 * [Elixir in Production: Glific](https://serokell.io/blog/elixir-in-production-glific)
+* [Elixir & Erlang - Fundamentally Pragmatic by Lars Wikman](https://www.youtube.com/watch?v=wbdNB_DugGA&t=3450s)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
