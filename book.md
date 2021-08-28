@@ -63,6 +63,10 @@ Book
   * ★★★☆☆ 2021.08.27
   * 2003~5년에 쓴 글이라 좀 예전 얘기들이 많긴 하지만, 어떤 이야기들은 여전히 요즘과도 맞닿아있다(고령화, 온난화 등)
   * 이공계 출신이라 오히려 생각의 폭이 제한되는 경우도 있다(프로듀서나 작가가 과학적으로는 전혀 말도 안 되는 결말을 만드는데 그게 재미있고 기발했다고 씀)는 글이 가장 공감이 간다
+* (NOT YET) [행복의 조건(하버드대학교. 인생성장 보고서를 읽고)](https://brunch.co.kr/@sunflowerkkk/5)
+  * 책과 무관하지만 비슷한 뱡향의 기사
+    * [What My Harvard College Reunion Taught Me About Life - The Atlantic](https://www.theatlantic.com/education/archive/2018/10/what-my-harvard-college-reunion-taught-me-about-life/573847/)
+    * [하버드 졸업 30주년 동문회에 다녀와서](https://newspeppermint.com/2019/06/30/harvardreunion50/)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
