@@ -336,6 +336,7 @@ NLP
 * [How MDN's autocomplete search works - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2021/08/mdns-autocomplete-search/)
   * [MDN의 검색 자동완성 구현 방법 | GeekNews](https://news.hada.io/topic?id=4762)
 * [NLP와 OCR, 머신 러닝으로 더욱 편리하고 특별한 LINE 가계부 만들기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-kakeibo-with-nlp-ocr-machinelearning/)
+* [Machine Learning Won't Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) NLU
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -667,6 +668,7 @@ NLP
   * [A state-of-the-art open source chatbot](https://ai.facebook.com/blog/state-of-the-art-open-source-chatbot)
   * [Blender Bot 2.0: An open source chatbot that builds long-term memory and searches the internet](https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet)
     * [페이스북 Blenderbot 2.0 공개 | GeekNews](https://news.hada.io/topic?id=4630)
+  * [Facebook Open-Sources BlenderBot 2.0 Chatbot](https://www.infoq.com/news/2021/08/facebook-blenderbot-2/)
 * [**dialogpt-chat: Chatting with DialoGPT (Large-Scale Generative Pre-training for Conversational Response Generation)**](https://github.com/hyunwoongko/dialogpt-chat)
   * [P.1 Chatbot with Mic input/Speaker output using Python, Jarvis, and DialoGPT - YouTube](https://www.youtube.com/watch?v=CumHy6v7un0)
   * [P.2 Chatbot with Mic input/Speaker output using Python, Jarvis, and DialoGPT - YouTube](https://www.youtube.com/watch?v=lheXIYXanuU)
@@ -1785,6 +1787,7 @@ NLP
 * [Transforming Wikipedia into an accurate cultural knowledge quiz](https://medium.com/@mjbaldwin/transforming-wikipedia-into-an-accurate-cultural-knowledge-quiz-b0a0f74877c)
 * [Wikipedia Data Science: Working with the World’s Largest Encyclopedia](https://towardsdatascience.com/wikipedia-data-science-working-with-the-worlds-largest-encyclopedia-c08efbac5f5c)
 * [한국어 위키백과내 주요 문서 16만개에 포함된 지식을 추출하여 객체(entity), 속성(attribute), 값(value)을 갖는 트리플 형식의 데이터 75만개](http://www.aihub.or.kr/content/142)
+* [Data-Mining Wikipedia for Fun and Profit – 🦉 billpg industries™](https://billpg.com/data-mining-wikipedia/)
 
 # Word2Vec
 * [awesome-sentence-embedding - A curated list of pretrained sentence(and word) embedding models](https://github.com/Separius/awesome-sentence-embedding)
