@@ -270,6 +270,7 @@ Interview
 * [coding-interview-university#system-design-scalability-data-handling](https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling) 기초부터 각 부분별 다양한 links
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) 유료 course
 * [Systems Design Fundamentals The foundational knowledge you need to ace the systems design interviews](https://www.algoexpert.io/systems/fundamentals) 유료 course. algoexpert sub
+* [Preparing for the System Design Interviews V2 - End to End | Udemy](https://www.udemy.com/course/preparing-for-system-design-interviews/) 유료 course
 * [How to Succeed in a System Design Interview](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26) 기본적인 approach와 자료 links
 * [The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
 * [The Patterns of Scalable, Reliable, and Performant Large-Scale Systems http://awesome-scalability.com ](https://github.com/binhnguyennus/awesome-scalability)
