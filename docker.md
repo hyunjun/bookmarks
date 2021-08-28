@@ -1058,6 +1058,9 @@ Docker
   * [A CLI Tool for Multi-Cluster Kubernetes: Cloud Manager Rocks | by Jorge Simão | Jan, 2021 | Medium](https://einnovator.medium.com/a-cli-tool-for-multi-cluster-kubernetes-cloud-manager-rocks-af17124af2a6)
   * [Deploying Java/Spring Apps to Multiple Clouds with Kubernetes Cloud Manager | by Jorge Simão | Geek Culture | Mar, 2021 | Medium](https://medium.com/geekculture/deploying-java-spring-apps-to-multiple-clouds-with-kubernetes-cloud-manager-87cc61275cb0)
   * [Microservices Auto-Configuration with Connectors & Bindings: Cloud-Native Dependency-Injection in Kubernetes Cloud Manager | by Jorge Simão | Mar, 2021 | Medium](https://einnovator.medium.com/microservices-auto-configuration-with-connectors-bindings-cloud-native-dependency-injection-in-531488c74c4)
+* [Crossplane](https://crossplane.io/) Compose cloud infrastructure and services into custom platform APIs
+  * [Crossplane #1 - 소개 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1561)
+  * [Crossplane #2 - Configuration :: Outsider's Dev Story](https://blog.outsider.ne.kr/1562)
 * [Devtron - The DevOps Accelerator](https://devtron.ai/)
   * [DevTron - k8s용 소프트웨어 딜리버리 워크플로우 | GeekNews](https://news.hada.io/topic?id=4593)
 * [faasd: A lightweight & portable faas engine](https://github.com/openfaas/faasd)
