@@ -1094,6 +1094,7 @@ AWS
 * [S3 서비스에 대한 정리 # S3 버킷 AWS](https://developer88.tistory.com/358)
 * [Diving Deep on S3 Consistency](https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html)
 * [Downloading files from S3 with multithreading and Boto3 :: Hello, my name is Elías — Welcome to my personal site](https://emasquil.github.io/posts/multithreading-boto3/)
+* [AWS S3 버킷 마운트 없이 gz 압축 풀기](https://newstars.cloud/527)
 
 # Scala
 * [Using Scala in the Cloud: A Guide to Amazon EC2 Instance Types](https://www.triplequote.com/blog/2019-guide-to-amazon-instances/)
