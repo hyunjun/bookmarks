@@ -359,6 +359,7 @@ Clojure
 * [Organizing Clojure code with Functional Core, Imperative Shell | by Shantanu Kumar | May, 2021 | Medium](https://kumarshantanu.medium.com/organizing-clojure-code-with-functional-core-imperative-shell-2f2ee869faa2)
 * [Paths, Paths, Paths ...](https://code.thheller.com/blog/shadow-cljs/2021/05/13/paths-paths-paths.html) classpath
 * [The Classpath is a Lie](https://lambdaisland.com/blog/2021-08-25-classpath-is-a-lie)
+* [classpath: Classpath/classloader/deps.edn related utilities](https://github.com/lambdaisland/classpath)
 * [Using Hue connected lights and temp sensors to preview today's weather! | Medium](https://weakreference.medium.com/shorts-or-jeans-revisited-e2fc7f9c9559)
 * [Fibonacci Numbers in the Real World](https://lee-phillips.org/lispmath/)
 * [Once Upon a Class](https://danielsz.github.io/blog/2021-05-12T13_24.html)
