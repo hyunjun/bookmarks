@@ -378,6 +378,9 @@ Clojure
 * [Data validation in Clojure - Ostash.Dev](https://ostash.dev/posts/2021-08-22-data-validation-in-clojure/)
 * [Just a Blog: Clojure CLI Tools in Debian - GSoC 2021 Partial Evaluation Report](http://allentiak.github.io/posts-output/2021-08-13--gsoc-partial-evaluation-report--clojure.build.tools.in.debian/)
 * [Betting your company on Lisp: 5 years with Clojure in production by Adam Tornhill - YouTube](https://www.youtube.com/watch?v=asnh6KXoidA)
+* [The Artificery: CSS: Optimizations and Organization](https://drewverlee.github.io/posts-output/2021-8-26-css-optimizations)
+* [Hacking with Handlebars in Java and Clojure: Part I | by Pranav Gajjewar | helpshift-engineering | Medium](https://medium.com/helpshift-engineering/hacking-with-handlebars-in-java-and-clojure-part-i-fafc9a8cd8aa)
+* [Hacking with Handlebars in Java and Clojure: Part II | by Pranav Gajjewar | helpshift-engineering | Aug, 2021 | Medium](https://medium.com/helpshift-engineering/hacking-with-handlebars-in-java-and-clojure-part-ii-c4de51f49815)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -750,6 +753,7 @@ Clojure
   * [Migrating a Leiningen Project to Boot](http://blog.michielborkent.nl/blog/2015/06/06/from-leiningen-to-boot/)
   * [Building on Boot](http://seancorfield.github.io/blog/2016/01/30/building-on-boot/)
   * [clj-templates](https://clj-templates.com/) Find Clojure templates for Leiningen and Boot
+* [build-clj: Common build tasks abstracted into a library](https://github.com/seancorfield/build-clj)
 * [cardigan-bay: A new wiki engine in Clojure ...](https://github.com/interstar/cardigan-bay)
 * [Carica - a flexible configuration library](https://github.com/sonian/carica)
 * [Chestnut - a Leiningen template for a Clojure/ClojureScript app based on Om](https://github.com/plexus/chestnut)
@@ -826,6 +830,7 @@ Clojure
   * [이상현 IN 베를린 :: 유럽 코로나 확진자 수 프로젝트 개발/실패기](https://iamsang.com/blog/2021/08/25/corona-project/)
 * [CounterClockWise IDE](https://github.com/ccw-ide) Eclipse Plugin for the Clojure Language
 * [cryogen - Static sites generated with Clojure](http://cryogenweb.org/)
+  * [Practicalli: Automate Cryogen Clojure blog with GitHub Actions](https://practical.li/blog/posts/automate-cryogen-clojure-blog-with-github-actions/)
 * [Crux - The open database with temporal graph query](https://opencrux.com/)
   * [crux: General purpose bitemporal database for SQL, Datalog & graph queries](https://github.com/juxt/crux)
   * [Crux | Command Line Crux](https://opencrux.com/blog/crux-command-line.html)
