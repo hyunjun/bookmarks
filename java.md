@@ -710,6 +710,7 @@ Java
 * [자바 17이 다가오면... - DEV Community](https://dev.to/composite/17-62e)
 * [Internal JDK Elements Strongly Encapsulated in JDK 17](https://www.infoq.com/news/2021/06/internals-encapsulated-jdk17/)
 * [Java News Roundup: JDK 17, JDK 18, Open Liberty, Payara, Quarkus and Spring](https://www.infoq.com/news/2021/07/java-news-roundup-jul05-2021/)
+* [Java 17: These 5 New Features Makes Java 17 Special | CodersTea](https://www.coderstea.com/post/java/java-17-these-5-new-features-makes-java-17-special/)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
