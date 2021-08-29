@@ -492,6 +492,7 @@ Programming Books
 * (NOT YET) [루비페이퍼 :: 파이썬을 이용한 데이터 분석의 정석](https://www.rubypaper.co.kr/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EC%9D%98-%EC%A0%95%EC%84%9D)
 * (NOT YET) [실무 예제로 배우는 데이터 공학](https://jpub.tistory.com/1175)
 * (NOT YET) [데이터 분석가의 숫자유감](https://jhrogue.blogspot.com/2021/08/blog-post_25.html)
+  * [데이터 분석가의 숫자유감 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1563)
 
 ## Deep Learning
 * 가장 빨리 만나는 딥러닝 with Caffe
@@ -1217,6 +1218,7 @@ Programming Books
   * [리액트를 다루는 기술 리뷰](https://youduk.github.io/book_review/2018/08/24/%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EB%8B%A4%EB%A3%A8%EB%8A%94-%EA%B8%B0%EC%88%A0-%EB%A6%AC%EB%B7%B0.html)
 * (NOT YET) 리액트 교과서 = React qulckly : 기본기에 충실한 리액트 입문서!
   * 한라 005.118-마297ㄹ
+  * [리액트 교과서 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/08/29/React-Quickly.html)
 * (NOT YET) [모던 리액트/리덕스 프로그래밍 React/Redux를 통해 배우는 모던 웹 프로그래밍의 정석](http://wikibook.co.kr/react-redux/)
 * (NOT YET) [실전 리액트 프로그래밍](https://medium.com/@ljs0705/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%B1%85%EC%9D%84-%EC%8D%BC%EC%8A%B5%EB%8B%88%EB%8B%A4-b227ab9df8b8)
   * [실전 리액트 프로그래밍](http://ebook.insightbook.co.kr/book/68)
