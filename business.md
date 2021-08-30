@@ -298,6 +298,7 @@ Business
 * [**정산시스템팀**](https://woowahan.oopy.io/60a06399-3f95-4fec-a436-000ad6baff40) 배민의 개발에 대한 이야기지만 onboarding 문서 참고로도 좋음
 * [Making the Remote Onboarding a Success](https://engineering.zalando.com/posts/2021/04/making-the-remote-onboarding-a-success.html)
 * [Innovating onboarding experience at your companies with technologies - YouTube](https://www.youtube.com/watch?v=0S1WjrkuQPM)
+* [리멤버의 온보딩 과정을 소개합니다 | DRAMA&COMPANY](https://blog.dramancompany.com/2021/08/%eb%a6%ac%eb%a9%a4%eb%b2%84%ec%9d%98-%ec%98%a8%eb%b3%b4%eb%94%a9-%ea%b3%bc%ec%a0%95%ec%9d%84-%ec%86%8c%ea%b0%9c%ed%95%a9%eb%8b%88%eb%8b%a4/)
 * [Under-promise and over-deliver](https://www.thestartupbible.com/2019/10/under-promise-and-over-deliver.html) 일하는 자세로서 매우 동감하는 글. 제목이 모든 걸 알려준다
 * [지금, 이직을 생각하는 당신에게](https://ppss.kr/archives/204910) 당연한 이야기인데 변화가 늦은 다른 직종에서는 놀라울 수도 있겠다는 생각이 듦
 * [일 좀 하게 해 줘, 발목잡지 말고](https://brunch.co.kr/@jinhoyooephf/18) 품의 제도의 역사 및 개선 방법(사실은 글로벌 스탠다드)
