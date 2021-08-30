@@ -688,7 +688,6 @@ Algorithm
 * [백준 1060번 구간 : 후보해를 추린다](https://codingdog.tistory.com/entry/%EB%B0%B1%EC%A4%80-1060%EB%B2%88-%EA%B5%AC%EA%B0%84-%ED%9B%84%EB%B3%B4%ED%95%B4%EB%A5%BC-%EC%B6%94%EB%A6%B0%EB%8B%A4)
 
 # Tree
-* [강좌15 - 자료구조(AVL 트리(tree))](https://www.zerocho.com/category/Algorithm/post/583cacb648a7340018ac73f1)
 * [Left-leaning Red-Black Trees](http://www.cs.princeton.edu/~rs/talks/LLRB/LLRB.pdf)
 * [Tree compression using string grammars](http://arxiv.org/abs/1504.05535)
 * [The easy way to implement a Red-Black tree](http://www.garrisonjensen.com/programming/2015/05/15/easy-red-black-tree.html)
@@ -717,7 +716,9 @@ Algorithm
 * [트리 dp : 스크루지 민호 문제로 간단한 것만 풀어 봅시다](https://codingdog.tistory.com/entry/%ED%8A%B8%EB%A6%AC-dp-%EC%8A%A4%ED%81%AC%EB%A3%A8%EC%A7%80-%EB%AF%BC%ED%98%B8-%EB%AC%B8%EC%A0%9C%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B2%83%EB%A7%8C-%ED%92%80%EC%96%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 
 ## AVL Tree
+* [강좌15 - 자료구조(AVL 트리(tree))](https://www.zerocho.com/category/Algorithm/post/583cacb648a7340018ac73f1)
 * [AVL Tree](https://ratsgo.github.io/data%20structure&algorithm/2017/10/27/avltree/)
+* [코드라떼 자바 자료구조 - AVL 트리 개념 - YouTube](https://www.youtube.com/watch?v=9BiHgy40NNE)
 
 ## B Tree
 * [The Ubiquitous B-Tree](http://wwwold.cs.umd.edu/class/fall2002/cmsc818s/Readings/b-tree.pdf)
