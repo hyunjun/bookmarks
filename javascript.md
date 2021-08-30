@@ -1060,6 +1060,7 @@ Javascript
 * [ES2021 ES12에 추가될(된) 항목](https://blog.naver.com/pjt3591oo/222214299807)
 * [ES2021 - YouTube](https://www.youtube.com/playlist?list=PLcqDmjxt30RvEEN6eUCcSrrH-hKjCT4wt)
 * [Dongjin | 자바스크립트 2021](https://dongqui.github.io//posts/es2021)
+* [WeakRefs와 Finalizers 위주로 정리해본 ES2021 · shiren the creator](https://blog.shiren.dev/2021-08-30/)
 * [ES Modules in Depth - ui.dev](https://ui.dev/esmodules/)
 * Babel
   * [Babel 너 믿을수 있니?](http://sculove.github.io/blog/2016/07/26/Babel-%EB%84%88-%EB%AF%BF%EC%9D%84%EC%88%98-%EC%9E%88%EB%8B%88/)
