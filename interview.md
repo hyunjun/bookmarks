@@ -211,6 +211,7 @@ Interview
 * [Staff engineer interview 경험](https://www.facebook.com/groups/helpdev/permalink/4088725231186787/)
 * [시리즈 | 개발자 취업 가이드 - ding_coding_co](https://velog.io/@academey/series/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B7%A8%EC%97%85%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [<한국의 고도 성장기 종말>과 <IT 기술 변화>가 낳은 '문송'](https://soprize.so/answer/392)
+* [이직에 실패한 5가지 케이스](https://brunch.co.kr/@mobiinside/3388)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
