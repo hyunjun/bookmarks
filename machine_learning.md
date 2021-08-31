@@ -1336,6 +1336,7 @@ Machine Learning
   * [Scikit-Learn Course - Machine Learning in Python Tutorial - YouTube](https://www.youtube.com/watch?v=pqNCD_5r0IU)
   * [Scikit-learn Crash Course - Machine Learning Library for Python - YouTube](https://www.youtube.com/watch?v=0B5eIE_1vpU)
   * [Machine learning with missing values — Dirty data science](http://dirtydata.science/python/gen_notes/01_missing_values.html)
+  * [How to Build Machine Learning Pipeline with Scikit-Learn? And Why is it essential? – Life With Data](https://lifewithdata.com/2021/04/02/how-to-build-machine-learning-pipeline-with-scikit-learn-and-why-is-it-essential/)
 * [shap: A game theoretic approach to explain the output of any machine learning model](https://github.com/slundberg/shap)
   * [Interpret Any Machine Learning Model With Shapley Values - YouTube](https://www.youtube.com/watch?v=so_82GfrVnI)
 * [shapash: Shapash makes Machine Learning models transparent and understandable by everyone](https://github.com/MAIF/shapash)
