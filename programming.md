@@ -944,6 +944,7 @@ Programming
 * [Stop overselling Event Sourcing as the silver bullet to microservice architectures | by Oskar uit de Bos | The Startup | Medium](https://medium.com/swlh/stop-overselling-event-sourcing-as-the-silver-bullet-to-microservice-architectures-f43ca25ff9e7)
 * [Event Sourcing - YouTube](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 * [Why Event Sourced Systems Fail eng / Greg Young - YouTube](https://www.youtube.com/watch?v=FKFu78ZEIi8)
+* [Event Sourcing You are doing it wrong by David Schmitz - YouTube](https://www.youtube.com/watch?v=GzrZworHpIk)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
