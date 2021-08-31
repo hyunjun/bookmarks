@@ -775,6 +775,7 @@ Git
 
 # Library
 * [Manage multiple Git identities](https://github.com/prydonius/karn)
+* [GitHub 멀티 어카운트를 사용할 때 유용한 Git 설정 - LainyZine](https://www.lainyzine.com/ko/article/useful-git-settings-when-using-github-multi-account/)
 * [GitHub과 연동해서 의존성 라이브러리를 관리할 수 있는 서비스들](https://blog.outsider.ne.kr/1323)
 * [개발 툴소개 + 수다 (2018-12-07) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=B0jXvwX6_rk)
 * [Github 컨텐츠 관리 플랫폼 개발](http://qwefgh90.github.io/javascript/Github-%EC%BB%A8%ED%85%90%EC%B8%A0-%EA%B4%80%EB%A6%AC-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B0%9C%EB%B0%9C/)
