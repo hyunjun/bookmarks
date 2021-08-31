@@ -1067,6 +1067,7 @@ Docker
   * [DevTron - k8s용 소프트웨어 딜리버리 워크플로우 | GeekNews](https://news.hada.io/topic?id=4593)
 * [faasd: A lightweight & portable faas engine](https://github.com/openfaas/faasd)
 * [Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. (Project under CNCF)](https://github.com/fluid-cloudnative/fluid) 분산 데이터 세트 오케스트레이터/엑셀러레이터
+* [gateway-api: Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs](https://github.com/kubernetes-sigs/gateway-api)
 * [Helm - The package manager for Kubernetes](https://helm.sh/)
   * [Helm 사용법](http://reoim.tistory.com/37)
   * [How to migrate from Helm v2 to Helm v3](https://helm.sh/blog/migrate-from-helm-v2-to-helm-v3/)
