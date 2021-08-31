@@ -1068,6 +1068,7 @@ Java
   * [iOS 플랫폼의 Jenkins CI 환경 구축하기 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/5706/)
   * [Devops 2021: The best Jenkins Plugins to have in 2021 | by DevopsCurry | DevopsCurry | Medium](https://medium.com/devopscurry/devops-2021-the-best-jenkins-plugins-to-have-in-2021-b015189a19b5)
   * [코딩스타트 :: Jenkins - Jenkins dood(docker out of docker)로 실행시켜 agent docker 사용하기](https://coding-start.tistory.com/329)
+  * [Webhook을 이용하여 CI CD 구성하기 - 시리즈를 시작하며](https://wonit.tistory.com/581)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
   * [practice - install java11 using jenv](https://gist.github.com/hyunjun/88ad5a8172acf4801c903980ecba074e)
   * [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
