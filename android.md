@@ -174,6 +174,7 @@ Android
 * [BuildTypes와 Flavor를 이용해 안드로이드 환경변수 설정하는 방법](https://developer88.tistory.com/234)
 * [안드로이드의 BuildConfig 활용](http://sunphiz.me/wp/archives/3557)
 * [Android의 View, Canvas, Surface 그리고 Window에 관한 정리](https://developer88.tistory.com/225)
+* [안드로이드 커스텀뷰, 커스텀 뷰그룹 만들기 | Jungwoon Blog](https://jungwoon.github.io/android/2021/08/31/Custom-View.html)
 * [Making our Android Studio Apps Reactive with UI Components & Redux](https://netflixtechblog.com/making-our-android-studio-apps-reactive-with-ui-components-redux-5e37aac3b244)
 * [Android Emulator 30.0.10 ~ Freeform Window Mode](http://pluu.github.io/blog/android/emulator/2020/06/14/emulator-freeform/)
 * [M1 맥북에서 안드로이드 에뮬레이터 사용하기](http://dalinaum.github.io/android/2021/03/15/m1-android-emulatore.html)
