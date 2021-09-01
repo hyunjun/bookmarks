@@ -639,6 +639,7 @@ Clojure
 * [t3tr0s-slides](https://shaunlebron.github.io/t3tr0s-slides)
 * [tau.alpha - a ClojureScript library for managing webworkers, ideally similar to Clojure's concurrency primitives](https://github.com/johnmn3/tau.alpha)
 * [untangled - A ClojureScript-based webapp framework](http://untangled-web.github.io/untangled/index.html)
+* [xforms: Extra transducers and reducing fns for Clojure(script)](https://github.com/cgrand/xforms)
 * [zprint - A fast zprint filter](https://github.com/kkinnear/zprint)
 
 # Conference
@@ -1100,6 +1101,7 @@ Clojure
   * [babashka-sql-pods: Babashka pods for SQL databases](https://github.com/babashka/babashka-sql-pods)
   * [bb-clis: Babashka CLIs](https://github.com/cldwalker/bb-clis)
   * [bb-guestbook](https://github.com/SVMBrown/bb-guestbook) Example webserver with Babashka
+  * [bb-lambda: AWS Lambda custom runtime for Babashka scripts](https://github.com/tatut/bb-lambda)
   * [pod-babashka-sqlite3: A babashka pod for interacting with sqlite3](https://github.com/babashka/pod-babashka-sqlite3)
   * [reorder.clj babashka script for reordering requires and imports in clojure files](https://gist.github.com/laurio/01530ea7700752885df21e92bb926f75)
   * selmer [Babashka Selmer << in action – Nextjournal](https://nextjournal.com/borkdude/babashka-selmer)
@@ -1131,6 +1133,7 @@ Clojure
 # Machine Learning ML
 * [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)
 * [Scicloj ml-study 12.2: Literate programming with Notespace, data visualizations with Hanami - YouTube](https://www.youtube.com/watch?v=2tGk1Jh7dJs)
+  * [Scicloj status report: Notespace, 2021-08-19 - YouTube](https://www.youtube.com/watch?v=Ufyqwzn1RDs)
 * [BTables: A fast, compact disk format for machine learning](https://medium.com/@framedio/btables-a-fast-compact-disk-format-for-machine-learning-f719692e2619)
 * [cortex - Machine learning in Clojure](https://github.com/thinktopic/cortex)
 * [scicloj.ml - Proposal for a Clojure machine learning library](https://github.com/scicloj/scicloj.ml)
