@@ -126,6 +126,8 @@ Redis
   * [Redis RENAME-COMMAND Parameter](http://redisgate.kr/redis/configuration/param_rename-command.php)
     * 성능저하 혹은 운영상 위험이 발생할 수 있는 명령의 이름을 바꾸는 방법
     * redis.conf에서 해당 명령을 변경 e.g. flushall -> xflushall, flushdb -> xflushdb
+* GEO
+  * [입 컨설팅 오일나우에서의 Redis 사용 방법 개선하기 – PART #1 | Charsyam's Blog](https://charsyam.wordpress.com/2021/08/31/%ec%9e%85-%ec%bb%a8%ec%84%a4%ed%8c%85-%ec%98%a4%ec%9d%bc%eb%82%98%ec%9a%b0%ec%97%90%ec%84%9c%ec%9d%98-redis-%ec%82%ac%ec%9a%a9-%eb%b0%a9%eb%b2%95-%ea%b0%9c%ec%84%a0%ed%95%98%ea%b8%b0-part-1/)
 * [INFO](https://redis.io/commands/INFO) disk usage 등 여러가지 정보
   * `info, info('cpu'), info('memory'), ...` in python
   * `info clients` or `echo "info clients" | nc -v <redis server> <redis port>` connected clients 개수
