@@ -216,6 +216,10 @@ Git
 * [Highlights from Git 2.33 | The GitHub Blog](https://github.blog/2021-08-16-highlights-from-git-2-33/)
 * [github.dev - GitHub코드를 VS Code로 1초만에 둘러보기 | GeekNews](https://news.hada.io/topic?id=4802)
 * [코드베이스 시각화 하기 | GeekNews](https://news.hada.io/topic?id=4782)
+* [git은 폴더경로가 변경된 것을 어떻게 알 수 있을까? - Kwoncharles Blog](https://kwoncheol.me/posts/git-rename-inference)
+  * git에서 파일 경로를 변경, 수정까지 한 경우 git이 어떻게 커밋히스토리를 유지하는지 추적한 글
+  * 추가/삭제된 파일의 hash로 후보를 찾고 이 파일을 규칙에 따라 chunk로 나는 뒤에 50% 이상 동일하면 변경된 것으로 인식
+  * 그래서 파일 마지막에 개행 문자가 없는 경우에 rename의 추적 과정이 왜 달라지는지도 설명
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
