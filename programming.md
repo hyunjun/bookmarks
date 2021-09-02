@@ -1007,6 +1007,7 @@ Programming
 * [Kafka와 MongoDB, Kubernetes로 유연하고 확장 가능한 LINE 쇼핑 플랫폼 구축하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-shopping-platform-kafka-mongodb-kubernetes/)
 * [**Event Driven Architecture란?. MicroService Architecture(MSA)는 loosely… | by yjs0997 | DT Evangelist 기술 블로그 | Medium**](https://medium.com/dtevangelist/event-driven-microservice-%EB%9E%80-54b4eaf7cc4a) 강추
 * [Thinking in Events: From Databases to Distributed Collaboration Software - YouTube](https://www.youtube.com/watch?v=ePHpAPacOdI)
+* [My TOP Patterns for Event Driven Architecture - YouTube](https://www.youtube.com/watch?v=P5hq6iWn_p8)
 
 ## Architecture Microservice MSA
 * [**Microservice Architecture**](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)
@@ -1554,6 +1555,7 @@ Programming
 * [Type Fast, Work Fast. A programmer’s approach to optimize… | by Lucas Soares | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/type-fast-work-fast-b80eacd10e26)
 * [eXtreme Programming](https://www.theteams.kr/teams/2694/post/67869)
 * [The Ten Commandments of egoless programming - TechRepublic](https://www.techrepublic.com/article/the-ten-commandments-of-egoless-programming/) 직접 관계가 있지는 않지만 기억해둘만한 좋은 이야기
+* [Reasons & Ways to Improve Code Quality • Venkat Subramaniam • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=znZlF4uQBN0)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
