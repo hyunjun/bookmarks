@@ -588,6 +588,18 @@ Programming
 * [How Netflix Scales Its API with GraphQL Federation - YouTube](https://www.youtube.com/watch?v=QrEOvHdH2Cg)
 * [How We Design Our APIs at Slack - Slack Engineering](https://slack.engineering/how-we-design-our-apis-at-slack/)
   * [Slack이 API를 디자인 하는 법 | GeekNews](https://news.hada.io/topic?id=4854)
+  * 디자인 원칙
+    * 한 가지 일만 잘한다: 한 번에 많은 문제를 해결하려고 하지 말고 간단한 API를 만들면 이해도 확장도 용이
+    * 빠르고 쉽게 시작할 수 있게 작성: 처음 하는 사람도 15분 이내에 첫 API 호출이 가능해야 함
+    * 직관적으로 일관성 있게 노력: 문서 없이도 API 추측 가능해야 함
+    * 의미 있는 오류 반환: 개발자가 문제 해결 용이
+    * 확장과 성능을 고려해 설계: 큰 컬렉션을 페이징하고 다른 큰 컬렉션 안에 다른 큰 컬렉션을 임베딩하지 않고 API 레이트를 제한
+    * 호환성을 깨뜨리는 변경 회피
+  * 디자인 프로세스
+    * API 명세서 작성
+    * 내부 API 리뷰
+    * 초기 파트너 피드백
+    * 베타 테스트
 * [Consistency, Coupling, and Complexity at the Edge](https://www.infoq.com/articles/consistency-coupling-complexity/) RESTful, GraphQL
 * [How to Hack APIs in 2021 by Hakluke and Farah Hawa | Detectify Labs](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
@@ -2615,6 +2627,7 @@ Programming
   * [기술 뉴스 #177 : 21-07-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1553)
   * [기술 뉴스 #178 : 21-07-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1554)
   * [기술 뉴스 #180 : 21-08-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1560)
+  * [기술 뉴스 #181 : 21-09-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1564)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -2659,6 +2672,7 @@ Programming
   * [월간 개발자스럽다 #67 - 개발자스럽다](https://blog.gaerae.com/2021/05/monthly.html)
   * [월간 개발자스럽다 #68 - 개발자스럽다](https://blog.gaerae.com/2021/06/monthly.html)
   * [월간 개발자스럽다 #69 - 개발자스럽다](https://blog.gaerae.com/2021/08/monthly7.html)
+  * [월간 개발자스럽다 #70 - 개발자스럽다](https://blog.gaerae.com/2021/09/monthly.html)
 * [44BITS 뉴스레터 2020년 11주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-11)
 * [44BITS 뉴스레터 2020년 12주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-12)
 * [44BITS 뉴스레터 2020년 13주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-13)
