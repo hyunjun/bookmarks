@@ -275,6 +275,9 @@ Go
 * [Golang Dependency Injection — { DEV SWEETER ; }](https://syntaxsugar.tistory.com/entry/Golang-Dependency-Injection)
 * [Golang Configuration — { DEV SWEETER ; }](https://syntaxsugar.tistory.com/entry/Golang-Configuration)
 * [Clean Swift Scaffold. 화면에 필요한 객체준비하는게 몹시 귀찮았던 iOS개발자의 go활용기 | by Hyeonsu Ha | 당근마켓 팀블로그 | Aug, 2021 | Medium](https://medium.com/daangn/clean-swift-scaffold-3e4b5cec475)
+  * Swift로 iOS 개발을 하면서 화면 구성에 필요한 다양한 객체들을 매번 만드는 게 번거로움
+  * 처음에는 Usecase를 기반으로 필요한 코드와 Spy 객체를 만들어 주는 iGospy를 만들어 사용
+  * 그 다음으로 복사 붙이기를 하지 않고 커맨드라인에서 바로 생성하기 Clean Swift Scaffold 작성
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
