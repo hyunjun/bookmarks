@@ -113,7 +113,6 @@ Writing
 * [주석 분석기를 이용한 간단한 API 문서화 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/comments-parsing-api-documentation/)
 * [Why developers should know how to write](https://medium.com/free-code-camp/why-developers-should-know-how-to-write-dc35aa9b71ab)
 * [The most important part of a data science project is writing a blog post](https://towardsdatascience.com/the-most-important-part-of-a-data-science-project-is-writing-a-blog-post-50715f37833a)
-* [기술 문서 작성 5단계](https://tech.kakaoenterprise.com/65)
 * [잘못 된 문서화, 잘 된 문서화](https://tech.peoplefund.co.kr/2019/12/06/bad-and-good-documentation.html)
 * [실전 Digital Tranformation 아이디어 공유](https://www.popit.kr/%EC%8B%A4%EC%A0%84-digital-tranformation-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EA%B3%B5%EC%9C%A0/)
 * [2019년 11월 2일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-11-2.html) 튜토리얼과 하우투 문서의 차이점
@@ -155,8 +154,8 @@ Writing
 * [The Mayfield Handbook of Technical & Scientific Writing](https://www.mit.edu/course/21/21.guide/toc.htm)
 * [Writing a technical book: from idea to print](https://sararobinson.dev/2020/11/17/writing-a-technical-book.html)
 * [구글 테크니컬라이터가 전하는 이야기 - Tech. Writer Log](https://naraewool.gitbook.io/techwriter/untitled/google-techwriter)
-* [기술문서 쉽게 쓰기 지침 #테크니컬라이터 #언어정책](https://tech.kakaoenterprise.com/105)
-* [개발자들을 위한 테크니컬 라이팅 10계명 #기술문서 작성법#개발자 글쓰기 #테크니컬라이터](https://tech-kakaoenterprise.tistory.com/110)
+* [“좋은 문서 없으면 좋은 코드도 없어” 테크니컬 라이터의 중요성 - ITWorld Korea](https://www.itworld.co.kr/news/202624)
+* ['테크니컬라이팅' 태그의 글 목록](https://tech-kakaoenterprise.tistory.com/tag/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC%EB%9D%BC%EC%9D%B4%ED%8C%85)
 
 # Reading
 * [How to Remember What You Read](https://fs.blog/2021/08/remember-books/)
