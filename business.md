@@ -636,6 +636,8 @@ Business
 * [신임 리더가 경계해야 할 네 가지 증후군 | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/%ec%8b%a0%ec%9e%84-%eb%a6%ac%eb%8d%94%ea%b0%80-%ea%b2%bd%ea%b3%84%ed%95%b4%ec%95%bc-%ed%95%a0-%eb%84%a4-%ea%b0%80%ec%a7%80-%ec%a6%9d%ed%9b%84%ea%b5%b0/)
 * [이해관계자 시대의 리더십 | 리더십 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/8_1/article_no/1741) leadership에만 국한되지 않고 business 전반에 걸친 이야기
 * [Biz times 강한 리더는 필요하다…조직원을 강하게 만드는 리더는 꼭 필요하다 - 매일경제](https://www.mk.co.kr/news/business/view/2021/08/824257/)
+* [인정리더 vs. 존경리더](https://brunch.co.kr/@say2lee/49)
+* [오바마에게 배우는 리더의 소통법 직장인을 위한 김호의 ‘생존의 방식’](https://www.donga.com/news/article/all/20210901/109025103/1)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -828,6 +830,8 @@ Business
   * [Startup Concepts - 만화책 스타일의 스타트업 단어 설명 | GeekNews](https://news.hada.io/topic?id=4671)
 * [초반전 경영학… 실리콘밸리 달구는 신성 스타트업의 비밀](https://www.thescoop.co.kr/news/articleViewAmp.html?idxno=51558)
 * [World Entrepreneurs’ Day(세계 기업가의 날)을 기념하며 소개하는 스타트업을 위한 7가지 팁과 정보 | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/08/21/7-startup-tips-and-tricks-in-honor-of-world-entrepreneurs-day/)
+* [스타트업 인프랩 재무적 Log 1 (Found ~ Angel) - Hyung Joo](https://www.hyungjoo.me/%EC%9D%B8%ED%94%84%EB%9E%A9-%EC%9E%AC%EB%AC%B4%EC%A0%81-log-1/)
+* [스타트업 인프랩 재무적 Log 2 (Angel ~ Seed) - Hyung Joo](https://www.hyungjoo.me/%ec%9d%b8%ed%94%84%eb%9e%a9-%ec%9e%ac%eb%ac%b4%ec%a0%81-log-2/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
