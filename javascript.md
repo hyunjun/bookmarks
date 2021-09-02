@@ -669,6 +669,7 @@ Javascript
 * [로그인 페이지 만들기 실무편 | Animated Login page Tutorial (Label Text Animation) - YouTube](https://www.youtube.com/watch?v=dWfpp-0riYA)
 * [Learn JavaScript Event Listeners In 18 Minutes - YouTube](https://www.youtube.com/watch?v=XF1_MlZ5l6M)
 * [Web Worker를 사용한 이미지 로딩 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-01-03-image-load-by-web-worker)
+* [브라우저 Web Worker 다루기 with 오피스 문서 텍스트 추출 및 암호해제 – tech.kakao.com](https://tech.kakao.com/2021/09/02/web-worker/)
 * [Teaching the Unfortunate Parts](https://www.executeprogram.com/blog/teaching-the-unfortunate-parts)
 * [WebOTP API를 활용한 SMS 본인인증 기능 구현하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/01/31/WebOTP-API.html)
 * [FE Guide | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/fe-guide/ko)
@@ -1092,6 +1093,8 @@ Javascript
   * [ES6 const는 불변성(immutability)과 관계 없어요](https://medium.com/@khwsc1/es6-const%EB%8A%94-%EB%B6%88%EB%B3%80%EC%84%B1-immutability-%EA%B3%BC-%EA%B4%80%EA%B3%84-%EC%97%86%EC%96%B4%EC%9A%94-%EB%B2%88%EC%97%AD-118d3d50b909)
   * [Javascript ES6 Proxy](http://dev-momo.tistory.com/entry/javascript-ES6-Proxy)
   * [Deploying ES2015+ Code in Production Today](https://philipwalton.com/articles/deploying-es2015-code-in-production-today/)
+  * [약한 참조와 Finalizer | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210624) WeakRef
+  * [WeakMap이 알고 싶다 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210901) ES2015
   * [신선함으로 다가온 ES6 경험](http://woowabros.github.io/experience/2017/12/01/es6-experience.html)
   * [JavaScript hacks for ES6 hipsters](https://hackernoon.com/javascript-hacks-for-es6-hipsters-67d633ce8ace)
   * [Haskell in ES6: Part 1](http://casualjavascript.com/javascript/es6/haskell/native/implementation/2015/11/12/haskell-in-es6-part-1.html)
@@ -1423,6 +1426,8 @@ Javascript
   * [REACT와 ELECTRONJS로 데스크톱 앱 만들어보기 #2 라우팅](https://www.fiveminutesdev.com/react%EC%99%80-electronjs%EB%A1%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EC%95%B1-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-2-%EB%9D%BC%EC%9A%B0%ED%8C%85/)
   * [How to build a React based Electron app - paachu - Medium](https://medium.com/@impaachu/how-to-build-a-react-based-electron-app-d0f27413f17f)
   * [FE개발자의 성장 스토리 11 : Electron, 저도 한번 해보겠습니다. – tech.kakao.com](https://tech.kakao.com/2021/08/17/frontend-growth-11/)
+    * 카카오에서 Electron 앱을 만들면서 배운 과정
+    * 인증 리다이렉트를 위해 will-navigate 이벤트 사용, 여러 화면을 그리기 위해 BrowserWindow안에 BrowserView를 만들어 사용, 상태 공유를 위해 메인 프로세스 이용, 업데이트나 알림 구현 등 프로덕션 수준의 앱을 만들기 위해서 겪은 과정
   * [WebView2 and Electron | Electron Blog](https://www.electronjs.org/blog/webview2)
     * Microsoft의 WebView2와 Electron 차이점 정리
     * 둘 다 웹 기술로 데스크톱 앱을 만드는 것이 목적이지만 Electron은 Chromium 기반 WebView2는 Edge 기반
@@ -1677,6 +1682,11 @@ Javascript
 * [Rune.js - a JavaScript library for programming graphic design systems with SVG in the browser or node.js](http://runemadsen.github.io/rune.js/)
 * [runtime.js — JavaScript library OS](https://medium.com/@iefserge/runtime-js-javascript-library-os-823ada1cc3c)
 * [Rush: a scalable monorepo manager for the web](https://rushjs.io/)
+  * [Rush로 프론트엔드 모노레포 도입기. 이 글에서는 밀당 영어 프론트엔드에서 커다란 코드 덩어리로 되어 있던… | by Jeong Seong Dae | 밀당 팀블로그 | Aug, 2021 | Medium](https://medium.com/mildang/rush%EB%A1%9C-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EB%AA%A8%EB%85%B8%EB%A0%88%ED%8F%AC-%EB%8F%84%EC%9E%85%EA%B8%B0-5da0c5bc9b30)
+    * 밀당 영어에서 프론트엔드가 큰 모놀리스와 멀티레포로 구성
+    * 멀티레포에서 갈라진 여러 의존성과 다른 레포의 변경사항을 보기 어려운 점, 퍼블리싱 순서의 어려움과 의존성의 업데이트를 위해 모노레포로 변경 결정
+    * 모노레포 관리 도구를 모두 나열한 뒤 각각의 이유로 후보군 제거, Nx와 Rush의 기능을 자세히 비교한 뒤 장단점이 있지만 Nx에서 플러그인을 만드는 부담, 현재 프로젝트를 점진적으로 바꾸기 위해서는 Rush가 더 낫다고 판단
+    * 이렇게 선택한 Rush를 이용해서 사용하던 React 버전을 점진적으로 올릴 수 있게 프로젝트 설정하는 방법 설명
 * [simplePARALLAX - the easiest way to get a parallax effect with javascript](https://simpleparallax.com/)
 * [socketcluster - Highly scalable realtime microframework http://socketcluster.io ](https://github.com/SocketCluster/socketcluster)
 * [serializr - Serialize and deserialize complex object graphs to and from JSON and Javascript classes](https://github.com/mobxjs/serializr)
@@ -3748,6 +3758,12 @@ Javascript
 * [orbit: Experimental spaced repetition platform for exploring new ideas in memory augmentation and programmable attention](https://github.com/andymatuschak/orbit)
 * [saas: Build your own SaaS business with SaaS boilerplate. Productive stack: React, Material-UI, Next, MobX, WebSockets, Express, Node, Mongoose, MongoDB. Written with TypeScript](https://github.com/async-labs/saas)
 * [safe-typeorm: TypeORM helper for safe type development](https://github.com/samchon/safe-typeorm)
+* [sapa: sapa is a library that creates a UI with a simple event system](https://github.com/easylogic/sapa)
+  * [개발자, UI 라이브러리를 만들다](https://velog.io/@easylogic/%EA%B0%9C%EB%B0%9C%EC%9E%90-UI-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%EB%A7%8C%EB%93%A4%EB%8B%A4)
+    * 직접 다룰 수 있는 UI 라이브러리가 필요해서 Sapa라는 UI 라이브러리를 만드는 easylogic님
+    * Sapa로 에디터를 만들면서 정리가 되어서 직접 만든 라이브러리 소개하는 글
+    * 컴파일 없이 쓸 수 있고 Virtual DOM을 사용하지 않고 DOM 이벤트를 위한 핸들러를 가지고 있는 특성
+    * Sapa의 설치부터 사용 방법 설명. 에디터를 포함해서 바닥부터 하나하나 다 제작 중
 * [serina - tweet downloader https://libsora.so/serina ](https://github.com/if1live/serina)
 * [TGrid - TypeScript Grid Computing Framework](https://tgrid.dev)
   * [TGrid 3분 PR 동영상](https://www.youtube.com/watch?v=r7zRdc0XxLk)
