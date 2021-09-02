@@ -848,6 +848,7 @@ App
 * [Some Differences between macOS and Common Unix Systems](https://www.dyx.name/posts/macunix.html)
 * [Hardening macOS - Ricard Bejarano](https://blog.bejarano.io/hardening-macos/)
 * [Xcode 파일청소로 맥 하드용량 확보 - dobiho on HCI](http://dobiho.com/7192/)
+* [macOS 안내서](https://subicura.com/mac/)
 
 ## Mac App
 * [**practice - 최초 설치 후 install**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)
@@ -925,6 +926,8 @@ App
 * Alfred
   * [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
   * [네이버 카페 검색용 알프레드 워크플로우 제작 - 코드쓰는사람](https://taegon.kim/archives/10357)
+    * macOS의 생산성 도구 중 하나인 Alfred를 이용해 원하는 네이버 카페에서 바로 검색하는 커스텀 워크플로우 작성 방법 설명
+    * 네이버 카페가 UTF-8이 아니라 CP949이므로 이를 변환하는 Python과 PHP 스크립트를 작성
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
 * [AntiRTDPI macOS kernel extension helping to neutralise Rostelecom's passive DPI](https://github.com/dzhidzhoev/AntiRTDPI) 웹 차단 우회
 * [appcleaner](https://freemacsoft.net/appcleaner/)
@@ -1291,6 +1294,7 @@ App
 * [awesomevideoplayer.com](http://www.awesomevideoplayer.com/) multi screen 동시 조작 가능
 * [boltstream: Boltstream Live Video Streaming Website + Backend](https://github.com/benwilber/boltstream)
 * Canva [이미지 편집 서비스 캔바(Canva)](https://www.44bits.io/ko/post/preparing-wtd-meetup-without-a-designer-nor-photoshop#%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%BA%94%EB%B0%94canva)
+* [cmdpxl: totally practical command-line image editor](https://github.com/knosmos/cmdpxl)
 * [다운튜브 DownTube - 동영상 다운로드 프로그램 4K/8K 가능](http://downtube.org/)
 * [ecam - 쉬운 녹화 & 유튜브 방송 프로그램](https://ryulib.tistory.com/471)
 * [ExifTool by Phil Harvey - Read, Write and Edit Meta Information!](https://exiftool.org)
@@ -1304,6 +1308,7 @@ App
 * [ImagePlay is a rapid prototyping tool for building and testing image processing algorithms](http://imageplay.io/)
 * [imgdiff - 정말 빠른 이미지 비교 도구 | GeekNews](https://news.hada.io/topic?id=3390)
 * [Jitsi.org - develop and deploy full-featured video conferencing](https://jitsi.org/)
+* [jspaint](https://jspaint.app/) 마이크로소프트의 그림판을 자바스크립트로 만든 오픈소스 그림판
 * [MoseoriTube](https://github.com/moseoridev/MoseoriTube) youtube downloader
   * [moseoritube.herokuapp.com](https://moseoritube.herokuapp.com/)
 * [mplayerx.org](http://mplayerx.org) 설치할 때 yahoo 관련 설치가 먼저 나오는데 skip할 것
