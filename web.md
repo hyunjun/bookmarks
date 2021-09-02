@@ -1031,6 +1031,13 @@ Web
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
 * [Pyodide](https://pyodide.org/) Python with the scientific stack, compiled to WebAssembly
   * [모질라, 브라우저에 파이썬 통합하는 ‘파이어다이드’ 프로젝트 분리 - CIO Korea](https://www.ciokorea.com/news/191529)
+* [WasmEdge Runtime is a high-performance, extensible, and hardware optimized WebAssembly Virtual Machine for automotive, cloud, AI, and blockchain applications.](https://github.com/WasmEdge/WasmEdge)
+  * [WebAssembly serverless functions in AWS Lambda | Cloud Native Computing Foundation](https://www.cncf.io/blog/2021/08/25/webassembly-serverless-functions-in-aws-lambda/)
+    * WasmEdge을 이용해서 AWS Lambda에서 WebAssembly로 서버리스 펑션 작성 방법 설명
+    * WebAssembly는 Python이나 JavaScript보다 훨씬 빠르고 보안에 강하면서 이식성이 좋아서 서버리스 펑션에 좋음
+    * 데모로 Rust로 작성한 WebAssembly 함수를 도커 이미지로 만들어서 Lamba에 배포하는 방법 설명
+    * 두 번째 예제는 Tensorflow를 이용해서 추론하는 WebAssembly 함수
+    * 둘 다 WasmEdge로 실행
 * [Wasmer - The Universal WebAssembly Runtime](https://wasmer.io/)
   * [서버측 웹어셈블리 런타임 ‘와스머’, GA 버전 공개 - CIO Korea](https://www.ciokorea.com/news/178284)
   * [Wasmer 1.0. By leveraging Wasm for software… | by Syrus Akbary | Wasmer | Jan, 2021 | Medium](https://medium.com/wasmer/wasmer-1-0-3f86ca18c043)
