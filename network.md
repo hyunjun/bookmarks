@@ -64,6 +64,14 @@ Network
 * [포트 포워딩이란? – Lamanus' Archive](https://lamanus.kr/59)
 * [**Boosting Dropbox upload speed—and making Windows’ TCP stack resilient to network reordering - Dropbox**](https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed#microsofts-long-term-fix)
 * TFO [TCP Fast Open? Not so fast! | APNIC Blog](https://blog.apnic.net/2021/07/05/tcp-fast-open-not-so-fast/)
+* [IPv4 vs. IPv6 FAQ · Tailscale](https://tailscale.com/kb/1134/ipv6-faq/)
+  * IPv6에 대한 오해 질문 정리
+    * IPv6는 1998년 첫 표준안 발표 1999년부터 주소 할당, 롤아웃 프로세스가 시작되었지만 20년이 지난 지금까지 아직 미완료
+    * 대부분의 경우 둘 간의 속도 차이 없음. 가장 큰 성능 차이는 경로 최적화에 따라 다르지만, IPv4, IPv6 중 어느 쪽을 더 효율적으로 라우팅하는지는 IS에 따라 다름
+    * IPsec이 IPv6 표준 일부로 간주하지만 자동으로 암호화하지는 않고 선택사항. 실제로 IPv4처럼 VPN 터널 외에는 거의 IPsec을 미사용
+    * IPv6는 설계 목표는 많이 달성했지만, 예상처럼 빠르게 롤아웃되지 않았고 IPv4 대체하지도 못함
+    * IPv6의 롤아웃이 느린 이유는 IPv4와 같이 배포할 때 충분한 가치를 제공하지 못했기 때문
+    * IPv6의 주목적이 IPv4의 주소 공간을 늘리는 것이었으므로 IPv4 주소 공간이 제한적인 사설망에서 많이 사용
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
