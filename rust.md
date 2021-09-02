@@ -236,6 +236,7 @@
     * 속도 저하 없이 안정적인 네트워킹 어플리케이션을 만들기 위한 스택
     * 1.0은 오래 쓰일 안정적인 버전. 최소 5년동안 1.0 브랜치를 유지할 것이며, 2.0은 3년내에는 출시할 계획 없음
     * 2021년엔 Stream, io_uring, tracing 통합 등을 진행할 예정
+  * [Creating a Chat Server with async Rust and Tokio - YouTube](https://www.youtube.com/watch?v=Iapc-qGTEBQ)
 * [tray_rust - A toy ray tracer in Rust](https://github.com/Twinklebear/tray_rust)
 * [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)
 * [webrtc: A pure Rust implementation of WebRTC API. Rewrite Pion WebRTC stack (http://Pion.ly) in Rust!](https://github.com/webrtc-rs/webrtc)
