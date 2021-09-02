@@ -1154,6 +1154,9 @@ AWS
 * [Terraform Best Practices - DevOps Unicorns 2019](https://www.slideshare.net/AntonBabenko/terraform-best-practices-devops-unicorns-2019)
 * [Welcome - Terraform Best Practices](https://www.terraform-best-practices.com/)
 * [DevOps팀의 Terraform 모험 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/terraform-adventure/)
+  * Kurly에서 반복해서 만드는 스테이징/QA 인프라 환경을 관리하기 위해 IaC(Infrastructure as Code) 도구로 Terraform을 도입하는 과정 정리
+  * Terraform을 공부해서 스테이징 환경을 만들어 낼 수 있는 모듈과 Environment 코드를 작성하고 도입을 하려고 했지만 tfstate를 잘못 이해하여 설계부터 잘못된 것임을 깨닫고 목표 변경
+  * 이후 수동으로 관리할 부분과 Terraform으로 관리할 부분 구분, 리소스 간의 의존성을 확실히 이해할 것을 원칙으로 설정
 * [Giving Away The Keys To The Kingdom: Using Terraform To Automate Databricks - YouTube](https://www.youtube.com/watch?v=h8LrVmb4W2Q) terraform이 IaS에서 일반적으로 쓰이게 되는 걸까?
 
 # Tutorial
