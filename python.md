@@ -4619,6 +4619,7 @@ Python
 * [파이썬 코딩 무료 강의 (기본편) - 6시간 뒤면 여러분도 개발자가 될 수 있어요 나도코딩 - YouTube](https://www.youtube.com/watch?v=kWiCuklohdY)
 * [파이썬 YouTube 뮤직플레이어 개발 강좌](https://scv-life.tistory.com/97)
 * [The Best Way to Learn Python – Python Programming Tutorial for Beginners](https://www.freecodecamp.org/news/the-best-way-to-learn-python-python-programming-tutorial-for-beginners/)
+* [Tips and Examples - Codetorial](https://codetorial.net/tips_and_examples/index.html)
 
 # Web -> [web](web.md)
 
