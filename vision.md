@@ -715,6 +715,7 @@ Vision
 * [facenet - Face Recognition using Tensorflow](https://github.com/davidsandberg/facenet)
 * [face_recognition - The world's simplest facial recognition api for Python and the command line](https://github.com/ageitgey/face_recognition)
 * [Facial-Emotion-Recognition: Third year undergraduate project in Computer Science. Creation of facial emotion recognition system using deep learning (Keras, Tensorflow, OpenCV)](https://github.com/CallumAltham/Facial-Emotion-Recognition)
+* [HugsVision is a easy to use huggingface wrapper for state-of-the-art computer vision](https://github.com/qanastek/HugsVision)
 * [Lego-generator](https://github.com/uvipen/Lego-generator)
 * [malmopy: Python Library for working with Project Malmo - Hack & Tell Singapore](https://www.youtube.com/watch?v=-IbC88-Fa7w)
 * [mmtracking: OpenMMLab Video Perception Toolbox. It supports Single Object Tracking (SOT), Multiple Object Tracking (MOT), Video Object Detection (VID) with a unified framework](https://github.com/open-mmlab/mmtracking)
