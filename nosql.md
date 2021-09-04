@@ -39,6 +39,7 @@ NoSQL
 * [Have the tables turned on NoSQL? - Stack Overflow Blog](https://stackoverflow.blog/2021/01/14/have-the-tables-turned-on-nosql/)
 * [NoSQL Data Modeling Techniques – Highly Scalable Blog](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
 * [Airbridge가 직접 개발한 OLAP DB, Luft를 소개합니다](https://blog.ab180.co/posts/introducing-luft)
+* [How Discord Stores Billions of Messages | by Stanislav Vishnevskiy | Discord Blog](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
 
 # ArangoDB
 * [Performance comparison between ArangoDB, MongoDB, Neo4j and OrientDB](https://www.arangodb.com/2015/06/performance-comparison-between-arangodb-mongodb-neo4j-and-orientdb/)
@@ -284,6 +285,9 @@ NoSQL
 * [HazelCast](http://hazelcast.org/)
 * [Mastering Hazelcast IMDG](https://hazelcast.com/resources/mastering-hazelcast)
 * [Securing Hazelcast (tcp) traffic with Stunnel | by Kamran Zafar | The Startup | Medium](https://medium.com/swlh/securing-hazelcast-tcp-traffic-with-stunnel-ff2b4b93158a)
+
+# IceFireDB
+* [IceFireDB: Distributed disk storage database based on Raft and Redis protocol](https://github.com/gitsrc/IceFireDB)
 
 # In-memory In memory
 * [A K/V Store For In-Memory Analytics: Part 1](http://0xdata.com/blog/2014/02/kv-store-memory-analytics/)
