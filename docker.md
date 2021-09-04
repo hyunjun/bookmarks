@@ -71,6 +71,7 @@ Docker
 * [Docker](https://www.youtube.com/playlist?list=PLVx1qovxj-amqyqHceAhkcsopzi4PFcKc)
 * [**왜 굳이 도커(컨테이너)를 써야 하나요? 눈송이 서버의 한계를 넘어 컨테이너를 사용해야 하는 이유**](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
 * [**리눅스 컨테이너란?**](https://www.44bits.io/ko/keyword/linux-container)
+* [4 Linux technologies fundamental to containers | Opensource.com](https://opensource.com/article/21/8/container-linux-technology)
 * [stdout_013.log: 도커를 굳이 왜 사용해야하나요?](https://stdout.fm/13/)
 * [Docker in 100 Seconds](https://morioh.com/p/91121416b5d4)
 * [Docker 정리 #1 (개념 및 간단한 명령어 정리)](https://jungwoon.github.io/docker/2019/01/11/Docker-1/)
@@ -513,6 +514,7 @@ Docker
   * 환경이 코드에 있으므로 다른 개발자와도 공유해서 관리 가능
 * ["컨테이너 혁명을 주도하는" 도커의 의미와 장단점 - ITWorld Korea](https://www.itworld.co.kr/news/203644)
 * [도커 데스크톱, 대기업 사용자에게는 유료화된다 - CIO Korea](https://www.ciokorea.com/t/537/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98/206529)
+* [An Overview of Docker Desktop Alternatives](https://matt-rickard.com/docker-desktop-alternatives/)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -1028,6 +1030,7 @@ Docker
   * kubectl로 --dry-run=client/--dry-run=server로 하는 방법과 kubeval과 kubeconform 도구를 쓴 방법 비교
   * 잘못된 설정을 모두 잡아내는 방법은 --dry-run=server가 가장 확실, 속도는 가장 느림
   * 속도 면에서는 kubeconform이 가장 빠르고 kubeval에 비해 Kubernetes 버전도 최신까지 지원
+* [Automating quality checks for Kubernetes YAMLs - DEV Community](https://dev.to/wkrzywiec/automating-quality-checks-for-kubernetes-yamls-398)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1172,6 +1175,7 @@ Docker
   * [minikube에서 Loadbalancer type 서비스 테스트 하기](https://bcho.tistory.com/1308)
   * [How to Use Own Local Docker Images With Minikube | by Bhargav Bachina | BB Tutorials & Thoughts | Medium](https://medium.com/bb-tutorials-and-thoughts/how-to-use-own-local-doker-images-with-minikube-2c1ed0b0968)
   * [How To Run NodeJS API on Minikube | by Bhargav Bachina | Bachina Labs | Medium](https://medium.com/bb-tutorials-and-thoughts/how-to-run-nodejs-api-on-local-kubernetes-a9e61274be22)
+  * [**minikube로 docker와 docker-compose를 대체하기**](https://novemberde.github.io/docker/2021/09/02/podman-minikube.html) docker 유료화에 맞춘 시의적절한 글
 * [network-node-manager: network-node-manager is a kubernetes controller that controls the network configuration of a node to resolve network issues of kubernetes](https://github.com/kakao/network-node-manager)
   * [Kubernetes의 네트워크 이슈를 해결할 수 있는 network-node-manager – tech.kakao.com](https://tech.kakao.com/2021/03/03/network-node-manager/)
 * [node-feature-discovery: Node feature discovery for Kubernetes](https://github.com/kubernetes-sigs/node-feature-discovery)
@@ -1222,6 +1226,7 @@ Docker
   * [Pass secure information for building Docker images | by Rafael Natali | Marionete | Jul, 2021 | Medium](https://medium.com/marionete/pass-secure-information-for-building-docker-images-8adeafe08355)
 * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [codetainer allows you to create code 'sandboxes' you can embed in your web applications](https://github.com/codetainerapp/codetainer)
+* [containerd: An open and reliable container runtime](https://github.com/containerd/containerd) docker alternative
 * [d2hub - kakao Docker Hub](https://github.com/kakao/d2hub)
   * [d2hub playbook](https://github.com/kakao/d2hub-playbook)
   * [Docker Registry 2 authentication server](https://github.com/kakao/docker_auth)
@@ -1270,6 +1275,8 @@ Docker
     * Java 애플리케이션을 Docker 이미지로 만들 때 빌드과정 등의 복잡함을 쉽게 해결할 수 있도록 Google에서 만든 jib를 이용해서 Java 애플리케이션으로 도커 이미지를 사용하는 방법을 설명
     * Gradle로 jib를 설정해서 빌드부터 Docker 이미지 생성, 푸시까지 한 번에 되는 과정
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
+* [lima: Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)](https://github.com/lima-vm/lima) docker alternative
+  * [**containerd & Lima: Open source alternative to Docker for Mac | by Akihiro Suda | nttlabs | Sep, 2021 | Medium**](https://medium.com/nttlabs/containerd-and-lima-39e0b64d2a59)
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
 * [magicpak enables you to build minimal docker images without any bothersome preparation such as static linking](https://github.com/coord-e/magicpak)
 * [Morte: an intermediate language for super-optimizing functional programs](http://www.haskellforall.com/2014/09/morte-intermediate-language-for-super.html)
