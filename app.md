@@ -1556,6 +1556,8 @@ App
   * [Wise Data Recovery](http://www.wisecleaner.com/wise-data-recovery.html)
   * [WinHex](https://www.x-ways.net/winhex/)
 * [Active Window Logger - A simple MS-Windows (VB 2008) app to smartly log the currently active foreground window of the system](https://github.com/TheCodeArtist/Active-Window-Logger)
+* [Beeftext](https://beeftext.org/)
+  * ["자주 쓰는 문장을 단축키로" 무료 텍스트 확장 툴 '비프텍스트' - ITWorld Korea](https://www.itworld.co.kr/news/205444)
 * [Cairo - Transform your Windows desktop with Cairo](https://cairoshell.com/)
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://cmder.net/)
 * [DISKSPD - a storage load generator / performance test tool from the Windows/Windows Server and Cloud Server Infrastructure Engineering teams](https://github.com/microsoft/diskspd)
