@@ -2965,6 +2965,7 @@ Javascript
 * [ESLint - React에서 소스 코드를 분석하여 버그와 오류를 찾기 위해 ESLint를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/eslint/)
 * [Prettier - React에서 Prettier를 사용하여 코드의 포맷을 일정하게 유지시켜 보자](https://dev-yakuza.posstree.com/ko/react/prettier/)
 * [React 상태 관리 기술 소개 2021 ⚜️🌐 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210707)
+* [대수적 데이터 타입과 리액트 상태 관리 | 그린랩스](https://green-labs.github.io/algebraic-data-type)
 * [husky, lint-staged - React에서 husky와 lint-staged를 사용하여 Git에 커밋할 때, ESLint와 Prettier를 실행하도록 설정해 봅시다](https://dev-yakuza.posstree.com/ko/react/husky-lint-staged/)
 * [GitHub Actions으로 Prettier와 ESLint 사용하기 - React 프로젝트에 설정한 Prettier와 ESLint를 GitHub Actions를 사용하여 실행해 봅시다](https://dev-yakuza.posstree.com/ko/react/github-actions/prettier-eslint/)
 * [React's UI State Model vs Vanilla JavaScript DOM State — A Beginner's Introduction](https://arihantverma.com/posts/2021/07/17/react-ui-state-model-vs-vanilla-js/)
