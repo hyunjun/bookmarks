@@ -260,6 +260,7 @@ Interview
 * [아마존 인터뷰 후기 (Seattle SDE)](http://shadeofmeaning.blogspot.com/2019/04/seattle-sde.html)
 * [An Amazon Programmer's Perspective](https://gist.github.com/bricker/cb811b3b86d767124801)
 * [How To Stop Being Afraid of Technical Interviews | by Joey Colon | Better Programming | Medium](https://medium.com/better-programming/how-to-stop-being-afraid-of-technical-interviews-b60b064ff003)
+* [글로벌 칼럼 | 직장으로서의 AWS에 대해 잘 알려지지 않은 것 - ITWorld Korea](https://www.itworld.co.kr/news/206629)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
