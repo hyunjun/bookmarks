@@ -174,12 +174,13 @@ Network
 * [알아두면 쓸데없는 신비한 TLS 1.3](https://b.luavis.kr/server/tls-1.3)
 * [TLS 연결 디버깅: 인증서 오류를 찾아서](https://rein.kr/blog/archives/4525)
 * [TLS 연결 디버깅: Forward Secrecy 재확인하기](https://rein.kr/blog/archives/4529)
+* [**버즈빌의 개발 이야기- 보안 프로토콜 TLS 1.3**](https://brunch.co.kr/@mobiinside/1482) 기본적인 인증 관련 기초 내용부터 1.3의 변경내역까지 잘 정리
+* [The Illustrated TLS Connection: Every Byte Explained](https://tls.ulfheim.net/)
 * [블로그 설정 개편 (2021-05)](https://rein.kr/blog/archives/5359) Blog에 TLS 1.3 / HTTP2 / ECDSA 인증서 적용
 * [블로그 설정 개편: ECDSA 인증서 체인](https://rein.kr/blog/archives/5492)
 * [HTTPS - 1. 그림으로 이해하는 HTTPS](https://www.youtube.com/watch?v=NhTstvC7DYY)
 * [HTTPS - 2. HTTPS의 Ciphersuite -1. 키 교환과 인증](https://www.youtube.com/watch?v=iEig3jlT45Y)
 * [HTTPS - 3. 키 유도(Key derivation)](https://www.youtube.com/watch?v=er1eG2dfURQ)
-* [**버즈빌의 개발 이야기- 보안 프로토콜 TLS 1.3**](https://brunch.co.kr/@mobiinside/1482) 기본적인 인증 관련 기초 내용부터 1.3의 변경내역까지 잘 정리
 * [Http 보안 및 용어 정리](https://naleejang.tistory.com/216)
 * [No More Mixed Messages About HTTPS](https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html)
 * [HTTP에서 HTTPS로 전환하기 위한 완벽 가이드](https://webactually.com/2018/11/http%EC%97%90%EC%84%9C-https%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
@@ -274,6 +275,7 @@ Network
 * [Introduction to TCP/IP and Sockets, part 1: Introducing the protocols and API - YouTube](https://www.youtube.com/watch?v=C7CpfL1p6y0)
 * [Introduction to TCP/IP and Sockets, part 2: Example code Walk-Through - YouTube](https://www.youtube.com/watch?v=OuYPe_HcLWc)
 * [Understanding Sockets | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-sockets)
+* [Unit testing a TCP stack](http://www.snellman.net/blog/archive/2015-07-09-unit-testing-a-tcp-stack/)
 
 # UDP
 * [Haste Framework UDP(User Datagram Protocol)를 기반으로 빠르고 쉬운 개발을 위해 만들어진 게임 서버 프레임워크](https://github.com/nhnent/haste.framework)
