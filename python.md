@@ -645,14 +645,17 @@ Python
   * `datetime.datetime.now().date().isoformat()` insert into MySQL date type
   * [주차를 알고 싶을 땐 isocalendar](http://jiniya.net/ng/2017/11/isocalendar/)
   * [elapsed time in milliseconds](https://stackoverflow.com/questions/766335/python-speed-testing-time-difference-milliseconds)
-  * [arrow: Better dates & times for Python](https://github.com/arrow-py/arrow)
-    * [Arrow: better dates and times for Python](http://arrow.readthedocs.io/)
   * [파이썬의 시간대(datetime.timezone)에 대해 알아보기](https://spoqa.github.io/2019/02/15/python-timezone.html)
   * [Python UTC -6 to KST (UTC +9)](https://blog.kimkevin.net/python-utc-to-kst/)
   * [Parsing and Formatting Dates in Python With Datetime](https://www.youtube.com/watch?v=zY02utxcauo)
   * [파이썬 날짜 다루기 date, datetime, yyyymmdd](https://krksap.tistory.com/1635)
   * [**파이썬(Python) datetime 클래스 치트시트**](https://www.44bits.io/ko/post/python-datatime-cheetsheet)
   * [파이썬 Python 코딩 - 리눅스 크론 cron 스케줄러 기능 구현하기 - YouTube](https://www.youtube.com/watch?v=zZbOMgCJmA8)
+  * [arrow: Better dates & times for Python](https://github.com/arrow-py/arrow)
+    * [Arrow: better dates and times for Python](http://arrow.readthedocs.io/)
+  * [Delorean: Time Travel Made Easy — delorean 1.0.0 documentation](https://delorean.readthedocs.io/)
+    * [Comparing Datetime with Delorean in Python - With and Without Timezones](https://stackabuse.com/comparing-datetime-with-delorean-in-python-with-and-without-timezones/)
+  * [pytz: pytz Python historical timezone library and database](https://github.com/stub42/pytz)
 * decimal
   * [Question: High Precision Computing in Python or R](https://www.datasciencecentral.com/forum/topics/question-how-precision-computing-in-python)
   * [Floating-point cheat sheet for Python](https://floating-point-gui.de/languages/python/)
@@ -1926,13 +1929,10 @@ Python
 
 # Debugging
 * [파이썬에서 디버깅하기](http://code.tutsplus.com/ko/tutorials/debugging-in-python--cms-25822)
-* [PyCharm as the Ultimate Python Debugger](https://pedrokroger.net/python-debugger/)
 * [Python debugging tools](https://blog.ionelmc.ro/2013/06/05/python-debugging-tools/)
 * [HOW TO DEBUG (DEADLOCKED) MULTI THREADED PROGRAMS (PYTHON RECIPE)](http://code.activestate.com/recipes/577334-how-to-debug-deadlocked-multi-threaded-programs/)
 * [Python Debugging Tips 20160814-1800 PyCon Asia Pacific](https://youtu.be/yZ3Ypil6sJk)
-* [Using Docker and Pycharm for Remote Django Debugging](https://www.youtube.com/watch?v=n-wwp17MqhU)
 * [Segmentation Fault 발생 시 gdb로 stack trace 해 보기](http://mcchae.egloos.com/11230168)
-* [Connect AWS EC2 Instance with PyCharm Professional](https://minhoryang.github.io/ko/posts/connect-aws-ec2-instance-with-pycharm-professional/)
 * [파이썬 코드에서 중간에 콘솔 띄우는 디버깅](http://mkseo.pe.kr/blog/?p=2694) `import code; a = 3; code.interact(local=locals())`
 * [LA오빠 즐거운 Data Science - 코딩효율 2x 늘리기 팁 1탄](https://www.youtube.com/watch?v=lGrQJvDRxRw) PDB, VS Code, Jupyter
 * [Pit Stop for Software Maintenance | Pega Devlog](https://jehyunlee.github.io/2020/07/26/Python-General-6_pitstop/)
@@ -1952,6 +1952,11 @@ Python
   * [Python 3.7’s new builtin breakpoint — a quick tour](https://hackernoon.com/python-3-7s-new-builtin-breakpoint-a-quick-tour-4f1aebc444c)
   * [Debugging in Python — A cakewalk with pdb](https://medium.com/python-features/debugging-in-python-a-cakewalk-with-pdb-cd748ca62ee7)
   * [Are you writing print() statements to debug your Python code? | by Pradeepa Gollapalli | Analytics Vidhya | Medium](https://medium.com/analytics-vidhya/are-you-writing-print-statements-to-debug-your-python-code-690e6ba098e9)
+* PyCharm
+  * [PyCharm as the Ultimate Python Debugger](https://pedrokroger.net/python-debugger/)
+  * [Using Docker and Pycharm for Remote Django Debugging](https://www.youtube.com/watch?v=n-wwp17MqhU)
+  * [Connect AWS EC2 Instance with PyCharm Professional](https://minhoryang.github.io/ko/posts/connect-aws-ec2-instance-with-pycharm-professional/)
+  * [개발 환경 구성: 598. PyCharm - 원격 프로세스를 디버그하는 방법](https://www.sysnet.pe.kr/2/0/12798)
 * [PySnooper - Never use print for debugging again](https://github.com/cool-RR/pysnooper)
 * [traceback_with_variables: Adds variables to python traceback. Simple, lightweight, controllable. Debug reasons of exceptions by logging or pretty printing colorful variable contexts for each frame in a stacktrace, showing every value. Dump locals environments after errors to console, files, and loggers. Works in Jupyter and IPython. Install with pip or conda](https://github.com/andy-landy/traceback_with_variables)
 
@@ -3657,6 +3662,7 @@ Python
 
 ## Library cache
 * [cache 데코레이터로 최적화하기](https://blog.seulgi.kim/2021/05/python-cache-decorator.html) functools.lru_cache functools.cache
+* [Caching in Python: the LRU algorithm - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/08/caching-in-python-the-lru-algorithm/)
 * [cachetools - Extensible memoizing collections and decorators](http://cachetools.readthedocs.io)
 * functools.lru_cache
   * python 3 [lru_cache](https://gist.github.com/hyunjun/cae504f02fd8a0e140d8)
