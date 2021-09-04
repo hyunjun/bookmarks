@@ -149,6 +149,8 @@ Business
 * [Open Work를 향한 작은 노력들 : 조직의 작은 변화 만들기 – tech.kakao.com](https://tech.kakao.com/2021/07/05/openwork-cuddy/) 심리적 안정감을 높이고 점진적인 변화를 만들어 나가는 팀 문화 feedback
 * [기분 상하지 않게 협업하는 피드백 방법 ‘SBIT’ (f. 황성현 대표) - YouTube](https://www.youtube.com/watch?v=HtC9APOIvkw)
 * [피드백의 힘, 어떻게 만들 것인가?](https://brunch.co.kr/@graypool/115)
+* [받아들이기 어려운 피드백에 대처하는 자세](https://camp.lemonbase.com/1on1/feedback)
+* [피드백을 주고받을 때 유용한 세 가지 질문](https://camp.lemonbase.com/feedback/ssc)
 * [**직무 노트 쓰기**](https://brunch.co.kr/@lunarshore/365)
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
 * [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
@@ -244,7 +246,10 @@ Business
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
 * [일대일 면담으로 훌륭한 소통 구조를 구축하라](https://brunch.co.kr/@graypool/67)
 * [1 on 1](https://brunch.co.kr/@tilltue/74)
-* [1:1 미팅에서 대화를 여는 질문들](https://camp.lemonbase.com/70287df3-d7f5-4577-8e8c-ef2c0b15fefc)
+* [사무실에 모여서 일하지 않을 때, 1:1 미팅에서 꼭 해야 할 질문들](https://camp.lemonbase.com/1on1/remote)
+* [1:1 미팅에서 대화를 여는 질문들](https://camp.lemonbase.com/1on1/opening)
+* [1:1 미팅, 매일 보는데 무슨 말을 하나요?](https://camp.lemonbase.com/1on1)
+* [1:1 미팅이 리더의 핵심 활동이어야 하는 이유](https://camp.lemonbase.com/1on1/leadership)
 * [일잘러는 이런 사람 빅데이터로 알아보는 성공하는 직원의 비밀 | 인터비즈](https://blog.naver.com/businessinsight/221572920446)
 * [컨퍼런스콜 문화](https://estimastory.com/2016/01/24/conferencecall/)
 * [미국의 콜 문화](https://sungmooncho.com/2018/07/03/conference-call-culture/)
@@ -395,6 +400,7 @@ Business
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
 * [공정한 평가라는 환상](https://brunch.co.kr/@hyungsukkim/18)
 * [홍석환의 인사 잘하는 남자 이팀장의 잘못된 목표관리](https://www.hankyung.com/thepen/article/105908) 객관적인 지표를 통한 평가 등
+* [목표 관리, 제대로 효과를 거두려면](https://camp.lemonbase.com/goal)
 * [성과 리뷰 미팅이 Show로 끝나는 이유 - 경영전문블로그 Innovator](http://www.innovator.or.kr/2021/07/show.html)
 * [Your “high bar” is wrecking your team](http://brandonhays.com/blog/2018/06/19/your-high-bar-is-wrecking-your-team/)
 * [분노만 남는 인사평가…'목표·기준'이 없다 | 컴퍼니 타임스의 생생한 인터뷰 확인하기, IT/웹/통신 0.0 평점 | 잡플래닛](https://www.jobplanet.co.kr/contents/news-1480)
@@ -402,6 +408,11 @@ Business
 * [스타트업이 알아야 할 성장의 방법 | 컴퍼니 타임스의 생생한 인터뷰 확인하기, IT/웹/통신 0.0 평점 | 잡플래닛](https://www.jobplanet.co.kr/contents/news-1482)
 * [“3년 치 이력서를 미리 썼더니 마법이 일어났다.”(f. 황성현 대표) - YouTube](https://www.youtube.com/watch?v=9unwtrZQDuA)
 * [대한민국 양궁 대표팀이 정상을 유지하는 비결에서 찾은 성과 관리의 핵심](https://camp.lemonbase.com/column/performance) 황성현님
+* [다면평가 시 리뷰를 꼭 써주고 싶은 동료가 있다면](https://camp.lemonbase.com/review/nomination)
+* [리뷰가 성장으로 이어지려면](https://camp.lemonbase.com/review/pdp)
+* [리뷰 작성 시 주의해야 할 세 가지 함정](https://camp.lemonbase.com/review/trap)
+* [여름에도 리뷰를 해야 하는 이유 - 지금을 놓치면 12월에 후회하실지 모릅니다](https://camp.lemonbase.com/review/mid-year)
+* [구성원의 성장을 위한 리뷰의 한끗 - 더 의미있는 리뷰, 어떻게 하면 될까요?](https://camp.lemonbase.com/review)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -715,6 +726,7 @@ Business
 * [CPO가 활용하는 프레임워크 5가지](https://brunch.co.kr/@yongjinjinipln/83) Goals-Signals-Metrics (GSM), KPI Graphs, HEART, HOSKR, OKRs
 * [**평가방법 OKR, KPI, MBO 뭐가 다른거에요?**](https://brunch.co.kr/@ywkim36/41)
 * [평가 방법 OKR, KPI, MBO 뭐가 다른 거예요? - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2021/03/17/okr-kpi-mbo/)
+* [목표를 실행에 옮기는 방법 - OKR과 KPI](https://camp.lemonbase.com/goal/okr_kpi)
 * [OKR과 조직문화: OKR이 현장에서 실패하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220905)
 * [할 일 목록에 OKR 적용하기](https://brunch.co.kr/@graypool/30)
 * [할 일 목록에 OKR 적용하기 II](https://brunch.co.kr/@graypool/39)
