@@ -2228,6 +2228,7 @@ Programming
   * [Raspberry Pi: Install and Test Mosquitto MQTT Broker on Raspberry Pi 3 (Raspbian Stretch OS)](http://www.apdaga.com/2018/01/raspberry-pi-install-and-test-mosquitto.html)
   * [mqtt - raspberry pi 센서데이터를 서버로 보내기 (1)](http://jusths.tistory.com/23)
   * [mqtt - raspberry pi 센서데이터를 서버로 보내기 (2)](http://jusths.tistory.com/24)
+  * [Towards a Reliable Device Management Platform | by Netflix Technology Blog | Aug, 2021 | Netflix TechBlog](https://netflixtechblog.com/towards-a-reliable-device-management-platform-4f86230ca623)
   * [HiveMQ Goes Open Source, Brings MQTT and Kafka Together](https://www.infoq.com/news/2019/04/hivemq-extension-kafka-mqtt)
 * [NATS is an open-source, high-performance, lightweight cloud native messaging system](http://nats.io/)
 * [RabbitMQ](https://www.rabbitmq.com/)
@@ -3018,6 +3019,7 @@ Programming
       * gRPC 스트리밍을 지원하려면 반대쪽에서 응답 헤더를 받은 뒤에 바디를 보내야 함
     * 이를 해결하기 위해 gPRC 메시지를 CloudFlare 내부에서만 trailer 헤더 없이 HTTP/1.1 메시지로 변환하는 방법인 gRPC-web을 이용하고 이를 다시 HTTP/2로 변환하고 오리진에서 HTTP/2를 지원할 수 있도록 별도의 오리진 프락시를 구성했다고 함
   * [gRPC load balancing on Kubernetes (using Headless Service) | Techdozo](https://techdozo.dev/grpc-load-balancing-on-kubernetes-using-headless-service/)
+  * [Practical API Design at Netflix, Part 1: Using Protobuf FieldMask | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/practical-api-design-at-netflix-part-1-using-protobuf-fieldmask-35cfdc606518)
   * [bloomrpc: GUI Client for GRPC Services](https://github.com/uw-labs/bloomrpc) Postman for gRPC
     * [BloomRPC - mysetting](https://mysetting.io/apps/bloomrpc)
   * fly.io [Deploy gRPC and gRPC-Web Services · Fly](https://fly.io/docs/app-guides/grpc-and-grpc-web-services/) gRPC cloud?
