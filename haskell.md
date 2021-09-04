@@ -353,12 +353,13 @@ Haskell
 * [WikibooksHaskell](https://wikidocs.net/book/204)
 
 # Conference
+* [한국 하스켈 학교 제1 회 세미나](https://haskellschoolkr.github.io/seminar/1/)
+* [Haskell conference](https://haskell.love/)
 * [LambdaConf 2015 - How to Learn Haskell in Less Than 5 Years Chris Allen](https://www.youtube.com/watch?v=Bg9ccYzMbxc)
 * [LambdaConf 2015 - Modeling Data in Haskell for Beginners Chris Allen](https://www.youtube.com/watch?v=p-NBJm0kIYU)
 * [LambdaConf 2015 - Developing Web Applications with Haskell Alejandro Serrano Mena](https://www.youtube.com/watch?v=FnaD4xS_hHY)
 * [ZuriHac 2020](https://zfoh.ch/zurihac2020/)
   * [ZuriHac 2020 - YouTube](https://www.youtube.com/playlist?list=PLiU7KJ5_df6aZbNfh_TUJt-6w9N3rYkTX)
-* [한국 하스켈 학교 제1 회 세미나](https://haskellschoolkr.github.io/seminar/1/)
 
 # Library
 * [Haskell with UTF-8](https://serokell.io/blog/haskell-with-utf8)
