@@ -1613,6 +1613,7 @@ Javascript
   * [백엔드 개발자는 꼭 배워보세요 - YouTube](https://www.youtube.com/watch?v=SHfR1tLpe1o)
   * [nestjs mailer를 이용하여 메일 보내기](https://blog.naver.com/pjt3591oo/222467283376)
   * [1. NestJS & TypeORM 환경에서 Monorepo 구성하기 - 기본 환경 구성 및 명령어](https://jojoldu.tistory.com/594)
+  * [2. NestJS & TypeORM 환경에서 Monorepo 구성하기 - TypeORM 추가하기](https://jojoldu.tistory.com/597)
   * [nestia: Automatic SDK and Document generator for the NestJS](https://github.com/samchon/nestia)
 * Netlify
   * [Run Cypress Tests on Netlify Using a Single Line](https://cypress.io/blog/2020/03/30/run-cypress-tests-on-netlify-using-a-single-line/)
@@ -1898,7 +1899,7 @@ Javascript
 * [Nx is a set of extensible dev tools for monorepos, which helps you develop like Google, Facebook, and Microsoft](https://nx.dev/)
   * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐. 소프트웨어의 수명과 복잡도는 대개 비례 관계입니다. 아무리 정교하고… | by 히로 | CLASS101 | Jun, 2021 | Medium](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77) microfrontend
     * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐 | GeekNews](https://news.hada.io/topic?id=4572)
-  * [NX-REACT NX 기반으로 React 개발환경 구성하기](https://mobicon.tistory.com/570)
+  * [Mobile Convergence :: React HH-2 NX 기반으로 React 개발환경 구성하기](https://mobicon.tistory.com/570)
 * [pnpm: a Space-Efficient JavaScript Package Manager](https://www.infoq.com/news/2020/06/pnpm-javascript-package-manager/)
 * [Snowpack - Build web applications with less tooling and 10x faster iteration](https://www.snowpack.dev/)
   * [Introducing Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
@@ -2485,6 +2486,7 @@ Javascript
 * [입문자를 위한 React.js. React는 현재 Front-End 기술자들이 많이 사용하는 기술이자… | by HAN BAEK | Aug, 2021 | Medium](https://medium.com/@bms6168/react-%EC%9E%85%EB%AC%B8%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-react-js-ba080e82f8b5)
 * [Try React Tutorial](https://facebook.github.io/react/docs/tutorial.html)
 * [Mobile Convergence :: React HH-1 시작하는 개발자를 위한 히치하이커](https://mobicon.tistory.com/579)
+* [Mobile Convergence :: React HH-3 라이브러리 설정 - Axios, RxJS](https://mobicon.tistory.com/580)
 * [번역 깊이 있는 리액트 개발 환경 구축하기](https://sujinlee.me/webpack-react-tutorial/)
 * [A Complete React Boilerplate Tutorial — From Zero to Hero](https://medium.freecodecamp.org/a-complete-react-boilerplate-tutorial-from-zero-to-hero-20023e086c4a)
 * [React Chat Basic Tutorial](https://hackernoon.com/react-chat-basic-tutorial-7bd2af16a57e)
@@ -2908,6 +2910,8 @@ Javascript
 * [Mitigate cross-site scripting (XSS) with a strict Content Security Policy (CSP)](https://web.dev/strict-csp/)
 * [Cross-Origin Web Sessions | Teleport](https://goteleport.com/blog/web-session-sharing-transfer/) xss csrf
 * [Learn React Portal In 12 Minutes By Building A Modal](https://morioh.com/p/448a42ad2095)
+* [~Using a React 16 Portal to do something cool~](https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202)
+* [React Portal, Render의 차이점, 활용방안 알아보기! | JaeSeoKim's Blog](https://jaeseokim.dev/React/React-Portal_Render%EC%9D%98_%EC%B0%A8%EC%9D%B4%EC%A0%90_%ED%99%9C%EC%9A%A9%EB%B0%A9%EC%95%88_%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0/)
 * [React v17 Release Candidate 톺아보기. 변경사항과 유의할점을 React 공식 문서와, 개인적인 지식을 덧붙여… | by 한영재 | Aug, 2020 | Medium](https://medium.com/@han7096/react-v17-release-candidate-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-6a4b091965c4)
 * [How to Create a PDF file using React.js](https://morioh.com/p/e6de5438e02d)
 * [Realtime Chat App | React, GraphQL & Websockets](https://morioh.com/p/0e4247e9a225)
@@ -3075,7 +3079,6 @@ Javascript
 * [What is the difference between React.js and React Native?](https://medium.com/swlh/what-is-the-difference-between-react-js-and-react-native-c7834bb6d425)
 * [리액트 어플리케이션 업데이트 하기](https://seokjun.kim/how-to-update-your-react-application/)
 * [How to use code splitting in React.js to improve your app’s performance](https://medium.freecodecamp.org/analyzing-the-bundle-size-code-splitting-in-create-react-app-9238e96a5b26)
-* [Using a React 16 Portal to do something cool](https://hackernoon.com/using-a-react-16-portal-to-do-something-cool-2a2d627b0202)
 * [React Native Animation Experiments](https://blog.geekyants.com/react-native-animation-experiments-8ec057e85158)
 * [Goalplan 앱개발 히스토리](https://blog.naver.com/hidejj79/221256652881)
 * [Supporting React Native at Pinterest](https://medium.com/@Pinterest_Engineering/supporting-react-native-at-pinterest-f8c2233f90e6)
