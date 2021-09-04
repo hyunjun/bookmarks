@@ -603,6 +603,7 @@ Programming
     * 베타 테스트
 * [Consistency, Coupling, and Complexity at the Edge](https://www.infoq.com/articles/consistency-coupling-complexity/) RESTful, GraphQL
 * [How to Hack APIs in 2021 by Hakluke and Farah Hawa | Detectify Labs](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
+* [API Tokens: A Tedious Survey · Fly](https://fly.io/blog/api-tokens-a-tedious-survey/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
   * [CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=4662)
@@ -1080,6 +1081,7 @@ Programming
 * [Monolith Decomposition Patterns](https://www.infoq.com/presentations/microservices-principles-patterns/)
 * [잘 키운 모노리스 하나 열 마이크로서비스 안 부럽다](https://www.slideshare.net/arawnkr/ss-195979955)
 * [우아한 모노리스](https://www.slideshare.net/arawnkr/ss-224478403)
+* [Monolithic to Microservices Architecture with Patterns & Best Practices | by Mehmet Özkaya | Design Microservices Architecture with Patterns & Principles | Aug, 2021 | Medium](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
 * [DB to JSON with a microservice](da_terry.bitbucket.org/slides/presentation-scalasyd-functional-jdbc-http/)
 * [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
 * [API Management for Microservices @justinchronicle - 이모콘 EMOCON 2016 S/S](https://www.youtube.com/watch?v=DQBfa2Az69M)
@@ -1921,6 +1923,7 @@ Programming
 * [HumanitiesSciences: StatLearning-SP Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
 * [inflearn.com/roadmaps](https://www.inflearn.com/roadmaps)
 * [infractal.org](http://infractal.org/)
+* [Introduction to Programming Languages](https://hjaem.info/itpl)
 * JetBrains Academy [Learn computer programming | Online courses from JetBrains Academy](https://www.jetbrains.com/academy/)
 * [Khan Academy | Free Online Courses, Lessons & Practice](https://www.khanacademy.org/)
   * [khan-dl: Download courses from khanacademy.org](https://github.com/rand-net/khan-dl)
@@ -1983,6 +1986,9 @@ Programming
   * SAML이 서명에 사용하는 XML이 로우 데이터를 그대로 사용하지 않고 XML을 정리해서 다시 사용하기 때문에(예를 들어 불필요한 부분을 지우고 정돈된 XML로 만들어서) 공격자가 이를 이용해서 XML을 조작해도 서명을 동일하게 만들어서 공격할 수 있다고 설명
 * [Here's another free CA as an alternative to Let's Encrypt!](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/)
 * [“현대 IoT 생태계에 심각한 보안 결함 있다··· 난수 생성 불량이 근간” - CIO Korea](https://www.ciokorea.com/news/205144)
+* [How does Google Authenticator work? (Part 1)](https://prezu.ca/post/2021-07-30-totp-1/) python hashlib
+* [How does Google Authenticator work? (Part 2)](https://prezu.ca/post/2021-08-12-totp-2/) python hmac
+* [How does Google Authenticator work? (Part 3)](https://prezu.ca/post/2021-08-16-totp-3/) base32
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
