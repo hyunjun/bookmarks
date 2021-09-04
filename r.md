@@ -666,6 +666,7 @@ R
   * [KED/Activity Index_210404_rev3.pdf at master · Hosun-Choi/KED](https://github.com/Hosun-Choi/KED/blob/master/Activity%20Index_210404_rev3.pdf) 활동성 지수
   * [Shiny 환자데이터 입력웹 개발](https://zarathucorp.github.io/eCRF-SMCcath/shinykorea/)
   * [bs4Dash 패키지 연습](https://github.com/takos1026/test_bs4dash)
+  * bslib [R Shiny에 최신 bs 테마를 적용해주는 {bslib}](https://blog.naver.com/leebisu/222494646466)
   * [Covid-19 interactive map (using R with shiny, leaflet and dplyr)](https://www.r-bloggers.com/covid-19-interactive-map-using-r-with-shiny-leaflet-and-dplyr/)
   * [Dacon: 공간정보 탐색적 데이터 분석 경진대회 Shiny 시각화](https://github.com/Unfinishedgod/dacon_jeju)
   * xaringan [파워포인트를 넘어서 - xaringan](https://statkclee.github.io/ds-authoring/seoul_r_xaringan.html)
