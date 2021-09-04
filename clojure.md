@@ -1290,6 +1290,7 @@ Clojure
 # VSCode VS Code
 * [Using VS Code Calva extension to run & validate the Clojure project code. - YouTube](https://www.youtube.com/watch?v=oYqxbKufTQM)
 * [Get Started with Clojure in VS Code in 20 seconds - YouTube](https://www.youtube.com/watch?v=O6GrXXhCzCc)
+* [Developer Ergonomics with VS Code, Clojure, and ClojureScript by Peter Strömberg - YouTube](https://www.youtube.com/watch?v=LR7Wv6bSZqE)
 * [Calva - an integrated REPL powered environment for enjoyable and productive Clojure and ClojureScript development in Visual Studio Code](https://calva.io/)
   * [Calva and the VIM Extension - Calva User Guide](https://calva.io/vim/)
   * [Calva: Clojure & ClojureScript support for VS Code](https://github.com/BetterThanTomorrow/calva/blob/master/README.md)
