@@ -980,12 +980,6 @@
 * [Spark Data Source API. Extending Our Spark SQL Query Engine](https://hackernoon.com/extending-our-spark-sql-query-engine-5f4a088de986)
 * [Five Spark SQL Utility Functions to Extract and Explore Complex Data Types](https://databricks.com/blog/2017/06/13/five-spark-sql-utility-functions-extract-explore-complex-data-types.html)
   * JSON 및 중첩 구조를 처리하기 위해 탑재된 Spark SQL 함수를 사용하기 위한 튜토리얼
-* [FLARE: SCALE UP SPARK SQL WITH NATIVE COMPILATION AND SET YOUR DATA ON FIRE!](https://spark-summit.org/2017/events/flare-scale-up-spark-sql-with-native-compilation-and-set-your-data-on-fire/)
-  * 실험 단계
-  * 쿼리플랜을 native code로 바꾸고 spark runtime system도 수정해 Spark SQL성능을 대폭 향상
-  * [Flare: Native Compilation for Heterogeneous Workloads in Apache Spark](https://arxiv.org/pdf/1703.08219.pdf)
-* [MatFast: In-Memory Distributed Matrix Computation Processing and Optimization Based on Spark SQL](https://databricks.com/session/matfast-in-memory-distributed-matrix-computation-processing-and-optimization-based-on-spark-sql)
-  * [Apache Spark™ Distributed Matrix Computation](https://github.com/yuyongyang800/SparkDistributedMatrix)
 * [Spark SQL: Another 16x Faster After Tungsten](https://databricks.com/session/spark-sql-another-16x-faster-after-tungsten)
 * [Windowing Functions in Spark SQL Part 1 | Lead and Lag Functions | Windowing Functions Tutorial](https://www.youtube.com/watch?v=MViPRjaqfaA)
 * [Windowing Functions in Spark SQL Part 2 | First Value & Last Value Functions | Window Functions](https://www.youtube.com/watch?v=tsQ2oQieBGY)
@@ -995,6 +989,13 @@
 * [Spark DataFrameWriter에서 saveAsTable 의 동작](https://charsyam.wordpress.com/2019/04/23/%EC%9E%85-%EA%B0%9C%EB%B0%9C-spark-dataframewriter%EC%97%90%EC%84%9C-saveastable-%EC%9D%98-%EB%8F%99%EC%9E%91/)
 * [Dynamic Shuffle Partitions in Spark SQL](http://blog.madhukaraphatak.com/dynamic-spark-shuffle-partitions/)
 * [Tech Chat: Faster Spark SQL: Adaptive Query Execution in Databricks - YouTube](https://www.youtube.com/watch?v=bQ33bwUE-ms)
+* [Sentiment Analysis on Demonetization in India using Apache Spark - Projects Based Learning](https://projectsbasedlearning.com/apache-spark-analytics/sentiment-analysis-on-demonetization-in-india-using-apache-spark/)
+* [FLARE: SCALE UP SPARK SQL WITH NATIVE COMPILATION AND SET YOUR DATA ON FIRE!](https://spark-summit.org/2017/events/flare-scale-up-spark-sql-with-native-compilation-and-set-your-data-on-fire/)
+  * 실험 단계
+  * 쿼리플랜을 native code로 바꾸고 spark runtime system도 수정해 Spark SQL성능을 대폭 향상
+  * [Flare: Native Compilation for Heterogeneous Workloads in Apache Spark](https://arxiv.org/pdf/1703.08219.pdf)
+* [MatFast: In-Memory Distributed Matrix Computation Processing and Optimization Based on Spark SQL](https://databricks.com/session/matfast-in-memory-distributed-matrix-computation-processing-and-optimization-based-on-spark-sql)
+  * [Apache Spark™ Distributed Matrix Computation](https://github.com/yuyongyang800/SparkDistributedMatrix)
 
 # Streaming
 * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
