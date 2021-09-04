@@ -127,6 +127,8 @@ Open Source
     * "harding the shards: managing datastore locality at scale with Akkio"라는 Facebook 기사 요약
 * [Buck - A high-performance build tool](https://buckbuild.com/)
   * [HOW FACEBOOK USES PYTHON TO BUILD DATACENTERS AT SCALE](https://www.youtube.com/watch?v=dD27FtU-0w4)
+* [Glean | Glean](https://glean.software/)
+  * [Glean - 소스코드 정보 수집,검색 시스템 | GeekNews](https://news.hada.io/topic?id=4928)
 * [Hydra - a framework for elegantly configuring complex applications https://cli.dev ](https://github.com/facebookresearch/hydra)
   * [페이스북, 머신러닝 등 복잡한 프로그램 개발 단순화하는 오픈소스 프레임 워크 공개](http://www.aitimes.kr/news/articleView.html?idxno=14387)
   * [복잡한 애플리케이션을 우아하게 구성하기위한 프레임 워크](https://pjt3591oo.github.io/hydra_translate/build/html/index.html)
