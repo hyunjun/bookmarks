@@ -346,6 +346,7 @@ Business
   * 한계를 알려면 한계를 넘어서 봐야 하는데 최선을 다한다고 항상 한계까지 가야 하는 것은 아님
   * 중요한 문제에 집중, 흥미를 찾아야 하는데 때로 흥미를 찾는 것은 재능을 찾기보다 더 어려움
   * 그래서 그 일을 계속 해야 하는지 가장 좋은 기준은 그 문제를 흥미롭게 생각하는가이고 이 기준을 적용하려면 자신에게 정직해야 함
+* [Post 35: Your Standards are Too High — Neel Nanda](https://www.neelnanda.io/blog/35-standards) 자신에 대한 평가
 * [풀필먼트는 물류랑 무엇이 다른가?](https://brunch.co.kr/@graypool/80)
 * [넷플릭스가 성공한 이유는 문화도, 알고리즘도, 제품도 아니다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240583) 규모의 경제
 * [Building a data team at a mid-stage startup: a short story · Erik Bernhardsson](https://erikbern.com/2021/07/07/the-data-team-a-short-story.html)
