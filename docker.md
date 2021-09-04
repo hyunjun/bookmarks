@@ -709,6 +709,7 @@ Docker
 * [Kubernetes](http://kubernetes.io)
 * [쿠버네티스 문서](https://kubernetes.io/ko/docs/home/)
 * [튜토리얼](https://kubernetes.io/ko/docs/tutorials/)
+* [쿠버네티스 시작하기 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=65765967)
 * [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
 * [Kubernetes in 9 minutes!](https://www.youtube.com/watch?v=QJ4fODH6DXI)
 * [Kubernetes Intro](https://blog.2dal.com/2018/02/28/kubernetes-intro/)
