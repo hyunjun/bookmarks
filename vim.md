@@ -97,7 +97,6 @@ Vim
 * [joinc](http://www.joinc.co.kr/modules/moniwiki/wiki.php/Site/Vim)
 * [neovim](http://neovim.io/)
   * `~/.config/nvim/init.vim` [default location of configuration file](https://github.com/neovim/neovim/wiki/FAQ) just copy .vimrc as init.vim
-  * [neovim-dot-app - Mac OS X GUI for Neovim](https://github.com/rogual/neovim-dot-app)
   * [Oceanic Next theme for neovim](https://github.com/mhartington/oceanic-next)
   * [Vim-fork focused on extensibility and agility. Consider helping sustain Neovim development! https://salt.bountysource.com/teams/neovim](https://github.com/neovim/neovim)
   * [example of init.vim](https://gist.github.com/synasius/5cdc75c1c8171732c817)
@@ -105,6 +104,8 @@ Vim
   * [A guide to modern Web Development with (Neo)vim](https://medium.freecodecamp.org/a-guide-to-modern-web-development-with-neo-vim-333f7efbf8e2)
   * [Setup Neovim like an IDE - YouTube](https://www.youtube.com/watch?v=65Wq4fjREUU)
   * [Step Up Your Game with Neovim. Why do I switch to VIM and use Neovim? | by Roderick Samuel Halim | Life At Moka | Medium](https://medium.com/life-at-moka/step-up-your-game-with-neovim-62ba814166d7)
+  * [neovim-dot-app - Mac OS X GUI for Neovim](https://github.com/rogual/neovim-dot-app)
+  * [nvui: A modern frontend for Neovim](https://github.com/rohit-px2/nvui)
 * [vim plugin to interact with tmux](https://github.com/benmills/vimux)
 * [**What are the most amazing things that can be done with Vim?**](https://www.quora.com/What-are-the-most-amazing-things-that-can-be-done-with-Vim)
 * [Use Vim everywhere you've always wanted to](https://github.com/cknadler/vim-anywhere)
