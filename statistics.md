@@ -167,6 +167,7 @@ Statistics
 * [CHOOSING THE CORRECT STATISTICAL TEST IN SAS, STATA, SPSS AND R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
 * [확률변수 함수의 분포를 알아보자 - Delta method에 대하여 (1)](http://issactoast.com/133)
 * [확률변수와 패러미터 ( feat. 베르누이) #10통계 - YouTube](https://www.youtube.com/watch?v=FmIc5LZ7BII)
+* [😱 예비수학 교사도 모르고 있는 확률변수! 🤔 `P([X=1])`의 의미를 찾아서..](https://velog.io/@hsh/%EC%98%88%EB%B9%84%EC%88%98%ED%95%99-%EA%B5%90%EC%82%AC%EB%8F%84-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8A%94-%ED%99%95%EB%A5%A0%EB%B3%80%EC%88%98-PX1%EC%9D%98-%EC%9D%98%EB%AF%B8%EB%A5%BC-%EC%B0%BE%EC%95%84%EC%84%9C)
 * [Propensity Score Matching (PSM) 기법 요약](http://blog.naver.com/hancury/221091701744)
 * [모수적 방법과 비모수적 방법](http://dermabae.tistory.com/147)
 * [Statistical Rethinking - Lecture 01](https://speakerdeck.com/rmcelreath/statistical-rethinking-lecture-01)
