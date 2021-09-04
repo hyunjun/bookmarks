@@ -126,6 +126,7 @@ C
 * [C 프로그래밍: 현대적 접근](https://wikidocs.net/book/2494)
 * [C언어 빌드 과정 (build process)](https://brunch.co.kr/@mystoryg/57)
 * [타입 추론 사용하기](https://blog.naver.com/sssang97/221510686104)
+* [**C 타입 시스템 제대로 알고 가기 · 잇창명 개발 블로그**](https://eatchangmyeong.github.io/2020/12/30/all-about-c-type-system.html) "malloc 한 번으로 다차원 배열 동적 할당하기"
 * [Home-grown bytecode interpreters](https://badootech.badoo.com/home-grown-bytecode-interpreters-51e12d59b25c)
 * [Another one bites the apple!](https://engineering.linecorp.com/ko/blog/another-one-bites-the-apple/) OS X bug hunting
 * [C 프로그래밍 언어가 여전히 최고인 이유 : 개발언어 일대일 비교](http://www.itworld.co.kr/news/124767)
@@ -556,6 +557,7 @@ C
   * [Tiny-Web-Server](https://github.com/seanlion/Tiny-Web-Server)
 * [Althttpd: The Althttpd Webserver](https://sqlite.org/althttpd/doc/trunk/althttpd.md)
   * [Althttpd - C파일 1개로 된 간단한 웹서버 | GeekNews](https://news.hada.io/topic?id=4418)
+* [BCHS: BSD, C, httpd, SQLite](https://learnbchs.org/)
 * [darkhttpd: When you need a web server in a hurry](https://github.com/emikulic/darkhttpd)
   * [darkhttpd - C파일 1개로 작성된 초경량 웹서버 | GeekNews](https://news.hada.io/topic?id=4002)
   * [darkhttpd](https://unix4lyfe.org/darkhttpd/)
