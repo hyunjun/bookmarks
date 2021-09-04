@@ -121,6 +121,8 @@ Monitoring
 * [Upptime](https://upptime.js.org/)
   * [upptime: ⬆️ Uptime monitor and status page powered by GitHub](https://github.com/upptime/upptime)
   * [upptime - GitHub로 자동 운영되는 오픈소스 업타임 모니터 | GeekNews](https://news.hada.io/topic?id=3090)
+* [uptime-kuma: A fancy self-hosted monitoring tool](https://github.com/louislam/uptime-kuma)
+  * [Uptime Kuma - 셀프호스트 모니터링 오픈소스 | GeekNews](https://news.hada.io/topic?id=4916)
 * [vnStat - a console-based network traffic monitor for Linux and BSD](http://humdi.net/vnstat/)
 
 # Observability
