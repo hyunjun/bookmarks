@@ -527,6 +527,7 @@ Apache
       * 1. 데이터 축소 : 필드명을 보내지 않아도 됨 >> 데이터 : 매직바이트 + schemaID + value
       * 2. producing 되는 데이터의 스키마가 변경되면 schema registry에 등록이나 수정만 하면되니 consumer는 수정하지 않아도 될 가능성이 높음
     * json 처럼 schema가 free 한 경우 잦은 schema의 변경으로 producing 되는경우 consumer는 수정이 불가피 하며 스키마의 대한 정보를 놓치기 쉽고 이력도 알수 없음
+* [(Kafka) 객체를 JSON 타입으로 넘겨보자 :: 당근케잌](https://yeon-kr.tistory.com/181)
 * [Securing the Confluent Schema Registry for Apache Kafka](https://www.confluent.io/blog/securing-confluent-schema-registry-apache-kafka/)
 * [Kafka 스키마 관리, Schema Registry](https://dol9.tistory.com/274)
     * 하지만 avro 를 사용하면 변경된 스키마를 가진 데이터의 무분별한 producing을 막을수 있음
