@@ -233,6 +233,7 @@ Java
   * [Java의 Generics](https://medium.com/@joongwon/java-java%EC%9D%98-generics-604b562530b3) covariant/contravariant, 공변/반공변
   * [Java 제네릭 Generics DEEP DIVE](https://futurecreator.github.io/2018/08/12/java-generics/)
   * [Java Generics in no time "? extends" & "? super" explained with a diagram | Java-Success.com](https://www.java-success.com/java-generics-and-wildcards-extends-super-explained-with-a-diagram/)
+* javadoc [Javadoc 작성하기 - 기계인간 John Grib](https://johngrib.github.io/wiki/java-javadoc/)
 * `java.util.Properties`
   * [java.util.Properties](https://github.com/hyunjun/practice/tree/master/java/test-property)
   * [How to read values from properties file in java example](http://www.instanceofjava.com/2018/01/how-to-read-values-from-properties-file.html)
