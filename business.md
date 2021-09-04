@@ -401,6 +401,7 @@ Business
 * [우리회사,구글 따라해도 구글처럼 안되는 이유 | 컴퍼니 타임스의 생생한 인터뷰 확인하기, IT/웹/통신 0.0 평점 | 잡플래닛](https://www.jobplanet.co.kr/contents/news-1481)
 * [스타트업이 알아야 할 성장의 방법 | 컴퍼니 타임스의 생생한 인터뷰 확인하기, IT/웹/통신 0.0 평점 | 잡플래닛](https://www.jobplanet.co.kr/contents/news-1482)
 * [“3년 치 이력서를 미리 썼더니 마법이 일어났다.”(f. 황성현 대표) - YouTube](https://www.youtube.com/watch?v=9unwtrZQDuA)
+* [대한민국 양궁 대표팀이 정상을 유지하는 비결에서 찾은 성과 관리의 핵심](https://camp.lemonbase.com/column/performance) 황성현님
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -643,6 +644,7 @@ Business
 * [인정리더 vs. 존경리더](https://brunch.co.kr/@say2lee/49)
 * [오바마에게 배우는 리더의 소통법 직장인을 위한 김호의 ‘생존의 방식’](https://www.donga.com/news/article/all/20210901/109025103/1)
 * [권력을 분담하면 기업이 개선된다 | 지속가능성 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/12_1/article_no/1742/page/1)
+* [조직 구성원의 새로운 시도를 독려하는 리더쉽 행동 가이드](https://www.linkedin.com/posts/feeljae-kim-896bb3185_%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%84%B1%EC%9B%90%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EB%8F%84%EB%A5%BC-%EB%8F%85%EB%A0%A4%ED%95%98%EB%8A%94-%EB%A6%AC%EB%8D%94%EC%89%BD-%ED%96%89%EB%8F%99-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C-%EB%A6%AC%EB%8D%94%EC%97%90%EA%B2%8C-activity-6839891738522476544-Hhul/)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -718,6 +720,7 @@ Business
 * [할 일 목록에 OKR 적용하기 II](https://brunch.co.kr/@graypool/39)
 * [How to explain OKRs ( Objectives and Key Results) in plain English | The Enterprisers Project](https://enterprisersproject.com/article/2021/4/okrs-explained-plain-english)
 * [달성 가능한 목표](https://www.thestartupbible.com/2021/05/how-to-set-realistic-goals-for-your-employees.html#comment-6893) OKR 자체는 아니고 목표 설정에 대한 이야기
+* [OKR로 진짜 변화를 이끌기 위해 한국 기업이 준비해야 할 다섯 가지](https://camp.lemonbase.com/column/okr) 황성현님
 
 # Patent
 * 세기의 특허전쟁
