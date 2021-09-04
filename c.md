@@ -387,6 +387,7 @@ C
 * mpfr [Extended floating point precision in R and C](https://www.johndcook.com/blog/2020/03/18/gnu-mpfrr-wrapper/)
 * [Music from very short programs - the 3rd iteration](https://www.youtube.com/watch?v=tCRPUv8V22o)
 * [musl - a new standard library to power a new generation of Linux-based devices](http://www.musl-libc.org/)
+  * [musl libc](https://musl.libc.org/)
 * [MyHTML — HTML Parser on Pure C with POSIX Threads Support](http://lexborisov.github.io/myhtml/)
 * [netcat.c](http://www.opensource.apple.com/source/netcat/netcat-4/netcat/netcat.c)
 * [noc - A potpourri of various code I want to release online](https://github.com/guillaumechereau/noc)
