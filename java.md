@@ -1642,6 +1642,7 @@ Java
 
 # Serialization
 * [The Java Deserialization Bug](http://fishbowl.pastiche.org/2015/11/09/java_serialization_bug/)
+* [자바 역직렬화 취약점의 이해와 방어 방법 - ITWorld Korea](https://www.itworld.co.kr/news/206354)
 * [자바 직렬화, 그것이 알고싶다.  훑어보기편](http://woowabros.github.io/experience/2017/10/17/java-serialize.html)
 * [자바 직렬화, 그것이 알고싶다.  실무편](http://woowabros.github.io/experience/2017/10/17/java-serialize2.html)
 * [자바에서 직렬화를 이용한 소켓 통신 정리](https://jungwoon.github.io/java/2018/08/16/Java-Serialize/)
