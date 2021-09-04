@@ -670,6 +670,7 @@ App
       * [Visual Studio 신나는 코드 타이핑 - 파워모드(PowerMode)](https://skuld2000.tistory.com/89)
       * [간단한 VSCode Extension 만들기 예제 - YouTube](https://www.youtube.com/watch?v=R671qx3m7vo)
       * [Top 5 Must-have VS Code extensions](https://open-support.tistory.com/entry/Top-5-Must-have-VS-Code-extensions)
+      * [VSCode Extensions: 8 Must Have VSCode Plugins in 2021 | CodersTea](https://www.coderstea.com/post/tools/every-programmer-needs-these-vscode-extensions/)
     * Git
       * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
       * [mac에서 visual studio code를 git commit editor로 설정하기](http://blog.woniper.net/352)
