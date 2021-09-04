@@ -56,6 +56,7 @@ Bitcoin
 * [블록체인 저장을 뭐..? 비트코인 외계어 쉽게 이해하기](https://brunch.co.kr/@businessinsight/72)
 * [(보고서) 암호자산 성장은 국채와 통화정책에까지 영향을 미칠까? | GeekNews](https://news.hada.io/topic?id=4187)
 * [On anyone-can-spend Pay-to-Taproot outputs before activation](https://b10c.me/blog/007-spending-p2tr-pre-activation/)
+* [DID You Hear? Decentralized Identifiers Are Coming – The New Stack](https://thenewstack.io/did-you-hear-decentralized-identifiers-are-coming/)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
