@@ -227,6 +227,8 @@ App
   * [Making a Website Using Blogdown, Hugo, and GitHub pages](https://proquestionasker.github.io/blog/Making_Site/)
   * [A New Website with Blogdown package](https://ecosang.github.io/blog/miscellaneous/new-website-with-blogdown/)
 * [BookStack - a simple, self-hosted, easy-to-use platform for organising and storing information](https://www.bookstackapp.com/)
+* [crssnt: 🥐 Open source RSS feed generator for Google Sheets](https://github.com/tgel0/crssnt)
+  * [crssnt - 구글 시트에서 RSS 생성하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=4860)
 * [DocLayer - Create beautiful documents](https://standaert.net/doclayer/)
 * [Docusaurus - Easy to Maintain Open Source Documentation Websites](https://docusaurus.io/)
 * [Editoy NoteSheet, Draft](https://medium.com/@goodhyun/editoy-notesheet-editoy-draft-e32c9d2a7eaa)
@@ -495,6 +497,8 @@ App
 * [Dash is an API Documentation Browser and Code Snippet Manager](https://kapeli.com/dash)
   * [Dash란?](http://byron1st.pe.kr/?p=244)
 * [docz - It has never been so easy to document your things! https://docz.site](https://github.com/pedronauck/docz)
+* [filesremote: An SSH file manager that lets you edit files like they are local](https://github.com/allanrbo/filesremote)
+  * [FilesRemote - SSH 파일 매니저 | GeekNews](https://news.hada.io/topic?id=4867)
 * [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
 * [Lando - A Local Dev Tool For Every Project | Lando](https://lando.dev/)
 * mysetting [**Develop. Share. Discover. For developers - mysetting**](https://mysetting.io/)
@@ -1214,6 +1218,7 @@ App
 # Mindmap, Diagram
 * [machow2.com/best-free-alternatives-visio-mac](https://machow2.com/best-free-alternatives-visio-mac/)
 * [Free Flowchart Creator and Workflow Diagram Apps – A Guide for Managers](https://www.freecodecamp.org/news/flow-chart-creator-and-workflow-diagram-apps/)
+* [How to Create Application Architecture Diagram Online?](https://geekflare.com/create-application-architecture-diagram/) Edraw Max, ProcessOn, Creately, Mindmeister, yED, Visual Paradigm
 * [Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams](http://aprt.us/)
   * ["Apparatus: A Hybrid Graphics Editor / Programming Environment" by Toby Schachman](https://www.youtube.com/watch?v=i3Xack9ufYk)
 * [asciiflow.com](http://asciiflow.com/)
@@ -1365,6 +1370,7 @@ App
   * [노 코드 혁명! 5분만에 타이머 앱 만들기!](https://www.youtube.com/watch?v=XbqbLF3NiWw)
   * [우버가 선택한 원페이지 협업툴, Coda – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/141428)
 * [Dynalist - The best outlining app for your best work](https://dynalist.io/)
+* [fsnotes: Notes manager for macOS/iOS](https://github.com/glushchenko/fsnotes)
 * [HTML Notepad – HTML WYSIWYG editor for the rest of us](https://html-notepad.com/)
 * [icloud-notepad](http://www.slashie.org/articles/icloud-notepad/)
 * [Joplin - an open source note taking and to-do application with synchronisation capabilities](https://joplinapp.org/)
@@ -1687,6 +1693,7 @@ App
 * [Win-builds is a large distribution of binary packages for Windows](http://win-builds.org/doku.php)
 * [winget : 윈도 앱 설치 관리자(패키지 관리자)](https://sunyzero.tistory.com/271)
 * [winget-cli: Windows Package Manager CLI (aka winget)](https://github.com/microsoft/winget-cli)
+* [WinFsp - Windows File System Proxy | GeekNews](https://news.hada.io/topic?id=4871)
 * [WinUI - The modern native UI platform of Windows](https://microsoft.github.io/microsoft-ui-xaml/)
 * WSL Windows Subsystem for Linux
   * [practice - windows10 & WSL2](https://gist.github.com/hyunjun/cf2af70a460bf00fa5997dea80308b28)
