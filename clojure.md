@@ -382,6 +382,7 @@ Clojure
 * [The Artificery: CSS: Optimizations and Organization](https://drewverlee.github.io/posts-output/2021-8-26-css-optimizations)
 * [Hacking with Handlebars in Java and Clojure: Part I | by Pranav Gajjewar | helpshift-engineering | Medium](https://medium.com/helpshift-engineering/hacking-with-handlebars-in-java-and-clojure-part-i-fafc9a8cd8aa)
 * [Hacking with Handlebars in Java and Clojure: Part II | by Pranav Gajjewar | helpshift-engineering | Aug, 2021 | Medium](https://medium.com/helpshift-engineering/hacking-with-handlebars-in-java-and-clojure-part-ii-c4de51f49815)
+* [A Functional Approach for Problem A of ICPC 2018 World Finals - Flexiana](https://flexiana.com/2021/08/a-functional-approach-for-problem-a-of-icpc-2018-world-finals)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
