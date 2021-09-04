@@ -229,6 +229,7 @@
 * [Rust-TodoMVC](http://tcr.github.io/rust-todomvc/)
 * Rusty Machine
   * [Rusty Machine- Machine Learning in Rust](https://www.techleer.com/articles/349-rusty-machine-machine-learning-in-rust/)
+* [snakeos: bootable x86 snake game in rust](https://github.com/trusch/snakeos)
 * [sqlx - The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite](https://github.com/launchbadge/sqlx)
 * [tauri: Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast](https://github.com/tauri-apps/tauri)
 * tokio
