@@ -172,6 +172,7 @@ SQL
 * [Using SQL to Estimate Customer Lifetime Value (LTV) without Machine Learning - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/using-sql-to-estimate-customer-lifetime-value-ltv-without-machine)
 * [Understanding Connections & Pools](https://sudhir.io/understanding-connections-pools/)
 * [내가 만든 서비스는 얼마나 많은 사용자가 이용할 수 있을까? - 3편(DB Connection Pool)](https://hyuntaeknote.tistory.com/12)
+* [**ConnectionStrings.com - Forgot that connection string? Get it here!**](https://www.connectionstrings.com/) 각 DB별 connection string 모음
 * [What can we learn from SQL's 50 year reign? A story of 2 Turing Awards](https://blog.arctype.com/sql-50-years/)
 * [Running a bakery on Emacs and PostgreSQL // Just a Summary](https://bofh.org.uk/2019/02/25/baking-with-emacs/)
 * [You might as well timestamp it |> Changelog](https://changelog.com/posts/you-might-as-well-timestamp-it) flag보다 timestamp를 써야 한다는 주장
@@ -260,6 +261,7 @@ SQL
   * [liquibase.org - source control for your database](http://www.liquibase.org/)  xml 작성, rollback 지원
 * [orbit-db - Peer-to-Peer Databases for the Decentralized Web](https://github.com/orbitdb/orbit-db)
 * [**RadonDB: 대륙의 뉴타입 슈주쿠(Shùjùkù, 数据库, database) !?**](https://www.popit.kr/%EB%8C%80%EB%A5%99%EC%9D%98-%EB%89%B4%ED%83%80%EC%9E%85-%EC%8A%88%EC%A3%BC%EC%BF%A0shujuku-%E6%95%B0%E6%8D%AE%E5%BA%93-database/) MySQL or PostgreSQL 기반의 분산 데이터베이스 이야기
+* [Rel – The desktop relational database management system](https://reldb.org/c/)
 * [Rockset - a scalable, reliable search and analytics service in the cloud that makes it easy to build fast operational applications on TBs of data simply using SQL](https://rockset.com)
   * [Complex SQL on Excel Spreadsheets - Studying Trends in Federal Pell Grant Data](https://towardsdatascience.com/complex-sql-on-excel-spreadsheets-274bc93ade89)
 * [sequel fumpt - Type some SQL. Move the slider to set output width](https://sqlfum.pt/)
@@ -604,6 +606,7 @@ SQL
 * [MySQL에서 리셋되는 시퀀스 만들어보기 | gywndi's database](https://gywn.net/2021/06/resetable-sequence-for-mysql/)
 * [데이터베이스에서 위도경도 관리 - MySQL Spatial SQL](https://blog.naver.com/ndskr/222444680248)
 * [MySQL document store 초간단 테스트 | gywndi's database](https://gywn.net/2021/07/mysql-document-store-test/)
+* [Build a Python Web Scraper + Advanced MySQL Queries](https://arctype.com/blog/mysql-advanced-queries/)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
