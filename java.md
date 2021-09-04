@@ -869,6 +869,8 @@ Java
 * [Understanding the JDK’s New Superfast Garbage Collectors](https://blogs.oracle.com/javamagazine/understanding-the-jdks-new-superfast-garbage-collectors)
 * [Java garbage collection interview questions & answers](https://www.java-success.com/java-garbage-collection-interview-questions-and-answers/)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
+* [gctoolkit: Tool for parsing GC logs](https://github.com/microsoft/gctoolkit)
+  * [Microsoft Open-Sources GCToolkit to Tap into JVM GC Logs](https://www.infoq.com/news/2021/09/msft-opensourced-gctoolkit/)
 
 ## JVM Flag, Option
 * `--add-exports java.base/sun.nio.cs=ALL-UNNAMED` [java option --add-exports deprecated된 pakcage를 사용하는 방법](https://medium.com/@strncpy/java-option-add-exports-1f63c81a54a4)
