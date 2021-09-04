@@ -712,6 +712,9 @@ Java
 * [Java News Roundup: JDK 17, JDK 18, Open Liberty, Payara, Quarkus and Spring](https://www.infoq.com/news/2021/07/java-news-roundup-jul05-2021/)
 * [Java 17: These 5 New Features Makes Java 17 Special | CodersTea](https://www.coderstea.com/post/java/java-17-these-5-new-features-makes-java-17-special/)
 
+# Java18
+* [레코드 및 배열 패턴 外··· 구체화되는 ‘자바 18’ 미리보기 - CIO Korea](https://www.ciokorea.com/news/205454)
+
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
 * [**여러 개의 JDK를 설치하고 선택해서 사용하기**](https://blog.benelog.net/installing-jdk.html) APT/YUM, update-alternatives / alternatives, Homebrew, Chocolatey, direnv, jEnv, SDKMAN, jabba
