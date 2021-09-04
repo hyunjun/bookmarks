@@ -1716,6 +1716,7 @@ Scala
   * [evalexample/Video12.scala at video12 · justinhj/evalexample](https://github.com/justinhj/evalexample/blob/video12/src/main/scala/livevideos/Video12.scala)
 * [2021 06 27 automatic-coloring-for-effects.md at master · rssh/notes](https://github.com/rssh/notes/blob/master/2021_06_27_automatic-coloring-for-effects.md)
 * [Programming with Functions #8: Monads - YouTube](https://www.youtube.com/watch?v=KZCoBTRBRMs)
+* [Another Approach to Monads in Scala: A Way to Generalize Chained Computations - YouTube](https://www.youtube.com/watch?v=a0C-RrncrYA)
 
 ## Monad Tagless Final
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
