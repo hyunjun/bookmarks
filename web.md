@@ -748,6 +748,8 @@ Web
   * [Starting With FastAPI and Examining Python's Import System | Real Python Podcast #72 - YouTube](https://www.youtube.com/watch?v=7mLa2SGBAT0)
   * [emoji_rank: This is slack bot for emoji ranking](https://github.com/JAY-Chan9yu/emoji_rank)
     * [오픈소스 프로젝트를 만들어본 썰 풉니다! (feat. FastAPI, Slack) :: Jay's Code Factory](https://jay-ji.tistory.com/82)
+  * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
+    * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [fastapi-boilerplate: FastAPI Boilerplate](https://github.com/teamhide/fastapi-boilerplate)
   * [FastapiTutorial](https://www.fastapitutorial.com/)
   * [fastapi_websocket_pubsub: A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub](https://github.com/authorizon/fastapi_websocket_pubsub)
