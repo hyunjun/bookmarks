@@ -240,6 +240,7 @@ Programming
 * [The Ultimate Guide to Onboarding New Developers: Industry Best Practices](https://codesubmit.io/blog/guide-to-onboarding-developers/)
   * [개발자 온보딩 가이드 : 첫 90일을 어떻게 계획해야 할까 | GeekNews](https://news.hada.io/topic?id=4643)
 * [시스템신뢰성개발팀을 소개합니다. - 우아한형제들 기술 블로그](https://woowabros.github.io/sre/2021/02/22/introduction-to-sre.html)
+* [**우아~한 장애대응 | 우아한형제들 기술블로그**](https://techblog.woowahan.com/4886/)
 * [SRE 사례 소개](https://toss.im/slash-21/sessions/1-4)
 * [Practical Guide to SRE: Incident Severity Levels | Rootly](https://rootly.io/blog/practical-guide-to-sre-incident-severity-levels)
 * [Google - Site Reliability Engineering](https://sre.google/sre-book/accelerating-sre-on-call/)
