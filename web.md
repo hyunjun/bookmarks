@@ -215,6 +215,7 @@ Web
 * [All Programming is Web Programming](https://blog.codinghorror.com/all-programming-is-web-programming/) 기술 이야기는 아니지만 맞는 말이며 참고할만한 말
 * [MS Edge, Super Duper Secure Mode 실험 | GeekNews](https://news.hada.io/topic?id=4771)
 * [정부의 웹사이트 총량제는 코로나19 방역을 어떻게 방해하나 — 북저널리즘 - 젊은 혁신가를 위한 콘텐츠 커뮤니티](https://www.bookjournalism.com/@imc/53)
+* [CMO를 위한 SEO가이드 48p PDF | GeekNews](https://news.hada.io/topic?id=4915)
 
 # Apache
 * installation
@@ -749,6 +750,8 @@ Web
     * [오픈소스 프로젝트를 만들어본 썰 풉니다! (feat. FastAPI, Slack) :: Jay's Code Factory](https://jay-ji.tistory.com/82)
   * [fastapi-boilerplate: FastAPI Boilerplate](https://github.com/teamhide/fastapi-boilerplate)
   * [FastapiTutorial](https://www.fastapitutorial.com/)
+  * [fastapi_websocket_pubsub: A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub](https://github.com/authorizon/fastapi_websocket_pubsub)
+    * [A fast and durable Pub/Sub channel over Websockets with python](https://pythonawesome.com/a-fast-and-durable-pub-sub-channel-over-websockets-with-python/)
   * [shopping-mall](https://github.com/jybaek/shopping-mall) basic 예제 + uvicorn
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
 * [Lektor - Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app](https://github.com/lektor/lektor)
@@ -962,6 +965,7 @@ Web
 * [How Wix improved website performance by evolving their infrastructure](https://web.dev/wix/)
 * [내 웹 페이지 성능을 어떻게 올릴까? — 기초 | Medium](https://haragoo30.medium.com/%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B8%B0%EC%B4%88-1e107b44eb46)
 * [내 웹 페이지 성능을 어떻게 올릴까? — 예제 | by JungHoon Park | Jun, 2021 | Medium](https://haragoo30.medium.com/%EB%82%B4-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%98%AC%EB%A6%B4%EA%B9%8C-%EC%98%88%EC%A0%9C-a1800d10d4ed)
+* [웹 프론트 속도 개선을 위한 필수도구 소개](https://velog.io/@dochis/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8-%EC%86%8D%EB%8F%84-%EA%B0%9C%EC%84%A0%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%95%84%EC%88%98%EB%8F%84%EA%B5%AC-%EC%86%8C%EA%B0%9C)
 * [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
   * [Simple Performance Testing with Apache Benchmark](http://www.chriswpage.com/2010/01/simple-performance-testing-with-apache-benchmark/)
   * [Example of using Apache Bench (ab) to POST JSON to an API](https://gist.github.com/kelvinn/6a1c51b8976acf25bd78)
