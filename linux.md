@@ -126,6 +126,7 @@ Linux
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
 * [리눅스 배포판 선택, 고민되시나요? - 여기서 최상의 배포판을 골라 보세요](http://sergeswin.com/1056)
 * [open source & open hardware | Customizer로 나만의 리눅스배포판을 만들자 - Daum 카페](http://cafe.daum.net/opensupport.xyz/qiAR/10)
+* alpine [there is no such thing as a “glibc based alpine image” – Ariadne's Space](https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/)
 * [Busybox-based Linux distro from scratch – re-ws.pl](https://re-ws.pl/2020/11/busybox-based-linux-distro-from-scratch/)
 
 ## 배포판 Archlinux
@@ -313,6 +314,7 @@ Linux
   * [How to install software with Ansible | Opensource.com](https://opensource.com/article/20/9/install-packages-ansible)
   * [How To Write Ansible Playbooks | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/how-to-write-ansible-playbooks)
   * [How Do Ansible Tags Work? - Percona Database Performance Blog](https://www.percona.com/blog/2020/04/27/how-do-ansible-tags-work/)
+  * [미리 알았으면 좋을 Ansible 테크닉들 | GeekNews](https://news.hada.io/topic?id=4907)
 * [Bashible - a deployment/automation tool written in Bash (DSL). Inspired by Ansible. Simplifies things and prevents usual mistakes](https://github.com/mig1984/bashible)
 * [fabric](https://github.com/mathiasertl/fabric)
 * [Pulumi - Modern Infrastructure as Code](https://www.pulumi.com/) python
@@ -658,6 +660,7 @@ Linux
   * [You are here: Home / Guides / Explained: Input, Output and Error Redirection in Linux Explained: Input, Output and Error Redirection in Linux](https://linuxhandbook.com/redirection-linux)
   * [리다이렉션(redirection), 파이프(pipe)의 개념 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/linux-redirection/)
   * [Do Not Use '>' in Your Command Prompt (and How to Stay Safe in Shell) | Tanel Poder Consulting](https://tanelpoder.com/posts/how-to-stay-safe-in-shell/)
+  * [Illustrated Redirection Tutorial - Bash Hackers Wiki](https://wiki.bash-hackers.org/howto/redirection_tutorial)
 * `rm`
   * [How to Recover a Deleted File in Linux](https://www.tecmint.com/recover-deleted-file-in-linux/)
 * `rsync`
