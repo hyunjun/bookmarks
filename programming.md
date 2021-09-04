@@ -434,6 +434,7 @@ Programming
 * [**Software development topics I've changed my mind on after 6 years in the industry - Blogomatano**](https://chriskiehl.com/article/thoughts-after-6-years)
   * [업계에서 6년 있은 뒤, 마음이 바뀐 소프트웨어 개발 토픽들 | GeekNews](https://news.hada.io/topic?id=3635) 매우 좋은 글. 대부분 동의함
 * [Unpaywall - 오픈 액세스 논문 검색엔진 | GeekNews](https://news.hada.io/topic?id=4786)
+* [Zip - How not to design a file format.](https://games.greggman.com/game/zip-rant/)
 
 # Agile, Scrum
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
@@ -1353,6 +1354,7 @@ Programming
 * [The 25 best programming books of all-time. A data-backed answer](https://www.daolf.com/posts/best-programming-books/)
 * [software-architecture-books: A comprehensive list of books on Software Architecture.](https://github.com/mhadidg/software-architecture-books)
 * [100+ e-books on popular technologies for free](https://www.syncfusion.com/resources/techportal/ebooks)
+* [influential-cs-books: Most influential books on Computer Science/programming](https://github.com/cs-books/influential-cs-books)
 * [allitebooks.org](http://www.allitebooks.org/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [Computational Thinking for Educators](https://computationalthinkingcourse.withgoogle.com/course)
@@ -2839,6 +2841,7 @@ Programming
 * [x86-bare-metal-examples: Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QEMU 2.10中的Ubuntu 17.10主机和真实硬件上进行了测试。 Userland作弊网址：https：//github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM裸机安装程序位于：https：//github.com/cirosantilli/linux-kernel-module-cheat#baremetal- 设置](https://github.com/cirosantilli/x86-bare-metal-examples)
 
 # Parser
+* [Parser generators vs. handwritten parsers: surveying major language implementations in 2021 | notes.eatonphil.com](https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html)
 * [Zig, Parser Combinators - and Why They're Awesome](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome)
 * [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/)
   * [A Human-readable Scheduling Tool based on Python + ANTLR - Singapore Python User Group](https://www.youtube.com/watch?v=TCPhJpKv9SE)
