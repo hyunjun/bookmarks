@@ -1032,6 +1032,7 @@ Docker
   * 속도 면에서는 kubeconform이 가장 빠르고 kubeval에 비해 Kubernetes 버전도 최신까지 지원
 * [Automating quality checks for Kubernetes YAMLs - DEV Community](https://dev.to/wkrzywiec/automating-quality-checks-for-kubernetes-yamls-398)
 * [‘긍정과 부정으로 정리한’ 쿠버네티스 자격증의 가치 - CIO Korea](https://www.ciokorea.com/news/206484)
+* [Kubernetes 실습 과제 리스트](https://jerryljh.tistory.com/50)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1156,6 +1157,7 @@ Docker
   * [쿠버네티스 보안 강화를 위한 NSA/CISA 가이드 분석 - ITWorld Korea](https://www.itworld.co.kr/news/205884)
   * [The NSA Can Help Secure Your Kubernetes Clusters – The New Stack](https://thenewstack.io/the-nsa-can-help-you-secure-your-kubernetes-clusters/)
   * [NSA, CISA release Kubernetes Hardening Guidance > National Security Agency Central Security Service > Article View](https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
+  * [kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)](https://github.com/armosec/kubescape)
 * kubespray
   * [처음 만난 Kubespray](http://knight76.tistory.com/entry/kubespary-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-Kubespray)
   * [kubespray를 통한 클러스터 구축 - WONIZZ.LOG](https://blog.wonizz.tk/2021/05/17/kubernetes-kubespray/)
