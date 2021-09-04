@@ -638,6 +638,7 @@ Business
 * [Biz times 강한 리더는 필요하다…조직원을 강하게 만드는 리더는 꼭 필요하다 - 매일경제](https://www.mk.co.kr/news/business/view/2021/08/824257/)
 * [인정리더 vs. 존경리더](https://brunch.co.kr/@say2lee/49)
 * [오바마에게 배우는 리더의 소통법 직장인을 위한 김호의 ‘생존의 방식’](https://www.donga.com/news/article/all/20210901/109025103/1)
+* [권력을 분담하면 기업이 개선된다 | 지속가능성 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/12_1/article_no/1742/page/1)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
