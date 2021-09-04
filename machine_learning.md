@@ -531,6 +531,7 @@ Machine Learning
   * [PipelineAI: The Standard Runtime For Every Real-Time Machine Learning and AI Prediction in the Enterprise http://pipeline.ai](https://github.com/PipelineAI/pipeline)
 * [Data Science - Operationalize ML](https://www.linkedin.com/pulse/data-science-operationalize-ml-neeraj-sabharwal/)
 * [Machine Learning Tip : Using Rotational Data](https://towardsdatascience.com/machine-learning-tip-using-rotational-data-b67ded0a33ad)
+* [Google Tips and Tricks 2022 - For Machine Learning, Data Science, And Coding Practitioners](https://www.theinsaneapp.com/2021/07/google-tips-and-tricks.html)
 * [Preparing your data for Machine Learning](https://medium.com/ai%C2%B3-theory-practice-business/preparing-your-data-for-machine-learning-46d22eebfef) marking, filtering, feature extraction
 * [**작정하고 쓰는 머신러닝 강의 비판 (1)**](https://pabii.co/fraud-in-machine-learning-classes/)
 * [**작정하고 쓰는 머신러닝 강의 비판 (2)**](https://pabii.co/fraud-in-machine-learning-classes-2/)
@@ -1254,6 +1255,7 @@ Machine Learning
 * [ann-writer - An artificial machine learning program that attempts to impersonate the writing style of any given text training set](https://github.com/JacobPlaster/ann-writer)
 * [baal - Using approximate bayesian posteriors in deep nets for active learning](https://github.com/ElementAI/baal)
 * [Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML](https://github.com/uber/causalml)
+* [edenai-python: The best AI engines in one API: vision, text, speech, translation, OCR, machine learning, etc. SDK and examples for Python developers](https://github.com/edenai/edenai-python)
 * [Gradient-Free-Optimizers: Simple and reliable optimization with local, global, population-based and sequential techniques in numerical discrete search spaces](https://github.com/SimonBlanke/Gradient-Free-Optimizers)
 * [igel: a machine learning tool that allows to train, test and use models without writing code](https://github.com/nidhaloff/igel)
 * [JAX: Autograd and XLA](https://github.com/google/jax)
