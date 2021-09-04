@@ -1033,6 +1033,7 @@ Docker
 * [Automating quality checks for Kubernetes YAMLs - DEV Community](https://dev.to/wkrzywiec/automating-quality-checks-for-kubernetes-yamls-398)
 * [‘긍정과 부정으로 정리한’ 쿠버네티스 자격증의 가치 - CIO Korea](https://www.ciokorea.com/news/206484)
 * [Kubernetes 실습 과제 리스트](https://jerryljh.tistory.com/50)
+* [Alpha in Kubernetes v1.22: API Server Tracing | Kubernetes](https://kubernetes.io/blog/2021/09/03/api-server-tracing/)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
