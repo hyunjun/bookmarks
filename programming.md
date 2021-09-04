@@ -855,6 +855,7 @@ Programming
 * [9 open source tools for building a fault-tolerant system](https://opensource.com/article/19/3/tools-fault-tolerant-system)
 * [프로그래밍의 황금율은?](http://jhrogue.blogspot.com/2019/04/b.html)
 * [Online migrations at scale](https://stripe.com/blog/online-migrations) migration에 필요한 기본을 생각할 수 있는 글
+* [글로벌 칼럼 | 마이그레이션을 도중에 멈추면 안 되는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/206739) migration
 * [디지털 트랜스포메이션과 시스템 마이그레이션 | Popit](https://www.popit.kr/%eb%94%94%ec%a7%80%ed%84%b8-%ed%8a%b8%eb%9e%9c%ec%8a%a4%ed%8f%ac%eb%a9%94%ec%9d%b4%ec%85%98%ea%b3%bc-%ec%8b%9c%ec%8a%a4%ed%85%9c-%eb%a7%88%ec%9d%b4%ea%b7%b8%eb%a0%88%ec%9d%b4%ec%85%98/) system migration
 * [Why GUID is needed](https://www.slideshare.net/charsyam2/why-guid-is-needed)
 * [GUID python](https://www.slideshare.net/charsyam2/guid-40504314)
@@ -1425,18 +1426,21 @@ Programming
 * [넷플릭스∙스포티파이∙우버의 공통점…'클라우드 네이티브'의 정의와 특징 - ITWorld Korea](https://www.itworld.co.kr/news/205274)
 * [글로벌 칼럼 | 오늘날 클라우드 서비스가 만들어지는 방식 - ITWorld Korea](https://www.itworld.co.kr/news/205109)
 * [차니의 클라우드 클리닉 :: Channy's Blog](http://blog.creation.net/category/cloud-clinic)
+* [서비스로서의 방화벽 ‘FWaaS’ 알아보기 - ITWorld Korea](https://www.itworld.co.kr/news/206494)
 * [aws](aws.md)
 * [azure](azure.md)
+* [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
+  * [Checkov Secrets Scanning: Find exposed credentials in IaC | Bridgecrew Blog](https://bridgecrew.io/blog/checkov-secrets-scanning-find-exposed-credentials-in-iac/)
+* [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
 * [Dapr - Distributed Application Runtime](https://dapr.io/)
   * [Dapr, Lego for Microservices - YouTube](https://www.youtube.com/watch?v=NUMIYFbOkcc)
   * [Dapr - Getting started - YouTube](https://www.youtube.com/watch?v=WJ__6gRA9hI)
   * [Getting Started with Dapr for Building Distributed Apps - YouTube](https://www.youtube.com/watch?v=JOMQDDCRPaw)
   * [Alex Thissen — Dapr for building distributed .NET Core applications - YouTube](https://www.youtube.com/watch?v=FyFr5HzsQXE)
-* [GCP Google Cloud Platform](gcp.md)
-* [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
 * [Dark - a new way of building serverless backends. Just code your backend, with no infra, framework or deployment nightmares](https://darklang.com/)
 * [Dataiku 다타이쿠 클라우드 서버 설치 방법 가이드](https://stricky.tistory.com/351) 네이버 클라우드 플랫폼
 * [DigitalOcean – The developer cloud](https://www.digitalocean.com/)
+* [GCP Google Cloud Platform](gcp.md)
 * Heroku
   * [We are very far from a better Heroku for production apps in a hyper cloud | GitLab](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
   * [How To Deploy Node Js Feathers Framework On Heroku - YouTube](https://www.youtube.com/watch?v=R2yKyhgtklU)
@@ -2076,6 +2080,7 @@ Programming
 * [How To Become A DevOps Engineer In 2021: A Comprehensive Guide](https://devopscube.com/become-devops-engineer)
 * [A new era of DevOps, powered by machine learning](https://www.allthingsdistributed.com/2021/05/devops-powered-by-machine-learning.html)
 * [Ultimate Guide to Becoming a DevOps Engineer | Contino | Global Transformation Consultancy](https://www.contino.io/insights/devops-engineer-guide)
+* [Operations is not Developer IT](https://matduggan.com/operations-is-not-developer-it/)
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
