@@ -617,6 +617,8 @@ Programming
 * [OverAPI.com - Collecting All Cheat Sheets](http://overapi.com/)
 * Paypal [Paypal 여러 개의 상품 결제를 위한 API](https://jybaek.tistory.com/861)
 * [Public APIs - A collective list of free APIs for use in software and web development. https://ultimatecourses.com ](https://github.com/public-apis/public-apis)
+* [practice-api](https://github.com/LearnWebCode/practice-api)
+  * [JSON Practice Challenge: Build a Front-End For This API - YouTube](https://www.youtube.com/watch?v=k-KoZ5fnESk)
 * [ratelimit: API Rate Limit Decorator](https://github.com/tomasbasham/ratelimit)
   * [API Rate Limit Decorator with python](https://pythonawesome.com/api-rate-limit-decorator-with-python/)
 * [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
