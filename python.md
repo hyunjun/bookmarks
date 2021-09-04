@@ -249,6 +249,7 @@ Python
 * [10 Crazy Cool Project Ideas for Python Developers | by Juan Cruz Martinez | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/10-crazy-cool-project-ideas-for-python-developers-d7efeb0a345)
 * [Top 45 Python Project Ideas for Beginners - Intellipaat](https://intellipaat.com/blog/python-project-ideas-for-beginners/)
 * [140 Python Projects with Source Code | by Priyesh Sinha | May, 2021 | DataDrivenInvestor](https://medium.datadriveninvestor.com/140-python-projects-with-source-code-fa12c9e2aeac)
+* [70+ Python Projects For Beginners, Intermediate & Advanced Developers With Source Code](https://www.theinsaneapp.com/2021/06/list-of-python-projects-with-source-code-and-tutorials.html)
 * [파이썬 데이터 검색](http://www.slideshare.net/dahlmoon/20160302-58759476)
 * [Using Python to Parse Spreadsheet Data](https://www.sitepoint.com/using-python-parse-spreadsheet-data/)
 * [Python source code analysis by Prashanth Raghu](https://intopython.com/)
@@ -1568,6 +1569,7 @@ Python
 * [The Little Book of Python Anti-Patterns](http://docs.quantifiedcode.com/python-code-patterns/index.html)
 * [Collection Of 51 Free eBooks On Python Programming](http://electronicsforu.com/electronicsforu/circuitarchives/responsive/view_article.asp?sno=1802&title=&b_type=new&id=12983&group_type=cool_stuff)
 * [Jupyter Notebooks with Fluent Python examples https://github.com/AllenDowney/fluent-python-notebooks ](https://github.com/fluentpython/notebooks)
+* [50+ Free Python Programming Books PDF](https://www.theinsaneapp.com/2021/05/best-free-python-programming-books.html)
 * 정보교육을 위한 파이썬 [Python for Informatics: Exploring Information](https://www.amazon.com/Python-Informatics-Exploring-Information-Korean/dp/1517143144/ref=as_li_ss_tl?ie=UTF8&qid=1441110639&sr=8-1&keywords=python+for+informatics+korean&linkCode=sl1&tag=drchu02-20&linkId=acc6dba9169097e26614f65a92e443ff)
   * [정보교육을 위한 파이썬](https://statkclee.github.io/pythonlearn-kr/01-py4inf-python2/)
 * 파이썬으로 풀어보는 수학
@@ -4137,6 +4139,7 @@ Python
   * [Introducing Blaze - Practice](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-HMDA/)
   * [Introducing Blaze - Migrations](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-into/)
   * [Blaze Datasets](http://matthewrocklin.com/blog/work/2014/11/19/Blaze-Datasets/)
+* [dmatrix2np: Convert XGBoost's DMatrix format to np.array](https://github.com/aporia-ai/dmatrix2np)
 * einsum
   * [Einstein Summation in Numpy](https://obilaniu6266h16.wordpress.com/2016/02/04/einstein-summation-in-numpy/)
   * [EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING](https://rockt.github.io/2018/04/30/einsum)
