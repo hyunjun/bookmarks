@@ -117,6 +117,8 @@ Programming Language
 * [State machines are wonderful tools](https://nullprogram.com/blog/2020/12/31/)
 
 # Languages
+* [awesome-guidelines: A curated list of high quality coding style conventions and standards](https://github.com/Kristories/awesome-guidelines)
+  * [Awesome Guidelines | GeekNews](https://news.hada.io/topic?id=4865) 다양한 언어 및 환경을 위한 스타일 가이드 모음
 * [Programming languages](https://github.com/showcases/programming-languages)
 * [들어보셨나요? 한글 프로그래밍 언어 3종](http://www.bloter.net/archives/240918)
 * [Systems Languages: An Experience Report](https://blog.usejournal.com/systems-languages-an-experience-report-d008b2b12628)
@@ -445,6 +447,7 @@ Programming Language
   * [Hello World server](http://www.swi-prolog.org/howto/http/HelloText.html)
   * [How to learn Prolog by watching Game of Thrones](https://medium.freecodecamp.org/how-to-learn-prolog-by-watching-game-of-thrones-4852ea960017)
 * [prose - a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript](https://github.com/aaron-lebo/prose)
+* [Pyret](https://www.pyret.org/index.html)
 * [Octave](http://www.gnu.org/software/octave/)
 * [OGDL - Ordered Graph Data Language](http://ogdl.org/)
 * [Opa - The Opa Language Rapid & Secure Web Development](http://opalang.org/)
