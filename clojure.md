@@ -360,6 +360,11 @@ Clojure
 * [Paths, Paths, Paths ...](https://code.thheller.com/blog/shadow-cljs/2021/05/13/paths-paths-paths.html) classpath
 * [The Classpath is a Lie](https://lambdaisland.com/blog/2021-08-25-classpath-is-a-lie)
 * [classpath: Classpath/classloader/deps.edn related utilities](https://github.com/lambdaisland/classpath)
+* [An Architect's View: deps.edn and monorepos](https://corfield.org/blog/2021/02/23/deps-edn-monorepo/)
+* [An Architect's View: deps.edn and monorepos II](https://corfield.org/blog/2021/04/21/deps-edn-monorepo-2/)
+* [An Architect's View: deps.edn and monorepos III (Polylith)](https://corfield.org/blog/2021/06/06/deps-edn-monorepo-3/)
+* [An Architect's View: deps.edn and monorepos IV](https://corfield.org/blog/2021/07/21/deps-edn-monorepo-4/)
+* [An Architect's View: deps.edn and monorepos V (Polylith)](https://corfield.org/blog/2021/08/25/deps-edn-monorepo-5/)
 * [Using Hue connected lights and temp sensors to preview today's weather! | Medium](https://weakreference.medium.com/shorts-or-jeans-revisited-e2fc7f9c9559)
 * [Fibonacci Numbers in the Real World](https://lee-phillips.org/lispmath/)
 * [Once Upon a Class](https://danielsz.github.io/blog/2021-05-12T13_24.html)
