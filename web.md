@@ -716,6 +716,7 @@ Web
 * [Python and REST APIs: Interacting With Web Services – Real Python](https://realpython.com/api-integration-in-python/)
 * [파이썬 기본 모듈로 HTTPS 서버 구축하기 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6163871474)
   * [파이썬 한 줄로 로컬 테스트서버 만들기 - YouTube](https://www.youtube.com/watch?v=HIiL2cP87ec)
+* [Top 10 Trends in Python WebDev for 2021 and the resources to get started](https://www.activestate.com/blog/top-10-trends-in-python-webdev-for-2021-and-the-resources-to-get-started/)
 * [Anvil | Build Web Apps with Nothing but Python](https://anvil.works/)
   * [Python on the front-end? How to build an entire web app with only Python - YouTube](https://www.youtube.com/watch?v=vj0zW_pSZn0)
 * [BlackSheep: Fast ASGI web framework and HTTP client for Python asyncio](https://github.com/RobertoPrevato/BlackSheep)
@@ -1027,6 +1028,7 @@ Web
   * Go 언어 이용 간단한 WebAssembly 작성 예제
   * 코드는 Hello World를 출력하는 정도이지만 Go로 작성한 코드를 컴파일해서 HTML 페이지와 연동해서 불러오는 방법 소개
 * [What Is WebAssembly — and Why Are You Hearing So Much About It? – The New Stack](https://thenewstack.io/what-is-webassembly/)
+* ["네이티브에 가까운 성능" 웹어셈블리 활용한 언어 프로젝트 12선 - CIO Korea](https://www.ciokorea.com/news/206339)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
