@@ -907,6 +907,9 @@ Programming
 * [**Architecture Playbook — Architecture Playbook**](https://nocomplexity.com/documents/arplaybook/index.html)
 * [Lv0 에서 Lv2 까지 - 인프런 서비스 리뉴얼 - Hyung Joo](https://www.hyungjoo.me/4%EB%85%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%B0-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%98%A4%ED%94%88/)
 * [A Cloud-Native Architecture for a Digital Enterprise](https://www.infoq.com/articles/cloud-native-architecture/)
+* [Adoption of Cloud-Native Architecture, Part 1: Architecture Evolution and Maturity](https://www.infoq.com/articles/cloud-native-architecture-adoption-part1/)
+* [Adoption of Cloud Native Architecture, Part 2: Stabilization Gaps and Anti-Patterns](https://www.infoq.com/articles/cloud-native-architecture-adoption-part2/)
+* [Adoption of Cloud Native Architecture, Part 3: Service Orchestration and Service Mesh](https://www.infoq.com/articles/cloud-native-architecture-adoption-part3/)
 * [Hide :: Stripe 결제 시스템 도입하기](https://hides.tistory.com/1073)
 * [Financial Times의 데이터플랫폼 구축기 | GeekNews](https://news.hada.io/topic?id=3416)
 * [안심번호(050) 시스템 #1 - 시스템 구축 스토리 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/12/30/050system_introduction.html)
@@ -1238,6 +1241,7 @@ Programming
 * [API vs. Microservices: The Complete Guide - Snipcart](https://snipcart.com/blog/api-vs-microservices-architecture)
 * [Databases in the Microservices World - YouTube](https://www.youtube.com/watch?v=-9Veoch50Bg) micro database, event sourcing등. 기초적인 내용(이지만 잊기 쉬우니 보면 좋음)
 * [The 3 Stages of Microservice: Divide, Conquer, and Chaos | CodersTea](https://www.coderstea.com/post/microservices/microservices-introduction-divide-conquer-and-chaos/)
+* [NGINX’s Reference Architecture for Kubernetes Microservices – The New Stack](https://thenewstack.io/nginxs-reference-architecture-for-kubernetes-microservices/)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -2071,6 +2075,7 @@ Programming
 * [LINE 광고 서버 개발 팀의 DevOps 문화 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-ads-devops-culture/)
 * [How To Become A DevOps Engineer In 2021: A Comprehensive Guide](https://devopscube.com/become-devops-engineer)
 * [A new era of DevOps, powered by machine learning](https://www.allthingsdistributed.com/2021/05/devops-powered-by-machine-learning.html)
+* [Ultimate Guide to Becoming a DevOps Engineer | Contino | Global Transformation Consultancy](https://www.contino.io/insights/devops-engineer-guide)
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
@@ -2521,6 +2526,7 @@ Programming
   * [8월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/08/b-8-1.html)
   * [8월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/08/b-8-3.html)
   * [8월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/08/b-8.html)
+  * [9월 1주 소식(개발/관리도구, 클라우드/고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/09/b-9-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
