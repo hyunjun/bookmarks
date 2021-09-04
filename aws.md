@@ -589,8 +589,9 @@ AWS
   * [AWS Amplify와 AWS AppSync로 사진 공유 웹 어플리케이션 구현](https://awskrug.github.io/amplify-photo-gallery-workshop/)
 * [AWS Severless IoT 1 – 개발 계획](http://webframeworks.kr/tutorials/weplanet/1plan/)
 * [AWS Tutorial – Learn Amazon Web Services from Experts](https://intellipaat.com/blog/tutorial/amazon-web-services-aws-tutorial/)
-* [OSS AWS 핸즈온 강의](http://www.slideshare.net/JuHongJeong1/oss-aws-69310654)
 * [AWS Cloud Practitioner Training | AWS Cloud Practitioner Essentials | AWS Full Course | Simplillearn - YouTube](https://www.youtube.com/watch?v=35JSBXkjuhk)
+* [DevOps-The-Hard-Way-AWS: This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS)
+* [OSS AWS 핸즈온 강의](http://www.slideshare.net/JuHongJeong1/oss-aws-69310654)
 
 # Docker
 * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
@@ -913,6 +914,7 @@ AWS
 # Library
 * [konlpy와 mecab을 amazon linux2에 인스톨하는 스크립트입니다](https://gist.github.com/serithemage/7c52ab749d053c21898647ce04b4db9b)
 * [Reactjs AWS Lambda@Edge 이미지 리사이징](https://blog.wonizz.tk/2020/04/21/lambda-edge-guide/)
+* [**Python utilities for AWS related tasks**](https://pythonawesome.com/python-utilities-for-aws-related-tasks/)
 * [aws API Changes](https://awsapichanges.info)
 * [**Amazon Builders' Library Amazon의 소프트웨어 구축 및 운영 방식**](https://aws.amazon.com/ko/builders-library/)
 * [AWS CLI v2 - now generally available](https://aws.amazon.com/ko/blogs/developer/aws-cli-v2-is-now-generally-available/)
@@ -1095,6 +1097,9 @@ AWS
 * [Diving Deep on S3 Consistency](https://www.allthingsdistributed.com/2021/04/s3-strong-consistency.html)
 * [Downloading files from S3 with multithreading and Boto3 :: Hello, my name is Elías — Welcome to my personal site](https://emasquil.github.io/posts/multithreading-boto3/)
 * [AWS S3 버킷 마운트 없이 gz 압축 풀기](https://newstars.cloud/527)
+* [Amazon S3 Deep Dive (part 1-storage fundamentals) - DEV Community](https://dev.to/aws-builders/amazon-s3-deep-dive-part-1-storage-fundamentals-1f54)
+* [Amazon S3 Deep Dive (part 2-buckets) - DEV Community](https://dev.to/aws-builders/amazon-s3-deep-dive-part-2-buckets-aod)
+* [Amazon S3 Deep Dive (part 3-object) - DEV Community](https://dev.to/aws-builders/amazon-s3-deep-dive-part-3-storage-fundamentals-3mcd)
 
 # Scala
 * [Using Scala in the Cloud: A Guide to Amazon EC2 Instance Types](https://www.triplequote.com/blog/2019-guide-to-amazon-instances/)
