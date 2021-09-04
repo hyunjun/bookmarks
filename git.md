@@ -993,3 +993,4 @@ Git
 * [git-step](https://okdevtv.com/mib/git-step)
 * [Git 기반의 오픈소스 프로젝트 개발 실습](http://www.kocw.net/home/search/kemView.do?kemId=1352154)
 * [GitHub에서 커뮤니티 기반 소프트웨어 프로젝트 빌드 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/paths/build-community-driven-projects-github/)
+* [Git and GitHub Tutorial for Beginners - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/09/git-and-github-tutorial-for-beginners/)
