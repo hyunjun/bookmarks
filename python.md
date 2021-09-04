@@ -16,7 +16,6 @@ Python
 * [pawelmhm.github.io](https://pawelmhm.github.io/)
 * [Python Koans](https://github.com/gregmalcolm/python_koans)
 * [**Python Pedia - One Stop for Python Programming Resources. It's all about Python**](https://pythonpedia.com/)
-* [What the f\*ck Python? 🐍 A collection of interesting and tricky Python examples](https://github.com/satwikkansal/wtfpython)
 * [파이썬을 여행하는 히치하이커를 위한 안내서!](https://python-guide-kr.readthedocs.io)
 * [pythonfiddle.com](http://pythonfiddle.com/)
 * [sentdex](https://www.youtube.com/user/sentdex)
@@ -493,7 +492,6 @@ Python
 * [🔝Top 29 Useful Python Snippets 🔝 That Save You Time | The Startup](https://medium.com/swlh/top-useful-python-snippets-that-save-time-38958f256822)
 * [Python — From Intermediate to Superhero](https://medium.com/@negoiddfelix/python-from-intermediate-to-superhero-1a86e518bb77) list comprehension, lambda, map, filter, reduce, locals, globals, context manager, decorator, generator
 * [Performant Python](https://strangemachines.io/articles/performant-python) tuple, generator, slotted class, namedtuple, map, filter, comprehension에 대한 테스트
-* [**If you think you know Python, think once more!**](https://github.com/satwikkansal/wtfpython)
 * [04-4 append()와 +연산을 통한 리바인딩의 성능비교](https://www.youtube.com/watch?v=WsPHRmey4fM)
   * [Python-append-vs-rebind-numpy.ipynb](https://colab.research.google.com/drive/1P_hZ7G1lrnZrdnjY01tIY8BZLIGYxtpv)
 * [3 easy and noninvasive Ways to instantly boost your Python Code Performance](https://towardsdatascience.com/3-easy-and-noninvasive-ways-to-instantly-boost-your-python-code-performance-b21cd823f37e)
@@ -1662,6 +1660,7 @@ Python
   * [github.com/AllenDowney/ThinkPython2/code](https://github.com/AllenDowney/ThinkPython2/tree/master/code)
 * [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/) python + statistics, free download
 * [wtfpython: What the f\*ck Python? 😱](https://github.com/satwikkansal/wtfpython)
+  * [wtfpython-ko: 놀라운 예제들을 통해서 파이썬을 탐험하고 이해해보세요!](https://github.com/buttercrab/wtfpython-ko)
 
 # Bytecode
 * [Understanding Python bytecode by implementing tail call optimization](http://blog.fastforwardlabs.com/post/117173339298/bytecode-hacking-for-great-justice)
