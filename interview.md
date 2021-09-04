@@ -284,6 +284,7 @@ Interview
 * [Systems Design Interview Concepts (for software engineers / full-stack web)](https://www.youtube.com/watch?v=REB_eGHK_P4)
 * [System Design Interview Prep | Twitter](https://www.youtube.com/watch?v=LghAWi4H974)
 * [Google Systems Design Interview With An Ex-Googler](https://www.youtube.com/watch?v=q0KGYwNbf-0)
+* [Systems Design Study Plan - Google Docs](https://docs.google.com/document/d/1rkocmMNpQarD07jn6LTJaRoGvyKQpUSF7_Lbn_9ngSk/edit)
 * Introduction
   * [**CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan**](https://www.youtube.com/watch?v=-W9F__D3oY4) 이 분야의 고전같이 여겨지는 강의
   * [**System Design Introduction For Interview**](https://www.youtube.com/watch?v=UzLMhqg3_Wc) 기본적으로 지켜야 할 부분 안내
