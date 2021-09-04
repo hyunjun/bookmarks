@@ -147,6 +147,7 @@ Git
 * [What not to save into a Git repository](https://medium.freecodecamp.org/what-not-to-save-into-a-git-repository-29779ee94b96)
 * [How to use GitHub as a PyPi server](https://medium.freecodecamp.org/how-to-use-github-as-a-pypi-server-1c3b0d07db2)
 * [The Biggest Misconception About Git](https://medium.com/@gohberg/the-biggest-misconception-about-git-b2f87d97ed52)
+* [Picturing Git: Conceptions and Misconceptions - BiTE Interactive](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/)
 * [The Google Doc of Coding: Git & GitHub](https://medium.freecodecamp.org/the-google-doc-of-coding-git-github-ec103e87926d)
 * [How to be more productive on GitHub](https://medium.freecodecamp.org/how-to-be-more-productive-on-github-c3cedab043e3)
 * [Mac OS X 터미널에서 Git 패스워드 기억하기](https://medium.com/happyprogrammer-in-jeju/mac-os-x-%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-git-%ED%8C%A8%EC%8A%A4%EC%9B%8C%EB%93%9C-%EA%B8%B0%EC%96%B5%ED%95%98%EA%B8%B0-5675d58a60cd)
@@ -220,6 +221,7 @@ Git
   * git에서 파일 경로를 변경, 수정까지 한 경우 git이 어떻게 커밋히스토리를 유지하는지 추적한 글
   * 추가/삭제된 파일의 hash로 후보를 찾고 이 파일을 규칙에 따라 chunk로 나는 뒤에 50% 이상 동일하면 변경된 것으로 인식
   * 그래서 파일 마지막에 개행 문자가 없는 경우에 rename의 추적 과정이 왜 달라지는지도 설명
+* [Improving Git protocol security on GitHub | The GitHub Blog](https://github.blog/2021-09-01-improving-git-protocol-security-github/)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
