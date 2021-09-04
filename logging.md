@@ -52,6 +52,7 @@ Logging
 * [29CM 로그 수집 시스템 소개. 29CM에서는 기존의 로그 시스템, 신규 구축한 로그 시스템 두가지를… | by 29CM | 29CM 기술블로그 | Jul, 2021 | Medium](https://medium.com/29cm/29cm-%EB%A1%9C%EA%B7%B8-%EC%88%98%EC%A7%91-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%86%8C%EA%B0%9C-e7955d7deec6)
   * 29CM에서 기존에는 Fluentd와 Elasticsearch로 로그 수집, 관리의 어려움과 로그 유실을 막기 위해 새 로그 수집 시스템 구축
   * 새 시스템은 로그 수집 단계에 Kafka를 두어 ES에 문제가 생겨도 Kafka가 데이터 유실 방지, Kafka 플러그인을 기본으로 제공하는 Logstash로 변경
+* [Logging at Twitter: Updated](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated)
 
 # Fluentd
 * [Fluentd](http://www.fluentd.org/)
