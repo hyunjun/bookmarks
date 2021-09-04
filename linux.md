@@ -121,6 +121,7 @@ Linux
 * [Linux 유저 권한 설정 및 그룹](https://developer88.tistory.com/393) /etc/group /etc/passwd
 * [Console Desktop Guide](https://pspodcasting.net/dan/blog/2018/console_desktop.html)
 * [Linux에서 로드 밸런서와 캐시 서버를 멀티 코어 스케일 시키기 위한 커널 튜닝 - Google Docs](https://docs.google.com/document/d/10v2_8dt3t_HDT56k_Wf2THwq3cPSDccj-Agfik087X8/edit)
+* [Bringing the Unix Philosophy to the 21st Century | Brazil's Blog](https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -327,6 +328,7 @@ Linux
 * [더북(TheBook): 리눅스 서버를 다루는 기술](https://thebook.io/006718/)
 * [더북(TheBook): 모던 리눅스 관리](https://thebook.io/007021/) 1~4장만
 * [Just Enough Linux](https://leanpub.com/jelinux/read_full)
+* [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [Linux Terminal Tools 103p PDF | GeekNews](https://news.hada.io/topic?id=4194) [pdf](./pdfs/LPT_LISA.pdf)
 * [The Unix Workbench](https://leanpub.com/unix/read_full)
 
@@ -649,6 +651,7 @@ Linux
 * `ps`
   * `ps -T -p <process num>` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
   * `diff <(ps -aux) <(ps -ux)` [linux process substitution이 어떻게 동작하는지 간단하게 알아봅시다](https://codingdog.tistory.com/entry/linux-process-substitution%EC%9D%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EC%A7%80-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+  * [Monitor your Linux system in your terminal with procps-ng | Opensource.com](https://opensource.com/article/21/8/linux-procps-ng) ps and pstree, pidof, pgrep
   * [ProcMon-for-Linux: Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system](https://github.com/Sysinternals/ProcMon-for-Linux/) process monitor
 * [pushd and popd - Linux Shell Scripting Essentials](https://www.oreilly.com/library/view/linux-shell-scripting/9781785284441/ch03s11.html)
 * `pwd`
@@ -851,6 +854,7 @@ Linux
   * [10 Xargs Command Examples in Linux / UNIX](https://www.thegeekstuff.com/2013/12/xargs-examples/)
   * [xargs를 사용하여 이름에 공백과 따옴표가있는 파일을 복사하려면 어떻게해야합니까?](https://ko.programqa.com/question/143171/)
   * [xargs considered harmful - by Tyler Adams - CodeFaster](https://codefaster.substack.com/p/xargs-considered-harmful)
+  * [An Opinionated Guide to xargs](https://www.oilshell.org/blog/2021/08/xargs.html)
 * [`xxd`](https://linux.die.net/man/1/xxd)
   * 0, 1에 대한 bit format 출력
     * `xxd -b (Filename) > BINARY.bin` 현재 디렉토리에 BINARY.bin 파일 생성
@@ -1022,6 +1026,7 @@ Linux
 * [noah - Bash on Ubuntu on macOS](https://github.com/linux-noah/noah/)
 * [NsJail - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf](http://google.github.io/nsjail/)
 * [Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration](http://ohmyz.sh/)
+* [pam-duress: A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password](https://github.com/nuvious/pam-duress)
 * [Pass: The Standard Unix Password Manager](https://www.passwordstore.org/)
 * [πfs - the data-free filesystem!](https://github.com/philipl/pifs)
   * [압축률이 100%에 가까운 원주율 파일 시스템 | GeekNews](https://news.hada.io/topic?id=4624)
