@@ -462,7 +462,7 @@ App
   * Enhancd, The Fuck, Git Stats, Autojump, Bat, Oh my ZSH, Fony
 * [윈도우 컨테이너용 SQL Server 구동 스크립트 - 📤 정보 공유 - 닷넷데브](https://forum.dotnetdev.kr/t/sql-server/871)
 * [웹 서비스 구현의 모든 것! 무료 제작툴 39개 몽땅 알려드림! - YouTube](https://www.youtube.com/watch?v=u3Ph_M2bySg&list=PLHiW_ibXGXcXmAy0wbF8urO30wsbW9QBk)
-  * 기획 http://trello.com https://www.notion.so
+  * 기획 trello notion
   * 디자인 https://www.figma.com
   * 사진 https://unsplash.com
   * 코드 에디터 https://code.visualstudio.com
@@ -495,13 +495,12 @@ App
 * [Dash is an API Documentation Browser and Code Snippet Manager](https://kapeli.com/dash)
   * [Dash란?](http://byron1st.pe.kr/?p=244)
 * [docz - It has never been so easy to document your things! https://docz.site](https://github.com/pedronauck/docz)
+* [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
 * [Lando - A Local Dev Tool For Every Project | Lando](https://lando.dev/)
 * mysetting [**Develop. Share. Discover. For developers - mysetting**](https://mysetting.io/)
 * [n8n.io - Open Source Alternative for Zapier/tray.io](https://n8n.io)
-* [Nix - a tool that takes a unique approach to package management and system configuration](https://nixos.org/)
 * [peco: Simplistic interactive filtering tool](https://github.com/peco/peco)
   * [**Peco 사용법: 커맨드라인 텍스트 증분검색 필터링 도구 | 44BITS**](https://www.44bits.io/ko/post/incremental-search-tool-peco)
-* [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
 * [Skynet - The decentralized CDN and file sharing platform for devs](https://siasky.net/)
 * [Sourcetrail - The offline cross-platform source explorer Get productive on unfamiliar source code](https://www.sourcetrail.com/)
 * [TeamGantt - Online Gantt Chart Software](https://www.teamgantt.com/)
@@ -514,7 +513,11 @@ App
 * [The Next Wave of Work Management Software](https://hackernoon.com/the-next-wave-of-work-management-software-81f392c728e3)
 * [**Airtable**](https://airtable.com/) Zenkit, Notion, Coda
 * [monday.com](https://monday.com/)
+* [Nix - a tool that takes a unique approach to package management and system configuration](https://nixos.org/)
 * [nocodb: 🔥 🔥 The Open Source Airtable alternative](https://github.com/nocodb/nocodb)
+* [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
+* [Trello](https://trello.com/)
+  * [5천만 명이 이용하는 협업 ·업무관리 툴··· ‘트렐로’ 따라잡기 - CIO Korea](https://www.ciokorea.com/news/206324)
 
 ## Development Rest client
 * [insomnia - Debug APIs like a human, not a robot Finally, a REST client you'll love](https://insomnia.rest/)
@@ -809,7 +812,6 @@ App
 * [a-Shell - A text-based user interface for a screen-based platform](https://holzschu.github.io/a-Shell_iOS/)
 
 # Linux
-* [8 BEST SCREEN RECORDERS FOR LINUX IN 2017](https://itsfoss.com/best-linux-screen-recorders)
 * [리눅스에서 쓸 수 있는 베스트 그래픽 프로그램 정리](https://www.clien.net/service/board/useful/14961441)
   1. [블렌더 Blender](http://www.blender.org)
     * 오픈 소스 3D 저작 프로그램. 모델링, 리깅, 애니메이션, 시뮬레이션, 렌더링, 합성, 모션 트레킹, 비디오 편집 및 2D 애니메이션 및 3D 파이프라인 전체 지원
@@ -1164,7 +1166,10 @@ App
   * [macnews.tistory.com - search 녹화](http://macnews.tistory.com/location?cx=016639134168469997706%3A1tkvthvnu3y&cof=FORID%3A11&ie=UTF-8&q=%EB%85%B9%ED%99%94)
   * ["백투더맥 블로그에 올라오는 GIF 짤방 동영상은 어떻게 만드나요?" 이렇게 만듭니다](http://macnews.tistory.com/2215)
   * [퀵타임 플레이어를 활용한 조금 색다른 iOS 스크린샷 촬영 방법](http://macnews.tistory.com/3519)
+  * [8 BEST SCREEN RECORDERS FOR LINUX IN 2017](https://itsfoss.com/best-linux-screen-recorders)
   * [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/) web에 upload하지 않으면 자체 형식이라 별도로 play해야 하는 듯
+  * [doitlive: Because sometimes you need to do it live](https://github.com/sloria/doitlive)
+    * [A python tool for live presentations in the terminal](https://pythonawesome.com/a-python-tool-for-live-presentations-in-the-terminal/)
   * [EasyRecorder](https://itunes.apple.com/kr/app/easyrecorder-screen-recorder/id663199114)
   * [GIF Brewery 3 - Video to GIF Creator](https://itunes.apple.com/kr/app/gif-brewery-3-video-to-gif/id1081413713)
   * [GifGrabber - 화면 녹화에서 GIF 변환까지 한방에! 'GifGrabber'](http://macnews.tistory.com/1943)
