@@ -52,6 +52,8 @@ Programming Books
   * 2010.02.22
 * [구글을 지탱하는 기술](https://jh4hj.tistory.com/entry/%EA%B5%AC%EA%B8%80%EC%9D%84-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0)
   * 2010.02.23
+* [사랑하지 않으면 떠나라](https://jh4hj.tistory.com/entry/%EC%82%AC%EB%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9C%BC%EB%A9%B4-%EB%96%A0%EB%82%98%EB%9D%BC)
+  * 2010.05.15
 * [프로그래밍 심리학](https://jh4hj.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%8B%AC%EB%A6%AC%ED%95%99)
   * 2010.05.26~29
 * [룰 메이커 - 실리콘밸리를 움직이는 사람들](https://jh4hj.tistory.com/entry/%EB%A3%B0-%EB%A9%94%EC%9D%B4%EC%BB%A4-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EB%A5%BC-%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4)
@@ -154,6 +156,8 @@ Programming Books
 
 * [누워서 읽는 알고리즘](https://jh4hj.tistory.com/entry/%EB%88%84%EC%9B%8C%EC%84%9C-%EC%9D%BD%EB%8A%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
   * 2010.02.23~26
+* [누워서 읽는 퍼즐북 : 뉴욕의 프로그래머 임백준의 퍼즐이야기](https://jh4hj.tistory.com/entry/%EB%88%84%EC%9B%8C%EC%84%9C-%EC%9D%BD%EB%8A%94-%ED%8D%BC%EC%A6%90%EB%B6%81-%EB%89%B4%EC%9A%95%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8-%EC%9E%84%EB%B0%B1%EC%A4%80%EC%9D%98-%ED%8D%BC%EC%A6%90%EC%9D%B4%EC%95%BC%EA%B8%B0)
+  * 2010.06.17~23
 * 해커의 기쁨: 비트와 바이트 그리고 알고리즘
   * 한라 004.661워294ㅎ
 * Top Coder 알고리즘 트레이닝

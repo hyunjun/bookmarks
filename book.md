@@ -2,24 +2,7 @@ Book
 ====
 * [책 추천 list](https://gist.github.com/hyunjun/b9fd286a39bd826685a1d3713fecc54d#file-from_pgr-txt)
 * [빌 게이츠와 스티븐 핑커, ‘우리 본성의 선한 천사’를 이야기하다](http://ppss.kr/archives/38255)
-* [소설 마시는 시간 - 그들이 사랑한 문장과 술](http://jh4hj.tistory.com/entry/%EC%86%8C%EC%84%A4-%EB%A7%88%EC%8B%9C%EB%8A%94-%EC%8B%9C%EA%B0%84-%EA%B7%B8%EB%93%A4%EC%9D%B4-%EC%82%AC%EB%9E%91%ED%95%9C-%EB%AC%B8%EC%9E%A5%EA%B3%BC-%EC%88%A0)
-  * ★★★☆☆ 2017.12.10
-* [장병규의 스타트업 한국](https://estimastory.com/2017/12/27/jangstartup/)
-  * 2018.01
-  * 한라 325.21 장44ㅅ
-  * 간단히 살펴봐서 정확히는 모르겠지만, '창업자와 스타트업 구성원의 가족이 자주 하는 질문' 부분만 봐도 꽤 괜찮은 책이라는 생각이 든다. 현실적으로 자주 할 법한 질문들을 현실적으로 답변
-* (NOT YET) [인공지능 투자가 퀀트](https://blog.outsider.ne.kr/1353)
-  * 탐라 문327.8-권66ㅋ
-  * 한라 327.8-권65ㅋ
 * [히트 리프레시](https://www.haruair.com/blog/4521)
-* (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
-* (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
-* (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
-* (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
-* (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
-* (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
-* (NOT YET) [컨테이저스: 전략적 입소문 와튼스쿨 마케팅학 최고 권위자가 전하는 소셜 마케팅 전략](http://jhrogue.blogspot.com/2020/03/blog-post.html)
-* (NOT YET) [나는 연구하는 회사원입니다](https://brunch.co.kr/@lunarshore/373)
 * [Two Cents #25 “New World Order” - 허진호 (Jin Ho Hur)](https://medium.com/@hur/two-cents-25-new-world-order-11e6768a5d69) 여러 서평
   * Impact of China’s Growth on the World Economy — Ray Dalio
   * The Coronavirus Is Driving China and the United States Further Apart — Foreign Policy
@@ -27,17 +10,93 @@ Book
   * Ray Dalio, “The Changing World Order: Why Nations Succeed and Fail”
   * 폴 케네디, 강대국의 흥망
   * 새뮤얼 헌팅턴, 문명의 충돌
-* (NOT YET) [사람은 어떻게 생각하고 배우고 기억하는가](https://jhrogue.blogspot.com/2020/06/blog-post.html?spref=tw)
-* (NOT YET) [실질적으로 도움을 많이 주는 자기계발서 4권](https://brunch.co.kr/@dryjshin/367)
-* (NOT YET) [부모님의 집 정리](https://news.v.daum.net/v/20210425180002886)
-* (NOT YET) 거대도시 서울 철도 [지구 구하는 철학적 ‘철덕’ - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=44407)
-* (NOT YET) [토마 피케티의 ‘자본과 이데올로기’를 읽고. 토마 피케티는 전작 ‘21세기 자본론’에서, 19세기말 이후 현재까지… | by 허진호 (Jin Ho Hur) | Apr, 2021 | Medium](https://hur.medium.com/%ED%86%A0%EB%A7%88-%ED%94%BC%EC%BC%80%ED%8B%B0%EC%9D%98-%EC%9E%90%EB%B3%B8%EA%B3%BC-%EC%9D%B4%EB%8D%B0%EC%98%AC%EB%A1%9C%EA%B8%B0%EB%A5%BC-%EC%9D%BD%EA%B3%A0-62952868a588)
 * [어슐러 르 귄의 세계](https://terms.naver.com/entry.naver?docId=3572906&cid=58819&categoryId=58835)
-* (NOT YET) 새의 언어 [멍청해서 '새대가리'라고? 큰 착각입니다 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=44607)
-* (NOT YET) [특판남이 알려주는 돈 되는 특허 AtoZ](https://jhrogue.blogspot.com/2021/06/atoz.html)
-* (NOT YET) [나는 왜 내가 힘들까](https://jhrogue.blogspot.com/2021/07/blog-post.html)
-* (NOT YET) [돈의 심리학](https://jhrogue.blogspot.com/2021/08/blog-post_18.html)
-* (NOT YET) [막스 베버와 마르크스, ‘더럽게 어렵지만’ 읽어야 하는 이유 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=45296)
+* [아름다움의 과학](https://jh4hj.tistory.com/entry/%EC%95%84%EB%A6%84%EB%8B%A4%EC%9B%80%EC%9D%98-%EA%B3%BC%ED%95%99)
+  * 2008.12.29~2010.01.02
+* [불타는 세계](https://jh4hj.tistory.com/entry/%EB%B6%88%ED%83%80%EB%8A%94-%EC%84%B8%EA%B3%84)
+  * 2009.11.09~12
+* [장미의 이름](https://jh4hj.tistory.com/entry/%EC%9E%A5%EB%AF%B8%EC%9D%98-%EC%9D%B4%EB%A6%84)
+  * 2009.11.19~24
+* [나사, 그리고 거짓의 역사](https://jh4hj.tistory.com/entry/%EB%82%98%EC%82%AC-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B1%B0%EC%A7%93%EC%9D%98-%EC%97%AD%EC%82%AC)
+  * 2009.12.01~05
+* [안녕, 고양이는 고마웠어요](https://jh4hj.tistory.com/entry/%EC%95%88%EB%85%95-%EA%B3%A0%EC%96%91%EC%9D%B4%EB%8A%94-%EA%B3%A0%EB%A7%88%EC%9B%A0%EC%96%B4%EC%9A%94)
+  * 2009.12.14
+* [깐깐한 독서본능](https://jh4hj.tistory.com/entry/%EA%B9%90%EA%B9%90%ED%95%9C-%EB%8F%85%EC%84%9C%EB%B3%B8%EB%8A%A5)
+  * 2010.05.05~06
+* [왜 사람들은 이상한 것을 믿는가](https://jh4hj.tistory.com/entry/%EC%99%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%9D%B4%EC%83%81%ED%95%9C-%EA%B2%83%EC%9D%84-%EB%AF%BF%EB%8A%94%EA%B0%80)
+  * 2010.05.16~19
+* [하리하라, 미드에서 과학을 보다](https://jh4hj.tistory.com/entry/%ED%95%98%EB%A6%AC%ED%95%98%EB%9D%BC-%EB%AF%B8%EB%93%9C%EC%97%90%EC%84%9C-%EA%B3%BC%ED%95%99%EC%9D%84-%EB%B3%B4%EB%8B%A4)
+  * 2010.05.22
+* [다윈 이후](https://jh4hj.tistory.com/entry/%EB%8B%A4%EC%9C%88-%EC%9D%B4%ED%9B%84) 스티븐 굴드
+  * 2010.05.23~25
+* [인문학 콘서트](https://jh4hj.tistory.com/entry/%EC%9D%B8%EB%AC%B8%ED%95%99-%EC%BD%98%EC%84%9C%ED%8A%B8)
+  * 2010.06.28~29
+* [세계 도서관 기행](https://jh4hj.tistory.com/entry/%EC%84%B8%EA%B3%84-%EB%8F%84%EC%84%9C%EA%B4%80-%EA%B8%B0%ED%96%89)
+  * 2010.07.05~06
+* [반드시 성공하는 미국 이민](https://jh4hj.tistory.com/entry/%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%84%B1%EA%B3%B5%ED%95%98%EB%8A%94-%EB%AF%B8%EA%B5%AD-%EC%9D%B4%EB%AF%BC)
+  * 2010.07.11
+* [한 권으로 끝내는 뉴욕 취업](https://jh4hj.tistory.com/entry/%ED%95%9C-%EA%B6%8C%EC%9C%BC%EB%A1%9C-%EB%81%9D%EB%82%B4%EB%8A%94-%EB%89%B4%EC%9A%95-%EC%B7%A8%EC%97%85)
+  * 2010.07.11~12
+* [그들이 우리의 일자리를 빼앗고 있다](https://jh4hj.tistory.com/entry/%EA%B7%B8%EB%93%A4%EC%9D%B4-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%9D%BC%EC%9E%90%EB%A6%AC%EB%A5%BC-%EB%B9%BC%EC%95%97%EA%B3%A0-%EC%9E%88%EB%8B%A4)
+  * 2010.07.17
+* [도난당한 열정](https://jh4hj.tistory.com/entry/%EB%8F%84%EB%82%9C%EB%8B%B9%ED%95%9C-%EC%97%B4%EC%A0%95)
+  * 2010.07.18
+* [정의란 무엇인가?](https://jh4hj.tistory.com/entry/%EC%A0%95%EC%9D%98%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+  * 2011.07.28~08.04
+  * [<정의란 무엇인가>를 읽고 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/view/at_pg.aspx?CNTN_CD=A0001439776)
+* [생각의 탄생](https://jh4hj.tistory.com/entry/%EC%83%9D%EA%B0%81%EC%9D%98-%ED%83%84%EC%83%9D)
+  * 2011.08.12~14, 22~23
+* [셜록 홈즈(대부분)](https://jh4hj.tistory.com/entry/2011120228-%EC%85%9C%EB%A1%9D-%ED%99%88%EC%A6%88-%EB%8C%80%EB%B6%80%EB%B6%84-%EB%A1%9C%EB%A7%88%EC%9D%B8-%EC%9D%B4%EC%95%BC%EA%B8%B0-18%EA%B6%8C)
+  * 2011.12.02~28
+* [노틀담의 꼽추](https://jh4hj.tistory.com/entry/%EB%85%B8%ED%8B%80%EB%8B%B4%EC%9D%98-%EA%BC%BD%EC%B6%94)
+  * 2012.01.10~12
+* [데미안](https://jh4hj.tistory.com/entry/%EB%8D%B0%EB%AF%B8%EC%95%88)
+  * 2012.01.12~13, 16~18
+* [레미제라블](https://jh4hj.tistory.com/entry/%EB%A0%88%EB%AF%B8%EC%A0%9C%EB%9D%BC%EB%B8%94)
+  * 2012.01.30~31
+* [지와 사랑](https://jh4hj.tistory.com/entry/%EC%A7%80%EC%99%80-%EC%82%AC%EB%9E%91)
+  * 2012.01.31~02.01
+* [주홍글씨](https://jh4hj.tistory.com/entry/%EC%A3%BC%ED%99%8D%EA%B8%80%EC%94%A8)
+  * 2012.02.05~06
+* [어머니 (소설) - 위키백과, 우리 모두의 백과사전](https://ko.wikipedia.org/wiki/%EC%96%B4%EB%A8%B8%EB%8B%88_(%EC%86%8C%EC%84%A4))
+  * 2012.02.20~24, 27~29
+* [로우 R.O.W.E Results-Only Work Environment](https://www.evernote.com/shard/s31/client/snv?noteGuid=ee2daf76-109c-4f73-8c6f-4231699f6136&noteKey=67df3bed7586146258333d83675e7a77&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs31%2Fsh%2Fee2daf76-109c-4f73-8c6f-4231699f6136%2F67df3bed7586146258333d83675e7a77&title=%25EB%25A1%259C%25EC%259A%25B0%2BR.O.W.E%2BResults-Only%2BWork%2BEnvironment)
+  * 2012.12.13
+* [올로프 팔메 스웨덴이 사랑한 정치인](https://www.evernote.com/shard/s31/client/snv?noteGuid=a8e3d2a0-53e2-45c5-81b3-e72cbf90f6af&noteKey=1d36c28cbf36fd155d224fe4819ef252&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs31%2Fsh%2Fa8e3d2a0-53e2-45c5-81b3-e72cbf90f6af%2F1d36c28cbf36fd155d224fe4819ef252&title=%25EC%2598%25AC%25EB%25A1%259C%25ED%2594%2584%2B%25ED%258C%2594%25EB%25A9%2594%2B%25EC%258A%25A4%25EC%259B%25A8%25EB%258D%25B4%25EC%259D%25B4%2B%25EC%2582%25AC%25EB%259E%2591%25ED%2595%259C%2B%25EC%25A0%2595%25EC%25B9%2598%25EC%259D%25B8)
+  * ★★★★★ 2013.02.23
+* [빅데이터 충격](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%B6%A9%EA%B2%A9)
+  * 2013.04.03~04
+  * (이미 늦은 감이 있지만) 빅데이터 시대의 도래에 따른 사회 변화, 사례, 앞으로의 전망을 엮은 빅데이터 관련 입문서와 같은 책. 프로그래머들보다는 기획자나 관심있는 사람들이 읽기에 좋다. 결론은 '지금도 이미 널리 활용되고 있고, 앞으로는 더 폭넓고 깊게 사용된다.'
+* [모사드](https://jh4hj.tistory.com/entry/%EB%AA%A8%EC%82%AC%EB%93%9C)
+  * 2013.09.23
+* [나는 마당있는 작은 집에 산다](https://jh4hj.tistory.com/entry/%EB%82%98%EB%8A%94-%EB%A7%88%EB%8B%B9%EC%9E%88%EB%8A%94-%EC%9E%91%EC%9D%80-%EC%A7%91%EC%97%90-%EC%82%B0%EB%8B%A4)
+  * 2014.03.30
+* [스웨덴을 가다](https://jh4hj.tistory.com/entry/%EC%8A%A4%EC%9B%A8%EB%8D%B4%EC%9D%84-%EA%B0%80%EB%8B%A4)
+  * 2014.04.03
+* [이방인](https://jh4hj.tistory.com/entry/%EC%9D%B4%EB%B0%A9%EC%9D%B8)
+  * 2014.07.29
+* [장하준의 경제학 강의](https://jh4hj.tistory.com/entry/%EC%9E%A5%ED%95%98%EC%A4%80%EC%9D%98-%EA%B2%BD%EC%A0%9C%ED%95%99-%EA%B0%95%EC%9D%98)
+  * 2014.10.10
+* [THAAD](https://jh4hj.tistory.com/entry/THAAD)
+  * 2014.10.28
+* [왓슨 인간의 사고를 시작하다](https://jh4hj.tistory.com/entry/%EC%99%93%EC%8A%A8-%EC%9D%B8%EA%B0%84%EC%9D%98-%EC%82%AC%EA%B3%A0%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8B%A4)
+  * 2014.12.18
+* [한 권의 물리학](https://jh4hj.tistory.com/entry/%ED%95%9C-%EA%B6%8C%EC%9D%98-%EB%AC%BC%EB%A6%AC%ED%95%99)
+  * 2015.06.02
+* [인공지능, 붓다를 꿈꾸다](https://jh4hj.tistory.com/entry/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B6%93%EB%8B%A4%EB%A5%BC-%EA%BF%88%EA%BE%B8%EB%8B%A4)
+  * 2015.06.05
+* [철학자의 연애](https://jh4hj.tistory.com/entry/%EC%B2%A0%ED%95%99%EC%9E%90%EC%9D%98-%EC%97%B0%EC%95%A0)
+  * 2015.06.10
+* [파리에서 살아보기](https://jh4hj.tistory.com/entry/%ED%8C%8C%EB%A6%AC%EC%97%90%EC%84%9C-%EC%82%B4%EC%95%84%EB%B3%B4%EA%B8%B0)
+  * 2015.08.25
+* [찌질한 위인전](https://jh4hj.tistory.com/entry/%EC%B0%8C%EC%A7%88%ED%95%9C-%EC%9C%84%EC%9D%B8%EC%A0%84)
+  * 2015.09.01
+* [만화로 읽는 피케티의 21세기 자본 -](https://jh4hj.tistory.com/entry/%EB%A7%8C%ED%99%94%EB%A1%9C-%EC%9D%BD%EB%8A%94-%ED%94%BC%EC%BC%80%ED%8B%B0%EC%9D%98-21%EC%84%B8%EA%B8%B0-%EC%9E%90%EB%B3%B8)
+  * 2015.10.18
+* [세계에서 가장 행복한 덴마크 사람들](https://jh4hj.tistory.com/entry/%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%ED%96%89%EB%B3%B5%ED%95%9C-%EB%8D%B4%EB%A7%88%ED%81%AC-%EC%82%AC%EB%9E%8C%EB%93%A4)
+  * 2016.06.10
+* [소설 마시는 시간 - 그들이 사랑한 문장과 술](http://jh4hj.tistory.com/entry/%EC%86%8C%EC%84%A4-%EB%A7%88%EC%8B%9C%EB%8A%94-%EC%8B%9C%EA%B0%84-%EA%B7%B8%EB%93%A4%EC%9D%B4-%EC%82%AC%EB%9E%91%ED%95%9C-%EB%AC%B8%EC%9E%A5%EA%B3%BC-%EC%88%A0)
+  * ★★★☆☆ 2017.12.10
 * 오쿠다 히데오 항구마을식당
   * ★★★☆☆ 2021.08.20
   * 하루키도 그랬지만 출판사에서 작가를 통해 여행기를 쓰는 게 관행 혹은 유행이 있나 싶은 생각이 들었음
@@ -63,6 +122,24 @@ Book
   * ★★★☆☆ 2021.08.27
   * 2003~5년에 쓴 글이라 좀 예전 얘기들이 많긴 하지만, 어떤 이야기들은 여전히 요즘과도 맞닿아있다(고령화, 온난화 등)
   * 이공계 출신이라 오히려 생각의 폭이 제한되는 경우도 있다(프로듀서나 작가가 과학적으로는 전혀 말도 안 되는 결말을 만드는데 그게 재미있고 기발했다고 씀)는 글이 가장 공감이 간다
+* (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
+* (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
+* (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
+* (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
+* (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
+* (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
+* (NOT YET) [컨테이저스: 전략적 입소문 와튼스쿨 마케팅학 최고 권위자가 전하는 소셜 마케팅 전략](http://jhrogue.blogspot.com/2020/03/blog-post.html)
+* (NOT YET) [나는 연구하는 회사원입니다](https://brunch.co.kr/@lunarshore/373)
+* (NOT YET) [사람은 어떻게 생각하고 배우고 기억하는가](https://jhrogue.blogspot.com/2020/06/blog-post.html?spref=tw)
+* (NOT YET) [실질적으로 도움을 많이 주는 자기계발서 4권](https://brunch.co.kr/@dryjshin/367)
+* (NOT YET) [부모님의 집 정리](https://news.v.daum.net/v/20210425180002886)
+* (NOT YET) 거대도시 서울 철도 [지구 구하는 철학적 ‘철덕’ - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=44407)
+* (NOT YET) [토마 피케티의 ‘자본과 이데올로기’를 읽고. 토마 피케티는 전작 ‘21세기 자본론’에서, 19세기말 이후 현재까지… | by 허진호 (Jin Ho Hur) | Apr, 2021 | Medium](https://hur.medium.com/%ED%86%A0%EB%A7%88-%ED%94%BC%EC%BC%80%ED%8B%B0%EC%9D%98-%EC%9E%90%EB%B3%B8%EA%B3%BC-%EC%9D%B4%EB%8D%B0%EC%98%AC%EB%A1%9C%EA%B8%B0%EB%A5%BC-%EC%9D%BD%EA%B3%A0-62952868a588)
+* (NOT YET) 새의 언어 [멍청해서 '새대가리'라고? 큰 착각입니다 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=44607)
+* (NOT YET) [특판남이 알려주는 돈 되는 특허 AtoZ](https://jhrogue.blogspot.com/2021/06/atoz.html)
+* (NOT YET) [나는 왜 내가 힘들까](https://jhrogue.blogspot.com/2021/07/blog-post.html)
+* (NOT YET) [돈의 심리학](https://jhrogue.blogspot.com/2021/08/blog-post_18.html)
+* (NOT YET) [막스 베버와 마르크스, ‘더럽게 어렵지만’ 읽어야 하는 이유 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=45296)
 * (NOT YET) [행복의 조건(하버드대학교. 인생성장 보고서를 읽고)](https://brunch.co.kr/@sunflowerkkk/5)
   * 책과 무관하지만 비슷한 뱡향의 기사
     * [What My Harvard College Reunion Taught Me About Life - The Atlantic](https://www.theatlantic.com/education/archive/2018/10/what-my-harvard-college-reunion-taught-me-about-life/573847/)
@@ -75,9 +152,36 @@ Book
   * ★★★☆☆ 2017.05.28
 
 # Art
-* [세계의 박물관 미술관 예술기행 - 유럽편 -](http://jh4hj.tistory.com/entry/%EC%84%B8%EA%B3%84%EC%9D%98-%EB%B0%95%EB%AC%BC%EA%B4%80-%EB%AF%B8%EC%88%A0%EA%B4%80-%EC%98%88%EC%88%A0%EA%B8%B0%ED%96%89-%EC%9C%A0%EB%9F%BD%ED%8E%B8)
+* [춤추는 죽음](https://jh4hj.tistory.com/entry/%EC%B6%A4%EC%B6%94%EB%8A%94-%EC%A3%BD%EC%9D%8C) 진중권
+  * 2009.04.08
+* [서양미술사 1](https://jh4hj.tistory.com/entry/%EC%84%9C%EC%96%91%EB%AF%B8%EC%88%A0%EC%82%AC-1) 진중권
+  * 2009.07.21
+* [레퀴엠](https://jh4hj.tistory.com/entry/%EB%A0%88%ED%80%B4%EC%97%A0) 진중권
+  * 2009.09.22~24
+* [시스티나 예배당의 비밀 : 바티칸의 심장에 숨겨놓은 미켈란젤로의 비밀 메시지](https://jh4hj.tistory.com/entry/%EC%8B%9C%EC%8A%A4%ED%8B%B0%EB%82%98-%EC%98%88%EB%B0%B0%EB%8B%B9%EC%9D%98-%EB%B9%84%EB%B0%80-%EB%B0%94%ED%8B%B0%EC%B9%B8%EC%9D%98-%EC%8B%AC%EC%9E%A5%EC%97%90-%EC%88%A8%EA%B2%A8%EB%86%93%EC%9D%80-%EB%AF%B8%EC%BC%88%EB%9E%80%EC%A0%A4%EB%A1%9C%EC%9D%98-%EB%B9%84%EB%B0%80-%EB%A9%94%EC%8B%9C%EC%A7%80)
+  * 2009.01.04~08
+* [미켈란젤로와 교황의 천장](https://jh4hj.tistory.com/entry/%EB%AF%B8%EC%BC%88%EB%9E%80%EC%A0%A4%EB%A1%9C%EC%99%80-%EA%B5%90%ED%99%A9%EC%9D%98-%EC%B2%9C%EC%9E%A5)
+  * 2009.12.24~28
+* [그림, 아는 만큼 보인다](https://jh4hj.tistory.com/entry/%EA%B7%B8%EB%A6%BC-%EC%95%84%EB%8A%94-%EB%A7%8C%ED%81%BC-%EB%B3%B4%EC%9D%B8%EB%8B%A4)
+  * 2010.04.02~03
+* [한국의 인디레이블](https://jh4hj.tistory.com/entry/%ED%95%9C%EA%B5%AD%EC%9D%98-%EC%9D%B8%EB%94%94%EB%A0%88%EC%9D%B4%EB%B8%94)
+  * 2010.06.23~25
+* [한국 대중음악 100대 명반 1 : 음반리뷰](https://jh4hj.tistory.com/entry/%ED%95%9C%EA%B5%AD-%EB%8C%80%EC%A4%91%EC%9D%8C%EC%95%85-100%EB%8C%80-%EB%AA%85%EB%B0%98-1-%EC%9D%8C%EB%B0%98%EB%A6%AC%EB%B7%B0)
+  * 2010.06.26
+* [한국 대중음악 100대 명반 인터뷰](https://jh4hj.tistory.com/entry/%ED%95%9C%EA%B5%AD-%EB%8C%80%EC%A4%91%EC%9D%8C%EC%95%85-100%EB%8C%80-%EB%AA%85%EB%B0%98-%EC%9D%B8%ED%84%B0%EB%B7%B0)
+  * 2010.07.18~19
+* [역사의 미술관](https://jh4hj.tistory.com/entry/%EC%97%AD%EC%82%AC%EC%9D%98-%EB%AF%B8%EC%88%A0%EA%B4%80)
+  * 2012.09.08~10
+* [피렌체의 빛나는 순간](https://jh4hj.tistory.com/entry/%ED%94%BC%EB%A0%8C%EC%B2%B4%EC%9D%98-%EB%B9%9B%EB%82%98%EB%8A%94-%EC%88%9C%EA%B0%84)
+  * 2014.09.24
+  * [<피렌체의 빛나는 순간>](https://brunch.co.kr/@pedkang01/279)
+* [세상의 모든 교양, 미술이 묻고 고전이 답하다](https://jh4hj.tistory.com/entry/%EC%84%B8%EC%83%81%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B5%90%EC%96%91-%EB%AF%B8%EC%88%A0%EC%9D%B4-%EB%AC%BB%EA%B3%A0-%EA%B3%A0%EC%A0%84%EC%9D%B4-%EB%8B%B5%ED%95%98%EB%8B%A4)
+  * ★★★★★ 2016.06.19
+* [우피치 미술관에서 꼭 봐야 할 그림 100](https://jh4hj.tistory.com/entry/%EC%9A%B0%ED%94%BC%EC%B9%98-%EB%AF%B8%EC%88%A0%EA%B4%80%EC%97%90%EC%84%9C-%EA%BC%AD-%EB%B4%90%EC%95%BC-%ED%95%A0-%EA%B7%B8%EB%A6%BC-100)
+  * 2016.08.18
+* [세계의 박물관 미술관 예술기행 - 유럽편](http://jh4hj.tistory.com/entry/%EC%84%B8%EA%B3%84%EC%9D%98-%EB%B0%95%EB%AC%BC%EA%B4%80-%EB%AF%B8%EC%88%A0%EA%B4%80-%EC%98%88%EC%88%A0%EA%B8%B0%ED%96%89-%EC%9C%A0%EB%9F%BD%ED%8E%B8)
   * ★★★★☆ 2016.09.23
-* [유럽의 시간을 걷다](http://book.daum.net/detail/book.do?bookid=KOR9791195677146)
+* 유럽의 시간을 걷다
   * 탐라 문600.92 최14ㅇ
   * ★★★★☆ 2017.07.13 유럽의 예술사를 주로 건축을 중심으로 알아보는 책. 구성이나 내용 모두 초보자에게 적합. 매우 마음에 들었음
 * [인류의 꽃이 된 도시, 피렌체](http://jh4hj.tistory.com/entry/%EC%9D%B8%EB%A5%98%EC%9D%98-%EA%BD%83%EC%9D%B4-%EB%90%9C-%EB%8F%84%EC%8B%9C-%ED%94%BC%EB%A0%8C%EC%B2%B4)
@@ -85,37 +189,39 @@ Book
   * ★★★★☆ 2018.01.05
 * [카라바조 이중성의 살인미학](http://jh4hj.tistory.com/entry/%EC%9D%B4%EC%A4%91%EC%84%B1%EC%9D%98-%EC%82%B4%EC%9D%B8%EB%AF%B8%ED%95%99-%EC%B9%B4%EB%9D%BC%EB%B0%94%EC%A1%B0)
   * ★★★★☆ 2018.01.19
-* [오르세 미술관 여행](http://book.daum.net/detail/book.do?bookid=KOR9791186789124)
+* 오르세 미술관 여행
   * 탐라 문606.926 김79ㅇ
   * ★★★☆☆ 2018.01.24
   * 저자의 배경에 딱 어울리게 여행을 위한 가이드 서적. 오르세 미술관에 간다면 가볍게 들고갈 만 하다
 * [애니 보기의 정석](http://pennyway.net/2145)
   * 한라 688.6만45ㅇ
   * ★★★★☆ 2018.04.09 어마어마한 양의 애니메이션 정리. 내용이나 점수에는 호불호가 있을 수 있지만 이 책에 나온 애니 갯수만으로도 저자의 정성과 덕력은 누구나 인정할 듯
-* [프랑스 미술관 산책](http://blog.naver.com/joeuning/221004149861)
-  * 한라 606.926이64ㅍ
-  * ★★★★☆ 2018.04.20 프랑스에 거주했던 저자가 직접 다니면서 찍은 사진과 함께 책을 보니 여행을 다녔던 장소들이 저절로 떠올라 즐겁게 읽을 수 있었다. 내용도 특별한 건 없지만, 쉽게 잘 읽을 수 있다
 * [반 고흐의 귀](https://juilkim.com/2017/11/05/%EB%B2%84%EB%82%98%EB%8E%83-%EB%A8%B8%ED%94%BC%EC%9D%98-%E3%80%8C%EB%B0%98-%EA%B3%A0%ED%9D%90%EC%9D%98-%EA%B7%80%E3%80%8D/)
   * 탐라 문653.269머849ㅂ
   * ★★★★☆ 2018.04.09~11 [반 고흐의 귀](https://medium.com/@strncpy/%EB%B0%98-%EA%B3%A0%ED%9D%90%EC%9D%98-%EA%B7%80-7506dbbc502f)
+* [프랑스 미술관 산책](http://blog.naver.com/joeuning/221004149861)
+  * 한라 606.926이64ㅍ
+  * ★★★★☆ 2018.04.20 프랑스에 거주했던 저자가 직접 다니면서 찍은 사진과 함께 책을 보니 여행을 다녔던 장소들이 저절로 떠올라 즐겁게 읽을 수 있었다. 내용도 특별한 건 없지만, 쉽게 잘 읽을 수 있다
 * [남무성의 만화로 보는 재즈의 역사 JAZZ IT UP](https://m.blog.naver.com/shmj21/221196111286)
   * 탐라 문673.53남37ㅈ
   * ★★★★★ ~2018.06.27 올해 들어 읽은 책 중에서는 단연코 최고이고, 최근 몇 년간 이렇게 만족하며 읽은 책이 몇 권이나 있는지 모르겠다. jazz의 역사를 거의 전부(아쉽게도 1990년대까지) 다룰 뿐만 아니라, 음악가들의 계보, 명반 등등을 정말 재미있게 잘 그려냈다. 시간만 맞으면 하나 하나 차례로 들으며 다시 계속 읽고 싶다
-* (NOT YET) [힙합의 시학](https://www.youtube.com/watch?v=3u24zO8ts-k)
-  * 탐라 문673.53브232ㅎ
 * (진중권의) 서양미술사 : 고전예술 편
   * 탐라 개609.2-진76ㅅ
   * 한라 609.2-진76ㅅ
-* (NOT YET) (진중권의)서양미술사 : 모더니즘 편-미학의 눈으로 보는 아방가르드 시대의 예술
-  * 탐라 개609.2-진76ㅅ
-  * 한라 609.2-진76ㅈ
 * (진중권의)서양미술사 : 인상주의 편 미학의 눈으로 보는 현대미술의 태동
   * 탐라 문609.2진77ㅅ
   * ★★★★☆ 2018.07.13 네이버 서비스를 거의 안 써서 몰랐는데 [파워라이터 on](https://terms.naver.com/list.nhn?cid=59556&categoryId=59556)이라는 전형적인 한국식 작명의 서비스에 기고한 글을 모아 출판한 책이다. 가장 좋아하는 시기의 미술에 대한 책이라 재미있게 읽었고, 약간이지만 이전에 몰랐던 부분도 조금 더 알게 되어 좋았다. 큰 줄기는 미학 오디세이같은 책을 읽으면서 더 자세하게 알 수 있고, 기고한 매체의 특성상 이 책에서는 주요 키워드에 대한 요약본으로 볼 수 있다. 예술 이외의 발언으로 인해 더 이상 진중권의 책을 사지는 않지만, 예술 쪽에서의 내용은 여전히 좋고 마음에 든다. 귀족 출신에 독재자를 옹호하는 시오노 나나미가 민주주의에 대해 쓴 그리스인 이야기를 재미있게 읽을 때와 같은 위화감이 느꼈다.
+* (NOT YET) [힙합의 시학](https://www.youtube.com/watch?v=3u24zO8ts-k)
+  * 탐라 문673.53브232ㅎ
+* (NOT YET) (진중권의)서양미술사 : 모더니즘 편-미학의 눈으로 보는 아방가르드 시대의 예술
+  * 탐라 개609.2-진76ㅅ
+  * 한라 609.2-진76ㅈ
 * (NOT YET) [남무성 ‘Paint It Rock’ 시리즈](http://www.mediatoday.co.kr/?mod=news&act=articleView&idxno=120951)
   * 한라 673.5309-남36ㅍ 1권
 
 # Baby
+* [아들은 아빠가 키워라](https://jh4hj.tistory.com/entry/%EC%95%84%EB%93%A4%EC%9D%80-%EC%95%84%EB%B9%A0%EA%B0%80-%ED%82%A4%EC%9B%8C%EB%9D%BC)
+  * 2014.03.31
 * [아빠 육아의 민낯](https://medium.com/@strncpy/%EC%95%84%EB%B9%A0-%EC%9C%A1%EC%95%84%EC%9D%98-%EB%AF%BC%EB%82%AF-828e69011f93)
   * ★★★★☆ 2017.05.26
 
@@ -123,22 +229,99 @@ Book
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)
 
 # History
-* [그리스인 이야기](http://book.daum.net/detail/book.do?bookid=KOR9788952236142)
+* [조선의 글쟁이들](https://jh4hj.tistory.com/entry/%EC%A1%B0%EC%84%A0%EC%9D%98-%EA%B8%80%EC%9F%81%EC%9D%B4%EB%93%A4)
+  * 2009.01.10~11
+* [시원하게 나를 죽여라](https://jh4hj.tistory.com/entry/%EC%8B%9C%EC%9B%90%ED%95%98%EA%B2%8C-%EB%82%98%EB%A5%BC-%EC%A3%BD%EC%97%AC%EB%9D%BC)
+  * 2009.02.08
+* [로마 멸망 이후의 지중해 세계](https://jh4hj.tistory.com/entry/%EB%A1%9C%EB%A7%88-%EB%A9%B8%EB%A7%9D-%EC%9D%B4%ED%9B%84%EC%9D%98-%EC%A7%80%EC%A4%91%ED%95%B4-%EC%84%B8%EA%B3%84) 시오노 나나미
+  * 2009.09.14~18
+* [정조와 철인정치의 시대](https://jh4hj.tistory.com/entry/%EC%A0%95%EC%A1%B0%EC%99%80-%EC%B2%A0%EC%9D%B8%EC%A0%95%EC%B9%98%EC%9D%98-%EC%8B%9C%EB%8C%80)
+  * 2009.09.21~23
+* [조선 선비 살해 사건](https://jh4hj.tistory.com/entry/%EC%A1%B0%EC%84%A0-%EC%84%A0%EB%B9%84-%EC%82%B4%ED%95%B4-%EC%82%AC%EA%B1%B4)
+  * 2009.10.19~20, 26
+* [군주열전, 선조](https://jh4hj.tistory.com/entry/%EA%B5%B0%EC%A3%BC%EC%97%B4%EC%A0%84-%EC%84%A0%EC%A1%B0)
+  * ☆☆☆☆☆ 2009.11.01
+* [제국의 미래](https://jh4hj.tistory.com/entry/%EC%A0%9C%EA%B5%AD%EC%9D%98-%EB%AF%B8%EB%9E%98)
+  * 2009.11.03~06
+* [한국사 그들이 숨긴 진실](https://jh4hj.tistory.com/entry/%ED%95%9C%EA%B5%AD%EC%82%AC-%EA%B7%B8%EB%93%A4%EC%9D%B4-%EC%88%A8%EA%B8%B4-%EC%A7%84%EC%8B%A4)
+  * 2009.11.07
+* [영원한 문화도시 아테네](https://jh4hj.tistory.com/entry/%EC%98%81%EC%9B%90%ED%95%9C-%EB%AC%B8%ED%99%94%EB%8F%84%EC%8B%9C-%EC%95%84%ED%85%8C%EB%84%A4)
+  * 2009.11.08
+* [조선의 킹메이커](https://jh4hj.tistory.com/entry/%EC%A1%B0%EC%84%A0%EC%9D%98-%ED%82%B9%EB%A9%94%EC%9D%B4%EC%BB%A4)
+  * 2009.11.25~26
+* [조선 국왕의 일생](https://jh4hj.tistory.com/entry/%EC%A1%B0%EC%84%A0-%EA%B5%AD%EC%99%95%EC%9D%98-%EC%9D%BC%EC%83%9D)
+  * 2009.11.28~29
+* [반역 패자의 슬픈 낙인](https://jh4hj.tistory.com/entry/%EB%B0%98%EC%97%AD-%ED%8C%A8%EC%9E%90%EC%9D%98-%EC%8A%AC%ED%94%88-%EB%82%99%EC%9D%B8)
+  * 2009.11.29~12.01
+* [열두 명의 카이사르 : 고대 로마 역사가가 쓴 황제이야기](https://jh4hj.tistory.com/entry/%EC%97%B4%EB%91%90-%EB%AA%85%EC%9D%98-%EC%B9%B4%EC%9D%B4%EC%82%AC%EB%A5%B4-%EA%B3%A0%EB%8C%80-%EB%A1%9C%EB%A7%88-%EC%97%AD%EC%82%AC%EA%B0%80%EA%B0%80-%EC%93%B4-%ED%99%A9%EC%A0%9C%EC%9D%B4%EC%95%BC%EA%B8%B0)
+  * 2010.01.12~16
+* [궁궐의 눈물, 백년의 침묵](https://jh4hj.tistory.com/entry/%EA%B6%81%EA%B6%90%EC%9D%98-%EB%88%88%EB%AC%BC-%EB%B0%B1%EB%85%84%EC%9D%98-%EC%B9%A8%EB%AC%B5)
+  * ★★★★☆ 2010.03.31~04.01
+* [교양의 탄생: 유럽의 인문정신](https://jh4hj.tistory.com/entry/%EA%B5%90%EC%96%91%EC%9D%98-%ED%83%84%EC%83%9D-%EC%9C%A0%EB%9F%BD%EC%9D%98-%EC%9D%B8%EB%AC%B8%EC%A0%95%EC%8B%A0)
+  * 2010.05.31~06.04
+* [로마 제국 사라지고 마르탱 게르 귀향하다](https://jh4hj.tistory.com/entry/%EB%A1%9C%EB%A7%88-%EC%A0%9C%EA%B5%AD-%EC%82%AC%EB%9D%BC%EC%A7%80%EA%B3%A0-%EB%A7%88%EB%A5%B4%ED%83%B1-%EA%B2%8C%EB%A5%B4-%EA%B7%80%ED%96%A5%ED%95%98%EB%8B%A4)
+  * 2010.06.14
+* [왕의 투쟁](https://jh4hj.tistory.com/entry/%EC%99%95%EC%9D%98-%ED%88%AC%EC%9F%81)
+  * 2010.08.20~21
+* [한국사 오디세이](https://jh4hj.tistory.com/entry/%ED%95%9C%EA%B5%AD%EC%82%AC-%EC%98%A4%EB%94%94%EC%84%B8%EC%9D%B4)
+  * 2011.03.03~10
+* [한국사 오디세이 2](https://jh4hj.tistory.com/entry/%ED%95%9C%EA%B5%AD%EC%82%AC-%EC%98%A4%EB%94%94%EC%84%B8%EC%9D%B4-2)
+  * 2011.03.14~17
+* [한국사 오디세이 3](https://jh4hj.tistory.com/entry/%ED%95%9C%EA%B5%AD%EC%82%AC-%EC%98%A4%EB%94%94%EC%84%B8%EC%9D%B4-3)
+  * 2011.03.18~20
+* [한국사 오디세이 4](https://jh4hj.tistory.com/entry/%ED%95%9C%EA%B5%AD%EC%82%AC-%EC%98%A4%EB%94%94%EC%84%B8%EC%9D%B4-4)
+  * 2011.03.20~21
+* [로마인 이야기 1~8권](https://jh4hj.tistory.com/entry/2011120228-%EC%85%9C%EB%A1%9D-%ED%99%88%EC%A6%88-%EB%8C%80%EB%B6%80%EB%B6%84-%EB%A1%9C%EB%A7%88%EC%9D%B8-%EC%9D%B4%EC%95%BC%EA%B8%B0-18%EA%B6%8C) 시오노 나나미
+  * 2011.12.02~28
+* [십자군 이야기](https://jh4hj.tistory.com/entry/%EC%8B%AD%EC%9E%90%EA%B5%B0-%EC%9D%B4%EC%95%BC%EA%B8%B0) 시오노 나나미
+  * 2012.09.02~07, 11, 13, 18
+* [고대 로마인의 24시간](https://jh4hj.tistory.com/entry/%EA%B3%A0%EB%8C%80-%EB%A1%9C%EB%A7%88%EC%9D%B8%EC%9D%98-24%EC%8B%9C%EA%B0%84)
+  * 2012.09.08~10
+* [로마의 전설을 만든 카이사르 군단](https://jh4hj.tistory.com/entry/%EB%A1%9C%EB%A7%88%EC%9D%98-%EC%A0%84%EC%84%A4%EC%9D%84-%EB%A7%8C%EB%93%A0-%EC%B9%B4%EC%9D%B4%EC%82%AC%EB%A5%B4-%EA%B5%B0%EB%8B%A8)
+  * 2012.09.05~08
+* [로마 역사의 길을 걷다](https://jh4hj.tistory.com/entry/%EB%A1%9C%EB%A7%88-%EC%97%AD%EC%82%AC%EC%9D%98-%EA%B8%B8%EC%9D%84-%EA%B1%B7%EB%8B%A4)
+  * 2012.09.13
+* [문명의 배꼽 그리스](https://www.evernote.com/shard/s31/client/snv?noteGuid=71211e23-7379-4c11-a2a3-3ee19d93db4f&noteKey=6617ce521adf9ec6a07dbfaeb899e8bf&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs31%2Fsh%2F71211e23-7379-4c11-a2a3-3ee19d93db4f%2F6617ce521adf9ec6a07dbfaeb899e8bf&title=%25EB%25AC%25B8%25EB%25AA%2585%25EC%259D%2598%2B%25EB%25B0%25B0%25EA%25BC%25BD%2B%25EA%25B7%25B8%25EB%25A6%25AC%25EC%258A%25A4)
+  * 2013.02.24
+* [아르마다](https://www.evernote.com/shard/s31/client/snv?noteGuid=b7ef2ffc-fcfc-4f74-aca6-80070cf64922&noteKey=bb87a5654d0a5a549b55b70ce9b513c6&sn=https%3A%2F%2Fwww.evernote.com%2Fshard%2Fs31%2Fsh%2Fb7ef2ffc-fcfc-4f74-aca6-80070cf64922%2Fbb87a5654d0a5a549b55b70ce9b513c6&title=%25EC%2595%2584%25EB%25A5%25B4%25EB%25A7%2588%25EB%258B%25A4)
+  * 2013.03.10~14
+* [궁궐, 조선을 말하다](https://jh4hj.tistory.com/entry/%EA%B6%81%EA%B6%90-%EC%A1%B0%EC%84%A0%EC%9D%84-%EB%A7%90%ED%95%98%EB%8B%A4)
+  * 2013.03.25~26
+* [술탄과 황제 1453년 비잔틴 제국 최후의 날 세계사를 바꾼 리더십의 격돌](https://jh4hj.tistory.com/entry/%EC%88%A0%ED%83%84%EA%B3%BC-%ED%99%A9%EC%A0%9C-1453%EB%85%84-%EB%B9%84%EC%9E%94%ED%8B%B4-%EC%A0%9C%EA%B5%AD-%EC%B5%9C%ED%9B%84%EC%9D%98-%EB%82%A0-%EC%84%B8%EA%B3%84%EC%82%AC%EB%A5%BC-%EB%B0%94%EA%BE%BC-%EB%A6%AC%EB%8D%94%EC%8B%AD%EC%9D%98-%EA%B2%A9%EB%8F%8C)
+  * 2013.08.04
+* [조선 백성 실록](https://jh4hj.tistory.com/entry/%EC%A1%B0%EC%84%A0-%EB%B0%B1%EC%84%B1-%EC%8B%A4%EB%A1%9D)
+  * 2013.09.22
+* [50개의 키워드로 읽는 북유럽 이야기](https://jh4hj.tistory.com/entry/50%EA%B0%9C%EC%9D%98-%ED%82%A4%EC%9B%8C%EB%93%9C%EB%A1%9C-%EC%9D%BD%EB%8A%94-%EB%B6%81%EC%9C%A0%EB%9F%BD-%EC%9D%B4%EC%95%BC%EA%B8%B0)
+  * 2014.08.11
+* [차의 세계사](https://jh4hj.tistory.com/entry/%EC%B0%A8%EC%9D%98-%EC%84%B8%EA%B3%84%EC%82%AC)
+  * 2014.10.28
+* [이순신의 끝나지 않은 전쟁](https://jh4hj.tistory.com/entry/%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%9D%98-%EB%81%9D%EB%82%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%A0%84%EC%9F%81)
+  * 2014.12.22
+* [사도의 마지막 7일](https://jh4hj.tistory.com/entry/%EC%82%AC%EB%8F%84%EC%9D%98-%EB%A7%88%EC%A7%80%EB%A7%89-7%EC%9D%BC)
+  * 2016.02.01~03
+* [압축세계사](https://jh4hj.tistory.com/entry/%EC%95%95%EC%B6%95%EC%84%B8%EA%B3%84%EC%82%AC)
+  * ★★★☆☆ 2016.06.19
+* [조선의 못난 개항](https://jh4hj.tistory.com/entry/%EC%A1%B0%EC%84%A0%EC%9D%98-%EB%AA%BB%EB%82%9C-%EA%B0%9C%ED%95%AD)
+  * ★★★★☆ 2016.06.19
+* [못난 조선](https://jh4hj.tistory.com/entry/%EB%AA%BB%EB%82%9C-%EC%A1%B0%EC%84%A0)
+  * 2016.08.12
+* 그리스인 이야기
   * 한라 921 시65ㄱ
   * ★★★☆☆ 2017.07.20
 * [그리스인 이야기 2](https://ridibooks.com/v2/Detail?id=364000835)
   * 한라 921 시65ㄱ v.2
   * ★★★☆☆ 2018.07.12 더 이상 시오노 나나미의 책을 구입하지는 않지만 여전히 잘 읽힌다. 처음 읽었던 게 대략 94~5년 정도이니 20년이 넘었다. 여전히 반복이 많고, 왠지 예전만큼 활기가 느껴지지는 않지만 그래도 다른 저자/종류의 책보다 쉽게 읽을 수 있었다. 다만 활기를 느낄 수 없는 건 내용이 그리스가 전성기에서 추락하는 걸로 끝나는 2권의 내용 때문일지도 모르겠다.
-* [로마의 일인자](http://m.book.daum.net/mobile/detail/book.do?bookid=KOR9788954636872) 콜린 매컬로
-* (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
-  * 2018.08 탐라
-* [**역사의 역사**](http://book.daum.net/detail/book.do?bookid=KOR9788971998557)
-  * 한라 901-유58ㅇ=2
-  * ★★★★★ 2020.06.27~8 정말 재미있게 읽음. 역사학자와 역사가에 대한 이야기. 일종의 meta 역사책? 구입해서 두고 두고 읽고 싶음
+* 로마의 일인자 - 콜린 매컬로
 * [등대의 세계사](https://steemit.com/kr/@kang.hyun/2c6bc6)
   * 탐라 문538.72 주11ㄷ
   * [책과 삶 등대의 불빛에 담긴 문명의 진보와 아픔의 역사](http://news.khan.co.kr/kh_news/khan_art_view.html?art_id=201806152057035)
   * ★★★★☆ 2018.10.19 저자의 다양한 지식이 잘 드러나는 재미있는 역사책. 등대의 역사이니 당연히 해양사는 기본이고, 그 바탕에 얽힌 간단하지만 각지의 다양한 세계사 이야기나 프레넬렌즈로 인한 기술 이야기까지 여러모로 재미있게 읽을 수 있다
+* **역사의 역사**
+  * 한라 901-유58ㅇ=2
+  * ★★★★★ 2020.06.27~8 정말 재미있게 읽음. 역사학자와 역사가에 대한 이야기. 일종의 meta 역사책? 구입해서 두고 두고 읽고 싶음
+* 총 균 쇠 [759쪽짜리 책이 3판 42쇄까지 찍은 이유: 『총, 균, 쇠』 | ㅍㅍㅅㅅ](https://ppss.kr/archives/223828)
+* (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
+  * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
 * (NOT YET) 유럽사 산책 [유럽사 ‘생생 개인사’ 통해 온전한 육신 얻다](http://www.hani.co.kr/arti/culture/book/484462.html)
 * (NOT YET) 르몽드 세계사 1,2 [<르몽드 세계사>1,2와 <좌파가 알야할 것들>](http://www.ilemonde.com/news/articleView.html?idxno=2846)
@@ -146,7 +329,6 @@ Book
 * (NOT YET) 박시백의 조선왕조 실록
 * (NOT YET) 본격 한중일 세계사 (굽시니스트)
 * (NOT YET) [마지막으로 읽는 세계사 책](https://brunch.co.kr/@taeherself/248)
-* 총 균 쇠 [759쪽짜리 책이 3판 42쇄까지 찍은 이유: 『총, 균, 쇠』 | ㅍㅍㅅㅅ](https://ppss.kr/archives/223828)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
@@ -170,6 +352,18 @@ Book
 * (NOT YET) [수학은 어떻게 무기가 되는가](https://sensio.tistory.com/114)
 
 # Murakami Haruki
+* [먼 북소리](https://jh4hj.tistory.com/entry/%EB%A8%BC-%EB%B6%81%EC%86%8C%EB%A6%AC)
+  * ★★★★★ 2009.08.30~09.01
+* [1Q84](https://jh4hj.tistory.com/entry/1Q84)
+  * 2009.09.25~29
+* [상실의 시대](https://jh4hj.tistory.com/entry/%EC%83%81%EC%8B%A4%EC%9D%98-%EC%8B%9C%EB%8C%80)
+  * 2011.06.12
+* [슬픈 외국어](https://jh4hj.tistory.com/entry/%EC%8A%AC%ED%94%88-%EC%99%B8%EA%B5%AD%EC%96%B4)
+  * 2011.08.08
+* [회전목마의 데드히트](https://jh4hj.tistory.com/entry/%EB%AC%B4%EB%9D%BC%EC%B9%B4%EB%AF%B8-%ED%95%98%EB%A3%A8%ED%82%A4-%ED%9A%8C%EC%A0%84%EB%AA%A9%EB%A7%88%EC%9D%98-%EB%8D%B0%EB%93%9C%ED%9E%88%ED%8A%B8)
+  * 2012.01.03
+* [재즈의 초상](https://jh4hj.tistory.com/entry/%EC%9E%AC%EC%A6%88%EC%9D%98-%EC%B4%88%EC%83%81)
+  * 2014.09.17
 * [직업으로서의 소설가](https://imgur.com/a/bSXTkJE)
   * [카프카와 하루키, ‘직업으로서의 소설가’](https://ppss.kr/archives/91338)
   * ★★★★☆ 2018.11.14
@@ -258,8 +452,20 @@ Book
   * 하루키의 소설에 나온 음악을 주제로 책을 만들 정도니 하루키의 위상에 대해 다시 한 번 생각하게 되었지만 내 취향은 아님
 
 # Religion
-* (NOT YET) [권력과 교회](https://1boon.daum.net/fanzeel/Church)
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
+* [만들어진 신](https://jh4hj.tistory.com/entry/%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%84-%EC%8B%A0) 리차드 도킨스
+  * 2009.07.16
+* [종교 전쟁](https://jh4hj.tistory.com/entry/%EC%A2%85%EA%B5%90-%EC%A0%84%EC%9F%81)
+  * ★★★★☆ 2009.12.18~22
+* [신의 언어](https://jh4hj.tistory.com/entry/%EC%8B%A0%EC%9D%98-%EC%96%B8%EC%96%B4) 과학과 종교의 화해
+  * 2010.05.06~08
+* [자비를 팔다](https://jh4hj.tistory.com/entry/%EC%9E%90%EB%B9%84%EB%A5%BC-%ED%8C%94%EB%8B%A4) 마리아 테레사
+  * 2010.05.09
+* [도킨스의 망상: 만들어진 신이 외면한 진리](https://jh4hj.tistory.com/entry/%EB%8F%84%ED%82%A8%EC%8A%A4%EC%9D%98-%EB%A7%9D%EC%83%81-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A7%84-%EC%8B%A0%EC%9D%B4-%EC%99%B8%EB%A9%B4%ED%95%9C-%EC%A7%84%EB%A6%AC) 리차드 도킨스
+  * 2010.05.09~10
+* [신은 위대하지 않다](https://jh4hj.tistory.com/entry/%EC%8B%A0%EC%9D%80-%EC%9C%84%EB%8C%80%ED%95%98%EC%A7%80-%EC%95%8A%EB%8B%A4)
+  * 2010.05.10~13
+* (NOT YET) [권력과 교회](https://1boon.daum.net/fanzeel/Church)
 
 # Science
 * 열두 발자국 [정재승 박사의 《열두 발자국》을 읽고..](https://brunch.co.kr/@youthhd/112)
@@ -270,15 +476,25 @@ Book
 * [On the Taxonomy of Spaceships](http://criticalshit.org/2015/05/15/on-the-taxonomy-of-spaceships/)
 
 # Sports
+* [야구란 무엇인가](https://jh4hj.tistory.com/entry/%EC%95%BC%EA%B5%AC%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+  * ★★★★☆ 2010.05.03~05
+* [백인천 프로젝트](https://jh4hj.tistory.com/entry/%EB%B0%B1%EC%9D%B8%EC%B2%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
+  * 2013.09.10~12
+* [오쿠다 히데오의 올림픽](https://jh4hj.tistory.com/entry/%EC%98%A4%EC%BF%A0%EB%8B%A4-%ED%9E%88%EB%8D%B0%EC%98%A4%EC%9D%98-%EC%98%AC%EB%A6%BC%ED%94%BD)
+  * 2015.06.23
+* [야구를 부탁해](https://jh4hj.tistory.com/entry/%EC%95%BC%EA%B5%AC%EB%A5%BC-%EB%B6%80%ED%83%81%ED%95%B4) 오쿠다 히데오
+  * 2015.06.25
+* [빅데이터 베이스볼](https://jh4hj.tistory.com/entry/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B2%A0%EC%9D%B4%EC%8A%A4%EB%B3%BC)
+  * ★★☆☆☆ 2016.08.25
 * [마구의 역사 - 투수의 생존을 위한 전쟁 그리고 전략](http://jh4hj.tistory.com/entry/%EB%A7%88%EA%B5%AC%EC%9D%98-%EC%97%AD%EC%82%AC-%ED%88%AC%EC%88%98%EC%9D%98-%EC%83%9D%EC%A1%B4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%A0%84%EC%9F%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%A0%84%EB%9E%B5)
   * ★★☆☆☆ 2016.09.15
 * [수상한 에이스는 유니폼이 없다](https://medium.com/@strncpy/%EC%88%98%EC%83%81%ED%95%9C-%EC%97%90%EC%9D%B4%EC%8A%A4%EB%8A%94-%EC%9C%A0%EB%8B%88%ED%8F%BC%EC%9D%B4-%EC%97%86%EB%8B%A4-da66b9e64826)
   * 탐라 문813.7최94ㅅ
   * ★★★★★ 2018.04.08
-* [플레이볼!조선 타이완 만주에서 꽃핀 야구 소년들의 꿈](http://book.daum.net/detail/book.do?bookid=BOK00033586112IN)
+* 플레이볼!조선 타이완 만주에서 꽃핀 야구 소년들의 꿈
   * 탐라 문695.7가66ㅍ
   * ★★☆☆☆ 2018.04.08 동아시아 고교 야구의 역사를 볼 수 있는 책. 야구사적인 의미는 있겠지만, 읽는 재미가 떨어진다
-* [캘리코 조](http://book.daum.net/detail/book.do?bookid=BOK00019547309BA)
+* 캘리코 조
   * 한라 843 그298ㅋ
 * [볼포](http://blog.naver.com/jaehangpark/221050215537)
   * 탐라 문695.704바66ㅂ
@@ -296,12 +512,55 @@ Book
   * 전형적인 이야기가 아니라 좋음
 
 # Stock
+* [시골의사의 주식투자란 무엇인가](https://jh4hj.tistory.com/entry/%EC%8B%9C%EA%B3%A8%EC%9D%98%EC%82%AC%EC%9D%98-%EC%A3%BC%EC%8B%9D%ED%88%AC%EC%9E%90%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+  * 2010.02.16~19
+* (NOT YET) [인공지능 투자가 퀀트](https://blog.outsider.ne.kr/1353)
+  * 탐라 문327.8-권66ㅋ
+  * 한라 327.8-권65ㅋ
 * (NOT YET) [할 수 있다! 퀀트 투자](https://pgr21.com/pb/pb.php?id=freedom&no=77211)
 * (NOT YET) [워렌 버핏 바이블](https://www.thestartupbible.com/2020/02/warren-buffett-on-business.html)
 * (NOT YET) 돈의 역사
   * [8개월 만에, 1억 5천이 떨어졌다](http://thechangeground.com/archives/3137)
 
 # Travel
+* [카페 도쿄](https://jh4hj.tistory.com/entry/%EC%B9%B4%ED%8E%98-%EB%8F%84%EC%BF%84)
+  * 2009.11.12
+* [미국 50개 주 최고봉에 서다](https://jh4hj.tistory.com/entry/%EB%AF%B8%EA%B5%AD-50%EA%B0%9C-%EC%A3%BC-%EC%B5%9C%EA%B3%A0%EB%B4%89%EC%97%90-%EC%84%9C%EB%8B%A4)
+  * 2009.12.05~06
+* [케냐의 유혹](https://jh4hj.tistory.com/entry/%EC%BC%80%EB%83%90%EC%9D%98-%EC%9C%A0%ED%98%B9)
+  * 2010.02.12
+* [미친가족, 집 팔고 지도 밖으로](https://jh4hj.tistory.com/entry/%EB%AF%B8%EC%B9%9C%EA%B0%80%EC%A1%B1-%EC%A7%91-%ED%8C%94%EA%B3%A0-%EC%A7%80%EB%8F%84-%EB%B0%96%EC%9C%BC%EB%A1%9C)
+  * 2010.05.19~20
+* [즐거운 여행](https://jh4hj.tistory.com/entry/%EC%A6%90%EA%B1%B0%EC%9A%B4-%EC%97%AC%ED%96%89)
+  * 2010.05.20
+* [독도 라이더가 간다](https://jh4hj.tistory.com/entry/%EB%8F%85%EB%8F%84-%EB%9D%BC%EC%9D%B4%EB%8D%94%EA%B0%80-%EA%B0%84%EB%8B%A4)
+  * 2010.05.26
+* [절대 여행 사전](https://jh4hj.tistory.com/entry/%EC%A0%88%EB%8C%80-%EC%97%AC%ED%96%89-%EC%82%AC%EC%A0%84)
+  * 2010.06.08~09
+* [일생에 한번은 스페인을 만나라](https://jh4hj.tistory.com/entry/%EC%9D%BC%EC%83%9D%EC%97%90-%ED%95%9C%EB%B2%88%EC%9D%80-%EC%8A%A4%ED%8E%98%EC%9D%B8%EC%9D%84-%EB%A7%8C%EB%82%98%EB%9D%BC)
+  * 2010.06.09~10
+* [론리 플래닛 스토리](https://jh4hj.tistory.com/entry/%EB%A1%A0%EB%A6%AC-%ED%94%8C%EB%9E%98%EB%8B%9B-%EC%8A%A4%ED%86%A0%EB%A6%AC)
+  * 2010.06.10~11
+* [내 생애 최고의 여행사진 남기기 : 여행사진 잘 찍는 비결 & 유럽 각 도시의 포토스팟](https://jh4hj.tistory.com/entry/%EB%82%B4-%EC%83%9D%EC%95%A0-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%97%AC%ED%96%89%EC%82%AC%EC%A7%84-%EB%82%A8%EA%B8%B0%EA%B8%B0-%EC%97%AC%ED%96%89%EC%82%AC%EC%A7%84-%EC%9E%98-%EC%B0%8D%EB%8A%94-%EB%B9%84%EA%B2%B0-%EC%9C%A0%EB%9F%BD-%EA%B0%81-%EB%8F%84%EC%8B%9C%EC%9D%98-%ED%8F%AC%ED%86%A0%EC%8A%A4%ED%8C%9F)
+  * 2010.06.20~21
+* [유럽의 괴짜 박물관](https://jh4hj.tistory.com/entry/%EC%9C%A0%EB%9F%BD%EC%9D%98-%EA%B4%B4%EC%A7%9C-%EB%B0%95%EB%AC%BC%EA%B4%80)
+  * 2010.07.06~07
+* [산티아고 가는 길에서 유럽을 만나다](https://jh4hj.tistory.com/entry/%EC%82%B0%ED%8B%B0%EC%95%84%EA%B3%A0-%EA%B0%80%EB%8A%94-%EA%B8%B8%EC%97%90%EC%84%9C-%EC%9C%A0%EB%9F%BD%EC%9D%84-%EB%A7%8C%EB%82%98%EB%8B%A4)
+  * 2010.07.16~17
+* [어디에도 없는 그곳 노웨어](https://jh4hj.tistory.com/entry/%EC%96%B4%EB%94%94%EC%97%90%EB%8F%84-%EC%97%86%EB%8A%94-%EA%B7%B8%EA%B3%B3-%EB%85%B8%EC%9B%A8%EC%96%B4)
+  * 2010.07.18
+* [북유럽에 반하다](https://jh4hj.tistory.com/entry/%EB%B6%81%EC%9C%A0%EB%9F%BD%EC%97%90-%EB%B0%98%ED%95%98%EB%8B%A4)
+  * 2014.09.07
+* [남미의 101가지 매력](https://jh4hj.tistory.com/entry/%EB%82%A8%EB%AF%B8%EC%9D%98-101%EA%B0%80%EC%A7%80-%EB%A7%A4%EB%A0%A5)
+  * 2015.01.14
+* [아싸라비아 콜롬비아](https://jh4hj.tistory.com/entry/%EC%95%84%EC%8B%B8%EB%9D%BC%EB%B9%84%EC%95%84-%EC%BD%9C%EB%A1%AC%EB%B9%84%EC%95%84)
+  * 2015.05.05
+* [터키, 어디까지 가볼까](https://jh4hj.tistory.com/entry/%ED%84%B0%ED%82%A4-%EC%96%B4%EB%94%94%EA%B9%8C%EC%A7%80-%EA%B0%80%EB%B3%BC%EA%B9%8C)
+  * 2015.05.26
+* [처음 쿠바에 가는 사람이 가장 알고 싶은 것들](https://jh4hj.tistory.com/entry/%EC%B2%98%EC%9D%8C-%EC%BF%A0%EB%B0%94%EC%97%90-%EA%B0%80%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%B4-%EA%B0%80%EC%9E%A5-%EC%95%8C%EA%B3%A0-%EC%8B%B6%EC%9D%80-%EA%B2%83%EB%93%A4)
+  * 2015.06.01
+* [알프스 힐링캠프](https://jh4hj.tistory.com/entry/%EC%95%8C%ED%94%84%EC%8A%A4-%ED%9E%90%EB%A7%81%EC%BA%A0%ED%94%84)
+  * 2015.08.13
 * [고양이가 사랑한 파리](https://medium.com/@strncpy/%EA%B3%A0%EC%96%91%EC%9D%B4%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%9C-%ED%8C%8C%EB%A6%AC-96808480a203)
   * ★★★☆☆ 2017.06.01
 * [라오스에 대체 뭐가 있는데요?](http://jh4hj.tistory.com/entry/%EB%9D%BC%EC%98%A4%EC%8A%A4%EC%97%90-%EB%8C%80%EC%B2%B4-%EB%AD%90%EA%B0%80-%EC%9E%88%EB%8A%94%EB%8D%B0%EC%9A%94)
