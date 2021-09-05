@@ -320,6 +320,7 @@ Interview
   * Autocomplete or Typeahead
     * [System design : Design Autocomplete or Typeahead Suggestions for Google search](https://www.youtube.com/watch?v=us0qySiUsGU)
     * [Amazon interview question: System design / Architecture for auto suggestions | type ahead](https://www.youtube.com/watch?v=xrYTjaK5QVM)
+    * [System Design Analysis of Google Auto-Suggestion Service | by Ashis Chakraborty | codeburst](https://codeburst.io/system-design-analysis-for-auto-suggestion-service-d28bf1701658)
   * Distributed storage
     * [System Design : Distributed Database System Key Value Store](https://www.youtube.com/watch?v=rnZmdmlR-2M)
     * [What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY)
