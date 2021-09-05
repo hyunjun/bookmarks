@@ -1376,6 +1376,8 @@ Programming Books
   * 2010.05.16
 * [드리밍 인 코드](https://jh4hj.tistory.com/entry/%EB%93%9C%EB%A6%AC%EB%B0%8D-%EC%9D%B8-%EC%BD%94%EB%93%9C)
   * 2010.05.30 앨런 케이 등
+* [More Joel on Software](https://jh4hj.tistory.com/entry/More-Joel-on-Software)
+  * 2013.12.26
 * [구글은 어떻게 일하는가](https://jh4hj.tistory.com/entry/%EA%B5%AC%EA%B8%80%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9D%BC%ED%95%98%EB%8A%94%EA%B0%80)
   * 2015.01.02
 * [이스라엘 비즈니스 산책](https://jh4hj.tistory.com/entry/%EC%9D%B4%EC%8A%A4%EB%9D%BC%EC%97%98-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EC%82%B0%EC%B1%85)
