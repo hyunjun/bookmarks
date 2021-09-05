@@ -371,6 +371,7 @@ Data Science
 * [Nonnegative Matrix Factorization via Rank-One Downdate](http://videolectures.net/icml08_ghodsi_nmf/)
   * [이 장에서는 새운 기법인 NMF(Non-negative Matrix Factorization) 을 소개](http://nbviewer.ipython.org/github/jaeho-kang/ipython/blob/master/collective-intelligence/chapter10/ch10.ipynb)
 * [5 Bite-Sized Data Science Summaries](https://towardsdatascience.com/5-bite-sized-data-science-summaries-a5afb8509353)
+* [5 Online Data Science Courses You Can Finish in 1 Day | by Sara A. Metwalli | Aug, 2021 | Towards Data Science](https://towardsdatascience.com/5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e)
 * [The online courses you must take to be a better Data Scientist | DataTau](https://medium.com/datatau/the-online-courses-you-must-take-to-be-a-better-data-scientist-36a06016c819)
 * [Dev Intro to Data Science - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjDop2DtiCmwTTcrlwKAVHE)
 * [Practical Data Ethics | Data ethics](http://ethics.fast.ai/)
