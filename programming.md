@@ -3195,6 +3195,7 @@ Programming
 * [Unit Test 시작하기 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/6274/)
 * [How to Step Up Cloud Infrastructure Testing | Pulumi](https://www.pulumi.com/what-is/how-to-step-up-cloud-infrastructure-testing/)
 * [LINE에서 테스트를 최적화하는 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/testing-optimization/)
+* [Improving Pull Request Confidence for the Netflix TV App | by Netflix Technology Blog | Sep, 2021 | Medium](https://netflixtechblog.medium.com/improving-pull-request-confidence-for-the-netflix-tv-app-b85edb05eb65)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
