@@ -413,3 +413,4 @@ C++
 * [씹어먹는 C++ 강좌 - PDF 파일](https://modoocode.com/312)
 * [“Hello World” in C++. I thought it would be easy. But it… | by Dalya Gartzman | codeburst](https://codeburst.io/hello-world-in-c-66d9d1b887e1)
 * [Learn C++](https://www.learncpp.com/)
+* [C++공부노트 #1 환경설정](https://brunch.co.kr/@yudong/176)
