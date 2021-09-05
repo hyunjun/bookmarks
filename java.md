@@ -387,6 +387,7 @@ Java
 * [더북(TheBook): 가장 빨리 만나는 코어 자바 9](https://thebook.io/006985/) 2~4장만
 * [더북(TheBook): 전문가를 위한 스프링 5](https://thebook.io/006987/) 1~4장만
 * [더북(TheBook): 자바 코딩의 기술](https://thebook.io/007025/) 1~3장만
+* [다시 읽는 모던 자바 인 액션 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=52527454)
 * [Seriously Good Software](https://www.manning.com/books/seriously-good-software)
   * [exercises in style — Bitbucket](https://bitbucket.org/mfaella/exercisesinstyle/src/master/)
 * Effective Java
