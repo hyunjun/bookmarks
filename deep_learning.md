@@ -831,6 +831,7 @@ Deep Learning
 * [Book: Deep Learning With Python](http://www.datasciencecentral.com/forum/topics/book-deep-learning-with-python) Theano and TensorFlow using Keras
 * [David MacKay: Information Theory, Pattern Recognition and Neural Networks: The Book](http://www.inference.org.uk/mackay/itprnn/book.html)
 * [Deep-Learning-for-Beginners - Sample code in MATLAB/Octave and Python for Deep Learning for Beginners](https://github.com/philbooks/Deep-Learning-for-Beginners)
+* [Deep Learning for Programmers](https://aiprobook.com/deep-learning-for-programmers/)
 * [Deep Learning Book](https://www.youtube.com/channel/UCF9O8Vj-FEbRDA5DcDGz-Pg/playlists)
 * [Deep Learning Book Companion Videos](https://www.youtube.com/playlist?list=PLsXu9MHQGs8df5A4PzQGw-kfviylC-R9b)
 * [deep-learning-books](https://github.com/devakar/deep-learning-books)
