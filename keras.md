@@ -10,17 +10,14 @@ Keras
 * [Deep Learning Cheat Sheet (using Python Libraries) - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/deep-learning-cheat-sheet-using-python-libraries)
 * [Keras로 Multi Layer Percentron 구현하기](http://iostream.tistory.com/111)
 * [Keras_MNIST_Example.ipynb](https://github.com/dolpang2/Keras-Examples/blob/master/Keras_MNIST_Example.ipynb)
-* [MNIST Classification using CNN in Keras TensorFlow](https://morioh.com/p/8729a086756e)
 * [github.com/jaeho-kang/deep-learning/keras](https://github.com/jaeho-kang/deep-learning/tree/master/keras)
 * [Easy-deep-learning-with-Keras](https://github.com/buomsoo-kim/Easy-deep-learning-with-Keras) 주로 텍스트 분석
-* [Keras에서 CNN학습 시키기](https://github.com/jaeho-kang/deep-learning/blob/master/keras/keras%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5_cnn%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8_%E1%84%89%E1%85%B5%E1%84%8F%E1%85%B5%E1%84%80%E1%85%B5.md)
 * [Keras로 대용량 이미지 처리하기](https://github.com/jaeho-kang/deep-learning/blob/master/keras/keras%E1%84%85%E1%85%A9_%E1%84%83%E1%85%A2%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%85%E1%85%A3%E1%86%BC_%E1%84%8B%E1%85%B5%E1%84%86%E1%85%B5%E1%84%8C%E1%85%B5_%E1%84%8E%E1%85%A5%E1%84%85%E1%85%B5%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5.md)
 * [keras-rl - Deep Reinforcement Learning for Keras. http://keras-rl.readthedocs.io ](https://github.com/keras-rl/keras-rl)
   * [keras-rl](https://tensorflowkorea.wordpress.com/2016/08/03/keras-rl/)
   * [Deep Reinforcement Learning for Keras](https://github.com/matthiasplappert/keras-rl)
 * [Pre-trained DL Model for Keras](https://tensorflowkorea.wordpress.com/2016/08/04/pre-trained-dl-model-for-keras/)
 * [Music auto-tagging models and trained weights in keras/theano](https://github.com/keunwoochoi/music-auto_tagging-keras)
-* [How convolutional neural networks see the world](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
 * [A ten-minute introduction to sequence-to-sequence learning in Keras](https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html)
 * [Sequence to Sequence Learning with Keras](https://github.com/farizrahman4u/seq2seq)
 * [seq2seq - A general-purpose encoder-decoder framework for Tensorflow](https://google.github.io/seq2seq/)
@@ -114,8 +111,6 @@ Keras
 * [Making AI Art with Style Transfer using Keras](https://medium.com/mlreview/making-ai-art-with-style-transfer-using-keras-8bb5fa44b216)
 * [Neural Style Transfer-TF&Keras (2019/05/20)](https://github.com/DevKiHyun/Neural-Style-Transfer-Tensorflow-Keras)
   * [Neural_Style_Transfer_Keras&TF.ipynb](https://colab.research.google.com/drive/1ugvgp5mRHOWWWIwhnZj3YMx4kYDxYGnn)
-* [**Understanding deep Convolutional Neural Networks with a practical use-case in Tensorflow and Keras**](https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html)
-* [Notes on my paper; On the Robustness of Deep Convolutional Neural Networks for Music Classification](https://keunwoochoi.wordpress.com/2017/06/09/notes-on-my-paper-on-the-robustness-of-deep-convolutional-neural-networks-for-music-classification/)
 * [Intro into Image classification using Keras](https://www.youtube.com/watch?v=KhU4CGfE5m4&sns=tw)
 * [Building powerful image classification models using very little data](https://blog.keras.io/building-powerful-image-classification-models-using-very-little-data.html)
 * [Image Classification on Android using a Keras Model Deployed in Flask](https://heartbeat.fritz.ai/image-classification-on-android-using-a-keras-model-deployed-in-flask-118adffc5045)
@@ -123,7 +118,6 @@ Keras
 * [Galaxy Zoo classification with Keras](https://medium.com/towards-data-science/galaxy-zoo-classification-with-keras-219184aff581)
 * [Video classification with Keras and Deep Learning](https://www.pyimagesearch.com/2019/07/15/video-classification-with-keras-and-deep-learning/)
 * [Spam Classification with Tensorflow-Keras](https://medium.com/analytics-vidhya/spam-classification-with-tensorflow-keras-7e9fb8ace263)
-* [Fine-tuning Convolutional Neural Network on own data using Keras Tensorflow](http://cv-tricks.com/keras/fine-tuning-tensorflow/)
 * [Use Keras Deep Learning Models with Scikit-Learn in Python](https://machinelearningmastery.com/use-keras-deep-learning-models-scikit-learn-python/)
 * [kerasapp - 코딩셰프의 3분 딥러닝, 케라스맛](https://github.com/jskDr/keraspp)
 * [케라스 맛보기](http://booiljoungailab.blogspot.com/2018/01/blog-post.html)
@@ -156,9 +150,6 @@ Keras
 * [Keras implementation of Deeplabv3+](https://github.com/bonlime/keras-deeplab-v3-plus)
 * [Deploying a Keras Deep Learning Model as a Web Application in Python](https://towardsdatascience.com/deploying-a-keras-deep-learning-model-as-a-web-application-in-p-fc0f2354a7ff) flask 사용
 * [Review 3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation](http://cdm98.tistory.com/35)
-* [Introduction to 1D Convolutional Neural Networks in Keras for Time Sequences](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf)
-* [Applying your Convolutional Neural Network: On-Demand Webinar and FAQ Now Available!
-* [Deep Learning Fundamental Series - Part 3](https://databricks.com/blog/2018/11/13/applying-your-convolutional-neural-network-on-demand-webinar-and-faq-now-available.html)
 * [Standardizing on Keras: Guidance on High-level APIs in TensorFlow 2.0](https://medium.com/tensorflow/standardizing-on-keras-guidance-on-high-level-apis-in-tensorflow-2-0-bad2b04c819a)
 * [TensorFlow 2.0 + Keras Crash Course.ipynb](https://colab.research.google.com/drive/1UCJt8EYjlzCs1H1d1X0iDGYJsHKwu-NO)
   * [Keras 창시자로부터 배우는 TensorFlow 2.0 + Keras 특강.ipynb](https://colab.research.google.com/drive/1p4RhSj1FEuscyZP81ocn8IeGD_2r46fS)
@@ -199,9 +190,19 @@ Keras
 * [keras-idiomatic-programmer - Handbooks and Code Samples for Software Engineers wanting to learn the Keras Machine Learning framework](https://github.com/GoogleCloudPlatform/keras-idiomatic-programmer)
 
 # CNN
+* [How convolutional neural networks see the world](https://blog.keras.io/how-convolutional-neural-networks-see-the-world.html)
+* [**Understanding deep Convolutional Neural Networks with a practical use-case in Tensorflow and Keras**](https://ahmedbesbes.com/understanding-deep-convolutional-neural-networks-with-a-practical-use-case-in-tensorflow-and-keras.html)
+* [Notes on my paper; On the Robustness of Deep Convolutional Neural Networks for Music Classification](https://keunwoochoi.wordpress.com/2017/06/09/notes-on-my-paper-on-the-robustness-of-deep-convolutional-neural-networks-for-music-classification/)
+* [Fine-tuning Convolutional Neural Network on own data using Keras Tensorflow](http://cv-tricks.com/keras/fine-tuning-tensorflow/)
+* [Introduction to 1D Convolutional Neural Networks in Keras for Time Sequences](https://blog.goodaudience.com/introduction-to-1d-convolutional-neural-networks-in-keras-for-time-sequences-3a7ff801a2cf)
+* [Applying your Convolutional Neural Network: On-Demand Webinar and FAQ Now Available!
+* [Deep Learning Fundamental Series - Part 3](https://databricks.com/blog/2018/11/13/applying-your-convolutional-neural-network-on-demand-webinar-and-faq-now-available.html)
+* [MNIST Classification using CNN in Keras TensorFlow](https://morioh.com/p/8729a086756e)
+* [Keras에서 CNN학습 시키기](https://github.com/jaeho-kang/deep-learning/blob/master/keras/keras%E1%84%8B%E1%85%A6%E1%84%89%E1%85%A5_cnn%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8_%E1%84%89%E1%85%B5%E1%84%8F%E1%85%B5%E1%84%80%E1%85%B5.md)
 * [컨볼루션 신경망 모델을 위한 데이터 부풀리기](https://tykimos.github.io/2017/06/10/CNN_Data_Augmentation/)
 * [Building a Convolutional Neural Network (CNN) in Keras](https://towardsdatascience.com/building-a-convolutional-neural-network-cnn-in-keras-329fbbadc5f5)
 * [Real-World Python Neural Nets Tutorial (Image Classification w/ CNN) | Tensorflow & Keras](https://morioh.com/p/6f603db5c148)
+* [Step by step VGG16 implementation in Keras for beginners | by Rohit Thakur | Towards Data Science](https://towardsdatascience.com/step-by-step-vgg16-implementation-in-keras-for-beginners-a833c686ae6c)
 
 # Conference Meetup
 * [케라스 코리아 밋업 in AICON 2019 발표자료포함](https://tykimos.github.io/2019/12/17/Keras_Korea_Meetup_in_AICON_2019/)
