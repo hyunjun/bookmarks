@@ -664,6 +664,8 @@ Business
 * [떠오르는 리더십 원칙 '완전한 솔직함'을 실천하는 방법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/howhonest20190904)
 * [불완전한 리더를 위한 10가지 처세술 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/principe20170630)
   * 용병팀이 아니라 미션팀을 구성해야 한다는 "인스파이어드"와 통하는 단락이 있음
+* [뉴스쉽 이런 리더십…아프간 떠난 마지막 미군은 사단장이었다 | SBS 뉴스](https://news.sbs.co.kr/news/endPage.do?news_id=N1006453306)
+  * Care - 개인적으로 가까워져야 직설적인 피드백이 가능하다는 점과 일맥상통하는 듯
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
