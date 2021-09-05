@@ -69,6 +69,7 @@ Javascript
 * [Vanilla Javascript로 상태관리 시스템 만들기 | 개발자 황준일](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Store/)
 * [Vanilla Javascript로 가상돔(Virtual DOM) 만들기 | 개발자 황준일](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Virtual-DOM/)
 * [Vanilla Javascript로 React UseState Hook 만들기 | 개발자 황준일](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Make-useSate-hook/)
+* [Web 브라우저 렌더링(Layout, Paint) 원리 그리고 가상돔(Virtual DOM)](https://blog.naver.com/pjt3591oo/222495673377)
 * 초보자를 위한 바닐라 자바스크립트
   * [#0-1 Requirements : JS for Beginners](https://www.youtube.com/watch?v=wUHncG3VwPw)
   * [#0-2 What are we building : JS for Beginners](https://www.youtube.com/watch?v=ygVeQEgxm4o)
