@@ -754,6 +754,8 @@ Web
   * [FastapiTutorial](https://www.fastapitutorial.com/)
   * [fastapi_websocket_pubsub: A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub](https://github.com/authorizon/fastapi_websocket_pubsub)
     * [A fast and durable Pub/Sub channel over Websockets with python](https://pythonawesome.com/a-fast-and-durable-pub-sub-channel-over-websockets-with-python/)
+  * [picoapi: An opinionated wrapper around FastAPI with custom microservice registration](https://github.com/schlerp/picoapi)
+    * [PicoAPI: FastAPI for microservices? | by Patrick Coffey | Towards Data Science](https://towardsdatascience.com/picoapi-fastapi-for-microservices-1e0770b747a2)
   * [shopping-mall](https://github.com/jybaek/shopping-mall) basic 예제 + uvicorn
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
 * [Lektor - Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app](https://github.com/lektor/lektor)
