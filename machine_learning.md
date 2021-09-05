@@ -547,6 +547,9 @@ Machine Learning
 * [피처 엔지니어링 #1  - 피처 크로스](https://bcho.tistory.com/1334)
 * [Automated Feature Engineering for Predictive Modeling](https://towardsdatascience.com/automated-feature-engineering-for-predictive-modeling-d8c9fa4e478b)
 * [Machine Learning의 Feature Store란?](https://zzsza.github.io/mlops/2020/02/02/feature-store/)
+* [Feature Store - why?](https://velog.io/@hsh/Feature-Store-why)
+* [Feature store - 핵심 개념](https://velog.io/@hsh/Feature-store-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90)
+* [Feature store - Basic Architecture](https://velog.io/@hsh/Feature-store-Basic-Architecture)
 * [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
   * 기계학습 모델은 통계적 모델에 비해 예측력은 높으나 설명력이 떨어진다는 비판
   * 이 글은 XGBoost의 예측 결과를 설명하기 위해 기존의 설명 방식과 더불어 새로운 방식도 제안
