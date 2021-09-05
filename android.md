@@ -216,6 +216,7 @@ Android
 * [Here’s how Android apps on Windows 11 are going to work | Ars Technica](https://arstechnica.com/gadgets/2021/06/microsofts-windows-subsystem-for-android-sounds-a-lot-like-chrome-os/)
   * [윈도우11에서 안드로이드앱의 동작 방식 | GeekNews](https://news.hada.io/topic?id=4514)
 * [How to add a hint to Spinner in Android](https://android--code.blogspot.com/2015/08/android-spinner-hint.html)
+* [Reverse engineering obfuscated Android APK | by λ.eranga | Rahasak Labs | Aug, 2021 | Medium](https://medium.com/rahasak/reverse-engineering-obfuscated-android-apk-67da84b259e4)
 
 # Android Studio
 * [요약 Android Studio/ Tips and Tricks ~ Part1 (Google I/O '19)](http://pluu.github.io/blog/android/io19/2019/07/06/io19-android_studio_tips_and_tricks_part1/)
