@@ -78,6 +78,8 @@ Business
 * [벤 호로위츠 "CEO 임무는 기업문화 만들기..원칙 세우고 예외 없이 적용하라"](https://news.v.daum.net/v/20210530182001925) 하드씽 Hard Thing
 * [막막한 위기 닥쳤다면 조직문화부터 바꿔라](https://n.news.naver.com/article/015/0004554178) 하드씽 Hard Thing
 * [HR연구소 올림픽에 '도박' 종목이 유지되는 이유](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=849) 기업 문화에 문제가 있으면 고쳐야 함
+* [기업문화를 개선하고 싶은 초보CEO를 위한 6가지 제언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/cultureupgrade20210902)
+* [기업문화, 어떻게 형성됐고 왜 바꾸기 힘들까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companyculture20210503)
 * [조직을 성공적으로 변화시키는 5가지 방법](http://ppss.kr/archives/37761)
 * [조직의 합리성에 대한 노트: 막내착취, 중간관리자, 합리적 개인](http://ppss.kr/archives/58933)
 * [성공적인 기업과 그렇지 못한 기업들 간의 핵심적인 차이는 '얼마나 똑똑한가'가 아니라 '얼마나 건강한가' - 패트릭 렌치오니, 무엇이 조직을 움직이는가](https://xodmfal.blog.me/221358777125)
@@ -294,6 +296,7 @@ Business
 * [기준점](https://www.thestartupbible.com/2019/09/follow-your-own-star.html) 자존감에 관한 이야기
 * [How to onboard a new hire / 신규입사자 조직안착 과정](http://woowabros.github.io/experience/2019/10/11/developer-onboarding.html) 정확히는 인사에 관한 이야기이지만 참고할만 함
 * [인사제도도 유행을 탑니다 (다양성으로 수렴하는 인사제도 따라잡기) | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/hr-management/)
+* [50명 조직과 300명 조직은 이슈도 대응 방안도 다릅니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companysize20210817) hr
 * [구글의 아침은 자유가 시작된다](https://brunch.co.kr/@myungyiyoo/26)
   * [커리어 노트 55 ‘내가 왜 이러는 걸까'에 대한 답을 찾으려면](https://blog.naver.com/junedec369/222444664272)
 * [**정산시스템팀**](https://woowahan.oopy.io/60a06399-3f95-4fec-a436-000ad6baff40) 배민의 개발에 대한 이야기지만 onboarding 문서 참고로도 좋음
@@ -395,6 +398,7 @@ Business
 * [핵심인재의 성과를 이끌어내는 방법 | 경력직은 잡인덱스](https://jobindexworld.com/contents/view/7504)
 * [떡상할 회사의 채용 과정 공통점 4가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/244787)
 * [채용하는데 2주, 퇴사하는데도 2주? 넷플릭스, '부검 메일'로 퇴사 문화 만들어 - 사례뉴스](http://www.casenews.co.kr/news/articleView.html?idxno=4247)
+* [좋은 '인사'란 무엇일까...카카오 HR 리더와의 솔직한 대화 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hrkakao20170911) 황성현님
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
@@ -656,6 +660,10 @@ Business
 * [오바마에게 배우는 리더의 소통법 직장인을 위한 김호의 ‘생존의 방식’](https://www.donga.com/news/article/all/20210901/109025103/1)
 * [권력을 분담하면 기업이 개선된다 | 지속가능성 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/12_1/article_no/1742/page/1)
 * [조직 구성원의 새로운 시도를 독려하는 리더쉽 행동 가이드](https://www.linkedin.com/posts/feeljae-kim-896bb3185_%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%84%B1%EC%9B%90%EC%9D%98-%EC%83%88%EB%A1%9C%EC%9A%B4-%EC%8B%9C%EB%8F%84%EB%A5%BC-%EB%8F%85%EB%A0%A4%ED%95%98%EB%8A%94-%EB%A6%AC%EB%8D%94%EC%89%BD-%ED%96%89%EB%8F%99-%EA%B0%80%EC%9D%B4%EB%93%9C-%EC%A1%B0%EC%A7%81%EC%97%90%EC%84%9C-%EB%A6%AC%EB%8D%94%EC%97%90%EA%B2%8C-activity-6839891738522476544-Hhul/)
+* ['완전한 솔직함'이 리더십의 중요한 원칙으로 떠오르는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/honesty20190820)
+* [떠오르는 리더십 원칙 '완전한 솔직함'을 실천하는 방법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/howhonest20190904)
+* [불완전한 리더를 위한 10가지 처세술 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/principe20170630)
+  * 용병팀이 아니라 미션팀을 구성해야 한다는 "인스파이어드"와 통하는 단락이 있음
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -852,6 +860,8 @@ Business
 * [World Entrepreneurs’ Day(세계 기업가의 날)을 기념하며 소개하는 스타트업을 위한 7가지 팁과 정보 | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/08/21/7-startup-tips-and-tricks-in-honor-of-world-entrepreneurs-day/)
 * [스타트업 인프랩 재무적 Log 1 (Found ~ Angel) - Hyung Joo](https://www.hyungjoo.me/%EC%9D%B8%ED%94%84%EB%9E%A9-%EC%9E%AC%EB%AC%B4%EC%A0%81-log-1/)
 * [스타트업 인프랩 재무적 Log 2 (Angel ~ Seed) - Hyung Joo](https://www.hyungjoo.me/%ec%9d%b8%ed%94%84%eb%9e%a9-%ec%9e%ac%eb%ac%b4%ec%a0%81-log-2/)
+* [투자를 받지 않고 비상장 상태를 유지한다는 것 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/unlisted20200908)
+* ["사람 좋으면 사업하기 어렵다"는 말, 사실일까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/goodceo20210108)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
