@@ -505,12 +505,6 @@ AWS
 * 한국AWS사용자그룹 데이터사이언스 모임 자료 [datascience-group: AWSKRUG Datascience Small Group](https://github.com/awskrug/datascience-group)
   * [데이터사이언스 없이 추천시스템 만들기 - 디큐 :: 제39회 AWSKRUG DataScience모임 - YouTube](https://www.youtube.com/watch?v=bOjE3IWYSS8)
 * [AWS Community Day online 2020 - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu)
-* [beNX: Architecture Changes to Handle Massive Peak Traffic - YouTube](https://www.youtube.com/watch?v=cIqVilu7KUM) event driven, auto scaling
-* DevDay
-  * [WS DevDay Seoul 2019](https://www.youtube.com/playlist?list=PLORxAVAC5fUWht8FSD70jbjRxp9h6izuI)
-  * [AWS DevDay 2018](https://www.youtube.com/playlist?list=PLORxAVAC5fUX-mr4aJYC53zmJNgdxS-gl)
-    * [AWS 2018 dev day - GraphQL with Lambda](https://www.slideshare.net/wesky93/aws-2018-dev-day-graphql-with-lambda)
-  * [AWS DevDay SEOUL 2017 | 300원에 2백만뷰 소화하기 - 김동희 CTO(로켓펀치)](https://www.youtube.com/watch?v=5ky-35i1FkQ)
 * [AWS Builders 온라인 2021 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUWPziIFAho12lvGl1hR7ZZ5)
 * AWS re:Invent
   * [AWS re:Invent 2019 AI/ML](https://www.youtube.com/playlist?list=PLV6rN8mnHlrfrGupPQkoif-HEp3lWiXdn)
@@ -574,6 +568,13 @@ AWS
     * [**세션 레포트 천만 사용자를 위한 AWS 클라우드 아키텍처 진화하기**](https://dev.classmethod.jp/articles/summitonlinekorea-report-10million-architecture/)
     * [세션 레포트 AWS 스토리지 마이그레이션 서비스 및 대규모 데이터 전송 사례](https://dev.classmethod.jp/articles/summit-online-korea-storage-migration/)
     * [이벤트 드리븐 아키텍처 구축을 위한 적절한 어플리케이션 통합 서비스 선택 및 사용 방법](https://dev.classmethod.jp/articles/summit-online-korea-event-driven/)
+* [beNX: Architecture Changes to Handle Massive Peak Traffic - YouTube](https://www.youtube.com/watch?v=cIqVilu7KUM) event driven, auto scaling
+* [DevAx::connect - AWS Media Panel Talk - Twitch](https://www.twitch.tv/videos/1114775303)
+* DevDay
+  * [WS DevDay Seoul 2019](https://www.youtube.com/playlist?list=PLORxAVAC5fUWht8FSD70jbjRxp9h6izuI)
+  * [AWS DevDay 2018](https://www.youtube.com/playlist?list=PLORxAVAC5fUX-mr4aJYC53zmJNgdxS-gl)
+    * [AWS 2018 dev day - GraphQL with Lambda](https://www.slideshare.net/wesky93/aws-2018-dev-day-graphql-with-lambda)
+  * [AWS DevDay SEOUL 2017 | 300원에 2백만뷰 소화하기 - 김동희 CTO(로켓펀치)](https://www.youtube.com/watch?v=5ky-35i1FkQ)
 
 # Course Lecture MOOC
 * [Getting started with AWS](https://www.slideshare.net/JungwonSeo2/getting-started-with-aws-92003749)
