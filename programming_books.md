@@ -299,6 +299,7 @@ Programming Books
 * (NOT YET) [《가상 면접 사례로 배우는 대규모 시스템 설계 기초》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/07/22/%E3%80%8A%EA%B0%80%EC%83%81-%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EA%B8%B0%EC%B4%88/)
   * [독서광 대규모 시스템 설계 기초 - YouTube](https://www.youtube.com/watch?v=KRIY7Y_8AKY)
   * [독서광 가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://jhrogue.blogspot.com/2021/08/blog-post.html)
+* (NOT YET) [Microservices Up & Running](https://jybaek.tistory.com/933)
 
 # C
 
