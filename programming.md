@@ -1249,6 +1249,7 @@ Programming
 * [Databases in the Microservices World - YouTube](https://www.youtube.com/watch?v=-9Veoch50Bg) micro database, event sourcing등. 기초적인 내용(이지만 잊기 쉬우니 보면 좋음)
 * [The 3 Stages of Microservice: Divide, Conquer, and Chaos | CodersTea](https://www.coderstea.com/post/microservices/microservices-introduction-divide-conquer-and-chaos/)
 * [NGINX’s Reference Architecture for Kubernetes Microservices – The New Stack](https://thenewstack.io/nginxs-reference-architecture-for-kubernetes-microservices/)
+* [Scale, Flow and Microservices • James Lewis • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=LL4SJsBtYw0)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
