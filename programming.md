@@ -441,7 +441,7 @@ Programming
 * [Why do some developers at strong companies like Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense)
 * [애자일을 어떻게 실천하나요? - XP 편](https://brunch.co.kr/@insuk/15)
 * [Putting the XP in Scrum • Roy Osherove • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=JtvSp3BPG8I)
-* [협업 조직에서 함께 앉기 구현하기](https://brunch.co.kr/@graypool/139) XP 관련
+* [협업 조직에서 함께 앉기 구현하기](https://brunch.co.kr/@graypool/139) XP
 * [프로세스 개선이 현업에서 정착되려면](http://woowabros.github.io/woowabros/2017/04/18/process.html)
 * [회사에서 새로운 기술 적용하기](https://www.slideshare.net/junseokjung1/ss-76115779)
 * [개발자의 입장에서 본 버즈빌의 개발 문화: 애자일 소프트웨어 개발](https://www.buzzvil.com/2017/03/31/tech-blog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%B3%B8-%EB%B2%84%EC%A6%88%EB%B9%8C%EC%9D%98-%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94-%EC%95%A0%EC%9E%90%EC%9D%BC/)
@@ -3279,6 +3279,7 @@ Programming
 * [WhaTip 시스템 장애 해결 유형 3가지! - YouTube](https://www.youtube.com/watch?v=kaOLDqPF3t0)
 * [WhaTip 모르면 후회하는 시스템 장애 문제 정의 - YouTube](https://www.youtube.com/watch?v=yc-x2jtg-60)
 * [**Uber - 엣지+멀티 클라우드 장애 핸들링 이야기 (Part I)**](https://blog.imqa.io/uber-failover-handling/)
+* [**Uber - 엣지+멀티 클라우드 장애 핸들링 이야기 (Part II)**](https://blog.imqa.io/uber-failover-handling_2/)
 * [The stack overflow of death. How we lost DNS and what we're doing to prevent this in the future. - bunny.net Blog](https://bunny.net/blog/the-stack-overflow-of-death-dns-collapse/)
 
 # Unicode
