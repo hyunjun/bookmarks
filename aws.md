@@ -916,6 +916,7 @@ AWS
 * [konlpy와 mecab을 amazon linux2에 인스톨하는 스크립트입니다](https://gist.github.com/serithemage/7c52ab749d053c21898647ce04b4db9b)
 * [Reactjs AWS Lambda@Edge 이미지 리사이징](https://blog.wonizz.tk/2020/04/21/lambda-edge-guide/)
 * [**Python utilities for AWS related tasks**](https://pythonawesome.com/python-utilities-for-aws-related-tasks/)
+* [aws-api: AWS, data driven](https://github.com/cognitect-labs/aws-api)
 * [aws API Changes](https://awsapichanges.info)
 * [**Amazon Builders' Library Amazon의 소프트웨어 구축 및 운영 방식**](https://aws.amazon.com/ko/builders-library/)
 * [AWS CLI v2 - now generally available](https://aws.amazon.com/ko/blogs/developer/aws-cli-v2-is-now-generally-available/)
