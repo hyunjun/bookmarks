@@ -401,6 +401,7 @@ Clojure
 * [Chris Houser / Jonathan Claggett - Illuminated Macros - YouTube](https://www.youtube.com/watch?v=o75g9ZRoLaw)
 * [Clojure Functions in Four Ways - Rake Routes](https://www.rakeroutes.com/clojure-functions-in-four-ways)
 * [Building trees with and without zippers | Vincent Cantin’s blog](https://vincent.404.taipei/clojure/building-trees-with-and-without-zippers/)
+* [Clojure Zippers](https://grishaev.me/en/clojure-zippers/)
 * [The filter function in JavaScript and Clojure a detailed comparison with anonymous functions - YouTube](https://www.youtube.com/watch?v=z0NCJ3CfLw4)
 * [Exceptions in Clojure](https://grishaev.me/en/clj-book-exceptions/)
 * [Clojure Error Messages are Accidental - LispCast](https://lispcast.com/clojure-error-messages-accidental/)
