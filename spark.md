@@ -450,6 +450,7 @@
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
   * [spark2.0 dataframe의 filter,where,isin,select,contains,col,between,withColumn, 예제](http://knight76.tistory.com/entry/spark20-dataframe%EC%9D%98-filterwhereisinselect)
   * [Spark: Connecting to a jdbc data-source using dataframes](http://www.infoobjects.com/spark-connecting-to-a-jdbc-data-source-using-dataframes/)
+  * [입 개발 Spark 에서 Database 빨리 덤프하는 법(Parallelism) | Charsyam's Blog](https://charsyam.wordpress.com/2021/09/06/%EC%9E%85-%EA%B0%9C%EB%B0%9C-spark-%EC%97%90%EC%84%9C-database-%EB%B9%A8%EB%A6%AC-%EB%8D%A4%ED%94%84%ED%95%98%EB%8A%94-%EB%B2%95parallelism/) Spark JDBC
   * [where과 filter의 차이](http://knight76.tistory.com/entry/spark-where%EA%B3%BC-filter%EC%9D%98-%EC%B0%A8%EC%9D%B4)
   * [Using spark data frame for sql](https://www.slideshare.net/charsyam2/using-spark-data-frame-for-sql)
   * [Selecting Dynamic Columns In Spark DataFrames (aka Excluding Columns)](http://bailiwick.io/2017/08/08/selecting-dynamic-columns-in-spark-dataframes/)
