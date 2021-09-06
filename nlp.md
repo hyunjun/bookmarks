@@ -903,6 +903,7 @@ NLP
 * [Language Models are Open Knowledge Graphs .. but are hard to mine! | by Nikhil Dharap | Jan, 2021 | Towards Data Science](https://towardsdatascience.com/language-models-are-open-knowledge-graphs-but-are-hard-to-mine-13e128f3d64d)
 * [Large-scale LM에 대한 얕고 넓은 지식들(part 1) - YouTube](https://www.youtube.com/watch?v=w4a-ARCEiqU)
   * [season2/advanced at main · jiphyeonjeon/season2](https://github.com/jiphyeonjeon/season2/tree/main/advanced)
+* [Large-scale LM에 대한 얕고 넓은 지식들(part 2) - YouTube](https://www.youtube.com/watch?v=zbuD21YwLZI)
 * [Beauty Domain-Specific Pre-trained Language Model 개발하기 –](http://blog.hwahae.co.kr/all/tech/tech-tech/5876/)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
   * [Jay Alammar - Take A Look Inside Language Models With Ecco | PyData Khobar - YouTube](https://www.youtube.com/watch?v=rHrItfNeuh0)
