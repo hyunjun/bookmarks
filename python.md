@@ -2534,15 +2534,16 @@ Python
 * [Yellowid-Flask](https://github.com/JungWinter/yellowid-flask)
 
 # GraphQL
-* [GraphQL Python](https://github.com/graphql-python)
-* [graphene-python.org](http://graphene-python.org/)
 * [GraphQL server up and running with 50 lines of python](https://medium.com/@fasterpancakes/graphql-server-up-and-running-with-50-lines-of-python-85e8ada9f637)
 * [Playing With GraphQL + Python Flask](https://hackernoon.com/playing-with-graphql-python-flask-84ead622461c)
 * [GraphQL in the Python World](http://nafiulis.me/graphql-in-the-python-world.html)
 * [The Fullstack Tutorial for GraphQL](https://www.howtographql.com/)
 * [GraphQL in Python and Django](https://www.youtube.com/watch?v=vnlPU0HgSbQ)
-* [Awesome-GraphQL](https://github.com/devArtoria/Awesome-GraphQL) GraphQL server with Flask + Graphene
 * [GraphQL in Python](https://www.youtube.com/watch?v=EIGjT5NYjjM)
+* [Backend.AI에서 사용되는 GraphQL batching과 Pagination | Lablup Blog](https://blog.lablup.com/posts/2021/09/06/graphql-batching-pagination-in-backend.ai/)
+* [Awesome-GraphQL](https://github.com/devArtoria/Awesome-GraphQL) GraphQL server with Flask + Graphene
+* [GraphQL Python](https://github.com/graphql-python)
+* [graphene-python.org](http://graphene-python.org/)
 
 # GUI
 * [사용할 Python GUI 비교 및 선택하기](http://stackrefactoring.blogspot.com/2016/05/python-gui-gui.html)
@@ -4308,6 +4309,7 @@ Python
 * [Pandas not enough? Here are a few good alternatives to processing larger and faster data in Python - KDnuggets](https://www.kdnuggets.com/2021/07/pandas-alternatives-processing-larger-faster-data-python.html)
 * [Py) 전처리-데이터프레임 데이터타입 확인 - Data Doctor](https://datadoctorblog.com/2021/09/01/Py-Preprocessing-dataframe-03-checking-column-dtype/)
 * [How To Add New Column to Pandas DataFrame | Towards Data Science](https://towardsdatascience.com/how-to-add-a-new-column-to-an-existing-pandas-dataframe-310a8e7baf8f)
+* [데이터분석 최근, 넷플릭스의 콘텐츠 보유 현황과 수급 전략에 대하여](https://songseungwon.tistory.com/53)
 * [dtale: Visualizer for pandas data structures](https://github.com/man-group/dtale)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
   * [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
