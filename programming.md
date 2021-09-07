@@ -87,6 +87,20 @@ Programming
 * [arxiv sanity perserver](http://www.arxiv-sanity.com/top) top papers based on people's libraries
 * [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 * [**소프트웨어 설계란 무엇인가?**](https://www.mimul.com/blog/what-is-software-design/) 문서의 중요성을 설명한 92년 글 번역문. 20여년이 지났어도 유효한 좋은 글(그러니 역자도 번역했겠지)
+* [**엔지니어라면 꼭 보고가야 할 일론 머스크의 5단계 원칙**](https://maily.so/electricshock/posts/767236) 일단 시작하기 전에 0. 현황 파악부터
+  1. 설계 요구사항이 정말 맞는 것인지 검증해라
+    * 특히 똑똑한 사람이 정한 것일수록, 충분히 검증되지 않았을 가능성이 높다.
+    * 모든 설계는 그 잘못된 정도의 차이가 있을 뿐, 일단 모두 잘못되었다고 가정하고 검증에 매달려라.
+  2. 필요 없는 부품이나 프로세스를 제거해라
+    * 혹시나 필요할지도 몰라 추가한, 불필요한 부품이나 프로세스가 언제나 있기 마련이다.
+    * 이런 애매한 것들은 진짜 필요한 것인지 바로 물어보면서 검증할 수 있도록, 누구 아이디어인지 팀 이름 대신 담당자 이름을 직접 기재해라.
+  3. 설계를 단순화, 최적화해라
+    * 엔지니어들의 가장 흔한 실수는, 애초에 존재해서는 안되는 것을 최적화시키는 데 매달리는 것이다.
+    * 우리는 고등학교와 대학교에서 항상 질문에만 답하도록 훈련 받았지만, 질문의 전제가 옳은 지부터 의문을 제기해야할 때가 있다.
+  4. 생산 속도를 높여라
+    * 하지만 앞의 3가지를 끝내지 않은 상태에서 생산 속도를 밀어붙여선 안된다. 그렇지 않으면 자기 무덤을 더 빠르게 파는 것이나 마찬가지다.
+  5. 자동화해라
+  * 순서가 중요. 거꾸로 적용하면 안됨
 * [A Philosophy of Software Design | John Ousterhout | Talks at Google - YouTube](https://www.youtube.com/watch?v=bmSAYlu0NcY) 좋은 소프트웨어 디자인을 어떻게 알아보고, 가르치고, 가꿔 나갈지에 대한 이야기
 * [Book Review: A Philosophy of Software Design | Johz Blog](https://johz.bearblog.dev/book-review-philosophy-software-design/)
 * [Analysis & Design · Present](https://present.do/decks/60c21e8267ba0b4949e79f42)
