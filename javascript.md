@@ -3754,6 +3754,8 @@ Javascript
 * [tsconfig.json Type Checking](https://velog.io/@juunini/tsconfig.json-Type-Checking)
 * [tsconfig.json Module](https://velog.io/@juunini/tsconfig.json-Module)
 * [tsconfig.json Emit](https://velog.io/@juunini/tsconfig.json-Emit)
+* [tsconfig.json JavaScript Support](https://velog.io/@juunini/tsconfig.json-JavaScript-Support)
+* [tsconfig.json Editor Support](https://velog.io/@juunini/tsconfig.json-Editor-Support)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
