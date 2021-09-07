@@ -1408,6 +1408,7 @@ Scala
   * [Welcome to Scala Native](https://scala-native.readthedocs.io/)
   * [스칼라 네이티브 사용자 가이드. 스칼라는 함수형 프로그래밍 언어이면서 동시에 객체지향적인 특징을 함께… | by Out of Bedlam | Medium](https://medium.com/@OutOfBedlam/scala-native-dc93d810a23f)
   * [Revisiting Scala Native performance | by Wojciech Mazur | VirtusLab | Apr, 2021 | Medium](https://medium.com/virtuslab/revisiting-scala-native-performance-67029089f241)
+  * [An introduction to Scala Native | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=u2CnE-sRdBw)
 * [scala-parser-combinators](https://github.com/scala/scala-parser-combinators)
   * [The Magic Behind Parser Combinators](http://www.codecommit.com/blog/scala/the-magic-behind-parser-combinators)
   * [csv4s - csv parser library and executable jar for scala](https://github.com/sccu/csv4s)
