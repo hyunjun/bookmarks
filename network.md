@@ -159,6 +159,7 @@ Network
 * [7XX-rfc: An RFC for a new series of HTTP status codes covering developer fouls](https://github.com/joho/7XX-rfc)
 * [**HTTP Prompt - An interactive command-line HTTP client**](https://http-prompt.com/)
 * [HTTPWTF | HTTP Toolkit](https://httptoolkit.tech/blog/http-wtf/)
+* [네트워크 및 http 기초와 실습 | Programming Cloud-Native](https://tech.gitple.io/2021/09/07/network-http-practice/)
 
 # HTTPS
 * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
