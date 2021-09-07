@@ -124,6 +124,7 @@ Google Cloud Platform GCP
     * MLOps 영역; 파이프라인에 AutoML 통합, 새로 학습된 모델로 무중단 배포, 추가 학습용 데이터를 주입하면 전체 파이프라인 자동 실행
   * [Adapting to changes of data by building MLOps pipeline in Vertex AI | by Park Chansung | Aug, 2021 | Towards Data Science](https://towardsdatascience.com/adapting-to-changes-of-data-by-building-mlops-pipeline-in-vertex-ai-3f8ebd19a869)
   * [조대협의 블로그 :: Vertex.AI로 파이프라인과 metadata 구현하기](https://bcho.tistory.com/1382)
+  * [조대협의 블로그 :: 구글 클라우드 Vertex.AI Model 학습 및 모델 배포&서빙](https://bcho.tistory.com/1383)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
