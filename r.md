@@ -78,6 +78,7 @@ R
 * [Good Practices for Writing R Packages](http://romantsegelskyi.github.io/pi-blog/2015/11/16/good-practices-r-package/)
 * [R프로그래밍(R (3.2.1)버전)](http://www.e-koreatech.ac.kr/olei/course/category/main/5852/detail.do?currentMenuId=001001)
 * [bayesianR](http://psygrammer.github.io/bayesianR/)
+* [R 로 하는 Bayesian 추론 기초 - 마코프 체인, 몬테카르로 시뮬레이션, 베이지안 회귀분석 - YouTube](https://www.youtube.com/watch?v=z7rCogOaDh4)
 * [R과 파이썬을 활용한 호텔 이용 후기를 모아서(크롤링하여) 분석하기](http://cafe.naver.com/theareum/262)
 * [웹에서 하는 R 통계](http://web-r.org/)
   * [웹에서 클릭만으로 하는 R 메타분석](http://web-r.org/webrboard/4505)
