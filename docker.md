@@ -695,6 +695,7 @@ Docker
 * [Creating the Perfect Python Dockerfile | by Luis Sena | May, 2021 | Medium](https://luis-sena.medium.com/creating-the-perfect-python-dockerfile-51bdec41f1c8)
 * [Docker For .NET Developers - .NET Guide](https://www.jetbrains.com/dotnet/guide/tutorials/docker-dotnet/)
 * [Dockerfile 이미지 만들기, 쉘 스크립트 사용시 주의사항](https://blog.naver.com/pjt3591oo/222444809844)
+* [Top 20 Dockerfile best practices for security | Sysdig](https://sysdig.com/blog/dockerfile-best-practices/)
 
 # gvisor
 * [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
