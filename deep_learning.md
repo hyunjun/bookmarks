@@ -369,6 +369,7 @@ Deep Learning
 * [Generative Model 101](https://www.facebook.com/SKTBrain/posts/313726382331516) 실제와 유사한 음악이나 이미지를 만들어내는 "Generative Model" 주요 논문 정리
 * [Deep Advances in Generative Modeling](https://www.youtube.com/watch?v=KeJINHjyzOU)
 * [Latent Constraints: Conditional Generation from Unconditional Generative Models](https://colab.research.google.com/notebook#fileId=1oJKhIXi27R3An0sAd6IzazvrKplTnhj-) coalb code
+* [딥러닝 ‘생성모델’과 ‘잠재 벡터’에 관하여 – AI PLUS Tech Blog](https://blog.est.ai/2021/09/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%83%9D%EC%84%B1%EB%AA%A8%EB%8D%B8%EA%B3%BC-%EC%9E%A0%EC%9E%AC-%EB%B2%A1%ED%84%B0%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/)
 * [slow paper Glow: Generative Flow with Invertible 1x1 Convolutions | by Sunwoo Park | Medium](https://medium.com/@sunwoopark/slow-paper-glow-generative-flow-with-invertible-1x1-convolutions-837710116939) generative model
 * [Nuts and Bolts of Applying Deep Learning: Tips and Tricks by Andrew Ng](https://bigdatascientistblog.wordpress.com/2016/09/26/nuts-and-bolts-of-applying-deep-learning-tips-and-tricks-by-andrew-ng/)
 * [Evaluation of Deep Learning Toolkits](https://github.com/zer0n/deepframeworks/blob/master/README.md)
