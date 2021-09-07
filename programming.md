@@ -2094,6 +2094,7 @@ Programming
 * [A new era of DevOps, powered by machine learning](https://www.allthingsdistributed.com/2021/05/devops-powered-by-machine-learning.html)
 * [Ultimate Guide to Becoming a DevOps Engineer | Contino | Global Transformation Consultancy](https://www.contino.io/insights/devops-engineer-guide)
 * [Operations is not Developer IT](https://matduggan.com/operations-is-not-developer-it/)
+* [Velocity 09: John Allspaw and Paul Hammond, "10+ Deploys Pe - YouTube](https://www.youtube.com/watch?v=LdOe18KhtT4)
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
