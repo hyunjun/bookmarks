@@ -1227,7 +1227,6 @@ App
 * [AWS 아키텍처 아이콘 아키텍처 다이어그램 구축을 위해 설정된 공식 AWS 아이콘](https://aws.amazon.com/ko/architecture/icons/)
 * [cacoo](https://cacoo.com/)
 * [cloudcraft](https://cloudcraft.co/) Visualize your cloud architecture like a pro. Create smart AWS diagrams
-* [Collaborative Mindmapping Tools](http://c4lpt.co.uk/directory-of-learning-performance-tools/collaborative-mindmapping-tools/)
 * [coggle.it](https://coggle.it/)
 * [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)
 * [**Diagram as Code for prototyping cloud system architectures** https://diagrams.mingrammer.com ](https://github.com/mingrammer/diagrams)
@@ -1286,6 +1285,13 @@ App
 * [Terrastruct - A diagramming tool for systems](https://terrastruct.com/)
 * [websequencediagrams.com](https://www.websequencediagrams.com/) 한글 깨짐
 * [Wireflow - user flow chart real-time collaborative tool](https://github.com/vanila-io/wireflow)
+
+## Mindmap
+* [Mindmapping Tools – Centre for Learning & Performance Technologies](http://c4lpt.co.uk/directory-of-learning-performance-tools/mindmapping-tools/)
+* [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) open source라 써보려고 했으나 너무 느림
+* [GitMind - Free Online Mind Mapping](https://gitmind.com/) twitter account로 사용중
+* MindMeister [Mind Mapping Software: Mind Maps | MindMeister](https://www.mindmeister.com/) basic plan은 mindmap 3개 제한
+* [XMind - Mind Mapping Software](https://www.xmind.net/)
 
 # Multimedia
 * [트위터, 동영상 생중계 앱 ‘페리스코프’ 공개](http://www.bloter.net/archives/224100)
