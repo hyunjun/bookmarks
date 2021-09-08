@@ -499,6 +499,7 @@ Go
 * [go-candyjs - fully transparent bridge between Go and the JavaScript](https://github.com/mcuadros/go-candyjs)
 * [gocelery: Celery Distributed Task Queue in Go](https://github.com/gocelery/gocelery)
   * [golang - gocelery 라이브러리 사용하기 - jacking75](https://jacking75.github.io/go_lib_gocelery/)
+* [goclj package - github.com/cespare/goclj - pkg.go.dev](https://pkg.go.dev/github.com/cespare/goclj)
 * [GoCqlTable is a wrapper around the GoCql-driver that seeks to simplify working with the Cassandra database in Golang projects](https://github.com/elvtechnology/gocqltable)
 * [Go Crypto - Gotham Go](http://www.slideshare.net/NicholasSullivan/whats-new-in-go-crypto-gotham-go)
 * [go-datastructures](https://github.com/Workiva/go-datastructures)
