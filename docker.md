@@ -1315,6 +1315,7 @@ Docker
 
 ## Library docker alternative
 * [An Overview of Docker Desktop Alternatives](https://matt-rickard.com/docker-desktop-alternatives/)
+* [How Docker broke in half | InfoWorld](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html)
 * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [containerd: An open and reliable container runtime](https://github.com/containerd/containerd)
 * [lima: Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)](https://github.com/lima-vm/lima)
