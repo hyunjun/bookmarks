@@ -557,6 +557,7 @@ Programming
 * [Agile at 20: The Failed Rebellion - Simple Thread](https://www.simplethread.com/agile-at-20-the-failed-rebellion/)
   * [Agile 20주년 : 실패한 반란 | GeekNews](https://news.hada.io/topic?id=4788)
 * [쓰임새에 따른 애자일 활용](https://brunch.co.kr/@graypool/117)
+* [Agility is Inefficient • Klaus Bucka-Lassen • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=q6sq5ktP_3g)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
