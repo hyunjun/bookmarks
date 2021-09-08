@@ -994,6 +994,7 @@ Clojure
 * [Onyx - Distributed, masterless, high performance, fault tolerant data processing for Clojure](https://github.com/onyx-platform/onyx)
   * [Onyx 0.8.0: Automatic State Management](http://michaeldrogalis.github.io/jekyll/update/2015/11/12/Onyx-0.8.0-Automatic-State-Management.html)
 * [optaplanner-clj: Example of Optaplanner in Clojure](https://github.com/joinr/optaplanner-clj)
+* [ornament](https://github.com/lambdaisland/ornament) CSS-in-Clj(s)
 * [overload-fn: Function overloading on type for Clojure](https://github.com/ertugrulcetin/overload-fn)
 * [oz: Data visualizations in Clojure and ClojureScript using Vega and Vega-lite](https://github.com/metasoarous/oz)
 * [Parens of the Dead - A screencast series of zombie-themed games written with Clojure and ClojureScript](http://www.parens-of-the-dead.com/)
@@ -1042,6 +1043,7 @@ Clojure
   * [Asynchronous Ring](https://skillsmatter.com/skillscasts/9057-asynchronous-ring)
   * [Async Ring 미들웨어 패턴](http://clojure.kr/async-ring-middleware-pattern)
   * [The Artificery: A (poorly) animated introduction to Clojure's HTTP server library Ring](https://drewverlee.github.io/posts-output/2021-5-2-ring)
+* [rss-saver: Simple Clojure (Babashka) script that saves articles from world.hey.com RSS feeds](https://github.com/adam-james-v/rss-saver)
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
 * [scittle](https://borkdude.github.io/scittle/) exposes the Small Clojure Interpreter in the browser in such a way that you can use it with the script tag
