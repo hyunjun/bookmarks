@@ -389,6 +389,7 @@ Clojure
 * [Hacking with Handlebars in Java and Clojure: Part I | by Pranav Gajjewar | helpshift-engineering | Medium](https://medium.com/helpshift-engineering/hacking-with-handlebars-in-java-and-clojure-part-i-fafc9a8cd8aa)
 * [Hacking with Handlebars in Java and Clojure: Part II | by Pranav Gajjewar | helpshift-engineering | Aug, 2021 | Medium](https://medium.com/helpshift-engineering/hacking-with-handlebars-in-java-and-clojure-part-ii-c4de51f49815)
 * [A Functional Approach for Problem A of ICPC 2018 World Finals - Flexiana](https://flexiana.com/2021/08/a-functional-approach-for-problem-a-of-icpc-2018-world-finals)
+* [A Catalogue of Chords Example | jpreston.xyz](https://jpreston.xyz/a-catalogue-of-chords-example.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -810,6 +811,7 @@ Clojure
 * [clojure.bat - Launch Clojure conveniently in Windows](https://github.com/kimtg/clojure.bat)
 * [ClojureCalc - A libreoffice Calc Add-In to evaluate clojure expressions](http://beothorn.github.io/ClojureCalc/)
 * [ClojureCL - Parallel computations with OpenCL 2.0 in Clojure High Performance Computing and GPGPU in Clojure: access the supercomputer on your desktop](http://clojurecl.uncomplicate.org/)
+* [clojure-clr-monogame-test at pong](https://github.com/lucasteles/clojure-clr-monogame-test/tree/pong)
 * [The Clojure Toolbox - A categorised directory of libraries and tools for Clojure](http://www.clojure-toolbox.com/)
 * [clojure.java.jdbc - A low-level Clojure wrapper for JDBC-based access to databases](https://github.com/clojure/java.jdbc)
 * [clojure-lsp: Language Server (LSP) for Clojure](https://github.com/clojure-lsp/clojure-lsp)
