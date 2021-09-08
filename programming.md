@@ -3298,6 +3298,7 @@ Programming
 * [**Uber - 엣지+멀티 클라우드 장애 핸들링 이야기 (Part I)**](https://blog.imqa.io/uber-failover-handling/)
 * [**Uber - 엣지+멀티 클라우드 장애 핸들링 이야기 (Part II)**](https://blog.imqa.io/uber-failover-handling_2/)
 * [The stack overflow of death. How we lost DNS and what we're doing to prevent this in the future. - bunny.net Blog](https://bunny.net/blog/the-stack-overflow-of-death-dns-collapse/)
+* [What You Can Learn from the AWS Tokyo Outage – The New Stack](https://thenewstack.io/what-you-can-learn-from-the-aws-tokyo-outage/)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
