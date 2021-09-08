@@ -3760,6 +3760,7 @@ Javascript
 * [TypeScript Handbook 한글 번역본](https://vriz.notion.site/TypeScript-Handbook-45b1bc86f2ed4886b393a5586fcf2a31) 4.3.5를 기준 번역(+해석)본
 * [tsconfig의 모든 것 - 1. Root fields | Evans Library](https://evan-moon.github.io/2021/07/30/tsconfig-options-root-fields/)
 * [tsconfig의 모든 것 - 2. Compiler options > Type Checking | Evans Library](https://evan-moon.github.io/2021/08/08/tsconfig-compiler-options-type-check/)
+* [tsconfig.json이 뭔가요?](https://velog.io/@juunini/tsconfig.json%EC%9D%B4-%EB%AD%94%EA%B0%80%EC%9A%94)
 * [tsconfig.json Type Checking](https://velog.io/@juunini/tsconfig.json-Type-Checking)
 * [tsconfig.json Module](https://velog.io/@juunini/tsconfig.json-Module)
 * [tsconfig.json Emit](https://velog.io/@juunini/tsconfig.json-Emit)
