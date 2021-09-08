@@ -271,6 +271,7 @@ Finance
 * [etc) 주식 - 2021년 9월 1주차 분봉 데이터 - Data Doctor](https://datadoctorblog.com/2021/09/04/etc-stock-dainy-min-chart-202109-w1/)
 * [전종목 기업 리포트 크롤링](https://gils-lab.tistory.com/14) 한경컨센선스 증권사 리포트
 * [아이투자에서 투자지표 (EPS, PER, 영업이익률 등) 크롤링하기](https://gils-lab.tistory.com/21)
+* [데이터분석 존버 vs 자동매매 백테스팅 수익률 비교(카카오)](https://songseungwon.tistory.com/entry/%EA%B0%80%EC%84%A4-%EA%B2%80%EC%A0%95%EC%9D%84-%ED%86%B5%ED%95%9C-%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88)
 * [binance-trader-c1](https://github.com/yanagi7393/binance-trader-c1)
 * CybosPlus 대신증권
   * [오픈 API를 이용한 주식 데이터 수집하기 (1) 환경 설정](https://gils-lab.tistory.com/5)
