@@ -270,6 +270,7 @@ Finance
 * [How to Calculate Stock Investment Portfolio Volatility with Python, NumPy & Pandas - YouTube](https://www.youtube.com/watch?v=GKMSG_3MVGM)
 * [etc) 주식 - 2021년 9월 1주차 분봉 데이터 - Data Doctor](https://datadoctorblog.com/2021/09/04/etc-stock-dainy-min-chart-202109-w1/)
 * [전종목 기업 리포트 크롤링](https://gils-lab.tistory.com/14) 한경컨센선스 증권사 리포트
+* [아이투자에서 투자지표 (EPS, PER, 영업이익률 등) 크롤링하기](https://gils-lab.tistory.com/21)
 * [binance-trader-c1](https://github.com/yanagi7393/binance-trader-c1)
 * CybosPlus 대신증권
   * [오픈 API를 이용한 주식 데이터 수집하기 (1) 환경 설정](https://gils-lab.tistory.com/5)
