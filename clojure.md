@@ -1060,6 +1060,7 @@ Clojure
   * [specter-book-code - Source and tests for Extending and Using Specter](https://github.com/marick/specter-book-code)
 * [spectomic - Generate Datomic or Datascript schema from your Clojure(script) specs](https://github.com/Provisdom/spectomic)
 * [spectrum - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time](https://github.com/arohner/spectrum)
+* [spring-boot-bugger: Introduce Clojure and live-coding power to your Spring Boot application!](https://github.com/jaju/spring-boot-bugger)
 * [Spring Cloud - Proof of concept Clojure Implementation of Spring Boot Getting Started](https://github.com/scotthaleen/clojure-spring-cloud)
 * [supdate - a small Clojure/ClojureScript library for transforming nested data structures](https://vvvvalvalval.github.io/supdate)
 * [superv.async - extends core.async with error handling and includes a number of convenience functions and macros](https://github.com/replikativ/superv.async)
