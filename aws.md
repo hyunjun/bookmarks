@@ -535,6 +535,7 @@ AWS
   * [AWS re:Invent 2020 Top Announcements 살펴보기 | Popit](https://www.popit.kr/aws-reinvent-2020-top-announcements-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0)
   * [AWS re:Invent 2020 Daily Recap - 일일 요약 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUUXSM9uoOZZoafzQPZeh5bM)
 * AWS Summit
+  * [AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-)
   * [AWS Summit Online Korea 2020 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUWAd4oEEXU-PSb4LELpPA82)
   * [AWS Summit 2019](https://www.youtube.com/playlist?list=PLORxAVAC5fUWyB6Hsk9ibYJHw97k1h6s9)
   * [2019 AWS Summit Seoul 참관기 day 1/2](https://engineering.huiseoul.com/2019-aws-summit-seoul-%EC%B0%B8%EA%B4%80%EA%B8%B0-day-1-2-7232b47135d1)
@@ -1111,6 +1112,7 @@ AWS
 # TDD, Test
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
 * [LocalStack을 활용한 Integration Test 환경 만들기](http://woowabros.github.io/tools/2019/07/18/localstack-integration.html)
+* [How to Test Serverless Applications in AWS](https://www.freecodecamp.org/news/how-to-test-serverless-applications-in-aws/)
 
 # Terraform
 * [Apex(Terraform)로 API Gateway 구성하기 #1](https://blog.outsider.ne.kr/1287)
