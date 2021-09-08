@@ -229,6 +229,7 @@ Open Source
 * [GPL의 종말 | saturnsoft.net](https://www.saturnsoft.net/opensource/2021/07/22/end-of-gpl/)
 * [Grafana, Loki, Tempo의 라이센스가 AGPL이 되면 무슨 영향을 받을까? :: Outsider's Dev Story](https://blog.outsider.ne.kr/1555)
 * [Olive Platform : 카카오에서 제공하는 오픈소스 관리 서비스 – tech.kakao.com](https://tech.kakao.com/2021/02/22/olive-platform/)
+* [오픈소스 라이선스 변화의 흐름 – tech.kakao.com](https://tech.kakao.com/2021/09/08/opensource-license/)
 
 # Line
 * [LINE Game AirBorne DataCenter 소개](http://developers.linecorp.com/blog/ko/?p=230)
