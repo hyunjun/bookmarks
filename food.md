@@ -158,6 +158,7 @@ Food
 * [31 coffees](https://imgur.com/a/IHNfcm1)
 * [커피가 나쁠까 차가 나쁠까, 죄수에게 매일 먹였더니](https://news.v.daum.net/v/20180917150057346)
 * [프랑스 카페의 역사](https://bookedit.tistory.com/724)
+* [기사 - K의 기원을 찾아서 한국인이 커피의 산미를 좋아하지 않는 이유 1](https://www.ddanzi.com/ddanziNews/699465235)
 
 ## Grinder
 * [Baratza Encore](http://brandbaby.egimsoft.co.kr/shop/item.php?it_id=1000558058#;)
