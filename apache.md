@@ -629,6 +629,7 @@ Apache
 * [Cannot get state store TOPIC because the stream thread is STARTING, not RUNNING 에러 해결](https://voidmainvoid.tistory.com/443) ktable
 * [A gentle introduction to Apache Kafka](https://www.gentlydownthe.stream/)
 * [Event Driven Architecture using Kafka | LinkedIn](https://www.linkedin.com/pulse/event-driven-architecture-using-kafka-kunal-mohanta/)
+* [Kafka in the Wild • Laura Schornack & Maureen Penzenik • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=iMx8otu3rFg) Domain Driven Design for Realtime, Ubiquitous, Distributed Data
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
