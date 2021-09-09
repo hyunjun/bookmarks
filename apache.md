@@ -237,6 +237,7 @@ Apache
   * 모니터링(prometheus) 연결; flink /opt 안에 있는 prometheus jar 파일을 /lib 에 옮기고 flink-confi.yaml 에 metrics 부분 설정해준후에 job/task pod annotation 에 prometheus.io/port 와 prometheus.io/scrape 만 설정하면 prometheus sd가 잘 수집
 * [Berlin 2019](https://berlin-2019.flink-forward.org/conference-program)
 * [europe-2019.flink-forward.org/conference-program](https://europe-2019.flink-forward.org/conference-program)
+* [Flink Forward Global 2021](https://www.flink-forward.org/global-2021)
 * [Apache Flink® SQL Training](https://github.com/ververica/sql-training)
 * [Do Flink on Web with FLOW](https://speakerdeck.com/eastcirclek/do-flink-on-web-with-flow)
 * [0x90e.github.io/tags/Flink](https://0x90e.github.io/tags/Flink/) 사용자 코드가 어떻게 Graph로 만들어지고 JobManager로 submit 되는지 코드 단위로 설명한 포스트라고 하는데 중국어
@@ -263,11 +264,13 @@ Apache
 * [Unified APIs for Batch and Stream Processing on Flink - YouTube](https://www.youtube.com/watch?v=z9ye4jzp4DQ)
 * [2021 Apache Flink Meetup - Hosted by Netflix - YouTube](https://www.youtube.com/watch?v=rtz3p_iijP8)
 * [Flink setup for development (and some IntelliJ Idea cool tricks)](https://www.galiglobal.com/blog/2021/20210130-Flink-setup.html)
-* [Flink Concept - Operator 간 데이터 교환 | DevLog](https://leeyh0216.github.io/2021-03-25/flink_output)
-* [Flink Concept - Checkpointing(1) | DevLog](https://leeyh0216.github.io/2021-03-01/flink_checkpoint_1)
+* [Flink Concept - Operator 간 데이터 교환 | leeyh0216's devlog](https://leeyh0216.github.io/posts/flink_output/)
+* [Flink Concept - Checkpointing(1) | leeyh0216's devlog](https://leeyh0216.github.io/posts/flink_checkpoint_1/)
 * [Flink Concept - pipeline.object_reuse | leeyh0216's devlog](https://leeyh0216.github.io/posts/flink_object_reuse/)
 * [Flink Concept - Flink의 Kafka Consumer 동작 방식(1) | leeyh0216's devlog](https://leeyh0216.github.io/posts/flink_kafka_consumer_works_1/)
 * [글로벌 기업이 더 주목하는 스트림 프로세싱 프레임워크 - 플링크(Flink) 이해하기 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=31721490&memberNo=36733075&navigationType=push)
+* [5 years of Flink at Mux | Mux blog](https://mux.com/blog/5-years-of-flink-at-mux/)
+* [flink-ai-extended](https://github.com/alibaba/flink-ai-extended)
 * [flink_feature_radar.svg at feature_radar · StephanEwen/flink-web](https://github.com/StephanEwen/flink-web/blob/feature_radar/img/flink_feature_radar.svg) flink에서 제거/추가될 기능들
 * [Flink Job Listener: Run a task After Flink Job is Completed | CodersTea](https://www.coderstea.com/post/big-data/flink-job-listener-run-a-task-after-flink-job-is-completed/)
 * HRFS [On-demand low-latency feature generation at Hyperconnect - YouTube](https://www.youtube.com/watch?v=jujAAaMQdF4)
