@@ -205,6 +205,8 @@ Clojure
 * [github.com/matthiasn/talk-transcripts](https://github.com/matthiasn/talk-transcripts)
 * [**Readable Clojure**](http://tonsky.me/blog/readable-clojure/)
 * [RESTATE YOUR UI: USING STATE MACHINES TO SIMPLIFY USER INTERFACE DEVELOPMENT](http://blog.cognitect.com/blog/2017/5/22/restate-your-ui-using-state-machines-to-simplify-user-interface-development)
+* [Thoughts on UI tests](https://grishaev.me/en/ui-test/)
+* [Thoughts on Clojure UI framework @ tonsky.me](https://tonsky.me/blog/clojure-ui/)
 * [Clojure Linear Algebra Refresher (1) - Vector Spaces](http://dragan.rocks/articles/17/Clojure-Linear-Algebra-Refresher-Vector-Spaces)
 * [Clojure Linear Algebra Refresher (2) - Eigenvalues and Eigenvectors](https://dragan.rocks/articles/17/Clojure-Linear-Algebra-Refresher-Eigenvalues-and-Eigenvectors)
 * [Clojure Linear Algebra Refresher (3) - Matrix Transformations](https://dragan.rocks/articles/17/Clojure-Linear-Algebra-Refresher-3-Matrix-Transformations)
@@ -331,7 +333,6 @@ Clojure
 * [Kern parser combinator with bb](https://gist.github.com/borkdude/bbc78b34e77ef91510ace75862d23aeb)
 * [Environ variables are not for configuring software](https://grishaev.me/en/env/)
 * [First Clojure stream in English](https://grishaev.me/en/clj-stream/)
-* [Thoughts on UI tests](https://grishaev.me/en/ui-test/)
 * [Dealing with emoji in Clojure](https://grishaev.me/en/emoji/)
 * [Clojure in Highload Cup](https://grishaev.me/en/highload-cup/)
 * [In-Memory SQLite Database In Clojure](https://grishaev.me/en/clj-sqlite/)
@@ -390,6 +391,8 @@ Clojure
 * [Hacking with Handlebars in Java and Clojure: Part II | by Pranav Gajjewar | helpshift-engineering | Aug, 2021 | Medium](https://medium.com/helpshift-engineering/hacking-with-handlebars-in-java-and-clojure-part-ii-c4de51f49815)
 * [A Functional Approach for Problem A of ICPC 2018 World Finals - Flexiana](https://flexiana.com/2021/08/a-functional-approach-for-problem-a-of-icpc-2018-world-finals)
 * [A Catalogue of Chords Example | jpreston.xyz](https://jpreston.xyz/a-catalogue-of-chords-example.html)
+* [6 Years of Professional Clojure. TL;DR Clojure is a great programming… | by Erez Rabih | Jul, 2021 | Nanit Engineering](https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983)
+* [My First Project at Metosin! - Metosin](https://www.metosin.fi/blog/my-first-project-at-metosin/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -1066,6 +1069,7 @@ Clojure
   * [specter-book-code - Source and tests for Extending and Using Specter](https://github.com/marick/specter-book-code)
 * [spectomic - Generate Datomic or Datascript schema from your Clojure(script) specs](https://github.com/Provisdom/spectomic)
 * [spectrum - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time](https://github.com/arohner/spectrum)
+* [split-token: Generating and verifying split tokens with Clojure](https://github.com/miikka/split-token)
 * [spring-boot-bugger: Introduce Clojure and live-coding power to your Spring Boot application!](https://github.com/jaju/spring-boot-bugger)
 * [Spring Cloud - Proof of concept Clojure Implementation of Spring Boot Getting Started](https://github.com/scotthaleen/clojure-spring-cloud)
 * [supdate - a small Clojure/ClojureScript library for transforming nested data structures](https://vvvvalvalval.github.io/supdate)
