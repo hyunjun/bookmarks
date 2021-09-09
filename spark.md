@@ -462,6 +462,7 @@
   * [How I achieved 3x speedup for joins over Spark dataframes](https://medium.com/@cbhaavan/3x-performance-improvement-for-joins-on-spark-dataframe-d79e93a5fc48)
   * [Deep dive into Apache Spark Window Functions | by Neeraj Bhadani | Expedia Group Technology | Medium](https://medium.com/expedia-group-tech/deep-dive-into-apache-spark-window-functions-7b4e39ad3c86)
   * [Making the Spark DataFrame composition type safe(r) | by Iaroslav Zeigerman | Feb, 2021 | Medium](https://izeigerman.medium.com/making-the-spark-dataframe-composition-type-safe-r-7b6fed524ec2)
+  * [How to add row numbers to a Spark DataFrame? | Data Programmers](https://www.datarchy.tech/code/20200820_spark_rows_number/)
 * Datasets
   * [Introducing Spark Datasets](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
@@ -473,7 +474,7 @@
   * [(2) Solution to Spark Auto Schema inference (String) for JSON Array / JSON Object/Record/Row Problem | LinkedIn](https://www.linkedin.com/pulse/spark-auto-schema-inference-json-objects-array-shubham-chakraborty/)
 * DateTime [Deep Dive into Apache Spark DateTime Functions](https://medium.com/expedia-group-tech/deep-dive-into-apache-spark-datetime-functions-b66de737950a)
 * distinct
-  * [동일성, 동등성, Spark의 distinct](https://leeyh0216.github.io/dev/lang/spark/2017/04/30/dev-spark-equals.html)
+  * [~동일성, 동등성, Spark의 distinct~](https://leeyh0216.github.io/dev/lang/spark/2017/04/30/dev-spark-equals.html)
 * groupByKey
   * [Avoid GroupByKey](https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/best_practices/prefer_reducebykey_over_groupbykey.html)
 * HashPartitioner
