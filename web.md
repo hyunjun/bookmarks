@@ -1037,6 +1037,7 @@ Web
   * 코드는 Hello World를 출력하는 정도이지만 Go로 작성한 코드를 컴파일해서 HTML 페이지와 연동해서 불러오는 방법 소개
 * [What Is WebAssembly — and Why Are You Hearing So Much About It? – The New Stack](https://thenewstack.io/what-is-webassembly/)
 * ["네이티브에 가까운 성능" 웹어셈블리 활용한 언어 프로젝트 12선 - CIO Korea](https://www.ciokorea.com/news/206339)
+* [Hit the Ground Running with WebAssembly (How To Start Using WebAssembly In Your Apps) - YouTube](https://www.youtube.com/watch?v=aDAkU1S2JYk)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
