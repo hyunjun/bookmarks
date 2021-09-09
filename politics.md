@@ -441,3 +441,6 @@ Politics
 
 # Denmark
 * [노인을 위한 나라는 있다](http://ppss.kr/archives/48609)
+
+# Germany
+* [굿바이, 메르켈... 주목하지 않은 그의 이야기 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0002772210&SRS_CD=0000012215)
