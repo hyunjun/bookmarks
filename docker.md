@@ -1175,6 +1175,7 @@ Docker
 * [Kui - a terminal with visualizations by and for developers](https://kui.tools/)
 * [Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/)
 * [Lens | The Kubernetes IDE](https://k8slens.dev/)
+  * [Lens 5.2 Released. We are proud to release Lens 5.2… | by Miska Kaipiainen | k8slens | Sep, 2021 | Medium](https://medium.com/k8slens/lens-5-2-released-874af03495de)
 * [localizer: ⛵ A no-frills local development tool for service developers working in Kubernetes](https://github.com/getoutreach/localizer)
 * [maesh - Simpler Service Mesh](https://containo.us/maesh/)
   * [Announcing Maesh, a Lightweight and Simpler Service Mesh Made by the Traefik Team](https://blog.containo.us/announcing-maesh-a-lightweight-and-simpler-service-mesh-made-by-the-traefik-team-cb866edc6f29)
