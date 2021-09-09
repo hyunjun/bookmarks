@@ -279,6 +279,7 @@ Go
   * Swift로 iOS 개발을 하면서 화면 구성에 필요한 다양한 객체들을 매번 만드는 게 번거로움
   * 처음에는 Usecase를 기반으로 필요한 코드와 Spy 객체를 만들어 주는 iGospy를 만들어 사용
   * 그 다음으로 복사 붙이기를 하지 않고 커맨드라인에서 바로 생성하기 Clean Swift Scaffold 작성
+* [Golang: AES-GSM에서 additional data의 활용](https://jusths.tistory.com/233)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
