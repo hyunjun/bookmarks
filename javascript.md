@@ -52,6 +52,7 @@ Javascript
 * [V8 JavaScript Engine 8.0 Reduces Heap by 40%, Adds Optional Chaining and Null Coalescing](https://www.infoq.com/news/2019/12/v8-8-0-heap-reduction/)
 * [자바스크립트와 V8 엔진의 메모리 관리 프로세스. Table of Contents | by Minjae Lee | 네이버 플레이스 개발 블로그 | Sep, 2020 | Medium](https://medium.com/naver-place-dev/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EC%99%80-v8-%EC%97%94%EC%A7%84%EC%9D%98-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EA%B4%80%EB%A6%AC-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-f45091e696e1) OutOfMemory / memory leak 현상 이해
 * [Faster JavaScript calls · V8](https://v8.dev/blog/adaptor-frame)
+* [자바스크립트 성능의 비밀 (V8과 히든 클래스) | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210909)
 * [How JavaScript works: an overview of the engine, the runtime, and the call stack | by Alexander Zlatkov | SessionStack Blog](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
 * [Chromium이 발표한 RenderingNG가 무엇인가? | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210713)
   * Chrome에서 발표한 차세대 렌더링 아키텍처 RenderingNG, 크로스 브라우저 이슈를 최대한 없애고 안정적인 렌더링 성능을 구현하는 것이 목표
@@ -3309,6 +3310,7 @@ Javascript
   * [Next.js 에서 Static 파일 배포. Next.js 에서는 now 라는 자체 배포 플랫폼을 운영하고 있다. | by Ted Park | Medium](https://itstedpark.medium.com/next-js-%EC%97%90%EC%84%9C-static-%ED%8C%8C%EC%9D%BC-%EB%B0%B0%ED%8F%AC-86c9ae0f952f)
   * [Next.js 공식문서 파헤치기(1) - 시작하기](https://xtring-dev.tistory.com/entry/Nextjs-Nextjs-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0)
   * [Next.js 공식문서 파헤치기(2) - 기본개념 "Pages, Pre-Rendering 방식(SSG/SSR)"](https://xtring-dev.tistory.com/entry/Nextjs-Nextjs-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B02-Nextjs%EC%9D%98-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%ED%8A%B9%EC%A7%95)
+  * [Mobile Convergence :: React HH-6 서버 사이드 렌더링 SSR - Next.JS](https://mobicon.tistory.com/583)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
