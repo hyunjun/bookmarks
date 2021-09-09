@@ -647,6 +647,7 @@ Scala
     * [Scala CaseClass에 대한 특징 정리](https://wingnim.tistory.com/111)
     * [Scala Case Class and Case Object In-Depth (Part-1) - JournalDev](https://www.journaldev.com/9733/scala-caseclass-caseobject-part1)
     * [Scala Case Class and Case Object In-Depth (Part-2) - JournalDev](https://www.journaldev.com/12122/scala-caseclass-caseobject-part2)
+    * [Singleton types and case class fields - `F[_]` around and find out #1 - YouTube](https://www.youtube.com/watch?v=xeB6-js0iNw)
   * [**스칼라 클래스의 일반적인 형식화**](https://blog.xxxnell.com/ko/posts/formalization)
 * collection
   * [practice - until & to](https://gist.github.com/hyunjun/3eddbf4ba54b1a603f38e52b78a9b0e6#file-until_to-scala)
@@ -924,6 +925,7 @@ Scala
     * [Part 9 - Effect Tracking - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=xwh0BAJtZFo)
     * [Part 10 - core & persistence - TF to ZIO (The Big Rewrite) - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=-RZk0NGF5BU)
     * [Part 11 - delivery & main - TF to ZIO (The Big Rewrite) - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=wOX3LpLEQ00)
+    * [Part 12 - http4s & skunk - TF to ZIO (The Big Rewrite) - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=nPT_7gIeyMY)
     * [ZIO News - Issue #28 | Revue](https://www.getrevue.co/profile/zio/issues/zio-news-issue-28-654279)
     * [Organizing Services with ZIO and ZLayers - Rock the JVM Blog](https://blog.rockthejvm.com/structuring-services-with-zio-zlayer/)
     * [Home | Ziverge](https://ziverge.com/blog/)
@@ -1863,6 +1865,7 @@ Scala
 * [A quiet, attractive new programming language (Scala 3)](https://alvinalexander.com/scala/scala-3-dotty-0.19-attractive-programming-language)
 * [A Beginner's Guide to Scala 3.0 - Knoldus Blogs](https://blog.knoldus.com/a-beginner-guide-to-scala-3-0/)
 * [Scala 3 Hello, world!](https://softwaremill.com/scala-3-relase/)
+* [Scala 3: What’s Changed Since Scala 3.0.0 | by Dean Wampler | Scala 3 | Sep, 2021 | Medium](https://medium.com/scala-3/scala-3-whats-changed-since-scala-3-0-0-be0830c059f5)
 * [Learn myself some Scala 3, episode 1: metaprogramming – inline](https://heikoseeberger.rocks/2019/06/19/2019-06-19-dotty-1/)
 * [Learn myself some Scala 3, episode 2: extension methods](https://heikoseeberger.rocks/2019/12/04/2019-12-04-dotty-2/)
 * [Learn myself some Scala 3, episode 3: type classes](https://heikoseeberger.rocks/2019/12/10/2019-12-10-dotty-3/)
