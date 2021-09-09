@@ -1104,6 +1104,7 @@ AWS
 * [Amazon S3 Deep Dive (part 1-storage fundamentals) - DEV Community](https://dev.to/aws-builders/amazon-s3-deep-dive-part-1-storage-fundamentals-1f54)
 * [Amazon S3 Deep Dive (part 2-buckets) - DEV Community](https://dev.to/aws-builders/amazon-s3-deep-dive-part-2-buckets-aod)
 * [Amazon S3 Deep Dive (part 3-object) - DEV Community](https://dev.to/aws-builders/amazon-s3-deep-dive-part-3-storage-fundamentals-3mcd)
+* [amazon-s3-plugin-for-pytorch](https://github.com/aws/amazon-s3-plugin-for-pytorch)
 
 # Scala
 * [Using Scala in the Cloud: A Guide to Amazon EC2 Instance Types](https://www.triplequote.com/blog/2019-guide-to-amazon-instances/)
