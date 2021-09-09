@@ -863,6 +863,7 @@ Deep Learning
     * [Introduction](https://nbviewer.jupyter.org/github/Curt-Park/reinforcement_learning_an_introduction/blob/master/ch01_introduction/introduction.ipynb)
     * [Multi-armed bandits](https://nbviewer.jupyter.org/github/Curt-Park/reinforcement_learning_an_introduction/blob/master/ch02_multi-armed_bandits/multi-armed_bandits.ipynb)
   * [Rich Sutton's Talks](http://incompleteideas.net/Talks/Talks.html)
+* [RL: Reinforcement Learning Algorithms](https://github.com/young2code/RL)
 * [TinyML Book](https://tinymlbook.com)
   * [TinyML 세계에 여러분을 초대합니다!](https://brunch.co.kr/@synabreu/97)
 
