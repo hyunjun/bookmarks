@@ -710,6 +710,7 @@ ElasticSearch - Lucene
 * [Balancing an Elasticsearch Cluster by Shard Size](http://engineering.datarank.com/2015/07/08/balancing-elasticsearch-cluster-by-shard-size.html)
 * [내가 운영하는 Elasticsearch 클러스터에 얼마나 많은 샤드가 필요할까?](https://www.elastic.co/kr/blog/how-many-shards-should-i-have-in-my-elasticsearch-cluster)
 * [Implementing a Hot-Warm-Cold Architecture with Index Lifecycle Management](https://www.elastic.co/kr/blog/implementing-hot-warm-cold-in-elasticsearch-with-index-lifecycle-management)
+* [샤드 개수가 성능에 미치는 영향](https://alden-kang.tistory.com/13)
 
 # Solr
 * 번역 Solr vs ElasticSearch
