@@ -104,6 +104,7 @@ Vim
   * [A guide to modern Web Development with (Neo)vim](https://medium.freecodecamp.org/a-guide-to-modern-web-development-with-neo-vim-333f7efbf8e2)
   * [Setup Neovim like an IDE - YouTube](https://www.youtube.com/watch?v=65Wq4fjREUU)
   * [Step Up Your Game with Neovim. Why do I switch to VIM and use Neovim? | by Roderick Samuel Halim | Life At Moka | Medium](https://medium.com/life-at-moka/step-up-your-game-with-neovim-62ba814166d7)
+  * [LunarVim - Installing Rolling Release, Walkthrough, Sample Configuration (IDE for Neovim) - YouTube](https://www.youtube.com/watch?v=NlRxRtGpHHk)
   * [neovim-dot-app - Mac OS X GUI for Neovim](https://github.com/rogual/neovim-dot-app)
   * [nvui: A modern frontend for Neovim](https://github.com/rohit-px2/nvui)
 * [vim plugin to interact with tmux](https://github.com/benmills/vimux)
