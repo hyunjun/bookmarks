@@ -685,6 +685,7 @@ Javascript
 * [깃플 스터디 프로젝트 | Programming Cloud-Native](https://tech.gitple.io/2021/05/03/study-project/) Angular Observable Docker Node-restful node-summarizer
 * [동물상 테스트 - 당신의 얼굴 사진으로 동물상을 확인해보세요](https://open-support.tistory.com/entry/%EB%8F%99%EB%AC%BC%EC%83%81-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%96%BC%EA%B5%B4-%EC%82%AC%EC%A7%84%EC%9C%BC%EB%A1%9C-%EB%8F%99%EB%AC%BC%EC%83%81%EC%9D%84-%ED%99%95%EC%9D%B8%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94)
 * [유니코드 점자로 그래픽 디스플레이 만들기 유니코드 점자 문자로 CLI에서 그래픽을 표시해보자!](https://lazygyu.net/blog/graphic_display_by_braille_pattern)
+* [스타트업의 디자인 시스템 구축 과정 · Present](https://present.do/shows/61346fad5b179c0da7468260) design system
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -1007,6 +1008,9 @@ Javascript
 * [FEConf2020 at Home](https://2020.feconf.kr/)
 * [FEConf Korea - YouTube](https://www.youtube.com/channel/UCWEzfYIpFBIG5jh6laXC6hA/featured)
 * [FE개발자의 성장 스토리 04 : 공동체 FE 온라인 세션 후기 – tech.kakao.com](https://tech.kakao.com/2020/12/23/frontend-growth-04/)
+* [NAVER Tech Talk: FE devtalk 15회 (2019년 9월)](https://d2.naver.com/news/3691882)
+* [NAVER Tech Talk: FE devtalk (2021년 5월)](https://d2.naver.com/news/7589747) 파편화된 UI/UX 컴포넌트들을 일원화 하기 위한 <디자인 시스템> 개발 경험 공유
+* [NAVER Tech Talk: FE devtalk (2021년 8월)](https://d2.naver.com/news/0267195) 디자인 시스템 관련 4가지 발표
 
 # D3 -> [data visualization](data_visualization.md)
 
@@ -2749,9 +2753,6 @@ Javascript
 * [Reconciliation: React의 렌더링 알고리즘](https://www.huskyhoochu.com/virtual-dom)
 * [NAVER Tech Talk: FE devtalk 12회 (2018년 8월)](https://d2.naver.com/news/4244163) redux, mobx & mst
 * [NAVER Tech Talk: FE devtalk 13회 (2018년 12월)](https://d2.naver.com/news/0327037) Polymer, Vue.js, Functional JS
-* [NAVER Tech Talk: FE devtalk 15회 (2019년 9월)](https://d2.naver.com/news/3691882)
-* [NAVER Tech Talk: FE devtalk (2021년 5월)](https://d2.naver.com/news/7589747) 파편화된 UI/UX 컴포넌트들을 일원화 하기 위한 <디자인 시스템> 개발 경험 공유
-* [NAVER Tech Talk: FE devtalk (2021년 8월)](https://d2.naver.com/news/0267195) 디자인 시스템 관련 4가지 발표
 * [How to create a three layer application with React](https://medium.freecodecamp.org/how-to-create-a-three-layer-application-with-react-8621741baca0)
 * [Why Do We Write super(props)?](https://overreacted.io/why-do-we-write-super-props/)
 * [react automata](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180910-20180921/20180913_WJ_react_automata.md)
