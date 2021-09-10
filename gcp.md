@@ -125,6 +125,7 @@ Google Cloud Platform GCP
   * [Adapting to changes of data by building MLOps pipeline in Vertex AI | by Park Chansung | Aug, 2021 | Towards Data Science](https://towardsdatascience.com/adapting-to-changes-of-data-by-building-mlops-pipeline-in-vertex-ai-3f8ebd19a869)
   * [조대협의 블로그 :: Vertex.AI로 파이프라인과 metadata 구현하기](https://bcho.tistory.com/1382)
   * [조대협의 블로그 :: 구글 클라우드 Vertex.AI Model 학습 및 모델 배포&서빙](https://bcho.tistory.com/1383)
+  * [조대협의 블로그 :: Vertex AI : 모델 학습 및 하이퍼 패러미터 튜닝](https://bcho.tistory.com/1384)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
