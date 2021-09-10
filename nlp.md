@@ -1668,6 +1668,7 @@ NLP
 * [Unsupervised Word Segmentation for Neural Machine Translation and Text Generation](https://github.com/rsennrich/subword-nmt)
 * [Combined Quality Estimation and Automatic Post Editing in Machine Translation (기계번역 품질예측과 사후처리의 기술 융합)](https://blog.naver.com/bcj1210/221714284644)
 * [제주어 기계번역 모델과 음성합성 모델에 관한 연구를 소개합니다](https://kakaobrain.com/blog/119)
+* [cjk_trans: Pre-trained Machine Translation Models of Korean from/to ECJ](https://github.com/Kyubyong/cjk_trans)
 * [gtbot - 구글 번역 API를 이용한 슬랙 번역 봇입니다](https://github.com/qodot/gtbot)
 * [LibreTranslate: Free and Open Source Machine Translation API. 100% self-hosted, no limits, no ties to proprietary services. Built on top of Argos Translate](https://github.com/uav4geo/LibreTranslate)
 * [nmtpy - a suite of Python tools, primarily based on the starter code provided in github.com/nyu-dl/dl4mt-tutorial for training neural machine translation networks using Theano](https://github.com/lium-lst/nmtpy)
