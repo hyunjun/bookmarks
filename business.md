@@ -337,6 +337,7 @@ Business
 * ['지속적 학습 문화' 구축법 10가지 - CIO Korea](https://www.ciokorea.com/news/190963)
 * [일잘러 되는 지름길](https://www.bcreator.co.kr/insight-detail/how-to-be-fast/r/rec5xoYxiM0Odcojr)
 * [루틴이 나를 변화시킬 수 있다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241778)
+* [지속할 힘을 주는 루틴 만들기 5가지 방법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/245300)
 * [직원들에게 효과적으로 포상 주는 핵심방법 3가지 포인트 |](http://www.casenews.co.kr/news/articleViewAmp.html?idxno=4302)
 * [회사가 말해주지 않는 승진의 비밀 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241768)
 * [회사 성과는 좋았는데, 인센티브는 왜 이 정도? | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/why-this-is-incentives/)
@@ -671,6 +672,7 @@ Business
 * [성장하는 조직, 성장하는 리더십](https://brunch.co.kr/@coupangdesign/67)
 * [리파운더의 탄생 ··· MS 사티아 나델라 | The Miilk](https://www.themiilk.com/articles/a7b5cf59b/u/84503ea0/a74f7ac3b)
 * [시끌벅적한 사무실 만들기 - Jaehue's](https://jaehue.github.io/post/2021.07.23/) 구체적인 이야기들이 다 마음에 듦
+* [시키느니 답답해서 직접 하고 있다고요? : 네이버 블로그](https://blog.naver.com/hs_group/222002315523) 위임
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
