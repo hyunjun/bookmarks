@@ -1206,3 +1206,4 @@ AWS
 * [공유 VPC와 Amazon의 RabbitMQ – Lamanus' Archive](https://lamanus.kr/92)
 * [AWS VPC Reachability Analyzer - Part 1 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1108)
 * [AWS VPC Reachability Analyzer - Part 2 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1110)
+* [AWS VPC 대역(CIDR)에 대한 라우팅 구체화 설정(Longest Match)](https://zigispace.net/1138)
