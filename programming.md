@@ -309,6 +309,7 @@ Programming
   * [(3) – 다른 팀 소스 코드를 볼 수 있는가?](http://channy.creation.net/blog/1110)
   * [(4) – 사내 라이브러리를 잘 관리하려면?](http://channy.creation.net/blog/1183)
   * [(5) – 소통 비용의 절약: 서로 API로 말하자](http://channy.creation.net/blog/1199)
+* [‘개발문화를 혼자서 바꿀 수 없다’며 포기하기엔 이릅니다 - Dico](https://dico.me/topic/articles/296/ko)
 * [나는 그동안 무엇으로 성장했을까?](http://huns.me/development/2281) 코드 이외의 측면에서 개발에 필요한 분야
 * 쉽게 알아보는 서버 인증
   * [1편(세션/쿠키 , JWT)](http://tansfil.tistory.com/58)
@@ -1091,6 +1092,7 @@ Programming
 * OSM Open Service Mesh [마이크로소프트 오픈 서비스 메시의 이해 - ITWorld Korea](http://www.itworld.co.kr/news/160865)
 * [서비스 메시가 데이터센터 네트워킹에서 중요한 이유 - ITWorld Korea](http://www.itworld.co.kr/news/167165)
 * [Linkerd or Istio?](https://itnext.io/linkerd-or-istio-2e3ce781fa3a)
+* [Service Mesh Ultimate Guide - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2e/)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
 * [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
