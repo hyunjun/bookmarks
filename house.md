@@ -101,6 +101,11 @@ House
 * [기사 - 생중계 인알못의 인테리어 턴키 시공기1 : 서울을 떠나며](https://www.ddanzi.com/ddanziNews/671587897)
 * [보푸라기 아랫집 누수사고 '일배책'으로 보상받자](https://news.v.daum.net/v/20210731100505549) 일상생활배상책임보험
 * [매거진 | 보증금을 지키는 방법, 전세권 설정](https://www.goodchobo.com/magazine/MZTY/529)
+* [부동산 저가매수 타이밍? 이때 사야합니다! - 홍춘욱 - YouTube](https://www.youtube.com/watch?v=Z2d2tQXH5-M)
+  * 주택구입부담지수 역사적평균(서울 120 경기도 80 전국 60)보다 낮은 시기 (2021.09 현재 서울 180)
+  * 준공 후 미분양 감소 시기
+  * 정부가 경기부양하는 시기(e.g. 2014년)
+  * 경매 낙찰가율이 평균보다 낮은 시기(역사적으로 서울 평균 80%인데 현재 120%) https://www.ggi.co.kr/ 낙찰가율
 
 # Library
 * [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)
