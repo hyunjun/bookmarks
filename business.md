@@ -872,6 +872,7 @@ Business
 * [스타트업 인프랩 재무적 Log 2 (Angel ~ Seed) - Hyung Joo](https://www.hyungjoo.me/%ec%9d%b8%ed%94%84%eb%9e%a9-%ec%9e%ac%eb%ac%b4%ec%a0%81-log-2/)
 * [투자를 받지 않고 비상장 상태를 유지한다는 것 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/unlisted20200908)
 * ["사람 좋으면 사업하기 어렵다"는 말, 사실일까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/goodceo20210108)
+* [망했을때 어떻게 할 것인가](https://jojoldu.tistory.com/599)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
