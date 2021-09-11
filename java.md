@@ -1090,6 +1090,7 @@ Java
   * [jmeter를 사용한 가변길이 TCP Binary 패킷 처리 방법](https://newtype.pe.kr/463)
   * [JMeter을 이용해서 웹서버 성능 테스트하기 - YouTube](https://www.youtube.com/watch?v=1AyxqIePusA)
   * [테스트 명장, Apache JMeter](https://jybaek.tistory.com/889)
+  * [JMeter, 부하 테스트!. 안녕하세요, 유니크굿컴퍼니에서 이번 7월에 신입으로 입사한 강현우라고… | by Jason Kang | Uniquegood | Sep, 2021 | Medium](https://medium.com/uniquegood/%EC%86%8C%EA%B0%9C-dc78312c51d3)
 * jobrunr [Distributed Java Background Job Scheduler · JobRunr](https://www.jobrunr.io/en/)
 * [jOOλ - The Missing Parts in Java 8 jOOλ improves the JDK libraries in areas where the Expert Group's focus was elsewhere](https://github.com/jOOQ/jOOL)
 * [JReleaser](https://jreleaser.org/) publish binaries to Homebrew, Scoop, Snapcraft, Chocolatey, among others
