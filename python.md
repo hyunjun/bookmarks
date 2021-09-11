@@ -657,6 +657,8 @@ Python
     * [Arrow: better dates and times for Python](http://arrow.readthedocs.io/)
   * [Delorean: Time Travel Made Easy — delorean 1.0.0 documentation](https://delorean.readthedocs.io/)
     * [Comparing Datetime with Delorean in Python - With and Without Timezones](https://stackabuse.com/comparing-datetime-with-delorean-in-python-with-and-without-timezones/)
+  * [python-holidays: Generate and work with holidays in Python](https://github.com/dr-prodigy/python-holidays)
+    * [Python으로 공휴일 리스트를 만들자](https://velog.io/@vanang7/Python%EC%9C%BC%EB%A1%9C-%EA%B3%B5%ED%9C%B4%EC%9D%BC-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%9E%90)
   * [pytz: pytz Python historical timezone library and database](https://github.com/stub42/pytz)
 * decimal
   * [Question: High Precision Computing in Python or R](https://www.datasciencecentral.com/forum/topics/question-how-precision-computing-in-python)
