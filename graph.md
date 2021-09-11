@@ -56,6 +56,7 @@ Graph
 * [Temporal Graph Networks. A new neural network architecture for… | by Michael Bronstein | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/temporal-graph-networks-ab8f327f2efe)
 * [데이터 모델링이란? (그래프 DB 편)](https://bitnine.tistory.com/447)
 * [방대하고 복잡한 데이터를 시각화하는 그래프 DB](https://brunch.co.kr/@synabreu/146)
+* [Graph Databases VS Relational Databases – Learn How a Graph Database Works](https://www.freecodecamp.org/news/graph-database-vs-relational-database/)
 
 # book
 * [Applications of Graph Theory - Shariefuddin Pirzada and Ashay Dharwadker](http://www.dharwadker.org/pirzada/applications/)
