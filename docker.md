@@ -1039,6 +1039,7 @@ Docker
 * [Kubernetes 실습 과제 리스트](https://jerryljh.tistory.com/50)
 * [Alpha in Kubernetes v1.22: API Server Tracing | Kubernetes](https://kubernetes.io/blog/2021/09/03/api-server-tracing/)
 * [Native-k8s(Ubuntu) - Sep 07 2021 - k8s](https://sysnet4admin.gitbook.io/k8s/version/native-k8s-ubuntu-sep-07-2021)
+* [Setting and Rightsizing Kubernetes Resource Limits | Best Practices](https://www.containiq.com/post/setting-and-rightsizing-kubernetes-resource-limits)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1318,6 +1319,7 @@ Docker
 ## Library docker alternative
 * [An Overview of Docker Desktop Alternatives](https://matt-rickard.com/docker-desktop-alternatives/)
 * [How Docker broke in half | InfoWorld](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html)
+* [유료화 정책 단행이 예정된 Windows용 도커 데스크톱을 대체할 수 있는 방법을 알아봅니다. | WSLHUB](https://blog.wslhub.com/%EC%9C%A0%EB%A3%8C%EB%A1%9C-%EC%A0%84%ED%99%98%EB%90%98%EB%8A%94-%EB%8F%84%EC%BB%A4-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EB%8C%80%EC%95%88-%EC%B0%BE%EA%B8%B0-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%82%AC%EC%9A%A9%EC%9E%90-74f1a261eb32)
 * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [containerd: An open and reliable container runtime](https://github.com/containerd/containerd)
 * [lima: Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)](https://github.com/lima-vm/lima)
