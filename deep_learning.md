@@ -156,6 +156,7 @@ Deep Learning
   * [multiprocessing에서 gym이 오작동하는 경우](https://ysr-plus-ultra.github.io/posts/2019/07/30/post004.html)
   * [OpenAI's Jukebox has a Colab Notebook for interacting with it!](https://colab.research.google.com/github/openai/jukebox/blob/master/jukebox/Interacting_with_Jukebox.ipynb)
   * [OpenAI Model Generates Python Code - YouTube](https://www.youtube.com/watch?v=fZSFNUT6iY8)
+  * [Trending use cases of GPT-3 by openAI | by Anjali | Eoraa & Co. | Aug, 2021 | Medium](https://medium.com/eoraa-co/trending-use-cases-of-gpt-3-by-openai-56318b6a9184)
   * [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
   * [OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
     * [OpenAI Baselines: DQN](https://blog.openai.com/openai-baselines-dqn/)
