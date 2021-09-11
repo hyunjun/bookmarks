@@ -369,6 +369,7 @@ Clojure
 * [An Architect's View: deps.edn and monorepos V (Polylith)](https://corfield.org/blog/2021/08/25/deps-edn-monorepo-5/)
 * [Using Hue connected lights and temp sensors to preview today's weather! | Medium](https://weakreference.medium.com/shorts-or-jeans-revisited-e2fc7f9c9559)
 * [Fibonacci Numbers in the Real World](https://lee-phillips.org/lispmath/)
+* [tammy makes things: The Fibonacci Sequence in Clojure](https://tammymakesthings.com/posts/2020-05-06-fibonacci-sequence-in-clojure/)
 * [Once Upon a Class](https://danielsz.github.io/blog/2021-05-12T13_24.html)
 * [Learn AST - Clojure – Nextjournal](https://nextjournal.com/learn-ast-with-clojure/20210524)
 * [What I learned launching my first product, part 1 - Startup in a Month](https://startupinamonth.net/what-i-learned-pt-1/)
@@ -393,6 +394,7 @@ Clojure
 * [A Catalogue of Chords Example | jpreston.xyz](https://jpreston.xyz/a-catalogue-of-chords-example.html)
 * [6 Years of Professional Clojure. TL;DR Clojure is a great programming… | by Erez Rabih | Jul, 2021 | Nanit Engineering](https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983)
 * [My First Project at Metosin! - Metosin](https://www.metosin.fi/blog/my-first-project-at-metosin/)
+* [Reflective Towers of Interpreters | SIGPLAN Blog](https://blog.sigplan.org/2021/08/12/reflective-towers-of-interpreters/)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -1296,6 +1298,7 @@ Clojure
 * [Onboarding for New Clojurians - Athens Research Handbook](https://athensresearch.gitbook.io/handbook/main-stuff/learning-at-athens-academy-education/clojure/onboarding-for-new-clojurians)
 * [(번역) 클로저, 지금 바로 시작합시다! - 1부 | 그린랩스](https://green-labs.github.io/start-your-clojure-project-now-1)
 * [(번역) 클로저, 지금 바로 시작합시다! - 2부 | 그린랩스](https://green-labs.github.io/start-your-clojure-project-now-2)
+* [the Clojure language - YouTube](https://www.youtube.com/playlist?list=PLAC43CFB134E85266)
 
 # Vim
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
