@@ -910,6 +910,7 @@ SQL
 * [index 의 중요성과 이해 SQL 독학 강의#24편](https://stricky.tistory.com/310)
 * [view 뷰에 대한 이해 SQL 독학 강의#25편](https://stricky.tistory.com/323)
 * [주문 고객 상품 테스트용 데이터 생성 및 다운로드](https://stricky.tistory.com/230)
+* [프로그래머스 SQL 코딩 테스트 select 문제 풀이](https://stricky.tistory.com/505)
 * [SQL Correlated Subqueries - GeeksforGeeks](https://www.geeksforgeeks.org/sql-correlated-subqueries/)
 * [Rain in Australia 캐글 날씨 데이터셋 다운로드 받아 mysql에 넣는 방법](https://stricky.tistory.com/448) DDL Datagrip
 * [초보자도 준비하는 SQL 코딩 테스트 시리즈를 마치며...](https://wonit.tistory.com/448)
