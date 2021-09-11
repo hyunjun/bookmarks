@@ -1134,6 +1134,7 @@ Clojure
 * [clojure-graalvm-native-binary.md at master · BrunoBonacci/graalvm-clojure](https://github.com/BrunoBonacci/graalvm-clojure/blob/master/doc/clojure-graalvm-native-binary.md)
 * [clojure-rust-graalvm: An example of Clojure program calling a Rust library, all combined into one executable using GraalVM](https://github.com/borkdude/clojure-rust-graalvm)
 * [datalevin/native at master · juji-io/datalevin](https://github.com/juji-io/datalevin/tree/master/native)
+* [graal-build-time: Library to initialize Clojure packages at build time with GraalVM native-image](https://github.com/clj-easy/graal-build-time)
 * [graalvm-clojure: This project contains a set of "hello world" projects to verify which Clojure libraries do actually compile and produce native images under GraalVM](https://github.com/BrunoBonacci/graalvm-clojure)
 * [jayfu: Jayfu is a tutorial on how to create a Clojure CLI with GraalVM native-image and SCI](https://github.com/borkdude/jayfu)
 * [lucene-grep: Grep-like utility based on Lucene Monitor compiled with GraalVM native-image](https://github.com/dainiusjocas/lucene-grep)
@@ -1299,6 +1300,7 @@ Clojure
 * [(번역) 클로저, 지금 바로 시작합시다! - 1부 | 그린랩스](https://green-labs.github.io/start-your-clojure-project-now-1)
 * [(번역) 클로저, 지금 바로 시작합시다! - 2부 | 그린랩스](https://green-labs.github.io/start-your-clojure-project-now-2)
 * [the Clojure language - YouTube](https://www.youtube.com/playlist?list=PLAC43CFB134E85266)
+* [clj-easy/about](https://github.com/clj-easy/about)
 
 # Vim
 * [CLOJURE AND VIM: AN OVERVIEW](https://juxt.pro/blog/posts/vim-1.html)
