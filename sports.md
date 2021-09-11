@@ -116,6 +116,7 @@ Sports
 * [나는 네가 다음 시즌에 잡을 삼진 개수를 알고 있다](http://www.yagongso.com/?p=9317) decision tree, random forest,...
 * [와인드업, 꼭 해야 할까?](http://www.yagongso.com/?p=9711) 고정관념에서 벗어나야 한다는 걸 다시 한 번 생각하게 하는 글
 * [토론토의 데이터 야구! 무엇이 달라졌을까 | 이승용 - YouTube](https://www.youtube.com/watch?v=oHmfE0cnsUU) Darren Willman: 야구선수 + 컴퓨터공학 스탯캐스트, 베이스볼서번트
+* [KBO 리그 포스트시즌 진출 확률을 제공하는 사이트를 개설했습니다. > 국내야구 | 야구토크](https://yagutalk.com/k_free/13163)
 
 # Basketball
 * [**Basketball Terms- Terminology**](https://www.coachesclipboard.net/BasketballTerminology.html) diagram으로 court위 명칭 설명
@@ -163,6 +164,7 @@ Sports
 * [214. Arte de lo Clasico 바르셀로나에 참패를 당한 레알 마드리드](https://1boon.daum.net/kalka/kalka181031) 미술과 축구를 연결해 그린 편
 * [스포츠 빅데이터② 4부에서 1부로..빅데이터의 마법](https://sports.v.daum.net/v/20181129203152987)
 * [**한준의 축구환상곡 "선수 탓하면 아마추어" 한국 지도자에 노하우 전수한 '저승사자' 레이몬드**](https://sports.v.daum.net/v/20191212181257725) 축구 레퍼런스에 대해 언급하는 부분이 정말 인상적, 축구 외의 일반적인 영역에도 적용 가능
+* [분데스리가 '2021-22 시즌', 인공지능이 펼치는 실시간 통계와 데이터 분석 플랫폼으로 더 흥미롭게 즐긴다! < 솔루션 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=22444)
 
 # NFL
 * [How to predict NFL Winners with Python. Follow along the steps](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/)
