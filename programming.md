@@ -961,6 +961,7 @@ Programming
   * "서비스"는 독립적이어야 함. 다른 "서비스"에 의존하면 안 됨
   * Architects shouldn't do architecture, spread knowledge about ... and make stakeholders use the knowledge, teams define the architecture
 * [Software Architecture and Design - YouTube](https://www.youtube.com/playlist?list=PL4JxLacgYgqTgS8qQPC17fM-NWMTr5GW6) 다양한 주제에 대한 짧은 설명들
+* [**End to End Design of food delivery app (Zomato or Swiggy) | by Ravinder Singh Sengar | Aug, 2021 | Medium**](https://medium.com/@ravindersengar/end-to-end-design-of-a-food-delivery-app-like-zomato-or-swiggy-52b96f3a635f)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
