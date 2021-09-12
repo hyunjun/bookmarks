@@ -709,6 +709,7 @@ Java
 * [Java 16 Record to Reduce Boilerplate Code of POJO | CodersTea](https://www.coderstea.com/post/java/java-16-record-to-reduce-boilerplate-code-of-pojo/)
 * [What's New in Java 16 - YouTube](https://www.youtube.com/watch?v=OIi6gbc7BaE)
   * [What's New in Java 16](https://www.infoq.com/articles/java-16-new-features/)
+* [자바 9 - 16 주요 특징 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/java-9-16-features)
 
 # Java17
 * [자바 17이 다가오면... - DEV Community](https://dev.to/composite/17-62e)
