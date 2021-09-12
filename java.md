@@ -674,6 +674,7 @@ Java
 * [OpenJDK 11, tools of the trade](https://blog.frankel.ch/openjdk-11-tools-trade/) jps, jinfo, jmap, jstack, jconsole
 * [A Year with Java 11 in Production!](https://www.infoq.com/presentations/java-11-production-story/)
 * [Java 8에서 Java 11로 전환 - Azure | Microsoft Docs](https://docs.microsoft.com/ko-kr/azure/developer/java/fundamentals/transition-from-java-8-to-java-11) jdeprscan jdeps
+* [The Things I Love and Use from Java 11 - CodersTea](https://www.coderstea.com/post/java/the-things-i-love-and-use-from-java-11/)
 
 # Java12
 * [Teeing Collector in Java 12](http://blog.codefx.org/java/teeing-collector/)
