@@ -1201,6 +1201,7 @@ Clojure
 * [would clojure.test benefit from `(defmethod assert-expr thrown-with-data? ...)` - Clojure Q&A](https://ask.clojure.org/index.php/10468/would-clojure-test-benefit-from-defmethod-assert-expr-thrown)
 * [Clojure: automated property-based tests for complicated inputs | by Yulia Kleb | AppsFlyer | Medium](https://medium.com/appsflyer/clojure-automated-property-based-tests-for-complicated-inputs-786de23de8f0)
 * [Clojure test coverage with Eftest and Cloverage | Andrey Bogoyavlensky](https://bogoyavlensky.com/blog/eftest-cloverage/)
+* [Inline unit tests in Clojure](http://johannes.tax/Inline_unit_tests_in_Clojure.html)
 * [bond: spying for tests](https://github.com/circleci/bond)
 * [cprop-order - Test load-config order](https://github.com/eunmin/cprop-order)
 * [endpoint-check](https://github.com/k8s-study/endpoint-check/blob/master/README.md) ping test micro service 를 clojure httpkit 으로 구현, Kubernetes로 배포
