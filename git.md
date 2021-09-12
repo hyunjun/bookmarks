@@ -999,3 +999,8 @@ Git
 * [Git 기반의 오픈소스 프로젝트 개발 실습](http://www.kocw.net/home/search/kemView.do?kemId=1352154)
 * [GitHub에서 커뮤니티 기반 소프트웨어 프로젝트 빌드 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/paths/build-community-driven-projects-github/)
 * [Git and GitHub Tutorial for Beginners - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/09/git-and-github-tutorial-for-beginners/)
+* [Git and GitHub: The Complete Guides - Chapter 1 - DEV Community](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-1-23cp)
+* [Git and GitHub: The Complete Guides - Chapter 1 (Extended) - DEV Community](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-1-extended-279f)
+* [Git and Github: The Complete Guides - Chapter 2 - DEV Community](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-2-559)
+* [Git and GitHub: The Complete Guides - Chapter 3 - DEV Community](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-3-4ac6)
+* [Git and GitHub: The Complete Guides - Chapter 4 - DEV Community](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-4-a00)
