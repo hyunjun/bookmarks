@@ -90,6 +90,7 @@ Writing
 * [내가 전자책부터 쓴 이유 + 실행 방법 - 업플라이 #Upfly](https://www.upfly.me/blog/why-ebook-is-good-and-how-to-publish-one-yourself)
 * [생산적 글쓰기를 위한 좋은 메모법](https://brunch.co.kr/@graypool/61)
 * [강력한 비즈니스 글쓰기의 과학 | 자기계발 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/6_1/article_no/1739)
+* [주니어 개발자가 처음 책 출판해본 썰.txt - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/09/12/Review-of-Book-Publication.html)
 
 # Book
 * [더북(TheBook): 스타일과 목적을 살리는 웹 글쓰기](https://thebook.io/006745/) 1~4장만
