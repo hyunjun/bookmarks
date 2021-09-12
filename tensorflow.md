@@ -237,9 +237,6 @@ TensorFlow
 * [Chainer, MXNet, CNTK, TF benchmarking](https://tensorflow.blog/2017/02/13/chainer-mxnet-cntk-tf-benchmarking/)
 * [Performance of Distributed Deep Learning using ChainerMN](http://chainer.org/general/2017/02/08/Performance-of-Distributed-Deep-Learning-Using-ChainerMN.html)
 * [NCCL을 이용한 Efficient한 Tensorflow MultiGPU Training 코드 작성하기](http://openresearch.ai/t/nccl-efficient-tensorflow-multigpu-training/159)
-* [Android에서 TensorFlow 실행하기](http://www.kmshack.kr/2017/03/android%EC%97%90%EC%84%9C-tensorflow-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/)
-* [Tensorflow로 학습한 모델을 Android 앱으로 만들기](http://blog.naver.com/cenodim/220968116373)
-* [E2E tf.Keras to TFLite to Android](https://medium.com/@margaretmz/e2e-tfkeras-tflite-android-273acde6588)
 * [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
 * [Boost Python으로 Tensorflow에서 C++ API 사용하기](http://blog.naver.com/atelierjpro/220965203959)
 * [Tensorflow1.0 에 있는 wide_n_deep_tutorial.py 를 분석해 보았습니다](https://github.com/SSaMKJ/study201702/blob/master/com/ssamkj/py/wide_n_deep/notebook/wide_n_deep_tutorial.ipynb)
@@ -537,6 +534,13 @@ TensorFlow
 * [Getting Your Hands Dirty with TensorFlow 2.0 and Keras API](https://morioh.com/p/e793973a007e)
 * [ReXNet-TF2: TensorFlow implementation of "ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network"](https://github.com/YeongHyeon/ReXNet-TF2)
 * [tf2-reformer: Reproducing the reformer with tf2](https://github.com/domyounglee/tf2-reformer)
+
+# Android
+* [Android에서 TensorFlow 실행하기](http://www.kmshack.kr/2017/03/android%EC%97%90%EC%84%9C-tensorflow-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/)
+* [Tensorflow로 학습한 모델을 Android 앱으로 만들기](http://blog.naver.com/cenodim/220968116373)
+* [E2E tf.Keras to TFLite to Android](https://medium.com/@margaretmz/e2e-tfkeras-tflite-android-273acde6588)
+* [Human Activity Recognition using LSTMs on Android — TensorFlow for Hackers (Part VI)](https://medium.com/@curiousily/human-activity-recognition-using-lstms-on-android-tensorflow-for-hackers-part-vi-492da5adef64)
+* [텐서플로 라이트를 활용한 안드로이드 딥러닝 - 더 작고, 더 가벼운, 모바일, 에지 기기용 머신러닝 – Sangkon, Han – 개발자; 읽고 생각하고 쓰고 회고하고 정리한다.](https://sigmadream.github.io/Android_Deep_Learning_with_TensorFlow_Lite/)
 
 # Book
 * [A Curated List Of Dedicated Resources- TensorFlow Books](https://www.techleer.com/articles/401-a-curated-list-of-dedicated-resources-tensorflow-books/)
@@ -987,7 +991,6 @@ TensorFlow
 * [A noob’s guide to implementing RNN-LSTM using Tensorflow](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
 * [LSTM을 텐서플로우 안 쓰고 행렬 연산으로 직접 구해보기](https://notebooks.azure.com/hoyean-song/libraries/tensorflow-tutorial/html/LSTM%20breakdown.ipynb)
 * [LSTM by Example using Tensorflow](https://medium.com/towards-data-science/lstm-by-example-using-tensorflow-feb0c1968537)
-* [Human Activity Recognition using LSTMs on Android — TensorFlow for Hackers (Part VI)](https://medium.com/@curiousily/human-activity-recognition-using-lstms-on-android-tensorflow-for-hackers-part-vi-492da5adef64)
 * [Introduction to LSTMs with TensorFlow](https://www.oreilly.com/ideas/introduction-to-lstms-with-tensorflow)
 * [An Introduction to LSTMs in Tensorflow](https://www.youtube.com/watch?v=l4X-kZjl1gs)
 * [Sequence Tagging with Tensorflow - bi-LSTM + CRF with character embeddings for NER and POS](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)
