@@ -723,6 +723,8 @@ Business
 * [공유경제와 Mobile On-Demand Economy, 그리고 ‘부스러기 경제’](http://verticalplatform.kr/archives/4375)
 * [‘배달앱’을 둘러싼 혁신·원죄·오해·공포](http://ppss.kr/archives/30822)
 * [airbnb 같은 앱 개발 을 생각하고있다면, 혹은 의뢰를 받았다면](https://blog.naver.com/chowin21/221164195864)
+* [**모바일 서비스를 위한 다양한 지표**](https://lumiamitie.github.io/data/various-metrics-mobile-service/)
+  * DAU & MAU, Stickiness, Retention Rate, CPA, Average daily sessions per DAU, Lifetime Value, ARPU, ARPPU, ROI (& ROAS), App load time (& Web Vitals), User Satisfaction, Goal Achievement, Marketing Acquisition, Behavior flow rate
 
 # OKR, Objective Key Results
 * [목표 설정 Framework, OKR](https://brunch.co.kr/@jjollae/8)
