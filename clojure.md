@@ -150,6 +150,7 @@ Clojure
 * [Clojure programs versus Java](https://benchmarksgame.alioth.debian.org/u64q/clojure.html) source code included
 * [Hyperpolyglot Lisp: Common Lisp, Racket, Clojure, Emacs Lisp](http://hyperpolyglot.org/lisp)
 * [deftype vs defrecord](http://www.lispcast.com/deftype-vs-defrecord)
+* [Clojure deftype with `unsynchronized-mutable` | Dainius Jocas](https://www.jocas.lt/blog/post/deftype-unsynchronized-mutable/)
 * [Down the rabbit hole with Clojure, defrecord, and macros - DEV Community](https://dev.to/hlship/down-the-rabbit-hole-with-clojure-defrecord-and-macros-3aal)
 * [choosing type forms 2](https://chasemerick.files.wordpress.com/2011/07/choosingtypeforms2.png)
 * [Ubuntu to deploy from Dockerfile. clojure. \*.jar. or something like that](https://medium.com/@itstedpark/ubuntu-to-deploy-from-dockerfile-clojure-jar-or-something-like-that-7d7233bc695a)
