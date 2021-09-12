@@ -239,6 +239,7 @@ Algorithm
 * [알고리즘과 자료구조를 우선적으로 공부할 필요는 없습니다. | overcurried](https://overcurried.com/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EB%A5%BC%20%EC%9A%B0%EC%84%A0%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EA%B3%B5%EB%B6%80%ED%95%A0%20%ED%95%84%EC%9A%94%EB%8A%94%20%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4./)
 * [알도개 무한 루프에 빠진 개발자 논쟁 시리즈: 1편 알고리즘과 자료 구조](https://jhrogue.blogspot.com/2021/09/1.html)
   * [알도개 무한 루프에 빠진 개발자 논쟁 시리즈: 1편 알고리즘과 자료 구조 - YouTube](https://www.youtube.com/watch?v=nErTRDPToSA)
+* [가희배 코테에 나온 수인분당선 문제를 세팅한 이야기](https://codingdog.tistory.com/597)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
