@@ -165,3 +165,4 @@ Azure
 * [Deploying a Machine Learning Model with Azure ML Pipelines](https://vladiliescu.net/deploying-models-with-azure-ml-pipelines/)
 * [애저듣보잡 자동화된 ML, 나도 해보자! - 한석진 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WksTnqh1hl0iygROuE7N7Qwf)
 * [What’s like doing ML without a single line of code](https://drive.google.com/file/d/13PeCaO7iu5Aeun1Irk_lGtDH920ask2L/view)
+* [AI Show | Channel 9](https://channel9.msdn.com/Shows/AI-Show)
