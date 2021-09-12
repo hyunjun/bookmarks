@@ -124,6 +124,9 @@ Book
   * ★★★☆☆ 2021.08.27
   * 2003~5년에 쓴 글이라 좀 예전 얘기들이 많긴 하지만, 어떤 이야기들은 여전히 요즘과도 맞닿아있다(고령화, 온난화 등)
   * 이공계 출신이라 오히려 생각의 폭이 제한되는 경우도 있다(프로듀서나 작가가 과학적으로는 전혀 말도 안 되는 결말을 만드는데 그게 재미있고 기발했다고 씀)는 글이 가장 공감이 간다
+* [잘 지내나요? 도쿄책방](http://www.thanksbooks.com/site/thanksbooks/index.php/weekly/oktokyobookstore/)
+  * 2021.09.11 훑어보기만 함
+  * [비즈니스는 그저 물건의 거래가 아닙니다. 상대방에게 즐거움을 전하는 것이 아주 중요하죠](images/tokyobookstore.jpeg)
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
@@ -331,6 +334,8 @@ Book
 * (NOT YET) 박시백의 조선왕조 실록
 * (NOT YET) 본격 한중일 세계사 (굽시니스트)
 * (NOT YET) [마지막으로 읽는 세계사 책](https://brunch.co.kr/@taeherself/248)
+* (NOT YET) 세계사를 바꾼 37가지 물고기 이야기 [청어와 대구, 이 두 물고기가 세계사를 바꾸다](https://brunch.co.kr/@kwansooko/79)
+* (NOT YET) [메트로폴리스 인간의 가장 위대한 발명품, 도시의 역사로 보는 인류문명사](https://blog.naver.com/ljp0511/222319487972)
 
 # [Hoshino Michio](https://www.michio-hoshino.com/)
 * 알래스카, 바람 같은 이야기
@@ -565,3 +570,12 @@ Book
   * ★★★★☆ 2018.06.15
   * 이탈리아의 여러 도시들을 잘 소개했다. 꼭 소도시만 나온 건 아니지만, 로마나 밀라노, 나폴리 등을 제외하면 여행갈만한 대부분의 이탈리아 도시는 다 소개한 거 같다. 책이 특별히 잘 씌여진 건 아니지만, 개인적인 추억이 합쳐져서 참 맘에 든다. 다시 갈 일이 생긴다면 또 한 번 읽게 될 듯
 * (NOT YET) [모든 요일의 여행 – 김민철](https://www.artinsight.co.kr/news/view.php?no=42660)
+* (NOT YET) [로마를 제대로 여행하는 법 - <나의 로망, 로마>](https://blog.naver.com/sigongbooks/221570346390)
+* (NOT YET) [<아이여행 가이드북> 아이와 함께 국내여행, 체험할만한 곳](https://blog.naver.com/indiecat/222010906974)
+  * [제주도](images/jeju_child.jpeg)
+* (NOT YET) 예스 키즈존 전국 여행지 300(노키즈존 걱정 없는)
+* (NOT YET) [아이가 잘노는 여행지](https://blog.naver.com/twin_couple/221249140727)
+* (NOT YET) [집에서 찾아가는 서울의 보물](https://blog.naver.com/steady_js/222118218106)
+* (NOT YET) [특별하게 제주 당신이 꿈꾸는 특별한 제주 여행](https://blog.naver.com/discoverymedia/221486094414)
+* (NOT YET) 특별하게 제주 :SNS 속 핫 스폿부터 SNS에 없는 히든 스폿까지
+* (NOT YET) [송일준 PD 제주도 한 달 살기](http://www.jejuilbo.net/news/articleView.html?idxno=164569)
