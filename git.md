@@ -174,6 +174,7 @@ Git
 * [GPG(GNU PG)를 이용해 git 커밋에 서명하는 방법 | 44BITS](https://www.44bits.io/ko/post/add-signing-key-to-git-commit-by-gpg)
 * [git 다중 사용자 신원 설정](http://jhrogue.blogspot.com/2020/04/5-git.html)
 * [How to Work with GitHub and Multiple Accounts](https://gist.github.com/JoaquimLey/e6049a12c8fd2923611802384cd2fb4a)
+* [여러 깃헙 계정을 SSH 방식으로 사용하는 방법 :: 시행착오를 줄이는 방법](https://dataportal.kr/7)
 * [Setting Up Git Identities](https://www.micah.soy/posts/setting-up-git-identities/)
 * [**10 Extraordinary GitHub Repos for All Developers**](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0)
 * [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
