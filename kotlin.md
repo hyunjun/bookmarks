@@ -261,6 +261,8 @@
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
 * [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
 * [FlameViewer - Tool for flamegraphs visualization](https://github.com/kornilova203/FlameViewer)
+* [GlideModelLoaderSample](https://github.com/Pluu/GlideModelLoaderSample)
+  * [Pluu Dev - Glide 요청 가로채기](http://pluu.github.io/blog/android/2021/09/12/glide-modelloader/)
 * [javalin - A simple web framework for Java and Kotlin](https://javalin.io)
   * [javalin - A simple and modern Java and Kotlin web framework https://javalin.io ](https://github.com/tipsy/javalin)
   * [Javalin : 자바와 코틀린을 위한 경량 웹 프레임워크 리뷰](https://www.popit.kr/javalin-자바와-코틀린을-위한-경량-웹-프레임워크-리뷰/)
