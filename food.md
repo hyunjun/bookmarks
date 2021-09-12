@@ -87,6 +87,7 @@ Food
 * [일제는 과연 우리 술을 탄압하였는가?](http://ppss.kr/archives/50716)
 * [From the crack cocaine of its day to craft gin](http://www.economist.com/blogs/prospero/2015/08/history-alcohol?fsrc=scn/tw/te/bl/ed/fromthecrackcocaineofitsdattocraftgin)
 * [::술마켓:: SOOLMARKET : 이것이 우리들의 술이다! 모든 전통주 한번에 배송](https://soolmarket.com/)
+* [동료이자 동업자며 친구인, 술 빚는 시어머니와 며느리 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002772274)
 
 ## 막걸리
 * [카바이드 막걸리의 불편한 진실](http://ppss.kr/archives/40821)
