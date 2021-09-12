@@ -113,6 +113,7 @@ Flutter
 * [네이티브 개발자와 함께하는 피드 서비스 설계하기. 백엔드 개발자와 네이티브 개발자가 함께 피드 서비스를 개발한다는 것은… | by Hyeonsu Ha | 당근마켓 팀블로그 | Jun, 2021 | Medium](https://medium.com/daangn/%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%99%80-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%ED%94%BC%EB%93%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%A4%EA%B3%84%ED%95%98%EA%B8%B0-6c5a5aa2b11f)
 * [당근런치를 만들어봤어요. 뚠뚠이들아 밥먹자 칙칙폭폭 | by Hyeonsu Ha | 당근마켓 팀블로그 | Jun, 2021 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%9F%B0%EC%B9%98%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%A4%EC%96%B4%EC%9A%94-18c368552da6)
 * [백엔드 개발자의 flutter 개발기. ‘피커부’ 라는 애플리케이션을 flutter로 개발한 후기입니다. | by NAMKYU PARK | Aug, 2021 | Medium](https://trialxxerror.medium.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-flutter-%EA%B0%9C%EB%B0%9C%EA%B8%B0-b5657a66738)
+* [Flutter 2.5 Recap in 6 Minutes - YouTube](https://www.youtube.com/watch?v=7l3uIqnPhf8)
 
 # Dart
 * [awesome-dart: A curated list of awesome Dart frameworks, libraries, and software](https://github.com/yissachar/awesome-dart)
