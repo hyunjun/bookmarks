@@ -2242,6 +2242,7 @@ Python
 * [(동영상) T24 장고(Django) 01강 웹프로그래밍과 Django](https://gcamp.tistory.com/572?category=817332)
 * [카카오톡 같은 채팅 시스템 데이터베이스 설계, 구현, 테스트 코드 만들어보기 - 구영민의 개발 블로그](https://youngminz.netlify.app/posts/django-1-to-1-chat-service)
 * [How to Write Complicated Queries in Django With F Expressions - YouTube](https://www.youtube.com/watch?v=zhejsCxIVro)
+* [How to Perform Full Text Searches in Django With Postgres - YouTube](https://www.youtube.com/watch?v=139a0fm0YFY)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Doctor - Django code improvement bot](https://django.doctor/challenge)
