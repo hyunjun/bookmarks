@@ -47,6 +47,7 @@ Programmer
 * [좋은 엔지니어가 되기 위해 필요한 조건들](https://www.youtube.com/watch?v=l143ua2Hv6E) Starbucks Principle Enginner 오창호님
 * [코더 | Human-Computer Symbiosis](https://sangminpark.blog/2021/05/11/%ec%bd%94%eb%8d%94/) 잘하는 개발자의 조건
 * [쉽게 살 수 있을까 ? :: 소프트웨어 개발자가 되기 위해 발을 내딛으신 분들에게](https://hl1itj.tistory.com/230)
+* [문제 해결 능력에 앞서 문제 정의 능력이 중요하다. - F-Lab](https://blog.f-lab.kr/2021/09/12/problem-definition.html)
 * [개발직군이 놓쳐서는 안될10가지 (Developer attitude)](https://www.slideshare.net/visualkhh/10-developer-attitude) 개발외에 주의해야할 점
 * [Amazon을 이끄는 기술 구루 – Distinguished Engineers](http://channy.creation.net/blog/1270)
 * [‘Go to guy’: 회사에서 가장 인정 받는 인재](http://www.andrewahn.co/silicon-valley/go-to-guy/)
