@@ -1173,7 +1173,18 @@ Machine Learning
 * [칼럼ㅣAI 프로젝트 악순환 고리 끊어라··· 'ML옵스' 마인드셋이 필요한 이유 - CIO Korea](https://www.ciokorea.com/news/202454)
 * [MLOps And Machine Learning Roadmap - KDnuggets](https://www.kdnuggets.com/2021/08/mlops-machine-learning-roadmap.html)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
-* [MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+* **[MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+  * [MLOps Basics Week 0: Project Setup – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-project-setup-part1) 프로젝트 설정
+  * [MLOps Basics Week 1: Model Monitoring - Weights and Bias – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-wandb-integration) 모델 모니터링 - 웨이트와 편견
+  * [MLOps Basics Week 2: Configurations - Hydra – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-hydra-config) 구성 - 하이드라
+  * [MLOps Basics Week 3: Data Version Control - DVC – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-dvc) 데이터 버전 제어 - DVC
+  * [MLOps Basics Week 4: Model Packaging - ONNX – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-onnx) 모델 포장 - ONX
+  * [MLOps Basics Week 5: Model Packaging - Docker – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-docker) 모델 포장 - Docker
+  * [MLOps Basics Week 6: CI/CD - GitHub Actions – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-github-actions) CI / CD - GitHub 액션
+  * [MLOps Basics Week 7: Container Registry - AWS ECR – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-container-registry) 컨테이너 레지스트리 - AWS ECR
+  * [MLOps Basics Week 8: Serverless Deployment - AWS Lambda – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-serverless) 서버리스 배치 - AWS Lambda
+  * [MLOps Basics Week 9: Prediction Monitoring - Kibana – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-monitoring) 예측 모니터링 - 키바나
+  * [MLOps Basics Week 10: Summary – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-summary) 요약**
 * [MLOps NYC](https://www.mlopsnyc.com)
   * [MLOps Tooling](https://toddmorrill.github.io/blog/2019/10/05/MLOps-tooling)
 
