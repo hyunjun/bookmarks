@@ -1305,6 +1305,7 @@ Clojure
 * [(번역) 클로저, 지금 바로 시작합시다! - 2부 | 그린랩스](https://green-labs.github.io/start-your-clojure-project-now-2)
 * [the Clojure language - YouTube](https://www.youtube.com/playlist?list=PLAC43CFB134E85266)
 * [Clojure Tutorial for Beginners 1 | Abhinav Omprakash](https://www.abhinavomprakash.com/posts/clojure-tutorial-for-beginners-1/)
+* [그린랩스에서 클로저 시작하기 | 그린랩스](https://green-labs.github.io/clojure-bootcamp)
 * [clj-easy/about](https://github.com/clj-easy/about)
 
 # Vim
