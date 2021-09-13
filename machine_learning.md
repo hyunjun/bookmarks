@@ -818,6 +818,7 @@ Machine Learning
   * [다양한 머신러닝 방법들](https://blog.naver.com/kjhnav/221359372049)
 * [포브스가 추천하는 AIㆍML 무료 강좌 '베스트 9'](http://www.aitimes.com/news/articleView.html?idxno=126901)
 * [머신러닝1 - 생활코딩](https://opentutorials.org/course/4548)
+* [동영상 강좌 파이썬 데이터과학, 머신러닝∙딥러닝](https://brunch.co.kr/@gauss92tgrd/32)
 * [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
 * [Machine Learning Video Library](https://work.caltech.edu/library/)
 * [A List Of Top 10 Free Machine Learning Online Courses and Tutorials](https://www.techleer.com/articles/453-a-list-of-top-10-free-machine-learning-online-courses-and-tutorials/)
