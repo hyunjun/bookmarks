@@ -1003,6 +1003,7 @@ Clojure
 * [Onyx - Distributed, masterless, high performance, fault tolerant data processing for Clojure](https://github.com/onyx-platform/onyx)
   * [Onyx 0.8.0: Automatic State Management](http://michaeldrogalis.github.io/jekyll/update/2015/11/12/Onyx-0.8.0-Automatic-State-Management.html)
 * [optaplanner-clj: Example of Optaplanner in Clojure](https://github.com/joinr/optaplanner-clj)
+* [orchard: A fertile ground for Clojure tooling](https://github.com/clojure-emacs/orchard)
 * [ornament](https://github.com/lambdaisland/ornament) CSS-in-Clj(s)
 * [overload-fn: Function overloading on type for Clojure](https://github.com/ertugrulcetin/overload-fn)
 * [oz: Data visualizations in Clojure and ClojureScript using Vega and Vega-lite](https://github.com/metasoarous/oz)
