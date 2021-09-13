@@ -689,6 +689,7 @@ Clojure
 * [clojureD 2019: "Workflow engines with Clojure – It's a match!" by Tim Zöller - YouTube](https://www.youtube.com/watch?v=M1HrLAud6MA)
 * [clojureD 2020: "Writing maintainable Clojure" by Erik Assum - YouTube](https://www.youtube.com/watch?v=Tq7r97G4b7Y)
 * [:clojureD 2021 - YouTube](https://www.youtube.com/playlist?list=PLaSn8eiZ631nON7le-wdZxTR0c5bxqPYi)
+  * [clojureD 2021: "Your own fast, native Clojure scripting CLI with GraalVM and SCI" by Michiel Borkent - YouTube](https://www.youtube.com/watch?v=L2LAaQBVvxM)
 * [clojurenorth.com](http://clojurenorth.com/)
   * [Building Marvelous and Heroic Systems from the Ground Up - Mark Bastian (Workshop) - YouTube](https://www.youtube.com/watch?v=eink6oICdOQ)
 * [Clojure/north 2020 - YouTube](https://www.youtube.com/playlist?list=PL_arKaS8JOXHHaK715NZjVpfzKebcJD5U)
@@ -1202,6 +1203,7 @@ Clojure
 * [Clojure: automated property-based tests for complicated inputs | by Yulia Kleb | AppsFlyer | Medium](https://medium.com/appsflyer/clojure-automated-property-based-tests-for-complicated-inputs-786de23de8f0)
 * [Clojure test coverage with Eftest and Cloverage | Andrey Bogoyavlensky](https://bogoyavlensky.com/blog/eftest-cloverage/)
 * [Inline unit tests in Clojure](http://johannes.tax/Inline_unit_tests_in_Clojure.html)
+* [Tests are living documentation - Jake McCrary](https://jakemccrary.com/blog/2021/09/11/tests-can-act-as-living-documentation/)
 * [bond: spying for tests](https://github.com/circleci/bond)
 * [cprop-order - Test load-config order](https://github.com/eunmin/cprop-order)
 * [endpoint-check](https://github.com/k8s-study/endpoint-check/blob/master/README.md) ping test micro service 를 clojure httpkit 으로 구현, Kubernetes로 배포
@@ -1302,6 +1304,7 @@ Clojure
 * [(번역) 클로저, 지금 바로 시작합시다! - 1부 | 그린랩스](https://green-labs.github.io/start-your-clojure-project-now-1)
 * [(번역) 클로저, 지금 바로 시작합시다! - 2부 | 그린랩스](https://green-labs.github.io/start-your-clojure-project-now-2)
 * [the Clojure language - YouTube](https://www.youtube.com/playlist?list=PLAC43CFB134E85266)
+* [Clojure Tutorial for Beginners 1 | Abhinav Omprakash](https://www.abhinavomprakash.com/posts/clojure-tutorial-for-beginners-1/)
 * [clj-easy/about](https://github.com/clj-easy/about)
 
 # Vim
