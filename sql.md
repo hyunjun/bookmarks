@@ -117,6 +117,7 @@ SQL
 * [Parsing SQL - Federico Tomassetti - Software Architect](https://tomassetti.me/parsing-sql/)
 * [(SQL초보자를 위한, 쿼리최적화 for SQL튜닝)SQL쿼리작성Tip,최적화팁,최적화된SQL작성방법교육](http://www.slideshare.net/topcredu/sql-for-sqlsqltipsql)
 * [제3회 스포카콘 SQL 쿼리 최적화 맛보기](https://www.slideshare.net/ssuser7f6de5/3-sql-243154656)
+* [신입 개발자, DB를 최적화 하다! 1편. 소개 | by Jason Kang | Uniquegood | Sep, 2021 | Medium](https://medium.com/uniquegood/%EC%BD%94%EC%96%B4-%EC%84%9C%EB%B2%84%EC%97%90-%EC%83%9D%EA%B8%B0%EB%8A%94-%EB%AC%B8%EC%A0%9C%EC%A0%90%EC%9D%84-%ED%95%B4%EA%B2%B0%ED%95%98%EC%9E%90-1%ED%8E%B8-55b899e0fbdd)
 * [비전공자를 위한 SQL](https://brunch.co.kr/magazine/sql-beginner)
 * [나만 모르고 있던 – Flyway (DB 마이그레이션 Tool)](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-flyway-db-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-tool/)
 * [예제로 배우는 SQL 프로그래밍](http://www.sqlprogram.com/)
