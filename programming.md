@@ -3098,6 +3098,7 @@ Programming
 * [How to Add New Features to Your App in Production and Not Ruin Anything](https://medium.com/quick-code/how-to-add-new-features-to-your-app-in-production-and-not-ruin-anything-da2c6dfb6fc2)
 * [Software Engineering at Google: Practices, Tools, Values, and Culture](https://www.infoq.com/articles/software-engineering-google/)
 * [What I learned from Software Engineering at Google | Swizec Teller](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)
+* [뉴스 서비스, iOS 시작부터 출시까지 (OpenCMS) – Place Of 42Seoul Story](https://42place.innovationacademy.kr/archives/9307) 자세한 이야기는 없지만 정말 대단한 일
 * [Principles.dev - Software Engineering Principles](https://principles.dev/)
   * [Software Engineering Principles | GeekNews](https://news.hada.io/topic?id=4534)
 
