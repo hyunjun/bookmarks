@@ -45,6 +45,7 @@ Apache
 * [후기 이미지 자동 검수 모델, 어떻게 서비스할까? | by MUSINSA tech | Medium | MUSINSA tech](https://medium.com/musinsa-tech/imageclassification-d5b06f55b9f5)
 * [airflow 파라미터 튜닝](https://jybaek.tistory.com/923)
 * [나만의 Airflow 클러스터 만들기 (feat. k3d)](https://www.humphreyahn.dev/blog/my-own-airflow-cluster)
+* [Apache Airflow와 Amazon SageMaker Feature Store 연동하기 | by Sungin Lee | Cloud Villains | Sep, 2021 | Medium](https://medium.com/ctc-mzc/apache-airflow%EC%99%80-amazon-sagemaker-feature-store-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-6fe2b75ea5d4)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
