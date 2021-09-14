@@ -536,6 +536,7 @@ AWS
   * [AWS re:Invent 2020 Daily Recap - 일일 요약 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUUXSM9uoOZZoafzQPZeh5bM)
 * AWS Summit
   * [AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-)
+    * [현대백화점 리테일테크랩과 AWS Prototyping 팀 개발자가 들려주는 인공 지능 무인 스토어 개발 여정::AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/watch?v=9lSObYSCS0c)
   * [AWS Summit Online Korea 2020 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUWAd4oEEXU-PSb4LELpPA82)
   * [AWS Summit 2019](https://www.youtube.com/playlist?list=PLORxAVAC5fUWyB6Hsk9ibYJHw97k1h6s9)
   * [2019 AWS Summit Seoul 참관기 day 1/2](https://engineering.huiseoul.com/2019-aws-summit-seoul-%EC%B0%B8%EA%B4%80%EA%B8%B0-day-1-2-7232b47135d1)
