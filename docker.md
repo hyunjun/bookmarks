@@ -1072,6 +1072,7 @@ Docker
       * AppSource 컨트롤러를 이용하면 어드민은 사용자가 네임스페이스 내에서 ArgoCD 앱을 배포하도록 해서 개발자가 직접 앱을 배포 가능
 * [Cilium - Linux Native, API-Aware Networking and Security for Containers](https://cilium.io/)
   * [Kubernetes Network & Cilium](https://www.notion.so/Kubernetes-Network-Cilium-1d4371f562ea4acdb5e679e376a7c992)
+  * [Network Policy Editor for Kubernetes](https://editor.cilium.io/)
 * [cloudflow - Streaming Data Pipelines on Kubernetes](https://cloudflow.io/)
   * [Scale By The Bay 2020: Nolan Grace, Cloudflow: Spark, Flink, and Akka Working together on Kubernetes - YouTube](https://www.youtube.com/watch?v=XOBb7bLS3Q8)
   * [How to build streaming data pipelines with Akka Streams, Flink, and Spark using Cloudflow - YouTube](https://www.youtube.com/watch?v=MaXCx0fy0xU)
