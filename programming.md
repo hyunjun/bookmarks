@@ -714,6 +714,7 @@ Programming
 * [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](http://www.gabrielgambetta.com/client-server-game-architecture.html)
 * [**세분화(Granular) 애플리케이션 아키텍처 패턴**](https://medium.com/@jwyeom63/%EC%84%B8%EB%B6%84%ED%99%94-granular-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%8C%A8%ED%84%B4-1f6a2d720545)
 * [Software engineer — from monolith to cloud: think small](https://coder.today/software-engineer-from-monolith-to-cloud-think-small-f828effc6afc)
+* [데이터센터 모놀리스에서 클라우드 쿠버네티스: 클라우드 네이티브로의 성공적인 이전을 위한 전략](https://drive.google.com/file/d/1phjKwPQp7fSqyDeHRQFAbGn5D0_H_U9G/view?fbclid=IwAR0H2WdewhSCJZu9tfJziwdjmdbk_ixk3kKomvHBe3qQ1zWei1Y-0ttKWhg)
 * [Beyond the Distributed Monolith: Rearchitecting the Big Data Platform](https://www.infoq.com/presentations/bbc-distributed-monolith-microservices/)
 * [What Is a Modular Monolith? | Rebel](https://www.jrebel.com/blog/what-is-a-modular-monolith)
 * [Modular Monolithic Architecture, Microservices and Architectural Drivers](https://www.infoq.com/news/2020/01/monolith-architectural-drivers/)
@@ -1041,6 +1042,7 @@ Programming
 * [Part 1: Domain Driven Design like a pro 🏅 | by Anders Gill | Raa Labs | Medium](https://medium.com/raa-labs/part-1-domain-driven-design-like-a-pro-f9e78d081f10)
 * [Domain-driven design · Present](https://present.do/decks/60bed187f79479437375f362)
 * [Domain Driven Design Patterns in Python - YouTube](https://www.youtube.com/watch?v=hv-LiKQgN90)
+* [**Spoqa 기술 블로그 | 도메인 주도 개발 전환 이야기**](https://spoqa.github.io/2021/09/13/domain-driven-development-transition-story.html)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -1271,6 +1273,7 @@ Programming
 * [The 3 Stages of Microservice: Divide, Conquer, and Chaos | CodersTea](https://www.coderstea.com/post/microservices/microservices-introduction-divide-conquer-and-chaos/)
 * [NGINX’s Reference Architecture for Kubernetes Microservices – The New Stack](https://thenewstack.io/nginxs-reference-architecture-for-kubernetes-microservices/)
 * [Scale, Flow and Microservices • James Lewis • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=LL4SJsBtYw0)
+* [**이모티콘 서비스는 왜 MSA를 선택했나? – tech.kakao.com**](https://tech.kakao.com/2021/09/14/msa/)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
