@@ -312,6 +312,7 @@ Hardware
 * [Manage your Raspberry Pi with Cockpit | Opensource.com](https://opensource.com/article/21/5/raspberry-pi-cockpit)
 * [라즈베리파이 가상 머신에 설치하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/raspberry-vminstall/)
 * [Add Aux to Sonos Using Raspberry Pi : 26 Steps (with Pictures) - Instructables](https://www.instructables.com/Add-Aux-to-Sonos-Using-Raspberry-Pi/)
+* ['Build/Yocto' 카테고리의 글 목록](https://kin3303.tistory.com/category/Build/Yocto)
 
 # Reverse Engineering
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
