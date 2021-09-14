@@ -284,6 +284,7 @@ Keras
 * [A Gentle Introduction to LSTM Autoencoders](https://machinelearningmastery.com/lstm-autoencoders)
 * [LSTM Autoencoder for Extreme Rare Event Classification in Keras](https://towardsdatascience.com/lstm-autoencoder-for-extreme-rare-event-classification-in-keras-ce209a224cfb)
   * [lstm_autoencoder_classifier](https://github.com/cran2367/lstm_autoencoder_classifier)
+* [Denoising autoencoders with Keras, TensorFlow, and Deep Learning - PyImageSearch](https://www.pyimagesearch.com/2020/02/24/denoising-autoencoders-with-keras-tensorflow-and-deep-learning/)
 * [딥러닝을 활용한 거래량 예측 기능 개선](https://d2.naver.com/helloworld/0065813) LSTM
 * [Predicting sequences of vectors (regression) in Keras using RNN - LSTM](http://danielhnyk.cz/predicting-sequences-vectors-keras-using-rnn-lstm/)
 * [Text Generation With LSTM Recurrent Neural Networks in Python with Keras](http://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
