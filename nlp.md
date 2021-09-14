@@ -989,6 +989,7 @@ NLP
   * [A small timing experiment on the new Tokenizers library — a write-up](https://towardsdatascience.com/a-small-timing-experiment-on-the-new-tokenizers-library-a-write-up-7caab6f80ea6)
   * [Beyond Classification With Transformers and Hugging Face | by Nikhil Dharap | Towards Data Science](https://towardsdatascience.com/beyond-classification-with-transformers-and-hugging-face-d38c75f574fb)
   * [huggingface를 이용한 한국어 BART 학습 후기](https://cosmoquester.github.io/huggingface-bart-train/)
+  * [transformers에 모델 기여하기 | LASSL](https://lassl.github.io/history/contribution-to-transformers.html)
   * [koclip: KoCLIP: Korean port of OpenAI CLIP, in Flax](https://github.com/jaketae/koclip)
     * 2021년 1월 OpenAI 가 공개한 CLIP(Contrastive Language–Image Pre-training)은 자연어와 이미지를 동시에 학습하는 멀티모달 모델로 ImageNet등의 태스크에서 기존 모델을 상회하는 정확도와 범용성
     * KoCLIP은 오픈소스로 공개 되는 첫 한국어 멀티모달 인공지능으로 AIHub의 한국어-이미지 캡션 데이터셋을 사용해 학습
