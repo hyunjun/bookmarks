@@ -1040,6 +1040,7 @@ Docker
 * [Alpha in Kubernetes v1.22: API Server Tracing | Kubernetes](https://kubernetes.io/blog/2021/09/03/api-server-tracing/)
 * [Native-k8s(Ubuntu) - Sep 07 2021 - k8s](https://sysnet4admin.gitbook.io/k8s/version/native-k8s-ubuntu-sep-07-2021)
 * [Setting and Rightsizing Kubernetes Resource Limits | Best Practices](https://www.containiq.com/post/setting-and-rightsizing-kubernetes-resource-limits)
+* [KCD KOREA 2021 쿼리파이를 지탱하는 오픈소스 도구들 | 문성주 - YouTube](https://www.youtube.com/watch?v=43UQhxUbiOU)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
