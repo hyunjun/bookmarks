@@ -2184,6 +2184,7 @@ Scala
     }
   }
   ```
+* [Scala 3: Generic type parameters and variance explained | alvinalexander.com](https://alvinalexander.com/scala/scala-3-variance-explained-generic-type-parameters/)
 * [Avoiding Unnecessary Object Instantiation with Specialized Generics - Scala](https://scalac.io/specialized-generics-object-instantiation/)
 * [Implementing typeclasses in Scala I](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-i/) implicit, ad hoc polymorphism
 * [Implementing typeclasses in Scala II](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-ii/)
