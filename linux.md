@@ -744,6 +744,7 @@ Linux
   * [Private/Public 키 쉽게 다루기 - YouTube](https://www.youtube.com/watch?v=cKfd_BmJzHE)
   * [endlessh: SSH tarpit that slowly sends an endless banner](https://github.com/skeeto/endlessh)
   * [lazyssh: A jump-host SSH server that starts machines on-demand](https://github.com/stephank/lazyssh)
+  * OpenSSH [How to List Unsuccessful SSH Logins on Linux](https://www.howtoforge.com/how-to-list-unsuccessful-ssh-logins)
   * ZeroSSL [Introducing another free CA as an alternative to Let's Encrypt](https://scotthelme.co.uk/introducing-another-free-ca-as-an-alternative-to-lets-encrypt/)
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
 * `stat`
