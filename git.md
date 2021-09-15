@@ -891,6 +891,7 @@ Git
   * [gitlab 웹 접속 포트를 바꿔 봅시다](https://codingdog.tistory.com/entry/gitlab-%EC%9B%B9-%EC%A0%91%EC%86%8D-%ED%8F%AC%ED%8A%B8%EB%A5%BC-%EB%B0%94%EA%BF%94-%EB%B4%85%EC%8B%9C%EB%8B%A4?category=1163058)
   * [gitlab 8080 포트 대신 다른 포트를 사용하게 바꿔봅시다](https://codingdog.tistory.com/entry/gitlab-8080-%ED%8F%AC%ED%8A%B8-%EB%8C%80%EC%8B%A0-%EB%8B%A4%EB%A5%B8-%ED%8F%AC%ED%8A%B8%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B2%8C-%EB%B0%94%EA%BF%94%EB%B4%85%EC%8B%9C%EB%8B%A4)
   * [내블로그 :: gitlab ci Docker 연동](https://iesay.tistory.com/198)
+  * [GitLab Geo 구성하기 — 분석 #1. 개요 | by 허니하린 | Cloud Villains | Sep, 2021 | Medium](https://medium.com/ctc-mzc/gitlab-geo-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-%EB%B6%84%EC%84%9D-1-37cef8c440df)
 * gitlocalize.com [오픈소스를 번역할 때 유용한 Git Localize 사용법 - 사진찍는 웹 개발자](https://donghoon-song.github.io/posts/2021-01-02---%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EB%B2%88%EC%97%AD%ED%95%A0-%EB%95%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-Git-Localize-%EC%82%AC%EC%9A%A9%EB%B2%95/)
 * [git-meld-index - Run meld or any git difftool to interactively stage changes](https://github.com/jjlee/git-meld-index)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
