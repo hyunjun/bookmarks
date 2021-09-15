@@ -150,6 +150,7 @@ Book
     * [What My Harvard College Reunion Taught Me About Life - The Atlantic](https://www.theatlantic.com/education/archive/2018/10/what-my-harvard-college-reunion-taught-me-about-life/573847/)
     * [하버드 졸업 30주년 동문회에 다녀와서](https://newspeppermint.com/2019/06/30/harvardreunion50/)
 * (NOT YET) 일의 철학 [스탠퍼드의 최고 인기 교수가 말하는, 당신의 업무와 삶을 바꾸는 일의 철학 11가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/245881)
+* (NOT YET) 패션의 탄생 [명품 브랜드도 한때는 1인 기업이었습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/luxury20210915)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
