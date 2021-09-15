@@ -413,6 +413,7 @@ Linux
   * [Modern Unix - 유닉스 명령들의 최신 대체제 | GeekNews](https://news.hada.io/topic?id=4784)
 * [6 Command Line Tools for Productive Programmers - Earthly Blog](https://earthly.dev/blog/command-line-tools/) broot, Funky, Fuzzy Finder (FZF), McFly, Better CD, GitUpdate, JQ, mitmproxy, Pandoc, PSTree, Earthly linting prose
 * [Efficient File Copying On Linux](https://eklitzke.org/efficient-file-copying-on-linux)
+* [What Linux Version Am I Running? Here's How to Find Out](https://linuxiac.com/what-linux-version/)
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
@@ -670,6 +671,7 @@ Linux
   * `rsync -avz --rsh="ssh -l [id]" [ip]:[src path] [dst path]`
     * daemon / ssh 방식 두 가지가 있는데, ssh의 경우 ssh public key를 추가해야 접속이 가능
   * [ssh 를 이용한 rsync 및 스크립트](http://blueamor.tistory.com/190)
+  * [RSYNC 리눅스 서버 자동 백업하기](https://www.runit.cloud/2020/06/bash-rsync.html)
   * [rclone "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files https://rclone.org ](https://github.com/rclone/rclone)
 * `sar`
   * [practice - 지난 30일간 average CPU load만 모아서 그 평균을 계산](https://gist.github.com/hyunjun/af9868ec793c43a4f146ea2409190d00#file-sar-md)
@@ -709,6 +711,7 @@ Linux
   * [Sed One-Liners Explained, Part I: File Spacing, Numbering and Text Conversion and Substitution](https://catonmat.net/sed-one-liners-explained-part-one)
   * [shell script 작성시 sed 치환패턴 문자열 escapse](https://bloodguy.tistory.com/entry/Linux-shell-script-%EC%9E%91%EC%84%B1%EC%8B%9C-sed-%EC%B9%98%ED%99%98%ED%8C%A8%ED%84%B4-%EB%AC%B8%EC%9E%90%EC%97%B4-escapse)
   * [sed를 살펴보자! sed 명령어 사용법과 예시, 패턴 스페이스와 홀드 스페이스, 유용 표현](https://jhnyang.tistory.com/287)
+  * [Replace smart quotes with the Linux sed command | Opensource.com](https://opensource.com/article/21/9/sed-replace-smart-quotes)
   * [sed-bin: sed to C translator written in sed](https://github.com/lhoursquentin/sed-bin)
 * [`seq`](http://www.delorie.com/gnu/docs/textutils/coreutils_156.html)
   * `seq -f '%05g' [start number] [end number]` format string %e, %g, %f
