@@ -1134,6 +1134,7 @@ Docker
   * [쿠버네티스 리소스 배포와 관리를 위한 ksonnet](http://bcho.tistory.com/1302)
 * [kube-bench - k8s](https://sysnet4admin.gitbook.io/k8s/security/cluster/kube-bench)
 * [kubectl-debug: Debug your pod by a new container with every troubleshooting tools pre-installed](https://github.com/aylei/kubectl-debug)
+  * [Shell 없는 Container, Live 환경에서 Debugging해보기! | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/09/15/kubectl-debug-on-bottlerocket.html) Bottlerocket
 * [kubectl-trace: Schedule bpftrace programs on your kubernetes cluster using the kubectl](https://github.com/iovisor/kubectl-trace)
 * [kubectx: Faster way to switch between clusters and namespaces in kubectl](https://github.com/ahmetb/kubectx)
 * [kubectxon: Easy to check active-context in kubernetes thru the prompt](https://github.com/sysnet4admin/kubectxon)
