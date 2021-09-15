@@ -671,6 +671,7 @@ Business
 * [뉴스쉽 이런 리더십…아프간 떠난 마지막 미군은 사단장이었다 | SBS 뉴스](https://news.sbs.co.kr/news/endPage.do?news_id=N1006453306)
   * Care - 개인적으로 가까워져야 직설적인 피드백이 가능하다는 점과 일맥상통하는 듯
 * [Start with why -- how great leaders inspire action | Simon Sinek | TEDxPugetSound - YouTube](https://www.youtube.com/watch?v=u4ZoJKF_VuA) why how what
+* [원티드×사이먼시넥 | ep.1 리더의 조건✍️ 존경받는 리더가 되고 싶다면? - YouTube](https://www.youtube.com/watch?v=e4TT30CBPMY) "리더 디퍼런트"
 * [성장하는 조직, 성장하는 리더십](https://brunch.co.kr/@coupangdesign/67)
 * [리파운더의 탄생 ··· MS 사티아 나델라 | The Miilk](https://www.themiilk.com/articles/a7b5cf59b/u/84503ea0/a74f7ac3b)
 * [시끌벅적한 사무실 만들기 - Jaehue's](https://jaehue.github.io/post/2021.07.23/) 구체적인 이야기들이 다 마음에 듦

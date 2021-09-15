@@ -1446,6 +1446,7 @@ Programming Books
 * (NOT YET) [왜 리더인가(이나모리 가즈오 지음/김윤경 옮김/다산북스 펴냄) - YouTube](https://www.youtube.com/watch?v=_mhyRrB0pWs)
 * (NOT YET) [순서 파괴, 아마존의 유일한 성공 원칙](https://brunch.co.kr/@dream40k/121)
 * (NOT YET) [넷플릭스, '규칙 없음'](https://brunch.co.kr/@pliossun/170)
+* (NOT YET) [‘리더 디퍼런트’ - 인사이트](https://www.insight.co.kr/news/355641) Start with why, Simon Sinek
 
 # Math
 
