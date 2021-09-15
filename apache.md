@@ -636,6 +636,7 @@ Apache
 * [Kafka in the Wild • Laura Schornack & Maureen Penzenik • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=iMx8otu3rFg) Domain Driven Design for Realtime, Ubiquitous, Distributed Data
 * [How Agoda manages 1.5 Trillion Events per day on Kafka | by Shaun Sit | Agoda Engineering & Design | Jul, 2021 | Medium](https://medium.com/agoda-engineering/how-agoda-manages-1-5-trillion-events-per-day-on-kafka-f0a27fc32ecb)
 * [Kafka 는 왜 빠를까? - 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=3372)
+* [Kafka 클러스터 구성 및 장애 해결 :: 당근케잌](https://yeon-kr.tistory.com/183)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
