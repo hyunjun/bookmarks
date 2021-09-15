@@ -277,6 +277,7 @@ Redis
 * [Redis Streams and the Unified Log](https://brandur.org/redis-streams)
 * [Milano Scala Group - Redis Streams with ZIO - YouTube](https://www.youtube.com/watch?v=jJnco6sMZQY)
 * [The Design of Redis StreamsSalvatore Sanfilippo, Creator of Redis](https://www.youtube.com/watch?v=Ty1rQuRJijk)
+* [Stream 사용 방법](https://jybaek.tistory.com/935)
 
 # Tutorial
 * [Redis cluster tutorial](https://redis.io/topics/cluster-tutorial)
