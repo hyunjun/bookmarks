@@ -774,6 +774,9 @@ Business
 * [좋은 프로덕트 팀과 나쁜 프로덕트 팀의 17가지 차이](https://brunch.co.kr/@ashashash/101)
 * [IT 직무 탐구: 프로덕트 매니저 vs 프로덕트 오너 (+그 외) | 요즘IT](https://yozm.wishket.com/magazine/detail/905/)
 
+# Product Owner
+* [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
+
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
 * [PM은 개발에 대해 얼마나 알아야 하나?](https://brunch.co.kr/@yongjinjinipln/79)
