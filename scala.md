@@ -931,6 +931,7 @@ Scala
     * [Home | Ziverge](https://ziverge.com/blog/)
     * [A Preview of Logging in ZIO 2.0](https://ziverge.com/blog/a-preview-of-logging-in-zio-2/)
     * [Advances In The ZIO 2.0 Scheduler](https://ziverge.com/blog/advances-in-the-zio-2-scheduler/)
+    * [Building Next Gen Applications on JVM with ZIO | Capital One](https://www.capitalone.com/tech/software-engineering/building-on-jvm-with-zio/)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
