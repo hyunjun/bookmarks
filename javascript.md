@@ -686,6 +686,7 @@ Javascript
 * [동물상 테스트 - 당신의 얼굴 사진으로 동물상을 확인해보세요](https://open-support.tistory.com/entry/%EB%8F%99%EB%AC%BC%EC%83%81-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8B%B9%EC%8B%A0%EC%9D%98-%EC%96%BC%EA%B5%B4-%EC%82%AC%EC%A7%84%EC%9C%BC%EB%A1%9C-%EB%8F%99%EB%AC%BC%EC%83%81%EC%9D%84-%ED%99%95%EC%9D%B8%ED%95%B4%EB%B3%B4%EC%84%B8%EC%9A%94)
 * [유니코드 점자로 그래픽 디스플레이 만들기 유니코드 점자 문자로 CLI에서 그래픽을 표시해보자!](https://lazygyu.net/blog/graphic_display_by_braille_pattern)
 * [스타트업의 디자인 시스템 구축 과정 · Present](https://present.do/shows/61346fad5b179c0da7468260) design system
+* [!!Con 2019- Tail Call Optimization: The Musical!! by Anjana Vakil & Natalia Margolis - YouTube](https://www.youtube.com/watch?v=-PX0BV9hGZY) 정말 재미있는 공연 + TCO 설명
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
