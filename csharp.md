@@ -43,6 +43,9 @@ C#
 * [Kyle Halladay - Ray Tracing In Notepad.exe At 30 FPS](http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html)
 * [손글씨 인식 프로그램 구현 머신러닝 with C#, ML NET](https://www.youtube.com/watch?v=Nmso-oplEqI)
 * [**C# 고성능 서버 - 메모리 단편화 | leafbird/devnote**](https://leafbird.github.io/devnote/2021/08/08/C-%EA%B3%A0%EC%84%B1%EB%8A%A5-%EC%84%9C%EB%B2%84-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%8B%A8%ED%8E%B8%ED%99%94/)
+* [C# for Pentesters - Part I - AES256 Shell Code Encryption / Decryption and PE Thread Injection - YouTube](https://www.youtube.com/watch?v=6q-CYQR_QFw)
+* [C# for Pentesters - Part II - Process Injection and XOR Shell Code Encryption / Decryption - YouTube](https://www.youtube.com/watch?v=SoMirwLEo-s)
+* [C# for Pentesters - Part III - Classic DLL Injection - YouTube](https://www.youtube.com/watch?v=fCfneKhiYBw)
 
 # API
 * [C# Futures: Null Check Operator](https://www.infoq.com/news/2020/07/CSharp-Null-Check/)
