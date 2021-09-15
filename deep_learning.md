@@ -987,6 +987,7 @@ Deep Learning
 * [Deep Learning State of the Art (2020) | MIT Deep Learning Series](https://www.youtube.com/watch?v=0VH1Lim8gL8)
 * [**UCL x DeepMind Deep Learning Lecture Series - General**](https://www.eventbrite.co.uk/o/ucl-x-deepmind-deep-learning-lecture-series-general-29078980901)
 * [DeepMind x UCL | Deep Learning Lecture Series 2020 - YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
+* [Reinforcement Learning Lecture Series 2021 | DeepMind](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
 
 # Extreme Learning Machines
 * [Extreme Learning Machines](http://www.ntu.edu.sg/home/egbhuang/pdf/IEEE-IS-ELM.pdf)
