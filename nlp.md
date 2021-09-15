@@ -999,6 +999,8 @@ NLP
     * Text2Image: 텍스트 쿼리를 입력하면 사전에 저장해둔 사진들 중 쿼리와 가장 유사도 높은 사진 반환
     * Image2Text: Zero-Shot Classifier의 한 종류로 사진과 다수의 레이블을 입력하면 여러 레이블중 사진과 가장 어울리는 것을 반환
     * Text2Patch: 역시 Zero-Shot Classifier의 한 갈래로 사진과 텍스트 쿼리가 입력되면 텍스트와 가장 연관성이 깊은 사진 패치 반환
+  * [optimum](https://github.com/huggingface/optimum)
+    * [Introducing Optimum: The Optimization Toolkit for Transformers at Scale](https://huggingface.co/blog/hardware-partners-program)
   * [parallelformers: Parallelformers: An Efficient Model Parallelization Toolkit for Deployment](https://github.com/tunib-ai/parallelformers)
 * [3 Natural Language Processing Tools From AWS to Python | by SeattleDataGuy | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/3-natural-language-processing-tools-from-aws-to-python-954dbb34b189)
   * [Amazon Comprehend - Natural Language Processing (NLP) and Machine Learning (ML)](https://aws.amazon.com/comprehend/)
