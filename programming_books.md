@@ -955,6 +955,7 @@ Programming Books
   * 한라 004.73-김36ㄷ
 * (NOT YET) [퀀트 전략을 위한 인공지능 트레이딩](https://www.hanbit.co.kr/store/books/look.php?p_code=B1740090592)
 * (NOT YET) [알고리즘트레이딩을 위한 파이썬](https://brunch.co.kr/@gauss92tgrd/15)
+* (NOT YET) [퀀트 투자를 위한 머신러닝·딥러닝 알고리듬 트레이딩](https://brunch.co.kr/@gauss92tgrd/33)
 
 # Flutter
 * (NOT YET) [처음 배우는 플러터 : 예제로 배우는 크로스 플랫폼 애플리케이션 개발](http://www.hanbit.co.kr/store/books/look.php?p_code=B8753032429)
