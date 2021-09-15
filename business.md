@@ -776,6 +776,7 @@ Business
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
+* [나는 1년간 이렇게 일했다 — 요기요 PO 이야기. 근데 이제 Agile과 Cross functional team… | by Seongkyun Chae | Delivery Tech Korea — 요기요기술 블로그 | Medium](https://medium.com/deliverytechkorea/%EB%82%98%EB%8A%94-1%EB%85%84%EA%B0%84-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%96%88%EB%8B%A4-%EC%9A%94%EA%B8%B0%EC%9A%94-po-%EC%9D%B4%EC%95%BC%EA%B8%B0-35847b9a47f6)
 
 # Project Management
 * [좋은PM은 '허세 지표/메트릭'을 사용하지 않습니다](https://brunch.co.kr/@ywkim36/25)
