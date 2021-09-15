@@ -425,6 +425,7 @@ ElasticSearch - Lucene
 * [okdevtv.com/mib/elk/elk6](https://okdevtv.com/mib/elk/elk6)
 * [**okdevtv.com/mib/elk/elk7**](https://okdevtv.com/mib/elk/elk7)
   * [설치의 정석 내 사이트에 20분 만에 로그 분석 시스템 붙이기 - YouTube](https://www.youtube.com/watch?v=tiJtVZrREBA)
+  * [practice - installation elasticsearch + kibana + logstash with openjdk1.8 + nginx for aws t2.medium](https://gist.github.com/hyunjun/c3c0dbd13f50d5242ffb#file-setup_for_aws-sh)
 * [JDBC output for Logstash](https://github.com/theangryangel/logstash-output-jdbc)
 * [**엑셀 피벗 테이블을 ElasticSearch와 Kibana로 만들어 보자**](https://engineering.linecorp.com/ko/blog/excel-to-elastic/)
 * [ELK 통합 로그 시스템을 활용한 IT보안 활용 추천 책 소개!!!](https://www.youtube.com/watch?v=vo_O7pWAM60)
