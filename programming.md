@@ -1182,6 +1182,7 @@ Programming
 * [**마이크로 서비스 프로젝트 300개 관리하기**](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-300%EA%B0%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0/) Docker, Kubernetes 실용적인 예와 경험. 매우 좋은 글
 * [**Data Consistency in Microservices Architecture (Grygoriy Gonchar)**](https://www.youtube.com/watch?v=CFdPDfXy6Y0)
 * [Data Consistency in Microservice Using Sagas](https://www.youtube.com/watch?v=txlSrGVCK18)
+* [Data Consistency Between Microservices - YouTube](https://www.youtube.com/watch?v=uKURpE12Mgo)
 * [우아한 멀티모듈 - 2019년 8월 우아한 Tech 세미나](https://jojoldu.tistory.com/444)
 * [Microservices: How To Build Systems That Survive](https://www.youtube.com/watch?v=rNQR1HqfEl0)
 * [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/entry/MSA-Microservice-Architecture-마이크로서비스-아키텍처-회고)
