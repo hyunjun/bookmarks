@@ -114,6 +114,7 @@ Time Series
 * [questdb: An open source SQL database designed to process time series data, faster](https://github.com/questdb/questdb)
   * [How databases handle 10 million devices in high-cardinality benchmarks | Time series data, faster](https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/)
 * [spark-ts - Time Series for Spark (The spark-ts Package)](https://github.com/sryza/spark-timeseries)
+* [Spice.ai Docs](https://docs.spiceai.org/) 시계열 데이터에 머신러닝을 이용해서 애플리케이션에 AI를 추가할 수 있게 하는 오픈소스 런타임
 * [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
 * [TimescaleDB](http://www.timescale.com)
   * Postgres 엔진으로 구축된 새로운 오픈 소스 시계열 데이터베이스
