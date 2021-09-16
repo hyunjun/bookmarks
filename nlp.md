@@ -337,6 +337,7 @@ NLP
   * [MDN의 검색 자동완성 구현 방법 | GeekNews](https://news.hada.io/topic?id=4762)
 * [NLP와 OCR, 머신 러닝으로 더욱 편리하고 특별한 LINE 가계부 만들기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-kakeibo-with-nlp-ocr-machinelearning/)
 * [Machine Learning Won't Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) NLU
+* [NLP in Fintech. Introduction | by FinTech MK | Sep, 2021 | Medium](https://medium.com/@fintech.macedonia/nlp-in-fintech-1aee4fd8ed08)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
