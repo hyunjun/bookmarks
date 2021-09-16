@@ -749,6 +749,9 @@
 * [End to End Spark TensorFlow PyTorch Pipelines with Databricks DeltaJim Dowling Logical Clocks ABKim](https://www.youtube.com/watch?v=zGNQQfEjCQY)
 * [Accelerating Deep Learning on the JVM with Apache Spark and NVIDIA GPUs](https://www.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/)
 * [Spark ML hyperparameter tuning](https://softwaremill.com/spark-ml-hyperparameter-tuning/)
+* [Scaling and Unifying SciKit Learn and Apache Spark Pipelines - YouTube](https://www.youtube.com/watch?v=rr7C9tD8uZc)
+* [Sawtooth Windows for Feature Aggregations - YouTube](https://www.youtube.com/watch?v=S3_ErDZWor0)
+* [Run Your Queries Instantly in One of the Most Optimized Environments - YouTube](https://www.youtube.com/watch?v=ly7OqNCzFoQ) Nephos
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Meson: Netflix's framework for executing machine learning workflows](http://techblog.netflix.com/2016/05/meson_31.html)
 * MLflow
