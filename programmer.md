@@ -80,6 +80,15 @@ Programmer
 * [Why I prefer making useless stuff - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
 * [System Compleat. System Compleat.](https://kerberosj.tistory.com/) Singapore DBS 근무
 * [왜 개발자는 잘못된 기술 선택을 밥 먹듯이 하나?](https://kingofbackend.tistory.com/129)
+* [How to drive away your best engineers. | padraigobrien.com](https://padraigobrien.com/posts/2021/09/how-to-drive-away-your-best-engineers/)
+  * 소프트웨어를 만들지 못하는 관리자 고용
+  * 과도한 관리자를 고용하고 계층 생성
+  * 가능한 많은 회의
+  * 고통스러운 소프트웨어 정의 과정
+  * 어려운 소프트웨어 딜리버리
+  * 엔지니어가 작업을 추정
+  * 아주 작은 팀
+  * 다른 팀에서 엔지니어를 빌림
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
