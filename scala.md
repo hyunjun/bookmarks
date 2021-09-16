@@ -486,6 +486,7 @@ Scala
 * [Akka Platform Guide :: Akka Platform Guide](https://developer.lightbend.com/docs/akka-platform-guide/index.html)
 * [Type safe, message driven, distributed - a whirlwind tour of Akka by Johan Andrén - YouTube](https://www.youtube.com/watch?v=o1iKDgq9Asg)
 * [Akka Serverless | @lightbend](https://www.lightbend.com/akka-serverless)
+* [Monitoring Akka applications with Mesmer and OpenTelemetry - Developer’s kit](https://scalac.io/blog/akka-monitoring-with-mesmer-and-opentelemetry/)
 * [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
 * Akka-Persistence-Postgres [Why we need yet another Akka persistence plugin | by Marcin Kubala | SoftwareMill Tech Blog](https://blog.softwaremill.com/why-we-need-yet-another-akka-persistence-plugin-4e08993eb04e)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
@@ -1786,6 +1787,7 @@ Scala
 
 # SBT
 * [SBT](http://www.scala-sbt.org/)
+* [#sbt Tutorial - Part 1 - YouTube](https://www.youtube.com/watch?v=FS015lfyiMg)
 * [classpaths](http://www.scala-sbt.org/1.x/docs/Howto/classpaths.html)
 * [Customizing paths](http://www.scala-sbt.org/1.x/docs/Howto-Customizing-Paths.html)
 * [Library dependencies](https://www.scala-sbt.org/1.x/docs/Library-Dependencies.html)
