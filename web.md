@@ -488,6 +488,7 @@ Web
 * [CSS-in-JS와 성능 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/877)
 * [IE를 버리면 사용할 수 있는 CSS 명세. | naradesign.github.io](https://naradesign.github.io/css-ie-not-supported.html)
 * [새로운 CSS 기능적인 의사 클래스 :is()와 :where() | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210721)
+* [CSS Nesting Module](https://www.w3.org/TR/2021/WD-css-nesting-1-20210831/) 다른 CSS 스타일 안에 CSS 스타일을 포함할 수 있는 CSS Nesting Module 초안 공개
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
@@ -542,6 +543,7 @@ Web
 * [gatling - a high performance web server](http://www.fefe.de/gatling)
 * [html5-qrcode: A cross platform HTML5 QR code reader](https://github.com/mebjas/html5-qrcode)
   * [Html5-QRCode - 크로스플랫폼 QR코드 리더 | GeekNews](https://news.hada.io/topic?id=4397)
+* [htmlq: Like jq, but for HTML](https://github.com/mgdm/htmlq) JSON을 쉽게 조회하고 조작할 수 있는 jq처럼 CSS 셀렉터를 이용해서 HTML을 조회할 수 있는 CLI
 * [HTTP/2 Dashboard BETA - Monitoring the adoption and performance of HTTP/2 on the Web](http://isthewebhttp2yet.com/index.html)
 * [Hurl.it - Make HTTP requests](https://www.hurl.it/)
   * [Hurl - 웹기반 HTTP Req 테스트 도구 | GeekNews](https://news.hada.io/topic?id=4250)
