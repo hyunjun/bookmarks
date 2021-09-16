@@ -73,6 +73,10 @@ Git
   * [Part3 - ZenHub 사용법](https://www.popit.kr/github%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-part3-zenhub-%EC%82%AC%EC%9A%A9%EB%B2%95/)
 * [GitHub Repo 에 Travis CI 추가하기](http://inspiredjw.com/entry/GitHub-Repo-%EC%97%90-Travis-CI-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 * [About Travis CI](https://medium.com/@yoonjs2/about-travis-ci-65b04d3dead6)
+* [Travis CI flaw exposed secrets of thousands of open source projects | Ars Technica](https://arstechnica.com/information-technology/2021/09/travis-ci-flaw-exposed-secrets-for-thousands-of-open-source-projects/)
+  * Travis CI가 9월 3일부터 9월 10일까지 Trvis CI를 사용하는 GitHub 저장소에서 Pull Request 빌드에 모든 시크릿 환경변수(서명 키, 접근 인증서, API 토큰 등 포함)를 주입하는 보안 사고
+  * 보통 저장소에서 CI 빌드를 할 때 필요한 시크릿을 설정해서 사용하지만 어떤 악의적인 코드가 포함될지 모르는 Pull Request를 빌드할 때는 이러한 시크릿을 추가하지 않기 때문에 시크릿이 Pull Request에 노출되었다는 것은 외부에 유출되었을 가능성이 있다는 의미
+  * Travis CI에서 시크릿을 쓰고 있다면 키 갱신 필요
 * [Travis Continuous deployment for your open source library](https://leobenkel.com/2019/09/travis-continuous-deployment/)
 * [Travis에서 조금 더 괜찮은 방법으로 .env 다루기 | 강준영 기술 블로그](https://juneyoung.io/devops-better-way-to-handle-env-in-travis-210308)
 * [알아두면 좋은 GIT 꿀팁 3개](https://brunch.co.kr/@sydneyitguy/5)
@@ -848,6 +852,7 @@ Git
 * [giistr - Contribute to build the open-source world. Search, filter and help easily on the issues of the repositories you starred](https://giistr.com/) 기여할 수 있는 open source project 검색
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
 * git bash [Windows 사용자를 위한 Git Bash 설정](https://medium.com/@violetboralee/windows-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-git-bash-%EC%84%A4%EC%A0%95-ac50acb34c46)
+* [git-cliff: A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️](https://github.com/orhun/git-cliff) Git 히스토리를 이용해서 체인지로그 문서를 만드는 CLI 도구
 * [gitcolony - THE NEXT GENERATION OF PULL REQUESTS](https://www.gitcolony.com/)
 * [git compound - Compose you projects using Git repositories and Ruby tasks](https://github.com/grzesiek/git_compound/)
 * [gitea 설치로 git 웹호스팅 서버 구축하기](https://geeksvoyage.com/raspberry%20pi/gitea-for-pi/)
