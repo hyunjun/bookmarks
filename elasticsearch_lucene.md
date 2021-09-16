@@ -495,6 +495,7 @@ ElasticSearch - Lucene
   * [Elastalert로 로그 알람 구축하기](https://dailyhotel.io/elastalert%EB%A1%9C-%EB%A1%9C%EA%B7%B8-%EC%95%8C%EB%9E%8C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-a5c770a86002)
   * [ElastAlert: Alerting At Scale With Elasticsearch, Part 1](https://engineeringblog.yelp.com/2015/10/elastalert-alerting-at-scale-with-elasticsearch.html)
   * [ElastAlert: Alerting At Scale With Elasticsearch, Part 2](https://engineeringblog.yelp.com/2016/03/elastalert-part-two.html)
+  * [Elastic Alerting A to Z - YouTube](https://www.youtube.com/watch?v=48ILjleUclc)
 * [elasticdump - Tools for moving and saving indicies](https://www.npmjs.com/package/elasticdump)
 * Elastic Graph
   * [Elastic Graph와 Kibana를 사용하여 파나마 페이퍼스(Panama Papers) 분석](https://www.elastic.co/kr/blog/using-elastic-graph-and-kibana-to-analyze-panama-papers)
