@@ -310,6 +310,10 @@ Programming
   * [(4) – 사내 라이브러리를 잘 관리하려면?](http://channy.creation.net/blog/1183)
   * [(5) – 소통 비용의 절약: 서로 API로 말하자](http://channy.creation.net/blog/1199)
 * [‘개발문화를 혼자서 바꿀 수 없다’며 포기하기엔 이릅니다 - Dico](https://dico.me/topic/articles/296/ko)
+  * 사람인에서 한 개발자가 사내 개발 문화를 바꾸기 위해 6개월간 노력한 과정과 성과를 정리
+  * 기술 블로그는 외부 개발자를 위한 마케팅 수단이지만 사내 개발자 간의 차이는 줄어들지 않으므로 기술 블로그와 같은 접근으로 사내 개발자를 대상으로 정기적으로 글을 써서 발행
+  * 주 업무가 아니라서 시간도 부족하고 주제 선정에도 어려움이 있었지만, 같이 글을 써줄 사람도 생기고 사내 개발자들에게 관심도 받게됨
+  * 문화를 바꾸기 어렵다고 하기 쉬운데 한 명이어도 포기하지 않고 글을 쓰는 적극성이 놀랍고 어떻게 해야 동료 개발자에게 영향을 줄 수 있는지 고민을 많이 한 듯
 * [나는 그동안 무엇으로 성장했을까?](http://huns.me/development/2281) 코드 이외의 측면에서 개발에 필요한 분야
 * 쉽게 알아보는 서버 인증
   * [1편(세션/쿠키 , JWT)](http://tansfil.tistory.com/58)
@@ -2021,6 +2025,9 @@ Programming
 * [How does Google Authenticator work? (Part 1)](https://prezu.ca/post/2021-07-30-totp-1/) python hashlib
 * [How does Google Authenticator work? (Part 2)](https://prezu.ca/post/2021-08-12-totp-2/) python hmac
 * [How does Google Authenticator work? (Part 3)](https://prezu.ca/post/2021-08-16-totp-3/) base32
+* [OWASP Top 10:2021 (DRAFT FOR PEER REVIEW)](https://owasp.org/Top10/)
+  * 오픈소스 웹 애플리케이션 보안 프로젝트인 OWASP에서 2021년 가장 많이 일어나는 보안 문제 10개 발표
+  * 2017년과 비교해서 달라진 순서를 알기 쉽게 표시, 잘못된 접근 제어, 암호화 관련 실패, 주입, 보안이 약한 설계, 잘못된 보안 설정 등
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
@@ -2680,6 +2687,7 @@ Programming
   * [기술 뉴스 #178 : 21-07-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1554)
   * [기술 뉴스 #180 : 21-08-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1560)
   * [기술 뉴스 #181 : 21-09-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1564)
+  * [기술 뉴스 #182 : 21-09-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1566)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
