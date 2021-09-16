@@ -673,6 +673,9 @@ Javascript
 * [SSR? Server-Side Rendering? 그게 뭔데? | by We SeungJun | IOTRUST : Team Blog | Jul, 2021 | Medium](https://medium.com/iotrustlab/ssr-server-side-rendering-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0-22d7e918ec1)
 * [로그인 페이지 만들기 실무편 | Animated Login page Tutorial (Label Text Animation) - YouTube](https://www.youtube.com/watch?v=dWfpp-0riYA)
 * [Learn JavaScript Event Listeners In 18 Minutes - YouTube](https://www.youtube.com/watch?v=XF1_MlZ5l6M)
+* [JavaScript Eventing Deep Dive](https://web.dev/eventing-deepdive/)
+  * 브라우저 DOM의 이벤트를 버블링/캡쳐링의 동작 방식 설명, stopPropagation(), stopImmediatePropagation()가 어떻게 동작하는지 보여줌
+  * 단계마다 테스트해 볼 수 있는 예제로 쉽게 이해 가능, 마지막으로 preventDefault()가 기본 동작을 방지한다는 게 어떤 의미인지 설명
 * [Web Worker를 사용한 이미지 로딩 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-01-03-image-load-by-web-worker)
 * [브라우저 Web Worker 다루기 with 오피스 문서 텍스트 추출 및 암호해제 – tech.kakao.com](https://tech.kakao.com/2021/09/02/web-worker/)
 * [Teaching the Unfortunate Parts](https://www.executeprogram.com/blog/teaching-the-unfortunate-parts)
@@ -1771,6 +1774,12 @@ Javascript
   * [WebGL implementation of 2D Dynamic Lighting](http://xnajs.com/examples/02/)
   * [Re-Creating Megaman 2](https://medium.com/recreating-megaman-2-using-js-webgl)
   * [WebGLStudio.js](http://webglstudio.org/)
+* [WebGPU](https://gpuweb.github.io/gpuweb/)
+  * [Access modern GPU features with WebGPU](https://web.dev/gpu/)
+    * GPU를 이용해서 렌더링이나 계산을 수행할 수 있게 하는 API
+    * WebGL과 비슷하게 느껴질 수 있지만 WebGL은 주로 그리기와 관련, WebGPU를 사용하면 더 고급 기능을 사용 가능
+    * Chrome 94부터, 플래그를 활성화하고 오리진 트라이얼 단계이므로 토큰을 받아서 설정하면 사용 가능
+    * 이 오리진 트라이얼은 Chrome 97에서 종료 예정
 * [webm.js](https://kagami.github.io/webm.js/)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
