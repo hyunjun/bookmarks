@@ -3979,6 +3979,7 @@ Python
   * [Python virtualenv 정리 (Linux/Windows) :: 개발새발로그](https://dgkim5360.tistory.com/entry/python-virtualenv-on-linux-ubuntu-and-windows)
   * [Advice and Tips to Properly Work with Virtual Environments | by François St-Amant | Towards Data Science](https://towardsdatascience.com/advice-and-tips-to-properly-work-with-virtual-environments-67bbad9ba5b6)
   * [Virtual Environments — Setup and Importance in Python | by Robbie Prior | Jul, 2021 | Towards Data Science](https://towardsdatascience.com/virtual-environments-setup-importance-python-4375fed7d40b)
+  * [윈도우의 powershell에서 가상환경이 활성화 안되는 이유](https://dreamlog.tistory.com/603)
 * [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io)
   * [Virtualenv/VirtualenvWrapper OS별 설치&이용법](https://beomi.github.io/2016/12/28/HowToSetup-Virtualenv-VirtualenvWrapper/)
   * [A guide to Python virtual environments with virtualenvwrapper | Opensource.com](https://opensource.com/article/21/2/python-virtualenvwrapper)
