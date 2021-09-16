@@ -1120,6 +1120,7 @@ Docker
   * Kubernetes 노드 오토스케일러
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
   * [Announcing KEDA: bringing event-driven containers and functions to Kubernetes](https://cloudblogs.microsoft.com/opensource/2019/05/06/announcing-keda-kubernetes-event-driven-autoscaling-containers/)
+* [kim: In ur kubernetes, buildin ur imagez](https://github.com/rancher/kim) Rancher에서 공개한 Kubernetes 이미지 관리자
 * [Knative](https://knative.dev/)
   * [Knative on EKS](https://ddii.dev/kubernetes/knative-on-aws/)
   * 서버리스 오픈소스 - knative
