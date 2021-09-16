@@ -1171,6 +1171,7 @@ Machine Learning
   * [AI뉴스 AI계의 사대천왕, 앤드류 응 교수님의 주옥같은 인사이트가 우루루~데이터 중심 AI시대 그리고 MLOps의 급부상? 놓치면 안 될 응 교수님의 라이브 강좌 핵심 요약본! - YouTube](https://www.youtube.com/watch?v=20PlFERKCyo)
   * [더 많은 데이터 중심으로, 덜 적은 모델로!](https://brunch.co.kr/@synabreu/117)
 * [앤드류 응 교수가 말하는 MLOps](https://brunch.co.kr/@synabreu/137)
+* [AI는 '빅데이터(Big Data)'보다 '굿데이터(Good Data)'를 좋아합니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/gooddata20210916)
 * [칼럼ㅣAI 프로젝트 악순환 고리 끊어라··· 'ML옵스' 마인드셋이 필요한 이유 - CIO Korea](https://www.ciokorea.com/news/202454)
 * [MLOps And Machine Learning Roadmap - KDnuggets](https://www.kdnuggets.com/2021/08/mlops-machine-learning-roadmap.html)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
