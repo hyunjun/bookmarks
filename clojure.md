@@ -1056,6 +1056,7 @@ Clojure
   * [Asynchronous Ring](https://skillsmatter.com/skillscasts/9057-asynchronous-ring)
   * [Async Ring 미들웨어 패턴](http://clojure.kr/async-ring-middleware-pattern)
   * [The Artificery: A (poorly) animated introduction to Clojure's HTTP server library Ring](https://drewverlee.github.io/posts-output/2021-5-2-ring)
+  * [ring-defaults: A library to provide sensible Ring middleware defaults](https://github.com/ring-clojure/ring-defaults)
 * [rss-saver: Simple Clojure (Babashka) script that saves articles from world.hey.com RSS feeds](https://github.com/adam-james-v/rss-saver)
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
@@ -1099,6 +1100,7 @@ Clojure
 * [vizard - magic visualization](https://github.com/yieldbot/vizard)
 * [void.cljc: About void and absence of information](https://github.com/helins/void.cljc)
 * [walkable - SQL library for building APIs](https://walkable.gitlab.io/)
+* [ziggurat: A stream processing framework to build stateless applications on Kafka](https://github.com/gojek/ziggurat)
 
 ## Library Command Line
 * [Kira McLean | Building A Fast Command Line App With Clojure](https://kiramclean.com/blog/building-a-fast-command-line-app-with-clojure/)
