@@ -279,6 +279,7 @@ Finance
 * CybosPlus 대신증권
   * [오픈 API를 이용한 주식 데이터 수집하기 (1) 환경 설정](https://gils-lab.tistory.com/5)
   * [오픈 API를 이용한 주식 데이터 수집하기 (2) 일별 코스피/코스닥 데이터 수집 방법](https://gils-lab.tistory.com/6)
+  * [오픈 API를 이용한 주식 데이터 수집하기 (3) 분틱 코스피/코스닥 데이터 수집 방법](https://gils-lab.tistory.com/27)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
 * [sec-web-scraping](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-finance/sec-web-scraping)
