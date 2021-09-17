@@ -1032,6 +1032,7 @@ Machine Learning
 * [How to break a model in 20 days. A tutorial on production model analytics](https://evidentlyai.com/blog/tutorial-1-model-analytics-in-production)
 * [Shopee - Price Match Guarantee | Kaggle](https://www.kaggle.com/c/shopee-product-matching/discussion/238136)
 * [캐글 집 가격 예측 대회 탐색적 데이터 분석 - 캐글 스터디 2기 - YouTube](https://www.youtube.com/watch?v=KGJxNW67b7I)
+* [Upstage Talks 학부 문과생이 세계 랭킹 24위 캐글 그랜드 마스터가 되기까지 - YouTube](https://www.youtube.com/watch?v=TwF2EB9UCsI)
 * [AI Factory](http://aifactory.space/)
 
 # K nearest neighbors
