@@ -3785,6 +3785,7 @@ Javascript
 * [tsconfig.json JavaScript Support](https://velog.io/@juunini/tsconfig.json-JavaScript-Support)
 * [tsconfig.json Editor Support](https://velog.io/@juunini/tsconfig.json-Editor-Support)
 * [tsconfig.json Interop Constraints](https://velog.io/@juunini/tsconfig.json-Interop-Constraints)
+* [Write Safer JavaScript Applications with TypeScript! - YouTube](https://www.youtube.com/watch?v=B3-EdIl7DFQ)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
