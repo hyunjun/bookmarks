@@ -353,6 +353,9 @@ History
 * [기사 - 홍콩의 진실에 대하여 4: 홍콩인 정체성, 탄생하다](https://www.ddanzi.com/ddanziNews/694805428)
 * [기사 - 홍콩의 진실에 대하여 5: 정치를 연습하지 못한 자유인, 중국과 충돌하다](https://www.ddanzi.com/ddanziNews/696583455)
 * [기사 - 홍콩의 진실에 대하여 6: 중화민족에서 이탈하다](https://www.ddanzi.com/ddanziNews/697709192)
+* [기사 - 홍콩의 진실에 대하여 7: 영국과 일본의 식민지배, 다른 평가와 이유는?](https://www.ddanzi.com/ddanziNews/698759608)
+* [기사 - 홍콩의 진실에 대하여 8: 중국보다 영국에 기운 결정적 사건, 문화대혁명](https://www.ddanzi.com/ddanziNews/699842351)
+* [기사 - 홍콩의 진실에 대하여 9: 중국의 속마음은 상상과는 조금 달랐다](https://www.ddanzi.com/ddanziNews/700877592)
 * [왜 중국은 고령화를 걱정하는가?](https://pgr21.com/freedom/90326)
 
 ## India
