@@ -3995,6 +3995,7 @@ Javascript
 * [Tour of Vue.js · Present](https://present.do/decks/60bf94931903093a77d16467)
 * [Vue.js 강의 자료 · Present](https://present.do/courses/60dc15a9e81ae77becf4e27b)
 * [INVESTING.COM 클론 코딩(feat. Vue JS SSR, CANVAS API)](https://zuminternet.github.io/zum-front-investing-clone/)
+* [Vue 3의 setup 기능이 제공하는 간결한 컴포넌트 문법 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-09-17-vue-3-script-setup)
 * [anissia-core](https://github.com/anissia-net/anissia-core)
 * [anissia-web](https://github.com/anissia-net/anissia-web)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
