@@ -918,6 +918,7 @@ NLP
 * [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA)
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
+* [tunib-electra: Korean-English Bilingual Electra Models](https://github.com/tunib-ai/tunib-electra)
 * [WellnessConversationAI: Korean Language Model을 이용한 심리상담 대화 언어 모델](https://github.com/nawnoes/WellnessConversationAI)
 
 ## Language Model LM GPT
