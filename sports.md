@@ -85,8 +85,18 @@ Sports
 * [이현우의 MLB+ 데뷔전에서 반전을 만들어낸 오타니](http://v.sports.media.daum.net/v/20180402130304195)
 * [선발 에이스 시대의 종말이 온다 1이닝 선발부터 벌떼 불펜까지 다양해지는 투수 운용 방식](http://weekly.donga.com/3/all/11/1412439/1)
 * [로봇 심판과 판정 알고리즘의 의미 있는 도전](https://brunch.co.kr/@kakao-it/290)
+* [기사 - 이지풍 코치의 반대 의견 1 : 유망주의 전성기가 짧은 이유](https://www.ddanzi.com/ddanziNews/688136806)
+* [기사 - 이지풍 코치의 반대 의견 2 : '실패의 스포츠'에서 살아남는 법](https://www.ddanzi.com/ddanziNews/690245482)
+* [기사 - 이지풍 코치의 반대 의견 3 : 히딩크의 교훈](https://www.ddanzi.com/ddanziNews/691473275)
+* [기사 - 이지풍 코치의 반대 의견 4 : 영민이와 우준이에게 필요했던 것](https://www.ddanzi.com/ddanziNews/693704778)
+* [기사 - 이지풍 코치의 반대 의견 5 : 올림픽을 넘어, 한국 야구는 당최 뭐가 문제일까](https://www.ddanzi.com/ddanziNews/695269320)
+* [기사 - 이지풍 코치의 반대 의견 6 : 3할은 어떻게 만들어지는가](https://www.ddanzi.com/ddanziNews/696573810)
+* [기사 - 이지풍 코치의 반대 의견 7 : 박재상은 왜 훌륭한가](https://www.ddanzi.com/ddanziNews/697710453)
+* [기사 - 이지풍 코치의 반대 의견 8 : 볼배합과 데이터 야구에 대한 환상](https://www.ddanzi.com/ddanziNews/698762785)
+* [기사 - 이지풍 코치의 반대 의견 9 : 선수의 미래를 망치는 방법](https://www.ddanzi.com/ddanziNews/699832050)
+* [기사 - 이지풍 코치의 반대 의견 10 : 내가 설기현을 존경하는 이유](https://www.ddanzi.com/ddanziNews/700948896)
 
-## Sabremetrics
+## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
 * [nc soft 데이터 사이언스](https://blog.ncsoft.com/rd/data-science/)
 * [blog.ncsoft.com/?tag=야구-데이터-분석](http://blog.ncsoft.com/?tag=%EC%95%BC%EA%B5%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D)
