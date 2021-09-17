@@ -72,6 +72,7 @@ Game
 * [Game Source Code Collection : Free Software : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/gamesourcecode)
 * [isao의 IT,게임번역소 : 고전 게임의 소스코드를 다운로드 할 수 있는 「Game Source Code Collection」](http://isao76.egloos.com/2662070)
 * [돌핀 에뮬레이터](https://ko.dolphin-emu.org/)
+* [CSEngine: CSEngine is a cross-platform 3D game engine](https://github.com/ounols/CSEngine)
 * [Doom3 BFG Source Code Review: Introduction](https://fabiensanglard.net/doom3_bfg/index.php)
 * [Elevator Saga - the elevator programming game](https://play.elevatorsaga.com/)
   * [엘리베이터 프로그래밍 게임 | GeekNews](https://news.hada.io/topic?id=4703)
