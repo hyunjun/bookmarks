@@ -196,6 +196,7 @@ PyTorch
 * [Federated-Averaging-PyTorch](https://github.com/vaseline555/Federated-Averaging-PyTorch) FedAvg
 * [Suite를 활용한 머신러닝 워크플로우 실전 체험기 – Superb AI Blog](https://blog.superb-ai.com/ko/data-labeling-with-superb-ai-suite/)
 * [PyTorch to TF.js Conversion](https://swyoon.notion.site/PyTorch-to-TF-js-Conversion-9eb8062fa524429c9c8df73b03a09c71)
+* [Automatic Differentiation in Python and PyTorch - YouTube](https://www.youtube.com/watch?v=9aBpF0-JH7A)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
