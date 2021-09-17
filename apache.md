@@ -424,6 +424,7 @@ Apache
   * [Topic Replication](http://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-topic-replication/)
   * [Replication Factor 변경](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-replication-factor-%EB%B3%80%EA%B2%BD/)
   * [카프카 매니저 소개](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B9%B4%ED%94%84%EC%B9%B4-%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%86%8C%EA%B0%9C/)
+* [Kafka Summit Americas 2021 Recap | Confluent](https://www.confluent.io/blog/kafka-summit-americas-2021-recap/)
 * [Kafka Summit New York](https://kafka-summit.org/kafka-summit-ny/schedule/)
 * [Kafka Summit New York 2019 Session Videos](https://www.confluent.io/blog/kafka-summit-new-york-2019-session-videos)
 * [Kafka Summit San Francisco](https://www.confluent.io/resources/kafka-summit-san-francisco-2019/)
