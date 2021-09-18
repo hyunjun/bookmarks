@@ -282,6 +282,7 @@
 * [Understanding the crux of objects and classes in python. | by Aakash Agrawal | Towards Data Science](https://towardsdatascience.com/understanding-the-crux-of-objects-and-classes-in-python-87c5f4f22d76)
 * [Start Python #1 Thread safe 싱글톤 패턴 - Kowana's coding](https://www.kowanas.com/coding/2020/11/29/%EC%8B%B1%EA%B8%80%ED%86%A4-%ED%8C%A8%ED%84%B4/)
 * [초보 탈출 #1 - 어려운 문제 조각내서 해결하기 | 10분 TV](http://10bun.tv/beginner/episode-1/#%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%98%84%EC%9E%A5-%EC%82%AC%EC%A7%84)
+* [The S.O.L.I.D Principles in Python | by Bk Lim | Geek Culture | Sep, 2021 | Medium](https://medium.com/geekculture/the-s-o-l-i-d-principles-in-python-a041c5aa9969)
 
 # Ruby
 * [**(번역) 루비에서 상속을 피하는 방법**](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)
