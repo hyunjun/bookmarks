@@ -532,6 +532,7 @@ Web
 * [AdminLTE 다기능의 Bootstrap기반 관리 화면 템플릿](http://neojjang.tistory.com/entry/%EB%8B%A4%EA%B8%B0%EB%8A%A5%EC%9D%98-Bootstrap%EA%B8%B0%EB%B0%98-%EA%B4%80%EB%A6%AC-%ED%99%94%EB%A9%B4-%ED%85%9C%ED%94%8C%EB%A6%BF-AdminLTE)
 * [codepen.io](http://codepen.io/Yakudoo/pen/YXxmYR)
 * [BakerStreet - Simple client side load balancer for microservices](http://bakerstreet.io/)
+* [Bit: The platform for the modular web](https://bit.dev/)
 * [CODEF API - 인코딩, 암호화 등 API 요청에 필요한 전처리 작업을 최소화하고 쉽게 개발할 수 있는 API](https://github.com/dc7303/easy-codef-py)
 * [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
   * [딥스트림, 오픈소스 실시간 서버 기술 공개](http://www.bloter.net/archives/260428)
@@ -544,6 +545,7 @@ Web
 * [html5-qrcode: A cross platform HTML5 QR code reader](https://github.com/mebjas/html5-qrcode)
   * [Html5-QRCode - 크로스플랫폼 QR코드 리더 | GeekNews](https://news.hada.io/topic?id=4397)
 * [htmlq: Like jq, but for HTML](https://github.com/mgdm/htmlq) JSON을 쉽게 조회하고 조작할 수 있는 jq처럼 CSS 셀렉터를 이용해서 HTML을 조회할 수 있는 CLI
+  * [htmlq - jq for HTML | GeekNews](https://news.hada.io/topic?id=4973)
 * [HTTP/2 Dashboard BETA - Monitoring the adoption and performance of HTTP/2 on the Web](http://isthewebhttp2yet.com/index.html)
 * [Hurl.it - Make HTTP requests](https://www.hurl.it/)
   * [Hurl - 웹기반 HTTP Req 테스트 도구 | GeekNews](https://news.hada.io/topic?id=4250)
@@ -573,6 +575,11 @@ Web
   * [Designing REST API with Open API Specification (OAS) v2.0 & v3.0 using Swagger](https://hackernoon.com/designing-rest-api-with-open-api-specification-oas-v2-0-v3-0-using-swagger-11dd4ef8cea6)
 * [TSWS, A Totally Simple Web Server](https://github.com/dfletcher/tsws)
 * [UrlDiff - Simple visual regression testing](http://www.productchart.com/blog/2015-07-19-urldiff)
+* [web2img: This is the real WebPack](https://github.com/etherdream/web2img) can use image hosting sites as free CDNs to save bandwidth costs
+* [WebDevCurriculum: Knowre 웹개발 커리큘럼](https://github.com/Knowre-Dev/WebDevCurriculum)
+  * [Knowre 신입 웹개발 커리큘럼 | GeekNews](https://news.hada.io/topic?id=4968)
+* [zero: Allow startup developers to ship to production on day 1](https://github.com/commitdev/zero)
+  * [Zero - 스타트업이 첫날부터 개발 & 배포 가능하게 해주는 부트스트래핑 도구 | GeekNews](https://news.hada.io/topic?id=4957)
 
 # Lisp
 * [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm)
@@ -924,6 +931,7 @@ Web
 * [구글, A/B 테스팅 도구 ‘옵티마이즈’ 정식 출시](http://www.bloter.net/archives/275916)
 * [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://medium.com/netflix-techblog/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
 * [5 Tricks When A/B Testing Is Off The Table](https://www.kdnuggets.com/2017/12/5-tricks-ab-testing.html)
+* replay [The Time Travel Debugger for Web Development](https://www.replay.io/)
 
 ## Test Load Test
 * [실전 Web Application 부하 테스트 - 1편](https://blog.imqa.io/siljeon-web-aeb-buha-teseuteu-1byeon/)
