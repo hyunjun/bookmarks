@@ -315,6 +315,9 @@ Open Source
   * [Highly Available and Resilient Multi-Site Deployments Using Spinnaker](https://www.infoq.com/presentations/pivotal-spinnaker-cloud-resiliency/)
 * [SVT-AV1: open-source AV1 encoder and decoder](https://netflixtechblog.com/svt-av1-an-open-source-av1-encoder-and-decoder-ad295d9b5ca2)
 
+# NexClipper
+* [Cloud-Native Open-Source Projects from NexClipper](https://nexclipper.io/plans/)
+
 # Pinterest
 * [Pinterest open-sources Terrapin, a tool for serving data from Hadoop](http://venturebeat.com/2015/09/14/pinterest-open-sources-terrapin-a-tool-for-serving-data-from-hadoop/)
 * [Open-sourcing Terrapin: A serving system for batch generated data](https://engineering.pinterest.com/blog/open-sourcing-terrapin-serving-system-batch-generated-data-0)
