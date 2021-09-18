@@ -23,6 +23,9 @@ GIS
 * [A new way to make maps with OpenStreetMap | Protomaps](https://protomaps.com/blog/new-way-to-make-maps/)
 * [카카오맵이 빠르게 길을 찾아주는 방법: CCH를 이용한 개편기 – tech.kakao.com](https://tech.kakao.com/2021/05/10/kakaomap-cch/)
 * [구글맵 api를 이용해 서울 맛집 리스트 지도 시각화 및 인구수의 상관관계](https://speedanddirection.tistory.com/87)
+* [맵의 미래는 게임의 현재를 따라간다 (번역) – 이바닥늬우스](https://ebadak.news/2021/09/04/mappings-future-looks-like-gamings/)
+  * [맵(지도)의 미래는 게임의 현재를 따라간다 (번역) | GeekNews](https://news.hada.io/topic?id=4963)
+* [Leap seconds: Causing Bugs Even When They Don't Happen - Bert Hubert's writings](https://berthub.eu/articles/posts/leapseconds-expose-bugs-even-when-they-dont-happen/) 윤초
 
 # Go
 * [find3: High-precision indoor positioning framework, version 3](https://github.com/schollz/find3)
