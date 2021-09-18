@@ -727,6 +727,7 @@ Business
 * [airbnb 같은 앱 개발 을 생각하고있다면, 혹은 의뢰를 받았다면](https://blog.naver.com/chowin21/221164195864)
 * [**모바일 서비스를 위한 다양한 지표**](https://lumiamitie.github.io/data/various-metrics-mobile-service/)
   * DAU & MAU, Stickiness, Retention Rate, CPA, Average daily sessions per DAU, Lifetime Value, ARPU, ARPPU, ROI (& ROAS), App load time (& Web Vitals), User Satisfaction, Goal Achievement, Marketing Acquisition, Behavior flow rate
+* [2021 모바일 쇼핑 앱 보고서 : 리테일의 현재와 미래 37p 한국어 PDF | GeekNews](https://news.hada.io/topic?id=4970)
 
 # OKR, Objective Key Results
 * [목표 설정 Framework, OKR](https://brunch.co.kr/@jjollae/8)
