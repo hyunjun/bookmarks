@@ -883,6 +883,7 @@ Business
 * ["사람 좋으면 사업하기 어렵다"는 말, 사실일까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/goodceo20210108)
 * [망했을때 어떻게 할 것인가](https://jojoldu.tistory.com/599)
 * [Y-Combinator 2021 여름 데모데이 참가 스타트업 377개 | GeekNews](https://news.hada.io/topic?id=4974)
+* [안 할 이유 vs. 해야 할 이유](https://www.thestartupbible.com/2021/09/prioritizing-your-musts-over-your-wants.html)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
