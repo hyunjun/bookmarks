@@ -61,7 +61,6 @@ AWS
 * [Wild Rydes Serverless Workshops](https://github.com/awslabs/aws-serverless-workshops)
 * AWSKRUG&JAWS-UG Meetup #1
   * [Serverless Real-Time Analysis](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-serverless-realtime-analysis)
-  * [70% Cost Reduction with On-demand resizing](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-70-cost-reduction-with-ondemand-resizing)
   * [일본 활용 메뉴얼](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1)
   * [태양광발전소 원격 감시 시스템의 대량데이터 해석【株式会社fusic】](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-fusic)
 * [AWSKRUG meetup](https://github.com/awskrug/meetups/blob/master/README.md)
@@ -104,7 +103,6 @@ AWS
 * [Amazon Web Services Korea’s slideshows on SlideShare](https://www.slideshare.net/awskorea/tag/awscloud2017)
 * [AWS Spot Instance를 좀 더 편하게 사용해보자](http://everyevery.net/index.php/2017/01/aws-spot-instance%EB%A5%BC-%EC%A2%80-%EB%8D%94-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90/)
 * [Spot Instance 사용하는 방법](https://developer88.tistory.com/309)
-* [스팟인스턴스 도입을 통한 비용 최적화](https://brunch.co.kr/@alden/66)
 * [AWS, Kubernetes 그리고 WAF](https://dailyhotel.io/aws-kubernetes-%EA%B7%B8%EB%A6%AC%EA%B3%A0-waf-f8fb5fe54caf)
 * [AWS Managed WAF 체험기](https://medium.com/benx-tech-blog/aws-managed-waf-%EC%B2%B4%ED%97%98%EA%B8%B0-eea52affb295)
 * [AWS WAF 운영에 대한 이야기 - 우아한형제들 기술 블로그](https://woowabros.github.io/security/2020/10/15/woowa-aws-waf.html)
@@ -153,9 +151,6 @@ AWS
 * [RMySQL 및 DBI 설치하기](https://hjpco.wordpress.com/2017/05/30/aws-rmysql-%EB%B0%8F-dbi-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
 * [Request Spot Instances 이용하기](https://hjpco.wordpress.com/2017/06/14/aws-spot-instance-%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0/)
 * [AWS 6월 웨비나 | AWS CodeStar를 통한 DevOps 기반 프로젝트 운영 (윤석찬 테크에반젤리스트)](https://www.slideshare.net/awskorea/aws-code-star-devops)
-* [AWS 비용 얼마까지 줄여봤니?](http://tosslab.github.io/backend/2017/07/18/aws_instance_scheduler.html)
-* [AWS와 Firebase 비용에 관한 생각 정리](https://developer88.tistory.com/291)
-* [AWS 비용 연 1억원 줄이기 - DevJelly](https://dev-jelly.netlify.app/posts/AWS%20%EB%B9%84%EC%9A%A9%20%EC%97%B0%201%EC%96%B5%EC%9B%90%20%EC%A4%84%EC%9D%B4%EA%B8%B0)
 * [Tiamat - Python으로 만드는 AWS Provisioning Tool](https://www.slideshare.net/jesangyoon/tiamat-python-aws-provisioning-tool)
 * [AWS 주간 소식 모음 – 2018년 2월 4일](https://aws.amazon.com/ko/blogs/korea/week-in-review-04-02-18)
 * [AWS 주간 소식 모음 – 2018년 1월 22일](https://aws.amazon.com/ko/blogs/korea/week-in-review-22-1-18)
@@ -315,17 +310,12 @@ AWS
 * [AWS 기반, 지속 가능한 데이터 분석 플랫폼 구축하기](https://brunch.co.kr/@zigzag/16)
 * [3.AWS가입과 무료서버1대 받기](https://brunch.co.kr/@topasvga/77)
 * [AWS Fargate, Fluentd 및 Amazon Kinesis Data Firehose를 사용한 확장형 로그 솔루션 집계기 구축하기](https://aws.amazon.com/ko/blogs/korea/building-a-scalable-log-solution-aggregator-with-aws-fargate-fluentd-and-amazon-kinesis-data-firehose)
-* [AWS EBS(Elastic Block Storage) 비용 최적화](https://www.popit.kr/aws-ebselastic-block-storage%EC%9D%98-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94/)
-* [AWS EBS(Elastic Block Storage) 비용 최적화](https://ericygkim.wordpress.com/2019/07/11/aws-ebselastic-block-storage-%EC%9D%98-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94/)
-* [AWS 블록 스토리지 개요와 비용](https://andromedarabbit.net/aws-%EB%B8%94%EB%A1%9D-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EA%B0%9C%EC%9A%94%EC%99%80-%EB%B9%84%EC%9A%A9/)
 * ['AWS는 만능이 아니야'··· EBS 데이터 백업 방법](http://www.ciokorea.com/news/131699)
 * [EBS(Elastic Block Storage)에 대한 정리 #EC2](https://developer88.tistory.com/315)
 * [신규 발표된 EBS gp3로의 전환 – OpsNow Tech Blog](https://blog.opsnow.com/26)
 * [AWS-Linux-EBS-to-EFS - 리눅서의 기술술 블로그](https://linuxer.name/2020/09/aws-linux-ebs-to-efs/)
-* [Re:Invent 2020에 소개된 gp3로 EBS 비용을 절감해보자! – 클라우드 지식 공유 블로그](https://bloggrumatic.wpcomstaging.com/2020/12/11/ebs-gp3-selection-guide/)
 * [AWS EBS gp3 출시하자마자 EKS에서 사용하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/07/05/ebs-csi-gp3-support.html)
 * [AWS Announces the General Availability of Amazon EBS io2 Block Express Volumes](https://www.infoq.com/news/2021/07/amazon-ebs-io2-block-ga/)
-* [AWS 비용 최적화 – 1. 리디북스의 예약 인스턴스 활용 사례](https://aws.amazon.com/ko/blogs/korea/cost-optimization-cases-ridibooks-reserved-instance/)
 * [AWS의 Certificate Manager 로 SSL 인증서 발급 받기](https://jojoldu.tistory.com/434)
 * [우분투에서 letsencrypt로 인증서 발급, AWS에 적용](https://jybaek.tistory.com/821)
 * [Announcing PartiQL: One query language for all your data](https://aws.amazon.com/jp/blogs/opensource/announcing-partiql-one-query-language-for-all-your-data/)
@@ -350,7 +340,6 @@ AWS
 * [Service Catalog Part 1](https://zigispace.net/1056)
 * [데이터가 모든 것을 지배하는 곳, 아마존닷컴](https://ppss.kr/archives/207228)
 * [Three ways to reduce the costs of your HTTP(S) API on AWS](https://gameanalytics.com/blog/reduce-costs-https-api-aws.html)
-* [AWS Cloud Cost Checklist V2](https://www.sensedeep.com/blog/posts/stories/checklist-to-lower-aws-cloud-costs.html)
 * [**All my serverless content in 2019**](https://medium.com/theburningmonk-com/all-my-serverless-content-in-2019-8e59aa8974b6)
 * [My 2019 Serverless year in review](https://www.linkedin.com/pulse/my-2019-serverless-year-review-eric-johnson/)
 * [**serverless framework plugins 내가 쓰는 플러그인과 이유**](https://libsora.so/posts/serverless-framework-plugins/)
@@ -443,6 +432,7 @@ AWS
 * [AWS’s Egregious Egress](https://blog.cloudflare.com/aws-egregious-egress/)
 * [Amazon QLDB - 블록체인급 원장 데이터베이스 서비스 :: #5분클라우드데모 - YouTube](https://www.youtube.com/watch?v=o-Aah2Yei7s)
 * [지그재그는 DB 없이 데이터를 갖고 논다 - ZDNet korea](https://zdnet.co.kr/view/?no=20210810095607)
+* [Mistakes I've Made in AWS | Laravel News](https://laravel-news.com/aws-mistakes)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -568,7 +558,6 @@ AWS
   * [AWS Summit Seoul 2017 단상](http://raftwood.net/blog/9834)
   * [라즈베리파이와 서버리스 환경을 통한 얼굴 인식 AI 서비스 구현 - AWS Summit Seoul 2017](https://www.slideshare.net/HarryOh1/ai-aws-summit-seoul-2017)
   * [**AWS 클라우드로 천만명 웹 서비스 확장하기 - 윤석찬 백승현 - AWS Summit 2016**](http://www.slideshare.net/awskorea/your-first-10-million-customer-web-service-on-aws-channy-yun)
-  * [AWS 첫 번째 프로젝트 시작하기 :: 노경훈 :: AWS Summit Seoul 2016](https://www.slideshare.net/awskorea/my-first-project-on-aws-cloud-cost-optimization-kungfun-no)
   * [AWS Summit Seoul 2015 - 게임 서비스 혁신을 위한 데이터 분석](http://www.slideshare.net/awskorea/aws-summit-seoul-2015-47454539)
   * [AWS Summit Online Korea](https://aws.amazon.com/ko/events/summits/online/korea/)
     * [**세션 레포트 천만 사용자를 위한 AWS 클라우드 아키텍처 진화하기**](https://dev.classmethod.jp/articles/summitonlinekorea-report-10million-architecture/)
@@ -581,6 +570,23 @@ AWS
   * [AWS DevDay 2018](https://www.youtube.com/playlist?list=PLORxAVAC5fUX-mr4aJYC53zmJNgdxS-gl)
     * [AWS 2018 dev day - GraphQL with Lambda](https://www.slideshare.net/wesky93/aws-2018-dev-day-graphql-with-lambda)
   * [AWS DevDay SEOUL 2017 | 300원에 2백만뷰 소화하기 - 김동희 CTO(로켓펀치)](https://www.youtube.com/watch?v=5ky-35i1FkQ)
+
+# Cost
+* [70% Cost Reduction with On-demand resizing](http://www.slideshare.net/awskr/awskrugjawsug-meetup-1-70-cost-reduction-with-ondemand-resizing)
+* [AWS 비용 최적화 – 1. 리디북스의 예약 인스턴스 활용 사례](https://aws.amazon.com/ko/blogs/korea/cost-optimization-cases-ridibooks-reserved-instance/)
+* [AWS Cloud Cost Checklist V2](https://www.sensedeep.com/blog/posts/stories/checklist-to-lower-aws-cloud-costs.html)
+* [AWS 첫 번째 프로젝트 시작하기 :: 노경훈 :: AWS Summit Seoul 2016](https://www.slideshare.net/awskorea/my-first-project-on-aws-cloud-cost-optimization-kungfun-no)
+* [How to Optimize AWS Lambda Costs (With Examples)](https://dashbird.io/blog/how-to-optimize-aws-lambda-cost-with-examples)
+* [스팟인스턴스 도입을 통한 비용 최적화](https://brunch.co.kr/@alden/66)
+* [AWS 비용 얼마까지 줄여봤니?](http://tosslab.github.io/backend/2017/07/18/aws_instance_scheduler.html)
+* [AWS와 Firebase 비용에 관한 생각 정리](https://developer88.tistory.com/291)
+* [AWS 비용 연 1억원 줄이기 - DevJelly](https://dev-jelly.netlify.app/posts/AWS%20%EB%B9%84%EC%9A%A9%20%EC%97%B0%201%EC%96%B5%EC%9B%90%20%EC%A4%84%EC%9D%B4%EA%B8%B0)
+* [AWS EBS(Elastic Block Storage) 비용 최적화](https://www.popit.kr/aws-ebselastic-block-storage%EC%9D%98-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94/)
+* [AWS EBS(Elastic Block Storage) 비용 최적화](https://ericygkim.wordpress.com/2019/07/11/aws-ebselastic-block-storage-%EC%9D%98-%EB%B9%84%EC%9A%A9-%EC%B5%9C%EC%A0%81%ED%99%94/)
+* [AWS 블록 스토리지 개요와 비용](https://andromedarabbit.net/aws-%EB%B8%94%EB%A1%9D-%EC%8A%A4%ED%86%A0%EB%A6%AC%EC%A7%80-%EA%B0%9C%EC%9A%94%EC%99%80-%EB%B9%84%EC%9A%A9/)
+* [Re:Invent 2020에 소개된 gp3로 EBS 비용을 절감해보자! – 클라우드 지식 공유 블로그](https://bloggrumatic.wpcomstaging.com/2020/12/11/ebs-gp3-selection-guide/)
+* [minecraft-ondemand: Templates to deploy a serverless Minecraft Server on demand in AWS](https://github.com/doctorray117/minecraft-ondemand)
+  * [AWS에서 아주 저렴하게 온디맨드 Minecraft 서버 운영하기 | GeekNews](https://news.hada.io/topic?id=4978)
 
 # Course Lecture MOOC
 * [Getting started with AWS](https://www.slideshare.net/JungwonSeo2/getting-started-with-aws-92003749)
@@ -810,7 +816,6 @@ AWS
 * [Wildrydes 서버리스 웹 애플리케이션 워크샵](https://github.com/awskrug/unithon-serverless-2018)
 * [Asynchronous execution with AWS lambda](https://medium.com/@jee0645/asynchronous-execution-with-aws-lambda-2fbccbe83f78)
 * [Managing Your Lambda Empire with Serverless](https://hackernoon.com/managing-your-lambda-empire-with-serverless-abb6a29c081e)
-* [How to Optimize AWS Lambda Costs (With Examples)](https://dashbird.io/blog/how-to-optimize-aws-lambda-cost-with-examples)
 * [Serverless WebSockets with AWS Lambda & Fanout](https://hackernoon.com/serverless-websockets-with-aws-lambda-fanout-15384bd30354)
 * [AWS Lambda Go vs. Node.js performance benchmark: updated 🔥](https://hackernoon.com/aws-lambda-go-vs-node-js-performance-benchmark-1c8898341982)
 * [Comparing AWS Lambda performance of Node.js, Python, Java, C# and Go](https://read.acloud.guru/comparing-aws-lambda-performance-of-node-js-python-java-c-and-go-29c1163c2581)
@@ -965,6 +970,8 @@ AWS
   * [Serverless with IAC - terraform과 cloudformation 비교](https://www.slideshare.net/wesky93/serverless-with-iac-terraform-cloudformation)
   * [Deploy AWS CloudFormation stacks with GitHub Actions | AWS Open Source Blog](https://aws.amazon.com/ko/blogs/opensource/deploy-aws-cloudformation-stacks-with-github-actions/)
   * [CloudFormation을 이용해서 IaC 입문해보기 | Developers.IO](https://dev.classmethod.jp/articles/introduction-of-iac-using-cloudformation/)
+  * [architect: The simplest, most powerful way to build serverless applications](https://github.com/architect/architect)
+    * [Architect (arc) - 서버리스 앱 작성/배포를 쉽게 해주는 프레임워크 | GeekNews](https://news.hada.io/topic?id=5031)
 * [consoleme: A Central Control Plane for AWS Permissions and Access](https://github.com/Netflix/consoleme)
   * [ConsoleMe: A Central Control Plane for AWS Permissions and Access | Netflix Tech Blog | Netflix TechBlog](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8)
 * [Construct Hub](https://constructs.dev/)
@@ -1176,6 +1183,7 @@ AWS
   * Terraform을 공부해서 스테이징 환경을 만들어 낼 수 있는 모듈과 Environment 코드를 작성하고 도입을 하려고 했지만 tfstate를 잘못 이해하여 설계부터 잘못된 것임을 깨닫고 목표 변경
   * 이후 수동으로 관리할 부분과 Terraform으로 관리할 부분 구분, 리소스 간의 의존성을 확실히 이해할 것을 원칙으로 설정
 * [Giving Away The Keys To The Kingdom: Using Terraform To Automate Databricks - YouTube](https://www.youtube.com/watch?v=h8LrVmb4W2Q) terraform이 IaS에서 일반적으로 쓰이게 되는 걸까?
+* [Terraform is Not the Golden Hammer | Qovery](https://hub.qovery.com/guides/engineering/terraform-not-the-golden-hammer/)
 
 # Tutorial
 * [4분코딩 아마존 웹 서비스(Amazon Web Services)란?](https://www.youtube.com/watch?v=II5wMA5NrVM)
