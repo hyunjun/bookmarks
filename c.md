@@ -376,6 +376,7 @@ C
 * [libsound - cross-platform audio input and output for real-time & consumer software](http://libsound.io/)
 * [liburkel: Authenticated key-value store (i.e. an urkel tree)](https://github.com/chjj/liburkel)
 * [libvips - A fast image processing library with low memory needs. https://libvips.github.io/libvips ](https://github.com/libvips/libvips)
+* [libwebsockets.org lightweight and flexible C networking library](https://libwebsockets.org/)
 * [Ligra: A Lightweight Graph Processing Framework for Shared Memory http://www.cs.cmu.edu/~jshun/ligra.html](https://github.com/jshun/ligra)
 * [lists-in-c - Some subclasses of type list!](https://github.com/ryukinix/lists-in-c)
 * [magma - Extending C with cmacro](https://github.com/eudoxia0/magma)
