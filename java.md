@@ -717,6 +717,11 @@ Java
 * [Internal JDK Elements Strongly Encapsulated in JDK 17](https://www.infoq.com/news/2021/06/internals-encapsulated-jdk17/)
 * [Java News Roundup: JDK 17, JDK 18, Open Liberty, Payara, Quarkus and Spring](https://www.infoq.com/news/2021/07/java-news-roundup-jul05-2021/)
 * [Java 17: These 5 New Features Makes Java 17 Special | CodersTea](https://www.coderstea.com/post/java/java-17-these-5-new-features-makes-java-17-special/)
+* [Java 17, the Next Long-Term Support Release, is Now Available](https://www.infoq.com/news/2021/09/java17-released/)
+* [Java 17 / JDK 17 : General Availability | GeekNews](https://news.hada.io/topic?id=5018)
+* [Why and How to Upgrade to Java 16 or 17](https://www.infoq.com/articles/why-how-upgrade-java17/)
+* [OptaPlanner - How much faster is Java 17?](https://www.optaplanner.org/blog/2021/09/15/HowMuchFasterIsJava17.html)
+* [JDK 17 G1/Parallel GC changes](https://tschatzl.github.io/2021/09/16/jdk17-g1-parallel-gc-changes.html)
 
 # Java18
 * [레코드 및 배열 패턴 外··· 구체화되는 ‘자바 18’ 미리보기 - CIO Korea](https://www.ciokorea.com/news/205454)
@@ -880,6 +885,7 @@ Java
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 * [gctoolkit: Tool for parsing GC logs](https://github.com/microsoft/gctoolkit)
   * [Microsoft Open-Sources GCToolkit to Tap into JVM GC Logs](https://www.infoq.com/news/2021/09/msft-opensourced-gctoolkit/)
+  * [마이크로소프트, 자바 GC툴킷 오픈소스로 공개…JVM 메모리 상태 고급 분석 가능 - ITWorld Korea](https://www.itworld.co.kr/news/207139)
 
 ## JVM Flag, Option
 * `--add-exports java.base/sun.nio.cs=ALL-UNNAMED` [java option --add-exports deprecated된 pakcage를 사용하는 방법](https://medium.com/@strncpy/java-option-add-exports-1f63c81a54a4)
@@ -1017,7 +1023,9 @@ Java
 * [jamm - Java Agent for Memory Measurements](https://github.com/hyunjun/jamm)
 * [javacpp - The missing bridge between Java and native C++](https://code.google.com/p/javacpp/)
 * [java-dirty - A fast append-only data store](http://probablyfine.co.uk/2015/04/11/announcing-java-dirty/)
-* javalin [Introducing Javalin: a Lightweight Web Framework for Java and Kotlin](https://www.infoq.com/news/2019/07/javalin/)
+* javalin
+  * [Introducing Javalin: a Lightweight Web Framework for Java and Kotlin](https://www.infoq.com/news/2019/07/javalin/)
+  * [Javalin - Java와 Kotlin용 경량 웹 프레임워크 | GeekNews](https://news.hada.io/topic?id=5032)
 * [java-linq-examples - 101 C# LINQ Samples in Java](https://github.com/mythz/java-linq-examples)
 * [Java Native Access (JNA)](https://jna.java.net/javadoc/overview-summary.html)
   * [java-native-access jna](https://github.com/java-native-access/jna)
