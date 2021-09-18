@@ -633,6 +633,7 @@ Linux
   * [practice - ntpd, ntpdate, ntpq](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-ntp-md)
   * [RHEL, CentOS에서 ntp 서버 설정하기(사설망 내부 서버들의 시간 동기화)](http://hook.tistory.com/entry/RHEL-CentOS%EC%97%90%EC%84%9C-ntp-%EC%84%9C%EB%B2%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0%EC%82%AC%EC%84%A4%EB%A7%9D-%EB%82%B4%EB%B6%80-%EC%84%9C%EB%B2%84%EB%93%A4%EC%9D%98-%EC%8B%9C%EA%B0%84-%EB%8F%99%EA%B8%B0%ED%99%94)
   * [Building a more accurate time service at Facebook scale](https://engineering.fb.com/production-engineering/ntp-service/) chrony
+  * [2012년에 비트윈 서버를 마비시켰던 윤초 이야기 - VCNC Engineering Blog](https://engineering.vcnc.co.kr/2016/12/struggling-with-the-leap-second/)
 * `objdump` / `gobjdump` (OS X)
   * [practice](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
 * `paste` `paste [-s] [-d<delimiter>] <file 1> <file 2> ... <file n>`
@@ -945,6 +946,7 @@ Linux
 * [kkamagui의 작업실 :: 리눅스 커널 모듈(Linux kernel module) 설치 시 모듈 사이즈 줄이기](https://kkamagui.tistory.com/940)
 * [kkamagui의 작업실 :: 리눅스 커널 다시 컴파일 후 그래픽 모드 전환 오류 해결 방법](https://kkamagui.tistory.com/941)
 * [리눅스 커널 모듈 작성 – Place Of 42Seoul Story](https://42place.innovationacademy.kr/archives/7025)
+* [30 things you didn't know about the Linux kernel | Opensource.com](https://opensource.com/article/21/8/linux-kernel)
 
 ## Kernel Interrupt
 * [Interrupts and Interrupt Handling](https://github.com/0xAX/linux-insides/tree/master/interrupts)
