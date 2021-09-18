@@ -37,6 +37,13 @@ Shell
 * [Writing Safe Shell Scripts](https://sipb.mit.edu/doc/safe-shell/)
   * [안전한 쉘 스크립트 작성하기 | GeekNews](https://news.hada.io/topic?id=1434)
 * [How to navigate directories faster with bash](https://mhoffman.github.io/2015/05/21/how-to-navigate-directories-with-the-shell.html)
+* [Ghost in the Shell | 𝚟𝚎𝚛𝚖𝚊𝚍𝚎𝚗](https://vermaden.wordpress.com/ghost-in-the-shell/)
+  * [Ghost in the Shell – Part 1 | 𝚟𝚎𝚛𝚖𝚊𝚍𝚎𝚗](https://vermaden.wordpress.com/2018/03/15/ghost-in-the-shell-part-1/)
+  * [Ghost in the Shell – Part 2 | 𝚟𝚎𝚛𝚖𝚊𝚍𝚎𝚗](https://vermaden.wordpress.com/2018/07/08/ghost-in-the-shell-part-2/)
+  * [Ghost in the Shell – Part 3 | 𝚟𝚎𝚛𝚖𝚊𝚍𝚎𝚗](https://vermaden.wordpress.com/2018/09/15/ghost-in-the-shell-part-3/)
+  * [Ghost in the Shell – Part 4 | 𝚟𝚎𝚛𝚖𝚊𝚍𝚎𝚗](https://vermaden.wordpress.com/2019/03/15/ghost-in-the-shell-part-4/)
+  * [Ghost in the Shell – Part 5 | 𝚟𝚎𝚛𝚖𝚊𝚍𝚎𝚗](https://vermaden.wordpress.com/2021/04/28/ghost-in-the-shell-part-5/)
+  * [Ghost in the Shell – Part 6 – Learn Shell Scripting | 𝚟𝚎𝚛𝚖𝚊𝚍𝚎𝚗](https://vermaden.wordpress.com/2021/09/13/ghost-in-the-shell-part-6-learn-shell-scripting/)
 * [What exactly was the point of \[ “x$var” = “xval” \]? – Vidar's Blog](https://www.vidarholen.net/contents/blog/?p=1035)
 * [**bash parameter expansion**](https://wizardzines.com/comics/parameter-expansion/)
   * ${var}, ${#var}, ${var/bear/panda}, ${var:-othervar}, ${var:?some error}, ${var#pattern}, ${var%pattern}, ${var:offset:length}
