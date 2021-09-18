@@ -58,6 +58,7 @@ Ruby
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)
 
 # Library
+* [classroom: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub](https://github.com/education/classroom)
 * [Cuba](http://theguidetocuba.io/online.html)
 * [ETL Workflow](https://github.com/OBSLabs/etl)
 * [Fast Ruby :heart_eyes: —— Collect Common Ruby idioms. https://github.com/JuanitoFatas/fast-ruby](https://github.com/JuanitoFatas/fast-ruby)
