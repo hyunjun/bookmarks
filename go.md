@@ -234,6 +234,7 @@ Go
 * [Golang 에서 enum 자료형 사용후기](https://www.popit.kr/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-%EA%B0%9C%EB%B0%9C%EA%B8%B0-golang-%EC%97%90%EC%84%9C-enum-%EC%9E%90%EB%A3%8C%ED%98%95-%EC%82%AC%EC%9A%A9%ED%9B%84%EA%B8%B0/)
 * [Optimizing a Golang service to reduce over 40% CPU](https://medium.com/coralogix-engineering/optimizing-a-golang-service-to-reduce-over-40-cpu-366b67c67ef9)
 * [Why You Should Avoid Pointers in Go](https://medium.com/better-programming/why-you-should-avoid-pointers-in-go-36724365a2a7)
+* [GoLang 포인터 101](https://www.joinc.co.kr/w/man/12/golang/pointer)
 * [Go: Aliases, Simple and Efficient](https://medium.com/a-journey-with-go/go-aliases-simple-and-efficient-8506d93b079e)
 * [Go: How Does gops Interact with the Runtime?](https://medium.com/a-journey-with-go/go-how-does-gops-interact-with-the-runtime-778d7f9d7c18)
 * [Exploring Filter in Go](https://medium.com/better-programming/exploring-filter-in-go-158abc3926)
@@ -592,6 +593,8 @@ Go
     * 원하는 알림의 컨트롤러를 Golang으로 구현하고 Configmap을 이용해서 알림을 만들면 각 프로젝트에서 어노테이션으로 알림을 설정
 * [passgo - Simple golang password manager](https://github.com/ejcx/passgo)
 * [pet : CLI Snippet Manager - Simple command-line snippet manager, written in Go](https://github.com/knqyf263/pet)
+* [pgx: PostgreSQL driver and toolkit for Go](https://github.com/jackc/pgx) database
+  * [How We Went All In on sqlc/pgx for Postgres + Go — brandur.org](https://brandur.org/sqlc)
 * [Plugins for Go](https://github.com/dullgiulio/pingo)
 * [PMC - Probabilistic Multiplicity Counting Sketch (PMC)](https://github.com/seiflotfy/pmc)
 * [QOR - the first E-commerce & CMS SDK written in Go](http://getqor.com/)
@@ -617,6 +620,7 @@ Go
 * [short - URL shortening service written in Go and React https://short-d.com](https://github.com/short-d/short)
 * [Simple REST mail server](https://github.com/dullgiulio/perso/releases/tag/v0.1)
 * [sops: Simple and flexible tool for managing secrets](https://github.com/mozilla/sops) encrypt decrypt
+* [speedtest-resize: Compare various Image resize algorithms for the Go language](https://github.com/fawick/speedtest-resize)
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
 * [Stats - A statistics package with many functions missing from the Golang standard library](https://github.com/montanaflynn/stats)
 * [Stout - a deploy tool for static websites](http://stout.is/)
