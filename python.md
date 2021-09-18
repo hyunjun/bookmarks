@@ -1963,6 +1963,8 @@ Python
   * [Connect AWS EC2 Instance with PyCharm Professional](https://minhoryang.github.io/ko/posts/connect-aws-ec2-instance-with-pycharm-professional/)
   * [개발 환경 구성: 598. PyCharm - 원격 프로세스를 디버그하는 방법](https://www.sysnet.pe.kr/2/0/12798)
 * [PySnooper - Never use print for debugging again](https://github.com/cool-RR/pysnooper)
+* [python-devtools](https://python-devtools.helpmanual.io/)
+  * [Python's missing debug print command and other development tools](https://pythonawesome.com/pythons-missing-debug-print-command-and-other-development-tools/)
 * [traceback_with_variables: Adds variables to python traceback. Simple, lightweight, controllable. Debug reasons of exceptions by logging or pretty printing colorful variable contexts for each frame in a stacktrace, showing every value. Dump locals environments after errors to console, files, and loggers. Works in Jupyter and IPython. Install with pip or conda](https://github.com/andy-landy/traceback_with_variables)
 
 # Docker
@@ -2863,6 +2865,7 @@ Python
 * [jupyterthemes](https://github.com/dunovank/jupyter-themes)
 * [jupyter-vim-binding](https://github.com/lambdalisue/jupyter-vim-binding)
 * jupytext [Version Control With Jupyter Notebook | by Shinichi Okada | Towards Data Science](https://towardsdatascience.com/version-control-with-jupyter-notebook-b9630bc5996e)
+* [jupyverse: A Jupyter server based on FastAPI (Experimental)](https://github.com/jupyter-server/jupyverse)
 * nbextension [Jupyter notebook 테마 및 확장기능(nbextensions) 설치 방법](https://devbull.xyz/jupyter-notebook-theme-extensions/)
 * [nbterm - edit and execute Jupyter Notebooks in the terminal](https://github.com/davidbrochart/nbterm)
   * [nbterm: Jupyter Notebooks in the terminal | by David Brochart | Apr, 2021 | Jupyter Blog](https://blog.jupyter.org/nbterm-jupyter-notebooks-in-the-terminal-6a2b55d08b70)
@@ -2880,6 +2883,7 @@ Python
   * [Open-sourcing Polynote: an IDE-inspired polyglot notebook](https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)
   * [hub.docker.com/r/k3vin/polynote-spark](https://hub.docker.com/r/k3vin/polynote-spark)
 * powerbiclient [Announcing Power BI in Jupyter notebooks | Microsoft Power BI Blog | Microsoft Power BI](https://powerbi.microsoft.com/en-us/blog/announcing-power-bi-in-jupyter-notebooks/)
+* [Pyflyby: Improving Efficiency of Jupyter Interactive Sessions | Quansight Labs](https://labs.quansight.org/blog/2021/07/pyflyby-improving-efficiency-of-jupyter-interactive-sessions/)
 * [pyxll-jupyter · PyPI](https://pypi.org/project/pyxll-jupyter/)
   * 엑셀 주피터 노트북 결합
   * 엑셀 데이터를 파이선으로 조작하거나, 파이선으로 조작된 데이터나 시각화 정보를 엑셀로 가져오는 2-way binding 작업에 유용
@@ -3392,6 +3396,7 @@ Python
 * [PycURL - Python interface to libcurl http://pycurl.io ](https://github.com/pycurl/pycurl)
   * [python requests vs pycurl performance](https://stackoverflow.com/questions/15461995/python-requests-vs-pycurl-performance)
   * [PyCurl 사용하기](https://ash84.net/2017/11/15/pycurl-usage/)
+  * [PycURL: A Python Interface To The cURL library](https://pythonawesome.com/pycurl-a-python-interface-to-the-curl-library/)
 * [pyDash - A Python App For Monitoring Your Linux Server](http://linoxide.com/monitoring-2/pydash-python-app-monitoring-linux-server/)
 * [pydbgen](https://github.com/tirthajyoti/pydbgen)
   * [Introducing pydbgen: A random dataframe/database table generator](https://towardsdatascience.com/introducing-pydbgen-a-random-dataframe-database-table-generator-b5c7bdc84be5)
@@ -3431,6 +3436,7 @@ Python
 * [PyPy.js - an experiment in building a fast and compliant python environment for the web](http://pypyjs.org/)
   * [Episode #32: PyPy.js - PyPy Python in Your Browser](http://talkpython.fm/episodes/show/32/pypy.js-pypy-python-in-your-browser)
 * pyrax [Creating Cloud Servers using Python & Pyrax](http://www.haxed.me.uk/index.php/2015/10/06/creating-cloud-servers-using-python-pyrax/)
+* py-rubik_solver [Makes a 3D representation of a rubiks cube and solves it step by step](https://pythonawesome.com/makes-a-3d-representation-of-a-rubiks-cube-and-solves-it-step-by-step/)
 * [Pysa: Open Source static analysis for Python code - Facebook Engineering](https://engineering.fb.com/security/pysa/)
 * [pyscale - Predicting Application Workload via Extreme Value Analysis](http://mziccard.me/2015/06/19/predicting-workload-via-extreme-value-analysis/)
 * [pysftp](http://pysftp.readthedocs.io/) a kind of wrapper of paramiko
@@ -3662,6 +3668,7 @@ Python
   * [Boosting Python Scripts With Cython](https://blog.paperspace.com/boosting-python-scripts-cython/)
   * [Make Your Python Code Dramatically Faster With Cython | by Halil Yıldırım | Better Programming | Medium](https://medium.com/better-programming/make-your-python-code-dramatically-faster-with-cython-2a307253234b)
   * [runcython - Making cython as easy as python](https://github.com/Russell91/runcython)
+* [Pupy is an opensource, cross-platform (Windows, Linux, OSX, Android) remote administration and post-exploitation tool mainly written in python](https://github.com/n1nj4sec/pupy)
 * [pybind11 - a lightweight header-only library that exposes C++ types in Python and vice versa, mainly to create Python bindings of existing C++ code](https://pybind11.readthedocs.io)
 * [Pythran](https://pythonhosted.org/pythran/index.html)
   * [Pythran is a Python to c++ compiler for a subset of the Python language, with a focus on scientific computing](https://github.com/serge-sans-paille/pythran)
@@ -4314,6 +4321,7 @@ Python
 * [Py) 전처리-데이터프레임 데이터타입 확인 - Data Doctor](https://datadoctorblog.com/2021/09/01/Py-Preprocessing-dataframe-03-checking-column-dtype/)
 * [How To Add New Column to Pandas DataFrame | Towards Data Science](https://towardsdatascience.com/how-to-add-a-new-column-to-an-existing-pandas-dataframe-310a8e7baf8f)
 * [데이터분석 최근, 넷플릭스의 콘텐츠 보유 현황과 수급 전략에 대하여](https://songseungwon.tistory.com/53)
+* [Spreadsheets to Python: it's time | Clive Siviour | Towards Data Science](https://towardsdatascience.com/spreadsheets-to-python-its-time-to-make-the-switch-ef49cf9463d5)
 * [dtale: Visualizer for pandas data structures](https://github.com/man-group/dtale)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
   * [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
