@@ -67,6 +67,8 @@ App
   * 파이썬 오픈소스 : Flask 웹앱 + Click 으로 만든 CLI
   * 플러그인 시스템 : Pocket/HN 을 자동 저장, Git연동
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)
+* [Bonsai | Web Browser for Research](https://bonsaibrowser.com/)
+  * [Bonsai - 개발자 워크플로우를 도와주는 웹브라우저 | GeekNews](https://news.hada.io/topic?id=4976)
 * [cool-retro-term - A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
 * [Diffchecker - Online diff tool to compare text to find the difference between two text files](https://www.diffchecker.com/)
@@ -398,6 +400,7 @@ App
 * [웹 스토리지 : 무엇을 써야할까요?](https://han41858.tistory.com/54)
 * ['업무 줄이고 퇴근 당기는' 크롬 브라우저 활용 팁 8가지 - ITWorld Korea](https://www.itworld.co.kr/news/201124)
 * [Async Cookie Store API 살펴보기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20201027/)
+* [Google Chrome to remove detailed cookie and site data controls](https://lapcatsoftware.com/articles/chrome-cookie.html)
 * thisisunsafe [How to get through Chrome security error pages - Miguel Piedrafita](https://miguelpiedrafita.com/chrome-thisisunsafe)
 * [리스틀리 - 세상에서 가장 빠른 웹 데이터 추출](https://www.listly.io/ko) crawler
   * [아마존과 쿠팡이 쓰는 툴이 한국 SW였다 : 개발자 필요없는 크롤링 서비스 리스틀리 사용기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233475)
@@ -938,7 +941,9 @@ App
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
 * [AntiRTDPI macOS kernel extension helping to neutralise Rostelecom's passive DPI](https://github.com/dzhidzhoev/AntiRTDPI) 웹 차단 우회
 * [appcleaner](https://freemacsoft.net/appcleaner/)
-* applescript [Applescript로 간단한 카톡 자동 대화하기](https://jiyeonseo.github.io/2019/12/28/applescript/)
+* applescript
+  * [Applescript로 간단한 카톡 자동 대화하기](https://jiyeonseo.github.io/2019/12/28/applescript/)
+  * [(예제로 알아보는) AppleScript와 Hammerspoon을 이용한 반복업무 자동화](https://spilist.notion.site/AppleScript-Hammerspoon-f5af9b201916431f955a30cc8591ba68)
 * AppPolice [docker kubernetes 활성화시 CPU 점유율 문제](http://mcchae.egloos.com/11310690)
 * [Backgroundifier - Turn your collection of oddly-sized images into beautiful desktop backgrounds!](http://backgroundifier.archagon.net/)
 * [cactusformac.com](http://cactusformac.com/)
@@ -1751,7 +1756,8 @@ App
   * [The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux | Windows Command Line](https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/)
   * [GWSL-Source: The actual code for GWSL. And some premade binaries](https://github.com/Opticos/GWSL-Source) python
   * [WSL-DistroManager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://github.com/rkttu/WSL-DistroManager)
-  * [WSLg Architecture | Windows Command Line](https://devblogs.microsoft.com/commandline/wslg-architecture/)
+  * [wslg: Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios](https://github.com/microsoft/wslg)
+    * [WSLg Architecture | Windows Command Line](https://devblogs.microsoft.com/commandline/wslg-architecture/)
     * [Introducing Linux GUI apps running on Windows using the Windows Subsystem for Linux (WSL) - YouTube](https://www.youtube.com/watch?v=f8_nvJzuaSU)
   * [WSL-Hello-sudo: Let's sudo by face recognition of Windows Hello on Windows Subsystem for Linux (WSL). It runs on both WSL 1 and WSL 2. This is a PAM module for Linux on WSL](https://github.com/nullpo-head/WSL-Hello-sudo)
   * [WSL Manager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://wslhub.com/)
