@@ -920,6 +920,7 @@ Git
 * [Git Sketch Plugin - A Git client generating pretty diffs built right into Sketch](https://mathieudutour.github.io/git-sketch-plugin/)
 * [gitswarm](http://www.perforce.com/gitswarm)
 * [GitTorrent: A Decentralized GitHub](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
+* [gitui: Blazing 💥 fast terminal-ui for git written in rust 🦀](https://github.com/extrawurst/gitui)
 * [GitUp](http://gitup.co/)
   * [The Git interface you've been missing all your life has finally arrived. http://gitup.co](https://github.com/git-up/GitUp#gitupkit)
 * [Git-User-Switch: Switch git user and email at ease](https://github.com/geongeorge/Git-User-Switch)
