@@ -517,6 +517,10 @@ Docker
   * 환경이 코드에 있으므로 다른 개발자와도 공유해서 관리 가능
 * ["컨테이너 혁명을 주도하는" 도커의 의미와 장단점 - ITWorld Korea](https://www.itworld.co.kr/news/203644)
 * [도커 데스크톱, 대기업 사용자에게는 유료화된다 - CIO Korea](https://www.ciokorea.com/t/537/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98/206529)
+* [DinD(docker in docker)와 DooD(docker out of docker) | 아이단은 어디갔을까](https://aidanbae.github.io/code/docker/dinddood/)
+* [코딩스타트 :: Jenkins - Jenkins dood(docker out of docker)로 실행시켜 agent docker 사용하기](https://coding-start.tistory.com/329)
+* [Docker Out of Docker (DooD) - 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=3382)
+* [Containers Don't Solve Everything](https://blog.deref.io/containers-dont-solve-everything/)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -819,6 +823,7 @@ Docker
 * [Kubernetes — Ingress Overview. What is K8s Ingress? — Introduction to… | by Ashish Patel | DevOps Mojo | Jul, 2021 | Medium](https://medium.com/devops-mojo/kubernetes-ingress-overview-what-is-kubernetes-ingress-introduction-to-k8s-ingress-b0f81525ffe2)
 * [Kubernetes Ingress — AWS EKS Cluster with AWS Load Balancer Controller | by George Tsopouridis | Medium](https://gtsopour.medium.com/kubernetes-ingress-aws-eks-cluster-with-aws-load-balancer-controller-cf49126f8221)
 * [Why and How of Kubernetes Ingress (and Networking) | by getenroute.io/yastack.io | ITNEXT](https://itnext.io/why-and-how-of-kubernetes-ingress-and-networking-6cb308ca03d2)
+* [Docker & Kubernetes - Kubernetes Ingress with AWS ALB Ingress Controller in EKS - 2021](https://www.bogotobogo.com/DevOps/Docker/Docker-Kubernetes-ALB-Ingress-Controller-with-EKS.php)
 * [K8s를 위한 추천 CI/CD](https://andromedarabbit.net/k8s%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B6%94%EC%B2%9C-ci-cd/)
 * [쿠버네티스 코드 읽기](https://sangwook.github.io/2018/06/19/kubernetes-k8s-code.html)
 * [리소스 (Resource)에 대해](http://bcho.tistory.com/1265)
@@ -1112,6 +1117,7 @@ Docker
   * [Azar Mirror 서버 제작기 2편 - Istio와 함께하는 Traffic Mirroring](https://hyperconnect.github.io/2020/06/02/azar-mirror-2.html)
   * [Kubernetes에 Microservice 배포하기 3편 - Canary Deployments with Istio | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/19/microsrv-deploy-3.html)
 * [k0s - Zero Friction Kubernetes](https://github.com/k0sproject/k0s)
+  * [Small Kubernetes for your local experiments: k0s, MicroK8s, kind, k3s, and Minikube – Flant blog](https://blog.flant.com/small-local-kubernetes-comparison/)
 * k3s
   * [k3s로 간단하게 Kubernetes 환경 구축하기](https://si.mpli.st/dev/2020-01-01-easy-k8s-with-k3s/)
   * [Bare-metal Kubernetes with K3s](https://blog.alexellis.io/bare-metal-kubernetes-with-k3s/)
@@ -1171,6 +1177,8 @@ Docker
   * [The NSA Can Help Secure Your Kubernetes Clusters – The New Stack](https://thenewstack.io/the-nsa-can-help-you-secure-your-kubernetes-clusters/)
   * [NSA, CISA release Kubernetes Hardening Guidance > National Security Agency Central Security Service > Article View](https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
   * [kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)](https://github.com/armosec/kubescape)
+    * [Kubescape - 쿠버네티스 보안 설치 확인도구 | GeekNews](https://news.hada.io/topic?id=4966)
+* [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
 * kubespray
   * [처음 만난 Kubespray](http://knight76.tistory.com/entry/kubespary-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-Kubespray)
   * [kubespray를 통한 클러스터 구축 - WONIZZ.LOG](https://blog.wonizz.tk/2021/05/17/kubernetes-kubespray/)
