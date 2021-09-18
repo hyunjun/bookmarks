@@ -676,6 +676,7 @@ Interview
 * [30 seconds of interviews](https://30secondsofinterviews.org/)
 * [CSPA COMPUTER SCIENCE PROFICIENCY ASSESSMENT](https://cspa.io)
 * [Data Interview Qs](https://www.interviewqs.com)
+* [Interview_Question_for_Beginner: Technical-Interview guidelines written for those who started studying programming. I wish you all the best](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)
@@ -773,6 +774,7 @@ Interview
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
 * [cakeresume.com/v2](https://www.cakeresume.com/v2)
 * [ddongule-simple-portfolio: Portfolio for Developers! Make your own portfolio Simple and Fast!](https://github.com/ddongule/ddongule-simple-portfolio)
+* [Dopefolio - 개발자를 위한 포트폴리오 템플릿 오픈소스 | GeekNews](https://news.hada.io/topic?id=5024)
 * [itresumeservice.com](http://www.itresumeservice.com/)
 * [latexresu.me](https://latexresu.me/)
 * [latex_resume_template_kor](https://github.com/changh95/latex_resume_template_kor)
