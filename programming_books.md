@@ -812,6 +812,7 @@ Programming Books
 * [만들면서 배우는 파이토치 딥러닝](https://www.hanbit.co.kr/store/books/look.php?p_code=B7628794939)
   * [만들면서 배우는 파이토치 딥러닝. 파이토치는 텐서플로우와 함께 양대 산맥으로 굳건히 자리 잡고 있어서… | by Jun | Sep, 2021 | Medium](https://nymets.medium.com/%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98-%EB%94%A5%EB%9F%AC%EB%8B%9D-7c977a114fc1)
   * [만들면서 배우는 파이토치 딥러닝](https://jh4hj.tistory.com/entry/%EB%A7%8C%EB%93%A4%EB%A9%B4%EC%84%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98-%EB%94%A5%EB%9F%AC%EB%8B%9D)
+  * [리뷰 만들면서 배우는 파이토치 딥러닝 · TheoryDB](https://theorydb.github.io/review/2021/09/18/review-book-pytorch-dl-making/)
 * (NOT YET) [PyTorch를 활용한 머신러닝, 딥러닝 철저 입문 - 파이토치를 활용한 머신러닝, 딥러닝 알고리즘의 원리와 구현](http://wikibook.co.kr/pytorch/)
 * (NOT YET) [3분 딥러닝 파이토치맛](https://github.com/keon/3-min-pytorch)
 * (NOT YET) [PyTorch를 활용한 강화학습/심층강화학습 실전 입문](http://wikibook.co.kr/pytorch-drl/)
