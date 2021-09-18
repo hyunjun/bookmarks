@@ -268,6 +268,7 @@ SQL
 * [sequel fumpt - Type some SQL. Move the slider to set output width](https://sqlfum.pt/)
   * [sqlfmt: an opinionated online SQL formatter](https://www.cockroachlabs.com/blog/sql-fmt-online-sql-formatter/)
 * [**sq: swiss-army knife for data**](https://sq.io/) jq for relational data
+  * [SQ - swiss-army knife for data | GeekNews](https://news.hada.io/topic?id=3841)
 * [SQLPad - A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, ClickHouse, Crate, Vertica, Presto, SAP HANA, Snowflake, BigQuery, SQLite, and many others via ODBC](https://rickbergfalk.github.io/sqlpad/#/)
 * [SQL Translation - Translate your SQL from one dialect to another](https://www.jooq.org/translate/)
 * Teleport [Introducing Database Access | Teleport](https://goteleport.com/blog/introducing-database-access/) NAT
@@ -651,6 +652,7 @@ SQL
 * [OSC - Facebook releases a new OnlineSchemaChange tool written in Python](http://www.eversql.com/facebook-releases-a-new-onlineschemachange-tool-written-in-python/)
 * [Percona pt-online-schema-change 설치 및 사용하기](https://jojoldu.tistory.com/358)
 * [Planche - Javascript MySQL GUI Client Tool](https://github.com/plancheproject/planche)
+* PlanetScale [플래닛스케일 리뷰 | 수평 확장 가능한 마이SQL 호환 서버리스 DB 플랫폼 - ITWorld Korea](https://www.itworld.co.kr/news/207029)
 * [python-mysql-replication](https://github.com/noplay/python-mysql-replication)
 * Sysbench [How to Install and Use Sysbench - mortensi](https://www.mortensi.com/2021/06/how-to-install-and-use-sysbench/)
 * [TiDB is a distributed SQL database compatible with MySQL protocol](https://github.com/pingcap/tidb#run-as-mysql-protocol-server)
@@ -819,6 +821,7 @@ SQL
 * [PostgreSQL, Memory and the Cloud™ · Alexander Sosna](https://sosna.de/posts/pgaas-memory-overcommit/)
 * [PostgreSQL에서 Order By가 선적용되는 슬로우 쿼리 해결책](https://jojoldu.tistory.com/596)
 * [Five Things You Didn't Know About PostgreSQL | Kevin's Blog](https://blog.kevinlee.io/blog/2012/08/25/five-things-you-didnt-know-about-postgresql/)
+* [PostgreSQL 서버 관리자 지침서](https://docs.google.com/document/u/2/d/e/2PACX-1vTDZ9xHfw301ADVShOtjrcVHyqwS6HMfrNfRA_qRT5NTik25yyc9x1DJPyb6t5eTNAiCiQbNULS4tId/pub)
 * EdgeDB
   * [EdgeDB—The next generation database](https://edgedb.com/)
   * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
@@ -867,6 +870,8 @@ SQL
 * [pgTAP - a suite of database functions that make it easy to write TAP-emitting unit tests in psql scripts or xUnit-style test functions](http://pgtap.org/)
 * [PolarDB-for-PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL)
   * [PolarDB for PostgreSQL | GeekNews](https://news.hada.io/topic?id=4362)
+* [postgres: Unmodified Postgres with some useful plugins](https://github.com/supabase/postgres)
+  * [유용한 확장을 포함한 Postgres Docker 이미지들 | GeekNews](https://news.hada.io/topic?id=4967)
 * [Postgres.app – the easiest way to get started with PostgreSQL on the Mac](https://postgresapp.com/)
 * [PostgresqlCO.NF: PostgreSQL configuration for humans](https://postgresqlco.nf/en/doc/param/)
 * [PostgREST: REST API for any Postgres database](https://github.com/PostgREST/postgrest)
