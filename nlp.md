@@ -1529,6 +1529,7 @@ NLP
 * [엘라스틱서치의 벡터(Vector) 필드와 텐서플로우를 이용한 문서 유사도 검색 (1) > Similarity Search #elasticsearch](https://blog.naver.com/olpaemi/221639136195)
 * [텍스트 요약 모델 성능 평가를 위한 새로운 척도, RDASS를 소개합니다. | Kakao Enterprise AI Research](https://kakaoenterprise.github.io/deepdive/210729)
 * [Nearest Neighbor Indexes for Similarity Search | Pinecone](https://www.pinecone.io/learn/vector-indexes/)
+  * [The Rise of Vector Data - YouTube](https://www.youtube.com/watch?v=hw2ZS5CVs8s)
 
 # Summary, Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
