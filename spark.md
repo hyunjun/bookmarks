@@ -622,6 +622,7 @@
 * [Apache Spark workloads on Kubernetes](https://spot.io/blog/apache-spark-workloads-on-kubernetes/)
 * [Apache Spark Streaming in K8s with ArgoCD & Spark Operator - YouTube](https://www.youtube.com/watch?v=9o50GiPPjpE)
 * [Spark on Kubernetes - Gang Scheduling with YuniKorn - Cloudera Blog](https://blog.cloudera.com/spark-on-kubernetes-gang-scheduling-with-yunikorn/)
+* [Superworkflow of Graph Neural Networks with K8S and Fugue - YouTube](https://www.youtube.com/watch?v=-aEZjQiqSFA) word2vec node2vec
 
 # Library
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
