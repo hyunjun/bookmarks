@@ -8,6 +8,7 @@ Machine Learning
 * [applied-ml: 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
 * [Machine Learning Roadmap 2020](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva) mindmap
 * [ml-roadmap](https://github.com/merveenoyan/ml-roadmap)
+* [ml-engineer-roadmap: WIP: Roadmap to becoming a machine learning engineer in 2020](https://github.com/chris-chris/ml-engineer-roadmap)
 * [Essential Guide to keep up with AI/ML/CV](https://github.com/BAILOOL/DoYouEvenLearn)
 * [머신러닝](https://www.youtube.com/playlist?list=PLVNY1HnUlO241gILgQloWAs0xrrkqQfKe)
 * [reddit.com/r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
