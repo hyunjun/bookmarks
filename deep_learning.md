@@ -807,6 +807,7 @@ Deep Learning
 * [Nevergrad : A Python toolbox for performing gradient-free optimization](https://www.techleer.com/articles/576-nevergrad-a-python-toolbox-for-performing-gradient-free-optimization/)
 * [**역전파 알고리즘 완전정복 A Step by Step Backpropagation**](https://nbviewer.jupyter.org/github/metamath1/ml-simple-works/blob/master/BP/bp.ipynb)
 * [Backpropagation 함께 편미분하기](https://velog.io/@gibonki77/DLmathdifferentiate2)
+* [Batch Normalization - backpropagation 유도하기](https://velog.io/@gibonki77/Batch-Normalization-backpropagation-%EC%9C%A0%EB%8F%84%ED%95%98%EA%B8%B0)
 
 # Baidu
 * [Silicon Valley AI Lab](https://svail.github.io/)
