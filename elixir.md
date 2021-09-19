@@ -76,6 +76,7 @@ Elixir
 * [Elixir vs Scala](https://www.infoq.com/presentations/elixir-vs-scala/)
 * [Elixir in Production: Glific](https://serokell.io/blog/elixir-in-production-glific)
 * [Elixir & Erlang - Fundamentally Pragmatic by Lars Wikman](https://www.youtube.com/watch?v=wbdNB_DugGA&t=3450s)
+* [Drag and Drop with Elixir - Phoenix LiveView and JavaScript Interop](https://www.headway.io/events/elixir-and-javascript-interop-with-phoenix-liveview-drag-and-drop)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
