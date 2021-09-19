@@ -144,6 +144,7 @@ Open Source
 * [zstd Zstandard - Fast real-time compression algorithm http://www.zstd.net ](https://github.com/facebook/zstd)
   * [5 ways Facebook improved compression at scale with Zstandard](https://code.fb.com/core-data/zstandard/)
     * ORC 파일이나 데이터베이스 저장과 같은 사용 사례
+  * [The Rise of ZStandard: Apache Spark/Parquet/ORC/Avro - YouTube](https://www.youtube.com/watch?v=dTGxhHwjONY)
 
 # fossasia
 * [fossasia](https://fossasia.org/)
