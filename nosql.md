@@ -259,6 +259,7 @@ NoSQL
   * [로그인 구현 5분컷? 파이어베이스 무료 강의! - YouTube](https://www.youtube.com/watch?v=cQimgQdTpeQ)
   * [Firebase Dynamic Link Creation Guide | by Muffaddal Qutbuddin | Firebase Developers](https://medium.com/firebase-developers/firebase-dynamic-links-guide-76552c0f292e)
   * [빌드 타입별로 파이어베이스키 설정하기 | Jungwoon Blog](https://jungwoon.github.io/android/firebase/2021/02/16/BuildType-Firebase.html)
+  * [Firebase로 Google 로그인 구현하기 (Spring + React 예제)](https://velog.io/@couchcoding/Firebase%EB%A1%9C-Google-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Spring-React-%EC%98%88%EC%A0%9C)
   * [supabase: The open source Firebase alternative. Follow to stay updated about our public Beta](https://github.com/supabase/supabase)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
