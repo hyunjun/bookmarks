@@ -3263,6 +3263,7 @@ Programming
 * [📰 뉴욕 타임즈는 어떻게 A/B 테스트를 할까?  다른 | 곽기은 | 커리어리](https://careerly.co.kr/comments/18849?)
 * [테크 웨비나 쿠팡 출신 개발자의 A/B 테스트 플랫폼 MVP 개발기 - YouTube](https://www.youtube.com/watch?v=w7JHb60zk9k)
 * [왜 굳이 A/B 테스트인가요?](https://lumiamitie.github.io/data/why-ab-test/)
+* [Decision Making at Netflix. Part 1 in a multipart series about… | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481)
 * [growthbook: The Open Source A/B Testing Platform](https://github.com/growthbook/growthbook)
   * [GrowthBook - 오픈소스 A/B 테스팅 플랫폼 | GeekNews](https://news.hada.io/topic?id=4844)
 
