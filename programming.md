@@ -3032,6 +3032,7 @@ Programming
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
 * [Hello World Example](https://github.com/RussellLuo/grpc-pytools/tree/master/examples)
 * [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 2018](https://www.youtube.com/watch?v=IvsANO0qZEg)
+* [RPC vs Messaging: When to use which? - YouTube](https://www.youtube.com/watch?v=LMKVzguhFw4)
 * grpc
   * [www.grpc.io](http://www.grpc.io/)
     * [Documentation](http://www.grpc.io/docs/)
