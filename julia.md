@@ -111,6 +111,7 @@ Julia
 * [Multiple Dispatch: A Powerful Programming Paradigm | by Alex Powell | Jan, 2021 | Towards Data Science](https://towardsdatascience.com/multiple-dispatch-a-powerful-programming-paradigm-8bc8fcd2c73a)
 * [Optimizing Serial Code](https://mitmath.github.io/18337/lecture2/optimizing)
 * [Profiling type-inference](https://julialang.org/blog/2021/01/snoopi_deep/)
+* [Decision-Making-Under-Uncertainty: Decision making under uncertainty using the POMDPs.jl ecosystem](https://github.com/JuliaAcademy/Decision-Making-Under-Uncertainty)
 
 # API
 * Pkg.add
