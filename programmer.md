@@ -66,6 +66,8 @@ Programmer
 * [3 Mental Models for Coders | by Tyron Jung | Better Programming](https://medium.com/better-programming/3-mental-models-for-programmers-ed0eb4da3e63)
 * [인프런 - 주간 인프런 #22 여기 40년 경력의 개발자가 있다](https://www.inflearn.com/pages/weekly-inflearn-22)
 * [서버 개발자는 무엇부터 학습 해야할까 - 프레임워크, Git, SQL, Linux? - YouTube](https://www.youtube.com/watch?v=JfjH-uVkzAk)
+* [The New Way to Learn - by Sahil Bloom - The Curiosity Chronicle](https://sahilbloom.substack.com/p/the-new-way-to-learn)
+  * [새로운 학습 방법 : 학습은 기술이다 | GeekNews](https://news.hada.io/topic?id=5046)
 * [앨리스의 수다 라방 - YouTube](https://www.youtube.com/playlist?list=PL9fVSJzH3-mopbZLwUUNRp-MsMMte6Cst)
 * [드림코딩 by 엘리 - YouTube](https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w/videos)
 * [Effective Engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
@@ -77,6 +79,7 @@ Programmer
 * [1억 글로벌 서비스를 만들며 배운 것들 2](https://brunch.co.kr/@jinaseong/29) 디자이너 이야기이지만 읽어볼만 함
 * [신입 개발자로서 도움이 된 포스트/자료 모음](https://velog.io/@hyounglee/for-newbies)
 * [쏘카 안드로이드 팀 신입 개발자 미뇽의 입사기 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2021/08/19/join-in-socar-android.html)
+* [기업들이 신입개발자를 뽑지 않는 이유 – IT의 중심에서](https://subokim.wordpress.com/2021/09/15/why_dont_intern/)
 * [Why I prefer making useless stuff - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
 * [System Compleat. System Compleat.](https://kerberosj.tistory.com/) Singapore DBS 근무
 * [왜 개발자는 잘못된 기술 선택을 밥 먹듯이 하나?](https://kingofbackend.tistory.com/129)
