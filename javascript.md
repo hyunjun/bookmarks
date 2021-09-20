@@ -1903,10 +1903,13 @@ Javascript
     * Yarn Berry는 Lerna와 같이 사용 불가 + Lerna 유지보수가 잘 않됨
     * 모노 레포에서 특정 커밋 이후에 변경사항이 있는 워크스페이스만 찾아 명령어를 실행하는 since라는 플러그인 제작
   * [node_modules로부터 우리를 구원해 줄 Yarn Berry](https://toss.tech/article/node-modules-and-yarn-berry)
+  * [yarn berry 프로젝트 생성해보기](https://velog.io/@juunini/yarn-berry-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1%ED%95%B4%EB%B3%B4%EA%B8%B0)
 
 ## Library Bundler
 * [자바스크립트가 아닌 리소스 번들링 하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210914)
 * [esbuild - An extremely fast JavaScript bundler](https://esbuild.github.io/)
+* [Parcel 한국어판](https://ko.parceljs.org/)
+  * [Parcel 사용해보기](https://velog.io/@juunini/Parcel-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
 * [rollup.js - the next-generation JavaScript module bundler](http://rollupjs.org/)
   * [Rollup.js+ Typescript + Storybook으로 구축하는 디자인 시스템](https://ideveloper2.dev/blog/2020-05-17--rollup-ts-%EB%A1%9C-%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
   * [라이브러리 배포 cjs? ejs?](https://www.notion.so/cjs-ejs-f413befcf8ae45589e47fc4d14a5ab9a)
@@ -3004,6 +3007,7 @@ Javascript
 * [리액트 실력을 일취월장 하는 법](https://brunch.co.kr/@skykamja24/606)
 * [Home - About React - A Tutorial website for React Developers](https://aboutreact.com/)
 * [React Virtual Dom and Memo on Performance | by Kasun Vimukthi | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/react-virtual-dom-and-memo-hooks-on-performance-8b9498d7b3e1)
+* [또 컴포넌트가 지멋대로 리렌더링 된다. | Hama Develop](https://www.hamadevelop.me/rerender/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
