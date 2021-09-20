@@ -547,6 +547,7 @@ Business
 * [실력만큼 중요한, 일 잘하는 이미지 쌓기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/218888)
 * [애자일, OKR, 플랫폼… 키워드가 당신을 ‘일잘’로 만들어주진 않는다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233881)
 * [일 잘하는 사람들의 5가지 습관 | ㅍㅍㅅㅅ](https://ppss.kr/archives/244794)
+* [현직자들이 말하는 (뻔하지 않은)일잘러 특징](https://now.rememberapp.co.kr/2021/09/17/14468/) 리더십 이야기는 아님
 * [비즈니스 리더가 스스로에게 꼭 던져야 할 질문 4가지](http://ppss.kr/archives/37789)
 * [쪼잔한 리더가 성공한다](http://ppss.kr/archives/27042)
 * [3가지 부정의 힘으로 조직의 실패를 예방하라](http://ppss.kr/archives/37755)
@@ -884,6 +885,7 @@ Business
 * [망했을때 어떻게 할 것인가](https://jojoldu.tistory.com/599)
 * [Y-Combinator 2021 여름 데모데이 참가 스타트업 377개 | GeekNews](https://news.hada.io/topic?id=4974)
 * [안 할 이유 vs. 해야 할 이유](https://www.thestartupbible.com/2021/09/prioritizing-your-musts-over-your-wants.html)
+* [어떻게 알토스벤처스는 한국에서 가장 핫한 VC가 됐을까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/altosventures20181028)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
