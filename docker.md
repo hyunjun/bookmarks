@@ -1208,6 +1208,8 @@ Docker
   * [Kubernetes의 네트워크 이슈를 해결할 수 있는 network-node-manager – tech.kakao.com](https://tech.kakao.com/2021/03/03/network-node-manager/)
 * [node-feature-discovery: Node feature discovery for Kubernetes](https://github.com/kubernetes-sigs/node-feature-discovery)
 * [Okteto - The Kubernetes development platform](https://okteto.com/) cloud?
+* [OpenEBS - Kubernetes storage simplified](https://openebs.io/)
+  * [Default Kyverno Policies for OpenEBS. - DEV Community](https://dev.to/niveditacoder/default-kyverno-policies-for-openebs-4abf)
 * [OperatorHub.io - a new home for the Kubernetes community to share Operators. Find an existing Operator or list your own today](https://www.operatorhub.io)
 * [QUARKUS - Supersonic Subatomic Java A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards](https://quarkus.io/)
   * [Why Quarkus](http://in.relation.to/2019/03/08/why-quarkus/)
