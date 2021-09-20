@@ -1910,6 +1910,7 @@ Javascript
 * [esbuild - An extremely fast JavaScript bundler](https://esbuild.github.io/)
 * [Parcel 한국어판](https://ko.parceljs.org/)
   * [Parcel 사용해보기](https://velog.io/@juunini/Parcel-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
+  * [yarn2 & parcel 을 이용하여 react 프로젝트 만들기](https://velog.io/@juunini/yarn2-parcel-%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 * [rollup.js - the next-generation JavaScript module bundler](http://rollupjs.org/)
   * [Rollup.js+ Typescript + Storybook으로 구축하는 디자인 시스템](https://ideveloper2.dev/blog/2020-05-17--rollup-ts-%EB%A1%9C-%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
   * [라이브러리 배포 cjs? ejs?](https://www.notion.so/cjs-ejs-f413befcf8ae45589e47fc4d14a5ab9a)
