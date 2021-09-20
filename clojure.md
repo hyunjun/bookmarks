@@ -893,6 +893,7 @@ Clojure
 * [failjure - Monadic error utilities for general use in Clojure projects](https://github.com/adambard/failjure) return값으로 error를 다루는 library
 * [Ferret is a Clojure to C++ compiler](http://dropbox.nakkaya.com/builds/ferret-manual.html)
 * [ffclj: Clojure ffmpeg wrapper](https://github.com/luissantos/ffclj)
+* [fijit: A Clojure library for Scala interop](https://github.com/erp12/fijit)
 * [FkCSS: Powerful styling without leaving Clojure/ClojureScript - f\*\*k CSS](https://github.com/raystubbs/FkCSS)
 * [flambo - A Clojure DSL for Apache Spark](https://github.com/yieldbot/flambo)
 * [flare - Dynamic Tensor Graph library in Clojure (think PyTorch, DynNet, etc.)](https://github.com/aria42/flare)
@@ -1030,6 +1031,8 @@ Clojure
 * [potemkin: some ideas which are almost good](https://github.com/clj-commons/potemkin)
 * [proletarian: A durable job queuing and worker system for Clojure backed by PostgreSQL](https://github.com/msolli/proletarian)
 * [prone Build Status - Better exception reporting middleware for Ring](https://github.com/magnars/prone)
+* [protojure](https://github.com/protojure)
+  * [Introduction to Protojure - YouTube](https://www.youtube.com/watch?v=cGeWBJtOz2Y)
 * [purnam - Language Extensions for Clojurescript http://purnam.github.io/purnam](https://github.com/purnam/purnam)
   * [ClojureScript interop 최강자 : purnam](https://groups.google.com/forum/#!topic/clojure-kr/rxUCiNLkgO4)
 * [Quasar and Akka – a Comparison](http://blog.paralleluniverse.co/2015/05/21/quasar-vs-akka/)
@@ -1342,3 +1345,4 @@ Clojure
 * [An Event-Driven REST Coffee Machine API with Clojure - Tiago Dall’Oca](https://tiagodalloca.github.io/blog/event-driven-coffee-machine/)
 * [Agile & Coding: Interactive Web Development](https://davidvujic.blogspot.com/2021/02/interactive-web-development.html)
 * [Roll your own Clojure web stack - PurelyFunctional.tv](https://purelyfunctional.tv/guide/clojure-web-tutorial/)
+* [Stressed Servers](https://bsless.github.io/stressed-servers/)
