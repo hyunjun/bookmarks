@@ -1286,6 +1286,7 @@ Programming
 * [Scale, Flow and Microservices • James Lewis • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=LL4SJsBtYw0)
 * [**이모티콘 서비스는 왜 MSA를 선택했나? – tech.kakao.com**](https://tech.kakao.com/2021/09/14/msa/)
 * [Turning Microservices Inside-Out](https://www.infoq.com/articles/microservices-inside-out/)
+* [7 Microservices Best Practices for Developers - DZone Microservices](https://dzone.com/articles/7-microservices-best-practices-for-developers)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
