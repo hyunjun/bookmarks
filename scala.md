@@ -2202,6 +2202,7 @@ Scala
 * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=AaAHyHcLBWs&t=7920s) opaque type
 * [Type classes with Scala 2](https://justinhj.github.io/2020/12/06/type-classes-scala-2.html)
 * [Self-Types in Scala - the Why and the How | Rock the JVM - YouTube](https://www.youtube.com/watch?v=ZnpB4B1fMSI)
+* [Zymposium — Path Dependent Types - YouTube](https://www.youtube.com/watch?v=w2rcHCqdn-o)
 * HasId pattern
   * [HasId.scala](https://gist.github.com/knutwalker/788acb4c7ae9782fdf67)
   * [Scala Best Practices - Type class](https://nrinaudo.github.io/scala-best-practices/definitions/type_class.html)
