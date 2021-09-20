@@ -395,6 +395,7 @@ ElasticSearch - Lucene
 * [Elastic Stack 7.4.0 출시](https://www.elastic.co/kr/blog/elastic-stack-7-4-0-released)
 * [벡터 필드를 사용한 텍스트 유사도 검색](https://www.elastic.co/kr/blog/text-similarity-search-with-vectors-in-elasticsearch)
 * [filebeat-scouter-module](https://github.com/eskrug/filebeat-scouter-module)
+* [엘라스틱서치와 추천 - More Like This 쿼리](https://onduway.tistory.com/101)
 
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)
