@@ -1482,6 +1482,7 @@ Docker
   * [도커 없이 컨테이너 만들기 8편 - Google Slides](https://docs.google.com/presentation/d/1CY3lXDpWSsNbp8mhUsQAsp474jY7THt7CpCf5dWdLEc/edit) [pdf](pdfs/container_without_docker_8.pdf)
 * [Toward Vagrant 3.0](https://www.hashicorp.com/blog/toward-vagrant-3-0)
 * [Try Kubernetes with Vagrant](http://lollyrock.com/articles/kubernetes-vagrant/)
+* [Use Vagrant to test your scripts on different operating systems | Opensource.com](https://opensource.com/article/21/9/test-vagrant)
 * [cube-bldr at master · sysnet4admin/IaC](https://github.com/sysnet4admin/IaC/tree/master/Docker/cube-bldr) 도커 빌드 + 쿠버 테스트 환경 통합을 위한 베이그런트 스크립트
 
 # Virtualization
