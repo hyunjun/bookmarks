@@ -1524,6 +1524,7 @@ Java
 * [스프링 부트에서 EnvironmentPostProcessor로 기본 프로필 설정하기](http://javacan.tistory.com/entry/activate-some-profile-when-no-active-profiles-in-boot)
 * [Spring Boot Data Jpa 프로젝트에 Querydsl 적용하기](https://jojoldu.tistory.com/372)
 * [SpringBoot + JPA + H2 Database - YouTube](https://www.youtube.com/watch?v=WZDth-5KP5M)
+* [Dynamic Multi Database Application with Spring Boot | by Hiep Dinh | InnomizeTech | Medium](https://medium.com/innomizetech/dynamic-multi-database-application-with-spring-boot-7c61a743e914)
 * [QA JpaRepository를 상속하지 않은 이유 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/QA-why-not-use-JpaRepository)
 * [Querydsl 서브쿼리 사용하기](https://jojoldu.tistory.com/379)
 * [Querydsl 다이나믹 쿼리 사용하기](https://jojoldu.tistory.com/394)
