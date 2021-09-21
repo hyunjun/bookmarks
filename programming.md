@@ -258,6 +258,7 @@ Programming
 * [**우아~한 장애대응 | 우아한형제들 기술블로그**](https://techblog.woowahan.com/4886/)
 * [SRE 사례 소개](https://toss.im/slash-21/sessions/1-4)
 * [Practical Guide to SRE: Incident Severity Levels | Rootly](https://rootly.io/blog/practical-guide-to-sre-incident-severity-levels)
+* [SRE vs. DevOps: What are the Differences? - DZone DevOps](https://dzone.com/articles/sre-vs-devops-what-are-the-differences)
 * [Google - Site Reliability Engineering](https://sre.google/sre-book/accelerating-sre-on-call/)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Teach Yourself Programming in Ten Years**](http://norvig.com/21-days.html)
