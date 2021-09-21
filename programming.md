@@ -566,6 +566,9 @@ Programming
   * [Agile 20주년 : 실패한 반란 | GeekNews](https://news.hada.io/topic?id=4788)
 * [쓰임새에 따른 애자일 활용](https://brunch.co.kr/@graypool/117)
 * [Agility is Inefficient • Klaus Bucka-Lassen • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=q6sq5ktP_3g)
+* [애자일 개발문화는 왜 한국에 빠르게 정착되지 못했나?(1) | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/culture/agilenotforkorea1/)
+* [애자일 개발문화는 왜 한국에 빠르게 정착되지 못했나?(2) | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/culture/agilenotforkorea2/)
+* [프로젝트 외부 이해관계자의 신뢰를 얻는 방법 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/culture/demoday/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -901,6 +904,9 @@ Programming
 * [A quick introduction to Hexagonal Architecture](https://medium.com/codefountain/a-quick-introduction-to-hexagonal-architecture-484358c038b8)
 * [Ready for changes with Hexagonal Architecture - Netflix TechBlog](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
 * [Hexagonal Architecture](https://blog.imqa.io/hexagonal-architecture/)
+* [마이크로서비스 내부아키텍처 - 1회 : 데이터 중심 아키텍처의 문제점 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/microservice%20inner%20achitecture/inner-architecture-1/)
+* [마이크로서비스 내부아키텍처 - 2회 : 클린 아키텍처와 헥사고널 아키텍처 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/microservice%20inner%20achitecture/inner-architecture-2/)
+* [마이크로서비스 내부아키텍처 - 3회 : 어플리케이션 구성 패턴 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/microservice%20inner%20achitecture/inner-architecture-3/)
 * [**지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture/)
 * [지속 성장 가능한 소프트웨어를 만들어가는 방법. 스프링은 국내에서 정말 많이 쓰이고 있습니다, 개인적으로 많은 회사를… | by Gemini Kim | Apr, 2021 | Medium](https://geminikim.medium.com/%EC%A7%80%EC%86%8D-%EC%84%B1%EC%9E%A5-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EB%B0%A9%EB%B2%95-97844c5dab63) 스프링 이야기이나 일반론이기도 함
   * 많은 회사와 시스템이 차세대라는 명목의 개발을 수없이 진행: 낭비
@@ -1287,6 +1293,8 @@ Programming
 * [**이모티콘 서비스는 왜 MSA를 선택했나? – tech.kakao.com**](https://tech.kakao.com/2021/09/14/msa/)
 * [Turning Microservices Inside-Out](https://www.infoq.com/articles/microservices-inside-out/)
 * [7 Microservices Best Practices for Developers - DZone Microservices](https://dzone.com/articles/7-microservices-best-practices-for-developers)
+* [Back-end for Front-end Pattern (BFF) | by Giljae Joo (주길재) | Medium](https://giljae.medium.com/back-end-for-front-end-pattern-bff-4b73f29858d6)
+* [Mobile Convergence :: MS-1 Micro Service 환경 구축](https://mobicon.tistory.com/585)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -3250,6 +3258,8 @@ Programming
 * [LINE에서 테스트를 최적화하는 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/testing-optimization/)
 * [Improving Pull Request Confidence for the Netflix TV App | by Netflix Technology Blog | Sep, 2021 | Medium](https://netflixtechblog.medium.com/improving-pull-request-confidence-for-the-netflix-tv-app-b85edb05eb65)
 * [Thick Client Penetration Testing for beginners - YouTube](https://www.youtube.com/watch?v=cCChPFkq4cY)
+* [테스트 프로세스의 핵심구조 - ETVX Model | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/performancetest/ETVX/)
+* [LoadRunner Developer | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/performancetest/LoadRunnerDeveloper1/) DevWeb Vugen
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
