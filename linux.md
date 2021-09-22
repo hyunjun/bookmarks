@@ -284,6 +284,7 @@ Linux
 * [Ubuntu 20.04에 MacOS Catalina를 VirtualBox로 설치하기](https://devbull.xyz/ubuntu-20-04-macos/)
 * [절전 모드로 내려가는 우분투 머신](https://www.sysnet.pe.kr/Default.aspx?mode=0&sub=0&detail=1&pageno=0&wid=523&rssMode=1&wtype=0)
 * [절전 모드로 내려가는 우분투 머신](https://www.sysnet.pe.kr/0/0/523)
+* [AppArmor 란 무엇이며 Ubuntu를 어떻게 안전하게 유지합니까? - TheFastCode](https://www.thefastcode.com/ko-krw/article/what-is-apparmor-and-how-does-it-keep-ubuntu-secure)
 * [marcokhan :: Ubuntu How to Kernel Compile](https://marcokhan.tistory.com/246)
 
 # Automation
