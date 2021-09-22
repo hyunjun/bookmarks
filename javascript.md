@@ -619,6 +619,7 @@ Javascript
 * [How to make a cross-browser extension using JavaScript and browser APIs](https://medium.freecodecamp.org/how-to-make-a-cross-browser-extension-using-javascript-and-browser-apis-355c001cebba)
 * [JavaScript 내장 메소드를 사용하여 숫자 천단위마다 콤마 찍기](https://john015.github.io/java-script-%EB%82%B4%EC%9E%A5-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EC%97%AC-%EC%88%AB%EC%9E%90-%EC%B2%9C%EB%8B%A8%EC%9C%84%EB%A7%88%EB%8B%A4-%EC%BD%A4%EB%A7%88-%EC%B0%8D%EA%B8%B0)
 * [Iterable과 Iterator 이해하기](https://armadillo-dev.github.io/javascript/what-is-iterable-and-iterator)
+* [용어 정리 js에서 iterable, iterator란 무엇일까? | 웹으로 말하기](https://mytory.net/2021/09/22/what-is-iterable-in-js.html)
 * [유용한 자바스크립트 배열 함수 find, includes, flat](https://hyeonseok.com/soojung/javascript/2019/05/23/852.html)
 * [Writing a simple transpiler in JavaScript](https://medium.com/@stephen.leigh/writing-a-simple-transpiler-in-javascript-3c34ccb99e74)
 * [The Role of JavaScript in the Modern Web](https://medium.com/better-programming/the-role-of-javascript-in-the-modern-web-ff0f6961829a)
@@ -758,7 +759,9 @@ Javascript
 * pipeline
   * [Let’s experiment with functional generators and the pipeline operator in JavaScript](https://medium.freecodecamp.org/lets-experiment-with-functional-generators-and-the-pipeline-operator-in-javascript-520364f97448)
   * [The State of Piping in JavaScript | by Christofer Eliasson | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/the-state-of-piping-in-javascript-ccbead18b971)
-* reduce [5 Use Cases for reduce() in JavaScript | by wathsala danthasinghe | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/5-use-cases-for-reduce-in-javascript-61ed243b8fef)
+* reduce
+  * [5 Use Cases for reduce() in JavaScript | by wathsala danthasinghe | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/5-use-cases-for-reduce-in-javascript-61ed243b8fef)
+  * [배열 reduce에 초기값 지정 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/879)
 * string
   * [It’s Not Wrong that "🤦".length == 7](https://hsivonen.fi/string-length/)
   * [String Reversal in Javascript](https://hackernoon.com/string-reversal-in-javascript-22651e20578d)
@@ -1629,6 +1632,7 @@ Javascript
   * [nestjs mailer를 이용하여 메일 보내기](https://blog.naver.com/pjt3591oo/222467283376)
   * [1. NestJS & TypeORM 환경에서 Monorepo 구성하기 - 기본 환경 구성 및 명령어](https://jojoldu.tistory.com/594)
   * [2. NestJS & TypeORM 환경에서 Monorepo 구성하기 - TypeORM 추가하기](https://jojoldu.tistory.com/597)
+  * [js-joda 로 TypeORM Date 타입 대체하기 (with NestJS)](https://jojoldu.tistory.com/600)
   * [nestia: Automatic SDK and Document generator for the NestJS](https://github.com/samchon/nestia)
 * Netlify
   * [Run Cypress Tests on Netlify Using a Single Line](https://cypress.io/blog/2020/03/30/run-cypress-tests-on-netlify-using-a-single-line/)
@@ -2241,6 +2245,7 @@ Javascript
   * [axios 활용 - Authentication & Authorization 블로그 정리 - YouTube](https://www.youtube.com/watch?v=sQgi9oQHu3I)
   * [What is Axios and how to use it with React 🚀 | by Adam Kiss | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/what-is-axios-and-how-to-use-it-with-react-1470d19e1b83)
   * [Axios 러닝 가이드](https://xn--xy1bk56a.run/axios/)
+  * [axios 대신 간단하게 사용하려고 만든 myFetch 함수 | 웹으로 말하기](https://mytory.net/2021/09/22/my-fetch.html)
   * [axios-logger - Beautify Axios Logging Messages](https://github.com/hg-pyun/axios-logger)
 * [black-screen - A terminal emulator for the 21st century](https://github.com/shockone/black-screen)
 * [blessed - A high-level terminal interface library for node.js](https://github.com/chjj/blessed)
