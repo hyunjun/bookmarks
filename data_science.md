@@ -668,8 +668,22 @@ Data Science
 * [카카오 AI추천 : 토픽 모델링과 MAB를 이용한 카카오 개인화 추천 – tech.kakao.com](https://tech.kakao.com/2021/06/25/kakao-ai-recommendation-01/) Multi Armed Bandit
 * [Advertiser Recommendation Systems at Pinterest | by Pinterest Engineering | Pinterest Engineering Blog | Jul, 2021 | Medium](https://medium.com/pinterest-engineering/advertiser-recommendation-systems-at-pinterest-ccb255fbde20)
 * [Recommender System KR](https://root-decimal-c5d.notion.site/Recommender-System-KR-5b773a06e99145e6855bae391c94dc44)
+* [Keynote 7: Moving Beyond Recommender Models - Even Oldridge (NVIDIA), Karl Byleen-Higley (NVIDIA) - YouTube](https://www.youtube.com/watch?v=5qjiY-kLwFY)
+  * Candidate Retrieval + Ranking과 같이 2-stage로 이뤄진 추천 시스템이 많이 언급
+    * 발표자는 실제로는 Filtering과 Ordering이라는 숨겨진 단계가 있기 때문에 4 stage가 필요하다고 주장
+    * Filtering은 Candidate Retrieval 다음에 사용이 불가능한 아이템을 추가로 걸러내는 단계
+    * Ordering은 Ranking 다음에 최종 리스트 순서를 결정할 때 순서를 조정하거나 아이템을 제외하는 단계
+    * Explicit하게 적용되는 경우가 많고 모델이 학습하기 어렵거나/ 번거로운 비즈니스 로직을 적용하는 경우가 많아서 이전 단계와 구분지어 생각해야 한다고 주장
+    * 인스타그램의 예시를 생각해보면 다른 유저를 차단하거나 알림을 끄는 경우 Filtering에서 차단한 유저의 게시글을 제외하는게 편함
+    * 또한 한 유저의 글이 랭킹 점수가 비슷해 피드에 연달아 나온다면 유저 경험이 좋지 않기 때문에 순서를 다시 Ordering 할 필요 존재
 * [유튜브는 내가 좋아할 다음 영상을 어떻게 추천해줄까? (알기 쉽게 설명한 구글 최신 논문) – techNeedle 테크니들](https://techneedle.com/archives/38234)
 * [Collaborative filtering doesn't work for us](https://about.chatroulette.com/posts/better-match-making-part-1/)
+* [System Design for Recommendations and Search](https://eugeneyan.com/writing/system-design-for-discovery/)
+  * 추천과 검색의 시스템 디자인을 두 축(Offline vs Online 환경 / Candidate Retrieval vs Ranking)으로 나누어 분석
+    * 2 X 2에 Component들을 배치해보면 링크의 그림 같이 생각 가능
+    * 저자는 Alibaba, Facebook, JD, Doordash에서 공유한 시스템 디자인 사례들을 이 프레임에 맞춰 분석
+    * 프레임 제시 뿐만 아니라 중간중간에 train-test skew 문제, embedding model과 ANN을 같은 컨테이너에서 운영하는 이유, batch대신 real-time recommendation이 정말 필요한가 같은 엔지니어링 이슈를 다뤄서 좋음
+  * [**번역글 System Design for Recommendations and Search | You May Also Like**](https://ziminpark.github.io/posts/system-design-for-discovery/)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
