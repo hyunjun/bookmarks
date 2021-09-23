@@ -120,6 +120,7 @@ Javascript
 * [바닐라 자바스크립트로 "캐러셀 슬라이더" 만들기 (Vanilla JS : making Carousel slider)](https://www.youtube.com/watch?v=l18HCZqBs6I)
 * [Build a Weather App with Vanilla Javascript | Javascript Project for Beginners - YouTube](https://www.youtube.com/watch?v=s_Ie_yh_4Co)
 * [5 projects to master Front End Development - DEV Community](https://dev.to/ruppysuppy/5-projects-to-master-front-end-development-57p)
+* [15+ Free JavaScript Projects to Boost Resume (2021) | Crio.Do](https://www.crio.do/projects/category/javascript-projects)
 * [유튜브 클론 코딩__ 웹 사이트 vs 웹 앱 (Youtube Clone__Websites vs Webapps)](https://www.youtube.com/watch?v=r36fDtgXaWQ)
 * [Building a YouTube Clone With React — Part 1 | by Nouman | The Startup | Oct, 2020 | Medium](https://medium.com/swlh/building-a-youtube-clone-using-react-part-1-40fb09ae2837)
 * [Building a YouTube Clone Using React — Part 2 | by Nouman | The Startup | Oct, 2020 | Medium](https://medium.com/swlh/building-a-youtube-clone-using-react-part-2-a23a9dded270)
