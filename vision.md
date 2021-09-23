@@ -696,6 +696,7 @@ Vision
 * [Build, train, and evaluate an object detection model using ComputerVision Recipes - Microsoft Tech Community - 1497930](https://techcommunity.microsoft.com/t5/educator-developer-blog/build-train-and-evaluate-an-object-detection-model-using/ba-p/1497930)
 * [Optimal Peanut Butter and Banana Sandwiches | Ethan Rosenthal](https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/)
   * [개발자가 코로나로 재택근무하면 생기는 일(바나나 땅콩버터 샌드위치 AI) :: Aedi의 스마트라이프](https://smartaedi.tistory.com/389)
+* [Ugurilgin.com - Details of Project](https://www.ugurilgin.com/EN/Project/image-processing) A Desktop Application Containing the Most Used Processing Algorithms in Python
 * [ANPR-RK-Korea - 한국 자동차 번호판 인식 솔루션](https://www.marearts.com/ANPR-RK-Korea-83e9c442ced64cb6853574fae4483461)
 * [Alyona Galyeva - Human-like Visual Search Application with Small Data | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=2l_WASP1_1A) Mask R-CNN, fast api
 * [albumentations: Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation: https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125 ](https://github.com/albumentations-team/albumentations)
