@@ -662,6 +662,8 @@ Clojure
 
 # Conference
 * [Meetup: Simplicity and Power in the latest Clojure CLI - YouTube](https://www.youtube.com/watch?v=Cqz23FEOw1A)
+* [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
+* [clojure Stuart Halloway on Radical Simplicity - YouTube](https://www.youtube.com/watch?v=f_Fi8YXt2fs)
 * [Functional / Microservices in Real-Time Financials](https://www.infoq.com/presentations/nubank-financial-systems/)
 * [Solving Problems the Clojure Way - Rafal Dittwald - YouTube](https://www.youtube.com/watch?v=vK1DazRK_a0)
 * [Goodbye YAML: Infrastructure as Code in Clojure - Eno Compton & Tyler van Hensbergen - YouTube](https://www.youtube.com/watch?v=TbDmupZyuXk)
@@ -681,6 +683,7 @@ Clojure
   * [Clojure/conj 2017](https://www.slideshare.net/DarrenKim9/clojureconj-2017-81991879)
 * [A History of Clojure by Rich Hickey with Q&A - YouTube](https://www.youtube.com/watch?v=nD-QHbRWcoM)
   * [PLDI 2021: A History of Clojure](https://www.pldi21.org/prerecorded_hopl.11.html)
+* [Changing to Clojure mid-flight by Marcus Rydberg - YouTube](https://www.youtube.com/watch?v=zK9y1nvmft8)
 * [Datahike by Christian Weilbach at Bay Area Clojure meetup 2021-03-09 - YouTube](https://www.youtube.com/watch?v=GG-S-xrDS5M)
 * [Every Clojure Talk Ever - Alex Engelberg and Derek Slager - YouTube](https://www.youtube.com/watch?v=jlPaby7suOc)
 * [clojure/conj](http://clojure-conj.org/)
@@ -706,7 +709,6 @@ Clojure
   * [EuroClojure 2016](https://www.youtube.com/playlist?list=PLZdCLR02grLowQLPjuZ7k3pl2ScEyW7A7)
   * [EuroClojure 2015](https://www.youtube.com/playlist?list=PLZdCLR02grLoBx0Y5ZrpdmLxc160PIwzQ)
 * [Midwest.io 2014 - Rules as a Control Structure - Ryan Brush](https://www.youtube.com/watch?v=zs5Rueo42TA)
-* [Rails Conf 2012 Keynote: Simplicity Matters by Rich Hickey](https://www.youtube.com/watch?v=rI8tNMsozo0)
 * [re:Clojure 2020 conference day 1 - YouTube](https://www.youtube.com/watch?v=qRI1Ved0SfE)
 * [re:Clojure 2020 conference day 2 - YouTube](https://www.youtube.com/watch?v=NqWR_ysLkW8)
 * [stuarthalloway/presentations](https://github.com/stuarthalloway/presentations)
