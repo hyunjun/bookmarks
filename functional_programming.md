@@ -160,6 +160,7 @@ Functional Programming
 * [Purely Functional IO in Clojure](https://github.com/micmarsh/clojure-pure-io/blob/master/gist.md)
 * [Functional Programming](http://philoskim.github.io/doc/functional-programming.html)
 * [This is why people say that in functional programming the order of execution doesn’t matter - Learning Resources - ClojureVerse](https://clojureverse.org/t/this-is-why-people-say-that-in-functional-programming-the-order-of-execution-doesn-t-matter/7737)
+* [Functional Programming: Rapid Prototyping and Fast Delivery with Clojure - YouTube](https://www.youtube.com/watch?v=KPHBbaTFckk)
 
 # Conference
 * [Lambda World](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos)
