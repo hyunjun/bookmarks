@@ -368,6 +368,7 @@ Business
 * [쿠팡은 아마존, 네이버는 쇼피파이](https://brunch.co.kr/@graypool/132)
 * [지속 가능한 당근마켓이 되기 위한 모임 플랫폼 방향성 (1/2) | by Mexicoreanito | Aug, 2021 | Medium](https://mexicoreano.medium.com/%EC%A7%84%EC%A7%9C-%ED%95%98%EC%9D%B4%ED%8D%BC%EB%A1%9C%EC%BB%AC%EC%9D%B4-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%EB%AA%A8%EC%9E%84-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%98-%EB%B0%A9%ED%96%A5%EC%84%B1-1-2-dd047e073777) 내용보다 내용 자체 전개 방식이 맘에 듦
 * [지속 가능한 당근마켓이 되기 위한 모임 플랫폼 방향성 (2/2) | by Mexicoreanito | Aug, 2021 | Medium](https://mexicoreano.medium.com/%EC%A7%80%EC%86%8D-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%9D%B4-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%AA%A8%EC%9E%84-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%B0%A9%ED%96%A5%EC%84%B1-2-2-585696807615)
+* ['일의 미래' C레벨의 가장 큰 덕목 : 능력보다 공감력 | The Miilk](https://www.themiilk.com/articles/ae9e95c17) 언제, 어디서, 어떻게, 왜 일하는 지 선택 -> 일의 유연성 필요 -> 디지털 도구와 함께 리더의 공감 필요
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
