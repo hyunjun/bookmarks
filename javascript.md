@@ -465,6 +465,7 @@ Javascript
 * [자바스크립트의 메모리관리](https://developer.mozilla.org/ko/docs/Web/JavaScript/Memory_Management)
 * [Javascript 메모리 에 대하여!](https://steemit.com/kr/@cicada0014/2wvmzm-javascript)
 * [JavaScript's Memory Management Explained](https://felixgerschau.com/javascript-memory-management/)
+* [1기 JS 메모리와 변수 - 김지영 · Present](https://present.do/shows/61433d1be3562505806f9989)
 * [만화로 소개하는 ArrayBuffer 와 SharedArrayBuffer](http://hacks.mozilla.or.kr/2017/11/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)
 * [Atomics 를 이용해서 SharedArrayBuffer 레이스 컨디션 피하기](http://hacks.mozilla.or.kr/2017/11/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/)
 * [배열과 유사배열](https://www.zerocho.com/category/JavaScript/post/5af6f9e707d77a001bb579d2)
