@@ -281,6 +281,7 @@ Network
 * [Introduction to TCP/IP and Sockets, part 2: Example code Walk-Through - YouTube](https://www.youtube.com/watch?v=OuYPe_HcLWc)
 * [Understanding Sockets | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-sockets)
 * [Unit testing a TCP stack](http://www.snellman.net/blog/archive/2015-07-09-unit-testing-a-tcp-stack/)
+* [10분 만에 훑어보는 TCP와 UDP - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/09/23/Overview-of-TCP-and-UDP.html)
 
 # UDP
 * [Haste Framework UDP(User Datagram Protocol)를 기반으로 빠르고 쉬운 개발을 위해 만들어진 게임 서버 프레임워크](https://github.com/nhnent/haste.framework)
