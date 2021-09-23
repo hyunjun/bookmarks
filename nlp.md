@@ -1266,6 +1266,7 @@ NLP
   * [merge-idioms: Implementation of Spacy's NLP pipeline for merging idioms as standalone tokens](https://github.com/eubinecto/merge-idioms) 숙어는 tokenizing할 때 각 단어별로 나누지 않는 library
   * [Prodigy: A new tool for radically efficient machine teaching](https://explosion.ai/blog/prodigy-annotation-tool-active-learning)
   * [Introducing spaCy v3.1 · Explosion](https://explosion.ai/blog/spacy-v3-1)
+  * [spaCyOpenTapioca · spaCy Universe](https://spacy.io/universe/project/spacyopentapioca/)
 * [TextBlob Sentiment: Calculating Polarity and Subjectivity](http://planspace.org/20150607-textblob_sentiment/) python
   * [Natural Language Basics with TextBlob](http://rwet.decontextualize.com/book/textblob/)
 * [TextFeatureSelection · PyPI](https://pypi.org/project/TextFeatureSelection/)
