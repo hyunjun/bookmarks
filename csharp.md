@@ -46,6 +46,7 @@ C#
 * [C# for Pentesters - Part I - AES256 Shell Code Encryption / Decryption and PE Thread Injection - YouTube](https://www.youtube.com/watch?v=6q-CYQR_QFw)
 * [C# for Pentesters - Part II - Process Injection and XOR Shell Code Encryption / Decryption - YouTube](https://www.youtube.com/watch?v=SoMirwLEo-s)
 * [C# for Pentesters - Part III - Classic DLL Injection - YouTube](https://www.youtube.com/watch?v=fCfneKhiYBw)
+* [C# for Pentesters - Part IV - Bypass Antivirus using PowerShell without PowerShell.exe - YouTube](https://www.youtube.com/watch?v=lS7IGDtfkHM)
 
 # API
 * [C# Futures: Null Check Operator](https://www.infoq.com/news/2020/07/CSharp-Null-Check/)
