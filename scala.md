@@ -209,6 +209,7 @@ Scala
 * [Programming with Functions #5 - Immutability - YouTube](https://www.youtube.com/watch?v=E8JB99wis7A)
 * [Is your Scala object always a singleton?](https://blog.softwaremill.com/is-your-scala-object-always-a-singleton-cb3fd24a2fd9)
 * [Singleton Object in Scala](https://medium.com/@senthil.nayagan/singleton-object-in-scala-63fa8366bdfc)
+* [Singleton types - Scala tutorial - YouTube](https://www.youtube.com/watch?v=DBlhR5K1GxU)
 * [Maintaining Binary Compatibility in Scala](https://medium.com/zendesk-engineering/maintaining-binary-compatibility-in-scala-6e07157aac23)
 * [The Ultimate Scala Serverless Lambda Deployment using Travis CI](https://medium.com/@5tigerjelly/the-ultimate-scala-serverless-lambda-deployment-using-travis-ci-18ddc681769f)
 * [Testable toggles in Scala](https://medium.com/@swa.khandekar/testable-toggles-in-scala-67bfaf80b13a)
@@ -487,7 +488,9 @@ Scala
 * [Type safe, message driven, distributed - a whirlwind tour of Akka by Johan Andrén - YouTube](https://www.youtube.com/watch?v=o1iKDgq9Asg)
 * [Akka Serverless | @lightbend](https://www.lightbend.com/akka-serverless)
 * [Monitoring Akka applications with Mesmer and OpenTelemetry - Developer’s kit](https://scalac.io/blog/akka-monitoring-with-mesmer-and-opentelemetry/)
-* [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
+* Akka gRPC
+  * [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
+  * [Akka gRPC update delivers 1200% performance improvement (so what happened?) | Lightbend](https://www.lightbend.com/blog/akka-grpc-update-delivers-1200-percent-performance-improvement)
 * Akka-Persistence-Postgres [Why we need yet another Akka persistence plugin | by Marcin Kubala | SoftwareMill Tech Blog](https://blog.softwaremill.com/why-we-need-yet-another-akka-persistence-plugin-4e08993eb04e)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
@@ -1144,6 +1147,7 @@ Scala
 * [Scala로 만들어본 이름점](https://jsideas.net/name_chemistry/)
   * [이름점 - Scala Code 수정](https://jsideas.net/name_chemistry_refactoring/)
 * [Integrating Developer Experiences — The Build Server Protocol in the IntelliJ Scala plugin](https://blog.jetbrains.com/scala/2019/08/08/integrating-developer-experiences-the-build-server-protocol-in-the-intellij-scala-plugin/)
+* [Using BSP effectively in IntelliJ and Scala | In Absentia](https://hmemcpy.com/2021/09/bsp-and-intellij/) BSP = Build Server Protocol
 * [IntelliJ Scala Plugin 2021.2 Is Out! | The Scala Plugin Blog](https://blog.jetbrains.com/scala/2021/07/27/intellij-scala-plugin-2021-2/)
 
 ## IDE VS Code
@@ -1789,6 +1793,7 @@ Scala
 # SBT
 * [SBT](http://www.scala-sbt.org/)
 * [#sbt Tutorial - Part 1 - YouTube](https://www.youtube.com/watch?v=FS015lfyiMg)
+* [#sbt Tutorial - Part 2 - YouTube](https://www.youtube.com/watch?v=7AmTdqSTiOs)
 * [classpaths](http://www.scala-sbt.org/1.x/docs/Howto/classpaths.html)
 * [Customizing paths](http://www.scala-sbt.org/1.x/docs/Howto-Customizing-Paths.html)
 * [Library dependencies](https://www.scala-sbt.org/1.x/docs/Library-Dependencies.html)
