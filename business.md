@@ -298,6 +298,7 @@ Business
 * [기준점](https://www.thestartupbible.com/2019/09/follow-your-own-star.html) 자존감에 관한 이야기
 * [How to onboard a new hire / 신규입사자 조직안착 과정](http://woowabros.github.io/experience/2019/10/11/developer-onboarding.html) 정확히는 인사에 관한 이야기이지만 참고할만 함
 * [인사제도도 유행을 탑니다 (다양성으로 수렴하는 인사제도 따라잡기) | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/hr-management/)
+* [작고 귀여운 스타트업 대표가 우리 회사 유일한 인사 담당자와 잘 일하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/245962)
 * [50명 조직과 300명 조직은 이슈도 대응 방안도 다릅니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companysize20210817) hr
 * [구글의 아침은 자유가 시작된다](https://brunch.co.kr/@myungyiyoo/26)
   * [커리어 노트 55 ‘내가 왜 이러는 걸까'에 대한 답을 찾으려면](https://blog.naver.com/junedec369/222444664272)
