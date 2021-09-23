@@ -397,6 +397,7 @@ Clojure
 * [6 Years of Professional Clojure. TL;DR Clojure is a great programming… | by Erez Rabih | Jul, 2021 | Nanit Engineering](https://engineering.nanit.com/6-years-of-professional-clojure-2b61cb6c1983)
 * [My First Project at Metosin! - Metosin](https://www.metosin.fi/blog/my-first-project-at-metosin/)
 * [Reflective Towers of Interpreters | SIGPLAN Blog](https://blog.sigplan.org/2021/08/12/reflective-towers-of-interpreters/)
+* [Reactive Clojure: You don't need a web framework, you need a web language](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
