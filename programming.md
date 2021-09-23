@@ -981,6 +981,7 @@ Programming
 * [Software Architecture and Design - YouTube](https://www.youtube.com/playlist?list=PL4JxLacgYgqTgS8qQPC17fM-NWMTr5GW6) 다양한 주제에 대한 짧은 설명들
 * [**End to End Design of food delivery app (Zomato or Swiggy) | by Ravinder Singh Sengar | Aug, 2021 | Medium**](https://medium.com/@ravindersengar/end-to-end-design-of-a-food-delivery-app-like-zomato-or-swiggy-52b96f3a635f)
 * [카카오페이지 운영툴을 점진적으로 개선한 이야기](https://brunch.co.kr/@wapj2000/38)
+* [Multi-tenant Architecture for SaaS - YouTube](https://www.youtube.com/watch?v=e8k6TynqGFs)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
