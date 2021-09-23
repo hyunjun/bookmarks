@@ -1059,6 +1059,7 @@ Clojure
   * [Asynchronous Ring](https://skillsmatter.com/skillscasts/9057-asynchronous-ring)
   * [Async Ring 미들웨어 패턴](http://clojure.kr/async-ring-middleware-pattern)
   * [The Artificery: A (poorly) animated introduction to Clojure's HTTP server library Ring](https://drewverlee.github.io/posts-output/2021-5-2-ring)
+  * [클로저로 웹 서버 애플리케이션 개발을 시작하는 사람들을 위한 Ring 소개서 | 그린랩스](https://green-labs.github.io/introduce-a-ring)
   * [ring-defaults: A library to provide sensible Ring middleware defaults](https://github.com/ring-clojure/ring-defaults)
 * [rss-saver: Simple Clojure (Babashka) script that saves articles from world.hey.com RSS feeds](https://github.com/adam-james-v/rss-saver)
 * [入(rù-lang)](http://ru-lang.org/)
