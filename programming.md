@@ -3278,6 +3278,7 @@ Programming
 * [테크 웨비나 쿠팡 출신 개발자의 A/B 테스트 플랫폼 MVP 개발기 - YouTube](https://www.youtube.com/watch?v=w7JHb60zk9k)
 * [왜 굳이 A/B 테스트인가요?](https://lumiamitie.github.io/data/why-ab-test/)
 * [Decision Making at Netflix. Part 1 in a multipart series about… | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481)
+* [What is an A/B Test?. This is the second post in a multi-part… | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962)
 * [growthbook: The Open Source A/B Testing Platform](https://github.com/growthbook/growthbook)
   * [GrowthBook - 오픈소스 A/B 테스팅 플랫폼 | GeekNews](https://news.hada.io/topic?id=4844)
 
