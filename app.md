@@ -177,6 +177,7 @@ App
   * [**macos-virtualbox: Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS**](https://github.com/myspaghetti/macos-virtualbox)
   * [버추얼박스에 맥(macOS) 카탈리나 설치하는 방법 - 익스트림 매뉴얼](https://extrememanual.net/34793)
   * [kkamagui의 작업실 :: 오라클 버추어박스(Oracle Virtualbox) 빌드하기](https://kkamagui.tistory.com/937)
+  * [Infra 버추얼박스(virtualbox)에 우분투 설치하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/virtualbox-ubuntu/)
 * Vivaldi
   * [vivaldi 웹브라우저 써보세요](https://swifter.kr/vivaldi-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%8D%A8%EB%B3%B4%EC%84%B8%EC%9A%94/)
 * Wallpaper
