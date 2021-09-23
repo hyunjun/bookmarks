@@ -336,6 +336,7 @@ Interview
     * [Learn System design : How distributed datastore works(basics)?](https://www.youtube.com/watch?v=ZbyYvTfBlE0)
     * [Implement An LRU Cache - The LRU Cache Eviction Policy ("LRU Cache" on LeetCode)](https://www.youtube.com/watch?v=S6IfqDXWa10)
       * [LRUCache.java](https://github.com/bephrem1/backtobackswe/blob/master/Linked%20Lists/LRUCache.java)
+    * [6 Distributed storage & computing systems interview Q&As | Java-Success.com](https://www.java-success.com/1-overview-distributed-systems/)
   * Dropbox
     * [blogs.dropbox.com/tech/category/infrastructure](https://blogs.dropbox.com/tech/category/infrastructure)
     * [How We've Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
