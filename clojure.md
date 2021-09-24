@@ -1083,6 +1083,7 @@ Clojure
   * [The power of lenses – Juhana Laurinharju - YouTube](https://www.youtube.com/watch?v=hnROywmy_HI)
   * [Understanding Specter: Clojure's missing piece - YouTube](https://www.youtube.com/watch?v=rh5J4vacG98)
   * [specter-book-code - Source and tests for Extending and Using Specter](https://github.com/marick/specter-book-code)
+* [specter: Clojure(Script)'s missing piece](https://github.com/redplanetlabs/specter)
 * [spectomic - Generate Datomic or Datascript schema from your Clojure(script) specs](https://github.com/Provisdom/spectomic)
 * [spectrum - A library for doing static analysis of Clojure code, catching clojure.spec conform errors at compile time](https://github.com/arohner/spectrum)
 * [split-token: Generating and verifying split tokens with Clojure](https://github.com/miikka/split-token)
