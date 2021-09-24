@@ -1432,6 +1432,11 @@ Programming Books
   * ★★★★☆ 2021.09.05
   * 프로덕트 오너에 이어 읽은 책. 프로덕트 오너에 비해 조금 더 high level의 관점으로 이해했음
   * 뭔가 구성이 나와 안 맞는지 프로덕트 오너에 비해 잘 읽히지는 않았지만(그래서 별넷) 마지막 파트 "문화"는 짧지만 가장 잊지 말아야 할 점들을 축약했다
+* [하드씽. 비즈니스에서 ‘난제'란 크고 대담한 목표를 세우는 게 아니다. 그런… | by Jun | Sep, 2021 | Medium](https://nymets.medium.com/%ED%95%98%EB%93%9C%EC%94%BD-30791a74b521)
+  * ★★★★☆ 2021.09.24
+  * CEO에 대한 책이라 나와는 약간 안 맞는 부분도 있지만 전반적으로 매우 맘에 듦
+  * 본인의 경험(성공 + 실패)에서 오는 정말 솔직한 이야기가 인상깊었음
+  * [하드씽](https://jhrogue.blogspot.com/2021/07/blog-post_21.html)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1439,7 +1444,6 @@ Programming Books
 * (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * (NOT YET) [요즘 팀장은 이렇게 일합니다 - 중앙북스](https://jbooks.joins.com/book/book_info.asp?bokid=2455)
   * [“팀장이 가장 어려웠어요”…모두가 알아야 할 ‘팀장 리더십’ : 네이버 뉴스](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=243&aid=0000014586)
-* (NOT YET) [하드씽](https://jhrogue.blogspot.com/2021/07/blog-post_21.html)
 * (NOT YET) [최강의 조직](https://brunch.co.kr/@younghakjang/118)
 * (NOT YET) [배틀그라운드 신화를 만든 10년의 도전 크래프톤 웨이](http://www.gimmyoung.com/Book/BookView?bookCode=BC003339&bookType=all) 한국판 하드씽
   * [최윤섭님 서평](https://www.facebook.com/photo?fbid=6059054744134439)
