@@ -1298,8 +1298,6 @@ Programming
 * [Turning Microservices Inside-Out](https://www.infoq.com/articles/microservices-inside-out/)
 * [7 Microservices Best Practices for Developers - DZone Microservices](https://dzone.com/articles/7-microservices-best-practices-for-developers)
 * [Back-end for Front-end Pattern (BFF) | by Giljae Joo (주길재) | Medium](https://giljae.medium.com/back-end-for-front-end-pattern-bff-4b73f29858d6)
-* [Mobile Convergence :: MS-1 Micro Service 환경 구축](https://mobicon.tistory.com/585)
-* [Mobile Convergence :: MS-2 React & Nest 기반 애플리케이션 및 Micro Service 통신 설정](https://mobicon.tistory.com/586)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
