@@ -63,6 +63,7 @@ Data Science
 * [시리즈 | IBM Data Science - DEV_SK](https://velog.io/@kwonhl0211/series/IBM-Data-Science)
 * [데이터 아키텍처의 변화](https://data-engineer-song.tistory.com/2) ETL -> ELT
 * [인터뷰ㅣ"기술 회사도 IT 현대화해야 한다" 키사이트 테크놀로지스 CIO - CIO Korea](https://www.ciokorea.com/news/203214) ETL -> ELT로의 이유
+* [칼럼ㅣ'ETL'은 빅데이터와의 경쟁에서 패배했다 - CIO Korea](https://www.ciokorea.com/news/208017) ETL -> ELT or pipelined data streaming
 * [I want to study Data Science Wiki](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki) 한글
 * [A Beginner’s Guide to the Data Science Pipeline](https://www.kdnuggets.com/2018/05/beginners-guide-data-science-pipeline.html)
 * [Big Data: Its Benefits, Challenges, and Future | by Benedict Neo | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/big-data-its-benefits-challenges-and-future-6fddd69ab927)
@@ -223,6 +224,10 @@ Data Science
 * [Data Science Cheatsheets](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 * [Top 28 Cheat Sheets for Machine Learning, Data Science, Probability, SQL & Big Data](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
 * [**Getting started: the 3 stages of data infrastructure**](https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825)
+* [EVERYTHING A DATA SCIENTIST SHOULD KNOW ABOUT DATA MANAGEMENT](https://www.topbots.com/data-management-infrastructure/)
+* [**Back To The Future: Data Engineering Trends 2020 & Beyond - Data Engineering Weekly**](https://www.dataengineeringweekly.com/p/back-to-the-future-data-engineering) Data Infrastructure, Data Architecture, Data Management를 주제로 여러가지 좋은 글 link 모음
+* [Silent data corruption: Mitigating effects at scale - Facebook Engineering](https://engineering.fb.com/2021/02/23/data-infrastructure/silent-data-corruption/)
+* [Roadmap: Data Infrastructure · Bessemer Venture Partners](https://www.bvp.com/atlas/roadmap-data-infrastructure)
 * [**데이터를 얻으려는 노오오력**](https://www.slideshare.net/youngjaekim58/ss-77479253)
 * [#2.5. Intra/Inter-Class Variability](https://www.youtube.com/watch?v=kiPo5ACr9xw&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq) 데이터의 '질'이란?
 * [**Analyzing GitHub, how developers change programming languages over time**](https://blog.sourced.tech/post/language_migrations/)
@@ -276,7 +281,6 @@ Data Science
   * [I want to study Data Science Wiki](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science)
 * [빅데이터 조직과 시스템](http://www.ciokorea.com/tags/22729/%EA%B9%80%EC%A7%84%EC%B2%A0)
 * [Generating and visualizing alpha with Vectorspace AI datasets and Canvas](https://www.elastic.co/kr/blog/generating-and-visualizing-alpha-with-vectorspace-ai-datasets-and-canvas)
-* [EVERYTHING A DATA SCIENTIST SHOULD KNOW ABOUT DATA MANAGEMENT](https://www.topbots.com/data-management-infrastructure/)
 * [쿠팡 데이터 플랫폼의 진화](https://medium.com/coupang-tech/%EC%BF%A0%ED%8C%A1-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%98-%EC%A7%84%ED%99%94-26c827c1ec09)
 * [When your data doesn’t fit in memory: the basic techniques](https://pythonspeed.com/articles/data-doesnt-fit-in-memory/)
 * [Top 5 must-have Data Science skills for 2020](https://www.kdnuggets.com/2020/01/top-5-data-science-skills-2020.html)
@@ -292,7 +296,6 @@ Data Science
 * [입력 데이터를 정규화 하는 이유 : 네이버 블로그](https://blog.naver.com/jk96491/222103858904)
 * [**Quantified Self Part 6 - 생산적인 하루에 대한 정량적인 표현과 4년간의 데이터 이야기 - HumanBrain**](https://dongjunlee.github.io/quantified%20self/QS_Part_6_Analysis_My_Life/)
 * [Almost Everything You Need To Know on Data Discovery Platforms](https://eugeneyan.com/writing/data-discovery-platforms/)
-* [**Back To The Future: Data Engineering Trends 2020 & Beyond - Data Engineering Weekly**](https://www.dataengineeringweekly.com/p/back-to-the-future-data-engineering) Data Infrastructure, Data Architecture, Data Management를 주제로 여러가지 좋은 글 link 모음
 * [What Is Data Engineering and Is It Right for You? – Real Python](https://realpython.com/python-data-engineer/) realpython post지만 python이 아니라 general한 글
 * [Data Experience Report 모음](https://brunch.co.kr/@mapmatters/51)
 * [**The Top 5 Data Trends for CDOs to Watch Out for in 2021 | by Prukalpa | Jan, 2021 | Towards Data Science**](https://towardsdatascience.com/the-top-5-data-trends-for-cdos-to-watch-out-for-in-2021-e230817bcb16)
@@ -309,7 +312,6 @@ Data Science
 * [‘데이터 랭글링’ 및 ‘탐구 데이터 분석’ 따라잡기 - CIO Korea](https://www.ciokorea.com/news/187888)
 * [글로벌 칼럼 | 데이터 랭글링을 비하해선 안 되는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/203859)
 * [칼럼ㅣ결코 하찮지 않다!··· '데이터 랭글링' 작업이 가치 있는 이유 - CIO Korea](https://www.ciokorea.com/news/203489)
-* [Silent data corruption: Mitigating effects at scale - Facebook Engineering](https://engineering.fb.com/2021/02/23/data-infrastructure/silent-data-corruption/)
 * [데이터 처리 플랫폼 : 네이버 블로그](https://blog.naver.com/airguy76/221368741735)
 * [김진철의 How-to-Big Data | How-to-Big Data 핵심 정리(Key Takeaways) (1) - CIO Korea](https://www.ciokorea.com/news/191719)
 * [세미나 후기 Wanted Con. Data 요즘 데이터 팀은 어떻게 일할까?](https://blog.naver.com/rposter/222324418413)
@@ -536,6 +538,8 @@ Data Science
 * [python 데이터 분석 실습 코로나 19 2021 현재 시점 분석하기 1편](https://stricky.tistory.com/457)
 * [15 Python Snippets to Optimize your Data Science Pipeline - KDnuggets](https://www.kdnuggets.com/2021/08/15-python-snippets-optimize-data-science-pipeline.html)
 * [5 ways for Data Scientists to Code Efficiently in Python](https://www.analyticsvidhya.com/blog/2021/08/5-ways-for-data-scientists-to-code-efficiently-in-python/)
+* [Data scientist’s guide to efficient coding in Python | by Dr. Varshita Sher | Jul, 2021 | Towards Data Science](https://towardsdatascience.com/data-scientists-guide-to-efficient-coding-in-python-670c78a7bf79)
+* [Creating a Data Science Python Package Using Jupyter Notebook | by Abid Ali Awan | Jul, 2021 | Towards Data Science](https://towardsdatascience.com/creating-data-science-python-package-using-jupyter-notebook-6fa6e6b74a87)
 
 ## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
@@ -684,6 +688,7 @@ Data Science
     * 저자는 Alibaba, Facebook, JD, Doordash에서 공유한 시스템 디자인 사례들을 이 프레임에 맞춰 분석
     * 프레임 제시 뿐만 아니라 중간중간에 train-test skew 문제, embedding model과 ANN을 같은 컨테이너에서 운영하는 이유, batch대신 real-time recommendation이 정말 필요한가 같은 엔지니어링 이슈를 다뤄서 좋음
   * [**번역글 System Design for Recommendations and Search | You May Also Like**](https://ziminpark.github.io/posts/system-design-for-discovery/)
+* [On YouTube’s recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
