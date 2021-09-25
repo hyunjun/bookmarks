@@ -621,6 +621,7 @@ Machine Learning
 * [Naïve Bayes for Machine Learning – From Zero to Hero](https://blog.floydhub.com/naive-bayes-for-machine-learning/)
 * [**Rules of Machine Learning: Best Practices for ML Engineering 정리**](https://zzsza.github.io/data/2019/12/15/rules-of-ml)
 * [Rules of Machine Learning:  |  ML Universal Guides  |  Google Developers](https://developers.google.com/machine-learning/guides/rules-of-ml)
+* [The First Rule of Machine Learning: Start without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/)
 * [Simulation vs. Machine Learning](https://vortarus.com/simulation-vs-machine-learning/)
 * [라쏘? 로지스틱? 회의에서 당당하게, 수식없이 기초개념부터](http://triviaz.net/blog:easy_lasso_logistic_regression) lasso logistic
 * [The Illustrated FixMatch for Semi-Supervised Learning](https://amitness.com/2020/03/fixmatch-semi-supervised/)
@@ -660,6 +661,8 @@ Machine Learning
 * [Tuning Model Performance | Uber Engineering Blog](https://eng.uber.com/tuning-model-performance/)
 * [9 Deadly Sins of Dataset Selection in ML | by Sandeep Uttamchandani | Jun, 2021 | Towards Data Science](https://towardsdatascience.com/9-deadly-sins-of-ml-dataset-selection-db7ee757efa0)
 * [Real Estate pricing with Machine Learning & non-traditional data sources | Tryolabs Blog](https://tryolabs.com/blog/2021/06/25/real-estate-pricing-with-machine-learning--non-traditional-data-sources/)
+* [Bootstrapping Labels via `___` Supervision & Human-In-The-Loop](https://eugeneyan.com/writing/bootstrapping-data-labels/) active learning
+* [머신러닝과 정보이론: 작동원리의 이해 – 과학의 지평](https://horizon.kias.re.kr/18474/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -842,6 +845,7 @@ Machine Learning
 * [Learning from Data - Yaser S. Abu-MostafaYaser S. Abu-Mostafa Machine Learning course - recorded at a live broadcast from Caltech](http://work.caltech.edu/telecourse.html)
 * [CS7641 at Georgia Tech / Udacity](https://www.udacity.com/course/machine-learning--ud262)
 * [CS156 at Caltech](https://www.youtube.com/playlist?list=PLvx5ei9aEEqKgDZ7oaQGSToFi-QER4v1M)
+* [CS3244 Machine Learning Tutorial Material in python](https://pythonawesome.com/cs3244-machine-learning-tutorial-material-in-python/)
 * [CS 329S | Syllabus](https://stanford-cs329s.github.io/syllabus.html)
   * [Stanford MLSys Seminars - YouTube](https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ)
 * [sentdex, Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
@@ -1037,6 +1041,7 @@ Machine Learning
 * [캐글 집 가격 예측 대회 탐색적 데이터 분석 - 캐글 스터디 2기 - YouTube](https://www.youtube.com/watch?v=KGJxNW67b7I)
 * [Upstage Talks 학부 문과생이 세계 랭킹 24위 캐글 그랜드 마스터가 되기까지 - YouTube](https://www.youtube.com/watch?v=TwF2EB9UCsI)
 * [AI Factory](http://aifactory.space/)
+* [morty: 🔬 Lightweight experiment and configuration manager for small ML/DL projects and Kaggling](https://github.com/roma-glushko/morty)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
@@ -1179,6 +1184,7 @@ Machine Learning
 * [칼럼ㅣAI 프로젝트 악순환 고리 끊어라··· 'ML옵스' 마인드셋이 필요한 이유 - CIO Korea](https://www.ciokorea.com/news/202454)
 * [MLOps And Machine Learning Roadmap - KDnuggets](https://www.kdnuggets.com/2021/08/mlops-machine-learning-roadmap.html)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
+* [MadeWithML: Learn how to responsibly deliver value with ML](https://github.com/GokuMohandas/MadeWithML)
 * **[MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
   * [MLOps Basics Week 0: Project Setup – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-project-setup-part1) 프로젝트 설정
   * [MLOps Basics Week 1: Model Monitoring - Weights and Bias – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-wandb-integration) 모델 모니터링 - 웨이트와 편견
