@@ -2377,6 +2377,7 @@ CVPR2016)
 * [강화학습 팁 모음(2) - reward function 작성 요령](https://ropiens.tistory.com/139)
 * [Mava: A new Open-Source Framework for Multi-Agent Reinforcement Learning | InstaDeep - Decision-Making AI For The Enterprise](https://www.instadeep.com/2021/07/mava-a-new-framework-for-distributed-multi-agent-reinforcement-learning/)
 * [Deep Reinforcement Learning is a waste of time](http://www.jtoy.net/blog/deep-reinforcement-learning-is-a-waste-of-time.html)
+* [Bomberland | Coder One](https://www.gocoder.one/bomberland)
 
 ## RL Deep Q Learning DQL
 * [Deep Q-Learning (Space Invaders)](http://maciejjaskowski.github.io/2016/03/09/space-invaders.html)
