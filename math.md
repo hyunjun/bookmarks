@@ -12,6 +12,7 @@ Math
 * [장환수학 - 최적화이론](https://www.youtube.com/channel/UCxsF9TU0tELBAhQTWV-t_kA)
 * [수학의 즐거움, Enjoying Math](https://www.youtube.com/channel/UCB_AbuIVIG8I3K3_T_j0FSw)
 * [수학전공자가 추천 하는 유튜브 수학 강의 목록](https://medium.com/@matt_lee/%EC%88%98%ED%95%99%EC%A0%84%EA%B3%B5%EC%9E%90%EA%B0%80-%EC%B6%94%EC%B2%9C-%ED%95%98%EB%8A%94-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%88%98%ED%95%99-%EA%B0%95%EC%9D%98-%EB%AA%A9%EB%A1%9D-96c899728008)
+* [수학 전공자가 추천 하는 유튜브 수학 강의 목록](https://velog.io/@otter275/%EC%88%98%ED%95%99-%EC%A0%84%EA%B3%B5%EC%9E%90%EA%B0%80-%EC%B6%94%EC%B2%9C-%ED%95%98%EB%8A%94-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%88%98%ED%95%99-%EA%B0%95%EC%9D%98-%EB%AA%A9%EB%A1%9D)
 * [codebymath.com](http://www.codebymath.com/)
 * [Derivative Calculator](https://www.derivative-calculator.net/)
 * [math-as-code - a cheat-sheet for mathematical notation in code form](https://github.com/Jam3/math-as-code)
@@ -138,6 +139,7 @@ Math
   * [푸리에 변환을 반응형으로 소개합니다](http://www.jezzamon.com/fourier/ko.html)
   * [fourier-playground: 푸리에 변환 실험실](https://github.com/suhdonghwi/fourier-playground)
 * [The Fourier transform is a neural network | sidsite](https://sidsite.com/posts/fourier-nets/)
+* [Fourier series visualisation with d3.js. - bl.ocks.org](https://bl.ocks.org/jinroh/7524988)
 
 # Geometry
 * [eukleides - a geometry drawing language](http://eukleides.org/)
