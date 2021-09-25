@@ -1999,6 +1999,7 @@ Programming
 * [O'Reilly Learning Paths](http://shop.oreilly.com/category/learning-path.do?imm_mid=0e33ca&cmp=em-na-books-videos-lp-promo_day_against_drm_20160503_lp)
 * [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 * [Programming by Doing](http://programmingbydoing.com/)
+* [programming-math-science: This is a list of links to different freely available learning resources about computer programming, math, and science](https://github.com/bobeff/programming-math-science)
 * [raywenderlich.com](https://www.raywenderlich.com/) Over 3,000 high-quality tutorials to boost your programming career, created by a community of experts from around the world
 * [SKplanet Tacademy](https://www.youtube.com/channel/UCtV98yyffjUORQRGTuLHomw/playlists)
 * [Slip](https://www.slip.so/)
