@@ -907,10 +907,11 @@ NLP
   * [season2/advanced at main · jiphyeonjeon/season2](https://github.com/jiphyeonjeon/season2/tree/main/advanced)
 * [Large-scale LM에 대한 얕고 넓은 지식들(part 2) - YouTube](https://www.youtube.com/watch?v=zbuD21YwLZI)
 * [Beauty Domain-Specific Pre-trained Language Model 개발하기 –](http://blog.hwahae.co.kr/all/tech/tech-tech/5876/)
+* [What Have Language Models Learned?](https://pair.withgoogle.com/explorables/fill-in-the-blank/)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
   * [Jay Alammar - Take A Look Inside Language Models With Ecco | PyData Khobar - YouTube](https://www.youtube.com/watch?v=rHrItfNeuh0)
 * GSLM
-  * [텍스트 없는 자연어처리?... 음성 인공지능 NLP 시대 열어, 페이스북 AI ‘생성적 화자 언어 모델’ 오픈 소스로 공개 < 자연어 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=22445)
+  * [텍스트 없는 자연어처리?... 음성 인공지능 NLP 시대 열어, 페이스북 AI ‘생성적 화자 언어 모델’ 오픈 소스로 공개](https://www.aitimes.kr/news/articleView.html?idxno=22445
   * [Textless NLP: Generating expressive speech from raw audio](https://ai.facebook.com/blog/textless-nlp-generating-expressive-speech-from-raw-audio/)
 * [KLUE Benchmark](https://klue-benchmark.com/)
   * [KLUE-benchmark/KLUE: 📖 Korean NLU Benchmark](https://github.com/KLUE-benchmark/KLUE)
@@ -1489,6 +1490,7 @@ NLP
 * [python-machine-learning-book-3rd-edition 네이버 영화 리뷰 감성 분류](https://github.com/rickiepark/python-machine-learning-book-3rd-edition/blob/master/ch08/naver_movie_review.ipynb)
 * [Sentiment Analysis (Opinion Mining) with Python - NLP Tutorial | Towards AI](https://medium.com/towards-artificial-intelligence/sentiment-analysis-opinion-mining-with-python-nlp-tutorial-d1f173ca4e3c)
 * [Sentiment-analysis-using-tensorflow: Here i tried to do a simple sentiment analysis of amazon product reviews using universal sentence encoder](https://github.com/Tasfiq23/Sentiment-analysis-using-tensorflow)
+* [국민·고객·직원의 '마음'을 엿본다··· ‘정서 분석’ 가이드 - CIO Korea](https://www.ciokorea.com/news/207589)
 * [HuggingFace KoElectra로 NSMC 감성분석 Fine-tuning해보기 | by 김희규 | Aug, 2020 | Medium](https://medium.com/@heegyukim/huggingface-koelectra%EB%A1%9C-nsmc-%EA%B0%90%EC%84%B1%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-1a23a0c704af)
 * [nsmc-tf-text: tensorflow text로 간편하게 시작하는 NSMC 분류](https://github.com/jeongukjae/nsmc-tf-text)
   * [편리한 NLP를 위한 TensorFlow-Text와 RaggedTensor – Jeong Ukjae](https://jeongukjae.github.io/posts/tensorflow-text-and-ragged-tensor/)
