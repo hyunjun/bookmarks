@@ -26,6 +26,7 @@ GIS
 * [맵의 미래는 게임의 현재를 따라간다 (번역) – 이바닥늬우스](https://ebadak.news/2021/09/04/mappings-future-looks-like-gamings/)
   * [맵(지도)의 미래는 게임의 현재를 따라간다 (번역) | GeekNews](https://news.hada.io/topic?id=4963)
 * [Leap seconds: Causing Bugs Even When They Don't Happen - Bert Hubert's writings](https://berthub.eu/articles/posts/leapseconds-expose-bugs-even-when-they-dont-happen/) 윤초
+* [The Evolution of Map Design: From Medieval Latin to Google Maps | by Daniel Ruston | Google Design | Medium](https://medium.com/google-design/design-for-a-map-927b533ac544)
 
 # Go
 * [find3: High-precision indoor positioning framework, version 3](https://github.com/schollz/find3)
