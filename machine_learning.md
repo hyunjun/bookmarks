@@ -406,6 +406,7 @@ Machine Learning
 * [FOUNDATIONS OF MACHINE LEARNING](https://bloomberg.github.io/foml)
 * [What is Machine Learning?](https://www.youtube.com/watch?v=f_uwKZIAeM0)
 * [6 Fun Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
+* [11 Machine Learning Project Ideas for Beginners](https://www.makeuseof.com/machine-learning-project-ideas-for-beginners/)
 * [Machine Learning Summarized in One Picture](http://www.datasciencecentral.com/profiles/blogs/machine-learning-summarized-in-one-picture)
 * [THE MATHEMATICS OF MACHINE LEARNING](http://dataconomy.com/2017/02/mathematics-machine-learning/)
 * [Torch DQN 강화학습 소개](http://www.popit.kr/torch-dqn-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-%EC%86%8C%EA%B0%9C/)
