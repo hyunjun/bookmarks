@@ -245,6 +245,7 @@ Vision
 * [많은 양의 개체들을 시각화하는 방법, 그리고 전국의 모든 건물](https://www.vw-lab.com/64?category=787869)
 * [Tea Time! ☕️ Computer Vision #3: Recall, Precision, F1 and ROC, AUC - YouTube](https://www.youtube.com/watch?v=o1oTbRVVq-o)
 * [Real-time MOT(Multi-Object Tracker) 리뷰 | Note](https://ezobear.github.io/reatl-time,%20object%20trakcer/2020/09/01/MOT-post.html)
+* [Introducing Zero Shot Object Tracking](https://blog.roboflow.com/zero-shot-object-tracking/)
 * [색공간 HSV 색 공간을 활용해서 특정 색깔의 물체만 검출하기 (matlab 소스코드 포함) by b스카이비전](https://bskyvision.com/46)
 * [Computer Vision Recipes: Best Practices and Examples](https://www.kdnuggets.com/2020/09/computer-vision-recipes-best-practices-examples.html)
 * [ImageClassify_TeachableMachine_App](https://github.com/wgfactory/ImageClassify_TeachableMachine_App)
@@ -260,10 +261,11 @@ Vision
 # Book
 * [더북(TheBook): Visual C++ 영상 처리 프로그래밍](https://thebook.io/006796/) 1~11장만
 * [더북(TheBook): OpenCV 4로 배우는 컴퓨터 비전과 머신 러닝](https://thebook.io/006939/)
+* [Best Computer Vision Books To Read Now In 2021](https://nextotech.com/best-computer-vision-books)
+* [Computer Graphics from Scratch - Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/)
 * [Hands-On Computer Vision with TensorFlow 2, published by Packt](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
 * [Introduction to Computer Graphics -- Title Page](http://math.hws.edu/graphicsbook/index.html)
-* [Computer Graphics from Scratch - Gabriel Gambetta](https://gabrielgambetta.com/computer-graphics-from-scratch/)
-* [Best Computer Vision Books To Read Now In 2021](https://nextotech.com/best-computer-vision-books)
+* [Programming Computer Vision with Python](http://programmingcomputervision.com/)
 
 # Deep Learning
 * [Deep Learning based Detection](http://tmmse.xyz/deep-learning-based-detection/)
@@ -363,6 +365,7 @@ Vision
     * exif를 인식하지 못하여, exif에 있는 orientaion 항목이 아니라, exif를 무시한체 raw한 픽셀정보로 띄우다 보니
     * 만약 orientaion과 실제 픽셀이 구성된 방향이 다르면 자연스럽게 뒤집어져서 로드
 * [Kinetics is a large-scale, high-quality dataset of YouTube video URLs which include a diverse range of human focused actions](https://deepmind.com/research/open-source/open-source-datasets/kinetics/)
+* [LAION-400M - 4억개짜리 이미지-텍스트 쌍 데이터셋 | GeekNews](https://news.hada.io/topic?id=5016)
 * [Leptonica is a pedagogically-oriented open source site containing software that is broadly useful for image processing and image analysis applications](http://www.leptonica.com/)
 * [libfacedetection](https://github.com/ShiqiYu/libfacedetection)
 * [LUMINOTH - Open source Computer Vision toolkit](https://luminoth.ai/)
@@ -629,6 +632,7 @@ Vision
 * [A Comprehensive Guide to Image Processing: Using an OpenCV Tool | by Yağmur Çiğdem Aktaş | Aug, 2021 | Towards Data Science](https://towardsdatascience.com/image-processing-tool-a1b8fe66c957)
 * [A Comprehensive Guide to Image Processing: Part 2 | by Yağmur Çiğdem Aktaş | Sep, 2021 | Towards Data Science](https://towardsdatascience.com/image-processing-part-2-1fb84931364a)
 * [A Comprehensive Guide to Image Processing: Part 3 | by Yağmur Çiğdem Aktaş | Aug, 2021 | Towards Data Science](https://towardsdatascience.com/image-processing-part-3-dbf103622909)
+* [matrix color filter.ipynb - Colaboratory](https://colab.research.google.com/drive/1q-ce7dfhbTW2kdcT6m2I9A9ucvAD0ZHR?usp=sharing)
 * [box-visualizer: Make drawing and labeling bounding boxes easy as cake](https://github.com/shoumikchow/bbox-visualizer)
 * [genetic-drawing: A genetic algorithm toy project for drawing](https://github.com/anopara/genetic-drawing)
 * [imutils - A series of convenience functions to make basic image processing operations such as translation, rotation, resizing, skeletonization, and displaying Matplotlib images easier with OpenCV and Python](https://github.com/jrosebr1/imutils)
@@ -683,7 +687,6 @@ Vision
 * [Snagging Parking Spaces with Mask R-CNN and Python](https://medium.com/@ageitgey/snagging-parking-spaces-with-mask-r-cnn-and-python-955f2231c400)
   * [빈 주차공간 찾아서 알려주는 인공지능 만든 개발자](https://smartaedi.tistory.com/368)
 * [모자이크된 이미지를 고해상도 이미지로(CNN) : 네이버 블로그](https://blog.naver.com/educoding/222184010486)
-* [Image Segmentation using Python’s scikit-image module](https://towardsdatascience.com/image-segmentation-using-pythons-scikit-image-module-533a61ecc980)
 * [Computer vision challenges in drug discovery - Maciej Hermanowicz](https://www.youtube.com/watch?v=Y5GJmnIhvFk)
 * [Histogram](https://medipixel.github.io/post/histogram/)
 * [Image Thresholding](https://medipixel.github.io/post/image-thresholding/)
@@ -736,6 +739,8 @@ Vision
 * [PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models](https://github.com/facebookresearch/SlowFast)
 * [repnet-cli: RepNet command line interface (https://sites.google.com/view/repnet)](https://github.com/JeiKeiLim/repnet-cli)
 * [RetinaFace-tf2: RetinaFace (RetinaFace: Single-stage Dense Face Localisation in the Wild, published in 2019) reimplemented in Tensorflow 2.0, with pretrained weights available !](https://github.com/StanislasBertrand/RetinaFace-tf2)
+* [scikit-image: Image processing in Python — scikit-image](https://scikit-image.org/)
+  * [Image Segmentation using Python’s scikit-image module](https://towardsdatascience.com/image-segmentation-using-pythons-scikit-image-module-533a61ecc980)
 * sklearn [An Offbeat Approach to Brain Tumor Classification using Computer Vision](https://medium.com/towards-artificial-intelligence/an-offbeat-approach-to-brain-tumor-classification-using-computer-vision-19c9e7b84664)
 * [Speech2Face: Implementation of the CVPR 2019 Paper - Speech2Face: Learning the Face Behind a Voice by MIT CSAIL](https://github.com/saiteja-talluri/Speech2Face)
 * [VISSL · A library for state-of-the-art self-supervised learning](https://vissl.ai/)
