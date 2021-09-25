@@ -338,6 +338,7 @@ NLP
 * [NLP와 OCR, 머신 러닝으로 더욱 편리하고 특별한 LINE 가계부 만들기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-kakeibo-with-nlp-ocr-machinelearning/)
 * [Machine Learning Won't Solve Natural Language Understanding](https://thegradient.pub/machine-learning-wont-solve-the-natural-language-understanding-challenge/) NLU
 * [NLP in Fintech. Introduction | by FinTech MK | Sep, 2021 | Medium](https://medium.com/@fintech.macedonia/nlp-in-fintech-1aee4fd8ed08)
+* [딥 러닝 자연어 처리를 학습을 위한 파워포인트. (Deep Learning for Natural Language Proces…](https://www.slideshare.net/wonjoonyoo/ss-188835227)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
