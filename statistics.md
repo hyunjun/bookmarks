@@ -196,6 +196,7 @@ Statistics
 * [Dongjin | Basic Statistics(2)](https://dongqui.github.io//posts/basic-statistics2)
 * ["표본은 적어도 30개"는 어쩌다 국룰이 되었는가](https://data101.oopy.io/big-enough-sample-30)
 * [코호트란 무엇인가?](https://brunch.co.kr/@graypool/146)
+* [How percentile approximation works (and why it's more useful than averages)](https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/)
 
 # Bayes
 * [쉽게 이해하는 베이즈 정리](http://blog.naver.com/anthouse28/221077405435)
