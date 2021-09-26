@@ -1006,6 +1006,7 @@ Java
   * [message.properties → \*.json 변환하여 프론트 프로젝트에 넣기. (gradle) :: 삶의여행](https://life-journey.tistory.com/42)
   * [🐘스프링 부트 Gradle 사용하기 - YouTube](https://www.youtube.com/watch?v=YFoTFJQ3pZo)
   * [빌드 시스템, Gradle을 사용해 보자 : 네이버 블로그](https://blog.naver.com/ndskr/222459031744)
+  * [Gradle Dependency Configuration](https://effectivesquid.tistory.com/entry/Gradle-Dependency-Configuration)
   * [Gradle Wrapper | 개발자 황준일](https://junilhwang.github.io/TIL/Gradle/GradleWrapper/)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * [hwplib: hwp library for java](https://github.com/neolord0/hwplib)
