@@ -583,6 +583,7 @@ App
     * [Become The Shortcut Master — Chrome and Atom (Part 2)](https://hackernoon.com/become-the-shortcut-master-chrome-and-atom-part-2-c866150caa7)
     * [텍스트 에디터 Atom(아톰) 패키지 추천(Activate Power Mode)](https://webruden.tistory.com/81)
     * [The Ultimate Atom Editor Setup (+for JS/React)](https://medium.com/productivity-freak/my-atom-editor-setup-for-js-react-9726cd69ad20)
+    * [Atom을 마크다운 에디터로 사용하기 (feat. Mac OS)](https://jojoldu.tistory.com/601)
   * VS Code, visual studio code
     * [VS Code 소개 및 설치방법](http://gomcine.tistory.com/entry/VS-Code-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0)
     * [Visual Studio Code 기본 사용법 - YouTube](https://www.youtube.com/watch?v=K8qVH8V0VvY)
@@ -1532,6 +1533,7 @@ App
 * [Startpage.com - The world's most private search engine](https://startpage.com/)
 
 # TODOs To-Dos
+* [TODO 리스트 앱 탐험기 - tebica story](https://earlybird.kr/2603)
 * [dynalist.io](https://dynalist.io/) todo
 * workflowy
   * [디자이너에게 WorkFlowy가 필요한 이유](https://webuildproduct.com/%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%97%90%EA%B2%8C-workflowy%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0-b3266fe11cb0#.n4focdnhn)
