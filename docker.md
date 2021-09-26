@@ -64,6 +64,7 @@ Docker
 * [Docker: Installation and Test Drive Utuntu 위에 Docker 설치하고 맛보기](http://www.sauru.so/blog/docker-installation-and-test-drive/)
 * [Docker: 나의 첫 Docker Image Build and Push my own Docker Image](http://www.sauru.so/blog/build-my-first-docker-image/)
 * [Docker image](https://trylhc.tistory.com/entry/Docker-image)
+* [How to create a production Docker image - DEV Community](https://dev.to/abdorah/how-to-create-production-docker-image-ready-for-deployment-4bbe)
 * [What is a Docker container vs. an image?](https://searchitoperations.techtarget.com/answer/What-is-a-Docker-container-vs-an-image)
 * [도커 Docker 기초 확실히 다지기](https://futurecreator.github.io/2018/11/16/docker-container-basics)
 * [Docker에 대해서 정리해 봅니다](https://developer88.tistory.com/293)
