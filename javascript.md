@@ -3347,6 +3347,7 @@ Javascript
   * [Next.js 공식문서 파헤치기(2) - 기본개념 "Pages, Pre-Rendering 방식(SSG/SSR)"](https://xtring-dev.tistory.com/entry/Nextjs-Nextjs-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B02-Nextjs%EC%9D%98-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%ED%8A%B9%EC%A7%95)
   * [Mobile Convergence :: React HH-6 서버 사이드 렌더링 SSR - Next.JS](https://mobicon.tistory.com/583)
   * [yarn2로 next.js 프로젝트 만들기](https://velog.io/@juunini/yarn2%EB%A1%9C-next.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+  * [Next.js 그거 어떻게 하는 건데.. 최근 새로운 팀에 합류하고 온보딩 프로세스를 진행하고 있다. 제품에… | by Woosik Kim | Sep, 2021 | Medium](https://well-balanced.medium.com/next-js-%EA%B7%B8%EA%B1%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%8A%94-%EA%B1%B4%EB%8D%B0-ea5637f25fa4)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
