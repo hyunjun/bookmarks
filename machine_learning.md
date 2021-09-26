@@ -663,6 +663,7 @@ Machine Learning
 * [Real Estate pricing with Machine Learning & non-traditional data sources | Tryolabs Blog](https://tryolabs.com/blog/2021/06/25/real-estate-pricing-with-machine-learning--non-traditional-data-sources/)
 * [Bootstrapping Labels via `___` Supervision & Human-In-The-Loop](https://eugeneyan.com/writing/bootstrapping-data-labels/) active learning
 * [머신러닝과 정보이론: 작동원리의 이해 – 과학의 지평](https://horizon.kias.re.kr/18474/)
+* [실험없이 이벤트 효과를 추정할 수 있을까? - DIFFERENCE IN DIFFERENCES](https://lumiamitie.github.io/data/difference-in-differences/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
