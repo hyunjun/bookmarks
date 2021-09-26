@@ -1911,6 +1911,7 @@ Javascript
     * 모노 레포에서 특정 커밋 이후에 변경사항이 있는 워크스페이스만 찾아 명령어를 실행하는 since라는 플러그인 제작
   * [node_modules로부터 우리를 구원해 줄 Yarn Berry](https://toss.tech/article/node-modules-and-yarn-berry)
   * [yarn berry 프로젝트 생성해보기](https://velog.io/@juunini/yarn-berry-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%83%9D%EC%84%B1%ED%95%B4%EB%B3%B4%EA%B8%B0)
+  * [yarn2로 마이그레이션 하는 방법](https://velog.io/@juunini/yarn2%EB%A1%9C-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 
 ## Library Bundler
 * [자바스크립트가 아닌 리소스 번들링 하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210914)
@@ -3345,6 +3346,7 @@ Javascript
   * [Next.js 공식문서 파헤치기(1) - 시작하기](https://xtring-dev.tistory.com/entry/Nextjs-Nextjs-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B0)
   * [Next.js 공식문서 파헤치기(2) - 기본개념 "Pages, Pre-Rendering 방식(SSG/SSR)"](https://xtring-dev.tistory.com/entry/Nextjs-Nextjs-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C-%ED%8C%8C%ED%97%A4%EC%B9%98%EA%B8%B02-Nextjs%EC%9D%98-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%ED%8A%B9%EC%A7%95)
   * [Mobile Convergence :: React HH-6 서버 사이드 렌더링 SSR - Next.JS](https://mobicon.tistory.com/583)
+  * [yarn2로 next.js 프로젝트 만들기](https://velog.io/@juunini/yarn2%EB%A1%9C-next.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
