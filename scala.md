@@ -2333,3 +2333,6 @@ Scala
 * [#Scala Crash Course by a Scala veteran (with some JavaScript flavor) - YouTube](https://www.youtube.com/watch?v=-xRfJcwhy7A)
 * [Scala-Resources/README.md at main · fullStackRyan/Scala-Resources](https://github.com/fullStackRyan/Scala-Resources/blob/main/README.md)
 * [Learning Scala with #Intellij Scala Plugin 2021(#Scala #REPL #ScratchPad ) - YouTube](https://www.youtube.com/watch?v=61Nnh7R-Abk)
+* [scala-3-beginners: The official repository for the Scala 3 & Functional Programming Essentials course](https://github.com/rockthejvm/scala-3-beginners)
+* [scala-3-advanced: The official repository for the Rock the JVM Advanced Scala course](https://github.com/rockthejvm/scala-3-advanced)
+  * [Advanced Scala 3 and Functional Programming Course Overview - YouTube](https://www.youtube.com/watch?v=ohb1MfqYz6I)
