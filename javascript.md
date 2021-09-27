@@ -3022,6 +3022,7 @@ Javascript
 * [Mobile Convergence :: MS-2 React & Nest 기반 애플리케이션 및 Micro Service 통신 설정](https://mobicon.tistory.com/586)
 * [Mobile Convergence :: MS-3 Gateway와 Micro Service간 디버깅 환경 구축](https://mobicon.tistory.com/587)
 * [Mobile Convergence :: MS-4 Gateway에 Prisma ORM 적용하기](https://mobicon.tistory.com/588)
+* [Mobile Convergence :: MS-5 Micro Service를 위한 TypeORM 사용하기](https://mobicon.tistory.com/589)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
