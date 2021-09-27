@@ -399,6 +399,7 @@ Clojure
 * [Reflective Towers of Interpreters | SIGPLAN Blog](https://blog.sigplan.org/2021/08/12/reflective-towers-of-interpreters/)
 * [Reactive Clojure: You don't need a web framework, you need a web language](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)
 * [프로그래머를 위한 이름 짓는 원리 | 그린랩스](https://green-labs.github.io/programmers-naming)
+* [Clojure and Postgres, no JDBC. By Duane Bester | ITNEXT](https://itnext.io/talking-to-postgres-with-clojure-3b2b24ebfb3)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -1320,6 +1321,8 @@ Clojure
 * [the Clojure language - YouTube](https://www.youtube.com/playlist?list=PLAC43CFB134E85266)
 * [Clojure Tutorial for Beginners 1 | Abhinav Omprakash](https://www.abhinavomprakash.com/posts/clojure-tutorial-for-beginners-1/)
 * [그린랩스에서 클로저 시작하기 | 그린랩스](https://green-labs.github.io/clojure-bootcamp)
+* [The Animated Guide to Symex – Terminally Undead](https://countvajhula.com/2021/09/25/the-animated-guide-to-symex/)
+* [Setting up a basic Clojure backend - YouTube](https://www.youtube.com/watch?v=M97jWSKoV3k)
 * [clj-easy/about](https://github.com/clj-easy/about)
 
 # Vim
@@ -1352,3 +1355,4 @@ Clojure
 * [Agile & Coding: Interactive Web Development](https://davidvujic.blogspot.com/2021/02/interactive-web-development.html)
 * [Roll your own Clojure web stack - PurelyFunctional.tv](https://purelyfunctional.tv/guide/clojure-web-tutorial/)
 * [Stressed Servers](https://bsless.github.io/stressed-servers/)
+* [stress-server: Stress your Clojure servers until they sweat. Analyze the results](https://github.com/bsless/stress-server)
