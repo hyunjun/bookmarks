@@ -1437,6 +1437,9 @@ Programming Books
   * CEO에 대한 책이라 나와는 약간 안 맞는 부분도 있지만 전반적으로 매우 맘에 듦
   * 본인의 경험(성공 + 실패)에서 오는 정말 솔직한 이야기가 인상깊었음
   * [하드씽](https://jhrogue.blogspot.com/2021/07/blog-post_21.html)
+* [순서 파괴, 아마존의 유일한 성공 원칙](https://brunch.co.kr/@dream40k/121)
+  * ★★★★☆ 2021.09.27
+  * 아마존에 대해 알고 싶으면 정말 좋은 책. 확실히 여러 가지 다른 점들이 있고 적용해보고 싶은 것들이 있음
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1453,7 +1456,6 @@ Programming Books
 * (NOT YET) [팀장의 탄생](https://brunch.co.kr/@insaboy/122)
 * (NOT YET) [팀장으로 산다는 건](https://brunch.co.kr/brunchbook/teamjang)
 * (NOT YET) [왜 리더인가(이나모리 가즈오 지음/김윤경 옮김/다산북스 펴냄) - YouTube](https://www.youtube.com/watch?v=_mhyRrB0pWs)
-* (NOT YET) [순서 파괴, 아마존의 유일한 성공 원칙](https://brunch.co.kr/@dream40k/121)
 * (NOT YET) [넷플릭스, '규칙 없음'](https://brunch.co.kr/@pliossun/170)
 * (NOT YET) [‘리더 디퍼런트’ - 인사이트](https://www.insight.co.kr/news/355641) Start with why, Simon Sinek
 
