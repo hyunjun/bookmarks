@@ -1021,6 +1021,7 @@ Apache
 * [Pulsar vs. Kafka — Part 1 — A More Accurate Perspective on Performance, Architecture, and Features](https://streamnative.io/blog/tech/pulsar-vs-kafka-part-1)
 * [Event-driven railway network based on Pulsar - I'm Pavels, welcome!](https://scala.monster/train-station/) scala
 * [Scale By The Bay 2020: Keynote: Karthik Ramasy, Apache Pulsar @ Splunk - YouTube](https://www.youtube.com/watch?v=rmiQb4wsCTI)
+* [Event Streaming with Apache Pulsar and Scala - Rock the JVM Blog](https://blog.rockthejvm.com/event-streaming-with-pulsar-and-scala/)
 
 # Ranger
 * [Ranger](http://ranger.apache.org)
