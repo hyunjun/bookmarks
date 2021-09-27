@@ -889,6 +889,7 @@ Business
 * [안 할 이유 vs. 해야 할 이유](https://www.thestartupbible.com/2021/09/prioritizing-your-musts-over-your-wants.html)
 * [어떻게 알토스벤처스는 한국에서 가장 핫한 VC가 됐을까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/altosventures20181028)
 * [스타트업을 시작하기 전에 몰랐던 것들](https://brunch.co.kr/@svillustrated/111)
+* [왜 스타트업으로 오고 싶으세요? | ㅍㅍㅅㅅ](https://ppss.kr/archives/245966)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
