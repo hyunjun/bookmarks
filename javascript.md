@@ -900,6 +900,7 @@ Javascript
 * [Async Visualizer](https://nupamore.github.io/js-async-visualizer/)
 * [비동기식 처리 모델과 이벤트 루프](http://poiemaweb.com/js-async)
 * [이벤트 버블링, 이벤트 캡처 그리고 이벤트 위임까지](https://joshua1988.github.io/web-development/javascript/event-propagation-delegation/)
+* [1기 이벤트 위임 - 강푸름 · Present](https://present.do/shows/61443c83e3562505806fa453)
 * [자바스크립트 비동기 처리와 콜백 함수](https://joshua1988.github.io/web-development/javascript/javascript-asynchronous-operation/)
 * [Adapting Observable to Async Iteration in JavaScript #1](https://medium.com/@jooyunghan/adapting-observable-to-async-iteration-in-javascript-1-ce48f90ac1ac)
 * [Adapting Observable to Async Iteration in JavaScript #2](https://medium.com/@jooyunghan/adapting-observable-to-async-iteration-in-javascript-2-b8df3c7f7260)
