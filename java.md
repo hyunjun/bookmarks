@@ -497,6 +497,7 @@ Java
   * [IntelliJ Idea](http://tiveloper.tistory.com/category/IDE%20%26%20Apps/IntelliJ%20Idea)
 * [Intellij vs. Eclipse: Why IDEA is Better](https://dzone.com/articles/why-idea-better-eclipse)
 * [IntelliJ IDEA and Eclipse Shortcuts](https://www.catalysts.cc/wissenswertes/intellij-idea-and-eclipse-shortcuts/)
+* [IntelliJ IDEA에서 마우스를 사용하지 않아도 되는 10개 위치 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/ko/idea/2021/09/10-places-you-don-t-need-to-use-the-mouse-in-intellij-idea/)
 * [파워풀 코딩 (IntelliJ , Android Studio)](http://blog.naver.com/ddo009/220889086823)
 * [IntelliJ Tips and Tricks](https://medium.com/@fedor/intellij-tips-and-tricks-3e1dce6561a)
 * [42 IntelliJ IDEA Tips and Tricks](https://youtu.be/eq3KiAH4IBI)
