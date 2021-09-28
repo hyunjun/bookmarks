@@ -542,6 +542,7 @@ TensorFlow
 * [E2E tf.Keras to TFLite to Android](https://medium.com/@margaretmz/e2e-tfkeras-tflite-android-273acde6588)
 * [Human Activity Recognition using LSTMs on Android — TensorFlow for Hackers (Part VI)](https://medium.com/@curiousily/human-activity-recognition-using-lstms-on-android-tensorflow-for-hackers-part-vi-492da5adef64)
 * [텐서플로 라이트를 활용한 안드로이드 딥러닝 - 더 작고, 더 가벼운, 모바일, 에지 기기용 머신러닝 – Sangkon, Han – 개발자; 읽고 생각하고 쓰고 회고하고 정리한다.](https://sigmadream.github.io/Android_Deep_Learning_with_TensorFlow_Lite/)
+* [토닥토닥 ML Kit - ML Kit 인공지능 앱 만들기 (텐서플로우 Lite 모델) (아이폰 (스위프트)) - WikiDocs](https://wikidocs.net/book/5769)
 
 # Book
 * [A Curated List Of Dedicated Resources- TensorFlow Books](https://www.techleer.com/articles/401-a-curated-list-of-dedicated-resources-tensorflow-books/)
