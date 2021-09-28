@@ -3024,6 +3024,7 @@ Javascript
 * [Mobile Convergence :: MS-3 Gateway와 Micro Service간 디버깅 환경 구축](https://mobicon.tistory.com/587)
 * [Mobile Convergence :: MS-4 Gateway에 Prisma ORM 적용하기](https://mobicon.tistory.com/588)
 * [Mobile Convergence :: MS-5 Micro Service를 위한 TypeORM 사용하기](https://mobicon.tistory.com/589)
+* [Mobile Convergence :: MS-6 NestJS의 JWT 기반 Auth Server 환경구축](https://mobicon.tistory.com/590)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
