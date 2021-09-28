@@ -1440,6 +1440,7 @@ Programming Books
 * [순서 파괴, 아마존의 유일한 성공 원칙](https://brunch.co.kr/@dream40k/121)
   * ★★★★☆ 2021.09.27
   * 아마존에 대해 알고 싶으면 정말 좋은 책. 확실히 여러 가지 다른 점들이 있고 적용해보고 싶은 것들이 있음
+  * [순서파괴 Working Backwards. 그린 컴퍼니의 채용 프로세스에는 몇 가지 중대한 오류가 있다. 첫째… | by Jun | Sep, 2021 | Medium](https://nymets.medium.com/%EC%88%9C%EC%84%9C%ED%8C%8C%EA%B4%B4-working-ba-9b3068303d1e)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
