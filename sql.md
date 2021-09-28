@@ -505,6 +505,7 @@ SQL
 * [surrogate key 와 natural key](http://ohgyun.com/756)
 * [카카오뱅크 – Percona / MariaDB / MySQL](https://osskorea.wordpress.com/2017/08/02/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC-percona-mariadb-mysql/)
 * [Group Replication in Percona Server for MySQL](https://www.percona.com/blog/2020/01/17/group-replication-in-percona-server-for-mysql/)
+* [MySQL Group Replication 구축](https://saramin.github.io/2021-09-28-mysql-group-replication/)
 * [카카오뱅크, 마이SQL 잘 쓰는 비결](http://v.media.daum.net/v/20170917095558384)
 * [오픈소스 데이터베이스, 은행 서비스에 첫발을 내밀다](https://www.slideshare.net/deview/135-80845610)
 * [오픈소스 디비로 행원이 되어보다](https://brunch.co.kr/@chan/10)
