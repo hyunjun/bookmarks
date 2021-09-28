@@ -154,6 +154,7 @@ Artificial Intelligence
 * [CS 188 | Introduction to Artificial Intelligence Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)
 * [CS221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221)
   * [Artificial Intelligence cheatsheets for Stanford's CS 221](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
+* [matrix.skku.ac.kr/2020-Math4AI-Final-pbl2/](http://matrix.skku.ac.kr/2020-Math4AI-Final-pbl2/)
 * [theschool.ai/courses/data-lit](https://www.theschool.ai/courses/data-lit/) Siraj Raval
 * [UNIST - YouTube](https://www.youtube.com/user/unistmedia)
 
