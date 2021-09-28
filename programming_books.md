@@ -1411,15 +1411,16 @@ Programming Books
   * ★★★★☆ 2021.08.25
   * 아마존에 12년이나 근무했던 개발자(였다가 경영분석으로 변경)였고 지금은 자기 사업을 하는 저자의 아마존에서의 경험을 잘 보여준 책
   * 너무 긍정적인 쪽으로 치우친 게 아닌가 싶긴 하지만 그래도 배울 점이 많음
-  * [“실패와 혁신은 분리할 수 없는 쌍둥이다 Fallure and innovation are inseparable twins"](images/amazon00.jpeg)
-  * [찰스 두히그 charles Dunigg가 《1등의 습관smarter Faster Better)에서 이야기한 대로 구글의 데이터사이언스팀이 밝혀낸 생산성 높은 팀의 비밀은 다름 아닌 마음 놓고 내 의견을 말할 수 있다는 점이었다.](images/amazon01.jpeg)
-  * [바보 같은 질문은 없다.](images/amazon02.jpeg)
-  * [소비자 리뷰](images/amazon03.jpeg)
-  * [원클릭](images/amazon04.jpeg)
-  * [아폴로](images/amazon05.jpeg)
-  * [도해를 그리다 보면 내가 모르는 지점이 어디인지가 정확히 드러나고, 완성하고 나면 모든 퍼즐 조각들이 맞추어지는 쾌감을 경험할 수 있다](images/amazon06.jpeg)
-  * [이처럼 복잡한 내용을 도해나 도표 등으로 시각화하는 것은 학습과 정보 전달에 대단히 효율적이다. 우선 이를 완성하는 과정에서 내가 어느 부분을 정확히 이해하지 못하는지가 명확하게 드러난다. 하나의 도해를 만들려면 온전한 지식이 필요하기 때문이다.](images/amazon07.jpeg)
-  * [실시간으로 업데이트가 되는 경영 상황판](images/amazon08.jpeg)
+  * [나는 아마존에서 미래를 다녔다. “실패와 혁신은 분리할 수 없는 쌍둥이다 Failure and… | by Jun | Sep, 2021 | Medium](https://nymets.medium.com/%EB%82%98%EB%8A%94-%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90%EC%84%9C-%EB%AF%B8%EB%9E%98%EB%A5%BC-%EB%8B%A4%EB%85%94%EB%8B%A4-12bd958784ee)
+    * [“실패와 혁신은 분리할 수 없는 쌍둥이다 Fallure and innovation are inseparable twins"](images/amazon00.jpeg)
+    * [찰스 두히그 charles Dunigg가 《1등의 습관smarter Faster Better)에서 이야기한 대로 구글의 데이터사이언스팀이 밝혀낸 생산성 높은 팀의 비밀은 다름 아닌 마음 놓고 내 의견을 말할 수 있다는 점이었다.](images/amazon01.jpeg)
+    * [바보 같은 질문은 없다.](images/amazon02.jpeg)
+    * [소비자 리뷰](images/amazon03.jpeg)
+    * [원클릭](images/amazon04.jpeg)
+    * [아폴로](images/amazon05.jpeg)
+    * [도해를 그리다 보면 내가 모르는 지점이 어디인지가 정확히 드러나고, 완성하고 나면 모든 퍼즐 조각들이 맞추어지는 쾌감을 경험할 수 있다](images/amazon06.jpeg)
+    * [이처럼 복잡한 내용을 도해나 도표 등으로 시각화하는 것은 학습과 정보 전달에 대단히 효율적이다. 우선 이를 완성하는 과정에서 내가 어느 부분을 정확히 이해하지 못하는지가 명확하게 드러난다. 하나의 도해를 만들려면 온전한 지식이 필요하기 때문이다.](images/amazon07.jpeg)
+    * [실시간으로 업데이트가 되는 경영 상황판](images/amazon08.jpeg)
 * [조직을 성공으로 이끄는, 프로덕트 오너 - 김성한](https://blog.naver.com/teincept/221905630896)
   * ★★★★★ 2021.09.02
   * 교과서적인 내용, 그만큼 실천하기 어려우면서 효과적일 수 있을 듯
