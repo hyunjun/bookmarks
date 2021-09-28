@@ -227,6 +227,7 @@ Git
   * 추가/삭제된 파일의 hash로 후보를 찾고 이 파일을 규칙에 따라 chunk로 나는 뒤에 50% 이상 동일하면 변경된 것으로 인식
   * 그래서 파일 마지막에 개행 문자가 없는 경우에 rename의 추적 과정이 왜 달라지는지도 설명
 * [Improving Git protocol security on GitHub | The GitHub Blog](https://github.blog/2021-09-01-improving-git-protocol-security-github/)
+* [GitHub과 소프트웨어 보안 - YouTube](https://www.youtube.com/watch?v=j5GDh67ql4s)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
