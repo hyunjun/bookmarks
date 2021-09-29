@@ -61,6 +61,7 @@ Monitoring
 * [Introducing the Redis Data Source Plug-in for Grafana | Redis Labs](https://redislabs.com/blog/introducing-the-redis-data-source-plug-in-for-grafana/)
 * [검색 모니터링 시스템 구축 - 다나와 기술블로그](https://danawalab.github.io/common/2021/04/09/Commom-Monitoring-System.html)
 * [**1 Kubernetes All-in-one Cluster Monitoring KR dashboard for Grafana | Grafana Labs**](https://grafana.com/grafana/dashboards/13770)
+* [Amazon Managed Grafana 사용기. 미국 동부(버지니아 북부) 및 유럽(아일랜드) 리전에서 평가판으로… | by 송지혜 | Cloud Villains | Sep, 2021 | Medium](https://medium.com/ctc-mzc/amazon-managed-grafana-%EC%82%AC%EC%9A%A9%EA%B8%B0-956bb5bace32)
 * Grafana Tempo
   * [Grafana Announces Grafana Tempo, a Distributed Tracing System](https://www.infoq.com/news/2020/12/grafana-tempo-distributed-tracin/)
   * [Intro to exemplars, which enable Grafana Tempo’s distributed tracing at massive scale | Grafana Labs](https://grafana.com/blog/2021/03/31/intro-to-exemplars-which-enable-grafana-tempos-distributed-tracing-at-massive-scale/)
