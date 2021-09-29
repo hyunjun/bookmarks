@@ -1761,6 +1761,7 @@ App
   * [WSL에 대해 알아보자.. 이번에는 WSL에 대해 알아보려 한다. | by 미완성의 신 | Medium](https://medium.com/@unfinishedgod/wsl%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-e01eb130bbff)
   * [WSL Python & Jupyter notebook 설치 - 미완성의신](https://unfinishedgod.netlify.app/2021/03/26/wsl-python-jupyter-notebook-%EC%84%A4%EC%B9%98/)
   * [The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux | Windows Command Line](https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/)
+  * [WSL2 에서 리눅스 GUI앱 실행하기](https://open-support.tistory.com/entry/WSL2-%EC%97%90%EC%84%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-GUI%EC%95%B1-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)
   * [GWSL-Source: The actual code for GWSL. And some premade binaries](https://github.com/Opticos/GWSL-Source) python
   * [WSL-DistroManager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://github.com/rkttu/WSL-DistroManager)
   * [wslg: Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios](https://github.com/microsoft/wslg)
