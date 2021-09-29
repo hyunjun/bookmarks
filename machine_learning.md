@@ -248,6 +248,7 @@ Machine Learning
 * [Machine Learning and Cognitive Computing](http://www.infoq.com/articles/machine-learning-and-cognitive-computing)
 * [Cross-validation for detecting and preventing overfitting](http://www.autonlab.org/tutorials/overfit10.pdf)
 * [18. 모델의 과최적화를 피하는 방법 (overfitting, regularization)](http://daeson.tistory.com/m/184)
+* [L2 Regularization](https://bcho.tistory.com/1386)
 * [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
 * [The Secret behind Train and Test Split in Machine Learning Process - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/the-secret-behind-train-and-test-split)
 * [Sergey Feldman: You Should Probably Be Doing Nested Cross-Validation | PyData Miami 2019](https://www.youtube.com/watch?v=DuDtXtKNpZs)
@@ -547,6 +548,7 @@ Machine Learning
 * [Feature Store - why?](https://velog.io/@hsh/Feature-Store-why)
 * [Feature store - 핵심 개념](https://velog.io/@hsh/Feature-store-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90)
 * [Feature store - Basic Architecture](https://velog.io/@hsh/Feature-store-Basic-Architecture)
+* [Feature Crossing](https://bcho.tistory.com/1385)
 * [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
   * 기계학습 모델은 통계적 모델에 비해 예측력은 높으나 설명력이 떨어진다는 비판
   * 이 글은 XGBoost의 예측 결과를 설명하기 위해 기존의 설명 방식과 더불어 새로운 방식도 제안
