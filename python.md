@@ -4675,6 +4675,7 @@ Python
   * Word VBA 모델
 * [Building a Windows Shortcut with Python](https://pbpython.com/windows-shortcut.html)
 * [Python과 Windows Program간의 데이터 공유](https://blog.naver.com/educoding/221737503305) memory mapped file, MFC <-> python
+* [처음 시작하시는 분들을 위한 윈도우 파이썬 개발환경 구축 - YouTube](https://www.youtube.com/watch?v=KHkMxvTSZKQ)
 * [Dependency Walker - free utility that scans any 32-bit or 64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a hierarchical tree diagram of all dependent modules](http://www.dependencywalker.com/)
 * [DUMPBIN Reference](https://docs.microsoft.com/en-us/cpp/build/reference/dumpbin-reference) examine COFF, exe, DLL files
 * ironpython
