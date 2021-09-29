@@ -1442,6 +1442,11 @@ Programming Books
   * ★★★★☆ 2021.09.27
   * 아마존에 대해 알고 싶으면 정말 좋은 책. 확실히 여러 가지 다른 점들이 있고 적용해보고 싶은 것들이 있음
   * [순서파괴 Working Backwards. 그린 컴퍼니의 채용 프로세스에는 몇 가지 중대한 오류가 있다. 첫째… | by Jun | Sep, 2021 | Medium](https://nymets.medium.com/%EC%88%9C%EC%84%9C%ED%8C%8C%EA%B4%B4-working-ba-9b3068303d1e)
+* [배틀그라운드 신화를 만든 10년의 도전 크래프톤 웨이](http://www.gimmyoung.com/Book/BookView?bookCode=BC003339&bookType=all) 한국판 하드씽
+  * [최윤섭님 서평](https://www.facebook.com/photo?fbid=6059054744134439)
+  * ★★★★☆ 2021.09.29
+  * 541 페이지의 책인데, 창업할 때의 희망찬 모습을 제외하면 480 페이지 전까지는 계속되는 실패로 괴로워하는 모습들만 자세히 보여준다
+  * 성공한 모습을 이미 알고 읽는데도 암울한 느낌이 들었다. 하드씽과 비슷하게 경험을 솔직히 보여주는 게 좋았음
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1450,8 +1455,6 @@ Programming Books
 * (NOT YET) [요즘 팀장은 이렇게 일합니다 - 중앙북스](https://jbooks.joins.com/book/book_info.asp?bokid=2455)
   * [“팀장이 가장 어려웠어요”…모두가 알아야 할 ‘팀장 리더십’ : 네이버 뉴스](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=243&aid=0000014586)
 * (NOT YET) [최강의 조직](https://brunch.co.kr/@younghakjang/118)
-* (NOT YET) [배틀그라운드 신화를 만든 10년의 도전 크래프톤 웨이](http://www.gimmyoung.com/Book/BookView?bookCode=BC003339&bookType=all) 한국판 하드씽
-  * [최윤섭님 서평](https://www.facebook.com/photo?fbid=6059054744134439)
 * (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
   * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
 * (NOT YET) [실리콘밸리의 팀장들](http://www.chungrim.com/booktotal/bin/view.php?&code=book&isbn=978-89-352-1282-8&cpage=1)
