@@ -2389,6 +2389,10 @@ Programming
 
 # Mobile
 * [더북(TheBook): 모두의 앱 인벤터](https://thebook.io/080226/)
+* jamkit
+  * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
+  * [잼킷 설치 가이드 for Window - 잼킷으로 네이티브 앱 개발하기](https://opentutorials.org/course/4780/30593)
+  * [잼킷(Jamkit) 그게 뭐죠? 쉽고 짧은 5분 설명! - YouTube](https://www.youtube.com/watch?v=KWW7nEmaVAY)
 
 # News & Blog
 * [기술 & 스타트업 뉴스레터 및 블로그 모음 | Guru's Blog](https://xguru.net/2222)
