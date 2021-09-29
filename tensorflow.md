@@ -533,6 +533,7 @@ TensorFlow
 * [Process Images for Fine-Tuned MobileNet with TensorFlow's Keras API](https://morioh.com/p/075c5027ac20)
 * [Tensorflow2 Keras – Custom loss function and metric classes for multi task learning – Keunwoo Choi](https://keunwoochoi.wordpress.com/2020/09/28/tensorflow2-keras-custom-loss-function-and-metric-classes-for-multi-task-learning/)
 * [Getting Your Hands Dirty with TensorFlow 2.0 and Keras API](https://morioh.com/p/e793973a007e)
+* [Normalizing-Flow-TF2: TensorFlow implementation of "Variational Inference with Normalizing Flows"](https://github.com/YeongHyeon/Normalizing-Flow-TF2)
 * [ReXNet-TF2: TensorFlow implementation of "ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network"](https://github.com/YeongHyeon/ReXNet-TF2)
 * [tf2-reformer: Reproducing the reformer with tf2](https://github.com/domyounglee/tf2-reformer)
 
