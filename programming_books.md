@@ -1447,6 +1447,7 @@ Programming Books
   * ★★★★☆ 2021.09.29
   * 541 페이지의 책인데, 창업할 때의 희망찬 모습을 제외하면 480 페이지 전까지는 계속되는 실패로 괴로워하는 모습들만 자세히 보여준다
   * 성공한 모습을 이미 알고 읽는데도 암울한 느낌이 들었다. 하드씽과 비슷하게 경험을 솔직히 보여주는 게 좋았음
+  * [크래프톤 웨이. 장병규가 말했다. 팀워크의 핵심은 커뮤니케이션이니까, 사무실 동선을… | by Jun | Sep, 2021 | Medium](https://nymets.medium.com/%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4-%EC%9B%A8%EC%9D%B4-195709f39be3)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
