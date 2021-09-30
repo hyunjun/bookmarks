@@ -1082,6 +1082,7 @@ AWS
 * [AWS 라우트53(Route53), 다른 계정으로 호스팅 영역 DNS 레코드 이전하기 | 44BITS](https://www.44bits.io/ko/post/aws-route-53-migration-hosted-zone-to-another-account)
 * [AWS 라우트53(Route 53) 다른 계정으로 도메인 이전하기 | 44BITS](https://www.44bits.io/ko/post/aws-route-53-migration-domain-to-another-account)
 * [GoDaddy에서 Route 53으로 네임 서버 변경하기 – OpsNow Tech Blog](https://blog.opsnow.com/42)
+* [Route53 DNS Delegation (DNS 위임) - 개발 못하는 개발자, 인프라 모르는 운영자](https://stevenshim.github.io/dns-deligation/)
 
 # S3
 * [S3FS가 느리다구요? 그럼 goofys를 사용해 보세요](http://www.studyforcloud.com/s3fsga-neuridaguyo-geureom-goofysreul-sayonghae-boseyo-2/)
