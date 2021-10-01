@@ -608,6 +608,7 @@ ElasticSearch - Lucene
 * [INSERT INTO LOGSTASH SELECT DATA FROM DATABASE](https://www.elastic.co/blog/logstash-jdbc-input-plugin)
 * [Logstash 필터 grok 특징 하나](http://www.popit.kr/logstash-%ED%95%84%ED%84%B0-grok-%ED%8A%B9%EC%A7%95-%ED%95%98%EB%82%98/)
 * [grok 필터 성능 테스트](https://www.popit.kr/grok-%ED%95%84%ED%84%B0-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
+* [정규표현식 몰라도 된다 | Popit](https://www.popit.kr/%ec%a0%95%ea%b7%9c%ed%91%9c%ed%98%84%ec%8b%9d-%eb%aa%b0%eb%9d%bc%eb%8f%84-%eb%90%9c%eb%8b%a4/) grok
 * [일반로그 분석은 정말 쉬울까?(feat.  Elasticsearch)](http://www.popit.kr/%EC%9D%BC%EB%B0%98%EB%A1%9C%EA%B7%B8-%EB%B6%84%EC%84%9D%EC%9D%80-%EC%A0%95%EB%A7%90-%EC%89%AC%EC%9A%B8%EA%B9%8Cfeat-elasticsearch/)
 * [Logasuarus: A CLI Utility for Elasticsearch / Logstash](http://www.jeffmalnick.com/blog/2015/08/28/elasticsearch-logstash-cli-utility/)
 * [Migrating MySql Data Into Elasticsearch Using Logstash](https://qbox.io/blog/migrating-mysql-data-into-elasticsearch-using-logstash)
