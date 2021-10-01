@@ -1054,6 +1054,7 @@ Docker
 * [Setting and Rightsizing Kubernetes Resource Limits | Best Practices](https://www.containiq.com/post/setting-and-rightsizing-kubernetes-resource-limits)
 * [KCD KOREA 2021 쿼리파이를 지탱하는 오픈소스 도구들 | 문성주 - YouTube](https://www.youtube.com/watch?v=43UQhxUbiOU)
 * [How Linkerd uses iptables to transparently route Kubernetes traffic | Linkerd](https://linkerd.io/2021/09/23/how-linkerd-uses-iptables-to-transparently-route-kubernetes-traffic/index.html)
+* [76. kubernetes NodePort Networking 분석 (kube-proxy : IPVS mode)](https://ikcoo.tistory.com/166)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
