@@ -627,6 +627,7 @@ Scala
 * [A case study of flatMap vs flatten](https://systemfw.org/posts/flatten.html)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=XfQjnTT4on0) 여러가지 SDK API
 * [Composable Scala Matchers: Introduction | by Robin Hillyard | Jun, 2021 | Medium](https://scala-prof.medium.com/composable-scala-matchers-introduction-efd1c0fe0533)
+* [Fast number parsing in Scala](https://softwaremill.com/fast-number-parsing-in-scala/) `Try(value.toInt).toOption`
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -938,6 +939,7 @@ Scala
     * [Advances In The ZIO 2.0 Scheduler](https://ziverge.com/blog/advances-in-the-zio-2-scheduler/)
     * [Where the ZIO Roadmap is Headed Next | Capital One](https://www.capitalone.com/tech/software-engineering/zio-roadmap/) 2.0
     * [Building Next Gen Applications on JVM with ZIO | Capital One](https://www.capitalone.com/tech/software-engineering/building-on-jvm-with-zio/)
+    * [on tf and zio in 2021.md](https://gist.github.com/kubukoz/f32347ce711d65fb70752bb408f3d65c)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -991,6 +993,7 @@ Scala
       * [#zioworld - YouTube](https://www.youtube.com/hashtag/zioworld)
       * [ZIO World - ZIO HTTP - YouTube](https://www.youtube.com/watch?v=dVggks9_1Qk)
       * [Introducing ZIO Http. Introducing ZIO Http | by Tushar Mathur | Mar, 2021 | Dream11 Engineering](https://blog.dream11engineering.com/introducing-zio-http-2b66bb036fdc)
+      * [Trace your microservices with ZIO | by Marek Kadek | Sep, 2021 | Medium](https://kadek-marek.medium.com/trace-your-microservices-with-zio-telemetry-5f88d69cb26b) zio-http
       * [ZIO World - ZIO Kafka - YouTube](https://www.youtube.com/watch?v=GECv1ONieLw)
       * [ZIO WORLD - ZIO SQL - YouTube](https://www.youtube.com/watch?v=cIMA6iT9B-k)
       * [ZIO WORLD - ZIO WEB - YouTube](https://www.youtube.com/watch?v=UBT-7h8JgU4)
@@ -1974,6 +1977,8 @@ Scala
 * [Scala 3 Tech Report by SoftwareMill](https://softwaremill.com/scala-3-tech-report/)
 * [#LETSMEETUP - Will Scala 3 be your new favorite language? - YouTube](https://www.youtube.com/watch?v=DwmQgtvf7F0)
 * [Should you learn #Scala2 or #Scala3 in 2021? - YouTube](https://www.youtube.com/watch?v=GzVu5UiUFEk)
+* [Scala project from scratch #1 - rough idea, setting up, design decisions - YouTube](https://www.youtube.com/watch?v=EIE-6gx_qi0)
+* [Scala project from scratch #2 - http4s, tapir, long fixes for simple issues - YouTube](https://www.youtube.com/watch?v=f4N8Xu2BVkA)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
