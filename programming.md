@@ -127,6 +127,7 @@ Programming
 * [용어: 동기, 비동기, 블록, 논블록, 병행, 병렬](http://javacan.tistory.com/entry/term-sync-async-block-nonblock-concurrency-parallelism)
 * [멈추지 않고 기다리기(Non-blocking)와 비동기(Asynchronous) 그리고 동시성(Concurrency)](https://tech.peoplefund.co.kr/2017/08/02/non-blocking-asynchronous-concurrency.html)
 * [**동기(Synchronous)는 정확히 무엇을 의미하는걸까?**](https://evan-moon.github.io/2019/09/19/sync-async-blocking-non-blocking/)
+* [동기와 비동기 방식 데이터 처리 (Syn / Asynchronous)](https://blog.naver.com/dsz08082/222151475472)
 * [Zero-Overhead Metaprogramming](http://stefan-marr.de/2015/04/zero-overhead-metaprogramming/)
 * [(번역) 메타언어 길들이기](https://emaren84.github.io/blog/archivers/understanding-taming-the-meta-language-kor)
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
@@ -503,6 +504,7 @@ Programming
 * [KPT하는 스타트업은 성장한다](https://brunch.co.kr/@fromjayden/7) Keep Problem Try
 * [What is Kanban? (and how does it work)](https://www.youtube.com/watch?v=xhxncRy-_Rk)
 * [Scrum Is Dead. All Hail Kanban, the New King - Better Programming - Medium](https://medium.com/better-programming/scrum-is-dead-all-hail-kanban-the-new-king-2cd6249feef8)
+* [Agile vs Kanban - YouTube](https://www.youtube.com/watch?v=fjeVFxL9MQA)
 * [Google I/O 2019 – Thinking in 5G Workshop 세션 참석 후기](https://engineering.linecorp.com/ko/blog/google-io-2019-thinking-in-5g-workshop-review/) 디자인 스프린트 이야기이지만 참고할만한 부분이 많음
 * [Why do some developers at strong companies like Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske)
   * [왜 어떤 구글 개발자들은 애자일 개발이 무의미하다고 하는가에 대한 (전) 구글 엔지니어 디렉터의 답변 | GeekNews](https://news.hada.io/topic?id=265)
@@ -2763,6 +2765,7 @@ Programming
   * [월간 개발자스럽다 #68 - 개발자스럽다](https://blog.gaerae.com/2021/06/monthly.html)
   * [월간 개발자스럽다 #69 - 개발자스럽다](https://blog.gaerae.com/2021/08/monthly7.html)
   * [월간 개발자스럽다 #70 - 개발자스럽다](https://blog.gaerae.com/2021/09/monthly.html)
+  * [월간 개발자스럽다 #71 - 개발자스럽다](https://blog.gaerae.com/2021/09/monthly09.html)
 * [44BITS 뉴스레터 2020년 11주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-11)
 * [44BITS 뉴스레터 2020년 12주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-12)
 * [44BITS 뉴스레터 2020년 13주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-13)
