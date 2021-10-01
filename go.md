@@ -296,6 +296,7 @@ Go
 * [Reading 16GB File in Seconds, Golang | by Ohm Patel | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/processing-16gb-file-in-seconds-go-lang-3982c235dfa2)
 * [Introduction to Golang's pointers (Go programming language) - YouTube](https://www.youtube.com/watch?v=dRsL_4ghmfE)
 * [Go: 필드가 많은 구조체의 marshaling/unmarshaling](https://jusths.tistory.com/174)
+* [Golang: 같은 필드명을 가진 다른 구조체로 데이터를 옮기기](https://jusths.tistory.com/241) marshaling/unmarshaling
 * [Go: How Does a Program Recover?. Panics in Go are triggered when the… | by Vincent Blanchon | A Journey With Go | Oct, 2020 | Medium](https://medium.com/a-journey-with-go/go-how-does-a-program-recover-fbbbf27cc31e) defer panic WaitGroup
 * [Generics are the Generics of Go | Capital One | Capital One Tech](https://medium.com/capital-one-tech/generics-are-the-generics-of-go-3e0ef0cb9e04)
 * [Experimenting with generics in Go | by Alexey Soshin | The Startup | Medium](https://medium.com/swlh/experimenting-with-generics-in-go-39ffa155d6a1)
