@@ -4020,6 +4020,7 @@ Javascript
 * [뷰/익스프레스/몽고db - task manager 만들기 01 프로젝트 세팅](https://www.youtube.com/watch?v=4J4-ufnqBdU)
 * [Useful Vue Directives — Tooltips and Scroll Lock](https://medium.com/swlh/useful-vue-directives-tooltips-and-scroll-lock-1621daeab625)
 * [발표, Vue SSR vs Prerender - 완두블로그](https://wani.kr/posts/2017/10/23/vue-ssr-vs-prerender/)
+* [Vue SSR 제대로 적용하기 (feat. Vanilla SSR)](https://zuminternet.github.io/vue-ssr/)
 * [Vue 3 가볍게 훑어보기 • Captain Pangyo](https://joshua1988.github.io/web-development/vuejs/vue3-coming/)
 * [How to generate a sitemap.xml with Javascript for dynamic page urls | by Axel Wittmann | The Startup | Medium](https://medium.com/swlh/how-to-generate-a-sitemap-xml-with-javascript-for-dynamic-page-urls-12d9537fd950)
 * [An Introduction to Vue Teleport — A New Feature in Vue3 | by Matt Maribojoc | Sep, 2020 | Medium](https://medium.com/@mattmaribojoc/an-introduction-to-vue-teleport-a-new-feature-in-vue3-e9ddbf58dd25)
