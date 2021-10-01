@@ -58,7 +58,7 @@ Programming
 * [Three Projects to Make You a Better Programmer | by Giuseppe | The Dev Café | Medium](https://medium.com/the-dev-caf%C3%A9/three-projects-to-make-you-a-better-programmer-65903e53620a)
 * [15 App Ideas to Build and Level Up your Coding Skills](https://blog.bitsrc.io/15-app-ideas-to-build-and-level-up-your-coding-skills-28612c72a3b1)
 * [5 Technologies to Pick Up During Quarantine and Improve Your Software Engineering Skillset](https://levelup.gitconnected.com/5-technologies-to-pick-up-during-quarantine-and-improve-your-software-engineering-skillset-68bd766bee9c)
-* [5 Ways to Improve Your Code - YouTube](https://www.youtube.com/watch?v=1KeJc6V4Jjk)
+* [5 Ways to Improve Your Code • Dave Farley • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=5z5eGcmNikQ) TDD, meaningful code rather than comment, refactoring, ...
 * [a2big.com](http://www.a2big.com/) 하둡, 머신러닝, 안드로이드, 아이폰, 장고 & NoSQL & 센서 개인용 지식 정리 페이지 느낌
 * [Google - Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [CS for All](http://www.cs.hmc.edu/csforall/)
