@@ -302,7 +302,6 @@ AWS
 * [AWS Rstudio Server 설치 (Linux)](https://unfinishedgod.github.io/docs/aws/install_r/install_r.html)
 * [AWS 기반, 지속 가능한 데이터 분석 플랫폼 구축하기](https://brunch.co.kr/@zigzag/16)
 * [3.AWS가입과 무료서버1대 받기](https://brunch.co.kr/@topasvga/77)
-* [AWS Fargate, Fluentd 및 Amazon Kinesis Data Firehose를 사용한 확장형 로그 솔루션 집계기 구축하기](https://aws.amazon.com/ko/blogs/korea/building-a-scalable-log-solution-aggregator-with-aws-fargate-fluentd-and-amazon-kinesis-data-firehose)
 * ['AWS는 만능이 아니야'··· EBS 데이터 백업 방법](http://www.ciokorea.com/news/131699)
 * [EBS(Elastic Block Storage)에 대한 정리 #EC2](https://developer88.tistory.com/315)
 * [신규 발표된 EBS gp3로의 전환 – OpsNow Tech Blog](https://blog.opsnow.com/26)
@@ -757,6 +756,13 @@ AWS
 * [AWS EMR과 Airflow를 이용한 Batch Data Processing | by Min Jo | 101-devs | Aug, 2020 | Medium](https://medium.com/class101-dev/aws-emr%EA%B3%BC-airflow%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-batch-data-processing-a100fc2f4f10)
 * [입 개발 EMR에서는 sc.addFile, Databricks에서는 그냥 dbfs 폴더를 이용하자. | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/25/%ec%9e%85-%ea%b0%9c%eb%b0%9c-emr%ec%97%90%ec%84%9c%eb%8a%94-sc-addfile-databricks%ec%97%90%ec%84%9c%eb%8a%94-%ea%b7%b8%eb%83%a5-dbfs-%ed%8f%b4%eb%8d%94%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%98%ec%9e%90/)
 
+# Kinesis
+* [AWS Fargate, Fluentd 및 Amazon Kinesis Data Firehose를 사용한 확장형 로그 솔루션 집계기 구축하기](https://aws.amazon.com/ko/blogs/korea/building-a-scalable-log-solution-aggregator-with-aws-fargate-fluentd-and-amazon-kinesis-data-firehose)
+* [Intro to Node on AWS Lambda for S3 and Kinesis](http://eng.localytics.com/taming-aws-lambda-for-s3-and-kinesis-at-localytics/)
+* [AWS kinesis Firehose 실습 및 예제 코드(Java), 장단점, 추천](https://blog.voidmainvoid.net/295)
+* [API Gateway 로 Kinesis 를 위한 HTTP Proxy 만들기](https://chang12.github.io/api-gateway-kinesis-proxy/)
+* [kinesumer: A Go client implementing a client-side distributed consumer group client for Amazon Kinesis](https://github.com/daangn/kinesumer)
+
 # Lambda
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
 * [AWS Lambda 로 하는 Hello World!](https://velopert.com/3546)
@@ -855,9 +861,6 @@ AWS
 * [서버리스 Serverless 아키텍처 파헤치기](https://futurecreator.github.io/2019/03/14/serverless-architecture)
 * [A Smart Service to Keep AWS Lambda Warm](https://dev.to/byrro/a-smart-service-to-keep-aws-lambda-warm-48pc)
 * [Uploading to S3 in 18 lines of Shell (used to upload builds for http://soltrader.net)](https://gist.github.com/chrismdp/6c6b6c825b07f680e710)
-* [Intro to Node on AWS Lambda for S3 and Kinesis](http://eng.localytics.com/taming-aws-lambda-for-s3-and-kinesis-at-localytics/)
-* [AWS kinesis Firehose 실습 및 예제 코드(Java), 장단점, 추천](https://blog.voidmainvoid.net/295)
-* [API Gateway 로 Kinesis 를 위한 HTTP Proxy 만들기](https://chang12.github.io/api-gateway-kinesis-proxy/)
 * [AWS Lambda 사용하는 방법 # Gateway와 연동](https://developer88.tistory.com/339)
 * [Lambda@Edge와 CF Invalidation](https://brunch.co.kr/@alden/52)
 * [4Steps Set up AWS Lambda with githiub and travisCI](https://hackernoon.com/nodejs-4steps-set-up-aws-lambda-with-githiub-and-travisci-tutorial-example-sample-repository-repo-help-cdci-6e55d539f04)
