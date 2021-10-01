@@ -424,6 +424,7 @@ AWS
 * [Amazon QLDB - 블록체인급 원장 데이터베이스 서비스 :: #5분클라우드데모 - YouTube](https://www.youtube.com/watch?v=o-Aah2Yei7s)
 * [지그재그는 DB 없이 데이터를 갖고 논다 - ZDNet korea](https://zdnet.co.kr/view/?no=20210810095607)
 * [Mistakes I've Made in AWS | Laravel News](https://laravel-news.com/aws-mistakes)
+* [Five Different Ways to Build AWS Infrastructure - DZone Cloud](https://dzone.com/articles/five-different-ways-to-build-aws-infrastructure)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -1189,6 +1190,7 @@ AWS
 * [Home - AWS Video Catalog](https://awsvideocatalog.com/)
 * [(자료) AWS 분야별 전문가 되기](https://brunch.co.kr/@topasvga/1758)
 * [AWS 강의실 - YouTube](https://www.youtube.com/channel/UCpDxKxars7BHR3owaNRctaQ)
+* [Amazon EKS Workshop :: Amazon EKS Workshop](https://www.eksworkshop.com/)
 
 # VPC
 * [AWS CLI로 기본 VPC 관련 리소스들 탐색하기 - VPC, 서브넷, 시큐리티 그룹](https://www.44bits.io/ko/page/inspect_resources_in_default_vpc_by_aws_cli)
