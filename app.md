@@ -492,6 +492,7 @@ App
   * 시간관리 https://wakatime.com
 * [포트폴리오(개발 프로젝트) 제작시 도움이 되는 도구들 - 1](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%A0%9C%EC%9E%91%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%EC%8B%9C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-1) slack, tandem, MS teams, notion, trello, github projects, whimsical, figma
 * [포트폴리오(개발 프로젝트) 제작시 도움이 되는 도구들 - 2 (설계, 테스팅)](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%9E%91%EC%8B%9C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-2) ERDCloud, PlantUML, Swagger UI, Rest Client, SonarQube
+* [포트폴리오(개발 프로젝트) 제작시 도움이 되는 도구들 - 3 (CI/CD, Hosting)](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%9E%91%EC%8B%9C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-3-CICD-Hosting) Github Actions, Jenkins, Heroku, Netlify
 * [aquerytool.com](http://aquerytool.com/) DB schema
 * [asdf: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more](https://github.com/asdf-vm/asdf)
   * [asdf - An extendable version manager](https://asdf-vm.com/)
@@ -1510,6 +1511,7 @@ App
   * [불쌍한 개발자를 데이터 요청에서 해방시키는 방법 - YouTube](https://www.youtube.com/watch?v=32yNrr8rzP0)
   * [‘구글시트’로 30분 만에 공짜 이더리움+ERC20+ERC721 입금 감지 서버 만들기 | by 김선태 | Dooda | Mar, 2021 | Medium](https://medium.com/doodateam/%EA%B5%AC%EA%B8%80%EC%8B%9C%ED%8A%B8%EB%A1%9C-30%EB%B6%84-%EB%A7%8C%EC%97%90-%EA%B3%B5%EC%A7%9C-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-erc20-erc721-%EC%9E%85%EA%B8%88-%EA%B0%90%EC%A7%80-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-8de64dd5a166)
   * [AppsScript를 이용해 구글시트 우편번호 입력 기능 만들기 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/apps-script/)
+  * [Google Sheets - 일정 간격의 값들을 가져와 자동으로 채우기](https://jusths.tistory.com/240)
 * Gmail
   * [5 open source alternatives to Gmail](https://opensource.com/life/15/9/open-source-alternatives-gmail)
   * [Gmail 로 개인 도메인 이메일주소 만들기](https://xguru.net/1963)
