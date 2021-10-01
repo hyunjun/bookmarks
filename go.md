@@ -282,6 +282,7 @@ Go
   * 처음에는 Usecase를 기반으로 필요한 코드와 Spy 객체를 만들어 주는 iGospy를 만들어 사용
   * 그 다음으로 복사 붙이기를 하지 않고 커맨드라인에서 바로 생성하기 Clean Swift Scaffold 작성
 * [Golang: AES-GSM에서 additional data의 활용](https://jusths.tistory.com/233)
+* [생각하는 Go 언어 프로그래밍 : Go는 객체지향 언어인가? - 골든래빗](https://goldenrabbit.co.kr/2021/10/01/%E1%84%89%E1%85%A2%E1%86%BC%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-go-%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A5-%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80/)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
