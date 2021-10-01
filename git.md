@@ -654,6 +654,7 @@ Git
   * [Github에서 PR 생성 시 Reviewer 자동으로 할당하기 (feat. CODEOWNERS)](https://goodgid.github.io/Github-CODEOWNERS/)
   * [번역 Art of Clean Pull Requests - 클린한 Git PR의 기술](https://blog.sonim1.com/224)
   * [Pull Request Review GitHub App 을 만들어보며.. | by Maeng Sol | Aug, 2021 | Medium](https://msolo021015.medium.com/pull-request-review-github-app-%EB%A7%8C%EB%93%A4%EA%B8%B0-83fd18d7ecaa)
+  * [Github Pull Request시 Jest & Docker Test Code 수행하기](https://jojoldu.tistory.com/602)
 * push
   * [How to resolve a GitHub error “push declined due to email privacy restrictions” when you try to push a change | by Bryant Jimin Son | Feb, 2021 | Medium](https://bryantson.medium.com/how-to-resolve-a-github-error-push-declined-due-to-email-privacy-restrictions-when-you-try-to-b748f6ca0bcd)
 * `rebase`
