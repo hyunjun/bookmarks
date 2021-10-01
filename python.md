@@ -3941,6 +3941,7 @@ Python
   * [Hello Poetry (Dependency Management for Python)](https://jybaek.tistory.com/891)
   * [Poetry를 사용한 파이썬 패키지 관리](https://lhy.kr/python-poetry)
   * [Document docker poetry best practices · Discussion #1879 · python-poetry/poetry](https://github.com/python-poetry/poetry/discussions/1879)
+  * [setup.py 멈춰!](https://tech.buzzvil.com/blog/setup.py-%EB%A9%88%EC%B6%B0/)
 * [py2app - Create standalone Mac OS X applications with Python](https://py2app.readthedocs.io/)
 * pyenv
   * [pyenv Tutorial](https://amaral.northwestern.edu/resources/guides/pyenv-tutorial)
