@@ -231,6 +231,7 @@ Clojure
 * [Cool Things in Clojure 1.9](http://www.rubygeek.com/2018/01/17/cool-things-in-clojure-1-dot-9)
 * [Getting Started With Clojure Is Now Easier Than Ever - on a Mac](http://www.rubygeek.com/2017/12/27/getting-started-with-clojure-is-now-easier-than-ever-mac/)
 * [HOW TO CREATE CLOJURE NOTEBOOKS IN JUPYTER](https://s01blog.wordpress.com/2017/12/10/how-to-create-clojure-notebooks-in-jupyter/)
+* [Pink Gorilla | An interactive notebook for Clojure land - resurrected 2019](https://pink-gorilla.github.io/) jupyter
 * [Key Lesson: Building CloudRepo With Clojure](https://medium.com/@chris.shellenbarger/key-lesson-building-cloudrepo-with-clojure-99bc1c1c405e)
 * [clj-chrome-devtools is a simple library for controlling a headless Chrome with the Chrome DevTools Protocol](https://github.com/tatut/clj-chrome-devtools)
 * [Quicker Clojure startup with AppCDS and AOT](https://mjg123.github.io/2017/10/04/AppCDS-and-Clojure.html)
@@ -400,6 +401,7 @@ Clojure
 * [Reactive Clojure: You don't need a web framework, you need a web language](https://hyperfiddle.notion.site/Reactive-Clojure-You-don-t-need-a-web-framework-you-need-a-web-language-44b5bfa526be4af282863f34fa1cfffc)
 * [프로그래머를 위한 이름 짓는 원리 | 그린랩스](https://green-labs.github.io/programmers-naming)
 * [Clojure and Postgres, no JDBC. By Duane Bester | ITNEXT](https://itnext.io/talking-to-postgres-with-clojure-3b2b24ebfb3)
+* [Clojure meets Minecraft (Witchcraft/Glowstone) - YouTube](https://www.youtube.com/watch?v=qgQwhc_DDSY)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -577,6 +579,7 @@ Clojure
 * [Accountant is a ClojureScript library to make navigation in single-page applications simple](https://github.com/venantius/accountant)
 * [iOS App 개발 with React Native + ClojureScript](http://www.slideshare.net/cheolhee/ios-app-with-react-native-clojurescript)
 * [Datahike in ClojureScript with IndexedDB support](https://lambdaforge.io/2021/03/03/datahike-clojurescript.html)
+* [Vlojure - A New Way to Write ClojureScript - YouTube](https://www.youtube.com/watch?v=1OcAUhe3E1E)
 
 ## ClojureScript Library
 * [applied-science/js-interop A JavaScript-interop library for ClojureScript](https://github.com/appliedsciencestudio/js-interop)
@@ -962,6 +965,7 @@ Clojure
   * [Clojure CLI deps.edn · clojars/clojars-web Wiki](https://github.com/clojars/clojars-web/wiki/Clojure-CLI-deps.edn)
   * [deps-infer: Infer mvn deps from sources](https://github.com/borkdude/deps-infer)
   * [depstar: Builds JARs, uberjars, does AOT, manifest generation, etc for deps.edn projects](https://github.com/seancorfield/depstar)
+  * [neil: A CLI to add common aliases and features to deps.edn-based projects](https://github.com/babashka/neil)
 * [LibHoney for Java | Honeycomb](https://docs.honeycomb.io/getting-data-in/java/libhoney/)
   * [APM with honeycomb.io in Clojure - Tim Zöller](https://javahippie.net/clojure/apm/monitoring/2021/01/30/honeycomb-with-clojure.html)
   * [Tracing Clojure code with alter-var-root - Tim Zöller](https://javahippie.net/clojure/apm/2021/05/29/tracing-with-alter-var-root.html)
