@@ -278,6 +278,7 @@ Linux
 * [(리눅스 업스킬 도전 #15) 우분투 패키지 저장소 추가하기](https://jhrogue.blogspot.com/2020/10/15.html)
 * [(리눅스 업스킬 도전 #21-a) 우분투에서 한국어 로케일을 사용하려면 어떻게 해야 하나요?](https://jhrogue.blogspot.com/2020/10/21.html)
 * [Ubuntu의 apt-get 명령어 정리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/346)
+* [리눅스 패키지 설치 실패 - Unable to correct problems, you have held broken packages](https://open-support.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%84%A4%EC%B9%98-%EC%8B%A4%ED%8C%A8-Unable-to-correct-problems-you-have-held-broken-packages) aptitude
 * [우분투에 최신 버전 노드 설치하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/875)
 * [How Install GDebi package installer on Ubuntu 18.04](https://www.ubuntu18.com/install-gdebi-ubuntu-18/)
 * [Ubuntu에 AppImage를 System Application으로 등록하기](https://devbull.xyz/ubuntu-appimage/)
