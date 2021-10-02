@@ -49,6 +49,7 @@ AWS
 * [Amazon Elasticsearch Service](https://aws.amazon.com/ko/blogs/aws/new-amazon-elasticsearch-service/)
 * [Deploying a 2 node Elasticsearch cluster on ec2 instance](https://blog.knoldus.com/deploying-a-2-node-elasticsearch-cluster-on-ec2-instance/)
 * [꿀벌개발일지 :: AWS: ElasticSearch 사이즈 최적화](https://ohgyun.com/795)
+* [AWS Elasticsearch 10MB 제한 :: Hello Startup](https://hello-startup.tistory.com/7)
 * [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services](https://github.com/servant-app/JAWS)
 * [Serverless Framework V0 (BETA) The Serverless Application Framework Powered By Amazon Web Services - serverless.com](https://github.com/serverless/serverless)
 * [DEEP = Digital Enterprise End-to-end Platform https://www.deep.mg](https://github.com/MitocGroup/deep-framework)
@@ -719,6 +720,7 @@ AWS
 * [ISMS 1편 - AWS(+EKS)에서 업무 환경 망분리](https://velog.io/@owen1025/ISMS-1%ED%8E%B8-AWSEKS%EC%97%90%EC%84%9C-%EC%97%85%EB%AC%B4-%ED%99%98%EA%B2%BD-%EB%A7%9D-%EB%B6%84%EB%A6%AC)
 * [AWS EKS Network, Load Balancer | Ssup2 Blog](https://ssup2.github.io/theory_analysis/AWS_EKS_Network_Load_Balancer/)
 * [Amazon EKS 업그레이드 - 유정열(당근마켓) , ECS와 컨테이너화 및 운영 - 김지민(AWS) :: 제20회 AWSKRUG Container모임 - YouTube](https://www.youtube.com/watch?v=BM8otOWxLO8)
+* [AWS EKS - VPC CNI 1편 - POD 통신](https://gasidaseo.notion.site/AWS-EKS-VPC-CNI-1-POD-f89e3e5967b24f8c9aa5bfaab1a82ceb)
 * [EKS Anywhere](https://anywhere.eks.amazonaws.com/)
   * 아마존 EKS을 온프레미스 환경에서 설치해서 Kubernetes 클러스터를 운영할 수 있도록 아마존에서 EKS Anyware를 오픈소스로 공개
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
@@ -972,6 +974,7 @@ AWS
   * [ConsoleMe: A Central Control Plane for AWS Permissions and Access | Netflix Tech Blog | Netflix TechBlog](https://netflixtechblog.com/consoleme-a-central-control-plane-for-aws-permissions-and-access-fd09afdd60a8)
 * [Construct Hub](https://constructs.dev/)
   * AWS CDK, CDK8s, CDKtf를 이용해서 TypeScript나 Python으로 작성한 재사용 가능한 컴포넌트를 검색
+* [containers-roadmap: This is the public roadmap for AWS container services (ECS, ECR, Fargate, and EKS)](https://github.com/aws/containers-roadmap)
 * [cortex - Deploy machine learning models in production https://cortex.dev ](https://github.com/cortexlabs/cortex/tree/v0.9.0)
   * "Run inference at scale"
     * TensorFlow, PyTorch, Sklearn 을 비롯한 여러 모델 지원
