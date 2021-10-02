@@ -1053,6 +1053,7 @@ Web
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
 * [Pyodide](https://pyodide.org/) Python with the scientific stack, compiled to WebAssembly
   * [모질라, 브라우저에 파이썬 통합하는 ‘파이어다이드’ 프로젝트 분리 - CIO Korea](https://www.ciokorea.com/news/191529)
+* [wagi: Write HTTP handlers in WebAssembly with a minimal amount of work](https://github.com/deislabs/wagi)
 * [WasmEdge Runtime is a high-performance, extensible, and hardware optimized WebAssembly Virtual Machine for automotive, cloud, AI, and blockchain applications.](https://github.com/WasmEdge/WasmEdge)
   * [WebAssembly serverless functions in AWS Lambda | Cloud Native Computing Foundation](https://www.cncf.io/blog/2021/08/25/webassembly-serverless-functions-in-aws-lambda/)
     * WasmEdge을 이용해서 AWS Lambda에서 WebAssembly로 서버리스 펑션 작성 방법 설명
