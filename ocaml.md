@@ -23,6 +23,7 @@ Ocaml
 * [Detecting use-cases for GADTs in OCaml | Mads Hartmann](https://blog.mads-hartmann.com/ocaml/2015/01/05/gadt-ocaml.html)
 
 # Library
+* [Unix system programming in OCaml](https://ocaml.github.io/ocamlunix/)
 * [coq: Coq is a formal proof management system. It provides a formal language to write mathematical definitions, executable algorithms and theorems together with an environment for semi-interactive development of machine-checked proofs](https://github.com/coq/coq)
 * [incremental - Introducing Incremental](https://blogs.janestreet.com/introducing-incremental/)
 * [jackline - XMPP client in OCaml](https://github.com/hannesm/jackline)
