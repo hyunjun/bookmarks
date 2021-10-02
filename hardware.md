@@ -203,6 +203,8 @@ Hardware
 * [JerryScript - JerryScript A JavaScript engine for Internet of Things](http://samsung.github.io/jerryscript/)
 
 # Javascript
+* [elk: A low footprint JavaScript engine for embedded systems](https://github.com/cesanta/elk)
+  * [Elk - 임베디드 시스템을 위한 초소형 JS엔진 | GeekNews](https://news.hada.io/topic?id=5081)
 * [Espruino: The Espruino JavaScript interpreter - Official Repo](https://github.com/espruino/Espruino)
   * [javascript로 mcu에서 코딩이 가능한 - espruino 환경](https://open-support.tistory.com/entry/javascript%EB%A1%9C-mcu%EC%97%90%EC%84%9C-%EC%BD%94%EB%94%A9%EC%9D%B4-%EA%B0%80%EB%8A%A5%ED%95%9C-espruino-%ED%99%98%EA%B2%BD)
 * [smart.js - Embedded Javascript engine for C/C++ with networking, file, database and device interfaces](https://github.com/cesanta/smart.js)
@@ -313,6 +315,7 @@ Hardware
 * [라즈베리파이 가상 머신에 설치하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/raspberry-vminstall/)
 * [Add Aux to Sonos Using Raspberry Pi : 26 Steps (with Pictures) - Instructables](https://www.instructables.com/Add-Aux-to-Sonos-Using-Raspberry-Pi/)
 * ['Build/Yocto' 카테고리의 글 목록](https://kin3303.tistory.com/category/Build/Yocto)
+* [internet-pi: Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
 
 # Reverse Engineering
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
