@@ -121,6 +121,7 @@ App
   * [오프라인으로 PDF 파일을 회전/결합/압축하려면?](https://jhrogue.blogspot.com/2020/09/pdf.html)
   * [Beautiful PDFs from HTML](https://pdf.math.dev/)
   * [리뷰 | 무료 온라인 PDF 편집기 ‘PDF 캔디’ 44가지의 도구로 대부분의 작업 처리 - ITWorld Korea](https://www.itworld.co.kr/news/205379)
+  * [borb | Read, write, and edit PDF files with borb, a pure python library](https://borbpdf.com/)
   * [FalsiScan: Make it look like a PDF has been hand signed and scanned](https://gitlab.com/edouardklein/falsisign)
   * [mupdf - mirrored from git://git.ghostscript.com/mupdf.git http://mupdf.com ](https://github.com/ccxvii/mupdf)
   * [PDFtk Server - our command-line tool for working with PDFs. It is commonly used for client-side scripting or server-side processing of PDFs](https://www.pdflabs.com/tools/pdftk-server/)
@@ -1343,6 +1344,7 @@ App
 * [Gfycat - 유튜브 영상·GIF 파일을 10분 1 크기로?](http://techholic.co.kr/archives/36747)
 * [ImagePlay is a rapid prototyping tool for building and testing image processing algorithms](http://imageplay.io/)
 * [imgdiff - 정말 빠른 이미지 비교 도구 | GeekNews](https://news.hada.io/topic?id=3390)
+* [Jellyfin: The Free Software Media System](https://jellyfin.org/)
 * [Jitsi.org - develop and deploy full-featured video conferencing](https://jitsi.org/)
 * [jspaint](https://jspaint.app/) 마이크로소프트의 그림판을 자바스크립트로 만든 오픈소스 그림판
 * [MoseoriTube](https://github.com/moseoridev/MoseoriTube) youtube downloader
@@ -1717,9 +1719,11 @@ App
   * [Microsoft's open source 'Windows Terminal' app reaches stable release](https://www.windowscentral.com/microsofts-open-source-windows-terminal-app-reaches-stable-release)
   * [윈도우 터미널 설치하기](http://dalinaum.github.io/windows/2021/03/10/windows-terminal.html)
 * [Win-builds is a large distribution of binary packages for Windows](http://win-builds.org/doku.php)
+* [WinFsp - Windows File System Proxy | GeekNews](https://news.hada.io/topic?id=4871)
 * [winget : 윈도 앱 설치 관리자(패키지 관리자)](https://sunyzero.tistory.com/271)
 * [winget-cli: Windows Package Manager CLI (aka winget)](https://github.com/microsoft/winget-cli)
 * [WinFsp - Windows File System Proxy | GeekNews](https://news.hada.io/topic?id=4871)
+* [winstall - GUI for Windows Package Manager](https://winstall.app/)
 * [WinUI - The modern native UI platform of Windows](https://microsoft.github.io/microsoft-ui-xaml/)
 * WSL Windows Subsystem for Linux
   * [practice - windows10 & WSL2](https://gist.github.com/hyunjun/cf2af70a460bf00fa5997dea80308b28)
