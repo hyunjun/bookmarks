@@ -190,7 +190,6 @@ Interview
 * [Interview Sandbox](https://interviewsandbox.com/)
   * [What if you could draw your thoughts in technical interviews?](https://medium.com/hackernoon/what-if-you-could-draw-your-thoughts-in-technical-interviews-47e1ff87bf33)
 * [제품을 파는 엔지니어가 되어보니](https://brunch.co.kr/@imagineer/328) solution engineer
-* [23 Alternative Career Paths that Software Developers Can Grow Into](https://www.freecodecamp.org/news/alternative-career-paths/)
 * [(45) AMZ | Google | Facebook | Offer | Reject| Reject | My journey from failure to offer at FAANG - LeetCode Discuss](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang)
 * [What I Learned from Doing 60+ Technical Interviews in 30 Days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
 * [코딩 인터뷰 완전정복 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLHqxB9kMLLaNZQjNtY9JoCCBbZwOKdyEH)
