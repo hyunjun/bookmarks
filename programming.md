@@ -1305,6 +1305,7 @@ Programming
 * [7 Microservices Best Practices for Developers - DZone Microservices](https://dzone.com/articles/7-microservices-best-practices-for-developers)
 * [Microservice, monolith, microlith](https://blogs.oracle.com/javamagazine/post/microservice-monolith-microlith)
 * [Microservices Database Management Patterns and Principles | by Mehmet Özkaya | Design Microservices Architecture with Patterns & Principles | Sep, 2021 | Medium](https://medium.com/design-microservices-architecture-with-patterns/microservices-database-management-patterns-and-principles-9121e25619f1)
+* [Solving distributed data problems in a microservice architecture | Microservices.io - YouTube](https://www.youtube.com/watch?v=AEbJgpamZ4w)
 * [Back-end for Front-end Pattern (BFF) | by Giljae Joo (주길재) | Medium](https://giljae.medium.com/back-end-for-front-end-pattern-bff-4b73f29858d6)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
