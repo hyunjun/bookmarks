@@ -288,6 +288,7 @@ Git
 * [Github action를 이용한 커뮤니티 행사 관리/운영 하기! | JaeSeoKim's Blog](https://jaeseokim.dev/42Seoul/Github_action%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0_%ED%96%89%EC%82%AC_%EA%B4%80%EB%A6%AC%EC%9A%B4%EC%98%81_%ED%95%98%EA%B8%B0/)
 * [Automating a software company with GitHub Actions - PostHog](https://posthog.com/blog/automating-a-software-company-with-github-actions)
 * [Github Actions 로컬 개발 환경 구성하기 - Burt.K](https://blog.burt.pe.kr/posts/skyfe79-blog.contents-980082002-post-26/)
+* [GitHub Actions: Ephemeral self-hosted runners & new webhooks for auto-scaling | GitHub Changelog](https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
@@ -365,6 +366,8 @@ Git
 * [🌳🚀 CS Visualized: Useful Git Commands - DEV Community](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
 * [익숙해지면 좋을 깃(git) 명령어 모음집](https://tech.urbanbase.com/dev/2021/01/15/GitCommand.html)
 * [4 tips for context switching in Git | Opensource.com](https://opensource.com/article/21/4/context-switching-git) stash + branch, WIP commit + branch, new repository clone, worktree, rev-parse
+* [**Code Review from the Command Line – Jake Zimmerman**](https://blog.jez.io/cli-code-review/)
+  * `hub pr checkout`, `git stat`, `git heatmap`, `git depgraph`, `git review`, `git reviewone`
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
   * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
@@ -894,6 +897,7 @@ Git
 * [GitLab](https://www.gitlab.com/)
   * [Dockerized gitlab web server http://www.damagehead.com/docker-gitlab ](https://github.com/sameersbn/docker-gitlab)
   * [GitLab flow에서 배울 워크 플로우의 실천](https://translate.google.com/translate?hl=en&sl=ja&tl=ko&u=http%3A%2F%2Fpostd.cc%2Fgitlab-flow%2F)
+  * [Git Flow가 가진 문제점과 솔루션\:\ GitLab Flow | DevSecOps 구축 컨설팅, 교육, 기술지원 서비스 제공](https://insight.infograb.net/blog/2020/09/22/git-flow-problem-and-solution/)
   * [Towards a production quality open source Git LFS server](https://about.gitlab.com/2015/08/13/towards-a-production-quality-open-source-git-lfs-server/#)
   * [GitLab Live Stream](https://www.youtube.com/watch?v=nc0hPGerSd4)
   * [마음에 드는 #gitlab todos](http://ohyecloudy.com/pnotes/archives/gitlab-todos/)
@@ -914,6 +918,7 @@ Git
   * [Scala - Gitpod](https://www.gitpod.io/docs/languages/scala/)
   * [클라우드 기반 IDE 플랫폼 ‘깃파드(Gitpod)’, 오픈소스로 전환 - CIO Korea](http://www.ciokorea.com/news/162155)
 * [git-punish](http://git-punish.io/)
+* [GIT PURR! Git Commands Explained with Cats! – GirlieMac! Blog](https://girliemac.com/blog/2017/12/26/git-purr/)
 * [GitQlient - a multi-platform Git client originally forked from QGit](https://francescmm.github.io/GitQlient/)
 * [git-quick-stats로 보는 다양한 Git 통계](http://developer88.tistory.com/95)
 * [git-radar - A heads up display for git](https://github.com/michaeldfallen/git-radar)
