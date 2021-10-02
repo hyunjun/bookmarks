@@ -195,6 +195,7 @@
 * [C#으로 맛보는 포인터. C#이 자바와 확실히 다른 부분 중 오랫동안 변치 않는 것은 아마도… | by Jung-Hyun Nam | 닷넷데브 | Feb, 2021 | Medium](https://medium.com/dotnetdev/c-%EC%9C%BC%EB%A1%9C-%EB%A7%9B%EB%B3%B4%EB%8A%94-%ED%8F%AC%EC%9D%B8%ED%84%B0-bb61ab25ee57)
 * [Visual Studio를 이용한 어셈블리어 학습 part 1 - YouTube](https://www.youtube.com/watch?v=cEnpeDMAw_Y)
 * [류광의 번역 이야기 :: Visual Studio 2019에서 C++20 헤더 단위 사용하기](http://occamsrazr.net/tt/373)
+* [Visual Studio Live Share: 실시간 코드 공동 작업 도구](https://visualstudio.microsoft.com/ko/services/live-share/)
 
 ## Visual Studio Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)
