@@ -38,6 +38,7 @@ ElasticSearch - Lucene
     * [Multiple analyzers and query fields in Elasticsearch for auto-completion](https://gist.github.com/karmi/4526141)
     * [1.7/indices-stats.html](https://www.elastic.co/guide/en/elasticsearch/reference/1.7/indices-stats.html)
     * [Elasticsearch 인덱싱에 대한 성능 고려 사항](https://www.elastic.co/kr/blog/performance-considerations-elasticsearch-indexing)
+    * [Building Faster Indexing with Apache Kafka and Elasticsearch - DoorDash Engineering Blog](https://doordash.engineering/2021/07/14/open-source-search-indexing/)
   * Mapping
     * [ElasticSearch – nested mappings and filters](http://joelabrahamsson.com/elasticsearch-nested-mapping-and-filter/)
     * [Elasticsearch: updating the mappings and settings of an existing index](https://gist.github.com/nicolashery/6317643)
