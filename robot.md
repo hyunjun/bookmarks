@@ -35,7 +35,6 @@ Robot
 * [www.robot-learning.org](http://www.robot-learning.org/)
 * [RACECAR - A Powerful Platform for Robotics Research and Teaching](https://mit-racecar.github.io/)
 * [ald.softbankrobotics.com](https://www.ald.softbankrobotics.com)
-* [All the Robotic Process Automation (RPA) Stats You Need to Know](https://towardsdatascience.com/all-the-robotic-process-automation-rpa-stats-you-need-to-know-bcec22eaaad9)
 * [ROBOCON 2019 - China Robocon Champion - It's so admirable](https://www.youtube.com/watch?v=WmizhHexQHY)
 * [3D 프린터 로봇 제어를 위한 텐서플로](http://blog.daum.net/kimgyunghyun/2529)
 * [강의 자료 - SpotMicro for G Camp](https://www.notion.so/SpotMicro-for-G-Camp-c541934a4bad4ad48d1e37ab94c10de8)
