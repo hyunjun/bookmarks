@@ -135,6 +135,7 @@ Programming Books
 * (NOT YET) [스트리밍 시스템 | 에이콘출판사](http://www.acornpub.co.kr/book/streaming-systems)
 * (NOT YET) [레거시 코드 활용 전략](https://jhrogue.blogspot.com/2021/07/blog-post_8.html)
 * (NOT YET) [나는 주니어 개발자다](https://jhrogue.blogspot.com/2021/09/blog-post_15.html)
+* (NOT YET) [류광의 번역 이야기 :: 번역서 "핸즈온 해킹" 출간 소식](http://occamsrazr.net/tt/376)
 
 # Agile Scrum
 
