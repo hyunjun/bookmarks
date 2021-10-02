@@ -241,6 +241,7 @@ C
   * [Address Sanitizer 를 이용하여 힙 메모리 오류 디버깅하기](https://blog.ifunfactory.com/2019/07/03/address-sanitizer-를-이용하여-힙-메모리-오류-디버깅하기/)
 * [Asmcodes: SHA-3 / Keccak](https://odzhan.wordpress.com/2015/11/03/tiny-sha-3/)
 * [Asmcodes: SHA-256](https://odzhan.wordpress.com/2015/11/04/tiny-sha-256/)
+* [bestline: ANSI Standard X3.64 Teletypewriter Command Session Library](https://github.com/jart/bestline)
 * [better string library](http://bstring.sourceforge.net/)
 * [bic: A C interpreter and API explorer](https://github.com/hexagonal-sun/bic)
 * [bonsai-c - C to asm.js compilation for humans](https://github.com/gasman/bonsai-c)
@@ -470,6 +471,7 @@ C
 * [valgrind](http://valgrind.org/)
   * [practice](https://gist.github.com/hyunjun/eb74e45abbe4af9a4a48)
   * [6. Callgrind: a call-graph generating cache and branch prediction profiler](http://valgrind.org/docs/manual/cl-manual.html)
+  * [Valgrind - A neglected tool from the shadows or a serious debugging tool? | craft::cpp](https://m-peko.github.io/craft-cpp/posts/valgrind-a-neglected-tool-from-the-shadows-or-a-serious-debugging-tool/)
 
 # Pointer
 * [Difference between `char*` and `const char*`?](http://stackoverflow.com/questions/9834067/difference-between-char-and-const-char)
