@@ -286,6 +286,7 @@ Linux
 * [절전 모드로 내려가는 우분투 머신](https://www.sysnet.pe.kr/Default.aspx?mode=0&sub=0&detail=1&pageno=0&wid=523&rssMode=1&wtype=0)
 * [절전 모드로 내려가는 우분투 머신](https://www.sysnet.pe.kr/0/0/523)
 * [AppArmor 란 무엇이며 Ubuntu를 어떻게 안전하게 유지합니까? - TheFastCode](https://www.thefastcode.com/ko-krw/article/what-is-apparmor-and-how-does-it-keep-ubuntu-secure)
+* [Inspecting coredumps like it's 2021](https://nixos.mayflower.consulting/blog/2021/09/06/coredumpctl/)
 * [marcokhan :: Ubuntu How to Kernel Compile](https://marcokhan.tistory.com/246)
 
 # Automation
@@ -753,6 +754,7 @@ Linux
   * [endlessh: SSH tarpit that slowly sends an endless banner](https://github.com/skeeto/endlessh)
   * [lazyssh: A jump-host SSH server that starts machines on-demand](https://github.com/stephank/lazyssh)
   * OpenSSH [How to List Unsuccessful SSH Logins on Linux](https://www.howtoforge.com/how-to-list-unsuccessful-ssh-logins)
+  * ssh-agent [The pitfalls of using ssh-agent, or how to use an agent safely](https://rabexc.org/posts/pitfalls-of-ssh-agents)
   * ZeroSSL [Introducing another free CA as an alternative to Let's Encrypt](https://scotthelme.co.uk/introducing-another-free-ca-as-an-alternative-to-lets-encrypt/)
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
 * `stat`
@@ -826,6 +828,7 @@ Linux
   * [bashtop - Awesome Linux resource monitor - nixCraft](https://www.cyberciti.biz/open-source/command-line-hacks/bashtop-awesome-linux-resource-monitor-tool/)
   * [bpytop: Linux/OSX/FreeBSD resource monitor](https://github.com/aristocratos/bpytop)
     * [bpytop - Awesome Linux, macOS and FreeBSD resource monitor - nixCraft](https://www.cyberciti.biz/open-source/command-line-hacks/bpytop-awesome-linux-macos-and-freebsd-resource-monitor/)
+  * [btop: A monitor of resources](https://github.com/aristocratos/btop)
   * htop
     * [2019년 11월 10일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-11-10.html)
     * [User power, not power users: htop and its design philosophy « hisham.hm](https://hisham.hm/2020/12/18/user-power-not-power-users-htop-and-its-design-philosophy/)
@@ -950,6 +953,7 @@ Linux
 * [kkamagui의 작업실 :: 리눅스 커널 다시 컴파일 후 그래픽 모드 전환 오류 해결 방법](https://kkamagui.tistory.com/941)
 * [리눅스 커널 모듈 작성 – Place Of 42Seoul Story](https://42place.innovationacademy.kr/archives/7025)
 * [30 things you didn't know about the Linux kernel | Opensource.com](https://opensource.com/article/21/8/linux-kernel)
+* [Modifying The Linux Kernel – New Syscalls – Coding Kaiser](https://codingkaiser.blog/2021/07/17/create-your-own-system-calls%e2%80%8a-%e2%80%8aprocess-weights/)
 
 ## Kernel Interrupt
 * [Interrupts and Interrupt Handling](https://github.com/0xAX/linux-insides/tree/master/interrupts)
@@ -990,6 +994,7 @@ Linux
   * [폴더별 환경 관리를 위한 direnv](https://blog.outsider.ne.kr/1306)
   * [direnv로 디렉토리(프로젝트) 별 개발환경 구축하기 - 루비(Ruby), 파이썬(Python), 노드(Node) 개발 환경 구축](https://www.44bits.io/ko/post/direnv_for_managing_directory_environment)
   * [direnv – unclutter your .profile | direnv](https://direnv.net/)
+* [doslinux: Run Linux programs on DOS](https://github.com/haileys/doslinux)
 * [duf: Disk Usage/Free Utility](https://github.com/muesli/duf)
 * [elfcat: ELF visualizer. Generates HTML files from ELF binaries](https://github.com/ruslashev/elfcat)
 * [**entr - A utility for running arbitrary commands when files change**](https://github.com/clibs/entr)
@@ -1001,6 +1006,7 @@ Linux
   * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
   * [fzf-for-js: Do fuzzy matching using FZF algorithm in JavaScript](https://github.com/ajitid/fzf-for-js)
     * [FZF for JavaScript - 브라우저에서도 퍼지 검색을 | GeekNews](https://news.hada.io/topic?id=4695)
+  * [sysz: An fzf terminal UI for systemctl](https://github.com/joehillen/sysz)
 * [hello — helloSystem experimental documentation](https://hellosystem.github.io/docs/)
 * htop [htop explained](https://peteris.rocks/blog/htop/)
 * [i3 - improved tiling wm](https://i3wm.org/)
@@ -1057,6 +1063,7 @@ Linux
 * [snappy-start: Tool for process startup snapshots](https://github.com/google/snappy-start)
 * [spaceman-diff - Diffing Images on the Command Line](http://zachholman.com/posts/command-line-image-diffs/)
 * [sshync - Auto-sync files or directories over SSH using fs.watch()](https://github.com/mateogianolio/sshync)
+* [toybox: all-in-one Linux command line](https://github.com/landley/toybox)
 * [trash-cli - Command Line Interface to FreeDesktop.org Trash](https://github.com/andreafrancia/trash-cli)
 * [ugrep: 🔍NEW ugrep v3.1: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4), documents and more. A faster, user-friendly and compatible grep replacement](https://github.com/Genivia/ugrep)
 * [unetbootin.github.io - create bootable Live USB drives](http://unetbootin.github.io/)
