@@ -458,6 +458,7 @@ Programming
 * [Unpaywall - 오픈 액세스 논문 검색엔진 | GeekNews](https://news.hada.io/topic?id=4786)
 * [Zip - How not to design a file format](https://games.greggman.com/game/zip-rant/)
 * [APEX 사례로 보는 Low Code](https://jhrogue.blogspot.com/2021/09/apex-low-code.html)
+* [글로벌 칼럼 | 유지보수를 위한 다운타임, '유지보수 윈도우'는 정당화할 수 없다 - ITWorld Korea](https://www.itworld.co.kr/news/209072) 가용성, availability
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -635,6 +636,7 @@ Programming
 * [Consistency, Coupling, and Complexity at the Edge](https://www.infoq.com/articles/consistency-coupling-complexity/) RESTful, GraphQL
 * [How to Hack APIs in 2021 by Hakluke and Farah Hawa | Detectify Labs](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
 * [Don’t Build A General Purpose API To Power Your Own Front End - Max Chernyak](https://max.engineer/server-informed-ui)
+* [블로그 | API 관리가 그토록 복잡해야만 할까? - CIO Korea](https://www.ciokorea.com/news/209107)
 * [API Tokens: A Tedious Survey · Fly](https://fly.io/blog/api-tokens-a-tedious-survey/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
@@ -1011,6 +1013,7 @@ Programming
 * [Event Sourcing - YouTube](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
 * [Why Event Sourced Systems Fail eng / Greg Young - YouTube](https://www.youtube.com/watch?v=FKFu78ZEIi8)
 * [Event Sourcing You are doing it wrong by David Schmitz - YouTube](https://www.youtube.com/watch?v=GzrZworHpIk)
+* [The Reactive Monolith - How to Move from CRUD to Event Sourcing](https://www.wix.engineering/post/the-reactive-monolith-how-to-move-from-crud-to-event-sourcing)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -1300,6 +1303,8 @@ Programming
 * [**이모티콘 서비스는 왜 MSA를 선택했나? – tech.kakao.com**](https://tech.kakao.com/2021/09/14/msa/)
 * [Turning Microservices Inside-Out](https://www.infoq.com/articles/microservices-inside-out/)
 * [7 Microservices Best Practices for Developers - DZone Microservices](https://dzone.com/articles/7-microservices-best-practices-for-developers)
+* [Microservice, monolith, microlith](https://blogs.oracle.com/javamagazine/post/microservice-monolith-microlith)
+* [Microservices Database Management Patterns and Principles | by Mehmet Özkaya | Design Microservices Architecture with Patterns & Principles | Sep, 2021 | Medium](https://medium.com/design-microservices-architecture-with-patterns/microservices-database-management-patterns-and-principles-9121e25619f1)
 * [Back-end for Front-end Pattern (BFF) | by Giljae Joo (주길재) | Medium](https://giljae.medium.com/back-end-for-front-end-pattern-bff-4b73f29858d6)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
@@ -1449,6 +1454,7 @@ Programming
 * [Managing costs in the cloud: why you can end up paying more...](https://thestack.technology/managing-costs-in-the-cloud-percona/)
 * [How to build a SaaS with $0](https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8)
 * [The Tech Stack of a One-Man SaaS](https://panelbear.com/blog/tech-stack/)
+* [I started SaaS companies in 2013 and 2021. Here's how things have changed](https://blog.airplane.dev/i-started-a-saas-company-in-2013-and-2021-heres-how-its-changed/)
 * [GCP vs AWS vs Azure 서비스 비교](https://docs.google.com/spreadsheets/d/1TR2_ytoHh9-InEZEjree7730GNdmrsGUDhxH1BlqK1Q)
 * [알리바바 클라우드 가입하기](https://jybaek.tistory.com/845)
 * [알리바바 클라우드 payment method 삭제](https://jybaek.tistory.com/846)
@@ -1487,6 +1493,8 @@ Programming
 * [차니의 클라우드 클리닉 :: Channy's Blog](http://blog.creation.net/category/cloud-clinic)
 * [서비스로서의 방화벽 ‘FWaaS’ 알아보기 - ITWorld Korea](https://www.itworld.co.kr/news/206494)
 * [Netflix Cloud Packaging in the Terabyte Era | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/netflix-cloud-packaging-in-the-terabyte-era-d6869b4b84ae) MezzFS
+* [데이터부터 ID까지 다 지킨다··· 클라우드 '빅3' 사이버 보안 제품 가이드 - CIO Korea](https://www.ciokorea.com/news/209062)
+* [Announcing Cloudflare R2 Storage: Rapid and Reliable Object Storage, minus the egress fees](https://blog.cloudflare.com/introducing-r2-object-storage/)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -1900,6 +1908,7 @@ Programming
 * [CI/CD 자동화가 가져다 준 행복 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/ci-cd-automation/)
 * **[**실용주의 데브옵스 for MSA – tech.kakao.com](https://tech.kakao.com/2021/07/16/devops-for-msa/) GitOps, Argo CD 도입
 * [CI/CD 파이프라인을 보호하는 6가지 모범 사례 - ITWorld Korea](https://www.itworld.co.kr/news/201624)
+* [Building a successful and sustainable CI/CD pipeline - YouTube](https://www.youtube.com/watch?v=9nIG-pFyQ_k) 지속적 통합/배포 파이프라인을 제대로 구축하려면 툴이 아닌 아키텍처와 프로세스에 집중해야 하고, 조직원들을 지속적으로 설득해나가야 한다
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
 * teamcity
@@ -2053,6 +2062,8 @@ Programming
 * [OWASP Top 10:2021 (DRAFT FOR PEER REVIEW)](https://owasp.org/Top10/)
   * 오픈소스 웹 애플리케이션 보안 프로젝트인 OWASP에서 2021년 가장 많이 일어나는 보안 문제 10개 발표
   * 2017년과 비교해서 달라진 순서를 알기 쉽게 표시, 잘못된 접근 제어, 암호화 관련 실패, 주입, 보안이 약한 설계, 잘못된 보안 설정 등
+* [Mozilla HTTP Observatory | GeekNews](https://news.hada.io/topic?id=5052)
+* [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu/)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
@@ -2283,6 +2294,7 @@ Programming
 * [emqtt](http://emqtt.io/)
   * [emqtt shared subscription](https://ash84.net/2017/10/13/emqtt-shared-subscription/)
 * [mosca - MQTT broker as a module http://mosca.io](https://github.com/mcollina/mosca)
+* [mosquitto: Eclipse Mosquitto - An open source MQTT broker](https://github.com/eclipse/mosquitto)
 * [MQTT](http://mqtt.org/)
   * [**MQTT**](https://www.joinc.co.kr/w/man/12/MQTT/Tutorial)
   * [MQTT 적용을 통한 중계시스템 개선](http://woowabros.github.io/experience/2017/08/11/ost_mqtt_broker.html)
@@ -2932,6 +2944,7 @@ Programming
 # Quantum computer
 * [그래서 양자컴퓨팅이 뭔데? – 문과생을 위한 해설서](https://byline.network/2019/11/05-18/)
 * [퀀텀 컴퓨팅 기초 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/paths/quantum-computing-fundamentals/)
+* [Quantum Computing in Action (Teaser) • Johan Vos & Preben Thorø • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=dYVugFQNZJc)
 
 # Reactive
 * [리액티브 개발 패러다임에 담긴 메시지](http://m.zdnet.co.kr/column_view.asp?artice_id=20161010104628#imadnews)
@@ -3052,6 +3065,10 @@ Programming
 * [Reverse-Engineering: A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures](https://github.com/mytechnotalent/Reverse-Engineering)
 * [Reverse Engineering WiFi on RISC-V BL602](https://lupyuen.github.io/articles/wifi)
 
+# RPA
+* [All the Robotic Process Automation (RPA) Stats You Need to Know](https://towardsdatascience.com/all-the-robotic-process-automation-rpa-stats-you-need-to-know-bcec22eaaad9)
+* [마케팅에 'RPA' 도입하기 전에... CMO가 알아야 할 것 - CIO Korea](https://www.ciokorea.com/news/208897)
+
 # RPC
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
 * [Hello World Example](https://github.com/RussellLuo/grpc-pytools/tree/master/examples)
@@ -3150,6 +3167,7 @@ Programming
 * [Software Engineering at Google: Practices, Tools, Values, and Culture](https://www.infoq.com/articles/software-engineering-google/)
 * [What I learned from Software Engineering at Google | Swizec Teller](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)
 * [뉴스 서비스, iOS 시작부터 출시까지 (OpenCMS) – Place Of 42Seoul Story](https://42place.innovationacademy.kr/archives/9307) 자세한 이야기는 없지만 정말 대단한 일
+* [오늘의집 개발 프로젝트 런칭 어떻게 하나 - 오늘의집 블로그](https://www.bucketplace.co.kr/post/2021-09-16-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%9F%B0%EC%B9%AD-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%82%98/)
 * [Principles.dev - Software Engineering Principles](https://principles.dev/)
   * [Software Engineering Principles | GeekNews](https://news.hada.io/topic?id=4534)
 
