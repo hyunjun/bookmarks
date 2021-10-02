@@ -2608,6 +2608,7 @@ Python
   * [Python build a responsive GUI | UI with ANIMATED transitions | PyQt PySide Custom Widgets Module - YouTube](https://www.youtube.com/watch?v=i1iN_CQcnWc)
   * [PyDracula - Modern Gui Python / Flat Style - Qt Designer/PySide6 or PyQt6 - YouTube](https://www.youtube.com/watch?v=9DnaHg4M_AM)
 * [PySimpleGUI](https://pysimplegui.readthedocs.io/)
+  * [PySimpleGUI: Launched in 2018 Actively developed & supported. Supports tkinter, Qt, WxPython, Remi (in browser). Create custom GUI Windows simply, trivially with a full set of widgets. Multi-Window applications are also simple. Python 2.7 & 3 Support. 300+ Demo programs & Cookbook for rapid start. Extensive documentation. Examples using Machine Learning(GUI, OpenCV Integration, Chatterbot), Desktop Widgets (Rainmeter-like), Matplotlib + Pyplot integration, add GUI to command line scripts, PDF & Image Viewer. For both beginning and advanced programmers. docs - PySimpleGUI.org GitHub - PySimpleGUI.com. Create complex windows simply](https://github.com/PySimpleGUI/PySimpleGUI)
   * [Python GUI Development With PySimpleGUI - YouTube](https://www.youtube.com/watch?v=-_z2RPAH0Qk)
   * [Simplify Python GUI Development With PySimpleGUI – Real Python](https://realpython.com/courses/simplify-gui-dev-pysimplegui/)
 * tkinter
@@ -3996,6 +3997,7 @@ Python
 * [virtualenvwrapper](https://virtualenvwrapper.readthedocs.io)
   * [Virtualenv/VirtualenvWrapper OS별 설치&이용법](https://beomi.github.io/2016/12/28/HowToSetup-Virtualenv-VirtualenvWrapper/)
   * [A guide to Python virtual environments with virtualenvwrapper | Opensource.com](https://opensource.com/article/21/2/python-virtualenvwrapper)
+  * [Managing Python Environments Like a Pro | by Pratik Choudhari | Sep, 2021 | Towards Data Science](https://towardsdatascience.com/managing-python-environments-like-a-pro-4d8ad1d5b80)
 
 ## Library parallel
 * [Parallel Processing in Python || Aaron Richter - YouTube](https://www.youtube.com/watch?v=L6jti_WXKKw)
@@ -4677,6 +4679,7 @@ Python
 * [Building a Windows Shortcut with Python](https://pbpython.com/windows-shortcut.html)
 * [Python과 Windows Program간의 데이터 공유](https://blog.naver.com/educoding/221737503305) memory mapped file, MFC <-> python
 * [처음 시작하시는 분들을 위한 윈도우 파이썬 개발환경 구축 - YouTube](https://www.youtube.com/watch?v=KHkMxvTSZKQ)
+* [Automating Windows Applications using Python for Efficiency](https://www.analyticsvidhya.com/blog/2021/09/automate-windows-applications-using-python/)
 * [Dependency Walker - free utility that scans any 32-bit or 64-bit Windows module (exe, dll, ocx, sys, etc.) and builds a hierarchical tree diagram of all dependent modules](http://www.dependencywalker.com/)
 * [DUMPBIN Reference](https://docs.microsoft.com/en-us/cpp/build/reference/dumpbin-reference) examine COFF, exe, DLL files
 * ironpython
