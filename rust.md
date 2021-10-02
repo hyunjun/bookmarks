@@ -33,6 +33,8 @@
 * [Data Types in Rust: Borrowing from Both Worlds](https://medium.com/@james_32022/data-types-in-rust-borrowing-from-both-worlds-b12a377391ae)
 * [Unsafe Rust: An Intro and Open Questions](http://cglab.ca/~abeinges/blah/rust-unsafe-intro/)
 * [Generating Rust Bindings for Embedded Libraries](http://spin.atomicobject.com/2015/05/21/generate-embedded-rust-bindings/)
+* [rust-raspberrypi-OS-tutorials: Learn to write an embedded OS in Rust](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  * [Rust로 라즈베리 Pi용 임베디드OS 만들어보기 | GeekNews](https://news.hada.io/topic?id=5088)
 * [Three months of Rust](http://scattered-thoughts.net/blog/2015/06/04/three-months-of-rust/)
 * [Expressing L-systems in Rust](http://unconj.ca/blog/expressing-l-systems-in-rust.html)
 * [The Problem With Single-threaded Shared Mutability](http://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/)
@@ -131,6 +133,7 @@
 * [Behind the scenes of 1Password for Linux | by Dave Teare | May, 2021 | Medium](https://dteare.medium.com/behind-the-scenes-of-1password-for-linux-d59b19143a23)
 * [Rust: Zero Cost Abstractions - YouTube](https://www.youtube.com/watch?v=JCGjjk5ccV0)
 * [Compiling Rust is NP-hard](https://niedzejkob.p4.team/rust-np/)
+* [Make a Demo Tool in Rust](https://make-a-demo-tool-in-rust.github.io/)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
@@ -301,6 +304,7 @@
 * [Rust 입문용 치트시트](https://happygrammer.github.io/rust/cheat-seat/)
 * [Rust로 첫 번째 단계 수행 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/paths/rust-first-steps/)
   * [MS의 Rust 기초 가이드 한국어 | GeekNews](https://news.hada.io/topic?id=4095)
+* [Common Newbie Mistakes and Bad Practices in Rust: Bad Habits · Michael-F-Bryan](https://adventures.michaelfbryan.com/posts/rust-best-practices/bad-habits/)
 * [Beginner's Series to: Rust - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x)
   * [Take your first steps with Rust - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/)
 * [rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
