@@ -739,9 +739,9 @@ Docker
 * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
 * [Google systems guru explains why containers are the future of computing](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)
 * [KUBERNETES - THE FUTURE OF DEPLOYMENT](http://www.bashton.com/blog/2015/kubernetes-future-of-deployment/)
-* [Omega, and what it means for Kubernetes: a Q&A about cluster scheduling](http://blog.kismatic.com/qa-with-malte-schwarzkopf-on-distributed-systems-orchestration-in-the-modern-data-center/)
 * [Kubernetes: Open Source Container Cluster Orchestration](http://blog.kubernetes.io/2015/07/how-did-quake-demo-from-dockercon-work.html)
 * [Omega, and what it means for Kubernetes: a Q&A about cluster scheduling](https://blog.kismatic.com/qa-with-malte-schwarzkopf-on-distributed-systems-orchestration-in-the-modern-data-center/?)
+* [Granulate Blog - A Deep Dive into Kubernetes Scheduling](https://granulate.io/a-deep-dive-into-kubernetes-scheduling/)
 * [CoreOS and Kubernetes 1.0](https://coreos.com/blog/kubernetes-1.0-and-cloud-native-computing-foundation/)
 * [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/)
 * [Official Kubernetes on CoreOS Guides and Tools](https://coreos.com/blog/official-kubernetes-on-coreos/)
@@ -1341,6 +1341,8 @@ Docker
 * [registry.hub.docker.com](https://registry.hub.docker.com)
 * [rocker-compose - Docker composition tool with idempotency features for deploying apps composed of multiple containers](https://github.com/grammarly/rocker-compose)
 * [seagull - Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
+* [youki: A container runtime written in Rust](https://github.com/containers/youki)
+  * [Youki - Rust로 작성된 컨테이너 런타임 | GeekNews](https://news.hada.io/topic?id=5116)
 
 ## Library docker alternative
 * [An Overview of Docker Desktop Alternatives](https://matt-rickard.com/docker-desktop-alternatives/)
