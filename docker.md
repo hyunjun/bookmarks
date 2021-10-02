@@ -872,6 +872,7 @@ Docker
   * [3부 (완결): 애플리케이션 스케일링과 롤링 업데이트](https://www.youtube.com/watch?v=6q1MRXNUzPU)
 * [Boosting your kubectl productivity](https://learnk8s.io/blog/kubectl-productivity/)
 * [Everything Useful I Know About kubectl](https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/)
+* [Martin Heinz | Making Kubernetes Operations Easy with kubectl Plugins](https://martinheinz.dev/blog/58)
 * [Coding a real-time dashboard for Kubernetes](https://learnk8s.io/real-time-dashboard)
 * [**쿠버네티스 시작하기 - 쿠버네티스란 무엇인가?**](https://subicura.com/2019/05/19/kubernetes-basic-1.html)
 * [**쿠버네티스 시작하기 - 설치부터 배포까지**](https://subicura.com/2020/12/13/kubernetes-basic-2.html)
