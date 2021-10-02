@@ -185,6 +185,7 @@ SQL
 * [영상 : 초보자가 저지르기 쉬운 DB 코딩 실수 3가지 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%EC%98%81%EC%83%81-%EC%B4%88%EB%B3%B4%EC%9E%90%EA%B0%80-%EC%A0%80%EC%A7%80%EB%A5%B4%EA%B8%B0-%EC%89%AC%EC%9A%B4-DB-%EC%BD%94%EB%94%A9-%EC%8B%A4%EC%88%98-3%EA%B0%80%EC%A7%80)
 * [A future for SQL on the web](https://jlongster.com/future-sql-web)
   * [웹용 SQL의 미래 | GeekNews](https://news.hada.io/topic?id=4808)
+* [Stephen Colebourne's blog: Big problems at the timezone database](https://blog.joda.org/2021/09/big-problems-at-timezone-database.html)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
@@ -327,6 +328,7 @@ SQL
 * [맥북 docker 에 mssql 설치 하기](https://stricky.tistory.com/500)
 * [신입 개발자, DB를 최적화 하다! 1편. 소개 | by Jason Kang | Uniquegood | Sep, 2021 | Medium](https://medium.com/uniquegood/%EC%BD%94%EC%96%B4-%EC%84%9C%EB%B2%84%EC%97%90-%EC%83%9D%EA%B8%B0%EB%8A%94-%EB%AC%B8%EC%A0%9C%EC%A0%90%EC%9D%84-%ED%95%B4%EA%B2%B0%ED%95%98%EC%9E%90-1%ED%8E%B8-55b899e0fbdd)
 * [신입 개발자, DB를 최적화 하다! 2편. 소개 | by Jason Kang | Uniquegood | Sep, 2021 | Medium](https://medium.com/uniquegood/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-db%EB%A5%BC-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%98%EB%8B%A4-2%ED%8E%B8-c9f71951c90)
+* [Intro to SQL - YouTube](https://www.youtube.com/watch?v=vbPw0tmQmws)
 
 # MySQL
 * practice
@@ -613,6 +615,7 @@ SQL
 * [데이터베이스에서 위도경도 관리 - MySQL Spatial SQL](https://blog.naver.com/ndskr/222444680248)
 * [MySQL document store 초간단 테스트 | gywndi's database](https://gywn.net/2021/07/mysql-document-store-test/)
 * [Build a Python Web Scraper + Advanced MySQL Queries](https://arctype.com/blog/mysql-advanced-queries/)
+* [How to Connect A GraphQL API and A MySQL Database in Your GraphQL Layer | StepZen blog](https://stepzen.com/blog/connect-a-mysql-db-and-graphql-api-in-a-gql-layer)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
