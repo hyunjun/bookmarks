@@ -63,6 +63,7 @@ Algorithm
 * [Fisher-Yates shuffle](http://www.programming-algorithms.net/article/43676/Fisher-Yates-shuffle)
 * [The Stack Overflow Tag Engine – Part 2](http://mattwarren.org/2015/08/19/the-stack-overflow-tag-engine-part-2/)
 * [Maze Classification](http://www.astrolog.org/labyrnth/algrithm.htm)
+* [A Python Module for Maze Search Algorithms | by Muhammad Ahsan Naeem | Sep, 2021 | Towards Data Science](https://towardsdatascience.com/a-python-module-for-maze-search-algorithms-64e7d1297c96)
 * [Google Is Working On A New Type Of Algorithm Called “Thought Vectors”](https://wtvox.com/robotics/google-is-working-on-a-new-algorithm-thought-vectors)
 * [Making maps with noise functions](http://www.redblobgames.com/maps/terrain-from-noise/)
 * [Romantic Cryptography](https://www.cl.cam.ac.uk/~fms27/papers/2000-StajanoHar-romantic.pdf)
