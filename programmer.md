@@ -99,6 +99,11 @@ Programmer
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
 * [더북(TheBook): 소프트 스킬 : 평범한 개발자의 비범한 인생 전략 71가지](https://thebook.io/006794/) 26장만
 
+# Career path
+* [23 Alternative Career Paths that Software Developers Can Grow Into](https://www.freecodecamp.org/news/alternative-career-paths/)
+* [Creating a career ladder for engineers - Marco Rogers | #LeadDevNewYork - YouTube](https://www.youtube.com/watch?v=jA1Q94d2z10) 개발자들의 커리어 사다리가 왜 중요하고 어떻게 운영하면 되는가
+* [What I Learnt Becoming a Tech Lead - Tom Gamon](https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/)
+
 # Cultuer, Team
 * [훌륭한 개발 문화의 이면(7) – 잉여력이냐 vs. 효율성이냐](http://channy.creation.net/blog/1238) 개발자 경력 경로
 * [팀 문화의 탄생](https://woowabros.github.io/experience/2020/05/13/birth-of-team-culture.html) 정말 이대로 실행한다면 엄청나게 훌륭한 회사
