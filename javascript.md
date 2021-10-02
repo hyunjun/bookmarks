@@ -1621,6 +1621,8 @@ Javascript
     * [React로 Calendar app 만들기 - 4](https://hokeydokey.tistory.com/116)
     * [React로 Calendar app 만들기 - 5 Final](https://hokeydokey.tistory.com/117)
   * [타임존과 moment isBetween('어제', '오늘') | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20200928/)
+* [Motion One: The Web Animations API for everyone](https://motion.dev/)
+  * [Motion One - 작지만 고성능 웹 애니메이션 라이브러리 | GeekNews](https://news.hada.io/topic?id=5065)
 * [mq \< 200 byte DOM manipulation](https://github.com/wylst/mq)
 * [Nanocubes - Fast visualization of large spatiotemporal datasets](http://www.nanocubes.net/)
 * [Nasven.js core code](https://github.com/nasven/nasven)
