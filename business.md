@@ -75,10 +75,8 @@ Business
 * ['더 나은' 조직문화가 존재할까?](https://brunch.co.kr/@younghakjang/46)
 * [기업 문화의 시작, 소통](https://brunch.co.kr/@lunarshore/371)
 * [수평적 조직문화는 민주주의가 아니다](https://brunch.co.kr/@supims/600)
-* [벤 호로위츠 "CEO 임무는 기업문화 만들기..원칙 세우고 예외 없이 적용하라"](https://news.v.daum.net/v/20210530182001925) 하드씽 Hard Thing
 * [막막한 위기 닥쳤다면 조직문화부터 바꿔라](https://n.news.naver.com/article/015/0004554178) 하드씽 Hard Thing
 * [HR연구소 올림픽에 '도박' 종목이 유지되는 이유](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=849) 기업 문화에 문제가 있으면 고쳐야 함
-* [기업문화를 개선하고 싶은 초보CEO를 위한 6가지 제언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/cultureupgrade20210902)
 * [기업문화, 어떻게 형성됐고 왜 바꾸기 힘들까요? - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/companyculture20210503)
 * [조직을 성공적으로 변화시키는 5가지 방법](http://ppss.kr/archives/37761)
 * [조직의 합리성에 대한 노트: 막내착취, 중간관리자, 합리적 개인](http://ppss.kr/archives/58933)
@@ -288,7 +286,6 @@ Business
 * [왜 넷플릭스 포스터는 때깔부터 다를까](https://rbworld.tistory.com/124)
 * [휴대전화번호가 최악의 회원가입 수단인 이유: 클럽하우스 사례](https://gilhwan.com/entry/%ED%9C%B4%EB%8C%80%EC%A0%84%ED%99%94%EB%B2%88%ED%98%B8%EA%B0%80-%EC%B5%9C%EC%95%85%EC%9D%98-%ED%9A%8C%EC%9B%90%EA%B0%80%EC%9E%85-%EC%88%98%EB%8B%A8%EC%9D%B8-%EC%9D%B4%EC%9C%A0)
 * [닌텐도는 어떻게 기술을 활용하는가](https://brunch.co.kr/@lunarshore/389)
-* [HBR 독후감 스티치픽스 CEO, 개인의 스타일을 대중에게 파는 법外](https://www.popit.kr/hbr-%EB%8F%85%ED%9B%84%EA%B0%90-%EC%8A%A4%ED%8B%B0%EC%B9%98%ED%94%BD%EC%8A%A4-ceo-%EA%B0%9C%EC%9D%B8%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84-%EB%8C%80%EC%A4%91%EC%97%90%EA%B2%8C-%ED%8C%8C/)
 * [CPO, Product Team이 뭐죠?](https://arload.wordpress.com/2018/09/09/cpo_productteam/)
 * [Three Sales Mistakes Software Engineers Make](https://www.pipelinedb.com/blog/three-sales-mistakes-software-engineers-make) sales라고 썼지만 사실 project에도 동일하게 적용할 수 있다
 * [파워 유저 커브(스마일 커브)](https://medium.com/daangn/%ED%8C%8C%EC%9B%8C%EC%9C%A0%EC%A0%80-%EC%BB%A4%EB%B8%8C-%EC%8A%A4%EB%A7%88%EC%9D%BC-%EC%BB%A4%EB%B8%8C-5762ae5854e7)
@@ -375,6 +372,7 @@ Business
     2. 특정 문제를 해결하기 위해 가설을 세운다
     3. 가설은 모호하고 부정확해도 괜찮다
 * [당신의 생업은 무엇인가?](https://brunch.co.kr/@graypool/155) 업무의 시작은 용어의 정의
+* [Why Figma Wins - kwokchain](https://kwokchain.com/2020/06/19/why-figma-wins/)
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
@@ -387,6 +385,7 @@ Business
 * [Etsy CEO가 에자일한 조직 구조를 만든 방법](https://brunch.co.kr/@yongjinjinipln/89)
 * [화해 제품 조직이 목적 중심으로 일하는 방법 part.1 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/hwahaeteam/culture/5873/)
 * [화해 제품 조직이 목적 중심으로 일하는 방법 part.2](http://blog.hwahae.co.kr/all/tech/tech-tech/6470/)
+* [why is everything so hard in a large organization? | do not look into laser with remaining eye](https://graphthinking.blogspot.com/2021/09/why-is-everything-so-hard-in-large.html)
 
 # 채용
 * [“조직 문화와의 궁합(Cultural fit)”, 제대로 된 인재 채용 기준으로 삼으려면? (1)](http://newspeppermint.com/2015/06/11/culturalfit/)
@@ -429,6 +428,12 @@ Business
 * [리뷰 작성 시 주의해야 할 세 가지 함정](https://camp.lemonbase.com/review/trap)
 * [여름에도 리뷰를 해야 하는 이유 - 지금을 놓치면 12월에 후회하실지 모릅니다](https://camp.lemonbase.com/review/mid-year)
 * [구성원의 성장을 위한 리뷰의 한끗 - 더 의미있는 리뷰, 어떻게 하면 될까요?](https://camp.lemonbase.com/review)
+
+# CEO
+* [벤 호로위츠 "CEO 임무는 기업문화 만들기..원칙 세우고 예외 없이 적용하라"](https://news.v.daum.net/v/20210530182001925) 하드씽 Hard Thing
+* [기업문화를 개선하고 싶은 초보CEO를 위한 6가지 제언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/cultureupgrade20210902)
+* [HBR 독후감 스티치픽스 CEO, 개인의 스타일을 대중에게 파는 법外](https://www.popit.kr/hbr-%EB%8F%85%ED%9B%84%EA%B0%90-%EC%8A%A4%ED%8B%B0%EC%B9%98%ED%94%BD%EC%8A%A4-ceo-%EA%B0%9C%EC%9D%B8%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84-%EB%8C%80%EC%A4%91%EC%97%90%EA%B2%8C-%ED%8C%8C/)
+* [코더에서 CEO가 되는 것에 대한 리소스가 뭐가 있을까요? | GeekNews](https://news.hada.io/topic?id=5054)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -918,6 +923,7 @@ Business
 
 # User 사용자 고객
 * [고객님의 데이터 사용량을 지켜주세요](https://jybaek.tistory.com/868)
+* [When users never use the features they asked for - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html)
 
 # UX, design
 * [라이트브레인, 2015 UX 트렌드 리포트 ‘UX Discovery’ 발행](http://www.rightbrain.co.kr/CMS/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B8%8C%EB%A0%88%EC%9D%B8-%EA%B8%80%EB%A1%9C%EB%B2%8C-ux-%ED%8A%B8%EB%A0%8C%EB%93%9C-2015-%EB%B0%9C%EA%B0%84/)
