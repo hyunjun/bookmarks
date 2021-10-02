@@ -342,6 +342,7 @@ Programming Language
   * [LLVM 난독화 path 만들기 - CFG-Flattening : 클리앙](https://www.clien.net/service/board/lecture/15891468)
   * [LLVM internals, part 1: the bitcode format](https://blog.yossarian.net/2021/07/19/LLVM-internals-part-1-bitcode-format)
   * [Exploring Clang/LLVM optimization on programming horror](https://blog.matthieud.me/2020/exploring-clang-llvm-optimization-on-programming-horror/)
+  * [Intel C/C++ compilers complete adoption of LLVM](https://software.intel.com/content/www/us/en/develop/blogs/adoption-of-llvm-complete-icx.html)
 * Logo
   * [구글 개발자, 자연어로 작성하는 프로그래밍 언어 공개](http://www.bloter.net/archives/251344)
   * [Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1) - turtleSpaces](https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/)
