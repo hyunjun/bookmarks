@@ -98,6 +98,7 @@ Monitoring
 * [installsheild](https://github.com/gyunseul9/installsheild)
   * 설치항목 - 웹서버: 아파치, 스크립트 언어: PHP, No-SQL: REDIS, No-SQL 클러스터: 루비, 데이터수집데몬: node.js,  REDIS 모니터링: RedisLive , 모니터링 데이터 수집: sqlite, 백업 및 감시 스케줄러: crontab
 * [internet-monitoring: Monitor your network and internet speed with Docker & Prometheus](https://github.com/geerlingguy/internet-monitoring)
+* [Jaeger: open source, end-to-end distributed tracing](https://www.jaegertracing.io/)
 * [kairos-smi - Multi-server gpu moniroting program](https://github.com/kairos03/kairos-smi)
 * [Monitoror - Unified monitoring wallboard](https://monitoror.com/)
 * [New Relic Boxes](https://github.com/bizzabo/new-relic-boxes)
@@ -158,3 +159,4 @@ Monitoring
 * [Prometheus in a Clojure stack: Duct, Jetty, Compojure/Reitit and Hugsql](https://danlebrero.com/2021/02/03/prometheus-clojure-ring-sql-compojure-reitit/)
 * [A guide to setting up Kubernetes Service Level Objectives (SLOs) with Prometheus and Linkerd | Cloud Native Computing Foundation](https://www.cncf.io/blog/2020/11/13/a-guide-to-setting-up-kubernetes-service-level-objectives-slos-with-prometheus-and-linkerd/)
 * [토스의 서버 인프라 모니터링](https://toss.im/slash-21/sessions/1-2)
+* [Amazon debuts fully managed, Prometheus-based container monitoring service - SiliconANGLE](https://siliconangle.com/2021/09/29/amazon-debuts-fully-managed-prometheus-based-container-monitoring-service/)
