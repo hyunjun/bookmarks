@@ -39,6 +39,7 @@ Time Series
 * [AI 리뷰 MIT, 시계열 데이터 이상을 감지하는 딥러닝 기반 'TadGAN' 알고리즘 오픈 소스로 공개 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=18700)
 * [시계열 분석을 하라고?](https://brunch.co.kr/@lunarshore/405)
 * [Write a time-series database engine from scratch](https://nakabonne.dev/posts/write-tsdb-from-scratch/)
+  * [시계열DB를 밑바닥부터 만들어보기 | GeekNews](https://news.hada.io/topic?id=5093)
 * [How to Apply K-means Clustering to Time Series Data | by Alexandra Amidon | Towards Data Science](https://towardsdatascience.com/how-to-apply-k-means-clustering-to-time-series-data-28d04a8f7da3)
 * [ADsP 시계열 분석 모델을 공부했다. (AR, MA, ARIMA, ACF, PACF)](https://blog.naver.com/tjgml1343/222077619748)
 * [시계열 데이터를 시각화하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/199454)
