@@ -31,6 +31,7 @@ Web
   * [Web Development for Beginners - A Curriculum](https://devrel-kr.github.io/Web-Dev-For-Beginners/)
 * [Best GitHub Repos for Web Developers](https://dev.to/sayanide/best-github-repos-for-web-developers-9id)
 * [**The Gold Standard Checklist for Web Components**](https://github.com/webcomponents/gold-standard/wiki)
+* [깃헙 개발자들이 React 안쓰는 이유 : Web Component - YouTube](https://www.youtube.com/watch?v=RtvSgptpfnY)
 * [KnowRe web development curriculum for noobs](https://github.com/KnowRe/WebDevCurriculum)
 * [Knowre web development curriculum 2018](https://github.com/Knowre-Dev/WebDevCurriculum)
 * [Front-end Tooling Workflows by Addy Osmani](https://speakerdeck.com/addyosmani/front-end-tooling-workflows)
