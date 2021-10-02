@@ -157,6 +157,7 @@ Java
 * [java visual vm 으로 메모리 사용량을 간단하게 파악해 봅시다](https://codingdog.tistory.com/entry/java-visual-vm-%EC%9C%BC%EB%A1%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%9F%89%EC%9D%84-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%ED%8C%8C%EC%95%85%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [java switch 문 : string에 대해서 어떻게 쓰는지 예제로 알아봅시다](https://codingdog.tistory.com/entry/java-switch-%EB%AC%B8-string%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%93%B0%EB%8A%94%EC%A7%80-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [What are Operators in Java - YouTube](https://www.youtube.com/watch?v=997xqAZT3CM)
+* ['살아 움직이는 언어' 자바에 추가된 6가지 새로운 기능 - ITWorld Korea](https://www.itworld.co.kr/news/208787)
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
@@ -723,6 +724,11 @@ Java
 * [Why and How to Upgrade to Java 16 or 17](https://www.infoq.com/articles/why-how-upgrade-java17/)
 * [OptaPlanner - How much faster is Java 17?](https://www.optaplanner.org/blog/2021/09/15/HowMuchFasterIsJava17.html)
 * [JDK 17 G1/Parallel GC changes](https://tschatzl.github.io/2021/09/16/jdk17-g1-parallel-gc-changes.html)
+* [Springboot Java17 with jlink. 안녕하세요. Kevin 입니다. | by Kevin Park | Sep, 2021 | Medium](https://kevin-park.medium.com/springboot-java17-with-jlink-ec0242910c36)
+* [Revisiting Java in 2021 - I](https://www.avanwyk.com/revisiting-java-in-2021-i/)
+* [Revisiting Java in 2021 - II](https://www.avanwyk.com/revisiting-java-in-2021-ii/)
+* [Shenandoah in OpenJDK 17: Sub-millisecond GC pauses | Red Hat Developer](https://developers.redhat.com/articles/2021/09/16/shenandoah-openjdk-17-sub-millisecond-gc-pauses)
+  * [Shenandoah in OpenJDK 17 : 밀리초 미만의 GC Pause 구현 | GeekNews](https://news.hada.io/topic?id=5037)
 
 # Java18
 * [레코드 및 배열 패턴 外··· 구체화되는 ‘자바 18’ 미리보기 - CIO Korea](https://www.ciokorea.com/news/205454)
@@ -969,6 +975,7 @@ Java
 * [DEC PDP-8 emulator](http://www.timgorton.com/pdp8/)
 * [Eclipse Collections](https://www.eclipse.org/collections/)
   * [The missing Java data structures no one ever told you about — Part 1 | by Donald Raab | Javarevisited | Aug, 2021 | Medium](https://medium.com/javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-1-f45b6d0ee969)
+  * [The missing Java data structures no one ever told you about — Part 2 | by Donald Raab | Javarevisited | Aug, 2021 | Medium](https://medium.com/javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-2-f484a588cce3)
 * [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)
 * [excel-download: Rapid development possible and Simple Excel Download Library For JAVA 8+](https://github.com/lannstark/excel-download)
   * [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기) - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/10/08/excel-download.html)
@@ -1636,6 +1643,7 @@ Java
 * [자바 뉴스 2020/11/13](https://www.whiteship.me/java-news-2020-11-13/)
 * [Java Annotated Monthly – October 2020 – IntelliJ IDEA Blog | JetBrains](https://blog.jetbrains.com/idea/2020/10/java-annotated-monthly-october-2020/)
 * [Java Annotated Monthly – November 2020 – IntelliJ IDEA Blog | JetBrains](https://blog.jetbrains.com/idea/2020/11/java-annotated-monthly-november-2020/)
+* [Java News Roundup: Jakarta EE 10 Core Profile, OpenJDK, Open Liberty, Payara, Groovy and Quarkus](https://www.infoq.com/news/2021/09/java-news-roundup-sep06-2021/)
 
 # Performance Tuning
 * [Tuning Java Servers](http://www.infoq.com/articles/Tuning-Java-Servers)
