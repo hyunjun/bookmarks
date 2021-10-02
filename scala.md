@@ -984,6 +984,8 @@ Scala
       * [Keep alive for JMS connections | Blended - ZIO](http://blended-scala.org/posts/2020-11-05-jmskeepalive/)
       * [Exploring ZIO - Part I - SmartJava](https://www.smartjava.org/content/exploring-zio-part-1/)
       * [Exploring ZIO - Part II - ZStream and modules - SmartJava](https://www.smartjava.org/content/exploring-zio-part-2/)
+    * [ZIO Telemetry · ZIO-powered OpenTelemetry library](https://zio.github.io/zio-telemetry/)
+      * [Trace your microservices with ZIO | by Marek Kadek | Sep, 2021 | Medium](https://kadek-marek.medium.com/trace-your-microservices-with-zio-telemetry-5f88d69cb26b) zio-http
     * ZIO test
       * [Get started with ZIO Test](https://medium.com/@wiemzin/get-started-with-zio-test-7a27da355498)
       * [Effective testing with ZIO Test](https://scala.monster/zio-test/)
@@ -993,7 +995,6 @@ Scala
       * [#zioworld - YouTube](https://www.youtube.com/hashtag/zioworld)
       * [ZIO World - ZIO HTTP - YouTube](https://www.youtube.com/watch?v=dVggks9_1Qk)
       * [Introducing ZIO Http. Introducing ZIO Http | by Tushar Mathur | Mar, 2021 | Dream11 Engineering](https://blog.dream11engineering.com/introducing-zio-http-2b66bb036fdc)
-      * [Trace your microservices with ZIO | by Marek Kadek | Sep, 2021 | Medium](https://kadek-marek.medium.com/trace-your-microservices-with-zio-telemetry-5f88d69cb26b) zio-http
       * [ZIO World - ZIO Kafka - YouTube](https://www.youtube.com/watch?v=GECv1ONieLw)
       * [ZIO WORLD - ZIO SQL - YouTube](https://www.youtube.com/watch?v=cIMA6iT9B-k)
       * [ZIO WORLD - ZIO WEB - YouTube](https://www.youtube.com/watch?v=UBT-7h8JgU4)
@@ -2341,3 +2342,4 @@ Scala
 * [scala-3-beginners: The official repository for the Scala 3 & Functional Programming Essentials course](https://github.com/rockthejvm/scala-3-beginners)
 * [scala-3-advanced: The official repository for the Rock the JVM Advanced Scala course](https://github.com/rockthejvm/scala-3-advanced)
   * [Advanced Scala 3 and Functional Programming Course Overview - YouTube](https://www.youtube.com/watch?v=ohb1MfqYz6I)
+* [Scala isn't Hard: How to Master Scala Step by Step - Developer’s kit](https://scalac.io/blog/scala-isnt-hard-how-to-master-scala-step-by-step/)
