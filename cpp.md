@@ -185,6 +185,7 @@ C++
 * [Improving Print Logging with Line Pos Info & Modern C++ - C++ Stories](https://www.cppstories.com/2019/04/file-pos-log/)
 * [C++ 코드 품질 관리 비법 · Present](https://present.do/decks/60bf8f711903093a77d15ef3)
 * [Why We Need Build Systems - Sticky Bits - Powered by FeabhasSticky Bits – Powered by Feabhas](https://blog.feabhas.com/2021/06/why-we-need-build-systems/)
+* [Moving a project to C++ named Modules - C++ Team Blog](https://devblogs.microsoft.com/cppblog/moving-a-project-to-cpp-named-modules/)
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
@@ -353,6 +354,7 @@ C++
 * [HOIST: Strong Source Identity Library for C++](http://hoist.hostilefork.com/)
 * [imgui: Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies](https://github.com/ocornut/imgui)
 * [IncludeOS - A minimal, service oriented, includeable library operating system for cloud services](http://www.includeos.org/)
+* [KySync - efficient way to distribute new data which makes use of older (but similar) data that you may already have present locally](https://kyall.notion.site/KySync-v1-0-29eaad446308449a8c9a2373850eed62)
 * [Lemon - an LALR(1) parser generator for C or C++](http://www.sqlite.org/src/doc/trunk/doc/lemon.html)
 * [Libcox - an ANSI-C Library which permit cross platform system calls and standard utilities among different operating systems via a system of commands similar to the standard UNIX one and backed by the native OS API](http://libcox.net/)
 * [libdivide: Official git repository for libdivide: optimized integer division](https://github.com/ridiculousfish/libdivide)
