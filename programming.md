@@ -591,8 +591,6 @@ Programming
 * [MSW – Seamless API mocking library for browser and Node | Mock Service Worker](https://mswjs.io/)
 * [How NOT to design APIs](https://blog.usejournal.com/how-not-to-design-restful-apis-fb4892d9057a)
 * [To Create An Evolvable API, Stop Thinking About URLs The basics of API design](https://medium.com/@fagnerbrack/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e)
-* [API 디자인 가이드](https://cloud.google.com/apis/design/)
-  * [공통 디자인 패턴](https://cloud.google.com/apis/design/design_patterns)
 * [**http-api-design**](https://github.com/yoondo/http-api-design/tree/master/ko) HTTP API 디자인 가이드
 * [APIs: The Good, The Bad, The Ugly](https://www.youtube.com/watch?v=t0nl5aUfAvY)
 * [**Oh Man, Look at Your API!**](https://medium.com/pixelpoint/oh-man-look-at-your-api-22f330ab80d5)
@@ -643,10 +641,14 @@ Programming
   * [CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=4662)
 * dev.file.kiwi 파일 키위 [소개 - ❤️개발자](https://dev.file.kiwi/)
   * [API 공개- 무료 대용량 파일첨부/전송 | GeekNews](https://news.hada.io/topic?id=4376)
-* [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
+* Google
+  * [API 디자인 가이드](https://cloud.google.com/apis/design/)
+    * [공통 디자인 패턴](https://cloud.google.com/apis/design/design_patterns)
+  * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
+  * [API Improvement Proposals](https://google.aip.dev/)
 * [KAKAO REST API](https://developer-ankiwoong.tistory.com/748)
   * [카카오 장소검색 API 활용안내(Play with Data)](https://www.notion.so/API-Play-with-Data-6156b17b222b4d0ca495a4cc3f2e41c6)
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+* Microsoft [api-guidelines: Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
 * [Open-Meteo.com](https://open-meteo.com/) Free Weather API
 * [OverAPI.com - Collecting All Cheat Sheets](http://overapi.com/)
 * Paypal [Paypal 여러 개의 상품 결제를 위한 API](https://jybaek.tistory.com/861)
