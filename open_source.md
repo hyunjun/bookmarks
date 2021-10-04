@@ -75,6 +75,13 @@ Open Source
 * [“하나의 오픈소스, 많은 기여자” 프로메테우스가 작동하는 아름다운 방식 - ITWorld Korea](https://www.itworld.co.kr/news/178289)
 * [How I became a Kubernetes maintainer in 4 hours a week | Opensource.com](https://opensource.com/article/21/2/kubernetes-maintainer)
 * [Kubernetes에 컨트리뷰션 하는 아주 자세한 방법을 알려드립니다. – tech.kakao.com](https://tech.kakao.com/2021/10/01/kubernetes-contribution/)
+  * 기여하고자 하는 코드가 어떤 SIG(Special Interest Group)에 속하는지 파악
+  * 버그 수정, 동작을 변경하지 않는 리팩토링, 성능 개선, 테스트 코드 수정 등은 KEP 작성 없음
+  * 새로운 오브젝트나 기능 제안, 기존 API와 기능의 동작 변경, 변경사항이 사용자에게 영향을 줄 때에는 KEP(Kubernetes Enhancement Proposal) 작성
+  * 코드는 kuberntes 저장소, KEP는 enhancements 저장소, 문서는 website 저장소에 PR
+  * PR을 올린 후에도 SIG의 Slack 채널에서 PR에 대한 설명과 리뷰요청을 하는 게 좋음
+  * Kubernetes org 멤버만이 CI 실행 가능
+  * 승인받을 준비가 되었다면 Slack 채널에서 SIG 리더나 승인자 설득
 * [꼼수로 오픈소스 기여하기. 오픈소스 기여로 매력적인 GitHub 프로필 만들기 | by Woosik Kim | Apr, 2021 | Medium](https://well-balanced.medium.com/%EA%BC%BC%EC%88%98%EB%A1%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0-b34ee4cc2bc2)
 * [Selecting open-source code for LLDP: lldpd vs openlldp - IoT Central](https://www.iotcentral.io/blog/selecting-open-source-code-for-lldp-lldpd-vs-openlldp)
 * [라인의 풀타임 오픈소스 개발팀 이야기 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=QdRCe_IGGzI)
