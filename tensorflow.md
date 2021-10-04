@@ -705,6 +705,7 @@ TensorFlow
 * [ImportError: libcudnn.so.7: cannot open shared object file: No such file or directory](https://jybaek.tistory.com/778)
 * [AI Practitioners Guide for Beginners](https://software.intel.com/en-us/articles/ai-practitioners-guide-for-beginners)
 * [머신러닝 개발환경 : 아나콘다, 텐서플로우 설치](https://www.youtube.com/watch?v=XIySEGmUWd0)
+* [M1 텐서플로우 설치하기](https://dalinaum.github.io/mac/2021/10/04/tensorflow-m1.html)
 
 ## Installation CentOS
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
