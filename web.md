@@ -217,6 +217,24 @@ Web
 * [MS Edge, Super Duper Secure Mode 실험 | GeekNews](https://news.hada.io/topic?id=4771)
 * [정부의 웹사이트 총량제는 코로나19 방역을 어떻게 방해하나 — 북저널리즘 - 젊은 혁신가를 위한 콘텐츠 커뮤니티](https://www.bookjournalism.com/@imc/53)
 * [CMO를 위한 SEO가이드 48p PDF | GeekNews](https://news.hada.io/topic?id=4915)
+* [Bringing instant page-loads to the browser through speculative prerendering](https://web.dev/speculative-prerendering/)
+  * 브라우저의 추측성 힌트인 prefetch/prerender의 사용법과 단점 설명
+  * preconnect/preload는 선언적인 힌트로 다음 로딩 때 필요한 리소스에 사용
+  * prefetch/prerender는 추측성 힌트로 필요할 가능성이 높은 리소스를 브라우저에 추천할 때 사용
+  * B 페이지가 A 페이지 다음에 요청될 가능성이 높다고 했을 때 A 페이지에서 prefetch 힌트를 사용해서 B 페이지나 특정 리소스를 미리 받도록 브라우저에 전달
+  * A 페이지에서 prerender 힌트를 사용해서 미리 B 페이지를 렌더링하게 브라우저에 전달. 미리 렌더링 되었으므로 클릭 시 바로 화면을 볼 수 있다
+  * prefetch
+    * 다음 페이지 전체나 same-origin의 서브 리소스를 미리 가져올 수 있다
+    * 캐싱할 수 있다면 HTTP Cache에 저장(크롬은 5분간 저장)
+  * prerender
+    * 크로미움에서 기존 구현체가 메모리를 너무 많이 사용해서 no-state prefetch로 다시 구현
+    * Quicklink, Guess.js 등의 서드파티 라이브러리 존재
+* [WAI-ARIA란?](https://story.pxd.co.kr/1588)
+  * WAI(Web Accessibility Initiative)에서 리치 애플리케이션의 접근성 표준인 ARIA를 어떻게 사용해야 하는지 설명
+    * 사용했을 때 스크린 리더기에서 어떻게 동작하는지 영상을 같이 제공하고 있어서 이해 용이
+  * 접근성을 제공하기 위해 태그에 추가 정보 제공. 하지만, 태그의 의미 자체를 바꾸진 않아야 함
+  * role로 컴포넌트나 요소 역할 정의
+  * aria-required, aria-label같은 프로퍼티를 컴포넌트의 특징을 정의
 
 # Apache
 * installation
@@ -490,6 +508,15 @@ Web
 * [IE를 버리면 사용할 수 있는 CSS 명세. | naradesign.github.io](https://naradesign.github.io/css-ie-not-supported.html)
 * [새로운 CSS 기능적인 의사 클래스 :is()와 :where() | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210721)
 * [CSS Nesting Module](https://www.w3.org/TR/2021/WD-css-nesting-1-20210831/) 다른 CSS 스타일 안에 CSS 스타일을 포함할 수 있는 CSS Nesting Module 초안 공개
+* [효율적인 다크 모드 구현을 위한 배경/전경 컨텍스트 기반의 컬러 팔레트 만들기 (feat. CSS variable) – Xenosium](https://xenosium.com/entry/8679/)
+  * 다크 모드 구현을 위해 컬러 팔레트를 기반으로 구성하는 방법 설명
+  * prefers-color-scheme 미디어 쿼리를 이용해서 라이트/다크 모드 색상 변수 선언, 사용 가능. 하지만 보통 웹사이트는 다양한 UI 요소가 있으므로 간단하지 않음
+  * HSL로 색 반전 가능. 하지만, UI 요소 중 배경색을 사용한 경우에는 제대로 반전되지 않는 부분이 생기기 마련
+  * 디자인에서 사용하는 색의 개수는 정해져 있으므로 팔레트로 만들어서 색의 단계별로 HLS 변수를 만들어 사용
+    * HSL로 단계별로 지정했으므로 다크 모드에서는 반대되는 색을 쉽게 찾을 수 있음. 라이트 모드에서 gray-010는 다크 모드에서는 gray-090
+  * UI 요소가 늘어나면 변수도 2개씩 늘어나는 문제
+  * 이 부분을 이용해서 색은 배경(background)와 전경(foreground)에 따라 역할이 다르다는 것에 착안해 10단계의 색조 팔레트를 배경/전경으로 나누고 이를 이용해서 라이트 모드 다크모드 변수 정의
+    * 이 많은 변수가 너무 많게 느껴질 수 있지만, UI 요소에 대응할 수 있어서 복잡한 사이트에서는 이렇게 사용하는 것이 더 나음
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
