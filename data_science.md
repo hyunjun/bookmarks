@@ -420,6 +420,8 @@ Data Science
 * [Beaker](http://beakernotebook.com/?foo)
 * [danfo.js - an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data](https://github.com/opensource9ja/danfojs)
   * [Pandas를 자바스크립트에서! Danfo.js - YouTube](https://www.youtube.com/watch?v=rPCgsu0bcM4)
+* datahub [A Metadata Platform for the Modern Data Stack | DataHub](https://datahubproject.io/)
+  * [뱅크샐러드 Data Discovery Platform의 시작 | 뱅크샐러드](https://blog.banksalad.com/tech/the-starting-of-datadiscoveryplatform-era-in-banksalad/)
 * [dbt - Transform data in your warehouse](https://www.getdbt.com/)
   * [dbt로 ELT 파이프라인 효율적으로 관리하기](https://www.humphreyahn.dev/blog/efficient-elt-pipelines-with-dbt)
 * [Digdag - a simple tool that helps you to build, run, schedule, and monitor complex pipelines of tasks](http://www.digdag.io/) Data Workflow Management Opensource Engine
@@ -458,7 +460,6 @@ Data Science
 * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [city of Chicago](https://data.cityofchicago.org/)
-* [datahub.io/ko_KR](http://datahub.io/ko_KR/)
 * [datalab.naver.com](http://datalab.naver.com/)
 * [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
 * [Research data management simplified](https://www.globus.org/)
