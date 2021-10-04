@@ -501,6 +501,7 @@ Business
 * [존경받는 리더들이 가진 커뮤니케이션 패턴 8가지 : 네이버블로그](https://blog.naver.com/wishket/221881394270)
 * [아담 그랜트가 말하는 “고집 불통 리더”를 설득하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240026)
 * [5 whys로 디자인에 설득력 더하기](https://brunch.co.kr/@cliche-cliche/113)
+* [메타버스 근무일지 ③만나지 않고 화상회의·슬랙만 하면 어떤 일이 생길까](https://www.bloter.net/newsView/blt202110040010) 소통의 빈도 < 깊이
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
@@ -906,6 +907,7 @@ Business
 * [어떻게 알토스벤처스는 한국에서 가장 핫한 VC가 됐을까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/altosventures20181028)
 * [스타트업을 시작하기 전에 몰랐던 것들](https://brunch.co.kr/@svillustrated/111)
 * [왜 스타트업으로 오고 싶으세요? | ㅍㅍㅅㅅ](https://ppss.kr/archives/245966)
+* [남의집, 당근마켓에서 투자받다](https://brunch.co.kr/@yongisa/61) 투자까지 고생한 이야기
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
