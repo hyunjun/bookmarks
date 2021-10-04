@@ -447,6 +447,7 @@ R
 * [How to Set Up TensorFlow 2 in R in 5 Minutes (BONUS Image Recognition Tutorial)](https://www.r-bloggers.com/how-to-set-up-tensorflow-2-in-r-in-5-minutes-bonus-image-recognition-tutorial/)
 * [RStudio AI Blog: Please allow me to introduce myself: Torch for R](https://blogs.rstudio.com/ai/posts/2020-09-29-introducing-torch-for-r/)
 * [Simple audio classification with torch | R-bloggers](https://www.r-bloggers.com/2021/02/simple-audio-classification-with-torch/)
+* [Deep Learning with R and Keras: Build a Handwritten Digit Classifier in 10 Minutes - Better Data Science](https://betterdatascience.com/deep-learning-with-r-and-keras-build-a-handwritten-digit-classifier-in-10-minutes/)
 * [text-to-speech - 문자 음성 변환 프로그램](https://statkclee.github.io/deep-learning/r-tts.html)
 * torch [딥러닝 공략집 with R](https://statisticsplaybook.github.io/deeplearning-playbook/)
 
