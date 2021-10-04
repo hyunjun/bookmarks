@@ -4426,6 +4426,7 @@ Python
 * [Python 3.9에 등장한 상큼한 8가지 Features | MADTECH](https://tech.madup.com/Python3.9/)
 * [New Features in Python 3.10 | Towards Data Science](https://towardsdatascience.com/new-features-in-python-3-10-66ac05e62fc7)
 * [How to use the coolest new features in Python 3.10](https://thenextweb.com/news/how-to-use-new-features-python-3-10-syndication)
+* [Python 3.10 – Top 5 Features in the new Version | Rubik's Code](https://rubikscode.net/2021/10/04/python-3-10-top-5-features-in-the-new-python-version/)
 * [Python 3.11 새로운 기능 및 수정점 : 네이버 블로그](https://blog.naver.com/vwjdalsgkv/222510221530)
 * [Features You Likely Don’t Use in Python 3 — But You Should | LaptrinhX](https://laptrinhx.com/features-you-likely-don-t-use-in-python-3-but-you-should-2455806769/)
 * [9 Python 3 Hacks Programmers Probably Don’t Utilize | Better Programming](https://medium.com/better-programming/9-python-3-features-you-might-not-use-yet-fade13932a3e)
