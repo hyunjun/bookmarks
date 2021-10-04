@@ -723,6 +723,10 @@ Java
 * [Java 17 / JDK 17 : General Availability | GeekNews](https://news.hada.io/topic?id=5018)
 * [Why and How to Upgrade to Java 16 or 17](https://www.infoq.com/articles/why-how-upgrade-java17/)
 * [OptaPlanner - How much faster is Java 17?](https://www.optaplanner.org/blog/2021/09/15/HowMuchFasterIsJava17.html)
+  * OpenJDK 기준 11에서 17로 올렸을 때 16에서 17로 올렸을 때 비교
+  * G1GC 기준 17이 11보다 약 8.66% 빠르고 16보다는 2.41% 빠름
+  * ParallelGC 기준 17이 11보다 약 6.54% 빠르고 16보다는 0.37% 빠름
+  * 17에서 ParallelGC는 G1GC보다 16.39% 빠름
 * [JDK 17 G1/Parallel GC changes](https://tschatzl.github.io/2021/09/16/jdk17-g1-parallel-gc-changes.html)
 * [Springboot Java17 with jlink. 안녕하세요. Kevin 입니다. | by Kevin Park | Sep, 2021 | Medium](https://kevin-park.medium.com/springboot-java17-with-jlink-ec0242910c36)
 * [Revisiting Java in 2021 - I](https://www.avanwyk.com/revisiting-java-in-2021-i/)
