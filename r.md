@@ -334,6 +334,7 @@ R
 * [R+port](https://bookdown.org/allenpark88/market_report/2021-market-report.html)
   * [R-code-for-finance/market-report.rmd at master · parkminhyung/R-code-for-finance](https://github.com/parkminhyung/R-code-for-finance/blob/master/market-report.rmd)
 * [집값예측 캐글스터디 - R에서 Box-Cox 변환 전처리 하기 - YouTube](https://www.youtube.com/watch?v=Mz2baOYbXtg)
+* [Best Practices for Durable R Code | R-bloggers](https://www.r-bloggers.com/2021/09/best-practices-for-durable-r-code/)
 
 # API
 * [REX: Look around – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2229)
