@@ -551,6 +551,7 @@ Apache
 * How to Lose Messages on a Kafka Cluster
   * [Part 1](https://jack-vanlightly.com/blog/2018/9/14/how-to-lose-messages-on-a-kafka-cluster-part1)
   * [Part 2](https://jack-vanlightly.com/blog/2018/9/18/how-to-lose-messages-on-a-kafka-cluster-part-2)
+* [Kafka 클러스터 메세지 발행 및 문제 해결 :: 당근케잌](https://yeon-kr.tistory.com/186)
 * [Kafka Using Java. Part 1](https://medium.com/pharos-production/kafka-using-java-e10bfeec8638)
 * [Kafka Using Java. Part 2](https://medium.com/pharos-production/kafka-using-java-part-2-83fd604ed627)
 * [**blog.voidmainvoid.net/category/.../Kafka**](https://blog.voidmainvoid.net/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0/Kafka)
