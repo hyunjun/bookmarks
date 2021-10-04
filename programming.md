@@ -210,7 +210,7 @@ Programming
 * [IDG 블로그 | 2017년에 버려질 빅데이터 도구 7가지](http://www.itworld.co.kr/news/101665)
 * [musicforprogramming.net](http://musicforprogramming.net)
 * [라이브러리, 프레임워크, 아키텍처, 플래폼이란?](http://blog.gaerae.com/2016/11/what-is-library-and-framework-and-architecture-and-platform.html)
-* [**'기능 공장'에서 일하고 있다는 12가지 신호**](https://brunch.co.kr/@cojette/31)
+* [프레임워크가 무엇이고, 어떻게 사용해야할까?? (프레임워크 동작방식 예제)](https://velog.io/@couchcoding/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EA%B0%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 * [ehpub.co.kr](http://ehpub.co.kr/)
 * [MENA 지역 서비스 개발시 알아두면 좋은 사항들 1/2](http://www.popit.kr/mena-%EC%A7%80%EC%97%AD-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%82%AC%ED%95%AD%EB%93%A4-12/) localization internationalization i18n
 * [Building Airbnb’s Internationalization Platform | by Hua Zheng | Airbnb Engineering & Data Science | Oct, 2020 | Medium](https://medium.com/airbnb-engineering/building-airbnbs-internationalization-platform-45cf0104b63c)
@@ -2924,13 +2924,14 @@ Programming
 * [From Zero to main(): How to Write a Bootloader from Scratch | Interrupt](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
 * [Why interruptions are frustrating to developers | Tellspin](https://tellspin.app/blog/why-interruptions-are-frustrating-to-developers/)
 * [운영체제: 01. 운영체제가 뭐길래? - YouTube](https://www.youtube.com/watch?v=zGBm37kze9I)
-* [Cosmos (C# Open Source Managed Operating System) - an operating system development kit](https://www.gocosmos.org/)
 * [MIT CSAIL Parallel and Distributed Operating Systems Group](https://pdos.csail.mit.edu/projects/biscuit.html)
 * [STM32를 활용한 FreeRTOS 입문](https://www.g.camp/tag/freertos_2020)
-* [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6.html)
 * [Course Operating System (CPA310) - 운영체제 강의 - YouTube](https://www.youtube.com/playlist?list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN)
+* [레스토랑에 비유해서 알아보는 운영체제 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/10/04/OS-Restaurant.html)
+* [Cosmos (C# Open Source Managed Operating System) - an operating system development kit](https://www.gocosmos.org/)
 * [winix: A UNIX-style Operating System for the Waikato RISC Architecture Microprocessor (WRAMP)](https://github.com/halfer53/winix)
 * [x86-bare-metal-examples: Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QEMU 2.10中的Ubuntu 17.10主机和真实硬件上进行了测试。 Userland作弊网址：https：//github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM裸机安装程序位于：https：//github.com/cirosantilli/linux-kernel-module-cheat#baremetal- 设置](https://github.com/cirosantilli/x86-bare-metal-examples)
+* [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6.html)
 
 # Parser
 * [Parser generators vs. handwritten parsers: surveying major language implementations in 2021 | notes.eatonphil.com](https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html)
@@ -3164,6 +3165,7 @@ Programming
 * [CPO(VPP)가 해야 할일 – SaaSTR 후기](https://architecture101.blog/2019/09/16/what-a-great-cpo-really-does/)
 
 # Software Engineering
+* [**'기능 공장'에서 일하고 있다는 12가지 신호**](https://brunch.co.kr/@cojette/31)
 * [Frequently Forgotten Fundamental Facts about Software Engineering](http://www.kictanet.or.ke/wp-content/uploads/2012/08/Forgotten-Fundamentals-IEEE-Software-May2001.pdf)
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [현장에서 사용하는 Software production](https://www.slideshare.net/brotherjinho/software-production-157160056)
