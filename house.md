@@ -108,6 +108,7 @@ House
   * 준공 후 미분양 감소 시기
   * 정부가 경기부양하는 시기(e.g. 2014년)
   * 경매 낙찰가율이 평균보다 낮은 시기(역사적으로 서울 평균 80%인데 현재 120%) https://www.ggi.co.kr/ 낙찰가율
+* [부동산 중개 수수료 저렴하게...거래할 수 있는 곳 정리](https://open-support.tistory.com/entry/%EB%B6%80%EB%8F%99%EC%82%B0-%EC%A4%91%EA%B0%9C-%EC%88%98%EC%88%98%EB%A3%8C-%EC%A0%80%EB%A0%B4%ED%95%98%EA%B2%8C%EA%B1%B0%EB%9E%98%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EA%B3%B3-%EC%A0%95%EB%A6%AC)
 
 # Library
 * [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)
