@@ -394,6 +394,7 @@ Algorithm
 * [Genetic Algorithm Implementation in Python](https://www.kdnuggets.com/2018/07/genetic-algorithm-implementation-python.html)
 * [GeneticAlgorithmPython](https://github.com/ahmedfgad/GeneticAlgorithmPython)
 * [Genetic Algorithm Implementation in Python](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6)
+* [유전 알고리즘](https://gils-lab.tistory.com/29)
 
 # Graph
 * [2016 그래프이론](https://www.youtube.com/playlist?list=PL52K_8WQO5oXTfEr3nVK3HllrB71hZ-AF)
