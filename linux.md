@@ -439,6 +439,8 @@ Linux
   * [리눅스 awk 명령어 : 원하는 컬럼을 출력한다](https://codingdog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-awk-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%9B%90%ED%95%98%EB%8A%94-%EC%BB%AC%EB%9F%BC%EC%9D%84-%EC%B6%9C%EB%A0%A5%ED%95%9C%EB%8B%A4)
   * [awk: BEGIN { ... | Jemma Issroff](https://jemma.dev/blog/awk-part-1)
   * [An Introduction to AWK – The New Stack](https://thenewstack.io/an-introduction-to-awk/)
+  * [Understanding AWK - Earthly Blog](https://earthly.dev/blog/awk-examples/)
+    *  awk가 어떻게 입력데이터의 행과 열을 다루는지 보여주고 아마존의 1,900만 개의 리뷰의 데이터를 awk로 처리해서 랭크를 매겨주는 프로그램 작성
 * `basename` get file name from path
   * e.g. `$ basename /tmp/mdstat.tmp .tmp` returns `mdstat`
 * `bc`
@@ -946,6 +948,9 @@ Linux
 * [TIL: eBPF is awesome](https://filipnikolovski.com/posts/ebpf/)
 * [How To Add eBPF Observability To Your Product](https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html)
 * [eBPF 재단 출범 | GeekNews](https://news.hada.io/topic?id=4816)
+* [Debugging with eBPF Part 1: Tracing Go function arguments in prod | Pixie Labs Blog](https://blog.px.dev/ebpf-function-tracing/)
+* [Debugging with eBPF Part 2: Tracing full body HTTP request/responses | Pixie Labs Blog](https://blog.px.dev/ebpf-http-tracing/)
+* [Debugging with eBPF Part 3: Tracing SSL/TLS connections | Pixie Labs Blog](https://blog.px.dev/ebpf-openssl-tracing/)
 * [**Interactive map of Linux kernel**](https://makelinux.github.io/kernel/map/)
 * [Submitting your first patch to the Linux kernel - Cristian Henrique - Medium](https://medium.com/@crhenr/submitting-your-first-patch-to-the-linux-kernel-e81d2541fac6)
 * [Getting started with Linux kernel development](https://gist.github.com/vegard/22200a9f91af138a99ae22a9b814a9a4)
