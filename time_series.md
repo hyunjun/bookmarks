@@ -84,6 +84,7 @@ Time Series
 * [Khronus - A reactive time series database](https://github.com/Searchlight/khronus)
 * [M3 - The fully open source metrics platform built on M3DB, a distributed timeseries database](https://www.m3db.io/)
   * [Introducing M3 - The Time-Series Infrastructure that Powers Metrics at Uber](https://towardsdatascience.com/introducing-m3-8790c503ce24)
+* [Merlion: Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/merlion)
 * [MetricsDB: TimeSeries Database for storing metrics at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb.html)
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/)
   * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
