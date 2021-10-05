@@ -475,6 +475,7 @@ Data Visualization
 * [Matplotlib 3D Plots (2) | Pega Devlog](https://jehyunlee.github.io/2021/07/10/Python-DS-80-mpl3d2/)
 * [Streamgraph - Movie Genres | Pega Devlog](https://jehyunlee.github.io/2021/08/09/Python-DS-81-streamgraph/)
 * [3D curved surfaces | Pega Devlog](https://jehyunlee.github.io/2021/09/03/Python-DS-84-sphere/)
+* [Population by gender and age | Pega Devlog](https://jehyunlee.github.io/2021/10/05/Python-DS-85-popkr/)
 * [**itermplot - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal**](https://github.com/daleroberts/itermplot)
 * [mpld3 - Plotly 랑 Bokeh 공부하기 귀찮다. 그냥 matplotlib 를 사용해서 웹서비스하자](http://hamait.tistory.com/850)
 * [prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries](https://github.com/marceloprates/prettymaps)
