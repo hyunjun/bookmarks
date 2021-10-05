@@ -2886,6 +2886,8 @@ Python
   * [Automated Report Generation with Papermill: Part 1](https://pbpython.com/papermil-rclone-report-1.html)
   * [Automated Report Generation with Papermill: Part 2](https://pbpython.com/papermil-rclone-report-2.html)
 * [Pineapple - The next generation of scientific notebook. A standalone frontend to IPython for Mac](http://nwhitehead.github.io/pineapple/)
+* [ploomber: Write maintainable, production-ready pipelines using Jupyter or your favorite text editor. Develop locally, deploy to the cloud](https://github.com/ploomber/ploomber)
+  * [Developing Maintainable Data Pipelines With Jupyter and Ploomber I PyData Chicago I September Meetup - YouTube](https://www.youtube.com/watch?v=qUL7QabcKcw)
 * [**polynote - The polyglot notebook with first-class Scala support**](https://polynote.org)
   * [Open-sourcing Polynote: an IDE-inspired polyglot notebook](https://medium.com/netflix-techblog/open-sourcing-polynote-an-ide-inspired-polyglot-notebook-7f929d3f447)
   * [hub.docker.com/r/k3vin/polynote-spark](https://hub.docker.com/r/k3vin/polynote-spark)
