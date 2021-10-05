@@ -289,6 +289,7 @@ Git
 * [Automating a software company with GitHub Actions - PostHog](https://posthog.com/blog/automating-a-software-company-with-github-actions)
 * [Github Actions 로컬 개발 환경 구성하기 - Burt.K](https://blog.burt.pe.kr/posts/skyfe79-blog.contents-980082002-post-26/)
 * [GitHub Actions: Ephemeral self-hosted runners & new webhooks for auto-scaling | GitHub Changelog](https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/)
+* [Next.js AWS S3를 통한 정적 웹 사이트 배포 및 GitHub Actions를 통한 CI/CD](https://weekwith.tistory.com/entry/Nextjs-AWS-S3%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%A0%95%EC%A0%81-%EC%9B%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%B0%ED%8F%AC-%EB%B0%8F-GitHub-Actions%E1%84%85%E1%85%B3%E1%86%AF-%E1%84%90%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB-CICD)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
