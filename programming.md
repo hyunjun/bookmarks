@@ -1598,6 +1598,7 @@ Programming
 * [뉴크루 온보딩 코드 리뷰어로 참여하기 – 카카오는 주니어와 함께 성장합니다. – tech.kakao.com](https://tech.kakao.com/2021/04/08/welcome-new-krew3/)
 * [글로벌 기업은 코드 리뷰를 어떻게 할까요? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=30978428&memberNo=36733075&navigationType=push)
 * [How to Review Someone Else’s Code: Tips and Best Practices](https://www.codecademy.com/resources/blog/code-review-best-practices/)
+* [코드 리뷰프로세스를 도입/개선하고자 하는데 어떻게 해야할까요? | by gon Kim | elecle | Oct, 2021 | Medium](https://medium.com/elecle-bike/%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC-%EB%8F%84%EC%9E%85-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B3%A0%EC%9E%90-%ED%95%98%EB%8A%94%EB%8D%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C%EC%9A%94-1e5df5f8949b)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 * [Measuring enterprise developer productivity - The GitHub Blog](https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/)
 * [How to Kill Your Developer Productivity - DZone DevOps](https://dzone.com/articles/how-to-kill-your-developer-productivity-humanitec)
