@@ -3102,6 +3102,7 @@ Javascript
 * [React Hook and Recompose](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181029-20181109/20181101_BB_React_hook_and_recompose.md)
 * [About React Hook](https://medium.com/vingle-tech-blog/react-hook-ec3f25c2d8fa)
 * [리액트 훅! 코드를 따라치며 배워보자!](https://www.youtube.com/watch?v=ZRH23R2MlbY)
+* [React Hooks 1시간 42분 7초 만에 정복하기 - YouTube](https://www.youtube.com/watch?v=4Md2xcl4fec)
 * [react-action-listener: Middleware, React hook which allows making side effect and listening actions of Context or Redux](https://github.com/qkreltms/react-action-listener)
 
 ## React Native
