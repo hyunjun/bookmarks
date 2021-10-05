@@ -1702,6 +1702,7 @@ Deep Learning
 * [Graph Nets - DeepMind's library for building graph networks in Tensorflow and Sonnet](https://github.com/deepmind/graph_nets)
 * [How Uber uses Graph Neural Networks to recommend you food (live stream) - YouTube](https://www.youtube.com/watch?v=9O9osybNvyY)
 * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+* [Representative graph neural network Review!! - YouTube](https://www.youtube.com/watch?v=z-UUq8x1oRw)
 * [Convolutional neural network in practice](http://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
 * [딥러닝 - 초보자를 위한 컨볼루셔널 네트워크를 이용한 이미지 인식의 이해](http://bcho.tistory.com/1149)
