@@ -908,6 +908,7 @@ Business
 * [스타트업을 시작하기 전에 몰랐던 것들](https://brunch.co.kr/@svillustrated/111)
 * [왜 스타트업으로 오고 싶으세요? | ㅍㅍㅅㅅ](https://ppss.kr/archives/245966)
 * [남의집, 당근마켓에서 투자받다](https://brunch.co.kr/@yongisa/61) 투자까지 고생한 이야기
+* [이상적인 CFO의 5가지 조건](https://www.venturesquare.net/839324)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
