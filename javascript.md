@@ -2522,6 +2522,7 @@ Javascript
 * [React.js 강좌 시리즈](https://www.youtube.com/playlist?list=PL9FpF_z-xR_GMujql3S_XGV2SpdfDBkeC)
 * [React Transition 강좌](https://www.miriya.net/p/271)
 * [리액트 무료 강좌(웹게임)](https://www.youtube.com/playlist?list=PLcqDmjxt30RtqbStQqk-eYMK8N-1SYIFn)
+* [리액트js (Reactjs) 기초 익히기 기본 강좌 - YouTube](https://www.youtube.com/playlist?list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX)
 * [ReactJS로 웹 서비스 만들기](https://academy.nomadcoders.co/courses/enrolled/216871)
 * [Free Course Fridays: Hello React — React Training for JavaScript Beginners](https://codeburst.io/free-course-fridays-hello-react-react-training-for-javascript-beginners-71cba2698735)
 * [Reactjs JavaScript Tutorial - Full Course 10 Hours (2020)](https://morioh.com/p/e183701d79aa)
