@@ -828,6 +828,7 @@ SQL
 * [PostgreSQL에서 Order By가 선적용되는 슬로우 쿼리 해결책](https://jojoldu.tistory.com/596)
 * [Five Things You Didn't Know About PostgreSQL | Kevin's Blog](https://blog.kevinlee.io/blog/2012/08/25/five-things-you-didnt-know-about-postgresql/)
 * [PostgreSQL 서버 관리자 지침서](https://docs.google.com/document/u/2/d/e/2PACX-1vTDZ9xHfw301ADVShOtjrcVHyqwS6HMfrNfRA_qRT5NTik25yyc9x1DJPyb6t5eTNAiCiQbNULS4tId/pub)
+* [PostgreSQL 14 on Kubernetes (with examples!)](https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes)
 * EdgeDB
   * [EdgeDB—The next generation database](https://edgedb.com/)
   * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
