@@ -101,6 +101,7 @@ Docker
 * [Docker and Btrfs in practice](https://docs.docker.com/engine/userguide/storagedriver/btrfs-driver/)
 * [Docker Best Practices](https://medium.com/rainist-engineering/docker-best-practices-8b4f28ab3a65)
 * [도커 베스트 프랙티스 (번역)](https://changhoi.github.io/posts/docker/Docker-best-practices/)
+* [Docker Best Practices for Python Developers | TestDriven.io](https://testdriven.io/blog/docker-best-practices/)
 * ['쓸만한' Docker Image 만들기 - Part 1 Build an Usable Docker Image with Alpine Linux](http://www.sauru.so/blog/build-usable-docker-image-part1/)
 * [효율적인 도커 이미지 만들기 #1 - 작은 도커 이미지](https://bcho.tistory.com/1356)
 * [효율적인 도커 이미지 만들기 #2 - 도커 레이어 캐슁을 통한 빌드/배포 속도 높이기](https://bcho.tistory.com/1357)
