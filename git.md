@@ -168,6 +168,7 @@ Git
 * [Unlocking GitHub's Hidden Feature in 3 Minutes - YouTube](https://www.youtube.com/watch?v=0_RDoNJ1zGg)
 * [Github Profile Readme로 프로필 꾸미기 · 어쩐지 오늘은](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/)
 * [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)
+* [README Badge를 커스텀 해보자!](https://velog.io/@juunini/README-Badge%EB%A5%BC-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%95%B4%EB%B3%B4%EC%9E%90)
 * [Bitbucket 쉽게 시작하는 방법 & 사용법](https://blog.naver.com/silvury14/220918267535)
 * [기존 프로젝트를 Bitbucket과 SourceTree로 올려보자](https://developer88.tistory.com/65)
 * [Github Two Factor 인증 설정하기 (feat. Authenticator)](https://jojoldu.tistory.com/449)
