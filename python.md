@@ -1602,6 +1602,7 @@ Python
 * [더북(TheBook): 모두의 파이썬: 20일 만에 배우는 프로그래밍 기초(개정판)](https://thebook.io/007026/)
 * [더북(TheBook): 파이썬 코딩의 기술 - 개정 2판](https://thebook.io/080235/) 1~2장만
 * [xwMOOC: 프로그래밍과 문제해결](https://statkclee.github.io/code-perspectives/) 파이썬, 리보그, 러플
+* [정보교육을 위한 파이썬 저자: Charles Severance 번역: 이광춘(xwMOOC)](https://statkclee.github.io/pythonlearn-kr/book.pdf)
 * [FIND THE BEST PYTHON BOOKS](http://pythonbooks.org/)
 * [11 Best Python Books To Read in 2020 - Nextotech](https://nextotech.com/best-python-books-in-2020/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
