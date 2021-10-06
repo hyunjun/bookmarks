@@ -46,6 +46,13 @@ House
   * 보통 대항력(전입신고) 있으면 계속 살 수 있는데 등기부에 세입자보다 선수위 채권(저당권 등)이 있을 경우 문제
   * 그래도 최우선변제금까지는 받을 수 있음. 우리나라 법은 웬만해선 임차인에게 유리하도록 되어있긴 함
   * 다만 전세인지 월세인지 등기가 되었는지 대항력이 있는지 확정일자는 언제받았는지 보증금은 얼마인지 등 상황에 따라 차이가 있음
+* [전세 · 월세계약서 나에게 유리하게 쓰는 TIP 4](https://www.youtube.com/watch?v=e8TFgcXc5vc)
+* [전세 사기를 피하는 3가지 방법](http://moneyman.kr/archives/7872)
+  * [서평 부동산 상식사전 : 네이버 블로그](https://blog.naver.com/zbxmsla/221473193627)
+* [전세계약대리인 주의합시다](https://blog.naver.com/hs-villa/221320279967)
+* [**역전세 상황에서 전세금 미반환으로 인한 소송 및 강제경매까지 후기**](https://gist.github.com/hyunjun/d35dc920155b31a259c47a59f142ee73#file-md)
+* [매거진 | 보증금을 지키는 방법, 전세권 설정](https://www.goodchobo.com/magazine/MZTY/529)
+* [루나의 전세역전 - 프롤로그 : 네이버 블로그](https://blog.naver.com/lunaparkblog/222385025290)
 * [등기부등본 보는법 핵심정리 / 자취방 구하기 EP.10 - YouTube](https://www.youtube.com/watch?v=EkhMPS_qnts)
   * 열람할 때 '요약'도 체크해서 볼 것
 * [건축물대장과 등기부등본은 세트다. 건축물대장 보는법 속성 - YouTube](https://www.youtube.com/watch?v=W6rLIYhFUQk)
@@ -77,15 +84,10 @@ House
 * [입주 전 새 아파트, 어디를 어떻게 점검해야 할까?](http://board.realestate.daum.net/gaia/do/estate/power/read?bbsId=power&articleId=1011&pageIndex=1)
 * [묵시적 갱신](https://blog.naver.com/cy4028/221146795130)
 * [집 계약할 때 알아야 하는 서류 4총사](http://move.realestate.daum.net/tipview.asp?idx=46)
-* [전세 · 월세계약서 나에게 유리하게 쓰는 TIP 4](https://www.youtube.com/watch?v=e8TFgcXc5vc)
-* [전세 사기를 피하는 3가지 방법](http://moneyman.kr/archives/7872)
-  * [서평 부동산 상식사전 : 네이버 블로그](https://blog.naver.com/zbxmsla/221473193627)
 * ["집에 비가 새요"..집주인 vs 세입자, 누구 책임일까](http://v.media.daum.net/v/20180712051510817)
 * [**부동산 시장의 신호와 소음**](https://brunch.co.kr/@charlieoppa86/33)
 * [베란다·발코니 차이 모르고 집샀다가 '이행강제금 폭탄'](https://news.v.daum.net/v/20181023040105309)
 * [집 구할 때 주의할 점](https://imgur.com/a/3eCbRa2)
-* [전세계약대리인 주의합시다](https://blog.naver.com/hs-villa/221320279967)
-* [**역전세 상황에서 전세금 미반환으로 인한 소송 및 강제경매까지 후기**](https://gist.github.com/hyunjun/d35dc920155b31a259c47a59f142ee73#file-md)
 * [EBS가 이상해 — “EBS 경제대기획 빚 3부작”](https://medium.com/@ghilbut/ebs%EA%B0%80-%EB%A7%8E%EC%9D%B4-%EC%95%84%ED%8C%8C-ebs-%EA%B2%BD%EC%A0%9C%EB%8C%80%EA%B8%B0%ED%9A%8D-%EB%B9%9A-3%EB%B6%80%EC%9E%91-6ddb8a45e4d)
 * 미세 먼지
   * [실내 공기질 개선 관련 팁들](http://blog.chesterventures.com/221492244810)
@@ -102,7 +104,6 @@ House
   * 전세대비 저평가지수, 처분가능소득 vs 매수, KB부동산지수 vs 물가지수 누적증감률, 물가대비 저평가 index, 주택구매력지수(HAI) vs 매매, GDP대비 시가총액, 시가총액 / 국민순자산
 * [기사 - 생중계 인알못의 인테리어 턴키 시공기1 : 서울을 떠나며](https://www.ddanzi.com/ddanziNews/671587897)
 * [보푸라기 아랫집 누수사고 '일배책'으로 보상받자](https://news.v.daum.net/v/20210731100505549) 일상생활배상책임보험
-* [매거진 | 보증금을 지키는 방법, 전세권 설정](https://www.goodchobo.com/magazine/MZTY/529)
 * [부동산 저가매수 타이밍? 이때 사야합니다! - 홍춘욱 - YouTube](https://www.youtube.com/watch?v=Z2d2tQXH5-M)
   * 주택구입부담지수 역사적평균(서울 120 경기도 80 전국 60)보다 낮은 시기 (2021.09 현재 서울 180)
   * 준공 후 미분양 감소 시기
