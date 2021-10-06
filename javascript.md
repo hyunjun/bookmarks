@@ -3035,6 +3035,7 @@ Javascript
 * [Mobile Convergence :: MS-8 NestJS Auth/Role 기능 Gateway에 추가하기](https://mobicon.tistory.com/591)
 * [Mobile Convergence :: MS-9 Login 화면 개발](https://mobicon.tistory.com/592)
 * [Mobile Convergence :: MS-10 API/Web i18n 적용 및 리팩토링](https://mobicon.tistory.com/594)
+* [라이브 플레이어 UI 개선기](https://d2.naver.com/helloworld/0203261)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
