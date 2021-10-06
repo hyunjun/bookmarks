@@ -522,6 +522,7 @@ Docker
 * [코딩스타트 :: Jenkins - Jenkins dood(docker out of docker)로 실행시켜 agent docker 사용하기](https://coding-start.tistory.com/329)
 * [Docker Out of Docker (DooD) - 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=3382)
 * [Containers Don't Solve Everything](https://blog.deref.io/containers-dont-solve-everything/)
+* [VMware Tanzu Community Edition Released - ServeTheHome](https://www.servethehome.com/vmware-tanzu-community-edition-released/)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -630,6 +631,7 @@ Docker
   * pipe-like, stdin, stdout; 몇 가지 테스트해봤으나 잘 안됨
     * [Attach stdout of one container to stdin of another (pipe-like)](https://github.com/moby/moby/issues/14221)
   * [docker run 과 docker 네트워크 설정, 컨테이너 라이프사이클](http://www.leafcats.com/191)
+  * [What Are Docker Labels and When Should You Use Them? – CloudSavvy IT](https://www.cloudsavvyit.com/14348/what-are-docker-labels-and-when-should-you-use-them/)
 * scan [How to use Docker Security Scan Locally](https://brianchristner.io/how-to-use-docker-scan/)
 * stop `sudo docker stop [container id]`
 * [system prune](https://docs.docker.com/engine/reference/commandline/system_prune/)
