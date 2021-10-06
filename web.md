@@ -229,6 +229,7 @@ Web
   * prerender
     * 크로미움에서 기존 구현체가 메모리를 너무 많이 사용해서 no-state prefetch로 다시 구현
     * Quicklink, Guess.js 등의 서드파티 라이브러리 존재
+* [추론적인 프리렌더링으로 빠르게 페이지 로드하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20211006) prefetch prerender
 * [WAI-ARIA란?](https://story.pxd.co.kr/1588)
   * WAI(Web Accessibility Initiative)에서 리치 애플리케이션의 접근성 표준인 ARIA를 어떻게 사용해야 하는지 설명
     * 사용했을 때 스크린 리더기에서 어떻게 동작하는지 영상을 같이 제공하고 있어서 이해 용이
