@@ -3319,8 +3319,10 @@ Programming
 * [왜 굳이 A/B 테스트인가요?](https://lumiamitie.github.io/data/why-ab-test/)
 * [Decision Making at Netflix. Part 1 in a multipart series about… | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481)
 * [What is an A/B Test?. This is the second post in a multi-part… | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962)
+* [A/B 테스트의 확장판, MAB (Multi-Armed Bandits) 알고리즘 | Be Geeky](https://assaeunji.github.io/bayesian/2021-01-30-mab/) 문제의식은 이해하지만 활용은 아직 어려울 듯
 * [growthbook: The Open Source A/B Testing Platform](https://github.com/growthbook/growthbook)
   * [GrowthBook - 오픈소스 A/B 테스팅 플랫폼 | GeekNews](https://news.hada.io/topic?id=4844)
+* hackle [핵클: A/B 테스트, 기능 플래그 및 이상 징후 탐지 플랫폼](https://hackle.io/) 쿠팡 출신 엔지니어들이 만들었다는 A/B test platform
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
