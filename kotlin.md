@@ -219,6 +219,7 @@
 
 # Book
 * [더북(TheBook): 코틀린을 다루는 기술](https://thebook.io/080208/) 1~3장만
+  * [코틀린을 다루는 기술 #1 | Jungwoon Blog](https://jungwoon.github.io/kotlin/2021/10/06/Advanced-Kotlin-1.html)
 
 # Conference
 * [kotlinconf.com](https://kotlinconf.com/)
