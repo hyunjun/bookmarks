@@ -1465,6 +1465,7 @@ Programming Books
 * (NOT YET) [왜 리더인가(이나모리 가즈오 지음/김윤경 옮김/다산북스 펴냄) - YouTube](https://www.youtube.com/watch?v=_mhyRrB0pWs)
 * (NOT YET) [넷플릭스, '규칙 없음'](https://brunch.co.kr/@pliossun/170)
 * (NOT YET) [‘리더 디퍼런트’ - 인사이트](https://www.insight.co.kr/news/355641) Start with why, Simon Sinek
+* (NOT YET) [소방관의 선택](https://jhrogue.blogspot.com/2021/10/blog-post.html)
 
 # Math
 
