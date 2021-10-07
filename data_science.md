@@ -326,6 +326,7 @@ Data Science
 * [현대 신경과학은 과연 동키콩을 이해할 수 있는가 (2016) | GeekNews](https://news.hada.io/topic?id=4812) 기술적으로 관련이 있는 건 없지만 시사점이 있음
 * [Why MapReduce is making a comeback — Estuary](https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback)
 * [오늘의집 데이터 마케팅 활용법 : 유입 기여 분석 시스템 - 오늘의집 블로그](https://www.bucketplace.co.kr/post/2021-08-06-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A7%88%EC%BC%80%ED%8C%85-%ED%99%9C%EC%9A%A9%EB%B2%95-%EC%9C%A0%EC%9E%85-%EA%B8%B0%EC%97%AC-%EB%B6%84%EC%84%9D-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
+* [양질의 데이터를 판별하는 5가지 방법 : 데이터 양은 충분한가? | 요즘IT](https://yozm.wishket.com/magazine/detail/1070/)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
