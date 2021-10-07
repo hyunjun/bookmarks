@@ -122,6 +122,7 @@ Lisp
 * [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)
 * [Browsing the Web with Common Lisp](https://babbagefiles.xyz/next_browser-common_lisp)
 * [Lisp — mm-vis-js](https://sushilshik.github.io/lisp.html)
+* [Common Lisp for the Curious Clojurian - Alan Dipert - Scicloj meeting 19 - YouTube](https://www.youtube.com/watch?v=44Q9ew9JH_U)
 
 ## Common Lisp Library
 * [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)
