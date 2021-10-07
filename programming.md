@@ -3304,6 +3304,8 @@ Programming
 * [Thick Client Penetration Testing for beginners - YouTube](https://www.youtube.com/watch?v=cCChPFkq4cY)
 * [테스트 프로세스의 핵심구조 - ETVX Model | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/performancetest/ETVX/)
 * [LoadRunner Developer | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/performancetest/LoadRunnerDeveloper1/) DevWeb Vugen
+* [Test Driven Development Tutorial For Beginners - YouTube](https://www.youtube.com/watch?v=yfP_v6qCdcs)
+* [Getting Started with TDD - Part 2 - YouTube](https://www.youtube.com/watch?v=S4tMJKupvHg)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
