@@ -81,6 +81,7 @@
   * [스파크의 사용 환경 내용 - data bricks](http://knight76.tistory.com/entry/%ED%8E%8C-%EC%8A%A4%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%82%AC%EC%9A%A9-%ED%99%98%EA%B2%BD-%EB%B0%9C%ED%91%9C)
   * databricks community edition [Hands-On Training for Data Science and Machine Learning - YouTube](https://www.youtube.com/watch?v=3AdVRy1R_8s)
 * [What is shuffle read & shuffle write in Apache Spark](http://stackoverflow.com/questions/27276884/what-is-shuffle-read-shuffle-write-in-apache-spark)
+* [Spark Shuffle Partition과 최적화 – tech.kakao.com](https://tech.kakao.com/2021/10/08/spark-shuffle-partition/)
 * [Scrap your MapReduce! (Or, Introduction to Apache Spark)](http://rahulkavale.github.io/blog/2014/11/16/scrap-your-map-reduce/)
 * [Learning Spark](https://www.safaribooksonline.com/library/view/learning-spark/9781449359034/)
 * [Introduction to Data Science with Apache Spark](http://ko.hortonworks.com/blog/introduction-to-data-science-with-apache-spark/)
