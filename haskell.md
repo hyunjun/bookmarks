@@ -521,3 +521,5 @@ Haskell
 * [Learning Haskell: Getting Setup](https://levelup.gitconnected.com/learning-haskell-getting-setup-c1f2cc69d915)
 * [Getting Started with Haskell on Fedora - Fedora Magazine](https://fedoramagazine.org/getting-started-with-haskell-on-fedora/)
 * [FizzBuzz - You Suck at Coding 0 - YouTube](https://www.youtube.com/watch?v=mZWsyUKwTbg)
+* [learn4haskell :: Kowainik](https://kowainik.github.io/projects/learn4haskell)
+  * [learn4haskell: Learn Haskell basics in 4 pull requests](https://github.com/kowainik/learn4haskell)
