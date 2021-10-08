@@ -845,6 +845,7 @@ Machine Learning
     * [A Guide to using Logistic Regression for Digit Recognition (with Python codes)](https://medium.com/analytics-vidhya/a-guide-to-using-logistic-regression-for-digit-recognition-with-python-codes-86aae6da10fe)
     * [Learn how to Build Neural Networks from Scratch in Python for Digit Recognition](https://medium.com/analytics-vidhya/neural-networks-for-digits-recognition-e11d9dff00d5)
   * [**Machine Learning 정리**](http://soopsaram.com/ml/)
+* [Best Coursera Free Courses Machine Learning for Everyone in 2021](https://www.mltut.com/coursera-free-courses-machine-learning/)
 * [Learning from Data - Yaser S. Abu-MostafaYaser S. Abu-Mostafa Machine Learning course - recorded at a live broadcast from Caltech](http://work.caltech.edu/telecourse.html)
 * [CS7641 at Georgia Tech / Udacity](https://www.udacity.com/course/machine-learning--ud262)
 * [CS156 at Caltech](https://www.youtube.com/playlist?list=PLvx5ei9aEEqKgDZ7oaQGSToFi-QER4v1M)
