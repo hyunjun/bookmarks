@@ -134,6 +134,9 @@ Lisp
 * [nyxt: Nyxt - the Internet on your terms](https://github.com/atlas-engineer/nyxt)
   * [Next, the Programmable Web Browser (aka alternative to Chrome and Firefox) - YouTube](https://www.youtube.com/watch?v=gv0Q2u2hGgU)
 * [Option 9: A Shoot'em Up Miniature Video Game](http://pages.cs.wisc.edu/~psilord/lisp-public/option-9.html)
+* [stumpwm: The Stump Window Manager](https://github.com/stumpwm/stumpwm)
+  * [https://stumpwm.github.io](https://stumpwm.github.io/)
+  * [StumpWM - Overview Demo - YouTube](https://www.youtube.com/watch?v=jlF1N0R24cA)
 
 # Elisp
 * [Tutorial about programming Elisp and Emacs text editor customization](https://github.com/caiorss/Emacs-Elisp-Programming)
