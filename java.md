@@ -744,6 +744,7 @@ Java
 * [JDK Mission Control 8 Released](https://www.infoq.com/news/2021/04/jdk-mission-control-8-released/)
 * [JDKMon: A little tool written in JavaFX that monitors your installed JDK's and inform you about updates](https://github.com/HanSolo/JDKMon)
   * [Introducing JDKMon: a New Tool to Detect and Update JDKs](https://www.infoq.com/news/2021/08/jdkmon-java/)
+  * [윈도우 지원이 약한 SDKMan!을 대신할 JDKMon](https://jhrogue.blogspot.com/2021/10/b-sdkman-jdkmon.html)
 * [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
   * [윈도우에 여러 자바 설치하기](http://dalinaum.github.io/java/2021/03/07/multiple-jdks-2.html)
 
