@@ -1161,7 +1161,6 @@ Programming
 * [How to Explain Microservice](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/how-to-explain-microservice/10155839662608462/)
 * [Learning these 5 microservice patterns will make you a better engineer](https://hackernoon.com/learning-these-5-microservice-patterns-will-make-you-a-better-engineer-52fc779c470a)
 * [Microservices Architecture — A Journey of Understanding](https://codeburst.io/microservices-architecture-e6907b97a42a)
-* [Monolith Vs Microservice Vs Serverless — The Real Winner? The Developer](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
 * [Microservice Graph Explorer Open Sourced](https://medium.com/hootsuite-engineering/microservice-graph-explorer-open-sourced-9f5f6b1bd0bc)
 * **REST 기반의 간단한 분산 트랜잭션 구현** TCC Try-Confirm/Cancel
   * [1편 TCC 개관](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-1%ED%8E%B8/)
@@ -1383,6 +1382,7 @@ Programming
 * [효율적인 서버 관리를 찾아서, 서버리스(Serverless)](https://blog.ncsoft.com/platform-center-03-20210224/)
 * 서버리스 코리아 [2021년 5월 - YouTube](https://www.youtube.com/playlist?list=PLIUYAlRx8QDRsMxFPtK8b9xjXSunHvBUF)
 * [Seven guiding principles of serverless systems](https://www.advosight.com/post/seven-guiding-principles-of-serverless-systems)
+* [Monolith Vs Microservice Vs Serverless — The Real Winner? The Developer](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
