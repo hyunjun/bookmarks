@@ -236,6 +236,7 @@ Web
   * 접근성을 제공하기 위해 태그에 추가 정보 제공. 하지만, 태그의 의미 자체를 바꾸진 않아야 함
   * role로 컴포넌트나 요소 역할 정의
   * aria-required, aria-label같은 프로퍼티를 컴포넌트의 특징을 정의
+* [**브라우저의 사용자 에이전트는 왜 이렇게 복잡하게 생겼을까? - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2021/10/11/Why-User-Agent-string-is-so-complex.html)
 
 # Apache
 * installation
