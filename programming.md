@@ -459,6 +459,7 @@ Programming
 * [Zip - How not to design a file format](https://games.greggman.com/game/zip-rant/)
 * [APEX 사례로 보는 Low Code](https://jhrogue.blogspot.com/2021/09/apex-low-code.html)
 * [글로벌 칼럼 | 유지보수를 위한 다운타임, '유지보수 윈도우'는 정당화할 수 없다 - ITWorld Korea](https://www.itworld.co.kr/news/209072) 가용성, availability
+* [한·중·일 전산학 용어 대조 | GeekNews](https://news.hada.io/topic?id=5165)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
