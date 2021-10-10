@@ -1881,6 +1881,7 @@ Javascript
   * [How to fix NPM error “Unable to authenticate, need: Bearer Authentication_URI” in NodeJS | by Bryant Jimin Son | Sep, 2020 | Medium](https://medium.com/@bryantjiminson/how-to-fix-npm-error-unable-to-authenticate-need-bearer-authentication-uri-in-nodejs-4aab94b3f2cd)
   * [**꿀벌개발일지 :: npm registry 를 찾지 못하는 이슈**](https://ohgyun.com/804)
   * [Mac OS 업데이트 후, NPM install시 gyp 오류날 경우](https://jojoldu.tistory.com/566)
+  * [또 depedency 버전을 잘못 설치하고 말았다. | Hama Develop](https://www.hamadevelop.me/packagelock/)
   * [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/)
     * npm에서 보안 감사에 사용하는 npm audit이 문제 있다고 지적하는 글, React의 Dan Abramov 작성
     * npm aduit은 별도 명령어도 있지만 npm install을 실행했을 때도 자동 실행. 먼저 npm audit 동작 방식 설명
