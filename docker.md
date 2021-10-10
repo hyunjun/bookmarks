@@ -474,7 +474,6 @@ Docker
 * [Docker 기반 분산 트랜스코더 개발](https://d2.naver.com/helloworld/3661677)
 * [Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters](https://www.redhat.com/en/blog/architecting-containers-part-1-why-understanding-user-space-vs-kernel-space-matters)
 * [도커와 컨테이너의 이런저런 역사 이야기](https://prudentcircle.gitlab.io/posts/20190827_docker_history/)
-* [**Docker Container 내부 소켓 상태 확인 - nsenter와 netstat**](https://aidanbae.github.io/code/docker/docker-netstat/)
 * [클라우드 파운드리의 진화](https://slownews.kr/74385)
 * [How containers work: overlayfs](https://jvns.ca/blog/2019/11/18/how-containers-work--overlayfs/)
 * [만들면서 이해하는 도커(Docker) 이미지의 구조 - 도커 이미지 빌드 원리와 Overlayfs](https://www.44bits.io/ko/post/how-docker-image-work)
@@ -580,6 +579,10 @@ Docker
 * logs
   * `docker logs -f [container id]`
   * [docker 컨테이너 log 남기기](https://hoony-gunputer.tistory.com/entry/docker-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-log-%EB%82%A8%EA%B8%B0%EA%B8%B0)
+* nsenter
+  * [**Docker Container 내부 소켓 상태 확인 - nsenter와 netstat**](https://aidanbae.github.io/code/docker/docker-netstat/)
+  * [docker nsenter - 쩨로그](https://jaeho.tistory.com/22)
+  * [Yeah. Get a root shell at any Kubernetes *node* via `privileged: true` + `nsenter` sauce. PodSecurityPolicy will save us. DenyExecOnPrivileged didn't (kubectl-root-in-host-nopriv.sh exploits it)](https://gist.github.com/jjo/a8243c677f7e79f2f1d610f02365fdd7)
 * ps `sudo docker ps [-a]`
 * registry
 
@@ -1236,6 +1239,7 @@ Docker
   * [Containerizing your Microservice in Quarkus with Jib | by Iain Porter | Sep, 2020 | Medium](https://medium.com/@changeant/containerizing-your-microservice-in-quarkus-with-jib-fae0f62bd57e)
   * [Building a CI Pipeline for a Microservice in Quarkus with CircleCI | by Iain Porter | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/building-a-ci-pipeline-for-a-microservice-in-quarkus-with-circleci-11e9b679423f)
   * [Quarkus 2.0 Delivers Continuous Testing, CLI and Supports Minimal JDK 11](https://www.infoq.com/news/2021/08/quarkus-2-0-final-release/)
+  * [Quarkus: Get started with Kubernetes-native Java | InfoWorld](https://www.infoworld.com/article/3636228/quarkus-get-started-with-kubernetes-native-java.html)
 * [Rancher - Complete container management platform Deploy and manage Kubernetes with ease](https://rancher.com/)
   * [Purpose built OS for Kubernetes and fully managed by Kubernetes. https://k3os.io ](https://github.com/rancher/k3os)
   * [쿠버네티스 멀티 클라우드/클러스터를 위한 Rancher](https://bcho.tistory.com/1348)
