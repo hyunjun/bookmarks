@@ -1473,6 +1473,7 @@ Programming
 * [레드햇 vs. VM웨어: 2020 상반기 하이브리드·멀티 클라우드 동향 | 슬로우뉴스](https://slownews.kr/77138)
 * ["멀티클라우드에 범용성이란 없다" 그렇다면 해결책은? - ITWorld Korea](https://www.itworld.co.kr/news/189888)
 * ['멀티클라우드'의 11가지 그늘 - CIO Korea](https://www.ciokorea.com/news/193094)
+* [(정리) 멀티 클라우드로 게임 서비스 운영하기](https://brunch.co.kr/@topasvga/1927)
 * [감자박스 :: 오라클 클라우드에서 평생 무료로 VPS 사용하기](https://www.gamjaa.com/blog/1404)
 * [SQLD 실습용 오라클 클라우드 DB 생성하기](https://stricky.tistory.com/344)
 * [Oracle Cloud 방화벽 설정 (http/https 특정 포트 열기)](https://kibua20.tistory.com/124)
@@ -3312,6 +3313,7 @@ Programming
 * [LoadRunner Developer | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/performancetest/LoadRunnerDeveloper1/) DevWeb Vugen
 * [Test Driven Development Tutorial For Beginners - YouTube](https://www.youtube.com/watch?v=yfP_v6qCdcs)
 * [Getting Started with TDD - Part 2 - YouTube](https://www.youtube.com/watch?v=S4tMJKupvHg)
+* [트리거가 필요한 실험에서 결과의 신뢰성을 높이는 방법](https://lumiamitie.github.io/data/counterfactual-logging/) 모수가 적어 A/B test가 어려울 경우
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
