@@ -2523,6 +2523,7 @@ Javascript
 * [React Transition 강좌](https://www.miriya.net/p/271)
 * [리액트 무료 강좌(웹게임)](https://www.youtube.com/playlist?list=PLcqDmjxt30RtqbStQqk-eYMK8N-1SYIFn)
 * [리액트js (Reactjs) 기초 익히기 기본 강좌 - YouTube](https://www.youtube.com/playlist?list=PLB7CpjPWqHOuf62H44TMkMIsqfkIzcEcX)
+* [벨로퍼트와 함께하는 모던 리액트 · GitBook](https://react.vlpt.us/)
 * [ReactJS로 웹 서비스 만들기](https://academy.nomadcoders.co/courses/enrolled/216871)
 * [Free Course Fridays: Hello React — React Training for JavaScript Beginners](https://codeburst.io/free-course-fridays-hello-react-react-training-for-javascript-beginners-71cba2698735)
 * [Reactjs JavaScript Tutorial - Full Course 10 Hours (2020)](https://morioh.com/p/e183701d79aa)
@@ -3797,6 +3798,7 @@ Javascript
 * [TypeORM에서 Camelcase 필드를 Snake 컬럼에 매핑하기](https://jojoldu.tistory.com/568)
 * [1. TypeORM에서 페이징 API 만들기 - 기본페이징 기능](https://jojoldu.tistory.com/579)
 * [ORM typeorm-uml을 이용하여 데이터베이스 다이어그램 그리기](https://blog.naver.com/pjt3591oo/222472579823)
+* [TypeORM에서 연관관계 유지한채 FK만 제거하기 (w. NestJS)](https://jojoldu.tistory.com/605)
 * [express에서 콘솔로 찍은 로그를 HTTP 응답에 붙이기 · /usr/lib/libsora.so](https://libsora.so/posts/express-attach-console-log-to-response/)
 * [타입스크립트로 API 명세 작성하고 서버/클라 stub 생성하기 · /usr/lib/libsora.so](https://libsora.so/posts/stub-from-typescript-api-specification/)
 * [**callbackWaitsForEmptyEventLoop와 AWS Lambda의 함정 · /usr/lib/libsora.so**](https://libsora.so/posts/trap-callback-waits-for-empty-event-loop/) express
