@@ -3779,6 +3779,7 @@ Javascript
 * ['강력한 형식의 자바스크립트' 타입스크립트의 의미와 설치하기](http://www.itworld.co.kr/news/151532)
 * ['Practical Advanced TypeScript' 정리](https://rinae.dev/posts/practical-advanced-typescript-summary)
 * [TypeScript-Handbook 한글 문서](https://typescript-kr.github.io/)
+* [TypeScript Handbook 한글 번역본](https://vriz.notion.site/TypeScript-Handbook-45b1bc86f2ed4886b393a5586fcf2a31) 4.3.5를 기준 번역(+해석)본
 * [A Practical Guide to TypeScript - How to Build a Pokedex app using HTML, CSS, and TypeScript - DEV](https://dev.to/ibrahima92/a-practical-guide-to-typescript-how-to-build-a-pokedex-app-using-html-css-and-typescript-4h7p)
 * [What Can We Expect in TypeScript 4.0? - Better Programming - Medium](https://medium.com/better-programming/what-can-we-expect-in-typescript-4-0-b5be85021b90)
 * [TypeScript Best Practices —Useless Interfaces, Classes, and Promises](https://medium.com/swlh/typescript-best-practices-useless-interfaces-classes-and-promises-40ef6bdefa1b)
@@ -3821,7 +3822,6 @@ Javascript
 * [Building Strongly Typed REST Clients with TypeScript - YouTube](https://www.youtube.com/watch?v=aZ6nnGlfBG8)
 * [Lightning fast & simple Typescript Serverless builds - DEV Community](https://dev.to/aws-builders/lightning-fast-simple-typescript-serverless-builds-33ed)
 * [A TypeScript Express Starter App](https://morioh.com/p/8cd90da6e9c5)
-* [TypeScript Handbook 한글 번역본](https://vriz.notion.site/TypeScript-Handbook-45b1bc86f2ed4886b393a5586fcf2a31) 4.3.5를 기준 번역(+해석)본
 * [tsconfig의 모든 것 - 1. Root fields | Evans Library](https://evan-moon.github.io/2021/07/30/tsconfig-options-root-fields/)
 * [tsconfig의 모든 것 - 2. Compiler options > Type Checking | Evans Library](https://evan-moon.github.io/2021/08/08/tsconfig-compiler-options-type-check/)
 * [tsconfig.json이 뭔가요?](https://velog.io/@juunini/tsconfig.json%EC%9D%B4-%EB%AD%94%EA%B0%80%EC%9A%94)
@@ -3832,6 +3832,7 @@ Javascript
 * [tsconfig.json Editor Support](https://velog.io/@juunini/tsconfig.json-Editor-Support)
 * [tsconfig.json Interop Constraints](https://velog.io/@juunini/tsconfig.json-Interop-Constraints)
 * [Write Safer JavaScript Applications with TypeScript! - YouTube](https://www.youtube.com/watch?v=B3-EdIl7DFQ)
+* [한글로 TypeScript 코딩을 하면 무슨 문제가 생길까? - 1편](https://velog.io/@juunini/%ED%95%9C%EA%B8%80%EB%A1%9C-TypeScript-%EC%BD%94%EB%94%A9%EC%9D%84-%ED%95%98%EB%A9%B4-%EB%AC%B4%EC%8A%A8-%EB%AC%B8%EC%A0%9C%EA%B0%80-%EC%83%9D%EA%B8%B8%EA%B9%8C-1%ED%8E%B8)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
