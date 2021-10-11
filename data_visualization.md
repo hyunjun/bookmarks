@@ -292,6 +292,7 @@ Data Visualization
 * [Data Visualization using Python on Jupyter Notebook - YouTube](https://www.youtube.com/watch?v=tse_8LLWtfY)
 * [BayPiggies meeting January 2021: Serverless Computing with Wesley Chun and More! - YouTube](https://www.youtube.com/watch?v=nOj8y_gjSWI)
 * [Albert Tian Chen - COVIDCG:SARS-CoV-2 Mutation Tracking + Genomic Data Visualization | PyData Boston - YouTube](https://www.youtube.com/watch?v=G744eRCdAYo)
+* [Global AI Boot Camp Busan : 이왕이면 다홍 데이터 (Python Visualization)](https://www.slideshare.net/SubinAn1/ss-205782769)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
 * [Awesome Panel](https://awesome-panel.org/)
