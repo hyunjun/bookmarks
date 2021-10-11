@@ -503,6 +503,11 @@ Business
 * [아담 그랜트가 말하는 “고집 불통 리더”를 설득하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240026)
 * [5 whys로 디자인에 설득력 더하기](https://brunch.co.kr/@cliche-cliche/113)
 * [메타버스 근무일지 ③만나지 않고 화상회의·슬랙만 하면 어떤 일이 생길까](https://www.bloter.net/newsView/blt202110040010) 소통의 빈도 < 깊이
+* [커뮤니케이션이란 무엇인가? 어떻게 해야 효과적으로 협업을 할 수 있는가? (한빛미디어 의장 박태웅) - YouTube](https://www.youtube.com/watch?v=mS_jyMC4cxg)
+  * text가 아니라 context를 전달하라. 6 pager와 마찬가지 맥락
+  * content를 파편화시키지 말고 통합된 경로로 모아야 함(그 수단이 보통 confluence wiki). e.g. 첨부파일 X
+  * vision sharing도 쓸데없는 일이 아니라 이렇게라도 해야 communication이 되기 때문. 잭 웰치의 이야기와 통하는 건가?
+  * 추가. 일정을 짧은 단위로 잡는 게 좋은 이유: delay가 되더라도 빨리 알고 plan B를 확보할 가능성이 높아짐. 내가 story point를 8로 제한하려는 이유와 비슷함
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
