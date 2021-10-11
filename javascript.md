@@ -3834,6 +3834,7 @@ Javascript
 * [tsconfig.json Interop Constraints](https://velog.io/@juunini/tsconfig.json-Interop-Constraints)
 * [Write Safer JavaScript Applications with TypeScript! - YouTube](https://www.youtube.com/watch?v=B3-EdIl7DFQ)
 * [한글로 TypeScript 코딩을 하면 무슨 문제가 생길까? - 1편](https://velog.io/@juunini/%ED%95%9C%EA%B8%80%EB%A1%9C-TypeScript-%EC%BD%94%EB%94%A9%EC%9D%84-%ED%95%98%EB%A9%B4-%EB%AC%B4%EC%8A%A8-%EB%AC%B8%EC%A0%9C%EA%B0%80-%EC%83%9D%EA%B8%B8%EA%B9%8C-1%ED%8E%B8)
+* [한글로 TypeScript 코딩을 하면 무슨 문제가 생길까? - 2편](https://velog.io/@juunini/%ED%95%9C%EA%B8%80%EB%A1%9C-TypeScript-%EC%BD%94%EB%94%A9%EC%9D%84-%ED%95%98%EB%A9%B4-%EB%AC%B4%EC%8A%A8-%EB%AC%B8%EC%A0%9C%EA%B0%80-%EC%83%9D%EA%B8%B8%EA%B9%8C-2%ED%8E%B8)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
