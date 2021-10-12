@@ -747,6 +747,7 @@ R
 * [Serverless Machine Learning with R on Cloud Run](https://www.r-bloggers.com/serverless-machine-learning-with-r-on-cloud-run/)
 * [How to plot XGBoost trees in R | R-bloggers](https://www.r-bloggers.com/2021/04/how-to-plot-xgboost-trees-in-r/)
 * [Crash Course in R Model Deployment with Docker and friends | R-bloggers](https://www.r-bloggers.com/2021/10/crash-course-in-r-model-deployment-with-docker-and-friends/)
+* [Real Plug-and-Play Supervised Learning AutoML using R and lares | R-bloggers](https://www.r-bloggers.com/2021/10/real-plug-and-play-supervised-learning-automl-using-r-and-lares/)
 * [EnsembleML: An R package for Parallel Ensemble Modeling in R](https://www.r-bloggers.com/ensembleml-an-r-package-for-parallel-ensemble-modeling-in-r/)
 * [modelStudio - Interactive Studio with Explanations for ML Predictive Models](https://modeloriented.github.io/modelStudio/)
   * [Explanatory Model Analysis with modelStudio](https://www.r-bloggers.com/explanatory-model-analysis-with-modelstudio/)
