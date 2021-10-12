@@ -782,6 +782,10 @@ Programming
 * [Packer와 Ansible을 이용하여, node.js 이미지 생성하기](http://bcho.tistory.com/1228)
 * [모던 아키텍트에 대해 개념 잡아보기](http://www.popit.kr/%EB%AA%A8%EB%8D%98-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B0%9C%EB%85%90-%EC%9E%A1%EC%95%84%EB%B3%B4%EA%B8%B0/)
 * [**안정된 의존관계 원칙과 안정된 추상화 원칙에 대하여**](http://woowabros.github.io/study/2018/03/05/sdp-sap.html) 설계에 대해 고민할 때 정말 좋은 글. 안정성과 추상성을 예시와 수식을 통해 설명
+* [알도개 무한 루프에 빠진 개발자 논쟁 시리즈: 2편 추상화의 허와 실 - YouTube](https://www.youtube.com/watch?v=XFGJQ2m8-dU)
+  * 정보은닉: 변경될 부분과 그렇지 않은 부분을 분리하기 위한 기준 제시. 한 곳의 변경 사항이 다른 곳에 영향을 미쳐서는 안 된다
+  * 문제를 풀기위한 도구와 방법을 직접 만든다면? 추상화 수준 하향(Hands on imperative, from the scratch)
+  * 문제를 정의하고 이를 풀기 위한 틀을 기획한다면? 추상화 수준 상향(거인의 어깨 위)
 * [A Guided Tour inside a clean architecture code base](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97)
 * [**Clean Architecture-in Banksalad**](https://speakerdeck.com/soyoung210/clean-architecture-in-banksalad) react project 예제
 * [Clean Architecture Python (web) apps](http://slides.com/haxoza/clean-architecture-python#/) flask example code
