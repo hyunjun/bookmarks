@@ -95,6 +95,8 @@ Sports
 * [기사 - 이지풍 코치의 반대 의견 8 : 볼배합과 데이터 야구에 대한 환상](https://www.ddanzi.com/ddanziNews/698762785)
 * [기사 - 이지풍 코치의 반대 의견 9 : 선수의 미래를 망치는 방법](https://www.ddanzi.com/ddanziNews/699832050)
 * [기사 - 이지풍 코치의 반대 의견 10 : 내가 설기현을 존경하는 이유](https://www.ddanzi.com/ddanziNews/700948896)
+* [기사 - 이지풍 코치의 반대 의견 11 : 골프 치는 야구선수 살찐 야구선수, 뭣이 중헌디](https://www.ddanzi.com/ddanziNews/703004431)
+* [기사 - 이지풍 코치의 반대 의견 12 : 놓쳐버린, 이승엽의 마지막 순간](https://www.ddanzi.com/ddanziNews/705003159)
 
 ## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
