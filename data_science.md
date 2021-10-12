@@ -327,6 +327,7 @@ Data Science
 * [Why MapReduce is making a comeback — Estuary](https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback)
 * [오늘의집 데이터 마케팅 활용법 : 유입 기여 분석 시스템 - 오늘의집 블로그](https://www.bucketplace.co.kr/post/2021-08-06-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A7%88%EC%BC%80%ED%8C%85-%ED%99%9C%EC%9A%A9%EB%B2%95-%EC%9C%A0%EC%9E%85-%EA%B8%B0%EC%97%AC-%EB%B6%84%EC%84%9D-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
 * [양질의 데이터를 판별하는 5가지 방법 : 데이터 양은 충분한가? | 요즘IT](https://yozm.wishket.com/magazine/detail/1070/)
+* [Log-based Change Data Capture — lessons learnt | by Andreas Buckenhofer | Daimler TSS Tech | Medium](https://medium.com/daimler-tss-tech/change-data-capture-lessons-learnt-7976391cf78d) Debezium, DynamoDB Streams, VoltDB
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
