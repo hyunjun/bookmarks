@@ -1585,6 +1585,7 @@ App
 * [How to Change the Priority of Wireless Networks in Windows 8 or 10](https://www.howtogeek.com/131640/how-to-change-the-priority-of-wireless-networks-in-windows-8/)
 * ["더 빠르고 편리해" 아직도 유효한 윈도우 명령 프롬프트 6가지 - ITWorld Korea](https://www.itworld.co.kr/news/195299) echo powercfg ipconfig tracert sfc chkdsk
 * [내 PC 하드웨어 사양과 제품 정보, 윈도우 10 기본 도구로 알아보기 - ITWorld Korea](https://www.itworld.co.kr/news/200559) HWiNFO Spaccy
+* [CPU TPM BIOS 제한 없이 구형 컴퓨터에서 윈도우11 클린 설치하기 : zelon's blog](http://blog.wimy.com/467/)
 * 복구
   * [recuva](https://www.piriform.com/recuva)
   * [testdisk 7.0](http://www.cgsecurity.org/wiki/TestDisk_Download)
