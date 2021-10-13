@@ -262,6 +262,7 @@
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
 * [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
+* [Exposed: Kotlin SQL Framework](https://github.com/JetBrains/Exposed) an ORM framework for Kotlin
 * [FlameViewer - Tool for flamegraphs visualization](https://github.com/kornilova203/FlameViewer)
 * [GlideModelLoaderSample](https://github.com/Pluu/GlideModelLoaderSample)
   * [Pluu Dev - Glide 요청 가로채기](http://pluu.github.io/blog/android/2021/09/12/glide-modelloader/)
