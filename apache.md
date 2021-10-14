@@ -447,6 +447,8 @@ Apache
   * [Apache Kafka, ZooKeeper 의존성을 제거 | GeekNews](https://news.hada.io/topic?id=2100)
 * [Kafka Without ZooKeeper: A Sneak Peek At the Simplest Kafka Yet](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)
   * [Kafka Without ZooKeeper 첫 배포 | GeekNews](https://news.hada.io/topic?id=3990)
+* [Kafka Needs no Keeper - Confluent](https://www.confluent.io/kafka-summit-san-francisco-2019/kafka-needs-no-keeper/)
+  * [kafka/config/kraft at trunk · apache/kafka](https://github.com/apache/kafka/tree/trunk/config/kraft)
 * [Kafka 보안 (1) - JAAS 및 SASL](https://springboot.cloud/31)
 * [Kafka 보안 (2) - SASL/PLAIN](https://springboot.cloud/32)
 * [**Apache Kafka지도 시간**](http://www.w3ii.com/ko/apache_kafka/default.html)
