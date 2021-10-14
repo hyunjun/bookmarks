@@ -180,6 +180,7 @@ Julia
 * [Knet.jl: Koç University deep learning framework](https://github.com/denizyuret/Knet.jl)
 * [Millboard.jl - Displaying data in tables for Julia](https://github.com/wookay/Millboard.jl)
 * [Mux.jl gives your Julia web services some closure](https://github.com/JuliaWeb/Mux.jl)
+* [MySQL.jl: Access MySQL from Julia](https://github.com/JuliaDatabases/MySQL.jl/)
 * [Nemo is a computer algebra package for the Julia programming language](http://nemocas.org/)
 * [OnlineStats.jl - On-line statistics for Julia](https://github.com/joshday/OnlineStats.jl)
   * [OnlineStats.jl - Introducing OnlineStats.jl: Online statistics for Julia](https://groups.google.com/forum/#!topic/julia-stats/2yMT7fdrxMQ)
