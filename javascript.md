@@ -999,6 +999,7 @@ Javascript
 * [JavaScript Allongé, the "Six" Edition](https://leanpub.com/javascriptallongesix/read_full)
 * [The JavaScript Beginner's Handbook (2020 Edition)](https://www.freecodecamp.org/news/the-complete-javascript-handbook-f26b2c71719c/)
 * [JavaScript for impatient programmers (ES2021 edition)](https://exploringjs.com/impatient-js/)
+* [Lenses for the Mere Mortal: PureScript Edition by Brian Marick PDF/iPad/Kindle](https://leanpub.com/lenses)
 * [Mastering Async/Await](https://thecodebarbarian.com/new-ebook-mastering-async-await.html)
   * [Mastering Async/Await - Async/Await 마스터 하기](https://gcback-1.gitbook.io/mastering-async-await-by-valeri-karpov/)
 * [PureScript by Example](https://leanpub.com/purescript/read_full)
