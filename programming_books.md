@@ -1468,6 +1468,7 @@ Programming Books
 * (NOT YET) [넷플릭스, '규칙 없음'](https://brunch.co.kr/@pliossun/170)
 * (NOT YET) [‘리더 디퍼런트’ - 인사이트](https://www.insight.co.kr/news/355641) Start with why, Simon Sinek
 * (NOT YET) [소방관의 선택](https://jhrogue.blogspot.com/2021/10/blog-post.html)
+* (NOT YET) [아마존 사람들은 이렇게 일합니다](https://polydalai.tistory.com/entry/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4)
 
 # Math
 
