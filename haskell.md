@@ -341,11 +341,13 @@ Haskell
 # Book
 * [gumroad.com/discover?query=haskell](https://gumroad.com/discover?query=haskell)
 * [Haskell Snippets - 하스켈 조각 코드 모음집](https://wikidocs.net/book/820)
+* [Game programming in Haskell by Elise Huard Leanpub PDF/iPad/Kindle](https://leanpub.com/gameinhaskell)
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
 * [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/contents.html)
 * [Haskell from the Very Beginning](https://www.haskellfromtheverybeginning.com)
 * [Haskell Programming](http://haskellbook.com/)
 * [Introduction to Haskell | Antoni Diller](http://www.cantab.net/users/antoni.diller/haskell/haskell.html)
+* [Magical Haskell by Anton Antich Leanpub PDF/iPad/Kindle](https://leanpub.com/magicalhaskell)
 * [Real World Haskell by Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/)
   * [I'm trying to update the Real World Haskell book](https://github.com/tssm/up-to-date-real-world-haskell)
   * [up-to-date-real-world-haskell: I'm trying to update the Real World Haskell book](https://github.com/tssm/up-to-date-real-world-haskell)
