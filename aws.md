@@ -1191,6 +1191,7 @@ AWS
   * 이 프로바이더는 AWS의 리소스를 관리할 수 있는 AWS Cloud Control API를 이용하고 테라폼 프로바이더에 관한 코드를 자동생성 가능
   * 기존 AWS 프로바이더보다 AWS의 새 서비스를 더 빠르게 지원 가능할 거라고 기대
   * 이 새 프로바이더는 기존 AWS 프로바이더와 함께 사용할 수 있고 기존 AWS 프로바이더도 계속 관리
+* [Failing Faster with Terraform - The Scale Factory](https://scalefactory.com/blog/2021/10/13/failing-faster-with-terraform/)
 
 # Tutorial
 * [4분코딩 아마존 웹 서비스(Amazon Web Services)란?](https://www.youtube.com/watch?v=II5wMA5NrVM)
