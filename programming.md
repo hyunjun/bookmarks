@@ -575,6 +575,7 @@ Programming
 * [애자일 개발문화는 왜 한국에 빠르게 정착되지 못했나?(2) | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/culture/agilenotforkorea2/)
 * [프로젝트 외부 이해관계자의 신뢰를 얻는 방법 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/culture/demoday/)
 * [Agility at Scale: A Meeting of Mindsets • Anna Urbaniak & Daniel Terhorst-North • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=2ajNXaqHSwo)
+* [개발자의 애질리티](https://toss.tech/article/dev-agility)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
