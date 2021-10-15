@@ -586,6 +586,7 @@ Clojure
 * [applied-science/js-interop A JavaScript-interop library for ClojureScript](https://github.com/appliedsciencestudio/js-interop)
 * [asami: A graph store for Clojure and ClojureScript](https://github.com/threatgrid/asami)
   * [Introduction · threatgrid/asami Wiki](https://github.com/threatgrid/asami/wiki/Introduction)
+  * ["Asami: Turn your JSON into a Graph in 2 Lines" by Paula Gearon - YouTube](https://www.youtube.com/watch?v=-XegX_K6w-o)
 * [cat - Category Theory and Algebraic abstractions for Clojure and ClojureScript. http://funcool.github.io/cats/latest ](https://github.com/funcool/cats)
 * [Catalysis - Full stack (+ clj cljs reagent datomic datascript datsync) web development](https://github.com/metasoarous/catalysis)
 * [cljs2go - ClojureScript to Go](https://github.com/hraberg/cljs2go)
@@ -1248,6 +1249,7 @@ Clojure
 * [A mental model for thinking about Clojure's Transducers | Functional Works](https://functional.works-hub.com/learn/a-mental-model-for-thinking-about-clojures-transducers-6baba)
 * [Understanding Transducers - Elben Shira](https://elbenshira.com/blog/understanding-transducers/)
 * [Clojure Koans 26 Transducers Notebook – Nextjournal](https://nextjournal.com/avidrucker/clojure-koans-26-transducers-notebook)
+* [Grokking Clojure transducers - /dev/solita](https://dev.solita.fi/2021/10/14/grokking-clojure-transducers.html)
 * [danzig - a easy-to-use transducer based data analysis tools for the clojure programming language](https://github.com/ribelo/danzig)
 
 # Tutorial
@@ -1328,6 +1330,7 @@ Clojure
 * [그린랩스에서 클로저 시작하기 | 그린랩스](https://green-labs.github.io/clojure-bootcamp)
 * [The Animated Guide to Symex – Terminally Undead](https://countvajhula.com/2021/09/25/the-animated-guide-to-symex/)
 * [Setting up a basic Clojure backend - YouTube](https://www.youtube.com/watch?v=M97jWSKoV3k)
+* [Fast and Elegant Clojure](https://bsless.github.io/fast-and-elegant-clojure/)
 * [clj-easy/about](https://github.com/clj-easy/about)
 
 # Vim
