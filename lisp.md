@@ -147,6 +147,9 @@ Lisp
 * [Hy](http://docs.hylang.org/)
 * [Live-coding Blender with Hy](http://mccormick.cx/news/entries/live-coding-blender-with-hy)
 
+# Janet
+* [Janet Programming Language](https://janet-lang.org/)
+
 # Javelin
 * [Javelin](https://github.com/kimtg/Javelin)
 * [introduction](https://plus.google.com/104991371003811734633/posts/ZWp1rDKVSzJ)
