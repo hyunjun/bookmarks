@@ -128,13 +128,14 @@ Functional Programming
 * [The Simple Essence of Algebraic Subtyping: Principal Type Inference with Subtyping Made Easy | Lambda the Ultimate](http://lambda-the-ultimate.org/node/5597)
 
 # Book
-* [Implementing functional languages: a tutorial](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/)
-* [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
-* [An Outsider's Guide to Statically Typed Functional Programming](https://leanpub.com/outsidefp/read_full)
-* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read_full)
 * [스칼라 FP 관련 책들](https://gist.github.com/ikhoon/622605181b33839c95f3dd3df9ff8572)
+* [Book of monads by Alejandro Serrano Mena Leanpub PDF/iPad/Kindle](https://leanpub.com/book-of-monads)
+* [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 * [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
+* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read_full)
 * [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
+* [Implementing functional languages: a tutorial](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/)
+* [An Outsider's Guide to Statically Typed Functional Programming by Brian Marick PDF/iPad/Kindle](https://leanpub.com/outsidefp)
 
 # Category Theory
 * [Category Theory from the Universe Up](https://purelyfunctional.tv/courses/category-theory)
