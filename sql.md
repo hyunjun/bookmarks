@@ -269,6 +269,7 @@ SQL
   * [sqlfmt: an opinionated online SQL formatter](https://www.cockroachlabs.com/blog/sql-fmt-online-sql-formatter/)
 * [**sq: swiss-army knife for data**](https://sq.io/) jq for relational data
   * [SQ - swiss-army knife for data | GeekNews](https://news.hada.io/topic?id=3841)
+* [sqlfluff](https://www.sqlfluff.com/) The SQL Linter for humans
 * [SQLPad - A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, ClickHouse, Crate, Vertica, Presto, SAP HANA, Snowflake, BigQuery, SQLite, and many others via ODBC](https://rickbergfalk.github.io/sqlpad/#/)
 * [SQL Translation - Translate your SQL from one dialect to another](https://www.jooq.org/translate/)
 * Teleport [Introducing Database Access | Teleport](https://goteleport.com/blog/introducing-database-access/) NAT
@@ -277,6 +278,8 @@ SQL
 * [UXSql Application Builder](https://www.notion.so/UXSql-Application-Builder-18857e102ca54c37b4e5f887f68f3a55) MSSQL, MySQL 가능
 * VisualSQL [We Made SQL Visual - Why and How](https://chartio.com/blog/why-we-made-sql-visual-and-how-we-finally-did-it/)
 * [**Waltz: A Distributed Write-Ahead Log**](https://wecode.wepay.com/posts/waltz-a-distributed-write-ahead-log)
+* [Yugabyte Cloud - Yugabyte](http://www.yugabyte.com/cloud/)
+  * [Yugabyte Cloud: a Managed Distributed SQL Database](https://www.infoq.com/news/2021/10/yugabyte-cloud/)
 
 # MariaDB
 * [HowTo: Install ClusterControl to Provision, Monitor and Manage MariaDB/Percona MariaDB MySQL Cluster](http://cloudstats.me/2015/08/13/howto-install-clustercontrol-from-severalnines-for-easy-mysql-galera-cluster-management/)
@@ -784,6 +787,7 @@ SQL
 * [A multi-node, elastic, petabyte scale, time-series database on Postgres for free (and more ways we are investing in our community)](https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/)
 * [How one word in PostgreSQL unlocked a 9x performance improvement](https://jlongster.com/how-one-word-postgresql-performance)
 * [How to Scale Postgres - Automation, Tuning & Sharding - Speaker Deck](https://speakerdeck.com/lfittl/how-to-scale-postgres-automation-tuning-and-sharding)
+* [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
 * [Types of Indexes in PostgreSQL - Highgo Software Inc](https://www.highgo.ca/2020/06/22/types-of-indexes-in-postgresql/)
 * [B-tree indexes - learn more about the heart of PostgreSQL - YouTube](https://www.youtube.com/watch?v=n5-xEEQFqPY)
 * [Why We Switched From MongoDB to PostgresSQL](https://amasad.me/gpt_post)
@@ -1017,6 +1021,8 @@ SQL
     * [7년간의 오픈소스 DB 개발에서 배운 것 | GeekNews](https://news.hada.io/topic?id=4096)
 * [simple-graph: This is a simple graph database in SQLite, inspired by "SQLite as a document database"](https://github.com/dpapathanasiou/simple-graph)
 * [sqlean: All the missing SQLite functions](https://github.com/nalgeon/sqlean)
+* [SQLime - SQLite Playground](https://sqlime.org/)
+  * [SQLime - 온라인 SQLite Playground | GeekNews](https://news.hada.io/topic?id=5153)
 * [sqlitestudio.pl](http://sqlitestudio.pl/)
 
 ## SQLite Python
