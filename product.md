@@ -150,7 +150,9 @@ Product
 * [The White Keyboard](https://www.massdrop.com/buy/the-whitefox-keyboard)
 * [기계식무선키보드 Royal Kludge RK61](https://developer-ankiwoong.tistory.com/835)
 * [Beginner’s Guide to Mechanical Keyboards - Jenny’s Newsletter](https://coolgadget.substack.com/p/beginners-guide-to-mechanical-keyboards)
-
+* [GMMK Pro로 커스텀 기계식 키보드에 입문하다 – 1. 기초공부 & 부품 선택 – Xenosium](https://xenosium.com/entry/8899/)
+* [GMMK Pro로 커스텀 기계식 키보드에 입문하다 – 2. 조립 & 튜닝 – Xenosium](https://xenosium.com/entry/8994/)
+*
 # Lamp
 * [전선 없이 빛을 내는 크리스마스 트리 전구](http://www.earlyadopter.co.kr/9430)
 * [전구를 켜는 조금 다른 방법](http://www.earlyadopter.co.kr/42374)
