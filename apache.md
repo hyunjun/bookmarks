@@ -778,6 +778,7 @@ Apache
   * 자체적인 Cluster를 설정해야 하며, 2019.07에 공개되어 자료 전무
   * monitoring 방법은 MirrorMaker 1/2와 마찬가지로 내부적으로 kafka producer를 사용해 해당 process에 jmx로 접속해 producer sender metrics를 확인
 * [Debezium - Stream changes from your database](https://debezium.io)
+  * [debezium: Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ. ](https://github.com/debezium/debezium)
   * [How Debezium & Kafka Streams Can Help You Write CDC Solution](https://iamninad.com/how-debezium-kafka-stream-can-help-you-write-cdc/) Debezium과 Kafka를 사용하여 MySQL과 MongoDB에서 쓰여진 데이터를 캡처하는 플랫폼을 설정하는 방법
   * [DevNation Live: Kafka and Debezium](https://www.slideshare.net/RedHatDevelopers/devnation-live-kafka-and-debezium)
   * [Change Data Streaming Patterns for Microservices with Debezium](https://developers.redhat.com/videos/youtube/QYbXDp4Vu-8)
