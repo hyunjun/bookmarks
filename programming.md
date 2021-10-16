@@ -460,6 +460,8 @@ Programming
 * [APEX 사례로 보는 Low Code](https://jhrogue.blogspot.com/2021/09/apex-low-code.html)
 * [글로벌 칼럼 | 유지보수를 위한 다운타임, '유지보수 윈도우'는 정당화할 수 없다 - ITWorld Korea](https://www.itworld.co.kr/news/209072) 가용성, availability
 * [한·중·일 전산학 용어 대조 | GeekNews](https://news.hada.io/topic?id=5165)
+* [Why you should launch your product without a login | Caspar von Wrede](https://casparwre.de/blog/launching-a-product-without-a-login/)
+  * [로그인 기능 없이 제품을 런칭 해야하는 이유 | GeekNews](https://news.hada.io/topic?id=5144)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -998,6 +1000,7 @@ Programming
 * [**Multi-tenant architecture in 20 minutes - YouTube**](https://www.youtube.com/watch?v=0N4KknY_zdU) PACELC as extension of CAP
 * [Scaling Large Production Clusters with Partitioned Synchronization](https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html)
 * [Solution vs Software Architecture - DZone DevOps](https://dzone.com/articles/solution-architecture-vs-software-architecture)
+* [기고 | IT부서 ‘업의 본질’일 수도… ‘기술 아키텍처’ 가이드 - CIO Korea](https://www.ciokorea.com/news/209404)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
@@ -1511,6 +1514,8 @@ Programming
 * [Netflix Cloud Packaging in the Terabyte Era | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/netflix-cloud-packaging-in-the-terabyte-era-d6869b4b84ae) MezzFS
 * [데이터부터 ID까지 다 지킨다··· 클라우드 '빅3' 사이버 보안 제품 가이드 - CIO Korea](https://www.ciokorea.com/news/209062)
 * [Announcing Cloudflare R2 Storage: Rapid and Reliable Object Storage, minus the egress fees](https://blog.cloudflare.com/introducing-r2-object-storage/)
+* [Will Cloudflare R2 Win Customers from Amazon S3? | Taloflow](https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3)
+* [마이크로소프트 애저 클라우드 취약점이 알려주는 클라우드 보안의 4가지 교훈 - ITWorld Korea](https://www.itworld.co.kr/news/209414)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -2058,6 +2063,7 @@ Programming
   * 2017년과 비교해서 달라진 순서를 알기 쉽게 표시, 잘못된 접근 제어, 암호화 관련 실패, 주입, 보안이 약한 설계, 잘못된 보안 설정 등
 * [Mozilla HTTP Observatory | GeekNews](https://news.hada.io/topic?id=5052)
 * [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu/)
+* [SHA-1 'Fully and Practically Broken' By New Collision | Decipher](https://duo.com/decipher/sha-1-fully-and-practically-broken-by-new-collision)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
@@ -2622,6 +2628,7 @@ Programming
   * [9월 3주 소식(개발/관리도구, 클라우드/고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/09/b-9-3.html)
   * [9월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/09/b-9.html)
   * [9월 5주 소식(개발/관리도구, 클라우드/고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/10/b-9-5.html)
+  * [10월 2주 소식(개발/관리도구, 클라우드/고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/10/b-10-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -3193,6 +3200,7 @@ Programming
 * [Top 10 Things That Destroy Developer Productivity - YouTube](https://www.youtube.com/watch?v=O-U11s-Rk_w)
   * interruptions and meetings, micromanagement, vagueness, environment, scope creep product development process
   * unreasonable deadline, lack of psychological safety, disregarding refactoring and technical debt, lack of communication skills
+* [유저 주문 취소 기능 Java 전환기. 29CM 백엔드팀은 Python + Django 기반의 모놀리틱… | by HeechanKim | 29CM 기술블로그 | Medium](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874) 기술적인 이야기보다 전반적인 프로세스 개선에 대한 점이 좋음
 * [Principles.dev - Software Engineering Principles](https://principles.dev/)
   * [Software Engineering Principles | GeekNews](https://news.hada.io/topic?id=4534)
 
@@ -3297,6 +3305,7 @@ Programming
 * [**Microservices test architecture. Can you sleep well without end-to-end tests?**](https://threedots.tech/post/microservices-test-architecture/)
 * [생각을 그대로 프로그래밍하는 방법 part 1: 학부생의 방법론 / TDD 방법론 - YouTube](https://www.youtube.com/watch?v=uk-UQf7d5UY)
 * [생각을 그대로 프로그래밍하는 방법 part 2: PBT, REPL - YouTube](https://www.youtube.com/watch?v=xkRwR0sLwVA) property based testing
+* [Using ASCII waveforms to test real-time audio code - Q2Q](https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code)
 * [소프트웨어 개발의 생산성, 그 어려움과 도전…](http://kwangshin.pe.kr/blog/2018/06/26/software-development-productivity-difficulties-and-challanges/)
 * Test pyramid
 * [테스트기반개발 실습 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=28278788)
@@ -3437,7 +3446,9 @@ Programming
 * [Windows: 176. Raymond Chen이 한글날에 밝히는 윈도우의 한글 자모 분리 현상](https://www.sysnet.pe.kr/2/0/12369)
 * [Ridiculously fast unicode (UTF-8) validation – Daniel Lemire's blog](https://lemire.me/blog/2020/10/20/ridiculously-fast-unicode-utf-8-validation/)
 * [Unicode sorting is hard & why browsers added special emoji matching to regexp](https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching)
-* [convert between NFC and NFD Unicode normalization (e.g. for Korean)](https://gist.github.com/kjoonlee/326b8f42e39bcc045e9932fef5511031) convmv
+* convmv
+  * [convert between NFC and NFD Unicode normalization (e.g. for Korean)](https://gist.github.com/kjoonlee/326b8f42e39bcc045e9932fef5511031)
+  * [macOS: convmv 를 사용한 유니코드 문제(풀어쓰기) 해결(?) – 바깥 세상으로](https://www.nemonein.xyz/2019/03/1850/)
 
 # Versioning
 * [다양한 소프트웨어 버전 명명 (Software versioning)](https://blog.sonim1.com/243)
