@@ -78,6 +78,7 @@ Linux
 * [1001 Ways of Implementing a System Call](https://x86.lol/generic/2019/07/04/kernel-entry.html)
 * [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
 * [A Linux sysadmin's introduction to cgroups | Enable Sysadmin](https://www.redhat.com/sysadmin/cgroups-part-one)
+* [What Are Namespaces and cgroups, and How Do They Work? - NGINX](https://www.nginx.com/blog/what-are-namespaces-cgroups-how-do-they-work/)
 * [How NAT traversal works · Tailscale Blog](https://tailscale.com/blog/how-nat-traversal-works/)
 * [Analyzing the Attacks on my Website](https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf)
 * [Speeding up Linux disk encryption](https://blog.cloudflare.com/speeding-up-linux-disk-encryption/)
@@ -122,6 +123,8 @@ Linux
 * [Console Desktop Guide](https://pspodcasting.net/dan/blog/2018/console_desktop.html)
 * [Linux에서 로드 밸런서와 캐시 서버를 멀티 코어 스케일 시키기 위한 커널 튜닝 - Google Docs](https://docs.google.com/document/d/10v2_8dt3t_HDT56k_Wf2THwq3cPSDccj-Agfik087X8/edit)
 * [Bringing the Unix Philosophy to the 21st Century | Brazil's Blog](https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/)
+* [Understanding I/O Wait (or why 0% Idle can be OK) - Witekio - Embedded systems & IoT Experts](https://witekio.com/blog/understanding-i-o-wait-or-why-0-idle-can-be-ok-3/)
+* ["Static Linking Considered Harmful" Considered Harmful | Gavin D. Howard](https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -319,6 +322,7 @@ Linux
   * [How To Write Ansible Playbooks | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/how-to-write-ansible-playbooks)
   * [How Do Ansible Tags Work? - Percona Database Performance Blog](https://www.percona.com/blog/2020/04/27/how-do-ansible-tags-work/)
   * [미리 알았으면 좋을 Ansible 테크닉들 | GeekNews](https://news.hada.io/topic?id=4907)
+  * [Using Ansible with REST APIs | Opensource.com](https://opensource.com/article/21/9/ansible-rest-apis)
 * [Bashible - a deployment/automation tool written in Bash (DSL). Inspired by Ansible. Simplifies things and prevents usual mistakes](https://github.com/mig1984/bashible)
 * [fabric](https://github.com/mathiasertl/fabric)
 * [Pulumi - Modern Infrastructure as Code](https://www.pulumi.com/) python
@@ -418,6 +422,7 @@ Linux
 * [Efficient File Copying On Linux](https://eklitzke.org/efficient-file-copying-on-linux)
 * [What Linux Version Am I Running? Here's How to Find Out](https://linuxiac.com/what-linux-version/)
 * [신입 or Jr 엔지니어 면접을 위한 리눅스 명령어 top 10 - YouTube](https://www.youtube.com/watch?v=u9RukvKZJZM)
+* [bashcrawl · Learn Linux commands by playing a simple text adventure](https://gitlab.com/slackermedia/bashcrawl)
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
@@ -441,6 +446,7 @@ Linux
   * [An Introduction to AWK – The New Stack](https://thenewstack.io/an-introduction-to-awk/)
   * [Understanding AWK - Earthly Blog](https://earthly.dev/blog/awk-examples/)
     *  awk가 어떻게 입력데이터의 행과 열을 다루는지 보여주고 아마존의 1,900만 개의 리뷰의 데이터를 awk로 처리해서 랭크를 매겨주는 프로그램 작성
+  * [aho: A git implementation in awk](https://github.com/djanderson/aho)
 * `basename` get file name from path
   * e.g. `$ basename /tmp/mdstat.tmp .tmp` returns `mdstat`
 * `bc`
@@ -747,6 +753,7 @@ Linux
     * `ssh -L 15673:localhost:15672 <server>` e.g. rabbitmq의 web interface를 보고 싶은데, server에서 정책상 허용을 안 하면 내 localhost로 port forwarding을 해서 localhost:15673로 접속 가능
   * [SSH Tunneling | The Linux Rain](https://www.thelinuxrain.com/articles/ssh-tunneling)
   * [Visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/)
+  * [What is SSH Tunneling, SSH Reverse Tunneling and SSH Port Forwarding? | Teleport](https://goteleport.com/blog/ssh-tunneling-explained/)
   * [SSH PORT](https://www.ssh.com/ssh/port)
   * [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained/)
   * [SSH Tips & Tricks](https://smallstep.com/blog/ssh-tricks-and-tips/)
@@ -1080,6 +1087,7 @@ Linux
 * [X2GO: Linux Remote Desktop & Terminal Server System With Support For Published Applications](https://www.youtube.com/watch?v=oSuy1TS8FGs)
 * [Xmobar updates from ZuriHac](https://psibi.in/posts/2020-06-16-xmobar-zurihac.html)
 * [xrdp - an open source RDP server](https://github.com/neutrinolabs/xrdp)
+* Xterm [The Xterm Window Manager Homepage](https://xtermwm.sourceforge.io/)
 * [zindex - Create an index on a compressed text file](https://github.com/mattgodbolt/zindex)
 
 # Memory
