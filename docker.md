@@ -555,6 +555,7 @@ Docker
     * 무조건 설정하자. 그렇지 않으면 해당 directory의 모든 파일을 일단 다 검색하고, 추가하려고 시도한 다음 필요없으면 버리기 때문에
     * 시간/공간 절약을 위해서는 무조건 사용하는 게 이득
     * 해당 directory에 큰 용량의 log나 data file이 있는 경우 build도 실패할 뿐더러, disk usage가 100%를 찍을 수도 있음
+  * [Faster Maven builds in Docker](https://blog.frankel.ch/faster-maven-builds/2/)
 * buildx
   * [Using multi-arch Docker images to support apps on any architecture](https://mirailabs.io/blog/multiarch-docker-with-buildx/)
   * [Preparation toward running Docker on ARM Mac: Building multi-arch images with Docker BuildX | by Akihiro Suda | nttlabs | Medium](https://medium.com/nttlabs/buildx-multiarch-2c6c2df00ca2)
@@ -822,6 +823,7 @@ Docker
   * [#4 volume & stateful set](https://www.slideshare.net/Byungwook/kubernetes-4-volume-amp-stateful-set)
   * [#6 advanced scheduling](https://www.slideshare.net/Byungwook/kubernetes-6-advanced-scheduling)
 * [Kubernetes Security 101 - Best Practices - YouTube](https://www.youtube.com/watch?v=fsfEthTZgFw)
+* [Container security best practices: Comprehensive guide - Sysdig](https://sysdig.com/blog/container-security-best-practices/)
 * [Container Orchestration — Technology Choices For Microservices and Other Workloads](https://codeburst.io/container-orchestration-technology-choices-for-microservices-and-other-workloads-38999e9902cb)
 * [Kubernetes By Example - Brought to you by the OpenShift team](http://kubernetesbyexample.com/)
 * 권한을 찾아서: GitHub Team을 이용하여 Kubernetes 계정 인증하기
@@ -1058,6 +1060,8 @@ Docker
   * 잘못된 설정을 모두 잡아내는 방법은 --dry-run=server가 가장 확실, 속도는 가장 느림
   * 속도 면에서는 kubeconform이 가장 빠르고 kubeval에 비해 Kubernetes 버전도 최신까지 지원
 * [Automating quality checks for Kubernetes YAMLs - DEV Community](https://dev.to/wkrzywiec/automating-quality-checks-for-kubernetes-yamls-398)
+* [How to create Kubernetes YAML files | by Piotr | Oct, 2021 | ITNEXT](https://itnext.io/how-to-create-kubernetes-yaml-files-abb8426eeb45)
+* [How to create Kubernetes YAML files | Hacker Noon](https://hackernoon.com/how-to-create-kubernetes-yaml-files)
 * [‘긍정과 부정으로 정리한’ 쿠버네티스 자격증의 가치 - CIO Korea](https://www.ciokorea.com/news/206484)
 * [Kubernetes 실습 과제 리스트](https://jerryljh.tistory.com/50)
 * [Alpha in Kubernetes v1.22: API Server Tracing | Kubernetes](https://kubernetes.io/blog/2021/09/03/api-server-tracing/)
@@ -1067,7 +1071,6 @@ Docker
 * [How Linkerd uses iptables to transparently route Kubernetes traffic | Linkerd](https://linkerd.io/2021/09/23/how-linkerd-uses-iptables-to-transparently-route-kubernetes-traffic/index.html)
 * [76. kubernetes NodePort Networking 분석 (kube-proxy : IPVS mode)](https://ikcoo.tistory.com/166)
 * [Kubernetes Crash Course for Absolute Beginners NEW - YouTube](https://www.youtube.com/watch?v=s_o8dwzRlu4)
-* [How to create Kubernetes YAML files | by Piotr | Oct, 2021 | ITNEXT](https://itnext.io/how-to-create-kubernetes-yaml-files-abb8426eeb45)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1097,6 +1100,7 @@ Docker
       * ArgoCD의 애플리케이션은 어드민이 각각 만들어주어야 하는데 여러 애플리케이션을 만들어야 할 때 app-of-apps 구현이나 ApplicationSet CRD를 많이 이용
       * 하지만 이 두 방법도 중앙화된 방법이므로 어드민의 개입 없이 개발자가 직접 관리할 수 있게 하는 AppSource 프로젝트를 공개
       * AppSource 컨트롤러를 이용하면 어드민은 사용자가 네임스페이스 내에서 ArgoCD 앱을 배포하도록 해서 개발자가 직접 앱을 배포 가능
+    * [Running Apache Spark on Kubernetes | by Ramiro Alvarez Fernandez | empathy.co | Medium](https://medium.com/empathyco/running-apache-spark-on-kubernetes-2e64c73d0bb2)
 * [Cilium - Linux Native, API-Aware Networking and Security for Containers](https://cilium.io/)
   * [Kubernetes Network & Cilium](https://www.notion.so/Kubernetes-Network-Cilium-1d4371f562ea4acdb5e679e376a7c992)
   * [Network Policy Editor for Kubernetes](https://editor.cilium.io/)
@@ -1248,6 +1252,7 @@ Docker
   * [Purpose built OS for Kubernetes and fully managed by Kubernetes. https://k3os.io ](https://github.com/rancher/k3os)
   * [쿠버네티스 멀티 클라우드/클러스터를 위한 Rancher](https://bcho.tistory.com/1348)
   * [Comparing Five Monitoring Options for Docker](http://rancher.com/comparing-monitoring-options-for-docker-deployments/)
+  * [Rancher Desktop: Kubernetes and container management on the desktop](https://rancherdesktop.io/)
 * [Reloader: A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig](https://github.com/stakater/Reloader) prod에서는 추천하지 않는다는 의견이 있음
 * [simplenetes: The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods](https://github.com/simplenetes-io/simplenetes)
 * Skaffold
