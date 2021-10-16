@@ -772,9 +772,6 @@ AWS
 * [AWS Lambda 로 하는 Hello World!](https://velopert.com/3546)
 * [AWS Lambda](https://www.youtube.com/playlist?list=PLBtyBPTlyC7tR5LVPEjphl6fPOOOVe6XM)
 * [Create a REST API Endpoint Using AWS Lambda](https://hackingandslacking.com/create-a-rest-api-endpoint-using-aws-lambda-765e1f6eebd6)
-* [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
-* [Apex - AWS Lambda 관리도구 #1](https://blog.outsider.ne.kr/1241)
-* [Apex - AWS Lambda 관리도구 #2](https://blog.outsider.ne.kr/1242)
 * [Direct S3 Upload with Lambda](https://beomi.github.io/2017/12/15/Direct-upload-to-S3-with-Lambda/)
 * [Building a Highly Scalable Imgur Clone with Lambda and S3](https://hackernoon.com/building-a-highly-scalable-imgur-clone-with-lambda-and-s3-aaf9da422c3e)
 * [300원에 200만뷰 소화하기](https://blog.rocketpunch.com/2017/07/02/2-million-pv-with-300-krw/) zappa, aws lambda
@@ -785,7 +782,6 @@ AWS
 * [Lambda 한개로 만드는 On-demand Image Resizing](https://engineering.huiseoul.com/lambda-%ED%95%9C%EA%B0%9C%EB%A1%9C-%EB%A7%8C%EB%93%9C%EB%8A%94-on-demand-image-resizing-d48167cc1c31)
 * [AWS Summit Seoul 2016 - AWS 실시간 분석 서비스 삼총사를 활용한 초간단 분석 플랫폼 구성하기 (정민영 CTO, 비트패킹컴퍼니)](https://www.youtube.com/watch?v=ATrUK00jUBk&list=PLORxAVAC5fUUkUqoqL4M_73OdB9c5aIld)
 * [AWS 클라우드 기반 서버리스 컴퓨팅 패턴과 사례 ::: KRNET 2017 - 윤석찬, 테크에반젤리스트](https://www.slideshare.net/awskorea/serverless-architecture-krnet2017)
-* [AWS Lambda: Apex로 관리하기](https://hyunseob.github.io/2017/07/09/aws-lambda-with-apex/)
 * [The future is now, and it's using AWS Lambda](http://lg.io/2015/05/16/the-future-is-now-and-its-using-aws-lambda.html)
 * [hugo-lambda - Use AWS Lambda to run the Hugo static site generator](https://github.com/ryansb/hugo-lambda)
 * [Lambda Chat](https://cloudnative.io/blog/2015/05/lambda-chat/)
@@ -830,6 +826,7 @@ AWS
 * [Amazon CloudFront: Range GET Behavior | by Hedy Kim | Cloud Villains | Jun, 2021 | Medium](https://medium.com/ctc-mzc/amazon-cloudfront-range-get-behavior-e419e22f128f)
 * [Amazon CloudFront: 502 Bad Gateway시 Origin SSL 인증서 설정에 대하여 | by Hedy Kim | Cloud Villains | Jun, 2021 | Medium](https://medium.com/ctc-mzc/amazon-cloudfront-502-bad-gateway%EC%8B%9C-origin-ssl-%EC%9D%B8%EC%A6%9D%EC%84%9C-%EC%84%A4%EC%A0%95%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC-a5c422ceffed)
 * [AWS Cheat Sheet - Amazon CloudFront](https://www.joinc.co.kr/w/man/12/aws/cheatSheet/CloudFront)
+* [CloudFront + CloudFront functions 이용하여, Next.js 번들파일 효율적으로 서빙하기! 🧞 | by jpapa | 원티드 제품 팀블로그 | Oct, 2021 | Medium](https://medium.com/wantedjobs/cloudfront-cloudfront-functions-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-next-js-%EB%B2%88%EB%93%A4%ED%8C%8C%EC%9D%BC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%84%9C%EB%B9%99%ED%95%98%EA%B8%B0-9ccc0541e406)
 * [서울-도쿄 리전간 레이턴시 줄이기-실패경험담](https://linuxer.name/2019/11/%EC%84%9C%EC%9A%B8-%EB%8F%84%EC%BF%84-%EB%A6%AC%EC%A0%84%EA%B0%84-%EB%A0%88%EC%9D%B4%ED%84%B4%EC%8B%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0-%EC%8B%A4%ED%8C%A8%EA%B2%BD%ED%97%98%EB%8B%B4/) Global Accelerator
 * [I’m afraid you’re thinking about AWS Lambda cold starts all wrong](https://hackernoon.com/im-afraid-you-re-thinking-about-aws-lambda-cold-starts-all-wrong-7d907f278a4f)
 * [AWS lambda tip: cold start](https://dongqui.github.io/posts/labmda-tip)
@@ -893,6 +890,11 @@ AWS
 * [AWS Lambda 컨테이너 이미지 서비스 활용하기 – 김태수:: AWS Builders Online Series - YouTube](https://www.youtube.com/watch?v=tTg9Lp7Sqok)
 * [A Rotating Proxy that utilizes Cellular Network, Cloudflare WARP, AWS Lambda](https://tech.ssut.me/a-rotating-proxy-that-uses-cellular-network-cloudflare-warp-aws-lambda/)
 * [모놀리식에서 서버리스까지 - 빠른 개발을 위한 가이드, Adrian Cockcroft (VP of Cloud Architecture, AWS) - YouTube](https://www.youtube.com/watch?v=kWjVlBgLgdI)
+* [AWS Lambda battle 2021: performance comparison for all languages (cold and warm start) | by Aleksandr Filichkin | Sep, 2021 | Medium](https://filia-aleks.medium.com/aws-lambda-battle-2021-performance-comparison-for-all-languages-c1b441005fd1)
+* [Apex - AWS Lambda 관리도구 #1](https://blog.outsider.ne.kr/1241)
+* [Apex - AWS Lambda 관리도구 #2](https://blog.outsider.ne.kr/1242)
+* [AWS Lambda: Apex로 관리하기](https://hyunseob.github.io/2017/07/09/aws-lambda-with-apex/)
+* [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
 * [moderncloud: ModernCloud is a browser-based serverless platform that lets developers build functions and endpoints in minutes](https://github.com/ModernCloud/moderncloud)
   * [ModernCloud - 브라우저 기반 서버리스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4583)
 
@@ -970,6 +972,7 @@ AWS
   * [Serverless with IAC - terraform과 cloudformation 비교](https://www.slideshare.net/wesky93/serverless-with-iac-terraform-cloudformation)
   * [Deploy AWS CloudFormation stacks with GitHub Actions | AWS Open Source Blog](https://aws.amazon.com/ko/blogs/opensource/deploy-aws-cloudformation-stacks-with-github-actions/)
   * [CloudFormation을 이용해서 IaC 입문해보기 | Developers.IO](https://dev.classmethod.jp/articles/introduction-of-iac-using-cloudformation/)
+  * [Do not use AWS CloudFormation. Several years ago I actually cared… | by Greg Swallow | Sep, 2021 | Medium](https://gswallow.medium.com/do-not-use-aws-cloudformation-7cf61f58bd5f)
   * [architect: The simplest, most powerful way to build serverless applications](https://github.com/architect/architect)
     * [Architect (arc) - 서버리스 앱 작성/배포를 쉽게 해주는 프레임워크 | GeekNews](https://news.hada.io/topic?id=5031)
 * [consoleme: A Central Control Plane for AWS Permissions and Access](https://github.com/Netflix/consoleme)
@@ -1128,8 +1131,9 @@ AWS
 
 # TDD, Test
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
-* [LocalStack을 활용한 Integration Test 환경 만들기](http://woowabros.github.io/tools/2019/07/18/localstack-integration.html)
 * [How to Test Serverless Applications in AWS](https://www.freecodecamp.org/news/how-to-test-serverless-applications-in-aws/)
+* [localstack: 💻 A fully functional local AWS cloud stack. Develop and test your cloud & Serverless apps offline!](https://github.com/localstack/localstack)
+  * [LocalStack을 활용한 Integration Test 환경 만들기](http://woowabros.github.io/tools/2019/07/18/localstack-integration.html)
 
 # Terraform
 * [Apex(Terraform)로 API Gateway 구성하기 #1](https://blog.outsider.ne.kr/1287)
