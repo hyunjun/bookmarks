@@ -523,6 +523,7 @@ Python
 * [The difference between a=a+b and a+=b in Python | by Chetan Ambi | Jul, 2021 | Towards AI](https://pub.towardsai.net/the-difference-between-a-a-b-and-a-b-in-python-a7338d96e408)
 * [5 hidden gems in Python 3 | Opensource.com](https://opensource.com/article/21/7/python-3)
 * [Python any() and all() Functions – Explained with Examples](https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/)
+* [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -912,6 +913,7 @@ Python
   * [A quick yet complete tour of lists in Python3 in just seven minutes](https://medium.freecodecamp.org/a-quick-yet-complete-tour-of-lists-in-python3-in-just-seven-minutes-437e615110d0)
   * [How slow is python list.pop(0) ?. An empirical study on python list.pop… | by Hongjian Wang | Medium](https://medium.com/@shuangzizuobh2/how-well-do-you-code-python-9bec36bbc322)
   * [파이썬의 list.pop(0)을 쓰면 안 되나요?](https://codingdog.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9D%98-listpop0%EC%9D%84-%EC%93%B0%EB%A9%B4-%EC%95%88-%EB%90%98%EB%82%98%EC%9A%94) collections.deque가 가장 빠르다는 이야기
+  * [Python Lists Are Overrated. Consider these potentially superior… | by Aashish Nair | Oct, 2021 | Towards Data Science](https://towardsdatascience.com/python-lists-are-overrated-776e87cda3e5)
 * [logging](https://docs.python.org/3/howto/logging.html)
   * DEBUG < INFO < WARNING < ERROR < CRITICAL, 기본 설정은 WARNING
   * [practice - experiences](https://gist.github.com/hyunjun/328f746f119564d16269a6e890969126)
@@ -1694,6 +1696,7 @@ Python
 * [David Beazley - Python Concurrency From the Ground Up: LIVE! - PyCon 2015](https://www.youtube.com/watch?v=MCs5OvhV9S4)
 * [Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
 * [Python is NOT Single Threaded (and how to bypass the GIL) - YouTube](https://www.youtube.com/watch?v=m2yeB94CxVQ) 여러가지 예제
+* [A viable solution for Python concurrency LWN.net](https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/)
 
 # Conference
 * [OctopusCon: Python Edition](https://octopuscon.com/events/octopuscon-python-edition/)
@@ -3842,6 +3845,8 @@ Python
 * [img2txt - Image to Ascii Text, can output to html or ansi terminal](https://github.com/hit9/img2txt)
 * [imgaug - Image augmentation for machine learning experiments. http://imgaug.readthedocs.io ](https://github.com/aleju/imgaug)
 * [Legofy - a python program that takes a static image or gif and makes it so that it looks as if it was built out of LEGO](https://github.com/JuanPotato/Legofy)
+* [maryjane - MaryJane MJPEG server in < 30 lines Python](https://github.com/bootrino/maryjane)
+  * [MaryJane - 30줄의 파이썬코드로 작성된 MJPEG 서버 | GeekNews](https://news.hada.io/topic?id=5171)
 * PIL
   * [Image Recognition using Machine Learning Techniques](http://praful.org/img-1/)
   * [이미지 GPS 정보 추출하기](https://cpuu.postype.com/post/23100)
@@ -3969,6 +3974,8 @@ Python
   * [If Pyinstaller makes too huge size exe file in Anaconda](https://www.youtube.com/watch?v=TwgfHWlruvM)
   * [__file__ in Application by PyInstaller](https://velog.io/@youngkiu/file-in-Application-by-PyInstaller)
 * [PyOxidizer](https://pyoxidizer.readthedocs.io/)
+* [State Tool CLI :: ActiveState Platform Documentation](https://docs.activestate.com/platform/state/)
+  * [How to manage Python environments: Global vs Virtual - ActiveState](https://www.activestate.com/blog/how-to-manage-python-environments-global-vs-virtual/)
 * [subpar: Subpar is a utility for creating self-contained python executables. It is designed to work well with Bazel](https://github.com/google/subpar)
 * virtualenv
   * [practice - use virtualenv in shell script](https://gist.github.com/hyunjun/e3abd9323a798ac6f70d387c3c1c07a9#file-shell_script-md)
@@ -4045,6 +4052,7 @@ Python
 
 ## Library progress bar
 * [Python Progress Bars in 9 minutes - YouTube](https://www.youtube.com/watch?v=AntTxtOWyAI) tqdm, alive-bar
+* [mdk.fr – How APT does its fancy progress bar](https://mdk.fr/blog/how-apt-does-its-fancy-progress-bar.html)
 * [alive-progress: A new kind of Progress Bar, with real time throughput, eta and very cool animations!](https://github.com/rsalmei/alive-progress)
 * [progress: Easy to use progress bars for Python](https://github.com/verigak/progress/)
 * [python-progressbar: Progressbar 2 - A progress bar for Python 2 and Python 3 - "pip install progressbar2"](https://github.com/WoLpH/python-progressbar)
@@ -4432,6 +4440,7 @@ Python
 * [New Features in Python 3.10 | Towards Data Science](https://towardsdatascience.com/new-features-in-python-3-10-66ac05e62fc7)
 * [How to use the coolest new features in Python 3.10](https://thenextweb.com/news/how-to-use-new-features-python-3-10-syndication)
 * [Python 3.10 – Top 5 Features in the new Version | Rubik's Code](https://rubikscode.net/2021/10/04/python-3-10-top-5-features-in-the-new-python-version/)
+* [패턴 매칭 지원 外··· '파이썬 3.10', 무엇이 달라졌을까 - CIO Korea](https://www.ciokorea.com/news/209694)
 * [Python 3.11 새로운 기능 및 수정점 : 네이버 블로그](https://blog.naver.com/vwjdalsgkv/222510221530)
 * [Features You Likely Don’t Use in Python 3 — But You Should | LaptrinhX](https://laptrinhx.com/features-you-likely-don-t-use-in-python-3-but-you-should-2455806769/)
 * [9 Python 3 Hacks Programmers Probably Don’t Utilize | Better Programming](https://medium.com/better-programming/9-python-3-features-you-might-not-use-yet-fade13932a3e)
@@ -4506,6 +4515,7 @@ Python
 * [파이썬으로 테스트 데이터 만들기 · 개발블로그](https://blog.gyus.me/2020/generate-test-data-with-python/)
 * [Test Automation with Python - The 3 Best Tools in 2021](https://www.activestate.com/blog/the-best-python-tools-for-test-automation/)
 * [My Python testing style guide - Stargirl (Thea) Flowers](https://blog.thea.codes/my-python-testing-style-guide/)
+* [3 ways to test your API with Python | Opensource.com](https://opensource.com/article/21/9/unit-test-python)
 * [atheris: A Coverage-Guided, Native Python Fuzzer](https://github.com/google/atheris)
 * faker, factory boy [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
 * [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
@@ -4665,6 +4675,7 @@ Python
 * [파이썬 YouTube 뮤직플레이어 개발 강좌](https://scv-life.tistory.com/97)
 * [The Best Way to Learn Python – Python Programming Tutorial for Beginners](https://www.freecodecamp.org/news/the-best-way-to-learn-python-python-programming-tutorial-for-beginners/)
 * [Tips and Examples - Codetorial](https://codetorial.net/tips_and_examples/index.html)
+* [Python for JavaScript developers](https://200okweblog.hashnode.dev/python-for-javascript-developers)
 
 # Web -> [web](web.md)
 
