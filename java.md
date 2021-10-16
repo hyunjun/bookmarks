@@ -765,6 +765,8 @@ Java
 * [EP.07 OpenJDK 적용하고 벌써 1년, 뭐가 달라졌을까?](https://www.youtube.com/watch?v=BzJifsLXcNA)
 * [java - Difference between OpenJDK and Adoptium/AdoptOpenJDK - Stack Overflow](https://stackoverflow.com/questions/52431764/difference-between-openjdk-and-adoptium-adoptopenjdk)
 * [Everything you need to know about OpenJDK’s move to Git and GitHub](https://blogs.oracle.com/javamagazine/openjdk-mercurial-git-github)
+* [Which Version of JDK Should I Use? | whichjdk.com](http://whichjdk.com/)
+  * [어떤 버전의 JDK를 써야 할까? | GeekNews](https://news.hada.io/topic?id=5183)
 * [Adoptium - Open source, prebuilt OpenJDK binaries](https://adoptium.net/)
   * [AdoptOpenJDK](https://adoptopenjdk.net/)
   * [자바11 드디어 AdoptOpenJDK에 (2018-10-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=zqnN27A8BNw)
