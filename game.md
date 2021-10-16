@@ -91,6 +91,8 @@ Game
 * [Q1K3 | js13kGames](https://js13kgames.com/entries/q1k3)
 * [raylib](https://www.raylib.com/index.html)
 * [Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
+* [ScummVM :: Home](https://www.scummvm.org/news/20211009/)
+  * [ScummVM 20주년 | GeekNews](https://news.hada.io/topic?id=5177)
 * [TwilioQuest - Discover your power to change the world with code](https://www.twilio.com/quest)
 * Unity
   * [수식없이 게임 수학 이해하기](https://www.slideshare.net/MrDustinLee/ss-147084075)
@@ -141,6 +143,7 @@ Game
     * [Conway's Game of Life implemented in PyGame](https://pythonawesome.com/conways-game-of-life-implemented-in-pygame/)
   * [pygame-physics](https://github.com/idgmatrix/pygame-physics)
 * [pyNES - NES games in python](http://gutomaia.net/pyNES/)
+* PySol [A comprehensive, feature-rich, open source, and portable, collection of Solitaire games](https://pythonawesome.com/a-comprehensive-feature-rich-open-source-and-portable-collection-of-solitaire-games/)
 * [Pyxel - a retro game engine for Python](https://github.com/kitao/pyxel)
   * [PyCon KR 2019 뱅크샐러드 돌아보기](https://medium.com/rainist-engineering/pycon-kr-2019-banksalad-5b4816325949)
 * [Turn based roguelike in python](https://pythonawesome.com/turn-based-roguelike-in-python/)
