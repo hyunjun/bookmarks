@@ -63,6 +63,8 @@ Network
 * [포트 포워딩이란? – Lamanus' Archive](https://lamanus.kr/59)
 * [**Boosting Dropbox upload speed—and making Windows’ TCP stack resilient to network reordering - Dropbox**](https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed#microsofts-long-term-fix)
 * TFO [TCP Fast Open? Not so fast! | APNIC Blog](https://blog.apnic.net/2021/07/05/tcp-fast-open-not-so-fast/)
+* [Hello IPv6: a minimal tutorial for IPv4 users](https://metebalci.com/blog/hello-ipv6/)
+  * [Hello IPv6 : IPv4 사용자를 위한 최소한의 자습서 | GeekNews](https://news.hada.io/topic?id=5174)
 * [IPv4 vs. IPv6 FAQ · Tailscale](https://tailscale.com/kb/1134/ipv6-faq/)
   * IPv6에 대한 오해 질문 정리
     * IPv6는 1998년 첫 표준안 발표 1999년부터 주소 할당, 롤아웃 프로세스가 시작되었지만 20년이 지난 지금까지 아직 미완료
