@@ -186,6 +186,7 @@ C++
 * [C++ 코드 품질 관리 비법 · Present](https://present.do/decks/60bf8f711903093a77d15ef3)
 * [Why We Need Build Systems - Sticky Bits - Powered by FeabhasSticky Bits – Powered by Feabhas](https://blog.feabhas.com/2021/06/why-we-need-build-systems/)
 * [Moving a project to C++ named Modules - C++ Team Blog](https://devblogs.microsoft.com/cppblog/moving-a-project-to-cpp-named-modules/)
+* [String Hashing in C++ - DEV Community](https://dev.to/muiz6/string-hashing-in-c-1np3)
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
@@ -387,6 +388,7 @@ C++
 * [Seastar is an advanced, open-source C++ framework for high-performance server applications](http://www.seastar-project.org/)
 * [SLED (Beta) - A responsive C++ editor that understands your code](http://slededit.com/new/)
 * [Snapcast - a multi-room client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio](https://github.com/badaix/snapcast/)
+* [SpaceCadetPinball: Decompilation of 3D Pinball for Windows – Space Cadet](https://github.com/k4zmu2a/SpaceCadetPinball)
 * [SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages](http://www.swig.org/)
 * [Templight - A C++ Template Metaprogram Debugger and Profiler](http://plc.inf.elte.hu/templight/)
 * [TinyXML2 - a simple, small, efficient, C++ XML parser that can be easily integrated into other programs](https://github.com/leethomason/tinyxml2)
