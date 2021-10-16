@@ -303,6 +303,7 @@ Business
 * [Making the Remote Onboarding a Success](https://engineering.zalando.com/posts/2021/04/making-the-remote-onboarding-a-success.html)
 * [Innovating onboarding experience at your companies with technologies - YouTube](https://www.youtube.com/watch?v=0S1WjrkuQPM)
 * [리멤버의 온보딩 과정을 소개합니다 | DRAMA&COMPANY](https://blog.dramancompany.com/2021/08/%eb%a6%ac%eb%a9%a4%eb%b2%84%ec%9d%98-%ec%98%a8%eb%b3%b4%eb%94%a9-%ea%b3%bc%ec%a0%95%ec%9d%84-%ec%86%8c%ea%b0%9c%ed%95%a9%eb%8b%88%eb%8b%a4/)
+* [온보딩 ‘구름타기’ 수료 후기. CTC 만의 온보딩 프로그램, ‘구름타기’ | by 이진태 | Cloud Villains | Oct, 2021 | Medium](https://medium.com/ctc-mzc/megazonecloud-ctc-%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B5%AC%EB%A6%84%ED%83%80%EA%B8%B0-%EC%88%98%EB%A3%8C-%ED%9B%84%EA%B8%B0-7bb14acf0abd)
 * [Under-promise and over-deliver](https://www.thestartupbible.com/2019/10/under-promise-and-over-deliver.html) 일하는 자세로서 매우 동감하는 글. 제목이 모든 걸 알려준다
 * [지금, 이직을 생각하는 당신에게](https://ppss.kr/archives/204910) 당연한 이야기인데 변화가 늦은 다른 직종에서는 놀라울 수도 있겠다는 생각이 듦
 * [일 좀 하게 해 줘, 발목잡지 말고](https://brunch.co.kr/@jinhoyooephf/18) 품의 제도의 역사 및 개선 방법(사실은 글로벌 스탠다드)
@@ -919,6 +920,8 @@ Business
 * [왜 스타트업으로 오고 싶으세요? | ㅍㅍㅅㅅ](https://ppss.kr/archives/245966)
 * [남의집, 당근마켓에서 투자받다](https://brunch.co.kr/@yongisa/61) 투자까지 고생한 이야기
 * [이상적인 CFO의 5가지 조건](https://www.venturesquare.net/839324)
+* [THE COMPLETE GUIDE TO BOOTSTRAPPING YOUR STARTUP From 0 to 10M Users with $0 Funding](https://www.jotform.com/10million/story/)
+  * [스타트업 부트스트래핑 가이드 | GeekNews](https://news.hada.io/topic?id=5178)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
