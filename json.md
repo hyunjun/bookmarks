@@ -14,6 +14,7 @@ Json
 * [Use Binary Encoding Instead of JSON - Better Programming - Medium](https://medium.com/better-programming/use-binary-encoding-instead-of-json-dec745ec09b6)
 * [JSON 데이터 타입을 처리하는 웹 어플리케이션에서 XXE 취약점이 발생하는 이유](http://blog.naver.com/crehacktive3/222037182911)
 * [The Pretty JSON Revolution](http://www.ohler.com/dev/pretty.html)
+* [Parsing JSON Really Quickly: Lessons Learned - YouTube](https://www.youtube.com/watch?v=wlvKAT7SZIQ)
 
 # C++
 * [Writing a simple JSON library from scratch: a tour through modern C++ | notes.eatonphil.com](https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html)
