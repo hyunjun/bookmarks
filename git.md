@@ -229,6 +229,7 @@ Git
   * 그래서 파일 마지막에 개행 문자가 없는 경우에 rename의 추적 과정이 왜 달라지는지도 설명
 * [Improving Git protocol security on GitHub | The GitHub Blog](https://github.blog/2021-09-01-improving-git-protocol-security-github/)
 * [GitHub과 소프트웨어 보안 - YouTube](https://www.youtube.com/watch?v=j5GDh67ql4s)
+* [Sergey Bronnikov - Git as a storage](https://bronevichok.ru/posts/git-as-a-storage.html)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -972,6 +973,7 @@ Git
   * [Tig: text-mode interface for Git](http://jonas.nitro.dk/tig/)
   * [blogs.atlassian.com/2013/05/git-tig](http://blogs.atlassian.com/2013/05/git-tig/)
 * [TinyPress - The best GitHub writing platform](https://tinypress.co/)
+* [ugit: DIY Git in Python](https://www.leshenko.net/p/ugit/)
 * [ungit - The easiest way to use git. On any platform. Anywhere](https://github.com/FredrikNoren/ungit)
 * [utterances](https://utteranc.es/)
   * [페이스북 댓글을 utterances로 교체했습니다](https://blog.outsider.ne.kr/1356)
