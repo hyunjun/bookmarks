@@ -296,6 +296,7 @@ Web
 * [Facebook Saved 크롤링](https://www.notion.so/Facebook-Saved-a3c05f5b00dc411e84ff7f548114070a)
 * [🚜 웹 크롤링과 아키텍쳐](https://velog.io/@mowinckel/%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81%EA%B3%BC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
   * [웹 크롤러 아키텍쳐 | GeekNews](https://news.hada.io/topic?id=4338)
+* [The State Of Web Scraping in 2021 – Mihai's Blog](https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/)
 * [Common Crawl - We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone](https://commoncrawl.org/)
   * [Basic Statistics of Common Crawl Monthly Archives](https://github.com/commoncrawl/cc-crawl-statistics)
 * [Greenflare - 오픈소스 로컬 SEO 크롤러 | GeekNews](https://news.hada.io/topic?id=3365)
@@ -1074,6 +1075,7 @@ Web
 * [웹어셈블리를 활용한 유망한 프로그래밍 언어 프로젝트 10가지 - ITWorld Korea](https://www.itworld.co.kr/news/196324)
 * [웹어셈블리 인기에 날개달까?··· 주목할 만한 언어 프로젝트 11가지 - CIO Korea](https://www.ciokorea.com/news/199344)
 * [Making JavaScript run fast on WebAssembly](https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly)
+  * [WebAssembly는 어떻게 JavaScript를 빠르게 실행할 수 있는가 | GeekNews](https://news.hada.io/topic?id=5167)
 * [WebAssembly with Golang by scratch | by Roman Romadin | Aug, 2021 | ITNEXT](https://itnext.io/webassemply-with-golang-by-scratch-e05ec5230558)
   * Go 언어 이용 간단한 WebAssembly 작성 예제
   * 코드는 Hello World를 출력하는 정도이지만 Go로 작성한 코드를 컴파일해서 HTML 페이지와 연동해서 불러오는 방법 소개
