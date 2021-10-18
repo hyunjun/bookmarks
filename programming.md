@@ -652,7 +652,9 @@ Programming
   * [API Improvement Proposals](https://google.aip.dev/)
 * [KAKAO REST API](https://developer-ankiwoong.tistory.com/748)
   * [카카오 장소검색 API 활용안내(Play with Data)](https://www.notion.so/API-Play-with-Data-6156b17b222b4d0ca495a4cc3f2e41c6)
-* Microsoft [api-guidelines: Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
+* Microsoft
+  * [api-guidelines: Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
+  * [Web API 디자인 모범 사례 - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/ko-kr/azure/architecture/best-practices/api-design)
 * [Open-Meteo.com](https://open-meteo.com/) Free Weather API
 * [OverAPI.com - Collecting All Cheat Sheets](http://overapi.com/)
 * Paypal [Paypal 여러 개의 상품 결제를 위한 API](https://jybaek.tistory.com/861)
