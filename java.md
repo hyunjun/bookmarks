@@ -1624,6 +1624,7 @@ Java
 * [Source Code Examples](https://www.sourcecodeexamples.net/p/free-spring-boot-projects.html)
 * [30. Spring - Spring Boot Configuration Properties 클래스 만들기](https://kim-jong-hyun.tistory.com/56)
 * [32. Spring - Spring Boot 애플리케이션 war 배포 및 Tomcat Probe Manager 설정](https://kim-jong-hyun.tistory.com/58)
+* [39. Spring Boot에서 제공해주는 기능들로 개발할 때 좋은점](https://kim-jong-hyun.tistory.com/92)
 * [2월 우아한테크세미나 우아한 스프링 부트 - YouTube](https://www.youtube.com/watch?v=z0EaPjF3pCQ) [pdf](pdfs/wooahan_spring_boot.pdf)
 * [Integration Tests with Spring Boot and @SpringBootTest](https://reflectoring.io/spring-boot-test/)
 * [Spring Boot Custom Filters | Filter Registration Bean | Swagger Integration with Filters | WebFilter - YouTube](https://www.youtube.com/watch?v=Bcne87cnzHg)
