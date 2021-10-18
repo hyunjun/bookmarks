@@ -848,6 +848,7 @@ Clojure
 * [code3dworld: Learn programming in 3D World](https://github.com/ertugrulcetin/code3dworld)
 * [codox - Clojure documentation tool](https://github.com/weavejester/codox)
   * [codox-klipse-theme](https://github.com/viebel/codox-klipse-theme)
+* [coffi: A Foreign Function Interface in Clojure for JDK 17](https://github.com/IGJoshua/coffi)
 * [cogent: a small theorem prover in clojure](https://github.com/erdos/cogent)
 * [comment-or-uncomment-sexp command](http://endlessparentheses.com/a-comment-or-uncomment-sexp-command.html)
 * [Common-Metadata-Repository](https://github.com/nasa/Common-Metadata-Repository)
