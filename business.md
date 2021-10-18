@@ -703,6 +703,12 @@ Business
 * [타운홀 미팅에서 자유롭고 투명하게 소통하려면](https://brunch.co.kr/@1slide1message/105)
 * ["조직 내 상하 간 소통 단절은 100% 리더 책임입니다" 박태현 작가 인터뷰](https://blog.naver.com/businessinsight/222534654197)
 * [HR연구소 세상에 나쁜 리더는 있다](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=884)
+* [최고 성과를 내는 'S급 인재' 유지하는 5가지 비결 | The Miilk](https://www.themiilk.com/articles/a8115396f?u=84503ea0&t=adc7b1f27)
+  1. 불편할지라도 진정성 있게 행동하라
+  2. 팀에게 공간을 제공하고 신뢰를 보여주라
+  3. 조직만의 파티를 하라
+  4. 실제적인 방식으로 팀의 건강에 투자하라
+  5. 내일의 팀 리더에게 오늘 투자하라
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
