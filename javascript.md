@@ -3049,6 +3049,7 @@ Javascript
 * [Mobile Convergence :: MS-10 API/Web i18n 적용 및 리팩토링](https://mobicon.tistory.com/594)
 * [Mobile Convergence :: MS-11 i18n 외부파일 위치 변경 및 Web Dev Server 연결](https://mobicon.tistory.com/595)
 * [라이브 플레이어 UI 개선기](https://d2.naver.com/helloworld/0203261)
+* [React Derived State 다시 보기 | Dev Log](https://reactiver.dev/review-react-derived-state/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
