@@ -371,6 +371,7 @@ AWS
 * [한국어 기술 백서 AWS 기반 현대적 애플리케이션 및 딥러닝 프로젝트 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/wp-modern-app-deep-learning-on-aws/)
 * [Github로 터미널에서 명령어 이용해 소스 올리기](https://developer88.tistory.com/297)
 * [AWS, 컨테이너 전용 리눅스 OS 보틀로켓(BottleRocket) 1.0 릴리스 | 44BITS](https://www.44bits.io/ko/post/news--aws-release-bottlerocket-os-for-container)
+* [Bottlerocket을 프로덕션 클러스터에 사용하기 - 조성원(하이퍼커넥트), TDS로 DevSecOps - 주성식(AWS) :: 제23회 AWSKRUG Container모임 - YouTube](https://www.youtube.com/watch?v=1nR7MzgAW-0)
 * [(리눅스 업스킬 도전 #1) 서버에 접속해보자!](https://jhrogue.blogspot.com/2020/09/1_14.html)
 * [AWS Transfer 패밀리로 SFTP 구성하기 #1 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1500)
 * [AWS Transfer 패밀리로 SFTP 구성하기 #2 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1502)
