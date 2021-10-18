@@ -959,6 +959,7 @@ NLP
 * [Can GPT-3 Make Analogies?. By Melanie Mitchell | by Melanie Mitchell | Medium](https://medium.com/@melaniemitchell.me/can-gpt-3-make-analogies-16436605c446)
 * [GPT-3은 얼마내고 써야할까요?](https://media-ai.tistory.com/16) 계산 과정이 재미있음
 * [구독자 GPT-3는 우리 중에 최약체지](https://maily.so/kyeom.ai/posts/366f2a)
+* [GPT-3 is not That Smart. With a Reason | LinkedIn](https://www.linkedin.com/pulse/gpt-3-smart-reason-stojancho-tudjarski/)
 * [OpenAI Codex 공개 및 파이썬 퍼즐 챌린지 예정 | GeekNews](https://news.hada.io/topic?id=4803)
 * [gpt-neo: An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library](https://github.com/EleutherAI/gpt-neo/)
 * [21년 2월 2주 - from __future__ import dreamfrom __future__ import dream](http://freesearch.pe.kr/archives/5034)
