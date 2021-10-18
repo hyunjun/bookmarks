@@ -204,6 +204,7 @@ Lisp
 * [execute scheme online](http://www.tutorialspoint.com/execute_scheme_online.php)
 * [**Practical Functional Programming**](http://www.lambdanative.org/)
 * [python vs scheme part 1 - YouTube](https://www.youtube.com/watch?v=f-qtqWUKspA)
+* ["Strange Dreams of Stranger Loops" by Will Byrd - YouTube](https://www.youtube.com/watch?v=AffW-7ika0E)
 * [Schemy - a lightweight Scheme-like scripting language interpreter for embedded use in .NET applications](https://github.com/Microsoft/schemy)
 
 # tisp
