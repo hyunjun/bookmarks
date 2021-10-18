@@ -297,6 +297,7 @@ Web
 * [🚜 웹 크롤링과 아키텍쳐](https://velog.io/@mowinckel/%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81%EA%B3%BC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
   * [웹 크롤러 아키텍쳐 | GeekNews](https://news.hada.io/topic?id=4338)
 * [The State Of Web Scraping in 2021 – Mihai's Blog](https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/)
+* [합법적으로 ‘웹 크롤링’하는 방법 (上) | 요즘IT](https://yozm.wishket.com/magazine/detail/877/)
 * [Common Crawl - We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone](https://commoncrawl.org/)
   * [Basic Statistics of Common Crawl Monthly Archives](https://github.com/commoncrawl/cc-crawl-statistics)
 * [Greenflare - 오픈소스 로컬 SEO 크롤러 | GeekNews](https://news.hada.io/topic?id=3365)
