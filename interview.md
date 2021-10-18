@@ -810,6 +810,7 @@ Interview
 * [Leaked Salary Spreadsheet Reveals Microsoft Employee Earnings for a Second Year | by Dave Gershgorn | Sep, 2020 | OneZero](https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309)
 * [개발자 연봉이 올랐어요! – Dreaming for the Future](http://www.chidoo.me/index.php/2021/05/07/2021-developer-salary-shock/)
 * [연봉을 올리기 위한 5가지 준비물 | ㅍㅍㅅㅅ](https://ppss.kr/archives/195592)
+* [이직할 때 카운터 오퍼를 받아들이면 안되는 이유들 | 경력직은 잡인덱스](https://www.jobindexworld.com/contents/view/3461)
 * [levels.fyi](https://www.levels.fyi/) 미국 회사 직급별 연봉
 * [paysa.com - Make the most out of your job Paysa is your free personal career advisor](https://www.paysa.com/)
 * [perks.guide](http://perks.guide/) 회사 복지 비교
