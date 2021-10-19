@@ -582,6 +582,8 @@ Go
   * [golang - Lorca를 사용하여 Go로 HTML5 앱 만들기 - jacking75](https://jacking75.github.io/go_lib_Lorca/)
 * [Machinery is an asynchronous task queue/job queue based on distributed message passing](https://github.com/RichardKnop/machinery)
   * [Machinery - Machinery is an asynchronous task queue/job queue based on distributed message passing](http://richardknop.github.io/machinery/)
+* [macos-totp-cli: simple TOTP CLI, powered by keychain of macOS](https://github.com/simnalamburt/macos-totp-cli)
+  * macOS의 키체인을 이용해서 터미널에서 TOTP(Time-based One-Time Password)를 사용할 수 있는 CLI
 * [mark - A markdown processor written in Go. built for fun](https://github.com/a8m/mark)
 * [matterbridge Letting people be where they want to be](https://github.com/42wim/matterbridge)
 * [Mattermost is an open source, on-prem Slack-alternative](https://github.com/mattermost/platform)
