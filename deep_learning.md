@@ -1586,6 +1586,7 @@ Deep Learning
 * [Python 신경망 학습 (1) : 네이버 블로그](https://blog.naver.com/eunseong31/221590935770)
 * [Python 신경망 학습 (2) : 네이버 블로그](https://blog.naver.com/eunseong31/221597561463)
 * [Python 신경망 학습 (3) : 네이버 블로그](https://blog.naver.com/eunseong31/221598016421)
+* [Neural Networks from Scratch - an interactive guide](https://aegeorge42.github.io/) 뉴럴넷을 배울 수 있도록 단계별로 진행해 볼 수 있는 인터렉티브 가이드
 * [triton: Development repository for the Triton language and compiler](https://github.com/openai/triton)
   * [Introducing Triton: Open-Source GPU Programming for Neural Networks](https://www.openai.com/blog/triton/)
 
