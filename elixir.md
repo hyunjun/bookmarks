@@ -120,6 +120,7 @@ Elixir
   * [Phoenix LiveView + Typescript + Svelte + Tailwind CSS, How](https://seokjun.kim/elixir-phoenix-liveview-svelte-how/)
   * [Phoenix: An Introduction to Elixir's Web Framework](https://serokell.io/blog/introduction-to-phoenix)
   * [The Power & Performance of Phoenix LiveView • Geoffrey Lessel • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=-Rl-26JJ6js)
+  * [#elixirlang phoenix 웹 프레임워크의 관절 plug 매크로 간단 버전 구현](http://ohyecloudy.com/pnotes/archives/elixirlang-simple-plug-implementation/)
 * [Plausible Analytics | Simple, privacy-friendly alternative to Google Analytics](https://plausible.io/)
   * [analytics: Simple, open-source, lightweight `(< 1 KB)` and privacy-friendly web analytics alternative to Google Analytics](https://github.com/plausible/analytics)
   * [Why choose Plausible for an open source alternative to Google Analytics | Opensource.com](https://opensource.com/article/21/2/plausible)
