@@ -250,6 +250,21 @@ Network
 * [BGP in a Nutshell | std::bodun::blog](https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/) Border Gateway Protocol (BGP)
 * [“인터넷이 지구 반대편을 연결하는 방법” BGP의 개념과 동작 원리 - ITWorld Korea](https://www.itworld.co.kr/news/181614)
 * [Facebook을 다운 시킨 이유, BGP hijacking이 무엇인가? :: 시행착오를 줄이는 방법](https://dataportal.kr/14)
+* [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
+  * 지난 10월 5일 Facebook, Instagrm, Whatsapp이 5시간 정도 접속이 안 되는 장애 발생, 이를 Cloudflare에서 분석 정리한 글
+  * 이번 장에는 서버에 접속 안 된 것뿐 아니라 DNS 룩업도 안되고 인터넷에서 페이스북이 운영하는 모든 네트워크에 연결이 아예 불가능
+  * 서버에서 오류 응답을 받는 게 아니라 페이스북이 인터넷에서 사라진 상황
+  * BGP(Border Gateway Protocol)은 인터넷의 AS(Autonomous Systems)가 라우팅 정보를 교환하는 프로토콜
+  * 페이스북의 발표에 따르면 페이스북이 백본 라우터를 조정하면서 데이터센터 백본이 끊어지면서 BGP 요청을 거부하고 DNS에서 접근이 불가능하게 되어버림.
+* [Tools to explore BGP](https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/)
+  * 페이스북 장애와 관련해서 BGP 정보를 룩업할 수 있는 도구 설명
+  * 자신의 ASN이 없으면 보통 BGP를 게시할 수 있는 권한이 없음
+  * AS(autonomous system)는 ISP, 정부, 대학, 페이스북 같은 조직에서 소유하고 있고 특정 IP 주소의 세트를 제어하며 식별 번호 소유
+  * BGP를 게시해서 BGP 라우트로 해당 IP와 서브넷에 도달하는 경로 파악 가능
+  * BGPView로 연결된 AS를 볼 수 있음 [BGPView - BGP Toolkit and BGP ASN Routing Lookup Tool](https://bgpview.io/)
+  * `traceroute`와 `mtr`의 플래그를 통해서 어떤 AS를 거쳐 가는지 볼 수 있음
+  * PCH(packet clearing house) Looking Glass로 BGP 경로를 볼 수 있음 [Looking Glass | PCH](https://www.pch.net/tools/looking_glass/)
+  * BGPlay에서는 이전 시간의 BGP도 볼 수 있으므로 페이스북의 장애 시점에서 BGP 경로가 사라진 것도 볼 수 있음 [RIPEStat BGPlay](https://stat.ripe.net/special/bgplay)
 * XMPP [Modern XMPP](https://docs.modernxmpp.org/)
 
 # TIME_WAIT
@@ -288,6 +303,11 @@ Network
 * [Understanding Sockets | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-sockets)
 * [Unit testing a TCP stack](http://www.snellman.net/blog/archive/2015-07-09-unit-testing-a-tcp-stack/)
 * [10분 만에 훑어보는 TCP와 UDP - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/09/23/Overview-of-TCP-and-UDP.html)
+* [Connection Timeout과 Read Timeout 살펴보기](https://alden-kang.tistory.com/20)
+  * Connection Timeout은 종단 간 연결하는데 필요한 최대 시간 의미, 이 시간이 넘어가면 연결할 수 없다고 판단하고 오류 발생
+  * Read Timeout은 연결된 종단 간에 데이터를 주고받을 때 걸리는 최대시간, 이 시간 내에 데이터를 다 받지 못하면 오류 발생
+  * 이를 바탕으로 연결할 때 SYN, SYN+ACK, ACK가 유실되는 경우를 생각하면 3초가 Connection Timeout으로 이상적인 값
+  * Read Timeout은 패킷 유실과 요청 처리 시간을 고려해서 1초 정도로 제안
 
 # UDP
 * [Haste Framework UDP(User Datagram Protocol)를 기반으로 빠르고 쉬운 개발을 위해 만들어진 게임 서버 프레임워크](https://github.com/nhnent/haste.framework)
