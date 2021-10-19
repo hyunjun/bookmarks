@@ -1055,6 +1055,7 @@ Docker
 * [플레이스 AI 개발의 MLOps w/ Kubernetes | by WonhongYoo | 네이버 플레이스 개발 블로그 | Aug, 2021 | Medium](https://medium.com/naver-place-dev/naver-g%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4ai%EA%B0%9C%EB%B0%9C-%EB%B6%80%EC%84%9C%EC%9D%98-mlops-kubernetes-%EA%B8%B0%EB%B0%98-1f234d82b238)
 * [Successful Kubernetes Development Workflows • Ellen Körbes • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=9csPAXYEf7M)
 * [How to Debug Dead Container in K8s](https://leoh0.github.io/post/2018-08-04-how-to-debug-dead-container-in-k8s/)
+* [Living with Kubernetes: Debug Clusters in 8 Commands – The New Stack](https://thenewstack.io/living-with-kubernetes-debug-clusters-in-8-commands)
 * [왜 쿠버네티스는 systemd로 cgroup을 관리하려고 할까요](https://www.slideshare.net/JoHoon1/systemd-cgroup)
 * [A Deep Dive Into Kubernetes Schema Validation](https://www.datree.io/resources/kubernetes-schema-validation)
   * Kubernetes manifests를 클러스터에 적용하기 전에 유효성 검사를 할 수 있는 방법 비교
@@ -1154,6 +1155,8 @@ Docker
   * Kubernetes 노드 오토스케일러
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
   * [Announcing KEDA: bringing event-driven containers and functions to Kubernetes](https://cloudblogs.microsoft.com/opensource/2019/05/06/announcing-keda-kubernetes-event-driven-autoscaling-containers/)
+* Ketch [Application Delivery - Ketch](https://www.theketch.io/)
+  * [Use Ketch to Deploy Apps on Kubernetes With YAML - DZone Cloud](https://dzone.com/articles/how-to-use-ketch-to-deploy-applications-on-kuberne)
 * [kim: In ur kubernetes, buildin ur imagez](https://github.com/rancher/kim) Rancher에서 공개한 Kubernetes 이미지 관리자
 * [Knative](https://knative.dev/)
   * [Knative on EKS](https://ddii.dev/kubernetes/knative-on-aws/)
@@ -1362,6 +1365,7 @@ Docker
 * [registry.hub.docker.com](https://registry.hub.docker.com)
 * [rocker-compose - Docker composition tool with idempotency features for deploying apps composed of multiple containers](https://github.com/grammarly/rocker-compose)
 * [seagull - Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
+* Shipa [Home - Shipa](https://shipa.io/) Shipa does for applications what Terraform did for infrastructure. A consistent application definition for an evolving infrastructure
 * [youki: A container runtime written in Rust](https://github.com/containers/youki)
   * [Youki - Rust로 작성된 컨테이너 런타임 | GeekNews](https://news.hada.io/topic?id=5116)
 
