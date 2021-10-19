@@ -77,6 +77,12 @@ Redis
 * [Scaling Redis at Twitter](https://www.youtube.com/watch?v=rP9EKvWt0zo)
 * [Redis Use Patterns: An Introduction to the SQL Practitioner](https://www.youtube.com/watch?v=8Unaug_vmFI)
 * [Amazon ElastiCache(Redis)를 이용한 채팅 애플리케이션 구성 방법](https://aws.amazon.com/ko/blogs/korea/how-to-build-a-chat-application-with-amazon-elasticache-for-redis)
+* [**배민쇼핑라이브를 만드는 기술: 채팅 편 | 우아한형제들 기술블로그**](https://techblog.woowahan.com/5268/)
+  * 배달의민족 쇼핑라이브에서 많을 때는 분당 2만 건이 넘는 메시지를 처리하기 위한 채팅을 직접 구현하기로 하면서 Redis의 Pub/Sub과 Webflux를 이용해서 채팅을 구현한 과정을 설명
+  * 이전에 구현했던 경험을 통해 WebSocket의 사용 최소화, REST API를 사용할 수 있는 부분은 WebSocket의 커맨드를 이용하지 않도록 하여 WebSocket 처리에는 메시지를 보내고 받는 부분에 집중
+  * WebFlux로 non-blocking의 이점을 얻기 위해 대부분의 데이터는 Redis를 이용하고 RDB에 보관해야 하는 API는 별도로 분리
+  * WebSession을 사용했는데 어느 날 10,000개의 최대 세션 개수를 넘어서면서 오류가 발생하여 WebSession을 사용하지 않도록 개선
+  * 관리자 사이트에서 너무 많은 메시지를 브라우저에서 렌더링하다가 멈추는 문제가 발생하여 리스트를 가상화하고 렌더링 횟수를 줄여서 성능 문제 해결
 * [EC2에 Redis CLI 설치하기](https://jojoldu.tistory.com/348)
 * [You should revise your Redis max connections setting](https://medium.com/appaloosa-store-engineering/you-should-revise-your-redis-max-connections-setting-8136f063c916)
   * heroku에서 사용할 때 이야기라 server에 설치해서 쓸 때와는 조금 거리가 있지만 참고
