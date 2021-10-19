@@ -480,3 +480,4 @@ PyTorch
 * [파이토치(PyTorch) 튜토리얼에 오신 것을 환영합니다 — PyTorch Tutorials 1.6.0 documentation](https://tutorials.pytorch.kr/)
 * [PyTorch Fundamentals - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/)
 * [Understanding PyTorch with an example: a step-by-step tutorial | by Daniel Godoy | Towards Data Science](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
+* [Introduction to Distributed Training in PyTorch - PyImageSearch](https://www.pyimagesearch.com/2021/10/18/introduction-to-distributed-training-in-pytorch/)
