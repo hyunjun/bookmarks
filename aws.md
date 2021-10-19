@@ -892,6 +892,8 @@ AWS
 * [A Rotating Proxy that utilizes Cellular Network, Cloudflare WARP, AWS Lambda](https://tech.ssut.me/a-rotating-proxy-that-uses-cellular-network-cloudflare-warp-aws-lambda/)
 * [모놀리식에서 서버리스까지 - 빠른 개발을 위한 가이드, Adrian Cockcroft (VP of Cloud Architecture, AWS) - YouTube](https://www.youtube.com/watch?v=kWjVlBgLgdI)
 * [AWS Lambda battle 2021: performance comparison for all languages (cold and warm start) | by Aleksandr Filichkin | Sep, 2021 | Medium](https://filia-aleks.medium.com/aws-lambda-battle-2021-performance-comparison-for-all-languages-c1b441005fd1)
+  * AWS Lambda에서 Node.js, Python, Go, Ruby 등 다양한 런타임 간의 성능 비교
+  * 콜드 스타트에 걸리는 시간과 JMeter로 15,000 요청을 보내면서 WARM 테스트를 수행해서 런타임 간의 요청 시간을 비교해 볼 수 있게 정리
 * [Apex - AWS Lambda 관리도구 #1](https://blog.outsider.ne.kr/1241)
 * [Apex - AWS Lambda 관리도구 #2](https://blog.outsider.ne.kr/1242)
 * [AWS Lambda: Apex로 관리하기](https://hyunseob.github.io/2017/07/09/aws-lambda-with-apex/)
