@@ -1324,6 +1324,13 @@ Programming
 * [Microservice, monolith, microlith](https://blogs.oracle.com/javamagazine/post/microservice-monolith-microlith)
 * [Microservices Database Management Patterns and Principles | by Mehmet Özkaya | Design Microservices Architecture with Patterns & Principles | Sep, 2021 | Medium](https://medium.com/design-microservices-architecture-with-patterns/microservices-database-management-patterns-and-principles-9121e25619f1)
 * [Solving distributed data problems in a microservice architecture | Microservices.io - YouTube](https://www.youtube.com/watch?v=AEbJgpamZ4w)
+* [API V2 전환과 DB 무중단 마이그레이션 후기. 29CM에서는 비즈니스 확장에 대응하기 위해 Monolithic… | by rogiry | 29CM 기술블로그 | Oct, 2021 | Medium](https://medium.com/29cm/api-v2-%EC%A0%84%ED%99%98%EA%B3%BC-db-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%9B%84%EA%B8%B0-8b39eb0db566)
+  * 29CM에서 모노리스로 구성되어 있던 서버에서 서비스를 분리하면서 MySQL로 무중단 마이그레이션 하는 과정 설명
+  * 좋아요 기능의 테이블 변경 작업을 하면서 v2 API를 별도의 서비스로 분리하기로 결정
+  * 기존 PostgreSQL을 MySQL로 전환하지만, v1, v2 API를 둘 다 제공해야 하므로 두 데이터베이스 간 데이터는 동기화 필요
+  * 좋아요 설정/해제는 v1만 사용하도록 하고 SQS를 이용해서 이 데이터를 MySQL에 저장
+  * 좋아요 조회는 v1과 v2를 모두 이용하게 구성
+  * 데이터 이관은 PostgreSQL을 덤프한 뒤 MySQL에 로드하게 했고 마이그레이션 중의 데이터는 SQS를 통해서 MySQL에 추가
 * [Back-end for Front-end Pattern (BFF) | by Giljae Joo (주길재) | Medium](https://giljae.medium.com/back-end-for-front-end-pattern-bff-4b73f29858d6)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
@@ -2739,6 +2746,8 @@ Programming
   * [기술 뉴스 #180 : 21-08-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1560)
   * [기술 뉴스 #181 : 21-09-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1564)
   * [기술 뉴스 #182 : 21-09-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1566)
+  * [기술 뉴스 #183 : 21-10-02 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1567)
+  * [기술 뉴스 #184 : 21-10-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1568)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
