@@ -463,6 +463,17 @@ Javascript
 * [10분 테코톡 🌳 나봄의 CORS - YouTube](https://www.youtube.com/watch?v=-2TgkKYmJt4)
 * [**CORS는 왜 이렇게 우리를 힘들게 하는걸까? | Evans Library**](https://evan-moon.github.io/2020/05/21/about-cors/)
 * [How to win at CORS - JakeArchibald.com](https://jakearchibald.com/2021/cors/)
+  * CORS가 생겨난 배경, CORS가 어떻게 동작하는지 설명
+  * 크로스 프레임 스크립트는 오리진이 같은 경우에만 할 수 있도록 허용(same-origin policy)
+  * 같은 사이트여도 오리진은 다를 수 있는데 이는 public suffix list라는 프로젝트에서 관리
+  * 다른 오리진에 HTTP 요청을 보내기 위해 W3C에서 CORS(Cross-Origin Resource Sharing)를 제안
+  * 크로스 오리진 요청은 Sec-Fetch-Mode 헤더와 함께 보내지므로 이를 통해 CORS 요청인지 확인 가능
+  * CORS가 아닌 HTML 요소에서도 crossorigin 속성을 사용해서 CORS 요청으로 변경 가능
+  * 요청이 어디서 왔는지 보여주기 위해 Origin이라는 새로운 헤더 도입
+  * CORS 검사가 끝나면 CORS 응답은 Access-Control-Allow-Origin: * 헤더 포함
+  * CORS는 credentials를 포함하지 않으므로 fecth()에서 credentials 옵션이나 HTML 요소에서 crossorigin="use-credentials"를 지정해서 크리덴셜 포함 가능
+  * 예외적인 요청을 보낼 때 브라우저는 preflight 요청을 먼저 송신. 메인 요청 전에 목적 URL에 OPTIONS로 보내는 요청
+  * CORS를 테스트할 수 있는 플레이그라운드 제공
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [메모리 크래시가 일어나는 과정](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
@@ -1887,6 +1898,7 @@ Javascript
   * [**꿀벌개발일지 :: npm registry 를 찾지 못하는 이슈**](https://ohgyun.com/804)
   * [Mac OS 업데이트 후, NPM install시 gyp 오류날 경우](https://jojoldu.tistory.com/566)
   * [또 depedency 버전을 잘못 설치하고 말았다. | Hama Develop](https://www.hamadevelop.me/packagelock/)
+    * npm이 의존성 관리에 이용하는 node_modules, package.json, package-lock.json의 개념과 이 각 파일의 존재 여부에 따라 의존성 설치가 어떻게 달라지는지 설명
   * [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/)
     * npm에서 보안 감사에 사용하는 npm audit이 문제 있다고 지적하는 글, React의 Dan Abramov 작성
     * npm aduit은 별도 명령어도 있지만 npm install을 실행했을 때도 자동 실행. 먼저 npm audit 동작 방식 설명
@@ -2728,6 +2740,7 @@ Javascript
 * [Props와 State - React에서 데이터를 다루는 주요 개념인 Props와 State가 무엇인지 알아보고, 사용하는 방법에 대해서 살펴봅시다](https://dev-yakuza.posstree.com/ko/react/props-state/)
 * [1. 리액트 설치하기](https://blog.naver.com/gi_balja/221224082297)
 * [Useful Custom Hooks for Tired React Devs | by Tom Norton | JavaScript In Plain English | Oct, 2020 | Medium](https://medium.com/javascript-in-plain-english/useful-custom-hooks-for-tired-react-devs-f2f602dc754f)
+* [React 커스텀 훅 함수의 테스트 코드 작성 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-10-18T00:00:00.000Z)
 * [How to build Chrome extensions with React + Parcel](https://medium.freecodecamp.org/building-chrome-extensions-in-react-parcel-79d0240dd58f)
 * [How to Use Code-Splitting With React and Parcel](https://medium.com/better-programming/how-to-use-code-splitting-with-react-and-parcel-e8bb37be4160)
 * [React Authentication in Depth](https://hackernoon.com/react-authentication-in-depth-4deebda9aa45)
