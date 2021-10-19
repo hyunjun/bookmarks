@@ -219,6 +219,7 @@ Business
 * [대규모 AI 프로젝트 진행 노하우](https://brunch.co.kr/@graypool/69) 전략
 * [LINE이 이 세계에서 계속 지고 있는 진짜 이유](https://medium.com/@herulu/1%EB%B6%84%EC%9D%B4%EB%A9%B4-%EC%95%88%EB%8B%A4-line%EC%9D%B4-%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C-%EA%B3%84%EC%86%8D-%EC%A7%80%EB%8A%94-%EC%A7%84%EC%A7%9C-%EC%9D%B4%EC%9C%A0-1a46ae9c1f72)
 * [그로스 해킹의 기본: gamification](http://www.andrewahn.co/product/gamification/)
+* [Growth hacking · Present](https://present.do/shows/616c3fed704425458cfce0f3)
 * [문재인 대통령의 회의 방침](http://agile.egloos.com/5890768)
 * [회의하다 암 거릴 것 같아요](http://outstanding.kr/debate20170609/)
   * 회의는 왜 비효율적인가?
