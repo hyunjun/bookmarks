@@ -974,6 +974,7 @@ Git
   * [blogs.atlassian.com/2013/05/git-tig](http://blogs.atlassian.com/2013/05/git-tig/)
 * [TinyPress - The best GitHub writing platform](https://tinypress.co/)
 * [ugit: DIY Git in Python](https://www.leshenko.net/p/ugit/)
+  * Python으로 직접 Git을 구현해 보는 튜토리얼. 단계별로 구현하면서 Git 내부가 어떻게 동작하는지 이해 가능. 변경되는 Python 코드와 설명을 같이 보면서 따라 해 볼 수 있게 구성
 * [ungit - The easiest way to use git. On any platform. Anywhere](https://github.com/FredrikNoren/ungit)
 * [utterances](https://utteranc.es/)
   * [페이스북 댓글을 utterances로 교체했습니다](https://blog.outsider.ne.kr/1356)
