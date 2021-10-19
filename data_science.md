@@ -407,6 +407,7 @@ Data Science
 * [텍스트 마이닝 기법3 - RomanticQ의 머신러닝](https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-mining-tech3/)
 * [knime.com](https://www.knime.com/)
   * [Principles of Guided Analytics](https://www.kdnuggets.com/2018/03/principles-guided-analytics.html)
+  * [KNIMETV - YouTube](https://www.youtube.com/channel/UCRbKmV_XYB7C12SPBokLVHQ)
 
 # Library
 * ["가자, 데이터의 세계로" 무료 애널리틱스 툴 7선](http://www.ciokorea.com/news/38154)
