@@ -1187,6 +1187,7 @@ Machine Learning
 * [AI는 '빅데이터(Big Data)'보다 '굿데이터(Good Data)'를 좋아합니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/gooddata20210916)
 * [칼럼ㅣAI 프로젝트 악순환 고리 끊어라··· 'ML옵스' 마인드셋이 필요한 이유 - CIO Korea](https://www.ciokorea.com/news/202454)
 * [MLOps And Machine Learning Roadmap - KDnuggets](https://www.kdnuggets.com/2021/08/mlops-machine-learning-roadmap.html)
+* [커피고래가 생각하는 MLOps | 커피고래의 노트](https://coffeewhale.com/what-is-mlops)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
 * [MadeWithML: Learn how to responsibly deliver value with ML](https://github.com/GokuMohandas/MadeWithML)
 * **[MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
