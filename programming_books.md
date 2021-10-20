@@ -1303,6 +1303,7 @@ Programming Books
 * (NOT YET) [실전 아파치 카프카](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B8503179529)
 * (NOT YET) [아파치 카프카 애플리케이션 프로그래밍 with 자바 - YES24](http://www.yes24.com/Product/Goods/99122569?OzSrank=1)
 * (NOT YET) [카프카, 데이터 플랫폼의 최강자](https://www.onlybook.co.kr/entry/kafka)
+* (NOT YET) [독서광 실전 카프카 개발부터 운영까지 - YouTube](https://www.youtube.com/watch?v=-bBksx0uVTI)
 
 # Kotlin
 
@@ -1465,6 +1466,7 @@ Programming Books
 * (NOT YET) [팀장의 탄생](https://brunch.co.kr/@insaboy/122)
 * (NOT YET) [팀장으로 산다는 건](https://brunch.co.kr/brunchbook/teamjang)
 * (NOT YET) [왜 리더인가(이나모리 가즈오 지음/김윤경 옮김/다산북스 펴냄) - YouTube](https://www.youtube.com/watch?v=_mhyRrB0pWs)
+  * [왜 리더인가 – Interpreting Compiler](https://interpiler.com/2021/10/20/%ec%99%9c-%eb%a6%ac%eb%8d%94%ec%9d%b8%ea%b0%80/)
 * (NOT YET) [넷플릭스, '규칙 없음'](https://brunch.co.kr/@pliossun/170)
 * (NOT YET) [‘리더 디퍼런트’ - 인사이트](https://www.insight.co.kr/news/355641) Start with why, Simon Sinek
 * (NOT YET) [소방관의 선택](https://jhrogue.blogspot.com/2021/10/blog-post.html)
