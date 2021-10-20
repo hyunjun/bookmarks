@@ -2074,6 +2074,7 @@ Programming
 * [Mozilla HTTP Observatory | GeekNews](https://news.hada.io/topic?id=5052)
 * [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu/)
 * [SHA-1 'Fully and Practically Broken' By New Collision | Decipher](https://duo.com/decipher/sha-1-fully-and-practically-broken-by-new-collision)
+* [A Blueprint for Securing Software Development - DevOps.com](https://devops.com/a-blueprint-for-securing-software-development/)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
