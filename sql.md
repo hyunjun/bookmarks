@@ -186,6 +186,7 @@ SQL
 * [A future for SQL on the web](https://jlongster.com/future-sql-web)
   * [웹용 SQL의 미래 | GeekNews](https://news.hada.io/topic?id=4808)
 * [Stephen Colebourne's blog: Big problems at the timezone database](https://blog.joda.org/2021/09/big-problems-at-timezone-database.html)
+* [통계 서버를 구축하며!. 소개 | by Jason Kang | Uniquegood | Oct, 2021 | Medium](https://medium.com/uniquegood/%ED%86%B5%EA%B3%84-%EC%84%9C%EB%B2%84%EB%A5%BC-%EA%B5%AC%EC%B6%95%ED%95%98%EB%A9%B0-c071c6d4f945) 주제 분류가 좀 애매하지만 동시성 문제를 이야기하니 우선 여기에
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
