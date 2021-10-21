@@ -2300,6 +2300,7 @@ Python
 * [Automate These 3 (Boring!!) Excel Tasks with Python!](https://towardsdatascience.com/automate-these-3-boring-excel-tasks-with-python-666b4ded101b)
 * [How to integrate Excel with Python | Towards Data Science](https://towardsdatascience.com/invigorate-excel-with-python-58c9c3208093)
 * [Case Study: Automating Excel File Creation and Distribution with Pandas and Outlook - Practical Business Python](https://pbpython.com/excel-email.html)
+* [python으로 excel 데이터 탭 별로 mysql DB로 이관 하기 (data migration)](https://stricky.tistory.com/511)
 * [DOTXCEL - Paint Your Image To Excel!](https://github.com/yongsk0066/dotxcel)
 * [**Grid studio - a web-based spreadsheet application with full integration of the Python programming language. https://gridstudio.io **](https://github.com/ricklamers/gridstudio)
   * [How I built a spreadsheet app with Python to make data science easier](https://hackernoon.com/introducing-grid-studio-a-spreadsheet-app-with-python-to-make-data-science-easier-tdup38f7)
