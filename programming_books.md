@@ -1303,7 +1303,8 @@ Programming Books
 * (NOT YET) [실전 아파치 카프카](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B8503179529)
 * (NOT YET) [아파치 카프카 애플리케이션 프로그래밍 with 자바 - YES24](http://www.yes24.com/Product/Goods/99122569?OzSrank=1)
 * (NOT YET) [카프카, 데이터 플랫폼의 최강자](https://www.onlybook.co.kr/entry/kafka)
-* (NOT YET) [독서광 실전 카프카 개발부터 운영까지 - YouTube](https://www.youtube.com/watch?v=-bBksx0uVTI)
+* (NOT YET) [실전 카프카 개발부터 운영까지](https://jhrogue.blogspot.com/2021/10/blog-post_21.html)
+  * [독서광 실전 카프카 개발부터 운영까지 - YouTube](https://www.youtube.com/watch?v=-bBksx0uVTI)
 
 # Kotlin
 
