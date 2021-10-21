@@ -1085,6 +1085,7 @@ Programming
 * [Domain-driven design · Present](https://present.do/decks/60bed187f79479437375f362)
 * [Domain Driven Design Patterns in Python - YouTube](https://www.youtube.com/watch?v=hv-LiKQgN90)
 * [**Spoqa 기술 블로그 | 도메인 주도 개발 전환 이야기**](https://spoqa.github.io/2021/09/13/domain-driven-development-transition-story.html)
+* [Domain-Driven Design with Value-Added Services and Domain Gateways at SoundCloud](https://www.infoq.com/news/2021/10/ddd-vas-gateway-soundcloud/)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -2417,9 +2418,10 @@ Programming
 * [더북(TheBook): 모두의 앱 인벤터](https://thebook.io/080226/)
 * jamkit
   * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
+  * [잼킷으로 미니앱 개발하기](https://opentutorials.org/course/4780)
   * [잼킷 설치 가이드 for Window - 잼킷으로 네이티브 앱 개발하기](https://opentutorials.org/course/4780/30593)
   * [잼킷(Jamkit) 그게 뭐죠? 쉽고 짧은 5분 설명! - YouTube](https://www.youtube.com/watch?v=KWW7nEmaVAY)
-  * [잼킷으로 미니앱 개발하기](https://opentutorials.org/course/4780)
+  * [잼킷 9살 아들이 그린 그림으로 그림책 앱을 만들었어요! - YouTube](https://www.youtube.com/watch?v=lZWjnJTeqnc)
 * [nodejs-mobile: Full-fledged Node.js on Android and iOS](https://github.com/janeasystems/nodejs-mobile)
 
 # News & Blog
