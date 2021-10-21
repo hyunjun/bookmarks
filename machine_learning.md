@@ -666,6 +666,7 @@ Machine Learning
 * [Bootstrapping Labels via `___` Supervision & Human-In-The-Loop](https://eugeneyan.com/writing/bootstrapping-data-labels/) active learning
 * [머신러닝과 정보이론: 작동원리의 이해 – 과학의 지평](https://horizon.kias.re.kr/18474/)
 * [실험없이 이벤트 효과를 추정할 수 있을까? - DIFFERENCE IN DIFFERENCES](https://lumiamitie.github.io/data/difference-in-differences/)
+* [Spotify의 오디오 분석을 사용한 일렉트로닉 댄스 음악의 장르 분류](https://ichi.pro/ko/spotifyui-odio-bunseog-eul-sayonghan-illegteulonig-daenseu-eum-ag-ui-jangleu-bunlyu-126790836673264)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)

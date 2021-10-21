@@ -696,6 +696,7 @@ Data Science
     * 프레임 제시 뿐만 아니라 중간중간에 train-test skew 문제, embedding model과 ANN을 같은 컨테이너에서 운영하는 이유, batch대신 real-time recommendation이 정말 필요한가 같은 엔지니어링 이슈를 다뤄서 좋음
   * [**번역글 System Design for Recommendations and Search | You May Also Like**](https://ziminpark.github.io/posts/system-design-for-discovery/)
 * [On YouTube’s recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)
+* [Spotify가 당신의 음악 다양성을 이해하는 방법 – 인사이트캠퍼스](http://insightcampus.co.kr:9090/insightcommunity/?mod=document&uid=12920)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
