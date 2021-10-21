@@ -349,6 +349,7 @@ Scala
 * [Nightmare on Actor Subtree Shutdown](https://medium.com/kenshoos-engineering-blog/nightmare-on-actor-subtree-shutdown-93a8634f41be)
 * [Message-based Parallelism with Actors](https://www.lihaoyi.com/post/MessagebasedParallelismwithActors.html)
 * [introduction to actor supervision akka typed with scala for beginners](https://yolkorbit.com/introduction-to-actor-supervision-akka-typed-with-scala-for-beginners/)
+* [Actor Model(행위자 모델) — { DEV SWEETER ; }](https://syntaxsugar.tistory.com/entry/Actor%EC%95%A1%ED%84%B0)
 * [ZIO Actors - High-performance, purely-functional library for building and supervising typed actors backed by ZIO](https://zio.github.io/zio-actors/)
 
 # Akka
