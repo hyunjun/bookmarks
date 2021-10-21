@@ -11,6 +11,7 @@ Docker
 * [hello](https://www.youtube.com/watch?v=ExJXmMO5uvg)
 * [생활코딩 docker](https://www.youtube.com/watch?v=Bhzz9E3xuXY)
 * [생활코딩 Docker 입구 수업 - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMDeMJsGq2O-55Ymtx0IdKWf)
+* [생활코딩 Docker 입구 수업 - 생활코딩](https://opentutorials.org/course/4781)
 * [Hello World Docker](https://uni2u.tistory.com/109)
 * **초보를 위한 도커 안내서**
   * [도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
@@ -665,6 +666,7 @@ Docker
 * [1. Docker Compose로 Nodejs 개발/배포환경 구성하기 - Dockerfile로 구성하기](https://jojoldu.tistory.com/584)
 * [2. Docker Compose로 Nodejs 개발/배포환경 구성하기 - Docker Compose로 개선하기](https://jojoldu.tistory.com/587)
 * [docker-compose clean restart 하기](https://jojoldu.tistory.com/604)
+* [Docker compose 를 이용해서 복잡한 도커 컨테이너를 제어하기 - YouTube](https://www.youtube.com/watch?v=EK6iYRCIjYs)
 * [dcw - Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
 * [Harbormaster · A docker-compose manager](https://gitlab.com/stavros/harbormaster)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
