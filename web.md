@@ -521,6 +521,7 @@ Web
   * UI 요소가 늘어나면 변수도 2개씩 늘어나는 문제
   * 이 부분을 이용해서 색은 배경(background)와 전경(foreground)에 따라 역할이 다르다는 것에 착안해 10단계의 색조 팔레트를 배경/전경으로 나누고 이를 이용해서 라이트 모드 다크모드 변수 정의
     * 이 많은 변수가 너무 많게 느껴질 수 있지만, UI 요소에 대응할 수 있어서 복잡한 사이트에서는 이렇게 사용하는 것이 더 나음
+* [LINE Web Timeline 이미지 얼굴 인식 기능 적용 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-web-timeline-image-face-recognition/)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
