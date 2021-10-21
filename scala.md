@@ -943,6 +943,7 @@ Scala
     * [Where the ZIO Roadmap is Headed Next | Capital One](https://www.capitalone.com/tech/software-engineering/zio-roadmap/) 2.0
     * [Building Next Gen Applications on JVM with ZIO | Capital One](https://www.capitalone.com/tech/software-engineering/building-on-jvm-with-zio/)
     * [on tf and zio in 2021.md](https://gist.github.com/kubukoz/f32347ce711d65fb70752bb408f3d65c)
+    * [ZIO from Scratch — Part 1 - YouTube](https://www.youtube.com/watch?v=wsTIcHxJMeQ)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1049,6 +1050,7 @@ Scala
   * [Everything You Ever Wanted to Know About Sealed Traits in Scala](http://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)
   * [practice - sealed trait - sealed class/companion object - final case class](https://gist.github.com/hyunjun/95db19477284625f359a5e250eabb471#file-sealed-md)
   * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=NFA6mIb7toU) sbt-errors-summary, ADT 사용을 위한 sealed trait, sealed trait 문제점 및 해결, scala3 enum
+  * [Trait parameters in #Scala3 - a feature no one asked for? - YouTube](https://www.youtube.com/watch?v=X5pEmy-qquY)
   * [Scala - Java 의 interface 의 가려운 부분을 긁어주는 trait](https://starblood.tistory.com/entry/Scala-Java-%EC%9D%98-interface-%EC%9D%98-%EA%B0%80%EB%A0%A4%EC%9A%B4-%EB%B6%80%EB%B6%84%EC%9D%84-%EA%B8%81%EC%96%B4%EC%A3%BC%EB%8A%94-trait)
   * Back2Basics: The Story of Trait
     * [Part 1](https://blog.knoldus.com/back2basics-the-story-of-trait-part-1/)
