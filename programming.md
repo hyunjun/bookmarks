@@ -1405,6 +1405,7 @@ Programming
 * 서버리스 코리아 [2021년 5월 - YouTube](https://www.youtube.com/playlist?list=PLIUYAlRx8QDRsMxFPtK8b9xjXSunHvBUF)
 * [Seven guiding principles of serverless systems](https://www.advosight.com/post/seven-guiding-principles-of-serverless-systems)
 * [Monolith Vs Microservice Vs Serverless — The Real Winner? The Developer](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
+* [Please Serverless, Have an Opinion – The New Stack](https://thenewstack.io/please-serverless-have-an-opinion/)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
