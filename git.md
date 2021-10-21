@@ -596,6 +596,8 @@ Git
     * [How to search for a commit message in github?](http://stackoverflow.com/questions/18122628/how-to-search-for-a-commit-message-in-github)
   * `git -L :<funcname>:<file>`
     * [objective c - Git - how do I view the change history of a method/function? - Stack Overflow](https://stackoverflow.com/questions/4781405/git-how-do-i-view-the-change-history-of-a-method-function)
+  * `git log -p <filename>`
+    * [git log -p 파일 하나의 변경 이력을 한번에 보기 | edykim](https://edykim.com/ko/post/git-log-p-view-a-single-change-history-of-a-file/)
   * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
     * [**Git 커밋 메시지 작성법**](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
   * [A useful template for commit messages](http://codeinthehole.com/writing/a-useful-template-for-commit-messages/)
