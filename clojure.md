@@ -579,6 +579,7 @@ Clojure
 * [Modern JS with CLJS: class and template literals - Projects / shadow-cljs - ClojureVerse](https://clojureverse.org/t/modern-js-with-cljs-class-and-template-literals/7450)
 * [Accountant is a ClojureScript library to make navigation in single-page applications simple](https://github.com/venantius/accountant)
 * [iOS App 개발 with React Native + ClojureScript](http://www.slideshare.net/cheolhee/ios-app-with-react-native-clojurescript)
+* [JUXT Blog - Speed up your ClojureScript Webapp](https://www.juxt.pro/blog/clojurescript-app-performance)
 * [Datahike in ClojureScript with IndexedDB support](https://lambdaforge.io/2021/03/03/datahike-clojurescript.html)
 * [Vlojure - A New Way to Write ClojureScript - YouTube](https://www.youtube.com/watch?v=1OcAUhe3E1E)
 
