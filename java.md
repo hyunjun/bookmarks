@@ -1028,6 +1028,7 @@ Java
   * [Gradle Dependency Configuration](https://effectivesquid.tistory.com/entry/Gradle-Dependency-Configuration)
   * [Gradle Wrapper | 개발자 황준일](https://junilhwang.github.io/TIL/Gradle/GradleWrapper/)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
+* [Helidon Project](https://helidon.io/) GraalVM native image support
 * [hwplib: hwp library for java](https://github.com/neolord0/hwplib)
 * [Immutables 2.0 - We use immutable objects all the time. We created Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most full-featured and mature tool in this field!](http://immutables.github.io/)
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
