@@ -3247,6 +3247,7 @@ Javascript
 * [React Native and Android Studio: Everything you need to get started in Linux | by Romano Fenzo Flores | The Startup | Medium](https://medium.com/swlh/react-native-and-android-studio-everything-you-need-to-get-started-in-linux-b47154e78f9e)
 * [리액트 네이티브 앱 전환 그리고 1년 후 - 리디주식회사 RIDI Corporation](https://ridicorp.com/story/react-native-1year-review)
 * [React-Native M1 arm64 리액트 네이티브 세팅(with. expo & React Native CLI)](https://qnrjs42.github.io/react-native/m1-arm64-setting)
+* [리액트 네이티브 React Native, 풀스택 개발자 노하우 대방출 | 리디 RIDI dev. - YouTube](https://www.youtube.com/watch?v=FM5yyBaqqcg)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
