@@ -1339,6 +1339,7 @@ Programming
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
 * [Edgar: Solving Mysteries Faster with Observability | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
   * [Building Netflix’s Distributed Tracing Infrastructure | by Netflix Technology Blog | Oct, 2020 | Netflix TechBlog](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
+* [Micronaut Framework - A MODERN, JVM-BASED, FULL-STACK FRAMEWORK FOR BUILDING MODULAR, EASILY TESTABLE MICROSERVICE AND SERVERLESS APPLICATIONS](https://micronaut.io/) GraalVM based
 * [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
   * Zipkin을 이용한 MSA 환경에서 분산 트렌젝션의 추적
     * [#1](http://bcho.tistory.com/1243)
