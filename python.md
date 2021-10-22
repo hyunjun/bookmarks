@@ -437,6 +437,7 @@ Python
 * [내가 쓰고 있는 파이썬 버전과 구현체를 알아봅시다](https://codingdog.tistory.com/entry/%EB%82%B4%EA%B0%80-%EC%93%B0%EA%B3%A0-%EC%9E%88%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%B2%84%EC%A0%84%EA%B3%BC-%EA%B5%AC%ED%98%84%EC%B2%B4%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [Python at Netflix. By Pythonistas at Netflix, coordinated… | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/python-at-netflix-bba45dae649e)
 * [Clever vs Insightful Code • Hillel Wayne](https://www.hillelwayne.com/post/cleverness/)
+* [파이썬 Python 코딩 - CID 발신번호표시장치 연동 - YouTube](https://www.youtube.com/watch?v=P6KOFhf0v_I)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
