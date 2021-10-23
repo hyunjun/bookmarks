@@ -130,6 +130,7 @@ Javascript
 * [최종 완성본! 유튜브 클론 코딩!](https://www.youtube.com/watch?v=es8qBt3lNjE)
 * [How I made my own YouTube Downloader | by Samira Valiveti | Coding GYM | Oct, 2020 | Medium](https://medium.com/coding-gym/how-i-made-my-own-youtube-downloader-e7929a6b9132)
 * [Clone Medium on Nodejs and Reactjs](https://morioh.com/p/2030ab9683d7)
+* [How to Build a Netflix Clone with GraphQL, React, and DataStax Astra - YouTube](https://www.youtube.com/watch?v=pA5BMSFBO9c)
 * [A Netflix Web Performance Case Study Improving Time-To-Interactive for Netflix.com on Desktop](https://medium.com/dev-channel/a-netflix-web-performance-case-study-c0bcde26a9d9)
 * [**Case study: Analyzing Notion app performance · PerfPerfPerf**](https://3perf.com/blog/notion/)
 * [codeschool - javascript](https://www.codeschool.com/learn/javascript)
