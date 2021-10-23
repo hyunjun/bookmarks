@@ -770,6 +770,8 @@ Interview
 * [Resume Assistant - Mircrosoft Linkedin](https://blog.linkedin.com/2017/november/8/Creating-your-resume-just-got-a-whole-lot-easier-with-Microsoft-and-LinkedIn)
 * [How to Write a Résumé That Stands Out](https://hbr.org/2014/12/how-to-write-a-resume-that-stands-out)
 * [노션으로 “나다운” 이력서 만들기.pdf | ㅍㅍㅅㅅ](https://ppss.kr/archives/243020)
+* [제 54차 Kodeveloper 고군분투기 - YouTube](https://www.youtube.com/watch?v=-q0Go_8fdvo&t=652s)
+  * [Fullstack 개발자의 서비스 개발 고군분투기 | PDF](https://www.scribd.com/document/534181309/%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8D%E1%85%A1-%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1-%E1%84%80%E1%85%A9%E1%84%80%E1%85%AE%E1%86%AB%E1%84%87%E1%85%AE%E1%86%AB%E1%84%90%E1%85%AE%E1%84%80%E1%85%B5-%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD)
 * [getting-a-gig: Guide for getting a gig as a tech student](https://github.com/cassidoo/getting-a-gig)
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
 * [cakeresume.com/v2](https://www.cakeresume.com/v2)
