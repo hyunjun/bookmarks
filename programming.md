@@ -579,6 +579,7 @@ Programming
 * [프로젝트 외부 이해관계자의 신뢰를 얻는 방법 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/culture/demoday/)
 * [Agility at Scale: A Meeting of Mindsets • Anna Urbaniak & Daniel Terhorst-North • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=2ajNXaqHSwo)
 * [개발자의 애질리티](https://toss.tech/article/dev-agility)
+* [애자일 책들에서 이야기 해주지 않지만](https://brunch.co.kr/@jinhoyooephf/24)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
