@@ -346,10 +346,6 @@ C++
 * [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)
 * [Google Robots.txt Parser and Matcher Library](https://github.com/google/robotstxt)
   * [Google's robots.txt Parser is Now Open Source](https://opensource.googleblog.com/2019/07/googles-robotstxt-parser-is-now-open.html)
-* googletest
-  * [googletest 구성하기](https://surpreem.com/googletest-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0/)
-  * [구글 테스트 프레임워크 빌드 스크립트](https://surpreem.com/%EA%B5%AC%EA%B8%80-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%B9%8C%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/)
-  * [Visual Studio 2017에서 google test 프로젝트 빌드 오류](https://surpreem.com/visual-studio-2017%EC%97%90%EC%84%9C-google-test-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B9%8C%EB%93%9C-%EC%98%A4%EB%A5%98/)
 * [gperftools - Main gperftools repository](https://github.com/gperftools/gperftools)
 * [GSL Lite: Guidelines Support Library for C++98, C++03 and C++11 up](https://github.com/martinmoene/gsl-lite#gsl-lite-guidelines-support-library-for-c98-c03-and-c11-up---)
 * [HOIST: Strong Source Identity Library for C++](http://hoist.hostilefork.com/)
@@ -408,6 +404,13 @@ C++
 * [TCMalloc - Google's customized implementation of C's malloc() and C++'s operator new used for memory allocation within our C and C++ code](https://github.com/google/tcmalloc)
   * [The effect of switching to TCMalloc on RocksDB memory use](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use)
   * [TCMalloc : Thread-Caching Malloc](http://goog-perftools.sourceforge.net/doc/tcmalloc.html)
+
+# TDD, Test
+* [Test Driven C++ - YouTube](https://www.youtube.com/watch?v=VhLLNB1tEaw)
+* googletest
+  * [googletest 구성하기](https://surpreem.com/googletest-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0/)
+  * [구글 테스트 프레임워크 빌드 스크립트](https://surpreem.com/%EA%B5%AC%EA%B8%80-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%B9%8C%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/)
+  * [Visual Studio 2017에서 google test 프로젝트 빌드 오류](https://surpreem.com/visual-studio-2017%EC%97%90%EC%84%9C-google-test-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B9%8C%EB%93%9C-%EC%98%A4%EB%A5%98/)
 
 # Thread
 * [Writing Multithreaded Applications in C++ (the right way) – DeathByTape](https://deathbytape.com/articles/2015/02/03/cpp-threading.html)
