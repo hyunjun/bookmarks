@@ -1112,6 +1112,7 @@ Docker
       * 하지만 이 두 방법도 중앙화된 방법이므로 어드민의 개입 없이 개발자가 직접 관리할 수 있게 하는 AppSource 프로젝트를 공개
       * AppSource 컨트롤러를 이용하면 어드민은 사용자가 네임스페이스 내에서 ArgoCD 앱을 배포하도록 해서 개발자가 직접 앱을 배포 가능
     * [Running Apache Spark on Kubernetes | by Ramiro Alvarez Fernandez | empathy.co | Medium](https://medium.com/empathyco/running-apache-spark-on-kubernetes-2e64c73d0bb2)
+    * [ArgoCD Tutorial for Beginners | GitOps CD for Kubernetes - YouTube](https://www.youtube.com/watch?v=MeU5_k9ssrs)
 * [Cilium - Linux Native, API-Aware Networking and Security for Containers](https://cilium.io/)
   * [Kubernetes Network & Cilium](https://www.notion.so/Kubernetes-Network-Cilium-1d4371f562ea4acdb5e679e376a7c992)
   * [Network Policy Editor for Kubernetes](https://editor.cilium.io/)
