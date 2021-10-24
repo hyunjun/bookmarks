@@ -43,6 +43,7 @@ Presentation
 * [회사 PT 끝장내기](https://www.andrewahn.co/product/prepping-exec-presenation/)
 * [사람은 어떻게 생각하고 배우고 기억하는가](https://jhrogue.blogspot.com/2020/06/blog-post.html)
 * [Our 80 Favorite PowerPoint Keyboard Shortcuts (That Save Time)](https://nutsandboltsspeedtraining.com/powerpoint-tutorials/80-favorite-powerpoint-keyboard-shortcuts/)
+* [Creating effective slides: Design, Construction, and Use in Science - YouTube](https://www.youtube.com/watch?v=meBXuTIPJQk)
 
 # Icons, Images
 * [Free Coding Images by Burst & Hacker Noon](https://hackernoon.com/coding-images-cc6e6d68661e)
