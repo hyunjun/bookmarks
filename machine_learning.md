@@ -667,6 +667,7 @@ Machine Learning
 * [머신러닝과 정보이론: 작동원리의 이해 – 과학의 지평](https://horizon.kias.re.kr/18474/)
 * [실험없이 이벤트 효과를 추정할 수 있을까? - DIFFERENCE IN DIFFERENCES](https://lumiamitie.github.io/data/difference-in-differences/)
 * [Spotify의 오디오 분석을 사용한 일렉트로닉 댄스 음악의 장르 분류](https://ichi.pro/ko/spotifyui-odio-bunseog-eul-sayonghan-illegteulonig-daenseu-eum-ag-ui-jangleu-bunlyu-126790836673264)
+* [Cracking Random Number Generators using Machine Learning – Part 1: xorshift128 – NCC Group Research](https://research.nccgroup.com/2021/10/15/cracking-random-number-generators-using-machine-learning-part-1-xorshift128/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -1375,6 +1376,8 @@ Machine Learning
   * [Scikit-learn Crash Course - Machine Learning Library for Python - YouTube](https://www.youtube.com/watch?v=0B5eIE_1vpU)
   * [Machine learning with missing values — Dirty data science](http://dirtydata.science/python/gen_notes/01_missing_values.html)
   * [How to Build Machine Learning Pipeline with Scikit-Learn? And Why is it essential? – Life With Data](https://lifewithdata.com/2021/04/02/how-to-build-machine-learning-pipeline-with-scikit-learn-and-why-is-it-essential/)
+* [scikit-multilearn: Multi-Label Classification in Python — Multi-Label Classification for Python](http://scikit.ml/)
+  * [A Python module capable of performing multi-label learning tasks](https://pythonawesome.com/a-python-module-capable-of-performing-multi-label-learning-tasks-2/)
 * [shap: A game theoretic approach to explain the output of any machine learning model](https://github.com/slundberg/shap)
   * [Interpret Any Machine Learning Model With Shapley Values - YouTube](https://www.youtube.com/watch?v=so_82GfrVnI)
 * [shapash: Shapash makes Machine Learning models transparent and understandable by everyone](https://github.com/MAIF/shapash)
