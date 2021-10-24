@@ -910,6 +910,8 @@ NLP
 * [Large-scale LM에 대한 얕고 넓은 지식들(part 2) - YouTube](https://www.youtube.com/watch?v=zbuD21YwLZI)
 * [Beauty Domain-Specific Pre-trained Language Model 개발하기 –](http://blog.hwahae.co.kr/all/tech/tech-tech/5876/)
 * [What Have Language Models Learned?](https://pair.withgoogle.com/explorables/fill-in-the-blank/)
+* [Using DeepSpeed and Megatron to Train Megatron-Turing NLG 530B, the World’s Largest and Most Powerful Generative Language Model | NVIDIA Developer Blog](https://developer.nvidia.com/blog/using-deepspeed-and-megatron-to-train-megatron-turing-nlg-530b-the-worlds-largest-and-most-powerful-generative-language-model/)
+  * [MS와 Nvidia가 세계 최대규모 언어 모델 MT-NLG 530B를 발표 | GeekNews](https://news.hada.io/topic?id=5187)
 * [Ecco - Look Inside Language Models](https://www.eccox.io/)
   * [Jay Alammar - Take A Look Inside Language Models With Ecco | PyData Khobar - YouTube](https://www.youtube.com/watch?v=rHrItfNeuh0)
 * GSLM
