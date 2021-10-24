@@ -700,6 +700,9 @@ Deep Learning
 * [원티드는 어떻게 AI로 채용 결과를 예측하고 매칭할까? | by 황리건 Reagan Hwang | 원티드 제품 팀블로그 | May, 2021 | Medium](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-ai%EB%A1%9C-%EC%B1%84%EC%9A%A9-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EC%98%88%EC%B8%A1%ED%95%98%EA%B3%A0-%EB%A7%A4%EC%B9%AD%ED%95%A0%EA%B9%8C-7bdcd8840b6b)
 * [최신 Optimizer를 적용해보자! – 학습 방향의 최적화 방법을 새롭게 제시한 AngularGrad – Linewalks Blog](https://blog.linewalks.com/archives/7595)
 * [옵티마이저(Optimizer) · Data Science](https://yngie-c.github.io/deep%20learning/2020/03/19/training_techs/)
+* [How to Train Large Deep Learning Models as a Startup](https://www.assemblyai.com/blog/how-to-train-large-deep-learning-models-as-a-startup/)
+* [How to Train Really Large Models on Many GPUs?](https://lilianweng.github.io/lil-log/2021/09/24/train-large-neural-networks.html)
+* [딥러닝 가속기가 이끄는 반도체 시장의 미래 | GeekNews](https://news.hada.io/topic?id=5120)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1234,7 +1237,6 @@ Deep Learning
 * [AIQC Artificial Intelligence Quality Control - an open source framework for rapid & reproducible deep learning](https://aiqc.readthedocs.io/en/latest/)
   * [Layne Sadler - AIQC: Framework for Reproducible and Rapid Deep Learning | PyData Boston Meetup - YouTube](https://www.youtube.com/watch?v=6mhfwuP2UzQ)
 * C3DL [딥러닝 분산 플랫폼, C3DL](https://d2.naver.com/helloworld/1914772)
-* [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)
 * Caffe
   * [윈도우에서 Caffe 이용하기](https://github.com/jaeho-kang/deep-learning/blob/master/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%97%90%EC%84%9C%20caffe%20%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0.md)
   * [Setting Caffe on Windows with CUDA & Python](http://m.blog.naver.com/bsh0128/220733003127)
@@ -1261,10 +1263,13 @@ Deep Learning
   * [A Practical Introduction to Deep Learning with Caffe and Python](http://adilmoujahid.com/posts/2016/06/introduction-deep-learning-python-caffe/)
   * [Caffe 와 Python을 사용하여 딥러닝으로 개와 고양이 구분하기 1](http://kyubot.tistory.com/96)
   * [Caffe 와 Python을 사용하여 딥러닝으로 개와 고양이 구분하기 2](http://kyubot.tistory.com/97)
+* [ChessCoach](https://chrisbutner.github.io/ChessCoach/)
+  * [ChessCoach - 자연어로 조언해주는 신경망 기반 체스 엔진 | GeekNews](https://news.hada.io/topic?id=5150)
 * [chitra: A multi-functional library for full-stack Deep Learning. Simplifies Model Building, API development, and Model Deployment](https://github.com/aniketmaurya/chitra)
 * Cloudera
   * [Deep Learning Frameworks on CDH and Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/deep-learning-frameworks-on-cdh-and-cloudera-data-science-workbench/)
     * CDH & Cloudera Data Science Workbench 기반의 딥러닝 프레임워크 소개
+* [Computational Network Toolkit (CNTK)](https://cntk.codeplex.com)
 * CoreML
   * [coreml-scikit-example - Apple CoreML example with scikit-learn](https://github.com/mfpierre/coreml-scikit-example)
   * [pypi.python.org/pypi/coremltools](https://pypi.python.org/pypi/coremltools)
