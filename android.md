@@ -83,6 +83,7 @@ Android
 * [ViewModels : A Simple Example](https://medium.com/google-developers/viewmodels-a-simple-example-ed5ac416317e)
 * [ViewModel에서 Coroutine을 이용하는 방법 #ViewModel Scope](https://developer88.tistory.com/214)
 * [LiveData와 Realm 그리고 ViewModel을 같이 이용하는 방법](https://developer88.tistory.com/208)
+* [Android view에서 ViewModel을 어떻게 호출해 사용해 볼 수 있을까?](https://thdev.tech/android/2021/10/18/Android-ViewModel-ClickEvent/)
 * [Android언어 리소스 자동화 (2018.4 수정)](http://tiii.tistory.com/22)
 * [How to add Push Notification capability to your Android app](https://medium.com/@nileshsingh/how-to-add-push-notification-capability-to-your-android-app-a3cac745e56e)
 * [안드로이드 Notification 을 정리해 봅니다. part1](https://developer88.tistory.com/252)
