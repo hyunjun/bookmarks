@@ -327,6 +327,7 @@ Algorithm
 * [디시전 트리 보는 방법 _ 전용준.리비젼](https://www.youtube.com/watch?v=e15BpXdGZ5o)
 * [Awesome Decision Tree Research Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers/blob/master/README.md)
 * [Introduction to Decision Trees (Titanic dataset)](https://www.kaggle.com/dmilla/introduction-to-decision-trees-titanic-dataset)
+* [How to visualize decision trees](https://explained.ai/decision-tree-viz/index.html)
 * [Entropy: How Decision Trees Make Decisions](https://towardsdatascience.com/entropy-how-decision-trees-make-decisions-2946b9c18c8)
 * [dtreeviz : Decision Tree Visualization](https://github.com/parrt/dtreeviz)
   * [How to visualize decision trees](https://explained.ai/decision-tree-viz/index.html)
@@ -395,6 +396,7 @@ Algorithm
 * [GeneticAlgorithmPython](https://github.com/ahmedfgad/GeneticAlgorithmPython)
 * [Genetic Algorithm Implementation in Python](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6)
 * [유전 알고리즘](https://gils-lab.tistory.com/29)
+* [Self-Parking Car in 500 Lines of Code | Trekhleb](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)
 
 # Graph
 * [2016 그래프이론](https://www.youtube.com/playlist?list=PL52K_8WQO5oXTfEr3nVK3HllrB71hZ-AF)
