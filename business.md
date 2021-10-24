@@ -711,6 +711,7 @@ Business
   3. 조직만의 파티를 하라
   4. 실제적인 방식으로 팀의 건강에 투자하라
   5. 내일의 팀 리더에게 오늘 투자하라
+* [53세에 도전을 시작한 맥도날드 창업자 레이 크록(Ray Kroc) 타인의 재능을 알아보고, 현장에서 답을 찾아라 - 매일경제](https://www.mk.co.kr/news/culture/view/2017/11/763493/)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -722,6 +723,7 @@ Business
 * [First principle thinking: 제 1원칙 기반의 사고방식](https://www.andrewahn.co/product/first-principle-thinking/)
 * [PM/PO가 되어서는 안되는 사람](https://brunch.co.kr/@hyungsukkim/121)
 * [시작은 어디서부터 인가?](https://brunch.co.kr/@tilltue/68) 여러가지 책 list 참고할만함
+* [매니저에게 제대로 질문하는 법](https://brunch.co.kr/@236project/29)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
