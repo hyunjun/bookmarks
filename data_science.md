@@ -248,6 +248,7 @@ Data Science
 * [Top 10 Popular GitHub Repositories to learn about Data Science](https://towardsdatascience.com/top-10-popular-github-repositories-to-learn-about-data-science-4acc7b99c44)
 * [If you’re a developer transitioning into data science, here are your best resources](https://medium.freecodecamp.org/if-youre-a-developer-transitioning-into-data-science-here-are-your-best-resources-c31928b53cd1)
 * [**How to Handle Missing Data**](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
+* [Missing Data Handling |How to Deal with Missing Data using Python](https://www.analyticsvidhya.com/blog/2021/10/how-to-deal-with-missing-data-using-python/)
 * [5 Amazing Improvement Big Data Can Bring to Retail](https://towardsdatascience.com/5-amazing-improvement-big-data-can-bring-to-retail-2c70bdd5a871)
 * [**Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters**](https://chrisalbon.com/)
 * [Five Misconceptions about Data Science - Knowing What You Don't Know](https://www.datasciencecentral.com/profiles/blogs/five-misconceptions-about-data-science)
@@ -330,6 +331,8 @@ Data Science
 * [양질의 데이터를 판별하는 5가지 방법 : 데이터 양은 충분한가? | 요즘IT](https://yozm.wishket.com/magazine/detail/1070/)
 * [Log-based Change Data Capture — lessons learnt | by Andreas Buckenhofer | Daimler TSS Tech | Medium](https://medium.com/daimler-tss-tech/change-data-capture-lessons-learnt-7976391cf78d) Debezium, DynamoDB Streams, VoltDB
 * [데이터 분석에 필수적인 5 가지 마인드](https://brunch.co.kr/@04925bf0d77f43e/3)
+* [글로벌 칼럼 | ‘머신러닝은 만능이 아니다’ ML 대신 SQL 쿼리를 써야하는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/209077)
+* [칼럼ㅣ머신러닝의 첫 번째 규칙은 ML 없이 시작하는 것이다 - CIO Korea](https://www.ciokorea.com/news/208792)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -383,6 +386,7 @@ Data Science
 * [Data-Science-For-Beginners: 10 Weeks, 20 Lessons, Data Science for All!](https://github.com/microsoft/Data-Science-For-Beginners)
 * [Dev Intro to Data Science - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjDop2DtiCmwTTcrlwKAVHE)
 * [Practical Data Ethics | Data ethics](http://ethics.fast.ai/)
+* [Free Data Science for Beginners curriculum on GitHub - DEV Community](https://dev.to/azure/free-data-science-for-beginners-curriculum-on-github-1hme)
 
 # Data Cleaning
 * [The Simple Yet Practical Data Cleaning Codes To solve the common scenarios of messy data](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)
