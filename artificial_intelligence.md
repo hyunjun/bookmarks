@@ -29,6 +29,7 @@ Artificial Intelligence
 * [Ultimate AI battle - Apple vs. Google](http://simplystatistics.org/2016/06/14/ultimate-ai-battle/)
 * [horae.tistory.com/category/A.I인공지능](http://horae.tistory.com/category/%EC%9C%A0%EB%A7%9D%20%EA%B8%B0%EC%88%A0/A.I%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5)
 * [Explainable Artificial Intelligence (XAI)](http://www.darpa.mil/program/explainable-artificial-intelligence)
+* ['사람이 이해할 수 있는 AI' 설명가능한 AI를 설명하다 - ITWorld Korea](https://www.itworld.co.kr/news/210149) XAI
 * [인공지능의 오해와 진실…기초·응용분야 집중해야](http://www.itnews.or.kr/?p=18306)
 * [Artificial Intelligence and Java](https://www.youtube.com/watch?v=vZfUdSA64Nk)
 * [Prof. Fei Fei Li - The Future of AI](https://www.youtube.com/watch?v=lNBX13mrJzc)
@@ -125,6 +126,8 @@ Artificial Intelligence
 * ["AI는 만능 아냐···범위와 업무요건 명확히 해야" - ZDNet korea](https://zdnet.co.kr/view/?no=20210822105201)
 * [2021 오라일리 설문조사 : 기업들의 AI 도입 현황은? - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS1330594913)
 * [AI 제품 관리자에게 필요한 실무 기술 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS5471353752)
+* [State of AI Report 2021](https://www.stateof.ai/)
+  * [State of AI 2021 보고서 구글 Slide, 188P | GeekNews](https://news.hada.io/topic?id=5224)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
