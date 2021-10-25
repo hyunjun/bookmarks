@@ -458,6 +458,7 @@ Android
 * [Cucumber + Appium을 통해 Android 앱 테스트](http://woowabros.github.io/experience/2020/01/06/mobile-app-test-with-appium.html)
 * [JUnit을 이용한 테스트 방법 대해서 정리해 보겠습니다](https://developer88.tistory.com/264)
 * [ViewModel JUnit on JVM & Compose. Migrating Rule 2 : ViewModel can be… | by SeongUg Steve Jung | Jul, 2021 | Medium](https://jsuch2362.medium.com/viewmodel-junit-on-jvm-compose-f5e9d2f5bea0)
+* [Android view에서 ViewModel을 호출했는데, UnitTest는 어떻게 할까?](https://thdev.tech/android/2021/10/23/Android-ViewModel-ClickEvent-UnitTest/)
 * [올리브영 안드로이드 테스트앱 자동배포하기](http://tech.oliveyoung.co.kr/tech/2107152128/)
 * [Mockito로 Unit테스트를 해 보자](https://developer88.tistory.com/260)
 * [Sixpack-java - Introducing Sixpack-java: A/B Testing for Android and Java Apps](http://chairnerd.seatgeek.com/sixpack-java-a-b-testing-for-android-and-java-apps/)
