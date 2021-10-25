@@ -774,6 +774,7 @@ Apache
 * [카프카 스트림즈 Exactly-once 설정하는 방법과 내부 동작](https://voidmainvoid.tistory.com/438)
 * [카프카 스트림즈! 대용량, 폭발적인 성능의 실시간 데이터 처리! - YouTube](https://www.youtube.com/watch?v=vKxhPUUEDmM)
 * [카프카 스트림즈에서 stateful window 처리를 다루는 방법 그리고 커밋타이밍](https://voidmainvoid.tistory.com/452)
+* [Kafka Streams 101 - Rock the JVM Blog](https://blog.rockthejvm.com/kafka-streams/)
 * [brooklin - An extensible distributed system for reliable nearline data streaming at scale](https://github.com/linkedin/Brooklin/)
   * [Open Sourcing Brooklin: Near Real-Time Data Streaming at Scale](https://engineering.linkedin.com/blog/2019/brooklin-open-source)
   * Kafka Connect + MirrorMaker의 대안으로 개발된 범용 Framework. Scalable할 뿐만 아니라 Kafka 외에도 다양한 Storage / Streaming System 지원
