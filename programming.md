@@ -462,6 +462,7 @@ Programming
 * [한·중·일 전산학 용어 대조 | GeekNews](https://news.hada.io/topic?id=5165)
 * [Why you should launch your product without a login | Caspar von Wrede](https://casparwre.de/blog/launching-a-product-without-a-login/)
   * [로그인 기능 없이 제품을 런칭 해야하는 이유 | GeekNews](https://news.hada.io/topic?id=5144)
+* [If not fixed, our code will fail every Sunday](https://jolo.xyz/blog/2021/10/25/dayofweek-inconsistency) 언어별로 서로 다른 요일값. datetime은 항상 어렵다
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
