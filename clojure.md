@@ -403,6 +403,7 @@ Clojure
   * [프로그래머를 위한 이름 짓는 원리 | GeekNews](https://news.hada.io/topic?id=5094)
 * [Clojure and Postgres, no JDBC. By Duane Bester | ITNEXT](https://itnext.io/talking-to-postgres-with-clojure-3b2b24ebfb3)
 * [Clojure meets Minecraft (Witchcraft/Glowstone) - YouTube](https://www.youtube.com/watch?v=qgQwhc_DDSY)
+* [SymmetricalDataSecurity: Idiomatic Clojure without sacrificing performance](http://symmetricaldatasecurity.blogspot.com/2021/10/idiomatic-clojure-without-sacrificing.html)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -988,6 +989,7 @@ Clojure
   * [Luminus project 만들기](http://clojure.kr/for-newbie-leiningen-web-proj1)
   * [Clojure in Action: Teaching new Clojure devs on our work applications | Tech.ToryAnderson.com](https://tech.toryanderson.com/2021/05/29/clojure-in-action-teaching-new-clojure-devs-on-our-work-applications/)
   * [luminus-chunked-response](https://github.com/eunmin/luminus-chunked-response)
+* [luna: A DSL that translates to regex](https://github.com/AbhinavOmprakash/luna)
 * [malli - Plain data Schemas for Clojure/Script](https://github.com/metosin/malli)
   * [Readme — metosin/malli 0.3.1](https://cljdoc.org/d/metosin/malli)
   * [Spec vs Malli : Clojure](https://www.reddit.com/r/Clojure/comments/lpv8ok/spec_vs_malli/)
@@ -1144,6 +1146,7 @@ Clojure
   * [Babashka pods: why, how to use and what's going on in the background? Example: go-sqlite3 - YouTube](https://www.youtube.com/watch?v=Q3EFNRwxLLo)
   * [Playing New Music On Old Car Stereo With Clojure And Babashka | Savo's Blog](https://savo.rocks/posts/playing-new-music-on-old-car-stereo-with-clojure-and-babashka/)
   * [Conjure babashka auto nREPL jack in - asciinema](https://asciinema.org/a/415758)
+  * [Bash and Babashka equivalents · babashka/babashka Wiki](https://github.com/babashka/babashka/wiki/Bash-and-Babashka-equivalents)
   * [babashka-sql-pods: Babashka pods for SQL databases](https://github.com/babashka/babashka-sql-pods)
   * [bb-clis: Babashka CLIs](https://github.com/cldwalker/bb-clis)
   * [bb-guestbook](https://github.com/SVMBrown/bb-guestbook) Example webserver with Babashka
