@@ -789,6 +789,7 @@ Javascript
   * [It’s Not Wrong that "🤦".length == 7](https://hsivonen.fi/string-length/)
   * [String Reversal in Javascript](https://hackernoon.com/string-reversal-in-javascript-22651e20578d)
   * [Javascript에서 String을 Number타입으로 바꾸기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/361)
+  * [toString() 사용 설명서 - 코드쓰는사람](https://taegon.kim/archives/10387)
 * undefined
   * [undefined 와 null 의 차이점은 무엇인가요?](https://developer88.tistory.com/272)
   * [JavaScript — Null vs. Undefined](https://codeburst.io/javascript-null-vs-undefined-20f955215a2)
@@ -1661,6 +1662,7 @@ Javascript
   * [2. NestJS & TypeORM 환경에서 Monorepo 구성하기 - TypeORM 추가하기](https://jojoldu.tistory.com/597)
   * [js-joda 로 TypeORM Date 타입 대체하기 (with NestJS)](https://jojoldu.tistory.com/600)
   * [NestJS (with Mono Repo) WebStorm으로 디버깅 하기](https://jojoldu.tistory.com/607)
+  * [NestJS에서 응답/요청 객체 직렬화 (Serialization) 하기](https://jojoldu.tistory.com/610)
   * [nestia: Automatic SDK and Document generator for the NestJS](https://github.com/samchon/nestia)
 * Netlify
   * [Run Cypress Tests on Netlify Using a Single Line](https://cypress.io/blog/2020/03/30/run-cypress-tests-on-netlify-using-a-single-line/)
