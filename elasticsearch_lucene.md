@@ -310,6 +310,7 @@ ElasticSearch - Lucene
 * [How to monitor Spring Boot Microservices using ELK Stack? | Making Java easy to learn](https://javatechonline.com/how-to-monitor-spring-boot-microservices-using-elk-stack)
 * [컴퓨터 vs 책: 알도개 엘라스틱 스택과 ELK 의의](https://jhrogue.blogspot.com/2021/08/elk.html)
   * [알도개 엘라스틱 스택과 ELK 의의 - YouTube](https://www.youtube.com/watch?v=1x59QE2YS4E)
+* [Elastic Security - 내부 정보 유출 탐지 사례 데모 - YouTube](https://www.youtube.com/watch?v=64VDu5ilHYg)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
