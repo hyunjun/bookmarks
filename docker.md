@@ -524,6 +524,7 @@ Docker
 * [Docker Out of Docker (DooD) - 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=3382)
 * [Containers Don't Solve Everything](https://blog.deref.io/containers-dont-solve-everything/)
 * [VMware Tanzu Community Edition Released - ServeTheHome](https://www.servethehome.com/vmware-tanzu-community-edition-released/)
+* [DC/OS 아키텍처에 관한 분석 MESOS와 MARATHON](https://ykarma1996.tistory.com/178)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
