@@ -340,6 +340,7 @@ NLP
 * [NLP in Fintech. Introduction | by FinTech MK | Sep, 2021 | Medium](https://medium.com/@fintech.macedonia/nlp-in-fintech-1aee4fd8ed08)
 * [딥 러닝 자연어 처리를 학습을 위한 파워포인트. (Deep Learning for Natural Language Proces…](https://www.slideshare.net/wonjoonyoo/ss-188835227)
 * [Selecting optimal subsets of Amazon Reviews & Large Scale Data Pipeline for Scraping Amazon Reviews - YouTube](https://www.youtube.com/watch?v=Ya-zq61XxCg)
+* [Boost Customer Experience With NLP | LinkedIn](https://www.linkedin.com/pulse/boost-customer-experience-nlp-ram-narasimhan/) 기술적인 이야기가 아니라 NLP로 product의 가치를 높이는 이야기
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
