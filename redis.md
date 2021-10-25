@@ -116,6 +116,7 @@ Redis
 * [Improve Cache Speed at Scale - RedisConf 2020 - YouTube](https://www.youtube.com/watch?v=mPg20ykAFU4) Cache Stampede, TTL, PER, 디바운싱, Hot Keys, 읽기분산, 레플리카, 압축
 * [How to Set up a Firewall for Redis using ufw | thisDaveJ](https://thisdavej.com/how-to-set-up-a-firewall-for-redis-using-ufw/)
 * [Fun with Redis: Creating a Reactive Architecture Using Redis and Microservices - YouTube](https://www.youtube.com/watch?v=YEOoJZ13JtI)
+* [(웹툰) Redis 캐시](https://iamsang.com/blog/2021/10/24/redis-cache/)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
