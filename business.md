@@ -415,6 +415,7 @@ Business
 * [좋은 '인사'란 무엇일까...카카오 HR 리더와의 솔직한 대화 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hrkakao20170911) 황성현님
 * [HR연구소 소포모어 징크스, 여러분 회사의 2년차 직원은 안녕하십니까](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=882) 온보딩 이후에는 관계 형성이 핵심
 * [사표 품고 다니는 당신, 직장 변경보다 직무 변경을 고민하라](https://news.v.daum.net/v/20211015030053898)
+* [당신 조직에 제대로 된 팀원이 없는 이유](https://brunch.co.kr/@1312capo/53)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
@@ -933,6 +934,7 @@ Business
 * [이상적인 CFO의 5가지 조건](https://www.venturesquare.net/839324)
 * [THE COMPLETE GUIDE TO BOOTSTRAPPING YOUR STARTUP From 0 to 10M Users with $0 Funding](https://www.jotform.com/10million/story/)
   * [스타트업 부트스트래핑 가이드 | GeekNews](https://news.hada.io/topic?id=5178)
+* [토스 이승건 대표 "우리는 실패율 95%짜리 조직"](https://brunch.co.kr/@1312capo/48)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
