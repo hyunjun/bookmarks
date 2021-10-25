@@ -254,6 +254,7 @@ Programming Language
   * [Elm: Introduction to a new popular programming language - TechSavvy - YouTube](https://www.youtube.com/watch?v=NSoslWAnmEY)
   * [Elm at NoRedInk | juliu.is](https://juliu.is/elm-at-noredink/)
   * [Elm at Rakuten | Rakuten Engineering Blog](https://engineering.rakuten.today/post/elm-at-rakuten/)
+  * [Elm Radio: Comparing TypeScript and Elm's Type Systems on Apple Podcasts](https://podcasts.apple.com/us/podcast/elm-radio/id1506220473?i=1000539639056)
   * [elm-language-server](https://github.com/elm-tooling/elm-language-server/blob/master/README.md)
 * [English script - English as a programming language!](https://github.com/pannous/english-script/)
 * [Factor - a practical stack language](http://factorcode.org/)
