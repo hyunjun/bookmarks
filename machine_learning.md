@@ -1416,6 +1416,7 @@ Machine Learning
   * [Python Streamlit 사용법 - 프로토타입 만들기 · 어쩐지 오늘은](https://zzsza.github.io/mlops/2021/02/07/python-streamlit-dashboard/)
   * [스트림릿, 머신러닝 웹개발을 쉽고 빠르게 – techNeedle 테크니들](https://techneedle.com/archives/40919)
   * [Deploying a Python machine learning app on Kubernetes - Ketch](https://www.theketch.io/2021/09/11/python-ml-kubernetes/)
+  * [Getting Started with Steamlit for Python - Build a Functioning Web App in Minutes - YouTube](https://www.youtube.com/watch?v=f9c_19Btnvo)
 * TensorDash [A Must-Have Tool for Every Data Scientist | by Arun | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/a-must-have-tool-for-every-data-scientist-5e7c76f1916f)
 * [tpot - A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming. http://rhiever.github.io/tpot ](https://github.com/rhiever/tpot)
 * Uber
