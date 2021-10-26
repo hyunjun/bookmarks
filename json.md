@@ -15,6 +15,7 @@ Json
 * [JSON 데이터 타입을 처리하는 웹 어플리케이션에서 XXE 취약점이 발생하는 이유](http://blog.naver.com/crehacktive3/222037182911)
 * [The Pretty JSON Revolution](http://www.ohler.com/dev/pretty.html)
 * [Parsing JSON Really Quickly: Lessons Learned - YouTube](https://www.youtube.com/watch?v=wlvKAT7SZIQ)
+* [데이터 파이프라인 제작기 - 반정형 데이터편 (JSON)](https://burning-dba.tistory.com/144) 한 가지 주제가 아니라 json으로 보기도 어렵지만
 
 # C++
 * [Writing a simple JSON library from scratch: a tour through modern C++ | notes.eatonphil.com](https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html)
