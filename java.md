@@ -941,6 +941,7 @@ Java
 * [자바 성능 튜닝 이야기](https://garden715.github.io/Java_Tuning3/)
 * [자바개발 및 운영툴](https://javaengine.tistory.com/entry/자바개발-및-운영툴)
 * [Guide to Java Profilers](https://medium.com/platform-engineer/guide-to-java-profilers-e344ce0339e0)
+* [스택트레이스 샘플링을 이용한 성능 분석 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2021-10-18/) 제품 광고지만 글 흐름 자체는 좋음
 * jconsole
 * jprobe
 * jProfiler
