@@ -2009,6 +2009,7 @@ Python
 * [Digging Into Django](https://www.codeschool.com/courses/digging-into-django)
 * [Pirates use Flask, the Navy uses Django](https://wakatime.com/blog/25-pirates-use-flask-the-navy-uses-django?)
 * [TaskBuster Django Tutorial](http://www.marinamele.com/taskbuster-django-tutorial)
+* [Django Tutorial - Create a Digital Resume with a Python Backend - YouTube](https://www.youtube.com/watch?v=0oSsLbh_Kv4)
 * [날로 먹는 Django 웹프레임워크 강좌](http://blog.hannal.com/category/start-with-django-webframework/)
 * [시나브로 Django 발표](https://www.slideshare.net/ssuseraaed82/django-73419113)
 * [Category: start-with-django-webframework](http://blog.hannal.com/category/start-with-django-webframework/)
