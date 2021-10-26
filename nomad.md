@@ -1,17 +1,10 @@
 Nomad & Remote
 ==============
-* [nagaja.net](http://www.nagaja.net)
-* [nomadsms.com](https://nomadsms.com/)
-* [nomadlist.com](https://nomadlist.com/)
+* [g2crowd.com/best-software-companies](https://www.g2crowd.com/best-software-companies)
+* [~www.facebook.com/digitalnomad.korea~](https://www.facebook.com/digitalnomad.korea/)
 * [numbeo.com/cost-of-living](https://www.numbeo.com/cost-of-living/) 국가, 도시간 물가 비교
 * [payscale.com](https://www.payscale.com/)
 * [personal income tax rate](https://tradingeconomics.com/country-list/personal-income-tax-rate)
-* [Remote List - A curated list of companies and job boards advertising Remote Jobs](https://github.com/raynesio/remotelist)
-* [remotus.com](http://remotus.com/)
-* [The Remote Freelancer](https://theremotefreelancer.com/)
-  * [List of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!](https://github.com/engineerapart/TheRemoteFreelancer)
-* toptal
-  * [Toptal 소개와 면접 경험 공유](http://catlog.kr/entry/toptal-introduction-and-screening-process)
 * [“떠납니다, 디지털 유목민의 삶 찾으러”](http://www.bloter.net/archives/224710)
 * [To Raise Productivity, Let More Employees Work from Home](https://hbr.org/2014/01/to-raise-productivity-let-more-employees-work-from-home)
 * [SOCIAL PROGRESS INDEX 2015](http://www.socialprogressimperative.org/data/spi#data_table/countries/com1/dim1,com1,dim2,com8,dim3)
@@ -36,8 +29,6 @@ Nomad & Remote
 * [The 25 Best Sites For Finding Remote Work](http://skillcrush.com/2014/10/10/sites-finding-remote-work/)
 * [**해외 취업하기 조사 자료**](http://ninebear.tistory.com/174) 오스트리아, 독일, 영국, 캐나다, 뉴질랜드, 호주
 * [게임회사 해외취업 자료조사](http://www.slideshare.net/ddayinhwang9/ss-59781151)
-* [g2crowd.com/best-software-companies](https://www.g2crowd.com/best-software-companies)
-* [www.facebook.com/digitalnomad.korea](https://www.facebook.com/digitalnomad.korea/)
 * [우리는 디지털노마드다](http://www.wearedigitalnomads.kr/)
 * [퇴사학교](http://t-school.kr/)
 * [직장인 퇴사 열풍, '진짜 퇴사' 언제 고민해야 할까](https://brunch.co.kr/@insaboy/19)
@@ -258,13 +249,24 @@ Nomad & Remote
   * [원격 근무 리포트 2021 51p PDF | GeekNews](https://news.hada.io/topic?id=4202)
 * [angel.co](https://angel.co/)
 * [flexjobs.com](https://www.flexjobs.com)
+* [nagaja.net](http://www.nagaja.net)
+* [~nomadsms.com~](https://nomadsms.com/)
+* [nomadlist.com](https://nomadlist.com/)
 * [remote.co](https://remote.co/)
   * [원격근무, A부터 Z까지. 'Remote.co'소개](https://brunch.co.kr/@philstori/111)
 * [remote.com](https://remote.com)
+* [The Remote Freelancer](https://theremotefreelancer.com/)
+  * [List of community-curated resources to find topical remote freelance & contract work for software developers, web designers, and more!](https://github.com/engineerapart/TheRemoteFreelancer)
+* [~Remote List - A curated list of companies and job boards advertising Remote Jobs~](https://github.com/raynesio/remotelist)
+* remoteok [Remote Jobs in Programming, Design, Sales and more #OpenSalaries](https://remoteok.io/)
+  * [VSCode 인터페이스로 원격근무 회사들 정보 보기 | GeekNews](https://news.hada.io/topic?id=5258)
+* [remotus.com](http://remotus.com/)
 * [rocketpunch.com](https://www.rocketpunch.com) 한국
 * [ryrob.com/remote-job](https://www.ryrob.com/remote-job)
 * [talent.hubstaff.com](https://talent.hubstaff.com)
 * [weworkremotely.com](https://weworkremotely.com)
+* toptal
+  * [Toptal 소개와 면접 경험 공유](http://catlog.kr/entry/toptal-introduction-and-screening-process)
 
 # Singapore
 * [싱가포르에서 직장 구하기](https://www.linkedin.com/pulse/%EC%8B%B1%EA%B0%80%ED%8F%AC%EB%A5%B4%EC%97%90%EC%84%9C-%EC%A7%81%EC%9E%A5-%EA%B5%AC%ED%95%98%EA%B8%B0-getting-job-singapore-ht-kim)
