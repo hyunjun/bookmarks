@@ -714,6 +714,8 @@ Business
   4. 실제적인 방식으로 팀의 건강에 투자하라
   5. 내일의 팀 리더에게 오늘 투자하라
 * [53세에 도전을 시작한 맥도날드 창업자 레이 크록(Ray Kroc) 타인의 재능을 알아보고, 현장에서 답을 찾아라 - 매일경제](https://www.mk.co.kr/news/culture/view/2017/11/763493/)
+* [리더십이 배워지는 거라고?](https://brunch.co.kr/@curahee/99)
+* [CEO 명언 - 6 스타벅스 - 하워드 슐츠 : 네이버 블로그](https://blog.naver.com/help2000/222542003852)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
