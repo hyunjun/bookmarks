@@ -817,6 +817,7 @@ Clojure
 * [cljol: Experimental code using Java Object Layout (JOL) from Clojure](https://github.com/jafingerhut/cljol)
 * [clj-refactor.el - Available refactorings](https://github.com/clojure-emacs/clj-refactor.el/wiki)
   * [A collection of Clojure refactoring functions for Emacs](https://github.com/clojure-emacs/clj-refactor.el)
+  * [clj-refactor.el 3.0 | Meta Redux](https://metaredux.com/posts/2021/10/26/clj-refactor-3-0.html)
 * [clj-statecharts](https://lucywang000.github.io/clj-statecharts/) State Machine and StateCharts for Clojure(Script). Inspired by [XState](https://github.com/davidkpiano/xstate)
 * [clj-template-reverse](https://github.com/sng2c/clj-template-reverse/blob/master/test/template_reverse/core_test.clj)
 * [clj-tiles: Scratch-like visual programming for Clojurescript](https://github.com/kloimhardt/clj-tiles)
@@ -892,6 +893,7 @@ Clojure
 * [dog-board - A website written in noir](https://github.com/re-noir/dog-board)
 * [doxa - in-memory database](https://github.com/ribelo/doxa/)
 * [Drake is a simple-to-use, extensible, text-based data workflow tool that organizes command execution around data and its dependencies](https://github.com/Factual/drake)
+* [dtype-next: A Clojure library designed to aid in the implementation of high performance algorithms and systems](https://github.com/cnuernber/dtype-next)
 * [Duckling - a Clojure library that parses text into structured data](https://github.com/wit-ai/duckling)
 * [Duct - Server-side application framework for Clojure](https://github.com/duct-framework/duct)
   * [Duct module.lacinia](https://github.com/kakao/duct-lacinia) graph ql
