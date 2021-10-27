@@ -305,6 +305,7 @@ Programming Language
   * [HHVM](http://hhvm.com/)
   * [Covariance, Contravariance, and super Type Constraints](http://hhvm.com/blog/9215/covariance-contravariance-and-super-type-constraints)
 * [Halide - a language for image processing and computational photography](http://halide-lang.org/)
+  * [Halide: A Language for Fast, Portable Computation on Images and Tensors - YouTube](https://www.youtube.com/watch?v=93-bfnKCb8E)
 * [Hello - the distributed language](http://www.amsdec.com/wp-content/uploads/2015/10/helloguide.pdf)
 * [hermetic - a python-like language with hindley-milner-like type system, which is compiled to c](https://github.com/alehander42/hermetic)
 * [Hy](https://github.com/hylang/hy)
