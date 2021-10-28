@@ -187,6 +187,7 @@ C++
 * [Why We Need Build Systems - Sticky Bits - Powered by FeabhasSticky Bits – Powered by Feabhas](https://blog.feabhas.com/2021/06/why-we-need-build-systems/)
 * [Moving a project to C++ named Modules - C++ Team Blog](https://devblogs.microsoft.com/cppblog/moving-a-project-to-cpp-named-modules/)
 * [String Hashing in C++ - DEV Community](https://dev.to/muiz6/string-hashing-in-c-1np3)
+* [Performance Matters - YouTube](https://www.youtube.com/watch?v=VzyhpbrC2Bs)
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
