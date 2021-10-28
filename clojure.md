@@ -1081,6 +1081,7 @@ Clojure
 * [rss-saver: Simple Clojure (Babashka) script that saves articles from world.hey.com RSS feeds](https://github.com/adam-james-v/rss-saver)
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
+* [Salutem](https://logicblocks.github.io/salutem/index.html) a system for defining and maintaining a collection of health checks
 * [scittle](https://borkdude.github.io/scittle/) exposes the Small Clojure Interpreter in the browser in such a way that you can use it with the script tag
 * [Selmer](https://github.com/yogthos/Selmer) template
 * [sequence: Immutable, scalable, and easy to use ledger service](https://github.com/runopsio/sequence)
@@ -1338,6 +1339,7 @@ Clojure
 * [The Animated Guide to Symex – Terminally Undead](https://countvajhula.com/2021/09/25/the-animated-guide-to-symex/)
 * [Setting up a basic Clojure backend - YouTube](https://www.youtube.com/watch?v=M97jWSKoV3k)
 * [Fast and Elegant Clojure](https://bsless.github.io/fast-and-elegant-clojure/)
+* [3 Facts about Clojure every beginner must know | by Sameeksha Bhatia | helpshift-engineering | Oct, 2021 | Medium](https://medium.com/helpshift-engineering/3-facts-about-clojure-every-beginner-must-know-8e7165ccbd39)
 * [clj-easy/about](https://github.com/clj-easy/about)
 
 # Vim
