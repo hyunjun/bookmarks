@@ -257,6 +257,7 @@ Vision
 * [컴퓨터 비전 데이터에 대한 모든 것｜슈퍼브에이아이 Blog](https://www.superb-ai.com/ko-blog/everything-about-computer-vision-data)
 * [Generative Adversarial Networks를 이용한 Nickface 개발 – tech.kakao.com](https://tech.kakao.com/2021/08/04/nickface/)
 * [딥러닝 해체신서 :: ViT(Vision Transformer) 해체신서](https://10cho.tistory.com/14)
+* [위상편차를 이용한 이미지간의 차이 계산](https://gist.github.com/june9713/a4ccb35481f4fd823e4781b67f9d5bcc)
 
 # Book
 * [더북(TheBook): Visual C++ 영상 처리 프로그래밍](https://thebook.io/006796/) 1~11장만
