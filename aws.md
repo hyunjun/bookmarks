@@ -410,6 +410,7 @@ AWS
 * [지그재그는 DB 없이 데이터를 갖고 논다 - ZDNet korea](https://zdnet.co.kr/view/?no=20210810095607)
 * [Mistakes I've Made in AWS | Laravel News](https://laravel-news.com/aws-mistakes)
 * [Five Different Ways to Build AWS Infrastructure - DZone Cloud](https://dzone.com/articles/five-different-ways-to-build-aws-infrastructure)
+* [Top 20 Most Used AWS Services Explained](https://blog.suhailkakar.com/top-20-most-used-aws-services-explained)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
