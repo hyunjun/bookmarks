@@ -1845,6 +1845,7 @@ Programming Books
 * (NOT YET) [메이저리그 야구 통계학 2/e | 에이콘출판사](http://www.acornpub.co.kr/book/mlb-statistics-2e)
 * (NOT YET) [실전에서 바로 쓰는 시계열 데이터 처리와 분석 in R](https://jpub.tistory.com/1173)
 * (NOT YET) [친절한 R with 스포츠 데이터](https://kuduz.tistory.com/1258)
+* (NOT YET) [데이터 분석을 위한 R 자료구조, 딱 이것만 알면 돼 - 골든래빗](https://goldenrabbit.co.kr/2021/10/27/r-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%9D%B4%EA%B2%83%EB%A7%8C/)
 
 # Rust
 * (NOT YET) [러스트 프로그래밍 공식 가이드](https://jpub.tistory.com/980)
