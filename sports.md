@@ -97,6 +97,7 @@ Sports
 * [기사 - 이지풍 코치의 반대 의견 10 : 내가 설기현을 존경하는 이유](https://www.ddanzi.com/ddanziNews/700948896)
 * [기사 - 이지풍 코치의 반대 의견 11 : 골프 치는 야구선수 살찐 야구선수, 뭣이 중헌디](https://www.ddanzi.com/ddanziNews/703004431)
 * [기사 - 이지풍 코치의 반대 의견 12 : 놓쳐버린, 이승엽의 마지막 순간](https://www.ddanzi.com/ddanziNews/705003159)
+* [기사 - 이지풍 코치의 반대 의견 13(完) : 내가 선출이 아니라 가질 수 있는 능력](https://www.ddanzi.com/ddanziNews/707183686)
 
 ## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
