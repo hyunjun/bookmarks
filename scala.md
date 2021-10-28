@@ -322,6 +322,8 @@ Scala
 * [#GitHub #Copilot for #Scala - Does it work? - YouTube](https://www.youtube.com/watch?v=hYzJNCdoh-Y)
 * [Number (part 1) Precision numeric computation with Scala | CodeX](https://medium.com/codex/number-part-1-c98313903714)
 * [A Case Study in Incrementally Improving Code](https://www.inner-product.com/posts/a-case-study-in-incrementally-improving-code/)
+* [Developing your own Content Management System — Preface](https://softwaremill.com/developing-your-own-content-management-system-preface/)
+* [Dataflow Analysis for Scala | The Scala Plugin Blog](https://blog.jetbrains.com/scala/2021/10/28/dataflow-analysis-for-scala/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1348,6 +1350,7 @@ Scala
   * [Basic streams and combinators in fs2 - Scala tutorial](https://www.youtube.com/watch?v=TmhIabcu6Fs)
   * [Finite-State Machines + FS2 streams: A match made in heaven • gvolpe's blog](https://gvolpe.com/blog/fsm-fs2-a-match-made-in-heaven/)
   * [FS2 Kafka · Functional Kafka Streams for Scala](https://fd4s.github.io/fs2-kafka/)
+  * [kebab-case: No leftovers: Working with pulls in fs2- overview](https://blog.kebab-ca.se/chapters/fs2/overview.html)
 * [Fugue: Unifying Spark and Non-Spark Ecosystems for Big Data Analytics - YouTube](https://www.youtube.com/watch?v=BBd4b2pMk0c)
 * [Funnel - a distributed monitoring system based on a lightweight streaming protocol](https://verizon.github.io/funnel/)
 * [graphql4s - Another GraphQL interpreter for Scala based on specification graphql/draft](https://github.com/joacovela16/graphql4s)
@@ -1749,6 +1752,7 @@ Scala
   * [evalexample/Video12.scala at video12 · justinhj/evalexample](https://github.com/justinhj/evalexample/blob/video12/src/main/scala/livevideos/Video12.scala)
 * [2021 06 27 automatic-coloring-for-effects.md at master · rssh/notes](https://github.com/rssh/notes/blob/master/2021_06_27_automatic-coloring-for-effects.md)
 * [Programming with Functions #8: Monads - YouTube](https://www.youtube.com/watch?v=KZCoBTRBRMs)
+* [Programming with Functions #9: Try, for-comprehensions, and monadic laws - YouTube](https://www.youtube.com/watch?v=iq8sTiYc5qM)
 * [Another Approach to Monads in Scala: A Way to Generalize Chained Computations - YouTube](https://www.youtube.com/watch?v=a0C-RrncrYA)
 
 ## Monad Tagless Final
@@ -1925,6 +1929,8 @@ Scala
 * [What’s New in Scala 3?. A new compiler, creator applications… | by Akash Srivastava | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/whats-new-in-scala-3-586d69879253)
 * [Quill, Dotty, And The Awesome Power of 'Inline' by Alexander Ioffe - YouTube](https://www.youtube.com/watch?v=SmBpGkIsJIU)
 * [Scala 3: A Look at “inline” (and “Programming Scala” is Now Published!) | by Dean Wampler | Scala 3 | Jun, 2021 | Medium](https://medium.com/scala-3/scala-3-a-look-at-inline-and-programming-scala-is-now-published-9690ca43c23a)
+* [Metaprogramming in Scala 3: Inline | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=J3VRzMvqWeo)
+* [The inline Modifier in Scala 3 | Baeldung on Scala](https://www.baeldung.com/scala/inline-modifier)
 * [Ep 1: Scala 3 Enums, Implicits, and Context Functions - YouTube](https://www.youtube.com/watch?v=J01u_Dmrx5U)
 * [Ep 2: Type classes with Scala 2 - YouTube](https://www.youtube.com/watch?v=pJFfXhZlR5o)
 * [Ep 3: Evaluating our Numeric Type class - YouTube](https://www.youtube.com/watch?v=56Xj-5kCEm0)
@@ -1941,7 +1947,6 @@ Scala
 * [Scala 3: Dependent Types, Part I. Scala 3 expands on the type-level… | by Dean Wampler | Scala 3 | Jan, 2021 | Medium](https://medium.com/scala-3/scala-3-dependent-types-part-i-273e9076e8f8)
 * [Scala 3: Dependent Types, Part II | by Dean Wampler | Scala 3 | Jan, 2021 | Medium](https://medium.com/scala-3/scala-3-dependent-types-part-ii-e7fc04dbfb08)
 * [Scala 3 Metaprogramming by Example by Adam Warski - YouTube](https://www.youtube.com/watch?v=leIB5tvDY64)
-* [Metaprogramming in Scala 3: Inline | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=J3VRzMvqWeo)
 * [Scale By The Bay 2020: Robert J. Neal, A Reinforcement Learning Framework in Scala 3 - YouTube](https://www.youtube.com/watch?v=neYTpeKbGBE)
 * [Night Dreamer #1 – Marrying Scala 3 to LWJGL - YouTube](https://www.youtube.com/watch?v=vSv2t-Kkb64)
 * [What's new in Scala 3: all the "small" things - YouTube](https://www.youtube.com/watch?v=GCuskYmhvAc)
