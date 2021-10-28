@@ -1925,6 +1925,7 @@ Programming
 * [CI/CD 파이프라인을 보호하는 6가지 모범 사례 - ITWorld Korea](https://www.itworld.co.kr/news/201624)
 * [Building a successful and sustainable CI/CD pipeline - YouTube](https://www.youtube.com/watch?v=9nIG-pFyQ_k) 지속적 통합/배포 파이프라인을 제대로 구축하려면 툴이 아닌 아키텍처와 프로세스에 집중해야 하고, 조직원들을 지속적으로 설득해나가야 한다
 * [Safe Updates of Client Applications at Netflix | by Netflix Technology Blog | Oct, 2021 | Netflix TechBlog](https://netflixtechblog.com/safe-updates-of-client-applications-at-netflix-1d01c71a930c)
+* CodeCov [Publishing Scala Code Coverage Results to CodeCov using Github Actions | by PJ Fanning | Oct, 2021 | Medium](https://medium.com/@pjfanning/publishing-scala-code-coverage-results-to-codecov-using-github-actions-3e73ea8056cb)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
 * teamcity
@@ -2155,6 +2156,7 @@ Programming
 * [DevOps 란 무엇일까? – IT의 중심에서](https://subokim.wordpress.com/2017/11/15/what-is-devops/)
 * [IDC 1도 모르는 개발자가 DevOps를 만났을때](https://www.slideshare.net/ssuserd5b689/idc-1-devops-105987290)
 * [What Is DevOps?](https://www.youtube.com/watch?v=NCj11DHWcG8)
+* [What is DevOps? - YouTube](https://www.youtube.com/watch?v=kBV8gPVZNEE)
 * 개발과 운영의 조화
   * [1 기존 개발 체계의 문제점](http://bcho.tistory.com/815)
   * [2 Devops의 정의](http://bcho.tistory.com/817)
