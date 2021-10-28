@@ -738,6 +738,7 @@ Programming Books
 * (NOT YET) [선형대수와 통계학으로 배우는 머신러닝 with 파이썬](https://bjpublic.tistory.com/392)
 * (NOT YET) [이보다 더 쉬울 수 없는 자바 머신러닝 with Weka](https://bjpublic.tistory.com/393)
 * (NOT YET) [신호와 소음](https://jhrogue.blogspot.com/2021/07/blog-post_14.html)
+* (NOT YET) [기계 학습을 다시 묻다](https://cse.snu.ac.kr/node/52625)
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
