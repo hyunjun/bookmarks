@@ -741,6 +741,7 @@ Javascript
 * [Hello, Modules!. JavaScript Modules, also known as ESM… | by Sindre Sorhus | May, 2021 | 🦄 Sindre Sorhus’ blog](https://blog.sindresorhus.com/hello-modules-d1010b4e777b)
 * [JavaScript Proxy… But With Reflect | by TOAST UI | May, 2021 | Medium](https://toastui.medium.com/javascript-proxy-but-with-reflect-665f868fbeba)
 * [중첩 반복문은 안감을 두껍게 짜야한다](https://velog.io/@qroffle/%EC%A4%91%EC%B2%A9-%EB%B0%98%EB%B3%B5%EB%AC%B8%EC%9D%80-%EC%95%88%EA%B0%90%EC%9D%84-%EB%91%90%EA%BB%8D%EA%B2%8C-%EC%A7%9C%EC%95%BC%ED%95%9C%EB%8B%A4)
+* [valueOf 메소드, 뭐하러 있냐? - DEV Community](https://dev.to/composite/valueof-mesodeu-mweohareo-issnya-1n97)
 * Array
   * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
   * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
@@ -758,6 +759,7 @@ Javascript
   * [Kent C. Dodds’ .filter() Trick Will Change How You Use JavaScript | by Dr. Derek Austin 🥳 | Coding at Dawn | Jun, 2021 | Medium](https://medium.com/coding-at-dawn/kent-c-dodds-filter-trick-will-change-how-you-use-javascript-87b5112f9f6d)
     * 유명한 JavaScript 개발자인 Kent C. Dodds가 JavaScript의 배열에서 filter(Boolean)으로 배열에서 falsy 값을 제거하는 팁 설명
     * 조건별로 배열에 넣는 작업을 하는 경우 유용한 팁
+  * [나 배열 아니다 : Javascript Array](https://www.jiwon.me/im-not-array/)
 * console.log
   * [console.log를 지워야하는 이유](http://sculove.github.io/blog/2016/12/02/console-log%EB%A5%BC-%EC%A7%80%EC%9B%8C%EC%95%BC%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0)
   * [Please stop using console.log(), it’s broken…](https://hackernoon.com/please-stop-using-console-log-its-broken-b5d7d396cf15)
@@ -1057,6 +1059,7 @@ Javascript
 * [🐞VS Code로 디버깅하기 #환경변수 - YouTube](https://www.youtube.com/watch?v=lzpot5LqjqI)
 * [웹 개발자 도구의 역사 - DEV Community](https://dev.to/composite/-4675)
   * [웹 개발자 도구의 역사 | GeekNews](https://news.hada.io/topic?id=4099)
+* [2021년에 살펴볼 법한 브라우저 개발자 도구의 유용한 스타일 관련 기능 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20211027)
 * [JavaScript Developer Tools](https://techstack.hashnode.dev/javascript-developer-tools)
   * [3. JavaScript Developers tools - YouTube](https://www.youtube.com/watch?v=lcqTJTdvoWE)
 
