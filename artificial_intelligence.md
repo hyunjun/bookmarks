@@ -128,6 +128,7 @@ Artificial Intelligence
 * [AI 제품 관리자에게 필요한 실무 기술 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS5471353752)
 * [State of AI Report 2021](https://www.stateof.ai/)
   * [State of AI 2021 보고서 구글 Slide, 188P | GeekNews](https://news.hada.io/topic?id=5224)
+* [Software 2.0. I sometimes see people refer to neural… | by Andrej Karpathy | Medium](https://karpathy.medium.com/software-2-0-a64152b37c35)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
