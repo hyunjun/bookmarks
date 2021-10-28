@@ -1791,7 +1791,8 @@ Javascript
   * [Interactive 3D Graphics by Autodesk](https://www.udacity.com/course/interactive-3d-graphics--cs291)
   * [The Basics of THREE.js](https://www.youtube.com/playlist?list=PLOGomoq5sDLutXOHLlESKG2j9CCnCwVqg)
   * [Build a 3D World in React with ThreeJS and React Three Fiber - YouTube](https://www.youtube.com/watch?v=9ZEjSxDRIik)
-  * [three.js 를 사용해보았다.](https://velog.io/@juunini/three.js-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%95%98%EB%8B%A4)
+  * [three.js 를 사용해보았다](https://velog.io/@juunini/three.js-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%95%98%EB%8B%A4)
+  * [Three.js와 WebXR 몰입형 웹 경험의 랜더링. 인텔오픈소스 그룹에서 Three.js와 WebXR의 랜더링 아키텍처에… | by BELIVVR | BELIVVR | Oct, 2021 | Medium](https://medium.com/belivvr/three-js%EC%99%80-webxr-%EB%AA%B0%EC%9E%85%ED%98%95-%EC%9B%B9-%EA%B2%BD%ED%97%98%EC%9D%98-%EB%9E%9C%EB%8D%94%EB%A7%81-b2e7b6af9dda)
 * [timetabl/timetabl](https://github.com/timetabl/timetabl) Source code of www.timetabl.com
 * [Toast ui editor - GFM Markdown Wysiwyg Editor - Productive and Extensible](https://github.com/nhnent/tui.editor)
   * [FE Guide Get packed with compass and map for Front-End Javascript development voyage with FE Guide](https://ui.toast.com/fe-guide/ko/)
