@@ -2,6 +2,7 @@ SQL
 ===
 * [Intro to Database Systems : Schema Refinement - Functional Dependencies](http://blog.dancrisan.com/intro-to-database-systems-schema-refinement-functional-dependencies)
 * [A Tiny Intro to Database Systems](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
+* [누구나 바로 이해할 수 있는 데이터베이스 기초지식](https://brunch.co.kr/@04925bf0d77f43e/8)
 * [How to work optimally with relational databases](https://medium.freecodecamp.org/how-to-work-optimally-with-relational-databases-627073f82d56)
 * [The Wide World of Databases](https://blog.usejournal.com/a-light-introduction-to-databases-1154183ab852)
 * [In memory database plus traditional database combination back end architecture pattern](https://www.linkedin.com/grp/post/746917-5990940001540542468)
@@ -409,6 +410,7 @@ SQL
     * [Show Comment of Fields FROM Mysql Table](https://stackoverflow.com/questions/5404051/show-comment-of-fields-from-mysql-table)
     * [mysql show 명령어 완벽 정리](https://stricky.tistory.com/251)
   * [`UPDATE salary SET sex = CASE sex WHEN 'm' THEN 'f' ELSE 'm' END;`](https://leetcode.com/problems/swap-salary/solution/)
+  * [mysql 실무에 유용한 sql 로직 모음 #01](https://stricky.tistory.com/512)
 * troubleshooting
   * [MySQL 에서 한글이 께어질때 수정을 하는 방법 UTF-8사용](http://blog.daum.net/iamwhoi/5740153)
     * [11.1.6 Configuring the Character Set and Collation for Applications](https://dev.mysql.com/doc/refman/5.7/en/charset-applications.html)
