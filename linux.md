@@ -1067,7 +1067,6 @@ Linux
 * rdiff-backup
   * [What's new with rdiff-backup? | Opensource.com](https://opensource.com/article/20/9/rdiff-backup-linux)
   * [Manage your Linux backups with Rdiffweb | Opensource.com](https://opensource.com/article/20/10/rdiffweb)
-* rsyslog [Monitoring Linux Logs with Kibana and Rsyslog | by Antoine Solnichkin | devconnected — DevOps, Sysadmins & Engineering | Medium](https://medium.com/schkn/monitoring-linux-logs-with-kibana-and-rsyslog-4dfbbd287807)
 * [RTail - Terminal output to the browser in seconds, using UNIX pipes](http://rtail.org/)
 * [SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal](https://github.com/andmarti1424/sc-im)
 * [shed - the sh editor](https://github.com/mplewis/shed)
@@ -1090,6 +1089,10 @@ Linux
 * [xrdp - an open source RDP server](https://github.com/neutrinolabs/xrdp)
 * Xterm [The Xterm Window Manager Homepage](https://xtermwm.sourceforge.io/)
 * [zindex - Create an index on a compressed text file](https://github.com/mattgodbolt/zindex)
+
+# Log
+* [11. 로그관리, systemd-journald, rsyslogd, journalctl, syslog, journal :: 0부터 시작하는 해킹공부](https://haker.tistory.com/52)
+* rsyslog [Monitoring Linux Logs with Kibana and Rsyslog | by Antoine Solnichkin | devconnected — DevOps, Sysadmins & Engineering | Medium](https://medium.com/schkn/monitoring-linux-logs-with-kibana-and-rsyslog-4dfbbd287807)
 
 # Memory
 * Buffer and Cache
