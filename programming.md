@@ -463,6 +463,7 @@ Programming
 * [Why you should launch your product without a login | Caspar von Wrede](https://casparwre.de/blog/launching-a-product-without-a-login/)
   * [로그인 기능 없이 제품을 런칭 해야하는 이유 | GeekNews](https://news.hada.io/topic?id=5144)
 * [If not fixed, our code will fail every Sunday](https://jolo.xyz/blog/2021/10/25/dayofweek-inconsistency) 언어별로 서로 다른 요일값. datetime은 항상 어렵다
+* [호환성을 지켜주려는 개발자의 마음 | K리그 프로그래머](https://jeho.page/essay/2021/10/27/%ED%98%B8%ED%99%98%EC%84%B1%EC%9D%84-%EC%A7%80%EC%BC%9C%EC%A3%BC%EB%A0%A4%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%A7%88%EC%9D%8C.html)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
