@@ -837,6 +837,7 @@ Docker
   * [#6 advanced scheduling](https://www.slideshare.net/Byungwook/kubernetes-6-advanced-scheduling)
 * [Kubernetes Security 101 - Best Practices - YouTube](https://www.youtube.com/watch?v=fsfEthTZgFw)
 * [Container security best practices: Comprehensive guide - Sysdig](https://sysdig.com/blog/container-security-best-practices/)
+* [Database Security Best Practices on Kubernetes](https://blog.crunchydata.com/blog/database-security-best-practices-on-kubernetes)
 * [Container Orchestration — Technology Choices For Microservices and Other Workloads](https://codeburst.io/container-orchestration-technology-choices-for-microservices-and-other-workloads-38999e9902cb)
 * [Kubernetes By Example - Brought to you by the OpenShift team](http://kubernetesbyexample.com/)
 * 권한을 찾아서: GitHub Team을 이용하여 Kubernetes 계정 인증하기
@@ -1086,6 +1087,7 @@ Docker
 * [컨테이너 탐험가를 위한 ‘쿠버네티스’ 안내서 - CIO Korea](https://www.ciokorea.com/news/211809)
 * [install k8s on ubuntu20.04](https://uni2u.tistory.com/126)
 * [install container runtime on ubuntu20.04](https://uni2u.tistory.com/125)
+* [Horizontal Pod Autoscaling with Custom Metrics in Kubernetes | Pixie Labs Blog](https://blog.px.dev/autoscaling-custom-k8s-metric/)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
