@@ -310,7 +310,6 @@ AWS
 * [AWS Solutions Architect - Associate certificate Study — 공식 문서 정리 Part 1](https://medium.com/@tkdgy0801/aws-solutions-architect-certificate-공부-영역-1-7abd91cd91a8)
 * [AWS Solutions Architect — Associate certificate Study — 공식 문서 정리 Part 2](https://medium.com/@tkdgy0801/aws-solutions-architect-associate-certificate-study-공식-문서-정리-part-2-3775eb75230e)
 * [AWS로 서버 없이 웹 서비스 운영하기 – 1](http://blog.dramancompany.com/2019/09/aws%eb%a1%9c-%ec%84%9c%eb%b2%84-%ec%97%86%ec%9d%b4-%ec%9b%b9-%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%9a%b4%ec%98%81%ed%95%98%ea%b8%b0-1/)
-* [이메일 인증 작업 서버리스 앱으로 구성하기](https://aws.amazon.com/ko/blogs/korea/using-callback-urls-for-approval-emails-with-aws-step-functions/)
 * [AWS 클라우드를 통해 최소기능제품(MVP) 빠르게 개발하기 - 윤석찬, AWS 테크에반젤리스트](https://www.slideshare.net/awskorea/how-to-build-startup-mvp-in-aws-cloud)
   * [AWS 클라우드를 통해 최소기능제품(MVP) 빠르게 개발하기 - 윤석찬, AWS 테크에반젤리스트](https://www.youtube.com/watch?v=AwpcKaGwk7E)
 * [AWS Glue를 활용한 데이터 활용하기 Data Analysis #1 Hands-On](https://docs.google.com/document/d/137sbTTov-c6IoD8uDeVpPKvnubYf83XIjJLPBumrl58)
@@ -894,6 +893,8 @@ AWS
 * [AWS Lambda battle 2021: performance comparison for all languages (cold and warm start) | by Aleksandr Filichkin | Sep, 2021 | Medium](https://filia-aleks.medium.com/aws-lambda-battle-2021-performance-comparison-for-all-languages-c1b441005fd1)
   * AWS Lambda에서 Node.js, Python, Go, Ruby 등 다양한 런타임 간의 성능 비교
   * 콜드 스타트에 걸리는 시간과 JMeter로 15,000 요청을 보내면서 WARM 테스트를 수행해서 런타임 간의 요청 시간을 비교해 볼 수 있게 정리
+* [이메일 인증 작업 서버리스 앱으로 구성하기](https://aws.amazon.com/ko/blogs/korea/using-callback-urls-for-approval-emails-with-aws-step-functions/)
+* [AWS Step function vs. AWS Lambda benchmark - DEV Community](https://dev.to/cremich/aws-step-function-vs-aws-lambda-benchmark-4f41)
 * [Apex - AWS Lambda 관리도구 #1](https://blog.outsider.ne.kr/1241)
 * [Apex - AWS Lambda 관리도구 #2](https://blog.outsider.ne.kr/1242)
 * [AWS Lambda: Apex로 관리하기](https://hyunseob.github.io/2017/07/09/aws-lambda-with-apex/)
@@ -992,6 +993,7 @@ AWS
     * 멀티모델 캐슁으로 다수 모델을 효율적으로 서빙
     * 다운타임 없는 롤링 업데이트 지원
     * A/B 테스팅을 위한 트래픽 분할
+* [gossm: 💻Interactive CLI tool that you can connect to ec2 using commands same as start-session, ssh in AWS SSM Session Manager](https://github.com/gjbae1212/gossm)
 * [kops-cui - a CUI that helps you install Kubernetes Cluster easily with KOPS](https://github.com/nalbam/kops-cui)
 * [LocalStack - A fully functional local AWS cloud stack](https://github.com/localstack/localstack)
 * [mu - a tool for managing your microservices platform](https://getmu.io/)
