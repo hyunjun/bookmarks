@@ -163,6 +163,7 @@ Network
 * [**HTTP Prompt - An interactive command-line HTTP client**](https://http-prompt.com/)
 * [HTTPWTF | HTTP Toolkit](https://httptoolkit.tech/blog/http-wtf/)
 * [네트워크 및 http 기초와 실습 | Programming Cloud-Native](https://tech.gitple.io/2021/09/07/network-http-practice/)
+* [HTTP에 대해서 알아보자(정의와 구조)](https://velog.io/@couchcoding/HTTP%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90%EC%A0%95%EC%9D%98%EC%99%80-%EA%B5%AC%EC%A1%B0)
 
 # HTTPS
 * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
