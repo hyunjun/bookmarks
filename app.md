@@ -737,6 +737,7 @@ App
     * vim
       * [https://www.chrisatmachine.com/Neovim/22-vscodium-neovim/](https://www.chrisatmachine.com/Neovim/22-vscodium-neovim/)
         * [VSCode with embedded Neovim - YouTube](https://www.youtube.com/watch?v=g4dXZ0RQWdw)
+    * [vscode.dev Visual Studio Code for the Web](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [Bear App](https://bear.app/)
