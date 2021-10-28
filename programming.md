@@ -2183,6 +2183,7 @@ Programming
 * [Operations is not Developer IT](https://matduggan.com/operations-is-not-developer-it/)
 * [Velocity 09: John Allspaw and Paul Hammond, "10+ Deploys Pe - YouTube](https://www.youtube.com/watch?v=LdOe18KhtT4)
 * [halting problem : Dev v Ops](https://www.bassi.io/articles/2017/08/10/dev-v-ops/)
+* [DevOps Principles - The CASM Model - YouTube](https://www.youtube.com/watch?v=VySUutlo91E)
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
