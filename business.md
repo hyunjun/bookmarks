@@ -716,6 +716,7 @@ Business
 * [53세에 도전을 시작한 맥도날드 창업자 레이 크록(Ray Kroc) 타인의 재능을 알아보고, 현장에서 답을 찾아라 - 매일경제](https://www.mk.co.kr/news/culture/view/2017/11/763493/)
 * [리더십이 배워지는 거라고?](https://brunch.co.kr/@curahee/99)
 * [CEO 명언 - 6 스타벅스 - 하워드 슐츠 : 네이버 블로그](https://blog.naver.com/help2000/222542003852)
+* [좋은 상사의 10가지 자질 줄리아 투자노트](https://news.v.daum.net/v/20211023073102521)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -980,3 +981,4 @@ Business
   * 프로덕트 디자이너는 기능 중심 조직과 제품 중심 조직이 일하는 방식의 차이 때문에 발생, 두 조직에서 일하는 방식의 다른 점을 비교 설명
   * 시드 스테이지, 얼리 스테이지, 시리즈 라운드, 프리 IPO 라운드 이후의 스타트업 별로 디자이너가 어떤 일을 하는지와 필요한 역량 설명
 * [화려한 디자인을 가진 중국 이커머스앱에 대한 고찰 | Popit](https://www.popit.kr/%ed%99%94%eb%a0%a4%ed%95%9c-%ec%a4%91%ea%b5%ad-%ec%9d%b4%ec%bb%a4%eb%a8%b8%ec%8a%a4-%ec%95%b1%ec%97%90-%eb%8c%80%ed%95%9c-%ea%b3%a0%ec%b0%b0/)
+* ['흔들어서 실행 취소'는 왜 골칫덩어리가 되었나](https://www.jiwon.me/why-shake-to-undo-sucks/)
