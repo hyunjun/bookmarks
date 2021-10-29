@@ -2281,6 +2281,8 @@ Python
 * [How to Read Emails using IMAP Download Attachments Python 3 for Beginners 2018](https://www.youtube.com/watch?v=e-OZeAHFpkw)
 * [Using Markdown to Create Responsive HTML Emails](https://pbpython.com/markdown-email.html)
 * [파이썬을 이용하여 이메일(email) 전송 - 파일첨부, HTML 양식 사용](https://blog.naver.com/pjt3591oo/221836832117)
+* [파이썬 Python 코딩 - 엑셀 내용 이메일 발송하기 - YouTube](https://www.youtube.com/watch?v=2vz70V7EjpY)
+* [파이썬 Python 코딩 - 엑셀 내용 이메일 발송하기 2 (파일첨부) - YouTube](https://www.youtube.com/watch?v=aALlulEhxIM)
 * [elven.io - Email us to get any Python programming task completed](https://elven.io/)
 * [eml-attachment-extractor: Python script for extracting attachments from .eml files](https://github.com/jayadeepk/eml-attachment-extractor)
 * [Envelopes - Mailing for human beings](http://tomekwojcik.github.io/envelopes/) email
