@@ -398,6 +398,7 @@ Programming Books
 * (NOT YET) [High Performance MySQL: Optimization, Backups, and Replication: Schwartz, Baron, Zaitsev, Peter, Tkachenko, Vadim: 9781449314286: Amazon.com: Books](https://www.amazon.com/High-Performance-MySQL-Optimization-Replication/dp/1449314287)
 * (NOT YET) [독학으로 예제따라 익히는 mysql/mariadb SQL 입문서](https://stricky.tistory.com/469)
 * (NOT YET) [업무에 바로 쓰는 SQL 튜닝](https://jybaek.tistory.com/926)
+* (NOT YET) [이경오의 SQL+SQLD 비밀노트 (한빛미디어, 이경오 저)](https://goaloflife.tistory.com/220)
 
 # Data Science
 
