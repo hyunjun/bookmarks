@@ -482,6 +482,7 @@ Javascript
 * [Javascript 메모리 에 대하여!](https://steemit.com/kr/@cicada0014/2wvmzm-javascript)
 * [JavaScript's Memory Management Explained](https://felixgerschau.com/javascript-memory-management/)
 * [1기 JS 메모리와 변수 - 김지영 · Present](https://present.do/shows/61433d1be3562505806f9989)
+* [1기 JS 메모리와 변수 - 김지영 · Present](https://present.do/presentations/61433d1be3562505806f9987)
 * [만화로 소개하는 ArrayBuffer 와 SharedArrayBuffer](http://hacks.mozilla.or.kr/2017/11/a-cartoon-intro-to-arraybuffers-and-sharedarraybuffers/)
 * [Atomics 를 이용해서 SharedArrayBuffer 레이스 컨디션 피하기](http://hacks.mozilla.or.kr/2017/11/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/)
 * [배열과 유사배열](https://www.zerocho.com/category/JavaScript/post/5af6f9e707d77a001bb579d2)
@@ -712,6 +713,7 @@ Javascript
 * [유니코드 점자로 그래픽 디스플레이 만들기 유니코드 점자 문자로 CLI에서 그래픽을 표시해보자!](https://lazygyu.net/blog/graphic_display_by_braille_pattern)
 * [스타트업의 디자인 시스템 구축 과정 · Present](https://present.do/shows/61346fad5b179c0da7468260) design system
 * [!!Con 2019- Tail Call Optimization: The Musical!! by Anjana Vakil & Natalia Margolis - YouTube](https://www.youtube.com/watch?v=-PX0BV9hGZY) 정말 재미있는 공연 + TCO 설명
+* [next.config.js 의 images.path와 assetPrefix](https://velog.io/@juunini/next.config.js-%EC%9D%98-images.path%EC%99%80-assetPrefix)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -3257,6 +3259,7 @@ Javascript
 * [리액트 네이티브 앱 전환 그리고 1년 후 - 리디주식회사 RIDI Corporation](https://ridicorp.com/story/react-native-1year-review)
 * [React-Native M1 arm64 리액트 네이티브 세팅(with. expo & React Native CLI)](https://qnrjs42.github.io/react-native/m1-arm64-setting)
 * [리액트 네이티브 React Native, 풀스택 개발자 노하우 대방출 | 리디 RIDI dev. - YouTube](https://www.youtube.com/watch?v=FM5yyBaqqcg)
+* [리액트 React 로 만든 웹사이트, 풀스택 개발 장단점 | 2부 | 리디 RIDI dev. - YouTube](https://www.youtube.com/watch?v=exf4enLbVm4)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
