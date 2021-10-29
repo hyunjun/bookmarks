@@ -1038,6 +1038,7 @@ Docker
   * CNI인 Cilium과 Calico의 네트워크 성능 비교 차이점 분석, eBPF를 비교하기 위해 Calico eBPF도 비교 대상에 추가
   * 컨테이너 간 네트워크에는 오버헤드가 있는데 eBPF는 iptables와 오버헤드 발생 부분 생략 가능, 네트워크 성능이 훨씬 개선
   * 네트워크 부하를 더 크게 한 결과에서도 eBPF(Cilium, Calico 둘 다)가 좋은 성능
+* [Calico?Weave? CNI에 관하여](https://ykarma1996.tistory.com/179)
 * [11 Ways (Not) to Get Hacked | Kubernetes](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
 * [쿠버네티스 Admission Control #1 | 커피고래의 노트](https://coffeewhale.com/kubernetes/admission-control/2021/04/28/opa1/)
 * [쿠버네티스 Admission Control #2 - Open Policy Agent | 커피고래의 노트](https://coffeewhale.com/kubernetes/admission-control/2021/05/04/opa2/)
