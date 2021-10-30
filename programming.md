@@ -2652,6 +2652,7 @@ Programming
   * [9월 5주 소식(개발/관리도구, 클라우드/고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/10/b-9-5.html)
   * [10월 2주 소식(개발/관리도구, 클라우드/고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/10/b-10-2.html)
   * [10월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/10/b-10.html)
+  * [10월 4주 소식(개발/관리도구, 클라우드/고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/10/b-10-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
