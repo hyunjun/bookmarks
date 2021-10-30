@@ -82,6 +82,7 @@ Logging
   * [LogDevice: a distributed data store for logs](https://code.fb.com/core-data/logdevice-a-distributed-data-store-for-logs/)
   * [Open-sourcing LogDevice, a distributed data store for sequential data](https://logdevice.io/blog/2018/09/12/open-sourcing-announcement.html)
 * [Logging](https://logging.apache.org) Apache logging services
+* [loglab: Design & Apply Log Schema](https://github.com/haje01/loglab)
 * [Logswan is a fast Web log analyzer using probabilistic data structures](https://github.com/fcambus/logswan)
 * [loguru: A lightweight C++ logging library](https://github.com/emilk/loguru)
 * [mulog: μ/log is a micro-logging library that logs events and data, not words!](https://github.com/BrunoBonacci/mulog) clojure, log 기록을 text가 아니라 clojure data로 기록
