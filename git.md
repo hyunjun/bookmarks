@@ -803,6 +803,10 @@ Git
 * [GitHub Flow explain](https://www.youtube.com/watch?v=x-b_ij22vWg)
 * [GitHub Flow - demo](https://www.youtube.com/watch?v=GeFkVB8w7uM)
 
+# Conference
+* [Everything new from Universe 2021 | The GitHub Blog](https://github.blog/2021-10-27-everything-new-from-universe-2021/)
+* [It Depends - GitHub Universe 2021 - YouTube](https://www.youtube.com/watch?v=aMWh2uLO9OM)
+
 # Library
 * [Manage multiple Git identities](https://github.com/prydonius/karn)
 * [GitHub 멀티 어카운트를 사용할 때 유용한 Git 설정 - LainyZine](https://www.lainyzine.com/ko/article/useful-git-settings-when-using-github-multi-account/)
