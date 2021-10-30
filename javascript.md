@@ -46,6 +46,7 @@ Javascript
 * [Node.js V8 internals: an illustrative primer](https://codeburst.io/node-js-v8-internals-an-illustrative-primer-83766e983bf6)
 * [**Chrome 64, Node.js v10에서는 GC가 mark하는 동안 앱이 멈추지 않습니다**](https://tech.ssut.me/2018/06/16/concurrent-marking-in-v8/)
 * [JavaScript Garbage collection](https://techstack.hashnode.dev/javascript-garbage-collection)
+* [V8 Engine 그것을 알아보자](https://blog.naver.com/pjt3591oo/222553226915)
 * [V8 엔진은 어떻게 내 코드를 실행하는 걸까?](https://evan-moon.github.io/2019/06/28/v8-analysis/)
 * [V8의 히든 클래스 이야기](https://engineering.linecorp.com/ko/blog/v8-hidden-class)
 * [The V8 Engine and JavaScript Optimization Tips](https://alligator.io/js/v8-engine/)
@@ -54,6 +55,7 @@ Javascript
 * [Faster JavaScript calls · V8](https://v8.dev/blog/adaptor-frame)
 * [JS의 객체는 hash table이 아닙니다!](https://velog.io/@wongue_shin/JS%EC%9D%98-%EA%B0%9D%EC%B2%B4%EB%8A%94-hash-table%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4)
 * [자바스크립트 성능의 비밀 (V8과 히든 클래스) | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210909)
+* [번역 V8 Deep Dives Javascript Map을 파헤쳐보자](https://www.jiwon.me/v8-deep-dives-understanding-map-internals/)
 * [How JavaScript works: an overview of the engine, the runtime, and the call stack | by Alexander Zlatkov | SessionStack Blog](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
 * [Chromium이 발표한 RenderingNG가 무엇인가? | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210713)
   * Chrome에서 발표한 차세대 렌더링 아키텍처 RenderingNG, 크로스 브라우저 이슈를 최대한 없애고 안정적인 렌더링 성능을 구현하는 것이 목표
@@ -3693,6 +3695,7 @@ Javascript
   * [Jest CLI 대신에 WebStorm Run (Debug)로 수행하자](https://jojoldu.tistory.com/608)
   * [React’s sync and async `act`. One challenge of writing React tests is… | by Ben Brostoff | Medium](https://medium.com/@bmb21/reacts-sync-and-async-act-caa297b658b0)
   * [Test Coverage를 유지하는 방법. 어떤 코드를 테스트 해야할까? — Jest의 활용 | by Yeongsu Han | 원티드 제품 팀블로그 | Jun, 2021 | Medium](https://medium.com/wantedjobs/test-coverage%EB%A5%BC-%EC%9C%A0%EC%A7%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-21a7461997cf) jest enzyme codecov
+  * [테스트 픽스처 올바르게 사용하기](https://jojoldu.tistory.com/611)
 * [Mocha.js](https://github.com/mochajs)
   * [Mocha 로 하는 JavaScript Testing](http://inspiredjw.com/entry/Mocha-%EB%A1%9C-%ED%95%98%EB%8A%94-JavaScript-Testing)
   * [Mocha.js org의 멤버가 되다](https://blog.outsider.ne.kr/1360)
