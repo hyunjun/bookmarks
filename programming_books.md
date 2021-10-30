@@ -1128,6 +1128,7 @@ Programming Books
   * 한라 325.337-맥25ㄱ
 * (NOT YET) [제이펍의 참 똑똑한 2비트 책 이야기 :: 인공지능 전문가를 위한 인터뷰(면접) 가이드](https://jpub.tistory.com/1053)
 * (NOT YET) [리뷰 데이터 과학자와 데이터 엔지니어를 위한 인터뷰 문답집 · TheoryDB](https://theorydb.github.io/review/2020/09/19/review-book-data-science-interview/)
+* (NOT YET) [266가지 문제로 정복하는 코딩 인터뷰 in C++ · TheoryDB](https://theorydb.github.io/review/2021/10/30/review-book-cpp-algorithm-266/)
 
 # iOS
 
