@@ -31,6 +31,7 @@ Web
   * [Web Development for Beginners - A Curriculum](https://devrel-kr.github.io/Web-Dev-For-Beginners/)
 * [Best GitHub Repos for Web Developers](https://dev.to/sayanide/best-github-repos-for-web-developers-9id)
 * [**The Gold Standard Checklist for Web Components**](https://github.com/webcomponents/gold-standard/wiki)
+* [깃헙 개발자들이 React 안쓰는 이유 : Web Component - YouTube](https://www.youtube.com/watch?v=RtvSgptpfnY)
 * [KnowRe web development curriculum for noobs](https://github.com/KnowRe/WebDevCurriculum)
 * [Knowre web development curriculum 2018](https://github.com/Knowre-Dev/WebDevCurriculum)
 * [Front-end Tooling Workflows by Addy Osmani](https://speakerdeck.com/addyosmani/front-end-tooling-workflows)
@@ -64,6 +65,7 @@ Web
 * [Fantastic Web Design Tool](https://editor.easylogic.studio/)
   * [개발자, 트렌드를 버리다 — 1년 후 소감](https://medium.com/@easylogic/%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%8A%B8%EB%A0%8C%EB%93%9C%EB%A5%BC-%EB%B2%84%EB%A6%AC%EB%8B%A4-1%EB%85%84-%ED%9B%84-%EC%86%8C%EA%B0%90-e75a859280e9)
 * [11 Useful Online Tools for Frontend Developers](https://blog.bitsrc.io/12-useful-online-tools-for-frontend-developers-bf98f3bf7c63)
+* [Top 49 Web Development Tools for 2021](https://www.lambdatest.com/blog/top-web-development-tools-for-2021/)
 * [Managing two million web servers](http://joearms.github.io/2016/03/13/Managing-two-million-webservers.html)
 * [Rocket.chat 채팅 서비스 만들기](http://900stage.com/%EC%B1%84%ED%8C%85-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%A4%EB%8B%A4/)
 * [웹 아이콘 폰트 패키지, FONTIUM](https://fontium.koism.com/)
@@ -170,7 +172,10 @@ Web
 * [Best practices for cookie notices](https://web.dev/cookie-notice-best-practices/)
 * [URL shorteners set ad tracking cookies - luke miles](https://ylukem.com/blog/url-shorteners-set-ad-tracking-cookies)
 * [First-Party & Third-Party Cookies: What’s the Difference? - Clearcode Blog](https://clearcode.cc/blog/difference-between-first-party-third-party-cookies/)
+* [A beginner's guide to cookies — Quartz Weekly Obsession — Quartz](https://qz.com/emails/quartz-obsession/2015806/)
 * [사라지는 쿠키, 디지털 광고를 위한 차세대 ‘추적’ 기술은 무엇? - ITWorld Korea](http://www.itworld.co.kr/news/161700)
+* [The Cookieless World - 디지털 마케팅의 새 시대를 위한 가이드 | GeekNews](https://news.hada.io/topic?id=4761)
+* [Cookie와 WebStorage에 대한 정리 # Web](https://developer88.tistory.com/390)
 * [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
 * [번역 What Is the Difference Between a URI, a URL and a URN?](https://www.codeameba.com/2019/08/18/uri-url-urn/)
 * [Custom URI Scheme 만들기](https://nsinc.tistory.com/77)
@@ -198,6 +203,7 @@ Web
 * [The Ultimate Guide to Web Performance - DEV](https://dev.to/ender_minyard/the-ultimate-guide-to-web-performance-ci4)
 * [developer-handbook: An opinionated guide on how to become a professional Web/Mobile App Developer](https://github.com/apptension/developer-handbook)
 * [Timing web requests with cURL and Chrome](https://blog.cloudflare.com/a-question-of-timing/) TTFB time to first byte curl
+* [TTFB로 서비스 성능 측정하기. TTFB(Time To First Byte)를 통해 알아보는 내… | by Ryan Kim | Jul, 2021 | Medium](https://equus3144.medium.com/ttfb%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95%ED%95%98%EA%B8%B0-21baef090c7d)
 * [FE개발자의 성장 스토리 06 : 2021년 Chrome의 새로운 변화 – Schemeful same-site을 대응하자 – tech.kakao.com](https://tech.kakao.com/2021/02/02/frontend-growth-06/)
 * [브라우저의 동작 원리와 렌더링 최적화 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/how-browser-works/)
 * [well-known 디렉토리와 securty.txt 그리고 humans.txt](https://www.hahwul.com/2021/03/18/what-is-wellknown-directory/)
@@ -207,6 +213,30 @@ Web
 * [WebDevChallenge: A hopefully ever-growing list of web-development related challenges](https://github.com/jlem/WebDevChallenge)
 * [Under 1px line](https://hokeydokey.tistory.com/156)
 * [LINE에서 하루 만에 정적 웹 페이지 개발해서 배포하는 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/how-to-quickly-develop-static-pages-in-line/)
+* [All Programming is Web Programming](https://blog.codinghorror.com/all-programming-is-web-programming/) 기술 이야기는 아니지만 맞는 말이며 참고할만한 말
+* [MS Edge, Super Duper Secure Mode 실험 | GeekNews](https://news.hada.io/topic?id=4771)
+* [정부의 웹사이트 총량제는 코로나19 방역을 어떻게 방해하나 — 북저널리즘 - 젊은 혁신가를 위한 콘텐츠 커뮤니티](https://www.bookjournalism.com/@imc/53)
+* [CMO를 위한 SEO가이드 48p PDF | GeekNews](https://news.hada.io/topic?id=4915)
+* [Bringing instant page-loads to the browser through speculative prerendering](https://web.dev/speculative-prerendering/)
+  * 브라우저의 추측성 힌트인 prefetch/prerender의 사용법과 단점 설명
+  * preconnect/preload는 선언적인 힌트로 다음 로딩 때 필요한 리소스에 사용
+  * prefetch/prerender는 추측성 힌트로 필요할 가능성이 높은 리소스를 브라우저에 추천할 때 사용
+  * B 페이지가 A 페이지 다음에 요청될 가능성이 높다고 했을 때 A 페이지에서 prefetch 힌트를 사용해서 B 페이지나 특정 리소스를 미리 받도록 브라우저에 전달
+  * A 페이지에서 prerender 힌트를 사용해서 미리 B 페이지를 렌더링하게 브라우저에 전달. 미리 렌더링 되었으므로 클릭 시 바로 화면을 볼 수 있다
+  * prefetch
+    * 다음 페이지 전체나 same-origin의 서브 리소스를 미리 가져올 수 있다
+    * 캐싱할 수 있다면 HTTP Cache에 저장(크롬은 5분간 저장)
+  * prerender
+    * 크로미움에서 기존 구현체가 메모리를 너무 많이 사용해서 no-state prefetch로 다시 구현
+    * Quicklink, Guess.js 등의 서드파티 라이브러리 존재
+* [추론적인 프리렌더링으로 빠르게 페이지 로드하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20211006) prefetch prerender
+* [WAI-ARIA란?](https://story.pxd.co.kr/1588)
+  * WAI(Web Accessibility Initiative)에서 리치 애플리케이션의 접근성 표준인 ARIA를 어떻게 사용해야 하는지 설명
+    * 사용했을 때 스크린 리더기에서 어떻게 동작하는지 영상을 같이 제공하고 있어서 이해 용이
+  * 접근성을 제공하기 위해 태그에 추가 정보 제공. 하지만, 태그의 의미 자체를 바꾸진 않아야 함
+  * role로 컴포넌트나 요소 역할 정의
+  * aria-required, aria-label같은 프로퍼티를 컴포넌트의 특징을 정의
+* [**브라우저의 사용자 에이전트는 왜 이렇게 복잡하게 생겼을까? - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2021/10/11/Why-User-Agent-string-is-so-complex.html)
 
 # Apache
 * installation
@@ -266,6 +296,8 @@ Web
 * [Facebook Saved 크롤링](https://www.notion.so/Facebook-Saved-a3c05f5b00dc411e84ff7f548114070a)
 * [🚜 웹 크롤링과 아키텍쳐](https://velog.io/@mowinckel/%EC%9B%B9-%ED%81%AC%EB%A1%A4%EB%A7%81%EA%B3%BC-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90)
   * [웹 크롤러 아키텍쳐 | GeekNews](https://news.hada.io/topic?id=4338)
+* [The State Of Web Scraping in 2021 – Mihai's Blog](https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/)
+* [합법적으로 ‘웹 크롤링’하는 방법 (上) | 요즘IT](https://yozm.wishket.com/magazine/detail/877/)
 * [Common Crawl - We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone](https://commoncrawl.org/)
   * [Basic Statistics of Common Crawl Monthly Archives](https://github.com/commoncrawl/cc-crawl-statistics)
 * [Greenflare - 오픈소스 로컬 SEO 크롤러 | GeekNews](https://news.hada.io/topic?id=3365)
@@ -387,8 +419,9 @@ Web
   * [How to scrape websites with Python and BeautifulSoup](https://medium.freecodecamp.org/how-to-scrape-websites-with-python-and-beautifulsoup-5946935d93fe)
   * [Web Scraping With Beautiful Soup in Python](https://github.com/areed1192/sigma_coding_youtube/blob/master/python/python-data_science/web-scraping/Web%20Scraping%20Wikipedia.ipynb)
     * [Python Beautiful Soup](https://www.youtube.com/playlist?list=PLcFcktZ0wnNkOo9FQ2wrDcsV0jYqEYu1z)
-  * [TOOBUK](https://github.com/ramoi/toobuk)
   * [Scraping URLs with BeautifulSoup](https://hackingandslacking.com/scraping-urls-with-beautifulsoup-e794a555bb0f)
+  * [Web Scraping E-Commerce Website with Beautiful Soup + Excel [Multiple Pages] PART 1/2 - YouTube](https://www.youtube.com/watch?v=y0TpyWhrcDk)
+  * [TOOBUK](https://github.com/ramoi/toobuk)
 * [canrevan: 대량의 네이버 뉴스 기사를 수집하는 라이브러리입니다](https://github.com/affjljoo3581/canrevan)
 * [corona-tracker](https://github.com/iidx/corona-tracker) crawl + telegram bot
 * [Crawler](https://github.com/rudvlf0413/crawler)
@@ -449,6 +482,7 @@ Web
   * [How to Use Selenium to Automate Everything in the Browser | by James Briggs | Python In Plain English | Oct, 2020 | Medium](https://medium.com/python-in-plain-english/how-to-use-selenium-to-automate-everything-in-the-browser-c18a28750125)
   * [파이썬 셀레니움 이미지 크롤링으로 배우는 업무 자동화의 기초 - YouTube](https://www.youtube.com/watch?v=1b7pXC1-IbE)
   * [New Live Stream: Modern UI Test Automation with Selenium Libraries | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2021/05/new-live-stream-modern-ui-test-automation-with-selenium-libraries/)
+  * [Web Scraping Multiple Pages with Python and Selenium + CSV File - YouTube](https://www.youtube.com/watch?v=m3liwOyJPC8)
 * [springer_free_books - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine](https://github.com/alexgand/springer_free_books)
 * [youtube-downloader-v1.0](https://github.com/jiyeon1997/youtube-downloader-v1.0)
 
@@ -475,6 +509,20 @@ Web
 * [linear-gradient 속성에 transition 적용하기 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-05-12-linear-gradient-text)
 * [Learn CSS](https://web.dev/learn/css/)
 * [CSS-in-JS와 성능 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/877)
+* [IE를 버리면 사용할 수 있는 CSS 명세. | naradesign.github.io](https://naradesign.github.io/css-ie-not-supported.html)
+* [새로운 CSS 기능적인 의사 클래스 :is()와 :where() | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210721)
+* [CSS Nesting Module](https://www.w3.org/TR/2021/WD-css-nesting-1-20210831/) 다른 CSS 스타일 안에 CSS 스타일을 포함할 수 있는 CSS Nesting Module 초안 공개
+* [효율적인 다크 모드 구현을 위한 배경/전경 컨텍스트 기반의 컬러 팔레트 만들기 (feat. CSS variable) – Xenosium](https://xenosium.com/entry/8679/)
+  * 다크 모드 구현을 위해 컬러 팔레트를 기반으로 구성하는 방법 설명
+  * prefers-color-scheme 미디어 쿼리를 이용해서 라이트/다크 모드 색상 변수 선언, 사용 가능. 하지만 보통 웹사이트는 다양한 UI 요소가 있으므로 간단하지 않음
+  * HSL로 색 반전 가능. 하지만, UI 요소 중 배경색을 사용한 경우에는 제대로 반전되지 않는 부분이 생기기 마련
+  * 디자인에서 사용하는 색의 개수는 정해져 있으므로 팔레트로 만들어서 색의 단계별로 HLS 변수를 만들어 사용
+    * HSL로 단계별로 지정했으므로 다크 모드에서는 반대되는 색을 쉽게 찾을 수 있음. 라이트 모드에서 gray-010는 다크 모드에서는 gray-090
+  * UI 요소가 늘어나면 변수도 2개씩 늘어나는 문제
+  * 이 부분을 이용해서 색은 배경(background)와 전경(foreground)에 따라 역할이 다르다는 것에 착안해 10단계의 색조 팔레트를 배경/전경으로 나누고 이를 이용해서 라이트 모드 다크모드 변수 정의
+    * 이 많은 변수가 너무 많게 느껴질 수 있지만, UI 요소에 대응할 수 있어서 복잡한 사이트에서는 이렇게 사용하는 것이 더 나음
+* [LINE Web Timeline 이미지 얼굴 인식 기능 적용 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-web-timeline-image-face-recognition/)
+* [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
   * [Functional CSS, Tachyons - 함수형 CSS를 지향하는 프레임웍](https://googit.io/post/ap-northeast-2:c03f8bf0-992e-48a8-93b6-15787a0fc96f/public/tachyons)
@@ -517,6 +565,7 @@ Web
 * [AdminLTE 다기능의 Bootstrap기반 관리 화면 템플릿](http://neojjang.tistory.com/entry/%EB%8B%A4%EA%B8%B0%EB%8A%A5%EC%9D%98-Bootstrap%EA%B8%B0%EB%B0%98-%EA%B4%80%EB%A6%AC-%ED%99%94%EB%A9%B4-%ED%85%9C%ED%94%8C%EB%A6%BF-AdminLTE)
 * [codepen.io](http://codepen.io/Yakudoo/pen/YXxmYR)
 * [BakerStreet - Simple client side load balancer for microservices](http://bakerstreet.io/)
+* [Bit: The platform for the modular web](https://bit.dev/)
 * [CODEF API - 인코딩, 암호화 등 API 요청에 필요한 전처리 작업을 최소화하고 쉽게 개발할 수 있는 API](https://github.com/dc7303/easy-codef-py)
 * [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
   * [딥스트림, 오픈소스 실시간 서버 기술 공개](http://www.bloter.net/archives/260428)
@@ -528,6 +577,8 @@ Web
 * [gatling - a high performance web server](http://www.fefe.de/gatling)
 * [html5-qrcode: A cross platform HTML5 QR code reader](https://github.com/mebjas/html5-qrcode)
   * [Html5-QRCode - 크로스플랫폼 QR코드 리더 | GeekNews](https://news.hada.io/topic?id=4397)
+* [htmlq: Like jq, but for HTML](https://github.com/mgdm/htmlq) JSON을 쉽게 조회하고 조작할 수 있는 jq처럼 CSS 셀렉터를 이용해서 HTML을 조회할 수 있는 CLI
+  * [htmlq - jq for HTML | GeekNews](https://news.hada.io/topic?id=4973)
 * [HTTP/2 Dashboard BETA - Monitoring the adoption and performance of HTTP/2 on the Web](http://isthewebhttp2yet.com/index.html)
 * [Hurl.it - Make HTTP requests](https://www.hurl.it/)
   * [Hurl - 웹기반 HTTP Req 테스트 도구 | GeekNews](https://news.hada.io/topic?id=4250)
@@ -555,10 +606,13 @@ Web
   * [Spring REST API 문서를 Swagger로 만들자](http://yookeun.github.io/java/2017/02/26/java-swagger/)
   * [API the Docs 참관 후기](https://engineering.linecorp.com/ko/blog/detail/292)
   * [Designing REST API with Open API Specification (OAS) v2.0 & v3.0 using Swagger](https://hackernoon.com/designing-rest-api-with-open-api-specification-oas-v2-0-v3-0-using-swagger-11dd4ef8cea6)
-* [traefik: The Cloud Native Application Proxy](https://github.com/traefik/traefik)
-  * [traefik - 클라우드 네이티브 어플리케이션 프록시 | GeekNews](https://news.hada.io/topic?id=3668)
 * [TSWS, A Totally Simple Web Server](https://github.com/dfletcher/tsws)
 * [UrlDiff - Simple visual regression testing](http://www.productchart.com/blog/2015-07-19-urldiff)
+* [web2img: This is the real WebPack](https://github.com/etherdream/web2img) can use image hosting sites as free CDNs to save bandwidth costs
+* [WebDevCurriculum: Knowre 웹개발 커리큘럼](https://github.com/Knowre-Dev/WebDevCurriculum)
+  * [Knowre 신입 웹개발 커리큘럼 | GeekNews](https://news.hada.io/topic?id=4968)
+* [zero: Allow startup developers to ship to production on day 1](https://github.com/commitdev/zero)
+  * [Zero - 스타트업이 첫날부터 개발 & 배포 가능하게 해주는 부트스트래핑 도구 | GeekNews](https://news.hada.io/topic?id=4957)
 
 # Lisp
 * [Lisp for the Web](http://www.adamtornhill.com/articles/lispweb.htm)
@@ -615,6 +669,7 @@ Web
 * [Nginx-ingress controller for cross-namespace support and fix 308 redirect loops with AWS NLB | by ismail yenigül | FAUN](https://faun.pub/nginx-ingress-controller-for-cross-namespace-support-and-fix-308-redirect-loops-with-aws-nlb-9c9ca58deeaa)
 * [daphne, nginx을 활용한 소켓 통신 연결 삽질 극복기(TroubleShooting)](https://velog.io/@seanlion/daphnenginxtroubleshooting)
 * [Microservices design and deployment with NGINX | Free Ebook](https://www.nginx.com/resources/library/designing-deploying-microservices/)
+* [The NGINX Real-Time API Handbook - NGINX](https://www.nginx.com/resources/library/real-time-api-handbook)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
 * [topngx - top for NGINX](https://github.com/gsquire/topngx)
@@ -653,9 +708,11 @@ Web
 * [드리블 모바일 디자인컨셉 구현 및 PWA](https://natsgun.tistory.com/39)
 * [A Simple Progressive Web App Tutorial](https://medium.com/james-johnson/a-simple-progressive-web-app-tutorial-f9708e5f2605)
 * [PWA가 뭔가요? (+모바일 앱의 종류) - YouTube](https://www.youtube.com/watch?v=NMdnzvPsGu8)
+* [Build a Full Stack PWA App With Spring Boot (Step By Step Tutorial) - YouTube](https://www.youtube.com/watch?v=Lym-bvv_2sI)
 
 # Proxy
 * [코딩방송 Season1- EP 15. 프록시 proxy](https://www.youtube.com/watch?v=fC3Cxh5B9Ug)
+* [Why should I use a Reverse Proxy if Node.js is Production-Ready?](https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca)
 * Consul
   * [HAProxy and Consul with DNS for Service Discovery - HAProxy Technologies](https://www.haproxy.com/blog/haproxy-and-consul-with-dns-for-service-discovery/)
   * [Load Balancing Strategies for HashiCorp Consul](https://www.hashicorp.com/blog/load-balancing-strategies-for-consul/)
@@ -675,8 +732,11 @@ Web
   * [Docker기반 Redis 구축하기 - (8) HAProxy를 이용한 분산처리 환경 구축하기 | Carrey's 기술블로그](https://jaehun2841.github.io/2018/12/02/2018-12-02-docker-8/#haproxycfg-%ED%8C%8C%EC%9D%BC-%EC%9E%91%EC%84%B1)
   * [HAProxy 고가용성 설정](https://www.ibm.com/support/knowledgecenter/ko/SSYMRC_6.0.5/com.ibm.jazz.install.doc/topics/t_setup_haproxy_ha.html)
   * [Announcing HAProxy 2.2 - HAProxy Technologies](https://www.haproxy.com/blog/announcing-haproxy-2-2/)
-* [MITMProxy로 실시간 검색어 조작하기](https://www.youtube.com/watch?v=2Of-zvygg8w)
-* [traefik: The Cloud Native Edge Router](https://github.com/containous/traefik)
+  * [**Reining in the thundering herd ⛈ Getting to 80% CPU utilization with Django**](https://blog.clubhouse.com/reining-in-the-thundering-herd-with-django-and-gunicorn/)
+* [Mitmproxy 7](https://mitmproxy.org/posts/releases/mitmproxy7/)
+  * [MITMProxy로 실시간 검색어 조작하기](https://www.youtube.com/watch?v=2Of-zvygg8w)
+* [traefik: The Cloud Native Application Proxy](https://github.com/traefik/traefik)
+  * [traefik - 클라우드 네이티브 어플리케이션 프록시 | GeekNews](https://news.hada.io/topic?id=3668)
 
 # Python
 * Let’s Build A Web Server
@@ -695,8 +755,52 @@ Web
 * [How To Track Coronavirus In Your Country with Python](https://towardsdatascience.com/how-to-track-coronavirus-with-python-a5320b778c8e) ChromeDriver
 * [웹 크롤링 기초 - 네이버 개발자센터 지역 검색 Open API 사용하기 미래 실험실 Python](https://www.youtube.com/watch?v=DZ38p5O6CJE)
 * [The Alternative to Web Scraping. The “lazy” programmer’s guide to… | by Doug Guthrie | Towards Data Science](https://towardsdatascience.com/the-alternative-to-web-scraping-8d530ae705ca)
+* [5 Smooth Python Web-Frameworks For The Modern Developer | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/5-smooth-python-web-frameworks-for-the-modern-developer-47db692dfd52) FastAPI, Tornado, Pyramid, Quart, BlackSheep
+* [REST API 개발로 알아보는 WSGI, ASGI](https://blog.neonkid.xyz/249) uvicorn
+* [Python and REST APIs: Interacting With Web Services – Real Python](https://realpython.com/api-integration-in-python/)
+* [파이썬 기본 모듈로 HTTPS 서버 구축하기 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS6163871474)
+  * [파이썬 한 줄로 로컬 테스트서버 만들기 - YouTube](https://www.youtube.com/watch?v=HIiL2cP87ec)
+* [Top 10 Trends in Python WebDev for 2021 and the resources to get started](https://www.activestate.com/blog/top-10-trends-in-python-webdev-for-2021-and-the-resources-to-get-started/)
+* [Anvil | Build Web Apps with Nothing but Python](https://anvil.works/)
+  * [Python on the front-end? How to build an entire web app with only Python - YouTube](https://www.youtube.com/watch?v=vj0zW_pSZn0)
+* [BlackSheep: Fast ASGI web framework and HTTP client for Python asyncio](https://github.com/RobertoPrevato/BlackSheep)
+* [Brython - A Python 3 implementation for client-side web programming](http://www.brython.info)
+  * [Brython (Browser Python) is an implementation of Python 3 running in the browser](https://github.com/brython-dev/brython)
+  * [파이썬을 웹에서 실행하기 :: 프즈](https://tolovefeels.tistory.com/53)
+  * [Sick of Using Javascript for the Web? Use Browser Python Instead | by Yakko Majuri | The Startup | Medium](https://medium.com/swlh/sick-of-javascript-just-use-browser-python-4b9679efe08b)
 * [django-tdd-restful-api](https://github.com/elastic7327/django-tdd-restful-api)
 * eel [Create HTML User Interface for Python using Eel Library | by Utsav Datta | WronmberTech | Medium](https://medium.com/wronmbertech/create-html-user-interface-for-python-using-eel-library-bab101cc0f99)
+* Falcon [An Introduction to the Falcon Framework | by Esther Vaati | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/an-introduction-to-the-falcon-framework-a787ceea098)
+* [fastapi: FastAPI framework, high performance, easy to learn, fast to code, ready for production](https://github.com/tiangolo/fastapi)
+  * [FastAPI](https://fastapi.tiangolo.com/)
+  * [FastAPI - API 개발용 고성능 웹 프레임워크 | GeekNews](https://news.hada.io/topic?id=3686)
+  * [Why we switched from Flask to FastAPI for production machine learning](https://towardsdatascience.com/why-we-switched-from-flask-to-fastapi-for-production-machine-learning-765aab9b3679)
+  * [You Should Start Using FastAPI Now | by Tivadar Danka | Towards Data Science](https://towardsdatascience.com/you-should-start-using-fastapi-now-7efb280fec02)
+  * [Intro to FastAPI - The Best Way to Create APIs in Python? - YouTube](https://www.youtube.com/watch?v=kCggyi_7pHg)
+  * [Learning FastAPI - YouTube](https://www.youtube.com/watch?v=GSMYt429ot4)
+  * [Integrating Tortoise ORM into a FastAPI App - YouTube](https://www.youtube.com/watch?v=vVjWeLVv97c)
+  * [Integrating AIOHTTP Into a FastAPI App - YouTube](https://www.youtube.com/watch?v=BalvzyKg_4k)
+  * [4 Useful Advanced Features in FastAPI | by Ng Wai Foong | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/4-useful-advanced-features-in-fastapi-f08e4db59637)
+  * [How to use FastAPI with MongoDB. An easy way to serve your database… | by Fernando Souza | Python In Plain English | Sep, 2020 | Medium](https://medium.com/python-in-plain-english/how-to-use-fastapi-with-mongodb-75b43c8e541d)
+  * [Migrate From Flask to FastAPI Smoothly | by Ng Wai Foong | Better Programming | Medium](https://medium.com/better-programming/migrate-from-flask-to-fastapi-smoothly-cc4c6c255397)
+  * [3 Reasons to Switch to FastAPI. Flask vs. FastAPI | by Dieter Jordens | Better Programming | Medium](https://medium.com/better-programming/3-reasons-to-switch-to-fastapi-f9c788d017e5)
+  * [Using Docker Compose to deploy a lightweight Python REST API with a job queue | by Mike Moritz | Medium](https://medium.com/@mike.p.moritz/using-docker-compose-to-deploy-a-lightweight-python-rest-api-with-a-job-queue-37e6072a209b)
+  * [FastAPI Authentication Example With OAuth2, JSON Web Tokens and Tortoise ORM - YouTube](https://www.youtube.com/watch?v=6hTRw_HK3Ts)
+  * [FastAPI 톺아보기 - 부제: python 백엔드 봄은 온다](https://jybaek.tistory.com/890)
+  * [Fast API 로 3시간만에 추천 서버 만들기 (implicit, docker, gitlabCI)](https://school-of-life.tistory.com/166)
+  * [Starting With FastAPI and Examining Python's Import System | Real Python Podcast #72 - YouTube](https://www.youtube.com/watch?v=7mLa2SGBAT0)
+  * [Building a Kanban Board App in FastAPI and React - YouTube](https://www.youtube.com/watch?v=tX0h1PQgWPw)
+  * [emoji_rank: This is slack bot for emoji ranking](https://github.com/JAY-Chan9yu/emoji_rank)
+    * [오픈소스 프로젝트를 만들어본 썰 풉니다! (feat. FastAPI, Slack) :: Jay's Code Factory](https://jay-ji.tistory.com/82)
+  * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
+    * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
+  * [fastapi-boilerplate: FastAPI Boilerplate](https://github.com/teamhide/fastapi-boilerplate)
+  * [FastapiTutorial](https://www.fastapitutorial.com/)
+  * [fastapi_websocket_pubsub: A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub](https://github.com/authorizon/fastapi_websocket_pubsub)
+    * [A fast and durable Pub/Sub channel over Websockets with python](https://pythonawesome.com/a-fast-and-durable-pub-sub-channel-over-websockets-with-python/)
+  * [picoapi: An opinionated wrapper around FastAPI with custom microservice registration](https://github.com/schlerp/picoapi)
+    * [PicoAPI: FastAPI for microservices? | by Patrick Coffey | Towards Data Science](https://towardsdatascience.com/picoapi-fastapi-for-microservices-1e0770b747a2)
+  * [shopping-mall](https://github.com/jybaek/shopping-mall) basic 예제 + uvicorn
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
 * [Lektor - Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app](https://github.com/lektor/lektor)
 * mod_wsgi
@@ -704,12 +808,23 @@ Web
     * `yum install pcre-devel.x86_64 -y`
     * `apt-get install libpcre3-dev -y`
   * [mod_fastcgi, mod_wsgi](https://github.com/dsindex/blog/wiki/%5Bpython%5D-mod_fastcgi,-mod_wsgi)
+* [pook: HTTP traffic mocking and testing made simple in Python](https://github.com/h2non/pook)
+  * [HTTP traffic mocking and testing made simple in Python](https://pythonawesome.com/http-traffic-mocking-and-testing-made-simple-in-python/)
 * [pyhttptest: HTTP tests over RESTful APIs](https://github.com/slaily/pyhttptest)
+* [Pyramid, a Python Web Framework](https://trypyramid.com/)
+* [PyWebIO](https://pywebio.readthedocs.io/)
+  * [How to build your first simple web application in Python with PyWebIO - YouTube](https://www.youtube.com/watch?v=n6I58WJiKGU)
+    * [pywebio-bmi](https://github.com/dataprofessor/pywebio-bmi)
+* [Quart documentation](https://pgjones.gitlab.io/quart/)
 * [search-script-scrape - 101 real world web scraping exercises in Python 3 for data journalists https://github.com/compjour/search-script-scrape#repo-status](https://github.com/compjour/search-script-scrape/)
 * [Streamlit. The fastest way to build custom ML tools](https://www.streamlit.io/)
   * [파이썬 웹어플리케이션 맛보기 (feat. Streamlit)](https://lucaseo.github.io/2020/03/13/20200313-1/)
   * [Flask’s Latest Rival in Data Science](https://towardsdatascience.com/the-end-of-flask-in-data-science-738920090ed9)
   * [How to Build a Data Science Web App in Python](https://towardsdatascience.com/how-to-build-a-data-science-web-app-in-python-61d1bed65020)
+* [Tornado Web Server](https://www.tornadoweb.org/)
+  * [Python Tornado 웹서버 개발 HelloWorld부터 비동기식 데이터 처리까지](https://speakerdeck.com/spritecodej/junbeom-park)
+    * [github.com/spritecodej/tornado_examples](https://github.com/spritecodej/tornado_examples)
+  * [Tornado WS Json API Server Boilerplate](https://github.com/shinjayne/Tornado-WS-Json-Boilerplate)
 
 # Restful
 * [practice - restful](https://gist.github.com/hyunjun/44d0c4c4aa40b4b1d1e4b2f2d52b1dd2#file-restful-md)
@@ -818,10 +933,6 @@ Web
 * [grest: Build REST APIs with Neo4j and Flask, as quickly as possible!](https://github.com/mostafa/grest)
   * [The Story of gREST, A Graph-based Restful API Development Framework | by Mostafa Moradian | Medium](https://medium.com/@mostafamoradian/the-story-of-grest-a-graph-base-restful-api-development-framework-e1f93b8a850d)
 
-# Reverse Proxy
-* [Why should I use a Reverse Proxy if Node.js is Production-Ready?](https://medium.com/intrinsic/why-should-i-use-a-reverse-proxy-if-node-js-is-production-ready-5a079408b2ca)
-* [Trafik - A modern reverse proxy](http://traefik.github.io/)
-
 # Security 보안
 * [All you need to know about user session security](https://hackernoon.com/all-you-need-to-know-about-user-session-security-ee5245e6bdad)
 * [GOTO 2019 • Common API Security Pitfalls • Philippe De Ryck](https://www.youtube.com/watch?v=Ss1tZjooo9I)
@@ -855,6 +966,7 @@ Web
 * [구글, A/B 테스팅 도구 ‘옵티마이즈’ 정식 출시](http://www.bloter.net/archives/275916)
 * [Innovating Faster on Personalization Algorithms at Netflix Using Interleaving](https://medium.com/netflix-techblog/interleaving-in-online-experiments-at-netflix-a04ee392ec55)
 * [5 Tricks When A/B Testing Is Off The Table](https://www.kdnuggets.com/2017/12/5-tricks-ab-testing.html)
+* replay [The Time Travel Debugger for Web Development](https://www.replay.io/)
 
 ## Test Load Test
 * [실전 Web Application 부하 테스트 - 1편](https://blog.imqa.io/siljeon-web-aeb-buha-teseuteu-1byeon/)
@@ -887,6 +999,7 @@ Web
   * [nGrinder를 이용한 api 성능테스트 후기 | Recoding Life](https://jane096.github.io/project/ngrinder-performance-test/)
   * [nGrinder 성능테스트 결과를 통한 로그인 성능개선 과정을 알아보자 | Recoding Life](https://jane096.github.io/project/ngrinder-login-refactoring/)
   * [스케일링 가능한 Ngrinder 환경 구축하기 (feat. AWS Beanstalk)](https://jojoldu.tistory.com/581)
+  * [nGrinder에 적용한 HttpCore 5와 HttpCore 5 살펴보기](https://d2.naver.com/helloworld/0881672)
 * [Siege - an http load testing and benchmarking utility](https://www.joedog.org/siege-home/)
 * [vegeta - HTTP load testing tool and library. It's over 9000!](https://github.com/tsenart/vegeta)
 
@@ -901,6 +1014,7 @@ Web
 * [How Wix improved website performance by evolving their infrastructure](https://web.dev/wix/)
 * [내 웹 페이지 성능을 어떻게 올릴까? — 기초 | Medium](https://haragoo30.medium.com/%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B8%B0%EC%B4%88-1e107b44eb46)
 * [내 웹 페이지 성능을 어떻게 올릴까? — 예제 | by JungHoon Park | Jun, 2021 | Medium](https://haragoo30.medium.com/%EB%82%B4-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%98%AC%EB%A6%B4%EA%B9%8C-%EC%98%88%EC%A0%9C-a1800d10d4ed)
+* [웹 프론트 속도 개선을 위한 필수도구 소개](https://velog.io/@dochis/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8-%EC%86%8D%EB%8F%84-%EA%B0%9C%EC%84%A0%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%95%84%EC%88%98%EB%8F%84%EA%B5%AC-%EC%86%8C%EA%B0%9C)
 * [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
   * [Simple Performance Testing with Apache Benchmark](http://www.chriswpage.com/2010/01/simple-performance-testing-with-apache-benchmark/)
   * [Example of using Apache Bench (ab) to POST JSON to an API](https://gist.github.com/kelvinn/6a1c51b8976acf25bd78)
@@ -917,6 +1031,7 @@ Web
   * [웹 퍼포먼스 개선을 위한 Lighthouse CI 도입기 – DRAMA&COMPANY](https://blog.dramancompany.com/2021/04/%ec%9b%b9-%ed%8d%bc%ed%8f%ac%eb%a8%bc%ec%8a%a4-%ea%b0%9c%ec%84%a0%ec%9d%84-%ec%9c%84%ed%95%9c-lighthouse-ci-%eb%8f%84%ec%9e%85%ea%b8%b0/)
   * [실제 웹사이트에서 Web Vitals 디버깅하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1548) 
   * [web-performance-test: lighthouse 자동화 스크립트](https://github.com/sangheon-kim/web-performance-test)
+  * [Web Performance Testing With Cypress and Google Lighthouse](https://www.lambdatest.com/blog/using-cypress-google-lighthouse-performance-testing/)
 * [the-benchmarker/web-frameworks: Which is the fastest web framework?](https://github.com/the-benchmarker/web-frameworks)
 * [webhint, the hinting engine for web best practices](https://webhint.io/)
   * [WebHint - 웹사이트 개선을 위한 도구 | GeekNews](https://news.hada.io/topic?id=4480)
@@ -940,6 +1055,7 @@ Web
 # WebAssembly
 * [WebAssembly](https://github.com/WebAssembly/)
 * [WebAssembly- Explained](http://moduscreate.com/webassembly-explained/)
+* [초보 개발자를 위한 웹 신기술 WebAssembly 설명 - YouTube](https://www.youtube.com/watch?v=VJag_H2Cosc)
 * [2015 LLVM Developers’ Meeting: Jf Bastien & Dan Gohman “WebAssembly: Here Be Dragons"](https://www.youtube.com/watch?v=5W7NkofUtAw)
 * [WebAssembly: a binary format for the web](http://www.2ality.com/2015/06/web-assembly.html)
 * [Call for support for lisp in the WebAssembly development](http://article.gmane.org/gmane.lisp.steel-bank.devel/19495)
@@ -963,16 +1079,33 @@ Web
 * [웹어셈블리 인기에 날개달까?··· 주목할 만한 언어 프로젝트 11가지 - CIO Korea](https://www.ciokorea.com/news/199344)
 * [Making JavaScript run fast on WebAssembly](https://bytecodealliance.org/articles/making-javascript-run-fast-on-webassembly)
 * [Making JavaScript on WebAssembly Fast - YouTube](https://www.youtube.com/watch?v=CRaMls9oVBw)
+  * [WebAssembly는 어떻게 JavaScript를 빠르게 실행할 수 있는가 | GeekNews](https://news.hada.io/topic?id=5167)
+* [WebAssembly with Golang by scratch | by Roman Romadin | Aug, 2021 | ITNEXT](https://itnext.io/webassemply-with-golang-by-scratch-e05ec5230558)
+  * Go 언어 이용 간단한 WebAssembly 작성 예제
+  * 코드는 Hello World를 출력하는 정도이지만 Go로 작성한 코드를 컴파일해서 HTML 페이지와 연동해서 불러오는 방법 소개
+* [What Is WebAssembly — and Why Are You Hearing So Much About It? – The New Stack](https://thenewstack.io/what-is-webassembly/)
+* ["네이티브에 가까운 성능" 웹어셈블리 활용한 언어 프로젝트 12선 - CIO Korea](https://www.ciokorea.com/news/206339)
+* [Hit the Ground Running with WebAssembly (How To Start Using WebAssembly In Your Apps) - YouTube](https://www.youtube.com/watch?v=aDAkU1S2JYk)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
 * [Pyodide](https://pyodide.org/) Python with the scientific stack, compiled to WebAssembly
   * [모질라, 브라우저에 파이썬 통합하는 ‘파이어다이드’ 프로젝트 분리 - CIO Korea](https://www.ciokorea.com/news/191529)
+* [wagi: Write HTTP handlers in WebAssembly with a minimal amount of work](https://github.com/deislabs/wagi)
+* [WasmEdge Runtime is a high-performance, extensible, and hardware optimized WebAssembly Virtual Machine for automotive, cloud, AI, and blockchain applications.](https://github.com/WasmEdge/WasmEdge)
+  * [WebAssembly serverless functions in AWS Lambda | Cloud Native Computing Foundation](https://www.cncf.io/blog/2021/08/25/webassembly-serverless-functions-in-aws-lambda/)
+    * WasmEdge을 이용해서 AWS Lambda에서 WebAssembly로 서버리스 펑션 작성 방법 설명
+    * WebAssembly는 Python이나 JavaScript보다 훨씬 빠르고 보안에 강하면서 이식성이 좋아서 서버리스 펑션에 좋음
+    * 데모로 Rust로 작성한 WebAssembly 함수를 도커 이미지로 만들어서 Lamba에 배포하는 방법 설명
+    * 두 번째 예제는 Tensorflow를 이용해서 추론하는 WebAssembly 함수
+    * 둘 다 WasmEdge로 실행
 * [Wasmer - The Universal WebAssembly Runtime](https://wasmer.io/)
   * [서버측 웹어셈블리 런타임 ‘와스머’, GA 버전 공개 - CIO Korea](https://www.ciokorea.com/news/178284)
   * [Wasmer 1.0. By leveraging Wasm for software… | by Syrus Akbary | Wasmer | Jan, 2021 | Medium](https://medium.com/wasmer/wasmer-1-0-3f86ca18c043)
   * [wasmer-go: WebAssembly runtime for Go](https://github.com/wasmerio/wasmer-go)
   * [v86: x86 virtualization in your browser, recompiling x86 to wasm on the fly](https://github.com/copy/v86/)
+* [wasm-fizzbuzz: WebAssembly from Scratch: From FizzBuzz to DooM](https://github.com/diekmann/wasm-fizzbuzz)
+  * WebAssembly로 FizzBuzz 앱을 직접 작성해 보고 Doom을 WebAssembly로 포팅해보는 튜토리얼
 * [webassembly.sh](https://webassembly.sh/)
 
 # Websocket

@@ -39,6 +39,11 @@ Time Series
 * [AI 리뷰 MIT, 시계열 데이터 이상을 감지하는 딥러닝 기반 'TadGAN' 알고리즘 오픈 소스로 공개 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=18700)
 * [시계열 분석을 하라고?](https://brunch.co.kr/@lunarshore/405)
 * [Write a time-series database engine from scratch](https://nakabonne.dev/posts/write-tsdb-from-scratch/)
+  * [시계열DB를 밑바닥부터 만들어보기 | GeekNews](https://news.hada.io/topic?id=5093)
+* [How to Apply K-means Clustering to Time Series Data | by Alexandra Amidon | Towards Data Science](https://towardsdatascience.com/how-to-apply-k-means-clustering-to-time-series-data-28d04a8f7da3)
+* [ADsP 시계열 분석 모델을 공부했다. (AR, MA, ARIMA, ACF, PACF)](https://blog.naver.com/tjgml1343/222077619748)
+* [시계열 데이터를 시각화하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/199454)
+* [Time Series Analysis and Forecasting with Machine Learning - YouTube](https://www.youtube.com/watch?v=AvG7czmeQfs)
 
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
@@ -79,6 +84,7 @@ Time Series
 * [Khronus - A reactive time series database](https://github.com/Searchlight/khronus)
 * [M3 - The fully open source metrics platform built on M3DB, a distributed timeseries database](https://www.m3db.io/)
   * [Introducing M3 - The Time-Series Infrastructure that Powers Metrics at Uber](https://towardsdatascience.com/introducing-m3-8790c503ce24)
+* [Merlion: Merlion: A Machine Learning Framework for Time Series Intelligence](https://github.com/salesforce/merlion)
 * [MetricsDB: TimeSeries Database for storing metrics at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2019/metricsdb.html)
 * [MetricsGraphics.js](http://metricsgraphicsjs.org/)
   * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org](https://github.com/mozilla/metrics-graphics)
@@ -110,6 +116,8 @@ Time Series
 * [questdb: An open source SQL database designed to process time series data, faster](https://github.com/questdb/questdb)
   * [How databases handle 10 million devices in high-cardinality benchmarks | Time series data, faster](https://questdb.io/blog/2021/06/16/high-cardinality-time-series-data-performance/)
 * [spark-ts - Time Series for Spark (The spark-ts Package)](https://github.com/sryza/spark-timeseries)
+* [Spice.ai Docs](https://docs.spiceai.org/) 시계열 데이터에 머신러닝을 이용해서 애플리케이션에 AI를 추가할 수 있게 하는 오픈소스 런타임
+  * [Spice.ai - 개발자를 위한 Time Series AI 오픈소스 | GeekNews](https://news.hada.io/topic?id=4982)
 * [Timelion: The time series composer for Kibana](https://www.elastic.co/kr/blog/timelion-timeline)
 * [TimescaleDB](http://www.timescale.com)
   * Postgres 엔진으로 구축된 새로운 오픈 소스 시계열 데이터베이스
@@ -150,3 +158,4 @@ Time Series
 * [How to Develop LSTM Models for Time Series Forecasting](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
 * [Basic Time Series Manipulation with Pandas](https://towardsdatascience.com/basic-time-series-manipulation-with-pandas-4432afee64ea)
 * [Time Series Analysis in Python – A Comprehensive Guide with Examples](https://www.machinelearningplus.com/time-series/time-series-analysis-python/)
+* [Kats: Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.](https://github.com/facebookresearch/Kats)

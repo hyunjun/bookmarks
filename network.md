@@ -15,8 +15,6 @@ Network
 * [Raw Sockets](http://intra97.tistory.com/201)
 * [윈도우즈 소켓 통신 프로그램](http://ehclub.co.kr/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%88%A0/%EC%9C%88%EB%8F%84%EC%9A%B0%EC%A6%88%20%EC%86%8C%EC%BC%93%20%ED%86%B5%EC%8B%A0%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8)
 * [kakao의 Anycast 활용 사례 anycast, quagga, bgp, dns, devops](http://tech.kakao.com/2014/05/29/anycast/)
-* [“인터넷이 지구 반대편을 연결하는 방법” BGP의 개념과 동작 원리 - ITWorld Korea](https://www.itworld.co.kr/news/181614)
-* [BGP in a Nutshell | std::bodun::blog](https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/) Border Gateway Protocol (BGP) protocol
 * [JAVA Network Programming](https://www.youtube.com/watch?v=HyZnrPjelsg)
 * [표준 자바 소켓 프로그래밍 / 네트워크 프로그래밍](https://www.youtube.com/watch?v=_kUnut6zZE4)
 * [냅스터 부터 P2P까지, PC와 모바일의 클라이언트-서버 모델](http://www.inven.co.kr/webzine/news/?news=164068)
@@ -33,9 +31,17 @@ Network
 * [CIDR(Classless Inter-Domain Routing) 이용하여 IP 식별](https://blog.naver.com/pjt3591oo/221846446525)
 * [Ping - Destination Host Unreachable vs Request Timed Out](https://dokkodai.tistory.com/183)
 * [OSI 7계층(OSI 7 Layer)과 TCP.. : 네이버블로그](https://blog.naver.com/demonicws/40117378644)
+* [네트워크 기초(1) - OSI 7계층이란? - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/network-basic01/)
+* [네트워크 기초(2) - OSI 7계층 - 1계층: 물리 계층 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/network-basic02/)
+* [네트워크 기초(3) - OSI 7계층 - 2계층: 데이터 링크 계층 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/network-basic03/)
+* [네트워크 기초(4) - OSI 7계층 - 3계층: 네트워크 계층 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/network-basic04/)
+* [네트워크 기초(5) - OSI 7계층 - 4계층: 전송 계층 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/network-basic05/)
+* [네트워크 기초(6) - OSI 7계층 - 5,6,7계층 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/network-basic06/)
+* [1기 OSI 7계층 모델 - 김현석 · Present](https://present.do/shows/61443969e3562505806fa234)
 * [SDN - Software Defined Network](https://naleejang.tistory.com/224)
 * [SDN and OVN(Open Virtual Network)](https://naleejang.tistory.com/225)
 * [OVN Network Creating Process](https://naleejang.tistory.com/226)
+* [OVN overview](https://uni2u.tistory.com/124)
 * [HTTP 통신간의 쿠키와 세션의 동작방식](https://www.kurien.net/post/view/31)
 * [What happens when you type in a URL in an Address bar in a browser?](https://twitter.com/kamranahmedse/status/1297131414190776320/photo/1)
 * [What happens when you load a URL?](https://danluu.com/navigate-url/)
@@ -58,6 +64,16 @@ Network
 * [포트 포워딩이란? – Lamanus' Archive](https://lamanus.kr/59)
 * [**Boosting Dropbox upload speed—and making Windows’ TCP stack resilient to network reordering - Dropbox**](https://dropbox.tech/infrastructure/boosting-dropbox-upload-speed#microsofts-long-term-fix)
 * TFO [TCP Fast Open? Not so fast! | APNIC Blog](https://blog.apnic.net/2021/07/05/tcp-fast-open-not-so-fast/)
+* [Hello IPv6: a minimal tutorial for IPv4 users](https://metebalci.com/blog/hello-ipv6/)
+  * [Hello IPv6 : IPv4 사용자를 위한 최소한의 자습서 | GeekNews](https://news.hada.io/topic?id=5174)
+* [IPv4 vs. IPv6 FAQ · Tailscale](https://tailscale.com/kb/1134/ipv6-faq/)
+  * IPv6에 대한 오해 질문 정리
+    * IPv6는 1998년 첫 표준안 발표 1999년부터 주소 할당, 롤아웃 프로세스가 시작되었지만 20년이 지난 지금까지 아직 미완료
+    * 대부분의 경우 둘 간의 속도 차이 없음. 가장 큰 성능 차이는 경로 최적화에 따라 다르지만, IPv4, IPv6 중 어느 쪽을 더 효율적으로 라우팅하는지는 IS에 따라 다름
+    * IPsec이 IPv6 표준 일부로 간주하지만 자동으로 암호화하지는 않고 선택사항. 실제로 IPv4처럼 VPN 터널 외에는 거의 IPsec을 미사용
+    * IPv6는 설계 목표는 많이 달성했지만, 예상처럼 빠르게 롤아웃되지 않았고 IPv4 대체하지도 못함
+    * IPv6의 롤아웃이 느린 이유는 IPv4와 같이 배포할 때 충분한 가치를 제공하지 못했기 때문
+    * IPv6의 주목적이 IPv4의 주소 공간을 늘리는 것이었으므로 IPv4 주소 공간이 제한적인 사설망에서 많이 사용
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
@@ -69,6 +85,9 @@ Network
 # C
 * [downman.tistory.com/category/응용/TCPIP](http://downman.tistory.com/category/%EC%9D%91%EC%9A%A9/TCPIP)
 * [epoll 설명](http://blueheartscabin.blogspot.com/2013/08/c-epoll.html)
+
+# Course
+* [Computer Networking: a Top Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
 
 # DNS
 * [how DNS works](https://howdns.works/)
@@ -92,6 +111,7 @@ Network
 * [온라인 협업 도구 노션(Notion) 장애와 DNS 문제 대응 | 44BITS](https://www.44bits.io/ko/post/news--notion-outage-dns-issue)
 * [DNS 레코드를 간단히 알아보아요 : 오픈 인프라 엔지니어 그룹](https://blog.o3g.org/network/dns-record/)
 * [Improving DNS Privacy with Oblivious DoH in 1.1.1.1](https://blog.cloudflare.com/oblivious-dns/)
+* [DNS 서버란? /etc/hosts 파일이란? - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/etc-host-dns/)
 * [MaraDNS - a small open-source DNS server](https://maradns.samiam.org/)
   * [MaraDNS - 서비스 테스트에 사용할 수 있는 간단한 Windows 용 DNS 서비스 | GeekNews](https://news.hada.io/topic?id=4001)
 
@@ -109,6 +129,12 @@ Network
 * [나만 모르고 있던 – HTTP/2](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-http2/)
 * [Delivering HTTP/2 upload speed improvements](https://blog.cloudflare.com/delivering-http-2-upload-speed-improvements/)
 * [HTTP/2 소개  |  Web Fundamentals  |  Google Developers](https://developers.google.com/web/fundamentals/performance/http2?hl=ko)
+* [HTTP/2: The Sequel is Always Worse | PortSwigger Research](https://portswigger.net/research/http2)
+  * HTTP/2가 바로 도입할 수 있는 프로토콜로 많이들 생각하지만, RFC의 불완전성이나 구현 결함으로 인해서 발생하는 HTTP/2에서의 공격 위협 설명
+  * 프론트엔드 서버가 HTTP/2로 받아서 백엔드 서버로 보낼 때는 HTTP/1.1을 사용하는 경우 요청 길이를 Content-Length 헤더에서 파싱할 때 Transfer-Encoding 헤더에서 파싱할지 합의하지 않았기 때문에 발생
+    * 이를 이용해서 요청의 길이를 착각하게 만들어서 공격자가 임의의 문자열을 요청에 넣을 수 있음
+  * 프론트엔드 서버가 백엔드에 연결할 때 기존 연결을 사용할지 다시 새로 연결할지 정해야 하는데 기존 연결을 재사용할 때 터널링을 악용해서 공격에 필요한 정보를 알아내거나 캐시 중독을 일으킬 수 있음
+  * HTTP/2가 method나 path가 헤더에 있기 때문에 이를 중복해서 보내는 경우에도 허용하는 등의 HTTP/2가 가진 취약점
 * [HTTP/3 explained](https://daniel.haxx.se/http3-explained/)
 * [**HTTP/3: 과거, 현재 그리고 미래**](https://blog.cloudflare.com/ko/http3-the-past-present-and-future-ko/) 전반적인 http 내용을 잘 설명
 * [An early look at HTTP/3](https://pgjones.dev/blog/early-look-at-http3-2019/)
@@ -121,6 +147,8 @@ Network
 * [Introducing a Technology Preview of NGINX Support for QUIC and HTTP/3 - NGINX](https://www.nginx.com/blog/introducing-technology-preview-nginx-support-for-quic-http-3/)
 * [Where is HTTP/3 right now? | daniel.haxx.se](https://daniel.haxx.se/blog/2021/04/02/where-is-http-3-right-now/)
 * [Introduction - HTTP/3 explained](https://http3-explained.haxx.se/)
+* [HTTP/3 From A To Z: Core Concepts (Part 1) — Smashing Magazine](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
+  * [HTTP3, 사실 진짜로 바뀐건 TCP 였다. | Hama Develop](https://www.hamadevelop.me/http3/)
 * [http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers](https://github.com/for-GET/http-decision-diagram)
   * [HTTP/REST IS NOT BIG, NOR HEALTHY. IT'S HELL NO!](http://hyperrest.github.io/2013-06-10-http-hell-no)
 * [**서버의 상태를 알려주는 HTTP 상태 코드**](https://evan-moon.github.io/2020/03/15/about-http-status-code/)
@@ -134,6 +162,8 @@ Network
 * [7XX-rfc: An RFC for a new series of HTTP status codes covering developer fouls](https://github.com/joho/7XX-rfc)
 * [**HTTP Prompt - An interactive command-line HTTP client**](https://http-prompt.com/)
 * [HTTPWTF | HTTP Toolkit](https://httptoolkit.tech/blog/http-wtf/)
+* [네트워크 및 http 기초와 실습 | Programming Cloud-Native](https://tech.gitple.io/2021/09/07/network-http-practice/)
+* [HTTP에 대해서 알아보자(정의와 구조)](https://velog.io/@couchcoding/HTTP%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90%EC%A0%95%EC%9D%98%EC%99%80-%EA%B5%AC%EC%A1%B0)
 
 # HTTPS
 * [HTTPS로 보안 강화하기](https://blog.outsider.ne.kr/1149)
@@ -148,12 +178,14 @@ Network
 * [알아두면 쓸데없는 신비한 TLS 1.3](https://b.luavis.kr/server/tls-1.3)
 * [TLS 연결 디버깅: 인증서 오류를 찾아서](https://rein.kr/blog/archives/4525)
 * [TLS 연결 디버깅: Forward Secrecy 재확인하기](https://rein.kr/blog/archives/4529)
+* [**버즈빌의 개발 이야기- 보안 프로토콜 TLS 1.3**](https://brunch.co.kr/@mobiinside/1482) 기본적인 인증 관련 기초 내용부터 1.3의 변경내역까지 잘 정리
+* [The Illustrated TLS Connection: Every Byte Explained](https://tls.ulfheim.net/)
 * [블로그 설정 개편 (2021-05)](https://rein.kr/blog/archives/5359) Blog에 TLS 1.3 / HTTP2 / ECDSA 인증서 적용
+* [Revisiting BetterTLS: Certificate Path Building | by Netflix Technology Blog | Oct, 2021 | Netflix TechBlog](https://netflixtechblog.com/revisiting-bettertls-certificate-path-building-4c978b79843f)
 * [블로그 설정 개편: ECDSA 인증서 체인](https://rein.kr/blog/archives/5492)
 * [HTTPS - 1. 그림으로 이해하는 HTTPS](https://www.youtube.com/watch?v=NhTstvC7DYY)
 * [HTTPS - 2. HTTPS의 Ciphersuite -1. 키 교환과 인증](https://www.youtube.com/watch?v=iEig3jlT45Y)
 * [HTTPS - 3. 키 유도(Key derivation)](https://www.youtube.com/watch?v=er1eG2dfURQ)
-* [**버즈빌의 개발 이야기- 보안 프로토콜 TLS 1.3**](https://brunch.co.kr/@mobiinside/1482) 기본적인 인증 관련 기초 내용부터 1.3의 변경내역까지 잘 정리
 * [Http 보안 및 용어 정리](https://naleejang.tistory.com/216)
 * [No More Mixed Messages About HTTPS](https://blog.chromium.org/2019/10/no-more-mixed-messages-about-https.html)
 * [HTTP에서 HTTPS로 전환하기 위한 완벽 가이드](https://webactually.com/2018/11/http%EC%97%90%EC%84%9C-https%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%99%84%EB%B2%BD-%EA%B0%80%EC%9D%B4%EB%93%9C)
@@ -162,6 +194,8 @@ Network
 * [**HOW HTTPS WORKS**](https://howhttps.works/)
 * [**How HTTPS works - How HTTPS works**](https://howhttps.works/ko/)
 * [HTTPS를 쓰면 패스워드를 평문으로 보내도 될까? | yoonho's dev notes](https://yoonhogo.github.io/blog/2020-09-08/HTTPS-plain-text-safety/)
+* [http와 https가 어떤 차이가 있는지 간단하게 실습해 봅시다](https://codingdog.tistory.com/580)
+* [1기 HTTPS 와 SSL Handshake - 윤승록 · Present](https://present.do/shows/61523a4de3562505806fdbaa)
 
 ## HTTPS SSL
 * [HTTPS와 SSL 인증서 - 생활코딩](https://opentutorials.org/course/228/4894)
@@ -181,6 +215,7 @@ Network
   sudo certbot --nginx
   ```
 * [SSL 및 TLS 인증서를 관리하고 추적하는 4가지 모범 사례 - ITWorld Korea](http://www.itworld.co.kr/news/161095)
+* [Is TLS Fast Yet?](https://istlsfastyet.com/)
 * [LINE의 자체 개발 SSL 인증서 관리 시스템, VOYAGER - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/manage-ssl-certificates-with-secure-reliable-system/)
 
 # IP address
@@ -197,6 +232,7 @@ Network
 * Cicso packet tracer
   * [네트워크 장비 없이 공부하기 - Cisco Packet Tracer](https://www.youtube.com/watch?v=0f1viq6FjK4)
 * [HSTS — N26 hardcoded in your browser](https://mag.n26.com/hsts-n26-hardcoded-in-your-browser-fb2af97ed839)
+* [masscan: TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
 * [mitmproxy로 iOS 기기의 네트워크 트래픽 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1514)
 * [Moloch - Full Packet Capture Large scale, open source, indexed packet capture and search](https://molo.ch/)
 * [Nebula - a scalable overlay networking tool with a focus on performance, simplicity and security](https://github.com/slackhq/nebula)
@@ -211,6 +247,27 @@ Network
 * [TinyCheck: TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere](https://github.com/KasperskyLab/TinyCheck)
 * [unity5-networking-HLAPI-getting-started - An example implementation of HLAPI LAN server-client model.(managing connection with client)](https://github.com/ifndefdeadmau5/unity5-networking-HLAPI-getting-started)
 * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
+
+# Protocol
+* [BGP in a Nutshell | std::bodun::blog](https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/) Border Gateway Protocol (BGP)
+* [“인터넷이 지구 반대편을 연결하는 방법” BGP의 개념과 동작 원리 - ITWorld Korea](https://www.itworld.co.kr/news/181614)
+* [Facebook을 다운 시킨 이유, BGP hijacking이 무엇인가? :: 시행착오를 줄이는 방법](https://dataportal.kr/14)
+* [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
+  * 지난 10월 5일 Facebook, Instagrm, Whatsapp이 5시간 정도 접속이 안 되는 장애 발생, 이를 Cloudflare에서 분석 정리한 글
+  * 이번 장에는 서버에 접속 안 된 것뿐 아니라 DNS 룩업도 안되고 인터넷에서 페이스북이 운영하는 모든 네트워크에 연결이 아예 불가능
+  * 서버에서 오류 응답을 받는 게 아니라 페이스북이 인터넷에서 사라진 상황
+  * BGP(Border Gateway Protocol)은 인터넷의 AS(Autonomous Systems)가 라우팅 정보를 교환하는 프로토콜
+  * 페이스북의 발표에 따르면 페이스북이 백본 라우터를 조정하면서 데이터센터 백본이 끊어지면서 BGP 요청을 거부하고 DNS에서 접근이 불가능하게 되어버림.
+* [Tools to explore BGP](https://jvns.ca/blog/2021/10/05/tools-to-look-at-bgp-routes/)
+  * 페이스북 장애와 관련해서 BGP 정보를 룩업할 수 있는 도구 설명
+  * 자신의 ASN이 없으면 보통 BGP를 게시할 수 있는 권한이 없음
+  * AS(autonomous system)는 ISP, 정부, 대학, 페이스북 같은 조직에서 소유하고 있고 특정 IP 주소의 세트를 제어하며 식별 번호 소유
+  * BGP를 게시해서 BGP 라우트로 해당 IP와 서브넷에 도달하는 경로 파악 가능
+  * BGPView로 연결된 AS를 볼 수 있음 [BGPView - BGP Toolkit and BGP ASN Routing Lookup Tool](https://bgpview.io/)
+  * `traceroute`와 `mtr`의 플래그를 통해서 어떤 AS를 거쳐 가는지 볼 수 있음
+  * PCH(packet clearing house) Looking Glass로 BGP 경로를 볼 수 있음 [Looking Glass | PCH](https://www.pch.net/tools/looking_glass/)
+  * BGPlay에서는 이전 시간의 BGP도 볼 수 있으므로 페이스북의 장애 시점에서 BGP 경로가 사라진 것도 볼 수 있음 [RIPEStat BGPlay](https://stat.ripe.net/special/bgplay)
+* XMPP [Modern XMPP](https://docs.modernxmpp.org/)
 
 # TIME_WAIT
 * [What is TIME_WAIT state?](http://docs.likejazz.com/time-wait/)
@@ -246,6 +303,13 @@ Network
 * [Introduction to TCP/IP and Sockets, part 1: Introducing the protocols and API - YouTube](https://www.youtube.com/watch?v=C7CpfL1p6y0)
 * [Introduction to TCP/IP and Sockets, part 2: Example code Walk-Through - YouTube](https://www.youtube.com/watch?v=OuYPe_HcLWc)
 * [Understanding Sockets | DigitalOcean](https://www.digitalocean.com/community/tutorials/understanding-sockets)
+* [Unit testing a TCP stack](http://www.snellman.net/blog/archive/2015-07-09-unit-testing-a-tcp-stack/)
+* [10분 만에 훑어보는 TCP와 UDP - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/09/23/Overview-of-TCP-and-UDP.html)
+* [Connection Timeout과 Read Timeout 살펴보기](https://alden-kang.tistory.com/20)
+  * Connection Timeout은 종단 간 연결하는데 필요한 최대 시간 의미, 이 시간이 넘어가면 연결할 수 없다고 판단하고 오류 발생
+  * Read Timeout은 연결된 종단 간에 데이터를 주고받을 때 걸리는 최대시간, 이 시간 내에 데이터를 다 받지 못하면 오류 발생
+  * 이를 바탕으로 연결할 때 SYN, SYN+ACK, ACK가 유실되는 경우를 생각하면 3초가 Connection Timeout으로 이상적인 값
+  * Read Timeout은 패킷 유실과 요청 처리 시간을 고려해서 1초 정도로 제안
 
 # UDP
 * [Haste Framework UDP(User Datagram Protocol)를 기반으로 빠르고 쉬운 개발을 위해 만들어진 게임 서버 프레임워크](https://github.com/nhnent/haste.framework)

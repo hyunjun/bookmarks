@@ -12,6 +12,7 @@ Math
 * [장환수학 - 최적화이론](https://www.youtube.com/channel/UCxsF9TU0tELBAhQTWV-t_kA)
 * [수학의 즐거움, Enjoying Math](https://www.youtube.com/channel/UCB_AbuIVIG8I3K3_T_j0FSw)
 * [수학전공자가 추천 하는 유튜브 수학 강의 목록](https://medium.com/@matt_lee/%EC%88%98%ED%95%99%EC%A0%84%EA%B3%B5%EC%9E%90%EA%B0%80-%EC%B6%94%EC%B2%9C-%ED%95%98%EB%8A%94-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%88%98%ED%95%99-%EA%B0%95%EC%9D%98-%EB%AA%A9%EB%A1%9D-96c899728008)
+* [수학 전공자가 추천 하는 유튜브 수학 강의 목록](https://velog.io/@otter275/%EC%88%98%ED%95%99-%EC%A0%84%EA%B3%B5%EC%9E%90%EA%B0%80-%EC%B6%94%EC%B2%9C-%ED%95%98%EB%8A%94-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%88%98%ED%95%99-%EA%B0%95%EC%9D%98-%EB%AA%A9%EB%A1%9D)
 * [codebymath.com](http://www.codebymath.com/)
 * [Derivative Calculator](https://www.derivative-calculator.net/)
 * [math-as-code - a cheat-sheet for mathematical notation in code form](https://github.com/Jam3/math-as-code)
@@ -97,6 +98,7 @@ Math
 * [수학공부 카테고리 목록](https://lypicfa.tistory.com/559)
 * [혼돈 속의 질서 찾기: 그래프 램지이론 소개 – 과학의 지평](https://horizon.kias.re.kr/17100/)
 * [“브라우저에서 바로 수학 계산” MS, 엣지에 ‘매스 솔버’ 추가 예정 - ITWorld Korea](https://www.itworld.co.kr/news/194744)
+* [수학을 일상으로](https://brunch.co.kr/@graypool/113)
 
 # Bezier
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
@@ -106,6 +108,7 @@ Math
 * [공돌이의 수학정리노트](https://wikidocs.net/book/563)
 * [중학 수학 코딩의 정석](https://wikidocs.net/book/2195)
 * [A Beginner Mathematics Book For Machine Learning](https://www.techleer.com/articles/564-a-beginner-mathematics-book-for-machine-learning/)
+* [Calculus Made Easy](https://calculusmadeeasy.org/)
 * [Geogebra를 활용한 수학수업 및 수업자료제작](https://wikidocs.net/book/188)
 * [Graphical Linear Algebra](https://graphicallinearalgebra.net/)
 * [immersive linear algebra](http://immersivemath.com/ila/index.html)
@@ -136,6 +139,7 @@ Math
   * [푸리에 변환을 반응형으로 소개합니다](http://www.jezzamon.com/fourier/ko.html)
   * [fourier-playground: 푸리에 변환 실험실](https://github.com/suhdonghwi/fourier-playground)
 * [The Fourier transform is a neural network | sidsite](https://sidsite.com/posts/fourier-nets/)
+* [Fourier series visualisation with d3.js. - bl.ocks.org](https://bl.ocks.org/jinroh/7524988)
 
 # Geometry
 * [eukleides - a geometry drawing language](http://eukleides.org/)
@@ -261,6 +265,7 @@ Math
 * [A brief introduction to Markov chains - Definitions, properties and PageRank example](https://towardsdatascience.com/brief-introduction-to-markov-chains-2c8cab9c98ab)
 * [Really fast Markov chains in ~20 lines of sh, grep, cut and awk](https://0x0f0f0f.github.io/posts/2019/11/really-fast-markov-chains-in-~20-lines-of-sh-grep-cut-and-awk/)
 * [강화학습 기본기 덕질1 - Markov Decision Process](https://www.youtube.com/watch?v=slNB5SdDNFI)
+* [The Mathematics of 2048: Optimal Play with Markov Decision Processes](https://jdlm.info/articles/2018/03/18/markov-decision-process-2048.html)
 
 # Monte Carlo
 * [Introduction To Monte Carlo Methods](http://alexhwoods.com/2015/07/25/introduction-to-monte-carlo-methods/)
@@ -303,6 +308,8 @@ Math
 * [A Random Walk & Monte Carlo Simulation || Python Tutorial || Learn Python Programming](https://www.youtube.com/watch?v=BfS2H1y6tzQ)
 * [Monte Carlo Simulation with Python](https://pbpython.com/monte-carlo.html)
 * [몬테카를로 시뮬레이션(monte carlo simulation) 기초 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/statistics/mc-simulation/)
+* [How to replace estimations and guesses with a Monte Carlo simulation](https://lucasfcosta.com/2021/09/20/monte-carlo-forecasts.html)
+* [Quasi-Monte Carlo integration QMC periodic and nonperiodic](https://www.johndcook.com/blog/2021/09/02/qmc-integration/)
 * [riskquant A library to assist in quantifying risk](https://github.com/Netflix-Skunkworks/riskquant)
   * [Open-Sourcing riskquant, a library for quantifying risk](https://netflixtechblog.com/open-sourcing-riskquant-a-library-for-quantifying-risk-6720cc1e4968)
 

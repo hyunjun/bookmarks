@@ -5,9 +5,6 @@ Java
 * [Java Concept Of The Day](http://javaconceptoftheday.com/)
 * [Java Puzzle 9: Tweet](http://wouter.coekaerts.be/2015/puzzle-tweet)
 * [codingbat.com/java](http://codingbat.com/java)
-* [Online Tutorial to Learn Java - CodeGym](https://codegym.cc/) online Java programming course 80% based on practice
-* [Learn Java - Free Interactive Java Tutorial](https://www.learnjavaonline.org/)
-* [Java 입문 수업 (생활코딩) - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck)
 * [Java의 함수형 프로그래밍이 생각보다 위험하지 않은 이유](https://justhackem.wordpress.com/2014/06/19/why-functional-programming-in-java-is-not-dangerous/)
 * [Keyword extraction in Java](http://www.vikasing.com/2013/09/keyword-extraction-in-java.html)
 * [Extracting meaningful text from webpages](http://www.vikasing.com/2012/03/extracting-meaningful-text-from.html)
@@ -111,6 +108,7 @@ Java
   * [(05/30) 특집 자바 25주년 기념 이야기](https://www.youtube.com/watch?v=tJBxmVLu0xI)
 * [10 things you’re doing wrong in Java](https://towardsdatascience.com/10-things-youre-doing-wrong-in-java-7608e2f050c7)
 * [Using the Kotlin stdlib in Java code | by Victoria Gonda | victoriagonda | Medium](https://medium.com/victoriagonda/using-the-kotlin-stdlib-in-java-code-2565818ba016)
+* [Using the Kotlin standard library from Java | by Danny Preussler | Google Developers Experts | Medium](https://medium.com/google-developer-experts/using-the-kotlin-standard-library-in-java-ea0766deac10)
 * [setter 를 언제 쓰지 말아야 할 지에 대한 간단한 생각](https://codingdog.tistory.com/entry/setter-%EB%A5%BC-%EC%96%B8%EC%A0%9C-%EC%93%B0%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-%EC%A7%80%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%83%9D%EA%B0%81)
 * [maven - What is an uber jar? - Stack Overflow](https://stackoverflow.com/questions/11947037/what-is-an-uber-jar/39030649#39030649)
 * [Creating a Java off-heap in-memory database](https://blogs.oracle.com/javamagazine/creating-a-java-off-heap-in-memory-database)
@@ -131,6 +129,8 @@ Java
 * [코드라떼 자바 - Call By Value, 값에 의한 호출 - YouTube](https://www.youtube.com/watch?v=Vd1C3-wHc4Y)
 * [Java is criminally underhyped](https://jackson.sh/posts/2021-04-java-underrated/)
 * [Starting Fast: Investigating Java's Static Compilation Landscape - YouTube](https://www.youtube.com/watch?v=ry8O4HooIBI)
+* [bcrypt는 salt가 매번 달라지는데 어떻게 match 판단을 그리 잘 할까요?](https://codingdog.tistory.com/entry/bcrypt%EB%8A%94-salt%EA%B0%80-%EB%A7%A4%EB%B2%88-%EB%8B%AC%EB%9D%BC%EC%A7%80%EB%8A%94%EB%8D%B0-match%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%98-%EC%8B%9C%ED%82%AC%EA%B9%8C%EC%9A%94)
+* [Java:Applying colors of your choice to images | by Sai Pitchuka | Medium](https://saibaburvr.medium.com/java-applying-colors-of-your-choice-to-images-884dd6d7f12d)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -140,8 +140,6 @@ Java
 * [왜 자바에서 final 멤버 변수는 관례적으로 static을 붙일까?](https://djkeh.github.io/articles/Why-should-final-member-variables-be-conventionally-static-in-Java-kor/)
 * [왜 main()는 public static void인가?](https://coco-log.tistory.com/138)
 * [Miro Cupak - The Good, the Bad and the Ugly of Java API design](https://www.youtube.com/watch?v=GGahNwIkAeA)
-* [java hashCode vs identityHashcode : 이 둘은 무엇이 다를까요?](https://codingdog.tistory.com/entry/java-hashCode-vs-identityHashcode-%EC%9D%B4-%EB%91%98%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%BC%EA%B9%8C%EC%9A%94)
-* [왜 java에서는 equals 메서드를 오버라이드 하면 hashCode 도 같이 해야 할까요?](https://codingdog.tistory.com/entry/%EC%99%9C-java%EC%97%90%EC%84%9C%EB%8A%94-equals-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%93%9C-%ED%95%98%EB%A9%B4-hashCode-%EB%8F%84-%EA%B0%99%EC%9D%B4-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
 * [Implementing in-memory compression for objects in Java](https://stackoverflow.com/questions/5934495/implementing-in-memory-compression-for-objects-in-java)
 * [The Error Handling Done Right - The Startup - Medium](https://medium.com/swlh/the-error-handling-done-right-d19ffca2656f)
 * [이펙티브 자바 3판 - 열거 타입과 애너테이션](http://astrod.github.io/java/2020/07/18/%EC%9D%B4%ED%8E%99%ED%8B%B0%EB%B8%8C-%EC%9E%90%EB%B0%94-3%ED%8C%90-%EC%97%B4%EA%B1%B0-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%95%A0%EB%84%88%ED%85%8C%EC%9D%B4%EC%85%98/) Enum, EnumSet, EnumMap, Annotation
@@ -151,6 +149,7 @@ Java
 * [Annotation과 Reflection을 이용한 챗봇 컨트롤러 만들기](https://dbbymoon.tistory.com/5)
 * [1. JAVA Reflection과 Annotaion으로 필드 및 메소드에 값 주입하기](https://kim-jong-hyun.tistory.com/22)
 * [Java Reflection API: The Magical World of Java | CodersTea](https://www.coderstea.com/post/java/the-magic-of-javas-reflection-api/)
+* [Core Java Reflection Vs Spring Reflection - YouTube](https://www.youtube.com/watch?v=5SqptI9A0LU)
 * [굿 바이 자바 애플릿, Deprecate, for Removal](http://dalinaum.github.io/java/2021/03/07/good-bye-java-applet-deprecate-for-removal.html)
 * [Faster Charset Decoding | Claes Redestad’s blog](https://cl4es.github.io/2021/02/23/Faster-Charset-Decoding.html)
 * [The Escape of ArrayList.iterator()](http://psy-lob-saw.blogspot.kr/2014/12/the-escape-of-arraylistiterator.html)
@@ -158,6 +157,7 @@ Java
 * [java visual vm 으로 메모리 사용량을 간단하게 파악해 봅시다](https://codingdog.tistory.com/entry/java-visual-vm-%EC%9C%BC%EB%A1%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EC%82%AC%EC%9A%A9%EB%9F%89%EC%9D%84-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%ED%8C%8C%EC%95%85%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [java switch 문 : string에 대해서 어떻게 쓰는지 예제로 알아봅시다](https://codingdog.tistory.com/entry/java-switch-%EB%AC%B8-string%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%93%B0%EB%8A%94%EC%A7%80-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [What are Operators in Java - YouTube](https://www.youtube.com/watch?v=997xqAZT3CM)
+* ['살아 움직이는 언어' 자바에 추가된 6가지 새로운 기능 - ITWorld Korea](https://www.itworld.co.kr/news/208787)
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
@@ -177,40 +177,45 @@ Java
   * [java inner class](http://blog.woniper.net/362)
   * [Class Loaders in Java | Class loader](https://www.java4u.in/2021/05/class%20loader.html)
 * Collections
+  * Map
+    * HashMap
+      * [HashMap Examples](https://learnjavabypractice.wordpress.com/2017/11/19/hashmap-examples/)
+      * [Java: How to get all keys by a value in HashMap ? | Search by Value in Map](http://thispointer.com/java-how-to-get-keys-by-a-value-in-hashmap-search-by-value-in-map/)
+      * [java linkedhashmap: 해시맵과 비교해서 어떤 점이 오버헤드가 걸리는지 알아봅시다](https://codingdog.tistory.com/entry/java-linkedhashmap-%ED%95%B4%EC%8B%9C%EB%A7%B5%EA%B3%BC-%EB%B9%84%EA%B5%90%ED%95%B4%EC%84%9C-%EC%96%B4%EB%96%A4-%EC%A0%90%EC%9D%B4-%EC%98%A4%EB%B2%84%ED%97%A4%EB%93%9C%EA%B0%80-%EA%B1%B8%EB%A6%AC%EB%8A%94%EC%A7%80-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+      * [해시맵에 있는 tiebreakorder는 어떤 메소드일까요?](https://codingdog.tistory.com/entry/%ED%95%B4%EC%8B%9C%EB%A7%B5%EC%97%90-%EC%9E%88%EB%8A%94-tiebreakorder%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%A9%94%EC%86%8C%EB%93%9C%EC%9D%BC%EA%B9%8C%EC%9A%94)
+      * [Most Loved Interview Question: How HashMap Works in Java - CodersTea](https://www.coderstea.com/post/java/most-loved-interview-question-how-hashmap-works-in-java/)
+    * [같은 것 같지만 다른 java map get vs containskey](https://codingdog.tistory.com/entry/%EA%B0%99%EC%9D%80-%EA%B2%83-%EA%B0%99%EC%A7%80%EB%A7%8C-%EB%8B%A4%EB%A5%B8-java-map-get-vs-containskey)
+    * [왜 mutable한 객체를 java map의 키 값으로 삼으면 조심해야 할까요?](https://codingdog.tistory.com/entry/%EC%99%9C-mutable%ED%95%9C-%EA%B0%9D%EC%B2%B4%EB%A5%BC-java-map%EC%9D%98-%ED%82%A4-%EA%B0%92%EC%9C%BC%EB%A1%9C-%EC%82%BC%EC%9C%BC%EB%A9%B4-%EC%A1%B0%EC%8B%AC%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
+    * [java map find key in value : 2개의 맵을 씁시다](https://codingdog.tistory.com/entry/java-map-find-key-in-value-2%EA%B0%9C%EC%9D%98-%EB%A7%B5%EC%9D%84-%EC%94%81%EC%8B%9C%EB%8B%A4)
+    * [It is possible to "Just use maps" in Java! - Questions & Help / General Questions - ClojureVerse](https://clojureverse.org/t/it-is-possible-to-just-use-maps-in-java/7291)
+    * [7. JAVA - List<VO> <-> List<Map> 양방향 변환](https://kim-jong-hyun.tistory.com/47)
+    * [java treemap ceilingkey higherkey floorkey lowerkey 를 써 봅시다](https://codingdog.tistory.com/entry/java-treemap-ceilingkey-higherkey-floorkey-lowerkey-%EB%A5%BC-%EC%8D%A8-%EB%B4%85%EC%8B%9C%EB%8B%A4)
+    * [Java Map의 확장 인터페이스 NavigableMap 이야기 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2021/10/19/sub-interfaces-navigablemap.html)
+  * Set
+    * [java hashset은 key의 해쉬 코드가 모두 같을 때 최악 복잡도가 어떻게 될까요?](https://codingdog.tistory.com/entry/java-hashset%EC%9D%80-key%EC%9D%98-%ED%95%B4%EC%89%AC-%EC%BD%94%EB%93%9C%EA%B0%80-%EB%AA%A8%EB%91%90-%EA%B0%99%EC%9D%84-%EB%95%8C-%EC%B5%9C%EC%95%85-%EB%B3%B5%EC%9E%A1%EB%8F%84%EA%B0%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%A0%EA%B9%8C%EC%9A%94)
+    * [java hashset : 어떻게 구현이 되어 있을까요?](https://codingdog.tistory.com/entry/java-hashset-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%98%84%EC%9D%B4-%EB%90%98%EC%96%B4-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)
   * [Collections.compare(JDK, Eclipse, Guava, Apache...); by Lima, Nanivadekar and Raab](https://www.youtube.com/watch?v=hWwbPguayNA)
-  * HashMap
-    * [HashMap Examples](https://learnjavabypractice.wordpress.com/2017/11/19/hashmap-examples/)
-    * [Java: How to get all keys by a value in HashMap ? | Search by Value in Map](http://thispointer.com/java-how-to-get-keys-by-a-value-in-hashmap-search-by-value-in-map/)
-    * [java linkedhashmap: 해시맵과 비교해서 어떤 점이 오버헤드가 걸리는지 알아봅시다](https://codingdog.tistory.com/entry/java-linkedhashmap-%ED%95%B4%EC%8B%9C%EB%A7%B5%EA%B3%BC-%EB%B9%84%EA%B5%90%ED%95%B4%EC%84%9C-%EC%96%B4%EB%96%A4-%EC%A0%90%EC%9D%B4-%EC%98%A4%EB%B2%84%ED%97%A4%EB%93%9C%EA%B0%80-%EA%B1%B8%EB%A6%AC%EB%8A%94%EC%A7%80-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
-    * [해시맵에 있는 tiebreakorder는 어떤 메소드일까요?](https://codingdog.tistory.com/entry/%ED%95%B4%EC%8B%9C%EB%A7%B5%EC%97%90-%EC%9E%88%EB%8A%94-tiebreakorder%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%A9%94%EC%86%8C%EB%93%9C%EC%9D%BC%EA%B9%8C%EC%9A%94)
-    * [Most Loved Interview Question: How HashMap Works in Java - CodersTea](https://www.coderstea.com/post/java/most-loved-interview-question-how-hashmap-works-in-java/)
   * [Java Collection interview questions answered on differences between X & Y](https://www.java-success.com/java-collection-interview-questions/)
   * [일급 컬렉션 (First Class Collection)의 소개와 써야할 이유](https://jojoldu.tistory.com/412)
-  * [java hashset은 key의 해쉬 코드가 모두 같을 때 최악 복잡도가 어떻게 될까요?](https://codingdog.tistory.com/entry/java-hashset%EC%9D%80-key%EC%9D%98-%ED%95%B4%EC%89%AC-%EC%BD%94%EB%93%9C%EA%B0%80-%EB%AA%A8%EB%91%90-%EA%B0%99%EC%9D%84-%EB%95%8C-%EC%B5%9C%EC%95%85-%EB%B3%B5%EC%9E%A1%EB%8F%84%EA%B0%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%A0%EA%B9%8C%EC%9A%94)
-  * [java hashset : 어떻게 구현이 되어 있을까요?](https://codingdog.tistory.com/entry/java-hashset-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%98%84%EC%9D%B4-%EB%90%98%EC%96%B4-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)
   * [Game of Life, hash tables and hash codes](http://pzemtsov.github.io/2015/04/24/game-of-life-hash-tables-and-hash-codes.html)
   * [java의 hashtable 대신에 왜 다른 것을 권장할까요](https://codingdog.tistory.com/entry/java%EC%9D%98-hashtable-%EB%8C%80%EC%8B%A0%EC%97%90-%EC%99%9C-%EB%8B%A4%EB%A5%B8-%EA%B2%83%EC%9D%84-%EA%B6%8C%EC%9E%A5%ED%95%A0%EA%B9%8C%EC%9A%94)
   * [해시 테이블 (Hash Table) 배우기. Java 의 컬렉션 클래스 (Collection Class) 중에… | by Bryant Jimin Son | Aug, 2020 | Medium](https://medium.com/@bryantjiminson/%ED%95%B4%EC%8B%9C-%ED%85%8C%EC%9D%B4%EB%B8%94-hash-table-%EB%B0%B0%EC%9A%B0%EA%B8%B0-a9323162e13)
-  * [같은 것 같지만 다른 java map get vs containskey](https://codingdog.tistory.com/entry/%EA%B0%99%EC%9D%80-%EA%B2%83-%EA%B0%99%EC%A7%80%EB%A7%8C-%EB%8B%A4%EB%A5%B8-java-map-get-vs-containskey)
-  * [왜 mutable한 객체를 java map의 키 값으로 삼으면 조심해야 할까요?](https://codingdog.tistory.com/entry/%EC%99%9C-mutable%ED%95%9C-%EA%B0%9D%EC%B2%B4%EB%A5%BC-java-map%EC%9D%98-%ED%82%A4-%EA%B0%92%EC%9C%BC%EB%A1%9C-%EC%82%BC%EC%9C%BC%EB%A9%B4-%EC%A1%B0%EC%8B%AC%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
   * [자바 arrayList addAll 메서드 : 어디서 오버헤드가 걸리는지 간단하게 분석해 봅시다](https://codingdog.tistory.com/entry/%EC%9E%90%EB%B0%94-arrayList-addAll-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%96%B4%EB%94%94%EC%84%9C-%EC%98%A4%EB%B2%84%ED%97%A4%EB%93%9C%EA%B0%80-%EA%B1%B8%EB%A6%AC%EB%8A%94%EC%A7%80-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EB%B6%84%EC%84%9D%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
-  * [java map find key in value : 2개의 맵을 씁시다](https://codingdog.tistory.com/entry/java-map-find-key-in-value-2%EA%B0%9C%EC%9D%98-%EB%A7%B5%EC%9D%84-%EC%94%81%EC%8B%9C%EB%8B%A4)
-  * [It is possible to "Just use maps" in Java! - Questions & Help / General Questions - ClojureVerse](https://clojureverse.org/t/it-is-possible-to-just-use-maps-in-java/7291)
-  * [7. JAVA - List<VO> <-> List<Map> 양방향 변환](https://kim-jong-hyun.tistory.com/47)
   * [java computeifpresent 메소드 : 이미 있는 키의 대응 값에 새 값을 적용한다](https://codingdog.tistory.com/entry/java-computeifpresent-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%9D%B4%EB%AF%B8-%EC%9E%88%EB%8A%94-%ED%82%A4%EC%9D%98-%EB%8C%80%EC%9D%91-%EA%B0%92%EC%97%90-%EC%83%88-%EA%B0%92%EC%9D%84-%EC%A0%81%EC%9A%A9%ED%95%9C%EB%8B%A4)
   * [java ArrayDeque : 원형큐에 expand를 얹었다](https://codingdog.tistory.com/entry/java-ArrayDeque-%EC%9B%90%ED%98%95%ED%81%90%EC%97%90-expand%EB%A5%BC-%EC%96%B9%EC%97%88%EB%8B%A4)
-  * [java treemap ceilingkey higherkey floorkey lowerkey 를 써 봅시다](https://codingdog.tistory.com/entry/java-treemap-ceilingkey-higherkey-floorkey-lowerkey-%EB%A5%BC-%EC%8D%A8-%EB%B4%85%EC%8B%9C%EB%8B%A4)
   * [java collections ncopies : 리스트를 초기화 할 때 이용할 만 하다](https://codingdog.tistory.com/entry/java-collections-ncopies-%EB%A6%AC%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%B4%88%EA%B8%B0%ED%99%94-%ED%95%A0-%EB%95%8C-%EC%9D%B4%EC%9A%A9%ED%95%A0-%EB%A7%8C-%ED%95%98%EB%8B%A4)
   * [Enhancement of Java Collection Classes | Making Java easy to learn](https://javatechonline.com/enhancement-of-java-collection-classes/)
 * Comparable, Comparator
   * [Java 배열 및 ArrayList를 Comparable과 Comparator를 이용해 정렬하기](http://developer88.tistory.com/75)
   * [java compareTo 메소드 : 순서가 중요한 곳에서 잘 쓰인다](https://codingdog.tistory.com/entry/java-compareTo-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%88%9C%EC%84%9C%EA%B0%80-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B3%B3%EC%97%90%EC%84%9C-%EC%9E%98-%EC%93%B0%EC%9D%B8%EB%8B%A4)
+  * [자바 comparator comparing을 이용해서 다중 조건 정렬을 쉽게 해 봅시다.](https://codingdog.tistory.com/entry/%EC%9E%90%EB%B0%94-comparator-comparing%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EB%8B%A4%EC%A4%91-%EC%A1%B0%EA%B1%B4-%EC%A0%95%EB%A0%AC%EC%9D%84-%EC%89%BD%EA%B2%8C-%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * datetime
   * [How to get previous day using datetime](http://stackoverflow.com/questions/2493724/how-to-get-previous-day-using-datetime)
   * [Java, Android에서 날짜 표현할 때 Calendar, Date 그리고 SimpleDateFormat](https://developer88.tistory.com/16)
   * [양력에서 음력 변환 - ChineseCalendar 클래스가 맞지 않는 이유, 한국과 중국의 음력 차이](https://blog.naver.com/birdparang/221445233118)
   * [DateTimeFormatter에서 년도표시에 yyyy대신 uuuu를 사용해야하는 이유?](https://blog.voidmainvoid.net/288)
   * [datetime 비교를 어떻게 할 수 있는지 예제 문제로 알아봅시다](https://codingdog.tistory.com/entry/datetime-%EB%B9%84%EA%B5%90%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EC%A7%80-%EC%98%88%EC%A0%9C-%EB%AC%B8%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+  * [Convert Milliseconds to & from LocalDateTime in Java8 & Above | CodersTea](https://www.coderstea.com/post/java/convert-milliseconds-to-and-from-localdatetime-in-java8-above/)
 * Enum
   * [Java Enum 활용기](http://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
   * [Enum값의 사용](http://developer88.tistory.com/148)
@@ -220,6 +225,7 @@ Java
   * [Java의 Exception(예외) 처리](https://chocozero.github.io/IT/Java/2017-08-31/Exception-%EC%B2%98%EB%A6%AC/)
   * [Preventing null pointer exceptions at compile time by Michael Ernst and Werner Dietl](https://www.youtube.com/watch?v=uS-QAv400ps)
   * [java 예외 vs 에러 : 왜 이 둘을 구분 지을까요?](https://codingdog.tistory.com/entry/java-%EC%98%88%EC%99%B8-vs-%EC%97%90%EB%9F%AC-%EC%99%9C-%EC%9D%B4-%EB%91%98%EC%9D%84-%EA%B5%AC%EB%B6%84-%EC%A7%80%EC%9D%84%EA%B9%8C%EC%9A%94)
+  * [토이 프로젝트를 하면서 느꼈던 광범위한 예외의 위험성](https://codingdog.tistory.com/614)
 * File
   * Processing large files efficiently in Java
     * [part 1](https://www.java-success.com/processing-large-files-efficiently-java-part-1/)
@@ -233,6 +239,7 @@ Java
   * [Java의 Generics](https://medium.com/@joongwon/java-java%EC%9D%98-generics-604b562530b3) covariant/contravariant, 공변/반공변
   * [Java 제네릭 Generics DEEP DIVE](https://futurecreator.github.io/2018/08/12/java-generics/)
   * [Java Generics in no time "? extends" & "? super" explained with a diagram | Java-Success.com](https://www.java-success.com/java-generics-and-wildcards-extends-super-explained-with-a-diagram/)
+* javadoc [Javadoc 작성하기 - 기계인간 John Grib](https://johngrib.github.io/wiki/java-javadoc/)
 * `java.util.Properties`
   * [java.util.Properties](https://github.com/hyunjun/practice/tree/master/java/test-property)
   * [How to read values from properties file in java example](http://www.instanceofjava.com/2018/01/how-to-read-values-from-properties-file.html)
@@ -250,6 +257,7 @@ Java
     * [HikariCP Dead lock에서 벗어나기 (실전편)](http://woowabros.github.io/experience/2020/02/06/hikaricp-avoid-dead-lock-2.html)
     * [Slick/HikariCP giving "too many connections" instead of timeouts](https://stackoverrun.com/ko/q/11283055)
     * [입 개발 HikariCP 는 왜 나를 물먹이는가… | Charsyam's Blog](https://charsyam.wordpress.com/2021/01/12/%EC%9E%85-%EA%B0%9C%EB%B0%9C-hikaricp-%EB%8A%94-%EC%99%9C-%EB%82%98%EB%A5%BC-%EB%AC%BC%EB%A8%B9%EC%9D%B4%EB%8A%94%EA%B0%80/)
+    * [JDBC Connection Pooling Explained with HikariCP | CodersTea](https://www.coderstea.com/post/best-practices/jdbc-connection-pooling-explained-with-hikaricp/)
 * Math
   * [Math 클래스의 반올림, 올림, 버림 등 자주 사용하는 메소드 정리](http://developer88.tistory.com/97)
   * [java BigDecimal을 이용해서 실수를 다뤄 봅시다](https://codingdog.tistory.com/entry/java-BigDecimal%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%8B%A4%EC%88%98%EB%A5%BC-%EB%8B%A4%EB%A4%84-%EB%B4%85%EC%8B%9C%EB%8B%A4)
@@ -260,6 +268,7 @@ Java
   * [Fundamentals of UDP Socket Programming in Java](https://medium.com/javarevisited/fundamentals-of-udp-socket-programming-in-java-4a6972370592)
   * [Java 의 SSLHandshakeException 문제 해결](https://www.lesstif.com/pages/viewpage.action?pageId=29590407)
   * getHostAddress [사용자의 IP를 가져오기 (IPv4)](https://blog.naver.com/platinasnow/220332173012)
+  * ServerSocket [localhost는 IPv6와 IPv4 어떤걸로 동작할까? :: 시행착오를 줄이는 방법](https://jinssssun.tistory.com/2)
 * NIO
   * [**NIO 정리**](https://jungwoon.github.io/java/2019/01/14/NIO/) 예제와 함께 전반적으로 잘 정리
 * Object
@@ -271,6 +280,9 @@ Java
     * [java 다른 객체를 참조하는데 ==이 참인 경우가 있을까요?](https://codingdog.tistory.com/entry/java-%EB%8B%A4%EB%A5%B8-%EA%B0%9D%EC%B2%B4%EB%A5%BC-%EC%B0%B8%EC%A1%B0%ED%95%98%EB%8A%94%EB%8D%B0-%EC%9D%B4-%EC%B0%B8%EC%9D%B8-%EA%B2%BD%EC%9A%B0%EA%B0%80-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)
   * hashCode
     * [자바의 hashCode()](https://brunch.co.kr/@mystoryg/133)
+    * [java hashCode vs identityHashcode : 이 둘은 무엇이 다를까요?](https://codingdog.tistory.com/entry/java-hashCode-vs-identityHashcode-%EC%9D%B4-%EB%91%98%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%BC%EA%B9%8C%EC%9A%94)
+    * [왜 java에서는 equals 메서드를 오버라이드 하면 hashCode 도 같이 해야 할까요?](https://codingdog.tistory.com/entry/%EC%99%9C-java%EC%97%90%EC%84%9C%EB%8A%94-equals-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A5%BC-%EC%98%A4%EB%B2%84%EB%9D%BC%EC%9D%B4%EB%93%9C-%ED%95%98%EB%A9%B4-hashCode-%EB%8F%84-%EA%B0%99%EC%9D%B4-%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
+    * [JVM Anatomy Quark #26: Identity Hash Code](https://shipilev.net/jvm/anatomy-quarks/26-identity-hash-code/)
 * Random
   * [Java에서 랜덤 함수를 이용해 난수 얻기](https://developer88.tistory.com/183)
 * Serializable
@@ -298,11 +310,13 @@ Java
   * [java의 String은 이모지를 어떻게 저장할까요](https://codingdog.tistory.com/entry/java%EC%9D%98-String%EC%9D%80-%EC%9D%B4%EB%AA%A8%EC%A7%80%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A0%80%EC%9E%A5%ED%95%A0%EA%B9%8C%EC%9A%94)
   * [String, StringBuilder, and StringBuffer Do You Know the Difference?](https://medium.com/javarevisited/string-stringbuilder-and-stringbuffer-do-you-know-the-difference-6a53429dcf)
   * [java replaceAll 메서드 : 그냥 쓰면 어떤 오버헤드가 걸릴까요?](https://codingdog.tistory.com/entry/java-replaceAll-%EB%A9%94%EC%84%9C%EB%93%9C-%EA%B7%B8%EB%83%A5-%EC%93%B0%EB%A9%B4-%EC%96%B4%EB%96%A4-%EC%98%A4%EB%B2%84%ED%97%A4%EB%93%9C%EA%B0%80-%EA%B1%B8%EB%A6%B4%EA%B9%8C%EC%9A%94)
+  * [java string replace vs replaceAll 을 간단하게 비교해 봅시다.](https://codingdog.tistory.com/623)
   * [java toLowerCase toUpperCase 를 수행하면 길이가 항상 같을까요?](https://codingdog.tistory.com/entry/java-toLowerCase-toUpperCase-%EB%A5%BC-%EC%88%98%ED%96%89%ED%95%98%EB%A9%B4-%EA%B8%B8%EC%9D%B4%EA%B0%80-%ED%95%AD%EC%83%81-%EA%B0%99%EC%9D%84%EA%B9%8C%EC%9A%94)
   * [사소한 시리즈 - 문자열 분리 코드 중복 제거 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%EC%82%AC%EC%86%8C%ED%95%9C-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EB%AC%B8%EC%9E%90%EC%97%B4-%EB%B6%84%EB%A6%AC-%EC%BD%94%EB%93%9C-%EC%A4%91%EB%B3%B5-%EC%A0%9C%EA%B1%B0)
   * [사소한 시리즈 - 문자열이 여러 값 중 하나와 같은지 다른지 비교하는 코드 정리 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%EC%82%AC%EC%86%8C%ED%95%9C-%EC%8B%9C%EB%A6%AC%EC%A6%88-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%B4-%EC%97%AC%EB%9F%AC-%EA%B0%92-%EC%A4%91-%ED%95%98%EB%82%98%EC%99%80-%EA%B0%99%EC%9D%80%EC%A7%80-%EB%8B%A4%EB%A5%B8%EC%A7%80-%EB%B9%84%EA%B5%90%ED%95%98%EB%8A%94-%EC%BD%94%EB%93%9C-%EC%A0%95%EB%A6%AC)
   * [자바에서 String 다룰 때 오해와 진실 - DEV Community](https://dev.to/composite/string-2l5a)
   * [java string trim 메서드에 대해 제대로 알아봅시다](https://codingdog.tistory.com/531)
+  * [java string repeat 메서드로 쉽게 문자열을 반복해 봅시다.](https://codingdog.tistory.com/entry/java-string-repeat-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84-%EB%B0%98%EB%B3%B5%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * System
   * currentTimeMillis vs. nanoTime
     * [Measure Elapsed Time in Java](https://www.baeldung.com/java-measure-elapsed-time)
@@ -323,6 +337,7 @@ Java
   * List
     * [java UnmodifiableCollection : 무엇이 다른가요?](https://codingdog.tistory.com/entry/java-UnmodifiableCollection-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80%EC%9A%94)
     * [java collections reverse : list를 뒤집는 연산을 간단하게 알아봅시다](https://codingdog.tistory.com/entry/java-collections-reverse-list%EB%A5%BC-%EB%92%A4%EC%A7%91%EB%8A%94-%EC%97%B0%EC%82%B0%EC%9D%84-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+    * [java list removeall vs clear : 언제 쓰는지 정확하게 알아봅시다](https://codingdog.tistory.com/572)
   * regex regular expression
     * ip address
       * [Matching Numeric Ranges with a Regular Expression](http://www.regular-expressions.info/numericranges.html)
@@ -379,6 +394,7 @@ Java
 * [더북(TheBook): 가장 빨리 만나는 코어 자바 9](https://thebook.io/006985/) 2~4장만
 * [더북(TheBook): 전문가를 위한 스프링 5](https://thebook.io/006987/) 1~4장만
 * [더북(TheBook): 자바 코딩의 기술](https://thebook.io/007025/) 1~3장만
+* [다시 읽는 모던 자바 인 액션 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=52527454)
 * [Seriously Good Software](https://www.manning.com/books/seriously-good-software)
   * [exercises in style — Bitbucket](https://bitbucket.org/mfaella/exercisesinstyle/src/master/)
 * Effective Java
@@ -386,7 +402,7 @@ Java
   * [Effective Java · Present](https://present.do/decks/60c3d9b88ae5e6673633b6eb/embed)
 
 # Concurrency Parallel Thread
-* [Java Concurrency Utilities](java.util.concurrent - Java Concurrency Utilities)
+* [Java Concurrency Utilities](https://docs.oracle.com/javase/8/docs/technotes/guides/concurrency/index.html)
 * [JDK IO 2014 - Java Concurrency and Non blocking IO - Dr Heinz M. Kabutz](https://www.youtube.com/watch?v=vkjNjZiMt4w)
 * [Call a non-reentrant native shared library from multiple Java threads](http://stackoverflow.com/questions/14553996/call-a-non-reentrant-native-shared-library-from-multiple-java-threads)
 * [Lamport's bakery algorithm](https://en.m.wikipedia.org/wiki/Lamport%27s_bakery_algorithm#Code_Examples)
@@ -461,6 +477,7 @@ Java
 * [Java Lambda (5) 변수 범위](https://futurecreator.github.io/2018/08/02/java-lambda-variable-scope/)
 * [Java Lambda (6) 예외 처리](https://futurecreator.github.io/2018/08/09/java-lambda-handling-exception/)
 * [Java Lambda (7) 람다와 클로저](https://futurecreator.github.io/2018/08/09/java-lambda-and-closure/)
+* [java 람다 개념을 이해할 때 중요할 법한 function apply 메서드를 알아봅시다](https://codingdog.tistory.com/587)
 * [GOTO 2019 • Achieving Functional Programming in Java • John Napier](https://www.youtube.com/watch?v=VUH_HhAaNpc)
 * [slieb.org - Java 8 Functional Interfaces with Exceptions](http://slieb.org/blog/throwable-interfaces/)
 * [What is a stream ?| introduction to Stream in java _ Programobile](https://programobile.blogspot.com/2021/05/what-is-stream-introduction-to-stream.html)
@@ -486,6 +503,7 @@ Java
   * [IntelliJ Idea](http://tiveloper.tistory.com/category/IDE%20%26%20Apps/IntelliJ%20Idea)
 * [Intellij vs. Eclipse: Why IDEA is Better](https://dzone.com/articles/why-idea-better-eclipse)
 * [IntelliJ IDEA and Eclipse Shortcuts](https://www.catalysts.cc/wissenswertes/intellij-idea-and-eclipse-shortcuts/)
+* [IntelliJ IDEA에서 마우스를 사용하지 않아도 되는 10개 위치 | The IntelliJ IDEA Blog](https://blog.jetbrains.com/ko/idea/2021/09/10-places-you-don-t-need-to-use-the-mouse-in-intellij-idea/)
 * [파워풀 코딩 (IntelliJ , Android Studio)](http://blog.naver.com/ddo009/220889086823)
 * [IntelliJ Tips and Tricks](https://medium.com/@fedor/intellij-tips-and-tricks-3e1dce6561a)
 * [42 IntelliJ IDEA Tips and Tricks](https://youtu.be/eq3KiAH4IBI)
@@ -540,11 +558,17 @@ Java
 * [특정 포트 Process 종료하기](https://jojoldu.tistory.com/563)
 * [10분 테코톡 🍟 웨지의 인텔리제이 디버깅 - YouTube](https://www.youtube.com/watch?v=gkutTlwi70s)
 * [JetBrains Productivity Day 4부 패널토크 온/오프라인 인플루언서와 함께하는 IntelliJ IDEA와 생산성에 대한 이야기 - YouTube](https://www.youtube.com/watch?v=FCa4bTUowTY)
+* [IntelliJ & Webstorm import시 double quotes 대신에 single quotes 기본값으로 사용하기](https://jojoldu.tistory.com/589)
+* [IntelliJ & WebStorm에서 ES6(& TS) Import 문에 space 포함시키기](https://jojoldu.tistory.com/595)
+* [IntelliJ Idea tricks that I use daily — Java/Spring MS Handling | by Chandrika Deb | Tech x Talent | Jun, 2021 | Medium](https://medium.com/coderbyte/intellij-idea-tricks-that-i-use-daily-java-spring-ms-handling-40bc1239d371)
+* [Intellij에서 docker와 docker-compose 사용하는 방법 : 클리앙](https://www.clien.net/service/board/cm_app/14152483)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
 * [Material Theme UI](https://plugins.jetbrains.com/plugin/8006-material-theme-ui)
 * [IntelliJ IDEA best plugins](https://www.vojtechruzicka.com/idea-best-plugins/)
+* [intellij에서 mybatis generator 플러그인을 사용해 봅시다](https://codingdog.tistory.com/558)
+* [7 Must have IntelliJ IDEA Plugins in 2021 for Java Developers | CodersTea](https://www.coderstea.com/post/java/7-must-have-intellij-idea-plugins-in-2021-for-java-developers/)
 * [CodeMetrics 플러그인 소개: 복잡도 점수로 자극 받기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/CodeMetrics-Plugin-Intro-Complexity-Level)
 * [VimtelliJ: All the best of Vim in IntelliJ](https://www.dev-log.me/VimtelliJ:_All_the_best_of_Vim_in_IntelliJ/)
 
@@ -622,6 +646,7 @@ Java
   * [Javaone 2016 keynote](https://www.oracle.com/javaone/on-demand/index.html?bcid=5131218264001)
 * [자바9 자바 플랫폼 모듈 시스템](http://whiteship.me/?p=13980)
 * [what is the difference in Interface of Java7, Java8 and Java9?](http://technikes.com/what-is-the-difference-in-interface-of-java7-java8-and-java9/)
+* [Java 9 Interface Private Methods](https://javaconceptoftheday.com/java-9-interface-private-methods/)
 * [나만 모르고 있던 – Java 9 (Java9 빠르게 훑어 보기)](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-java9-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%B3%B4%EA%B8%B0/)
 * [JShell with Example in Java 9](https://www.linkedin.com/pulse/jshell-example-java-9-vivek-vara/)
   * [RunJShell](https://runjshell.com/)
@@ -655,6 +680,8 @@ Java
   ```
 * [OpenJDK 11, tools of the trade](https://blog.frankel.ch/openjdk-11-tools-trade/) jps, jinfo, jmap, jstack, jconsole
 * [A Year with Java 11 in Production!](https://www.infoq.com/presentations/java-11-production-story/)
+* [Java 8에서 Java 11로 전환 - Azure | Microsoft Docs](https://docs.microsoft.com/ko-kr/azure/developer/java/fundamentals/transition-from-java-8-to-java-11) jdeprscan jdeps
+* [The Things I Love and Use from Java 11 - CodersTea](https://www.coderstea.com/post/java/the-things-i-love-and-use-from-java-11/)
 
 # Java12
 * [Teeing Collector in Java 12](http://blog.codefx.org/java/teeing-collector/)
@@ -688,15 +715,40 @@ Java
 * [What We Know about Java 16 and 17 So Far](https://www.infoq.com/news/2020/11/java16-so-far/)
 * [A categorized list of all Java and JVM features since JDK 8 to 16 - Advanced Web Machinery](https://advancedweb.hu/a-categorized-list-of-all-java-and-jvm-features-since-jdk-8-to-16/)
 * [Java 16 Record to Reduce Boilerplate Code of POJO | CodersTea](https://www.coderstea.com/post/java/java-16-record-to-reduce-boilerplate-code-of-pojo/)
+* [What's New in Java 16 - YouTube](https://www.youtube.com/watch?v=OIi6gbc7BaE)
+  * [What's New in Java 16](https://www.infoq.com/articles/java-16-new-features/)
+* [자바 9 - 16 주요 특징 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/java-9-16-features)
 
 # Java17
 * [자바 17이 다가오면... - DEV Community](https://dev.to/composite/17-62e)
 * [Internal JDK Elements Strongly Encapsulated in JDK 17](https://www.infoq.com/news/2021/06/internals-encapsulated-jdk17/)
+* [Java News Roundup: JDK 17, JDK 18, Open Liberty, Payara, Quarkus and Spring](https://www.infoq.com/news/2021/07/java-news-roundup-jul05-2021/)
+* [Java 17: These 5 New Features Makes Java 17 Special | CodersTea](https://www.coderstea.com/post/java/java-17-these-5-new-features-makes-java-17-special/)
+* [Java 17, the Next Long-Term Support Release, is Now Available](https://www.infoq.com/news/2021/09/java17-released/)
+* [Java 17 / JDK 17 : General Availability | GeekNews](https://news.hada.io/topic?id=5018)
+* [Why and How to Upgrade to Java 16 or 17](https://www.infoq.com/articles/why-how-upgrade-java17/)
+* [OptaPlanner - How much faster is Java 17?](https://www.optaplanner.org/blog/2021/09/15/HowMuchFasterIsJava17.html)
+  * OpenJDK 기준 11에서 17로 올렸을 때 16에서 17로 올렸을 때 비교
+  * G1GC 기준 17이 11보다 약 8.66% 빠르고 16보다는 2.41% 빠름
+  * ParallelGC 기준 17이 11보다 약 6.54% 빠르고 16보다는 0.37% 빠름
+  * 17에서 ParallelGC는 G1GC보다 16.39% 빠름
+* [JDK 17 G1/Parallel GC changes](https://tschatzl.github.io/2021/09/16/jdk17-g1-parallel-gc-changes.html)
+* [Springboot Java17 with jlink. 안녕하세요. Kevin 입니다. | by Kevin Park | Sep, 2021 | Medium](https://kevin-park.medium.com/springboot-java17-with-jlink-ec0242910c36)
+* [Revisiting Java in 2021 - I](https://www.avanwyk.com/revisiting-java-in-2021-i/)
+* [Revisiting Java in 2021 - II](https://www.avanwyk.com/revisiting-java-in-2021-ii/)
+* [Shenandoah in OpenJDK 17: Sub-millisecond GC pauses | Red Hat Developer](https://developers.redhat.com/articles/2021/09/16/shenandoah-openjdk-17-sub-millisecond-gc-pauses)
+  * [Shenandoah in OpenJDK 17 : 밀리초 미만의 GC Pause 구현 | GeekNews](https://news.hada.io/topic?id=5037)
+
+# Java18
+* [레코드 및 배열 패턴 外··· 구체화되는 ‘자바 18’ 미리보기 - CIO Korea](https://www.ciokorea.com/news/205454)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
 * [**여러 개의 JDK를 설치하고 선택해서 사용하기**](https://blog.benelog.net/installing-jdk.html) APT/YUM, update-alternatives / alternatives, Homebrew, Chocolatey, direnv, jEnv, SDKMAN, jabba
 * [JDK Mission Control 8 Released](https://www.infoq.com/news/2021/04/jdk-mission-control-8-released/)
+* [JDKMon: A little tool written in JavaFX that monitors your installed JDK's and inform you about updates](https://github.com/HanSolo/JDKMon)
+  * [Introducing JDKMon: a New Tool to Detect and Update JDKs](https://www.infoq.com/news/2021/08/jdkmon-java/)
+  * [윈도우 지원이 약한 SDKMan!을 대신할 JDKMon](https://jhrogue.blogspot.com/2021/10/b-sdkman-jdkmon.html)
 * [SDKMAN! the Software Development Kit Manager](https://sdkman.io/)
   * [윈도우에 여러 자바 설치하기](http://dalinaum.github.io/java/2021/03/07/multiple-jdks-2.html)
 
@@ -717,16 +769,21 @@ Java
 * [EP.07 OpenJDK 적용하고 벌써 1년, 뭐가 달라졌을까?](https://www.youtube.com/watch?v=BzJifsLXcNA)
 * [java - Difference between OpenJDK and Adoptium/AdoptOpenJDK - Stack Overflow](https://stackoverflow.com/questions/52431764/difference-between-openjdk-and-adoptium-adoptopenjdk)
 * [Everything you need to know about OpenJDK’s move to Git and GitHub](https://blogs.oracle.com/javamagazine/openjdk-mercurial-git-github)
-* [AdoptOpenJDK](https://adoptopenjdk.net/)
+* [Which Version of JDK Should I Use? | whichjdk.com](http://whichjdk.com/)
+  * [어떤 버전의 JDK를 써야 할까? | GeekNews](https://news.hada.io/topic?id=5183)
+* [Adoptium - Open source, prebuilt OpenJDK binaries](https://adoptium.net/)
+  * [AdoptOpenJDK](https://adoptopenjdk.net/)
   * [자바11 드디어 AdoptOpenJDK에 (2018-10-05) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=zqnN27A8BNw)
   * [AdoptOpenJDK - HomeBrew TAP](https://github.com/AdoptOpenJDK/homebrew-openjdk)
   * [homebrew로 opendjk 설치하기](https://findstar.pe.kr/2019/01/20/install-openjdk-by-homebrew/)
+  * [이클립스 재단, ‘테무린 자바 SE 바이너리’ 출시 - CIO Korea](https://www.ciokorea.com/news/203519)
 * [Amazon Corretto - No-cost, multiplatform, production-ready distribution of OpenJDK](https://aws.amazon.com/corretto/)
   * [Amazon Corretto, 장기 지원 멀티 플랫폼 OpenJDK 무료 배포판 사용하기](https://aws.amazon.com/ko/blogs/korea/amazon-corretto-multi-platfom-openjdk-distribution)
   * [R을 위해서 JAVA를 설치해보자](https://mrchypark.github.io/post/correttor-r을-위해서-java를-설치해보자/)
   * [Heapothesys - an Open-Source GC Latency Benchmark by Amazon Corretto](https://www.infoq.com/news/2020/09/introducing-heapothesys/)
 * [AZUL ZULU JDK 문제점(심각한 버그)](https://gampol.tistory.com/entry/Azul-Zulu-JDK-문제점심각한-버그)
 * [jdk.java.net](https://jdk.java.net) OpenJDK 설치 binary
+* LIBERICA JDK [OpenJDK Overview | BellSoft Java](https://bell-sw.com/pages/libericajdk/)
 * [Microsoft Build of OpenJDK](https://www.microsoft.com/openjdk)
   * [Announcing Preview of Microsoft Build of OpenJDK | Java at Microsoft](https://devblogs.microsoft.com/java/announcing-preview-of-microsoft-build-of-openjdk/)
   * [MS, 자체 오픈 JDK 프리뷰 릴리즈 공개 - CIO Korea](https://www.ciokorea.com/news/189343)
@@ -791,12 +848,16 @@ Java
 * [Demystifying Java Virtual Machine Memory Management | foojay](https://foojay.io/today/demystifying-jvm-memory-management/)
 * [JVM Ecosystem Report 2021 | Snyk](https://snyk.io/jvm-ecosystem-report-2021/)
   * [JVM 에코시스템 보고서 2021 | GeekNews](https://news.hada.io/topic?id=4579)
+* [Journey to the Centre of the JVM — Daniel Spiewak - YouTube](https://www.youtube.com/watch?v=EFkpmFt61Jo)
 * [capsule - Package and Deploy JVM Applications](http://www.capsule.io/)
   * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [Micrometer provides a simple facade over the instrumentation clients for the most popular monitoring systems, allowing you to instrument your JVM-based application code without vendor lock-in. Think SLF4J, but for metrics](https://micrometer.io/)
   * [Full Stack Monitoring of JVM Applications, Using Micrometer](https://www.infoq.com/news/2019/10/monitoring-micrometer)
 * [**Open sourcing oomd, a new approach to handling OOMs**](https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/)
   * Facebook 인프라 확장에 따라 발생한 여러 부작용 중 메모리 부족(OOM)을 개선하기 위해 전통적인 리눅스 OOM killer 보다 빨리 응답하고 신뢰할 수 있는 솔루션으로 oomd를 개발, 적용,오픈 소스 공개
+* [JVM Architecture란? :: 당근케잌](https://yeon-kr.tistory.com/112)
+* [Java Memory Model(자바 메모리 모델) :: 당근케잌](https://yeon-kr.tistory.com/114)
+* [스택과 힙 메모리, 그리고 멀티 스레드 :: 시행착오를 줄이는 방법](https://jinssssun.tistory.com/3) Kotlin
 * [**Project Loom: Fibers and Continuations for the Java Virtual Machine**](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)
   * [**Project Loom: Fiber와 Continuation**](http://guruma.github.io/posts/2018-09-27-Project-Loom-Fiber-And-Continuation/)
   * [Project Loom: Helping Write Concurrent Applications on the Java Platform by Ron Pressler](https://www.youtube.com/watch?v=lIq-x_iI-kc)
@@ -832,6 +893,7 @@ Java
 * [**Java HotSpot VM G1GC**](https://johngrib.github.io/wiki/java-g1gc/)
 * [Java 의 GC는 어떻게 동작하나?](https://mirinae312.github.io/develop/2018/06/04/jvm_gc.html)
 * [G1 GC 적용과 JVM Upgrade](https://brunch.co.kr/@alden/45)
+* [영상 : G1 GC 써볼까? :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/try-g1-gc)
 * [java: 도달 가능한 객체가 무엇일까요](https://codingdog.tistory.com/entry/java-%EB%8F%84%EB%8B%AC-%EA%B0%80%EB%8A%A5%ED%95%9C-%EA%B0%9D%EC%B2%B4%EA%B0%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C%EC%9A%94)
 * [메모리릭: gc가 쓰레기는 잘 수거하는데 무슨 문제라도 있나요](https://codingdog.tistory.com/entry/%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A6%AD-gc%EA%B0%80-%EC%93%B0%EB%A0%88%EA%B8%B0%EB%8A%94-%EC%9E%98-%EC%88%98%EA%B1%B0%ED%95%98%EB%8A%94%EB%8D%B0-%EB%AC%B4%EC%8A%A8-%EB%AC%B8%EC%A0%9C%EB%9D%BC%EB%8F%84-%EC%9E%88%EB%82%98%EC%9A%94)
 * [Why we chose Java for our High-Frequency Trading application | by Jad Sarmo | Oct, 2020 | Medium](https://medium.com/@jadsarmo/why-we-chose-java-for-our-high-frequency-trading-application-600f7c04da94) JIT
@@ -840,6 +902,9 @@ Java
 * [Understanding the JDK’s New Superfast Garbage Collectors](https://blogs.oracle.com/javamagazine/understanding-the-jdks-new-superfast-garbage-collectors)
 * [Java garbage collection interview questions & answers](https://www.java-success.com/java-garbage-collection-interview-questions-and-answers/)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
+* [gctoolkit: Tool for parsing GC logs](https://github.com/microsoft/gctoolkit)
+  * [Microsoft Open-Sources GCToolkit to Tap into JVM GC Logs](https://www.infoq.com/news/2021/09/msft-opensourced-gctoolkit/)
+  * [마이크로소프트, 자바 GC툴킷 오픈소스로 공개…JVM 메모리 상태 고급 분석 가능 - ITWorld Korea](https://www.itworld.co.kr/news/207139)
 
 ## JVM Flag, Option
 * `--add-exports java.base/sun.nio.cs=ALL-UNNAMED` [java option --add-exports deprecated된 pakcage를 사용하는 방법](https://medium.com/@strncpy/java-option-add-exports-1f63c81a54a4)
@@ -877,6 +942,7 @@ Java
 * [자바 성능 튜닝 이야기](https://garden715.github.io/Java_Tuning3/)
 * [자바개발 및 운영툴](https://javaengine.tistory.com/entry/자바개발-및-운영툴)
 * [Guide to Java Profilers](https://medium.com/platform-engineer/guide-to-java-profilers-e344ce0339e0)
+* [스택트레이스 샘플링을 이용한 성능 분석 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2021-10-18/) 제품 광고지만 글 흐름 자체는 좋음
 * jconsole
 * jprobe
 * jProfiler
@@ -921,6 +987,8 @@ Java
 * [CrococryptLib for Java and Android: The easiest way to integrate encryption into your application](http://www.frankhissen.de/crococryptlib-home-en-frank-hissen-it-software.html)
 * [DEC PDP-8 emulator](http://www.timgorton.com/pdp8/)
 * [Eclipse Collections](https://www.eclipse.org/collections/)
+  * [The missing Java data structures no one ever told you about — Part 1 | by Donald Raab | Javarevisited | Aug, 2021 | Medium](https://medium.com/javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-1-f45b6d0ee969)
+  * [The missing Java data structures no one ever told you about — Part 2 | by Donald Raab | Javarevisited | Aug, 2021 | Medium](https://medium.com/javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-2-f484a588cce3)
 * [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)
 * [excel-download: Rapid development possible and Simple Excel Download Library For JAVA 8+](https://github.com/lannstark/excel-download)
   * [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기) - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/10/08/excel-download.html)
@@ -958,7 +1026,11 @@ Java
   * [The Problem with Gradle](https://www.bruceeckel.com/2021/01/02/the-problem-with-gradle/)
   * [message.properties → \*.json 변환하여 프론트 프로젝트에 넣기. (gradle) :: 삶의여행](https://life-journey.tistory.com/42)
   * [🐘스프링 부트 Gradle 사용하기 - YouTube](https://www.youtube.com/watch?v=YFoTFJQ3pZo)
+  * [빌드 시스템, Gradle을 사용해 보자 : 네이버 블로그](https://blog.naver.com/ndskr/222459031744)
+  * [Gradle Dependency Configuration](https://effectivesquid.tistory.com/entry/Gradle-Dependency-Configuration)
+  * [Gradle Wrapper | 개발자 황준일](https://junilhwang.github.io/TIL/Gradle/GradleWrapper/)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
+* [Helidon Project](https://helidon.io/) GraalVM native image support
 * [hwplib: hwp library for java](https://github.com/neolord0/hwplib)
 * [Immutables 2.0 - We use immutable objects all the time. We created Java annotation processors to generate simple, safe and consistent value objects. Do not repeat yourself, try Immutables, the most full-featured and mature tool in this field!](http://immutables.github.io/)
 * [infer - Open-sourcing Facebook Infer: Identify bugs before you ship](https://code.facebook.com/posts/1648953042007882/open-sourcing-facebook-infer-identify-bugs-before-you-ship/)
@@ -974,7 +1046,9 @@ Java
 * [jamm - Java Agent for Memory Measurements](https://github.com/hyunjun/jamm)
 * [javacpp - The missing bridge between Java and native C++](https://code.google.com/p/javacpp/)
 * [java-dirty - A fast append-only data store](http://probablyfine.co.uk/2015/04/11/announcing-java-dirty/)
-* javalin [Introducing Javalin: a Lightweight Web Framework for Java and Kotlin](https://www.infoq.com/news/2019/07/javalin/)
+* javalin
+  * [Introducing Javalin: a Lightweight Web Framework for Java and Kotlin](https://www.infoq.com/news/2019/07/javalin/)
+  * [Javalin - Java와 Kotlin용 경량 웹 프레임워크 | GeekNews](https://news.hada.io/topic?id=5032)
 * [java-linq-examples - 101 C# LINQ Samples in Java](https://github.com/mythz/java-linq-examples)
 * [Java Native Access (JNA)](https://jna.java.net/javadoc/overview-summary.html)
   * [java-native-access jna](https://github.com/java-native-access/jna)
@@ -1035,6 +1109,8 @@ Java
   * [How a Jenkins Job Broke our Jenkins UI - Slack Engineering](https://slack.engineering/how-a-jenkins-job-broke-our-jenkins-ui/)
   * [iOS 플랫폼의 Jenkins CI 환경 구축하기 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/5706/)
   * [Devops 2021: The best Jenkins Plugins to have in 2021 | by DevopsCurry | DevopsCurry | Medium](https://medium.com/devopscurry/devops-2021-the-best-jenkins-plugins-to-have-in-2021-b015189a19b5)
+  * [코딩스타트 :: Jenkins - Jenkins dood(docker out of docker)로 실행시켜 agent docker 사용하기](https://coding-start.tistory.com/329)
+  * [Webhook을 이용하여 CI CD 구성하기 - 시리즈를 시작하며](https://wonit.tistory.com/581)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
   * [practice - install java11 using jenv](https://gist.github.com/hyunjun/88ad5a8172acf4801c903980ecba074e)
   * [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
@@ -1047,7 +1123,11 @@ Java
   * [jmeter를 사용한 가변길이 TCP Binary 패킷 처리 방법](https://newtype.pe.kr/463)
   * [JMeter을 이용해서 웹서버 성능 테스트하기 - YouTube](https://www.youtube.com/watch?v=1AyxqIePusA)
   * [테스트 명장, Apache JMeter](https://jybaek.tistory.com/889)
+  * [JMeter, 부하 테스트!. 안녕하세요, 유니크굿컴퍼니에서 이번 7월에 신입으로 입사한 강현우라고… | by Jason Kang | Uniquegood | Sep, 2021 | Medium](https://medium.com/uniquegood/%EC%86%8C%EA%B0%9C-dc78312c51d3)
+* jobrunr [Distributed Java Background Job Scheduler · JobRunr](https://www.jobrunr.io/en/)
 * [jOOλ - The Missing Parts in Java 8 jOOλ improves the JDK libraries in areas where the Expert Group's focus was elsewhere](https://github.com/jOOQ/jOOL)
+* [JReleaser](https://jreleaser.org/) publish binaries to Homebrew, Scoop, Snapcraft, Chocolatey, among others
+  * [Quick and Seamless Release Management for Java Projects with JReleaser](https://www.infoq.com/articles/java-release-management-with-jreleaser/)
 * [jsoup: Java HTML Parser](https://jsoup.org/)
   * [HtmlUnit close all windows memory leak](https://stackoverrun.com/ko/q/7258293)
   * [Out Of Memory Error](https://github.com/jhy/jsoup/issues/339)
@@ -1117,6 +1197,7 @@ Java
     * [8부 Adapt](https://www.youtube.com/watch?v=AXwZgh3cAh0)
     * [9부 기타 등등](https://www.youtube.com/watch?v=cKzwa9kl2Ts)
     * [10부. 블록킹을 리액티브로 또는 반대로](https://www.youtube.com/watch?v=Bh8vTfO_4CE)
+* [RefactorFirst - This tool for Java codebases will help you identify the God Classes you should refactor first](https://github.com/jimbethancourt/RefactorFirst/blob/main/README.md)
 * [Rspec - Testing Logstash Configs With Rspec](http://johan.org.uk/sysadmin/blog/2013/01/25/testing-logstash-configs-with-rspec/)
 * [SaltluxLiveStock - 솔트룩스 주식을 실시간으로 라이언이 알려줍니다](https://github.com/MrBananaHuman/SaltluxLiveStock)
 * [servicetalk: A networking framework that evolves with your application](https://github.com/apple/servicetalk)
@@ -1204,6 +1285,7 @@ Java
 * [더티 체킹 (Dirty Checking)이란?](https://jojoldu.tistory.com/415)
 * [응? 이게 왜 롤백되는거지?](http://woowabros.github.io/experience/2019/01/29/exception-in-transaction.html) isGlobalRollbackOnParticipationFailure
 * [정확히 트랜잭션이 롤백 되었을 때 장바구니를 복원하기 -TransactionSynchronization afterCompletion (Rollback hook)](https://tjdrnr05571.tistory.com/9)
+* [TransactionSynchronizationManager를 이용하여 DataSource 라우팅시 주의할 점](https://effectivesquid.tistory.com/entry/TransactionSynchronizationManager%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-DataSource-%EB%9D%BC%EC%9A%B0%ED%8C%85%EC%8B%9C-%EC%A3%BC%EC%9D%98%ED%95%A0-%EC%A0%90)
 * [데이터 베이스의 자동증가 값을 기본키로 사용할 수 없을때는?](데이터 베이스의 자동증가 값을 기본키로 사용할 수 없을때는?) IdentifierGenerator interface
 * [스프링에서 자바빈 로딩방법(Pre-Loading, Lazy-Loading)](http://www.slideshare.net/topcredu/preloading-lazyloading)
 * [(스프링초보자를위한)스프링 컨텍스트 설정과 관련된 어노테이션](http://www.slideshare.net/topcredu/ss-66420006)
@@ -1217,6 +1299,7 @@ Java
 * [스프링에 Gentelella Admin 붙이기 with Apache Tiles](http://sueng.tistory.com/2)
 * [Spring Security, MongoDB 연동 Login](http://scw0531.blog.me/221040449590)
 * [WebSocket을 활용한 채팅 서비스 구현](http://scw0531.blog.me/221052774287)
+* [boost-spring-websocket](https://github.com/painkill2r/boost-spring-websocket)
 * [릴리즈 임박! 스프링 5 리액티브 프로그래밍 소개](http://tmondev.blog.me/221096039961)
 * [3월 우아한 Tech 세미나 후기](http://woowabros.github.io/experience/2019/03/18/tech-toby-reactive.html) 스프링 리액티브
 * [How to work SPRING @RestController (Jackson)](https://wckhg89.github.io/archivers/understanding_jackson)
@@ -1338,6 +1421,7 @@ Java
 * [20. Spring - AccessDeniedHandler VS AuthenticationEntryPoint](https://kim-jong-hyun.tistory.com/36)
 * [29. Spring - Security에서 사용자의 권한을 동적으로 처리하기](https://kim-jong-hyun.tistory.com/53)
 * [JWT Token를 spring security에서 손쉽게 검증하기 위한 방법](https://life-journey.tistory.com/15)
+* [spring security filter exception 을 custom 하게 처리해 봅시다](https://codingdog.tistory.com/619)
 * [Apache Camel + Spring Boot REST API | Example | Java Techie - YouTube](https://www.youtube.com/watch?v=wFpAw0bpzns)
 * [REST with Spring Tutorial | Baeldung](https://www.baeldung.com/rest-with-spring-series)
 * [beantimer: A tools to measure Spring bean initialization time](https://github.com/vikreinok/beantimer)
@@ -1357,6 +1441,7 @@ Java
 * [Spring Core - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/display/SLS/Spring+Core)
 * [테크톡 스프링 데이터 들여다보기 - YouTube](https://www.youtube.com/watch?v=N6tc44b-ATk)
 * [Spring 레플리케이션 트랜잭션 처리 방식 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-transaction/)
+* [Sql을 통해서 테스트 코드를 쉽게 작성하자 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/sql-test/)
 * jasypt [28. Spring - jasypt로 application.properties(yml) 데이터 암/복호화](https://kim-jong-hyun.tistory.com/50)
 * [Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler](https://github.com/spring-projects-experimental/spring-native)
   * [Announcing Spring Native Beta!](https://spring.io/blog/2021/03/11/announcing-spring-native-beta)
@@ -1422,9 +1507,11 @@ Java
 * [Spring Boot & OAuth2 기반 소셜 댓글 시스템 개발하기](http://haviyj.tistory.com/38)
 * [aop를 이용한 oauth2 캐시 적용하기](http://woowabros.github.io/experience/2019/03/05/aop-oauth2-redis.html)
 * [SpringBoot기반 Redis Cache 활용법](https://medium.com/@yongkyu.jang/%EC%9A%B0%EB%A6%AC%EA%B0%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EA%B0%9C%EB%B0%9C%ED%95%A0-%EB%95%8C-%EB%B0%B1%EC%95%A4%EB%93%9C-%EC%98%81%EC%97%AD%EC%97%90%EC%84%9C-cache%EB%A5%BC-%EC%A0%81%EA%B7%B9%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B2%8C-%EB%90%98%EB%A9%B4-%EC%83%9D%EA%B0%81%ED%96%88%EB%8D%98%EA%B2%83-%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EB%93%9C%EB%9D%BC%EB%A7%88%ED%8B%B1%ED%95%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EA%B0%9C%EC%84%A0%EC%9D%84-%EA%B0%80%EC%A0%B8%EC%98%AC-%EC%88%98-%EC%9E%88%EB%8B%A4-%EA%B3%A0-%EC%83%9D%EA%B0%81%ED%95%9C%EB%8B%A4-98ab99adfd69)
+* [How to implement Redis Cache in Spring Boot Application? | Making Java easy to learn](https://javatechonline.com/how-to-implement-redis-cache-in-spring-boot-application)
 * [SpringBoot Data Redis 로컬/통합 테스트 환경 구축하기](http://jojoldu.tistory.com/297)
 * [코딩스타트 :: Spring boot - Redis를 이용한 HttpSession](https://coding-start.tistory.com/143)
 * [Redis 연결하기 #스프링부트 - YouTube](https://www.youtube.com/watch?v=kUNc2Fm4BKg)
+* [Spring Boot Redis CRUD Example | Making Java easy to learn](http://javatechonline.com/spring-boot-redis-crud-example)
 * [로그인 검증 로직에 AOP를 적용해서 중복을 제거해보자](https://seohoon-dev.tistory.com/3)
 * [스프링부트 다중 데이터소스(톰캣 DBCP) 설정](http://javacan.tistory.com/entry/springboot-multi-datasource)
 * [프로젝트 생성 및 기본개념](http://scw0531.blog.me/221066404723)
@@ -1461,6 +1548,7 @@ Java
 * [스프링 부트에서 EnvironmentPostProcessor로 기본 프로필 설정하기](http://javacan.tistory.com/entry/activate-some-profile-when-no-active-profiles-in-boot)
 * [Spring Boot Data Jpa 프로젝트에 Querydsl 적용하기](https://jojoldu.tistory.com/372)
 * [SpringBoot + JPA + H2 Database - YouTube](https://www.youtube.com/watch?v=WZDth-5KP5M)
+* [Dynamic Multi Database Application with Spring Boot | by Hiep Dinh | InnomizeTech | Medium](https://medium.com/innomizetech/dynamic-multi-database-application-with-spring-boot-7c61a743e914)
 * [QA JpaRepository를 상속하지 않은 이유 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/QA-why-not-use-JpaRepository)
 * [Querydsl 서브쿼리 사용하기](https://jojoldu.tistory.com/379)
 * [Querydsl 다이나믹 쿼리 사용하기](https://jojoldu.tistory.com/394)
@@ -1517,6 +1605,7 @@ Java
 * [스프링 부트 Gradle 사용하기 - YouTube](https://www.youtube.com/watch?v=xy2hINiTosM)
 * [스프링부트 무료 호스팅 사용하기 - YouTube](https://www.youtube.com/watch?v=lWUIicugz6c)
 * [리액티브 스프링5 따라하기 - YouTube](https://www.youtube.com/watch?v=d3_qXOdxl1E)
+* [스프링 5를 활용한 리액티브 프로그래밍 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=47349955)
 * [딱 10분만에 RESTful 서비스 개발하기 (feat. SpringBoot) - YouTube](https://www.youtube.com/watch?v=4pDrRvhUjiQ)
 * [스프링 부트 로그 레벨 조정하기 - YouTube](https://www.youtube.com/watch?v=z1rU8ZVjtrE)
 * [스프링 부트 개발할 때 자동 재시작 설정 방법 - YouTube](https://www.youtube.com/watch?v=twIzKIp04Gk)
@@ -1542,12 +1631,16 @@ Java
 * [Source Code Examples](https://www.sourcecodeexamples.net/p/free-spring-boot-projects.html)
 * [30. Spring - Spring Boot Configuration Properties 클래스 만들기](https://kim-jong-hyun.tistory.com/56)
 * [32. Spring - Spring Boot 애플리케이션 war 배포 및 Tomcat Probe Manager 설정](https://kim-jong-hyun.tistory.com/58)
+* [39. Spring Boot에서 제공해주는 기능들로 개발할 때 좋은점](https://kim-jong-hyun.tistory.com/92)
 * [2월 우아한테크세미나 우아한 스프링 부트 - YouTube](https://www.youtube.com/watch?v=z0EaPjF3pCQ) [pdf](pdfs/wooahan_spring_boot.pdf)
 * [Integration Tests with Spring Boot and @SpringBootTest](https://reflectoring.io/spring-boot-test/)
 * [Spring Boot Custom Filters | Filter Registration Bean | Swagger Integration with Filters | WebFilter - YouTube](https://www.youtube.com/watch?v=Bcne87cnzHg)
 * [Connect Spring Boot REST API with Firebase | Cloud Firestore | Google Firebase | RESTFUL CURD API - YouTube](https://www.youtube.com/watch?v=auFJziKIVnM)
 * [Spring Boot Admin Server | Managing & Monitoring Microservices by using Spring Boot Admin Server - YouTube](https://www.youtube.com/watch?v=B2Gf9GRGKn4)
+* [Build Reactive Java Microservices with Spring Boot and JHipster - YouTube](https://www.youtube.com/watch?v=OKjgooXQEj4)
 * [2.4 부터 변경된 구성파일 처리방식 살펴보기 - I'm honeymon(JiHeon Kim)](https://honeymon.io/tech/2021/01/16/spring-boot-config-data-migration.html)
+* [Spring Boot 2.2.0 : Quicker startup times with Lazy Initialization | by Sai Pitchuka | Medium](https://saibaburvr.medium.com/spring-boot-2-2-0-quicker-startup-times-with-lazy-initialization-2db2eb258dea)
+* [스프링 배치 완벽 가이드 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=65765957)
 * [spring-batch-querydsl: 스프링배치와 QuerydslPagingItemReader](https://github.com/jojoldu/spring-batch-querydsl)
 * [testing-spring-boot-applications-masterclass: 🍃 Everything You Need to Know About Testing Spring Boot Applications](https://github.com/rieckpil/testing-spring-boot-applications-masterclass)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
@@ -1566,6 +1659,7 @@ Java
 * [자바 뉴스 2020/11/13](https://www.whiteship.me/java-news-2020-11-13/)
 * [Java Annotated Monthly – October 2020 – IntelliJ IDEA Blog | JetBrains](https://blog.jetbrains.com/idea/2020/10/java-annotated-monthly-october-2020/)
 * [Java Annotated Monthly – November 2020 – IntelliJ IDEA Blog | JetBrains](https://blog.jetbrains.com/idea/2020/11/java-annotated-monthly-november-2020/)
+* [Java News Roundup: Jakarta EE 10 Core Profile, OpenJDK, Open Liberty, Payara, Groovy and Quarkus](https://www.infoq.com/news/2021/09/java-news-roundup-sep06-2021/)
 
 # Performance Tuning
 * [Tuning Java Servers](http://www.infoq.com/articles/Tuning-Java-Servers)
@@ -1598,6 +1692,7 @@ Java
 
 # Serialization
 * [The Java Deserialization Bug](http://fishbowl.pastiche.org/2015/11/09/java_serialization_bug/)
+* [자바 역직렬화 취약점의 이해와 방어 방법 - ITWorld Korea](https://www.itworld.co.kr/news/206354)
 * [자바 직렬화, 그것이 알고싶다.  훑어보기편](http://woowabros.github.io/experience/2017/10/17/java-serialize.html)
 * [자바 직렬화, 그것이 알고싶다.  실무편](http://woowabros.github.io/experience/2017/10/17/java-serialize2.html)
 * [자바에서 직렬화를 이용한 소켓 통신 정리](https://jungwoon.github.io/java/2018/08/16/Java-Serialize/)
@@ -1616,13 +1711,17 @@ Java
 * [통합 테스트에서 INSERT 쿼리 위한 보조 클래스 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/helper-for-insert-query-in-inttest)
 * [Integration Testing from the Trenches - Nicolas Frankel - Singapore Java User Group - YouTube](https://www.youtube.com/watch?v=BTooPk65XJE)
 * [Step by Step Toward Property Based Testing | LeadingAgile](https://www.leadingagile.com/2018/04/step-by-step-toward-property-based-testing/)
+* [The Best Java Testing Frameworks to focus in 2021 - pCloudy](https://www.pcloudy.com/blogs/the-best-java-testing-frameworks-to-focus-in-2021/)
 * ArchUnit [Unit test your Java architecture - ArchUnit](https://www.archunit.org/)
   * [How to test your Java project’s architecture with ArchUnit](https://medium.freecodecamp.org/java-archunit-testing-the-architecture-a09f089585be)
   * [ArchUnit - UnitTest로 아키텍처 검사를](https://d2.naver.com/helloworld/9222129)
     * 아키텍처 구조와 규칙을 쉽게 정의하고 검사해주는 ArchUnit의 사용법 설명
     * ArchUnit의 테스트를 작성해서 의존관계와 상속 관계 등을 검사하고 레이어 아키텍처 등을 선언형/명령형으로 검사 가능
     * AssertJ와 연동 가능. 네이버에서 Support 패키지는 다른 패키지를 의존하면 안 된다는 규칙, API 문서화를 위한 속성 통일 등의 규칙을 적용
-* [AssertJ가 JUnit의 assertThat 보다 편리한 이유](https://www.youtube.com/watch?v=zLx_fI24UXM)
+* [AssertJ - fluent assertions java library](https://assertj.github.io/doc/)
+  * [AssertJ 소개 | Engineering Blog by Dale Seo](https://www.daleseo.com/assertj/)
+  * [AssertJ가 JUnit의 assertThat 보다 편리한 이유](https://www.youtube.com/watch?v=zLx_fI24UXM)
+  * [Java JUnit의 assertThat보다 assertj의 assertThat을 써야하는 이유](https://jwkim96.tistory.com/168)
 * DBUnit
   * [스프링부트에서 DbUnit 을 이용하여 DB 테스트 해보기](http://woowabros.github.io/experience/2019/11/06/db-unit.html)
   * [DbUnit 적용해보기 예제코드](https://github.com/woowa-kwon/dbunit)
@@ -1643,7 +1742,16 @@ Java
   * [더 자바: 코드를 테스트하는 다양한 방법](https://docs.google.com/presentation/d/1HaiVt-TNqA2wTMzjfGfzkBVgOGJIW7IH04CHNvNwbPs)
   * [JUnit 5 + Kotlin 테스트 클래스에서 생성자 주입 이슈 · 도전하는 개발자](https://minkukjo.github.io/framework/2020/06/28/JUnit-23/)
   * [JUnit5로 계층 구조의 테스트 코드 작성하기 - 기계인간 John Grib](https://johngrib.github.io/wiki/junit5-nested/)
+  * [A Comprehensive Guide On JUnit 5 Extensions](https://www.lambdatest.com/blog/junit5-extensions/)
+  * [JUnit 5 Introduction for TDD Development in Java | CodersTea](https://www.coderstea.com/post/java/junit-5-introduction-for-tdd-development-in-java/)
 * [Testcontainers - a Java library that supports JUnit tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container](https://www.testcontainers.org)
+
+# Tutorial
+* [Online Tutorial to Learn Java - CodeGym](https://codegym.cc/) online Java programming course 80% based on practice
+* [Learn Java - Free Interactive Java Tutorial](https://www.learnjavaonline.org/)
+* [Java 입문 수업 (생활코딩) - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck)
+* [자바를 배우자 매거진](https://brunch.co.kr/magazine/javalearning)
+* [자바 공화국](https://jojoldu.tistory.com/609)
 
 # Web
 * [Spark - A tiny Sinatra inspired framework for creating web applications in Java 8 with minimal effort](http://sparkjava.com)

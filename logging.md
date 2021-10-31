@@ -50,6 +50,9 @@ Logging
   * 데이터 로깅을 하기 위해 필요한 상식, 사용할 수 있는 플랫폼들 정리. 서버 로그와 클라이언트 로그의 차이, 웹이나 앱의 로깅 특성도 잘 정리
   * 이벤트 로그를 어떻게 설계하는 방법과 예시도 잘 나와 있어서 데이터 추적에 대한 이해도를 높이거나 서비스에 로깅 설계를 할 때 참고
 * [29CM 로그 수집 시스템 소개. 29CM에서는 기존의 로그 시스템, 신규 구축한 로그 시스템 두가지를… | by 29CM | 29CM 기술블로그 | Jul, 2021 | Medium](https://medium.com/29cm/29cm-%EB%A1%9C%EA%B7%B8-%EC%88%98%EC%A7%91-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%86%8C%EA%B0%9C-e7955d7deec6)
+  * 29CM에서 기존에는 Fluentd와 Elasticsearch로 로그 수집, 관리의 어려움과 로그 유실을 막기 위해 새 로그 수집 시스템 구축
+  * 새 시스템은 로그 수집 단계에 Kafka를 두어 ES에 문제가 생겨도 Kafka가 데이터 유실 방지, Kafka 플러그인을 기본으로 제공하는 Logstash로 변경
+* [Logging at Twitter: Updated](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated)
 
 # Fluentd
 * [Fluentd](http://www.fluentd.org/)
@@ -61,11 +64,16 @@ Logging
 * [CNCF, Fluentd 프로젝트 졸업을 발표](https://www.44bits.io/ko/post/news--fluentd-has-graduated-cncf)
 * [Fluentd vs. Logstash: A Comparison of Log Collectors](http://logz.io/blog/fluentd-logstash)
 * [Fluentd로 데이터파이프라인 구축하기 kafka→kafka→s3](https://blog.voidmainvoid.net/261)
+* [Fluentd? 나만의 에이전트 패키징! – gywndi's database](https://gywn.net/2021/09/package-own-fluentd-agent/)
 
 # Library
+* [angle-grinder: Slice and dice logs on the command line](https://github.com/rcoh/angle-grinder)
+  * [Angle-grinder - 실시간 로그 뷰어 | GeekNews](https://news.hada.io/topic?id=4694)
 * [Apache logging services](https://logging.apache.org)
 * [Apex Logs — Structured log management](https://apex.sh/logs/)
   * [Apex Logs public beta. My latest product Apex Logs is now in… | by TJ Holowaychuk | Aug, 2020 | Medium](https://medium.com/@tjholowaychuk/apex-logs-public-beta-48c683464054)
+* lnav [The Logfile Navigator | The Logfile Navigator, lnav for short, is an advanced log file viewer for the small-scale](https://lnav.org/)
+  * [The Logfile Navigator | GeekNews](https://news.hada.io/topic?id=4606)
 * [LOGAI – AUTOMATED LOG ANALYTICS FOR VALIDATION](https://ko.hortonworks.com/blog/logai-automated-log-analytics-validation/)
   * Hortonworks의 HDP 테스트에서 나온 로그를 분석하는 도구
   * 시스템에서 빈도(frequency), 동시 발생(co-occurence), 기타 상관 모델을 사용하여 에러를 하이라이트하고, trace와 기타 내용
@@ -74,6 +82,7 @@ Logging
   * [LogDevice: a distributed data store for logs](https://code.fb.com/core-data/logdevice-a-distributed-data-store-for-logs/)
   * [Open-sourcing LogDevice, a distributed data store for sequential data](https://logdevice.io/blog/2018/09/12/open-sourcing-announcement.html)
 * [Logging](https://logging.apache.org) Apache logging services
+* [loglab: Design & Apply Log Schema](https://github.com/haje01/loglab)
 * [Logswan is a fast Web log analyzer using probabilistic data structures](https://github.com/fcambus/logswan)
 * [loguru: A lightweight C++ logging library](https://github.com/emilk/loguru)
 * [mulog: μ/log is a micro-logging library that logs events and data, not words!](https://github.com/BrunoBonacci/mulog) clojure, log 기록을 text가 아니라 clojure data로 기록

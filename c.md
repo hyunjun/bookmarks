@@ -126,6 +126,7 @@ C
 * [C 프로그래밍: 현대적 접근](https://wikidocs.net/book/2494)
 * [C언어 빌드 과정 (build process)](https://brunch.co.kr/@mystoryg/57)
 * [타입 추론 사용하기](https://blog.naver.com/sssang97/221510686104)
+* [**C 타입 시스템 제대로 알고 가기 · 잇창명 개발 블로그**](https://eatchangmyeong.github.io/2020/12/30/all-about-c-type-system.html) "malloc 한 번으로 다차원 배열 동적 할당하기"
 * [Home-grown bytecode interpreters](https://badootech.badoo.com/home-grown-bytecode-interpreters-51e12d59b25c)
 * [Another one bites the apple!](https://engineering.linecorp.com/ko/blog/another-one-bites-the-apple/) OS X bug hunting
 * [C 프로그래밍 언어가 여전히 최고인 이유 : 개발언어 일대일 비교](http://www.itworld.co.kr/news/124767)
@@ -170,6 +171,9 @@ C
 * [함수의 극한 구하는 프로그램 만들기(C언어) | 수성비 전자방](https://toopyo.tistory.com/entry/limitfx)
 * [Why I still like C and strongly dislike C++ « Kostya's Boring Codec World](https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/)
 * [My toy renderer, part 1: Keep it simple](https://momentsingraphics.de/ToyRenderer1KeepItSimple.html)
+* [Learning that you can use unions in C for grouping things into namespaces](https://utcc.utoronto.ca/~cks/space/blog/programming/CUnionsForNamespaces)
+* [(12) Joe Zbiciak's answer to Can someone post a simplified C program for AI algorithm, and what type of hardware will be typically used? - Quora](https://www.quora.com/Can-someone-post-a-simplified-C-program-for-AI-algorithm-and-what-type-of-hardware-will-be-typically-used/answer/Joe-Zbiciak)
+* [그래서, 스택이랑 힙이 뭔데?](https://www.jiwon.me/explain-heap-and-stack/)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -238,6 +242,7 @@ C
   * [Address Sanitizer 를 이용하여 힙 메모리 오류 디버깅하기](https://blog.ifunfactory.com/2019/07/03/address-sanitizer-를-이용하여-힙-메모리-오류-디버깅하기/)
 * [Asmcodes: SHA-3 / Keccak](https://odzhan.wordpress.com/2015/11/03/tiny-sha-3/)
 * [Asmcodes: SHA-256](https://odzhan.wordpress.com/2015/11/04/tiny-sha-256/)
+* [bestline: ANSI Standard X3.64 Teletypewriter Command Session Library](https://github.com/jart/bestline)
 * [better string library](http://bstring.sourceforge.net/)
 * [bic: A C interpreter and API explorer](https://github.com/hexagonal-sun/bic)
 * [bonsai-c - C to asm.js compilation for humans](https://github.com/gasman/bonsai-c)
@@ -248,7 +253,6 @@ C
   * [Cello 라이브러리 in Windows](https://blog.naver.com/sssang97/221562440032)
 * [Cforall (C∀) Home Page](http://plg.uwaterloo.ca/~cforall/)
 * [cget - Cmake package retrieval](https://github.com/pfultz2/cget)
-* [checkedc: Checked C is an extension to C that adds checking to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses. This repo has a wiki for Checked C, sample code, the specification, and test code](https://github.com/microsoft/checkedc)
 * ["cint" is a C/C++ interpreter which has following features](http://www.hanno.jp/gotom/Cint.html)
 
   ```
@@ -285,15 +289,11 @@ C
 * [calc - Simple command-line based calculator](https://github.com/vivekannan/calc)
 * [callcatcher: collect functions/methods defined and subtract called/referenced](http://www.skynet.ie/~caolan/Packages/callcatcher.html)
 * [CCAN - List of all CCAN modules](http://ccodearchive.net/list.html)
-* ceedling
-  * [Unit-testing (embedded) C applications with Ceedling](http://dmitryfrank.com/articles/unit_testing_embedded_c_applications#)
 * [cindent](http://invisible-island.net/cindent/cindent.html)
-* [CMOCK - AUTOMATED MOCK & STUB GENERATION FOR C](https://mark-vandervoord-yxrv.squarespace.com/cmock) unit test
 * [cmus is a small, fast and powerful console music player for Unix-like operating systems](https://cmus.github.io/)
 * [Concurrency Kit - Concurrency primitives, safe memory reclamation mechanisms and non-blocking data structures for the research, design and implementation of high performance concurrent systems](http://concurrencykit.org/)
 * [CppMem: Interactive C/C++ memory model](http://svr-pes20-cppmem.cl.cam.ac.uk/cppmem/)
 * [cpu60 - Simple CPU model written in 60 lines of code](https://github.com/wkoszek/cpu60)
-* [Criterion - A KISS, non-intrusive cross-platform C unit testing framework](https://github.com/Snaipe/Criterion)
 * [crun: A fast and lightweight fully featured OCI runtime and C library for running containers](https://github.com/containers/crun)
 * [CUnit](http://cunit.sourceforge.net/index.html)
   * [practice - CUnit](https://gist.github.com/hyunjun/787d4662303e01019a98)
@@ -378,6 +378,7 @@ C
 * [libsound - cross-platform audio input and output for real-time & consumer software](http://libsound.io/)
 * [liburkel: Authenticated key-value store (i.e. an urkel tree)](https://github.com/chjj/liburkel)
 * [libvips - A fast image processing library with low memory needs. https://libvips.github.io/libvips ](https://github.com/libvips/libvips)
+* [libwebsockets.org lightweight and flexible C networking library](https://libwebsockets.org/)
 * [Ligra: A Lightweight Graph Processing Framework for Shared Memory http://www.cs.cmu.edu/~jshun/ligra.html](https://github.com/jshun/ligra)
 * [lists-in-c - Some subclasses of type list!](https://github.com/ryukinix/lists-in-c)
 * [magma - Extending C with cmacro](https://github.com/eudoxia0/magma)
@@ -385,13 +386,14 @@ C
 * [MetaC provides a read-eval-print loop (a REPL) and notebook interactive development environment (a NIDE) for C programming](https://github.com/mcallester/MetaC)
 * [Miller is like sed, awk, cut, join, and sort for name-indexed data such as CSV](http://johnkerl.org/miller/)
   * [github.com/johnkerl/miller](https://github.com/johnkerl/miller())
+* [minias: A mini x86-64 assembler for fun](https://github.com/andrewchambers/minias)
 * [mini_printf - minimal, self-contained and tested printf()](https://github.com/wkoszek/mini_printf)
-* [MinUnit -- a minimal unit testing framework for C](http://www.jera.com/techinfo/jtns/jtn002.html)
-  * [practice - test-minunit](https://github.com/hyunjun/practice/blob/master/c/test-minunit/minunit_example.c)
 * [mpc is a lightweight and powerful Parser Combinator library for C](https://github.com/orangeduck/mpc)
 * mpfr [Extended floating point precision in R and C](https://www.johndcook.com/blog/2020/03/18/gnu-mpfrr-wrapper/)
 * [Music from very short programs - the 3rd iteration](https://www.youtube.com/watch?v=tCRPUv8V22o)
 * [musl - a new standard library to power a new generation of Linux-based devices](http://www.musl-libc.org/)
+  * [musl libc](https://musl.libc.org/)
+  * [Why I'm donating $150/month (10% of my income) to the musl libc project - Andrew Kelley](https://andrewkelley.me/post/why-donating-to-musl-libc-project.html)
 * [MyHTML — HTML Parser on Pure C with POSIX Threads Support](http://lexborisov.github.io/myhtml/)
 * [netcat.c](http://www.opensource.apple.com/source/netcat/netcat-4/netcat/netcat.c)
 * [noc - A potpourri of various code I want to release online](https://github.com/guillaumechereau/noc)
@@ -427,6 +429,8 @@ C
 * [shoco: a fast compressor for short strings](http://ed-von-schleck.github.io/shoco/)
 * [SELA - SimplE Lossless Audio](https://github.com/sahaRatul/sela)
 * [simple sparsehash - A simple re-implementation of Google's sparsehash as a learning excercise](https://github.com/qpfiffer/Simple-Sparsehash)
+* [Sioyek is a PDF viewer designed for reading research papers and technical books](https://github.com/ahrm/sioyek)
+  * [Sioyek](https://sioyek.info/)
 * [Skod is a (File|Transfer|Protocol) client for humans, easy to use and hackable](https://github.com/Hypsurus/skod)
 * [Soundpipe is a lightweight music DSP library written in C](https://github.com/PaulBatchelor/Soundpipe)
 * [spectro-photo - Turns an image into an audio file. Image is visible on the spectrogram](https://github.com/kylophone/spectro-photo)
@@ -438,7 +442,6 @@ C
 * [udptunnel - It allows TCP/UDP/ICMP traffic over UDP tunneling. It's useful to avoid Internet restrictions](https://github.com/astroza/udptunnel)
 * [uftrace - Function (graph) tracer for user-space](https://github.com/namhyung/uftrace)
 * [Unicorn - The ultimate CPU emulator](http://www.unicorn-engine.org/)
-* [UNITY - UNIT TESTING FOR C (ESPECIALLY EMBEDDED SOFTWARE)](https://mark-vandervoord-yxrv.squarespace.com/unity)
 * [Vector Meshes](http://upcoder.com/13/vector-meshes)
 * [vgpu_unlock: Unlock vGPU functionality for consumer grade GPUs](https://github.com/DualCoder/vgpu_unlock)
 * [WasmBoxC: Simple, Easy, and Fast VM-less Sandboxing](https://kripken.github.io/blog/wasm/2020/07/27/wasmboxc.html)
@@ -458,7 +461,6 @@ C
 * [CompCert: The CompCert formally-verified C compiler](https://github.com/AbsInt/CompCert)
 * [distcc: a fast, free distributed C/C++ compiler](https://distcc.github.io/)
 * [movfuscator - The single instruction C compiler](https://github.com/xoreaxeaxeax/movfuscator)
-* [Speck is a small and fast unit testing framework for the C programming language](https://github.com/compiler-dept/speck)
 
 ## Library Malloc
 * [Writing a Memory Allocator – Dmitry Soshnikov](http://dmitrysoshnikov.com/compilers/writing-a-memory-allocator/)
@@ -472,6 +474,7 @@ C
 * [valgrind](http://valgrind.org/)
   * [practice](https://gist.github.com/hyunjun/eb74e45abbe4af9a4a48)
   * [6. Callgrind: a call-graph generating cache and branch prediction profiler](http://valgrind.org/docs/manual/cl-manual.html)
+  * [Valgrind - A neglected tool from the shadows or a serious debugging tool? | craft::cpp](https://m-peko.github.io/craft-cpp/posts/valgrind-a-neglected-tool-from-the-shadows-or-a-serious-debugging-tool/)
 
 # Pointer
 * [Difference between `char*` and `const char*`?](http://stackoverflow.com/questions/9834067/difference-between-char-and-const-char)
@@ -484,6 +487,7 @@ C
 * [c언어 문자열 경계 검사에 대한 몇 가지 이야기](https://codingdog.tistory.com/entry/c%EC%96%B8%EC%96%B4-%EB%AC%B8%EC%9E%90%EC%97%B4-%EA%B2%BD%EA%B3%84-%EA%B2%80%EC%82%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EB%AA%87-%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%95%BC%EA%B8%B0)
 * [포인터 이해하기 | 10분 TV](http://10bun.tv/beginner/episode-5/)
 * [kkamagui의 작업실 :: 미네소타 대학(University of Minnesota)에서 의도적으로 리눅스 커널(Linux Kernel)에 보안 위협을 초래했네요](https://kkamagui.tistory.com/943)
+* [c++ - pointer comparisons "<" with one past the last element of an array object - Stack Overflow](https://stackoverflow.com/questions/16233868/pointer-comparisons-with-one-past-the-last-element-of-an-array-object)
 
 # Standard Library
 * file
@@ -510,7 +514,9 @@ C
   * [C string handling@wikipedia](https://en.wikipedia.org/wiki/C_string_handling)
   * example
     * [tokenization of 1 & 2 byte space mixed string](https://github.com/hyunjun/practice/tree/master/c/test_2byte_space)
-  * stpcpy [What's the difference between strcpy and stpcpy?](http://stackoverflow.com/questions/5826773/whats-the-difference-between-strcpy-and-stpcpy)
+  * stpcpy
+    * [What's the difference between strcpy and stpcpy?](http://stackoverflow.com/questions/5826773/whats-the-difference-between-strcpy-and-stpcpy)
+    * [strcpy: a niche function you don't need](https://nullprogram.com/blog/2021/07/30/)
   * strcspn [string-indexof-function-in-c](http://stackoverflow.com/questions/4824/string-indexof-function-in-c)
   * strscpy [strscpy() and the hazards of improved interfaces](https://lwn.net/Articles/659214/)
   * wide char string
@@ -533,18 +539,32 @@ C
   * strftime
   * strptime
 
+# TDD Test
+* [Embedded C/C++ Unit Testing Basics | Interrupt](https://interrupt.memfault.com//blog/unit-testing-basics)
+* [문제를 출제할 때 없으면 안 된다는 c assert 함수에 대해 알아봅시다.](https://codingdog.tistory.com/570)
+* [checkedc: Checked C is an extension to C that adds checking to detect or prevent common programming errors such as buffer overruns and out-of-bounds memory accesses. This repo has a wiki for Checked C, sample code, the specification, and test code](https://github.com/microsoft/checkedc)
+* ceedling [Unit-testing (embedded) C applications with Ceedling](http://dmitryfrank.com/articles/unit_testing_embedded_c_applications#)
+* [CMOCK - AUTOMATED MOCK & STUB GENERATION FOR C](https://mark-vandervoord-yxrv.squarespace.com/cmock) unit test
+* [Criterion - A KISS, non-intrusive cross-platform C unit testing framework](https://github.com/Snaipe/Criterion)
+* [MinUnit -- a minimal unit testing framework for C](http://www.jera.com/techinfo/jtns/jtn002.html)
+  * [practice - test-minunit](https://github.com/hyunjun/practice/blob/master/c/test-minunit/minunit_example.c)
+* [UNITY - UNIT TESTING FOR C (ESPECIALLY EMBEDDED SOFTWARE)](https://mark-vandervoord-yxrv.squarespace.com/unity)
+* [Speck is a small and fast unit testing framework for the C programming language](https://github.com/compiler-dept/speck)
+
 # Tutorial
 * [C Programming FAQs](http://cinsk.github.io//cfaqs/html/cfaqs-ko.html)
 * [C Programming FAQs](http://cinsk.github.io/cfaqs/html/index.html)
 * [“여전히 매력적인 선택지”··· C 언어 주요 강좌 4선 - CIO Korea](http://www.ciokorea.com/news/169105)
 * [C프로그래밍 - YouTube](https://www.youtube.com/playlist?list=PLTaZLG4fpb-v6l46734j2XFgc9yyM5p27)
 * [C Lang 이론 카테고리 목록](https://lypicfa.tistory.com/555)
+* [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/)
 
 # Web
 * [**나만의 웹서버 구현해보기!**](https://velog.io/@seanlion/webserver)
   * [Tiny-Web-Server](https://github.com/seanlion/Tiny-Web-Server)
 * [Althttpd: The Althttpd Webserver](https://sqlite.org/althttpd/doc/trunk/althttpd.md)
   * [Althttpd - C파일 1개로 된 간단한 웹서버 | GeekNews](https://news.hada.io/topic?id=4418)
+* [BCHS: BSD, C, httpd, SQLite](https://learnbchs.org/)
 * [darkhttpd: When you need a web server in a hurry](https://github.com/emikulic/darkhttpd)
   * [darkhttpd - C파일 1개로 작성된 초경량 웹서버 | GeekNews](https://news.hada.io/topic?id=4002)
   * [darkhttpd](https://unix4lyfe.org/darkhttpd/)

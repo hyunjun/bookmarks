@@ -56,10 +56,6 @@ Go
 * [Distributed Read-Write Mutex in Go](https://github.com/jonhoo/drwmutex)
 * [Using Go at The New York Times](https://www.youtube.com/watch?v=bAQ9ShmXYLY)
 * [Four Days of Go](http://www.evanmiller.org/four-days-of-go.html)
-* [Manual Memory Management in Go](https://deferpanic.com/blog/manual-memory-management-in-go/)
-* [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
-* [Go memory ballast: How I learned to stop worrying and love the heap](https://blog.twitch.tv/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2)
-* [Memory Optimizations for Go Systems | by Nishant Roy | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/memory-optimizations-for-go-systems-48d95cf64a13)
 * [Why Go for Decision Trees?](http://datascience.systemsbiology.net/tag/cloudforest/)
 * [Go in Go](http://talks.golang.org/2015/gogo.slide)
 * [The State of Go](http://talks.golang.org/2015/state-of-go-may.slide)
@@ -79,6 +75,7 @@ Go
 * [The Golang UK Conference](http://www.golanguk.com/)
   * [Stupid Gopher Tricks](http://talks.golang.org/2015/tricks.slide#1)
 * [TLS with Go](https://ericchiang.github.io/tls/go/https/2015/06/21/go-tls.html)
+* [Golang: TLS version and Cipher suites](https://jusths.tistory.com/238)
 * [Setting Go variables from the outside](https://blog.cloudflare.com/setting-go-variables-at-compile-time/)
 * [Qihoo 360 and Go](http://blog.golang.org/qihoo)
 * [Lexical Scanning in Go](http://cuddle.googlecode.com/hg/talk/lex.html)
@@ -126,6 +123,7 @@ Go
 * [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
 * [Designing errors with Go 1.13](https://tech.xing.com/designing-errors-with-go-1-13-81692537457)
 * [golang - golang error handling (Go1.13) - jacking75](https://jacking75.github.io/go_error_handling/)
+* [Error stack traces in Go with x/xerror — brandur.org](https://brandur.org/fragments/go-xerror)
 * [400 DAYS OF GO](http://www.philipotoole.com/400-days-of-go/)
 * [Calling a Linear Solver C Library From Go](http://davidraff.com/calling-a-linear-programming-solver-from-go)
 * [Some Algorithms implemented in Go](https://github.com/minaandrawos/Algorithms)
@@ -135,6 +133,7 @@ Go
 * [The Top 10 Most Common Mistakes I’ve Seen in Go Projects](https://itnext.io/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65)
 * [Top 24 Common Mistakes In GO Programming](https://www.bacancytechnology.com/blog/top-24-common-mistakes-in-go-programming)
 * [Proposal: Dense mark bits and sweep-free allocation](https://github.com/golang/proposal/blob/master/design/12800-sweep-free-alloc.md)
+* [5 Common mistakes in Go - DeepSource](https://deepsource.io/blog/common-mistakes-in-go/)
 * [Go Maps Don’t Appear to be O(1)](https://medium.com/@ConnorPeet/go-maps-are-not-o-1-91c1e61110bf)
 * [The Go netpoller](https://morsmachine.dk/netpoller)
 * [Learning Golang: Build a Stock Notifier](http://blog.ksred.me/post/learning-golang-stock-notifier/)
@@ -149,10 +148,6 @@ Go
 * [Go 언어로 우버에서 초당 요청수가 가장 많은 서비스를 어떻게 개발했나?](https://only2sea.wordpress.com/2016/03/08/go-%EC%96%B8%EC%96%B4%EB%A1%9C-%EC%9A%B0%EB%B2%84%EC%97%90%EC%84%9C-%EC%B4%88%EB%8B%B9-%EC%9A%94%EC%B2%AD%EC%88%98%EA%B0%80-%EA%B0%80%EC%9E%A5-%EB%A7%8E%EC%9D%80-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-2/)
 * [An introduction to LLVM in Go](https://blog.felixangell.com/an-introduction-to-llvm-in-go/)
 * [gotips - golang tips](https://github.com/beyondns/gotips)
-* [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
-* [Go kit - A toolkit for microservices](http://gokit.io/)
-  * [gokit-examples](https://github.com/shijuvar/gokit-examples)
-  * [Go Microservices with Go kit: Introduction](https://medium.com/@shijuvar/go-microservices-with-go-kit-introduction-43a757398183)
 * [How I have rewritten my cryptocurrency from PHP to Go in 8 months. Part 1](http://blog.dcoin.club/2016/03/11/go-part1/)
 * [software.intel.com - Golang](https://software.intel.com/en-us/tags/42877)
 * [Go언어로 오픈소스 배송조회 서비스 만들기](http://subicura.com/2016/06/13/start-go-shipment-tracking-opensource.html)
@@ -170,6 +165,8 @@ Go
 * [Anatomy of methods in Go](https://medium.com/rungo/anatomy-of-methods-in-go-f552aaa8ac4a)
 * [다른 언어에서 Go 함수 호출하기](http://hamait.tistory.com/874)
 * [ssh bastion proxy용 golang network proxy](http://blog.woosum.net/archives/1578)
+* [Build Your Own Neural Network in Go](https://towardsdatascience.com/neural-network-from-scratch-in-go-language-b98e2abcced3)
+* [Martin Baillie | Gotchas in the Go Network Packages Defaults](https://martin.baillie.id/wrote/gotchas-in-the-go-network-packages-defaults/)
 * [Go Experience Report: Generics in Kubernetes](https://medium.com/@arschles/go-experience-report-generics-in-kubernetes-25da87430301)
 * [Live building a scalable API in Go with Kubernetes](https://www.youtube.com/watch?v=pkZrgHxJ130)
 * [MongoDB Golang 드라이버의 컨텍스트와 커넥션](https://www.popit.kr/mongodb-golang-%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B2%84%EC%9D%98-%EC%BB%A8%ED%85%8D%EC%8A%A4%ED%8A%B8%EC%99%80-%EC%BB%A4%EB%84%A5%EC%85%98)
@@ -238,9 +235,9 @@ Go
 * [Golang 에서 enum 자료형 사용후기](https://www.popit.kr/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-%EA%B0%9C%EB%B0%9C%EA%B8%B0-golang-%EC%97%90%EC%84%9C-enum-%EC%9E%90%EB%A3%8C%ED%98%95-%EC%82%AC%EC%9A%A9%ED%9B%84%EA%B8%B0/)
 * [Optimizing a Golang service to reduce over 40% CPU](https://medium.com/coralogix-engineering/optimizing-a-golang-service-to-reduce-over-40-cpu-366b67c67ef9)
 * [Why You Should Avoid Pointers in Go](https://medium.com/better-programming/why-you-should-avoid-pointers-in-go-36724365a2a7)
+* [GoLang 포인터 101](https://www.joinc.co.kr/w/man/12/golang/pointer)
 * [Go: Aliases, Simple and Efficient](https://medium.com/a-journey-with-go/go-aliases-simple-and-efficient-8506d93b079e)
 * [Go: How Does gops Interact with the Runtime?](https://medium.com/a-journey-with-go/go-how-does-gops-interact-with-the-runtime-778d7f9d7c18)
-* [Build Your Own Neural Network in Go](https://towardsdatascience.com/neural-network-from-scratch-in-go-language-b98e2abcced3)
 * [Exploring Filter in Go](https://medium.com/better-programming/exploring-filter-in-go-158abc3926)
 * [Go as a Scripting Language](https://www.infoq.com/news/2020/04/go-scripting-language/)
 * [Go RESTful API(gRPC Client) + Python gRPC server](https://medium.com/cloudbric-tech-leaders/go-restful-api-grpc-client-python-grpc-server-15e95386e90d)
@@ -274,6 +271,22 @@ Go
 * [두번째 글 - 함수 사용하기](https://fallwalker.tistory.com/9)
 * [golang - Analyzing Core Dump Generated By Go Program - jacking75](https://jacking75.github.io/go_core_dump/)
 * [golang - Protocol Buffers 송수신 - Go, Vue.js - jacking75](https://jacking75.github.io/go_Protocol_Buffers/)
+* [Go언어로 나만의 Query Exporter 만들어보기! | gywndi's database](https://gywn.net/2021/07/make-own-query-exporter-with-go/)
+  * Prometheus로 매트릭을 수집할 때 Exporter에서 매트릭을 가져와서 Prometheus가 저장
+  * 이 Exporter를 Go 언어로 직접 구현해 보면서 Exporter의 구조를 이해하게 해주는 글
+  * 먼저 Prometheus가 접근할 수 있게 HTTP 요청을 받도록 열어주고 커넥션 수를 반환하도록 Collector를 구현하는 과정
+* [Golang Dependency Injection — { DEV SWEETER ; }](https://syntaxsugar.tistory.com/entry/Golang-Dependency-Injection)
+* [Golang Configuration — { DEV SWEETER ; }](https://syntaxsugar.tistory.com/entry/Golang-Configuration)
+* [Clean Swift Scaffold. 화면에 필요한 객체준비하는게 몹시 귀찮았던 iOS개발자의 go활용기 | by Hyeonsu Ha | 당근마켓 팀블로그 | Aug, 2021 | Medium](https://medium.com/daangn/clean-swift-scaffold-3e4b5cec475)
+  * Swift로 iOS 개발을 하면서 화면 구성에 필요한 다양한 객체들을 매번 만드는 게 번거로움
+  * 처음에는 Usecase를 기반으로 필요한 코드와 Spy 객체를 만들어 주는 iGospy를 만들어 사용
+  * 그 다음으로 복사 붙이기를 하지 않고 커맨드라인에서 바로 생성하기 Clean Swift Scaffold 작성
+* [Golang: AES-GSM에서 additional data의 활용](https://jusths.tistory.com/233)
+* [생각하는 Go 언어 프로그래밍 : Go는 객체지향 언어인가? - 골든래빗](https://goldenrabbit.co.kr/2021/10/01/%E1%84%89%E1%85%A2%E1%86%BC%E1%84%80%E1%85%A1%E1%86%A8%E1%84%92%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-go-%E1%84%8B%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%A5-%E1%84%91%E1%85%B3%E1%84%85%E1%85%A9%E1%84%80/)
+* [Go is a terrible language | Have you Debugged.IT?](https://debugged.it/blog/go-is-terrible/)
+* [Go is an awesome language | Have you Debugged.IT?](https://debugged.it/blog/go-is-awesome/)
+* [20,000 lines under the Go-cean | Have you Debugged.IT?](https://debugged.it/blog/20000-lines-under-the-go-cean/)
+* [Go is Korean, Lisp is Japanese](https://imagine27.com/go-is-korean/)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -288,6 +301,7 @@ Go
 * [Reading 16GB File in Seconds, Golang | by Ohm Patel | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/processing-16gb-file-in-seconds-go-lang-3982c235dfa2)
 * [Introduction to Golang's pointers (Go programming language) - YouTube](https://www.youtube.com/watch?v=dRsL_4ghmfE)
 * [Go: 필드가 많은 구조체의 marshaling/unmarshaling](https://jusths.tistory.com/174)
+* [Golang: 같은 필드명을 가진 다른 구조체로 데이터를 옮기기](https://jusths.tistory.com/241) marshaling/unmarshaling
 * [Go: How Does a Program Recover?. Panics in Go are triggered when the… | by Vincent Blanchon | A Journey With Go | Oct, 2020 | Medium](https://medium.com/a-journey-with-go/go-how-does-a-program-recover-fbbbf27cc31e) defer panic WaitGroup
 * [Generics are the Generics of Go | Capital One | Capital One Tech](https://medium.com/capital-one-tech/generics-are-the-generics-of-go-3e0ef0cb9e04)
 * [Experimenting with generics in Go | by Alexey Soshin | The Startup | Medium](https://medium.com/swlh/experimenting-with-generics-in-go-39ffa155d6a1)
@@ -378,6 +392,7 @@ Go
 * [Go has a debugger—and it's awesome!](https://blog.cloudflare.com/go-has-a-debugger-and-its-awesome/)
 * [Using the gdb debugger with Go](http://blog.codeship.com/using-gdb-debugger-with-go/)
 * [**컨테이너 내부 Go 애플리케이션 디버깅하기**](https://mingrammer.com/debugging-containerized-go-app/)
+* [delve: Delve is a debugger for the Go programming language](https://github.com/go-delve/delve)
 
 # Docker
 * [A Go, Docker workflow](http://blog.crowdpatent.com/a-go-docker-workflow/)
@@ -393,6 +408,7 @@ Go
 
 # goroutine
 * [Concurrency is not Parallelism](http://blog.golang.org/concurrency-is-not-parallelism)
+* [Go concurrency is not parallelism: Real world lessons with Monte Carlo simulations](https://www.soroushjp.com/2015/02/07/go-concurrency-is-not-parallelism-real-world-lessons-with-monte-carlo-simulations/)
 * [CONCURRENCY OUTLOOK USING CMS DAS SERVICE](https://indico.cern.ch/event/449425/session/1/contribution/6/attachments/1168560/1685802/DAS_python_vs_go.pdf)
 * [Concurrency, Goroutines and GOMAXPROCS](http://www.goinggo.net/2014/01/concurrency-goroutines-and-gomaxprocs.html)
 * [Gracefully stopping goroutines](https://machiel.me/gracefully-stopping-goroutines/)
@@ -452,7 +468,10 @@ Go
 * [Caire - Content aware image resize library](https://github.com/esimov/caire)
 * cgapp [Create Go App를 이용하여 편하게 프로젝트 생성](https://blog.naver.com/pjt3591oo/222151297558)
 * [Clarifai Golang Library - Unofficial library written for the Clarifai API](https://github.com/samuelcouch/clarifai)
+* [cobra: A Commander for modern Go CLI interactions](https://github.com/spf13/cobra)
 * [cmux - Connection multiplexer for GoLang: serve different services on the same port!](https://github.com/soheilhy/cmux)
+* [Daptin - Backend As A Service - GraphQL/JSON-API Headless CMS](https://github.com/daptin/daptin)
+  * [Daptin - 오픈소스 Backend as a Service & Headless CMS | GeekNews](https://news.hada.io/topic?id=4667)
 * [delibird - Shipment tracking library for Golang. http://purpleworks.github.io/delibird ](https://github.com/purpleworks/delibird)
 * dep
   * [Go에서 dep으로 의존성 관리하기](https://blog.outsider.ne.kr/1354)
@@ -489,6 +508,7 @@ Go
 * [go-candyjs - fully transparent bridge between Go and the JavaScript](https://github.com/mcuadros/go-candyjs)
 * [gocelery: Celery Distributed Task Queue in Go](https://github.com/gocelery/gocelery)
   * [golang - gocelery 라이브러리 사용하기 - jacking75](https://jacking75.github.io/go_lib_gocelery/)
+* [goclj package - github.com/cespare/goclj - pkg.go.dev](https://pkg.go.dev/github.com/cespare/goclj)
 * [GoCqlTable is a wrapper around the GoCql-driver that seeks to simplify working with the Cassandra database in Golang projects](https://github.com/elvtechnology/gocqltable)
 * [Go Crypto - Gotham Go](http://www.slideshare.net/NicholasSullivan/whats-new-in-go-crypto-gotham-go)
 * [go-datastructures](https://github.com/Workiva/go-datastructures)
@@ -507,7 +527,6 @@ Go
   * [A guide to linting Go programs](https://freshman.tech/linting-golang/)
 * [golongpoll - golang HTTP longpolling library, making web pub-sub easy!](https://github.com/jcuga/golongpoll)
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
-* [Go Micro - a framework for microservice development](https://go-micro.dev/)
 * gomobile [Mobile · golang/go Wiki](https://github.com/golang/go/wiki/Mobile)
   * [Go 언어로 Android / iOS 앱 코드 작성하기](https://open-support.tistory.com/entry/Go-%EC%96%B8%EC%96%B4%EB%A1%9C-Android-iOS-%EC%95%B1-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
 * [go-nfs: golang NFSv3 server](https://github.com/willscott/go-nfs/)
@@ -528,6 +547,7 @@ Go
   * [golang - Go 언어의 DB mock(sqlmock)을 알기 쉽도록 해 보았다 - jacking75](https://jacking75.github.io/go_splmock/)
 * [go-tea - Tea provides an Elm inspired functional framework for interactive command-line programs](https://github.com/tj/go-tea)
 * [GoWork - Go Library for distributing work to workers](https://github.com/ryanskidmore/GoWork)
+* [gpu-operator: NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes](https://github.com/NVIDIA/gpu-operator)
 * [grace - Graceful restart for Go servers. https://godoc.org/github.com/facebookgo/grace](https://github.com/facebookgo/grace)
 * gRPC
   * [gRPC Deadline](https://jusths.tistory.com/131)
@@ -562,6 +582,8 @@ Go
   * [golang - Lorca를 사용하여 Go로 HTML5 앱 만들기 - jacking75](https://jacking75.github.io/go_lib_Lorca/)
 * [Machinery is an asynchronous task queue/job queue based on distributed message passing](https://github.com/RichardKnop/machinery)
   * [Machinery - Machinery is an asynchronous task queue/job queue based on distributed message passing](http://richardknop.github.io/machinery/)
+* [macos-totp-cli: simple TOTP CLI, powered by keychain of macOS](https://github.com/simnalamburt/macos-totp-cli)
+  * macOS의 키체인을 이용해서 터미널에서 TOTP(Time-based One-Time Password)를 사용할 수 있는 CLI
 * [mark - A markdown processor written in Go. built for fun](https://github.com/a8m/mark)
 * [matterbridge Letting people be where they want to be](https://github.com/42wim/matterbridge)
 * [Mattermost is an open source, on-prem Slack-alternative](https://github.com/mattermost/platform)
@@ -572,6 +594,7 @@ Go
   * [Discovering and exploring mmap using Go](https://brunocalza.me/discovering-and-exploring-mmap-using-go/)
   * [But how, exactly, databases use mmap?](https://brunocalza.me/but-how-exactly-databases-use-mmap/)
 * [Monsti - a free and open source CMS written in Go](http://www.monsti.org/)
+* [natscli: The NATS Command Line Interface](https://github.com/nats-io/natscli)
 * [notifications-engine: Affordable notifications for Kubernetes](https://github.com/argoproj/notifications-engine)
   * [Notifications Engine is here!. The Argoproj community has been working… | by Alexander Matyushentsev | May, 2021 | Argo Project](https://blog.argoproj.io/notifications-engine-is-here-ca961cd67b87)
     * Argo에서 Argo CD와 Argo Rollouts에서 알림 용도로 사용하고 있는 노티피케이션 엔진을 공개
@@ -579,6 +602,8 @@ Go
     * 원하는 알림의 컨트롤러를 Golang으로 구현하고 Configmap을 이용해서 알림을 만들면 각 프로젝트에서 어노테이션으로 알림을 설정
 * [passgo - Simple golang password manager](https://github.com/ejcx/passgo)
 * [pet : CLI Snippet Manager - Simple command-line snippet manager, written in Go](https://github.com/knqyf263/pet)
+* [pgx: PostgreSQL driver and toolkit for Go](https://github.com/jackc/pgx) database
+  * [How We Went All In on sqlc/pgx for Postgres + Go — brandur.org](https://brandur.org/sqlc)
 * [Plugins for Go](https://github.com/dullgiulio/pingo)
 * [PMC - Probabilistic Multiplicity Counting Sketch (PMC)](https://github.com/seiflotfy/pmc)
 * [QOR - the first E-commerce & CMS SDK written in Go](http://getqor.com/)
@@ -604,6 +629,7 @@ Go
 * [short - URL shortening service written in Go and React https://short-d.com](https://github.com/short-d/short)
 * [Simple REST mail server](https://github.com/dullgiulio/perso/releases/tag/v0.1)
 * [sops: Simple and flexible tool for managing secrets](https://github.com/mozilla/sops) encrypt decrypt
+* [speedtest-resize: Compare various Image resize algorithms for the Go language](https://github.com/fawick/speedtest-resize)
 * [Stable Distribution of Go Packages With Long-Term Support](https://www.stablelib.com/)
 * [Stats - A statistics package with many functions missing from the Golang standard library](https://github.com/montanaflynn/stats)
 * [Stout - a deploy tool for static websites](http://stout.is/)
@@ -625,12 +651,27 @@ Go
 * [vim-go - Go development plugin for Vim](https://github.com/fatih/vim-go)
 * [vtprotobuf: A Protocol Buffers compiler that generates optimized marshaling & unmarshaling Go code for ProtoBuf APIv2](https://github.com/planetscale/vtprotobuf)
   * [Vitess | A database clustering system for horizontal scaling of MySQL](https://vitess.io/blog/2021-06-03-a-new-protobuf-generator-for-go/)
+* [wails: Create desktop apps using Go and Web Technologies](https://github.com/wailsapp/wails)
+  * [Wails - Go 사용 데스크톱 응용 프로그램 개발 프레임 워크 | GeekNews](https://news.hada.io/topic?id=4774)
 * [wego - weather app for the terminal](https://github.com/schachmat/wego)
 * wmi2struct [golang - Windows Management Instrumentation을 쉽게 얻을 수 있는 도구 wmi2struct - jacking75](https://jacking75.github.io/go_lib_wmi2struct/)
 * [xid: golang GUID 생성 package 둘러보기](https://jusths.tistory.com/148)
 * [xurls - Extract urls from text](https://github.com/mvdan/xurls)
 * [Yahoo Stock Quotes in Go](https://github.com/doneland/yquotes)
 * [yh: YAML syntax highlighter to bring colours where only jq could](https://github.com/andreazorzetto/yh)
+
+## Library Microservice
+* [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
+* [Building Microservices in Go Series' Articles - DEV Community](https://dev.to/mariocarrion/series/11630)
+  * [Building Microservices in Go: Caching using memcached - DEV Community](https://dev.to/mariocarrion/building-microservices-in-go-caching-using-memcached-2f1l)
+  * [Building Microservices in Go: Domain Driven Design and Project Layout - DEV Community](https://dev.to/mariocarrion/microservices-in-go-domain-driven-design-and-project-layout-2108)
+  * [Building Microservices in Go: Repository Pattern - DEV Community](https://dev.to/mariocarrion/building-microservices-in-go-repository-pattern-5pa)
+  * [Building Microservices in Go: Services in Domain Driven Design - DEV Community](https://dev.to/mariocarrion/building-microservices-in-go-services-in-domain-driven-design-3oic)
+  * [Building Microservices in Go: REST APIs: Implementing and Dealing with errors - DEV Community](https://dev.to/mariocarrion/building-microservices-in-go-rest-apis-implementing-and-dealing-with-errors-5gpc)
+* [Go kit - A toolkit for microservices](http://gokit.io/)
+  * [gokit-examples](https://github.com/shijuvar/gokit-examples)
+  * [Go Microservices with Go kit: Introduction](https://medium.com/@shijuvar/go-microservices-with-go-kit-introduction-43a757398183)
+* [Go Micro - a framework for microservice development](https://go-micro.dev/)
 
 ## Library MySQL
 * [Three bugs in the Go MySQL Driver](https://github.blog/2020-05-20-three-bugs-in-the-go-mysql-driver/)
@@ -649,6 +690,21 @@ Go
   * [Tensorflow](github.com/danieldk/tensorflow)
   * [Caffe](github.com/wmyaoyao/gocaffe)
 * [dotGo 2017 - Francesc Campoy Flores - Machine Learning and Go](https://www.youtube.com/watch?v=lcyNjgEG9H8)
+* [Gorse - Open Source Recommender System](https://gorse.io/)
+  * [Gorse - 추천 시스템 오픈소스 | GeekNews](https://news.hada.io/topic?id=4647)
+
+# Memory
+* [Manual Memory Management in Go](https://deferpanic.com/blog/manual-memory-management-in-go/)
+* [A visual guide to Go Memory Allocator from scratch (Golang)](https://blog.learngoprogramming.com/a-visual-guide-to-golang-memory-allocator-from-ground-up-e132258453ed)
+* [Go memory ballast: How I learned to stop worrying and love the heap](https://blog.twitch.tv/go-memory-ballast-how-i-learnt-to-stop-worrying-and-love-the-heap-26c2462549a2)
+* [Memory Optimizations for Go Systems | by Nishant Roy | The Startup | Sep, 2020 | Medium](https://medium.com/swlh/memory-optimizations-for-go-systems-48d95cf64a13)
+* [research!rsc: Hardware Memory Models (Memory Models, Part 1)](https://research.swtch.com/hwmm)
+* [research!rsc: Programming Language Memory Models (Memory Models, Part 2)](https://research.swtch.com/plmm)
+* [research!rsc: Updating the Go Memory Model (Memory Models, Part 3)](https://research.swtch.com/gomm)
+* [Go 언어의 GC에 대해 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/go-gc/) 1.10 기준
+* [Avoiding Memory Leak in Golang API | Hacker Noon](https://hackernoon.com/avoiding-memory-leak-in-golang-api-1843ef45fca8)
+* [Golang Long Time Performance Test - Memory Leak 해결 과정 — { DEV SWEETER ; }](https://syntaxsugar.tistory.com/entry/Golang-Long-Time-Performance-Test-Memory-Leak-%EB%A9%94%EC%9D%B8-%EB%94%94%EC%89%AC)
+* [**Golang Memory Management — { DEV SWEETER ; }**](https://syntaxsugar.tistory.com/entry/Golang-Memory-Management) 1.16 기준
 
 # Monitoring
 * [Monitoring microservices with Synthetic Transactions in Go](http://labs.unacast.com/2016/03/10/monitoring-microservices-synthetic-transactions-in-go/)
@@ -684,6 +740,8 @@ Go
 * [How to mock? Go Way](https://blog.learngoprogramming.com/how-to-mock-in-your-go-golang-tests-b9eee7d7c266)
 * [Unit Testing Using Mocking in Go - Priyanshu Gautam - Medium](https://medium.com/@priyanshugautam1997/unit-testing-using-mocking-in-go-f281122f499f)
 * [유연하고 테스트 가능한 Go 코드 작성하기 - 당근마켓 팀 블로그 | by Marco | 당근마켓 팀블로그](https://medium.com/daangn/how-to-write-a-testable-golang-code-4c0e67612bb8)
+* [Golang 인터페이스와 단위 테스트 | Popit](https://www.popit.kr/golang-%ec%9d%b8%ed%84%b0%ed%8e%98%ec%9d%b4%ec%8a%a4%ec%99%80-%eb%8b%a8%ec%9c%84-%ed%85%8c%ec%8a%a4%ed%8a%b8/)
+* [Golang 테스트 커버리지 측정과 코드 정적 분석 그리고 SonarQube | Popit](https://www.popit.kr/golang-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%bb%a4%eb%b2%84%eb%a6%ac%ec%a7%80-%ec%b8%a1%ec%a0%95%ea%b3%bc-%ec%bd%94%eb%93%9c-%ec%a0%95%ec%a0%81-%eb%b6%84%ec%84%9d-%ea%b7%b8%eb%a6%ac%ea%b3%a0-sonarqube/)
 * [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)
   * [고랭에서 찾기 힘든 버그 잡는다… ‘고 퍼즈’ 베타 테스트 공개 - CIO Korea](https://www.ciokorea.com/news/196604)
 * [MartianProxy is a proxy designed for use in E2E testing](https://github.com/google/martian)

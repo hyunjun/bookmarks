@@ -100,6 +100,7 @@
 * [Kotlin + Springboot로 REST API 시작하기](http://devtimothy.tistory.com/98)
 * [Tips for Writing a Library in Kotlin](https://medium.freecodecamp.org/tips-for-writing-a-library-in-kotlin-cd5f9e14e102)
 * [inline, noinline 한번에 이해하기](https://medium.com/harrythegreat/kotlin-inline-noinline-%ED%95%9C%EB%B2%88%EC%97%90-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1d54ff34151c)
+* [코틀린의 인라인에 대해 한 번에 알아보자. inline, noinline, crossinline, reified… | by jisungbin | Sep, 2021 | Medium](https://jisungbin.medium.com/%EC%BD%94%ED%8B%80%EB%A6%B0%EC%9D%98-%EC%9D%B8%EB%9D%BC%EC%9D%B8%EC%97%90-%EB%8C%80%ED%95%B4-%ED%95%9C-%EB%B2%88%EC%97%90-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-591c7da73219)
 * [카카오가 메시징 서버에 자바 대신 코틀린 써본 경험담](https://byline.network/2018/09/5-20)
 * [Full-stack Reactive Kotlin with Project Reactor & Spring Boot 2](https://speakerdeck.com/mkheck/full-stack-reactive-kotlin-with-project-reactor-and-spring-boot-2)
 * [Kotlin으로 Spring 개발할 때 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-kotlin/)
@@ -218,6 +219,7 @@
 
 # Book
 * [더북(TheBook): 코틀린을 다루는 기술](https://thebook.io/080208/) 1~3장만
+  * [코틀린을 다루는 기술 #1 | Jungwoon Blog](https://jungwoon.github.io/kotlin/2021/10/06/Advanced-Kotlin-1.html)
 
 # Conference
 * [kotlinconf.com](https://kotlinconf.com/)
@@ -260,7 +262,10 @@
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
 * [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
+* [Exposed: Kotlin SQL Framework](https://github.com/JetBrains/Exposed) an ORM framework for Kotlin
 * [FlameViewer - Tool for flamegraphs visualization](https://github.com/kornilova203/FlameViewer)
+* [GlideModelLoaderSample](https://github.com/Pluu/GlideModelLoaderSample)
+  * [Pluu Dev - Glide 요청 가로채기](http://pluu.github.io/blog/android/2021/09/12/glide-modelloader/)
 * [javalin - A simple web framework for Java and Kotlin](https://javalin.io)
   * [javalin - A simple and modern Java and Kotlin web framework https://javalin.io ](https://github.com/tipsy/javalin)
   * [Javalin : 자바와 코틀린을 위한 경량 웹 프레임워크 리뷰](https://www.popit.kr/javalin-자바와-코틀린을-위한-경량-웹-프레임워크-리뷰/)

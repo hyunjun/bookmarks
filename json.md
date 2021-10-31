@@ -14,9 +14,13 @@ Json
 * [Use Binary Encoding Instead of JSON - Better Programming - Medium](https://medium.com/better-programming/use-binary-encoding-instead-of-json-dec745ec09b6)
 * [JSON 데이터 타입을 처리하는 웹 어플리케이션에서 XXE 취약점이 발생하는 이유](http://blog.naver.com/crehacktive3/222037182911)
 * [The Pretty JSON Revolution](http://www.ohler.com/dev/pretty.html)
+* [Parsing JSON Really Quickly: Lessons Learned - YouTube](https://www.youtube.com/watch?v=wlvKAT7SZIQ)
+* [데이터 파이프라인 제작기 - 반정형 데이터편 (JSON)](https://burning-dba.tistory.com/144) 한 가지 주제가 아니라 json으로 보기도 어렵지만
+* [json포맷을 다양한 다른 포맷으로 변경할 수](https://open-support.tistory.com/entry/json%ED%8F%AC%EB%A7%B7%EC%9D%84-%EB%8B%A4%EC%96%91%ED%95%9C-%EB%8B%A4%EB%A5%B8-%ED%8F%AC%EB%A7%B7%EC%9C%BC%EB%A1%9C-%EB%B3%80%EA%B2%BD%ED%95%A0-%EC%88%98)
 
 # C++
-* [JSON for Modern C++ https://nlohmann.github.io/json ](https://github.com/nlohmann/json)
+* [Writing a simple JSON library from scratch: a tour through modern C++ | notes.eatonphil.com](https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html)
+* [json: JSON for Modern C++](https://github.com/nlohmann/json)
 * [jsoncpp 를 이용하여 C++에서 JSON 생성 및 Parsing 하기](http://devluna.blogspot.com/2015/09/jsoncpp-c-json-parsing.html)
 * [JsonPack is a high-performance and extremely easy-to-use JSON serialization library for C++ 11](https://github.com/ymglez/jsonpack)
 * [simdjson: Parsing gigabytes of JSON per second](https://github.com/simdjson/simdjson)
@@ -30,6 +34,8 @@ Json
 * [jsonista - Clojure library for fast JSON encoding and decoding](https://github.com/metosin/jsonista)
 
 # Go
+* [miller: Miller is like awk, sed, cut, join, and sort for name-indexed data such as CSV, TSV, and tabular JSON](https://github.com/johnkerl/miller)
+  * [Miller - CSV/JSON 데이터 처리용 CLI 도구 | GeekNews](https://news.hada.io/topic?id=4888)
 * [ojg - Optimized JSON for Go is a high performance parser with a variety of additional JSON tools](https://github.com/ohler55/ojg/tree/master)
 
 # Haskell
@@ -63,6 +69,7 @@ Json
 * [JSON Text를 JSON Object로 변환하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/257)
 * [파서 만들기 (1) - JSON.stringify - 완두블로그](https://wani.kr/posts/2020/02/11/make-parser-1/)
 * [파서 만들기 (2) - JSON.parse - 완두블로그](https://wani.kr/posts/2020/02/22/make-parser-2/)
+* [No Way, JOSE! Javascript Object Signing and Encryption is a Bad Standard That Everyone Should Avoid - Paragon Initiative Enterprises Blog](https://paragonie.com/blog/2017/03/jwt-json-web-tokens-is-bad-standard-that-everyone-should-avoid)
 * [nearley.js - JS Parsing Toolkit](https://nearley.js.org/)
   * [**JSON.parse 직접 만들어보기. By 최종찬 | by Riiid Techblog | Dec, 2020 | Medium**](https://riiidtechblog.medium.com/json-parse-%EC%A7%81%EC%A0%91-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EA%B8%B0-f567ecdf08c0)
 
@@ -100,6 +107,7 @@ Json
 * [How to create an Authentication System using JWT and Node.js | by Ram Potabatti | Apr, 2021 | JavaScript in Plain English](https://javascript.plainenglish.io/authentication-systems-using-jwt-and-node-js-9c3cc14aaf82)
 * [JWT는 어디에 저장해야할까? - localStorage vs cookie](https://velog.io/@0307kwon/JWT%EB%8A%94-%EC%96%B4%EB%94%94%EC%97%90-%EC%A0%80%EC%9E%A5%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C-localStorage-vs-cookie)
 * [JWT(Json Web Token) 인증 과 기존 인증방법의 비교 # 쿠키 세션](https://developer88.tistory.com/387)
+* [JWT의 구현 # 인증 NodeJS](https://developer88.tistory.com/388)
 
 ## JWT Python
 * [JSON Web Token Tutorial with Example in Python](https://blog.apcelent.com/json-web-token-tutorial-with-example-in-python.html)
@@ -127,6 +135,8 @@ Json
   * [Jackson 직렬화 옵션의 적절한 활용과 Jackson에 기여하기까지 (feat. 글로벌 캐싱)](https://hyperconnect.github.io/2019/10/28/jackson-serialize-for-global-caching.html)
   * [Customize your Java-JSON serialization using Jackson Annotations](https://medium.com/trabe/customize-your-serialization-using-jackson-annotations-d6b81c4785a6)
   * [JAVA Jackson을 쓰며 겪었던 문제](https://velog.io/@juunini/JAVA-Jackson%EC%9D%84-%EC%93%B0%EB%A9%B0-%EA%B2%AA%EC%97%88%EB%8D%98-%EB%AC%B8%EC%A0%9C)
+  * [Jackson : JSON Selective serialize/deserialize object properties | by Sai Pitchuka | Medium](https://saibaburvr.medium.com/jackson-json-selective-serialize-deserialize-object-properties-6d86c25a2d68)
+  * [Jackson의 확장 구조를 파헤쳐 보자](https://d2.naver.com/helloworld/0473330)
 * [JMESPath - a query language for JSON](http://jmespath.org/)
 * [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo ](https://github.com/jpmens/jo)
 * [**jq - a lightweight and flexible command-line JSON processor**](http://stedolan.github.io/jq/)
@@ -141,6 +151,7 @@ Json
     ```
   * [Parsing JSON at the CLI: A Practical Introduction to `jq` (and more!) | Sequoia McDowell](https://sequoia.makes.software/parsing-json-at-the-cli-a-practical-introduction-to-jq-and-more/)
   * [linux - Using jq to fetch key value from json output - Stack Overflow](https://stackoverflow.com/questions/39798542/using-jq-to-fetch-key-value-from-json-output)
+  * [Extracting objects recursively with jq | Simon Willison’s TILs](https://til.simonwillison.net/jq/extracting-objects-recursively)
 * [jsawk - Like awk, but for JSON http://thinkminimo.com](https://github.com/micha/jsawk)
 * Json2CSharp [Convert JSON to C# Classes Online - Json2CSharp Toolkit](https://json2csharp.com/)
 * [JSON 2 HTML](https://json.bloople.net/)
@@ -211,6 +222,7 @@ Json
 * [Ijson - an iterative JSON parser with a standard Python iterator interface](https://pypi.org/project/ijson/) stream 이용
   * [파이썬으로 나무위키 JSON 덤프 데이터 파싱하기. 기계학습 등에 사용할만한 한글 데이터가 많지 않은데. 나무위키 문서는… | by 김희규 | Jul, 2020 | Medium](https://medium.com/@heegyukim/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EB%82%98%EB%AC%B4%EC%9C%84%ED%82%A4-json-%EB%8D%A4%ED%94%84-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%8C%8C%EC%8B%B1%ED%95%98%EA%B8%B0-8f41cee1e155) namu-wiki-extractor
 * jmespath [4 Tricks to Effectively Use JSON in Python | by Erik van Baaren | Towards Data Science](https://towardsdatascience.com/4-tricks-to-effectively-use-json-in-python-4ca18c3f91d0)
+* [json streamer - A fast streaming JSON parser for Python that generates SAX-like events using yajl](https://github.com/kashifrazzaqui/json-streamer)
 * [pandas.read_json](https://pandas.pydata.org/pandas-docs/stable/reference/api/pandas.read_json.html)
 * [request-validator 1.5.0 - Python request validator](https://pypi.python.org/pypi/request-validator/1.5.0)
 * [validictory - A general purpose Python data validator](https://github.com/jamesturk/validictory)

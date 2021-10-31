@@ -2,6 +2,7 @@ SQL
 ===
 * [Intro to Database Systems : Schema Refinement - Functional Dependencies](http://blog.dancrisan.com/intro-to-database-systems-schema-refinement-functional-dependencies)
 * [A Tiny Intro to Database Systems](http://blog.dancrisan.com/a-tiny-intro-to-database-systems)
+* [누구나 바로 이해할 수 있는 데이터베이스 기초지식](https://brunch.co.kr/@04925bf0d77f43e/8)
 * [How to work optimally with relational databases](https://medium.freecodecamp.org/how-to-work-optimally-with-relational-databases-627073f82d56)
 * [The Wide World of Databases](https://blog.usejournal.com/a-light-introduction-to-databases-1154183ab852)
 * [In memory database plus traditional database combination back end architecture pattern](https://www.linkedin.com/grp/post/746917-5990940001540542468)
@@ -13,6 +14,7 @@ SQL
 * [New course: Learn SQL interactively on Khan Academy](http://cs-blog.khanacademy.org/2015/05/just-released-full-introductory-sql.html)
 * [Top 5 SQL and Database Courses to Learn Online](https://medium.com/hackernoon/top-5-sql-and-database-courses-to-learn-online-48424533ac61)
 * [SQLBolt, a series of interactive lessons and exercises](http://sqlbolt.com/)
+  * [SQLBolt - 인터랙티브 예제로 SQL 배우기 | GeekNews](https://news.hada.io/topic?id=4619)
 * [Effective Micro-caching in Relational Database](http://www.briskat.com/blog/Effective-Caching/)
 * [Graphs in the database: SQL meets social networks](http://techportal.inviqa.com/2009/09/07/graphs-in-the-database-sql-meets-social-networks/)
 * [**sqlfiddle.com**](http://sqlfiddle.com/)
@@ -36,6 +38,7 @@ SQL
 * [How I bypassed Cloudflare's SQL Injection filter](https://www.astrocamel.com/web/2020/09/04/how-i-bypassed-cloudflares-sql-injection-filter.html)
 * [Error-Based SQL Injection.. : 네이버블로그](https://blog.naver.com/crehacktive3/222187681939)
 * [웹 개발자를 위한 SQL injection 웹 해킹 보안 가이드](https://blog.naver.com/nanotoly/222214308327)
+* [데이터베이스 보안을 향상시키는 11가지 기술 - ITWorld Korea](https://www.itworld.co.kr/news/201094)
 * [Welcome to the π-Base - A community database of topological examples with automated deduction and powerful search](http://topology.jdabbs.com/)
 * [Yesquel: scalable SQL storage for Web applications](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/106-aguilera.pdf)
 * [FreeGeoDB - Free database of geographic place names and corresponding geospatial data](https://github.com/delight-im/FreeGeoDB)
@@ -114,6 +117,7 @@ SQL
 * [How to Optimize SQL Queries Part II | by Pawan Jain | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/how-to-optimize-sql-queries-part-ii-407311784112)
 * [Parsing SQL - Federico Tomassetti - Software Architect](https://tomassetti.me/parsing-sql/)
 * [(SQL초보자를 위한, 쿼리최적화 for SQL튜닝)SQL쿼리작성Tip,최적화팁,최적화된SQL작성방법교육](http://www.slideshare.net/topcredu/sql-for-sqlsqltipsql)
+* [초보자 확실히 기억해야 하는 SQL 가이드](https://brunch.co.kr/@04925bf0d77f43e/7)
 * [제3회 스포카콘 SQL 쿼리 최적화 맛보기](https://www.slideshare.net/ssuser7f6de5/3-sql-243154656)
 * [비전공자를 위한 SQL](https://brunch.co.kr/magazine/sql-beginner)
 * [나만 모르고 있던 – Flyway (DB 마이그레이션 Tool)](http://www.popit.kr/%EB%82%98%EB%A7%8C-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8D%98-flyway-db-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-tool/)
@@ -170,12 +174,21 @@ SQL
 * [Using SQL to Estimate Customer Lifetime Value (LTV) without Machine Learning - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/using-sql-to-estimate-customer-lifetime-value-ltv-without-machine)
 * [Understanding Connections & Pools](https://sudhir.io/understanding-connections-pools/)
 * [내가 만든 서비스는 얼마나 많은 사용자가 이용할 수 있을까? - 3편(DB Connection Pool)](https://hyuntaeknote.tistory.com/12)
+* [**ConnectionStrings.com - Forgot that connection string? Get it here!**](https://www.connectionstrings.com/) 각 DB별 connection string 모음
 * [What can we learn from SQL's 50 year reign? A story of 2 Turing Awards](https://blog.arctype.com/sql-50-years/)
 * [Running a bakery on Emacs and PostgreSQL // Just a Summary](https://bofh.org.uk/2019/02/25/baking-with-emacs/)
 * [You might as well timestamp it |> Changelog](https://changelog.com/posts/you-might-as-well-timestamp-it) flag보다 timestamp를 써야 한다는 주장
   * [is_leave vs leaved_at vs leave_status](https://jojoldu.tistory.com/577)
 * [글로벌 칼럼 | DB 분산 처리 기법 '샤딩', "웬만하면 하지 마라" - ITWorld Korea](https://www.itworld.co.kr/news/200134) sharding
 * [The State of the Open Source Database Industry in 2020: Part Three - Percona Database Performance Blog](https://www.percona.com/blog/2020/04/22/the-state-of-the-open-source-database-industry-in-2020-part-three/)
+* [Against SQL](https://scattered-thoughts.net/writing/against-sql/)
+* [A beginner's guide to database multitenancy - Vlad Mihalcea](https://vladmihalcea.com/database-multitenancy/)
+* [칼럼｜데이터베이스의 '주류 교체', 숨막히게 더딜지라도... - CIO Korea](https://www.ciokorea.com/news/204299)
+* [영상 : 초보자가 저지르기 쉬운 DB 코딩 실수 3가지 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%EC%98%81%EC%83%81-%EC%B4%88%EB%B3%B4%EC%9E%90%EA%B0%80-%EC%A0%80%EC%A7%80%EB%A5%B4%EA%B8%B0-%EC%89%AC%EC%9A%B4-DB-%EC%BD%94%EB%94%A9-%EC%8B%A4%EC%88%98-3%EA%B0%80%EC%A7%80)
+* [A future for SQL on the web](https://jlongster.com/future-sql-web)
+  * [웹용 SQL의 미래 | GeekNews](https://news.hada.io/topic?id=4808)
+* [Stephen Colebourne's blog: Big problems at the timezone database](https://blog.joda.org/2021/09/big-problems-at-timezone-database.html)
+* [통계 서버를 구축하며!. 소개 | by Jason Kang | Uniquegood | Oct, 2021 | Medium](https://medium.com/uniquegood/%ED%86%B5%EA%B3%84-%EC%84%9C%EB%B2%84%EB%A5%BC-%EA%B5%AC%EC%B6%95%ED%95%98%EB%A9%B0-c071c6d4f945) 주제 분류가 좀 애매하지만 동시성 문제를 이야기하니 우선 여기에
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
@@ -197,6 +210,9 @@ SQL
 * [Aurora MySQL 스냅샷을 Parquet 로 S3 에 Export](https://chang12.github.io/rds-snapshot-export-to-s3/)
 * [When Should I Use Amazon Aurora and When Should I use RDS MySQL? - Percona Database Performance Blog](https://www.percona.com/blog/2018/07/17/when-should-i-use-amazon-aurora-and-when-should-i-use-rds-mysql/)
 * [A First Glance at Amazon Aurora Serverless RDS - Percona Database Performance Blog](https://www.percona.com/blog/2020/10/27/a-first-glance-at-amazon-aurora-serverless-rds/)
+* [AWS Announces New Database Service Babelfish for Aurora PostgreSQL in Preview](https://www.infoq.com/news/2020/12/aws-postgresql-aurora-babelfish/)
+* [Amazon Aurora PostgreSQL 에서 pg_bigm 모듈사용하기](https://jojoldu.tistory.com/590)
+* [(AWS Aurora) PostgreSQL에서 Lock 쿼리 확인하고 원인 종료하기](https://jojoldu.tistory.com/591)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
@@ -217,9 +233,12 @@ SQL
 * [Paper: Staring into the Abyss: An Evaluation of Concurrency Control with One Thousand Cores](http://blog.lastmind.io/archives/903)
 * [Paper: Fast Serializable Multi-Version Concurrency Control for Main-Memory Database Systems – The Last Mind](http://blog.lastmind.io/archives/941)
 * [Foundations of Databases](http://webdam.inria.fr/Alice/)
+* [1 ~ 4세대 DBMS로 보는 데이터베이스 발전 과정과 양상에 대해 정리하기 | by Ryan Kim | Jul, 2021 | Medium](https://equus3144.medium.com/1-4%EC%84%B8%EB%8C%80-dbms%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EB%B0%9C%EC%A0%84-%EA%B3%BC%EC%A0%95%EA%B3%BC-%EC%96%91%EC%83%81%EC%97%90-%EB%8C%80%ED%95%B4-%EC%A0%95%EB%A6%AC%ED%95%98%EA%B8%B0-b94c1d93914d)
 
 # Library
 * [Arctype | The fast and easy-to-use SQL client](https://arctype.com/)
+* [bytebase: Web-based, zero-config, dependency-free database schema change and version control tool for teams. Public demo: https://demo.bytebase.com ](https://github.com/bytebase/bytebase)
+  * [Bytebase - 웹 기반 DB스키마 변경 및 버전 관리도구 오픈소스 | GeekNews](https://news.hada.io/topic?id=4793)
 * [**dbcrossbar** - an open source tool that copies large, tabular datasets between many different databases and storage formats. Data can be copied from any source to any destination](https://www.dbcrossbar.org/)
 * [DBeaver](https://dbeaver.io/)
   * [Mac, Linux 에서 쓸만한 DB Tool - DBeaver](http://lifeones.tistory.com/129)
@@ -246,11 +265,14 @@ SQL
   * [liquibase.org - source control for your database](http://www.liquibase.org/)  xml 작성, rollback 지원
 * [orbit-db - Peer-to-Peer Databases for the Decentralized Web](https://github.com/orbitdb/orbit-db)
 * [**RadonDB: 대륙의 뉴타입 슈주쿠(Shùjùkù, 数据库, database) !?**](https://www.popit.kr/%EB%8C%80%EB%A5%99%EC%9D%98-%EB%89%B4%ED%83%80%EC%9E%85-%EC%8A%88%EC%A3%BC%EC%BF%A0shujuku-%E6%95%B0%E6%8D%AE%E5%BA%93-database/) MySQL or PostgreSQL 기반의 분산 데이터베이스 이야기
+* [Rel – The desktop relational database management system](https://reldb.org/c/)
 * [Rockset - a scalable, reliable search and analytics service in the cloud that makes it easy to build fast operational applications on TBs of data simply using SQL](https://rockset.com)
   * [Complex SQL on Excel Spreadsheets - Studying Trends in Federal Pell Grant Data](https://towardsdatascience.com/complex-sql-on-excel-spreadsheets-274bc93ade89)
 * [sequel fumpt - Type some SQL. Move the slider to set output width](https://sqlfum.pt/)
   * [sqlfmt: an opinionated online SQL formatter](https://www.cockroachlabs.com/blog/sql-fmt-online-sql-formatter/)
 * [**sq: swiss-army knife for data**](https://sq.io/) jq for relational data
+  * [SQ - swiss-army knife for data | GeekNews](https://news.hada.io/topic?id=3841)
+* [sqlfluff](https://www.sqlfluff.com/) The SQL Linter for humans
 * [SQLPad - A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, ClickHouse, Crate, Vertica, Presto, SAP HANA, Snowflake, BigQuery, SQLite, and many others via ODBC](https://rickbergfalk.github.io/sqlpad/#/)
 * [SQL Translation - Translate your SQL from one dialect to another](https://www.jooq.org/translate/)
 * Teleport [Introducing Database Access | Teleport](https://goteleport.com/blog/introducing-database-access/) NAT
@@ -259,6 +281,8 @@ SQL
 * [UXSql Application Builder](https://www.notion.so/UXSql-Application-Builder-18857e102ca54c37b4e5f887f68f3a55) MSSQL, MySQL 가능
 * VisualSQL [We Made SQL Visual - Why and How](https://chartio.com/blog/why-we-made-sql-visual-and-how-we-finally-did-it/)
 * [**Waltz: A Distributed Write-Ahead Log**](https://wecode.wepay.com/posts/waltz-a-distributed-write-ahead-log)
+* [Yugabyte Cloud - Yugabyte](http://www.yugabyte.com/cloud/)
+  * [Yugabyte Cloud: a Managed Distributed SQL Database](https://www.infoq.com/news/2021/10/yugabyte-cloud/)
 
 # MariaDB
 * [HowTo: Install ClusterControl to Provision, Monitor and Manage MariaDB/Percona MariaDB MySQL Cluster](http://cloudstats.me/2015/08/13/howto-install-clustercontrol-from-severalnines-for-easy-mysql-galera-cluster-management/)
@@ -281,10 +305,13 @@ SQL
 * [팁 MariaDB 사용자별 최대 쿼리 실행 시간 다르게 주기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/tip-mariadb-max-statement-time-per-user)
 * [Logging all MariaDB and MySQL queries into the Slow Log - Vettabase](https://vettabase.com/blog/logging-all-mariadb-and-mysql-queries-into-the-slow-log/)
 * [마리아DB 파티션 테이블+자동 증가 칼럼 대박 버그 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%EB%A7%88%EB%A6%AC%EC%95%84DB-%ED%8C%8C%ED%8B%B0%EC%85%98-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9E%90%EB%8F%99-%EC%A6%9D%EA%B0%80-%EC%B9%BC%EB%9F%BC-%EB%8C%80%EB%B0%95-%EB%B2%84%EA%B7%B8)
+* [미친 라이브 데모를 통해 보는Write-Scale Out MariaDB Xpand (10 node cluster)](https://www.allshowtv.com/detail.html?idx=749)
 * [Authentication Plugin - Unix Socket](https://mariadb.com/kb/en/authentication-plugin-unix-socket/)
+* CDC
+  * [mariadb-cdc로 MariaDB CDC 사용하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/mariadb-cdc-intro)
+  * [개밥 먹기 : MariaDB(MySQL) CDC 모듈 직접 개발하고 사용하기 1년 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/dogfooding-dev-and-use-mariadb-mysql-CDC-module)
 * [ClustrixDB](https://mariadb.com/products/clustrixdb/) distributed RDB
 * Galera [DIAMANTI Use Case : MariaDB with Galera Cluster | by Simon.kim | Mar, 2021 | Medium](https://knk1034.medium.com/diamanti-use-case-mariadb-with-galera-cluster-f921402ff282)
-* [mariadb-cdc로 MariaDB CDC 사용하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/mariadb-cdc-intro)
 * SkySQL [Jacob's Cafe :: 수십억건 데이터 처리를 위한 MariaDB Analytics (SkySQL)](https://calebpro.tistory.com/628)
 * [Testcontainers로 Mariadb 연동 통합 테스트하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/mariadb-integration-test-using-testcontainers)
 
@@ -304,6 +331,10 @@ SQL
 * [SQL서버 커밋할 수 없는 트랜잭션](https://hackhyun.tistory.com/288)
 * [MSSQL Server Tutorial For beginners - Techringe](https://www.techringe.com/mssql-server-tutorial-for-beginners/)
 * [SQL서버 VALUES의 다양한 용법(테이블 값 생성자) :: 전산이야기](https://hackhyun.tistory.com/295)
+* [맥북 docker 에 mssql 설치 하기](https://stricky.tistory.com/500)
+* [신입 개발자, DB를 최적화 하다! 1편. 소개 | by Jason Kang | Uniquegood | Sep, 2021 | Medium](https://medium.com/uniquegood/%EC%BD%94%EC%96%B4-%EC%84%9C%EB%B2%84%EC%97%90-%EC%83%9D%EA%B8%B0%EB%8A%94-%EB%AC%B8%EC%A0%9C%EC%A0%90%EC%9D%84-%ED%95%B4%EA%B2%B0%ED%95%98%EC%9E%90-1%ED%8E%B8-55b899e0fbdd)
+* [신입 개발자, DB를 최적화 하다! 2편. 소개 | by Jason Kang | Uniquegood | Sep, 2021 | Medium](https://medium.com/uniquegood/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-db%EB%A5%BC-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%98%EB%8B%A4-2%ED%8E%B8-c9f71951c90)
+* [Intro to SQL - YouTube](https://www.youtube.com/watch?v=vbPw0tmQmws)
 
 # MySQL
 * practice
@@ -379,6 +410,7 @@ SQL
     * [Show Comment of Fields FROM Mysql Table](https://stackoverflow.com/questions/5404051/show-comment-of-fields-from-mysql-table)
     * [mysql show 명령어 완벽 정리](https://stricky.tistory.com/251)
   * [`UPDATE salary SET sex = CASE sex WHEN 'm' THEN 'f' ELSE 'm' END;`](https://leetcode.com/problems/swap-salary/solution/)
+  * [mysql 실무에 유용한 sql 로직 모음 #01](https://stricky.tistory.com/512)
 * troubleshooting
   * [MySQL 에서 한글이 께어질때 수정을 하는 방법 UTF-8사용](http://blog.daum.net/iamwhoi/5740153)
     * [11.1.6 Configuring the Character Set and Collation for Applications](https://dev.mysql.com/doc/refman/5.7/en/charset-applications.html)
@@ -402,6 +434,7 @@ SQL
 * [MySQL NULL 처리 삽질](http://www.popit.kr/mysql-null-%EC%B2%98%EB%A6%AC-%EC%82%BD%EC%A7%88/)
 * [리눅스 서버 구축하기 7. MySQL 설치](http://library.gabia.com/contents/infrahosting/3564)
 * [**MySQL Tutorial**](http://www.mysqltutorial.org/)
+* [왕초보용! 갖고 노는 MySQL 데이터베이스 강좌 - YouTube](https://www.youtube.com/watch?v=dgpBXNa9vJc)
 * [how innodb lost its advantage](http://dom.as/2015/04/09/how-innodb-lost-its-advantage/)
 * [How MySQL Is Able To Scale To 200 Million QPS - MySQL Cluster](http://highscalability.com/blog/2015/5/18/how-mysql-is-able-to-scale-to-200-million-qps-mysql-cluster.html)
 * [Working with JSON in MySQL](https://scotch.io/tutorials/working-with-json-in-mysql)
@@ -423,6 +456,9 @@ SQL
 * [인덱스 생성, 조회](http://egloos.zum.com/hanaduri/v/19112)
 * [패스트캠퍼스 SQL튜닝캠프 2일차 - 인덱스 향상](http://jojoldu.tistory.com/167)
 * [Index에 대해서 정리해 봅니다. #MySQL](https://developer88.tistory.com/332)
+* [**MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기**](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
+* [BTree 그리고 인덱스(INDEX)의 정체](https://blog.naver.com/pjt3591oo/222479946713)
+* [DB Index 동작원리를 알아보자 | Eric's DevLog (데브로그)](https://www.kyungyeon.dev/posts/66)
 * [mysql 커버링 인덱스란 무엇인가? | sTricky](https://stricky.tistory.com/441) cover index
 * [gildang MySQL tutorial](http://gildang.co.kr/?p=2383)
 * [MySQL Slow Query log Monitoring using Beats & ELK](http://www.slideshare.net/YoungHeonKim1/mysql-slow-query-log-monitoring-using-beats-elk)
@@ -479,6 +515,7 @@ SQL
 * [surrogate key 와 natural key](http://ohgyun.com/756)
 * [카카오뱅크 – Percona / MariaDB / MySQL](https://osskorea.wordpress.com/2017/08/02/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC-percona-mariadb-mysql/)
 * [Group Replication in Percona Server for MySQL](https://www.percona.com/blog/2020/01/17/group-replication-in-percona-server-for-mysql/)
+* [MySQL Group Replication 구축](https://saramin.github.io/2021-09-28-mysql-group-replication/)
 * [카카오뱅크, 마이SQL 잘 쓰는 비결](http://v.media.daum.net/v/20170917095558384)
 * [오픈소스 데이터베이스, 은행 서비스에 첫발을 내밀다](https://www.slideshare.net/deview/135-80845610)
 * [오픈소스 디비로 행원이 되어보다](https://brunch.co.kr/@chan/10)
@@ -509,7 +546,6 @@ SQL
 * [Why SQL is beating NoSQL, and what this means for the future of data](https://blog.timescale.com/why-sql-beating-nosql-what-this-means-for-future-of-data-time-series-database-348b777b847a)
 * [MySQL for Excel](https://www.mysql.com/why-mysql/windows/excel)
 * [MySQL 전방탐색 지원](https://www.popit.kr/경-mysql-전방탐색-지원-축)
-* [**MySQL Workbench의 VISUAL EXPLAIN으로 인덱스 동작 확인하기**](https://engineering.linecorp.com/ko/blog/mysql-workbench-visual-explain-index/)
 * [MySQL performance-schema-instruments 사용에 따른 성능 영향 실험](https://engineering.linecorp.com/ko/blog/mysql-research-performance-schema-instruments/)
 * [An in-depth look at Database Indexing](https://medium.freecodecamp.org/database-indexing-at-a-glance-bb50809d48bd)
 * **MySQL High Availability Framework Explained** ScaleGrid라는 MySQL service 회사에서 자사의 기술을 이용해 설명했지만, 일반적인 High Availability를 이해하기 위한 기초로 굉장히 좋은 글
@@ -528,6 +564,7 @@ SQL
 * [프로그래밍 초식 : DB 트랜잭션 조금 이해하기 1, 2 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%B4%88%EC%8B%9D-DB-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%A1%B0%EA%B8%88-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1-2)
 * [DB를 이용한 분산 락 구현(MariaDB, MySQL)](https://javacan.tistory.com/entry/distributed-lock-using-db)
 * [꿀벌개발일지 :: lock=none, algorithm=inplace 으로 테이블 변경하기](https://ohgyun.com/800)
+* [락(Lock)너는 무엇을 잠그는 녀석이니?](https://blog.naver.com/pjt3591oo/222479605880)
 * [MySQL 데이터베이스 한번에 끝내기 SQL Full Tutorial Course using MySQL Database](https://www.youtube.com/watch?v=vgIc4ctNFbc)
 * [MySQL InnoDB의 메모리 캐시 서버로 변신! | STAR::DATABASE](https://stardba.net/chan/mysql-innodb-as-cache-server-monitoring/)
   * [**MySQL InnoDB의 메모리 캐시 서버로 변신! – 설정편 –**](https://gywn.net/2019/09/mysql-innodb-as-cache-server-config/)
@@ -548,6 +585,7 @@ SQL
 * [Upgrading MySQL (Percona Server) from 5.7 to 8.0 | by Flant staff | Flant | Medium](https://medium.com/flant-com/upgrading-mysql-percona-server-5-to-8-4bce53bdce5c)
 * [MySQL 8.0 업그레이드 전 짚어봐야할 몇 가지! | STAR::DATABASE](https://stardba.net/sun/checkpoint-mysql80-upgrade/)
 * [MySQL 8.0.22: Asynchronous Replication Automatic Connection (IO Thread) Failover - Percona Database Performance Blog](https://www.percona.com/blog/2020/10/26/mysql-8-0-22-asynchronous-replication-automatic-connection-io-thread-failover/)
+* [Migrating Facebook to MySQL 8.0 - Facebook Engineering](https://engineering.fb.com/2021/07/22/data-infrastructure/mysql/)
 * [5 MySQL features you need to know](https://opensource.com/article/20/3/mysql-features)
 * [18 Things You Can Do to Remove MySQL Bottlenecks Caused by High Traffic (Part One)](https://www.percona.com/blog/2020/04/03/18-things-you-can-do-to-remove-mysql-bottlenecks-caused-by-high-traffic-part-one/)
 * [Need to Connect to a Local MySQL Server? Use Unix Domain Socket!](https://www.percona.com/blog/2020/04/13/need-to-connect-to-a-local-mysql-server-use-unix-domain-socket/)
@@ -581,6 +619,10 @@ SQL
 * [🛢CSV 파일 MySQL DB에 추가하기 - YouTube](https://www.youtube.com/watch?v=XLoit2-DPaI)
 * [MySQL and UUIDs | Die wunderbare Welt von Isotopp](https://blog.koehntopp.info/2021/04/06/mysql-and-uuids.html)
 * [MySQL에서 리셋되는 시퀀스 만들어보기 | gywndi's database](https://gywn.net/2021/06/resetable-sequence-for-mysql/)
+* [데이터베이스에서 위도경도 관리 - MySQL Spatial SQL](https://blog.naver.com/ndskr/222444680248)
+* [MySQL document store 초간단 테스트 | gywndi's database](https://gywn.net/2021/07/mysql-document-store-test/)
+* [Build a Python Web Scraper + Advanced MySQL Queries](https://arctype.com/blog/mysql-advanced-queries/)
+* [How to Connect A GraphQL API and A MySQL Database in Your GraphQL Layer | StepZen blog](https://stepzen.com/blog/connect-a-mysql-db-and-graphql-api-in-a-gql-layer)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
@@ -623,6 +665,7 @@ SQL
 * [OSC - Facebook releases a new OnlineSchemaChange tool written in Python](http://www.eversql.com/facebook-releases-a-new-onlineschemachange-tool-written-in-python/)
 * [Percona pt-online-schema-change 설치 및 사용하기](https://jojoldu.tistory.com/358)
 * [Planche - Javascript MySQL GUI Client Tool](https://github.com/plancheproject/planche)
+* PlanetScale [플래닛스케일 리뷰 | 수평 확장 가능한 마이SQL 호환 서버리스 DB 플랫폼 - ITWorld Korea](https://www.itworld.co.kr/news/207029)
 * [python-mysql-replication](https://github.com/noplay/python-mysql-replication)
 * Sysbench [How to Install and Use Sysbench - mortensi](https://www.mortensi.com/2021/06/how-to-install-and-use-sysbench/)
 * [TiDB is a distributed SQL database compatible with MySQL protocol](https://github.com/pingcap/tidb#run-as-mysql-protocol-server)
@@ -670,8 +713,10 @@ SQL
 * [Managing big enough data in postgres](http://blog.tarkalabs.com/2015/04/16/managing-big-enough-data-in-postgres/)
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://blog.confluent.io/2015/04/23/bottled-water-real-time-integration-of-postgresql-and-kafka/)
 * [Compressing PostgreSQL JSONB data 12x using cstore_fdw](https://www.citusdata.com/blog/14-marco/156-compressing-jsonb-using-cstore-fdw)
+* [How to update objects inside JSONB arrays with PostgreSQL](https://medium.freecodecamp.org/how-to-update-objects-inside-jsonb-arrays-with-postgresql-5c4e03be256a)
 * [Migrating to JSON in PostgreSQL](https://developer.s24.com/blog/migrating-json-postgresql.html)
 * [Unleash the Power of Storing JSON in Postgres](https://blog.codeship.com/unleash-the-power-of-storing-json-in-postgres/)
+* [Cut Out the Middle Tier: Generating JSON Directly from Postgres](https://blog.crunchydata.com/blog/generating-json-directly-from-postgres)
 * [PostgreSQL vs. MS SQL Server](http://www.pg-versus-ms.com/)
 * [A simple relational data access tool for NodeJS](https://github.com/robconery/massive-js)
 * [A proof of concept MongoDB clone built on Postgres](https://github.com/JerrySievert/mongolike)
@@ -736,7 +781,6 @@ SQL
   * 데이터베이스 API Call을 복제하여 구 개의 데이터베이스서 실행하고 로깅을 하는 방법을 포함하여 데이터베이스 롤아웃 및 마이그레이션 작업 과정
 * [The Internals of PostgreSQL for database administrators and system developers](http://www.interdb.jp/pg/index.html)
 * [Lessons learned scaling PostgreSQL database to 1.2bn records/month](https://medium.com/@gajus/lessons-learned-scaling-postgresql-database-to-1-2bn-records-month-edc5449b3067)
-* [How to update objects inside JSONB arrays with PostgreSQL](https://medium.freecodecamp.org/how-to-update-objects-inside-jsonb-arrays-with-postgresql-5c4e03be256a)
 * [Parallelism in PostgreSQL](https://www.percona.com/blog/2019/07/30/parallelism-in-postgresql/)
 * [Postgres Handles More Than You Think](https://www.infoq.com/articles/postgres-handles-more-than-you-think/)
 * [NoSQL과RDBMS 중 적합한 데이터베이스 선택하기(feat.인스타그램DB)](https://mustread.tistory.com/5)
@@ -747,6 +791,7 @@ SQL
 * [A multi-node, elastic, petabyte scale, time-series database on Postgres for free (and more ways we are investing in our community)](https://blog.timescale.com/blog/multi-node-petabyte-scale-time-series-database-postgresql-free-tsdb/)
 * [How one word in PostgreSQL unlocked a 9x performance improvement](https://jlongster.com/how-one-word-postgresql-performance)
 * [How to Scale Postgres - Automation, Tuning & Sharding - Speaker Deck](https://speakerdeck.com/lfittl/how-to-scale-postgres-automation-tuning-and-sharding)
+* [Herding elephants: Lessons learned from sharding Postgres at Notion](https://www.notion.so/blog/sharding-postgres-at-notion)
 * [Types of Indexes in PostgreSQL - Highgo Software Inc](https://www.highgo.ca/2020/06/22/types-of-indexes-in-postgresql/)
 * [B-tree indexes - learn more about the heart of PostgreSQL - YouTube](https://www.youtube.com/watch?v=n5-xEEQFqPY)
 * [Why We Switched From MongoDB to PostgresSQL](https://amasad.me/gpt_post)
@@ -787,6 +832,15 @@ SQL
 * [An early look at Postgres 14: Performance and Monitoring Improvements](https://pganalyze.com/blog/postgres-14-performance-monitoring)
 * [Hierarchical Structures in PostgreSQL](https://hoverbear.org/blog/postgresql-hierarchical-structures/)
 * [Globally Distributed Postgres · Fly](https://fly.io/blog/globally-distributed-postgres/)
+* [PostgreSQL, Memory and the Cloud™ · Alexander Sosna](https://sosna.de/posts/pgaas-memory-overcommit/)
+* [PostgreSQL에서 Order By가 선적용되는 슬로우 쿼리 해결책](https://jojoldu.tistory.com/596)
+* [Five Things You Didn't Know About PostgreSQL | Kevin's Blog](https://blog.kevinlee.io/blog/2012/08/25/five-things-you-didnt-know-about-postgresql/)
+* [PostgreSQL 서버 관리자 지침서](https://docs.google.com/document/u/2/d/e/2PACX-1vTDZ9xHfw301ADVShOtjrcVHyqwS6HMfrNfRA_qRT5NTik25yyc9x1DJPyb6t5eTNAiCiQbNULS4tId/pub)
+* [PostgreSQL 14 on Kubernetes (with examples!)](https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes)
+* EdgeDB
+  * [EdgeDB—The next generation database](https://edgedb.com/)
+  * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
+  * [EdgeDB - 개발자를 위한 차세대 오픈소스 ORDB | GeekNews](https://news.hada.io/topic?id=4602)
 * Vacuum
   * [베큠(VACUUM)을 실행해야되는 이유 그리고 성능 향상](http://blog.gaerae.com/2015/09/postgresql-vacuum-fsm.html)
   * [Visualizing PostgreSQL Vacuum Progress](http://dtrace.org/blogs/dap/2019/05/22/visualizing-postgresql-vacuum-progress/)
@@ -831,6 +885,9 @@ SQL
 * [pgTAP - a suite of database functions that make it easy to write TAP-emitting unit tests in psql scripts or xUnit-style test functions](http://pgtap.org/)
 * [PolarDB-for-PostgreSQL](https://github.com/alibaba/PolarDB-for-PostgreSQL)
   * [PolarDB for PostgreSQL | GeekNews](https://news.hada.io/topic?id=4362)
+* [postgres: Unmodified Postgres with some useful plugins](https://github.com/supabase/postgres)
+  * [유용한 확장을 포함한 Postgres Docker 이미지들 | GeekNews](https://news.hada.io/topic?id=4967)
+* [Postgres.app – the easiest way to get started with PostgreSQL on the Mac](https://postgresapp.com/)
 * [PostgresqlCO.NF: PostgreSQL configuration for humans](https://postgresqlco.nf/en/doc/param/)
 * [PostgREST: REST API for any Postgres database](https://github.com/PostgREST/postgrest)
   * [PostgREST - a standalone web server that turns your PostgreSQL database directly into a RESTful AP](https://postgrest.org/)
@@ -876,6 +933,9 @@ SQL
 * [index 의 중요성과 이해 SQL 독학 강의#24편](https://stricky.tistory.com/310)
 * [view 뷰에 대한 이해 SQL 독학 강의#25편](https://stricky.tistory.com/323)
 * [주문 고객 상품 테스트용 데이터 생성 및 다운로드](https://stricky.tistory.com/230)
+* [프로그래머스 SQL 코딩 테스트 select 문제 풀이](https://stricky.tistory.com/505)
+* [프로그래머스 SQL 코딩 테스트 select 문제 풀이 #2](https://stricky.tistory.com/507)
+* [프로그래머스 SQL 답 SUM, MAX, MIN 문제 풀이 #03](https://stricky.tistory.com/508)
 * [SQL Correlated Subqueries - GeeksforGeeks](https://www.geeksforgeeks.org/sql-correlated-subqueries/)
 * [Rain in Australia 캐글 날씨 데이터셋 다운로드 받아 mysql에 넣는 방법](https://stricky.tistory.com/448) DDL Datagrip
 * [초보자도 준비하는 SQL 코딩 테스트 시리즈를 마치며...](https://wonit.tistory.com/448)
@@ -950,10 +1010,13 @@ SQL
 * [Exploring Tweets with SQLite + WASM - Divyendu's Blog](https://divu.in/experiments/wasm/twitter-sqlite)
 * [Hosting SQLite databases on Github Pages - (or any static file hoster) - phiresky's blog](https://phiresky.github.io/blog/2021/hosting-sqlite-databases-on-github-pages/)
 * [SQLite in production with WAL](https://victoria.dev/blog/sqlite-in-production-with-wal/)
-* [**SQLite의 알려지지 않은 이야기 | GeekNews**](https://news.hada.io/topic?id=4558)
+* [The Untold Story of SQLite With Richard Hipp - CoRecursive Podcast](https://corecursive.com/066-sqlite-with-richard-hipp/)
+  * [**SQLite의 알려지지 않은 이야기 | GeekNews**](https://news.hada.io/topic?id=4558)
 * [Show HN: SQLite query inside a Bash function | Hacker News](https://news.ycombinator.com/item?id=27762201)
 * [Using sqlite3 as a notekeeping document graph with automatic reference indexing](https://epilys.github.io/bibliothecula/notekeeping.html)
-* [The Untold Story of SQLite With Richard Hipp - CoRecursive Podcast](https://corecursive.com/066-sqlite-with-richard-hipp/)
+* [35% Faster Than The Filesystem](https://www.sqlite.org/fasterthanfs.html)
+* [Hosting SQLite databases on Github Pages - (or any static file hoster) - phiresky's blog](https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/)
+* [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
 * [litestream: Streaming S3 replication for SQLite](https://github.com/benbjohnson/litestream)
 * [react-native-sqlite-storage - SQLite Native Plugin for React Native](https://github.com/andpor/react-native-sqlite-storage)
@@ -962,10 +1025,16 @@ SQL
     * [7년간의 오픈소스 DB 개발에서 배운 것 | GeekNews](https://news.hada.io/topic?id=4096)
 * [simple-graph: This is a simple graph database in SQLite, inspired by "SQLite as a document database"](https://github.com/dpapathanasiou/simple-graph)
 * [sqlean: All the missing SQLite functions](https://github.com/nalgeon/sqlean)
+* [SQLime - SQLite Playground](https://sqlime.org/)
+  * [SQLime - 온라인 SQLite Playground | GeekNews](https://news.hada.io/topic?id=5153)
 * [sqlitestudio.pl](http://sqlitestudio.pl/)
 
 ## SQLite Python
 * [SQLServer JDBC의 이상한 동작](http://www.popit.kr/sqlserver-jdbc%EC%9D%98-%EC%9D%B4%EC%83%81%ED%95%9C-%EB%8F%99%EC%9E%91/)
 * [A simple Python script to document the SQLite databases](https://towardsdatascience.com/a-simple-python-script-to-document-the-sqlite-databases-7932aa462cd8)
 * [Do You Know Python Has A Built-In Database? | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/do-you-know-python-has-a-built-in-database-d553989c87bd)
+* [Towards Inserting One Billion Rows in SQLite Under A Minute - blag](https://avi.im/blag/2021/fast-sqlite-inserts/)
+* [파이썬 Python 코딩 - 전화번호부 만들기2 (SQLite DB 사용) - YouTube](https://www.youtube.com/watch?v=1JGWWH95O1g)
 * [SimpleSQLite - Python library to simplify the table creation and data insertion in SQLite database (Automatic table creation from data. Support various data type for insertion: dictionary/namedtuple/list/tuple) http://simplesqlite.readthedocs.org/en/stable/apis/simplesqlite.html](https://github.com/thombashi/SimpleSQLite)
+* [SQLite-Image-Handler: Simple to use image handler for python sqlite3.](https://github.com/mozancetin/SQLite-Image-Handler)
+  * [Simple to use image handler for python sqlite3](https://pythonawesome.com/simple-to-use-image-handler-for-python-sqlite3/)

@@ -30,6 +30,7 @@ App
 * [5 Free Software That Are Actually Great! 3 (2018)](https://www.youtube.com/watch?v=9-Sj_4495nQ)
 * [No More Google - Privacy-friendly alternatives to Google that don't track you](https://nomoregoogle.com/)
 * [Hacker News Tools of the Trade](https://github.com/cjbarber/ToolsOfTheTrade) 프로젝트 빌드를 위한 모든 SaaS 모음
+* [널리 세상을 ‘클라우드’하다··· SaaS 기업 27선 - CIO Korea](https://www.ciokorea.com/news/203314)
 * [Tools for Makers - a hand curated directory of tools for makers to work on their dream projects](https://toolsformakers.com/)
 * [Confluence를 이용한 프로젝트 현황판](https://www.popit.kr/confluence%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%98%84%ED%99%A9%ED%8C%90)
 * [2018년 우리가 주로 활용한 기획 업무 관련 툴은 무엇일까?](http://icunow.co.kr/2018-survey/)
@@ -55,9 +56,9 @@ App
 * [모두의 프린터](https://modu-print.tistory.com/)
 * [**the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more**](https://github.com/trimstray/the-book-of-secret-knowledge) 엄청나게 다양한 여러가지 tool
 * [5 open source tools I can't live without | Opensource.com](https://opensource.com/article/20/10/open-source-tools) tmate, ix, asciinema, GNOME Pomodoro, Jitsi
+* [Best Collaboration Tools in 2021 – Survey Results | The Space Blog](https://blog.jetbrains.com/space/2021/07/16/best-collaboration-tools/)
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
-* [Anki - Powerful, intelligent flash cards. Remembering things just became much easier](https://apps.ankiweb.net/)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
 * [Archivy - self-hosted knowledge repository](https://archivy.github.io/)
   * 북마킹한 웹페이지 내용을 로컬에 자동 저장
@@ -66,6 +67,8 @@ App
   * 파이썬 오픈소스 : Flask 웹앱 + Click 으로 만든 CLI
   * 플러그인 시스템 : Pocket/HN 을 자동 저장, Git연동
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)
+* [Bonsai | Web Browser for Research](https://bonsaibrowser.com/)
+  * [Bonsai - 개발자 워크플로우를 도와주는 웹브라우저 | GeekNews](https://news.hada.io/topic?id=4976)
 * [cool-retro-term - A good looking terminal emulator which mimics the old cathode display...](https://github.com/Swordfish90/cool-retro-term)
 * [DeepSound is a steganography tool and audio converter that hides secret data into audio files](http://jpinsoft.net/DeepSound/)
 * [Diffchecker - Online diff tool to compare text to find the difference between two text files](https://www.diffchecker.com/)
@@ -81,6 +84,7 @@ App
 * Figma
   * [기획자, 디자이너, 퍼블리셔의 경계를 허무는 물건, Figma](https://medium.com/@gssisaac/%EA%B8%B0%ED%9A%8D%EC%9E%90-%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88-%ED%8D%BC%EB%B8%94%EB%A6%AC%EC%85%94%EC%9D%98-%EA%B2%BD%EA%B3%84%EB%A5%BC-%ED%97%88%EB%AC%B4%EB%8A%94-%EB%AC%BC%EA%B1%B4-figma-f9bd1162ebd4)
   * [주니어 개발자가 Figma로 로고 디자인 해본 썰.txt - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/12/27/Refatoring-Logo-with-Figma.html)
+  * [소규모 팀을 위한 Figma 디자인 핸드오프 시스템 (파일 공유) | by Jiyu Han | Jul, 2021 | Medium](https://jiyu0719.medium.com/%EC%86%8C%EA%B7%9C%EB%AA%A8-%ED%8C%80%EC%9D%84-%EC%9C%84%ED%95%9C-figma-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%95%B8%EB%93%9C%EC%98%A4%ED%94%84-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%8C%8C%EC%9D%BC-%EA%B3%B5%EC%9C%A0-cf497b4f7f87)
 * [fra.me](https://fra.me/)
   * [프레임 “웹브라우저에서 윈도우 프로그램 쉽게 띄우세요”](http://www.bloter.net/archives/233836)
 * [immersion - a people-centric view of your email life](https://immersion.media.mit.edu/)
@@ -116,6 +120,8 @@ App
   * [Book, again by code](https://lqez.github.io/blog/book-again-by-code.html) pycon program (종이) book 제작기
   * [오프라인으로 PDF 파일을 회전/결합/압축하려면?](https://jhrogue.blogspot.com/2020/09/pdf.html)
   * [Beautiful PDFs from HTML](https://pdf.math.dev/)
+  * [리뷰 | 무료 온라인 PDF 편집기 ‘PDF 캔디’ 44가지의 도구로 대부분의 작업 처리 - ITWorld Korea](https://www.itworld.co.kr/news/205379)
+  * [borb | Read, write, and edit PDF files with borb, a pure python library](https://borbpdf.com/)
   * [FalsiScan: Make it look like a PDF has been hand signed and scanned](https://gitlab.com/edouardklein/falsisign)
   * [mupdf - mirrored from git://git.ghostscript.com/mupdf.git http://mupdf.com ](https://github.com/ccxvii/mupdf)
   * [PDFtk Server - our command-line tool for working with PDFs. It is commonly used for client-side scripting or server-side processing of PDFs](https://www.pdflabs.com/tools/pdftk-server/)
@@ -145,6 +151,7 @@ App
 * [SpeedCrunch - a high-precision scientific calculator featuring a fast, keyboard-driven user interface](https://speedcrunch.org/)
 * [startupstash.com](http://startupstash.com/)
 * [StarUML 2](http://staruml.io/)
+* [TableCloth: 식탁보 프로젝트](https://github.com/yourtablecloth/TableCloth) 윈도우 샌드박스를 이용해 인터넷 뱅킹/전자정부 인터넷 서비스를 사용하도록 하는 프로젝트
 * [Terminus - a terminal heavily inspired by Hyper](https://github.com/Eugeny/terminus)
 * [TextBundle - file format aims to provide a more seamless user experience when exchanging plain text files, like Markdown or Fountain, between sandboxed applications](http://textbundle.org/)
 * Tor
@@ -157,6 +164,8 @@ App
   * [How to install ubuntu on VirtualBox with vagrant](https://devgrill.com/how-to-install-ubuntu-on-virtualbox-with-vagrant-2/)
   * [How to provision an Nginx server on VirtualBox using vagrant](https://devgrill.com/how-to-provision-an-nginx-server-on-virtualbox-using-vagrant/)
   * [ngrok](https://dev-yakuza.github.io/ko/environment/ngrok/)
+* [Ventoy: A new bootable USB solution.](https://github.com/ventoy/Ventoy)
+  * ['벤토이'를 활용한 궁극의 윈도우 복구 드라이브 만들기 - ITWorld Korea](https://www.itworld.co.kr/news/205159)
 * VirtualBox
   * [Install OS X 10.10 Yosemite in VirtualBox](http://blog.frd.mn/install-os-x-10-10-yosemite-in-virtualbox/)
   * [HOWTO: Moving a Windows (XP) installation from a broken PC to a new one... using Virtualbox](http://thegoodcodeinn.blogspot.kr/2015/10/howto-moving-windows-xp-installation.html)
@@ -169,6 +178,7 @@ App
   * [**macos-virtualbox: Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox for Windows, Linux, and macOS**](https://github.com/myspaghetti/macos-virtualbox)
   * [버추얼박스에 맥(macOS) 카탈리나 설치하는 방법 - 익스트림 매뉴얼](https://extrememanual.net/34793)
   * [kkamagui의 작업실 :: 오라클 버추어박스(Oracle Virtualbox) 빌드하기](https://kkamagui.tistory.com/937)
+  * [Infra 버추얼박스(virtualbox)에 우분투 설치하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/virtualbox-ubuntu/)
 * Vivaldi
   * [vivaldi 웹브라우저 써보세요](https://swifter.kr/vivaldi-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EC%8D%A8%EB%B3%B4%EC%84%B8%EC%9A%94/)
 * Wallpaper
@@ -221,6 +231,8 @@ App
   * [Making a Website Using Blogdown, Hugo, and GitHub pages](https://proquestionasker.github.io/blog/Making_Site/)
   * [A New Website with Blogdown package](https://ecosang.github.io/blog/miscellaneous/new-website-with-blogdown/)
 * [BookStack - a simple, self-hosted, easy-to-use platform for organising and storing information](https://www.bookstackapp.com/)
+* [crssnt: 🥐 Open source RSS feed generator for Google Sheets](https://github.com/tgel0/crssnt)
+  * [crssnt - 구글 시트에서 RSS 생성하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=4860)
 * [DocLayer - Create beautiful documents](https://standaert.net/doclayer/)
 * [Docusaurus - Easy to Maintain Open Source Documentation Websites](https://docusaurus.io/)
 * [Editoy NoteSheet, Draft](https://medium.com/@goodhyun/editoy-notesheet-editoy-draft-e32c9d2a7eaa)
@@ -315,11 +327,12 @@ App
   * [Universal theme to Hugo](https://github.com/devcows/hugo-universal-theme)
   * [Two ways to deploy a public GitHub Pages site from a private Hugo repository](https://medium.freecodecamp.org/two-ways-to-deploy-a-public-github-pages-site-from-a-private-hugo-repository-627312ec63b9)
   * [블로그 리브랜딩 & 텀블러에서 깃헙페이지+휴고(HUGO)로](https://iamsang.com/blog/2017/05/22/blog-rebranding-and-from-tumblr-to-github-page-and-hugo/)
+  * [Hugo에 쉽게 글쓰기 - Burt.K](https://blog.burt.pe.kr/posts/skyfe79-blog.contents-970590914-post-9/)
 * [makesite.py - Take full control of your static website/blog generation by writing your own simple, lightweight, and magic-free static site generator in Python](https://github.com/sunainapai/makesite)
 * MediaWiki
   * [MediaWiki 활용](http://blog.prettymay.com/)
 * [Medium CLI - Medium from your command line!](https://github.com/lambtron/medium-cli)
-* [medium-unlimited: A browser extension to read medium.com articles for free without membership](https://github.com/manojVivek/medium-unlimited)
+* [**medium-unlimited: A browser extension to read medium.com articles for free without membership**](https://github.com/manojVivek/medium-unlimited)
 * [Mickey - A minimal one-column theme for Jekyll](https://github.com/vincentchan/Mickey)
 * [squall.io](http://squall.io/)
 * [pages.github.com](https://pages.github.com/)
@@ -374,22 +387,31 @@ App
 * [Things you may not know about Chrome DevTools](https://dev.to/lpellis/things-you-may-not-know-about-chrome-devtools-53k6)
 * [<번역>시니어 프론트엔드 개발자처럼 크롬 개발자도구 사용하기](https://junwoo45.github.io/2020-07-28-chrome_devtools/)
 * [크롬 데브툴(devtools) 디버깅 사용하기 - YouTube](https://www.youtube.com/watch?v=Mg74cmtEArc)
+* [남들 모르는 크롬 개발자도구 소소한 기능 8개 - YouTube](https://www.youtube.com/watch?v=toXJLUa7i0Y)
 * [Tools I wish I had known about when I started coding](https://medium.freecodecamp.org/tools-i-wish-i-had-known-about-when-i-started-coding-57849efd9248)
 * [데스크톱 프로그레시브 웹 앱](https://hyeonseok.com/soojung/dev/2018/11/14/844.html)
 * [Features of the Chrome API you should know](https://medium.freecodecamp.org/features-of-the-chrome-api-you-should-know-bf5c8b6c7733)
 * [크롬 확장프로그램 개발⛏️ 회고](https://zuminternet.github.io/Zum-Chrome-Extension/)
+* [크롬 확장 플러그인 톺아보기 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/01/08/chrome-devtools-in-depth.html)
+* [Vue.js로 크롬 확장 프로그램 만들기 강의 - 1부 - peterkimzz](https://www.peterkimzz.com/vuejs-chrome-extension-1/)
+* [Vue.js로 크롬 확장 프로그램 만들기 강의 - 2부 - peterkimzz](https://www.peterkimzz.com/vuejs-chrome-extension-2/)
+* [Vue.js로 크롬 확장 프로그램 만들기 강의 - 3부 - peterkimzz](https://www.peterkimzz.com/vuejs-chrome-extension-3/)
 * [10 Awesome Chrome Flags You Should Enable Right Now | by Sanjeet Chatterjee | Better Programming | Jul, 2020 | Medium](https://medium.com/better-programming/10-awesome-chrome-flags-you-should-enable-right-now-2684e4518cb5)
 * [Hidden Features of Chrome DevTools | by Martin Heinz | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/hidden-features-of-chrome-devtools-33d9de390dc0)
 * [**Chrome에서 네트워크 테스트를 할 때의 Tip**](https://developer88.tistory.com/320)
 * [웹 스토리지 : 무엇을 써야할까요?](https://han41858.tistory.com/54)
-* [크롬 확장 플러그인 톺아보기 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/01/08/chrome-devtools-in-depth.html)
+* ['업무 줄이고 퇴근 당기는' 크롬 브라우저 활용 팁 8가지 - ITWorld Korea](https://www.itworld.co.kr/news/201124)
 * [Async Cookie Store API 살펴보기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20201027/)
+* [Google Chrome to remove detailed cookie and site data controls](https://lapcatsoftware.com/articles/chrome-cookie.html)
 * thisisunsafe [How to get through Chrome security error pages - Miguel Piedrafita](https://miguelpiedrafita.com/chrome-thisisunsafe)
 * [리스틀리 - 세상에서 가장 빠른 웹 데이터 추출](https://www.listly.io/ko) crawler
   * [아마존과 쿠팡이 쓰는 툴이 한국 SW였다 : 개발자 필요없는 크롤링 서비스 리스틀리 사용기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233475)
+* [Bubbles: Video and Screenshot Collaboration](https://www.usebubbles.com/)
+  * ["번거로운 화상회의 이제 그만" 말풍선으로 아이디어 공유하는 크롬 확장 프로그램 '버블스' - ITWorld Korea](https://www.itworld.co.kr/news/201594)
 * [codecopy: A browser extension that adds copy to clipboard buttons on every code block](https://github.com/zenorocha/codecopy)
 * my notes [“크롬 새 탭을 메모장으로” 화려하지 않아도 실용적인 마이 노트(My Notes) - ITWorld Korea](http://www.itworld.co.kr/news/167215)
 * nuTab [Quick Notes New Tab Chrome Extension - nuTab](https://nutab.co/)
+* [one-click-extensions-manager: a simple chrome extension to manage chrome extension](https://github.com/hankxdev/one-click-extensions-manager)
 * Requestly [Udemy강좌 Full HD로 보기](https://www.javastudy.net/2019/04/22/udemy%EA%B0%95%EC%A2%8C-full-hd%EB%A1%9C-%EB%B3%B4%EA%B8%B0/)
 * [screenity: The most powerful screen recorder & annotation tool for Chrome 🎥](https://github.com/alyssaxuu/screenity)
 * Snippyly [“공유를 넘어 협업으로” 크롬에서 스크린샷을 공유하는 가장 똑똑한 방법 - ITWorld Korea](https://www.itworld.co.kr/news/189733)
@@ -405,6 +427,8 @@ App
 * [“우리도 있다” 업무용 오픈소스 화상회의 툴 10선 - ITWorld Korea](https://www.itworld.co.kr/news/173069)
 * [Excalidraw | Hand-drawn look & feel • Collaborative • Secure](https://excalidraw.com/)
   * [Excalidraw - 오픈소스 가상 칠판 협업도구 | GeekNews](https://news.hada.io/topic?id=4234)
+* [LiveKit - Open source infrastructure for real time audio and video.](https://livekit.io/)
+  * [LiveKit - 실시간 커뮤니케이션 플랫폼 오픈소스 | GeekNews](https://news.hada.io/topic?id=4642)
 * [makepagecall.com/](https://www.makepagecall.com/) 화상 통화 + canvas(칠판)
 * [Nettu Meet - 온라인 강의를 위한 오픈소스 화상 회의 시스템 | GeekNews](https://news.hada.io/topic?id=4437)
 * [Strive](https://www.openstrive.org/)
@@ -445,7 +469,7 @@ App
   * Enhancd, The Fuck, Git Stats, Autojump, Bat, Oh my ZSH, Fony
 * [윈도우 컨테이너용 SQL Server 구동 스크립트 - 📤 정보 공유 - 닷넷데브](https://forum.dotnetdev.kr/t/sql-server/871)
 * [웹 서비스 구현의 모든 것! 무료 제작툴 39개 몽땅 알려드림! - YouTube](https://www.youtube.com/watch?v=u3Ph_M2bySg&list=PLHiW_ibXGXcXmAy0wbF8urO30wsbW9QBk)
-  * 기획 http://trello.com https://www.notion.so
+  * 기획 trello notion
   * 디자인 https://www.figma.com
   * 사진 https://unsplash.com
   * 코드 에디터 https://code.visualstudio.com
@@ -467,6 +491,9 @@ App
   * 피드 getstream.io
   * 분석 analytics.google.com https://www.hotjar.com https://mixpanel.com
   * 시간관리 https://wakatime.com
+* [포트폴리오(개발 프로젝트) 제작시 도움이 되는 도구들 - 1](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%A0%9C%EC%9E%91%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%EC%8B%9C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-1) slack, tandem, MS teams, notion, trello, github projects, whimsical, figma
+* [포트폴리오(개발 프로젝트) 제작시 도움이 되는 도구들 - 2 (설계, 테스팅)](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%9E%91%EC%8B%9C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-2) ERDCloud, PlantUML, Swagger UI, Rest Client, SonarQube
+* [포트폴리오(개발 프로젝트) 제작시 도움이 되는 도구들 - 3 (CI/CD, Hosting)](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%9E%91%EC%8B%9C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-3-CICD-Hosting) Github Actions, Jenkins, Heroku, Netlify
 * [aquerytool.com](http://aquerytool.com/) DB schema
 * [asdf: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more](https://github.com/asdf-vm/asdf)
   * [asdf - An extendable version manager](https://asdf-vm.com/)
@@ -478,17 +505,21 @@ App
 * [Dash is an API Documentation Browser and Code Snippet Manager](https://kapeli.com/dash)
   * [Dash란?](http://byron1st.pe.kr/?p=244)
 * [docz - It has never been so easy to document your things! https://docz.site](https://github.com/pedronauck/docz)
+* [filesremote: An SSH file manager that lets you edit files like they are local](https://github.com/allanrbo/filesremote)
+  * [FilesRemote - SSH 파일 매니저 | GeekNews](https://news.hada.io/topic?id=4867)
+* [Hack | A typeface designed for source code](https://sourcefoundry.org/hack/)
 * [Lando - A Local Dev Tool For Every Project | Lando](https://lando.dev/)
 * mysetting [**Develop. Share. Discover. For developers - mysetting**](https://mysetting.io/)
 * [n8n.io - Open Source Alternative for Zapier/tray.io](https://n8n.io)
-* [Nix - a tool that takes a unique approach to package management and system configuration](https://nixos.org/)
 * [peco: Simplistic interactive filtering tool](https://github.com/peco/peco)
   * [**Peco 사용법: 커맨드라인 텍스트 증분검색 필터링 도구 | 44BITS**](https://www.44bits.io/ko/post/incremental-search-tool-peco)
-* [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
+* [Prefect - The New Standard in Dataflow Automation - Prefect](https://www.prefect.io/)
+  * [Prefect | Dable Tech Blog](https://teamdable.github.io/techblog/Prefect)
 * [Skynet - The decentralized CDN and file sharing platform for devs](https://siasky.net/)
 * [Sourcetrail - The offline cross-platform source explorer Get productive on unfamiliar source code](https://www.sourcetrail.com/)
 * [TeamGantt - Online Gantt Chart Software](https://www.teamgantt.com/)
 * Termius [멀티 플랫폼 SSH 클라이언트: Termius](https://macnews.tistory.com/5728)
+* Zapier [바쁜 실무자를 위한 자동화 Tool - Zapier](https://brunch.co.kr/@expnote/62)
 * [Zeal - An offline documentation browser inspired by Dash](https://zealdocs.org/)
 
 ## Development Project Management
@@ -496,7 +527,11 @@ App
 * [The Next Wave of Work Management Software](https://hackernoon.com/the-next-wave-of-work-management-software-81f392c728e3)
 * [**Airtable**](https://airtable.com/) Zenkit, Notion, Coda
 * [monday.com](https://monday.com/)
+* [Nix - a tool that takes a unique approach to package management and system configuration](https://nixos.org/)
 * [nocodb: 🔥 🔥 The Open Source Airtable alternative](https://github.com/nocodb/nocodb)
+* [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
+* [Trello](https://trello.com/)
+  * [5천만 명이 이용하는 협업 ·업무관리 툴··· ‘트렐로’ 따라잡기 - CIO Korea](https://www.ciokorea.com/news/206324)
 
 ## Development Rest client
 * [insomnia - Debug APIs like a human, not a robot Finally, a REST client you'll love](https://insomnia.rest/)
@@ -522,6 +557,7 @@ App
   * [Postman-Extract value from the JSON object array | by Knoldus Inc. | Medium](https://medium.com/@knoldus/postman-extract-value-from-the-json-object-array-af8a9a68cc01)
   * [javascript - Parse JSON Array in Postman - Stack Overflow](https://stackoverflow.com/questions/58896047/parse-json-array-in-postman)
   * [Postman Tutorial Part 35 – Extracting Value From JSON Array Response in Postman – JSON Array Parsing in Postman - Make Selenium Easy](http://makeseleniumeasy.com/2019/08/24/postman-tutorial-part-35-extracting-value-from-json-array-response-in-postman-json-array-parsing-in-postman/)
+  * [Testing your APIs with Postman and Newman - YouTube](https://www.youtube.com/watch?v=fTtA9qXkNAk)
 * [postwoman.io](https://postwoman.io/)
 * RestLet_Client [REST API 테스트를 위한 유용한 툴(Chrome Extension : RestLet_Client)](https://www.linkedin.com/pulse/rest-api-%25ED%2585%258C%25EC%258A%25A4%25ED%258A%25B8%25EB%25A5%25BC-%25EC%259C%2584%25ED%2595%259C-%25EC%259C%25A0%25EC%259A%25A9%25ED%2595%259C-%25ED%2588%25B4chrome-extension-restletclient-jun-hee-shin/)
 * [wuzz - Interactive cli tool for HTTP inspection](https://github.com/asciimoo/wuzz)
@@ -554,8 +590,10 @@ App
     * [Become The Shortcut Master — Chrome and Atom (Part 2)](https://hackernoon.com/become-the-shortcut-master-chrome-and-atom-part-2-c866150caa7)
     * [텍스트 에디터 Atom(아톰) 패키지 추천(Activate Power Mode)](https://webruden.tistory.com/81)
     * [The Ultimate Atom Editor Setup (+for JS/React)](https://medium.com/productivity-freak/my-atom-editor-setup-for-js-react-9726cd69ad20)
+    * [Atom을 마크다운 에디터로 사용하기 (feat. Mac OS)](https://jojoldu.tistory.com/601)
   * VS Code, visual studio code
     * [VS Code 소개 및 설치방법](http://gomcine.tistory.com/entry/VS-Code-%EC%84%A4%EC%B9%98-%EB%B0%8F-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0)
+    * [Visual Studio Code 기본 사용법 - YouTube](https://www.youtube.com/watch?v=K8qVH8V0VvY)
     * [Visual Studio Code를 파이썬 IDE 로 이용해 보기](http://mcchae.egloos.com/11262544)
     * [Visual Studio Code의 Golang 개발 환경](https://blog.outsider.ne.kr/1351)
     * [개발 생산성을 올려주는 VSCode의 소소(?)한 기능들](https://www.vobour.com/%EA%B0%9C%EB%B0%9C-%EC%83%9D%EC%82%B0%EC%84%B1%EC%9D%84-%EC%98%AC%EB%A0%A4%EC%A3%BC%EB%8A%94-vscode%EC%9D%98-%EC%86%8C%EC%86%8C-%ED%95%9C-%EA%B8%B0%EB%8A%A5%EB%93%A4)
@@ -607,6 +645,7 @@ App
     * [⚙️VSCode 자동 저장 기능 #삽질줄이기 - YouTube](https://www.youtube.com/watch?v=GdebOaCQEcI)
     * [Deep dive into Visual Studio Code extension security vulnerabilities | Snyk](https://snyk.io/blog/visual-studio-code-extension-security-vulnerabilities-deep-dive/)
     * [Vulnerable Visual Studio Code extensions impact over 2M Developers | Snyk](https://snyk.io/blog/vulnerable-visual-studio-code-extensions-marketplace/)
+    * [How To Set Up VS Code for PHP Development with PHP Intelephense | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-visual-studio-code-for-php-projects)
     * [codetour: VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor](https://github.com/microsoft/codetour)
     * Debug
       * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
@@ -641,6 +680,11 @@ App
       * ['개발 작업 간소화하는' 비주얼 스튜디오 코드 확장 기능 4가지 - CIO Korea](https://www.ciokorea.com/news/171724)
       * [Try Out New Vs Code Features for Improved Productivity | by Ravi | Analytics Vidhya | Nov, 2020 | Medium](https://medium.com/analytics-vidhya/try-out-new-vs-code-features-for-improved-productivity-29d3969ad872)
       * [Top 10 VS Code extensions for 2021 - LogRocket Blog](https://blog.logrocket.com/top-10-vs-code-extensions-2021/)
+      * [Visual Studio 신나는 코드 타이핑 - 파워모드(PowerMode)](https://skuld2000.tistory.com/89)
+      * [간단한 VSCode Extension 만들기 예제 - YouTube](https://www.youtube.com/watch?v=R671qx3m7vo)
+      * [Top 5 Must-have VS Code extensions](https://open-support.tistory.com/entry/Top-5-Must-have-VS-Code-extensions)
+      * [VSCode Extensions: 8 Must Have VSCode Plugins in 2021 | CodersTea](https://www.coderstea.com/post/tools/every-programmer-needs-these-vscode-extensions/)
+      * [VSCode에서 Bracket Pair Colorizer 삭제하고 내장 기능 사용하기 | by Bora Lee | Oct, 2021 | Medium](https://violetboralee.medium.com/vscode%EC%97%90%EC%84%9C-bracket-pair-colorizer-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B3%A0-%EB%82%B4%EC%9E%A5-%EA%B8%B0%EB%8A%A5-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-e75558a87990)
     * Git
       * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
       * [mac에서 visual studio code를 git commit editor로 설정하기](http://blog.woniper.net/352)
@@ -648,6 +692,7 @@ App
       * [VS CODE Git 5k 없애는 방법(how to delete vs code git 5k)](https://seanlion.github.io/blog/25)
       * [GitHub and VS Code | Bring your favorite tools to all the places you code](https://vscode.github.com/)
       * [VS Code tips: The Git Graph extension - YouTube](https://www.youtube.com/watch?v=u9ZQpKGTog4)
+      * [VSCode 확장 - Git File Histoty](https://velog.io/@juunini/VSCode-%ED%99%95%EC%9E%A5-Git-File-Histoty)
     * Online
       * [Visual Studio Online 어디에서든 액세스 가능한 클라우드 기반 개발 환경](https://visualstudio.microsoft.com/ko/services/visual-studio-online/)
       * [visual studio online tutorial | 사용법부터 장점과 단점까지 !](https://www.youtube.com/watch?v=HUhFSbwvloM)
@@ -668,7 +713,15 @@ App
       * [How to correctly set PYTHONPATH for Visual Studio Code - Stack Overflow](https://stackoverflow.com/questions/53653083/how-to-correctly-set-pythonpath-for-visual-studio-code)
       * [Has VS Code Become the Best IDE for Python? | Young Coder | Matthew MacDonald | Young Coder](https://medium.com/young-coder/has-vs-code-become-the-best-ide-for-python-bf0f92d2aef4)
       * [VSCode on Google Colab](https://amitness.com/vscode-on-colab/)
+      * [How to Use Google Colab with VS Code](https://www.freecodecamp.org/news/how-to-use-google-colab-with-vs-code/)
       * [VSCode's Python Interactive mode is AMAZING! - YouTube](https://www.youtube.com/watch?v=lwN4-W1WR84)
+      * [Python in Visual Studio Code – July 2021 Release | Python](https://devblogs.microsoft.com/python/python-in-visual-studio-code-july-2021-release/)
+      * [김명신: Python 개발을 위한 최상의 무료 개발 도구 Visual Studio와 Visual Studio Code - PyCon Korea 2015](https://www.youtube.com/watch?v=QzfalQn1lc0)
+      * [Dan Taylor - Get Productive with Python in Visual Studio Code](https://www.youtube.com/watch?v=6YLMWU-5H9o)
+      * [Python in Visual Studio Code – October 2018 Release](https://blogs.msdn.microsoft.com/pythonengineering/2018/11/08/python-in-visual-studio-code-october-2018-release) jupyter support
+      * [Python in Visual Studio Code – October 2019 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-october-2019-release)
+      * [VSCode의 Jupyter Extension을 사용하여 간단하게 Python으로 데이터 시각화하기 : NHN Cloud Meetup](https://meetup.toast.com/posts/283) 데이터 통계 및 시각화
+      * [VS Code Python Tool Revamps Jupyter Notebooks Experience -- Visual Studio Magazine](https://visualstudiomagazine.com/articles/2021/08/09/vs-code-python-aug21.aspx)
     * remote
       * [마이크로소프트 비주얼 스튜디오 코드, 원격 개발 기능 지원](https://www.44bits.io/ko/post/news--vs-code-now-supports-remote-development)
       * [Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
@@ -685,6 +738,7 @@ App
     * vim
       * [https://www.chrisatmachine.com/Neovim/22-vscodium-neovim/](https://www.chrisatmachine.com/Neovim/22-vscodium-neovim/)
         * [VSCode with embedded Neovim - YouTube](https://www.youtube.com/watch?v=g4dXZ0RQWdw)
+    * [vscode.dev Visual Studio Code for the Web](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [Bear App](https://bear.app/)
@@ -718,8 +772,6 @@ App
   * [Typora 글꼴 변경하기](http://bundokim.tistory.com/43)
 
 # Etc
-* [Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams](http://aprt.us/)
-  * ["Apparatus: A Hybrid Graphics Editor / Programming Environment" by Toby Schachman](https://www.youtube.com/watch?v=i3Xack9ufYk)
 * [bloxp - Export any blog and turn it into a downloadable ebook. Save your favorite blog as a unique, readable file!](http://www.bloxp.com/)
 * latex
   * [Free & Interactive Online Introduction to LaTeX](https://www.overleaf.com/latex/learn/free-online-introduction-to-latex-part-1)
@@ -781,7 +833,6 @@ App
 * [a-Shell - A text-based user interface for a screen-based platform](https://holzschu.github.io/a-Shell_iOS/)
 
 # Linux
-* [8 BEST SCREEN RECORDERS FOR LINUX IN 2017](https://itsfoss.com/best-linux-screen-recorders)
 * [리눅스에서 쓸 수 있는 베스트 그래픽 프로그램 정리](https://www.clien.net/service/board/useful/14961441)
   1. [블렌더 Blender](http://www.blender.org)
     * 오픈 소스 3D 저작 프로그램. 모델링, 리깅, 애니메이션, 시뮬레이션, 렌더링, 합성, 모션 트레킹, 비디오 편집 및 2D 애니메이션 및 3D 파이프라인 전체 지원
@@ -819,6 +870,8 @@ App
 * [20 essential Mac keyboard shortcuts to save you a click | by Popular Science | Popular Science | Medium](https://medium.com/popular-science/20-essential-mac-keyboard-shortcuts-to-save-you-a-click-36a1d71216aa)
 * [Some Differences between macOS and Common Unix Systems](https://www.dyx.name/posts/macunix.html)
 * [Hardening macOS - Ricard Bejarano](https://blog.bejarano.io/hardening-macos/)
+* [Xcode 파일청소로 맥 하드용량 확보 - dobiho on HCI](http://dobiho.com/7192/)
+* [macOS 안내서](https://subicura.com/mac/)
 
 ## Mac App
 * [**practice - 최초 설치 후 install**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)
@@ -880,7 +933,10 @@ App
     * [FFMPEG processing](https://leanpub.com/ffmpeg/read_full)
     * [동영상 파일 미리보기 이미지로 쪼개기 – rein's world](https://rein.kr/blog/archives/4561)
     * [Your browser and my browser see different colors | Mux blog](https://mux.com/blog/your-browser-and-my-browser-see-different-colors/) ffmpeg 자체는 아니지만 사용법 참고
+    * [ffmpeg-screen-record-agent: ffmpeg을 이용한 화면 녹화 에이전트](https://github.com/ryujt/ffmpeg-screen-record-agent)
+      * [10bun.tv](http://ffmpeg-screen-record-agent.s3-website.ap-northeast-2.amazonaws.com/) FFmpeg를 이용한 화면녹화 모듈 개발
     * [FFMPEG.WASM](https://ffmpegwasm.github.io/)
+      * [FFmpeg.wasm을 활용하여 웹에서 GIF 및 MP4 파일를 변환해보자 | by Jusung Hwang | Aug, 2021 | Medium](https://nabigraphics.medium.com/ffmpeg-wasm%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9B%B9%EC%97%90%EC%84%9C-gif-%EB%B0%8F-mp4-%ED%8C%8C%EC%9D%BC%EB%A5%BC-%EB%B3%80%ED%99%98%ED%95%B4%EB%B3%B4%EC%9E%90-8fad6e873008)
     * [vdx: An intuitive CLI for processing video, powered by FFmpeg](https://github.com/yuanqing/vdx)
 * [Mac의 클립보드 명령어 - pbcopy & pbpaste](https://jojoldu.tistory.com/466)
 * [유니버설 클립보드 - 맥북(MacBook)과 아이패드(IPad) 간에 클립보드 공유해서 복사 붙여넣기](https://www.44bits.io/ko/post/clipboard-sharning-between-macbook-and-ipad-using-universal-clipboard)
@@ -888,12 +944,19 @@ App
 * [12 Terminal Tips and Tricks Using macOS and HomeBrew](https://medium.com/better-programming/12-terminal-tips-and-tricks-using-macos-and-homebrew-4e89c2ccb2fb)
 * [URL 별로 상황에 맞는 브라우져 실행하기 - tebica story](https://earlybird.kr/2538) Browserosaurus Finicky
 * [애플 실리콘 M1 맥북 에어에 설치하면 좋을 iOS 앱 5가지 | Open Sea](https://opensea.kr/m1-%EB%A7%A5%EB%B6%81-%EC%97%90%EC%96%B4%EC%97%90-%EC%84%A4%EC%B9%98%ED%95%98%EB%A9%B4-%EC%A2%8B%EC%9D%84-ios-%EC%95%B1-5%EA%B0%80%EC%A7%80/)
+* [주간 인프런 #33 생산성을 높여요 - Mac 추천 생산성 앱 - 인프런 | 스토리](https://www.inflearn.com/pages/weekly-inflearn-33)
 * [3uTools](http://www.3u.com/) Files & Data Management Tool
-* Alfred [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
+* Alfred
+  * [첫 ALFRED WORKFLOW - RAYWENDERLICH.COM RSS READER](http://blog.softdevstory.net/%EA%B0%9C%EB%B0%9C/2016/12/21/my_first_alfred_workflow/)
+  * [네이버 카페 검색용 알프레드 워크플로우 제작 - 코드쓰는사람](https://taegon.kim/archives/10357)
+    * macOS의 생산성 도구 중 하나인 Alfred를 이용해 원하는 네이버 카페에서 바로 검색하는 커스텀 워크플로우 작성 방법 설명
+    * 네이버 카페가 UTF-8이 아니라 CP949이므로 이를 변환하는 Python과 PHP 스크립트를 작성
 * [Android tool for mac](https://github.com/mortenjust/androidtool-mac)
 * [AntiRTDPI macOS kernel extension helping to neutralise Rostelecom's passive DPI](https://github.com/dzhidzhoev/AntiRTDPI) 웹 차단 우회
 * [appcleaner](https://freemacsoft.net/appcleaner/)
-* applescript [Applescript로 간단한 카톡 자동 대화하기](https://jiyeonseo.github.io/2019/12/28/applescript/)
+* applescript
+  * [Applescript로 간단한 카톡 자동 대화하기](https://jiyeonseo.github.io/2019/12/28/applescript/)
+  * [(예제로 알아보는) AppleScript와 Hammerspoon을 이용한 반복업무 자동화](https://spilist.notion.site/AppleScript-Hammerspoon-f5af9b201916431f955a30cc8591ba68)
 * AppPolice [docker kubernetes 활성화시 CPU 점유율 문제](http://mcchae.egloos.com/11310690)
 * [Backgroundifier - Turn your collection of oddly-sized images into beautiful desktop backgrounds!](http://backgroundifier.archagon.net/)
 * [cactusformac.com](http://cactusformac.com/)
@@ -906,12 +969,14 @@ App
 * [Commander One Mac 무료 듀얼 패널 파일 관리자](http://mac.eltima.com/ko/file-manager.html)
 * compress
   * [Password Protect Zip Files in Mac OS X](http://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/)
+* [CotEditor -Text Editor for macOS](https://coteditor.com/)
 * [CP-M-for-OS-X: A z80 emulator + CP/M-80 reimplementation that intends to allow original CP/M software to be used under OS X](https://github.com/TomHarte/CP-M-for-OS-X)
 * [CubicSDR - Cross-Platform and Open-Source Software-Defined Radio Application](http://cubicsdr.com/)
 * [debit and credit](https://debitandcredit.app/) 가계부
 * [diskmaker x - OS X 요세미티 설치 디스크를 클릭만으로 뚝딱 만들 수 있는 'DiskMaker X'](http://macnews.tistory.com/2548)
 * [edgeview](edgeview.co.kr/)
 * [eDEX-UI - A cross-platform, customizable science fiction terminal emulator with advanced monitoring & touchscreen support](https://github.com/GitSquared/edex-ui)
+* [FanFan](https://fanfan.rambo.codes/) soothing sound of computer fans
 * [Fig](https://fig.io/) Fig adds VSCode-style autocomplete to your existing terminal
 * [finicky: A macOS app for customizing which browser to start](https://github.com/johnste/finicky)
 * [flashlight - the missing Spotlight plugin system](https://github.com/nate-parrott/Flashlight)
@@ -929,6 +994,8 @@ App
 * [hyperterm.org](https://hyperterm.org)
 * [i-funbox.com](http://www.i-funbox.com/) the File and App Management Tool
 * [IINA - The modern media player for macOS](https://iina.io/)
+  * [맥 어플 추천 IINA - 최고의 동영상 플레이어](https://truesale.tistory.com/215)
+* itsycal [맥 어플 추천 Itsycal(이치칼) 메뉴 막대 달력](https://truesale.tistory.com/entry/%EB%A7%A5-%EC%96%B4%ED%94%8C-%EC%B6%94%EC%B2%9C-Itsycal%EC%9D%B4%EC%B9%98%EC%B9%BC-%EB%A9%94%EB%89%B4-%EB%A7%89%EB%8C%80-%EB%8B%AC%EB%A0%A5)
 * [**KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)**](https://github.com/newmarcel/KeepingYouAwake)
 * [Keka the macOS file archiver Store more, share with privacy](https://www.keka.io) 압축
 * [Loading - 무료 어떤 프로그램이 인터넷을 사용하고 있는지 OS X 메뉴 막대를 통해 확인하자 'Loading'](http://macnews.tistory.com/3306)
@@ -944,12 +1011,14 @@ App
 * [MonitorControl - Control your external monitor brightness & volume on your Mac](https://github.com/the0neyouseek/MonitorControl)
 * [monodraw.helftone.com](http://monodraw.helftone.com/) ascii art editor, 30 days trial
 * [Monolingual - a program for removing unnecessary language resources from macOS](https://ingmarstein.github.io/Monolingual/) Mojave에서 default로 실행해본 결과 Languages에서 1.96GB, Architectures에서 227MB 삭제
-* [monosnap - 추천 무료앱 막강하고 다채로운 기능으로 무장한 맥용 스크린 캡처계의 '올라운드플레이어' 모노스냅(Monosnap)](http://macnews.tistory.com/1064)
+* [**monosnap - 추천 무료앱 막강하고 다채로운 기능으로 무장한 맥용 스크린 캡처계의 '올라운드플레이어' 모노스냅(Monosnap)**](http://macnews.tistory.com/1064)
 * [mounty - 무료 맥에서 NTFS 드라이브를 읽고 쓸 수 있게 만들어 주는 가벼운 유틸리티 'Mounty'](http://macnews.tistory.com/3043)
 * [MouseTools](http://www.hamsoftengineering.com/codeSharing/MouseTools/MouseTools.html) auto app
 * [Muzzle - silence embarrassing notifications](https://muzzleapp.com/)
 * [n³ The missing terminal file manager for X](https://github.com/jarun/nnn)
 * [**nearlock.me**](http://nearlock.me/)
+* Onyx [Titanium Software | Operating system utilities for Mac - OnyX](https://titanium-software.fr/en/onyx.html)
+  * [리뷰 | 오닉스, 맥 사용자를 위한 필수 무료 시스템 관리 툴 - ITWorld Korea](https://www.itworld.co.kr/news/204814)
 * [**OpenInTerminal - Finder Toolbar app for macOS to open the current directory in Terminal, iTerm, Hyper or Alacritty**](https://github.com/Ji4n1ng/OpenInTerminal)
 * [openldap - vagrant로 설치하는 openldap](http://raspberrypikor.blogspot.com/2016/11/vagrant-openldap.html)
 * Post-it for Mac [3M, 아이폰과의 동기화를 지원하는 Post-it for Mac을 발표](https://tagilog.tistory.com/441)
@@ -984,6 +1053,8 @@ App
 * [Sound Flower](https://code.google.com/p/soundflower/downloads/list)
 * [**Spectacle**](https://github.com/eczarny/spectacle)
   * [www.spectacleapp.com](https://www.spectacleapp.com/)
+* spoof-mac [노트북에서 통신사 WIFI 사용하기](https://brunch.co.kr/@promise4u/186)
+* [ssheven: A modern SSH client for Mac OS 7/8/9](https://github.com/cy384/ssheven)
 * [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
 * [Theine 2 - Caffeine for your Mac](https://www.ixeau.com/apps/theine/) KeepingYouAwake같은 앱
 * [Timeline 3D for mac](http://bedreams.tistory.com/78)
@@ -1012,6 +1083,7 @@ App
     * [Oh My Zsh로 예쁘고 직관적인 터미널 만들기!](http://kkamagui.tistory.com/903) ubuntu 설치
   * [zsh installation](https://github.com/Kevin-Lee/for-linux/blob/master/scripts/zsh/zsh-installation.md)
   * [Oh-My-Zsh! Made for CLI Lovers](https://hackernoon.com/oh-my-zsh-made-for-cli-lovers-bea538d42ec1)
+  * [42 세미나 '최적화에 미친 남자 hmin'의 극한의 마개조 특강! #1. 터미널 + 크롬 - YouTube](https://www.youtube.com/watch?v=NljihG695UY)
 * [MacBook: Dev Setup](https://hackernoon.com/macbook-dev-setup-5890e61a8f0a) homebrew, iterm2, zsh, sdkman등 설치 방법 소개
 * [완벽한 Mac 작업환경 세팅하기 (vim, zsh, iterm)](https://blog.pigno.se/post/184576332493/%EC%99%84%EB%B2%BD%ED%95%9C-mac-%EC%9E%91%EC%97%85%ED%99%98%EA%B2%BD-%EC%84%B8%ED%8C%85%ED%95%98%EA%B8%B0-vim-zsh-iterm)
 * [Mac os에 zsh 세팅하기](https://mishka86.github.io/2019/09/27/zsh-setting/)
@@ -1043,6 +1115,7 @@ App
   * sed [Mac OS X에서 Multi Tab(\t\t) 정리하기](https://jojoldu.tistory.com/542)
 * [Mac에서 개발 환경 (IntelliJ 기반) 꾸미기](https://jojoldu.tistory.com/556)
 * [macOS에서 한글 파일/디렉터리 잘 다루기 – rein's world](https://rein.kr/blog/archives/5378)
+* [gluebyte — 맥에서 깨진 한글 파일명 복구하기](https://gluebyte.tumblr.com/post/132268284865)
 * [Alacritty - Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
 * brew
@@ -1059,6 +1132,7 @@ App
   * [How does Homebrew work? (starring Rust!)](https://medium.com/@jldlaughlin/how-does-homebrew-work-starring-rust-94ae5aa24552)
   * [My Top Homebrew Packages for 2020 Become a power user and improve your productivity](https://medium.com/better-programming/my-top-homebrew-packages-for-2020-b6565d46de85) htop, tldr, jq, ncdu, tmux
   * [M1 맥북에서 처음해야하는 일 - Homebrew부터](http://dalinaum.github.io/mac/2021/03/15/m1-init.html)
+  * [brew-updates: Get Brew Packages to update, just like you've experienced from Ubuntu](https://github.com/code-yeongyu/brew-updates)
 * [DAEMONIZING PROCESSES IN OSX](https://imagineer.in/blog/daemonizing-processes-in-osx/)
 * [dev-setup - macOS development environment setup: Easy-to-understand instructions with automated setup scripts for developer tools like Vim, Sublime Text, Bash, iTerm, Python data analysis, Spark, Hadoop MapReduce, AWS, Heroku, JavaScript web development, Android development, common data stores, and dev-based OS X defaults](https://github.com/donnemartin/dev-setup)
 * [Docker-OSX - Mac in Docker! Run near native OSX-KVM in Docker! X11 Forwarding!](https://github.com/sickcodes/Docker-OSX)
@@ -1101,6 +1175,7 @@ App
     * > it2prof production && cat /Users/{myID}/production-warning.txt && ssh production01
     * ASCII tool [link 1](https://www.patorjk.com/software/taag/#p=display&f=ANSI%20Shadow&t=PRODUCTION) [link 2](https://www.patorjk.com/software/taag/#p=display&f=Calvin%20S&t=PRODUCTION) [link 3](https://www.patorjk.com/software/taag/#p=display&f=Delta%20Corps%20Priest%201&t=PRODUCTION)
   * [iterm2 에 한글 자소 분리 문제](https://jojoldu.tistory.com/580)
+  * [Combining the terminal (iTerm) with the IDE - Alexandru Nedelcu](https://alexn.org/blog/2021/07/18/iterm-open-file-cmd-click-ide-semantic-history.html)
 * [Mac CLI  OS X command line tools for developers](https://github.com/guarinogabriel/mac-cli)
 * [Mac Development Ansible Playbook](https://github.com/geerlingguy/mac-dev-playbook)
   * [Yet Another Puppet vs Chef vs Ansible vs Salt Topic](http://www.emir.works/configuration-management-battlefield/)
@@ -1116,12 +1191,16 @@ App
   * [macnews.tistory.com - search 녹화](http://macnews.tistory.com/location?cx=016639134168469997706%3A1tkvthvnu3y&cof=FORID%3A11&ie=UTF-8&q=%EB%85%B9%ED%99%94)
   * ["백투더맥 블로그에 올라오는 GIF 짤방 동영상은 어떻게 만드나요?" 이렇게 만듭니다](http://macnews.tistory.com/2215)
   * [퀵타임 플레이어를 활용한 조금 색다른 iOS 스크린샷 촬영 방법](http://macnews.tistory.com/3519)
+  * [8 BEST SCREEN RECORDERS FOR LINUX IN 2017](https://itsfoss.com/best-linux-screen-recorders)
   * [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/) web에 upload하지 않으면 자체 형식이라 별도로 play해야 하는 듯
+  * [doitlive: Because sometimes you need to do it live](https://github.com/sloria/doitlive)
+    * [A python tool for live presentations in the terminal](https://pythonawesome.com/a-python-tool-for-live-presentations-in-the-terminal/)
   * [EasyRecorder](https://itunes.apple.com/kr/app/easyrecorder-screen-recorder/id663199114)
   * [GIF Brewery 3 - Video to GIF Creator](https://itunes.apple.com/kr/app/gif-brewery-3-video-to-gif/id1081413713)
   * [GifGrabber - 화면 녹화에서 GIF 변환까지 한방에! 'GifGrabber'](http://macnews.tistory.com/1943)
   * [QuickCast - 화면 녹화와 공유를 원스톱으로 할 수 있는 심플한 스크린캐스트 앱 'QuickCast'](http://macnews.tistory.com/1952)
   * [Repeater - 키보드, 마우스 입력을 녹화하고 재생할 수 있는 매크로 프로그램 'Repeater'](http://macnews.tistory.com/1622)
+  * [ScreenRecorder: ⏺️ A simple recording program with the ability to record screens and audio on your computer](https://github.com/akon47/ScreenRecorder)
   * [ScreenTime - Captures your screen every minute, creates hourly and daily movies](http://seriot.ch/screentime/)
   * [**Screeny - 스크린 캐스트에 특화된 다기능 화면 캡처 프로그램 'Screeny'**](http://macnews.tistory.com/2558)
   * [terminalizer - Record your terminal and generate animated gif images or share a web player https://terminalizer.com ](https://github.com/faressoft/terminalizer) brew install은 미지원, npm 오류로 설치 실패
@@ -1160,12 +1239,14 @@ App
 # Mindmap, Diagram
 * [machow2.com/best-free-alternatives-visio-mac](https://machow2.com/best-free-alternatives-visio-mac/)
 * [Free Flowchart Creator and Workflow Diagram Apps – A Guide for Managers](https://www.freecodecamp.org/news/flow-chart-creator-and-workflow-diagram-apps/)
+* [How to Create Application Architecture Diagram Online?](https://geekflare.com/create-application-architecture-diagram/) Edraw Max, ProcessOn, Creately, Mindmeister, yED, Visual Paradigm
+* [Apparatus is a hybrid graphics editor and programming environment for creating interactive diagrams](http://aprt.us/)
+  * ["Apparatus: A Hybrid Graphics Editor / Programming Environment" by Toby Schachman](https://www.youtube.com/watch?v=i3Xack9ufYk)
 * [asciiflow.com](http://asciiflow.com/)
 * [atlas.mindmup.com](https://atlas.mindmup.com)
 * [AWS 아키텍처 아이콘 아키텍처 다이어그램 구축을 위해 설정된 공식 AWS 아이콘](https://aws.amazon.com/ko/architecture/icons/)
 * [cacoo](https://cacoo.com/)
 * [cloudcraft](https://cloudcraft.co/) Visualize your cloud architecture like a pro. Create smart AWS diagrams
-* [Collaborative Mindmapping Tools](http://c4lpt.co.uk/directory-of-learning-performance-tools/collaborative-mindmapping-tools/)
 * [coggle.it](https://coggle.it/)
 * [DesktopNaotu](https://github.com/NaoTu/DesktopNaotu)
 * [**Diagram as Code for prototyping cloud system architectures** https://diagrams.mingrammer.com ](https://github.com/mingrammer/diagrams)
@@ -1197,6 +1278,17 @@ App
   * [**C4 모델과 C4-PlantUML을 이용한 소프트웨어 구조 다이어그램 만들기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/diagramming-c4-model-c4-plantuml/)
   * [개발자 팁 무료 UML 다이어그램 작성. Visual Studio Code + PlantUML Extension : 클리앙](https://www.clien.net/service/board/lecture/13218515)
   * [간단한 텍스트를 이용하여 멋진 UML 다이어그램을 만들 수 있는 오픈소스 도구입니다](https://plantuml.com/ko/)
+  * [**기존 테이블 구성을 클래스로 시각화하기**](https://brunch.co.kr/@graypool/81)
+  * [시스템의 상태와 상태도 작성](https://brunch.co.kr/@graypool/89)
+  * [데이터 쓰임새 관찰과 표기](https://brunch.co.kr/@graypool/93)
+  * [객체의 상태와 엔티티](https://brunch.co.kr/@graypool/96)
+  * [소프트웨어 디자인 개선을 위한 비대면 협업](https://brunch.co.kr/@graypool/95)
+  * [객체 상태도의 실전 활용](https://brunch.co.kr/@graypool/98)
+  * [복잡한 업무규칙 논의를 촉진하는 상태도](https://brunch.co.kr/@graypool/102)
+  * [Git스러운 지식 정보의 개정(Revision)](https://brunch.co.kr/@graypool/110)
+  * [기부상태 UL로 만들어보기](https://brunch.co.kr/@graypool/118)
+  * [개발 팀에 민주적 소통 절차 수립하기](https://brunch.co.kr/@graypool/144)
+  * [Ubiquitous Language의 효용성](https://brunch.co.kr/@graypool/106)
   * [mindmap-diagram](https://plantuml.com/ko/mindmap-diagram)
   * [Salt (wireframe)](https://plantuml.com/ko/salt)
   * [wbs-diagram](https://plantuml.com/ko/wbs-diagram)
@@ -1209,9 +1301,20 @@ App
 * [StarUML](https://staruml.io/)
 * [swimlanes.io](https://swimlanes.io/)
   * [Swimlanes - 온라인 시퀀스 다이어그램 에디터 | GeekNews](https://news.hada.io/topic?id=4149)
+* [Systemizer - A system design tool](https://honzaap.github.io/Systemizer/)
+  * [Systemizer - 시스템 디자인 시각화 도구 | GeekNews](https://news.hada.io/topic?id=4785)
 * [Terrastruct - A diagramming tool for systems](https://terrastruct.com/)
 * [websequencediagrams.com](https://www.websequencediagrams.com/) 한글 깨짐
 * [Wireflow - user flow chart real-time collaborative tool](https://github.com/vanila-io/wireflow)
+
+## Mindmap
+* [Mindmapping Tools – Centre for Learning & Performance Technologies](http://c4lpt.co.uk/directory-of-learning-performance-tools/mindmapping-tools/)
+* [2021년 Top 10 무료 마인드맵 프로그램 총정리](https://www.edrawsoft.com/kr/program-review/best-mindmapping-softwares.html)
+* [무료 마인드맵 프로그램/어플/사이트 추천 TOP 10 (2020년)](https://gitmind.com/kr/free-mind-map-software.html)
+* [FreeMind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) open source라 써보려고 했으나 너무 느림
+* [GitMind - Free Online Mind Mapping](https://gitmind.com/) twitter account로 사용중
+* MindMeister [Mind Mapping Software: Mind Maps | MindMeister](https://www.mindmeister.com/) basic plan은 mindmap 3개 제한
+* [XMind - Mind Mapping Software](https://www.xmind.net/)
 
 # Multimedia
 * [트위터, 동영상 생중계 앱 ‘페리스코프’ 공개](http://www.bloter.net/archives/224100)
@@ -1225,10 +1328,15 @@ App
 * [AES67 Stream Monitor - aes67.app](https://aes67.app/) Free and Open Source Audio over IP Monitoring App
 * audacity [오픈소스 오디오 편집툴 : Audacity](https://jybaek.tistory.com/801)
 * [Apache OpenMeetings Project – Home](https://openmeetings.apache.org/) video conferencing, instant messaging, white board, collaborative document editing and other groupware tools
+* [AudioKitSynthOne: AudioKit Synth One: Open-Source iOS Synthesizer App](https://github.com/AudioKit/AudioKitSynthOne)
+  * [iOS 오픈소스 뮤직앱 신스 원 : 클리앙](https://www.clien.net/service/board/useful/16359730)
 * AVPlayer [How to set up video streaming in your app with AVPlayer](https://medium.freecodecamp.org/how-to-set-up-video-streaming-in-your-app-with-avplayer-7dc21bb82f3)
+* [AVPress - an in-browser video compressor](https://avpress.zaps.dev/)
+  * [AVPress - 인-브라우저 비디오 압축 도구 | GeekNews](https://news.hada.io/topic?id=4670)
 * [awesomevideoplayer.com](http://www.awesomevideoplayer.com/) multi screen 동시 조작 가능
 * [boltstream: Boltstream Live Video Streaming Website + Backend](https://github.com/benwilber/boltstream)
 * Canva [이미지 편집 서비스 캔바(Canva)](https://www.44bits.io/ko/post/preparing-wtd-meetup-without-a-designer-nor-photoshop#%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%BA%94%EB%B0%94canva)
+* [cmdpxl: totally practical command-line image editor](https://github.com/knosmos/cmdpxl)
 * [다운튜브 DownTube - 동영상 다운로드 프로그램 4K/8K 가능](http://downtube.org/)
 * [ecam - 쉬운 녹화 & 유튜브 방송 프로그램](https://ryulib.tistory.com/471)
 * [ExifTool by Phil Harvey - Read, Write and Edit Meta Information!](https://exiftool.org)
@@ -1241,7 +1349,9 @@ App
 * [Gfycat - 유튜브 영상·GIF 파일을 10분 1 크기로?](http://techholic.co.kr/archives/36747)
 * [ImagePlay is a rapid prototyping tool for building and testing image processing algorithms](http://imageplay.io/)
 * [imgdiff - 정말 빠른 이미지 비교 도구 | GeekNews](https://news.hada.io/topic?id=3390)
+* [Jellyfin: The Free Software Media System](https://jellyfin.org/)
 * [Jitsi.org - develop and deploy full-featured video conferencing](https://jitsi.org/)
+* [jspaint](https://jspaint.app/) 마이크로소프트의 그림판을 자바스크립트로 만든 오픈소스 그림판
 * [MoseoriTube](https://github.com/moseoridev/MoseoriTube) youtube downloader
   * [moseoritube.herokuapp.com](https://moseoritube.herokuapp.com/)
 * [mplayerx.org](http://mplayerx.org) 설치할 때 yahoo 관련 설치가 먼저 나오는데 skip할 것
@@ -1282,6 +1392,7 @@ App
     youtube-dl --output "captions.%(ext)s" --write-auto-sub --skip-download [비디오링크]
     sed '/-->/d' captions.en.vtt | sed '/<c>/d' | sed '/^[[:space:]]*$/d' | uniq > captions.txt
     ```
+  * [yt-dlp: A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
 
 # Note
 * [Boostnote, the opensource note app for developer. https://b00st.io](https://github.com/BoostIO/Boostnote)
@@ -1290,6 +1401,7 @@ App
   * [노 코드 혁명! 5분만에 타이머 앱 만들기!](https://www.youtube.com/watch?v=XbqbLF3NiWw)
   * [우버가 선택한 원페이지 협업툴, Coda – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/141428)
 * [Dynalist - The best outlining app for your best work](https://dynalist.io/)
+* [fsnotes: Notes manager for macOS/iOS](https://github.com/glushchenko/fsnotes)
 * [HTML Notepad – HTML WYSIWYG editor for the rest of us](https://html-notepad.com/)
 * [icloud-notepad](http://www.slashie.org/articles/icloud-notepad/)
 * [Joplin - an open source note taking and to-do application with synchronisation capabilities](https://joplinapp.org/)
@@ -1307,8 +1419,10 @@ App
   * [Andrea's Notion Story](https://www.notion.so/9b54b64c084f4fdaa2e8979f6490ac5f)
   * [구글 캘린더 연동](https://brunch.co.kr/@sijin90/34)
   * [“완벽한 생산성 앱은 없는 걸까?” 당신이 모르던 노션의 세계를 알려준다](https://ppss.kr/archives/204813)
+  * [Notion to presentation slides](https://wunderpresentation.com/create/notion/)
   * [notion-py로 노션(Notion)을 내 블로그의 CMS로 사용하기](https://younho9.dev/notion-as-blog-cms)
   * [notion-py로 노션 CMS 구축하기 - 데이터베이스 활용](https://younho9.dev/notion-cms-using-database)
+  * [notionapi](https://github.com/paullabkorea/notionapi)
 * [paperkit.net](http://paperkit.net/)
 * [paperwork.rocks](http://paperwork.rocks/)
 * [RemNote - 공부하고 글쓰는 사람을 위한 강력한 노트 도구 : SEOULRAIN](https://seoulrain.net/2020/09/12/remnote-review/)
@@ -1322,10 +1436,16 @@ App
 * [Standard Notes | A Simple And Private Notes App](https://standardnotes.org/)
 * [transpose - Structured Notes to Manage Your Business and Life](https://transpose.com/)
 * [Wiki.js](https://wiki.js.org/)
+* [WriteFreely](https://writefreely.org/)
 * [Yorkie](https://yorkie.dev/)
   * [Yorkie Team](https://github.com/yorkie-team)
 
-## Markdown
+## Note Flashcard
+* [Anki - Powerful, intelligent flash cards. Remembering things just became much easier](https://apps.ankiweb.net/)
+* [Zorbi | Spaced Repetition Flashcards | Zorbi | Spaced Repetition Flashcards](https://zorbi.cards/)
+  * [Zorbi - 무료 플래시 카드 | GeekNews](https://news.hada.io/topic?id=4631)
+
+## Note Markdown
 * [존 그루버 마크다운 페이지 번역](http://nolboo.github.io/blog/2013/09/07/john-gruber-markdown/)
 * [놀부의 마크다운 사용법 - 무료 툴을 중심으로 한 워크플로우](http://nolboo.github.io/blog/2014/04/15/how-to-use-markdown/)
 * [마크다운 에디터 고르기](http://astrod.github.io/2015/10/25/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4-%EC%97%90%EB%94%94%ED%84%B0-%EA%B3%A0%EB%A5%B4%EA%B8%B0.html)
@@ -1350,6 +1470,8 @@ App
 * [ghostwriter](https://wereturtle.github.io/ghostwriter/)
 * [hackmd.io](https://hackmd.io/) gist
 * [Haroopad](http://pad.haroopress.com/)
+* [LiaScript](https://liascript.github.io/)
+  * [LiaScript - 마크다운으로 온라인 강좌 만들기 | GeekNews](https://news.hada.io/topic?id=4783)
 * [lookatme: An interactive, terminal-based markdown presenter](https://github.com/d0c-s4vage/lookatme)
   * [lookatme - 터미널 기반 마크다운 프리젠테이션 도구 | GeekNews](https://news.hada.io/topic?id=4433)
 * [Madoko is a fast markdown processor for writing professional articles, books, manuals, webpages and presentations, with a focus on simplicity and plain text readability](https://www.madoko.net/)
@@ -1359,8 +1481,11 @@ App
 * [markdown-to-html](https://github.com/cwjohan/markdown-to-html)
 * [markdowntopdf.com](http://www.markdowntopdf.com/)
 * [marp - Markdown Presentation Ecosystem](https://marp.app/)
+* MDCat [A python script which uses the GitHub API to convert your markdown files to GitHub styled HTML site](https://pythonawesome.com/a-python-script-which-uses-the-github-api-to-convert-your-markdown-files-to-github-styled-html-site/)
+* [milkdown: 🍼 Plugin driven WYSIWYG markdown editor](https://github.com/Saul-Mirone/milkdown)
 * mdjs [Introducing mdjs](https://medium.com/better-programming/introducing-mdjs-6bedba3d7c6f)
 * [Obsidian - A second brain, for you, forever](https://obsidian.md/)
+  * [쓸만한 Obsidian 웹클립퍼가 나왔네요! : 클리앙](https://www.clien.net/service/board/lecture/16394051)
 * [**prose.io**](http://prose.io) github
 * [**readme.so - Easiest Way to Create A README**](https://readme.so/)
 * sokuricat [소쿠리캣 - 마크다운으로 글쓰는 고양이](https://sokuricat.com/)
@@ -1395,6 +1520,7 @@ App
   * [불쌍한 개발자를 데이터 요청에서 해방시키는 방법 - YouTube](https://www.youtube.com/watch?v=32yNrr8rzP0)
   * [‘구글시트’로 30분 만에 공짜 이더리움+ERC20+ERC721 입금 감지 서버 만들기 | by 김선태 | Dooda | Mar, 2021 | Medium](https://medium.com/doodateam/%EA%B5%AC%EA%B8%80%EC%8B%9C%ED%8A%B8%EB%A1%9C-30%EB%B6%84-%EB%A7%8C%EC%97%90-%EA%B3%B5%EC%A7%9C-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-erc20-erc721-%EC%9E%85%EA%B8%88-%EA%B0%90%EC%A7%80-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-8de64dd5a166)
   * [AppsScript를 이용해 구글시트 우편번호 입력 기능 만들기 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/apps-script/)
+  * [Google Sheets - 일정 간격의 값들을 가져와 자동으로 채우기](https://jusths.tistory.com/240)
 * Gmail
   * [5 open source alternatives to Gmail](https://opensource.com/life/15/9/open-source-alternatives-gmail)
   * [Gmail 로 개인 도메인 이메일주소 만들기](https://xguru.net/1963)
@@ -1409,6 +1535,7 @@ App
 * [bitwarden - Solve your password management problems](https://bitwarden.com/) lastpass open source
   * [패스워드 관리 프로그램 비교](https://www.youtube.com/watch?v=d2xMOZgqidI)
   * [비밀번호 관리 프로그램 Bitwarden 소개 및 NAS 설치법 : 클리앙](https://www.clien.net/service/board/lecture/15177864)
+  * [1password 6 -> Bitwarden 패스워드 매니저 바꾸기 - tebica story](https://earlybird.kr/2608)
 * [Enpass: Password Manager for iOS, Android, Linux, Windows, Mac](https://www.enpass.io/)
   * [Enpass password manager 사용 후기 : 클리앙](https://www.clien.net/service/board/cm_iphonien/14169089)
 * [~Fort - a Free Software password manager http://www.ideabyte.net/fort ~](https://github.com/nrosvall/fort)
@@ -1423,6 +1550,7 @@ App
 * [Startpage.com - The world's most private search engine](https://startpage.com/)
 
 # TODOs To-Dos
+* [TODO 리스트 앱 탐험기 - tebica story](https://earlybird.kr/2603)
 * [dynalist.io](https://dynalist.io/) todo
 * workflowy
   * [디자이너에게 WorkFlowy가 필요한 이유](https://webuildproduct.com/%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EC%97%90%EA%B2%8C-workflowy%EA%B0%80-%ED%95%84%EC%9A%94%ED%95%9C-%EC%9D%B4%EC%9C%A0-b3266fe11cb0#.n4focdnhn)
@@ -1462,12 +1590,16 @@ App
 * [원격 데스크톱 연결 시 모니터 여러 대 사용하기](https://bloodguy.tistory.com/1069)
 * [How to Change the Priority of Wireless Networks in Windows 8 or 10](https://www.howtogeek.com/131640/how-to-change-the-priority-of-wireless-networks-in-windows-8/)
 * ["더 빠르고 편리해" 아직도 유효한 윈도우 명령 프롬프트 6가지 - ITWorld Korea](https://www.itworld.co.kr/news/195299) echo powercfg ipconfig tracert sfc chkdsk
+* [내 PC 하드웨어 사양과 제품 정보, 윈도우 10 기본 도구로 알아보기 - ITWorld Korea](https://www.itworld.co.kr/news/200559) HWiNFO Spaccy
+* [CPU TPM BIOS 제한 없이 구형 컴퓨터에서 윈도우11 클린 설치하기 : zelon's blog](http://blog.wimy.com/467/)
 * 복구
   * [recuva](https://www.piriform.com/recuva)
   * [testdisk 7.0](http://www.cgsecurity.org/wiki/TestDisk_Download)
   * [Wise Data Recovery](http://www.wisecleaner.com/wise-data-recovery.html)
   * [WinHex](https://www.x-ways.net/winhex/)
 * [Active Window Logger - A simple MS-Windows (VB 2008) app to smartly log the currently active foreground window of the system](https://github.com/TheCodeArtist/Active-Window-Logger)
+* [Beeftext](https://beeftext.org/)
+  * ["자주 쓰는 문장을 단축키로" 무료 텍스트 확장 툴 '비프텍스트' - ITWorld Korea](https://www.itworld.co.kr/news/205444)
 * [Cairo - Transform your Windows desktop with Cairo](https://cairoshell.com/)
 * [Cmder - a software package created out of pure frustration over the absence of nice console emulators on Windows](http://cmder.net/)
 * [DISKSPD - a storage load generator / performance test tool from the Windows/Windows Server and Cloud Server Infrastructure Engineering teams](https://github.com/microsoft/diskspd)
@@ -1479,6 +1611,7 @@ App
 * HangulJasoFixer [맥에서 보낸 파일명이 윈도우에서 깨질때 - 파일명 자모 분리 현상 :: Sotheb](https://www.sotheb.co.kr/65)
 * [liberkey.com - portable applications](http://www.liberkey.com/en.html)
 * [LICEcap simple animated screen captures](http://www.cockos.com/licecap/)
+* [mactype: Better font rendering for Windows](https://github.com/snowie2000/mactype)
 * [minifb: MiniFB is a small cross platform library to create a frame buffer that you can draw pixels in](https://github.com/emoon/minifb)
 * [mimikatz를 이용하여 윈도우 계정 정보 알아내기 :: Secure my life](https://securitynote.tistory.com/28)
 * [MobaXterm - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more](http://mobaxterm.mobatek.net/)
@@ -1494,6 +1627,7 @@ App
 * [**SharpKeys - a utility that manages a Registry key that allows Windows to remap one key to any other key**](https://sharpkeys.codeplex.com/)
 * [Simplevisor -  simple, portable, Intel VT-x hypervisor](https://ionescu007.github.io/SimpleVisor/)
 * [StaffPad is a brand new class of notation app](http://www.staffpad.net/)
+* [wincompose: 🔣 Compose Key for Windows](https://github.com/samhocevar/wincompose) special key 입력
 * [Worker Bee - Explore all the neat things your computer can do](http://workerbee.tonkworks.com/)
 
 ## Window Installation
@@ -1531,6 +1665,7 @@ App
 * [어느 위치에서 실행하든 경로를 유지하는 배치 파일 만들기. 이번 아티클은 작지만 확실히 유용한 팁 하나를 소개해볼까 합니다. 배치… | by Jung-Hyun Nam | Medium](https://medium.com/@rkttu/%EC%96%B4%EB%8A%90-%EC%9C%84%EC%B9%98%EC%97%90%EC%84%9C-%EC%8B%A4%ED%96%89%ED%95%98%EB%93%A0-%EA%B2%BD%EB%A1%9C%EB%A5%BC-%EC%9C%A0%EC%A7%80%ED%95%98%EB%8A%94-%EB%B0%B0%EC%B9%98-%ED%8C%8C%EC%9D%BC-%EB%A7%8C%EB%93%A4%EA%B8%B0-7b4cb07933d2)
 * [Creating my awesome Windows 10 dev setup | Chimerical](https://chimerical.ca/posts/creating-my-awesome-windows-10-dev-setup)
 * [This is Why Developers Embrace Microsoft Windows Again | by Erik van Baaren | Level Up Coding](https://levelup.gitconnected.com/this-is-why-developers-will-embrace-microsoft-windows-again-7437e494159d)
+* [Windows 10에서 hosts 파일 수정하기](https://offbyone.tistory.com/149)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
@@ -1592,8 +1727,11 @@ App
   * [Microsoft's open source 'Windows Terminal' app reaches stable release](https://www.windowscentral.com/microsofts-open-source-windows-terminal-app-reaches-stable-release)
   * [윈도우 터미널 설치하기](http://dalinaum.github.io/windows/2021/03/10/windows-terminal.html)
 * [Win-builds is a large distribution of binary packages for Windows](http://win-builds.org/doku.php)
+* [WinFsp - Windows File System Proxy | GeekNews](https://news.hada.io/topic?id=4871)
 * [winget : 윈도 앱 설치 관리자(패키지 관리자)](https://sunyzero.tistory.com/271)
 * [winget-cli: Windows Package Manager CLI (aka winget)](https://github.com/microsoft/winget-cli)
+* [WinFsp - Windows File System Proxy | GeekNews](https://news.hada.io/topic?id=4871)
+* [winstall - GUI for Windows Package Manager](https://winstall.app/)
 * [WinUI - The modern native UI platform of Windows](https://microsoft.github.io/microsoft-ui-xaml/)
 * WSL Windows Subsystem for Linux
   * [practice - windows10 & WSL2](https://gist.github.com/hyunjun/cf2af70a460bf00fa5997dea80308b28)
@@ -1639,9 +1777,11 @@ App
   * [WSL에 대해 알아보자.. 이번에는 WSL에 대해 알아보려 한다. | by 미완성의 신 | Medium](https://medium.com/@unfinishedgod/wsl%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-e01eb130bbff)
   * [WSL Python & Jupyter notebook 설치 - 미완성의신](https://unfinishedgod.netlify.app/2021/03/26/wsl-python-jupyter-notebook-%EC%84%A4%EC%B9%98/)
   * [The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux | Windows Command Line](https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/)
+  * [WSL2 에서 리눅스 GUI앱 실행하기](https://open-support.tistory.com/entry/WSL2-%EC%97%90%EC%84%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-GUI%EC%95%B1-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)
   * [GWSL-Source: The actual code for GWSL. And some premade binaries](https://github.com/Opticos/GWSL-Source) python
   * [WSL-DistroManager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://github.com/rkttu/WSL-DistroManager)
-  * [WSLg Architecture | Windows Command Line](https://devblogs.microsoft.com/commandline/wslg-architecture/)
+  * [wslg: Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios](https://github.com/microsoft/wslg)
+    * [WSLg Architecture | Windows Command Line](https://devblogs.microsoft.com/commandline/wslg-architecture/)
     * [Introducing Linux GUI apps running on Windows using the Windows Subsystem for Linux (WSL) - YouTube](https://www.youtube.com/watch?v=f8_nvJzuaSU)
   * [WSL-Hello-sudo: Let's sudo by face recognition of Windows Hello on Windows Subsystem for Linux (WSL). It runs on both WSL 1 and WSL 2. This is a PAM module for Linux on WSL](https://github.com/nullpo-head/WSL-Hello-sudo)
   * [WSL Manager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://wslhub.com/)

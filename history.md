@@ -206,6 +206,7 @@ History
 * [친일은 왜 단죄해야 하는가](http://www.hani.co.kr/arti/opinion/column/731734.html)
 * [조선의 3대 천재 이광수, '밀정' 아내와 이혼한 이유](http://media.daum.net/culture/others/newsview?newsid=20160916160004834&RIGHT_REPLY=R4)
 * [보수층이 굴레를 벗으려는 시도!](http://ttimes.co.kr/view.html?no=2016081615057751505)
+* [애국자 안창호와 친일파 윤치호, 애국가 작사가는 누구? - 오마이뉴스](http://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0002766248&SRS_CD=0000012199)
 
 ## 조선
 * [blog.naver.com/alsn76](http://blog.naver.com/alsn76)
@@ -236,6 +237,7 @@ History
 * [죽고 강간당한 50만은 어디에…‘남한산성’이 거세한 것들](http://www.hani.co.kr/arti/culture/culture_general/815150.html)
 * [개혁이 정말 필요하긴 한가](http://news.khan.co.kr/kh_news/khan_art_view.html?artid=201807252026005&code=990100) 이이 성학집요
 * [철종, 그는 왜 자신의 지식을 숨겼을까 - 오마이스타](http://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0002705659)
+* [돌발행동으로 보수정권 무너뜨린, 조선시대 감사원장 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0002758349&SRS_CD=0000012199) 이행 조광조
 
 ## 고려
 * [가오 지킨(?) 최후의 충신 정몽주 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8249258.html)
@@ -248,6 +250,9 @@ History
 
 ## 고조선
 * [흑요석은 고조선 사람들의 '성공 조건'이었다](http://v.media.daum.net/v/20171022190905447)
+
+## 백제
+* [이기환의 흔적의 역사 '백제의 요서경략' 설파하면 '사이비' '국뽕'인가 - 경향신문](https://www.khan.co.kr/culture/culture-general/article/202108100500001)
 
 # Military
 * [전투와 무기에 관한 세 가지 썰](http://ppss.kr/archives/51712)
@@ -341,6 +346,16 @@ History
 * [삼국지 실제 역사적 배경과 실제 지리](https://www.youtube.com/watch?v=Y5CyZJgiuVE)
 * [정사 삼국지방 파성넷](http://rexhistoria.net/)
 * [홍콩의 싸움: 정체성의 관점에서](http://slownews.kr/73604)
+* [기사 - 홍콩의 진실에 대하여, 프롤로그: 역사는 어떻게 봐야 하는가](https://www.ddanzi.com/ddanziNews/688917829)
+* [기사 - 홍콩의 진실에 대하여 1: 우리는 아편전쟁의 진실을 모른다](https://www.ddanzi.com/ddanziNews/690716496)
+* [기사 - 홍콩의 진실에 대하여 2: 세 개의 정체성](https://www.ddanzi.com/ddanziNews/692269790)
+* [기사 - 홍콩의 진실에 대하여 3: 아편전쟁 이후와 공산당 도피처](https://www.ddanzi.com/ddanziNews/693812215)
+* [기사 - 홍콩의 진실에 대하여 4: 홍콩인 정체성, 탄생하다](https://www.ddanzi.com/ddanziNews/694805428)
+* [기사 - 홍콩의 진실에 대하여 5: 정치를 연습하지 못한 자유인, 중국과 충돌하다](https://www.ddanzi.com/ddanziNews/696583455)
+* [기사 - 홍콩의 진실에 대하여 6: 중화민족에서 이탈하다](https://www.ddanzi.com/ddanziNews/697709192)
+* [기사 - 홍콩의 진실에 대하여 7: 영국과 일본의 식민지배, 다른 평가와 이유는?](https://www.ddanzi.com/ddanziNews/698759608)
+* [기사 - 홍콩의 진실에 대하여 8: 중국보다 영국에 기운 결정적 사건, 문화대혁명](https://www.ddanzi.com/ddanziNews/699842351)
+* [기사 - 홍콩의 진실에 대하여 9: 중국의 속마음은 상상과는 조금 달랐다](https://www.ddanzi.com/ddanziNews/700877592)
 * [왜 중국은 고령화를 걱정하는가?](https://pgr21.com/freedom/90326)
 
 ## India

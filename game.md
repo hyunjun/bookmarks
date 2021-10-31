@@ -1,6 +1,5 @@
 Game
 ====
-* [Software Library: MS-DOS Games](https://archive.org/details/softwarelibrary_msdos_games/v2)
 * [게임 만드는 비법, 거저 퍼드립니다](http://www.huffingtonpost.kr/asadal/story_b_6765806.html)
 * [던전999F + 1인개발에 대한 몇가지 이야기](http://wlhermit.blog.me/220319619224)
 * [CARD GAME RULES](http://www.pagat.com/)
@@ -35,7 +34,6 @@ Game
 * [피카츄 배구](https://gorisanson.github.io/pikachu-volleyball/ko/)
 * [게임 클라이언트 프로그래머로 취업하기 위해 필요한 10가지](https://ddayin.tistory.com/296)
 * ["I Need Practice Programming": 49 Ideas for Game Clones to Code](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
-* [**Software Library: MS-DOS Games : Free Software : Free Download, Borrow and Streaming : Internet Archive**](https://archive.org/details/softwarelibrary_msdos_games) emulator
 * [FreeCol - a turn-based strategy game based on the old game Colonization, and similar to Civilization. The objective of the game is to create an independent nation](https://github.com/FreeCol/freecol)
 * [Curriculum Guide | Riot Games](https://www.riotgames.com/en/urf-academy/curriculum-guide)
 * [Build Pac-Man Game With JavaScript - YouTube](https://www.youtube.com/watch?v=YBtzzVwrTeE)
@@ -51,6 +49,9 @@ Game
 * [호오 게임을 만드시겠다구요? 6 - 안드로이드 빌드 도전 - YouTube](https://www.youtube.com/watch?v=BgWhXn6ENHM)
 * [호오 게임을 만드시겠다구요? 7 - 게임 기획하기 - YouTube](https://www.youtube.com/watch?v=ICiKSSgTfGA)
 * [호오 게임을 만드시겠다구요? 8 - 2D 캔버스 훑어보기 - YouTube](https://www.youtube.com/watch?v=mjQ8o_ZHEFM)
+* [모바일에서의 알파 블렌딩과 테스팅](https://chulin28ho.tistory.com/660)
+* [게임의 재미는 어디에서 오는가? - 자막 · Present](https://present.do/decks/61075e902bbbe81f6f83e4ad)
+* [GDC 2011 동굴 이야기 강연 : 게임개발시 주의할 5개 요소 (번역) | GeekNews](https://news.hada.io/topic?id=4818)
 
 # Board game
 * [ko.boardgamearena.com](https://ko.boardgamearena.com/)
@@ -71,7 +72,10 @@ Game
 * [Game Source Code Collection : Free Software : Free Download, Borrow and Streaming : Internet Archive](https://archive.org/details/gamesourcecode)
 * [isao의 IT,게임번역소 : 고전 게임의 소스코드를 다운로드 할 수 있는 「Game Source Code Collection」](http://isao76.egloos.com/2662070)
 * [돌핀 에뮬레이터](https://ko.dolphin-emu.org/)
+* [CSEngine: CSEngine is a cross-platform 3D game engine](https://github.com/ounols/CSEngine)
 * [Doom3 BFG Source Code Review: Introduction](https://fabiensanglard.net/doom3_bfg/index.php)
+* [Elevator Saga - the elevator programming game](https://play.elevatorsaga.com/)
+  * [엘리베이터 프로그래밍 게임 | GeekNews](https://news.hada.io/topic?id=4703)
 * [EnTT - a header-only, tiny and easy to use library for game programming and much more written in modern C++, mainly known for its innovative entity-component-system (ECS) model](https://github.com/skypjack/entt)
 * [Game - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine](https://github.com/leereilly/games)
 * [greasyphone - Play NES using smartphones as joypads](https://github.com/olahol/greasyphone#greasyphone)
@@ -84,8 +88,11 @@ Game
 * [PlayCanvas WebGL Game Engine](https://playcanvas.com/)
 * [POKEGB: a gameboy emulator that only plays Pokémon blue](https://binji.github.io/posts/pokegb/)
   * [POKEGB - 포켓몬블루만 실행 가능한 게임보이 에뮬 개발기 | GeekNews](https://news.hada.io/topic?id=4399)
+* [Q1K3 | js13kGames](https://js13kgames.com/entries/q1k3)
 * [raylib](https://www.raylib.com/index.html)
 * [Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
+* [ScummVM :: Home](https://www.scummvm.org/news/20211009/)
+  * [ScummVM 20주년 | GeekNews](https://news.hada.io/topic?id=5177)
 * [TwilioQuest - Discover your power to change the world with code](https://www.twilio.com/quest)
 * Unity
   * [수식없이 게임 수학 이해하기](https://www.slideshare.net/MrDustinLee/ss-147084075)
@@ -98,13 +105,22 @@ Game
 * Unreal
   * [NDC 17 - ‘언알못’이 언리얼엔진을 배우려면 어떻게 해야 돼요?](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=71531)
   * [Unity에서 Unreal로 갈아타자](https://www.slideshare.net/ddayinhwang9/unity-unreal-210095797)
+  * [박피디의 게임 개발 이야기 : 언리얼4 기본 프로젝트 카메라 코드 비교](http://parkpd.egloos.com/4201724)
 * [universal-doom: A single .exe binary which runs DOOM on DOS 6, Windows 95 and Windows 10 (and probably everything in between)](https://github.com/nneonneo/universal-doom)
 * [Vassal - a game engine for building and playing online adaptations of board games and card games](http://www.vassalengine.org/)
+* [Warzone 2100: A Free And Open Source Real-Time Strategy Game](https://wz2100.net/)
+
+## Library DOS
+* [DOS 프로그램 저장소 - DOS 프로그램 저장소](https://oldpc.tistory.com/)
+* [DOSGames.com Free DOS game downloads - Over 1,500 games](https://dosgames.com/)
+* [**Software Library: MS-DOS Games : Free Software : Free Download, Borrow and Streaming : Internet Archive**](https://archive.org/details/softwarelibrary_msdos_games/v2) emulator
 
 ## Library Python
 * [Lightweight snake game running in the console](https://github.com/tancredi/python-console-snake)
 * [파이썬으로 블리자드 디아블로3 API 이용하기!](https://tariat.tistory.com/738)
 * [Learn Python by Building Five Games - Full Course](https://www.youtube.com/watch?v=XGf2GcyHPhc) turtle, pygame
+* [flappy-bird: just a copied of flappy bird game](https://github.com/thuongton999/flappy-bird)
+  * [A copied of flappy bird game made with python](https://pythonawesome.com/a-copied-of-flappy-bird-game-made-with-python/)
 * [PyBoy - Game Boy emulator written in Python](https://github.com/Baekalfen/PyBoy)
 * Pygame
   * [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
@@ -123,10 +139,14 @@ Game
   * [파이썬 실전 프로젝트 | 기억력 테스트 게임, 침팬지를 이겨라 - YouTube](https://www.youtube.com/watch?v=Qsk-xsi73YA)
   * [파이썬 코딩 강의를 제작하였습니다 (황금캐기 게임) : 클리앙](https://www.clien.net/service/board/lecture/16193080)
   * [xneko를 파이게임으로 이식하면서... (결론: 수학의 중요성)](https://jhrogue.blogspot.com/2021/07/b-xneko.html)
+  * [pygame-conways-game-of-life: Conway's Game of Life implemented in PyGame](https://github.com/m-zebrak/pygame-conways-game-of-life)
+    * [Conway's Game of Life implemented in PyGame](https://pythonawesome.com/conways-game-of-life-implemented-in-pygame/)
   * [pygame-physics](https://github.com/idgmatrix/pygame-physics)
 * [pyNES - NES games in python](http://gutomaia.net/pyNES/)
+* PySol [A comprehensive, feature-rich, open source, and portable, collection of Solitaire games](https://pythonawesome.com/a-comprehensive-feature-rich-open-source-and-portable-collection-of-solitaire-games/)
 * [Pyxel - a retro game engine for Python](https://github.com/kitao/pyxel)
   * [PyCon KR 2019 뱅크샐러드 돌아보기](https://medium.com/rainist-engineering/pycon-kr-2019-banksalad-5b4816325949)
+* [Turn based roguelike in python](https://pythonawesome.com/turn-based-roguelike-in-python/)
 
 ## Library Scala
 * [Indigo · A game engine for programmers](https://indigoengine.io/)

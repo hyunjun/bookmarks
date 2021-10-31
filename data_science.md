@@ -14,6 +14,9 @@ Data Science
   * [데이터 지능(Data Intelligence) 팟캐스트](http://www.hellodatascience.com/?p=751)
 * [인정받는 데이터 분석가 되기 – 외부 세미나 요약 –](http://freesearch.pe.kr/archives/4384)
 * [데이터 분석가는 어떤 SKILLSET을 가져야 하는가?](https://www.slideshare.net/HeeSeo/skillset-123722714)
+* [당근마켓 팀과 데이터 분석. 프로덕트 데이터 분석가는 어떤 일을 하는가 | by matthew l | 당근마켓 팀블로그 | Aug, 2021 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%ED%8C%80%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-b3d5af6159bc)
+* [데이터 분석가가 되기 위해서는?](https://brunch.co.kr/@modulabs/29)
+* [데이터 분석, 의심에서 전달까지 | Pega Devlog](https://jehyunlee.github.io/2021/10/14/Python-DS-86-datadoubt/)
 * [Overfitting을 피해보자!](http://freesearch.pe.kr/archives/4487)
 * [손에 잡히는 데이터 과학 이야기](https://brunch.co.kr/magazine/datascience)
 * [How to Become a Data Scientist for Free](http://www.datasciencecentral.com/profiles/blogs/how-to-become-a-data-scientist-for-free)
@@ -23,6 +26,7 @@ Data Science
   * [(part 2): the perfect candidate doesn’t exist](https://medium.com/@skyetetra/hiring-data-scientists-part-2-the-perfect-candidate-doesnt-exist-ec0d8afc4658)
   * [(part 3): interview questions](https://medium.com/@skyetetra/hiring-data-scientists-my-interview-questions-56d5ae3fc621)
   * [(part 4): the case study](https://medium.com/@skyetetra/hiring-data-scientists-part-4-the-case-study-a285fdb75d08)
+* [Top Python Data Science Interview Questions | .cult by Honeypot](https://cult.honeypot.io/reads/top-python-data-science-interview-questions/)
 * [GitHub Special: Data Scientists to Follow & Best Tutorials on GitHub](http://www.analyticsvidhya.com/blog/2015/07/github-special-data-scientists-to-follow-best-tutorials/)
 * [How to Become a Data Scientist](http://www.slideshare.net/ryanorban/how-to-become-a-data-scientist)
 * [So You Want To Be a Data Scientist: A Guide for College Grads](http://www.datanami.com/2015/06/04/so-you-want-to-be-a-data-scientist-a-guide-for-college-grads/)
@@ -59,6 +63,8 @@ Data Science
   * [Part II Data Modeling, Data Partitioning, Airflow, and ETL Best Practices](https://towardsdatascience.com/a-beginners-guide-to-data-engineering-part-ii-47c4e7cbda71)
 * [시리즈 | IBM Data Science - DEV_SK](https://velog.io/@kwonhl0211/series/IBM-Data-Science)
 * [데이터 아키텍처의 변화](https://data-engineer-song.tistory.com/2) ETL -> ELT
+* [인터뷰ㅣ"기술 회사도 IT 현대화해야 한다" 키사이트 테크놀로지스 CIO - CIO Korea](https://www.ciokorea.com/news/203214) ETL -> ELT로의 이유
+* [칼럼ㅣ'ETL'은 빅데이터와의 경쟁에서 패배했다 - CIO Korea](https://www.ciokorea.com/news/208017) ETL -> ELT or pipelined data streaming
 * [I want to study Data Science Wiki](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki) 한글
 * [A Beginner’s Guide to the Data Science Pipeline](https://www.kdnuggets.com/2018/05/beginners-guide-data-science-pipeline.html)
 * [Big Data: Its Benefits, Challenges, and Future | by Benedict Neo | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/big-data-its-benefits-challenges-and-future-6fddd69ab927)
@@ -90,6 +96,7 @@ Data Science
 * [Linear Algebra for Data Scientists](http://alexhwoods.com/2015/07/11/linear-algebra-for-data-scientists)
 * [Reading Between the Lines: How We Make Sense of Users’ Searches](http://engineeringblog.yelp.com/2015/02/reading-between-the-lines-how-we-make-sense-of-users-searches.html)
 * [Research papers that changed the world of Big Data](http://www.bigdata-madesimple.com/research-papers-that-changed-the-world-of-big-data/)
+* [Paper Search using ScopusAPI | Pega Devlog](https://jehyunlee.github.io/2021/08/13/Python-DS-82-scopusapi/)
 * [Data Analysis (1): Neuroimaging Data loading using SPM8 toolbox](http://skyeong.tistory.com/127)
 * [당신이 알고 있는 좋은 데이터 분석 슬라이드가 있나요?](https://github.com/ysunmi0427/awesome-data-analysis-slides)
 * [The last-mile problem: How data science and behavioral science can work together](http://dupress.com/articles/behavioral-economics-predictive-analytics/)
@@ -130,6 +137,9 @@ Data Science
   * [Dato](https://dato.com/)
 * [DataLake](http://martinfowler.com/bliki/DataLake.html)
   * [A Data Lake Architecture With Hadoop and Open Source Search Engines](https://dzone.com/articles/a-data-lake-architecture-with-hadoop-and-open-sour)
+  * [데이터 관리 패러다임 바꾼 ‘데이터 레이크’ (1) - 데이터넷](http://www.datanet.co.kr/news/articleView.html?idxno=163207)
+  * [데이터 관리 패러다임 바꾼 ‘데이터 레이크’ (2) - 데이터넷](http://www.datanet.co.kr/news/articleView.html?idxno=163210)
+  * [데이터 관리 패러다임 바꾼 ‘데이터 레이크’ (3) - 데이터넷](http://www.datanet.co.kr/news/articleView.html?idxno=163238)
 * [Data Maven](http://www.crunchzilla.com/data-maven)
 * [ryd.io - A data science exploration of the NYC Taxi data set via clustering and time-series analysis](http://ryd.io/)
 * [프레임드, 예측 분석 기술 클라우드 서비스로 출시](http://www.bloter.net/archives/235206)
@@ -149,47 +159,6 @@ Data Science
 * [e커머스 데이터 파헤치기-6편](https://brunch.co.kr/@genie7pe/8)
 * [데이터와 관련하여 기업들이 공개한 기술은 어떤게 있을까?](http://hongwonjun.me/post/138333142713/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-%EA%B4%80%EB%A0%A8%ED%95%98%EC%97%AC-%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4-%EA%B3%B5%EA%B0%9C%ED%95%9C-%EA%B8%B0%EC%88%A0%EC%9D%80-%EC%96%B4%EB%96%A4%EA%B2%8C-%EC%9E%88%EC%9D%84%EA%B9%8C)
 * [The Automatic Statistician - An artificial intelligence for data science](http://www.automaticstatistician.com/examples/)
-* [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://blog.cloudera.com/blog/2015/12/common-probability-distributions-the-data-scientists-crib-sheet/)
-  * 데이터 사이언스에 많이 사용되는 확률밀도함수들
-    * Bernoulli
-      * 동전의 앞/뒤처럼 이벤트가 0 또는 1밖에 일어나지 않는 분포
-      * 동전은 확률이 0.5/0.5 겠지만 다른 경우도 있을 수 있음
-    * Uniform
-      * 주사위처럼 모든 결과에 대한 확률이 동일한 확률분포
-    * Binomial
-      * 동전을 n번 던졌을 때 p번만큼 앞면이 나올 확률은?
-      * Binomial은 이렇게 0 또는 1이 나오는 이벤트(각각이 Bernoulli확률을 갖는 이벤트)에 대해 1이 발생활 횟수에 대한 확률
-    * Poisson
-      * 1시간에 평균 10번의 전화통화가 온다고 가정. 그렇다면 한시간에 12번 전화통화가 올 확률은? 이것이 바로 poisson(포아송) 확률
-      * 이것은, 예를 들어, 60분 중 48번의 실패(0)와 12번의 성공(1)을 하면 ok. 또는, 60분이 아니라 더 잘게 쪼개서 988번의 실패와 12번의 성공을 하면 ok
-      * 이처럼 시행횟수가 크고 이벤트가 일어날 확률이 작은 bionomial 분포가 바로 poisson 분포에 수렴(이 때문에 binomial의 근사로도 사용)
-    * Hypergeometric
-      * 까만공과 하얀공이 절반씩 있는데 그것을 여러번 뽑는다고 가정. 그럼 이것은 Binomial과 동일한가?
-      * 아님. 왜냐면 공을 뽑을 때 만약 그 공을 다시 채워넣지 않는다면 남아있는 공의 확률은 바뀌기 때문
-      * Binomial의 경우와 달리 replacement(다시 보충)를 허용하지 않는 것이 바로 hypergeometric 확률입니다.
-    * Geometric
-      * 주사위를 굴렸을 때 한번에 6이 나올 확률은? 두번만에 6이 나올 확률은? 세번만에, 네번만에...
-      * 이처럼 geometric 분포는 어떤 이벤트가 일어날 때까지의 횟수에 대한 확률
-      * 이벤트의 확률이 어떠하든 늘 "가장 첫번째"에 이벤트가 발생할 확률이 가장 크다
-    * Negative Binomial
-      * Geometric이 한번 성공할 때까지 걸리는 횟수에 대한 분포라면 negative binominal은 n번 성공할 때까지 걸리는 횟수에 대한 분포
-비슷하게 안지은거야?;;)
-    * Exponential
-      * bionomial의 연속버전이 poisson이었다면, geometric의 연속버전이 exponential분포
-      * 다시말해 "평균 5분만에 전화가 걸려온다고 할 때 다음 전화가 7분 후에 걸려올 확률은?"
-    * Weibull
-      * exponential이 "다음 이벤트가 성공할 때 까지의 실패구간은"에 대한 함수였다면 반대로 Weibull은 "첫 실패가 발생할 때까지 이번 이벤트가 성공할 구간"에 대한 확률
-    * Gaussian (Normal)
-      * 너무 유명한 확률분포
-      * 특히 매우 많은 수의 동일 확률분포를 가진 샘플들의 산술평균은 그 샘플들이 어떤 분포를 따르든(binomial이든 exponential이든 아님 다른거든) 결국 Gaussian 분포로 수렴한다는 "중심극한정리"가 매우 유용하기에 매우 많은 곳에 적용 가능
-    * Log-normal
-      * 변수의 log 값이 Gaussian을 나타내는 분포
-      * 다시말해 Gaussian을 exponential 한 함수
-    * Student’s t-distribution
-      * 정규분포의 mean 값에 대한 판단을 내릴 떄 사용하는 확률분포
-    * Chi-squared distribution
-      * Gaussian 분포를 가진 확률변수의 제곱들의 합에 대한 분포
-      * 예를 들어 k자유도의 chi-squared는 k개의 독립적인 Gaussian들에 대한 합의 확률분포
 * [좋다는 건 알겠는데 좀 써보고 싶소. 데이터! - 넘버웍스 하용호 대표](http://www.slideshare.net/Gonnector/ss-60993909)
 * [‘데이터’를 똑똑하게 만드는 오픈소스 기술 12종](http://www.bloter.net/archives/238491)
 * [Google Data Studio (beta) provides everything you need to turn your data into beautiful, informative reports that are easy to read, easy to share, and fully customizable](http://www.google.com/analytics/data-studio/)
@@ -256,6 +225,10 @@ Data Science
 * [Data Science Cheatsheets](https://github.com/abhat222/Data-Science--Cheat-Sheet)
 * [Top 28 Cheat Sheets for Machine Learning, Data Science, Probability, SQL & Big Data](https://www.analyticsvidhya.com/blog/2017/02/top-28-cheat-sheets-for-machine-learning-data-science-probability-sql-big-data/)
 * [**Getting started: the 3 stages of data infrastructure**](https://medium.com/@natekupp/getting-started-the-3-stages-of-data-infrastructure-556dac82e825)
+* [EVERYTHING A DATA SCIENTIST SHOULD KNOW ABOUT DATA MANAGEMENT](https://www.topbots.com/data-management-infrastructure/)
+* [**Back To The Future: Data Engineering Trends 2020 & Beyond - Data Engineering Weekly**](https://www.dataengineeringweekly.com/p/back-to-the-future-data-engineering) Data Infrastructure, Data Architecture, Data Management를 주제로 여러가지 좋은 글 link 모음
+* [Silent data corruption: Mitigating effects at scale - Facebook Engineering](https://engineering.fb.com/2021/02/23/data-infrastructure/silent-data-corruption/)
+* [Roadmap: Data Infrastructure · Bessemer Venture Partners](https://www.bvp.com/atlas/roadmap-data-infrastructure)
 * [**데이터를 얻으려는 노오오력**](https://www.slideshare.net/youngjaekim58/ss-77479253)
 * [#2.5. Intra/Inter-Class Variability](https://www.youtube.com/watch?v=kiPo5ACr9xw&list=PL0oFI08O71gKEXITQ7OG2SCCXkrtid7Fq) 데이터의 '질'이란?
 * [**Analyzing GitHub, how developers change programming languages over time**](https://blog.sourced.tech/post/language_migrations/)
@@ -275,6 +248,7 @@ Data Science
 * [Top 10 Popular GitHub Repositories to learn about Data Science](https://towardsdatascience.com/top-10-popular-github-repositories-to-learn-about-data-science-4acc7b99c44)
 * [If you’re a developer transitioning into data science, here are your best resources](https://medium.freecodecamp.org/if-youre-a-developer-transitioning-into-data-science-here-are-your-best-resources-c31928b53cd1)
 * [**How to Handle Missing Data**](https://towardsdatascience.com/how-to-handle-missing-data-8646b18db0d4)
+* [Missing Data Handling |How to Deal with Missing Data using Python](https://www.analyticsvidhya.com/blog/2021/10/how-to-deal-with-missing-data-using-python/)
 * [5 Amazing Improvement Big Data Can Bring to Retail](https://towardsdatascience.com/5-amazing-improvement-big-data-can-bring-to-retail-2c70bdd5a871)
 * [**Notes On Using Data Science & Artificial Intelligence To Fight For Something That Matters**](https://chrisalbon.com/)
 * [Five Misconceptions about Data Science - Knowing What You Don't Know](https://www.datasciencecentral.com/profiles/blogs/five-misconceptions-about-data-science)
@@ -309,7 +283,6 @@ Data Science
   * [I want to study Data Science Wiki](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science)
 * [빅데이터 조직과 시스템](http://www.ciokorea.com/tags/22729/%EA%B9%80%EC%A7%84%EC%B2%A0)
 * [Generating and visualizing alpha with Vectorspace AI datasets and Canvas](https://www.elastic.co/kr/blog/generating-and-visualizing-alpha-with-vectorspace-ai-datasets-and-canvas)
-* [EVERYTHING A DATA SCIENTIST SHOULD KNOW ABOUT DATA MANAGEMENT](https://www.topbots.com/data-management-infrastructure/)
 * [쿠팡 데이터 플랫폼의 진화](https://medium.com/coupang-tech/%EC%BF%A0%ED%8C%A1-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%9D%98-%EC%A7%84%ED%99%94-26c827c1ec09)
 * [When your data doesn’t fit in memory: the basic techniques](https://pythonspeed.com/articles/data-doesnt-fit-in-memory/)
 * [Top 5 must-have Data Science skills for 2020](https://www.kdnuggets.com/2020/01/top-5-data-science-skills-2020.html)
@@ -319,12 +292,12 @@ Data Science
 * [**다시 찾아간 지표의 세계**](https://cojette.github.io/metrics_revisited/) vanity metrics, actionable metrics
 * [3 Design Principles for Engineering Data](https://medium.com/@WomenWhoCode/3-design-principles-for-engineering-data-9d03dcb1711f)
 * [데이터분석가로서 업무 과정과 경험, 배움을 공유합니다 - 우아한형제들 기술 블로그](https://woowabros.github.io/woowabros/2020/07/01/how_data_analyst_works.html)
+* [당근마켓 팀과 데이터 분석. 프로덕트 데이터 분석가는 어떤 일을 하는가 | by matthew l | 당근마켓 팀블로그 | Aug, 2021 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%ED%8C%80%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-b3d5af6159bc)
 * [IT 회사에서 데이터 직군은 데이터를 어떻게 관리할까?](https://www.grabbing.me/IT-90338d3bcad14cc3b7d4bc004d1b13ce)
 * [Data Science Life Cycle 101 for Dummies like Me | by Sangeet Moy Das | Towards Data Science](https://towardsdatascience.com/data-science-life-cycle-101-for-dummies-like-me-e66b47ad8d8f)
 * [입력 데이터를 정규화 하는 이유 : 네이버 블로그](https://blog.naver.com/jk96491/222103858904)
 * [**Quantified Self Part 6 - 생산적인 하루에 대한 정량적인 표현과 4년간의 데이터 이야기 - HumanBrain**](https://dongjunlee.github.io/quantified%20self/QS_Part_6_Analysis_My_Life/)
 * [Almost Everything You Need To Know on Data Discovery Platforms](https://eugeneyan.com/writing/data-discovery-platforms/)
-* [**Back To The Future: Data Engineering Trends 2020 & Beyond - Data Engineering Weekly**](https://www.dataengineeringweekly.com/p/back-to-the-future-data-engineering) Data Infrastructure, Data Architecture, Data Management를 주제로 여러가지 좋은 글 link 모음
 * [What Is Data Engineering and Is It Right for You? – Real Python](https://realpython.com/python-data-engineer/) realpython post지만 python이 아니라 general한 글
 * [Data Experience Report 모음](https://brunch.co.kr/@mapmatters/51)
 * [**The Top 5 Data Trends for CDOs to Watch Out for in 2021 | by Prukalpa | Jan, 2021 | Towards Data Science**](https://towardsdatascience.com/the-top-5-data-trends-for-cdos-to-watch-out-for-in-2021-e230817bcb16)
@@ -339,10 +312,27 @@ Data Science
 * [머신러닝 지도학습을 통해서 꼽아본 최적의 스타벅스 DT 장소!? – SPH](https://www.sphinfo.com/starbucksdt-ml3/)
 * [Data Observability In Practice: Data Monitoring At Scale With SQL And Machine Learning - Monte Carlo Data](https://www.montecarlodata.com/automated-data-quality-testing-at-scale-with-sql-and-machine-learning-2/)
 * [‘데이터 랭글링’ 및 ‘탐구 데이터 분석’ 따라잡기 - CIO Korea](https://www.ciokorea.com/news/187888)
-* [Silent data corruption: Mitigating effects at scale - Facebook Engineering](https://engineering.fb.com/2021/02/23/data-infrastructure/silent-data-corruption/)
+* [글로벌 칼럼 | 데이터 랭글링을 비하해선 안 되는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/203859)
+* [칼럼ㅣ결코 하찮지 않다!··· '데이터 랭글링' 작업이 가치 있는 이유 - CIO Korea](https://www.ciokorea.com/news/203489)
 * [데이터 처리 플랫폼 : 네이버 블로그](https://blog.naver.com/airguy76/221368741735)
 * [김진철의 How-to-Big Data | How-to-Big Data 핵심 정리(Key Takeaways) (1) - CIO Korea](https://www.ciokorea.com/news/191719)
 * [세미나 후기 Wanted Con. Data 요즘 데이터 팀은 어떻게 일할까?](https://blog.naver.com/rposter/222324418413)
+* [게임 속 시장을 들여다보기 위한 단 하나의 지표](https://blog.ncsoft.com/game-data-analytics-20200924/)
+* [Why and how should you learn “Productive Data Science”? - KDnuggets](https://www.kdnuggets.com/2021/07/learn-productive-data-science.html)
+* [**The Quick and Dirty Guide to Building Your Data Platform | by Barr Moses | Jul, 2021 | Towards Data Science**](https://towardsdatascience.com/the-quick-and-dirty-guide-to-building-your-data-platform-2f21dc4b7c94)
+* [Big Data World, Part 1: Definitions | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/05/04/big-data-world-part-1-definitions/)
+* [빅데이터의 세계, 2부: 직무 | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/07/01/big-data-world-part-2-roles/)
+* [빅데이터의 세계, 3부: 데이터 파이프라인 구축 | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/07/07/big-data-world-part-3-building-data-pipelines/)
+* [빅데이터의 세계, 4부: 아키텍처 | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/07/09/big-data-world-part-4-architecture/)
+* [Big Data World, Part 5: CAP Theorem | JetBrains News](https://blog.jetbrains.com/ko/blog/2021/06/03/big-data-world-part-5-cap-theorem/)
+* [현대 신경과학은 과연 동키콩을 이해할 수 있는가 (2016) | GeekNews](https://news.hada.io/topic?id=4812) 기술적으로 관련이 있는 건 없지만 시사점이 있음
+* [Why MapReduce is making a comeback — Estuary](https://www.estuary.dev/blog/why-mapreduce-is-making-a-comeback)
+* [오늘의집 데이터 마케팅 활용법 : 유입 기여 분석 시스템 - 오늘의집 블로그](https://www.bucketplace.co.kr/post/2021-08-06-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%A7%88%EC%BC%80%ED%8C%85-%ED%99%9C%EC%9A%A9%EB%B2%95-%EC%9C%A0%EC%9E%85-%EA%B8%B0%EC%97%AC-%EB%B6%84%EC%84%9D-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
+* [양질의 데이터를 판별하는 5가지 방법 : 데이터 양은 충분한가? | 요즘IT](https://yozm.wishket.com/magazine/detail/1070/)
+* [Log-based Change Data Capture — lessons learnt | by Andreas Buckenhofer | Daimler TSS Tech | Medium](https://medium.com/daimler-tss-tech/change-data-capture-lessons-learnt-7976391cf78d) Debezium, DynamoDB Streams, VoltDB
+* [데이터 분석에 필수적인 5 가지 마인드](https://brunch.co.kr/@04925bf0d77f43e/3)
+* [글로벌 칼럼 | ‘머신러닝은 만능이 아니다’ ML 대신 SQL 쿼리를 써야하는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/209077)
+* [칼럼ㅣ머신러닝의 첫 번째 규칙은 ML 없이 시작하는 것이다 - CIO Korea](https://www.ciokorea.com/news/208792)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -376,10 +366,12 @@ Data Science
 * [The Best Free Books for Learning Data Science](https://www.dataquest.io/blog/free-books-learn-data-science)
 * [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 * [Great Books for Data Science](https://towardsdatascience.com/great-books-for-data-science-7a2de76bc612)
+* [브런치북 데이터 과학 미니북](https://brunch.co.kr/brunchbook/dsbook)
 
 # Course MOOC Lecture
 * [**수강료 500만원 데이터사이언스 스쿨 커리큘럼을 대체하는 온라인 무료강의 15개 커리큘럼**](http://earlybird.ai/data_science_free_curriculum/)
   * 통계학, 선형대수학, numpy, 검정 및 추정(확률론), machine learning, database, 데이터 시각화, 데이터 분석, deep learning
+* [모두를 위한 데이터 사이언스 강좌소개 : 부스트코스](https://www.boostcourse.org/ds101)
 * [Review: Udacity Data Analyst Nanodegree Program](https://medium.freecodecamp.org/review-udacity-data-analyst-nanodegree-1e16ae2b6d12)
 * [I Dropped Out of School to Create My Own Data Science Master’s — Here’s My Curriculum](https://medium.com/@davidventuri/i-dropped-out-of-school-to-create-my-own-data-science-master-s-here-s-my-curriculum-1b400dcee412)
 * [Learn Data Science in 3 Months](https://www.youtube.com/watch?v=9rDhY1P3YLA)
@@ -389,9 +381,12 @@ Data Science
 * [Nonnegative Matrix Factorization via Rank-One Downdate](http://videolectures.net/icml08_ghodsi_nmf/)
   * [이 장에서는 새운 기법인 NMF(Non-negative Matrix Factorization) 을 소개](http://nbviewer.ipython.org/github/jaeho-kang/ipython/blob/master/collective-intelligence/chapter10/ch10.ipynb)
 * [5 Bite-Sized Data Science Summaries](https://towardsdatascience.com/5-bite-sized-data-science-summaries-a5afb8509353)
+* [5 Online Data Science Courses You Can Finish in 1 Day | by Sara A. Metwalli | Aug, 2021 | Towards Data Science](https://towardsdatascience.com/5-online-data-science-courses-you-can-finish-in-1-day-5b60f353fa8e)
 * [The online courses you must take to be a better Data Scientist | DataTau](https://medium.com/datatau/the-online-courses-you-must-take-to-be-a-better-data-scientist-36a06016c819)
+* [Data-Science-For-Beginners: 10 Weeks, 20 Lessons, Data Science for All!](https://github.com/microsoft/Data-Science-For-Beginners)
 * [Dev Intro to Data Science - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjDop2DtiCmwTTcrlwKAVHE)
 * [Practical Data Ethics | Data ethics](http://ethics.fast.ai/)
+* [Free Data Science for Beginners curriculum on GitHub - DEV Community](https://dev.to/azure/free-data-science-for-beginners-curriculum-on-github-1hme)
 
 # Data Cleaning
 * [The Simple Yet Practical Data Cleaning Codes To solve the common scenarios of messy data](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)
@@ -417,6 +412,7 @@ Data Science
 * [텍스트 마이닝 기법3 - RomanticQ의 머신러닝](https://romanticq.github.io/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/text-mining-tech3/)
 * [knime.com](https://www.knime.com/)
   * [Principles of Guided Analytics](https://www.kdnuggets.com/2018/03/principles-guided-analytics.html)
+  * [KNIMETV - YouTube](https://www.youtube.com/channel/UCRbKmV_XYB7C12SPBokLVHQ)
 
 # Library
 * ["가자, 데이터의 세계로" 무료 애널리틱스 툴 7선](http://www.ciokorea.com/news/38154)
@@ -433,6 +429,10 @@ Data Science
 * [Beaker](http://beakernotebook.com/?foo)
 * [danfo.js - an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data](https://github.com/opensource9ja/danfojs)
   * [Pandas를 자바스크립트에서! Danfo.js - YouTube](https://www.youtube.com/watch?v=rPCgsu0bcM4)
+* datahub [A Metadata Platform for the Modern Data Stack | DataHub](https://datahubproject.io/)
+  * [뱅크샐러드 Data Discovery Platform의 시작 | 뱅크샐러드](https://blog.banksalad.com/tech/the-starting-of-datadiscoveryplatform-era-in-banksalad/)
+* [dbt - Transform data in your warehouse](https://www.getdbt.com/)
+  * [dbt로 ELT 파이프라인 효율적으로 관리하기](https://www.humphreyahn.dev/blog/efficient-elt-pipelines-with-dbt)
 * [Digdag - a simple tool that helps you to build, run, schedule, and monitor complex pipelines of tasks](http://www.digdag.io/) Data Workflow Management Opensource Engine
 * [faker.js: generate massive amounts of realistic fake data in Node.js and the browser](https://github.com/Marak/faker.js)
   * [How to generate mock data with faker.js | by Lucas Jellema | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/faker-js-npm-module-for-generating-fake-data-5dae437ec3a)
@@ -453,6 +453,8 @@ Data Science
 * [Mirador is a tool for visual exploration of complex datasets](http://fathom.info/mirador/)
 * [Mockaroo - Mockaroo lets you generate up to 1,000 rows of realistic test data in CSV, JSON, SQL, and Excel formats](https://www.mockaroo.com/)
 * [Mode - Analyze raw or modeled data with SQL, Python, or R without moving between different tools](https://mode.com)
+* [nf-data-explorer: The Data Explorer gives you fast, safe access to data stored in Cassandra, Dynomite, and Redis](https://github.com/Netflix/nf-data-explorer)
+  * [Exploring Data @ Netflix. By Gim Mahasintunan on behalf of Data… | by Netflix Technology Blog | Jun, 2021 | Netflix TechBlog](https://netflixtechblog.com/exploring-data-netflix-9d87e20072e3)
 * [Piwik - Open Analytics Platform](http://piwik.org/)
 * [Weld: A common runtime for high performance data analytics](https://blog.acolyer.org/2017/01/16/weld-a-common-runtime-for-high-performance-data-analytics/)
   * Numba와 비슷하게, Rust 기반 컴파일러를 이용해 Data 분석 스크립트의 속도를 최적화하여 빠르게 함
@@ -467,7 +469,6 @@ Data Science
 * [Fueling the Gold Rush: The Greatest Public Datasets for AI](https://medium.com/startup-grind/fueling-the-ai-gold-rush-7ae438505bc2)
 * [Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
 * [city of Chicago](https://data.cityofchicago.org/)
-* [datahub.io/ko_KR](http://datahub.io/ko_KR/)
 * [datalab.naver.com](http://datalab.naver.com/)
 * [Open Data for Deep Learning](https://deeplearning4j.org/opendata)
 * [Research data management simplified](https://www.globus.org/)
@@ -546,7 +547,10 @@ Data Science
 * [Ondrej Kokes - High Performance Data Loss | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=hoaMzebS_l4)
 * [Data Science With Python | Python For Data Science | Data Science For Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=SJT4ZyLxIE0)
 * [python 데이터 분석 실습 코로나 19 2021 현재 시점 분석하기 1편](https://stricky.tistory.com/457)
-* [CC-hurricane-analysis-project: A simple project with several functions that organize and manipulate data about Category 5 Hurricanes](https://github.com/giacomosx/CC-hurricane-analysis-project)
+* [15 Python Snippets to Optimize your Data Science Pipeline - KDnuggets](https://www.kdnuggets.com/2021/08/15-python-snippets-optimize-data-science-pipeline.html)
+* [5 ways for Data Scientists to Code Efficiently in Python](https://www.analyticsvidhya.com/blog/2021/08/5-ways-for-data-scientists-to-code-efficiently-in-python/)
+* [Data scientist’s guide to efficient coding in Python | by Dr. Varshita Sher | Jul, 2021 | Towards Data Science](https://towardsdatascience.com/data-scientists-guide-to-efficient-coding-in-python-670c78a7bf79)
+* [Creating a Data Science Python Package Using Jupyter Notebook | by Abid Ali Awan | Jul, 2021 | Towards Data Science](https://towardsdatascience.com/creating-data-science-python-package-using-jupyter-notebook-6fa6e6b74a87)
 
 ## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
@@ -555,10 +559,12 @@ Data Science
 * [Lesser Known Python Libraries for Data Science](https://medium.com/analytics-vidhya/python-libraries-for-data-science-other-than-pandas-and-numpy-95da30568fad)
 * [**10 Simple hacks to speed up your Data Analysis in Python**](https://towardsdatascience.com/10-simple-hacks-to-speed-up-your-data-analysis-in-python-ec18c6396e6b) 여러가지 분야(data, visualization등)의 library
 * [Python ETL Tools: Best 8 Options](https://towardsdatascience.com/python-etl-tools-best-8-options-5ef731e70b49)
+* [데이터 과학을 위해 '더 개선된' 최신 필수 파이썬 툴 6가지 - ITWorld Korea](https://www.itworld.co.kr/news/202304)
 * [**Accelerator**](https://github.com/eBay/accelerator) 단일 시스템에서 테라바이트 단위의 데이터를 고속 처리를 하도록 설계된 eBay에서 개발한 오프소스 프레임워크
   * [accelerator-project_skeleton](https://github.com/eBay/accelerator-project_skeleton)
   * [Announcing the Accelerator](https://www.ebayinc.com/stories/blogs/tech/announcing-the-accelerator-processing-1-000-000-000-lines-per-second-on-a-single-computer/)
 * BlazingSQL(BSQL) [GPU-accelerated SQL and Data Science - Rodrigo Aramburu - YouTube](https://www.youtube.com/watch?v=Pu4dhJA8irU)
+* [CC-hurricane-analysis-project: A simple project with several functions that organize and manipulate data about Category 5 Hurricanes](https://github.com/giacomosx/CC-hurricane-analysis-project)
 * [dabl - the Data Analysis Baseline Library](https://amueller.github.io/dabl/dev)
   * [Doing Hard Things with Less Data; and Dabl: AutoML with a human in the loop - YouTube](https://www.youtube.com/watch?v=ntd68unD5TE)
 * [dagster: A data orchestrator for machine learning, analytics, and ETL](https://github.com/dagster-io/dagster)
@@ -582,6 +588,7 @@ Data Science
   * [Accelerating Data Science with RAPIDS - Keith Kraus](https://www.youtube.com/watch?v=GVUA3vSPzio)
   * [RAPIDS cuGraph](https://medium.com/rapids-ai/rapids-cugraph-1ab2d9a39ec6)
   * [Fundamentals Of Accelerated Data Science With RAPIDS](https://ign0relee.github.io/Nvidia-Accelerated-Data-Science-With-Rapids)
+  * [Using GPUs for Data Science and Data Analytics](https://www.exxactcorp.com/blog/Deep-Learning/using-gpus-for-data-science)
 * [RoboSat - an end-to-end pipeline written in Python 3 for feature extraction from aerial and satellite imagery](https://github.com/mapbox/robosat)
   * [PyParis 2018 - Robosat: an Open Source and efficient Semantic Segmentation...](https://www.youtube.com/watch?v=y-leS9uBl7Y)
 * [siuba: Python library for using dplyr like syntax with pandas and SQL](https://github.com/machow/siuba)
@@ -592,6 +599,9 @@ Data Science
   * [Weak Supervision: A New Programming Paradigm for Machine Learning](http://ai.stanford.edu/blog/weak-supervision/)
   * [Introducing the New Snorkel](https://www.snorkel.org/hello-world-v-0-9/)
   * [Snorkel is a fundamentally new interface to ML without hand-labeled training data](https://www.snorkel.ai/07-14-2020-snorkel-ai-launch.html)
+  * [게임의 부정 사용자를 탐지하는 방법, Snorkel을 활용해 라벨 보정하기](https://blog.ncsoft.com/game-data-analytics-20210122/)
+* [Tuplex is a parallel big data processing framework that runs data science pipelines written in Python at the speed of compiled code. Tuplex has similar Python APIs to Apache Spark or Dask, but rather than invoking the Python interpreter, Tuplex generates optimized LLVM bytecode for the given pipeline and input data set](https://github.com/tuplex/tuplex)
+  * [Tuplex - 병렬 빅데이터 처리 프레임워크 | GeekNews](https://news.hada.io/topic?id=4580)
 
 # Recommendation
 * [제1화 추천 시스템 이란.ppt](http://www.slideshare.net/ssuser2fe594/1-ppt-33990067)
@@ -654,6 +664,7 @@ Data Science
 * [추천시스템에 빠져들기](https://www.notion.so/ecc73247c9f9486d9063fca918c5917e)
 * [쿠팡 추천 시스템 2년간의 변천사 (상품추천에서 실시간 개인화로)](https://tv.naver.com/v/11212875)
 * [추천 시스템(Recommendation System) - 협업 필터링 (Collaborative filtering) 설명 (1)](https://ai4nlp.tistory.com/10)
+* [카카오 AI추천 : 협업 필터링 모델 선택 시의 기준에 대하여 – tech.kakao.com](https://tech.kakao.com/2021/10/18/collaborative-filtering/)
 * [코드잇 머신 러닝을 통한 추천 시스템 추천 방법(내용 기반, 협업 필터링)](https://blog.naver.com/codeitofficial/222104992800)
 * [우리 동네 맛집 추천엔진 직접, 쉽게 만들기 (크롤링과 코사인 유사도)](https://data101.oopy.io/recommendation-engine-cosine-similarity) cosine similarity
 * [추천시스템 맛집](https://ekdud7667.tistory.com/)
@@ -671,6 +682,26 @@ Data Science
 * [1년차 주니어가 추천 시스템 현장에서 마주한 고민. 머신 러닝의 여러 분야 중 추천 시스템에 가장 큰 매력을 느꼈습니다… | by Zimin | WATCHA | Apr, 2021 | Medium](https://medium.com/watcha/1%EB%85%84%EC%B0%A8-%EC%A3%BC%EB%8B%88%EC%96%B4%EA%B0%80-%EC%B6%94%EC%B2%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C-%ED%98%84%EC%9E%A5%EC%97%90%EC%84%9C-%EB%A7%88%EC%A3%BC%ED%95%9C-%EA%B3%A0%EB%AF%BC-12f568eb2cc2)
 * [비용 효율적인 Click-Through Rate Prediction 모델로 하쿠나 라이브 추천시스템 구축하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/04/26/hakuna-recsys-gb.html)
 * [카카오 AI추천 : 토픽 모델링과 MAB를 이용한 카카오 개인화 추천 – tech.kakao.com](https://tech.kakao.com/2021/06/25/kakao-ai-recommendation-01/) Multi Armed Bandit
+* [Advertiser Recommendation Systems at Pinterest | by Pinterest Engineering | Pinterest Engineering Blog | Jul, 2021 | Medium](https://medium.com/pinterest-engineering/advertiser-recommendation-systems-at-pinterest-ccb255fbde20)
+* [Recommender System KR](https://root-decimal-c5d.notion.site/Recommender-System-KR-5b773a06e99145e6855bae391c94dc44)
+* [Keynote 7: Moving Beyond Recommender Models - Even Oldridge (NVIDIA), Karl Byleen-Higley (NVIDIA) - YouTube](https://www.youtube.com/watch?v=5qjiY-kLwFY)
+  * Candidate Retrieval + Ranking과 같이 2-stage로 이뤄진 추천 시스템이 많이 언급
+    * 발표자는 실제로는 Filtering과 Ordering이라는 숨겨진 단계가 있기 때문에 4 stage가 필요하다고 주장
+    * Filtering은 Candidate Retrieval 다음에 사용이 불가능한 아이템을 추가로 걸러내는 단계
+    * Ordering은 Ranking 다음에 최종 리스트 순서를 결정할 때 순서를 조정하거나 아이템을 제외하는 단계
+    * Explicit하게 적용되는 경우가 많고 모델이 학습하기 어렵거나/ 번거로운 비즈니스 로직을 적용하는 경우가 많아서 이전 단계와 구분지어 생각해야 한다고 주장
+    * 인스타그램의 예시를 생각해보면 다른 유저를 차단하거나 알림을 끄는 경우 Filtering에서 차단한 유저의 게시글을 제외하는게 편함
+    * 또한 한 유저의 글이 랭킹 점수가 비슷해 피드에 연달아 나온다면 유저 경험이 좋지 않기 때문에 순서를 다시 Ordering 할 필요 존재
+* [유튜브는 내가 좋아할 다음 영상을 어떻게 추천해줄까? (알기 쉽게 설명한 구글 최신 논문) – techNeedle 테크니들](https://techneedle.com/archives/38234)
+* [Collaborative filtering doesn't work for us](https://about.chatroulette.com/posts/better-match-making-part-1/)
+* [System Design for Recommendations and Search](https://eugeneyan.com/writing/system-design-for-discovery/)
+  * 추천과 검색의 시스템 디자인을 두 축(Offline vs Online 환경 / Candidate Retrieval vs Ranking)으로 나누어 분석
+    * 2 X 2에 Component들을 배치해보면 링크의 그림 같이 생각 가능
+    * 저자는 Alibaba, Facebook, JD, Doordash에서 공유한 시스템 디자인 사례들을 이 프레임에 맞춰 분석
+    * 프레임 제시 뿐만 아니라 중간중간에 train-test skew 문제, embedding model과 ANN을 같은 컨테이너에서 운영하는 이유, batch대신 real-time recommendation이 정말 필요한가 같은 엔지니어링 이슈를 다뤄서 좋음
+  * [**번역글 System Design for Recommendations and Search | You May Also Like**](https://ziminpark.github.io/posts/system-design-for-discovery/)
+* [On YouTube’s recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)
+* [Spotify가 당신의 음악 다양성을 이해하는 방법 – 인사이트캠퍼스](http://insightcampus.co.kr:9090/insightcommunity/?mod=document&uid=12920)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)

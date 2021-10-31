@@ -18,6 +18,7 @@ House
 * [도구 하나 없이…정글에서 집 만드는 법](http://techholic.co.kr/archives/40372)
 * [주택임대차 확정일자 온라인으로 손쉽게 받는다](http://www.huffingtonpost.kr/2015/09/13/story_n_8128570.html)
 * [알기 어려운 부동산법.. 전입신고·확정일자의 차이는](https://news.v.daum.net/v/20181102130216733)
+* [매거진 | 내 전세금을 지키려면? 대항력과 우선변제권의 발생 시점](https://www.goodchobo.com/magazine/MZTY/389) 확정일자
 * [안전하게 내 전세금 지키는 법](http://realestate.daum.net/news/detail/main/20180224080055530)
 * [주택 임차보증금 제때 돌려주지 않을 때](https://blog.naver.com/misona777/220720026315)
   * [내용증명 보내기](http://slownews.kr/46462)
@@ -28,6 +29,10 @@ House
 * [알기 어려운 부동산 법.. 임차권등기명령과 신청방법](http://realestate.daum.net/news/detail/main/20181122091911072)
 * [깡통전세 공포, 전세보증금 안돌려주는 집주인 대처법](http://board.realestate.daum.net/gaia/do/estate/power/read?bbsId=power&articleId=2048)
 * [전셋값 하락하는데.."집주인이 보증금을 안줘요"](http://realestate.daum.net/news/detail/main/20181102040003773)
+* [전세보증보험 들어도 전세사기를 당하는 이유는? 국가때문](https://brunch.co.kr/@readme999/241)
+* [매거진 | 전세보증금 반환 보증 보험](https://www.goodchobo.com/magazine/MZTY/269)
+* [전세 연장 하실 때 꼭 이것 확인하세요! 광장히 위험한 상황에 빠질 수 있습니다! - YouTube](https://www.youtube.com/watch?v=moxsBxln4K4)
+  * 등기부등본 확인(e.g. 을부 근저당권), 전입 유지(대항력 유지), 기존 계약서의 연장임을 명백히 표시(증액이 있는 경우 확정일자 받기), 전세 대출 활용, 지역 공급 계획 확인
 * [전세의 종말 (상)](https://brunch.co.kr/@zip/28)
 * [전세의 종말 (하)](https://brunch.co.kr/@zip/30)
 * [전세 만기 됐는데 집주인이 전세금을 안 주면 어떻게 해야 하나요?](https://www.youtube.com/watch?v=BTVLl_k_zSE)
@@ -42,6 +47,28 @@ House
   * 보통 대항력(전입신고) 있으면 계속 살 수 있는데 등기부에 세입자보다 선수위 채권(저당권 등)이 있을 경우 문제
   * 그래도 최우선변제금까지는 받을 수 있음. 우리나라 법은 웬만해선 임차인에게 유리하도록 되어있긴 함
   * 다만 전세인지 월세인지 등기가 되었는지 대항력이 있는지 확정일자는 언제받았는지 보증금은 얼마인지 등 상황에 따라 차이가 있음
+* [전세 · 월세계약서 나에게 유리하게 쓰는 TIP 4](https://www.youtube.com/watch?v=e8TFgcXc5vc)
+* [전세 사기를 피하는 3가지 방법](http://moneyman.kr/archives/7872)
+  * [서평 부동산 상식사전 : 네이버 블로그](https://blog.naver.com/zbxmsla/221473193627)
+* [전세계약대리인 주의합시다](https://blog.naver.com/hs-villa/221320279967)
+* [**역전세 상황에서 전세금 미반환으로 인한 소송 및 강제경매까지 후기**](https://gist.github.com/hyunjun/d35dc920155b31a259c47a59f142ee73#file-md)
+* [매거진 | 보증금을 지키는 방법, 전세권 설정](https://www.goodchobo.com/magazine/MZTY/529)
+* [루나의 전세역전 - 프롤로그 : 네이버 블로그](https://blog.naver.com/lunaparkblog/222385025290)
+* [등기부등본 보는법 핵심정리 / 자취방 구하기 EP.10 - YouTube](https://www.youtube.com/watch?v=EkhMPS_qnts)
+  * 열람할 때 '요약'도 체크해서 볼 것
+* [건축물대장과 등기부등본은 세트다. 건축물대장 보는법 속성 - YouTube](https://www.youtube.com/watch?v=W6rLIYhFUQk)
+  * 다세대 - 개별 등기, 아파트와 마찬가지
+  * 다가구
+    * 건물 등기(호실별 구분 x, 즉 단독 건물), 보통 3개층까지만 가능하기 때문에 4층 이상이면 다가구일 가능성은 적음
+    * 즉 등기부등본에서 집합 건물이 아님. 토지와 건물이 개별 주인일 수도 있고 개별 근저당이 있을 수도 있음
+  * 등기부등본 - 권리에 대한 내용 중심
+  * 건축물대장
+    * 건물자체에 대한 내용 중심
+    * 속칭 '쪼개기'를 통해 세대 수보다 많은 집이 존재하는 지 확인 가능
+    * 같은 건물 안에서도 특정 호수가 오피스텔인 경우도 있음
+    * 표제부 - 건물 전체, 전유부 - 호실에 대한 내용
+    * 호/가구/세대: 호 - 오피스텔, 가구 - 다가구, 세대 - 다세대
+    * 위반건축물은 열람시 '위반건출물'이란 노란색 표시가 있음
 * [비품, 장기수선충당금 등의 문제](https://pgr21.com/qna/139934)
   * 부동산 전문 변호사와 대한법률구조공단을 통해 안내받은 내용
   * 1. 매매계약서에 특정된 비품이 아니면 매매목적물에 해당되지 않으므로, 갖고 있지 않은 비품을 제공할 필요 없음
@@ -58,13 +85,10 @@ House
 * [입주 전 새 아파트, 어디를 어떻게 점검해야 할까?](http://board.realestate.daum.net/gaia/do/estate/power/read?bbsId=power&articleId=1011&pageIndex=1)
 * [묵시적 갱신](https://blog.naver.com/cy4028/221146795130)
 * [집 계약할 때 알아야 하는 서류 4총사](http://move.realestate.daum.net/tipview.asp?idx=46)
-* [전세 · 월세계약서 나에게 유리하게 쓰는 TIP 4](https://www.youtube.com/watch?v=e8TFgcXc5vc)
 * ["집에 비가 새요"..집주인 vs 세입자, 누구 책임일까](http://v.media.daum.net/v/20180712051510817)
 * [**부동산 시장의 신호와 소음**](https://brunch.co.kr/@charlieoppa86/33)
 * [베란다·발코니 차이 모르고 집샀다가 '이행강제금 폭탄'](https://news.v.daum.net/v/20181023040105309)
 * [집 구할 때 주의할 점](https://imgur.com/a/3eCbRa2)
-* [전세계약대리인 주의합시다](https://blog.naver.com/hs-villa/221320279967)
-* [**역전세 상황에서 전세금 미반환으로 인한 소송 및 강제경매까지 후기**](https://gist.github.com/hyunjun/d35dc920155b31a259c47a59f142ee73#file-md)
 * [EBS가 이상해 — “EBS 경제대기획 빚 3부작”](https://medium.com/@ghilbut/ebs%EA%B0%80-%EB%A7%8E%EC%9D%B4-%EC%95%84%ED%8C%8C-ebs-%EA%B2%BD%EC%A0%9C%EB%8C%80%EA%B8%B0%ED%9A%8D-%EB%B9%9A-3%EB%B6%80%EC%9E%91-6ddb8a45e4d)
 * 미세 먼지
   * [실내 공기질 개선 관련 팁들](http://blog.chesterventures.com/221492244810)
@@ -79,6 +103,14 @@ House
 * [내 연소득으로 살 수 있는 아파트, 어디에 있을까? (+중소기업 신입이 서울에 아파트를 사려면 몇년이 걸릴까?) – SPH](https://www.sphinfo.com/gis-house/)
 * [올해 수도권 부동산 절대로 사지마라 (김기원 대표) - YouTube](https://www.youtube.com/watch?v=dUmdSSTu-Pk)
   * 전세대비 저평가지수, 처분가능소득 vs 매수, KB부동산지수 vs 물가지수 누적증감률, 물가대비 저평가 index, 주택구매력지수(HAI) vs 매매, GDP대비 시가총액, 시가총액 / 국민순자산
+* [기사 - 생중계 인알못의 인테리어 턴키 시공기1 : 서울을 떠나며](https://www.ddanzi.com/ddanziNews/671587897)
+* [보푸라기 아랫집 누수사고 '일배책'으로 보상받자](https://news.v.daum.net/v/20210731100505549) 일상생활배상책임보험
+* [부동산 저가매수 타이밍? 이때 사야합니다! - 홍춘욱 - YouTube](https://www.youtube.com/watch?v=Z2d2tQXH5-M)
+  * 주택구입부담지수 역사적평균(서울 120 경기도 80 전국 60)보다 낮은 시기 (2021.09 현재 서울 180)
+  * 준공 후 미분양 감소 시기
+  * 정부가 경기부양하는 시기(e.g. 2014년)
+  * 경매 낙찰가율이 평균보다 낮은 시기(역사적으로 서울 평균 80%인데 현재 120%) https://www.ggi.co.kr/ 낙찰가율
+* [부동산 중개 수수료 저렴하게...거래할 수 있는 곳 정리](https://open-support.tistory.com/entry/%EB%B6%80%EB%8F%99%EC%82%B0-%EC%A4%91%EA%B0%9C-%EC%88%98%EC%88%98%EB%A3%8C-%EC%A0%80%EB%A0%B4%ED%95%98%EA%B2%8C%EA%B1%B0%EB%9E%98%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94-%EA%B3%B3-%EC%A0%95%EB%A6%AC)
 
 # Library
 * [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)

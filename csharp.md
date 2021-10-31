@@ -42,6 +42,11 @@ C#
 * [How to create an image viewer in c#](https://www.youtube.com/watch?v=K4wpkiFEuUQ)
 * [Kyle Halladay - Ray Tracing In Notepad.exe At 30 FPS](http://kylehalladay.com/blog/2020/05/20/Rendering-With-Notepad.html)
 * [손글씨 인식 프로그램 구현 머신러닝 with C#, ML NET](https://www.youtube.com/watch?v=Nmso-oplEqI)
+* [**C# 고성능 서버 - 메모리 단편화 | leafbird/devnote**](https://leafbird.github.io/devnote/2021/08/08/C-%EA%B3%A0%EC%84%B1%EB%8A%A5-%EC%84%9C%EB%B2%84-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%8B%A8%ED%8E%B8%ED%99%94/)
+* [C# for Pentesters - Part I - AES256 Shell Code Encryption / Decryption and PE Thread Injection - YouTube](https://www.youtube.com/watch?v=6q-CYQR_QFw)
+* [C# for Pentesters - Part II - Process Injection and XOR Shell Code Encryption / Decryption - YouTube](https://www.youtube.com/watch?v=SoMirwLEo-s)
+* [C# for Pentesters - Part III - Classic DLL Injection - YouTube](https://www.youtube.com/watch?v=fCfneKhiYBw)
+* [C# for Pentesters - Part IV - Bypass Antivirus using PowerShell without PowerShell.exe - YouTube](https://www.youtube.com/watch?v=lS7IGDtfkHM)
 
 # API
 * [C# Futures: Null Check Operator](https://www.infoq.com/news/2020/07/CSharp-Null-Check/)
@@ -129,6 +134,8 @@ C#
 * [calculator - Windows Calculator: A simple yet powerful calculator that ships with Windows](https://github.com/Microsoft/calculator)
   * [Counting Bugs in Windows Calculator](https://m.habr.com/en/company/pvs-studio/blog/443400/)
 * [CSCore - An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited](https://github.com/filoe/cscore)
+* Entity Framework Core
+  * [리얼월드를 지탱하는 기술 #1 — Entity Framework Core ORM (소개편) | by 이예찬 | Uniquegood | Oct, 2021 | Medium](https://medium.com/uniquegood/%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C%EB%A5%BC-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-1-entity-framework-core-orm-%EC%86%8C%EA%B0%9C%ED%8E%B8-9af53bbbe9b1)
 * [Json.NET](https://www.newtonsoft.com/json)
   * [JSON.NET JObject - how do I get value from this nested JSON structure](https://stackoverflow.com/questions/40538001/json-net-jobject-how-do-i-get-value-from-this-nested-json-structure)
 * [NuGet - The landing page for NuGet's repositories](https://github.com/nuget/home)
@@ -141,6 +148,9 @@ C#
 * [Symbolism, a computer algebra library for C#](https://github.com/dharmatech/Symbolism/)
   * [physics problem using Symbolism](https://gist.github.com/dharmatech/a5e74ef03d98b3ff1c45)
 * [Uno Platform](https://platform.uno/)
+* WinUI 3
+  * [Xaml-Controls-Gallery at winui3](https://github.com/microsoft/Xaml-Controls-Gallery/tree/winui3)
+  * [WinUI 3 소개](https://dimohy.slogger.today/winui-3)
 * [WolframAlpha.NET - An implementation of the Wolfram|Alpha 2.0 API in C#](https://github.com/Genbox/WolframAlpha.NET)
 * [XLParser - A C# Excel formula parser with the following properties](https://github.com/spreadsheetlab/XLParser)
 * [youFastCSV: Most of data science projects require extracting data from csv files. So I customise an in-memory data model which supports reading csv file to memory and convert to json, html to xml at ultra speed. Below demo is running on a 8 cores CPU with 32GB memory. I completed this project within 12 days](https://github.com/YuWaiPang/youFastCSV)

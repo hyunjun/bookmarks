@@ -95,6 +95,7 @@ Data Visualization
 * [5 ‘More’ Open Source tools to get started with Data Visualisation | by Parul Pandey | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/5-more-open-source-tools-to-get-started-with-data-visualisation-a03373972f81)
 * [SVG와 삼각 함수로 도넛 차트 만들어보기 | Evans Library](https://evan-moon.github.io/2020/12/12/draw-arc-with-svg-clippath/)
 * [Visualizing Data Timeliness at Airbnb | by Chris C Williams | Airbnb Engineering & Data Science | Feb, 2021 | Medium](https://medium.com/airbnb-engineering/visualizing-data-timeliness-at-airbnb-ee638fdf4710)
+* [데이터를 시각적으로 표현하기 위한 문법 - GRAMMAR OF GRAPHICS](https://lumiamitie.github.io/data/grammar-of-graphics/)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
@@ -107,6 +108,7 @@ Data Visualization
 * Datalab
   * [Google Launches Cloud Datalab, An Interactive Tool For Exploring And Visualizing Data](http://techcrunch.com/2015/10/13/google-launches-cloud-datalab-an-interactive-tool-for-exploring-and-visualizing-data)
   * [Google Cloud에서 Datalab 사용하기 #1](https://jungwoon.github.io/google%20cloud/2017/10/27/Google-Datalab_1/)
+* [Google Data Studio Tutorial: Dashboard for Beginners | Coupler.io Blog](https://blog.coupler.io/google-data-studio-tutorial-for-beginners/)
 * [Facets: An Open Source Visualization Tool for Machine Learning Training Data](https://research.googleblog.com/2017/07/facets-open-source-visualization-tool.html)
 
 # Graph
@@ -130,6 +132,8 @@ Data Visualization
 * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org ](https://github.com/mozilla/metrics-graphics)
 * [plotly.js](https://plot.ly/javascript/)
   * [An introduction to plotly.js — an open source graphing library](https://medium.freecodecamp.org/an-introduction-to-plotly-js-an-open-source-graphing-library-c036a1876e2e)
+* [rawgraphs-app: A web interface to create custom vector-based visualizations on top of RAWGraphs core](https://github.com/rawgraphs/rawgraphs-app)
+  * [Home | RAWGraphs](https://rawgraphs.io/)
 * [revogrid: Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible performance](https://github.com/revolist/revogrid)
 * [SandDance - Visually explore, understand, and present your data. https://sanddance.js.org ](https://github.com/Microsoft/SandDance)
   * Visual Studio Code, Azure Data Studio에서도 사용 가능, 2D/3D 히스토그램, bar, density, scatter, Grid, Treemap 등 다양한 시각화 가능
@@ -288,6 +292,7 @@ Data Visualization
 * [Data Visualization using Python on Jupyter Notebook - YouTube](https://www.youtube.com/watch?v=tse_8LLWtfY)
 * [BayPiggies meeting January 2021: Serverless Computing with Wesley Chun and More! - YouTube](https://www.youtube.com/watch?v=nOj8y_gjSWI)
 * [Albert Tian Chen - COVIDCG:SARS-CoV-2 Mutation Tracking + Genomic Data Visualization | PyData Boston - YouTube](https://www.youtube.com/watch?v=G744eRCdAYo)
+* [Global AI Boot Camp Busan : 이왕이면 다홍 데이터 (Python Visualization)](https://www.slideshare.net/SubinAn1/ss-205782769)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
 * [Awesome Panel](https://awesome-panel.org/)
@@ -467,9 +472,16 @@ Data Visualization
 * [Matplotlib Vis. Function | Pega Devlog](https://jehyunlee.github.io/2021/05/18/Python-DS-73-mplfunc/)
 * [Legend Control | Pega Devlog](https://jehyunlee.github.io/2021/06/06/Python-DS-76-mpllegend/)
 * [Datetime X-axis Control | Pega Devlog](https://jehyunlee.github.io/2021/06/29/Python-DS-77-datetime/)
-* [Matplotlib 3D Plots (1) | Pega Devlog](https://jehyunlee.github.io/2021/07/09/Python-DS-79-mpl3d/))
+* [Matplotlib 3D Plots (1) | Pega Devlog](https://jehyunlee.github.io/2021/07/09/Python-DS-79-mpl3d/)
+* [Matplotlib 3D Plots (2) | Pega Devlog](https://jehyunlee.github.io/2021/07/10/Python-DS-80-mpl3d2/)
+* [Streamgraph - Movie Genres | Pega Devlog](https://jehyunlee.github.io/2021/08/09/Python-DS-81-streamgraph/)
+* [3D curved surfaces | Pega Devlog](https://jehyunlee.github.io/2021/09/03/Python-DS-84-sphere/)
+* [Population by gender and age | Pega Devlog](https://jehyunlee.github.io/2021/10/05/Python-DS-85-popkr/)
+* [파이썬 코딩 무료 강의 (활용편5) - 데이터 분석 및 시각화, 이 영상 하나로 끝내세요 - YouTube](https://www.youtube.com/watch?v=PjhlUzp_cU0)
 * [**itermplot - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal**](https://github.com/daleroberts/itermplot)
 * [mpld3 - Plotly 랑 Bokeh 공부하기 귀찮다. 그냥 matplotlib 를 사용해서 웹서비스하자](http://hamait.tistory.com/850)
+* [prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries](https://github.com/marceloprates/prettymaps)
+* [python-data-visualization: Example Code Notebooks for Data Visualization in Python](https://github.com/javedali99/python-data-visualization)
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn)
   * [Statistical data visualization using matplotlib http://stanford.edu/~mwaskom/software/seaborn ](https://github.com/mwaskom/seaborn)
   * [Histograms and Density Plots in Python Visualizing One-Dimensional Data in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
@@ -510,6 +522,8 @@ Data Visualization
   * [수능 Trend Visualization (3) | Pega Devlog](https://jehyunlee.github.io/2020/12/24/Python-DS-50-suneung3/)
   * [Gibbs Sampling in N-Dimension | Pega Devlog](https://jehyunlee.github.io/2021/04/20/Python-DS-69-gibbsampling/)
   * [Seaborn Heatmap & Colorbar Control | Pega Devlog](https://jehyunlee.github.io/2021/07/01/Python-DS-78-heatmapcolorbar/)
+  * [Full moon | Pega Devlog](https://jehyunlee.github.io/2021/09/26/Python-General-9-fullmoon/)
+  * [modifying seaborn violin plot | Pega Devlog](https://jehyunlee.github.io/2021/10/21/Python-DS-87_violinplotedit/)
   * [Matplotlib+ Seaborn + Pandas: An Ideal Amalgamation for Statistical Data Visualisation | by Meet Desai | Towards Data Science](https://towardsdatascience.com/matplotlib-seaborn-pandas-an-ideal-amalgamation-for-statistical-data-visualisation-f619c8e8baa3)
   * [파이썬 데이터 시각화 도구 씨본의 변화들 seaborn - distplot이 없어졌다?! - YouTube](https://www.youtube.com/watch?v=J2KTLJQDN6k)
   * [Mastering catplot() in Seaborn with categorical plots | Towards Data Science](https://towardsdatascience.com/mastering-catplot-in-seaborn-categorical-data-visualization-guide-abab7b2067af)

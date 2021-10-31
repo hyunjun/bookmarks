@@ -19,6 +19,8 @@ Politics
 * [그들의 찌라시를 분석한다 ② – 친일 방어 논리편](http://ppss.kr/archives/59765)
 * [신공항을 둘러싼 치열한 ‘정치 드라마’ - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=43298) 글 전개 방식이 좋아서
 * [초강대국, 패권등 국제정치 개념 정리](https://pgr21.com/freedom/89953)
+* [자유(Freedom)와 자유(Liberty)의 차이 - PENTALOGIA](https://pentalogia.com/archives/601)
+* ['시민종교', 정치와 종교의 교묘하고도 양가적인 결합 < 연재 < 기사본문 - 뉴스앤조이](https://www.newsnjoy.or.kr/news/articleView.html?idxno=303178)
 
 # 한국
 * [**시대정신을 묻는다**](http://www.huffingtonpost.kr/zeitgeist-korea/)
@@ -439,3 +441,6 @@ Politics
 
 # Denmark
 * [노인을 위한 나라는 있다](http://ppss.kr/archives/48609)
+
+# Germany
+* [굿바이, 메르켈... 주목하지 않은 그의 이야기 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0002772210&SRS_CD=0000012215)

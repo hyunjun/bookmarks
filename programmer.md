@@ -21,6 +21,7 @@ Programmer
 * [내가 StackOverflow를 사용하는 방법](https://emaren84.github.io/blog/archivers/how-i-use-stackoverflow-kor)
 * [046.016 컴퓨터과학이 여는 세계](http://ropas.snu.ac.kr/~kwang/046.016/benew/)
 * [30년간 개발자로 살면서 배운 것 Lessons From A Lifetime Of Being A Programmer](https://taegon.kim/archives/6546)
+* [가장 똑똑한 소프트웨어 엔지니어에게 배운 10가지 교훈 | 요즘IT](https://yozm.wishket.com/magazine/detail/969/)
 * [11 Pieces Of Advice For Programmers | by Daan | Level Up Coding](https://levelup.gitconnected.com/11-pieces-of-advice-for-programmers-8bcbad6330e9)
 * [All the best engineering advice I stole from non-technical people | by Marianne Bellotti | Medium](https://bellmar.medium.com/all-the-best-engineering-advice-i-stole-from-non-technical-people-eb7f90ca2f5f)
 * [**실리콘밸리 전설들의 수다: Masters of Scale**](http://www.andrewahn.co/silicon-valley/masters-of-scale/)
@@ -39,11 +40,14 @@ Programmer
 * [The Software Engineering Job Ladder](https://blog.usejournal.com/the-software-engineering-job-ladder-4bf70b4c24f3)
 * [왜 45세 정년이 될 수 밖에 없는가 (기술기업의 관점에서)](http://windy96.egloos.com/3495731)
   * Theory Z Teamism, Theory A Open Allocation
+* [An Old Hacker's Tips On Staying Employed - by Mad Ned - The Mad Ned Memo](https://madned.substack.com/p/an-old-hackers-tips-on-staying-employed)
 * [The One Who Kept VLC Free](https://www.welcometothejungle.co/en/articles/kempf-interview-vlc-videolan)
 * [john-carmack-plan-archive/by_year/johnc_plan_1996.txt](https://github.com/ESWAT/john-carmack-plan-archive/blob/master/by_year/johnc_plan_1996.txt)
 * [**The Product-Minded Software Engineer**](https://blog.pragmaticengineer.com/the-product-minded-engineer/) 제목 그대로
 * [좋은 엔지니어가 되기 위해 필요한 조건들](https://www.youtube.com/watch?v=l143ua2Hv6E) Starbucks Principle Enginner 오창호님
 * [코더 | Human-Computer Symbiosis](https://sangminpark.blog/2021/05/11/%ec%bd%94%eb%8d%94/) 잘하는 개발자의 조건
+* [쉽게 살 수 있을까 ? :: 소프트웨어 개발자가 되기 위해 발을 내딛으신 분들에게](https://hl1itj.tistory.com/230)
+* [문제 해결 능력에 앞서 문제 정의 능력이 중요하다. - F-Lab](https://blog.f-lab.kr/2021/09/12/problem-definition.html)
 * [개발직군이 놓쳐서는 안될10가지 (Developer attitude)](https://www.slideshare.net/visualkhh/10-developer-attitude) 개발외에 주의해야할 점
 * [Amazon을 이끄는 기술 구루 – Distinguished Engineers](http://channy.creation.net/blog/1270)
 * [‘Go to guy’: 회사에서 가장 인정 받는 인재](http://www.andrewahn.co/silicon-valley/go-to-guy/)
@@ -62,6 +66,8 @@ Programmer
 * [3 Mental Models for Coders | by Tyron Jung | Better Programming](https://medium.com/better-programming/3-mental-models-for-programmers-ed0eb4da3e63)
 * [인프런 - 주간 인프런 #22 여기 40년 경력의 개발자가 있다](https://www.inflearn.com/pages/weekly-inflearn-22)
 * [서버 개발자는 무엇부터 학습 해야할까 - 프레임워크, Git, SQL, Linux? - YouTube](https://www.youtube.com/watch?v=JfjH-uVkzAk)
+* [The New Way to Learn - by Sahil Bloom - The Curiosity Chronicle](https://sahilbloom.substack.com/p/the-new-way-to-learn)
+  * [새로운 학습 방법 : 학습은 기술이다 | GeekNews](https://news.hada.io/topic?id=5046)
 * [앨리스의 수다 라방 - YouTube](https://www.youtube.com/playlist?list=PL9fVSJzH3-mopbZLwUUNRp-MsMMte6Cst)
 * [드림코딩 by 엘리 - YouTube](https://www.youtube.com/channel/UC_4u-bXaba7yrRz_6x6kb_w/videos)
 * [Effective Engineer](https://gist.github.com/rondy/af1dee1d28c02e9a225ae55da2674a6f)
@@ -72,13 +78,31 @@ Programmer
 * [욕 안 먹는 개발자되기 · shiren the creator](https://blog.shiren.dev/2021-04-20/)
 * [1억 글로벌 서비스를 만들며 배운 것들 2](https://brunch.co.kr/@jinaseong/29) 디자이너 이야기이지만 읽어볼만 함
 * [신입 개발자로서 도움이 된 포스트/자료 모음](https://velog.io/@hyounglee/for-newbies)
+* [쏘카 안드로이드 팀 신입 개발자 미뇽의 입사기 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2021/08/19/join-in-socar-android.html)
+* [기업들이 신입개발자를 뽑지 않는 이유 – IT의 중심에서](https://subokim.wordpress.com/2021/09/15/why_dont_intern/)
 * [Why I prefer making useless stuff - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
 * [System Compleat. System Compleat.](https://kerberosj.tistory.com/) Singapore DBS 근무
 * [왜 개발자는 잘못된 기술 선택을 밥 먹듯이 하나?](https://kingofbackend.tistory.com/129)
+* [How to drive away your best engineers. | padraigobrien.com](https://padraigobrien.com/posts/2021/09/how-to-drive-away-your-best-engineers/)
+  * 소프트웨어를 만들지 못하는 관리자 고용
+  * 과도한 관리자를 고용하고 계층 생성
+  * 가능한 많은 회의
+  * 고통스러운 소프트웨어 정의 과정
+  * 어려운 소프트웨어 딜리버리
+  * 엔지니어가 작업을 추정
+  * 아주 작은 팀
+  * 다른 팀에서 엔지니어를 빌림
+* [방향성이 명확한 노력으로 나만의 색깔을 가진 사람이 되기 | Evans Library](https://evan-moon.github.io/2021/09/10/developer-direction-of-effort/)
+* [F-Lab이 생각하는 좋은 멘토의 모습 - F-Lab](https://blog.f-lab.kr/2021/09/30/what-is-good-mentor.html) mentor
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
 * [더북(TheBook): 소프트 스킬 : 평범한 개발자의 비범한 인생 전략 71가지](https://thebook.io/006794/) 26장만
+
+# Career path
+* [23 Alternative Career Paths that Software Developers Can Grow Into](https://www.freecodecamp.org/news/alternative-career-paths/)
+* [Creating a career ladder for engineers - Marco Rogers | #LeadDevNewYork - YouTube](https://www.youtube.com/watch?v=jA1Q94d2z10) 개발자들의 커리어 사다리가 왜 중요하고 어떻게 운영하면 되는가
+* [What I Learnt Becoming a Tech Lead - Tom Gamon](https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/)
 
 # Cultuer, Team
 * [훌륭한 개발 문화의 이면(7) – 잉여력이냐 vs. 효율성이냐](http://channy.creation.net/blog/1238) 개발자 경력 경로

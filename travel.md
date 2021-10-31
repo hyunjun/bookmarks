@@ -281,6 +281,9 @@ Travel
 ## Carribean
 * [생 마르텡 섬의 해변과 가까운 공항, 이곳에 비행기가 착륙하는 모습은?(사진, 동영상)](http://www.huffingtonpost.kr/2015/03/15/story_n_6871770.html)
 
+## Cuba
+* [쿠바 토목공학의 7대 불가사의, 이게 휴게소 풍경이라니 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002757699&CMPT_CD=SEARCH)
+
 ## Mexico
 * [멕시코 칸쿤 수중미술관 MUSA의 아름다움을 카메라에 담아내다](http://www.huffingtonpost.kr/2015/03/19/story_n_6906780.html)
 

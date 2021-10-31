@@ -237,9 +237,6 @@ TensorFlow
 * [Chainer, MXNet, CNTK, TF benchmarking](https://tensorflow.blog/2017/02/13/chainer-mxnet-cntk-tf-benchmarking/)
 * [Performance of Distributed Deep Learning using ChainerMN](http://chainer.org/general/2017/02/08/Performance-of-Distributed-Deep-Learning-Using-ChainerMN.html)
 * [NCCL을 이용한 Efficient한 Tensorflow MultiGPU Training 코드 작성하기](http://openresearch.ai/t/nccl-efficient-tensorflow-multigpu-training/159)
-* [Android에서 TensorFlow 실행하기](http://www.kmshack.kr/2017/03/android%EC%97%90%EC%84%9C-tensorflow-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/)
-* [Tensorflow로 학습한 모델을 Android 앱으로 만들기](http://blog.naver.com/cenodim/220968116373)
-* [E2E tf.Keras to TFLite to Android](https://medium.com/@margaretmz/e2e-tfkeras-tflite-android-273acde6588)
 * [FMA: A Dataset For Music Analysis](https://github.com/mdeff/fma)
 * [Boost Python으로 Tensorflow에서 C++ API 사용하기](http://blog.naver.com/atelierjpro/220965203959)
 * [Tensorflow1.0 에 있는 wide_n_deep_tutorial.py 를 분석해 보았습니다](https://github.com/SSaMKJ/study201702/blob/master/com/ssamkj/py/wide_n_deep/notebook/wide_n_deep_tutorial.ipynb)
@@ -467,6 +464,7 @@ TensorFlow
 * [TensorFlow를 활용한 네이버쇼핑의 상품 카테고리 자동 분류](https://d2.naver.com/helloworld/1264836)
 * [Knowledge Distillation Methods with Tensorflow](https://github.com/sseung0703/Knowledge_distillation_methods_wtih_Tensorflow)
 * [Knowledge Distillation 리뷰](https://ezobear.github.io/model%20compression/2020/01/02/KD-post.html)
+* [FunMatch-Distillation: TF2 implementation of knowledge distillation using the "function matching" hypothesis from https://arxiv.org/abs/2106.05237 ](https://github.com/sayakpaul/FunMatch-Distillation)
 * [NovelViewSynthesis - A TensorFlow implementation of a simple Novel View Synthesis model on ShapeNet (cars and chairs), KITTI, and Synthia](https://github.com/shaohua0116/NovelViewSynthesis-TensorFlow)
 * [Cutting Edge TensorFlow: New Techniques (Google I/O'19)](https://www.youtube.com/watch?v=Un0JDL3i5Hg)
 * [RBM Deep Dive with Tensorflow (KR)](https://dos-tacos.github.io/code%20review/RBM/)
@@ -476,7 +474,6 @@ TensorFlow
 * [Tensorflow C++ 동적 링크드 라이브러리(stanalone C++ project) 만들기](https://ita9naiwa.github.io/tensorflow/2017/11/26/how-to-tensorflow-C++.html)
 * [My Tensorflow Test](https://github.com/rky0930/MyTensorflowTest)
 * [**CPU, GPU, and TensorFlow**](https://teamdable.github.io/techblog/CPU-GPU-and-TensorFlow) CPU, GPU의 기본 구조 및 차이에 대한 좋은 글
-* [Predicting Diabetes using Logistic Regression with TensorFlow.js | Deep Learning for JavaScript Hackers (Part I)](https://www.curiousily.com/posts/diabetes-prediction-using-logistic-regression-with-tensorflow-js/)
 * [TensorFlow에서 추천 시스템 구축: 개요](https://cloud.google.com/solutions/machine-learning/recommendation-system-tensorflow-overview)
 * [TensorFlow with Apache Arrow Datasets](https://medium.com/tensorflow/tensorflow-with-apache-arrow-datasets-cdbcfe80a59f)
 * [Introducing Neural Structured Learning in TensorFlow](https://medium.com/tensorflow/introducing-neural-structured-learning-in-tensorflow-5a802efd7afd)
@@ -494,6 +491,7 @@ TensorFlow
 * [Predicting Probability Distributions Using Neural Networks - Taboola Tech Blog](https://engineering.taboola.com/predicting-probability-distributions/)
 * [SETI, step by step guide for Beginner/EDA/TF | Kaggle](https://www.kaggle.com/yeonghyeon/seti-step-by-step-guide-for-beginner-eda-tf)
 * [케라스와 텐서플로 허브를 사용한 영화 리뷰 텍스트 분류하기  |  TensorFlow Core](https://www.tensorflow.org/tutorials/keras/text_classification_with_hub?hl=ko)
+* [Introducing TensorFlow Similarity — The TensorFlow Blog](https://blog.tensorflow.org/2021/09/introducing-tensorflow-similarity.html)
 
 # 2.0
 * [TensorFlow 2.0을 출시했습니다](https://developers-kr.googleblog.com/2019/10/tensorflow-2-0-is-now-available.html)
@@ -535,8 +533,17 @@ TensorFlow
 * [Process Images for Fine-Tuned MobileNet with TensorFlow's Keras API](https://morioh.com/p/075c5027ac20)
 * [Tensorflow2 Keras – Custom loss function and metric classes for multi task learning – Keunwoo Choi](https://keunwoochoi.wordpress.com/2020/09/28/tensorflow2-keras-custom-loss-function-and-metric-classes-for-multi-task-learning/)
 * [Getting Your Hands Dirty with TensorFlow 2.0 and Keras API](https://morioh.com/p/e793973a007e)
+* [Normalizing-Flow-TF2: TensorFlow implementation of "Variational Inference with Normalizing Flows"](https://github.com/YeongHyeon/Normalizing-Flow-TF2)
 * [ReXNet-TF2: TensorFlow implementation of "ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network"](https://github.com/YeongHyeon/ReXNet-TF2)
 * [tf2-reformer: Reproducing the reformer with tf2](https://github.com/domyounglee/tf2-reformer)
+
+# Android
+* [Android에서 TensorFlow 실행하기](http://www.kmshack.kr/2017/03/android%EC%97%90%EC%84%9C-tensorflow-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0/)
+* [Tensorflow로 학습한 모델을 Android 앱으로 만들기](http://blog.naver.com/cenodim/220968116373)
+* [E2E tf.Keras to TFLite to Android](https://medium.com/@margaretmz/e2e-tfkeras-tflite-android-273acde6588)
+* [Human Activity Recognition using LSTMs on Android — TensorFlow for Hackers (Part VI)](https://medium.com/@curiousily/human-activity-recognition-using-lstms-on-android-tensorflow-for-hackers-part-vi-492da5adef64)
+* [텐서플로 라이트를 활용한 안드로이드 딥러닝 - 더 작고, 더 가벼운, 모바일, 에지 기기용 머신러닝 – Sangkon, Han – 개발자; 읽고 생각하고 쓰고 회고하고 정리한다.](https://sigmadream.github.io/Android_Deep_Learning_with_TensorFlow_Lite/)
+* [토닥토닥 ML Kit - ML Kit 인공지능 앱 만들기 (텐서플로우 Lite 모델) (아이폰 (스위프트)) - WikiDocs](https://wikidocs.net/book/5769)
 
 # Book
 * [A Curated List Of Dedicated Resources- TensorFlow Books](https://www.techleer.com/articles/401-a-curated-list-of-dedicated-resources-tensorflow-books/)
@@ -698,6 +705,7 @@ TensorFlow
 * [ImportError: libcudnn.so.7: cannot open shared object file: No such file or directory](https://jybaek.tistory.com/778)
 * [AI Practitioners Guide for Beginners](https://software.intel.com/en-us/articles/ai-practitioners-guide-for-beginners)
 * [머신러닝 개발환경 : 아나콘다, 텐서플로우 설치](https://www.youtube.com/watch?v=XIySEGmUWd0)
+* [M1 텐서플로우 설치하기](https://dalinaum.github.io/mac/2021/10/04/tensorflow-m1.html)
 
 ## Installation CentOS
 * [CentOS 7 기반 Multi GPU에 Tensorflow 설치 가이드](https://www.facebook.com/groups/TensorFlowKR/permalink/264269217247477/)
@@ -798,6 +806,7 @@ TensorFlow
 * [Phobrain - Photo classification with TensorFlow For Poets](http://phobrain.com/pr/home/tf_poet.html)
 * [Polyaxon - A platform that helps you build, manage and monitor deep learning models](http://polyaxon.com/)
 * [Pretty Tensor: Fluent Networks in TensorFlow](https://github.com/google/prettytensor)
+* [QuickDraw-AirGesture-tensorflow: Implementation of QuickDraw - an online game developed by Google, combined with AirGesture - a simple gesture recognition application](https://github.com/uvipen/QuickDraw-AirGesture-tensorflow)
 * [Raspberry Pi - Installing TensorFlow on Raspberry Pi 3 (and probably 2 as well)](https://github.com/samjabrahams/tensorflow-on-raspberry-pi/)
   * [TensorFlow 1.9 Officially Supports the Raspberry Pi](https://medium.com/tensorflow/tensorflow-1-9-officially-supports-the-raspberry-pi-b91669b0aa0?linkId=55070050)
 * S4TF
@@ -902,11 +911,13 @@ TensorFlow
   * [Realtime Object Detection with MobileNet - ML with Tensorflow.js](https://morioh.com/p/38cef719dc0d)
   * [자바스크립트로 만드는 인공지능 - TensorFlow.js - YouTube](https://www.youtube.com/watch?v=5q2E3JMXTKU)
   * [Real-time AR Sudoku solver - Made with TensorFlow.js - YouTube](https://www.youtube.com/watch?v=x-HH0kwbO-4)
+  * [TensorFlow.js의 2021년](https://brunch.co.kr/@advisor/30)
+  * [Predicting Diabetes using Logistic Regression with TensorFlow.js | Deep Learning for JavaScript Hackers (Part I)](https://www.curiousily.com/posts/diabetes-prediction-using-logistic-regression-with-tensorflow-js/)
+  * [TensorFlow로 디자인시스템 만들기. 이 블로그 포스팅은 저에게 매우 의미 있는 순간입니다. 저는 지난해부터… | by Jude Park | Aug, 2021 | Medium](https://judepark-6960.medium.com/a-design-system-made-with-tensorflow-js-8f6c567e9593)
   * [face-api.js](https://github.com/justadudewhohacks/face-api.js)
     * [face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07)
   * [Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code](https://hackernoon.com/handtrackjs-677c29c1d585)
   * [Pose Animator](https://github.com/yemount/pose-animator/)
-  * [TensorFlow.js의 2021년](https://brunch.co.kr/@advisor/30)
   * [tensorspace - Neural network 3D visualization framework, build interactive and intuitive model in browsers, support pre-trained deep learning models from TensorFlow, Keras, TensorFlow.js https://tensorspace.org ](https://github.com/tensorspace-team/tensorspace)
     * [TensorSpace.js](https://tensorspace.org/index.html)
   * twilio
@@ -984,7 +995,6 @@ TensorFlow
 * [A noob’s guide to implementing RNN-LSTM using Tensorflow](http://monik.in/a-noobs-guide-to-implementing-rnn-lstm-using-tensorflow/)
 * [LSTM을 텐서플로우 안 쓰고 행렬 연산으로 직접 구해보기](https://notebooks.azure.com/hoyean-song/libraries/tensorflow-tutorial/html/LSTM%20breakdown.ipynb)
 * [LSTM by Example using Tensorflow](https://medium.com/towards-data-science/lstm-by-example-using-tensorflow-feb0c1968537)
-* [Human Activity Recognition using LSTMs on Android — TensorFlow for Hackers (Part VI)](https://medium.com/@curiousily/human-activity-recognition-using-lstms-on-android-tensorflow-for-hackers-part-vi-492da5adef64)
 * [Introduction to LSTMs with TensorFlow](https://www.oreilly.com/ideas/introduction-to-lstms-with-tensorflow)
 * [An Introduction to LSTMs in Tensorflow](https://www.youtube.com/watch?v=l4X-kZjl1gs)
 * [Sequence Tagging with Tensorflow - bi-LSTM + CRF with character embeddings for NER and POS](https://guillaumegenthial.github.io/sequence-tagging-with-tensorflow.html)
@@ -1295,3 +1305,4 @@ TensorFlow
 * [Softmax Regression 기본 개념 파악 및 실습하기 | sTricky](https://stricky.tistory.com/445)
 * [꿀벌개발일지 :: DeepLearning.AI TensorFlow Developer 노트](https://ohgyun.com/799)
 * [9 Best Tensorflow Courses & Certifications Online in 2021- Find the Best!](https://www.mltut.com/best-tensorflow-courses-certifications-online/)
+* [Best TensorFlow Courses from World-Class Educators](https://kanger.dev/tensorflow-courses)

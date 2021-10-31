@@ -58,6 +58,7 @@
   * [Making Apache Spark Testing Easy with Spark Testing Base](http://blog.cloudera.com/blog/2015/09/making-apache-spark-testing-easy-with-spark-testing-base/)
   * [Getting Apache Spark Customers to Production](http://www.slideshare.net/cloudera/getting-apache-spark-customers-to-production)
   * [Why Your Apache Spark Job is Failing](http://www.slideshare.net/cloudera/why-your-apache-spark-job-is-failing)
+  * [How to use Apache Spark with CDP Operational Database Experience - Cloudera Blog](https://blog.cloudera.com/how-to-use-apache-spark-with-cdp-operational-database-experience/)
 * [The Apache Spark @youtube](https://www.youtube.com/user/TheApacheSpark)
 * [Apache spark 소개 및 실습](http://www.slideshare.net/KangDognhyun/apache-spark-70360736)
 * [Spark 소개 1부](http://www.slideshare.net/brotherjinho/spark-1-48694544)
@@ -80,6 +81,7 @@
   * [스파크의 사용 환경 내용 - data bricks](http://knight76.tistory.com/entry/%ED%8E%8C-%EC%8A%A4%ED%8C%8C%ED%81%AC%EC%9D%98-%EC%82%AC%EC%9A%A9-%ED%99%98%EA%B2%BD-%EB%B0%9C%ED%91%9C)
   * databricks community edition [Hands-On Training for Data Science and Machine Learning - YouTube](https://www.youtube.com/watch?v=3AdVRy1R_8s)
 * [What is shuffle read & shuffle write in Apache Spark](http://stackoverflow.com/questions/27276884/what-is-shuffle-read-shuffle-write-in-apache-spark)
+* [Spark Shuffle Partition과 최적화 – tech.kakao.com](https://tech.kakao.com/2021/10/08/spark-shuffle-partition/)
 * [Scrap your MapReduce! (Or, Introduction to Apache Spark)](http://rahulkavale.github.io/blog/2014/11/16/scrap-your-map-reduce/)
 * [Learning Spark](https://www.safaribooksonline.com/library/view/learning-spark/9781449359034/)
 * [Introduction to Data Science with Apache Spark](http://ko.hortonworks.com/blog/introduction-to-data-science-with-apache-spark/)
@@ -398,6 +400,10 @@
 * [Scale-Out Using Spark in Serverless Herd Mode! - YouTube](https://www.youtube.com/watch?v=zoFwtJ-j5co)
 * [DBIOTransactionalCommit - Databricks](https://docs.databricks.com/_static/notebooks/dbio-transactional-commit.html)
 * [입 개발 EMR에서는 sc.addFile, Databricks에서는 그냥 dbfs 폴더를 이용하자. | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/25/%ec%9e%85-%ea%b0%9c%eb%b0%9c-emr%ec%97%90%ec%84%9c%eb%8a%94-sc-addfile-databricks%ec%97%90%ec%84%9c%eb%8a%94-%ea%b7%b8%eb%83%a5-dbfs-%ed%8f%b4%eb%8d%94%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%98%ec%9e%90/)
+* [Spark interview Q&As with coding examples in Scala - part 1 | Java-Success.com](https://www.java-success.com/spark-interview-qas-with-coding-examples-in-scala-part-1/)
+* [How to Extract Deeper Value from Data in Legacy Applications with Analytics in a Cloud Data Lake - YouTube](https://www.youtube.com/watch?v=cylRHSsT24o)
+* [Scala 3 and Spark?. After the release of Scala 3, one of… | by Filip Zybała | VirtusLab | Oct, 2021 | Medium](https://medium.com/virtuslab/scala-3-and-spark-389f7ecef71b)
+* [Apache Spark #1 - 아키텍쳐 및 기본 개념](https://bcho.tistory.com/1387)
 
 # Apache Livy
 * [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
@@ -423,6 +429,7 @@
   * [Part 6 : Anatomy of V2 Write API](http://blog.madhukaraphatak.com/spark-datasource-v2-part-6/)
   * [Part 7 : Meetup Talk](http://blog.madhukaraphatak.com/spark-datasource-v2-part-7/)
 * [Migrating to Spark 2.4 Data Source API](http://blog.madhukaraphatak.com/migrate-spark-datasource-2.4/)
+* [Map Filter Reduce & Lambda in Python & Scala| Comparison of Lambda Syntaxes Step by Step| Beginners - YouTube](https://www.youtube.com/watch?v=ugbad1B0IZ4)
 * aggregate
 
   ```
@@ -446,6 +453,7 @@
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
   * [spark2.0 dataframe의 filter,where,isin,select,contains,col,between,withColumn, 예제](http://knight76.tistory.com/entry/spark20-dataframe%EC%9D%98-filterwhereisinselect)
   * [Spark: Connecting to a jdbc data-source using dataframes](http://www.infoobjects.com/spark-connecting-to-a-jdbc-data-source-using-dataframes/)
+  * [입 개발 Spark 에서 Database 빨리 덤프하는 법(Parallelism) | Charsyam's Blog](https://charsyam.wordpress.com/2021/09/06/%EC%9E%85-%EA%B0%9C%EB%B0%9C-spark-%EC%97%90%EC%84%9C-database-%EB%B9%A8%EB%A6%AC-%EB%8D%A4%ED%94%84%ED%95%98%EB%8A%94-%EB%B2%95parallelism/) Spark JDBC
   * [where과 filter의 차이](http://knight76.tistory.com/entry/spark-where%EA%B3%BC-filter%EC%9D%98-%EC%B0%A8%EC%9D%B4)
   * [Using spark data frame for sql](https://www.slideshare.net/charsyam2/using-spark-data-frame-for-sql)
   * [Selecting Dynamic Columns In Spark DataFrames (aka Excluding Columns)](http://bailiwick.io/2017/08/08/selecting-dynamic-columns-in-spark-dataframes/)
@@ -457,6 +465,7 @@
   * [How I achieved 3x speedup for joins over Spark dataframes](https://medium.com/@cbhaavan/3x-performance-improvement-for-joins-on-spark-dataframe-d79e93a5fc48)
   * [Deep dive into Apache Spark Window Functions | by Neeraj Bhadani | Expedia Group Technology | Medium](https://medium.com/expedia-group-tech/deep-dive-into-apache-spark-window-functions-7b4e39ad3c86)
   * [Making the Spark DataFrame composition type safe(r) | by Iaroslav Zeigerman | Feb, 2021 | Medium](https://izeigerman.medium.com/making-the-spark-dataframe-composition-type-safe-r-7b6fed524ec2)
+  * [How to add row numbers to a Spark DataFrame? | Data Programmers](https://www.datarchy.tech/code/20200820_spark_rows_number/)
 * Datasets
   * [Introducing Spark Datasets](https://databricks.com/blog/2016/01/04/introducing-spark-datasets.html)
   * [Spark SQL, DataFrames and Datasets Guide](http://spark.apache.org/docs/latest/sql-programming-guide.html)
@@ -468,7 +477,7 @@
   * [(2) Solution to Spark Auto Schema inference (String) for JSON Array / JSON Object/Record/Row Problem | LinkedIn](https://www.linkedin.com/pulse/spark-auto-schema-inference-json-objects-array-shubham-chakraborty/)
 * DateTime [Deep Dive into Apache Spark DateTime Functions](https://medium.com/expedia-group-tech/deep-dive-into-apache-spark-datetime-functions-b66de737950a)
 * distinct
-  * [동일성, 동등성, Spark의 distinct](https://leeyh0216.github.io/dev/lang/spark/2017/04/30/dev-spark-equals.html)
+  * [~동일성, 동등성, Spark의 distinct~](https://leeyh0216.github.io/dev/lang/spark/2017/04/30/dev-spark-equals.html)
 * groupByKey
   * [Avoid GroupByKey](https://databricks.gitbooks.io/databricks-spark-knowledge-base/content/best_practices/prefer_reducebykey_over_groupbykey.html)
 * HashPartitioner
@@ -523,6 +532,8 @@
 * [Zeppelin 노트북: NSMC Word2Vec & Sentiment Classification](https://github.com/uosdmlab/nsmc-zeppelin-notebook)
 * [Spark, Mesos, Zeppelin, HDFS를 활용한 대용량 보안 데이터 분석](https://engineering.linecorp.com/ko/blog/detail/60)
 * [2020 데이터 컨퍼런스 "Spark+Cassandra 기반 빅데이터를 활용한 추천시스템 서빙 파이프라인 최적화" / 박수성 SSG.COM 파트너 - YouTube](https://www.youtube.com/watch?v=CQD-85a-NRs)
+* [Tale of Scaling Zeus to Petabytes of Shuffle Data @Uber - YouTube](https://www.youtube.com/watch?v=8n8zDvv59_A)
+* [Sub-Second Analytics for User-Facing Applications with Apache Spark and Rockset - YouTube](https://www.youtube.com/watch?v=-gRFwzK5L2s)
 
 # Deep Learning
 * [yahoo/CaffeOnSpark](https://github.com/yahoo/CaffeOnSpark)
@@ -588,6 +599,7 @@
 * [Create Spark Scala SBT project in Intellij Idea. 1-minute tutorial - YouTube](https://www.youtube.com/watch?v=XLgzBqrEZ0U)
 * [pocketcluster - One-Step Spark/Hadoop Installer v0.1.0](https://github.com/stkim1/pocketcluster)
 * [Spark 2: How to install it on Windows in 5 steps](https://medium.com/@dvainrub/how-to-install-apache-spark-2-x-in-your-pc-e2047246ffc3)
+* [Apache Spark Setup in Windows|Intellij IDE|CommandLine|Databricks|Zeppelin|All Methods Covered 2021. - YouTube](https://www.youtube.com/watch?v=S5p-2vlUBYo)
 
 # Kubernetes
 * [Introduction to Spark on Kubernetes](https://banzaicloud.github.io/blog/spark-k8s/)
@@ -614,6 +626,7 @@
 * [Apache Spark workloads on Kubernetes](https://spot.io/blog/apache-spark-workloads-on-kubernetes/)
 * [Apache Spark Streaming in K8s with ArgoCD & Spark Operator - YouTube](https://www.youtube.com/watch?v=9o50GiPPjpE)
 * [Spark on Kubernetes - Gang Scheduling with YuniKorn - Cloudera Blog](https://blog.cloudera.com/spark-on-kubernetes-gang-scheduling-with-yunikorn/)
+* [Superworkflow of Graph Neural Networks with K8S and Fugue - YouTube](https://www.youtube.com/watch?v=-aEZjQiqSFA) word2vec node2vec
 
 # Library
 * [Hadoop Tutorial: the new beta Notebook app for Spark & SQL](https://vimeo.com/125792752)
@@ -626,7 +639,8 @@
 * [couchbase-spark-connector - The Official Couchbase Spark Connector](https://github.com/couchbase/couchbase-spark-connector)
 * [CueSheet - a framework for writing Apache Spark 2.x applications more conveniently](https://github.com/kakao/cuesheet)
   * [No More "sbt assembly": Rethinking Spark-Submit using CueSheet](http://www.slideshare.net/jongwookkim/rethinking-sparksubmit-using-cuesheet)
-* [Delta Lake on Databricks - Databricks](https://databricks.com/product/delta-lake-on-databricks)
+* [Delta Lake - Reliable Data Lakes at Scale](https://delta.io/)
+  * [Delta Lake on Databricks - Databricks](https://databricks.com/product/delta-lake-on-databricks)
   * [Tutorial: How Delta Lake Supercharges Data Lakes - YouTube](https://www.youtube.com/watch?v=u1VfOiHVeMI)
   * [SmartSQL Queries powered by Delta Engine on Lakehouse - YouTube](https://www.youtube.com/watch?v=PCVyk8npl-k)
   * [Making Apache Spark™ Better with Delta Lake - YouTube](https://www.youtube.com/watch?v=LJtShrQqYZY)
@@ -637,6 +651,8 @@
   * [Delta Lake on Databricks Demo - YouTube](https://www.youtube.com/watch?v=BMO90DI82Dc)
   * [Make Reliable ETL Easy on Delta Lake - YouTube](https://www.youtube.com/watch?v=1AotjGNLo3Q)
   * [Building Lakehouses on Delta Lake with SQL Analytics Primer - YouTube](https://www.youtube.com/watch?v=n9cRw6AkNDQ)
+  * [Massive Data Processing in Adobe Experience Platform Using DeltaLake | by Jaemi Bremner | Adobe Tech Blog | Medium](https://medium.com/adobetech/massive-data-processing-in-adobe-experience-platform-using-deltalake-de5ceef2c150)
+  * [Multi-Table Transactions with LakeFS and Delta Lake - YouTube](https://www.youtube.com/watch?v=OYhbwrBCM9I)
 * [Dr. Elephant Self-Serve Performance Tuning for Hadoop and Spark](https://engineering.linkedin.com/blog/2016/04/dr-elephant-open-source-self-serve-performance-tuning-hadoop-spark)
 * EMR
   * [Large-Scale Machine Learning with Spark on Amazon EMR](http://blogs.aws.amazon.com/bigdata/post/Tx21LOP0UQ2ZA9N/Large-Scale-Machine-Learning-with-Spark-on-Amazon-EMR)
@@ -679,6 +695,7 @@
   * [Spark implemented in Rust with promising results](https://www.reddit.com/r/rust/comments/dltdmm/spark_implemented_in_rust_with_promising_results/)
 * [snappydata - Unified Online Transactions + Analytics + Probabilistic Data Platform](http://www.snappydata.io/blog/snappydata-technical-vision)
   * [SnappyData: OLTP + OLAP Database built on Apache Spark http://www.snappydata.io](https://github.com/SnappyDataInc/snappydata)
+* [spark-annoy: Building Annoy Index on Apache Spark](https://github.com/mskimm/spark-annoy)
 * [spark cassandra connector - 스파크에 카산드라 연동하는 라이브러리](http://knight76.tistory.com/entry/spark-spark-cassandra-connector-%EC%8A%A4%ED%8C%8C%ED%81%AC%EC%97%90-%EC%B9%B4%EC%82%B0%EB%93%9C%EB%9D%BC-%EC%97%B0%EB%8F%99%ED%95%98%EB%8A%94-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
 * [spark-fatJAR-example: scala-spark build fat-jar example](https://github.com/Moons08/spark-fatJAR-example)
   * [spark-submit을 위한 스파크 앱 JAR 생성하기 - Mk’s Blog](https://moons08.github.io/programming/scala_build/)
@@ -709,6 +726,8 @@
 * [Deep Dive into Monitoring Spark Applications Using Web UI and SparkListeners (Jacek Laskowski)](https://www.youtube.com/watch?v=mVP9sZ6K__Y)
 * [Apache Spark performance - All relevant key performance metrics about your Apache Spark instance in minutes](https://www.dynatrace.com/technologies/apache-spark-monitoring/apache-spark-performance/)
 * [HTRACE TUTORIAL: HOW TO MONITOR YOUR DISTRIBUTED SYSTEMS](https://www.scalyr.com/blog/htrace-tutorial-how-to-monitor-distributed-systems)
+* [delight: A Spark UI and Spark History Server alternative with CPU and Memory metrics! Delight is free, cross-platform, and open-source](https://github.com/datamechanics/delight)
+  * [Delight: An Improved Apache Spark UI, Free, and Cross-Platform - YouTube](https://www.youtube.com/watch?v=9v03aztrVnA)
 * [spark-dependencies - Spark job for dependency links http://jaegertracing.io ](https://github.com/jaegertracing/spark-dependencies)
 * [spark-jobs-rest-client - Fluent client for interacting with Spark Standalone Mode's Rest API for submitting, killing and monitoring the state of jobs](https://github.com/ywilkof/spark-jobs-rest-client)
 * [Sparklint - The missing Spark Performance Debugger that can be drag and dropped into your spark application!](https://github.com/groupon/sparklint)
@@ -737,6 +756,10 @@
 * [Multiple Column Feature Transformations in Spark ML](http://blog.madhukaraphatak.com/multi-column-feature-transformation-spark-ml/)
 * [End to End Spark TensorFlow PyTorch Pipelines with Databricks DeltaJim Dowling Logical Clocks ABKim](https://www.youtube.com/watch?v=zGNQQfEjCQY)
 * [Accelerating Deep Learning on the JVM with Apache Spark and NVIDIA GPUs](https://www.infoq.com/articles/deep-learning-apache-spark-nvidia-gpu/)
+* [Spark ML hyperparameter tuning](https://softwaremill.com/spark-ml-hyperparameter-tuning/)
+* [Scaling and Unifying SciKit Learn and Apache Spark Pipelines - YouTube](https://www.youtube.com/watch?v=rr7C9tD8uZc)
+* [Sawtooth Windows for Feature Aggregations - YouTube](https://www.youtube.com/watch?v=S3_ErDZWor0)
+* [Run Your Queries Instantly in One of the Most Optimized Environments - YouTube](https://www.youtube.com/watch?v=ly7OqNCzFoQ) Nephos
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)
 * [Meson: Netflix's framework for executing machine learning workflows](http://techblog.netflix.com/2016/05/meson_31.html)
 * MLflow
@@ -786,6 +809,8 @@
 * [Oryx 2: Lambda architecture on Apache Spark, Apache Kafka for real-time large scale machine learning http://oryx.io](https://github.com/OryxProject/oryx)
   * [Production Recommendation Systems with Cloudera](http://blog.cloudera.com/blog/2018/02/production-recommendation-systems-with-cloudera/) 기계 학습 기능을 위한 인프라 및 데이터 파이프라인을 구축하기 위해 Cloudera Oryx 프로젝트를 사용하는 예제
   * Kafka + Spark + Cloudera Hadoop 를 이용한 추천시스템
+* [raydp: RayDP: Distributed data processing library that provides simple APIs for running Spark on Ray and integrating Spark with distributed deep learning and machine learning frameworks](https://github.com/oap-project/raydp)
+  * [Build Large-Scale Data Analytics and AI Pipeline Using RayDP - YouTube](https://www.youtube.com/watch?v=B4iXQtxX2cs)
 * [spark-vlbfgs - an implementation of the Vector-free L-BFGS solver and some scalable machine learning algorithms for Apache Spark](https://github.com/yanboliang/spark-vlbfgs)
 * TransmogrifAI [Chetan Khatri - TransmogrifAI - Automate ML Workflow with power of Scala and Spark at massive scale](https://www.youtube.com/watch?v=96LLM2UI07o)
 
@@ -894,6 +919,8 @@
 * [데이터 분석 라이브러리 개발기 (2) - 통합 테스팅과 문서화를 동시에 잡는 방법](https://tech.devsisters.com/posts/testing-devplay-analytics-library/)
 * [04b: Databricks – Spark SCD Type 2 with Merge | Java-Success.com](https://www.java-success.com/04b-databricks-spark-scd-type-2-with-merge/)
 * [웹로그 히스토리 데이터를 통한 데이터 분석 꼼수 : 네이버 블로그](https://blog.naver.com/airguy76/222140845122)
+* [Pandas API on Apache Spark - Part 1: Introduction](http://blog.madhukaraphatak.com/spark-pandas-part-1/)
+* [Pandas API on Apache Spark - Part 2: Hello World](http://blog.madhukaraphatak.com/spark-pandas-part-2/)
 * [Koalas: pandas API on Apache Spark](https://github.com/databricks/koalas)
   * [Koalas: Easy Transition from pandas to Apache Spark](https://databricks.com/blog/2019/04/24/koalas-easy-transition-from-pandas-to-apache-spark.html)
   * [10 Minutes from pandas to Koalas on Apache Spark With demonstrable Python how-to Koalas code snippets and Koalas best practices](https://databricks.com/blog/2020/03/31/10-minutes-from-pandas-to-koalas-on-apache-spark.html)
@@ -903,7 +930,9 @@
   * [Project Zen: Making Spark Pythonic | Reynold Xin | Keynote Data + AI Summit EU 2020 - YouTube](https://www.youtube.com/watch?v=-vJLTEOdLvA)
 * [Petastorm - a library enabling the use of Parquet storage from Tensorflow, Pytorch, and other Python-based ML training frameworks](https://petastorm.readthedocs.io/)
   * [Introducing Petastorm: Uber ATG's Data Access Library for Deep Learning | Uber Engineering Blog](https://eng.uber.com/petastorm/)
-* Snowflake [Read from Kafka & Write to Snowflake via Spark Databricks | LinkedIn](https://www.linkedin.com/pulse/read-from-kafka-write-snowflake-via-spark-databricks-deepak-rajak/?trackingId=nV2nP1ws2QRWZVSBOpNkDw%3D%3D)
+* Snowflake
+  * [Read from Kafka & Write to Snowflake via Spark Databricks | LinkedIn](https://www.linkedin.com/pulse/read-from-kafka-write-snowflake-via-spark-databricks-deepak-rajak/?trackingId=nV2nP1ws2QRWZVSBOpNkDw%3D%3D)
+  * [입 개발 Spark SQL Query to Snowflake Query | Charsyam's Blog](https://charsyam.wordpress.com/2021/09/11/%ec%9e%85-%ea%b0%9c%eb%b0%9c-spark-sql-query-to-snowflake-query/)
 
 # R
 * [Spark 1.4 for RStudio](http://www.r-bloggers.com/spark-1-4-for-rstudio/)
@@ -968,12 +997,6 @@
 * [Spark Data Source API. Extending Our Spark SQL Query Engine](https://hackernoon.com/extending-our-spark-sql-query-engine-5f4a088de986)
 * [Five Spark SQL Utility Functions to Extract and Explore Complex Data Types](https://databricks.com/blog/2017/06/13/five-spark-sql-utility-functions-extract-explore-complex-data-types.html)
   * JSON 및 중첩 구조를 처리하기 위해 탑재된 Spark SQL 함수를 사용하기 위한 튜토리얼
-* [FLARE: SCALE UP SPARK SQL WITH NATIVE COMPILATION AND SET YOUR DATA ON FIRE!](https://spark-summit.org/2017/events/flare-scale-up-spark-sql-with-native-compilation-and-set-your-data-on-fire/)
-  * 실험 단계
-  * 쿼리플랜을 native code로 바꾸고 spark runtime system도 수정해 Spark SQL성능을 대폭 향상
-  * [Flare: Native Compilation for Heterogeneous Workloads in Apache Spark](https://arxiv.org/pdf/1703.08219.pdf)
-* [MatFast: In-Memory Distributed Matrix Computation Processing and Optimization Based on Spark SQL](https://databricks.com/session/matfast-in-memory-distributed-matrix-computation-processing-and-optimization-based-on-spark-sql)
-  * [Apache Spark™ Distributed Matrix Computation](https://github.com/yuyongyang800/SparkDistributedMatrix)
 * [Spark SQL: Another 16x Faster After Tungsten](https://databricks.com/session/spark-sql-another-16x-faster-after-tungsten)
 * [Windowing Functions in Spark SQL Part 1 | Lead and Lag Functions | Windowing Functions Tutorial](https://www.youtube.com/watch?v=MViPRjaqfaA)
 * [Windowing Functions in Spark SQL Part 2 | First Value & Last Value Functions | Window Functions](https://www.youtube.com/watch?v=tsQ2oQieBGY)
@@ -983,6 +1006,13 @@
 * [Spark DataFrameWriter에서 saveAsTable 의 동작](https://charsyam.wordpress.com/2019/04/23/%EC%9E%85-%EA%B0%9C%EB%B0%9C-spark-dataframewriter%EC%97%90%EC%84%9C-saveastable-%EC%9D%98-%EB%8F%99%EC%9E%91/)
 * [Dynamic Shuffle Partitions in Spark SQL](http://blog.madhukaraphatak.com/dynamic-spark-shuffle-partitions/)
 * [Tech Chat: Faster Spark SQL: Adaptive Query Execution in Databricks - YouTube](https://www.youtube.com/watch?v=bQ33bwUE-ms)
+* [Sentiment Analysis on Demonetization in India using Apache Spark - Projects Based Learning](https://projectsbasedlearning.com/apache-spark-analytics/sentiment-analysis-on-demonetization-in-india-using-apache-spark/)
+* [FLARE: SCALE UP SPARK SQL WITH NATIVE COMPILATION AND SET YOUR DATA ON FIRE!](https://spark-summit.org/2017/events/flare-scale-up-spark-sql-with-native-compilation-and-set-your-data-on-fire/)
+  * 실험 단계
+  * 쿼리플랜을 native code로 바꾸고 spark runtime system도 수정해 Spark SQL성능을 대폭 향상
+  * [Flare: Native Compilation for Heterogeneous Workloads in Apache Spark](https://arxiv.org/pdf/1703.08219.pdf)
+* [MatFast: In-Memory Distributed Matrix Computation Processing and Optimization Based on Spark SQL](https://databricks.com/session/matfast-in-memory-distributed-matrix-computation-processing-and-optimization-based-on-spark-sql)
+  * [Apache Spark™ Distributed Matrix Computation](https://github.com/yuyongyang800/SparkDistributedMatrix)
 
 # Streaming
 * [Improved Fault-tolerance and Zero Data Loss in Spark Streaming](https://databricks.com/blog/2015/01/15/improved-driver-fault-tolerance-and-zero-data-loss-in-spark-streaming.html)
@@ -1030,6 +1060,7 @@
 * [입 개발 Kafka 와 Spark Structured Streaming 에서 checkpoint 에서 아주 과거의 Offset이 있으면 어떻게 동작할까? | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/08/%EC%9E%85-%EA%B0%9C%EB%B0%9C-kafka-%EC%99%80-spark-structured-streaming-%EC%97%90%EC%84%9C-checkpoint-%EC%97%90%EC%84%9C-%EC%95%84%EC%A3%BC-%EA%B3%BC%EA%B1%B0%EC%9D%98-offset%EC%9D%B4-%EC%9E%88/)
 * [입 개발 Spark Structured Streaming 에서 Offset 은 어떻게 관리되는가(아주 간략한 버전)? | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/09/%EC%9E%85-%EA%B0%9C%EB%B0%9C-spark-structured-streaming-%EC%97%90%EC%84%9C-offset-%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B4%80%EB%A6%AC%EB%90%98%EB%8A%94%EA%B0%80%EC%95%84%EC%A3%BC-%EA%B0%84/)
 * [입 개발 Spark Kafka Streaming 에서의 BackPressure 에 대한 아주 간단한 정리. | Charsyam's Blog](https://charsyam.wordpress.com/2021/04/24/%EC%9E%85%EA%B0%9C%EB%B0%9C-spark-kafka-streaming-%EC%97%90%EC%84%9C%EC%9D%98-backpressure-%EC%97%90-%EB%8C%80%ED%95%9C-%EC%95%84%EC%A3%BC-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%A0%95%EB%A6%AC/)
+* [Structured Streaming Use-Cases at Apple - YouTube](https://www.youtube.com/watch?v=bcIJFCtsRXs)
 
 # TDD, Test
 * [Unit Testing Apache Spark Applications using Hive Tables](https://medium.com/homeaway-tech-blog/unit-testing-apache-spark-applications-using-hive-tables-ec653c6f25be)
@@ -1102,3 +1133,4 @@
 * [📊제플린과 DB 연결하기 #mysql #dataviz - YouTube](https://www.youtube.com/watch?v=TFNZx5pW_t4)
 * [Setup Zeppelin with K8S mode on NAVER Container Cluster | by EuiYul Song | Apr, 2021 | Medium](https://thddmlduf.medium.com/setup-zeppelin-with-k8s-mode-on-naver-container-cluster-896ca9815ca2)
 * [Dynamic Forms 동작 시 랜덤하게 paragraph 내용이 사라지는 문제와 임시 해결안 | by Sinjin | Feb, 2021 | Medium](https://sinjin0.medium.com/apache-zeppelin-dynamic-forms-%EB%8F%99%EC%9E%91-%EC%8B%9C-%EB%9E%9C%EB%8D%A4%ED%95%98%EA%B2%8C-paragraph-%EB%82%B4%EC%9A%A9%EC%9D%B4-%EC%82%AC%EB%9D%BC%EC%A7%80%EB%8A%94-%EB%AC%B8%EC%A0%9C%EC%99%80-%EC%9E%84%EC%8B%9C-%ED%95%B4%EA%B2%B0%EC%95%88-da3413f16a6)
+* [Incorporating Plotly into your Zeppelin notebooks with Spark and Scala](https://softwaremill.com/incorporating-plotly-into-your-zeppelin-notebooks-with-spark-and-scala/)

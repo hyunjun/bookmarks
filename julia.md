@@ -111,6 +111,7 @@ Julia
 * [Multiple Dispatch: A Powerful Programming Paradigm | by Alex Powell | Jan, 2021 | Towards Data Science](https://towardsdatascience.com/multiple-dispatch-a-powerful-programming-paradigm-8bc8fcd2c73a)
 * [Optimizing Serial Code](https://mitmath.github.io/18337/lecture2/optimizing)
 * [Profiling type-inference](https://julialang.org/blog/2021/01/snoopi_deep/)
+* [Decision-Making-Under-Uncertainty: Decision making under uncertainty using the POMDPs.jl ecosystem](https://github.com/JuliaAcademy/Decision-Making-Under-Uncertainty)
 
 # API
 * Pkg.add
@@ -179,6 +180,7 @@ Julia
 * [Knet.jl: Koç University deep learning framework](https://github.com/denizyuret/Knet.jl)
 * [Millboard.jl - Displaying data in tables for Julia](https://github.com/wookay/Millboard.jl)
 * [Mux.jl gives your Julia web services some closure](https://github.com/JuliaWeb/Mux.jl)
+* [MySQL.jl: Access MySQL from Julia](https://github.com/JuliaDatabases/MySQL.jl/)
 * [Nemo is a computer algebra package for the Julia programming language](http://nemocas.org/)
 * [OnlineStats.jl - On-line statistics for Julia](https://github.com/joshday/OnlineStats.jl)
   * [OnlineStats.jl - Introducing OnlineStats.jl: Online statistics for Julia](https://groups.google.com/forum/#!topic/julia-stats/2yMT7fdrxMQ)

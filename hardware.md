@@ -1,4 +1,4 @@
- Hardware
+Hardware
 ========
 * [소프트웨어 개발자를 위한 사물인터넷 하드웨어 개발 플랫폼 ‘어니언오메가’ 킥스타터 등장](http://besuccess.com/2015/04/onion-omega-is-a-hardware-development-platform-designed-specifically-for-software-developer/)
 * [kocoafab.cc](http://www.kocoafab.cc/)
@@ -34,7 +34,6 @@
 * [마이크로 컴퓨터와 RC (Remote Control) - 1편](https://kerberosj.tistory.com/235)
 * [10 Single-Board Computers Worthy of Hacking Projects Big & Small](https://null-byte.wonderhowto.com/how-to/raspberry-pi-alternatives-10-single-board-computers-worthy-hacking-projects-big-small-0196340/)
 * [BEST SINGLE BOARD COMPUTERS OF 2019](https://www.seeedstudio.com/blog/2019/11/20/best-single-board-computers-of-2019/)
-* [Windows IoT: Facial Recognition Door](https://www.hackster.io/windows-iot/windows-iot-facial-recognition-door-e087ce)
 * [엔트리 하드웨어 개발](https://ryulib.tistory.com/466)
 * [The ZedRipper: Part 1](http://www.chrisfenton.com/the-zedripper-part-1/)
 * [A new cycle-stepped 6502 CPU emulator](https://floooh.github.io/2019/12/13/cycle-stepped-6502.html)
@@ -42,7 +41,6 @@
 * [27인치 디지털 액자 만들기(DIY) -제작편-](https://papit.blog.me/221751081863)
 * [27인치 디지털 액자 만들기(DIY) -활용편-](https://papit.blog.me/221769974274)
 * [파이썬 + 레고 마인드 스톰 EV3로 초간단 스캐너를 제작](https://www.youtube.com/watch?v=jmu-UbjuS8k)
-* [IOT 스크린세이버 프로그램(nodeMCU + VL53L0X + python)](https://blog.naver.com/nanotoly/221917301039)
 * [Petertc Chu - Speak Python with Devices - YouTube](https://www.youtube.com/watch?v=BpgtN8GK1M8)
 * [1_Workshops/Embedded_system 카테고리의 글 목록](https://gcamp.tistory.com/category/1_Workshops/Embedded_system)
 * [**임베디드 레시피**](http://recipes.egloos.com/5207842)
@@ -52,6 +50,7 @@
 * [10기가비트 홈 네트워크 구축하기](https://tech.ssut.me/going-10-gigabit-networking-at-home/)
 * [스마트 식물재배기 앱 만들기 : 네이버 카페](https://cafe.naver.com/creativethon/6432)
 * [kindle-dash: Power efficient dashboard for Kindle 4 NT devices](https://github.com/pascalw/kindle-dash)
+* [565. 코딩 학습 로드맵/테크트리/커리큘럼(.. : 네이버블로그](https://blog.naver.com/pcmola/222435895845) lego 레고 포함
 
 # Arduino
 * [Arduino](http://www.arduino.cc)
@@ -135,6 +134,7 @@
 * [미국의 USC대학교의 임베디드시스템 입문 교육 과제 둘러보기](https://open-support.tistory.com/entry/%EB%AF%B8%EA%B5%AD%EC%9D%98-USC%EB%8C%80%ED%95%99%EA%B5%90%EC%9D%98-%EC%9E%84%EB%B2%A0%EB%94%94%EB%93%9C%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%9E%85%EB%AC%B8-%EA%B5%90%EC%9C%A1-%EA%B3%BC%EC%A0%9C-%EB%91%98%EB%9F%AC%EB%B3%B4%EA%B8%B0)
 * [ESP-32 보드로 간단한 블루투스 키보드 만들기](https://open-support.tistory.com/entry/ESP-32-%EB%B3%B4%EB%93%9C%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B8%94%EB%A3%A8%ED%88%AC%EC%8A%A4-%ED%82%A4%EB%B3%B4%EB%93%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0)
 * [Building a tiny FORTH for an Arduino UNO in one week](https://www.thanassis.space/miniforth.html)
+* [아두이노를 이용한 계란을 잡는 2축 Parallel Gripper : 네이버 카페](https://cafe.naver.com/viktorrobotics/24)
 * [Watchy - E-Paper Watch](https://www.tindie.com/products/sqfmi/watchy/#product-description)
   * ESP32 SoC, E-Paper 저전력 디스플레이, 아두이노 IDE로 직접 프로그래밍 가능한 오픈소스 워치키트
   * [Hack together your own e-paper smartwatch with this $50 open-source kit - The Verge](https://www.theverge.com/2021/1/13/22229985/customizable-epaper-smartwatch-kit-arduino)
@@ -194,17 +194,24 @@
 * [A Practical Introduction to IoT using Arduino, Node.js and Plotly](http://adilmoujahid.com/posts/2015/07/practical-introduction-iot-arduino-nodejs-plotly/)
 * [가난한 농부를 위한 시골발명가의 ‘IoT 닭장’](http://www.bloter.net/archives/235853)
 * [요즘 IoT: Azure Device Twin, Digital Twins](https://youngjaekim.wordpress.com/2019/03/30/%EC%9A%94%EC%A6%98-iot-azure-device-twin-digital-twins/)
+* [Windows IoT: Facial Recognition Door](https://www.hackster.io/windows-iot/windows-iot-facial-recognition-door-e087ce)
+* [IOT 스크린세이버 프로그램(nodeMCU + VL53L0X + python)](https://blog.naver.com/nanotoly/221917301039)
+* [IoT-For-Beginners: 12 Weeks, 24 Lessons, IoT for All!](https://github.com/microsoft/IoT-For-Beginners)
+  * [Microsoft, IoT for Beginners 강의 공개 | GeekNews](https://news.hada.io/topic?id=4627)
 * [iotjs - Platform for Internet of Things with JavaScript http://www.iotjs.net ](https://github.com/Samsung/iotjs)
 * [iot-starterkit - This repository provides information and code for working with SAP HANA Cloud Platform (HCP) IoT Services. It enables users to get an End-to-End IoT solution with either real hardware or simulators up and running fast and start their own extensions and usage based on this](https://github.com/SAP/iot-starterkit)
 * [JerryScript - JerryScript A JavaScript engine for Internet of Things](http://samsung.github.io/jerryscript/)
 
 # Javascript
+* [elk: A low footprint JavaScript engine for embedded systems](https://github.com/cesanta/elk)
+  * [Elk - 임베디드 시스템을 위한 초소형 JS엔진 | GeekNews](https://news.hada.io/topic?id=5081)
 * [Espruino: The Espruino JavaScript interpreter - Official Repo](https://github.com/espruino/Espruino)
   * [javascript로 mcu에서 코딩이 가능한 - espruino 환경](https://open-support.tistory.com/entry/javascript%EB%A1%9C-mcu%EC%97%90%EC%84%9C-%EC%BD%94%EB%94%A9%EC%9D%B4-%EA%B0%80%EB%8A%A5%ED%95%9C-espruino-%ED%99%98%EA%B2%BD)
 * [smart.js - Embedded Javascript engine for C/C++ with networking, file, database and device interfaces](https://github.com/cesanta/smart.js)
 
 # Jetson
 * [installJupyterNotebook: 젯슨나노에서 주피터노트북과 주피터랩을 설치하는 법](https://github.com/jugfk/installJupyterNotebook)
+* [DIY-ai-art: How to build your own AI art installation from scratch](https://github.com/maxvfischer/DIY-ai-art)
 * [jetbot: An educational AI robot based on NVIDIA Jetson Nano](https://github.com/NVIDIA-AI-IOT/jetbot)
   * [Jetson User Group For Korean | Facebook](https://www.facebook.com/groups/JUGFK/permalink/682904155863206/)
   * [jetbot/docker at master · NVIDIA-AI-IOT/jetbot](https://github.com/NVIDIA-AI-IOT/jetbot/tree/master/docker)
@@ -305,6 +312,10 @@
 * [Lichee Nano Pi - Will it run Debian? - James Dawson](https://blog.jmdawson.co.uk/lichee-nano-pi-will-it-run-debian/)
 * [Raspberry Pi 4 Model B WiFi Ethernet Bridge - Will Haley](https://willhaley.com/blog/raspberry-pi-wifi-ethernet-bridge/)
 * [Manage your Raspberry Pi with Cockpit | Opensource.com](https://opensource.com/article/21/5/raspberry-pi-cockpit)
+* [라즈베리파이 가상 머신에 설치하기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/raspberry-vminstall/)
+* [Add Aux to Sonos Using Raspberry Pi : 26 Steps (with Pictures) - Instructables](https://www.instructables.com/Add-Aux-to-Sonos-Using-Raspberry-Pi/)
+* ['Build/Yocto' 카테고리의 글 목록](https://kin3303.tistory.com/category/Build/Yocto)
+* [internet-pi: Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
 
 # Reverse Engineering
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)

@@ -13,13 +13,6 @@
 * [Writing a simple Decompiler for .NET - Part 1 - First half](http://www.codeandux.com/writing-a-simple-decompiler-for-net-part-1/)
 * [Writing a simple Decompiler for .NET - Part 1 - Second half](http://www.codeandux.com/writing-a-simple-decompiler-for-net-part-1b/)
 * [The Profound Weakness of the .NET OSS Ecosystem](http://www.aaronstannard.com/the-profound-weakness-of-the-net-oss-ecosystem/)
-* [.NET Conf 2021 x Seoul 홈](https://www.notion.so/NET-Conf-2021-x-Seoul-228462238add4fc5a885fb81e2687528)
-  * [.NET Conf 2021 x Seoul, Day 1 - YouTube](https://www.youtube.com/watch?v=Xk6FM2pFkqE)
-  * [.NET Conf 2021 x Seoul 당김 기반 비동기 스트림 - IAsyncEnumerable(T) - YouTube](https://www.youtube.com/watch?v=cs2qsnbYFUc)
-  * [.NET Conf 2021 x Seoul 다시 보기](https://www.notion.so/1dc78a175d8e46b6b9cec9ef19cbfa72?v=413c2a20f0b042c490305e0fe899036c)
-  * [.NET Conf Mini 21.04](https://dotnetconf.kr/mini/2104) Blazor, Span<T>
-* [.NET Conf 2020](https://www.dotnetconf.net/)
-* [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009)
 * [주간닷넷 2016년 1월 5일](http://blogs.msdn.com/b/eva/archive/2016/01/12/2016-1-5.aspx)
 * [주간닷넷 2016년 2월 11일](http://blogs.msdn.com/b/eva/archive/2016/02/16/2016-2-11.aspx)
 * [주간닷넷 2016년 4월 12일](https://blogs.msdn.microsoft.com/eva/?p=8495)
@@ -88,18 +81,27 @@
 * [Astonishing Performance of .NET 5 | Medium](https://alexyakunin.medium.com/astonishing-performance-of-net-5-7803d69dae2e)
 * [@devlead - Mattias Karlsson's Blog - My preferred .NET console stack](https://www.devlead.se/posts/2021/2021-01-15-my-preferred-console-stack)
 * [Announcing .NET 6 Preview 1 | .NET Blog](https://devblogs.microsoft.com/dotnet/announcing-net-6-preview-1/)
+* [Performance Improvements in .NET 6 | .NET Blog](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-6/)
 * [.NET for Beginners - Dusted Codes](https://dusted.codes/dotnet-for-beginners)
 * [알아두면 쓸모 있는 .NET 이야기 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=31479637&memberNo=36733075&navigationType=push)
+* [.NET Microservices – Full Course - YouTube](https://www.youtube.com/watch?v=DgVjEo3OGBI)
 
 # Book
 * [더북(TheBook): ASP.NET & Core를 다루는 기술](https://thebook.io/006824/)
 
 # Conference Meetup
-* [.NET Conf 2019 키노트](https://www.youtube.com/watch?v=8qtmRG5vQxM&list=PLFVJi7gR5oaP715fktQtSV6vJE76MLide)
 * [The Journey to One .NET | BOD106 - YouTube](https://www.youtube.com/watch?v=ctSqiD8BGPM)
 * [.NET Conf 2021 x Seoul 홈](https://www.notion.so/NET-Conf-2021-x-Seoul-228462238add4fc5a885fb81e2687528)
+  * [.NET Conf 2021 x Seoul, Day 1 - YouTube](https://www.youtube.com/watch?v=Xk6FM2pFkqE)
+  * [.NET Conf 2021 x Seoul 당김 기반 비동기 스트림 - IAsyncEnumerable(T) - YouTube](https://www.youtube.com/watch?v=cs2qsnbYFUc)
+  * [.NET Conf 2021 x Seoul 다시 보기](https://www.notion.so/1dc78a175d8e46b6b9cec9ef19cbfa72?v=413c2a20f0b042c490305e0fe899036c)
+  * [.NET Conf Mini 21.04](https://dotnetconf.kr/mini/2104) Blazor, Span<T>
+  * [.NET Conf Mini 21.08 - YouTube](https://www.youtube.com/watch?v=i9zw6x6zQLI)
 * [2021년 1월 - YouTube](https://www.youtube.com/playlist?list=PLIUYAlRx8QDSrW7baJ35bazYNnqxV8-Pn)
   * JAM stack session: 아마존 S3 버킷과 Amplify 서비스를 이용해 애플리케이션을 배포하는 과정
+* [.NET Conf 2020](https://www.dotnetconf.net/)
+* [.NET Conf 2019 키노트](https://www.youtube.com/watch?v=8qtmRG5vQxM&list=PLFVJi7gR5oaP715fktQtSV6vJE76MLide)
+* [.NET Conf 2019 @ Seoul](https://www.notion.so/NET-Conf-2019-Seoul-6976d31cccb14a82ad582673ce9f3009)
 
 # Mac
 * [Visual Studio for Mac 설치하기](http://carrotcarrot.blog.me/220864151652)
@@ -126,6 +128,7 @@
   * [Libplanet 0.8 릴리스](https://snack.planetarium.dev/kor/2020/02/libplanet-0.8/)
   * [Libplanet 0.9 릴리스](https://snack.planetarium.dev/kor/2020/04/libplanet-0.9/)
   * [Libplanet 0.10 릴리스](https://snack.planetarium.dev/kor/2020/12/libplanet-0.10/)
+  * [Libplanet 0.11–0.19 업데이트 요약](https://snack.planetarium.dev/kor/2021/10/libplanet-0.11-0.19/)
   * [NAT를 넘어서 가자](https://snack.planetarium.dev/kor/2019/04/nat_traversal_1/)
   * [예제로 보는 TURN](https://snack.planetarium.dev/kor/2019/06/nat_traversal_2/)
   * [Unity 환경에서 단위 테스트 돌리기](https://snack.planetarium.dev/kor/2019/06/xunit-unity-runner/)
@@ -193,6 +196,8 @@
 * [C#으로 맛보는 포인터. C#이 자바와 확실히 다른 부분 중 오랫동안 변치 않는 것은 아마도… | by Jung-Hyun Nam | 닷넷데브 | Feb, 2021 | Medium](https://medium.com/dotnetdev/c-%EC%9C%BC%EB%A1%9C-%EB%A7%9B%EB%B3%B4%EB%8A%94-%ED%8F%AC%EC%9D%B8%ED%84%B0-bb61ab25ee57)
 * [Visual Studio를 이용한 어셈블리어 학습 part 1 - YouTube](https://www.youtube.com/watch?v=cEnpeDMAw_Y)
 * [HBOARD](https://github.com/HWIA-EDU/HBOARD) 화면에서 드로잉
+* [류광의 번역 이야기 :: Visual Studio 2019에서 C++20 헤더 단위 사용하기](http://occamsrazr.net/tt/373)
+* [Visual Studio Live Share: 실시간 코드 공동 작업 도구](https://visualstudio.microsoft.com/ko/services/live-share/)
 
 ## Visual Studio Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)

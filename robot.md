@@ -35,11 +35,13 @@ Robot
 * [www.robot-learning.org](http://www.robot-learning.org/)
 * [RACECAR - A Powerful Platform for Robotics Research and Teaching](https://mit-racecar.github.io/)
 * [ald.softbankrobotics.com](https://www.ald.softbankrobotics.com)
-* [All the Robotic Process Automation (RPA) Stats You Need to Know](https://towardsdatascience.com/all-the-robotic-process-automation-rpa-stats-you-need-to-know-bcec22eaaad9)
 * [ROBOCON 2019 - China Robocon Champion - It's so admirable](https://www.youtube.com/watch?v=WmizhHexQHY)
 * [3D 프린터 로봇 제어를 위한 텐서플로](http://blog.daum.net/kimgyunghyun/2529)
 * [강의 자료 - SpotMicro for G Camp](https://www.notion.so/SpotMicro-for-G-Camp-c541934a4bad4ad48d1e37ab94c10de8)
 * [Getting started in Robotics | Arthur Allshire](https://allshire.org/getting-started-robotics/)
+* [Continual Learning for Robotics(1)](https://ropiens.tistory.com/133?category=992370)
+* [Continual Learning for Robotics(2)](https://ropiens.tistory.com/143?category=992370)
+* [Robot Dogs: A Programmer's Best Friend - YouTube](https://www.youtube.com/watch?v=U2nNI9Yp_0g)
 
 # Book
 * [추천! 로봇공학 / 기계학습 무료 교재(pdf) 15가지](http://t-robotics.blogspot.in/2015/01/pdf-15.html)
@@ -73,3 +75,4 @@ Robot
 * ['ROS1' 태그의 글 목록](https://gcamp.tistory.com/tag/ROS1)
 * [강의 계획서 - ROS for G Camp](https://www.notion.so/ROS-for-G-Camp-410d95df137d403ca176cfec4822351a)
   * [gcamp_ros_basic](https://github.com/Road-Balance/gcamp_ros_basic)
+* ['ROS2_Roadbalance' 태그의 글 목록](https://m-hackathon.tistory.com/tag/ROS2_Roadbalance)

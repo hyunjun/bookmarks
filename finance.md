@@ -69,6 +69,8 @@ Finance
   * 버핏지수 = 주가 / 국가 GDP
   * 스테그플레이션이 우려되는 시기에 좋은 투자: 금보다 금광회사 e.g. 고려아연, 베릭골드
 * [버크셔 헤서웨이 2021년 주주총회 관련 글 (유튜버 김단테 번역본 참조) : 클리앙](https://www.clien.net/service/board/cm_stock/16112543) QQQ SPY
+* [SPY, QQQ 너무 뻔하다고? 미국 ETF 무시하면 큰일 납니다 - YouTube](https://www.youtube.com/watch?v=SrLOz2qYspA) DIA(다우존스산업평규, 월배당) IWM(러셀2000), XLF(대형은행, 연배당), KRE(지역은행)
+* [ETF도 구관이 명관? 특이한거 찾다가 골로 갑니다 - YouTube](https://www.youtube.com/watch?v=65zVIy1Y_fk) JO ARKK AMOM APPL BRKb(버크셔 헤서웨이 B주) JNJ(존슨앤존슨, 배당)
 * [INVESTMENT, MOIRA & ENOMA.. : 네이버블로그](https://blog.naver.com/moiraenomatia)
 * [자녀에게 사주면 좋을 해외주식 BEST 10 - YouTube](https://www.youtube.com/watch?v=95NL2JKDDvk)
 * [투자 자료 모음 - Google Sheets](https://docs.google.com/spreadsheets/d/1wPR2CCImrk6Qb8jwlGy2_RfDJu5PwY18POrJ3UR1sts/edit#gid=0)
@@ -77,8 +79,11 @@ Finance
 * [Portfolio Visualizer](https://www.portfoliovisualizer.com/) 미국 ETF 위주
 * [미국주식 고배당주 총정리](https://usstock.tistory.com/75)
 * [해외 고배당/자산배분 ETF 투자 - SPYD(분기), SPHD(월) / AOR등](http://blog.naver.com/yonghan_shin/221516283146)
+* [(주식) 미국 주식 입문자들을 위한 ETF 간단 소개](https://pgr21.com/freedom/92619) IVV, VOO, SPLG, VTI, QQQ, SMH, XLF, XLV, ...
 * [국내 배당주 ETF 3가지 추천!](https://rollingbean.tistory.com/12)
   * [요즘 부자들 '이것'을 조용히 모으고 있다 - YouTube](https://www.youtube.com/watch?v=dPV9X72Ifxk) Kodex 배당성장 ETF Arirang고배당주
+* [저는 주식ETF는 IRP로 합니다 - YouTube](https://www.youtube.com/watch?v=J_6fxQekGxc)
+* [변동성 때문에 힘들다면, 세상의 모든 주식을 소유하는 방법이 있습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/vtetf20210915) VT ETF
 * [배당만 따먹어도 정기예금보다 배부르네](https://news.v.daum.net/v/20210315030352457)
 * 기업은행: 국책은행 배당
 * [웬만해서는 하락하지 않는 우주방어 주식 5종목 - YouTube](https://www.youtube.com/watch?v=T3-_lDib-wg)
@@ -86,6 +91,14 @@ Finance
 * [그랩을 살려는 이유, 그리고 리스크 - YouTube](https://www.youtube.com/watch?v=YFTQssrANy0)
 * [슈퍼개미 배진한 레슨몬TV - YouTube](https://www.youtube.com/channel/UCu2R3TCLSxYV8pRyBGNOh2g/videos)
 * [美 리츠 투자하면 매달 배당 따박따박…월세 받는 건물주 같아 | 한경닷컴](https://www.hankyung.com/finance/article/2021061334531)
+* [슈퍼서민 - YouTube](https://www.youtube.com/channel/UCvwFSUne__pjWQ3wXdhgUrA)
+* [당장 우선주 담아라…가치투자 대부 강방천이 꼽은 톱픽 | 한경닷컴](https://www.hankyung.com/finance/article/2021071122621)
+* [돈 공부 28년 만에 알게 된 '절대 잃지 않는' 투자 방법 (feat. 홍춘욱) - YouTube](https://www.youtube.com/watch?v=nB3aK74tfzY) 달러투자
+* [단 5분, 환율우대 100% 받으면서 달러 환차익 투자하기 - YouTube](https://www.youtube.com/watch?v=_T8ksFg4_bs) 외화 RP
+* [달러 투자 처음이라면 이 영상 먼저 보세요 - YouTube](https://www.youtube.com/watch?v=Xf1CekoGeXA) 예금/ETF/RP, 발행어음/시차활용
+* [공매도와 풋옵션, 무엇이 다른가?](https://blog.naver.com/jeunkim/221519105894)
+* [이럴때는 달러투자 하지마세요 - 홍춘욱 - YouTube](https://www.youtube.com/watch?v=RpB1bM9iA8E) KODEX200미국채혼합(미국채60% 한국주식40%)
+* [배당금 높은 주식 확인하는 방법과 추천 주식 TOP3는?!](https://tariat.tistory.com/1284) 애플 코카콜라 고려신용정보
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
@@ -102,6 +115,7 @@ Finance
 * [더북(TheBook): 파이썬으로 배우는 포트폴리오](https://thebook.io/080227/)
 * [퀀트자료 Data Science for Economics and Finance](https://bellman.tistory.com/13)
 * [금융공학을 위한 퀀트입문 추천서](https://brunch.co.kr/@gauss92tgrd/25)
+* [머신러닝을 위한 퀀트입문 추천서](https://brunch.co.kr/@gauss92tgrd/27)
 
 # Fintech
 * [bloter.net/fintech-enterprise](http://www.bloter.net/archives/category/news/fintech-enterprise)
@@ -139,6 +153,7 @@ Finance
 # Library
 * [24시간 주식매매 자동화 구축하기 open API+](https://www.youtube.com/playlist?list=PLDtzZPtOGenaSknTbsb6x6L39V0VPz_rS)
 * [코인 시세 1초만에 보는 크롬 확장 프로그램 만들기 - peterkimzz](https://www.peterkimzz.com/%EC%BD%94%EC%9D%B8-%EC%8B%9C%EC%84%B8-1%EC%B4%88%EB%A7%8C%EC%97%90-%EB%B3%B4%EB%8A%94-%ED%81%AC%EB%A1%AC-%ED%99%95%EC%9E%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
+* [StonksWatcher](https://github.com/khalidabuhakmeh/StonksWatcher) uses WebSocketClient to stream stock information to the console window in real-time! c#
 * Tart [크롬과 주식으로 창업하기](https://parkayun.kr/f8d49b62ced245df8cb61def68efc5bb)
 * [Woori Bank digitalwooribank](https://github.com/digitalwooribank)
 
@@ -176,6 +191,7 @@ Finance
 * [Stock Market Prediction by Recurrent Neural Network on LSTM Model](https://medium.com/@aniruddha.choudhury94/stock-market-prediction-by-recurrent-neural-network-on-lstm-model-56de700bff68)
 * [Using the latest advancements in deep learning to predict stock price movements](https://towardsdatascience.com/aifortrading-2edd6fac689d) LSTM
 * [Quantitative Stock Price Analysis with Python, pandas, NumPy matplotlib & SciPy - YouTube](https://www.youtube.com/watch?v=PkzVU7Klic0)
+* [Basic Usage of NumPy Financial for Loan Payments and Amortization - YouTube](https://www.youtube.com/watch?v=3kgev6yYpwA)
 * [Step-by-Step Guide — Building a Prediction Model in Python | by Behic Guven | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/step-by-step-guide-building-a-prediction-model-in-python-ac441e8b9e8b) LSTM
 * [전자공시시스템에서 한 회사의 역대 사업보고서 한 번에 다운받기](https://github.com/seoweon/dart_reports)
 * [**파이썬으로 배우는 알고리즘 트레이딩**](https://wikidocs.net/book/110)
@@ -229,12 +245,16 @@ Finance
   * [시가총액 데이터셋(marcap) | marcap](https://financedata.github.io/marcap/)
   * [1/3 여러 종목의 수익률 어떻게 비교할까?! - YouTube](https://www.youtube.com/watch?v=H6rSEUwQASk)
   * [2/3 여러 종목의 수익률 어떻게 시각화 할까?! - YouTube](https://www.youtube.com/watch?v=wa5batG2qqs)
+  * [FinanceDataReader를 이용한 주식, 비트코인 및 경제 지표 데이터 수집](https://gils-lab.tistory.com/12)
 * [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
 * [벤포드의 법칙 (Benford Law)](https://nbviewer.jupyter.org/gist/FinanceData/2ab5fc04c975e1f90629ec1b1686e19d)
 * [IBEX 35 portfolio recommendation](https://github.com/sgarciapuga/capstone_projects/blob/master/Analyze_Financial_Data/Ibex35_Capstone_Project.ipynb)
 * [Dynamic Fee Mechanism Simulation with Reinforcement Learning](https://medium.com/decon-simulation/dynamic-fee-mechanism-simulation-with-reinforcement-learning-6d15951dec05)
 * [OpenDartReader 금융감독원 전자공시 시스템의 "Open DART"서비스 API를 손쉽게 사용할 수 있도록 돕는 오픈소스 라이브러리](https://github.com/FinanceData/OpenDartReader)
   * [OpenDartReader - 비상장 기업 데이터 조회와 활용 jupyter](https://nbviewer.jupyter.org/gist/FinanceData/12440c298682c44758e4789909a3f333)
+* [Open DART를 이용한 기업공시 수집 (1) 환경 설정](https://gils-lab.tistory.com/36)
+* [Open DART를 이용한 기업공시 수집 (2) 주당 배당금 수집](https://gils-lab.tistory.com/37)
+* [Open DART를 이용한 기업공시 수집 (3) 주요 재무지표 수집 및 가공](https://gils-lab.tistory.com/38)
 * [유용한 파이썬 금융 데이터 수집 라이브러리 추천](https://stock79.tistory.com/376)
 * [Best 5 free stock market APIs in 2020](https://towardsdatascience.com/best-5-free-stock-market-apis-in-2019-ad91dddec984)
 * [How to Build a Data Pipeline with the TD Ameritrade Python API Library](https://www.youtube.com/watch?v=icLy0glrovc)
@@ -252,7 +272,18 @@ Finance
 * [How to Create a Mean Reverting Trading Algorithm - YouTube](https://www.youtube.com/watch?v=0PfgqNYTl4Q)
 * [Algorithmic Trading Using Python - Full Course - YouTube](https://www.youtube.com/watch?v=xfzGZB4HhEE)
 * [삼성증권 퀀트모델링 A to Z](https://brunch.co.kr/@gauss92tgrd/23)
+* [1/2 ETF 전종목 브라우저의 네트워크 탭을 이해하면 코드 한 줄로 가능하다?! - YouTube](https://www.youtube.com/watch?v=-eVe2Dzj6lI)
+* [2/2 ETF 전종목 수집 JSON 타입도 판다스로?! - YouTube](https://www.youtube.com/watch?v=1ydH6ugjNOQ)
+* [How to Calculate Stock Investment Portfolio Volatility with Python, NumPy & Pandas - YouTube](https://www.youtube.com/watch?v=GKMSG_3MVGM)
+* [etc) 주식 - 2021년 9월 1주차 분봉 데이터 - Data Doctor](https://datadoctorblog.com/2021/09/04/etc-stock-dainy-min-chart-202109-w1/)
+* [전종목 기업 리포트 크롤링](https://gils-lab.tistory.com/14) 한경컨센선스 증권사 리포트
+* [아이투자에서 투자지표 (EPS, PER, 영업이익률 등) 크롤링하기](https://gils-lab.tistory.com/21)
+* [데이터분석 존버 vs 자동매매 백테스팅 수익률 비교(카카오)](https://songseungwon.tistory.com/entry/%EA%B0%80%EC%84%A4-%EA%B2%80%EC%A0%95%EC%9D%84-%ED%86%B5%ED%95%9C-%EA%B8%88%EC%9C%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-%EA%B8%B0%EC%B4%88)
 * [binance-trader-c1](https://github.com/yanagi7393/binance-trader-c1)
+* CybosPlus 대신증권
+  * [오픈 API를 이용한 주식 데이터 수집하기 (1) 환경 설정](https://gils-lab.tistory.com/5)
+  * [오픈 API를 이용한 주식 데이터 수집하기 (2) 일별 코스피/코스닥 데이터 수집 방법](https://gils-lab.tistory.com/6)
+  * [오픈 API를 이용한 주식 데이터 수집하기 (3) 분틱 코스피/코스닥 데이터 수집 방법](https://gils-lab.tistory.com/27)
 * [py4fi - Python for Finance (O'Reilly)](https://github.com/yhilpisch/py4fi)
   * [계량경제R + 금융공학Py](http://psygement.github.io/ecor_finpy)
 * [sec-web-scraping](https://github.com/areed1192/sigma_coding_youtube/tree/master/python/python-finance/sec-web-scraping)
@@ -266,6 +297,8 @@ Finance
   * [Predicting Stock Price Movement With Random Forests | Building the Model](https://www.youtube.com/watch?v=E2LX_hUHMn0)
   * [Predicting Stock Price Movement With Random Forests | Model Evaluation](https://www.youtube.com/watch?v=iJmteST6fP8)
   * [Predicting Stock Price Movement With Random Forests | Model Improvement](https://www.youtube.com/watch?v=ioUtR92tDAA)
+* [Pythonic: Graphical Python programming for trading and automation](https://github.com/hANSIc99/Pythonic)
+  * [Convert your Raspberry Pi into a trading bot with Pythonic | Opensource.com](https://opensource.com/article/21/9/raspberry-pi-trading-bot)
 * [Simple Bank Korea](https://github.com/Beomi/simple_bank_korea)
 * [TA-Lib : Technical Analysis Library](http://ta-lib.org/)
   * [Python에 Ta-Lib 설치 문제 해결 방법](https://www.openaitrading.com/python%EC%97%90-ta-lib-%EC%84%A4%EC%B9%98-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95/)

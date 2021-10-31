@@ -74,6 +74,11 @@ Programming Language
   * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=eKNEqWdC_Gs)
   * [Faster warmup, smaller downloads, JDK 16 builds with GraalVM 21.1 | graalvm](https://medium.com/graalvm/graalvm-21-1-96e18f6806bf)
   * [GraalVM at Facebook. Facebook is using GraalVM to accelerate… | by Alina Yurenko | graalvm | Jul, 2021 | Medium](https://medium.com/graalvm/graalvm-at-facebook-af09338ac519)
+  * [Facebook에서의 Graalvm | Oracle Java Embedded Korea Blog](https://blogs.oracle.com/javakr/graalvm-facebook)
+    * Facebook에서 Java 8/Java11용 Oracle JDK와 OpenJDK를 사용하다가 GraalVM으로 변경
+    * 성능 개선이 주목적이었기 때문에 GraalVM으로 전환하는 것만으로도 성능 향상, 모듈식 확장이 가능해 유지 보수가 편해질 것으로 판단해 GraalVM 선택
+    * 코드 변경 없이 런타임만 전환해서 마이그레이션 가능, Spark에 도입한 결과 CPU 사용량 10% 감소, 약 10~42%의 속도 향상
+  * [알도개 GraalVM - 자바를 넘어선 새로운 시작의 서막 - YouTube](https://www.youtube.com/watch?v=4lQ-sTDlgIo)
 * [-4 % 3 = ?](https://libsora.so/posts/sign-of-mod-operator/) 음수인 경우 language에 따라 mod의 결과가 다름
 * [연봉 높은 프로그래밍 언어 순위 2018](https://futurecreator.github.io/2018/08/07/highest-salaries-worldwide-programming-languages-2018/)
 * [Top 3 Programming Language To Watch Out in 2019](https://hackernoon.com/top-3-programming-language-to-watch-out-in-2019-95995e81ad2b)
@@ -85,6 +90,9 @@ Programming Language
 * [언어별로 살펴본 Deep Copy와 Shallow Copy - Kowana's coding](https://www.kowanas.com/coding/2021/01/02/deep-copy%EC%99%80-shallow-copy/)
 * [Comby · Structural code search and replace for ~every language](https://comby.dev/)
   * [Comby - 코드 검색 및 구조 변경 도구 | GeekNews](https://news.hada.io/topic?id=4344)
+* [Programming Idioms](https://programming-idioms.org/)
+* [Programming Language Tourism: Leave Python and See the World! - YouTube](https://www.youtube.com/watch?v=O2ArH_MoeKQ) 트렌드 변화 및 Elm, Idris등 다른 언어들에 대한 이야기
+* [The Problem with Popular Programming Languages | by Charles Scalfani | Sep, 2021 | Medium](https://cscalfani.medium.com/the-problem-with-popular-programming-languages-67faa14ac13b)
 
 # Closure
 * [Closures And Objects Are Equivalent](http://c2.com/cgi/wiki?ClosuresAndObjectsAreEquivalent)
@@ -111,6 +119,8 @@ Programming Language
 * [State machines are wonderful tools](https://nullprogram.com/blog/2020/12/31/)
 
 # Languages
+* [awesome-guidelines: A curated list of high quality coding style conventions and standards](https://github.com/Kristories/awesome-guidelines)
+  * [Awesome Guidelines | GeekNews](https://news.hada.io/topic?id=4865) 다양한 언어 및 환경을 위한 스타일 가이드 모음
 * [Programming languages](https://github.com/showcases/programming-languages)
 * [들어보셨나요? 한글 프로그래밍 언어 3종](http://www.bloter.net/archives/240918)
 * [Systems Languages: An Experience Report](https://blog.usejournal.com/systems-languages-an-experience-report-d008b2b12628)
@@ -243,6 +253,8 @@ Programming Language
   * [Elm at Rakuten - DEV Community](https://dev.to/lucamug/elm-6m8)
   * [Elm: Introduction to a new popular programming language - TechSavvy - YouTube](https://www.youtube.com/watch?v=NSoslWAnmEY)
   * [Elm at NoRedInk | juliu.is](https://juliu.is/elm-at-noredink/)
+  * [Elm at Rakuten | Rakuten Engineering Blog](https://engineering.rakuten.today/post/elm-at-rakuten/)
+  * [Elm Radio: Comparing TypeScript and Elm's Type Systems on Apple Podcasts](https://podcasts.apple.com/us/podcast/elm-radio/id1506220473?i=1000539639056)
   * [elm-language-server](https://github.com/elm-tooling/elm-language-server/blob/master/README.md)
 * [English script - English as a programming language!](https://github.com/pannous/english-script/)
 * [Factor - a practical stack language](http://factorcode.org/)
@@ -293,6 +305,7 @@ Programming Language
   * [HHVM](http://hhvm.com/)
   * [Covariance, Contravariance, and super Type Constraints](http://hhvm.com/blog/9215/covariance-contravariance-and-super-type-constraints)
 * [Halide - a language for image processing and computational photography](http://halide-lang.org/)
+  * [Halide: A Language for Fast, Portable Computation on Images and Tensors - YouTube](https://www.youtube.com/watch?v=93-bfnKCb8E)
 * [Hello - the distributed language](http://www.amsdec.com/wp-content/uploads/2015/10/helloguide.pdf)
 * [hermetic - a python-like language with hindley-milner-like type system, which is compiled to c](https://github.com/alehander42/hermetic)
 * [Hy](https://github.com/hylang/hy)
@@ -304,6 +317,8 @@ Programming Language
 * [Idris - A Language with Dependent Types](http://www.idris-lang.org/)
   * [Type-Driven Development with Idris 리뷰](https://harfangk.github.io/2017/10/24/tdd-with-idris-review-ko.html)
   * [Why is Idris 2 so much faster than Idris 1?](https://www.type-driven.org.uk/edwinb/why-is-idris-2-so-much-faster-than-idris-1.html)
+  * [David Christiansen - Coding for Types: The Universe Patern in Idris - Curry On](https://www.youtube.com/watch?v=AWeT_G04a0A)
+  * [Gentle Introduction to Dependent Types with Idris by Boro Sitnikovski PDF/iPad/Kindle](https://leanpub.com/gidti)
 * [Idyll-lang: Make your app stand out with interactive data-driven stories](https://medium.com/swlh/make-your-app-stand-out-with-data-driven-stories-b6d6f2c2449c)
 * [IfLoop Programming Language](http://www.tapirgames.com/blog/ifloop-programming-language)
 * [J Programming Language](http://kukuruku.co/hub/funcprog/introduction-to-j-programming-language-2004)
@@ -330,6 +345,9 @@ Programming Language
   * [A Complete Guide to LLVM for Programming Language Creators](https://mukulrathi.co.uk/create-your-own-programming-language/llvm-ir-cpp-api-tutorial/)
   * [LLVM Call 난독화 패스 만들기 : 클리앙](https://www.clien.net/service/board/lecture/15887081)
   * [LLVM 난독화 path 만들기 - CFG-Flattening : 클리앙](https://www.clien.net/service/board/lecture/15891468)
+  * [LLVM internals, part 1: the bitcode format](https://blog.yossarian.net/2021/07/19/LLVM-internals-part-1-bitcode-format)
+  * [Exploring Clang/LLVM optimization on programming horror](https://blog.matthieud.me/2020/exploring-clang-llvm-optimization-on-programming-horror/)
+  * [Intel C/C++ compilers complete adoption of LLVM](https://software.intel.com/content/www/us/en/develop/blogs/adoption-of-llvm-complete-icx.html)
 * Logo
   * [구글 개발자, 자연어로 작성하는 프로그래밍 언어 공개](http://www.bloter.net/archives/251344)
   * [Past and Future Turtles: The Evolution of the Logo Programming Language (Part 1) - turtleSpaces](https://turtlespaces.org/2021/05/21/past-and-future-turtles-the-evolution-of-the-logo-programming-language-part-1/)
@@ -436,6 +454,7 @@ Programming Language
   * [Hello World server](http://www.swi-prolog.org/howto/http/HelloText.html)
   * [How to learn Prolog by watching Game of Thrones](https://medium.freecodecamp.org/how-to-learn-prolog-by-watching-game-of-thrones-4852ea960017)
 * [prose - a simple language inspired by Io and Ioke that compiles to Clojure and ClojureScript](https://github.com/aaron-lebo/prose)
+* [Pyret](https://www.pyret.org/index.html)
 * [Octave](http://www.gnu.org/software/octave/)
 * [OGDL - Ordered Graph Data Language](http://ogdl.org/)
 * [Opa - The Opa Language Rapid & Secure Web Development](http://opalang.org/)
@@ -516,7 +535,6 @@ Programming Language
 * [What To Know Before Debating Type Systems](http://blog.steveklabnik.com/posts/2010-07-17-what-to-know-before-debating-type-systems)
 * [Dynamic Languages are Static Languages](https://existentialtype.wordpress.com/2011/03/19/dynamic-languages-are-static-languages/)
 * [Logic, Languages, Compilation, and Verification](http://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
-* [David Christiansen - Coding for Types: The Universe Patern in Idris - Curry On](https://www.youtube.com/watch?v=AWeT_G04a0A)
 * [And *that* is why static types matter](http://jducoeur.livejournal.com/846769.html)
 * [Is Python strongly typed?](http://stackoverflow.com/questions/11328920/is-python-strongly-typed)
 * [Several types of types in programming languages](http://arxiv.org/abs/1510.03726)

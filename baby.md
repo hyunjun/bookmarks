@@ -60,6 +60,7 @@ Baby
 * ['D-' 학생이 하버드 대학 교수가 될 수 있었던 3가지 비결](https://jolggu.tistory.com/738) 전형적인 이야기이지만, 항상 가장 중요한 점. 스스로 찾아야 한다
 * [물고기 잡는 법](https://www.thestartupbible.com/2019/10/show-your-founder-how-to-catch-a-fish-and-she-will-make-magic-happen.html) 투자 이야기이지만 어느 교육에나 적용할 수 있는 이야기
 * [심정섭의 학군과 교육](https://blog.naver.com/jonathanshim)
+* [기사 - 사교육에 빨대 꽂힌 학부모들 2: 공교육과 독서면 충분하다](https://www.ddanzi.com/ddanziNews/695545873)
 
 # Father
 * ["저는 노력하는데 애들은 싫대요" 이유 있는 아빠의 고민](http://v.media.daum.net/v/20171107102006790)
@@ -86,6 +87,7 @@ Baby
 * [쓱쓱 칠하면 코끼리가 ‘둥실’…디즈니, 증강현실 기술 공개](http://www.bloter.net/archives/240225)
 * [색칠공부하면 입체 캐릭터가 움직인다?](http://techholic.co.kr/archives/41713)
 * [페이퍼 크래프트 download](http://cp.c-ij.com/en/categories/CAT-ST01-0071/top.html)
+* [Canon Creative Park](https://creativepark.canon/) Canon 프린터용 무료 종이 모형 자료
 
 # Product
 * Bike [우드벨로](http://m.blog.naver.com/bong5481/10093100748)

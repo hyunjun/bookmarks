@@ -17,8 +17,6 @@ Monitoring
 * [Monitor Your Precious System](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181029-20181109/20181108_SM_Monitoring.md)
 * [Pro Tips: How Booking.com Handles Millions of Metrics Per Second with Graphite](https://grafana.com/blog/2019/03/21/pro-tips-how-booking.com-handles-millions-of-metrics-per-second-with-graphite/)
 * [아이스크림 홈런 관측성 개선 세미나 - 레거시 관측성 올리기 1/10 → 5/10 후기](https://www.popit.kr/%EC%95%84%EC%9D%B4%EC%8A%A4%ED%81%AC%EB%A6%BC-%ED%99%88%EB%9F%B0-%EA%B4%80%EC%B8%A1%EC%84%B1-%EA%B0%9C%EC%84%A0-%EC%84%B8%EB%AF%B8%EB%82%98-%EB%A0%88%EA%B1%B0%EC%8B%9C-%EA%B4%80%EC%B8%A1%EC%84%B1/)
-* [Lessons from Building Observability Tools at Netflix](https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17)
-* [“모니터링의 새로운 경계” 관찰 가능성의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/183899) Observability
 * [CPU 지표 정리](https://brunch.co.kr/@leedongins/75)
 * [알람에 관하여](https://woowabros.github.io/experience/2020/03/07/alarm.html)
 * [간단하게 만드는 이상한 알람](https://woowabros.github.io/experience/2020/05/14/anomaly_alarm.html)
@@ -32,6 +30,13 @@ Monitoring
 * [트위터는 왜 모니터링 시스템을 다시 만들었나?](https://blog.imqa.io/twitter_monitoring_system_v2)
 * [IMQA (모바일 앱 실시간 성능 모니터링)는 개발자 도구를 어떻게 사용했을까?](https://blog.imqa.io/imqa_devtools/)
 * [서비스 개선의 시작, 지속적인 서비스 지표 모니터링부터. 서비스를 개선하고 지표를 확인하는 일련의 과정과 그 과정에서 얻은… | by 버즈니 | May, 2021 | Medium](https://buzzni.medium.com/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EC%84%A0%EC%9D%98-%EC%8B%9C%EC%9E%91-%EC%A7%80%EC%86%8D%EC%A0%81%EC%9D%B8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%A7%80%ED%91%9C-%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%EB%B6%80%ED%84%B0-623bd70a5105)
+* [Applying flame graphs outside of performance analysis](https://blog.twitter.com/engineering/en_us/topics/open-source/2021/applying-flame-graphs-outside-of-performance-analysis)
+  * flame graph는 성능 분석에는 자주 사용, 그 외에는 별로 사용되지 않는데, 트위터에서 매트릭 분석에 flame graph를 사용한 사례
+  * Twitter 내부의 매트릭 수집은 매년 30~40%씩 증가, 최근 이 증가속도가 더 커지게 되어 분석 시작
+  * 매트릭을 서비스의 어떤 기능이 가장 많이 보내고 있는지, 어떤 매트릭 키스페이스가 많은 매트릭을 생성했는지 알기 위해 flame graph 적용
+  * 쉽게 어떤 매트릭 키스페이스가 큰지 찾음. 이 분석으로 가장 큰 서비스 중 하나인 광고팀의 매트릭을 33% 감소
+* [Introducing logs from the dashboard for Cloudflare Workers](https://blog.cloudflare.com/introducing-workers-dashboard-logs/)
+* [Elastic 초간단 모니터링 시스템 만들기](https://jjeong.tistory.com/1568)
 
 # Grafana
 * [Grafana - Graphing System Statistics with Grafana](http://blog.endpoint.com/2015/08/graphing-system-statistics-with-grafana.html)
@@ -57,10 +62,14 @@ Monitoring
 * [Introducing the Redis Data Source Plug-in for Grafana | Redis Labs](https://redislabs.com/blog/introducing-the-redis-data-source-plug-in-for-grafana/)
 * [검색 모니터링 시스템 구축 - 다나와 기술블로그](https://danawalab.github.io/common/2021/04/09/Commom-Monitoring-System.html)
 * [**1 Kubernetes All-in-one Cluster Monitoring KR dashboard for Grafana | Grafana Labs**](https://grafana.com/grafana/dashboards/13770)
+* [Amazon Managed Grafana 사용기. 미국 동부(버지니아 북부) 및 유럽(아일랜드) 리전에서 평가판으로… | by 송지혜 | Cloud Villains | Sep, 2021 | Medium](https://medium.com/ctc-mzc/amazon-managed-grafana-%EC%82%AC%EC%9A%A9%EA%B8%B0-956bb5bace32)
+* Grafana Cloud [Intro to monitoring Kubernetes with Grafana Cloud | Grafana Labs](https://grafana.com/go/webinar/intro-to-monitoring-kubernetes/)
 * Grafana Tempo
   * [Grafana Announces Grafana Tempo, a Distributed Tracing System](https://www.infoq.com/news/2020/12/grafana-tempo-distributed-tracin/)
   * [Intro to exemplars, which enable Grafana Tempo’s distributed tracing at massive scale | Grafana Labs](https://grafana.com/blog/2021/03/31/intro-to-exemplars-which-enable-grafana-tempos-distributed-tracing-at-massive-scale/)
 * [Loki tutorial: How to send logs from EKS with Promtail to get full visibility in Grafana | Grafana Labs](https://grafana.com/blog/2020/07/21/loki-tutorial-how-to-send-logs-from-eks-with-promtail-to-get-full-visibility-in-grafana/)
+  * [Realtime Fastly logs with Grafana Loki for under $1 a day | by Alina Frolova | Aug, 2021 | loveholidays tech](https://tech.loveholidays.com/realtime-fastly-logs-with-grafana-loki-for-under-1-a-day-5b63ccf32d66)
+  * [How Istio, Tempo, and Loki speed up debugging for microservices | Grafana Labs](https://grafana.com/blog/2021/08/31/how-istio-tempo-and-loki-speed-up-debugging-for-microservices/)
 
 # Library
 * [Anitya is a release monitoring project](https://github.com/fedora-infra/anitya)
@@ -68,21 +77,29 @@ Monitoring
   * [Argus Production Monitoring at Salesforce](https://youtu.be/45eDxLFAOrk)
 * [Bosun - an open-source, MIT licensed, monitoring and alerting system by Stack Exchange](http://bosun.org/)
 * [Brubeck, a statsd-compatible metrics aggregator](http://githubengineering.com/brubeck/)
+* Checkmk [Monitor your Linux server with Checkmk | Opensource.com](https://opensource.com/article/21/8/monitor-linux-server-checkmk)
 * [cloudly - A free, open-source, cross-platform servers monitoring. https://projectcloudly.com/demo](https://github.com/jparicka/cloudly)
 * [csysdig - Announcing csysdig — think strace + htop + Lua + container support](https://sysdig.com/announcing-csysdig-strace-htop-lua-container-support/)
 * datadog [Cloud Monitoring as a Service | Datadog](https://www.datadoghq.com/)
   * [데이터독(Datadog)이란? 클라우드 모니터링 서비스](https://www.44bits.io/ko/keyword/datadog)
   * [Datadog APM으로 내 프로젝트 모니터링 하기 | Recoding Life](https://jane096.github.io/project/apm-monitoring/)
+  * [Bringing reliability closer to you with Reliably and DataDog - DEV Community](https://dev.to/reliably/bringing-reliability-closer-to-you-with-reliably-and-datadog-2jbm)
+    * Reliably에서 만든 CLI를 이용해서 SLO를 측정하는 방법 설명
+    * 간단한 웹서버에서 일부는 오류가 발생하도록 작성하고 Datadog에 APM을 연동해 두고 reliably를 이용해서 Datadog의 매트릭을 가져와서 SLO 보고서를 만드는 방법 설명
+  * [(4) Datadog 네트워크 성능 모니터링 - NPM | LinkedIn](https://www.linkedin.com/pulse/%25EB%258D%25B0%25EC%259D%25B4%25ED%2584%25B0%25EB%258F%2585-%25EB%2584%25A4%25ED%258A%25B8%25EC%259B%258C%25ED%2581%25AC-%25EC%2584%25B1%25EB%258A%25A5-%25EB%25AA%25A8%25EB%258B%2588%25ED%2584%25B0%25EB%25A7%2581-npm-daniel-yunjong-park/)
 * Flamingo
   * [Big Data Platform--Flamingo v3.0 Demo](https://www.youtube.com/watch?v=VnDcS2tqaqU)
 * [froxlor Server Management Panel](http://froxlor.org/)
 * [Funnel is a distributed monitoring system based on a lightweight streaming protocol](http://oncue.github.io/funnel/)
 * [glances: Glances an Eye on your system. A top/htop alternative for GNU/Linux, BSD, Mac OS and Windows operating systems](https://github.com/nicolargo/glances)
 * [GoAccess - Visual Web Log Analyzer](https://goaccess.io/)
+* [health: A simple and flexible health check library for Go](https://github.com/alexliesenfeld/health)
+  * 애플리케이션 가용성 확인을 위해 Go 언어로 만들어진 상태 확인 라이브러리. 클라우드 인프라에서 사용 가능, http.Handler 제공
 * [inspect - a collection of metrics gathering, analysis utilities for various subsystems of linux, mysql and postgres](https://github.com/square/inspect)
 * [installsheild](https://github.com/gyunseul9/installsheild)
   * 설치항목 - 웹서버: 아파치, 스크립트 언어: PHP, No-SQL: REDIS, No-SQL 클러스터: 루비, 데이터수집데몬: node.js,  REDIS 모니터링: RedisLive , 모니터링 데이터 수집: sqlite, 백업 및 감시 스케줄러: crontab
 * [internet-monitoring: Monitor your network and internet speed with Docker & Prometheus](https://github.com/geerlingguy/internet-monitoring)
+* [Jaeger: open source, end-to-end distributed tracing](https://www.jaegertracing.io/)
 * [kairos-smi - Multi-server gpu moniroting program](https://github.com/kairos03/kairos-smi)
 * [Monitoror - Unified monitoring wallboard](https://monitoror.com/)
 * [New Relic Boxes](https://github.com/bizzabo/new-relic-boxes)
@@ -111,7 +128,16 @@ Monitoring
 * [Upptime](https://upptime.js.org/)
   * [upptime: ⬆️ Uptime monitor and status page powered by GitHub](https://github.com/upptime/upptime)
   * [upptime - GitHub로 자동 운영되는 오픈소스 업타임 모니터 | GeekNews](https://news.hada.io/topic?id=3090)
+  * [10분만에 평생 무료인 모니터링 도구 만들기 - peterkimzz](https://www.peterkimzz.com/monitoring-tool-in-10-minutes/)
+* [uptime-kuma: A fancy self-hosted monitoring tool](https://github.com/louislam/uptime-kuma)
+  * [Uptime Kuma - 셀프호스트 모니터링 오픈소스 | GeekNews](https://news.hada.io/topic?id=4916)
 * [vnStat - a console-based network traffic monitor for Linux and BSD](http://humdi.net/vnstat/)
+
+# Observability
+* [Lessons from Building Observability Tools at Netflix](https://medium.com/netflix-techblog/lessons-from-building-observability-tools-at-netflix-7cfafed6ab17)
+* [“모니터링의 새로운 경계” 관찰 가능성의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/183899)
+* [Beyond Monitoring: The Rise of Observability | by Aparna Dhinakaran | Medium](https://aparnadhinak.medium.com/beyond-monitoring-the-rise-of-observability-c53bdc1d2e0b)
+* [OpenTelemetry](https://opentelemetry.io/)
 
 # Prometheus
 * [Monitoring Apache Spark with Prometheus on Kubernetes](https://banzaicloud.com/blog/spark-monitoring/)
@@ -134,3 +160,4 @@ Monitoring
 * [Prometheus in a Clojure stack: Duct, Jetty, Compojure/Reitit and Hugsql](https://danlebrero.com/2021/02/03/prometheus-clojure-ring-sql-compojure-reitit/)
 * [A guide to setting up Kubernetes Service Level Objectives (SLOs) with Prometheus and Linkerd | Cloud Native Computing Foundation](https://www.cncf.io/blog/2020/11/13/a-guide-to-setting-up-kubernetes-service-level-objectives-slos-with-prometheus-and-linkerd/)
 * [토스의 서버 인프라 모니터링](https://toss.im/slash-21/sessions/1-2)
+* [Amazon debuts fully managed, Prometheus-based container monitoring service - SiliconANGLE](https://siliconangle.com/2021/09/29/amazon-debuts-fully-managed-prometheus-based-container-monitoring-service/)

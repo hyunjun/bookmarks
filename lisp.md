@@ -90,6 +90,7 @@ Lisp
 * [An Intuition for Lisp Syntax](https://stopa.io/post/265)
 * [Carp: A statically typed lisp, without a GC, for real-time applications](https://github.com/carp-lang/Carp)
 * [steloflute :: Lisp 계열 언어에서의 mutation 방법에 대한 고찰](https://steloflute.tistory.com/entry/Lisp-%EA%B3%84%EC%97%B4-%EC%96%B8%EC%96%B4%EC%97%90%EC%84%9C%EC%9D%98-mutation-%EB%B0%A9%EB%B2%95%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B3%A0%EC%B0%B0)
+* [The Tragedy of the Common Lisp:. by Mark S. Miller | by Mark S. Miller | Medium](https://erights.medium.com/the-tragedy-of-the-common-lisp-why-large-languages-explode-4e83096239b9)
 
 # Bel
 * [Bel](http://www.paulgraham.com/bel.html)
@@ -121,6 +122,8 @@ Lisp
 * [Awesome Common Lisp](https://github.com/CodyReichert/awesome-cl)
 * [Browsing the Web with Common Lisp](https://babbagefiles.xyz/next_browser-common_lisp)
 * [Lisp — mm-vis-js](https://sushilshik.github.io/lisp.html)
+* [Common Lisp for the Curious Clojurian - Alan Dipert - Scicloj meeting 19 - YouTube](https://www.youtube.com/watch?v=44Q9ew9JH_U)
+* [Common Lisp Tutorial 1: Coin Toss - YouTube](https://www.youtube.com/watch?v=3GEAINRCbJ4)
 
 ## Common Lisp Library
 * [Common Music Notation](https://ccrma.stanford.edu/software/cmn/)
@@ -128,7 +131,12 @@ Lisp
 * [klisp is an implementation of the Kernel Programming Language](http://klisp.org/)
 * [LFE, Lisp Flavoured Erlang, is a lisp syntax front-end to the Erlang compiler. Code produced with it is compatible with "normal" Erlang code. An LFE evaluator and shell is also included](https://github.com/rvirding/lfe)
 * [Lucerne - A web framework for Common Lisp](http://eudoxia.me/lucerne/)
+* [nyxt: Nyxt - the Internet on your terms](https://github.com/atlas-engineer/nyxt)
+  * [Next, the Programmable Web Browser (aka alternative to Chrome and Firefox) - YouTube](https://www.youtube.com/watch?v=gv0Q2u2hGgU)
 * [Option 9: A Shoot'em Up Miniature Video Game](http://pages.cs.wisc.edu/~psilord/lisp-public/option-9.html)
+* [stumpwm: The Stump Window Manager](https://github.com/stumpwm/stumpwm)
+  * [https://stumpwm.github.io](https://stumpwm.github.io/)
+  * [StumpWM - Overview Demo - YouTube](https://www.youtube.com/watch?v=jlF1N0R24cA)
 
 # Elisp
 * [Tutorial about programming Elisp and Emacs text editor customization](https://github.com/caiorss/Emacs-Elisp-Programming)
@@ -138,6 +146,9 @@ Lisp
 # Hy
 * [Hy](http://docs.hylang.org/)
 * [Live-coding Blender with Hy](http://mccormick.cx/news/entries/live-coding-blender-with-hy)
+
+# Janet
+* [Janet Programming Language](https://janet-lang.org/)
 
 # Javelin
 * [Javelin](https://github.com/kimtg/Javelin)
@@ -193,6 +204,7 @@ Lisp
 * [execute scheme online](http://www.tutorialspoint.com/execute_scheme_online.php)
 * [**Practical Functional Programming**](http://www.lambdanative.org/)
 * [python vs scheme part 1 - YouTube](https://www.youtube.com/watch?v=f-qtqWUKspA)
+* ["Strange Dreams of Stranger Loops" by Will Byrd - YouTube](https://www.youtube.com/watch?v=AffW-7ika0E)
 * [Schemy - a lightweight Scheme-like scripting language interpreter for embedded use in .NET applications](https://github.com/Microsoft/schemy)
 
 # tisp

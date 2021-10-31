@@ -23,6 +23,10 @@ GIS
 * [A new way to make maps with OpenStreetMap | Protomaps](https://protomaps.com/blog/new-way-to-make-maps/)
 * [카카오맵이 빠르게 길을 찾아주는 방법: CCH를 이용한 개편기 – tech.kakao.com](https://tech.kakao.com/2021/05/10/kakaomap-cch/)
 * [구글맵 api를 이용해 서울 맛집 리스트 지도 시각화 및 인구수의 상관관계](https://speedanddirection.tistory.com/87)
+* [맵의 미래는 게임의 현재를 따라간다 (번역) – 이바닥늬우스](https://ebadak.news/2021/09/04/mappings-future-looks-like-gamings/)
+  * [맵(지도)의 미래는 게임의 현재를 따라간다 (번역) | GeekNews](https://news.hada.io/topic?id=4963)
+* [Leap seconds: Causing Bugs Even When They Don't Happen - Bert Hubert's writings](https://berthub.eu/articles/posts/leapseconds-expose-bugs-even-when-they-dont-happen/) 윤초
+* [The Evolution of Map Design: From Medieval Latin to Google Maps | by Daniel Ruston | Google Design | Medium](https://medium.com/google-design/design-for-a-map-927b533ac544)
 
 # Go
 * [find3: High-precision indoor positioning framework, version 3](https://github.com/schollz/find3)
@@ -40,8 +44,14 @@ GIS
   * [GeoTIFF Coordinate Querying with JavaScript | by Thomas Horner | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/geotiff-coordinate-querying-with-javascript-5e6caaaf88cf)
   * [Cloud Optimized GeoTIFF - An imagery format for cloud-native geospatial processing](https://www.cogeo.org/)
     * [A Handy Introduction to Cloud Optimized GeoTIFFs | by Patrick Armstrong | Planet Stories | Medium](https://medium.com/planet-stories/a-handy-introduction-to-cloud-optimized-geotiffs-1f2c9e716ec3)
-* [Leaflet Map Routing JavaScript App - YouTube](https://www.youtube.com/watch?v=F8dnYNTncoU)
+* [Leaflet - a JavaScript library for interactive maps](https://leafletjs.com/)
+  * [Leaflet Map Routing JavaScript App - YouTube](https://www.youtube.com/watch?v=F8dnYNTncoU)
 * [mapscii: MapSCII is a Braille & ASCII world map renderer for your console - enter => telnet mapscii.me \<= on Mac (brew install telnet) and Linux, connect with PuTTY on Windows](https://github.com/rastapasta/mapscii)
+
+# Library
+* [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/) 지형 공간 데이터를 시각화 탐색을 용이하도록 하기 위해 개발한 오픈 소스 그리드 시스템
+  * [h3: Hexagonal hierarchical geospatial indexing system](https://github.com/uber/h3)
+  * [Large Scale Geospatial Indexing and Analysis on Apache Spark - YouTube](https://www.youtube.com/watch?v=TF_VvPUPCqU)
 
 # PostGIS
 * [POSTGIS 2.2 LEVERAGING POWER OF POSTGRESQL 9.5](http://www.postgresonline.com/journal/archives/350-PostGIS-2.2-leveraging-power-of-PostgreSQL-9.5.html)

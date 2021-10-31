@@ -17,6 +17,7 @@ Scala
   * [Scala Love – Podcast about Scala Programming Language and its community](https://scala.love/)
   * [Adam Rosien: Cheese Pairings For Effects - The Scala Logs | Podcast on Spotify](https://open.spotify.com/episode/169kHgsVpYzyK3ixy6KQ9q?si=dt754Us-Tl6HeuaOla9qmQ&nd=1)
   * [Jakub Kozłowski: From Highschool to Teaching Scala - The Scala Logs | Podcast on Spotify](https://open.spotify.com/episode/4ZTAe6Slie5oXciwRqdMyj?si=FOuxQE7rQJW9pHWE1YgNKg&nd=1)
+  * [Episode #112: Abstracting Stateful Serverless with Jonas Bonér - Serverless Chats Podcast](https://www.serverlesschats.com/112/)
 * [scala center -  For open source. For education. A new not-for-profit center established at EPFL](https://scala.epfl.ch/)
 * [라 스칼라 코딩단](https://github.com/codeport/scala)
   * [라스코단 번역 프로젝트](https://github.com/codeport/scala/wiki/%EB%B2%88%EC%97%AD%EC%9E%90%EB%A3%8C)
@@ -149,6 +150,7 @@ Scala
 * [user-land compiler warnings in Scala](http://eed3si9n.com/user-land-compiler-warnings-in-scala)
 * [user-land compiler warnings in Scala, part 2](http://eed3si9n.com/user-land-compiler-warnings-in-scala-part2)
 * [**#Scala Compiler Options, Fatal Warnings and Linting Guide - YouTube**](https://www.youtube.com/watch?v=A04WXhM3LrM)
+* [An intro to the Scala presentation compiler](https://www.chris-kipp.io/blog/an-intro-to-the-scala-presentation-compiler)
 * [Configuring and suppressing warnings in Scala | The Scala Programming Language](https://www.scala-lang.org/2021/01/12/configuring-and-suppressing-warnings.html)
 * [BETTER MANAGEMENT OF TRANSITIVE DEPENDENCIES AND CONFLICTS](https://www.scala-lang.org/2019/10/17/dependency-management.html)
 * [Top 5 things that slow down your Scala build](https://www.triplequote.com/blog/2019-10-24-5-things-slow-down-build/)
@@ -192,9 +194,12 @@ Scala
 * [Learning Scala: Toolchain, Internals, and Intermediate Representations](https://medium.com/@tylerremmie/learning-scala-toolchain-internals-and-intermediate-representations-716a1719f448)
 * [github.com/ikhoon/scala-note](https://github.com/ikhoon/scala-note)
 * [How to turn ugly Java APIs into elegant, type-safe Scala APIs](https://medium.com/iterators/how-to-turn-ugly-java-apis-into-elegant-type-safe-scala-apis-9eab358e5fb2)
+* [Building functional & testable HTTP APIs](https://michalplachta.com/2018/02/19/building-functional-testable-http-apis/)
+* [Produce clean APIs with algebraic design - Scala/FP tutorial - YouTube](https://www.youtube.com/watch?v=zK_URjMLStA)
 * [To tag a type](https://medium.com/iterators/to-tag-a-type-88dc344bb66c)
 * [What is `transparent` in Scala?](https://medium.com/@jducoeur/what-is-transparent-in-scala-cf5c9e9350f3)
 * [Exceptions, referential transparency and your Scala code](https://medium.com/@itay.maman/exceptions-referential-transparency-and-your-scala-code-4fc3f84043ad)
+* [Why Should You Care About Referential Transparency? - YouTube](https://www.youtube.com/watch?v=CmHEid4qnco)
 * [Picking a Language for Introductory CS — The Argument Against Python](https://medium.com/@drmarkclewis/picking-a-languages-for-introductory-cs-the-argument-againstpython-4331cca26cfa)
 * [NAVER Tech Talk: Scala 밋업(2018년 10월)](https://d2.naver.com/news/9362795) Monad, Akka
 * [Implementing Immutable Trie in Scala](https://medium.com/@AlirezaMeskin/implementing-immutable-trie-in-scala-c0ab58fd401)
@@ -205,6 +210,7 @@ Scala
 * [Programming with Functions #5 - Immutability - YouTube](https://www.youtube.com/watch?v=E8JB99wis7A)
 * [Is your Scala object always a singleton?](https://blog.softwaremill.com/is-your-scala-object-always-a-singleton-cb3fd24a2fd9)
 * [Singleton Object in Scala](https://medium.com/@senthil.nayagan/singleton-object-in-scala-63fa8366bdfc)
+* [Singleton types - Scala tutorial - YouTube](https://www.youtube.com/watch?v=DBlhR5K1GxU)
 * [Maintaining Binary Compatibility in Scala](https://medium.com/zendesk-engineering/maintaining-binary-compatibility-in-scala-6e07157aac23)
 * [The Ultimate Scala Serverless Lambda Deployment using Travis CI](https://medium.com/@5tigerjelly/the-ultimate-scala-serverless-lambda-deployment-using-travis-ci-18ddc681769f)
 * [Testable toggles in Scala](https://medium.com/@swa.khandekar/testable-toggles-in-scala-67bfaf80b13a)
@@ -223,6 +229,7 @@ Scala
 * [SCALA TIMES](https://twitter.com/ScalaTimes)
 * [Improvement in Scala 2.13 and sbt 1.3](https://blog.kevinlee.io/2019/09/28/improvement-in-scala-2.13-and-sbt-1.3/) scalaz, cats, EitherT
 * [Benchmarking Functional Error Handling in Scala](https://www.iteratorshq.com/blog/benchmarking-functional-error-handling-in-scala/) EitherT
+* [comparative-benchmarks.md](https://gist.github.com/djspiewak/f4cfc08e0827088f17032e0e9099d292)
 * [Error handling in Scala](https://medium.com/@pierre_jambet/error-handling-in-scala-1197a742d6a5)
 * JVM configuration for Scala `-J`
   * `-J-Xmx32M -J-Xms32M -J-XX:+PrintGCDetails -J-XX:+PrintGCDateStamps -J-verbose:gc -J-Xloggc:. -J-XX:+HeapDumpOnOutOfMemoryError -J-XX:HeapDumpPath=.` [Scala JVM option](https://medium.com/@strncpy/scala-jvm-option-d33e5c02ad0a)
@@ -252,7 +259,6 @@ Scala
 * [Tame your config](https://blog.softwaremill.com/tame-your-config-2e89b1669dd9)
 * [Scala: and using it in a Startup in 2019](https://medium.com/style-theory-engineering/scala-and-using-it-in-a-startup-in-2019-42e56110e887)
 * [SPNEGO Token generation](https://medium.com/se-notes-by-alexey-novakov/spnego-token-generation-90c4267f784e)
-* [Building functional & testable HTTP APIs](https://michalplachta.com/2018/02/19/building-functional-testable-http-apis/)
 * [What's that called? What's the name of that operator/symbol/syntax/thing, for Scala](https://github.com/andyscott/scala-whats-that-called)
 * [A Complete Guide to Variance in Java and Scala](https://medium.com/javarevisited/variance-in-java-and-scala-63af925d21dc)
 * [KCD2019 순수 함수형 스칼라로 웹 애플리케이션 만들기(박지수/라스칼라코딩단)](https://www.youtube.com/watch?v=EVue9e_WwoM)
@@ -313,6 +319,11 @@ Scala
 * [Our Scala Journey by Girish Kolanthra (Capital One) - YouTube](https://www.youtube.com/watch?v=agi-dFh_vEg)
 * [Anomaly / outlier detection using isolation forest in Scala | by Kristof Slechten | Apr, 2021 | Medium](https://kristofsl.medium.com/anomaly-outlier-detection-using-isolation-forest-in-scala-9f5f4d6edff9)
 * [Ruminations on Learning Scala – Scala for Cybersecurity](https://www.cyberscala.org/ruminations-on-learning-scala/)
+* [#GitHub #Copilot for #Scala - Does it work? - YouTube](https://www.youtube.com/watch?v=hYzJNCdoh-Y)
+* [Number (part 1) Precision numeric computation with Scala | CodeX](https://medium.com/codex/number-part-1-c98313903714)
+* [A Case Study in Incrementally Improving Code](https://www.inner-product.com/posts/a-case-study-in-incrementally-improving-code/)
+* [Developing your own Content Management System — Preface](https://softwaremill.com/developing-your-own-content-management-system-preface/)
+* [Dataflow Analysis for Scala | The Scala Plugin Blog](https://blog.jetbrains.com/scala/2021/10/28/dataflow-analysis-for-scala/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -340,6 +351,7 @@ Scala
 * [Nightmare on Actor Subtree Shutdown](https://medium.com/kenshoos-engineering-blog/nightmare-on-actor-subtree-shutdown-93a8634f41be)
 * [Message-based Parallelism with Actors](https://www.lihaoyi.com/post/MessagebasedParallelismwithActors.html)
 * [introduction to actor supervision akka typed with scala for beginners](https://yolkorbit.com/introduction-to-actor-supervision-akka-typed-with-scala-for-beginners/)
+* [Actor Model(행위자 모델) — { DEV SWEETER ; }](https://syntaxsugar.tistory.com/entry/Actor%EC%95%A1%ED%84%B0)
 * [ZIO Actors - High-performance, purely-functional library for building and supervising typed actors backed by ZIO](https://zio.github.io/zio-actors/)
 
 # Akka
@@ -452,6 +464,7 @@ Scala
 * [Using Dotty Union types with Akka Typed](https://www.lunatech.com/2020/02/using-dotty-union-types-with-akka-typed/)
 * [Using Dotty Union types with Akka Typed – Part II](https://www.lunatech.com/2020/02/using-dotty-union-types-with-akka-typed-part-ii/)
 * [Akka Stream Coexistence With Akka Typed](https://kaplan.dev/articles/akka-stream-coexistence-with-akka-typed/)
+* [Akka Streams — Getting Started. From zero to production with Akka… | by Sergio Cano | Aug, 2021 | Medium](https://medium.com/@canosergio90/akka-streams-getting-started-32b5ebc60604)
 * [Akka Typed: Stateful and Stateless Actors | Rock the JVM - YouTube](https://www.youtube.com/watch?v=gwZjdRQTPu8)
 * [Akka Typed: Message adapters - YouTube](https://www.youtube.com/watch?v=aVgjEMA1AEQ)
 * [(Typed) Akka document 읽으면서 소소하게 정리 (Getting Started Guide)](https://wingnim.tistory.com/119)
@@ -479,7 +492,10 @@ Scala
 * [Akka Platform Guide :: Akka Platform Guide](https://developer.lightbend.com/docs/akka-platform-guide/index.html)
 * [Type safe, message driven, distributed - a whirlwind tour of Akka by Johan Andrén - YouTube](https://www.youtube.com/watch?v=o1iKDgq9Asg)
 * [Akka Serverless | @lightbend](https://www.lightbend.com/akka-serverless)
-* [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
+* [Monitoring Akka applications with Mesmer and OpenTelemetry - Developer’s kit](https://scalac.io/blog/akka-monitoring-with-mesmer-and-opentelemetry/)
+* Akka gRPC
+  * [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
+  * [Akka gRPC update delivers 1200% performance improvement (so what happened?) | Lightbend](https://www.lightbend.com/blog/akka-grpc-update-delivers-1200-percent-performance-improvement)
 * Akka-Persistence-Postgres [Why we need yet another Akka persistence plugin | by Marcin Kubala | SoftwareMill Tech Blog](https://blog.softwaremill.com/why-we-need-yet-another-akka-persistence-plugin-4e08993eb04e)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
@@ -512,6 +528,7 @@ Scala
 * [10000 nodes and beyond with Akka Cluster and Rapid](https://manuel.bernhardt.io/2020/04/30/10000-node-cluster-with-akka-and-rapid/)
 * [Orchestrating startup and shutdown in Scala](https://medium.com/bestmile/orchestrating-startup-and-shutdown-in-scala-f7ad2644835a)
 * [Akka Cluster split brain failures — are you ready for it?](https://blog.softwaremill.com/akka-cluster-split-brain-failures-are-you-ready-for-it-d9406b97e099)
+* [Story of importing a large dataset to Akka Cluster | by Michał Bogacz | VirtusLab | Jul, 2021 | Medium](https://medium.com/virtuslab/story-of-importing-a-large-dataset-to-akka-cluster-60ed3bba8184)
 * [Hydra - an Akka Cluster based system which provides high available container service for apps](https://github.com/wherby/Hydra/)
   * [HydraRelease - Release works for Hydra Cluster](https://github.com/wherby/HydraRelease)
 
@@ -601,6 +618,7 @@ Scala
 * [How to Use Scala Pattern Matching | by billydharmawan | Towards Data Science](https://towardsdatascience.com/how-to-use-scalas-pattern-matching-362a01aa32ca)
 * [Programming with Functions #3 - Pattern Matching - YouTube](https://www.youtube.com/watch?v=GzVpWORuVqE)
 * [Pattern Matching & Reflection | Functional Scala - YouTube](https://www.youtube.com/watch?v=Mfs3poORr8Q)
+* [Custom Pattern Matching in Scala - YouTube](https://www.youtube.com/watch?v=js2IgkNz1H0)
 * [The Difference Between Null, Nothing, Nil, None and Unit in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=0_-jRrdg9Dw)
 * [Andy Scott—Code by Shape - YouTube](https://www.youtube.com/watch?v=ifPTQ9CULdk) Either, Option, List, fold(Right)
 * [The assignment operator is broken!](https://adrian-salajan.github.io//blog/2020/10/02/assigment-is-broken)
@@ -614,6 +632,7 @@ Scala
 * [A case study of flatMap vs flatten](https://systemfw.org/posts/flatten.html)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=XfQjnTT4on0) 여러가지 SDK API
 * [Composable Scala Matchers: Introduction | by Robin Hillyard | Jun, 2021 | Medium](https://scala-prof.medium.com/composable-scala-matchers-introduction-efd1c0fe0533)
+* [Fast number parsing in Scala](https://softwaremill.com/fast-number-parsing-in-scala/) `Try(value.toInt).toOption`
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -639,6 +658,7 @@ Scala
     * [Scala CaseClass에 대한 특징 정리](https://wingnim.tistory.com/111)
     * [Scala Case Class and Case Object In-Depth (Part-1) - JournalDev](https://www.journaldev.com/9733/scala-caseclass-caseobject-part1)
     * [Scala Case Class and Case Object In-Depth (Part-2) - JournalDev](https://www.journaldev.com/12122/scala-caseclass-caseobject-part2)
+    * [Singleton types and case class fields - `F[_]` around and find out #1 - YouTube](https://www.youtube.com/watch?v=xeB6-js0iNw)
   * [**스칼라 클래스의 일반적인 형식화**](https://blog.xxxnell.com/ko/posts/formalization)
 * collection
   * [practice - until & to](https://gist.github.com/hyunjun/3eddbf4ba54b1a603f38e52b78a9b0e6#file-until_to-scala)
@@ -651,6 +671,7 @@ Scala
   * [Functional Collections in Scala - YouTube](https://www.youtube.com/watch?v=Y5rPHZaUakg)
   * [Scala collections methods explained using food 😋 - Waris Radji](https://warisradji.com/2021/06/04/scala-collections-methods-explained-using-food/index.html)
     * [practice - collections methods](https://gist.github.com/hyunjun/3eddbf4ba54b1a603f38e52b78a9b0e6#file-collections_methods-scala)
+  * [Linear Collections in Scala: Seq, List, Array, Vector, Set, Range - YouTube](https://www.youtube.com/watch?v=UvUkpduo6uE)
 * concurrent
   * duration
     * [Rock the JVM | How Does "20 seconds" Work in Scala?](https://rockthejvm.com/blog/215541/20-seconds)
@@ -875,8 +896,9 @@ Scala
     * [An Introduction to ZIO Kafka](https://ziverge.com/blog/introduction-to-zio-kafka/)
     * [Apache Kafka and ZIO. This article will explain why you want… | by Aleksandra Holubitska | Sep, 2020 | Medium](https://medium.com/@oleksandra_a/apache-kafka-and-zio-af418b4c54f0)
     * [How To Implement Streaming Microservices Using ZIO and Kafka](https://scalac.io/blog/streaming-microservices-with-zio-and-kafka/)
-    * [Production-grade Microservices with ZIO by Itamar Ravid - YouTube](https://www.youtube.com/watch?v=oMJ1RMdR7wg)
     * [Using ZIO Kafka with offset storage in Postgres for transactional processing | by Marek Kadek | Mar, 2021 | Medium](https://kadek-marek.medium.com/using-zio-kafka-with-offset-storage-in-postgres-for-transactional-processing-91042e81c095)
+    * [ZIO Kafka with Scala: A Tutorial - YouTube](https://www.youtube.com/watch?v=ExFjjczwwHs)
+    * [Production-grade Microservices with ZIO by Itamar Ravid - YouTube](https://www.youtube.com/watch?v=oMJ1RMdR7wg)
     * [Using Aspects To Transform Your Code With ZIO Environment - YouTube](https://www.youtube.com/watch?v=gcqWdNwNEPg)
     * [How to Use Thread.sleep Without Blocking on the JVM](https://www.freecodecamp.org/news/non-blocking-thread-sleep-on-jvm/) thread.sleep, project loom, ScheduledExecutorService, zio.sleep
     * [Scale By The Bay 2020: Leo Benkel, Enhancing Spark's Power with ZIO - YouTube](https://www.youtube.com/watch?v=OW0ggALNtSE)
@@ -887,6 +909,7 @@ Scala
     * [ZIO WORLD - ZIO Runtime System by John A. De Goes - YouTube](https://www.youtube.com/watch?v=OFFrw5aJzG4)
     * [ZIO WORLD - Execution Tracing by Rob Walsh - YouTube](https://www.youtube.com/watch?v=1-z06KIde0k)
     * [ZIO WORLD - Blocking by Adam Fraser - YouTube](https://www.youtube.com/watch?v=1g21c8VKeuU)
+    * [ZIO World - Panel Discussion - YouTube](https://www.youtube.com/watch?v=JxVe2M3ahm8)
     * [1st Zymposium - Building an App with ZIO - YouTube](https://www.youtube.com/watch?v=XUwynbWUlhg)
     * [ZIO Profiler by Maxim Schuwalow - YouTube](https://www.youtube.com/watch?v=rdETYUc8XyI)
     * [2nd Zymposium - Adam Fraser, Kit Langton & Tushar Mathur - YouTube](https://www.youtube.com/watch?v=g6w1BuKlSQs)
@@ -895,11 +918,35 @@ Scala
     * [The ZIO of the Future by John De Goes - YouTube](https://www.youtube.com/watch?v=u3pgyEiu9eU)
     * [Zymposium - Full Stack Development (Part 1) - YouTube](https://www.youtube.com/watch?v=0oz8ZTf-LD0)
     * [Zymposium - Full Stack Development (Part 2) - YouTube](https://www.youtube.com/watch?v=VqTqFhU9Mrs)
+    * [Zymposium - Variance - YouTube](https://www.youtube.com/watch?v=2uEjXuFBsBk)
+    * [Zymposium - Proto-Quill Release Party - YouTube](https://www.youtube.com/watch?v=El9fkkHewp0)
+    * [Zymposium — Smart Assertions - YouTube](https://www.youtube.com/watch?v=lgCb4-4M-fw)
+    * [Zymposium — Integrating the learning from TypeScript in designing a ZIO powered by Scala 3 - YouTube](https://www.youtube.com/watch?v=toSdrNimrTc)
+    * [Zymposium - ZIO Flow - YouTube](https://www.youtube.com/watch?v=DDZ8HgWOpBk)
+    * [Zymposium — Full Stack Frontend - YouTube](https://www.youtube.com/watch?v=lJvoeYlRf-g)
+    * [Zymposium — Type-Level Sets - YouTube](https://www.youtube.com/watch?v=N_it0qwk7_U)
     * [Part 1 - What is ZIO and should you learn it? - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=XwMKw03w8bs)
     * [Part 2 - `ZIO[_, _, Success]` - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=7MNY0o2i_vg)
     * [Part 3 - `ZIO[_, Error, _]` & Variance - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=oKaQXxEa7a8)
     * [Part 4 - `ZIO[Env, _, _]` - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=e1kIjiWHVhE)
+    * [Part 5 - ZIO.access - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=1t0GPFumFkE)
+    * [Part 6 - zio.Has - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=epTKGRuxbOE)
+    * [Part 7 - ZLayer - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=FOStEDZAZWs)
+    * [Part 8 - ZLayer DSL - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=WjjdlhvOS7Y)
+    * [Part 9 - Effect Tracking - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=xwh0BAJtZFo)
+    * [Part 10 - core & persistence - TF to ZIO (The Big Rewrite) - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=-RZk0NGF5BU)
+    * [Part 11 - delivery & main - TF to ZIO (The Big Rewrite) - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=wOX3LpLEQ00)
+    * [Part 12 - http4s & skunk - TF to ZIO (The Big Rewrite) - Getting Started with #ZIO in #Scala3 - YouTube](https://www.youtube.com/watch?v=nPT_7gIeyMY)
     * [ZIO News - Issue #28 | Revue](https://www.getrevue.co/profile/zio/issues/zio-news-issue-28-654279)
+    * [Organizing Services with ZIO and ZLayers - Rock the JVM Blog](https://blog.rockthejvm.com/structuring-services-with-zio-zlayer/)
+    * [Home | Ziverge](https://ziverge.com/blog/)
+    * [A Preview of Logging in ZIO 2.0](https://ziverge.com/blog/a-preview-of-logging-in-zio-2/)
+    * [Advances In The ZIO 2.0 Scheduler](https://ziverge.com/blog/advances-in-the-zio-2-scheduler/)
+    * [Where the ZIO Roadmap is Headed Next | Capital One](https://www.capitalone.com/tech/software-engineering/zio-roadmap/) 2.0
+    * [Building Next Gen Applications on JVM with ZIO | Capital One](https://www.capitalone.com/tech/software-engineering/building-on-jvm-with-zio/)
+    * [on tf and zio in 2021.md](https://gist.github.com/kubukoz/f32347ce711d65fb70752bb408f3d65c)
+    * [ZIO from Scratch — Part 1 - YouTube](https://www.youtube.com/watch?v=wsTIcHxJMeQ)
+    * [Next Generation Operations with ZIO — Adam Fraser - YouTube](https://www.youtube.com/watch?v=vYKea3hGw28)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -920,7 +967,7 @@ Scala
     * zio-k8s
       * [Writing kubectl plugins with ZIO K8s](https://ziverge.com/blog/zio-k8s-kubectl-plugin/)
       * [ZIO World - ZIO Kubernetes (ZIO K8S 1.0) - YouTube](https://www.youtube.com/watch?v=BUMe2hGKjXA)
-    * zio-prelude
+    * [ZIO Prelude · Next Generation Functional Abstractions For Scala](https://zio.github.io/zio-prelude/)
       * [What's Ap with zio-prelude?](https://justinhj.github.io/2020/08/02/whats-ap-with-zio-prelude.html)
       * [Zymposium - Prelude Redux (Type-classes without Type-classes) - YouTube](https://www.youtube.com/watch?v=97Yc0Ub9aZ8)
       * [Ep 13: Another angle on monad transformers with Zio Prelude - YouTube](https://www.youtube.com/watch?v=tEnZZlOn-jI)
@@ -944,6 +991,8 @@ Scala
       * [Keep alive for JMS connections | Blended - ZIO](http://blended-scala.org/posts/2020-11-05-jmskeepalive/)
       * [Exploring ZIO - Part I - SmartJava](https://www.smartjava.org/content/exploring-zio-part-1/)
       * [Exploring ZIO - Part II - ZStream and modules - SmartJava](https://www.smartjava.org/content/exploring-zio-part-2/)
+    * [ZIO Telemetry · ZIO-powered OpenTelemetry library](https://zio.github.io/zio-telemetry/)
+      * [Trace your microservices with ZIO | by Marek Kadek | Sep, 2021 | Medium](https://kadek-marek.medium.com/trace-your-microservices-with-zio-telemetry-5f88d69cb26b) zio-http
     * ZIO test
       * [Get started with ZIO Test](https://medium.com/@wiemzin/get-started-with-zio-test-7a27da355498)
       * [Effective testing with ZIO Test](https://scala.monster/zio-test/)
@@ -999,10 +1048,12 @@ Scala
     * [java - Comparing two dates using Joda time - Stack Overflow](https://stackoverflow.com/questions/13764106/comparing-two-dates-using-joda-time/21553438)
     * [Using JodaTime to compare time without date - Stack Overflow](https://stackoverflow.com/questions/37033221/using-jodatime-to-compare-time-without-date)
   * [practice - jodatime Interval.overlap 시간이 겹치는지 여부](https://github.com/hyunjun/practice_private/blob/master/project-scala-restful-api-with-mysql-mvl-assignment/app/utils/DateUtil.scala#L91-L107)
+  * [Improving DateTimeFormatter.parseBest using Scala 3](https://johanwalters9.wixsite.com/blog/post/improving-datetimeformatter-parsebest-using-scala-3)
 * trait
   * [Everything You Ever Wanted to Know About Sealed Traits in Scala](http://underscore.io/blog/posts/2015/06/02/everything-about-sealed.html)
   * [practice - sealed trait - sealed class/companion object - final case class](https://gist.github.com/hyunjun/95db19477284625f359a5e250eabb471#file-sealed-md)
   * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=NFA6mIb7toU) sbt-errors-summary, ADT 사용을 위한 sealed trait, sealed trait 문제점 및 해결, scala3 enum
+  * [Trait parameters in #Scala3 - a feature no one asked for? - YouTube](https://www.youtube.com/watch?v=X5pEmy-qquY)
   * [Scala - Java 의 interface 의 가려운 부분을 긁어주는 trait](https://starblood.tistory.com/entry/Scala-Java-%EC%9D%98-interface-%EC%9D%98-%EA%B0%80%EB%A0%A4%EC%9A%B4-%EB%B6%80%EB%B6%84%EC%9D%84-%EA%B8%81%EC%96%B4%EC%A3%BC%EB%8A%94-trait)
   * Back2Basics: The Story of Trait
     * [Part 1](https://blog.knoldus.com/back2basics-the-story-of-trait-part-1/)
@@ -1050,7 +1101,9 @@ Scala
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
 * [Modern Systems Programming with Scala Native Write Lean, High-Performance Code without the JVM](https://pragprog.com/book/rwscala/modern-systems-programming-with-scala-native)
 * [Pure functional HTTP APIs in Scala](https://leanpub.com/pfhais/read)
-* Programming in Scala [Code Examples for Programming in Scala, Third Edition](https://booksites.artima.com/programming_in_scala_3ed/examples/index.html)
+* [Programming in Scala, Fifth Edition](https://www.artima.com/shop/programming_in_scala_5ed)
+  * [Code Examples for Programming in Scala, Third Edition](https://booksites.artima.com/programming_in_scala_3ed/examples/index.html)
+  * ["Programming in #Scala" Review - YouTube](https://www.youtube.com/watch?v=w6uyqLKKEZY)
 * [Programming Scala, Third Edition. New language version, new edition | by Dean Wampler | Oct, 2020 | Medium](https://medium.com/@deanwampler/programming-scala-third-edition-7ee98fc403bd)
 * [Scala Book: Free PDF, Mobi, and ePub versions](https://alvinalexander.com/scala/scala-book-free/)
 * [Scala from Scratch: Exploration by Daniel Westheide](https://leanpub.com/scala-from-scratch-exploration)
@@ -1102,11 +1155,18 @@ Scala
 # Debugging
 * [Debugging and Observing Your Scala Code · Terse Systems](https://tersesystems.com/blog/2021/06/06/debugging-and-observing-your-scala-code/)
 
-# IntelliJ
+# IDE
+
+## IDE IntelliJ
 * [INTELLIJ SCALA PLUGIN BLOG](https://blog.jetbrains.com/scala/)
 * [Scala로 만들어본 이름점](https://jsideas.net/name_chemistry/)
   * [이름점 - Scala Code 수정](https://jsideas.net/name_chemistry_refactoring/)
 * [Integrating Developer Experiences — The Build Server Protocol in the IntelliJ Scala plugin](https://blog.jetbrains.com/scala/2019/08/08/integrating-developer-experiences-the-build-server-protocol-in-the-intellij-scala-plugin/)
+* [Using BSP effectively in IntelliJ and Scala | In Absentia](https://hmemcpy.com/2021/09/bsp-and-intellij/) BSP = Build Server Protocol
+* [IntelliJ Scala Plugin 2021.2 Is Out! | The Scala Plugin Blog](https://blog.jetbrains.com/scala/2021/07/27/intellij-scala-plugin-2021-2/)
+
+## IDE VS Code
+* [Migrating from IntelliJ IDEA to VSCode and Metals – Staying Productive at Writing Scala | Iterators](https://www.iteratorshq.com/blog/migrating-from-intellij-idea-to-vscode-and-metals-staying-productive-at-writing-scala/)
 
 # Library
 * [The Top 100 Scala Libraries in 2015 – Based on 64,562 GitHub Libraries](http://blog.takipi.com/the-top-100-scala-libraries-in-2015-based-on-64562-github-libraries/)
@@ -1119,6 +1179,7 @@ Scala
 * [Use Scala Macros and Quasiquotes to Reduce Boilerplate | Toptal](https://www.toptal.com/scala/macros-quasiquotes-reduce-boilerplate)
 * [A FUNCTIONAL ECOSYSTEM](http://vectos.net/posts/2019-06-10-a-functional-ecosystem.html)
 * [Exploring Scala Tooling ecosystem – Jeferson David Ossa](https://www.youtube.com/watch?v=TBfvbrAXaWA) 다양한 tool 소개
+* [tooling-talks: A monthly series of talks about tooling](https://github.com/ckipp01/tooling-talks)
 * [Top 15 Scala Libraries for Data Science in 2018](https://www.datasciencecentral.com/profiles/blogs/top-15-scala-libraries-for-data-science-in-2018-1)
 * [**TOP 10 SCALA LIBRARIES FOR DATA SCIENCE**](https://analyticsindiamag.com/top-10-scala-libraries-for-data-science/)
 * [Scala tooling in 2019](https://geirsson.com/2019.html)
@@ -1188,7 +1249,6 @@ Scala
   * [scala with cats 책 읽으면서 필기(하다보니 번역급) Chapter 5 (Monad Transformers)](https://wingnim.tistory.com/115)
   * [scala with cats 책 읽으면서 필기 Chapter 6 (Semigroupal and Applicative)](https://wingnim.tistory.com/116)
   * [scala with cats 책 읽으면서 필기 Chapter 7 (Foldable and Traverse)](https://wingnim.tistory.com/117)
-  * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
   * [Idiomatic Error Handling in Scala - Rock the JVM Blog](https://blog.rockthejvm.com/idiomatic-error-handling-in-scala/) Either, Try, Validated
     * [Idiomatic Error Handling in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=P1KwLUDO4jI)
   * [Addendum to Alex N's blog post on Scala warnings](https://www.inner-product.com/posts/nowarn-addendum/)
@@ -1235,6 +1295,10 @@ Scala
     * [Programs as Values, Part III: Explicit Control Flow](http://systemfw.org/posts/programs-as-values-III.html) cats.effetcs.IO
     * [herding cats — Effect system](https://eed3si9n.com/herding-cats/effect-system.html)
     * [Supervisor | Background processing in functional Scala #3 - YouTube](https://www.youtube.com/watch?v=-zr1cCWf4iI)
+    * [The Cats Effect 3 Course for Scala Developers | Rock the JVM](https://rockthejvm.com/p/cats-effect)
+  * Cats MTL
+    * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
+    * [Ep 14: Monad transformers using the Cats MTL library - YouTube](https://www.youtube.com/watch?v=aT6PNjqQLs8)
   * [Cats Parse](https://slides.com/lewisjkl/cats-parse)
     * [SF Scala: Introduction to Cats Parse By Jeff Lewis - YouTube](https://www.youtube.com/watch?v=wreCg30pyts)
     * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=cIsITBqUVlI) refined type, cats.parse
@@ -1271,6 +1335,7 @@ Scala
 * [Finagle - A fault tolerant, protocol-agnostic RPC system](https://github.com/twitter/finagle)
   * [스프링캠프 2016 B-4 : SCALA와 FINAGLE을 사용한 MICRO SERVICE ARCHITECTURE 구현하기](https://www.youtube.com/watch?v=Fjm9k32ADO4)
   * [Netty at Twitter with Finagle](https://www.youtube.com/watch?v=HJP_108i0ik)
+  * [Building Twitter's backend RPC services with Finagle by Dorothy Ordogh - YouTube](https://www.youtube.com/watch?v=xXNZsD0B08k)
 * [flip - Fast and lightweight probability tools for a dataset and a data stream](https://github.com/xxxnell/flip)
   * [Fast and Simple Statistics with Scala](https://www.slideshare.net/Nell4/fast-and-simple-statistics-with-scala)
 * [Flog: a functional logger for Scala | by Robin Hillyard | May, 2021 | Medium](https://scala-prof.medium.com/flog-a-functional-logger-for-scala-986d4039562f)
@@ -1285,6 +1350,7 @@ Scala
   * [Basic streams and combinators in fs2 - Scala tutorial](https://www.youtube.com/watch?v=TmhIabcu6Fs)
   * [Finite-State Machines + FS2 streams: A match made in heaven • gvolpe's blog](https://gvolpe.com/blog/fsm-fs2-a-match-made-in-heaven/)
   * [FS2 Kafka · Functional Kafka Streams for Scala](https://fd4s.github.io/fs2-kafka/)
+  * [kebab-case: No leftovers: Working with pulls in fs2- overview](https://blog.kebab-ca.se/chapters/fs2/overview.html)
 * [Fugue: Unifying Spark and Non-Spark Ecosystems for Big Data Analytics - YouTube](https://www.youtube.com/watch?v=BBd4b2pMk0c)
 * [Funnel - a distributed monitoring system based on a lightweight streaming protocol](https://verizon.github.io/funnel/)
 * [graphql4s - Another GraphQL interpreter for Scala based on specification graphql/draft](https://github.com/joacovela16/graphql4s)
@@ -1308,12 +1374,17 @@ Scala
   * [A Metals Retrospective (Part 1) · Metals](https://scalameta.org/metals/blog/2021/02/02/metals-retro-part1.html)
   * [SF Scala: A Metals Retrospective By Chris Kipp - YouTube](https://www.youtube.com/watch?v=DRKx1a19c80)
   * [What I learned from using #Scala #Metals for 2 years! - YouTube](https://www.youtube.com/watch?v=EGATBuojGA4)
+  * [#Scala #Metals with Multiple Roots in a Workspace - YouTube](https://www.youtube.com/watch?v=alNInbRuQ_Y)
 * [Metascala - A JVM written in Scala](https://github.com/lihaoyi/Metascala)
 * MinIO [MinIO object storage scala client](https://medium.com/rahasak/minio-object-storage-scala-client-48c8535b9dd2)
 * [modux: Lightweight microservice server for Scala](https://github.com/modux4s/modux)
 * [Mu provides the ability to combine RPC protocols, services, and clients in your Scala program](https://higherkindness.io/mu-scala/) gRPC
   * [Mu-Scala 0.22: Distributed tracing](https://www.47deg.com/blog/mu-scala-0-22/)
 * [nscala-time - A new Scala wrapper for Joda Time. This project forked from scala-time since it seems that scala-time is no longer maintained](https://github.com/nscala-time/nscala-time)
+* [Number: This project is about numbers and their mathematics](https://github.com/rchillyard/Number)
+  * [Precision numeric computation with Scala | CodeX](https://medium.com/codex/number-part-1-c98313903714)
+  * [Number (part 2). Following on from my previous article… | by Robin Hillyard | Aug, 2021 | Medium](https://scala-prof.medium.com/number-part-2-7925400624d5)
+  * [Fuzzy, lazy, functional numeric computing in Scala | by Robin Hillyard | CodeX | Aug, 2021 | Medium](https://medium.com/codex/fuzzy-lazy-functional-numeric-computing-in-scala-4b47588d310f)
 * OpenRTB [Open-sourcing the first OpenRTB Scala framework](https://powerspace.tech/open-sourcing-the-first-openrtb-scala-framework-686dde0a0d40)
 * [orchestrator4s: Simple library to orchestrate yours applications easily](https://github.com/joacovela16/orchestrator4s)
 * [Otoroshi - a layer of lightweight api management on top of a modern http reverse proxy written in Scala](https://github.com/MAIF/otoroshi)
@@ -1338,6 +1409,7 @@ Scala
 * [scala audio file - Minimal Scala library to process audio files](https://github.com/mziccard/scala-audio-file)
   * [Beat Detection Algorithms (Part 1)](http://mziccard.me/2015/05/28/beats-detection-algorithms-1/)
   * [Beat Detection Algorithms (Part 2)](http://mziccard.me/2015/06/12/beats-detection-algorithms-2/)
+* [ScalaCache: A Caching Library To Rule Them All | Baeldung on Scala](https://www.baeldung.com/scala/scalacache)
 * [SCALA CLIPPY, HELPING YOU UNDERSTAND WHAT THE COMPILER ERRORS ACTUALLY MEAN](https://softwaremill.com/scala-clippy-helping-understand-compiler-errors/)
   * [#Scala #Clippy - Crash Course](https://www.youtube.com/watch?v=KUGaCdlBFkE)
 * [Scalafix - Refactoring and linting tool for Scala](https://scalacenter.github.io/scalafix/)
@@ -1363,6 +1435,7 @@ Scala
   * [Welcome to Scala Native](https://scala-native.readthedocs.io/)
   * [스칼라 네이티브 사용자 가이드. 스칼라는 함수형 프로그래밍 언어이면서 동시에 객체지향적인 특징을 함께… | by Out of Bedlam | Medium](https://medium.com/@OutOfBedlam/scala-native-dc93d810a23f)
   * [Revisiting Scala Native performance | by Wojciech Mazur | VirtusLab | Apr, 2021 | Medium](https://medium.com/virtuslab/revisiting-scala-native-performance-67029089f241)
+  * [An introduction to Scala Native | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=u2CnE-sRdBw)
 * [scala-parser-combinators](https://github.com/scala/scala-parser-combinators)
   * [The Magic Behind Parser Combinators](http://www.codecommit.com/blog/scala/the-magic-behind-parser-combinators)
   * [csv4s - csv parser library and executable jar for scala](https://github.com/sccu/csv4s)
@@ -1396,6 +1469,7 @@ Scala
   * [The Shape(less) of Type Class Derivation in Scala 3](https://portal.klewel.com/watch/webcast/scala-days-2019/talk/20/)
   * [How (not) to use shapeless for cross-layer conversions in Scala](https://blog.softwaremill.com/how-not-to-use-shapeless-for-cross-layer-conversions-in-scala-9ac36363aed9)
   * [Seriously Good Software Ch 3 Exercise 3 (with cats and shapeless)](https://gist.github.com/sungkmi/0d2cb8686d7f6170eec0a216eb776301) state monad version
+  * [Mike Limansky - From Scala 2 shapeless to Scala 3](http://limansky.me/posts/2021-07-26-from-scala-2-shapeless-to-scala-3.html)
 * Slinky [Slinky 0.6.0: The One With Hooks](https://medium.com/@shadaj/slinky-0-6-0-the-one-with-hooks-c7f36d78f103)
 * [specs2 - software specification for scala](http://etorreborre.github.io/specs2/)
   * [Becoming reasonable](https://medium.com/@etorreborre_99063/becoming-reasonable-361d7f674ee0)
@@ -1417,6 +1491,7 @@ Scala
 * [Toggle4s - Feature toggle managing service with etcd backend](https://medium.com/@itseranga/toggl4s-feature-toggle-service-with-etcd-backend-77e146e0fc32)
 * [Torque is now Scala - Fast, simple and secure](https://stellite.cash/)
 * [Wayeb: Wayeb is a Complex Event Processing and Forecasting (CEP/F) engine written in Scala](https://github.com/ElAlev/Wayeb)
+* [whatsub: A tool for subtitles - conversion and resync](https://github.com/Kevin-Lee/whatsub)
 * [wire-signals: A small and effective event-handling library for Scala](https://github.com/wireapp/wire-signals) reactive
   * [Wire Signals - Yet Another Event Streams Library - YouTube](https://www.youtube.com/watch?v=IgKjd_fhM0M)
   * [Wire Signals: Yet Another Event Streams Library by Maciek Gorywoda - YouTube](https://www.youtube.com/watch?v=tSj3ZEEsKyk)
@@ -1437,6 +1512,7 @@ Scala
 ## Library DB Database
 * [Comparing Scala relational database access libraries](https://softwaremill.com/comparing-scala-relational-database-access-libraries/)
 * [An intro to writing native DB driver in Scala | by Marek Kadek | Apr, 2021 | Medium](https://kadek-marek.medium.com/a-guide-to-writing-native-db-driver-in-scala-7f5cb1cf20a0)
+* [Using oracles to test the service and data layer](https://vectos.net/posts/2021-08-09-oracle-testing/)
 * [quill - Free/Libre Compile-time Language Integrated Queries for Scala](https://getquill.io/)
   * [Cassandra scala client with Quill](https://medium.com/rahasak/cassandra-scala-client-with-quill-eaaa45c51fbf?)
   * [Working with Databases using Scala and Quill](http://www.lihaoyi.com/post/WorkingwithDatabasesusingScalaandQuill.html)
@@ -1675,6 +1751,9 @@ Scala
 * [Ep 12: ReaderT is good for the environment - YouTube](https://www.youtube.com/watch?v=t7rfvpd9mD0)
   * [evalexample/Video12.scala at video12 · justinhj/evalexample](https://github.com/justinhj/evalexample/blob/video12/src/main/scala/livevideos/Video12.scala)
 * [2021 06 27 automatic-coloring-for-effects.md at master · rssh/notes](https://github.com/rssh/notes/blob/master/2021_06_27_automatic-coloring-for-effects.md)
+* [Programming with Functions #8: Monads - YouTube](https://www.youtube.com/watch?v=KZCoBTRBRMs)
+* [Programming with Functions #9: Try, for-comprehensions, and monadic laws - YouTube](https://www.youtube.com/watch?v=iq8sTiYc5qM)
+* [Another Approach to Monads in Scala: A Way to Generalize Chained Computations - YouTube](https://www.youtube.com/watch?v=a0C-RrncrYA)
 
 ## Monad Tagless Final
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
@@ -1731,6 +1810,8 @@ Scala
 
 # SBT
 * [SBT](http://www.scala-sbt.org/)
+* [#sbt Tutorial - Part 1 - YouTube](https://www.youtube.com/watch?v=FS015lfyiMg)
+* [#sbt Tutorial - Part 2 - YouTube](https://www.youtube.com/watch?v=7AmTdqSTiOs)
 * [classpaths](http://www.scala-sbt.org/1.x/docs/Howto/classpaths.html)
 * [Customizing paths](http://www.scala-sbt.org/1.x/docs/Howto-Customizing-Paths.html)
 * [Library dependencies](https://www.scala-sbt.org/1.x/docs/Library-Dependencies.html)
@@ -1766,8 +1847,8 @@ Scala
 * [cached compilation for sbt](http://eed3si9n.com/cached-compilation-for-sbt)
 * [Mirco Dotta—Crack Open Sbt and Master your Build Times - YouTube](https://www.youtube.com/watch?v=Mx_gQz8MTrI)
 * [현프 3-2 스칼라 패키지 관리자 sbt 고찰 : 클리앙](https://www.clien.net/service/board/cm_app/13709851)
-* [Should you learn #Scala2 or #Scala3 in 2021? - YouTube](https://www.youtube.com/watch?v=GzVu5UiUFEk)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=eb7eaOMlwGs) scala.jfro.io scala3
+* [sudori part 2 | eed3si9n](https://eed3si9n.com/sudori-part2)
 * [maven2sbt | maven2sbt](https://maven2sbt.kevinly.dev)
   * [#1 게릴라 방송 (2017-04-03)](https://www.youtube.com/watch?v=oaQ71Fm3q0U)
   * [#2 게릴라 방송 (2017-04-04)](https://www.youtube.com/watch?v=QjAOmX4Sj_4)
@@ -1812,6 +1893,7 @@ Scala
 * [A quiet, attractive new programming language (Scala 3)](https://alvinalexander.com/scala/scala-3-dotty-0.19-attractive-programming-language)
 * [A Beginner's Guide to Scala 3.0 - Knoldus Blogs](https://blog.knoldus.com/a-beginner-guide-to-scala-3-0/)
 * [Scala 3 Hello, world!](https://softwaremill.com/scala-3-relase/)
+* [Scala 3: What’s Changed Since Scala 3.0.0 | by Dean Wampler | Scala 3 | Sep, 2021 | Medium](https://medium.com/scala-3/scala-3-whats-changed-since-scala-3-0-0-be0830c059f5)
 * [Learn myself some Scala 3, episode 1: metaprogramming – inline](https://heikoseeberger.rocks/2019/06/19/2019-06-19-dotty-1/)
 * [Learn myself some Scala 3, episode 2: extension methods](https://heikoseeberger.rocks/2019/12/04/2019-12-04-dotty-2/)
 * [Learn myself some Scala 3, episode 3: type classes](https://heikoseeberger.rocks/2019/12/10/2019-12-10-dotty-3/)
@@ -1847,6 +1929,8 @@ Scala
 * [What’s New in Scala 3?. A new compiler, creator applications… | by Akash Srivastava | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/whats-new-in-scala-3-586d69879253)
 * [Quill, Dotty, And The Awesome Power of 'Inline' by Alexander Ioffe - YouTube](https://www.youtube.com/watch?v=SmBpGkIsJIU)
 * [Scala 3: A Look at “inline” (and “Programming Scala” is Now Published!) | by Dean Wampler | Scala 3 | Jun, 2021 | Medium](https://medium.com/scala-3/scala-3-a-look-at-inline-and-programming-scala-is-now-published-9690ca43c23a)
+* [Metaprogramming in Scala 3: Inline | Let's talk about Scala 3 - YouTube](https://www.youtube.com/watch?v=J3VRzMvqWeo)
+* [The inline Modifier in Scala 3 | Baeldung on Scala](https://www.baeldung.com/scala/inline-modifier)
 * [Ep 1: Scala 3 Enums, Implicits, and Context Functions - YouTube](https://www.youtube.com/watch?v=J01u_Dmrx5U)
 * [Ep 2: Type classes with Scala 2 - YouTube](https://www.youtube.com/watch?v=pJFfXhZlR5o)
 * [Ep 3: Evaluating our Numeric Type class - YouTube](https://www.youtube.com/watch?v=56Xj-5kCEm0)
@@ -1907,6 +1991,13 @@ Scala
 * [Scala 3: Anti-Givens - YouTube](https://www.youtube.com/watch?v=HQojyuZK-Uo)
 * [Scala 3: Anti-Givens - Rock the JVM Blog](https://blog.rockthejvm.com/anti-givens/)
 * [Scala 3 Tech Report by SoftwareMill](https://softwaremill.com/scala-3-tech-report/)
+* [#LETSMEETUP - Will Scala 3 be your new favorite language? - YouTube](https://www.youtube.com/watch?v=DwmQgtvf7F0)
+* [Should you learn #Scala2 or #Scala3 in 2021? - YouTube](https://www.youtube.com/watch?v=GzVu5UiUFEk)
+* [Scala project from scratch #1 - rough idea, setting up, design decisions - YouTube](https://www.youtube.com/watch?v=EIE-6gx_qi0)
+* [Scala project from scratch #2 - http4s, tapir, long fixes for simple issues - YouTube](https://www.youtube.com/watch?v=f4N8Xu2BVkA)
+* [Scala project from scratch #3 - compiling the client with GraalVM Native Image - YouTube](https://www.youtube.com/watch?v=e2Q3zU1lRkY)
+* [Testing client/server compatibility + error handling - SPFS #4 - YouTube](https://www.youtube.com/watch?v=mVU6rNmJNG0)
+* [Scala 3: What’s Changed Since Scala 3.0.0 | by Dean Wampler | Scala 3 | Sep, 2021 | Medium](https://medium.com/scala-3/scala-3-whats-changed-since-scala-3-0-0-be0830c059f5)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
@@ -2076,6 +2167,10 @@ Scala
 * [Rock the JVM | Type-Level Programming in Scala, Part 1](https://rockthejvm.com/blog/215780/type-level-programming-1)
 * [Rock the JVM | Type-Level Programming in Scala, Part 2](https://rockthejvm.com/blog/216390/type-level-programming-2)
 * [Rock the JVM | Type-Level Programming in Scala, Part 3](https://rockthejvm.com/blog/216771/type-level-programming-3)
+* [Type-Level Programming in Scala 3, Part 1: Comparing Types - Rock the JVM Blog](https://blog.rockthejvm.com/type-level-programming-scala-3/)
+  * [Type-Level Programming in Scala 3: How to Prove Type Relationships at Compile Time - YouTube](https://www.youtube.com/watch?v=zxft2cVuXmw)
+* [Type-Level Programming in Scala 3, Part 2: A Quicksort on Types - Rock the JVM Blog](https://blog.rockthejvm.com/type-level-quicksort/)
+  * [Type-Level Programming in Scala, Part 2: A Type-Level Quicksort - YouTube](https://www.youtube.com/watch?v=TUukgQbVa9M)
 * [Validating SQL at the Type Level—Tamer AbdulRadi](https://www.youtube.com/watch?v=dbqRqhHpggs)
 * [Structural Types: Less Magical, More Powerful](https://medium.com/@jducoeur/structural-types-less-magical-more-powerful-53d0a1a26599)
 * [Union Types and Intersection Types](https://medium.com/@Methrat0n/union-types-and-intersection-types-50c41c9b61d6)
@@ -2090,6 +2185,7 @@ Scala
 * [From @Transactional to type-safe, reasonable transactions](https://blog.softwaremill.com/from-transactional-to-type-safe-reasonable-transactions-a5019906245e)
 * [Illustrated guide to Types, Sets and Values](https://medium.com/@1jpablo1/illustrated-guide-to-types-sets-and-values-8093d0b7d648)
 * [Understanding `F[_]` in Scala](https://medium.com/bigpanda-engineering/understanding-f-in-scala-4bec5996761f)
+* [What is `F[_]` in Scala? | 47 Degrees](https://www.47deg.com/blog/what-is-F-with-hole-in-scala/)
 * [Exploring Type Annotations in Scala](https://www.geekabyte.io/2017/12/exploration-of-type-annotations-in-scala.html)
 * [Part 1: Application of literal and dependent object types in Scala 2.13](https://medium.com/@yevgennerush/part-1-application-of-literal-and-dependent-object-types-in-scala-2-13-62dbe4493dce)
 * [Typeclasses](https://francistoth.github.io/2020/04/09/typeclasses.html)
@@ -2126,6 +2222,7 @@ Scala
     }
   }
   ```
+* [Scala 3: Generic type parameters and variance explained | alvinalexander.com](https://alvinalexander.com/scala/scala-3-variance-explained-generic-type-parameters/)
 * [Avoiding Unnecessary Object Instantiation with Specialized Generics - Scala](https://scalac.io/specialized-generics-object-instantiation/)
 * [Implementing typeclasses in Scala I](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-i/) implicit, ad hoc polymorphism
 * [Implementing typeclasses in Scala II](https://hopefullynotwrong.wordpress.com/2020/01/19/implementing-type-classes-in-scala-ii/)
@@ -2139,6 +2236,7 @@ Scala
 * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=AaAHyHcLBWs&t=7920s) opaque type
 * [Type classes with Scala 2](https://justinhj.github.io/2020/12/06/type-classes-scala-2.html)
 * [Self-Types in Scala - the Why and the How | Rock the JVM - YouTube](https://www.youtube.com/watch?v=ZnpB4B1fMSI)
+* [Zymposium — Path Dependent Types - YouTube](https://www.youtube.com/watch?v=w2rcHCqdn-o)
 * HasId pattern
   * [HasId.scala](https://gist.github.com/knutwalker/788acb4c7ae9782fdf67)
   * [Scala Best Practices - Type class](https://nrinaudo.github.io/scala-best-practices/definitions/type_class.html)
@@ -2262,3 +2360,8 @@ Scala
 * [Scala :: ./side_effects.sh](http://zafirov.me/posts/scala/)
 * [#Scala Crash Course by a Scala veteran (with some JavaScript flavor) - YouTube](https://www.youtube.com/watch?v=-xRfJcwhy7A)
 * [Scala-Resources/README.md at main · fullStackRyan/Scala-Resources](https://github.com/fullStackRyan/Scala-Resources/blob/main/README.md)
+* [Learning Scala with #Intellij Scala Plugin 2021(#Scala #REPL #ScratchPad ) - YouTube](https://www.youtube.com/watch?v=61Nnh7R-Abk)
+* [scala-3-beginners: The official repository for the Scala 3 & Functional Programming Essentials course](https://github.com/rockthejvm/scala-3-beginners)
+* [scala-3-advanced: The official repository for the Rock the JVM Advanced Scala course](https://github.com/rockthejvm/scala-3-advanced)
+  * [Advanced Scala 3 and Functional Programming Course Overview - YouTube](https://www.youtube.com/watch?v=ohb1MfqYz6I)
+* [Scala isn't Hard: How to Master Scala Step by Step - Developer’s kit](https://scalac.io/blog/scala-isnt-hard-how-to-master-scala-step-by-step/)

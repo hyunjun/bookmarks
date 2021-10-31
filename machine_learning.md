@@ -1,17 +1,14 @@
 Machine Learning
 ================
 * [Awesome production machine learning](https://github.com/EthicalML/awesome-production-machine-learning)
-  * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
-  * [SCALABLE MACHINE LEARNING - THE STATE OF DATAOPS / MLOPS IN 2018](https://axsauze.github.io/scalable-data-science)
-  * [머신러닝 오퍼레이션 자동화, MLOps](https://zzsza.github.io/mlops/2018/12/28/mlops/)
-  * [MLOps NYC](https://www.mlopsnyc.com)
-    * [MLOps Tooling](https://toddmorrill.github.io/blog/2019/10/05/MLOps-tooling)
 * [Awesome-Mobile-Machine-Learning](https://github.com/fritzlabs/Awesome-Mobile-Machine-Learning)
 * [Awesome Quantum Machine Learning](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning)
 * [VSBE2020: OAQA 양자 머신러닝 알고리즘의 기반 - Hyun Byung Park (박현병), 양자오리 at KAITA - YouTube](https://www.youtube.com/watch?v=ZZcyzVxYxqQ)
 * [Awesome-Mobility-Machine-Learning-Contents](https://github.com/zzsza/Awesome-Mobility-Machine-Learning-Contents)
 * [applied-ml: 📚 Papers & tech blogs by companies sharing their work on data science & machine learning in production](https://github.com/eugeneyan/applied-ml)
 * [Machine Learning Roadmap 2020](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva) mindmap
+* [ml-roadmap](https://github.com/merveenoyan/ml-roadmap)
+* [ml-engineer-roadmap: WIP: Roadmap to becoming a machine learning engineer in 2020](https://github.com/chris-chris/ml-engineer-roadmap)
 * [Essential Guide to keep up with AI/ML/CV](https://github.com/BAILOOL/DoYouEvenLearn)
 * [머신러닝](https://www.youtube.com/playlist?list=PLVNY1HnUlO241gILgQloWAs0xrrkqQfKe)
 * [reddit.com/r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
@@ -22,6 +19,7 @@ Machine Learning
 * [머신러닝 공부 순서, 방법 및 강의 정리](http://gomcine.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EA%B3%B5%EB%B6%80-%EC%88%9C%EC%84%9C-%EB%B0%8F-%EB%B0%A9%EB%B2%95-%EA%B0%95%EC%9D%98-%EC%A0%95%EB%A6%AC)
 * [딥러닝 공부 가이드 (HW / SW 준비편)](http://t-robotics.blogspot.kr/2015/06/hw-sw.html)
 * [How to Get Hired as a Machine Learning Engineer](https://www.infoq.com/articles/get-hired-machine-learning-engineer/)
+* [AI, ML and Data Engineering InfoQ Trends Report - August 2021](https://www.infoq.com/articles/ai-ml-data-engineering-trends-2021/)
 * Machine Learning is Fun!
   * [The world’s easiest introduction to Machine Learning](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
   * [Part 2 Using Machine Learning to generate Super Mario Maker levels](https://medium.com/@ageitgey/machine-learning-is-fun-part-2-a26a10b68df3)
@@ -43,6 +41,7 @@ Machine Learning
 * [머신러닝의 소개 (ML Zero to Hero 1부)](https://www.youtube.com/watch?v=p_RdUAOaKgM)
 * [Introduction to Machine Learning](https://newsinitiative.withgoogle.com/training/course/introduction-to-machine-learning)
 * [Visual Intro to Machine Learning and Deep Learning](https://www.infoq.com/presentations/ml-dl-visual-intro/)
+* ['Machine Learning' 카테고리의 글 목록](https://shawnbaek.tistory.com/category/Machine%20Learning)
 * [An annotated path to start with Machine Learning](https://www.bonaccorso.eu/2017/09/09/an-annotated-path-to-start-with-machine-learning/)
 * [How to get started with Machine Learning in about 10 minutes](https://medium.freecodecamp.org/how-to-get-started-with-machine-learning-in-less-than-10-minutes-b5ea68462d23)
 * [통계 & 기계학습 기본 개념](http://soeque1.github.io/r_slide/ML.html)
@@ -191,8 +190,7 @@ Machine Learning
 * [Deep Learning vs Probabilistic Graphical Models vs Logic](http://quantombone.blogspot.kr/2015/04/deep-learning-vs-probabilistic.html)
 * [Probabilistic machine learning and artificial intelligence](http://www.nature.com/nature/journal/v521/n7553/full/nature14541.html)
 * [Introduction To Probabilistic Modeling and Machine Learning](https://www.youtube.com/playlist?list=PLAbhVprf4VPlqc8IoCi7Qk0YQ5cPQz9fn)
-* [Probabilistic Machine Learning: An Introduction](https://probml.github.io/pml-book/book1.html)
-* [Probabilistic Machine Learning: Advanced Topics](https://probml.github.io/pml-book/book2.html)
+* [pml-book | “Probabilistic Machine Learning” - a book series by Kevin Murphy](https://probml.github.io/pml-book/)
 * [머신러닝(Machine Learning)과 확률(Probability)](https://devkihyun.github.io/study/Machine-learining-and-Probability)
 * [github.com/nyu-dl/Intro_to_ML_Lecture_Note](https://github.com/nyu-dl/Intro_to_ML_Lecture_Note)
 * [Machine Learning Done Wrong](http://ml.posthaven.com/machine-learning-done-wrong)
@@ -250,6 +248,7 @@ Machine Learning
 * [Machine Learning and Cognitive Computing](http://www.infoq.com/articles/machine-learning-and-cognitive-computing)
 * [Cross-validation for detecting and preventing overfitting](http://www.autonlab.org/tutorials/overfit10.pdf)
 * [18. 모델의 과최적화를 피하는 방법 (overfitting, regularization)](http://daeson.tistory.com/m/184)
+* [L2 Regularization](https://bcho.tistory.com/1386)
 * [Train/Test Split and Cross Validation in Python](https://towardsdatascience.com/train-test-split-and-cross-validation-in-python-80b61beca4b6)
 * [The Secret behind Train and Test Split in Machine Learning Process - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/the-secret-behind-train-and-test-split)
 * [Sergey Feldman: You Should Probably Be Doing Nested Cross-Validation | PyData Miami 2019](https://www.youtube.com/watch?v=DuDtXtKNpZs)
@@ -408,6 +407,7 @@ Machine Learning
 * [FOUNDATIONS OF MACHINE LEARNING](https://bloomberg.github.io/foml)
 * [What is Machine Learning?](https://www.youtube.com/watch?v=f_uwKZIAeM0)
 * [6 Fun Machine Learning Projects for Beginners](https://elitedatascience.com/machine-learning-projects-for-beginners)
+* [11 Machine Learning Project Ideas for Beginners](https://www.makeuseof.com/machine-learning-project-ideas-for-beginners/)
 * [Machine Learning Summarized in One Picture](http://www.datasciencecentral.com/profiles/blogs/machine-learning-summarized-in-one-picture)
 * [THE MATHEMATICS OF MACHINE LEARNING](http://dataconomy.com/2017/02/mathematics-machine-learning/)
 * [Torch DQN 강화학습 소개](http://www.popit.kr/torch-dqn-%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5-%EC%86%8C%EA%B0%9C/)
@@ -529,6 +529,7 @@ Machine Learning
   * [PipelineAI: The Standard Runtime For Every Real-Time Machine Learning and AI Prediction in the Enterprise http://pipeline.ai](https://github.com/PipelineAI/pipeline)
 * [Data Science - Operationalize ML](https://www.linkedin.com/pulse/data-science-operationalize-ml-neeraj-sabharwal/)
 * [Machine Learning Tip : Using Rotational Data](https://towardsdatascience.com/machine-learning-tip-using-rotational-data-b67ded0a33ad)
+* [Google Tips and Tricks 2022 - For Machine Learning, Data Science, And Coding Practitioners](https://www.theinsaneapp.com/2021/07/google-tips-and-tricks.html)
 * [Preparing your data for Machine Learning](https://medium.com/ai%C2%B3-theory-practice-business/preparing-your-data-for-machine-learning-46d22eebfef) marking, filtering, feature extraction
 * [**작정하고 쓰는 머신러닝 강의 비판 (1)**](https://pabii.co/fraud-in-machine-learning-classes/)
 * [**작정하고 쓰는 머신러닝 강의 비판 (2)**](https://pabii.co/fraud-in-machine-learning-classes-2/)
@@ -544,6 +545,10 @@ Machine Learning
 * [피처 엔지니어링 #1  - 피처 크로스](https://bcho.tistory.com/1334)
 * [Automated Feature Engineering for Predictive Modeling](https://towardsdatascience.com/automated-feature-engineering-for-predictive-modeling-d8c9fa4e478b)
 * [Machine Learning의 Feature Store란?](https://zzsza.github.io/mlops/2020/02/02/feature-store/)
+* [Feature Store - why?](https://velog.io/@hsh/Feature-Store-why)
+* [Feature store - 핵심 개념](https://velog.io/@hsh/Feature-store-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90)
+* [Feature store - Basic Architecture](https://velog.io/@hsh/Feature-store-Basic-Architecture)
+* [Feature Crossing](https://bcho.tistory.com/1385)
 * [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
   * 기계학습 모델은 통계적 모델에 비해 예측력은 높으나 설명력이 떨어진다는 비판
   * 이 글은 XGBoost의 예측 결과를 설명하기 위해 기존의 설명 방식과 더불어 새로운 방식도 제안
@@ -554,6 +559,7 @@ Machine Learning
 * [XGBoost 알고리즘의 개념 이해](https://bcho.tistory.com/1354)
 * [Configure XGBoost Models with YAML](https://towardsdatascience.com/configure-xgboost-models-with-yaml-defa99be90ef)
 * [Getting hyped about automated hyperparameter tuning](https://sararobinson.dev/2019/09/12/hyperparameter-tuning-xgboost.html) xgboost
+* [Intro to XGBoost Models (decision-tree-based ensemble ML algorithms) - YouTube](https://www.youtube.com/watch?v=0ikyjpaUDFQ)
 * [Facebook’s Field Guide to Machine Learning video series](https://research.fb.com/the-facebook-field-guide-to-machine-learning-video-series/)
 * [머신러닝 하루 만에 배우려고 하지 마라](https://github.com/youngwoos/etc/blob/master/Don%E2%80%99t%20learn%20Machine%20Learning%20in%2024%20hours.md)
 * [DeepTide - The world's first massive collaboration machine learning platform Collaborate with top AI researchers on the biggest problems](http://deeptide.ai/)
@@ -616,20 +622,15 @@ Machine Learning
   * [13. Policy Gradient (PG)](https://skettee.github.io/post/policy_gradient/)
 * [Naïve Bayes for Machine Learning – From Zero to Hero](https://blog.floydhub.com/naive-bayes-for-machine-learning/)
 * [**Rules of Machine Learning: Best Practices for ML Engineering 정리**](https://zzsza.github.io/data/2019/12/15/rules-of-ml)
-* [**MLOps 1. 실험 관리 AI 혁신 속도는 모델 학습에서 배포까지 걸리는 속도에 비례한다**](https://brunch.co.kr/@chris-song/101)
-* [MLOps: Continuous delivery and automation pipelines in machine learning 번역](https://zzsza.github.io/mlops/2020/05/16/cd-and-automation-pipeline-in-ml/)
-* [Introducing MLOps - 차문수(Superb AI) :: 제33회 AWSKRUG DataScience모임 - YouTube](https://www.youtube.com/watch?v=CjloF7g-5O4)
-* [What is MLOps? Machine Learning Operations Explained](https://www.freecodecamp.org/news/what-is-mlops-machine-learning-operations-explained/)
-* [A Chat with Andrew on MLOps: From Model-centric to Data-centric AI - YouTube](https://www.youtube.com/watch?v=06-AZXmwHjo)
-  * [AI뉴스 AI계의 사대천왕, 앤드류 응 교수님의 주옥같은 인사이트가 우루루~데이터 중심 AI시대 그리고 MLOps의 급부상? 놓치면 안 될 응 교수님의 라이브 강좌 핵심 요약본! - YouTube](https://www.youtube.com/watch?v=20PlFERKCyo)
-  * [더 많은 데이터 중심으로, 덜 적은 모델로!](https://brunch.co.kr/@synabreu/117)
-* [앤드류 응 교수가 말하는 MLOps](https://brunch.co.kr/@synabreu/137)
+* [Rules of Machine Learning:  |  ML Universal Guides  |  Google Developers](https://developers.google.com/machine-learning/guides/rules-of-ml)
+* [The First Rule of Machine Learning: Start without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/)
 * [Simulation vs. Machine Learning](https://vortarus.com/simulation-vs-machine-learning/)
 * [라쏘? 로지스틱? 회의에서 당당하게, 수식없이 기초개념부터](http://triviaz.net/blog:easy_lasso_logistic_regression) lasso logistic
 * [The Illustrated FixMatch for Semi-Supervised Learning](https://amitness.com/2020/03/fixmatch-semi-supervised/)
 * [Why we do machine learning engineering with YAML, not notebooks](https://towardsdatascience.com/why-we-do-machine-learning-engineering-with-yaml-not-notebooks-a2a97f5e04f8)
 * [Pseudo-Labeling to deal with small datasets — What, Why & How?](https://towardsdatascience.com/pseudo-labeling-to-deal-with-small-datasets-what-why-how-fd6f903213af)
 * [Introducing Label Studio, a swiss army knife of data labeling](https://towardsdatascience.com/introducing-label-studio-a-swiss-army-knife-of-data-labeling-140c1be92881)
+* [Hand Labeling Considered Harmful – O’Reilly](https://www.oreilly.com/radar/arguments-against-hand-labeling/)
 * [**machine-learning-experiments: Interactive Machine Learning experiments: models training + models demo**](https://github.com/trekhleb/machine-learning-experiments)
   * [Machine Learning Experiments](https://trekhleb.github.io/machine-learning-experiments/)
 * [Learning Machine Learning | Cloud AI | Google Cloud](https://cloud.google.com/products/ai/ml-comic-1)
@@ -638,6 +639,7 @@ Machine Learning
 * [Building Machine Learning infra](https://morioh.com/p/b0384838c50f)
 * [Principal Component Analysis (PCA) with Python Examples — Tutorial | by Towards AI Team | Towards AI | Nov, 2020 | Medium](https://medium.com/towards-artificial-intelligence/principal-component-analysis-pca-with-python-examples-tutorial-67a917bae9aa)
 * [Principal Component Analysis explained visually](https://setosa.io/ev/principal-component-analysis/) PCA
+* [pca.ipynb - Colaboratory](https://colab.research.google.com/github/metamath1/ml-simple-works/blob/master/pca/pca.ipynb)
 * [조대협의 블로그 :: 머신러닝 파이프라인에서 데이터 전처리 방법](https://bcho.tistory.com/1380) 일반적인 이야기 + GCP 이야기
 * [Introducing Machine Learning for Developers Newsletter (ML4Devs, Issue 1) - Machine Learning for Developers](https://ml4devs.substack.com/p/001-machine-learning-for-developers-newsletter)
 * [Machine Learning vs. Traditional Software Development (ML4Devs, Issue 2) - Machine Learning for Developers](https://ml4devs.substack.com/p/002-machine-learning-vs-traditional-software)
@@ -646,6 +648,8 @@ Machine Learning
 * [200+ Machine Learning Projects Solved and Explained | by Aman Kharwal | Coders Camp | Feb, 2021 | Medium](https://medium.com/coders-camp/200-machine-learning-projects-solved-and-explained-56f1cc1c9ff3)
 * [Cannes: How ML saves us $1.7M a year on document previews - Dropbox](https://dropbox.tech/machine-learning/cannes--how-ml-saves-us--1-7m-a-year-on-document-previews)
 * [머신러닝 모델링의 흔한 실수들 | Pega Devlog](https://jehyunlee.github.io/2021/02/24/Python-DS-62-mistakes/)
+* [머신러닝 모델링의 흔한 실수들 (2) | Pega Devlog](https://jehyunlee.github.io/2021/09/02/Python-DS-83-aifestival2021/)
+* [머신러닝 모델링의 흔한 실수들 60+ 사례 중 데이터 관련 사례](https://jehyunlee.github.io/2021/02/24/Python-DS-62-mistakes/210222_%EC%9D%B4%EC%A0%9C%ED%98%84_mistakes.pdf)
 * [지루하지 않게 코노미 사진 4만장 어노테이션하기 (머신러닝과 함께) | by Doyoung Gwak | 네이버 플레이스 개발 블로그 | Medium](https://medium.com/naver-place-dev/%EC%A7%80%EB%A3%A8%ED%95%98%EC%A7%80-%EC%95%8A%EA%B2%8C-%EC%BD%94%EB%85%B8%EB%AF%B8-%EC%82%AC%EC%A7%84-4%EB%A7%8C%EC%9E%A5-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EA%B3%BC-%ED%95%A8%EA%BB%98-619c60f8a071)
 * [머신러닝 프로젝트를 '레벨 업'시킬 수 있는 8가지 방법 - CIO Korea](https://www.ciokorea.com/news/188798)
 * [**LINE 메신저 앱에 온 디바이스 머신 러닝 적용하기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/on-device-machine-learning-line-app/)
@@ -656,6 +660,14 @@ Machine Learning
 * [Using Machine Learning to Predict Value of Homes On Airbnb | by Robert Chang | Airbnb Engineering & Data Science | Medium](https://medium.com/airbnb-engineering/using-machine-learning-to-predict-value-of-homes-on-airbnb-9272d3d4739d) 에어비엔비에서의 가격 예측
 * [Using Machine Learning to Improve Streaming Quality at Netflix | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/using-machine-learning-to-improve-streaming-quality-at-netflix-9651263ef09f) 넷플릭스에서 스트리밍 퀄리티 실시간 개선
 * [How we grew from 0 to 4 million women on our fashion app, with a vertical machine learning approach | by Gabriel Aldamiz... | HackerNoon.com | Medium](https://medium.com/hackernoon/how-we-grew-from-0-to-4-million-women-on-our-fashion-app-with-a-vertical-machine-learning-approach-f8b7fc0a89d7) 패션 앱에서 소비자 경험 개선
+* [Tuning Model Performance | Uber Engineering Blog](https://eng.uber.com/tuning-model-performance/)
+* [9 Deadly Sins of Dataset Selection in ML | by Sandeep Uttamchandani | Jun, 2021 | Towards Data Science](https://towardsdatascience.com/9-deadly-sins-of-ml-dataset-selection-db7ee757efa0)
+* [Real Estate pricing with Machine Learning & non-traditional data sources | Tryolabs Blog](https://tryolabs.com/blog/2021/06/25/real-estate-pricing-with-machine-learning--non-traditional-data-sources/)
+* [Bootstrapping Labels via `___` Supervision & Human-In-The-Loop](https://eugeneyan.com/writing/bootstrapping-data-labels/) active learning
+* [머신러닝과 정보이론: 작동원리의 이해 – 과학의 지평](https://horizon.kias.re.kr/18474/)
+* [실험없이 이벤트 효과를 추정할 수 있을까? - DIFFERENCE IN DIFFERENCES](https://lumiamitie.github.io/data/difference-in-differences/)
+* [Spotify의 오디오 분석을 사용한 일렉트로닉 댄스 음악의 장르 분류](https://ichi.pro/ko/spotifyui-odio-bunseog-eul-sayonghan-illegteulonig-daenseu-eum-ag-ui-jangleu-bunlyu-126790836673264)
+* [Cracking Random Number Generators using Machine Learning – Part 1: xorshift128 – NCC Group Research](https://research.nccgroup.com/2021/10/15/cracking-random-number-generators-using-machine-learning-part-1-xorshift128/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -715,6 +727,7 @@ Machine Learning
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
   * [mml-book.github.io](https://github.com/mml-book/mml-book.github.io)
 * [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
+* [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html)
 * [A Beginner Mathematics Book For Machine Learning](https://www.techleer.com/articles/564-a-beginner-mathematics-book-for-machine-learning/)
 * [Model-Based Machine Learning](http://mbmlbook.com)
 * [PRML(Pattern Recognition & Machien Learning, Bishop) 정리](http://norman3.github.io/prml/)
@@ -768,13 +781,12 @@ Machine Learning
 * [Smarter Ways to Encode Categorical Data for Machine Learning](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159)
 * [Classification & Clustering 모델 평가](https://bcho.tistory.com/1206)
 * [Python Voting Classifiers 다수결 분류의 정의와 구현](https://nonmeyet.tistory.com/entry/Python-Voting-Classifiers%EB%8B%A4%EC%88%98%EA%B2%B0-%EB%B6%84%EB%A5%98%EC%9D%98-%EC%A0%95%EC%9D%98%EC%99%80-%EA%B5%AC%ED%98%84)
+* [dirty_cat: machine learning on dirty categories — Dirty cat](https://dirty-cat.github.io/stable/)
+  * [Dirty categories: learning with non normalized strings — Dirty data science](http://dirtydata.science/python/gen_notes/02_dirty_categories.html)
 * [Lime: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)
 
 # Clojure
 * [Clojure Machine Learning, Math & Statistical Libraries Collection](http://www.gilboz.com/b/clojure-machine-learning-math-statistical-libraries-collection-cm567/)
-
-# C#
-* [C# 으로 Machine Learning ML.net - 1](http://name267.tistory.com/entry/C-%EC%9C%BC%EB%A1%9C-Machine-Learning-MLnet-1)
 
 # Clustering
 * [Clustering Based Unsupervised Learning](https://towardsdatascience.com/clustering-based-unsupervised-learning-8d705298ae51)
@@ -804,6 +816,77 @@ Machine Learning
 
 # Conference
 * [**O'reilly Strata Data Conference New York 2019 후기**](https://speakerdeck.com/socar/oreilly-strata-data-conference-new-york-2019-hugi)
+
+# Course MOOC Lecture
+* [머신러닝 괜찮은 강의들 리스트 1](https://blog.pabii.co/machine-learning-course-lists-1/)
+* [머신러닝 딥러닝 바로가기](https://www.youtube.com/playlist?list=PLBXuLgInP-5kbfIZJhvNfJscr6KS8Oaq0)
+* [인공지능과 기계학습](http://www.kmooc.kr/courses/course-v1:KAISTk+KCS470+2015_K0201/about)
+* [(인공지능, 기계학습, 머신러닝) KOOC 인공지능및기계학습개론 문일철교수님](https://www.youtube.com/watch?v=t6S7ekXz3aY&list=PLbhbGI_ppZISMV4tAWHlytBqNq1-lb8bz)
+* [하버드, 스탠포드, AI 온라인 강의 쏟아진다](http://1boon.kakao.com/kakao-it/ai_online_lecture)
+* [(기계학습,인공지능,머신러닝) 한국어 기계 학습 강좌 심화 1](https://www.youtube.com/playlist?list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn)
+* [머신러닝(기계학습) 이해하기](https://www.youtube.com/playlist?list=PLaTc2c6yEwmq-3bSiCeaBJhE5Km5TKFhh) scikit-learn
+* [아빠가 들려주는 머신 러닝](https://www.youtube.com/playlist?list=PLQrL7n-YSrfcTyjKpMP-sCKRQV_lSjQqF)
+  * [다양한 머신러닝 방법들](https://blog.naver.com/kjhnav/221359372049)
+* [포브스가 추천하는 AIㆍML 무료 강좌 '베스트 9'](http://www.aitimes.com/news/articleView.html?idxno=126901)
+* [머신러닝1 - 생활코딩](https://opentutorials.org/course/4548)
+* [동영상 강좌 파이썬 데이터과학, 머신러닝∙딥러닝](https://brunch.co.kr/@gauss92tgrd/32)
+* [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
+* [Machine Learning Video Library](https://work.caltech.edu/library/)
+* [A List Of Top 10 Free Machine Learning Online Courses and Tutorials](https://www.techleer.com/articles/453-a-list-of-top-10-free-machine-learning-online-courses-and-tutorials/)
+* [10 Best Online Courses for Machine Learning with Python-Bestseller 2021](https://www.mltut.com/best-online-courses-for-machine-learning-with-python/)
+* [20 Best Online Courses On Machine Learning You Must Know in 2021](https://www.mltut.com/best-online-courses-on-machine-learning-you-must-know/)
+* [60 Best Free Online Courses for Machine Learning & AI in 2021](https://www.mltut.com/best-free-online-courses-for-machine-learning-and-ai)
+* [Machine Learning Summer School 2017 Tübingen](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFUOvoYCdKikfck8YeUCnl9)
+* [Top Python Libraries for Data Science, Data Visualization & Machine Learning - KDnuggets](https://www.kdnuggets.com/2020/11/top-python-libraries-data-science-data-visualization-machine-learning.html)
+* [Andrew Ng / Coursera](https://www.coursera.org/learn/machine-learning)
+  * [Machine Learning Exercises In Python, Part 1](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/) python exercises of Andrew Ng's maching learning class on Coursera
+  * [Python programming assignments for Machine Learning by Prof. Andrew Ng in Coursera](https://github.com/nsoojin/coursera-ml-py)
+  * Python Implementation of Andrew Ng’s Machine Learning Course
+    * [(Part 1)](https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-1-6b8dd1c73d80)
+    * [(Part 2.1)](https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-2-1-1a666f049ad6)
+    * [(Part 2.2)](https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-2-2-dceff1a12a12)
+    * [A Guide to using Logistic Regression for Digit Recognition (with Python codes)](https://medium.com/analytics-vidhya/a-guide-to-using-logistic-regression-for-digit-recognition-with-python-codes-86aae6da10fe)
+    * [Learn how to Build Neural Networks from Scratch in Python for Digit Recognition](https://medium.com/analytics-vidhya/neural-networks-for-digits-recognition-e11d9dff00d5)
+  * [**Machine Learning 정리**](http://soopsaram.com/ml/)
+* [Best Coursera Free Courses Machine Learning for Everyone in 2021](https://www.mltut.com/coursera-free-courses-machine-learning/)
+* [Learning from Data - Yaser S. Abu-MostafaYaser S. Abu-Mostafa Machine Learning course - recorded at a live broadcast from Caltech](http://work.caltech.edu/telecourse.html)
+* [CS7641 at Georgia Tech / Udacity](https://www.udacity.com/course/machine-learning--ud262)
+* [CS156 at Caltech](https://www.youtube.com/playlist?list=PLvx5ei9aEEqKgDZ7oaQGSToFi-QER4v1M)
+* [CS3244 Machine Learning Tutorial Material in python](https://pythonawesome.com/cs3244-machine-learning-tutorial-material-in-python/)
+* [CS 329S | Syllabus](https://stanford-cs329s.github.io/syllabus.html)
+  * [Stanford MLSys Seminars - YouTube](https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ)
+* [sentdex, Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
+* [Deep Learning TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
+* [Demis Hassabis, CEO, DeepMind Technologies - The Theory of Everything](https://www.youtube.com/watch?v=rbsqaJwpu6A)
+* [Accelerating Understanding: Deep Learning, Intelligent Applications, and GPUs](https://www.youtube.com/watch?v=Qk4SqF9FT-M)
+* [Sirajology](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
+* [Two+ Minute papers](https://www.youtube.com/user/keeroyz)
+* [geoffrey hinton](https://www.youtube.com/watch?v=_oDdfROFyK4)
+* [Machine Learning Engineer Nanodegree by google](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009)
+* [Learn Machine learning online – List of machine learning courses available online](http://bafflednerd.com/learn-machine-learning-online/)
+* [PhD level ML Course](https://tensorflowkorea.wordpress.com/2016/09/09/phd-level-ml-course/)
+* [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/)
+* [machinelearningmastery.com/start-here](https://machinelearningmastery.com/start-here/)
+* [What are Some ‘Advanced ‘ AI and Machine Learning Online Courses?](https://towardsdatascience.com/what-are-some-advanced-ai-and-machine-learning-online-courses-8609ab281450)
+* [Top 5 Machine Learning Courses for 2019](https://medium.com/@LearnDataSci/top-5-machine-learning-courses-for-2019-8a259572686e)
+* [**A practical approach to machine learning**](https://practicalai.me/)
+* [10 Free Top Notch Machine Learning Courses](https://www.kdnuggets.com/2019/12/10-free-top-notch-courses-machine-learning.html)
+* [Emil’s Story as a Self-Taught AI Researcher](https://blog.floydhub.com/emils-story-as-a-self-taught-ai-researcher/)
+* [머신러닝/딥러닝 공부 첫걸음 :: 시작은 미약한 프로그래밍](https://yjclarelee.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B3%B5%EB%B6%80-%EC%B2%AB%EA%B1%B8%EC%9D%8C)
+  * [머신러닝 입문 영상 - YouTube](https://www.youtube.com/watch?v=9YKDtzhmFk8)
+  * [The Simplest Introduction to Basic Machine Learning](https://docs.google.com/presentation/d/1in-VlWD43cWzw60duQ4GdkkmTRhIooSy7oVwhL82NpU)
+* [**Learn Machine Learning: - machinelearning.to**](https://machinelearning.to/)
+* [Machine Learning University - YouTube](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw)
+* [Machine Learning Full Course | Learn Machine Learning | Machine Learning Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=9f-GarcDY58)
+* [ML-For-Beginners: 12 weeks, 24 lessons, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)
+* [(ML Lecture 01) Regression Case Study](https://gcamp.tistory.com/1766)
+* [Best Machine Learning Courses for Finance You Must Know in 2021](https://www.mltut.com/best-machine-learning-courses-for-finance/)
+* [Best Resources to Learn Machine Learning Online in 2021](https://www.mltut.com/best-resources-to-learn-machine-learning-online/)
+* [learning-machine: A handbook for ML built on answers](https://github.com/rentruewang/learning-machine)
+  * [A handbook for machine learning with python](https://pythonawesome.com/a-handbook-for-machine-learning-with-python/)
+
+# C#
+* [C# 으로 Machine Learning ML.net - 1](http://name267.tistory.com/entry/C-%EC%9C%BC%EB%A1%9C-Machine-Learning-MLnet-1)
 
 # Feature Selection
 * [Feature Selection Technical Report](http://featureselection.asu.edu/)
@@ -835,7 +918,7 @@ Machine Learning
 * [구글 머신러닝 스터디잼 가이드라인](https://docs.google.com/presentation/d/1B7Xsqw6pZei0E7PTvRw-c3mCPQnb3grm5JWMAtqlYhA) Qwik Lab
 * [구글 클라우드 스터디잼 (심화) 가이드라인](https://docs.google.com/presentation/d/1BCpECH6lWqwdWfD5eKQ-htKiNjTJh5yOQEnGglYj4fY)
 
-## Prediction
+## Google Prediction
 * [Learn from your data Make real-time predictions Online machine learning system. Build learning models and predict future values](https://www.data-learn.com/)
 * [Build a Prediction Engine Using Spark, Kudu, and Impala](https://dzone.com/articles/how-to-build-a-prediction-engine-using-spark-kudu)
 * [An Incomplete list of Market-Prediction Projects in Andrew Ng's CS229 Course](https://sites.google.com/site/gappy3000/an-incomplete-list-of-market-prediction-projects-in-andrew-ng-s-cs229-course-1)
@@ -963,6 +1046,9 @@ Machine Learning
 * [How to break a model in 20 days. A tutorial on production model analytics](https://evidentlyai.com/blog/tutorial-1-model-analytics-in-production)
 * [Shopee - Price Match Guarantee | Kaggle](https://www.kaggle.com/c/shopee-product-matching/discussion/238136)
 * [캐글 집 가격 예측 대회 탐색적 데이터 분석 - 캐글 스터디 2기 - YouTube](https://www.youtube.com/watch?v=KGJxNW67b7I)
+* [Upstage Talks 학부 문과생이 세계 랭킹 24위 캐글 그랜드 마스터가 되기까지 - YouTube](https://www.youtube.com/watch?v=TwF2EB9UCsI)
+* [AI Factory](http://aifactory.space/)
+* [morty: 🔬 Lightweight experiment and configuration manager for small ML/DL projects and Kaggling](https://github.com/roma-glushko/morty)
 
 # K nearest neighbors
 * [Learn By Implementation – K-Nearest Neighbor](https://depiesml.wordpress.com/2015/09/03/learn-by-implementation-k-nearest-neighbor/)
@@ -1001,6 +1087,7 @@ Machine Learning
   * [docs.backend.ai](http://docs.backend.ai)
   * [lablup/backend.ai: Backend.AI is a streamlined, container-based computing cluster orchestrator that hosts diverse programming languages and popular computing/ML frameworks, with pluggable heterogeneous accelerator support including CUDA and ROCM](https://github.com/lablup/backend.ai)
   * [Backend.AI 오픈소스 기여 가이드 | Lablup Blog](https://blog.lablup.com/posts/2021/07/05/backendai-contribution-guide/)
+  * [백엔드닷에이아이(Backend.AI)로 시작해 보는 AI 오픈소스 소개 및 실습 - 01 - YouTube](https://www.youtube.com/watch?v=wIa14otnAps)
 * [BentoML - A platform for serving and deploying machine learning models http://BentoML.ai ](https://github.com/bentoml/BentoML)
   * [Machine Learning Serving - BentoML 사용법 · 어쩐지 오늘은](https://zzsza.github.io/mlops/2021/04/18/bentoml-basic/)
 * [cortex: Model serving at scale](https://github.com/cortexlabs/cortex)
@@ -1022,6 +1109,8 @@ Machine Learning
   * [StackNet is a computational, scalable and analytical Meta modelling framework](https://github.com/kaz-Anova/StackNet)
   * [H2O for Inexperienced Users](https://www.h2o.ai/blog/h2o-for-inexperienced-users/)
   * [Democratising Machine learning with H2O](https://towardsdatascience.com/democratising-machine-learning-with-h2o-7f2f79e10e3f)
+* [HAXPlaybook: The HAX Playbook is an interactive tool for generating interaction scenarios to test when designing user-facing AI systems](https://github.com/microsoft/HAXPlaybook)
+  * ['책임 있는 AI' 설계 가이드… 마이크로소프트 HAX의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/203244)
 * [hyperopt - Distributed Asynchronous Hyperparameter Optimization in Python](https://github.com/hyperopt/hyperopt)
 * [Impyute - a library of missing data imputation algorithms written in Python 3](https://impyute.readthedocs.io)
 * [**JupyterFlow - Run your workflow on JupyterHub**](https://jupyterflow.com/)
@@ -1031,10 +1120,12 @@ Machine Learning
 * [Leaf is a open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe](https://github.com/autumnai/leaf)
 * LightGBM
   * [Welcome to LightGBM’s documentation! — LightGBM 2.3.2 documentation](https://lightgbm.readthedocs.io/)
+  * [Ensemble Colab에서 LightGBM 사용하기!](https://somjang.tistory.com/entry/Ensemble-Colab%EC%97%90%EC%84%9C-LightGBM-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
   * [lightgbm-serving: A lightweight server for LightGBM](https://github.com/jeongukjae/lightgbm-serving)
 * [Machine Learning - Java collection that provides Java packages for developing a machine learning algorithm](https://github.com/sebig3000/MachineLearning)
 * [MediaPipe - a cross-platform framework for building multimodal applied machine learning pipelines https://mediapipe.dev ](https://github.com/google/mediapipe)
   * [MediaPipe to openFrameworks](https://github.com/madelinegannon/example-mediapipe-udp/)
+* [ML-airport-taxi-out: The ML-airport-taxi-out software is developed to provide a reference implementation to serve as a research example how to train and register Machine Learning (ML) models intended for four distinct use cases: 1) unimpeded AMA taxi out, 2) unimpeded ramp taxi out, 3) impeded AMA taxi out, and 4) impeded ramp taxi out. The software is designed to point to databases which are not provided as part of the software release and thus this software is only intended to serve as an example of best practices. The software is built in python and leverages open-source libraries kedro, scikitlearn, MLFlow, and others. The software provides examples how to build three distinct pipelines for data query and save, data engineering, and data science. These pipelines enable scalable, repeatable, and maintainable development of ML models](https://github.com/nasa/ML-airport-taxi-out)
 * [MLDB - the Machine Learning Database](http://mldb.ai/)
   * [Technology Fridays: MLDB is the Database Every Data Scientist Dreams Of](https://hackernoon.com/technology-fridays-mldb-is-the-database-every-data-scientist-dreams-of-368b50b5a434)
 * [mlflow - Open source platform for the machine learning lifecycle https://mlflow.org ](https://github.com/mlflow/mlflow)
@@ -1082,73 +1173,40 @@ Machine Learning
 
 # Microsoft
 * [Distributed Machine Learning Toolkit](http://www.dmtk.io/)
-
-## Azure
 * [Azure](azure.md)
+* Oxford [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)
 
-## Oxford
-* [프로젝트 옥스포드(Oxford), 마이크로소프트가 만든 머신러닝 프로젝트](http://www.venturesquare.net/585302)
-
-# Course MOOC Lecture
-* [머신러닝 괜찮은 강의들 리스트 1](https://blog.pabii.co/machine-learning-course-lists-1/)
-* [머신러닝 딥러닝 바로가기](https://www.youtube.com/playlist?list=PLBXuLgInP-5kbfIZJhvNfJscr6KS8Oaq0)
-* [인공지능과 기계학습](http://www.kmooc.kr/courses/course-v1:KAISTk+KCS470+2015_K0201/about)
-* [(인공지능, 기계학습, 머신러닝) KOOC 인공지능및기계학습개론 문일철교수님](https://www.youtube.com/watch?v=t6S7ekXz3aY&list=PLbhbGI_ppZISMV4tAWHlytBqNq1-lb8bz)
-* [하버드, 스탠포드, AI 온라인 강의 쏟아진다](http://1boon.kakao.com/kakao-it/ai_online_lecture)
-* [(기계학습,인공지능,머신러닝) 한국어 기계 학습 강좌 심화 1](https://www.youtube.com/playlist?list=PLbhbGI_ppZIRPeAjprW9u9A46IJlGFdLn)
-* [머신러닝(기계학습) 이해하기](https://www.youtube.com/playlist?list=PLaTc2c6yEwmq-3bSiCeaBJhE5Km5TKFhh) scikit-learn
-* [아빠가 들려주는 머신 러닝](https://www.youtube.com/playlist?list=PLQrL7n-YSrfcTyjKpMP-sCKRQV_lSjQqF)
-  * [다양한 머신러닝 방법들](https://blog.naver.com/kjhnav/221359372049)
-* [포브스가 추천하는 AIㆍML 무료 강좌 '베스트 9'](http://www.aitimes.com/news/articleView.html?idxno=126901)
-* [머신러닝1 - 생활코딩](https://opentutorials.org/course/4548)
-* [Every single Machine Learning course on the internet, ranked by your reviews](https://medium.freecodecamp.org/every-single-machine-learning-course-on-the-internet-ranked-by-your-reviews-3c4a7b8026c0)
-* [Machine Learning Video Library](https://work.caltech.edu/library/)
-* [A List Of Top 10 Free Machine Learning Online Courses and Tutorials](https://www.techleer.com/articles/453-a-list-of-top-10-free-machine-learning-online-courses-and-tutorials/)
-* [10 Best Online Courses for Machine Learning with Python-Bestseller 2021](https://www.mltut.com/best-online-courses-for-machine-learning-with-python/)
-* [20 Best Online Courses On Machine Learning You Must Know in 2021](https://www.mltut.com/best-online-courses-on-machine-learning-you-must-know/)
-* [Machine Learning Summer School 2017 Tübingen](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFUOvoYCdKikfck8YeUCnl9)
-* [Top Python Libraries for Data Science, Data Visualization & Machine Learning - KDnuggets](https://www.kdnuggets.com/2020/11/top-python-libraries-data-science-data-visualization-machine-learning.html)
-* [Andrew Ng / Coursera](https://www.coursera.org/learn/machine-learning)
-  * [Machine Learning Exercises In Python, Part 1](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/) python exercises of Andrew Ng's maching learning class on Coursera
-  * [Python programming assignments for Machine Learning by Prof. Andrew Ng in Coursera](https://github.com/nsoojin/coursera-ml-py)
-  * Python Implementation of Andrew Ng’s Machine Learning Course
-    * [(Part 1)](https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-1-6b8dd1c73d80)
-    * [(Part 2.1)](https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-2-1-1a666f049ad6)
-    * [(Part 2.2)](https://medium.com/analytics-vidhya/python-implementation-of-andrew-ngs-machine-learning-course-part-2-2-dceff1a12a12)
-    * [A Guide to using Logistic Regression for Digit Recognition (with Python codes)](https://medium.com/analytics-vidhya/a-guide-to-using-logistic-regression-for-digit-recognition-with-python-codes-86aae6da10fe)
-    * [Learn how to Build Neural Networks from Scratch in Python for Digit Recognition](https://medium.com/analytics-vidhya/neural-networks-for-digits-recognition-e11d9dff00d5)
-  * [**Machine Learning 정리**](http://soopsaram.com/ml/)
-* [Learning from Data - Yaser S. Abu-MostafaYaser S. Abu-Mostafa Machine Learning course - recorded at a live broadcast from Caltech](http://work.caltech.edu/telecourse.html)
-* [CS7641 at Georgia Tech / Udacity](https://www.udacity.com/course/machine-learning--ud262)
-* [CS156 at Caltech](https://www.youtube.com/playlist?list=PLvx5ei9aEEqKgDZ7oaQGSToFi-QER4v1M)
-* [CS 329S | Syllabus](https://stanford-cs329s.github.io/syllabus.html)
-  * [Stanford MLSys Seminars - YouTube](https://www.youtube.com/channel/UCzz6ructab1U44QPI3HpZEQ)
-* [sentdex, Machine Learning with Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfKTOs3Keq_kaG2P55YRn5v)
-* [Deep Learning TV](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
-* [Demis Hassabis, CEO, DeepMind Technologies - The Theory of Everything](https://www.youtube.com/watch?v=rbsqaJwpu6A)
-* [Accelerating Understanding: Deep Learning, Intelligent Applications, and GPUs](https://www.youtube.com/watch?v=Qk4SqF9FT-M)
-* [Sirajology](https://www.youtube.com/channel/UCWN3xxRkmTPmbKwht9FuE5A)
-* [Two+ Minute papers](https://www.youtube.com/user/keeroyz)
-* [geoffrey hinton](https://www.youtube.com/watch?v=_oDdfROFyK4)
-* [Machine Learning Engineer Nanodegree by google](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009)
-* [Learn Machine learning online – List of machine learning courses available online](http://bafflednerd.com/learn-machine-learning-online/)
-* [PhD level ML Course](https://tensorflowkorea.wordpress.com/2016/09/09/phd-level-ml-course/)
-* [Course on Information Theory, Pattern Recognition, and Neural Networks](http://videolectures.net/course_information_theory_pattern_recognition/)
-* [machinelearningmastery.com/start-here](https://machinelearningmastery.com/start-here/)
-* [What are Some ‘Advanced ‘ AI and Machine Learning Online Courses?](https://towardsdatascience.com/what-are-some-advanced-ai-and-machine-learning-online-courses-8609ab281450)
-* [Top 5 Machine Learning Courses for 2019](https://medium.com/@LearnDataSci/top-5-machine-learning-courses-for-2019-8a259572686e)
-* [**A practical approach to machine learning**](https://practicalai.me/)
-* [10 Free Top Notch Machine Learning Courses](https://www.kdnuggets.com/2019/12/10-free-top-notch-courses-machine-learning.html)
-* [Emil’s Story as a Self-Taught AI Researcher](https://blog.floydhub.com/emils-story-as-a-self-taught-ai-researcher/)
-* [머신러닝/딥러닝 공부 첫걸음 :: 시작은 미약한 프로그래밍](https://yjclarelee.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B3%B5%EB%B6%80-%EC%B2%AB%EA%B1%B8%EC%9D%8C)
-  * [머신러닝 입문 영상 - YouTube](https://www.youtube.com/watch?v=9YKDtzhmFk8)
-  * [The Simplest Introduction to Basic Machine Learning](https://docs.google.com/presentation/d/1in-VlWD43cWzw60duQ4GdkkmTRhIooSy7oVwhL82NpU)
-* [Machine Learning University - YouTube](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw)
-* [Machine Learning Full Course | Learn Machine Learning | Machine Learning Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=9f-GarcDY58)
-* [ML-For-Beginners: 12 weeks, 24 lessons, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)
-* [(ML Lecture 01) Regression Case Study](https://gcamp.tistory.com/1766)
-* [Best Machine Learning Courses for Finance You Must Know in 2021](https://www.mltut.com/best-machine-learning-courses-for-finance/)
-* [Best Resources to Learn Machine Learning Online in 2021](https://www.mltut.com/best-resources-to-learn-machine-learning-online/)
+# MLOps
+* [SCALABLE MACHINE LEARNING - THE STATE OF DATAOPS / MLOPS IN 2018](https://axsauze.github.io/scalable-data-science)
+* [머신러닝 오퍼레이션 자동화, MLOps](https://zzsza.github.io/mlops/2018/12/28/mlops/)
+* [**MLOps 1. 실험 관리 AI 혁신 속도는 모델 학습에서 배포까지 걸리는 속도에 비례한다**](https://brunch.co.kr/@chris-song/101)
+* [MLOps: Continuous delivery and automation pipelines in machine learning 번역](https://zzsza.github.io/mlops/2020/05/16/cd-and-automation-pipeline-in-ml/)
+* [Introducing MLOps - 차문수(Superb AI) :: 제33회 AWSKRUG DataScience모임 - YouTube](https://www.youtube.com/watch?v=CjloF7g-5O4)
+* [What is MLOps? Machine Learning Operations Explained](https://www.freecodecamp.org/news/what-is-mlops-machine-learning-operations-explained/)
+* [A Chat with Andrew on MLOps: From Model-centric to Data-centric AI - YouTube](https://www.youtube.com/watch?v=06-AZXmwHjo)
+  * [AI뉴스 AI계의 사대천왕, 앤드류 응 교수님의 주옥같은 인사이트가 우루루~데이터 중심 AI시대 그리고 MLOps의 급부상? 놓치면 안 될 응 교수님의 라이브 강좌 핵심 요약본! - YouTube](https://www.youtube.com/watch?v=20PlFERKCyo)
+  * [더 많은 데이터 중심으로, 덜 적은 모델로!](https://brunch.co.kr/@synabreu/117)
+* [앤드류 응 교수가 말하는 MLOps](https://brunch.co.kr/@synabreu/137)
+* [AI는 '빅데이터(Big Data)'보다 '굿데이터(Good Data)'를 좋아합니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/gooddata20210916)
+* [칼럼ㅣAI 프로젝트 악순환 고리 끊어라··· 'ML옵스' 마인드셋이 필요한 이유 - CIO Korea](https://www.ciokorea.com/news/202454)
+* [MLOps And Machine Learning Roadmap - KDnuggets](https://www.kdnuggets.com/2021/08/mlops-machine-learning-roadmap.html)
+* [커피고래가 생각하는 MLOps | 커피고래의 노트](https://coffeewhale.com/what-is-mlops)
+* [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
+* [MadeWithML: Learn how to responsibly deliver value with ML](https://github.com/GokuMohandas/MadeWithML)
+* **[MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
+  * [MLOps Basics Week 0: Project Setup – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-project-setup-part1) 프로젝트 설정
+  * [MLOps Basics Week 1: Model Monitoring - Weights and Bias – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-wandb-integration) 모델 모니터링 - 웨이트와 편견
+  * [MLOps Basics Week 2: Configurations - Hydra – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-hydra-config) 구성 - 하이드라
+  * [MLOps Basics Week 3: Data Version Control - DVC – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-dvc) 데이터 버전 제어 - DVC
+  * [MLOps Basics Week 4: Model Packaging - ONNX – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-onnx) 모델 포장 - ONX
+  * [MLOps Basics Week 5: Model Packaging - Docker – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-docker) 모델 포장 - Docker
+  * [MLOps Basics Week 6: CI/CD - GitHub Actions – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-github-actions) CI / CD - GitHub 액션
+  * [MLOps Basics Week 7: Container Registry - AWS ECR – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-container-registry) 컨테이너 레지스트리 - AWS ECR
+  * [MLOps Basics Week 8: Serverless Deployment - AWS Lambda – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-serverless) 서버리스 배치 - AWS Lambda
+  * [MLOps Basics Week 9: Prediction Monitoring - Kibana – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-monitoring) 예측 모니터링 - 키바나
+  * [MLOps Basics Week 10: Summary – Raviraja's Blog](https://www.ravirajag.dev/blog/mlops-summary) 요약**
+* [MLOps NYC](https://www.mlopsnyc.com)
+  * [MLOps Tooling](https://toddmorrill.github.io/blog/2019/10/05/MLOps-tooling)
 
 # Python
 * [**Bare bones Python implementations of Machine Learning models and algorithms.  Aims to cover everything from Data Mining techniques to Deep Learning**](https://github.com/eriklindernoren/ML-From-Scratch)
@@ -1174,6 +1232,8 @@ Machine Learning
 * [Keynote: Machine Learning for Social Science | SciPy 2016 | Hanna Wallach](https://www.youtube.com/watch?v=oqfKz-PP9FU&index=7&list=PLYx7XA2nY5Gf37zYZMw6OqGFRPjB1jCy6)
 * [Machine Learning: Python and the Power of Ensembles by Bargava Raman Subramanian](https://www.youtube.com/watch?v=MOqdUoZo5Vo)
 * [Python Machine Learning Tutorial, Scikit-Learn: Wine Snob Edition](https://elitedatascience.com/python-machine-learning-tutorial-scikit-learn)
+* [Introduction To Machine Learning](https://towardsdatascience.com/introduction-to-machine-learning-db7c668822c4)
+* [An Introduction to Python for Machine Learning with VS Code and Azure - YouTube](https://www.youtube.com/watch?v=cUKq6uKc-60)
 * [An Introduction to Python Machine Learning with Perceptrons](https://www.codementor.io/mcorr/tutorials/an-introduction-to-python-machine-learning-with-perceptrons-k7pn85vfi)
 * [The Perceptron Algorithm explained with Python code](http://www.analyticbridge.com/profiles/blogs/the-perceptron-algorithm-explained-with-python-code)
 * [퍼셉트론 강의](http://kr.deductiontheory.com/2017/05/blog-post.html)
@@ -1190,7 +1250,6 @@ Machine Learning
 * [22 must watch talks on Python for Deep Learning, Machine Learning & Data Science (from PyData 2017, Amsterdam)](https://www.analyticsvidhya.com/blog/2017/05/pydata-amsterdam-2017-machine-learning-deep-learning-data-science/)
 * [Pattern Designing in Python | Pattern Matching in Machine Learning](https://www.youtube.com/watch?v=Io6pV-Sx0po)
 * [Some Essential Hacks and Tricks for Machine Learning with Python](https://heartbeat.fritz.ai/some-essential-hacks-and-tricks-for-machine-learning-with-python-5478bc6593f2)
-* [Introduction To Machine Learning](https://towardsdatascience.com/introduction-to-machine-learning-db7c668822c4)
 * [Supervised Learning with Python](https://towardsdatascience.com/supervised-learning-with-python-cf2c1ae543c1)
 * [Unsupervised Learning with Python](https://towardsdatascience.com/unsupervised-learning-with-python-173c51dc7f03)
 * [Machine Learning with Python: Easy and robust method to fit nonlinear data](https://towardsdatascience.com/machine-learning-with-python-easy-and-robust-method-to-fit-nonlinear-data-19e8a1ddbd49)
@@ -1217,7 +1276,7 @@ Machine Learning
 * [Interpretable Machine Learning | LIME In Machine Learning](https://www.analyticsvidhya.com/blog/2019/08/decoding-black-box-step-by-step-guide-interpretable-machine-learning-models-python/)
 * [Decision Trees in Machine Learning (ML) with Python Tutorial | by Towards AI Team | Towards AI | Nov, 2020 | Medium](https://medium.com/towards-artificial-intelligence/decision-trees-in-machine-learning-ml-with-python-tutorial-3bfb457bce67)
 * [Gradient Descent for Machine Learning (ML) 101 with Python Tutorial | Towards AI](https://medium.com/towards-artificial-intelligence/gradient-descent-algorithm-for-machine-learning-python-tutorial-ml-9ded189ec556)
-* [best-of-ml-python: 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly](https://github.com/ml-tooling/best-of-ml-python)
+* [**best-of-ml-python: 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly**](https://github.com/ml-tooling/best-of-ml-python)
 * [8 Basic Easy to Follow Steps to Learn Machine Learning with Python](https://www.mltut.com/basic-steps-to-learn-machine-learning-with-python)
 * [파이썬, ML - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=30770053)
 
@@ -1231,6 +1290,8 @@ Machine Learning
 * [ann-writer - An artificial machine learning program that attempts to impersonate the writing style of any given text training set](https://github.com/JacobPlaster/ann-writer)
 * [baal - Using approximate bayesian posteriors in deep nets for active learning](https://github.com/ElementAI/baal)
 * [Causal ML: A Python Package for Uplift Modeling and Causal Inference with ML](https://github.com/uber/causalml)
+* [easyopt: zero-code hyperparameters optimization framework](https://github.com/galatolofederico/easyopt)
+* [edenai-python: The best AI engines in one API: vision, text, speech, translation, OCR, machine learning, etc. SDK and examples for Python developers](https://github.com/edenai/edenai-python)
 * [Gradient-Free-Optimizers: Simple and reliable optimization with local, global, population-based and sequential techniques in numerical discrete search spaces](https://github.com/SimonBlanke/Gradient-Free-Optimizers)
 * [igel: a machine learning tool that allows to train, test and use models without writing code](https://github.com/nidhaloff/igel)
 * [JAX: Autograd and XLA](https://github.com/google/jax)
@@ -1294,6 +1355,7 @@ Machine Learning
   * [8 ways to perform simple linear regression and measure their speed using Python](https://medium.freecodecamp.org/data-science-with-python-8-ways-to-do-linear-regression-and-measure-their-speed-b5577d75f8b)
   * [Linear Regression Machine Learning Method Using Scikit-learn & Pandas in Python - Tutorial 30](https://www.youtube.com/watch?v=erfZsVZbGJI)
   * [A beginner’s guide to Linear Regression in Python with Scikit-Learn](https://towardsdatascience.com/a-beginners-guide-to-linear-regression-in-python-with-scikit-learn-83a8f7ae2b4f)
+  * [선형 회귀 모델에서 '선형'이 의미하는 것은 무엇인가?](https://brunch.co.kr/@gimmesilver/18)
   * [“파이썬 라이브러리를 활용한 머신러닝” 사이킷런 0.20 업데이트](https://tensorflow.blog/2018/09/30/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%82%AC%EC%9D%B4%ED%82%B7%EB%9F%B0-0-20/)
   * [Scikit-Learn: A silver bullet for basic machine learning](https://medium.com/analytics-vidhya/scikit-learn-a-silver-bullet-for-basic-machine-learning-13c7d8b248ee)
   * [Scikit-Learn Library for Machine Learning in a Nutshell](https://hackernoon.com/scikit-learn-library-for-machine-learning-in-a-nutshell-35fead4b216d)
@@ -1313,6 +1375,11 @@ Machine Learning
   * [Intro — Scikit-learn course](https://inria.github.io/scikit-learn-mooc/index.html)
   * [Scikit-Learn Course - Machine Learning in Python Tutorial - YouTube](https://www.youtube.com/watch?v=pqNCD_5r0IU)
   * [Scikit-learn Crash Course - Machine Learning Library for Python - YouTube](https://www.youtube.com/watch?v=0B5eIE_1vpU)
+  * [Machine learning with missing values — Dirty data science](http://dirtydata.science/python/gen_notes/01_missing_values.html)
+  * [How to Build Machine Learning Pipeline with Scikit-Learn? And Why is it essential? – Life With Data](https://lifewithdata.com/2021/04/02/how-to-build-machine-learning-pipeline-with-scikit-learn-and-why-is-it-essential/)
+  * scikit-learn-intelex [Intel® Extension for Scikit-learn — Intel(R) Extension for Scikit-learn 2021.4 documentation](https://intel.github.io/scikit-learn-intelex/)
+* [scikit-multilearn: Multi-Label Classification in Python — Multi-Label Classification for Python](http://scikit.ml/)
+  * [A Python module capable of performing multi-label learning tasks](https://pythonawesome.com/a-python-module-capable-of-performing-multi-label-learning-tasks-2/)
 * [shap: A game theoretic approach to explain the output of any machine learning model](https://github.com/slundberg/shap)
   * [Interpret Any Machine Learning Model With Shapley Values - YouTube](https://www.youtube.com/watch?v=so_82GfrVnI)
 * [shapash: Shapash makes Machine Learning models transparent and understandable by everyone](https://github.com/MAIF/shapash)
@@ -1350,6 +1417,8 @@ Machine Learning
     * [penguins-heroku](https://github.com/dataprofessor/penguins-heroku)
   * [Python Streamlit 사용법 - 프로토타입 만들기 · 어쩐지 오늘은](https://zzsza.github.io/mlops/2021/02/07/python-streamlit-dashboard/)
   * [스트림릿, 머신러닝 웹개발을 쉽고 빠르게 – techNeedle 테크니들](https://techneedle.com/archives/40919)
+  * [Deploying a Python machine learning app on Kubernetes - Ketch](https://www.theketch.io/2021/09/11/python-ml-kubernetes/)
+  * [Getting Started with Steamlit for Python - Build a Functioning Web App in Minutes - YouTube](https://www.youtube.com/watch?v=f9c_19Btnvo)
 * TensorDash [A Must-Have Tool for Every Data Scientist | by Arun | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/a-must-have-tool-for-every-data-scientist-5e7c76f1916f)
 * [tpot - A Python tool that automatically creates and optimizes machine learning pipelines using genetic programming. http://rhiever.github.io/tpot ](https://github.com/rhiever/tpot)
 * Uber
@@ -1393,6 +1462,8 @@ Machine Learning
 * [Reinforcement Learning 그리고 OpenAI - 2: CartPole예제 이해하기](http://www.modulabs.co.kr/RL_library/2136)
 * [Reinforcement Learning 그리고 OpenAI - 3: CartPole and Deep Q Learning (1) DQN(Deep Q-Networks)](http://www.modulabs.co.kr/RL_library/2621)
 * [Reinforcement Learning](https://github.com/sangjinhong/deep_learning)
+* [RLlib: Scalable Reinforcement Learning — Ray v1.5.2](https://docs.ray.io/en/latest/rllib.html)
+  * [오픈소스(RLlib) 문제 발견부터 컨트리뷰션 까지 | MakinaRocks Tech Blog](https://makinarocks.github.io/open-source-contributions-rllib/)
 
 # Spark
 * [KeystoneML - Machine Learning Pipeline](http://keystone-ml.org/)

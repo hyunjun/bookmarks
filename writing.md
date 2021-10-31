@@ -12,6 +12,7 @@ Writing
 * [근로자? 노동자? 떡값? 뇌물? 제대로 골라 쓰기](http://slownews.kr/40430)
 * [컴버배치 실언 사태에서 배우는 제대로 된 사과법](http://newspeppermint.com/2015/01/29/how-to-apologize-cumberbatch/)
 * [장동민의 사과를 통해 배우는 올바른 사과법](http://www.huffingtonpost.kr/seungho-baek/story_b_7202808.html)
+* [6 Ways To Apologize Like You Mean It : Life Kit : NPR](https://www.npr.org/2021/06/02/1002446748/youre-apologizing-all-wrong-heres-how-to-say-sorry-the-right-way)
 * [신도리코와 필경사](http://slownews.kr/42638)
 * [‘신경숙의 남편’과 ‘비평가’사이](http://ppss.kr/archives/60526)
 * [문제는 표절이 아니다](http://www.huffingtonpost.kr/nury-kim/story_b_7684992.html)
@@ -86,6 +87,12 @@ Writing
 * [이코노미스트에게 배운 글쓰기 비법 | GeekNews](https://news.hada.io/topic?id=4092)
   * [Writing tools I learned from The Economist - Built By Words](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the)
 * [기본만 생각하는 글쓰기 - Google Slides](https://docs.google.com/presentation/d/e/2PACX-1vTCDVh9kL49D6I0sftVJAD-ph6p8dqeqCyIcgC-e3fi7EMUAvTMCov_dKY5sHqWJ72GA4h1SdbcLRkP/pub?slide=id.p)
+* [내가 전자책부터 쓴 이유 + 실행 방법 - 업플라이 #Upfly](https://www.upfly.me/blog/why-ebook-is-good-and-how-to-publish-one-yourself)
+* [생산적 글쓰기를 위한 좋은 메모법](https://brunch.co.kr/@graypool/61)
+* [강력한 비즈니스 글쓰기의 과학 | 자기계발 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/6_1/article_no/1739)
+* [주니어 개발자가 처음 책 출판해본 썰.txt - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/09/12/Review-of-Book-Publication.html)
+* [Explaining explaining: a quick guide on explanatory writing](https://lucasfcosta.com/2021/09/30/explaining-in-writing.html)
+* [38 Incredible Notetaking Statistics You Should Know | Paperlike](https://paperlike.com/blogs/paperlikers-insights/38-notetaking-statistics)
 
 # Book
 * [더북(TheBook): 스타일과 목적을 살리는 웹 글쓰기](https://thebook.io/006745/) 1~4장만
@@ -109,7 +116,6 @@ Writing
 * [주석 분석기를 이용한 간단한 API 문서화 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/comments-parsing-api-documentation/)
 * [Why developers should know how to write](https://medium.com/free-code-camp/why-developers-should-know-how-to-write-dc35aa9b71ab)
 * [The most important part of a data science project is writing a blog post](https://towardsdatascience.com/the-most-important-part-of-a-data-science-project-is-writing-a-blog-post-50715f37833a)
-* [기술 문서 작성 5단계](https://tech.kakaoenterprise.com/65)
 * [잘못 된 문서화, 잘 된 문서화](https://tech.peoplefund.co.kr/2019/12/06/bad-and-good-documentation.html)
 * [실전 Digital Tranformation 아이디어 공유](https://www.popit.kr/%EC%8B%A4%EC%A0%84-digital-tranformation-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EA%B3%B5%EC%9C%A0/)
 * [2019년 11월 2일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-11-2.html) 튜토리얼과 하우투 문서의 차이점
@@ -132,12 +138,15 @@ Writing
 * [Writing as a dominant engineering skill | LinkedIn](https://www.linkedin.com/pulse/writing-dominant-engineering-skill-maksim-ekimovskii/)
 * [LaTeX 과 PDF](https://statkclee.github.io/latex/document-ide.html)
 * [LaTeX 과 PDF](https://statkclee.github.io/latex/latex-writing.html)
+* [Building a Documentation Culture :: antrix.net](https://antrix.net/posts/2021/documentation/) c4model
 * [apiDoc - Inline Documentation for RESTful web APIs](https://apidocjs.com/)
   * [개발자가 싫어하는 문서화하기 2편 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222067713267)
 * [API Improvement Proposals](https://aip.dev)
 * [The C4 model for visualising software architecture](https://c4model.com/)
   * [C4Model로 협업하기 | Doublem.org](https://doublem.org/c4model-story/)
 * [Doxygen: Main Page](https://www.doxygen.nl)
+* GitBook
+  * [gitbook CLI 실행시 cb.apply 발생할 경우](https://jojoldu.tistory.com/598)
 * [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
 * slate [Doing Stupid Stuff with GitHub Actions | DevOps Directive](https://devopsdirective.com/posts/2020/07/stupid-github-actions/)
 * [standardese: A (work-in-progress) nextgen Doxygen for C++](https://github.com/standardese/standardese)
@@ -150,5 +159,8 @@ Writing
 * [The Mayfield Handbook of Technical & Scientific Writing](https://www.mit.edu/course/21/21.guide/toc.htm)
 * [Writing a technical book: from idea to print](https://sararobinson.dev/2020/11/17/writing-a-technical-book.html)
 * [구글 테크니컬라이터가 전하는 이야기 - Tech. Writer Log](https://naraewool.gitbook.io/techwriter/untitled/google-techwriter)
-* [기술문서 쉽게 쓰기 지침 #테크니컬라이터 #언어정책](https://tech.kakaoenterprise.com/105)
-* [개발자들을 위한 테크니컬 라이팅 10계명 #기술문서 작성법#개발자 글쓰기 #테크니컬라이터](https://tech-kakaoenterprise.tistory.com/110)
+* [“좋은 문서 없으면 좋은 코드도 없어” 테크니컬 라이터의 중요성 - ITWorld Korea](https://www.itworld.co.kr/news/202624)
+* ['테크니컬라이팅' 태그의 글 목록](https://tech-kakaoenterprise.tistory.com/tag/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC%EB%9D%BC%EC%9D%B4%ED%8C%85)
+
+# Reading
+* [How to Remember What You Read](https://fs.blog/2021/08/remember-books/)

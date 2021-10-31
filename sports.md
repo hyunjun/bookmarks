@@ -84,8 +84,22 @@ Sports
 * [류현진의 구종 체인지업, 하드 슬라이더, 커브 파헤치기](http://baseballgen.com/263)
 * [이현우의 MLB+ 데뷔전에서 반전을 만들어낸 오타니](http://v.sports.media.daum.net/v/20180402130304195)
 * [선발 에이스 시대의 종말이 온다 1이닝 선발부터 벌떼 불펜까지 다양해지는 투수 운용 방식](http://weekly.donga.com/3/all/11/1412439/1)
+* [로봇 심판과 판정 알고리즘의 의미 있는 도전](https://brunch.co.kr/@kakao-it/290)
+* [기사 - 이지풍 코치의 반대 의견 1 : 유망주의 전성기가 짧은 이유](https://www.ddanzi.com/ddanziNews/688136806)
+* [기사 - 이지풍 코치의 반대 의견 2 : '실패의 스포츠'에서 살아남는 법](https://www.ddanzi.com/ddanziNews/690245482)
+* [기사 - 이지풍 코치의 반대 의견 3 : 히딩크의 교훈](https://www.ddanzi.com/ddanziNews/691473275)
+* [기사 - 이지풍 코치의 반대 의견 4 : 영민이와 우준이에게 필요했던 것](https://www.ddanzi.com/ddanziNews/693704778)
+* [기사 - 이지풍 코치의 반대 의견 5 : 올림픽을 넘어, 한국 야구는 당최 뭐가 문제일까](https://www.ddanzi.com/ddanziNews/695269320)
+* [기사 - 이지풍 코치의 반대 의견 6 : 3할은 어떻게 만들어지는가](https://www.ddanzi.com/ddanziNews/696573810)
+* [기사 - 이지풍 코치의 반대 의견 7 : 박재상은 왜 훌륭한가](https://www.ddanzi.com/ddanziNews/697710453)
+* [기사 - 이지풍 코치의 반대 의견 8 : 볼배합과 데이터 야구에 대한 환상](https://www.ddanzi.com/ddanziNews/698762785)
+* [기사 - 이지풍 코치의 반대 의견 9 : 선수의 미래를 망치는 방법](https://www.ddanzi.com/ddanziNews/699832050)
+* [기사 - 이지풍 코치의 반대 의견 10 : 내가 설기현을 존경하는 이유](https://www.ddanzi.com/ddanziNews/700948896)
+* [기사 - 이지풍 코치의 반대 의견 11 : 골프 치는 야구선수 살찐 야구선수, 뭣이 중헌디](https://www.ddanzi.com/ddanziNews/703004431)
+* [기사 - 이지풍 코치의 반대 의견 12 : 놓쳐버린, 이승엽의 마지막 순간](https://www.ddanzi.com/ddanziNews/705003159)
+* [기사 - 이지풍 코치의 반대 의견 13(完) : 내가 선출이 아니라 가질 수 있는 능력](https://www.ddanzi.com/ddanziNews/707183686)
 
-## Sabremetrics
+## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
 * [nc soft 데이터 사이언스](https://blog.ncsoft.com/rd/data-science/)
 * [blog.ncsoft.com/?tag=야구-데이터-분석](http://blog.ncsoft.com/?tag=%EC%95%BC%EA%B5%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D)
@@ -115,6 +129,7 @@ Sports
 * [나는 네가 다음 시즌에 잡을 삼진 개수를 알고 있다](http://www.yagongso.com/?p=9317) decision tree, random forest,...
 * [와인드업, 꼭 해야 할까?](http://www.yagongso.com/?p=9711) 고정관념에서 벗어나야 한다는 걸 다시 한 번 생각하게 하는 글
 * [토론토의 데이터 야구! 무엇이 달라졌을까 | 이승용 - YouTube](https://www.youtube.com/watch?v=oHmfE0cnsUU) Darren Willman: 야구선수 + 컴퓨터공학 스탯캐스트, 베이스볼서번트
+* [KBO 리그 포스트시즌 진출 확률을 제공하는 사이트를 개설했습니다. > 국내야구 | 야구토크](https://yagutalk.com/k_free/13163)
 
 # Basketball
 * [**Basketball Terms- Terminology**](https://www.coachesclipboard.net/BasketballTerminology.html) diagram으로 court위 명칭 설명
@@ -144,6 +159,8 @@ Sports
 * [South Korean KBL Team Stats - RealGM](https://basketball.realgm.com/international/league/63/South-Korean-KBL/team-stats)
 * [농구 통계를 사용해 Visual Studio Code에서 경기 플레이 최적화 - 새 영화 ‘스페이스 잼 새로운 시대’의 영감 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/paths/optimize-basketball-games-with-machine-learning/)
 * [데이터를 사용하여 농구 코트에서 결정을 내리는 웹앱 만들기 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/sports-machine-learning/optimize-basketball-player-rest-breaks/)
+* [데이터를 통해 보는 리그 샷 트렌드 - NBA Mania](https://mania.kr/g2/bbs/board.php?bo_table=maniazine&wr_id=205193)
+* [Profile - josiah.brady | Tableau Public](https://public.tableau.com/app/profile/josiah.brady/viz/KBLKoreanBasketballLeague2019)
 
 # Football
 * [정치역사적 관점으로 본 엘 클라시코(El Clasico)](http://ppss.kr/archives/41767)
@@ -160,6 +177,7 @@ Sports
 * [214. Arte de lo Clasico 바르셀로나에 참패를 당한 레알 마드리드](https://1boon.daum.net/kalka/kalka181031) 미술과 축구를 연결해 그린 편
 * [스포츠 빅데이터② 4부에서 1부로..빅데이터의 마법](https://sports.v.daum.net/v/20181129203152987)
 * [**한준의 축구환상곡 "선수 탓하면 아마추어" 한국 지도자에 노하우 전수한 '저승사자' 레이몬드**](https://sports.v.daum.net/v/20191212181257725) 축구 레퍼런스에 대해 언급하는 부분이 정말 인상적, 축구 외의 일반적인 영역에도 적용 가능
+* [분데스리가 '2021-22 시즌', 인공지능이 펼치는 실시간 통계와 데이터 분석 플랫폼으로 더 흥미롭게 즐긴다! < 솔루션 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=22444)
 
 # NFL
 * [How to predict NFL Winners with Python. Follow along the steps](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/)

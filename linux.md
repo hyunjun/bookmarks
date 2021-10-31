@@ -78,6 +78,7 @@ Linux
 * [1001 Ways of Implementing a System Call](https://x86.lol/generic/2019/07/04/kernel-entry.html)
 * [Understanding cgroups](https://www.grant.pizza/blog/understanding-cgroups/)
 * [A Linux sysadmin's introduction to cgroups | Enable Sysadmin](https://www.redhat.com/sysadmin/cgroups-part-one)
+* [What Are Namespaces and cgroups, and How Do They Work? - NGINX](https://www.nginx.com/blog/what-are-namespaces-cgroups-how-do-they-work/)
 * [How NAT traversal works · Tailscale Blog](https://tailscale.com/blog/how-nat-traversal-works/)
 * [Analyzing the Attacks on my Website](https://dev.to/pluralsight/analyzing-the-attacks-on-my-website-30jf)
 * [Speeding up Linux disk encryption](https://blog.cloudflare.com/speeding-up-linux-disk-encryption/)
@@ -118,11 +119,18 @@ Linux
 * [리눅스에서 안드로이드 앱 사용하기](https://open-support.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4%EC%97%90%EC%84%9C-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
 * [리눅스 30주년 맞이 리누스 토발즈 인터뷰 번역 - 파트 1 | hacklog](https://sjp38.github.io/ko/post/torvalds_interview_for_30th_anniversary_of_linux_kernel_part1/)
 * [리눅스 30주년 맞이 리누스 토발즈 인터뷰 번역 - 파트 2 | hacklog](https://sjp38.github.io/ko/post/torvalds_interview_for_30th_anniversary_of_linux_kernel_part2/)
+* [Linux 유저 권한 설정 및 그룹](https://developer88.tistory.com/393) /etc/group /etc/passwd
+* [Console Desktop Guide](https://pspodcasting.net/dan/blog/2018/console_desktop.html)
+* [Linux에서 로드 밸런서와 캐시 서버를 멀티 코어 스케일 시키기 위한 커널 튜닝 - Google Docs](https://docs.google.com/document/d/10v2_8dt3t_HDT56k_Wf2THwq3cPSDccj-Agfik087X8/edit)
+* [Bringing the Unix Philosophy to the 21st Century | Brazil's Blog](https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/)
+* [Understanding I/O Wait (or why 0% Idle can be OK) - Witekio - Embedded systems & IoT Experts](https://witekio.com/blog/understanding-i-o-wait-or-why-0-idle-can-be-ok-3/)
+* ["Static Linking Considered Harmful" Considered Harmful | Gavin D. Howard](https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
 * [리눅스 배포판 선택, 고민되시나요? - 여기서 최상의 배포판을 골라 보세요](http://sergeswin.com/1056)
 * [open source & open hardware | Customizer로 나만의 리눅스배포판을 만들자 - Daum 카페](http://cafe.daum.net/opensupport.xyz/qiAR/10)
+* alpine [there is no such thing as a “glibc based alpine image” – Ariadne's Space](https://ariadne.space/2021/08/26/there-is-no-such-thing-as-a-glibc-based-alpine-image/)
 * [Busybox-based Linux distro from scratch – re-ws.pl](https://re-ws.pl/2020/11/busybox-based-linux-distro-from-scratch/)
 
 ## 배포판 Archlinux
@@ -238,6 +246,7 @@ Linux
       * 개별 repository에 대해 proxy를 설정할 때는 /etc/yum.repos.d/some.repo의 각 항목마다 추가
   * [Which yum variable can give 6 or 7 as output](https://stackoverflow.com/questions/35978202/which-yum-variable-can-give-6-or-7-as-output/35978695#35978695)
   * [Why does yum return error: \[Errno 256\] No more mirrors to try ? - Red Hat Customer Portal](https://access.redhat.com/solutions/203603)
+  * [rpm-software-management/dnf: Package manager based on libdnf and libsolv. Replaces YUM](https://github.com/rpm-software-management/dnf)
 * /tmp
   * [프로젝트 출시 10일 후 새벽 4시에 발생한 장애의 원인](https://iamsang.com/blog/2017/05/27/server-failure-10-days-after-release/) /tmp directory 관련 내용
 
@@ -272,12 +281,15 @@ Linux
 * [(리눅스 업스킬 도전 #15) 우분투 패키지 저장소 추가하기](https://jhrogue.blogspot.com/2020/10/15.html)
 * [(리눅스 업스킬 도전 #21-a) 우분투에서 한국어 로케일을 사용하려면 어떻게 해야 하나요?](https://jhrogue.blogspot.com/2020/10/21.html)
 * [Ubuntu의 apt-get 명령어 정리 :: Outsider's Dev Story](https://blog.outsider.ne.kr/346)
+* [리눅스 패키지 설치 실패 - Unable to correct problems, you have held broken packages](https://open-support.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%84%A4%EC%B9%98-%EC%8B%A4%ED%8C%A8-Unable-to-correct-problems-you-have-held-broken-packages) aptitude
 * [우분투에 최신 버전 노드 설치하기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/875)
 * [How Install GDebi package installer on Ubuntu 18.04](https://www.ubuntu18.com/install-gdebi-ubuntu-18/)
 * [Ubuntu에 AppImage를 System Application으로 등록하기](https://devbull.xyz/ubuntu-appimage/)
 * [Ubuntu 20.04에 MacOS Catalina를 VirtualBox로 설치하기](https://devbull.xyz/ubuntu-20-04-macos/)
 * [절전 모드로 내려가는 우분투 머신](https://www.sysnet.pe.kr/Default.aspx?mode=0&sub=0&detail=1&pageno=0&wid=523&rssMode=1&wtype=0)
 * [절전 모드로 내려가는 우분투 머신](https://www.sysnet.pe.kr/0/0/523)
+* [AppArmor 란 무엇이며 Ubuntu를 어떻게 안전하게 유지합니까? - TheFastCode](https://www.thefastcode.com/ko-krw/article/what-is-apparmor-and-how-does-it-keep-ubuntu-secure)
+* [Inspecting coredumps like it's 2021](https://nixos.mayflower.consulting/blog/2021/09/06/coredumpctl/)
 * [marcokhan :: Ubuntu How to Kernel Compile](https://marcokhan.tistory.com/246)
 
 # Automation
@@ -309,6 +321,8 @@ Linux
   * [How to install software with Ansible | Opensource.com](https://opensource.com/article/20/9/install-packages-ansible)
   * [How To Write Ansible Playbooks | DigitalOcean](https://www.digitalocean.com/community/tutorial_series/how-to-write-ansible-playbooks)
   * [How Do Ansible Tags Work? - Percona Database Performance Blog](https://www.percona.com/blog/2020/04/27/how-do-ansible-tags-work/)
+  * [미리 알았으면 좋을 Ansible 테크닉들 | GeekNews](https://news.hada.io/topic?id=4907)
+  * [Using Ansible with REST APIs | Opensource.com](https://opensource.com/article/21/9/ansible-rest-apis)
 * [Bashible - a deployment/automation tool written in Bash (DSL). Inspired by Ansible. Simplifies things and prevents usual mistakes](https://github.com/mig1984/bashible)
 * [fabric](https://github.com/mathiasertl/fabric)
 * [Pulumi - Modern Infrastructure as Code](https://www.pulumi.com/) python
@@ -321,6 +335,7 @@ Linux
 * [더북(TheBook): 리눅스 서버를 다루는 기술](https://thebook.io/006718/)
 * [더북(TheBook): 모던 리눅스 관리](https://thebook.io/007021/) 1~4장만
 * [Just Enough Linux](https://leanpub.com/jelinux/read_full)
+* [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [Linux Terminal Tools 103p PDF | GeekNews](https://news.hada.io/topic?id=4194) [pdf](./pdfs/LPT_LISA.pdf)
 * [The Unix Workbench](https://leanpub.com/unix/read_full)
 
@@ -370,6 +385,7 @@ Linux
 * [리눅스 실무기술300](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-linux_practical_tech300-md)
 * [**8 super heroic Linux commands that you probably aren't using**](https://www.youtube.com/watch?v=Zuwa8zlfXSY)
 * [Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
+* [ANSI Escape Codes](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)
 * [**The Art of Command Line**](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md) 기초적인 부분을 거의 모두 정리해 놓은 매우 유용한 자료
 * [Command line reference – Database and OS scripting](https://ss64.com)
 * [Munging CSV files with standard Unix tools](https://www.johndcook.com/blog/2019/08/30/cut-sort-awk/) cut sort awk
@@ -399,8 +415,14 @@ Linux
 * [How to Test Network Speed in Linux {9 Tools} | phoenixNAP KB](https://phoenixnap.com/kb/linux-network-speed-test)
   * Speedtest, Fast, Color Bandwidth Meter (CBM), iPerf, nload, Tcptrack, Iftop, Wget, youtube-dl
 * [Linux / UNIX List Just Directories Or Directory Names - nixCraft](https://www.cyberciti.biz/faq/linux-list-just-directories-or-directory-names/) `ls -d */` `find . -type d -ls` `find . -d 1 -type d`
-* [modern-unix: A collection of modern/faster/saner alternatives to common unix commands](https://github.com/ibraheemdev/modern-unix#----bat--)
+* [modern-unix: A collection of modern/faster/saner alternatives to common unix commands](https://github.com/ibraheemdev/modern-unix)
   * bat exa lsd delta dust duf broot fd ripgrep ag fzf mcfly choose jq sd cheat tldr bottom glances gtop hyperfine gping procs httpie curlie xh zoxide dog
+  * [Modern Unix - 유닉스 명령들의 최신 대체제 | GeekNews](https://news.hada.io/topic?id=4784)
+* [6 Command Line Tools for Productive Programmers - Earthly Blog](https://earthly.dev/blog/command-line-tools/) broot, Funky, Fuzzy Finder (FZF), McFly, Better CD, GitUpdate, JQ, mitmproxy, Pandoc, PSTree, Earthly linting prose
+* [Efficient File Copying On Linux](https://eklitzke.org/efficient-file-copying-on-linux)
+* [What Linux Version Am I Running? Here's How to Find Out](https://linuxiac.com/what-linux-version/)
+* [신입 or Jr 엔지니어 면접을 위한 리눅스 명령어 top 10 - YouTube](https://www.youtube.com/watch?v=u9RukvKZJZM)
+* [bashcrawl · Learn Linux commands by playing a simple text adventure](https://gitlab.com/slackermedia/bashcrawl)
 * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
   * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
@@ -421,6 +443,10 @@ Linux
   * [Running Awk in parallel to process 256M records](https://ketancmaheshwari.github.io/posts/2020/05/24/SMC18-Data-Challenge-4.html)
   * [리눅스 awk 명령어 : 원하는 컬럼을 출력한다](https://codingdog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-awk-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%9B%90%ED%95%98%EB%8A%94-%EC%BB%AC%EB%9F%BC%EC%9D%84-%EC%B6%9C%EB%A0%A5%ED%95%9C%EB%8B%A4)
   * [awk: BEGIN { ... | Jemma Issroff](https://jemma.dev/blog/awk-part-1)
+  * [An Introduction to AWK – The New Stack](https://thenewstack.io/an-introduction-to-awk/)
+  * [Understanding AWK - Earthly Blog](https://earthly.dev/blog/awk-examples/)
+    *  awk가 어떻게 입력데이터의 행과 열을 다루는지 보여주고 아마존의 1,900만 개의 리뷰의 데이터를 awk로 처리해서 랭크를 매겨주는 프로그램 작성
+  * [aho: A git implementation in awk](https://github.com/djanderson/aho)
 * `basename` get file name from path
   * e.g. `$ basename /tmp/mdstat.tmp .tmp` returns `mdstat`
 * `bc`
@@ -527,6 +553,7 @@ Linux
   * [How to find the largest directories or largest files?](https://superuser.com/questions/276487/how-to-find-the-largest-directories-or-largest-files)
   * [컴퓨터 vs 책: 5분 따라하기 리눅스에서 용량을 가장 많이 차지하는 파일/디렉토리 찾기](https://jhrogue.blogspot.com/2020/06/5.html)
   * [Replace du with dust on Linux | Opensource.com](https://opensource.com/article/21/6/dust-linux)
+  * [Check used disk space on Linux with du | Opensource.com](https://opensource.com/article/21/7/check-disk-space-linux-du)
 * `echo`
   * `echo -e "..."` ['echo' without newline in a shell script](http://stackoverflow.com/questions/11193466/echo-without-newline-in-a-shell-script)
 * `find`
@@ -603,6 +630,9 @@ Linux
   * [Play with Netcat in Ubuntu](https://www.unixmen.com/play-with-netcat-in-ubuntu/)
   * [네트워크 해킹계의 맥가이버칼이 있다? netcat (넷캣) 1편](https://www.youtube.com/watch?v=B1z8bW7_s1A)
   * [**Streamhut - stream your terminal Share your terminal in real-time with anyone — without installing anything**](https://streamhut.io/)
+    * [Streamhut - Terminal을 스트리밍 하기 | GeekNews](https://news.hada.io/topic?id=2206)
+  * [TStream - Streaming from terminal](https://www.tstream.club/)
+    * [TStream - 자신의 터미널을 라이브 스트리밍 | GeekNews](https://news.hada.io/topic?id=4727)
 * nm
   * [How do I list the symbols in a .so file](http://stackoverflow.com/questions/34732/how-do-i-list-the-symbols-in-a-so-file)
 * nmap
@@ -615,6 +645,7 @@ Linux
   * [practice - ntpd, ntpdate, ntpq](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-ntp-md)
   * [RHEL, CentOS에서 ntp 서버 설정하기(사설망 내부 서버들의 시간 동기화)](http://hook.tistory.com/entry/RHEL-CentOS%EC%97%90%EC%84%9C-ntp-%EC%84%9C%EB%B2%84-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0%EC%82%AC%EC%84%A4%EB%A7%9D-%EB%82%B4%EB%B6%80-%EC%84%9C%EB%B2%84%EB%93%A4%EC%9D%98-%EC%8B%9C%EA%B0%84-%EB%8F%99%EA%B8%B0%ED%99%94)
   * [Building a more accurate time service at Facebook scale](https://engineering.fb.com/production-engineering/ntp-service/) chrony
+  * [2012년에 비트윈 서버를 마비시켰던 윤초 이야기 - VCNC Engineering Blog](https://engineering.vcnc.co.kr/2016/12/struggling-with-the-leap-second/)
 * `objdump` / `gobjdump` (OS X)
   * [practice](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
 * `paste` `paste [-s] [-d<delimiter>] <file 1> <file 2> ... <file n>`
@@ -635,6 +666,7 @@ Linux
 * `ps`
   * `ps -T -p <process num>` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
   * `diff <(ps -aux) <(ps -ux)` [linux process substitution이 어떻게 동작하는지 간단하게 알아봅시다](https://codingdog.tistory.com/entry/linux-process-substitution%EC%9D%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EC%A7%80-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
+  * [Monitor your Linux system in your terminal with procps-ng | Opensource.com](https://opensource.com/article/21/8/linux-procps-ng) ps and pstree, pidof, pgrep
   * [ProcMon-for-Linux: Procmon is a Linux reimagining of the classic Procmon tool from the Sysinternals suite of tools for Windows. Procmon provides a convenient and efficient way for Linux developers to trace the syscall activity on the system](https://github.com/Sysinternals/ProcMon-for-Linux/) process monitor
 * [pushd and popd - Linux Shell Scripting Essentials](https://www.oreilly.com/library/view/linux-shell-scripting/9781785284441/ch03s11.html)
 * `pwd`
@@ -646,12 +678,14 @@ Linux
   * [You are here: Home / Guides / Explained: Input, Output and Error Redirection in Linux Explained: Input, Output and Error Redirection in Linux](https://linuxhandbook.com/redirection-linux)
   * [리다이렉션(redirection), 파이프(pipe)의 개념 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/linux-redirection/)
   * [Do Not Use '>' in Your Command Prompt (and How to Stay Safe in Shell) | Tanel Poder Consulting](https://tanelpoder.com/posts/how-to-stay-safe-in-shell/)
+  * [Illustrated Redirection Tutorial - Bash Hackers Wiki](https://wiki.bash-hackers.org/howto/redirection_tutorial)
 * `rm`
   * [How to Recover a Deleted File in Linux](https://www.tecmint.com/recover-deleted-file-in-linux/)
 * `rsync`
   * `rsync -avz --rsh="ssh -l [id]" [ip]:[src path] [dst path]`
     * daemon / ssh 방식 두 가지가 있는데, ssh의 경우 ssh public key를 추가해야 접속이 가능
   * [ssh 를 이용한 rsync 및 스크립트](http://blueamor.tistory.com/190)
+  * [RSYNC 리눅스 서버 자동 백업하기](https://www.runit.cloud/2020/06/bash-rsync.html)
   * [rclone "rsync for cloud storage" - Google Drive, Amazon Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Cloudfiles, Google Cloud Storage, Yandex Files https://rclone.org ](https://github.com/rclone/rclone)
 * `sar`
   * [practice - 지난 30일간 average CPU load만 모아서 그 평균을 계산](https://gist.github.com/hyunjun/af9868ec793c43a4f146ea2409190d00#file-sar-md)
@@ -673,6 +707,7 @@ Linux
   * [**서버에 걸리는 부하, 추측하지 말고 계측하자**](https://injae-kim.github.io/dev/2020/07/09/how-to-check-single-server-load-average.html) CPU, I/O bound
   * [Load Average에 대하여 :: Lunatine's Box — Lunatine's Box](https://lunatine.net/2016/02/19/about-load-average/)
   * [Network Monitoring using SAR. In this blog we will have a look at how… | by Malith Jayasinghe | Medium](https://medium.com/@malith.jayasinghe/network-monitoring-using-sar-37bab6ce9f68)
+* `scp` [How to Perform a Remote Linux Backup Using SSH](https://www.linuxshelltips.com/remote-linux-backup/)
 * `sed`
   * `find . -iname "*.java" -exec sed -i '' 's/[[:space:]]*$//' {} +` 특정 확장자 파일의 trailing whitespace를 sed로 제거
     * [find & sed (search and replace) - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/36795/find-sed-search-and-replace)
@@ -691,6 +726,7 @@ Linux
   * [Sed One-Liners Explained, Part I: File Spacing, Numbering and Text Conversion and Substitution](https://catonmat.net/sed-one-liners-explained-part-one)
   * [shell script 작성시 sed 치환패턴 문자열 escapse](https://bloodguy.tistory.com/entry/Linux-shell-script-%EC%9E%91%EC%84%B1%EC%8B%9C-sed-%EC%B9%98%ED%99%98%ED%8C%A8%ED%84%B4-%EB%AC%B8%EC%9E%90%EC%97%B4-escapse)
   * [sed를 살펴보자! sed 명령어 사용법과 예시, 패턴 스페이스와 홀드 스페이스, 유용 표현](https://jhnyang.tistory.com/287)
+  * [Replace smart quotes with the Linux sed command | Opensource.com](https://opensource.com/article/21/9/sed-replace-smart-quotes)
   * [sed-bin: sed to C translator written in sed](https://github.com/lhoursquentin/sed-bin)
 * [`seq`](http://www.delorie.com/gnu/docs/textutils/coreutils_156.html)
   * `seq -f '%05g' [start number] [end number]` format string %e, %g, %f
@@ -718,6 +754,7 @@ Linux
     * `ssh -L 15673:localhost:15672 <server>` e.g. rabbitmq의 web interface를 보고 싶은데, server에서 정책상 허용을 안 하면 내 localhost로 port forwarding을 해서 localhost:15673로 접속 가능
   * [SSH Tunneling | The Linux Rain](https://www.thelinuxrain.com/articles/ssh-tunneling)
   * [Visual guide to SSH tunnels](https://robotmoon.com/ssh-tunnels/)
+  * [What is SSH Tunneling, SSH Reverse Tunneling and SSH Port Forwarding? | Teleport](https://goteleport.com/blog/ssh-tunneling-explained/)
   * [SSH PORT](https://www.ssh.com/ssh/port)
   * [SSH Handshake Explained](https://gravitational.com/blog/ssh-handshake-explained/)
   * [SSH Tips & Tricks](https://smallstep.com/blog/ssh-tricks-and-tips/)
@@ -726,6 +763,8 @@ Linux
   * [Private/Public 키 쉽게 다루기 - YouTube](https://www.youtube.com/watch?v=cKfd_BmJzHE)
   * [endlessh: SSH tarpit that slowly sends an endless banner](https://github.com/skeeto/endlessh)
   * [lazyssh: A jump-host SSH server that starts machines on-demand](https://github.com/stephank/lazyssh)
+  * OpenSSH [How to List Unsuccessful SSH Logins on Linux](https://www.howtoforge.com/how-to-list-unsuccessful-ssh-logins)
+  * ssh-agent [The pitfalls of using ssh-agent, or how to use an agent safely](https://rabexc.org/posts/pitfalls-of-ssh-agents)
   * ZeroSSL [Introducing another free CA as an alternative to Let's Encrypt](https://scotthelme.co.uk/introducing-another-free-ca-as-an-alternative-to-lets-encrypt/)
 * `ssh-copy-id` `ssh-copy-id -i ~/.ssh/id_rsa.pub id@host`
 * `stat`
@@ -782,8 +821,12 @@ Linux
   * [**tcpdump를 활용한 타임아웃 분석**](https://brunch.co.kr/@alden/38)
   * [Tcpdump Examples](https://hackertarget.com/tcpdump-examples/)
   * [tcpdump 기본 사용법](http://jojoldu.tistory.com/316)
+* `tee`
+  * [리눅스 tee 명령어 : 여러 파일과 표준 출력에 결과를 쓸 때 이용한다.](https://codingdog.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-tee-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%97%AC%EB%9F%AC-%ED%8C%8C%EC%9D%BC%EA%B3%BC-%ED%91%9C%EC%A4%80-%EC%B6%9C%EB%A0%A5%EC%97%90-%EA%B2%B0%EA%B3%BC%EB%A5%BC-%EC%93%B8-%EB%95%8C-%EC%9D%B4%EC%9A%A9%ED%95%9C%EB%8B%A4)
 * `telnet`
   * [telnet과 ssh가 어떻게 패킷을 날리는지 간단하게 실습해 봅시다](https://codingdog.tistory.com/entry/telnet%EA%B3%BC-ssh%EA%B0%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%8C%A8%ED%82%B7%EC%9D%84-%EB%82%A0%EB%A6%AC%EB%8A%94%EC%A7%80-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%8B%A4%EC%8A%B5%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
+* `time`
+  * [`time(1)` and CPU frequency scaling](https://www.uninformativ.de/blog/postings/2021-07-14/0/POSTING-en.html)
 * `top`
   * [Can You Top This? 15 Practical Linux Top Command Examples](http://www.thegeekstuff.com/2010/01/15-practical-unix-linux-top-command-examples/)
   * [catching top waits – domas mituzas](https://dom.as/2020/07/06/catching-top-waits/)
@@ -793,7 +836,9 @@ Linux
   * `top -H` [How to view threads of a process on Linux](http://ask.xmodulo.com/view-threads-process-linux.html)
   * `top -H -p <PID>` [How to get the number of threads in a Java process](https://stackoverflow.com/questions/1922290/how-to-get-the-number-of-threads-in-a-java-process)
   * [bashtop - Awesome Linux resource monitor - nixCraft](https://www.cyberciti.biz/open-source/command-line-hacks/bashtop-awesome-linux-resource-monitor-tool/)
-  * [bpytop - Awesome Linux, macOS and FreeBSD resource monitor - nixCraft](https://www.cyberciti.biz/open-source/command-line-hacks/bpytop-awesome-linux-macos-and-freebsd-resource-monitor/)
+  * [bpytop: Linux/OSX/FreeBSD resource monitor](https://github.com/aristocratos/bpytop)
+    * [bpytop - Awesome Linux, macOS and FreeBSD resource monitor - nixCraft](https://www.cyberciti.biz/open-source/command-line-hacks/bpytop-awesome-linux-macos-and-freebsd-resource-monitor/)
+  * [btop: A monitor of resources](https://github.com/aristocratos/btop)
   * htop
     * [2019년 11월 10일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-11-10.html)
     * [User power, not power users: htop and its design philosophy « hisham.hm](https://hisham.hm/2020/12/18/user-power-not-power-users-htop-and-its-design-philosophy/)
@@ -810,6 +855,7 @@ Linux
     * [sed replace newline (or 5 ways to remove line breaks with sed, python, tr, perl, xargs) 1](http://slash4.net/blog/python/sed-replace-newline-or-python-awk-tr-perl-xargs.html)
 * `trace`
   * [Choosing a Linux Tracer (2015)](http://www.brendangregg.com/blog/2015-07-08/choosing-a-linux-tracer.html)
+  * [Analyze the Linux kernel with ftrace | Opensource.com](https://opensource.com/article/21/7/linux-kernel-ftrace)
 * `truncate`
   * [지정된 크기의 더미 파일 만들기 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/soojung/dev/2020/08/23/864.html)
 * `uname`
@@ -829,6 +875,8 @@ Linux
 * `xargs`
   * [10 Xargs Command Examples in Linux / UNIX](https://www.thegeekstuff.com/2013/12/xargs-examples/)
   * [xargs를 사용하여 이름에 공백과 따옴표가있는 파일을 복사하려면 어떻게해야합니까?](https://ko.programqa.com/question/143171/)
+  * [xargs considered harmful - by Tyler Adams - CodeFaster](https://codefaster.substack.com/p/xargs-considered-harmful)
+  * [An Opinionated Guide to xargs](https://www.oilshell.org/blog/2021/08/xargs.html)
 * [`xxd`](https://linux.die.net/man/1/xxd)
   * 0, 1에 대한 bit format 출력
     * `xxd -b (Filename) > BINARY.bin` 현재 디렉토리에 BINARY.bin 파일 생성
@@ -901,18 +949,24 @@ Linux
 * [Timers in the Linux kernel](https://github.com/0xAX/linux-insides/blob/master/Timers/timers-1.md)
 * [Writing a Simple Linux Kernel Module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
 * [Initialization](https://github.com/0xAX/linux-insides/tree/master/Initialization)
-* [The Linux Kernel Module Programming Guide](http://www.tldp.org/LDP/lkmpg/2.6/html/index.html)
+* [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [Kernel bypass](https://blog.cloudflare.com/kernel-bypass/)
 * [Linux kernel development](https://github.com/0xAX/linux-insides/blob/master/Misc/contribute.md)
 * [BPF / XDP 8월 세미나 KossLab](https://www.slideshare.net/TaeungSong/bpf-xdp-8-kosslab)
 * [TIL: eBPF is awesome](https://filipnikolovski.com/posts/ebpf/)
 * [How To Add eBPF Observability To Your Product](https://brendangregg.com/blog/2021-07-03/how-to-add-bpf-observability.html)
+* [eBPF 재단 출범 | GeekNews](https://news.hada.io/topic?id=4816)
+* [Debugging with eBPF Part 1: Tracing Go function arguments in prod | Pixie Labs Blog](https://blog.px.dev/ebpf-function-tracing/)
+* [Debugging with eBPF Part 2: Tracing full body HTTP request/responses | Pixie Labs Blog](https://blog.px.dev/ebpf-http-tracing/)
+* [Debugging with eBPF Part 3: Tracing SSL/TLS connections | Pixie Labs Blog](https://blog.px.dev/ebpf-openssl-tracing/)
 * [**Interactive map of Linux kernel**](https://makelinux.github.io/kernel/map/)
 * [Submitting your first patch to the Linux kernel - Cristian Henrique - Medium](https://medium.com/@crhenr/submitting-your-first-patch-to-the-linux-kernel-e81d2541fac6)
 * [Getting started with Linux kernel development](https://gist.github.com/vegard/22200a9f91af138a99ae22a9b814a9a4)
 * [kkamagui의 작업실 :: 리눅스 커널 모듈(Linux kernel module) 설치 시 모듈 사이즈 줄이기](https://kkamagui.tistory.com/940)
 * [kkamagui의 작업실 :: 리눅스 커널 다시 컴파일 후 그래픽 모드 전환 오류 해결 방법](https://kkamagui.tistory.com/941)
 * [리눅스 커널 모듈 작성 – Place Of 42Seoul Story](https://42place.innovationacademy.kr/archives/7025)
+* [30 things you didn't know about the Linux kernel | Opensource.com](https://opensource.com/article/21/8/linux-kernel)
+* [Modifying The Linux Kernel – New Syscalls – Coding Kaiser](https://codingkaiser.blog/2021/07/17/create-your-own-system-calls%e2%80%8a-%e2%80%8aprocess-weights/)
 
 ## Kernel Interrupt
 * [Interrupts and Interrupt Handling](https://github.com/0xAX/linux-insides/tree/master/interrupts)
@@ -931,6 +985,8 @@ Linux
 * [20 productivity tools for the Linux terminal](https://opensource.com/article/20/6/productivity-tools-linux-terminal)
 * [Linux Terminal Tools](https://ketancmaheshwari.github.io/pdfs/LPT_LISA.pdf) [pdf](pdfs/LPT_LISA.pdf)
 * [4 Best Terminal Browsers for Linux Command Line](https://itsfoss.com/terminal-web-browsers/) W3M, Lynx, Links2, eLinks
+* [Top 7 terminal emulators for Linux | Opensource.com](https://opensource.com/life/17/10/top-terminal-emulators)
+  * GNOME terminal, Guake, guake, Konsole, konsolee, Terminator, Tilda, Xterm, Yakuake
 * [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
 * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
 * [alacritty - A cross-platform, GPU-accelerated terminal emulator](https://github.com/alacritty/alacritty)
@@ -951,15 +1007,19 @@ Linux
   * [폴더별 환경 관리를 위한 direnv](https://blog.outsider.ne.kr/1306)
   * [direnv로 디렉토리(프로젝트) 별 개발환경 구축하기 - 루비(Ruby), 파이썬(Python), 노드(Node) 개발 환경 구축](https://www.44bits.io/ko/post/direnv_for_managing_directory_environment)
   * [direnv – unclutter your .profile | direnv](https://direnv.net/)
+* [doslinux: Run Linux programs on DOS](https://github.com/haileys/doslinux)
 * [duf: Disk Usage/Free Utility](https://github.com/muesli/duf)
 * [elfcat: ELF visualizer. Generates HTML files from ELF binaries](https://github.com/ruslashev/elfcat)
 * [**entr - A utility for running arbitrary commands when files change**](https://github.com/clibs/entr)
 * [FireHOL(firewall) and FireQOS(traffic shaping)](http://firehol.org/)
 * [fuck - thefuck: Magnificent app which corrects your previous console command](https://github.com/nvbn/thefuck)
 * [fzf](https://github.com/junegunn/fzf)
-  * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
   * [fzf 좋으다](https://engineering.huiseoul.com/fzf-%EC%A2%8B%EC%9C%BC%EB%8B%A4-76fa97578794)
   * [Why you should be using fzf, the command line fuzzy finder](https://medium.freecodecamp.org/fzf-a-command-line-fuzzy-finder-missing-demo-a7de312403ff)
+  * [fzf-fs - Simple file browsing/navigation with https://github.com/junegunn/fzf](https://github.com/D630/fzf-fs)
+  * [fzf-for-js: Do fuzzy matching using FZF algorithm in JavaScript](https://github.com/ajitid/fzf-for-js)
+    * [FZF for JavaScript - 브라우저에서도 퍼지 검색을 | GeekNews](https://news.hada.io/topic?id=4695)
+  * [sysz: An fzf terminal UI for systemctl](https://github.com/joehillen/sysz)
 * [hello — helloSystem experimental documentation](https://hellosystem.github.io/docs/)
 * htop [htop explained](https://peteris.rocks/blog/htop/)
 * [i3 - improved tiling wm](https://i3wm.org/)
@@ -977,7 +1037,6 @@ Linux
 * [Keep : A personal shell command keeper](https://hackernoon.com/keep-a-personal-shell-command-keeper-dac3ab488626)
 * [kime: Korean IME](https://github.com/Riey/kime)
 * [Lightning is a tool designed to allow you to find and open files as fast as physically possible](https://github.com/fouric/lightning-cd)
-* [lima: Lima: Linux-on-Mac ("macOS subsystem for Linux", "containerd for Mac")](https://github.com/AkihiroSuda/lima)
 * [Linuxbrew - a fork of Homebrew, the Mac OS package manager, for Linux](https://github.com/Linuxbrew/brew)
   * [Linuxbrew A fork of Homebrew for Linux](http://brew.sh/linuxbrew/)
 * [loadlibrary - Porting Windows Dynamic Link Libraries to Linux](https://github.com/taviso/loadlibrary)
@@ -988,6 +1047,7 @@ Linux
 * [Mininet - An Instant Virtual Network on your Laptop](http://mininet.org/)
 * [MinIO Client - a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. https://min.io/download ](https://github.com/minio/mc)
 * [Mosh: the mobile shell](https://mosh.org/)
+  * [Mosh : Mobile Shell - 진화된 SSH | GeekNews](https://news.hada.io/topic?id=4810)
 * ngrok [외부 네트워크에서 localhost로 접속 - ngrok](https://jybaek.tistory.com/798)
 * [netmap - the fast packet I/O framework](http://info.iet.unipi.it/~luigi/netmap/)
 * [nextspace - NeXTSTEP-like desktop environment for Linux https://trunkmaster.github.io ](https://github.com/trunkmaster/nextspace)
@@ -995,8 +1055,10 @@ Linux
 * [noah - Bash on Ubuntu on macOS](https://github.com/linux-noah/noah/)
 * [NsJail - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf](http://google.github.io/nsjail/)
 * [Oh-My-Zsh is an open source, community-driven framework for managing your ZSH configuration](http://ohmyz.sh/)
+* [pam-duress: A Pluggable Authentication Module (PAM) which allows the establishment of alternate passwords that can be used to perform actions to clear sensitive data, notify IT/Security staff, close off sensitive network connections, etc if a user is coerced into giving a threat actor a password](https://github.com/nuvious/pam-duress)
 * [Pass: The Standard Unix Password Manager](https://www.passwordstore.org/)
 * [πfs - the data-free filesystem!](https://github.com/philipl/pifs)
+  * [압축률이 100%에 가까운 원주율 파일 시스템 | GeekNews](https://news.hada.io/topic?id=4624)
 * [pig - A Linux packet crafting tool](https://github.com/rafael-santiago/pig)
 * [prm - A minimal project manager for the terminal](https://github.com/eivind88/prm)
 * [**pxi (pixie) - a small, fast, and magical command-line data processor similar to jq, mlr, and awk**](https://github.com/Yord/pxi)
@@ -1005,7 +1067,6 @@ Linux
 * rdiff-backup
   * [What's new with rdiff-backup? | Opensource.com](https://opensource.com/article/20/9/rdiff-backup-linux)
   * [Manage your Linux backups with Rdiffweb | Opensource.com](https://opensource.com/article/20/10/rdiffweb)
-* rsyslog [Monitoring Linux Logs with Kibana and Rsyslog | by Antoine Solnichkin | devconnected — DevOps, Sysadmins & Engineering | Medium](https://medium.com/schkn/monitoring-linux-logs-with-kibana-and-rsyslog-4dfbbd287807)
 * [RTail - Terminal output to the browser in seconds, using UNIX pipes](http://rtail.org/)
 * [SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal](https://github.com/andmarti1424/sc-im)
 * [shed - the sh editor](https://github.com/mplewis/shed)
@@ -1014,6 +1075,7 @@ Linux
 * [snappy-start: Tool for process startup snapshots](https://github.com/google/snappy-start)
 * [spaceman-diff - Diffing Images on the Command Line](http://zachholman.com/posts/command-line-image-diffs/)
 * [sshync - Auto-sync files or directories over SSH using fs.watch()](https://github.com/mateogianolio/sshync)
+* [toybox: all-in-one Linux command line](https://github.com/landley/toybox)
 * [trash-cli - Command Line Interface to FreeDesktop.org Trash](https://github.com/andreafrancia/trash-cli)
 * [ugrep: 🔍NEW ugrep v3.1: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4), documents and more. A faster, user-friendly and compatible grep replacement](https://github.com/Genivia/ugrep)
 * [unetbootin.github.io - create bootable Live USB drives](http://unetbootin.github.io/)
@@ -1021,10 +1083,16 @@ Linux
   * [up - Ultimate Plumber | GeekNews](https://news.hada.io/topic?id=3989)
 * [VTM | Text-based Desktop Environment, aka Monotty Desktop (desktopio)](https://vtm.netxs.online/)
 * Wayland [Think twice before abandoning Xorg. Wayland breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
+* [Warp—The blazingly fast, Rust-based terminal](https://www.warp.dev/)
 * [X2GO: Linux Remote Desktop & Terminal Server System With Support For Published Applications](https://www.youtube.com/watch?v=oSuy1TS8FGs)
 * [Xmobar updates from ZuriHac](https://psibi.in/posts/2020-06-16-xmobar-zurihac.html)
 * [xrdp - an open source RDP server](https://github.com/neutrinolabs/xrdp)
+* Xterm [The Xterm Window Manager Homepage](https://xtermwm.sourceforge.io/)
 * [zindex - Create an index on a compressed text file](https://github.com/mattgodbolt/zindex)
+
+# Log
+* [11. 로그관리, systemd-journald, rsyslogd, journalctl, syslog, journal :: 0부터 시작하는 해킹공부](https://haker.tistory.com/52)
+* rsyslog [Monitoring Linux Logs with Kibana and Rsyslog | by Antoine Solnichkin | devconnected — DevOps, Sysadmins & Engineering | Medium](https://medium.com/schkn/monitoring-linux-logs-with-kibana-and-rsyslog-4dfbbd287807)
 
 # Memory
 * Buffer and Cache
@@ -1060,6 +1128,8 @@ Linux
 * [Beej's Guide to Network Programming Using Internet Sockets](http://beej.us/guide/bgnet/)
   * [html](http://beej.us/guide/bgnet/output/html/multipage/index.html)
 * [데이터 고속전송 가이드](https://wiki.kreonet.net/faster-data)
+* [Weeknotes: Fun with Unix domain sockets](https://simonwillison.net/2021/Jul/13/unix-domain-sockets/)
+* [Linux Kernel network (networking stack)](https://pr0gr4m.tistory.com/entry/Linux-Kernel-network-networking-stack)
 
 # Shell
 * [Bash Shortcuts Gem](http://zwischenzugs.tk/index.php/2015/07/01/bash-shortcuts-gem/)
@@ -1104,6 +1174,8 @@ Linux
 * IPC
   * [Beej's Guide to Unix IPC](http://beej.us/guide/bgipc/output/html/multipage/index.html)
   * [Interprocess Communication in the Ninth Edition Unix System](http://cm.bell-labs.co/who/dmr/ipcpaper.html)
+  * [운영체제의 IPC 이론 설명과 실습. 프로세스를 통해 보는 IPC 이론 설명과 실습 코드로 이론 학습 내용… | by Ryan Kim | Jul, 2021 | Medium](https://equus3144.medium.com/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98-ipc-%EC%9D%B4%EB%A1%A0-%EC%84%A4%EB%AA%85%EA%B3%BC-%EC%8B%A4%EC%8A%B5-6098a445ecff)
+    * [COSE341-Operating-System/assignment/05_ipc_project at master · RyanKor/COSE341-Operating-System](https://github.com/RyanKor/COSE341-Operating-System/tree/master/assignment/05_ipc_project)
 * [runit - a UNIX init scheme with service supervision](http://smarden.org/runit/)
 * Thread
   * [Raw Linux Threads via System Calls](http://nullprogram.com/blog/2015/05/15/)

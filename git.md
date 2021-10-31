@@ -18,6 +18,7 @@ Git
     * → 로컬 브랜치 삭제하기
 * [Explain Git with D3](https://onlywei.github.io/explain-git-with-d3/)
 * [git - 간편 안내서](https://rogerdudler.github.io/git-guide/index.ko.html)
+* [Git / GitHub 안내서](https://subicura.com/git/)
 * [Git 분산버전 관리시스템](https://www.gitbook.com/book/mylko72/git/details)
 * [Introduction to Git - Core Concepts - YouTube](https://www.youtube.com/watch?v=uR6G2v_WsRA)
 * [Introduction to Git - Branching and Merging - YouTube](https://www.youtube.com/watch?v=FyAAIHHClqI)
@@ -39,7 +40,6 @@ Git
 * [Unpacking Git packfiles](https://codewords.recurse.com/issues/three/unpacking-git-packfiles/)
 * [Scripts to Rule Them All](http://githubengineering.com/scripts-to-rule-them-all/)
 * [Git as a Document Format](https://realm.io/news/altconf-wil-shipley-git-document-format/)
-* [GitHub Pages 도메인 네임 설정 하기](http://blog.saltfactory.net/github/setting-domain-name-in-github-pages-via-cname.html)
 * [깃허브 페이지에 커스텀 도메인 연결하기](https://blog.rajephon.dev/2019/03/01/github-custom-domain-with-cloudflare/)
 * [UNIVERSE - Two full days on how to build, collaborate, and deploy great software presented by GitHub](http://githubuniverse.com/)
 * [GitHub Universe 2019 참석기](https://blog.outsider.ne.kr/1469)
@@ -73,6 +73,10 @@ Git
   * [Part3 - ZenHub 사용법](https://www.popit.kr/github%EB%A1%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-part3-zenhub-%EC%82%AC%EC%9A%A9%EB%B2%95/)
 * [GitHub Repo 에 Travis CI 추가하기](http://inspiredjw.com/entry/GitHub-Repo-%EC%97%90-Travis-CI-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0)
 * [About Travis CI](https://medium.com/@yoonjs2/about-travis-ci-65b04d3dead6)
+* [Travis CI flaw exposed secrets of thousands of open source projects | Ars Technica](https://arstechnica.com/information-technology/2021/09/travis-ci-flaw-exposed-secrets-for-thousands-of-open-source-projects/)
+  * Travis CI가 9월 3일부터 9월 10일까지 Trvis CI를 사용하는 GitHub 저장소에서 Pull Request 빌드에 모든 시크릿 환경변수(서명 키, 접근 인증서, API 토큰 등 포함)를 주입하는 보안 사고
+  * 보통 저장소에서 CI 빌드를 할 때 필요한 시크릿을 설정해서 사용하지만 어떤 악의적인 코드가 포함될지 모르는 Pull Request를 빌드할 때는 이러한 시크릿을 추가하지 않기 때문에 시크릿이 Pull Request에 노출되었다는 것은 외부에 유출되었을 가능성이 있다는 의미
+  * Travis CI에서 시크릿을 쓰고 있다면 키 갱신 필요
 * [Travis Continuous deployment for your open source library](https://leobenkel.com/2019/09/travis-continuous-deployment/)
 * [Travis에서 조금 더 괜찮은 방법으로 .env 다루기 | 강준영 기술 블로그](https://juneyoung.io/devops-better-way-to-handle-env-in-travis-210308)
 * [알아두면 좋은 GIT 꿀팁 3개](https://brunch.co.kr/@sydneyitguy/5)
@@ -101,6 +105,7 @@ Git
   * [코드 리뷰 방법(2)](http://d2.naver.com/helloworld/9767525)
   * [CI 연동, SVN 마이그레이션](http://d2.naver.com/helloworld/6952033)
   * [gerrit query로 리뷰 데이터 추출하기](http://sunphiz.me/wp/archives/3262)
+* [GitHub으로 협업하기: 클론부터 코드 리뷰까지 | ~/xo.dev](https://xo.dev/github-collaboration-guide/)
 * [주기적으로 git 저장소에서 코드 가져오는 쉘](http://blog.doortts.com/281)
 * [깃의 Detached HEAD](http://sunphiz.me/wp/archives/2266)
 * [Git 커밋, 브랜치, HEAD의 관계는?](https://blog.naver.com/codeitofficial/221941216489)
@@ -146,6 +151,7 @@ Git
 * [What not to save into a Git repository](https://medium.freecodecamp.org/what-not-to-save-into-a-git-repository-29779ee94b96)
 * [How to use GitHub as a PyPi server](https://medium.freecodecamp.org/how-to-use-github-as-a-pypi-server-1c3b0d07db2)
 * [The Biggest Misconception About Git](https://medium.com/@gohberg/the-biggest-misconception-about-git-b2f87d97ed52)
+* [Picturing Git: Conceptions and Misconceptions - BiTE Interactive](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/)
 * [The Google Doc of Coding: Git & GitHub](https://medium.freecodecamp.org/the-google-doc-of-coding-git-github-ec103e87926d)
 * [How to be more productive on GitHub](https://medium.freecodecamp.org/how-to-be-more-productive-on-github-c3cedab043e3)
 * [Mac OS X 터미널에서 Git 패스워드 기억하기](https://medium.com/happyprogrammer-in-jeju/mac-os-x-%ED%84%B0%EB%AF%B8%EB%84%90%EC%97%90%EC%84%9C-git-%ED%8C%A8%EC%8A%A4%EC%9B%8C%EB%93%9C-%EA%B8%B0%EC%96%B5%ED%95%98%EA%B8%B0-5675d58a60cd)
@@ -157,9 +163,12 @@ Git
 * [GitHub Actions에서 GitHub Container Registry에 이미지 푸시하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1531)
 * [**Git 계정 여러 개 동시 사용하기**](https://blog.outsider.ne.kr/1448)
 * [README.md 10초만에 깔끔하게 만드는 법](https://gomcine.tistory.com/entry/READMEmd-10%EC%B4%88%EB%A7%8C%EC%97%90-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95?category=624615)
+* [fiddly: Create beautiful and simple HTML pages from your Readme.md files](https://github.com/SaraVieira/fiddly)
+  * [Fiddly - Readme를 예쁜 웹페이지로 만들기 | GeekNews](https://news.hada.io/topic?id=4688)
 * [Unlocking GitHub's Hidden Feature in 3 Minutes - YouTube](https://www.youtube.com/watch?v=0_RDoNJ1zGg)
 * [Github Profile Readme로 프로필 꾸미기 · 어쩐지 오늘은](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/)
 * [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)
+* [README Badge를 커스텀 해보자!](https://velog.io/@juunini/README-Badge%EB%A5%BC-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%95%B4%EB%B3%B4%EC%9E%90)
 * [Bitbucket 쉽게 시작하는 방법 & 사용법](https://blog.naver.com/silvury14/220918267535)
 * [기존 프로젝트를 Bitbucket과 SourceTree로 올려보자](https://developer88.tistory.com/65)
 * [Github Two Factor 인증 설정하기 (feat. Authenticator)](https://jojoldu.tistory.com/449)
@@ -170,6 +179,7 @@ Git
 * [GPG(GNU PG)를 이용해 git 커밋에 서명하는 방법 | 44BITS](https://www.44bits.io/ko/post/add-signing-key-to-git-commit-by-gpg)
 * [git 다중 사용자 신원 설정](http://jhrogue.blogspot.com/2020/04/5-git.html)
 * [How to Work with GitHub and Multiple Accounts](https://gist.github.com/JoaquimLey/e6049a12c8fd2923611802384cd2fb4a)
+* [여러 깃헙 계정을 SSH 방식으로 사용하는 방법 :: 시행착오를 줄이는 방법](https://dataportal.kr/7)
 * [Setting Up Git Identities](https://www.micah.soy/posts/setting-up-git-identities/)
 * [**10 Extraordinary GitHub Repos for All Developers**](https://medium.com/better-programming/10-extraordinary-github-repos-for-all-developers-939cdeb28ad0)
 * [GitHub Protips: Tips, tricks, hacks, and secrets from Lee Reilly](https://github.blog/2020-04-09-github-protips-tips-tricks-hacks-and-secrets-from-lee-reilly/)
@@ -185,8 +195,6 @@ Git
 * [GitHub 아이디/패스워드 입력 없이 사용하는 방법](https://kibua20.tistory.com/88)
 * [rest-api-description: An OpenAPI description for GitHub's REST API](https://github.com/github/rest-api-description)
 * [practice - github api to get PR review time's 90 percentile](https://github.com/hyunjun/practice_private/blob/ea459fdebaf28d580f332d863807c2bf69ed75e5/agoda/get_pr_90.py)
-* [GitHub Codespaces 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1497)
-* [GitHub Codespaces의 개발 환경 설정하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1509)
 * [How a one line change decreased our clone times by 99% | by Pinterest Engineering | Pinterest Engineering Blog | Oct, 2020 | Medium](https://medium.com/pinterest-engineering/how-a-one-line-change-decreased-our-build-times-by-99-b98453265370)
 * [The Easiest Way To Remove Checked In Credentials From A Git Repo | by Tanmay Deshpande | Medium](https://medium.com/@tanmay.avinash.deshpande/the-easiest-way-to-remove-checked-in-credentials-from-a-git-repo-704a373b94e3)
 * [Git push 결과물이 Github 잔디에 반영이 안될 때 해결하기 | by Ryan Kim | Nov, 2020 | Medium](https://equus3144.medium.com/git-push-%EA%B2%B0%EA%B3%BC%EB%AC%BC%EC%9D%B4-github-%EC%9E%94%EB%94%94%EC%97%90-%EB%B0%98%EC%98%81%EC%9D%B4-%EC%95%88%EB%90%A0-%EB%95%8C-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-5968a988b212)
@@ -209,10 +217,20 @@ Git
 * [What’s wrong with Git? A conceptual design analysis | the morning paper](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
 * [Git as a NoSql database](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/)
 * [Scaling monorepo maintenance | The GitHub Blog](https://github.blog/2021-04-29-scaling-monorepo-maintenance/)
-* [Spoqa 기술 블로그 | Semantic Versioning 소개](https://spoqa.github.io/2012/12/18/semantic-versioning.html)
-* [컨벤셔널 커밋을 이용한 CHANGELOG 및 시멘틱 버저닝(Semantic Versioning) 자동화 | 딥백수](https://deepbaksu.github.io/2021/05/29/semantic-release/)
 * [GitHub Packages Container registry is generally available | The GitHub Blog](https://github.blog/2021-06-21-github-packages-container-registry-generally-available/)
   * Docker Hub처럼 GitHub에 컨테이너 이미지를 배포하고 받아올 수 있음
+* [GitHub, 블로그에 방문자 카운터를 달아보자 | SILENTSOFT](https://blog.silentsoft.org/archives/192)
+* [Highlights from Git 2.33 | The GitHub Blog](https://github.blog/2021-08-16-highlights-from-git-2-33/)
+* [github.dev - GitHub코드를 VS Code로 1초만에 둘러보기 | GeekNews](https://news.hada.io/topic?id=4802)
+* [코드베이스 시각화 하기 | GeekNews](https://news.hada.io/topic?id=4782)
+* [git은 폴더경로가 변경된 것을 어떻게 알 수 있을까? - Kwoncharles Blog](https://kwoncheol.me/posts/git-rename-inference)
+  * git에서 파일 경로를 변경, 수정까지 한 경우 git이 어떻게 커밋히스토리를 유지하는지 추적한 글
+  * 추가/삭제된 파일의 hash로 후보를 찾고 이 파일을 규칙에 따라 chunk로 나는 뒤에 50% 이상 동일하면 변경된 것으로 인식
+  * 그래서 파일 마지막에 개행 문자가 없는 경우에 rename의 추적 과정이 왜 달라지는지도 설명
+* [Improving Git protocol security on GitHub | The GitHub Blog](https://github.blog/2021-09-01-improving-git-protocol-security-github/)
+* [GitHub과 소프트웨어 보안 - YouTube](https://www.youtube.com/watch?v=j5GDh67ql4s)
+* [Sergey Bronnikov - Git as a storage](https://bronevichok.ru/posts/git-as-a-storage.html)
+* [많은 사람들이 모르는 Github Organization Public](https://velog.io/@juunini/%EB%A7%8E%EC%9D%80-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EB%AA%A8%EB%A5%B4%EB%8A%94-Github-Organization-public)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -253,6 +271,28 @@ Git
   * [springboot-helloworld: springboot 데모 프로젝트 - helloworld](https://github.com/choisungwookDevops/springboot-helloworld)
 * [GitHub Actions의 pull_request_target과 workflow_run 이벤트 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1541)
 * [내 깃허브가 털렸다](https://code-yeongyu.tistory.com/37)
+* [GitHub Actions로 수행하는 CI/CD DevOps, 리포트 만들기, 메시지 보내기 등의 놀라운 작업들 - YouTube](https://www.youtube.com/watch?v=356L7uv_W8Q)
+  * 깃허브 코리아 밋업: 깃허브 액션 데모 발표
+  * GitHub Korea Meetup 그룹 7월 이벤트를 통해서 한 "깃허브 액션으로 수행하는 CI/CD DevOps, 리포트 만들기, 메시지 보내기 등등의 놀라운 작업들" 발표
+    •  "깃허브 헬로 월드" 시작하기
+    • Microsoft Teams 메시지 보내기
+    •  Twilio 로 텍스트 문자 메시지 보내기
+    •  Infra CI/CD 로 Azure Web App 자동 생산하기
+    • App Dev CI/CD 로 NodeJS 앱을 JEST 테스트/테스트 카버리지/깃허브 페키지 빌드/깃허브 아티팩트 사용한후 Azure 웹앱으로 배포하
+    •  그리고 Terraform 으로 AWS 에 2개의 가상 머신에 로드발렌스 되어 있고 오토 스케일 기능 갖추어진 리소스 생산하기 
+* [CI/CD Github Actions으로 내 포트폴리오에 CI/CD를 적용하기](https://velog.io/@couchcoding/CICD-Github-Actions%EC%9C%BC%EB%A1%9C-%EB%82%B4-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EC%97%90-CICD%EB%A5%BC-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-1)
+* [GitHub Actions 워크플로우의 승인 기능 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1556)
+* [actions-runner-controller: Kubernetes controller for GitHub Actions self-hosted runnners](https://github.com/actions-runner-controller/actions-runner-controller)
+* [Continuous Delivery: GitHub Actions (Developer Workflow Automation with GitHub Actions CICD) - YouTube](https://www.youtube.com/watch?v=cKMO0aeh8GI)
+* [GitHub Actions로 npm publish 자동화하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1559)
+* [GitHub 프로필을 iMessage 대화 메시지로 꾸며보기 | by Jin Hyung Park | Aug, 2021 | Medium](https://medium.com/@jypthemiracle/github-%ED%94%84%EB%A1%9C%ED%95%84%EC%9D%84-imessage-%EB%8C%80%ED%99%94-%EA%B5%AC%EB%A6%84%EC%9C%BC%EB%A1%9C-%EA%BE%B8%EB%A9%B0%EB%B3%B4%EA%B8%B0-d41d48b3b921)
+  * GitHub에서 자신의 프로필 페이지를 원하는 대로 꾸밀 수 있는 프로필 저장소 기능을 이용해 프로필 페이지에 iMessage 형식으로 대화하듯 인사말과 날씨등을 보여주는 기능을 구현하는 과정 설명
+  * 프로필에서 스크립트 등을 원하는 대로 사용할 수는 없으므로 액션을 이용해서 SVG로 생성해서 보여주는 과정을 거치게 되는데 해당 기능을 원래 구현했던 개발자의 소스를 참고해서 이 기능이 어떻게 구현되는지 설명
+* [Github action를 이용한 커뮤니티 행사 관리/운영 하기! | JaeSeoKim's Blog](https://jaeseokim.dev/42Seoul/Github_action%EB%A5%BC_%EC%9D%B4%EC%9A%A9%ED%95%9C_%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0_%ED%96%89%EC%82%AC_%EA%B4%80%EB%A6%AC%EC%9A%B4%EC%98%81_%ED%95%98%EA%B8%B0/)
+* [Automating a software company with GitHub Actions - PostHog](https://posthog.com/blog/automating-a-software-company-with-github-actions)
+* [Github Actions 로컬 개발 환경 구성하기 - Burt.K](https://blog.burt.pe.kr/posts/skyfe79-blog.contents-980082002-post-26/)
+* [GitHub Actions: Ephemeral self-hosted runners & new webhooks for auto-scaling | GitHub Changelog](https://github.blog/changelog/2021-09-20-github-actions-ephemeral-self-hosted-runners-new-webhooks-for-auto-scaling/)
+* [Next.js AWS S3를 통한 정적 웹 사이트 배포 및 GitHub Actions를 통한 CI/CD](https://weekwith.tistory.com/entry/Nextjs-AWS-S3%EB%A5%BC-%ED%86%B5%ED%95%9C-%EC%A0%95%EC%A0%81-%EC%9B%B9-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%B0%B0%ED%8F%AC-%EB%B0%8F-GitHub-Actions%E1%84%85%E1%85%B3%E1%86%AF-%E1%84%90%E1%85%A9%E1%86%BC%E1%84%92%E1%85%A1%E1%86%AB-CICD)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
@@ -260,9 +300,25 @@ Git
 * [git-scm.com/book/ko/v1](https://git-scm.com/book/ko/v2/)
 * [Git TextBook | 깃 개념 잡기](https://git.jiny.dev/text/concept/)
 
+# Codespaces
+* [GitHub Codespaces](https://github.com/features/codespaces)
+  * Codespaces가 유료임에도 GitHub의 Team이나 Enterprise Cloud 플랜을 사용하는 사람이자 조직만 Codespaces 사용 가능
+  * Codespaces를 사용하려면 org 설정에서 활성화를 해주어야 하고 사용한 만큼 비용을 지불하는 구조
+* [GitHub Codespaces 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1497)
+* [GitHub Codespaces의 개발 환경 설정하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1509)
+* [GitHub’s Engineering Team has moved to Codespaces | The GitHub Blog](https://github.blog/2021-08-11-githubs-engineering-team-moved-codespaces/)
+  * GitHub 엔지니어링 팀이 GitHub.com 개발 환경을 GitHub Codespaces로 변경. Codespaces는 VS Code를 이용해서 클라우드 개발환경을 제공하는 GitHub 기능
+  * 이전에는 로컬 macOS 환경에서 GitHub.com 개발, 개발환경 설정에 스크립트 이용, 열심히 관리했지만 자주 깨지고 유지하기가 어려움
+  * 다른 컴퓨팅 환경처럼 개발환경도 쉽게 띄우고 교체할 수 있는 환경으로 넘어가기 위해 Codespaces 도입, 로컬에서 45분 걸리던 개발환경 설정을 5분으로
+  * GitHub.com 코드 베이스가 너무 커서 shallow 클론을 진행하고 나이틀리 빌드로 devcontainer를 미리 만들어 놓고 사용하면서 5분까지 줄였으나 여기서 더 개선하기 위해 사전빌드를 진행해서 10초까지 줄임
+  * 이제 새 직원이 와도 10초 만에 개발환경을 띄울 수 있게 되었고 VM의 리소스 한 줄만 바꾸면 모든 개발자가 더 좋은 컴퓨팅 환경에서 개발 가능
+* [공개된 GitHub Codespaces 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1565)
+* [Github Codespaces가 Backend.AI를 만났을 때 | Lablup Blog](https://blog.lablup.com/posts/2021/09/13/backend.ai-on-codespaces)
+
 # Command
 * [**Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)**](https://github.com/mingrammer/git-tips)
 * [Git 명령어 정리](https://medium.com/@joongwon/git-git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC-c25b421ecdbd)
+* [Git 명령어 모음](https://velog.io/@delilah/GitHub-Git-%EB%AA%85%EB%A0%B9%EC%96%B4-%EB%AA%A8%EC%9D%8C)
 * [practice - Git command overview](https://gist.github.com/hyunjun/02f945830bda15267f90762c8763a759#gistcomment-3642143)
 * [**Oh shit, git!**](http://ohshitgit.com/) 실수했을 때 case별 대처법
 * [내 시간을 절약하는 소중한 git 명령어들](http://sunphiz.me/wp/archives/2558)
@@ -314,6 +370,8 @@ Git
 * [🌳🚀 CS Visualized: Useful Git Commands - DEV Community](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
 * [익숙해지면 좋을 깃(git) 명령어 모음집](https://tech.urbanbase.com/dev/2021/01/15/GitCommand.html)
 * [4 tips for context switching in Git | Opensource.com](https://opensource.com/article/21/4/context-switching-git) stash + branch, WIP commit + branch, new repository clone, worktree, rev-parse
+* [**Code Review from the Command Line – Jake Zimmerman**](https://blog.jez.io/cli-code-review/)
+  * `hub pr checkout`, `git stat`, `git heatmap`, `git depgraph`, `git review`, `git reviewone`
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
   * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
@@ -333,6 +391,7 @@ Git
   * [git bisect 로 문제가 발생한 commit 빠르고 쉽게 찾기](https://blog.gangnamunni.com/2020/04/13/understanding_git_bisect.html)
   * [7.10 Git 도구 - Git으로 버그 찾기](https://git-scm.com/book/ko/v2/Git-도구-Git으로-버그-찾기)
   * [Fortunately, I don't squash my commits](https://blog.ploeh.dk/2020/10/05/fortunately-i-dont-squash-my-commits/)
+* `blame` [git-blame-someone-else: Blame someone else for your bad code](https://github.com/jayphelps/git-blame-someone-else)
 * `branch`
   * [learngitbranching.js.org](http://learngitbranching.js.org/)
   * [Git 브랜치 배우기](http://pcottle.github.io/learnGitBranching/)
@@ -349,8 +408,12 @@ Git
   * [GitFlow considered harmful](http://endoflineblog.com/gitflow-considered-harmful)
   * [Issues with git-flow](http://scottchacon.com/2011/08/31/github-flow.html)
   * [들어도 봤고, 쓰고도 있는데... GitFlow 제대로 알고 쓰기](https://blog.gangnamunni.com/2020/03/23/understanding_git_flow.html)
-  * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+  * [충돌 없는 Git을 위해 Git Flow에 대해 알아보자](https://velog.io/@couchcoding/%EC%B6%A9%EB%8F%8C-%EC%97%86%EB%8A%94-Git%EC%9D%84-%EC%9C%84%ED%95%B4-Git-Flow%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
   * [git flow model - YouTube](https://www.youtube.com/watch?v=EzcF6RX8RrQ)
+  * [git-flow 소개, 설치 및 사용법](https://hbase.tistory.com/60)
+  * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+  * [Git 브랜칭 전략 : Git-flow와 Github-flow :: 갓우리코딩](https://hellowoori.tistory.com/56)
+  * [Git Flow Is A Bad Idea - YouTube](https://www.youtube.com/watch?v=_w6TwnLCFwA) git flow 반대. CI/CD를 위해 master의 매 commit이 production이 되어야 하고, 그게 delivery의 시작점이라고 주장
   * [형상관리 전략정리](https://chodragon9.github.io/blog/git-scm-experience/)
   * [효율적인 협업을 위한 Git Branching 전략](https://harrydrippin.github.io/programming/2017/07/03/git-branching-strategy.html)
   * [An Efficient Git Branching Strategy Every Developer Should Know | by Anurag Sidana | Better Programming | Medium](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)
@@ -375,6 +438,7 @@ Git
   * [Git의 기본 브랜치를 master에서 main으로 변경하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1503)
   * [이상현 IN 베를린 :: 깃헙의 main 브랜치에 반대하는 이유](https://iamsang.com/blog/2020/11/11/github-and-main-branch/)
   * [Git branch 톺아보기 - branch를 확인/생성/삭제](https://xtring-dev.tistory.com/entry/Git-Git-branch-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-branch%EB%A5%BC-%ED%99%95%EC%9D%B8%EC%83%9D%EC%84%B1%EC%82%AD%EC%A0%9C)
+  * [Git에서의 branch name을 대신하는 '-' (hyphen)](https://jusths.tistory.com/230)
 * checkout
   * `git checkout [branch name] -- [file name]` [checkout specific files from another branch](http://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/)
   * `git checkout HEAD -- path/to/file.txt` [Find and restore a deleted file in a Git repository](http://stackoverflow.com/questions/953481/find-and-restore-a-deleted-file-in-a-git-repository)
@@ -533,6 +597,8 @@ Git
     * [How to search for a commit message in github?](http://stackoverflow.com/questions/18122628/how-to-search-for-a-commit-message-in-github)
   * `git -L :<funcname>:<file>`
     * [objective c - Git - how do I view the change history of a method/function? - Stack Overflow](https://stackoverflow.com/questions/4781405/git-how-do-i-view-the-change-history-of-a-method-function)
+  * `git log -p <filename>`
+    * [git log -p 파일 하나의 변경 이력을 한번에 보기 | edykim](https://edykim.com/ko/post/git-log-p-view-a-single-change-history-of-a-file/)
   * [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
     * [**Git 커밋 메시지 작성법**](https://item4.github.io/2016-11-01/How-to-Write-a-Git-Commit-Message/)
   * [A useful template for commit messages](http://codeinthehole.com/writing/a-useful-template-for-commit-messages/)
@@ -566,11 +632,15 @@ Git
   * [merge a remote branch locally](https://stackoverflow.com/questions/21651185/git-merge-a-remote-branch-locally)
   * [Git Merge Strategy Options and Examples](https://www.atlassian.com/git/tutorials/using-branches/merge-strategy)
   * [merge - How to replace master branch in Git, entirely, from another branch? - Stack Overflow](https://stackoverflow.com/questions/2862590/how-to-replace-master-branch-in-git-entirely-from-another-branch) master에 merge한 commit들이 문제가 있는 경우 다시 다른 branch를 master에 덮어쓸 때 유용
-* restore [새 버전에 맞게 git checkout 대신 switch/restore 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1505)
+* restore
+  * [새 버전에 맞게 git checkout 대신 switch/restore 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1505)
+  * [New in Git: switch and restore](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/)
 * show
 * status
   * `git status --porcelain` git에 추가되지 않은 file 출력
-* switch [새 버전에 맞게 git checkout 대신 switch/restore 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1505)
+* switch
+  * [새 버전에 맞게 git checkout 대신 switch/restore 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1505)
+  * [New in Git: switch and restore](https://www.banterly.net/2021/07/31/new-in-git-switch-and-restore/)
 * undo
   * [How to undo (almost) anything with Git](https://github.blog/2015-06-08-how-to-undo-almost-anything-with-git/)
   * [How to undo changes in Git](https://medium.freecodecamp.org/how-to-undo-changes-in-git-e1da7930afdb)
@@ -591,6 +661,10 @@ Git
   * [gitflow 사용 및 pull request 하는 방법](https://devtimothy.tistory.com/137)
   * [헤이딜러 개발팀 모두가 행복한 개발/PR관리 방법 7가지](https://medium.com/prnd/%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EB%AA%A8%EB%91%90%EA%B0%80-%ED%96%89%EB%B3%B5%ED%95%9C-%EA%B0%9C%EB%B0%9C-pr%EA%B4%80%EB%A6%AC-%EB%B0%A9%EB%B2%95-7%EA%B0%80%EC%A7%80-1d4cd5d091f0)
   * [원티드랩 프론트엔드 팀의 Pull Request 양식 및 자동화 | by Chaeryn Park | 원티드 제품 팀블로그 | Mar, 2021 | Medium](https://medium.com/wantedjobs/%EC%9B%90%ED%8B%B0%EB%93%9C%EB%9E%A9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%ED%8C%80%EC%9D%98-pull-request-%EC%96%91%EC%8B%9D-%EB%B0%8F-%EC%9E%90%EB%8F%99%ED%99%94-42e393832ffc)
+  * [Github에서 PR 생성 시 Reviewer 자동으로 할당하기 (feat. CODEOWNERS)](https://goodgid.github.io/Github-CODEOWNERS/)
+  * [번역 Art of Clean Pull Requests - 클린한 Git PR의 기술](https://blog.sonim1.com/224)
+  * [Pull Request Review GitHub App 을 만들어보며.. | by Maeng Sol | Aug, 2021 | Medium](https://msolo021015.medium.com/pull-request-review-github-app-%EB%A7%8C%EB%93%A4%EA%B8%B0-83fd18d7ecaa)
+  * [Github Pull Request시 Jest & Docker Test Code 수행하기](https://jojoldu.tistory.com/602)
 * push
   * [How to resolve a GitHub error “push declined due to email privacy restrictions” when you try to push a change | by Bryant Jimin Son | Feb, 2021 | Medium](https://bryantson.medium.com/how-to-resolve-a-github-error-push-declined-due-to-email-privacy-restrictions-when-you-try-to-b748f6ca0bcd)
 * `rebase`
@@ -607,6 +681,10 @@ Git
     ```
     * [The refs/for namespace](https://gerrit-review.googlesource.com/Documentation/concept-refs-for-namespace.html)
     * [The Dark Side of the Force Push](https://willi.am/blog/2014/08/12/the-dark-side-of-the-force-push/)
+  * [Git Force vs Force with Lease. And When to Use Them | by Mohammad-Ali A'RÂBI | Aug, 2021 | ITNEXT](https://itnext.io/git-force-vs-force-with-lease-9d0e753e8c41)
+    * `--force`보다 더 안전한 `--force-with-lease`를 쓰라는 글
+    * `--force`는 리모트 브랜치를 망가뜨릴 수도 있으므로 다른 브랜치에 리베이스하거나, 이전 커밋 메시지를 바꾸거나 합치거나 순서를 바꾸는 등의 작업을 할 때는 `--force-with-lease`로도 충분
+    * 꼭 필요할 때만 `--force` 사용
   * `git pull --rebase origin master`
     * master에서 branch A, B를 각각 만들고 예를 들어 A branch가 먼저 merge해서 B에서 A branch의 master 변경 사항을 합쳐야 할 경우
     * rebase하고 난 후 remote/B와는 git history가 달라서 git push -f로 remote에 넣어줘야 했음
@@ -725,8 +803,13 @@ Git
 * [GitHub Flow explain](https://www.youtube.com/watch?v=x-b_ij22vWg)
 * [GitHub Flow - demo](https://www.youtube.com/watch?v=GeFkVB8w7uM)
 
+# Conference
+* [Everything new from Universe 2021 | The GitHub Blog](https://github.blog/2021-10-27-everything-new-from-universe-2021/)
+* [It Depends - GitHub Universe 2021 - YouTube](https://www.youtube.com/watch?v=aMWh2uLO9OM)
+
 # Library
 * [Manage multiple Git identities](https://github.com/prydonius/karn)
+* [GitHub 멀티 어카운트를 사용할 때 유용한 Git 설정 - LainyZine](https://www.lainyzine.com/ko/article/useful-git-settings-when-using-github-multi-account/)
 * [GitHub과 연동해서 의존성 라이브러리를 관리할 수 있는 서비스들](https://blog.outsider.ne.kr/1323)
 * [개발 툴소개 + 수다 (2018-12-07) 시드니 개발자 아저씨 케빈의 개발자 방송 Live](https://www.youtube.com/watch?v=B0jXvwX6_rk)
 * [Github 컨텐츠 관리 플랫폼 개발](http://qwefgh90.github.io/javascript/Github-%EC%BB%A8%ED%85%90%EC%B8%A0-%EA%B4%80%EB%A6%AC-%ED%94%8C%EB%9E%AB%ED%8F%BC-%EA%B0%9C%EB%B0%9C/)
@@ -736,18 +819,31 @@ Git
 * [binder - Turn a GitHub repo into a collection of interactive notebooks](http://mybinder.org/)
 * [bit: Bit is a modern Git CLI](https://github.com/chriswalz/bit)
 * bitbar [1일 1커밋의 목표를 가지고 있다면? - Bitbar Github 플러그인 설정하기 | Fernando 기술 블로그](https://fernando.kr/develop/2020-01-11-github-contributions/)
+* [blograss: Easy to show your passion of blogging](https://github.com/jinan159/blograss)
 * [Central Dogma - an open-source highly-available version-controlled service configuration repository based on Git, ZooKeeper and HTTP/2](https://line.github.io/centraldogma/)
 * [Cgit, Nginx & Gitolite: A Personal Git Server « Bryan Brattlof](https://bryanbrattlof.com/cgit-nginx-gitolite-a-personal-git-server/)
 * [classroom github - Your course assignments on GitHub](https://classroom.github.com/)
 * [CloneGits - A tool to clone all of a user's GitHub repos to the local machine](https://github.com/jsnider3/CloneGits)
 * [codebeat - Get instant feedback on your code](https://codebeat.co/)
+* [CodeQL documentation](https://codeql.github.com/) 원하는 대로 쿼리문을 작성해서 코드의 취약점 등을 검사할 수 있는 도구
+  * [Introducing the CodeQL package manager (public beta) | GitHub Changelog](https://github.blog/changelog/2021-07-28-introducing-the-codeql-package-manager-public-beta/)
+    * GitHub에서 코드를 검사할 수 있는 CodeQL의 패키지 매니저가 퍼블릭 베타로 열려서 CodeQL 패키지를 사용하거나 직접 업로드 가능
 * [Copilot · Your AI pair programmer](https://copilot.github.com/)
   * 공개된 코드로 학습된 OpenAI의 Codex 모델을 이용해서 GitHub에서 AI와 페어 프로그래밍
   * 주석을 이해해서 코드를 작성해 주거나 반복적인 코드를 완성해 주거나 다른 코드를 제시
   * [Github Copilot에 관한 생각](https://brunch.co.kr/@advisor/34)
+  * [AI로 코딩?! 깃허브 코파일럿(GitHub Copilot) 프리뷰를 써봤습니다! - YouTube](https://www.youtube.com/watch?v=Km7LT5SJch8)
+  * [GitHub Copilot: A Powerful, Controversial Autocomplete for Developers – The New Stack](https://thenewstack.io/github-copilot-a-powerful-controversial-autocomplete-for-developers)
+  * [백지장도 'AI'가 맞들면 더 낫다··· 코딩 돕는 ML 도구 3가지 - CIO Korea](https://www.ciokorea.com/news/200444)
+  * [깃허브 코파일럿, 개발자 반응은?··· "놀랍도록 유용"vs"아직 미흡" - CIO Korea](https://www.ciokorea.com/news/200619)
+  * [Research recitation - GitHub Docs](https://docs.github.com/en/github/copilot/research-recitation)
+  * [GitHub Copilot의 8가지 대안](https://open-support.tistory.com/entry/GitHub-Copilot%EC%9D%98-8%EA%B0%80%EC%A7%80-%EB%8C%80%EC%95%88)
+  * [Copilot 설명 및 사용기 | GeekNews](https://news.hada.io/topic?id=4745)
+  * [GitHub's Copilot Still a Long Way From Autopilot](https://www.infoq.com/news/2021/10/github-copilot-study/)
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
+* [every-git-commit-shorthash: Git repository with a commit for every single shorthash](https://github.com/not-an-aardvark/every-git-commit-shorthash)
 * Flat Data [GitHub OCTO | Flat Data](https://octo.github.com/projects/flat-data)
   * Git을 이용해 데이터 처리. 다른 인프라스트럭처가 필요 없이 GitHub를 이용해서 데이터를 수집하고 보여줄 수 있게 하는 프로젝트
   * 데이터를 수집하고 변환하는 GitHub Actions, 데이터 워크플로우를 작성하는 VS Code 확장 에디터, 처리된 데이터를 보는 뷰어 3가지로 구성
@@ -769,11 +865,15 @@ Git
   * [bit: Bit is a modern Git CLI](https://github.com/chriswalz/bit)
   * [Scripting with GitHub CLI - The GitHub Blog](https://github.blog/2021-03-11-scripting-with-github-cli/)
   * [Work with GitHub Actions in your terminal with GitHub CLI - The GitHub Blog](https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/)
+  * [GitHub CLI gh의 새 기능 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1557)
+  * [GitHub CLI 2.0 includes extensions! | The GitHub Blog](https://github.blog/2021-08-24-github-cli-2-0-includes-extensions/)
+  * [Do more with GitHub through GitHub CLI & what is new in GitHub CLI 2.0! - YouTube](https://www.youtube.com/watch?v=4rZrw1s9AbA)
 * [GHFS - GitHub repos in your filesystem!](https://github.com/ImJasonH/ghfs)
 * [ghrequest - HTTP client for the GitHub API with cache support to get the most of your rate limit](https://github.com/issuetrackapp/ghrequest)
 * [giistr - Contribute to build the open-source world. Search, filter and help easily on the issues of the repositories you starred](https://giistr.com/) 기여할 수 있는 open source project 검색
 * [Git Annex](https://git-annex.branchable.com/design/iabackup/)
 * git bash [Windows 사용자를 위한 Git Bash 설정](https://medium.com/@violetboralee/windows-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-git-bash-%EC%84%A4%EC%A0%95-ac50acb34c46)
+* [git-cliff: A highly customizable Changelog Generator that follows Conventional Commit specifications ⛰️](https://github.com/orhun/git-cliff) Git 히스토리를 이용해서 체인지로그 문서를 만드는 CLI 도구
 * [gitcolony - THE NEXT GENERATION OF PULL REQUESTS](https://www.gitcolony.com/)
 * [git compound - Compose you projects using Git repositories and Ruby tasks](https://github.com/grzesiek/git_compound/)
 * [gitea 설치로 git 웹호스팅 서버 구축하기](https://geeksvoyage.com/raspberry%20pi/gitea-for-pi/)
@@ -785,13 +885,20 @@ Git
 * [Githelp](https://githelp.io/?ref=hackernews)
 * [**git-history - Quickly browse the history of any GitHub file https://githistory.xyz **](https://github.com/pomber/git-history)
 * [git-hub - Do GitHub operations from the `git` command](https://github.com/ingydotnet/git-hub)
-* github1s [🚀깃헙 코드를 1초만에 VS Code로 - YouTube](https://www.youtube.com/watch?v=eFol6hBxm0E)
+* github1s
+  * [🚀깃헙 코드를 1초만에 VS Code로 - YouTube](https://www.youtube.com/watch?v=eFol6hBxm0E)
+  * [이게 github 이야 vscode 야](https://uni2u.tistory.com/123)
 * [github-artifact-exporter: A set of packages to make exporting artifacts from GitHub easier](https://github.com/github/github-artifact-exporter)
   * GitHub의 데이터를 내보내기 쉽게 도와주는 GitHub에서 만든 패키지. 현재 이슈를 CSV나 JSON으로 export
 * [github-auto-locker: Automatically lock old, closed GitHub issues](https://github.com/presidentbeef/github-auto-locker)
 * [GitHub Awesome: Browse Every Awesome List on GitHub](https://app.polymersearch.com/discover/github-awesome)
 * [GitHub Hovercard - Quick user hovercard for GitHub](https://github.com/Justineo/github-hovercard)
-* [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
+* [github-ko-ext: 깃헙 한글화 확장 프로그램](https://github.com/hatemogi/github-ko-ext)
+  * [GitHub 한글화 실험 프로젝트. “개발자가 자주 쓰는 GitHub 웹사이트를 한글화 하면 친숙해서 좋지… | by 김대현 | HappyProgrammer | Medium](https://medium.com/happyprogrammer-in-jeju/github-%ED%95%9C%EA%B8%80%ED%99%94-%EC%8B%A4%ED%97%98-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-5b9e040d1d75)
+* GitHub Pages
+  * [GitHub Pages for Non-Rubyists](http://ehmatthes.github.io/GitHub-Pages-Non-Rubyists/)
+  * [GitHub Pages 도메인 네임 설정 하기](http://blog.saltfactory.net/github/setting-domain-name-in-github-pages-via-cname.html)
+  * [React GitHub Pages에 배포 - create-react-app으로 만든 React 프로젝트를 GitHub Pages에 배포해 보도록 합시다](https://dev-yakuza.posstree.com/ko/react/github-pages/)
 * [github.surf](https://github.surf/)
   * [Github.surf를 소개합니다! — 코드를 서핑하기 가장 빠르고 쿨한 방법 (CLI, Extension 지원) | by softmarshmallow | bridgedxyz | Feb, 2021 | Medium](https://medium.com/bridgedxyz/ko-%EF%B8%8F-github-surf%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%84%9C%ED%95%91%ED%95%98%EA%B8%B0-%EA%B0%80%EC%9E%A5-%EB%B9%A0%EB%A5%B4%EA%B3%A0-%EC%BF%A8%ED%95%9C-%EB%B0%A9%EB%B2%95-cli-extension-%EC%A7%80%EC%9B%90-65e6a9a07bd5)
 * [Gitiny - iOS app for GitHub with exploring trending](https://github.com/k-lpmg/GiTiny)
@@ -803,6 +910,7 @@ Git
 * [GitLab](https://www.gitlab.com/)
   * [Dockerized gitlab web server http://www.damagehead.com/docker-gitlab ](https://github.com/sameersbn/docker-gitlab)
   * [GitLab flow에서 배울 워크 플로우의 실천](https://translate.google.com/translate?hl=en&sl=ja&tl=ko&u=http%3A%2F%2Fpostd.cc%2Fgitlab-flow%2F)
+  * [Git Flow가 가진 문제점과 솔루션\:\ GitLab Flow | DevSecOps 구축 컨설팅, 교육, 기술지원 서비스 제공](https://insight.infograb.net/blog/2020/09/22/git-flow-problem-and-solution/)
   * [Towards a production quality open source Git LFS server](https://about.gitlab.com/2015/08/13/towards-a-production-quality-open-source-git-lfs-server/#)
   * [GitLab Live Stream](https://www.youtube.com/watch?v=nc0hPGerSd4)
   * [마음에 드는 #gitlab todos](http://ohyecloudy.com/pnotes/archives/gitlab-todos/)
@@ -811,6 +919,8 @@ Git
   * [“실수에 관대한 문화가 데브옵스의 키포인트”…데브옵스 플랫폼 깃랩](https://www.imaso.co.kr/archives/5638)
   * [gitlab 웹 접속 포트를 바꿔 봅시다](https://codingdog.tistory.com/entry/gitlab-%EC%9B%B9-%EC%A0%91%EC%86%8D-%ED%8F%AC%ED%8A%B8%EB%A5%BC-%EB%B0%94%EA%BF%94-%EB%B4%85%EC%8B%9C%EB%8B%A4?category=1163058)
   * [gitlab 8080 포트 대신 다른 포트를 사용하게 바꿔봅시다](https://codingdog.tistory.com/entry/gitlab-8080-%ED%8F%AC%ED%8A%B8-%EB%8C%80%EC%8B%A0-%EB%8B%A4%EB%A5%B8-%ED%8F%AC%ED%8A%B8%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B2%8C-%EB%B0%94%EA%BF%94%EB%B4%85%EC%8B%9C%EB%8B%A4)
+  * [내블로그 :: gitlab ci Docker 연동](https://iesay.tistory.com/198)
+  * [GitLab Geo 구성하기 — 분석 #1. 개요 | by 허니하린 | Cloud Villains | Sep, 2021 | Medium](https://medium.com/ctc-mzc/gitlab-geo-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0-%EB%B6%84%EC%84%9D-1-37cef8c440df)
 * gitlocalize.com [오픈소스를 번역할 때 유용한 Git Localize 사용법 - 사진찍는 웹 개발자](https://donghoon-song.github.io/posts/2021-01-02---%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EB%B2%88%EC%97%AD%ED%95%A0-%EB%95%8C-%EC%9C%A0%EC%9A%A9%ED%95%9C-Git-Localize-%EC%82%AC%EC%9A%A9%EB%B2%95/)
 * [git-meld-index - Run meld or any git difftool to interactively stage changes](https://github.com/jjlee/git-meld-index)
 * [Git Miner Dig into guts of git history](https://gitminer.com/)
@@ -821,6 +931,7 @@ Git
   * [Scala - Gitpod](https://www.gitpod.io/docs/languages/scala/)
   * [클라우드 기반 IDE 플랫폼 ‘깃파드(Gitpod)’, 오픈소스로 전환 - CIO Korea](http://www.ciokorea.com/news/162155)
 * [git-punish](http://git-punish.io/)
+* [GIT PURR! Git Commands Explained with Cats! – GirlieMac! Blog](https://girliemac.com/blog/2017/12/26/git-purr/)
 * [GitQlient - a multi-platform Git client originally forked from QGit](https://francescmm.github.io/GitQlient/)
 * [git-quick-stats로 보는 다양한 Git 통계](http://developer88.tistory.com/95)
 * [git-radar - A heads up display for git](https://github.com/michaeldfallen/git-radar)
@@ -832,6 +943,7 @@ Git
 * [Git Sketch Plugin - A Git client generating pretty diffs built right into Sketch](https://mathieudutour.github.io/git-sketch-plugin/)
 * [gitswarm](http://www.perforce.com/gitswarm)
 * [GitTorrent: A Decentralized GitHub](http://blog.printf.net/articles/2015/05/29/announcing-gittorrent-a-decentralized-github/)
+* [gitui: Blazing 💥 fast terminal-ui for git written in rust 🦀](https://github.com/extrawurst/gitui)
 * [GitUp](http://gitup.co/)
   * [The Git interface you've been missing all your life has finally arrived. http://gitup.co](https://github.com/git-up/GitUp#gitupkit)
 * [Git-User-Switch: Switch git user and email at ease](https://github.com/geongeorge/Git-User-Switch)
@@ -849,6 +961,7 @@ Git
 * [hub helps you win at git. http://hub.github.com ](https://github.com/github/hub)
 * [isomorphic-git: A pure JavaScript implementation of git for node and browsers!](https://github.com/isomorphic-git/isomorphic-git)
 * [joe - A .gitignore magician in your command line](https://github.com/karan/joe)
+* [Magit! A Git Porcelain inside Emacs](https://magit.vc/)
 * [Octotree - GitHub 코드 트리를 쉽게 보여주는 브라우저 확장 프로그램](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)
 * [Pijul, a next-generation distributed version control system](https://pijul.org/)
 * [Probot으로 GitHub App 만들기](https://blog.outsider.ne.kr/1390)
@@ -857,6 +970,7 @@ Git
   * [Probot: Scheduler 사용하기](https://blog.outsider.ne.kr/1402)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * PyGithub [Github 저장소 API 호출로 삭제하기](https://velog.io/@king/Github-%EC%A0%80%EC%9E%A5%EC%86%8C-API-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B8%B0)
+* [ReadmePlants/about-project.md at main · devxb/ReadmePlants](https://github.com/devxb/ReadmePlants/blob/main/about-project.md)
 * [release: Generate changelogs with a single command](https://github.com/vercel/release)
 * [scientist - 깃허브, 루비 언어용 리팩토링 도구 출시](http://www.bloter.net/archives/249184)
 * [SCM Breeze is a set of shell scripts (for bash and zsh) that enhance your interaction with git](https://github.com/ndbroadbent/scm_breeze)
@@ -868,6 +982,8 @@ Git
   * [Tig: text-mode interface for Git](http://jonas.nitro.dk/tig/)
   * [blogs.atlassian.com/2013/05/git-tig](http://blogs.atlassian.com/2013/05/git-tig/)
 * [TinyPress - The best GitHub writing platform](https://tinypress.co/)
+* [ugit: DIY Git in Python](https://www.leshenko.net/p/ugit/)
+  * Python으로 직접 Git을 구현해 보는 튜토리얼. 단계별로 구현하면서 Git 내부가 어떻게 동작하는지 이해 가능. 변경되는 Python 코드와 설명을 같이 보면서 따라 해 볼 수 있게 구성
 * [ungit - The easiest way to use git. On any platform. Anywhere](https://github.com/FredrikNoren/ungit)
 * [utterances](https://utteranc.es/)
   * [페이스북 댓글을 utterances로 교체했습니다](https://blog.outsider.ne.kr/1356)
@@ -918,3 +1034,9 @@ Git
 * [git-step](https://okdevtv.com/mib/git-step)
 * [Git 기반의 오픈소스 프로젝트 개발 실습](http://www.kocw.net/home/search/kemView.do?kemId=1352154)
 * [GitHub에서 커뮤니티 기반 소프트웨어 프로젝트 빌드 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/paths/build-community-driven-projects-github/)
+* [Git and GitHub Tutorial for Beginners - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/09/git-and-github-tutorial-for-beginners/)
+* [Git and GitHub: The Complete Guides - Chapter 1 - DEV Community](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-1-23cp)
+* [Git and GitHub: The Complete Guides - Chapter 1 (Extended) - DEV Community](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-1-extended-279f)
+* [Git and Github: The Complete Guides - Chapter 2 - DEV Community](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-2-559)
+* [Git and GitHub: The Complete Guides - Chapter 3 - DEV Community](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-3-4ac6)
+* [Git and GitHub: The Complete Guides - Chapter 4 - DEV Community](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-4-a00)

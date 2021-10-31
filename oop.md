@@ -37,6 +37,11 @@
 * [S.O.L.I.D. Principles Around You](https://dev.to/trekhleb/s-o-l-i-d-principles-around-you-1o17)
 * [The S.O.L.I.D Principles in Pictures | by Ugonna Thelma | Backticks & Tildes | Medium](https://medium.com/backticks-tildes/the-s-o-l-i-d-principles-in-pictures-b34ce2f1e898)
 * [SOLID 법칙 中 LID. 인터페이스 분리 원칙, 리스코프 치환 원칙, 의존성 역전 원칙에 대해… | by 남현욱 | 휴먼스케이프 기술 블로그 | Medium](https://medium.com/humanscape-tech/solid-%EB%B2%95%EC%B9%99-%E4%B8%AD-lid-fb9b89e383ef)
+* **모든 개발자가 알아야만 하는 SOLID 원칙**
+  * [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
+  * [1편(SRP/OCP)](http://doublem.org/SOLID_SRP_OCP)
+  * [2편(LSP/ISP/DIP)](http://doublem.org/SOLID_LSP_ISP_DIP)
+* [올바른 객체지향 설계 - 'solid 원칙' 이란?](https://dimohy.slogger.today/oriented-solid)
 * [인상적인 코딩 테스트 그리고 합격](https://www.popit.kr/%EC%9D%B8%EC%83%81%EC%A0%81%EC%9D%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%95%A9%EA%B2%A9/) 제목과 달리 가장 중요한 건 SOLID를 알고 구현하고 설명할 수 있어야 한다는 이야기
 * [싱글턴은 정적이지 않다](https://justhackem.wordpress.com/2017/07/05/singleton-is-not-static/)
 * [꼬리에 꼬리를 무는 - 유사 디자인 패턴들(1/2편)](http://hamait.tistory.com/868)
@@ -45,14 +50,11 @@
 * [객체지향은 반드시 없어져야 할 비용만 높은 재앙이다](http://hamait.tistory.com/875)
 * [Why Do You Need To Know Interface Fundamentals?](https://codeburst.io/why-do-you-need-to-know-interface-fundamentals-a129ac6ab0c3)
 * [Code Against Interfaces, Not Implementations](https://medium.com/better-programming/code-against-interfaces-not-implementations-37b30e7ab992)
+* [Public / Private 인터페이스](https://jojoldu.tistory.com/588)
 * [굿바이~ 옵저버 패턴 and FRP](http://hamait.tistory.com/885)
 * [새로운 프로그래밍 모델의 필요성](http://qwefgh90.github.io/actor/%EC%83%88%EB%A1%9C%EC%9A%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%AA%A8%EB%8D%B8%EC%9D%98-%ED%95%84%EC%9A%94%EC%84%B1/)
 * [여러 메서드가 동일 처리 흐름을 갖는 코드 정리 예시: 클래스 추출](http://javacan.tistory.com/entry/remove-duplicate-process-by-extracting-class)
 * [Object-oriented Programming in 7 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8)
-* **모든 개발자가 알아야만 하는 SOLID 원칙**
-  * [SOLID Principles every Developer Should Know](https://blog.bitsrc.io/solid-principles-every-developer-should-know-b3bfa96bb688)
-  * [1편(SRP/OCP)](http://doublem.org/SOLID_SRP_OCP)
-  * [2편(LSP/ISP/DIP)](http://doublem.org/SOLID_LSP_ISP_DIP)
 * [Robert.C.Martin 블로그 번역-1 : 단일 책임 원칙(The Single Responsibility Principle)](https://medium.com/@joohotheman/robert-c-martin-블로그-번역-1-단일-책임-원칙-the-single-responsibility-principle-edabedde6240)
 * [Robert.C.Martin 블로그번역 -2 개방/폐쇄 원칙에 대하여(The Open/Closed Principle)](https://medium.com/@joohotheman/robert-c-martin-블로그번역-2-개방-폐쇄-원칙에-대하여-the-open-closed-principle-c80388209e89)
 * [10 OOP Design Principles Every Programmer Should Know](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65)
@@ -130,6 +132,7 @@
   * 추상화를 해치지 않고 의존성을 인수로 넘겨주는 방법이 DI
 * [**의존성 역전 원리(Dependency Inversion Principle) 관련 용어**](https://justhackem.wordpress.com/2016/05/13/dependency-inversion-terms/)
   * DI와 DIP의 차이
+* [외부 툴 변경에 휘둘리지 않는 서버 코드 작성기](https://blog.gangnamunni.com/post/dependency-inversion-principle)
 * [Inversion of Control(제어 역전)](https://justhackem.wordpress.com/2016/05/14/inversion-of-control/)
 * [Dependency Injection의 Dependency란 무엇인가?](http://toby.epril.com/?p=808)
 * [Inversion of Control Containers and the Dependency Injection pattern](https://martinfowler.com/articles/injection.html)
@@ -146,6 +149,7 @@
 * [Dependency Injection(DI)에 대해서 알아보자](https://developer88.tistory.com/172)
 * [DI 첫 번째, Dependency Injection에 관하여](https://poqw.github.io/di_1/)
 * [(18) What is dependency injection .net core? Can someone explain it by taking simple real life based examples? I have checked it out on internet but it's explained in very complex way everywhere. - Quora](https://www.quora.com/What-is-dependency-injection-net-core-Can-someone-explain-it-by-taking-simple-real-life-based-examples-I-have-checked-it-out-on-internet-but-its-explained-in-very-complex-way-everywhere)
+* [DI(Dependency Injection)는 왜 필요한가? :: 시행착오를 줄이는 방법](https://jinssssun.tistory.com/6)
 
 ## Dependency Injection Python
 * [Dependency Injector — Dependency injection microframework for Python](http://python-dependency-injector.ets-labs.org/)
@@ -200,6 +204,7 @@
 * [The Strategy Pattern explained using Java](https://medium.freecodecamp.org/the-strategy-pattern-explained-using-java-bc30542204e0)
 * [Implementing the Strategy Pattern With Spring](https://medium.com/javarevisited/implementing-the-strategy-pattern-with-spring-de2bad3abc2f)
 * [Strategy 패턴 쉽게 이해하기 - YouTube](https://www.youtube.com/watch?v=WLRtCO5QUVo)
+* [Using Java 8 to Simplify Strategy Design Pattern | Simplifying Design Patterns - Part 1 - YouTube](https://www.youtube.com/watch?v=aWh_6JH3Ea4)
 * [결제 로직에 전략 패턴을 적용하여 재사용성 높이기](https://seohoon-dev.tistory.com/1)
 * [Flyweight 디자인 패턴](http://astrod.github.io/2017/05/07/Flywegiht-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
 * [Design Patterns in Java with Example Tutorial](https://www.dineshonjava.com/design-patterns_25/)
@@ -215,6 +220,10 @@
 * [Understanding software design patterns](https://opensource.com/article/19/7/understanding-software-design-patterns)
 * [옵저버 레지스트리 서비스 구현](https://codegizer.me/2020/04/21/lab-observer-service-registry-ver2.html)
 * [DesignPattern: Test project for learning GoF design pattern](https://github.com/IamYeong/DesignPattern)
+* [객체지향 (Object Oriented) 디자인 (Design)](https://jojoldu.tistory.com/592)
+* [Design Patterns in Java | Making Java easy to learn](https://javatechonline.com/design-patterns-in-java/)
+* [SOLID Principles in Java. SOLID principles basically form the… | by Deepika sharma | Nerd For Tech | Jul, 2021 | Medium](https://medium.com/nerd-for-tech/solid-principles-in-java-5cf926e44247)
+* [Java — good practices and recommendations: Design patterns | by Martin Jonovski | < BE OUTSTANDING />](https://blog.singular.uk/java-good-practices-and-recommendations-design-patterns-eade30be7965)
 
 # JavaScript
 * [JavaScript 객체 지향 프로그래밍](https://opentutorials.org/module/4047)
@@ -274,6 +283,7 @@
 * [Understanding the crux of objects and classes in python. | by Aakash Agrawal | Towards Data Science](https://towardsdatascience.com/understanding-the-crux-of-objects-and-classes-in-python-87c5f4f22d76)
 * [Start Python #1 Thread safe 싱글톤 패턴 - Kowana's coding](https://www.kowanas.com/coding/2020/11/29/%EC%8B%B1%EA%B8%80%ED%86%A4-%ED%8C%A8%ED%84%B4/)
 * [초보 탈출 #1 - 어려운 문제 조각내서 해결하기 | 10분 TV](http://10bun.tv/beginner/episode-1/#%ED%95%B4%EC%BB%A4%ED%86%A4-%ED%98%84%EC%9E%A5-%EC%82%AC%EC%A7%84)
+* [The S.O.L.I.D Principles in Python | by Bk Lim | Geek Culture | Sep, 2021 | Medium](https://medium.com/geekculture/the-s-o-l-i-d-principles-in-python-a041c5aa9969)
 
 # Ruby
 * [**(번역) 루비에서 상속을 피하는 방법**](https://emaren84.github.io/blog/archivers/how-to-avoid-inheritance-in-ruby-kor)

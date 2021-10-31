@@ -115,6 +115,10 @@ Functional Programming
 * [Legacy in Functional Programming PODCAST - LispCast](https://lispcast.com/legacy-in-functional-programming-podcast/)
 * [라인 백엔드 개발자의 함수형 프로그래밍 언어 실전 사용기 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=H6JxxWL6bJI)
 * [Immutability is not enough](https://codewords.recurse.com/issues/six/immutability-is-not-enough)
+* [실무에서 써먹는 불변성 | Popit](https://www.popit.kr/%ec%8b%a4%eb%ac%b4%ec%97%90%ec%84%9c-%ec%8d%a8%eb%a8%b9%eb%8a%94-%eb%b6%88%eb%b3%80%ec%84%b1/)
+* [Charles Scalfani, Author of Functional Programming Made Easier: A Step-by-Step Guide](https://leanpub.com/podcasts/frontmatter/charles-scalfani-03-08-21)
+* [다양한 함수의 정의와 표현](https://brunch.co.kr/@graypool/41)
+* [How Functional Programming Can Make You A Better Developer - YouTube](https://www.youtube.com/watch?v=EqO4TcNLjl0)
 
 # ADT (Algebraic Data Type)
 * [Functional Mumbo Jumbo - ADTs](http://blog.jenkster.com/2016/06/functional-mumbo-jumbo-adts.html)
@@ -124,13 +128,14 @@ Functional Programming
 * [The Simple Essence of Algebraic Subtyping: Principal Type Inference with Subtyping Made Easy | Lambda the Ultimate](http://lambda-the-ultimate.org/node/5597)
 
 # Book
-* [Implementing functional languages: a tutorial](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/)
-* [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
-* [An Outsider's Guide to Statically Typed Functional Programming](https://leanpub.com/outsidefp/read_full)
-* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read_full)
 * [스칼라 FP 관련 책들](https://gist.github.com/ikhoon/622605181b33839c95f3dd3df9ff8572)
+* [Book of monads by Alejandro Serrano Mena Leanpub PDF/iPad/Kindle](https://leanpub.com/book-of-monads)
+* [Category Theory for Programmers: The Preface](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/)
 * [Grokking Simplicity](https://www.manning.com/books/grokking-simplicity)
+* [Functional Programming for Mortals](https://leanpub.com/fpmortals/read_full)
 * [Functional and Reactive Domain Modeling](https://www.manning.com/books/functional-and-reactive-domain-modeling)
+* [Implementing functional languages: a tutorial](http://research.microsoft.com/en-us/um/people/simonpj/papers/pj-lester-book/)
+* [An Outsider's Guide to Statically Typed Functional Programming by Brian Marick PDF/iPad/Kindle](https://leanpub.com/outsidefp)
 
 # Category Theory
 * [Category Theory from the Universe Up](https://purelyfunctional.tv/courses/category-theory)
@@ -156,6 +161,7 @@ Functional Programming
 * [Purely Functional IO in Clojure](https://github.com/micmarsh/clojure-pure-io/blob/master/gist.md)
 * [Functional Programming](http://philoskim.github.io/doc/functional-programming.html)
 * [This is why people say that in functional programming the order of execution doesn’t matter - Learning Resources - ClojureVerse](https://clojureverse.org/t/this-is-why-people-say-that-in-functional-programming-the-order-of-execution-doesn-t-matter/7737)
+* [Functional Programming: Rapid Prototyping and Fast Delivery with Clojure - YouTube](https://www.youtube.com/watch?v=KPHBbaTFckk)
 
 # Conference
 * [Lambda World](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos)
@@ -204,6 +210,7 @@ Functional Programming
   * [5 : No Exceptions](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-5-no-exceptions-5f37ac594323)
   * [6 : No Locks or Synchronized Blocks](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-6-no-locks-or-synchronized-blocks-ea5a47644689)
   * [7 : Immutable Collections](https://medium.com/@johnmcclean/dysfunctional-programming-in-java-7-immutable-collections-83ba78aaf4dd)
+* [Java 8 transforming your thinking from OOP to FP](https://www.java-success.com/java-8-transforming-thinking-oop-fop-java-8-examples/)
 * [VΛVΓ (Vavr, formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality](https://github.com/vavr-io/vavr)
   * [vavr - A new powerful collection library saves us from source.stream().really("?").collect(sink()) pipelines](http://www.vavr.io/)
 
@@ -366,6 +373,8 @@ Functional Programming
 * [PyCon AU 2018 | FP demystified](https://2018.pycon-au.org/talks/45075-fp-demystified/)
 * [Going Functional in Python (with code) | by Hair Parra | Analytics Vidhya | Sep, 2020 | Medium](https://medium.com/analytics-vidhya/going-functional-in-python-with-code-b50ba7742469)
 * [Functioning with python functional programming- lambda, map, filter, zip, reduce, accumulate | LinkedIn](https://www.linkedin.com/pulse/functioning-python-functional-programming-lambda-map-shaleen-taneja/)
+* [funcy: A fancy and practical functional tools](https://github.com/Suor/funcy)
+  * [A collection of fancy functional tools focused on practicality](https://pythonawesome.com/a-collection-of-fancy-functional-tools-focused-on-practicality/)
 * [Monads, in my Python? by Xuanyi Chew - YouTube](https://www.youtube.com/watch?v=WNwV3wR4JjA)
 * [Monads in Python: Why and How? - YouTube](https://www.youtube.com/watch?v=26jVysJHB-s)
   * [vincent-prz/monad_comprehension.py](https://github.com/vincent-prz/monad_comprehension.py)
@@ -374,8 +383,14 @@ Functional Programming
   * [practice/python/test-monad](https://github.com/hyunjun/practice/tree/master/python/test-monad)
 * [Monads in Python. A simple implementation of the Failure… | by Martin McBride | The Startup | Medium](https://medium.com/swlh/monads-in-python-e3c9592285d6)
   * [practice - failure.py](https://github.com/hyunjun/practice/blob/master/python/test-monad/failure.py)
+* [pampy: Pampy: The Pattern Matching for Python you always dreamed of](https://github.com/santinic/pampy)
+  * [Pampy: Pattern Matching for Python](https://pythonawesome.com/pampy-pattern-matching-for-python/)
 * [Pycket: A Tracing JIT For a Functional Language](http://lambda-the-ultimate.org/node/5152)
+* [PyToolz API Documentation — Toolz 0.10.0 documentation](https://toolz.readthedocs.io/)
+  * [A functional standard library for Python](https://pythonawesome.com/a-functional-standard-library-for-python/)
 * scalaps [Introducing scalaps: Scala-inspired data structures for Python](https://medium.com/@matthagy/introducing-scalaps-scala-inspired-data-structures-for-python-53f3afc8696)
+* [simplematch: Minimal, super readable string pattern matching for python.](https://github.com/tfeldmann/simplematch)
+  * [Minimal, super readable string pattern matching for python](https://pythonawesome.com/minimal-super-readable-string-pattern-matching-for-python/)
 
 # Racket
 * [내 맘대로 프로그램 설계 7. - 함수형 프로그래밍](https://black7375.tistory.com/62)
@@ -444,6 +459,7 @@ Functional Programming
 * [01A: Scala FP basics: First-class function, higher order function, statements Vs expressions, immutability & recursion | Java-Success.com](https://www.java-success.com/01a-scala-functional-programming-basics-first-class-function-higher-order-function/)
 * [A Monads Approach for Beginners, in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=d-dy1x33moA)
 * [Functional Design | Francis Toth / Contramap](https://contramap.dev/posts/2021-01-22-functional_design/)
+* [A pure functional Primality Test in Scala - DEV Community](https://dev.to/guildenstern70/a-pure-functional-primality-test-in-scala-3gif) 에라토스테네스의 체
 
 # Swift
 * [A behind the scenes look at Map, Filter, and Reduce in Swift](https://medium.freecodecamp.org/a-behind-the-scenes-look-at-map-filter-and-reduce-in-swift-1991f5c7bc80)

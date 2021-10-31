@@ -38,6 +38,7 @@ Redis
 * [**REDIS 데이터 모델들**](http://www.popit.kr/redis-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%AA%A8%EB%8D%B8%EB%93%A4/)
 * [Intro To Redis Cluster Sharding – Advantages, Limitations, Deploying & Client Connections](http://highscalability.com/blog/2019/2/19/intro-to-redis-cluster-sharding-advantages-limitations-deplo.html)
 * [Docker기반 Redis 구축하기 - (10) Redis Cluster Mode 설정하기 | Carreys 기술블로그](https://jaehun2841.github.io/2018/12/03/2018-12-03-docker-10/#%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0)
+* [입 개발 Redis 에서 Redis Cluster 로 갈 때 주의해야할 부분들 | Charsyam's Blog](https://charsyam.wordpress.com/2021/10/03/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis-%EC%97%90%EC%84%9C-redis-cluster-%EB%A1%9C-%EA%B0%88-%EB%95%8C-%EC%A3%BC%EC%9D%98%ED%95%B4%EC%95%BC%ED%95%A0-%EB%B6%80%EB%B6%84%EB%93%A4/)
 * [Radix? Redis!](https://tosslab.github.io/2017/05/09/radix_redis.html)
 * [10. 데이터 폭풍이닷: 스크래핑으로 가져온 데이터 처리](https://highluck.github.io/#/project_k)
 * 3개의 key column이 있으며, 하나의 key로 찾는 경우
@@ -76,6 +77,12 @@ Redis
 * [Scaling Redis at Twitter](https://www.youtube.com/watch?v=rP9EKvWt0zo)
 * [Redis Use Patterns: An Introduction to the SQL Practitioner](https://www.youtube.com/watch?v=8Unaug_vmFI)
 * [Amazon ElastiCache(Redis)를 이용한 채팅 애플리케이션 구성 방법](https://aws.amazon.com/ko/blogs/korea/how-to-build-a-chat-application-with-amazon-elasticache-for-redis)
+* [**배민쇼핑라이브를 만드는 기술: 채팅 편 | 우아한형제들 기술블로그**](https://techblog.woowahan.com/5268/)
+  * 배달의민족 쇼핑라이브에서 많을 때는 분당 2만 건이 넘는 메시지를 처리하기 위한 채팅을 직접 구현하기로 하면서 Redis의 Pub/Sub과 Webflux를 이용해서 채팅을 구현한 과정을 설명
+  * 이전에 구현했던 경험을 통해 WebSocket의 사용 최소화, REST API를 사용할 수 있는 부분은 WebSocket의 커맨드를 이용하지 않도록 하여 WebSocket 처리에는 메시지를 보내고 받는 부분에 집중
+  * WebFlux로 non-blocking의 이점을 얻기 위해 대부분의 데이터는 Redis를 이용하고 RDB에 보관해야 하는 API는 별도로 분리
+  * WebSession을 사용했는데 어느 날 10,000개의 최대 세션 개수를 넘어서면서 오류가 발생하여 WebSession을 사용하지 않도록 개선
+  * 관리자 사이트에서 너무 많은 메시지를 브라우저에서 렌더링하다가 멈추는 문제가 발생하여 리스트를 가상화하고 렌더링 횟수를 줄여서 성능 문제 해결
 * [EC2에 Redis CLI 설치하기](https://jojoldu.tistory.com/348)
 * [You should revise your Redis max connections setting](https://medium.com/appaloosa-store-engineering/you-should-revise-your-redis-max-connections-setting-8136f063c916)
   * heroku에서 사용할 때 이야기라 server에 설치해서 쓸 때와는 조금 거리가 있지만 참고
@@ -108,6 +115,8 @@ Redis
 * [입 개발 Redis가 maxmemory 보다 더 썼다가 OOM 에러를 던져요!!! | Charsyam's Blog](https://charsyam.wordpress.com/2021/04/14/%EC%9E%85-%EA%B0%9C%EB%B0%9C-redis%EA%B0%80-maxmemory-%EB%B3%B4%EB%8B%A4-%EB%8D%94-%EC%8D%BC%EB%8B%A4%EA%B0%80-oom-%EC%97%90%EB%9F%AC%EB%A5%BC-%EB%8D%98%EC%A0%B8%EC%9A%94/)
 * [Improve Cache Speed at Scale - RedisConf 2020 - YouTube](https://www.youtube.com/watch?v=mPg20ykAFU4) Cache Stampede, TTL, PER, 디바운싱, Hot Keys, 읽기분산, 레플리카, 압축
 * [How to Set up a Firewall for Redis using ufw | thisDaveJ](https://thisdavej.com/how-to-set-up-a-firewall-for-redis-using-ufw/)
+* [Fun with Redis: Creating a Reactive Architecture Using Redis and Microservices - YouTube](https://www.youtube.com/watch?v=YEOoJZ13JtI)
+* [(웹툰) Redis 캐시](https://iamsang.com/blog/2021/10/24/redis-cache/)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
@@ -126,6 +135,8 @@ Redis
   * [Redis RENAME-COMMAND Parameter](http://redisgate.kr/redis/configuration/param_rename-command.php)
     * 성능저하 혹은 운영상 위험이 발생할 수 있는 명령의 이름을 바꾸는 방법
     * redis.conf에서 해당 명령을 변경 e.g. flushall -> xflushall, flushdb -> xflushdb
+* GEO
+  * [입 컨설팅 오일나우에서의 Redis 사용 방법 개선하기 – PART #1 | Charsyam's Blog](https://charsyam.wordpress.com/2021/08/31/%ec%9e%85-%ec%bb%a8%ec%84%a4%ed%8c%85-%ec%98%a4%ec%9d%bc%eb%82%98%ec%9a%b0%ec%97%90%ec%84%9c%ec%9d%98-redis-%ec%82%ac%ec%9a%a9-%eb%b0%a9%eb%b2%95-%ea%b0%9c%ec%84%a0%ed%95%98%ea%b8%b0-part-1/)
 * [INFO](https://redis.io/commands/INFO) disk usage 등 여러가지 정보
   * `info, info('cpu'), info('memory'), ...` in python
   * `info clients` or `echo "info clients" | nc -v <redis server> <redis port>` connected clients 개수
@@ -275,6 +286,7 @@ Redis
 * [Redis Streams and the Unified Log](https://brandur.org/redis-streams)
 * [Milano Scala Group - Redis Streams with ZIO - YouTube](https://www.youtube.com/watch?v=jJnco6sMZQY)
 * [The Design of Redis StreamsSalvatore Sanfilippo, Creator of Redis](https://www.youtube.com/watch?v=Ty1rQuRJijk)
+* [Stream 사용 방법](https://jybaek.tistory.com/935)
 
 # Tutorial
 * [Redis cluster tutorial](https://redis.io/topics/cluster-tutorial)

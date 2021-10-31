@@ -22,6 +22,8 @@ Religion
   * [(2)](http://newspeppermint.com/2015/09/10/scientist_atheist_2/)
 * [사이비 과학, 사이비 종교, 그리고 아이들의 희생](http://ppss.kr/archives/19330)
 * [The World's Newest Major Religion: No Religion](http://news.nationalgeographic.com/2016/04/160422-atheism-agnostic-secular-nones-rising-religion/)
+* [종교는 때로 사람의 건강을 해친다 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=45225)
+* [촛불과 태극기 사이에 선 대한민국과 개신교](https://www.newsnjoy.or.kr/news/articleView.html?idxno=303259)
 
 # Atheist
 * [대한민국은 종교의 천국? 아니, 무신론 강국!](http://v.media.daum.net/v/20170129000344826)
@@ -120,6 +122,10 @@ Religion
 * ['정교유착' 전광훈, 직통계시·예언 등으로 이단성 드러내는 이유](http://www.logosian.com/news/articleView.html?idxno=426)
 * [교회의 변태적 정치 참여... 전광훈이 꿈꾸는 나라의 실체 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/Event/Premium/at_pg.aspx?CNTN_CD=A0002672650)
 * [“교회 간 불평등이 한국 극우의 모체 됐다” - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=42768)
+* ["다른 종교와 소통하면 이단? 진짜 이단은 물신화한 주류 기독교 목회자들" 손원영 서울기독대 교수](https://news.v.daum.net/v/20210910100105875)
+* [줄어드는 종교 인구, 교회에 위기인가 기회인가 : 기독교 : 미주 종교신문1위 : 기독일보](https://kr.christianitydaily.com/articles/110346/20210908/%EC%A4%84%EC%96%B4%EB%93%9C%EB%8A%94-%EC%A2%85%EA%B5%90-%EC%9D%B8%EA%B5%AC-%EA%B5%90%ED%9A%8C%EC%97%90-%EC%9C%84%EA%B8%B0%EC%9D%B8%EA%B0%80-%EA%B8%B0%ED%9A%8C%EC%9D%B8%EA%B0%80.htm) 내가 보기엔 아전인수격 해석
+* [국회보다 낮은 한국교회 신뢰도…비신자 85% "코로나19 이후 개신교인에게 부정적 감정" < 코로나19와 개신교 < 교계 < 기사본문 - 뉴스앤조이](http://www.newsnjoy.or.kr/news/articleView.html?idxno=302654)
+* ["기업도 시장조사 거쳐 신제품 내놓는데…목회자들도 데이터 기반한 목회 전략 세워야" < 교계 < 기사본문 - 뉴스앤조이](https://www.newsnjoy.or.kr/news/articleView.html?idxno=303303)
 
 ## 성소수자
 * [성서의 레위기는 과연 동성애 혐오를 나타내는가?](http://ppss.kr/archives/44947)

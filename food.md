@@ -18,6 +18,7 @@ Food
 * [입에서 뱃속까지 이어지는 면발](http://www.huffingtonpost.kr/chanil-park/story_b_7677006.html)
 * [저녁에 미리 준비해 먹을 수 있는 사찰식 아침 식사 3](http://www.huffingtonpost.kr/2015/07/15/story_n_7800362.html)
 * [세계에서 가장 맛있는 샌드위치 13개를 2분 안에 본다(동영상)](http://www.huffingtonpost.kr/2015/08/04/story_n_7930562.html)
+* [#이건 인류를 위해 공개해야 해! 45년 경력 스페인밥집 사장님의 바게트 샌드위치 레시피 - YouTube](https://www.youtube.com/watch?v=T0_g405Jzfw)
 * [중화요리 르네상스](http://www.huffingtonpost.kr/2015/09/10/story_n_8114398.html)
 * [소금으로 해결할 수 있는 일상읜 문제들 10](http://www.huffingtonpost.kr/2015/09/16/story_n_8143916.html)
 * [토마토 레시피 3선 '셔벗 그라탕 라이스'](http://www.huffingtonpost.kr/2015/09/16/story_n_8145432.html)
@@ -87,6 +88,7 @@ Food
 * [일제는 과연 우리 술을 탄압하였는가?](http://ppss.kr/archives/50716)
 * [From the crack cocaine of its day to craft gin](http://www.economist.com/blogs/prospero/2015/08/history-alcohol?fsrc=scn/tw/te/bl/ed/fromthecrackcocaineofitsdattocraftgin)
 * [::술마켓:: SOOLMARKET : 이것이 우리들의 술이다! 모든 전통주 한번에 배송](https://soolmarket.com/)
+* [동료이자 동업자며 친구인, 술 빚는 시어머니와 며느리 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002772274)
 
 ## 막걸리
 * [카바이드 막걸리의 불편한 진실](http://ppss.kr/archives/40821)
@@ -158,6 +160,7 @@ Food
 * [31 coffees](https://imgur.com/a/IHNfcm1)
 * [커피가 나쁠까 차가 나쁠까, 죄수에게 매일 먹였더니](https://news.v.daum.net/v/20180917150057346)
 * [프랑스 카페의 역사](https://bookedit.tistory.com/724)
+* [기사 - K의 기원을 찾아서 한국인이 커피의 산미를 좋아하지 않는 이유 1](https://www.ddanzi.com/ddanziNews/699465235)
 
 ## Grinder
 * [Baratza Encore](http://brandbaby.egimsoft.co.kr/shop/item.php?it_id=1000558058#;)
@@ -187,6 +190,7 @@ Food
 * [인생은 아름답다. 바로 이 '초콜릿 파스타' 덕분에!](http://www.huffingtonpost.kr/2015/05/09/story_n_7246342.html)
 * [파스타를 빨리 그리고 효과적으로 삶는 법(동영상)](http://www.huffingtonpost.kr/littlethingscom/story_b_7481448.html)
 * [All the Pasta Recipes You Need](https://www.bonappetit.com/collection/pasta)
+* [두지엠아라크렘 | 카카오맵](https://place.map.kakao.com/2062887775)
 
 # Pizza
 * [입맛대로 골라 먹는 피자 스타일 4](http://www.huffingtonpost.kr/2015/03/26/story_n_6947066.html)

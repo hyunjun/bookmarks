@@ -47,16 +47,18 @@ Programming
   * 코딩테스트에 대한 준비와 기본기를 쌓는 부분
   * 클론코딩과 스터디 모임, 모각코, 콘퍼런스 등에서 이용할 수 있는 사이트와 어떤 부분이 도움 되었는지 설명
 * [These YouTube Channels Taught Me How to Code | by keypressingmonkey | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/these-youtube-channels-taught-me-how-to-code-6264fedfd325)
+* [pr0gr4m/Newbie-Guideline: 컴퓨터과학/공학 신입생 및 비전공자 신입을 위한 지침서](https://github.com/pr0gr4m/Newbie-Guideline)
 * [Developer Roadmaps - Step by step guides and paths to learn different tools or technologies](https://roadmap.sh/roadmaps)
 * [Awesome Roadmaps](https://github.com/awesome-roadmaps)
 * [2020 백엔드 개발자 로드맵](https://velog.io/@exploit017/2020-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A1%9C%EB%93%9C%EB%A7%B5)
+* [66.(요약) 개발자 분류와 공부해야 하는 기술](https://brunch.co.kr/@topasvga/1382)
 * [백엔드 개발자를 꿈꾸는 학생개발자에게](https://d2.naver.com/news/3435170)
 * [Challenging projects every programmer should try](http://web.eecs.utk.edu/~azh/blog/challengingprojects.html)
 * [More challenging projects every programmer should try - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/morechallengingprojects.html)
 * [Three Projects to Make You a Better Programmer | by Giuseppe | The Dev Café | Medium](https://medium.com/the-dev-caf%C3%A9/three-projects-to-make-you-a-better-programmer-65903e53620a)
 * [15 App Ideas to Build and Level Up your Coding Skills](https://blog.bitsrc.io/15-app-ideas-to-build-and-level-up-your-coding-skills-28612c72a3b1)
 * [5 Technologies to Pick Up During Quarantine and Improve Your Software Engineering Skillset](https://levelup.gitconnected.com/5-technologies-to-pick-up-during-quarantine-and-improve-your-software-engineering-skillset-68bd766bee9c)
-* [5 Ways to Improve Your Code - YouTube](https://www.youtube.com/watch?v=1KeJc6V4Jjk)
+* [5 Ways to Improve Your Code • Dave Farley • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=5z5eGcmNikQ) TDD, meaningful code rather than comment, refactoring, ...
 * [a2big.com](http://www.a2big.com/) 하둡, 머신러닝, 안드로이드, 아이폰, 장고 & NoSQL & 센서 개인용 지식 정리 페이지 느낌
 * [Google - Technical Development Guide](https://www.google.com/about/careers/students/guide-to-technical-development.html)
 * [CS for All](http://www.cs.hmc.edu/csforall/)
@@ -82,9 +84,24 @@ Programming
   * [Part V: Signature Quadratic Form Distance](http://www.deepideas.net/building-content-based-search-engine-signature-quadratic-form-distance/)
 * [Building personal search infrastructure for your knowledge and code Overview of search tools for desktop and mobile; using Emacs and Ripgrep as desktop search engine](https://beepb00p.xyz/pkm-search.html)
 * [10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
+* [Michael Feathers - 10 Papers Every Developer Should Read](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
 * [arxiv sanity perserver](http://www.arxiv-sanity.com/top) top papers based on people's libraries
 * [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 * [**소프트웨어 설계란 무엇인가?**](https://www.mimul.com/blog/what-is-software-design/) 문서의 중요성을 설명한 92년 글 번역문. 20여년이 지났어도 유효한 좋은 글(그러니 역자도 번역했겠지)
+* [**엔지니어라면 꼭 보고가야 할 일론 머스크의 5단계 원칙**](https://maily.so/electricshock/posts/767236) 일단 시작하기 전에 0. 현황 파악부터
+  1. 설계 요구사항이 정말 맞는 것인지 검증해라
+    * 특히 똑똑한 사람이 정한 것일수록, 충분히 검증되지 않았을 가능성이 높다.
+    * 모든 설계는 그 잘못된 정도의 차이가 있을 뿐, 일단 모두 잘못되었다고 가정하고 검증에 매달려라.
+  2. 필요 없는 부품이나 프로세스를 제거해라
+    * 혹시나 필요할지도 몰라 추가한, 불필요한 부품이나 프로세스가 언제나 있기 마련이다.
+    * 이런 애매한 것들은 진짜 필요한 것인지 바로 물어보면서 검증할 수 있도록, 누구 아이디어인지 팀 이름 대신 담당자 이름을 직접 기재해라.
+  3. 설계를 단순화, 최적화해라
+    * 엔지니어들의 가장 흔한 실수는, 애초에 존재해서는 안되는 것을 최적화시키는 데 매달리는 것이다.
+    * 우리는 고등학교와 대학교에서 항상 질문에만 답하도록 훈련 받았지만, 질문의 전제가 옳은 지부터 의문을 제기해야할 때가 있다.
+  4. 생산 속도를 높여라
+    * 하지만 앞의 3가지를 끝내지 않은 상태에서 생산 속도를 밀어붙여선 안된다. 그렇지 않으면 자기 무덤을 더 빠르게 파는 것이나 마찬가지다.
+  5. 자동화해라
+  * 순서가 중요. 거꾸로 적용하면 안됨
 * [A Philosophy of Software Design | John Ousterhout | Talks at Google - YouTube](https://www.youtube.com/watch?v=bmSAYlu0NcY) 좋은 소프트웨어 디자인을 어떻게 알아보고, 가르치고, 가꿔 나갈지에 대한 이야기
 * [Book Review: A Philosophy of Software Design | Johz Blog](https://johz.bearblog.dev/book-review-philosophy-software-design/)
 * [Analysis & Design · Present](https://present.do/decks/60c21e8267ba0b4949e79f42)
@@ -110,6 +127,7 @@ Programming
 * [용어: 동기, 비동기, 블록, 논블록, 병행, 병렬](http://javacan.tistory.com/entry/term-sync-async-block-nonblock-concurrency-parallelism)
 * [멈추지 않고 기다리기(Non-blocking)와 비동기(Asynchronous) 그리고 동시성(Concurrency)](https://tech.peoplefund.co.kr/2017/08/02/non-blocking-asynchronous-concurrency.html)
 * [**동기(Synchronous)는 정확히 무엇을 의미하는걸까?**](https://evan-moon.github.io/2019/09/19/sync-async-blocking-non-blocking/)
+* [동기와 비동기 방식 데이터 처리 (Syn / Asynchronous)](https://blog.naver.com/dsz08082/222151475472)
 * [Zero-Overhead Metaprogramming](http://stefan-marr.de/2015/04/zero-overhead-metaprogramming/)
 * [(번역) 메타언어 길들이기](https://emaren84.github.io/blog/archivers/understanding-taming-the-meta-language-kor)
 * [What every computer science major should know](http://matt.might.net/articles/what-cs-majors-should-know/)
@@ -139,9 +157,9 @@ Programming
 * [Yet Another Language Speed Test: Counting Primes (C, C++, Java, JavaScript, PHP, Python and Ruby)](https://bjpelc.wordpress.com/2015/01/10/yet-another-language-speed-test-counting-primes-c-c-java-javascript-php-python-and-ruby-2/)
 * [Popular Programming Podcast episodes](https://docs.google.com/spreadsheets/d/1gIRjeB1Y_AMvtmJsZWl_dNMDJ7lPSIxiVUYyEvrP5P4/edit#gid=1458779204)
 * [Podflix - It's Kinda Like Netflix for Podcasts!](https://podflix.app/)
+* [InfoQ: The InfoQ Podcast](https://www.infoq.com/5-software-architecture-podcasts-2019/)
 * [codingradio.xyz](https://codingradio.xyz/)
 * [stdout.fm - 소프트웨어 개발, 테크 뉴스, 전자제품에 대해 잡담하는 팟캐스트. #stdoutfm](https://stdout.fm/)
-* [Essential facts about floating point calculations](http://mortoray.com/2015/07/06/essential-facts-about-floating-point-calculations/)
 * [New paper: Theory of Programs](https://bertrandmeyer.com/2015/07/06/new-paper-theory-of-programs/)
 * [relation between type theory and category theory](http://ncatlab.org/nlab/show/relation+between+type+theory+and+category+theory)
 * [References for "The Future of Programming"](http://worrydream.com/dbx/)
@@ -192,7 +210,7 @@ Programming
 * [IDG 블로그 | 2017년에 버려질 빅데이터 도구 7가지](http://www.itworld.co.kr/news/101665)
 * [musicforprogramming.net](http://musicforprogramming.net)
 * [라이브러리, 프레임워크, 아키텍처, 플래폼이란?](http://blog.gaerae.com/2016/11/what-is-library-and-framework-and-architecture-and-platform.html)
-* [**'기능 공장'에서 일하고 있다는 12가지 신호**](https://brunch.co.kr/@cojette/31)
+* [프레임워크가 무엇이고, 어떻게 사용해야할까?? (프레임워크 동작방식 예제)](https://velog.io/@couchcoding/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EA%B0%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
 * [ehpub.co.kr](http://ehpub.co.kr/)
 * [MENA 지역 서비스 개발시 알아두면 좋은 사항들 1/2](http://www.popit.kr/mena-%EC%A7%80%EC%97%AD-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%82%AC%ED%95%AD%EB%93%A4-12/) localization internationalization i18n
 * [Building Airbnb’s Internationalization Platform | by Hua Zheng | Airbnb Engineering & Data Science | Oct, 2020 | Medium](https://medium.com/airbnb-engineering/building-airbnbs-internationalization-platform-45cf0104b63c)
@@ -208,6 +226,9 @@ Programming
 * [Dreyfus Model](http://blog.lastmind.io/archives/593)
 * [능력 있는 개발자는 어떻게 알아볼 수 있나? by 황준식님](https://okky.kr/article/370719)
 * [백발의 개발자가 되기 위한 커리어 패스](http://zdnet.co.kr/column_view.asp?artice_id=20141106211852)
+* [Overview - Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
+  * 소프트웨어 엔지니어, QA 엔지니어, SRE, 머신러닝 엔지니어, 엔지니어링 매니저마다 각 레벨에서의 기대되는 역할과 핵심 책임 정리
+  * [드롭박스의 엔지니어링 커리어 프레임워크 | GeekNews](https://news.hada.io/topic?id=4604)
 * [CROSS-PLATFORM GUI TOOLKIT TRAINWRECK, 2016 EDITION](http://blog.johnnovak.net/2016/05/29/cross-platform-gui-trainwreck-2016-edition/)
 * [Top 8 Cross-Platform Frameworks for App Development in 2021 - Messapps](https://messapps.com/allcategories/development/best-cross-platform-app-development-frameworks/)
 * [**좋은 코딩을 위한 13 가지 간단한 규칙**](https://mingrammer.com/translation-13-simple-rules-for-good-coding)
@@ -232,8 +253,14 @@ Programming
 * [네이버 검색의 SRE 시스템](https://d2.naver.com/helloworld/2047663)
 * [SRE 팀에서 장애의 root cause를 찾고 재발방지 하는 방법 - 우아한형제들 기술 블로그](https://woowabros.github.io/sre/2020/11/11/sre-troubleshoooting.html)
 * [**school-of-sre: At LinkedIn, we are using this curriculum for onboarding our entry level talents into the SRE role**](https://github.com/linkedin/school-of-sre)
+* [The Ultimate Guide to Onboarding New Developers: Industry Best Practices](https://codesubmit.io/blog/guide-to-onboarding-developers/)
+  * [개발자 온보딩 가이드 : 첫 90일을 어떻게 계획해야 할까 | GeekNews](https://news.hada.io/topic?id=4643)
 * [시스템신뢰성개발팀을 소개합니다. - 우아한형제들 기술 블로그](https://woowabros.github.io/sre/2021/02/22/introduction-to-sre.html)
+* [**우아~한 장애대응 | 우아한형제들 기술블로그**](https://techblog.woowahan.com/4886/)
 * [SRE 사례 소개](https://toss.im/slash-21/sessions/1-4)
+* [Practical Guide to SRE: Incident Severity Levels | Rootly](https://rootly.io/blog/practical-guide-to-sre-incident-severity-levels)
+* [SRE vs. DevOps: What are the Differences? - DZone DevOps](https://dzone.com/articles/sre-vs-devops-what-are-the-differences)
+* [Google - Site Reliability Engineering](https://sre.google/sre-book/accelerating-sre-on-call/)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Teach Yourself Programming in Ten Years**](http://norvig.com/21-days.html)
 * [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
@@ -243,9 +270,11 @@ Programming
 * [번역 OpenSSH의 기본 키 암호화는 평문보다 못합니다](https://tech.ssut.me/2018/08/07/the-default-openssh-key-encryption-is-worse-than-plaintext/)
 * [Seriously, stop using RSA](https://blog.trailofbits.com/2019/07/08/fuck-rsa/) RSA는 취약하니 사용하지 말고 다른 대체 알고리즘 기반 library를 사용하라는 글
 * [**Project Guidelines**](https://github.com/HyunSeob/project-guidelines/blob/master/README-ko.md)
+* [Essential facts about floating point calculations](http://mortoray.com/2015/07/06/essential-facts-about-floating-point-calculations/)
 * [**100 * 0.7 = ? 남들과는 조금 다른 부동소수점 이야기**](https://libsora.so/posts/amazing-floating-point-100x07/)
 * [Floating Point Math](https://0.30000000000000004.com/)
 * [GNU GCC on x86 does not round floating-point divisions to the nearest value – Daniel Lemire's blog](https://lemire.me/blog/2020/06/26/gcc-not-nearest/)
+* [입 개발 bits로 시간을 얼마나 표현할 수 있을까? | Charsyam's Blog](https://charsyam.wordpress.com/2021/07/24/%EC%9E%85-%EA%B0%9C%EB%B0%9C-bits%EB%A1%9C-%EC%8B%9C%EA%B0%84%EC%9D%84-%EC%96%BC%EB%A7%88%EB%82%98-%ED%91%9C%ED%98%84%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C/)
 * [매개변수(parameter)와 전달인자(parameter)](https://wayhome25.github.io/etc/2017/12/31/parameter-argument/)
 * [프로그래밍에서 인지 편향](http://www.mimul.com/pebble/default/2018/01/05/1515145860439.html)
 * [RLP encoding](http://blog.seulgi.kim/2018/01/rlp-encoding.html)
@@ -253,6 +282,7 @@ Programming
 * [When do I know I'm not a beginner anymore?](https://www.quora.com/When-do-I-know-Im-not-a-beginner-anymore/answer/Ken-Gregg?share=79e441a7)
   * [더 이상 초보 개발자가 아니라는 사실을 언제 알게 되나요?](http://jhrogue.blogspot.kr/2018/03/b.html)
 * [The Mistakes I Made As a Beginner Programmer](https://medium.com/@samerbuna/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312)
+* [6 Biggest Developer's Mistake That Must be Avoided | CodersTea](https://www.coderstea.com/post/life/6-biggest-developers-mistake-that-must-be-avoided/)
 * [초급 개발자가 알아야 하는 12가지 기술](http://jhrogue.blogspot.com/2018/10/b-12.html)
 * [Tips From The Book Every Programmer Should Read](https://hackernoon.com/tips-from-the-book-every-programmer-should-read-425fb77873f8)
 * [40 Tips that will change your coding skills forever | by Kesk | The Startup | Medium](https://medium.com/swlh/40-tips-that-will-change-your-coding-skills-forever-bf9d6b936ccc)
@@ -281,6 +311,11 @@ Programming
   * [(3) – 다른 팀 소스 코드를 볼 수 있는가?](http://channy.creation.net/blog/1110)
   * [(4) – 사내 라이브러리를 잘 관리하려면?](http://channy.creation.net/blog/1183)
   * [(5) – 소통 비용의 절약: 서로 API로 말하자](http://channy.creation.net/blog/1199)
+* [‘개발문화를 혼자서 바꿀 수 없다’며 포기하기엔 이릅니다 - Dico](https://dico.me/topic/articles/296/ko)
+  * 사람인에서 한 개발자가 사내 개발 문화를 바꾸기 위해 6개월간 노력한 과정과 성과를 정리
+  * 기술 블로그는 외부 개발자를 위한 마케팅 수단이지만 사내 개발자 간의 차이는 줄어들지 않으므로 기술 블로그와 같은 접근으로 사내 개발자를 대상으로 정기적으로 글을 써서 발행
+  * 주 업무가 아니라서 시간도 부족하고 주제 선정에도 어려움이 있었지만, 같이 글을 써줄 사람도 생기고 사내 개발자들에게 관심도 받게됨
+  * 문화를 바꾸기 어렵다고 하기 쉬운데 한 명이어도 포기하지 않고 글을 쓰는 적극성이 놀랍고 어떻게 해야 동료 개발자에게 영향을 줄 수 있는지 고민을 많이 한 듯
 * [나는 그동안 무엇으로 성장했을까?](http://huns.me/development/2281) 코드 이외의 측면에서 개발에 필요한 분야
 * 쉽게 알아보는 서버 인증
   * [1편(세션/쿠키 , JWT)](http://tansfil.tistory.com/58)
@@ -353,7 +388,6 @@ Programming
 * [스타트업 개발자 혼자 빠르게 싸게 서버 구축하기 - 4편 빌드와 배포 | Popit](https://www.popit.kr/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-%ED%98%BC%EC%9E%90-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EC%8B%B8%EA%B2%8C-%EC%84%9C%EB%B2%84-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-4%ED%8E%B8/)
 * [EOF is not a character](https://ruslanspivak.com/eofnotchar/)
 * [**5 Famous Programming Quotes, Explained**](https://medium.com/young-coder/5-famous-programming-quotes-explained-4da607906c1)
-* [다양한 소프트웨어 버전 명명 (Software versioning)](https://blog.sonim1.com/243)
 * [서비스 구하기 1부 : 그 시작](https://javacan.tistory.com/entry/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%95%98%EA%B8%B0-1%EB%B6%80-%EA%B7%B8-%EC%8B%9C%EC%9E%91)
 * [서비스 구하기 2부 : 초조](https://javacan.tistory.com/entry/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%95%98%EA%B8%B0-2%EB%B6%80-%EC%B4%88%EC%A1%B0)
 * [서비스 구하기 3부 : 짧은 고요](https://javacan.tistory.com/entry/%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%ED%95%98%EA%B8%B0-3%EB%B6%80-%EC%A7%A7%EC%9D%80-%EA%B3%A0%EC%9A%94)
@@ -379,6 +413,7 @@ Programming
 * [서버 분산 처리 환경에서 데이터의 불일치를 어떻게 해결할까? Part 1 | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p2/)
 * [서버 분산 처리 환경에서 세션 불일치를 어떻게 해결할까? Part 2 | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p3/)
 * [**무료로 개인 프로젝트 호스팅 하기 | 딥백수**](https://dl4ab.github.io/2020/09/06/free-web-server-for-your-portfolio/)
+* [무료로 웹호스팅, 서비스 이용하기 :: 개발의 모든 이야기](https://uznam8x.tistory.com/84)
 * [basics-of-server-development: 서버 개발자로서 홀로서기](https://github.com/Zeniuus/basics-of-server-development)
 * [A Guide on Good Backend Coding Practices | by Jimmy Soh | The Internal Startup | Medium](https://medium.com/the-internal-startup/a-guide-on-good-backend-coding-practices-e43f80422559) 기본 원칙
 * [나의 백엔드 배포 환경 정책 · /usr/lib/libsora.so](https://libsora.so/posts/my-backend-deployment-environment-policy/) development environment
@@ -386,6 +421,7 @@ Programming
 * [Everything is an X - lukeplant.me.uk](https://lukeplant.me.uk/blog/posts/everything-is-an-x-pattern/)
 * [Mountain West Ruby 2012 Capability vs. Suitability by Gary Bernhardt - YouTube](https://www.youtube.com/watch?v=NftT6HWFgq0) 소프트웨어 산업의 기념비적인 업적들을 되짚으며 ‘더 많은 일을 가능케 하는’ 그리고 ‘더 안정적이고 예측 가능한’ 서로 충돌하는 두 목표를 어떻게 주거니 받거니 차례로 추구하며 발전해 왔는지 소개
 * [리멤버 서버/웹 팀은 어떻게 일을 하는가? | DRAMA&COMPANY](https://blog.dramancompany.com/2020/12/%eb%a6%ac%eb%a9%a4%eb%b2%84-%ec%84%9c%eb%b2%84-%ec%9b%b9-%ed%8c%80%ec%9d%80-%ec%96%b4%eb%96%bb%ea%b2%8c-%ec%9d%bc%ec%9d%84-%ed%95%98%eb%8a%94%ea%b0%80/)
+* [나우 위젯 개발을 통해서 알아보는 리멤버 앱팀의 일 하는 방식 | DRAMA&COMPANY](https://blog.dramancompany.com/2021/08/%eb%82%98%ec%9a%b0-%ec%9c%84%ec%a0%af-%ea%b0%9c%eb%b0%9c%ec%9d%84-%ed%86%b5%ed%95%b4%ec%84%9c-%ec%95%8c%ec%95%84%eb%b3%b4%eb%8a%94-%eb%a6%ac%eb%a9%a4%eb%b2%84-%ec%95%b1%ed%8c%80%ec%9d%98-%ec%9d%bc/)
 * [국내/한국 개발자 커뮤니티 모아보기](https://open-support.tistory.com/entry/%EA%B5%AD%EB%82%B4-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0)
 * [코딩블로그 종류와 장점, 단점 | 블로그 선택](https://digiconfactory.tistory.com/entry/%EC%BD%94%EB%94%A9%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%A2%85%EB%A5%98%EC%99%80-%EC%9E%A5%EC%A0%90-%EB%8B%A8%EC%A0%90-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EC%84%A0%ED%83%9D)
 * [**Hashids - generate short unique ids from integers**](https://hashids.org/) 여러가지 다양한 언어별 github repo 제공
@@ -396,6 +432,8 @@ Programming
 * [로블록스: 메타버스의 새벽. Roblox: Dawn of the Metaverse | by Kenial Lee | kokr | Mar, 2021 | Medium](https://medium.com/kokr/%EB%A1%9C%EB%B8%94%EB%A1%9D%EC%8A%A4-%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%EC%9D%98-%EC%83%88%EB%B2%BD-330a56386e34)
 * [2021.03.08 우리가 경험해온 메타버스, 앞으로 만나게 될 메타버스](https://www2.slideshare.net/KiheonShin/20210308-244069379) metaverse
 * [Building the Metaverse](https://www.slideshare.net/jradoff/building-the-metaverse-248941223)
+* [The Metaverse is Coming - Are You Ready? · Present](https://present.do/decks/60f79e5934f983173391e91d)
+* [WorkAdventure - 오픈소스 메타버스 플랫폼 소프트웨어 | GeekNews](https://news.hada.io/topic?id=4823)
 * [A System for Detecting Software Similarity](http://theory.stanford.edu/~aiken/moss/)
 * [How to Learn Complex Things Quickly: A Guide](https://product.hubspot.com/blog/how-to-learn-complex-things-quickly)
 * [23 Active Software Engineering Publications on Medium | by Anupam Chugh | Mar, 2021 | Better Programming](https://betterprogramming.pub/23-active-software-engineering-publications-on-medium-a17484223b9a) engineering blog
@@ -408,14 +446,35 @@ Programming
   * [개발자들을 위한 검색 엔진 - Devbook | GeekNews](https://news.hada.io/topic?id=4269)
 * [What is content modeling? | Sanity.io guide](https://www.sanity.io/guides/content-modeling-guide-introduction)
 * [Why is NanoID Replacing UUID?. A Tiny, URL-Friendly Unique String… | by Charuka Herath | Jun, 2021 | Bits and Pieces](https://blog.bitsrc.io/why-is-nanoid-replacing-uuid-1b5100e62ed2)
+* [다른 개발자들은 어떤 포트폴리오 프로젝트를 만들었을까? feat. 포트폴리오 레퍼런스 찾는 법](https://velog.io/@ruizhen88/%EB%8B%A4%EB%A5%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%93%A4%EC%9D%80-%EC%96%B4%EB%96%A4-%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%97%88%EC%9D%84%EA%B9%8C)
+* [토이프로젝트 썰 나의 개발자 랭킹은?! OPGC 에서 확인해보세요! :: Jay's Code Factory](https://jay-ji.tistory.com/84)
+* [0x7FDE623822FC16E6 : a magic constant for double float reciprocal - Paul Khuong mostly on Lisp](http://pvk.ca/Blog/LowLevel/software-reciprocal.html)
+* [What Does It Take To Be a Tech Giant? | Miguel Rochefort](https://miguelrochefort.com/blog/tech-giant/)
+  * [Tech Giant가 되려면 뭐가 필요한가 ? | GeekNews](https://news.hada.io/topic?id=4600)
+* [Data-Driven Development in the Automotive Field - YouTube](https://www.youtube.com/watch?v=SExQZna9x90)
+* [쏘카 백오피스 팀 내 공통 코드(Common Code) 관리 변천사 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2021/08/17/common-code-management.html)
+* [**Software development topics I've changed my mind on after 6 years in the industry - Blogomatano**](https://chriskiehl.com/article/thoughts-after-6-years)
+  * [업계에서 6년 있은 뒤, 마음이 바뀐 소프트웨어 개발 토픽들 | GeekNews](https://news.hada.io/topic?id=3635) 매우 좋은 글. 대부분 동의함
+* [Unpaywall - 오픈 액세스 논문 검색엔진 | GeekNews](https://news.hada.io/topic?id=4786)
+* [Zip - How not to design a file format](https://games.greggman.com/game/zip-rant/)
+* [APEX 사례로 보는 Low Code](https://jhrogue.blogspot.com/2021/09/apex-low-code.html)
+* [글로벌 칼럼 | 유지보수를 위한 다운타임, '유지보수 윈도우'는 정당화할 수 없다 - ITWorld Korea](https://www.itworld.co.kr/news/209072) 가용성, availability
+* [한·중·일 전산학 용어 대조 | GeekNews](https://news.hada.io/topic?id=5165)
+* [Why you should launch your product without a login | Caspar von Wrede](https://casparwre.de/blog/launching-a-product-without-a-login/)
+  * [로그인 기능 없이 제품을 런칭 해야하는 이유 | GeekNews](https://news.hada.io/topic?id=5144)
+* [If not fixed, our code will fail every Sunday](https://jolo.xyz/blog/2021/10/25/dayofweek-inconsistency) 언어별로 서로 다른 요일값. datetime은 항상 어렵다
+* [호환성을 지켜주려는 개발자의 마음 | K리그 프로그래머](https://jeho.page/essay/2021/10/27/%ED%98%B8%ED%99%98%EC%84%B1%EC%9D%84-%EC%A7%80%EC%BC%9C%EC%A3%BC%EB%A0%A4%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%A7%88%EC%9D%8C.html)
 
 # Agile, Scrum
+* [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
 * [왜 “애자일”, 특히 스크럼이 끔찍한가](http://wonnyz.tumblr.com/post/136256619316/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%8A%B9%ED%9E%88-%EC%8A%A4%ED%81%AC%EB%9F%BC%EC%9D%B4-%EB%81%94%EC%B0%8D%ED%95%9C%EA%B0%80)
 * [Why do some developers at strong companies like Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense)
 * [애자일을 어떻게 실천하나요? - XP 편](https://brunch.co.kr/@insuk/15)
+* [Putting the XP in Scrum • Roy Osherove • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=JtvSp3BPG8I)
+* [협업 조직에서 함께 앉기 구현하기](https://brunch.co.kr/@graypool/139) XP
 * [프로세스 개선이 현업에서 정착되려면](http://woowabros.github.io/woowabros/2017/04/18/process.html)
 * [회사에서 새로운 기술 적용하기](https://www.slideshare.net/junseokjung1/ss-76115779)
-* [개발자의 입장에서 본 버즈빌의 개발 문화: 애자일 소프트웨어 개발](https://www.buzzvil.com/2017/03/31/tech-blog-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%9E%85%EC%9E%A5%EC%97%90%EC%84%9C-%EB%B3%B8-%EB%B2%84%EC%A6%88%EB%B9%8C%EC%9D%98-%EA%B0%9C%EB%B0%9C-%EB%AC%B8%ED%99%94-%EC%95%A0%EC%9E%90%EC%9D%BC/)
+* [개발자의 입장에서 본 버즈빌의 개발 문화: 애자일 소프트웨어 개발](https://brunch.co.kr/@mobiinside/868)
 * [‘행아웃’을 탄생시킨 혁신적 프로젝트 수행법, ‘스프린트’](http://www.bloter.net/archives/280123)
 * [애자일이 중요한 것이 아니다!](http://www.popit.kr/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%B4-%EC%A4%91%EC%9A%94%ED%95%9C-%EA%B2%83%EC%9D%B4-%EC%95%84%EB%8B%88%EB%8B%A4/)
 * [Toss-X에서 애자일 회고를 했다](https://medium.com/@ghilbut/toss-x%EC%97%90%EC%84%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%9A%8C%EA%B3%A0%EB%A5%BC-%ED%96%88%EB%8B%A4-cee2f36e7f96)
@@ -431,6 +490,8 @@ Programming
 * [애자일을 키워드로 배워보자 : 애자일 키워드 팟캐스트](http://agile.egloos.com/5904205)
 * [방법론 도입이 실패하는 이유](http://agile.egloos.com/5906079)
 * [What is Agile Workflow? (ELI5)](https://medium.com/scrumi/what-is-agile-workflow-eli5-15040cbd5e75)
+* [What is Agile? | Atlassian](https://www.atlassian.com/agile)
+  * [What is Agile? | Atlassian - 아틀라시안이 알려주는 애자일 A to | GeekNews](https://news.hada.io/topic?id=4389)
 * [Can You Stop Using Story Points?](https://hackernoon.com/can-you-stop-using-story-points-ac36449ffa10)
 * [사용자 스토리 포인트로 스마트하게 프로젝트 진행하기(feat. LINE Pay 개발 팀) - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/user-story-point-in-line-pay-team/)
 * [왜 애자일은 동작하지 않을까?(Why Isn’t Agile Working?)](https://www.vobour.com/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%80-%EB%8F%99%EC%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84%EA%B9%8C-why-isn%E2%80%99t-agile-working)
@@ -449,13 +510,16 @@ Programming
 * [KPT하는 스타트업은 성장한다](https://brunch.co.kr/@fromjayden/7) Keep Problem Try
 * [What is Kanban? (and how does it work)](https://www.youtube.com/watch?v=xhxncRy-_Rk)
 * [Scrum Is Dead. All Hail Kanban, the New King - Better Programming - Medium](https://medium.com/better-programming/scrum-is-dead-all-hail-kanban-the-new-king-2cd6249feef8)
+* [Agile vs Kanban - YouTube](https://www.youtube.com/watch?v=fjeVFxL9MQA)
 * [Google I/O 2019 – Thinking in 5G Workshop 세션 참석 후기](https://engineering.linecorp.com/ko/blog/google-io-2019-thinking-in-5g-workshop-review/) 디자인 스프린트 이야기이지만 참고할만한 부분이 많음
 * [Why do some developers at strong companies like Google consider Agile development to be nonsense?](https://www.quora.com/Why-do-some-developers-at-strong-companies-like-Google-consider-Agile-development-to-be-nonsense/answer/David-Jeske)
+  * [왜 어떤 구글 개발자들은 애자일 개발이 무의미하다고 하는가에 대한 (전) 구글 엔지니어 디렉터의 답변 | GeekNews](https://news.hada.io/topic?id=265)
 * [애자일 키워드 팟캐스트](http://www.podbbang.com/ch/14757)
 * [The Death of Agile and Beyond](https://www.infoq.com/articles/death-agile-beyond/)
 * [클린 소프트웨어(애자일 개발과 설계)](https://blog.naver.com/jwyoon25/221591645594)
 * [책 후기 클린 소프트웨어](http://blog.wimy.com/456/)
 * [Why software developers (quite honestly) hate Agile](https://www.objectstyle.com/agile/why-developers-hate-agile)
+  * [왜 (일부) 개발자들은 Agile 을 싫어하는가 | GeekNews](https://news.hada.io/topic?id=661)
 * [애자일 개발자가 지켜야 할 중요한 코딩 프랙티스 7가지](http://www.itworld.co.kr/news/134294)
 * [당장 실행할 수 있는 애자일 실천법](https://selfothercontext.com/2019/10/28/agile-practices/)
 * [Scrum: A Primer On Adaptive Techniques](https://angel.co/blog/scrum-a-primer-on-adaptive-techniques)
@@ -468,8 +532,8 @@ Programming
 * [Agile Software in the Real World: Responding vs Planning](https://medium.com/swlh/agile-software-in-the-real-world-responding-vs-planning-ade5c2ee8692)
 * [포커, 어디까지 쳐봤니 – 서비스 개발에 플래닝 포커 도입 사례 (feat. 원격근무) – tech.kakao.com](https://tech.kakao.com/2020/09/08/planning-poker/)
 * [차세대, 리팩토링 그리고 애자일](https://www.popit.kr/%EC%B0%A8%EC%84%B8%EB%8C%80-%EB%A6%AC%ED%8C%A9%ED%86%A0%EB%A7%81-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%95%A0%EC%9E%90%EC%9D%BC/)
-* [Spotify의 Squad 팀 모델은 실패였다](https://news.hada.io/topic?id=2191)
 * [Spotify’s Failed #SquadGoals](https://www.jeremiahlee.com/posts/failed-squad-goals/)
+  * [Spotify의 Squad 팀 모델은 실패였다](https://news.hada.io/topic?id=2191)
 * [What is Fake Agile? Understanding the Dark Side of Agile and How to Avoid It | Process Street | Checklist, Workflow and SOP Software](https://www.process.st/fake-agile/)
 * [ENG 애자일 코치, 스크럼 마스터? 직장인 리더십의 진정한 조건! | 일하는 우리 | - YouTube](https://www.youtube.com/watch?v=U67CRZFwZTQ)
 * [IT 알려주는 은행원 애자일 전문가 되는 비법 공개 - YouTube](https://www.youtube.com/watch?v=QJ4zM8CAKp0)
@@ -493,6 +557,31 @@ Programming
 * [Agile, 애자일관련 소프트웨어의 열두가지 개발원칙에 대해서 알아보자](https://devocean.sk.com/blog/techBoardDetail.do?ID=159948)
 * [뉴 노멀 시대의 인셉션 워크숍 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/inception-workshop-in-the-new-normal/) agile inception project inception
 * [OpenWork, 카카오의 일하는 방식 – tech.kakao.com](https://tech.kakao.com/2021/07/02/openwork-agile/)
+* [DEVIEW 2020 :: 주먹구구 게 섯거라 K-Agile이 나가신다 (우리에게 딱 맞춘 애자일로 함께 팀을 개선한 이야기)](https://deview.kr/2020/sessions/383)
+* [애자일 프로젝트 계획: 빨리 만들고, 빨리 내보내야 하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/242690) MVP
+* [Making sense of MVP (Minimum Viable Product) - and why I prefer Earliest Testable/Usable/Lovable - Crisp's Blog](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
+* ["AI 개발 프로세스 안이하게 생각하면 실패" - ZDNet korea](https://zdnet.co.kr/view/?no=20210725170429) AI뿐 아니라 일반적으로도 적용되는 이야기
+* [애자일(agile)이란 무엇인가?](https://velog.io/@katanazero86/%EC%95%A0%EC%9E%90%EC%9D%BCagile%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
+* [CI/CD 도입기 1편 - 폭포수 모델과 애자일](https://velog.io/@sjhello/Jenkins%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-CICD-%EC%A0%81%EC%9A%A9)
+* [애자일을 대충 알고 있는 당신을 위하여](https://velog.io/@dell_mond/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%84-%EB%8C%80%EC%B6%A9-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%8A%94-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%9C%84%ED%95%98%EC%97%AC)
+* [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 1장 #1-1 | 요즘IT](https://yozm.wishket.com/magazine/detail/691/)
+* [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 1장 #1-2 | 요즘IT](https://yozm.wishket.com/magazine/detail/692/)
+* [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 1장 #1-3 | 요즘IT](https://yozm.wishket.com/magazine/detail/702/)
+* [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 1장 #1-4 | 요즘IT](https://yozm.wishket.com/magazine/detail/703/)
+* [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 2장 #2-1 | 요즘IT](https://yozm.wishket.com/magazine/detail/814/)
+* [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 2장 #2-2 | 요즘IT](https://yozm.wishket.com/magazine/detail/815/)
+* [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 2장 #2-3 | 요즘IT](https://yozm.wishket.com/magazine/detail/910/)
+* [우리회사는 왜 애자일 전환에 실패했을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/917/)
+* [Agile at 20: The Failed Rebellion - Simple Thread](https://www.simplethread.com/agile-at-20-the-failed-rebellion/)
+  * [Agile 20주년 : 실패한 반란 | GeekNews](https://news.hada.io/topic?id=4788)
+* [쓰임새에 따른 애자일 활용](https://brunch.co.kr/@graypool/117)
+* [Agility is Inefficient • Klaus Bucka-Lassen • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=q6sq5ktP_3g)
+* [애자일 개발문화는 왜 한국에 빠르게 정착되지 못했나?(1) | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/culture/agilenotforkorea1/)
+* [애자일 개발문화는 왜 한국에 빠르게 정착되지 못했나?(2) | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/culture/agilenotforkorea2/)
+* [프로젝트 외부 이해관계자의 신뢰를 얻는 방법 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/culture/demoday/)
+* [Agility at Scale: A Meeting of Mindsets • Anna Urbaniak & Daniel Terhorst-North • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=2ajNXaqHSwo)
+* [개발자의 애질리티](https://toss.tech/article/dev-agility)
+* [애자일 책들에서 이야기 해주지 않지만](https://brunch.co.kr/@jinhoyooephf/24)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -510,8 +599,6 @@ Programming
 * [MSW – Seamless API mocking library for browser and Node | Mock Service Worker](https://mswjs.io/)
 * [How NOT to design APIs](https://blog.usejournal.com/how-not-to-design-restful-apis-fb4892d9057a)
 * [To Create An Evolvable API, Stop Thinking About URLs The basics of API design](https://medium.com/@fagnerbrack/to-create-an-evolvable-api-stop-thinking-about-urls-2ad8b4cc208e)
-* [API 디자인 가이드](https://cloud.google.com/apis/design/)
-  * [공통 디자인 패턴](https://cloud.google.com/apis/design/design_patterns)
 * [**http-api-design**](https://github.com/yoondo/http-api-design/tree/master/ko) HTTP API 디자인 가이드
 * [APIs: The Good, The Bad, The Ugly](https://www.youtube.com/watch?v=t0nl5aUfAvY)
 * [**Oh Man, Look at Your API!**](https://medium.com/pixelpoint/oh-man-look-at-your-api-22f330ab80d5)
@@ -538,16 +625,48 @@ Programming
 * [결제 시스템의 SDK와 API 디자인](https://toss.im/slash-21/sessions/1-7)
 * [Rebuilding Twitter’s Public API - YouTube](https://www.youtube.com/watch?v=axFSaH_-IMw)
 * [How Netflix Scales Its API with GraphQL Federation - YouTube](https://www.youtube.com/watch?v=QrEOvHdH2Cg)
+* [How We Design Our APIs at Slack - Slack Engineering](https://slack.engineering/how-we-design-our-apis-at-slack/)
+  * [Slack이 API를 디자인 하는 법 | GeekNews](https://news.hada.io/topic?id=4854)
+  * 디자인 원칙
+    * 한 가지 일만 잘한다: 한 번에 많은 문제를 해결하려고 하지 말고 간단한 API를 만들면 이해도 확장도 용이
+    * 빠르고 쉽게 시작할 수 있게 작성: 처음 하는 사람도 15분 이내에 첫 API 호출이 가능해야 함
+    * 직관적으로 일관성 있게 노력: 문서 없이도 API 추측 가능해야 함
+    * 의미 있는 오류 반환: 개발자가 문제 해결 용이
+    * 확장과 성능을 고려해 설계: 큰 컬렉션을 페이징하고 다른 큰 컬렉션 안에 다른 큰 컬렉션을 임베딩하지 않고 API 레이트를 제한
+    * 호환성을 깨뜨리는 변경 회피
+  * 디자인 프로세스
+    * API 명세서 작성
+    * 내부 API 리뷰
+    * 초기 파트너 피드백
+    * 베타 테스트
+* [Consistency, Coupling, and Complexity at the Edge](https://www.infoq.com/articles/consistency-coupling-complexity/) RESTful, GraphQL
+* [How to Hack APIs in 2021 by Hakluke and Farah Hawa | Detectify Labs](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
+* [Don’t Build A General Purpose API To Power Your Own Front End - Max Chernyak](https://max.engineer/server-informed-ui)
+* [블로그 | API 관리가 그토록 복잡해야만 할까? - CIO Korea](https://www.ciokorea.com/news/209107)
+* [API Tokens: A Tedious Survey · Fly](https://fly.io/blog/api-tokens-a-tedious-survey/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
+* [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
+  * [CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=4662)
 * dev.file.kiwi 파일 키위 [소개 - ❤️개발자](https://dev.file.kiwi/)
   * [API 공개- 무료 대용량 파일첨부/전송 | GeekNews](https://news.hada.io/topic?id=4376)
-* [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
+* Google
+  * [API 디자인 가이드](https://cloud.google.com/apis/design/)
+    * [공통 디자인 패턴](https://cloud.google.com/apis/design/design_patterns)
+  * [Google API Design Guide](http://apistylebook.com/design/guidelines/google-api-design-guide)
+  * [API Improvement Proposals](https://google.aip.dev/)
 * [KAKAO REST API](https://developer-ankiwoong.tistory.com/748)
   * [카카오 장소검색 API 활용안내(Play with Data)](https://www.notion.so/API-Play-with-Data-6156b17b222b4d0ca495a4cc3f2e41c6)
-* [Microsoft REST API Guidelines](https://github.com/Microsoft/api-guidelines/blob/master/Guidelines.md)
+* Microsoft
+  * [api-guidelines: Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
+  * [Web API 디자인 모범 사례 - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/ko-kr/azure/architecture/best-practices/api-design)
+* [Open-Meteo.com](https://open-meteo.com/) Free Weather API
 * [OverAPI.com - Collecting All Cheat Sheets](http://overapi.com/)
 * Paypal [Paypal 여러 개의 상품 결제를 위한 API](https://jybaek.tistory.com/861)
 * [Public APIs - A collective list of free APIs for use in software and web development. https://ultimatecourses.com ](https://github.com/public-apis/public-apis)
+* [practice-api](https://github.com/LearnWebCode/practice-api)
+  * [JSON Practice Challenge: Build a Front-End For This API - YouTube](https://www.youtube.com/watch?v=k-KoZ5fnESk)
+* [ratelimit: API Rate Limit Decorator](https://github.com/tomasbasham/ratelimit)
+  * [API Rate Limit Decorator with python](https://pythonawesome.com/api-rate-limit-decorator-with-python/)
 * [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
 * [Tesla API - Tesla API](https://www.teslaapi.io/)
 * [unofficial-apis - A collection of unofficial apis. Designed to inspire your next Friday night hack](https://github.com/Rolstenhouse/unofficial-apis)
@@ -559,7 +678,8 @@ Programming
 * [여러분을 더 나은 소프트웨어 아키텍트로 만들 5가지 질문](http://www.hanbit.co.kr/network/category/category_view.html?cms_code=CMS8585678508)
 * [진짜 아키텍트가 없는 EA 시장 잠재력을 알리는 글](http://www.popit.kr/%EC%A7%84%EC%A7%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%EC%97%86%EB%8A%94-ea-%EC%8B%9C%EC%9E%A5-%EC%9E%A0%EC%9E%AC%EB%A0%A5%EC%9D%84-%EC%95%8C%EB%A6%AC%EB%8A%94-%EA%B8%80/)
 * [진짜 아키텍트가 없는 EA 시장 잠재력을 알리는 글 (2)](http://www.popit.kr/%EC%A7%84%EC%A7%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EA%B0%80-%EC%97%86%EB%8A%94-ea-%EC%8B%9C%EC%9E%A5-%EC%9E%A0%EC%9E%AC%EB%A0%A5%EC%9D%84-%EC%95%8C%EB%A6%AC%EB%8A%94-%EA%B8%80-2/)
-  * [**12명의 Architect에게 물어 본 “아키텍트의 길” | Architecture 101**](https://architecture101.blog/2010/11/25/meet_the_12architects/)
+* [**12명의 Architect에게 물어 본 “아키텍트의 길” | Architecture 101**](https://architecture101.blog/2010/11/25/meet_the_12architects/)
+* [트레이드오프와 아키텍트 그리고 개발자의 소통 문제](https://brunch.co.kr/@graypool/119) 기술적인 글은 아니지만 좋은 글
 * [Architecture - 대용량 아키텍처와 성능 튜닝](https://code.google.com/p/architect/wiki/bigArchitecture)
 * [인기 있는 소셜 네트워크 서비스로 본 아키텍처](http://blog.gaerae.com/2015/07/sns-architecture.html)
 * [프레젠테이션, 도메인, 데이터 레이어링](http://mcchae.egloos.com/m/11184445)
@@ -576,30 +696,13 @@ Programming
 * [글로벌 규모! 라인 메신저 신년 대응 트래픽의 특징 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=5J_Nn5VDrkI)
 * [대규모 트래픽 애플리케이션 성능 튜닝 노하우 다 알려 드림 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=5oTlFJ0llNw)
 * [How Data Inspires Building a Scalable, Resilient and Secure Cloud Infrastructure At Netflix](https://netflixtechblog.com/how-data-inspires-building-a-scalable-resilient-and-secure-cloud-infrastructure-at-netflix-c14ea9f2d00c)
+* [Securing Netflix Studios At Scale Netflix TechBlog | Netflix TechBlog](https://netflixtechblog.com/the-show-must-go-on-securing-netflix-studios-at-scale-19b801c86479)
 * [Scaling Uber](http://www.infoq.com/presentations/uber-scalability-arch)
 * [uber 아키텍처](http://knight76.tistory.com/entry/%ED%8E%8C-uber-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98)
 * [UBER system design. Uber’s technology may look simple but… | by Narendra L | Medium](https://medium.com/@narengowda/uber-system-design-8b2bc95e2cfe)
 * [서버 아키텍처 Vol. 2 (자막)](http://www.slideshare.net/sublee/lt-vol-2)
 * [**서버 비용을 70%나 줄인 온디맨드 리사이징 이야기**](http://engineering.vcnc.co.kr/2016/05/ondemand-image-resizing/)
 * [설계 중심의 시스템 구현](https://blog.ifunfactory.com/2016/01/29/%EC%84%A4%EA%B3%84-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84-2/)
-* CQRS
-  * [나만 모르고 있던 CQRS & EventSourcing](http://www.popit.kr/cqrs-eventsourcing/)
-  * [CQRS and Event Sourcing for dummies](https://www.javacodegeeks.com/2015/07/cqrs-and-event-sourcing-for-dummies.html)
-  * 이벤트 소싱 및 CQRS 패턴의 원리와 구현 사례
-    * 이벤트 소싱 원리 - 개요, 데이터 영속, 메시징, CQRS(Command and Query Responsibility Segregation)
-    * 이벤트 소싱 구현 - 메시지 중심 작업 절차, 프레임워크, 응용프로그램 데모, 아키텍팅 및 구현 사례 소개
-    * [이벤트 소싱 원리와 구현](https://www.youtube.com/watch?v=Yd7TXUdcaUQ)
-    * [이벤트 소싱 원리와 구현](https://tv.naver.com/v/2669754)
-  * [Traversals and Scans and CQRS, oh my! - Itamar Ravid](https://www.youtube.com/watch?v=dw0sGpp5TNA)
-  * [CQRS](https://leanpub.com/cqrs/read_full)
-  * [Semantic Event Sourcing: case study of moving from CRUD to log based state management](https://www.youtube.com/watch?v=uNodMFBgsDs)
-  * [번역 마틴 파울러 CQRS 포스팅](https://medium.com/@joohotheman/번역-마틴-파울러-cqrs-포스팅-245c63bb1e58)
-  * [Event Sourcing — 마틴 파울러](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-event-sourcing-%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC-bc426abb0b98)
-  * [What is Event Sourcing?](https://cloudnative.ly/what-is-event-sourcing-d201ed740451)
-  * [Event Sourcing과 Fintech Platform - YouTube](https://www.youtube.com/watch?v=1QH6rKSGvY4)
-  * [Stop overselling Event Sourcing as the silver bullet to microservice architectures | by Oskar uit de Bos | The Startup | Medium](https://medium.com/swlh/stop-overselling-event-sourcing-as-the-silver-bullet-to-microservice-architectures-f43ca25ff9e7)
-  * [CQRS 아는 척하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/CQRS-for-dummies)
-  * [CQRS and Event Sourcing](https://www.slideshare.net/InhoKang2/cqrs-and-event-sourcing-94653639)
 * [홈쇼핑처럼 개발후기](http://subicura.com/2016/05/30/likehs-develop-log.html)
 * [Sherlock: Near Real Time Search Indexing](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d) HBase, Storm, Kafka,Redis
 * [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
@@ -610,6 +713,7 @@ Programming
 * [빠르게 훑어보는 리디페이 백엔드 개발기](https://www.ridicorp.com/slides/skimming-ridi-pay-backend/) payment까지 포함한 source 공개
 * [빠르게 훑어보는 리디페이 백엔드 개발기](https://speakerdeck.com/ridi/bbareuge-hulteoboneun-ridipei-baegendeu-gaebalgi)
 * [**Antman 프로젝트 개발기**](https://engineering.linecorp.com/ko/blog/antman-project-development-story/)
+* [카트 개발 연대기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/my-cart-development-history/)
 * [ODC를 구축한 기술 - Serverless, SPA, AWS Lambda Edge](https://blog.roto.codes/odc-tech-stack-aws-lambda-edge/)
 * [ODC를 구축한 기술](https://blog.roto.codes/odc-tech-stack/) frontend
 * [Twitter는 어떻게 1초에 3,000개의 이미지를 처리하고 있나?](http://www.mimul.com/pebble/default/2016/10/12/1476262525827.html)
@@ -638,6 +742,7 @@ Programming
 * [Fast-Paced Multiplayer (Part I): Client-Server Game Architecture](http://www.gabrielgambetta.com/client-server-game-architecture.html)
 * [**세분화(Granular) 애플리케이션 아키텍처 패턴**](https://medium.com/@jwyeom63/%EC%84%B8%EB%B6%84%ED%99%94-granular-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98-%ED%8C%A8%ED%84%B4-1f6a2d720545)
 * [Software engineer — from monolith to cloud: think small](https://coder.today/software-engineer-from-monolith-to-cloud-think-small-f828effc6afc)
+* [데이터센터 모놀리스에서 클라우드 쿠버네티스: 클라우드 네이티브로의 성공적인 이전을 위한 전략](https://drive.google.com/file/d/1phjKwPQp7fSqyDeHRQFAbGn5D0_H_U9G/view)
 * [Beyond the Distributed Monolith: Rearchitecting the Big Data Platform](https://www.infoq.com/presentations/bbc-distributed-monolith-microservices/)
 * [What Is a Modular Monolith? | Rebel](https://www.jrebel.com/blog/what-is-a-modular-monolith)
 * [Modular Monolithic Architecture, Microservices and Architectural Drivers](https://www.infoq.com/news/2020/01/monolith-architectural-drivers/)
@@ -650,6 +755,7 @@ Programming
 * [Under Deconstruction: The State of Shopify’s Monolith – Shopify Engineering](https://engineering.shopify.com/blogs/engineering/shopify-monolith)
 * [Why I've Been Merging Microservices Back Into The Monolith At InVision](https://www.bennadel.com/blog/3944-why-ive-been-merging-microservices-back-into-the-monolith-at-invision.htm)
 * [Breaking the Monolith. Website Modular Architecture | Agoda Engineering & Design](https://medium.com/agoda-engineering/breaking-the-monolith-f3538d9c3ad6)
+* [Is there any place for monoliths in 2021? - Francisco J. Revoredo](https://fjrevoredo.me/is-there-any-place-for-monoliths-in-2021/)
 * [개발자가 바라본 중국 쇼핑 축제 쐉쓰이(광군제)](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EC%A4%91%EA%B5%AD-%EC%87%BC%ED%95%91-%EC%B6%95%EC%A0%9C-%EA%B4%91%EA%B5%B0%EC%A0%9C)
 * [2018 광군제(双十一) 서비스 운영 후기](https://www.popit.kr/2018-광군제双十一-서비스-운영-후기)
 * [깃플 기술스택 구경하세요~ (백엔드 편)](http://tech.gitple.io/2017/11/08/gitple-techstack-backend/)
@@ -685,6 +791,10 @@ Programming
 * [Packer와 Ansible을 이용하여, node.js 이미지 생성하기](http://bcho.tistory.com/1228)
 * [모던 아키텍트에 대해 개념 잡아보기](http://www.popit.kr/%EB%AA%A8%EB%8D%98-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EC%97%90-%EB%8C%80%ED%95%B4-%EA%B0%9C%EB%85%90-%EC%9E%A1%EC%95%84%EB%B3%B4%EA%B8%B0/)
 * [**안정된 의존관계 원칙과 안정된 추상화 원칙에 대하여**](http://woowabros.github.io/study/2018/03/05/sdp-sap.html) 설계에 대해 고민할 때 정말 좋은 글. 안정성과 추상성을 예시와 수식을 통해 설명
+* [알도개 무한 루프에 빠진 개발자 논쟁 시리즈: 2편 추상화의 허와 실 - YouTube](https://www.youtube.com/watch?v=XFGJQ2m8-dU)
+  * 정보은닉: 변경될 부분과 그렇지 않은 부분을 분리하기 위한 기준 제시. 한 곳의 변경 사항이 다른 곳에 영향을 미쳐서는 안 된다
+  * 문제를 풀기위한 도구와 방법을 직접 만든다면? 추상화 수준 하향(Hands on imperative, from the scratch)
+  * 문제를 정의하고 이를 풀기 위한 틀을 기획한다면? 추상화 수준 상향(거인의 어깨 위)
 * [A Guided Tour inside a clean architecture code base](https://proandroiddev.com/a-guided-tour-inside-a-clean-architecture-code-base-48bb5cc9fc97)
 * [**Clean Architecture-in Banksalad**](https://speakerdeck.com/soyoung210/clean-architecture-in-banksalad) react project 예제
 * [Clean Architecture Python (web) apps](http://slides.com/haxoza/clean-architecture-python#/) flask example code
@@ -709,6 +819,10 @@ Programming
 * [When to use which Infrastructure-as-code tool](https://medium.com/cloudnativeinfra/when-to-use-which-infrastructure-as-code-tool-665af289fbde) 여러가지 IaaS tool 소개
 * [Learn about different open source based Infrastructure as Code (IAC) tools for DevOps - YouTube](https://www.youtube.com/watch?v=nUwj01ROjfs)
 * [Infra as Code with Packer, Ansible and Terraform](https://www.slideshare.net/InhoKang2/infra-as-code-with-packer-ansible-and-terraform)
+* [History of Infra as Code](https://www.infoq.com/presentations/history-infra-as-code/)
+* [Infrastructure as Code](https://www.hashicorp.com/products/terraform/infrastructure-as-code)
+* [코드형 인프라, 보안이 필요한 이유와 베스트 프랙티스 - ITWorld Korea](https://www.itworld.co.kr/news/200844) IaC
+* [History of Infra as Code - YouTube](https://www.youtube.com/watch?v=9kQ5l26mmbU)
 * [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1)
 * [Scaling Infrastructure Engineering at Slack](https://www.youtube.com/watch?v=yHBwoZh1Mxg)
 * [LINE 인프라 플랫폼의 뒷이야기 – 서비스 확장성을 확보하며 운영 비용 줄이기](https://engineering.linecorp.com/ko/blog/challenges-and-solutions-of-line-infra-scaleout/)
@@ -719,6 +833,7 @@ Programming
 * [10 Common Software Architectural Patterns in a nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 * [38 Actions and Insights to Become a Better Software Architect](https://hackernoon.com/38-actions-and-insights-to-become-a-better-software-architect-f135e2de9a1b)
 * [The Path to Becoming a Software Architect](https://medium.com/@nvashanin/the-path-to-becoming-a-software-architect-de53f1cb310a)
+* [How to Become a Great Software Architect • Eberhard Wolff • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=v_nhv6aY1Kg)
 * [아키텍트에게 기대하는 8가지 - YouTube](https://www.youtube.com/watch?v=FbWHw6GBCrU) 아키텍처 결정, 지속적인 아키텍처 분석, 최신 트렌드 유지, 결정 사항 준수 확인, 다양한 경험, 도메인 지식, 대인 관계 기술, 정치
 * [How to "think" (and design) like a Software Architect at Silicon Valley Code Camp 2019 - YouTube](https://www.youtube.com/watch?v=mCM6QVHD08c)
 * [OpenFog Architecture Overview](http://uni2u.tistory.com/94)
@@ -775,6 +890,7 @@ Programming
 * [애플리케이션 구조 설계 - 1](http://mobicon.tistory.com/565)
 * [How to build massive service for advance](https://www.slideshare.net/charsyam2/how-to-build-massive-service-for-advance) 대규모 서비스를 설계하는 기술 - 중급(일반편)
 * [설계의 중요성을 설명하기가 왜 어려웠을까?](https://huns.me/posts/2019-09-19-why-is-it-difficult-to-understand-the-importance-of-archictecture) clean architecture 문장 인용
+* [Neal Ford and Mark Richards - Software Architecture: the Hard Parts](https://www.infoq.com/podcasts/software-architecture-hard-parts/)
 * [오버엔지니어링과 언더엔지니어링의 경계](https://huns.me/posts/2019-09-26-overengineering-vs-underengineering)
 * [타다 시스템 아키텍처](http://engineering.vcnc.co.kr/2019/01/tada-system-architecture/)
 * [Monorepos Made Easier with Bit and NPM](https://blog.bitsrc.io/monorepo-architecture-simplified-with-bit-and-npm-b1354be62870)
@@ -797,6 +913,7 @@ Programming
 * [9 open source tools for building a fault-tolerant system](https://opensource.com/article/19/3/tools-fault-tolerant-system)
 * [프로그래밍의 황금율은?](http://jhrogue.blogspot.com/2019/04/b.html)
 * [Online migrations at scale](https://stripe.com/blog/online-migrations) migration에 필요한 기본을 생각할 수 있는 글
+* [글로벌 칼럼 | 마이그레이션을 도중에 멈추면 안 되는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/206739) migration
 * [디지털 트랜스포메이션과 시스템 마이그레이션 | Popit](https://www.popit.kr/%eb%94%94%ec%a7%80%ed%84%b8-%ed%8a%b8%eb%9e%9c%ec%8a%a4%ed%8f%ac%eb%a9%94%ec%9d%b4%ec%85%98%ea%b3%bc-%ec%8b%9c%ec%8a%a4%ed%85%9c-%eb%a7%88%ec%9d%b4%ea%b7%b8%eb%a0%88%ec%9d%b4%ec%85%98/) system migration
 * [Why GUID is needed](https://www.slideshare.net/charsyam2/why-guid-is-needed)
 * [GUID python](https://www.slideshare.net/charsyam2/guid-40504314)
@@ -809,6 +926,10 @@ Programming
 * [A quick introduction to Hexagonal Architecture](https://medium.com/codefountain/a-quick-introduction-to-hexagonal-architecture-484358c038b8)
 * [Ready for changes with Hexagonal Architecture - Netflix TechBlog](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
 * [Hexagonal Architecture](https://blog.imqa.io/hexagonal-architecture/)
+* [**계층형 아키텍처**](https://jojoldu.tistory.com/603)
+* [마이크로서비스 내부아키텍처 - 1회 : 데이터 중심 아키텍처의 문제점 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/microservice%20inner%20achitecture/inner-architecture-1/)
+* [마이크로서비스 내부아키텍처 - 2회 : 클린 아키텍처와 헥사고널 아키텍처 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/microservice%20inner%20achitecture/inner-architecture-2/)
+* [마이크로서비스 내부아키텍처 - 3회 : 어플리케이션 구성 패턴 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/microservice%20inner%20achitecture/inner-architecture-3/)
 * [**지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture/)
 * [지속 성장 가능한 소프트웨어를 만들어가는 방법. 스프링은 국내에서 정말 많이 쓰이고 있습니다, 개인적으로 많은 회사를… | by Gemini Kim | Apr, 2021 | Medium](https://geminikim.medium.com/%EC%A7%80%EC%86%8D-%EC%84%B1%EC%9E%A5-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EB%B0%A9%EB%B2%95-97844c5dab63) 스프링 이야기이나 일반론이기도 함
   * 많은 회사와 시스템이 차세대라는 명목의 개발을 수없이 진행: 낭비
@@ -849,6 +970,9 @@ Programming
 * [**Architecture Playbook — Architecture Playbook**](https://nocomplexity.com/documents/arplaybook/index.html)
 * [Lv0 에서 Lv2 까지 - 인프런 서비스 리뉴얼 - Hyung Joo](https://www.hyungjoo.me/4%EB%85%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%B0-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%98%A4%ED%94%88/)
 * [A Cloud-Native Architecture for a Digital Enterprise](https://www.infoq.com/articles/cloud-native-architecture/)
+* [Adoption of Cloud-Native Architecture, Part 1: Architecture Evolution and Maturity](https://www.infoq.com/articles/cloud-native-architecture-adoption-part1/)
+* [Adoption of Cloud Native Architecture, Part 2: Stabilization Gaps and Anti-Patterns](https://www.infoq.com/articles/cloud-native-architecture-adoption-part2/)
+* [Adoption of Cloud Native Architecture, Part 3: Service Orchestration and Service Mesh](https://www.infoq.com/articles/cloud-native-architecture-adoption-part3/)
 * [Hide :: Stripe 결제 시스템 도입하기](https://hides.tistory.com/1073)
 * [Financial Times의 데이터플랫폼 구축기 | GeekNews](https://news.hada.io/topic?id=3416)
 * [안심번호(050) 시스템 #1 - 시스템 구축 스토리 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/12/30/050system_introduction.html)
@@ -857,6 +981,7 @@ Programming
 * [Everything About Software Architecture | by Mohit Malhotra | The Startup | Feb, 2021 | Medium](https://medium.com/swlh/everything-aboutsoftware-architecture-dfd2b9351ef4)
 * [Storing and retrieving millions of ad impressions per second](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/storing-and-retrieving-millions-of-ad-impressions-per-second.html)
 * [**LINE 미디어 스토리지 글로벌 배치 프로젝트를 소개합니다 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/line-mediastorage-at-scale/) cache ceph 좋은 글
+* [결제 제휴를 통해 보다 편하게 결제할 수 있는 세상 만들기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-pay-payment-alliance-cross-border/)
 * [구현한 채팅에 캐시 적용해서 성능 개선하기](https://velog.io/@seanlion/chatcache)
 * [The Architecture Behind A One-Person Tech Startup](https://anthonynsimon.com/blog/one-man-saas-architecture/)
   * [**1인 기술 스타트업의 아키텍쳐 스택 | GeekNews**](https://news.hada.io/topic?id=4055)
@@ -865,9 +990,50 @@ Programming
 * [How image search works at Dropbox - Dropbox](https://dropbox.tech/machine-learning/how-image-search-works-at-dropbox)
 * [On-site search design patterns for e-commerce: schema structure, data driven ranking & more](https://project-a.github.io/on-site-search-design-patterns-for-e-commerce/)
 * [Delivering Modern Website Experiences: The Journey to a Content Mesh | Gatsby](https://www.gatsbyjs.com/blog/2018-10-04-journey-to-the-content-mesh/) CMS
+* [Essential Complexity in Systems Architecture - YouTube](https://www.youtube.com/watch?v=RNl8uD74KAw)
+* [(정성글) 백신예약 서버가 터지는 이유에 대한 상세한 해설 - DogDrip.Net 개드립](https://www.dogdrip.net/dogdrip/338552744)
+* [10 Architecture Patterns Used In Enterprise Software Development Today - YouTube](https://www.youtube.com/watch?v=BrT3AO8bVQY)
+* [10 Things Learned Releasing Databricks Enterprise Wide - YouTube](https://www.youtube.com/watch?v=T5TO184SHGQ) 기술적인 이야기 + 경험담
+* [Evolution of search engines architecture - Algolia New Search Architecture Part 1 - High Scalability -](http://highscalability.com/blog/2021/8/2/evolution-of-search-engines-architecture-algolia-new-search.html)
+* [**Organization: A Tool for Software Architects • Eberhard Wolff • GOTO 2021 - YouTube**](https://www.youtube.com/watch?v=wwzn4l_gmco)
+  * 어떤 특정 기술을 사용하는 게 중요한 게 아니라 팀원들이 합의가 중요. 그걸 위해 중요한 건 communication
+  * "서비스"는 독립적이어야 함. 다른 "서비스"에 의존하면 안 됨
+  * Architects shouldn't do architecture, spread knowledge about ... and make stakeholders use the knowledge, teams define the architecture
+* [Software Architecture and Design - YouTube](https://www.youtube.com/playlist?list=PL4JxLacgYgqTgS8qQPC17fM-NWMTr5GW6) 다양한 주제에 대한 짧은 설명들
+* [**End to End Design of food delivery app (Zomato or Swiggy) | by Ravinder Singh Sengar | Aug, 2021 | Medium**](https://medium.com/@ravindersengar/end-to-end-design-of-a-food-delivery-app-like-zomato-or-swiggy-52b96f3a635f)
+* [카카오페이지 운영툴을 점진적으로 개선한 이야기](https://brunch.co.kr/@wapj2000/38)
+* [Multi-tenant Architecture for SaaS - YouTube](https://www.youtube.com/watch?v=e8k6TynqGFs)
+* [**Multi-tenant architecture in 20 minutes - YouTube**](https://www.youtube.com/watch?v=0N4KknY_zdU) PACELC as extension of CAP
+* [Scaling Large Production Clusters with Partitioned Synchronization](https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html)
+* [Solution vs Software Architecture - DZone DevOps](https://dzone.com/articles/solution-architecture-vs-software-architecture)
+* [기고 | IT부서 ‘업의 본질’일 수도… ‘기술 아키텍처’ 가이드 - CIO Korea](https://www.ciokorea.com/news/209404)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
+
+## Architecture CQRS & Event Sourcing
+* [Traversals and Scans and CQRS, oh my! - Itamar Ravid](https://www.youtube.com/watch?v=dw0sGpp5TNA)
+* [CQRS](https://leanpub.com/cqrs/read_full)
+* [번역 마틴 파울러 CQRS 포스팅](https://medium.com/@joohotheman/번역-마틴-파울러-cqrs-포스팅-245c63bb1e58)
+* [CQRS 아는 척하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/CQRS-for-dummies)
+* [Is a REST API with CQRS Possible? - YouTube](https://www.youtube.com/watch?v=6XO6vSiioWE)
+* [나만 모르고 있던 CQRS & EventSourcing](http://www.popit.kr/cqrs-eventsourcing/)
+* [CQRS and Event Sourcing for dummies](https://www.javacodegeeks.com/2015/07/cqrs-and-event-sourcing-for-dummies.html)
+* 이벤트 소싱 및 CQRS 패턴의 원리와 구현 사례
+  * 이벤트 소싱 원리 - 개요, 데이터 영속, 메시징, CQRS(Command and Query Responsibility Segregation)
+  * 이벤트 소싱 구현 - 메시지 중심 작업 절차, 프레임워크, 응용프로그램 데모, 아키텍팅 및 구현 사례 소개
+  * [이벤트 소싱 원리와 구현](https://www.youtube.com/watch?v=Yd7TXUdcaUQ)
+  * [이벤트 소싱 원리와 구현](https://tv.naver.com/v/2669754)
+* [CQRS and Event Sourcing](https://www.slideshare.net/InhoKang2/cqrs-and-event-sourcing-94653639)
+* [Semantic Event Sourcing: case study of moving from CRUD to log based state management](https://www.youtube.com/watch?v=uNodMFBgsDs)
+* [Event Sourcing — 마틴 파울러](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-event-sourcing-%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC-bc426abb0b98)
+* [What is Event Sourcing?](https://cloudnative.ly/what-is-event-sourcing-d201ed740451)
+* [Event Sourcing과 Fintech Platform - YouTube](https://www.youtube.com/watch?v=1QH6rKSGvY4)
+* [Stop overselling Event Sourcing as the silver bullet to microservice architectures | by Oskar uit de Bos | The Startup | Medium](https://medium.com/swlh/stop-overselling-event-sourcing-as-the-silver-bullet-to-microservice-architectures-f43ca25ff9e7)
+* [Event Sourcing - YouTube](https://www.youtube.com/playlist?list=PLThyvG1mlMzkRKJnhzvxtSAbY8oxENLUQ)
+* [Why Event Sourced Systems Fail eng / Greg Young - YouTube](https://www.youtube.com/watch?v=FKFu78ZEIi8)
+* [Event Sourcing You are doing it wrong by David Schmitz - YouTube](https://www.youtube.com/watch?v=GzrZworHpIk)
+* [The Reactive Monolith - How to Move from CRUD to Event Sourcing](https://www.wix.engineering/post/the-reactive-monolith-how-to-move-from-crud-to-event-sourcing)
 
 ## Architecture Distributed
 * [Robust Distributed System Nucleus (rDSN) is an open framework for quickly building and managing high performance and robust distributed systems](https://github.com/Microsoft/rDSN)
@@ -884,8 +1050,10 @@ Programming
 * [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc) Consistent Hashing, CAP, map reduce, hadoop, spark, kafka
 * [Four Distributed Systems Architectural Patterns by Tim Berglund](https://www.youtube.com/watch?v=tpspO9K28PM)
 * [Distributing Content to Open Connect](https://medium.com/netflix-techblog/distributing-content-to-open-connect-3e3e391d4dc9) consistent hashing
+* [Improving load balancing with a new consistent-hashing algorithm | by arodland | Vimeo Engineering Blog | Medium](https://medium.com/vimeo-engineering-blog/improving-load-balancing-with-a-new-consistent-hashing-algorithm-9f1bd75709ed)
 * [Distributed Computing](https://www.youtube.com/watch?v=YS-QvfCZWvc)
 * [Understanding the 8 Fallacies of Distributed Systems](https://dzone.com/articles/understanding-the-8-fallacies-of-distributed-syste) 분산 시스템의 8가지 오류에 대한 예와 각각에 대한 몇 가지 솔루션
+* [Navigating the 8 fallacies of distributed computing | Ably Blog: Data in Motion](https://ably.com/blog/8-fallacies-of-distributed-computing)
 * [Distributed System — Introduction](https://medium.com/@leeyh0216/distributed-system-introduction-c50883fcd3a0)
 * [**jack-vanlightly.com/blog/category/Distributed+Systems**](https://jack-vanlightly.com/blog/category/Distributed+Systems)
 * [Many Nodes, One Distributed System](https://medium.com/baseds/many-nodes-one-distributed-system-9921f85205c4)
@@ -899,6 +1067,8 @@ Programming
 * [Distributed Systems Reading List](https://dancres.github.io/Pages/)
 * [**Patterns of Distributed Systems**](https://martinfowler.com/articles/patterns-of-distributed-systems/)
 * [Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
+* [Summer Blog Backlog: Distributed Systems](http://www.oilshell.org/blog/2021/07/blog-backlog-2.html)
+* [Engineering dependability and fault tolerance in a distributed system - High Scalability -](http://highscalability.com/blog/2021/2/19/engineering-dependability-and-fault-tolerance-in-a-distribut.html)
 * [etcd | Home](https://etcd.io/)
   * [A Few Notes on Etcd Maintenance. Learnings on provisioning, compaction… | by Tasdik Rahman | Gojek Product + Tech](https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe)
 
@@ -907,6 +1077,7 @@ Programming
 * [필요한 내용만 추려서 DDD 당장 써먹기](https://www.popit.kr/%ED%95%84%EC%9A%94%ED%95%9C-%EB%82%B4%EC%9A%A9%EB%A7%8C-%EC%B6%94%EB%A0%A4%EC%84%9C-ddd-%EB%8B%B9%EC%9E%A5-%EC%8D%A8%EB%A8%B9%EA%B8%B0/)
 * [DDD의 서비스 구조물이란 어떤 프로그램 덩어리인가?](https://www.popit.kr/ddd%EC%9D%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%A1%B0%EB%AC%BC%EC%9D%B4%EB%9E%80-%EC%96%B4%EB%96%A4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EB%8D%A9%EC%96%B4%EB%A6%AC%EC%9D%B8%EA%B0%80)
 * [LAYERED ARCHITECTURE(계층형 아키텍처)](https://wikibook.co.kr/article/layered-architecture/)
+* [Layered Architecture Deep Dive. 최근 진행 중인 프로젝트는 Layered Architecture를… | by Maeng Sol | Sep, 2021 | Medium](https://msolo021015.medium.com/layered-architecture-deep-dive-c0a5f5a9aa37)
 * [Domain-Driven Design: The First 15 Years](https://leanpub.com/ddd_first_15_years/read_full)
 * [Practical DDD: Bounded Contexts + Events = Microservices](https://www.youtube.com/watch?v=Ab5-ebHja3o)
 * [Database Driven Development에서 진짜 DDD로의 선회 -1-](https://helloworld.kurly.com/blog/road-to-ddd/)
@@ -916,6 +1087,9 @@ Programming
 * [DDD 했더니 비대해지는 엔티티, 좋은 대책은 ?](http://jaynewho.com/post/45)
 * [Part 1: Domain Driven Design like a pro 🏅 | by Anders Gill | Raa Labs | Medium](https://medium.com/raa-labs/part-1-domain-driven-design-like-a-pro-f9e78d081f10)
 * [Domain-driven design · Present](https://present.do/decks/60bed187f79479437375f362)
+* [Domain Driven Design Patterns in Python - YouTube](https://www.youtube.com/watch?v=hv-LiKQgN90)
+* [**Spoqa 기술 블로그 | 도메인 주도 개발 전환 이야기**](https://spoqa.github.io/2021/09/13/domain-driven-development-transition-story.html)
+* [Domain-Driven Design with Value-Added Services and Domain Gateways at SoundCloud](https://www.infoq.com/news/2021/10/ddd-vas-gateway-soundcloud/)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
@@ -924,6 +1098,8 @@ Programming
 * [From Monolith to Event-Driven: Finding Seams in Your Future Architecture](https://www.infoq.com/articles/event-driven-finding-seams/)
 * [Kafka와 MongoDB, Kubernetes로 유연하고 확장 가능한 LINE 쇼핑 플랫폼 구축하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-shopping-platform-kafka-mongodb-kubernetes/)
 * [**Event Driven Architecture란?. MicroService Architecture(MSA)는 loosely… | by yjs0997 | DT Evangelist 기술 블로그 | Medium**](https://medium.com/dtevangelist/event-driven-microservice-%EB%9E%80-54b4eaf7cc4a) 강추
+* [Thinking in Events: From Databases to Distributed Collaboration Software - YouTube](https://www.youtube.com/watch?v=ePHpAPacOdI)
+* [My TOP Patterns for Event Driven Architecture - YouTube](https://www.youtube.com/watch?v=P5hq6iWn_p8)
 
 ## Architecture Microservice MSA
 * [**Microservice Architecture**](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)
@@ -953,6 +1129,8 @@ Programming
   * [#1 - Circuit breaker와 넷플릭스 Hystrix](http://bcho.tistory.com/1247)
   * [#2 - Spring을 이용한 Circuit breaker 구현](http://bcho.tistory.com/1250)
 * [외부 API로 빚어진 장애대응 후일담 after 1years](https://saramin.github.io/2020-12-18-post-api-with-circuit-breaker/)
+* [Resilience4j - a fault tolerance library designed for Java8 and functional programming](https://github.com/resilience4j/resilience4j) circuit breaker 역할도 함
+  * [Fault Tolerance – Resilience4J – Guruble](http://guruble.com/fault-tolerance-resilience4j/)
 * [MSA에서 Service discovery 패턴](http://bcho.tistory.com/1252)
 * [MSA를 위한 L7 Proxy - EnvoyProxy #1](http://bcho.tistory.com/1253)
 * [Service Mesh](http://bcho.tistory.com/1260)
@@ -967,6 +1145,7 @@ Programming
 * OSM Open Service Mesh [마이크로소프트 오픈 서비스 메시의 이해 - ITWorld Korea](http://www.itworld.co.kr/news/160865)
 * [서비스 메시가 데이터센터 네트워킹에서 중요한 이유 - ITWorld Korea](http://www.itworld.co.kr/news/167165)
 * [Linkerd or Istio?](https://itnext.io/linkerd-or-istio-2e3ce781fa3a)
+* [Service Mesh Ultimate Guide - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2e/)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
 * [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
@@ -977,13 +1156,14 @@ Programming
 * [Monolith Decomposition Patterns](https://www.infoq.com/presentations/microservices-principles-patterns/)
 * [잘 키운 모노리스 하나 열 마이크로서비스 안 부럽다](https://www.slideshare.net/arawnkr/ss-195979955)
 * [우아한 모노리스](https://www.slideshare.net/arawnkr/ss-224478403)
+* [Monolithic to Microservices Architecture with Patterns & Best Practices | by Mehmet Özkaya | Design Microservices Architecture with Patterns & Principles | Aug, 2021 | Medium](https://medium.com/design-microservices-architecture-with-patterns/monolithic-to-microservices-architecture-with-patterns-best-practices-a768272797b2)
 * [DB to JSON with a microservice](da_terry.bitbucket.org/slides/presentation-scalasyd-functional-jdbc-http/)
 * [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
 * [API Management for Microservices @justinchronicle - 이모콘 EMOCON 2016 S/S](https://www.youtube.com/watch?v=DQBfa2Az69M)
 * [The Bootiful Microservice by Josh Long 한글 자막](https://www.youtube.com/watch?v=ZdpZlqumymM)
   *  마이크로 서비스와 실행시 직면하는 문제
   *  스프링 부트
-  *  스프링 클라우드; Config server, 넷플릭스 Eureka, 넷플릭스 Zuul // Ribbon, 넷플릭스 Hysterix (Circuit Breaker), 트위터 Zipkin (Distributed Tracing)
+  *  스프링 클라우드; Config server, 넷플릭스 Eureka, 넷플릭스 Zuul // Ribbon, 넷플릭스 Hystrix (Circuit Breaker), 트위터 Zipkin (Distributed Tracing)
 * [롯데카드 사례 : 클라우드 컨테이너화를 통한 디지털 혁신 여정 - ITWorld Korea](http://www.itworld.co.kr/news/165085)
 * [Implementing Microservices with Scala and Akka - by Vaughn Vernon](https://www.youtube.com/watch?v=19rbbQ46LB4)
 * [Reactive Microservices with Akka and Docker by Heiko Seeberger](https://www.youtube.com/watch?v=nL4XoH2_Lew)
@@ -999,20 +1179,23 @@ Programming
 * [How to Explain Microservice](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/how-to-explain-microservice/10155839662608462/)
 * [Learning these 5 microservice patterns will make you a better engineer](https://hackernoon.com/learning-these-5-microservice-patterns-will-make-you-a-better-engineer-52fc779c470a)
 * [Microservices Architecture — A Journey of Understanding](https://codeburst.io/microservices-architecture-e6907b97a42a)
-* [Monolith Vs Microservice Vs Serverless — The Real Winner? The Developer](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
 * [Microservice Graph Explorer Open Sourced](https://medium.com/hootsuite-engineering/microservice-graph-explorer-open-sourced-9f5f6b1bd0bc)
 * **REST 기반의 간단한 분산 트랜잭션 구현** TCC Try-Confirm/Cancel
   * [1편 TCC 개관](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-1%ED%8E%B8/)
   * [2편 TCC Cancel, Timeout](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-2%ED%8E%B8-tcc-cancel-timeout/)
   * [3편 TCC Confirm(Eventual Consistency)](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-3%ED%8E%B8-tcc-confirmeventual-consistency/)
   * [4편 REST Retry](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-4%ED%8E%B8-rest-retry/)
+* [REST APIs for Microservices? Beware! - YouTube](https://www.youtube.com/watch?v=_4gyR6CBkUE)
 * [Eventual Consistency isn’t for Streaming – Materialize](https://materialize.io/eventual-consistency-isnt-for-streaming/)
 * [결과적 일관성인가? 최종적 일관성인가? | Popit](https://www.popit.kr/%ea%b2%b0%ea%b3%bc%ec%a0%81-%ec%9d%bc%ea%b4%80%ec%84%b1%ec%9d%b8%ea%b0%80-%ec%b5%9c%ec%a2%85%ec%a0%81-%ec%9d%bc%ea%b4%80%ec%84%b1%ec%9d%b8%ea%b0%80)
 * [대용량 환경에서 그럭저럭 돌아가는 서비스 만들기](https://www.popit.kr/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EA%B7%B8%EB%9F%AD%EC%A0%80%EB%9F%AD-%EB%8F%8C%EC%95%84%EA%B0%80%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [From Monolith to Microservices at Grab (aka Go for Grab)](https://www.youtube.com/watch?v=HrTt_C-2VGY)
 * [Using API Gateways to Facilitate Your Transition from Monolith to Microservices](https://blog.getambassador.io/using-api-gateways-to-facilitate-your-transition-from-monolith-to-microservices-5e630da24717)
-* [From Monolith to Microservices](https://www.infoq.com/presentations/github-rails-monolith-microservices/)
 * [What is an API Gateway?](https://www.youtube.com/watch?v=vHQqQBYJtLI)
+* [API Gateway Throttling 구현 | Doublem.org](https://doublem.org/api-gateway-basic/)
+* [From Monolith to Microservices](https://www.infoq.com/presentations/github-rails-monolith-microservices/)
+* [From Monolith to Microservices - YouTube](https://www.youtube.com/watch?v=Sr0OE-AzAJU)
+* [GitHub’s Journey from Monolith to Microservices](https://www.infoq.com/articles/github-monolith-microservices/)
 * [Spring Camp 2018 : 11번가 Spring Cloud 기반 MSA로의 전환 – 지난 1년간의 이야기](http://readme.skplanet.com/?p=13933) spring boot, hystrix, ribbon, eureka, zuul
 * [Why Microservices Work For Us](https://segment.com/blog/why-microservices/)
 * [Goodbye Microservices: From 100s of problem children to 1 superstar](https://segment.com/blog/goodbye-microservices/)
@@ -1047,6 +1230,7 @@ Programming
 * [**마이크로 서비스 프로젝트 300개 관리하기**](https://www.popit.kr/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-300%EA%B0%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0/) Docker, Kubernetes 실용적인 예와 경험. 매우 좋은 글
 * [**Data Consistency in Microservices Architecture (Grygoriy Gonchar)**](https://www.youtube.com/watch?v=CFdPDfXy6Y0)
 * [Data Consistency in Microservice Using Sagas](https://www.youtube.com/watch?v=txlSrGVCK18)
+* [Data Consistency Between Microservices - YouTube](https://www.youtube.com/watch?v=uKURpE12Mgo)
 * [우아한 멀티모듈 - 2019년 8월 우아한 Tech 세미나](https://jojoldu.tistory.com/444)
 * [Microservices: How To Build Systems That Survive](https://www.youtube.com/watch?v=rNQR1HqfEl0)
 * [MSA (Microservice Architecture) 마이크로서비스 아키텍처 회고](https://bebong.tistory.com/entry/MSA-Microservice-Architecture-마이크로서비스-아키텍처-회고)
@@ -1077,7 +1261,6 @@ Programming
 * [**적당히 갖춰나간 운영 환경**](https://www.popit.kr/%EC%A0%81%EB%8B%B9%ED%9E%88-%EA%B0%96%EC%B6%B0%EB%82%98%EA%B0%84-%EC%9A%B4%EC%98%81-%ED%99%98%EA%B2%BD/) '적당히'라는 제목과 달리 굉장히 좋은 글
 * [Monolith to Microservices: Migrating Snap’s Architecture Using a Service Mesh](https://www.infoq.com/news/2020/04/snap-architecture-service-mesh/)
 * [Migrating Monoliths to Microservices with Decomposition and Incremental Changes](https://www.infoq.com/articles/migrating-monoliths-to-microservices-with-decomposition/)
-* [From Monolith to Microservices - YouTube](https://www.youtube.com/watch?v=Sr0OE-AzAJU)
 * [Microservices and \[Micro\]services](https://kalele.io/microservices-and-microservices/)
 * [Micro Frontend 마이크로 프론트앤드 - 개념](https://mobicon.tistory.com/572)
 * [Frontend Architectural Patterns: Backends-For-Frontends | by Bowei Han | Frontend at Scale | Sep, 2020 | Medium](https://medium.com/frontend-at-scale/frontend-architectural-patterns-backend-for-frontend-29679aba886c)
@@ -1090,6 +1273,10 @@ Programming
 * [How We Build Micro Frontends. Building micro-frontends to speed up… | by Jonathan Saring | Bits and Pieces](https://blog.bitsrc.io/how-we-build-micro-front-ends-d3eeeac0acfc)
 * [대규모 서비스를 위한 Micro Frontend · Present](https://present.do/decks/60bf99021903093a77d16769)
 * [Micro-Frontends Simplified - YouTube](https://www.youtube.com/watch?v=89hSa1pKPPg)
+* [Lessons from DAZN: Scaling Your Project with Micro-Frontends - YouTube](https://www.youtube.com/watch?v=tD1rcWSfYpo)
+* [How We Build Micro Frontends With Lattice | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/how-we-build-micro-frontends-with-lattice-22b8635f77ea)
+* [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐. 소프트웨어의 수명과 복잡도는 대개 비례 관계입니다. 아무리 정교하고… | by 히로 | CLASS101 | Jun, 2021 | Medium](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77)
+  * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐 | GeekNews](https://news.hada.io/topic?id=4572)
 * [마이크로서비스 배포 혁명](https://jflip.tistory.com/23)
 * [What Comes after Microservices? Multi-Runtime Microservices with Bilgin Ibryam at QCon London](https://www.infoq.com/news/2020/03/multi-runtime-microservices/)
 * [Multi-Runtime Microservices Architecture](https://www.infoq.com/articles/multi-runtime-microservice-architecture/)
@@ -1130,11 +1317,33 @@ Programming
 * [마이크로서비스에서 데이터를 중앙화하면 안 되는 3가지 이유 - ITWorld Korea](https://www.itworld.co.kr/news/198864)
 * [Three Patterns To Scale Your Microservices - YouTube](https://www.youtube.com/watch?v=1dAnMkF4Mc4)
 * [Design Microservice Architectures the Right Way - YouTube](https://www.youtube.com/watch?v=j6ow-UemzBc)
+* [Building MSA in Enterprise - 권용석(삼성전자 무선사업부), 정영준(AWS) :: 제21회 AWSKRUG Container모임 - YouTube](https://www.youtube.com/watch?v=O-4hag2jDBc)
+* [Pitfalls and Patterns in Microservice Dependency Management - YouTube](https://www.youtube.com/watch?v=kjbfvP65Jn0)
+* [API vs. Microservices: The Complete Guide - Snipcart](https://snipcart.com/blog/api-vs-microservices-architecture)
+* [Databases in the Microservices World - YouTube](https://www.youtube.com/watch?v=-9Veoch50Bg) micro database, event sourcing등. 기초적인 내용(이지만 잊기 쉬우니 보면 좋음)
+* [The 3 Stages of Microservice: Divide, Conquer, and Chaos | CodersTea](https://www.coderstea.com/post/microservices/microservices-introduction-divide-conquer-and-chaos/)
+* [NGINX’s Reference Architecture for Kubernetes Microservices – The New Stack](https://thenewstack.io/nginxs-reference-architecture-for-kubernetes-microservices/)
+* [Scale, Flow and Microservices • James Lewis • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=LL4SJsBtYw0)
+* [**이모티콘 서비스는 왜 MSA를 선택했나? – tech.kakao.com**](https://tech.kakao.com/2021/09/14/msa/)
+* [Turning Microservices Inside-Out](https://www.infoq.com/articles/microservices-inside-out/)
+* [7 Microservices Best Practices for Developers - DZone Microservices](https://dzone.com/articles/7-microservices-best-practices-for-developers)
+* [Microservice, monolith, microlith](https://blogs.oracle.com/javamagazine/post/microservice-monolith-microlith)
+* [Microservices Database Management Patterns and Principles | by Mehmet Özkaya | Design Microservices Architecture with Patterns & Principles | Sep, 2021 | Medium](https://medium.com/design-microservices-architecture-with-patterns/microservices-database-management-patterns-and-principles-9121e25619f1)
+* [Solving distributed data problems in a microservice architecture | Microservices.io - YouTube](https://www.youtube.com/watch?v=AEbJgpamZ4w)
+* [API V2 전환과 DB 무중단 마이그레이션 후기. 29CM에서는 비즈니스 확장에 대응하기 위해 Monolithic… | by rogiry | 29CM 기술블로그 | Oct, 2021 | Medium](https://medium.com/29cm/api-v2-%EC%A0%84%ED%99%98%EA%B3%BC-db-%EB%AC%B4%EC%A4%91%EB%8B%A8-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%9B%84%EA%B8%B0-8b39eb0db566)
+  * 29CM에서 모노리스로 구성되어 있던 서버에서 서비스를 분리하면서 MySQL로 무중단 마이그레이션 하는 과정 설명
+  * 좋아요 기능의 테이블 변경 작업을 하면서 v2 API를 별도의 서비스로 분리하기로 결정
+  * 기존 PostgreSQL을 MySQL로 전환하지만, v1, v2 API를 둘 다 제공해야 하므로 두 데이터베이스 간 데이터는 동기화 필요
+  * 좋아요 설정/해제는 v1만 사용하도록 하고 SQS를 이용해서 이 데이터를 MySQL에 저장
+  * 좋아요 조회는 v1과 v2를 모두 이용하게 구성
+  * 데이터 이관은 PostgreSQL을 덤프한 뒤 MySQL에 로드하게 했고 마이그레이션 중의 데이터는 SQS를 통해서 MySQL에 추가
+* [Back-end for Front-end Pattern (BFF) | by Giljae Joo (주길재) | Medium](https://giljae.medium.com/back-end-for-front-end-pattern-bff-4b73f29858d6)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
 * [Edgar: Solving Mysteries Faster with Observability | by Netflix Technology Blog | Sep, 2020 | Netflix TechBlog](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
   * [Building Netflix’s Distributed Tracing Infrastructure | by Netflix Technology Blog | Oct, 2020 | Netflix TechBlog](https://netflixtechblog.com/building-netflixs-distributed-tracing-infrastructure-bb856c319304)
+* [Micronaut Framework - A MODERN, JVM-BASED, FULL-STACK FRAMEWORK FOR BUILDING MODULAR, EASILY TESTABLE MICROSERVICE AND SERVERLESS APPLICATIONS](https://micronaut.io/) GraalVM based
 * [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
   * Zipkin을 이용한 MSA 환경에서 분산 트렌젝션의 추적
     * [#1](http://bcho.tistory.com/1243)
@@ -1142,6 +1351,7 @@ Programming
     * [#3 -Stackdriver를 zipkin으로 사용하기](http://bcho.tistory.com/1245)
   * [Zipkin과 Scouter v2.5를 연동해보자](https://gunsdevlog.blogspot.com/2018/11/how-to-use-zipkin-scouter-storage.html)
   * [LINE 광고 플랫폼의 MSA 환경에서 Zipkin을 활용해 로그 트레이싱하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-ads-msa-opentracing-zipkin/)
+  * [Distributed tracing with Spring Cloud Sleuth and Zipkin | Spring Boot | Microservices | Example Code - YouTube](https://www.youtube.com/watch?v=hEgdIT7AEfc)
 
 ## Architecture Serverless
 * [Serverless-ish: A scaling story - Queue-based Autoscaling Microservices](https://codeburst.io/serverless-ish-a-scaling-story-5732945b93ab)
@@ -1197,7 +1407,10 @@ Programming
 * [Why Do We Need Serverless Computing? | by Bryant Jimin Son | Medium](https://bryantson.medium.com/why-do-we-need-serverless-computing-33e93c57ca02)
 * [Serverless Korea - YouTube](https://www.youtube.com/channel/UCI16eh9VClj1HSZWC4_ZMIw/videos)
 * [효율적인 서버 관리를 찾아서, 서버리스(Serverless)](https://blog.ncsoft.com/platform-center-03-20210224/)
-* [2021년 5월 - YouTube](https://www.youtube.com/playlist?list=PLIUYAlRx8QDRsMxFPtK8b9xjXSunHvBUF)
+* 서버리스 코리아 [2021년 5월 - YouTube](https://www.youtube.com/playlist?list=PLIUYAlRx8QDRsMxFPtK8b9xjXSunHvBUF)
+* [Seven guiding principles of serverless systems](https://www.advosight.com/post/seven-guiding-principles-of-serverless-systems)
+* [Monolith Vs Microservice Vs Serverless — The Real Winner? The Developer](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
+* [Please Serverless, Have an Opinion – The New Stack](https://thenewstack.io/please-serverless-have-an-opinion/)
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
@@ -1235,6 +1448,7 @@ Programming
 * [The 25 best programming books of all-time. A data-backed answer](https://www.daolf.com/posts/best-programming-books/)
 * [software-architecture-books: A comprehensive list of books on Software Architecture.](https://github.com/mhadidg/software-architecture-books)
 * [100+ e-books on popular technologies for free](https://www.syncfusion.com/resources/techportal/ebooks)
+* [influential-cs-books: Most influential books on Computer Science/programming](https://github.com/cs-books/influential-cs-books)
 * [allitebooks.org](http://www.allitebooks.org/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
 * [Computational Thinking for Educators](https://computationalthinkingcourse.withgoogle.com/course)
@@ -1271,8 +1485,11 @@ Programming
 
 # Cloud
 * [The Cost of Cloud Computing](https://read.acloud.guru/the-true-cost-of-cloud-a-comparison-of-two-development-teams-edc77d3dc6dc)
+* [Taking Control of Confusing Cloud Costs](https://www.infoq.com/articles/taking-control-of-cloud-costs/)
+* [Managing costs in the cloud: why you can end up paying more...](https://thestack.technology/managing-costs-in-the-cloud-percona/)
 * [How to build a SaaS with $0](https://hackernoon.com/how-to-build-a-saas-with-0-fed2341078c8)
 * [The Tech Stack of a One-Man SaaS](https://panelbear.com/blog/tech-stack/)
+* [I started SaaS companies in 2013 and 2021. Here's how things have changed](https://blog.airplane.dev/i-started-a-saas-company-in-2013-and-2021-heres-how-its-changed/)
 * [GCP vs AWS vs Azure 서비스 비교](https://docs.google.com/spreadsheets/d/1TR2_ytoHh9-InEZEjree7730GNdmrsGUDhxH1BlqK1Q)
 * [알리바바 클라우드 가입하기](https://jybaek.tistory.com/845)
 * [알리바바 클라우드 payment method 삭제](https://jybaek.tistory.com/846)
@@ -1283,12 +1500,12 @@ Programming
 * [레드햇 vs. VM웨어: 2020 상반기 하이브리드·멀티 클라우드 동향 | 슬로우뉴스](https://slownews.kr/77138)
 * ["멀티클라우드에 범용성이란 없다" 그렇다면 해결책은? - ITWorld Korea](https://www.itworld.co.kr/news/189888)
 * ['멀티클라우드'의 11가지 그늘 - CIO Korea](https://www.ciokorea.com/news/193094)
+* [(정리) 멀티 클라우드로 게임 서비스 운영하기](https://brunch.co.kr/@topasvga/1927)
 * [감자박스 :: 오라클 클라우드에서 평생 무료로 VPS 사용하기](https://www.gamjaa.com/blog/1404)
 * [SQLD 실습용 오라클 클라우드 DB 생성하기](https://stricky.tistory.com/344)
 * [Oracle Cloud 방화벽 설정 (http/https 특정 포트 열기)](https://kibua20.tistory.com/124)
 * [오라클 클라우드 무료 인스턴스를 활용한 VPN 서버 구축하기 : 클리앙](https://www.clien.net/service/board/lecture/15587467?type=recommend)
 * [클라우드 우분투에 gui로 원격 연결하기](https://evols-atirev.tistory.com/27)
-* [Taking Control of Confusing Cloud Costs](https://www.infoq.com/articles/taking-control-of-cloud-costs/)
 * [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
 * [‘역설투성이'··· 우리가 클라우드를 싫어하는 11가지 이유 - CIO Korea](https://www.ciokorea.com/news/177989)
 * [스태틱 파일 버저닝 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/871)
@@ -1303,25 +1520,43 @@ Programming
 * [‘이투스’ 클라우드 전환 사례: 문의선 CTO 인터뷰 | 슬로우뉴스](https://slownews.kr/80915)
 * [Rule number one: Avoid vendor lock-in | Sean Boots](https://sboots.ca/2021/05/12/rule-number-one-avoid-vendor-lock-in/) cloud만 해당하는 건 아니지만
 * [‘수익은 내 것, 찜찜함은 네 것!’··· 클라우드의 10가지 그늘 - CIO Korea](https://www.ciokorea.com/news/199709)
+* [Testing Practices for Cloud Engineering | Pulumi](https://www.pulumi.com/blog/infrastructure-testing-concepts/)
+* [IDG 블로그 | “대화가 필요한” 클라우드 데이터베이스와 클라우드 인프라 - ITWorld Korea](https://www.itworld.co.kr/news/203594)
+* [컬러 오브 머니··· '색'으로 알아보는 클라우드 지출 - CIO Korea](https://www.ciokorea.com/news/203649)
+* [클라우드 컴퓨팅을 써야 하는 이유 & 그리고 “클라우드 컴퓨팅을 안다는 것” 에 관하여 | by Bryant Jimin Son | Medium](https://bryantson.medium.com/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%84-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%84-%EC%95%88%EB%8B%A4%EB%8A%94-%EA%B2%83-%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-6fcf9a763c38)
+* [넷플릭스∙스포티파이∙우버의 공통점…'클라우드 네이티브'의 정의와 특징 - ITWorld Korea](https://www.itworld.co.kr/news/205274)
+* [글로벌 칼럼 | 오늘날 클라우드 서비스가 만들어지는 방식 - ITWorld Korea](https://www.itworld.co.kr/news/205109)
+* [차니의 클라우드 클리닉 :: Channy's Blog](http://blog.creation.net/category/cloud-clinic)
+* [서비스로서의 방화벽 ‘FWaaS’ 알아보기 - ITWorld Korea](https://www.itworld.co.kr/news/206494)
+* [Netflix Cloud Packaging in the Terabyte Era | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/netflix-cloud-packaging-in-the-terabyte-era-d6869b4b84ae) MezzFS
+* [데이터부터 ID까지 다 지킨다··· 클라우드 '빅3' 사이버 보안 제품 가이드 - CIO Korea](https://www.ciokorea.com/news/209062)
+* [Announcing Cloudflare R2 Storage: Rapid and Reliable Object Storage, minus the egress fees](https://blog.cloudflare.com/introducing-r2-object-storage/)
+* [Will Cloudflare R2 Win Customers from Amazon S3? | Taloflow](https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3)
+* [마이크로소프트 애저 클라우드 취약점이 알려주는 클라우드 보안의 4가지 교훈 - ITWorld Korea](https://www.itworld.co.kr/news/209414)
 * [aws](aws.md)
 * [azure](azure.md)
+* [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
+  * [Checkov Secrets Scanning: Find exposed credentials in IaC | Bridgecrew Blog](https://bridgecrew.io/blog/checkov-secrets-scanning-find-exposed-credentials-in-iac/)
+* [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
 * [Dapr - Distributed Application Runtime](https://dapr.io/)
   * [Dapr, Lego for Microservices - YouTube](https://www.youtube.com/watch?v=NUMIYFbOkcc)
   * [Dapr - Getting started - YouTube](https://www.youtube.com/watch?v=WJ__6gRA9hI)
   * [Getting Started with Dapr for Building Distributed Apps - YouTube](https://www.youtube.com/watch?v=JOMQDDCRPaw)
   * [Alex Thissen — Dapr for building distributed .NET Core applications - YouTube](https://www.youtube.com/watch?v=FyFr5HzsQXE)
-* [GCP Google Cloud Platform](gcp.md)
-* [cloudquery transforms your cloud infrastructure into queryable SQL tables for easy monitoring, governance and security](https://github.com/cloudquery/cloudquery)
 * [Dark - a new way of building serverless backends. Just code your backend, with no infra, framework or deployment nightmares](https://darklang.com/)
 * [Dataiku 다타이쿠 클라우드 서버 설치 방법 가이드](https://stricky.tistory.com/351) 네이버 클라우드 플랫폼
 * [DigitalOcean – The developer cloud](https://www.digitalocean.com/)
+* [GCP Google Cloud Platform](gcp.md)
 * Heroku
   * [We are very far from a better Heroku for production apps in a hyper cloud | GitLab](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
+  * [How To Deploy Node Js Feathers Framework On Heroku - YouTube](https://www.youtube.com/watch?v=R2yKyhgtklU)
 * [HopsFS: 100x Times Faster than AWS S3 - Logical Clocks](https://www.logicalclocks.com/blog/hopsfs-100x-times-faster-than-aws-s3)
 * [Libvirt - The Unsung Hero of Cloud Computing — Vyom](https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html)
 * Linode [Cloud Computing & Linux Servers | Alternative to AWS | Linode](https://www.linode.com/)
 * [Micro 3.0 (M3O) - a platform for cloud native development | Micro](https://micro.mu/blog/2020/11/05/micro-v3-aka-m3o.html)
   * [Why we are building a CLI first PaaS without a web frontend](https://crufter.com/cli-first-paas)
+* [neverinstall | Your browser is the new operating system](https://neverinstall.com/)
+  * [Never Install - 데스크탑 앱을 설치없이 브라우저에서 사용하기 | GeekNews](https://news.hada.io/topic?id=4794)
 * nextcloud [클라우드 스토리지: Nextcloud | Varins](https://varins.com/library/server/cloud-storage-nextcloud/)
 * [OpenTelemetry](https://opentelemetry.io/)
   * [Why (and how) GitHub is adopting OpenTelemetry | The GitHub Blog](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/)
@@ -1385,9 +1620,11 @@ Programming
 * [Code Review Best Practices at Google | Better Programming](https://medium.com/better-programming/13-code-review-standards-inspired-by-google-6b8f99f7fd67)
 * [When DRY Doesn’t Work, Go WET. It’s okay if you repeat yourself | by Nick Bull | Better Programming | Medium](https://medium.com/better-programming/when-dry-doesnt-work-go-wet-6befda0444bf)
 * [The Pros and Cons of DRY Code - Qvault](https://qvault.io/2021/01/25/the-pros-and-cons-of-dry-code/)
+* [Beyond Coupling and Cohesion: Strategies For Un-Fucking Yourself – Pursuit Of Laziness – A blog by Jesse Duffield](https://jesseduffield.com/Beyond-Coupling-And-Cohesion/)
 * [How to Make Your Code Reviewer Fall in Love with You · mtlynch.io](https://mtlynch.io/code-review-love/)
 * [Code Review Best Practices – Trisha Gee](https://trishagee.com/presentations/code_review_best_practice/)
 * [Code Review Best Practices - YouTube](https://www.youtube.com/watch?v=3pth05Rgr8U)
+* [Code Review Best Practices. The Internet provides a wealth of… | by Palantir | Palantir Blog](https://blog.palantir.com/code-review-best-practices-19e02780015f)
 * [Great Code Reviews—The Superpower Your Team Needs — Data Science & Engineering](https://shopify.engineering/great-code-reviews)
 * [코드리뷰가 쏘아올린 작은공 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/02/09/cory.html)
 * [좋은 PR, 코드 리뷰에 대한 단상. 일 하다 보면 일관성 없는 PR, 가독성 떨어지는 코드 리뷰를 마주할… | by geekk | Feb, 2021 | Medium](https://octob.medium.com/%EC%A2%8B%EC%9D%80-pr-%EC%BD%94%EB%93%9C%EB%A6%AC%EB%B7%B0%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8B%A8%EC%83%81-e08bfccc16b9)
@@ -1395,31 +1632,9 @@ Programming
 * [뉴크루 온보딩 코드 리뷰어로 참여하기 – 카카오는 주니어와 함께 성장합니다. – tech.kakao.com](https://tech.kakao.com/2021/04/08/welcome-new-krew3/)
 * [글로벌 기업은 코드 리뷰를 어떻게 할까요? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=30978428&memberNo=36733075&navigationType=push)
 * [How to Review Someone Else’s Code: Tips and Best Practices](https://www.codecademy.com/resources/blog/code-review-best-practices/)
+* [코드 리뷰프로세스를 도입/개선하고자 하는데 어떻게 해야할까요? | by gon Kim | elecle | Oct, 2021 | Medium](https://medium.com/elecle-bike/%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC-%EB%8F%84%EC%9E%85-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B3%A0%EC%9E%90-%ED%95%98%EB%8A%94%EB%8D%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C%EC%9A%94-1e5df5f8949b)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
-* [Measuring enterprise developer productivity - The GitHub Blog](https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/)
-* [How to Kill Your Developer Productivity - DZone DevOps](https://dzone.com/articles/how-to-kill-your-developer-productivity-humanitec)
-* [Measuring Engineering Productivity | by O'Reilly Media | oreillymedia | Medium](https://medium.com/oreillymedia/measuring-engineering-productivity-a6da8605ffae)
-  * 생산성을 측정해야 하는 이유
-    * 사업을 확장하려면 엔지니어링 조직 규모를 늘려야 하지만, 커뮤니케이션 비용은 조직 규모에 제곱으로 늘어나기 때문에 사업 확장 속도에 맞출 수가 없음
-    * 그러므로 개인 생산성을 지속 개선해야 함. 생산성 개선 활동에도 리소스가 들어가기 때문에 효과적으로 할 필요가 있음
-  * 구글에서는 사회과학자를 포함한 다양한 분야의 연구원들로 구성된 팀을 구성하여 산출물 뿐 아니라 개인의 동기부여 측면 등 개인적인 측면까지 고려한 개발 생산성을 이해하려 함
-  * 어떤 개발 프로세스가 측정 가치가 있는지를 판단하는 방법
-    * 측정과 분석 등에 많은 비용이 들어가기 때문에 측정이 정말 가치있는가를 먼저 평가
-    * 사람들이 측정하고자 하는 프로세스가 있을 때 몇 가지 검증 질문(기대결과, 취할 수 있는 액션, 누가 결정하는가?) 을 통해서 측정할만한 가치가 있는지 확인
-    * 그 결과 많은 경우에 가치가 없었음. 가장 중요한 것은 해당 팀이 의사결정 권한이 있는지 여부
-  * 어떤 프로젝트를 측정하기로 결정하고 나면, GSM(Goal/Signals/Metrics) 프레임워크로 지표 생성
-  * Goal을 먼저 정하되 실제 지표를 포함하지 않은 상태로 모두가 동의할 수 있는 것으로 결정
-    * 다만, 밸런스 있는 목표를 정하는 것을 간과할 수 있으므로 5가지 핵심 구성요소를 정의. QUANTS(퀄리티, 몰입, 인지적복잡성, 속도, 만족)
-* [개발자 생산성을 측정하는 최고의 방법과 최악의 방법 - ITWorld Korea](https://www.itworld.co.kr/t/61023/%EA%B0%9C%EB%B0%9C%EC%9E%90/179979)
-  * 생산성을 측정할 때 시간이나 코드 라인 같은 것으로 보는 것보다, 완료한 릴리스 수로 파악하는 것이 그나마 낫지만 결함이나 퀄리티를 함께 봐야 함
-  * 개발 KPI로 생산성의 개선을 촉구하는 방식은 좋음
-    * 하지만 생산성 지표를 팀/개별 성과 목표와 동일시하는 것은 바람직하지 않는 행동으로 이어질 가능성이 큼
-    * 대신 생산성 이상의 더 넓은 지표로 안내하는 것이 좋음
-  * 생산성 개선은 기업이 수익을 늘리고 최종 사용자 경험을 개선하고 품질을 높이고 비용을 낮추고 혁신을 실현하는 데 도움이 돼야 함
-    * 전략적 역량을 제공하고 협업을 개선하고 효율성을 유도하고 정보 접근을 간소화하거나 위험을 낮추는 것도 중요
-  * 생산성을 측정하는 목표 중 하나는 생산성 개선을 이끄는 투자를 최적화하는 것
-  * 비즈니스 성과와 개발자 생산성 메트릭을 결합한 KPI는 '팀이 생산성을 개선하면서 우선순위가 높은 비즈니스 성과를 제공하고 있는가'라는 질문에 답하는 데 도움
-* [프로덕트 조직의 생산성 높이기 (라인플러스 Fellow 김영재) - YouTube](https://www.youtube.com/watch?v=xlV82Q-ZmAA&list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne)
+* [개발자 생산성 선언-플라이휠](https://ichi.pro/ko/gaebalja-saengsanseong-seon-eon-peullaihwil-129703808319115)
 * [6 Simple Tips on How to Start Writing Clean Code](https://hackernoon.com/6-simple-tips-on-how-to-start-writing-clean-code-d66c241aa268)
 * [How to write Clean Code?](https://fullstackrubyonrails.com/blog/how-to-write-clean-code)
 * [카카오헤어샵의 CleanCode](https://brunch.co.kr/@cg4jins/2)
@@ -1443,9 +1658,11 @@ Programming
 * [들어는 보았나 몹 프로그래밍!](https://helloworld.kurly.com/blog/mob-programming/)
 * [30+ Piece of Art Code Comment People Ever Wrote in Code](https://medium.com/javascript-in-plain-english/17-piece-of-art-code-comment-people-wrote-in-code-60a4284e0d92)
 * [25+ Useless Code Comments People Actually Wrote In Their Code](https://medium.com/javascript-in-plain-english/25-useless-code-comments-people-actually-wrote-in-their-code-6e55c370d562)
+* [Best practices for writing code comments - Stack Overflow Blog](https://stackoverflow.blog/2021/07/05/best-practices-for-writing-code-comments/)
 * [Type Fast, Work Fast. A programmer’s approach to optimize… | by Lucas Soares | The Startup | Jul, 2020 | Medium](https://medium.com/swlh/type-fast-work-fast-b80eacd10e26)
 * [eXtreme Programming](https://www.theteams.kr/teams/2694/post/67869)
 * [The Ten Commandments of egoless programming - TechRepublic](https://www.techrepublic.com/article/the-ten-commandments-of-egoless-programming/) 직접 관계가 있지는 않지만 기억해둘만한 좋은 이야기
+* [Reasons & Ways to Improve Code Quality • Venkat Subramaniam • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=znZlF4uQBN0)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
@@ -1471,6 +1688,7 @@ Programming
 * [omniref.com/tour](https://www.omniref.com/tour)
 * [raw code - The new home for your code snippets](http://rawcode.io/)
 * [recall](https://recalll.co/app/)
+* ShortcutFoo [Learn shortcuts and commands | ShortcutFoo](https://www.shortcutfoo.com/)
 * [symbolhound.com](http://symbolhound.com/) search for symbols
 * [trokam.com](http://trokam.com)
 
@@ -1573,6 +1791,7 @@ Programming
 * [algorithm - What is the difference between LL and LR parsing? - Stack Overflow](https://stackoverflow.com/questions/5975741/what-is-the-difference-between-ll-and-lr-parsing)
 * [컴파일러는 어떻게 내가 작성한 코드를 인식하는걸까? - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/04/18/Formal-Language-and-Compiler.html)
 * [CompilerJobs | A listing of compiler, language and runtime teams for people looking for jobs in this area](https://mgaudet.github.io/CompilerJobs/)
+* [pl0c: PL/0 to C compiler to teach basic compiler construction from a practical, hands-on perspective](https://github.com/ibara/pl0c)
 
 # Conference
 * [calltospeakers.com](https://calltospeakers.com)
@@ -1702,6 +1921,11 @@ Programming
 * [Improving how we deploy GitHub - The GitHub Blog](https://github.blog/2021-01-25-improving-how-we-deploy-github/)
 * [LINE 오픈챗 서버 원클릭 릴리스 자동화 시스템 개발기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-openchat-server-release-automation/)
 * [CI/CD 자동화가 가져다 준 행복 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/ci-cd-automation/)
+* **[**실용주의 데브옵스 for MSA – tech.kakao.com](https://tech.kakao.com/2021/07/16/devops-for-msa/) GitOps, Argo CD 도입
+* [CI/CD 파이프라인을 보호하는 6가지 모범 사례 - ITWorld Korea](https://www.itworld.co.kr/news/201624)
+* [Building a successful and sustainable CI/CD pipeline - YouTube](https://www.youtube.com/watch?v=9nIG-pFyQ_k) 지속적 통합/배포 파이프라인을 제대로 구축하려면 툴이 아닌 아키텍처와 프로세스에 집중해야 하고, 조직원들을 지속적으로 설득해나가야 한다
+* [Safe Updates of Client Applications at Netflix | by Netflix Technology Blog | Oct, 2021 | Netflix TechBlog](https://netflixtechblog.com/safe-updates-of-client-applications-at-netflix-1d01c71a930c)
+* CodeCov [Publishing Scala Code Coverage Results to CodeCov using Github Actions | by PJ Fanning | Oct, 2021 | Medium](https://medium.com/@pjfanning/publishing-scala-code-coverage-results-to-codecov-using-github-actions-3e73ea8056cb)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
 * teamcity
@@ -1729,17 +1953,9 @@ Programming
 * [Deloitte University Press – Cognitive technologies: The real opportunities for business](http://dupress.com/articles/cognitive-technology-course/)
 * [Five of the Best Computer Science Classes in the U.S.](http://www.bloomberg.com/news/articles/2015-06-11/five-of-the-best-computer-science-classes-in-the-country)
 * [Computer Science Curriculum](https://www.youtube.com/watch?v=-OvRVlqKebI)
-* [HumanitiesSciences: StatLearning-SP Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
 * [In-Memory Data Management (September 2015)](https://open.hpi.de/courses/imdb2015)
-* [MIT OPEN COURSEWARE](http://ocw.mit.edu/index.htm)
-* [Timilearning - A blog by Timi Adeniran](https://timilearning.com/)
-* [NovoEd delivers effective and engaging online training with our social learning platform](https://novoed.com/)
 * [Number Theory and Cryptography: A Distance Learning Course for High School Students](http://blogs.ams.org/matheducation/2015/07/01/number-theory-and-cryptography-a-distance-learning-course-for-high-school-students/)
 * [An Overview of Cryptography](https://www.garykessler.net/library/crypto.html)
-* [O'Reilly Learning Paths](http://shop.oreilly.com/category/learning-path.do?imm_mid=0e33ca&cmp=em-na-books-videos-lp-promo_day_against_drm_20160503_lp)
-* [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/open-source-society/computer-science)
-  * [알짜 e강의만 모아 볼까…OSS 대학](http://www.bloter.net/archives/240899)
-* [Open Textbook Library](http://open.umn.edu/opentextbooks/)
 * [Provides an open source framework for online education taxonomies. https://www.class-central.com/subjects](https://github.com/classcentral/online-course-taxonomy)
 * [Top 20 Coding Bootcamps](http://www.collegestartup.org/2015/07/21/top-20-coding-bootcamps/)
 * [MOOC](http://www.bloter.net/archives/236871)
@@ -1770,16 +1986,17 @@ Programming
   * [Missing Semester IAP 2020 - YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 * [How I Got a Computer Science Degree in 3 Months for Less Than $5000 | Miguel Rochefort](https://miguelrochefort.com/blog/cs-degree/)
 * [Entire Computer Science Curriculum in 1000 YouTube Videos | Laconicml](https://laconicml.com/computer-science-curriculum-youtube-videos/)
+* [구름EDU - 모두를 위한 맞춤형 IT교육](https://edu.goorm.io/)
+* [코딩엑스 - 코딩/AI 올인원 학습 플랫폼](https://coding-x.com/class)
 * [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
 * [codeschool.com](https://www.codeschool.com/)
 * [code with google - Every student deserves the chance to explore, advance, and succeed in computer science](https://edu.google.com/code-with-google)
 * [codingwithchrome.foo](http://codingwithchrome.foo/)
   * [구글, SW 교육도구 ‘코딩 위드 크롬’ 무료 공개](https://www.bloter.net/archives/257828)
-* [코딩엑스 - 코딩/AI 올인원 학습 플랫폼](https://coding-x.com/class)
+* [computer-science: Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 * [coursebuffet.com](https://www.coursebuffet.com/)
 * [edwith.org](https://www.edwith.org)
-* [edu.goorm.io](http://edu.goorm.io/)
 * [everdevel.com](http://www.everdevel.com/)
 * freecodecamp.org
   * [Free Code Camp's open source codebase and curriculum!](https://github.com/FreeCodeCamp/FreeCodeCamp)
@@ -1789,23 +2006,37 @@ Programming
   * [438 Free Online Programming & Computer Science Courses You Can Start in May](https://medium.freecodecamp.org/438-free-online-programming-computer-science-courses-you-can-start-in-may-aa316e4195fc)
   * [650 Free Online Programming & Computer Science Courses You Can Start This Summer](https://medium.freecodecamp.org/650-free-online-programming-computer-science-courses-you-can-start-this-summer-6c8905e6a3b2)
 * [gitxiv - Collaborative Open Computer Science](http://gitxiv.com/)
+* [HumanitiesSciences: StatLearning-SP Statistical Learning](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/info)
 * [inflearn.com/roadmaps](https://www.inflearn.com/roadmaps)
 * [infractal.org](http://infractal.org/)
+* [Introduction to Programming Languages](https://hjaem.info/itpl)
 * JetBrains Academy [Learn computer programming | Online courses from JetBrains Academy](https://www.jetbrains.com/academy/)
 * [Khan Academy | Free Online Courses, Lessons & Practice](https://www.khanacademy.org/)
   * [khan-dl: Download courses from khanacademy.org](https://github.com/rand-net/khan-dl)
 * [K MOOC](http://www.kmooc.kr/)
+* [learncodethehardway.org](https://learncodethehardway.org/) learn code the hard way
 * [Learn TV | Microsoft Docs](https://docs.microsoft.com/en-us/learn/tv/)
-* [nand2tetris](https://www.nand2tetris.org/)
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
   * [여러분의 CS 교육에서 누락된 학기 · the missing semester of your cs education](https://missing-semester-kr.github.io/)
-* [learncodethehardway.org](https://learncodethehardway.org/) learn code the hard way
+* [MIT OPEN COURSEWARE](http://ocw.mit.edu/index.htm)
+* [nand2tetris](https://www.nand2tetris.org/)
+* [NovoEd delivers effective and engaging online training with our social learning platform](https://novoed.com/)
+* [Open Logic Project – Open Source, Customizable, Advanced Logic Text](https://openlogicproject.org/)
+  * [Open Logic Project Builds](http://builds.openlogicproject.org/)
+* [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/open-source-society/computer-science)
+  * [알짜 e강의만 모아 볼까…OSS 대학](http://www.bloter.net/archives/240899)
+* [Open Textbook Library](http://open.umn.edu/opentextbooks/)
+* [O'Reilly Learning Paths](http://shop.oreilly.com/category/learning-path.do?imm_mid=0e33ca&cmp=em-na-books-videos-lp-promo_day_against_drm_20160503_lp)
 * [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/ossu/computer-science)
 * [Programming by Doing](http://programmingbydoing.com/)
+* [programming-math-science: This is a list of links to different freely available learning resources about computer programming, math, and science](https://github.com/bobeff/programming-math-science)
 * [raywenderlich.com](https://www.raywenderlich.com/) Over 3,000 high-quality tutorials to boost your programming career, created by a community of experts from around the world
 * [SKplanet Tacademy](https://www.youtube.com/channel/UCtV98yyffjUORQRGTuLHomw/playlists)
+* [Slip](https://www.slip.so/)
+  * [Slip - 프로그래밍 강의를 만들어서 판매하기 | GeekNews](https://news.hada.io/topic?id=4804)
 * [sololearn.com](https://www.sololearn.com/)
 * [Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) SICP
+* [Timilearning - A blog by Timi Adeniran](https://timilearning.com/)
 * [woz-u.com](https://woz-u.com/)
 
 # CPU
@@ -1834,13 +2065,41 @@ Programming
 * [웹 개발을 위해 꼭 알아야하는 보안 공격 · Present](https://present.do/decks/60bf91801903093a77d160ed)
 * [Password Managers](https://lock.cmpxchg8b.com/passmgrs.html)
 * ["사례로 본" 보편적인 공급망 공격 유형 6가지 - ITWorld Korea](https://www.itworld.co.kr/news/196219)
+* ['사례로 본' 코드 재사용이 여전히 보안 악몽인 이유 - ITWorld Korea](https://www.itworld.co.kr/news/202964)
 * [Elliptic Curve Cryptography Explained – Fang-Pen's coding note](https://fangpenlin.com/posts/2019/10/07/elliptic-curve-cryptography-explained/)
 * [Kaspersky Password Manager: All your passwords are belong to us | Donjon](https://donjon.ledger.com/kaspersky-password-manager/)
+* [SAML is insecure by design | joonas.fi](https://joonas.fi/2021/08/saml-is-insecure-by-design/)
+  * single-sign on에 사용하는 표준인 SAML(Security Assertion Markup Language)이 왜 보안에 취약한지 설명
+  * SAML이 서명에 사용하는 XML이 로우 데이터를 그대로 사용하지 않고 XML을 정리해서 다시 사용하기 때문에(예를 들어 불필요한 부분을 지우고 정돈된 XML로 만들어서) 공격자가 이를 이용해서 XML을 조작해도 서명을 동일하게 만들어서 공격할 수 있다고 설명
+* [Here's another free CA as an alternative to Let's Encrypt!](https://scotthelme.co.uk/heres-another-free-ca-as-an-alternative-to-lets-encrypt/)
+* [“현대 IoT 생태계에 심각한 보안 결함 있다··· 난수 생성 불량이 근간” - CIO Korea](https://www.ciokorea.com/news/205144)
+* [How does Google Authenticator work? (Part 1)](https://prezu.ca/post/2021-07-30-totp-1/) python hashlib
+* [How does Google Authenticator work? (Part 2)](https://prezu.ca/post/2021-08-12-totp-2/) python hmac
+* [How does Google Authenticator work? (Part 3)](https://prezu.ca/post/2021-08-16-totp-3/) base32
+* [OWASP Top 10:2021 (DRAFT FOR PEER REVIEW)](https://owasp.org/Top10/)
+  * 오픈소스 웹 애플리케이션 보안 프로젝트인 OWASP에서 2021년 가장 많이 일어나는 보안 문제 10개 발표
+  * 2017년과 비교해서 달라진 순서를 알기 쉽게 표시, 잘못된 접근 제어, 암호화 관련 실패, 주입, 보안이 약한 설계, 잘못된 보안 설정 등
+* [Mozilla HTTP Observatory | GeekNews](https://news.hada.io/topic?id=5052)
+* [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu/)
+* [SHA-1 'Fully and Practically Broken' By New Collision | Decipher](https://duo.com/decipher/sha-1-fully-and-practically-broken-by-new-collision)
+* [A Blueprint for Securing Software Development - DevOps.com](https://devops.com/a-blueprint-for-securing-software-development/)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
+* FIDO [line-fido2-server: FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples](https://github.com/line/line-fido2-server)
+  * [What is FIDO? - FIDO Alliance](https://fidoalliance.org/what-is-fido/)
+    * FIDO: 패스워드 없이 인증을 할 수 있게 하는 표준
+  * [FIDO at LINE: 패스워드 없는 세상으로의 첫 발걸음 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/fido-at-line/)
+  * [FIDO at LINE: FIDO2 서버를 오픈 소스로 공개했습니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/fido-at-line-fido2-server-opensource/)
+    * FIDO에는 생체인증이나 PIN 등으로 인증하는 UAF와 인증키가 포함된 하드웨어로 추가 인증하는 U2F, 이 둘을 통합해서 개선한 FIDO2가 존재
+    * FIDO2는 다양한 웹브라우저에서 지원하고 있기 때문에 FIDO2로 자리 잡는 분위기
+    * FIDO Alliance에서 상호 운용성 테스트를 진행해서 표준 준수 여부를 인증해 주는데 이 과정을 통해 테스트에 통과하고 그 결과물인 FIDO2 서버를 오픈소스로 공개
+    * [LINE, FIDO2 서버 오픈소스로 공개 | GeekNews](https://news.hada.io/topic?id=4806)
 * FingerprintJS [Cross-browser tracking vulnerablity in Tor, Safari, Chrome and Firefox - FingerprintJS](https://fingerprintjs.com/blog/external-protocol-flooding/)
+* [ots: 🔐 Share end-to-end encrypted secrets with others via a one-time URL](https://github.com/sniptt-official/ots)
+  * [ots - 1회성 URL로 e2e 암호화된 Secret 공유하기 | GeekNews](https://news.hada.io/topic?id=4799)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
+* [Sigstore](https://www.sigstore.dev/) signing, verifying and protecting software
 
 # Data Mesh
 * [Future of Data Engineering](https://www.infoq.com/presentations/data-engineering-pipelines-warehouses/)
@@ -1893,13 +2152,14 @@ Programming
   * [22회 - 금주의 Tool / Service 소개 (4회) 1부](https://www.youtube.com/watch?v=FqKytNdVmAU)
   * [22회 - 금주의 Tool / Service 소개 (4회) 2부](https://www.youtube.com/watch?v=dFbU2QrNy-c)
 * [NDC 17 없어서 못 뽑는다는 데브옵스(DevOps) 개발자, 어떤 일을 할까?](http://www.thisisgame.com/webzine/gameevent/nboard/227/?n=71605)
-* [(11) DevOps 란 무엇일까?](http://www.mobiinside.com/kr/2017/11/27/subokim-devops/)
+* [IT의 중심에서 (11) DevOps 란 무엇일까? - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2017/11/27/it%ec%9d%98-%ec%a4%91%ec%8b%ac%ec%97%90%ec%84%9c-11-devops-%eb%9e%80-%eb%ac%b4%ec%97%87%ec%9d%bc%ea%b9%8c/)
+* [DevOps 란 무엇일까? – IT의 중심에서](https://subokim.wordpress.com/2017/11/15/what-is-devops/)
 * [IDC 1도 모르는 개발자가 DevOps를 만났을때](https://www.slideshare.net/ssuserd5b689/idc-1-devops-105987290)
 * [What Is DevOps?](https://www.youtube.com/watch?v=NCj11DHWcG8)
+* [What is DevOps? - YouTube](https://www.youtube.com/watch?v=kBV8gPVZNEE)
 * 개발과 운영의 조화
   * [1 기존 개발 체계의 문제점](http://bcho.tistory.com/815)
   * [2 Devops의 정의](http://bcho.tistory.com/817)
-* [전 위메프 CTO 김요섭님의 DEVOPS](http://bcho.tistory.com/1112)
 * [What DevOps Really Means](https://medium.com/verifa/what-devops-really-means-54f6ee8f68f1)
 * [DevOps101 — First Steps on Terraform: Terraform + OpenStack + Ansible](https://hackernoon.com/terraform-openstack-ansible-d680ea466e22)
 * [DevOps 오픈소스 트랜드 (클라우드, 모바일 중심)](https://www.slideshare.net/arload/devops-125948933/arload/devops-125948933)
@@ -1921,6 +2181,11 @@ Programming
 * [LINE 광고 서버 개발 팀의 DevOps 문화 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-ads-devops-culture/)
 * [How To Become A DevOps Engineer In 2021: A Comprehensive Guide](https://devopscube.com/become-devops-engineer)
 * [A new era of DevOps, powered by machine learning](https://www.allthingsdistributed.com/2021/05/devops-powered-by-machine-learning.html)
+* [Ultimate Guide to Becoming a DevOps Engineer | Contino | Global Transformation Consultancy](https://www.contino.io/insights/devops-engineer-guide)
+* [Operations is not Developer IT](https://matduggan.com/operations-is-not-developer-it/)
+* [Velocity 09: John Allspaw and Paul Hammond, "10+ Deploys Pe - YouTube](https://www.youtube.com/watch?v=LdOe18KhtT4)
+* [halting problem : Dev v Ops](https://www.bassi.io/articles/2017/08/10/dev-v-ops/)
+* [DevOps Principles - The CASM Model - YouTube](https://www.youtube.com/watch?v=VySUutlo91E)
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
@@ -1928,6 +2193,9 @@ Programming
 * [500 마일 이메일 문제](https://edykim.com/ko/post/500-mile-email-problem/)
 * [Your E-Mail Validation Logic is Wrong](https://www.netmeister.org/blog/email.html)
 * [What's in email tracking links and pixels? | Beng Tan](https://bengtan.com/blog/whats-in-email-tracking-links-and-pixels/)
+* [Can You Validate These Emails? - YouTube](https://www.youtube.com/watch?v=60BPETbra9U)
+* [emailengine: Headless email client](https://github.com/postalsys/emailengine)
+  * [EmailEngine - IMAP/SMTP를 REST API로 접근하는 오픈소스 | GeekNews](https://news.hada.io/topic?id=4855)
 * [gmail-helper - it will contain different utilities for GMail API over OAuth2](https://github.com/abhishekkr/gmail-helper)
 * IMAP
   * [links of commands](https://gist.github.com/hyunjun/0e730ad6c9a5f2562f6ec6027cc8a95e)
@@ -1960,12 +2228,15 @@ Programming
   * [monoid - Customisable coding font with alternates, ligatures and contextual positioning. Crazy crisp at 12px/9pt](https://github.com/larsenwork/monoid)
   * [PragmataPro](https://www.fsd.it/shop/fonts/pragmatapro/)
 * [3270font: A 3270 font in a modern format](https://github.com/rbanffy/3270font)
+* [basier mono | atipo foundry](https://www.atipofoundry.com/fonts/basier-mono)
 * [cascadia-code](https://github.com/microsoft/cascadia-code)
 * [codeface](https://github.com/chrissimpkins/codeface)
 * [Comic Mono | comic-mono-font](https://dtinth.github.io/comic-mono-font/)
+* [creep: a pretty sweet 4px wide pixel font](https://github.com/romeovs/creep)
 * [D2 Coding 글꼴](https://github.com/naver/d2codingfont/releases)
 * [Fira Code: monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 * [font compare](http://s9w.github.io/font_compare/)
+* Google Fonts [Browse Fonts - Google Fonts](https://fonts.google.com/)
 * [hack - http://sourcefoundry.org/hack](http://sourcefoundry.org/hack/)
 * [hoard-of-bitfonts: turns out I like bitmap fonts](https://github.com/robhagemans/hoard-of-bitfonts)
 * [Input - Fonts for Code, from Font Bureau](http://input.fontbureau.com/)
@@ -1982,6 +2253,7 @@ Programming
 * [iconvg: IconVG is a compact, binary format for simple vector graphics: icons, logos, glyphs and emoji](https://github.com/google/iconvg)
 * [jpeg.md at master · corkami/formats](https://github.com/corkami/formats/blob/master/image/jpeg.md)
 * [Finally understanding PNG | Compress-Or-Die](https://compress-or-die.com/Understanding-PNG)
+* [Boosting image processing performance, from ImageMagick to Libvips | by Dimitri Bouron | Criteo R&D Blog | Medium](https://medium.com/criteo-engineering/boosting-image-processing-performance-from-imagemagick-to-libvips-268cc3451d55)
 
 # Infrastructure
 * [IT인프라 전문가 되기](https://brunch.co.kr/magazine/it-infra)
@@ -2043,6 +2315,7 @@ Programming
 * [emqtt](http://emqtt.io/)
   * [emqtt shared subscription](https://ash84.net/2017/10/13/emqtt-shared-subscription/)
 * [mosca - MQTT broker as a module http://mosca.io](https://github.com/mcollina/mosca)
+* [mosquitto: Eclipse Mosquitto - An open source MQTT broker](https://github.com/eclipse/mosquitto)
 * [MQTT](http://mqtt.org/)
   * [**MQTT**](https://www.joinc.co.kr/w/man/12/MQTT/Tutorial)
   * [MQTT 적용을 통한 중계시스템 개선](http://woowabros.github.io/experience/2017/08/11/ost_mqtt_broker.html)
@@ -2051,6 +2324,7 @@ Programming
   * [Raspberry Pi: Install and Test Mosquitto MQTT Broker on Raspberry Pi 3 (Raspbian Stretch OS)](http://www.apdaga.com/2018/01/raspberry-pi-install-and-test-mosquitto.html)
   * [mqtt - raspberry pi 센서데이터를 서버로 보내기 (1)](http://jusths.tistory.com/23)
   * [mqtt - raspberry pi 센서데이터를 서버로 보내기 (2)](http://jusths.tistory.com/24)
+  * [Towards a Reliable Device Management Platform | by Netflix Technology Blog | Aug, 2021 | Netflix TechBlog](https://netflixtechblog.com/towards-a-reliable-device-management-platform-4f86230ca623)
   * [HiveMQ Goes Open Source, Brings MQTT and Kafka Together](https://www.infoq.com/news/2019/04/hivemq-extension-kafka-mqtt)
 * [NATS is an open-source, high-performance, lightweight cloud native messaging system](http://nats.io/)
 * [RabbitMQ](https://www.rabbitmq.com/)
@@ -2118,6 +2392,8 @@ Programming
     * [Using Dead-letter Exchange config](https://blog.leocat.kr/notes/2018/07/31/rabbitmq-delayed-queue)
   * [Management Command Line Tool](https://www.rabbitmq.com/management-cli.html) rabbitmqadmin
   * [Idiomatic RabbitMQ • Gavin M. Roy • RabbitMQ Summit - YouTube](https://www.youtube.com/watch?v=fNbdgWe5Tbs)
+  * [RabbitMQ Streams Overview | RabbitMQ - Blog](https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-overview/)
+    * [RabbitMQ Streams | GeekNews](https://news.hada.io/topic?id=4613)
   * [mio-java.tistory.com/category/개발/rabbitMq](https://mio-java.tistory.com/category/%EA%B0%9C%EB%B0%9C/rabbitMq)
 * [rq - Simple job queues for Python https://python-rq.org ](https://github.com/rq/rq)
 * [S-MQTTT, or: secure-MQTT-over-Traefik · Jurian Sluiman](https://jurian.slui.mn/posts/smqttt-or-secure-mqtt-over-traefik/)
@@ -2149,6 +2425,13 @@ Programming
 
 # Mobile
 * [더북(TheBook): 모두의 앱 인벤터](https://thebook.io/080226/)
+* jamkit
+  * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
+  * [잼킷으로 미니앱 개발하기](https://opentutorials.org/course/4780)
+  * [잼킷 설치 가이드 for Window - 잼킷으로 네이티브 앱 개발하기](https://opentutorials.org/course/4780/30593)
+  * [잼킷(Jamkit) 그게 뭐죠? 쉽고 짧은 5분 설명! - YouTube](https://www.youtube.com/watch?v=KWW7nEmaVAY)
+  * [잼킷 9살 아들이 그린 그림으로 그림책 앱을 만들었어요! - YouTube](https://www.youtube.com/watch?v=lZWjnJTeqnc)
+* [nodejs-mobile: Full-fledged Node.js on Android and iOS](https://github.com/janeasystems/nodejs-mobile)
 
 # News & Blog
 * [기술 & 스타트업 뉴스레터 및 블로그 모음 | Guru's Blog](https://xguru.net/2222)
@@ -2358,6 +2641,18 @@ Programming
   * [6월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/06/b-6.html)
   * [6월 4주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/06/b-6-4.html)
   * [7월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/07/b-7-1.html)
+  * [7월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/07/b-7-3.html)
+  * [7월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/07/b-7.html)
+  * [8월 1주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/08/b-8-1.html)
+  * [8월 3주 소식(개발/관리도구, 고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/08/b-8-3.html)
+  * [8월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/08/b-8.html)
+  * [9월 1주 소식(개발/관리도구, 클라우드/고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/09/b-9-1.html)
+  * [9월 3주 소식(개발/관리도구, 클라우드/고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/09/b-9-3.html)
+  * [9월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/09/b-9.html)
+  * [9월 5주 소식(개발/관리도구, 클라우드/고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/10/b-9-5.html)
+  * [10월 2주 소식(개발/관리도구, 클라우드/고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/10/b-10-2.html)
+  * [10월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/10/b-10.html)
+  * [10월 4주 소식(개발/관리도구, 클라우드/고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/10/b-10-4.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -2462,6 +2757,12 @@ Programming
   * [기술 뉴스 #175 : 21-06-02 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1551)
   * [기술 뉴스 #176 : 21-06-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1552)
   * [기술 뉴스 #177 : 21-07-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1553)
+  * [기술 뉴스 #178 : 21-07-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1554)
+  * [기술 뉴스 #180 : 21-08-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1560)
+  * [기술 뉴스 #181 : 21-09-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1564)
+  * [기술 뉴스 #182 : 21-09-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1566)
+  * [기술 뉴스 #183 : 21-10-02 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1567)
+  * [기술 뉴스 #184 : 21-10-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1568)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -2505,6 +2806,9 @@ Programming
   * [월간 개발자스럽다 #66 - 개발자스럽다](https://blog.gaerae.com/2021/04/monthly.html)
   * [월간 개발자스럽다 #67 - 개발자스럽다](https://blog.gaerae.com/2021/05/monthly.html)
   * [월간 개발자스럽다 #68 - 개발자스럽다](https://blog.gaerae.com/2021/06/monthly.html)
+  * [월간 개발자스럽다 #69 - 개발자스럽다](https://blog.gaerae.com/2021/08/monthly7.html)
+  * [월간 개발자스럽다 #70 - 개발자스럽다](https://blog.gaerae.com/2021/09/monthly.html)
+  * [월간 개발자스럽다 #71 - 개발자스럽다](https://blog.gaerae.com/2021/09/monthly09.html)
 * [44BITS 뉴스레터 2020년 11주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-11)
 * [44BITS 뉴스레터 2020년 12주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-12)
 * [44BITS 뉴스레터 2020년 13주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-13)
@@ -2623,6 +2927,8 @@ Programming
 * [클라우드 OS와 인텔 그리고 새로운 CEO](https://brunch.co.kr/@techsuda/39)
 * [2020.09 둘째 주 End-And 한 주간의 주요 내용 정리 : #배경제거툴 #GPT-3 #뉴스큐레이션 | 지금 써보러 갑니다](http://icunow.co.kr/end-and2/)
 * [이바닥번역글 – 이바닥늬우스](https://ebadak.news/category/%ec%9d%b4%eb%b0%94%eb%8b%a5%eb%b2%88%ec%97%ad%ea%b8%80/)
+* [GN#114 신입 웹개발 커리큘럼과 SaaS 스타트업 부트스트래핑 도구 | GeekNews](https://news.hada.io/weekly/202137)
+* [teletext: Hacker news as teletext](https://github.com/glynnbird/teletext)
 
 # Oncall On call
 * [Building On-Call Culture at GitHub - The GitHub Blog](https://github.blog/2021-01-06-building-on-call-culture-at-github/)
@@ -2643,15 +2949,17 @@ Programming
 * [From Zero to main(): How to Write a Bootloader from Scratch | Interrupt](https://interrupt.memfault.com/blog/how-to-write-a-bootloader-from-scratch)
 * [Why interruptions are frustrating to developers | Tellspin](https://tellspin.app/blog/why-interruptions-are-frustrating-to-developers/)
 * [운영체제: 01. 운영체제가 뭐길래? - YouTube](https://www.youtube.com/watch?v=zGBm37kze9I)
-* [Cosmos (C# Open Source Managed Operating System) - an operating system development kit](https://www.gocosmos.org/)
 * [MIT CSAIL Parallel and Distributed Operating Systems Group](https://pdos.csail.mit.edu/projects/biscuit.html)
 * [STM32를 활용한 FreeRTOS 입문](https://www.g.camp/tag/freertos_2020)
-* [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6.html)
 * [Course Operating System (CPA310) - 운영체제 강의 - YouTube](https://www.youtube.com/playlist?list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN)
+* [레스토랑에 비유해서 알아보는 운영체제 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/10/04/OS-Restaurant.html)
+* [Cosmos (C# Open Source Managed Operating System) - an operating system development kit](https://www.gocosmos.org/)
 * [winix: A UNIX-style Operating System for the Waikato RISC Architecture Microprocessor (WRAMP)](https://github.com/halfer53/winix)
 * [x86-bare-metal-examples: Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QEMU 2.10中的Ubuntu 17.10主机和真实硬件上进行了测试。 Userland作弊网址：https：//github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM裸机安装程序位于：https：//github.com/cirosantilli/linux-kernel-module-cheat#baremetal- 设置](https://github.com/cirosantilli/x86-bare-metal-examples)
+* [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6.html)
 
 # Parser
+* [Parser generators vs. handwritten parsers: surveying major language implementations in 2021 | notes.eatonphil.com](https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html)
 * [Zig, Parser Combinators - and Why They're Awesome](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome)
 * [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/)
   * [A Human-readable Scheduling Tool based on Python + ANTLR - Singapore Python User Group](https://www.youtube.com/watch?v=TCPhJpKv9SE)
@@ -2665,6 +2973,8 @@ Programming
 
 # Quantum computer
 * [그래서 양자컴퓨팅이 뭔데? – 문과생을 위한 해설서](https://byline.network/2019/11/05-18/)
+* [퀀텀 컴퓨팅 기초 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/paths/quantum-computing-fundamentals/)
+* [Quantum Computing in Action (Teaser) • Johan Vos & Preben Thorø • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=dYVugFQNZJc)
 
 # Reactive
 * [리액티브 개발 패러다임에 담긴 메시지](http://m.zdnet.co.kr/column_view.asp?artice_id=20161010104628#imadnews)
@@ -2691,7 +3001,7 @@ Programming
 * [대용량 스트리밍 데이터 실시간 분석](http://d2.naver.com/helloworld/7731491)
 * [데이타 스트리밍 처리에 대한 이해](http://bcho.tistory.com/1119)
 * [실시간 데이터 처리를 위한 개념](https://jungwoon.github.io/jungwoon.github.io/REALTIME-DATA-PROCESSING-CONCEPT/)
-* [LINE 광고 데이터 파이프라인 BigDB](https://engineering.linecorp.com/ko/blog/detail/146)
+* [LINE 광고 데이터 파이프라인 BigDB - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/bigdb-an-ad-data-pipeline-for-line/)
 * [Single Page Apps and Realtime APIs](http://slides.com/grosjona/realtime)
 * Comparison of Apache Stream Processing Frameworks
   * [Part 1](http://www.cakesolutions.net/teamblogs/comparison-of-apache-stream-processing-frameworks-part-1)
@@ -2734,16 +3044,17 @@ Programming
 * [Beyond the Database, and beyond the Stream Processor: What's the Next Step for Data Management?](https://www.infoq.com/articles/whats-the-next-step-for-data-management/)
 * [Uber’s Real-Time Push Platform | Uber Engineering Blog](https://eng.uber.com/real-time-push-platform/)
 * [wavve 뽀로로 사태를 점검합니다](https://jybaek.tistory.com/894)
+* [네이버클라우드 Live Commerce on NAVER Cloud Platform (라이브커머스 세미나 Full ver.) - YouTube](https://www.youtube.com/watch?v=QzBtMHDtH3k)
 
 ## Real Time Processing, Streaming Library
-* [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
-* CEP Complex Event Processing
-  * [Welcome to Siddhi](http://siddhi.sourceforge.net/)
-* [gor - HTTP traffic replay in real-time. Replay traffic from production to staging and dev environments. http://leonsbox.com/blog/2013/06/04/improving-testing-by-using-real-traffic-from-production](https://github.com/buger/gor/)
-* Heron
+* [Apache Heron · A realtime, distributed, fault-tolerant stream processing engine](https://heron.incubator.apache.org/)
   * [Twitter Heron: Stream Processing at Scale](http://blog.acolyer.org/2015/06/15/twitter-heron-stream-processing-at-scale/)
   * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)
   * [트위터 스트림 처리 서버 (heron) 최적화 내용](http://knight76.tistory.com/entry/%ED%8E%8C-%ED%8A%B8%EC%9C%84%ED%84%B0-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%EC%B2%98%EB%A6%AC-%EC%84%9C%EB%B2%84-heron-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%82%B4%EC%9A%A9)
+  * [Apache Heron - 실시간, 분산, fault-tolerant 스트림 처리 엔진 | GeekNews](https://news.hada.io/topic?id=4608)
+* CEP Complex Event Processing
+  * [Welcome to Siddhi](http://siddhi.sourceforge.net/)
+* [gor - HTTP traffic replay in real-time. Replay traffic from production to staging and dev environments. http://leonsbox.com/blog/2013/06/04/improving-testing-by-using-real-traffic-from-production](https://github.com/buger/gor/)
 * [Mantis - a platform to build an ecosystem of realtime stream processing applications](https://netflix.github.io/mantis/)
   * [Open Sourcing Mantis: A Platform For Building Cost-Effective, Realtime, Operations-Focused Applications](https://medium.com/netflix-techblog/open-sourcing-mantis-a-platform-for-building-cost-effective-realtime-operations-focused-5b8ff387813a)
 * Pinot
@@ -2751,11 +3062,13 @@ Programming
   * [pino - 링크드인, 실시간 분석 SW ‘피노’ 오픈소스로 공개](http://www.bloter.net/archives/229991)
 * [Redpanda - Vectorized](https://vectorized.io/redpanda/) A Kafka® API compatible streaming platform for mission-critical workloads
   * [Redpanda is the real-time engine for modern apps](https://github.com/vectorizedio/redpanda)
+* [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
 
 # Refactoring
 * [레거시 코드에서 이해하기 쉬운코드로 리팩토링](https://chodragon9.github.io/blog/legacy-code-to-easy-code)
 * [**레거시를 파악하고 변경해나가기: 우선순위와 고려사항들 :: Kaden Sungbin Cho**](https://kadensungbincho.tistory.com/72)
 * [How I Failed to Deal With Legacy Code](https://medium.com/better-programming/how-i-failed-to-deal-with-legacy-code-8e123cff5bce)
+* ['앱 현대화' 필수라는데... CIO가 알아야 할 어두운 비밀 11가지 - CIO Korea](https://www.ciokorea.com/news/203104)
 * [5 easy wins to refactor even the ugliest code](https://medium.com/hackernoon/5-easy-wins-to-refactor-even-the-ugliest-code-3c7874b2f1b4)
 * [Code Refactoring: Learn Code Smells And Level Up Your Game!](https://www.youtube.com/watch?v=D4auWwMsEnY)
 * [Code Smell: Side Effects](https://medium.com/thinkster-io/code-smell-side-effects-caf799df2151)
@@ -2767,23 +3080,30 @@ Programming
 * [Refactoring and Design Patterns](https://refactoring.guru/)
 * [**FE개발자의 성장 스토리 05 : 의존관계를 이용해 구조적 리팩토링 포인트 찾기 – tech.kakao.com**](https://tech.kakao.com/2021/01/12/frontend-growth-05/) Angular 대상이지만 언어/프레임워크 관계없이 적용 가능한 좋은 이야기
 * [The world of unstructured programming, i.e. spaghetti code – The Craft of Coding](https://craftofcoding.wordpress.com/2020/02/12/the-world-of-unstructured-programming-i-e-spaghetti-code/)
+* [시스템 수준 리팩토링 시작하기](https://brunch.co.kr/@graypool/90)
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
 * [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/)
 * [화이트해커 웹 해킹 기술 - YouTube](https://www.youtube.com/playlist?list=PLK3IOiy3HLQb6jA9bA5-nJqFxJ96aytCz)
-* [NSA가 만든 무료 리버스 엔지니어링 툴, "기드라" 사용 방법](http://www.itworld.co.kr/news/122618)
+* [Ghidra](https://ghidra-sre.org/) A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
+  * [NSA가 만든 무료 리버스 엔지니어링 툴, "기드라" 사용 방법](http://www.itworld.co.kr/news/122618)
 * [h4cker - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more](https://github.com/The-Art-of-Hacking/h4cker)
 * [ImHex: A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM](https://github.com/WerWolv/ImHex)
 * [Rainbow Tables | The Linux Rain](https://www.thelinuxrain.com/articles/rainbow-tables) hashed value to password
 * [Reverse-Engineering: A FREE comprehensive reverse engineering course covering x86, x64, 32-bit ARM & 64-bit ARM architectures](https://github.com/mytechnotalent/Reverse-Engineering)
 * [Reverse Engineering WiFi on RISC-V BL602](https://lupyuen.github.io/articles/wifi)
 
+# RPA
+* [All the Robotic Process Automation (RPA) Stats You Need to Know](https://towardsdatascience.com/all-the-robotic-process-automation-rpa-stats-you-need-to-know-bcec22eaaad9)
+* [마케팅에 'RPA' 도입하기 전에... CMO가 알아야 할 것 - CIO Korea](https://www.ciokorea.com/news/208897)
+
 # RPC
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
 * [Hello World Example](https://github.com/RussellLuo/grpc-pytools/tree/master/examples)
 * [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 2018](https://www.youtube.com/watch?v=IvsANO0qZEg)
+* [RPC vs Messaging: When to use which? - YouTube](https://www.youtube.com/watch?v=LMKVzguhFw4)
 * grpc
   * [www.grpc.io](http://www.grpc.io/)
     * [Documentation](http://www.grpc.io/docs/)
@@ -2819,6 +3139,9 @@ Programming
       * 엣지 프락시가 오리진에서 객체를 가져올 때는 HTTP/1.1을 쓰고 있었는데 gRPC를 프락시하려면 오리진과의 통신에도 HTTP/2를 사용해야 함
       * gRPC 스트리밍을 지원하려면 반대쪽에서 응답 헤더를 받은 뒤에 바디를 보내야 함
     * 이를 해결하기 위해 gPRC 메시지를 CloudFlare 내부에서만 trailer 헤더 없이 HTTP/1.1 메시지로 변환하는 방법인 gRPC-web을 이용하고 이를 다시 HTTP/2로 변환하고 오리진에서 HTTP/2를 지원할 수 있도록 별도의 오리진 프락시를 구성했다고 함
+  * [gRPC load balancing on Kubernetes (using Headless Service) | Techdozo](https://techdozo.dev/grpc-load-balancing-on-kubernetes-using-headless-service/)
+  * [Practical API Design at Netflix, Part 1: Using Protobuf FieldMask | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/practical-api-design-at-netflix-part-1-using-protobuf-fieldmask-35cfdc606518)
+  * [Practical API Design at Netflix, Part 2: Protobuf FieldMask for Mutation Operations | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/practical-api-design-at-netflix-part-2-protobuf-fieldmask-for-mutation-operations-2e75e1d230e4)
   * [bloomrpc: GUI Client for GRPC Services](https://github.com/uw-labs/bloomrpc) Postman for gRPC
     * [BloomRPC - mysetting](https://mysetting.io/apps/bloomrpc)
   * fly.io [Deploy gRPC and gRPC-Web Services · Fly](https://fly.io/docs/app-guides/grpc-and-grpc-web-services/) gRPC cloud?
@@ -2843,6 +3166,8 @@ Programming
   * [암호나 안전한 정보를 저장하기 위한 소프트웨어 금고 (Vault)](http://egloos.zum.com/mcchae/v/11318672)
     * [docker-compose for vault with consul](https://github.com/mcchae/docker_consul_vault)
   * [비밀번호 TOOL, VAULT 사용법](https://seulcode.tistory.com/174)
+  * [Securing Secrets and Identity for 100,000+ Edge Devices at Starbucks with HashiCorp Vault](https://www.hashicorp.com/resources/starbucks-secrets-at-the-retail-edge-with-hashicorp-vault)
+  * [How To Setup Vault In Kubernetes- Beginners Tutorial](https://devopscube.com/vault-in-kubernetes/)
 
 # Serialization 직렬화
 * [**직렬화**](http://j.mearie.org/post/122845365013/serialization)
@@ -2865,11 +3190,46 @@ Programming
 * [CPO(VPP)가 해야 할일 – SaaSTR 후기](https://architecture101.blog/2019/09/16/what-a-great-cpo-really-does/)
 
 # Software Engineering
+* [**'기능 공장'에서 일하고 있다는 12가지 신호**](https://brunch.co.kr/@cojette/31)
 * [Frequently Forgotten Fundamental Facts about Software Engineering](http://www.kictanet.or.ke/wp-content/uploads/2012/08/Forgotten-Fundamentals-IEEE-Software-May2001.pdf)
 * [Software Engineering Blogs](https://github.com/kilimchoi/engineering-blogs)
 * [현장에서 사용하는 Software production](https://www.slideshare.net/brotherjinho/software-production-157160056)
 * [How to Add New Features to Your App in Production and Not Ruin Anything](https://medium.com/quick-code/how-to-add-new-features-to-your-app-in-production-and-not-ruin-anything-da2c6dfb6fc2)
 * [Software Engineering at Google: Practices, Tools, Values, and Culture](https://www.infoq.com/articles/software-engineering-google/)
+* [What I learned from Software Engineering at Google | Swizec Teller](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)
+* [뉴스 서비스, iOS 시작부터 출시까지 (OpenCMS) – Place Of 42Seoul Story](https://42place.innovationacademy.kr/archives/9307) 자세한 이야기는 없지만 정말 대단한 일
+* [오늘의집 개발 프로젝트 런칭 어떻게 하나 - 오늘의집 블로그](https://www.bucketplace.co.kr/post/2021-09-16-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%9F%B0%EC%B9%AD-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%82%98/)
+* [How to Kill Your Developer Productivity - DZone DevOps](https://dzone.com/articles/how-to-kill-your-developer-productivity-humanitec)
+* [Measuring enterprise developer productivity - The GitHub Blog](https://github.blog/2021-03-10-measuring-enterprise-developer-productivity/)
+* [Measuring Engineering Productivity | by O'Reilly Media | oreillymedia | Medium](https://medium.com/oreillymedia/measuring-engineering-productivity-a6da8605ffae)
+  * 생산성을 측정해야 하는 이유
+    * 사업을 확장하려면 엔지니어링 조직 규모를 늘려야 하지만, 커뮤니케이션 비용은 조직 규모에 제곱으로 늘어나기 때문에 사업 확장 속도에 맞출 수가 없음
+    * 그러므로 개인 생산성을 지속 개선해야 함. 생산성 개선 활동에도 리소스가 들어가기 때문에 효과적으로 할 필요가 있음
+  * 구글에서는 사회과학자를 포함한 다양한 분야의 연구원들로 구성된 팀을 구성하여 산출물 뿐 아니라 개인의 동기부여 측면 등 개인적인 측면까지 고려한 개발 생산성을 이해하려 함
+  * 어떤 개발 프로세스가 측정 가치가 있는지를 판단하는 방법
+    * 측정과 분석 등에 많은 비용이 들어가기 때문에 측정이 정말 가치있는가를 먼저 평가
+    * 사람들이 측정하고자 하는 프로세스가 있을 때 몇 가지 검증 질문(기대결과, 취할 수 있는 액션, 누가 결정하는가?) 을 통해서 측정할만한 가치가 있는지 확인
+    * 그 결과 많은 경우에 가치가 없었음. 가장 중요한 것은 해당 팀이 의사결정 권한이 있는지 여부
+  * 어떤 프로젝트를 측정하기로 결정하고 나면, GSM(Goal/Signals/Metrics) 프레임워크로 지표 생성
+  * Goal을 먼저 정하되 실제 지표를 포함하지 않은 상태로 모두가 동의할 수 있는 것으로 결정
+    * 다만, 밸런스 있는 목표를 정하는 것을 간과할 수 있으므로 5가지 핵심 구성요소를 정의. QUANTS(퀄리티, 몰입, 인지적복잡성, 속도, 만족)
+* [개발자 생산성을 측정하는 최고의 방법과 최악의 방법 - ITWorld Korea](https://www.itworld.co.kr/t/61023/%EA%B0%9C%EB%B0%9C%EC%9E%90/179979)
+  * 생산성을 측정할 때 시간이나 코드 라인 같은 것으로 보는 것보다, 완료한 릴리스 수로 파악하는 것이 그나마 낫지만 결함이나 퀄리티를 함께 봐야 함
+  * 개발 KPI로 생산성의 개선을 촉구하는 방식은 좋음
+    * 하지만 생산성 지표를 팀/개별 성과 목표와 동일시하는 것은 바람직하지 않는 행동으로 이어질 가능성이 큼
+    * 대신 생산성 이상의 더 넓은 지표로 안내하는 것이 좋음
+  * 생산성 개선은 기업이 수익을 늘리고 최종 사용자 경험을 개선하고 품질을 높이고 비용을 낮추고 혁신을 실현하는 데 도움이 돼야 함
+    * 전략적 역량을 제공하고 협업을 개선하고 효율성을 유도하고 정보 접근을 간소화하거나 위험을 낮추는 것도 중요
+  * 생산성을 측정하는 목표 중 하나는 생산성 개선을 이끄는 투자를 최적화하는 것
+  * 비즈니스 성과와 개발자 생산성 메트릭을 결합한 KPI는 '팀이 생산성을 개선하면서 우선순위가 높은 비즈니스 성과를 제공하고 있는가'라는 질문에 답하는 데 도움
+* [프로덕트 조직의 생산성 높이기 (라인플러스 Fellow 김영재) - YouTube](https://www.youtube.com/watch?v=xlV82Q-ZmAA&list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne)
+* [Top 10 Things That Destroy Developer Productivity - YouTube](https://www.youtube.com/watch?v=O-U11s-Rk_w)
+  * interruptions and meetings, micromanagement, vagueness, environment, scope creep product development process
+  * unreasonable deadline, lack of psychological safety, disregarding refactoring and technical debt, lack of communication skills
+* [유저 주문 취소 기능 Java 전환기. 29CM 백엔드팀은 Python + Django 기반의 모놀리틱… | by HeechanKim | 29CM 기술블로그 | Medium](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874) 기술적인 이야기보다 전반적인 프로세스 개선에 대한 점이 좋음
+* [**개발자가 모자라요 - 영록이 홈페이지**](http://youngrok.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%AA%A8%EC%9E%90%EB%9D%BC%EC%9A%94)
+  * 기능 조직과 목적 조직의 차이부터 여러가지 회사에서의 문제점을 잘 지적하고 설명한 글
+  * 특히 비개발자들에게 이야기하기 좋게 씌여졌다고 생각함
 * [Principles.dev - Software Engineering Principles](https://principles.dev/)
   * [Software Engineering Principles | GeekNews](https://news.hada.io/topic?id=4534)
 
@@ -2923,17 +3283,6 @@ Programming
 * [2018 OKKYCON - The Real TDD](https://github.com/david-learner/java-study/blob/master/2018OKKYCON/readme.md)
 * [Agile and Test Driven Development (TDD) with Swagger, Docker, Github, Postman, Newman and Jenkins for a Loopback, Node.js and CouchDB App](https://medium.com/nycdev/agile-and-test-driven-development-tdd-with-swagger-docker-github-postman-newman-and-jenkins-347bd11d5069)
 * [TDD 읽은티내기](https://brunch.co.kr/@moonjoonyoung/7)
-* [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
-* [5 Reasons to A/B Test Your App Store Product Page](https://hackernoon.com/https-hackernoon-com-5-reasons-to-a-b-test-your-app-store-product-page-379551f287b4)
-* [Azar의 공정한 A/B test 운영 시스템 ABzar 소개 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/26/azar-ab-test.html)
-* [How do A/B tests work?. A look inside one of the most powerful… | by Cassie Kozyrkov | Towards Data Science](https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0)
-* [실무에서 활용하는 A/B테스트](https://www.slideshare.net/cojette/ab-150118831)
-* [구글 애널리틱스 A/B 테스트 쉽게 하기(쿠키 + demension 활용)](https://medium.com/daangn/%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4-a-b-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EA%B8%B0-%EC%BF%A0%ED%82%A4-demension-%ED%99%9C%EC%9A%A9-6f994e1247e8)
-* [사회통계학 관점에서의 A/B 테스트](https://cojette.github.io/socialtest/)
-* [**A/B테스트에서 하면 안되는 7가지 실수**](http://mindthelog.com/2017/08/ab-testing)
-* [아마존, 에어비앤비, 넷플릭스의 AB테스트 결과 정리](https://brunch.co.kr/@digitalnative/17)
-* [기획자의 일 - A/B 테스트](https://brunch.co.kr/@yongjinjinipln/70)
-* [📰 뉴욕 타임즈는 어떻게 A/B 테스트를 할까?  다른 | 곽기은 | 커리어리](https://careerly.co.kr/comments/18849?)
 * [**뱅크샐러드의 실험플랫폼 분석 인프라 살펴보기 | 뱅크샐러드**](https://blog.banksalad.com/tech/experiment-platform-analysis-architecture/)
 * [The Causal Analysis of Cannibalization in Online Products - Code as Craft](https://codeascraft.com/2020/02/24/the-causal-analysis-of-cannibalization-in-online-products/)
 * [**일 잘 하는 개발자는 왜 비즈니스까지 신경쓸까? | Evans Library**](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
@@ -2946,6 +3295,7 @@ Programming
 * [드라마 QA팀이 하는 일](http://blog.dramancompany.com/2019/03/%EB%93%9C%EB%9D%BC%EB%A7%88-qa%ED%8C%80%EC%9D%B4-%ED%95%98%EB%8A%94-%EC%9D%BC/)
 * [이동한님 Software QA 완벽한 SW는 없다! - YouTube](https://www.youtube.com/watch?v=zaI59OJCA3s)
 * [LINE의 QA는 어떻게 일할까? - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-line-qa/)
+* [듀얼 QA 프로세스를 소개합니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/dual-qa-process/)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [Introduction to Test Driven Development (TDD)](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92)
 * ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다](https://repo.yona.io/doortts/blog/issue/1)
@@ -2984,6 +3334,7 @@ Programming
 * [**Microservices test architecture. Can you sleep well without end-to-end tests?**](https://threedots.tech/post/microservices-test-architecture/)
 * [생각을 그대로 프로그래밍하는 방법 part 1: 학부생의 방법론 / TDD 방법론 - YouTube](https://www.youtube.com/watch?v=uk-UQf7d5UY)
 * [생각을 그대로 프로그래밍하는 방법 part 2: PBT, REPL - YouTube](https://www.youtube.com/watch?v=xkRwR0sLwVA) property based testing
+* [Using ASCII waveforms to test real-time audio code - Q2Q](https://goq2q.net/blog/tech/using-ascii-waveforms-to-test-real-time-audio-code)
 * [소프트웨어 개발의 생산성, 그 어려움과 도전…](http://kwangshin.pe.kr/blog/2018/06/26/software-development-productivity-difficulties-and-challanges/)
 * Test pyramid
 * [테스트기반개발 실습 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=28278788)
@@ -2999,6 +3350,37 @@ Programming
   * [게임 테스트 자동화 5년의 기록, 리니지M과 리니지2M의 자동테스트 회고](https://ndc.nexon.com/session/sessionView?sessNo=100007275)
 * [You're Testing WHAT? • Gojko Adzic • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=5_IW7npQk9k)
 * [Unit Test 시작하기 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/6274/)
+* [How to Step Up Cloud Infrastructure Testing | Pulumi](https://www.pulumi.com/what-is/how-to-step-up-cloud-infrastructure-testing/)
+* [LINE에서 테스트를 최적화하는 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/testing-optimization/)
+* [Improving Pull Request Confidence for the Netflix TV App | by Netflix Technology Blog | Sep, 2021 | Medium](https://netflixtechblog.medium.com/improving-pull-request-confidence-for-the-netflix-tv-app-b85edb05eb65)
+* [Thick Client Penetration Testing for beginners - YouTube](https://www.youtube.com/watch?v=cCChPFkq4cY)
+* [테스트 프로세스의 핵심구조 - ETVX Model | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/performancetest/ETVX/)
+* [LoadRunner Developer | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/performancetest/LoadRunnerDeveloper1/) DevWeb Vugen
+* [Test Driven Development Tutorial For Beginners - YouTube](https://www.youtube.com/watch?v=yfP_v6qCdcs)
+* [Getting Started with TDD - Part 2 - YouTube](https://www.youtube.com/watch?v=S4tMJKupvHg)
+* [트리거가 필요한 실험에서 결과의 신뢰성을 높이는 방법](https://lumiamitie.github.io/data/counterfactual-logging/) 모수가 적어 A/B test가 어려울 경우
+
+## TDD, Test, A/B test
+* [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
+* [5 Reasons to A/B Test Your App Store Product Page](https://hackernoon.com/https-hackernoon-com-5-reasons-to-a-b-test-your-app-store-product-page-379551f287b4)
+* [Azar의 공정한 A/B test 운영 시스템 ABzar 소개 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/26/azar-ab-test.html)
+* [How do A/B tests work?. A look inside one of the most powerful… | by Cassie Kozyrkov | Towards Data Science](https://towardsdatascience.com/how-do-a-b-tests-work-996842ce6fc0)
+* [실무에서 활용하는 A/B테스트](https://www.slideshare.net/cojette/ab-150118831)
+* [구글 애널리틱스 A/B 테스트 쉽게 하기(쿠키 + demension 활용)](https://medium.com/daangn/%EA%B5%AC%EA%B8%80-%EC%95%A0%EB%84%90%EB%A6%AC%ED%8B%B1%EC%8A%A4-a-b-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EA%B8%B0-%EC%BF%A0%ED%82%A4-demension-%ED%99%9C%EC%9A%A9-6f994e1247e8)
+* [사회통계학 관점에서의 A/B 테스트](https://cojette.github.io/socialtest/)
+* [**A/B테스트에서 하면 안되는 7가지 실수**](http://mindthelog.com/2017/08/ab-testing)
+* [아마존, 에어비앤비, 넷플릭스의 AB테스트 결과 정리](https://brunch.co.kr/@digitalnative/17)
+* [기획자의 일 - A/B 테스트](https://brunch.co.kr/@yongjinjinipln/70)
+* [📰 뉴욕 타임즈는 어떻게 A/B 테스트를 할까?  다른 | 곽기은 | 커리어리](https://careerly.co.kr/comments/18849?)
+* [테크 웨비나 쿠팡 출신 개발자의 A/B 테스트 플랫폼 MVP 개발기 - YouTube](https://www.youtube.com/watch?v=w7JHb60zk9k)
+* [왜 굳이 A/B 테스트인가요?](https://lumiamitie.github.io/data/why-ab-test/)
+* [Decision Making at Netflix. Part 1 in a multipart series about… | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/decision-making-at-netflix-33065fa06481)
+* [What is an A/B Test?. This is the second post in a multi-part… | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/what-is-an-a-b-test-b08cc1b57962)
+* [A/B 테스트의 확장판, MAB (Multi-Armed Bandits) 알고리즘 | Be Geeky](https://assaeunji.github.io/bayesian/2021-01-30-mab/) 문제의식은 이해하지만 활용은 아직 어려울 듯
+* [Interpreting A/B test results: false positives and statistical significance | by Netflix Technology Blog | Oct, 2021 | Netflix TechBlog](https://netflixtechblog.com/interpreting-a-b-test-results-false-positives-and-statistical-significance-c1522d0db27a)
+* [growthbook: The Open Source A/B Testing Platform](https://github.com/growthbook/growthbook)
+  * [GrowthBook - 오픈소스 A/B 테스팅 플랫폼 | GeekNews](https://news.hada.io/topic?id=4844)
+* hackle [핵클: A/B 테스트, 기능 플래그 및 이상 징후 탐지 플랫폼](https://hackle.io/) 쿠팡 출신 엔지니어들이 만들었다는 A/B test platform
 
 ## TDD, Test, Automation
 * [The Abuse and Misuse of Test Automation – Interview with Alan Page](http://blog.fogcreek.com/the-abuse-and-misuse-of-test-automation-interview-with-alan-page/)
@@ -3014,6 +3396,7 @@ Programming
 * [Model Controller Testsuite (MCT)을 이용한 테스트 자동화 구축](https://engineering.linecorp.com/ko/blog/applying-model-controller-testsuite-to-test-automation/)
 * [Top 10 Free Automation Test Tools That Will Make Your Life Easier](https://towardsdatascience.com/top-10-free-automation-software-that-will-make-your-life-easier-63217e670447)
 * [A/B 테스트 자동 분석툴 개발하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/02/26/auto-stats-test.html)
+* [Technology: Push the Boundaries #1 QA 테스트 자동화에 도전하다](https://blog.ncsoft.com/technology-push-the-boundaries-1/)
 * [appium - Automation for iOS, Android, and Windows Apps. http://appium.io ](https://github.com/appium/appium)
   * [모바일 UI 테스트 자동화 구축하기](http://blog.dramancompany.com/2019/09/%eb%aa%a8%eb%b0%94%ec%9d%bc-ui-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%9e%90%eb%8f%99%ed%99%94-%ea%b5%ac%ec%b6%95%ed%95%98%ea%b8%b0/)
 * [Gauge - Light weight cross-platform test automation http://getgauge.io](https://github.com/getgauge/gauge)
@@ -3028,6 +3411,8 @@ Programming
   * [클린 코드를 위한 테스트 주도 개발 2](https://hyesun03.github.io/2016/09/19/djangoTDD02/)
   * [클린 코드를 위한 테스트 주도 개발 3](https://hyesun03.github.io/2016/09/22/djangoTDD03/)
   * [클린 코드를 위한 테스트 주도 개발 4](https://hyesun03.github.io/2016/09/22/djangoTDD04/)
+* [Peanut: 🐺 Deploy Databases and Services Easily for Development and Testing Pipelines](https://github.com/Clivern/Peanut)
+  * [Peanut - 개발 & 테스트 자동화를 위해 각종 DB와 서비스를 쉽게 배포하는 도구 | GeekNews](https://news.hada.io/topic?id=4741)
 
 ## TDD, Test, BDD
 * [BDD(Behaviour-Driven Development)에 대한 간략한 정리](http://prostars.net/227)
@@ -3061,6 +3446,10 @@ Programming
 * [WhaTip 시스템 장애 해결을 위한 조언 여섯가지! - YouTube](https://www.youtube.com/watch?v=iVHZTB3H6iU)
 * [WhaTip 시스템 장애 해결 유형 3가지! - YouTube](https://www.youtube.com/watch?v=kaOLDqPF3t0)
 * [WhaTip 모르면 후회하는 시스템 장애 문제 정의 - YouTube](https://www.youtube.com/watch?v=yc-x2jtg-60)
+* [**Uber - 엣지+멀티 클라우드 장애 핸들링 이야기 (Part I)**](https://blog.imqa.io/uber-failover-handling/)
+* [**Uber - 엣지+멀티 클라우드 장애 핸들링 이야기 (Part II)**](https://blog.imqa.io/uber-failover-handling_2/)
+* [The stack overflow of death. How we lost DNS and what we're doing to prevent this in the future. - bunny.net Blog](https://bunny.net/blog/the-stack-overflow-of-death-dns-collapse/)
+* [What You Can Learn from the AWS Tokyo Outage – The New Stack](https://thenewstack.io/what-you-can-learn-from-the-aws-tokyo-outage/)
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
@@ -3081,10 +3470,22 @@ Programming
   * [#3](http://www.bsidesoft.com/?p=3526)
 * [**야생의 유니코드**](http://klutzy.nanabi.org/blog/2014/06/20/unicode/)
 * [번역 Unicode 이모티콘에 얽힌 이것저것 (이모티콘 표준과 프로그래밍 핸들링)](http://pluu.github.io/blog/android/2020/01/11/unicode-emoji/)
+* [한글과 유니코드](https://gist.github.com/Pusnow/aa865fa21f9557fa58d691a8b79f8a6d)
 * [Unicode In Five Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
 * [Windows: 176. Raymond Chen이 한글날에 밝히는 윈도우의 한글 자모 분리 현상](https://www.sysnet.pe.kr/2/0/12369)
 * [Ridiculously fast unicode (UTF-8) validation – Daniel Lemire's blog](https://lemire.me/blog/2020/10/20/ridiculously-fast-unicode-utf-8-validation/)
 * [Unicode sorting is hard & why browsers added special emoji matching to regexp](https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching)
+* convmv
+  * [convert between NFC and NFD Unicode normalization (e.g. for Korean)](https://gist.github.com/kjoonlee/326b8f42e39bcc045e9932fef5511031)
+  * [macOS: convmv 를 사용한 유니코드 문제(풀어쓰기) 해결(?) – 바깥 세상으로](https://www.nemonein.xyz/2019/03/1850/)
+
+# Versioning
+* [다양한 소프트웨어 버전 명명 (Software versioning)](https://blog.sonim1.com/243)
+* [Calendar Versioning — CalVer](https://calver.org/)
+* [Semantic Versioning 2.0.0 | Semantic Versioning](https://semver.org/)
+  * [Spoqa 기술 블로그 | Semantic Versioning 소개](https://spoqa.github.io/2012/12/18/semantic-versioning.html)
+  * [컨벤셔널 커밋을 이용한 CHANGELOG 및 시멘틱 버저닝(Semantic Versioning) 자동화 | 딥백수](https://deepbaksu.github.io/2021/05/29/semantic-release/)
+* [ZeroVer: 0-based Versioning — zer0ver](https://0ver.org/)
 
 # Virtual Machine
 * [Write your Own Virtual Machine](https://justinmeiners.github.io/lc3-vm/)

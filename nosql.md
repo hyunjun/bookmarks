@@ -38,6 +38,9 @@ NoSQL
 * [5 Pitfalls of NoSQL Databases. I recorded a video in which I talk… | by Maciej Szymczyk | Sep, 2020 | ITNEXT](https://itnext.io/5-pitfalls-of-nosql-databases-c35012431a80)
 * [Have the tables turned on NoSQL? - Stack Overflow Blog](https://stackoverflow.blog/2021/01/14/have-the-tables-turned-on-nosql/)
 * [NoSQL Data Modeling Techniques – Highly Scalable Blog](https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/)
+* [Airbridge가 직접 개발한 OLAP DB, Luft를 소개합니다](https://blog.ab180.co/posts/introducing-luft)
+* [How Discord Stores Billions of Messages | by Stanislav Vishnevskiy | Discord Blog](https://blog.discord.com/how-discord-stores-billions-of-messages-7fa6ec7ee4c7)
+* [Xata | Serverless Jamstack Database](https://www.xata.io/) combination of a relational database, an analytics engine, and a free-text search engine
 
 # ArangoDB
 * [Performance comparison between ArangoDB, MongoDB, Neo4j and OrientDB](https://www.arangodb.com/2015/06/performance-comparison-between-arangodb-mongodb-neo4j-and-orientdb/)
@@ -116,6 +119,8 @@ NoSQL
 * [Couchbase Spring data repository 적용기(2)](http://tmondev.blog.me/221022211160)
 * [Couchbase Spring data repository 적용기(3)](http://tmondev.blog.me/221024529817)
 * [Couchbase Details Its Distributed ACID Transaction Architecture](https://www.infoq.com/news/2021/04/couchbase-transactions/)
+* [무신사 서비스에 적합한 NoSQL 도입 여정 — 1편. AWS DocumentDB에서 Couchbase로 마이그레이션 하기 | by MUSINSA tech | MUSINSA tech | Aug, 2021 | Medium](https://medium.com/musinsa-tech/database-6d1052ca6b36)
+* [무신사 서비스에 적합한 NoSQL 도입 여정 — 2편. 최적의 Couchbase 운영 프로세스 수립하기 | by MUSINSA tech | MUSINSA tech | Aug, 2021 | Medium](https://medium.com/musinsa-tech/%EB%AC%B4%EC%8B%A0%EC%82%AC-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90-%EC%A0%81%ED%95%A9%ED%95%9C-nosql-%EB%8F%84%EC%9E%85-%EC%97%AC%EC%A0%95-2%ED%8E%B8-3f2f390ed718)
 
 # CouchDB
 * [Let’s learn Erlang and fix a bug on a CouchDB Cluster #1](http://robert-kowalski.de/blog/lets-learn-erlang-and-fix-a-bug-on-a-couchdb-cluster/)
@@ -126,10 +131,6 @@ NoSQL
 
 # Datomic
 * [Datomic](http://www.datomic.com/)
-
-# EdgeDB
-* [EdgeDB—The next generation database](https://edgedb.com/)
-* [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
 
 # Ehcache: Java's Most Widely-Used Cache
 * [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)
@@ -259,6 +260,8 @@ NoSQL
   * [로그인 구현 5분컷? 파이어베이스 무료 강의! - YouTube](https://www.youtube.com/watch?v=cQimgQdTpeQ)
   * [Firebase Dynamic Link Creation Guide | by Muffaddal Qutbuddin | Firebase Developers](https://medium.com/firebase-developers/firebase-dynamic-links-guide-76552c0f292e)
   * [빌드 타입별로 파이어베이스키 설정하기 | Jungwoon Blog](https://jungwoon.github.io/android/firebase/2021/02/16/BuildType-Firebase.html)
+  * [Firebase로 Google 로그인 구현하기 (Spring + React 예제)](https://velog.io/@couchcoding/Firebase%EB%A1%9C-Google-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Spring-React-%EC%98%88%EC%A0%9C)
+  * [supabase: The open source Firebase alternative. Follow to stay updated about our public Beta](https://github.com/supabase/supabase)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
@@ -284,6 +287,9 @@ NoSQL
 * [HazelCast](http://hazelcast.org/)
 * [Mastering Hazelcast IMDG](https://hazelcast.com/resources/mastering-hazelcast)
 * [Securing Hazelcast (tcp) traffic with Stunnel | by Kamran Zafar | The Startup | Medium](https://medium.com/swlh/securing-hazelcast-tcp-traffic-with-stunnel-ff2b4b93158a)
+
+# IceFireDB
+* [IceFireDB: Distributed disk storage database based on Raft and Redis protocol](https://github.com/gitsrc/IceFireDB)
 
 # In-memory In memory
 * [A K/V Store For In-Memory Analytics: Part 1](http://0xdata.com/blog/2014/02/kv-store-memory-analytics/)
@@ -311,6 +317,8 @@ NoSQL
 * [IndexedDB is an asynchronous, transactional, key-value object store](https://dev.opera.com/articles/introduction-to-indexeddb/)
   * [A quick but complete guide to IndexedDB and storing data in browsers](https://medium.freecodecamp.org/a-quick-but-complete-guide-to-indexeddb-25f030425501)
   * [IndexedDB를 활용한 카트라이더 룰렛으로 성공한 덕후 되기](https://medium.com/@justdummyforall/indexeddb%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%B9%B4%ED%8A%B8%EB%9D%BC%EC%9D%B4%EB%8D%94-%EB%A3%B0%EB%A0%9B%EC%9C%BC%EB%A1%9C-%EC%84%B1%EA%B3%B5%ED%95%9C-%EB%8D%95%ED%9B%84-%EB%90%98%EA%B8%B0-b32cac013f06)
+  * [bxd: 📦 Object relational mapping for IndexedDB](https://github.com/leegeunhyeok/bxd)
+    * [Getting Started | BoxDB](https://bxd.vercel.app/kr/getting-started)
 * [lf - Fully Decentralized Fully Replicated Key/Value Store](https://github.com/zerotier/lf)
 * [MDBM - a super-fast memory-mapped key/value store](https://github.com/yahoo/mdbm)
 * [MICA: A Holistic Approach to Fast In-Memory Key-Value Storage](https://www.cs.cmu.edu/~hl/papers/mica-nsdi2014.pdf)
@@ -353,6 +361,7 @@ NoSQL
   * [ARCUS 응용이 가진 캐시 대상 API 목록의 동적 변경 및 관리 기능 | JaM2in](https://medium.com/jam2in/arcus-cache-target-85419f8ca285)
   * [ARCUS 데이터 영속성 성능 측정. 제2장 지난 블로그 글인 ARCUS에서 데이터 영구 보존을 위한… | by Su Hwan Jang | JaM2in | Apr, 2021 | Medium](https://medium.com/jam2in/arcus-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%98%81%EC%86%8D%EC%84%B1-%EC%84%B1%EB%8A%A5-%EC%B8%A1%EC%A0%95-cf179c840483)
   * [Arcus Single Cache (Dev.)를 소개합니다. ARCUS Single Cache (Dev.) 는 AWS… | by moonseop kim | JaM2in | May, 2021 | Medium](https://medium.com/jam2in/arcus-single-cache-dev-%EB%A5%BC-%EC%86%8C%EA%B0%9C%ED%95%A9%EB%8B%88%EB%8B%A4-38d68e090b54)
+  * [ARCUS에서 지속 가능한 캐싱 적용 방안. 일반 사용자를 대상으로 하는 대규모 응용에서는 데이터(특히, hot… | by moonseop kim | JaM2in | Sep, 2021 | Medium](https://medium.com/jam2in/arcus%EC%97%90%EC%84%9C-%EC%A7%80%EC%86%8D-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%BA%90%EC%8B%B1-%EC%A0%81%EC%9A%A9-%EB%B0%A9%EC%95%88-bd4e27637bea)
   * [hibernate-arcus: Hibernate 2nd cache implementation using Arcus cache](https://github.com/Kims-DeveloperGroup/hibernate-arcus)
     * 네이버에서 개발한 memcached 기반의 '아커스' 를 활용하는 2차 캐쉬 구현체
 * [libmc - Fast and light-weight memcached client for C++/Python https://pypi.python.org/pypi/libmc ](https://github.com/douban/libmc)
@@ -414,6 +423,8 @@ NoSQL
 * [MongoDB Database 와 Collection 그리고 Document CRUD 하기](https://developer88.tistory.com/395)
 * [Mongdb 4.4 Index : 네이버 블로그](https://blog.naver.com/tpgpfkwkem0/222286470701)
 * [MongoDB 이해하기 · Present](https://present.do/decks/60bf90bc1903093a77d1606d)
+* [Mongoose Document 생성과 CRUD 구현 # NodeJS mongoDB](https://developer88.tistory.com/396)
+* [몽고DB에 대한 4가지 오해 | MongoDB](https://www.mongodb.com/blog/post/ko-kr/4-common-misperceptions-about-mongodb)
 * [Jepsen: MongoDB 4.2.6](https://jepsen.io/analyses/mongodb-4.2.6)
 * [mongita: "Mongita is to MongoDB as SQLite is to SQL"](https://github.com/scottrogowski/mongita)
   * [Mongita - 임베드 가능한 MongoDB | GeekNews](https://news.hada.io/topic?id=4137)

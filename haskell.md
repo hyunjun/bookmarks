@@ -37,6 +37,7 @@ Haskell
 * [Haskell programmers are liars](http://www.garrisonjensen.com/2015/05/13/haskell-programs-are-lies.html)
 * [Learning Real Haskell Incrementally](http://begriffs.com/posts/2015-10-24-learning-haskell-incrementally.html)
 * [Gausian distributions form a monoid](https://izbicki.me/blog/gausian-distributions-are-monoids)
+* [하스켈 Ordering 모노이드](https://gist.github.com/nattybear/73125b643e8c3360bdb034ed45fa9b42)
 * [Blazing fast Fibonacci numbers using Monoids](http://www.haskellforall.com/2020/04/blazing-fast-fibonacci-numbers-using.html)
 * [Monoidal Catamorphisms | Bartosz Milewski's Programming Cafe](https://bartoszmilewski.com/2020/06/15/monoidal-catamorphisms/)
 * [하스켈 세미그룹 모노이드 제약](https://gist.github.com/nattybear/57ba14d0ebaf57f8836cea0e2aa6773e)
@@ -144,6 +145,7 @@ Haskell
 * [Right and left folds, primitive recursion patterns in Python and Haskell](https://eli.thegreenplace.net/2017/right-and-left-folds-primitive-recursion-patterns-in-python-and-haskell/)
 * [Learn You a Haskell for Great Good 14장 foldM](https://gist.github.com/nattybear/b7880095df78044b8dfa3d29c0eb9c32)
 * [하스켈 max의 항등원](https://gist.github.com/nattybear/da769062d8de870f4791e74ac1e76538) foldr
+* [Left and Right Folds- Comparison of a mathematical definition and a …](https://www.slideshare.net/pjschwarz/left-and-right-folds-comparison-of-a-mathematical-definition-and-a-programmatic-one-polyglot-fp-for-fun-and-profit-haskell-and-scala)
 * [개미 수열 Haskell 풀이](https://medium.com/@jooyunghan/%EA%B0%9C%EB%AF%B8-%EC%88%98%EC%97%B4-haskell-%ED%92%80%EC%9D%B4-9799a023012)
 * [Learning me a Haskell for my own good](https://medium.com/@mickduprez/learning-me-a-haskell-for-my-own-good-c59eddb7f45a)
 * [5 Years of Haskell in Production](https://www.youtube.com/watch?v=hZgW4mT1PkE)
@@ -250,6 +252,7 @@ Haskell
 * [Deploying your application with NixOS](https://romainviallard.dev/en/blog/deploying-your-app-with-nixos/)
 * [YourFirstGame with Haskell, Godot, and godot-haskell](https://spartanengineer.com/posts/2020-05-24-yourfirstgame-with-haskell-and-godot.html)
 * [Simply typed lambda calculus](https://splintah.gitlab.io/posts/2020-05-24-Simply-typed-lambda.html)
+* [하스켈 람다 대수](https://gist.github.com/nattybear/8c99c68c3acdfa8a952f9b804c810e94) lambda calculus
 * [Subgame perfection made difficult](https://julesh.com/2020/05/26/subgame-perfection-made-difficult/)
 * [Update Everything](https://funwithfunctions.com/posts/2020-05-24-update-everything.html)
 * [Making Music with Haskell From Scratch](https://www.youtube.com/watch?v=FYTZkE5BZ-0)
@@ -294,6 +297,8 @@ Haskell
 * [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 * [Sierpinski Triangle - Polyglot FP for Fun and Profit - Haskell and Sc…](https://www.slideshare.net/pjschwarz/sierpinski-triangle-polyglot-fp-for-fun-and-profit-haskell-and-scala)
 * [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Has…](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-1)
+* [N-Queens Combinatorial Problem - Polyglot FP for Fun and Profit – Has…](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-2)
+* [N-Queens Combinatorial Problem - Polyglot FP for fun and profit - Haskell and Scala - Part 3](https://www.slideshare.net/pjschwarz/nqueens-combinatorial-problem-polyglot-fp-for-fun-and-profit-haskell-and-scala-part-3)
 
 # API
 * [Programming totally with head and tail](https://blog.poisson.chat/posts/2020-04-13-safe-head-tail.html)
@@ -306,6 +311,7 @@ Haskell
 * [하스켈 infix 연산자](https://gist.github.com/nattybear/630fc2a4f419b23ccc297d9eff2b8eba)
 * [하스켈 polymorphism](https://gist.github.com/nattybear/16910b4aca976819a78c80ce2d4ba6ae)
 * [하스켈 타입 변수](https://gist.github.com/nattybear/dfa8cf35854e67038d1487ae36e3f036)
+* [하스켈 타입 만들기](https://gist.github.com/nattybear/0cef0bd7636dbc30c7d5173833dab031)
 * [하스켈 if](https://gist.github.com/nattybear/c6ad0618869bd7521d719f270436bff1)
 * [하스켈 Continuation Passing Style, CPS](https://gist.github.com/nattybear/387d22fc82c7339a29e0c93084fef10e)
 * [하스켈 달러 표시](https://gist.github.com/nattybear/86eb28e25f82affc58f5b8a2f02c6742) 우선순위
@@ -335,11 +341,13 @@ Haskell
 # Book
 * [gumroad.com/discover?query=haskell](https://gumroad.com/discover?query=haskell)
 * [Haskell Snippets - 하스켈 조각 코드 모음집](https://wikidocs.net/book/820)
+* [Game programming in Haskell by Elise Huard Leanpub PDF/iPad/Kindle](https://leanpub.com/gameinhaskell)
 * [learnyouahaskell.com](http://learnyouahaskell.com/)
 * [Happy Learn Haskell Tutorial](http://www.happylearnhaskelltutorial.com/contents.html)
 * [Haskell from the Very Beginning](https://www.haskellfromtheverybeginning.com)
 * [Haskell Programming](http://haskellbook.com/)
 * [Introduction to Haskell | Antoni Diller](http://www.cantab.net/users/antoni.diller/haskell/haskell.html)
+* [Magical Haskell by Anton Antich Leanpub PDF/iPad/Kindle](https://leanpub.com/magicalhaskell)
 * [Real World Haskell by Bryan O'Sullivan, Don Stewart, and John Goerzen](http://book.realworldhaskell.org/)
   * [I'm trying to update the Real World Haskell book](https://github.com/tssm/up-to-date-real-world-haskell)
   * [up-to-date-real-world-haskell: I'm trying to update the Real World Haskell book](https://github.com/tssm/up-to-date-real-world-haskell)
@@ -347,12 +355,13 @@ Haskell
 * [WikibooksHaskell](https://wikidocs.net/book/204)
 
 # Conference
+* [한국 하스켈 학교 제1 회 세미나](https://haskellschoolkr.github.io/seminar/1/)
+* [Haskell conference](https://haskell.love/)
 * [LambdaConf 2015 - How to Learn Haskell in Less Than 5 Years Chris Allen](https://www.youtube.com/watch?v=Bg9ccYzMbxc)
 * [LambdaConf 2015 - Modeling Data in Haskell for Beginners Chris Allen](https://www.youtube.com/watch?v=p-NBJm0kIYU)
 * [LambdaConf 2015 - Developing Web Applications with Haskell Alejandro Serrano Mena](https://www.youtube.com/watch?v=FnaD4xS_hHY)
 * [ZuriHac 2020](https://zfoh.ch/zurihac2020/)
   * [ZuriHac 2020 - YouTube](https://www.youtube.com/playlist?list=PLiU7KJ5_df6aZbNfh_TUJt-6w9N3rYkTX)
-* [한국 하스켈 학교 제1 회 세미나](https://haskellschoolkr.github.io/seminar/1/)
 
 # Library
 * [Haskell with UTF-8](https://serokell.io/blog/haskell-with-utf8)
@@ -514,3 +523,5 @@ Haskell
 * [Learning Haskell: Getting Setup](https://levelup.gitconnected.com/learning-haskell-getting-setup-c1f2cc69d915)
 * [Getting Started with Haskell on Fedora - Fedora Magazine](https://fedoramagazine.org/getting-started-with-haskell-on-fedora/)
 * [FizzBuzz - You Suck at Coding 0 - YouTube](https://www.youtube.com/watch?v=mZWsyUKwTbg)
+* [learn4haskell :: Kowainik](https://kowainik.github.io/projects/learn4haskell)
+  * [learn4haskell: Learn Haskell basics in 4 pull requests](https://github.com/kowainik/learn4haskell)

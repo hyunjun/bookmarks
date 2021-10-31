@@ -44,6 +44,10 @@ Apache
 * [Hello, Apache Airflow](https://jybaek.tistory.com/921)
 * [후기 이미지 자동 검수 모델, 어떻게 서비스할까? | by MUSINSA tech | Medium | MUSINSA tech](https://medium.com/musinsa-tech/imageclassification-d5b06f55b9f5)
 * [airflow 파라미터 튜닝](https://jybaek.tistory.com/923)
+* [나만의 Airflow 클러스터 만들기 (feat. k3d)](https://www.humphreyahn.dev/blog/my-own-airflow-cluster)
+* [Apache Airflow와 Amazon SageMaker Feature Store 연동하기 | by Sungin Lee | Cloud Villains | Sep, 2021 | Medium](https://medium.com/ctc-mzc/apache-airflow%EC%99%80-amazon-sagemaker-feature-store-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0-6fe2b75ea5d4)
+* [Misconfigured, old Airflow instances leak Slack, AWS credentials | ZDNet](https://www.zdnet.com/article/misconfigured-airflow-instances-leak-slack-aws-credentials/)
+* [ETL Pipelines with Airflow: the Good, the Bad and the Ugly | Airbyte](https://airbyte.io/blog/airflow-etl-pipelines)
 
 # Ambari
 * [3 GREAT REASONS TO TRY APACHE HIVE VIEW 2.0](https://hortonworks.com/blog/3-great-reasons-to-try-hive-view-2-0/)
@@ -236,6 +240,7 @@ Apache
   * 모니터링(prometheus) 연결; flink /opt 안에 있는 prometheus jar 파일을 /lib 에 옮기고 flink-confi.yaml 에 metrics 부분 설정해준후에 job/task pod annotation 에 prometheus.io/port 와 prometheus.io/scrape 만 설정하면 prometheus sd가 잘 수집
 * [Berlin 2019](https://berlin-2019.flink-forward.org/conference-program)
 * [europe-2019.flink-forward.org/conference-program](https://europe-2019.flink-forward.org/conference-program)
+* [Flink Forward Global 2021](https://www.flink-forward.org/global-2021)
 * [Apache Flink® SQL Training](https://github.com/ververica/sql-training)
 * [Do Flink on Web with FLOW](https://speakerdeck.com/eastcirclek/do-flink-on-web-with-flow)
 * [0x90e.github.io/tags/Flink](https://0x90e.github.io/tags/Flink/) 사용자 코드가 어떻게 Graph로 만들어지고 JobManager로 submit 되는지 코드 단위로 설명한 포스트라고 하는데 중국어
@@ -262,12 +267,15 @@ Apache
 * [Unified APIs for Batch and Stream Processing on Flink - YouTube](https://www.youtube.com/watch?v=z9ye4jzp4DQ)
 * [2021 Apache Flink Meetup - Hosted by Netflix - YouTube](https://www.youtube.com/watch?v=rtz3p_iijP8)
 * [Flink setup for development (and some IntelliJ Idea cool tricks)](https://www.galiglobal.com/blog/2021/20210130-Flink-setup.html)
-* [Flink Concept - Operator 간 데이터 교환 | DevLog](https://leeyh0216.github.io/2021-03-25/flink_output)
-* [Flink Concept - Checkpointing(1) | DevLog](https://leeyh0216.github.io/2021-03-01/flink_checkpoint_1)
+* [Flink Concept - Operator 간 데이터 교환 | leeyh0216's devlog](https://leeyh0216.github.io/posts/flink_output/)
+* [Flink Concept - Checkpointing(1) | leeyh0216's devlog](https://leeyh0216.github.io/posts/flink_checkpoint_1/)
 * [Flink Concept - pipeline.object_reuse | leeyh0216's devlog](https://leeyh0216.github.io/posts/flink_object_reuse/)
 * [Flink Concept - Flink의 Kafka Consumer 동작 방식(1) | leeyh0216's devlog](https://leeyh0216.github.io/posts/flink_kafka_consumer_works_1/)
 * [글로벌 기업이 더 주목하는 스트림 프로세싱 프레임워크 - 플링크(Flink) 이해하기 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=31721490&memberNo=36733075&navigationType=push)
+* [5 years of Flink at Mux | Mux blog](https://mux.com/blog/5-years-of-flink-at-mux/)
+* [flink-ai-extended](https://github.com/alibaba/flink-ai-extended)
 * [flink_feature_radar.svg at feature_radar · StephanEwen/flink-web](https://github.com/StephanEwen/flink-web/blob/feature_radar/img/flink_feature_radar.svg) flink에서 제거/추가될 기능들
+* [Flink Job Listener: Run a task After Flink Job is Completed | CodersTea](https://www.coderstea.com/post/big-data/flink-job-listener-run-a-task-after-flink-job-is-completed/)
 * HRFS [On-demand low-latency feature generation at Hyperconnect - YouTube](https://www.youtube.com/watch?v=jujAAaMQdF4)
 
 # Flume
@@ -340,6 +348,7 @@ Apache
 # Kafka
 * [Kafka](http://kafka.apache.org/)
 * [kafka-tutorials.confluent.io](https://kafka-tutorials.confluent.io/)
+* [Confluent Developer: Your Apache Kafka® Journey begins here](https://developer.confluent.io/)
 * [Docker Quick Start](https://docs.confluent.io/current/installation/docker/docs/quickstart.html)
 * [practice - Kafka on Python](https://hyunjun.github.io/kafka-on-python/)
   * [Kafka Python and Google Analytics](http://www.admintome.com/blog/kafka-python-and-google-analytics/)
@@ -417,6 +426,7 @@ Apache
   * [Topic Replication](http://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-topic-replication/)
   * [Replication Factor 변경](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-replication-factor-%EB%B3%80%EA%B2%BD/)
   * [카프카 매니저 소개](https://www.popit.kr/kafka-%EC%9A%B4%EC%98%81%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%EC%B9%B4%ED%94%84%EC%B9%B4-%EB%A7%A4%EB%8B%88%EC%A0%80-%EC%86%8C%EA%B0%9C/)
+* [Kafka Summit Americas 2021 Recap | Confluent](https://www.confluent.io/blog/kafka-summit-americas-2021-recap/)
 * [Kafka Summit New York](https://kafka-summit.org/kafka-summit-ny/schedule/)
 * [Kafka Summit New York 2019 Session Videos](https://www.confluent.io/blog/kafka-summit-new-york-2019-session-videos)
 * [Kafka Summit San Francisco](https://www.confluent.io/resources/kafka-summit-san-francisco-2019/)
@@ -438,12 +448,13 @@ Apache
   * [Apache Kafka, ZooKeeper 의존성을 제거 | GeekNews](https://news.hada.io/topic?id=2100)
 * [Kafka Without ZooKeeper: A Sneak Peek At the Simplest Kafka Yet](https://www.confluent.io/blog/kafka-without-zookeeper-a-sneak-peek/)
   * [Kafka Without ZooKeeper 첫 배포 | GeekNews](https://news.hada.io/topic?id=3990)
+* [Kafka Needs no Keeper - Confluent](https://www.confluent.io/kafka-summit-san-francisco-2019/kafka-needs-no-keeper/)
+  * [kafka/config/kraft at trunk · apache/kafka](https://github.com/apache/kafka/tree/trunk/config/kraft)
 * [Kafka 보안 (1) - JAAS 및 SASL](https://springboot.cloud/31)
 * [Kafka 보안 (2) - SASL/PLAIN](https://springboot.cloud/32)
 * [**Apache Kafka지도 시간**](http://www.w3ii.com/ko/apache_kafka/default.html)
 * [Exactly-once Support in Apache Kafka](https://medium.com/@jaykreps/exactly-once-support-in-apache-kafka-55e1fdd0a35f)
 * [Exactly-once Semantics are Possible: Here’s How Kafka Does it](https://www.confluent.io/blog/exactly-once-semantics-are-possible-heres-how-apache-kafka-does-it/)
-* [카프카 스트림즈 All stream threads have died. 오류 해결 방안](https://voidmainvoid.tistory.com/437)
 * [kafka exactly-once delivery를 지원하기 위한 transaction](https://blog.voidmainvoid.net/354)
 * [Upgrading Apache Kafka Clients Just Got Easier](https://www.confluent.io/blog/upgrading-apache-kafka-clients-just-got-easier/)
   * 최신 버전에 Kafka 클라이언트의 순방향/역방향 호환성 추가
@@ -524,6 +535,7 @@ Apache
       * 1. 데이터 축소 : 필드명을 보내지 않아도 됨 >> 데이터 : 매직바이트 + schemaID + value
       * 2. producing 되는 데이터의 스키마가 변경되면 schema registry에 등록이나 수정만 하면되니 consumer는 수정하지 않아도 될 가능성이 높음
     * json 처럼 schema가 free 한 경우 잦은 schema의 변경으로 producing 되는경우 consumer는 수정이 불가피 하며 스키마의 대한 정보를 놓치기 쉽고 이력도 알수 없음
+* [(Kafka) 객체를 JSON 타입으로 넘겨보자 :: 당근케잌](https://yeon-kr.tistory.com/181)
 * [Securing the Confluent Schema Registry for Apache Kafka](https://www.confluent.io/blog/securing-confluent-schema-registry-apache-kafka/)
 * [Kafka 스키마 관리, Schema Registry](https://dol9.tistory.com/274)
     * 하지만 avro 를 사용하면 변경된 스키마를 가진 데이터의 무분별한 producing을 막을수 있음
@@ -543,6 +555,7 @@ Apache
 * How to Lose Messages on a Kafka Cluster
   * [Part 1](https://jack-vanlightly.com/blog/2018/9/14/how-to-lose-messages-on-a-kafka-cluster-part1)
   * [Part 2](https://jack-vanlightly.com/blog/2018/9/18/how-to-lose-messages-on-a-kafka-cluster-part-2)
+* [Kafka 클러스터 메세지 발행 및 문제 해결 :: 당근케잌](https://yeon-kr.tistory.com/186)
 * [Kafka Using Java. Part 1](https://medium.com/pharos-production/kafka-using-java-e10bfeec8638)
 * [Kafka Using Java. Part 2](https://medium.com/pharos-production/kafka-using-java-part-2-83fd604ed627)
 * [**blog.voidmainvoid.net/category/.../Kafka**](https://blog.voidmainvoid.net/category/%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0/Kafka)
@@ -626,6 +639,11 @@ Apache
 * [Cannot get state store TOPIC because the stream thread is STARTING, not RUNNING 에러 해결](https://voidmainvoid.tistory.com/443) ktable
 * [A gentle introduction to Apache Kafka](https://www.gentlydownthe.stream/)
 * [Event Driven Architecture using Kafka | LinkedIn](https://www.linkedin.com/pulse/event-driven-architecture-using-kafka-kunal-mohanta/)
+* [Kafka in the Wild • Laura Schornack & Maureen Penzenik • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=iMx8otu3rFg) Domain Driven Design for Realtime, Ubiquitous, Distributed Data
+* [How Agoda manages 1.5 Trillion Events per day on Kafka | by Shaun Sit | Agoda Engineering & Design | Jul, 2021 | Medium](https://medium.com/agoda-engineering/how-agoda-manages-1-5-trillion-events-per-day-on-kafka-f0a27fc32ecb)
+* [Kafka 는 왜 빠를까? - 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=3372)
+* [Kafka 클러스터 구성 및 장애 해결 :: 당근케잌](https://yeon-kr.tistory.com/183)
+* [Integrate Apache Kafka and SAP with the Kafka Connect ODP Source Connector](https://www.confluent.io/blog/kafka-sap-integration-with-kafka-connect-odp-source-connector/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
@@ -640,8 +658,11 @@ Apache
 * [Conduktor - the ultimate Apache Kafka Desktop Client](https://www.conduktor.io)
 * [Cruise-control - the first of its kind to fully automate the dynamic workload rebalance and self-healing of a kafka cluster. It provides great value to Kafka users by simplifying the operation of Kafka clusters](https://github.com/linkedin/cruise-control)
 * [Flafka: Apache Flume Meets Apache Kafka for Event Processing](http://blog.cloudera.com/blog/2014/11/flafka-apache-flume-meets-apache-kafka-for-event-processing/)
+* [Greyhound - Rich Kafka client library](https://github.com/wix/greyhound)
+  * [Kafka Cron using wix/greyhound. I think one of the best ways to learn… | by Algimantas Krasauskas | Wix Engineering | Dec, 2020 | Medium](https://medium.com/wix-engineering/kafka-cron-using-wix-greyhound-64c7b99a1c3e)
 * hive
   * [Kafka Storage Handler Module](https://github.com/apache/hive/tree/master/kafka-handler)
+* [kafka-docker: Dockerfile for Apache Kafka](https://github.com/vcho1958/kafka-docker)
 * [Kafka Manager - A tool for managing Apache Kafka](https://github.com/yahoo/kafka-manager)
   * [hub.docker.com/r/sheepkiller/kafka-manager](https://hub.docker.com/r/sheepkiller/kafka-manager/)
   * [Kafka Manager Consumer Lag Exporter](https://github.com/thinker0/kafka-manager-consumer-lag-exporter)
@@ -663,11 +684,11 @@ Apache
 * [Trifecta - a web-based and Command Line Interface (CLI) tool that enables users to quickly and easily inspect, verify and even query Kafka messages](https://github.com/ldaniels528/trifecta)
 * [trivup - Trivially Up a cluster of applications](https://github.com/edenhill/trivup)
   * 프로그래밍 방식으로 카프카 클러스터를 구축하고 해체하는 도구. 클라이언트 응용 프로그램에 대한 Kafka의 SSL 인증 및 암호화 지원
-* [wix/greyhound: Greyhound - Rich Kafka client library](https://github.com/wix/greyhound)
-  * [Kafka Cron using wix/greyhound. I think one of the best ways to learn… | by Algimantas Krasauskas | Wix Engineering | Dec, 2020 | Medium](https://medium.com/wix-engineering/kafka-cron-using-wix-greyhound-64c7b99a1c3e)
+* uGroup [Introducing uGroup: Uber’s Consumer Management Framework](https://eng.uber.com/introducing-ugroup-ubers-consumer-management-framework/)
 * [zoe: The missing companion for Kafka](https://github.com/adevinta/zoe)
 
 ## Kafka Stream
+* [카프카 스트림즈 All stream threads have died. 오류 해결 방안](https://voidmainvoid.tistory.com/437)
 * [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)
 * [REACTIVE STREAMS FOR APACHE KAFKA](https://softwaremill.com/reactive-kafka/)
 * [This is a Kafka-Storm-Esper example on vagrant](https://github.com/doohee323/tzstorm)
@@ -752,12 +773,15 @@ Apache
 * [Batch to Real-Time Streams: 8 Years of Event Streaming with Apache Kafka](https://www.confluent.io/blog/batch-to-streams-8-years-of-event-streaming-with-apache-kafka/)
 * [카프카 스트림즈 Exactly-once 설정하는 방법과 내부 동작](https://voidmainvoid.tistory.com/438)
 * [카프카 스트림즈! 대용량, 폭발적인 성능의 실시간 데이터 처리! - YouTube](https://www.youtube.com/watch?v=vKxhPUUEDmM)
+* [카프카 스트림즈에서 stateful window 처리를 다루는 방법 그리고 커밋타이밍](https://voidmainvoid.tistory.com/452)
+* [Kafka Streams 101 - Rock the JVM Blog](https://blog.rockthejvm.com/kafka-streams/)
 * [brooklin - An extensible distributed system for reliable nearline data streaming at scale](https://github.com/linkedin/Brooklin/)
   * [Open Sourcing Brooklin: Near Real-Time Data Streaming at Scale](https://engineering.linkedin.com/blog/2019/brooklin-open-source)
   * Kafka Connect + MirrorMaker의 대안으로 개발된 범용 Framework. Scalable할 뿐만 아니라 Kafka 외에도 다양한 Storage / Streaming System 지원
   * 자체적인 Cluster를 설정해야 하며, 2019.07에 공개되어 자료 전무
   * monitoring 방법은 MirrorMaker 1/2와 마찬가지로 내부적으로 kafka producer를 사용해 해당 process에 jmx로 접속해 producer sender metrics를 확인
 * [Debezium - Stream changes from your database](https://debezium.io)
+  * [debezium: Change data capture for a variety of databases. Please log issues at https://issues.redhat.com/browse/DBZ. ](https://github.com/debezium/debezium)
   * [How Debezium & Kafka Streams Can Help You Write CDC Solution](https://iamninad.com/how-debezium-kafka-stream-can-help-you-write-cdc/) Debezium과 Kafka를 사용하여 MySQL과 MongoDB에서 쓰여진 데이터를 캡처하는 플랫폼을 설정하는 방법
   * [DevNation Live: Kafka and Debezium](https://www.slideshare.net/RedHatDevelopers/devnation-live-kafka-and-debezium)
   * [Change Data Streaming Patterns for Microservices with Debezium](https://developers.redhat.com/videos/youtube/QYbXDp4Vu-8)
@@ -1006,6 +1030,7 @@ Apache
 * [Pulsar vs. Kafka — Part 1 — A More Accurate Perspective on Performance, Architecture, and Features](https://streamnative.io/blog/tech/pulsar-vs-kafka-part-1)
 * [Event-driven railway network based on Pulsar - I'm Pavels, welcome!](https://scala.monster/train-station/) scala
 * [Scale By The Bay 2020: Keynote: Karthik Ramasy, Apache Pulsar @ Splunk - YouTube](https://www.youtube.com/watch?v=rmiQb4wsCTI)
+* [Event Streaming with Apache Pulsar and Scala - Rock the JVM Blog](https://blog.rockthejvm.com/event-streaming-with-pulsar-and-scala/)
 
 # Ranger
 * [Ranger](http://ranger.apache.org)
@@ -1119,6 +1144,7 @@ Apache
   * Apache ZooKeeper의 네 글자 단어 지원(4lw)에 대한 간략한 내용
   * 이러한 관리 명령의 경우 정상적인 ZK 포트를 통한 연결과 같이 좋은 보안 솔루션이 없음
   * 다른 방법으로, ZooKeeper는 JMX를 지원하고 3.5.x 릴리스에서는 별도의 포트에 AdminServer를 제공
+* [Zookeeper 클러스터 및 컨트롤러 선출 :: 당근케잌](https://yeon-kr.tistory.com/184)
 * [consul.io](https://www.consul.io/)
   * [HashiCorp사의 Consul, Consul Template 소개](https://medium.com/giljae/hashicorp%EC%82%AC%EC%9D%98-consul-consul-template-%EC%86%8C%EA%B0%9C-cc0837533fbc)
   * [Real-time Service Configuration으로 Consul을 신주소 서비스에 적용한 사례](http://woowabros.github.io/tools/2018/10/08/location-service-with-rcs.html)

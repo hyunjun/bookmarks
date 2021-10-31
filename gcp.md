@@ -50,6 +50,11 @@ Google Cloud Platform GCP
 * [AnoIn-BigQuery - Tutoial of getting image url using BigQuery Google BigQuery에 데이터셋을 적재하고 이용하는 튜토리얼](https://github.com/llable/AnoIn-BigQuery)
 * [타다 (TADA) 서비스의 데이터 웨어하우스 : 태초부터 현재까지](https://speakerdeck.com/vcnc/tada-tada-seobiseuyi-deiteo-weeohauseu-taecobuteo-hyeonjaeggaji) 여러가지 과정을 거쳐 BigQuery로 이전
 * [<구글 빅쿼리 완벽 가이드> 도서 증정 이벤트](https://jhrogue.blogspot.com/2020/11/blog-post_25.html)
+* [구글 빅쿼리(BigQuery) 시작하기 및 datagrip 연동 안내](https://stricky.tistory.com/494)
+* [구글 빅쿼리(BigQuery) CSV 데이터 import 하는 방법](https://stricky.tistory.com/497)
+* [특정 Label 별로 Billing 대시보드를 만드는 방법 1편 - 리소스에 Label 만들기 - Life on Cloud](https://lifeoncloud.kr/gcp/gcp-docs/billing-dashboard-group-by-label-1/)
+* [특정 Label 별로 Billing 대시보드를 만드는 방법 2편 - Billing 정보를 BigQuery로 내보내기 - Life on Cloud](https://lifeoncloud.kr/gcp/gcp-docs/billing-dashboard-group-by-label-2/)
+* [특정 Label 별로 Billing 대시보드를 만드는 방법 3편 - 데이터 스튜디오를 사용하여 대시보드 구성하기 - Life on Cloud](https://lifeoncloud.kr/gcp/gcp-docs/billing-dashboard-group-by-label-3/)
 * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11)
 * [How to create and connect to Google Cloud Virtual Machine with SSH](https://medium.freecodecamp.org/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd)
 * [AI 스피커 만들기 ( #1 )](http://jybaek.tistory.com/766)
@@ -116,6 +121,14 @@ Google Cloud Platform GCP
   * [버텍스 AI로 무장한 새로운 구글 머신러닝 클라우드](https://brunch.co.kr/@synabreu/140)
   * [I/O Extended with doubleS - Vertex AI (박찬성) - YouTube](https://www.youtube.com/watch?v=JNkMvoAi3fk)
   * [구글 머신러닝 클라우드, ‘버텍스 AI’로 무장하다 | 슬로우뉴스](https://slownews.kr/81261)
+  * [Google I/O 2021 Extended Bacolod (Vertex AI) - Google Slides](https://docs.google.com/presentation/d/14WBBu65QuoLW_0wLJ0ymuzLUfAD9dwd7bb8kf1-5ztc/)
+    * [I/O Extended Bacolod 2021 - YouTube](https://www.youtube.com/watch?v=CymqhbZga-o&t=3674s)
+    * 신생아 시절의 사진을 라벨링, AutoML로 얼굴의 위치를 Object Detection 하는 파이프라인 구축, 파이프라인을 통해 학습 완료시, 자동으로 GCP 에 배포
+    * MLOps 영역; 파이프라인에 AutoML 통합, 새로 학습된 모델로 무중단 배포, 추가 학습용 데이터를 주입하면 전체 파이프라인 자동 실행
+  * [Adapting to changes of data by building MLOps pipeline in Vertex AI | by Park Chansung | Aug, 2021 | Towards Data Science](https://towardsdatascience.com/adapting-to-changes-of-data-by-building-mlops-pipeline-in-vertex-ai-3f8ebd19a869)
+  * [조대협의 블로그 :: Vertex.AI로 파이프라인과 metadata 구현하기](https://bcho.tistory.com/1382)
+  * [조대협의 블로그 :: 구글 클라우드 Vertex.AI Model 학습 및 모델 배포&서빙](https://bcho.tistory.com/1383)
+  * [조대협의 블로그 :: Vertex AI : 모델 학습 및 하이퍼 패러미터 튜닝](https://bcho.tistory.com/1384)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)

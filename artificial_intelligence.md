@@ -29,6 +29,7 @@ Artificial Intelligence
 * [Ultimate AI battle - Apple vs. Google](http://simplystatistics.org/2016/06/14/ultimate-ai-battle/)
 * [horae.tistory.com/category/A.I인공지능](http://horae.tistory.com/category/%EC%9C%A0%EB%A7%9D%20%EA%B8%B0%EC%88%A0/A.I%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5)
 * [Explainable Artificial Intelligence (XAI)](http://www.darpa.mil/program/explainable-artificial-intelligence)
+* ['사람이 이해할 수 있는 AI' 설명가능한 AI를 설명하다 - ITWorld Korea](https://www.itworld.co.kr/news/210149) XAI
 * [인공지능의 오해와 진실…기초·응용분야 집중해야](http://www.itnews.or.kr/?p=18306)
 * [Artificial Intelligence and Java](https://www.youtube.com/watch?v=vZfUdSA64Nk)
 * [Prof. Fei Fei Li - The Future of AI](https://www.youtube.com/watch?v=lNBX13mrJzc)
@@ -113,11 +114,21 @@ Artificial Intelligence
 * [2020AIChallenge_Solution: 2020년 nipa에서 개최한 AI 챌린지 수상 코드를 올려놓은 레포(상금 1.6억원)](https://github.com/SongGeunil1/2020AIChallenge_Solution)
 * [차세대 인공지능 - 제1편](https://brunch.co.kr/@synabreu/100) unsupervised, federated, transformer
 * [차세대 인공지능 - 제2편](https://brunch.co.kr/@synabreu/101)
+* [**인공지능의 미래**](https://maily.so/kyeom.ai/posts/9a3151) transformer
 * [AI 프로젝트 실패의 5가지 원인. By 송호연 | by Riiid Techblog | Nov, 2020 | Medium](https://riiidtechblog.medium.com/ai-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EB%A5%BC-%EC%8B%A4%ED%8C%A8%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-5%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0-8e7813cf0a95)
 * [NIPA 2020 인공지능 문제해결 경진대회, 4관왕 달성 후기](https://eda-ai-lab.tistory.com/542)
 * [인공지능(AI) 아나운서 개발기 – AI PLUS Tech Blog](https://blog.est.ai/2020/12/ai-anchor/)
 * [The Map of Artificial Intelligence (2020) | in AI Territory | The Startup](https://medium.com/swlh/the-map-of-artificial-intelligence-2020-2c4f446f4e43)
 * [Microsoft Special Edition](https://tykimos.github.io/2021/02/13/Microsoft_Special_Edition/)
+* [서비스 향 AI 모델 개발하기 (1) - 학습 데이터셋 준비](https://www.upstage.ai/post/%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%96%A5-ai-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0)
+* [서비스 향 AI 모델 개발하기 (2) - 모델 테스트 & 모델 요구사항](https://www.upstage.ai/post/%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%96%A5-ai-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-2)
+* [서비스 향 AI 모델 개발하기 (3)](https://www.upstage.ai/post/%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%96%A5-ai-%EB%AA%A8%EB%8D%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-3)
+* ["AI는 만능 아냐···범위와 업무요건 명확히 해야" - ZDNet korea](https://zdnet.co.kr/view/?no=20210822105201)
+* [2021 오라일리 설문조사 : 기업들의 AI 도입 현황은? - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS1330594913)
+* [AI 제품 관리자에게 필요한 실무 기술 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS5471353752)
+* [State of AI Report 2021](https://www.stateof.ai/)
+  * [State of AI 2021 보고서 구글 Slide, 188P | GeekNews](https://news.hada.io/topic?id=5224)
+* [Software 2.0. I sometimes see people refer to neural… | by Andrej Karpathy | Medium](https://karpathy.medium.com/software-2-0-a64152b37c35)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
@@ -140,6 +151,9 @@ Artificial Intelligence
 * [모두를 위한 AI | Coursera](https://www.coursera.org/learn/ai-for-everyone)
   * [꿀벌개발일지 :: AI For Everyone 노트](https://ohgyun.com/792)
 * [Learn AI for Free](https://blog.goodaudience.com/learn-ai-for-free-5b186cde3990)
+* [서울대학교의 모두를 위한 AI 강연](https://tv.naver.com/aiis)
+* [모두를 위한 AI 강연(feat. 네이버) - YouTube](https://www.youtube.com/playlist?list=PLSY68sWRmr-O7G5X7mtjbb0e8N6DZammw)
+* [AI는 내친구 #25 KMOOC 비전공자를 위한 딥러닝 강의 예고 | KAIST AI STUDIO - YouTube](https://www.youtube.com/watch?v=8AYcP4y2GQc)
 * [alina.ai/courses/practical_dl_for_coders](http://alina.ai/courses/practical_dl_for_coders/) 코더들을 위한 실전 딥러닝 강의
 * [Artificial Intelligence Lecture Series](https://www.youtube.com/playlist?list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee)
 * [blog.alina.ai/courses/ai-pm](http://blog.alina.ai/courses/ai-pm/)
@@ -147,6 +161,7 @@ Artificial Intelligence
 * [CS 188 | Introduction to Artificial Intelligence Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/)
 * [CS221: Artificial Intelligence: Principles and Techniques](http://web.stanford.edu/class/cs221)
   * [Artificial Intelligence cheatsheets for Stanford's CS 221](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
+* [matrix.skku.ac.kr/2020-Math4AI-Final-pbl2/](http://matrix.skku.ac.kr/2020-Math4AI-Final-pbl2/)
 * [theschool.ai/courses/data-lit](https://www.theschool.ai/courses/data-lit/) Siraj Raval
 * [UNIST - YouTube](https://www.youtube.com/user/unistmedia)
 

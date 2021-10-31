@@ -56,6 +56,7 @@ Statistics
 * [Understanding the t-distribution and its normal approximation](http://rpsychologist.com/d3/tdist/)
 * [Statistics for Hackers by Jake VanderPlas](https://speakerdeck.com/jakevdp/statistics-for-hackers)
 * [Frequentism and Bayesianism: A Python-driven Primer](http://arxiv.org/abs/1411.5018)
+* [베이지언 러닝 15 - 빈도주의와 베이지언 차이점 이해하기 - YouTube](https://www.youtube.com/watch?v=MPHMJRhRWq4)
 * [Probability, Mathematical Statistics, Stochastic Processes](http://www.math.uah.edu/stat/)
 * [A Simple Introduction to Complex Stochastic Processes](https://www.datasciencecentral.com/profiles/blogs/a-simple-introduction-to-complex-stochastic-processes)
 * [Probabilistic algorithms for fun and pseudorandom profit](http://www.slideshare.net/TylerTreat/probabilistic-algorithms-for-fun-and-pseudorandom-profit)
@@ -166,6 +167,7 @@ Statistics
 * [CHOOSING THE CORRECT STATISTICAL TEST IN SAS, STATA, SPSS AND R](https://stats.idre.ucla.edu/other/mult-pkg/whatstat/)
 * [확률변수 함수의 분포를 알아보자 - Delta method에 대하여 (1)](http://issactoast.com/133)
 * [확률변수와 패러미터 ( feat. 베르누이) #10통계 - YouTube](https://www.youtube.com/watch?v=FmIc5LZ7BII)
+* [😱 예비수학 교사도 모르고 있는 확률변수! 🤔 `P([X=1])`의 의미를 찾아서..](https://velog.io/@hsh/%EC%98%88%EB%B9%84%EC%88%98%ED%95%99-%EA%B5%90%EC%82%AC%EB%8F%84-%EB%AA%A8%EB%A5%B4%EA%B3%A0-%EC%9E%88%EB%8A%94-%ED%99%95%EB%A5%A0%EB%B3%80%EC%88%98-PX1%EC%9D%98-%EC%9D%98%EB%AF%B8%EB%A5%BC-%EC%B0%BE%EC%95%84%EC%84%9C)
 * [Propensity Score Matching (PSM) 기법 요약](http://blog.naver.com/hancury/221091701744)
 * [모수적 방법과 비모수적 방법](http://dermabae.tistory.com/147)
 * [Statistical Rethinking - Lecture 01](https://speakerdeck.com/rmcelreath/statistical-rethinking-lecture-01)
@@ -192,6 +194,10 @@ Statistics
 * [아빠가 들려주는 예측모형](https://www.youtube.com/playlist?list=PLQrL7n-YSrfc2psUlBzyhs1ulzcE-7YPO)
 * [Dongjin | Basic Statistics(1)](https://dongqui.github.io//posts/basic-statistics)
 * [Dongjin | Basic Statistics(2)](https://dongqui.github.io//posts/basic-statistics2)
+* ["표본은 적어도 30개"는 어쩌다 국룰이 되었는가](https://data101.oopy.io/big-enough-sample-30)
+* [비슷한 듯 다른 모집단과 표본공간! 차이가 뭘까?🧐 [모집단 vs 표본공간] (Feat. CLT)](https://velog.io/@hsh/%EB%B9%84%EC%8A%B7%ED%95%9C-%EB%93%AF-%EB%8B%A4%EB%A5%B8-%EB%AA%A8%EC%A7%91%EB%8B%A8%EA%B3%BC-%ED%91%9C%EB%B3%B8%EA%B3%B5%EA%B0%84-%EC%B0%A8%EC%9D%B4%EA%B0%80-%EB%AD%98%EA%B9%8C-%EB%AA%A8%EC%A7%91%EB%8B%A8-vs-%ED%91%9C%EB%B3%B8%EA%B3%B5%EA%B0%84-Feat.-CLT)
+* [코호트란 무엇인가?](https://brunch.co.kr/@graypool/146)
+* [How percentile approximation works (and why it's more useful than averages)](https://blog.timescale.com/blog/how-percentile-approximation-works-and-why-its-more-useful-than-averages/)
 
 # Bayes
 * [쉽게 이해하는 베이즈 정리](http://blog.naver.com/anthouse28/221077405435)
@@ -323,6 +329,7 @@ Statistics
 * [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/) python + statistics, free download
 * [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI/)
   * [Python code for Computer Age Statistical Inference by Bradley Efron and Trevor Hastie](https://github.com/jrfiedler/CASI_Python)
+* [Practical Statistics for Data Scientists - Chapter 1 - Exploratory Data Analysis - YouTube](https://www.youtube.com/watch?v=wwsizzg6UjU)
 * [project mosaic book](http://project-mosaic-books.com/) Computer-savvy textbooks on statistics and data science
 
 # Course MOOC Lecture
@@ -346,9 +353,11 @@ Statistics
 * [Understanding Waiting Times Between Events with the Poisson and Exponential Distributions](http://nbviewer.ipython.org/github/nicolewhite/notebooks/blob/master/Poisson.ipynb)
 * [Predicting the Frequency of Asteroid Impacts with a Poisson Processes](https://towardsdatascience.com/predicting-the-frequency-of-asteroid-impacts-with-a-poisson-processes-98d483efa61d)
 * [푸아송 분포의 아이디어와 유도 과정에 대한 구체적인 원리](https://injae-kim.github.io/dev/2020/07/17/easy-to-understand-poisson-distribution.html)
+* [Poisson's Equation is the Most Powerful Tool not yet in your Toolbox](https://mattferraro.dev/posts/poissons-equation)
 
 # Probability
 * [Probability Cheatsheet](http://www.wzchen.com/probability-cheatsheet)
+* [Probability Cheat Sheet - Harvard University - Data Science Central](https://www.datasciencecentral.com/profiles/blogs/probability-cheat-sheet)
 * [Foundations of probability theory](https://terrytao.wordpress.com/2015/09/29/275a-notes-0-foundations-of-probability-theory/)
 * [Heuristic models for marginal probability assessment updates](http://xheimlichkeit.com/methods/2015/10/12/how-to-update-probabilities.html)
 * [Probability concepts explained: Marginalisation](https://towardsdatascience.com/probability-concepts-explained-marginalisation-2296846344fc)
@@ -409,6 +418,7 @@ Statistics
   * [Hands On Bayesian Statistics with Python, PyMC3 & ArviZ](https://towardsdatascience.com/hands-on-bayesian-statistics-with-python-pymc3-arviz-499db9a59501)
   * [Supercharging Decision Making with Bayes - YouTube](https://www.youtube.com/watch?v=pJH_2y9J9-I)
   * [Practicing Python With CSV Files and Extracting Values With "filter" | Real Python Podcast #66 - YouTube](https://www.youtube.com/watch?v=_FTO0DEayaw)
+  * [BAYESIAN A/B TESTING WITH EXPECTED LOSS](https://lumiamitie.github.io/data/bayesian-ab-testing/)
 * [Statistics Using Python Tutorial](https://www.youtube.com/playlist?list=PLlz0muypSBNZXEDDy7RftBdIJNHEN0t1a)
   * [Part 4](https://www.youtube.com/watch?v=6ZA5lvooc5I)
   * [Part 5](https://www.youtube.com/watch?v=CISnF83dGTc)

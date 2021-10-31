@@ -190,7 +190,6 @@ Interview
 * [Interview Sandbox](https://interviewsandbox.com/)
   * [What if you could draw your thoughts in technical interviews?](https://medium.com/hackernoon/what-if-you-could-draw-your-thoughts-in-technical-interviews-47e1ff87bf33)
 * [제품을 파는 엔지니어가 되어보니](https://brunch.co.kr/@imagineer/328) solution engineer
-* [23 Alternative Career Paths that Software Developers Can Grow Into](https://www.freecodecamp.org/news/alternative-career-paths/)
 * [(45) AMZ | Google | Facebook | Offer | Reject| Reject | My journey from failure to offer at FAANG - LeetCode Discuss](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang)
 * [What I Learned from Doing 60+ Technical Interviews in 30 Days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
 * [코딩 인터뷰 완전정복 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLHqxB9kMLLaNZQjNtY9JoCCBbZwOKdyEH)
@@ -209,6 +208,15 @@ Interview
 * [데이터 엔지니어 두 번째 취준 회고록 — 그랩의 블로그](https://tansfil.tistory.com/66)
 * [what-happens-when: An attempt to answer the age old interview question "What happens when you type google.com into your browser and press enter?"](https://github.com/alex/what-happens-when)
 * [Staff engineer interview 경험](https://www.facebook.com/groups/helpdev/permalink/4088725231186787/)
+* [시리즈 | 개발자 취업 가이드 - ding_coding_co](https://velog.io/@academey/series/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B7%A8%EC%97%85%EA%B0%80%EC%9D%B4%EB%93%9C)
+* [<한국의 고도 성장기 종말>과 <IT 기술 변화>가 낳은 '문송'](https://soprize.so/answer/392)
+* [이직에 실패한 5가지 케이스](https://brunch.co.kr/@mobiinside/3388)
+* [서로 성장하는 기술 면접 만들기](https://hiddenest.dev/good-tech-interview)
+  * [0. 우리는 왜 채용을 하는가?](https://hiddenest.dev/good-tech-interview-0)
+  * [1. 무엇을 어떻게 확인할 것인가?](https://hiddenest.dev/good-tech-interview-1)
+  * [2. 면접 구체화하기: 질문과 코딩 테스트](https://hiddenest.dev/good-tech-interview-2)
+  * [3. Extramile: 코딩 테스트에 담은 생각](https://hiddenest.dev/good-tech-interview-3)
+  * [4. 면접이 끝나고 난 뒤](https://hiddenest.dev/good-tech-interview-4)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
@@ -257,6 +265,7 @@ Interview
 * [아마존 인터뷰 후기 (Seattle SDE)](http://shadeofmeaning.blogspot.com/2019/04/seattle-sde.html)
 * [An Amazon Programmer's Perspective](https://gist.github.com/bricker/cb811b3b86d767124801)
 * [How To Stop Being Afraid of Technical Interviews | by Joey Colon | Better Programming | Medium](https://medium.com/better-programming/how-to-stop-being-afraid-of-technical-interviews-b60b064ff003)
+* [글로벌 칼럼 | 직장으로서의 AWS에 대해 잘 알려지지 않은 것 - ITWorld Korea](https://www.itworld.co.kr/news/206629)
 
 # Architecture, System Design
 * [hiredintech.com/classrooms/system-design](https://www.hiredintech.com/classrooms/system-design)
@@ -268,6 +277,7 @@ Interview
 * [coding-interview-university#system-design-scalability-data-handling](https://github.com/jwasham/coding-interview-university#system-design-scalability-data-handling) 기초부터 각 부분별 다양한 links
 * [Grokking the System Design Interview](https://www.educative.io/collection/5668639101419520/5649050225344512) 유료 course
 * [Systems Design Fundamentals The foundational knowledge you need to ace the systems design interviews](https://www.algoexpert.io/systems/fundamentals) 유료 course. algoexpert sub
+* [Preparing for the System Design Interviews V2 - End to End | Udemy](https://www.udemy.com/course/preparing-for-system-design-interviews/) 유료 course
 * [How to Succeed in a System Design Interview](https://blog.pramp.com/how-to-succeed-in-a-system-design-interview-27b35de0df26) 기본적인 approach와 자료 links
 * [The Patterns Behind Scalable, Reliable, and Performant Large-Scale Systems](https://github.com/binhnguyennus/awesome-scalability)
 * [The Patterns of Scalable, Reliable, and Performant Large-Scale Systems http://awesome-scalability.com ](https://github.com/binhnguyennus/awesome-scalability)
@@ -279,6 +289,7 @@ Interview
 * [Systems Design Interview Concepts (for software engineers / full-stack web)](https://www.youtube.com/watch?v=REB_eGHK_P4)
 * [System Design Interview Prep | Twitter](https://www.youtube.com/watch?v=LghAWi4H974)
 * [Google Systems Design Interview With An Ex-Googler](https://www.youtube.com/watch?v=q0KGYwNbf-0)
+* [Systems Design Study Plan - Google Docs](https://docs.google.com/document/d/1rkocmMNpQarD07jn6LTJaRoGvyKQpUSF7_Lbn_9ngSk/edit)
 * Introduction
   * [**CS75 (Summer 2012) Lecture 9 Scalability Harvard Web Development David Malan**](https://www.youtube.com/watch?v=-W9F__D3oY4) 이 분야의 고전같이 여겨지는 강의
   * [**System Design Introduction For Interview**](https://www.youtube.com/watch?v=UzLMhqg3_Wc) 기본적으로 지켜야 할 부분 안내
@@ -314,6 +325,7 @@ Interview
   * Autocomplete or Typeahead
     * [System design : Design Autocomplete or Typeahead Suggestions for Google search](https://www.youtube.com/watch?v=us0qySiUsGU)
     * [Amazon interview question: System design / Architecture for auto suggestions | type ahead](https://www.youtube.com/watch?v=xrYTjaK5QVM)
+    * [System Design Analysis of Google Auto-Suggestion Service | by Ashis Chakraborty | codeburst](https://codeburst.io/system-design-analysis-for-auto-suggestion-service-d28bf1701658)
   * Distributed storage
     * [System Design : Distributed Database System Key Value Store](https://www.youtube.com/watch?v=rnZmdmlR-2M)
     * [What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY)
@@ -323,6 +335,7 @@ Interview
     * [Learn System design : How distributed datastore works(basics)?](https://www.youtube.com/watch?v=ZbyYvTfBlE0)
     * [Implement An LRU Cache - The LRU Cache Eviction Policy ("LRU Cache" on LeetCode)](https://www.youtube.com/watch?v=S6IfqDXWa10)
       * [LRUCache.java](https://github.com/bephrem1/backtobackswe/blob/master/Linked%20Lists/LRUCache.java)
+    * [6 Distributed storage & computing systems interview Q&As | Java-Success.com](https://www.java-success.com/1-overview-distributed-systems/)
   * Dropbox
     * [blogs.dropbox.com/tech/category/infrastructure](https://blogs.dropbox.com/tech/category/infrastructure)
     * [How We've Scaled Dropbox](https://www.youtube.com/watch?v=PE4gwstWhmc)
@@ -663,6 +676,7 @@ Interview
 * [30 seconds of interviews](https://30secondsofinterviews.org/)
 * [CSPA COMPUTER SCIENCE PROFICIENCY ASSESSMENT](https://cspa.io)
 * [Data Interview Qs](https://www.interviewqs.com)
+* [Interview_Question_for_Beginner: Technical-Interview guidelines written for those who started studying programming. I wish you all the best](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 
 # Job Search
 * [경력별 취업 전략](http://siliconbeachstory.com/career-strategies-by-experience/)
@@ -731,11 +745,13 @@ Interview
 * [신입 소프트웨어 엔지니어의 영문 이력서 작성하기](https://sujinlee.me/entry-level-en-resume/)
 * [인터뷰 면접관이 좋아하는 이력서 쓰기 - YouTube](https://www.youtube.com/watch?v=JM-Tz6dGH1U)
 * [개발자 이력서 작성하기 (feat. 이력서 공개)](https://brunch.co.kr/@hee072794/132)
+* [신입 개발자를 위한 이력서 추천 양식 – Place Of 42Seoul Story](https://42place.innovationacademy.kr/archives/9113)
 * [경력자의 지원동기 쓰는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220418)
 * [잘 정리된 이력서보다 중요한 것 - 이상한모임](https://blog.weirdx.io/post/63289)
 * [잘 정리된 이력서보다 중요한 것 – by minieetea](https://minieetea.com/2021/04/archives/6193)
 * [개발자가 회사에 지원할 때 점검해야 할 것 5가지](https://www.notion.so/5-29e9d83ea9ac4da491d8a3e95938d276)
 * [면접을 부르는 '개발자 이력서’ 쓰기 - 인프런 출시 소식](https://jhrogue.blogspot.com/2021/03/blog-post_22.html)
+* [자소서에 절대 쓰지 말아야 하는 다섯 가지 표현 | ㅍㅍㅅㅅ](https://ppss.kr/archives/243171)
 * [Writing a Resume for a Data Science Career](https://towardsdatascience.com/writing-a-resume-for-a-data-science-career-62b9acd11692)
 * [www.careercup.com/resume](https://www.careercup.com/resume)
 * [Get a better job: Power Verbs for Resume Writing](https://www.youtube.com/watch?v=SVAIXGhwYt8)
@@ -754,9 +770,13 @@ Interview
 * [Resume Assistant - Mircrosoft Linkedin](https://blog.linkedin.com/2017/november/8/Creating-your-resume-just-got-a-whole-lot-easier-with-Microsoft-and-LinkedIn)
 * [How to Write a Résumé That Stands Out](https://hbr.org/2014/12/how-to-write-a-resume-that-stands-out)
 * [노션으로 “나다운” 이력서 만들기.pdf | ㅍㅍㅅㅅ](https://ppss.kr/archives/243020)
+* [제 54차 Kodeveloper 고군분투기 - YouTube](https://www.youtube.com/watch?v=-q0Go_8fdvo&t=652s)
+  * [Fullstack 개발자의 서비스 개발 고군분투기 | PDF](https://www.scribd.com/document/534181309/%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8D%E1%85%A1-%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1-%E1%84%80%E1%85%A9%E1%84%80%E1%85%AE%E1%86%AB%E1%84%87%E1%85%AE%E1%86%AB%E1%84%90%E1%85%AE%E1%84%80%E1%85%B5-%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD)
+* [getting-a-gig: Guide for getting a gig as a tech student](https://github.com/cassidoo/getting-a-gig)
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
 * [cakeresume.com/v2](https://www.cakeresume.com/v2)
 * [ddongule-simple-portfolio: Portfolio for Developers! Make your own portfolio Simple and Fast!](https://github.com/ddongule/ddongule-simple-portfolio)
+* [Dopefolio - 개발자를 위한 포트폴리오 템플릿 오픈소스 | GeekNews](https://news.hada.io/topic?id=5024)
 * [itresumeservice.com](http://www.itresumeservice.com/)
 * [latexresu.me](https://latexresu.me/)
 * [latex_resume_template_kor](https://github.com/changh95/latex_resume_template_kor)
@@ -770,6 +790,7 @@ Interview
 # Salary 연봉
 * [연봉협상시 기억할 15가지 규칙](http://ppss.kr/archives/57332)
 * [앞자리가 달라지는 이직 연봉 협상 전략 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241446)
+* [연봉 협상에 실패하는 이유는 ‘이것’ 때문이다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/244823)
 * [영어면접 질문: What's Your Current Salary? — 업플라이 #Upfly](https://www.upfly.me/blog/how-to-negotiate-salary/)
 * [외국계 연봉협상 기본급 이외에 협상할 수 있는 것들](https://www.youtube.com/watch?v=xiYOJ-tHe8s)
 * [Do Not Disclose Your Salary to Recruiters](http://jacquesmattheij.com/do-not-disclose-your-salary-to-recruiters)
@@ -791,6 +812,7 @@ Interview
 * [Leaked Salary Spreadsheet Reveals Microsoft Employee Earnings for a Second Year | by Dave Gershgorn | Sep, 2020 | OneZero](https://onezero.medium.com/leaked-salary-spreadsheet-reveals-microsoft-employee-earnings-for-a-second-year-d1466132d309)
 * [개발자 연봉이 올랐어요! – Dreaming for the Future](http://www.chidoo.me/index.php/2021/05/07/2021-developer-salary-shock/)
 * [연봉을 올리기 위한 5가지 준비물 | ㅍㅍㅅㅅ](https://ppss.kr/archives/195592)
+* [이직할 때 카운터 오퍼를 받아들이면 안되는 이유들 | 경력직은 잡인덱스](https://www.jobindexworld.com/contents/view/3461)
 * [levels.fyi](https://www.levels.fyi/) 미국 회사 직급별 연봉
 * [paysa.com - Make the most out of your job Paysa is your free personal career advisor](https://www.paysa.com/)
 * [perks.guide](http://perks.guide/) 회사 복지 비교

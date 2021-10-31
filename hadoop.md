@@ -121,6 +121,9 @@ Hadoop
 * [NVIDIA Volta GPU Architecture](https://www.youtube.com/watch?v=-8BwJRxgWWg)
 * [Hadoop&Echosystem 빠르게 훑기 with 핸즈온 (2편) : IBM 클라우더스 오픈 토크 - YouTube](https://www.youtube.com/watch?v=_bl5pTjVwsg)
 * [Hadoop Real World Project For your Resume - YouTube](https://www.youtube.com/watch?v=kzUlsj3O6rg)
+* [Sensex Log Data Processing (PDF File Processing in Map Reduce) Part 1 - Projects Based Learning](https://projectsbasedlearning.com/bigdata-hadoop/sensex-log-data-processing-pdf-file-processing-in-map-reduce-part-1/)
+* [Sensex Log Data Processing (PDF File Processing in Map Reduce) Part 2 - Projects Based Learning](https://projectsbasedlearning.com/bigdata-hadoop/sensex-log-data-processing-pdf-file-processing-in-map-reduce-part-2/)
+* [LinkedIn Open Sources Tech Behind 10,000-Node Hadoop Cluster](https://www.datanami.com/2021/09/13/linkedin-open-sources-tech-behind-10000-node-hadoop-cluster/)
 
 # Book
 * [빅데이터 - 하둡, 하이브로 시작하기](https://wikidocs.net/book/2203)

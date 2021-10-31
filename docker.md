@@ -10,12 +10,15 @@ Docker
 * [Docker, 그것은 무엇이고, 설치는 어떻게 할까?](http://blog.neonkid.xyz/85)
 * [hello](https://www.youtube.com/watch?v=ExJXmMO5uvg)
 * [생활코딩 docker](https://www.youtube.com/watch?v=Bhzz9E3xuXY)
+* [생활코딩 Docker 입구 수업 - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMDeMJsGq2O-55Ymtx0IdKWf)
+* [생활코딩 Docker 입구 수업 - 생활코딩](https://opentutorials.org/course/4781)
 * [Hello World Docker](https://uni2u.tistory.com/109)
 * **초보를 위한 도커 안내서**
   * [도커란 무엇인가?](https://subicura.com/2017/01/19/docker-guide-for-beginners-1.html)
   * [설치하고 컨테이너 실행하기](https://subicura.com/2017/01/19/docker-guide-for-beginners-2.html)
   * [이미지 만들고 배포하기](https://subicura.com/2017/02/10/docker-guide-for-beginners-create-image-and-deploy.html)
 * [시작하는 이들을 위한 컨테이너, VM, 그리고 도커에 대한 이야기](https://medium.com/@jwyeom63/%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9D%B4%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-vm-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EB%8F%84%EC%BB%A4%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0-3a04c000cb5c)
+* [도커는 무엇으로 어떻게 구성되어 있을까?. 많은 문서가 도커, 컨테이너를 설명 할 때 VM 과 비교를 하면서… | by KC | Aug, 2021 | Medium](https://medium.com/@cloudacode/%EB%8F%84%EC%BB%A4%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9C%BC%EB%A1%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%EC%84%B1%EB%90%98%EC%96%B4-%EC%9E%88%EC%9D%84%EA%B9%8C-1b2a52ca8d1c)
 * [**도커 컨테이너는 가상머신인가요? 프로세스인가요?**](https://www.44bits.io/ko/post/is-docker-container-a-virtual-machine-or-a-process)
 * [**도커(Docker) 입문편 컨테이너 기초부터 서버 배포까지**](https://www.44bits.io/ko/post/easy-deploy-with-docker)
 * [도커(Docker) 시작하기](http://kwangshin.pe.kr/blog/2018/04/14/docker-intro/)
@@ -35,6 +38,11 @@ Docker
   * [도커 시작하기 11 : 도커 스웜 - 네트워크](https://javacan.tistory.com/entry/docker-start-11-swarm-network)
 * [Docker가 뭐고 왜 쓰는건가요?](https://www.youtube.com/watch?v=tPjpcsgxgWc)
 * [4분코딩 왜 도커(Docker)를 사용해야 할까요? - YouTube](https://www.youtube.com/watch?v=3FcFL2C3ME8)
+* [Infra 도커(docker)(0) 도커의 개념, 컨테이너? - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker00/)
+* [Infra 도커(docker)(1) 설치, hello world - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker01/)
+* [Infra 도커(docker)(2) 컨테이너 조작 기초(pull, run, ps) - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker02/)
+* [Infra 도커(docker)(3) 이미지 변경 후 저장(commit) - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker03/)
+* [Infra 도커(docker)(4) 컨테이너 <-> 호스트 파일 전송 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker04/)
 * [무료 DevOps 강의 Docker - YouTube](https://www.youtube.com/playlist?list=PLmEhRs1HB7RFFeGYI3JksmZd1MPHR2HwG)
 * [A comprehensive introduction to Docker, Virtual Machines, and Containers](https://medium.freecodecamp.org/comprehensive-introductory-guide-to-docker-vms-and-containers-4e42a13ee103)
 * [1. Introduction to Docker](https://minkukjo.tistory.com/7)
@@ -47,6 +55,7 @@ Docker
 * [Exploring Docker: A Hands-On Guide for Absolute Beginners](https://morioh.com/p/db0120b2e184)
 * [Docker Tutorial for Beginners - Fundamentals Of Dockerfile](https://morioh.com/p/5fe4189b9ead)
 * [Docker Tutorial for Beginners Full Course in 3 Hours - YouTube](https://www.youtube.com/watch?v=3c-iBn73dDE)
+* [Beginner's Series to: Dev Containers - YouTube](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5G_X6ZyMc8gfXPMFPg3O31)
 * [docker tutorial.md at master · pandora0667/TILD](https://github.com/pandora0667/TILD/blob/master/Docker/docker%20tutorial.md)
 * [The Docker Handbook – 2021 Edition](https://www.freecodecamp.org/news/the-docker-handbook/)
 * [가장 쉽게 배우는 도커 - YouTube](https://www.youtube.com/watch?v=hWPv9LMlme8)
@@ -56,6 +65,7 @@ Docker
 * [Docker: Installation and Test Drive Utuntu 위에 Docker 설치하고 맛보기](http://www.sauru.so/blog/docker-installation-and-test-drive/)
 * [Docker: 나의 첫 Docker Image Build and Push my own Docker Image](http://www.sauru.so/blog/build-my-first-docker-image/)
 * [Docker image](https://trylhc.tistory.com/entry/Docker-image)
+* [How to create a production Docker image - DEV Community](https://dev.to/abdorah/how-to-create-production-docker-image-ready-for-deployment-4bbe)
 * [What is a Docker container vs. an image?](https://searchitoperations.techtarget.com/answer/What-is-a-Docker-container-vs-an-image)
 * [도커 Docker 기초 확실히 다지기](https://futurecreator.github.io/2018/11/16/docker-container-basics)
 * [Docker에 대해서 정리해 봅니다](https://developer88.tistory.com/293)
@@ -64,6 +74,7 @@ Docker
 * [Docker](https://www.youtube.com/playlist?list=PLVx1qovxj-amqyqHceAhkcsopzi4PFcKc)
 * [**왜 굳이 도커(컨테이너)를 써야 하나요? 눈송이 서버의 한계를 넘어 컨테이너를 사용해야 하는 이유**](https://www.44bits.io/ko/post/why-should-i-use-docker-container)
 * [**리눅스 컨테이너란?**](https://www.44bits.io/ko/keyword/linux-container)
+* [4 Linux technologies fundamental to containers | Opensource.com](https://opensource.com/article/21/8/container-linux-technology)
 * [stdout_013.log: 도커를 굳이 왜 사용해야하나요?](https://stdout.fm/13/)
 * [Docker in 100 Seconds](https://morioh.com/p/91121416b5d4)
 * [Docker 정리 #1 (개념 및 간단한 명령어 정리)](https://jungwoon.github.io/docker/2019/01/11/Docker-1/)
@@ -91,10 +102,10 @@ Docker
 * [Docker and Btrfs in practice](https://docs.docker.com/engine/userguide/storagedriver/btrfs-driver/)
 * [Docker Best Practices](https://medium.com/rainist-engineering/docker-best-practices-8b4f28ab3a65)
 * [도커 베스트 프랙티스 (번역)](https://changhoi.github.io/posts/docker/Docker-best-practices/)
+* [Docker Best Practices for Python Developers | TestDriven.io](https://testdriven.io/blog/docker-best-practices/)
 * ['쓸만한' Docker Image 만들기 - Part 1 Build an Usable Docker Image with Alpine Linux](http://www.sauru.so/blog/build-usable-docker-image-part1/)
 * [효율적인 도커 이미지 만들기 #1 - 작은 도커 이미지](https://bcho.tistory.com/1356)
 * [효율적인 도커 이미지 만들기 #2 - 도커 레이어 캐슁을 통한 빌드/배포 속도 높이기](https://bcho.tistory.com/1357)
-* [Speed up Docker build time with cache warming | Blog by Gaspare Vitta](https://www.gasparevitta.com/posts/docker-warm-up-cache-from-image-buildkit/)
 * [**도커 이미지 잘 만드는 방법**](https://jonnung.dev/docker/2020/04/08/optimizing-docker-images/)
 * [도커빌드 시간을 1/3로 줄여보았다. Part (1/2) | by Harim kim | 스마트스터디 기술 블로그 | Mar, 2021 | Medium](https://medium.com/smartstudy-tech/%EB%8F%84%EC%BB%A4%EB%B9%8C%EB%93%9C-%EC%8B%9C%EA%B0%84%EC%9D%84-1-3%EB%A1%9C-%EC%A4%84%EC%97%AC%EB%B3%B4%EC%95%98%EB%8B%A4-part-1-411840808f20)
 * [도커빌드 시간을 1/3로 줄여보았다. Part (2/2). 이번 글은 도커빌드 시간을 1/3로 줄여보았다 Part 1에서 이어지는… | by Harim kim | 스마트스터디 기술 블로그 | Mar, 2021 | Medium](https://medium.com/smartstudy-tech/%EB%8F%84%EC%BB%A4%EB%B9%8C%EB%93%9C-%EC%8B%9C%EA%B0%84%EC%9D%84-1-3%EB%A1%9C-%EC%A4%84%EC%97%AC%EB%B3%B4%EC%95%98%EB%8B%A4-part-2-ca72749abdb8)
@@ -177,7 +188,6 @@ Docker
     * [ELK 사용해서 flask 로그 분석하기](https://woolbro.tistory.com/88)
   * [httpd](https://hub.docker.com/_/httpd/)
   * java
-    * [Jib 1.0.0 is GA—building Java Docker images has never been easier](https://cloud.google.com/blog/products/application-development/jib-1-0-0-is-ga-building-java-docker-images-has-never-been-easier)
     * [Creating Docker images with Spring Boot 2.3.0.M1](https://spring.io/blog/2020/01/27/creating-docker-images-with-spring-boot-2-3-0-m1)
     * [SPRING 스프링부트로 도커 이미지 만들기](https://gracelove91.tistory.com/97)
     * [Create Docker Image without Dockerfile in Spring Boot](https://morioh.com/p/56262a739ff3)
@@ -280,6 +290,8 @@ Docker
     * [Ubuntu 16.04 Docker 설치](http://uni2u.tistory.com/92)
     * [깡통 우분투를 도커로 올려보자](https://jybaek.tistory.com/829)
   * [DIT4C image for Apache Zeppelin](https://hub.docker.com/r/dit4c/dit4c-container-zeppelin/)
+  * [Build statically linked Graal-VM native-image using Make and Docker. Go through all TODO-steps!](https://gist.github.com/johanthoren/74529bcbc94779757de8d12acd5022ab)
+  * [distroless: 🥑 Language focused docker images, minus the operating system](https://github.com/GoogleContainerTools/distroless)
 * [Docker로 파이썬 배포 운영하기](http://greatkim91.tistory.com/194)
 * [파이썬 Docker 이미지 관리하기](http://greatkim91.tistory.com/195)
 * [도커를 이용한 파이썬 모듈 배포하기 - 서준석](https://www.youtube.com/watch?v=RRT58hbDXNs)
@@ -463,7 +475,6 @@ Docker
 * [Docker 기반 분산 트랜스코더 개발](https://d2.naver.com/helloworld/3661677)
 * [Architecting Containers Part 1: Why Understanding User Space vs. Kernel Space Matters](https://www.redhat.com/en/blog/architecting-containers-part-1-why-understanding-user-space-vs-kernel-space-matters)
 * [도커와 컨테이너의 이런저런 역사 이야기](https://prudentcircle.gitlab.io/posts/20190827_docker_history/)
-* [**Docker Container 내부 소켓 상태 확인 - nsenter와 netstat**](https://aidanbae.github.io/code/docker/docker-netstat/)
 * [클라우드 파운드리의 진화](https://slownews.kr/74385)
 * [How containers work: overlayfs](https://jvns.ca/blog/2019/11/18/how-containers-work--overlayfs/)
 * [만들면서 이해하는 도커(Docker) 이미지의 구조 - 도커 이미지 빌드 원리와 Overlayfs](https://www.44bits.io/ko/post/how-docker-image-work)
@@ -481,6 +492,7 @@ Docker
 * [Experimenting with Rootless Docker | by Tõnis Tiigi | Medium](https://medium.com/@tonistiigi/experimenting-with-rootless-docker-416c9ad8c0d6)
 * [Gluster FS 설치 및 셋팅 방법](https://judo0179.tistory.com/78)
 * [흔들리는 도커(Docker)의 위상: OCI와 CRI 중심으로 재편되는 컨테이너 생태계](https://www.samsungsds.com/global/ko/support/insights/docker.html)
+* [What Is a Standard Container (2021 edition) - Ivan Velichko](https://iximiuz.com/en/posts/oci-containers/) OCI
 * [Docker: You Are Doing it Wrong. Become a Docker power user with VS Code… | by Dimitris Poulopoulos | Towards Data Science](https://towardsdatascience.com/docker-you-are-doing-it-wrong-e703075dd67b)
 * [Container Camp - YouTube](https://www.youtube.com/c/ContainerCamp)
 * [Cloud Native is about Culture, Not Containers](https://www.infoq.com/presentations/cloud-native-culture/)
@@ -505,6 +517,15 @@ Docker
   * git에서 브랜치를 오가면서 환경을 관리할 필요 없이 동시에 여러 환경을 띄우고 각 환경의 코드도 접속 가능
   * 이 환경은 .docker 폴더 아래 Docker Compose를 이용해서 개발에 필요한 환경을 구성해서 사용 가능
   * 환경이 코드에 있으므로 다른 개발자와도 공유해서 관리 가능
+* ["컨테이너 혁명을 주도하는" 도커의 의미와 장단점 - ITWorld Korea](https://www.itworld.co.kr/news/203644)
+* [도커 데스크톱, 대기업 사용자에게는 유료화된다 - CIO Korea](https://www.ciokorea.com/t/537/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98/206529)
+* [DinD(docker in docker)와 DooD(docker out of docker) | 아이단은 어디갔을까](https://aidanbae.github.io/code/docker/dinddood/)
+* [코딩스타트 :: Jenkins - Jenkins dood(docker out of docker)로 실행시켜 agent docker 사용하기](https://coding-start.tistory.com/329)
+* [Docker Out of Docker (DooD) - 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=3382)
+* [Containers Don't Solve Everything](https://blog.deref.io/containers-dont-solve-everything/)
+* [VMware Tanzu Community Edition Released - ServeTheHome](https://www.servethehome.com/vmware-tanzu-community-edition-released/)
+* [DC/OS 아키텍처에 관한 분석 MESOS와 MARATHON](https://ykarma1996.tistory.com/178)
+* [**도커 컨테이너에서 멀티 프로세싱을 하면? — 그랩의 블로그**](https://tansfil.tistory.com/69)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -537,11 +558,14 @@ Docker
     * 무조건 설정하자. 그렇지 않으면 해당 directory의 모든 파일을 일단 다 검색하고, 추가하려고 시도한 다음 필요없으면 버리기 때문에
     * 시간/공간 절약을 위해서는 무조건 사용하는 게 이득
     * 해당 directory에 큰 용량의 log나 data file이 있는 경우 build도 실패할 뿐더러, disk usage가 100%를 찍을 수도 있음
+  * [Faster Maven builds in Docker](https://blog.frankel.ch/faster-maven-builds/2/)
 * buildx
   * [Using multi-arch Docker images to support apps on any architecture](https://mirailabs.io/blog/multiarch-docker-with-buildx/)
   * [Preparation toward running Docker on ARM Mac: Building multi-arch images with Docker BuildX | by Akihiro Suda | nttlabs | Medium](https://medium.com/nttlabs/buildx-multiarch-2c6c2df00ca2)
   * [Docker buildx를 활용하여 Multi-Architecture 이미지 빌드](https://judo0179.tistory.com/99)
   * [Building Multi-Architecture Docker Images With Buildx | by Artur Klauser | Medium](https://medium.com/@artur.klauser/building-multi-architecture-docker-images-with-buildx-27d80f7e2408)
+  * [Docker builx - multi architecture | nalbam’s blog](https://nalbam.github.io/2021/09/03/docker-builx.html)
+* commit [도커 : 이미지 만드는 법 - commit - YouTube](https://www.youtube.com/watch?v=RMNOQXs-f68)
 * cp `sudo docker cp [host path] [container id]:[container path]` [Copying files from host to docker container](http://stackoverflow.com/questions/22907231/copying-files-from-host-to-docker-container)
 * exec
 
@@ -554,9 +578,15 @@ Docker
 * images `sudo docker images`
 * inspect `sudo docker inspect [container id] | grep IPAddress...`
 * kill `sudo docker kill [container id]`
+* load & save
+  * [도커(Docker) 이미지를 파일로 저장 및 불러오기](https://twpower.github.io/183-how-to-save-or-load-docker-image-file)
 * logs
   * `docker logs -f [container id]`
   * [docker 컨테이너 log 남기기](https://hoony-gunputer.tistory.com/entry/docker-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-log-%EB%82%A8%EA%B8%B0%EA%B8%B0)
+* nsenter
+  * [**Docker Container 내부 소켓 상태 확인 - nsenter와 netstat**](https://aidanbae.github.io/code/docker/docker-netstat/)
+  * [docker nsenter - 쩨로그](https://jaeho.tistory.com/22)
+  * [Yeah. Get a root shell at any Kubernetes *node* via `privileged: true` + `nsenter` sauce. PodSecurityPolicy will save us. DenyExecOnPrivileged didn't (kubectl-root-in-host-nopriv.sh exploits it)](https://gist.github.com/jjo/a8243c677f7e79f2f1d610f02365fdd7)
 * ps `sudo docker ps [-a]`
 * registry
 
@@ -598,16 +628,19 @@ Docker
     * [**Docker and OOM(Out Of Memory) Killer**](https://blog.2dal.com/2017/03/27/docker-and-oom-killer/)
   * `-p hostPort:containerPort` [Expose vs publish: Docker port commands explained simply](https://medium.freecodecamp.org/expose-vs-publish-docker-port-commands-explained-simply-434593dbc9a3)
   * `--security-opt seccomp=unconfined` [**Faster Python in Docker. Get maximum performance from your… | by Rupert Thomas | Better Programming | Medium**](https://medium.com/better-programming/faster-python-in-docker-d1a71a9b9917)
+  * `--sysctl` [Tuning network sysctls in Docker and Kubernetes | by Jens Erat | Daimler TSS Tech | Medium](https://medium.com/daimler-tss-tech/tuning-network-sysctls-in-docker-and-kubernetes-766e05da4ff2)
   * `-u uid:gid` docker container의 user를 다른 user로 remapping e.g. continaer안의 user:root -> host machine host_user:host_user로 변경
   * `-v /etc/localtime:/etc/localtime:ro` [How to make sure docker's time syncs with that of the host?](http://stackoverflow.com/questions/24551592/how-to-make-sure-dockers-time-syncs-with-that-of-the-host)
   * [practice](https://gist.github.com/hyunjun/c4ce053c28bd5df8b890aeae19af4270#file-run-md)
   * [practice of `--env-file=... --rm -v <local dir>:<container dir> -p <host port>:<container port>`](https://github.com/hyunjun/practice/commit/44863bda89d8e306e0b60974d089a8da26000c41)
   * [A Brief Primer on Docker Networking Rules: EXPOSE, -p, -P, --link](https://www.ctl.io/developers/blog/post/docker-networking-rules/)
   * [맥에서 도커 네트워크 포트 여는 방법](http://bcho.tistory.com/1251)
+  * [**network bridge mode : 네이버블로그**](https://blog.naver.com/pjt3591oo/222436182026)
   * [Start containers automatically](https://docs.docker.com/engine/admin/start-containers-automatically/)
   * pipe-like, stdin, stdout; 몇 가지 테스트해봤으나 잘 안됨
     * [Attach stdout of one container to stdin of another (pipe-like)](https://github.com/moby/moby/issues/14221)
   * [docker run 과 docker 네트워크 설정, 컨테이너 라이프사이클](http://www.leafcats.com/191)
+  * [What Are Docker Labels and When Should You Use Them? – CloudSavvy IT](https://www.cloudsavvyit.com/14348/what-are-docker-labels-and-when-should-you-use-them/)
 * scan [How to use Docker Security Scan Locally](https://brianchristner.io/how-to-use-docker-scan/)
 * stop `sudo docker stop [container id]`
 * [system prune](https://docs.docker.com/engine/reference/commandline/system_prune/)
@@ -633,8 +666,14 @@ Docker
 * [Docker Compose 로 Full Stack JS 개발환경 구축하기 - YouTube](https://www.youtube.com/watch?v=0GmqiNKJ1tw)
 * [Docker Compose와 버전별 특징 : NHN Cloud Meetup](https://meetup.toast.com/posts/277/)
 * [1. Docker Compose로 Nodejs 개발/배포환경 구성하기 - Dockerfile로 구성하기](https://jojoldu.tistory.com/584)
+* [2. Docker Compose로 Nodejs 개발/배포환경 구성하기 - Docker Compose로 개선하기](https://jojoldu.tistory.com/587)
+* [docker-compose clean restart 하기](https://jojoldu.tistory.com/604)
+* [Docker compose 를 이용해서 복잡한 도커 컨테이너를 제어하기 - YouTube](https://www.youtube.com/watch?v=EK6iYRCIjYs)
 * [dcw - Docker Compose Wrapper to simplify everyday dev work with containers](https://github.com/rezzza/dcw)
+* [Harbormaster · A docker-compose manager](https://gitlab.com/stavros/harbormaster)
 * [kompose - a tool to help users familiar with docker-compose move to Kubernete](http://kompose.io/)
+* [kool.dev](https://kool.dev/)
+  * [Kool - 더 나은 로컬 개발 환경 | GeekNews](https://news.hada.io/topic?id=4616)
 * [Lorry - a docker-compose.yml validator and composer](https://lorry.io/)
 
 # CI Continuous Integration
@@ -647,6 +686,7 @@ Docker
 * [Launch a Private Cloud in Minutes The simplicity of Heroku. The power of AWS](https://convox.com/)
 
 # Dockerfile
+* [도커 : 이미지 만드는 법 - Dockerfile & build - YouTube](https://www.youtube.com/watch?v=0kQC19w0gTI)
 * [Gotchas in Writing Dockerfile](http://kimh.github.io/blog/en/docker/gotchas-in-writing-dockerfile-en/)
 * [How to Optimize Your Dockerfile](https://blog.tutum.co/2014/10/22/how-to-optimize-your-dockerfile/)
 * [Docker ENTRYPOINT & CMD: Dockerfile best practices](https://medium.freecodecamp.org/docker-entrypoint-cmd-dockerfile-best-practices-abc591c30e21)
@@ -670,7 +710,6 @@ Docker
 * [Dockerfile Tutorial with Example | Creating your First Dockerfile | Docker Training | Edureka](https://www.youtube.com/watch?v=2lU9zdrs9bM)
 * [Spacewalk latest Docker image 제작기](https://tech.osci.kr/spacewalk/2019/01/07/55869620/)
 * [Intro Guide to Dockerfile Best Practices](https://blog.docker.com/2019/07/intro-guide-to-dockerfile-best-practices/)
-* [Advanced Dockerfiles: Faster Builds and Smaller Images Using BuildKit and Multistage Builds - Docker Blog](https://www.docker.com/blog/advanced-dockerfiles-faster-builds-and-smaller-images-using-buildkit-and-multistage-builds/)
 * [Dockerfile의 모든 것 | Gracefullight](https://gracefullight.dev/2020/01/13/Dockerfile%EC%9D%98-%EB%AA%A8%EB%93%A0-%EA%B2%83/)
 * [도커 이미지 빌드와 Dockerfile 기초 | 44BITS](https://www.44bits.io/ko/post/building-docker-image-basic-commit-diff-and-dockerfile)
 * [Buildpacks vs Dockerfiles](https://technology.doximity.com/articles/buildpacks-vs-dockerfiles)
@@ -679,6 +718,8 @@ Docker
 * [Docker/Container Tutorial: Write your first Dockerfile - YouTube](https://www.youtube.com/watch?v=V7eSfIxSEEE)
 * [Creating the Perfect Python Dockerfile | by Luis Sena | May, 2021 | Medium](https://luis-sena.medium.com/creating-the-perfect-python-dockerfile-51bdec41f1c8)
 * [Docker For .NET Developers - .NET Guide](https://www.jetbrains.com/dotnet/guide/tutorials/docker-dotnet/)
+* [Dockerfile 이미지 만들기, 쉘 스크립트 사용시 주의사항](https://blog.naver.com/pjt3591oo/222444809844)
+* [Top 20 Dockerfile best practices for security | Sysdig](https://sysdig.com/blog/dockerfile-best-practices/)
 
 # gvisor
 * [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
@@ -693,8 +734,10 @@ Docker
 * [Kubernetes](http://kubernetes.io)
 * [쿠버네티스 문서](https://kubernetes.io/ko/docs/home/)
 * [튜토리얼](https://kubernetes.io/ko/docs/tutorials/)
+* [쿠버네티스 시작하기 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=65765967)
 * [Kubernetes in 5 mins](https://www.youtube.com/watch?v=PH-2FfFD2PU)
 * [Kubernetes in 9 minutes!](https://www.youtube.com/watch?v=QJ4fODH6DXI)
+* [Getting Started With Kubernetes In 2 Days - DZone Cloud](https://dzone.com/articles/getting-started-with-kubernetes-in-2-days)
 * [Kubernetes Intro](https://blog.2dal.com/2018/02/28/kubernetes-intro/)
 * [드디어! "쿠버네티스(Kubernetes)" .. : 네이버블로그](https://blog.naver.com/ehunterkang/222261251200)
 * [쿠버네티스가 대세가 된 이유 3가지!](https://www.youtube.com/watch?v=S3FVcdZcZnA)
@@ -705,16 +748,26 @@ Docker
   * [03 – Kubernetes Cluster on AWS with kops](https://blog.2dal.com/2019/04/24/kubernetes-03-kubernetes-cluster-on-aws-with-kops)
 * [Kubernetes 101: Pods, Nodes, Containers, and Clusters](https://medium.com/google-cloud/kubernetes-101-pods-nodes-containers-and-clusters-c1509e409e16)
 * [Kubernetes 101 - Concepts and Why It Matters](https://www.magalix.com/blog/kubernetes-101-concepts-and-why-it-matters)
+* [Containers vs. Pods - Taking a Deeper Look - Ivan Velichko](https://iximiuz.com/en/posts/containers-vs-pods/)
+* [Let's Learn Kubernetes - Basics - 1 - DEV Community](https://dev.to/pghildiyal/let-s-learn-kubernetes-basics-part-1-3of7)
+* [Let's Learn Kubernetes - Basics - 2 - DEV Community](https://dev.to/pghildiyal/let-s-learn-kubernetes-basics-2-2a9a)
+* [Let's Learn Kubernetes - Basics - 3 - DEV Community](https://dev.to/pghildiyal/lets-learn-kubernetes-basics-3-4lm)
+* [Infra 쿠버네티스(kubernetes)(1) 쿠버네티스 구조(Kubernetes architecture) - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/kubernetes01/)
 * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
 * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
 * [Google systems guru explains why containers are the future of computing](https://medium.com/s-c-a-l-e/google-systems-guru-explains-why-containers-are-the-future-of-computing-87922af2cf95)
 * [KUBERNETES - THE FUTURE OF DEPLOYMENT](http://www.bashton.com/blog/2015/kubernetes-future-of-deployment/)
-* [Omega, and what it means for Kubernetes: a Q&A about cluster scheduling](http://blog.kismatic.com/qa-with-malte-schwarzkopf-on-distributed-systems-orchestration-in-the-modern-data-center/)
 * [Kubernetes: Open Source Container Cluster Orchestration](http://blog.kubernetes.io/2015/07/how-did-quake-demo-from-dockercon-work.html)
 * [Omega, and what it means for Kubernetes: a Q&A about cluster scheduling](https://blog.kismatic.com/qa-with-malte-schwarzkopf-on-distributed-systems-orchestration-in-the-modern-data-center/?)
-* [Try Kubernetes with Vagrant](http://lollyrock.com/articles/kubernetes-vagrant/)
+* [Granulate Blog - A Deep Dive into Kubernetes Scheduling](https://granulate.io/a-deep-dive-into-kubernetes-scheduling/)
 * [CoreOS and Kubernetes 1.0](https://coreos.com/blog/kubernetes-1.0-and-cloud-native-computing-foundation/)
 * [Kubernetes from the ground up: the API server](http://kamalmarhubi.com/blog/2015/09/06/kubernetes-from-the-ground-up-the-api-server/)
+* [Understanding Kubernetes API - Part 1 : Introduction](http://blog.madhukaraphatak.com/understanding-k8s-api-part-1/)
+* [Understanding Kubernetes API - Part 2 : Pods API](http://blog.madhukaraphatak.com/understanding-k8s-api-part-2/)
+* [Understanding Kubernetes API - Part 3 : Deployments API](http://blog.madhukaraphatak.com/understanding-k8s-api-part-3/)
+* [Kubernetes Cluster API 따라하며 이해하기 :: 조은우 개발 블로그](https://jonnung.dev/kubernetes/2021/02/28/cluster-api-quickstart/)
+* [Alpha in Kubernetes v1.22: API Server Tracing | Kubernetes](https://kubernetes.io/blog/2021/09/03/api-server-tracing/)
+* [**쿠버네티스 API서버는 정말 그냥 API서버라구욧 | 커피고래의 노트**](https://coffeewhale.com/apiserver)
 * [Official Kubernetes on CoreOS Guides and Tools](https://coreos.com/blog/official-kubernetes-on-coreos/)
 * [Kubernetes from the ground up: the scheduler](http://kamalmarhubi.com/blog/2015/11/17/kubernetes-from-the-ground-up-the-scheduler/)
 * [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
@@ -784,6 +837,9 @@ Docker
   * [#3 security](https://www.slideshare.net/Byungwook/kubernetes-3-security)
   * [#4 volume & stateful set](https://www.slideshare.net/Byungwook/kubernetes-4-volume-amp-stateful-set)
   * [#6 advanced scheduling](https://www.slideshare.net/Byungwook/kubernetes-6-advanced-scheduling)
+* [Kubernetes Security 101 - Best Practices - YouTube](https://www.youtube.com/watch?v=fsfEthTZgFw)
+* [Container security best practices: Comprehensive guide - Sysdig](https://sysdig.com/blog/container-security-best-practices/)
+* [Database Security Best Practices on Kubernetes](https://blog.crunchydata.com/blog/database-security-best-practices-on-kubernetes)
 * [Container Orchestration — Technology Choices For Microservices and Other Workloads](https://codeburst.io/container-orchestration-technology-choices-for-microservices-and-other-workloads-38999e9902cb)
 * [Kubernetes By Example - Brought to you by the OpenShift team](http://kubernetesbyexample.com/)
 * 권한을 찾아서: GitHub Team을 이용하여 Kubernetes 계정 인증하기
@@ -796,6 +852,8 @@ Docker
 * [Kubernetes Ingress Controllers - Google Sheets](https://docs.google.com/spreadsheets/d/191WWNpjJ2za6-nbG4ZoUMXMpUK8KlCIosvQB0f-oq3k/edit#gid=907731238)
 * [Kubernetes — Ingress Overview. What is K8s Ingress? — Introduction to… | by Ashish Patel | DevOps Mojo | Jul, 2021 | Medium](https://medium.com/devops-mojo/kubernetes-ingress-overview-what-is-kubernetes-ingress-introduction-to-k8s-ingress-b0f81525ffe2)
 * [Kubernetes Ingress — AWS EKS Cluster with AWS Load Balancer Controller | by George Tsopouridis | Medium](https://gtsopour.medium.com/kubernetes-ingress-aws-eks-cluster-with-aws-load-balancer-controller-cf49126f8221)
+* [Why and How of Kubernetes Ingress (and Networking) | by getenroute.io/yastack.io | ITNEXT](https://itnext.io/why-and-how-of-kubernetes-ingress-and-networking-6cb308ca03d2)
+* [Docker & Kubernetes - Kubernetes Ingress with AWS ALB Ingress Controller in EKS - 2021](https://www.bogotobogo.com/DevOps/Docker/Docker-Kubernetes-ALB-Ingress-Controller-with-EKS.php)
 * [K8s를 위한 추천 CI/CD](https://andromedarabbit.net/k8s%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B6%94%EC%B2%9C-ci-cd/)
 * [쿠버네티스 코드 읽기](https://sangwook.github.io/2018/06/19/kubernetes-k8s-code.html)
 * [리소스 (Resource)에 대해](http://bcho.tistory.com/1265)
@@ -828,21 +886,26 @@ Docker
 * [Kubernetes in the Google Cloud #3](https://charsyam.wordpress.com/2019/01/27/%EA%B5%AC%EA%B8%80%EC%8A%A4%ED%84%B0%EB%94%94%EC%9E%BC-kubernetes-in-the-google-cloud-3/)
 * [How to deploy Laravel the easy way with Kubernetes](https://medium.freecodecamp.org/how-to-deploy-laravel-the-easy-way-with-kubernetes-bb9a0778696c)
 * [Centos 7에 kubeadm을 이용해서 쿠버네티스 (1.13 기준) 설치하기](http://javacan.tistory.com/entry/k8s-install-in-centos7)
+* [개발자를 위한 쿠버네티스(Kubernetes) 클러스터 구성하기(Kubeadm, GCE, CentOS)](https://futurecreator.github.io/2019/02/25/kubernetes-cluster-on-google-compute-engine-for-developers/)
+* [Kubeadm을 이용한 ARMv8 클러스터 구축. 최근 다양한 기업들이 ARM 진영에 관심을 가지면서 고성능 프로세서들이… | by inerplat | Aug, 2021 | Medium](https://medium.com/@inerplat/kubeadm%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-armv8-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EA%B5%AC%EC%B6%95-12a642af3213)
 * [k8s cronjob 제한](https://ash84.net/2019/01/20/k8s-cronjob-limitations/)
 * [PodPreset](https://bcho.tistory.com/1304)
 * [PodDisruptionBudget](https://bcho.tistory.com/1305)
 * [Ruben Orduz, Nolan Brubaker - A Python-flavored Introduction to Containers And Kubernetes](https://www.youtube.com/watch?v=kx-048qE-TI)
-* [개발자를 위한 쿠버네티스(Kubernetes) 클러스터 구성하기(Kubeadm, GCE, CentOS)](https://futurecreator.github.io/2019/02/25/kubernetes-cluster-on-google-compute-engine-for-developers/)
 * 쿠버네티스 시작하기
   * [1부. minikube와 kubectl 사용해서 앱 배포하기](https://www.youtube.com/watch?v=IFc1mG48j0s)
   * [2부. Pod, Node 그리고 Service](https://www.youtube.com/watch?v=lVG9LU90ZQw)
   * [3부 (완결): 애플리케이션 스케일링과 롤링 업데이트](https://www.youtube.com/watch?v=6q1MRXNUzPU)
 * [Boosting your kubectl productivity](https://learnk8s.io/blog/kubectl-productivity/)
 * [Everything Useful I Know About kubectl](https://www.atomiccommits.io/everything-useful-i-know-about-kubectl/)
+* [Martin Heinz | Making Kubernetes Operations Easy with kubectl Plugins](https://martinheinz.dev/blog/58)
+* [kubectl get componentstatuses - k8s](https://sysnet4admin.gitbook.io/k8s/arch/kubectl-get-componentstatuses)
 * [Coding a real-time dashboard for Kubernetes](https://learnk8s.io/real-time-dashboard)
 * [**쿠버네티스 시작하기 - 쿠버네티스란 무엇인가?**](https://subicura.com/2019/05/19/kubernetes-basic-1.html)
 * [**쿠버네티스 시작하기 - 설치부터 배포까지**](https://subicura.com/2020/12/13/kubernetes-basic-2.html)
 * [**쿠버네티스 따라하기**](https://subicura.com/k8s/)
+* [Kubernetes Deep Dive One: k8s Basics | by Tony Li Xu | Sep, 2021 | AWS in Plain English](https://aws.plainenglish.io/kubernetes-deep-dive-one-k8s-basics-81e59d81f4bd)
+* [메가존 컨테이너 인프라의 표준 쿠버네티스 - Kubernetes Fundamentals - YouTube](https://www.youtube.com/watch?v=RsBeVyVtNps)
 * [How to securely deploy to Kubernetes from Bitbucket Pipelines](https://medium.freecodecamp.org/how-to-securely-deploy-to-kubernetes-from-bitbucket-pipelines-78e668f331b9)
 * [From Bare-Metal To Kubernetes](http://highscalability.com/blog/2019/4/8/from-bare-metal-to-kubernetes.html)
 * [Railyard: how we rapidly train machine learning models with Kubernetes](https://stripe.com/blog/railyard-training-models)
@@ -864,15 +927,14 @@ Docker
 * [Virtual Kubelet을 활용해 Kubernetes를 서버리스 컨테이너로 확장하기](https://yunsangjun.github.io/blog/kubernetes/2019/08/25/virtual-kublet.html)
 * [Kubernetes Failure Stories](https://k8s.af)
 * [쿠버네티스 CRI (Container Runtime Interface) & OCI (Open container initiative)](https://bcho.tistory.com/1353)
+* [OCI OKE: Kubernetes 아키텍처 및 주요 기능](https://velucid.github.io/oci/oke/oci-oke-kubernetes-architecture.html)
 * [Why data scientists love Kubernetes](https://opensource.com/article/19/1/why-data-scientists-love-kubernetes)
 * [대세는 클라우드 네이티브 컴퓨팅, 문제는 보안이다](https://slownews.kr/74370)
+* ['대세' 쿠버네티스, 문제는 '보안'··· 베스트 보안 프랙티스 5가지 - CIO Korea](http://www.ciokorea.com/news/163115)
 * [쿠버네티스에 MicroProfile 기반의 Java 마이크로 서비스 구축하기](https://developer.ibm.com/kr/journey/deploy-microprofile-java-microservices-on-kubernetes/)
   * [쿠버네티스 클러스터에 MicroProfile 기반의 Java 마이크로서비스 구축하기](https://github.com/IBM/Java-MicroProfile-on-Kubernetes/blob/master/README-ko.md)
 * [트랙 1-3. Google Kubernetes Engine과 함께하는 인프라 현대화 (조병욱)](https://www.youtube.com/watch?v=RTgvFpC4RXs&list=PLBgogxgQVM9vM5TCEwKidxbHKvtMvj7pB&index=19)
 * [ASP Classic to K8s - The Power of Y2K in Your Kubernetes](https://www.twitch.tv/videos/499381376)
-* [Understanding Kubernetes API - Part 1 : Introduction](http://blog.madhukaraphatak.com/understanding-k8s-api-part-1/)
-* [Understanding Kubernetes API - Part 2 : Pods API](http://blog.madhukaraphatak.com/understanding-k8s-api-part-2/)
-* [Understanding Kubernetes API - Part 3 : Deployments API](http://blog.madhukaraphatak.com/understanding-k8s-api-part-3/)
 * [쿠버네티스 vs. 도커 : 컨테이너와 오케스트레이션의 이해](http://www.itworld.co.kr/news/135282)
 * [Using Docker & Kubernetes to Host Machine Learning Models](https://towardsdatascience.com/using-docker-kubernetes-to-host-machine-learning-models-780a501fda49)
 * [쿠버네티스에서 도메인 이름 설정 방법](https://bcho.tistory.com/1362)
@@ -924,7 +986,6 @@ Docker
 * [Architecting Kubernetes clusters — choosing a cluster size | by Daniel Weibel | ITNEXT](https://itnext.io/architecting-kubernetes-clusters-choosing-a-cluster-size-92f6feaa2908)
 * [Managing Kubernetes resources: 5 things to remember | The Enterprisers Project](https://enterprisersproject.com/article/2020/8/managing-kubernetes-resources-5-things-remember)
 * [Logging in Kubernetes: EFK vs PLG Stack - InfraCloud Technologies](https://www.infracloud.io/blogs/logging-in-kubernetes-efk-vs-plg-stack/)
-* ['대세' 쿠버네티스, 문제는 '보안'··· 베스트 보안 프랙티스 5가지 - CIO Korea](http://www.ciokorea.com/news/163115)
 * ['너무 복잡'··· 쿠버네티스 관리를 아무도 원하지 않는 이유 - CIO Korea](https://www.ciokorea.com/news/190458)
 * [10 Anti-Patterns for Kubernetes Deployments | by Becca Bau | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/10-antipatterns-for-kubernetes-deployments-e97ce1199f2d)
 * [우리는 불편함을 어떻게 마주하고 있는가 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/10/06/thiiing-system-improvement.html)
@@ -955,7 +1016,6 @@ Docker
   * [쿠버네티스를 7500노드로 확장하기 | GeekNews](https://news.hada.io/topic?id=3643)
 * [10 awesome Kubernetes tools every user should know | DevNation Tech Talk | Red Hat Developer](https://developers.redhat.com/devnation/tech-talks/10-kubernetes-tools)
 * [Migrating a gigantic financial system to 20,000 pods in the cloud | by Hubert Słojewski | VirtusLab | Feb, 2021 | Medium](https://medium.com/virtuslab/migrating-a-gigantic-financial-system-to-20-000-pods-in-the-cloud-220d5fcfcbc0)
-* [Kubernetes Cluster API 따라하며 이해하기 :: 조은우 개발 블로그](https://jonnung.dev/kubernetes/2021/02/28/cluster-api-quickstart/)
 * [제3회 스포카콘 Kubernetes in Spoqa](https://www.slideshare.net/ssuser1ac60e/3-kubernetes-in-spoqa)
 * [Bottlerocket in Production Kubernetes Cluster | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/03/08/bottlerocket-on-kubernetes.html)
 * [Docker & Kubernetes - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=41582977)
@@ -974,6 +1034,11 @@ Docker
 * [실사례로 본 DB on Kubernetes 효과. 기업의 가장 중요한 자산은 Data이다. 그 Data를 보관하고… | by Jerry(이정훈) | Apr, 2021 | Medium](https://jerryljh.medium.com/%EC%8B%A4%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B3%B8-db-on-kubernetes-%ED%9A%A8%EA%B3%BC-eaed8e4e5811)
 * [실수 없이 안전하게 쿠버네티스 운영하기](https://toss.im/slash-21/sessions/1-5)
 * [Kubernetes 네트워크 이해하기 (1) : 컨테이너 네트워크부터 CNI까지 - Speaker Deck](https://speakerdeck.com/devinjeon/kubernetes-neteuweokeu-ihaehagi-1-keonteineo-neteuweokeubuteo-cniggaji)
+* [CNI Benchmark: Understanding Cilium Network Performance — Cilium](https://cilium.io/blog/2021/05/11/cni-benchmark)
+  * CNI인 Cilium과 Calico의 네트워크 성능 비교 차이점 분석, eBPF를 비교하기 위해 Calico eBPF도 비교 대상에 추가
+  * 컨테이너 간 네트워크에는 오버헤드가 있는데 eBPF는 iptables와 오버헤드 발생 부분 생략 가능, 네트워크 성능이 훨씬 개선
+  * 네트워크 부하를 더 크게 한 결과에서도 eBPF(Cilium, Calico 둘 다)가 좋은 성능
+* [Calico?Weave? CNI에 관하여](https://ykarma1996.tistory.com/179)
 * [11 Ways (Not) to Get Hacked | Kubernetes](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
 * [쿠버네티스 Admission Control #1 | 커피고래의 노트](https://coffeewhale.com/kubernetes/admission-control/2021/04/28/opa1/)
 * [쿠버네티스 Admission Control #2 - Open Policy Agent | 커피고래의 노트](https://coffeewhale.com/kubernetes/admission-control/2021/05/04/opa2/)
@@ -993,20 +1058,73 @@ Docker
   * 처음에는 etcd에서 성능 저하 발생, 이는 Fluentd와 Datadog의 문제였고 이는 해결했지만 Events API를 ectd 클러스터와 분리하는 것을 추천
   * OpenAI의 특성상 작업을 한곳에 모으려고 kube-scheduler를 수정해서 작업이 한곳에 모였지만 노드에 집중되어서 발생한 문제가 발생
   * 특정 Docker 이미지가 너무 큰 문제로 다른 이미지까지 지연되는 --serialize-image-pulls 설정 문제 등도 알게 됨
+* [번역 쿠버네티스 7,500개 노드 운영하기 | 커피고래의 노트](https://coffeewhale.com/scaling-node02)
 * [IPVS: How Kubernetes Services Direct Traffic to Pods | Dustin Specker](https://dustinspecker.com/posts/ipvs-how-kubernetes-services-direct-traffic-to-pods)
 * [Test your Kubernetes experiments with an open source web interface | Opensource.com](https://opensource.com/article/21/6/chaos-mesh-kubernetes)
 * [Capturing container traffic on Kubernetes | by Peter Gillich | FAUN](https://faun.pub/capturing-container-traffic-on-kubernetes-ee4a49b833b7)
 * [Architecting Kubernetes clusters — choosing the best autoscaling strategy](https://learnk8s.io/kubernetes-autoscaling-strategies)
 * [리얼리눅스 무료세미나: 도커/쿠버네티스/클라우드 네트워크 문제해결이 어려운 이유 - YouTube](https://www.youtube.com/watch?v=McDxXTGnWPE)
+* [Migrate virtual machines to Kubernetes with this new tool | Opensource.com](https://opensource.com/article/21/6/migrate-vms-kubernetes-forklift)
+* [플레이스 AI 개발의 MLOps w/ Kubernetes | by WonhongYoo | 네이버 플레이스 개발 블로그 | Aug, 2021 | Medium](https://medium.com/naver-place-dev/naver-g%ED%94%8C%EB%A0%88%EC%9D%B4%EC%8A%A4ai%EA%B0%9C%EB%B0%9C-%EB%B6%80%EC%84%9C%EC%9D%98-mlops-kubernetes-%EA%B8%B0%EB%B0%98-1f234d82b238)
+* [Successful Kubernetes Development Workflows • Ellen Körbes • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=9csPAXYEf7M)
+* [How to Debug Dead Container in K8s](https://leoh0.github.io/post/2018-08-04-how-to-debug-dead-container-in-k8s/)
+* [Living with Kubernetes: Debug Clusters in 8 Commands – The New Stack](https://thenewstack.io/living-with-kubernetes-debug-clusters-in-8-commands)
+* [왜 쿠버네티스는 systemd로 cgroup을 관리하려고 할까요](https://www.slideshare.net/JoHoon1/systemd-cgroup)
+* [A Deep Dive Into Kubernetes Schema Validation](https://www.datree.io/resources/kubernetes-schema-validation)
+  * Kubernetes manifests를 클러스터에 적용하기 전에 유효성 검사를 할 수 있는 방법 비교
+  * kubectl로 --dry-run=client/--dry-run=server로 하는 방법과 kubeval과 kubeconform 도구를 쓴 방법 비교
+  * 잘못된 설정을 모두 잡아내는 방법은 --dry-run=server가 가장 확실, 속도는 가장 느림
+  * 속도 면에서는 kubeconform이 가장 빠르고 kubeval에 비해 Kubernetes 버전도 최신까지 지원
+* [Automating quality checks for Kubernetes YAMLs - DEV Community](https://dev.to/wkrzywiec/automating-quality-checks-for-kubernetes-yamls-398)
+* [How to create Kubernetes YAML files | by Piotr | Oct, 2021 | ITNEXT](https://itnext.io/how-to-create-kubernetes-yaml-files-abb8426eeb45)
+* [How to create Kubernetes YAML files | Hacker Noon](https://hackernoon.com/how-to-create-kubernetes-yaml-files)
+* [‘긍정과 부정으로 정리한’ 쿠버네티스 자격증의 가치 - CIO Korea](https://www.ciokorea.com/news/206484)
+* [Kubernetes 실습 과제 리스트](https://jerryljh.tistory.com/50)
+* [Native-k8s(Ubuntu) - Sep 07 2021 - k8s](https://sysnet4admin.gitbook.io/k8s/version/native-k8s-ubuntu-sep-07-2021)
+* [Setting and Rightsizing Kubernetes Resource Limits | Best Practices](https://www.containiq.com/post/setting-and-rightsizing-kubernetes-resource-limits)
+* [KCD KOREA 2021 쿼리파이를 지탱하는 오픈소스 도구들 | 문성주 - YouTube](https://www.youtube.com/watch?v=43UQhxUbiOU)
+* [How Linkerd uses iptables to transparently route Kubernetes traffic | Linkerd](https://linkerd.io/2021/09/23/how-linkerd-uses-iptables-to-transparently-route-kubernetes-traffic/index.html)
+* [76. kubernetes NodePort Networking 분석 (kube-proxy : IPVS mode)](https://ikcoo.tistory.com/166)
+* [Kubernetes Crash Course for Absolute Beginners NEW - YouTube](https://www.youtube.com/watch?v=s_o8dwzRlu4)
+* [3 Reasons to Choose a Wide Cluster over Multi-Cluster with Kubernetes | by Alex Feiszli | Oct, 2021 | ITNEXT](https://itnext.io/3-reasons-to-choose-a-wide-cluster-over-multi-cluster-with-kubernetes-c923fecf4644)
+* [컨테이너 탐험가를 위한 ‘쿠버네티스’ 안내서 - CIO Korea](https://www.ciokorea.com/news/211809)
+* [install k8s on ubuntu20.04](https://uni2u.tistory.com/126)
+* [install container runtime on ubuntu20.04](https://uni2u.tistory.com/125)
+* [Horizontal Pod Autoscaling with Custom Metrics in Kubernetes | Pixie Labs Blog](https://blog.px.dev/autoscaling-custom-k8s-metric/)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
 * [Kubernetes: 6 open source tools to put your cluster to the test | The Enterprisers Project](https://enterprisersproject.com/article/2021/5/kubernetes-6-open-source-tools-to-test-clusters)
+* [Kubernetes Essential Tools: 2021. Review of the best tools for Kubernetes | by Javier Ramos | Jul, 2021 | ITNEXT](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572)
+  * K3D: 로컬용 Kubernetes 클러스터
+  * Lens: K8S IDE
+  * ArgoCD: GitOps
+  * Kanico: CI/CD 파이프라인
+  * Istio: 서비스 메쉬
+  * Crossplane: 서드파티 리소스 관리용
+  * Knative: 서버리스
+  * Kyverno: 정책 관리
+  * Kubevela: Open Application Model을 도입한 어플리케이션 플랫폼
+  * Snyk: 보안 감사
+  * Velero: 백업/복구
+  * Sealed Secrets: Git에 민감한 정보 저장
+* [Useful Interactive Terminal and Graphical UI Tools for Kubernetes](https://williamlam.com/2020/04/useful-interactive-terminal-and-graphical-ui-tools-for-kubernetes.html)
+  * Octant Lens Kubevious kubelive K9s
+* [Top Open Source CI/CD Tools for Kubernetes to Know](https://cloud.redhat.com/blog/top-open-source-ci/cd-tools-for-kubernetes-to-know)
 * [Antrea Joins CNCF Sandbox](https://blogs.vmware.com/opensource/2021/05/05/antrea-joins-cncf-sandbox/) CNI(Container Network Interface)와 Kubernetes NetworkPolicy를 pod 수준에서 구현한 VMWare의 프로젝트
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
   * [컨테이너 기반의 워크플로우 솔루션 argo](http://bcho.tistory.com/1299)
+  * [Intezer - New Attacks on Kubernetes via Misconfigured Argo Workflows](https://www.intezer.com/blog/container-security/new-attacks-on-kubernetes-via-misconfigured-argo-workflows/)
+  * [Argo CD - Declarative GitOps CD for Kubernetes](https://argo-cd.readthedocs.io/)
+    * [Introducing the AppSource Controller for ArgoCD | by Marco Acea | Aug, 2021 | Argo Project](https://blog.argoproj.io/introducing-the-appsource-controller-for-argocd-52f21d28d643)
+      * ArgoCD의 애플리케이션은 어드민이 각각 만들어주어야 하는데 여러 애플리케이션을 만들어야 할 때 app-of-apps 구현이나 ApplicationSet CRD를 많이 이용
+      * 하지만 이 두 방법도 중앙화된 방법이므로 어드민의 개입 없이 개발자가 직접 관리할 수 있게 하는 AppSource 프로젝트를 공개
+      * AppSource 컨트롤러를 이용하면 어드민은 사용자가 네임스페이스 내에서 ArgoCD 앱을 배포하도록 해서 개발자가 직접 앱을 배포 가능
+    * [Running Apache Spark on Kubernetes | by Ramiro Alvarez Fernandez | empathy.co | Medium](https://medium.com/empathyco/running-apache-spark-on-kubernetes-2e64c73d0bb2)
+    * [ArgoCD Tutorial for Beginners | GitOps CD for Kubernetes - YouTube](https://www.youtube.com/watch?v=MeU5_k9ssrs)
 * [Cilium - Linux Native, API-Aware Networking and Security for Containers](https://cilium.io/)
   * [Kubernetes Network & Cilium](https://www.notion.so/Kubernetes-Network-Cilium-1d4371f562ea4acdb5e679e376a7c992)
+  * [Network Policy Editor for Kubernetes](https://editor.cilium.io/)
 * [cloudflow - Streaming Data Pipelines on Kubernetes](https://cloudflow.io/)
   * [Scale By The Bay 2020: Nolan Grace, Cloudflow: Spark, Flink, and Akka Working together on Kubernetes - YouTube](https://www.youtube.com/watch?v=XOBb7bLS3Q8)
   * [How to build streaming data pipelines with Akka Streams, Flink, and Spark using Cloudflow - YouTube](https://www.youtube.com/watch?v=MaXCx0fy0xU)
@@ -1014,8 +1132,16 @@ Docker
   * [A CLI Tool for Multi-Cluster Kubernetes: Cloud Manager Rocks | by Jorge Simão | Jan, 2021 | Medium](https://einnovator.medium.com/a-cli-tool-for-multi-cluster-kubernetes-cloud-manager-rocks-af17124af2a6)
   * [Deploying Java/Spring Apps to Multiple Clouds with Kubernetes Cloud Manager | by Jorge Simão | Geek Culture | Mar, 2021 | Medium](https://medium.com/geekculture/deploying-java-spring-apps-to-multiple-clouds-with-kubernetes-cloud-manager-87cc61275cb0)
   * [Microservices Auto-Configuration with Connectors & Bindings: Cloud-Native Dependency-Injection in Kubernetes Cloud Manager | by Jorge Simão | Mar, 2021 | Medium](https://einnovator.medium.com/microservices-auto-configuration-with-connectors-bindings-cloud-native-dependency-injection-in-531488c74c4)
+* [Crossplane](https://crossplane.io/) Compose cloud infrastructure and services into custom platform APIs
+  * [Crossplane #1 - 소개 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1561)
+  * [Crossplane #2 - Configuration :: Outsider's Dev Story](https://blog.outsider.ne.kr/1562)
+* [dashboard: General-purpose web UI for Kubernetes clusters](https://github.com/kubernetes/dashboard)
+  * [On Securing the Kubernetes Dashboard | by Joe Beda | Heptio](https://blog.heptio.com/on-securing-the-kubernetes-dashboard-16b09b1b7aca)
+* [Devtron - The DevOps Accelerator](https://devtron.ai/)
+  * [DevTron - k8s용 소프트웨어 딜리버리 워크플로우 | GeekNews](https://news.hada.io/topic?id=4593)
 * [faasd: A lightweight & portable faas engine](https://github.com/openfaas/faasd)
 * [Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. (Project under CNCF)](https://github.com/fluid-cloudnative/fluid) 분산 데이터 세트 오케스트레이터/엑셀러레이터
+* [gateway-api: Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs](https://github.com/kubernetes-sigs/gateway-api)
 * [Helm - The package manager for Kubernetes](https://helm.sh/)
   * [Helm 사용법](http://reoim.tistory.com/37)
   * [How to migrate from Helm v2 to Helm v3](https://helm.sh/blog/migrate-from-helm-v2-to-helm-v3/)
@@ -1037,13 +1163,19 @@ Docker
   * [Azar Mirror 서버 제작기 2편 - Istio와 함께하는 Traffic Mirroring](https://hyperconnect.github.io/2020/06/02/azar-mirror-2.html)
   * [Kubernetes에 Microservice 배포하기 3편 - Canary Deployments with Istio | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/19/microsrv-deploy-3.html)
 * [k0s - Zero Friction Kubernetes](https://github.com/k0sproject/k0s)
+  * [Small Kubernetes for your local experiments: k0s, MicroK8s, kind, k3s, and Minikube – Flant blog](https://blog.flant.com/small-local-kubernetes-comparison/)
 * k3s
   * [k3s로 간단하게 Kubernetes 환경 구축하기](https://si.mpli.st/dev/2020-01-01-easy-k8s-with-k3s/)
   * [Bare-metal Kubernetes with K3s](https://blog.alexellis.io/bare-metal-kubernetes-with-k3s/)
+* [k8s-device-plugin: NVIDIA device plugin for Kubernetes](https://github.com/NVIDIA/k8s-device-plugin)
+* [K9s — the powerful terminal UI for Kubernetes | by Flant staff | Flant | Medium](https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f)
 * [karpenter: Kubernetes Node Autoscaling: built for flexibility, performance, and scalability](https://github.com/awslabs/karpenter)
   * Kubernetes 노드 오토스케일러
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
   * [Announcing KEDA: bringing event-driven containers and functions to Kubernetes](https://cloudblogs.microsoft.com/opensource/2019/05/06/announcing-keda-kubernetes-event-driven-autoscaling-containers/)
+* Ketch [Application Delivery - Ketch](https://www.theketch.io/)
+  * [Use Ketch to Deploy Apps on Kubernetes With YAML - DZone Cloud](https://dzone.com/articles/how-to-use-ketch-to-deploy-applications-on-kuberne)
+* [kim: In ur kubernetes, buildin ur imagez](https://github.com/rancher/kim) Rancher에서 공개한 Kubernetes 이미지 관리자
 * [Knative](https://knative.dev/)
   * [Knative on EKS](https://ddii.dev/kubernetes/knative-on-aws/)
   * 서버리스 오픈소스 - knative
@@ -1053,6 +1185,13 @@ Docker
   * [Getting Started with Knative in Scala | @lightbend](https://www.lightbend.com/blog/getting-started-with-knative-in-scala)
   * [Knative Cookbook | Red Hat Developer](https://developers.redhat.com/books/knative-cookbook)
 * [Kogito ergo automate - CLOUD-NATIVE BUSINESS AUTOMATION FOR BUILDING INTELLIGENT APPLICATIONS, BACKED BY BATTLE-TESTED CAPABILITIES](https://kogito.kie.org)
+* [Krustlet - a Kubelet written in Rust](https://krustlet.dev/)
+* ksonnet
+  * [쿠버네티스 리소스 배포와 관리를 위한 ksonnet](http://bcho.tistory.com/1302)
+* [kube-bench - k8s](https://sysnet4admin.gitbook.io/k8s/security/cluster/kube-bench)
+* [Kubecost | Kubernetes cost monitoring and management](https://www.kubecost.com/)
+* [kubectl-debug: Debug your pod by a new container with every troubleshooting tools pre-installed](https://github.com/aylei/kubectl-debug)
+  * [Shell 없는 Container, Live 환경에서 Debugging해보기! | Hyperconnect Tech Blog](https://hyperconnect.github.io/2021/09/15/kubectl-debug-on-bottlerocket.html) Bottlerocket
 * [kubectl-trace: Schedule bpftrace programs on your kubernetes cluster using the kubectl](https://github.com/iovisor/kubectl-trace)
 * [kubectx: Faster way to switch between clusters and namespaces in kubectl](https://github.com/ahmetb/kubectx)
 * [kubectxon: Easy to check active-context in kubernetes thru the prompt](https://github.com/sysnet4admin/kubectxon)
@@ -1077,17 +1216,34 @@ Docker
     * Kubeflow Pipeline을 배포할 때 매번 빌드를 하고 업로드를 하는 작업을 하게 되는데, 이 과정을 Terraform처럼 `krsh apply` 명령을 cli에서 보내면 자동으로 파이프라인의 형상을 관리할 수 있게 작성
     * Infrastructure as Code (IaC)의 철학을 머신러닝 파이프라인에도 적용
 * kubelet API [Attacking Kubernetes clusters using the Kubelet API | by Eduardo Baitello | FAUN](https://faun.pub/attacking-kubernetes-clusters-using-the-kubelet-api-abafc36126ca)
+* [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes](https://github.com/external-secrets/kubernetes-external-secrets)
+  * [k8s External Secrets 훑어보기](https://brunch.co.kr/@alden/68)
+    * AWS에서 Kubernetes를 사용할 때 시크릿 정보를 AWS에서 관리하는 Secrets Manger나 Parameter Store에서 가져오기 위해 External Secrets을 사용하는 방법을 설명
+    * External Secrets 컨트롤러가 Secrets Manager에 접근해서 정보를 가져올 수 있도록 권한을 설정하는 방법을 설명
+    * 이렇게 가져온 정보는 Secrets이 되므로 Deployment 등에서 envFrom이나 secretRef로 가져와서 사용 가능
+* Kubernetes Hardening Guidance
+  * [쿠버네티스 보안 강화를 위한 NSA/CISA 가이드 분석 - ITWorld Korea](https://www.itworld.co.kr/news/205884)
+  * [The NSA Can Help Secure Your Kubernetes Clusters – The New Stack](https://thenewstack.io/the-nsa-can-help-you-secure-your-kubernetes-clusters/)
+  * [NSA, CISA release Kubernetes Hardening Guidance > National Security Agency Central Security Service > Article View](https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)
+  * [kubescape is the first tool for testing if Kubernetes is deployed securely as defined in Kubernetes Hardening Guidance by to NSA and CISA (https://www.nsa.gov/News-Features/Feature-Stories/Article-View/Article/2716980/nsa-cisa-release-kubernetes-hardening-guidance/)](https://github.com/armosec/kubescape)
+    * [Kubescape - 쿠버네티스 보안 설치 확인도구 | GeekNews](https://news.hada.io/topic?id=4966)
+* [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
 * kubespray
   * [처음 만난 Kubespray](http://knight76.tistory.com/entry/kubespary-%EC%B2%98%EC%9D%8C-%EB%A7%8C%EB%82%9C-Kubespray)
   * [kubespray를 통한 클러스터 구축 - WONIZZ.LOG](https://blog.wonizz.tk/2021/05/17/kubernetes-kubespray/)
+* kubestack [Enjoy the best developer experience and build your Kubernetes platform | Kubestack](https://www.kubestack.com/)
+  * [KubeStack — A Must Use. An Open-Source, Easy-to-use GitOps… | by Shanika Perera | Geek Culture | Jun, 2021 | Medium](https://medium.com/geekculture/kubestack-a-must-use-117a32efd427)
 * [kubethanos kills half of your pods randomly to engineer chaos in your preferred environment, gives you the opportunity to see how your system behaves under failures](https://github.com/berkay-dincer/kubethanos)
 * [Kubevirt | Wait... Running Virtual Machine (VM) inside Kuberenetes? Now, you can! - YouTube](https://www.youtube.com/watch?v=3kQDtXE4qi8)
 * [kubie: A more powerful alternative to kubectx and kubens](https://github.com/sbstp/kubie)
 * [Kui - a terminal with visualizations by and for developers](https://kui.tools/)
 * [Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/)
 * [Lens | The Kubernetes IDE](https://k8slens.dev/)
+  * [Lens 5.2 Released. We are proud to release Lens 5.2… | by Miska Kaipiainen | k8slens | Sep, 2021 | Medium](https://medium.com/k8slens/lens-5-2-released-874af03495de)
+* [localizer: ⛵ A no-frills local development tool for service developers working in Kubernetes](https://github.com/getoutreach/localizer)
 * [maesh - Simpler Service Mesh](https://containo.us/maesh/)
   * [Announcing Maesh, a Lightweight and Simpler Service Mesh Made by the Traefik Team](https://blog.containo.us/announcing-maesh-a-lightweight-and-simpler-service-mesh-made-by-the-traefik-team-cb866edc6f29)
+* [MicroK8s - Zero-ops Kubernetes for developers, edge and IoT](https://microk8s.io/)
 * Minikube
   * [Using Kubernetes for Local Development — Minikube](https://medium.com/devopslinks/using-kubernetes-minikube-for-local-development-c37c6e56e3db)
   * [Getting started with Minikube: Kubernetes on your laptop](https://opensource.com/article/18/10/getting-started-minikube)
@@ -1096,14 +1252,32 @@ Docker
   * [minikube에서 Loadbalancer type 서비스 테스트 하기](https://bcho.tistory.com/1308)
   * [How to Use Own Local Docker Images With Minikube | by Bhargav Bachina | BB Tutorials & Thoughts | Medium](https://medium.com/bb-tutorials-and-thoughts/how-to-use-own-local-doker-images-with-minikube-2c1ed0b0968)
   * [How To Run NodeJS API on Minikube | by Bhargav Bachina | Bachina Labs | Medium](https://medium.com/bb-tutorials-and-thoughts/how-to-run-nodejs-api-on-local-kubernetes-a9e61274be22)
+  * [**minikube로 docker와 docker-compose를 대체하기**](https://novemberde.github.io/docker/2021/09/02/podman-minikube.html) docker 유료화에 맞춘 시의적절한 글
 * [network-node-manager: network-node-manager is a kubernetes controller that controls the network configuration of a node to resolve network issues of kubernetes](https://github.com/kakao/network-node-manager)
   * [Kubernetes의 네트워크 이슈를 해결할 수 있는 network-node-manager – tech.kakao.com](https://tech.kakao.com/2021/03/03/network-node-manager/)
+* [node-feature-discovery: Node feature discovery for Kubernetes](https://github.com/kubernetes-sigs/node-feature-discovery)
 * [Okteto - The Kubernetes development platform](https://okteto.com/) cloud?
+* [OpenEBS - Kubernetes storage simplified](https://openebs.io/)
+  * [Default Kyverno Policies for OpenEBS. - DEV Community](https://dev.to/niveditacoder/default-kyverno-policies-for-openebs-4abf)
 * [OperatorHub.io - a new home for the Kubernetes community to share Operators. Find an existing Operator or list your own today](https://www.operatorhub.io)
+* [QUARKUS - Supersonic Subatomic Java A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards](https://quarkus.io/)
+  * [Why Quarkus](http://in.relation.to/2019/03/08/why-quarkus/)
+  * [Quarkus란?](https://www.redhat.com/ko/topics/cloud-native-apps/what-is-quarkus)
+  * [Building a Microservice From the Ground up With Quarkus, Kotlin, and Debezium | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/building-a-microservice-from-the-ground-up-with-quarkus-kotlin-and-debezium-83ae5c8a8bbc)
+  * [Implementing the Transactional Outbox Pattern with Debezium in Quarkus | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/implementing-the-transactional-outbox-pattern-with-debezium-in-quarkus-f2680306951)
+  * [Building a Resilient Microservice with Quarkus and Wiremock | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/building-a-resilient-microservice-with-quarkus-and-wiremock-de59b2a4fac7)
+  * [Securing a Microservice in Quarkus with OpenID Connect | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/securing-a-microservice-in-quarkus-with-openid-connect-505204d1c9a9)
+  * [Running a Microservice in Quarkus on GraalVM | by Iain Porter | Sep, 2020 | Medium](https://medium.com/@changeant/running-a-microservice-in-quarkus-on-graalvm-52d6b42a5840)
+  * [Containerizing your Microservice in Quarkus with Jib | by Iain Porter | Sep, 2020 | Medium](https://medium.com/@changeant/containerizing-your-microservice-in-quarkus-with-jib-fae0f62bd57e)
+  * [Building a CI Pipeline for a Microservice in Quarkus with CircleCI | by Iain Porter | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/building-a-ci-pipeline-for-a-microservice-in-quarkus-with-circleci-11e9b679423f)
+  * [Quarkus 2.0 Delivers Continuous Testing, CLI and Supports Minimal JDK 11](https://www.infoq.com/news/2021/08/quarkus-2-0-final-release/)
+  * [Quarkus: Get started with Kubernetes-native Java | InfoWorld](https://www.infoworld.com/article/3636228/quarkus-get-started-with-kubernetes-native-java.html)
 * [Rancher - Complete container management platform Deploy and manage Kubernetes with ease](https://rancher.com/)
   * [Purpose built OS for Kubernetes and fully managed by Kubernetes. https://k3os.io ](https://github.com/rancher/k3os)
   * [쿠버네티스 멀티 클라우드/클러스터를 위한 Rancher](https://bcho.tistory.com/1348)
   * [Comparing Five Monitoring Options for Docker](http://rancher.com/comparing-monitoring-options-for-docker-deployments/)
+  * [Rancher Desktop: Kubernetes and container management on the desktop](https://rancherdesktop.io/)
+* [Reloader: A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig](https://github.com/stakater/Reloader) prod에서는 추천하지 않는다는 의견이 있음
 * [simplenetes: The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods](https://github.com/simplenetes-io/simplenetes)
 * Skaffold
   * [쿠버네티스용 Continuous Deployment 툴인 Skaffold](https://bcho.tistory.com/1342)
@@ -1117,6 +1291,10 @@ Docker
   * [Istio와 Telepresence로 공용 Kubernetes 클러스터에서 실행할 애플리케이션을 로컬 환경에서 개발하기](https://d2.naver.com/helloworld/4817173)
   * [Kubernetes 클러스터에 배포할 애플리케이션의 로컬 개발을 쉽게 해줄 Telepresence :: Outsider's Dev Story](https://blog.outsider.ne.kr/1526)
   * [Run Telepresence Anywhere Part 1: Containers | by Kelsey Evans | Jun, 2021 | Ambassador Labs](https://blog.getambassador.io/run-telepresence-anywhere-part-1-containers-3d9e235b6776)
+* [trivy: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues](https://github.com/aquasecurity/trivy)
+  * [trivy - k8s](https://sysnet4admin.gitbook.io/k8s/security/container/trivy)
+* [Verrazzano Enterprise Container Platform](https://verrazzano.io/)
+  * [오라클, 쿠버네티스용 ‘베라짜노 컨테이너 플랫폼’ 발표 - CIO Korea](https://www.ciokorea.com/news/203699)
 
 # Library
 * [Top GUI for Docker | by appfleet team | appfleet | Medium](https://medium.com/appfleet/top-gui-for-docker-9b45588393d3)
@@ -1124,7 +1302,10 @@ Docker
 * [apollo - an extensible Docker-based Platform as a Service (PaaS)](https://gitlab.com/p3r.one/apollo)
 * [Bocker - Docker implemented in 100 lines of bash https://www.p8952.info/projects.html](https://github.com/p8952/bocker)
 * [Boot2Docker](https://github.com/boot2docker)
-* [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
+* [buildkit: concurrent, cache-efficient, and Dockerfile-agnostic builder toolkit](https://github.com/moby/buildkit)
+  * [Speed up Docker build time with cache warming | Blog by Gaspare Vitta](https://www.gasparevitta.com/posts/docker-warm-up-cache-from-image-buildkit/)
+  * [Advanced Docker: Multistage parallel Docker build | Blog by Gaspare Vitta](https://www.gasparevitta.com/posts/advanced-docker-multistage-parallel-build-buildkit/)
+  * [Pass secure information for building Docker images | by Rafael Natali | Marionete | Jul, 2021 | Medium](https://medium.com/marionete/pass-secure-information-for-building-docker-images-8adeafe08355)
 * [codetainer allows you to create code 'sandboxes' you can embed in your web applications](https://github.com/codetainerapp/codetainer)
 * [d2hub - kakao Docker Hub](https://github.com/kakao/d2hub)
   * [d2hub playbook](https://github.com/kakao/d2hub-playbook)
@@ -1139,6 +1320,7 @@ Docker
   * 도커 이미지를 탐색하고 각 레이어를 분석해서 낭비되는 용량이 얼마인지, 얼마나 이미지 용량을 더 줄일 수 있는지 확인할 수 있는 CLI 툴
 * [Docker Bench - The Docker Bench for Security is a script that checks for all the automatable tests included in the CIS Docker 1.6 Benchmark. https://dockerbench.com](https://github.com/diogomonica/docker-bench-security)
 * [docker-debug: use new container attach on already container go on debug](https://github.com/zeromake/docker-debug)
+  * [도커와 k8s 디버거](https://jhrogue.blogspot.com/2021/07/b-k8s.html)
 * [Docker monitoring](https://ruxit.com/docker-monitoring/)
 * [Docker-OSX: Run Mac in a Docker! Run near native OSX-KVM in Docker! X11 Forwarding! CI/CD for OS X!](https://github.com/sickcodes/Docker-OSX)
 * [docker-py: A Python library for the Docker Engine API](https://github.com/docker/docker-py)
@@ -1155,6 +1337,7 @@ Docker
 * [Firecracker - Secure and fast microVMs for serverless computing](https://firecracker-microvm.github.io/)
   * [firecracker: Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
   * [Firecracker: start a VM in less than a second](https://jvns.ca/blog/2021/01/23/firecracker--start-a-vm-in-less-than-a-second/)
+  * [kkamagui의 작업실 :: 아마존(Amazon) Firecracker 시작하기](https://kkamagui.tistory.com/945)
 * firefighter [microVM: Another Level of Abstraction for Serverless Computing | by Mostafa Moradian | ITNEXT](https://itnext.io/microvm-another-level-of-abstraction-for-serverless-computing-5f106b030f15)
 * [Flocker 1.0: Container Data Management for Docker](https://clusterhq.com/2015/06/17/flocker-1-0/)
 * [Galley is a command-line tool for orchestrating Docker containers in development and test environments](https://github.com/twitter-fabric/galley)
@@ -1166,20 +1349,17 @@ Docker
 * [instadocker - Run any Docker container on the cloudin just 3 seconds](http://instadocker.com/)
 * [jib - Build container images for your Java applications](https://github.com/GoogleContainerTools/jib)
   * [Spring Boot 과 Docker (with jib)](https://medium.com/@gaemi/spring-boot-과-docker-with-jib-657d32a6b1f0)
-* [K9s — the powerful terminal UI for Kubernetes | by Flant staff | Flant | Medium](https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f)
+  * [Jib 1.0.0 is GA—building Java Docker images has never been easier](https://cloud.google.com/blog/products/application-development/jib-1-0-0-is-ga-building-java-docker-images-has-never-been-easier)
+  * [jib를 이용한 자바 앱 컨테이너화](https://brunch.co.kr/@alden/72)
+    * [jib를 이용한 자바 앱 컨테이너화](https://alden-kang.tistory.com/1)
+    * Java 애플리케이션을 Docker 이미지로 만들 때 빌드과정 등의 복잡함을 쉽게 해결할 수 있도록 Google에서 만든 jib를 이용해서 Java 애플리케이션으로 도커 이미지를 사용하는 방법을 설명
+    * Gradle로 jib를 설정해서 빌드부터 Docker 이미지 생성, 푸시까지 한 번에 되는 과정
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
-* ksonnet
-  * [쿠버네티스 리소스 배포와 관리를 위한 ksonnet](http://bcho.tistory.com/1302)
-* [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes](https://github.com/external-secrets/kubernetes-external-secrets)
-  * [k8s External Secrets 훑어보기](https://brunch.co.kr/@alden/68)
-    * AWS에서 Kubernetes를 사용할 때 시크릿 정보를 AWS에서 관리하는 Secrets Manger나 Parameter Store에서 가져오기 위해 External Secrets을 사용하는 방법을 설명
-    * External Secrets 컨트롤러가 Secrets Manager에 접근해서 정보를 가져올 수 있도록 권한을 설정하는 방법을 설명
-    * 이렇게 가져온 정보는 Secrets이 되므로 Deployment 등에서 envFrom이나 secretRef로 가져와서 사용 가능
-* [localizer: ⛵ A no-frills local development tool for service developers working in Kubernetes](https://github.com/getoutreach/localizer)
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
 * [magicpak enables you to build minimal docker images without any bothersome preparation such as static linking](https://github.com/coord-e/magicpak)
 * [Morte: an intermediate language for super-optimizing functional programs](http://www.haskellforall.com/2014/09/morte-intermediate-language-for-super.html)
 * [netmanager 1.0 - Network management for docker containers](https://github.com/vmulas/docker-netmanager)
+* [netshoot: a Docker + Kubernetes network trouble-shooting swiss-army container](https://github.com/nicolaka/netshoot)
 * [Network Containers](https://www.zerotier.com/blog/?p=490)
 * [nginx-proxy](https://github.com/jwilder/nginx-proxy)
   * tcp request를 domain name base로 구분하여 각각의 docker container로 연결해주는 nginx 기반의 proxy
@@ -1199,19 +1379,23 @@ Docker
   * [컨테이너 기술:: Docker와 Podman](https://naleejang.tistory.com/227)
   * [Transitioning from Docker to Podman - Red Hat Developer](https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/)
   * [How to replace Docker with Podman on a Mac | Enable Sysadmin](https://www.redhat.com/sysadmin/replace-docker-podman-macos)
-* [QUARKUS - Supersonic Subatomic Java A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards](https://quarkus.io/)
-  * [Why Quarkus](http://in.relation.to/2019/03/08/why-quarkus/)
-  * [Quarkus란?](https://www.redhat.com/ko/topics/cloud-native-apps/what-is-quarkus)
-  * [Building a Microservice From the Ground up With Quarkus, Kotlin, and Debezium | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/building-a-microservice-from-the-ground-up-with-quarkus-kotlin-and-debezium-83ae5c8a8bbc)
-  * [Implementing the Transactional Outbox Pattern with Debezium in Quarkus | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/implementing-the-transactional-outbox-pattern-with-debezium-in-quarkus-f2680306951)
-  * [Building a Resilient Microservice with Quarkus and Wiremock | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/building-a-resilient-microservice-with-quarkus-and-wiremock-de59b2a4fac7)
-  * [Securing a Microservice in Quarkus with OpenID Connect | by Iain Porter | Level Up Coding](https://levelup.gitconnected.com/securing-a-microservice-in-quarkus-with-openid-connect-505204d1c9a9)
-  * [Running a Microservice in Quarkus on GraalVM | by Iain Porter | Sep, 2020 | Medium](https://medium.com/@changeant/running-a-microservice-in-quarkus-on-graalvm-52d6b42a5840)
-  * [Containerizing your Microservice in Quarkus with Jib | by Iain Porter | Sep, 2020 | Medium](https://medium.com/@changeant/containerizing-your-microservice-in-quarkus-with-jib-fae0f62bd57e)
-  * [Building a CI Pipeline for a Microservice in Quarkus with CircleCI | by Iain Porter | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/building-a-ci-pipeline-for-a-microservice-in-quarkus-with-circleci-11e9b679423f)
+  * [Run a Linux virtual machine in Podman | Opensource.com](https://opensource.com/article/21/7/linux-podman)
 * [registry.hub.docker.com](https://registry.hub.docker.com)
 * [rocker-compose - Docker composition tool with idempotency features for deploying apps composed of multiple containers](https://github.com/grammarly/rocker-compose)
 * [seagull - Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
+* Shipa [Home - Shipa](https://shipa.io/) Shipa does for applications what Terraform did for infrastructure. A consistent application definition for an evolving infrastructure
+* [youki: A container runtime written in Rust](https://github.com/containers/youki)
+  * [Youki - Rust로 작성된 컨테이너 런타임 | GeekNews](https://news.hada.io/topic?id=5116)
+
+## Library docker alternative
+* [An Overview of Docker Desktop Alternatives](https://matt-rickard.com/docker-desktop-alternatives/)
+* [How Docker broke in half | InfoWorld](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html)
+* [유료화 정책 단행이 예정된 Windows용 도커 데스크톱을 대체할 수 있는 방법을 알아봅니다. | WSLHUB](https://blog.wslhub.com/%EC%9C%A0%EB%A3%8C%EB%A1%9C-%EC%A0%84%ED%99%98%EB%90%98%EB%8A%94-%EB%8F%84%EC%BB%A4-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EB%8C%80%EC%95%88-%EC%B0%BE%EA%B8%B0-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%82%AC%EC%9A%A9%EC%9E%90-74f1a261eb32)
+* [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
+* [containerd: An open and reliable container runtime](https://github.com/containerd/containerd)
+* [lima: Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)](https://github.com/lima-vm/lima)
+  * [**containerd & Lima: Open source alternative to Docker for Mac | by Akihiro Suda | nttlabs | Sep, 2021 | Medium**](https://medium.com/nttlabs/containerd-and-lima-39e0b64d2a59)
+* multipass [Docker Desktop 대탈출, multipass로 갑니다](https://jybaek.tistory.com/934)
 
 # Network
 * [Networking](https://docs.docker.com/engine/userguide/networking/)
@@ -1239,6 +1423,7 @@ Docker
   * [(a Primer) Part I](https://mesosphere.com/blog/networking-docker-containers/)
   * [Part II: Service Discovery for Traditional Apps and Microservices](https://mesosphere.com/blog/networking-docker-containers-part-ii-service-discovery-traditional-apps-microservices)
   * [Part III: Architectural Patterns for Service Registration, Service Discovery, and Load Balancing](https://mesosphere.com/blog/networking-docker-containers-part-iii-architectural-patterns-service-registration-service-discovery-load-balancing)
+* [OKKY - 도커컨테이너와 로컬DB연결시키기](https://okky.kr/article/650088)
 
 # Nomad
 * [Nomad, a cluster manager and scheduler designed for microservices and batch workloads](https://www.hashicorp.com/blog/nomad.html)
@@ -1264,6 +1449,8 @@ Docker
   * [오픈소스컨설팅 쿠버네티스와 쿠버네티스 on 오픈스택 비교 및 구축 방법](https://www.slideshare.net/OpenSourceConsulting/on-244106649)
 * [OpenvSwitch 와 Open Virtual Network](https://naleejang.tistory.com/244)
 * [클라우드 시스템 운영 비율](https://naleejang.tistory.com/246)
+* [오픈소스 컨트리뷰션 1주차 스프린트 : 오픈스택 환경 구성하기 | by Ryan Kim | Aug, 2021 | Medium](https://equus3144.medium.com/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%EC%85%98-1%EC%A3%BC%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%EC%98%A4%ED%94%88%EC%8A%A4%ED%83%9D-%EC%84%A4%EC%B9%98-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0-be44aed886)
+* [Open Infra How to calculate the cloud system operating rate](https://naleejang.tistory.com/247)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/)
@@ -1296,6 +1483,7 @@ Docker
 
 # Troubleshooting
 * [practice - docker memory full with python logging](https://github.com/hyunjun/practice/tree/master/docker/python_memory_overflow)
+* [Why Docker is eating your disk space - Juhana Jauhiainen](https://juhanajauhiainen.com/posts/why-docker-is-eating-all-your-diskspace)
 * [Luavis' Dev Story - 사라진 800MB를 찾아서](https://b.luavis.kr/server/missing-800mb)
 * `Bind address already in use`
   * container를 stop 했는데도, 해당 container가 사용하던 port를 반환받지 못함.  어느 정도 시간이 지난 후 다시 run 하면 되긴 하는데, 그 시간이 일정하지 않음.  짧은 경우도 있고 제법 긴 경우(몇 분?)도 있음
@@ -1349,6 +1537,9 @@ Docker
   * [도커 없이 컨테이너 만들기 7편 - Google Slides](https://docs.google.com/presentation/d/10TCStiRnnvF-IBCGx7hNB4na5YI-CSmxWB6HpG9HCrc/edit) [pdf](pdfs/container_without_docker_7.pdf)
   * [도커 없이 컨테이너 만들기 8편 - Google Slides](https://docs.google.com/presentation/d/1CY3lXDpWSsNbp8mhUsQAsp474jY7THt7CpCf5dWdLEc/edit) [pdf](pdfs/container_without_docker_8.pdf)
 * [Toward Vagrant 3.0](https://www.hashicorp.com/blog/toward-vagrant-3-0)
+* [Try Kubernetes with Vagrant](http://lollyrock.com/articles/kubernetes-vagrant/)
+* [Use Vagrant to test your scripts on different operating systems | Opensource.com](https://opensource.com/article/21/9/test-vagrant)
+* [cube-bldr at master · sysnet4admin/IaC](https://github.com/sysnet4admin/IaC/tree/master/Docker/cube-bldr) 도커 빌드 + 쿠버 테스트 환경 통합을 위한 베이그런트 스크립트
 
 # Virtualization
 * [Virt Tools](https://www.virt-tools.org/)

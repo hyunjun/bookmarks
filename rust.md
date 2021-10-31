@@ -33,6 +33,8 @@
 * [Data Types in Rust: Borrowing from Both Worlds](https://medium.com/@james_32022/data-types-in-rust-borrowing-from-both-worlds-b12a377391ae)
 * [Unsafe Rust: An Intro and Open Questions](http://cglab.ca/~abeinges/blah/rust-unsafe-intro/)
 * [Generating Rust Bindings for Embedded Libraries](http://spin.atomicobject.com/2015/05/21/generate-embedded-rust-bindings/)
+* [rust-raspberrypi-OS-tutorials: Learn to write an embedded OS in Rust](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
+  * [Rust로 라즈베리 Pi용 임베디드OS 만들어보기 | GeekNews](https://news.hada.io/topic?id=5088)
 * [Three months of Rust](http://scattered-thoughts.net/blog/2015/06/04/three-months-of-rust/)
 * [Expressing L-systems in Rust](http://unconj.ca/blog/expressing-l-systems-in-rust.html)
 * [The Problem With Single-threaded Shared Mutability](http://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/)
@@ -131,6 +133,7 @@
 * [Behind the scenes of 1Password for Linux | by Dave Teare | May, 2021 | Medium](https://dteare.medium.com/behind-the-scenes-of-1password-for-linux-d59b19143a23)
 * [Rust: Zero Cost Abstractions - YouTube](https://www.youtube.com/watch?v=JCGjjk5ccV0)
 * [Compiling Rust is NP-hard](https://niedzejkob.p4.team/rust-np/)
+* [Make a Demo Tool in Rust](https://make-a-demo-tool-in-rust.github.io/)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
@@ -138,11 +141,14 @@
 * [Collections and Lifetimes in Rust! - The Startup - Medium](https://medium.com/swlh/collections-and-lifetimes-in-rust-d478934d17ea)
 * [rust 에서 print()의 format 관련 내용](https://open-support.tistory.com/entry/rust-%EC%97%90%EC%84%9C-print%EC%9D%98-format-%EA%B4%80%EB%A0%A8-%EB%82%B4%EC%9A%A9?)
 * [rust 에서 String 에서 요소 하나 하나를 index 인덱싱 하는 방법](https://open-support.tistory.com/entry/rust-%EC%97%90%EC%84%9C-String-%EC%97%90%EC%84%9C-%EC%9A%94%EC%86%8C-%ED%95%98%EB%82%98-%ED%95%98%EB%82%98%EB%A5%BC-index-%EC%9D%B8%EB%8D%B1%EC%8B%B1-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+* [반복자에게 할 일 더해주기 - Iterator adapters](https://blog.seulgi.kim/2021/08/iterator-adapters.html)
 
 # Async Await
 * [Asynchronous IO in Rust](https://medium.com/@paulcolomiets/asynchronous-io-in-rust-36b623e7b965)
 * [How Rust optimizes async/await: Part 1](https://tmandry.gitlab.io/blog/posts/optimizing-await-1/)
 * [The Talk You've Been Await-ing for](https://www.youtube.com/watch?v=NNwK5ZPAJCk)
+* [why async fn in traits are hard](https://smallcultfollowing.com/babysteps/blog/2019/10/26/async-fn-in-traits-are-hard/)
+* [An Alternative Syntax for Async Functions](https://ibraheem.ca/writings/an-alternative-async-fn-syntax/)
 
 # Book
 * [Table of Contents - Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/intro.html)
@@ -163,6 +169,7 @@
 * [Go vs Rust: Writing a CLI tool | by Paulo Cuchi @ Magrathea | Magrathea](https://blog.magrathealabs.com/go-vs-rust-writing-a-cli-tool-231accadcc88)
 * [Comparison between Java, Go, and Rust | by Dexter Darwich | Medium](https://medium.com/@dexterdarwich/comparison-between-java-go-and-rust-fdb21bd5fb7c)
 * ["러스트"와 "고"를 선택하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/186713)
+* [십년지기 언어, 러스트와 고(Go) | 요즘IT](https://yozm.wishket.com/magazine/detail/1040/)
 
 # Library
 * [A SQL database written in Rust](https://github.com/nukep/llamadb/)
@@ -177,9 +184,12 @@
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)
 * [deuterium-orm - Fully typed SQL query builder for Rust](https://github.com/deuterium-orm/deuterium)
 * [difftastic: a syntax-aware diff](https://github.com/wilfred/difftastic)
+* [druid - Rust](https://docs.rs/druid/)
+  * [So you want to write a GUI framework](https://www.cmyr.net/blog/gui-framework-ingredients.html)
 * [Encoder and decoder for HTTP chunked transfer coding (RFC 7230 § 4.1) https://crates.io/crates/chunked_transfer](https://github.com/frewsxcv/rust-chunked-transfer)
 * [glium library - safe openGL in rust](https://medium.com/@tomaka/the-glium-library-5be149d87dc1)
 * [Glommio - A Thread-per-Core Crate for Rust & Linux | Datadog](https://www.datadoghq.com/blog/engineering/introducing-glommio/)
+* [hck: A sharp cut(1) clone](https://github.com/sstadick/hck)
 * [imageflow - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow https://docs.imageflow.io ](https://github.com/imazen/imageflow)
 * [kalker - A flexible calculator that supports variables and functions defined by the user](https://kalker.strct.net/)
   * [Kalker/kalk is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals](https://github.com/PaddiM8/kalker)
@@ -225,13 +235,16 @@
 * [Rust-TodoMVC](http://tcr.github.io/rust-todomvc/)
 * Rusty Machine
   * [Rusty Machine- Machine Learning in Rust](https://www.techleer.com/articles/349-rusty-machine-machine-learning-in-rust/)
+* [snakeos: bootable x86 snake game in rust](https://github.com/trusch/snakeos)
 * [sqlx - The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite](https://github.com/launchbadge/sqlx)
+* [swcify](https://github.com/Shopify/swcify) wraps swc with a napi-rs package that implements custom transforms used by Shopify
 * [tauri: Framework agnostic toolchain for building highly secure native apps that have tiny binaries and are very fast](https://github.com/tauri-apps/tauri)
 * tokio
   * [Announcing Tokio 1.0 | Tokio](https://tokio.rs/blog/2020-12-tokio-1-0)
     * 속도 저하 없이 안정적인 네트워킹 어플리케이션을 만들기 위한 스택
     * 1.0은 오래 쓰일 안정적인 버전. 최소 5년동안 1.0 브랜치를 유지할 것이며, 2.0은 3년내에는 출시할 계획 없음
     * 2021년엔 Stream, io_uring, tracing 통합 등을 진행할 예정
+  * [Creating a Chat Server with async Rust and Tokio - YouTube](https://www.youtube.com/watch?v=Iapc-qGTEBQ)
 * [tray_rust - A toy ray tracer in Rust](https://github.com/Twinklebear/tray_rust)
 * [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)
 * [webrtc: A pure Rust implementation of WebRTC API. Rewrite Pion WebRTC stack (http://Pion.ly) in Rust!](https://github.com/webrtc-rs/webrtc)
@@ -292,6 +305,7 @@
 * [Rust 입문용 치트시트](https://happygrammer.github.io/rust/cheat-seat/)
 * [Rust로 첫 번째 단계 수행 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/paths/rust-first-steps/)
   * [MS의 Rust 기초 가이드 한국어 | GeekNews](https://news.hada.io/topic?id=4095)
+* [Common Newbie Mistakes and Bad Practices in Rust: Bad Habits · Michael-F-Bryan](https://adventures.michaelfbryan.com/posts/rust-best-practices/bad-habits/)
 * [Beginner's Series to: Rust - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjbTjrchBwOVks_sr8EVW1x)
   * [Take your first steps with Rust - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/)
 * [rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)

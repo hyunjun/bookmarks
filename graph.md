@@ -55,6 +55,8 @@ Graph
 * [Predicting Friendship Who’s Most Likely Your Next Friend?](https://towardsdatascience.com/predicting-friendship-a82bc7bbdf11)
 * [Temporal Graph Networks. A new neural network architecture for… | by Michael Bronstein | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/temporal-graph-networks-ab8f327f2efe)
 * [데이터 모델링이란? (그래프 DB 편)](https://bitnine.tistory.com/447)
+* [방대하고 복잡한 데이터를 시각화하는 그래프 DB](https://brunch.co.kr/@synabreu/146)
+* [Graph Databases VS Relational Databases – Learn How a Graph Database Works](https://www.freecodecamp.org/news/graph-database-vs-relational-database/)
 
 # book
 * [Applications of Graph Theory - Shariefuddin Pirzada and Ashay Dharwadker](http://www.dharwadker.org/pirzada/applications/)
@@ -161,6 +163,7 @@ Graph
   * [Neo4j PageRank Algorithm and Path Pattern Matching on Flights Domain Model](https://medium.com/@vladbatushkov/one-month-graph-challenge-cayman-islands-714e0cdae8fd)
   * [그래프 데이터베이스 Neo4j 첫만남](https://blog.naver.com/pjt3591oo/221994415065)
   * [Efficient Neo4j Data Import Using Cypher-Scripts | by Andrea Santurbano | Neo4j Developer Blog | Medium](https://medium.com/neo4j/efficient-neo4j-data-import-using-cypher-scripts-7d1268b0747)
+  * [데이터 분석 결과를 효과적으로 제공하기 위한 그래프 데이터베이스 구축](https://d2.naver.com/helloworld/8446520)
 * [OrientDB](http://orientdb.com/)
   * [getting started](http://orientdb.com/getting-started/)
     * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)
@@ -214,6 +217,8 @@ Graph
 * [Knowledge Graph Embedding by Translating on Hyperplanes](http://www.aaai.org/ocs/index.php/AAAI/AAAI14/paper/viewFile/8531/8546)
 * [Learning Structured Embeddings of Knowledge Bases](https://ronan.collobert.com/pub/matos/2011_knowbases_aaai.pdf)
 * [Google Knowledge Graph — The Best Guide For Beginners](https://hackernoon.com/google-knowledge-graph-the-best-guide-for-beginners-d513c1180abf)
+* [Thought Vectors, Knowledge Graphs, and Curious Death(?) of Keyword Search - YouTube](https://www.youtube.com/watch?v=JrORpCkuK3g)
+* [Drug and Vaccine Discovery: Knowledge Graph + Apache Spark - YouTube](https://www.youtube.com/watch?v=Kj5bZ2afWSU)
 
 # Library
 * [Ajgu - a simple graph database power by BerkleyDB key-value store](https://bitbucket.org/amirouche/ajgu-graphdb)

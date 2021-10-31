@@ -195,6 +195,9 @@ PyTorch
 * [Top 10 Performance Tuning Practices for Pytorch | by Wonyoung Shin | 네이버 쇼핑 개발 블로그 | Apr, 2021 | Medium](https://medium.com/naver-shopping-dev/top-10-performance-tuning-practices-for-pytorch-e6c510152f76)
 * [Federated-Averaging-PyTorch](https://github.com/vaseline555/Federated-Averaging-PyTorch) FedAvg
 * [Suite를 활용한 머신러닝 워크플로우 실전 체험기 – Superb AI Blog](https://blog.superb-ai.com/ko/data-labeling-with-superb-ai-suite/)
+* [PyTorch to TF.js Conversion](https://swyoon.notion.site/PyTorch-to-TF-js-Conversion-9eb8062fa524429c9c8df73b03a09c71)
+* [Automatic Differentiation in Python and PyTorch - YouTube](https://www.youtube.com/watch?v=9aBpF0-JH7A)
+* [Pytorch로 ResNet 구현, torch summary 살펴보기](https://velog.io/@gibonki77/ResNetwithPyTorch)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
@@ -206,6 +209,7 @@ PyTorch
 * [Smaller, faster, cheaper, lighter: Introducing DistilBERT, a distilled version of BERT](https://medium.com/huggingface/distilbert-8cf3380435b5)
 * [KoBERT와 CRF로 만든 한국어 객체명인식기 (BERT+CRF based Named Entity Recognition model for Korean)](https://github.com/eagle705/pytorch-bert-crf-ner)
 * [Painless Fine-Tuning of BERT in Pytorch](https://medium.com/swlh/painless-fine-tuning-of-bert-in-pytorch-b91c14912caa)
+* [Gmlp_pretrain: Pretraining code to train Gmlp Language model](https://github.com/ZIZUN/Gmlp_pretrain)
 * [pytorch-bert - A implementation of BERT using PyTorch https://pypi.org/project/pytorch-bert ](https://github.com/jeongukjae/pytorch-bert)
 
 # Book
@@ -339,6 +343,8 @@ PyTorch
   * 장점: 빠른 모델 학습, 모델 메모리와 연산량을 크게 줄이도록 경량화 가능, 쉽게 다양한 알고리즘 결합 가능
 * PyCUDA
   * [Deep-Learning-Boot-Camp/day02-PyTORCH-and-PyCUDA/PyCUDA](https://github.com/QuantScientist/Deep-Learning-Boot-Camp/tree/master/day02-PyTORCH-and-PyCUDA/PyCUDA)
+* [pynmsnn: NeuroMorphic Predictive Model with Spiking Neural Networks (SNN) using Pytorch](https://github.com/ajayarunachalam/pynmsnn)
+  * [NeuroMorphic Predictive Model with Spiking Neural Networks in Python](https://pythonawesome.com/neuromorphic-predictive-model-with-spiking-neural-networks-in-python/)
 * [PyRobot - An Open Source Robotics Research Platform](https://www.pyrobot.org/)
   * [Open-sourcing PyRobot to accelerate AI robotics research](https://ai.facebook.com/blog/open-sourcing-pyrobot-to-accelerate-ai-robotics-research/)
 * [pystiche: A Framework for Neural Style Transfer | by Philip Meier | PyTorch | Dec, 2020 | Medium](https://medium.com/pytorch/pystiche-a-framework-for-neural-style-transfer-1ea6e4825f32)
@@ -358,6 +364,8 @@ PyTorch
 * [pytorch-redis - Basic MNIST Example with RedisClient](https://github.com/jinserk/pytorch-redis)
 * [pytorch-struct - Fast, general, and tested differentiable structured prediction in PyTorch](https://github.com/harvardnlp/pytorch-struct)
 * [pytorch-template - PyTorch deep learning projects made easy](https://github.com/victoresque/pytorch-template)
+* [pytorch-toolbelt: PyTorch extensions for fast R&D prototyping and Kaggle farming](https://github.com/BloodAxe/pytorch-toolbelt)
+  * [A Python library with a set of bells and whistles for PyTorch](https://pythonawesome.com/a-python-library-with-a-set-of-bells-and-whistles-for-pytorch/)
 * [PyTorchVideo · A deep learning library for video understanding research](https://pytorchvideo.org/)
 * [pytorch-wavenet - This is an implementation of the WaveNet architecture](https://github.com/vincentherrmann/pytorch-wavenet)
 * Qiskit [Hybrid quantum-classical Neural Networks with PyTorch and Qiskit](https://qiskit.org/textbook/ch-machine-learning/machine-learning-qiskit-pytorch.html)
@@ -365,6 +373,7 @@ PyTorch
 * [RandWireNN - Unofficial PyTorch Implementation of: Exploring Randomly Wired Neural Networks for Image Recognition](https://github.com/seungwonpark/RandWireNN)
 * [Rock-Paper-Scissors-with-Jetson-Nano - an implementation for Rock-Paper-Scissors game with a machine. Jetson Nano is used for AI recognition of hand gesture](https://github.com/mokpi/Rock-Paper-Scissors-with-Jetson-Nano)
 * [skorch - A scikit-learn compatible neural network library that wraps PyTorch](https://github.com/dnouri/skorch)
+  * [pytorch & sklearn pipeline | Pega Devlog](https://jehyunlee.github.io/2021/09/29/Python-DL-7-skorch_pipeline/)
 * [SpeedTorch - Faster pinned CPU tensor <-> GPU Pytorch variabe transfer and GPU tensor <-> GPU Pytorch variable transfer, in certain cases](https://github.com/Santosh-Gupta/SpeedTorch)
 * [spotlight - Deep recommender models using PyTorch](https://github.com/maciejkula/spotlight)
 * [SplitNet PyTorch Implementation](https://github.com/kuc2477/dl-papers/tree/master/Model-Optimization/splitnet/pytorch)
@@ -382,6 +391,8 @@ PyTorch
   * [TorchIO - a Python library for efficient loading, preprocessing, augmentation and patch-based sampling of 3D medical images in deep learning, following the design of PyTorch](https://torchio.readthedocs.io/)
 * [torchlars - A LARS implementation in PyTorch](https://github.com/kakaobrain/torchlars)
   * [torchlars가 탄생하기까지](https://www.kakaobrain.com/blog/113)
+* [TorchShard: Slicing a PyTorch Tensor Into Parallel Shards](https://github.com/KaiyuYue/torchshard)
+  * [Introduction to TorchShard. A Lightweight Library for Scaling-up… | by Kaiyu Yue | PyTorch | Jul, 2021 | Medium](https://medium.com/pytorch/torchshard-a31fcbfdc354)
 * [torchtext package consists of data processing utilities and popular datasets for natural language](http://torchtext.readthedocs.io/)
 * [torchvision - Datasets, Transforms and Models specific to Computer Vision](https://github.com/pytorch/vision)
   * [torchvision 0.3: segmentation, detection models, new datasets and more..](https://pytorch.org/blog/torchvision03/)
@@ -433,7 +444,6 @@ PyTorch
 # Translation
 * [Practical PyTorch: Translation with a Sequence to Sequence Network and Attention](https://github.com/spro/practical-pytorch/blob/master/seq2seq-translation/seq2seq-translation.ipynb)
 * [Neural Machine Translation](https://github.com/lyeoni/nlp-tutorial/tree/master/neural-machine-translation)
-* [OpenNMT_Library_Tutorial_Using_Colab](https://github.com/Parkchanjun/OpenNMT_Library_Tutorial_Using_Colab)
 
 # Tutorial
 * [준비 운동: NumPy — PyTorch Tutorials 1.6.0 documentation](https://tutorials.pytorch.kr/beginner/examples_tensor/two_layer_net_numpy.html)
@@ -470,3 +480,5 @@ PyTorch
 * [how-to-read-pytorch: Quick, visual, principled introduction to pytorch code through five colab notebooks](https://github.com/davidbau/how-to-read-pytorch)
 * [파이토치(PyTorch) 튜토리얼에 오신 것을 환영합니다 — PyTorch Tutorials 1.6.0 documentation](https://tutorials.pytorch.kr/)
 * [PyTorch Fundamentals - Learn | Microsoft Docs](https://docs.microsoft.com/en-us/learn/paths/pytorch-fundamentals/)
+* [Understanding PyTorch with an example: a step-by-step tutorial | by Daniel Godoy | Towards Data Science](https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e)
+* [Introduction to Distributed Training in PyTorch - PyImageSearch](https://www.pyimagesearch.com/2021/10/18/introduction-to-distributed-training-in-pytorch/)

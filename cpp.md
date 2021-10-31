@@ -87,6 +87,7 @@ C++
   * [Realm은 어떻게 C++ STL 이진탐색을 이겼나?](https://realm.io/kr/news/how-we-beat-cpp-stl-binary-search/)
 * [STL — Standard Template Library](https://medium.com/programming-club-nit-raipur/stl-standard-template-library-5eace21acfc7)
 * [Learning C++: The STL and the vector Class](https://levelup.gitconnected.com/learning-c-the-stl-and-the-vector-class-beead0ac745f)
+* [The big STL Algorithms tutorial: Introduction | Sandor Dargo's Blog](https://www.sandordargo.com/blog/2019/01/30/stl-algos-intro)
 * [“New” Value Terminology - Bjarne Stroustrup](http://stroustrup.com/terminology.pdf)
 * [Traps detection during migration of C and C++ code to 64-bit Windows](https://medium.com/@CPP_Coder/traps-detection-during-migration-of-c-and-c-code-to-64-bit-windows-2f0ab43efca4)
 * [You Can Stop Writing Comments About Pointer Ownership](http://gpfault.net/posts/pointer-ownership-comments.txt.html)
@@ -184,10 +185,14 @@ C++
 * [Improving Print Logging with Line Pos Info & Modern C++ - C++ Stories](https://www.cppstories.com/2019/04/file-pos-log/)
 * [C++ 코드 품질 관리 비법 · Present](https://present.do/decks/60bf8f711903093a77d15ef3)
 * [Why We Need Build Systems - Sticky Bits - Powered by FeabhasSticky Bits – Powered by Feabhas](https://blog.feabhas.com/2021/06/why-we-need-build-systems/)
+* [Moving a project to C++ named Modules - C++ Team Blog](https://devblogs.microsoft.com/cppblog/moving-a-project-to-cpp-named-modules/)
+* [String Hashing in C++ - DEV Community](https://dev.to/muiz6/string-hashing-in-c-1np3)
+* [Performance Matters - YouTube](https://www.youtube.com/watch?v=VzyhpbrC2Bs)
 
 # API
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
 * [The year is 2017 - Is the preprocessor still needed in C++?](https://foonathan.net/2017/05/preprocessor/)
+* [Infinite monkey - Nico Brailovsky's blog: C++ exceptions under the hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html)
 * auto_ptr
   * [auto_ptr - 조심히 사용해야 하는 스마트 포인터](http://ohyecloudy.com/pnotes/archives/286/)
 * const
@@ -243,6 +248,7 @@ C++
 * [C++ Has Become More Pythonic](http://preshing.com/20141202/cpp-has-become-more-pythonic/)
 * [이벤트 + 락 = Eventable Lock 클래스](https://surpreem.com/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EB%9D%BD-eventable-lock-%ED%81%B4%EB%9E%98%EC%8A%A4/)
 * [enum class](http://wergia.tistory.com/64)
+* [류광의 번역 이야기 :: g++ 11에서 C++20 헤더 단위 사용하기](http://occamsrazr.net/tt/375)
 
 # C++14
 * [Writing good C++14.. by default](https://github.com/isocpp/CppCoreGuidelines/blob/master/talks/Sutter%20-%20CppCon%202015%20day%202%20plenary%20.pdf)
@@ -300,6 +306,7 @@ C++
 * [C++11 서버 라이브러리](http://readme.skplanet.com/?p=10399)
 * [C++ 프로그래밍에 요긴한 라이브러리 7종](http://www.ciokorea.com/news/142816)
 * [C++ 프로그래밍의 감초··· ‘인기 라이브러리 8선’ - CIO Korea](http://www.ciokorea.com/news/158051)
+* [cpp-lit: Time to #include standard library and other C++ headers](https://github.com/s9w/cpp-lit)
 * [abseil.io](https://abseil.io/)
 * [Atria - A toolkit for modern C++ development](http://abletonag.github.io/atria/)
 * [autosetup - A build environment "autoconfigurator"](https://msteveb.github.io/autosetup/)
@@ -340,15 +347,12 @@ C++
 * [Gecode - a toolkit for developing constraint-based systems and applications](http://www.gecode.org/)
 * [Google Robots.txt Parser and Matcher Library](https://github.com/google/robotstxt)
   * [Google's robots.txt Parser is Now Open Source](https://opensource.googleblog.com/2019/07/googles-robotstxt-parser-is-now-open.html)
-* googletest
-  * [googletest 구성하기](https://surpreem.com/googletest-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0/)
-  * [구글 테스트 프레임워크 빌드 스크립트](https://surpreem.com/%EA%B5%AC%EA%B8%80-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%B9%8C%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/)
-  * [Visual Studio 2017에서 google test 프로젝트 빌드 오류](https://surpreem.com/visual-studio-2017%EC%97%90%EC%84%9C-google-test-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B9%8C%EB%93%9C-%EC%98%A4%EB%A5%98/)
 * [gperftools - Main gperftools repository](https://github.com/gperftools/gperftools)
 * [GSL Lite: Guidelines Support Library for C++98, C++03 and C++11 up](https://github.com/martinmoene/gsl-lite#gsl-lite-guidelines-support-library-for-c98-c03-and-c11-up---)
 * [HOIST: Strong Source Identity Library for C++](http://hoist.hostilefork.com/)
 * [imgui: Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies](https://github.com/ocornut/imgui)
 * [IncludeOS - A minimal, service oriented, includeable library operating system for cloud services](http://www.includeos.org/)
+* [KySync - efficient way to distribute new data which makes use of older (but similar) data that you may already have present locally](https://kyall.notion.site/KySync-v1-0-29eaad446308449a8c9a2373850eed62)
 * [Lemon - an LALR(1) parser generator for C or C++](http://www.sqlite.org/src/doc/trunk/doc/lemon.html)
 * [Libcox - an ANSI-C Library which permit cross platform system calls and standard utilities among different operating systems via a system of commands similar to the standard UNIX one and backed by the native OS API](http://libcox.net/)
 * [libdivide: Official git repository for libdivide: optimized integer division](https://github.com/ridiculousfish/libdivide)
@@ -381,6 +385,7 @@ C++
 * [Seastar is an advanced, open-source C++ framework for high-performance server applications](http://www.seastar-project.org/)
 * [SLED (Beta) - A responsive C++ editor that understands your code](http://slededit.com/new/)
 * [Snapcast - a multi-room client-server audio player, where all clients are time synchronized with the server to play perfectly synced audio](https://github.com/badaix/snapcast/)
+* [SpaceCadetPinball: Decompilation of 3D Pinball for Windows – Space Cadet](https://github.com/k4zmu2a/SpaceCadetPinball)
 * [SWIG is a software development tool that connects programs written in C and C++ with a variety of high-level programming languages](http://www.swig.org/)
 * [Templight - A C++ Template Metaprogram Debugger and Profiler](http://plc.inf.elte.hu/templight/)
 * [TinyXML2 - a simple, small, efficient, C++ XML parser that can be easily integrated into other programs](https://github.com/leethomason/tinyxml2)
@@ -399,12 +404,23 @@ C++
 * jemalloc
 * [TCMalloc - Google's customized implementation of C's malloc() and C++'s operator new used for memory allocation within our C and C++ code](https://github.com/google/tcmalloc)
   * [The effect of switching to TCMalloc on RocksDB memory use](https://blog.cloudflare.com/the-effect-of-switching-to-tcmalloc-on-rocksdb-memory-use)
+  * [TCMalloc : Thread-Caching Malloc](http://goog-perftools.sourceforge.net/doc/tcmalloc.html)
+
+# TDD, Test
+* [Test Driven C++ - YouTube](https://www.youtube.com/watch?v=VhLLNB1tEaw)
+* googletest
+  * [googletest 구성하기](https://surpreem.com/googletest-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0/)
+  * [구글 테스트 프레임워크 빌드 스크립트](https://surpreem.com/%EA%B5%AC%EA%B8%80-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EB%B9%8C%EB%93%9C-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8/)
+  * [Visual Studio 2017에서 google test 프로젝트 빌드 오류](https://surpreem.com/visual-studio-2017%EC%97%90%EC%84%9C-google-test-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%B9%8C%EB%93%9C-%EC%98%A4%EB%A5%98/)
 
 # Thread
+* [Writing Multithreaded Applications in C++ (the right way) – DeathByTape](https://deathbytape.com/articles/2015/02/03/cpp-threading.html)
 * [Learn C++ Multi-Threading in 5 Minutes | by Ari Saif | HackerNoon.com | Medium](https://medium.com/hackernoon/learn-c-multi-threading-in-5-minutes-8b881c92941f)
+* [Back to Basics: Concurrency (Multithreading Tactics in C++) - YouTube](https://www.youtube.com/watch?v=riUCrKQ_ezc)
 * [y-cruncher - A Multi-Threaded Pi-Program](http://www.numberworld.org/y-cruncher/) Pi 31조자리까지 계산 프로그램
 
 # Tutorial
 * [씹어먹는 C++ 강좌 - PDF 파일](https://modoocode.com/312)
 * [“Hello World” in C++. I thought it would be easy. But it… | by Dalya Gartzman | codeburst](https://codeburst.io/hello-world-in-c-66d9d1b887e1)
 * [Learn C++](https://www.learncpp.com/)
+* [C++공부노트 #1 환경설정](https://brunch.co.kr/@yudong/176)

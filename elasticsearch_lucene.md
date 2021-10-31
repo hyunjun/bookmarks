@@ -38,6 +38,7 @@ ElasticSearch - Lucene
     * [Multiple analyzers and query fields in Elasticsearch for auto-completion](https://gist.github.com/karmi/4526141)
     * [1.7/indices-stats.html](https://www.elastic.co/guide/en/elasticsearch/reference/1.7/indices-stats.html)
     * [Elasticsearch 인덱싱에 대한 성능 고려 사항](https://www.elastic.co/kr/blog/performance-considerations-elasticsearch-indexing)
+    * [Building Faster Indexing with Apache Kafka and Elasticsearch - DoorDash Engineering Blog](https://doordash.engineering/2021/07/14/open-source-search-indexing/)
   * Mapping
     * [ElasticSearch – nested mappings and filters](http://joelabrahamsson.com/elasticsearch-nested-mapping-and-filter/)
     * [Elasticsearch: updating the mappings and settings of an existing index](https://gist.github.com/nicolashery/6317643)
@@ -120,6 +121,7 @@ ElasticSearch - Lucene
   * [Part 2](https://www.elastic.co/blog/just-enough-kafka-for-the-elastic-stack-part2)
     * [2부](https://www.elastic.co/kr/blog/just-enough-kafka-for-the-elastic-stack-part2)
 * [Elastic Search & Kafka - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=30771281)
+* [Apache Kafka 소개, 아키텍처 및 Elastic 연동 방법 - YouTube](https://www.youtube.com/watch?v=R5Hw8zYazFs)
 * [How scoring works in Elasticsearch](https://www.compose.io/articles/how-scoring-works-in-elasticsearch/)
 * [And the big one said "Rollover" — Managing Elasticsearch time-based indices efficiently](https://www.elastic.co/kr/blog/managing-time-based-indices-efficiently)
 * [새로운 Elasticsearch 프론티어: Elastic Cloud Enterprise 1.0 GA](https://www.elastic.co/kr/blog/manage-and-monitor-elasticsearch-clusters-at-scale-on-any-infrastructure)
@@ -301,6 +303,14 @@ ElasticSearch - Lucene
 * [엘라스틱서치의 멀티테넌트 환경 적용하기 - 케이스로 살펴보는 테넌트 적용 방법 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=30127970&memberNo=36733075&navigationType=push)
 * [엘라스틱서치(Elasticsearch)에서 관계형 데이터 모델링하기 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=31824430&memberNo=36733075&navigationType=push)
 * [10분 이내에 페타바이트 규모의 클라우드 저장 공간 쿼리 작업 | Elastic Blog](https://www.elastic.co/kr/blog/querying-a-petabyte-of-cloud-storage-in-10-minutes)
+* [Google Cloud Platform 마켓플레이스에서 Elastic Cloud 시작하기 - YouTube](https://www.youtube.com/watch?v=ntT_jqPpPRE)
+* [검색어 분석을 통한 상품 정렬 개선 | MUSINSA tech](https://medium.com/musinsa-tech/%EA%B2%80%EC%83%89%EC%96%B4-%EB%B6%84%EC%84%9D%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%83%81%ED%92%88-%EC%A0%95%EB%A0%AC-%EA%B0%9C%EC%84%A0-b92ded2923c3)
+* [무신사의 검색 품질, 어떤 지표로 관리할까? | by MUSINSA tech | MUSINSA tech](https://medium.com/musinsa-tech/map-416b5f143943)
+* [elastic-study-the-total-economic-impact-of-elastic-observability-and-security-solutions-2021-june.pdf](https://www.elastic.co/kr/pdf/elastic-study-the-total-economic-impact-of-elastic-observability-and-security-solutions-2021-june.pdf) Elastic Observability 및 Elastic Security 솔루션의 Total Economic Impact™
+* [How to monitor Spring Boot Microservices using ELK Stack? | Making Java easy to learn](https://javatechonline.com/how-to-monitor-spring-boot-microservices-using-elk-stack)
+* [컴퓨터 vs 책: 알도개 엘라스틱 스택과 ELK 의의](https://jhrogue.blogspot.com/2021/08/elk.html)
+  * [알도개 엘라스틱 스택과 ELK 의의 - YouTube](https://www.youtube.com/watch?v=1x59QE2YS4E)
+* [Elastic Security - 내부 정보 유출 탐지 사례 데모 - YouTube](https://www.youtube.com/watch?v=64VDu5ilHYg)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
@@ -388,6 +398,8 @@ ElasticSearch - Lucene
 * [Elastic Stack 7.4.0 출시](https://www.elastic.co/kr/blog/elastic-stack-7-4-0-released)
 * [벡터 필드를 사용한 텍스트 유사도 검색](https://www.elastic.co/kr/blog/text-similarity-search-with-vectors-in-elasticsearch)
 * [filebeat-scouter-module](https://github.com/eskrug/filebeat-scouter-module)
+* [엘라스틱서치와 추천 - More Like This 쿼리](https://onduway.tistory.com/101)
+* [Elastic Stack 7.14.1 자동 설치 - YouTube](https://www.youtube.com/watch?v=p3f7wUwSqdM)
 
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)
@@ -418,6 +430,7 @@ ElasticSearch - Lucene
 * [okdevtv.com/mib/elk/elk6](https://okdevtv.com/mib/elk/elk6)
 * [**okdevtv.com/mib/elk/elk7**](https://okdevtv.com/mib/elk/elk7)
   * [설치의 정석 내 사이트에 20분 만에 로그 분석 시스템 붙이기 - YouTube](https://www.youtube.com/watch?v=tiJtVZrREBA)
+  * [practice - installation elasticsearch + kibana + logstash with openjdk1.8 + nginx for aws t2.medium](https://gist.github.com/hyunjun/c3c0dbd13f50d5242ffb#file-setup_for_aws-sh)
 * [JDBC output for Logstash](https://github.com/theangryangel/logstash-output-jdbc)
 * [**엑셀 피벗 테이블을 ElasticSearch와 Kibana로 만들어 보자**](https://engineering.linecorp.com/ko/blog/excel-to-elastic/)
 * [ELK 통합 로그 시스템을 활용한 IT보안 활용 추천 책 소개!!!](https://www.youtube.com/watch?v=vo_O7pWAM60)
@@ -487,6 +500,7 @@ ElasticSearch - Lucene
   * [Elastalert로 로그 알람 구축하기](https://dailyhotel.io/elastalert%EB%A1%9C-%EB%A1%9C%EA%B7%B8-%EC%95%8C%EB%9E%8C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-a5c770a86002)
   * [ElastAlert: Alerting At Scale With Elasticsearch, Part 1](https://engineeringblog.yelp.com/2015/10/elastalert-alerting-at-scale-with-elasticsearch.html)
   * [ElastAlert: Alerting At Scale With Elasticsearch, Part 2](https://engineeringblog.yelp.com/2016/03/elastalert-part-two.html)
+  * [Elastic Alerting A to Z - YouTube](https://www.youtube.com/watch?v=48ILjleUclc)
 * [elasticdump - Tools for moving and saving indicies](https://www.npmjs.com/package/elasticdump)
 * Elastic Graph
   * [Elastic Graph와 Kibana를 사용하여 파나마 페이퍼스(Panama Papers) 분석](https://www.elastic.co/kr/blog/using-elastic-graph-and-kibana-to-analyze-panama-papers)
@@ -519,6 +533,7 @@ ElasticSearch - Lucene
   * [elasticsearch-py](https://github.com/elastic/elasticsearch-py)
   * [How to Query Elasticsearch with Python](http://marcobonzanini.com/2015/02/02/how-to-query-elasticsearch-with-python/)
   * [Having Fun: Python and Elasticsearch, Part 1](http://bitquabit.com/post/having-fun-python-and-elasticsearch-part-1/)
+  * [ElasticSearch 공식 파이썬 라이브러리가 더 이상 오픈소스 포크버전과 동작하지 않 | GeekNews](https://news.hada.io/topic?id=4791)
 * [elasticsearch-sql - Use SQL to query Elasticsearch](https://github.com/NLPchina/elasticsearch-sql)
   * [Getting Started with SQL](https://www.elastic.co/guide/en/elasticsearch/reference/master/sql-getting-started.html#sql-getting-started)
   * [Elasticsearch SQL | Popit](https://www.popit.kr/elasticsearch-sql/)
@@ -596,6 +611,7 @@ ElasticSearch - Lucene
 * [INSERT INTO LOGSTASH SELECT DATA FROM DATABASE](https://www.elastic.co/blog/logstash-jdbc-input-plugin)
 * [Logstash 필터 grok 특징 하나](http://www.popit.kr/logstash-%ED%95%84%ED%84%B0-grok-%ED%8A%B9%EC%A7%95-%ED%95%98%EB%82%98/)
 * [grok 필터 성능 테스트](https://www.popit.kr/grok-%ED%95%84%ED%84%B0-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8/)
+* [정규표현식 몰라도 된다 | Popit](https://www.popit.kr/%ec%a0%95%ea%b7%9c%ed%91%9c%ed%98%84%ec%8b%9d-%eb%aa%b0%eb%9d%bc%eb%8f%84-%eb%90%9c%eb%8b%a4/) grok
 * [일반로그 분석은 정말 쉬울까?(feat.  Elasticsearch)](http://www.popit.kr/%EC%9D%BC%EB%B0%98%EB%A1%9C%EA%B7%B8-%EB%B6%84%EC%84%9D%EC%9D%80-%EC%A0%95%EB%A7%90-%EC%89%AC%EC%9A%B8%EA%B9%8Cfeat-elasticsearch/)
 * [Logasuarus: A CLI Utility for Elasticsearch / Logstash](http://www.jeffmalnick.com/blog/2015/08/28/elasticsearch-logstash-cli-utility/)
 * [Migrating MySql Data Into Elasticsearch Using Logstash](https://qbox.io/blog/migrating-mysql-data-into-elasticsearch-using-logstash)
@@ -702,6 +718,7 @@ ElasticSearch - Lucene
 * [Balancing an Elasticsearch Cluster by Shard Size](http://engineering.datarank.com/2015/07/08/balancing-elasticsearch-cluster-by-shard-size.html)
 * [내가 운영하는 Elasticsearch 클러스터에 얼마나 많은 샤드가 필요할까?](https://www.elastic.co/kr/blog/how-many-shards-should-i-have-in-my-elasticsearch-cluster)
 * [Implementing a Hot-Warm-Cold Architecture with Index Lifecycle Management](https://www.elastic.co/kr/blog/implementing-hot-warm-cold-in-elasticsearch-with-index-lifecycle-management)
+* [샤드 개수가 성능에 미치는 영향](https://alden-kang.tistory.com/13)
 
 # Solr
 * 번역 Solr vs ElasticSearch

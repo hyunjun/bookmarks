@@ -63,6 +63,7 @@ Algorithm
 * [Fisher-Yates shuffle](http://www.programming-algorithms.net/article/43676/Fisher-Yates-shuffle)
 * [The Stack Overflow Tag Engine – Part 2](http://mattwarren.org/2015/08/19/the-stack-overflow-tag-engine-part-2/)
 * [Maze Classification](http://www.astrolog.org/labyrnth/algrithm.htm)
+* [A Python Module for Maze Search Algorithms | by Muhammad Ahsan Naeem | Sep, 2021 | Towards Data Science](https://towardsdatascience.com/a-python-module-for-maze-search-algorithms-64e7d1297c96)
 * [Google Is Working On A New Type Of Algorithm Called “Thought Vectors”](https://wtvox.com/robotics/google-is-working-on-a-new-algorithm-thought-vectors)
 * [Making maps with noise functions](http://www.redblobgames.com/maps/terrain-from-noise/)
 * [Romantic Cryptography](https://www.cl.cam.ac.uk/~fms27/papers/2000-StajanoHar-romantic.pdf)
@@ -183,6 +184,7 @@ Algorithm
 * [악마와 동전 게임](https://nbviewer.jupyter.org/github/cynthia/pytudes/blob/gh-pages/ipynb/Coin%20Flip.ipynb)
 * [알고리즘의 개념과 알고리즘의 효율적 설계](https://www.youtube.com/watch?v=tgHwP0srUIk)
 * [Python 100제](https://www.notion.so/6ee1860ce29a41bc8eb6b9cfa7d7f06c)
+* [Python 코딩테스트 꿀팁 저장소 · yunsikus](https://yunsikus.github.io/algorithm/2021/03/06/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C%EC%BD%94%ED%85%8C%EC%A0%95%EB%B3%B5/)
 * [Optimal Stopping - 최고의 선택 문제](https://nbviewer.jupyter.org/gist/FinanceData/e5300d99301ffbee54d741d0e62ac361)
 * [수학과 함께 복잡한 문제를 단순하게 만들자!](https://evan-moon.github.io/2019/10/30/make-simple-with-math/)
 * [평방 분할 (Sqrt Decompositon) : 루트로 쪼개보자](https://codingdog.tistory.com/entry/%ED%8F%89%EB%B0%A9-%EB%B6%84%ED%95%A0-Sqrt-Decompositon-%EB%A3%A8%ED%8A%B8%EB%A1%9C-%EC%AA%BC%EA%B0%9C%EB%B3%B4%EC%9E%90)
@@ -193,6 +195,7 @@ Algorithm
   * [Leetcode 1342 - Number of Steps to Reduce a Number to Zero (Google Interview Question) - YouTube](https://www.youtube.com/watch?v=hA2-q9vC6sQ)
   * [Introduction · GitBook](http://lixinchengdu.github.io/algorithmbook/)
   * [New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time - Blind](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
+  * [algo_crawler](https://github.com/SeanHwangG/algo_crawler)
 * [프로그래머스 가장 큰 수 : 수 2개만 고려해 봅시다](https://codingdog.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98-%EC%88%98-2%EA%B0%9C%EB%A7%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [Employee Scheduling](https://developers.google.com/optimization/scheduling/employee_scheduling)
 * [Odd numbers in Pascal’s triangle](https://www.johndcook.com/blog/2020/02/04/odd-numbers-in-pascals-triangle/)
@@ -210,6 +213,7 @@ Algorithm
 * [lis 알고리즘 : lower_bound 이용해서 그리디하게 해결해 봅시다](https://codingdog.tistory.com/entry/lis-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-lowerbound-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EA%B7%B8%EB%A6%AC%EB%94%94%ED%95%98%EA%B2%8C-%ED%95%B4%EA%B2%B0%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4) longest increasing sequence 최장 증가 수열
 * [marking 배열과 sparse array](https://codingdog.tistory.com/entry/marking-%EB%B0%B0%EC%97%B4%EA%B3%BC-sparse-array)
 * [슬라이딩 윈도우 알고리즘 : 2개의 커서가 중요하다](https://codingdog.tistory.com/entry/%EC%8A%AC%EB%9D%BC%EC%9D%B4%EB%94%A9-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-2%EA%B0%9C%EC%9D%98-%EC%BB%A4%EC%84%9C%EB%A7%8C-%EA%B3%84%EC%86%8D-%EC%A6%9D%EA%B0%80%EC%8B%9C%EC%BC%9C-%EB%B3%B8%EB%8B%A4)
+* [Longest Substring Without Repeating Characters 문제를 풀면서 슬라이딩 윈도우를 정복해 봅시다](https://codingdog.tistory.com/589)
 * [An Introduction to Sliding Window Algorithms | by Jordan Moore | Level Up Coding](https://levelup.gitconnected.com/an-introduction-to-sliding-window-algorithms-5533c4fe1cc7)
 * [알고리즘 문제풀이 #4 코딩도장 지뢰찾기 이야기](https://adunhansa.tistory.com/325)
 * [na982 :: 삼성 SW 역량 테스트 어른 상어](https://na982.tistory.com/128)
@@ -233,6 +237,10 @@ Algorithm
 * [nested-data-structure-traversal](https://github.com/josevalim/nested-data-structure-traversal)
 * [Count negative numbers in a sorted matrix, 13 Languages - YouTube](https://www.youtube.com/watch?v=skc7FmE_gj8)
 * [**518일동안 단 하루도 빠지지 않고 알고리즘을 풀었다. | kwiki**](https://kwiki.devserum.com/ko/articles/tech-articles/2021-05-31-518-consecutive-days-algorithm-challenge)
+* [알고리즘과 자료구조를 우선적으로 공부할 필요는 없습니다. | overcurried](https://overcurried.com/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%EA%B3%BC%20%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EB%A5%BC%20%EC%9A%B0%EC%84%A0%EC%A0%81%EC%9C%BC%EB%A1%9C%20%EA%B3%B5%EB%B6%80%ED%95%A0%20%ED%95%84%EC%9A%94%EB%8A%94%20%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4./)
+* [알도개 무한 루프에 빠진 개발자 논쟁 시리즈: 1편 알고리즘과 자료 구조](https://jhrogue.blogspot.com/2021/09/1.html)
+  * [알도개 무한 루프에 빠진 개발자 논쟁 시리즈: 1편 알고리즘과 자료 구조 - YouTube](https://www.youtube.com/watch?v=nErTRDPToSA)
+* [가희배 코테에 나온 수인분당선 문제를 세팅한 이야기](https://codingdog.tistory.com/597)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -319,6 +327,7 @@ Algorithm
 * [디시전 트리 보는 방법 _ 전용준.리비젼](https://www.youtube.com/watch?v=e15BpXdGZ5o)
 * [Awesome Decision Tree Research Papers](https://github.com/benedekrozemberczki/awesome-decision-tree-papers/blob/master/README.md)
 * [Introduction to Decision Trees (Titanic dataset)](https://www.kaggle.com/dmilla/introduction-to-decision-trees-titanic-dataset)
+* [How to visualize decision trees](https://explained.ai/decision-tree-viz/index.html)
 * [Entropy: How Decision Trees Make Decisions](https://towardsdatascience.com/entropy-how-decision-trees-make-decisions-2946b9c18c8)
 * [dtreeviz : Decision Tree Visualization](https://github.com/parrt/dtreeviz)
   * [How to visualize decision trees](https://explained.ai/decision-tree-viz/index.html)
@@ -386,6 +395,8 @@ Algorithm
 * [Genetic Algorithm Implementation in Python](https://www.kdnuggets.com/2018/07/genetic-algorithm-implementation-python.html)
 * [GeneticAlgorithmPython](https://github.com/ahmedfgad/GeneticAlgorithmPython)
 * [Genetic Algorithm Implementation in Python](https://towardsdatascience.com/genetic-algorithm-implementation-in-python-5ab67bb124a6)
+* [유전 알고리즘](https://gils-lab.tistory.com/29)
+* [Self-Parking Car in 500 Lines of Code | Trekhleb](https://trekhleb.dev/blog/2021/self-parking-car-evolution/)
 
 # Graph
 * [2016 그래프이론](https://www.youtube.com/playlist?list=PL52K_8WQO5oXTfEr3nVK3HllrB71hZ-AF)
@@ -398,6 +409,7 @@ Algorithm
 * [Leetcode 743. 다익스트라 알고리즘 Dijkstra Algorithm](https://www.youtube.com/watch?v=yp1leTBR5ko)
 * [다익스트라 알고리즘 : 이미 결정된 노드의 인접 노드를 또 탐색하면 어떻게 될까요?](https://codingdog.tistory.com/entry/%EB%8B%A4%EC%9D%B5%EC%8A%A4%ED%8A%B8%EB%9D%BC-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%9D%B4%EB%AF%B8-%EA%B2%B0%EC%A0%95%EB%90%9C-%EB%85%B8%EB%93%9C%EC%9D%98-%EC%9D%B8%EC%A0%91-%EB%85%B8%EB%93%9C%EB%A5%BC-%EB%98%90-%ED%83%90%EC%83%89%ED%95%98%EB%A9%B4-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%90%A0%EA%B9%8C%EC%9A%94)
 * [잘못 구현한 다익스트라 알고리즘 저격하기](http://www.secmem.org/blog/2019/01/09/wrong-dijkstra/)
+* [정보를 잘 저장해서 사전순 다익스트라 문제를 풀어봅시다](https://codingdog.tistory.com/573)
 * [Contraction Hierarchies path finding algorithm, illustrated using three.js](https://www.mjt.me.uk/posts/contraction-hierarchies/)
 * [The Traveling Tesla Salesman](http://mortada.net/drafts/the-traveling-tesla-salesman.html)
 * [Evolution of a salesman: A complete genetic algorithm tutorial for Python](https://towardsdatascience.com/evolution-of-a-salesman-a-complete-genetic-algorithm-tutorial-for-python-6fe5d2b3ca35)
@@ -479,6 +491,7 @@ Algorithm
 * [Counting hash collisions with the birthday paradox](http://matt.might.net/articles/counting-hash-collisions/)
 * [해싱 - 1 해시의 정의와 목적](http://codingmonster.net/archives/13412)
 * [해싱 - 2 해시와 탐색](http://codingmonster.net/archives/13426)
+* [해쉬함수](https://developer88.tistory.com/389)
 * [Hash Tables and Hash Functions](https://www.youtube.com/watch?v=KyUTuwz_b7Q)
 * [An Introduction to Hashing in the Era of Machine Learning](https://blog.bradfieldcs.com/an-introduction-to-hashing-in-the-era-of-machine-learning-6039394549b0)
 * [SHA-256 Hash Algorithm](http://jusths.tistory.com/43)
@@ -488,6 +501,7 @@ Algorithm
 * [Why databases use ordered indexes but programming uses hash tables](https://www.evanjones.ca/ordered-vs-unordered-indexes.html)
   * This article looks at why hash maps (unsorted) are popular for in-memory indexes whereas b-tree (sorted) are common in databases. It describes the trade-offs of the two approaches, and how those best fit in-memory/db use cases.
 * [MinHash란? - 완두블로그](https://wani.kr/posts/2016/11/24/minhash/)
+* [neuralhash-collisions: A catalog of naturally occurring images whose Apple NeuralHash is identical](https://github.com/roboflow-ai/neuralhash-collisions)
 
 ## Hash Consistent Hashing
 * [**입 개발 Consistent Hashing 에 대한 기초**](http://www.popit.kr/consistent-hashing/)
@@ -535,9 +549,11 @@ Algorithm
 # Permutation
 * [Compute The Next Permutation of A Numeric Sequence - Case Analysis ("Next Permutation" on Leetcode)](https://www.youtube.com/watch?v=quAS1iydq7U)
 * [MergeShuffle: A Very Fast, Parallel Random Permutation Algorithm](http://arxiv.org/abs/1508.03167)
+* [모든 Permutation 출력하기](https://www.jiwon.me/permutations/)
 
 # Probablistic Filter
 * [Probablistic Filter 확률론적 필터](https://docs.google.com/presentation/d/e/2PACX-1vRuVja4WtbxkL800SKOYeiTXvi7IciqgRAZjXqqkXCV4KWbxzLcCP2RsadezenK80Q8BrOAn3GrMGvo/pub) Bloom Filter, Counting Filter, Cuckoo hash
+* [Ribbon filter: Practically smaller than Bloom and Xor](https://engineering.fb.com/2021/07/09/data-infrastructure/ribbon-filter/)
 
 ## Probablistic Filter Bloom Filter
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
@@ -619,6 +635,7 @@ Algorithm
 * [인트로 정렬 : c++의 sort는 왜 최악의 경우에도 빠르게 동작하는가?](https://codingdog.tistory.com/entry/%EC%9D%B8%ED%8A%B8%EB%A1%9C-%EC%A0%95%EB%A0%AC-c%EC%9D%98-sort%EB%8A%94-%EC%99%9C-%EC%B5%9C%EC%95%85%EC%9D%98-%EA%B2%BD%EC%9A%B0%EC%97%90%EB%8F%84-%EB%B9%A0%EB%A5%B4%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80)
 * [k번째 수 찾기:count sort를 응용해 봅시다](https://codingdog.tistory.com/entry/k%EB%B2%88%EC%A7%B8-%EC%88%98-%EC%B0%BE%EA%B8%B0-count-sort%EB%A5%BC-%EC%9D%91%EC%9A%A9%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [Tim sort에 대해 알아보자](https://d2.naver.com/helloworld/0315536)
+* [Beating TimSort at Merging - Earthly Blog](https://earthly.dev/blog/python-timsort-merge/)
 * [Selection Sort Algorithm Visually Explained](https://levelup.gitconnected.com/selection-sort-algorithm-visually-explained-5bdba8c2acb1)
 * [median of median : 피벗을 중앙의 중앙값을 선택한다](https://codingdog.tistory.com/entry/median-of-median-%ED%94%BC%EB%B2%97%EC%9D%84-%EC%A4%91%EC%95%99%EC%9D%98-%EC%A4%91%EC%95%99%EA%B0%92%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%9C%EB%8B%A4)
 
@@ -645,6 +662,7 @@ Algorithm
 * [String Interview Questions: The Ultimate Guide](https://www.byte-by-byte.com/strings/)
 * [Beating Textbook Algorithms in String Search](https://medium.com/wix-engineering/beating-textbook-algorithms-in-string-search-5d24b2f1bbd0)
 * [Code optimization, how to optimize the code, code performance, how to increase code performance, how to make code more readable. | JavaScript In Plain English](https://medium.com/javascript-in-plain-english/optimize-your-code-and-itll-execute-up-to-55-faster-%EF%B8%8F-3f0c1929ab07) palindrome
+* [문자열 padding 처리로 가희와 파일탐색기 문제를 풀어봅시다](https://codingdog.tistory.com/554)
 * [Aho Corasick](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
   * [Aho-Corasick Algorithm(아호 코라식 알고리즘)](https://www.slideshare.net/ssuser81b91b/ahocorasick-algorithm)
   * [Aho-Corasick string matching algorithm](http://hwamir.tistory.com/)
@@ -680,7 +698,6 @@ Algorithm
 * [백준 1060번 구간 : 후보해를 추린다](https://codingdog.tistory.com/entry/%EB%B0%B1%EC%A4%80-1060%EB%B2%88-%EA%B5%AC%EA%B0%84-%ED%9B%84%EB%B3%B4%ED%95%B4%EB%A5%BC-%EC%B6%94%EB%A6%B0%EB%8B%A4)
 
 # Tree
-* [강좌15 - 자료구조(AVL 트리(tree))](https://www.zerocho.com/category/Algorithm/post/583cacb648a7340018ac73f1)
 * [Left-leaning Red-Black Trees](http://www.cs.princeton.edu/~rs/talks/LLRB/LLRB.pdf)
 * [Tree compression using string grammars](http://arxiv.org/abs/1504.05535)
 * [The easy way to implement a Red-Black tree](http://www.garrisonjensen.com/programming/2015/05/15/easy-red-black-tree.html)
@@ -709,10 +726,13 @@ Algorithm
 * [트리 dp : 스크루지 민호 문제로 간단한 것만 풀어 봅시다](https://codingdog.tistory.com/entry/%ED%8A%B8%EB%A6%AC-dp-%EC%8A%A4%ED%81%AC%EB%A3%A8%EC%A7%80-%EB%AF%BC%ED%98%B8-%EB%AC%B8%EC%A0%9C%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B2%83%EB%A7%8C-%ED%92%80%EC%96%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 
 ## AVL Tree
+* [강좌15 - 자료구조(AVL 트리(tree))](https://www.zerocho.com/category/Algorithm/post/583cacb648a7340018ac73f1)
 * [AVL Tree](https://ratsgo.github.io/data%20structure&algorithm/2017/10/27/avltree/)
+* [코드라떼 자바 자료구조 - AVL 트리 개념 - YouTube](https://www.youtube.com/watch?v=9BiHgy40NNE)
 
 ## B Tree
 * [The Ubiquitous B-Tree](http://wwwold.cs.umd.edu/class/fall2002/cmsc818s/Readings/b-tree.pdf)
+* [B-tree Path Hints](https://github.com/tidwall/btree/blob/master/PATH_HINT.md)
 * [**EBtree - Design for a Scheduler and Use (Almost) Everywhere**](https://www.youtube.com/watch?v=fXuYWqWsdFQ)
 
 ## Binary Search Tree BST
@@ -749,6 +769,7 @@ Algorithm
 * [qp tries: smaller and faster than crit-bit tries - Tony Finch](http://fanf.livejournal.com/137283.html)
 * [트라이 (trie)](https://www.youtube.com/watch?v=7e1b70dTAd4)
 * [trie에서 공간을 줄이기 위해 포인터를 어떻게 쪼갤까요](https://codingdog.tistory.com/entry/trie%EC%97%90%EC%84%9C-%EA%B3%B5%EA%B0%84%EC%9D%84-%EC%A4%84%EC%9D%B4%EA%B8%B0-%EC%9C%84%ED%95%B4-%ED%8F%AC%EC%9D%B8%ED%84%B0%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%AA%BC%EA%B0%A4%EA%B9%8C%EC%9A%94)
+* [Optimizing Hash-Array Mapped Tries for Fast and Lean Immutable JVM Collections | the morning paper](https://blog.acolyer.org/2015/11/27/hamt/)
 
 # Viterbi
 * greedy의 문제점을 해결하기 위해 only one best path를 찾는 방법

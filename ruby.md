@@ -53,17 +53,20 @@ Ruby
 * [**What causes Ruby memory bloat? – Joyful Bikeshedding**](https://www.joyfulbikeshedding.com/blog/2019-03-14-what-causes-ruby-memory-bloat.html)
 * [루비(Ruby) 버전 3.0.0, 병렬실행 및 타입설명 지원 - CIO Korea](https://www.ciokorea.com/news/177799) rector
 * [Ruby 3, concurrency and the ecosystem · Kir Shatrov](https://kirshatrov.com/2021/01/06/ruby-concurrency-and-ecosystem/)
+* [How to switch to an older version of Ruby in Mac OS | by Bryant Jimin Son | Oct, 2021 | Medium](https://bryantson.medium.com/how-to-switch-to-an-older-version-of-ruby-in-mac-os-83ef9dd107cc)
 
 # Book
 * [Crystal for Rubyists](http://www.crystalforrubyists.com/)
 
 # Library
+* [classroom: GitHub Classroom automates repository creation and access control, making it easy for teachers to distribute starter code and collect assignments on GitHub](https://github.com/education/classroom)
 * [Cuba](http://theguidetocuba.io/online.html)
 * [ETL Workflow](https://github.com/OBSLabs/etl)
 * [Fast Ruby :heart_eyes: —— Collect Common Ruby idioms. https://github.com/JuanitoFatas/fast-ruby](https://github.com/JuanitoFatas/fast-ruby)
 * [Fluentd: a High Performance Unified Logging Layer](http://www.linux.com/news/enterprise/high-performance/147-high-performance/847237-fluentd-a-high-performance-unified-logging-layer)
 * [foghorn - Add a little Foghorn Leghorn to your ruby](https://github.com/rickr/foghorn)
 * [forward-proxy: 100 LOC Ruby forward proxy using only standard libraries](https://github.com/jamesmoriarty/forward-proxy)
+* [Fullstaq Ruby: Ruby, built for production](https://fullstaqruby.org/)
 * [gemfly - Update your Gemfile gems](http://gemfly.findings.co/)
 * [GraalVM for Ruby - RubySG - YouTube](https://www.youtube.com/watch?v=vh80hgoVTWI)
 * [infraruby](http://infraruby.com/)
@@ -87,6 +90,7 @@ Ruby
   * [맥 OS에서 Ruby Gem Permission Denied 문제 해결](http://jojoldu.tistory.com/288)
   * [서비스 중단없이 루비 버전 2.6 업그레이드 하기](https://medium.com/daangn/서비스-중단없이-루비-버전-2-6-업그레이드-하기-db8991c19050)
   * [gem install error](https://jybaek.tistory.com/896)
+* [ruby-packer: Packing your Ruby application into a single executable](https://github.com/pmq20/ruby-packer)
 * [rubyspeed: Compile ruby functions to C](https://github.com/agrafix/rubyspeed)
 * [scientist: A Ruby library for carefully refactoring critical paths](https://github.com/github/scientist)
   * [scientist - 깃허브, 루비 언어용 리팩토링 도구 출시](http://www.bloter.net/archives/249184)
@@ -127,3 +131,8 @@ Ruby
 * [**Java&Spring 개발자가 Ruby on Rails 를 해보고 마주친 생각들**](https://blog.dramancompany.com/2020/11/java-spring-ruby-on-rails/)
 * [Learn Ruby - Free Interactive Ruby Tutorial](https://www.learnrubyonline.org/)
 * Sidekiq [사이드킥 큐에서 태스크나 예약작업 삭제하기](https://www.44bits.io/ko/post/deleting-sidekiq-scheduled-job)
+
+# TDD, Test
+* [rspec-rails: RSpec for Rails 5+](https://github.com/rspec/rspec-rails)
+  * [parallel_tests: Ruby: 2 CPUs = 2x Testing Speed for RSpec, Test::Unit and Cucumber](https://github.com/grosser/parallel_tests)
+    * [병렬테스트로 Rspec 테스트 속도 줄이기 - DRAMA&COMPANY](https://blog.dramancompany.com/2021/10/%eb%b3%91%eb%a0%ac%ed%85%8c%ec%8a%a4%ed%8a%b8%eb%a1%9c-rspec-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%86%8d%eb%8f%84-%ec%a4%84%ec%9d%b4%ea%b8%b0/)

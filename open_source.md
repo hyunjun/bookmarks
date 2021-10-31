@@ -74,11 +74,22 @@ Open Source
   * [언택트 시대, 오픈소스 기여를 위해 고려해야 할 것들 - YouTube](https://www.youtube.com/watch?v=hrjbqK03O9k)
 * [“하나의 오픈소스, 많은 기여자” 프로메테우스가 작동하는 아름다운 방식 - ITWorld Korea](https://www.itworld.co.kr/news/178289)
 * [How I became a Kubernetes maintainer in 4 hours a week | Opensource.com](https://opensource.com/article/21/2/kubernetes-maintainer)
+* [Kubernetes에 컨트리뷰션 하는 아주 자세한 방법을 알려드립니다. – tech.kakao.com](https://tech.kakao.com/2021/10/01/kubernetes-contribution/)
+  * 기여하고자 하는 코드가 어떤 SIG(Special Interest Group)에 속하는지 파악
+  * 버그 수정, 동작을 변경하지 않는 리팩토링, 성능 개선, 테스트 코드 수정 등은 KEP 작성 없음
+  * 새로운 오브젝트나 기능 제안, 기존 API와 기능의 동작 변경, 변경사항이 사용자에게 영향을 줄 때에는 KEP(Kubernetes Enhancement Proposal) 작성
+  * 코드는 kuberntes 저장소, KEP는 enhancements 저장소, 문서는 website 저장소에 PR
+  * PR을 올린 후에도 SIG의 Slack 채널에서 PR에 대한 설명과 리뷰요청을 하는 게 좋음
+  * Kubernetes org 멤버만이 CI 실행 가능
+  * 승인받을 준비가 되었다면 Slack 채널에서 SIG 리더나 승인자 설득
 * [꼼수로 오픈소스 기여하기. 오픈소스 기여로 매력적인 GitHub 프로필 만들기 | by Woosik Kim | Apr, 2021 | Medium](https://well-balanced.medium.com/%EA%BC%BC%EC%88%98%EB%A1%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0-b34ee4cc2bc2)
 * [Selecting open-source code for LLDP: lldpd vs openlldp - IoT Central](https://www.iotcentral.io/blog/selecting-open-source-code-for-lldp-lldpd-vs-openlldp)
 * [라인의 풀타임 오픈소스 개발팀 이야기 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=QdRCe_IGGzI)
 * [오픈소스를 여행하는 히치하이커를 위한 안내서 · Present](https://present.do/decks/60bf97881903093a77d166ad)
 * [Patents in Open Source](https://google.github.io/opencasebook/patents/)
+* [처음으로 오픈소스에 기여해 본 이야기 | Lucas wiki](https://wiki.lucashan.space/essay/contribute-to-open-source/)
+  * GraphQL을 사용하면서 사용한 graphqurl에서 introspection query가 처리 안 되는 문제를 발견하고 이유를 찾다가 graphqurl의 헤더 문제임을 찾아내고 기여해서 수정한 과정
+* [슬기로운 오픈소스 생활 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=2lL2eRQch2o)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
@@ -124,6 +135,8 @@ Open Source
     * "harding the shards: managing datastore locality at scale with Akkio"라는 Facebook 기사 요약
 * [Buck - A high-performance build tool](https://buckbuild.com/)
   * [HOW FACEBOOK USES PYTHON TO BUILD DATACENTERS AT SCALE](https://www.youtube.com/watch?v=dD27FtU-0w4)
+* [Glean | Glean](https://glean.software/)
+  * [Glean - 소스코드 정보 수집,검색 시스템 | GeekNews](https://news.hada.io/topic?id=4928)
 * [Hydra - a framework for elegantly configuring complex applications https://cli.dev ](https://github.com/facebookresearch/hydra)
   * [페이스북, 머신러닝 등 복잡한 프로그램 개발 단순화하는 오픈소스 프레임 워크 공개](http://www.aitimes.kr/news/articleView.html?idxno=14387)
   * [복잡한 애플리케이션을 우아하게 구성하기위한 프레임 워크](https://pjt3591oo.github.io/hydra_translate/build/html/index.html)
@@ -139,6 +152,7 @@ Open Source
 * [zstd Zstandard - Fast real-time compression algorithm http://www.zstd.net ](https://github.com/facebook/zstd)
   * [5 ways Facebook improved compression at scale with Zstandard](https://code.fb.com/core-data/zstandard/)
     * ORC 파일이나 데이터베이스 저장과 같은 사용 사례
+  * [The Rise of ZStandard: Apache Spark/Parquet/ORC/Avro - YouTube](https://www.youtube.com/watch?v=dTGxhHwjONY)
 
 # fossasia
 * [fossasia](https://fossasia.org/)
@@ -205,6 +219,7 @@ Open Source
 * [Matrix.org - An open network for secure, decentralized communication](https://matrix.org/)
 * [Open Source Insights](https://deps.dev/)
   * [Open Source Insights - 오픈소스를 이해하기 쉽게 | GeekNews](https://news.hada.io/topic?id=4429)
+* [Open Source Vulnerability format - Open Source Vulnerability schema](https://ossf.github.io/osv-schema/) 오픈소스의 취약점을 데이터베이스 간에 교환할 수 있도록 제안된 표준 형식
 * [QP™ (Quantum Platform) is a family of lightweight, open source software frameworks for building responsive and modular real-time embedded applications as systems of cooperating, event-driven active objects (actors)](http://www.state-machine.com/qp/index.php)
 * [ScanCode - a tool to scan code and detect licenses, copyrights and more](https://github.com/nexB/scancode-toolkit/)
 * [Sourcegraph - 오픈소스 코드 검색하려면 ‘소스그래프’](http://www.bloter.net/archives/226279)
@@ -221,7 +236,11 @@ Open Source
   * [Elastic Changes Licences for Elasticsearch and Kibana: AWS Forks Both](https://www.infoq.com/news/2021/01/elastic-aws-open-source/)
   * [Elastic과 AWS의 분쟁, 어떻게 봐야 할까? :: Outsider's Dev Story](https://blog.outsider.ne.kr/1533)
 * [Reading AGPL — /dev/lawyer](https://writing.kemitchell.com/2021/01/24/Reading-AGPL.html)
+* [GPL의 종말 | saturnsoft.net](https://www.saturnsoft.net/opensource/2021/07/22/end-of-gpl/)
+* [Grafana, Loki, Tempo의 라이센스가 AGPL이 되면 무슨 영향을 받을까? :: Outsider's Dev Story](https://blog.outsider.ne.kr/1555)
 * [Olive Platform : 카카오에서 제공하는 오픈소스 관리 서비스 – tech.kakao.com](https://tech.kakao.com/2021/02/22/olive-platform/)
+* [오픈소스 라이선스 변화의 흐름 – tech.kakao.com](https://tech.kakao.com/2021/09/08/opensource-license/)
+  * [오픈소스 라이선스 변화의 흐름 | GeekNews](https://news.hada.io/topic?id=4991)
 
 # Line
 * [LINE Game AirBorne DataCenter 소개](http://developers.linecorp.com/blog/ko/?p=230)
@@ -305,6 +324,9 @@ Open Source
   * [Highly Available and Resilient Multi-Site Deployments Using Spinnaker](https://www.infoq.com/presentations/pivotal-spinnaker-cloud-resiliency/)
 * [SVT-AV1: open-source AV1 encoder and decoder](https://netflixtechblog.com/svt-av1-an-open-source-av1-encoder-and-decoder-ad295d9b5ca2)
 
+# NexClipper
+* [Cloud-Native Open-Source Projects from NexClipper](https://nexclipper.io/plans/)
+
 # Pinterest
 * [Pinterest open-sources Terrapin, a tool for serving data from Hadoop](http://venturebeat.com/2015/09/14/pinterest-open-sources-terrapin-a-tool-for-serving-data-from-hadoop/)
 * [Open-sourcing Terrapin: A serving system for batch generated data](https://engineering.pinterest.com/blog/open-sourcing-terrapin-serving-system-batch-generated-data-0)
@@ -321,6 +343,7 @@ Open Source
 * Shardlib [Sharding, simplification, and Twitter’s ads serving platform](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/sharding-simplification-and-twitters-ads-serving-platform.html)
 
 # Uber
+* [Cost-Efficient Open Source Big Data Platform at Uber](https://eng.uber.com/cost-efficient-big-data-platform/)
 * Apollo
   * [Real Time Analytics at UBER Scale](https://www.youtube.com/watch?v=XSXvPNEykb4)
   * [Video: Real-Time Analytics at UBER Scale](https://www.memsql.com/blog/real-time-analytics-at-uber-scale/)
@@ -329,7 +352,6 @@ Open Source
   * SQL 기반의 스트리밍 분석 플랫폼(KSQL에 비견)
 * [deck.gl - a WebGL-powered framework for visual exploratory data analysis of large datasets](https://uber.github.io/deck.gl/)
 * Gairos [Causal design patterns for data analysts | Emily Riederer](https://emilyriederer.netlify.app/post/causal-design-patterns/)
-* [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/) 지형 공간 데이터를 시각화 탐색을 용이하도록 하기 위해 개발한 오픈 소스 그리드 시스템
 * Neuropod [Uber Open-Sources AI Abstraction Layer Neuropod](https://www.infoq.com/news/2020/06/uber-ai-neuropod/)
 * [piranha: A tool for refactoring code related to feature flag APIs](https://github.com/uber/piranha/)
   * [Uber Open-Sources Tool to Automatically Clean Up Stale Code](https://www.infoq.com/news/2020/06/uber-piranha/)
