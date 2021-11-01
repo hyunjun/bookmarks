@@ -112,6 +112,7 @@ NoSQL
   * [CockroachDB 클러스터 설치 스크립트](https://www.sauru.so/blog/cockroach-cluster-setup-script/)
   * [CockroachDB 클러스터 가용성 시험](https://www.sauru.so/blog/availablility-of-cockroach/)
 * [카크로치디비 컨트리뷰트](https://marsettler.com/docs/stable/ko/contribute-to-cockroachdb.html)
+* [Cockroach Labs Announces CockroachDB Serverless](https://www.infoq.com/news/2021/10/cockroachdb-serverless/)
 
 # CouchBase
 * [QUERY TRANSLATOR - SQL TO COUCHBASE N1QL](http://www.querycouchbase.com/#/query)
