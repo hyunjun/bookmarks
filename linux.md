@@ -364,7 +364,6 @@ Linux
   * fish shell, fzf, fd, ripgrep, htop, glances, virtualenv, virtualfish, pyenv, nodenv, rbenv, pipx, ctop, lazydocker, homebrew, asciinema, colordiff, diff-so-fancy, tree, bat, httpie, tldr, exa, litecli, pgcli, mas, ncdu
   * [Starship: Cross-Shell Prompt](https://starship.rs/)
   * [z - jump around](https://github.com/rupa/z)
-  * [ripgrep: ripgrep recursively searches directories for a regex pattern](https://github.com/BurntSushi/ripgrep)
 * [UNIX TOOLBOX](http://cb.vu/unixtoolbox.xhtml)
 * `sync && echo [1|2|3] > /proc/sys/vm/drop_caches` & `[swapoff|swapon] -a`
   * [Empty the linux buffer cache](http://www.commandlinefu.com/commands/view/1026/empty-the-linux-buffer-cache)
@@ -389,7 +388,6 @@ Linux
 * [**The Art of Command Line**](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md) 기초적인 부분을 거의 모두 정리해 놓은 매우 유용한 자료
 * [Command line reference – Database and OS scripting](https://ss64.com)
 * [Munging CSV files with standard Unix tools](https://www.johndcook.com/blog/2019/08/30/cut-sort-awk/) cut sort awk
-* [리눅스 명령어 삼대장: find, grep, awk](https://jybaek.tistory.com/704)
 * [**스타트업 개발자가 리눅스 서버에 들어가면 언제나 하는 작업들**](https://www.mimul.com/blog/linux-server-operations/) operation에 관계되는 여러가지 명령어 정리
 * [59 Linux Networking commands and scripts](https://haydenjames.io/linux-networking-commands-scripts/)
 * [리눅스 cat, more, less, head, tail 명령어 비교 정리 (파일 내용 확인 출력)](https://withcoding.com/111)
@@ -423,8 +421,6 @@ Linux
 * [What Linux Version Am I Running? Here's How to Find Out](https://linuxiac.com/what-linux-version/)
 * [신입 or Jr 엔지니어 면접을 위한 리눅스 명령어 top 10 - YouTube](https://www.youtube.com/watch?v=u9RukvKZJZM)
 * [bashcrawl · Learn Linux commands by playing a simple text adventure](https://gitlab.com/slackermedia/bashcrawl)
-* [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
-  * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
 * `at`
   * [practice - at](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
   * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)
@@ -579,7 +575,17 @@ Linux
   * [리눅스에서 Grep and , or , not 사용법](http://hamait.tistory.com/809)
   * [Use long flags when scripting |> News and podcasts for developers |> Changelog](https://changelog.com/posts/use-long-flags-when-scripting)
   * [(리눅스 업스킬 도전 #8) 문자열 탐색을 위한 grep](https://jhrogue.blogspot.com/2020/09/8-grep.html)
-  * ripgrep [Finding CSV files that start with a BOM using ripgrep | Simon Willison’s TILs](https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep)
+  * [`ack` - ack is a tool like grep, optimized for developers](https://beyondgrep.com)
+    * [ACK: 개발자용 GREP](https://iamsang.com/blog/2014/11/22/ack/)
+  * [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
+  * [BigGrep is a tool to index and search a large corpus of binary files that uses a probabalistic N-gram based approach to balance index size and search speed](https://github.com/cmu-sei/BigGrep)
+  * [hgrep: Grep with human-friendly search results](https://github.com/rhysd/hgrep)
+  * [ICgrep: The fastest way to search text to find the patterns](http://icgrep.com/)
+  * [ripgrep: ripgrep recursively searches directories for a regex pattern](https://github.com/BurntSushi/ripgrep)
+    * [Finding CSV files that start with a BOM using ripgrep | Simon Willison’s TILs](https://til.simonwillison.net/bash/finding-bom-csv-files-with-ripgrep)
+  * [sift is a fast and powerful open source alternative to grep](http://sift-tool.org/info.html)
+    * [Super Fast and Accurate string distance algorithm: Sift4](http://siderite.blogspot.com/2014/11/super-fast-and-accurate-string-distance.html)
+  * [ugrep: 🔍NEW ugrep v3.1: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4), documents and more. A faster, user-friendly and compatible grep replacement](https://github.com/Genivia/ugrep)
 * `gzip`
   * [Parallel gzip compression with pigz](https://rachaellappan.github.io/pigz/)
   * Pigz [Lei Mao's Log Book – Parallel Gzip - Pigz](https://leimao.github.io/blog/Parallel-Gzip-Pigz/)
@@ -947,6 +953,7 @@ Linux
 * [linux-insides - A little bit about a linux kernel](https://github.com/0xAX/linux-insides)
 * [Multitasking in the Linux Kernel. Workqueues](http://kukuruku.co/hub/nix/multitasking-in-the-linux-kernel-workqueues)
 * [Timers in the Linux kernel](https://github.com/0xAX/linux-insides/blob/master/Timers/timers-1.md)
+* [Create a timer on Linux | Opensource.com](https://opensource.com/article/21/10/linux-timers) A tutorial showing how to create a POSIX-compliant interval timer
 * [Writing a Simple Linux Kernel Module](https://blog.sourcerer.io/writing-a-simple-linux-kernel-module-d9dc3762c234)
 * [Initialization](https://github.com/0xAX/linux-insides/tree/master/Initialization)
 * [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
@@ -988,9 +995,8 @@ Linux
 * [Top 7 terminal emulators for Linux | Opensource.com](https://opensource.com/life/17/10/top-terminal-emulators)
   * GNOME terminal, Guake, guake, Konsole, konsolee, Terminator, Tilda, Xterm, Yakuake
 * [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
-* [AGREP - approximate GREP for fast fuzzy string searching](https://github.com/Wikinaut/agrep)
 * [alacritty - A cross-platform, GPU-accelerated terminal emulator](https://github.com/alacritty/alacritty)
-* [BigGrep is a tool to index and search a large corpus of binary files that uses a probabalistic N-gram based approach to balance index size and search speed](https://github.com/cmu-sei/BigGrep)
+* [auto-cpufreq: Automatic CPU speed & power optimizer for Linux](https://github.com/AdnanHodzic/auto-cpufreq)
 * [broot - Get an overview of a directory, even a big one](https://dystroy.org/broot/)
 * [Byobu - text-based window manager and terminal multiplexer](http://byobu.co/)
 * [**cheat.sh - the only cheat sheet you need https://cheat.sh**](https://github.com/chubin/cheat.sh)
@@ -1027,7 +1033,6 @@ Linux
   * [kkamagui의 작업실 :: xrandr로 화면 배열 변경 및 밝기 변경하기](https://kkamagui.tistory.com/930)
   * [kkamagui의 작업실 :: 리눅스용 간단한 볼륨 컨트롤 Pulseaudio Volume Control 설치하기](https://kkamagui.tistory.com/931)
   * [kkamagui의 작업실 :: i3wm 윈도우 매니저에서 배경 이미지 설정하기](https://kkamagui.tistory.com/934)
-* [ICgrep: The fastest way to search text to find the patterns](http://icgrep.com/)
 * Inotify
   * [Inotify: Efficient, Real-Time Linux File System Event Monitoring](https://www.infoq.com/articles/inotify-linux-file-system-event-monitoring)
   * [Linux file system events with C, Python and Ruby](http://markusjais.com/linux-file-system-events-with-c-python-and-ruby/)
@@ -1070,14 +1075,11 @@ Linux
 * [RTail - Terminal output to the browser in seconds, using UNIX pipes](http://rtail.org/)
 * [SC-IM - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal](https://github.com/andmarti1424/sc-im)
 * [shed - the sh editor](https://github.com/mplewis/shed)
-* [sift is a fast and powerful open source alternative to grep](http://sift-tool.org/info.html)
-  * [Super Fast and Accurate string distance algorithm: Sift4](http://siderite.blogspot.com/2014/11/super-fast-and-accurate-string-distance.html)
 * [snappy-start: Tool for process startup snapshots](https://github.com/google/snappy-start)
 * [spaceman-diff - Diffing Images on the Command Line](http://zachholman.com/posts/command-line-image-diffs/)
 * [sshync - Auto-sync files or directories over SSH using fs.watch()](https://github.com/mateogianolio/sshync)
 * [toybox: all-in-one Linux command line](https://github.com/landley/toybox)
 * [trash-cli - Command Line Interface to FreeDesktop.org Trash](https://github.com/andreafrancia/trash-cli)
-* [ugrep: 🔍NEW ugrep v3.1: ultra fast grep with interactive query UI and fuzzy search: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4), documents and more. A faster, user-friendly and compatible grep replacement](https://github.com/Genivia/ugrep)
 * [unetbootin.github.io - create bootable Live USB drives](http://unetbootin.github.io/)
 * [**up: Ultimate Plumber is a tool for writing Linux pipes with instant live preview**](https://github.com/akavel/up)
   * [up - Ultimate Plumber | GeekNews](https://news.hada.io/topic?id=3989)
@@ -1092,6 +1094,7 @@ Linux
 
 # Log
 * [11. 로그관리, systemd-journald, rsyslogd, journalctl, syslog, journal :: 0부터 시작하는 해킹공부](https://haker.tistory.com/52)
+* logrotate [Rotate and archive logs with the Linux logrotate command | Opensource.com](https://opensource.com/article/21/10/linux-logrotate)
 * rsyslog [Monitoring Linux Logs with Kibana and Rsyslog | by Antoine Solnichkin | devconnected — DevOps, Sysadmins & Engineering | Medium](https://medium.com/schkn/monitoring-linux-logs-with-kibana-and-rsyslog-4dfbbd287807)
 
 # Memory
