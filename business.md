@@ -436,6 +436,7 @@ Business
 * [리뷰 작성 시 주의해야 할 세 가지 함정](https://camp.lemonbase.com/review/trap)
 * [여름에도 리뷰를 해야 하는 이유 - 지금을 놓치면 12월에 후회하실지 모릅니다](https://camp.lemonbase.com/review/mid-year)
 * [구성원의 성장을 위한 리뷰의 한끗 - 더 의미있는 리뷰, 어떻게 하면 될까요?](https://camp.lemonbase.com/review)
+* [업무 평가 하기](https://brunch.co.kr/@jinhoyooephf/22)
 
 # CEO
 * [벤 호로위츠 "CEO 임무는 기업문화 만들기..원칙 세우고 예외 없이 적용하라"](https://news.v.daum.net/v/20210530182001925) 하드씽 Hard Thing
