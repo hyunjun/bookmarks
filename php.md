@@ -96,6 +96,7 @@ PHP
   * [액션으로 리팩토링하기](https://xly.kr/posts/28)
   * [The simple and awesome way to deploy a Laravel and React.js application on a shared hosting server using git](https://medium.com/@000kelvin/the-simple-and-awesome-way-to-deploy-a-laravel-and-react-js-a8b547cbbc75)
   * [초간단 OSX El Capitan에서 Laravel 개발환경 구축 - 완두블로그](https://wani.kr/posts/2015/11/01/laravel-enviroment-settings/)
+* opcache [How opcache works](https://www.npopov.com/2021/10/13/How-opcache-works.html)
 * phan
   * [PHP 함수 타입 선언과 정적분석도구 phan 활용하기](http://www.haruair.com/blog/3962)
 * [phel-lang: Phel is a functional programming language that compiles to PHP. It is a dialect of Lisp inspired by Clojure and Janet](https://github.com/phel-lang/phel-lang)
