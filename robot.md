@@ -42,6 +42,8 @@ Robot
 * [Continual Learning for Robotics(1)](https://ropiens.tistory.com/133?category=992370)
 * [Continual Learning for Robotics(2)](https://ropiens.tistory.com/143?category=992370)
 * [Robot Dogs: A Programmer's Best Friend - YouTube](https://www.youtube.com/watch?v=U2nNI9Yp_0g)
+* [Opening up a physics simulator for robotics | DeepMind](https://deepmind.com/blog/announcements/mujoco)
+  * DeepMind가 로보틱스 연구자들이 많이 사용하는 물리 시뮬레이터인 [MuJoCo](https://mujoco.org/download)를 인수, 무료 공개
 
 # Book
 * [추천! 로봇공학 / 기계학습 무료 교재(pdf) 15가지](http://t-robotics.blogspot.in/2015/01/pdf-15.html)
