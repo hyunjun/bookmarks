@@ -99,6 +99,7 @@ Sports
 * [기사 - 이지풍 코치의 반대 의견 13(完) : 내가 선출이 아니라 가질 수 있는 능력](https://www.ddanzi.com/ddanziNews/707183686)
 * [로봇 심판과 판정 알고리즘의 의미있는 도전](https://brunch.co.kr/@kakao-it/290)
 * [메이저리그의 '야구 실험'은 성공했을까?(1)](https://spoflix.tistory.com/119)
+* [메이저리그의 '야구 실험'은 성공했을까?(2)](https://spoflix.tistory.com/120)
 
 ## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
