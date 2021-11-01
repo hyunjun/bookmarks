@@ -411,6 +411,11 @@ AWS
 * [Mistakes I've Made in AWS | Laravel News](https://laravel-news.com/aws-mistakes)
 * [Five Different Ways to Build AWS Infrastructure - DZone Cloud](https://dzone.com/articles/five-different-ways-to-build-aws-infrastructure)
 * [Top 20 Most Used AWS Services Explained](https://blog.suhailkakar.com/top-20-most-used-aws-services-explained)
+* [Limitless Servers in a Serverless World | by Ryler Hockenbury | Oct, 2021 | AWS in Plain English](https://aws.plainenglish.io/limitless-servers-in-a-serverless-world-20872442f1ff)
+* [Infrastructure Automation for DynamoDB | by satish1v | Oct, 2021 | AWS in Plain English](https://aws.plainenglish.io/infrastructure-automation-for-dynamodb-6184f63da967)
+* [Detecting Locked Bicycle Stations: An AWS Serverless Story (Part 1) | by Jean Baptiste Muscat | CodeX | Medium](https://medium.com/codex/detecting-locked-bicycle-stations-an-aws-serverless-story-part-1-95dcdb477649)
+* [Detecting Locked Bicycle Stations: An AWS Serverless Story (Part 2) | by Jean Baptiste Muscat | CodeX | Medium](https://medium.com/codex/detecting-locked-bicycle-stations-an-aws-serverless-story-part-2-b1967d639699)
+* [Detecting Locked Bicycle Stations: An AWS Serverless Story (Part 3) | by Jean Baptiste Muscat | CodeX | Sep, 2021 | Medium](https://medium.com/codex/detecting-locked-bicycle-stations-an-aws-serverless-story-part-3-d532318dfca7)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -618,6 +623,7 @@ AWS
 * [꿀벌개발일지 :: DynamoDB: Building NoSQL Database-Driven Applications 노트](https://ohgyun.com/807)
 * [꿀벌개발일지 :: DynamoDB: 고민했던 것들에 대한 정리](https://ohgyun.com/808)
 * [꿀벌개발일지 :: DynamoDB: on-demand 모드의 오토 스케일링](https://ohgyun.com/809)
+* [Infrastructure Automation for DynamoDB | by satish1v | Oct, 2021 | AWS in Plain English](https://aws.plainenglish.io/infrastructure-automation-for-dynamodb-6184f63da967)
 
 # EC2
 * [아마존 웹 서비스 8 – 스왑 추가로 EC2 인스턴스에 날개 달기](http://www.creativeworksofknowledge.com/2015/07/29/aws-adding-swap-to-ec2-instance/)
@@ -706,6 +712,7 @@ AWS
 * [AWS EKS Network, Load Balancer | Ssup2 Blog](https://ssup2.github.io/theory_analysis/AWS_EKS_Network_Load_Balancer/)
 * [Amazon EKS 업그레이드 - 유정열(당근마켓) , ECS와 컨테이너화 및 운영 - 김지민(AWS) :: 제20회 AWSKRUG Container모임 - YouTube](https://www.youtube.com/watch?v=BM8otOWxLO8)
 * [AWS EKS - VPC CNI 1편 - POD 통신](https://gasidaseo.notion.site/AWS-EKS-VPC-CNI-1-POD-f89e3e5967b24f8c9aa5bfaab1a82ceb)
+* [Observing gRPC-based Microservices on Amazon EKS running Istio | by Gary A. Stafford | ITNEXT](https://itnext.io/observing-grpc-based-microservices-on-amazon-eks-running-istio-77ba90dd8cc0)
 * [EKS Anywhere](https://anywhere.eks.amazonaws.com/)
   * 아마존 EKS을 온프레미스 환경에서 설치해서 Kubernetes 클러스터를 운영할 수 있도록 아마존에서 EKS Anyware를 오픈소스로 공개
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
@@ -900,6 +907,7 @@ AWS
 * [Apex - AWS Lambda 관리도구 #1](https://blog.outsider.ne.kr/1241)
 * [Apex - AWS Lambda 관리도구 #2](https://blog.outsider.ne.kr/1242)
 * [AWS Lambda: Apex로 관리하기](https://hyunseob.github.io/2017/07/09/aws-lambda-with-apex/)
+* [Optimising Serverless Cold Starts | by Yuri Gomes | Cazoo Technology Blog | Oct, 2021 | Medium](https://medium.com/cazoo/optimising-serverless-cold-starts-d199da824f08)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
 * [moderncloud: ModernCloud is a browser-based serverless platform that lets developers build functions and endpoints in minutes](https://github.com/ModernCloud/moderncloud)
   * [ModernCloud - 브라우저 기반 서버리스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4583)
@@ -1130,6 +1138,7 @@ AWS
 * [Amazon S3 Deep Dive (part 1-storage fundamentals) - DEV Community](https://dev.to/aws-builders/amazon-s3-deep-dive-part-1-storage-fundamentals-1f54)
 * [Amazon S3 Deep Dive (part 2-buckets) - DEV Community](https://dev.to/aws-builders/amazon-s3-deep-dive-part-2-buckets-aod)
 * [Amazon S3 Deep Dive (part 3-object) - DEV Community](https://dev.to/aws-builders/amazon-s3-deep-dive-part-3-storage-fundamentals-3mcd)
+* [Deleting an S3 Bucket Costs Money - CloudCasts](https://cloudcasts.io/article/deleting-an-s3-bucket-costs-money)
 * [amazon-s3-plugin-for-pytorch](https://github.com/aws/amazon-s3-plugin-for-pytorch)
 
 # Scala
