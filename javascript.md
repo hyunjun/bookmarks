@@ -1065,6 +1065,8 @@ Javascript
 * [웹 개발자 도구의 역사 - DEV Community](https://dev.to/composite/-4675)
   * [웹 개발자 도구의 역사 | GeekNews](https://news.hada.io/topic?id=4099)
 * [2021년에 살펴볼 법한 브라우저 개발자 도구의 유용한 스타일 관련 기능 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20211027)
+  * 최신 브라우저에서 CSS를 디버깅하는 데 도움이 되는 최신 기능 정리
+  * 개발자 도구에서 flex나 grid를 상태를 쉽게 확인하고 변경해 볼 수 있는 기능과 폰트 조정 기능 설명, 페이지에서 사용되지 않은 CSS 확인 기능 등 소개
 * [JavaScript Developer Tools](https://techstack.hashnode.dev/javascript-developer-tools)
   * [3. JavaScript Developers tools - YouTube](https://www.youtube.com/watch?v=lcqTJTdvoWE)
 
@@ -2799,6 +2801,8 @@ Javascript
 * [**React로 만든 프로젝트 톺아보기**](http://blog.jeonghwan.net/2018/07/16/react-app-overview.html)
 * [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
   * [React 개발자 로드맵](https://github.com/adam-golab/react-developer-roadmap/blob/master/README-KO.md)
+* [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap/blob/master/roadmap.png)
+* [ReactJs Roadmap🗺 for beginners - 2021 - DEV Community](https://dev.to/suhailzone/reactjs-roadmap-for-beginners-2021-14en)
 * [super-simple-react-starter -  A simple react project starter kit with best practices](https://github.com/myungjaeyu/super-simple-react-starter)
 * [React에 Component만들기](http://blog.myeongsku.com/17)
 * [React.js MERN CRUD Example](https://github.com/edoko/react-mern-crud-example)
@@ -2812,7 +2816,6 @@ Javascript
 * [주요 개념 (Main Concept) 정리](https://mobicon.tistory.com/571)
 * [**스프링 부트 + 리액트 개발 셋업 2018**](https://start.goodtime.co.kr/2018/09/%ec%8a%a4%ed%94%84%eb%a7%81-%eb%b6%80%ed%8a%b8-%eb%a6%ac%ec%95%a1%ed%8a%b8-%ea%b0%9c%eb%b0%9c-%ec%85%8b%ec%97%85-2018/)
 * [리액트 프로젝트 코드 스플리팅 정복하기](https://velog.io/@velopert/react-code-splitting)
-* [react-developer-roadmap](https://github.com/adam-golab/react-developer-roadmap/blob/master/roadmap.png)
 * [React 컴포넌트를 커스텀 훅으로 제공하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-securities-frontend-3/)
 * [requestIdleCallback으로 초기 렌더링 시간 14% 단축하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-securities-frontend-4/)
 * [리액트를 처음부터 배워보자. — 01. React.js란 무엇인가? - react-native-seoul](https://medium.com/react-native-seoul/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-01-react-js%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-ad8ba252ee28)
@@ -3083,6 +3086,8 @@ Javascript
 * [라이브 플레이어 UI 개선기](https://d2.naver.com/helloworld/0203261)
 * [React Derived State 다시 보기 | Dev Log](https://reactiver.dev/review-react-derived-state/)
 * [React VAC Pattern - View 로직과 JSX의 의존성을 최소화 하자!](https://d2.naver.com/news/0568192)
+* [The Plan for React 18 – React Blog](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html)
+  * React 18에는 자동 배칭, 스트리밍 서버 렌더링, 새로운 API 추가 예정이나 애플리케이션 코드를 거의 바꾸지 않고도 업그레이드 가능
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
