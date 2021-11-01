@@ -644,6 +644,11 @@ Apache
 * [Kafka 는 왜 빠를까? - 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=3372)
 * [Kafka 클러스터 구성 및 장애 해결 :: 당근케잌](https://yeon-kr.tistory.com/183)
 * [Integrate Apache Kafka and SAP with the Kafka Connect ODP Source Connector](https://www.confluent.io/blog/kafka-sap-integration-with-kafka-connect-odp-source-connector/)
+* [Logstash의 Kafka Input 성능 개선 이야기](https://alden-kang.tistory.com/24)
+  * Logstash를 사용하면서 Kafka Lag가 급격히 증가하는 문제를 해결하기 위한 개선 과정 설명
+  * 처음에는 파티션 수를 늘렸지만 해결되지 않아서 자세히 보니 파티션에 컨슈머가 고르게 붙어있지 않은 문제 발견
+  * partition_assignment_strategy를 사용해서 라운드 로빈을 적용했으나 트래픽이 늘어나자 다시 Lag 증가
+  * 그래서 Lag의 의미를 자세히 찾아보니 마지막에 생성된 메시지와 컨슈머가 가져갔다고 표시한 오프셋의 차이라는 것을 알게 되어 auto_commit_interval_ms를 5초에서 1초로 줄여서 La를 해결
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
