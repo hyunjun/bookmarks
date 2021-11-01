@@ -52,7 +52,6 @@ App
   * KeePass, DB Fiddle, Instant SQL Formatter, REPL, Regex 101, DiffChecker, Pastebin
 * [5 Underrated Apps for Coders To Use Today | codeburst](https://codeburst.io/5-underrated-apps-for-programmers-you-should-use-right-now-738388693169)
 * [Amazing Developer Tools That You Might Not Be Using | by Dhananjay Trivedi | Better Programming | Medium](https://medium.com/better-programming/amazing-developer-tools-that-you-might-not-be-using-1ec7f57d17d5)
-* [Embedded File Viewer: Google Drive, OneDrive](https://gist.github.com/tzmartin/1cf85dc3d975f94cfddc04bc0dd399be)
 * [모두의 프린터](https://modu-print.tistory.com/)
 * [**the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more**](https://github.com/trimstray/the-book-of-secret-knowledge) 엄청나게 다양한 여러가지 tool
 * [5 open source tools I can't live without | Opensource.com](https://opensource.com/article/20/10/open-source-tools) tmate, ix, asciinema, GNOME Pomodoro, Jitsi
@@ -562,8 +561,10 @@ App
 * RestLet_Client [REST API 테스트를 위한 유용한 툴(Chrome Extension : RestLet_Client)](https://www.linkedin.com/pulse/rest-api-%25ED%2585%258C%25EC%258A%25A4%25ED%258A%25B8%25EB%25A5%25BC-%25EC%259C%2584%25ED%2595%259C-%25EC%259C%25A0%25EC%259A%25A9%25ED%2595%259C-%25ED%2588%25B4chrome-extension-restletclient-jun-hee-shin/)
 * [wuzz - Interactive cli tool for HTTP inspection](https://github.com/asciimoo/wuzz)
 
-# Dropbox
+# Dropbox, Google Drive, OneDrive
 * [A remote sync solution for iOS and Linux: Git and Working Copy](https://medium.freecodecamp.org/a-remote-sync-solution-for-ios-and-linux-git-and-working-copy-1aba488b3547)
+* [Embedded File Viewer: Google Drive, OneDrive](https://gist.github.com/tzmartin/1cf85dc3d975f94cfddc04bc0dd399be)
+* [Fix-OneDrive-Zip: Fix OneDrive Zip files >4Gig](https://github.com/pmqs/Fix-OneDrive-Zip)
 * [goodsync.com](http://www.goodsync.com/)
 * [pullbox - A dead-simple dropbox alternative using Git](https://github.com/prashanthellina/pullbox)
 * [Resilio Sync - a fast, reliable, and simple file sync and share solution, powered by P2P technology](https://www.resilio.com/individuals/)
@@ -739,6 +740,7 @@ App
       * [https://www.chrisatmachine.com/Neovim/22-vscodium-neovim/](https://www.chrisatmachine.com/Neovim/22-vscodium-neovim/)
         * [VSCode with embedded Neovim - YouTube](https://www.youtube.com/watch?v=g4dXZ0RQWdw)
     * [vscode.dev Visual Studio Code for the Web](https://code.visualstudio.com/blogs/2021/10/20/vscode-dev)
+      * [vscode.dev 공개 | GeekNews](https://news.hada.io/topic?id=5235)
 * [Asciidoctor](http://asciidoctor.org/)
   * [Asciidoctor](https://github.com/asciidoctor)
 * [Bear App](https://bear.app/)
@@ -938,6 +940,7 @@ App
     * [FFMPEG.WASM](https://ffmpegwasm.github.io/)
       * [FFmpeg.wasm을 활용하여 웹에서 GIF 및 MP4 파일를 변환해보자 | by Jusung Hwang | Aug, 2021 | Medium](https://nabigraphics.medium.com/ffmpeg-wasm%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9B%B9%EC%97%90%EC%84%9C-gif-%EB%B0%8F-mp4-%ED%8C%8C%EC%9D%BC%EB%A5%BC-%EB%B3%80%ED%99%98%ED%95%B4%EB%B3%B4%EC%9E%90-8fad6e873008)
     * [vdx: An intuitive CLI for processing video, powered by FFmpeg](https://github.com/yuanqing/vdx)
+      * [vdx - FFMpeg을 쉽게 이용하는 직관적인 CLI 도구 | GeekNews](https://news.hada.io/topic?id=5252)
 * [Mac의 클립보드 명령어 - pbcopy & pbpaste](https://jojoldu.tistory.com/466)
 * [유니버설 클립보드 - 맥북(MacBook)과 아이패드(IPad) 간에 클립보드 공유해서 복사 붙여넣기](https://www.44bits.io/ko/post/clipboard-sharning-between-macbook-and-ipad-using-universal-clipboard)
 * [하나 타자 연습 개발후기](https://medium.com/@jungkim/%ED%95%98%EB%82%98-%ED%83%80%EC%9E%90-%EC%97%B0%EC%8A%B5-%EA%B0%9C%EB%B0%9C%ED%9B%84%EA%B8%B0-1e4391b323bf)
@@ -1434,6 +1437,7 @@ App
 * [Snip](https://mix.office.com/Snip) windows only
 * [stacknotes.io](http://www.stacknotes.io/home)
 * [Standard Notes | A Simple And Private Notes App](https://standardnotes.org/)
+* [Stormah: Own Your Data](https://stormah.com/) your notes, stored in your git repo
 * [transpose - Structured Notes to Manage Your Business and Life](https://transpose.com/)
 * [Wiki.js](https://wiki.js.org/)
 * [WriteFreely](https://writefreely.org/)
@@ -1779,6 +1783,7 @@ App
   * [The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux | Windows Command Line](https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/)
   * [WSL2 에서 리눅스 GUI앱 실행하기](https://open-support.tistory.com/entry/WSL2-%EC%97%90%EC%84%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-GUI%EC%95%B1-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)
   * [GWSL-Source: The actual code for GWSL. And some premade binaries](https://github.com/Opticos/GWSL-Source) python
+  * podman [Get podman up and running on Windows using Linux | Opensource.com](https://opensource.com/article/21/10/podman-windows-wsl)
   * [WSL-DistroManager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://github.com/rkttu/WSL-DistroManager)
   * [wslg: Enabling the Windows Subsystem for Linux to include support for Wayland and X server related scenarios](https://github.com/microsoft/wslg)
     * [WSLg Architecture | Windows Command Line](https://devblogs.microsoft.com/commandline/wslg-architecture/)
