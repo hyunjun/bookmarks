@@ -205,6 +205,7 @@ Lisp
 * [**Practical Functional Programming**](http://www.lambdanative.org/)
 * [python vs scheme part 1 - YouTube](https://www.youtube.com/watch?v=f-qtqWUKspA)
 * ["Strange Dreams of Stranger Loops" by Will Byrd - YouTube](https://www.youtube.com/watch?v=AffW-7ika0E)
+* [lips: Scheme based powerful lisp interpreter written in JavaScript](https://github.com/jcubic/lips)
 * [Schemy - a lightweight Scheme-like scripting language interpreter for embedded use in .NET applications](https://github.com/Microsoft/schemy)
 
 # tisp
