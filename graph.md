@@ -48,7 +48,6 @@ Graph
 * [Mapping Electoral Finance in the United States](http://rationocracy.org/mapping-electoral-finance/)
 * [Fighting financial crimes and money laundering with graph data](http://www.analyticbridge.datasciencecentral.com/profiles/blogs/fighting-financial-crimes-and-money-laundering-with-graph-data)
 * [(E, K)Generating Python Module Dependency Graphs(종속성 그래프 생성하기)](http://stackrefactoring.blogspot.com/2016/06/e-kgenerating-python-module-dependency.html)
-* [TAO: The power of the graph](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920)
 * [오픈 그래프 프로토콜(Open Graph protocol) 페이스북, 트위터 등에서 쓰이는 링크 미리보기? 링크 삽입시 미리보기에 대해 알아 보자](http://zzong.net/post/6)
 * [Graph Databases Will Change Your Freakin' Life (Best Intro Into Graph Databases)](https://www.youtube.com/watch?v=GekQqFZm7mA)
 * [대한민국 인맥지도 (SPARQL, Python, D3JS, Network visualization)](https://docs.google.com/presentation/d/1OgbNGLMocDW0YierCQk96i6-0poYgqJXj4xZBPJsNKY/edit?usp=sharing)
@@ -287,6 +286,8 @@ Graph
 * [Pegasus An award-winning, open-source, graph-mining system with massive scalability](http://www.cs.cmu.edu/~pegasus/)
 * [py-ascii-graph - A simple python lib to print data as ascii histograms](https://github.com/kakwa/py-ascii-graph)
 * [tagflow - stackoverflow graph](http://stared.github.io/tagoverflow/?site=stackoverflow&size=32)
+* [TAO: The power of the graph](https://www.facebook.com/notes/facebook-engineering/tao-the-power-of-the-graph/10151525983993920)
+  * [TAO: Facebook’s Distributed Data Store for the Social Graph](https://www.micahlerner.com/2021/10/13/tao-facebooks-distributed-data-store-for-the-social-graph.html)
 * [Tinkerpop](http://tinkerpop.incubator.apache.org/) 분산 컴퓨팅 그래프 프레임 워크
   * [TinkerPop3](https://github.com/apache/incubator-tinkerpop)
   * [blueprints](https://github.com/tinkerpop/blueprints/wiki)
