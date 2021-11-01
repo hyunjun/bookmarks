@@ -161,3 +161,4 @@ Monitoring
 * [A guide to setting up Kubernetes Service Level Objectives (SLOs) with Prometheus and Linkerd | Cloud Native Computing Foundation](https://www.cncf.io/blog/2020/11/13/a-guide-to-setting-up-kubernetes-service-level-objectives-slos-with-prometheus-and-linkerd/)
 * [토스의 서버 인프라 모니터링](https://toss.im/slash-21/sessions/1-2)
 * [Amazon debuts fully managed, Prometheus-based container monitoring service - SiliconANGLE](https://siliconangle.com/2021/09/29/amazon-debuts-fully-managed-prometheus-based-container-monitoring-service/)
+* [A different and (often) better way to downsample your Prometheus metrics](https://blog.timescale.com/blog/a-different-and-often-better-way-to-downsample-your-prometheus-metrics/)
