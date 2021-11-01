@@ -44,6 +44,7 @@ Time Series
 * [ADsP 시계열 분석 모델을 공부했다. (AR, MA, ARIMA, ACF, PACF)](https://blog.naver.com/tjgml1343/222077619748)
 * [시계열 데이터를 시각화하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/199454)
 * [Time Series Analysis and Forecasting with Machine Learning - YouTube](https://www.youtube.com/watch?v=AvG7czmeQfs)
+* [How Time Series Databases Work—and Where They Don't - Honeycomb](https://www.honeycomb.io/blog/time-series-database/)
 
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
