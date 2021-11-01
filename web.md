@@ -238,6 +238,12 @@ Web
   * role로 컴포넌트나 요소 역할 정의
   * aria-required, aria-label같은 프로퍼티를 컴포넌트의 특징을 정의
 * [**브라우저의 사용자 에이전트는 왜 이렇게 복잡하게 생겼을까? - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2021/10/11/Why-User-Agent-string-is-so-complex.html)
+* [Optimizing resource loading with Priority Hints](https://web.dev/priority-hints/)
+  * 브라우저가 리소스를 다운로드할 때 `<head>`에 있는 `<link>`나 CSS를 먼저 다운로드받거나 뷰포트 내의 리소스를 먼저 다운로드받는 등 최적화
+  * 이 우선순위 힌트를 줄 수 있는 importance 속성 설명
+  * importance를 hign나 low, auto로 지정 가능
+  * 이 우선순위 힌트는 실험적 기능, Chrome 96부터 origin trial로 이용 가능
+  * 크롬이 처리하는 우선순위가 표로 잘 나와 있고 우선순위 힌트를 사용했을 때 얼마나 빨라지는 지도 비교 설명
 
 # Apache
 * installation
@@ -267,6 +273,8 @@ Web
 * [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
 * [web-service-hardening](https://www.gitbook.com/book/lesstif/web-service-hardening/)
 * [Web Browser Engineering](https://browser.engineering/index.html)
+  * 웹 브라우저를 Python으로 구현하는 온라인 튜토리얼
+  * 웹페이지 다운로드부터 페이지 그리기, 서버와의 통신, 스크립트 실행까지 단계별로 설명
 
 # C++
 * [Cheerp 1.1 - C++ for the Web with fast startup times, dynamic memory and now, more speed!](http://leaningtech.com/cheerp/blog/2015/06/17/Cheerp-1.1/)
@@ -622,6 +630,7 @@ Web
 
 # Nginx
 * [Nginx](http://nginx.com/)
+* [nginx playground](https://nginx-playground.wizardzines.com/)
 * [Thread Pools in NGINX Boost Performance 9x!](http://nginx.com/blog/thread-pools-boost-performance-9x/)
 * [Announcing O’Reilly’s New Book: “NGINX: A Practical Guide to High Performance”](https://www.nginx.com/blog/announcing-oreillys-new-book-nginx-a-practical-guide-to-high-performance/)
 * [nginx and multi-threading support](http://forum.nginx.org/read.php?2,229381,229396#msg-229396)
@@ -1088,6 +1097,14 @@ Web
 * [What Is WebAssembly — and Why Are You Hearing So Much About It? – The New Stack](https://thenewstack.io/what-is-webassembly/)
 * ["네이티브에 가까운 성능" 웹어셈블리 활용한 언어 프로젝트 12선 - CIO Korea](https://www.ciokorea.com/news/206339)
 * [Hit the Ground Running with WebAssembly (How To Start Using WebAssembly In Your Apps) - YouTube](https://www.youtube.com/watch?v=aDAkU1S2JYk)
+* [Photoshop's journey to the web](https://web.dev/ps-on-the-web/)
+  * [Phtoshop을 web으로 구현](https://blog.adobe.com/en/publish/2021/10/26/creative-cloud-canvas-spaces-ps-ai-in-browser#gs.enj6m6)하기까지 구현 과정 설명
+  * 이미 Spark와 Ligthroom을 웹으로 구현했지만, Photoshop은 JavaScript의 성능 한계로 구현하지 못함
+  * WebAssembly와 Emscripten C++ 툴 체인을 이용해서 C++로 작성된 Photoshop을 웹으로 바로 포팅
+  * 대부분은 포팅했지만, 성능 불충분. 동적 멀티스레딩이 WebAssembly에 필요, 예외에 기반을 둔 오류 핸들링을 W3C 커뮤니티 그룹과 작업, SIMD 인스트럭션같은 성능 프리미티브로 성능 개선
+  * 데이터를 디스크에서 메모리로 빨리 옮기기 위해 오리진 트라리얼로 사용할 수 있는 origin private file system API 사용 가능
+  * 웹은 sRBG 색공간을 사용하고 있지만, Photoshop은 Display P3 색공간을 쓰고 있어서 더 적확히 이미지를 보여주도록 Display P3 Canvas 사용
+  * 수많은 UI 요소를 관리하기 위해 Web Components와 Lit 라이브러리 사용
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
