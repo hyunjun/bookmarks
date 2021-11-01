@@ -736,11 +736,14 @@ Java
 * [Springboot Java17 with jlink. 안녕하세요. Kevin 입니다. | by Kevin Park | Sep, 2021 | Medium](https://kevin-park.medium.com/springboot-java17-with-jlink-ec0242910c36)
 * [Revisiting Java in 2021 - I](https://www.avanwyk.com/revisiting-java-in-2021-i/)
 * [Revisiting Java in 2021 - II](https://www.avanwyk.com/revisiting-java-in-2021-ii/)
+* [Better Random Number Generation in Java 17 // nipafx](https://nipafx.dev/java-random-generator/)
+* [The best HotSpot JVM options and switches for Java 11 through Java 17](https://blogs.oracle.com/javamagazine/post/the-best-hotspot-jvm-options-and-switches-for-java-11-through-java-17)
 * [Shenandoah in OpenJDK 17: Sub-millisecond GC pauses | Red Hat Developer](https://developers.redhat.com/articles/2021/09/16/shenandoah-openjdk-17-sub-millisecond-gc-pauses)
   * [Shenandoah in OpenJDK 17 : 밀리초 미만의 GC Pause 구현 | GeekNews](https://news.hada.io/topic?id=5037)
 
 # Java18
 * [레코드 및 배열 패턴 外··· 구체화되는 ‘자바 18’ 미리보기 - CIO Korea](https://www.ciokorea.com/news/205454)
+* [Java18 HttpServer API example](https://gist.github.com/thomasdarimont/8f13a26c56ed7a371908769784557825)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
@@ -787,6 +790,8 @@ Java
 * [Microsoft Build of OpenJDK](https://www.microsoft.com/openjdk)
   * [Announcing Preview of Microsoft Build of OpenJDK | Java at Microsoft](https://devblogs.microsoft.com/java/announcing-preview-of-microsoft-build-of-openjdk/)
   * [MS, 자체 오픈 JDK 프리뷰 릴리즈 공개 - CIO Korea](https://www.ciokorea.com/news/189343)
+* openj9 [Eclipse OpenJ9](https://www.eclipse.org/openj9/)
+  * [IBM Introduces the Semeru Runtimes for OpenJ9](https://www.infoq.com/news/2021/10/ibm-introduces-semeru-openj9/)
 * [Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [TornadoVM: 🌪️ TornadoVM: A practical and efficient heterogeneous programming framework for managed languages](https://github.com/beehive-lab/TornadoVM)
   * [TornadoVM: Java for GPUs and FPGAs - YouTube](https://www.youtube.com/watch?v=Q-_eB86hPPA)
@@ -1126,6 +1131,7 @@ Java
   * [JMeter, 부하 테스트!. 안녕하세요, 유니크굿컴퍼니에서 이번 7월에 신입으로 입사한 강현우라고… | by Jason Kang | Uniquegood | Sep, 2021 | Medium](https://medium.com/uniquegood/%EC%86%8C%EA%B0%9C-dc78312c51d3)
 * jobrunr [Distributed Java Background Job Scheduler · JobRunr](https://www.jobrunr.io/en/)
 * [jOOλ - The Missing Parts in Java 8 jOOλ improves the JDK libraries in areas where the Expert Group's focus was elsewhere](https://github.com/jOOQ/jOOL)
+* jps [Check Java processes on Linux with the jps command | Opensource.com](https://opensource.com/article/21/10/check-java-jps)
 * [JReleaser](https://jreleaser.org/) publish binaries to Homebrew, Scoop, Snapcraft, Chocolatey, among others
   * [Quick and Seamless Release Management for Java Projects with JReleaser](https://www.infoq.com/articles/java-release-management-with-jreleaser/)
 * [jsoup: Java HTML Parser](https://jsoup.org/)
