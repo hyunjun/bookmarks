@@ -193,6 +193,8 @@
 * [imageflow - High-performance image manipulation for web servers. Includes imageflow_server, imageflow_tool, and libimageflow https://docs.imageflow.io ](https://github.com/imazen/imageflow)
 * [kalker - A flexible calculator that supports variables and functions defined by the user](https://kalker.strct.net/)
   * [Kalker/kalk is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals](https://github.com/PaddiM8/kalker)
+* [Kanidm: A simple, secure and fast identity management platform](https://github.com/kanidm/kanidm)
+* [kerla: A new operating system kernel with Linux binary compatibility written in Rust](https://github.com/nuta/kerla)
 * [kiro-editor: A terminal UTF-8 text editor written in Rust 📝🦀](https://github.com/rhysd/kiro-editor)
 * [kiss-ui - A simple UI framework for Rust built on top of IUP (http://webserver2.tecgraf.puc-rio.br/iup/)](https://github.com/cybergeek94/kiss-ui)
 * [LALRPOP is an LR(1) parser generator that emits Rust code](http://smallcultfollowing.com/babysteps/blog/2015/09/14/lalrpop/)
