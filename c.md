@@ -105,6 +105,7 @@ C
 * [최호성의 C 프로그래밍](https://www.youtube.com/playlist?list=PLXvgR_grOs1BiznAEkzQdA9tlcA06qx75)
 * [명강의로 완성하는 C](https://www.youtube.com/playlist?list=PLXvgR_grOs1CBClWm4_gU-Oe15LGf9yFk)
 * [**Beej's Guide to Network Programming**](https://beej.us/guide/bgnet/html/)
+* [Beej's Guide to C Programming](https://beej.us/guide/bgc/html/split/index.html)
 * [The GNU C Library Reference Manual](http://database.sarang.net/study/glibc/0.htm)
 * [The C Library Reference Guide](https://www-s.acm.illinois.edu/webmonkeys/book/c_guide/)
 * [DNS Query Code in C with linux sockets](http://www.binarytides.com/dns-query-code-in-c-with-linux-sockets/)
@@ -159,6 +160,7 @@ C
 * [흔한 C 프로그래밍 오류 4가지, '그리고 5가지 대처법' - CIO Korea](http://www.ciokorea.com/news/167460)
 * [Étude in C minor](https://zserge.com/posts/etude-in-c/)
 * [GTK4 for Graphical User Interfaces](http://ssalewski.de/gtkprogramming.html)
+* [Gtk4-tutorial/Readme.md at main · ToshioCP/Gtk4-tutorial](https://github.com/ToshioCP/Gtk4-tutorial/blob/main/Readme.md)
 * [The International Obfuscated C Code Contest](https://www.ioccc.org/2020/carlini/index.html)
 * [Fun with conversion-operator name lookup – Arthur O'Dwyer – Stuff mostly about C++](https://quuxplusone.github.io/blog/2021/01/13/conversion-operator-lookup/)
 * [함수 오버로딩 : 클리앙](https://www.clien.net/service/board/lecture/15118190)
@@ -205,6 +207,8 @@ C
 
 # Debugging
 * [Source Maps are an Insufficient Debugging Format for the Web](http://fitzgeraldnick.com/weblog/62/)
+* [5 common bugs in C programming and how to fix them | Opensource.com](https://opensource.com/article/21/10/programming-bugs)
+* [stong/how-to-exploit-a-double-free: How to exploit a double free vulnerability in 2021. 'Use After Free for Dummies'](https://github.com/stong/how-to-exploit-a-double-free)
 * GDB
   * [Learning C with gdb](https://www.recurse.com/blog/5-learning-c-with-gdb)
   * [Debugging with GDB: a real life example](http://blog.0x972.info/?d=2015/09/09/09/19/14-debugging-with-gdb-a-real-life-example)
@@ -504,6 +508,7 @@ C
   * [CreateProcess와 CreatePipe를 이용한 콘솔프로그램 입출력 제어](http://yahon.tistory.com/277)
 * printf
   * [`printf("%*d", 4, 100)`](http://stackoverflow.com/questions/2155518/what-is-scanfs-and-scanfd-format-identifiers/2155564#2155564)
+  * [There is no 'printf'](https://www.netmeister.org/blog/return-printf.html)
 * pthread
   * [PTHREAD 내용 정리](https://jungwoon.github.io/linux/2017/07/11/pthread/)
 * scanf
