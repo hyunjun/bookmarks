@@ -150,6 +150,7 @@
 * [DI 첫 번째, Dependency Injection에 관하여](https://poqw.github.io/di_1/)
 * [(18) What is dependency injection .net core? Can someone explain it by taking simple real life based examples? I have checked it out on internet but it's explained in very complex way everywhere. - Quora](https://www.quora.com/What-is-dependency-injection-net-core-Can-someone-explain-it-by-taking-simple-real-life-based-examples-I-have-checked-it-out-on-internet-but-its-explained-in-very-complex-way-everywhere)
 * [DI(Dependency Injection)는 왜 필요한가? :: 시행착오를 줄이는 방법](https://jinssssun.tistory.com/6)
+* [Printf("%s %s", dependency, injection). | Fredrik Holmqvist](https://www.fredrikholmqvist.com/posts/print-dependency-injection/)
 
 ## Dependency Injection Python
 * [Dependency Injector — Dependency injection microframework for Python](http://python-dependency-injector.ets-labs.org/)
