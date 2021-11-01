@@ -158,6 +158,7 @@
 
 # Conference
 * [GOTO 2020 • Next-Generation Programming: Rust & Elm • Richard Feldman - YouTube](https://www.youtube.com/watch?v=ukVqQGbxM9A)
+* [Why the Future of the Cloud will be Built on Rust - YouTube](https://www.youtube.com/watch?v=8zuvqDYWUTw)
 
 # Go
 * [A Rust Contributor Tries Their Hand at Go](http://www.polyglotweekly.com/2015/04/24/thoughts-of-a-rustacean-learning-go.html)
