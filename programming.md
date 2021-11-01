@@ -1523,6 +1523,7 @@ Programming
 * [**1주차- 온프레미스 네트워크 이해**](https://brunch.co.kr/@topasvga/1509)
 * [CTO headaches: Top 5 cloud-to-cloud migration woes (and how to solve them!) | Cloud Native Computing Foundation](https://www.cncf.io/blog/2021/02/15/cto-headaches-top-5-cloud-to-cloud-migration-woes-and-how-to-solve-them/)
 * [클라우드 마이그레이션을 위한 AS-IS 시스템 분석 방법](https://tech.osci.kr/2021/03/09/111612589/)
+* [클라우드 마이그레이션 '5가지 성공 요인 vs. 5가지 실패 원인' - CIO Korea](https://www.ciokorea.com/news/138444)
 * [성숙기 들어선 클라우드 세계의 새로운 문제점 7가지 - ITWorld Korea](https://www.itworld.co.kr/news/187633)
 * [기업용 클라우드 비용 최적화: 도구과 사례 | 슬로우뉴스](https://slownews.kr/79903)
 * [서버리스와 서버의 비용 비교](https://brunch.co.kr/@cebi750/22)
@@ -2778,6 +2779,7 @@ Programming
   * [기술 뉴스 #182 : 21-09-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1566)
   * [기술 뉴스 #183 : 21-10-02 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1567)
   * [기술 뉴스 #184 : 21-10-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1568)
+  * [기술 뉴스 #185 : 21-11-02 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1569)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -2824,6 +2826,7 @@ Programming
   * [월간 개발자스럽다 #69 - 개발자스럽다](https://blog.gaerae.com/2021/08/monthly7.html)
   * [월간 개발자스럽다 #70 - 개발자스럽다](https://blog.gaerae.com/2021/09/monthly.html)
   * [월간 개발자스럽다 #71 - 개발자스럽다](https://blog.gaerae.com/2021/09/monthly09.html)
+  * [월간 개발자스럽다 #72 - 개발자스럽다](https://blog.gaerae.com/2021/11/monthly10.html)
 * [44BITS 뉴스레터 2020년 11주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-11)
 * [44BITS 뉴스레터 2020년 12주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-12)
 * [44BITS 뉴스레터 2020년 13주](https://www.44bits.io/ko/post/44bits-news-letter-2020-week-13)
