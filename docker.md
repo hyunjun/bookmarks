@@ -769,6 +769,9 @@ Docker
 * [Kubernetes Cluster API 따라하며 이해하기 :: 조은우 개발 블로그](https://jonnung.dev/kubernetes/2021/02/28/cluster-api-quickstart/)
 * [Alpha in Kubernetes v1.22: API Server Tracing | Kubernetes](https://kubernetes.io/blog/2021/09/03/api-server-tracing/)
 * [**쿠버네티스 API서버는 정말 그냥 API서버라구욧 | 커피고래의 노트**](https://coffeewhale.com/apiserver)
+  * kube-apiserver와 통신할 때 보통 kubectl을 이용하지만 이 kube-apiserver가 그냥 API 서버라는 것을 보여주기 위해 kubectl 대신 curl로 요청 과정 설명
+  * 서버 주소를 알아 온 뒤 인증을 위해서 토큰 추출, API에 직업 HTTP 요청을 보내서 kubectl에서 이용, 클러스터 정보 조회 과정 설명
+  * kube-apiserver에서 OpeanAPI 스펙 문서도 제공하므로 이를 이용하면 API 목록도 확인 가능
 * [Official Kubernetes on CoreOS Guides and Tools](https://coreos.com/blog/official-kubernetes-on-coreos/)
 * [Kubernetes from the ground up: the scheduler](http://kamalmarhubi.com/blog/2015/11/17/kubernetes-from-the-ground-up-the-scheduler/)
 * [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
@@ -1094,6 +1097,7 @@ Docker
 * [install k8s on ubuntu20.04](https://uni2u.tistory.com/126)
 * [install container runtime on ubuntu20.04](https://uni2u.tistory.com/125)
 * [Horizontal Pod Autoscaling with Custom Metrics in Kubernetes | Pixie Labs Blog](https://blog.px.dev/autoscaling-custom-k8s-metric/)
+* [Martin Heinz | Keeping Kubernetes Clusters Clean and Tidy](https://martinheinz.dev/blog/60)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
