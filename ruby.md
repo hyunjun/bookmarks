@@ -76,6 +76,7 @@ Ruby
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * [Koona A really simple compiler written in Ruby](https://github.com/charles-l/koona)
 * [Lispy Ruby - transform Ruby to a Lisp with braces, remain all ruby keywords and same funtionalities](https://github.com/thetrung/lrb)
+* [mastodon: Your self-hosted, globally interconnected microblogging community](https://github.com/mastodon/mastodon)
 * [matchi - Collection of expectation matchers for Ruby](https://github.com/fixrb/matchi)
 * MeCab-ko [루아와 MeCab-ko를 이용한 한국어 형태소 분석](http://occamsrazr.net/tt/353)
 * [opal-native - React Native in Ruby](https://github.com/zetachang/opal-native)
