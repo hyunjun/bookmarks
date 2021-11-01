@@ -1096,6 +1096,8 @@ NLP
   * [지능형 한국어 형태소 분석기 ver 0.2](http://bab2min.tistory.com/571)
   * [지능형 한국어 형태소 분석기 ver 0.3 - 알고리즘 최적화 & 메모리 풀](http://bab2min.tistory.com/572)
   * [지능형 한국어 형태소 분석기 0.4버전 업데이트](http://bab2min.tistory.com/580)
+  * [kiwigo: https://github.com/bab2min/Kiwi for go](https://github.com/codingpot/kiwigo)
+    * [kiwigo - 한글 형태소 분석기인 kiwi의 go binding | GeekNews](https://news.hada.io/topic?id=5292)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
 * [KoalaNLP = Korean + Scala + NLP. 한국어 형태소 및 구문 분석기의 모음입니다](https://github.com/nearbydelta/KoalaNLP)
 * [KoParadigm: Korean Inflectional Paradigm Generator](https://github.com/Kyubyong/paradigm)
