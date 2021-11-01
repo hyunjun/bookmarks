@@ -38,6 +38,7 @@ SQL
 * [How I bypassed Cloudflare's SQL Injection filter](https://www.astrocamel.com/web/2020/09/04/how-i-bypassed-cloudflares-sql-injection-filter.html)
 * [Error-Based SQL Injection.. : 네이버블로그](https://blog.naver.com/crehacktive3/222187681939)
 * [웹 개발자를 위한 SQL injection 웹 해킹 보안 가이드](https://blog.naver.com/nanotoly/222214308327)
+* [A Scientific Notation Bug in MySQL left AWS WAF Clients Vulnerable to SQL Injection - GoSecure](https://www.gosecure.net/blog/2021/10/19/a-scientific-notation-bug-in-mysql-left-aws-waf-clients-vulnerable-to-sql-injection/)
 * [데이터베이스 보안을 향상시키는 11가지 기술 - ITWorld Korea](https://www.itworld.co.kr/news/201094)
 * [Welcome to the π-Base - A community database of topological examples with automated deduction and powerful search](http://topology.jdabbs.com/)
 * [Yesquel: scalable SQL storage for Web applications](http://sigops.org/sosp/sosp15/current/2015-Monterey/printable/106-aguilera.pdf)
@@ -189,6 +190,7 @@ SQL
   * [웹용 SQL의 미래 | GeekNews](https://news.hada.io/topic?id=4808)
 * [Stephen Colebourne's blog: Big problems at the timezone database](https://blog.joda.org/2021/09/big-problems-at-timezone-database.html)
 * [통계 서버를 구축하며!. 소개 | by Jason Kang | Uniquegood | Oct, 2021 | Medium](https://medium.com/uniquegood/%ED%86%B5%EA%B3%84-%EC%84%9C%EB%B2%84%EB%A5%BC-%EA%B5%AC%EC%B6%95%ED%95%98%EB%A9%B0-c071c6d4f945) 주제 분류가 좀 애매하지만 동시성 문제를 이야기하니 우선 여기에
+* [pubkey/client-side-databases: An implementation of the exact same app in Firestore, AWS Datastore, PouchDB, RxDB and WatermelonDB](https://github.com/pubkey/client-side-databases)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
@@ -837,6 +839,9 @@ SQL
 * [Five Things You Didn't Know About PostgreSQL | Kevin's Blog](https://blog.kevinlee.io/blog/2012/08/25/five-things-you-didnt-know-about-postgresql/)
 * [PostgreSQL 서버 관리자 지침서](https://docs.google.com/document/u/2/d/e/2PACX-1vTDZ9xHfw301ADVShOtjrcVHyqwS6HMfrNfRA_qRT5NTik25yyc9x1DJPyb6t5eTNAiCiQbNULS4tId/pub)
 * [PostgreSQL 14 on Kubernetes (with examples!)](https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes)
+* [Announcing Open Source Babelfish for PostgreSQL: An Accelerator for SQL Server Migration · Babelfish](https://babelfishpg.org/blog/releases/2021/10/babelfish-launch/)
+* [Bringing Kafka based architecture to the next level using simple PostgreSQL tables | by Sixfold Tech Blog | Oct, 2021 | Medium](https://sixfold.medium.com/bringing-kafka-based-architecture-to-the-next-level-using-simple-postgresql-tables-415f1ff6076d)
+* [엔터프라이즈DB, ‘포스트그레SQL 14’ 발표··· "하이엔드 워크로드 지원" - CIO Korea](https://www.ciokorea.com/news/210274)
 * EdgeDB
   * [EdgeDB—The next generation database](https://edgedb.com/)
   * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
@@ -1016,6 +1021,7 @@ SQL
 * [Using sqlite3 as a notekeeping document graph with automatic reference indexing](https://epilys.github.io/bibliothecula/notekeeping.html)
 * [35% Faster Than The Filesystem](https://www.sqlite.org/fasterthanfs.html)
 * [Hosting SQLite databases on Github Pages - (or any static file hoster) - phiresky's blog](https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/)
+* [Comparing SQLite, DuckDB and Arrow with UN Trade Data · Pachá](https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/)
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
 * [litestream: Streaming S3 replication for SQLite](https://github.com/benbjohnson/litestream)
