@@ -702,6 +702,7 @@ R
   * [tidyverse-korea/templates: 발표자 템플릿](https://github.com/tidyverse-korea/templates)
   * [데이터 과학을 위한 저작도구: Computational Documents 한국 R 컨퍼런스 템플릿](https://statkclee.github.io/comp_document/ds-r-conference.html)
   * [데이터 과학을 위한 저작도구](https://statkclee.github.io/comp_document/ds-presn.html)
+  * [swirl-tidy: Learn tidyverse in R via a set of swirl (https://swirlstats.com) lessons on introductions to tidyverse](https://github.com/sysilviakim/swirl-tidy)
 * [tqk - tidyquant에서 한국 주가 정보 활용](https://github.com/mrchypark/tqk)
   * [tidyquant with tqk](https://mrchypark.github.io/tqk_docs/tidyquant-with-tqk.html)
 * [tubeplayR - play youtube by R](https://github.com/kazutan/tubeplayR)
