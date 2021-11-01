@@ -83,6 +83,7 @@ Redis
   * WebFlux로 non-blocking의 이점을 얻기 위해 대부분의 데이터는 Redis를 이용하고 RDB에 보관해야 하는 API는 별도로 분리
   * WebSession을 사용했는데 어느 날 10,000개의 최대 세션 개수를 넘어서면서 오류가 발생하여 WebSession을 사용하지 않도록 개선
   * 관리자 사이트에서 너무 많은 메시지를 브라우저에서 렌더링하다가 멈추는 문제가 발생하여 리스트를 가상화하고 렌더링 횟수를 줄여서 성능 문제 해결
+  * [배민쇼핑라이브를 만드는 기술: 채팅 편 | GeekNews](https://news.hada.io/topic?id=5219)
 * [EC2에 Redis CLI 설치하기](https://jojoldu.tistory.com/348)
 * [You should revise your Redis max connections setting](https://medium.com/appaloosa-store-engineering/you-should-revise-your-redis-max-connections-setting-8136f063c916)
   * heroku에서 사용할 때 이야기라 server에 설치해서 쓸 때와는 조금 거리가 있지만 참고
@@ -117,6 +118,7 @@ Redis
 * [How to Set up a Firewall for Redis using ufw | thisDaveJ](https://thisdavej.com/how-to-set-up-a-firewall-for-redis-using-ufw/)
 * [Fun with Redis: Creating a Reactive Architecture Using Redis and Microservices - YouTube](https://www.youtube.com/watch?v=YEOoJZ13JtI)
 * [(웹툰) Redis 캐시](https://iamsang.com/blog/2021/10/24/redis-cache/)
+* [Redis Anti-Patterns Every Developer Should Avoid | Redis Developer Hub](https://developer.redis.com/howtos/antipatterns/)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
