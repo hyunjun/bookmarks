@@ -305,6 +305,8 @@ Programming
   * 아키텍처 관련 텍스트를 즐겨 읽고 가능하면 본인만의 아키텍처 저서를 쓸 것
   * 과거에 본인이 짠 코드를 다시 찾아서 리뷰할 것
   * 매일의 업무에서 떠오르는 질문들을 일반화시킬 것
+* [**How to get useful answers to your questions**](https://jvns.ca/blog/2021/10/21/how-to-get-useful-answers-to-your-questions/)
+  * [질문에 대한 유용한 답변을 얻는 방법 | GeekNews](https://news.hada.io/topic?id=5253)
 * [스타트업에서 전화응대 고객센터 간단히 구축하기](https://medium.com/daangn/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-%EC%A0%84%ED%99%94%EC%9D%91%EB%8C%80-%EA%B3%A0%EA%B0%9D%EC%84%BC%ED%84%B0-%EA%B0%84%EB%8B%A8%ED%9E%88-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-5f7a6919130d)
 * 훌륭한 개발 문화의 이면
   * [(1) – 코딩 테스트 인터뷰 제대로 하기](http://channy.creation.net/blog/1104)
@@ -323,6 +325,7 @@ Programming
   * [3편(SNS 로그인, OAuth 2.0)](http://tansfil.tistory.com/60)
 * [OAuth 2.0 and OpenID Connect (in plain English) - YouTube](https://www.youtube.com/watch?v=996OiexHze0)
 * [OAuth 2.0 을 구현하기 위해 알아야 할 것들 # Access Refresh Token](https://developer88.tistory.com/372)
+* [ID Token and Access Token: What Is the Difference?](https://auth0.com/blog/id-token-access-token-what-is-the-difference/) oauth
 * [**안정적인 서비스 운영 2014.03**](https://www.slideshare.net/cybaek/201403) 설계 ~ 모니터링까지
   * [NHN 엔터테인먼트 안정적인 서비스 운영 참석 후기](https://jojoldu.tistory.com/338)
 * [흔한 프로그래머의 작명에 대한 사뭇 진지한 이야기](https://www.popit.kr/%ED%9D%94%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EC%9E%91%EB%AA%85%EC%97%90-%EB%8C%80%ED%95%9C-%EC%82%AC%EB%AD%87-%EC%A7%84%EC%A7%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0/) naming
@@ -442,6 +445,7 @@ Programming
 * [XY 문제 | 허튼소리](https://hut.mearie.org/xy-problem/) 좋은 질문 하기
 * [devlibrary.withgoogle.com](https://devlibrary.withgoogle.com/)
   * [구글 디벨로퍼 라이브러리 | GeekNews](https://news.hada.io/topic?id=4303) 구글 기술을 이용한 우수 블로그 글과 오픈소스 프로젝트들 모음
+  * [Google's Dev Library is a Curated Collection of Projects about Google Tech](https://www.infoq.com/news/2021/10/google-dev-library/)
 * [Devbook - Search Engine for Developers](https://usedevbook.com/)
   * [개발자들을 위한 검색 엔진 - Devbook | GeekNews](https://news.hada.io/topic?id=4269)
 * [What is content modeling? | Sanity.io guide](https://www.sanity.io/guides/content-modeling-guide-introduction)
@@ -464,6 +468,8 @@ Programming
   * [로그인 기능 없이 제품을 런칭 해야하는 이유 | GeekNews](https://news.hada.io/topic?id=5144)
 * [If not fixed, our code will fail every Sunday](https://jolo.xyz/blog/2021/10/25/dayofweek-inconsistency) 언어별로 서로 다른 요일값. datetime은 항상 어렵다
 * [호환성을 지켜주려는 개발자의 마음 | K리그 프로그래머](https://jeho.page/essay/2021/10/27/%ED%98%B8%ED%99%98%EC%84%B1%EC%9D%84-%EC%A7%80%EC%BC%9C%EC%A3%BC%EB%A0%A4%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%A7%88%EC%9D%8C.html)
+* [How I failed 5 side projects in 6 years, earning $0](https://kwcodes.com/how-i-failed-5-side-projects-in-6-years-earning-0/)
+* [hTime - The Global Clock](https://thehtime.com/) A clock to eliminate time zone calculations
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -1001,12 +1007,15 @@ Programming
   * Architects shouldn't do architecture, spread knowledge about ... and make stakeholders use the knowledge, teams define the architecture
 * [Software Architecture and Design - YouTube](https://www.youtube.com/playlist?list=PL4JxLacgYgqTgS8qQPC17fM-NWMTr5GW6) 다양한 주제에 대한 짧은 설명들
 * [**End to End Design of food delivery app (Zomato or Swiggy) | by Ravinder Singh Sengar | Aug, 2021 | Medium**](https://medium.com/@ravindersengar/end-to-end-design-of-a-food-delivery-app-like-zomato-or-swiggy-52b96f3a635f)
+  * [음식 배달 앱 아키텍처(Zomato, Swiggy)분석](https://www.joinc.co.kr/w/man/12/architecture/EndToEndDesignOfFoodDeliveryApp)
 * [카카오페이지 운영툴을 점진적으로 개선한 이야기](https://brunch.co.kr/@wapj2000/38)
 * [Multi-tenant Architecture for SaaS - YouTube](https://www.youtube.com/watch?v=e8k6TynqGFs)
 * [**Multi-tenant architecture in 20 minutes - YouTube**](https://www.youtube.com/watch?v=0N4KknY_zdU) PACELC as extension of CAP
 * [Scaling Large Production Clusters with Partitioned Synchronization](https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html)
 * [Solution vs Software Architecture - DZone DevOps](https://dzone.com/articles/solution-architecture-vs-software-architecture)
 * [기고 | IT부서 ‘업의 본질’일 수도… ‘기술 아키텍처’ 가이드 - CIO Korea](https://www.ciokorea.com/news/209404)
+* [기고 | 기술 아키텍처 평가하기 ‘11가지 핵심 기준’ - CIO Korea](https://www.ciokorea.com/news/212779)
+* [How Pokémon GO scales to millions of requests? | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/how-pok%C3%A9mon-go-scales-millions-requests)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
@@ -1100,6 +1109,7 @@ Programming
 * [**Event Driven Architecture란?. MicroService Architecture(MSA)는 loosely… | by yjs0997 | DT Evangelist 기술 블로그 | Medium**](https://medium.com/dtevangelist/event-driven-microservice-%EB%9E%80-54b4eaf7cc4a) 강추
 * [Thinking in Events: From Databases to Distributed Collaboration Software - YouTube](https://www.youtube.com/watch?v=ePHpAPacOdI)
 * [My TOP Patterns for Event Driven Architecture - YouTube](https://www.youtube.com/watch?v=P5hq6iWn_p8)
+* [Event Driven hotel reservations with Kafka | by Thắng Đỗ | Altitude | Oct, 2021 | Medium](https://medium.com/altitudehq/event-driven-for-reservation-with-kafka-b1c5ad2927fe)
 
 ## Architecture Microservice MSA
 * [**Microservice Architecture**](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)
@@ -1338,6 +1348,7 @@ Programming
   * 좋아요 조회는 v1과 v2를 모두 이용하게 구성
   * 데이터 이관은 PostgreSQL을 덤프한 뒤 MySQL에 로드하게 했고 마이그레이션 중의 데이터는 SQS를 통해서 MySQL에 추가
 * [Back-end for Front-end Pattern (BFF) | by Giljae Joo (주길재) | Medium](https://giljae.medium.com/back-end-for-front-end-pattern-bff-4b73f29858d6)
+* [The InfoQ eMag: Operating Microservices](https://www.infoq.com/minibooks/operating-microservices/)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -1555,6 +1566,7 @@ Programming
 * [Libvirt - The Unsung Hero of Cloud Computing — Vyom](https://vyomtech.com/2013/12/17/libvirt_the_unsung_hero_of_cloud_computing.html)
 * Linode [Cloud Computing & Linux Servers | Alternative to AWS | Linode](https://www.linode.com/)
 * [Micro 3.0 (M3O) - a platform for cloud native development | Micro](https://micro.mu/blog/2020/11/05/micro-v3-aka-m3o.html)
+  * [m3o: The open source public cloud platform. We are building an AWS alternative for the next generation of developers](https://github.com/m3o/m3o)
   * [Why we are building a CLI first PaaS without a web frontend](https://crufter.com/cli-first-paas)
 * [neverinstall | Your browser is the new operating system](https://neverinstall.com/)
   * [Never Install - 데스크탑 앱을 설치없이 브라우저에서 사용하기 | GeekNews](https://news.hada.io/topic?id=4794)
@@ -1664,6 +1676,7 @@ Programming
 * [eXtreme Programming](https://www.theteams.kr/teams/2694/post/67869)
 * [The Ten Commandments of egoless programming - TechRepublic](https://www.techrepublic.com/article/the-ten-commandments-of-egoless-programming/) 직접 관계가 있지는 않지만 기억해둘만한 좋은 이야기
 * [Reasons & Ways to Improve Code Quality • Venkat Subramaniam • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=znZlF4uQBN0)
+* [Code review — bad, expensive, ineffective (in most cases)](https://github.com/sharovatov/teamlead/blob/master/codereview_en.md)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
@@ -3361,6 +3374,7 @@ Programming
 * [Test Driven Development Tutorial For Beginners - YouTube](https://www.youtube.com/watch?v=yfP_v6qCdcs)
 * [Getting Started with TDD - Part 2 - YouTube](https://www.youtube.com/watch?v=S4tMJKupvHg)
 * [트리거가 필요한 실험에서 결과의 신뢰성을 높이는 방법](https://lumiamitie.github.io/data/counterfactual-logging/) 모수가 적어 A/B test가 어려울 경우
+* [LINE 통화: 최고의 품질을 위한 8년간의 여정 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-call-quality-assurance/)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
