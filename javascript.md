@@ -35,6 +35,7 @@ Javascript
 * [The Modern JavaScript Tutorial](https://javascript.info/)
 * [Learn JavaScript - Free Interactive JavaScript Tutorial](https://www.learn-js.org/)
 * [**모던 JavaScript 튜토리얼 - 모던 JavaScript 튜토리얼은 상세한 설명과 함께 JavaScript 기본 개념 및 고급 개념을 다룹니다**](https://ko.javascript.info/)
+* [모던 자바스크립트를 배워보았다 - mysetting](https://mysetting.io/slides/modern-javascript-and-veryslide-postmortem)
 * [Transitioning to modern JavaScript - YouTube](https://www.youtube.com/watch?v=cLxNdLK--yI)
 * [JavaScript in Half an Hour (Without jQuery!)](https://www.youtube.com/watch?v=zPHerhks2Vg)
 * [Plan, Code, and Deploy a Startup in 2 Hours Full Stack JavaScript Tutorial](https://www.youtube.com/watch?v=lauywdXKEXI)
@@ -1544,6 +1545,8 @@ Javascript
 * [gifshot - JavaScript library that can create animated GIFs from media streams, videos, or images http://yahoo.github.io/gifshot ](https://github.com/yahoo/gifshot)
 * [Goo Engine - an open-source 3D engine using HTML5 and WebGL for rendering](https://github.com/GooTechnologies/goojs)
 * [GPU.JS - GPU Accelerated JavaScript](http://gpu.rocks/)
+* [Gramma - command-line grammar checker](https://caderek.github.io/gramma/)
+  * [Gramma - 커맨드라인 문법(grammar) 검사기 | GeekNews](https://news.hada.io/topic?id=5243)
 * [Graph - JavaScript Graph Comparison](http://www.jsgraphs.com/)
 * [Grid.js - Advanced table plugin](https://gridjs.io)
 * [Grunt 소개 및 사용법](http://nuli.navercorp.com/sharing/blog/post/1132682)
@@ -1913,6 +1916,7 @@ Javascript
   * [Mac OS 업데이트 후, NPM install시 gyp 오류날 경우](https://jojoldu.tistory.com/566)
   * [또 depedency 버전을 잘못 설치하고 말았다. | Hama Develop](https://www.hamadevelop.me/packagelock/)
     * npm이 의존성 관리에 이용하는 node_modules, package.json, package-lock.json의 개념과 이 각 파일의 존재 여부에 따라 의존성 설치가 어떻게 달라지는지 설명
+  * [NPM에 라이브러리 배포 망해본 썰](https://velog.io/@juunini/NPM%EC%97%90-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%B0%B0%ED%8F%AC-%EB%A7%9D%ED%95%B4%EB%B3%B8-%EC%8D%B0)
   * [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/)
     * npm에서 보안 감사에 사용하는 npm audit이 문제 있다고 지적하는 글, React의 Dan Abramov 작성
     * npm aduit은 별도 명령어도 있지만 npm install을 실행했을 때도 자동 실행. 먼저 npm audit 동작 방식 설명
@@ -2434,6 +2438,7 @@ Javascript
 * [node-rdpjs - Remote Desktop Protocol for Node.js](https://github.com/citronneur/node-rdpjs)
 * [node-report - Delivers a human-readable diagnostic summary, written to file](https://github.com/nodejs/node-report)
 * [Nomad, a cluster manager and scheduler designed for microservices and batch workloads](https://www.hashicorp.com/blog/nomad.html)
+  * [How we use HashiCorp Nomad](https://blog.cloudflare.com/how-we-use-hashicorp-nomad/)
 * [npm.click](http://npm.click/)
 * [N|Solid. Enterprise Node. Finally](https://nodesource.com/blog/nsolid-enterprise-node-finally)
 * [NSP](http://nsp.js.org)
@@ -3284,6 +3289,8 @@ Javascript
 * [21 React UI Component Libraries You Should Start Using from Today | by Amy J. Andrews | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/21-react-ui-component-libraries-you-should-start-using-from-today-6249758d188)
 * [After.js - Next.js-like framework for server-rendered React apps built with React Router 4 https://npm.im/@jaredpalmer/after](https://github.com/jaredpalmer/after.js)
 * [arctext: 💿 UI component to draw curved text in circles](https://github.com/junhoyeo/arctext)
+* [Blitz.js - The Fullstack React Framework](https://blitzjs.com/)
+  * [Blitz - 풀스택 React 프레임워크 | GeekNews](https://news.hada.io/topic?id=5244)
 * [Chakra UI | Design System built with React](https://chakra-ui.com/)
   * [Accessible and Beautiful Components with Chakra UI | by Malcolm Laing | Frontend Digest | Jun, 2020 | Medium](https://medium.com/frontend-digest/accessibie-and-beautiful-components-with-chakra-ui-bd37a2d72f5f)
 * Context API
@@ -3350,6 +3357,7 @@ Javascript
   * [개츠비의 이미지 처리 방식 | 김정환 블로그](https://jeonghwan-kim.github.io/dev/2020/08/19/gatsby-image.html)
   * [Gatsby V3 Tutorial and Recipes Site Project - YouTube](https://www.youtube.com/watch?v=JlxXHlygVLM)
   * [누구나 블로그 개발 할 수 있다! React 기반 Gatsby로 기술 블로그 개발하기 - 구름EDU](https://edu.goorm.io/lecture/25881/%EB%88%84%EA%B5%AC%EB%82%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B0%9C%EB%B0%9C-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8B%A4-react-%EA%B8%B0%EB%B0%98-gatsby%EB%A1%9C-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0)
+  * ['차세대 LAMP 스택 노린다' 개츠비의 멈출 수 없는 기세 - ITWorld Korea](https://www.itworld.co.kr/news/212449)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
 * [handoff-visualizer - Wireless Network Handoff Visualizer built with React!](https://github.com/chonyy/handoff-visualizer)
