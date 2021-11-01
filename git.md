@@ -41,11 +41,6 @@ Git
 * [Scripts to Rule Them All](http://githubengineering.com/scripts-to-rule-them-all/)
 * [Git as a Document Format](https://realm.io/news/altconf-wil-shipley-git-document-format/)
 * [깃허브 페이지에 커스텀 도메인 연결하기](https://blog.rajephon.dev/2019/03/01/github-custom-domain-with-cloudflare/)
-* [UNIVERSE - Two full days on how to build, collaborate, and deploy great software presented by GitHub](http://githubuniverse.com/)
-* [GitHub Universe 2019 참석기](https://blog.outsider.ne.kr/1469)
-* [한글자막 GitHub universe 2019 1일차 키노트 하이라이트](https://www.youtube.com/watch?v=9P0Oml8IrPo)
-* [GitHub Universe 2018 참석기 #1](https://blog.outsider.ne.kr/1407)
-* [GitHub Universe 2018 참석기 #2](https://blog.outsider.ne.kr/1408)
 * [Sublime Text2와 Gist로 깔끔하게 code snippet을 사용해 봅시다](https://medium.com/@cookatrice/sublime-text2%EC%99%80-gist%EB%A1%9C-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-code-snippet%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4-2518f23ce606)
 * [Git가지고 놀기(1) - Sublime과 함께 사용하기. - 완두블로그](https://wani.kr/posts/2013/12/13/git-1-with-sublime/)
 * [Facebook Gist Viewer](https://github.com/shlee322/facebook-gist-viewer)
@@ -806,8 +801,17 @@ Git
 * [GitHub Flow - demo](https://www.youtube.com/watch?v=GeFkVB8w7uM)
 
 # Conference
-* [Everything new from Universe 2021 | The GitHub Blog](https://github.blog/2021-10-27-everything-new-from-universe-2021/)
-* [It Depends - GitHub Universe 2021 - YouTube](https://www.youtube.com/watch?v=aMWh2uLO9OM)
+* [UNIVERSE - Two full days on how to build, collaborate, and deploy great software presented by GitHub](http://githubuniverse.com/)
+  * [GitHub Universe 2018 참석기 #1](https://blog.outsider.ne.kr/1407)
+  * [GitHub Universe 2018 참석기 #2](https://blog.outsider.ne.kr/1408)
+  * [GitHub Universe 2019 참석기](https://blog.outsider.ne.kr/1469)
+  * [한글자막 GitHub universe 2019 1일차 키노트 하이라이트](https://www.youtube.com/watch?v=9P0Oml8IrPo)
+  * [Everything new from Universe 2021 | The GitHub Blog](https://github.blog/2021-10-27-everything-new-from-universe-2021/)
+    * GitHub Universe를 통해서
+    * 커스텀 필드나 이터레이션을 사용할 수 있는 새 [GitHub Isusues](https://github.com/features/issues/)가 퍼블릭 베타
+    * github.com에서 Ctrl + k나 Cmd + k를 누르면 빠르게 원하는 곳으로 이동할 수 있는 커멘트 팔레트 출력
+    * 아직 프라이빗 베타이지만 Pull Request를 바로 merge하는 대신 merge queue에 넣고 최신 베이스 브랜치와 검사를 해준 뒤에 merge할 수 있는 merge queue 추가
+  * [It Depends - GitHub Universe 2021 - YouTube](https://www.youtube.com/watch?v=aMWh2uLO9OM)
 
 # Library
 * [Manage multiple Git identities](https://github.com/prydonius/karn)
@@ -842,6 +846,7 @@ Git
   * [GitHub Copilot의 8가지 대안](https://open-support.tistory.com/entry/GitHub-Copilot%EC%9D%98-8%EA%B0%80%EC%A7%80-%EB%8C%80%EC%95%88)
   * [Copilot 설명 및 사용기 | GeekNews](https://news.hada.io/topic?id=4745)
   * [GitHub's Copilot Still a Long Way From Autopilot](https://www.infoq.com/news/2021/10/github-copilot-study/)
+  * [copilot-docs/docs at main · github/copilot-docs](https://github.com/github/copilot-docs/tree/main/docs) Copilot JetBrains와 Neovim에서 이용 가능
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
 * [dolt: Dolt – It's Git for Data](https://github.com/dolthub/dolt)
