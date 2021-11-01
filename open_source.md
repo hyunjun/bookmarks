@@ -252,6 +252,11 @@ Open Source
 
 # Microsoft
 * [20170701 microsoft 오픈소스의 종류와 활용법](https://www.slideshare.net/winkey7/20170701-microsoft)
+* [두스틴 모리스 고르슈키 〈마이크로소프트의 오픈 소스를 신뢰할 수 있는가〉 - 👓 읽을 거리 - 닷넷데브](https://forum.dotnetdev.kr/t/topic/1972)
+  * [Can we trust Microsoft with Open Source? - Dusted Codes](https://dusted.codes/can-we-trust-microsoft-with-open-source)를 정리 요약
+  * .NET 6에 핫 리로딩 기능이 들어갈 예정이었지만 이 결정이 번복되고 GitHub에 들어왔던 코드를 다시 제거하는 작업 진행
+  * 이에 대해 개발자들이 목소리를 내서 다시 핫 리로딩이 .NET 6에 포함
+  * 이번 사건은 이렇게 해결, 앞으로도 회사가 주도하는 오픈소스에서 이러한 부분은 계속 관심 가져야 할 이슈
 
 # Nasa
 * [나사, 항공·환경 관련 SW 소스코드 15종 무료 공개](http://www.bloter.net/archives/273162)
