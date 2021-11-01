@@ -1395,6 +1395,7 @@ Docker
 * [containerd: An open and reliable container runtime](https://github.com/containerd/containerd)
 * [lima: Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)](https://github.com/lima-vm/lima)
   * [**containerd & Lima: Open source alternative to Docker for Mac | by Akihiro Suda | nttlabs | Sep, 2021 | Medium**](https://medium.com/nttlabs/containerd-and-lima-39e0b64d2a59)
+  * [쿠버네티스 컨테이너 런타임 Docker에서 Containerd로 - Tech Blog - Tech Blog](https://tech.osci.kr/space/TB/21099380847/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4+%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88+%EB%9F%B0%ED%83%80%EC%9E%84+Docker%EC%97%90%EC%84%9C+Containerd%EB%A1%9C)
 * multipass [Docker Desktop 대탈출, multipass로 갑니다](https://jybaek.tistory.com/934)
 
 # Network
