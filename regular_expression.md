@@ -59,6 +59,7 @@ Regular Expression
 * [알고 있어야 할 8가지 정규식 표현 from nettuts+ :: Outsider's Dev Story](https://blog.outsider.ne.kr/360)
 * [Fun with regular expressions: part I](https://yurichev.com/news/20210819_RE1/)
 * [In search of the perfect URL validation regex](https://mathiasbynens.be/demo/url-regex)
+* [Easiest way to remember Regular Expressions (Regex) | by Tobi Sam | Towards Data Science](https://towardsdatascience.com/easiest-way-to-remember-regular-expressions-regex-178ba518bebd)
 
 # C++
 * [정규 표현식](http://jiniya.net/ng/2017/11/regex/)
