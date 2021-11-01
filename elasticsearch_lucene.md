@@ -311,6 +311,7 @@ ElasticSearch - Lucene
 * [컴퓨터 vs 책: 알도개 엘라스틱 스택과 ELK 의의](https://jhrogue.blogspot.com/2021/08/elk.html)
   * [알도개 엘라스틱 스택과 ELK 의의 - YouTube](https://www.youtube.com/watch?v=1x59QE2YS4E)
 * [Elastic Security - 내부 정보 유출 탐지 사례 데모 - YouTube](https://www.youtube.com/watch?v=64VDu5ilHYg)
+* [What every software engineer should know about search](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d) es가 아니라 search 일반
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
