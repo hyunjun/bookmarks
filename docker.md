@@ -526,6 +526,7 @@ Docker
 * [VMware Tanzu Community Edition Released - ServeTheHome](https://www.servethehome.com/vmware-tanzu-community-edition-released/)
 * [DC/OS 아키텍처에 관한 분석 MESOS와 MARATHON](https://ykarma1996.tistory.com/178)
 * [**도커 컨테이너에서 멀티 프로세싱을 하면? — 그랩의 블로그**](https://tansfil.tistory.com/69)
+* [The death of Linux Containers. Unikernels are awesome! | by Inacio Klassmann | Medium](https://inacioklassmann.medium.com/the-death-of-linux-containers-2f7f92e59c33)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -954,6 +955,7 @@ Docker
 * [다시 정리하는 쿠버네티스 : 컴포넌트 개념 #1](https://jybaek.tistory.com/860)
 * [**Diving Deep Into Kubernetes Networking: Docker와 k8s 네트워크 분석**](https://woohhan.github.io/study/k8s_networking_deep_diving/)
 * [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
+* [Deployment Strategies In Kubernetes](https://auth0.com/blog/deployment-strategies-in-kubernetes/)
 * [쿠버네티스로 P2P 게임 테스트하기](https://snack.planetarium.dev/kor/2020/02/k8s-1/)
 * [Operating Akka Clusters using KUDO](https://d2iq.com/blog/operating-akka-clusters-using-kudo)
 * [Architecting Kubernetes clusters — how many should you have?](https://learnk8s.io/how-many-clusters)
@@ -1069,6 +1071,7 @@ Docker
 * [Successful Kubernetes Development Workflows • Ellen Körbes • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=9csPAXYEf7M)
 * [How to Debug Dead Container in K8s](https://leoh0.github.io/post/2018-08-04-how-to-debug-dead-container-in-k8s/)
 * [Living with Kubernetes: Debug Clusters in 8 Commands – The New Stack](https://thenewstack.io/living-with-kubernetes-debug-clusters-in-8-commands)
+* [Debugging Kubernetes cluster. I’m pretty sure you’ve debugged a lot… | by Lessandro Z. Ugulino | Oct, 2021 | Medium](https://medium.com/@lessandro.ugulino/debugging-kubernetes-cluster-d655ca2a2405)
 * [왜 쿠버네티스는 systemd로 cgroup을 관리하려고 할까요](https://www.slideshare.net/JoHoon1/systemd-cgroup)
 * [A Deep Dive Into Kubernetes Schema Validation](https://www.datree.io/resources/kubernetes-schema-validation)
   * Kubernetes manifests를 클러스터에 적용하기 전에 유효성 검사를 할 수 있는 방법 비교
@@ -1540,6 +1543,7 @@ Docker
 * [Toward Vagrant 3.0](https://www.hashicorp.com/blog/toward-vagrant-3-0)
 * [Try Kubernetes with Vagrant](http://lollyrock.com/articles/kubernetes-vagrant/)
 * [Use Vagrant to test your scripts on different operating systems | Opensource.com](https://opensource.com/article/21/9/test-vagrant)
+* [How I use Vagrant with libvirt | Opensource.com](https://opensource.com/article/21/10/vagrant-libvirt)
 * [cube-bldr at master · sysnet4admin/IaC](https://github.com/sysnet4admin/IaC/tree/master/Docker/cube-bldr) 도커 빌드 + 쿠버 테스트 환경 통합을 위한 베이그런트 스크립트
 
 # Virtualization
