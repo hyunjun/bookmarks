@@ -79,6 +79,7 @@ Programming Language
     * 성능 개선이 주목적이었기 때문에 GraalVM으로 전환하는 것만으로도 성능 향상, 모듈식 확장이 가능해 유지 보수가 편해질 것으로 판단해 GraalVM 선택
     * 코드 변경 없이 런타임만 전환해서 마이그레이션 가능, Spark에 도입한 결과 CPU 사용량 10% 감소, 약 10~42%의 속도 향상
   * [알도개 GraalVM - 자바를 넘어선 새로운 시작의 서막 - YouTube](https://www.youtube.com/watch?v=4lQ-sTDlgIo)
+  * [GraalVM 21.3 is here: Java 17, Native Image performance updates and more 🚀 | by Alina Yurenko | graalvm | Oct, 2021 | Medium](https://medium.com/graalvm/graalvm-21-3-is-here-java-17-native-image-performance-updates-and-more-ac4cbafcfc05)
 * [-4 % 3 = ?](https://libsora.so/posts/sign-of-mod-operator/) 음수인 경우 language에 따라 mod의 결과가 다름
 * [연봉 높은 프로그래밍 언어 순위 2018](https://futurecreator.github.io/2018/08/07/highest-salaries-worldwide-programming-languages-2018/)
 * [Top 3 Programming Language To Watch Out in 2019](https://hackernoon.com/top-3-programming-language-to-watch-out-in-2019-95995e81ad2b)
@@ -195,6 +196,7 @@ Programming Language
   * [Slick Like Ruby, Fast Like C — Does Such a Language Exist? | by Tameem Iftikhar | Better Programming | Medium](https://medium.com/better-programming/slick-like-ruby-fast-like-c-does-such-a-language-exist-9066fc16e6f1)
   * [Crystal Language That Aims at C Performance with Ruby Syntax Releases 1.0](https://www.infoq.com/news/2021/04/crystal-ruby-c-release-1/)
   * [루비 언어와 닮은꼴··· 크리스탈 1.0 릴리스 이모저모 - CIO Korea](https://www.ciokorea.com/news/187893)
+  * [To Learn a New Language, Read Its Standard Library - Pat Shaughnessy](http://patshaughnessy.net/2021/10/23/to-learn-a-new-language-read-its-standard-library)
 * [D](http://ddili.org/ders/d.en/)
   * [D 프로그래밍 언어](https://wikidocs.net/book/457)
   * [eBay's TSV Utilities: Command line tools for large, tabular data files. Filtering, statistics, sampling, joins and more. https://ebay.github.io/tsv-utils ](https://github.com/eBay/tsv-utils) csv/tsv
