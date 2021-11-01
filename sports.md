@@ -20,7 +20,6 @@ Sports
 * [디지털 사회로의 변화와 스포츠](https://brunch.co.kr/@kakao-it/287)
 * [스포츠 경기력 향상을 위한 AI 활용 방안](https://brunch.co.kr/@kakao-it/288)
 * [스포츠 경기 분석 전문가와 AI의 만남](https://brunch.co.kr/@kakao-it/289)
-* [로봇 심판과 판정 알고리즘의 의미있는 도전](https://brunch.co.kr/@kakao-it/290)
 * [Data는 Sports를 어떻게 바꿨는가](https://www.slideshare.net/revolutionistK/dsts-how-datachangessportsinbumkim)
 * [How to Draft Players for Sport with Machine Learning and AI](https://medium.com/@simon.tettmar/how-to-draft-players-for-sport-with-machine-learning-and-ai-ab0c7dbf7d76)
 
@@ -98,6 +97,8 @@ Sports
 * [기사 - 이지풍 코치의 반대 의견 11 : 골프 치는 야구선수 살찐 야구선수, 뭣이 중헌디](https://www.ddanzi.com/ddanziNews/703004431)
 * [기사 - 이지풍 코치의 반대 의견 12 : 놓쳐버린, 이승엽의 마지막 순간](https://www.ddanzi.com/ddanziNews/705003159)
 * [기사 - 이지풍 코치의 반대 의견 13(完) : 내가 선출이 아니라 가질 수 있는 능력](https://www.ddanzi.com/ddanziNews/707183686)
+* [로봇 심판과 판정 알고리즘의 의미있는 도전](https://brunch.co.kr/@kakao-it/290)
+* [메이저리그의 '야구 실험'은 성공했을까?(1)](https://spoflix.tistory.com/119)
 
 ## Baseball Sabremetrics
 * [nc soft AI](https://blog.ncsoft.com/rd/ai/)
