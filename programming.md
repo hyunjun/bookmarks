@@ -1809,6 +1809,15 @@ Programming
 * [pl0c: PL/0 to C compiler to teach basic compiler construction from a practical, hands-on perspective](https://github.com/ibara/pl0c)
 
 # Conference
+* [나는 프로그래머다](https://www.youtube.com/channel/UCTaAL7nKLOEnRsTW9uujxSQ/feed)
+* [제 16회 K.E.L.P. 공개 세미나](https://www.youtube.com/watch?v=8vAjVPj37kk)
+* [4대 클라우드 콘퍼런스를 마트로 비유하기](http://www.popit.kr/4%EB%8C%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4%EB%A5%BC-%EB%A7%88%ED%8A%B8%EB%A1%9C-%EB%B9%84%EC%9C%A0%ED%95%98%EA%B8%B0/)
+* [Best of 2017 in tech talks](https://medium.com/@copyconstruct/best-of-2017-in-tech-talks-8f78b34ff0b)
+* [다시 보는 2018 한국의 주요 개발 / 테크 컨퍼런스들](https://www.44bits.io/ko/post/replay-2018-korea-tech-development-conferences)
+* [다시 보는 2019 한국의 주요 IT 개발 컨퍼런스 모음](https://www.44bits.io/ko/post/replay-2019-korea-tech-development-conferences)
+* [버추얼 컨퍼런스의 전성 시대 온라인으로 열리는 개발 컨퍼런스 모음](https://www.44bits.io/ko/post/news--virtual-developer-conferences)
+* [2020년 한 해 동안 방구석에서 온라인 오픈소스 컨퍼런스에 참가한 후기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/2020-virtual-opensource-conference-recap/)
+* [개발자 컨퍼런스의 계절 – 대기업과 유니콘의 출전 :: Channy's Blog](http://channy.creation.net/blog/1482)
 * [calltospeakers.com](https://calltospeakers.com)
 * [DEVGROUND 2019](http://devground.hanbit.co.kr/) AI, data science, blockchain
 * [DevRel/Asia 2020 Korea Track - YouTube](https://www.youtube.com/watch?v=X25TQkQQjbg)
@@ -1870,8 +1879,11 @@ Programming
   * [일본 LINE DEVELOPER DAY 2018 방문기](https://engineering.linecorp.com/ko/blog/line-developer-day-2018/)
 * NDC
   * [2017 NDC 참관 후기](http://www.popit.kr/2017-ndc-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0/)
-* [OKKYCON: 2021](http://okkycon.com/2021/)
-  * [OKKYCON: 2021 - YouTube](https://www.youtube.com/playlist?list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne)
+* OKKYCON
+  * [**OKKYCON 2017 참석 후기**](http://jojoldu.tistory.com/249)
+  * [요약: OKKYCON 2017 소통 개발에 숨을 불어넣다](http://javacan.tistory.com/entry/summary-OKKYCON-2017-communication)
+  * [OKKYCON: 2021](http://okkycon.com/2021/)
+    * [OKKYCON: 2021 - YouTube](https://www.youtube.com/playlist?list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne)
 * [O’Reilly AI Conference](https://conferences.oreilly.com/artificial-intelligence/ai-ny/public/schedule/grid/public/2017-06-29)
   * [O’Reilly AI Conference 1일차 후기](https://cojette.github.io/OreillyAI_1/)
   * [O’Reilly AI Conference 2일차 후기](https://cojette.github.io/OreillyAI_2/)
@@ -1893,16 +1905,6 @@ Programming
   * [Tech planet 2016 강의자료](http://readme.skplanet.com/?p=13174)
 * Toss [SLASH 21](https://toss.im/slash-21)
   * [토스 서비스를 구성하는 서버 기술](https://toss.im/slash-21/sessions/1-3)
-* [나는 프로그래머다](https://www.youtube.com/channel/UCTaAL7nKLOEnRsTW9uujxSQ/feed)
-* [제 16회 K.E.L.P. 공개 세미나](https://www.youtube.com/watch?v=8vAjVPj37kk)
-* [4대 클라우드 콘퍼런스를 마트로 비유하기](http://www.popit.kr/4%EB%8C%80-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4%EB%A5%BC-%EB%A7%88%ED%8A%B8%EB%A1%9C-%EB%B9%84%EC%9C%A0%ED%95%98%EA%B8%B0/)
-* [**OKKYCON 2017 참석 후기**](http://jojoldu.tistory.com/249)
-* [요약: OKKYCON 2017 소통 개발에 숨을 불어넣다](http://javacan.tistory.com/entry/summary-OKKYCON-2017-communication)
-* [Best of 2017 in tech talks](https://medium.com/@copyconstruct/best-of-2017-in-tech-talks-8f78b34ff0b)
-* [다시 보는 2018 한국의 주요 개발 / 테크 컨퍼런스들](https://www.44bits.io/ko/post/replay-2018-korea-tech-development-conferences)
-* [다시 보는 2019 한국의 주요 IT 개발 컨퍼런스 모음](https://www.44bits.io/ko/post/replay-2019-korea-tech-development-conferences)
-* [버추얼 컨퍼런스의 전성 시대 온라인으로 열리는 개발 컨퍼런스 모음](https://www.44bits.io/ko/post/news--virtual-developer-conferences)
-* [2020년 한 해 동안 방구석에서 온라인 오픈소스 컨퍼런스에 참가한 후기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/2020-virtual-opensource-conference-recap/)
 
 # Continuous Integration, CI
 * [CI/CD 레퍼런스 아키텍쳐](http://bcho.tistory.com/1231)
@@ -3470,6 +3472,7 @@ Programming
 * [**Uber - 엣지+멀티 클라우드 장애 핸들링 이야기 (Part II)**](https://blog.imqa.io/uber-failover-handling_2/)
 * [The stack overflow of death. How we lost DNS and what we're doing to prevent this in the future. - bunny.net Blog](https://bunny.net/blog/the-stack-overflow-of-death-dns-collapse/)
 * [What You Can Learn from the AWS Tokyo Outage – The New Stack](https://thenewstack.io/what-you-can-learn-from-the-aws-tokyo-outage/)
+* [디아블로 II: 레저렉션 서버 문제에 대한 설명 및 그간의 개선 노력과 향후 계획 안내 - 일반 토론장 - Diablo 2 Resurrected Forums](https://kr.forums.blizzard.com/ko/d2r/t/%EB%94%94%EC%95%84%EB%B8%94%EB%A1%9C-ii-%EB%A0%88%EC%A0%80%EB%A0%89%EC%85%98-%EC%84%9C%EB%B2%84-%EB%AC%B8%EC%A0%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EC%84%A4%EB%AA%85-%EB%B0%8F-%EA%B7%B8%EA%B0%84%EC%9D%98-%EA%B0%9C%EC%84%A0-%EB%85%B8%EB%A0%A5%EA%B3%BC-%ED%96%A5%ED%9B%84-%EA%B3%84%ED%9A%8D-%EC%95%88%EB%82%B4/13261) architecture 관점에서 취한 조치들에 주목
 
 # Unicode
 * [unicode-table.com](https://unicode-table.com/)
