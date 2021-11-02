@@ -87,6 +87,22 @@ Product
 * [Slic3r - G-code generator for 3D printers](http://slic3r.org/)
 * [집 지어주는 거대한 3D프린터](http://techholic.co.kr/archives/40960)
 
+# Backpack
+* 오주코 9405
+  * [오주코 옥스퍼드 3세대 9405 백팩 소개 영상 - YouTube](https://www.youtube.com/watch?v=E2IjOIimqPg)
+  * 2021.11.02 구입 (배송비 포함 25640원)
+* Fintie [Amazon.com: Anti-theft Travel Laptop Backpack, Fintie 15.6 Inch TSA-Friendly Water Resistant Daypack Rucksack with RFID Protection and USB Charging Port for Mens Business School Outdoor, Black : Electronics](https://www.amazon.com/Anti-theft-Backpack-Fintie-Resistant-Protection/dp/B07T2KB389/)
+* [엑스디디자인 2in1 직장인 스포츠 헬스 비즈니스 플렉스 백팩 - 엑스디디자인 코리아 공식 온라인스토어](https://xd-design.co.kr/product/detail.html?product_no=58&cate_no=42&display_group=1)
+  * [직장인을 위한 비즈니스 백팩 추천! 깔끔한 디자인과 완벽에 가까운 기능! - YouTube](https://www.youtube.com/watch?v=uufhtsOqya8)
+* Korin Flexpack pro [The Best Backpack Going into 2019 - FlexPack Pro | Review - YouTube](https://www.youtube.com/watch?v=w6e2UYsfI9k)
+* [Neweex - Homepage](https://www.neweex.com/)
+* 테크니처 노트북 백팩 [수납의 프로가 설계한 백팩. 컨스파라 '테크니처 노트북 백팩' - YouTube](https://www.youtube.com/watch?v=UShJpg1rMBA)
+* Nomatic 
+  * [Amazon.com: NOMATIC Backpack- Water-Resistant RFID Laptop Bag, Everyday Backpack 20L - Updated 2020 V2 : Electronics](https://www.amazon.com/NOMATIC-Backpack-Resistant-Anti-Theft-Protected/dp/B0779L2Q4X/)
+  * [ENG SUB)세계적으로 대히트친 여행용 백팩 - 노매틱 트래블 백팩을 메고 실제 여행을 다녀와보았다! 진짜 좋은점과 치명적인 단점은? - YouTube](https://www.youtube.com/watch?v=m5R36M8CKOA)
+* 루퍼 닉 백팩 [수납 끝판왕! 대용량 백팩 추천 (이게 가방이야?! 캐리어야?!) - YouTube](https://www.youtube.com/watch?v=Os45tUPwLCk)
+
+
 # Bike
 * [자전거를 사기 전 당신이 꼭 고려해야 할 것](http://ppss.kr/archives/46219)
 * [빈티지 바이크 모으는 남자...델리 윤준호](http://www.huffingtonpost.kr/2015/04/02/story_n_6990096.html)
