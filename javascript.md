@@ -2880,6 +2880,7 @@ Javascript
 * [How to optimize React applications with Lazy Loading](https://medium.freecodecamp.org/how-to-optimize-react-applications-with-lazy-loading-232183e02768)
 * [Magic of React Suspense with concurrent react and React.lazy API](https://hackernoon.com/magic-of-react-suspense-with-concurrent-react-and-react-lazy-api-e32dc5f30ed1)
 * [React Suspense로 비동기 Fetch 관리 | Develment Develog](https://develment.blog/react-suspense%EB%A1%9C-%EB%B9%84%EB%8F%99%EA%B8%B0-fetch-%EA%B4%80%EB%A6%AC)
+* [김맥스 기술 블로그 | Suspense for Data Fetching의 작동 원리와 컨셉 (feat.대수적 효과)](https://maxkim-j.github.io/posts/suspense-argibraic-effect)
 * [No-boilerplate global state management in React](https://medium.com/swlh/no-boilerplate-global-state-management-in-react-907589d9554f)
 * [Kent C. Dodds 어플리케이션 상태 관리 (Application State Management with React 한글 번역) :: Code Playground](https://im-developer.tistory.com/222)
 * [Understanding React Default Props](https://blog.bitsrc.io/understanding-react-default-props-5c50401ed37d)
