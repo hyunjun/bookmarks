@@ -95,6 +95,7 @@ Programmer
   * 다른 팀에서 엔지니어를 빌림
 * [방향성이 명확한 노력으로 나만의 색깔을 가진 사람이 되기 | Evans Library](https://evan-moon.github.io/2021/09/10/developer-direction-of-effort/)
 * [F-Lab이 생각하는 좋은 멘토의 모습 - F-Lab](https://blog.f-lab.kr/2021/09/30/what-is-good-mentor.html) mentor
+* [인프런 수습 회고](https://jojoldu.tistory.com/612) 개발팀이 개발만 하면 망한다
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
