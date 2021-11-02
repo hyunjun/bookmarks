@@ -3300,6 +3300,7 @@ Programming
 * ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다](https://repo.yona.io/doortts/blog/issue/1)
 * [2018 OKKYCON - The Real TDD](https://github.com/david-learner/java-study/blob/master/2018OKKYCON/readme.md)
 * [Agile and Test Driven Development (TDD) with Swagger, Docker, Github, Postman, Newman and Jenkins for a Loopback, Node.js and CouchDB App](https://medium.com/nycdev/agile-and-test-driven-development-tdd-with-swagger-docker-github-postman-newman-and-jenkins-347bd11d5069)
+* [애자일 테스팅 회고. 애자일 개발 환경에서 QA의 역할은 무엇일까요? 단순히 개발 초기부터… | by Seunghoon Lee | 원티드 제품 팀블로그 | Nov, 2021 | Medium](https://medium.com/wantedjobs/%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%85%8C%EC%8A%A4%ED%8C%85-%ED%9A%8C%EA%B3%A0-7b79c36493f8)
 * [TDD 읽은티내기](https://brunch.co.kr/@moonjoonyoung/7)
 * [**뱅크샐러드의 실험플랫폼 분석 인프라 살펴보기 | 뱅크샐러드**](https://blog.banksalad.com/tech/experiment-platform-analysis-architecture/)
 * [The Causal Analysis of Cannibalization in Online Products - Code as Craft](https://codeascraft.com/2020/02/24/the-causal-analysis-of-cannibalization-in-online-products/)
