@@ -747,6 +747,7 @@ Clojure
 * [A modular blogging platform written in Clojure](https://github.com/FelixHoer/blog)
 * [Managed lifecycle of stateful objects in Clojure](https://github.com/stuartsierra/component)
 * [Clojure programming world: 6 essential libraries and other tools](https://freshcodeit.com/freshcode-post/clojure-programming-world-frameworks-and-other-tools)
+* [Creating and publishing Clojure libraries - DEV Community](https://dev.to/kozieiev/creating-and-publishing-clojure-libraries-3kpp)
 * [abclj: Clojure to Common lisp interop](https://github.com/lsevero/abclj)
 * [adi - data modelling for the ambitious http://docs.caudate.me/adi](https://github.com/zcaudate/adi) datomic 대신
 * [aero: A small library for explicit, intentful configuration](https://github.com/juxt/aero)
@@ -932,6 +933,7 @@ Clojure
   * [html-to-hiccup - Emacs package that turns HTML into Hiccup syntax, a notation popular when doing Clojure/ClojureScript web development](https://github.com/plexus/html-to-hiccup)
 * [Hitchhiker trees are a newly invented (by @dgrnbrg) datastructure, synthesizing fractal trees and functional data structures, to create fast, snapshottable, massively scalable databases](https://github.com/dgrnbrg/hitchhiker-tree)
 * [holy-lambda: The micro framework that integrates Clojure with AWS Lambda on either Java, Clojure Native, or Babashka runtime](https://github.com/FieryCod/holy-lambda)
+* [holy-lambda-ring-adapter: An adapter between Ring core request/response model and Holy Lambda. Run Ring applications on AWS Lambda](https://github.com/FieryCod/holy-lambda-ring-adapter)
 * [honeysql: Turn Clojure data structures into SQL](https://github.com/seancorfield/honeysql)
 * [HTTP Kit - A high-performance event-driven HTTP client+server for Clojure](https://github.com/http-kit/http-kit)
 * [immutant](http://immutant.org/)
