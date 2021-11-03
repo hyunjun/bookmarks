@@ -187,6 +187,7 @@ Bitcoin
 * [cointrol - Bitcoin trading bot with a real-time dashboard for Bitstamp](https://github.com/jkbrzt/cointrol)
 * [DeFi-Developer-Road-Map: DeFi Developer Road Map. Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
   * [DeFi 개발자 로드맵 | GeekNews](https://news.hada.io/topic?id=4500)
+* [ELI: 더 안전한 LINE의 가상자산 지갑 플랫폼 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/eli-line-cryptocurrency-wallet-platform/)
 * [Filecoin is a data storage network and electronic currency based on Bitcoin](http://filecoin.io/)
 * [Jade Service Runner - A Bridge for Decentralized Service Development](https://hackernoon.com/jade-service-runner-bd5ca222b7fc)
 * [Jetcoin Reference Implementation https://jetcoin.org](https://github.com/jetcoins/jetcoin)
