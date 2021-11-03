@@ -185,6 +185,9 @@ Programming Books
 * [파이썬 자료구조와 알고리즘 : 기초 튼튼, 핵심 쏙쏙, 실력 쑥쑥](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B8465804191)
   * [파이썬 자료구조와 알고리즘](https://jh4hj.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0%EC%99%80-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98)
 * [다이나믹 프로그래밍 완전 정복](https://jh4hj.tistory.com/entry/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%99%84%EC%A0%84-%EC%A0%95%EB%B3%B5)
+* [가장 쉬운 독학 알고리즘 첫걸음 - C&자바편 | 동양북스](http://www.dongyangtv.com/book/book_view.asp?menu_1=general&menu_2=general%5Fit&goods_code=2740)
+  * [가장 쉬운 독학 알고리즘 첫걸음 — C&자바편. 제목에서 알 수 있듯 이 책은 초보자가 독학으로 알고리즘을 배우는 걸… | by Jun | Nov, 2021 | Medium](https://nymets.medium.com/%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EB%8F%85%ED%95%99-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B2%AB%EA%B1%B8%EC%9D%8C-c-%EC%9E%90%EB%B0%94%ED%8E%B8-9abd8fea21c3)
+  * [가장 쉬운 독학 알고리즘 첫걸음 — C&자바편 -](https://jh4hj.tistory.com/entry/%EA%B0%80%EC%9E%A5-%EC%89%AC%EC%9A%B4-%EB%8F%85%ED%95%99-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%B2%AB%EA%B1%B8%EC%9D%8C-%E2%80%94-C%EC%9E%90%EB%B0%94%ED%8E%B8)
 * (NOT YET) 알고리즘 : 컴퓨터 과학의 기본, 숫자 알고리즘에서 양자 알고리즘까지
 * (NOT YET) 알고리즘 문제 풀이 전략
 * (NOT YET) 코딩 트레이닝
