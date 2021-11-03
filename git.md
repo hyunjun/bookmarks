@@ -1050,3 +1050,6 @@ Git
 * [Git and Github: The Complete Guides - Chapter 2 - DEV Community](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-2-559)
 * [Git and GitHub: The Complete Guides - Chapter 3 - DEV Community](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-3-4ac6)
 * [Git and GitHub: The Complete Guides - Chapter 4 - DEV Community](https://dev.to/ifierygod/git-and-github-the-complete-guides-chapter-4-a00)
+* [Git 정리 #1 - 로컬 저장소 | Jungwoon Blog](https://jungwoon.github.io/git/2021/11/03/Git-Summary-1.html)
+* [Git 정리 #2 - 원격 저장소 | Jungwoon Blog](https://jungwoon.github.io/git/2021/11/03/Git-Summary-2.html)
+* [Git 정리 #3 - 브랜치 | Jungwoon Blog](https://jungwoon.github.io/git/2021/11/03/Git-Summary-3.html)
