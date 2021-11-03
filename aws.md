@@ -314,6 +314,7 @@ AWS
   * [AWS 클라우드를 통해 최소기능제품(MVP) 빠르게 개발하기 - 윤석찬, AWS 테크에반젤리스트](https://www.youtube.com/watch?v=AwpcKaGwk7E)
 * [AWS Glue를 활용한 데이터 활용하기 Data Analysis #1 Hands-On](https://docs.google.com/document/d/137sbTTov-c6IoD8uDeVpPKvnubYf83XIjJLPBumrl58)
 * [Python의 AWS Glue ETL 스크립트 프로그래밍](https://docs.aws.amazon.com/ko_kr/glue/latest/dg/aws-glue-programming-python.html)
+* [AWS Glue Data Catalog as the Metastore for Databricks | LinkedIn](https://www.linkedin.com/pulse/aws-glue-data-catalog-metastore-databricks-deepak-rajak/)
 * [**스타트업에서 데이터를 더하는 법 (2019-10, 데이터 + 야놀자)**](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit#slide=id.g5f59896514_0_196)
 * [**AMAZON PERSONALIZE WORKSHOP**](http://personalize-workshop-junghee.s3-website.ap-northeast-2.amazonaws.com/) movielens로 영화 추천 모델 구현
 * [온프레미스 엔지니어의 퍼블릭 클라우드 정착기](https://brunch.co.kr/@alden/55)
