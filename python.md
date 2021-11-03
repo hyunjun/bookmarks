@@ -3901,6 +3901,7 @@ Python
 * [Michał Wodyński - Difficulties of Python code development:packages,virtualenvs and package mangers - YouTube](https://www.youtube.com/watch?v=NZ8K1GXI94M)
 * [Wei Lee - Python Table Manners: Cut the Cookie Gracefully - YouTube](https://www.youtube.com/watch?v=m6rF3Kah928)
 * [Our Python Monorepo. At Opendoor we started putting all our… | by Dan Hipschman | Open House | Medium](https://medium.com/opendoor-labs/our-python-monorepo-d34028f2b6fa)
+* [Python Monorepos: What, Why and How - YouTube](https://www.youtube.com/watch?v=1qurVKSYVqY) Pants, Bazel, Buck
 * [Publishing Well Formed Python Packages - Julin Shaji - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=XFGXCK6HZbk)
 * [Virtual Environments Demystified | Lukas Waymann](https://meribold.org/python/2018/02/13/virtual-environments-9487/) 임의로 가상 환경 구성
 * [How to make an awesome Python package in 2021 | Anton Zhiyanov](https://antonz.org/python-packaging/)
