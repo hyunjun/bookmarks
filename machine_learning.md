@@ -1090,6 +1090,7 @@ Machine Learning
   * [백엔드닷에이아이(Backend.AI)로 시작해 보는 AI 오픈소스 소개 및 실습 - 01 - YouTube](https://www.youtube.com/watch?v=wIa14otnAps)
 * [BentoML - A platform for serving and deploying machine learning models http://BentoML.ai ](https://github.com/bentoml/BentoML)
   * [Machine Learning Serving - BentoML 사용법 · 어쩐지 오늘은](https://zzsza.github.io/mlops/2021/04/18/bentoml-basic/)
+  * [데이터야놀자2021 머신러닝 유니버스를 여행하는 히치하이커를 위한 데이터 팀이 AWS 위에서 Kubernetes 를 활용하는 법 - 박훈님 - YouTube](https://www.youtube.com/watch?v=7E6oHVQIiug)
 * [cortex: Model serving at scale](https://github.com/cortexlabs/cortex)
   * [We tried to build an end-to-end ML platform. Here’s why it failed. | by Caleb Kaiser | Towards Data Science](https://towardsdatascience.com/we-tried-to-build-an-end-to-end-ml-platform-heres-why-it-failed-190c0f503536)
 * [Dlib - C++ machine learning library](http://dlib.net/ml.html)
