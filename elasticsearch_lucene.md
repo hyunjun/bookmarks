@@ -316,6 +316,9 @@ ElasticSearch - Lucene
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
 
+# Conference
+* [데이터야놀자2021 꺼진 데이터도 다시보자 Dynamic Mapping의 함정 - 김종민님 - YouTube](https://www.youtube.com/watch?v=YA3BX_F0mpo)
+
 # Docker
 * Dockerfile
   * [docker-library/elasticsearch/1.7/Dockerfile](https://github.com/docker-library/elasticsearch/blob/master/1.7/Dockerfile)
