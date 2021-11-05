@@ -794,6 +794,7 @@ App
   * [mathpix - LaTeX, instantly](https://mathpix.com/)
   * [OpenDetex - Improved version of Detex - tool for extracting plain text from TeX and LaTeX sources](https://github.com/pkubowicz/opendetex)
   * [SwiftLaTeX, a WYSIWYG Browser-based LaTeX Editor](https://github.com/SwiftLaTeX/SwiftLaTeX)
+  * Tectonic [Rust로 작성된 TeX 컴파일러, Tectonic](https://www.jiwon.me/tectonic/)
 * [noti - Trigger notifications when a process completes](https://github.com/variadico/noti)
 * [다운로드 없이 SMS 문자만으로 즐기는 “앱”](http://techneedle.com/archives/20495)
 * [타임머신 앱? 카메라 대면 옛날 사진이…](http://techholic.co.kr/archives/31096)
