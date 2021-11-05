@@ -1102,6 +1102,7 @@ Docker
 * [install container runtime on ubuntu20.04](https://uni2u.tistory.com/125)
 * [Horizontal Pod Autoscaling with Custom Metrics in Kubernetes | Pixie Labs Blog](https://blog.px.dev/autoscaling-custom-k8s-metric/)
 * [Martin Heinz | Keeping Kubernetes Clusters Clean and Tidy](https://martinheinz.dev/blog/60)
+* [Kubernetes Persistent Volumes: Examples & Best Practices](https://loft.sh/blog/kubernetes-persistent-volumes-examples-and-best-practices)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
