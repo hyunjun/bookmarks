@@ -1215,6 +1215,7 @@ AWS
 * [Failing Faster with Terraform - The Scale Factory](https://scalefactory.com/blog/2021/10/13/failing-faster-with-terraform/)
 
 # Tutorial
+* [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
 * [4분코딩 아마존 웹 서비스(Amazon Web Services)란?](https://www.youtube.com/watch?v=II5wMA5NrVM)
 * [**AWS 전문가 되기**](https://brunch.co.kr/magazine/devops)
 * [취미 생활을 위한 AWS 사용법](https://www.twitch.tv/videos/681204315)
