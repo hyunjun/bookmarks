@@ -939,6 +939,7 @@ Docker
 * ['대세' 쿠버네티스, 문제는 '보안'··· 베스트 보안 프랙티스 5가지 - CIO Korea](http://www.ciokorea.com/news/163115)
 * [쿠버네티스에 MicroProfile 기반의 Java 마이크로 서비스 구축하기](https://developer.ibm.com/kr/journey/deploy-microprofile-java-microservices-on-kubernetes/)
   * [쿠버네티스 클러스터에 MicroProfile 기반의 Java 마이크로서비스 구축하기](https://github.com/IBM/Java-MicroProfile-on-Kubernetes/blob/master/README-ko.md)
+* [Managing Java Heap size in Kubernetes | by Gonçalo Valente | Marionete | Medium](https://medium.com/marionete/managing-java-heap-size-in-kubernetes-3807159e2438)
 * [트랙 1-3. Google Kubernetes Engine과 함께하는 인프라 현대화 (조병욱)](https://www.youtube.com/watch?v=RTgvFpC4RXs&list=PLBgogxgQVM9vM5TCEwKidxbHKvtMvj7pB&index=19)
 * [ASP Classic to K8s - The Power of Y2K in Your Kubernetes](https://www.twitch.tv/videos/499381376)
 * [쿠버네티스 vs. 도커 : 컨테이너와 오케스트레이션의 이해](http://www.itworld.co.kr/news/135282)
@@ -1046,6 +1047,7 @@ Docker
   * 컨테이너 간 네트워크에는 오버헤드가 있는데 eBPF는 iptables와 오버헤드 발생 부분 생략 가능, 네트워크 성능이 훨씬 개선
   * 네트워크 부하를 더 크게 한 결과에서도 eBPF(Cilium, Calico 둘 다)가 좋은 성능
 * [Calico?Weave? CNI에 관하여](https://ykarma1996.tistory.com/179)
+* [CNI (Container Network Interface) ?](https://uni2u.tistory.com/127)
 * [11 Ways (Not) to Get Hacked | Kubernetes](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
 * [쿠버네티스 Admission Control #1 | 커피고래의 노트](https://coffeewhale.com/kubernetes/admission-control/2021/04/28/opa1/)
 * [쿠버네티스 Admission Control #2 - Open Policy Agent | 커피고래의 노트](https://coffeewhale.com/kubernetes/admission-control/2021/05/04/opa2/)
