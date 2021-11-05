@@ -3273,6 +3273,7 @@ Javascript
 * [React-Native M1 arm64 리액트 네이티브 세팅(with. expo & React Native CLI)](https://qnrjs42.github.io/react-native/m1-arm64-setting)
 * [리액트 네이티브 React Native, 풀스택 개발자 노하우 대방출 | 리디 RIDI dev. - YouTube](https://www.youtube.com/watch?v=FM5yyBaqqcg)
 * [리액트 React 로 만든 웹사이트, 풀스택 개발 장단점 | 2부 | 리디 RIDI dev. - YouTube](https://www.youtube.com/watch?v=exf4enLbVm4)
+* [네이티브 앱, 리액트 네이티브 앱 으로! 개발자와 PM의 진짜 이야기 | 리디북스 1부 | 리디 RIDI dev. - YouTube](https://www.youtube.com/watch?v=scZI19SE0_4)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
