@@ -324,6 +324,8 @@ Scala
 * [A Case Study in Incrementally Improving Code](https://www.inner-product.com/posts/a-case-study-in-incrementally-improving-code/)
 * [Developing your own Content Management System — Preface](https://softwaremill.com/developing-your-own-content-management-system-preface/)
 * [Dataflow Analysis for Scala | The Scala Plugin Blog](https://blog.jetbrains.com/scala/2021/10/28/dataflow-analysis-for-scala/)
+* [law-of-demeter](https://github.com/devinsideyou/law-of-demeter)
+  * [Break free from your entangled code base! - Part 1 - YouTube](https://www.youtube.com/watch?v=H3T4ryR4LMU)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -465,6 +467,7 @@ Scala
 * [Using Dotty Union types with Akka Typed – Part II](https://www.lunatech.com/2020/02/using-dotty-union-types-with-akka-typed-part-ii/)
 * [Akka Stream Coexistence With Akka Typed](https://kaplan.dev/articles/akka-stream-coexistence-with-akka-typed/)
 * [Akka Streams — Getting Started. From zero to production with Akka… | by Sergio Cano | Aug, 2021 | Medium](https://medium.com/@canosergio90/akka-streams-getting-started-32b5ebc60604)
+* [Demystifying Akka Streams' Materialized Values | Nivox's Hub](http://nivox.github.io/posts/akka-stream-materialized-values/)
 * [Akka Typed: Stateful and Stateless Actors | Rock the JVM - YouTube](https://www.youtube.com/watch?v=gwZjdRQTPu8)
 * [Akka Typed: Message adapters - YouTube](https://www.youtube.com/watch?v=aVgjEMA1AEQ)
 * [(Typed) Akka document 읽으면서 소소하게 정리 (Getting Started Guide)](https://wingnim.tistory.com/119)
@@ -633,6 +636,7 @@ Scala
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=XfQjnTT4on0) 여러가지 SDK API
 * [Composable Scala Matchers: Introduction | by Robin Hillyard | Jun, 2021 | Medium](https://scala-prof.medium.com/composable-scala-matchers-introduction-efd1c0fe0533)
 * [Fast number parsing in Scala](https://softwaremill.com/fast-number-parsing-in-scala/) `Try(value.toInt).toOption`
+* [An identifier, by any other name, … | by Robin Hillyard | Nov, 2021 | Medium](https://scala-prof.medium.com/an-identifier-by-any-other-name-c9c8f32b1477)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
@@ -947,6 +951,7 @@ Scala
     * [on tf and zio in 2021.md](https://gist.github.com/kubukoz/f32347ce711d65fb70752bb408f3d65c)
     * [ZIO from Scratch — Part 1 - YouTube](https://www.youtube.com/watch?v=wsTIcHxJMeQ)
     * [Next Generation Operations with ZIO — Adam Fraser - YouTube](https://www.youtube.com/watch?v=vYKea3hGw28)
+    * [Jan Nasiadka interview questions about ZIO](https://gist.github.com/fanf/e99fe83f716ae37e94ae264b38634bbb)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -956,7 +961,9 @@ Scala
       * [How to successfully manage a ZIO Fiber’s lifecycle | by Natan Silnitsky | Wix Engineering | May, 2021 | Medium](https://medium.com/wix-engineering/how-to-successfully-manage-a-zio-fibers-lifecycle-96fe9c4ecd06)
       * [Scala with ZIO: Introduction to Fibers - YouTube](https://www.youtube.com/watch?v=0OTYAVWUnU4)
       * [ZIO: Introduction to Fibers - Rock the JVM Blog](https://blog.rockthejvm.com/zio-fibers/)
-    * gRPC [Functional, Type-safe, Testable Microservices with ZIO gRPC - YouTube](https://www.youtube.com/watch?v=XTkhxRTH1nE)
+    * gRPC
+      * [Functional, Type-safe, Testable Microservices with ZIO gRPC - YouTube](https://www.youtube.com/watch?v=XTkhxRTH1nE)
+      * [Asynchronous Microservices with ZIO-gRPC and Scala | by λ.eranga | Rahasak Labs | Oct, 2021 | Medium](https://medium.com/rahasak/asynchronous-microservices-with-zio-grpc-and-scala-2e6519cb4e9a)
     * ZIO-AWS [ZIO-AWS with ZIO Query](https://vigoo.github.io/posts/2020-11-01-zioaws-zioquery.html)
     * zio-config
       * [Part 1: Start writing better Scala with zio-config - YouTube](https://www.youtube.com/watch?v=l5CVQmSp7fY)
@@ -1350,6 +1357,7 @@ Scala
   * [Basic streams and combinators in fs2 - Scala tutorial](https://www.youtube.com/watch?v=TmhIabcu6Fs)
   * [Finite-State Machines + FS2 streams: A match made in heaven • gvolpe's blog](https://gvolpe.com/blog/fsm-fs2-a-match-made-in-heaven/)
   * [FS2 Kafka · Functional Kafka Streams for Scala](https://fd4s.github.io/fs2-kafka/)
+    * [Run a fs2-kafka stream with scala-cli and Scala 3 | 47 Degrees](https://www.47deg.com/blog/run-fs2-kafka-scala-cli/)
   * [kebab-case: No leftovers: Working with pulls in fs2- overview](https://blog.kebab-ca.se/chapters/fs2/overview.html)
 * [Fugue: Unifying Spark and Non-Spark Ecosystems for Big Data Analytics - YouTube](https://www.youtube.com/watch?v=BBd4b2pMk0c)
 * [Funnel - a distributed monitoring system based on a lightweight streaming protocol](https://verizon.github.io/funnel/)
@@ -1998,6 +2006,7 @@ Scala
 * [Scala project from scratch #3 - compiling the client with GraalVM Native Image - YouTube](https://www.youtube.com/watch?v=e2Q3zU1lRkY)
 * [Testing client/server compatibility + error handling - SPFS #4 - YouTube](https://www.youtube.com/watch?v=mVU6rNmJNG0)
 * [Scala 3: What’s Changed Since Scala 3.0.0 | by Dean Wampler | Scala 3 | Sep, 2021 | Medium](https://medium.com/scala-3/scala-3-whats-changed-since-scala-3-0-0-be0830c059f5)
+* [Telegram Bot In Scala 3 With Bot4s + http4s + Doobie for CI notifications | Hacker Noon](https://hackernoon.com/telegram-bot-in-scala-3-with-bot4s-http4s-doobie-for-ci-notifications)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
