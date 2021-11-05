@@ -93,6 +93,7 @@ AWS
 * [AWS Transit Gateway와 Site-to-Site VPN을 이용한 오피스 네트워크 구성 | by Dahyun | 원티드 제품 팀블로그 | Oct, 2020 | Medium](https://medium.com/wantedjobs/aws-transit-gateway%EC%99%80-site-to-site-vpn%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%94%BC%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B5%AC%EC%84%B1-50d4948274bc)
 * [SD-WAN connectivity with AWS Transit Gateway Connect](https://www.notion.so/SD-WAN-connectivity-with-AWS-Transit-Gateway-Connect-ad8dcc8b43cc4a509d75e4b81a041f8c)
 * [MFA 코드와 AWS CLI를 이용해 로그인하기](https://andromedarabbit.net/mfa-%EC%BD%94%EB%93%9C%EC%99%80-aws-cli%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4-%EB%A1%9C%EA%B7%B8%EC%9D%B8%ED%95%98%EA%B8%B0/)
+* [MFA 활성화하고 계정을 안전하게 관리하기 - YouTube](https://www.youtube.com/watch?v=gTa8pHOrfMg)
 * [AWS IoT 버튼을 활용하여 차임벨 만들기](http://woowabros.github.io/study/2016/10/28/woowahan_chime_bell.html)
 * [회사 화분에 주기적으로 물주기 (AWS IoT 버튼 활용 사례)](https://medium.com/n42-corp/%ED%9A%8C%EC%82%AC-%ED%99%94%EB%B6%84%EC%97%90-%EC%A3%BC%EA%B8%B0%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%AC%BC%EC%A3%BC%EA%B8%B0-aws-iot-%EB%B2%84%ED%8A%BC-%ED%99%9C%EC%9A%A9-%EC%82%AC%EB%A1%80-99978e57a59c)
 * [Netflix Billing Migration to AWS – Part II](http://techblog.netflix.com/2016/07/netflix-billing-migration-to-aws-part-ii.html)
@@ -317,6 +318,9 @@ AWS
 * [AWS Glue Data Catalog as the Metastore for Databricks | LinkedIn](https://www.linkedin.com/pulse/aws-glue-data-catalog-metastore-databricks-deepak-rajak/)
 * [**스타트업에서 데이터를 더하는 법 (2019-10, 데이터 + 야놀자)**](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit#slide=id.g5f59896514_0_196)
 * [**AMAZON PERSONALIZE WORKSHOP**](http://personalize-workshop-junghee.s3-website.ap-northeast-2.amazonaws.com/) movielens로 영화 추천 모델 구현
+* [Amazon Personalize's example using python sdk](https://github.com/seongshj/personalize-python-sdk-example)
+* [한달 10만원으로 추천시스템 구축하기 AWS Personalize 도입 후기 / python SDK](https://dq-dreamsearch.com/121)
+* [Amazon Personalize로 추천 시스템 구축하기 - YouTube](https://www.youtube.com/watch?v=-l2GdgfGvJw)
 * [온프레미스 엔지니어의 퍼블릭 클라우드 정착기](https://brunch.co.kr/@alden/55)
 * [글로벌 서비스를 위한 멀티 리전 프록시 도입기](https://medium.com/benx-tech-blog/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A9%80%ED%8B%B0-%EB%A6%AC%EC%A0%84-%ED%94%84%EB%A1%9D%EC%8B%9C-%EB%8F%84%EC%9E%85%EA%B8%B0-87eda1bd8d55)
 * [**AWS Multi-Region 멀티 리전 실습 가이드**](https://www.notion.so/AWS-Multi-Region-3f9033d05dcf41f4a4d14ae5bbc2cc98)
@@ -339,7 +343,6 @@ AWS
 * [AWS에서 대용량 텍스트 문서를 번역하는 방, Amazon Translate](https://blog.naver.com/didim365_/221812362812)
 * [캐치딜 백엔드 개발이야기 : 좌충우돌 서버 설계 및 운영 이야기](https://kbs4674.tistory.com/114)
 * [팟캐스트 차니의 클라우드 클리닉 시작합니다!](http://blog.creation.net/channy-cloud-clinic-ep1-2)
-* [Amazon Personalize's example using python sdk](https://github.com/seongshj/personalize-python-sdk-example)
 * [Public Cloud와 온프레미스 간의 IP 중복 시, 서비스 통신 방법](https://zigispace.net/1077)
 * [AWS DATA LAKE WORKSHOP](http://bdlf.awsdemo.kr/)
 * [AWS Data 분석 특집 웨비나 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUWCRf3TT3T9nAozINnpQD3v)
@@ -391,7 +394,6 @@ AWS
 * [AWSKRUG DS - 데이터 엔지니어가 실무에서 맞닥뜨리는 문제들](https://www.slideshare.net/ssuser9c8444/awskrug-ds) 1) ORC Deep Dive 2) ORC Schema Evolution with AWS Glue 3) AWS EMR 격하게 tuning 해보기
 * [AWS Tag 적용 가이드와 활용 - 1부:: Mesh Korea Makers Blog](https://mesh.dev/20210217-dev-notes-003-aws-tag-01/)
 * [AWS Tag 적용 가이드와 활용 - 2부:: Mesh Korea Makers Blog](https://mesh.dev/20210311-dev-notes-004-aws-tag-02/)
-* [한달 10만원으로 추천시스템 구축하기 AWS Personalize 도입 후기 / python SDK](https://dq-dreamsearch.com/121)
 * [Observability Workshop](https://observability.workshop.aws/ko/)
 * [LotteOn: BI Platform Using MicroStrategy, Amazon Redshift, and AWS Glue on AWS (Korean) - YouTube](https://www.youtube.com/watch?v=qv9q0sFt6aY)
 * [Data discovery & metadata management (amundsen installation)](https://www.slideshare.net/changunjung/data-discovery-metadata-management-amundsen-installation)
@@ -417,6 +419,7 @@ AWS
 * [Detecting Locked Bicycle Stations: An AWS Serverless Story (Part 1) | by Jean Baptiste Muscat | CodeX | Medium](https://medium.com/codex/detecting-locked-bicycle-stations-an-aws-serverless-story-part-1-95dcdb477649)
 * [Detecting Locked Bicycle Stations: An AWS Serverless Story (Part 2) | by Jean Baptiste Muscat | CodeX | Medium](https://medium.com/codex/detecting-locked-bicycle-stations-an-aws-serverless-story-part-2-b1967d639699)
 * [Detecting Locked Bicycle Stations: An AWS Serverless Story (Part 3) | by Jean Baptiste Muscat | CodeX | Sep, 2021 | Medium](https://medium.com/codex/detecting-locked-bicycle-stations-an-aws-serverless-story-part-3-d532318dfca7)
+* [AWS에서 Video on Demand VOD 서비스하기 - YouTube](https://www.youtube.com/watch?v=bzxJkiJ77vg)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -473,6 +476,7 @@ AWS
 * [AWS의 눈 - Cloud Watch - YouTube](https://www.youtube.com/watch?v=jGryI-hBA38)
 * [CloudWatch를 이용한 RDS (PostgreSQL) 스케줄링 시작/종료](https://jojoldu.tistory.com/572)
 * [CloudWatch 이상 지표를 슬랙 알람으로 받기 (feat. SNS, Lambda)](https://jojoldu.tistory.com/586)
+* [로그 데이터로 CloudWatch Metric 만들기 - YouTube](https://www.youtube.com/watch?v=f2b3QdNEOwI)
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
@@ -838,6 +842,7 @@ AWS
 * [CloudFront + CloudFront functions 이용하여, Next.js 번들파일 효율적으로 서빙하기! 🧞 | by jpapa | 원티드 제품 팀블로그 | Oct, 2021 | Medium](https://medium.com/wantedjobs/cloudfront-cloudfront-functions-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-next-js-%EB%B2%88%EB%93%A4%ED%8C%8C%EC%9D%BC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9C%BC%EB%A1%9C-%EC%84%9C%EB%B9%99%ED%95%98%EA%B8%B0-9ccc0541e406)
 * [Amazon CloudFront: Brotli, Gzip 동시 사용시 cache에 대한 동작 탐구 | by Hedy Kim | Cloud Villains | Oct, 2021 | Medium](https://medium.com/ctc-mzc/amazon-cloudfront-brotli-gzip-%EB%8F%99%EC%8B%9C-%EC%82%AC%EC%9A%A9%EC%8B%9C-cache-%EC%97%90-%EB%8C%80%ED%95%9C-%EB%8F%99%EC%9E%91-2cecc49874ac)
 * [서울-도쿄 리전간 레이턴시 줄이기-실패경험담](https://linuxer.name/2019/11/%EC%84%9C%EC%9A%B8-%EB%8F%84%EC%BF%84-%EB%A6%AC%EC%A0%84%EA%B0%84-%EB%A0%88%EC%9D%B4%ED%84%B4%EC%8B%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0-%EC%8B%A4%ED%8C%A8%EA%B2%BD%ED%97%98%EB%8B%B4/) Global Accelerator
+* [AWS Global Accelerator를 사용해서 애플리케이션 성능 개선하기 - YouTube](https://www.youtube.com/watch?v=1Evp9-GPCoc)
 * [I’m afraid you’re thinking about AWS Lambda cold starts all wrong](https://hackernoon.com/im-afraid-you-re-thinking-about-aws-lambda-cold-starts-all-wrong-7d907f278a4f)
 * [AWS lambda tip: cold start](https://dongqui.github.io/posts/labmda-tip)
 * [End Cold Starts in Your Serverless Apps with AWS Lambda Provisioned Concurrency](https://www.youtube.com/watch?v=EML6FKBdsNU)
