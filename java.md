@@ -1648,6 +1648,7 @@ Java
 * [2.4 부터 변경된 구성파일 처리방식 살펴보기 - I'm honeymon(JiHeon Kim)](https://honeymon.io/tech/2021/01/16/spring-boot-config-data-migration.html)
 * [Spring Boot 2.2.0 : Quicker startup times with Lazy Initialization | by Sai Pitchuka | Medium](https://saibaburvr.medium.com/spring-boot-2-2-0-quicker-startup-times-with-lazy-initialization-2db2eb258dea)
 * [스프링 배치 완벽 가이드 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=65765957)
+* [Spring boot - 설정파일로 AspectJ PointCut 지정하기](https://blog.naver.com/tmondev/222558216450)
 * [spring-batch-querydsl: 스프링배치와 QuerydslPagingItemReader](https://github.com/jojoldu/spring-batch-querydsl)
 * [testing-spring-boot-applications-masterclass: 🍃 Everything You Need to Know About Testing Spring Boot Applications](https://github.com/rieckpil/testing-spring-boot-applications-masterclass)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
