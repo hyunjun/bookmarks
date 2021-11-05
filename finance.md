@@ -117,6 +117,7 @@ Finance
 * [퀀트자료 Data Science for Economics and Finance](https://bellman.tistory.com/13)
 * [금융공학을 위한 퀀트입문 추천서](https://brunch.co.kr/@gauss92tgrd/25)
 * [머신러닝을 위한 퀀트입문 추천서](https://brunch.co.kr/@gauss92tgrd/27)
+* [미국 주식으로 시작하는 슬기로운 퀀트투자 – Sangkon, Han – 개발자; 읽고 생각하고 쓰고 회고하고 정리한다.](https://sigmadream.github.io/Wise_Quant_Investing_Starts_With_USA_Stocks/)
 
 # Fintech
 * [bloter.net/fintech-enterprise](http://www.bloter.net/archives/category/news/fintech-enterprise)
