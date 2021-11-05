@@ -368,6 +368,10 @@ Data Science
 * [Great Books for Data Science](https://towardsdatascience.com/great-books-for-data-science-7a2de76bc612)
 * [브런치북 데이터 과학 미니북](https://brunch.co.kr/brunchbook/dsbook)
 
+# Conference
+* [데이터야놀자2021 데이터와 함께하는 똑똑한 중고 거래 - 삼데오백님 - YouTube](https://www.youtube.com/watch?v=qUn_hgLxudU)
+* [데이터야놀자2021 공공데이터를 활용한 서울시 공/사교육 분석 - 고동우(데이터드림)님 - YouTube](https://www.youtube.com/watch?v=QDV19lPrMGU)
+
 # Course MOOC Lecture
 * [**수강료 500만원 데이터사이언스 스쿨 커리큘럼을 대체하는 온라인 무료강의 15개 커리큘럼**](http://earlybird.ai/data_science_free_curriculum/)
   * 통계학, 선형대수학, numpy, 검정 및 추정(확률론), machine learning, database, 데이터 시각화, 데이터 분석, deep learning
