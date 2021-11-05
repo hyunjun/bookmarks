@@ -1531,6 +1531,7 @@ Programming Books
 * (NOT YET) [파이썬으로 배우는 자연어 처리 인 액션](https://jpub.tistory.com/1008)
 * (NOT YET) [텐서플로와 머신러닝으로 시작하는 자연어 처리 TensorFlow 2 | 위키북스](https://wikibook.co.kr/nlp-tf2/)
 * (NOT YET) [파이토치로 배우는 자연어 처리](https://hanbit.co.kr/store/books/look.php?p_code=B1231887279)
+* (NOT YET) [구글 BERT의 정석](https://hanbit.co.kr/store/books/look.php?p_code=B2201215526)
 
 # NoSQL
 
