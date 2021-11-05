@@ -1349,6 +1349,7 @@ Programming
   * 데이터 이관은 PostgreSQL을 덤프한 뒤 MySQL에 로드하게 했고 마이그레이션 중의 데이터는 SQS를 통해서 MySQL에 추가
 * [Back-end for Front-end Pattern (BFF) | by Giljae Joo (주길재) | Medium](https://giljae.medium.com/back-end-for-front-end-pattern-bff-4b73f29858d6)
 * [The InfoQ eMag: Operating Microservices](https://www.infoq.com/minibooks/operating-microservices/)
+* [소프트웨어 설계 및 디자인 트렌드로 알아본 MSA](https://brunch.co.kr/@synabreu/149)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
