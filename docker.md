@@ -1103,6 +1103,8 @@ Docker
 * [Horizontal Pod Autoscaling with Custom Metrics in Kubernetes | Pixie Labs Blog](https://blog.px.dev/autoscaling-custom-k8s-metric/)
 * [Martin Heinz | Keeping Kubernetes Clusters Clean and Tidy](https://martinheinz.dev/blog/60)
 * [Kubernetes Persistent Volumes: Examples & Best Practices](https://loft.sh/blog/kubernetes-persistent-volumes-examples-and-best-practices)
+* [4 devs by devs: Kubernetes interview question made easy | All about software development](https://jakubstransky.com/2021/11/05/4-devs-kubernetes-interview-question-made-easy/)
+* [Can't Resize your Postgres Kubernetes Volume? No Problem!](https://blog.crunchydata.com/blog/resize-postgres-kubernetes-volume-instance-sets)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
