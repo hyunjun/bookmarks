@@ -1017,6 +1017,7 @@ Programming
 * [기고 | IT부서 ‘업의 본질’일 수도… ‘기술 아키텍처’ 가이드 - CIO Korea](https://www.ciokorea.com/news/209404)
 * [기고 | 기술 아키텍처 평가하기 ‘11가지 핵심 기준’ - CIO Korea](https://www.ciokorea.com/news/212779)
 * [How Pokémon GO scales to millions of requests? | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/how-pok%C3%A9mon-go-scales-millions-requests)
+* [Designing a Software Architecture from Scratch - YouTube](https://www.youtube.com/watch?v=cbGSEwOAH6E)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
