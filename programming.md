@@ -932,6 +932,7 @@ Programming
 * [A quick introduction to Hexagonal Architecture](https://medium.com/codefountain/a-quick-introduction-to-hexagonal-architecture-484358c038b8)
 * [Ready for changes with Hexagonal Architecture - Netflix TechBlog](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
 * [Hexagonal Architecture](https://blog.imqa.io/hexagonal-architecture/)
+* [How To Make Your App Maintainable (hint: Adopt Hexagonal Architecture) - YouTube](https://www.youtube.com/watch?v=92ZJcxJgmmE)
 * [**계층형 아키텍처**](https://jojoldu.tistory.com/603)
 * [마이크로서비스 내부아키텍처 - 1회 : 데이터 중심 아키텍처의 문제점 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/microservice%20inner%20achitecture/inner-architecture-1/)
 * [마이크로서비스 내부아키텍처 - 2회 : 클린 아키텍처와 헥사고널 아키텍처 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/microservice%20inner%20achitecture/inner-architecture-2/)
@@ -2103,6 +2104,7 @@ Programming
 * [SHA-1 'Fully and Practically Broken' By New Collision | Decipher](https://duo.com/decipher/sha-1-fully-and-practically-broken-by-new-collision)
 * [A Blueprint for Securing Software Development - DevOps.com](https://devops.com/a-blueprint-for-securing-software-development/)
 * [돈 들이지 않고 사이버보안 기술을 쌓는 8가지 방법 - ITWorld Korea](https://www.itworld.co.kr/news/212589)
+* [How to Break API's - YouTube](https://www.youtube.com/watch?v=bM0dem12P4Y)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
