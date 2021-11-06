@@ -77,6 +77,9 @@ Elixir
 * [Elixir in Production: Glific](https://serokell.io/blog/elixir-in-production-glific)
 * [Elixir & Erlang - Fundamentally Pragmatic by Lars Wikman](https://www.youtube.com/watch?v=wbdNB_DugGA&t=3450s)
 * [Drag and Drop with Elixir - Phoenix LiveView and JavaScript Interop](https://www.headway.io/events/elixir-and-javascript-interop-with-phoenix-liveview-drag-and-drop)
+* [Encrypting Personal Data with Elixir and Cloak Ecto - YouTube](https://www.youtube.com/watch?v=ncrELVn2UmI)
+* [Hexagonal, Onion, and Explicit Architecture with Elixir - Part 1 - YouTube](https://www.youtube.com/watch?v=iGTCZt9Z8A8)
+* [Hexagonal, Onion, and Explicit Architecture with Elixir - Part 2 - YouTube](https://www.youtube.com/watch?v=617whtd2tdk)
 
 # Book
 * [Programming Elixir 1.3 / Dave Thomas](http://ohyecloudy.com/pnotes/archives/book-programming-elixir-1-3/)
@@ -121,6 +124,7 @@ Elixir
   * [Phoenix: An Introduction to Elixir's Web Framework](https://serokell.io/blog/introduction-to-phoenix)
   * [The Power & Performance of Phoenix LiveView • Geoffrey Lessel • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=-Rl-26JJ6js)
   * [#elixirlang phoenix 웹 프레임워크의 관절 plug 매크로 간단 버전 구현](http://ohyecloudy.com/pnotes/archives/elixirlang-simple-plug-implementation/)
+  * ["Hacking" Phoenix LiveView with F12 and Burp Suite - YouTube](https://www.youtube.com/watch?v=IGwoQQjal8Y)
 * [Plausible Analytics | Simple, privacy-friendly alternative to Google Analytics](https://plausible.io/)
   * [analytics: Simple, open-source, lightweight `(< 1 KB)` and privacy-friendly web analytics alternative to Google Analytics](https://github.com/plausible/analytics)
   * [Why choose Plausible for an open source alternative to Google Analytics | Opensource.com](https://opensource.com/article/21/2/plausible)
