@@ -413,6 +413,7 @@ Haskell
 * [inline-java - Calling to the JVM from Haskell: Some benchmarks](https://www.tweag.io/blog/2020-06-11-inline-java-benchmarks/)
 * [it-has - A Generic implementation of data-has](https://github.com/dnikolovv/it-has)
 * [knit ties the knot on data structures that reference each other by unique keys](https://github.com/pkamenarsky/knit)
+* [Kulitta: A Haskell-based library for algorithmic and automated composition. This library was the subject of my dissertation at Yale university and is the subject of my ongoing work](https://github.com/donya/Kulitta)
 * [Leksah - the Haskell IDE of choice](http://leksah.org/)
 * [Mu-Haskell - a set of packages that help you build both servers and clients for (micro)services](https://higherkindness.io/mu-haskell/) gRPC
   * [Introducing Mu-Haskell v0.1](https://www.47deg.com/blog/introducing-mu-haskell-0-1/)
