@@ -388,6 +388,8 @@ Interview
     * [LINE 소셜 네트워크 서비스의 아키텍처](https://d2.naver.com/helloworld/809802) 윗 글에 이어 line 자체의 architecture를 redis, cassandra 중심으로 설명
     * [LINE Storage: Storing billions of rows in Sharded-Redis and HBase per Month](https://engineering.linecorp.com/en/blog/line-storage-storing-billions-of-rows-in-sharded-redis-and-hbase/)
     * [Follow 관계를 DB에서 설계하는 방법](https://developer88.tistory.com/328)
+    * [Grokking the System Design Interview: How to Design a Social Network - YouTube](https://www.youtube.com/watch?v=CMlT1EouFYk)
+    * [System Design Mock Interview: Design TikTok ft. Google TPM - YouTube](https://www.youtube.com/watch?v=Z-0g_aJL5Fw)
     * [**Analyzing Clubhouse for fun and profit – 0x90**](https://www.bpak.org/blog/2021/02/analyzing-clubhouse-for-fun-and-profit/) 시의적절한 클럽하우스 분석
       * [Analyzing Clubhouse for fun and profit | Theori](https://theori.io/research/korean/analyzing-clubhouse/)
       * [Agora - Clubhouse Is Just One Of The Possibilities (NASDAQ:API) | Seeking Alpha](https://seekingalpha.com/article/4403413-agora-clubhouse-is-just-one-of-possibilities)
@@ -395,6 +397,7 @@ Interview
       * [Designing Instagram: System Design of News Feed](https://www.youtube.com/watch?v=QmX2NPkJTKg)
       * [Designing Instagram](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5673385510043648)
       * [How to Build a Mobile App like Instagram? (Instagram Clone)](https://www.engineerbabu.com/blog/how-to-build-a-mobile-app-like-instagram/)
+      * [System Design Mock Interview: Design Instagram - YouTube](https://www.youtube.com/watch?v=VJpfO6KdyWE)
     * Twitter
       * [blog.twitter.com/engineering/en_us/topics/infrastructure.html](https://blog.twitter.com/engineering/en_us/topics/infrastructure.html)
       * [How to Design Twitter (Part 1)](http://blog.gainlo.co/index.php/2016/02/17/system-design-interview-question-how-to-design-twitter-part-1/)
@@ -572,6 +575,7 @@ Interview
 * [acmicpc-kit: Let's practice algorithms with Acmicpc Kit ! Acmicpc Kit is a template project for creating the problem project using fully customizable templates](https://github.com/silentsoft/acmicpc-kit)
 * [algoexpert.io](https://www.algoexpert.io)
   * [Clément Mihailescu - YouTube](https://www.youtube.com/channel/UCaO6VoaYJv4kS-TQO_M-N_g) AlgoExpert 창업자
+  * [Systems Design Fundamentals | SystemsExpert](https://www.algoexpert.io/systems/fundamentals)
 * [algospot](https://www.algospot.com)
 * [atcoder.jp](https://atcoder.jp)
 * [awesome-advent-of-code: A collection of awesome resources related to the yearly Advent of Code challenge](https://github.com/Bogdanp/awesome-advent-of-code)
