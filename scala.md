@@ -2374,3 +2374,4 @@ Scala
 * [scala-3-advanced: The official repository for the Rock the JVM Advanced Scala course](https://github.com/rockthejvm/scala-3-advanced)
   * [Advanced Scala 3 and Functional Programming Course Overview - YouTube](https://www.youtube.com/watch?v=ohb1MfqYz6I)
 * [Scala isn't Hard: How to Master Scala Step by Step - Developer’s kit](https://scalac.io/blog/scala-isnt-hard-how-to-master-scala-step-by-step/)
+* [2020 Hindsight - Scala | 2020 Hindsight - Scala](https://2020-hindsight-scala.kevinly.dev/)
