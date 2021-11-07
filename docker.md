@@ -523,7 +523,6 @@ Docker
 * [코딩스타트 :: Jenkins - Jenkins dood(docker out of docker)로 실행시켜 agent docker 사용하기](https://coding-start.tistory.com/329)
 * [Docker Out of Docker (DooD) - 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=3382)
 * [Containers Don't Solve Everything](https://blog.deref.io/containers-dont-solve-everything/)
-* [VMware Tanzu Community Edition Released - ServeTheHome](https://www.servethehome.com/vmware-tanzu-community-edition-released/)
 * [DC/OS 아키텍처에 관한 분석 MESOS와 MARATHON](https://ykarma1996.tistory.com/178)
 * [**도커 컨테이너에서 멀티 프로세싱을 하면? — 그랩의 블로그**](https://tansfil.tistory.com/69)
 * [The death of Linux Containers. Unikernels are awesome! | by Inacio Klassmann | Medium](https://inacioklassmann.medium.com/the-death-of-linux-containers-2f7f92e59c33)
@@ -1560,6 +1559,10 @@ Docker
 
 # Virtualization
 * [Virt Tools](https://www.virt-tools.org/)
+
+# VMWare
+* [VMware Tanzu Community Edition Released - ServeTheHome](https://www.servethehome.com/vmware-tanzu-community-edition-released/)
+* [맥 VMware Fusion 속에서 윈도우10 속도 올리는 법 : 클리앙](https://www.clien.net/service/board/lecture/15536102?type=recommend)
 
 # Windows
 * [Windows Docker Toolbox에서 Host PC와 폴더 공유하기](http://bryan7.tistory.com/797)
