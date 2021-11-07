@@ -934,11 +934,11 @@ Programming
 * [Ready for changes with Hexagonal Architecture - Netflix TechBlog](https://netflixtechblog.com/ready-for-changes-with-hexagonal-architecture-b315ec967749)
 * [Hexagonal Architecture](https://blog.imqa.io/hexagonal-architecture/)
 * [How To Make Your App Maintainable (hint: Adopt Hexagonal Architecture) - YouTube](https://www.youtube.com/watch?v=92ZJcxJgmmE)
+* [**지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture/) hexagonal or ports and adapters
 * [**계층형 아키텍처**](https://jojoldu.tistory.com/603)
 * [마이크로서비스 내부아키텍처 - 1회 : 데이터 중심 아키텍처의 문제점 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/microservice%20inner%20achitecture/inner-architecture-1/)
 * [마이크로서비스 내부아키텍처 - 2회 : 클린 아키텍처와 헥사고널 아키텍처 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/microservice%20inner%20achitecture/inner-architecture-2/)
 * [마이크로서비스 내부아키텍처 - 3회 : 어플리케이션 구성 패턴 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/microservice%20inner%20achitecture/inner-architecture-3/)
-* [**지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture/)
 * [지속 성장 가능한 소프트웨어를 만들어가는 방법. 스프링은 국내에서 정말 많이 쓰이고 있습니다, 개인적으로 많은 회사를… | by Gemini Kim | Apr, 2021 | Medium](https://geminikim.medium.com/%EC%A7%80%EC%86%8D-%EC%84%B1%EC%9E%A5-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EA%B0%80%EB%8A%94-%EB%B0%A9%EB%B2%95-97844c5dab63) 스프링 이야기이나 일반론이기도 함
   * 많은 회사와 시스템이 차세대라는 명목의 개발을 수없이 진행: 낭비
   * 지속 성장 가능한 소프트웨어를 위한 핵심 주제 3가지
@@ -2009,6 +2009,7 @@ Programming
 * [How I Got a Computer Science Degree in 3 Months for Less Than $5000 | Miguel Rochefort](https://miguelrochefort.com/blog/cs-degree/)
 * [Entire Computer Science Curriculum in 1000 YouTube Videos | Laconicml](https://laconicml.com/computer-science-curriculum-youtube-videos/)
 * [구름EDU - 모두를 위한 맞춤형 IT교육](https://edu.goorm.io/)
+* [우아한Tech - YouTube](https://www.youtube.com/channel/UC-mOekGSesms0agFntnQang/videos)
 * [코딩엑스 - 코딩/AI 올인원 학습 플랫폼](https://coding-x.com/class)
 * [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
