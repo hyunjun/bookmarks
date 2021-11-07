@@ -1966,6 +1966,7 @@ Javascript
 * [rollup.js - the next-generation JavaScript module bundler](http://rollupjs.org/)
   * [Rollup.js+ Typescript + Storybook으로 구축하는 디자인 시스템](https://ideveloper2.dev/blog/2020-05-17--rollup-ts-%EB%A1%9C-%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
   * [라이브러리 배포 cjs? ejs?](https://www.notion.so/cjs-ejs-f413befcf8ae45589e47fc4d14a5ab9a)
+  * [Rollup 기반 라이브러리 개발 환경 구성하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/11/07/Rollup-React-TypeScript.html)
 * [rome: The Rome Frontend Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS](https://github.com/romefrontend/rome)
   * [번역 모든 길은 Rome으로 통할까?. Front-end 툴 체인 Rome 훑어보기 | by Jung Han | podo_official | Aug, 2020 | Medium](https://medium.com/official-podo/%EB%AA%A8%EB%93%A0%EA%B8%B8%EC%9D%80-rome%EC%9C%BC%EB%A1%9C-%ED%86%B5%ED%95%A0%EA%B9%8C-1a858dddedd6)
 * [µcdn: a live, bundlerless, alternative | by Andrea Giammarchi | Medium](https://medium.com/@WebReflection/%C2%B5compress-goodbye-bundlers-bb66a854fc3c)
