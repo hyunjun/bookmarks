@@ -678,6 +678,9 @@ Clojure
 * [clojure Stuart Halloway on Radical Simplicity - YouTube](https://www.youtube.com/watch?v=f_Fi8YXt2fs)
 * [Functional / Microservices in Real-Time Financials](https://www.infoq.com/presentations/nubank-financial-systems/)
 * [Solving Problems the Clojure Way - Rafal Dittwald - YouTube](https://www.youtube.com/watch?v=vK1DazRK_a0)
+  * javascript 로 구현된 카드게임의 코드를 보면서
+  * 첫 번째 구현에서 어떤 부분이 clojure way 라고 볼 수 없는지 어디서 순수함수와 사이드 이펙트가 섞여 있는 상황인지 보여주고
+  * 그것을 분리하는 작업 시연
 * [Goodbye YAML: Infrastructure as Code in Clojure - Eno Compton & Tyler van Hensbergen - YouTube](https://www.youtube.com/watch?v=TbDmupZyuXk)
 * [Serverless Fullstack with Amplified Clojure(script) - YouTube](https://www.youtube.com/watch?v=x55vRozFgZg)
 * [Expert to Expert: Rich Hickey and Brian Beckman - Inside Clojure - YouTube](https://www.youtube.com/watch?v=wASCH_gPnDw)
