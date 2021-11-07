@@ -686,6 +686,7 @@ App
       * [Top 5 Must-have VS Code extensions](https://open-support.tistory.com/entry/Top-5-Must-have-VS-Code-extensions)
       * [VSCode Extensions: 8 Must Have VSCode Plugins in 2021 | CodersTea](https://www.coderstea.com/post/tools/every-programmer-needs-these-vscode-extensions/)
       * [VSCode에서 Bracket Pair Colorizer 삭제하고 내장 기능 사용하기 | by Bora Lee | Oct, 2021 | Medium](https://violetboralee.medium.com/vscode%EC%97%90%EC%84%9C-bracket-pair-colorizer-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B3%A0-%EB%82%B4%EC%9E%A5-%EA%B8%B0%EB%8A%A5-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-e75558a87990)
+      * [임베디드 개발자의 vscode + c/cpp extention 사용기 : 클리앙](https://www.clien.net/service/board/use/15746297)
     * Git
       * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
       * [mac에서 visual studio code를 git commit editor로 설정하기](http://blog.woniper.net/352)
@@ -1370,14 +1371,16 @@ App
   * [Photopea - 웹 기반 PSD 이미지 에디터 | GeekNews](https://news.hada.io/topic?id=534)
 * [Piskel - Free online sprite editor](https://www.piskelapp.com/)
 * [Radium - The Music Editor](http://users.notam02.no/~kjetism/radium/)
-* [JonnyBurger/remotion: 🎥 Create videos programmatically in React](https://github.com/JonnyBurger/remotion)
+* [remotion: 🎥 Create videos programmatically in React](https://github.com/JonnyBurger/remotion)
   * React로 programmatically하게 동영상 만들기
   * React(DOM)를 이용해 영상에 쓰일 컴포넌트를 만들고 ffmpeg로 export 가능하게 해주는 프로젝트
   * React의 장점을 영상 제작에 활용할 수 있는 것이 특징 (Reusable components, Powerful composition, Fast Refresh, Package ecosystem)
 * [Remove Image Background](https://www.remove.bg)
 * [Rewatch: The private & secure video channel for your team](https://rewatch.tv/)
   * [Rewatch - 팀/회사를 위한 비디오 공유 | GeekNews](https://news.hada.io/topic?id=3555)
-* [Shotcut - a free, open source, cross-platform video editor](https://github.com/mltframework/shotcut)
+* [Shotcut - Home](https://shotcut.org/)
+  * [Shotcut - a free, open source, cross-platform video editor](https://github.com/mltframework/shotcut)
+  * [리눅스에서 비디오 편집 프로그램 추천 - Shotcut : 클리앙](https://www.clien.net/service/board/cm_linux/15344021)
 * [SickZil-Machine](https://github.com/KUR-creative/SickZil-Machine) 딥러닝으로 만화에서 텍스트 제거
 * VLC
 * [VPaint - A glimpse into the future of Vector Graphics and 2D Animation](http://www.vpaint.org/)
