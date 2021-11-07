@@ -144,6 +144,7 @@ Git
 * [가장 쉬운 Git 강좌 - (하) Github편](https://www.youtube.com/watch?v=GaKjTjwcKQo)
 * [주요 깃 서비스 비교](https://www.youtube.com/watch?v=a6h22u5r67M)
 * [What not to save into a Git repository](https://medium.freecodecamp.org/what-not-to-save-into-a-git-repository-29779ee94b96)
+* [Repository 언어 분석 설정 변경하기 :: 시행착오를 줄이는 방법](https://dataportal.kr/21)
 * [How to use GitHub as a PyPi server](https://medium.freecodecamp.org/how-to-use-github-as-a-pypi-server-1c3b0d07db2)
 * [The Biggest Misconception About Git](https://medium.com/@gohberg/the-biggest-misconception-about-git-b2f87d97ed52)
 * [Picturing Git: Conceptions and Misconceptions - BiTE Interactive](https://www.biteinteractive.com/picturing-git-conceptions-and-misconceptions/)
