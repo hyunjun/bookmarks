@@ -1926,6 +1926,7 @@ Python
 * [Python for Beginners](https://www.youtube.com/playlist?list=PLlrxD0HtieHhS8VzuMCfQD4uJ9yne1mE6)
 * [More “Python for Beginners” videos…times two!](https://cloudblogs.microsoft.com/opensource/2020/05/04/more-python-for-beginners-videos/)
 * [Learn Python On AWS Workshop :: Learn Python on AWS](https://learn-to-code.workshop.aws/)
+* [Python API Development - Comprehensive Course for Beginners - YouTube](https://www.youtube.com/watch?v=0sOvCWFmrtA)
 
 # Cryptography
 * [Elliptic Curve Cryptography: finite fields and discrete logarithms](http://andrea.corbellini.name/2015/05/23/elliptic-curve-cryptography-finite-fields-and-discrete-logarithms/)
