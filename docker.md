@@ -922,13 +922,23 @@ Docker
 * [쿠버네티스 네트워킹 이해하기#1: Pods](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
 * [쿠버네티스 네트워킹 이해하기#2: Services](https://coffeewhale.com/k8s/network/2019/05/11/k8s-network-02/)
 * [쿠버네티스 네트워킹 이해하기#3: Ingress](https://coffeewhale.com/k8s/network/2019/05/30/k8s-network-03/)
+* [번역 쿠버네티스 네트워킹 이해하기#1: Pods](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
+* [**Journey to Kubernetes with Blockchain Network(+CKAD)**](https://engineering.linecorp.com/ko/blog/journey-to-kubernetes-with-blockchain-network-ckad/)
+* [**Diving Deep Into Kubernetes Networking: Docker와 k8s 네트워크 분석**](https://woohhan.github.io/study/k8s_networking_deep_diving/)
+* [A Guide to the Kubernetes Networking Model - Kevin Sookocheff](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
+* [**번역 쿠버네티스 2,500대 노드 운영하기 | 커피고래의 노트**](https://coffeewhale.com/scaling-node01) etcd kube master docker image pull networking ARP cache
+  * OpenAI에서 Kubernetes의 노드를 2,500대 운영하면서 겪은 문제와 개선한 과정을 정리한 글을 번역
+  * 처음에는 etcd에서 성능 저하 발생, 이는 Fluentd와 Datadog의 문제였고 이는 해결했지만 Events API를 ectd 클러스터와 분리하는 것을 추천
+  * OpenAI의 특성상 작업을 한곳에 모으려고 kube-scheduler를 수정해서 작업이 한곳에 모였지만 노드에 집중되어서 발생한 문제가 발생
+  * 특정 Docker 이미지가 너무 큰 문제로 다른 이미지까지 지연되는 --serialize-image-pulls 설정 문제 등도 알게 됨
+* [76. kubernetes NodePort Networking 분석 (kube-proxy : IPVS mode)](https://ikcoo.tistory.com/166)
+* [How to learn and practice more in Kubernetes Network Policy for CKx exams and EKS ? - DEV Community](https://dev.to/aws-builders/how-to-learn-and-practice-more-in-kubernetes-network-policy-for-ckx-exams-and-eks--4cgn)
 * [Why (and when) you should use Kubernetes](https://hackernoon.com/why-and-when-you-should-use-kubernetes-8b50915d97d8)
 * [MSA, K8S를 이용한 대륙의 서비스 개발 사례](https://www.popit.kr/%ED%9B%84%EA%B8%B0msa-k8s%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8C%80%EB%A5%99%EC%9D%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EC%82%AC%EB%A1%80)
   * [Open infradays 2019_msa_k8s](https://www.slideshare.net/babokim/open-infradays-2019msak8s)
 * [대규모 Kubernetes 클러스터 구축기](https://engineering.linecorp.com/ko/blog/building-large-kubernetes-cluster/)
 * [arisu1000.tistory.com/category/Kubernetes](https://arisu1000.tistory.com/category/Kubernetes)
 * [구글 클라우드 스터디잼 (심화)  가이드라인](https://docs.google.com/presentation/d/1BCpECH6lWqwdWfD5eKQ-htKiNjTJh5yOQEnGglYj4fY)
-* [번역 쿠버네티스 네트워킹 이해하기#1: Pods](https://coffeewhale.com/k8s/network/2019/04/19/k8s-network-01/)
 * [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.slideshare.net/subicura/gitops-cicd-156402754)
 * [Virtual Kubelet을 활용해 Kubernetes를 서버리스 컨테이너로 확장하기](https://yunsangjun.github.io/blog/kubernetes/2019/08/25/virtual-kublet.html)
 * [Kubernetes Failure Stories](https://k8s.af)
@@ -948,7 +958,6 @@ Docker
 * [Kubernetes in Financial Services: A Practical Field Guide](https://www.youtube.com/watch?v=aXPu1DPrfZA)
 * [Should you use Kubernetes and Docker in your next project? - Junior Developers Singapore](https://www.youtube.com/watch?v=7XvgqDlp8sQ)
 * [A reason for unexplained connection timeouts on Kubernetes/Docker](https://tech.xing.com/a-reason-for-unexplained-connection-timeouts-on-kubernetes-docker-abd041cf7e02)
-* [**Journey to Kubernetes with Blockchain Network(+CKAD)**](https://engineering.linecorp.com/ko/blog/journey-to-kubernetes-with-blockchain-network-ckad/)
 * [KubeCon + CloudNativeCon North America 2019 참석기](https://blog.outsider.ne.kr/1470)
 * [5 Kubernetes trends to watch in 2020](https://enterprisersproject.com/article/2020/1/kubernetes-trends-watch-2020)
 * [쿠버네티스 정리 #1 - 쿠버네티스 소개](https://jungwoon.github.io/kubernetes/2020/01/19/Kubernetes-1/)
@@ -959,7 +968,6 @@ Docker
 * [Maybe You Don't Need Kubernetes](https://endler.dev/2019/maybe-you-dont-need-kubernetes/)
 * [‘쿠버네티스 상에서 직접 서버리스를’··· 주요 프로젝트 5종](http://www.ciokorea.com/news/141326)
 * [다시 정리하는 쿠버네티스 : 컴포넌트 개념 #1](https://jybaek.tistory.com/860)
-* [**Diving Deep Into Kubernetes Networking: Docker와 k8s 네트워크 분석**](https://woohhan.github.io/study/k8s_networking_deep_diving/)
 * [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
 * [Deployment Strategies In Kubernetes](https://auth0.com/blog/deployment-strategies-in-kubernetes/)
 * [쿠버네티스로 P2P 게임 테스트하기](https://snack.planetarium.dev/kor/2020/02/k8s-1/)
@@ -1061,12 +1069,6 @@ Docker
 * [토크ON세미나 쿠버네티스 살펴보기 6강 - Kubernetes(쿠버네티스) 실습 1 | T아카데미 - YouTube](https://www.youtube.com/watch?v=G0-VoHbunks)
 * [토크ON세미나 쿠버네티스 살펴보기 7강 - Kubernetes(쿠버네티스) 실습 2 | T아카데미 - YouTube](https://www.youtube.com/watch?v=v6TUgqfV3Fo)
 * [IDG 블로그 | 쿠버네티스를 좀 더 공격적으로 이용해야 하는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/193644)
-* [A Guide to the Kubernetes Networking Model - Kevin Sookocheff](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
-* [**번역 쿠버네티스 2,500대 노드 운영하기 | 커피고래의 노트**](https://coffeewhale.com/scaling-node01) etcd kube master docker image pull networking ARP cache
-  * OpenAI에서 Kubernetes의 노드를 2,500대 운영하면서 겪은 문제와 개선한 과정을 정리한 글을 번역
-  * 처음에는 etcd에서 성능 저하 발생, 이는 Fluentd와 Datadog의 문제였고 이는 해결했지만 Events API를 ectd 클러스터와 분리하는 것을 추천
-  * OpenAI의 특성상 작업을 한곳에 모으려고 kube-scheduler를 수정해서 작업이 한곳에 모였지만 노드에 집중되어서 발생한 문제가 발생
-  * 특정 Docker 이미지가 너무 큰 문제로 다른 이미지까지 지연되는 --serialize-image-pulls 설정 문제 등도 알게 됨
 * [번역 쿠버네티스 7,500개 노드 운영하기 | 커피고래의 노트](https://coffeewhale.com/scaling-node02)
 * [IPVS: How Kubernetes Services Direct Traffic to Pods | Dustin Specker](https://dustinspecker.com/posts/ipvs-how-kubernetes-services-direct-traffic-to-pods)
 * [Test your Kubernetes experiments with an open source web interface | Opensource.com](https://opensource.com/article/21/6/chaos-mesh-kubernetes)
@@ -1094,7 +1096,6 @@ Docker
 * [Setting and Rightsizing Kubernetes Resource Limits | Best Practices](https://www.containiq.com/post/setting-and-rightsizing-kubernetes-resource-limits)
 * [KCD KOREA 2021 쿼리파이를 지탱하는 오픈소스 도구들 | 문성주 - YouTube](https://www.youtube.com/watch?v=43UQhxUbiOU)
 * [How Linkerd uses iptables to transparently route Kubernetes traffic | Linkerd](https://linkerd.io/2021/09/23/how-linkerd-uses-iptables-to-transparently-route-kubernetes-traffic/index.html)
-* [76. kubernetes NodePort Networking 분석 (kube-proxy : IPVS mode)](https://ikcoo.tistory.com/166)
 * [Kubernetes Crash Course for Absolute Beginners NEW - YouTube](https://www.youtube.com/watch?v=s_o8dwzRlu4)
 * [3 Reasons to Choose a Wide Cluster over Multi-Cluster with Kubernetes | by Alex Feiszli | Oct, 2021 | ITNEXT](https://itnext.io/3-reasons-to-choose-a-wide-cluster-over-multi-cluster-with-kubernetes-c923fecf4644)
 * [컨테이너 탐험가를 위한 ‘쿠버네티스’ 안내서 - CIO Korea](https://www.ciokorea.com/news/211809)
