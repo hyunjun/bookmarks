@@ -261,6 +261,7 @@ Programming
 * [Practical Guide to SRE: Incident Severity Levels | Rootly](https://rootly.io/blog/practical-guide-to-sre-incident-severity-levels)
 * [SRE vs. DevOps: What are the Differences? - DZone DevOps](https://dzone.com/articles/sre-vs-devops-what-are-the-differences)
 * [Google - Site Reliability Engineering](https://sre.google/sre-book/accelerating-sre-on-call/)
+* [Google SRE: Site Reliability Engineering at a Global Scale – The New Stack](https://thenewstack.io/google-sre-site-reliability-engineering-at-a-global-scale/)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Teach Yourself Programming in Ten Years**](http://norvig.com/21-days.html)
 * [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
