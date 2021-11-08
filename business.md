@@ -989,3 +989,4 @@ Business
 * ['흔들어서 실행 취소'는 왜 골칫덩어리가 되었나](https://www.jiwon.me/why-shake-to-undo-sucks/)
 * [토스뱅크의 에러메시지에 동의하지 않습니다 - 에러메시지는 어떠해야 하는가](https://www.jiwon.me/tossbank-error-message/)
 * [프론트엔드 코딩 작업에 영감을 줄 8가지 아이디어 | 요즘IT](https://yozm.wishket.com/magazine/detail/806/)
+* [실전 UI/UX - 약관동의를 설계할때 고려해야할 것들](https://brunch.co.kr/@fbrudtjr1/34)
