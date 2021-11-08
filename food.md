@@ -130,6 +130,7 @@ Food
 * [최현태 기자의 와인홀릭](http://media.daum.net/series/80752?selectedNewsId=20161106130240611)
 * [와인 추천](https://imgur.com/a/O8mUNmG) 설명은 좀 틀리긴 함
 * [ESC 휴가 내고 가는 ‘와인 성지’…인기 이유가 있네! : ESC : 특화섹션 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/specialsection/esc_section/996840.html) 춘천세계주류마켓
+* [와인업계의 넷플릭스, 비비노(Vivino) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/winevivino20210917)
 
 # Bread
 * [스팀으로 되살린 식감 ‘진화한 토스터’](http://techholic.co.kr/archives/34238)
