@@ -420,6 +420,7 @@ AWS
 * [Detecting Locked Bicycle Stations: An AWS Serverless Story (Part 2) | by Jean Baptiste Muscat | CodeX | Medium](https://medium.com/codex/detecting-locked-bicycle-stations-an-aws-serverless-story-part-2-b1967d639699)
 * [Detecting Locked Bicycle Stations: An AWS Serverless Story (Part 3) | by Jean Baptiste Muscat | CodeX | Sep, 2021 | Medium](https://medium.com/codex/detecting-locked-bicycle-stations-an-aws-serverless-story-part-3-d532318dfca7)
 * [AWS에서 Video on Demand VOD 서비스하기 - YouTube](https://www.youtube.com/watch?v=bzxJkiJ77vg)
+* [CODE GURU REVIEWER를 사용하여 코드리뷰 받기 - DRAMA&COMPANY](https://blog.dramancompany.com/2021/11/code-guru-reviewer%eb%a5%bc-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97%ac-%ec%bd%94%eb%93%9c%eb%a6%ac%eb%b7%b0-%eb%b0%9b%ea%b8%b0/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
