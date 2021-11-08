@@ -29,6 +29,9 @@ House
 * [알기 어려운 부동산 법.. 임차권등기명령과 신청방법](http://realestate.daum.net/news/detail/main/20181122091911072)
 * [깡통전세 공포, 전세보증금 안돌려주는 집주인 대처법](http://board.realestate.daum.net/gaia/do/estate/power/read?bbsId=power&articleId=2048)
 * [전셋값 하락하는데.."집주인이 보증금을 안줘요"](http://realestate.daum.net/news/detail/main/20181102040003773)
+* [전세 사기를 피하는 3가지 방법](http://moneyman.kr/archives/7872)
+  * [서평 부동산 상식사전 : 네이버 블로그](https://blog.naver.com/zbxmsla/221473193627)
+* [여러분은 당하지 마세요. 누구나 당할 수 있는 전세사기수법 부동산경매 - YouTube](https://www.youtube.com/watch?v=yPDjzTvptoo)
 * [전세보증보험 들어도 전세사기를 당하는 이유는? 국가때문](https://brunch.co.kr/@readme999/241)
 * [매거진 | 전세보증금 반환 보증 보험](https://www.goodchobo.com/magazine/MZTY/269)
 * [전세 연장 하실 때 꼭 이것 확인하세요! 광장히 위험한 상황에 빠질 수 있습니다! - YouTube](https://www.youtube.com/watch?v=moxsBxln4K4)
@@ -48,8 +51,6 @@ House
   * 그래도 최우선변제금까지는 받을 수 있음. 우리나라 법은 웬만해선 임차인에게 유리하도록 되어있긴 함
   * 다만 전세인지 월세인지 등기가 되었는지 대항력이 있는지 확정일자는 언제받았는지 보증금은 얼마인지 등 상황에 따라 차이가 있음
 * [전세 · 월세계약서 나에게 유리하게 쓰는 TIP 4](https://www.youtube.com/watch?v=e8TFgcXc5vc)
-* [전세 사기를 피하는 3가지 방법](http://moneyman.kr/archives/7872)
-  * [서평 부동산 상식사전 : 네이버 블로그](https://blog.naver.com/zbxmsla/221473193627)
 * [전세계약대리인 주의합시다](https://blog.naver.com/hs-villa/221320279967)
 * [**역전세 상황에서 전세금 미반환으로 인한 소송 및 강제경매까지 후기**](https://gist.github.com/hyunjun/d35dc920155b31a259c47a59f142ee73#file-md)
 * [매거진 | 보증금을 지키는 방법, 전세권 설정](https://www.goodchobo.com/magazine/MZTY/529)
