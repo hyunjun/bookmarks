@@ -105,6 +105,7 @@
 * [Full-stack Reactive Kotlin with Project Reactor & Spring Boot 2](https://speakerdeck.com/mkheck/full-stack-reactive-kotlin-with-project-reactor-and-spring-boot-2)
 * [Kotlin으로 Spring 개발할 때 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-kotlin/)
 * [Reactive Streams and Kotlin Flows](https://medium.com/@elizarov/reactive-streams-and-kotlin-flows-bfd12772cda4)
+* [Pluu Dev - 요약 Kotlin Flows in practice (Android Dev Summit '21)](http://pluu.github.io/blog/android/androiddevsummit/2021/11/07/ads21-Kotlin-Flows-in-practice/)
 * [Hacking with Kotlin: prepending](https://proandroiddev.com/hacking-with-kotlin-prepending-d1ba87b64846)
 * [코틀린으로 구현하는 당신의 첫번째 Node.js app](https://devsh.tistory.com/135)
 * [Fast Prototypes with Flutter + Kotlin/Native](https://tech.olx.com/fast-prototypes-with-flutter-kotlin-native-d7ce5cfeb5f1)
