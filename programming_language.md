@@ -516,6 +516,7 @@ Programming Language
   * [V Lang 톺아보기 1 : 첫 만남](https://beomi.github.io/2019/10/20/Learning-VLang/)
   * [V 프로그래밍 언어](https://medium.com/@parkjoonkyu/v-프로그래밍-언어-80f94f20b23c)
 * [Varnish Goes Upstack With Varnish Modules And Varnish Configuration Language](http://highscalability.com/blog/2015/5/6/varnish-goes-upstack-with-varnish-modules-and-varnish-config.html)
+* [verse: The Verse Programming Language](https://github.com/verse-lang/verse)
 * Wasabi
   * [Wasabi: The ??? Parts](http://jacob.jkrall.net/wasabi-the-parts/)
 * Wolfram Language
