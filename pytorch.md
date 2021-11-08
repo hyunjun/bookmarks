@@ -198,6 +198,7 @@ PyTorch
 * [PyTorch to TF.js Conversion](https://swyoon.notion.site/PyTorch-to-TF-js-Conversion-9eb8062fa524429c9c8df73b03a09c71)
 * [Automatic Differentiation in Python and PyTorch - YouTube](https://www.youtube.com/watch?v=9aBpF0-JH7A)
 * [Pytorch로 ResNet 구현, torch summary 살펴보기](https://velog.io/@gibonki77/ResNetwithPyTorch)
+* [Deep Learning: Graph Neural Networks (GNN) for Information Extraction with PyTorch - YouTube](https://www.youtube.com/watch?v=lQLsswJHa_c)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
