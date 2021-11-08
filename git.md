@@ -408,6 +408,7 @@ Git
   * [충돌 없는 Git을 위해 Git Flow에 대해 알아보자](https://velog.io/@couchcoding/%EC%B6%A9%EB%8F%8C-%EC%97%86%EB%8A%94-Git%EC%9D%84-%EC%9C%84%ED%95%B4-Git-Flow%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
   * [git flow model - YouTube](https://www.youtube.com/watch?v=EzcF6RX8RrQ)
   * [git-flow 소개, 설치 및 사용법](https://hbase.tistory.com/60)
+  * [git flow - 출시와 개발을 동시에 진행하는 방법 - YouTube](https://www.youtube.com/watch?v=w2F8O9J1keM)
   * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
   * [Git 브랜칭 전략 : Git-flow와 Github-flow :: 갓우리코딩](https://hellowoori.tistory.com/56)
   * [Git Flow Is A Bad Idea - YouTube](https://www.youtube.com/watch?v=_w6TwnLCFwA) git flow 반대. CI/CD를 위해 master의 매 commit이 production이 되어야 하고, 그게 delivery의 시작점이라고 주장
