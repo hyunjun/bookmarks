@@ -93,6 +93,7 @@ Writing
 * [주니어 개발자가 처음 책 출판해본 썰.txt - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/09/12/Review-of-Book-Publication.html)
 * [Explaining explaining: a quick guide on explanatory writing](https://lucasfcosta.com/2021/09/30/explaining-in-writing.html)
 * [38 Incredible Notetaking Statistics You Should Know | Paperlike](https://paperlike.com/blogs/paperlikers-insights/38-notetaking-statistics)
+* [고사성어(故事成語)에서 배우는 교훈-2 啐啄同時(줄탁동시)](http://www.gasnews.com/news/articleView.html?idxno=90108)
 
 # Book
 * [더북(TheBook): 스타일과 목적을 살리는 웹 글쓰기](https://thebook.io/006745/) 1~4장만
