@@ -356,6 +356,11 @@ History
 * [기사 - 홍콩의 진실에 대하여 7: 영국과 일본의 식민지배, 다른 평가와 이유는?](https://www.ddanzi.com/ddanziNews/698759608)
 * [기사 - 홍콩의 진실에 대하여 8: 중국보다 영국에 기운 결정적 사건, 문화대혁명](https://www.ddanzi.com/ddanziNews/699842351)
 * [기사 - 홍콩의 진실에 대하여 9: 중국의 속마음은 상상과는 조금 달랐다](https://www.ddanzi.com/ddanziNews/700877592)
+* [기사 - 홍콩의 진실에 대하여 10: 오우삼과 왕가위의 청년시절, 홍콩은 어땠을까](https://www.ddanzi.com/ddanziNews/701974360)
+* [기사 - 홍콩의 진실에 대하여 11: 일국양제지만, 중국 마음대로 할 수 있는 이유는?](https://www.ddanzi.com/ddanziNews/704065896)
+* [기사 - 홍콩의 진실에 대하여 12: 일국이냐, 양제냐](https://www.ddanzi.com/ddanziNews/706479892)
+* [기사 - 홍콩의 진실에 대하여 13: 인구의 1%가 한 번에 떠난 이유](https://www.ddanzi.com/ddanziNews/707800389)
+* [기사 - 홍콩의 진실에 대하여 14: 홍콩인은 어떻게 사라지고 있는가](https://www.ddanzi.com/ddanziNews/708283432)
 * [왜 중국은 고령화를 걱정하는가?](https://pgr21.com/freedom/90326)
 
 ## India
