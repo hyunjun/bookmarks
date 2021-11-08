@@ -1053,7 +1053,9 @@ Linux
 * [MinIO Client - a replacement for ls, cp, mkdir, diff and rsync commands for filesystems and object storage. https://min.io/download ](https://github.com/minio/mc)
 * [Mosh: the mobile shell](https://mosh.org/)
   * [Mosh : Mobile Shell - 진화된 SSH | GeekNews](https://news.hada.io/topic?id=4810)
-* ngrok [외부 네트워크에서 localhost로 접속 - ngrok](https://jybaek.tistory.com/798)
+* ngrok
+  * [외부 네트워크에서 localhost로 접속 - ngrok](https://jybaek.tistory.com/798)
+  * [웹 프론트엔드 개발에 ngrok 사용하기 개발 강의 & 팁 - YouTube](https://www.youtube.com/watch?v=zzD4v4BFx58)
 * [netmap - the fast packet I/O framework](http://info.iet.unipi.it/~luigi/netmap/)
 * [nextspace - NeXTSTEP-like desktop environment for Linux https://trunkmaster.github.io ](https://github.com/trunkmaster/nextspace)
 * [nnn - The fastest terminal file manager ever written](https://github.com/jarun/nnn)
