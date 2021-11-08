@@ -81,6 +81,7 @@ Programmer
 * [신입 개발자로서 도움이 된 포스트/자료 모음](https://velog.io/@hyounglee/for-newbies)
 * [쏘카 안드로이드 팀 신입 개발자 미뇽의 입사기 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2021/08/19/join-in-socar-android.html)
 * [기업들이 신입개발자를 뽑지 않는 이유 – IT의 중심에서](https://subokim.wordpress.com/2021/09/15/why_dont_intern/)
+* [신입 개발자가 알면 좋은 개발 외적인 개념](https://velog.io/@jereint20/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B0%9C%EB%B0%9C-%EC%99%B8%EC%A0%81%EC%9D%B8-%EA%B0%9C%EB%85%90)
 * [Why I prefer making useless stuff - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
 * [System Compleat. System Compleat.](https://kerberosj.tistory.com/) Singapore DBS 근무
 * [왜 개발자는 잘못된 기술 선택을 밥 먹듯이 하나?](https://kingofbackend.tistory.com/129)
