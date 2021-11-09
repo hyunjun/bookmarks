@@ -468,6 +468,7 @@ Scala
 * [Akka Stream Coexistence With Akka Typed](https://kaplan.dev/articles/akka-stream-coexistence-with-akka-typed/)
 * [Akka Streams — Getting Started. From zero to production with Akka… | by Sergio Cano | Aug, 2021 | Medium](https://medium.com/@canosergio90/akka-streams-getting-started-32b5ebc60604)
 * [Demystifying Akka Streams' Materialized Values | Nivox's Hub](http://nivox.github.io/posts/akka-stream-materialized-values/)
+* [Akka Streams Backpressure - a Demonstration - YouTube](https://www.youtube.com/watch?v=L5FAyCCWGL0)
 * [Akka Typed: Stateful and Stateless Actors | Rock the JVM - YouTube](https://www.youtube.com/watch?v=gwZjdRQTPu8)
 * [Akka Typed: Message adapters - YouTube](https://www.youtube.com/watch?v=aVgjEMA1AEQ)
 * [(Typed) Akka document 읽으면서 소소하게 정리 (Getting Started Guide)](https://wingnim.tistory.com/119)
