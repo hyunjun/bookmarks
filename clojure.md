@@ -112,6 +112,7 @@ Clojure
 * [clojure-study/guestbook](https://github.com/clojure-study/guestbook)
 * [Dataflow (Reactive) Programming](http://docs.paralleluniverse.co/pulsar/#dataflow-reactive-programming)
 * [Rich Already Answered That!](https://gist.github.com/reborg/dc8b0c96c397a56668905e2767fd697f#how-can-i-achieve-programming-mastery)
+* [Rich-Hickey-fanclub: "every time I watch one of his talks I feel like someone has gone in and organized my brain"](https://github.com/tallesl/Rich-Hickey-fanclub)
 * [Introduction to Logic Programming with Clojure - Ambrose Bonnaire-Sergeant](https://www.youtube.com/watch?v=irjP8BO1B8Y)
 * [One Major Difference Between Clojure And Common Lisp](http://gilesbowkett.blogspot.kr/2015/01/one-major-difference-between-clojure.html)
 * [Four Reasons to Use Maps Instead of Classes](http://spin.atomicobject.com/2015/09/14/clojure-maps-objects-classes/)
@@ -406,6 +407,7 @@ Clojure
 * [Clojure and Postgres, no JDBC. By Duane Bester | ITNEXT](https://itnext.io/talking-to-postgres-with-clojure-3b2b24ebfb3)
 * [Clojure meets Minecraft (Witchcraft/Glowstone) - YouTube](https://www.youtube.com/watch?v=qgQwhc_DDSY)
 * [SymmetricalDataSecurity: Idiomatic Clojure without sacrificing performance](http://symmetricaldatasecurity.blogspot.com/2021/10/idiomatic-clojure-without-sacrificing.html)
+* [PurefunctionPipelineDataflow/DataFlow_dataOriented_DataDriven_en.md at master · linpengcheng/PurefunctionPipelineDataflow](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/DataFlow_dataOriented_DataDriven_en.md)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
@@ -425,6 +427,7 @@ Clojure
 * [Clojure Error Messages are Accidental - LispCast](https://lispcast.com/clojure-error-messages-accidental/)
 * [Working with binary data in clojure](https://fctorial.com/posts/parse_struct.html) serialization
 * [Clojure Sequence API Cheatsheet – Nextjournal](https://nextjournal.com/try/jackrusher/clojure-sequence-api-cheatsheet)
+* [Clojure: Sequences, part 1](https://tylerrhodes.net/posts/clojure-sequences/)
 * clojure.spec
   * [INTRODUCING CLOJURE.SPEC](http://blog.cognitect.com/blog/2016/5/23/introducing-clojurespec)
   * [A Tool For Thought](http://swannodette.github.io/2016/06/03/tools-for-thought)
@@ -1130,6 +1133,7 @@ Clojure
 * [vizard - magic visualization](https://github.com/yieldbot/vizard)
 * [void.cljc: About void and absence of information](https://github.com/helins/void.cljc)
 * [walkable - SQL library for building APIs](https://walkable.gitlab.io/)
+* [XTDB history API - Clojure Tutorial - YouTube](https://www.youtube.com/watch?v=coNzTkrcAIc)
 * [ziggurat: A stream processing framework to build stateless applications on Kafka](https://github.com/gojek/ziggurat)
 
 ## Library Command Line
