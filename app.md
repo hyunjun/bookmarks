@@ -478,7 +478,7 @@ App
   * 검색엔진 https://www.algolia.com
   * 유저 비밀번호 관리 https://auth0.com https://aws.amazon.com/ko/cognito
   * 이메일 https://www.mailgun.com https://mailchimp.com
-  * SSL Certificate https://letsencrypt.org
+  * SSL Certificate [Let's Encrypt](https://letsencrypt.org/)
   * 백엔드 https://www.heroku.com https://aws.amazon.com
   * 프론트엔드 https://pages.github.com https://www.netlify.com
   * 서버리스 https://aws.amazon.com/lambda https://cloud.google.com/functions
