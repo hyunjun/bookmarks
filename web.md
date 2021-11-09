@@ -1043,6 +1043,7 @@ Web
   * [실제 웹사이트에서 Web Vitals 디버깅하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1548) 
   * [web-performance-test: lighthouse 자동화 스크립트](https://github.com/sangheon-kim/web-performance-test)
   * [Web Performance Testing With Cypress and Google Lighthouse](https://www.lambdatest.com/blog/using-cypress-google-lighthouse-performance-testing/)
+* [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
 * [the-benchmarker/web-frameworks: Which is the fastest web framework?](https://github.com/the-benchmarker/web-frameworks)
 * [webhint, the hinting engine for web best practices](https://webhint.io/)
   * [WebHint - 웹사이트 개선을 위한 도구 | GeekNews](https://news.hada.io/topic?id=4480)
