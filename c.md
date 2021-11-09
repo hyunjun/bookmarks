@@ -563,6 +563,7 @@ C
 * [C프로그래밍 - YouTube](https://www.youtube.com/playlist?list=PLTaZLG4fpb-v6l46734j2XFgc9yyM5p27)
 * [C Lang 이론 카테고리 목록](https://lypicfa.tistory.com/555)
 * [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/)
+* [C언어 기초 CURSE Hello, World 출력하기](https://www.jiwon.me/hello-world/)
 
 # Web
 * [**나만의 웹서버 구현해보기!**](https://velog.io/@seanlion/webserver)
