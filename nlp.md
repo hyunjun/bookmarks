@@ -925,6 +925,7 @@ NLP
   * [KLUE 한국어 데이터 셋 | GeekNews](https://news.hada.io/topic?id=4644)
 * [KoBigBird: 🦅 Pretrained BigBird Model for Korean (up to 4096 tokens)](https://github.com/monologg/KoBigBird)
 * [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA)
+* [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
 * [tunib-electra: Korean-English Bilingual Electra Models](https://github.com/tunib-ai/tunib-electra)
