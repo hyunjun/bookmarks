@@ -1061,6 +1061,7 @@ Linux
 * ngrok
   * [외부 네트워크에서 localhost로 접속 - ngrok](https://jybaek.tistory.com/798)
   * [웹 프론트엔드 개발에 ngrok 사용하기 개발 강의 & 팁 - YouTube](https://www.youtube.com/watch?v=zzD4v4BFx58)
+  * [ngrok - 포트포워딩 없이 외부에 로컬서버 공개하기](https://hudi.blog/ngrok/)
 * [netmap - the fast packet I/O framework](http://info.iet.unipi.it/~luigi/netmap/)
 * [nextspace - NeXTSTEP-like desktop environment for Linux https://trunkmaster.github.io ](https://github.com/trunkmaster/nextspace)
 * [nnn - The fastest terminal file manager ever written](https://github.com/jarun/nnn)
