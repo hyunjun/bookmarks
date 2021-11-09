@@ -939,6 +939,7 @@ Python
   * [Power-Up Your Python Logging. A guide to take you from beginner to… | by David Tippett | Better Programming | Medium](https://medium.com/better-programming/power-up-your-python-logging-6dd3ed38f322)
   * [Autologging — easier logging and tracing for Python classes](http://pythonhosted.org/Autologging/)
   * [loguru: Python logging made (stupidly) simple](https://github.com/Delgan/loguru)
+    * [loguru를 사용하여 python 로깅 쉽게하기 | 잡잡 블로그](https://kimeuichan.github.io/posts/python-logging-with-loguru/)
   * logzero [Robust and effective logging for Python 2 and 3](https://pythonawesome.com/robust-and-effective-logging-for-python-2-and-3/)
   * [python-json-logger · PyPI](https://pypi.org/project/python-json-logger/)
     * [Json Formatter for the standard python logger](https://pythonawesome.com/json-formatter-for-the-standard-python-logger/)
@@ -1704,6 +1705,8 @@ Python
 * [When Python Practices Go Wrong - YouTube](https://www.youtube.com/watch?v=ZdVgwhHXMpE)
 * [키노트 파이썬 커뮤니티가 교육에 기여할 수 있는 것들 - 송석리 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=ex2STT6GX-U&t=418s)
 * [Python News Brief (Q2 2021) - Honeybadger Developer Blog](https://www.honeybadger.io/blog/2021-q2-python/)
+* [10 Tools & Techniques Python Web Developers Should Explore - YouTube](https://www.youtube.com/watch?v=XqL9sI1kWqA)
+  * [mikeckennedy/ten-tips-python-web-devs: Repo for topics covered during the presentation](https://github.com/mikeckennedy/ten-tips-python-web-devs/)
 
 ## Conference EuroPython
 * [EuroPython Podcast Questions](http://blog.europython.eu/post/115838231717/europython-podcast-questions)
@@ -3566,6 +3569,8 @@ Python
   * [웹 스크래핑(web scraping with python)](http://slowcampus.com/5)
   * [웹사이트 크롤링해서 파일 저장 하기(분양정보수집사례)](http://uslifelog.tistory.com/45)
   * [웹크롤러 scrapy를 소개합니다](https://jybaek.tistory.com/927)
+* [secure: Secure 🔒 headers for Python web frameworks](https://github.com/mikeckennedy/secure)
+* [secure.py — secure.py 0.3.0 documentation](https://secure.readthedocs.io/)
 * [ShinySDR - This is the software component of a software-defined radio receiver](https://github.com/kpreid/shinysdr)
   * [simm.py](http://public.semantic-db.org/simm.py)
 * SimPy
