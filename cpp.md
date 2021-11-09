@@ -40,6 +40,7 @@ C++
   * [2. The State Monad](http://bartoszmilewski.com/2015/05/14/using-monads-in-c-to-solve-constraints-2-the-state-monad/)
   * [3. The Tale of Two Monads](http://bartoszmilewski.com/2015/05/18/using-monads-in-c-to-solve-constraints-3-the-tale-of-two-monads/)
   * [4. Refactoring](http://bartoszmilewski.com/2015/05/25/using-monads-in-c-to-solve-constraints-4-refactoring/)
+* [Monoids, Monads, and Applicative Functors: Repeated Software Patterns - YouTube](https://www.youtube.com/watch?v=woXnRQR8dQ4)
 * [HOW TO IMPLEMENT A CONSTANT-EXPRESSION COUNTER IN C++](http://b.atch.se/posts/constexpr-counter/)
 * [Publishing Effective Modern C++, Part 1](http://scottmeyers.blogspot.kr/2015/05/publishing-effective-modern-c-part-1.html)
 * [Publishing Effective Modern C++, Part 2](http://scottmeyers.blogspot.kr/2015/06/publishing-effective-modern-c-part-2.html)
