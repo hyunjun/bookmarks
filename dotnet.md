@@ -143,6 +143,7 @@
 * [.NETMemoryPerformanceAnalysis.md at master · Maoni0/mem-doc](https://github.com/Maoni0/mem-doc/blob/master/doc/.NETMemoryPerformanceAnalysis.md)
 * [.NET nanoFramework – Making it easy to write C# code for embedded systems](https://www.nanoframework.net/)
   * [임베디드 시스템용 C# 코드 작성 쉽게··· ‘닷넷 나노프레임워크’란? - CIO Korea](https://www.ciokorea.com/news/179839)
+* [NWebsec - Security libraries for ASP.NET Core — NWebsec documentation](https://docs.nwebsec.com/)
 * [referencesource.microsoft.com](http://referencesource.microsoft.com/) .NET Framework source code online
 * Uno [Uno - 싱글 코드로 모든 OS를 지원하는 플랫폼 | GeekNews](https://news.hada.io/topic?id=3153)
 
