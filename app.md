@@ -935,6 +935,8 @@ App
     * `/usr/local/Cellar/ffmpeg/2.8.1_1/bin/ffmpeg -i <MOV> [-acodec copy -vcodec copy] <mp4>`
     * `ffmpeg -n -loglevel error -i <MOV> -vcodec libx264 -crf 28 -preset faster -tune film <mp4>` test에서 11.1MB가 5.2MB로 감소
       * [How can I reduce a video's size with ffmpeg? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/28803/how-can-i-reduce-a-videos-size-with-ffmpeg)
+    * `ffmpeg -i <.mp4> -b:a 320K -vn <.mp3>`
+      * [How can I convert MP4 video to MP3 audio with FFmpeg? - Super User](https://superuser.com/questions/332347/how-can-i-convert-mp4-video-to-mp3-audio-with-ffmpeg)
     * [ffmpeg 자막입히기, 자막 위치 조정](http://kerberosj.tistory.com/233)
     * [FFMPEG processing](https://leanpub.com/ffmpeg/read_full)
     * [동영상 파일 미리보기 이미지로 쪼개기 – rein's world](https://rein.kr/blog/archives/4561)
@@ -1370,6 +1372,9 @@ App
 * [Photopea | Online Photo Editor](https://www.photopea.com/)
   * [Photopea - 웹 기반 PSD 이미지 에디터 | GeekNews](https://news.hada.io/topic?id=534)
 * [Piskel - Free online sprite editor](https://www.piskelapp.com/)
+* [pytube: A lightweight, dependency-free Python library (and command-line utility) for downloading YouTube Videos](https://github.com/pytube/pytube)
+  * [pytube — pytube 11.0.1 documentation](https://pytube.io/)
+  * [파이썬 유튜브 음원 추출 Youtube mp4 mp3](https://blog.naver.com/dsz08082/221753467977)
 * [Radium - The Music Editor](http://users.notam02.no/~kjetism/radium/)
 * [remotion: 🎥 Create videos programmatically in React](https://github.com/JonnyBurger/remotion)
   * React로 programmatically하게 동영상 만들기
@@ -1602,6 +1607,9 @@ App
 * ["더 빠르고 편리해" 아직도 유효한 윈도우 명령 프롬프트 6가지 - ITWorld Korea](https://www.itworld.co.kr/news/195299) echo powercfg ipconfig tracert sfc chkdsk
 * [내 PC 하드웨어 사양과 제품 정보, 윈도우 10 기본 도구로 알아보기 - ITWorld Korea](https://www.itworld.co.kr/news/200559) HWiNFO Spaccy
 * [CPU TPM BIOS 제한 없이 구형 컴퓨터에서 윈도우11 클린 설치하기 : zelon's blog](http://blog.wimy.com/467/)
+* ['한번 쓰면 빠져나올 수 없는' 윈도우 고급 사용자 도구 5종](https://open-support.tistory.com/entry/%ED%95%9C%EB%B2%88-%EC%93%B0%EB%A9%B4-%EB%B9%A0%EC%A0%B8%EB%82%98%EC%98%AC-%EC%88%98-%EC%97%86%EB%8A%94-%EC%9C%88%EB%8F%84%EC%9A%B0-%EA%B3%A0%EA%B8%89-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%8F%84%EA%B5%AC-5%EC%A2%85)
+  * 사운드스위치, 미니빈, SharpKeys, powertoys Fancy Zones
+  * [SpaceSniffer, find lost disk space the easy way](http://www.uderzo.it/main_products/space_sniffer/)
 * 복구
   * [recuva](https://www.piriform.com/recuva)
   * [testdisk 7.0](http://www.cgsecurity.org/wiki/TestDisk_Download)
@@ -1634,7 +1642,7 @@ App
 * [PSPad - free unicode developer editor, handles near any syntax like HTML, PHP, XHTML, R, JavaScript, ASP, Perl, C and many other languages with HEX editor, multilanguage interface](https://www.pspad.com/en/)
 * [Rufus - create bootable USB](http://rufus.akeo.ie/)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
-* [**SharpKeys - a utility that manages a Registry key that allows Windows to remap one key to any other key**](https://sharpkeys.codeplex.com/)
+* [**SharpKeys | randyrants.com**](https://www.randyrants.com/category/sharpkeys/) a utility that manages a Registry key that allows Windows to remap one key to any other key
 * [Simplevisor -  simple, portable, Intel VT-x hypervisor](https://ionescu007.github.io/SimpleVisor/)
 * [StaffPad is a brand new class of notation app](http://www.staffpad.net/)
 * [wincompose: 🔣 Compose Key for Windows](https://github.com/samhocevar/wincompose) special key 입력
