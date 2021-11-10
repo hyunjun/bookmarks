@@ -803,6 +803,7 @@ Web
   * [Building a Kanban Board App in FastAPI and React - YouTube](https://www.youtube.com/watch?v=tX0h1PQgWPw)
   * [emoji_rank: This is slack bot for emoji ranking](https://github.com/JAY-Chan9yu/emoji_rank)
     * [오픈소스 프로젝트를 만들어본 썰 풉니다! (feat. FastAPI, Slack) :: Jay's Code Factory](https://jay-ji.tistory.com/82)
+  * [Moving Fast with FastAPI (aka Building a Web App with FastAPI) - YouTube](https://www.youtube.com/watch?v=R-YX_7-7dm0)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [fastapi-boilerplate: FastAPI Boilerplate](https://github.com/teamhide/fastapi-boilerplate)
