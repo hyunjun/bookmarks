@@ -85,6 +85,7 @@
 * [.NET for Beginners - Dusted Codes](https://dusted.codes/dotnet-for-beginners)
 * [알아두면 쓸모 있는 .NET 이야기 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=31479637&memberNo=36733075&navigationType=push)
 * [.NET Microservices – Full Course - YouTube](https://www.youtube.com/watch?v=DgVjEo3OGBI)
+* [닷넷 Hot Reload 삭제 사건 - DEV Community](https://dev.to/composite/dasnes-hot-reload-sagje-sageon-5c3g)
 
 # Book
 * [더북(TheBook): ASP.NET & Core를 다루는 기술](https://thebook.io/006824/)
