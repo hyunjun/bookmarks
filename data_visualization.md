@@ -524,6 +524,7 @@ Data Visualization
   * [Seaborn Heatmap & Colorbar Control | Pega Devlog](https://jehyunlee.github.io/2021/07/01/Python-DS-78-heatmapcolorbar/)
   * [Full moon | Pega Devlog](https://jehyunlee.github.io/2021/09/26/Python-General-9-fullmoon/)
   * [modifying seaborn violin plot | Pega Devlog](https://jehyunlee.github.io/2021/10/21/Python-DS-87_violinplotedit/)
+  * [solar radiation - time and space | Pega Devlog](https://jehyunlee.github.io/2021/11/09/Python-DS-88_gpd_mpl/)
   * [Matplotlib+ Seaborn + Pandas: An Ideal Amalgamation for Statistical Data Visualisation | by Meet Desai | Towards Data Science](https://towardsdatascience.com/matplotlib-seaborn-pandas-an-ideal-amalgamation-for-statistical-data-visualisation-f619c8e8baa3)
   * [파이썬 데이터 시각화 도구 씨본의 변화들 seaborn - distplot이 없어졌다?! - YouTube](https://www.youtube.com/watch?v=J2KTLJQDN6k)
   * [Mastering catplot() in Seaborn with categorical plots | Towards Data Science](https://towardsdatascience.com/mastering-catplot-in-seaborn-categorical-data-visualization-guide-abab7b2067af)
