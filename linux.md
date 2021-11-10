@@ -125,6 +125,7 @@ Linux
 * [Bringing the Unix Philosophy to the 21st Century | Brazil's Blog](https://blog.kellybrazil.com/2019/11/26/bringing-the-unix-philosophy-to-the-21st-century/)
 * [Understanding I/O Wait (or why 0% Idle can be OK) - Witekio - Embedded systems & IoT Experts](https://witekio.com/blog/understanding-i-o-wait-or-why-0-idle-can-be-ok-3/)
 * ["Static Linking Considered Harmful" Considered Harmful | Gavin D. Howard](https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/)
+* [Linux Directories Explained in 100 Seconds - YouTube](https://www.youtube.com/watch?v=42iQKuQodW4)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
