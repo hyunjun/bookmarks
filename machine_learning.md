@@ -880,6 +880,7 @@ Machine Learning
 * [Machine Learning Full Course | Learn Machine Learning | Machine Learning Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=9f-GarcDY58)
 * [ML-For-Beginners: 12 weeks, 24 lessons, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)
 * [(ML Lecture 01) Regression Case Study](https://gcamp.tistory.com/1766)
+* [ML-YouTube-Courses: A repository to index and organize the latest machine learning courses found on YouTube](https://github.com/dair-ai/ML-YouTube-Courses)
 * [Best Machine Learning Courses for Finance You Must Know in 2021](https://www.mltut.com/best-machine-learning-courses-for-finance/)
 * [Best Resources to Learn Machine Learning Online in 2021](https://www.mltut.com/best-resources-to-learn-machine-learning-online/)
 * [learning-machine: A handbook for ML built on answers](https://github.com/rentruewang/learning-machine)
