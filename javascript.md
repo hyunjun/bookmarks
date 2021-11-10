@@ -478,6 +478,7 @@ Javascript
   * CORS는 credentials를 포함하지 않으므로 fecth()에서 credentials 옵션이나 HTML 요소에서 crossorigin="use-credentials"를 지정해서 크리덴셜 포함 가능
   * 예외적인 요청을 보낼 때 브라우저는 preflight 요청을 먼저 송신. 메인 요청 전에 목적 URL에 OPTIONS로 보내는 요청
   * CORS를 테스트할 수 있는 플레이그라운드 제공
+* [CORS에서 이기는 방법 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20211110)
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [메모리 크래시가 일어나는 과정](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
