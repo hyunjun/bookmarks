@@ -1882,6 +1882,8 @@ Programming
   * [if (kakao)2020 기술 세션 다시보기 – tech.kakao.com](https://tech.kakao.com/2020/11/24/if-kakao-2020-dev-session/)
 * [JetBrains Day 2018 스케치 영상](https://www.youtube.com/playlist?list=PLQ176FUIyIUYTei17s-bjW27MVV2jmSGs) plugin, upsource, rider, intelliJ, kotlin
 * Line
+  * [LINE 앱을 위한 확장 가능한 멀티 데이터 센터 ID제너레이터 - 2021 Korean version - - YouTube](https://www.youtube.com/watch?v=Nj6z8NgKun0) ULI
+    * [Scalable Multi Datacenter ID Generator for LINE's Messaging Application - Speaker Deck](https://speakerdeck.com/line_devday2021/scalable-multi-datacenter-id-generator-for-lines-messaging-application)
   * [LINE DEVELOPER DAY 2020 개최 후기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-developer-day-2020-report/)
   * [일본 LINE DEVELOPER DAY 2018 방문기](https://engineering.linecorp.com/ko/blog/line-developer-day-2018/)
 * NDC
@@ -3471,6 +3473,7 @@ Programming
     * 하지만 error report가 올라가지 않았는데 그 이유는 NIC module 문제로 network 자체가 안 되어 오류 수집도 불가능하니 보고도 안되어서
     * 그나마 다행이었던 점은 server 작업이 email 처리이기 때문에 시간이 밀려도 처리만 제대로 되면 문제가 발생하지 않는 건데, 만약 실시간성 작업이었으면 문제가 커졌을 듯
 * [LINE의 장애 보고와 후속 절차 문화](https://engineering.linecorp.com/ko/blog/line-failure-reporting-and-follow-up-process-culture/)
+* [LINE 플랫폼 서버의 장애 대응 프로세스와 문화 - 2021 Korean version - - YouTube](https://www.youtube.com/watch?v=YS35AGyq4aY)
 * [테크이야기 앱 서비스 장애편 #1 - 화면 로딩 속도](https://blog.imqa.io/app_failure_launch_time/)
 * [앱 서비스 장애편 #2 - 폰의 발열이 심해요 (CPU/GPU 편)](https://blog.imqa.io/app_failure_overheating_issue/)
 * [How we found and fixed a rare race condition in our session handling - The GitHub Blog](https://github.blog/2021-03-18-how-we-found-and-fixed-a-rare-race-condition-in-our-session-handling/)
