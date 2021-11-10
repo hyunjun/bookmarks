@@ -1109,6 +1109,9 @@ AWS
 * [RDS 생성 및 R/Python 연동 - 미완성의신](https://unfinishedgod.netlify.app/2021/03/05/aws-rds-%EC%83%9D%EC%84%B1-%EB%B0%8F-r-python-%EC%97%B0%EB%8F%99/)
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 
+# Redshift
+* [Redshift 슈퍼계정 이름 변경](https://jybaek.tistory.com/938)
+
 # Route53
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
 * [aws route53 의 응답이상](https://linuxer.name/2020/01/aws-route53-의-응답이상)
