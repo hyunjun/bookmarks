@@ -3714,6 +3714,7 @@ Javascript
   * [React’s sync and async `act`. One challenge of writing React tests is… | by Ben Brostoff | Medium](https://medium.com/@bmb21/reacts-sync-and-async-act-caa297b658b0)
   * [Test Coverage를 유지하는 방법. 어떤 코드를 테스트 해야할까? — Jest의 활용 | by Yeongsu Han | 원티드 제품 팀블로그 | Jun, 2021 | Medium](https://medium.com/wantedjobs/test-coverage%EB%A5%BC-%EC%9C%A0%EC%A7%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-21a7461997cf) jest enzyme codecov
   * [테스트 픽스처 올바르게 사용하기](https://jojoldu.tistory.com/611)
+  * [테스트 코드에서 내부 구현 검증 피하기](https://jojoldu.tistory.com/614)
 * [Mocha.js](https://github.com/mochajs)
   * [Mocha 로 하는 JavaScript Testing](http://inspiredjw.com/entry/Mocha-%EB%A1%9C-%ED%95%98%EB%8A%94-JavaScript-Testing)
   * [Mocha.js org의 멤버가 되다](https://blog.outsider.ne.kr/1360)
