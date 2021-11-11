@@ -162,3 +162,4 @@ Monitoring
 * [토스의 서버 인프라 모니터링](https://toss.im/slash-21/sessions/1-2)
 * [Amazon debuts fully managed, Prometheus-based container monitoring service - SiliconANGLE](https://siliconangle.com/2021/09/29/amazon-debuts-fully-managed-prometheus-based-container-monitoring-service/)
 * [A different and (often) better way to downsample your Prometheus metrics](https://blog.timescale.com/blog/a-different-and-often-better-way-to-downsample-your-prometheus-metrics/)
+* [Monitoring Rust web application with Prometheus and Grafana | Roman Kudryashov's tech blog](https://romankudryashov.com/blog/2021/11/monitoring-rust-web-application/)
