@@ -72,6 +72,12 @@ Programming Books
 * [해킹 일렉트로닉스: 아두이노와 라즈베리 파이로 배우는 전자공학](http://jpub.tistory.com/821)
   * 2018.09
   * 한라 569몽877ㅎ
+* [오늘부터 개발자](https://jh4hj.tistory.com/entry/%EC%98%A4%EB%8A%98%EB%B6%80%ED%84%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90)
+  * [오늘부터 개발자. 이런 책도 출판되는 걸 보면 확실히 개발자가 부족하긴 하다. 우리… | by Jun | Nov, 2021 | Medium](https://nymets.medium.com/%EC%98%A4%EB%8A%98%EB%B6%80%ED%84%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90-fbf62d0e9876)
+  * 2021.11.11
+  * ★★★★☆
+  * 제목 그대로 비전공자가 개발자가 되기 위해 필요한 부분을 자세히 설명한 책
+  * 이미 개발자가 된 사람에게는 전혀 필요없지만 관심을 갖는 사람을 위해 읽어보라고 하기에는 매우 좋다
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
 * (NOT YET) 앤서블 철저 입문
