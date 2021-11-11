@@ -1652,6 +1652,8 @@ Programming
 * [글로벌 기업은 코드 리뷰를 어떻게 할까요? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=30978428&memberNo=36733075&navigationType=push)
 * [How to Review Someone Else’s Code: Tips and Best Practices](https://www.codecademy.com/resources/blog/code-review-best-practices/)
 * [코드 리뷰프로세스를 도입/개선하고자 하는데 어떻게 해야할까요? | by gon Kim | elecle | Oct, 2021 | Medium](https://medium.com/elecle-bike/%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC-%EB%8F%84%EC%9E%85-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B3%A0%EC%9E%90-%ED%95%98%EB%8A%94%EB%8D%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C%EC%9A%94-1e5df5f8949b)
+* [Code review — bad, expensive, ineffective (in most cases)](https://github.com/sharovatov/teamlead/blob/master/codereview_en.md)
+* [Code Reviews: From Bottleneck to Superpower (Code Reviews Best Practices) - YouTube](https://www.youtube.com/watch?v=8XsBX-V_fgI)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 * [개발자 생산성 선언-플라이휠](https://ichi.pro/ko/gaebalja-saengsanseong-seon-eon-peullaihwil-129703808319115)
 * [6 Simple Tips on How to Start Writing Clean Code](https://hackernoon.com/6-simple-tips-on-how-to-start-writing-clean-code-d66c241aa268)
@@ -1682,7 +1684,6 @@ Programming
 * [eXtreme Programming](https://www.theteams.kr/teams/2694/post/67869)
 * [The Ten Commandments of egoless programming - TechRepublic](https://www.techrepublic.com/article/the-ten-commandments-of-egoless-programming/) 직접 관계가 있지는 않지만 기억해둘만한 좋은 이야기
 * [Reasons & Ways to Improve Code Quality • Venkat Subramaniam • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=znZlF4uQBN0)
-* [Code review — bad, expensive, ineffective (in most cases)](https://github.com/sharovatov/teamlead/blob/master/codereview_en.md)
 * [code climate platform](https://codeclimate.com/platform)
   * [Launching Today: The Code Climate Platform](http://blog.codeclimate.com/blog/2015/06/19/code-climate-platform/)
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
