@@ -167,6 +167,7 @@
 * [프로토타입 디자인 패턴](http://astrod.github.io/2017/04/26/%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4.html)
 * [서비스 로케이터는 안티패턴이다](http://www.haruair.com/blog/3880)
 * [Design Patterns - Observer](http://achimoraites.blogspot.kr/2017/11/design-patterns-observer.html)
+* [옵저버 패턴 개념 떠먹여드립니다 🥄](https://velog.io/@haero_kim/%EC%98%B5%EC%A0%80%EB%B2%84-%ED%8C%A8%ED%84%B4-%EA%B0%9C%EB%85%90-%EB%96%A0%EB%A8%B9%EC%97%AC%EB%93%9C%EB%A6%BD%EB%8B%88%EB%8B%A4)
 * [빌더패턴? 자바의 빌더 패턴? Gof 의 빌더패턴?](http://hamait.tistory.com/847)
 * [빌더 패턴(Builder Pattern)](https://johngrib.github.io/wiki/builder-pattern/)
 * [Design Patterns: Why Event Sourcing?](https://www.youtube.com/watch?v=rUDN40rdly8)
