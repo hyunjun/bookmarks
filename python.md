@@ -4457,6 +4457,7 @@ Python
 * [How to use the coolest new features in Python 3.10](https://thenextweb.com/news/how-to-use-new-features-python-3-10-syndication)
 * [Python 3.10 – Top 5 Features in the new Version | Rubik's Code](https://rubikscode.net/2021/10/04/python-3-10-top-5-features-in-the-new-python-version/)
 * [패턴 매칭 지원 外··· '파이썬 3.10', 무엇이 달라졌을까 - CIO Korea](https://www.ciokorea.com/news/209694)
+* [Python 3.10 톺아보기 | Lablup Blog](https://blog.lablup.com/posts/2021/11/12/python-3.10-overview)
 * [Python 3.11 새로운 기능 및 수정점 : 네이버 블로그](https://blog.naver.com/vwjdalsgkv/222510221530)
 * [Features You Likely Don’t Use in Python 3 — But You Should | LaptrinhX](https://laptrinhx.com/features-you-likely-don-t-use-in-python-3-but-you-should-2455806769/)
 * [9 Python 3 Hacks Programmers Probably Don’t Utilize | Better Programming](https://medium.com/better-programming/9-python-3-features-you-might-not-use-yet-fade13932a3e)
