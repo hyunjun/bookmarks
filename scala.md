@@ -326,6 +326,7 @@ Scala
 * [Dataflow Analysis for Scala | The Scala Plugin Blog](https://blog.jetbrains.com/scala/2021/10/28/dataflow-analysis-for-scala/)
 * [law-of-demeter](https://github.com/devinsideyou/law-of-demeter)
   * [Break free from your entangled code base! - Part 1 - YouTube](https://www.youtube.com/watch?v=H3T4ryR4LMU)
+  * [Break free from your entangled code base! - Part 2 - YouTube](https://www.youtube.com/watch?v=rtEn_rkyO4I)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1133,6 +1134,7 @@ Scala
 * [Scalabase](http://www.scalabaseconf.com/) 초보자 적합
 * [Scala Central at Expedia Group](https://medium.com/hotels-com-technology/scala-central-at-expedia-group-3a8002c6bb60)
 * [ScalaCon. A series of virtual conferences brought to you by Scala eXchange and Scala Days](http://www.scalacon.org/)
+  * [Scala at Scale at Databricks - Li Haoyi - YouTube](https://www.youtube.com/watch?v=UiN6yZPAYww)
 * [scalar-conf.com](http://scalar-conf.com/)
 * [Scala Days](https://slideslive.com/scaladays)
   * [ScalaDays 2015 San Francisco](http://event.scaladays.org/scaladays-sanfran-2015)
@@ -1740,6 +1742,7 @@ Scala
 * [Journey to the IO Monad (Part 3.1)](https://medium.com/@RaymondTayBL/journey-to-the-io-monad-part-3-1-35813c7f48ac)
 * [Understanding IO Monad in Scala](https://medium.com/walmartlabs/understanding-io-monad-in-scala-b495ca572174)
 * [The Making of an IO - Daniel Spiewak](https://www.youtube.com/watch?v=g_jP47HFpWA)
+* [Recursion pitfalls in IO monads and how to avoid them - YouTube](https://www.youtube.com/watch?v=Ja6yP4ufSko)
 * [3 Layer Scala Cake](https://blog.oyanglul.us/scala/3-layer-cake)
 * [Composing functions with Reader monad](https://medium.com/@alexander.zaidel/composing-functions-with-reader-monad-f3e471958e2a)
 * [Dependency injection with Reader Monad in Scala](https://medium.com/rahasak/dependency-injection-with-reader-monad-in-scala-fe05b29e04dd)
@@ -2008,6 +2011,7 @@ Scala
 * [Testing client/server compatibility + error handling - SPFS #4 - YouTube](https://www.youtube.com/watch?v=mVU6rNmJNG0)
 * [Scala 3: What’s Changed Since Scala 3.0.0 | by Dean Wampler | Scala 3 | Sep, 2021 | Medium](https://medium.com/scala-3/scala-3-whats-changed-since-scala-3-0-0-be0830c059f5)
 * [Telegram Bot In Scala 3 With Bot4s + http4s + Doobie for CI notifications | Hacker Noon](https://hackernoon.com/telegram-bot-in-scala-3-with-bot4s-http4s-doobie-for-ci-notifications)
+* [Scala Beyond 3.0 - The Quest for Simplicity - Martin Odersky - YouTube](https://www.youtube.com/watch?v=NXTjnowBx-c)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
