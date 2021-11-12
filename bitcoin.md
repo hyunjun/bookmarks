@@ -131,6 +131,7 @@ Bitcoin
 * [The Limits to Blockchain Scalability](https://vitalik.ca/general/2021/05/23/scaling.html)
 * [블록체인을 어디에 쓸까? 왜 중요하다고 하는걸까?](https://velog.io/@couchcoding/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%B4-%EC%99%9C-%ED%95%B5%EC%8B%AC%EC%9D%BC%EA%B9%8C-%EC%96%B4%EB%94%94%EC%97%90-%EC%93%B8-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C)
 * [문과생 개발자가 떠먹여주는 블록체인) E01-1 간단한 컨트렉트 짜보기 - YouTube](https://www.youtube.com/watch?v=piz1Qsmo4_Q)
+* [오라클 블록체인 아키텍처 살펴보기](https://jhrogue.blogspot.com/2021/11/blog-post.html)
 
 ## Blockchain Javascript
 * [Learn Blockchains by Building One](https://github.com/pjt3591oo/blockchain-javascript)
