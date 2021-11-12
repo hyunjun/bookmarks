@@ -131,6 +131,8 @@ Java
 * [Starting Fast: Investigating Java's Static Compilation Landscape - YouTube](https://www.youtube.com/watch?v=ry8O4HooIBI)
 * [bcrypt는 salt가 매번 달라지는데 어떻게 match 판단을 그리 잘 할까요?](https://codingdog.tistory.com/entry/bcrypt%EB%8A%94-salt%EA%B0%80-%EB%A7%A4%EB%B2%88-%EB%8B%AC%EB%9D%BC%EC%A7%80%EB%8A%94%EB%8D%B0-match%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9E%98-%EC%8B%9C%ED%82%AC%EA%B9%8C%EC%9A%94)
 * [Java:Applying colors of your choice to images | by Sai Pitchuka | Medium](https://saibaburvr.medium.com/java-applying-colors-of-your-choice-to-images-884dd6d7f12d)
+* [Why is Java so dumb?. Part 1: Data Types | by Dave Andrea | Oct, 2021 | Medium](https://medium.com/@daveandrea/why-is-java-so-dumb-1990b9ac77c4)
+* [Why is Java So Dumb? (Part 2). Part 2: Why does it take so long to… | by Dave Andrea | Nov, 2021 | Medium](https://medium.com/@daveandrea/why-is-java-so-dumb-part-2-25755eb8459a)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
