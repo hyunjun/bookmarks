@@ -629,6 +629,7 @@ Business
 * [The 5 Common Mistakes Of New Engineering Managers - Ochronus online](https://ochronus.online/the-5-common-mistakes-of-new-engineering-managers/)
 * [실리콘 밸리의 엔지니어링 매니저(리더)들은 대체 무엇을 하는가? (1편) - Sendbird](https://sendbird.com/ko/blog/eng-leader-role-1)
 * [실리콘 밸리의 엔지니어링 매니저(리더)들은 대체 무엇을 하는가? (2편) - Sendbird](https://sendbird.com/ko/blog/eng-leader-role-2)
+* [Top 10 Traits of The Great Technical Leaders - YouTube](https://www.youtube.com/watch?v=3AZi49wyvds)
 * [**당신의 매니저를 이용해라**](https://brunch.co.kr/@yongjinjinipln/94)
 * [managers-playbook: Heuristics for effective management](https://github.com/ksindi/managers-playbook)
   * 효율적인 관리를 위한 휴리스틱들
