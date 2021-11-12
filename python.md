@@ -4218,6 +4218,7 @@ Python
   * [판다스 명령어 팁](https://github.com/minsuk-heo/pandas/blob/master/%ED%8C%AC%EB%8D%94%EC%8A%A4_%EB%AA%85%EB%A0%B9%EC%96%B4_%EA%BF%80%ED%8C%81.ipynb)
 * [10 Minutes to pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
 * [Python Pandas Basics. With Pandas ? | by Keno Leon | Medium](https://medium.com/@k3no/python-pandas-basics-7837f421d3e4)
+* [Pandas Archives - SETScholars: Coding and Math Resources](https://setscholars.net/category/pandas/)
 * [Data analysis in Python with pandas](https://www.youtube.com/playlist?list=PL5-da3qGB5ICCsgW1MxlZ0Hq8LL5U3u9y)
 * [Pandas Cheat Sheet: Data Wrangling in Python](https://www.datacamp.com/community/blog/pandas-cheat-sheet-python)
 * [Data Wrangling with pandas Cheat Sheet](https://pandas.pydata.org/Pandas_Cheat_Sheet.pdf)
