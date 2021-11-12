@@ -372,6 +372,7 @@ Machine Learning
 * [맨땅에 해딩 머신러닝 #1-기본 개념 잡기](http://bcho.tistory.com/966)
 * [맨땅에 해딩 머신러닝 #2 - 선형 회귀 모델 (1)](http://bcho.tistory.com/967)
 * [50+ Data Science and Machine Learning Cheat Sheets](http://www.kdnuggets.com/2015/07/good-data-science-machine-learning-cheat-sheets.html)
+* [machine-learning-cheat-sheet: Classical equations and diagrams in machine learning](https://github.com/soulmachine/machine-learning-cheat-sheet)
 * [Cheat Sheet of Machine Learning and Python (and Math) Cheat Sheets](https://unsupervisedmethods.com/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6)
 * [reddit.com/r/MachineLearning](https://www.reddit.com/r/MachineLearning/)
 * [**해커에게 전해들은 머신러닝**](https://tensorflowkorea.wordpress.com/2016/10/31/%ED%95%B4%EC%BB%A4%EC%97%90%EA%B2%8C-%EC%A0%84%ED%95%B4%EB%93%A4%EC%9D%80-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D/)
