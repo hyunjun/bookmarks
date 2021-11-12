@@ -22,6 +22,7 @@ Programming Books
 * [2021년 상반기 개발자는 이 책을 읽었다](https://www.notion.so/2021-73cb3aa263ae4c4c903e10b854dda826)
 * [2021 개발자 필독서 ](https://www.kyobobook.co.kr/eventRenewal/eventViewByPid.laf?eventPid=42768)
 * [OKKY - 절판된 개발서적 합법적으로 구하는 방법](https://okky.kr/article/1016313)
+* [79. 앱 개발 책 - 2021](https://brunch.co.kr/@topasvga/1452)
 * [사물인터넷을위한 BBC microbit 프로그래밍](http://jpub.tistory.com/723)
   * 한라 005.118 서64ㅂ
   * microbit 기본 프로그래밍 + 실습 예제 성격의 프로젝트
