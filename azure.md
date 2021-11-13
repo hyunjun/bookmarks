@@ -143,6 +143,7 @@ Azure
 * [Tech Talk | Simon and Denny Build a Thing! Part Two - YouTube](https://www.youtube.com/watch?v=suVeEiSBDf4)
 * [Tech Talk | Simon and Denny Build a Thing! Part Three - YouTube](https://www.youtube.com/watch?v=de5lbzi3vV0)
 * [Tech Talk | Simon + Denny Build A Thing! Part Four - YouTube](https://www.youtube.com/watch?v=Tmaoou3NchQ)
+* [An introduction to the Azure OpenAI Service | BRK216 - YouTube](https://www.youtube.com/watch?v=HTw4cJy3XNk)
 
 # Cosmos DB
 * [Technical overview of Azure Cosmos DB](https://www.youtube.com/watch?v=Yl-rBYBd9q0)
