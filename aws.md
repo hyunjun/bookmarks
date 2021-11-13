@@ -1151,6 +1151,7 @@ AWS
 * [Amazon S3 Deep Dive (part 2-buckets) - DEV Community](https://dev.to/aws-builders/amazon-s3-deep-dive-part-2-buckets-aod)
 * [Amazon S3 Deep Dive (part 3-object) - DEV Community](https://dev.to/aws-builders/amazon-s3-deep-dive-part-3-storage-fundamentals-3mcd)
 * [Deleting an S3 Bucket Costs Money - CloudCasts](https://cloudcasts.io/article/deleting-an-s3-bucket-costs-money)
+* [사례별로 알아본 안전한 S3 사용 가이드 | 우아한형제들 기술블로그](https://techblog.woowahan.com/6217/)
 * [amazon-s3-plugin-for-pytorch](https://github.com/aws/amazon-s3-plugin-for-pytorch)
 
 # Scala
