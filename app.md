@@ -1560,6 +1560,11 @@ App
 # Programming
 * [pocket-programming.ffab0.com](http://pocket-programming.ffab0.com/)
 
+# Screen marker
+* [macOS Screen Annotation Tools: What's the best app? - 9to5Mac](https://9to5mac.com/2020/05/03/macos-screen-annotation-tools/)
+* [Epic Pen: The worlds most popular screen marker app!](https://epic-pen.com/)
+* [ZoomIt - Windows Sysinternals | Microsoft Docs](https://docs.microsoft.com/ko-kr/sysinternals/downloads/zoomit)
+
 # Search
 * [DuckDuckGo — 개인정보 보호, 쉬워졌네요](https://duckduckgo.com/)
 * [Startpage.com - The world's most private search engine](https://startpage.com/)
