@@ -277,6 +277,7 @@ Android
 * [안드로이드 강의 자료(Android Lecture)](https://github.com/jyheo/android-lecture)
 * [Academy for App Success](https://developer.android.com/google-play/academy/)
 * [안드로이드 프로그래밍 입문의 장벽을 넘으려면](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS8429031906)
+* [Android Development for Beginners - Full Course - YouTube](https://www.youtube.com/watch?v=fis26HvvDII)
 
 # Debugging
 * [Debugging Android native shared libraries](http://blog.dornea.nu/2015/07/01/debugging-android-native-shared-libraries/)
