@@ -101,6 +101,7 @@ Interview
 * [좋은 면접자/지원자를 뽑고 싶은 회사와 면접관에 대한 이런저런 생각들](https://repo.yona.io/doortts/blog/post/295)
 * [좋은 면접자/지원자가 되는 방법](https://repo.yona.io/doortts/blog/post/292)
 * [면접 때 꼭 물어보는 질문](https://brunch.co.kr/@hyungsukkim/14)
+* ["학벌은 전혀 안 본다" 세계 최고 부자, 테슬라 CEO 일론 머스크는 면접 때 모든 지원자에게 항상 같은 질문을 던진다 (답변 팁) | 허프포스트코리아](https://www.huffingtonpost.kr/entry/elon-musk-always-asks-job-interview_kr_618c5d1ce4b0b1aee920a479)
 * [개발자 면접 시 단골 질문 13개, 그리고 모범답안](http://www.ciokorea.com/t/21999/%EA%B0%9C%EB%B0%9C%EC%9E%90/153376)
 * [Hiring Without Whiteboards](https://github.com/poteto/hiring-without-whiteboards)
 * [코딩 인터뷰 – part 1](https://sangminpark.blog/2017/06/13/%EC%BD%94%EB%94%A9-%EC%9D%B8%ED%84%B0%EB%B7%B0-part-1/)
