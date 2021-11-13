@@ -650,6 +650,7 @@ Programming
 * [How to Hack APIs in 2021 by Hakluke and Farah Hawa | Detectify Labs](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
 * [Don’t Build A General Purpose API To Power Your Own Front End - Max Chernyak](https://max.engineer/server-informed-ui)
 * [블로그 | API 관리가 그토록 복잡해야만 할까? - CIO Korea](https://www.ciokorea.com/news/209107)
+* [Designing APIs: Less Data is More || Damir Svrtan - YouTube](https://www.youtube.com/watch?v=DC9032_nkyc)
 * [API Tokens: A Tedious Survey · Fly](https://fly.io/blog/api-tokens-a-tedious-survey/)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
