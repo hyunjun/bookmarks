@@ -351,6 +351,7 @@ Programming
 * [How to Organize Software Development In a Super-Efficient Way: Three Practical Tips](https://hackernoon.com/how-to-organize-software-development-in-a-super-efficient-way-three-practical-tips-86abe7575ed0)
 * [사례를 기반으로 한 소프트웨어 엔지니어의 공부법](http://technical-leader.tistory.com/10)
 * [프로그래머를 위한 공부론.pdf](http://databaser.net/moniwiki/pds/Programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC_%EC%9C%84%ED%95%9C_%EA%B3%B5%EB%B6%80%EB%A1%A0.pdf)
+* [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/#%2F%2F%2F%2F%2F%2F/)
 * [동작하게 만들고, 제대로 만들고, 빠르게 만든다](http://jhrogue.blogspot.com/2019/01/b_19.html)
 * [카카오페이 QR 코드 리버스 엔지니어링](http://philosophical.one/posts/kakaopay-qrcode)
 * [How Google Software Engineers Work (coding & programming workflow)](https://www.youtube.com/watch?v=LnXk9XZjXbg)
@@ -462,6 +463,7 @@ Programming
   * [업계에서 6년 있은 뒤, 마음이 바뀐 소프트웨어 개발 토픽들 | GeekNews](https://news.hada.io/topic?id=3635) 매우 좋은 글. 대부분 동의함
 * [Unpaywall - 오픈 액세스 논문 검색엔진 | GeekNews](https://news.hada.io/topic?id=4786)
 * [Zip - How not to design a file format](https://games.greggman.com/game/zip-rant/)
+* [hop](https://github.com/Jarred-Sumner/hop) Simple archive format designed for quickly reading some files without extracting the entire archive
 * [APEX 사례로 보는 Low Code](https://jhrogue.blogspot.com/2021/09/apex-low-code.html)
 * [글로벌 칼럼 | 유지보수를 위한 다운타임, '유지보수 윈도우'는 정당화할 수 없다 - ITWorld Korea](https://www.itworld.co.kr/news/209072) 가용성, availability
 * [한·중·일 전산학 용어 대조 | GeekNews](https://news.hada.io/topic?id=5165)
@@ -876,6 +878,7 @@ Programming
   * [Cloudflare Pages is now Generally Available](https://blog.cloudflare.com/cloudflare-pages-ga/)
     * Netlify처럼 프론트엔드 개발자들이 Cloudflare에 Jamstack 사이트를 배포할 수 있는 기능
     * Git 저장소를 연결해서 빌드해서 바로 배포할 수 있고 웹 분석, 내장 리다이렉트, 프리뷰, 이미지 최적화 등의 기능 포함
+  * [Five Great (free!) Ways to Get Started With Cloudflare](https://blog.cloudflare.com/five-free-ways-to-get-started-with-cloudflare/)
   * [JVM and cache warm-up strategy for high traffic services](https://medium.com/teads-engineering/jvm-and-cache-warm-up-strategy-for-high-traffic-services-4b5016f8b565)
   * [스파게티 조인을 피하고 경계안에서 캐시 구현하기](https://www.popit.kr/스파게티-조인을-피하고-경계안에서-캐시-구현하기) operation cache, BoundedContext
   * [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
@@ -1020,6 +1023,7 @@ Programming
 * [기고 | 기술 아키텍처 평가하기 ‘11가지 핵심 기준’ - CIO Korea](https://www.ciokorea.com/news/212779)
 * [How Pokémon GO scales to millions of requests? | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/how-pok%C3%A9mon-go-scales-millions-requests)
 * [Designing a Software Architecture from Scratch - YouTube](https://www.youtube.com/watch?v=cbGSEwOAH6E)
+* [The Endless Pursuit Of Scale At LinkedIn](https://www.nextplatform.com/2021/09/15/the-endless-pursuit-of-scale-at-linkedin/)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
@@ -2009,12 +2013,14 @@ Programming
 * [Stanford CS Education Library](http://cslibrary.stanford.edu/)
 * [The 100 Most Popular Free Online Courses of 2019](https://www.freecodecamp.org/news/100-popular-free-online-courses-2019/)
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
-* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+* [How to help a student get unstuck](https://offbyone.us/posts/how-to-help-a-student-get-unstuck/)
 * [**여러분의 CS 교육에서 누락된 학기 · the missing semester of your cs education**](https://missing-semester-kr.github.io/)
   * [Missing Semester IAP 2020 - YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 * [How I Got a Computer Science Degree in 3 Months for Less Than $5000 | Miguel Rochefort](https://miguelrochefort.com/blog/cs-degree/)
 * [Entire Computer Science Curriculum in 1000 YouTube Videos | Laconicml](https://laconicml.com/computer-science-curriculum-youtube-videos/)
 * [구름EDU - 모두를 위한 맞춤형 IT교육](https://edu.goorm.io/)
+* [오늘부터 전공면접 IT](https://hexoul.github.io/prepare-interview-data/)
+  * [오늘부터 전공면접 IT - 객관식 문제 제공 서비스 | GeekNews](https://news.hada.io/topic?id=5335)
 * [우아한Tech - YouTube](https://www.youtube.com/channel/UC-mOekGSesms0agFntnQang/videos)
 * [코딩엑스 - 코딩/AI 올인원 학습 플랫폼](https://coding-x.com/class)
 * [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
@@ -2065,6 +2071,7 @@ Programming
   * [Slip - 프로그래밍 강의를 만들어서 판매하기 | GeekNews](https://news.hada.io/topic?id=4804)
 * [sololearn.com](https://www.sololearn.com/)
 * [Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) SICP
+* [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 * [Timilearning - A blog by Timi Adeniran](https://timilearning.com/)
 * [woz-u.com](https://woz-u.com/)
 
@@ -2163,6 +2170,8 @@ Programming
 * [디버깅으로 문제 해결하는 방법 - YouTube](https://www.youtube.com/watch?v=bJKr70z54Mc) IntelliJ + Java
 * [GOTO 2017 • Debugging Under Fire: Keep your Head when Systems have Lost their Mind • Bryan Cantrill - YouTube](https://www.youtube.com/watch?v=30jNsCVLpAE)
 * [Reasons why bugs might feel "impossible"](https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/)
+* [Where Should the Debugger Set a Breakpoint?](https://pernos.co/blog/function-prologues/)
+* [개발자 동무, 철의 장막 뒤에서 디버깅 하기 | edykim](https://edykim.com/ko/post/debugging-behind-the-iron-curtain/)
 * Ozcode [Debugging Solutions from Dev to Production - Ozcode](https://oz-code.com/)
   * [Advanced Techniques for Production Debugging - YouTube](https://www.youtube.com/watch?v=eghHZvffilA)
 
@@ -3093,7 +3102,8 @@ Programming
   * [Open Sourcing Mantis: A Platform For Building Cost-Effective, Realtime, Operations-Focused Applications](https://medium.com/netflix-techblog/open-sourcing-mantis-a-platform-for-building-cost-effective-realtime-operations-focused-5b8ff387813a)
 * Pinot
   * [Open Sourcing Pinot: Scaling the Wall of Real-Time Analytics](http://engineering.linkedin.com/pinot/open-sourcing-pinot-scaling-wall-real-time-analytics)
-  * [pino - 링크드인, 실시간 분석 SW ‘피노’ 오픈소스로 공개](http://www.bloter.net/archives/229991)
+  * [pinot - 링크드인, 실시간 분석 SW ‘피노’ 오픈소스로 공개](http://www.bloter.net/archives/229991)
+  * [Real-Time Exactly-Once Event Processing at Uber with Apache Flink, Kafka, and Pinot](https://www.infoq.com/news/2021/11/exactly-once-uber-flink-kafka/)
 * [Redpanda - Vectorized](https://vectorized.io/redpanda/) A Kafka® API compatible streaming platform for mission-critical workloads
   * [Redpanda is the real-time engine for modern apps](https://github.com/vectorizedio/redpanda)
 * [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
@@ -3132,6 +3142,7 @@ Programming
 # RPA
 * [All the Robotic Process Automation (RPA) Stats You Need to Know](https://towardsdatascience.com/all-the-robotic-process-automation-rpa-stats-you-need-to-know-bcec22eaaad9)
 * [마케팅에 'RPA' 도입하기 전에... CMO가 알아야 할 것 - CIO Korea](https://www.ciokorea.com/news/208897)
+* [Workflow86 | Operations Automation Platform](https://www.workflow86.com/)
 
 # RPC
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
@@ -3267,6 +3278,7 @@ Programming
 * [**개발자가 모자라요 - 영록이 홈페이지**](http://youngrok.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%AA%A8%EC%9E%90%EB%9D%BC%EC%9A%94)
   * 기능 조직과 목적 조직의 차이부터 여러가지 회사에서의 문제점을 잘 지적하고 설명한 글
   * 특히 비개발자들에게 이야기하기 좋게 씌여졌다고 생각함
+* [How we build software at Cloudflare](https://blog.cloudflare.com/building-software-at-cloudflare/)
 * [Principles.dev - Software Engineering Principles](https://principles.dev/)
   * [Software Engineering Principles | GeekNews](https://news.hada.io/topic?id=4534)
 
@@ -3336,7 +3348,6 @@ Programming
 * [듀얼 QA 프로세스를 소개합니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/dual-qa-process/)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [Introduction to Test Driven Development (TDD)](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92)
-* ["TDD 실천법과 도구" 책 전체를 PDF 공개합니다](https://repo.yona.io/doortts/blog/issue/1)
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) javascript
 * [초보개발자의 TDD 체험기](https://www.slideshare.net/sehunkim11/tdd-141266989)
 * [A Practical Intro to Test Driven Development](https://hackernoon.com/practical-tdd-test-driven-development-84a32044ed0b)
