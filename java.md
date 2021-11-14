@@ -564,6 +564,7 @@ Java
 * [IntelliJ & WebStorm에서 ES6(& TS) Import 문에 space 포함시키기](https://jojoldu.tistory.com/595)
 * [IntelliJ Idea tricks that I use daily — Java/Spring MS Handling | by Chandrika Deb | Tech x Talent | Jun, 2021 | Medium](https://medium.com/coderbyte/intellij-idea-tricks-that-i-use-daily-java-spring-ms-handling-40bc1239d371)
 * [Intellij에서 docker와 docker-compose 사용하는 방법 : 클리앙](https://www.clien.net/service/board/cm_app/14152483)
+* [IntelliJ IDEA의 로컬 기록(local history)이 여러분의 삶 코드를 구할 수 있습니다 | JetBrains Blog](https://blog.jetbrains.com/ko/2020/03/26/local-history-intellij-save-your-code-ko/)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
@@ -742,6 +743,8 @@ Java
 * [The best HotSpot JVM options and switches for Java 11 through Java 17](https://blogs.oracle.com/javamagazine/post/the-best-hotspot-jvm-options-and-switches-for-java-11-through-java-17)
 * [Shenandoah in OpenJDK 17: Sub-millisecond GC pauses | Red Hat Developer](https://developers.redhat.com/articles/2021/09/16/shenandoah-openjdk-17-sub-millisecond-gc-pauses)
   * [Shenandoah in OpenJDK 17 : 밀리초 미만의 GC Pause 구현 | GeekNews](https://news.hada.io/topic?id=5037)
+* [Embracing Java 17: Here’s What We Learned | by Sander Mak | Nov, 2021 | Picnic Engineering](https://blog.picnic.nl/embracing-java-17-heres-what-we-learned-69779d95fdf2)
+* [Oracle's JDK 17 - Free Again for Commercial Use](https://www.infoq.com/news/2021/10/oracle-jdk-free-again/)
 
 # Java18
 * [레코드 및 배열 패턴 外··· 구체화되는 ‘자바 18’ 미리보기 - CIO Korea](https://www.ciokorea.com/news/205454)
@@ -1037,6 +1040,7 @@ Java
   * [빌드 시스템, Gradle을 사용해 보자 : 네이버 블로그](https://blog.naver.com/ndskr/222459031744)
   * [Gradle Dependency Configuration](https://effectivesquid.tistory.com/entry/Gradle-Dependency-Configuration)
   * [Gradle Wrapper | 개발자 황준일](https://junilhwang.github.io/TIL/Gradle/GradleWrapper/)
+  * [Sorting and Reporting Your Dependencies with Gradle - Speaker Deck](https://speakerdeck.com/sp4ghetticode/sorting-and-reporting-your-dependencies-with-gradle)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * [Helidon Project](https://helidon.io/) GraalVM native image support
 * [hwplib: hwp library for java](https://github.com/neolord0/hwplib)
@@ -1451,6 +1455,7 @@ Java
 * [테크톡 스프링 데이터 들여다보기 - YouTube](https://www.youtube.com/watch?v=N6tc44b-ATk)
 * [Spring 레플리케이션 트랜잭션 처리 방식 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-transaction/)
 * [Sql을 통해서 테스트 코드를 쉽게 작성하자 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/sql-test/)
+* [**ServletContainer와 SpringContainer는 무엇이 다른가? | by Jin Hyung Park | Oct, 2021 | Medium**](https://medium.com/@jypthemiracle/servletcontainer%EC%99%80-springcontainer%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80-626d27a80fe5)
 * jasypt [28. Spring - jasypt로 application.properties(yml) 데이터 암/복호화](https://kim-jong-hyun.tistory.com/50)
 * [Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler](https://github.com/spring-projects-experimental/spring-native)
   * [Announcing Spring Native Beta!](https://spring.io/blog/2021/03/11/announcing-spring-native-beta)
