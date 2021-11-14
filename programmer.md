@@ -98,6 +98,7 @@ Programmer
 * [F-Lab이 생각하는 좋은 멘토의 모습 - F-Lab](https://blog.f-lab.kr/2021/09/30/what-is-good-mentor.html) mentor
 * [인프런 수습 회고](https://jojoldu.tistory.com/612) 개발팀이 개발만 하면 망한다
 * [전설의 프로그래머 인류를 달에 보낼 수 있었던 마거릿 해밀턴의 코딩 능력](https://aedi.tistory.com/873)
+* [How I’ve hit 10k subs on my tech YouTube channel | by Takuya Matsuyama | Dev as Life](https://blog.inkdrop.app/how-ive-hit-10k-subs-on-my-tech-youtube-channel-a799520af1f4)
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
