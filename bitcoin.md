@@ -206,6 +206,7 @@ Bitcoin
 * [문과생이 떠먹여주는 블록체인 - NFT 완전정복!) NFT의 활용, 메타 데이터 저장소 위치, ERC721 vs 1155 설명,차이점, 코드 살펴보기& 배포까지 - YouTube](https://www.youtube.com/watch?v=LRA4F9IZ1K0)
 * [크립토좀비 Chapter02) NFT 기반 좀비게임을 만들면서 익히는 누구나 할 수 있는 블록체인 코딩! 솔리디티 함수를 만들어 보면서 좀비에게 공격하는 기능 구현해 보기 - YouTube](https://www.youtube.com/watch?v=8ez2wx-ZqL8)
 * [NFT, 혁신일까요 사기일까요 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/nft20211018)
+* [NFT가 갖는 소유라는 의미의 진실과 오해](https://brunch.co.kr/@delight412/423)
 
 # Python
 * [A peek under Bitcoin's hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
