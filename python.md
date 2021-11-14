@@ -74,7 +74,9 @@ Python
   * [python gil이 있으니까 thread safe 할까요?](https://codingdog.tistory.com/entry/python-gil%EC%9D%B4-%EC%9E%88%EC%9C%BC%EB%8B%88%EA%B9%8C-thread-safe-%ED%95%A0%EA%B9%8C%EC%9A%94)
   * [파이썬에서 멀티코어 활용하기 (feat. 라인 서버 개발자) | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=V18ceQO_JkM)
     * [talks/subinterpreters.pdf at main · vstinner/talks](https://github.com/vstinner/talks/blob/main/2021-PyconUS/subinterpreters.pdf)
+  * [Why is Python so slow? | Hacker Noon](https://hackernoon.com/why-is-python-so-slow-e5074b6fe55b)
 * [3 PROGRAMMING LANGUAGES TO REPLACE SHELL SCRIPTING](http://www.tactoth.com/3-programming-languages-to-replace-shell-scripting/)
+* [Do-nothing scripting: the key to gradual automation – Dan Slimmon](https://blog.danslimmon.com/2019/07/15/do-nothing-scripting-the-key-to-gradual-automation/)
 * [Python Trainer](https://github.com/aaronchall/pythontrainer)
 * [Hands-on Introduction to Spatial Data Analysis in Python](https://2015.foss4g-na.org/session/hands-introduction-spatial-data-analysis-python)
 * [The Python IAQ: Infrequently Answered Questions](http://norvig.com/python-iaq.html)
@@ -1436,6 +1438,7 @@ Python
 * [An Introduction to Asynchronous Programming in Python | by Konopka Kodes Blog | Medium](https://medium.com/@KonopkaKodes/an-introduction-to-asynchronous-programming-in-python-6809a4385f69)
 * [Async Python is not faster](http://calpaterson.com/async-python-is-not-faster.html)
 * [I'm not feeling the async pressure | Armin Ronacher's Thoughts and Writings](https://lucumr.pocoo.org/2020/1/1/async-pressure/)
+* [Async Python is not faster](https://calpaterson.com/async-python-is-not-faster.html)
 * youtube
   * [**Fear and Awaiting in Async (Screencast)**](https://www.youtube.com/watch?v=Bm96RqNGbGo)
   * [Common asynchronous patterns in Python](https://www.youtube.com/watch?v=jq2IFUQRbGo)
