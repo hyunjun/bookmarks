@@ -33,7 +33,6 @@ Linux
 * [리눅스 아재력 셀프 테스트](http://sunyzero.tistory.com/245)
 * [스타트업을 위한 해킹 방어 테크닉](http://slownews.kr/51659)
 * [SemiCode OS — New Linux Distro For Programmers And Web Developers](https://fossbytes.com/semicode-os-linux-distro-programmers/)
-* [TEST COMMAND LINE VERSION OF VARIOUS LINUX DISTRIBUTIONS IN WEB BROWSER](https://itsfoss.com/termbox-linux-web-app)
 * [연속적으로 명령 실행시키기 (;과 &와 &&의 차이)](https://opentutorials.org/course/2598/15818)
 * [GPG 서명 관련 팁들 모음](http://kunny.github.io/etc/2017/05/21/common_tips_in_gpg_signing/)
 * [PortIO 메모리와 PS/2 Keyboard IO 입력처리](https://devsdk.github.io/development/2017/07/04/PortIOAndKeyboard.html)
@@ -44,7 +43,6 @@ Linux
   * Scylla가 asynchronous direct I/O를 선택한 이유 설명
 * `~/.bash_profile`
   * `export TMOUT=0` 자동 로그아웃 off
-* [라즈베리파이 X-Window 화면을 윈도우즈와 맥 터미널에서 띄우기](http://blog.xcoda.net/94) X11-Forward
 * [리눅스 엔지니어 기술 면접 질문지](https://docs.google.com/document/d/1WE1V4uczxavqLY-nyr3qNqCxqzoOf8Vg6Z-Lf0c3DwU/mobilebasic)
 * [리눅스 엔지니어 기술 면접 질문지](https://github.com/pjhwa/linux-engineers/wiki)
 * [Uninterruptible Sleep](https://eklitzke.org/uninterruptible-sleep)
@@ -59,6 +57,7 @@ Linux
 * [팀 패스워드 관리 프로그램 tpass 후기](http://ohyecloudy.com/pnotes/archives/side-project-tpass/)
 * [**The 101 of ELF files on Linux: Understanding and Analysis**](https://linux-audit.com/elf-binaries-on-linux-understanding-and-analysis/)
 * [**What's in a Linux executable? - fasterthanli.me**](https://fasterthanli.me/series/making-our-own-executable-packer/part-1)
+* [Linux x86 Program Start Up](http://dbp-consulting.com/tutorials/debugging/linuxProgramStartup.html) ELF
 * [**리눅스 서버 60초안에 상황파악하기**](https://b.luavis.kr/server/linux-performance-analysis)
   * uptime, dmesg | tail, vmstat 1, mpstat -p ALL 1, pidstat 1, iostat -xz 1, free -m, sar -n DEV 1, sar -n TCP,ETCP 1, top
 * [Analyze Linux startup performance | Opensource.com](https://opensource.com/article/20/9/systemd-startup-configuration)
@@ -109,8 +108,6 @@ Linux
 * [Perl and Python one-liners in bash, cmd, and PowerShell](https://www.johndcook.com/blog/2020/12/14/shells-quoting-and-one-liners/)
 * [**My Favorite One Liners | Muhammad**](https://muhammadraza.me/2021/Oneliners/)
 * [9 things to do in your first 10 minutes on a Linux server | Opensource.com](https://opensource.com/article/20/12/linux-server) 서버를 새로 받은 경우 할 일
-* [커맨드라인 인터페이스, 셸, 터미널이란? | 44BITS](https://www.44bits.io/ko/keyword/command-line-interface-cli-shell-and-terminal)
-* [**리눅스/맥 커맨드라인 셸 입문자를 위한 생존 가이드 | 44BITS**](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner)
 * [Wesley Aptekar-Cassels | Timezone Bullshit](https://blog.wesleyac.com/posts/timezone-bullshit)
 * [A look at GSM | Harrison's Sandbox](https://harrisonsand.com/posts/gsm-security/)
 * [리눅스 사용에 도움주는 커뮤니티 사이트 모아보기](https://open-support.tistory.com/entry/%EB%A6%AC%EB%88%85%EC%8A%A4-%EC%82%AC%EC%9A%A9%EC%97%90-%EB%8F%84%EC%9B%80%EC%A3%BC%EB%8A%94-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0-%EC%82%AC%EC%9D%B4%ED%8A%B8-%EB%AA%A8%EC%95%84%EB%B3%B4%EA%B8%B0)
@@ -126,6 +123,11 @@ Linux
 * [Understanding I/O Wait (or why 0% Idle can be OK) - Witekio - Embedded systems & IoT Experts](https://witekio.com/blog/understanding-i-o-wait-or-why-0-idle-can-be-ok-3/)
 * ["Static Linking Considered Harmful" Considered Harmful | Gavin D. Howard](https://gavinhoward.com/2021/10/static-linking-considered-harmful-considered-harmful/)
 * [Linux Directories Explained in 100 Seconds - YouTube](https://www.youtube.com/watch?v=42iQKuQodW4)
+* [A brief history of select(2) — Idea of the day](https://idea.popcount.org/2016-11-01-a-brief-history-of-select2/)
+* [Select is fundamentally broken — Idea of the day](https://idea.popcount.org/2017-01-06-select-is-fundamentally-broken/)
+* [poll vs select vs event-based](https://daniel.haxx.se/docs/poll-vs-select.html)
+* [poll on mac 10.12 is broken | daniel.haxx.se](https://daniel.haxx.se/blog/2016/10/11/poll-on-mac-10-12-is-broken/)
+* [How We Saved Millions in SSD Costs by Upgrading Our Filesystem - Heap](https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem) ZFS
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -373,7 +375,6 @@ Linux
   * [Dropping cache didn’t drop cache](https://blog.twitter.com/engineering/en_us/topics/open-source/2021/dropping-cache-didnt-drop-cache.html)
 * [More shell, less egg](http://leancrew.com/all-this/2011/12/more-shell-less-egg/) `tr -cs A-Za-z '\n' < [input] | tr A-Z a-z | sort | uniq -c | sort -rn | sed ${1}q`
 * [Extract it](http://extractit.mawalabs.de/) command line to extract compressed file
-* [Designing Command Line Experiences](http://neovintage.org/product/design/2015/10/01/designing-command-line-experiences/)
 * [리눅스 명령어를 이용한 시스템 모니터링 하기](http://tech.whatap.io/2015/09/03/linux-monitoring/)
 * [POSIX CLI1](https://opentutorials.org/module/3747)
 * [The Unix Shell: Summary of Basic Commands](http://swcarpentry.github.io/shell-novice/reference/)
@@ -384,7 +385,6 @@ Linux
 * [Linux 공부 14 - 개념 정리](http://throughkim.kr/2017/01/09/linux-14/)
 * [리눅스 실무기술300](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-linux_practical_tech300-md)
 * [**8 super heroic Linux commands that you probably aren't using**](https://www.youtube.com/watch?v=Zuwa8zlfXSY)
-* [Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
 * [ANSI Escape Codes](https://gist.github.com/fnky/458719343aabd01cfb17a3a4f7296797)
 * [**The Art of Command Line**](https://github.com/jlevy/the-art-of-command-line/blob/master/README-ko.md) 기초적인 부분을 거의 모두 정리해 놓은 매우 유용한 자료
 * [Command line reference – Database and OS scripting](https://ss64.com)
@@ -735,6 +735,7 @@ Linux
   * [sed를 살펴보자! sed 명령어 사용법과 예시, 패턴 스페이스와 홀드 스페이스, 유용 표현](https://jhnyang.tistory.com/287)
   * [Replace smart quotes with the Linux sed command | Opensource.com](https://opensource.com/article/21/9/sed-replace-smart-quotes)
   * [sed-bin: sed to C translator written in sed](https://github.com/lhoursquentin/sed-bin)
+  * [useful-sed: Useful sed scripts & patterns](https://github.com/adrianscheff/useful-sed)
 * [`seq`](http://www.delorie.com/gnu/docs/textutils/coreutils_156.html)
   * `seq -f '%05g' [start number] [end number]` format string %e, %g, %f
   * [리눅스 seq 명령어 사용법](https://www.snoopybox.co.kr/1680)
@@ -768,6 +769,7 @@ Linux
   * [MAC에서 비밀번호 없이 ssh 접속하기(config) - On KimKevin's Dev Way](https://blog.kimkevin.net/mac%ec%97%90%ec%84%9c-%eb%b9%84%eb%b0%80%eb%b2%88%ed%98%b8-%ec%97%86%ec%9d%b4-ssh-%ec%a0%91%ec%86%8d%ed%95%98%ea%b8%b0config/)
   * [SSH Emergency Access](https://smallstep.com/blog/ssh-emergency-access/)
   * [Private/Public 키 쉽게 다루기 - YouTube](https://www.youtube.com/watch?v=cKfd_BmJzHE)
+  * [Simple SSH Security | Disk Notifier](https://disknotifier.com/blog/simple-ssh-security/)
   * [endlessh: SSH tarpit that slowly sends an endless banner](https://github.com/skeeto/endlessh)
   * [lazyssh: A jump-host SSH server that starts machines on-demand](https://github.com/stephank/lazyssh)
   * OpenSSH [How to List Unsuccessful SSH Logins on Linux](https://www.howtoforge.com/how-to-list-unsuccessful-ssh-logins)
@@ -922,6 +924,15 @@ Linux
   * [Sendmail Attachment](https://unix.stackexchange.com/questions/223636/sendmail-attachment/223650)
 * [smtp-cli — command line SMTP client](https://github.com/mludvig/smtp-cli) CentOS7에서 test 해봤지만 실패
 * smtplib -> python
+
+# Command Line Interface CLI
+* [Build your own Command Line with ANSI escape codes](http://www.lihaoyi.com/post/BuildyourownCommandLinewithANSIescapecodes.html)
+* [TEST COMMAND LINE VERSION OF VARIOUS LINUX DISTRIBUTIONS IN WEB BROWSER](https://itsfoss.com/termbox-linux-web-app)
+* [커맨드라인 인터페이스, 셸, 터미널이란? | 44BITS](https://www.44bits.io/ko/keyword/command-line-interface-cli-shell-and-terminal)
+* [**리눅스/맥 커맨드라인 셸 입문자를 위한 생존 가이드 | 44BITS**](https://www.44bits.io/ko/post/linux-and-mac-command-line-survival-guide-for-beginner)
+* [Designing Command Line Experiences](http://neovintage.org/product/design/2015/10/01/designing-command-line-experiences/)
+* [Command Line Interface Guidelines](https://clig.dev/)
+  * [커맨드 라인 인터페이스 가이드라인 | GeekNews](https://news.hada.io/topic?id=3484)
 
 # GCC
 * `yum update -y && yum clean all && yum groupinstall "Development Tools" -y` [CentOS / RHEL 7: Install GCC (C and C++ Compiler) and Development Tools](http://www.cyberciti.biz/faq/centos-rhel-7-redhat-linux-install-gcc-compiler-development-tools/)
@@ -1261,3 +1272,7 @@ Linux
 # troubleshooting
 * [Troubleshooting High I/O Wait in Linux](http://bencane.com/2012/08/06/troubleshooting-high-io-wait-in-linux/)
 * [Linux 서버 장애원인 파악은 어떻게?](https://medium.com/@yoonjs2/linux-%EC%84%9C%EB%B2%84-%EC%9E%A5%EC%95%A0%EC%9B%90%EC%9D%B8-%ED%8C%8C%EC%95%85%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-7accec423bb5)
+
+# X Window
+* [라즈베리파이 X-Window 화면을 윈도우즈와 맥 터미널에서 띄우기](http://blog.xcoda.net/94) X11-Forward
+* [How X Window Managers Work, And How To Write One (Part I)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
