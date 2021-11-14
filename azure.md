@@ -133,6 +133,7 @@ Azure
 * [애저 정적 웹 앱에 배포한 블레이저 웹어셈블리 앱에 Microsoft Graph를 통해 사용자 데이터 출력하기 | Aliencube](https://blog.aliencube.org/ko/2021/09/15/accessing-msgraph-from-blazor-wasm-running-on-aswa/)
 * [It's tough being an Azure fan – Alex Hudson](https://www.alexhudson.com/2021/09/17/its-tough-being-an-azure-fan/)
 * [OpenAPI 인증 플로우를 이용한 애저 펑션 엔드포인트 접근 권한 관리 | Aliencube](https://blog.aliencube.org/ko/2021/10/06/securing-azure-function-endpoints-via-openapi-auth/)
+* [Microsoft Announces the General Availability of Azure Database for MySQL - Flexible Server](https://www.infoq.com/news/2021/11/azure-db-mysql-flexible-server/)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
