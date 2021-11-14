@@ -415,6 +415,7 @@ Business
 * [떡상할 회사의 채용 과정 공통점 4가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/244787)
 * [채용하는데 2주, 퇴사하는데도 2주? 넷플릭스, '부검 메일'로 퇴사 문화 만들어 - 사례뉴스](http://www.casenews.co.kr/news/articleView.html?idxno=4247)
 * [백종화 A급 직원의 퇴사에는 이유가 있다](http://www.apparelnews.co.kr/news/news_view/?idx=192806)
+* [멋쟁이사자처럼을 사랑했던 직원의 가장 긴 퇴근](https://brunch.co.kr/@likelion/41) 퇴사
 * [좋은 '인사'란 무엇일까...카카오 HR 리더와의 솔직한 대화 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hrkakao20170911) 황성현님
 * [HR연구소 소포모어 징크스, 여러분 회사의 2년차 직원은 안녕하십니까](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=882) 온보딩 이후에는 관계 형성이 핵심
 * [사표 품고 다니는 당신, 직장 변경보다 직무 변경을 고민하라](https://news.v.daum.net/v/20211015030053898)
@@ -629,6 +630,8 @@ Business
 * [The 5 Common Mistakes Of New Engineering Managers - Ochronus online](https://ochronus.online/the-5-common-mistakes-of-new-engineering-managers/)
 * [실리콘 밸리의 엔지니어링 매니저(리더)들은 대체 무엇을 하는가? (1편) - Sendbird](https://sendbird.com/ko/blog/eng-leader-role-1)
 * [실리콘 밸리의 엔지니어링 매니저(리더)들은 대체 무엇을 하는가? (2편) - Sendbird](https://sendbird.com/ko/blog/eng-leader-role-2)
+* [Mistakes I’ve Made as an Engineering Manager — so you can avoid them | by Matt Nigh | Literally Leading | Nov, 2021 | Medium](https://medium.com/leading-literally/mistakes-ive-made-as-an-engineering-manager-so-you-can-avoid-them-3391c5b63f66)
+* [OKAY | Why the status quo is so hard to change in engineering teams](https://www.okayhq.com/blog/status-quo-is-so-hard-to-change-in-engineering-teams)
 * [Top 10 Traits of The Great Technical Leaders - YouTube](https://www.youtube.com/watch?v=3AZi49wyvds)
 * [**당신의 매니저를 이용해라**](https://brunch.co.kr/@yongjinjinipln/94)
 * [managers-playbook: Heuristics for effective management](https://github.com/ksindi/managers-playbook)
@@ -992,3 +995,4 @@ Business
 * [토스뱅크의 에러메시지에 동의하지 않습니다 - 에러메시지는 어떠해야 하는가](https://www.jiwon.me/tossbank-error-message/)
 * [프론트엔드 코딩 작업에 영감을 줄 8가지 아이디어 | 요즘IT](https://yozm.wishket.com/magazine/detail/806/)
 * [실전 UI/UX - 약관동의를 설계할때 고려해야할 것들](https://brunch.co.kr/@fbrudtjr1/34)
+* [Gmail's fake loading indicator](https://smitop.com/post/gmail-s-fake-loading-indicator/)
