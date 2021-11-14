@@ -101,6 +101,7 @@ PHP
   * [PHP 함수 타입 선언과 정적분석도구 phan 활용하기](http://www.haruair.com/blog/3962)
 * [phel-lang: Phel is a functional programming language that compiles to PHP. It is a dialect of Lisp inspired by Clojure and Janet](https://github.com/phel-lang/phel-lang)
 * [PHP TensorFlow binding](https://github.com/dstogov/php-tensorflow)
+* [Plates - Native PHP Templates](http://platesphp.com/)
 * [Roadrunner - Modernizing PHP Applications with Golang](https://roadrunner.dev/)
 * [Slim - a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs](https://github.com/slimphp/Slim)
 * VarDumper
