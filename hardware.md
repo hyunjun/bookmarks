@@ -318,6 +318,7 @@ Hardware
 * ['Build/Yocto' 카테고리의 글 목록](https://kin3303.tistory.com/category/Build/Yocto)
 * [Raspberry Pi 3 Fastboot - Less Than 2 Seconds - Bir Coder'ın Günlüğü](https://www.furkantokac.com/rpi3-fast-boot-less-than-2-seconds/)
 * [라즈베리파이 4 안드로이드 OS 설치하기!!](https://open-support.tistory.com/entry/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4-4-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-OS-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0)
+* [Making an old USB printer support Apple AirPrint using a Raspberry Pi](https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html)
 * [internet-pi: Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
 
 # Reverse Engineering
