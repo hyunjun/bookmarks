@@ -12,6 +12,7 @@ Ruby
 * [DIY Ruby CPU profiling - Part III](http://crypt.codemancers.com/posts/2015-04-15-diy-ruby-cpu-profiling-part-iii/)
 * [the new boston - ruby](https://www.youtube.com/playlist?list=PL1512BD72E7C9FFCA)
 * [Python & Ruby](https://opentutorials.org/module/1569)
+* [Ruby vs Python comes down to the for loop](https://softwaredoug.com/blog/2021/11/12/ruby-vs-python-for-loop.html)
 * [Mongo BSON Injection: Ruby Regexps Strike Again](http://sakurity.com/blog/2015/06/04/mongo_ruby_regexp.html?)
 * [When should you use DateTime and when should you use Time?](https://gist.github.com/pixeltrix/e2298822dd89d854444b)
 * [Experiments with Ruby and Go](http://jorin.me/textstat/)
