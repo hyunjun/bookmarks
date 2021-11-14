@@ -242,6 +242,7 @@ Javascript
 * [A simpler web architecture using Flux, CSP, and FRP concepts](http://codrspace.com/allenkim67/a-simpler-web-architecture-using-flux-csp-and-frp-concepts/)
 * [Polygonal Map Generation for Games](http://www-cs-students.stanford.edu/~amitp/game-programming/polygon-map-generation/)
 * [backdooring your javascript using minifier bugs](https://zyan.scripts.mit.edu/blog/backdooring-js/)
+* [The Invisible JavaScript Backdoor – Certitude Blog](https://certitude.consulting/blog/en/invisible-backdoor/)
 * [Type Profiling and Code Coverage Profiling for JavaScript](https://www.webkit.org/blog/3846/)
 * [Are JavaScript Comments Useless?](http://www.zsoltnagy.eu/are-javascript-comments-useless/)
 * [Rapid App Development with Ionic, Sails, and Mongo - See more at: http://chads.website/programming/2015/09/11/rapid-app-development-with-ionic-sails-and-mongo.html](http://chads.website/programming/2015/09/11/rapid-app-development-with-ionic-sails-and-mongo.html)
@@ -541,6 +542,7 @@ Javascript
 * [JavaScript Clean Code — Quick Best Practices | by Denis Cangemi | JavaScript In Plain English | Medium](https://medium.com/javascript-in-plain-english/javascript-clean-code-best-practices-461c24c53cae)
 * [2020년 6월 20일 개발 이야기 특집(자바스크립트 세상의 클린코드)](https://jhrogue.blogspot.com/2020/06/b-2020-6-20.html)
 * [Who Else Wants to Write Clean JavaScript Code? - JavaScript In Plain English - Medium](https://medium.com/javascript-in-plain-english/who-else-wants-to-write-clean-javascript-code-ff4f7896e6bd)
+* [clean-code-javascript: Clean Code concepts adapted for JavaScript](https://github.com/ryanmcdermott/clean-code-javascript)
 * [7 Types of Native Errors in JavaScript You Should Know](https://blog.bitsrc.io/types-of-native-errors-in-javascript-you-must-know-b8238d40e492)
 * [자주 발생하는 자바스크립트 에러 · shiren the creator](https://blog.shiren.dev/2021-06-29/)
 * JS로 배우는 자료구조와 알고리즘
@@ -1070,6 +1072,7 @@ Javascript
   * 개발자 도구에서 flex나 grid를 상태를 쉽게 확인하고 변경해 볼 수 있는 기능과 폰트 조정 기능 설명, 페이지에서 사용되지 않은 CSS 확인 기능 등 소개
 * [JavaScript Developer Tools](https://techstack.hashnode.dev/javascript-developer-tools)
   * [3. JavaScript Developers tools - YouTube](https://www.youtube.com/watch?v=lcqTJTdvoWE)
+* [Developer Tools secrets that shouldn’t be secrets | Christian Heilmann](https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/)
 
 # ECMAScript
 * [Modern JavaScript의 진화](https://clelab.io/course/modern-javascript)
