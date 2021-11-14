@@ -218,6 +218,7 @@ Interview
   * [2. 면접 구체화하기: 질문과 코딩 테스트](https://hiddenest.dev/good-tech-interview-2)
   * [3. Extramile: 코딩 테스트에 담은 생각](https://hiddenest.dev/good-tech-interview-3)
   * [4. 면접이 끝나고 난 뒤](https://hiddenest.dev/good-tech-interview-4)
+* [Don’t Do Interviews, Do Discussions! - by Mayank Verma - Thinking Through](https://thinkingthrough.substack.com/p/dont-do-interviews-do-discussions)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
@@ -326,6 +327,8 @@ Interview
   * AirBnB
     * [How to build an app like Airbnb?](https://hackernoon.com/how-to-build-an-app-like-airbnb-405f3c5872f9)
     * [Airbnb System Design | Booking.com System Design | System Design Interview Question - YouTube](https://www.youtube.com/watch?v=YyOXt2MEkv4)
+    * [The Human Side of Airbnb’s Microservice Architecture](https://www.infoq.com/presentations/airbnb-culture-soa/)
+    * [Airbnb System design 분석](https://www.joinc.co.kr/w/man/12/airbnbDesign)
   * Autocomplete or Typeahead
     * [System design : Design Autocomplete or Typeahead Suggestions for Google search](https://www.youtube.com/watch?v=us0qySiUsGU)
     * [Amazon interview question: System design / Architecture for auto suggestions | type ahead](https://www.youtube.com/watch?v=xrYTjaK5QVM)
@@ -406,6 +409,7 @@ Interview
       * [Twitter system design | twitter Software architecture | twitter interview questions](https://www.youtube.com/watch?v=wYk0xPP_P_8)
       * [System Design: How to design Twitter? Interview question at Facebook, Google, Microsoft](https://www.youtube.com/watch?v=KmAyPUv9gOY)
       * [Design Twitter | System Design Interview | Amazon Interview questions](https://www.youtube.com/watch?v=SaqAOa77ysk)
+      * [Twitter System Architecture. Please clap and share if you like. | by JIN KANG LOW | InterviewNoodle | Oct, 2021 | Medium](https://medium.com/interviewnoodle/twitter-system-architecture-8dafce16aec4)
   * Uber, Lyft, and, Yelp
     * [UBER System design | OLA system design | uber architecture | amazon interview question](https://www.youtube.com/watch?v=umWABit-wbk)
     * [System Design: Uber Lyft ride sharing services - Interview question](https://www.youtube.com/watch?v=J3DY3Te3A_A)
@@ -782,11 +786,12 @@ Interview
 * [노션으로 “나다운” 이력서 만들기.pdf | ㅍㅍㅅㅅ](https://ppss.kr/archives/243020)
 * [제 54차 Kodeveloper 고군분투기 - YouTube](https://www.youtube.com/watch?v=-q0Go_8fdvo&t=652s)
   * [Fullstack 개발자의 서비스 개발 고군분투기 | PDF](https://www.scribd.com/document/534181309/%E1%84%8C%E1%85%B5%E1%86%AB%E1%84%8D%E1%85%A1-%E1%84%80%E1%85%A2%E1%84%87%E1%85%A1%E1%86%AF%E1%84%8C%E1%85%A1-%E1%84%80%E1%85%A9%E1%84%80%E1%85%AE%E1%86%AB%E1%84%87%E1%85%AE%E1%86%AB%E1%84%90%E1%85%AE%E1%84%80%E1%85%B5-%E1%84%87%E1%85%A1%E1%86%AF%E1%84%91%E1%85%AD%E1%84%8C%E1%85%A1%E1%84%85%E1%85%AD)
-* [getting-a-gig: Guide for getting a gig as a tech student](https://github.com/cassidoo/getting-a-gig)
+* [This resume got me an interview! : recruitinghell](https://www.reddit.com/r/recruitinghell/comments/qhg5jo/this_resume_got_me_an_interview/)
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
 * [cakeresume.com/v2](https://www.cakeresume.com/v2)
 * [ddongule-simple-portfolio: Portfolio for Developers! Make your own portfolio Simple and Fast!](https://github.com/ddongule/ddongule-simple-portfolio)
 * [Dopefolio - 개발자를 위한 포트폴리오 템플릿 오픈소스 | GeekNews](https://news.hada.io/topic?id=5024)
+* [getting-a-gig: Guide for getting a gig as a tech student](https://github.com/cassidoo/getting-a-gig)
 * [itresumeservice.com](http://www.itresumeservice.com/)
 * [latexresu.me](https://latexresu.me/)
 * [latex_resume_template_kor](https://github.com/changh95/latex_resume_template_kor)
