@@ -705,6 +705,7 @@ Git
   * [12.2: Rebase 시 "ours" 와 "theirs", 로컬과 원격 개념 이해하기 :: 노초코의 주경야독](https://nochoco-lee.tistory.com/117)
   * [🎢 Git Rebase 활용하기](https://velog.io/@godori/Git-Rebase)
   * [Git에서 원하는 커밋만 제거하기 (feat. SourceTree)](https://jojoldu.tistory.com/613)
+  * [merge와 rebase : 네이버 블로그](https://blog.naver.com/pjt3591oo/222567853728)
 * `reflog`
   * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
   * [How to undo your git failure Using `git reflog` and `git reset` to save your code](https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74)
