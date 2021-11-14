@@ -431,6 +431,8 @@ NoSQL
   * [Mongita - 임베드 가능한 MongoDB | GeekNews](https://news.hada.io/topic?id=4137)
 * MontyDB [A pure Python-implemented database that looks and works like MongoDB](https://pythonawesome.com/a-pure-python-implemented-database-that-looks-and-works-like-mongodb/)
 * [mango - A MongoDB driver for Deno](https://github.com/denodrivers/mango)
+* [MangoDB: A truly Open Source MongoDB alternative](https://github.com/MangoDB-io/MangoDB)
+  * [MangoDB - MongoDB의 오픈소스 대체제 | GeekNews](https://news.hada.io/topic?id=5308)
 * [mongo-java-server: Fake implementation of MongoDB in Java that speaks the wire protocol](https://github.com/bwaldvogel/mongo-java-server)
 
 # OmniSci
