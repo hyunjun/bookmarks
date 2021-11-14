@@ -121,6 +121,8 @@ Game
 * [Learn Python by Building Five Games - Full Course](https://www.youtube.com/watch?v=XGf2GcyHPhc) turtle, pygame
 * [flappy-bird: just a copied of flappy bird game](https://github.com/thuongton999/flappy-bird)
   * [A copied of flappy bird game made with python](https://pythonawesome.com/a-copied-of-flappy-bird-game-made-with-python/)
+* [Niantic Lightship](https://lightship.dev/)
+  * [Niantic, 리얼월드 메타버스 제작용 플랫폼 Lightship 공개 | GeekNews](https://news.hada.io/topic?id=5355)
 * [PyBoy - Game Boy emulator written in Python](https://github.com/Baekalfen/PyBoy)
 * Pygame
   * [Pygame Zero, a zero-boilerplate game framework for education](http://mauveweb.co.uk/posts/2015/05/pygame-zero.html)
