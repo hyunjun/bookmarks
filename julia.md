@@ -112,6 +112,7 @@ Julia
 * [Optimizing Serial Code](https://mitmath.github.io/18337/lecture2/optimizing)
 * [Profiling type-inference](https://julialang.org/blog/2021/01/snoopi_deep/)
 * [Decision-Making-Under-Uncertainty: Decision making under uncertainty using the POMDPs.jl ecosystem](https://github.com/JuliaAcademy/Decision-Making-Under-Uncertainty)
+* [Concurrency in Julia LWN.net](https://lwn.net/SubscriberLink/875367/bd24fc983affbed4/)
 
 # API
 * Pkg.add
