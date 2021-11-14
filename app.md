@@ -1449,6 +1449,7 @@ App
 * [Roam](https://roamresearch.com) graph 형태로 자신의 note를 연결할 수 있는 듯
   * [문서 작성법의 패러다임 시프트: 롬리서치 | Startup Lessons](https://tkim.co/2021/02/18/roam-research/)
   * [롬 리서치(Roam Research)란? 그래프 기반 노트 애플리케이션 | 44BITS](https://www.44bits.io/ko/keyword/roam-research)
+  * [athens: Free self-hosted desktop app: https://github.com/athensresearch/athens/releases; Paid tiers available through https://opencollective.com/athens; Try the demo at https://athensresearch.github.io/athens; Docs viewable at https://app.gitbook.com/@athensresearch/s/handbook/ ](https://github.com/athensresearch/athens)
 * [Rocketbook | Best Smart Notebook | Cloud Notebook | Reusable Notebook](https://getrocketbook.com/)
   * [전자레인지로 리셋? 자필 메모 저장앱](http://techholic.co.kr/archives/31506)
 * [Snip](https://mix.office.com/Snip) windows only
