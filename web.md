@@ -244,6 +244,7 @@ Web
   * importance를 hign나 low, auto로 지정 가능
   * 이 우선순위 힌트는 실험적 기능, Chrome 96부터 origin trial로 이용 가능
   * 크롬이 처리하는 우선순위가 표로 잘 나와 있고 우선순위 힌트를 사용했을 때 얼마나 빨라지는 지도 비교 설명
+* [**짧게 써보는 웹 프론트엔드의 역사**](https://velog.io/@minsangk/%EC%A7%A7%EA%B2%8C-%EC%8D%A8%EB%B3%B4%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EC%97%AD%EC%82%AC)
 
 # Apache
 * installation
@@ -576,6 +577,7 @@ Web
 * [AdminLTE 다기능의 Bootstrap기반 관리 화면 템플릿](http://neojjang.tistory.com/entry/%EB%8B%A4%EA%B8%B0%EB%8A%A5%EC%9D%98-Bootstrap%EA%B8%B0%EB%B0%98-%EA%B4%80%EB%A6%AC-%ED%99%94%EB%A9%B4-%ED%85%9C%ED%94%8C%EB%A6%BF-AdminLTE)
 * [codepen.io](http://codepen.io/Yakudoo/pen/YXxmYR)
 * [BakerStreet - Simple client side load balancer for microservices](http://bakerstreet.io/)
+* [Best-websites-a-programmer-should-visit: Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
 * [Bit: The platform for the modular web](https://bit.dev/)
 * [CODEF API - 인코딩, 암호화 등 API 요청에 필요한 전처리 작업을 최소화하고 쉽게 개발할 수 있는 API](https://github.com/dc7303/easy-codef-py)
 * [deepstream.io - A Scalable Server for Realtime Web Apps](http://deepstream.io/)
@@ -1029,6 +1031,8 @@ Web
 * [내 웹 페이지 성능을 어떻게 올릴까? — 기초 | Medium](https://haragoo30.medium.com/%EC%9B%B9-%EC%84%B1%EB%8A%A5-%EC%B5%9C%EC%A0%81%ED%99%94-%EA%B8%B0%EC%B4%88-1e107b44eb46)
 * [내 웹 페이지 성능을 어떻게 올릴까? — 예제 | by JungHoon Park | Jun, 2021 | Medium](https://haragoo30.medium.com/%EB%82%B4-%EC%9B%B9%ED%8E%98%EC%9D%B4%EC%A7%80-%EC%84%B1%EB%8A%A5%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%98%AC%EB%A6%B4%EA%B9%8C-%EC%98%88%EC%A0%9C-a1800d10d4ed)
 * [웹 프론트 속도 개선을 위한 필수도구 소개](https://velog.io/@dochis/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8-%EC%86%8D%EB%8F%84-%EA%B0%9C%EC%84%A0%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%95%84%EC%88%98%EB%8F%84%EA%B5%AC-%EC%86%8C%EA%B0%9C)
+* [Web Performance Metrics Cheatsheet](https://bitsofco.de/web-performance-metrics-cheatsheet/)
+  * [웹 성능 지표 Cheatsheet | GeekNews](https://news.hada.io/topic?id=5339)
 * [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
   * [Simple Performance Testing with Apache Benchmark](http://www.chriswpage.com/2010/01/simple-performance-testing-with-apache-benchmark/)
   * [Example of using Apache Bench (ab) to POST JSON to an API](https://gist.github.com/kelvinn/6a1c51b8976acf25bd78)
