@@ -124,6 +124,8 @@ App
   * [FalsiScan: Make it look like a PDF has been hand signed and scanned](https://gitlab.com/edouardklein/falsisign)
   * [mupdf - mirrored from git://git.ghostscript.com/mupdf.git http://mupdf.com ](https://github.com/ccxvii/mupdf)
   * [PDFtk Server - our command-line tool for working with PDFs. It is commonly used for client-side scripting or server-side processing of PDFs](https://www.pdflabs.com/tools/pdftk-server/)
+  * [pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
+    * [pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구 | GeekNews](https://news.hada.io/topic?id=5334)
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 * [pixlr.com](http://pixlr.com/) 온라인 포토샵
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
@@ -403,6 +405,8 @@ App
 * [Async Cookie Store API 살펴보기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20201027/)
 * [Google Chrome to remove detailed cookie and site data controls](https://lapcatsoftware.com/articles/chrome-cookie.html)
 * thisisunsafe [How to get through Chrome security error pages - Miguel Piedrafita](https://miguelpiedrafita.com/chrome-thisisunsafe)
+* [Record, replay and measure user flows - Chrome Developers](https://developer.chrome.com/docs/devtools/recorder/)
+  * [크롬 97의 새 기능 - 사용자 플로우 녹화 | GeekNews](https://news.hada.io/topic?id=5331)
 * [리스틀리 - 세상에서 가장 빠른 웹 데이터 추출](https://www.listly.io/ko) crawler
   * [아마존과 쿠팡이 쓰는 툴이 한국 SW였다 : 개발자 필요없는 크롤링 서비스 리스틀리 사용기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233475)
 * [Bubbles: Video and Screenshot Collaboration](https://www.usebubbles.com/)
@@ -627,6 +631,7 @@ App
     * [알아두면 쓸데있는 VSCode 노하우](https://jeonghwan-kim.github.io/dev/2020/04/05/vscode.html)
     * [Visual Studio Codespaces 소개](https://overspend.tistory.com/1)
     * [Introducing Visual Studio Codespaces: cloud-hosted development for wherever you’re working](https://devblogs.microsoft.com/visualstudio/introducing-visual-studio-codespaces/)
+    * [GitHub Codespaces](https://github.com/features/codespaces/)
     * [Visual Studio Code: A Power User’s Guide](https://morioh.com/p/408c9c96d0fe)
     * [VS Code settings you should customize](https://dev.to/thegeoffstevens/vs-code-settings-you-should-customize-5e75)
     * [새롭게 업데이트 된 VS Code Settings Sync 사용하기](https://blog.metafor.kr/211)
@@ -687,6 +692,7 @@ App
       * [VSCode Extensions: 8 Must Have VSCode Plugins in 2021 | CodersTea](https://www.coderstea.com/post/tools/every-programmer-needs-these-vscode-extensions/)
       * [VSCode에서 Bracket Pair Colorizer 삭제하고 내장 기능 사용하기 | by Bora Lee | Oct, 2021 | Medium](https://violetboralee.medium.com/vscode%EC%97%90%EC%84%9C-bracket-pair-colorizer-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B3%A0-%EB%82%B4%EC%9E%A5-%EA%B8%B0%EB%8A%A5-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-e75558a87990)
       * [임베디드 개발자의 vscode + c/cpp extention 사용기 : 클리앙](https://www.clien.net/service/board/use/15746297)
+      * [Red Hat Releases Language Support for Java Plugin 1.0 for VSCode](https://www.infoq.com/news/2021/11/java-plugin-version-1-vscode/)
     * Git
       * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
       * [mac에서 visual studio code를 git commit editor로 설정하기](http://blog.woniper.net/352)
