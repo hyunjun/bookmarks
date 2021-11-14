@@ -287,12 +287,13 @@ C++
 * [All C++20 core language features with examples | Oleksandr Koval’s blog](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
   * [C++20의 주요 기능들 - 예제와 함께 정리 | GeekNews](https://news.hada.io/topic?id=4033)
 
-# CppCon
+# Conference
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
 * [CppCon 2015: Scott Wardle “Memory and C++ debugging at Electronic Arts”](https://www.youtube.com/watch?v=8KIvWJUYbDA)
 * [CppCon 2015: John Farrier “Demystifying Floating Point"](https://www.youtube.com/watch?v=k12BJGSc2Nc)
 * [CppCon 2019 Presentation Materials](https://github.com/CppCon/CppCon2019)
 * [CppCon 2020 Plenary Talks - YouTube](https://www.youtube.com/playlist?list=PLHTh1InhhwT4PVVy3PGfw0Va7wZNrH0-w)
+* [Structure and Interpretation of Computer Programs: SICP - YouTube](https://www.youtube.com/watch?v=f7s8_PGpVT0)
 
 # IDE
 * CLion
