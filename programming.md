@@ -1836,6 +1836,7 @@ Programming
 * Naver
   * [DEVIEW 2021](https://deview.kr/2021)
     * [네이버 서비스로 알아보는 DEVIEW 2021 (1/3)](https://d2.naver.com/news/3875565)
+    * [네이버 서비스로 알아보는 DEVIEW 2021 (2/3)](https://d2.naver.com/news/8329885)
   * [DEVIEW 2020 발표자료와 영상이 공개되었습니다](https://d2.naver.com/news/5751902)
   * [{DEVIEW2020} 검색결과](https://tv.naver.com/search/clip?query=DEVIEW2020&isTag=true)
   * [2020 NAVER TECH CONCERT ONLINE](https://d2.naver.com/news/6137384)
