@@ -4230,6 +4230,7 @@ Python
 * [**Data Munging with Pandas - John Fries, CTO, OpenMail**](https://www.youtube.com/watch?v=LFDAQfN0L9k&list=PLDgJktEljc8WphZY4O9XS-0yeFQdHs2K3)
   * [python 이것만 알면 로그 분석 할 수 있다. - 이정우](https://docs.google.com/document/d/1nGQ-OjQVQgW_U94HQmDp0tSGrJSzsFP3GA_B8egKJYY/edit)
 * [Ultimate guide for Data Exploration in Python using NumPy, Matplotlib and Pandas](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/)
+* [Working with Text Data in Pandas - YouTube](https://www.youtube.com/watch?v=6JNwK6hEneg)
 * [Pandas writing dataframe to CSV file](http://stackoverflow.com/questions/16923281/pandas-writing-dataframe-to-csv-file)
 * [Improving Pandas’s Excel Output](http://pbpython.com/improve-pandas-excel-output.html)
 * [Updated: Using Pandas To Create an Excel Diff](https://pbpython.com/excel-diff-pandas-update.html)
