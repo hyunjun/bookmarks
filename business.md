@@ -948,6 +948,7 @@ Business
 * [토스 이승건 대표 "우리는 실패율 95%짜리 조직"](https://brunch.co.kr/@1312capo/48)
 * [김범석 쿠팡 창업자가 이야기하는 스타트업 조직관리법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/%EC%BF%A0%ED%8C%A1%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A1%B0%EC%A7%81%EA%B4%80%EB%A6%AC%EC%97%90-%EC%84%B1%EA%B3%B5%ED%96%88%EB%82%98) 하나에 집중, 시행착오 회피, 고객 최우선, 직원은 제2의 고객, 실용주의, 실력주의 인사
 * [지키는 자와 뺏는 자](https://www.thestartupbible.com/2021/09/some-thoughts-on-offense-and-defense.html)
+* [Guy Kawasaki "The Art of the Start" @ TiECon 2006 - YouTube](https://www.youtube.com/watch?v=jSlwuafyUUo) 다 알아듣기는 힘들지만 유쾌하게 entrepreneurship에 대해 설명
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
