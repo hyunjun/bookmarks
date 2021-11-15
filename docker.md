@@ -105,6 +105,7 @@ Docker
 * [Docker Best Practices for Python Developers | TestDriven.io](https://testdriven.io/blog/docker-best-practices/)
 * [Top 8 Docker Best Practices for using Docker in Production - YouTube](https://www.youtube.com/watch?v=8vXoMqWgbQQ)
 * ['쓸만한' Docker Image 만들기 - Part 1 Build an Usable Docker Image with Alpine Linux](http://www.sauru.so/blog/build-usable-docker-image-part1/)
+* ['쓸만한' Docker Image 만들기 - Part 2 | 소용환의 생각저장소](https://www.sauru.so/blog/build-usable-docker-image-part2/)
 * [효율적인 도커 이미지 만들기 #1 - 작은 도커 이미지](https://bcho.tistory.com/1356)
 * [효율적인 도커 이미지 만들기 #2 - 도커 레이어 캐슁을 통한 빌드/배포 속도 높이기](https://bcho.tistory.com/1357)
 * [**도커 이미지 잘 만드는 방법**](https://jonnung.dev/docker/2020/04/08/optimizing-docker-images/)
@@ -120,6 +121,7 @@ Docker
 * [Managing Open-Source Docker Images on Docker Hub using Travis](https://medium.com/vaidikkapoor/managing-open-source-docker-images-on-docker-hub-using-travis-7fd33bc96d65)
 * [Docker Machine으로 Docker Node 뿌리기 - Docker is Not In My BackYard, But on the Cloud!](http://www.sauru.so/blog/provision-docker-node-with-docker-machine/)
 * [Docker Machine 다시 보기 - A Little More About Docker Machine](http://www.sauru.so/blog/little-more-about-docker-machine/)
+* [Getting Started with Docker Swarm | 소용환의 생각저장소](https://www.sauru.so/blog/getting-started-with-docker-swarm/)
 * [Docker Swarm에 Service 올려보기 - Docker Swarm 방식으로 서비스 생명주기 관리하기](http://www.sauru.so/blog/run-a-service-on-docker-swarm)
 * [Docker Swarm의 고가용성 - 서비스 가용성을 보장하기 위한 Swarm 클러스터 구성 방법](http://www.sauru.so/blog/high-availability-of-docker-swarm)
 * [Docker Swarm 다시 보기 - Docker의 Label과 관련된 몇 가지 재미있는 기능들](http://www.sauru.so/blog/little-more-about-docker-swarm/)
@@ -448,6 +450,9 @@ Docker
 * [docker container 활용 #4](http://ahnseungkyu.com/244) CMD와 ENTRYPOINT
 * [docker container 활용 #5](http://ahnseungkyu.com/245) docker image size 줄이기
 * [Docker Images : Part I - Reducing Image Size](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html)
+* [Docker Images : Part II - Details Specific To Different Languages](https://www.ardanlabs.com/blog/2020/02/docker-images-part2-details-specific-to-different-languages.html)
+* [Docker Images : Part III - Going Farther To Reduce Image Size](https://www.ardanlabs.com/blog/2020/04/docker-images-part3-going-farther-reduce-image-size.html)
+* [3 simple tricks for smaller Docker images](https://learnk8s.io/blog/smaller-docker-images)
 * [Docker Based Web Hosting](https://code.shoplic.kr/docker-based-web-hosting)
 * [Demystifying containers 101: a deep dive into container technology for beginners](https://medium.freecodecamp.org/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners-d7b60d8511c1)
 * [The TICK stack as a Docker Application Package](https://medium.com/lucjuggery/the-tick-stack-as-a-docker-application-package-1d0d6b869211)
@@ -846,6 +851,9 @@ Docker
   * [#4 volume & stateful set](https://www.slideshare.net/Byungwook/kubernetes-4-volume-amp-stateful-set)
   * [#6 advanced scheduling](https://www.slideshare.net/Byungwook/kubernetes-6-advanced-scheduling)
 * [Best practices for deploying highly available apps in Kubernetes. Part 1 – Flant blog](https://blog.flant.com/best-practices-for-deploying-highly-available-apps-in-kubernetes-part-1/)
+* [MITRE ATT&CK Framework, Falco Container Security | Sysdig](https://sysdig.com/blog/mitre-attck-framework-for-container-runtime-security-with-sysdig-falco/)
+* [Threat matrix for Kubernetes](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/)
+* [Secure containerized environments with updated threat matrix for Kubernetes - Microsoft Security Blog](https://www.microsoft.com/security/blog/2021/03/23/secure-containerized-environments-with-updated-threat-matrix-for-kubernetes/)
 * [Kubernetes Security 101 - Best Practices - YouTube](https://www.youtube.com/watch?v=fsfEthTZgFw)
 * [Container security best practices: Comprehensive guide - Sysdig](https://sysdig.com/blog/container-security-best-practices/)
 * [Database Security Best Practices on Kubernetes](https://blog.crunchydata.com/blog/database-security-best-practices-on-kubernetes)
@@ -1109,6 +1117,7 @@ Docker
 * [Kubernetes Persistent Volumes: Examples & Best Practices](https://loft.sh/blog/kubernetes-persistent-volumes-examples-and-best-practices)
 * [4 devs by devs: Kubernetes interview question made easy | All about software development](https://jakubstransky.com/2021/11/05/4-devs-kubernetes-interview-question-made-easy/)
 * [Can't Resize your Postgres Kubernetes Volume? No Problem!](https://blog.crunchydata.com/blog/resize-postgres-kubernetes-volume-instance-sets)
+* [NDC21-프로그래밍 게임 서버를 품은 쿠버네티스 - YouTube](https://www.youtube.com/watch?v=8R4DDEqjc0I)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
