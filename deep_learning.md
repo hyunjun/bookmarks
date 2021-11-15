@@ -900,6 +900,7 @@ Deep Learning
     * [초짜 대학원생의 입장에서 정리한 NIPS 2016 tutorial: Nuts and bolts of building AI applications using Deep Learning by Andrew Ng](http://jaejunyoo.blogspot.com/2017/03/kr-nips-2016-tutorial-summary-nuts-and-bolts-of-building-AI-AndrewNg.html)
   * [History of Bayesian Neural Networks (Keynote talk)](https://www.youtube.com/watch?v=FD8l2vPU5FY)
 * [NVIDIA DEEP LEARNING DAY 2017 CONFERENCE](https://www.nvidia.com/ko-kr/deep-learning-day/agenda/)
+* [SAIF 2021 Day 2: Live streaming | Samsung - YouTube](https://www.youtube.com/watch?v=Jy_auavraKg)
 
 # Course MOOC Lecture
 * [#39. 딥러닝 공부 가이드 2019 (무료 강의, 책)](t-robotics.blogspot.com/2018/12/39-2019.html)
@@ -1592,6 +1593,8 @@ Deep Learning
 * [Python 신경망 학습 (2) : 네이버 블로그](https://blog.naver.com/eunseong31/221597561463)
 * [Python 신경망 학습 (3) : 네이버 블로그](https://blog.naver.com/eunseong31/221598016421)
 * [Neural Networks from Scratch - an interactive guide](https://aegeorge42.github.io/) 뉴럴넷을 배울 수 있도록 단계별로 진행해 볼 수 있는 인터렉티브 가이드
+* [nnstreamer: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices](https://github.com/nnstreamer/nnstreamer)
+* [nntrainer: NNtrainer is Software Framework for Training Neural Network Models on Devices](https://github.com/nnstreamer/nntrainer)
 * [triton: Development repository for the Triton language and compiler](https://github.com/openai/triton)
   * [Introducing Triton: Open-Source GPU Programming for Neural Networks](https://www.openai.com/blog/triton/)
 
