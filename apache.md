@@ -1039,6 +1039,7 @@ Apache
 * [Event-driven railway network based on Pulsar - I'm Pavels, welcome!](https://scala.monster/train-station/) scala
 * [Scale By The Bay 2020: Keynote: Karthik Ramasy, Apache Pulsar @ Splunk - YouTube](https://www.youtube.com/watch?v=rmiQb4wsCTI)
 * [Event Streaming with Apache Pulsar and Scala - Rock the JVM Blog](https://blog.rockthejvm.com/event-streaming-with-pulsar-and-scala/)
+* [Apache Pulsar Tutorial with Scala - YouTube](https://www.youtube.com/watch?v=u4lTUIFm1lw)
 
 # Ranger
 * [Ranger](http://ranger.apache.org)
