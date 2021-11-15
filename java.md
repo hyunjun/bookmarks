@@ -745,6 +745,7 @@ Java
   * [Shenandoah in OpenJDK 17 : 밀리초 미만의 GC Pause 구현 | GeekNews](https://news.hada.io/topic?id=5037)
 * [Embracing Java 17: Here’s What We Learned | by Sander Mak | Nov, 2021 | Picnic Engineering](https://blog.picnic.nl/embracing-java-17-heres-what-we-learned-69779d95fdf2)
 * [Oracle's JDK 17 - Free Again for Commercial Use](https://www.infoq.com/news/2021/10/oracle-jdk-free-again/)
+* [To Java 17 and Beyond! - YouTube](https://www.youtube.com/watch?v=U14IA5XiX1I)
 
 # Java18
 * [레코드 및 배열 패턴 外··· 구체화되는 ‘자바 18’ 미리보기 - CIO Korea](https://www.ciokorea.com/news/205454)
