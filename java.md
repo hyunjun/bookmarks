@@ -1729,6 +1729,7 @@ Java
 * [Step by Step Toward Property Based Testing | LeadingAgile](https://www.leadingagile.com/2018/04/step-by-step-toward-property-based-testing/)
 * [The Best Java Testing Frameworks to focus in 2021 - pCloudy](https://www.pcloudy.com/blogs/the-best-java-testing-frameworks-to-focus-in-2021/)
 * [테스트 코드 한 줄을 작성하기까지의 고난 – tech.kakao.com](https://tech.kakao.com/2021/11/08/test-code/)
+* [검증부 (assert / expect)는 하드코딩한다](https://jojoldu.tistory.com/615)
 * ArchUnit [Unit test your Java architecture - ArchUnit](https://www.archunit.org/)
   * [How to test your Java project’s architecture with ArchUnit](https://medium.freecodecamp.org/java-archunit-testing-the-architecture-a09f089585be)
   * [ArchUnit - UnitTest로 아키텍처 검사를](https://d2.naver.com/helloworld/9222129)
