@@ -715,6 +715,7 @@ Linux
   * [Load Average에 대하여 :: Lunatine's Box — Lunatine's Box](https://lunatine.net/2016/02/19/about-load-average/)
   * [Network Monitoring using SAR. In this blog we will have a look at how… | by Malith Jayasinghe | Medium](https://medium.com/@malith.jayasinghe/network-monitoring-using-sar-37bab6ce9f68)
 * `scp` [How to Perform a Remote Linux Backup Using SSH](https://www.linuxshelltips.com/remote-linux-backup/)
+* screen [screen 빠르게 사용](https://jybaek.tistory.com/939)
 * `sed`
   * `find . -iname "*.java" -exec sed -i '' 's/[[:space:]]*$//' {} +` 특정 확장자 파일의 trailing whitespace를 sed로 제거
     * [find & sed (search and replace) - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/36795/find-sed-search-and-replace)
