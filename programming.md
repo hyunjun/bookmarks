@@ -879,6 +879,8 @@ Programming
     * Netlify처럼 프론트엔드 개발자들이 Cloudflare에 Jamstack 사이트를 배포할 수 있는 기능
     * Git 저장소를 연결해서 빌드해서 바로 배포할 수 있고 웹 분석, 내장 리다이렉트, 프리뷰, 이미지 최적화 등의 기능 포함
   * [Five Great (free!) Ways to Get Started With Cloudflare](https://blog.cloudflare.com/five-free-ways-to-get-started-with-cloudflare/)
+  * [Durable Objects — now Generally Available](https://blog.cloudflare.com/durable-objects-ga/)
+    * Cloudflare에서 CDN 엣지에서 실행되는 워커 간에 상태를 관리하는 stateful serverless 서비스인 Durable Objects를 작년 발표, 이번에 공개
   * [JVM and cache warm-up strategy for high traffic services](https://medium.com/teads-engineering/jvm-and-cache-warm-up-strategy-for-high-traffic-services-4b5016f8b565)
   * [스파게티 조인을 피하고 경계안에서 캐시 구현하기](https://www.popit.kr/스파게티-조인을-피하고-경계안에서-캐시-구현하기) operation cache, BoundedContext
   * [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
@@ -2807,6 +2809,7 @@ Programming
   * [기술 뉴스 #183 : 21-10-02 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1567)
   * [기술 뉴스 #184 : 21-10-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1568)
   * [기술 뉴스 #185 : 21-11-02 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1569)
+  * [기술 뉴스 #186 : 21-11-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1570)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -3334,6 +3337,14 @@ Programming
 * [2018 OKKYCON - The Real TDD](https://github.com/david-learner/java-study/blob/master/2018OKKYCON/readme.md)
 * [Agile and Test Driven Development (TDD) with Swagger, Docker, Github, Postman, Newman and Jenkins for a Loopback, Node.js and CouchDB App](https://medium.com/nycdev/agile-and-test-driven-development-tdd-with-swagger-docker-github-postman-newman-and-jenkins-347bd11d5069)
 * [애자일 테스팅 회고. 애자일 개발 환경에서 QA의 역할은 무엇일까요? 단순히 개발 초기부터… | by Seunghoon Lee | 원티드 제품 팀블로그 | Nov, 2021 | Medium](https://medium.com/wantedjobs/%EC%95%A0%EC%9E%90%EC%9D%BC-%ED%85%8C%EC%8A%A4%ED%8C%85-%ED%9A%8C%EA%B3%A0-7b79c36493f8)
+  * 원티드의 QA팀에서 애자일 테스팅을 시도하면서 결과를 검증해 본 과정 정리
+  * 애자일 프로세스를 도입했음에도 만족스러운 결과를 얻지 못해서
+    * 선언문에 나온 대로 "얼마나 만족스러운 소프트웨어를 얼마나 빠르게 고객에게 전달하느냐"를 생성성과 품질 관점에서 보려고
+    * 집중하고 Jira의 티켓을 좀 더 세밀하게 분석해서 싸이클 타임과 환경별 DDP(Defect Detection Percentage)를 분석해서 프로젝트의 진행 상황을 파악할 수 있게 함
+  * 이후 폭포수와 개발 주기 중 테스트를 함께하는 애자일을 비교하기 위해 시뮬레이션을 한 결과
+    * 오히려 애자일 스프린트가 더 오래 걸리는 것으로 보여 더 자세히 살펴보니
+    * 폭포수로 진행했을 때 QA 단계에서 발견되는 버그가 3배 높다는 것을 알게 되어
+    * 이를 반영하자 폭포수가 애자일 스프린트보다 훨씬 오래 걸리는 것으로 파악
 * [TDD 읽은티내기](https://brunch.co.kr/@moonjoonyoung/7)
 * [**뱅크샐러드의 실험플랫폼 분석 인프라 살펴보기 | 뱅크샐러드**](https://blog.banksalad.com/tech/experiment-platform-analysis-architecture/)
 * [The Causal Analysis of Cannibalization in Online Products - Code as Craft](https://codeascraft.com/2020/02/24/the-causal-analysis-of-cannibalization-in-online-products/)
