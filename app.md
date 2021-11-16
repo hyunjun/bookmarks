@@ -730,6 +730,7 @@ App
       * [Python in Visual Studio Code – October 2019 Release](https://devblogs.microsoft.com/python/python-in-visual-studio-code-october-2019-release)
       * [VSCode의 Jupyter Extension을 사용하여 간단하게 Python으로 데이터 시각화하기 : NHN Cloud Meetup](https://meetup.toast.com/posts/283) 데이터 통계 및 시각화
       * [VS Code Python Tool Revamps Jupyter Notebooks Experience -- Visual Studio Magazine](https://visualstudiomagazine.com/articles/2021/08/09/vs-code-python-aug21.aspx)
+      * [16 Reasons to Use VS Code for Developing Jupyter Notebooks - Practical Business Python](https://pbpython.com/vscode-notebooks.html)
     * remote
       * [마이크로소프트 비주얼 스튜디오 코드, 원격 개발 기능 지원](https://www.44bits.io/ko/post/news--vs-code-now-supports-remote-development)
       * [Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
