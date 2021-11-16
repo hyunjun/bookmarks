@@ -287,6 +287,7 @@ Go
 * [Go is an awesome language | Have you Debugged.IT?](https://debugged.it/blog/go-is-awesome/)
 * [20,000 lines under the Go-cean | Have you Debugged.IT?](https://debugged.it/blog/20000-lines-under-the-go-cean/)
 * [Go is Korean, Lisp is Japanese](https://imagine27.com/go-is-korean/)
+* [Offensive Golang Bonanza: Writing Golang Malware - YouTube](https://www.youtube.com/watch?v=oCdaOLmKu6s)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
