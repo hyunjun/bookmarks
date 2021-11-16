@@ -421,7 +421,7 @@ Linux
 * [Efficient File Copying On Linux](https://eklitzke.org/efficient-file-copying-on-linux)
 * [What Linux Version Am I Running? Here's How to Find Out](https://linuxiac.com/what-linux-version/)
 * [신입 or Jr 엔지니어 면접을 위한 리눅스 명령어 top 10 - YouTube](https://www.youtube.com/watch?v=u9RukvKZJZM)
-* [bashcrawl · Learn Linux commands by playing a simple text adventure](https://gitlab.com/slackermedia/bashcrawl)
+* [7 Linux commands to use just for fun | Opensource.com](https://opensource.com/article/21/11/fun-linux-commands)
 * `at`
   * [practice - at](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
   * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)
@@ -446,6 +446,7 @@ Linux
   * [aho: A git implementation in awk](https://github.com/djanderson/aho)
 * `basename` get file name from path
   * e.g. `$ basename /tmp/mdstat.tmp .tmp` returns `mdstat`
+* [bashcrawl · Learn Linux commands by playing a simple text adventure](https://gitlab.com/slackermedia/bashcrawl)
 * `bc`
   * [Computing pi with bc](https://www.johndcook.com/blog/2019/10/29/computing-pi-with-bc/)
 * `cat` [Cat and friends (Netcat and Socat) - Kubernetes, CI/CD, Git, Linux, Containers, Golang... and more](https://techsquad.rocks/blog/cat_and_friends_netcat_socat/)
