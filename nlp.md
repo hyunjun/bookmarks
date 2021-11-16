@@ -975,6 +975,8 @@ NLP
 * [AI x Bookathon｜인공지능을 수필 쓰는 작가로 학습시켜보자!](https://jeinalog.tistory.com/25) GPT, hdf5, scrapy, selenium
   * [Ai bookathon public](https://www.slideshare.net/MinjungChung1/ai-bookathon-public)
 * [Google AI Blog: Advancing NLP with Efficient Projection-Based Model Architectures](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html) GPT-3와 반대로 적은 parameter로 만드는 model에 대한 이야기
+* [kogpt: KakaoBrain KoGPT (Korean Generative Pre-trained Transformer)](https://github.com/kakaobrain/kogpt) GPT-3 기반의 한국어 특화 AI 언어 모델
+  * [if(kakao) 2021](https://if.kakao.com/session/48)
 * [mesh-transformer-jax: Model parallel transformers in JAX and Haiku](https://github.com/kingoflolz/mesh-transformer-jax)
   * [Checking out a 6-Billion parameter GPT model, GPT-J, from Eleuther AI - YouTube](https://www.youtube.com/watch?v=_z86t7LerrQ)
 
