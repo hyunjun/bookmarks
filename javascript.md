@@ -576,6 +576,14 @@ Javascript
   * [An introduction to the JAMstack: the architecture of the modern web](https://medium.com/free-code-camp/an-introduction-to-the-jamstack-the-architecture-of-the-modern-web-c4a0d128d9ca)
   * [Hyeseong's Blog - Jamstack에서 스타일시트를 최적화하는 법](https://blog.cometkim.kr/posts/css-optimization-in-jamstack/)
   * [MDN Web Docs evolves! Lowdown on the upcoming new platform - Mozilla Hacks - the Web developer blog](https://hacks.mozilla.org/2020/10/mdn-web-docs-evolves-lowdown-on-the-upcoming-new-platform/)
+  * [Why Twilio Migrated to the Jamstack--Built, Deployed, and Scaled on Netlify](https://www.netlify.com/blog/2021/11/08/twilio-console-a-large-scale-migration-to-jamstack/)
+    * Twilio의 개발자 인터페이스(Twilio의 고객 개발자가 이용하는 콘솔)인 Twilio Console을 Jamstack으로 마이그레이션
+    * 2008년부터 사용한 Twilio 콘솔은 SPA였고 30개의 제품에 쓰였고 30개의 팀이 독립적으로 유지보수
+    * 마이크로 프론트엔드 아키텍처는 기존 PHP와 Scala 애플리케이션과 새로운 React 애플리케이션이 같이 존재할 수 있어서 도움
+    * 서버가 있는 미국을 거쳐야 했으므로 글로벌 사용자는 1~2sec 이상 느려지는 경우가 많았고, 또한 페이지가 바뀔 때 페이지 전체를 다시 불러와야 하는 경우도 존재
+    * Twilio가 더 커지면서 Jamstack 아키텍처를 선택, 성능 개선과 나아진 개발 워크플로우를 목표
+    * Jamstack으로 마이그레이션된 새로운 콘솔은 Netlify로 호스팅 되는 모노레포 Jamstack 애플리케이션
+    * Deploy Preview로 협업이 많이 증가, 이전보다 50배 자주 배포, 글로벌 사용자에게 TTFB가 이전에는 1~2초였지만 이제는 30~60ms가 되어 30배 성능 개선
 * [자바스크립트에서 expect(-3 % 3).toEqual(3 % 3)가 실패하는 이유](https://libsora.so/posts/-3-mod-3-is-not-equal-to-3-mod-3-in-javascript/)
 * [Little known features of JavaScript](https://blog.usejournal.com/little-known-features-of-javascript-901665291387)
 * [How to get noticed in the Javascript world](https://hackernoon.com/how-to-get-noticed-in-the-javascript-world-aec7d382b005)
@@ -3502,6 +3510,7 @@ Javascript
   * [리액트 라우터 상태(keep alive) 유지하기](https://blog.naver.com/pjt3591oo/222353304332)
   * [create-react-app에서 React Router 사용하기 - create-react-app로 생성한 React에서 페이지 전환 기능을 구현하기 위해 react-router를 사용하는 방법에 대해서 알아봅시다](https://dev-yakuza.posstree.com/ko/react/create-react-app/react-router/)
   * [React Router v5 → v6 빠르게 훑어보기 - YouTube](https://www.youtube.com/watch?v=CHHXeHVK-8U)
+  * [React Router Dom v6](https://blog.naver.com/pjt3591oo/222569574062)
 * [react scope - VISUALIZE YOUR REACT COMPONENTS AS YOU INTERACT WITH YOUR APPLICATION](http://reactscope.com/)
 * [React Sight — Visualise your React apps](https://medium.com/javascript-in-plain-english/react-sight-visualize-your-react-applications-ec3c7e1ae154)
 * [react-slick의 slider 아이템이 중복으로 뜨는 경우](https://blog.naver.com/pjt3591oo/222355605182)
