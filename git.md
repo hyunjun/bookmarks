@@ -611,6 +611,14 @@ Git
     * `git lg`, `git lg -p` 변경사항 포함, `git lga` branch까지 함께
   * [Git 커밋 히스토리를 출력할 때 꿀팁](https://blog.naver.com/codeitofficial/221944918052)
   * [When it comes to git history, less is more • Stephen Brennan](https://brennan.io/2021/06/15/git-less-is-more/)
+* ls-files
+  * [Make your monorepo feel small with Git’s sparse index | The GitHub Blog](https://github.blog/2021-11-10-make-your-monorepo-feel-small-with-gits-sparse-index/)
+    * 모노레포처럼 아주 큰 Git 저장소의 경우 성능을 개선하기 위해 sparse-checkout을 사용 가능
+      * 이때 파일의 일부만 사용하게 되지만 Git 인덱스는 여전히 워킹디렉토리의 파일 정보를 다 가지고 있음
+      * 2백만 개의 파일이 있는 모노레포의 경우 Git 인덱스만 해도 180MB나 될 정도로 성능에 영향
+    * 이런 경우 Git 인덱스도 필요한 파일만 사용하도록 --sparse-index를 사용 가능
+      * 이렇게 사용하면 아주 큰 모노레포에서도 작은 저장소인 것처럼 Git 명령어를 빠르게 사용 가능
+      * 이 명령어를 추가하게 된 배경과 성능 비교를 설명
 * merge
   * [How to "Merge" Specific Files from Another Branch](http://jasonrudolph.com/blog/2009/02/25/git-tip-how-to-merge-specific-files-from-another-branch/)
   * `git merge --no-commit --no-ff <name>` [Is there a git-merge --dry-run option?](http://stackoverflow.com/questions/501407/is-there-a-git-merge-dry-run-option)
