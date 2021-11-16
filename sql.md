@@ -665,6 +665,9 @@ SQL
     * InnoDB를 MyRocks로 마이그레이션하는 방법을 간단히 설명
   * [Migrating Messenger storage to optimize performance](https://code.facebook.com/posts/201318390519340/migrating-messenger-storage-to-optimize-performance/) facebook messenger storage, migration from HBase to MyRocks
   * [How Facebook Accelerates SQL at Extreme Scale](https://www.datanami.com/2020/08/31/how-facebook-accelerates-sql-at-extreme-scale/)
+* mysqlsh
+  * [mysql shell(mysqlsh) 설치 및 사용방법](https://myinfrabox.tistory.com/213)
+  * [JavaScript Mode and the MySQL Shell (aka Extending the MySQL Shell with JavaScript) - YouTube](https://www.youtube.com/watch?v=vf0UEZd3KII)
 * [MySQLTuner-perl](https://github.com/major/MySQLTuner-perl)
 * [OSC - Facebook releases a new OnlineSchemaChange tool written in Python](http://www.eversql.com/facebook-releases-a-new-onlineschemachange-tool-written-in-python/)
 * [Percona pt-online-schema-change 설치 및 사용하기](https://jojoldu.tistory.com/358)
