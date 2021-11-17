@@ -140,6 +140,7 @@ Clojure
 * [Clojure Destructuring Tutorial and Cheat Sheet](https://gist.github.com/john2x/e1dca953548bfdfb9844)
 * [Clojure - Destructuring lists and maps tutorial - YouTube](https://www.youtube.com/watch?v=gdpzUpvZZJk)
 * [Destructuring in Clojure - Ostash.Dev](https://ostash.dev/posts/2021-05-10-destructuring-in-clojure/)
+* [Destructuring in Clojure - YouTube](https://www.youtube.com/watch?v=eXdOKmN98FA)
 * [Locks vs Concurrency Primitives](http://www.lispcast.com/locks-v-concurrency-primitives)
 * [구글 개발자, 자연어로 작성하는 프로그래밍 언어 공개](http://www.bloter.net/archives/251344)
 * [The End of Dynamic Languages](http://elbenshira.com/blog/the-end-of-dynamic-languages/)
