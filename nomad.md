@@ -348,3 +348,4 @@ Nomad & Remote
 * [When working from home is toxic – Morgan Wattiez](https://morgangeek.be/blog/when-working-from-home-is-toxic/)
 * [Remote Right: How to Thrive in a Post-Office World • Brendan O'Leary • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=j62yCp_J-Zw)
 * [구글이 재택근무 직원의 임금 삭감 검토하는 이유](https://brunch.co.kr/@eddle/220)
+* ['재택근무 이렇게 하세요' 구글이 알려주는 5가지 노하우](https://news.v.daum.net/v/20200319172156979)
