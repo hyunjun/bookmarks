@@ -160,6 +160,7 @@ Statistics
 * [So You Think You Can Stats](http://nadbordrozd.github.io/blog/2017/07/18/so-you-think-you-can-stats/)
 * [평균, 표준편차, 표준정규분포의 이해와 활용](http://ohgyun.com/745)
 * [독립사건 (independent event), 종속사건 (dependent event), 조건부 확률(conditional probability), 결합 확률 (joint probability)](https://www.facebook.com/terryum/posts/10155583605654417)
+* [확률에서는 직관을 조심 해야 합니다. (feat.오징어 게임, 도박, 주식) - YouTube](https://www.youtube.com/watch?v=WapgEwz9cLI) 독립사건
 * [지나치게 자세한 수리통계(원)](http://blog.naver.com/kwonpub/221079139699)
 * [Frequency diagrams: A first look at Bayes](https://arbital.com/p/bayes_frequency_diagram/?l=55z&pathId=22608)
 * [통계에 사용되는 기초 공식들](http://blog.naver.com/kjhnav/221097570909)
