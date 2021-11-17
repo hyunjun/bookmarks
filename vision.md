@@ -299,6 +299,7 @@ Vision
 * [한국어 OCR 해내기 (With Naver Cloud Platform) 2편: 입맛대로 커스텀한 OCR 만들기](https://dev-sngwn.github.io/2019-12-17-korean-ocr-step-by-step-2)
 * [CHARACTER REGION AWARENESS FOR TEXT DETECTION](http://hugrypiggykim.com/2019/10/04/character-region-awareness-for-text-detection/) OCR
 * [알도개 RPA와 AI](https://jhrogue.blogspot.com/2021/10/rpa-ai.html) OCR
+* [파이썬으로 사진에서 문자인식하는 AI 쉽게 만들기 - YouTube](https://www.youtube.com/watch?v=L8q-KCbXybc) OCR
 * [Deep Learning food image recognition system for cooking recipe retrieval](https://github.com/MURGIO/Food-Recipe-CNN)
 * Tutorials of Object Detection using Deep Learning
   * [1 What is object detection?](https://hoya012.github.io/blog/Tutorials-of-Object-Detection-Using-Deep-Learning-what-is-object-detection/)
