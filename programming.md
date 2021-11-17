@@ -1893,6 +1893,7 @@ Programming
     * [if (kakao) dev 2019, Day 1 - 초당옥수수의 취소를 막아라! : 수만 건의 주문을 1초내에 처리하는 기술 요약](https://dico.me/topic/articles/256)
     * [if 카카오 2일차](https://www.notion.so/if-2-777b70ec30354292805432dc15af2234)
   * [if (kakao)2020 기술 세션 다시보기 – tech.kakao.com](https://tech.kakao.com/2020/11/24/if-kakao-2020-dev-session/)
+  * [if(kakao)2021 기술 세션 모아보기🔎 – tech.kakao.com](https://tech.kakao.com/2021/11/17/ifkakao2021/)
 * [JetBrains Day 2018 스케치 영상](https://www.youtube.com/playlist?list=PLQ176FUIyIUYTei17s-bjW27MVV2jmSGs) plugin, upsource, rider, intelliJ, kotlin
 * Line
   * [LINE 앱을 위한 확장 가능한 멀티 데이터 센터 ID제너레이터 - 2021 Korean version - - YouTube](https://www.youtube.com/watch?v=Nj6z8NgKun0) ULI
@@ -3425,6 +3426,7 @@ Programming
 * [Getting Started with TDD - Part 2 - YouTube](https://www.youtube.com/watch?v=S4tMJKupvHg)
 * [트리거가 필요한 실험에서 결과의 신뢰성을 높이는 방법](https://lumiamitie.github.io/data/counterfactual-logging/) 모수가 적어 A/B test가 어려울 경우
 * [LINE 통화: 최고의 품질을 위한 8년간의 여정 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-call-quality-assurance/)
+* [힘세고 오래가는 테스트 전략 | Coderifleman's blog](https://blog.coderifleman.com/2021/11/17/a-strong-and-maintainable-test-strategy/)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
