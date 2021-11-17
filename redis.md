@@ -186,6 +186,7 @@ Redis
   * [RedisGraph - a graph database module for Redis](https://oss.redislabs.com/redisgraph/)
     * [RedisGraph](https://redislabs.com/redis-enterprise/technology/redisgraph/)
   * [RedisJSON - a JSON data type for Redis](https://oss.redislabs.com/redisjson/)
+    * [RedisJSON: Public Preview & Performance Benchmarking | Redis](https://redis.com/blog/redisjson-public-preview-performance-benchmarking/)
   * [RediSearch - Redis Secondary Index & Query Engine](https://oss.redislabs.com/redisearch/)
   * [RedisTimeSeries - Time-Series data structure for Redis](https://oss.redislabs.com/redistimeseries/)
 * RedisRaft [Jepsen report on RedisRaft – The Last Mind](http://blog.lastmind.io/archives/932)
