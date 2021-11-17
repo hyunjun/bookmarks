@@ -606,6 +606,7 @@ Business
 * [어떤 분위기의 팀을 만들 것인가?](https://brunch.co.kr/@younghakjang/55)
 * [**심리적 안전감이란? 커넥트북 최고의 팀은 어떻게 다른가, 두려움 없는 조직**](https://brunch.co.kr/@younghakjang/112)
 * [직장에서 ‘심리적 안정감’의 중요성 | ㅍㅍㅅㅅ](https://ppss.kr/archives/232129)
+* [구글은 생동감 있는 조직을 만들기 위해 어떤 환경을 조성할까? : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=27447489) 심리적 안정감
 * [Independence,autonomy,too many small teams | Kislay Verma](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
 * [에드 캣멀과의 상상 인터뷰](https://brunch.co.kr/@younghakjang/57)
 * [강점으로 경영하라](https://brunch.co.kr/@younghakjang/60)
@@ -726,6 +727,7 @@ Business
 * [리더십이 배워지는 거라고?](https://brunch.co.kr/@curahee/99)
 * [CEO 명언 - 6 스타벅스 - 하워드 슐츠 : 네이버 블로그](https://blog.naver.com/help2000/222542003852)
 * [좋은 상사의 10가지 자질 줄리아 투자노트](https://news.v.daum.net/v/20211023073102521)
+* [팀워크 : 팀을 위기로 만드는 리더에게는 3가지 패턴이 있대요](https://blog.naver.com/collabee/222535977963)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -808,6 +810,7 @@ Business
 * [달성 가능한 목표](https://www.thestartupbible.com/2021/05/how-to-set-realistic-goals-for-your-employees.html#comment-6893) OKR 자체는 아니고 목표 설정에 대한 이야기
 * [OKR로 진짜 변화를 이끌기 위해 한국 기업이 준비해야 할 다섯 가지](https://camp.lemonbase.com/column/okr) 황성현님
 * [OKR의 한계점](https://www.facebook.com/whyhyo/posts/10158762505748391)
+* [John Doerr's speech about OKRs (Korean translation) | LinkedIn](https://www.linkedin.com/pulse/korean-translation-john-doerrs-speech-okrs-edward-jee/)
 
 # Patent
 * 세기의 특허전쟁
