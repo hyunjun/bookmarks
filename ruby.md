@@ -131,6 +131,7 @@ Ruby
 * [Contributing to Ruby on Rails is not hard. Here’s how you can suggest a new feature](https://medium.freecodecamp.org/contributing-to-ruby-on-rails-is-not-hard-heres-how-you-can-suggest-a-new-feature-11e82ad5a69)
 * [Integrating Bootstrap 4 into Rails 6](https://hackernoon.com/integrating-bootstrap-4-into-rails-6-9ae2bbb44999)
 * [**Java&Spring 개발자가 Ruby on Rails 를 해보고 마주친 생각들**](https://blog.dramancompany.com/2020/11/java-spring-ruby-on-rails/)
+* [From Rails to Clojure, then to Java, then back to Rails - Engineering Management](https://engineering-management.space/post/from-rails-to-clojure-to-java-to-rails/)
 * [Learn Ruby - Free Interactive Ruby Tutorial](https://www.learnrubyonline.org/)
 * Sidekiq [사이드킥 큐에서 태스크나 예약작업 삭제하기](https://www.44bits.io/ko/post/deleting-sidekiq-scheduled-job)
 
