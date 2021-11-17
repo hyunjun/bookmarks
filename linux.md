@@ -326,6 +326,7 @@ Linux
   * [How Do Ansible Tags Work? - Percona Database Performance Blog](https://www.percona.com/blog/2020/04/27/how-do-ansible-tags-work/)
   * [미리 알았으면 좋을 Ansible 테크닉들 | GeekNews](https://news.hada.io/topic?id=4907)
   * [Using Ansible with REST APIs | Opensource.com](https://opensource.com/article/21/9/ansible-rest-apis)
+  * [로컬에서 개발 중인 Ansible role을 편하게 테스트하는 방법 | 박성훈의 블로그](https://pseonghoon.github.io/post/testing-ansible-role/)
 * [Bashible - a deployment/automation tool written in Bash (DSL). Inspired by Ansible. Simplifies things and prevents usual mistakes](https://github.com/mig1984/bashible)
 * [fabric](https://github.com/mathiasertl/fabric)
 * [Pulumi - Modern Infrastructure as Code](https://www.pulumi.com/) python
