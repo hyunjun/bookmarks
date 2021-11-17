@@ -498,6 +498,7 @@ Programming
 * [소프트웨어 개발할 때 낭비를 최소화 하려면?](https://brunch.co.kr/@insuk/32)
 * [애자일을 키워드로 배워보자 : 애자일 키워드 팟캐스트](http://agile.egloos.com/5904205)
 * [방법론 도입이 실패하는 이유](http://agile.egloos.com/5906079)
+* [나는 애자일이 싫다](https://brunch.co.kr/@graypool/182) 제목은 사실 반어법, 관심 끌기 용이었고 애자일에 대한 선호가 내용
 * [What is Agile Workflow? (ELI5)](https://medium.com/scrumi/what-is-agile-workflow-eli5-15040cbd5e75)
 * [What is Agile? | Atlassian](https://www.atlassian.com/agile)
   * [What is Agile? | Atlassian - 아틀라시안이 알려주는 애자일 A to | GeekNews](https://news.hada.io/topic?id=4389)
@@ -896,6 +897,8 @@ Programming
   * [번역 웹 아키텍쳐 입문](https://rhostem.github.io/posts/2018-07-22-web-architecture-101/)
   * [WebABC](https://www.joinc.co.kr/w/man/12/architecture/webabc)
 * [How to Design a Web Application: Software Architecture 101](https://dev.to/educative/how-to-design-a-web-application-software-architecture-101-188b)
+* [웹 서비스를 구성하는 구성요소들을 알아보자 - 1](https://velog.io/@couchcoding/%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%EC%84%B1%EB%90%98%EC%96%B4-%EC%9E%88%EC%9D%84%EA%B9%8C)
+* [웹 서비스를 구성하는 구성요소들을 알아보자 - 2](https://velog.io/@couchcoding/%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EA%B5%AC%EC%84%B1%ED%95%98%EB%8A%94-%EA%B5%AC%EC%84%B1%EC%9A%94%EC%86%8C%EB%93%A4%EC%9D%84-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-2)
 * [네이버 메인 페이지의 트래픽 처리](https://d2.naver.com/helloworld/6070967)
 * [EAI, ESB, API 게이트 웨이,서비스 매쉬](http://bcho.tistory.com/1292)
 * [커머스 혹은 유통 도메인 설계에 대한 연작](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%ED%98%B9%EC%9D%80-%EC%9C%A0%ED%86%B5-%EB%8F%84%EB%A9%94%EC%9D%B8-%EC%84%A4%EA%B3%84%EC%97%90-%EB%8C%80%ED%95%9C-%EC%97%B0%EC%9E%91)
