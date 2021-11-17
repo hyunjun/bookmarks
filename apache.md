@@ -695,14 +695,12 @@ Apache
 
 ## Kafka Stream
 * [카프카 스트림즈 All stream threads have died. 오류 해결 방안](https://voidmainvoid.tistory.com/437)
-* [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)
 * [REACTIVE STREAMS FOR APACHE KAFKA](https://softwaremill.com/reactive-kafka/)
 * [This is a Kafka-Storm-Esper example on vagrant](https://github.com/doohee323/tzstorm)
   1. kafka를 사용할 때 Producer.send 해서 stream을 전달하던데, legacy시스템에서 별도의 코딩을 통해서 구현해야 하는 것인지 => kafka를 사용할 때 보통 producer, consumer를 구현한다. kafka - storm을 사용할 때 kafkaspout는 consumer 역할은 한다.
   2. KafkaSpout에서 생성된 stream이 storm의 Bolt로 들어올 때 어떻게 디버깅이 가능한 지 => 원격 디버깅은 없고 -Dstorm.log.dir를 통한 로그파일로 디버깅한다.
   3. bolt로 넘어온 중복된 stream을 어떻게 unique한 데이터로 처리 가능한 지 => unique한 데이터 처리를 위해서 trident를 사용하며, trident는 storm의 구현을 지원하는 (aggregation 등) 역할을 한다. -> esper로 group by 등의 쿼리문을 만들 수 있는데 trident와 역할 충돌이 있지 않을까 싶지만, trident를 통해 unique한 데이터를 받아 esper로 쿼리문을 돌릴 수 있지 않을까 싶다.
   4. kafka 대신에 zmq로 연동할 때 예상되는 문제점이 있는지. zmq와 kafka 모두 큐 역할을 하므로 특별한 이유가 없다면 zmqspout를 활용하는 것이 좋겠다.
-* [stream-reactor Streaming reference architecture built around Kafka. http://datamountaineer.com/2016/01/12/streamliner ](https://github.com/datamountaineer/stream-reactor)
 * [Distributed, Real-time Joins and Aggregations on User Activity Events using Kafka Streams](http://www.confluent.io/blog/distributed-real-time-joins-and-aggregations-on-user-activity-events-using-kafka-streams)
 * [Tweeter: Processing Tweets with Kafka Streams](https://www.madewithtea.com/processing-tweets-with-kafka-streams.html)
 * [내부 데이터 파이프라인에 Kafka Streams 적용하기](https://engineering.linecorp.com/ko/blog/detail/80)
@@ -729,7 +727,6 @@ Apache
 * [Build Services on a Backbone of Events](https://www.confluent.io/blog/build-services-backbone-events/)
   * Apache Kafka가 단순히 빠른 ETL보다 더 혁신적이고 좋다고 주장
   * 스트리밍, 응용 프로그램, 데이터베이스 간의 통합, ETL (중앙 집중식 모노리스가 아닌) 배포, 규모 및 안정성 등 Kafka가 제공하는 장점을 강조
-* [High Performance Kafka Consumer for Spark Streaming. Now Support Spark 2.0 and Kafka 0.10](https://github.com/dibbhatt/kafka-spark-consumer)
 * [Recent Evolution of Zero Data Loss Guarantee in Spark Streaming With Kafka](http://getindata.com/blog/post/recent-evolution-of-zero-data-loss-guarantee-in-spark-streaming-with-kafka/)
 * [Spark Streaming + Kafka Integration Guide (Kafka broker version 0.10.0 or higher)](https://spark.apache.org/docs/latest/streaming-kafka-0-10-integration.html)
 * [Getting Started with the Kafka Streams API using Confluent Docker Images](https://www.confluent.io/blog/getting-started-with-the-kafka-streams-api-using-confluent-docker-image/)
@@ -781,6 +778,7 @@ Apache
 * [카프카 스트림즈! 대용량, 폭발적인 성능의 실시간 데이터 처리! - YouTube](https://www.youtube.com/watch?v=vKxhPUUEDmM)
 * [카프카 스트림즈에서 stateful window 처리를 다루는 방법 그리고 커밋타이밍](https://voidmainvoid.tistory.com/452)
 * [Kafka Streams 101 - Rock the JVM Blog](https://blog.rockthejvm.com/kafka-streams/)
+* [Deep Dive into Apache Kafka: Your go-to Event Streaming Framework. | by Jay | Nov, 2021 | Medium](https://jay-reddy.medium.com/deep-dive-into-apache-kafka-your-go-to-event-streaming-framework-124fa6180ff6)
 * [brooklin - An extensible distributed system for reliable nearline data streaming at scale](https://github.com/linkedin/Brooklin/)
   * [Open Sourcing Brooklin: Near Real-Time Data Streaming at Scale](https://engineering.linkedin.com/blog/2019/brooklin-open-source)
   * Kafka Connect + MirrorMaker의 대안으로 개발된 범용 Framework. Scalable할 뿐만 아니라 Kafka 외에도 다양한 Storage / Streaming System 지원
@@ -823,6 +821,8 @@ Apache
       * MirrorMaker 1의 대안으로 Cloudera 엔지니어가 개발. 1보다 훨씬 좋지만 아직 정식 탑재된 게 아니라 문서화 부족
     * [MirrorMaker2 가 release되었습니다](https://blog.voidmainvoid.net/293)
     * [MirrorMaker2 마이그레이션](https://devidea.tistory.com/107)
+* kafka-spark-consumer [High Performance Kafka Consumer for Spark Streaming. Now Support Spark 2.0 and Kafka 0.10](https://github.com/dibbhatt/kafka-spark-consumer)
+* [Kafka Streams examples](https://github.com/confluentinc/kafka-streams-examples)
 * [kafka-streams-viz - Kafka Streams Topology Visualizer](https://zz85.github.io/kafka-streams-viz/)
 * KSQL
   * [Introducing KSQL: Open Source Streaming SQL for Apache Kafka](https://www.confluent.io/blog/ksql-open-source-streaming-sql-for-apache-kafka/)
@@ -860,6 +860,7 @@ Apache
   * [ksqlDB - The event streaming database purpose-built for stream processing applications](https://ksqldb.io/)
     * [How Real-Time Stream Processing Safely Scales with ksqlDB](https://www.confluent.io/blog/how-real-time-stream-processing-safely-scales-with-ksqldb/)
 * [mockedstreams - Scala DSL for Unit-Testing Processing Topologies in Kafka Streams](https://github.com/jpzk/mockedstreams)
+* [stream-reactor Streaming reference architecture built around Kafka. http://datamountaineer.com/2016/01/12/streamliner ](https://github.com/datamountaineer/stream-reactor)
 
 # Kudu
 * [Kudu](http://kudu.apache.org/)
