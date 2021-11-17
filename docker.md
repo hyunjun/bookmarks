@@ -1164,6 +1164,8 @@ Docker
   * [Crossplane #2 - Configuration :: Outsider's Dev Story](https://blog.outsider.ne.kr/1562)
 * [dashboard: General-purpose web UI for Kubernetes clusters](https://github.com/kubernetes/dashboard)
   * [On Securing the Kubernetes Dashboard | by Joe Beda | Heptio](https://blog.heptio.com/on-securing-the-kubernetes-dashboard-16b09b1b7aca)
+* [DevSpace - The Fastest Kubernetes Development Tool (100% open-source)](https://devspace.sh/)
+  * [How to Get Started With DevSpace and Rapidly Develop Kubernetes Apps – CloudSavvy IT](https://www.cloudsavvyit.com/14690/how-to-get-started-with-devspace-and-rapidly-develop-kubernetes-apps/)
 * [Devtron - The DevOps Accelerator](https://devtron.ai/)
   * [DevTron - k8s용 소프트웨어 딜리버리 워크플로우 | GeekNews](https://news.hada.io/topic?id=4593)
 * [faasd: A lightweight & portable faas engine](https://github.com/openfaas/faasd)
