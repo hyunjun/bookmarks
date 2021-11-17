@@ -998,3 +998,4 @@ Business
 * [프론트엔드 코딩 작업에 영감을 줄 8가지 아이디어 | 요즘IT](https://yozm.wishket.com/magazine/detail/806/)
 * [실전 UI/UX - 약관동의를 설계할때 고려해야할 것들](https://brunch.co.kr/@fbrudtjr1/34)
 * [Gmail's fake loading indicator](https://smitop.com/post/gmail-s-fake-loading-indicator/)
+* [그 특수문자는 사용할 수 없습니다](https://www.jiwon.me/password-rule-ux/)
