@@ -598,6 +598,7 @@ Business
 * [또 이직 성공! 무야호~~ 【옐카3】 131회 - YouTube](https://www.youtube.com/watch?v=grq1hctIyyo) 무리뉴 거래적 리더십. 상황이 좋을 땐 괜찮으나 안 좋을 땐 최악
 * [배구선수 안 해본 감독…여자배구 4강 이끈 ‘전술 명장’ : 올림픽 : 스포츠 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/sports/sportstemp/1006482.html) 라바리니
 * [히딩크를 아직도 '최고의 감독'으로 꼽는 이유](https://sports.v.daum.net/v/20210911112100357)
+* [도하에서 벤투가 옳았다..대표팀에 뿌리 내린 '빌드업 축구'](https://sports.v.daum.net/v/20211117090018715) 인정받지 못했으나 결국 어느 정도 성과가 가시화되니 이런 기사가 나오기 시작
 * [신뢰와 좋은 리더의 조건](http://www.venturesquare.net/754190)
 * [리더에게 필요한 심리적 안정감](https://brunch.co.kr/@younghakjang/40)
 * [리더십을 잃는 쉽고 빠른 방법](https://brunch.co.kr/@younghakjang/48)
