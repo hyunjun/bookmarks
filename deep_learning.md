@@ -2337,6 +2337,7 @@ CVPR2016)
 * [Reinforcement Learning](https://teamdable.github.io/techblog/Reinforcement-Learning) 기초
 * [Prologue](https://sumniya.tistory.com/1)
 * [Deep Reinforcement Learning, Summer 2019 (Samsung)](https://github.com/dongminlee94/Samsung-DRL-Code)
+* [인공지능, 머신러닝은 아는데⋯심층 강화학습은 무엇? - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS1612832708) DRL
 * [How to study Reinforcement Learning](https://github.com/reinforcement-learning-kr/how_to_study_rl/wiki)
 * [2019-OSS-Summer-RL](https://github.com/utilForever/2019-OSS-Summer-RL)
 * [Reinforcement learning for everyone](https://www.slideshare.net/taeyounglee1447/reinforcement-learning-for-everyone)
