@@ -807,6 +807,7 @@ Business
 * [How to explain OKRs ( Objectives and Key Results) in plain English | The Enterprisers Project](https://enterprisersproject.com/article/2021/4/okrs-explained-plain-english)
 * [달성 가능한 목표](https://www.thestartupbible.com/2021/05/how-to-set-realistic-goals-for-your-employees.html#comment-6893) OKR 자체는 아니고 목표 설정에 대한 이야기
 * [OKR로 진짜 변화를 이끌기 위해 한국 기업이 준비해야 할 다섯 가지](https://camp.lemonbase.com/column/okr) 황성현님
+* [OKR의 한계점](https://www.facebook.com/whyhyo/posts/10158762505748391)
 
 # Patent
 * 세기의 특허전쟁
