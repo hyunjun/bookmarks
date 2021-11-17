@@ -137,7 +137,6 @@ PyTorch
 * [PyTorch Multi-GPU 제대로 학습하기](https://medium.com/daangn/pytorch-multi-gpu-%ED%95%99%EC%8A%B5-%EC%A0%9C%EB%8C%80%EB%A1%9C-%ED%95%98%EA%B8%B0-27270617936b)
 * [The dangers of reshaping and other fun mistakes I’ve learnt from PyTorch](https://medium.com/mcgill-artificial-intelligence-review/the-dangers-of-reshaping-and-other-fun-mistakes-ive-learnt-from-pytorch-b6a5bdc1c275)
 * [Randomly Wired Neural Network - Implementing Randomly Wired Neural Networks for Image Recognition, Using CIFAR-10 dataset, CIFAR-100 dataset](https://github.com/leaderj1001/RandWireNN)
-* [Music Translation - PyTorch implementation of the method described in the A Universal Music Translation Network](https://github.com/facebookresearch/music-translation)
 * [layer_normalization.py](https://github.com/CyberZHG/torch-layer-normalization/blob/master/torch_layer_normalization/layer_normalization.py)
 * [Getting Started with Intel® Optimization for PyTorch on Second Generation Intel® Xeon® Scalable Processors](https://software.intel.com/en-us/articles/getting-started-with-intel-optimization-of-pytorch)
 * [Accelerate your Hyperparameter Optimization with PyTorch’s Ecosystem Tools | by PyTorch | PyTorch | Sep, 2020 | Medium](https://medium.com/pytorch/accelerate-your-hyperparameter-optimization-with-pytorchs-ecosystem-tools-bc17001b9a49)
@@ -159,7 +158,6 @@ PyTorch
   * [Deep_Video_Inpainting](https://github.com/mcahny/Deep-Video-Inpainting)
 * [Splitter - A PyTorch implementation of "Splitter: Learning Node Representations that Capture Multiple Social Contexts" (WWW 2019)](https://github.com/benedekrozemberczki/Splitter)
 * [파이토치로 시작하는 딥러닝 기초](https://www.edwith.org/boostcourse-dl-pytorch)
-* [pytorch-music-composer](https://github.com/YoongiKim/pytorch-music-composer)
 * [From Research to Production with PyTorch](https://www.infoq.com/presentations/pytorch-torchscript-botorch/)
 * [Accelerating Deep Learning Recommender Systems by Over 15x Using RAPIDS, PyTorch and fast.ai](https://medium.com/rapids-ai/accelerating-deep-learning-recommender-systems-by-15x-using-rapids-fastai-and-pytorch-b50b4d8568d1)
 * [From Research to Production with PyTorch](https://www.youtube.com/watch?v=EkELQw9tdWE)
@@ -400,6 +398,11 @@ PyTorch
   * [Torchvision 0.8, GPU에서 돌아가는 Scriptable Transforms 사용해서 데이터 로딩 속도 개선하기 :: 봉자씨의 코딩이야기](https://bongjasee.tistory.com/2)
 * [UnsupervisedMT - Unsupervised Machine Translation](https://github.com/facebookresearch/UnsupervisedMT)
 * [VoiceFilter - Unofficial PyTorch implementation of Google AI's VoiceFilter system http://swpark.me/voicefilter ](https://github.com/mindslab-ai/voicefilter)
+
+# Music
+* [Music Classification: Beyond Supervised Learning, Towards Real-world Applications — Music Classification: Beyond Supervised Learning, Towards Real-world Applications](https://music-classification.github.io/tutorial/)
+* [Music Translation - PyTorch implementation of the method described in the A Universal Music Translation Network](https://github.com/facebookresearch/music-translation)
+* [pytorch-music-composer](https://github.com/YoongiKim/pytorch-music-composer)
 
 # Reinforcement Learning, RL
 * [Deep Reinforcement Learning with pytorch & visdom](https://github.com/jingweiz/pytorch-rl)
