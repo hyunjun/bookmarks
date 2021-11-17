@@ -922,6 +922,7 @@ AWS
   * [ModernCloud - 브라우저 기반 서버리스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4583)
 
 ## Lambda Clojure
+* [AWS Lambda and Clojure in Anger by Juan Facorro - YouTube](https://www.youtube.com/watch?v=hsndwTXWLR8)
 * [native-clojure-lambda: Example project of Clojure + GraalVM Native Image + AWS Lambda container images](https://github.com/luontola/native-clojure-lambda)
 
 ## Lambda Go
