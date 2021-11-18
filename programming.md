@@ -1155,6 +1155,7 @@ Programming
 * [외부 API로 빚어진 장애대응 후일담 after 1years](https://saramin.github.io/2020-12-18-post-api-with-circuit-breaker/)
 * [Resilience4j - a fault tolerance library designed for Java8 and functional programming](https://github.com/resilience4j/resilience4j) circuit breaker 역할도 함
   * [Fault Tolerance – Resilience4J – Guruble](http://guruble.com/fault-tolerance-resilience4j/)
+  * [Resilience4j를 이용한 서킷 브레이커 기초 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/resilience4j-basic/)
 * [MSA에서 Service discovery 패턴](http://bcho.tistory.com/1252)
 * [MSA를 위한 L7 Proxy - EnvoyProxy #1](http://bcho.tistory.com/1253)
 * [Service Mesh](http://bcho.tistory.com/1260)
