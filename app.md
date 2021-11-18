@@ -1268,6 +1268,7 @@ App
 * [**Diagram as Code for prototyping cloud system architectures** https://diagrams.mingrammer.com ](https://github.com/mingrammer/diagrams)
   * [Create Beautiful Architecture Diagrams with Python | by Dylan Roy | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/create-beautiful-architecture-diagrams-with-python-7792a1485f97)
 * diagrams.net [Diagram Software and Flowchart Maker](https://www.diagrams.net/)
+* [Domain Story Modeler](https://www.wps.de/modeler/)
 * [dot-to-ascii.ggerganov.com](https://dot-to-ascii.ggerganov.com/)
 * [**draw.io**](https://www.draw.io/)
   * [Source to www.draw.io](https://github.com/jgraph/drawio)
