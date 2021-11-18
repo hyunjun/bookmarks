@@ -115,6 +115,7 @@ Flutter
 * [당근런치를 만들어봤어요. 뚠뚠이들아 밥먹자 칙칙폭폭 | by Hyeonsu Ha | 당근마켓 팀블로그 | Jun, 2021 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%9F%B0%EC%B9%98%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B4%A4%EC%96%B4%EC%9A%94-18c368552da6)
 * [백엔드 개발자의 flutter 개발기. ‘피커부’ 라는 애플리케이션을 flutter로 개발한 후기입니다. | by NAMKYU PARK | Aug, 2021 | Medium](https://trialxxerror.medium.com/%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-flutter-%EA%B0%9C%EB%B0%9C%EA%B8%B0-b5657a66738)
 * [Flutter 2.5 Recap in 6 Minutes - YouTube](https://www.youtube.com/watch?v=7l3uIqnPhf8)
+* [지식iN 앱을 Flutter로 개발하는 이유](https://d2.naver.com/helloworld/3384599)
 
 # Conference, Meetup
 * [NAVER Tech Talk: Flutter meetup](https://d2.naver.com/news/9527890)
