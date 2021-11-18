@@ -65,6 +65,7 @@ Javascript
 * [Overview of the RenderingNG architecture - Chrome Developers](https://developer.chrome.com/blog/renderingng-architecture/)
 * [JavaScript Visualized: the JavaScript Engine](https://dev.to/lydiahallie/javascript-visualized-the-javascript-engine-4cdf)
 * [**프론트엔드 개발자라면 알고 있어야 할 브라우저의 동작 과정 - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2021/03/27/How-browsers-work.html)
+* [브라우저 동작원리 - 이소정 · Present](https://present.do/shows/6187b87b8eb0d57ea69fd5ac/player)
 * [Chromium Composition과 Layer | Seokho’s blog](https://devsdk.github.io/ko/development/2021/03/29/blink-render-composition.html)
 * [The 10 Days of JavaScript](https://www.youtube.com/playlist?list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs)
 * [**30 Day Vanilla JS Coding Challenge**](https://javascript30.com/)
