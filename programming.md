@@ -275,6 +275,7 @@ Programming
 * [**100 * 0.7 = ? 남들과는 조금 다른 부동소수점 이야기**](https://libsora.so/posts/amazing-floating-point-100x07/)
 * [Floating Point Math](https://0.30000000000000004.com/)
 * [GNU GCC on x86 does not round floating-point divisions to the nearest value – Daniel Lemire's blog](https://lemire.me/blog/2020/06/26/gcc-not-nearest/)
+* [부동 소수점 방식에서 결합 법칙이 성립하지 않는 데이터를 만들어 봅시다](https://codingdog.tistory.com/632)
 * [입 개발 bits로 시간을 얼마나 표현할 수 있을까? | Charsyam's Blog](https://charsyam.wordpress.com/2021/07/24/%EC%9E%85-%EA%B0%9C%EB%B0%9C-bits%EB%A1%9C-%EC%8B%9C%EA%B0%84%EC%9D%84-%EC%96%BC%EB%A7%88%EB%82%98-%ED%91%9C%ED%98%84%ED%95%A0-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C/)
 * [매개변수(parameter)와 전달인자(parameter)](https://wayhome25.github.io/etc/2017/12/31/parameter-argument/)
 * [프로그래밍에서 인지 편향](http://www.mimul.com/pebble/default/2018/01/05/1515145860439.html)
@@ -2130,6 +2131,7 @@ Programming
 * [A Blueprint for Securing Software Development - DevOps.com](https://devops.com/a-blueprint-for-securing-software-development/)
 * [돈 들이지 않고 사이버보안 기술을 쌓는 8가지 방법 - ITWorld Korea](https://www.itworld.co.kr/news/212589)
 * [How to Break API's - YouTube](https://www.youtube.com/watch?v=bM0dem12P4Y)
+* [현대적 보안 – 안드로메다 토끼](https://andromedarabbit.net/%ED%98%84%EB%8C%80%EC%A0%81-%EB%B3%B4%EC%95%88/)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
