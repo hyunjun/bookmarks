@@ -917,6 +917,9 @@ Programming Books
   * [쿠버네티스 시작하기 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=65765967)
 * (NOT YET) [Kubernetes: Up & Running • Brendan Burns & Matt Turner • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Nr3i2r-ffnc)
 * (NOT YET) [더북(TheBook): 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커](https://thebook.io/080241/)
+  * [컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커](https://github.com/sysnet4admin/_Book_k8sInfra)
+    * [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
+    * [troubleshooting-kubernetes.ko_kr.v2.pdf](https://learnk8s.io/a/a-visual-guide-on-troubleshooting-kubernetes-deployments/troubleshooting-kubernetes.ko_kr.v2.pdf)
 * (NOT YET) [쿠버네티스 모범 사례](https://jybaek.tistory.com/937)
 
 # Domain Driven Development DDD
