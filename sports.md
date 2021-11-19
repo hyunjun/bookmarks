@@ -132,6 +132,15 @@ Sports
 * [와인드업, 꼭 해야 할까?](http://www.yagongso.com/?p=9711) 고정관념에서 벗어나야 한다는 걸 다시 한 번 생각하게 하는 글
 * [토론토의 데이터 야구! 무엇이 달라졌을까 | 이승용 - YouTube](https://www.youtube.com/watch?v=oHmfE0cnsUU) Darren Willman: 야구선수 + 컴퓨터공학 스탯캐스트, 베이스볼서번트
 * [KBO 리그 포스트시즌 진출 확률을 제공하는 사이트를 개설했습니다. > 국내야구 | 야구토크](https://yagutalk.com/k_free/13163)
+* [Statcast Lab: Markov Sequences, 4-seamers on 0-1 counts](http://tangotiger.com/index.php/site/article/statcast-lab-markov-sequences-4-seamers-on-0-1-counts)
+  * 타자가 스윙 여부를 결정해야 하는 시점(commit point, cp)에서의 투구 위치와 득점 가치(rv)를 기준으로 몇 가지 살펴본 글
+    * cp는 대략 플레이트를 지나기 1/6초 전의 위치로 잡은 듯
+    * 초구가 들어오고 0-1이 된 상황에서 어떤 공이 가장 효과적인지를 논하는데, 초구 구종, 2구 구종, 초구와 2구 사이의 거리 등을 이용
+  * '목적구'로 최종 승부를 하려는 곳과 정반대 방향으로 공을 던져야 한다는 이야기가 많음
+    * 그런데 초구-2구 모두 포심인 경우는 일관되게("promising") 초구와 2구가 가까울수록 득점 억제 효과가 큰 것으로 나타남
+      * 리그 단위 분석이라 선수 단위로도 살펴볼 필요가 있을 수 있음
+    * 그밖에 체인지업은 (통설처럼)정반대 경향
+    * 그 외 구종은 특별한 경향성이 없었음
 
 # Basketball
 * [**Basketball Terms- Terminology**](https://www.coachesclipboard.net/BasketballTerminology.html) diagram으로 court위 명칭 설명
