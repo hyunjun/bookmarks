@@ -534,6 +534,7 @@ Docker
 * [**도커 컨테이너에서 멀티 프로세싱을 하면? — 그랩의 블로그**](https://tansfil.tistory.com/69)
 * [The death of Linux Containers. Unikernels are awesome! | by Inacio Klassmann | Medium](https://inacioklassmann.medium.com/the-death-of-linux-containers-2f7f92e59c33)
 * [I Didn't Know I Could Do That with Docker (or Dockerizing a Python App) - YouTube](https://www.youtube.com/watch?v=xDQW4BcGbL8)
+* ['도커 이전과 도커 이후' 세상이 확연히 달라진 이유 - ITWorld Korea](https://www.itworld.co.kr/news/215339)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
