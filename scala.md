@@ -1105,6 +1105,7 @@ Scala
 * [Essential Effects: a book for learning effectful programming in Scala](https://essentialeffects.dev/) cats effect
 * [fpinscala](https://github.com/fpinscala/fpinscala) Code, exercises, answers, and hints to go along with the book "Functional Programming in Scala" http://manning.com/bjarnason
   * [Functional Programming in Scala](https://www.manning.com/books/functional-programming-in-scala)
+  * [The Red Book - "Functional Programming in #Scala" Review - YouTube](https://www.youtube.com/watch?v=SehqPOijwUg)
 * [Hands-on Scala Programming](https://www.handsonscala.com/)
   * [Hands on Scala With Li Haoyi – Scala Love](https://scala.love/hands-on-scala-with-li-haoyi/)
 * [The Neophyte's Guide to Scala](http://danielwestheide.com/scala/neophytes.html)
@@ -1860,7 +1861,6 @@ Scala
 * [Mirco Dotta—Crack Open Sbt and Master your Build Times - YouTube](https://www.youtube.com/watch?v=Mx_gQz8MTrI)
 * [현프 3-2 스칼라 패키지 관리자 sbt 고찰 : 클리앙](https://www.clien.net/service/board/cm_app/13709851)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=eb7eaOMlwGs) scala.jfro.io scala3
-* [sudori part 2 | eed3si9n](https://eed3si9n.com/sudori-part2)
 * [maven2sbt | maven2sbt](https://maven2sbt.kevinly.dev)
   * [#1 게릴라 방송 (2017-04-03)](https://www.youtube.com/watch?v=oaQ71Fm3q0U)
   * [#2 게릴라 방송 (2017-04-04)](https://www.youtube.com/watch?v=QjAOmX4Sj_4)
@@ -1891,6 +1891,9 @@ Scala
 * [sbt-yourkit](https://index.scala-lang.org/gilt/sbt-yourkit/sbt-yourkit)
 * [sbt-version-policy: Compatibility checks for your dependencies](https://github.com/scalacenter/sbt-version-policy)
   * [Preventing Version Conflicts with versionScheme | The Scala Programming Language](https://scala-lang.org/blog/2021/02/16/preventing-version-conflicts-with-versionscheme.html)
+* [sudori](https://github.com/eed3si9n/sudori) an experimental sbt written using Scala 3
+  * [sudori part 2 | eed3si9n](https://eed3si9n.com/sudori-part2)
+  * [sudori part 3 · eed3si9n](https://eed3si9n.com/sudori-part3/)
 * [WartRemover: a flexible scala linter](http://www.wartremover.org/)
   * [Writing Custom Wart for Scala](https://medium.com/@tapanvaishnav17/writing-custom-wart-for-scala-9d0adbcb30bc)
 
