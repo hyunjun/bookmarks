@@ -363,6 +363,8 @@ History
 * [기사 - 홍콩의 진실에 대하여 12: 일국이냐, 양제냐](https://www.ddanzi.com/ddanziNews/706479892)
 * [기사 - 홍콩의 진실에 대하여 13: 인구의 1%가 한 번에 떠난 이유](https://www.ddanzi.com/ddanziNews/707800389)
 * [기사 - 홍콩의 진실에 대하여 14: 홍콩인은 어떻게 사라지고 있는가](https://www.ddanzi.com/ddanziNews/708283432)
+* [기사 - 홍콩의 진실에 대하여 15: 중국과 충돌한 두 가지는 무엇일까](https://www.ddanzi.com/ddanziNews/709145543)
+* [기사 - 홍콩의 진실에 대하여 16: 중국인은 왜 홍콩인을 한심하게 생각할까](https://www.ddanzi.com/ddanziNews/710422625)
 * [왜 중국은 고령화를 걱정하는가?](https://pgr21.com/freedom/90326)
 
 ## India
@@ -416,6 +418,9 @@ History
 * [외국인에게 '일제 전범기'를 '한방에' 설명하는 사진 한장](http://www.insight.co.kr/newsRead.php?ArtNo=61709)
 * [이 남자 배신 없었다면, 임진왜란도 없었다?](http://media.daum.net/life/outdoor/travel/newsview?newsId=20160527151005307)
 * [욱일기 = 하켄크로이츠](https://imgur.com/a/5P3Upwj)
+
+## Malaysia
+* [기사 - 동남아의 허브, 말레이시아 1: 국왕 순번제와 9개 주의 왕들](https://www.ddanzi.com/ddanziNews/710093313)
 
 ## Middle East
 * [colour symbolism in ancient Mesopotamia](https://www.academia.edu/2026013/Colour_Symbolism_in_Ancient_Mesopotamia)
