@@ -246,6 +246,7 @@ Web
   * 크롬이 처리하는 우선순위가 표로 잘 나와 있고 우선순위 힌트를 사용했을 때 얼마나 빨라지는 지도 비교 설명
   * [우선순위 힌트로 리소스 로딩 최적화하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_2021117)
 * [**짧게 써보는 웹 프론트엔드의 역사**](https://velog.io/@minsangk/%EC%A7%A7%EA%B2%8C-%EC%8D%A8%EB%B3%B4%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EC%97%AD%EC%82%AC)
+* [프론트엔드 개발하고 싶은데 자바스크립트(와 떨거지들)가 싫은 이들에게 - DEV Community](https://dev.to/composite/peuronteuendeu-gaebalhago-sipeunde-jabaseukeuribteuwa-ddeolgeojideulga-silheun-ideulege-2h73) flutter blazor vaadin
 
 # Apache
 * installation
