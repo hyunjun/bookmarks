@@ -1309,6 +1309,8 @@ Docker
   * [Comparing Five Monitoring Options for Docker](http://rancher.com/comparing-monitoring-options-for-docker-deployments/)
   * [Rancher Desktop: Kubernetes and container management on the desktop](https://rancherdesktop.io/)
 * [Reloader: A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig](https://github.com/stakater/Reloader) prod에서는 추천하지 않는다는 의견이 있음
+* [sealed-secrets: A Kubernetes controller and tool for one-way encrypted Secrets](https://github.com/bitnami-labs/sealed-secrets)
+  * [GitOps Secret 관리 | 커피고래의 노트](https://coffeewhale.com/sealedsecret)
 * [simplenetes: The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods](https://github.com/simplenetes-io/simplenetes)
 * Skaffold
   * [쿠버네티스용 Continuous Deployment 툴인 Skaffold](https://bcho.tistory.com/1342)
