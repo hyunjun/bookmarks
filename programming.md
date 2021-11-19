@@ -474,6 +474,7 @@ Programming
 * [호환성을 지켜주려는 개발자의 마음 | K리그 프로그래머](https://jeho.page/essay/2021/10/27/%ED%98%B8%ED%99%98%EC%84%B1%EC%9D%84-%EC%A7%80%EC%BC%9C%EC%A3%BC%EB%A0%A4%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%A7%88%EC%9D%8C.html)
 * [How I failed 5 side projects in 6 years, earning $0](https://kwcodes.com/how-i-failed-5-side-projects-in-6-years-earning-0/)
 * [hTime - The Global Clock](https://thehtime.com/) A clock to eliminate time zone calculations
+* [The programmer's brain in the lands of exploration and production · Vicki Boykis](https://veekaybee.github.io/2021/11/07/typed-pipe/) scala example
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -482,6 +483,7 @@ Programming
 * [애자일을 어떻게 실천하나요? - XP 편](https://brunch.co.kr/@insuk/15)
 * [Putting the XP in Scrum • Roy Osherove • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=JtvSp3BPG8I)
 * [협업 조직에서 함께 앉기 구현하기](https://brunch.co.kr/@graypool/139) XP
+* [낭비를 막고 팀을 만드는 XP의 가치](https://brunch.co.kr/@graypool/240)
 * [프로세스 개선이 현업에서 정착되려면](http://woowabros.github.io/woowabros/2017/04/18/process.html)
 * [회사에서 새로운 기술 적용하기](https://www.slideshare.net/junseokjung1/ss-76115779)
 * [개발자의 입장에서 본 버즈빌의 개발 문화: 애자일 소프트웨어 개발](https://brunch.co.kr/@mobiinside/868)
@@ -593,6 +595,7 @@ Programming
 * [Agility at Scale: A Meeting of Mindsets • Anna Urbaniak & Daniel Terhorst-North • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=2ajNXaqHSwo)
 * [개발자의 애질리티](https://toss.tech/article/dev-agility)
 * [애자일 책들에서 이야기 해주지 않지만](https://brunch.co.kr/@jinhoyooephf/24)
+* [지라 쓰는게 애자일 아니라고 했어 안했어?! if(kakao) 2021](https://if.kakao.com/session/31)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
