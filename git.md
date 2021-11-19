@@ -224,6 +224,7 @@ Git
   * 그래서 파일 마지막에 개행 문자가 없는 경우에 rename의 추적 과정이 왜 달라지는지도 설명
 * [Improving Git protocol security on GitHub | The GitHub Blog](https://github.blog/2021-09-01-improving-git-protocol-security-github/)
 * [GitHub과 소프트웨어 보안 - YouTube](https://www.youtube.com/watch?v=j5GDh67ql4s)
+* [GitHub 보안 개선](https://jhrogue.blogspot.com/2021/11/github.html)
 * [Sergey Bronnikov - Git as a storage](https://bronevichok.ru/posts/git-as-a-storage.html)
 * [많은 사람들이 모르는 Github Organization Public](https://velog.io/@juunini/%EB%A7%8E%EC%9D%80-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EB%AA%A8%EB%A5%B4%EB%8A%94-Github-Organization-public)
 
