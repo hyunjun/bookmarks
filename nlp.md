@@ -923,6 +923,7 @@ NLP
   * [KLUE-benchmark/KLUE: 📖 Korean NLU Benchmark](https://github.com/KLUE-benchmark/KLUE)
   * [klue-transformers-tutorial: KLUE 데이터를 활용한 HuggingFace Transformers 튜토리얼](https://github.com/Huffon/klue-transformers-tutorial)
   * [KLUE 한국어 데이터 셋 | GeekNews](https://news.hada.io/topic?id=4644)
+  * [NIKL-KLUE: 모두의 말뭉치 인공 지능 언어 능력 평가 1등 솔루션입니다](https://github.com/NIKL-Team-BC/NIKL-KLUE)
 * [KoBigBird: 🦅 Pretrained BigBird Model for Korean (up to 4096 tokens)](https://github.com/monologg/KoBigBird)
 * [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA)
 * [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
