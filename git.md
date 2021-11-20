@@ -635,6 +635,7 @@ Git
   * [Git에서 conflict(충돌) 해결하기](https://blog.naver.com/codeitofficial/221938658754)
   * [In a git merge, how do you just replace your version with the version git says there is a conflict with?](https://stackoverflow.com/questions/3515657/in-a-git-merge-how-do-you-just-replace-your-version-with-the-version-git-says-t)
   * [git merge conflict을 어떻게 방지할까 – xacdo.net](https://xacdo.net/wp/how-to-prevent-git-merge-conflict/) branch protection rule
+  * [conflict(충돌) 어디까지 알고있니?](https://blog.naver.com/pjt3591oo/222573686917)
   * [**GitHub의 Merge, Squash and Merge, Rebase and Merge 정확히 이해하기**](https://meetup.toast.com/posts/122)
   * [Git: merging specific files from another branch](https://www.haykranen.nl/2011/07/18/git-merging-specific-files-from-another-branch/)
   * [merge a remote branch locally](https://stackoverflow.com/questions/21651185/git-merge-a-remote-branch-locally)
