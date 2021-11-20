@@ -948,6 +948,7 @@ Clojure
 * [immutant](http://immutant.org/)
 * [Impala is a simple bytecode interpreter written in Clojure](https://github.com/divs1210/Impala)
 * [infix: A Clojure library for expressing LISP expressions as infix rather than prefix notation](https://github.com/rm-hull/infix)
+* [injest: +>, +>>, x>>, =>>: Auto-transducifying, auto-parallelizing path thread macros](https://github.com/johnmn3/injest)
 * [Inlein - run Clojure scripts with dependencies](http://inlein.org/)
 * [inspector-gadget: Leiningen plugin responsible for finding possible vulnerabilities in clojure applications](https://github.com/mthbernardes/inspector-gadget)
 * [Instaparse 1.4.1 What if context-free grammars were as easy to use as regular expressions?](https://github.com/Engelberg/instaparse)
@@ -965,6 +966,7 @@ Clojure
 * [jme-clj: A Clojure 3D Game Engine Wrapper, Powered By jMonkeyEngine](https://github.com/ertugrulcetin/jme-clj)
   * [jme-clj | Clojure 3D Game Development Demo - YouTube](https://www.youtube.com/watch?v=IOPz9I49snM)
 * [joker - Small interpreted dialect of Clojure written in Go](https://github.com/candid82/joker)
+* [kalai: A source-to-source transpiler to convert Clojure to multiple target languages (Rust, C++, Java, ...)](https://github.com/echeran/kalai)
 * [lab-ml/nn: 🧠 Minimal implementations of neural network architectures and layers in PyTorch with side-by-side notes](https://github.com/lab-ml/nn)
 * [LaTTe: LaTTe : a Laboratory for Type Theory experiments (in clojure)](https://github.com/latte-central/LaTTe)
 * leiningen
@@ -1092,6 +1094,7 @@ Clojure
   * [The Artificery: A (poorly) animated introduction to Clojure's HTTP server library Ring](https://drewverlee.github.io/posts-output/2021-5-2-ring)
   * [클로저로 웹 서버 애플리케이션 개발을 시작하는 사람들을 위한 Ring 소개서 | 그린랩스](https://green-labs.github.io/introduce-a-ring)
   * [ring-defaults: A library to provide sensible Ring middleware defaults](https://github.com/ring-clojure/ring-defaults)
+  * [ripley: Ring live pages experiment](https://github.com/tatut/ripley)
 * [rss-saver: Simple Clojure (Babashka) script that saves articles from world.hey.com RSS feeds](https://github.com/adam-james-v/rss-saver)
 * [入(rù-lang)](http://ru-lang.org/)
 * [Rum: simple, flexible, extensible React wrapper for CLJS](https://github.com/tonsky/rum)
