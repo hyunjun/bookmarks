@@ -99,6 +99,7 @@ Math
 * [혼돈 속의 질서 찾기: 그래프 램지이론 소개 – 과학의 지평](https://horizon.kias.re.kr/17100/)
 * [“브라우저에서 바로 수학 계산” MS, 엣지에 ‘매스 솔버’ 추가 예정 - ITWorld Korea](https://www.itworld.co.kr/news/194744)
 * [수학을 일상으로](https://brunch.co.kr/@graypool/113)
+* [Curves and Surfaces – Bartosz Ciechanowski](https://ciechanow.ski/curves-and-surfaces/)
 
 # Bezier
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
@@ -216,6 +217,7 @@ Math
   * [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 * [의사가 들려주는 선형대수 이야기 - 1. Vector Space](https://www.youtube.com/watch?v=Xo-eaKe1AAY)
 * [직교행렬(Orthogonal Matrix)의 의미](https://losskatsu.github.io/linear-algebra/orthogonal/)
+* [What is the Inverse of a Vector?](https://mattferraro.dev/posts/geometric-algebra)
 
 ## Linear Algebra
 * [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
