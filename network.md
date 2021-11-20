@@ -86,7 +86,7 @@ Network
 * [downman.tistory.com/category/응용/TCPIP](http://downman.tistory.com/category/%EC%9D%91%EC%9A%A9/TCPIP)
 * [epoll 설명](http://blueheartscabin.blogspot.com/2013/08/c-epoll.html)
 
-# Course
+# Course MOOC Lecture
 * [Computer Networking: a Top Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
 
 # DNS

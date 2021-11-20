@@ -578,7 +578,7 @@ AWS
 * [minecraft-ondemand: Templates to deploy a serverless Minecraft Server on demand in AWS](https://github.com/doctorray117/minecraft-ondemand)
   * [AWS에서 아주 저렴하게 온디맨드 Minecraft 서버 운영하기 | GeekNews](https://news.hada.io/topic?id=4978)
 
-# Course Lecture MOOC
+# Course MOOC Lecture
 * [Getting started with AWS](https://www.slideshare.net/JungwonSeo2/getting-started-with-aws-92003749)
 * [AWS 교과서](https://brunch.co.kr/magazine/devops)
 * [10분 자습서](https://aws.amazon.com/ko/getting-started/tutorials/)
