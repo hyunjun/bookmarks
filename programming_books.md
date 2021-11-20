@@ -1481,6 +1481,9 @@ Programming Books
   * 541 페이지의 책인데, 창업할 때의 희망찬 모습을 제외하면 480 페이지 전까지는 계속되는 실패로 괴로워하는 모습들만 자세히 보여준다
   * 성공한 모습을 이미 알고 읽는데도 암울한 느낌이 들었다. 하드씽과 비슷하게 경험을 솔직히 보여주는 게 좋았음
   * [크래프톤 웨이. 장병규가 말했다. 팀워크의 핵심은 커뮤니케이션이니까, 사무실 동선을… | by Jun | Sep, 2021 | Medium](https://nymets.medium.com/%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4-%EC%9B%A8%EC%9D%B4-195709f39be3)
+* [최강의 조직](https://brunch.co.kr/@younghakjang/118)
+  * ★★★★☆ 2021.11.18
+  * [최강의 조직. 마지막으로, 구성원들이 ‘왜?’라는 질문을 던지는 데 주저함이 없고 그… | by Jun | Nov, 2021 | Medium](https://nymets.medium.com/%EC%B5%9C%EA%B0%95%EC%9D%98-%EC%A1%B0%EC%A7%81-394ccd294df8)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1488,7 +1491,6 @@ Programming Books
 * (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * (NOT YET) [요즘 팀장은 이렇게 일합니다 - 중앙북스](https://jbooks.joins.com/book/book_info.asp?bokid=2455)
   * [“팀장이 가장 어려웠어요”…모두가 알아야 할 ‘팀장 리더십’ : 네이버 뉴스](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=243&aid=0000014586)
-* (NOT YET) [최강의 조직](https://brunch.co.kr/@younghakjang/118)
 * (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
   * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
 * (NOT YET) [실리콘밸리의 팀장들](http://www.chungrim.com/booktotal/bin/view.php?&code=book&isbn=978-89-352-1282-8&cpage=1)
