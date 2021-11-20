@@ -142,6 +142,7 @@ Sports
     * 그밖에 체인지업은 (통설처럼)정반대 경향
     * 그 외 구종은 특별한 경향성이 없었음
 * [LI와 wOBA, LI Point : 네이버 블로그](https://blog.naver.com/lgtwinstwin/222573259400)
+* [기사 번역 - 레이스가 특정한 슬라이더 무브먼트를 노리고 있는가?](https://blog.naver.com/lgtwinstwin/222573942859)
 
 # Basketball
 * [**Basketball Terms- Terminology**](https://www.coachesclipboard.net/BasketballTerminology.html) diagram으로 court위 명칭 설명
