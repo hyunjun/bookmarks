@@ -328,7 +328,6 @@ Business
 * [카페베네는 스타벅스를 이긴 적이 없었다 : 쇼핑·소비자 : 경제 : 뉴스 : 한겨레](http://www.hani.co.kr/arti/economy/consumer/976129.html)
 * [버스와 사람 - Highly Required](https://highlyrequi.red/posts/bus_factor/) 몇 명이 동시에 빠져야 인원의 부재가 문제가 되는가?
 * [What is a RACI matrix? | CIO](https://www.cio.com/video/96867/what-is-a-raci-matrix)
-* [MVP와 PoC, Prototype, Pilot 차이. Agile, Lean Startup의 MVP(최소 실행가능 제품… | by 민현기(Min, Hyun-Gi) | 민현기(Min, Hyun Gi)’s Blog | Medium](https://medium.com/hgmin/poc-prototype-pilot-mvp%EB%9E%80-b659aa8304df)
 * [빅블러 시대, 이커머스로 입사해야하는 이유](https://brunch.co.kr/@windydog/436) 도메인별 사업 구조에 대한 이야기
 * [직장인 직원을 무능하게 만드는 방법 EBS.. : 네이버블로그](https://blog.naver.com/wcareer/222076597403)
 * [대표님, 왜 우리는 목적 없이 일해야 하나요 | ㅍㅍㅅㅅ](https://ppss.kr/archives/215281)
@@ -865,7 +864,9 @@ Business
 * [스타트업이 취해야 할 3가지 O2O 전략](http://besuccess.com/2015/04/3-o2o-strategy-for-startup/)
 * [창업자가 주식에 대해 갖는 7가지 치명적인 오해 : 이연수 변호사의 로스쿨 인 실리콘밸리](http://besuccess.com/2015/04/common-mistakes-about-share/)
 * [대기업보단 스타트업에게 배우는 시대, 혁신을 위한 가이드 3편](http://besuccess.com/2015/04/book-for-startup/)
+* [MVP와 PoC, Prototype, Pilot 차이. Agile, Lean Startup의 MVP(최소 실행가능 제품… | by 민현기(Min, Hyun-Gi) | 민현기(Min, Hyun Gi)’s Blog | Medium](https://medium.com/hgmin/poc-prototype-pilot-mvp%EB%9E%80-b659aa8304df)
 * [MVP의 높아지는 ‘minimum’ 기준](http://www.thestartupbible.com/2015/04/the-minimum-in-mvp-is-getting-much-better.html)
+* [최소 기능 제품, MVP에 던지는 5가지 질문 - ITWorld Korea](https://www.itworld.co.kr/news/212179)
 * [린스타트업 MVP 설정의 어려움](https://brunch.co.kr/@graypool/10)
 * [Build a Minimum *Loveable* Product](https://pichsenmeister.com/build-a-minimum-lovable-product/)
 * [프로토타입 외주 개발 왜 실패할까](http://www.venturesquare.net/581594)
