@@ -703,6 +703,7 @@ Deep Learning
 * [How to Train Large Deep Learning Models as a Startup](https://www.assemblyai.com/blog/how-to-train-large-deep-learning-models-as-a-startup/)
 * [How to Train Really Large Models on Many GPUs?](https://lilianweng.github.io/lil-log/2021/09/24/train-large-neural-networks.html)
 * [딥러닝 가속기가 이끄는 반도체 시장의 미래 | GeekNews](https://news.hada.io/topic?id=5120)
+* [How Long Does It Take Ordinary People To "Get Good" At Chess?](https://github.com/jcw024/lichess_database_ETL/blob/main/README.md)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -993,6 +994,7 @@ Deep Learning
 * [**UCL x DeepMind Deep Learning Lecture Series - General**](https://www.eventbrite.co.uk/o/ucl-x-deepmind-deep-learning-lecture-series-general-29078980901)
 * [DeepMind x UCL | Deep Learning Lecture Series 2020 - YouTube](https://www.youtube.com/playlist?list=PLqYmG7hTraZCDxZ44o4p3N5Anz3lLRVZF)
 * [Reinforcement Learning Lecture Series 2021 | DeepMind](https://deepmind.com/learning-resources/reinforcement-learning-series-2021)
+* [Yann LeCun’s Deep Learning Course at CDS – NYU Center for Data Science](https://cds.nyu.edu/deep-learning/)
 
 # Extreme Learning Machines
 * [Extreme Learning Machines](http://www.ntu.edu.sg/home/egbhuang/pdf/IEEE-IS-ELM.pdf)
