@@ -939,6 +939,7 @@ Python
   * [Copy-Pastable Logging Scheme for Python | by Dalya Gartzman | codeburst](https://codeburst.io/copy-pastable-logging-scheme-for-python-c17efcf9e6dc)
   * [**Python3: Logging With Multiprocessing | by Jonathonbao | Medium**](https://medium.com/@jonathonbao/python3-logging-with-multiprocessing-f51f460b8778)
   * [Power-Up Your Python Logging. A guide to take you from beginner to… | by David Tippett | Better Programming | Medium](https://medium.com/better-programming/power-up-your-python-logging-6dd3ed38f322)
+  * [What to Log? From Python ETL Pipelines! | by Shiva Koreddi | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/what-to-log-from-python-etl-pipelines-9e0cfe29950e)
   * [Autologging — easier logging and tracing for Python classes](http://pythonhosted.org/Autologging/)
   * [loguru: Python logging made (stupidly) simple](https://github.com/Delgan/loguru)
     * [loguru를 사용하여 python 로깅 쉽게하기 | 잡잡 블로그](https://kimeuichan.github.io/posts/python-logging-with-loguru/)
@@ -2829,6 +2830,7 @@ Python
 * [debugging - Jupyter notebook never finishes processing using multiprocessing (Python 3) - Stack Overflow](https://stackoverflow.com/questions/47313732/jupyter-notebook-never-finishes-processing-using-multiprocessing-python-3)
 * [주피터노트북 코드 없이 아웃풋만 pdf 또는 html로 저장하기 - 아무튼 워라밸](http://hleecaster.com/export-jupyter-notebook-without-code/)
 * [On writing clean Jupyter notebooks | by Eduardo Blancas | Jul, 2021 | Towards Data Science](https://towardsdatascience.com/on-writing-clean-jupyter-notebooks-abdf6c708c75)
+* [How to code when all you know are Jupyter Notebooks | by Helene Kortschak | Towards Data Science](https://towardsdatascience.com/how-to-code-when-all-you-know-are-jupyter-notebooks-78cf8d4f32e0)
 
 ## Jupyter Library
 * [Jupyter Notebook Extensions](https://towardsdatascience.com/jupyter-notebook-extensions-517fa69d2231)
@@ -4365,6 +4367,7 @@ Python
 * [How To Add New Column to Pandas DataFrame | Towards Data Science](https://towardsdatascience.com/how-to-add-a-new-column-to-an-existing-pandas-dataframe-310a8e7baf8f)
 * [데이터분석 최근, 넷플릭스의 콘텐츠 보유 현황과 수급 전략에 대하여](https://songseungwon.tistory.com/53)
 * [Spreadsheets to Python: it's time | Clive Siviour | Towards Data Science](https://towardsdatascience.com/spreadsheets-to-python-its-time-to-make-the-switch-ef49cf9463d5)
+* [Python Pandas Interview Questions for Data Science | by Nathan Rosidi | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/python-pandas-interview-questions-for-data-science-377dfac4a7a1)
 * [dtale: Visualizer for pandas data structures](https://github.com/man-group/dtale)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
   * [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
