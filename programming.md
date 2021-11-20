@@ -3112,6 +3112,7 @@ Programming
   * [Flying faster with Twitter Heron](https://blog.twitter.com/2015/flying-faster-with-twitter-heron)
   * [트위터 스트림 처리 서버 (heron) 최적화 내용](http://knight76.tistory.com/entry/%ED%8E%8C-%ED%8A%B8%EC%9C%84%ED%84%B0-%EC%8A%A4%ED%8A%B8%EB%A6%BC-%EC%B2%98%EB%A6%AC-%EC%84%9C%EB%B2%84-heron-%EC%B5%9C%EC%A0%81%ED%99%94-%EB%82%B4%EC%9A%A9)
   * [Apache Heron - 실시간, 분산, fault-tolerant 스트림 처리 엔진 | GeekNews](https://news.hada.io/topic?id=4608)
+  * [하루 400억 건을 처리하는 데이터 파이프라인 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=rCbzilpjsdY)
 * CEP Complex Event Processing
   * [Welcome to Siddhi](http://siddhi.sourceforge.net/)
 * [gor - HTTP traffic replay in real-time. Replay traffic from production to staging and dev environments. http://leonsbox.com/blog/2013/06/04/improving-testing-by-using-real-traffic-from-production](https://github.com/buger/gor/)
