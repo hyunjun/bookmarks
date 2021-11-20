@@ -1244,6 +1244,7 @@ Python
   * [Learn Network Programming in Python by Building Four Projects](https://morioh.com/p/e483ad4aacec)
   * [Reverse Engineering A Mysterious UDP Stream in My Hotel - Gokberk Yaltirakli](https://www.gkbrk.com/2016/05/hotel-music/)
   * [python - 파이썬의 epoll 및 비 블로킹](https://stackoverrun.com/ko/q/3421567)
+  * [파이썬 소켓으로 직접 구현하는 SMTP 프로토콜](https://hudi.blog/smtp-with-python/)
 * sort
   * [Length-wise-sorted list but, same length in alphabetical-order in a step](http://stackoverflow.com/questions/14103620/length-wise-sorted-list-but-same-length-in-alphabetical-order-in-a-step)
   * [LAZY SORTING (PYTHON RECIPE)](http://code.activestate.com/recipes/280501-lazy-sorting/)
