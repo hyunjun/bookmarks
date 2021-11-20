@@ -363,6 +363,7 @@ Machine Learning
 * [Visualising Machine Learning Datasets with Google’s FACETS](https://towardsdatascience.com/visualising-machine-learning-datasets-with-googles-facets-462d923251b3)
 * [Machine learning with sparse, high-dimensional and large datasets](https://www.linkedin.com/pulse/machine-learning-sparse-high-dimensional-large-waqas-bukhari-phd/)
 * [Datasets for machine learning](https://www.datasetlist.com/)
+* [Dataset Splitting Best Practices in Python - KDnuggets](https://www.kdnuggets.com/2020/05/dataset-splitting-best-practices-python.html)
 * [MACHINE-LEARNING ALGORITHM GENERATES VIDEOS FROM STILLS](http://www.popsci.com/this-ai-generates-video-from-stills)
 * [기계학습(Machine Learning) 101](https://www.facebook.com/SKTBrain/photos/pcb.305574049813416/305573403146814)
 * [Lisbon Machine Learning Summer School Highlights](http://sebastianruder.com/lisbon-machine-learning-summer-school-highlights/index.html)
@@ -669,6 +670,7 @@ Machine Learning
 * [실험없이 이벤트 효과를 추정할 수 있을까? - DIFFERENCE IN DIFFERENCES](https://lumiamitie.github.io/data/difference-in-differences/)
 * [Spotify의 오디오 분석을 사용한 일렉트로닉 댄스 음악의 장르 분류](https://ichi.pro/ko/spotifyui-odio-bunseog-eul-sayonghan-illegteulonig-daenseu-eum-ag-ui-jangleu-bunlyu-126790836673264)
 * [Cracking Random Number Generators using Machine Learning – Part 1: xorshift128 – NCC Group Research](https://research.nccgroup.com/2021/10/15/cracking-random-number-generators-using-machine-learning-part-1-xorshift128/)
+* [A Tour of End-to-End Machine Learning Platforms | Ian Hellström](https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
