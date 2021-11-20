@@ -71,6 +71,8 @@ Government
   * [Week 35 - 모델 중심에서 데이터 중심의 AI 개발로](https://jiho-ml.com/weekly-nlp-35/)
 
 # Library
+* [AI 허브](https://aihub.or.kr/)
+  * [공공행정문서 OCR | AI 허브](https://aihub.or.kr/aidata/30724)
 * [AssemblyDataReader: Assembly Data Reader - 열린국회정보의 API를 이용해 데이터를 쉽게 받아올 수 있게 만든 오픈소스 라이브러리](https://github.com/hohyun321/AssemblyDataReader)
 * [Label Studio - an open-source, configurable data annotation tool](https://github.com/heartexlabs/label-studio)
 * [recaptcha-dataset: Dataset of thousands of reCAPTCHA images](https://github.com/deathlyface/recaptcha-dataset)
