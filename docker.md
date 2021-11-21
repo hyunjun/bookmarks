@@ -1121,6 +1121,7 @@ Docker
 * [4 devs by devs: Kubernetes interview question made easy | All about software development](https://jakubstransky.com/2021/11/05/4-devs-kubernetes-interview-question-made-easy/)
 * [Can't Resize your Postgres Kubernetes Volume? No Problem!](https://blog.crunchydata.com/blog/resize-postgres-kubernetes-volume-instance-sets)
 * [NDC21-프로그래밍 게임 서버를 품은 쿠버네티스 - YouTube](https://www.youtube.com/watch?v=8R4DDEqjc0I)
+* [Get to Know a Kubernetes Operator!](https://spring.io/blog/2021/11/19/get-to-know-a-kubernetes-operator)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
