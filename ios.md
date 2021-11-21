@@ -556,3 +556,4 @@ iOS
   * [Xcode 프로젝트 관리를 위한 Tuist 사용해보기 | Medium](https://okanghoon.medium.com/xcode-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EA%B4%80%EB%A6%AC%EB%A5%BC-%EC%9C%84%ED%95%9C-tuist-%EC%95%8C%EC%95%84%EB%B3%B4%EA%B8%B0-6a92950780be)
   * [XcodeGen 에서 Tuist 로 전환하기 | Medium](https://okanghoon.medium.com/xcodegen-%EC%97%90%EC%84%9C-tuist-%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-3f0156e0c2ea)
   * [당근마켓) XcodeGen 에서 Tuist 로 전환하기 | 당근마켓 팀블로그](https://medium.com/daangn/xcodegen-%EC%97%90%EC%84%9C-tuist-%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-3f0156e0c2ea)
+* [Xcode Cloud 베타 가벼운 체험기. 드디어 신청했던 Xcode Cloud 서비스를 사용할 수 있었습니다! | by Jung Kim | Nov, 2021 | Medium](https://medium.com/@jungkim/xcode-cloud-%EB%B2%A0%ED%83%80-%EA%B0%80%EB%B2%BC%EC%9A%B4-%EC%B2%B4%ED%97%98%EA%B8%B0-a12eceb50f11)
