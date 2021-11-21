@@ -596,6 +596,7 @@ Programming
 * [개발자의 애질리티](https://toss.tech/article/dev-agility)
 * [애자일 책들에서 이야기 해주지 않지만](https://brunch.co.kr/@jinhoyooephf/24)
 * [지라 쓰는게 애자일 아니라고 했어 안했어?! if(kakao) 2021](https://if.kakao.com/session/31)
+* [협업도구와 올인원 워크스페이스](https://jojoldu.tistory.com/616) notion에 대한 단상? 일종의 단점?
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
