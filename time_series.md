@@ -45,6 +45,7 @@ Time Series
 * [시계열 데이터를 시각화하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/199454)
 * [Time Series Analysis and Forecasting with Machine Learning - YouTube](https://www.youtube.com/watch?v=AvG7czmeQfs)
 * [How Time Series Databases Work—and Where They Don't - Honeycomb](https://www.honeycomb.io/blog/time-series-database/)
+* [CAUSALIMPACT는 어떻게 이벤트 효과를 추정할까?](https://lumiamitie.github.io/data/causalimpact/)
 
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
