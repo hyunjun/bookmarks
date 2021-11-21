@@ -1119,6 +1119,7 @@ Web
   * 데이터를 디스크에서 메모리로 빨리 옮기기 위해 오리진 트라리얼로 사용할 수 있는 origin private file system API 사용 가능
   * 웹은 sRBG 색공간을 사용하고 있지만, Photoshop은 Display P3 색공간을 쓰고 있어서 더 적확히 이미지를 보여주도록 Display P3 Canvas 사용
   * 수많은 UI 요소를 관리하기 위해 Web Components와 Lit 라이브러리 사용
+* [Cloud Native Apps with Server-Side WebAssembly - YouTube](https://www.youtube.com/watch?v=JtwHtfFe6AI)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Hello web assembly](https://jybaek.tistory.com/782)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
