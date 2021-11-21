@@ -1920,6 +1920,9 @@ Programming Books
 * (NOT YET) [Akka 쿡북 다양한 레시피로 아카를 쉽게 배워보기](http://acornpub.co.kr/book/akka-cookbook)
 * (NOT YET) [아카를 이용한 마이크로서비스 개발 예제 애플리케이션 구축과 함께하는 아카 이해하기](http://acornpub.co.kr/book/mastering-akka)
 
+# Software engineering
+* (NOT YET) [소프트웨어 스펙의 모든 것](https://jybaek.tistory.com/940)
+
 # Spark
 
 * **러닝 스파크 - 번개같이 빠른 데이터 분석**
