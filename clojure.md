@@ -173,6 +173,7 @@ Clojure
 * [Let's tap> with let> (a.k.a. My First Macro: taplet) - Showcase / Your Projects and Libraries - ClojureVerse](https://clojureverse.org/t/lets-tap-with-let-a-k-a-my-first-macro-taplet/7361)
 * [Clojure Arcana](https://clojurearcana.com/threading-macros/)
 * [X> & x>>: auto-transducifying thread macros - Showcase - ClojureVerse](https://clojureverse.org/t/x-x-auto-transducifying-thread-macros/8122)
+* [클로저 매크로에 대해 알아보자 | 그린랩스](https://green-labs.github.io/the-macro)
 * [Macros vs. Monads](https://www.infoq.com/presentations/Macros-Monads)
 * [클로저 개발팀을 위한 지속적인 통합](http://clojure.or.kr/presentation/clojure_ci)
 * [동시성 프로그래밍 하기 좋은 Clojure](http://www.slideshare.net/eunminn/clojure-68804824)
@@ -1121,6 +1122,7 @@ Clojure
 * [split-token: Generating and verifying split tokens with Clojure](https://github.com/miikka/split-token)
 * [spring-boot-bugger: Introduce Clojure and live-coding power to your Spring Boot application!](https://github.com/jaju/spring-boot-bugger)
 * [Spring Cloud - Proof of concept Clojure Implementation of Spring Boot Getting Started](https://github.com/scotthaleen/clojure-spring-cloud)
+* [stub: Library to generate stubs for other Clojure libraries](https://github.com/clj-easy/stub)
 * [supdate - a small Clojure/ClojureScript library for transforming nested data structures](https://vvvvalvalval.github.io/supdate)
 * [tapestry: Weave loom fibers into your Clojure](https://github.com/teknql/tapestry)
 * [task - Simple, functional and value-oriented concurrency primitives for Clojure](https://github.com/ane/task)
@@ -1358,6 +1360,7 @@ Clojure
 * [Setting up a basic Clojure backend - YouTube](https://www.youtube.com/watch?v=M97jWSKoV3k)
 * [Fast and Elegant Clojure](https://bsless.github.io/fast-and-elegant-clojure/)
 * [3 Facts about Clojure every beginner must know | by Sameeksha Bhatia | helpshift-engineering | Oct, 2021 | Medium](https://medium.com/helpshift-engineering/3-facts-about-clojure-every-beginner-must-know-8e7165ccbd39)
+* [Clojure beginner resources](https://gist.github.com/yogthos/be323be0361c589570a6da4ccc85f58f)
 * [clj-easy/about](https://github.com/clj-easy/about)
 
 # Vim
