@@ -1307,6 +1307,7 @@ Machine Learning
   * [ECE1513H: Introduction to Machine Learning Winter 2020 - LEC0101](https://www.papernot.fr/teaching/w20-ml)
     * [ECE1513_Introduction_to_JAX](https://colab.research.google.com/drive/15Nn1i5AgfkLBdMGTif-RnfwqZrn1BPKQ) .ipynb
     * [ECE1513_Introduction_to_JAX_Student_Solutions](https://colab.research.google.com/drive/1YsoctmFgZ0joXdMqEHmTsP3AAyhyNlzI) .ipynb
+  * [Intro to JAX: Accelerating Machine Learning research - YouTube](https://www.youtube.com/watch?v=WdTeDXsOSj4)
 * [merlin: Kubernetes-friendly ML model management, deployment, and serving](https://github.com/gojek/merlin)
   * [Machine Learning Models as Tables - ClickHouse Software And Services | Altinity](https://altinity.com/blog/2020/08/10/machine-learning-models-as-tables)
 * [mljar-supervised: Automated Machine Learning Pipeline with Feature Engineering and Hyper-Parameters Tuning](https://github.com/mljar/mljar-supervised)
