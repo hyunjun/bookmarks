@@ -305,6 +305,7 @@ Programming Books
   * [**마이크로서비스 도입 이렇게 한다 | Popit**](https://www.popit.kr/%eb%a7%88%ec%9d%b4%ed%81%ac%eb%a1%9c%ec%84%9c%eb%b9%84%ec%8a%a4-%eb%8f%84%ec%9e%85-%ec%9d%b4%eb%a0%87%ea%b2%8c-%ed%95%9c%eb%8b%a4/)
   * ['마이크로서비스 도입 이렇게 한다' 출연 동영상과 멋진 독후감 소개](https://jhrogue.blogspot.com/2021/05/b.html)
   * [마이크로서비스 도입, 이렇게 한다](https://jybaek.tistory.com/929)
+  * [MSA 기술이전 사업을 시작하다](https://brunch.co.kr/@graypool/245) 서평은 아니고 비개발자, 혹은 buzzword에 혹한 사람들에 대한 이야기
 * [이벤트 기반 마이크로서비스 구축](https://nymets.medium.com/%EC%9D%B4%EB%B2%A4%ED%8A%B8-%EA%B8%B0%EB%B0%98-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-c2e4bbfdba2e)
   * ★★★★☆
 * [개발자에서 아키텍트로](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EC%84%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EB%A1%9C-76317c59165f)
