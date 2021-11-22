@@ -378,6 +378,7 @@ Business
     3. 가설은 모호하고 부정확해도 괜찮다
 * [당신의 생업은 무엇인가?](https://brunch.co.kr/@graypool/155) 업무의 시작은 용어의 정의
 * [Why Figma Wins - kwokchain](https://kwokchain.com/2020/06/19/why-figma-wins/)
+* [일 좀 하게 해 줘, 발목잡지 말고](https://brunch.co.kr/@jinhoyooephf/18)
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
