@@ -240,6 +240,7 @@ History
 * [돌발행동으로 보수정권 무너뜨린, 조선시대 감사원장 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0002758349&SRS_CD=0000012199) 이행 조광조
 * [기사 - 교과서엔 없는 일기들: 병자호란, 백성들은 어떻게 살았을까 1](https://www.ddanzi.com/ddanziNews/708814385)
 * [기사 - 교과서엔 없는 일기들, 병자호란 2: 조정은 얼마나 난장판이었을까](https://www.ddanzi.com/ddanziNews/709759092)
+* [기사 - 교과서엔 없는 일기들, 병자호란 3(完): 가족을 사러 국경으로 향한 사람들](https://www.ddanzi.com/ddanziNews/710845603)
 
 ## 고려
 * [가오 지킨(?) 최후의 충신 정몽주 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8249258.html)
