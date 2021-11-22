@@ -536,6 +536,7 @@ Business
 * [스타트업에서 CTO의 역할 | Guruble](http://guruble.com/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-cto%EC%9D%98-%EC%97%AD%ED%95%A0/)
 * [스타트업에서 CTO의 역할 | Popit](https://www.popit.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85%ec%97%90%ec%84%9c-cto%ec%9d%98-%ec%97%ad%ed%95%a0/)
 * [디지털 변혁 위한 기술 전략을 수립… 'CTO' 직위의 이해 - CIO Korea](https://www.ciokorea.com/news/206349)
+* [넷마블 게임을 만드는 CTO, 어떻게 일할까?](https://www.folin.co/story/1946) 비개발자들에게 이야기하기도 좋은 내용
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
