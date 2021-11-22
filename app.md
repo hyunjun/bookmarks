@@ -1797,6 +1797,13 @@ App
   * [Docker container to WSL convert](https://gist.github.com/rkttu/c45c1831a8a3cd4c359193ce593311df)
   * [WSL 2.0 Global configuration (.wslconfig) 을 통한 성능 향상](https://kibua20.tistory.com/63)
   * [Getting started with CUDA on Ubuntu on WSL 2 | Ubuntu](https://ubuntu.com/blog/getting-started-with-cuda-on-ubuntu-on-wsl-2)
+  * [windows11기준 WSL2 및 CUDA 설치 방법](https://www.facebook.com/groups/255834461424286/?multi_permalinks=1625570561117329)
+    1. PowerShell에서 WSL2 설치 `$ wsl --install`
+    2. 윈도우 restart
+    3. [Nvidia GPU driver 설치](https://developer.nvidia.com/cuda/wsl)
+    4. [WSL-Ubuntu Package 기반 CUDA Toolkit 설치](https://docs.nvidia.com/cuda/wsl-user-guide/index.html#ch03a-setting-up-cuda)
+      * 위 링크에서 'Installation of CUDA Toolkit using WSL-Ubuntu Package' 부분 명령어 실행
+    5. WSL 재접속 후 cuda 확인 `nvidia-smi -q`
   * [GPU Accelerated Machine Learning with WSL 2 - YouTube](https://www.youtube.com/watch?v=PdxXlZJiuxA)
   * [WSL 2 X11 애플리케이션을 더 깔끔하게 실행하는 방법. WSL 2 X11 애플리케이션을 윈도우 환경에서 좀 더 깔끔하게 실행할… | by Jung-Hyun Nam | Beyond the Windows, Korean Edition | Aug, 2020 | Medium](https://medium.com/beyond-the-windows-korean-edition/wsl-2-x11-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%84-%EB%8D%94-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EC%8B%A4%ED%96%89%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-5a270835801c)
   * [Blog @ Codonomics: WSL For Development In Windows 10 Is The New Kool-Aid](https://blog.codonomics.com/2020/09/wsl-for-development-in-windows-10-is.html)
