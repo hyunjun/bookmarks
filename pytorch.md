@@ -427,6 +427,7 @@ PyTorch
 * [LibreASR: An On-Premises, Streaming Speech Recognition System](https://github.com/iceychris/LibreASR)
 * [pytorch-kaldi - a project for developing state-of-the-art DNN/RNN hybrid speech recognition systems. The DNN part is managed by pytorch, while feature extraction, label computation, and decoding are performed with the kaldi toolkit](https://github.com/mravanelli/pytorch-kaldi)
 * [SpeechBrain - A PyTorch-based Speech Toolkit](https://speechbrain.github.io)
+  * [Add KsponSpeech recipe by kimdwkimdw · Pull Request #973 · speechbrain/speechbrain](https://github.com/speechbrain/speechbrain/pull/973)
 
 # Transformer
 * [PyTorch v1.2에서 생긴 Transformer API 를 이용한 간단한 Chitchat 챗봇](https://github.com/eagle705/PyTorch_Transformer_Chatbot)
