@@ -56,6 +56,7 @@ App
 * [**the-book-of-secret-knowledge: A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more**](https://github.com/trimstray/the-book-of-secret-knowledge) 엄청나게 다양한 여러가지 tool
 * [5 open source tools I can't live without | Opensource.com](https://opensource.com/article/20/10/open-source-tools) tmate, ix, asciinema, GNOME Pomodoro, Jitsi
 * [Best Collaboration Tools in 2021 – Survey Results | The Space Blog](https://blog.jetbrains.com/space/2021/07/16/best-collaboration-tools/)
+* [빠른 목업 제작을 위해 알아두면 좋은 서비스들 | 요즘IT](https://yozm.wishket.com/magazine/detail/1083/) mockup
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
