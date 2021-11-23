@@ -320,6 +320,7 @@ AWS
 * [**스타트업에서 데이터를 더하는 법 (2019-10, 데이터 + 야놀자)**](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit#slide=id.g5f59896514_0_196)
 * [**AMAZON PERSONALIZE WORKSHOP**](http://personalize-workshop-junghee.s3-website.ap-northeast-2.amazonaws.com/) movielens로 영화 추천 모델 구현
 * [Amazon Personalize's example using python sdk](https://github.com/seongshj/personalize-python-sdk-example)
+* [SaaS 추천 솔루션을 이용한 개인화 추천 :: GS Retail Engineering](https://gsretail.tistory.com/3) personalize
 * [한달 10만원으로 추천시스템 구축하기 AWS Personalize 도입 후기 / python SDK](https://dq-dreamsearch.com/121)
 * [Amazon Personalize로 추천 시스템 구축하기 - YouTube](https://www.youtube.com/watch?v=-l2GdgfGvJw)
 * [온프레미스 엔지니어의 퍼블릭 클라우드 정착기](https://brunch.co.kr/@alden/55)
@@ -911,6 +912,7 @@ AWS
 * [이메일 인증 작업 서버리스 앱으로 구성하기](https://aws.amazon.com/ko/blogs/korea/using-callback-urls-for-approval-emails-with-aws-step-functions/)
 * [AWS Step function vs. AWS Lambda benchmark - DEV Community](https://dev.to/cremich/aws-step-function-vs-aws-lambda-benchmark-4f41)
 * [Rust로 Lambda 배포의 즐거움](https://velog.io/@juunini/Rust%EB%A1%9C-Lambda-%EB%B0%B0%ED%8F%AC%EC%9D%98-%EC%A6%90%EA%B1%B0%EC%9B%80)
+* [심의 프로세스 개선을 위한 Digital Tool 개발 :: GS Retail Engineering](https://gsretail.tistory.com/2)
 * [Apex - AWS Lambda 관리도구 #1](https://blog.outsider.ne.kr/1241)
 * [Apex - AWS Lambda 관리도구 #2](https://blog.outsider.ne.kr/1242)
 * [AWS Lambda: Apex로 관리하기](https://hyunseob.github.io/2017/07/09/aws-lambda-with-apex/)
