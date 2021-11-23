@@ -1373,6 +1373,7 @@ Programming
 * [The InfoQ eMag: Operating Microservices](https://www.infoq.com/minibooks/operating-microservices/)
 * [소프트웨어 설계 및 디자인 트렌드로 알아본 MSA](https://brunch.co.kr/@synabreu/149)
 * [Minimizing Design Time Coupling in a Microservice Architecture - YouTube](https://www.youtube.com/watch?v=EGOYRuuf2nQ)
+* [Micro/Mini/Macro Services :: GS Retail Engineering](https://gsretail.tistory.com/1)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
