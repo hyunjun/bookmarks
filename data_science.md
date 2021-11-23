@@ -671,6 +671,7 @@ Data Science
 * [카카오 AI추천 : 협업 필터링 모델 선택 시의 기준에 대하여 – tech.kakao.com](https://tech.kakao.com/2021/10/18/collaborative-filtering/)
 * [코드잇 머신 러닝을 통한 추천 시스템 추천 방법(내용 기반, 협업 필터링)](https://blog.naver.com/codeitofficial/222104992800)
 * [우리 동네 맛집 추천엔진 직접, 쉽게 만들기 (크롤링과 코사인 유사도)](https://data101.oopy.io/recommendation-engine-cosine-similarity) cosine similarity
+* [SaaS 추천 솔루션을 이용한 개인화 추천 :: GS Retail Engineering](https://gsretail.tistory.com/3)
 * [추천시스템 맛집](https://ekdud7667.tistory.com/)
 * [Learn About Recommender Systems With These 8 Resources](https://analyticsindiamag.com/learn-about-recommender-systems-with-these-8-resources/)
 * [Deep Dive into Netflix’s Recommender System | by David Chong | Towards Data Science](https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48)
