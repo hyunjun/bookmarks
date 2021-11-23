@@ -944,7 +944,7 @@ App
     * `/usr/local/Cellar/ffmpeg/2.8.1_1/bin/ffmpeg -i <MOV> [-acodec copy -vcodec copy] <mp4>`
     * `ffmpeg -n -loglevel error -i <MOV> -vcodec libx264 -crf 28 -preset faster -tune film <mp4>` test에서 11.1MB가 5.2MB로 감소
       * [How can I reduce a video's size with ffmpeg? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/28803/how-can-i-reduce-a-videos-size-with-ffmpeg)
-    * `ffmpeg -i <.mp4> -b:a 320K -vn <.mp3>`
+    * `ffmpeg -i <.mp4> [-ss 00:00:00 -to 00:11:26] -b:a 320K -vn <.mp3>`
       * [How can I convert MP4 video to MP3 audio with FFmpeg? - Super User](https://superuser.com/questions/332347/how-can-i-convert-mp4-video-to-mp3-audio-with-ffmpeg)
     * [ffmpeg 자막입히기, 자막 위치 조정](http://kerberosj.tistory.com/233)
     * [FFMPEG processing](https://leanpub.com/ffmpeg/read_full)
