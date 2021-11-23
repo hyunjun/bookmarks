@@ -119,6 +119,7 @@ Writing
 * [Why developers should know how to write](https://medium.com/free-code-camp/why-developers-should-know-how-to-write-dc35aa9b71ab)
 * [The most important part of a data science project is writing a blog post](https://towardsdatascience.com/the-most-important-part-of-a-data-science-project-is-writing-a-blog-post-50715f37833a)
 * [잘못 된 문서화, 잘 된 문서화](https://tech.peoplefund.co.kr/2019/12/06/bad-and-good-documentation.html)
+* [개발문화.. 문서화.. 프로세스 :: GS Retail Engineering](https://gsretail.tistory.com/6)
 * [실전 Digital Tranformation 아이디어 공유](https://www.popit.kr/%EC%8B%A4%EC%A0%84-digital-tranformation-%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4-%EA%B3%B5%EC%9C%A0/)
 * [2019년 11월 2일 개발자 이야기(발표 자료)](https://jhrogue.blogspot.com/2020/05/b-2019-11-2.html) 튜토리얼과 하우투 문서의 차이점
   * [개발 문서 이야기 – 튜토리얼과 하우투 문서의 차이점은? - YouTube](https://www.youtube.com/watch?v=HHlBLV281r0)
