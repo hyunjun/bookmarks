@@ -731,6 +731,7 @@ Javascript
 * [스타트업의 디자인 시스템 구축 과정 · Present](https://present.do/shows/61346fad5b179c0da7468260) design system
 * [!!Con 2019- Tail Call Optimization: The Musical!! by Anjana Vakil & Natalia Margolis - YouTube](https://www.youtube.com/watch?v=-PX0BV9hGZY) 정말 재미있는 공연 + TCO 설명
 * [next.config.js 의 images.path와 assetPrefix](https://velog.io/@juunini/next.config.js-%EC%9D%98-images.path%EC%99%80-assetPrefix)
+* [카카오 비즈인프라FE파트 개발자는 어떻게 일할까? – 기술편 – tech.kakao.com](https://tech.kakao.com/2021/11/23/biz-infra-fe-01/)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -3447,6 +3448,7 @@ Javascript
   * [yarn2로 next.js 프로젝트 만들기](https://velog.io/@juunini/yarn2%EB%A1%9C-next.js-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
   * [Next.js 그거 어떻게 하는 건데.. 최근 새로운 팀에 합류하고 온보딩 프로세스를 진행하고 있다. 제품에… | by Woosik Kim | Sep, 2021 | Medium](https://well-balanced.medium.com/next-js-%EA%B7%B8%EA%B1%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%8A%94-%EA%B1%B4%EB%8D%B0-ea5637f25fa4)
   * [NextJS 프로젝트에서 Jest가 MDX를 인식하게 하기](https://velog.io/@juunini/NextJS-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-Jest%EA%B0%80-MDX%EB%A5%BC-%EC%9D%B8%EC%8B%9D%ED%95%98%EA%B2%8C-%ED%95%98%EA%B8%B0)
+  * [Next.js 응용편](https://clelab.io/course/next-js)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
