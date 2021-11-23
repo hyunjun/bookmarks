@@ -738,6 +738,7 @@ Docker
 
 # Harbor
 * [**Private Docker Registry를 구축하기 위한 오픈소스 Harbor 도입기**](https://engineering.linecorp.com/ko/blog/harbor-for-private-docker-registry/)
+* [Private Docker Registry를 바꿔보자!](https://saramin.github.io/2021-11-23-harbor-registry/)
 * [Harbor + Kubernetes = Self-Hosted Container Registry](https://loft.sh/blog/harbor-kubernetes-self-hosted-container-registry/)
 
 # Kubernetes
