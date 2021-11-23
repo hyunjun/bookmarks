@@ -220,10 +220,12 @@ Math
 * [What is the Inverse of a Vector?](https://mattferraro.dev/posts/geometric-algebra)
 
 ## Linear Algebra
-* [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
-* [Flame Project](http://www.cs.utexas.edu/~flame/web/)
-* [Spark](http://www.cs.utexas.edu/users/flame/Spark/index.html)
+* [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
+* [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html)
 * [Coding the Matrix](https://github.com/tylee33/CodingtheMatrix)
+* [Flame Project](http://www.cs.utexas.edu/~flame/web/)
+* [LAFF - Linear Algebra: Foundation to Frontiers](https://courses.edx.org/courses/course-v1:UTAustinX+UT.5.03x+2T2015/info)
+* [Spark](http://www.cs.utexas.edu/users/flame/Spark/index.html)
 
 ## Linear Algebra Python
 * [파이썬 + Numpy + 선형대수 기초 + 이해하기 20160519](http://www.slideshare.net/dahlmoon/numpy-20160519)
@@ -233,6 +235,7 @@ Math
 * [Linear Algebra: Matrix Transpose & Differential Calculus](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/linear-algebra-transpose-differential.ipynb) python jupyter notebook
 * [linear_algebra_with_python](https://github.com/RRoundTable/linear_algebra_with_python)
 * [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
+* [파이썬으로 간단히 구현해보는 선형 회귀](https://brunch.co.kr/@cookery/120)
 
 # Markov Chains
 * [Markov Chains](http://blog.circuitsofimagination.com/2015/02/15/Markov-Chains.html)

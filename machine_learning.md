@@ -729,8 +729,6 @@ Machine Learning
 * [Machine Learning by Abdelhamid Mellouk and Abdennacer Chebira](http://www.intechopen.com/books/machine_learning)
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
   * [mml-book.github.io](https://github.com/mml-book/mml-book.github.io)
-* [Mathematics for Machine Learning - Linear Algebra](https://www.youtube.com/playlist?list=PLiiljHvN6z1_o1ztXTKWPrShrMrBLo5P3)
-* [Interactive Linear Algebra](http://textbooks.math.gatech.edu/ila/index.html)
 * [A Beginner Mathematics Book For Machine Learning](https://www.techleer.com/articles/564-a-beginner-mathematics-book-for-machine-learning/)
 * [Model-Based Machine Learning](http://mbmlbook.com)
 * [PRML(Pattern Recognition & Machien Learning, Bishop) 정리](http://norman3.github.io/prml/)
