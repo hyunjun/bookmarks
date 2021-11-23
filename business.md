@@ -27,6 +27,7 @@ Business
 * [성과주의가 진짜 성과를 내는 5가지 방법](http://ppss.kr/archives/36086)
 * [성과주의가 조직을 망치는 5가지 이유](http://ppss.kr/archives/36083)
 * [번아웃을 막는 방법](https://subokim.wordpress.com/2013/04/12/prevent-burnout/)
+* [일 잘하는 당신, 번아웃에 빠지긴 더 쉽다는데](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=891)
 * [The World's 50 Most Innovative Companies](http://www.fastcompany.com/section/most-innovative-companies-2015)
 * [네카라쿠배당토 | 국내 IT 기업 목록](https://techcompanies.kr/)
 * [회사 내의 자위행위자들](http://ppss.kr/archives/39976)
@@ -380,6 +381,7 @@ Business
 * [당신의 생업은 무엇인가?](https://brunch.co.kr/@graypool/155) 업무의 시작은 용어의 정의
 * [Why Figma Wins - kwokchain](https://kwokchain.com/2020/06/19/why-figma-wins/)
 * [일 좀 하게 해 줘, 발목잡지 말고](https://brunch.co.kr/@jinhoyooephf/18)
+* [Employee Advocacy란? - YouTube](https://www.youtube.com/watch?v=MW8Fae-lwf0)
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
