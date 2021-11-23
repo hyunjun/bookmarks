@@ -58,6 +58,7 @@ Shell
 * bc
   * `echo "100 / 3" | bc -l` or `bc -l <<< '100 / 3'` [How do I use floating-point division in bash?](https://stackoverflow.com/questions/12722095/how-do-i-use-floating-point-division-in-bash)
   * `echo $1 + $2 | bc` [Addition of two floating point numbers using shell script](https://unix.stackexchange.com/questions/360324/addition-of-two-floating-point-numbers-using-shell-script)
+  * `<cmd> | paste -sd+ - | bc` [Bash command to sum a column of numbers - Stack Overflow](https://stackoverflow.com/questions/3096259/bash-command-to-sum-a-column-of-numbers) e.g. grep 'meeting \*' <filename> | awk '{print $4}' | paste -sd+ - | bc
 * dictionary, hash table
   * [How to define hash tables in Bash?](https://stackoverflow.com/questions/1494178/how-to-define-hash-tables-in-bash)
 * expr
