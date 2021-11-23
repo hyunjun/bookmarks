@@ -202,6 +202,7 @@ Business
 * [잘못된 성과 지표의 위험 – Andrew Ahn](https://www.andrewahn.co/product/setting-wrong-metrics/)
 * [조직 문화: 직원들을 수동적 존재로 만들 것인가, 자기주도적인 인재로 만들 것인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/226677)
 * [우아한 조직 문화 이야기. ‘조직의 문화’ 라는 단어, 다소 광범위하고 모호한 단어입니다. 사전적… | by 주요한 | Next Blue | Aug, 2021 | Medium](https://medium.com/next-blue/%EC%9A%B0%EC%95%84%ED%95%9C-%EC%A1%B0%EC%A7%81-%EB%AC%B8%ED%99%94-%EC%9D%B4%EC%95%BC%EA%B8%B0-6b4d4a281f99)
+* [애자일한 기업을 만드는 6가지 원칙 · Present](https://present.do/shows/619adfba8eb0d57ea69ff3e7)
 * [내가 일하고 싶은 회사 만들기](https://brunch.co.kr/@yoon10003/44) 컬쳐북
 * [나는 회사에서 '프로'와 일하고 싶다](https://brunch.co.kr/@1slide1message/112)
 * [상거래 진화의 역사…실크로드에서 O2O까지](http://www.bloter.net/archives/241981)
