@@ -721,6 +721,7 @@ AWS
 * [Amazon EKS 업그레이드 - 유정열(당근마켓) , ECS와 컨테이너화 및 운영 - 김지민(AWS) :: 제20회 AWSKRUG Container모임 - YouTube](https://www.youtube.com/watch?v=BM8otOWxLO8)
 * [AWS EKS - VPC CNI 1편 - POD 통신](https://gasidaseo.notion.site/AWS-EKS-VPC-CNI-1-POD-f89e3e5967b24f8c9aa5bfaab1a82ceb)
 * [Observing gRPC-based Microservices on Amazon EKS running Istio | by Gary A. Stafford | ITNEXT](https://itnext.io/observing-grpc-based-microservices-on-amazon-eks-running-istio-77ba90dd8cc0)
+* [Amazon EKS 사용자도 Kubeflow를 잘 배포하고 싶습니다 | by Sungin Lee | Cloud Villains | Nov, 2021 | Medium](https://medium.com/ctc-mzc/amazon-eks-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%8F%84-kubeflow%EB%A5%BC-%EC%9E%98-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4-65f8189b86ad)
 * [EKS Anywhere](https://anywhere.eks.amazonaws.com/)
   * 아마존 EKS을 온프레미스 환경에서 설치해서 Kubernetes 클러스터를 운영할 수 있도록 아마존에서 EKS Anyware를 오픈소스로 공개
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
