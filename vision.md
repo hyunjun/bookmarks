@@ -386,6 +386,7 @@ Vision
 * [Pl@ntNet](https://github.com/plantnet)
   * [Identify flowers and trees with open source | Opensource.com](https://opensource.com/article/21/7/open-source-plantnet)
 * [Realtime Multi-Person Pose Estimation](https://github.com/ZheC/Realtime_Multi-Person_Pose_Estimation)
+* [Slic: Single line image classifier](https://github.com/seungson/Slic) 한 줄의 명령어로 필요한 이미지 데이터셋을 생성, 자동으로 다중 분류 모델 학습, 학습이 종료되면 즉시 api를 빌드 및 테스트 환경(localhost) 구축
 * [smile-more - Check your face and make sure you smile using Google Vision API](https://github.com/hunkim/smile_more)
 * [srez - Image super-resolution through deep learning](https://github.com/david-gpu/srez)
 * [Tencent ML Images released: 18 million training images with 11,000 categories](https://www.techleer.com/articles/573-tencent-ml-images-released-18-million-training-images-with-11000-categories/)
