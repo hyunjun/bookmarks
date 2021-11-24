@@ -628,7 +628,9 @@ Docker
   * [`docker rmi $(docker images -q -f "dangling=true")`](https://github.com/docker/docker/issues/18869)
 * run `sudo docker run [--rm|-d] -p hostPort:containerPort [name]`
   * `--detach` [Docker’s detached mode for beginners](https://medium.freecodecamp.org/dockers-detached-mode-for-beginners-c53095193ee9)
-  * `-m 32m` [Limit a container’s access to memory](https://docs.docker.com/engine/admin/resource_constraints/#limit-a-containers-access-to-memory)
+  * `-m 32m`
+    * [Limit a container’s access to memory](https://docs.docker.com/engine/admin/resource_constraints/#limit-a-containers-access-to-memory)
+    * [컨테이너 메모리 제한](https://jybaek.tistory.com/941)
   * `--net=host` to run as [host mode for network](https://docs.docker.com/network/host/)(default bridge)
     * Use the same port for host & container
       * ... -p 12345:80 ...(X)    (e.g. On Dockerfile `EXPOST 80` for apache server)
