@@ -946,6 +946,7 @@ App
       * [How can I reduce a video's size with ffmpeg? - Unix & Linux Stack Exchange](https://unix.stackexchange.com/questions/28803/how-can-i-reduce-a-videos-size-with-ffmpeg)
     * `ffmpeg -i <.mp4> [-ss 00:00:00 -to 00:11:26] -b:a 320K -vn <.mp3>`
       * [How can I convert MP4 video to MP3 audio with FFmpeg? - Super User](https://superuser.com/questions/332347/how-can-i-convert-mp4-video-to-mp3-audio-with-ffmpeg)
+    * [FFMPEG - 깊이있는 삽질 Ubuntu Korea Community Wiki](https://wiki.ubuntu-kr.org/index.php/FFMPEG)
     * [ffmpeg 자막입히기, 자막 위치 조정](http://kerberosj.tistory.com/233)
     * [FFMPEG processing](https://leanpub.com/ffmpeg/read_full)
     * [동영상 파일 미리보기 이미지로 쪼개기 – rein's world](https://rein.kr/blog/archives/4561)
