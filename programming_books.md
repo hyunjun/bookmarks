@@ -83,6 +83,7 @@ Programming Books
   * [처음 배우는 애저. 회사를 옮겼는데, 스타트업이 보통 그렇듯 회사 시스템은 전부 AWS에서… | by Jun | Nov, 2021 | Medium](https://nymets.medium.com/%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%95%A0%EC%A0%80-a27207be748f)
   * 2021.11.16
   * ★★★★☆
+* (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
 * (NOT YET) 앤서블 철저 입문
