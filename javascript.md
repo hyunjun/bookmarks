@@ -733,6 +733,7 @@ Javascript
 * [!!Con 2019- Tail Call Optimization: The Musical!! by Anjana Vakil & Natalia Margolis - YouTube](https://www.youtube.com/watch?v=-PX0BV9hGZY) 정말 재미있는 공연 + TCO 설명
 * [next.config.js 의 images.path와 assetPrefix](https://velog.io/@juunini/next.config.js-%EC%9D%98-images.path%EC%99%80-assetPrefix)
 * [카카오 비즈인프라FE파트 개발자는 어떻게 일할까? – 기술편 – tech.kakao.com](https://tech.kakao.com/2021/11/23/biz-infra-fe-01/)
+* [카카오 비즈인프라FE파트 개발자는 어떻게 일할까? – 업무&문화편 – tech.kakao.com](https://tech.kakao.com/2021/11/25/biz-infra-fe-02/)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
