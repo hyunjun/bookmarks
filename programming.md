@@ -484,6 +484,7 @@ Programming
 * [Putting the XP in Scrum • Roy Osherove • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=JtvSp3BPG8I)
 * [협업 조직에서 함께 앉기 구현하기](https://brunch.co.kr/@graypool/139) XP
 * [낭비를 막고 팀을 만드는 XP의 가치](https://brunch.co.kr/@graypool/240)
+* [XP의 제1가치는 의사소통](https://brunch.co.kr/@graypool/241)
 * [프로세스 개선이 현업에서 정착되려면](http://woowabros.github.io/woowabros/2017/04/18/process.html)
 * [회사에서 새로운 기술 적용하기](https://www.slideshare.net/junseokjung1/ss-76115779)
 * [개발자의 입장에서 본 버즈빌의 개발 문화: 애자일 소프트웨어 개발](https://brunch.co.kr/@mobiinside/868)
