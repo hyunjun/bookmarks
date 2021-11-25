@@ -1195,6 +1195,7 @@ Deep Learning
 * [Alias-Free GAN](https://nvlabs.github.io/alias-free-gan/)
   * [junjun3518/alias-free-torch: Simple torch.nn.module implementation of Alias-Free-GAN style filter and resample](https://github.com/junjun3518/alias-free-torch)
 * [Face2Webtoon](https://github.com/sangyun884/Face2Webtoon)
+* GauGAN [NVIDIA Research's GauGAN AI Art Demo Responds to Words | NVIDIA Blog](https://blogs.nvidia.com/blog/2021/11/22/gaugan2-ai-art-demo/)
 * [generative_inpainting: DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral](https://github.com/JiahuiYu/generative_inpainting)
   * [Image Inpainting](https://master-generative-inpainting-woomurf.endpoint.ainize.ai/)
   * [generative_inpainting: DeepFill v1/v2 with Contextual Attention and Gated Convolution, CVPR 2018, and ICCV 2019 Oral](https://ainize.ai/woomurf/generative_inpainting)
