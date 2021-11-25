@@ -107,6 +107,7 @@
 # Mac
 * [Visual Studio for Mac 설치하기](http://carrotcarrot.blog.me/220864151652)
 * [Using a Mac in a modern .NET world](https://medium.com/mledger/using-a-mac-in-a-modern-net-world-36297a87f664)
+* [맥OS 에서 불필요한 .NET SDK를 수동으로 제거하기 | Aliencube](https://blog.aliencube.org/ko/2021/11/24/removing-dotnet-sdks-from-macos-manually/)
 
 # Library
 * [Open Source .net libraries that make your life easier](http://thomasvm.github.io/blog/2015/03/17/open-source-net-libraries-that-make-your-life-easier/)
