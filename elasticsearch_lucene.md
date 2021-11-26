@@ -406,6 +406,7 @@ ElasticSearch - Lucene
 * [filebeat-scouter-module](https://github.com/eskrug/filebeat-scouter-module)
 * [엘라스틱서치와 추천 - More Like This 쿼리](https://onduway.tistory.com/101)
 * [Elastic Stack 7.14.1 자동 설치 - YouTube](https://www.youtube.com/watch?v=p3f7wUwSqdM)
+* [동의어로 Elasticsearch의 성능 강화 | Elastic Blog](https://www.elastic.co/kr/blog/boosting-the-power-of-elasticsearch-with-synonyms)
 
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)
