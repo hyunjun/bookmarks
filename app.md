@@ -1701,6 +1701,7 @@ App
 * [Creating my awesome Windows 10 dev setup | Chimerical](https://chimerical.ca/posts/creating-my-awesome-windows-10-dev-setup)
 * [This is Why Developers Embrace Microsoft Windows Again | by Erik van Baaren | Level Up Coding](https://levelup.gitconnected.com/this-is-why-developers-will-embrace-microsoft-windows-again-7437e494159d)
 * [Windows 10에서 hosts 파일 수정하기](https://offbyone.tistory.com/149)
+* [Windows 11에서 node-gyp 패키지 트러블슈팅하기 | Aliencube](https://blog.aliencube.org/ko/2021/11/26/troubleshooting-node-gyp-package-on-windows11/)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
