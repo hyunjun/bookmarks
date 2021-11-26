@@ -228,6 +228,7 @@ Git
 * [GitHub 보안 개선](https://jhrogue.blogspot.com/2021/11/github.html)
 * [Sergey Bronnikov - Git as a storage](https://bronevichok.ru/posts/git-as-a-storage.html)
 * [많은 사람들이 모르는 Github Organization Public](https://velog.io/@juunini/%EB%A7%8E%EC%9D%80-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EB%AA%A8%EB%A5%B4%EB%8A%94-Github-Organization-public)
+* [Github: 은근히 많이 쓰는 깃헙약어](https://hidekuma.github.io/github/abbreviation/abbreviation/)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
