@@ -44,3 +44,4 @@ Psychology
 * [욕망의 두 형태에 대한 대화](https://brunch.co.kr/@graypool/84)
 * [욕망의 두 형태에 대한 대화 II](https://brunch.co.kr/@graypool/85)
 * [PsychoPy - Psychology software in Python](http://www.psychopy.org/)
+* [미루는 습관은 귀차니즘보단 두려움에서 나온다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/247454)
