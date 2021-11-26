@@ -3116,6 +3116,7 @@ Javascript
 * [The Plan for React 18 – React Blog](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html)
   * React 18에는 자동 배칭, 스트리밍 서버 렌더링, 새로운 API 추가 예정이나 애플리케이션 코드를 거의 바꾸지 않고도 업그레이드 가능
 * [리액트 React 로 리팩토링! 웹 프론트엔드 개발자 모여라 | RIDIBOOKS web 1부 | 리디 RIDI dev. - YouTube](https://www.youtube.com/watch?v=6BG6O5F5dIs)
+* [React 컴포넌트 설계 방법 공개! 웹 코드 리팩토링 프로젝트 | RIDIBOOKS web 2부 | 리디 RIDI dev. - YouTube](https://www.youtube.com/watch?v=ofBhjQZeC0o)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
