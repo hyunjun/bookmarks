@@ -154,6 +154,7 @@ Artificial Intelligence
 * [서울대학교의 모두를 위한 AI 강연](https://tv.naver.com/aiis)
 * [모두를 위한 AI 강연(feat. 네이버) - YouTube](https://www.youtube.com/playlist?list=PLSY68sWRmr-O7G5X7mtjbb0e8N6DZammw)
 * [AI는 내친구 #25 KMOOC 비전공자를 위한 딥러닝 강의 예고 | KAIST AI STUDIO - YouTube](https://www.youtube.com/watch?v=8AYcP4y2GQc)
+* [최신 인공지능을 배울 수 있는 좋은 소스](https://brunch.co.kr/@gauss92tgrd/41)
 * [8 Best Free Courses to Learn AI (Artificial Intelligence) in 2021](https://www.mltut.com/best-free-courses-to-learn-ai/)
 * [alina.ai/courses/practical_dl_for_coders](http://alina.ai/courses/practical_dl_for_coders/) 코더들을 위한 실전 딥러닝 강의
 * [Artificial Intelligence Lecture Series](https://www.youtube.com/playlist?list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee)
