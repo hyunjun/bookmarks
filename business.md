@@ -220,6 +220,7 @@ Business
 * [대한민국 청년, 제발 창업 하지 마시라!](https://nyetedu.wordpress.com/2016/10/15/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EC%B2%AD%EB%85%84-%EC%A0%9C%EB%B0%9C-%EC%B0%BD%EC%97%85-%ED%95%98%EC%A7%80-%EB%A7%88%EC%8B%9C%EB%9D%BC/)
 * [SWOT 분석-가장 위험한 전략, 평균](https://brunch.co.kr/@rmfkdwy/8)
 * [대규모 AI 프로젝트 진행 노하우](https://brunch.co.kr/@graypool/69) 전략
+* [7 Powers: 전략의 본질](https://www.canda.blog/7-powers/)
 * [LINE이 이 세계에서 계속 지고 있는 진짜 이유](https://medium.com/@herulu/1%EB%B6%84%EC%9D%B4%EB%A9%B4-%EC%95%88%EB%8B%A4-line%EC%9D%B4-%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C-%EA%B3%84%EC%86%8D-%EC%A7%80%EB%8A%94-%EC%A7%84%EC%A7%9C-%EC%9D%B4%EC%9C%A0-1a46ae9c1f72)
 * [그로스 해킹의 기본: gamification](http://www.andrewahn.co/product/gamification/)
 * [Growth hacking · Present](https://present.do/shows/616c3fed704425458cfce0f3)
@@ -541,6 +542,7 @@ Business
 * [스타트업에서 CTO의 역할 | Popit](https://www.popit.kr/%ec%8a%a4%ed%83%80%ed%8a%b8%ec%97%85%ec%97%90%ec%84%9c-cto%ec%9d%98-%ec%97%ad%ed%95%a0/)
 * [디지털 변혁 위한 기술 전략을 수립… 'CTO' 직위의 이해 - CIO Korea](https://www.ciokorea.com/news/206349)
 * [넷마블 게임을 만드는 CTO, 어떻게 일할까?](https://www.folin.co/story/1946) 비개발자들에게 이야기하기도 좋은 내용
+* [1년 만에 스타트업 개발문화를 완전 바꾸며 기술특례상장으로 이끌기까지: 어반베이스 방현우 CTO 인터뷰 | ㅍㅍㅅㅅ](https://ppss.kr/archives/247861)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
