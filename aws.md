@@ -1230,6 +1230,7 @@ AWS
   * 기존 AWS 프로바이더보다 AWS의 새 서비스를 더 빠르게 지원 가능할 거라고 기대
   * 이 새 프로바이더는 기존 AWS 프로바이더와 함께 사용할 수 있고 기존 AWS 프로바이더도 계속 관리
 * [Failing Faster with Terraform - The Scale Factory](https://scalefactory.com/blog/2021/10/13/failing-faster-with-terraform/)
+* [Terraform Cheat Sheet – techbeatly](https://www.techbeatly.com/terraform-cheat-sheet/)
 
 # Tutorial
 * [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
