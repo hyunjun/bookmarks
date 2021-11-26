@@ -953,6 +953,7 @@ Programming
 * [Hexagonal Architecture](https://blog.imqa.io/hexagonal-architecture/)
 * [How To Make Your App Maintainable (hint: Adopt Hexagonal Architecture) - YouTube](https://www.youtube.com/watch?v=92ZJcxJgmmE)
 * [**지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture/) hexagonal or ports and adapters
+* [헤드리스 커머스와 SW 아키텍처](https://brunch.co.kr/@graypool/256)
 * [**계층형 아키텍처**](https://jojoldu.tistory.com/603)
 * [마이크로서비스 내부아키텍처 - 1회 : 데이터 중심 아키텍처의 문제점 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/microservice%20inner%20achitecture/inner-architecture-1/)
 * [마이크로서비스 내부아키텍처 - 2회 : 클린 아키텍처와 헥사고널 아키텍처 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/microservice%20inner%20achitecture/inner-architecture-2/)
@@ -1543,6 +1544,7 @@ Programming
 * [SQLD 실습용 오라클 클라우드 DB 생성하기](https://stricky.tistory.com/344)
 * [Oracle Cloud 방화벽 설정 (http/https 특정 포트 열기)](https://kibua20.tistory.com/124)
 * [오라클 클라우드 무료 인스턴스를 활용한 VPN 서버 구축하기 : 클리앙](https://www.clien.net/service/board/lecture/15587467?type=recommend)
+* [OCI 탐험일지 시작!](https://jhrogue.blogspot.com/2021/11/oci.html)
 * [클라우드 우분투에 gui로 원격 연결하기](https://evols-atirev.tistory.com/27)
 * [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
 * [‘역설투성이'··· 우리가 클라우드를 싫어하는 11가지 이유 - CIO Korea](https://www.ciokorea.com/news/177989)
@@ -1573,6 +1575,7 @@ Programming
 * [Will Cloudflare R2 Win Customers from Amazon S3? | Taloflow](https://www.taloflow.ai/blog/will-cloudflare-r2-win-customers-from-amazon-s3)
 * [마이크로소프트 애저 클라우드 취약점이 알려주는 클라우드 보안의 4가지 교훈 - ITWorld Korea](https://www.itworld.co.kr/news/209414)
 * [‘AWS, GCP, 애저와의 협상’··· 기억해야 할 6가지 위험 - CIO Korea](https://www.ciokorea.com/news/212549)
+* [GSSHOP Mobile/Web 채널서비스의 클라우드 이관 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/8)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
