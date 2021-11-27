@@ -564,6 +564,7 @@ C
 * [C Lang 이론 카테고리 목록](https://lypicfa.tistory.com/555)
 * [The Descent to C](https://www.chiark.greenend.org.uk/~sgtatham/cdescent/)
 * [C언어 기초 CURSE Hello, World 출력하기](https://www.jiwon.me/hello-world/)
+* [42_CheatSheet: A comprehensive guide to 50 years of evolution of strict C programming, a tribute to Dennis Ritchie's language](https://github.com/agavrel/42_CheatSheet)
 
 # Web
 * [**나만의 웹서버 구현해보기!**](https://velog.io/@seanlion/webserver)
