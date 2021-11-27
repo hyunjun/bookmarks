@@ -89,6 +89,7 @@ Linux
 * [net-rw/nf-tinyacl: Netfilter based ACL kernel module under Network stacks for studying](https://github.com/net-rw/nf-tinyacl)
 * [Scaling Linux Services: Before accepting connections](https://theojulienne.io/2020/07/03/scaling-linux-services-before-accepting-connections.html)
 * [kkamagui의 작업실 :: 랜덤한 패스워드 생성하기](https://kkamagui.tistory.com/926) `head /dev/urandom | tr -dc A-Za-z0-9 | head -c 32 ; echo ''`
+* [Secure development: New and improved Linux Random Number Generator ready for testing | The Daily Swig](https://portswigger.net/daily-swig/secure-development-new-and-improved-linux-random-number-generator-ready-for-testing) /dev/random
 * [LIBGUESTFS Tutorial | Give yourself power to manage any Operating System/Virtual Machine (VM) image - YouTube](https://www.youtube.com/watch?v=tWPC-YER1I0)
 * [Use libguestfs to manage virtual machine disk images | Enable Sysadmin](https://www.redhat.com/sysadmin/libguestfs-manage-vm)
 * [Sandboxing and Workload Isolation · Fly](https://fly.io/blog/sandboxing-and-workload-isolation/)
@@ -423,6 +424,8 @@ Linux
 * [What Linux Version Am I Running? Here's How to Find Out](https://linuxiac.com/what-linux-version/)
 * [신입 or Jr 엔지니어 면접을 위한 리눅스 명령어 top 10 - YouTube](https://www.youtube.com/watch?v=u9RukvKZJZM)
 * [7 Linux commands to use just for fun | Opensource.com](https://opensource.com/article/21/11/fun-linux-commands)
+* [An intro to finding things in Linux](https://www.madebygps.com/an-intro-to-finding-things-in-linux/) locate whereis which find
+* [4 Linux tools to erase your data | Opensource.com](https://opensource.com/article/21/10/linux-tools-erase-data)
 * `at`
   * [practice - at](https://gist.github.com/hyunjun/f2a15bf2de9ed8cce7a0dc87ed16d839#file-atq-md)
   * [Linux tip: Job scheduling with cron and at](http://www.ibm.com/developerworks/library/l-job-scheduling/)
@@ -665,6 +668,7 @@ Linux
   * [터미널에서 현재 디렉토리를 클립보드로 복사하기](http://www.appilogue.kr/2844595)
 * `ping`
   * [The Story of the PING Program](http://ftp.arl.army.mil/~mike/ping.html)
+  * [Diagnose connectivity issues with the Linux ping command | Opensource.com](https://opensource.com/article/21/10/linux-ping-command)
   * [prettyping is a wrapper around the standard ping tool with the objective of making the output prettier, more colorful, more compact, and easier to read](http://denilson.sa.nom.br/prettyping/)
 * pipe
   * [Persistent "pipes" in Linux](https://gist.github.com/CAFxX/571a1558db9a7b393579)
@@ -773,6 +777,7 @@ Linux
   * [SSH Emergency Access](https://smallstep.com/blog/ssh-emergency-access/)
   * [Private/Public 키 쉽게 다루기 - YouTube](https://www.youtube.com/watch?v=cKfd_BmJzHE)
   * [Simple SSH Security | Disk Notifier](https://disknotifier.com/blog/simple-ssh-security/)
+  * [It's Now Possible To Sign Arbitrary Data With Your SSH Keys](https://www.agwa.name/blog/post/ssh_signatures)
   * [endlessh: SSH tarpit that slowly sends an endless banner](https://github.com/skeeto/endlessh)
   * [lazyssh: A jump-host SSH server that starts machines on-demand](https://github.com/stephank/lazyssh)
   * OpenSSH [How to List Unsuccessful SSH Logins on Linux](https://www.howtoforge.com/how-to-list-unsuccessful-ssh-logins)
@@ -884,6 +889,8 @@ Linux
   * [watch 명령을 이용한 linux 시스템 모니터링](https://www.sharedit.co.kr/posts/2000)
 * `wc`
   * `wc -c <file>`  [How to check size of a file?](http://stackoverflow.com/questions/5920333/how-to-check-size-of-a-file)
+* `wget`
+  * [7 handy tricks for using the Linux wget command | Opensource.com](https://opensource.com/article/21/10/linux-wget-command)
 * `xargs`
   * [10 Xargs Command Examples in Linux / UNIX](https://www.thegeekstuff.com/2013/12/xargs-examples/)
   * [xargs를 사용하여 이름에 공백과 따옴표가있는 파일을 복사하려면 어떻게해야합니까?](https://ko.programqa.com/question/143171/)
@@ -1059,6 +1066,7 @@ Linux
 * [Lightning is a tool designed to allow you to find and open files as fast as physically possible](https://github.com/fouric/lightning-cd)
 * [Linuxbrew - a fork of Homebrew, the Mac OS package manager, for Linux](https://github.com/Linuxbrew/brew)
   * [Linuxbrew A fork of Homebrew for Linux](http://brew.sh/linuxbrew/)
+  * [리눅스와 맥에서 홈브루를 이용해 패키지를 설치하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/212694)
 * [loadlibrary - Porting Windows Dynamic Link Libraries to Linux](https://github.com/taviso/loadlibrary)
 * [Localtunnel ~ Expose yourself to the world](https://localtunnel.github.io/www/)
   * [localtunnel: expose yourself](https://github.com/localtunnel/localtunnel)
@@ -1147,6 +1155,7 @@ Linux
 * [8 Commands to Check Memory Usage on Linux](https://www.2daygeek.com/linux-commands-check-memory-usage/)
 * [How to measure Linux Performance Avoiding Most Typical Mistakes: Memory](https://ma.ttias.be/how-to-measure-linux-performance-avoiding-most-typical-mistakes-memory/)
 * [How Much Memory Does the Process Really Take on Linux? - Percona Database Performance Blog](https://www.percona.com/blog/2020/09/11/how-much-memory-does-the-process-really-take-on-linux/)
+* smem [Get memory use statistics with this Linux command-line tool | Opensource.com](https://opensource.com/article/21/10/memory-stats-linux-smem)
 * `systemd-cgtop` [Find memory used by Services](https://www.linuxquestions.org/questions/linux-newbie-8/find-memory-used-by-services-4175619662/)
 
 # Network
