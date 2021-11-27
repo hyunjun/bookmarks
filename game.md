@@ -79,6 +79,7 @@ Game
 * [EnTT - a header-only, tiny and easy to use library for game programming and much more written in modern C++, mainly known for its innovative entity-component-system (ECS) model](https://github.com/skypjack/entt)
 * [Game - A list of popular/awesome videos games, add-ons, maps, etc. hosted on GitHub. Any genre. Any platform. Any engine](https://github.com/leereilly/games)
 * [greasyphone - Play NES using smartphones as joypads](https://github.com/olahol/greasyphone#greasyphone)
+* [Invaders: Space Invaders clone, written in Java](https://github.com/RobertoIA/Invaders)
 * [Kaboom!! - a fun JavaScript game programming library & environment](https://replit.com/kaboom)
 * [Kaboom: an unusual Minesweeper](https://pwmarcz.pl/blog/kaboom/)
 * [LDtk by Deepnight Games](https://deepnight.itch.io/ldtk)
