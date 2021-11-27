@@ -132,6 +132,7 @@ Bitcoin
 * [블록체인을 어디에 쓸까? 왜 중요하다고 하는걸까?](https://velog.io/@couchcoding/%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8%EC%9D%B4-%EC%99%9C-%ED%95%B5%EC%8B%AC%EC%9D%BC%EA%B9%8C-%EC%96%B4%EB%94%94%EC%97%90-%EC%93%B8-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C)
 * [문과생 개발자가 떠먹여주는 블록체인) E01-1 간단한 컨트렉트 짜보기 - YouTube](https://www.youtube.com/watch?v=piz1Qsmo4_Q)
 * [오라클 블록체인 아키텍처 살펴보기](https://jhrogue.blogspot.com/2021/11/blog-post.html)
+* [Solutions for Testing Blockchain: Private Blockchains, Permutations, and Shifting Left](https://www.infoq.com/articles/testing-blockchain-solutions/)
 
 ## Blockchain Javascript
 * [Learn Blockchains by Building One](https://github.com/pjt3591oo/blockchain-javascript)
@@ -192,6 +193,8 @@ Bitcoin
 * [Filecoin is a data storage network and electronic currency based on Bitcoin](http://filecoin.io/)
 * [Jade Service Runner - A Bridge for Decentralized Service Development](https://hackernoon.com/jade-service-runner-bd5ca222b7fc)
 * [Jetcoin Reference Implementation https://jetcoin.org](https://github.com/jetcoins/jetcoin)
+* [mako: Bitcoin node written in C](https://github.com/chjj/mako)
+  * [Mako - C로 작성된 완전한 비트코인 구현체 | GeekNews](https://news.hada.io/topic?id=5389)
 * Polkadot.js [How Polkadot.js Lets You Connect Infinite Parachains](https://medium.com/hackernoon/how-polkadot-js-lets-you-connect-infinite-parachains-9afb13ba7396)
 * [Orisi - an open source framework for Bitcoin smart contracts](http://orisi.org/about)
 * [Qeditas: A Formal Library as a Bitcoin Spin-Of](http://qeditas.org/qeditas.pdf)
@@ -207,6 +210,7 @@ Bitcoin
 * [크립토좀비 Chapter02) NFT 기반 좀비게임을 만들면서 익히는 누구나 할 수 있는 블록체인 코딩! 솔리디티 함수를 만들어 보면서 좀비에게 공격하는 기능 구현해 보기 - YouTube](https://www.youtube.com/watch?v=8ez2wx-ZqL8)
 * [NFT, 혁신일까요 사기일까요 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/nft20211018)
 * [NFT가 갖는 소유라는 의미의 진실과 오해](https://brunch.co.kr/@delight412/423)
+* [초등학생도 이해하는 NFT 따라하기 - CoinDesk Korea 신뢰 그 이상의 가치](http://www.coindeskkorea.com/news/articleView.html?idxno=76262)
 
 # Python
 * [A peek under Bitcoin's hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
