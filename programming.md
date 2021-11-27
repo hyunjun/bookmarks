@@ -298,6 +298,7 @@ Programming
 * [How to be a successful software engineer](https://medium.freecodecamp.org/how-to-be-a-successful-software-engineer-6f82a5b1a82e)
 * [The 7 Biggest Lessons I’ve Learned By Building A Twitter Bot](https://hackernoon.com/the-7-biggest-lessons-ive-learned-by-building-a-twitter-bot-59fee84a9ed9)
 * [66 Lessons from 50 Years of Software Experience](https://medium.com/swlh/62-lessons-from-50-years-of-software-experience-2db0f400f706)
+* [**42 things I learned from building a production database | mahesh’s blog**](https://maheshba.bitbucket.io/blog/2021/10/19/42Things.html)
 * [Procedural Programming: It's Back? It Never Went Away](https://www.youtube.com/watch?v=eEBOvqMfPoI)
 * [번역 나는 어떻게 더 나은 프로그래머가 되었는가](https://adhrinae.github.io/posts/how-i-became-a-better-programmer-kr/)
 * [번역 더 나은 개발자가 되는 8 가지 방법](https://medium.com/@mnpk/%EB%B2%88%EC%97%AD-%EB%8D%94-%EB%82%98%EC%9D%80-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EB%8A%94-8-%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95-45ea6cd70114)
@@ -377,6 +378,8 @@ Programming
 * [쉽게 살 수 있을까 ? :: DevRel 이란?](https://hl1itj.tistory.com/221)
 * [The origin of complexity](https://itnext.io/the-origin-of-complexity-8ecb39130fc)
 * [Decrease complexity by separating Code from Data](https://blog.klipse.tech/databook/2020/10/30/data-book-chap2-part1.html)
+* [wily: A Python application for tracking, reporting on timing and complexity in Python code](https://github.com/tonybaloney/wily)
+  * [A Python application for tracking, reporting on timing and complexity in Python code](https://pythonawesome.com/a-python-application-for-tracking-reporting-on-timing-and-complexity-in-python-code/)
 * ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [**문제를 해결할 때 사고가 중요한 이유**](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems/) 다 아는 이야기이지만 문제 해결을 위해 어떻게 접근하는지에 대한 흐름을 자세히 설명한 글
 * [프레임워크 공부를 멈춰라](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474) 기본에 충실하자는 이야기
@@ -440,6 +443,8 @@ Programming
 * [Building the Metaverse](https://www.slideshare.net/jradoff/building-the-metaverse-248941223)
 * [The Metaverse is Coming - Are You Ready? · Present](https://present.do/decks/60f79e5934f983173391e91d)
 * [WorkAdventure - 오픈소스 메타버스 플랫폼 소프트웨어 | GeekNews](https://news.hada.io/topic?id=4823)
+* [DeepDive 강정수 박사의 '메타버스 핵심 읽기'](https://c-rocket.net/deepdive_deepclass-1/)
+  * [메타버스 핵심 읽기 | GeekNews](https://news.hada.io/topic?id=5420)
 * [A System for Detecting Software Similarity](http://theory.stanford.edu/~aiken/moss/)
 * [How to Learn Complex Things Quickly: A Guide](https://product.hubspot.com/blog/how-to-learn-complex-things-quickly)
 * [23 Active Software Engineering Publications on Medium | by Anupam Chugh | Mar, 2021 | Better Programming](https://betterprogramming.pub/23-active-software-engineering-publications-on-medium-a17484223b9a) engineering blog
@@ -464,6 +469,7 @@ Programming
   * [업계에서 6년 있은 뒤, 마음이 바뀐 소프트웨어 개발 토픽들 | GeekNews](https://news.hada.io/topic?id=3635) 매우 좋은 글. 대부분 동의함
 * [Unpaywall - 오픈 액세스 논문 검색엔진 | GeekNews](https://news.hada.io/topic?id=4786)
 * [Zip - How not to design a file format](https://games.greggman.com/game/zip-rant/)
+* [Firefox's Optimized Zip Format: Reading Zip Files Really Quickly - Perf and other stuff](https://taras.glek.net/post/optimized-zip-format/)
 * [hop](https://github.com/Jarred-Sumner/hop) Simple archive format designed for quickly reading some files without extracting the entire archive
 * [APEX 사례로 보는 Low Code](https://jhrogue.blogspot.com/2021/09/apex-low-code.html)
 * [글로벌 칼럼 | 유지보수를 위한 다운타임, '유지보수 윈도우'는 정당화할 수 없다 - ITWorld Korea](https://www.itworld.co.kr/news/209072) 가용성, availability
@@ -598,6 +604,7 @@ Programming
 * [애자일 책들에서 이야기 해주지 않지만](https://brunch.co.kr/@jinhoyooephf/24)
 * [지라 쓰는게 애자일 아니라고 했어 안했어?! if(kakao) 2021](https://if.kakao.com/session/31)
 * [협업도구와 올인원 워크스페이스](https://jojoldu.tistory.com/616) notion에 대한 단상? 일종의 단점?
+* [Help! I’m trapped in an Agile Terminology Charade! | by Sjoerd Nijland | Serious Scrum](https://medium.com/serious-scrum/the-unmistakable-signs-you-are-participating-in-fake-agile-theater-a7d1bd6a5dbc)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -890,12 +897,15 @@ Programming
   * [Five Great (free!) Ways to Get Started With Cloudflare](https://blog.cloudflare.com/five-free-ways-to-get-started-with-cloudflare/)
   * [Durable Objects — now Generally Available](https://blog.cloudflare.com/durable-objects-ga/)
     * Cloudflare에서 CDN 엣지에서 실행되는 워커 간에 상태를 관리하는 stateful serverless 서비스인 Durable Objects를 작년 발표, 이번에 공개
+  * [Build your next video application on Cloudflare](https://blog.cloudflare.com/build-video-applications-cloudflare/)
+  * [Building a full stack application with Cloudflare Pages](https://blog.cloudflare.com/building-full-stack-with-pages/)
   * [JVM and cache warm-up strategy for high traffic services](https://medium.com/teads-engineering/jvm-and-cache-warm-up-strategy-for-high-traffic-services-4b5016f8b565)
   * [스파게티 조인을 피하고 경계안에서 캐시 구현하기](https://www.popit.kr/스파게티-조인을-피하고-경계안에서-캐시-구현하기) operation cache, BoundedContext
   * [Myths Programmers Believe about CPU Caches](https://software.rajivprab.com/2018/04/29/myths-programmers-believe-about-cpu-caches/)
   * [집합 연관 캐시(Set-Associative Cache)의 구조 및 동작 원리](https://kkamagui.tistory.com/917)
   * [HTTP Caching에 대해서 정리해 봅니다](https://developer88.tistory.com/319)
   * [FAST '21 - Keynote Address: Netflix: Streaming Entertainment to 200 Million Members Around the World - YouTube](https://www.youtube.com/watch?v=mpLsAm557-o)
+  * [blueboat: Blueboat is an open-source alternative to Cloudflare Workers. The monolithic engine for serverless web apps.](https://github.com/losfair/blueboat)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
 * [Actors or Not: Async Event Architectures](https://www.youtube.com/watch?v=FM_wuZj83-8)
@@ -1039,6 +1049,8 @@ Programming
 * [How Pokémon GO scales to millions of requests? | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/how-pok%C3%A9mon-go-scales-millions-requests)
 * [Designing a Software Architecture from Scratch - YouTube](https://www.youtube.com/watch?v=cbGSEwOAH6E)
 * [The Endless Pursuit Of Scale At LinkedIn](https://www.nextplatform.com/2021/09/15/the-endless-pursuit-of-scale-at-linkedin/)
+* [Simplifying Dealing with Legacy Systems | by Ibrahim Alraigi | Nov, 2021 | Medium](https://medium.com/@ibra7am/simplifying-dealing-with-legacy-systems-ed29758f69f7)
+* [Data-Oriented Architecture | Eyas's Blog](https://blog.eyas.sh/2020/03/data-oriented-architecture/)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
@@ -1248,6 +1260,7 @@ Programming
 * [Istio #3 - Istio에 대한 소개](http://bcho.tistory.com/1296)
 * [Istio #4 - 설치 및 BookInfo 예제](http://bcho.tistory.com/1297)
 * [Istio Traffic management](https://bcho.tistory.com/1367)
+* [Back to Microservices with Istio (Part 1) | by Rinor Maloku | Google Cloud - Community | Medium](https://medium.com/google-cloud/back-to-microservices-with-istio-p1-827c872daa53)
 * [Why IT Ticketing Systems Don’t Work with Microservices](https://blog.getambassador.io/why-it-ticketing-systems-dont-work-with-microservices-18e2be509bf6)
 * [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a)
 * [From Application Integration to Microservices Architecture: a Pragmatic Approach](https://medium.com/@teivah/from-application-integration-to-microservices-architecture-a-pragmatic-approach-ac210c2c2045)
@@ -1377,6 +1390,10 @@ Programming
 * [소프트웨어 설계 및 디자인 트렌드로 알아본 MSA](https://brunch.co.kr/@synabreu/149)
 * [Minimizing Design Time Coupling in a Microservice Architecture - YouTube](https://www.youtube.com/watch?v=EGOYRuuf2nQ)
 * [Micro/Mini/Macro Services :: GS Retail Engineering](https://gsretail.tistory.com/1)
+* [Microservices and Agile made wrong | by Bruno Tinoco | Oct, 2021 | Medium](https://medium.com/@brunocrt/microservices-and-agile-made-wrong-66e4ea55782f)
+* [Migrating Data-Intensive, High-Throughput APIs to Microservices | by Maggie Lou | Thumbtack Engineering | Nov, 2021 | Medium](https://medium.com/thumbtack-engineering/migrating-data-intensive-high-throughput-apis-to-microservices-9624939f9cee)
+* [Scaling productivity on microservices at Lyft (Part 1) | by Garrett Heel | Nov, 2021 | Lyft Engineering](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-1-a2f5d9a77813)
+* [Microservices, reasoning about boundaries | by Andras Gerlits | Nov, 2021 | ITNEXT](https://itnext.io/microservices-reasoning-about-boundaries-8da26c0271cb)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -1576,6 +1593,7 @@ Programming
 * [마이크로소프트 애저 클라우드 취약점이 알려주는 클라우드 보안의 4가지 교훈 - ITWorld Korea](https://www.itworld.co.kr/news/209414)
 * [‘AWS, GCP, 애저와의 협상’··· 기억해야 할 6가지 위험 - CIO Korea](https://www.ciokorea.com/news/212549)
 * [GSSHOP Mobile/Web 채널서비스의 클라우드 이관 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/8)
+* [“클라우드가 컴퓨터인 세상, 웹 앱과 API 보안의 현실 직시하라” 퀄시스 - CIO Korea](https://www.ciokorea.com/news/216049)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -2163,6 +2181,7 @@ Programming
   * [ots - 1회성 URL로 e2e 암호화된 Secret 공유하기 | GeekNews](https://news.hada.io/topic?id=4799)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
 * [Sigstore](https://www.sigstore.dev/) signing, verifying and protecting software
+* SSRF ["서버를 속여 공격한다" SSRF 공격의 동작 방식과 대처법 - ITWorld Korea](https://www.itworld.co.kr/news/211794)
 
 # Data Mesh
 * [Future of Data Engineering](https://www.infoq.com/presentations/data-engineering-pipelines-warehouses/)
@@ -2197,6 +2216,7 @@ Programming
 * [Reasons why bugs might feel "impossible"](https://jvns.ca/blog/2021/06/08/reasons-why-bugs-might-feel-impossible/)
 * [Where Should the Debugger Set a Breakpoint?](https://pernos.co/blog/function-prologues/)
 * [개발자 동무, 철의 장막 뒤에서 디버깅 하기 | edykim](https://edykim.com/ko/post/debugging-behind-the-iron-curtain/)
+* [Debugging memory corruption: who the hell writes “2” into my stack?! | Unity Blog](https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2)
 * Ozcode [Debugging Solutions from Dev to Production - Ozcode](https://oz-code.com/)
   * [Advanced Techniques for Production Debugging - YouTube](https://www.youtube.com/watch?v=eghHZvffilA)
 
@@ -2315,10 +2335,11 @@ Programming
 # Image
 * [이미지 최적화 자동화하기](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/?hl=ko)
 * [Image Formats, Performance and Cognitive Load](https://www.infoq.com/presentations/image-formats-performance/)
-* [iconvg: IconVG is a compact, binary format for simple vector graphics: icons, logos, glyphs and emoji](https://github.com/google/iconvg)
 * [jpeg.md at master · corkami/formats](https://github.com/corkami/formats/blob/master/image/jpeg.md)
 * [Finally understanding PNG | Compress-Or-Die](https://compress-or-die.com/Understanding-PNG)
 * [Boosting image processing performance, from ImageMagick to Libvips | by Dimitri Bouron | Criteo R&D Blog | Medium](https://medium.com/criteo-engineering/boosting-image-processing-performance-from-imagemagick-to-libvips-268cc3451d55)
+* [Why Your Website Should Not Use Dithered Images - Simple Thread](https://www.simplethread.com/why-your-website-should-not-use-dithered-images/)
+* [iconvg: IconVG is a compact, binary format for simple vector graphics: icons, logos, glyphs and emoji](https://github.com/google/iconvg)
 
 # Infrastructure
 * [IT인프라 전문가 되기](https://brunch.co.kr/magazine/it-infra)
@@ -3567,6 +3588,7 @@ Programming
 * [Windows: 176. Raymond Chen이 한글날에 밝히는 윈도우의 한글 자모 분리 현상](https://www.sysnet.pe.kr/2/0/12369)
 * [Ridiculously fast unicode (UTF-8) validation – Daniel Lemire's blog](https://lemire.me/blog/2020/10/20/ridiculously-fast-unicode-utf-8-validation/)
 * [Unicode sorting is hard & why browsers added special emoji matching to regexp](https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching)
+* [글자수를 세는 7가지 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/the-7-ways-of-counting-characters/)
 * convmv
   * [convert between NFC and NFD Unicode normalization (e.g. for Korean)](https://gist.github.com/kjoonlee/326b8f42e39bcc045e9932fef5511031)
   * [macOS: convmv 를 사용한 유니코드 문제(풀어쓰기) 해결(?) – 바깥 세상으로](https://www.nemonein.xyz/2019/03/1850/)
