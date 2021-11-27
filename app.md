@@ -733,6 +733,7 @@ App
       * [VSCode의 Jupyter Extension을 사용하여 간단하게 Python으로 데이터 시각화하기 : NHN Cloud Meetup](https://meetup.toast.com/posts/283) 데이터 통계 및 시각화
       * [VS Code Python Tool Revamps Jupyter Notebooks Experience -- Visual Studio Magazine](https://visualstudiomagazine.com/articles/2021/08/09/vs-code-python-aug21.aspx)
       * [16 Reasons to Use VS Code for Developing Jupyter Notebooks - Practical Business Python](https://pbpython.com/vscode-notebooks.html)
+      * [Advanced Visual Studio Code for Python Developers – Real Python](https://realpython.com/advanced-visual-studio-code-python/)
     * remote
       * [마이크로소프트 비주얼 스튜디오 코드, 원격 개발 기능 지원](https://www.44bits.io/ko/post/news--vs-code-now-supports-remote-development)
       * [Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
@@ -762,6 +763,7 @@ App
 * [DeckDeckGo - The Progressive Web App alternative for simple presentations https://deckdeckgo.com ](https://github.com/deckgo/deckdeckgo)
   * [We are developing an open source editor for presentations](https://hackernoon.com/we-are-developing-an-open-source-editor-for-presentations-9cfc69571133)
 * [Frame-Based Editing](http://www.greenfoot.org/frames/)
+* [jEdit - Programmer's Text Editor - overview](http://www.jedit.org/)
 * [Kakoune code editor - Vim inspired · Faster as in less keystrokes · Multiple selections · Orthogonal design](http://kakoune.org/)
   * [kakoune - mawww's experiment for a better code editor](https://github.com/mawww/kakoune)
 * [Micro - a modern and intuitive terminal-based text editor](https://micro-editor.github.io/)
