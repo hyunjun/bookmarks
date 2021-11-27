@@ -779,6 +779,8 @@ Go
 * [Buffalo – Rapid Web Development in Go](https://gobuffalo.io/en/)
   * [Go언어로 백엔드 뿐만 아니라 프런트엔드까지~](https://open-support.tistory.com/entry/Go%EC%96%B8%EC%96%B4%EB%A1%9C-%EB%B0%B1%EC%97%94%EB%93%9C-%EB%BF%90%EB%A7%8C-%EC%95%84%EB%8B%88%EB%9D%BC-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C%EA%B9%8C%EC%A7%80)
 * [caddy: Fast, multi-platform web server with automatic HTTPS](https://github.com/caddyserver/caddy)
+* [caffeine: A very basic REST service for JSON data - enough for prototyping and MVPs!](https://github.com/rehacktive/caffeine)
+  * [Caffeine - Minimum Viable Backend 오픈소스 | GeekNews](https://news.hada.io/topic?id=5425)
 * [Echo - High performance, extensible, minimalist Go web framework](https://echo.labstack.com/)
 * [Gin - a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin. https://gin-gonic.com ](https://github.com/gin-gonic/gin)
   * [Go 언어의 웹 프레임워크 Gin 사용하기](https://blog.outsider.ne.kr/1371)
