@@ -344,6 +344,7 @@ Python
 * [Write Better Python Code With These 10 Tricks | by Yong Cui, Ph.D. | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/write-better-python-code-with-these-10-tricks-30b7018e247a)
 * [**7 Python Tricks You Should Know. Impress your friends with these useful… | by Nabilah Abu Bakar | Better Programming | Medium**](https://medium.com/better-programming/7-python-tricks-you-should-know-bdaa98b866f2) YouTube-Dl, Pdb, PyInstaller, Tqdm, Colorama, Tabulate, Ptpython
 * [**Interesting Python Tips and Tricks | by Ravi | Analytics Vidhya | Sep, 2020 | Medium**](https://medium.com/analytics-vidhya/interesting-python-tips-and-tricks-6d033967b5a5)
+* [Here are some tips to speed up your Python program | by Anh T. Dang | Nov, 2021 | Level Up Coding](https://levelup.gitconnected.com/here-are-some-tips-to-speed-up-your-python-program-e47257b4e6d3)
 * [Python One-Liners Playlist - YouTube](https://www.youtube.com/playlist?list=PLbo6ydLr984aS6A2_vNNLtX_1_MbGMTU9)
 * [What are some one liners in Python that would take a hundred in C? - Quora](https://www.quora.com/What-are-some-one-liners-in-Python-that-would-take-a-hundred-in-C)
 * [18 Python scripts that help you write code faster](https://morioh.com/p/4f4b74ba17cc)
@@ -1075,6 +1076,7 @@ Python
     * [Using Locks to Prevent Data Races in Threads in Python | by Rachit Tayal | Python Features | Medium](https://medium.com/python-features/using-locks-to-prevent-data-races-in-threads-in-python-b03dfcfbadd6)
     * [Threads in Python. The basics. | by Keno Leon | Medium](https://medium.com/@k3no/threads-in-python-420fccf9bde5)
     * [Threads in Python: Speed Up Python With Concurrency - YouTube](https://www.youtube.com/watch?v=OtdL6jeyEE4)
+    * [Python threads synchronization: Locks, RLocks, Semaphores, Conditions and Queues – Laurent Luce's Blog](http://www.laurentluce.com/posts/python-threads-synchronization-locks-rlocks-semaphores-conditions-events-and-queues/)
 * namedtuple
   * [Improving your code readability with namedtuples](https://python-programming.courses/pythonic/improving-your-code-readability-with-namedtuples/)
   * [typing.NamedTuple](http://mkseo.pe.kr/blog/?p=2699)
@@ -2265,6 +2267,7 @@ Python
 * [How to Write Complicated Queries in Django With F Expressions - YouTube](https://www.youtube.com/watch?v=zhejsCxIVro)
 * [How to Perform Full Text Searches in Django With Postgres - YouTube](https://www.youtube.com/watch?v=139a0fm0YFY)
 * [Django를 Django답게, Django로 뉴스 사이트 만들기](https://www.slideshare.net/perhapsspy/django-django-django)
+* [Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Doctor - Django code improvement bot](https://django.doctor/challenge)
@@ -3396,6 +3399,8 @@ Python
 * [Opnieuw: A simple and intuitive retrying library for Python](https://tech.channable.com/posts/2020-02-05-opnieuw.html)
 * [Orator - AN ACTIVERECORD ORM FOR PYTHON](http://orator-orm.com/)
 * orfipy [A python tool to extract ORFs in an extremely and fast and flexible manner](https://pythonawesome.com/a-python-tool-to-extract-orfs-in-an-extremely-and-fast-and-flexible-manner/)
+* [Oso Documentation](https://docs.osohq.com/) a batteries-included framework for building authorization in your application
+  * [About Wayfair | Distributed Authorization and Wayfair’s Supply Chain of the Future](https://www.aboutwayfair.com/careers/tech-blog/distributed-authorization-and-wayfairs-supply-chain-of-the-future)
 * [outrun: Execute a local command using the processing power of another Linux machine](https://github.com/Overv/outrun)
 * [Oxyry Python Obfuscator](http://pyob.oxyry.com/)
 * [p - Dead Simple Interactive Python Version Management](https://github.com/qw3rtman/p/)
@@ -4651,6 +4656,7 @@ Python
 * [No, not typing. Types. - YouTube](https://www.youtube.com/watch?v=3A0y-ksmGgI)
 * [Type Hints in Python: What, Why, and How - YouTube](https://www.youtube.com/watch?v=j0dy8Q9VIPk)
 * [Tests aren’t enough: Case study after adding type hints to urllib3 — sethmlarson.dev](https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3)
+* [beartype: Unbearably fast O(1) runtime type-checking in pure Python](https://github.com/beartype/beartype)
 * [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
 * [LibCST - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree https://libcst.readthedocs.io ](https://github.com/Instagram/LibCST)
   * [Static Analysis at Scale: An Instagram Story](https://instagram-engineering.com/static-analysis-at-scale-an-instagram-story-8f498ab71a0c)
@@ -4702,6 +4708,7 @@ Python
 * [The Best Way to Learn Python – Python Programming Tutorial for Beginners](https://www.freecodecamp.org/news/the-best-way-to-learn-python-python-programming-tutorial-for-beginners/)
 * [Tips and Examples - Codetorial](https://codetorial.net/tips_and_examples/index.html)
 * [Python for JavaScript developers](https://200okweblog.hashnode.dev/python-for-javascript-developers)
+* [python-mini-projects: A collection of simple python mini projects to enhance your python skills](https://github.com/Python-World/python-mini-projects)
 
 # Web -> [web](web.md)
 
