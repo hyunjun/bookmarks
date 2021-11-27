@@ -848,6 +848,8 @@ Business
 * [PM이 ‘기술 부채’ 감소에 기여하는 방법](https://brunch.co.kr/@yongjinjinipln/87)
 * [이슈 트리(Issue Tree)를 그려야 하는 이유](https://brunch.co.kr/@lunarshore/406)
 * [**PM이 새로운 팀에 처음 한달동안 해야할 일**](https://brunch.co.kr/@yongjinjinipln/92)
+* [**PM이 가져야 할 매우 효과적인 습관**](https://jihye.oopy.io/pm/habit) 어떻게 보면 leadership에도 연결되는 부분
+* [스타트업PM 이직일기 차별화된 PM의 5가지 프로젝트 기획법 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2021/11/09/pm-project-plan/)
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
