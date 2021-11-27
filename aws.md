@@ -285,6 +285,7 @@ AWS
 * [AWS CloudFormation을 위한 퍼블릭 레지스트리 소개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-a-public-registry-for-aws-cloudformation/)
   * AWS CloudFormation을 사용할 때 서드파티의 리소스나 모듈을 가져다 쓸 수 있는 공개 레지스트리
   * 현재 35개의 확장 프로그램이 있고 MongoDB, DataDo, JFrong, Snyk 등이 포함, CloudFormation이나 CDK에서 확장을 바로 이용해서 프로비저닝 가능
+* [Managing schema evolution in the serverless stack | by GOD.dev | GOD.dev Blog | Nov, 2021 | Medium](https://medium.com/god-dev-blog/managing-schema-evolution-in-the-serverless-stack-9ae6095b04ed) cloudformation
 * [How to Use AWS Textract to Extract Text from Scanned Documents in S3 Buckets](https://hackernoon.com/how-to-use-aws-textract-to-extract-text-from-scanned-documents-in-s3-buckets-5f85e8ba0a37)
 * [AWS 자격증 시험 - 클라우드 종사자(Cloud Practitioner) 후기](https://yongho1037.tistory.com/783)
 * [AWS 솔루션 아키텍트 어소시에이트 자격증 취득 후기 AWS 공인 자격증 준비와 합격자 혜택](https://www.44bits.io/ko/post/aws-certification-solutions-architect-associate)
@@ -412,17 +413,23 @@ AWS
 * [Amazon Pinpoint로 다채널 마케팅 커뮤니케이션 서비스 하기 | by 김현진 | Cloud Villains | Jul, 2021 | Medium](https://medium.com/ctc-mzc/amazon-pinpoint-%EB%A1%9C-%EB%8B%A4%EC%B1%84%EB%84%90-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%95%98%EA%B8%B0-d3f54d262f74)
 * [AWS’s Egregious Egress](https://blog.cloudflare.com/aws-egregious-egress/)
 * [Amazon QLDB - 블록체인급 원장 데이터베이스 서비스 :: #5분클라우드데모 - YouTube](https://www.youtube.com/watch?v=o-Aah2Yei7s)
+* [Quantum Ledger Database(QLDB) + Serverless | by Eugene Mahota | firstlineoutsourcing | Nov, 2021 | Medium](https://medium.com/firstlineoutsourcing/quantum-ledger-database-qldb-serverless-eeee8d6b4a6a)
 * [지그재그는 DB 없이 데이터를 갖고 논다 - ZDNet korea](https://zdnet.co.kr/view/?no=20210810095607)
 * [Mistakes I've Made in AWS | Laravel News](https://laravel-news.com/aws-mistakes)
 * [Five Different Ways to Build AWS Infrastructure - DZone Cloud](https://dzone.com/articles/five-different-ways-to-build-aws-infrastructure)
 * [Top 20 Most Used AWS Services Explained](https://blog.suhailkakar.com/top-20-most-used-aws-services-explained)
 * [Limitless Servers in a Serverless World | by Ryler Hockenbury | Oct, 2021 | AWS in Plain English](https://aws.plainenglish.io/limitless-servers-in-a-serverless-world-20872442f1ff)
 * [Infrastructure Automation for DynamoDB | by satish1v | Oct, 2021 | AWS in Plain English](https://aws.plainenglish.io/infrastructure-automation-for-dynamodb-6184f63da967)
-* [Detecting Locked Bicycle Stations: An AWS Serverless Story (Part 1) | by Jean Baptiste Muscat | CodeX | Medium](https://medium.com/codex/detecting-locked-bicycle-stations-an-aws-serverless-story-part-1-95dcdb477649)
-* [Detecting Locked Bicycle Stations: An AWS Serverless Story (Part 2) | by Jean Baptiste Muscat | CodeX | Medium](https://medium.com/codex/detecting-locked-bicycle-stations-an-aws-serverless-story-part-2-b1967d639699)
-* [Detecting Locked Bicycle Stations: An AWS Serverless Story (Part 3) | by Jean Baptiste Muscat | CodeX | Sep, 2021 | Medium](https://medium.com/codex/detecting-locked-bicycle-stations-an-aws-serverless-story-part-3-d532318dfca7)
+* Detecting Paris’ locked bicycle stations
+  * [Choosing the AWS serverless stack for a prototype | CodeX](https://medium.com/codex/detecting-locked-bicycle-stations-an-aws-serverless-story-part-1-95dcdb477649)
+  * [The backbone of a serverless app: Lambda functions and DynamoDb tables (Detecting Paris’ locked bicycle stations 2/5) | by Jean Baptiste Muscat | CodeX | Medium](https://medium.com/codex/detecting-locked-bicycle-stations-an-aws-serverless-story-part-2-b1967d639699)
+  * [Implementing a real-time detection algorithm with Lambda functions and DynamoDb streams | CodeX](https://medium.com/codex/detecting-locked-bicycle-stations-an-aws-serverless-story-part-3-d532318dfca7)
+  * [Creating a serverless API and hosting a frontend with S3 (Detecting Paris’ locked bicycle stations 4/5) | by Jean Baptiste Muscat | CodeX | Nov, 2021 | Medium](https://medium.com/codex/creating-a-serverless-api-and-hosting-a-frontend-with-s3-b50e61a8f707)
+  * [Performance tuning for an AWS Lambda-based API (Detecting Paris’ locked bicycle stations 5/5) | by Jean Baptiste Muscat | CodeX | Nov, 2021 | Medium](https://medium.com/codex/performance-tuning-for-an-aws-lambda-based-api-b8b49b2d07db)
+* [What is different between traditional infrastructure designs and serverless architectures. | by Kobee | Nov, 2021 | Medium](https://haithai91.medium.com/what-is-different-between-traditional-infrastructure-designs-and-serverless-architectures-8398b3bb4f0a)
 * [AWS에서 Video on Demand VOD 서비스하기 - YouTube](https://www.youtube.com/watch?v=bzxJkiJ77vg)
 * [CODE GURU REVIEWER를 사용하여 코드리뷰 받기 - DRAMA&COMPANY](https://blog.dramancompany.com/2021/11/code-guru-reviewer%eb%a5%bc-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97%ac-%ec%bd%94%eb%93%9c%eb%a6%ac%eb%b7%b0-%eb%b0%9b%ea%b8%b0/)
+* [Flowchart: How should I run containers on AWS? :: Vlad Ionescu](https://www.vladionescu.me/posts/flowchart-how-should-i-run-containers-on-aws-2021/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -480,10 +487,11 @@ AWS
 * [CloudWatch를 이용한 RDS (PostgreSQL) 스케줄링 시작/종료](https://jojoldu.tistory.com/572)
 * [CloudWatch 이상 지표를 슬랙 알람으로 받기 (feat. SNS, Lambda)](https://jojoldu.tistory.com/586)
 * [로그 데이터로 CloudWatch Metric 만들기 - YouTube](https://www.youtube.com/watch?v=f2b3QdNEOwI)
+* [New – Amazon CloudWatch Anomaly Detection](https://aws.amazon.com/ko/blogs/aws/new-amazon-cloudwatch-anomaly-detection/)
+* [Introducing the AWS CloudWatch integration, Grafana Cloud's first fully managed integration | Grafana Labs](https://grafana.com/blog/2021/11/17/2021/11/17/grafana-aws-cloudwatch-integration/)
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
-* [New – Amazon CloudWatch Anomaly Detection](https://aws.amazon.com/ko/blogs/aws/new-amazon-cloudwatch-anomaly-detection/)
 
 # Conference
 * [빠르게 훑어보는 "AWS Hero와 함께하는 re:Invent reCap 온라인 세미나" 후기](https://jybaek.tistory.com/888)
@@ -723,6 +731,7 @@ AWS
 * [Observing gRPC-based Microservices on Amazon EKS running Istio | by Gary A. Stafford | ITNEXT](https://itnext.io/observing-grpc-based-microservices-on-amazon-eks-running-istio-77ba90dd8cc0)
 * [Amazon EKS 사용자도 Kubeflow를 잘 배포하고 싶습니다 | by Sungin Lee | Cloud Villains | Nov, 2021 | Medium](https://medium.com/ctc-mzc/amazon-eks-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%8F%84-kubeflow%EB%A5%BC-%EC%9E%98-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4-65f8189b86ad)
 * [Autoscaling group with warm pool on Kubernetes AWS EKS with Terraform — Yes! It's possible! | by Mayara Gouveia | Oct, 2021 | Medium](https://gb8may.medium.com/autoscaling-group-with-warm-pool-on-kubernetes-aws-eks-with-terraform-yes-its-possible-92f6fb9bf7e8)
+* [EKS (AWS) AND RBAC, step by step. Introduction | by David De Juan Calvo | Globant | Medium](https://medium.com/globant/rbac-and-eks-aws-step-by-step-e2f9c38f1aeb)
 * [EKS Anywhere](https://anywhere.eks.amazonaws.com/)
   * 아마존 EKS을 온프레미스 환경에서 설치해서 Kubernetes 클러스터를 운영할 수 있도록 아마존에서 EKS Anyware를 오픈소스로 공개
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
@@ -918,6 +927,11 @@ AWS
 * [Apex - AWS Lambda 관리도구 #1](https://blog.outsider.ne.kr/1241)
 * [Apex - AWS Lambda 관리도구 #2](https://blog.outsider.ne.kr/1242)
 * [AWS Lambda: Apex로 관리하기](https://hyunseob.github.io/2017/07/09/aws-lambda-with-apex/)
+* [Database backup using AWS Lambda. An example of using Lambda to automate… | by Mario Dagrada | Nov, 2021 | FAUN Publication](https://faun.pub/database-backup-using-aws-lambda-d5d331591c40)
+* [Deep Knowledge of AWS Lambda. Run Code without Thinking about Servers | by Yogesh Nile | Nov, 2021 | Medium](https://yogeshnile.cloud/deep-knowledge-of-aws-lambda-b03ea47bd87)
+* [Why Is It So Hard To Launch and Maintain Serverless? | by Michał Czapracki | Scramjet.org | Medium](https://medium.com/scramjet-org/why-is-it-so-hard-to-launch-and-maintain-serverless-2834a448b8ad)
+* [A Hybrid Approach: Why Pure Serverless Isn’t Always the Answer | by Aaron Lieberman | Medium](https://aaron-59388.medium.com/a-hybrid-approach-why-pure-serverless-isnt-always-the-answer-f4cfa3468c2)
+* [Feature Flags: Good, Bad and Serverless | by Gal Naor | CyberArk Engineering | Nov, 2021 | Medium](https://medium.com/cyberark-engineering/feature-flags-good-bad-and-serverless-432df10416e1)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
@@ -1232,6 +1246,8 @@ AWS
   * 이 새 프로바이더는 기존 AWS 프로바이더와 함께 사용할 수 있고 기존 AWS 프로바이더도 계속 관리
 * [Failing Faster with Terraform - The Scale Factory](https://scalefactory.com/blog/2021/10/13/failing-faster-with-terraform/)
 * [Terraform Cheat Sheet – techbeatly](https://www.techbeatly.com/terraform-cheat-sheet/)
+* [10 things I wish I knew before learning Terraform (Part 1) | by Ian Hancock | Contino Engineering | Medium](https://medium.com/contino-engineering/10-things-i-wish-i-knew-before-learning-terraform-f13637a01aa6)
+* [10 things I wish I knew before learning Terraform (Part 2) | by Ian Hancock | Contino Engineering | Nov, 2021 | Medium](https://medium.com/contino-engineering/10-things-i-wish-i-knew-before-learning-terraform-part-2-a15a3f85efb6)
 
 # Tutorial
 * [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
