@@ -270,7 +270,9 @@ Network
   * `traceroute`와 `mtr`의 플래그를 통해서 어떤 AS를 거쳐 가는지 볼 수 있음
   * PCH(packet clearing house) Looking Glass로 BGP 경로를 볼 수 있음 [Looking Glass | PCH](https://www.pch.net/tools/looking_glass/)
   * BGPlay에서는 이전 시간의 BGP도 볼 수 있으므로 페이스북의 장애 시점에서 BGP 경로가 사라진 것도 볼 수 있음 [RIPEStat BGPlay](https://stat.ripe.net/special/bgplay)
-* XMPP [Modern XMPP](https://docs.modernxmpp.org/)
+* XMPP
+  * [Modern XMPP](https://docs.modernxmpp.org/)
+  * [XMPP, A Comeback Story: A 20 Year Old Messaging Protocol For Robust, Private and Decentralized Communications](https://takebackourtech.org/xmpp-comeback/)
 
 # TIME_WAIT
 * [What is TIME_WAIT state?](http://docs.likejazz.com/time-wait/)
@@ -330,4 +332,5 @@ Network
   * QUIC은 TCP(트랜스미션 컨트롤 프로토콜) 대신 더 빠른 UDP(유저 데이터그램 프로토콜) 사용
   * 더 빠른 복구, 더 빠른 암호화 연결, 더 나은 네트워크 스위치 처리도 제공
   * 안전한 웹사이트 방문, 오디오비주얼 채팅, 모바일 브라우징에 가장 큰 개선 예상
+* [Everything you ever wanted to know about UDP sockets but were afraid to ask, part 1](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
 * [MsQuic - Cross platform C implementation of the IETF QUIC protocol](https://github.com/Microsoft/msquic)
