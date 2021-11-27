@@ -327,6 +327,8 @@ Scala
 * [law-of-demeter](https://github.com/devinsideyou/law-of-demeter)
   * [Break free from your entangled code base! - Part 1 - YouTube](https://www.youtube.com/watch?v=H3T4ryR4LMU)
   * [Break free from your entangled code base! - Part 2 - YouTube](https://www.youtube.com/watch?v=rtEn_rkyO4I)
+* [Retrying function calls in Scala](https://softwaremill.com/retrying-function-calls-in-scala/)
+* [Parsing character encoding-dependent protocols with scodec in Scala | In Absentia](https://hmemcpy.com/2021/11/parsing-encoding-dependent-protocols-with-scodec/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -954,6 +956,7 @@ Scala
     * [ZIO from Scratch — Part 1 - YouTube](https://www.youtube.com/watch?v=wsTIcHxJMeQ)
     * [Next Generation Operations with ZIO — Adam Fraser - YouTube](https://www.youtube.com/watch?v=vYKea3hGw28)
     * [Jan Nasiadka interview questions about ZIO](https://gist.github.com/fanf/e99fe83f716ae37e94ae264b38634bbb)
+    * [Introduction to ZIO | Baeldung on Scala](https://www.baeldung.com/scala/zio-intro)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1260,6 +1263,7 @@ Scala
   * [scala with cats 책 읽으면서 필기(하다보니 번역급) Chapter 5 (Monad Transformers)](https://wingnim.tistory.com/115)
   * [scala with cats 책 읽으면서 필기 Chapter 6 (Semigroupal and Applicative)](https://wingnim.tistory.com/116)
   * [scala with cats 책 읽으면서 필기 Chapter 7 (Foldable and Traverse)](https://wingnim.tistory.com/117)
+  * ["#Scala with Cats" Review - YouTube](https://www.youtube.com/watch?v=3EememQ8UEU)
   * [Idiomatic Error Handling in Scala - Rock the JVM Blog](https://blog.rockthejvm.com/idiomatic-error-handling-in-scala/) Either, Try, Validated
     * [Idiomatic Error Handling in Scala | Rock the JVM - YouTube](https://www.youtube.com/watch?v=P1KwLUDO4jI)
   * [Addendum to Alex N's blog post on Scala warnings](https://www.inner-product.com/posts/nowarn-addendum/)
@@ -1597,6 +1601,7 @@ Scala
   * [Ditching the blueprint: towards a code-first approach to API management | by Andrea Fiore | lenses.io | Jan, 2021 | Medium](https://medium.com/lensesio/ditching-the-blueprint-towards-a-code-first-approach-to-api-management-ca34cfeaf537)
   * [Type driven API development using Scala and Tapir | by Andrea Fiore | lenses.io | Jan, 2021 | Medium](https://medium.com/lensesio/type-driven-api-development-using-scala-and-tapir-f5df4b614d67)
   * [Tapir serverless: a proof of concept | by Adam Warski | Mar, 2021 | SoftwareMill Tech Blog](https://blog.softwaremill.com/tapir-serverless-a-proof-of-concept-6b8c9de4d396)
+  * [Security improvements in tapir 0.19](https://softwaremill.com/security-improvements-in-tapir-0-19/)
 
 ## Library Json
 * [Web Framework Benchmarks - JSON serialization](https://www.techempower.com/benchmarks/#section=data-r13&hw=ph&test=json&l=4ftbsv)
