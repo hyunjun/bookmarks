@@ -202,6 +202,7 @@ Java
   * [Game of Life, hash tables and hash codes](http://pzemtsov.github.io/2015/04/24/game-of-life-hash-tables-and-hash-codes.html)
   * [java의 hashtable 대신에 왜 다른 것을 권장할까요](https://codingdog.tistory.com/entry/java%EC%9D%98-hashtable-%EB%8C%80%EC%8B%A0%EC%97%90-%EC%99%9C-%EB%8B%A4%EB%A5%B8-%EA%B2%83%EC%9D%84-%EA%B6%8C%EC%9E%A5%ED%95%A0%EA%B9%8C%EC%9A%94)
   * [해시 테이블 (Hash Table) 배우기. Java 의 컬렉션 클래스 (Collection Class) 중에… | by Bryant Jimin Son | Aug, 2020 | Medium](https://medium.com/@bryantjiminson/%ED%95%B4%EC%8B%9C-%ED%85%8C%EC%9D%B4%EB%B8%94-hash-table-%EB%B0%B0%EC%9A%B0%EA%B8%B0-a9323162e13)
+  * [A tale of Java Hash Tables | andreinc](https://www.andreinc.net/2021/11/08/a-tale-of-java-hash-tables)
   * [자바 arrayList addAll 메서드 : 어디서 오버헤드가 걸리는지 간단하게 분석해 봅시다](https://codingdog.tistory.com/entry/%EC%9E%90%EB%B0%94-arrayList-addAll-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%96%B4%EB%94%94%EC%84%9C-%EC%98%A4%EB%B2%84%ED%97%A4%EB%93%9C%EA%B0%80-%EA%B1%B8%EB%A6%AC%EB%8A%94%EC%A7%80-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EB%B6%84%EC%84%9D%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
   * [java computeifpresent 메소드 : 이미 있는 키의 대응 값에 새 값을 적용한다](https://codingdog.tistory.com/entry/java-computeifpresent-%EB%A9%94%EC%86%8C%EB%93%9C-%EC%9D%B4%EB%AF%B8-%EC%9E%88%EB%8A%94-%ED%82%A4%EC%9D%98-%EB%8C%80%EC%9D%91-%EA%B0%92%EC%97%90-%EC%83%88-%EA%B0%92%EC%9D%84-%EC%A0%81%EC%9A%A9%ED%95%9C%EB%8B%A4)
   * [java ArrayDeque : 원형큐에 expand를 얹었다](https://codingdog.tistory.com/entry/java-ArrayDeque-%EC%9B%90%ED%98%95%ED%81%90%EC%97%90-expand%EB%A5%BC-%EC%96%B9%EC%97%88%EB%8B%A4)
@@ -874,7 +875,7 @@ Java
   * [**Project Loom: Fiber와 Continuation**](http://guruma.github.io/posts/2018-09-27-Project-Loom-Fiber-And-Continuation/)
   * [Project Loom: Helping Write Concurrent Applications on the Java Platform by Ron Pressler](https://www.youtube.com/watch?v=lIq-x_iI-kc)
   * [Project Loom? Better Futures? What’s next for JVM concurrent programming - YouTube](https://www.youtube.com/watch?v=_fFzyY_7UmA)
-  * [**Java의 동시성 개선을 위한 Project Loom은 reactive streams를 대체할 것인가?**](https://gunsdevlog.blogspot.com/2020/09/java-project-loom-reactive-streams.html) 정말 좋은 글
+  * [**Java의 동시성 개선을 위한 Project Loom은 reactive streams를 대체할 것인가?**](https://gunsdevlog.blogspot.com/2020/09/java-project-loom-reactive-streams.html) 정말 좋은 글. async 이해 전반에 특히 좋음
   * [Scale By The Bay 2020: Adam Warski, Project Loom? Better Futures? What’s next for JVM concurrent... - YouTube](https://www.youtube.com/watch?v=q3qJH2QuqUA)
   * [Going inside Java’s Project Loom and virtual threads](https://blogs.oracle.com/javamagazine/going-inside-javas-project-loom-and-virtual-threads)
 
@@ -913,6 +914,7 @@ Java
 * [Java 성능 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=30770051)
 * [Understanding the JDK’s New Superfast Garbage Collectors](https://blogs.oracle.com/javamagazine/understanding-the-jdks-new-superfast-garbage-collectors)
 * [Java garbage collection interview questions & answers](https://www.java-success.com/java-garbage-collection-interview-questions-and-answers/)
+* [GC progress from JDK 8 to JDK 17](https://kstefanj.github.io/2021/11/24/gc-progress-8-17.html)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 * [gctoolkit: Tool for parsing GC logs](https://github.com/microsoft/gctoolkit)
   * [Microsoft Open-Sources GCToolkit to Tap into JVM GC Logs](https://www.infoq.com/news/2021/09/msft-opensourced-gctoolkit/)
