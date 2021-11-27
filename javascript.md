@@ -734,6 +734,7 @@ Javascript
 * [next.config.js 의 images.path와 assetPrefix](https://velog.io/@juunini/next.config.js-%EC%9D%98-images.path%EC%99%80-assetPrefix)
 * [카카오 비즈인프라FE파트 개발자는 어떻게 일할까? – 기술편 – tech.kakao.com](https://tech.kakao.com/2021/11/23/biz-infra-fe-01/)
 * [카카오 비즈인프라FE파트 개발자는 어떻게 일할까? – 업무&문화편 – tech.kakao.com](https://tech.kakao.com/2021/11/25/biz-infra-fe-02/)
+* [How to use Web Storage API? - DEV Community](https://dev.to/j471n/how-to-use-web-storage-api-3o28) Local Storage, Session Storage, Cookies
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -1515,7 +1516,6 @@ Javascript
   * [10 Steps for Ramping into Ember.js Quickly](http://spin.atomicobject.com/2015/08/24/learn-ember-js-quickly/)
   * [Creating a Todo Application using the Phoenix Framework and Ember.js](http://resolve.digital/blog/posts/creating-a-todo-application-using-the-phoenix-framework-and-ember-js)
   * [How to set up continuous integration with Circle CI, EmberJS, and GitHub](https://medium.freecodecamp.org/first-steps-into-continuous-integration-with-circle-ci-emberjs-and-github-1e273ea62f0c)
-* [Emscripten으로 WebAssembly와 JavaScript 코드 크기 줄이기](http://hacks.mozilla.or.kr/2018/03/emscripten%ec%9c%bc%eb%a1%9c-webassembly%ec%99%80-javascript-%ec%bd%94%eb%93%9c-%ed%81%ac%ea%b8%b0-%ec%a4%84%ec%9d%b4%ea%b8%b0/)
 * [Enact 프레임워크를 오픈합니다](https://devwaf.blogspot.com/2018/03/enact-20180319.html)
   * [Enact 개발환경 설정](https://devwaf.blogspot.com/2018/03/enact-20180329_30.html)
   * [Hello Enact
@@ -1596,6 +1596,7 @@ Javascript
 * [JAWS: The Javascript + AWS Stack – A monstrously scalable, server-free, web application boilerplate using bleeding-edge AWS services](https://github.com/servant-app/JAWS)
 * [joist: A small (~2kb) library to help with the creation of web components and web component based applications](https://github.com/joist-framework/joist)
   * [Introducing Joist. I’ve done it. I have done the thing… | by Danny Blue | ITNEXT](https://itnext.io/introducing-joist-313f111a428)
+* [JOY.JS - make happy little programs](https://ncase.me/joy/) paintbrush같은 그리기 도구 및 여러가지 표현을 쉽게 제작 가능
 * [jsblocks - Better MV-ish Framework](http://jsblocks.com/)
 * [jsCodeStructure - Analyse the structure of your js project(relations between js files)](https://github.com/timqian/jsCodeStructure)
 * [jscomp - Ahead of time JavaScript compiler](https://github.com/tmikov/jscomp)
@@ -1718,6 +1719,7 @@ Javascript
   * [p5.js](https://opentutorials.org/module/5404)
   * [Seomal - 서말](https://seomal.com/map/1/122)
   * [p5.js - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMCEvYJCyey1AlwT1yyBZK6c)
+* [Pablo](http://pablojs.com/) a small, open-source JavaScript library for SVG
 * [paged.js - an open-source library to paginate content in the browser](https://www.pagedmedia.org/paged-js/)
 * [passport-github: GitHub authentication strategy for Passport and Node.js](https://github.com/jaredhanson/passport-github)
   * [Passport.js](https://opentutorials.org/course/3402)
@@ -1957,6 +1959,7 @@ Javascript
   * [Introducing Snowpack 2.0](https://www.snowpack.dev/posts/2020-05-26-snowpack-2-0-release/)
   * [Snowpack 써보기 | imch.dev](https://imch.dev/posts/a-experiment-of-snowpack)
   * [create-react-app에서 snowpack으로의 마이그레이션 | blog.rhostem.com](https://blog.rhostem.com/posts/2020-12-16-migration-from-cra-to-snowpack)
+* Turbo [Introducing Turbo: 5x faster than Yarn & NPM, and runs natively in-browser 🔥 | by Eric Simons | StackBlitz Blog | Medium](https://medium.com/stackblitz-blog/introducing-turbo-5x-faster-than-yarn-npm-and-runs-natively-in-browser-cc2c39715403)
 * [vite: Next generation frontend tooling. It's fast!](https://github.com/vitejs/vite)
   * [Replit - Why We Switched From Webpack To Vite](https://blog.replit.com/vite)
 * [Volta - The Hassle-Free JavaScript Tool Manager](https://volta.sh/)
@@ -3405,6 +3408,8 @@ Javascript
 * [jotai: 👻 Primitive and flexible state management for React](https://github.com/pmndrs/jotai)
   * [Atomic state management - Jotai – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/6099/)
   * [jotai 커스텀 훅 테스트 하는 방법](https://velog.io/@juunini/jotai-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%9B%85-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
+* [jovo-framework: 🔈 The React for Voice and Chat: Build Apps for Alexa, Google Assistant, Messenger, Instagram, the Web, and more](https://github.com/jovotech/jovo-framework)
+  * [Jovo - 보이스 & 채팅을 위한 프레임워크 | GeekNews](https://news.hada.io/topic?id=5432)
 * [mern.io - Easily build production ready universal apps](http://mern.io/)
 * [Metric: Building a quantitative self app in Meteor and React](http://liamz.co/2015/08/metric-building-a-quantitative-self-app-in-meteor-and-react/)
 * MobX
@@ -4154,6 +4159,7 @@ Javascript
 * [anissia-web](https://github.com/anissia-net/anissia-web)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
   * [워드프레스에서 Gridsome으로 블로그 이전후 깃헙 액션을 통해 넷틀리파이에서 호스팅하기](https://blog.aliencube.org/ko/2020/01/03/migrating-wordpress-to-gridsome-on-netlify-through-github-actions/)
+* [History Navigation Vue](https://hezedu.github.io/history-navigation-vue/)
 * [reactivue: 🙊 Use Vue Composition API in React components](https://github.com/antfu/reactivue)
 * [resume: 🍀 Resume template](https://github.com/leegeunhyeok/resume)
 * [Vue3Todo: Vuex + vue3로 만드는 할일 앱](https://github.com/wnghdcjfe/Vue3Todo)
