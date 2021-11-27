@@ -102,7 +102,6 @@ Product
   * [ENG SUB)세계적으로 대히트친 여행용 백팩 - 노매틱 트래블 백팩을 메고 실제 여행을 다녀와보았다! 진짜 좋은점과 치명적인 단점은? - YouTube](https://www.youtube.com/watch?v=m5R36M8CKOA)
 * 루퍼 닉 백팩 [수납 끝판왕! 대용량 백팩 추천 (이게 가방이야?! 캐리어야?!) - YouTube](https://www.youtube.com/watch?v=Os45tUPwLCk)
 
-
 # Bike
 * [자전거를 사기 전 당신이 꼭 고려해야 할 것](http://ppss.kr/archives/46219)
 * [빈티지 바이크 모으는 남자...델리 윤준호](http://www.huffingtonpost.kr/2015/04/02/story_n_6990096.html)
@@ -168,7 +167,8 @@ Product
 * [Beginner’s Guide to Mechanical Keyboards - Jenny’s Newsletter](https://coolgadget.substack.com/p/beginners-guide-to-mechanical-keyboards)
 * [GMMK Pro로 커스텀 기계식 키보드에 입문하다 – 1. 기초공부 & 부품 선택 – Xenosium](https://xenosium.com/entry/8899/)
 * [GMMK Pro로 커스텀 기계식 키보드에 입문하다 – 2. 조립 & 튜닝 – Xenosium](https://xenosium.com/entry/8994/)
-*
+* [Why Are Topre Keyboards So Expensive? - Switch and Click](https://switchandclick.com/why-are-topre-keyboards-so-expensive/)
+
 # Lamp
 * [전선 없이 빛을 내는 크리스마스 트리 전구](http://www.earlyadopter.co.kr/9430)
 * [전구를 켜는 조금 다른 방법](http://www.earlyadopter.co.kr/42374)
