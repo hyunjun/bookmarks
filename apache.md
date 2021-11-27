@@ -355,6 +355,7 @@ Apache
   * [Getting started with Apache Kafka in Python](https://towardsdatascience.com/getting-started-with-apache-kafka-in-python-604b3250aa05)
 * [Kafka For Beginners](https://medium.com/@rinu.gour123/kafka-for-beginners-74ec101bc82d)
 * [주니어 개발자의 storm kafka 시작하기](http://blog.embian.com/m/post/108)
+* [Understanding Kafka with Factorio | by Ruurtjan Pul | Medium](https://ruurtjan.medium.com/understanding-kafka-with-factorio-74e8fc9bf181)
 * [Kafka 시작하기 | FUREWEB](https://fureweb-com.github.io/blog/2020/02/23/kafka-tutorial.html)
 * [Learn Kafka - Apache Kafka Tutorials and Resources | Confluent Developer](https://developer.confluent.io/learn-kafka/)
 * [Apache Kafka and Confluent Platform examples and demos](https://github.com/confluentinc/examples)
@@ -649,6 +650,8 @@ Apache
   * 처음에는 파티션 수를 늘렸지만 해결되지 않아서 자세히 보니 파티션에 컨슈머가 고르게 붙어있지 않은 문제 발견
   * partition_assignment_strategy를 사용해서 라운드 로빈을 적용했으나 트래픽이 늘어나자 다시 Lag 증가
   * 그래서 Lag의 의미를 자세히 찾아보니 마지막에 생성된 메시지와 컨슈머가 가져갔다고 표시한 오프셋의 차이라는 것을 알게 되어 auto_commit_interval_ms를 5초에서 1초로 줄여서 La를 해결
+* [Scaling Kafka Consumer for Billions of Events | by Archit Agarwal | The PayPal Technology Blog | Nov, 2021 | Medium](https://medium.com/paypal-tech/kafka-consumer-benchmarking-c726fbe4000)
+* [Event Sourcing with Kafka Streams in Production — Lessons Learned | by Nico | comsystoreply | Medium](https://medium.com/comsystoreply/event-sourcing-with-kafka-streams-in-production-lessons-learned-1ab563891874)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
