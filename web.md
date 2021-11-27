@@ -687,7 +687,9 @@ Web
 * [Microservices design and deployment with NGINX | Free Ebook](https://www.nginx.com/resources/library/designing-deploying-microservices/)
 * [The NGINX Real-Time API Handbook - NGINX](https://www.nginx.com/resources/library/real-time-api-handbook)
 * [Comparing NGINX Performance in Bare Metal and Virtual Environments - NGINX](https://www.nginx.com/blog/comparing-nginx-performance-bare-metal-and-virtual-environments/)
+* [Nginx-Ingress in EKS — EKS + nginx-ingress +NLB + TLS | by Sauravmoy Sarkar | Medium](https://sauravmoy-sarkar.medium.com/nginx-ingress-cc9acf4aa396)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
+* [NGINXConfig | DigitalOcean](https://www.digitalocean.com/community/tools/nginx)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
 * [topngx - top for NGINX](https://github.com/gsquire/topngx)
 
@@ -754,6 +756,7 @@ Web
   * [MITMProxy로 실시간 검색어 조작하기](https://www.youtube.com/watch?v=2Of-zvygg8w)
 * [traefik: The Cloud Native Application Proxy](https://github.com/traefik/traefik)
   * [traefik - 클라우드 네이티브 어플리케이션 프록시 | GeekNews](https://news.hada.io/topic?id=3668)
+* [YARP: Yet Another Reverse Proxy](https://microsoft.github.io/reverse-proxy/)
 
 # Python
 * Let’s Build A Web Server
@@ -945,6 +948,7 @@ Web
 * [기계들의 대화법 - REST API - YouTube](https://www.youtube.com/watch?v=PmY3dWcCxXI)
 * [멱등성?](https://velog.io/@juunini/%EB%A9%B1%EB%93%B1%EC%84%B1)
 * [REST vs. GraphQL vs. gRPC · Dan Hacks](https://www.danhacks.com/software/grpc-rest-graphql.html)
+* [API Architecture — Performance Best Practices for REST APIs | by Abdul Wahab | Nov, 2021 | Medium](https://abdulrwahab.medium.com/api-architecture-performance-best-practices-for-rest-apis-1d4a5922dae1)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
@@ -1121,7 +1125,9 @@ Web
   * 수많은 UI 요소를 관리하기 위해 Web Components와 Lit 라이브러리 사용
 * [Cloud Native Apps with Server-Side WebAssembly - YouTube](https://www.youtube.com/watch?v=JtwHtfFe6AI)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
+  * [Emscripten: An LLVM-to-WebAssembly Compiler](https://github.com/emscripten-core/emscripten)
   * [Hello web assembly](https://jybaek.tistory.com/782)
+  * [Emscripten으로 WebAssembly와 JavaScript 코드 크기 줄이기](http://hacks.mozilla.or.kr/2018/03/emscripten%ec%9c%bc%eb%a1%9c-webassembly%ec%99%80-javascript-%ec%bd%94%eb%93%9c-%ed%81%ac%ea%b8%b0-%ec%a4%84%ec%9d%b4%ea%b8%b0/)
 * [ffmpeg.js - FFmpeg for browser and node, powered by WebAssembly](https://github.com/ffmpegjs/ffmpeg.js)
 * [Hippo](https://docs.hippofactory.dev/)
   * [Introduction to Hippo: the WebAssembly PaaS](https://deislabs.io/posts/introducing-hippo/)
