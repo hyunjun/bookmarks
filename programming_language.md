@@ -208,6 +208,7 @@ Programming Language
 * [DRAGON](https://www.dragon-lang.org)
 * [DRAKON is an algorithmic visual programming language developed within the Buran space project](https://en.wikipedia.org/wiki/DRAKON)
 * [Earl Grey](http://breuleux.github.io/earl-grey/)
+* [Easylang](https://easylang.online/)
 * [Eff](http://www.eff-lang.org/)
 * [Ela - dynamic functional language](http://elalang.net/)
 * [Electr - Interactive language for electronic formulas (on the command line)](https://github.com/lkdjiin/electr)
