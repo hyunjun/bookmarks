@@ -3918,6 +3918,7 @@ Javascript
 * [한글로 TypeScript 코딩을 하면 무슨 문제가 생길까? - 3편](https://velog.io/@juunini/%ED%95%9C%EA%B8%80%EB%A1%9C-TypeScript-%EC%BD%94%EB%94%A9%EC%9D%84-%ED%95%98%EB%A9%B4-%EB%AC%B4%EC%8A%A8-%EB%AC%B8%EC%A0%9C%EA%B0%80-%EC%83%9D%EA%B8%B8%EA%B9%8C-3%ED%8E%B8)
 * [TS에서 숫자타입을 정수로 제한할 수 있나요?](https://velog.io/@vraimentres/ts-integer)
 * [TypeScript 환경에서 class-transformer 적극적으로 사용하기](https://jojoldu.tistory.com/617)
+* [힙하게 Typescript 보일러플레이트 구성하기](https://www.jiwon.me/hip-ts-boiler/)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
