@@ -1534,6 +1534,7 @@ Programming Books
   * 2018.01
   * 한라 005.2 도192ㅌ
   * socket, network programming을 이해하기 위해 매우 좋은 책으로 보임
+* (NOT YET) [그림으로 공부하는 TCP/IP](https://brunch.co.kr/@promise4u/189)
 
 # NLP
 
