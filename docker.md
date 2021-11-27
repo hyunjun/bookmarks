@@ -535,6 +535,7 @@ Docker
 * [The death of Linux Containers. Unikernels are awesome! | by Inacio Klassmann | Medium](https://inacioklassmann.medium.com/the-death-of-linux-containers-2f7f92e59c33)
 * [I Didn't Know I Could Do That with Docker (or Dockerizing a Python App) - YouTube](https://www.youtube.com/watch?v=xDQW4BcGbL8)
 * ['도커 이전과 도커 이후' 세상이 확연히 달라진 이유 - ITWorld Korea](https://www.itworld.co.kr/news/215339)
+* [Learning Containers From The Bottom Up - Ivan Velichko](https://iximiuz.com/en/posts/container-learning-path/)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -780,6 +781,7 @@ Docker
 * [Understanding Kubernetes API - Part 2 : Pods API](http://blog.madhukaraphatak.com/understanding-k8s-api-part-2/)
 * [Understanding Kubernetes API - Part 3 : Deployments API](http://blog.madhukaraphatak.com/understanding-k8s-api-part-3/)
 * [Kubernetes Cluster API 따라하며 이해하기 :: 조은우 개발 블로그](https://jonnung.dev/kubernetes/2021/02/28/cluster-api-quickstart/)
+* [Kubernetes Cluster API v1.0, Production Ready](https://www.infoq.com/news/2021/11/kubernetes-cluster-api/)
 * [Alpha in Kubernetes v1.22: API Server Tracing | Kubernetes](https://kubernetes.io/blog/2021/09/03/api-server-tracing/)
 * [**쿠버네티스 API서버는 정말 그냥 API서버라구욧 | 커피고래의 노트**](https://coffeewhale.com/apiserver)
   * kube-apiserver와 통신할 때 보통 kubectl을 이용하지만 이 kube-apiserver가 그냥 API 서버라는 것을 보여주기 위해 kubectl 대신 curl로 요청 과정 설명
@@ -876,6 +878,7 @@ Docker
 * [Kubernetes Ingress — AWS EKS Cluster with AWS Load Balancer Controller | by George Tsopouridis | Medium](https://gtsopour.medium.com/kubernetes-ingress-aws-eks-cluster-with-aws-load-balancer-controller-cf49126f8221)
 * [Why and How of Kubernetes Ingress (and Networking) | by getenroute.io/yastack.io | ITNEXT](https://itnext.io/why-and-how-of-kubernetes-ingress-and-networking-6cb308ca03d2)
 * [Docker & Kubernetes - Kubernetes Ingress with AWS ALB Ingress Controller in EKS - 2021](https://www.bogotobogo.com/DevOps/Docker/Docker-Kubernetes-ALB-Ingress-Controller-with-EKS.php)
+* [Kubernetes Ingress Tutorial: Beginners Series](https://devopscube.com/kubernetes-ingress-tutorial/)
 * [K8s를 위한 추천 CI/CD](https://andromedarabbit.net/k8s%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B6%94%EC%B2%9C-ci-cd/)
 * [쿠버네티스 코드 읽기](https://sangwook.github.io/2018/06/19/kubernetes-k8s-code.html)
 * [리소스 (Resource)에 대해](http://bcho.tistory.com/1265)
@@ -1129,6 +1132,8 @@ Docker
 * [Can't Resize your Postgres Kubernetes Volume? No Problem!](https://blog.crunchydata.com/blog/resize-postgres-kubernetes-volume-instance-sets)
 * [NDC21-프로그래밍 게임 서버를 품은 쿠버네티스 - YouTube](https://www.youtube.com/watch?v=8R4DDEqjc0I)
 * [Get to Know a Kubernetes Operator!](https://spring.io/blog/2021/11/19/get-to-know-a-kubernetes-operator)
+* [Distroless Container Debugging on K8s/OpenShift | by Zhimin Wen | ITNEXT](https://itnext.io/distroless-container-debugging-on-k8s-openshift-e418fd66fdad)
+* [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1160,9 +1165,11 @@ Docker
       * AppSource 컨트롤러를 이용하면 어드민은 사용자가 네임스페이스 내에서 ArgoCD 앱을 배포하도록 해서 개발자가 직접 앱을 배포 가능
     * [Running Apache Spark on Kubernetes | by Ramiro Alvarez Fernandez | empathy.co | Medium](https://medium.com/empathyco/running-apache-spark-on-kubernetes-2e64c73d0bb2)
     * [ArgoCD Tutorial for Beginners | GitOps CD for Kubernetes - YouTube](https://www.youtube.com/watch?v=MeU5_k9ssrs)
+    * [Kubernetes CI/CD with Tekton and ArgoCD - Piotr's TechBlog](https://piotrminkowski.com/2021/08/05/kubernetes-ci-cd-with-tekton-and-argocd/)
 * [Cilium - Linux Native, API-Aware Networking and Security for Containers](https://cilium.io/)
   * [Kubernetes Network & Cilium](https://www.notion.so/Kubernetes-Network-Cilium-1d4371f562ea4acdb5e679e376a7c992)
   * [Network Policy Editor for Kubernetes](https://editor.cilium.io/)
+  * [Detecting a Container Escape with Cilium and eBPF](https://isovalent.com/blog/post/2021-11-container-escape)
 * [cloudflow - Streaming Data Pipelines on Kubernetes](https://cloudflow.io/)
   * [Scale By The Bay 2020: Nolan Grace, Cloudflow: Spark, Flink, and Akka Working together on Kubernetes - YouTube](https://www.youtube.com/watch?v=XOBb7bLS3Q8)
   * [How to build streaming data pipelines with Akka Streams, Flink, and Spark using Cloudflow - YouTube](https://www.youtube.com/watch?v=MaXCx0fy0xU)
@@ -1202,6 +1209,8 @@ Docker
   * [Istio를 활용해 Multi Cluster 환경에 Service Mesh 구성하기](https://yunsangjun.github.io/blog/istio/2019/08/11/istio-multi-cluster-mesh.html)
   * [Azar Mirror 서버 제작기 2편 - Istio와 함께하는 Traffic Mirroring](https://hyperconnect.github.io/2020/06/02/azar-mirror-2.html)
   * [Kubernetes에 Microservice 배포하기 3편 - Canary Deployments with Istio | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/08/19/microsrv-deploy-3.html)
+  * [kyc-docker-k8-istio: ServiceMesh with Docker K8 Istio - KYC scenario](https://github.com/vijayredkar/kyc-docker-k8-istio)
+    * [BankNext Case Study — ServiceMesh with Docker-K8-Istio-Sidecar | by Vijay Redkar | Nov, 2021 | Medium](https://vijayredkar.medium.com/banknext-case-study-servicemesh-with-docker-k8-istio-sidecar-b5e3ba930835)
 * [k0s - Zero Friction Kubernetes](https://github.com/k0sproject/k0s)
   * [Small Kubernetes for your local experiments: k0s, MicroK8s, kind, k3s, and Minikube – Flant blog](https://blog.flant.com/small-local-kubernetes-comparison/)
 * k3s
@@ -1439,6 +1448,7 @@ Docker
 * [lima: Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)](https://github.com/lima-vm/lima)
   * [**containerd & Lima: Open source alternative to Docker for Mac | by Akihiro Suda | nttlabs | Sep, 2021 | Medium**](https://medium.com/nttlabs/containerd-and-lima-39e0b64d2a59)
   * [쿠버네티스 컨테이너 런타임 Docker에서 Containerd로 - Tech Blog - Tech Blog](https://tech.osci.kr/space/TB/21099380847/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4+%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88+%EB%9F%B0%ED%83%80%EC%9E%84+Docker%EC%97%90%EC%84%9C+Containerd%EB%A1%9C)
+  * [Why and How to Use containerd from the Command Line - Ivan Velichko](https://iximiuz.com/en/posts/containerd-command-line-clients/)
 * multipass [Docker Desktop 대탈출, multipass로 갑니다](https://jybaek.tistory.com/934)
 
 # Network
@@ -1611,3 +1621,4 @@ Docker
 * [Windows 컨테이너 4: 베이스 이미지, 격리 방식에 대한 이해](https://tech.devsisters.com/posts/windows-container-basics/)
 * [Docker Desktop WSL 2 Tech Preview](https://docs.docker.com/docker-for-windows/wsl-tech-preview)
 * [Windows 10 Home에 Docker 설치하기](https://github.com/jehyunlee/docker/blob/master/Win10Home/text.md)
+* [docker-qemu-win2000: A Docker image for Windows 2000 Advanced Server with SP4](https://github.com/hectorm/docker-qemu-win2000)
