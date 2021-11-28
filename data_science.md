@@ -331,6 +331,10 @@ Data Science
 * [양질의 데이터를 판별하는 5가지 방법 : 데이터 양은 충분한가? | 요즘IT](https://yozm.wishket.com/magazine/detail/1070/)
 * [Log-based Change Data Capture — lessons learnt | by Andreas Buckenhofer | Daimler TSS Tech | Medium](https://medium.com/daimler-tss-tech/change-data-capture-lessons-learnt-7976391cf78d) Debezium, DynamoDB Streams, VoltDB
 * [데이터 분석에 필수적인 5 가지 마인드](https://brunch.co.kr/@04925bf0d77f43e/3)
+* [업무 지식도 모르면 데이터 분석을 할 수 없다！](https://brunch.co.kr/@04925bf0d77f43e/9)
+* [업무 지식도 모르면 데이터 분석을 할 수 없다! 2](https://brunch.co.kr/@04925bf0d77f43e/10)
+* [업무 지식도 모르면 데이터 분석을 할 수 없다! 3](https://brunch.co.kr/@04925bf0d77f43e/11)
+* [업무 지식도 모르면 데이터 분석을 할 수 없다! 4](https://brunch.co.kr/@04925bf0d77f43e/12)
 * [글로벌 칼럼 | ‘머신러닝은 만능이 아니다’ ML 대신 SQL 쿼리를 써야하는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/209077)
 * [칼럼ㅣ머신러닝의 첫 번째 규칙은 ML 없이 시작하는 것이다 - CIO Korea](https://www.ciokorea.com/news/208792)
 
