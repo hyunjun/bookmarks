@@ -176,6 +176,7 @@ C
 * [Learning that you can use unions in C for grouping things into namespaces](https://utcc.utoronto.ca/~cks/space/blog/programming/CUnionsForNamespaces)
 * [(12) Joe Zbiciak's answer to Can someone post a simplified C program for AI algorithm, and what type of hardware will be typically used? - Quora](https://www.quora.com/Can-someone-post-a-simplified-C-program-for-AI-algorithm-and-what-type-of-hardware-will-be-typically-used/answer/Joe-Zbiciak)
 * [그래서, 스택이랑 힙이 뭔데?](https://www.jiwon.me/explain-heap-and-stack/)
+* [C 언어 퀴즈](https://velog.io/@mythos/C-C-%EC%96%B8%EC%96%B4-%ED%80%B4%EC%A6%88)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
