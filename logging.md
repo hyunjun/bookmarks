@@ -53,6 +53,7 @@ Logging
   * 29CM에서 기존에는 Fluentd와 Elasticsearch로 로그 수집, 관리의 어려움과 로그 유실을 막기 위해 새 로그 수집 시스템 구축
   * 새 시스템은 로그 수집 단계에 Kafka를 두어 ES에 문제가 생겨도 Kafka가 데이터 유실 방지, Kafka 플러그인을 기본으로 제공하는 Logstash로 변경
 * [Logging at Twitter: Updated](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated)
+* [Who is the winner — Comparing Vector, Fluent Bit, Fluentd performance | by Ajay Gupta | IBM Cloud | Medium](https://medium.com/ibm-cloud/log-collectors-performance-benchmarking-8c5218a08fea)
 
 # Fluentd
 * [Fluentd](http://www.fluentd.org/)
