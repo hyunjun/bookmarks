@@ -130,6 +130,8 @@ Book
 * [앵무, <초년의 맛>](https://brunch.co.kr/@gk5000/53)
   * ★★★☆☆ 2021.11.20
   * 어쩐지 심야 식당이 생각나는 만화. 약간 내 스타일과 안 맞는 부분이 있지만 괜찮았다.
+* [시튼: 방랑하는 자연주의자](https://newstream.kr/posts/3914230)
+  * ★★★☆☆ 2021.11.28
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
