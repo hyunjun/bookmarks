@@ -9,6 +9,9 @@
 * [제주 꽃 지도](https://www.notion.so/c2853e7433804bbc94846f956301e8da)
 * [내게는 한없이 다정한 남쪽나라](https://opentutorials.org/course/4741) 카페 숙소 식당 빵집 등
 * [어라운드제주](http://aroundjeju.com/)
+* [파이썬으로 제주맛집 스크래핑](https://billcoreapython.tistory.com/34)
+* [파이썬으로 제주 맛집 주소를 찾아서 (2)](https://billcoreapython.tistory.com/36)
+* [파이썬으로 제주의 맛집을 찾아서 (3)](https://billcoreapython.tistory.com/40)
 
 # Coffee
 * [혼자만 알고 싶은 제주도 카페들..맛과 멋 가득한 낭만 플레이스](http://media.daum.net/life/food/restaurant/newsview?newsId=20150925094905846&RIGHT_LIFE=R11)
