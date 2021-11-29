@@ -963,6 +963,7 @@ Programming
 * [Hexagonal Architecture](https://blog.imqa.io/hexagonal-architecture/)
 * [How To Make Your App Maintainable (hint: Adopt Hexagonal Architecture) - YouTube](https://www.youtube.com/watch?v=92ZJcxJgmmE)
 * [**지속 가능한 소프트웨어 설계 패턴: 포트와 어댑터 아키텍처 적용하기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/port-and-adapter-architecture/) hexagonal or ports and adapters
+* [실용적인 포트와 어댑터 적용](https://brunch.co.kr/@graypool/259) hexagonal
 * [헤드리스 커머스와 SW 아키텍처](https://brunch.co.kr/@graypool/256)
 * [**계층형 아키텍처**](https://jojoldu.tistory.com/603)
 * [마이크로서비스 내부아키텍처 - 1회 : 데이터 중심 아키텍처의 문제점 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/microservice%20inner%20achitecture/inner-architecture-1/)
