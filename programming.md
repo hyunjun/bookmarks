@@ -1395,6 +1395,7 @@ Programming
 * [Migrating Data-Intensive, High-Throughput APIs to Microservices | by Maggie Lou | Thumbtack Engineering | Nov, 2021 | Medium](https://medium.com/thumbtack-engineering/migrating-data-intensive-high-throughput-apis-to-microservices-9624939f9cee)
 * [Scaling productivity on microservices at Lyft (Part 1) | by Garrett Heel | Nov, 2021 | Lyft Engineering](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-1-a2f5d9a77813)
 * [Microservices, reasoning about boundaries | by Andras Gerlits | Nov, 2021 | ITNEXT](https://itnext.io/microservices-reasoning-about-boundaries-8da26c0271cb)
+* [Complex Systems: Microservices and Humans - YouTube](https://www.youtube.com/watch?v=E8A3Yn2Vjx8)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
