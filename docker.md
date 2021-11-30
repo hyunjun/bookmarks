@@ -1135,6 +1135,7 @@ Docker
 * [Distroless Container Debugging on K8s/OpenShift | by Zhimin Wen | ITNEXT](https://itnext.io/distroless-container-debugging-on-k8s-openshift-e418fd66fdad)
 * [The Kubernetes Handbook](https://www.freecodecamp.org/news/the-kubernetes-handbook/)
 * [네트워크 엔지니어에게 쿠버네티스는 어떤 의미일까요](https://www.slideshare.net/JoHoon1/ss-250737544)
+* [Kubernetes: What is "reconciliation"? - Speaker Deck](https://speakerdeck.com/thockin/kubernetes-what-is-reconciliation)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
