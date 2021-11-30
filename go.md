@@ -805,6 +805,7 @@ Go
 * [A Million WebSockets and Go](https://medium.freecodecamp.org/million-websockets-and-go-cc58418460bb)
 * [Million WebSockets and Go](https://gbws.io/articles/million-websocket-and-go/)
 * [Golang: Websocket masking과 cache poisoning](https://jusths.tistory.com/250)
+* [Golang: gorilla/websocket 으로 보는 websocket handshake](https://jusths.tistory.com/251)
 * [centrifugo - Real-time messaging (Websockets or SockJS) server in Go](https://github.com/centrifugal/centrifugo)
 * [go-websocket-chat-demo](https://github.com/heroku-examples/go-websocket-chat-demo)
   * [Building a high-scale chat server on Cloud Run](https://ahmet.im/blog/cloud-run-chat-server/)
