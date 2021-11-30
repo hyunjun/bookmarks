@@ -1114,6 +1114,7 @@ Programming
 * [Foundational distributed systems papers](http://muratbuffalo.blogspot.com/2021/02/foundational-distributed-systems-papers.html)
 * [Summer Blog Backlog: Distributed Systems](http://www.oilshell.org/blog/2021/07/blog-backlog-2.html)
 * [Engineering dependability and fault tolerance in a distributed system - High Scalability -](http://highscalability.com/blog/2021/2/19/engineering-dependability-and-fault-tolerance-in-a-distribut.html)
+* [Ordering Distributed Events. One of the hardest things about… | by Vaidehi Joshi | baseds | Medium](https://medium.com/baseds/ordering-distributed-events-29c1dd9d1eff)
 * [etcd | Home](https://etcd.io/)
   * [A Few Notes on Etcd Maintenance. Learnings on provisioning, compaction… | by Tasdik Rahman | Gojek Product + Tech](https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe)
 
@@ -1396,6 +1397,8 @@ Programming
 * [Scaling productivity on microservices at Lyft (Part 1) | by Garrett Heel | Nov, 2021 | Lyft Engineering](https://eng.lyft.com/scaling-productivity-on-microservices-at-lyft-part-1-a2f5d9a77813)
 * [Microservices, reasoning about boundaries | by Andras Gerlits | Nov, 2021 | ITNEXT](https://itnext.io/microservices-reasoning-about-boundaries-8da26c0271cb)
 * [Complex Systems: Microservices and Humans - YouTube](https://www.youtube.com/watch?v=E8A3Yn2Vjx8)
+* [실전 마이크로서비스 아키텍처 적용](https://brunch.co.kr/@graypool/255)
+* [How do microservices fit into enterprise software platforms? | by Chanaka Fernando | Nov, 2021 | FAUN Publication](https://faun.pub/how-do-microservices-fit-into-enterprise-software-platforms-90686c2f0148)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
