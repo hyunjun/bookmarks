@@ -321,7 +321,7 @@ Programming Books
   * [독서광 가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://jhrogue.blogspot.com/2021/08/blog-post.html)
 * (NOT YET) [Microservices Up & Running](https://jybaek.tistory.com/933)
 * (NOT YET) [만들면서 배우는 클린 아키텍처 | 위키북스](https://wikibook.co.kr/clean-architecture/) hexagonal architecture
-  * [독서광 만들면서 배우는 클린 아키텍처(이벤트 있음) - YouTube](https://www.youtube.com/watch?v=KO4jgqQ0u84)
+  * [독서광 만들면서 배우는 클린 아키텍처 (이벤트 있음)](https://jhrogue.blogspot.com/2021/12/blog-post.html)
 
 # C
 
