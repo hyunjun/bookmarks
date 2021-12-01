@@ -1709,6 +1709,7 @@ Javascript
   * [Run Cypress Tests on Netlify Using a Single Line](https://cypress.io/blog/2020/03/30/run-cypress-tests-on-netlify-using-a-single-line/)
   * [Netlify 로 정적 웹 사이트 배포하기](https://jojoldu.tistory.com/546)
   * [Tutorial - How To Deploy Your Site Under 1 Min With Netlify - YouTube](https://www.youtube.com/watch?v=iw4o2BZ0vy0)
+  * [Netlify Drop | Netlify](https://app.netlify.com/drop) HTML, CSS, JavaScript 등 정적 파일이 있는 폴더를 Netlify 사이트에 드래그 앤 드롭하면 바로 웹사이트 배포하는 Drop 기능 추가
 * [notie.js - a clean and simple notification plugin (alert/growl style) for javascript, with no dependencies](https://github.com/jaredreich/notie.js)
 * [nuxt.js](https://nuxtjs.cmty.io/)
   * [네이버 D2 클론 코딩하기 1편](https://brunch.co.kr/@skykamja24/317)
@@ -1762,7 +1763,11 @@ Javascript
 * [reddit shell is a web based linux shell emulator written in JavaScript that lets you browse and interact with reddit via command line https://redditshell.com ](https://github.com/jasonbio/reddit-shell)
 * [Relax - New generation CMS on top of React, Redux and GraphQL http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [Remix - Build Better Websites](https://remix.run/)
+  * 웹의 기초와 인터페이스에 집중할 수 있게 해주어서 더 좋은 웹사이트를 만들 수 있게 해준다는 Remix v1 stable version 공개
+  * Web Fetch API를 이용, 어디서나 동작 가능, 당연히 브라우저뿐 아니라 Node.js 환경에서도 동작
+  * 다른 웹앱과 달리 컴포넌트 안에서가 아니라 병렬로 데이터를 불러오므로 페이지를 빨리 불러올 수 있고 로딩 메시지를 보지 않아도 됨
   * [Remix Tutorial을 해보며 | immigration9](https://immigration9.github.io/react,remix/2021/11/28/remix.html)
+  * [Remix Philosophy | immigration9](https://immigration9.github.io/react,remix/2021/11/30/remix-philosophy.html)
 * reveal.js [The HTML presentation framework | reveal.js](https://revealjs.com/#/)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
@@ -2434,6 +2439,7 @@ Javascript
   * [Dev.to처럼 포스팅 제목을 이미지로 만들어서 링크 미리보기(Link Preview) 이미지에 넣어보자 | by Jusung Hwang | Apr, 2021 | Medium](https://nabigraphics.medium.com/dev-to%EC%B2%98%EB%9F%BC-%ED%8F%AC%EC%8A%A4%ED%8C%85-%EC%A0%9C%EB%AA%A9%EC%9D%84-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%84%9C-%EB%A7%81%ED%81%AC-%EB%AF%B8%EB%A6%AC%EB%B3%B4%EA%B8%B0-link-preview-%EC%9D%B4%EB%AF%B8%EC%A7%80%EC%97%90-%EB%84%A3%EC%96%B4%EB%B3%B4%EC%9E%90-ec9157a1ce8f)
     * [nabigraphics/render-link-preview-image-on-server-example: Render an link preview image on server](https://github.com/nabigraphics/render-link-preview-image-on-server-example)
   * [Express로 CRUD api 만들기 (01)](https://www.jiwon.me/express-mongodb-crud-api-01/)
+  * [Express-mongoDB로 CRUD API 만들기(02)](https://www.jiwon.me/express-mongodb-crud-api-02/)
 * [falcor - A JavaScript library for efficient data fetching](http://netflix.github.io/falcor/)
 * [Famous Engine - High-performance javascript library for animations & interfaces](http://famous.org/)
 * [Fastify, Fast and low overhead web framework, for Node.js](https://www.fastify.io/)
