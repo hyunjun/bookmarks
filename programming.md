@@ -3202,6 +3202,8 @@ Programming
 # RPA
 * [All the Robotic Process Automation (RPA) Stats You Need to Know](https://towardsdatascience.com/all-the-robotic-process-automation-rpa-stats-you-need-to-know-bcec22eaaad9)
 * [마케팅에 'RPA' 도입하기 전에... CMO가 알아야 할 것 - CIO Korea](https://www.ciokorea.com/news/208897)
+* Bubble [The best way to build web apps without code | Bubble](https://bubble.io/)
+  * [노 코드 툴, ‘버블’의 A to Z | ㅍㅍㅅㅅ](https://ppss.kr/archives/247069)
 * [Workflow86 | Operations Automation Platform](https://www.workflow86.com/)
 
 # RPC
