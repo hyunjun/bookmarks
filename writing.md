@@ -142,8 +142,6 @@ Writing
 * [LaTeX 과 PDF](https://statkclee.github.io/latex/document-ide.html)
 * [LaTeX 과 PDF](https://statkclee.github.io/latex/latex-writing.html)
 * [Building a Documentation Culture :: antrix.net](https://antrix.net/posts/2021/documentation/) c4model
-* [테크니컬 라이팅 4대 원칙](https://tech.kakaoenterprise.com/102)
-  * [테크니컬 라이팅 4대 원칙 | GeekNews](https://news.hada.io/topic?id=5409)
 * [apiDoc - Inline Documentation for RESTful web APIs](https://apidocjs.com/)
   * [개발자가 싫어하는 문서화하기 2편 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222067713267)
 * [API Improvement Proposals](https://aip.dev)
@@ -166,6 +164,14 @@ Writing
 * [구글 테크니컬라이터가 전하는 이야기 - Tech. Writer Log](https://naraewool.gitbook.io/techwriter/untitled/google-techwriter)
 * [“좋은 문서 없으면 좋은 코드도 없어” 테크니컬 라이터의 중요성 - ITWorld Korea](https://www.itworld.co.kr/news/202624)
 * ['테크니컬라이팅' 태그의 글 목록](https://tech-kakaoenterprise.tistory.com/tag/%ED%85%8C%ED%81%AC%EB%8B%88%EC%BB%AC%EB%9D%BC%EC%9D%B4%ED%8C%85)
+* [테크니컬 라이팅 4대 원칙](https://tech.kakaoenterprise.com/102)
+  * [테크니컬 라이팅 4대 원칙 | GeekNews](https://news.hada.io/topic?id=5409)
+* [퇴고의 기술 #기술문서\_작성법#개발자\_글쓰기 #테크니컬라이터](https://tech.kakaoenterprise.com/125)
+  * 글을 쓰고 다시 살펴보며 수정하는 퇴고는 글쓰기에서 중요하지만, 사람은 아는 내용의 경우 눈을 100% 사용하지 않기 때문에 효과적으로 하기가 어려우므로 몇 가지 팁 제공
+    * 내 글을 낯설게 하기 위해 소리 내 읽거나 일정 시간 뒤에 읽거나 종이로 프린트해서 읽어 볼 수 있다
+    * 다른 사람이 읽고 피드백을 줄 수 있는 피어리뷰를 도입하는 것은 아주 효과적이다.
+    * 퇴고에서 공통으로 확인해야 항목은 체크리스트로 만들어서 관리하는 것이 좋다.
+    * 퇴고 시에는 문장은 단문으로 정리하고 불필요한 표현을 제거하고 대명사 대신 직접 대상을 언급하면서 논리적으로 구성하는 게 좋다.
 
 # Reading
 * [How to Remember What You Read](https://fs.blog/2021/08/remember-books/)
