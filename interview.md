@@ -421,6 +421,7 @@ Interview
     * [Geohash: Deep Intuitive Understanding in under 7 Minutes](https://www.youtube.com/watch?v=UaMzra18TD8)
     * [How to Build an app like Uber? (Uber Clone)](https://www.engineerbabu.com/blog/how-to-build-an-app-like-uber/)
     * [**Uber 아키텍처와 시스템 디자인**](https://blog.imqa.io/uber-architecture-system-design/)
+    * [Uber 아키텍처와 시스템 디자인 | Architecture 101](https://architecture101.blog/2021/12/01/uber-architecture-design/)
   * Video
     * [Design Video Sharing System Like Youtube](https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/)
     * [How to Design Youtube (Part I)](http://blog.gainlo.co/index.php/2016/10/22/design-youtube-part/)
