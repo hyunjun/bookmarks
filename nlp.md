@@ -969,6 +969,8 @@ NLP
 * [구독자 GPT-3는 우리 중에 최약체지](https://maily.so/kyeom.ai/posts/366f2a)
 * [GPT-3 is not That Smart. With a Reason | LinkedIn](https://www.linkedin.com/pulse/gpt-3-smart-reason-stojancho-tudjarski/)
 * [GPT-3 is No Longer the Only Game in Town - Last Week in AI](https://lastweekin.ai/p/gpt-3-is-no-longer-the-only-game)
+* [OpenAI’s API Now Available with No Waitlist](https://openai.com/blog/api-no-waitlist/)
+  * GPT-3 악용을 막기 위해 그동안 API의 사용이 허가된 사용자만 사용 가능했으나 이제 보호장치를 만들어 지원국가의 사용자는 가입만 하면 GPT-3 API 사용 가능. API는 [콘텐츠 가이드라인](https://beta.openai.com/docs/usage-guidelines/content-guidelines)하에서만 사용
 * [OpenAI Codex 공개 및 파이썬 퍼즐 챌린지 예정 | GeekNews](https://news.hada.io/topic?id=4803)
 * [gpt-neo: An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library](https://github.com/EleutherAI/gpt-neo/)
 * [21년 2월 2주 - from __future__ import dreamfrom __future__ import dream](http://freesearch.pe.kr/archives/5034)
