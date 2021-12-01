@@ -1658,6 +1658,7 @@ Programming
 * [소스코드 리뷰에 대한 짧은 이야기](http://www.mobiinside.com/kr/2016/09/23/source-code/)
 * [구글의 깐깐한 코드리뷰 환경](http://verticalplatform.kr/archives/7945)
 * [드라마의 Pair Programming과 Code Review 도입 후기](http://blog.dramancompany.com/2016/05/%EB%93%9C%EB%9D%BC%EB%A7%88%EC%9D%98-pair-programming%EA%B3%BC-code-review-%EB%8F%84%EC%9E%85-%ED%9B%84%EA%B8%B0/)
+* [나의 페어 프로그래밍 탐험기 – tech.kakao.com](https://tech.kakao.com/2021/12/01/pair-programming/)
 * [제 1회 reView meetup 참석후기](http://jojoldu.tistory.com/133)
 * [(번역) 진짜배기 코드 평가자라면 하지 말아야 할 네 가지](https://emaren84.github.io/blog/archivers/four-nos-of-serious-code-reviewer-kor)
 * [1000 개의 코드 리뷰를 통해 배운 점 (What I learned from doing 1000 code reviews)](https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f)
@@ -2276,6 +2277,8 @@ Programming
 * [Velocity 09: John Allspaw and Paul Hammond, "10+ Deploys Pe - YouTube](https://www.youtube.com/watch?v=LdOe18KhtT4)
 * [halting problem : Dev v Ops](https://www.bassi.io/articles/2017/08/10/dev-v-ops/)
 * [DevOps Principles - The CASM Model - YouTube](https://www.youtube.com/watch?v=VySUutlo91E)
+* [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
+  * GitHub, Jira 등의 도구를 연결해서 데이터를 수집한 뒤 이를 시각화해서 사용할 수 있는 데이터 레이크 및 대시보드
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
@@ -2859,6 +2862,7 @@ Programming
   * [기술 뉴스 #184 : 21-10-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1568)
   * [기술 뉴스 #185 : 21-11-02 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1569)
   * [기술 뉴스 #186 : 21-11-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1570)
+  * [기술 뉴스 #187 : 21-12-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1571)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -3089,6 +3093,7 @@ Programming
 * [**Armeria로 Reactive Streams와 놀자! – 1**](https://engineering.linecorp.com/ko/blog/reactive-streams-with-armeria-1/)
 * [**Armeria로 Reactive Streams와 놀자! – 2**](https://engineering.linecorp.com/ko/blog/reactive-streams-with-armeria-2/)
 * [**반응형 프로그래밍이란 무엇인가?**](https://brunch.co.kr/@tilltue/62)
+* [Stream Backpressure의 이해 | Doublem.org](https://doublem.org/stream-backpressure-basic/)
 
 # Real Time Processing, Streaming
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming
