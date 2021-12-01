@@ -948,6 +948,7 @@ Web
 * [기계들의 대화법 - REST API - YouTube](https://www.youtube.com/watch?v=PmY3dWcCxXI)
 * [멱등성?](https://velog.io/@juunini/%EB%A9%B1%EB%93%B1%EC%84%B1)
 * [REST vs. GraphQL vs. gRPC · Dan Hacks](https://www.danhacks.com/software/grpc-rest-graphql.html)
+* [개발 초보를 위한 RESTful API 설계 가이드](https://velog.io/@couchcoding/%EA%B0%9C%EB%B0%9C-%EC%B4%88%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-RESTful-API-%EC%84%A4%EA%B3%84-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [API Architecture — Performance Best Practices for REST APIs | by Abdul Wahab | Nov, 2021 | Medium](https://abdulrwahab.medium.com/api-architecture-performance-best-practices-for-rest-apis-1d4a5922dae1)
 
 ## Restful Python
@@ -1039,6 +1040,13 @@ Web
 * [웹 프론트 속도 개선을 위한 필수도구 소개](https://velog.io/@dochis/%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8-%EC%86%8D%EB%8F%84-%EA%B0%9C%EC%84%A0%EC%9D%84-%EC%9C%84%ED%95%9C-%ED%95%84%EC%88%98%EB%8F%84%EA%B5%AC-%EC%86%8C%EA%B0%9C)
 * [Web Performance Metrics Cheatsheet](https://bitsofco.de/web-performance-metrics-cheatsheet/)
   * [웹 성능 지표 Cheatsheet | GeekNews](https://news.hada.io/topic?id=5339)
+* [Creating Airbnb’s Page Performance Score | by Andrew Scheuermann | The Airbnb Tech Blog | Nov, 2021 | Medium](https://medium.com/airbnb-engineering/creating-airbnbs-page-performance-score-5f664be0936)
+  * Airbnb에서 페이지 성능을 Web, iOS, Android의 모든 플랫폼의 실사용자로부터 측정해서 0~100점으로 평가한 성능 점수(Page Performance Score)를 만드는 과정을 설명
+  * 처음 성능을 추적할 때는 Time To Airbnb Interactive(TTAI)라는 인터랙트를 하는 시간을 측정하는 지표 사용
+    * 좋은 효과도 많았지만 인터랙트를 정의하기 어려웠고 TTAI는 좋은데 엔게이지먼트를 떨어지는 문제도 있었고 하나의 지표로 모든 걸 담을 수 없음
+  * 그래서 하나의 숫자로 성능을 볼 수 있는 Page Performance Score(PPS) 작성
+    * 모든 매트릭을 "초기 로딩 매트릭"과 로드 후 반응성을 보는 "페이지 로딩 매트릭"으로 분리
+    * 모든 매트릭 측정을 플랫폼의 특성에 맞게 하고 점수를 내기 위해 웹과 네이티브의 매트릭 가중치를 다르게 부여
 * [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
   * [Simple Performance Testing with Apache Benchmark](http://www.chriswpage.com/2010/01/simple-performance-testing-with-apache-benchmark/)
   * [Example of using Apache Bench (ab) to POST JSON to an API](https://gist.github.com/kelvinn/6a1c51b8976acf25bd78)
