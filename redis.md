@@ -55,6 +55,7 @@ Redis
   * [왜 Redis 응답이 느린데, slowlog에는 안찍히나요?](https://charsyam.wordpress.com/2020/03/15/%ec%9e%85-%ea%b0%9c%eb%b0%9c-%ec%99%9c-redis-%ec%9d%91%eb%8b%b5%ec%9d%b4-%eb%8a%90%eb%a6%b0%eb%8d%b0-slowlog%ec%97%90%eb%8a%94-%ec%95%88%ec%b0%8d%ed%9e%88%eb%82%98%ec%9a%94/)
   * [입 개발 Redis 6.0 – ThreadedIO를 알아보자](https://charsyam.wordpress.com/2020/05/05/%ec%9e%85-%ea%b0%9c%eb%b0%9c-redis-6-0-threadedio%eb%a5%bc-%ec%95%8c%ec%95%84%eb%b3%b4%ec%9e%90/)
   * [입 개발 Redis 장애 종류 정리 | Charsyam's Blog](https://charsyam.wordpress.com/2020/11/20/%ec%9e%85-%ea%b0%9c%eb%b0%9c-redis-%ec%9e%a5%ec%95%a0-%ec%a2%85%eb%a5%98-%ec%a0%95%eb%a6%ac/)
+  * [입 컨설팅 Self Managed Redis 가 좋을까? Managed Redis 가 좋을까? | Charsyam's Blog](https://charsyam.wordpress.com/2021/11/30/%ec%9e%85-%ec%bb%a8%ec%84%a4%ed%8c%85-self-managed-redis-%ea%b0%80-%ec%a2%8b%ec%9d%84%ea%b9%8c-managed-redis-%ea%b0%80-%ec%a2%8b%ec%9d%84%ea%b9%8c/)
 * [Redis와 전자정부프레임워크 연동](http://daddycat.blogspot.com/2017/06/redis.html)
 * [lua 사용 사례](http://knight76.tistory.com/entry/redis-lua-%EC%82%AC%EC%9A%A9-%EC%82%AC%EB%A1%80)
 * lock
@@ -186,6 +187,8 @@ Redis
   * [RedisGraph - a graph database module for Redis](https://oss.redislabs.com/redisgraph/)
     * [RedisGraph](https://redislabs.com/redis-enterprise/technology/redisgraph/)
   * [RedisJSON - a JSON data type for Redis](https://oss.redislabs.com/redisjson/)
+    * 새로운 도큐먼트 스토어. RediSearch 기반이며 실시간 도큐먼트 스토어로 JSON 타입을 사용해서 쿼리와 풀텍스트 서치 지원
+    * Reids에서는 MongoDB와 ElasticSearch보다 더 빠르고 실시간 업데이트가 검색과 읽기에 영향을 주지 않는다고 주장
     * [RedisJSON: Public Preview & Performance Benchmarking | Redis](https://redis.com/blog/redisjson-public-preview-performance-benchmarking/)
   * [RediSearch - Redis Secondary Index & Query Engine](https://oss.redislabs.com/redisearch/)
   * [RedisTimeSeries - Time-Series data structure for Redis](https://oss.redislabs.com/redistimeseries/)
