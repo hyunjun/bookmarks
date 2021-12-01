@@ -366,6 +366,7 @@ History
 * [기사 - 홍콩의 진실에 대하여 14: 홍콩인은 어떻게 사라지고 있는가](https://www.ddanzi.com/ddanziNews/708283432)
 * [기사 - 홍콩의 진실에 대하여 15: 중국과 충돌한 두 가지는 무엇일까](https://www.ddanzi.com/ddanziNews/709145543)
 * [기사 - 홍콩의 진실에 대하여 16: 중국인은 왜 홍콩인을 한심하게 생각할까](https://www.ddanzi.com/ddanziNews/710422625)
+* [기사 - 홍콩의 진실에 대하여 17: 첨밀밀이 흥행했던 이유, 현재 홍콩에 있다](https://www.ddanzi.com/ddanziNews/712029081)
 * [왜 중국은 고령화를 걱정하는가?](https://pgr21.com/freedom/90326)
 
 ## India
