@@ -164,4 +164,15 @@ Monitoring
 * [Amazon debuts fully managed, Prometheus-based container monitoring service - SiliconANGLE](https://siliconangle.com/2021/09/29/amazon-debuts-fully-managed-prometheus-based-container-monitoring-service/)
 * [A different and (often) better way to downsample your Prometheus metrics](https://blog.timescale.com/blog/a-different-and-often-better-way-to-downsample-your-prometheus-metrics/)
 * [Monitoring Rust web application with Prometheus and Grafana | Roman Kudryashov's tech blog](https://romankudryashov.com/blog/2021/11/monitoring-rust-web-application/)
-* [Introducing Prometheus Agent Mode, an Efficient and Cloud-Native Way for Metric Forwarding](https://prometheus.io/blog/)
+* [Introducing Prometheus Agent Mode, an Efficient and Cloud-Native Way for Metric Forwarding | Prometheus](https://prometheus.io/blog/2021/11/16/agent/)
+  * 새로운 운영 모드인 Agent 설명
+  * Prometheus는 Pull 방식으로 메트릭을 수집하는데 설계는 달라지지 않았지만 클라우드 네이티브가 발전하면서 클러스터 자체를 Pet이 아니라 Cattle로 취급 가능하게 됨(구분하지 않는다는 의미)
+  * 엣지 네트워크의 발전으로 작은 클러스터가 사방에 퍼지게 되어 글로벌 수준으로 매트릭을 수집해서 보여주어야 하게 되었는데 이를 Global-View라고 부른다
+  * Global-View를 위해 원격 네트워크를 통해 스크래핑하거나 애플리케이션에서 바로 Push하는 것은 나쁜 접근. 둘 다 신뢰하기 어렵고 많은 문제 발생 가능
+  * Prometheus는 글로벌뷰를 위해 3가지 접근 지원: Federation, Remote Read, Remote Write
+  * Remote Write
+    * Prometheus가 수집한 매트릭을 원격으로 포워딩하는 프로토콜. 이를 통해 글로벌뷰의 매트릭을 중앙에 저장 가능, 관심사도 분리
+    * 앞에서 Push 방식은 나쁘다고 하지 않았는가? Remote Write의 놀라운 점은 애플리케이션에서 매트릭을 수집할 때는 여전히 Pull 방식 사용
+    * 다음 릴리스인 Prometheus v2.32.0에 실험적인 --enable-feature=agent 플래그가 추가되고 에이전트 모드는 remote write에 맞게 Prometheus를 최적화
+    * 에이전트 모드는 write가 성공하면 데이터를 즉시 지우기 때문에 효율적이고 ingestion의 수평적 확장 용이
+    * 에이전트 모드로 Prometheus 기반 스크래핑의 자동확장 기능을 쉽게 적용 가능
