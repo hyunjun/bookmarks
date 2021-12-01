@@ -255,6 +255,7 @@ Network
 * [BGP in a Nutshell | std::bodun::blog](https://www.bodunhu.com/blog/posts/bgp-in-a-nutshell/) Border Gateway Protocol (BGP)
 * [“인터넷이 지구 반대편을 연결하는 방법” BGP의 개념과 동작 원리 - ITWorld Korea](https://www.itworld.co.kr/news/181614)
 * [Facebook을 다운 시킨 이유, BGP hijacking이 무엇인가? :: 시행착오를 줄이는 방법](https://dataportal.kr/14)
+* [KT와 페이스북의 장애에서 배운 리스크 관리의 중요성 김국현 IT 사회학 - 이코노미스트](https://economist.co.kr/2021/11/14/column/expertColumn/20211114103003911.html)
 * [Understanding How Facebook Disappeared from the Internet](https://blog.cloudflare.com/october-2021-facebook-outage/)
   * 지난 10월 5일 Facebook, Instagrm, Whatsapp이 5시간 정도 접속이 안 되는 장애 발생, 이를 Cloudflare에서 분석 정리한 글
   * 이번 장에는 서버에 접속 안 된 것뿐 아니라 DNS 룩업도 안되고 인터넷에서 페이스북이 운영하는 모든 네트워크에 연결이 아예 불가능
