@@ -946,6 +946,7 @@ Docker
   * [번역 쿠버네티스 네트워킹 이해하기#3: Ingress | 커피고래의 노트](https://coffeewhale.com/k8s/network/2019/05/30/k8s-network-03/)
 * [Life of a Packet in Kubernetes — Part 1 | by Dinesh Kumar Ramasamy | Medium](https://dramasamy.medium.com/life-of-a-packet-in-kubernetes-part-1-f9bc0909e051)
   * [번역 쿠버네티스 패킷의 삶 - #1 | 커피고래의 노트](https://coffeewhale.com/packet-network1)
+  * [번역 쿠버네티스 패킷의 삶 - #2 | 커피고래의 노트](https://coffeewhale.com/packet-network2) calico
 * [**Journey to Kubernetes with Blockchain Network(+CKAD)**](https://engineering.linecorp.com/ko/blog/journey-to-kubernetes-with-blockchain-network-ckad/)
 * [**Diving Deep Into Kubernetes Networking: Docker와 k8s 네트워크 분석**](https://woohhan.github.io/study/k8s_networking_deep_diving/)
 * [A Guide to the Kubernetes Networking Model - Kevin Sookocheff](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
@@ -1333,6 +1334,8 @@ Docker
 * [Reloader: A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig](https://github.com/stakater/Reloader) prod에서는 추천하지 않는다는 의견이 있음
 * [sealed-secrets: A Kubernetes controller and tool for one-way encrypted Secrets](https://github.com/bitnami-labs/sealed-secrets)
   * [GitOps Secret 관리 | 커피고래의 노트](https://coffeewhale.com/sealedsecret)
+    * GitOps를 할 때 시크릿은 Git 저장소에 넣을 수가 없으므로 이 부분을 따로 관리해야 하는데 이 부분을 해결하기 위해서 SealedSecret 이용 방법 설명
+    * SealedSecret의 인증서로 시크릿 데이터를 암호화해서 Git 저장소에 커밋하면 Kubernetes 클러스터에 적용될 때 SealedSecret 컨트롤러가 암호화된 값을 복호화해서 Kubernetes Secret으로 작성
 * [simplenetes: The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods](https://github.com/simplenetes-io/simplenetes)
 * Skaffold
   * [쿠버네티스용 Continuous Deployment 툴인 Skaffold](https://bcho.tistory.com/1342)
