@@ -1071,6 +1071,13 @@ AWS
   * AI와 ML 툴링은 Python을 기반으로하며 scikit-learn 같은 Python 기반 도구를 사용하기 때문에 Python 기반 Lambda 런타임이 선택
 * [Amazon making online machine learning courses available for free](https://www.amazon.science/latest-news/machine-learning-course-free-online-from-amazon-machine-learning-university)
 * [Graviton2 EC2로 BERT 돌리기?](https://brunch.co.kr/@ueber/321)
+* [Python x ARM: Graviton2 실전 도입기](https://engineering.ab180.co/stories/migrating-python-application-to-arm) ML 내용은 아님
+  * AB180 백엔드 팀에서 인스턴스 비용을 줄이기 위해서
+    * ARM 기반의 AWS Graviton 인스턴스로 넘어갈 수 있는지를 테스트
+    * 자사의 트래킹 서버를 ARM으로 넘어갈 수 있는지 확인하기 위해서 사용하는 패키지 중에 ARM으로 빌드할 수 없는 것을 직접 빌드해서 해결
+  * 프로덕션에 적용하기 위해서 Docker 멀티아키텍처를 시도했으나 너무 빌드 시간이 오래 걸려 단일 아키텍처로 가기로 결정
+  * 직접 빌드한 파이썬 패키지를 위해서 파이썬 인덱스를 구축하고 ARM 빌드를 위해 AWS CodeBuild에서 ARM 기반의 컨테이너를 사용하도록 마이그레이션
+  * 성능 10%가량 향상, 빌드 타임과 복잡도 증가
 * [AWS Certified Machine Learning-Specialty 도전기 | by Minsu Cho | Hard Boiled Smith Stories | Oct, 2020 | Medium](https://medium.com/hbsmith/aws-certified-machine-learning-specialty-%EB%8F%84%EC%A0%84%EA%B8%B0-36620bb7545b)
 * [data-science-on-aws/workshop: AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker](https://github.com/data-science-on-aws/workshop)
 
