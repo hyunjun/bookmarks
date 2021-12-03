@@ -924,6 +924,7 @@ Javascript
 * [angular + firebase + rxjs - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=26641917)
 * [Complex Angular Component Interaction Examples](https://medium.com/javascript-in-plain-english/complex-angular-component-interaction-examples-b1f9488a784c)
 * [Micro Frontend Web Components 기반 마이크로 프론앤드](https://mobicon.tistory.com/573)
+* [웹 컴포넌트가 프론트엔드 프레임워크를 대신할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1193/) web component
 * [The Many Flavours of Micro Front Ends - Better Programming - Medium](https://medium.com/better-programming/the-many-flavours-of-micro-front-ends-2db4b21dfbaa)
 * [NX기반 Enterprise Angular Monorepo Patterns](https://mobicon.tistory.com/574)
 * [NX Lazy loading with Router 또는 without Router - 1](https://mobicon.tistory.com/576)
@@ -3474,6 +3475,7 @@ Javascript
   * [NextJS 프로젝트에서 Jest가 MDX를 인식하게 하기](https://velog.io/@juunini/NextJS-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90%EC%84%9C-Jest%EA%B0%80-MDX%EB%A5%BC-%EC%9D%B8%EC%8B%9D%ED%95%98%EA%B2%8C-%ED%95%98%EA%B8%B0)
   * [Next.js 응용편](https://clelab.io/course/next-js)
   * [Next.js 12에서 주목해야 할 5가지 변화 | 요즘IT](https://yozm.wishket.com/magazine/detail/1180/)
+  * [Next.js SSG(static site generation), SEO를 위한 meta 태그 적용하기 | by gon Kim | elecle | Dec, 2021 | Medium](https://medium.com/elecle-bike/next-js-ssg-static-site-generation-seo%EB%A5%BC-%EC%9C%84%ED%95%9C-meta-%ED%83%9C%EA%B7%B8-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-db34ebfd9d9e)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
@@ -3939,6 +3941,7 @@ Javascript
 * [TS에서 숫자타입을 정수로 제한할 수 있나요?](https://velog.io/@vraimentres/ts-integer)
 * [TypeScript 환경에서 class-transformer 적극적으로 사용하기](https://jojoldu.tistory.com/617)
 * [힙하게 Typescript 보일러플레이트 구성하기](https://www.jiwon.me/hip-ts-boiler/)
+* [타입스크립트 꿀팁 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2021/211012-typescript-tip/)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
