@@ -558,6 +558,7 @@ Git
   * [깃헙 서로 다른 저장소를 같은 서버에 배포시 배포 키 중복 오류](https://hyeonseok.com/soojung/dev/2017/06/21/820.html)
   * [윈도우 git 체크아웃 Filename too long 오류 처리](http://javacan.tistory.com/entry/window-git-filename-too-long-error)
   * [ssh: connect to host github.com port 22: Connection timed out](https://stackoverflow.com/questions/15589682/ssh-connect-to-host-github-com-port-22-connection-timed-out)
+  * [Git 설정 파일 팀원들과 공유하기](https://www.jiwon.me/share-git-config/)
 * deps
   * [Git Deps for Clojure](https://clojure.org/news/2018/01/05/git-deps)
 * `diff`
