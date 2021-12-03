@@ -130,6 +130,7 @@ Azure
 * [An Illustrated Guide To Fusion Development](https://techcommunity.microsoft.com/t5/azure-developer-community-blog/an-illustrated-guide-to-fusion-development/ba-p/2567146)
 * [MVP Watch Party (8번째 이야기) -  Dynamics 365 + Power Platform (회사 쇼핑몰 프로그램에 파워 플랫폼으로 날개 달기) - YouTube](https://www.youtube.com/watch?v=2ej0RknvGnk)
 * [깃헙 액션과 Microsoft 365, 파워 플랫폼을 이용해서 혼자서 해커톤 운영하기 | Aliencube](https://blog.aliencube.org/ko/2021/08/20/running-hackathon-by-yourself-with-gha-m365-and-pp/)
+* [깃헙 액션 재활용 기능을 활용해서 애저 정적 웹 앱 CI/CD 파이프라인 리팩토링하기 | Aliencube](https://blog.aliencube.org/ko/2021/12/01/refactoring-aswa-github-actions-workflow/)
 * [애저 정적 웹 앱에 배포한 블레이저 웹어셈블리 앱에 Microsoft Graph를 통해 사용자 데이터 출력하기 | Aliencube](https://blog.aliencube.org/ko/2021/09/15/accessing-msgraph-from-blazor-wasm-running-on-aswa/)
 * [It's tough being an Azure fan – Alex Hudson](https://www.alexhudson.com/2021/09/17/its-tough-being-an-azure-fan/)
 * [OpenAPI 인증 플로우를 이용한 애저 펑션 엔드포인트 접근 권한 관리 | Aliencube](https://blog.aliencube.org/ko/2021/10/06/securing-azure-function-endpoints-via-openapi-auth/)
