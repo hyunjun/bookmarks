@@ -2420,6 +2420,7 @@ Programming
   * [mqtt - raspberry pi 센서데이터를 서버로 보내기 (1)](http://jusths.tistory.com/23)
   * [mqtt - raspberry pi 센서데이터를 서버로 보내기 (2)](http://jusths.tistory.com/24)
   * [Towards a Reliable Device Management Platform | by Netflix Technology Blog | Aug, 2021 | Netflix TechBlog](https://netflixtechblog.com/towards-a-reliable-device-management-platform-4f86230ca623)
+  * [MQTT : IoT를 위한 표준 메시징 서비스](https://naleejang.tistory.com/250)
   * [HiveMQ Goes Open Source, Brings MQTT and Kafka Together](https://www.infoq.com/news/2019/04/hivemq-extension-kafka-mqtt)
 * [NATS is an open-source, high-performance, lightweight cloud native messaging system](http://nats.io/)
 * [RabbitMQ](https://www.rabbitmq.com/)
