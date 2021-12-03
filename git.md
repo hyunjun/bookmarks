@@ -156,15 +156,6 @@ Git
 * [GitHub Container Registry 사용하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1530)
 * [GitHub Actions에서 GitHub Container Registry에 이미지 푸시하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1531)
 * [**Git 계정 여러 개 동시 사용하기**](https://blog.outsider.ne.kr/1448)
-* [README.md 10초만에 깔끔하게 만드는 법](https://gomcine.tistory.com/entry/READMEmd-10%EC%B4%88%EB%A7%8C%EC%97%90-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95?category=624615)
-* [fiddly: Create beautiful and simple HTML pages from your Readme.md files](https://github.com/SaraVieira/fiddly)
-  * [Fiddly - Readme를 예쁜 웹페이지로 만들기 | GeekNews](https://news.hada.io/topic?id=4688)
-* [Unlocking GitHub's Hidden Feature in 3 Minutes - YouTube](https://www.youtube.com/watch?v=0_RDoNJ1zGg)
-* [Github Profile Readme로 프로필 꾸미기 · 어쩐지 오늘은](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/)
-* [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)
-* [github profile 예쁘게 꾸미기](https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0)
-* [README Badge를 커스텀 해보자!](https://velog.io/@juunini/README-Badge%EB%A5%BC-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%95%B4%EB%B3%B4%EC%9E%90)
-* [Github Profile에 사용하는 Badge API 만들기 (Kaggle Badge)](https://ansubin.com/github-profile-kaggle-badge/)
 * [Bitbucket 쉽게 시작하는 방법 & 사용법](https://blog.naver.com/silvury14/220918267535)
 * [기존 프로젝트를 Bitbucket과 SourceTree로 올려보자](https://developer88.tistory.com/65)
 * [Github Two Factor 인증 설정하기 (feat. Authenticator)](https://jojoldu.tistory.com/449)
@@ -296,6 +287,18 @@ Git
 * [GitHub Actions: reusable workflows is generally available | The GitHub Blog](https://github.blog/2021-11-29-github-actions-reusable-workflows-is-generally-available/)
   * 여러 저장소에 걸쳐서 반복적으로 사용하는 워크플로우를 복사 붙이기로 만드는 대신 공동으로 사용할 곳을 만들어 두고 저장소의 워크플로우 YAML을 바로 지정해서 사용할 수 있는 방법 추가
   * 워크플로우의 `uses: my-org/actions/.github/workflows/node.js.yml@1`처럼 지정해서 재사용
+
+# Badge Readme Profile
+* [README.md 10초만에 깔끔하게 만드는 법](https://gomcine.tistory.com/entry/READMEmd-10%EC%B4%88%EB%A7%8C%EC%97%90-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95?category=624615)
+* [Unlocking GitHub's Hidden Feature in 3 Minutes - YouTube](https://www.youtube.com/watch?v=0_RDoNJ1zGg)
+* [Github Profile Readme로 프로필 꾸미기 · 어쩐지 오늘은](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/)
+* [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)
+* [github profile 예쁘게 꾸미기](https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0)
+* [README Badge를 커스텀 해보자!](https://velog.io/@juunini/README-Badge%EB%A5%BC-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%95%B4%EB%B3%B4%EC%9E%90)
+* [Github Profile에 사용하는 Badge API 만들기 (Kaggle Badge)](https://ansubin.com/github-profile-kaggle-badge/)
+* [fiddly: Create beautiful and simple HTML pages from your Readme.md files](https://github.com/SaraVieira/fiddly)
+  * [Fiddly - Readme를 예쁜 웹페이지로 만들기 | GeekNews](https://news.hada.io/topic?id=4688)
+* [github-readme-stats: Dynamically generated stats for your github readmes](https://github.com/anuraghazra/github-readme-stats)
 
 # Book
 * [Git 좀 잘 써보자](https://wikidocs.net/book/1902)
