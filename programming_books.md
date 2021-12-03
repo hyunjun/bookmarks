@@ -760,6 +760,7 @@ Programming Books
 * (NOT YET) [신호와 소음](https://jhrogue.blogspot.com/2021/07/blog-post_14.html)
 * (NOT YET) [기계 학습을 다시 묻다](https://cse.snu.ac.kr/node/52625)
 * (NOT YET) [코드로 배우는 인공지능 - 개발자의, 개발자에 의한, 개발자를 위한 AI 도서](https://jpub.tistory.com/1214)
+* (NOT YET) [파이썬 머신러닝 실무테크닉 100 - 머신러닝 실무를 지원하는 100가지 무기!](https://jpub.tistory.com/1218)
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
