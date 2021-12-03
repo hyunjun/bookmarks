@@ -905,6 +905,7 @@ Programming
   * [집합 연관 캐시(Set-Associative Cache)의 구조 및 동작 원리](https://kkamagui.tistory.com/917)
   * [HTTP Caching에 대해서 정리해 봅니다](https://developer88.tistory.com/319)
   * [FAST '21 - Keynote Address: Netflix: Streaming Entertainment to 200 Million Members Around the World - YouTube](https://www.youtube.com/watch?v=mpLsAm557-o)
+  * [웹 서비스 캐시 똑똑하게 다루기](https://toss.tech/article/smart-web-service-cache)
   * [blueboat: Blueboat is an open-source alternative to Cloudflare Workers. The monolithic engine for serverless web apps.](https://github.com/losfair/blueboat)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
