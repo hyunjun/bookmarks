@@ -451,6 +451,7 @@ Go
 * [golang - Go로 만드는 P2P 라이브러리 - jacking75](https://jacking75.github.io/go_lib_p2p/)
 * Android
   * [See Android Go! Go, Android. Go!](http://www.codingvelocity.com/2015/07/23/go-mobile-intro.html)
+* [ansible-role-go: Ansible role - Go](https://github.com/geerlingguy/ansible-role-go) An Ansible Role that installs Go (the language) on Linux
 * [antibody - A faster and simpler antigen written in Golang. http://antibody.elasticbeanstalk.com ](https://github.com/caarlos0/antibody)
 * [arc - An Adaptive Replacement Cache (ARC) written in Go](https://github.com/alexanderGugel/arc)
 * [atomic: Wrapper types for sync/atomic which enforce atomic access](https://github.com/uber-go/atomic)
