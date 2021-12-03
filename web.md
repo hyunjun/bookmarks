@@ -1062,6 +1062,7 @@ Web
   * [How to analyze website performance with Lighthouse Audit website performance manually, programmatically, or automatically](https://medium.freecodecamp.org/three-ways-to-analyze-website-performance-with-lighthouse-8d100966c04b)
   * [웹 퍼포먼스 개선을 위한 Lighthouse CI 도입기 – DRAMA&COMPANY](https://blog.dramancompany.com/2021/04/%ec%9b%b9-%ed%8d%bc%ed%8f%ac%eb%a8%bc%ec%8a%a4-%ea%b0%9c%ec%84%a0%ec%9d%84-%ec%9c%84%ed%95%9c-lighthouse-ci-%eb%8f%84%ec%9e%85%ea%b8%b0/)
   * [실제 웹사이트에서 Web Vitals 디버깅하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1548) 
+  * [Lighthouse의 User Flow | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20211202)
   * [web-performance-test: lighthouse 자동화 스크립트](https://github.com/sangheon-kim/web-performance-test)
   * [Web Performance Testing With Cypress and Google Lighthouse](https://www.lambdatest.com/blog/using-cypress-google-lighthouse-performance-testing/)
 * [PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
