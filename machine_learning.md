@@ -1319,6 +1319,7 @@ Machine Learning
   * [머신러닝 Experiment Management 쉽게 하기(feat. neptune ai)](https://zzsza.github.io/mlops/2020/03/22/ml-experiment-management-using-neptune-ai/)
   * [Neptune...? 은 또 뭐여.. · Jerry's Blog](https://jjerry-k.github.io/deeplearning/2020/07/23/neptune/)
 * [optuna: A hyperparameter optimization framework](https://github.com/optuna/optuna)
+  * [Nas from scratch using Optuna - Woongjoon_AI](https://woongjoonchoi.github.io/modeloptimization/nas_from_scratch/)
 * [Orange - Open source machine learning and data visualization for novice and expert. Interactive data analysis workflows with a large toolbox](https://orange.biolab.si/)
   * [Orange3 지도학습 - 생활코딩](https://opentutorials.org/course/4569)
   * [Orange3](https://opentutorials.org/module/4967)
