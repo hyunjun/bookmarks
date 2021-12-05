@@ -51,6 +51,7 @@ Hardware
 * [스마트 식물재배기 앱 만들기 : 네이버 카페](https://cafe.naver.com/creativethon/6432)
 * [kindle-dash: Power efficient dashboard for Kindle 4 NT devices](https://github.com/pascalw/kindle-dash)
 * [565. 코딩 학습 로드맵/테크트리/커리큘럼(.. : 네이버블로그](https://blog.naver.com/pcmola/222435895845) lego 레고 포함
+* [Apple M1칩은 왜 그렇게 빠를까? | GeekNews](https://news.hada.io/topic?id=3315)
 
 # Arduino
 * [Arduino](http://www.arduino.cc)
