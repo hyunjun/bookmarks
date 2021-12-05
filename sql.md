@@ -1030,6 +1030,7 @@ SQL
 * [35% Faster Than The Filesystem](https://www.sqlite.org/fasterthanfs.html)
 * [Hosting SQLite databases on Github Pages - (or any static file hoster) - phiresky's blog](https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/)
 * [Comparing SQLite, DuckDB and Arrow with UN Trade Data · Pachá](https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/)
+* [MySQL을 SQLite로 변경 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/884)
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
 * [litestream: Streaming S3 replication for SQLite](https://github.com/benbjohnson/litestream)
