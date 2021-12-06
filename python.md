@@ -4604,6 +4604,7 @@ Python
   * [Pytest 테스트 결과 좀 더 편하게 보기 – rein's world](https://rein.kr/blog/archives/5133)
   * [테스트 코드 작성기(1) — 단위 테스트 프레임워크 | by Paikend | 오늘의헤드라인 | Jan, 2021 | Medium](https://medium.com/oheadline/mock%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%EA%B8%B0-1-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-8c1139f9ff2b)
   * [Effective Python Testing With Pytest – Real Python](https://realpython.com/pytest-python-testing/)
+  * [Web UI Testing in Python - YouTube](https://www.youtube.com/watch?v=wTGKOgOJbEk) selenium
   * [playwright-python: Python version of the Playwright testing and automation library](https://github.com/microsoft/playwright-python)
     * [Announcing Playwright for Python: Reliable end-to-end testing for the web | Python](https://devblogs.microsoft.com/python/announcing-playwright-for-python-reliable-end-to-end-testing-for-the-web/)
   * [pytest-bdd - BDD library for the py.test runner](https://github.com/pytest-dev/pytest-bdd)
