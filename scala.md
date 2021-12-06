@@ -471,7 +471,6 @@ Scala
 * [Akka Stream Coexistence With Akka Typed](https://kaplan.dev/articles/akka-stream-coexistence-with-akka-typed/)
 * [Akka Streams — Getting Started. From zero to production with Akka… | by Sergio Cano | Aug, 2021 | Medium](https://medium.com/@canosergio90/akka-streams-getting-started-32b5ebc60604)
 * [Demystifying Akka Streams' Materialized Values | Nivox's Hub](http://nivox.github.io/posts/akka-stream-materialized-values/)
-* [Akka Streams Backpressure - a Demonstration - YouTube](https://www.youtube.com/watch?v=L5FAyCCWGL0)
 * [Akka Typed: Stateful and Stateless Actors | Rock the JVM - YouTube](https://www.youtube.com/watch?v=gwZjdRQTPu8)
 * [Akka Typed: Message adapters - YouTube](https://www.youtube.com/watch?v=aVgjEMA1AEQ)
 * [(Typed) Akka document 읽으면서 소소하게 정리 (Getting Started Guide)](https://wingnim.tistory.com/119)
@@ -588,6 +587,8 @@ Scala
 * [The Power of Akka Streams](https://aleksandarskrbic.github.io/power-of-akka-streams/)
 * [Akka Stream a Walkthrough From Simple Source to Parallel Execution | by Konstantin Bodnia | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/akka-stream-a-walkthrough-from-simple-source-to-parallel-execution-6a7ec24d07d8)
 * [Video Streaming With Akka Streams - DZone Java](https://dzone.com/articles/hello-world-in-akka)
+* [Akka Streams Backpressure - Rock the JVM Blog](https://blog.rockthejvm.com/akka-streams-backpressure/)
+  * [Akka Streams Backpressure - YouTube](https://www.youtube.com/watch?v=L5FAyCCWGL0)
 
 # API
 * [Scala collection methods flatMap and flatten are more powerful than monadic flatMap and flatten (download for better quality)](https://www.slideshare.net/pjschwarz/scala-collection-methods-flatmap-and-flatten-are-more-powerful-than-monadic-flatmap-and-flatten)
