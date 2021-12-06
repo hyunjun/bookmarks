@@ -197,6 +197,7 @@ Algorithm
   * [Introduction · GitBook](http://lixinchengdu.github.io/algorithmbook/)
   * [New Year Gift - Curated List of Top 75 LeetCode Questions to Save Your Time - Blind](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU)
   * [Grokking LeetCode: A Smarter Way to Prepare for Coding Interviews | by Arslan Ahmad | InterviewNoodle | Nov, 2021 | Medium](https://medium.com/interviewnoodle/grokking-leetcode-a-smarter-way-to-prepare-for-coding-interviews-e86d5c9fe4e1)
+  * [Algorithms and Datastructure Archives - IndusTechie](https://industechie.com/index.php/category/programming-geek/java/algorithms-and-datastructure/)
   * [algo_crawler](https://github.com/SeanHwangG/algo_crawler)
 * [프로그래머스 가장 큰 수 : 수 2개만 고려해 봅시다](https://codingdog.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98-%EC%88%98-2%EA%B0%9C%EB%A7%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [Employee Scheduling](https://developers.google.com/optimization/scheduling/employee_scheduling)
