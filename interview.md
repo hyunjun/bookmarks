@@ -586,6 +586,8 @@ Interview
 * [algospot](https://www.algospot.com)
 * [atcoder.jp](https://atcoder.jp)
 * [awesome-advent-of-code: A collection of awesome resources related to the yearly Advent of Code challenge](https://github.com/Bogdanp/awesome-advent-of-code)
+  * [Zip and slide! (Advent of Code day 1) - YouTube](https://www.youtube.com/watch?v=AhcDxzjrUUI) scala
+  * [Ep 15: Advent of Code 2021 Day 1. Is it Traverse? - YouTube](https://www.youtube.com/watch?v=ziWwsXD9w7M)
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
   * [coding.sh](http://coding.sh/) online programming
 * [binarysearch | Learn Algorithms Together](https://binarysearch.com/)
