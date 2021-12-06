@@ -969,6 +969,7 @@ Business
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
 * [실리콘 밸리에서 가장 중요한 문서](https://jigjang.wordpress.com/2015/04/08/%EC%8B%A4%EB%A6%AC%EC%BD%98-%EB%B0%B8%EB%A6%AC%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%EC%A4%91%EC%9A%94%ED%95%9C-%EB%AC%B8%EC%84%9C/) netflix 이야기
+* [우리 회사는 왜 넷플릭스처럼 안 될까요? | ㅍㅍㅅㅅ](https://ppss.kr/archives/248019)
 * [브런치북 실리콘 밸리 트렌드 2021](https://brunch.co.kr/brunchbook/siliconvally21)
 * [실리콘밸리선 구체적 지시가 없다, 내가 찾아서 해내면 그게 내 몸값](https://news.v.daum.net/v/20210409030916799)
   * ① 대부분 스타트업은 상당 부분 팀장/담당자에게 권한 위임. 권한 = 의사결정권. 한 스타트업은 초기 급성장 시절 매니저에게 1억 이하의 비용에 대해 결정권 부여
