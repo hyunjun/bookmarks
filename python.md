@@ -2504,6 +2504,7 @@ Python
 * [Some New Features in Flask 2.0 - YouTube](https://www.youtube.com/watch?v=SMTf5UWlw1s)
 * [Using Async Functions Inside of Flask Routes - YouTube](https://www.youtube.com/watch?v=0z74b3c63GA)
 * [Flask 한글 POST 요청 받기 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/programming/py-flask-korean/)
+* [How to Enable User Invites in Flask-User - YouTube](https://www.youtube.com/watch?v=GT4vDKLEYg4)
 
 ## Flask Library
 * [Athena: Athena is a web application developed in Python-Flask-SQLite for testing your skills as a Hacker, Coder and Warrior](https://github.com/yezz123/Athena)
