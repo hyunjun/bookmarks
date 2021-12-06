@@ -1770,6 +1770,7 @@ Javascript
   * 다른 웹앱과 달리 컴포넌트 안에서가 아니라 병렬로 데이터를 불러오므로 페이지를 빨리 불러올 수 있고 로딩 메시지를 보지 않아도 됨
   * [Remix Tutorial을 해보며 | immigration9](https://immigration9.github.io/react,remix/2021/11/28/remix.html)
   * [Remix Philosophy | immigration9](https://immigration9.github.io/react,remix/2021/11/30/remix-philosophy.html)
+  * [Remix is a NEW JavaScript framework you MUST try - YouTube](https://www.youtube.com/watch?v=r4B69HAOXnA)
 * reveal.js [The HTML presentation framework | reveal.js](https://revealjs.com/#/)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
