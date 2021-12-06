@@ -1224,6 +1224,8 @@ Docker
 * [K9s — the powerful terminal UI for Kubernetes | by Flant staff | Flant | Medium](https://medium.com/flant-com/k9s-terminal-ui-for-kubernetes-aeead8b0303f)
 * [karpenter: Kubernetes Node Autoscaling: built for flexibility, performance, and scalability](https://github.com/awslabs/karpenter)
   * Kubernetes 노드 오토스케일러
+  * [Karpenter](https://karpenter.sh/)
+  * [Karpenter 소개 – 오픈 소스 고성능 Kubernetes 클러스터 오토스케일러 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/introducing-karpenter-an-open-source-high-performance-kubernetes-cluster-autoscaler/)
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
   * [Announcing KEDA: bringing event-driven containers and functions to Kubernetes](https://cloudblogs.microsoft.com/opensource/2019/05/06/announcing-keda-kubernetes-event-driven-autoscaling-containers/)
 * Ketch [Application Delivery - Ketch](https://www.theketch.io/)
