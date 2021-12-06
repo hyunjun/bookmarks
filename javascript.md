@@ -1092,6 +1092,7 @@ Javascript
 * [JavaScript Developer Tools](https://techstack.hashnode.dev/javascript-developer-tools)
   * [3. JavaScript Developers tools - YouTube](https://www.youtube.com/watch?v=lcqTJTdvoWE)
 * [Developer Tools secrets that shouldn’t be secrets | Christian Heilmann](https://christianheilmann.com/2021/11/01/developer-tools-secrets-that-shouldnt-be-secrets/)
+* [Useful Style-related Features Of Browser Developer Tools to Explore in 2021 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/en_20211206)
 
 # ECMAScript
 * [Modern JavaScript의 진화](https://clelab.io/course/modern-javascript)
