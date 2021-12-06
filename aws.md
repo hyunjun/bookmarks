@@ -526,6 +526,7 @@ AWS
   * [부제: 라스베가스의 AWS re:Invent를 어린이대공원에서 Recap 하기](http://www.popit.kr/awskrug-%EC%8B%A0%EB%85%84-%EC%BD%98%ED%8D%BC%EB%9F%B0%EC%8A%A4-%ED%9B%84%EA%B8%B0-1/)
   * [AWS re:Invent 2020 Top Announcements 살펴보기 | Popit](https://www.popit.kr/aws-reinvent-2020-top-announcements-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0)
   * [AWS re:Invent 2020 Daily Recap - 일일 요약 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUUXSM9uoOZZoafzQPZeh5bM)
+  * [Amazon CTO 버너 보겔스의 2022년 이후 기술 예측 :: Channy's Blog](http://channy.creation.net/blog/1492)
 * AWS Summit
   * [AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-)
     * [현대백화점 리테일테크랩과 AWS Prototyping 팀 개발자가 들려주는 인공 지능 무인 스토어 개발 여정::AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/watch?v=9lSObYSCS0c)
