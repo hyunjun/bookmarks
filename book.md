@@ -131,7 +131,7 @@ Book
   * ★★★☆☆ 2021.11.20
   * 어쩐지 심야 식당이 생각나는 만화. 약간 내 스타일과 안 맞는 부분이 있지만 괜찮았다.
 * [시튼: 방랑하는 자연주의자](https://newstream.kr/posts/3914230)
-  * ★★★☆☆ 2021.11.28
+  * ★★★☆☆ 2021.11.28, 12.05
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
@@ -339,13 +339,14 @@ Book
   * 한라 901-유58ㅇ=2
   * ★★★★★ 2020.06.27~8 정말 재미있게 읽음. 역사학자와 역사가에 대한 이야기. 일종의 meta 역사책? 구입해서 두고 두고 읽고 싶음
 * 총 균 쇠 [759쪽짜리 책이 3판 42쇄까지 찍은 이유: 『총, 균, 쇠』 | ㅍㅍㅅㅅ](https://ppss.kr/archives/223828)
+* [박시백의 조선왕조실록(전 20권)](https://www.humanistbooks.com/849eeda7-b012-42e1-95bf-80dc156277b2#426762a1-f93c-41ab-9b19-07ba74279fe6)
+  * ★★★★☆
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
 * (NOT YET) 유럽사 산책 [유럽사 ‘생생 개인사’ 통해 온전한 육신 얻다](http://www.hani.co.kr/arti/culture/book/484462.html)
 * (NOT YET) 르몽드 세계사 1,2 [<르몽드 세계사>1,2와 <좌파가 알야할 것들>](http://www.ilemonde.com/news/articleView.html?idxno=2846)
 * (NOT YET) [성경의 탄생](https://m.blog.naver.com/ppogu/220637820290)
-* (NOT YET) 박시백의 조선왕조 실록
 * (NOT YET) 본격 한중일 세계사 (굽시니스트)
 * (NOT YET) [마지막으로 읽는 세계사 책](https://brunch.co.kr/@taeherself/248)
 * (NOT YET) 세계사를 바꾼 37가지 물고기 이야기 [청어와 대구, 이 두 물고기가 세계사를 바꾸다](https://brunch.co.kr/@kwansooko/79)
