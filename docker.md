@@ -1381,6 +1381,7 @@ Docker
 * [dive - A tool for exploring a docker image, layer contents, and discovering ways to shrink your Docker image size](https://github.com/wagoodman/dive)
   * 도커 이미지를 탐색하고 각 레이어를 분석해서 낭비되는 용량이 얼마인지, 얼마나 이미지 용량을 더 줄일 수 있는지 확인할 수 있는 CLI 툴
 * [Docker Bench - The Docker Bench for Security is a script that checks for all the automatable tests included in the CIS Docker 1.6 Benchmark. https://dockerbench.com](https://github.com/diogomonica/docker-bench-security)
+  * [docker-bench - k8s](https://sysnet4admin.gitbook.io/k8s/security/node/docker-bench)
 * [docker-debug: use new container attach on already container go on debug](https://github.com/zeromake/docker-debug)
   * [도커와 k8s 디버거](https://jhrogue.blogspot.com/2021/07/b-k8s.html)
 * [Docker monitoring](https://ruxit.com/docker-monitoring/)
