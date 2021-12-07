@@ -737,6 +737,7 @@ Javascript
 * [카카오 비즈인프라FE파트 개발자는 어떻게 일할까? – 기술편 – tech.kakao.com](https://tech.kakao.com/2021/11/23/biz-infra-fe-01/)
 * [카카오 비즈인프라FE파트 개발자는 어떻게 일할까? – 업무&문화편 – tech.kakao.com](https://tech.kakao.com/2021/11/25/biz-infra-fe-02/)
 * [How to use Web Storage API? - DEV Community](https://dev.to/j471n/how-to-use-web-storage-api-3o28) Local Storage, Session Storage, Cookies
+* [Zum Portal Core JS 소개](https://zuminternet.github.io/zum-portal-core-js/)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
