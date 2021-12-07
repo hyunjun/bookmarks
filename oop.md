@@ -151,6 +151,7 @@
 * [(18) What is dependency injection .net core? Can someone explain it by taking simple real life based examples? I have checked it out on internet but it's explained in very complex way everywhere. - Quora](https://www.quora.com/What-is-dependency-injection-net-core-Can-someone-explain-it-by-taking-simple-real-life-based-examples-I-have-checked-it-out-on-internet-but-its-explained-in-very-complex-way-everywhere)
 * [DI(Dependency Injection)는 왜 필요한가? :: 시행착오를 줄이는 방법](https://jinssssun.tistory.com/6)
 * [Printf("%s %s", dependency, injection). | Fredrik Holmqvist](https://www.fredrikholmqvist.com/posts/print-dependency-injection/)
+* [.NET6 Dependency Injection — One Interface, Multiple Implementations | by Bernardo Teixeira | Geek Culture | Nov, 2021 | Medium](https://medium.com/geekculture/net6-dependency-injection-one-interface-multiple-implementations-983d490e5014)
 
 ## Dependency Injection Python
 * [Dependency Injector — Dependency injection microframework for Python](http://python-dependency-injector.ets-labs.org/)
