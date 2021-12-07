@@ -1876,6 +1876,7 @@ Programming
 * [버추얼 컨퍼런스의 전성 시대 온라인으로 열리는 개발 컨퍼런스 모음](https://www.44bits.io/ko/post/news--virtual-developer-conferences)
 * [2020년 한 해 동안 방구석에서 온라인 오픈소스 컨퍼런스에 참가한 후기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/2020-virtual-opensource-conference-recap/)
 * [개발자 컨퍼런스의 계절 – 대기업과 유니콘의 출전 :: Channy's Blog](http://channy.creation.net/blog/1482)
+* [공개소프트웨어 페스티벌 - YouTube](https://www.youtube.com/playlist?list=PL8MaVgZDhGk_6lUMRnoGQO8Xy4d3RXTDa)
 * [calltospeakers.com](https://calltospeakers.com)
 * [DEVGROUND 2019](http://devground.hanbit.co.kr/) AI, data science, blockchain
 * [DevRel/Asia 2020 Korea Track - YouTube](https://www.youtube.com/watch?v=X25TQkQQjbg)
