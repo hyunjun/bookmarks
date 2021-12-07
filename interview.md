@@ -375,6 +375,7 @@ Interview
     * [System Design Shopify eCommerce platform Interview Question for software engineers](https://www.youtube.com/watch?v=lEL4F_0J3l8)
     * [How to Build an Awesome eCommerce App? A Complete Guide to Developing an eCommerce Mobile App](https://www.engineerbabu.com/blog/how-to-build-an-ecommerce-app/)
     * [쇼핑 주문서의 임시저장 기능?](https://brunch.co.kr/@windydog/229)
+    * [IRCTC System Design | Railways Ticket Booking Service | System Design - YouTube](https://www.youtube.com/watch?v=x1zR0Q-VWQI)
   * Rate Limiting
     * [Rate Limiting system design | TOKEN BUCKET, Leaky Bucket, Sliding Logs](https://www.youtube.com/watch?v=mhUQe4BKZXs)
     * [System Design: Distributed Rate Limiting](https://www.youtube.com/watch?v=xrizarXJgC8)
