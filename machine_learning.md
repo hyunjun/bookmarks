@@ -816,6 +816,7 @@ Machine Learning
   * [openface](https://github.com/jaeho-kang/deep-learning/tree/master/openface)
 
 # Conference
+* [Lablup Conf 1st - YouTube](https://www.youtube.com/playlist?list=PLYkiFpaI5DIJEfSxXJRhiF_bQF6u9KFLb)
 * [**O'reilly Strata Data Conference New York 2019 후기**](https://speakerdeck.com/socar/oreilly-strata-data-conference-new-york-2019-hugi)
 
 # Course MOOC Lecture
