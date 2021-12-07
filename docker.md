@@ -1191,6 +1191,7 @@ Docker
 * [Devtron - The DevOps Accelerator](https://devtron.ai/)
   * [DevTron - k8s용 소프트웨어 딜리버리 워크플로우 | GeekNews](https://news.hada.io/topic?id=4593)
 * [faasd: A lightweight & portable faas engine](https://github.com/openfaas/faasd)
+  * [OpenFaaS - Run Containerized Functions On Your Own Terms - Ivan Velichko](https://iximiuz.com/en/posts/openfaas-case-study/)
 * [Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. (Project under CNCF)](https://github.com/fluid-cloudnative/fluid) 분산 데이터 세트 오케스트레이터/엑셀러레이터
 * [gateway-api: Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs](https://github.com/kubernetes-sigs/gateway-api)
 * [Helm - The package manager for Kubernetes](https://helm.sh/)
