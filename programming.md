@@ -526,6 +526,7 @@ Programming
 * [JIRA를 하자! - 쿠키런 : 오븐브레이크의 JIRA 도입기](https://tech.devsisters.com/posts/jira-of-qa)
 * [Solved: JQL find flagged issues](https://community.atlassian.com/t5/Jira-Software-questions/JQL-find-flagged-issues/qaq-p/664698)
 * Jira Search e.g. [`project = <project name> AND (type = Bug OR type = "Bug Fix" OR type = "Bug Sub-Task" ) AND status != Closed AND status != Cancelled AND status != "WON'T FIX"`](https://gist.github.com/hyunjun/0594e58adaec6ec1cb75158f5f97cad8#gistcomment-3783579)
+* [Carrying forward unfinished work in Sprints with Jira](https://community.atlassian.com/t5/Jira-articles/Carrying-forward-unfinished-work-in-Sprints/ba-p/672304) sprint 종료 시점에서 여전히 open, doing issue를 어떻게 처리할지
 * [애자일이 도대체 뭐길래?](https://evan-moon.github.io/2019/07/02/what-is-agile)
 * [KPT하는 스타트업은 성장한다](https://brunch.co.kr/@fromjayden/7) Keep Problem Try
 * [What is Kanban? (and how does it work)](https://www.youtube.com/watch?v=xhxncRy-_Rk)
