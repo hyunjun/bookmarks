@@ -544,6 +544,7 @@ Business
 * [넷마블 게임을 만드는 CTO, 어떻게 일할까?](https://www.folin.co/story/1946) 비개발자들에게 이야기하기도 좋은 내용
 * [1년 만에 스타트업 개발문화를 완전 바꾸며 기술특례상장으로 이끌기까지: 어반베이스 방현우 CTO 인터뷰 | ㅍㅍㅅㅅ](https://ppss.kr/archives/247861)
 * [CTO는 어떻게 뽑을까](https://lqez.dev/blog/how-to-hire-cto.html)
+* [맘편한세상 임원채용사례 - Google Slides](https://docs.google.com/presentation/d/1MB2-C-IfiMlLHskzwSm_Exb0EEPk4i-iFYQ51IWDFew/)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
