@@ -223,6 +223,7 @@
   * [코틀린을 다루는 기술 #1 | Jungwoon Blog](https://jungwoon.github.io/kotlin/2021/10/06/Advanced-Kotlin-1.html)
 
 # Conference
+* [A TypeScript Fan's KotlinJS Adventures • Eamonn Boyle & Garth Gilmour • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=9p60bBBpG6A)
 * [kotlinconf.com](https://kotlinconf.com/)
   * [youtube.com/results?search_query=#kotlinconf19](https://www.youtube.com/results?search_query=%23kotlinconf19)
   * [KotlinConf 2018 - Live Coding Kotlin/Native Snake by Dmitry Kandalov](https://www.youtube.com/watch?v=U-gdJQeOVAk)
