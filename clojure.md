@@ -1012,6 +1012,7 @@ Clojure
 * [malli - Plain data Schemas for Clojure/Script](https://github.com/metosin/malli)
   * [Readme — metosin/malli 0.3.1](https://cljdoc.org/d/metosin/malli)
   * [Spec vs Malli : Clojure](https://www.reddit.com/r/Clojure/comments/lpv8ok/spec_vs_malli/)
+  * [High-Performance Schemas in Clojure/Script with Malli 1/2 - Metosin](https://www.metosin.fi/blog/high-performance-schemas-in-clojurescript-with-malli-1-2/)
 * [mamulengo - Lightweight database based on datascript with durable store and time travel for Clojure(Script)](https://github.com/wandersoncferreira/mamulengo)
 * [marathon-clj - Clojure client library for Mesos Marathon](https://github.com/eunmin/marathon-clj)
 * [meander: Tools for transparent data transformation](https://github.com/noprompt/meander)
