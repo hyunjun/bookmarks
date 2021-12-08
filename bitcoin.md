@@ -212,6 +212,7 @@ Bitcoin
 * [NFT, 혁신일까요 사기일까요 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/nft20211018)
 * [NFT가 갖는 소유라는 의미의 진실과 오해](https://brunch.co.kr/@delight412/423)
 * [초등학생도 이해하는 NFT 따라하기 - CoinDesk Korea 신뢰 그 이상의 가치](http://www.coindeskkorea.com/news/articleView.html?idxno=76262)
+* [NFT란?](https://wind-flow.github.io/Definition-NFT)
 
 # Python
 * [A peek under Bitcoin's hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
