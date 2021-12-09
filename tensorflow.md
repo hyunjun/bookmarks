@@ -88,9 +88,6 @@ TensorFlow
 * [RNNCell_linear.ipynb](https://github.com/j-min/tf_tutorial_plus/blob/master/RNN_seq2seq/RNNCells/RNNCell_linear.ipynb)
 * [Seq2Seq model in TensorFlow](https://towardsdatascience.com/seq2seq-model-in-tensorflow-ec0c557e560f)
 * [TensorFlow — Sequence to Sequence](https://medium.com/@ilblackdragon/tensorflow-sequence-to-sequence-3d9d2e238084)
-* [T2T: Tensor2Tensor Transformers - A library for generalized sequence to sequence models](https://github.com/tensorflow/tensor2tensor)
-  * [Tensor2Tensor 라이브러리로 딥 러닝 연구를 가속화할 수 있습니다](https://developers-kr.googleblog.com/2017/07/accelerating-deep-learning-research.html)
-  * [Training Cutting-Edge Neural Networks with Tensor2Tensor and 10 lines of code](https://medium.com/data-from-the-trenches/training-cutting-edge-neural-networks-with-tensor2tensor-and-10-lines-of-code-10973c030b8)
 * [basic mini encoder decoder model that translates 'hello' to 'hola'](https://gist.github.com/keon/e39d3cbfd80daff498772951fb784f35)
 * [Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-VAE)
 * [Conditional Variational Auto-Encoder for MNIST](https://github.com/hwalsuklee/tensorflow-mnist-CVAE)
@@ -242,11 +239,6 @@ TensorFlow
 * [Tensorflow1.0 에 있는 wide_n_deep_tutorial.py 를 분석해 보았습니다](https://github.com/SSaMKJ/study201702/blob/master/com/ssamkj/py/wide_n_deep/notebook/wide_n_deep_tutorial.ipynb)
 * [텐서플로우의 세션,그래프 그리고 함수의 개념](http://bcho.tistory.com/1171)
 * [Attention mechanisms with tensorflow](https://www.slideshare.net/KeonKim/attention-mechanisms-with-tensorflow)
-* [transformer - TensorFlow implementation of Attention Is All You Need. (2017. 6)](https://github.com/DongjunLee/transformer-tensorflow)
-* [Tensorflow Implementation of Pathnet from Google Deepmind](https://github.com/jaesik817/pathnet)
-* [TensorFlow implementation of Thin Plate Spline Spatial Transformer Network](https://github.com/iwyoo/TPS_STN-tensorflow)
-* [A Transformer Chatbot Tutorial with TensorFlow 2.0](https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2)
-* [Transformer model for language understanding](https://www.tensorflow.org/tutorials/text/transformer)
 * [char-cnn](https://github.com/sjchoi86/advanced-tensorflow/tree/master/char-rnn)
 * [Pedagogical Learning with the Inkling Programming Language | Bonsai](https://bons.ai/blog/the-root-of-bonsai-inkling-and-its-compiler)
   * [텐서플로의 복잡성 숨기는 새로운 AI 언어 '인클링'](http://www.ciokorea.com/news/33898)
@@ -1054,6 +1046,20 @@ TensorFlow
 * [TF-KR 첫모임: CNN과 Data Mutation을 이용한 Time Series Classification](https://www.youtube.com/watch?v=IiB6oElqCxA)
   * [Time series classification](http://www.slideshare.net/hunkim/time-series-classification)
 * [Time series classification with Tensorflow](https://www.datasciencecentral.com/profiles/blogs/time-series-classification-with-tensorflow)
+
+# Transformer
+* [transformer - TensorFlow implementation of Attention Is All You Need. (2017. 6)](https://github.com/DongjunLee/transformer-tensorflow)
+* [Tensorflow Implementation of Pathnet from Google Deepmind](https://github.com/jaesik817/pathnet)
+* [TensorFlow implementation of Thin Plate Spline Spatial Transformer Network](https://github.com/iwyoo/TPS_STN-tensorflow)
+* [A Transformer Chatbot Tutorial with TensorFlow 2.0](https://medium.com/tensorflow/a-transformer-chatbot-tutorial-with-tensorflow-2-0-88bf59e66fe2)
+* [Transformer model for language understanding](https://www.tensorflow.org/tutorials/text/transformer)
+* [T2T: Tensor2Tensor Transformers - A library for generalized sequence to sequence models](https://github.com/tensorflow/tensor2tensor)
+  * [Tensor2Tensor 라이브러리로 딥 러닝 연구를 가속화할 수 있습니다](https://developers-kr.googleblog.com/2017/07/accelerating-deep-learning-research.html)
+  * [Training Cutting-Edge Neural Networks with Tensor2Tensor and 10 lines of code](https://medium.com/data-from-the-trenches/training-cutting-edge-neural-networks-with-tensor2tensor-and-10-lines-of-code-10973c030b8)
+* [vision-transformer-tf: Reproduction of Vision Transformer in Tensorflow2. Train from scratch and Finetune](https://github.com/justHungryMan/vision-transformer-tf)
+  * Vision transformer를 추가적인 method 적용 없이 논문에 있는 method만을 이용해 재현
+  * tenosrflow에서 ViT 를 scratch 부터 학습하는 코드는 존재하지 않아서 타겟 논문 'An image is worth 16x16 words: Transformers for image recognition at scale' 와 'How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers'으로 진행
+  * tensorflow로 구현된 제 ViT 코드의 경우 TPU를 이용하여 빠르게 학습
 
 # Troubleshooting
 * [ImportError: numpy.core.xxx failed to import](https://jybaek.tistory.com/786)
