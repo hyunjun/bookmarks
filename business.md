@@ -92,6 +92,7 @@ Business
 * [조직문화에 관심 있어요..?..!](https://brunch.co.kr/@say2lee/57)
 * [**관계의 중요성 - 앞서가는 조직은 왜 관계에 충실한가, 최고의 팀은 왜 기본에**](https://brunch.co.kr/@younghakjang/114) humble, hungry, smart의 교집합
 * [Secrets Of Successful Teamwork: Insights From Google - YouTube](https://www.youtube.com/watch?v=hHIikHJV9fI)
+* [우리 조직 안의 ‘썩은 사과’ 해결하기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/248284)
 * [레거시 운영개발팀을 수습하다](https://greypencil.tistory.com/113) 팀 운영 이야기
 * [소속감을 돕는 조직 만들기와 미션 분배](https://brunch.co.kr/@graypool/145)
 * [수요일엔 수요미식회, 금요일은 개발밋업회 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2021/11/01/socar-developer-meetup.html) 조직의 성장과 관련한 고민
@@ -424,6 +425,7 @@ Business
 * [HR연구소 소포모어 징크스, 여러분 회사의 2년차 직원은 안녕하십니까](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=882) 온보딩 이후에는 관계 형성이 핵심
 * [사표 품고 다니는 당신, 직장 변경보다 직무 변경을 고민하라](https://news.v.daum.net/v/20211015030053898)
 * [당신 조직에 제대로 된 팀원이 없는 이유](https://brunch.co.kr/@1312capo/53)
+* [2015 나는 프로그래머다 컨퍼런스 (6) 정개발 - 슬램덩크에게서 배우는 개발팀 빌딩전략](https://www.slideshare.net/iamprogrammerofficial/2015-6-54991145)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
@@ -522,6 +524,7 @@ Business
   * content를 파편화시키지 말고 통합된 경로로 모아야 함(그 수단이 보통 confluence wiki). e.g. 첨부파일 X
   * vision sharing도 쓸데없는 일이 아니라 이렇게라도 해야 communication이 되기 때문. 잭 웰치의 이야기와 통하는 건가?
   * 추가. 일정을 짧은 단위로 잡는 게 좋은 이유: delay가 되더라도 빨리 알고 plan B를 확보할 가능성이 높아짐. 내가 story point를 8로 제한하려는 이유와 비슷함
+* [현장과 의사소통을 돕는 협업도구 두레이](https://brunch.co.kr/@graypool/262)
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
@@ -967,6 +970,7 @@ Business
 * [지키는 자와 뺏는 자](https://www.thestartupbible.com/2021/09/some-thoughts-on-offense-and-defense.html)
 * [Guy Kawasaki "The Art of the Start" @ TiECon 2006 - YouTube](https://www.youtube.com/watch?v=jSlwuafyUUo) 다 알아듣기는 힘들지만 유쾌하게 entrepreneurship에 대해 설명
 * [토스가 타다를 인수한 진짜 이유를 공개합니다](https://blog.toss.im/article/outside-the-box)
+* [k-startups: List of tech startups in South Korea](https://github.com/sooftware/k-startups)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
