@@ -590,6 +590,7 @@ Interview
   * [Zip and slide! (Advent of Code day 1) - YouTube](https://www.youtube.com/watch?v=AhcDxzjrUUI) scala
   * [Ep 15: Advent of Code 2021 Day 1. Is it Traverse? - YouTube](https://www.youtube.com/watch?v=ziWwsXD9w7M)
   * [Advent of Code: Behind the Scenes (Programming Puzzles) - YouTube](https://www.youtube.com/watch?v=CFWuwNDOnIo)
+  * [Coding at 6am isn't fun - YouTube](https://www.youtube.com/watch?v=4nGSF_Ub7QQ)
 * [Baekjoon Online Judge](https://www.acmicpc.net/)
   * [coding.sh](http://coding.sh/) online programming
 * [binarysearch | Learn Algorithms Together](https://binarysearch.com/)
