@@ -4376,6 +4376,7 @@ Python
 * [데이터분석 최근, 넷플릭스의 콘텐츠 보유 현황과 수급 전략에 대하여](https://songseungwon.tistory.com/53)
 * [Spreadsheets to Python: it's time | Clive Siviour | Towards Data Science](https://towardsdatascience.com/spreadsheets-to-python-its-time-to-make-the-switch-ef49cf9463d5)
 * [Python Pandas Interview Questions for Data Science | by Nathan Rosidi | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/python-pandas-interview-questions-for-data-science-377dfac4a7a1)
+* [Numpy와 Pandas에서의 배열 연산](https://gils-lab.tistory.com/42)
 * [dtale: Visualizer for pandas data structures](https://github.com/man-group/dtale)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
   * [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
