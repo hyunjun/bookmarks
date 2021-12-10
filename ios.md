@@ -517,6 +517,9 @@ iOS
   * macOS, Linux, iOS에서 그래프를 그린 후, 그 결과를 그림파일로 저장하는 것이 가능하고, 주피터 노트북 상에서 렌더링 하는 것도 가능
   * 현재 Line, Bar, Histogram 차트 지원
   * 백엔드로, AGG) C++ rendering library 및 Simple SVG Renderer가 사용
+* [SwiftWasm - compile Swift to WebAssembly](https://swiftwasm.org/)
+  * [SwiftWasm](https://github.com/swiftwasm)
+  * [Swift-WASM 맛보기. 며칠전 꿀휴가동안 무언가 두리번거리다가, 스위프트 언어로 Web… | by Jung Kim | Dec, 2021 | Medium](https://medium.com/@jungkim/swift-wasm-%EB%A7%9B%EB%B3%B4%EA%B8%B0-d4a2f4cea20a)
 * [Swifty](http://www.swifty-app.com/)
 * [Trevi is a minimal and flexible Swift web application server that provides Swift server page and MVC module](https://github.com/Yoseob/Trevi)
 * [URMovingTransitionAnimator - Moving view transition with the blurring effect between view controllers for Swift3](https://github.com/jegumhon/URMovingTransitionAnimator)
