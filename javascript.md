@@ -3581,6 +3581,7 @@ Javascript
   * [Mobile Convergence :: React HH-5 라이브러리 설정 - recoil](https://mobicon.tistory.com/582)
   * [Using Recoil instead of Redux For State Management In React Applications.](https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications)
   * [Recoil의 쓰기 가능한 셀렉터 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-11-24-recoil-writable-selector)
+  * [Recoil : 리액트 상태 관리의 새로운 패러다임 - YouTube](https://www.youtube.com/watch?v=t934FOlOMoM)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [sagen을 사용해서 간단히 상태 관리하기](https://jungpaeng.tistory.com/100)
