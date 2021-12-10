@@ -60,6 +60,7 @@ Regular Expression
 * [Fun with regular expressions: part I](https://yurichev.com/news/20210819_RE1/)
 * [In search of the perfect URL validation regex](https://mathiasbynens.be/demo/url-regex)
 * [Easiest way to remember Regular Expressions (Regex) | by Tobi Sam | Towards Data Science](https://towardsdatascience.com/easiest-way-to-remember-regular-expressions-regex-178ba518bebd)
+* [개발자라면 알아야 할 ①불규칙 속에서 규칙을 찾는 정규표현식 | 요즘IT](https://yozm.wishket.com/magazine/detail/1197/)
 
 # C++
 * [정규 표현식](http://jiniya.net/ng/2017/11/regex/)
