@@ -308,6 +308,7 @@ Programming Language
 * [Hack](http://hacklang.org/)
   * [HHVM](http://hhvm.com/)
   * [Covariance, Contravariance, and super Type Constraints](http://hhvm.com/blog/9215/covariance-contravariance-and-super-type-constraints)
+  * [tree-sitter-hack: Hack grammar for tree-sitter](https://github.com/slackhq/tree-sitter-hack)
 * [Halide - a language for image processing and computational photography](http://halide-lang.org/)
   * [Halide: A Language for Fast, Portable Computation on Images and Tensors - YouTube](https://www.youtube.com/watch?v=93-bfnKCb8E)
 * [Hello - the distributed language](http://www.amsdec.com/wp-content/uploads/2015/10/helloguide.pdf)
