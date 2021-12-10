@@ -527,6 +527,7 @@ AWS
   * [AWS re:Invent 2020 Top Announcements 살펴보기 | Popit](https://www.popit.kr/aws-reinvent-2020-top-announcements-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0)
   * [AWS re:Invent 2020 Daily Recap - 일일 요약 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUUXSM9uoOZZoafzQPZeh5bM)
   * [Amazon CTO 버너 보겔스의 2022년 이후 기술 예측 :: Channy's Blog](http://channy.creation.net/blog/1492)
+  * [메가존클라우드가 들려주는 AWS re:Invent 2021 리얼 세션 후기 #1 | Megazone Cloud](https://www.megazone.com/techblog-reinvent2021-01/)
 * AWS Summit
   * [AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-)
     * [현대백화점 리테일테크랩과 AWS Prototyping 팀 개발자가 들려주는 인공 지능 무인 스토어 개발 여정::AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/watch?v=9lSObYSCS0c)
@@ -1115,6 +1116,7 @@ AWS
 * [이미지 라벨링(Image Labeling), 노가다가 답일까? | by MUSINSA tech | Medium | MUSINSA tech](https://medium.com/musinsa-tech/imagelabeling-c351c0258a62)
 * [Sagemaker를 이용한 후기이미지 자동검수 모델 만들기 - 박지혜(무신사), 데이터 엔지니어를 위한 알쓸신잡 - 김영익 :: 제41회 AWSKRUG DataScience모임 - YouTube](https://www.youtube.com/watch?v=qMuhF1efUso)
 * [Amazon SageMaker를 통한 대용량 모델 훈련 방법 살펴보기-김대근,최영준,AWS::AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/watch?v=csr84BKbFeg)
+* [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
 
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
