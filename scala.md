@@ -958,6 +958,7 @@ Scala
     * [Next Generation Operations with ZIO — Adam Fraser - YouTube](https://www.youtube.com/watch?v=vYKea3hGw28)
     * [Jan Nasiadka interview questions about ZIO](https://gist.github.com/fanf/e99fe83f716ae37e94ae264b38634bbb)
     * [Introduction to ZIO | Baeldung on Scala](https://www.baeldung.com/scala/zio-intro)
+    * [Experts Share Why They Choose ZIO Scala Library](https://scalac.io/blog/zio-experts-share-why-they-choose-zio-scala/)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1345,6 +1346,7 @@ Scala
 * [eff - Extensible effects are an alternative to monad transformers for computing with effects in a functional way](https://github.com/atnos-org/eff)
   * Free Monad보다 모나드 합성에서 편하다고 하는 Freer Monad 기반의  라이브러리
 * [ENSIME - Enhanced Scala and java Interaction Mode for text Editors](https://github.com/ensime)
+  * [ENSIME: The Next Generation - Tooling - Scala Contributors](https://contributors.scala-lang.org/t/ensime-the-next-generation/5474)
 * [etcd4s - Scala etcd client implementing V3 APIs](https://github.com/mingchuno/etcd4s)
   * [Scala etcd client with etcd4s and cats-effects](https://medium.com/rahasak/scala-etcd-client-with-etcd4s-and-cats-effects-f393ae94404e)
   * [Etcd watch API integration with scala and cats-effect](https://medium.com/rahasak/etcd-watch-api-integration-with-scala-and-cats-effect-78123dc9d71d)
