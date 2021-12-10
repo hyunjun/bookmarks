@@ -1163,6 +1163,7 @@ Java
 * Leyden [Project Leyden Aims to Improve Java Startup Time](https://www.infoq.com/news/2020/05/java-leyden/)
 * [log4j 2](http://logging.apache.org/log4j/2.x/)
   * [Log4J 로깅 레벨 실시간에 바꾸기](http://greatkim91.tistory.com/m/186)
+  * [Apache Log4j RCE 제로데이 취약점 — 시행착오를 줄이는 방법](https://dataportal.kr/51)
 * [lombok](https://projectlombok.org)
   * [자바모델 클래스에 날개를달자 롬복(Lombok)](http://www.slideshare.net/topcredu/lombok-66365719)
   * [Lombok 사용상 주의점(Pitfall)](http://kwonnam.pe.kr/wiki/java/lombok/pitfall)
