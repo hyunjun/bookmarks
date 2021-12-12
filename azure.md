@@ -137,6 +137,9 @@ Azure
 * [Microsoft Announces the General Availability of Azure Database for MySQL - Flexible Server](https://www.infoq.com/news/2021/11/azure-db-mysql-flexible-server/)
 * [Azure Gateway Load Balancer(GWLB)](https://zigispace.net/1147)
 * [더 단순해진 쿠버네티스··· MS '애저 컨테이너 앱스' 살펴보기 - CIO Korea](https://www.ciokorea.com/news/214574) Azure Container Apps ACA
+* [Azure - VirtualWAN Part 1](https://zigispace.net/1069)
+* [Azure - VirtualWAN Part 2](https://zigispace.net/1070)
+* [Azure - VirtualWAN Part 3](https://zigispace.net/1090)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
