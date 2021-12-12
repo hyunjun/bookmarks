@@ -152,6 +152,7 @@ Programming Books
 * (NOT YET) [나는 주니어 개발자다](https://jhrogue.blogspot.com/2021/09/blog-post_15.html)
 * (NOT YET) [류광의 번역 이야기 :: 번역서 "핸즈온 해킹" 출간 소식](http://occamsrazr.net/tt/376)
 * (NOT YET) [『컴퓨터과학이 여는 세계』 세상을 바꾼 컴퓨터, 소프트웨어의 원천 아이디어 그리고 미래 – 도서출판 인사이트](https://blog.insightbook.co.kr/2015/05/21/%E3%80%8E%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EC%9D%B4-%EC%97%AC%EB%8A%94-%EC%84%B8%EA%B3%84%E3%80%8F-%EC%84%B8%EC%83%81%EC%9D%84-%EB%B0%94%EA%BE%BC-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%86%8C-2/)
+* (NOT YET) [데이터 스토리 ( 데이터를 설득력 있는 이야기로 바꾸는 방법 )](https://jybaek.tistory.com/944)
 
 # Agile Scrum
 
