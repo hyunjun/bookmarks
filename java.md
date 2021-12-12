@@ -579,6 +579,8 @@ Java
 * [intellij에서 mybatis generator 플러그인을 사용해 봅시다](https://codingdog.tistory.com/558)
 * [7 Must have IntelliJ IDEA Plugins in 2021 for Java Developers | CodersTea](https://www.coderstea.com/post/java/7-must-have-intellij-idea-plugins-in-2021-for-java-developers/)
 * [CodeMetrics 플러그인 소개: 복잡도 점수로 자극 받기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/CodeMetrics-Plugin-Intro-Complexity-Level)
+* [String Manipulation - IntelliJ IDEs Plugin | Marketplace](https://plugins.jetbrains.com/plugin/2162-string-manipulation/)
+  * [인텔리제이 플러그인 String Manipulation - Yun Blog | 기술 블로그](https://cheese10yun.github.io/intellij-string-manipulation/)
 * [VimtelliJ: All the best of Vim in IntelliJ](https://www.dev-log.me/VimtelliJ:_All_the_best_of_Vim_in_IntelliJ/)
 
 # Java8
@@ -1166,6 +1168,7 @@ Java
   * [Log4J 로깅 레벨 실시간에 바꾸기](http://greatkim91.tistory.com/m/186)
   * [Apache Log4j RCE 제로데이 취약점 — 시행착오를 줄이는 방법](https://dataportal.kr/51)
   * [하루한줄 CVE-2021-44228: log4shell-전 세계 서버를 공격 가능한 최악의 log4j 취약점 - hackyboiz](https://hackyboiz.github.io/2021/12/12/l0ch/2021-12-12/)
+  * [log4j 보안 취약점 동작원리 및 jenkins 서버 확인 방법 | Popit](https://www.popit.kr/log4j-%eb%b3%b4%ec%95%88-%ec%b7%a8%ec%95%bd%ec%a0%90-%eb%8f%99%ec%9e%91%ec%9b%90%eb%a6%ac-%eb%b0%8f-jenkins-%ec%84%9c%eb%b2%84-%ed%99%95%ec%9d%b8-%eb%b0%a9%eb%b2%95/)
 * [lombok](https://projectlombok.org)
   * [자바모델 클래스에 날개를달자 롬복(Lombok)](http://www.slideshare.net/topcredu/lombok-66365719)
   * [Lombok 사용상 주의점(Pitfall)](http://kwonnam.pe.kr/wiki/java/lombok/pitfall)
