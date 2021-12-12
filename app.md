@@ -1132,6 +1132,7 @@ App
 * [개발자를 위한 애플 실리콘 M1 맥 세팅 | 44BITS](https://www.44bits.io/ko/post/setup-apple-silicon-m1-for-developers)
 * [Install MySQL GUI, Mongodb in M1 Mac | by Ryan Kim | Mar, 2021 | Medium](https://equus3144.medium.com/install-mysql-gui-mongodb-in-m1-mac-dd8be6251f3f)
 * [M1 맥북 개발 환경 세팅](https://jojoldu.tistory.com/571)
+* [애플 실리콘(M1) 터미널 환경 설정하기 | ~/xo.dev](https://xo.dev/m1-terminal-environment-setup/)
 * command terminal
   * diskutil [꿀벌개발일지 :: 홈어시스턴스 이미지 생성 시 오류](https://ohgyun.com/810)
   * sed [Mac OS X에서 Multi Tab(\t\t) 정리하기](https://jojoldu.tistory.com/542)
@@ -1633,6 +1634,7 @@ App
 * ['한번 쓰면 빠져나올 수 없는' 윈도우 고급 사용자 도구 5종](https://open-support.tistory.com/entry/%ED%95%9C%EB%B2%88-%EC%93%B0%EB%A9%B4-%EB%B9%A0%EC%A0%B8%EB%82%98%EC%98%AC-%EC%88%98-%EC%97%86%EB%8A%94-%EC%9C%88%EB%8F%84%EC%9A%B0-%EA%B3%A0%EA%B8%89-%EC%82%AC%EC%9A%A9%EC%9E%90-%EB%8F%84%EA%B5%AC-5%EC%A2%85)
   * 사운드스위치, 미니빈, SharpKeys, powertoys Fancy Zones
   * [SpaceSniffer, find lost disk space the easy way](http://www.uderzo.it/main_products/space_sniffer/)
+* [윈10 disk rescan, flush (sync) 기능 추가](https://sunyzero.tistory.com/275)
 * 복구
   * [recuva](https://www.piriform.com/recuva)
   * [testdisk 7.0](http://www.cgsecurity.org/wiki/TestDisk_Download)
