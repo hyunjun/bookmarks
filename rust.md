@@ -7,6 +7,7 @@
 * [Mixing matching, mutation, and moves in Rust](http://blog.rust-lang.org/2015/04/17/Enums-match-mutation-and-moves.html)
 * [Differential dataflow](http://www.frankmcsherry.org/differential/dataflow/2015/04/07/differential.html)
 * [More Rust compared to C++](https://rnestler.github.io/more-rust-compared-to-c.html)
+* [A C++ Programmer's View on Rust - YouTube](https://www.youtube.com/watch?v=5pdRnva-DQ4)
 * [Rust Once, Run Everywhere](http://blog.rust-lang.org/2015/04/24/Rust-Once-Run-Everywhere.html)
 * [Pre-Pooping Your Pants With Rust](http://cglab.ca/~abeinges/blah/everyone-poops/)
 * [Reenix: Implementing a Unix-Like Operating System in Rust](http://scialex.github.io/reenix.pdf)
