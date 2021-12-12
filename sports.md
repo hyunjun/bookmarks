@@ -143,6 +143,7 @@ Sports
     * 그 외 구종은 특별한 경향성이 없었음
 * [LI와 wOBA, LI Point : 네이버 블로그](https://blog.naver.com/lgtwinstwin/222573259400)
 * [기사 번역 - 레이스가 특정한 슬라이더 무브먼트를 노리고 있는가?](https://blog.naver.com/lgtwinstwin/222573942859)
+* [로비 레이와 코빈 번스를 사이영으로 이끈 세이버매트릭스와 스탯캐스트의 모든 것](https://blog.naver.com/ljsmessi/222592946505)
 
 # Basketball
 * [**Basketball Terms- Terminology**](https://www.coachesclipboard.net/BasketballTerminology.html) diagram으로 court위 명칭 설명
