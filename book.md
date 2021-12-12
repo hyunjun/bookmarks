@@ -230,6 +230,11 @@ Book
 * (진중권의)서양미술사 : 인상주의 편 미학의 눈으로 보는 현대미술의 태동
   * 탐라 문609.2진77ㅅ
   * ★★★★☆ 2018.07.13 네이버 서비스를 거의 안 써서 몰랐는데 [파워라이터 on](https://terms.naver.com/list.nhn?cid=59556&categoryId=59556)이라는 전형적인 한국식 작명의 서비스에 기고한 글을 모아 출판한 책이다. 가장 좋아하는 시기의 미술에 대한 책이라 재미있게 읽었고, 약간이지만 이전에 몰랐던 부분도 조금 더 알게 되어 좋았다. 큰 줄기는 미학 오디세이같은 책을 읽으면서 더 자세하게 알 수 있고, 기고한 매체의 특성상 이 책에서는 주요 키워드에 대한 요약본으로 볼 수 있다. 예술 이외의 발언으로 인해 더 이상 진중권의 책을 사지는 않지만, 예술 쪽에서의 내용은 여전히 좋고 마음에 든다. 귀족 출신에 독재자를 옹호하는 시오노 나나미가 민주주의에 대해 쓴 그리스인 이야기를 재미있게 읽을 때와 같은 위화감이 느꼈다.
+* [<반 고흐>, 바바라 스톡 : 네이버 블로그](https://blog.naver.com/openbooks21/220183829799)
+  * ★★★★☆ 2021.12.13 [표지](images/van_gogh.jpg) 아를~오베르 쉬르 와즈까지의 시절에 대한 이야기. 고흐를 좋아하는 사람에게는 참 좋을 듯
+* [『반 고흐와 나』 출간 | Dutch Culture Korea](http://dutchculturekorea.com/?tribe_events=%E3%80%8E%EB%B0%98-%EA%B3%A0%ED%9D%90%EC%99%80-%EB%82%98%E3%80%8F-%EC%B6%9C%EA%B0%84)
+  * ★★☆☆☆ 2021.12.13 [표지](images/van_gogh_and_me0.jpg) 작가의 작업 후기, 소회같은 느낌인데 작가에 대해 별 관심이 없어서 큰 흥미는 없었으나 간간히 공감가는 부분이 있었음
+  * [아를에 대한 이야기는 정말 동감](images/van_gogh_and_me1.jpg) [정신병에 대한 감정도 동감](images/van_gogh_and_me2.jpg)
 * (NOT YET) [힙합의 시학](https://www.youtube.com/watch?v=3u24zO8ts-k)
   * 탐라 문673.53브232ㅎ
 * (NOT YET) (진중권의)서양미술사 : 모더니즘 편-미학의 눈으로 보는 아방가르드 시대의 예술
@@ -341,6 +346,10 @@ Book
 * 총 균 쇠 [759쪽짜리 책이 3판 42쇄까지 찍은 이유: 『총, 균, 쇠』 | ㅍㅍㅅㅅ](https://ppss.kr/archives/223828)
 * [박시백의 조선왕조실록(전 20권)](https://www.humanistbooks.com/849eeda7-b012-42e1-95bf-80dc156277b2#426762a1-f93c-41ab-9b19-07ba74279fe6)
   * ★★★★☆
+* [르네상스의 주역 메디치 가문 이야기](https://blog.naver.com/dnvkd/221135733384)
+  * ★★☆☆☆
+  * 워낙 좋아하는 이야기라 읽어보려 했지만 너무 스타일이 안 맞아서 읽다가 중단. 100년 전의, 전형적인 서양인 시각도 좀 거슬렸음 [1](images/medici2.jpg) [2](images/medici3.jpg)
+  * [장자계열 코시모 족보](images/medici0.jpg) [차자계열 로렌초 족보](images/medici1.jpg)
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
@@ -463,6 +472,12 @@ Book
 # Science
 * 열두 발자국 [정재승 박사의 《열두 발자국》을 읽고..](https://brunch.co.kr/@youthhd/112)
   * ★★★★☆ 2020.06.28~9 재미있게 읽음. 강연을 모아둔 책이라 일반인 대상 책이기 때문에 어려운 내용이 없어 쉽게 재미있게 읽을 수 있음
+* [사피엔스: 그래픽 히스토리](https://sunheung.tistory.com/28)
+  * ★★★★☆ 2021.12.13 [표지](images/sapiens0.jpg)
+  * [친분의 한계 150](images/sapiens1.jpg) [corporation의 유래 corpus](images/sapiens2.jpg) [허구의 중요성](images/sapiens3.jpg)
+* [오듀본, 새를 사랑한 남자](https://brunch.co.kr/@siestajin/5)
+  * ★★★☆☆ 2021.12.13 [표지](images/audubon0.jpg) [일생](images/audubon1.jpg)
+  * 생태학, 조류학, 박물학의 아버지라고 하는데, 책 자체는 나쁘지 않았으나 이렇게 새를 잡아서 그림을 남기는 사람의 이름이 자연보호 협회의 이름으로 쓰인다는 건 정말 이해가 안 가는 일
 
 # Science Fiction
 * [체제 바깥의 과학기술 권력](http://webzine.storyvaluecenter.com/%EC%B2%B4%EC%A0%9C-%EB%B0%94%EA%B9%A5%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0-%EA%B6%8C%EB%A0%A5/)
