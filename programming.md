@@ -197,7 +197,6 @@ Programming
 * [Weekly Links #2 - 2016년 4월 넷째주](http://tech.kakao.com/2016/04/27/weekly-links-2/)
 * [stackoverflow.com/documentation](http://stackoverflow.com/documentation)
 * [프로그레시브 웹 앱 : 탭에서 벗어나기](http://han41858.tistory.com/13)
-* [awesome-devblog: 어썸데브블로그. 국내 개발/기술 블로그 모음(only 실명으로)](https://github.com/sarojaba/awesome-devblog)
 * [어썸블로그](https://github.com/BenjaminKim/awesome-blogs)
 * [Feedly로 기술 블로그의 최신글을 모아서 볼 수 없을까? – 잔디에 기술 블로그 Lake 만들기](http://blog.jandi.com/ko/2020/02/11/feedly-and-jandi-blog-lake/)
 * [**개발자가 갖추어야 할 9가지 기술**](https://www.youtube.com/watch?v=fHyTA-UIcqs)
@@ -842,19 +841,6 @@ Programming
   * [Making Instagram.com faster: Part 2](https://instagram-engineering.com/making-instagram-com-faster-part-2-f350c8fba0d4)
   * [Making Instagram.com faster: Part 3 — cache first](https://instagram-engineering.com/making-instagram-com-faster-part-3-cache-first-6f3f130b9669)
   * [Making instagram.com faster: Code size and execution optimizations (Part 4)](https://instagram-engineering.com/making-instagram-com-faster-code-size-and-execution-optimizations-part-4-57668be796a8)
-* [**개발자를 위한 인프라 기초 총정리**](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics) 총정리라는 제목에 걸맞는 다양한 내용 정리
-* [Project TIMAT - infrastructure as code](https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code)
-* [When to use which Infrastructure-as-code tool](https://medium.com/cloudnativeinfra/when-to-use-which-infrastructure-as-code-tool-665af289fbde) 여러가지 IaaS tool 소개
-* [Learn about different open source based Infrastructure as Code (IAC) tools for DevOps - YouTube](https://www.youtube.com/watch?v=nUwj01ROjfs)
-* [Infra as Code with Packer, Ansible and Terraform](https://www.slideshare.net/InhoKang2/infra-as-code-with-packer-ansible-and-terraform)
-* [History of Infra as Code](https://www.infoq.com/presentations/history-infra-as-code/)
-* [Infrastructure as Code](https://www.hashicorp.com/products/terraform/infrastructure-as-code)
-* [코드형 인프라, 보안이 필요한 이유와 베스트 프랙티스 - ITWorld Korea](https://www.itworld.co.kr/news/200844) IaC
-* [History of Infra as Code - YouTube](https://www.youtube.com/watch?v=9kQ5l26mmbU)
-* [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1)
-* [Scaling Infrastructure Engineering at Slack](https://www.youtube.com/watch?v=yHBwoZh1Mxg)
-* [LINE 인프라 플랫폼의 뒷이야기 – 서비스 확장성을 확보하며 운영 비용 줄이기](https://engineering.linecorp.com/ko/blog/challenges-and-solutions-of-line-infra-scaleout/)
-* [Lessons Learned from Reviewing 150 Infrastructures](https://www.infoq.com/presentations/150-infrastructures)
 * [Backbone of Data Products @ MMT !](https://medium.com/makemytrip-engineering/backbone-of-data-products-mmt-4b93d3bd95e5)
 * [Software Architecture in Python](https://medium.com/@xstrengthofonex/software-architecture-in-python-cda7a873cc47)
 * [1인 개발자가 글로벌 서비스를 운영하는 방법 - GGtics](https://www.popit.kr/1%EC%9D%B8-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9A%B4%EC%98%81%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-ggtics/)
@@ -1006,7 +992,6 @@ Programming
 * [Building Services at Airbnb, Part 3 | by Liang Guo | Airbnb Engineering & Data Science | Medium](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-3-ac6d4972fc2d)
 * [Building Services at Airbnb, Part 4 | by Junjie Guan | Airbnb Engineering & Data Science | Oct, 2020 | Medium](https://medium.com/airbnb-engineering/building-services-at-airbnb-part-4-23c95e428064)
 * [How architecture prepared me for UX | by Jeff Matarrese | UX Collective](https://uxdesign.cc/how-architecture-prepared-me-to-pivot-to-user-experience-16db8a000f72)
-* [State of the Art Infrastructure as Code | by Kovid Rathee | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/state-of-the-art-infrastructure-as-code-4fbd59d92462) catalog
 * [비즈니스와 좋은 설계 사이에서 균형 잡기 | Evans Library](https://evan-moon.github.io/2020/10/24/buisiness-with-programming/)
 * [**Architecture Playbook — Architecture Playbook**](https://nocomplexity.com/documents/arplaybook/index.html)
 * [Lv0 에서 Lv2 까지 - 인프런 서비스 리뉴얼 - Hyung Joo](https://www.hyungjoo.me/4%EB%85%84%EC%9D%84-%EA%B8%B0%EB%8B%A4%EB%A6%B0-%EC%9D%B8%ED%94%84%EB%9F%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A6%AC%EB%89%B4%EC%96%BC-%EC%98%A4%ED%94%88/)
@@ -1241,6 +1226,7 @@ Programming
 * [Using API Gateways to Facilitate Your Transition from Monolith to Microservices](https://blog.getambassador.io/using-api-gateways-to-facilitate-your-transition-from-monolith-to-microservices-5e630da24717)
 * [What is an API Gateway?](https://www.youtube.com/watch?v=vHQqQBYJtLI)
 * [API Gateway Throttling 구현 | Doublem.org](https://doublem.org/api-gateway-basic/)
+* [How Do I Choose? API Gateway vs. Ingress Controller vs. Service Mesh - NGINX](https://www.nginx.com/blog/how-do-i-choose-api-gateway-vs-ingress-controller-vs-service-mesh/)
 * [From Monolith to Microservices](https://www.infoq.com/presentations/github-rails-monolith-microservices/)
 * [From Monolith to Microservices - YouTube](https://www.youtube.com/watch?v=Sr0OE-AzAJU)
 * [GitHub’s Journey from Monolith to Microservices](https://www.infoq.com/articles/github-monolith-microservices/)
@@ -1608,6 +1594,7 @@ Programming
 * [‘AWS, GCP, 애저와의 협상’··· 기억해야 할 6가지 위험 - CIO Korea](https://www.ciokorea.com/news/212549)
 * [GSSHOP Mobile/Web 채널서비스의 클라우드 이관 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/8)
 * [“클라우드가 컴퓨터인 세상, 웹 앱과 API 보안의 현실 직시하라” 퀄시스 - CIO Korea](https://www.ciokorea.com/news/216049)
+* [같은 듯 다른 오브젝트 스토리지와 분산 파일 시스템](https://blog.naver.com/solutionnews/222578929203)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -2372,6 +2359,21 @@ Programming
 * [개발자를 위한 인프라 기초 총정리 | Writer, IT Blog](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics/)
 * [**(공유) 대규모 인프라를 운영하기 위한 15가지 정보**](https://brunch.co.kr/@topasvga/1510)
 * [Modern Infrastructure Automation with Packer, Terraform, and Consul](https://www.hashicorp.com/resources/modern-infrastructure-automation-with-packer-terraform-and-consul)
+* [**개발자를 위한 인프라 기초 총정리**](https://futurecreator.github.io/2018/11/09/it-infrastructure-basics) 총정리라는 제목에 걸맞는 다양한 내용 정리
+* [Project TIMAT - infrastructure as code](https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code)
+* [When to use which Infrastructure-as-code tool](https://medium.com/cloudnativeinfra/when-to-use-which-infrastructure-as-code-tool-665af289fbde) 여러가지 IaaS tool 소개
+* [Learn about different open source based Infrastructure as Code (IAC) tools for DevOps - YouTube](https://www.youtube.com/watch?v=nUwj01ROjfs)
+* [Infra as Code with Packer, Ansible and Terraform](https://www.slideshare.net/InhoKang2/infra-as-code-with-packer-ansible-and-terraform)
+* [History of Infra as Code](https://www.infoq.com/presentations/history-infra-as-code/)
+* [Infrastructure as Code](https://www.hashicorp.com/products/terraform/infrastructure-as-code)
+* [What Infrastructure as Code is All About & How Terraform Helps you Work With It - YouTube](https://www.youtube.com/watch?v=IRHqgXRLb0w)
+* [코드형 인프라, 보안이 필요한 이유와 베스트 프랙티스 - ITWorld Korea](https://www.itworld.co.kr/news/200844) IaC
+* [History of Infra as Code - YouTube](https://www.youtube.com/watch?v=9kQ5l26mmbU)
+* [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1)
+* [Scaling Infrastructure Engineering at Slack](https://www.youtube.com/watch?v=yHBwoZh1Mxg)
+* [LINE 인프라 플랫폼의 뒷이야기 – 서비스 확장성을 확보하며 운영 비용 줄이기](https://engineering.linecorp.com/ko/blog/challenges-and-solutions-of-line-infra-scaleout/)
+* [Lessons Learned from Reviewing 150 Infrastructures](https://www.infoq.com/presentations/150-infrastructures)
+* [State of the Art Infrastructure as Code | by Kovid Rathee | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/state-of-the-art-infrastructure-as-code-4fbd59d92462) catalog
 * [Chef Infra - Infrastructure Automation for Hardened, Consistent Configuration at Any Scale](https://www.chef.io/products/chef-infra/)
   * [A complete beginner’s guide to Chef and infrastructure as code](https://medium.freecodecamp.org/an-introduction-to-chef-and-infrastructure-as-code-7d8ad2689b8)
   * [Making Breakfast: Chef at Airbnb](https://medium.com/airbnb-engineering/making-breakfast-chef-at-airbnb-8e74efff4707)
@@ -2765,6 +2767,7 @@ Programming
   * [11월 2주 소식(개발/관리도구, 클라우드/고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/11/b-11-2.html)
   * [11월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/11/b-11.html)
   * [11월 4주 소식(개발/관리도구, 클라우드/고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/11/b-11-4.html)
+  * [12월 2주 소식(개발/관리도구, 클라우드/고성능 서버/데이터베이스 부문)](https://jhrogue.blogspot.com/2021/12/b-12-2.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
