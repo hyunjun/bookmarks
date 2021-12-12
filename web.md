@@ -497,6 +497,8 @@ Web
   * [파이썬 셀레니움 이미지 크롤링으로 배우는 업무 자동화의 기초 - YouTube](https://www.youtube.com/watch?v=1b7pXC1-IbE)
   * [New Live Stream: Modern UI Test Automation with Selenium Libraries | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2021/05/new-live-stream-modern-ui-test-automation-with-selenium-libraries/)
   * [Web Scraping Multiple Pages with Python and Selenium + CSV File - YouTube](https://www.youtube.com/watch?v=m3liwOyJPC8)
+  * [Healenium](https://github.com/healenium)
+    * [Self-Healing Test Automation - The Next Big Thing? - YouTube](https://www.youtube.com/watch?v=bUhuqgOTXYM)
 * [springer_free_books - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine](https://github.com/alexgand/springer_free_books)
 * [youtube-downloader-v1.0](https://github.com/jiyeon1997/youtube-downloader-v1.0)
 
