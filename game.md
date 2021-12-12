@@ -52,6 +52,7 @@ Game
 * [모바일에서의 알파 블렌딩과 테스팅](https://chulin28ho.tistory.com/660)
 * [게임의 재미는 어디에서 오는가? - 자막 · Present](https://present.do/decks/61075e902bbbe81f6f83e4ad)
 * [GDC 2011 동굴 이야기 강연 : 게임개발시 주의할 5개 요소 (번역) | GeekNews](https://news.hada.io/topic?id=4818)
+* [대항해시대 시리즈가 가르쳐준 것들 - Growth | 더플랩 인사이트](https://insight.thepllab.com/post/148)
 
 # Board game
 * [ko.boardgamearena.com](https://ko.boardgamearena.com/)
