@@ -88,6 +88,7 @@
 * [닷넷 Hot Reload 삭제 사건 - DEV Community](https://dev.to/composite/dasnes-hot-reload-sagje-sageon-5c3g)
 * [Named Pipes in .NET 6 with Tray Icon and Service - ErikEngberg.com](https://erikengberg.com/named-pipes-in-net-6-with-tray-icon-and-service/)
 * [.NET 6 vs .NET 5: up to 40% speedup! | by Alex Yakunin | Nov, 2021 | Medium](https://alexyakunin.medium.com/net-6-vs-net-5-up-to-40-speedup-ceca9112d298)
+* [Easy Validation in .Net6. You have o implement a custom way to… | by Bernardo Teixeira | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/easy-validation-in-net6-7bb33ad4b6b3)
 
 # Book
 * [더북(TheBook): ASP.NET & Core를 다루는 기술](https://thebook.io/006824/)
