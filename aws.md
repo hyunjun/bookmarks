@@ -430,6 +430,8 @@ AWS
 * [AWS에서 Video on Demand VOD 서비스하기 - YouTube](https://www.youtube.com/watch?v=bzxJkiJ77vg)
 * [CODE GURU REVIEWER를 사용하여 코드리뷰 받기 - DRAMA&COMPANY](https://blog.dramancompany.com/2021/11/code-guru-reviewer%eb%a5%bc-%ec%82%ac%ec%9a%a9%ed%95%98%ec%97%ac-%ec%bd%94%eb%93%9c%eb%a6%ac%eb%b7%b0-%eb%b0%9b%ea%b8%b0/)
 * [Flowchart: How should I run containers on AWS? :: Vlad Ionescu](https://www.vladionescu.me/posts/flowchart-how-should-i-run-containers-on-aws-2021/)
+* [AWS Cloud WAN - Part 1](https://zigispace.net/1150)
+* [AWS Cloud WAN - Part 2](https://zigispace.net/1151)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
