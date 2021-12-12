@@ -1595,6 +1595,7 @@ Programming
 * [GSSHOP Mobile/Web 채널서비스의 클라우드 이관 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/8)
 * [“클라우드가 컴퓨터인 세상, 웹 앱과 API 보안의 현실 직시하라” 퀄시스 - CIO Korea](https://www.ciokorea.com/news/216049)
 * [같은 듯 다른 오브젝트 스토리지와 분산 파일 시스템](https://blog.naver.com/solutionnews/222578929203)
+* [OpenInfra Community Days Korea 2021 행사 참여후기](https://naleejang.tistory.com/252)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
