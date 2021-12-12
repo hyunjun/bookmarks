@@ -215,6 +215,7 @@ SQL
 * [AWS Announces New Database Service Babelfish for Aurora PostgreSQL in Preview](https://www.infoq.com/news/2020/12/aws-postgresql-aurora-babelfish/)
 * [Amazon Aurora PostgreSQL 에서 pg_bigm 모듈사용하기](https://jojoldu.tistory.com/590)
 * [(AWS Aurora) PostgreSQL에서 Lock 쿼리 확인하고 원인 종료하기](https://jojoldu.tistory.com/591)
+* [입 개발 MariaDB Connector 와 AWS Aurora | Charsyam's Blog](https://charsyam.wordpress.com/2021/12/11/%ec%9e%85-%ea%b0%9c%eb%b0%9c-mariadb-connector-%ec%99%80-aws-aurora/)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
