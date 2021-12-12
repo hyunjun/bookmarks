@@ -317,6 +317,7 @@ Interview
   * [Amazon System Design Preparation](https://www.youtube.com/watch?v=gf8R7sgme6o)
   * [Systems design for advanced beginners | Robert Heaton](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
   * [모바일 앱 서비스 아키텍처 - YouTube](https://www.youtube.com/watch?v=VomCt6AHl9Q)
+  * [Intro to system design fundamental series (from scratch) - YouTube](https://www.youtube.com/watch?v=tjiAV4pG9CM)
 * Problems
   * [Success in Tech - Coding and System Design Interview Questions](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
   * [Gaurav Sen - System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
