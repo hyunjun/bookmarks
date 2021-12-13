@@ -738,6 +738,7 @@ App
       * [마이크로소프트 비주얼 스튜디오 코드, 원격 개발 기능 지원](https://www.44bits.io/ko/post/news--vs-code-now-supports-remote-development)
       * [Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
       * [Run VS Code on a remote server. https://coder.com ](https://github.com/cdr/code-server)
+        * [**code-server를 이용해서 어디서든 사용할 수 있는 Personal IDE를 만들어보자**](https://donghun.dev/code-server-tutorial-guide)
       * [VS Code Remote Development in Kubernetes](https://medium.com/okteto/vs-code-remote-development-in-kubernetes-d7eef7cea4fd)
       * [VS Code Remote Development](https://code.visualstudio.com/docs/remote/remote-overview)
       * [How To Use Visual Studio Code for Remote Development via the Remote-SSH Plugin](https://www.digitalocean.com/community/tutorials/how-to-use-visual-studio-code-for-remote-development-via-the-remote-ssh-plugin)
