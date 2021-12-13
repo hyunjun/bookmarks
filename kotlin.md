@@ -150,6 +150,7 @@
 * [Idiomatic Logging in Kotlin | Baeldung on Kotlin](https://www.baeldung.com/kotlin/logging) slf4j
 * [Google Developers Korea Blog: Kotlin Serialization과 함께 DataStore 사용하기](https://developers-kr.googleblog.com/2021/04/using-datastore-with-kotlin-serialization.html)
 * [Migrating From Python to Kotlin for Our Backend Services](https://doordash.engineering/2021/05/04/migrating-from-python-to-kotlin-for-our-backend-services/)
+* [Java & Kotlin enum class가 완벽한 싱글톤이라 불리는 이유 — 시행착오를 줄이는 방법](https://dataportal.kr/54)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
