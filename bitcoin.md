@@ -155,6 +155,9 @@ Bitcoin
 * [혼자서 만드는 가상화폐 자동거래 시스템](https://wikidocs.net/book/1436)
 * [누구나 할 수 있다. 비트코인 자동매매](https://wikidocs.net/book/1665)
 
+# Course MOOC Lecture
+* [블록체인 - YouTube](https://www.youtube.com/playlist?list=PLOml5j0-AMQlK3XgFiGHBFMnQdT8MlUai)
+
 # Etherium
 * [What is Ethereum?](http://etherscripter.com/what_is_ethereum.html)
 * [Etherium Network Status](https://stats.ethdev.com/)
@@ -173,6 +176,7 @@ Bitcoin
 * [Ethereum](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180904_JM_Blockchain_03.md)
 * [이더리움 2.0 정복하기 - YouTube](https://www.youtube.com/playlist?list=PLLDf3_vgzDhgVuQTdTZeVl69tAWMFIvIF)
 * [The Problem with Ethereum. How did Ethereum become a system that… | by Tomer Strolight | Aug, 2021 | Medium](https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95)
+* [ethereum solidity withdrawals pattern(출금패턴)](https://blog.naver.com/pjt3591oo/222594079769)
 * [PublicVotes - A publicly verifiable Voting System, powered by Smart Contracts](http://publicvotes.org/)
 * [truffle을 이용하여 스마트 컨트랙트 개발하기](https://blog.naver.com/pjt3591oo/222580257471)
 * [toolbox - etherscripter](http://etherscripter.com/0-5-1/)
