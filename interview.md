@@ -829,6 +829,7 @@ Interview
 * [RSUs vs. Stock options 다른 점은?](https://brunch.co.kr/@seungjoonlernnx/53)
 * [스톡옵션 개론](https://www.thestartupbible.com/2014/10/stock-option-101.html)
 * [스톡옵션 가격](https://www.thestartupbible.com/2019/10/pricing-stock-options.html)
+* [**개발자가 알아야 할 스톡옵션의 모든 것 | Evans Library**](https://evan-moon.github.io/2021/12/04/what-is-stock-options/)
 * [See How Your Salary Compares](https://www.wsj.com/graphics/how-does-your-pay-stack-up/)
 * [기업이 당신과 연봉협상하지 않은 진짜 이유 — 업플라이 #Upfly](https://www.upfly.me/blog/how-to-negotiate-salary-well)
 * [스톡옵션?](https://brunch.co.kr/@mirr5510/29)
