@@ -1125,6 +1125,7 @@ Programming
 * [**Spoqa 기술 블로그 | 도메인 주도 개발 전환 이야기**](https://spoqa.github.io/2021/09/13/domain-driven-development-transition-story.html)
 * [Domain-Driven Design with Value-Added Services and Domain Gateways at SoundCloud](https://www.infoq.com/news/2021/10/ddd-vas-gateway-soundcloud/)
 * [Domain Driven Design Patterns in Python - YouTube](https://www.youtube.com/watch?v=v0wBmQq8qcA)
+* [실전 도메인 스토리텔링 첫 시도](https://brunch.co.kr/@graypool/277)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
