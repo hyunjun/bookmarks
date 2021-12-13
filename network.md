@@ -88,6 +88,9 @@ Network
 
 # Course MOOC Lecture
 * [Computer Networking: a Top Down Approach](http://gaia.cs.umass.edu/kurose_ross/online_lectures.htm)
+* [컴퓨터네트워크 - YouTube](https://www.youtube.com/playlist?list=PLOml5j0-AMQkHM6SFAP3YIRXHKu2glLVc)
+* [데이터통신 - YouTube](https://www.youtube.com/playlist?list=PLOml5j0-AMQkNRvJlRjd4TAiIyFyWn0st)
+* [네트워크설계 - YouTube](https://www.youtube.com/playlist?list=PLOml5j0-AMQk6QPagJqhEOcHX-AaIw82x)
 
 # DNS
 * [how DNS works](https://howdns.works/)
