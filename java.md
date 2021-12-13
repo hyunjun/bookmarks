@@ -879,6 +879,7 @@ Java
 * [Java Memory Model(자바 메모리 모델) :: 당근케잌](https://yeon-kr.tistory.com/114)
 * [**자바 코드와 메서드, 스태틱 변수 등은 메모리의 어디에 위치할까? - 골든래빗**](https://goldenrabbit.co.kr/2021/11/03/%EC%9E%90%EB%B0%94-%EC%BD%94%EB%93%9C%EC%99%80-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%8A%A4%ED%83%9C%ED%8B%B1-%EB%B3%80%EC%88%98-%EB%93%B1%EC%9D%80-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%9D%98-%EC%96%B4%EB%94%94/)
 * [스택과 힙 메모리, 그리고 멀티 스레드 :: 시행착오를 줄이는 방법](https://jinssssun.tistory.com/3) Kotlin
+* [10분 테코톡 🎹 김김의 JVM Specification - YouTube](https://www.youtube.com/watch?v=6reapO0gLPs)
 * [**Project Loom: Fibers and Continuations for the Java Virtual Machine**](http://cr.openjdk.java.net/~rpressler/loom/Loom-Proposal.html)
   * [**Project Loom: Fiber와 Continuation**](http://guruma.github.io/posts/2018-09-27-Project-Loom-Fiber-And-Continuation/)
   * [Project Loom: Helping Write Concurrent Applications on the Java Platform by Ron Pressler](https://www.youtube.com/watch?v=lIq-x_iI-kc)
@@ -1169,6 +1170,10 @@ Java
   * [Apache Log4j RCE 제로데이 취약점 — 시행착오를 줄이는 방법](https://dataportal.kr/51)
   * [하루한줄 CVE-2021-44228: log4shell-전 세계 서버를 공격 가능한 최악의 log4j 취약점 - hackyboiz](https://hackyboiz.github.io/2021/12/12/l0ch/2021-12-12/)
   * [log4j 보안 취약점 동작원리 및 jenkins 서버 확인 방법 | Popit](https://www.popit.kr/log4j-%eb%b3%b4%ec%95%88-%ec%b7%a8%ec%95%bd%ec%a0%90-%eb%8f%99%ec%9e%91%ec%9b%90%eb%a6%ac-%eb%b0%8f-jenkins-%ec%84%9c%eb%b2%84-%ed%99%95%ec%9d%b8-%eb%b0%a9%eb%b2%95/)
+  * [Logstash에 대한 log4j 취약점 확인 및 조치 방법 :: Cloud Computing On Demand](https://ondemand.tistory.com/346)
+  * [Prisma Cloud Addresses Log4Shell Vulnerability: CVE-2021-44228 Mitigations](https://www.paloaltonetworks.com/blog/prisma-cloud/log-4-shell-vulnerability/)
+  * [BlueTeam CheatSheet \* Log4Shell\* | Last updated: 2021-12-12 2204 UTC](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592)
+  * [log4shell-tester](https://github.com/huntresslabs/log4shell-tester)
 * [lombok](https://projectlombok.org)
   * [자바모델 클래스에 날개를달자 롬복(Lombok)](http://www.slideshare.net/topcredu/lombok-66365719)
   * [Lombok 사용상 주의점(Pitfall)](http://kwonnam.pe.kr/wiki/java/lombok/pitfall)
@@ -1730,6 +1735,7 @@ Java
 * [자바 직렬화, 그것이 알고싶다.  실무편](http://woowabros.github.io/experience/2017/10/17/java-serialize2.html)
 * [자바에서 직렬화를 이용한 소켓 통신 정리](https://jungwoon.github.io/java/2018/08/16/Java-Serialize/)
 * [Why We Hate Java Serialization And What We're Doing About It by Brian Goetz & Stuart Marks](https://www.youtube.com/watch?v=dOgfWXw9VrI)
+* [자바 직렬화(Java Object Serialization)에 유연성 더하기 | Popit](https://www.popit.kr/%EC%9E%90%EB%B0%94-%EC%A7%81%EB%A0%AC%ED%99%94java-object-serialization%EC%97%90-%EC%9C%A0%EC%97%B0%EC%84%B1-%EB%8D%94%ED%95%98%EA%B8%B0)
 
 # TDD Test
 * [toby.epril.com/?tag=junit](http://toby.epril.com/?tag=junit)
