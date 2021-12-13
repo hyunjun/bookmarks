@@ -57,6 +57,7 @@ Javascript
 * [JS의 객체는 hash table이 아닙니다!](https://velog.io/@wongue_shin/JS%EC%9D%98-%EA%B0%9D%EC%B2%B4%EB%8A%94-hash-table%EC%9D%B4-%EC%95%84%EB%8B%99%EB%8B%88%EB%8B%A4)
 * [자바스크립트 성능의 비밀 (V8과 히든 클래스) | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210909)
 * [번역 V8 Deep Dives Javascript Map을 파헤쳐보자](https://www.jiwon.me/v8-deep-dives-understanding-map-internals/)
+* [How Node.js uses the V8 JavaScript engine to run your code | Red Hat Developer](https://developers.redhat.com/articles/2021/12/09/how-nodejs-uses-v8-javascript-engine-run-your-code)
 * [How JavaScript works: an overview of the engine, the runtime, and the call stack | by Alexander Zlatkov | SessionStack Blog](https://blog.sessionstack.com/how-does-javascript-actually-work-part-1-b0bacc073cf)
 * [Chromium이 발표한 RenderingNG가 무엇인가? | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210713)
   * Chrome에서 발표한 차세대 렌더링 아키텍처 RenderingNG, 크로스 브라우저 이슈를 최대한 없애고 안정적인 렌더링 성능을 구현하는 것이 목표
@@ -3083,6 +3084,7 @@ Javascript
 * [소셜 네트워크(naver, google, kakao) 로그인(OAuth 2.0) 연동 후 프로필 조회](https://blog.naver.com/pjt3591oo/222217171627)
 * [**프론트에서 안전하게 로그인 처리하기 (ft. React)**](https://velog.io/@yaytomato/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
 * [React Query로 서버 상태 관리하기 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-02-01T00:00:00.000Z)
+* [React-Query 사용법 및 쓰는 이유](https://kdinner.tistory.com/113)
 * [**최초 렌더링 속도 최적화**](https://woomin.netlify.app/Posts/2021-02-18-code-spliting/)
 * [100 days of react](https://dev.to/jwhubert91)
 * [리엑트기반 프로젝트 리펙토링 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222266155974)
