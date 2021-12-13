@@ -701,6 +701,7 @@ SQL
 
 # ORM Object Relational Mapping
 * [ORM: DB에 오브젝트를 쓰자](https://www.youtube.com/watch?v=B6iOqljc7U8)
+* [ORM: The Good, the Great, and the Ugly - YouTube](https://www.youtube.com/watch?v=3EvhK7-DlZA)
 
 # Percona
 * [SQL Query Formatting Tools Used At Percona](https://www.percona.com/blog/2020/06/03/sql-query-formatting-tools-used-at-percona/)
