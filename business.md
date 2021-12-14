@@ -384,6 +384,7 @@ Business
 * [Why Figma Wins - kwokchain](https://kwokchain.com/2020/06/19/why-figma-wins/)
 * [일 좀 하게 해 줘, 발목잡지 말고](https://brunch.co.kr/@jinhoyooephf/18)
 * [Employee Advocacy란? - YouTube](https://www.youtube.com/watch?v=MW8Fae-lwf0)
+* [회사가 일을 만들고 확산하는 방법을 알자 | ㅍㅍㅅㅅ](https://ppss.kr/archives/247992) 플라이휠 flywheel
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
