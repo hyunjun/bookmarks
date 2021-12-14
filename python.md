@@ -267,6 +267,7 @@ Python
 * [**Nine simple steps for better-looking python code**](https://towardsdatascience.com/nine-simple-steps-for-better-looking-python-code-87e5d9d3b1cf)
 * [예제로 배우는 Python 프로그래밍](http://pythonstudy.xyz/)
 * [Optimization with Python I](https://www.youtube.com/playlist?list=PLBHVuYlKEkUKe3a-Bv7yFmIUVNF_d49Qg)
+* [Python Code Optimization Tips and Tricks You Should Know](https://www.techbeamers.com/python-code-optimization-tips-tricks/)
 * [데이터 과학 여름 학교 2016](https://www.youtube.com/playlist?list=PLBHVuYlKEkUIbVgM5H_9fh7cE9u45fR1J)
   * [2016 데이터 과학 여름학교 Labs](https://www.youtube.com/playlist?list=PLBHVuYlKEkUJ6WPJZ2uRAt5u0OMVVoGEQ)
 * [Ecosystem of Python](http://readme.skplanet.com/wp-content/uploads/%ED%8A%B8%EB%9E%993-1.%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%97%90%EC%BD%94%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
@@ -2272,6 +2273,7 @@ Python
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Doctor - Django code improvement bot](https://django.doctor/challenge)
 * django manager [화해 블로그](http://blog.hwahae.co.kr/%EC%A0%84%EC%B2%B4%EB%B3%B4%EA%B8%B0/tech/tech-tech/4108/)
+* [kolo: See everything happening in your running Django app. All without leaving VSCode](https://github.com/kolofordjango/kolo)
 * [python-social-auth/social-app-django: Python Social Auth - Application - Django](https://github.com/python-social-auth/social-app-django)
 
 # DSL
