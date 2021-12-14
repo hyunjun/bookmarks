@@ -742,6 +742,7 @@ Web
 * Consul
   * [HAProxy and Consul with DNS for Service Discovery - HAProxy Technologies](https://www.haproxy.com/blog/haproxy-and-consul-with-dns-for-service-discovery/)
   * [Load Balancing Strategies for HashiCorp Consul](https://www.hashicorp.com/blog/load-balancing-strategies-for-consul/)
+  * [Hashicorp certified consul associate exam preparation guide | by Jeewan Sooriyaarachchi | Medium](https://jeewansooriyaarachchi.medium.com/hashicorp-certified-consul-associate-exam-preparation-guide-b31bd4aab195)
 * [imgproxy: Fast and secure standalone server for resizing and converting remote images](https://github.com/imgproxy/imgproxy)
   * [빠르고 안전한 오픈소스 이미지 프록시 서버 | GeekNews](https://news.hada.io/topic?id=3949)
 * Keepalived
@@ -761,6 +762,7 @@ Web
   * [**Reining in the thundering herd ⛈ Getting to 80% CPU utilization with Django**](https://blog.clubhouse.com/reining-in-the-thundering-herd-with-django-and-gunicorn/)
 * [Mitmproxy 7](https://mitmproxy.org/posts/releases/mitmproxy7/)
   * [MITMProxy로 실시간 검색어 조작하기](https://www.youtube.com/watch?v=2Of-zvygg8w)
+* [rss-proxy: RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure](https://github.com/damoeb/rss-proxy)
 * [traefik: The Cloud Native Application Proxy](https://github.com/traefik/traefik)
   * [traefik - 클라우드 네이티브 어플리케이션 프록시 | GeekNews](https://news.hada.io/topic?id=3668)
 * [YARP: Yet Another Reverse Proxy](https://microsoft.github.io/reverse-proxy/)
