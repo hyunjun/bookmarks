@@ -47,6 +47,7 @@ Shell
 * [What exactly was the point of \[ “x$var” = “xval” \]? – Vidar's Blog](https://www.vidarholen.net/contents/blog/?p=1035)
 * [**bash parameter expansion**](https://wizardzines.com/comics/parameter-expansion/)
   * ${var}, ${#var}, ${var/bear/panda}, ${var:-othervar}, ${var:?some error}, ${var#pattern}, ${var%pattern}, ${var:offset:length}
+* [How to write idempotent Bash scripts · Fatih Arslan](https://arslan.io/2019/07/03/how-to-write-idempotent-bash-scripts/)
 * argument
   * [practice - multiple arguments](https://gist.github.com/hyunjun/ba33945e80a4f899cc169f97aa351820)
   * [bash pass multiple arguments with spaces](http://www.linuxquestions.org/questions/linux-software-2/bash-pass-multiple-arguments-with-spaces-717268/)
