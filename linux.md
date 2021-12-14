@@ -616,6 +616,7 @@ Linux
 * `kill`
   * [Best way to kill all child processes](http://stackoverflow.com/questions/392022/best-way-to-kill-all-child-processes)
   * [Killing a process and all of its descendants](http://morningcoffee.io/killing-a-process-and-all-of-its-descendants.html)
+* `ldd` [libtree: ldd as a tree](https://github.com/haampie/libtree)
 * `less`
   * [Stop using tail -f (mostly)](http://www.brianstorti.com/stop-using-tail/)
 * `ln`
@@ -1207,6 +1208,7 @@ Linux
 * [Prezto - Instantly Awesome Zsh](https://github.com/sorin-ionescu/prezto)
 * [svsh - Take control of your supervisor](http://ido50.github.io/Svsh/)
 * [vnstat - Track and Log a Linux Server's Bandwidth Use](http://www.happyapps.io/blog/2015-08-15-track-and-log-a-linux-server-s-bandwidth-use)
+* zsh [zsh-completions/zsh-completions-howto.org at master · zsh-users/zsh-completions](https://github.com/zsh-users/zsh-completions/blob/master/zsh-completions-howto.org)
 
 # System Library
 * [inotify](http://ko.m.wikipedia.org/wiki/Inotify)
