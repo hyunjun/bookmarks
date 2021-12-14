@@ -2603,6 +2603,7 @@ Javascript
 * [플랫폼별 QR, 바코드 스캐너 구현기](http://www.popit.kr/%EC%A2%8C%EC%B6%A9%EC%9A%B0%EB%8F%8C-%ED%94%8C%EB%9E%AB%ED%8F%BC%EB%B3%84-qr-%EB%B0%94%EC%BD%94%EB%93%9C-%EC%8A%A4%EC%BA%90%EB%84%88-%EA%B5%AC%ED%98%84%EA%B8%B0/)
 * [네이버와 카카오의 QR 체크인 페이지 비교해보기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/05/02/Comparing-QR-check-in-pages.html)
 * [QiFi - pure JS WiFi QR Code Generator](https://qifi.org/)
+  * [Qifi - 자바스크립트로만 개발된 WiFi 접속용 QR코드 생성기 | GeekNews](https://news.hada.io/topic?id=131)
 * [qrcode](https://okdevtv.com/mib/nodejs/qrcode)
   * [qr-checkin: QR Code Check In](https://github.com/kenu/qr-checkin)
   * [🎯QR코드로 출석부 만들기 #기획 #모바일웹 #nodejs #qrcode - YouTube](https://www.youtube.com/watch?v=FRKD2VO3LE0)
