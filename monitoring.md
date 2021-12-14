@@ -37,6 +37,7 @@ Monitoring
   * 쉽게 어떤 매트릭 키스페이스가 큰지 찾음. 이 분석으로 가장 큰 서비스 중 하나인 광고팀의 매트릭을 33% 감소
 * [Introducing logs from the dashboard for Cloudflare Workers](https://blog.cloudflare.com/introducing-workers-dashboard-logs/)
 * [Elastic 초간단 모니터링 시스템 만들기](https://jjeong.tistory.com/1568)
+* [Why the Future of Monitoring Is Agentless](https://www.infoq.com/articles/future-monitoring-agentless/)
 
 # Grafana
 * [Grafana - Graphing System Statistics with Grafana](http://blog.endpoint.com/2015/08/graphing-system-statistics-with-grafana.html)
