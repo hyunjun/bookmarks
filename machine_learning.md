@@ -1198,6 +1198,7 @@ Machine Learning
 * [칼럼ㅣAI 프로젝트 악순환 고리 끊어라··· 'ML옵스' 마인드셋이 필요한 이유 - CIO Korea](https://www.ciokorea.com/news/202454)
 * [MLOps And Machine Learning Roadmap - KDnuggets](https://www.kdnuggets.com/2021/08/mlops-machine-learning-roadmap.html)
 * [커피고래가 생각하는 MLOps | 커피고래의 노트](https://coffeewhale.com/what-is-mlops)
+* [하나의 코드 베이스 & 파이프라인으로 여러 도메인에 “코드 수정 없이” AI 모델들을 배포할 수 있을까. 박중배 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=XDzMK5NoiLQ)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
 * [MadeWithML: Learn how to responsibly deliver value with ML](https://github.com/GokuMohandas/MadeWithML)
 * **[MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
