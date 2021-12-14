@@ -164,6 +164,7 @@ Programming Language
   * [Assembly programming for Perl programmers](https://fosdem.org/2016/schedule/event/assembly_and_perl/)
   * [x64 어셈블리 소개](http://thar.tistory.com/1)
   * [ARM Assembly Programming Using Raspberry Pi](http://www.microdigitaled.com/ARM/ASM_ARM/Software/ARM_Assembly_Programming_Using_Raspberry_Pi_GUI.pdf)
+  * [asmrepl: A REPL for x86-64 assembly language](https://github.com/tenderlove/asmrepl)
   * [httpdito-readme](http://canonical.org/~kragen/sw/dev3/httpdito-readme)
     * [canonical.org/~kragen/sw/dev3/server.s](http://canonical.org/~kragen/sw/dev3/server.s)
     * [httpdito - i386 어셈블리로 된 초소형 웹서버 | GeekNews](https://news.hada.io/topic?id=4008)
