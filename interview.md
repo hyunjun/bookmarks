@@ -839,7 +839,7 @@ Interview
 * [이직할 때 카운터 오퍼를 받아들이면 안되는 이유들 | 경력직은 잡인덱스](https://www.jobindexworld.com/contents/view/3461)
 * [levels.fyi](https://www.levels.fyi/) 미국 회사 직급별 연봉
 * [paysa.com - Make the most out of your job Paysa is your free personal career advisor](https://www.paysa.com/)
-* [perks.guide](http://perks.guide/) 회사 복지 비교
+* [~perks.guide~](http://perks.guide/) 회사 복지 비교
 
 # Spotify
 * [스톡홀름에서의 인터뷰](https://brunch.co.kr/@worker-in-yvr/13)
