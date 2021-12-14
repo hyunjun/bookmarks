@@ -379,6 +379,7 @@ Programming
 * [Decrease complexity by separating Code from Data](https://blog.klipse.tech/databook/2020/10/30/data-book-chap2-part1.html)
 * [wily: A Python application for tracking, reporting on timing and complexity in Python code](https://github.com/tonybaloney/wily)
   * [A Python application for tracking, reporting on timing and complexity in Python code](https://pythonawesome.com/a-python-application-for-tracking-reporting-on-timing-and-complexity-in-python-code/)
+* [Measuring Software Complexity: What Metrics to Use?](https://thevaluable.dev/complexity-metrics-software/)
 * ["The Mess We're In" by Joe Armstrong](https://www.youtube.com/watch?v=lKXe3HUG2l4)
 * [**문제를 해결할 때 사고가 중요한 이유**](https://engineering.linecorp.com/ko/blog/think-differently-to-solve-problems/) 다 아는 이야기이지만 문제 해결을 위해 어떻게 접근하는지에 대한 흐름을 자세히 설명한 글
 * [프레임워크 공부를 멈춰라](https://medium.com/@jongyoungpark/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-%EA%B3%B5%EB%B6%80%EB%A5%BC-%EB%A9%88%EC%B6%B0%EB%9D%BC-1afa37644474) 기본에 충실하자는 이야기
@@ -404,6 +405,7 @@ Programming
 * [유튜브 이야기 독후감 실리콘 벨리와 엔지니어, 유튜브 창업이야기](https://blog.voidmainvoid.net/332)
 * [12. 사고를 쳐도 혼나지 않는 회사 - 너의 실수를 부검한다 - 포스트모템(Postmortem)](https://brunch.co.kr/@svillustrated/13)
 * [**post-mortems: A collection of postmortems. Sorry for the delay in merging PRs!**](https://github.com/danluu/post-mortems)
+* [Project Zero: This shouldn't have happened: A vulnerability postmortem](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
 * [코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는 법. | by Dayoon Kim | 코드스테이츠 Code States — 혁신적인 교육 부트캠프 | Nov, 2020 | Medium](https://medium.com/code-states/%EC%BD%94%EB%94%A9%EC%9D%84-%EB%B0%B0%EC%9A%B8-%EB%95%8C-%ED%96%88%EB%8D%98-%EC%8B%A4%EC%88%98%EB%93%A4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B7%B8-%EC%8B%A4%EC%88%98%EB%93%A4%EC%9D%84-%ED%94%BC%ED%95%98%EB%8A%94-%EB%B2%95-3497a80217ff)
 * [Tech Seminar 당근마켓 성장과 개발 스택의 변화 - YouTube](https://www.youtube.com/watch?v=ELlQXruFesI)
 * [당근마켓의 푸시알림을 지탱하고 있는 Node.js 서비스. 푸시알림은 당근마켓 서비스에서 채팅, ‘키워드 알림’, ‘금주의… | by Hwasoo Cho | 당근마켓 팀블로그 | Jul, 2020 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%9D%98-%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC%EC%9D%84-%EC%A7%80%ED%83%B1%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94-node-js-%EC%84%9C%EB%B9%84%EC%8A%A4-19023ad86fc)
@@ -996,6 +998,7 @@ Programming
 * [Adoption of Cloud-Native Architecture, Part 1: Architecture Evolution and Maturity](https://www.infoq.com/articles/cloud-native-architecture-adoption-part1/)
 * [Adoption of Cloud Native Architecture, Part 2: Stabilization Gaps and Anti-Patterns](https://www.infoq.com/articles/cloud-native-architecture-adoption-part2/)
 * [Adoption of Cloud Native Architecture, Part 3: Service Orchestration and Service Mesh](https://www.infoq.com/articles/cloud-native-architecture-adoption-part3/)
+* [Tom Grey's Area - Cloud Native Architecture in Practice (2020-01)](https://www.tomgrey.info/articles/cloud-native-architecture-in-practice-2020-01)
 * [Hide :: Stripe 결제 시스템 도입하기](https://hides.tistory.com/1073)
 * [Financial Times의 데이터플랫폼 구축기 | GeekNews](https://news.hada.io/topic?id=3416)
 * [안심번호(050) 시스템 #1 - 시스템 구축 스토리 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/12/30/050system_introduction.html)
@@ -1271,6 +1274,7 @@ Programming
 * [How To Build a Microservice Without Losing a Job](https://www.youtube.com/watch?v=Hnbct_8nj_M)
 * [GRIT: a Protocol for Distributed Transactions across Microservices](https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/)
 * [마이크로 서비스에서 분산 트랜잭션](https://medium.com/dtevangelist/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-347af5136c87) two phase commit, saga pattern
+* [Saga Orchestration for Microservices Using the Outbox Pattern](https://www.infoq.com/articles/saga-orchestration-outbox/)
 * [Nicolas Frankel - 3 easy performance improvements in your microservices architecture](https://www.youtube.com/watch?v=FUv2sdNO_9o)
 * [Testing Microservices: an Overview of 12 Useful Techniques - Part 1](https://www.infoq.com/articles/twelve-testing-techniques-microservices-intro/)
 * [Testing Microservices: Examining the Tradeoffs of Twelve Techniques - Part 2](https://www.infoq.com/articles/twelve-testing-techniques-microservices-tradeoffs/)
@@ -1606,6 +1610,8 @@ Programming
 * [“클라우드가 컴퓨터인 세상, 웹 앱과 API 보안의 현실 직시하라” 퀄시스 - CIO Korea](https://www.ciokorea.com/news/216049)
 * [같은 듯 다른 오브젝트 스토리지와 분산 파일 시스템](https://blog.naver.com/solutionnews/222578929203)
 * [OpenInfra Community Days Korea 2021 행사 참여후기](https://naleejang.tistory.com/252)
+* [IDG 블로그 | 너무 복잡한 클라우드, 사람 구하기만 더 어려워진다 - ITWorld Korea](https://www.itworld.co.kr/news/217794)
+* [IDG 블로그 | 클라우드 '부작용'의 이유와 해법 - ITWorld Korea](https://www.itworld.co.kr/news/217594)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -2289,8 +2295,10 @@ Programming
 * [Velocity 09: John Allspaw and Paul Hammond, "10+ Deploys Pe - YouTube](https://www.youtube.com/watch?v=LdOe18KhtT4)
 * [halting problem : Dev v Ops](https://www.bassi.io/articles/2017/08/10/dev-v-ops/)
 * [DevOps Principles - The CASM Model - YouTube](https://www.youtube.com/watch?v=VySUutlo91E)
+* [Useful CLI tools for DevOps Engineers | by Jeewan Sooriyaarachchi | Medium](https://jeewansooriyaarachchi.medium.com/useful-cli-tools-for-devops-engineers-9135db91725b) AWS CLI, Azure CLI, Gcloud tool, fzf, kubectx, kubens, stern, awsp, tfenv, tgenv, aws-vault, Setup bash PS1, Kube-ps1, Github cli, docker-credential-helper-ecr, helm-switcher
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
   * GitHub, Jira 등의 도구를 연결해서 데이터를 수집한 뒤 이를 시각화해서 사용할 수 있는 데이터 레이크 및 대시보드
+  * [DevLake - DevOps를 위한 오픈소스 Data Lake | GeekNews](https://news.hada.io/topic?id=5442)
 
 # Email
 * [Billions of Emails Synced with Python](https://www.nylas.com/blog/billions-of-emails-synced-with-python)
@@ -2360,6 +2368,7 @@ Programming
 * [Boosting image processing performance, from ImageMagick to Libvips | by Dimitri Bouron | Criteo R&D Blog | Medium](https://medium.com/criteo-engineering/boosting-image-processing-performance-from-imagemagick-to-libvips-268cc3451d55)
 * [Why Your Website Should Not Use Dithered Images - Simple Thread](https://www.simplethread.com/why-your-website-should-not-use-dithered-images/)
 * [iconvg: IconVG is a compact, binary format for simple vector graphics: icons, logos, glyphs and emoji](https://github.com/google/iconvg)
+* [ImageMagick – Convert, Edit, or Compose Digital Images](https://imagemagick.org/script/index.php)
 
 # Infrastructure
 * [IT인프라 전문가 되기](https://brunch.co.kr/magazine/it-infra)
@@ -3225,6 +3234,7 @@ Programming
 * [Introduction To Reverse Engineering Software](http://opensecuritytraining.info/IntroductionToReverseEngineering.html)
 * [CS6038/CS5138 Malware Analysis, UC](https://class.malware.re/)
 * [화이트해커 웹 해킹 기술 - YouTube](https://www.youtube.com/playlist?list=PLK3IOiy3HLQb6jA9bA5-nJqFxJ96aytCz)
+* [키보드 음성 키로거](http://www.secmem.org/blog/2021/10/14/keyboard-acoustic-keylogger/)
 * [Ghidra](https://ghidra-sre.org/) A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
   * [NSA가 만든 무료 리버스 엔지니어링 툴, "기드라" 사용 방법](http://www.itworld.co.kr/news/122618)
 * [h4cker - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more](https://github.com/The-Art-of-Hacking/h4cker)
