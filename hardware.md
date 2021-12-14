@@ -29,6 +29,8 @@ Hardware
 * [Building A Custom Home Automation System](https://www.youtube.com/watch?v=M0izp2GJSe0)
 * [Building a REST API in Python | Home Automation #02](https://www.youtube.com/watch?v=4T5Gnrmzjak)
 * [Building a Config Service in Go | Home Automation #03](https://www.youtube.com/watch?v=iYrMAVSOkkA)
+* [10기가비트 홈 네트워크 구축하기](https://tech.ssut.me/going-10-gigabit-networking-at-home/)
+* [Smart Home Hacking in Real World](http://codegate.org/assets/kr/files/Smart%20Home%20Hacking%20in%20Real%20World.pdf)
 * [그린팩토리 주차층 관리앱 개발기 (Bluetooth, Beacon 연동 개발시 겪은 일들)](https://tv.naver.com/v/4286021)
 * [hellmaker.kr](http://www.hellmaker.kr/)
 * [마이크로 컴퓨터와 RC (Remote Control) - 1편](https://kerberosj.tistory.com/235)
@@ -47,11 +49,11 @@ Hardware
 * [**임베디드 레시피 : 강의실 전체 Map**](http://recipes.egloos.com/5000239)
 * [ipTIME A9004M 공유기에 Windows XP 올리기 | 맨손잡이](https://mans0n.github.io/2020/08/08/winxp-on-a9004m/)
 * [Coding with voice dictation using Talon Voice · Josh W Comeau](https://joshwcomeau.com/accessibility/hands-free-coding/)
-* [10기가비트 홈 네트워크 구축하기](https://tech.ssut.me/going-10-gigabit-networking-at-home/)
 * [스마트 식물재배기 앱 만들기 : 네이버 카페](https://cafe.naver.com/creativethon/6432)
 * [kindle-dash: Power efficient dashboard for Kindle 4 NT devices](https://github.com/pascalw/kindle-dash)
 * [565. 코딩 학습 로드맵/테크트리/커리큘럼(.. : 네이버블로그](https://blog.naver.com/pcmola/222435895845) lego 레고 포함
 * [Apple M1칩은 왜 그렇게 빠를까? | GeekNews](https://news.hada.io/topic?id=3315)
+* [Embedded Software Development in Visual Studio - C++ Team Blog](https://devblogs.microsoft.com/cppblog/visual-studio-embedded-development/)
 
 # Arduino
 * [Arduino](http://www.arduino.cc)
@@ -322,6 +324,8 @@ Hardware
 * [Making an old USB printer support Apple AirPrint using a Raspberry Pi](https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html)
 * ['IT/라즈베리파이' 카테고리의 글 목록](https://www.sagein.net/category/IT/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4)
 * [internet-pi: Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
+* [PiBox](https://pibox.io/)
+  * [PiBox Mini - 라즈베리 Pi 스토리지 서버 | GeekNews](https://news.hada.io/topic?id=5507)
 
 # Reverse Engineering
 * [Hardware Reverse Engineering](http://security.cs.rpi.edu/courses/hwre-spring2014/)
