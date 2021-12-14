@@ -3121,6 +3121,9 @@ Programming
 * [**Armeria로 Reactive Streams와 놀자! – 2**](https://engineering.linecorp.com/ko/blog/reactive-streams-with-armeria-2/)
 * [**반응형 프로그래밍이란 무엇인가?**](https://brunch.co.kr/@tilltue/62)
 * [Stream Backpressure의 이해 | Doublem.org](https://doublem.org/stream-backpressure-basic/)
+* [리액티브 프로그래밍 기초 1 - 옵저버 패턴과 이터레이터 패턴 :: 날샘 코딩](https://devsh.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-%EC%98%B5%EC%A0%80%EB%B2%84-%ED%8C%A8%ED%84%B4%EA%B3%BC-%EC%9D%B4%ED%84%B0%EB%A0%88%EC%9D%B4%ED%84%B0-%ED%8C%A8%ED%84%B4)
+* [리액티브 프로그래밍 기초 2 - 비동기 프로그래밍 :: 날샘 코딩](https://devsh.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)
+* [리액티브 프로그래밍 기초 3 - 리액티브 스트림 :: 날샘 코딩](https://devsh.tistory.com/entry/%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EA%B8%B0%EC%B4%88-3-%EB%A6%AC%EC%95%A1%ED%8B%B0%EB%B8%8C-%EC%8A%A4%ED%8A%B8%EB%A6%BC)
 
 # Real Time Processing, Streaming
 * [지금 핫한 Real-time In-memory Stream Processing 이야기](http://www.slideshare.net/tedwon/realtimeinmemorystreamprocessingbytedwon) KaVa, Storm, Spark streaming
