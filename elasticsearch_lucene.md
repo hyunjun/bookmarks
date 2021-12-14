@@ -611,6 +611,7 @@ ElasticSearch - Lucene
   * [우분투 20.04에서 typesense 서버 설치부터 node.js 클라이언트 예제 실행까지 | FUREWEB](https://fureweb-com.github.io/blog/2020/12/13/from-installing-the-typesense-server-to-running-nodejs-client-example-on-ubuntu-20-04.html)
   * [Typesense를 활용한 검색용 API 서버 그리고 데모용 웹페이지 만들기 | FUREWEB](https://fureweb-com.github.io/blog/2020/12/15/creating-an-api-server-for-search-using-typesense-and-a-web-page-for-demo.html)
 * [VOYAGER : 검색 엔진 기반 실시간 이슈 감지 시스템](http://engineering.riotgames.com/news/voyager-original-korean)
+* [Zinc 검색 엔진 - 경량 ElasticSearch 대체제 | GeekNews](https://news.hada.io/topic?id=5490)
 
 # Logstash
 * [logstash slack chat output plugin 만들기](http://jjeong.tistory.com/1161)
