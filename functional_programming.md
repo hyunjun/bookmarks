@@ -178,6 +178,7 @@ Functional Programming
 
 # Curry
 * [Curry and Function Composition](https://medium.com/javascript-scene/curry-and-function-composition-2c208d774983)
+* [다시보는 커링 | overcurried](https://overcurried.com/%EB%8B%A4%EC%8B%9C%EB%B3%B4%EB%8A%94%20%EC%BB%A4%EB%A7%81/)
 
 # Functor
 * [Representable Functors](http://bartoszmilewski.com/2015/07/29/representable-functors/)
