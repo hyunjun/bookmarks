@@ -154,7 +154,6 @@ Interview
 * [새로운 데이터 분석가와의 랑데부를 위하여(1)](https://cojette.github.io/rendezvous1/)
 * [How to interview your interviewers when you’re looking for a job](https://medium.freecodecamp.org/how-to-interview-your-interviewers-when-youre-looking-for-a-job-d848bc3a910)
 * [머신러닝 인터뷰 준비](https://docs.google.com/document/d/10bJK8S4T7sBIP-pzdQm9xRpW0HcLsrh6D047pE_kFE8)
-* [tech-interview-handbook - Algorithms study materials, behavioral content and tips for rocking your coding interview](https://github.com/yangshun/tech-interview-handbook)
 * [Bet you can’t solve this Google interview question](https://medium.freecodecamp.org/bet-you-cant-solve-this-google-interview-question-4a6e5a4dc8ee) matrix coloring
 * [The best software Interview material - Prepare in less than 3 months](https://www.youtube.com/watch?v=bBPHpH8aKjw)
 * [Grokking the Object Oriented Design Interview](https://www.educative.io/collection/5668639101419520/5692201761767424)
@@ -167,6 +166,7 @@ Interview
   * [Goldman Sachs Interview - The Tree Question | Part II](https://www.youtube.com/watch?v=D1Tv5cCs1d8)
 * [**소프트웨어 엔지니어 코딩 인터뷰 준비하기 (미국)**](https://imasoftwareengineer.tistory.com/66)
 * [**Tech Interview Handbook**](https://yangshun.github.io/tech-interview-handbook/) 기본적인 모든 인터뷰 절차 및 각 알고리즘 별 문제(혹은 link)도 포함
+  * [tech-interview-handbook: 💯 Curated interview preparation materials for busy engineers](https://github.com/yangshun/tech-interview-handbook)
 * [Interview Experience at Goldman Sachs (For Technical Analyst Role- Java )](https://medium.com/@mukeshsrivastav691/interview-experience-at-goldman-sachs-90036a562484)
 * [The Evolution of Reddit.com's Architecture](https://www.youtube.com/watch?v=nUcO7n4hek4)
 * [아틀라시안 채용 후기](https://www.facebook.com/groups/helpdev/permalink/2535210356538290/) atlassian
