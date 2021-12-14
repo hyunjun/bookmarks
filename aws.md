@@ -88,6 +88,7 @@ AWS
   * 차근차근 설명하면서 보여주기 때문에 ALB가 L7에서 동작하고 NLB가 L4에서 동작한다는 게 무슨 의미인지 이 때문에 어떤 차이가 생기는지 이해하기 좋음
 * [AWS Network Load Balancer에서 Application Load Balancer 연결](https://zigispace.net/1139)
 * [AWS Network Load Balancer에서 Application Load Balancer 연결2](https://zigispace.net/1140)
+* [Automated AWS Load Balancer Warm-Up | by Luis Sena | Nov, 2021 | Medium](https://luis-sena.medium.com/automated-aws-load-balancer-warm-up-d0b4084c8bbc)
 * [AWS Transit Gateway - 1](http://zigispace.net/991)
 * [AWS Transit Gateway - 2](http://zigispace.net/992)
 * [AWS Transit Gateway와 Site-to-Site VPN을 이용한 오피스 네트워크 구성 | by Dahyun | 원티드 제품 팀블로그 | Oct, 2020 | Medium](https://medium.com/wantedjobs/aws-transit-gateway%EC%99%80-site-to-site-vpn%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%98%A4%ED%94%BC%EC%8A%A4-%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC-%EA%B5%AC%EC%84%B1-50d4948274bc)
@@ -412,6 +413,7 @@ AWS
 * [AWS Proton - 소규모 회사를 위한 서버리스 배포 서비스 :: #5분클라우드데모 - YouTube](https://www.youtube.com/watch?v=5q7B9bu0dsU)
 * [Amazon Pinpoint로 다채널 마케팅 커뮤니케이션 서비스 하기 | by 김현진 | Cloud Villains | Jul, 2021 | Medium](https://medium.com/ctc-mzc/amazon-pinpoint-%EB%A1%9C-%EB%8B%A4%EC%B1%84%EB%84%90-%EB%A7%88%EC%BC%80%ED%8C%85-%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%95%98%EA%B8%B0-d3f54d262f74)
 * [AWS’s Egregious Egress](https://blog.cloudflare.com/aws-egregious-egress/)
+* [AWS 외부로의 데이터 전송 요금 인하 | GeekNews](https://news.hada.io/topic?id=5450) egress
 * [Amazon QLDB - 블록체인급 원장 데이터베이스 서비스 :: #5분클라우드데모 - YouTube](https://www.youtube.com/watch?v=o-Aah2Yei7s)
 * [Quantum Ledger Database(QLDB) + Serverless | by Eugene Mahota | firstlineoutsourcing | Nov, 2021 | Medium](https://medium.com/firstlineoutsourcing/quantum-ledger-database-qldb-serverless-eeee8d6b4a6a)
 * [지그재그는 DB 없이 데이터를 갖고 논다 - ZDNet korea](https://zdnet.co.kr/view/?no=20210810095607)
@@ -491,6 +493,7 @@ AWS
 * [로그 데이터로 CloudWatch Metric 만들기 - YouTube](https://www.youtube.com/watch?v=f2b3QdNEOwI)
 * [New – Amazon CloudWatch Anomaly Detection](https://aws.amazon.com/ko/blogs/aws/new-amazon-cloudwatch-anomaly-detection/)
 * [Introducing the AWS CloudWatch integration, Grafana Cloud's first fully managed integration | Grafana Labs](https://grafana.com/blog/2021/11/17/2021/11/17/grafana-aws-cloudwatch-integration/)
+* [AWS re:Invent introduces, CloudWatch RUM | by Murat turan | Modanisa Engineering | Dec, 2021 | Medium](https://medium.com/modanisa-engineering/aws-re-invent-introduces-cloudwatch-rum-c527a6279e94)
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
@@ -824,6 +827,10 @@ AWS
 * [5 Serverless Architecture Best Practices with AWS Lambda | by AWS Meetup Group | Level Up Coding](https://levelup.gitconnected.com/5-serverless-architecture-best-practices-with-aws-lambda-a707206c098c)
 * [Serverless 환경에서 수행시간이 긴 작업 처리하기](http://labs.brandi.co.kr/2021/05/31/kimms4.html)
 * [Optimising Serverless Cold Starts | by Yuri Gomes | Cazoo Technology Blog | Oct, 2021 | Medium](https://medium.com/cazoo/optimising-serverless-cold-starts-d199da824f08)
+* [What a typical 100% Serverless Architecture looks like in AWS! | by Xavier Lefèvre | Serverless Transformation | Medium](https://medium.com/serverless-transformation/what-a-typical-100-serverless-architecture-looks-like-in-aws-40f252cd0ecb)
+* [Design Patterns for Serverless Systems](https://www.infoq.com/articles/design-patterns-for-serverless-systems/)
+* [Managing Serverless Spaghetti. Protect your business logic from dissolving into the infrastructure. | CodeX](https://medium.com/codex/managing-serverless-spaghetti-c2fb1a7db73e)
+* [Serverless offerings like AWS Lambda haven't hit the big time, but Kubernetes can help - TechRepublic](https://www.techrepublic.com/article/serverless-offerings-like-aws-lambda-havent-hit-the-big-time-but-kubernetes-can-help/)
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
 * [AWS Lambda 로 하는 Hello World!](https://velopert.com/3546)
 * [AWS Lambda](https://www.youtube.com/playlist?list=PLBtyBPTlyC7tR5LVPEjphl6fPOOOVe6XM)
@@ -924,6 +931,7 @@ AWS
 * [AWS Lambda battle 2021: performance comparison for all languages (cold and warm start) | by Aleksandr Filichkin | Sep, 2021 | Medium](https://filia-aleks.medium.com/aws-lambda-battle-2021-performance-comparison-for-all-languages-c1b441005fd1)
   * AWS Lambda에서 Node.js, Python, Go, Ruby 등 다양한 런타임 간의 성능 비교
   * 콜드 스타트에 걸리는 시간과 JMeter로 15,000 요청을 보내면서 WARM 테스트를 수행해서 런타임 간의 요청 시간을 비교해 볼 수 있게 정리
+* [AWS Lambda Performance and Cost Optimization | by Ram Vadranam | Nov, 2021 | Medium](https://ramchandra-vadranam.medium.com/following-are-key-factors-affecting-the-performance-of-serverless-applications-8582b0a33e21)
 * [이메일 인증 작업 서버리스 앱으로 구성하기](https://aws.amazon.com/ko/blogs/korea/using-callback-urls-for-approval-emails-with-aws-step-functions/)
 * [AWS Step function vs. AWS Lambda benchmark - DEV Community](https://dev.to/cremich/aws-step-function-vs-aws-lambda-benchmark-4f41)
 * [Rust로 Lambda 배포의 즐거움](https://velog.io/@juunini/Rust%EB%A1%9C-Lambda-%EB%B0%B0%ED%8F%AC%EC%9D%98-%EC%A6%90%EA%B1%B0%EC%9B%80)
@@ -1142,6 +1150,7 @@ AWS
 
 # Redshift
 * [Redshift 슈퍼계정 이름 변경](https://jybaek.tistory.com/938)
+* [AWS Introduces Amazon Redshift Serverless](https://www.infoq.com/news/2021/12/amazon-redshift-serverless/)
 
 # Route53
 * [52. Route53 이란?](https://brunch.co.kr/@topasvga/49)
