@@ -425,6 +425,7 @@ App
 * [screenity: The most powerful screen recorder & annotation tool for Chrome 🎥](https://github.com/alyssaxuu/screenity)
 * Snippyly [“공유를 넘어 협업으로” 크롬에서 스크린샷을 공유하는 가장 똑똑한 방법 - ITWorld Korea](https://www.itworld.co.kr/news/189733)
 * [TabFS](https://omar.website/tabfs/) browser extension that mounts your browser tabs as a filesystem on your computer
+* ungoogled-chromium [Google Chromium, sans integration with Google | ungoogled-chromium](https://ungoogled-software.github.io/)
 
 # ChromeOS
 * [한글 입력을 지원하는 크롬OS 터미널을 찾아서](https://libsora.so/posts/find-chrome-os-terminal-which-support-cjk-input/)
@@ -542,6 +543,7 @@ App
 * [**Airtable**](https://airtable.com/) Zenkit, Notion, Coda
 * [monday.com](https://monday.com/)
 * [Nix - a tool that takes a unique approach to package management and system configuration](https://nixos.org/)
+  * [Replit - Will Nix Overtake Docker?](https://blog.replit.com/nix-vs-docker)
 * [nocodb: 🔥 🔥 The Open Source Airtable alternative](https://github.com/nocodb/nocodb)
 * [projectlibre - Project Management software: alternative to Microsoft Project](https://sourceforge.net/projects/projectlibre/)
 * [Trello](https://trello.com/)
@@ -1226,6 +1228,7 @@ App
   * [퀵타임 플레이어를 활용한 조금 색다른 iOS 스크린샷 촬영 방법](http://macnews.tistory.com/3519)
   * [8 BEST SCREEN RECORDERS FOR LINUX IN 2017](https://itsfoss.com/best-linux-screen-recorders)
   * [asciinema - Record and share your terminal sessions, the right way](https://asciinema.org/) web에 upload하지 않으면 자체 형식이라 별도로 play해야 하는 듯
+    * [4x smaller, 50x faster · asciinema blog](https://blog.asciinema.org/post/smaller-faster/)
   * [doitlive: Because sometimes you need to do it live](https://github.com/sloria/doitlive)
     * [A python tool for live presentations in the terminal](https://pythonawesome.com/a-python-tool-for-live-presentations-in-the-terminal/)
   * [EasyRecorder](https://itunes.apple.com/kr/app/easyrecorder-screen-recorder/id663199114)
@@ -1723,6 +1726,7 @@ App
 * [This is Why Developers Embrace Microsoft Windows Again | by Erik van Baaren | Level Up Coding](https://levelup.gitconnected.com/this-is-why-developers-will-embrace-microsoft-windows-again-7437e494159d)
 * [Windows 10에서 hosts 파일 수정하기](https://offbyone.tistory.com/149)
 * [Windows 11에서 node-gyp 패키지 트러블슈팅하기 | Aliencube](https://blog.aliencube.org/ko/2021/11/26/troubleshooting-node-gyp-package-on-windows11/)
+* [개발 환경 구성: 607. 로컬의 USB 장치를 원격 머신에 제공하는 방법 - usbip-win](https://www.sysnet.pe.kr/2/0/12858)
 * [Babun - a windows shell you will love](http://babun.github.io/)
 * Bash
   * [윈도우 10에서 Bash shell 지원](https://blogs.msdn.microsoft.com/eva/?p=7633)
