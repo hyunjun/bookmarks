@@ -1020,6 +1020,7 @@ Git
 * [SourceTree - Simplicity and power in a beautiful Git GUI](https://www.sourcetreeapp.com)
   * [Reverse Commit SourceTree 에서 되돌리는 Git](https://developer88.tistory.com/362)
 * [Stacked Git – an application for managing Git commits as a stack of patches](https://stacked-git.github.io/)
+* Stack Graph [Introducing stack graphs | The GitHub Blog](https://github.blog/2021-12-09-introducing-stack-graphs/)
 * [Sublime Merge](https://www.sublimemerge.com/) Meet a new Git client, from the makers of Sublime Text
 * [Tig - Text-mode interface for git http://jonas.nitro.dk/tig ](https://github.com/jonas/tig)
   * [Tig: text-mode interface for Git](http://jonas.nitro.dk/tig/)
