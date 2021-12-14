@@ -142,6 +142,7 @@ Writing
 * [LaTeX 과 PDF](https://statkclee.github.io/latex/document-ide.html)
 * [LaTeX 과 PDF](https://statkclee.github.io/latex/latex-writing.html)
 * [Building a Documentation Culture :: antrix.net](https://antrix.net/posts/2021/documentation/) c4model
+* [The Renaissance of Code Documentation: Introducing Code Walkthrough](https://www.infoq.com/articles/code-walkthrough-documentation/)
 * [apiDoc - Inline Documentation for RESTful web APIs](https://apidocjs.com/)
   * [개발자가 싫어하는 문서화하기 2편 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222067713267)
 * [API Improvement Proposals](https://aip.dev)
