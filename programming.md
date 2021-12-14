@@ -521,11 +521,6 @@ Programming
 * [스크럼으로 처음 만나는 애자일 튜토리얼](https://wormwlrm.github.io/2018/09/09/Scrum-tutorial-for-adapting-agile-methodologies.html)
 * [Microsoft의 애자일](https://youngjaekim.wordpress.com/2019/03/29/microsoft%EC%9D%98-%EC%95%A0%EC%9E%90%EC%9D%BC/)
 * [WIP — Work in… What? | Scrum.org](https://hackernoon.com/wip-work-in-what-scrum-org-e10c57e0a7a2)
-* [JIRA 프로젝트 이슈 커스터마이징하기](https://evan-moon.github.io/2019/06/16/jira-customizing-issue)
-* [JIRA를 하자! - 쿠키런 : 오븐브레이크의 JIRA 도입기](https://tech.devsisters.com/posts/jira-of-qa)
-* [Solved: JQL find flagged issues](https://community.atlassian.com/t5/Jira-Software-questions/JQL-find-flagged-issues/qaq-p/664698)
-* Jira Search e.g. [`project = <project name> AND (type = Bug OR type = "Bug Fix" OR type = "Bug Sub-Task" ) AND status != Closed AND status != Cancelled AND status != "WON'T FIX"`](https://gist.github.com/hyunjun/0594e58adaec6ec1cb75158f5f97cad8#gistcomment-3783579)
-* [Carrying forward unfinished work in Sprints with Jira](https://community.atlassian.com/t5/Jira-articles/Carrying-forward-unfinished-work-in-Sprints/ba-p/672304) sprint 종료 시점에서 여전히 open, doing issue를 어떻게 처리할지
 * [애자일이 도대체 뭐길래?](https://evan-moon.github.io/2019/07/02/what-is-agile)
 * [KPT하는 스타트업은 성장한다](https://brunch.co.kr/@fromjayden/7) Keep Problem Try
 * [What is Kanban? (and how does it work)](https://www.youtube.com/watch?v=xhxncRy-_Rk)
@@ -559,7 +554,6 @@ Programming
 * [IT 알려주는 은행원 애자일 전문가 되는 비법 공개 - YouTube](https://www.youtube.com/watch?v=QJ4zM8CAKp0)
 * [스크럼에 대한 경험 및 개인적인 생각 - FutureSeller](https://future-seller.dev/posts/scrum-experience)
 * [Advanced Daily Scrum Meeting · Dev Note](https://devstarsj.github.io/culture/2021/02/22/daily.scrum.meeting/)
-* [Sprint & Jira](https://www.slideshare.net/seokjoonyun9/sprint-jira)
 * [Agile Testing Condensed Korean Edition by Janet Gregory et al](https://leanpub.com/agiletesting-condensed-korean-edition)
 * [클린 애자일 - 첫 마음으로 돌아가보는 여정](https://jusths.tistory.com/188)
 * [클린 애자일 - 3장 비즈니스 실천 방법](https://jusths.tistory.com/189)
@@ -1468,6 +1462,17 @@ Programming
 * [Seven guiding principles of serverless systems](https://www.advosight.com/post/seven-guiding-principles-of-serverless-systems)
 * [Monolith Vs Microservice Vs Serverless — The Real Winner? The Developer](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
 * [Please Serverless, Have an Opinion – The New Stack](https://thenewstack.io/please-serverless-have-an-opinion/)
+
+# Atlassian Jira
+* [Atlassian JIRA Home](https://www.lesstif.com/jira/atlassian-jira-home-61898760.html)
+* [Search - Atlassian Community](https://community.atlassian.com/t5/forums/searchpage/tab/message?filter=location&q=open+issue+at+the+end+of+the+sprint&location=category%3Ajira&page=2&collapse_discussion=true&search_type=thread)
+* [Solved: JQL find flagged issues](https://community.atlassian.com/t5/Jira-Software-questions/JQL-find-flagged-issues/qaq-p/664698)
+* Jira Search e.g. [`project = <project name> AND (type = Bug OR type = "Bug Fix" OR type = "Bug Sub-Task" ) AND status != Closed AND status != Cancelled AND status != "WON'T FIX"`](https://gist.github.com/hyunjun/0594e58adaec6ec1cb75158f5f97cad8#gistcomment-3783579)
+* [JIRA 프로젝트 이슈 커스터마이징하기](https://evan-moon.github.io/2019/06/16/jira-customizing-issue)
+* [JIRA를 하자! - 쿠키런 : 오븐브레이크의 JIRA 도입기](https://tech.devsisters.com/posts/jira-of-qa)
+* [Carrying forward unfinished work in Sprints with Jira](https://community.atlassian.com/t5/Jira-articles/Carrying-forward-unfinished-work-in-Sprints/ba-p/672304) sprint 종료 시점에서 여전히 open, doing issue를 어떻게 처리할지
+* [Sprint & Jira](https://www.slideshare.net/seokjoonyun9/sprint-jira)
+* [How to Groom Your Jira Backlog Using a Work Breakdown Structure (WBS) - Ricksoft, Inc.](https://www.ricksoft-inc.com/post/how-to-groom-your-jira-backlog-using-a-work-breakdown-structure-wbs/) grooming
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
