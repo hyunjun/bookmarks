@@ -1838,6 +1838,7 @@ App
   * [WSL Python & Jupyter notebook 설치 - 미완성의신](https://unfinishedgod.netlify.app/2021/03/26/wsl-python-jupyter-notebook-%EC%84%A4%EC%B9%98/)
   * [The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux | Windows Command Line](https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/)
   * [WSL2 에서 리눅스 GUI앱 실행하기](https://open-support.tistory.com/entry/WSL2-%EC%97%90%EC%84%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-GUI%EC%95%B1-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)
+  * [Connecting USB devices to WSL - Windows Command Line](https://devblogs.microsoft.com/commandline/connecting-usb-devices-to-wsl/)
   * [GWSL-Source: The actual code for GWSL. And some premade binaries](https://github.com/Opticos/GWSL-Source) python
   * podman [Get podman up and running on Windows using Linux | Opensource.com](https://opensource.com/article/21/10/podman-windows-wsl)
   * [WSL-DistroManager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://github.com/rkttu/WSL-DistroManager)
