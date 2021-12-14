@@ -1516,6 +1516,7 @@ Javascript
     * Microsoft의 WebView2와 Electron 차이점 정리
     * 둘 다 웹 기술로 데스크톱 앱을 만드는 것이 목적이지만 Electron은 Chromium 기반 WebView2는 Edge 기반
     * WebView2는 Edge와 DLL을 공유하고 Node.js를 불포함
+  * [Why Electron is a Necessary Evil - Federico Terzi - A Software Engineering Journey](https://federicoterzi.com/blog/why-electron-is-a-necessary-evil/)
 * [Elevator.js fixes those awkward "scroll to top" moments the old fashioned way](http://tholman.com/elevator.js/)
 * [ELI5: Flow - Static Type Checker for JavaScript](https://developers.facebook.com/blog/post/2020/12/14/eli5-flow-static-type-checker-javascript/)
 * [embed.js - A pure JavaScript plugin to insert or embed](http://riteshkr.com/embed.js/)
