@@ -652,6 +652,8 @@ Apache
   * 그래서 Lag의 의미를 자세히 찾아보니 마지막에 생성된 메시지와 컨슈머가 가져갔다고 표시한 오프셋의 차이라는 것을 알게 되어 auto_commit_interval_ms를 5초에서 1초로 줄여서 La를 해결
 * [Scaling Kafka Consumer for Billions of Events | by Archit Agarwal | The PayPal Technology Blog | Nov, 2021 | Medium](https://medium.com/paypal-tech/kafka-consumer-benchmarking-c726fbe4000)
 * [Event Sourcing with Kafka Streams in Production — Lessons Learned | by Nico | comsystoreply | Medium](https://medium.com/comsystoreply/event-sourcing-with-kafka-streams-in-production-lessons-learned-1ab563891874)
+* [Postgres, Kafka, and the Mysterious 100 GB – Coding, Climbing, and Commentary](https://www.mattritter.me/?p=398)
+* [The Top 5 Apache Kafka Use Cases and Architectures in 2022](https://www.slideshare.net/KaiWaehner/the-top-5-apache-kafka-use-cases-and-architectures-in-2022)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
