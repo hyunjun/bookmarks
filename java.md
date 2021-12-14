@@ -1173,6 +1173,7 @@ Java
   * [Logstash에 대한 log4j 취약점 확인 및 조치 방법 :: Cloud Computing On Demand](https://ondemand.tistory.com/346)
   * [Prisma Cloud Addresses Log4Shell Vulnerability: CVE-2021-44228 Mitigations](https://www.paloaltonetworks.com/blog/prisma-cloud/log-4-shell-vulnerability/)
   * [BlueTeam CheatSheet \* Log4Shell\* | Last updated: 2021-12-12 2204 UTC](https://gist.github.com/SwitHak/b66db3a06c2955a9cb71a8718970c592)
+  * log4j2-scan [CVE-2021-44228-Scanner/README.md at main · logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner/blob/main/README.md)
   * [log4shell-tester](https://github.com/huntresslabs/log4shell-tester)
 * [lombok](https://projectlombok.org)
   * [자바모델 클래스에 날개를달자 롬복(Lombok)](http://www.slideshare.net/topcredu/lombok-66365719)
