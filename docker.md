@@ -959,6 +959,7 @@ Docker
   * OpenAI의 특성상 작업을 한곳에 모으려고 kube-scheduler를 수정해서 작업이 한곳에 모였지만 노드에 집중되어서 발생한 문제가 발생
   * 특정 Docker 이미지가 너무 큰 문제로 다른 이미지까지 지연되는 --serialize-image-pulls 설정 문제 등도 알게 됨
 * [How to learn and practice more in Kubernetes Network Policy for CKx exams and EKS ? - DEV Community](https://dev.to/aws-builders/how-to-learn-and-practice-more-in-kubernetes-network-policy-for-ckx-exams-and-eks--4cgn)
+* [Kubernetes and Networks - why is this so dang hard? - Speaker Deck](https://speakerdeck.com/thockin/kubernetes-and-networks-why-is-this-so-dang-hard)
 * [Why (and when) you should use Kubernetes](https://hackernoon.com/why-and-when-you-should-use-kubernetes-8b50915d97d8)
 * [MSA, K8S를 이용한 대륙의 서비스 개발 사례](https://www.popit.kr/%ED%9B%84%EA%B8%B0msa-k8s%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8C%80%EB%A5%99%EC%9D%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EC%82%AC%EB%A1%80)
   * [Open infradays 2019_msa_k8s](https://www.slideshare.net/babokim/open-infradays-2019msak8s)
@@ -1018,6 +1019,7 @@ Docker
   * [번역 쿠버네티스에서 쉽게 저지르는 10가지 실수 | 커피고래의 노트](https://coffeewhale.com/kubernetes/mistake/2020/11/29/mistake-10/)
 * [Why Not Use Kubernetes?](https://medium.com/better-programming/why-not-use-kubernetes-52a89ada5e22)
 * [EKS K8s에서 ELB(ALB, NLB) 제대로 사용하기](https://velog.io/@ausg/eks-k8s-elb)
+* [Kubernetes + EKS + Blue/Green Deployment | by jerome.decoster | Medium](https://medium.com/@jerome.decoster/kubernetes-eks-blue-green-deployment-99d611c596ad)
 * [Kubernetes에 Microservice 배포하기 1편 - 클릭 몇 번으로 배포 시스템 만들기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/06/13/microsrv-deploy-1.html)
 * [Kubernetes에 Microservice 배포하기 2편 - Pipeline 복제하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2020/07/04/microsrv-deploy-2.html)
 * [Docker and Kubernetes — root vs. privileged - ITNEXT](https://itnext.io/docker-and-kubernetes-root-vs-privileged-9d2a37453dec)
@@ -1028,6 +1030,7 @@ Docker
 * [Architecting Kubernetes clusters — choosing a cluster size | by Daniel Weibel | ITNEXT](https://itnext.io/architecting-kubernetes-clusters-choosing-a-cluster-size-92f6feaa2908)
 * [Managing Kubernetes resources: 5 things to remember | The Enterprisers Project](https://enterprisersproject.com/article/2020/8/managing-kubernetes-resources-5-things-remember)
 * [Logging in Kubernetes: EFK vs PLG Stack - InfraCloud Technologies](https://www.infracloud.io/blogs/logging-in-kubernetes-efk-vs-plg-stack/)
+* [Kubernetes Logging with Fluent Bit, Elasticsearch and Kibana | by Raju Dawadi | Medium](https://dwdraju.medium.com/kubernetes-logging-with-fluent-bit-elasticsearch-and-kibana-c4234f71e65b)
 * ['너무 복잡'··· 쿠버네티스 관리를 아무도 원하지 않는 이유 - CIO Korea](https://www.ciokorea.com/news/190458)
 * [10 Anti-Patterns for Kubernetes Deployments | by Becca Bau | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/10-antipatterns-for-kubernetes-deployments-e97ce1199f2d)
 * [우리는 불편함을 어떻게 마주하고 있는가 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/10/06/thiiing-system-improvement.html)
@@ -1161,6 +1164,7 @@ Docker
   * Octant Lens Kubevious kubelive K9s
 * [Top Open Source CI/CD Tools for Kubernetes to Know](https://cloud.redhat.com/blog/top-open-source-ci/cd-tools-for-kubernetes-to-know)
 * [Antrea Joins CNCF Sandbox](https://blogs.vmware.com/opensource/2021/05/05/antrea-joins-cncf-sandbox/) CNI(Container Network Interface)와 Kubernetes NetworkPolicy를 pod 수준에서 구현한 VMWare의 프로젝트
+* [Top Open Source CI/CD Tools for Kubernetes to Know](https://cloud.redhat.com/blog/top-open-source-ci/cd-tools-for-kubernetes-to-know) Tekton, Argo, GitHub Actions, Jenkins X, OpenShift Pipelines, Spinnaker, Circle CI, GitLab
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
   * [컨테이너 기반의 워크플로우 솔루션 argo](http://bcho.tistory.com/1299)
   * [Intezer - New Attacks on Kubernetes via Misconfigured Argo Workflows](https://www.intezer.com/blog/container-security/new-attacks-on-kubernetes-via-misconfigured-argo-workflows/)
@@ -1187,6 +1191,8 @@ Docker
 * [Crossplane](https://crossplane.io/) Compose cloud infrastructure and services into custom platform APIs
   * [Crossplane #1 - 소개 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1561)
   * [Crossplane #2 - Configuration :: Outsider's Dev Story](https://blog.outsider.ne.kr/1562)
+* [Cryostat | JDK Flight Recorder Management for Kubernetes and OpenShift](https://cryostat.io/)
+  * [Announcing Cryostat 2.0: JDK Flight Recorder for Containers](https://www.infoq.com/news/2021/11/cryostat-jvm-profiler-container/)
 * [dashboard: General-purpose web UI for Kubernetes clusters](https://github.com/kubernetes/dashboard)
   * [On Securing the Kubernetes Dashboard | by Joe Beda | Heptio](https://blog.heptio.com/on-securing-the-kubernetes-dashboard-16b09b1b7aca)
 * [DevSpace - The Fastest Kubernetes Development Tool (100% open-source)](https://devspace.sh/)
@@ -1427,6 +1433,8 @@ Docker
     * [jib를 이용한 자바 앱 컨테이너화](https://alden-kang.tistory.com/1)
     * Java 애플리케이션을 Docker 이미지로 만들 때 빌드과정 등의 복잡함을 쉽게 해결할 수 있도록 Google에서 만든 jib를 이용해서 Java 애플리케이션으로 도커 이미지를 사용하는 방법을 설명
     * Gradle로 jib를 설정해서 빌드부터 Docker 이미지 생성, 푸시까지 한 번에 되는 과정
+  * [jib로 springboot 애플리케이션 컨테이너화 + registry 등록](https://springboot.cloud/37)
+  * [Dockerizing a Spring Boot Application and Using the Jib Maven Plugin | by Betül Şahin | Nov, 2021 | Medium](https://betulsahinn.medium.com/dockerizing-a-spring-boot-application-and-using-the-jib-maven-plugin-95c329866f34)
 * [Kontena - a docker platform in Ruby](Application Containers for Masses)
 * [lorispack - Network Microsegmentation for Docker container deployments](https://github.com/sdnhub/lorispack)
 * [magicpak enables you to build minimal docker images without any bothersome preparation such as static linking](https://github.com/coord-e/magicpak)
