@@ -49,6 +49,7 @@ PHP
 * [PHP in 2021 - stitcher.io](https://stitcher.io/blog/php-in-2021)
   * [PHP in 2021 | GeekNews](https://news.hada.io/topic?id=4086)
 * [PHP 8: a New Version, a New Era - YouTube](https://www.youtube.com/watch?v=FeQ4SiUqCj0)
+* [Modern PHP Cheat Sheet - Front Line PHP](https://front-line-php.com/cheat-sheet)
 
 # API
 * ['==' 연산자를 사용하면 안되는 이유 - 완두블로그](https://wani.kr/posts/2016/03/21/equal-operator-what-is-the-problem/)
