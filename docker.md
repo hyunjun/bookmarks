@@ -536,6 +536,8 @@ Docker
 * [I Didn't Know I Could Do That with Docker (or Dockerizing a Python App) - YouTube](https://www.youtube.com/watch?v=xDQW4BcGbL8)
 * ['도커 이전과 도커 이후' 세상이 확연히 달라진 이유 - ITWorld Korea](https://www.itworld.co.kr/news/215339)
 * [Learning Containers From The Bottom Up - Ivan Velichko](https://iximiuz.com/en/posts/container-learning-path/)
+* [Docker上でjetbrains製品を起動する方法 - Qiita](https://qiita.com/Eliza_wb/items/ff3d885d78ff870191ab)
+  * [practice - Docker 상에서 jetbrains 제품을 실행하는 방법](https://gist.github.com/hyunjun/c4ce053c28bd5df8b890aeae19af4270#file-docker_jetbrain-md)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
