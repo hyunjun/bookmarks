@@ -60,6 +60,7 @@ App
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
+  * [Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이 | GeekNews](https://news.hada.io/topic?id=5495)
 * [Archivy - self-hosted knowledge repository](https://archivy.github.io/)
   * 북마킹한 웹페이지 내용을 로컬에 자동 저장
   * 노트는 마크다운포맷으로 저장
@@ -408,6 +409,7 @@ App
 * thisisunsafe [How to get through Chrome security error pages - Miguel Piedrafita](https://miguelpiedrafita.com/chrome-thisisunsafe)
 * [Record, replay and measure user flows - Chrome Developers](https://developer.chrome.com/docs/devtools/recorder/)
   * [크롬 97의 새 기능 - 사용자 플로우 녹화 | GeekNews](https://news.hada.io/topic?id=5331)
+* [Google Chrome Hidden Features For Developers | Bits and Pieces](https://blog.bitsrc.io/google-chrome-experimental-features-for-developers-a9a7cc9d1b30)
 * [리스틀리 - 세상에서 가장 빠른 웹 데이터 추출](https://www.listly.io/ko) crawler
   * [아마존과 쿠팡이 쓰는 툴이 한국 SW였다 : 개발자 필요없는 크롤링 서비스 리스틀리 사용기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/233475)
 * [Bubbles: Video and Screenshot Collaboration](https://www.usebubbles.com/)
@@ -434,6 +436,8 @@ App
 * [LiveKit - Open source infrastructure for real time audio and video.](https://livekit.io/)
   * [LiveKit - 실시간 커뮤니케이션 플랫폼 오픈소스 | GeekNews](https://news.hada.io/topic?id=4642)
 * [makepagecall.com/](https://www.makepagecall.com/) 화상 통화 + canvas(칠판)
+* [mirotalksfu: 🏆 WebRTC with integrated SFU server. Video calls, messaging, screen sharing, recording and more.🏆](https://github.com/miroslavpejic85/mirotalksfu)
+  * [MiroTalk SFU - 오픈소스 Zoom/Teams 대체제 | GeekNews](https://news.hada.io/topic?id=5497)
 * [Nettu Meet - 온라인 강의를 위한 오픈소스 화상 회의 시스템 | GeekNews](https://news.hada.io/topic?id=4437)
 * [Strive](https://www.openstrive.org/)
   * [Strive - 오픈소스 화상 회의 플랫폼 | GeekNews](https://news.hada.io/topic?id=4524)
@@ -1360,6 +1364,8 @@ App
 * [AVPress - an in-browser video compressor](https://avpress.zaps.dev/)
   * [AVPress - 인-브라우저 비디오 압축 도구 | GeekNews](https://news.hada.io/topic?id=4670)
 * [awesomevideoplayer.com](http://www.awesomevideoplayer.com/) multi screen 동시 조작 가능
+* [BlackHole: Route Audio Between Apps](https://existential.audio/blackhole/)
+  * [맥 화면 녹화 소리 포함 시키는 방법 / Big Sur / M1](https://creavart.tistory.com/392)
 * [boltstream: Boltstream Live Video Streaming Website + Backend](https://github.com/benwilber/boltstream)
 * Canva [이미지 편집 서비스 캔바(Canva)](https://www.44bits.io/ko/post/preparing-wtd-meetup-without-a-designer-nor-photoshop#%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%BA%94%EB%B0%94canva)
 * [cmdpxl: totally practical command-line image editor](https://github.com/knosmos/cmdpxl)
