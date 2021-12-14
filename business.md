@@ -1026,3 +1026,4 @@ Business
 * [그 특수문자는 사용할 수 없습니다](https://www.jiwon.me/password-rule-ux/)
 * [디자이너를 쉽게 잃는 방법 10가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/807/)
 * [일부러 디자인을 망치는 디자이너들 | 요즘IT](https://yozm.wishket.com/magazine/detail/1127/)
+* [The History of Command Palettes: How Typing Commands Became The Norm Again | Capiche](https://capiche.com/e/consumer-dev-tools-command-palette)
