@@ -665,6 +665,7 @@ Programming
 * [API Tokens: A Tedious Survey · Fly](https://fly.io/blog/api-tokens-a-tedious-survey/)
 * [The Single Most Important Internal Email in the History of Amazon | Pulse](https://pulseasync.com/operators/frameworks-for-remote-working/)
   * [아마존 역사에서 가장 중요한 제프베조스의 2002년 사내 메일 | GeekNews](https://news.hada.io/topic?id=638)
+* [Using API-First Development and API Mocking to Break Critical Path Dependencies](https://www.infoq.com/articles/api-mocking-break-dependencies/)
 * [API Design Best Practice | Better Programming](https://betterprogramming.pub/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
@@ -3073,6 +3074,7 @@ Programming
 * [NAVER Tech Talk: OS, 시스템 (2017년 7월~2018년 1월)](https://d2.naver.com/news/7119116)
 * [The 10 Operating System Concepts Software Developers Need to Remember](https://medium.com/cracking-the-data-science-interview/the-10-operating-system-concepts-software-developers-need-to-remember-480d0734d710)
 * [unikernel overview](https://uni2u.tistory.com/106)
+* [The big idea around unikernels |> Changelog](https://changelog.com/posts/the-big-idea-around-unikernels)
 * [kkamagui의 작업실 :: 경량 가상화 기술을 활용한 영역 분리와 인터립트 처리](https://kkamagui.tistory.com/927)
 * [가상 머신, 거의 모든 IT 혁신의 출발점 - ITWorld Korea](http://www.itworld.co.kr/news/166350)
 * [Operating systems development for Dummies | by Leo Whitehead | Medium](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
@@ -3234,6 +3236,7 @@ Programming
 # RPA
 * [All the Robotic Process Automation (RPA) Stats You Need to Know](https://towardsdatascience.com/all-the-robotic-process-automation-rpa-stats-you-need-to-know-bcec22eaaad9)
 * [마케팅에 'RPA' 도입하기 전에... CMO가 알아야 할 것 - CIO Korea](https://www.ciokorea.com/news/208897)
+* [Faster Financial Software Development Using Low Code: Focusing on the Four Key Metrics](https://www.infoq.com/articles/financial-software-low-code/)
 * Bubble [The best way to build web apps without code | Bubble](https://bubble.io/)
   * [노 코드 툴, ‘버블’의 A to Z | ㅍㅍㅅㅅ](https://ppss.kr/archives/247069)
 * [Workflow86 | Operations Automation Platform](https://www.workflow86.com/)
