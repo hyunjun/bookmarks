@@ -345,6 +345,7 @@ Linux
 * [The Linux Kernel Module Programming Guide](https://sysprog21.github.io/lkmpg/)
 * [Linux Terminal Tools 103p PDF | GeekNews](https://news.hada.io/topic?id=4194) [pdf](./pdfs/LPT_LISA.pdf)
 * [The Unix Workbench](https://leanpub.com/unix/read_full)
+* [Hacking the Planet with Notcurses](https://nick-black.com/htp-notcurses.pdf)
 
 # Command
 * practice
@@ -1041,6 +1042,7 @@ Linux
 * [duf: Disk Usage/Free Utility](https://github.com/muesli/duf)
 * [elfcat: ELF visualizer. Generates HTML files from ELF binaries](https://github.com/ruslashev/elfcat)
 * [**entr - A utility for running arbitrary commands when files change**](https://github.com/clibs/entr)
+* [exodus: Painless relocation of Linux binaries–and all of their dependencies–without containers](https://github.com/intoli/exodus)
 * [FireHOL(firewall) and FireQOS(traffic shaping)](http://firehol.org/)
 * [fuck - thefuck: Magnificent app which corrects your previous console command](https://github.com/nvbn/thefuck)
 * [fzf](https://github.com/junegunn/fzf)
