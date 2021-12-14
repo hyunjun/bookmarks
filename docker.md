@@ -958,7 +958,6 @@ Docker
   * 처음에는 etcd에서 성능 저하 발생, 이는 Fluentd와 Datadog의 문제였고 이는 해결했지만 Events API를 ectd 클러스터와 분리하는 것을 추천
   * OpenAI의 특성상 작업을 한곳에 모으려고 kube-scheduler를 수정해서 작업이 한곳에 모였지만 노드에 집중되어서 발생한 문제가 발생
   * 특정 Docker 이미지가 너무 큰 문제로 다른 이미지까지 지연되는 --serialize-image-pulls 설정 문제 등도 알게 됨
-* [76. kubernetes NodePort Networking 분석 (kube-proxy : IPVS mode)](https://ikcoo.tistory.com/166)
 * [How to learn and practice more in Kubernetes Network Policy for CKx exams and EKS ? - DEV Community](https://dev.to/aws-builders/how-to-learn-and-practice-more-in-kubernetes-network-policy-for-ckx-exams-and-eks--4cgn)
 * [Why (and when) you should use Kubernetes](https://hackernoon.com/why-and-when-you-should-use-kubernetes-8b50915d97d8)
 * [MSA, K8S를 이용한 대륙의 서비스 개발 사례](https://www.popit.kr/%ED%9B%84%EA%B8%B0msa-k8s%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EB%8C%80%EB%A5%99%EC%9D%98-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%EC%82%AC%EB%A1%80)
@@ -1279,6 +1278,9 @@ Docker
     * Kubeflow Pipeline을 배포할 때 매번 빌드를 하고 업로드를 하는 작업을 하게 되는데, 이 과정을 Terraform처럼 `krsh apply` 명령을 cli에서 보내면 자동으로 파이프라인의 형상을 관리할 수 있게 작성
     * Infrastructure as Code (IaC)의 철학을 머신러닝 파이프라인에도 적용
 * kubelet API [Attacking Kubernetes clusters using the Kubelet API | by Eduardo Baitello | FAUN](https://faun.pub/attacking-kubernetes-clusters-using-the-kubelet-api-abafc36126ca)
+* kube-proxy
+  * [76. kubernetes NodePort Networking 분석 (kube-proxy : IPVS mode)](https://ikcoo.tistory.com/166)
+  * [Cracking kubernetes node proxy (aka kube-proxy)](https://arthurchiao.art/blog/cracking-k8s-node-proxy/)
 * kubernetes-client [Package kubernetes-client - man pages | ManKier](https://www.mankier.com/package/kubernetes-client)
 * [kubernetes-external-secrets: Integrate external secret management systems with Kubernetes](https://github.com/external-secrets/kubernetes-external-secrets)
   * [k8s External Secrets 훑어보기](https://brunch.co.kr/@alden/68)
