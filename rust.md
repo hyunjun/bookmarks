@@ -250,6 +250,8 @@
     * 2021년엔 Stream, io_uring, tracing 통합 등을 진행할 예정
   * [Creating a Chat Server with async Rust and Tokio - YouTube](https://www.youtube.com/watch?v=Iapc-qGTEBQ)
 * [tray_rust - A toy ray tracer in Rust](https://github.com/Twinklebear/tray_rust)
+* [uutils/coreutils: Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
+  * [Uutils - GNU Coreutils를 Rust로 재작성 | GeekNews](https://news.hada.io/topic?id=5499)
 * [Visual Rust 0.1 is out](http://blog.piston.rs/2015/05/14/Visual-Rust-0.1/)
 * [webrtc: A pure Rust implementation of WebRTC API. Rewrite Pion WebRTC stack (http://Pion.ly) in Rust!](https://github.com/webrtc-rs/webrtc)
 * [windows-rs: Rust for Windows](https://github.com/microsoft/windows-rs)
