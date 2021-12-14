@@ -794,6 +794,8 @@ Go
   * [go-bootstrap.io - Generates a lean and mean Go web project http://go-bootstrap.io](https://github.com/go-bootstrap/go-bootstrap)
 * [Gorilla - a web toolkit for the Go programming language that provides useful, composable packages for writing HTTP-based applications](https://github.com/gorilla)
 * [GoTTY - Share your terminal as a web application](https://github.com/yudai/gotty)
+* [pglet: Pglet - build internal web apps quickly in the language you already know!](https://github.com/pglet/pglet)
+  * [Pglet - 백엔드 개발자를 위한 Web UI 프레임워크 | GeekNews](https://news.hada.io/topic?id=5467)
 * [Ran: a simple static web server written in Go](https://github.com/m3ng9i/ran)
 * [Revel - A high-productivity web framework for the Go language](https://revel.github.io)
 * [vugu.org - Build a web front-end in Go that runs in your browser, today](https://www.vugu.org)
