@@ -191,6 +191,9 @@ SQL
 * [Stephen Colebourne's blog: Big problems at the timezone database](https://blog.joda.org/2021/09/big-problems-at-timezone-database.html)
 * [통계 서버를 구축하며!. 소개 | by Jason Kang | Uniquegood | Oct, 2021 | Medium](https://medium.com/uniquegood/%ED%86%B5%EA%B3%84-%EC%84%9C%EB%B2%84%EB%A5%BC-%EA%B5%AC%EC%B6%95%ED%95%98%EB%A9%B0-c071c6d4f945) 주제 분류가 좀 애매하지만 동시성 문제를 이야기하니 우선 여기에
 * [pubkey/client-side-databases: An implementation of the exact same app in Firestore, AWS Datastore, PouchDB, RxDB and WatermelonDB](https://github.com/pubkey/client-side-databases)
+* [Database Replication Explained. Part 1 — Single Leader Replication | by Zixuan Zhang | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/database-replication-explained-5c76a200d8f3)
+* [Database Replication Explained 2. Part 2— Multi Leader Replication | by Zixuan Zhang | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/database-replication-explained-10ff929bdf8a)
+* [Database Replication Explained 3. Part 3 -Leaderless Replication | by Zixuan Zhang | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/database-replication-explained-3-32d6deceeca7)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
@@ -277,6 +280,7 @@ SQL
   * [sqlfmt: an opinionated online SQL formatter](https://www.cockroachlabs.com/blog/sql-fmt-online-sql-formatter/)
 * [**sq: swiss-army knife for data**](https://sq.io/) jq for relational data
   * [SQ - swiss-army knife for data | GeekNews](https://news.hada.io/topic?id=3841)
+* [sqitch: Sensible database change management](https://github.com/sqitchers/sqitch)
 * [sqlfluff](https://www.sqlfluff.com/) The SQL Linter for humans
 * [SQLPad - A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, ClickHouse, Crate, Vertica, Presto, SAP HANA, Snowflake, BigQuery, SQLite, and many others via ODBC](https://rickbergfalk.github.io/sqlpad/#/)
 * [SQL Translation - Translate your SQL from one dialect to another](https://www.jooq.org/translate/)
@@ -848,6 +852,7 @@ SQL
 * [PostgreSQL 서버 관리자 지침서](https://docs.google.com/document/u/2/d/e/2PACX-1vTDZ9xHfw301ADVShOtjrcVHyqwS6HMfrNfRA_qRT5NTik25yyc9x1DJPyb6t5eTNAiCiQbNULS4tId/pub)
 * [PostgreSQL 14 on Kubernetes (with examples!)](https://blog.crunchydata.com/blog/postgresql-14-on-kubernetes)
 * [Announcing Open Source Babelfish for PostgreSQL: An Accelerator for SQL Server Migration · Babelfish](https://babelfishpg.org/blog/releases/2021/10/babelfish-launch/)
+* [AWS Announces the General Availability and Open Sourcing of Babelfish for PostgreSQL](https://www.infoq.com/news/2021/11/babelfish-postgresql-oss-ga/)
 * [Bringing Kafka based architecture to the next level using simple PostgreSQL tables | by Sixfold Tech Blog | Oct, 2021 | Medium](https://sixfold.medium.com/bringing-kafka-based-architecture-to-the-next-level-using-simple-postgresql-tables-415f1ff6076d)
 * [엔터프라이즈DB, ‘포스트그레SQL 14’ 발표··· "하이엔드 워크로드 지원" - CIO Korea](https://www.ciokorea.com/news/210274)
 * [Lesser Known PostgreSQL Features | Haki Benita](https://hakibenita.com/postgresql-unknown-features)
@@ -889,6 +894,7 @@ SQL
 * [pgcli - Postgres CLI with autocompletion and syntax highlighting](https://github.com/dbcli/pgcli)
 * [pg_flame - A flamegraph generator for Postgres EXPLAIN ANALYZE output](https://github.com/mgartner/pg_flame)
 * [pgfutter - Import CSV and JSON into PostgreSQL the easy way](https://github.com/lukasmartinelli/pgfutter)
+* [pg_graphql - PostgreSQL용 GraphQL 확장 | GeekNews](https://news.hada.io/topic?id=5493)
 * [pgmemcache is a set of PostgreSQL user-defined functions that provide an interface to memcached](https://github.com/ohmu/pgmemcache/)
 * [pg-migrator - PostgreSQL Migration Tool](https://github.com/aphel-bilisim-hizmetleri/pg-migrator)
 * [pg-shortkey: YouTube-like Short IDs as Postgres Primary Keys](https://github.com/turbo/pg-shortkey)
