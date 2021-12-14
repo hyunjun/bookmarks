@@ -288,6 +288,7 @@ Go
 * [20,000 lines under the Go-cean | Have you Debugged.IT?](https://debugged.it/blog/20000-lines-under-the-go-cean/)
 * [Go is Korean, Lisp is Japanese](https://imagine27.com/go-is-korean/)
 * [Offensive Golang Bonanza: Writing Golang Malware - YouTube](https://www.youtube.com/watch?v=oCdaOLmKu6s)
+* [Recurse Center Day 24: Hacking Go compiler to add a new keyword - blag](https://avi.im/blag/2021/rc-day-24/)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -552,6 +553,8 @@ Go
 * [GoWork - Go Library for distributing work to workers](https://github.com/ryanskidmore/GoWork)
 * [gpu-operator: NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes](https://github.com/NVIDIA/gpu-operator)
 * [grace - Graceful restart for Go servers. https://godoc.org/github.com/facebookgo/grace](https://github.com/facebookgo/grace)
+* [graphjin: GraphJin - Build APIs in 5 minutes with GraphQL. An instant GraphQL to SQL compiler](https://github.com/dosco/graphjin)
+  * [GraphJin - 빠른 GraphQL API 만들기 | GeekNews](https://news.hada.io/topic?id=5501)
 * gRPC
   * [gRPC Deadline](https://jusths.tistory.com/131)
   * [gRPC Error in Golang](https://jusths.tistory.com/132)
