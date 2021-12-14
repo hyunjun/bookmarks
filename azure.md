@@ -140,6 +140,7 @@ Azure
 * [Azure - VirtualWAN Part 1](https://zigispace.net/1069)
 * [Azure - VirtualWAN Part 2](https://zigispace.net/1070)
 * [Azure - VirtualWAN Part 3](https://zigispace.net/1090)
+* [Microsoft Introduces a Fully-Managed Azure Load Testing Service in Preview](https://www.infoq.com/news/2021/12/azure-load-testing-preview/)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
