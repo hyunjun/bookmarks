@@ -1126,6 +1126,7 @@ Programming
 * [Domain-Driven Design with Value-Added Services and Domain Gateways at SoundCloud](https://www.infoq.com/news/2021/10/ddd-vas-gateway-soundcloud/)
 * [Domain Driven Design Patterns in Python - YouTube](https://www.youtube.com/watch?v=v0wBmQq8qcA)
 * [실전 도메인 스토리텔링 첫 시도](https://brunch.co.kr/@graypool/277)
+* [도메인 스토리텔링은 무엇인가?](https://brunch.co.kr/@graypool/278)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
