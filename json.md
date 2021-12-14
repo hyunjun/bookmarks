@@ -17,6 +17,7 @@ Json
 * [Parsing JSON Really Quickly: Lessons Learned - YouTube](https://www.youtube.com/watch?v=wlvKAT7SZIQ)
 * [데이터 파이프라인 제작기 - 반정형 데이터편 (JSON)](https://burning-dba.tistory.com/144) 한 가지 주제가 아니라 json으로 보기도 어렵지만
 * [json포맷을 다양한 다른 포맷으로 변경할 수](https://open-support.tistory.com/entry/json%ED%8F%AC%EB%A7%B7%EC%9D%84-%EB%8B%A4%EC%96%91%ED%95%9C-%EB%8B%A4%EB%A5%B8-%ED%8F%AC%EB%A7%B7%EC%9C%BC%EB%A1%9C-%EB%B3%80%EA%B2%BD%ED%95%A0-%EC%88%98)
+* [Tips on Adding JSON Output to Your CLI App - Brazil's Blog](https://blog.kellybrazil.com/2021/12/03/tips-on-adding-json-output-to-your-cli-app/)
 
 # C++
 * [Writing a simple JSON library from scratch: a tour through modern C++ | notes.eatonphil.com](https://notes.eatonphil.com/writing-a-simple-json-library-in-modern-cpp.html)
