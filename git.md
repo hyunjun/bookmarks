@@ -1003,6 +1003,7 @@ Git
 * [hub helps you win at git. http://hub.github.com ](https://github.com/github/hub)
 * [isomorphic-git: A pure JavaScript implementation of git for node and browsers!](https://github.com/isomorphic-git/isomorphic-git)
 * [joe - A .gitignore magician in your command line](https://github.com/karan/joe)
+* [lazygit: simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
 * [Magit! A Git Porcelain inside Emacs](https://magit.vc/)
   * [Emacsair! Magit, the magical Git interface](https://emacsair.me/2017/09/01/the-magical-git-interface/)
 * [Octotree - GitHub 코드 트리를 쉽게 보여주는 브라우저 확장 프로그램](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)
