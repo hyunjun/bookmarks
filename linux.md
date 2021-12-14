@@ -1146,6 +1146,7 @@ Linux
 * [linux 환경에서의 메모리 보호기법을 알아보자(1)](https://bpsecblog.wordpress.com/2016/05/16/%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%B3%B4%ED%98%B8%EA%B8%B0%EB%B2%95/) ASLR : Address Space Layout Randomization
 * [번역 Linux에서 메모리를 다 써버렸을 때 일어나는 일](https://medium.com/@EJSohn/%EB%B2%88%EC%97%AD-linux%EC%97%90%EC%84%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC%EB%A5%BC-%EB%8B%A4-%EC%8D%A8%EB%B2%84%EB%A0%B8%EC%9D%84-%EB%95%8C-%EC%9D%BC%EC%96%B4%EB%82%98%EB%8A%94-%EC%9D%BC-9dadba29c89c)
 * [**Out Of Memory Killer 회피하기**](https://medium.com/@EJSohn/out-of-memory-killer-%ED%9A%8C%ED%94%BC%ED%95%98%EA%B8%B0-9efc65f88c92)
+* [command-line — 커맨드 라인에서 oom-killer를 테스트하는 방법](https://www.it-gundan.net/ko/command-line/%EC%BB%A4%EB%A7%A8%EB%93%9C-%EB%9D%BC%EC%9D%B8%EC%97%90%EC%84%9C-oomkiller%EB%A5%BC-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/997935284/)
 * [Linux Internals: How /proc/self/mem writes to unwritable memory - offlinemark](https://offlinemark.com/2021/05/12/an-obscure-quirk-of-proc/)
 
 ## Memory Usage
