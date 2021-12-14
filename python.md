@@ -2626,6 +2626,7 @@ Python
   * [PyQt5 Tutorial - Setup and a Basic GUI Application](https://www.youtube.com/watch?v=Vde5SH8e1OQ)
   * [**Handling SQL Databases With PyQt: The Basics – Real Python**](https://realpython.com/python-pyqt-database/)
   * [Creating PyQt Layouts for GUI Python Applications - YouTube](https://www.youtube.com/watch?v=MY29YV9Wk7I)
+  * [파이썬으로 데스크탑 어플리케이션 만들기. 서주은 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=RrGSeAzM4gw)
 * [PyQtGraph - Scientific Graphics and GUI Library for Python](http://www.pyqtgraph.org/)
   * [PyQtGraph main development repository](https://github.com/pyqtgraph/pyqtgraph)
 * PySide
