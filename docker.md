@@ -1143,6 +1143,7 @@ Docker
 * [네트워크 엔지니어에게 쿠버네티스는 어떤 의미일까요](https://www.slideshare.net/JoHoon1/ss-250737544)
 * [Kubernetes: What is "reconciliation"? - Speaker Deck](https://speakerdeck.com/thockin/kubernetes-what-is-reconciliation)
 * [Using Kubernetes Ephemeral Containers for Troubleshooting](https://loft.sh/blog/using-kubernetes-ephemeral-containers-for-troubleshooting/)
+* [VirtualBox를 이용하여 k8s cluster 구성하기](https://effectivesquid.tistory.com/entry/VirtualBox%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-k8s-cluster-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
