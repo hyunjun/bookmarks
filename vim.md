@@ -197,6 +197,8 @@ Vim
 
 # Library
 * [pyvim - An implementation of Vim in Python](https://github.com/jonathanslenders/pyvim)
+* [quick.nvim: A very fast Lua based Neovim configuration that uses coc.nvim for intellisense](https://github.com/albingroen/quick.nvim)
+  * [quick.nvim | A fast, modern and reliable Neovim configuration - YouTube](https://www.youtube.com/watch?v=OhbgZbORFd4)
 * [vim-airline](https://github.com/vim-airline) lean & mean status/tabline for vim that's light as air
 * [Vim Bootstrap - A generator which provides a simple method of generating a .vimrc configuration for vim](http://www.vim-bootstrap.com/)
 * [vimflowy: An open source productivity tool drawing inspiration from workflowy and vim](https://github.com/WuTheFWasThat/vimflowy)
