@@ -831,6 +831,7 @@ AWS
 * [Design Patterns for Serverless Systems](https://www.infoq.com/articles/design-patterns-for-serverless-systems/)
 * [Managing Serverless Spaghetti. Protect your business logic from dissolving into the infrastructure. | CodeX](https://medium.com/codex/managing-serverless-spaghetti-c2fb1a7db73e)
 * [Serverless offerings like AWS Lambda haven't hit the big time, but Kubernetes can help - TechRepublic](https://www.techrepublic.com/article/serverless-offerings-like-aws-lambda-havent-hit-the-big-time-but-kubernetes-can-help/)
+* [매일이 새로운 초기 스타트업, 파이썬과 함께라면. 백승호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=FZL2dMFefC0) sls
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
 * [AWS Lambda 로 하는 Hello World!](https://velopert.com/3546)
 * [AWS Lambda](https://www.youtube.com/playlist?list=PLBtyBPTlyC7tR5LVPEjphl6fPOOOVe6XM)
