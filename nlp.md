@@ -1880,17 +1880,14 @@ NLP
 * [5-1. 텐서플로우(TensorFlow)를 이용해 자연어를 처리하기(NLP) – Word Embedding(Word2vec)](http://solarisailab.com/archives/374)
 * [On word embeddings - Part 3: The secret ingredients of word2vec](http://sebastianruder.com/secret-word2vec/index.html)
 * [Ali Ghodsi, Lec [3,1]: Deep Learning, Word2vec](https://www.youtube.com/watch?v=TsEGsdVJjuA&spfreload=10)
-* [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors)
 * [Play with word embeddings in your browser](https://medium.com/@awjuliani/play-with-word-embeddings-in-your-browser-fc904a009058)
 * [Introduction to Natural Language Processing (NLP) and Bias in AI](https://towardsdatascience.com/introduction-to-natural-language-processing-nlp-and-bias-in-ai-877d3f3ee680)
 * [NLP Research part 1. Vector Representations of Words](https://www.facebook.com/notes/enjoydl/nlp-research-part-1-vector-representations-of-words/1237465276335840)
 * [Word2Vec 그리고 추천 시스템의 Item2Vec](https://brunch.co.kr/@goodvc78/16)
 * [박근혜 탄핵 결정문 전문 Word2Vec Visualization w/Tensorflow](http://visionigniter.blogspot.com/2017/03/word2vec-visualization-wtensorflow.html)
 * [단어를 숫자로! Google의 Word2Vec](https://medium.com/@deepvalidation/%EB%8B%A8%EC%96%B4%EB%A5%BC-%EC%88%AB%EC%9E%90%EB%A1%9C-google%EC%9D%98-word2vec-18a4b14f8730)
-* [Word2Vec In Java](https://github.com/taki0112/Word2VecJava)
 * [code.google.com/archive/p/word2vec](https://code.google.com/archive/p/word2vec/)
 * [Sample code for vectorizing emotion words, visualize emotion word vectors, and find most similar words for "angry"](https://gist.github.com/kendemu/6df1722bed1d5148cf43385c992c8414)
-* [Word2GM (Word to Gaussian Mixture)](https://github.com/benathi/word2gm)
 * [Simple NN with Keras](https://nbviewer.jupyter.org/github/likejazz/jupyter-notebooks/blob/master/vector-representation-of-words.ipynb)
 * [Deep Learning #4: Why You Need to Start Using Embedding Layers](https://medium.com/towards-data-science/deep-learning-4-embedding-layers-f9a02d55ac12)
 * [A non-NLP application of Word2Vec](https://medium.com/towards-data-science/a-non-nlp-application-of-word2vec-c637e35d3668)
@@ -1909,15 +1906,7 @@ NLP
 * [Transform anything into a vector; entity2vec: Using cooperative learning approaches to generate entity vectors](https://blog.insightdatascience.com/entity2vec-dad368c5b830)
 * [Learning meaningful location embeddings from unlabeled visits](http://www.sentiance.com/2018/01/29/learning-meaningful-location-embeddings-from-unlabeled-visits/)
 * [Mapping Medium’s Tags](https://medium.engineering/mapping-mediums-tags-1b9a78d77cf0)
-* [bilm-tf](https://github.com/allenai/bilm-tf)
-  * word2vec, glove 등의 lookup 기반 embedding 기법과는 다르게 context word embedding을 사용해서 downstream task의 성능 향상
-  * 1. 대용량 corpus를 이용해서 2-layer bilstm lm 모델을 만들고
-  * 2. 각 timestep에 있는 h값에 대한 linear combination 결과를 현재 timestep의 word embedding으로 사용
-  * 3. combination weight는 downstream task의 cost function을 통해서 조정
-* [word2vec graph - This visualization builds graphs of nearest neighbors from high-dimensional word2vec embeddings](https://github.com/anvaka/word2vec-graph)
-* [word2vec4kor](https://github.com/bage79/word2vec4kor)
 * [Exploring Word2Vec](http://sujayskumar.blogspot.com/2017/03/exploring-word2vec_3.html)
-* [Word2Bits - Quantized Word Vectors](https://github.com/agnusmaximus/Word2Bits)
 * [Text2Shape: Generating Shapes from Natural Language by Learning Joint Embeddings](http://text2shape.stanford.edu/)
 * Word2Vec 모델 기초
   * [(1) - 개념 정리](http://pythonkim.tistory.com/92)
@@ -1955,15 +1944,12 @@ NLP
 * [word_embedding.ipynb](https://gist.github.com/skyer9/ed004b397e1569715e26ac5a6a692259)
 * [Word2Vec For Phrases — Learning Embeddings For More Than One Word](https://towardsdatascience.com/word2vec-for-phrases-learning-embeddings-for-more-than-one-word-727b6cf723cf)
 * [How to incorporate phrases into Word2Vec – a text mining approach](http://kavita-ganesan.com/how-to-incorporate-phrases-into-word2vec-a-text-mining-approach)
-* [Magnitude: a fast, simple vector embedding utility library](https://github.com/plasticityai/magnitude)
-* [graph2vec - A parallel implementation of "graph2vec: Learning Distributed Representations of Graphs" (MLGWorkshop 2017)](https://github.com/benedekrozemberczki/graph2vec)
 * [Core Modeling at Instagram](https://instagram-engineering.com/core-modeling-at-instagram-a51e0158aa48)
 * [Python을 이용한 콴다 리뷰 분석](https://medium.com/qandastudy/python%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BD%B4%EB%8B%A4-%EB%A6%AC%EB%B7%B0-%EB%B6%84%EC%84%9D-73b3f26e967c)
 * [When and Why does King - Man + Woman = Queen? (ACL 2019)](https://kawine.github.io/blog/nlp/2019/06/21/word-analogies.html)
 * [Word2vec: fish + music = bass](https://graceavery.com/word2vec-fish-music-bass/)
 * [role2vec - A scalable Gensim implementation of "Learning Role-based Graph Embeddings" (IJCAI 2018)](https://github.com/benedekrozemberczki/role2vec)
 * [그래프 임베딩 요약](https://medium.com/watcha/%EA%B7%B8%EB%9E%98%ED%94%84-%EC%9E%84%EB%B2%A0%EB%94%A9-%EC%9A%94%EC%95%BD-bc2732048999)
-* [GraphWave - A scalable implementation of "Learning Structural Node Embeddings Via Diffusion Wavelets (KDD 2018)"](https://github.com/benedekrozemberczki/GraphWaveMachine)
 * [기계는 사람의 말을 어떻게 이해할까? 워드 임베딩(Word Embedding)](https://blog.naver.com/saltluxmarketing/221607368769)
 * [기초적이지만 꽤 재미있는 word embedding 놀이](https://inforience.net/2019/10/05/word-embedding-for-fun/)
 * [성지석-Deep contextualized word representations](https://www.youtube.com/watch?v=Vc13QVAKyGk)
@@ -1973,3 +1959,18 @@ NLP
 * [**그래프 임베딩 요약**](https://medium.com/watcha/그래프-임베딩-요약-bc2732048999)
 * [MODUCON 2019 자연어 처리 모델의 성능을 높이는 비결 Embedding - 이기창](https://www.youtube.com/watch?v=FpWe2PBu_PE)
 * [Identifying Lexico-Semantic Word Relations — A Beginner’s Guide | by Karan Praharaj | Towards Data Science](https://towardsdatascience.com/identification-of-lexico-semantic-word-relations-a-beginners-guide-427ed331e287)
+* [bilm-tf](https://github.com/allenai/bilm-tf)
+  * word2vec, glove 등의 lookup 기반 embedding 기법과는 다르게 context word embedding을 사용해서 downstream task의 성능 향상
+  * 1. 대용량 corpus를 이용해서 2-layer bilstm lm 모델을 만들고
+  * 2. 각 timestep에 있는 h값에 대한 linear combination 결과를 현재 timestep의 word embedding으로 사용
+  * 3. combination weight는 downstream task의 cost function을 통해서 조정
+* [graph2vec - A parallel implementation of "graph2vec: Learning Distributed Representations of Graphs" (MLGWorkshop 2017)](https://github.com/benedekrozemberczki/graph2vec)
+* [GraphWave - A scalable implementation of "Learning Structural Node Embeddings Via Diffusion Wavelets (KDD 2018)"](https://github.com/benedekrozemberczki/GraphWaveMachine)
+* [Magnitude: a fast, simple vector embedding utility library](https://github.com/plasticityai/magnitude)
+* [moe: Misspelling Oblivious Word Embeddings](https://github.com/facebookresearch/moe)
+* [Word2Bits - Quantized Word Vectors](https://github.com/agnusmaximus/Word2Bits)
+* [Word2GM (Word to Gaussian Mixture)](https://github.com/benathi/word2gm)
+* [word2vec4kor](https://github.com/bage79/word2vec4kor)
+* [word2vec graph - This visualization builds graphs of nearest neighbors from high-dimensional word2vec embeddings](https://github.com/anvaka/word2vec-graph)
+* [Word2Vec In Java](https://github.com/taki0112/Word2VecJava)
+* wordvectors [Pre-trained word vectors of 30+ languages](https://github.com/Kyubyong/wordvectors)
