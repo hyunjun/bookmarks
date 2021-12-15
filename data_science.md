@@ -346,6 +346,7 @@ Data Science
   * [밑바닥부터 시작하는 데이터 과학 ch.03 데이터 시각화](http://seokjoonyun.blogspot.com/2016/08/ch03.html)
 * [더북(TheBook): 모두의 데이터 과학 with 파이썬](https://thebook.io/006914/) 3~5장만
 * [더북(TheBook): 모두의 데이터 분석 with 파이썬](https://thebook.io/007029/)
+* [추천 시스템 | 에이콘출판사](http://www.acornpub.co.kr/book/recommender-systems)
 * [27 free data mining books](http://www.datasciencecentral.com/profiles/blogs/27-free-data-mining-books)
 * [Foundations of Data Science](http://www.cs.cornell.edu/jeh/book11April2014.pdf)
 * [The Data Science Handbook](http://www.thedatasciencehandbook.com/)
