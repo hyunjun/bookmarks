@@ -4198,6 +4198,7 @@ Javascript
 * [INVESTING.COM 클론 코딩(feat. Vue JS SSR, CANVAS API)](https://zuminternet.github.io/zum-front-investing-clone/)
 * [Vue 3의 setup 기능이 제공하는 간결한 컴포넌트 문법 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-09-17-vue-3-script-setup)
 * [Vue3의 프록시패턴 구현하기 - YouTube](https://www.youtube.com/watch?v=t8CNY9TmMTk)
+* [Vue, 원피스로 떠나는 여정](https://saramin.github.io/2021-12-15-vue2-vs-vue3/)
 * [anissia-core](https://github.com/anissia-net/anissia-core)
 * [anissia-web](https://github.com/anissia-net/anissia-web)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
