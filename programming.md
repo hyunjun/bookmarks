@@ -1038,6 +1038,7 @@ Programming
 * [How Pokémon GO scales to millions of requests? | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/how-pok%C3%A9mon-go-scales-millions-requests)
 * [Designing a Software Architecture from Scratch - YouTube](https://www.youtube.com/watch?v=cbGSEwOAH6E)
 * [The Endless Pursuit Of Scale At LinkedIn](https://www.nextplatform.com/2021/09/15/the-endless-pursuit-of-scale-at-linkedin/)
+* [EP01: Horizontal scaling vs vertical scaling - YouTube](https://www.youtube.com/watch?v=cJybDD1dT-Q)
 * [Simplifying Dealing with Legacy Systems | by Ibrahim Alraigi | Nov, 2021 | Medium](https://medium.com/@ibra7am/simplifying-dealing-with-legacy-systems-ed29758f69f7)
 * [Data-Oriented Architecture | Eyas's Blog](https://blog.eyas.sh/2020/03/data-oriented-architecture/)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
@@ -2188,6 +2189,7 @@ Programming
 * [How to Break API's - YouTube](https://www.youtube.com/watch?v=bM0dem12P4Y)
 * [현대적 보안 – 안드로메다 토끼](https://andromedarabbit.net/%ED%98%84%EB%8C%80%EC%A0%81-%EB%B3%B4%EC%95%88/)
 * [7 Cryptography Concepts EVERY Developer Should Know - YouTube](https://www.youtube.com/watch?v=NuyzuNBFWxQ)
+* [DDOS 대응 일지 – 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=4125)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
