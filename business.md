@@ -547,7 +547,10 @@ Business
 * [디지털 변혁 위한 기술 전략을 수립… 'CTO' 직위의 이해 - CIO Korea](https://www.ciokorea.com/news/206349)
 * [넷마블 게임을 만드는 CTO, 어떻게 일할까?](https://www.folin.co/story/1946) 비개발자들에게 이야기하기도 좋은 내용
 * [1년 만에 스타트업 개발문화를 완전 바꾸며 기술특례상장으로 이끌기까지: 어반베이스 방현우 CTO 인터뷰 | ㅍㅍㅅㅅ](https://ppss.kr/archives/247861)
-* [CTO는 어떻게 뽑을까](https://lqez.dev/blog/how-to-hire-cto.html)
+* [CTO를 어떻게 뽑을까](https://lqez.dev/blog/how-to-hire-cto.html)
+  * 많은 회사가 CTO가 필요하다고 얘기하고 그에 대한 몇 가지 이유가 있지만 따지고 보면 꼭 CTO이어야만 하는 것은 아니기도 하다
+  * 그런데도 필요하다면 개발 이력을 많이 알고 의사소통 능력이 높으면서 회사 사정에 밝은 재직자가 CTO가 되는 것이 좋아 보인다
+  * 하지만 외부에서 뽑을 경우에 개발을 잘하고 회사 스택과 맞지 않고 유명세가 없어도 괜찮으므로 회사에 대한 자료를 준비하고 미래를 보여주면서 적극적으로 찾아보는 노력이 필요
 * [맘편한세상 임원채용사례 - Google Slides](https://docs.google.com/presentation/d/1MB2-C-IfiMlLHskzwSm_Exb0EEPk4i-iFYQ51IWDFew/)
 
 # Idea, Insight
@@ -908,6 +911,7 @@ Business
 * [스타트업 3년 사용기](http://curioe.com/10)
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
 * [싸우지 않고 의사 결정을 하는 방법](https://brunch.co.kr/@svillustrated/78) 모든 옵션 작성. 데이터에 기반해 입장 정리. 각자 입장에 기반해 변증법을 이용해 토론. 동의하지 않아도 합의대로 이행
+* [의사결정 방식을 개선해서 혁신을 추진하라](https://brunch.co.kr/@graypool/276)
 * [Open Decision-Making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
 * [(30) 스타트업 시대의 끝, 프로젝트의 시대의 등장](https://brunch.co.kr/@myong/43)
 * [스타트업 필독서 "서비스 디자인 씽킹"](https://brunch.co.kr/@insuk/34)
