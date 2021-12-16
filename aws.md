@@ -434,6 +434,8 @@ AWS
 * [Flowchart: How should I run containers on AWS? :: Vlad Ionescu](https://www.vladionescu.me/posts/flowchart-how-should-i-run-containers-on-aws-2021/)
 * [AWS Cloud WAN - Part 1](https://zigispace.net/1150)
 * [AWS Cloud WAN - Part 2](https://zigispace.net/1151)
+* [AWS re:Post – AWS 커뮤니티를 위한 신규 질의 응답 사이트 공개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-repost-a-reimagined-qa-experience-for-the-aws-community/)
+  * Stackoverflow처럼 AWS에 관해서 질문/답변 서비스인 re:Post가 공개되어서 AWS 서비스에 대한 기술적 질문을 하고 검색 가능
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -458,6 +460,7 @@ AWS
 * [Amplify Console에 monorepo를 연결해서 웹호스팅 할 때의 주의사항 – 화해 블로그 | 기술 블로그](http://blog.hwahae.co.kr/all/tech/tech-tech/5637/)
 * [클라우드 네이티브 기반 사진 공유 애플리케이션 만들어 보기 – 김필중:: AWS Builders Online Series - YouTube](https://www.youtube.com/watch?v=piQI4Hs2jmk)
 * [AWS Amplify 와 Serverless 구현에 대한 정리 # AppSync](https://developer88.tistory.com/344)
+* [AWS Amplify Studio 소개](https://aws.amazon.com/ko/about-aws/whats-new/2021/12/aws-amplify-studio/) Figma의 디자인을 React UI 코드로 자동 변환
 
 # Athena
 * [AWS Athena와 Google BigQuery 간단 비교기](https://docs.google.com/document/d/15SYAJ-B3__1zgNraieDiOAdz3tDK_40O55BKmUrQCt0/edit)
@@ -741,6 +744,10 @@ AWS
 * [EKS (AWS) AND RBAC, step by step. Introduction | by David De Juan Calvo | Globant | Medium](https://medium.com/globant/rbac-and-eks-aws-step-by-step-e2f9c38f1aeb)
 * [EKS Anywhere](https://anywhere.eks.amazonaws.com/)
   * 아마존 EKS을 온프레미스 환경에서 설치해서 Kubernetes 클러스터를 운영할 수 있도록 아마존에서 EKS Anyware를 오픈소스로 공개
+* [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
+  * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
+    * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
+    * 스팟 인스턴스 인터럽션이나 ASG 리밸런싱이 일어날 때 EventBridge를 통해 SQG로 이벤트가 전달되고 NTH(node-termination-handler) 팟이 SQS 이벤트를 받아서 이에 맞게 처리
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
   * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
 
