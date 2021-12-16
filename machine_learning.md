@@ -1330,6 +1330,7 @@ Machine Learning
   * [21 Techniques to Write Better Code - The Startup - Medium](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
 * [PyCaret - an open source, low-code machine learning library](https://pycaret.org/)
   * [Announcing PyCaret 1.0.0 An open source low-code machine learning library in Python](https://towardsdatascience.com/announcing-pycaret-an-open-source-low-code-machine-learning-library-in-python-4a1f1aad8d46)
+  * [PyCaret튜토리얼-회귀.ipynb](https://gist.github.com/serithemage/75fcb7cf439ba503a3b1d8911d1404a9)
 * [PyCM - Multi-class confusion matrix library in Python http://pycm.ir ](https://github.com/sepandhaghighi/PYCM)
   * [PyCM 2.5 released : Multi-class confusion matrix library in Python](https://www.reddit.com/r/MachineLearning/comments/diqyb7/p_pycm_25_released_multiclass_confusion_matrix/)
 * PyGAD [Welcome to PyGAD’s documentation! — PyGAD 2.9.0 documentation](https://pygad.readthedocs.io/)
