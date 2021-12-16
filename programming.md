@@ -1817,6 +1817,8 @@ Programming
 * [glot.io - an open source pastebin with runnable snippets and API](https://glot.io/)
 * [ideone.com](http://ideone.com/)
 * [PaizaCloud - Online editor and compiler](https://paiza.io/)
+* [Pieces - Save, find and reuse code with a simple copy & paste](https://code.pieces.app/)
+  * [You’re still not using code snippets?! | by Anushka | Pieces | Dec, 2021 | Medium](https://medium.com/getpieces/youre-still-not-using-code-snippets-4a8899d53151)
 * Replit [The collaborative browser based IDE - Replit](https://replit.com/)
   * [Repl.it - A database for every repl](https://blog.repl.it/database)
 * [**Rosetta Code - Side-by-side code snippets from Rosetta Code**](www.rosettacode.org/)
