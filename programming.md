@@ -1183,6 +1183,11 @@ Programming
 * [Linkerd or Istio?](https://itnext.io/linkerd-or-istio-2e3ce781fa3a)
 * [Service Mesh Ultimate Guide - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2e/)
 * [How eBPF will solve Service Mesh - Goodbye Sidecars](https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh)
+  * 서비스 메시는 탄력적인 연결성, L7 트래픽 관리, 보안, 관측성, 추적성 등을 제공
+  * 과거에는 앱에서 서비스 메시를 구현했지만, 요즘은 사이드카로 서비스 메시를 앱 옆에 제공해서 이를 구현
+  * 커널에는 원래 서비스 메시와 비슷한 기능이 이미 있었지만(iptables) 현대에 필요한 서비스 메시의 요구사항을 만족하지 못하고 사이드카 방식을 커널을 통해서 사이드카를 한 번 더 거쳐야 하므로 벤치마크에 따르면 3~4배의 지연시간 증가와 추가 메모리 필요
+  * Cilium의 eBPF를 이용해서 서비스 메시를 사이트가 없이 Linux 커널에서 제공할 수 있게 되었고 사이트가 없이도 L7 추적과 메트릭을 제공할 수 있게 되었고 프락시 기반보다 훨씬 빠르다
+  * eBPF로만 구현할 수 없는 요구사항의 경우 Node 당 프락시를 설치해서 해결할 수 있고 사이드카 방식보다 커넥션도 줄일 수 있다고 한다
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
 * [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
@@ -1482,6 +1487,9 @@ Programming
 * [Carrying forward unfinished work in Sprints with Jira](https://community.atlassian.com/t5/Jira-articles/Carrying-forward-unfinished-work-in-Sprints/ba-p/672304) sprint 종료 시점에서 여전히 open, doing issue를 어떻게 처리할지
 * [Sprint & Jira](https://www.slideshare.net/seokjoonyun9/sprint-jira)
 * [How to Groom Your Jira Backlog Using a Work Breakdown Structure (WBS) - Ricksoft, Inc.](https://www.ricksoft-inc.com/post/how-to-groom-your-jira-backlog-using-a-work-breakdown-structure-wbs/) grooming
+* [지라의 배포(deployments) 기능을 사용해볼까요?](https://blog.indentcorp.com/integrate-jira-deployment-with-github-actions/)
+  * Jira에 deployments 기능을 통해서 이슈가 언제 어떤 환경에 배포되었는지 추적하기 위해서 GitHub Actions로 커밋에서 Jira 이슈 번호를 추출해서 Jira에 연동하는 방법 설명
+  * 이렇게 연동하자 티켓이 배포된 상황을 쉽게 추적 가능
 
 # Benchmark
 * [One second code: Do YOU know how much your computer can do in a second?](http://computers-are-fast.github.io/)
@@ -2375,6 +2383,10 @@ Programming
 
 # Infrastructure
 * [IT인프라 전문가 되기](https://brunch.co.kr/magazine/it-infra)
+* [클라우드 시대, 인프라 엔지니어의 역할에 대해 생각하다](https://alden-kang.tistory.com/33)
+  * 온프레미스 환경부터 10년 넘게 인프라 엔지니어로 일하면서 그동안 개발자가 개발에만 집중하게 하는 환경을 만들어 주는 게 인프라 엔지니어의 역할로 생각
+  * 개발자가 운영에도 참여할 수 있게 도구와 가이드를 제공해야 한다는 팀원의 얘기에 역할에 대한 고민을 정리한 글
+  * 클라우드에서는 자동화, 표준화가 더 쉬워졌기에 기존의 게이트키퍼의 역할보다는 가드레일을 제공해서 개발자가 인프라 작업을 직접 처리할 수 있게 하는 게 더 어울린다고 생각하게 되었다고 함
 * [Dependency에 대한 고찰 | Architecture 101](https://architecture101.blog/2008/07/10/dependency/)
 * [Configuration File Validation Check - Config](https://www.configapp.com/2018/01/09/configuration-file-validation-check/) 여러가지 언어, 도구 등의 설정 검사 방법
 * [Dynamic configuration at Twitter](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2018/dynamic-configuration-at-twitter.html)
