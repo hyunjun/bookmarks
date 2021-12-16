@@ -790,15 +790,16 @@ Python
   * [Character Encoding in python](https://www.slideshare.net/daesung7kang/character-encoding-in-python)
   * [Python one-liner to print Roman numerals](https://www.johndcook.com/blog/2020/10/07/roman-numerals/)
 * exception
-  * [예외처리 (Exceptions)](http://agiantmind.tistory.com/m/post/39)
+  * [예외처리 (Exceptions)](http://agiantmind.tistory.com/39)
   * [Alex Martelli - Exception and error handling in Python 2 and Python 3 - PyCon 2016](https://www.youtube.com/watch?v=frZrBgWHJdY)
-  * [예외처리 블록에 대한 잘못된 파라미터 지정](https://ash84.net/2017/05/29/python-specifying-parameters-incorrectly-for-an-exception-block/)
+  * [예외처리 블록에 대한 잘못된 파라미터 지정](https://ash84.io/2017/05/25/python-specifying-parameters-incorrectly-for-an-exception-block/)
   * [Professional Error Handling With Python](https://code.tutsplus.com/tutorials/professional-error-handling-with-python--cms-25950)
   * [Amandine Lee Passing Exceptions 101 Paradigms in Error Handling PyCon 2017](https://www.youtube.com/watch?v=BMtJbrvwlmo)
     * [Amandine Lee - Passing Exceptions 101: Paradigms in Error Handling](https://speakerdeck.com/pycon2017/amandine-lee-passing-exceptions-101-paradigms-in-error-handling)
   * [How to Define Custom Exception Classes in Python - Towards Data Science](https://towardsdatascience.com/how-to-define-custom-exception-classes-in-python-bfa346629bca)
   * [Eyal Trabelsi - Elegant Exception Handling - YouTube](https://www.youtube.com/watch?v=6sVDuFQRGgo)
   * [Quick Python Tip: Suppress Known Exception Without Try Except | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/quick-python-tip-suppress-known-exception-without-try-except-a93ec34d3704)
+  * [Robust exception handling - Eli Bendersky's website](https://eli.thegreenplace.net/2008/08/21/robust-exception-handling/)
 * ftplib
   * [practice - download file from ftp](https://gist.github.com/hyunjun/11f8c7ee9d5a5c4dd2804071dd4f5ab2#file-ftp-md)
 * function
