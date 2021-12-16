@@ -926,6 +926,7 @@ NLP
   * [NIKL-KLUE: 모두의 말뭉치 인공 지능 언어 능력 평가 1등 솔루션입니다](https://github.com/NIKL-Team-BC/NIKL-KLUE)
 * [KoBigBird: 🦅 Pretrained BigBird Model for Korean (up to 4096 tokens)](https://github.com/monologg/KoBigBird)
 * [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA)
+* [lassl: Easy framework for pre-training language models](https://github.com/lassl/lassl)
 * [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
