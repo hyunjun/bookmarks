@@ -538,6 +538,16 @@ Docker
 * [Learning Containers From The Bottom Up - Ivan Velichko](https://iximiuz.com/en/posts/container-learning-path/)
 * [Docker上でjetbrains製品を起動する方法 - Qiita](https://qiita.com/Eliza_wb/items/ff3d885d78ff870191ab)
   * [practice - Docker 상에서 jetbrains 제품을 실행하는 방법](https://gist.github.com/hyunjun/c4ce053c28bd5df8b890aeae19af4270#file-docker_jetbrain-md)
+* [Anti-Patterns When Building Container Images](http://jpetazzo.github.io/2021/11/30/docker-build-container-images-antipatterns/)
+  * 컨테이너 이미지를 만들 때 안티 패턴 설명: anti pattern(문제점) -> 대안
+  * 1GB 이상 되는 너무 큰 이미지
+  * 1GB 이상 되는 큰 데이터 이미지에 포함(디스크 사용량, 이미지 크기 증가) -> 볼륨을 연결해서 데이터를 읽어 들이는 것이 더 좋음
+  * 너무 작은 이미지 -> 트러블슈팅에 필요한 유용한 도구가 누락
+  * 공통된 베이스 이미지 매번 다시 빌드 -> 레지스트리에 저장해 사용
+  * 너무 큰 모노 레포의 루트에서 여러 Dockerfile로 빌드(BuildKit이 아니라면 전체 레포를 도커 엔진에 업로드) -> Dockerfile을 디렉터리 별로 분리
+  * BuildKit 미사용
+  * 변경할 때마다 다시 빌드
+  * 커스텀 스크립트 -> 이미 존재하는 도구 활용
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -1144,6 +1154,9 @@ Docker
 * [Kubernetes: What is "reconciliation"? - Speaker Deck](https://speakerdeck.com/thockin/kubernetes-what-is-reconciliation)
 * [Using Kubernetes Ephemeral Containers for Troubleshooting](https://loft.sh/blog/using-kubernetes-ephemeral-containers-for-troubleshooting/)
 * [VirtualBox를 이용하여 k8s cluster 구성하기](https://effectivesquid.tistory.com/entry/VirtualBox%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-k8s-cluster-%EA%B5%AC%EC%84%B1%ED%95%98%EA%B8%B0)
+* [A Simple Kubernetes Admission Webhook - Slack Engineering](https://slack.engineering/simple-kubernetes-webhook/)
+  * Slack에서 Kubernetes의 Admission Webhook을 만드는 과정 설명
+  * 처음 Admission Webhook를 알았을 때는 사용해 볼 일이 없다고 생각했지만 만들게 되면서 Kubebuilder나 Operator SDK 등의 복잡한 프레임워크는 필요 없다고 판단하여 간단한 Go 웹서버를 만들어서 Admission Webhook에서 팟의 이름을 검증하고 Mutating 단계에서 환경을 주입하는 등의 간단한 동작을 하는 Admission Webhook을 설명하고 소스 코드도 공개
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
