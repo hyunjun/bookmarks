@@ -249,6 +249,7 @@ Finance
   * [1/3 여러 종목의 수익률 어떻게 비교할까?! - YouTube](https://www.youtube.com/watch?v=H6rSEUwQASk)
   * [2/3 여러 종목의 수익률 어떻게 시각화 할까?! - YouTube](https://www.youtube.com/watch?v=wa5batG2qqs)
   * [FinanceDataReader를 이용한 주식, 비트코인 및 경제 지표 데이터 수집](https://gils-lab.tistory.com/12)
+  * [FinanceDataReader를 이용한 전체 주식 데이터 수집](https://gils-lab.tistory.com/45)
 * [FinTech package for Python (SEPA, EBICS & more)](http://www.joonis.de/en/software/fintech)
 * [벤포드의 법칙 (Benford Law)](https://nbviewer.jupyter.org/gist/FinanceData/2ab5fc04c975e1f90629ec1b1686e19d)
 * [IBEX 35 portfolio recommendation](https://github.com/sgarciapuga/capstone_projects/blob/master/Analyze_Financial_Data/Ibex35_Capstone_Project.ipynb)
