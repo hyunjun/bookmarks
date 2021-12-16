@@ -222,6 +222,9 @@ Git
 * [많은 사람들이 모르는 Github Organization Public](https://velog.io/@juunini/%EB%A7%8E%EC%9D%80-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%B4-%EB%AA%A8%EB%A5%B4%EB%8A%94-Github-Organization-public)
 * [Github: 은근히 많이 쓰는 깃헙약어](https://hidekuma.github.io/github/abbreviation/abbreviation/)
 * [2 stories about Migrate containers to GitHub Container Registry (GHCR) — GitHub Packages curated by Bryant Jimin Son - Medium](https://bryantson.medium.com/list/migrate-containers-to-github-container-registry-ghcr-github-packages-bcbcffd7946c)
+* [Using ChatOps to help Actions on-call engineers | The GitHub Blog](https://github.blog/2021-12-01-using-chatops-to-help-actions-on-call-engineers/)
+  * GitHub에서는 터미널 대신 슬랙에서 명령어를 입력해서 자동화하는 "Hubot"이라는 ChatOps 활용
+  * Hubot은 로그 수집 도구인 Kusto에 질의를 할 수 있으므로 문제가 생겼을 때 Hubot을 이용해서 바로 조회, 처음 온 사람도 비상대기할 때 장애 상황에 대처할 플레이 북 문서를 Hubot을 통해서 조회, 플레이 북을 자동화해서 문제 검색
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
