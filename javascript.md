@@ -1712,6 +1712,7 @@ Javascript
   * [NestJS에서 응답/요청 객체 직렬화 (Serialization) 하기](https://jojoldu.tistory.com/610)
   * [NestJS Custom Caching Decorator 만들기](https://zuminternet.github.io/nestjs-custom-decorator/)
   * [nestia: Automatic SDK and Document generator for the NestJS](https://github.com/samchon/nestia)
+    * [nestia-helper: NestJS with AES Encryption](https://github.com/samchon/nestia-helper)
 * Netlify
   * [Run Cypress Tests on Netlify Using a Single Line](https://cypress.io/blog/2020/03/30/run-cypress-tests-on-netlify-using-a-single-line/)
   * [Netlify 로 정적 웹 사이트 배포하기](https://jojoldu.tistory.com/546)
@@ -2591,7 +2592,11 @@ Javascript
 * [프로토타입을 사용하여 상속하기](https://evan-moon.github.io/2019/10/27/inheritance-with-prototype/)
 * [The Single Most Important Feature of JavaScript](https://medium.com/better-programming/the-single-most-important-feature-of-javascript-d65ae448eb19)
 * [prototype에 관하여 정리해 봅니다](https://developer88.tistory.com/277)
-* [자바스크립트는 왜 프로토타입을 선택했을까. 프로토타입으로 검색하면 으레 나오는 서두처럼 저 또한 자바스크립트를… | by 임성묵 (Sungmook Lim) | Dec, 2021 | Medium](https://medium.com/@limsungmook/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%99%9C-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C-997f985adb42)
+* [**자바스크립트는 왜 프로토타입을 선택했을까. 프로토타입으로 검색하면 으레 나오는 서두처럼 저 또한 자바스크립트를… | by 임성묵 (Sungmook Lim) | Dec, 2021 | Medium**](https://medium.com/@limsungmook/%EC%9E%90%EB%B0%94%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8%EB%8A%94-%EC%99%9C-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9E%85%EC%9D%84-%EC%84%A0%ED%83%9D%ED%96%88%EC%9D%84%EA%B9%8C-997f985adb42)
+  * JavaScript를 특이하게 prototype을 사용하는데 왜 이렇게 하는지 궁금해서 논문까지 찾아보며 이유를 정리한 글
+  * 플라톤과 이데아부터 아리스토텔레스의 분류 개념을 설명하면서 비트겐슈타인의 가족 유사성까지 이어지면서 프로토타입 이론이 등장하는 과정 설명
+  * 프로토타입 이론에서는 원형(prototype)을 선택하고 문맥에 따라 범주가 달라진다
+  * 이를 JavaScript에서 이 프로토타입 이론을 구현하기 위해 prototype, hoisting, this가 어떻게 동작하고 있는지를 설명
 
 # Purescript
 * [JavaScript, TypeScript and PureScript](https://www.youtube.com/watch?v=JTEfpNtEoSA)
