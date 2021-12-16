@@ -4525,6 +4525,7 @@ Python
 * [kakao-to-slack: send kakao talk message to slack](https://github.com/Kirade/kakao-to-slack)
 * [slacker: Full-featured Python interface for the Slack API](https://github.com/os/slacker/)
   * [Slacker를 이용한 Slack Bot 만들기 | Corikachu](https://corikachu.github.io/articles/python/python-slack-bot-slacker)
+  * [필요한 정보를 보내주는 Slack bot을 만들어보자 — 개발을 부시다](https://binux.tistory.com/27)
 
 # SymPy
 * [SymPy](http://www.sympy.org/)
