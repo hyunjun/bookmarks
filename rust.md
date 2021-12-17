@@ -272,6 +272,9 @@
 * [From Python to Rust: Part 2.. Strings, Functions, and Crates/Modules | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/from-python-to-rust-part-2-strings-functions-and-crates-modules-b110e052d607)
 * [From Python to Rust: Part 3.. Python dictionary, Rust HashMap and a… | by rebelCoder | Python In Plain English | Medium](https://medium.com/python-in-plain-english/from-python-to-rust-part-3-f035d780de1)
 
+# TDD, Test
+* ["Type-Driven API Design in Rust" by Will Crichton - YouTube](https://www.youtube.com/watch?v=bnnacleqg6k)
+
 # Tutorial
 * [The Rust Programming Language](http://doc.rust-lang.org/nightly/book/)
 * [The Rust Programming Language](https://rinthel.github.io/rust-lang-book-ko/) 한국어
