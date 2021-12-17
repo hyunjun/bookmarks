@@ -330,6 +330,7 @@ Linux
   * [미리 알았으면 좋을 Ansible 테크닉들 | GeekNews](https://news.hada.io/topic?id=4907)
   * [Using Ansible with REST APIs | Opensource.com](https://opensource.com/article/21/9/ansible-rest-apis)
   * [로컬에서 개발 중인 Ansible role을 편하게 테스트하는 방법 | 박성훈의 블로그](https://pseonghoon.github.io/post/testing-ansible-role/)
+  * [Ansible Tower with OSP16 - YouTube](https://www.youtube.com/watch?v=yuqcgckq0xA)
 * [Bashible - a deployment/automation tool written in Bash (DSL). Inspired by Ansible. Simplifies things and prevents usual mistakes](https://github.com/mig1984/bashible)
 * [fabric](https://github.com/mathiasertl/fabric)
 * [Pulumi - Modern Infrastructure as Code](https://www.pulumi.com/) python
@@ -1000,6 +1001,8 @@ Linux
 * [리눅스 커널 모듈 작성 – Place Of 42Seoul Story](https://42place.innovationacademy.kr/archives/7025)
 * [30 things you didn't know about the Linux kernel | Opensource.com](https://opensource.com/article/21/8/linux-kernel)
 * [Modifying The Linux Kernel – New Syscalls – Coding Kaiser](https://codingkaiser.blog/2021/07/17/create-your-own-system-calls%e2%80%8a-%e2%80%8aprocess-weights/)
+* [Linux Kernel 101 for Beginner - YouTube](https://www.youtube.com/watch?v=96T6OCEqZNk)
+  * [Linux Kernel 101 for Beginner](https://www.slideshare.net/InfraEngineer/linux-kernel-101-for-beginner)
 
 ## Kernel Interrupt
 * [Interrupts and Interrupt Handling](https://github.com/0xAX/linux-insides/tree/master/interrupts)
