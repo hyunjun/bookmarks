@@ -626,6 +626,7 @@ Linux
 * locate
 * [ls\* Commands Are Even More Useful Than You May Have Thought - nixCraft](https://www.cyberciti.biz/open-source/command-line-hacks/linux-ls-commands-examples/)
   * `lsscsi lsblk lsb_release lsusb lscpu lspci lshw lshw-gtk ls lsof lsattr lshal lsinitramfs lsmod lspcmcia lswm lsdvd lslk lsmbox lscgroup lsdiff lspst lsdnssec lsmem lsdev lslocks lsar lslogins lsgpu lstopo lsipc`
+  * [How to Use lsmod in Linux (With a Practical Example) – CloudSavvy IT](https://www.cloudsavvyit.com/14735/how-to-use-lsmod-in-linux-with-a-practical-example/)
 * `ls`
   * [Linux ls Command: Sort Files By Size](https://www.cyberciti.biz/faq/linux-ls-command-sort-by-file-size/)
 * `mkdir`
