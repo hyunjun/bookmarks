@@ -56,6 +56,8 @@ Graph
 * [데이터 모델링이란? (그래프 DB 편)](https://bitnine.tistory.com/447)
 * [방대하고 복잡한 데이터를 시각화하는 그래프 DB](https://brunch.co.kr/@synabreu/146)
 * [Graph Databases VS Relational Databases – Learn How a Graph Database Works](https://www.freecodecamp.org/news/graph-database-vs-relational-database/)
+* [Scope Graphs | A Theory of Name Resolution](https://pl.ewi.tudelft.nl/research/projects/scope-graphs/)
+  * ["Incremental, zero-config Code Nav using stack graphs" by Douglas Creager - YouTube](https://www.youtube.com/watch?v=l2R1PTGcwrE)
 
 # book
 * [Applications of Graph Theory - Shariefuddin Pirzada and Ashay Dharwadker](http://www.dharwadker.org/pirzada/applications/)
