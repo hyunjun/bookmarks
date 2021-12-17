@@ -434,6 +434,8 @@ AWS
 * [Flowchart: How should I run containers on AWS? :: Vlad Ionescu](https://www.vladionescu.me/posts/flowchart-how-should-i-run-containers-on-aws-2021/)
 * [AWS Cloud WAN - Part 1](https://zigispace.net/1150)
 * [AWS Cloud WAN - Part 2](https://zigispace.net/1151)
+* [AWS Cloud WAN - Part 3](https://zigispace.net/1152)
+* [AWS Cloud WAN - Part 4](https://zigispace.net/1154)
 * [AWS re:Post – AWS 커뮤니티를 위한 신규 질의 응답 사이트 공개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-repost-a-reimagined-qa-experience-for-the-aws-community/)
   * Stackoverflow처럼 AWS에 관해서 질문/답변 서비스인 re:Post가 공개되어서 AWS 서비스에 대한 기술적 질문을 하고 검색 가능
 
