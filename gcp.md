@@ -129,6 +129,8 @@ Google Cloud Platform GCP
   * [조대협의 블로그 :: Vertex.AI로 파이프라인과 metadata 구현하기](https://bcho.tistory.com/1382)
   * [조대협의 블로그 :: 구글 클라우드 Vertex.AI Model 학습 및 모델 배포&서빙](https://bcho.tistory.com/1383)
   * [조대협의 블로그 :: Vertex AI : 모델 학습 및 하이퍼 패러미터 튜닝](https://bcho.tistory.com/1384)
+* [클라우드 엔지니어 취업 고군 분투기 - YouTube](https://www.youtube.com/watch?v=rYL2CDmGof8)
+  * [클라우드 엔지니어 취업 고군 분투기](https://www.slideshare.net/InfraEngineer/ss-250837818)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
