@@ -1415,6 +1415,8 @@ Javascript
 * [금액-한글 변환 프로젝트 npm 배포하기 사내에서 사용 중이던 함수를 오픈소스로 만든 과정을 소개합니다](https://www.huskyhoochu.com/num-to-korean)
 * [댓글 플러그인 아포가토](http://www.slideshare.net/mctenshi/ss-55186165)
 * [자바스크립트 개발의 지형을 바꾸는 7가지 툴 - ITWorld Korea](https://www.itworld.co.kr/news/195529)
+* [10-javascript-frameworks: Comparison of 10 frontend JavaScript frameworks](https://github.com/fireship-io/10-javascript-frameworks)
+  * [I built the same app 10 times // Which JS Framework is best? - YouTube](https://www.youtube.com/watch?v=cuHDQhDhvPE)
 * [Adi.js - Lightweight jQuery plugin for Adblock detection](https://github.com/balajmarius/Adi.js)
 * [adserver-tutorial: Adserver Tutorial for platform developers](https://github.com/kijepark/adserver-tutorial) 광고 서버 개발 가이드
 * aeiou
