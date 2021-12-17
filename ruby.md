@@ -132,6 +132,7 @@ Ruby
 * [Integrating Bootstrap 4 into Rails 6](https://hackernoon.com/integrating-bootstrap-4-into-rails-6-9ae2bbb44999)
 * [**Java&Spring 개발자가 Ruby on Rails 를 해보고 마주친 생각들**](https://blog.dramancompany.com/2020/11/java-spring-ruby-on-rails/)
 * [From Rails to Clojure, then to Java, then back to Rails - Engineering Management](https://engineering-management.space/post/from-rails-to-clojure-to-java-to-rails/)
+* [Rails 7: The Demo - YouTube](https://www.youtube.com/watch?v=mpWFrUwAN88)
 * [Learn Ruby - Free Interactive Ruby Tutorial](https://www.learnrubyonline.org/)
 * Sidekiq [사이드킥 큐에서 태스크나 예약작업 삭제하기](https://www.44bits.io/ko/post/deleting-sidekiq-scheduled-job)
 
