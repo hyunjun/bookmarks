@@ -374,11 +374,12 @@ Android
 * [LeakCanary: Detect all memory leaks!](https://corner.squareup.com/2015/05/leak-canary.html)
 * [MPAndroidChart 라이브러리를 활용한 Chart 사용하기](https://medium.com/hongbeomi-dev/mpandroidchart-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-chart-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-kotlin-93c18ae7568e)
 * [modernstorage: ModernStorage is a group of libraries that provide an abstraction layer over storage on Android to simplify its interactions](https://github.com/google/modernstorage)
+* [NVIDIA AndroidWorks 1R2 available now! Accelerate your build times with Nsight Tegra and IncrediBuild](https://developer.nvidia.com/content/nvidia-androidworks-1r2-available-now-accelerate-your-build-times-nsight-tegra-and-incredibu)
 * [ObjectDetectionMLKitApp](https://github.com/wgfactory/ObjectDetection_MLKitApp) MLKit Object Detection Android Example Application
 * [OCR_Plus_Table](https://github.com/JaeMinYooon/OCR_Plus_Table) table OCR -> excel
 * [PHONK - Self-contained Creative scripting toolbox for new and old Android devices](https://phonk.app/)
 * [Profiler를 통한 메모리 관리 #안드로이드 스튜디오](https://developer88.tistory.com/229)
-* [NVIDIA AndroidWorks 1R2 available now! Accelerate your build times with Nsight Tegra and IncrediBuild](https://developer.nvidia.com/content/nvidia-androidworks-1r2-available-now-accelerate-your-build-times-nsight-tegra-and-incredibu)
+* [PIT4ADB: 파파고 이미지 번역을 ADB로 구현](https://github.com/kdrkdrkdr/PIT4ADB)
 * [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/)
   * [Realtime Messaging SDK for React-Native Android](https://github.com/realtime-framework/RCTRealtimeMessagingAndroid)
 * ReadMoreTextView [페이스북처럼 긴 글에 ‘더보기' 표시하는 방법(feat. ReadMoreTextView) | by Ted Park | PRND | Jul, 2020 | Medium](https://medium.com/prnd/%ED%8E%98%EC%9D%B4%EC%8A%A4%EB%B6%81%EC%B2%98%EB%9F%BC-%EA%B8%B4-%EA%B8%80%EC%97%90-%EB%8D%94%EB%B3%B4%EA%B8%B0-%ED%91%9C%EC%8B%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-feat-readmoretextview-3bbe30a4112b)
