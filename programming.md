@@ -1129,6 +1129,7 @@ Programming
 * [Domain Driven Design Patterns in Python - YouTube](https://www.youtube.com/watch?v=v0wBmQq8qcA)
 * [실전 도메인 스토리텔링 첫 시도](https://brunch.co.kr/@graypool/277)
 * [도메인 스토리텔링은 무엇인가?](https://brunch.co.kr/@graypool/278)
+* [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
 ## Architecture Event Driven
 * [이춘식 기술사의 이벤트 기반 모델](https://realhanbit.co.kr/books/250/pages/2436/read)
