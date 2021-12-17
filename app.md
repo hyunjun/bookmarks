@@ -1512,8 +1512,10 @@ App
 * [When Markdown Meets Tables](https://blog.documentnode.io/when-markdown-meets-tables)
 * [6 Things Markdown Got Wrong](https://www.swyx.io/writing/markdown-mistakes/)
 * [Markdown: Aplicando na prática os comandos aprendidos na linguagem Markdown](https://github.com/JosephDaCosta/Markdown)
+* [무작정 Markdown 으로 문서 사이트를 만들고 싶은 이들에게... - DEV Community](https://dev.to/composite/mujagjeong-markdown-euro-munseoreul-mandeulgo-sipeun-ideulege-2mn9) Retype, Docsify
 * [caret.io - Markdown Editor for Mac / Windows / Linux](http://caret.io/) 유료
 * [DocFX - static documentation generator | DocFX website](https://dotnet.github.io/docfx/)
+* [docsify](https://docsify.js.org)
 * [dumbdown: The dumb alternative to markdown. The keyword for title is title](https://github.com/treenotation/dumbdown)
 * [EASYME.md | 리드미를 쉽게! 이지미](https://www.easyme.online/)
 * [Fongshen - Markdown with Ace example](http://simular.co/works/fongshen/)
@@ -1538,6 +1540,7 @@ App
   * [쓸만한 Obsidian 웹클립퍼가 나왔네요! : 클리앙](https://www.clien.net/service/board/lecture/16394051)
 * [**prose.io**](http://prose.io) github
 * [**readme.so - Easiest Way to Create A README**](https://readme.so/)
+* Retype [Welcome to Retype | Retype - Generate publish and share documentation](https://retype.com/)
 * sokuricat [소쿠리캣 - 마크다운으로 글쓰는 고양이](https://sokuricat.com/)
 * [stackedit.io](https://stackedit.io/) gist, github(유료)
 * [VNote - A note-taking application that knows programmers and Markdown better](https://vnotex.github.io/vnote)
