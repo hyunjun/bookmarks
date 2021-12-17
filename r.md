@@ -426,6 +426,7 @@ R
 # Course MOOC Lecture
 * [데이터홀릭](https://www.youtube.com/playlist?list=PLOvmIXlrvHO18HuniAOdzlvMQxHumeAoE)
 * [R 통계 기초 R로 하는 기초 통계 분석법](https://mindscale.kr/course/basic-stat-r)
+* [R린이들을 위한 초기세팅 및 꿀팁모음.zip | Statistics Playbook](https://statisticsplaybook.com/p/rtips)
 
 # Deep Learning
 * [R’s way for Deep Learning with Keras](http://freesearch.pe.kr/archives/4637)
