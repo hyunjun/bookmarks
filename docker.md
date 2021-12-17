@@ -1478,6 +1478,7 @@ Docker
   * [Transitioning from Docker to Podman - Red Hat Developer](https://developers.redhat.com/blog/2020/11/19/transitioning-from-docker-to-podman/)
   * [How to replace Docker with Podman on a Mac | Enable Sysadmin](https://www.redhat.com/sysadmin/replace-docker-podman-macos)
   * [Run a Linux virtual machine in Podman | Opensource.com](https://opensource.com/article/21/7/linux-podman)
+  * [Podman vs Docker: What are the differences?](https://www.imaginarycloud.com/blog/podman-vs-docker/)
 * [registry.hub.docker.com](https://registry.hub.docker.com)
 * [rocker-compose - Docker composition tool with idempotency features for deploying apps composed of multiple containers](https://github.com/grammarly/rocker-compose)
 * [seagull - Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
