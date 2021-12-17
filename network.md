@@ -74,6 +74,8 @@ Network
     * IPv6는 설계 목표는 많이 달성했지만, 예상처럼 빠르게 롤아웃되지 않았고 IPv4 대체하지도 못함
     * IPv6의 롤아웃이 느린 이유는 IPv4와 같이 배포할 때 충분한 가치를 제공하지 못했기 때문
     * IPv6의 주목적이 IPv4의 주소 공간을 늘리는 것이었으므로 IPv4 주소 공간이 제한적인 사설망에서 많이 사용
+* [삐약삐약 네트워크 엔지니어 이야기 - YouTube](https://www.youtube.com/watch?v=D259i3pBYLA)
+  * [삐약삐약 네트워크 엔지니어 이야기](https://www.slideshare.net/InfraEngineer/ss-250837913)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
