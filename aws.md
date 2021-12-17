@@ -538,6 +538,7 @@ AWS
   * [AWS re:Invent 2020 Daily Recap - 일일 요약 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUUXSM9uoOZZoafzQPZeh5bM)
   * [Amazon CTO 버너 보겔스의 2022년 이후 기술 예측 :: Channy's Blog](http://channy.creation.net/blog/1492)
   * [메가존클라우드가 들려주는 AWS re:Invent 2021 리얼 세션 후기 #1 | Megazone Cloud](https://www.megazone.com/techblog-reinvent2021-01/)
+  * [버즈빌 CTO가 들려주는 AWS 리인벤트(re:Invent) 2021](https://tech.buzzvil.com/blog/reinvent-2021-zune/)
 * AWS Summit
   * [AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-)
     * [현대백화점 리테일테크랩과 AWS Prototyping 팀 개발자가 들려주는 인공 지능 무인 스토어 개발 여정::AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/watch?v=9lSObYSCS0c)
