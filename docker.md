@@ -1157,6 +1157,9 @@ Docker
 * [A Simple Kubernetes Admission Webhook - Slack Engineering](https://slack.engineering/simple-kubernetes-webhook/)
   * Slack에서 Kubernetes의 Admission Webhook을 만드는 과정 설명
   * 처음 Admission Webhook를 알았을 때는 사용해 볼 일이 없다고 생각했지만 만들게 되면서 Kubebuilder나 Operator SDK 등의 복잡한 프레임워크는 필요 없다고 판단하여 간단한 Go 웹서버를 만들어서 Admission Webhook에서 팟의 이름을 검증하고 Mutating 단계에서 환경을 주입하는 등의 간단한 동작을 하는 Admission Webhook을 설명하고 소스 코드도 공개
+* [What happens when you upgrade to Kubernetes v1.24? | jimangel.io](https://jimangel.io/post/dockershim-kubernetes-v1.24/) Docker-shim 제외. 2022 2Q 예정
+* [주니어의 쿠버네티스 생태계에서 살아남기 - YouTube](https://www.youtube.com/watch?v=fvWHLrMjdmI)
+  * [주니어의 쿠버네티스 생태계에서 살아남기](https://www.slideshare.net/InfraEngineer/ss-250837857)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1549,6 +1552,9 @@ Docker
 * [클라우드 시스템 운영 비율](https://naleejang.tistory.com/246)
 * [오픈소스 컨트리뷰션 1주차 스프린트 : 오픈스택 환경 구성하기 | by Ryan Kim | Aug, 2021 | Medium](https://equus3144.medium.com/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%EC%85%98-1%EC%A3%BC%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%EC%98%A4%ED%94%88%EC%8A%A4%ED%83%9D-%EC%84%A4%EC%B9%98-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0-be44aed886)
 * [Open Infra How to calculate the cloud system operating rate](https://naleejang.tistory.com/247)
+* [Heat Template를 이용한 오픈스택 프로비저닝 - YouTube](https://www.youtube.com/watch?v=dGkMWdTsjxc)
+* [셸 스크립트를 이용한 인스턴스 생성 - YouTube](https://www.youtube.com/watch?v=C_iUDJ7ZPFE)
+* [셸 스크립트를 활용한 클라우드 모니터링 - YouTube](https://www.youtube.com/watch?v=f5_JMY2nHFs)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/)
