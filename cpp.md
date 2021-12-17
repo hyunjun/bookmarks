@@ -296,6 +296,7 @@ C++
 * [CppCon 2020 Plenary Talks - YouTube](https://www.youtube.com/playlist?list=PLHTh1InhhwT4PVVy3PGfw0Va7wZNrH0-w)
 * [Structure and Interpretation of Computer Programs: SICP - YouTube](https://www.youtube.com/watch?v=f7s8_PGpVT0)
 * [C++ Developer Learns Rust (aka Oxidizing C++ Skills For Fun and Profit) - YouTube](https://www.youtube.com/watch?v=q-hcqOa4ddU)
+* [C++ 20: Reaching for the Aims of C++ - YouTube](https://www.youtube.com/watch?v=TeduHyHdH3A)
 
 # IDE
 * CLion
