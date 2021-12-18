@@ -1137,7 +1137,8 @@ AWS
 * [이미지 라벨링(Image Labeling), 노가다가 답일까? | by MUSINSA tech | Medium | MUSINSA tech](https://medium.com/musinsa-tech/imagelabeling-c351c0258a62)
 * [Sagemaker를 이용한 후기이미지 자동검수 모델 만들기 - 박지혜(무신사), 데이터 엔지니어를 위한 알쓸신잡 - 김영익 :: 제41회 AWSKRUG DataScience모임 - YouTube](https://www.youtube.com/watch?v=qMuhF1efUso)
 * [Amazon SageMaker를 통한 대용량 모델 훈련 방법 살펴보기-김대근,최영준,AWS::AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/watch?v=csr84BKbFeg)
-* [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
+* [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
+  * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
 
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
