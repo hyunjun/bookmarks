@@ -221,6 +221,7 @@ Data Science
   * 데이터 분석을 위한 기본적인 Python 환경 설정 방법
   * Anaconda의 Conda를 활용해 분리된 환경 설정
   * 하나의 Python 데이터 분석 프로젝트의 디렉토리를 구성하는 방법
+* [50 Best Data Science Project Ideas You Must Know in 2022](https://www.mltut.com/best-data-science-project-ideas/)
 * [Strata Data Conference](https://conferences.oreilly.com/strata/strata-eu/public/schedule/proceedings)
 * [Data Science Resources : Cheat Sheets](http://www.datasciencefree.com/cheatsheets.html)
 * [Data Science Cheatsheets](https://github.com/abhat222/Data-Science--Cheat-Sheet)
@@ -338,6 +339,7 @@ Data Science
 * [업무 지식도 모르면 데이터 분석을 할 수 없다! 4](https://brunch.co.kr/@04925bf0d77f43e/12)
 * [글로벌 칼럼 | ‘머신러닝은 만능이 아니다’ ML 대신 SQL 쿼리를 써야하는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/209077)
 * [칼럼ㅣ머신러닝의 첫 번째 규칙은 ML 없이 시작하는 것이다 - CIO Korea](https://www.ciokorea.com/news/208792)
+* [모델만 잘 만들면 끝?··· 데이터 과학을 위한 ‘CI/CD’가 필요하다  - CIO Korea](https://www.ciokorea.com/news/216234)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -373,6 +375,7 @@ Data Science
 * [The Data Engineering Cookbook](https://github.com/andkret/Cookbook)
 * [Great Books for Data Science](https://towardsdatascience.com/great-books-for-data-science-7a2de76bc612)
 * [브런치북 데이터 과학 미니북](https://brunch.co.kr/brunchbook/dsbook)
+* [Efficient Python Tricks and Tools for Data Scientists — Effective Python for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
 
 # Conference
 * [데이터야놀자2021 데이터와 함께하는 똑똑한 중고 거래 - 삼데오백님 - YouTube](https://www.youtube.com/watch?v=qUn_hgLxudU)
@@ -432,6 +435,7 @@ Data Science
 * [The Five Best Frameworks for Data Scientists](https://medium.com/@ODSC/the-top-five-best-frameworks-for-data-scientists-6a0c42865755)
 * [Learn Data Engineering: My Favorite Free Resources For Data Engineers](https://hackernoon.com/learn-data-engineering-my-favorite-free-resources-52a29ab999b)
 * [Interactive Tools for ML, DL and Math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools)
+* [Top 38 Python Libraries for Data Science, Data Visualization & Machine Learning - KDnuggets](https://www.kdnuggets.com/2020/11/top-python-libraries-data-science-data-visualization-machine-learning.html)
 * [academictorrents.com](http://academictorrents.com/)
 * [Airbyte | Open-Source Data Integration Pipelines To Your Warehouses](https://airbyte.io/)
   * [Airbyte - 오픈소스 ELT | GeekNews](https://news.hada.io/topic?id=3666)
