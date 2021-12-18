@@ -3126,6 +3126,8 @@ Programming
 * [Zig, Parser Combinators - and Why They're Awesome](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome)
 * [ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files](https://www.antlr.org/)
   * [A Human-readable Scheduling Tool based on Python + ANTLR - Singapore Python User Group](https://www.youtube.com/watch?v=TCPhJpKv9SE)
+* [Tree-sitter｜Introduction](https://tree-sitter.github.io/tree-sitter/)
+  * ["Tree-sitter - a new parsing system for programming tools" by Max Brunsfeld - YouTube](https://www.youtube.com/watch?v=Jes3bD6P0To)
 
 # Podcast
 * [Ask HN: What tech blogs, podcasts do you follow outside of HN?](https://news.ycombinator.com/item?id=9836023)
