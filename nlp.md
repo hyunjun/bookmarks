@@ -37,6 +37,7 @@ NLP
 * [The future of programmers](http://tcz.hu/the-future-of-programmers)
 * [IBM ‘왓슨’, 인지컴퓨팅 서비스로 업그레이드](http://www.bloter.net/archives/239630)
 * [How To Create Natural Language Semantic Search For Arbitrary Objects With Deep Learning](https://towardsdatascience.com/semantic-code-search-3cd6d244a39c)
+* [Natural Language Processing (NLP) for Semantic Search | Pinecone](https://www.pinecone.io/learn/nlp/)
 * [politeness - Write in a more polite, friendly tone](https://labs.foxtype.com/politeness)
 * [Understanding Natural Language with Deep Neural Networks Using Torch](http://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch)
 * [An Inside View of Language Technologies at Google](http://breakthroughanalysis.com/2015/10/28/an-inside-view-of-language-technologies-at-google/)
@@ -819,6 +820,7 @@ NLP
 
 # Course MOOC Lecture
 * [언어와 컴퓨터 (100.130)](https://github.com/suzisuti/lecture/tree/master/2018/LC)
+  * [lecture/2021/LC at master · suzisuti/lecture · GitHub](https://github.com/suzisuti/lecture/tree/master/2021/LC)
 * [자연어처리 특강 - YouTube](https://www.youtube.com/playlist?list=PLgD4RfwkG2A5fNsi7PyhWCiIz5zU2Q6Z0)
 * [Donkuk_AI_NLP_MachineTranslation - 동국대학교 영어영문학부 대상으로 진행하는 인공지능, 자연언어처리, 기계번역 강의자료](https://github.com/Parkchanjun/Donkuk_AI_NLP_MachineTranslation)
 * [A Primer on Neural Network Models for Natural Language Processing](http://u.cs.biu.ac.il/~yogo/nnlp.pdf)
@@ -1555,6 +1557,7 @@ NLP
 * [텍스트 요약 모델 성능 평가를 위한 새로운 척도, RDASS를 소개합니다. | Kakao Enterprise AI Research](https://kakaoenterprise.github.io/deepdive/210729)
 * [Nearest Neighbor Indexes for Similarity Search | Pinecone](https://www.pinecone.io/learn/vector-indexes/)
   * [The Rise of Vector Data - YouTube](https://www.youtube.com/watch?v=hw2ZS5CVs8s)
+* [Find anything blazingly fast with Google's vector search technology | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/find-anything-blazingly-fast-googles-vector-search-technology)
 
 # Summary, Summarize
 * [Automatic summarization](https://en.wikipedia.org/wiki/Automatic_summarization)
