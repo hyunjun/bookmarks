@@ -704,6 +704,7 @@ Deep Learning
 * [How to Train Really Large Models on Many GPUs?](https://lilianweng.github.io/lil-log/2021/09/24/train-large-neural-networks.html)
 * [딥러닝 가속기가 이끄는 반도체 시장의 미래 | GeekNews](https://news.hada.io/topic?id=5120)
 * [How Long Does It Take Ordinary People To "Get Good" At Chess?](https://github.com/jcw024/lichess_database_ETL/blob/main/README.md)
+* [EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING](https://rockt.github.io/2018/04/30/einsum)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1467,6 +1468,7 @@ Deep Learning
 * [Bayesian Optimization 개요: 딥러닝 모델의 효과적인 hyperparameter 탐색 방법론 (1)](http://research.sualab.com/introduction/practice/2019/02/19/bayesian-optimization-overview-1.html)
 * [Bayesian Optimization 개요: 딥러닝 모델의 효과적인 hyperparameter 탐색 방법론 (2)](http://research.sualab.com/introduction/practice/2019/04/01/bayesian-optimization-overview-2.html)
 * [Data Pipeline Hyperparameter Optimization - Alex Quemy](https://www.youtube.com/watch?v=mmoYYACFX0c)
+* [Hyperparameter Definition | DeepAI](https://deepai.org/machine-learning-glossary-and-terms/hyperparameter)
 * [Derivation of LBFGS Part 1 - Newton’s Method | Dable Tech Blog](https://teamdable.github.io/techblog/Derivation-of-LBFGS-Part-1)
 * [Derivation of LBFGS Part 2 - SR1 Method | Dable Tech Blog](https://teamdable.github.io/techblog/Derivation-of-LBFGS-Part-2)
 * [Derivation of LBFGS Part 3 - BFGS Method | Dable Tech Blog](https://teamdable.github.io/techblog/Derivation-of-LBFGS-Part-3)
