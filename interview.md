@@ -397,6 +397,7 @@ Interview
     * [Follow 관계를 DB에서 설계하는 방법](https://developer88.tistory.com/328)
     * [Grokking the System Design Interview: How to Design a Social Network - YouTube](https://www.youtube.com/watch?v=CMlT1EouFYk)
     * [System Design Mock Interview: Design TikTok ft. Google TPM - YouTube](https://www.youtube.com/watch?v=Z-0g_aJL5Fw)
+    * [System Design TIK TOK | Instagram Reels | Youtube Shorts - YouTube](https://www.youtube.com/watch?v=OPo_FB35E04)
     * [**Analyzing Clubhouse for fun and profit – 0x90**](https://www.bpak.org/blog/2021/02/analyzing-clubhouse-for-fun-and-profit/) 시의적절한 클럽하우스 분석
       * [Analyzing Clubhouse for fun and profit | Theori](https://theori.io/research/korean/analyzing-clubhouse/)
       * [Agora - Clubhouse Is Just One Of The Possibilities (NASDAQ:API) | Seeking Alpha](https://seekingalpha.com/article/4403413-agora-clubhouse-is-just-one-of-possibilities)
