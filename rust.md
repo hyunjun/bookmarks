@@ -239,6 +239,8 @@
 * [Rust-TodoMVC](http://tcr.github.io/rust-todomvc/)
 * Rusty Machine
   * [Rusty Machine- Machine Learning in Rust](https://www.techleer.com/articles/349-rusty-machine-machine-learning-in-rust/)
+* [Slitter - a C- and Rust-callable slab allocator implemented primarily in Rust, with some C for performance or to avoid unstable Rust features](https://github.com/backtrace-labs/slitter)
+  * [Slitter: a slab allocator that trusts, but verifies - Paul Khuong: some Lisp](https://pvk.ca/Blog/2021/08/01/slitter-a-less-footgunny-slab-allocator/)
 * [snakeos: bootable x86 snake game in rust](https://github.com/trusch/snakeos)
 * [sqlx - The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite](https://github.com/launchbadge/sqlx)
 * [swcify](https://github.com/Shopify/swcify) wraps swc with a napi-rs package that implements custom transforms used by Shopify
