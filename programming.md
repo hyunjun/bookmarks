@@ -353,6 +353,7 @@ Programming
 * [사례를 기반으로 한 소프트웨어 엔지니어의 공부법](http://technical-leader.tistory.com/10)
 * [프로그래머를 위한 공부론.pdf](http://databaser.net/moniwiki/pds/Programming/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%A5%BC_%EC%9C%84%ED%95%9C_%EA%B3%B5%EB%B6%80%EB%A1%A0.pdf)
 * [How To Learn Stuff Quickly](https://www.joshwcomeau.com/blog/how-to-learn-stuff-quickly/#%2F%2F%2F%2F%2F%2F/)
+* [Why Tacit Knowledge is More Important Than Deliberate Practice - Commonplace - The Commoncog Blog](https://commoncog.com/blog/tacit-knowledge-is-a-real-thing/)
 * [동작하게 만들고, 제대로 만들고, 빠르게 만든다](http://jhrogue.blogspot.com/2019/01/b_19.html)
 * [카카오페이 QR 코드 리버스 엔지니어링](http://philosophical.one/posts/kakaopay-qrcode)
 * [How Google Software Engineers Work (coding & programming workflow)](https://www.youtube.com/watch?v=LnXk9XZjXbg)
@@ -2255,6 +2256,8 @@ Programming
 * [Where Should the Debugger Set a Breakpoint?](https://pernos.co/blog/function-prologues/)
 * [개발자 동무, 철의 장막 뒤에서 디버깅 하기 | edykim](https://edykim.com/ko/post/debugging-behind-the-iron-curtain/)
 * [Debugging memory corruption: who the hell writes “2” into my stack?! | Unity Blog](https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2)
+* [control-flag: A system to flag anomalous source code expressions by learning typical expressions from training data](https://github.com/IntelLabs/control-flag)
+  * [인텔, 기계학습 디버깅툴 ‘컨트롤플래그’ 오픈소스로 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20211025172937)
 * Ozcode [Debugging Solutions from Dev to Production - Ozcode](https://oz-code.com/)
   * [Advanced Techniques for Production Debugging - YouTube](https://www.youtube.com/watch?v=eghHZvffilA)
 
