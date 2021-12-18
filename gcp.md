@@ -131,6 +131,7 @@ Google Cloud Platform GCP
   * [조대협의 블로그 :: Vertex AI : 모델 학습 및 하이퍼 패러미터 튜닝](https://bcho.tistory.com/1384)
 * [클라우드 엔지니어 취업 고군 분투기 - YouTube](https://www.youtube.com/watch?v=rYL2CDmGof8)
   * [클라우드 엔지니어 취업 고군 분투기](https://www.slideshare.net/InfraEngineer/ss-250837818)
+* [구글 클라우드 앱시트 리뷰 | 머신러닝 모델까지 적용 가능한 노코드 앱 빌더 - ITWorld Korea](https://www.itworld.co.kr/news/217289)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
