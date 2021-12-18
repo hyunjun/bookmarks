@@ -19,6 +19,7 @@ Concurrency
 * [POSIX Threads Programming](https://computing.llnl.gov/tutorials/pthreads/)
 * [Fearless concurrency: how Clojure, Rust, Pony, Erlang and Dart let you achieve that. - Renato Athaydes](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/fearlessconcurrencyhowclojurerustponyerlanganddartletyouachievethat)
 * [프로그램, 바이너리, 프로세스, 스레드의 개념 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/process-thread/)
+* ["How to Think about Parallel Programming: Not!" - Guy L. Steele Jr. (Strange Loop 2010) - YouTube](https://www.youtube.com/watch?v=dPK6t7echuA)
 
 # Actor
 * [**The actor model in 10 minutes**](https://www.brianstorti.com/the-actor-model)
