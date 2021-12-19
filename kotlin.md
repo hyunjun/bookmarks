@@ -265,6 +265,8 @@
 # Library
 * [Kotlin, meet gRPC: a new open-source project for modern apps](https://cloud.google.com/blog/products/application-development/use-grpc-with-kotlin)
 * [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
+* [ΛRROW · GitHub](https://github.com/arrow-kt)
+  * [Functional programming in Kotlin with Arrow.kt - YouTube](https://www.youtube.com/watch?v=IDMmmrRhUvQ)
 * [Exposed: Kotlin SQL Framework](https://github.com/JetBrains/Exposed) an ORM framework for Kotlin
 * [FlameViewer - Tool for flamegraphs visualization](https://github.com/kornilova203/FlameViewer)
 * [GlideModelLoaderSample](https://github.com/Pluu/GlideModelLoaderSample)
