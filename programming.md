@@ -2033,10 +2033,11 @@ Programming
 * [Improving how we deploy GitHub - The GitHub Blog](https://github.blog/2021-01-25-improving-how-we-deploy-github/)
 * [LINE 오픈챗 서버 원클릭 릴리스 자동화 시스템 개발기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-openchat-server-release-automation/)
 * [CI/CD 자동화가 가져다 준 행복 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/ci-cd-automation/)
-* **[**실용주의 데브옵스 for MSA – tech.kakao.com](https://tech.kakao.com/2021/07/16/devops-for-msa/) GitOps, Argo CD 도입
+* [**실용주의 데브옵스 for MSA – tech.kakao.com**](https://tech.kakao.com/2021/07/16/devops-for-msa/) GitOps, Argo CD 도입
 * [CI/CD 파이프라인을 보호하는 6가지 모범 사례 - ITWorld Korea](https://www.itworld.co.kr/news/201624)
 * [Building a successful and sustainable CI/CD pipeline - YouTube](https://www.youtube.com/watch?v=9nIG-pFyQ_k) 지속적 통합/배포 파이프라인을 제대로 구축하려면 툴이 아닌 아키텍처와 프로세스에 집중해야 하고, 조직원들을 지속적으로 설득해나가야 한다
 * [Safe Updates of Client Applications at Netflix | by Netflix Technology Blog | Oct, 2021 | Netflix TechBlog](https://netflixtechblog.com/safe-updates-of-client-applications-at-netflix-1d01c71a930c)
+* [Continuous Delivery Pipelines: How to Build Better Software Faster • Dave Farley • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=MYVrLXKJp0Y)
 * CodeCov [Publishing Scala Code Coverage Results to CodeCov using Github Actions | by PJ Fanning | Oct, 2021 | Medium](https://medium.com/@pjfanning/publishing-scala-code-coverage-results-to-codecov-using-github-actions-3e73ea8056cb)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
