@@ -337,6 +337,7 @@ R
 * [Best Practices for Durable R Code | R-bloggers](https://www.r-bloggers.com/2021/09/best-practices-for-durable-r-code/)
 * [R을 사용해 아웃룩 이메일과 팀즈 메시지를 보내는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/216399)
 * [Faster matrix math in R on macOS // Mikhail Popov](https://mpopov.com/blog/2019/06/04/faster-matrix-math-in-r-on-macos/)
+* [**R로 프로덕션 개발 운영 환경 구축하기**](https://lumiamitie.github.io/data/r-for-production/)
 
 # API
 * [REX: Look around – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2229)
