@@ -297,6 +297,7 @@ C++
 * [Structure and Interpretation of Computer Programs: SICP - YouTube](https://www.youtube.com/watch?v=f7s8_PGpVT0)
 * [C++ Developer Learns Rust (aka Oxidizing C++ Skills For Fun and Profit) - YouTube](https://www.youtube.com/watch?v=q-hcqOa4ddU)
 * [C++ 20: Reaching for the Aims of C++ - YouTube](https://www.youtube.com/watch?v=TeduHyHdH3A)
+* [Type and Resource Safety in Modern C++ - YouTube](https://www.youtube.com/watch?v=802qonaapFc)
 
 # IDE
 * CLion
