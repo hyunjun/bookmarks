@@ -671,6 +671,7 @@ Programming
   * [아마존 역사에서 가장 중요한 제프베조스의 2002년 사내 메일 | GeekNews](https://news.hada.io/topic?id=638)
 * [Using API-First Development and API Mocking to Break Critical Path Dependencies](https://www.infoq.com/articles/api-mocking-break-dependencies/)
 * [API Design Best Practice | Better Programming](https://betterprogramming.pub/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9)
+* [EP02: Basics of API, Authorization, Authentication and integration - YouTube](https://www.youtube.com/watch?v=JLKIRBkG1N4)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
   * [CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=4662)
