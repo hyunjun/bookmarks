@@ -219,6 +219,7 @@ Interview
   * [3. Extramile: 코딩 테스트에 담은 생각](https://hiddenest.dev/good-tech-interview-3)
   * [4. 면접이 끝나고 난 뒤](https://hiddenest.dev/good-tech-interview-4)
 * [Don’t Do Interviews, Do Discussions! - by Mayank Verma - Thinking Through](https://thinkingthrough.substack.com/p/dont-do-interviews-do-discussions)
+* [2021 하반기 네이버 신입 공채 후기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/12/19/Review-of-NAVER-recruitment.html)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
