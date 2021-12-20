@@ -174,6 +174,7 @@ Flutter
   * [Flutter 개발자는 무조건 알아야 하는 GetX #1-Navigation - YouTube](https://www.youtube.com/watch?v=wgJItCEL7hk)
   * [GetX 상태관리 이 영상 하나면 끝! #2 - State Management - YouTube](https://www.youtube.com/watch?v=CoFLunStYdU)
   * [상태, 네비게이션, 의존성 관리를 위한 GetX](https://blog.naver.com/pjt3591oo/222596875295)
+  * [http 통신을 위한 GetX - GetConnect](https://blog.naver.com/pjt3591oo/222599743256)
 * [flutter-folio: A platform adaptive Flutter app for desktop, mobile, and web](https://github.com/gskinnerTeam/flutter-folio)
   * [Flutter Folio: A platform adaptive Flutter app for desktop, mobile, and web](https://flutter.gskinner.com/)
 * Retrofit
