@@ -968,6 +968,7 @@ Docker
   * 처음에는 etcd에서 성능 저하 발생, 이는 Fluentd와 Datadog의 문제였고 이는 해결했지만 Events API를 ectd 클러스터와 분리하는 것을 추천
   * OpenAI의 특성상 작업을 한곳에 모으려고 kube-scheduler를 수정해서 작업이 한곳에 모였지만 노드에 집중되어서 발생한 문제가 발생
   * 특정 Docker 이미지가 너무 큰 문제로 다른 이미지까지 지연되는 --serialize-image-pulls 설정 문제 등도 알게 됨
+* [Kubernetes 운영을 위한 etcd 기본 동작 원리의 이해 – tech.kakao.com](https://tech.kakao.com/2021/12/20/kubernetes-etcd/)
 * [How to learn and practice more in Kubernetes Network Policy for CKx exams and EKS ? - DEV Community](https://dev.to/aws-builders/how-to-learn-and-practice-more-in-kubernetes-network-policy-for-ckx-exams-and-eks--4cgn)
 * [Kubernetes and Networks - why is this so dang hard? - Speaker Deck](https://speakerdeck.com/thockin/kubernetes-and-networks-why-is-this-so-dang-hard)
 * [Why (and when) you should use Kubernetes](https://hackernoon.com/why-and-when-you-should-use-kubernetes-8b50915d97d8)
