@@ -831,6 +831,8 @@ Web
   * [picoapi: An opinionated wrapper around FastAPI with custom microservice registration](https://github.com/schlerp/picoapi)
     * [PicoAPI: FastAPI for microservices? | by Patrick Coffey | Towards Data Science](https://towardsdatascience.com/picoapi-fastapi-for-microservices-1e0770b747a2)
   * [shopping-mall](https://github.com/jybaek/shopping-mall) basic 예제 + uvicorn
+* [fastwsgi: An ultra fast WSGI server for Python 3](https://github.com/jamesroberts/fastwsgi)
+  * [FastWSGI : 네이버 블로그](https://blog.naver.com/vwjdalsgkv/222599564643)
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
 * [Lektor - Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app](https://github.com/lektor/lektor)
 * mod_wsgi
