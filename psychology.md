@@ -39,6 +39,7 @@ Psychology
   * 본인이 좋아하는 시간, 공간 만들기
 * [혹독한 조언이 나를 살릴까?](http://agile.egloos.com/5931859)
 * [CEO 심리학 행복한 사람과 목적없는 대화…스트레스 피하는 최고의 방법 - 매일경제](https://www.mk.co.kr/news/business/view/2019/11/941310/)
+* [거절하기](https://www.thestartupbible.com/2021/12/saying-no-is-the-best-stress-management-technique.html) 번아웃을 피하는 방법
 * [완벽을 추구하기보단, 차라리 대충 시작할 것 | ㅍㅍㅅㅅ](https://ppss.kr/archives/237885)
 * [정신과 의사가 말하는 유독 예민한 사람들의 네가지 특징 - NBA Mania](https://mania.kr/g2/bbs/board.php?bo_table=freetalk&wr_id=4900623)
 * [욕망의 두 형태에 대한 대화](https://brunch.co.kr/@graypool/84)
