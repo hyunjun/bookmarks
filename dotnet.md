@@ -90,6 +90,7 @@
 * [.NET 6 vs .NET 5: up to 40% speedup! | by Alex Yakunin | Nov, 2021 | Medium](https://alexyakunin.medium.com/net-6-vs-net-5-up-to-40-speedup-ceca9112d298)
 * [Easy Validation in .Net6. You have o implement a custom way to… | by Bernardo Teixeira | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/easy-validation-in-net6-7bb33ad4b6b3)
 * [Multi-Language with .Net 6. You need to define which language you… | by Bernardo Teixeira | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/multi-language-with-net-6-3dd214ea01fb)
+* [Swagger with Bearer Token .Net6. Swagger is a language-agnostic… | by Bernardo Teixeira | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/swagger-with-bearer-token-net6-b4ca5a8274b1)
 
 # Book
 * [더북(TheBook): ASP.NET & Core를 다루는 기술](https://thebook.io/006824/)
