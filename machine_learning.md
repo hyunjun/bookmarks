@@ -1326,6 +1326,7 @@ Machine Learning
 * [Orange - Open source machine learning and data visualization for novice and expert. Interactive data analysis workflows with a large toolbox](https://orange.biolab.si/)
   * [Orange3 지도학습 - 생활코딩](https://opentutorials.org/course/4569)
   * [Orange3](https://opentutorials.org/module/4967)
+  * [Orange3 안에서 Python & Pandas 사용하기 - YouTube](https://www.youtube.com/watch?v=WIpXjooFNOc)
 * [PHOTONAI](https://www.photon-ai.com/)
   * [21 Techniques to Write Better Code - The Startup - Medium](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
 * [PyCaret - an open source, low-code machine learning library](https://pycaret.org/)
