@@ -3611,6 +3611,7 @@ Javascript
 * [Storybook 입문 가이드](https://hyunseob.github.io/2018/01/08/storybook-beginners-guide/)
   * [Zero-config Storybook. Simple setup, instant productivity | by Michael Shilman | Storybook | Jul, 2020 | Medium](https://medium.com/storybookjs/zero-config-storybook-66e7c4798e5d)
   * [Yarn2, Storybook, Sass 조합기](https://velog.io/@juunini/Yarn2-Storybook-Sass-%EC%A1%B0%ED%95%A9%EA%B8%B0)
+  * [스토리북을 이용한 컴포넌트 제작](https://saramin.github.io/2021-12-21-connect/)
 * [Structor- user interface builder for ReactJS](http://helmetrex.com/)
 * [ui.devsisters.com](https://ui.devsisters.com/) 데브시스터즈 리액트 컴포넌트
 * [use-color: The powerful color hook that all designers deserve. ✨ Parse and stringify that just works & 🦾 Strict type checking at compile time](https://github.com/junhoyeo/use-color)
