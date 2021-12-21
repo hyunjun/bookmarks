@@ -574,6 +574,7 @@ App
   * [javascript - Parse JSON Array in Postman - Stack Overflow](https://stackoverflow.com/questions/58896047/parse-json-array-in-postman)
   * [Postman Tutorial Part 35 – Extracting Value From JSON Array Response in Postman – JSON Array Parsing in Postman - Make Selenium Easy](http://makeseleniumeasy.com/2019/08/24/postman-tutorial-part-35-extracting-value-from-json-array-response-in-postman-json-array-parsing-in-postman/)
   * [Testing your APIs with Postman and Newman - YouTube](https://www.youtube.com/watch?v=fTtA9qXkNAk)
+  * [Postman Mock Server로 팀 프로젝트의 개발 속도와 갈등을 개선하기](https://velog.io/@couchcoding/Postman-Mock-Server%EB%A1%9C-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EA%B0%9C%EB%B0%9C-%EC%86%8D%EB%8F%84%EC%99%80-%EA%B0%88%EB%93%B1%EC%9D%84-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
 * [postwoman.io](https://postwoman.io/)
 * RestLet_Client [REST API 테스트를 위한 유용한 툴(Chrome Extension : RestLet_Client)](https://www.linkedin.com/pulse/rest-api-%25ED%2585%258C%25EC%258A%25A4%25ED%258A%25B8%25EB%25A5%25BC-%25EC%259C%2584%25ED%2595%259C-%25EC%259C%25A0%25EC%259A%25A9%25ED%2595%259C-%25ED%2588%25B4chrome-extension-restletclient-jun-hee-shin/)
 * [wuzz - Interactive cli tool for HTTP inspection](https://github.com/asciimoo/wuzz)
