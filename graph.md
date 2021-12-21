@@ -247,6 +247,7 @@ Graph
 * [Graph - A thread-safe implementation of a graph data structure in Go](https://github.com/sauerbraten/graph)
 * [Graph BLAS Forum](http://graphblas.org/)
   * [What is GraphBLAS?](http://aldenmath.com/what-is-graphblas/)
+  * [GraphBLAS: Building a C++ Matrix API for Graph Algorithms - YouTube](https://www.youtube.com/watch?v=odyPeZvPtFw)
 * [Graph Engine - SERVING BIG GRAPHS IN REAL-TIME](http://www.graphengine.io/) windows
   * [blogs.msdn.com/Graph Engine](http://blogs.msdn.com/b/graphengine/)
 * [Graphgenpy](http://konstantinosx.github.io/graphgen-project/)
