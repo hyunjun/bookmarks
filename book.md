@@ -141,6 +141,11 @@ Book
   * ★★★★☆ 2021.12.20 대략은 알고 있었지만 생각보다 훨씬 힘들었던 넬슨 만델라의 생애. 27년의 감옥생활은 정말 상상도 할 수가 없다. 풀려난 후에도 그 지난한 협상과 설득의 기록은 범인으로서는 도저히 따라갈 수 없는 정치력, 끈질김등을 조금이나마 느낄 수 있게 해준다
 * [데이터 스토리](https://jh4hj.tistory.com/entry/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8A%A4%ED%86%A0%EB%A6%AC)
   * [데이터 스토리. 제목만 보고 섣부르게 데이터 과학에 대한 이야기를 예상했지만, 책을… | by Jun | Dec, 2021 | Medium](https://nymets.medium.com/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%84%A4%EB%93%9D%EC%9D%98-%EA%B8%B0%EC%88%A0-1d69052b5fa6)
+* [앨런 튜링: 생각하는 기계, 인공지능을 처음 생각한 남자](https://www.itworld.co.kr/news/100542)
+  * ★★★☆☆ 2021.12.21 비극적인 천재의 전형이랄까. 2013년에 영국 왕실에서 사면을 했다고 하지만 그게 튜링에게 무슨 의미가 있을까. 마음이 좀 좋지 않았다
+* [스피노자 : 그래픽 평전 : 편집후기 사상보다 위대한 삶을 살았던 철학자를 만나다 : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=11237717&memberNo=16515656)
+  * [그래픽 평전 스피노자. 스피노자가 쓴 글은 신학처럼 보이지만 사실은 카모플라쥬(위장)입니다… | by Jun | Dec, 2021 | Medium](https://nymets.medium.com/%EA%B7%B8%EB%9E%98%ED%94%BD-%ED%8F%89%EC%A0%84-%EC%8A%A4%ED%94%BC%EB%85%B8%EC%9E%90-a1eaca6b71ef)
+  * ★★★★★ 2021.12.21
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
