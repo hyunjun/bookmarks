@@ -2205,6 +2205,7 @@ Programming
 * [현대적 보안 – 안드로메다 토끼](https://andromedarabbit.net/%ED%98%84%EB%8C%80%EC%A0%81-%EB%B3%B4%EC%95%88/)
 * [7 Cryptography Concepts EVERY Developer Should Know - YouTube](https://www.youtube.com/watch?v=NuyzuNBFWxQ)
 * [DDOS 대응 일지 – 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=4125)
+* [개발 1도 모르는 사업개발자 암호화 개발 도전기](https://groovy-metatarsal-492.notion.site/1-38d975736fc14fb19738aa4e7c4c3d5e)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
