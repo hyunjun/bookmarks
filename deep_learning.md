@@ -1376,6 +1376,7 @@ Deep Learning
 * [neural enhance - Super Resolution for images using deep learning](https://github.com/alexjc/neural-enhance)
 * [NN-SVG - Publication-ready NN-architecture schematics](http://alexlenail.me/NN-SVG/index.html) visualization
 * [NVDLA - Deep Learning Inference Compiler is Now Open Source](https://devblogs.nvidia.com/nvdla/)
+* [OSLO: Open Source framework for Large-scale transformer Optimization](https://github.com/tunib-ai/oslo)
 * [plaidML - A framework for making deep learning work everywhere](https://vertexai-plaidml.readthedocs-hosted.com/)
   * [PlaidML is a framework for making deep learning work everywhere. https://ai.intel.com/plaidml ](https://github.com/plaidml/plaidml)
 * [PlotNeuralNet - Latex code for drawing neural networks for reports and presentation](https://github.com/HarisIqbal88/PlotNeuralNet)
