@@ -1973,6 +1973,7 @@ Programming
     * [Scalable Multi Datacenter ID Generator for LINE's Messaging Application - Speaker Deck](https://speakerdeck.com/line_devday2021/scalable-multi-datacenter-id-generator-for-lines-messaging-application)
   * [LINE DEVELOPER DAY 2020 개최 후기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-developer-day-2020-report/)
   * [일본 LINE DEVELOPER DAY 2018 방문기](https://engineering.linecorp.com/ko/blog/line-developer-day-2018/)
+  * [LINE Developer Day 2021을 돌아보며 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-developer-day-2021-report/)
 * NDC
   * [2017 NDC 참관 후기](http://www.popit.kr/2017-ndc-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0/)
 * OKKYCON
