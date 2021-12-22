@@ -298,6 +298,7 @@ C++
 * [C++ Developer Learns Rust (aka Oxidizing C++ Skills For Fun and Profit) - YouTube](https://www.youtube.com/watch?v=q-hcqOa4ddU)
 * [C++ 20: Reaching for the Aims of C++ - YouTube](https://www.youtube.com/watch?v=TeduHyHdH3A)
 * [Type and Resource Safety in Modern C++ - YouTube](https://www.youtube.com/watch?v=802qonaapFc)
+* [Extending and Simplifying C++: Thoughts on Pattern Matching Using 'is' and 'as' - YouTube](https://www.youtube.com/watch?v=LAAN5qJ14mY)
 
 # IDE
 * CLion
@@ -331,7 +332,7 @@ C++
   * [two types of check sum calculation](https://gist.github.com/MareArts/5676517d8822edc7e00da7e74429cfcb#file-calchecksum-cpp)
 * ["cint" is a C/C++ interpreter which has following features](http://www.hanno.jp/gotom/Cint.html)
 * [Cling - C++ Kernel for Jupyter with Cling](https://github.com/minrk/clingkernel)
-* [Cling is an interactive C++ interpreter, built on the top of LLVM and Clang libraries](https://root.cern.ch/cling)
+  * [Cling is an interactive C++ interpreter, built on the top of LLVM and Clang libraries](https://root.cern.ch/cling)
 * [Conan - C/C++ package manager](https://www.conan.io/)
 * [command-interface: Add a command-line interface to any C++ program](https://github.com/empirical-soft/command-interface)
 * [CopperSpice - a C++ library derived from the existing Qt 4.8 framework](http://www.copperspice.com/)
