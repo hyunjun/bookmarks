@@ -1578,6 +1578,7 @@ NLP
 * [분석 DeepTitle : 한국어 기사 자동 요약](https://www.slideshare.net/BOAZbigdata/deeptitle)
 * [Natural Language Processing: A Road Map leading to Extractive Summarization | LinkedIn](https://www.linkedin.com/pulse/natural-language-processing-road-map-leading-extractive-summarization-/)
 * [summarizers: Package for controllable summarization](https://github.com/hyunwoongko/summarizers)
+* [text-summarization](https://github.com/Jay-Ppark/text-summarization)
 * [Text-Summarization-Repo: 텍스트 요약 관련 paper 및 관련 추천자료, data에 대한 정보를 축적해나가는 저장소입니다](https://github.com/uoneway/Text-Summarization-Repo)
 
 ## Summary, Summarize TextRank
