@@ -325,6 +325,7 @@ Git
   * 이제 새 직원이 와도 10초 만에 개발환경을 띄울 수 있게 되었고 VM의 리소스 한 줄만 바꾸면 모든 개발자가 더 좋은 컴퓨팅 환경에서 개발 가능
 * [공개된 GitHub Codespaces 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1565)
 * [Github Codespaces가 Backend.AI를 만났을 때 | Lablup Blog](https://blog.lablup.com/posts/2021/09/13/backend.ai-on-codespaces)
+* [GitHub Codespace 환경 개인화하기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1573)
 
 # Command
 * [**Git 팁 모음집 (https://github.com/git-tips/tips 한국어 버전)**](https://github.com/mingrammer/git-tips)
