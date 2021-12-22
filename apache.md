@@ -996,6 +996,7 @@ Apache
   * Apache Parquet로 직렬화하기 전에 데이터를 정렬하면 쿼리 성능이 크게 달라질 수 있음
   * 이 글에서는 그 이유를 설명하고 정렬할 column을 파악하는 방법에 대한 아이디어 제공
 * [**Parquet Internal Part 1. Google Dremel(1)**](https://medium.com/@leeyh0216/parquet-internal-part-1-google-dremel-1-3b95e1136a05)
+* [🌲Parquet(파케이)란? 컬럼기반 포맷 장점/구조/파일생성 및 열기](https://pearlluck.tistory.com/561)
 
 # Phoenix
 * [Phoenix](http://phoenix.apache.org/) High performance relational database layer over HBase for low latency applications
