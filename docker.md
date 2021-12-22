@@ -1283,6 +1283,8 @@ Docker
 * [kubectx: Faster way to switch between clusters and namespaces in kubectl](https://github.com/ahmetb/kubectx)
 * [kubectxon: Easy to check active-context in kubernetes thru the prompt](https://github.com/sysnet4admin/kubectxon)
 * [kubedoom: Kill Kubernetes pods by playing Id's DOOM!](https://github.com/storax/kubedoom)
+* [kubefarm: Automated Kubernetes deployment and the PXE-bootable servers farm](https://github.com/kvaps/kubefarm)
+  * [Kubernetes-in-Kubernetes and the WEDOS PXE bootable server farm | Kubernetes](https://kubernetes.io/blog/2021/12/22/kubernetes-in-kubernetes-and-pxe-bootable-server-farm/)
 * Kubeflow
   * [Introducing Kubeflow - A Composable, Portable, Scalable ML Stack Built for Kubernetes](http://blog.kubernetes.io/2017/12/introducing-kubeflow-composable.html)
   * Kubeflow는 Kubernetes에서 ML 스택의 사용을 쉽고 빠르며 확장 할 수 있도록 능률화하기 위해 Github에서 호스팅되는 새로운 오픈소스 프로젝트
