@@ -767,6 +767,7 @@ Programming Books
 * (NOT YET) [코드로 배우는 인공지능 - 개발자의, 개발자에 의한, 개발자를 위한 AI 도서](https://jpub.tistory.com/1214)
 * (NOT YET) [파이썬 머신러닝 실무테크닉 100 - 머신러닝 실무를 지원하는 100가지 무기!](https://jpub.tistory.com/1218)
 * (NOT YET) [생활코딩 머신러닝 with 파이썬 텐서플로(실습편) | 위키북스](https://wikibook.co.kr/tf/)
+* (NOT YET) [파이썬으로 완성하는 비지도 학습 알고리즘](https://bjpublic.tistory.com/428)
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
