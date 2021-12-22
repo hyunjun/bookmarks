@@ -675,6 +675,8 @@ App
         * [tool VSCode 디버그 시각화 확장 .. : 네이버블로그](https://blog.naver.com/pjt3591oo/222093736134)
       * [vscode-realtime-debugging - An extension for VS Code that visualizes how a program is being executed in real time](https://github.com/hediet/vscode-realtime-debugging)
     * [Dendron](https://www.dendron.so/)
+      * [Dendron Onboarding Session - YouTube](https://www.youtube.com/watch?v=3io2fHRmZsE)
+      * [A Day in Dendron - YouTube](https://www.youtube.com/watch?v=1mXGyG9ikD4)
       * [Note taking inside of VS Code - YouTube](https://www.youtube.com/watch?v=dW6m4_O0qvQ)
     * Docker
       * [Visual Studio Code Docker extension 1.0 – Better than Ever!](https://devblogs.microsoft.com/visualstudio/visual-studio-code-docker-extension-1-0-better-than-ever/)
