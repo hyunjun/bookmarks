@@ -2561,6 +2561,7 @@ Python
   * [파이썬 웹 개발 #1, flask, flask-sqlalchemy, todolist - YouTube](https://www.youtube.com/watch?v=zJQPXBUhvDA)
   * [파이썬 웹 개발 #2, flask, flask-sqlalchemy, todolist - YouTube](https://www.youtube.com/watch?v=uXCV35ruo50)
   * [Intro to Postgres JSON Columns in Flask-SQLAlchemy - YouTube](https://www.youtube.com/watch?v=Nm1FPcsPnWg)
+  * [Querying With Dates in Flask-SQLAlchemy - YouTube](https://www.youtube.com/watch?v=yDuuYAPCeoU)
 * [flask-sqlacodegen - 기존 DB를 Flask-SQLAlchemy ORM Model로 사용하기](https://beomi.github.io/2017/10/20/DB-To-SQLAlchemy-Model/)
 * [Flask-Validation](https://github.com/callsign-viper/Flask-Validation)
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
