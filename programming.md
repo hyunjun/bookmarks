@@ -1551,6 +1551,7 @@ Programming
 * [Software Engineering Course (SWEBOK) | IEEE Computer Society](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 * [Values and objects in programming languages : MacLennan, Bruce J. : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/valuesobjectsinp00macl/mode/2up)
 * [ZLibrary Part of Z-Library project. The world's largest ebook library](https://b-ok.cc/)
+* [32 Book Recommendations for the Holidays • Various Speakers • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Pg698WXPtYw)
 
 # Build Compile
 * [Memory Map과 Symbol 이야기](http://recipes.egloos.com/5009181)
