@@ -2463,6 +2463,7 @@ Programming
 * [THE OPENMESSAGING BENCHMARK FRAMEWORK](http://openmessaging.cloud/docs/benchmarks/)
 * [Batch processing best practices - Vlad Mihalcea](https://vladmihalcea.com/scheduled-jobs-best-practices/)
 * [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)
+* [카카오 개발자들을 위한 공용 Message Streaming Platform – Kafka & RabbitMQ – tech.kakao.com](https://tech.kakao.com/2021/12/23/kafka-rabbitmq/)
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
