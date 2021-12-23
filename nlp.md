@@ -343,6 +343,7 @@ NLP
 * [Selecting optimal subsets of Amazon Reviews & Large Scale Data Pipeline for Scraping Amazon Reviews - YouTube](https://www.youtube.com/watch?v=Ya-zq61XxCg)
 * [Boost Customer Experience With NLP | LinkedIn](https://www.linkedin.com/pulse/boost-customer-experience-nlp-ram-narasimhan/) 기술적인 이야기가 아니라 NLP로 product의 가치를 높이는 이야기
 * ["언어학자는 초거대 AI 개발 비용 줄이는 법을 알고 있다"...서울대 박진호 교수 인터뷰 - AI타임스](https://www.aitimes.com/news/articleView.html?idxno=141369)
+* [essay-grading-hackathon: 🥇1st solution 에세이 글 데이터 인공지능 학습용 데이터 해커톤](https://github.com/quarter-100/essay-grading-hackathon)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
