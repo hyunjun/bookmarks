@@ -1199,6 +1199,7 @@ Machine Learning
 * [MLOps And Machine Learning Roadmap - KDnuggets](https://www.kdnuggets.com/2021/08/mlops-machine-learning-roadmap.html)
 * [커피고래가 생각하는 MLOps | 커피고래의 노트](https://coffeewhale.com/what-is-mlops)
 * [하나의 코드 베이스 & 파이프라인으로 여러 도메인에 “코드 수정 없이” AI 모델들을 배포할 수 있을까. 박중배 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=XDzMK5NoiLQ)
+* [Welcome to MLOps for ALL! - 모두의 MLOps](https://mlops-for-all.github.io/docs/prologue/welcome/)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
 * [MadeWithML: Learn how to responsibly deliver value with ML](https://github.com/GokuMohandas/MadeWithML)
 * **[MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
