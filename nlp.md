@@ -1111,6 +1111,8 @@ NLP
   * [지능형 한국어 형태소 분석기 0.4버전 업데이트](http://bab2min.tistory.com/580)
   * [kiwigo: https://github.com/bab2min/Kiwi for go](https://github.com/codingpot/kiwigo)
     * [kiwigo - 한글 형태소 분석기인 kiwi의 go binding | GeekNews](https://news.hada.io/topic?id=5292)
+  * [kiwipiepy: Python API for Kiwi](https://github.com/bab2min/kiwipiepy)
+    * [Kiwi로 한국어 문장 분리하기](https://bab2min.tistory.com/669)
 * [knwl - A Javascript Natural Language Parser](http://loadfive.com/os/knwl/)
 * [KoalaNLP = Korean + Scala + NLP. 한국어 형태소 및 구문 분석기의 모음입니다](https://github.com/nearbydelta/KoalaNLP)
 * [KoParadigm: Korean Inflectional Paradigm Generator](https://github.com/Kyubyong/paradigm)
