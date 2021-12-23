@@ -128,6 +128,7 @@ Javascript
 * [바닐라 자바스크립트로 5분만에 모달창 만들기 (Vanilla JS Rocks : making pop up screen in 5 min)](https://www.youtube.com/watch?v=V08wXKHF_Xw)
 * [바닐라 자바스크립트로 "캐러셀 슬라이더" 만들기 (Vanilla JS : making Carousel slider)](https://www.youtube.com/watch?v=l18HCZqBs6I)
 * [Build a Weather App with Vanilla Javascript | Javascript Project for Beginners - YouTube](https://www.youtube.com/watch?v=s_Ie_yh_4Co)
+* [case7: Vanilla 코드 - Devil Test - 데빌 스튜디오](https://dev-il-studio.postype.com/post/11398219)
 * [5 projects to master Front End Development - DEV Community](https://dev.to/ruppysuppy/5-projects-to-master-front-end-development-57p)
 * [15+ Free JavaScript Projects to Boost Resume (2021) | Crio.Do](https://www.crio.do/projects/category/javascript-projects)
 * [10 JavaScript Projects in 1 Hour - Coding Challenge 🔥 - YouTube](https://www.youtube.com/watch?v=8GPPJpiLqHk)
