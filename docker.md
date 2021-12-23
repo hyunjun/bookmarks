@@ -388,6 +388,7 @@ Docker
   * LinuxContainerExecutor를 통해 Docker 컨테이터를 실행하는 YARN에 대한 이야기
 * [Docker](https://www.fullstackpython.com/docker.html)
 * [Build and Deploy a Python Web App on Docker](https://www.distelli.com/docs/tutorials/build-and-deploy-python-with-docker/)
+* [Episode 3 — Containerizing a Python/Django App | by Francisco Betancourt | Nov, 2021 | Medium](https://medium.com/@betancourt.francisco/episode-3-containerizing-a-python-django-app-5cd952bea204)
 * bash/shell script
   * [bash](https://docs.docker.com/samples/library/bash/)
   * [Docker with shell script or Makefile](https://ypereirareis.github.io/blog/2015/05/04/docker-with-shell-script-or-makefile/)
