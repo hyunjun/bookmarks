@@ -1623,6 +1623,7 @@ NLP
 * [비슷한 명령어 추천은 어떻게 하는걸까? – ~/xo.dev –](https://xo.dev/hacking-command-recommendation/) Levenshtein
 * [facebook 맞춤법 검사기 봇](https://www.facebook.com/groups/botgroup/permalink/504923836371451/)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
+  * [파이썬 네이버 맞춤법 검사 API, Py-hanspell](https://blog.naver.com/dsz08082/222317249656)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)
