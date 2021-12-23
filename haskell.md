@@ -64,6 +64,7 @@ Haskell
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)
 * [From Lenses to Yoneda Embedding](http://bartoszmilewski.com/2015/07/13/from-lenses-to-yoneda-embedding/)
 * [Haskell - Generating lenses for third party libraries](https://dev.to/piq9117/haskell-generating-lenses-for-third-party-libraries-1oik)
+* [Haskell Lenses From Scratch - YouTube](https://www.youtube.com/watch?v=3kduOmZ2Wxw)
 * [Thoughts on Conduits](http://neilmitchell.blogspot.kr/2015/07/thoughts-on-conduits.html)
 * [Fast Nearest Neighbor Queries in Haskell](https://izbicki.me/blog/fast-nearest-neighbor-queries-in-haskell.html)
 * [Summer 2015 Haskell Class](https://github.com/michaelochurch/summer-2015-haskell-class)
