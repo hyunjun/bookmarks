@@ -146,6 +146,8 @@ Book
 * [스피노자 : 그래픽 평전 : 편집후기 사상보다 위대한 삶을 살았던 철학자를 만나다 : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=11237717&memberNo=16515656)
   * [그래픽 평전 스피노자. 스피노자가 쓴 글은 신학처럼 보이지만 사실은 카모플라쥬(위장)입니다… | by Jun | Dec, 2021 | Medium](https://nymets.medium.com/%EA%B7%B8%EB%9E%98%ED%94%BD-%ED%8F%89%EC%A0%84-%EC%8A%A4%ED%94%BC%EB%85%B8%EC%9E%90-a1eaca6b71ef)
   * ★★★★★ 2021.12.21
+* 닐스 보어:20세기 양자역학의 역사를 연 천재, 푸른지식
+  * ★★★☆☆ 2021.12.23 그래도 웬만한 책은 검색해보면 짧게나마 쓴 블로그가 있는데 양자역학이라 그런 건지 정말 검색해도 나오는 게 없음
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
