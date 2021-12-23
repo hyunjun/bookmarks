@@ -221,6 +221,7 @@ Bitcoin
 * [Cool Cats NFT를 구축하면서 배운 것 | 요즘IT](https://yozm.wishket.com/magazine/detail/1196/%EC%9C%A0%ED%95%98%EB%A0%A4/)
 * [NFT 초보자를 위한 Super Urban People(SUP) 가이드 | by easyto.eth | Dec, 2021 | Medium](https://medium.com/@easyto/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-super-urban-people-sup-nft-%EA%B0%80%EC%9D%B4%EB%93%9C-21251b029a4c)
 * [NFT가 궁금한 당신을 위한 꼼꼼 가이드 | GeekNews](https://news.hada.io/topic?id=5531)
+* [“NFT, 잘 모르겠지만 일단 한번 팔아 봤습니다.” | 요즘IT](https://yozm.wishket.com/magazine/detail/1229/)
 
 # Python
 * [A peek under Bitcoin's hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
