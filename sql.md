@@ -633,6 +633,7 @@ SQL
 * [MySQL document store 초간단 테스트 | gywndi's database](https://gywn.net/2021/07/mysql-document-store-test/)
 * [Build a Python Web Scraper + Advanced MySQL Queries](https://arctype.com/blog/mysql-advanced-queries/)
 * [How to Connect A GraphQL API and A MySQL Database in Your GraphQL Layer | StepZen blog](https://stepzen.com/blog/connect-a-mysql-db-and-graphql-api-in-a-gql-layer)
+* [번역 MySQL의 ENUM 타입을 사용하지 말아야 할 8가지 이유](https://velog.io/@leejh3224/%EB%B2%88%EC%97%AD-MySQL%EC%9D%98-ENUM-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-8%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
