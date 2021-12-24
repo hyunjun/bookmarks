@@ -1046,6 +1046,7 @@ Programming
 * [Simplifying Dealing with Legacy Systems | by Ibrahim Alraigi | Nov, 2021 | Medium](https://medium.com/@ibra7am/simplifying-dealing-with-legacy-systems-ed29758f69f7)
 * [Data-Oriented Architecture | Eyas's Blog](https://blog.eyas.sh/2020/03/data-oriented-architecture/)
 * [복잡성이 SW 개발자를 죽인다··· '패러다임의 전환' 올까? - CIO Korea](https://www.ciokorea.com/news/216564)
+* [The InfoQ Podcast: Software Architecture and Design InfoQ Trends Report—April 2021](https://www.infoq.com/podcasts/architecture-design-trends-report/)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
