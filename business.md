@@ -978,6 +978,7 @@ Business
 * [지키는 자와 뺏는 자](https://www.thestartupbible.com/2021/09/some-thoughts-on-offense-and-defense.html)
 * [Guy Kawasaki "The Art of the Start" @ TiECon 2006 - YouTube](https://www.youtube.com/watch?v=jSlwuafyUUo) 다 알아듣기는 힘들지만 유쾌하게 entrepreneurship에 대해 설명
 * [토스가 타다를 인수한 진짜 이유를 공개합니다](https://blog.toss.im/article/outside-the-box)
+* [토스가 타다를 왜 인수할까? II](https://brunch.co.kr/@graypool/244)
 * [회색분자의 SW창작 놀이터 :: '스타트업' 카테고리의 글 목록](https://greypencil.tistory.com/category/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85)
 * [k-startups: List of tech startups in South Korea](https://github.com/sooftware/k-startups)
 
