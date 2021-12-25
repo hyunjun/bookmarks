@@ -178,4 +178,5 @@ Monitoring
     * 다음 릴리스인 Prometheus v2.32.0에 실험적인 --enable-feature=agent 플래그가 추가되고 에이전트 모드는 remote write에 맞게 Prometheus를 최적화
     * 에이전트 모드는 write가 성공하면 데이터를 즉시 지우기 때문에 효율적이고 ingestion의 수평적 확장 용이
     * 에이전트 모드로 Prometheus 기반 스크래핑의 자동확장 기능을 쉽게 적용 가능
+* [CNCF Prometheus Agent Could Be a ‘Game Changer’ for Edge – The New Stack](https://thenewstack.io/cncf-prometheus-agent-could-be-a-game-changer-for-edge/)
 * [What Is Prometheus and Why Is It So Popular? – CloudSavvy IT](https://www.cloudsavvyit.com/15124/what-is-prometheus-and-why-is-it-so-popular/)
