@@ -195,6 +195,7 @@ SQL
 * [Database Replication Explained. Part 1 — Single Leader Replication | by Zixuan Zhang | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/database-replication-explained-5c76a200d8f3)
 * [Database Replication Explained 2. Part 2— Multi Leader Replication | by Zixuan Zhang | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/database-replication-explained-10ff929bdf8a)
 * [Database Replication Explained 3. Part 3 -Leaderless Replication | by Zixuan Zhang | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/database-replication-explained-3-32d6deceeca7)
+* [How to optimize your SQL Database to handle millions of records — part 1 | by SianLoong | Medium](https://sianloong90.medium.com/how-to-optimise-your-sql-database-to-handle-million-records-part-1-748d68f2dee1)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
