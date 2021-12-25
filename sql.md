@@ -102,6 +102,7 @@ SQL
   * [(즐겁게 배우는 SQL #48) 트리거 - INSTEAD OF 트리거](https://jhrogue.blogspot.com/2021/02/sql-48-instead-of.html)
   * [(즐겁게 배우는 SQL #49) 윈도우 함수 - 윈도우 함수(1)](https://jhrogue.blogspot.com/2021/02/sql-49-1.html)
   * [(즐겁게 배우는 SQL #50) 윈도우 함수 - 윈도우 함수(2)](https://jhrogue.blogspot.com/2021/02/sql-50-2.html)
+* [The difference between WHERE and HAVING – SQL Bits](https://sql-bits.com/the-difference-between-where-and-having/)
 * [DB에 하지 말아야 할 겪은 일들](https://velog.io/@juunini/DB%EC%97%90-%ED%95%98%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-%EA%B2%AA%EC%9D%80-%EC%9D%BC%EB%93%A4)
 * [고독쓰나미 - YouTube](https://www.youtube.com/channel/UClUrjhtzmAJL-sgXe6sNUkw)
 * [Torturing Databases for Fun and Profit](https://www.usenix.org/conference/osdi14/technical-sessions/presentation/zheng_mai)
@@ -857,6 +858,8 @@ SQL
 * [Bringing Kafka based architecture to the next level using simple PostgreSQL tables | by Sixfold Tech Blog | Oct, 2021 | Medium](https://sixfold.medium.com/bringing-kafka-based-architecture-to-the-next-level-using-simple-postgresql-tables-415f1ff6076d)
 * [엔터프라이즈DB, ‘포스트그레SQL 14’ 발표··· "하이엔드 워크로드 지원" - CIO Korea](https://www.ciokorea.com/news/210274)
 * [Lesser Known PostgreSQL Features | Haki Benita](https://hakibenita.com/postgresql-unknown-features)
+* [Postgres HA: roles are dynamic](https://tapoueh.org/blog/2021/12/postgres-ha-roles-are-dynamic/)
+* [Postgres is a great pub/sub & job server](https://webapp.io/blog/postgres-is-the-answer/)
 * EdgeDB
   * [EdgeDB—The next generation database](https://edgedb.com/)
   * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
