@@ -133,6 +133,7 @@ Bitcoin
 * [문과생 개발자가 떠먹여주는 블록체인) E01-1 간단한 컨트렉트 짜보기 - YouTube](https://www.youtube.com/watch?v=piz1Qsmo4_Q)
 * [오라클 블록체인 아키텍처 살펴보기](https://jhrogue.blogspot.com/2021/11/blog-post.html)
 * [Solutions for Testing Blockchain: Private Blockchains, Permutations, and Shifting Left](https://www.infoq.com/articles/testing-blockchain-solutions/)
+* [Blockchain Node Providers and How They Work](https://www.infoq.com/articles/blockchain-as-a-service-get-block/)
 
 ## Blockchain Javascript
 * [Learn Blockchains by Building One](https://github.com/pjt3591oo/blockchain-javascript)
@@ -177,6 +178,7 @@ Bitcoin
 * [이더리움 2.0 정복하기 - YouTube](https://www.youtube.com/playlist?list=PLLDf3_vgzDhgVuQTdTZeVl69tAWMFIvIF)
 * [The Problem with Ethereum. How did Ethereum become a system that… | by Tomer Strolight | Aug, 2021 | Medium](https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95)
 * [ethereum solidity withdrawals pattern(출금패턴)](https://blog.naver.com/pjt3591oo/222594079769)
+* [Day 12 – A long journey to Ethereum signatures – Raku Advent Calendar](https://raku-advent.blog/2021/12/12/a-long-journey-to-ethereum-signatures/)
 * [fe: Emerging smart contract language for the Ethereum blockchain](https://github.com/ethereum/fe)
 * [PublicVotes - A publicly verifiable Voting System, powered by Smart Contracts](http://publicvotes.org/)
 * [truffle을 이용하여 스마트 컨트랙트 개발하기](https://blog.naver.com/pjt3591oo/222580257471)
@@ -219,6 +221,7 @@ Bitcoin
 * [초등학생도 이해하는 NFT 따라하기 - CoinDesk Korea 신뢰 그 이상의 가치](http://www.coindeskkorea.com/news/articleView.html?idxno=76262)
 * [NFT란?](https://wind-flow.github.io/Definition-NFT)
 * [Cool Cats NFT를 구축하면서 배운 것 | 요즘IT](https://yozm.wishket.com/magazine/detail/1196/%EC%9C%A0%ED%95%98%EB%A0%A4/)
+  * [Cool Cats NFT를 구축하면서 배운 것 | GeekNews](https://news.hada.io/topic?id=5536)
 * [NFT 초보자를 위한 Super Urban People(SUP) 가이드 | by easyto.eth | Dec, 2021 | Medium](https://medium.com/@easyto/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-super-urban-people-sup-nft-%EA%B0%80%EC%9D%B4%EB%93%9C-21251b029a4c)
 * [NFT가 궁금한 당신을 위한 꼼꼼 가이드 | GeekNews](https://news.hada.io/topic?id=5531)
 * [“NFT, 잘 모르겠지만 일단 한번 팔아 봤습니다.” | 요즘IT](https://yozm.wishket.com/magazine/detail/1229/)
