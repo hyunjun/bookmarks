@@ -746,6 +746,7 @@ Business
 * [CEO 명언 - 6 스타벅스 - 하워드 슐츠 : 네이버 블로그](https://blog.naver.com/help2000/222542003852)
 * [좋은 상사의 10가지 자질 줄리아 투자노트](https://news.v.daum.net/v/20211023073102521)
 * [팀워크 : 팀을 위기로 만드는 리더에게는 3가지 패턴이 있대요](https://blog.naver.com/collabee/222535977963)
+* [CEO 심리학 직원들의 잦은 실수는 기강해이가 원인 아니라 리더의 무례함 때문이다 - 매일경제](https://mk.co.kr/news/business/view/2021/12/1197544)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
