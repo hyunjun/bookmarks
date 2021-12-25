@@ -964,6 +964,7 @@ Apache
 * [How Apache Nifi works — surf on your dataflow, don’t drown in it](https://medium.com/free-code-camp/nifi-surf-on-your-dataflow-4f3343c50aa2)
 * [Processing one billion events per second with NiFi](https://blog.cloudera.com/benchmarking-nifi-performance-and-scalability/)
   * [Importing RDBMS Data Into Hive Using NiFi on CDP Public Cloud](https://www.youtube.com/watch?v=XsL63ZQYmLE)
+* [NiFi as a Function in DataFlow Service - Cloudera Blog](https://blog.cloudera.com/nifi-as-a-function-in-dataflow-service/)
 
 # Nutch
 * [Nutch](http://nutch.apache.org/)
