@@ -489,6 +489,7 @@ Javascript
   * CORS를 테스트할 수 있는 플레이그라운드 제공
 * [CORS에서 이기는 방법 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20211110)
 * [CORS - 황재영 · Present](https://present.do/shows/61480aeae3562505806fcde1)
+* [CORS는 왜 이렇게 우리를 힘들게 하는 걸까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1225/)
 * [Online VS Code IDE for Angular & React](https://stackblitz.com/)
 * [JavaScript는 잘못이 없다 정말로](https://medium.com/@pitzcarraldo/javascript%EB%8A%94-%EC%9E%98%EB%AA%BB%EC%9D%B4-%EC%97%86%EB%8B%A4-%EC%A0%95%EB%A7%90%EB%A1%9C-fb9b8e033b10?refer=%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%8A%A4%EB%9F%BD%EB%8B%A4)
 * [메모리 크래시가 일어나는 과정](http://hacks.mozilla.or.kr/2017/11/a-crash-course-in-memory-management/)
