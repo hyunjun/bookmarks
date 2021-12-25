@@ -331,6 +331,8 @@ Scala
 * [Retrying function calls in Scala](https://softwaremill.com/retrying-function-calls-in-scala/)
 * [Parsing character encoding-dependent protocols with scodec in Scala | In Absentia](https://hmemcpy.com/2021/11/parsing-encoding-dependent-protocols-with-scodec/)
 * [Sustainable Scala | The Scala Programming Language](https://www.scala-lang.org/blog/2021/12/14/sustainable-scala.html)
+* [Scala Chat: Hello Discord (So Long, Gitter) | The Scala Programming Language](https://www.scala-lang.org/blog/2021/12/21/discord.html)
+* [Precise Code Intelligence for Java, Scala, and Kotlin](https://about.sourcegraph.com/blog/java-scala-kotlin-code-intelligence/)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -499,12 +501,13 @@ Scala
 * [A case for akka-coordination lease | by Michał Ostruszka | Nov, 2020 | SoftwareMill Tech Blog](https://blog.softwaremill.com/a-case-for-akka-coordination-lease-4867887e4d7f)
 * [Akka Platform Guide :: Akka Platform Guide](https://developer.lightbend.com/docs/akka-platform-guide/index.html)
 * [Type safe, message driven, distributed - a whirlwind tour of Akka by Johan Andrén - YouTube](https://www.youtube.com/watch?v=o1iKDgq9Asg)
-* [Akka Serverless | @lightbend](https://www.lightbend.com/akka-serverless)
 * [Monitoring Akka applications with Mesmer and OpenTelemetry - Developer’s kit](https://scalac.io/blog/akka-monitoring-with-mesmer-and-opentelemetry/)
+* ["Akka Concurrency" Review & The Truth about #Actors & #Akka - YouTube](https://www.youtube.com/watch?v=TksUQhNqoo0)
 * Akka gRPC
   * [akka-grpc-sample-kubernetes-scala](https://github.com/akka/akka-grpc-sample-kubernetes-scala)
   * [Akka gRPC update delivers 1200% performance improvement (so what happened?) | Lightbend](https://www.lightbend.com/blog/akka-grpc-update-delivers-1200-percent-performance-improvement)
 * Akka-Persistence-Postgres [Why we need yet another Akka persistence plugin | by Marcin Kubala | SoftwareMill Tech Blog](https://blog.softwaremill.com/why-we-need-yet-another-akka-persistence-plugin-4e08993eb04e)
+* [Akka Serverless | @lightbend](https://www.lightbend.com/akka-serverless)
 * [Monix - Asynchronous Programming for Scala and Scala.js](https://monix.io)
   * [monix - Asynchronous, Reactive Programming for Scala and Scala.js](https://github.com/monix/monix)
   * [Correlation IDs in Scala using Monix](https://blog.softwaremill.com/correlation-ids-in-scala-using-monix-3aa11783db81)
@@ -670,6 +673,7 @@ Scala
     * [Scala Case Class and Case Object In-Depth (Part-1) - JournalDev](https://www.journaldev.com/9733/scala-caseclass-caseobject-part1)
     * [Scala Case Class and Case Object In-Depth (Part-2) - JournalDev](https://www.journaldev.com/12122/scala-caseclass-caseobject-part2)
     * [Singleton types and case class fields - `F[_]` around and find out #1 - YouTube](https://www.youtube.com/watch?v=xeB6-js0iNw)
+    * [Smart constructors for case classes | 47 Degrees](https://www.47deg.com/blog/smart-constructors-in-scala/)
   * [**스칼라 클래스의 일반적인 형식화**](https://blog.xxxnell.com/ko/posts/formalization)
 * collection
   * [practice - until & to](https://gist.github.com/hyunjun/3eddbf4ba54b1a603f38e52b78a9b0e6#file-until_to-scala)
@@ -774,6 +778,7 @@ Scala
   * [Understanding implicit in Scala](https://stackoverflow.com/questions/10375633/understanding-implicit-in-scala)
   * [Implicit Design Patterns in Scala](https://www.lihaoyi.com/post/ImplicitDesignPatternsinScala.html)
   * [Good example of implicit parameter in Scala? - Stack Overflow](https://stackoverflow.com/questions/9530893/good-example-of-implicit-parameter-in-scala)
+  * [Implicits for Hypothetical Babies - YouTube](https://www.youtube.com/watch?v=6tiPdV93Shw)
 * I/O
   * [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
   * [Towards a better API for I/O](https://medium.com/permutive/towards-a-better-api-for-i-o-35d385060a5c)
@@ -1378,6 +1383,8 @@ Scala
   * [kebab-case: No leftovers: Working with pulls in fs2- overview](https://blog.kebab-ca.se/chapters/fs2/overview.html)
 * [Fugue: Unifying Spark and Non-Spark Ecosystems for Big Data Analytics - YouTube](https://www.youtube.com/watch?v=BBd4b2pMk0c)
 * [Funnel - a distributed monitoring system based on a lightweight streaming protocol](https://verizon.github.io/funnel/)
+* [gallia-core/README.md at master · galliaproject/gallia-core · GitHub](https://github.com/galliaproject/gallia-core/blob/master/README.md)
+  * [Gallia: A Library for Data Transformation | by Anthony Cros | Dec, 2021 | Towards Data Science](https://towardsdatascience.com/gallia-a-library-for-data-transformation-3fafaaa2d8b9)
 * [graphql4s - Another GraphQL interpreter for Scala based on specification graphql/draft](https://github.com/joacovela16/graphql4s)
 * [Hamsters - A mini Scala utility library. Compatible with functional programming beginners. For the JVM and Scala.js](https://github.com/scala-hamsters/hamsters)
 * IxiaS [開発者はCTO衣笠。プロダクト共通のScalaのコア技術「IxiaS」をOSS化！](https://medium.com/nextbeat-engineering/%E9%96%8B%E7%99%BA%E8%80%85%E3%81%AFcto%E8%A1%A3%E7%AC%A0-%E3%83%97%E3%83%AD%E3%83%80%E3%82%AF%E3%83%88%E5%85%B1%E9%80%9A%E3%81%AEscala%E3%81%AE%E3%82%B3%E3%82%A2%E6%8A%80%E8%A1%93-ixias-%E3%82%92oss%E5%8C%96-3eb5c4ed66bf)
@@ -1877,6 +1884,7 @@ Scala
 * [Mirco Dotta—Crack Open Sbt and Master your Build Times - YouTube](https://www.youtube.com/watch?v=Mx_gQz8MTrI)
 * [현프 3-2 스칼라 패키지 관리자 sbt 고찰 : 클리앙](https://www.clien.net/service/board/cm_app/13709851)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=eb7eaOMlwGs) scala.jfro.io scala3
+* [My Dos and Donts in sbt Build Definitions](https://www.chris-kipp.io/blog/my-dos-and-donts-in-sbt-build-definitions)
 * [maven2sbt | maven2sbt](https://maven2sbt.kevinly.dev)
   * [#1 게릴라 방송 (2017-04-03)](https://www.youtube.com/watch?v=oaQ71Fm3q0U)
   * [#2 게릴라 방송 (2017-04-04)](https://www.youtube.com/watch?v=QjAOmX4Sj_4)
