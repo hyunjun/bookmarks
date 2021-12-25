@@ -191,6 +191,7 @@ App
   * [Wallpaper by Behance](http://macnews.tistory.com/2542)
 * [Webrecorder.io - a web archiving service to collect and revisit web pages](https://webrecorder.io/)
 * WeKan [Get started with Wekan, an open source kanban board](https://opensource.com/article/19/1/productivity-tool-wekan)
+* [wezterm - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
 * [WhatApp desktop](http://whatsapp-desktop.com/)
 * [wordsafety.com - Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
 * [Wormhole - Simple, private file sharing](https://wormhole.app/)
@@ -208,6 +209,7 @@ App
 
 # Backup
 * [The paranoid person's guide to a complete Mac backup](http://www.macworld.com/article/2855735/the-paranoid-persons-guide-to-a-complete-mac-backup.html)
+* [FreeFileSync: Open Source File Synchronization & Backup Software](https://freefilesync.org/)
 * [mackup - Keep your application settings in sync (OS X/Linux)](https://github.com/lra/mackup)
   * [Mackup으로 시스템 설정 파일(dotfiles) 백업하고 복원하기 | 44BITS](https://www.44bits.io/ko/post/managing-dotfiles-by-using-mackup)
 
@@ -448,6 +450,7 @@ App
 * [Strive](https://www.openstrive.org/)
   * [Strive - 오픈소스 화상 회의 플랫폼 | GeekNews](https://news.hada.io/topic?id=4524)
 * [wire](https://wire.com/) skype alternative
+* zoom [How to automatically close the Launch Meeting Zoom tab | Zapier](https://zapier.com/blog/automatically-close-the-launch-meeting-zoom-tab/)
 
 # Cowork
 * [Why you should ditch Email, and the way we should communicate at work](https://medium.freecodecamp.org/why-you-should-ditch-email-and-the-way-we-should-communicate-at-work-afd5d02652ce) 이메일 외의 communication app에 대한 이야기
@@ -906,6 +909,7 @@ App
 * [Hardening macOS - Ricard Bejarano](https://blog.bejarano.io/hardening-macos/)
 * [Xcode 파일청소로 맥 하드용량 확보 - dobiho on HCI](http://dobiho.com/7192/)
 * [macOS 안내서](https://subicura.com/mac/)
+* ['기본 앱에서 정답 찾기' 아이폰∙아이패드∙맥의 메모 앱 활용 팁 8가지 - ITWorld Korea](https://www.itworld.co.kr/news/219309)
 
 ## Mac App
 * [**practice - 최초 설치 후 install**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)
@@ -1002,6 +1006,7 @@ App
   * [NaSC](https://parnold-x.github.io/nasc/)
   * [Numi. Beautiful calculator app for Mac](https://numi.app/)
     * [Numi - 깔끔한 맥용 계산기 앱 | GeekNews](https://news.hada.io/topic?id=3981)
+  * [SpeedCrunch](http://speedcrunch.org/)
 * [Clipy: Clipboard extension app for macOS.](https://github.com/Clipy/Clipy)
 * [Coffeefy: 스타벅스 와이파이 자동 접속 애플리케이션](https://taegon.kim/archives/5720)
 * [Commander One Mac 무료 듀얼 패널 파일 관리자](http://mac.eltima.com/ko/file-manager.html)
@@ -1397,6 +1402,7 @@ App
 * [Jellyfin: The Free Software Media System](https://jellyfin.org/)
 * [Jitsi.org - develop and deploy full-featured video conferencing](https://jitsi.org/)
 * [jspaint](https://jspaint.app/) 마이크로소프트의 그림판을 자바스크립트로 만든 오픈소스 그림판
+* Kodi [Open Source Home Theater Software | Kodi](https://kodi.tv/)
 * [MoseoriTube](https://github.com/moseoridev/MoseoriTube) youtube downloader
   * [moseoritube.herokuapp.com](https://moseoritube.herokuapp.com/)
 * [mplayerx.org](http://mplayerx.org) 설치할 때 yahoo 관련 설치가 먼저 나오는데 skip할 것
