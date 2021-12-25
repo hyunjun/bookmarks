@@ -141,6 +141,7 @@ Azure
 * [Azure - VirtualWAN Part 2](https://zigispace.net/1070)
 * [Azure - VirtualWAN Part 3](https://zigispace.net/1090)
 * [Microsoft Introduces a Fully-Managed Azure Load Testing Service in Preview](https://www.infoq.com/news/2021/12/azure-load-testing-preview/)
+* [통합 데이터 거버넌스 솔루션 애저 Purview | 애저한발짝 - YouTube](https://www.youtube.com/watch?v=8zEwV0PakxY)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
