@@ -137,6 +137,7 @@ C#
 * Entity Framework Core
   * [리얼월드를 지탱하는 기술 #1 — Entity Framework Core ORM (소개편) | by 이예찬 | Uniquegood | Oct, 2021 | Medium](https://medium.com/uniquegood/%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C%EB%A5%BC-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-1-entity-framework-core-orm-%EC%86%8C%EA%B0%9C%ED%8E%B8-9af53bbbe9b1)
   * [리얼월드를 지탱하는 기술 #2 — Entity Framework Core ORM (활용편) | by 이예찬 | Uniquegood | Dec, 2021 | Medium](https://medium.com/uniquegood/%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C%EB%A5%BC-%EC%A7%80%ED%83%B1%ED%95%98%EB%8A%94-%EA%B8%B0%EC%88%A0-1-entity-framework-core-orm-%ED%99%9C%EC%9A%A9%ED%8E%B8-9f02476fa3d8)
+  * [MS, ‘엔티티 프레임워크 7.0’ 릴리즈 계획 공개 - CIO Korea](https://www.ciokorea.com/news/219069)
 * [Json.NET](https://www.newtonsoft.com/json)
   * [JSON.NET JObject - how do I get value from this nested JSON structure](https://stackoverflow.com/questions/40538001/json-net-jobject-how-do-i-get-value-from-this-nested-json-structure)
 * [NuGet - The landing page for NuGet's repositories](https://github.com/nuget/home)
