@@ -934,6 +934,7 @@ Business
 * [Otis](https://www.thestartupbible.com/2019/09/otis.html) [artbloc.io](https://artbloc.io)
 * [스타트업이 문제를 마주할 때, 가장 먼저 해야 할 질문](https://ppss.kr/archives/204662) Netflix의 The Canada Principle
 * [영화 〈머니볼〉을 통해 본 본질을 사고하는 법 3가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/219958) 정확한 문제 설정, 통제 가능한 옵션, 선택과 집중
+* [문제를 해결하기 위해 반드시 필요한 것](https://brunch.co.kr/@hyungsukkim/149)
 * [온라인 창업 아이디어 고르는 방법 — 업플라이 #Upfly](https://www.upfly.me/blog/how-to-find-business-idea/)
 * [내 사업이 망한 진짜 이유 — 업플라이 #Upfly](https://www.upfly.me/blog/startup-failure-example-analysis/)
 * [Startup Essentials 우아한형제들, 컬리](https://verticalplatform.kr/archives/10637)
