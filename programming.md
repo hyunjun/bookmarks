@@ -854,6 +854,7 @@ Programming
 * [How to Become a Great Software Architect • Eberhard Wolff • GOTO 2019 - YouTube](https://www.youtube.com/watch?v=v_nhv6aY1Kg)
 * [아키텍트에게 기대하는 8가지 - YouTube](https://www.youtube.com/watch?v=FbWHw6GBCrU) 아키텍처 결정, 지속적인 아키텍처 분석, 최신 트렌드 유지, 결정 사항 준수 확인, 다양한 경험, 도메인 지식, 대인 관계 기술, 정치
 * [How to "think" (and design) like a Software Architect at Silicon Valley Code Camp 2019 - YouTube](https://www.youtube.com/watch?v=mCM6QVHD08c)
+* [Don’t lose touch as a ‘Software Architect’ going into 2022 | by Ryan Susana | Dec, 2021 | Medium](https://medium.com/@ryansusana/dont-lose-touch-as-a-software-architect-going-into-2022-d481801cbb57)
 * [OpenFog Architecture Overview](http://uni2u.tistory.com/94)
 * Cache & CDN
   * [A beginner’s guide to Cache synchronization strategies](https://vladmihalcea.com/2015/04/20/a-beginners-guide-to-cache-synchronization-strategies/)
@@ -1776,6 +1777,8 @@ Programming
   * [코드클라이밋, 오픈소스 코드검사기 공개](http://www.bloter.net/archives/230705)
 * [codereview.stackexchange.com](http://codereview.stackexchange.com/)
 * [Paircast - Code Screencast Software](https://paircast.io/)
+* [PullRequest | Code Review as a Service](https://www.pullrequest.com/)
+  * [PullRequest - Code Review as a Service | GeekNews](https://news.hada.io/topic?id=5590)
 * [SAW - The Software Analysis Workbench](http://saw.galois.com/index.html)
 * [Semgrep](https://semgrep.dev/)
   * [Semgrep - 오픈소스 정적 코드 분석 도구 | GeekNews](https://news.hada.io/topic?id=4122)
