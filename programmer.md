@@ -101,6 +101,9 @@ Programmer
 * [인프런 수습 회고](https://jojoldu.tistory.com/612) 개발팀이 개발만 하면 망한다
 * [전설의 프로그래머 인류를 달에 보낼 수 있었던 마거릿 해밀턴의 코딩 능력](https://aedi.tistory.com/873)
 * [How I’ve hit 10k subs on my tech YouTube channel | by Takuya Matsuyama | Dev as Life](https://blog.inkdrop.app/how-ive-hit-10k-subs-on-my-tech-youtube-channel-a799520af1f4)
+* [What does a Principal Software Engineer do? | by Bobi | Dev Genius](https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28)
+  * [Principal(수석) 소프트웨어 엔지니어는 어떤 일을 하는가 | GeekNews](https://news.hada.io/topic?id=5557)
+* [What Happens To Developers Who Never Go Into Management? | WBS CODING SCHOOL](https://www.wbscodingschool.com/blog/what-happens-devs-never-management/)
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
