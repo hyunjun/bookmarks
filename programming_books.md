@@ -1729,6 +1729,8 @@ Programming Books
   * [Build apps that scale to billions](https://scaling-python.com/)
   * [practice - The Hacker's Guide to Scaling Python Programming](https://github.com/hyunjun/practice/tree/master/python/book-scaling-python)
 * [**파이썬 중급자를 위한 책 추천 – winterjung blog**](https://winterj.me/python-books-for-intermediate/)
+* [파이썬 비동기 라이브러리 Asyncio (케일럽 해팅 著, 동동구 譯, 2021)](https://jehyunlee.tistory.com/20)
+  * 비동기 관련한 역사부터 자세한 예제까지 자세히 볼 수 있는 좋은 책
 * (NOT YET) [파이썬 웹 스크래핑](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=107637296)
   * 2017.04 탐라
 * (NOT YET) [파이썬 라이브러리를 활용한 데이터 분석(2판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B6417848794)
@@ -1786,7 +1788,6 @@ Programming Books
   * [진지한 파이썬 (쥘리앵 당주 著, 김영하 譯, 2021)](https://jehyunlee.tistory.com/15)
 * (NOT YET) [효율적 개발로 이끄는 파이썬 실천 기술](https://jpub.tistory.com/1145)
   * [리뷰 효율적 개발로 이끄는 파이썬 실천 기술 · TheoryDB](https://theorydb.github.io/review/2021/04/29/review-book-python-pratice/)
-* (NOT YET) [파이썬 비동기 라이브러리 Asyncio (케일럽 해팅 著, 동동구 譯, 2021)](https://jehyunlee.tistory.com/20)
 * (NOT YET) [파이썬으로 살펴보는 아키텍처 패턴](https://jybaek.tistory.com/920)
 * (NOT YET) [파이썬 스킬 업 (브라이언 오버랜드, 존 베넷 著, 조인석 譯, 2021)](https://jehyunlee.tistory.com/23)
 * (NOT YET) [지루한 일을 해치우자, 《뚝딱뚝딱 파이썬 자동화》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/07/16/%EC%A7%80%EB%A3%A8%ED%95%9C-%EC%9D%BC%EC%9D%84-%ED%95%B4%EC%B9%98%EC%9A%B0%EC%9E%90-%E3%80%8A%EB%9A%9D%EB%94%B1%EB%9A%9D%EB%94%B1-%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EC%9E%90%EB%8F%99%ED%99%94%E3%80%8B/)
