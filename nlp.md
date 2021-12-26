@@ -453,6 +453,7 @@ NLP
   * [kobart-transformers: kobart on huggingface transformers](https://github.com/hyunwoongko/kobart-transformers)
 * [Korean ALBERT](https://github.com/MrBananaHuman/KalBert)
 * [KoreanCharacterBert - Korean BERT model using character tokenizer](https://github.com/MrBananaHuman/KoreanCharacterBert)
+* [ko-sentence-transformers: 한국어 BERT 모델을 sentence-transformers 라이브러리에서 활용](https://github.com/jhgan00/ko-sentence-transformers)
 * [KR-BERT-SimCSE: Implementing SimCSE using KR-BERT](https://github.com/jeongukjae/KR-BERT-SimCSE)
   * [SimCSE 리뷰 & KR-BERT 이용해서 구현해보기 – Jeong Ukjae](https://jeongukjae.github.io/posts/simcse-kr-bert/)
 * [MT-DNN Review](https://baekyeongmin.github.io/paper-review/mt-dnn/)
