@@ -324,6 +324,7 @@
 * [Rust Dublin October 2021 - Tonic + gRPC + Protobuf - YouTube](https://www.youtube.com/watch?v=jerrwr73cAE)
 * [What's Special About Rust - YouTube](https://www.youtube.com/watch?v=YxzGp33K088)
 * [Why Rust? - YouTube](https://www.youtube.com/watch?v=0VYJFx1C91g)
+* [Lecture: Rust vs. C Programming Languages - YouTube](https://www.youtube.com/watch?v=mmJiwscpB4o)
 * [rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
   * 버그 수정하며 Rust 언어 배우기
   * 에러가 있는 코드를 수정하면서 Rust를 읽고 쓰는법 배우기
