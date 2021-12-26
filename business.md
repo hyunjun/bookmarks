@@ -95,6 +95,7 @@ Business
 * [우리 조직 안의 ‘썩은 사과’ 해결하기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/248284)
 * [레거시 운영개발팀을 수습하다](https://greypencil.tistory.com/113) 팀 운영 이야기
 * [소속감을 돕는 조직 만들기와 미션 분배](https://brunch.co.kr/@graypool/145)
+* [Carefully Forming Teams to Begin Technology Modernization | by Nick Tune | Strategy, Architecture, Continuous Delivery, and DDD | Dec, 2021 | Medium](https://medium.com/nick-tune-tech-strategy-blog/carefully-forming-teams-to-begin-technology-modernization-f4aa3e776e1f)
 * [수요일엔 수요미식회, 금요일은 개발밋업회 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2021/11/01/socar-developer-meetup.html) 조직의 성장과 관련한 고민
 * [2년 동안 근무했던 회사를 떠나며](https://evan-moon.github.io/2019/08/17/leave-the-company/) 개발자 입장에서 팀원들로 인해 변화된 자신에 대한 이야기
 * [팀워크 · Soojin Ro](https://soojin.ro/blog/teamwork)
@@ -602,6 +603,7 @@ Business
 * [한비자가 제시한 사람의 마음을 읽는 5가지 방법](http://ppss.kr/archives/49067)
 * [조직의 변화가 어려운 4가지 이유](http://ppss.kr/archives/37765)
 * [“회사의 진정한 문화는 보상, 승진, 해고가 결정한다”-남태희](http://estimastory.com/2015/06/28/taeheanahm/)
+* [Why Don’t Tech Companies Pay Their Engineers to Stay? | by Matthew Dean | Marker](https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9)
 * [직원 900명을 줌으로 해고한 회사의 최후 - T Times](http://www.ttimes.co.kr/view.html?no=2021121717457753101)
 * [한킴 알토스벤처스 대표가 이야기하는 ‘리더십의 미래’](http://ppss.kr/archives/51689)
 * [나쁜 리더의 8가지 신호](http://ppss.kr/archives/51962)
@@ -747,6 +749,7 @@ Business
 * [좋은 상사의 10가지 자질 줄리아 투자노트](https://news.v.daum.net/v/20211023073102521)
 * [팀워크 : 팀을 위기로 만드는 리더에게는 3가지 패턴이 있대요](https://blog.naver.com/collabee/222535977963)
 * [CEO 심리학 직원들의 잦은 실수는 기강해이가 원인 아니라 리더의 무례함 때문이다 - 매일경제](https://mk.co.kr/news/business/view/2021/12/1197544)
+* [미공군의 팔로워십 육성 팁](https://hrbulletin.net/leadership/%EB%AF%B8%EA%B3%B5%EA%B5%B0%EC%9D%98-%ED%8C%94%EB%A1%9C%EC%9B%8C%EC%8B%AD-%EC%9C%A1%EC%84%B1-%ED%8C%81/) followship
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
