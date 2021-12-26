@@ -139,6 +139,7 @@ Hardware
 * [Building a tiny FORTH for an Arduino UNO in one week](https://www.thanassis.space/miniforth.html)
 * [아두이노를 이용한 계란을 잡는 2축 Parallel Gripper : 네이버 카페](https://cafe.naver.com/viktorrobotics/24)
 * [Three Ways To Read A PWM Signal With Arduino | BenRipley.com](http://www.benripley.com/diy/arduino/three-ways-to-read-a-pwm-signal-with-arduino/)
+* [EURK_Arduino: 한글 라이브러리 '어우러기' 아두이노 버전 1.0](https://github.com/sookmook/EURK_Arduino)
 * [Watchy - E-Paper Watch](https://www.tindie.com/products/sqfmi/watchy/#product-description)
   * ESP32 SoC, E-Paper 저전력 디스플레이, 아두이노 IDE로 직접 프로그래밍 가능한 오픈소스 워치키트
   * [Hack together your own e-paper smartwatch with this $50 open-source kit - The Verge](https://www.theverge.com/2021/1/13/22229985/customizable-epaper-smartwatch-kit-arduino)
@@ -324,6 +325,7 @@ Hardware
 * [Making an old USB printer support Apple AirPrint using a Raspberry Pi](https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html)
 * ['IT/라즈베리파이' 카테고리의 글 목록](https://www.sagein.net/category/IT/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4)
 * [ARM 서버와 라즈베리 파이를 이용한 온도 측정](https://naleejang.tistory.com/254)
+* [Easy-ISLisp on Raspberry PI 400 - YouTube](https://www.youtube.com/watch?v=NWbEwjE7boA)
 * [internet-pi: Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
 * [PiBox](https://pibox.io/)
   * [PiBox Mini - 라즈베리 Pi 스토리지 서버 | GeekNews](https://news.hada.io/topic?id=5507)
