@@ -542,6 +542,7 @@ AWS
   * [Amazon CTO 버너 보겔스의 2022년 이후 기술 예측 :: Channy's Blog](http://channy.creation.net/blog/1492)
   * [메가존클라우드가 들려주는 AWS re:Invent 2021 리얼 세션 후기 #1 | Megazone Cloud](https://www.megazone.com/techblog-reinvent2021-01/)
   * [버즈빌 CTO가 들려주는 AWS 리인벤트(re:Invent) 2021](https://tech.buzzvil.com/blog/reinvent-2021-zune/)
+  * [AWS re:Invent 주요 출시 소식 요약 전체 보기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/)
 * AWS Summit
   * [AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-)
     * [현대백화점 리테일테크랩과 AWS Prototyping 팀 개발자가 들려주는 인공 지능 무인 스토어 개발 여정::AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/watch?v=9lSObYSCS0c)
@@ -844,6 +845,8 @@ AWS
 * [Design Patterns for Serverless Systems](https://www.infoq.com/articles/design-patterns-for-serverless-systems/)
 * [Managing Serverless Spaghetti. Protect your business logic from dissolving into the infrastructure. | CodeX](https://medium.com/codex/managing-serverless-spaghetti-c2fb1a7db73e)
 * [Serverless offerings like AWS Lambda haven't hit the big time, but Kubernetes can help - TechRepublic](https://www.techrepublic.com/article/serverless-offerings-like-aws-lambda-havent-hit-the-big-time-but-kubernetes-can-help/)
+* [Serverless Private APIs — Part 1 🚀 | by Lee James Gilmore | Dec, 2021 | Medium](https://leejamesgilmore.medium.com/serverless-private-apis-60749934b161)
+* [Serverless Private APIs — Part 2 🚀 | by Lee James Gilmore | Dec, 2021 | Medium](https://leejamesgilmore.medium.com/serverless-private-apis-part-2-91fb9ab0c484)
 * [매일이 새로운 초기 스타트업, 파이썬과 함께라면. 백승호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=FZL2dMFefC0) sls
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
 * [AWS Lambda 로 하는 Hello World!](https://velopert.com/3546)
