@@ -2275,6 +2275,7 @@ Programming
 * [Where Should the Debugger Set a Breakpoint?](https://pernos.co/blog/function-prologues/)
 * [개발자 동무, 철의 장막 뒤에서 디버깅 하기 | edykim](https://edykim.com/ko/post/debugging-behind-the-iron-curtain/)
 * [Debugging memory corruption: who the hell writes “2” into my stack?! | Unity Blog](https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2)
+* [소울워커 로딩이 느린 이유 / 로딩 시간 70% 줄이기 - 소울워커 채널](https://arca.live/b/soulworkers/40937494)
 * [control-flag: A system to flag anomalous source code expressions by learning typical expressions from training data](https://github.com/IntelLabs/control-flag)
   * [인텔, 기계학습 디버깅툴 ‘컨트롤플래그’ 오픈소스로 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20211025172937)
 * Ozcode [Debugging Solutions from Dev to Production - Ozcode](https://oz-code.com/)
