@@ -552,6 +552,7 @@ Programming Books
 * (NOT YET) [실무 예제로 배우는 데이터 공학](https://jpub.tistory.com/1175)
 * (NOT YET) [데이터 분석가의 숫자유감](https://jhrogue.blogspot.com/2021/08/blog-post_25.html)
   * [데이터 분석가의 숫자유감 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1563)
+* (NOT YET) [데이터 과학자 되는 법 (에밀리 로빈슨, 재클린 놀리스 著, 이창화 譯, 2021)](https://jehyunlee.tistory.com/31)
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
