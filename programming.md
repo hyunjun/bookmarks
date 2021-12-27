@@ -1492,6 +1492,9 @@ Programming
 
 # Atlassian Jira
 * [Atlassian JIRA Home](https://www.lesstif.com/jira/atlassian-jira-home-61898760.html)
+  * [JQL(JIRA Query Language) 로 JIRA Issue(지라 이슈) 검색하기 #1](https://www.lesstif.com/jira/jql-jira-query-language-jira-issue-1-18220188.html)
+  * [JQL(JIRA Query Language) 로 JIRA Issue(지라 이슈) 검색하기 #2](https://www.lesstif.com/jira/jql-jira-query-language-jira-issue-2-113345059.html)
+  * [JQL(JIRA Query Language) 활용법 #3 실전 사례](https://www.lesstif.com/jira/jql-jira-query-language-3-113345036.html)
 * [Search - Atlassian Community](https://community.atlassian.com/t5/forums/searchpage/tab/message?filter=location&q=open+issue+at+the+end+of+the+sprint&location=category%3Ajira&page=2&collapse_discussion=true&search_type=thread)
 * [Solved: JQL find flagged issues](https://community.atlassian.com/t5/Jira-Software-questions/JQL-find-flagged-issues/qaq-p/664698)
 * Jira Search e.g. [`project = <project name> AND (type = Bug OR type = "Bug Fix" OR type = "Bug Sub-Task" ) AND status != Closed AND status != Cancelled AND status != "WON'T FIX"`](https://gist.github.com/hyunjun/0594e58adaec6ec1cb75158f5f97cad8#gistcomment-3783579)
