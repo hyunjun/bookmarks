@@ -339,6 +339,7 @@ Statistics
 * [pubdata.tistory.com/category/Lecture_Statistics](http://pubdata.tistory.com/category/Data/Statistics)
 * [Engineering Statistics](http://www.itl.nist.gov/div898/handbook/index.htm)
 * [CS109: Probability for Computer Scientists](http://web.stanford.edu/class/cs109) 강의노트, 슬라이드, 데모 제공
+* [Introduction to Missing data framework for applied statistical model - YouTube](https://www.youtube.com/watch?v=z4qOY4i2LQY)
 
 # Haskell
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)
