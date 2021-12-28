@@ -80,6 +80,7 @@ Data Science
 * [쏘카 데이터 그룹 - 데이터 엔지니어링 팀이 하는 일 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2021/03/24/what-socar-data-engineering-team-does.html)
 * [실무 AI 프로젝트 - 분석보다 엔지니어링이 중요한 이유](https://data-engineer-song.tistory.com/1)
 * [온프레미스 데이터 플랫폼 팀의 데이터 엔지니어가 하는 일(feat. 11번가 데이터 플랫폼 2020년 회고) :: Kaden Sungbin Cho](https://kadensungbincho.tistory.com/2)
+* [쏘카 신입 데이터 엔지니어 디니의 4개월 회고 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2021/12/28/data-engineering-team-onboarding.html)
 * [There’s No Such Thing as a Data Scientist](https://medium.com/indeed-data-science/theres-no-such-thing-as-a-data-scientist-8dae923c14e3)
 * [데이터 사이언티스트가 되기 위해 필요한 기술,이 문장만 보면 다 알 수 있다](https://www.finereport.com/kr/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%82%AC%EC%9D%B4%EC%96%B8%ED%8B%B0%EC%8A%A4%ED%8A%B8%EA%B0%80-%EB%90%98%EA%B8%B0-%EC%9C%84%ED%95%B4-%ED%95%84%EC%9A%94%ED%95%9C-%EA%B8%B0%EC%88%A0/)
 * [새로운 데이터 분석가와의 랑데부를 위하여(2)](https://cojette.github.io/rendezvous2/) SQL 중요성 강조
@@ -717,6 +718,7 @@ Data Science
   * [**번역글 System Design for Recommendations and Search | You May Also Like**](https://ziminpark.github.io/posts/system-design-for-discovery/)
 * [On YouTube’s recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)
 * [Spotify가 당신의 음악 다양성을 이해하는 방법 – 인사이트캠퍼스](http://insightcampus.co.kr:9090/insightcommunity/?mod=document&uid=12920)
+* [카카오 AI추천 : 카카오의 콘텐츠 기반 필터링 (Content-based Filtering in Kakao) – tech.kakao.com](https://tech.kakao.com/2021/12/27/content-based-filtering-in-kakao/)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
