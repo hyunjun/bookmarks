@@ -1383,6 +1383,7 @@ Docker
   * [GitOps Secret 관리 | 커피고래의 노트](https://coffeewhale.com/sealedsecret)
     * GitOps를 할 때 시크릿은 Git 저장소에 넣을 수가 없으므로 이 부분을 따로 관리해야 하는데 이 부분을 해결하기 위해서 SealedSecret 이용 방법 설명
     * SealedSecret의 인증서로 시크릿 데이터를 암호화해서 Git 저장소에 커밋하면 Kubernetes 클러스터에 적용될 때 SealedSecret 컨트롤러가 암호화된 값을 복호화해서 Kubernetes Secret으로 작성
+  * [Managing your sensitive information during GitOps process with Secret Sealed | by Jerome Tarte | Dec, 2021 | Medium](https://medium.com/@jerome_tarte/managing-your-sensitive-information-during-gitops-process-with-secret-sealed-27498c77e2b8)
 * [simplenetes: The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods](https://github.com/simplenetes-io/simplenetes)
 * Skaffold
   * [쿠버네티스용 Continuous Deployment 툴인 Skaffold](https://bcho.tistory.com/1342)
