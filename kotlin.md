@@ -148,7 +148,6 @@
 * [Kotlin 1.4 Online Event: kotlinx.serialization 1.0 영상 정리](https://www.androidhuman.com/2020-11-08-kotlin_1_4_serialization)
 * [Apache Kafka® Event Streaming Platform For Kotlin Developers - YouTube](https://www.youtube.com/watch?v=Y-sqGKsnSHI)
 * [Idiomatic Logging in Kotlin | Baeldung on Kotlin](https://www.baeldung.com/kotlin/logging) slf4j
-* [Google Developers Korea Blog: Kotlin Serialization과 함께 DataStore 사용하기](https://developers-kr.googleblog.com/2021/04/using-datastore-with-kotlin-serialization.html)
 * [Migrating From Python to Kotlin for Our Backend Services](https://doordash.engineering/2021/05/04/migrating-from-python-to-kotlin-for-our-backend-services/)
 * [Java & Kotlin enum class가 완벽한 싱글톤이라 불리는 이유 — 시행착오를 줄이는 방법](https://dataportal.kr/54)
 
@@ -199,9 +198,12 @@
 * [Kotlin으로 Android개발 하기](https://developer88.tistory.com/171)
 * [Android Development Course - Build Native Apps with Kotlin](https://www.youtube.com/watch?v=Iz08OTTjR04)
 * [안드로이드의 익숙한 BaseXXX class를 알아보고, 설계의 중요성을 알아보자](https://thdev.tech/kotlin/2020/12/08/kotlin_effective_14/)
+* [Datastore  |  Android 개발자  |  Android Developers](https://developer.android.com/topic/libraries/architecture/datastore?hl=ko)
+  * [Google Developers Korea Blog: Kotlin Serialization과 함께 DataStore 사용하기](https://developers-kr.googleblog.com/2021/04/using-datastore-with-kotlin-serialization.html)
+  * [Android DataStore로 이전하기. 오랜만에 인사드립니다. ✋  다시 블로그 글쓰기를 열심히 해보려고… | by 백중원 (Leopold) | Dec, 2021 | Medium](https://medium.com/@joongwon/android-datastore%EB%A1%9C-%EC%9D%B4%EC%A0%84%ED%95%98%EA%B8%B0-273329bb2569)
+* [KMM 을 통한 Android, iOS 간 코드 공유. KMM(Kotlin multiplatform mobile) | by Myungpyo Shim | Jan, 2021 | Medium](https://myungpyo.medium.com/kmm-%EC%9D%84-%ED%86%B5%ED%95%9C-android-ios-%EA%B0%84-%EC%BD%94%EB%93%9C-%EA%B3%B5%EC%9C%A0-d1ef6f1cfb1e)
 * [QR코드 스캐너](https://github.com/wonderful-coding-life/sample.qrcode.android)
   * [안드로이드 앱 만들기 - #2 QR코드 스캐너 - YouTube](https://www.youtube.com/watch?v=Yr0jbSSALKE)
-* [KMM 을 통한 Android, iOS 간 코드 공유. KMM(Kotlin multiplatform mobile) | by Myungpyo Shim | Jan, 2021 | Medium](https://myungpyo.medium.com/kmm-%EC%9D%84-%ED%86%B5%ED%95%9C-android-ios-%EA%B0%84-%EC%BD%94%EB%93%9C-%EA%B3%B5%EC%9C%A0-d1ef6f1cfb1e)
 
 # API
 * [Kotlin 키워드 및 연산자 해부 (1) — Hard Keywords](https://medium.com/@joongwon/kotlin-kotlin-%ED%82%A4%EC%9B%8C%EB%93%9C-%EB%B0%8F-%EC%97%B0%EC%82%B0%EC%9E%90-%ED%95%B4%EB%B6%80-1-hard-keywords-3062f5fe2d11)
