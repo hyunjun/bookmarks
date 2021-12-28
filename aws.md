@@ -379,6 +379,7 @@ AWS
 * [Github로 터미널에서 명령어 이용해 소스 올리기](https://developer88.tistory.com/297)
 * [AWS, 컨테이너 전용 리눅스 OS 보틀로켓(BottleRocket) 1.0 릴리스 | 44BITS](https://www.44bits.io/ko/post/news--aws-release-bottlerocket-os-for-container)
 * [Bottlerocket을 프로덕션 클러스터에 사용하기 - 조성원(하이퍼커넥트), TDS로 DevSecOps - 주성식(AWS) :: 제23회 AWSKRUG Container모임 - YouTube](https://www.youtube.com/watch?v=1nR7MzgAW-0)
+* [테스트 주도 보안으로 DevSecOps 도입 가속화 하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/accelerating-devsecops-with-tds/)
 * [(리눅스 업스킬 도전 #1) 서버에 접속해보자!](https://jhrogue.blogspot.com/2020/09/1_14.html)
 * [AWS Transfer 패밀리로 SFTP 구성하기 #1 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1500)
 * [AWS Transfer 패밀리로 SFTP 구성하기 #2 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1502)
@@ -441,6 +442,8 @@ AWS
 * [AWS Cloud WAN - Part 7](https://zigispace.net/1157)
 * [AWS re:Post – AWS 커뮤니티를 위한 신규 질의 응답 사이트 공개 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-repost-a-reimagined-qa-experience-for-the-aws-community/)
   * Stackoverflow처럼 AWS에 관해서 질문/답변 서비스인 re:Post가 공개되어서 AWS 서비스에 대한 기술적 질문을 하고 검색 가능
+* [AWS Introduces Amazon FSx for OpenZFS](https://www.infoq.com/news/2021/12/amazon-fsx-for-openzfs/)
+* [How to fix SSH issues on EC2 Linux instances using AWS Systems Manager | AWS Cloud Operations & Migrations Blog](https://aws.amazon.com/de/blogs/mt/how-to-fix-ssh-issues-on-ec2-linux-instances-using-aws-systems-manager/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -657,6 +660,7 @@ AWS
 * [꿀벌개발일지 :: DynamoDB: 고민했던 것들에 대한 정리](https://ohgyun.com/808)
 * [꿀벌개발일지 :: DynamoDB: on-demand 모드의 오토 스케일링](https://ohgyun.com/809)
 * [Infrastructure Automation for DynamoDB | by satish1v | Oct, 2021 | AWS in Plain English](https://aws.plainenglish.io/infrastructure-automation-for-dynamodb-6184f63da967)
+* [**DynamoDB 데이터 변경 이벤트 파이프라인 구축하기 (feat. Kinesis) | by Jules | 당근마켓 팀블로그 | Dec, 2021 | Medium**](https://medium.com/daangn/dynamodb-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%80%EA%B2%BD-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-feat-kinesis-1733db06066)
 
 # EC2
 * [아마존 웹 서비스 8 – 스왑 추가로 EC2 인스턴스에 날개 달기](http://www.creativeworksofknowledge.com/2015/07/29/aws-adding-swap-to-ec2-instance/)
