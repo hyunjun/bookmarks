@@ -1057,6 +1057,7 @@ TensorFlow
 * [T2T: Tensor2Tensor Transformers - A library for generalized sequence to sequence models](https://github.com/tensorflow/tensor2tensor)
   * [Tensor2Tensor 라이브러리로 딥 러닝 연구를 가속화할 수 있습니다](https://developers-kr.googleblog.com/2017/07/accelerating-deep-learning-research.html)
   * [Training Cutting-Edge Neural Networks with Tensor2Tensor and 10 lines of code](https://medium.com/data-from-the-trenches/training-cutting-edge-neural-networks-with-tensor2tensor-and-10-lines-of-code-10973c030b8)
+* [Transformer-TF2: TensorFlow implementation of "Attention is all you need (Transformer)"](https://github.com/YeongHyeon/Transformer-TF2)
 * [vision-transformer-tf: Reproduction of Vision Transformer in Tensorflow2. Train from scratch and Finetune](https://github.com/justHungryMan/vision-transformer-tf)
   * Vision transformer를 추가적인 method 적용 없이 논문에 있는 method만을 이용해 재현
   * tenosrflow에서 ViT 를 scratch 부터 학습하는 코드는 존재하지 않아서 타겟 논문 'An image is worth 16x16 words: Transformers for image recognition at scale' 와 'How to train your ViT? Data, Augmentation, and Regularization in Vision Transformers'으로 진행
