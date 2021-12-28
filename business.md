@@ -386,6 +386,7 @@ Business
 * [일 좀 하게 해 줘, 발목잡지 말고](https://brunch.co.kr/@jinhoyooephf/18)
 * [Employee Advocacy란? - YouTube](https://www.youtube.com/watch?v=MW8Fae-lwf0)
 * [회사가 일을 만들고 확산하는 방법을 알자 | ㅍㅍㅅㅅ](https://ppss.kr/archives/247992) 플라이휠 flywheel
+* [State of UX 2022 - 'Rebuild' | GeekNews](https://news.hada.io/topic?id=5633)
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
@@ -429,6 +430,7 @@ Business
 * [사표 품고 다니는 당신, 직장 변경보다 직무 변경을 고민하라](https://news.v.daum.net/v/20211015030053898)
 * [당신 조직에 제대로 된 팀원이 없는 이유](https://brunch.co.kr/@1312capo/53)
 * [2015 나는 프로그래머다 컨퍼런스 (6) 정개발 - 슬램덩크에게서 배우는 개발팀 빌딩전략](https://www.slideshare.net/iamprogrammerofficial/2015-6-54991145)
+* [화제의 삼프로TV 대표 “후보 철학 깊이 알려면 끝을 봐야”](https://www.mediatoday.co.kr/news/articleView.html?idxno=301417) 직접 관련된 내용은 아니나 깊이있게 알려면 답변에 대해 계속 질문해서 끝을 봐야 한다는 점에 동감
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
