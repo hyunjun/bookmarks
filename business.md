@@ -987,6 +987,10 @@ Business
 * [토스가 타다를 왜 인수할까? II](https://brunch.co.kr/@graypool/244)
 * [회색분자의 SW창작 놀이터 :: '스타트업' 카테고리의 글 목록](https://greypencil.tistory.com/category/%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85)
 * [k-startups: List of tech startups in South Korea](https://github.com/sooftware/k-startups)
+* [당신의 혁신 능력을 망가뜨리지 마라 | 자기계발 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/6_1/article_no/1786)
+  * [당신의 혁신 능력을 망가뜨리지 마라](https://brunch.co.kr/@graypool/282)
+  * `가장 중요한 걸 찾고 나머지는 내버려둬라` 이게 가장 어려운 일 아닌가?
+* [스타트업계 전설 권도균 "창업자는 철학자가 돼야···모든 것 쓰고 갈 것" - ZDNet korea](https://zdnet.co.kr/view/?no=20211214095913) 드러커는 경영을 규율이라고 했다
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
