@@ -703,6 +703,7 @@ Deep Learning
 * [옵티마이저(Optimizer) · Data Science](https://yngie-c.github.io/deep%20learning/2020/03/19/training_techs/)
 * [How to Train Large Deep Learning Models as a Startup](https://www.assemblyai.com/blog/how-to-train-large-deep-learning-models-as-a-startup/)
 * [How to Train Really Large Models on Many GPUs?](https://lilianweng.github.io/lil-log/2021/09/24/train-large-neural-networks.html)
+* [인공지능 모델을 데이터셋에 맞게 대량으로 찍어내는 방법 (only 파이썬). 김태영 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=DtV74hNpLs8) model
 * [딥러닝 가속기가 이끄는 반도체 시장의 미래 | GeekNews](https://news.hada.io/topic?id=5120)
 * [How Long Does It Take Ordinary People To "Get Good" At Chess?](https://github.com/jcw024/lichess_database_ETL/blob/main/README.md)
 * [EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING](https://rockt.github.io/2018/04/30/einsum)
