@@ -842,6 +842,7 @@ Machine Learning
 * [12 Best Online Courses for Machine Learning with Python-Bestseller 2022](https://www.mltut.com/best-online-courses-for-machine-learning-with-python/)
 * [Machine Learning Summer School 2017 Tübingen](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFUOvoYCdKikfck8YeUCnl9)
 * [Top Python Libraries for Data Science, Data Visualization & Machine Learning - KDnuggets](https://www.kdnuggets.com/2020/11/top-python-libraries-data-science-data-visualization-machine-learning.html)
+* [Be Future Ready | Day - 1 | AI And Machine Learning Full Course | AI & ML Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=g39SJbNXYEg)
 * [Andrew Ng / Coursera](https://www.coursera.org/learn/machine-learning)
   * [Machine Learning Exercises In Python, Part 1](http://www.johnwittenauer.net/machine-learning-exercises-in-python-part-1/) python exercises of Andrew Ng's maching learning class on Coursera
   * [Python programming assignments for Machine Learning by Prof. Andrew Ng in Coursera](https://github.com/nsoojin/coursera-ml-py)
