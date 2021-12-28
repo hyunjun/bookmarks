@@ -1024,6 +1024,7 @@ NLP
     * Text2Image: 텍스트 쿼리를 입력하면 사전에 저장해둔 사진들 중 쿼리와 가장 유사도 높은 사진 반환
     * Image2Text: Zero-Shot Classifier의 한 종류로 사진과 다수의 레이블을 입력하면 여러 레이블중 사진과 가장 어울리는 것을 반환
     * Text2Patch: 역시 Zero-Shot Classifier의 한 갈래로 사진과 텍스트 쿼리가 입력되면 텍스트와 가장 연관성이 깊은 사진 패치 반환
+  * [nlp_tutorials: huggingface를 이용하여 downstream task 수행하기](https://github.com/seopbo/nlp_tutorials)
   * [optimum](https://github.com/huggingface/optimum)
     * [Introducing Optimum: The Optimization Toolkit for Transformers at Scale](https://huggingface.co/blog/hardware-partners-program)
   * [parallelformers: Parallelformers: An Efficient Model Parallelization Toolkit for Deployment](https://github.com/tunib-ai/parallelformers)
@@ -1626,6 +1627,10 @@ NLP
 * [facebook 맞춤법 검사기 봇](https://www.facebook.com/groups/botgroup/permalink/504923836371451/)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
   * [파이썬 네이버 맞춤법 검사 API, Py-hanspell](https://blog.naver.com/dsz08082/222317249656)
+* [SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm](https://github.com/wolfgarbe/SymSpell)
+  * [Symspell을 이용한 한글 맞춤법 교정. 맞춤법 교정 혹은 오타 교정이라고 부르는 방법은 입력 중 발생하는… | by 김희규 | Oct, 2021 | Medium](https://heegyukim.medium.com/symspell%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%95%9C%EA%B8%80-%EB%A7%9E%EC%B6%A4%EB%B2%95-%EA%B5%90%EC%A0%95-3def9ca00805)
+  * [Symspell을 이용한 한글 맞춤법 교정 2 — 복합어와 띄어쓰기 교정 | by 김희규 | Nov, 2021 | Medium](https://heegyukim.medium.com/symspell%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%ED%95%9C%EA%B8%80-%EB%A7%9E%EC%B6%A4%EB%B2%95-%EA%B5%90%EC%A0%95-2-%EB%B3%B5%ED%95%A9%EC%96%B4%EC%99%80-%EB%9D%84%EC%96%B4%EC%93%B0%EA%B8%B0-%EA%B5%90%EC%A0%95-7605ec2fcebc)
+  * [symspellpy-ko: symspellpy를 한글 특성에 맞춰서 수정한 라이브러리. 음소분해를 이용해 더 정확한 오타교정을 해준다](https://github.com/HeegyuKim/symspellpy-ko)
 
 # Text Mining
 * [Kaggle Solution: What’s Cooking ? (Text Mining Competition)](http://www.analyticsvidhya.com/blog/2015/12/kaggle-solution-cooking-text-mining-competition)
