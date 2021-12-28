@@ -36,6 +36,7 @@ Deep Learning
   * [Deep Learning Course](https://www.youtube.com/playlist?list=PL5B692fm6--tI-ijknnVZWbXU2H4JpSYe)
 * [Best Courses to Learn Deep Learning Beginner to Advanced Level-2021](https://www.mltut.com/best-courses-to-learn-deep-learning/)
 * [Best Resources to Learn Deep Learning( YouTube, Tutorials, etc)- 2021](https://www.mltut.com/best-resources-to-learn-deep-learning/)
+* [Best Courses to Learn Deep Learning [Beginner to Advanced Level]-2022](https://www.mltut.com/best-courses-to-learn-deep-learning/)
 * [Why GEMM is at the heart of deep learning](http://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/)
 * [딥러닝 워크샵: 딥러닝의 현재와 미래](http://mlcenter.postech.ac.kr/workshop)
   * [후기](http://whydsp.org/262)
