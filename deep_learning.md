@@ -707,6 +707,7 @@ Deep Learning
 * [딥러닝 가속기가 이끄는 반도체 시장의 미래 | GeekNews](https://news.hada.io/topic?id=5120)
 * [How Long Does It Take Ordinary People To "Get Good" At Chess?](https://github.com/jcw024/lichess_database_ETL/blob/main/README.md)
 * [EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING](https://rockt.github.io/2018/04/30/einsum)
+* [Bag-of-Tricks — 딥러닝 성능을 높이기 위한, 다양한 꿀팁들 | by 이도현 | CURG | Medium](https://medium.com/curg/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%84%B1%EB%8A%A5%EC%9D%84-%EB%86%92%EC%9D%B4%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%8B%A4%EC%96%91%ED%95%9C-%EA%BF%80%ED%8C%81%EB%93%A4-1910c6c7094a)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
