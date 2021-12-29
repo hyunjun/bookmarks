@@ -3359,6 +3359,7 @@ Javascript
 * [리액트 네이티브로 13년 된 네이티브 앱 전환하기 - 리디주식회사 RIDI Corporation](https://ridicorp.com/story/react-native-ridibooks-ap/)
   * [리액트 네이티브로 13년 된 네이티브 앱 전환하기 | GeekNews](https://news.hada.io/topic?id=5599)
 * [AirBnB는 어째서 RN을 버렸나?](https://blog.naver.com/bkcaller/221317627805)
+* [ReactNative 개발, 어떻게 시작하면 좋을까?](https://joonfluence.tistory.com/502)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
   * [Expo Explained in 2 Minutes](https://www.youtube.com/watch?v=IQI9aUlouMI)
   * [Expo의 개념 및 장점 5분 설명! | Introduction to Expo](https://www.youtube.com/watch?v=2M_1tTbJvc0)
