@@ -1128,7 +1128,9 @@ Linux
 * [**up: Ultimate Plumber is a tool for writing Linux pipes with instant live preview**](https://github.com/akavel/up)
   * [up - Ultimate Plumber | GeekNews](https://news.hada.io/topic?id=3989)
 * [VTM | Text-based Desktop Environment, aka Monotty Desktop (desktopio)](https://vtm.netxs.online/)
-* Wayland [Think twice before abandoning Xorg. Wayland breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
+* Wayland
+  * [Think twice before abandoning Xorg. Wayland breaks everything!](https://gist.github.com/probonopd/9feb7c20257af5dd915e3a9f2d1f2277)
+  * [Isolating Xwayland in a VM - Thomas Leonard's blog](https://roscidus.com/blog/blog/2021/10/30/xwayland/)
 * [Warp—The blazingly fast, Rust-based terminal](https://www.warp.dev/)
 * [when: Timezones from the command line](https://github.com/mitsuhiko/when)
   * [when - 터미널에서 타임존별 시간 계산하기 | GeekNews](https://news.hada.io/topic?id=5537)
