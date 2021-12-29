@@ -550,6 +550,7 @@ Docker
   * BuildKit 미사용
   * 변경할 때마다 다시 빌드
   * 커스텀 스크립트 -> 이미 존재하는 도구 활용
+* [CKS 시험 정보 Portal ver0.5 - 쿠버네티스 전문가 블로그](https://sysnet4admin.blogspot.com/2021/12/cks-portal-ver05.html)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -572,6 +573,7 @@ Docker
 * [Linux Host 에서 Docker 관련 명령어 정리(CentOS 8.x 기준)](https://blog.naver.com/yuheewon01/222221489635)
 * [한 장의 이미지로 보는 도커(docker) 명령어 정리](https://open-support.tistory.com/entry/%ED%95%9C-%EC%9E%A5%EC%9D%98-%EC%9D%B4%EB%AF%B8%EC%A7%80%EB%A1%9C-%EB%B3%B4%EB%8A%94-%EB%8F%84%EC%BB%A4docker-%EB%AA%85%EB%A0%B9%EC%96%B4-%EC%A0%95%EB%A6%AC)
 * [docker cheat sheet](https://www.docker.com/sites/default/files/d8/2019-09/docker-cheat-sheet.pdf)
+* [Containers 101: attach vs. exec - what's the difference?](https://iximiuz.com/en/posts/containers-101-attach-vs-exec/)
 * build
   * `docker build -t [name]:[tag] .`
   * `--build-arg` e.g. `sudo docker build --build-arg http_proxy=http://x.y.z.w:port --build-arg https_proxy=http://x.y.z.w:port -t [name]:[tag] .`
@@ -1167,6 +1169,7 @@ Docker
 * [VritualBox host-only Network(MAC,Linux).pdf](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/%EC%8B%A4%EC%8A%B5%20%EC%9D%B4%EC%8A%88%231%20-%20VritualBox%20host-only%20Network(MAC%2CLinux).pdf)
 * [Implement governance on your Kubernetes cluster | Opensource.com](https://opensource.com/article/21/12/kubernetes-gatekeeper)
 * [Writing Custom Kubernetes Controllers: Beware of State Drift – The New Stack](https://thenewstack.io/writing-custom-kubernetes-controllers-beware-of-state-drift)
+* [‘다중 클러스터 쿠버네티스’의 과제 해결하려면... 고려해야 할 4가지 - CIO Korea](https://www.ciokorea.com/news/219639)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
