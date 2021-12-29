@@ -57,6 +57,7 @@ App
 * [5 open source tools I can't live without | Opensource.com](https://opensource.com/article/20/10/open-source-tools) tmate, ix, asciinema, GNOME Pomodoro, Jitsi
 * [Best Collaboration Tools in 2021 – Survey Results | The Space Blog](https://blog.jetbrains.com/space/2021/07/16/best-collaboration-tools/)
 * [빠른 목업 제작을 위해 알아두면 좋은 서비스들 | 요즘IT](https://yozm.wishket.com/magazine/detail/1083/) mockup
+* [Devhints — TL;DR for developer documentation](https://devhints.io/) 각 app별 cheatsheet 모음
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
@@ -553,7 +554,12 @@ App
   * [5천만 명이 이용하는 협업 ·업무관리 툴··· ‘트렐로’ 따라잡기 - CIO Korea](https://www.ciokorea.com/news/206324)
 
 ## Development Rest client
+* [Http 요청 관련 툴을 추천해보아요 | GeekNews](https://news.hada.io/topic?id=5607)
+* curl
+* [Hoppscotch - Open source API development ecosystem](https://hoppscotch.io/ko/)
+* httpie
 * [insomnia - Debug APIs like a human, not a robot Finally, a REST client you'll love](https://insomnia.rest/)
+* paw
 * postman
   * [practice - test 예제](https://github.com/hyunjun/practice_private/blob/master/project-scala-restful-api-with-mysql-mvl-assignment/test.postman_collection.json)
     * [Expect / Should - Chai](https://www.chaijs.com/api/bdd/) postman에 직접 관련된 건 아니지만 postman test 작성시 문법 참고
@@ -579,8 +585,10 @@ App
   * [Testing your APIs with Postman and Newman - YouTube](https://www.youtube.com/watch?v=fTtA9qXkNAk)
   * [Postman Mock Server로 팀 프로젝트의 개발 속도와 갈등을 개선하기](https://velog.io/@couchcoding/Postman-Mock-Server%EB%A1%9C-%ED%8C%80-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%9D%98-%EA%B0%9C%EB%B0%9C-%EC%86%8D%EB%8F%84%EC%99%80-%EA%B0%88%EB%93%B1%EC%9D%84-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0)
 * [postwoman.io](https://postwoman.io/)
+* REST Client VSCode extension
 * RestLet_Client [REST API 테스트를 위한 유용한 툴(Chrome Extension : RestLet_Client)](https://www.linkedin.com/pulse/rest-api-%25ED%2585%258C%25EC%258A%25A4%25ED%258A%25B8%25EB%25A5%25BC-%25EC%259C%2584%25ED%2595%259C-%25EC%259C%25A0%25EC%259A%25A9%25ED%2595%259C-%25ED%2588%25B4chrome-extension-restletclient-jun-hee-shin/)
 * [wuzz - Interactive cli tool for HTTP inspection](https://github.com/asciimoo/wuzz)
+* xh
 
 # Dropbox, Google Drive, OneDrive
 * [A remote sync solution for iOS and Linux: Git and Working Copy](https://medium.freecodecamp.org/a-remote-sync-solution-for-ios-and-linux-git-and-working-copy-1aba488b3547)
@@ -1605,6 +1613,7 @@ App
 * [~Fort - a Free Software password manager http://www.ideabyte.net/fort ~](https://github.com/nrosvall/fort)
 * [Pass: The Standard Unix Password Manager](https://www.passwordstore.org/)
 * [sysPass | Systems Password Manager](https://syspass.org/)
+* [vaultwarden: Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs](https://github.com/dani-garcia/vaultwarden)
 
 # Programming
 * [pocket-programming.ffab0.com](http://pocket-programming.ffab0.com/)
