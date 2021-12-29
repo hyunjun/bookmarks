@@ -305,6 +305,8 @@ Finance
   * [Predicting Stock Price Movement With Random Forests | Model Improvement](https://www.youtube.com/watch?v=ioUtR92tDAA)
 * [Pythonic: Graphical Python programming for trading and automation](https://github.com/hANSIc99/Pythonic)
   * [Convert your Raspberry Pi into a trading bot with Pythonic | Opensource.com](https://opensource.com/article/21/9/raspberry-pi-trading-bot)
+* [qspy: python package for verifying quantative strategies](https://github.com/GilseungAhn/qspy)
+  * [실험 10. 상승 반전형 단일 캔들 패턴에 따른 수익률 비교](https://gils-lab.tistory.com/49)
 * [Simple Bank Korea](https://github.com/Beomi/simple_bank_korea)
 * [TA-Lib : Technical Analysis Library](http://ta-lib.org/)
   * [Python에 Ta-Lib 설치 문제 해결 방법](https://www.openaitrading.com/python%EC%97%90-ta-lib-%EC%84%A4%EC%B9%98-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-%EB%B0%A9%EB%B2%95/)
