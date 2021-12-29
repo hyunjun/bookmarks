@@ -404,6 +404,17 @@
 * [How to Extract Deeper Value from Data in Legacy Applications with Analytics in a Cloud Data Lake - YouTube](https://www.youtube.com/watch?v=cylRHSsT24o)
 * [Scala 3 and Spark?. After the release of Scala 3, one of… | by Filip Zybała | VirtusLab | Oct, 2021 | Medium](https://medium.com/virtuslab/scala-3-and-spark-389f7ecef71b)
 * [Apache Spark #1 - 아키텍쳐 및 기본 개념](https://bcho.tistory.com/1387)
+* [Practical Spark – Intro (1) – 1ambda](https://1ambda.blog/2021/12/20/practical-spark-1/)
+* [Practical Spark – Tutorial (2) – 1ambda](https://1ambda.blog/2021/12/20/practical-spark-2/)
+* [Practical Spark – Concept (3) – 1ambda](https://1ambda.blog/2021/12/20/practical-spark-3/)
+* [Practical Spark – Architecture (4) – 1ambda](https://1ambda.blog/2021/12/21/practical-spark-4/)
+* [Practical Spark – DataFrame (5) – 1ambda](https://1ambda.blog/2021/12/22/practical-spark-5/)
+* [Practical Spark – Persistence (6) – 1ambda](https://1ambda.blog/2021/12/22/practical-spark-6/)
+* [Practical Spark – Cache (7) – 1ambda](https://1ambda.blog/2021/12/25/practical-spark-cache-7/)
+* [Practical Spark – SQL & Table (8) – 1ambda](https://1ambda.blog/2021/12/27/practical-spark-sql-table-8/)
+* [Practical Spark – Join (9) – 1ambda](https://1ambda.blog/2021/12/27/practical-spark-9/)
+* [Practical Spark – Memory (10) – 1ambda](https://1ambda.blog/2021/12/27/practical-spark-10/)
+* [Practical Spark – Versions (11) – 1ambda](https://1ambda.blog/2021/12/28/practical-spark-11/)
 
 # Apache Livy
 * [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
