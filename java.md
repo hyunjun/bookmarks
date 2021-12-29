@@ -439,6 +439,7 @@ Java
 * [race condition 을 이용한 toctou 에 대해서 알아봅시다](https://codingdog.tistory.com/entry/race-condition-%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-toctou-%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [LMAX Disruptor - A High Performance Inter-Thread Messaging Library](https://github.com/LMAX-Exchange/disruptor)
 * [thread.currentthread 메소드를 이용해서 쓰레드들이 request를 어떻게 처리하는지 실험해 봅시다](https://codingdog.tistory.com/entry/threadcurrentthread-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%93%B0%EB%A0%88%EB%93%9C%EB%93%A4%EC%9D%B4-request%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94%EC%A7%80-%EC%8B%A4%ED%97%98%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
+* [java threadlocal 클래스에 대해서 간단하게 알아봅시다.](https://codingdog.tistory.com/651)
 
 ## Concurrency Parallel Thread Akka
 * [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
