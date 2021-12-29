@@ -496,6 +496,7 @@ Interview
   * [High Availability Load Balancers with Maglev](https://blog.cloudflare.com/high-availability-load-balancers-with-maglev/)
   * [로드 밸런서(Load Balancer)란?](https://nesoy.github.io/articles/2018-06/Load-Balancer)
   * [EP03: Load balancer basics, usage and configuration - YouTube](https://www.youtube.com/watch?v=cXYm0nNhKJw)
+  * [EP04: API Gateway vs Load Balancer concepts and usage (AWS config) - YouTube](https://www.youtube.com/watch?v=Z1lejCLTRXY)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * [System design basics: When to use distributed computing | how distributed computing works](https://www.youtube.com/watch?v=3zCK_5U69A8)
 * [Do you know Distributed transactions?](https://www.youtube.com/watch?v=S4FnmSeRpAY)
