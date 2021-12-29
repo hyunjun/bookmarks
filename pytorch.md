@@ -252,6 +252,7 @@ PyTorch
 * [PyTorch-StudioGAN: StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN)
 * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Tranlsation (PyTorch Implemenation)](https://github.com/yunjey/StarGAN)
   * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Translation](https://www.youtube.com/watch?v=EYjdLppmERE)
+* [stylegan3: Official PyTorch implementation of StyleGAN3](https://github.com/NVlabs/stylegan3)
 
 # Introduction
 * [Introducing Pytorch for fast.ai](http://www.fast.ai/2017/09/08/introducing-pytorch-for-fastai/)
