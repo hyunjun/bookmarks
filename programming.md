@@ -448,6 +448,7 @@ Programming
 * [WorkAdventure - 오픈소스 메타버스 플랫폼 소프트웨어 | GeekNews](https://news.hada.io/topic?id=4823)
 * [DeepDive 강정수 박사의 '메타버스 핵심 읽기'](https://c-rocket.net/deepdive_deepclass-1/)
   * [메타버스 핵심 읽기 | GeekNews](https://news.hada.io/topic?id=5420)
+* [Christmas Maze on Gather Town using Teachable Machine | Teachableverse](https://teachableverse.github.io/christmas-maze-gathertown-teachablemachine/)
 * [A System for Detecting Software Similarity](http://theory.stanford.edu/~aiken/moss/)
 * [How to Learn Complex Things Quickly: A Guide](https://product.hubspot.com/blog/how-to-learn-complex-things-quickly)
 * [23 Active Software Engineering Publications on Medium | by Anupam Chugh | Mar, 2021 | Better Programming](https://betterprogramming.pub/23-active-software-engineering-publications-on-medium-a17484223b9a) engineering blog
