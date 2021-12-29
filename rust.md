@@ -137,6 +137,7 @@
 * [Rust: Zero Cost Abstractions - YouTube](https://www.youtube.com/watch?v=JCGjjk5ccV0)
 * [Compiling Rust is NP-hard](https://niedzejkob.p4.team/rust-np/)
 * [Make a Demo Tool in Rust](https://make-a-demo-tool-in-rust.github.io/)
+* [My negative views on Rust](https://chrisdone.com/posts/rust/)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
