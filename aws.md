@@ -312,6 +312,7 @@ AWS
 * [What should we know about AWS Security? (Part 2)](https://salerno-rafael.blogspot.com/2019/07/what-should-we-know-about-aws-security_27.html)
 * [AWS Solutions Architect - Associate certificate Study — 공식 문서 정리 Part 1](https://medium.com/@tkdgy0801/aws-solutions-architect-certificate-공부-영역-1-7abd91cd91a8)
 * [AWS Solutions Architect — Associate certificate Study — 공식 문서 정리 Part 2](https://medium.com/@tkdgy0801/aws-solutions-architect-associate-certificate-study-공식-문서-정리-part-2-3775eb75230e)
+* [쉬운 듯 안 쉬운 AWS 자격증에 도전해봤습니다. | 요즘IT](https://yozm.wishket.com/magazine/detail/1241/)
 * [AWS로 서버 없이 웹 서비스 운영하기 – 1](http://blog.dramancompany.com/2019/09/aws%eb%a1%9c-%ec%84%9c%eb%b2%84-%ec%97%86%ec%9d%b4-%ec%9b%b9-%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%9a%b4%ec%98%81%ed%95%98%ea%b8%b0-1/)
 * [AWS 클라우드를 통해 최소기능제품(MVP) 빠르게 개발하기 - 윤석찬, AWS 테크에반젤리스트](https://www.slideshare.net/awskorea/how-to-build-startup-mvp-in-aws-cloud)
   * [AWS 클라우드를 통해 최소기능제품(MVP) 빠르게 개발하기 - 윤석찬, AWS 테크에반젤리스트](https://www.youtube.com/watch?v=AwpcKaGwk7E)
