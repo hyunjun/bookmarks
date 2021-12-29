@@ -655,6 +655,8 @@ Apache
 * [Event Sourcing with Kafka Streams in Production — Lessons Learned | by Nico | comsystoreply | Medium](https://medium.com/comsystoreply/event-sourcing-with-kafka-streams-in-production-lessons-learned-1ab563891874)
 * [Postgres, Kafka, and the Mysterious 100 GB – Coding, Climbing, and Commentary](https://www.mattritter.me/?p=398)
 * [The Top 5 Apache Kafka Use Cases and Architectures in 2022](https://www.slideshare.net/KaiWaehner/the-top-5-apache-kafka-use-cases-and-architectures-in-2022)
+* [Practical Kafka – Intro (1) – 1ambda](https://1ambda.blog/2021/12/29/practical-kafka-1/)
+* [Practical Kafka – Concept (2) – 1ambda](https://1ambda.blog/2021/12/29/practical-kafka-2/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
