@@ -1913,6 +1913,8 @@ Python
 * [PyCon.KR 2020 - YouTube](https://www.youtube.com/playlist?list=PLZPhyNeJvHRk9wIL9rZekFLIfT3aVcHT7)
   * [파이썬으로 법률 역사 연구하기 - 김재윤 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=-teop71JmbQ)
 * [PyCon US 2021 - YouTube](https://www.youtube.com/playlist?list=PL2Uw4_HvXqvYk1Y5P8kryoyd83L_0Uk5K)
+* PyCon Korea 2021
+  * [공무원 환경에서의 업무 자동화 - 김재윤 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=JtthbD3uvYY)
 
 ## Conference PyData
 * [A Machine Learning Data Pipeline - PyData SG](https://www.youtube.com/watch?v=knU-p68JPE0)
@@ -2373,6 +2375,7 @@ Python
   * [다시쓰는 Flask unittest (하편)](https://jybaek.tistory.com/806)
   * [Automation Testing with Pytest. We live in an era where software is… | by Harshil Modi | Tenable TechBlog | Medium](https://medium.com/tenable-techblog/automation-testing-with-pytest-444c8b34ead2)
   * [Start Python #6 Backend Program 만들기 – Test하기 - Kowana's coding](https://www.kowanas.com/coding/2021/01/02/test%ED%95%98%EA%B8%B0/)
+  * [기획자가 한 번 추천한 음식은 당분간 추천하지 말라고 했다. 김다현 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=n3eY_FiV8ac)
 * [How to test Flask applications | Analytics Vidhya](https://medium.com/analytics-vidhya/how-to-test-flask-applications-aef12ae5181c)
 * [Flask resources](https://github.com/vicky002/AlgoWiki/blob/gh-pages/Flask/flask_resources.md)
 * [Flask의 세계에 오신것을 환영합니다](http://flask-docs-kr.readthedocs.org/ko/latest/)
@@ -3659,6 +3662,8 @@ Python
 * [viztracer: VizTracer is a low-overhead logging/debugging/profiling tool that can trace and visualize your python code execution](https://github.com/gaogaotiantian/viztracer)
   * [Understand your Python code with this open source visualization tool | Opensource.com](https://opensource.com/article/20/11/python-code-viztracer)
   * [Tracing the Python GIL | Maarten Breddels’ blog](https://www.maartenbreddels.com/perf/jupyter/python/tracing/gil/2021/01/14/Tracing-the-Python-GIL.html) viztracer + perf
+* [VPython](https://www.vpython.org/)
+  * [상상에 기반해서 파이썬을 배우는 방법에 대해. 송석리 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=cvXAgr8OmjE)
 * [vtcheck - Virus Total API Python Script](https://malwerewolf.com/2015/06/virus-total-api-python-script/)
 * [Vy - A vim-like in python made from scratch](https://github.com/iogf/vy)
 * vyper [Pythonic Smart Contract Language for the EVM](https://pythonawesome.com/pythonic-smart-contract-language-for-the-evm/)
