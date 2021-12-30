@@ -129,6 +129,7 @@ Linux
 * [poll vs select vs event-based](https://daniel.haxx.se/docs/poll-vs-select.html)
 * [poll on mac 10.12 is broken | daniel.haxx.se](https://daniel.haxx.se/blog/2016/10/11/poll-on-mac-10-12-is-broken/)
 * [How We Saved Millions in SSD Costs by Upgrading Our Filesystem - Heap](https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem) ZFS
+* [Why Folders are Called Directory in Linux?](https://itsfoss.com/folder-directory-linux)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
