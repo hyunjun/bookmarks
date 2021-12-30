@@ -85,8 +85,6 @@ Book
   * 2015.06.02
 * [인공지능, 붓다를 꿈꾸다](https://jh4hj.tistory.com/entry/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%B6%93%EB%8B%A4%EB%A5%BC-%EA%BF%88%EA%BE%B8%EB%8B%A4)
   * 2015.06.05
-* [철학자의 연애](https://jh4hj.tistory.com/entry/%EC%B2%A0%ED%95%99%EC%9E%90%EC%9D%98-%EC%97%B0%EC%95%A0)
-  * 2015.06.10
 * [파리에서 살아보기](https://jh4hj.tistory.com/entry/%ED%8C%8C%EB%A6%AC%EC%97%90%EC%84%9C-%EC%82%B4%EC%95%84%EB%B3%B4%EA%B8%B0)
   * 2015.08.25
 * [찌질한 위인전](https://jh4hj.tistory.com/entry/%EC%B0%8C%EC%A7%88%ED%95%9C-%EC%9C%84%EC%9D%B8%EC%A0%84)
@@ -143,9 +141,6 @@ Book
   * [데이터 스토리. 제목만 보고 섣부르게 데이터 과학에 대한 이야기를 예상했지만, 책을… | by Jun | Dec, 2021 | Medium](https://nymets.medium.com/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EC%84%A4%EB%93%9D%EC%9D%98-%EA%B8%B0%EC%88%A0-1d69052b5fa6)
 * [앨런 튜링: 생각하는 기계, 인공지능을 처음 생각한 남자](https://www.itworld.co.kr/news/100542)
   * ★★★☆☆ 2021.12.21 비극적인 천재의 전형이랄까. 2013년에 영국 왕실에서 사면을 했다고 하지만 그게 튜링에게 무슨 의미가 있을까. 마음이 좀 좋지 않았다
-* [스피노자 : 그래픽 평전 : 편집후기 사상보다 위대한 삶을 살았던 철학자를 만나다 : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=11237717&memberNo=16515656)
-  * [그래픽 평전 스피노자. 스피노자가 쓴 글은 신학처럼 보이지만 사실은 카모플라쥬(위장)입니다… | by Jun | Dec, 2021 | Medium](https://nymets.medium.com/%EA%B7%B8%EB%9E%98%ED%94%BD-%ED%8F%89%EC%A0%84-%EC%8A%A4%ED%94%BC%EB%85%B8%EC%9E%90-a1eaca6b71ef)
-  * ★★★★★ 2021.12.21
 * 닐스 보어:20세기 양자역학의 역사를 연 천재, 푸른지식
   * ★★★☆☆ 2021.12.23 그래도 웬만한 책은 검색해보면 짧게나마 쓴 블로그가 있는데 양자역학이라 그런 건지 정말 검색해도 나오는 게 없음
 * [렘브란트, 빛의 화가](https://kr.unboxinfo.com/products/7acdf6267d9f44168c7e69fc0a6ee849)
@@ -482,6 +477,15 @@ Book
   * 2021.08.27
   * 머릿말과 뒤의 해설만 읽음. 스마트 도서관 책이라 훑어보지 못하고 그냥 표지만 보고 빌려서 실수
   * 하루키의 소설에 나온 음악을 주제로 책을 만들 정도니 하루키의 위상에 대해 다시 한 번 생각하게 되었지만 내 취향은 아님
+
+# Philosophy
+* [철학자의 연애](https://jh4hj.tistory.com/entry/%EC%B2%A0%ED%95%99%EC%9E%90%EC%9D%98-%EC%97%B0%EC%95%A0)
+  * 2015.06.10
+* [스피노자 : 그래픽 평전 : 편집후기 사상보다 위대한 삶을 살았던 철학자를 만나다 : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=11237717&memberNo=16515656)
+  * [그래픽 평전 스피노자. 스피노자가 쓴 글은 신학처럼 보이지만 사실은 카모플라쥬(위장)입니다… | by Jun | Dec, 2021 | Medium](https://nymets.medium.com/%EA%B7%B8%EB%9E%98%ED%94%BD-%ED%8F%89%EC%A0%84-%EC%8A%A4%ED%94%BC%EB%85%B8%EC%9E%90-a1eaca6b71ef)
+  * ★★★★★ 2021.12.21
+* [<로지코믹스> : 네이버 블로그](https://blog.naver.com/ungzx/220551811203)
+  * ★★★★☆ 2021.12.28
 
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
