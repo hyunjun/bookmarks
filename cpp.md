@@ -377,6 +377,7 @@ C++
   * [Meow Hash](https://mollyrocket.com/meowhash)
 * [MetroHash: Faster, Better Hash Functions](http://www.jandrewrogers.com/2015/05/27/metrohash/)
 * [mih - Fast Exact Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/mih/)
+* [mold: A Modern Linker](https://github.com/rui314/mold)
 * [MozPromise: A Better Tool for Asynchronous C++](http://bholley.net/blog/2015/mozpromise.html)
 * [nn - Non-nullable pointers for C++](https://github.com/dropbox/nn)
 * [NTL: A Library for doing Number Theory](http://www.shoup.net/ntl/)
