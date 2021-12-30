@@ -605,6 +605,7 @@ Programming
 * [지라 쓰는게 애자일 아니라고 했어 안했어?! if(kakao) 2021](https://if.kakao.com/session/31)
 * [협업도구와 올인원 워크스페이스](https://jojoldu.tistory.com/616) notion에 대한 단상? 일종의 단점?
 * [Help! I’m trapped in an Agile Terminology Charade! | by Sjoerd Nijland | Serious Scrum](https://medium.com/serious-scrum/the-unmistakable-signs-you-are-participating-in-fake-agile-theater-a7d1bd6a5dbc)
+* [**농부처럼 생각하기**](https://www.facebook.com/pyopark/posts/10158835743458163)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
