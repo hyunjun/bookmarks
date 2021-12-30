@@ -581,6 +581,7 @@ Docker
   * `--no-cache` clean build
   * `--shm-size` [RuntimeError: DataLoader worker (pid 13881) is killed by signal: Bus error](https://jybaek.tistory.com/785)
   * [Docker v17.06.0-ce에 도입된 multi-stage 빌드 사용하기](https://blog.outsider.ne.kr/1300)
+  * [DockerFile — Multiple Stage build | by Bikram | Medium](https://bikramat.medium.com/dockerfile-multiple-stage-build-3ee540e7b221)
   * [.dockerignore](https://docs.docker.com/engine/reference/builder/)
     * 무조건 설정하자. 그렇지 않으면 해당 directory의 모든 파일을 일단 다 검색하고, 추가하려고 시도한 다음 필요없으면 버리기 때문에
     * 시간/공간 절약을 위해서는 무조건 사용하는 게 이득
