@@ -919,7 +919,6 @@ Javascript
 * [Animate Dynamic Components in Angular](https://netbasal.com/animate-dynamic-components-in-angular-10681438bdd4)
 * [Using async-await feature in Angular](https://medium.com/@balramchavan/using-async-await-feature-in-angular-587dd56fdc77)
 * [Make Your Angular Form’s Error Messages Magically Appear](https://netbasal.com/make-your-angular-forms-error-messages-magically-appear-1e32350b7fa5)
-* [Using async-await feature in Angular](https://medium.com/@balramchavan/using-async-await-feature-in-angular-587dd56fdc77)
 * [Change Detection 중심 Angular 최적화 방법](https://medium.com/coinone-official/change-detection-중심-angular-최적화-방법-957962ba3d2e)
 * [3 ways to communicate between Angular components](https://medium.com/@mirokoczka/3-ways-to-communicate-between-angular-components-a1e3f3304ecb)
 * [카카오커머스를 지탱하는 Angular](https://tech.kakao.com/2019/11/27/kakao-commerce-frontend-angular/)
@@ -1001,6 +1000,7 @@ Javascript
 * [스크립트의 실행 시점을 조절하는 Async와 Defer 속성 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/03/01/Async-Defer-Attributes-of-Script-Tag.html)
 * [JavaScript의 동시성 · Present](https://present.do/decks/60d453134a7eec094753cf78)
 * [How to Use Async/Await to Write Better JavaScript Code](https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/)
+* [자바스크립트의 비동기 프로그래밍 - 정윤호 · Present](https://present.do/presentations/6145f2ace3562505806fb6ef)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * [loadJS - A tiny async loader for modern browsers (590 bytes)](https://github.com/muicss/loadjs?a=1)
 * promise
