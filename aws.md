@@ -313,6 +313,7 @@ AWS
 * [AWS Solutions Architect - Associate certificate Study — 공식 문서 정리 Part 1](https://medium.com/@tkdgy0801/aws-solutions-architect-certificate-공부-영역-1-7abd91cd91a8)
 * [AWS Solutions Architect — Associate certificate Study — 공식 문서 정리 Part 2](https://medium.com/@tkdgy0801/aws-solutions-architect-associate-certificate-study-공식-문서-정리-part-2-3775eb75230e)
 * [쉬운 듯 안 쉬운 AWS 자격증에 도전해봤습니다. | 요즘IT](https://yozm.wishket.com/magazine/detail/1241/)
+* [AWS 공식 자격 시험 유형 문제 공개. 어느날과 마찬가지로 직무 교육과 테크니컬 온보딩 프로그램에 사용할… | by Jihwan Hyun Cloud Advocate | Cloud Villains | Dec, 2021 | Medium](https://medium.com/ctc-mzc/aws-%EA%B3%B5%EC%8B%9D-%EC%9E%90%EA%B2%A9-%EC%8B%9C%ED%97%98-%EC%9C%A0%ED%98%95-%EB%AC%B8%EC%A0%9C-%EA%B3%B5%EA%B0%9C-386ba0d9f186)
 * [AWS로 서버 없이 웹 서비스 운영하기 – 1](http://blog.dramancompany.com/2019/09/aws%eb%a1%9c-%ec%84%9c%eb%b2%84-%ec%97%86%ec%9d%b4-%ec%9b%b9-%ec%84%9c%eb%b9%84%ec%8a%a4-%ec%9a%b4%ec%98%81%ed%95%98%ea%b8%b0-1/)
 * [AWS 클라우드를 통해 최소기능제품(MVP) 빠르게 개발하기 - 윤석찬, AWS 테크에반젤리스트](https://www.slideshare.net/awskorea/how-to-build-startup-mvp-in-aws-cloud)
   * [AWS 클라우드를 통해 최소기능제품(MVP) 빠르게 개발하기 - 윤석찬, AWS 테크에반젤리스트](https://www.youtube.com/watch?v=AwpcKaGwk7E)
