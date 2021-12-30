@@ -484,6 +484,7 @@ Algorithm
 * [백준 최소 환승 경로 : 허브와 노드를 생각하자](https://codingdog.tistory.com/entry/%EB%B0%B1%EC%A4%80-%EC%B5%9C%EC%86%8C-%ED%99%98%EC%8A%B9-%EA%B2%BD%EB%A1%9C-%ED%97%88%EB%B8%8C%EC%99%80-%EB%85%B8%EB%93%9C%EB%A5%BC-%EC%83%9D%EA%B0%81%ED%95%98%EC%9E%90)
 * [이웃한 두 수의 합이 제곱수인 순환](https://www.jiwon.me/1-to-32-hamilton-cycle/) hamilton cycle
 * [TYPES OF GRAPHS (DATA STRUCTURES & ALGORITHMS) - YouTube](https://www.youtube.com/watch?v=DPWzJKII7sE)
+* [Graph Representation(Data Structures & Algorithms) - YouTube](https://www.youtube.com/watch?v=SWqyoSDre1g)
 
 # Hamming
 * [How to compute the Hamming distance](https://www.youtube.com/watch?v=P02mJhS9qQ4)
