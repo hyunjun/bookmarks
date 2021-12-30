@@ -200,6 +200,7 @@ Algorithm
   * [Grokking LeetCode: A Smarter Way to Prepare for Coding Interviews | by Arslan Ahmad | InterviewNoodle | Nov, 2021 | Medium](https://medium.com/interviewnoodle/grokking-leetcode-a-smarter-way-to-prepare-for-coding-interviews-e86d5c9fe4e1)
   * [Algorithms and Datastructure Archives - IndusTechie](https://industechie.com/index.php/category/programming-geek/java/algorithms-and-datastructure/)
   * [algo_crawler](https://github.com/SeanHwangG/algo_crawler)
+  * [Solve “Network Delay Time” & “Path with Maximum Probability” Using Dijkstra LeetCode 743, 1514 - YouTube](https://www.youtube.com/watch?v=OHJpOGa_L34)
 * [프로그래머스 가장 큰 수 : 수 2개만 고려해 봅시다](https://codingdog.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%88%98-%EC%88%98-2%EA%B0%9C%EB%A7%8C-%EA%B3%A0%EB%A0%A4%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [Employee Scheduling](https://developers.google.com/optimization/scheduling/employee_scheduling)
 * [Odd numbers in Pascal’s triangle](https://www.johndcook.com/blog/2020/02/04/odd-numbers-in-pascals-triangle/)
@@ -482,6 +483,7 @@ Algorithm
 * [몬테카를로 트리 탐색 미니맥스 크루스칼 다익스트라](https://blog.naver.com/sorang226/221916069980)
 * [백준 최소 환승 경로 : 허브와 노드를 생각하자](https://codingdog.tistory.com/entry/%EB%B0%B1%EC%A4%80-%EC%B5%9C%EC%86%8C-%ED%99%98%EC%8A%B9-%EA%B2%BD%EB%A1%9C-%ED%97%88%EB%B8%8C%EC%99%80-%EB%85%B8%EB%93%9C%EB%A5%BC-%EC%83%9D%EA%B0%81%ED%95%98%EC%9E%90)
 * [이웃한 두 수의 합이 제곱수인 순환](https://www.jiwon.me/1-to-32-hamilton-cycle/) hamilton cycle
+* [TYPES OF GRAPHS (DATA STRUCTURES & ALGORITHMS) - YouTube](https://www.youtube.com/watch?v=DPWzJKII7sE)
 
 # Hamming
 * [How to compute the Hamming distance](https://www.youtube.com/watch?v=P02mJhS9qQ4)
