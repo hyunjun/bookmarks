@@ -138,11 +138,10 @@ Programming
 * [마세라티 문제](http://www.venturesquare.net/585839)
 * [Erik Meijer and Gilad Bracha: Dart, Monads, Continuations, and More](http://channel9.msdn.com/posts/Erik-Meijer-and-Gilad-Bracha-Dart-Monads-Continuations-and-More)
 * [watchpeoplecode.com](http://www.watchpeoplecode.com/)
-* [Technical Cheatsheets](https://devhints.io/)
+* [Devhints — TL;DR for developer documentation](https://devhints.io/) 각 app별 cheatsheet 모음
 * [the new boston computer programming](https://www.thenewboston.com/videos.php)
 * [cheat sheets](http://www.cheat-sheets.org/)
 * [devdocs.io](https://devdocs.io/)
-* [Rico's cheatsheets](https://devhints.io)
 * [What is CODE?](http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
 * [Speak - How We Built A Blazing Fast Audio/Video Platform With Just A Team Of 4](http://stackshare.io/speak/how-we-built-a-blazing-fast-audio-video-platform-with-just-a-team-of-4)
 * [giant_collection_of_programming_links](https://github.com/andrew-canaday/giant_collection_of_programming_links)
@@ -448,6 +447,7 @@ Programming
 * [WorkAdventure - 오픈소스 메타버스 플랫폼 소프트웨어 | GeekNews](https://news.hada.io/topic?id=4823)
 * [DeepDive 강정수 박사의 '메타버스 핵심 읽기'](https://c-rocket.net/deepdive_deepclass-1/)
   * [메타버스 핵심 읽기 | GeekNews](https://news.hada.io/topic?id=5420)
+* [유니티와 함께하는 메타버스 입문서 | GeekNews](https://news.hada.io/topic?id=5553)
 * [Christmas Maze on Gather Town using Teachable Machine | Teachableverse](https://teachableverse.github.io/christmas-maze-gathertown-teachablemachine/)
 * [A System for Detecting Software Similarity](http://theory.stanford.edu/~aiken/moss/)
 * [How to Learn Complex Things Quickly: A Guide](https://product.hubspot.com/blog/how-to-learn-complex-things-quickly)
@@ -676,6 +676,7 @@ Programming
 * [Using API-First Development and API Mocking to Break Critical Path Dependencies](https://www.infoq.com/articles/api-mocking-break-dependencies/)
 * [API Design Best Practice | Better Programming](https://betterprogramming.pub/22-best-practices-to-take-your-api-design-skills-to-the-next-level-65569b200b9)
 * [EP02: Basics of API, Authorization, Authentication and integration - YouTube](https://www.youtube.com/watch?v=JLKIRBkG1N4)
+* [‘비즈니스 의제로 부상한 API 관리’··· 추천 도구 15선 - CIO Korea](https://www.ciokorea.com/news/219179)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
   * [CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=4662)
@@ -1296,6 +1297,7 @@ Programming
 * [GRIT: a Protocol for Distributed Transactions across Microservices](https://tech.ebayinc.com/engineering/grit-a-protocol-for-distributed-transactions-across-microservices/)
 * [마이크로 서비스에서 분산 트랜잭션](https://medium.com/dtevangelist/%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%97%90%EC%84%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-347af5136c87) two phase commit, saga pattern
 * [Saga Orchestration for Microservices Using the Outbox Pattern](https://www.infoq.com/articles/saga-orchestration-outbox/)
+* [Saga Pattern with Kafka and NodeJS: simple implementation | by Vladimir Topolev | Geek Culture | Medium](https://medium.com/geekculture/saga-pattern-with-kafka-and-nodejs-simple-implementation-f1be932c9e26)
 * [Nicolas Frankel - 3 easy performance improvements in your microservices architecture](https://www.youtube.com/watch?v=FUv2sdNO_9o)
 * [Testing Microservices: an Overview of 12 Useful Techniques - Part 1](https://www.infoq.com/articles/twelve-testing-techniques-microservices-intro/)
 * [Testing Microservices: Examining the Tradeoffs of Twelve Techniques - Part 2](https://www.infoq.com/articles/twelve-testing-techniques-microservices-tradeoffs/)
@@ -1412,6 +1414,7 @@ Programming
 * [How do microservices fit into enterprise software platforms? | by Chanaka Fernando | Nov, 2021 | FAUN Publication](https://faun.pub/how-do-microservices-fit-into-enterprise-software-platforms-90686c2f0148)
 * [Turning Microservices Inside-Out](https://www.infoq.com/articles/microservices-inside-out/)
 * [Pitfalls and Patterns in Microservice Dependency Management](https://www.infoq.com/presentations/microservices-dependency-management/)
+* [Best practices to communicate between microservices | by Irfan Yusanif | Dec, 2021 | Medium](https://irfanyusanif.medium.com/how-to-communicate-between-microservices-7956ed68a99a)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -2394,7 +2397,9 @@ Programming
 * [D2 Coding 글꼴](https://github.com/naver/d2codingfont/releases)
 * [Fira Code: monospaced font with programming ligatures](https://github.com/tonsky/FiraCode)
 * [font compare](http://s9w.github.io/font_compare/)
-* Google Fonts [Browse Fonts - Google Fonts](https://fonts.google.com/)
+* Google Fonts
+  * [Browse Fonts - Google Fonts](https://fonts.google.com/)
+  * [Google Fonts Knowledge | GeekNews](https://news.hada.io/topic?id=5551)
 * [hack - http://sourcefoundry.org/hack](http://sourcefoundry.org/hack/)
 * [hoard-of-bitfonts: turns out I like bitmap fonts](https://github.com/robhagemans/hoard-of-bitfonts)
 * [Input - Fonts for Code, from Font Bureau](http://input.fontbureau.com/)
@@ -2415,6 +2420,11 @@ Programming
 * [iconvg: IconVG is a compact, binary format for simple vector graphics: icons, logos, glyphs and emoji](https://github.com/google/iconvg)
 * [ImageMagick – Convert, Edit, or Compose Digital Images](https://imagemagick.org/script/index.php)
   * [My favorite Linux commands for optimizing web images | Opensource.com](https://opensource.com/article/21/12/optimize-web-images-linux)
+* [imagor: Fast, Docker-ready image processing server written in Go and libvips, with Thumbor URL syntax](https://github.com/cshum/imagor)
+  * [Imagor - 빠른 이미지 프로세싱 서버 | GeekNews](https://news.hada.io/topic?id=5552)
+* [Lottie](https://airbnb.io/lottie/) a library for Android, iOS, Web, and Windows that parses Adobe After Effects animations exported as json
+* [PNG Parser Differential](https://www.da.vidbuchanan.co.uk/widgets/pngdiff/)
+  * [PNG Parser Differential | GeekNews](https://news.hada.io/topic?id=5572)
 
 # Infrastructure
 * [IT인프라 전문가 되기](https://brunch.co.kr/magazine/it-infra)
@@ -3442,6 +3452,7 @@ Programming
   * 특히 비개발자들에게 이야기하기 좋게 씌여졌다고 생각함
 * [How we build software at Cloudflare](https://blog.cloudflare.com/building-software-at-cloudflare/)
 * [How do Google engineers work? | LinkedIn](https://www.linkedin.com/pulse/how-do-google-engineers-work-edward-jee/)
+* [Uncomfortable Truths in Software Engineering • Buttondown](https://buttondown.email/hillelwayne/archive/uncomfortable-truths-in-software-engineering/)
 * [Principles.dev - Software Engineering Principles](https://principles.dev/)
   * [Software Engineering Principles | GeekNews](https://news.hada.io/topic?id=4534)
 
@@ -3581,6 +3592,7 @@ Programming
 * [트리거가 필요한 실험에서 결과의 신뢰성을 높이는 방법](https://lumiamitie.github.io/data/counterfactual-logging/) 모수가 적어 A/B test가 어려울 경우
 * [LINE 통화: 최고의 품질을 위한 8년간의 여정 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-call-quality-assurance/)
 * [힘세고 오래가는 테스트 전략 | Coderifleman's blog](https://blog.coderifleman.com/2021/11/17/a-strong-and-maintainable-test-strategy/)
+* [LINE에서 테스트를 최적화하는 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/testing-optimization/)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
@@ -3701,6 +3713,7 @@ Programming
 * [Ridiculously fast unicode (UTF-8) validation – Daniel Lemire's blog](https://lemire.me/blog/2020/10/20/ridiculously-fast-unicode-utf-8-validation/)
 * [Unicode sorting is hard & why browsers added special emoji matching to regexp](https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching)
 * [글자수를 세는 7가지 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/the-7-ways-of-counting-characters/)
+* [Pragmatic Unicode | Ned Batchelder](https://nedbatchelder.com/text/unipain.html)
 * convmv
   * [convert between NFC and NFD Unicode normalization (e.g. for Korean)](https://gist.github.com/kjoonlee/326b8f42e39bcc045e9932fef5511031)
   * [macOS: convmv 를 사용한 유니코드 문제(풀어쓰기) 해결(?) – 바깥 세상으로](https://www.nemonein.xyz/2019/03/1850/)
