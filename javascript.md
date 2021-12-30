@@ -3165,6 +3165,7 @@ Javascript
 * [React VAC Pattern - View 로직과 JSX의 의존성을 최소화 하자!](https://d2.naver.com/news/0568192)
 * [The Plan for React 18 – React Blog](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html)
   * React 18에는 자동 배칭, 스트리밍 서버 렌더링, 새로운 API 추가 예정이나 애플리케이션 코드를 거의 바꾸지 않고도 업그레이드 가능
+* [리액트 서버 컴포넌트와 프리즈마. 리액트 18버전에서 가장 관심을 많이 받고있는 기능은 단연 서버… | by Danny Kim | Prisma Korea | Dec, 2021 | Medium](https://medium.com/prisma-korea/%EB%A6%AC%EC%95%A1%ED%8A%B8-%EC%84%9C%EB%B2%84-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EC%99%80-%ED%94%84%EB%A6%AC%EC%A6%88%EB%A7%88-c1652a997927)
 * [리액트 React 로 리팩토링! 웹 프론트엔드 개발자 모여라 | RIDIBOOKS web 1부 | 리디 RIDI dev. - YouTube](https://www.youtube.com/watch?v=6BG6O5F5dIs)
 * [React 컴포넌트 설계 방법 공개! 웹 코드 리팩토링 프로젝트 | RIDIBOOKS web 2부 | 리디 RIDI dev. - YouTube](https://www.youtube.com/watch?v=ofBhjQZeC0o)
 * [함수 컴포넌트, 선언문 vs 표현식은 취향 차이일까?](https://velog.io/@jjunyjjuny/React-%ED%95%A8%EC%88%98-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%84%A0%EC%96%B8%EB%AC%B8-vs-%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%80-%EC%B7%A8%ED%96%A5-%EC%B0%A8%EC%9D%B4%EC%9D%BC%EA%B9%8C)
