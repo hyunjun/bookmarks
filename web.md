@@ -964,6 +964,7 @@ Web
 * [REST vs. GraphQL vs. gRPC · Dan Hacks](https://www.danhacks.com/software/grpc-rest-graphql.html)
 * [개발 초보를 위한 RESTful API 설계 가이드](https://velog.io/@couchcoding/%EA%B0%9C%EB%B0%9C-%EC%B4%88%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-RESTful-API-%EC%84%A4%EA%B3%84-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [API Architecture — Performance Best Practices for REST APIs | by Abdul Wahab | Nov, 2021 | Medium](https://abdulrwahab.medium.com/api-architecture-performance-best-practices-for-rest-apis-1d4a5922dae1)
+* [REST API 취약점 탐지 자동화 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-rest-api-fuzzing/)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
