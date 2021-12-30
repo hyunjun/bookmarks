@@ -359,6 +359,7 @@ PyTorch
 * [PyTorch Geometry package - a geometric computer vision library for PyTorch](https://github.com/arraiy/torchgeometry)
 * [pytorch-image-models](https://github.com/rwightman/pytorch-image-models)
 * [pytorch-lightning - The lightweight PyTorch wrapper for ML researchers. Scale your models. Write less boilerplate](https://github.com/PyTorchLightning/pytorch-lightning)
+* [pytorch-minimal-gaussian-process: A minimal implementation of Gaussian process regression in PyTorch](https://github.com/swyoon/pytorch-minimal-gaussian-process)
 * [PyTorch-NLP - a Natural Language Processing (NLP) toolkit designed to support rapid prototyping](https://github.com/PetrochukM/PyTorch-NLP)
 * [PyTorch Project Template](https://github.com/moemen95/PyTorch-Project-Template)
 * [pytorch-qrnn - Quasi-Recurrent Neural Network (QRNN) for PyTorch](https://github.com/salesforce/pytorch-qrnn)
