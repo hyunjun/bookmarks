@@ -357,6 +357,7 @@ Haskell
 * [WikibooksHaskell](https://wikidocs.net/book/204)
 
 # Conference
+* ["Building Haskell Programs with Fused Effects" by Patrick Thomson - YouTube](https://www.youtube.com/watch?v=vfDazZfxlNs)
 * [한국 하스켈 학교 제1 회 세미나](https://haskellschoolkr.github.io/seminar/1/)
 * [Haskell conference](https://haskell.love/)
 * [LambdaConf 2015 - How to Learn Haskell in Less Than 5 Years Chris Allen](https://www.youtube.com/watch?v=Bg9ccYzMbxc)
