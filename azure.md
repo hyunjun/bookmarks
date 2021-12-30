@@ -144,6 +144,7 @@ Azure
 * [Microsoft Introduces a Fully-Managed Azure Load Testing Service in Preview](https://www.infoq.com/news/2021/12/azure-load-testing-preview/)
 * [통합 데이터 거버넌스 솔루션 애저 Purview | 애저한발짝 - YouTube](https://www.youtube.com/watch?v=8zEwV0PakxY)
 * [Implementing continuous blue/green deployments on Azure Container Apps by using GitHub Actions | by Dennis Zielke | Nov, 2021 | Medium](https://denniszielke.medium.com/implementing-continuous-blue-green-deployments-on-azure-container-apps-by-using-github-actions-b4cd5183adb8)
+* [프리지아 랩 :: Recovery Services 자격 증명 모음 제거](https://www.dokyun.pe.kr/271)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
