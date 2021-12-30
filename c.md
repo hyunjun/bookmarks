@@ -364,6 +364,7 @@ C
   * [infer](http://fbinfer.com/)
   * [페이스북, 모바일 앱 디버깅 도구 오픈소스로 공개](http://www.bloter.net/archives/230099)
   * [Inferbo: Infer-based buffer overrun analyzer](https://research.fb.com/inferbo-infer-based-buffer-overrun-analyzer/)
+* [jit-tutorial: How to write a very simple JIT compiler](https://github.com/spencertipping/jit-tutorial)
 * [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo ](https://github.com/jpmens/jo)
 * [Jsi - a small javascript interpreter implemented in pure C that includes built-in support for Sqlite, WebSockets, JSON and Zvfs](http://jsish.sourceforge.net/)
 * [jwHash - Simple hash table implementation for C](https://github.com/watmough/jwHash)
