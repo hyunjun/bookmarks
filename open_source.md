@@ -122,7 +122,6 @@ Open Source
 # Dropbox
 * [How Dropbox Security builds tools for threat detection and incident response](https://blogs.dropbox.com/tech/2019/10/how-dropbox-security-builds-better-tools-for-threat-detection-and-incident-response/)
 * [드롭박스가 공개한 무료 JPEG 압축SW](http://techholic.co.kr/archives/57319)
-* [Dropbox Improves Sync Performance Using a Modified Brotli](https://www.infoq.com/news/2020/08/dropbox-broccoli-brotli/)
 * Edgestore; 메타데이터를 저장하는 MySQL 샤드 클러스터
   * [(Re)Introducing Edgestore](https://blogs.dropbox.com/tech/2016/08/reintroducing-edgestore/)
     * 최근 2phase commit 프로토콜을 사용하여 멀티 샤드 트랜잭션 구현
@@ -130,6 +129,9 @@ Open Source
     * copy-on-write를 통해 쓰기 부하를 어떻게 줄였는지 등 시스템 설계에 대한 이야기
     * 라이브 시스템에 배포하는 방법
     * "Shadow" 모드에서 제품을 출시하기 전 기능 및 성능 테스트를 하는 방법
+* [rust-brotli: Brotli compressor and decompressor written in rust that optionally avoids the stdlib](https://github.com/dropbox/rust-brotli)
+  * [Dropbox Improves Sync Performance Using a Modified Brotli](https://www.infoq.com/news/2020/08/dropbox-broccoli-brotli/)
+  * [Broccoli: Syncing faster by syncing less - Dropbox](https://dropbox.tech/infrastructure/-broccoli--syncing-faster-by-syncing-less)
 
 # Facebook
 * [페이스북, 파스 SDK 오픈소스로 전환](http://www.bloter.net/archives/235992)
