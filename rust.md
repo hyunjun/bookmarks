@@ -139,6 +139,7 @@
 * [Compiling Rust is NP-hard](https://niedzejkob.p4.team/rust-np/)
 * [Make a Demo Tool in Rust](https://make-a-demo-tool-in-rust.github.io/)
 * [My negative views on Rust](https://chrisdone.com/posts/rust/)
+* [Rust for Linux Progresses with New Abstractions and Infrastructure](https://www.infoq.com/news/2021/12/rust-for-linux-patch-2/)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)

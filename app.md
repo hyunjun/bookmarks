@@ -57,9 +57,9 @@ App
 * [5 open source tools I can't live without | Opensource.com](https://opensource.com/article/20/10/open-source-tools) tmate, ix, asciinema, GNOME Pomodoro, Jitsi
 * [Best Collaboration Tools in 2021 – Survey Results | The Space Blog](https://blog.jetbrains.com/space/2021/07/16/best-collaboration-tools/)
 * [빠른 목업 제작을 위해 알아두면 좋은 서비스들 | 요즘IT](https://yozm.wishket.com/magazine/detail/1083/) mockup
-* [Devhints — TL;DR for developer documentation](https://devhints.io/) 각 app별 cheatsheet 모음
 * [10minutemail.com](https://10minutemail.com) 10분만 유효한 이메일
 * [AirConsole](http://www.airconsole.com/)
+* [alternative-front-ends: Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)](https://github.com/mendel5/alternative-front-ends)
 * [Apache Guacamole™ -  a clientless remote desktop gateway](https://guacamole.apache.org/)
   * [Apache Guacamole - 클라이언트 필요 없는 리모트 데스크탑 게이트웨이 | GeekNews](https://news.hada.io/topic?id=5495)
 * [Archivy - self-hosted knowledge repository](https://archivy.github.io/)
@@ -68,6 +68,7 @@ App
   * ElasticSearch를 이용한 검색
   * 파이썬 오픈소스 : Flask 웹앱 + Click 으로 만든 CLI
   * 플러그인 시스템 : Pocket/HN 을 자동 저장, Git연동
+* [awesome-search: Awesome Search - this is all about the (e-commerce) search and its awesomeness](https://github.com/frutik/awesome-search)
 * [blisk - Develop and test websites that look great and work fine on any device](https://blisk.io/)
 * [Bonsai | Web Browser for Research](https://bonsaibrowser.com/)
   * [Bonsai - 개발자 워크플로우를 도와주는 웹브라우저 | GeekNews](https://news.hada.io/topic?id=4976)
@@ -534,6 +535,7 @@ App
   * [**Peco 사용법: 커맨드라인 텍스트 증분검색 필터링 도구 | 44BITS**](https://www.44bits.io/ko/post/incremental-search-tool-peco)
 * [Prefect - The New Standard in Dataflow Automation - Prefect](https://www.prefect.io/)
   * [Prefect | Dable Tech Blog](https://teamdable.github.io/techblog/Prefect)
+* [setup-new-computer-script: This script will help with the quick setup and installation of tools and applications for new developers at Vendasta](https://github.com/vendasta/setup-new-computer-script)
 * [Skynet - The decentralized CDN and file sharing platform for devs](https://siasky.net/)
 * [Sourcetrail - The offline cross-platform source explorer Get productive on unfamiliar source code](https://www.sourcetrail.com/)
 * [TeamGantt - Online Gantt Chart Software](https://www.teamgantt.com/)
@@ -558,6 +560,8 @@ App
 * curl
 * [Hoppscotch - Open source API development ecosystem](https://hoppscotch.io/ko/)
 * httpie
+* HTTP Toolkit [Intercept, debug & mock HTTP with HTTP Toolkit](https://httptoolkit.tech/)
+  * [HTTP Toolkit - HTTP 디버깅용 오픈소스 | GeekNews](https://news.hada.io/topic?id=5589)
 * [insomnia - Debug APIs like a human, not a robot Finally, a REST client you'll love](https://insomnia.rest/)
 * paw
 * postman
@@ -982,6 +986,7 @@ App
     * [FFMPEG processing](https://leanpub.com/ffmpeg/read_full)
     * [동영상 파일 미리보기 이미지로 쪼개기 – rein's world](https://rein.kr/blog/archives/4561)
     * [Your browser and my browser see different colors | Mux blog](https://mux.com/blog/your-browser-and-my-browser-see-different-colors/) ffmpeg 자체는 아니지만 사용법 참고
+    * [TIL: ffmpeg으로 비디오 채널 분리하기](https://rein.kr/blog/archives/5541)
     * [ffmpeg-screen-record-agent: ffmpeg을 이용한 화면 녹화 에이전트](https://github.com/ryujt/ffmpeg-screen-record-agent)
       * [10bun.tv](http://ffmpeg-screen-record-agent.s3-website.ap-northeast-2.amazonaws.com/) FFmpeg를 이용한 화면녹화 모듈 개발
     * [FFMPEG.WASM](https://ffmpegwasm.github.io/)

@@ -755,6 +755,7 @@ Java
 * [Embracing Java 17: Here’s What We Learned | by Sander Mak | Nov, 2021 | Picnic Engineering](https://blog.picnic.nl/embracing-java-17-heres-what-we-learned-69779d95fdf2)
 * [Oracle's JDK 17 - Free Again for Commercial Use](https://www.infoq.com/news/2021/10/oracle-jdk-free-again/)
 * [To Java 17 and Beyond! - YouTube](https://www.youtube.com/watch?v=U14IA5XiX1I)
+* [Not stagnation, but regression of Java. Where modern Java 17 loses to Java 8 | by Marian Čaikovski | Dec, 2021 | Medium](https://marian-caikovski.medium.com/not-stagnation-but-regression-of-java-where-modern-java-17-loses-to-java-8-e45b31fec5ac)
 
 # Java18
 * [레코드 및 배열 패턴 外··· 구체화되는 ‘자바 18’ 미리보기 - CIO Korea](https://www.ciokorea.com/news/205454)
@@ -1016,6 +1017,8 @@ Java
 * [Eclipse Collections](https://www.eclipse.org/collections/)
   * [The missing Java data structures no one ever told you about — Part 1 | by Donald Raab | Javarevisited | Aug, 2021 | Medium](https://medium.com/javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-1-f45b6d0ee969)
   * [The missing Java data structures no one ever told you about — Part 2 | by Donald Raab | Javarevisited | Aug, 2021 | Medium](https://medium.com/javarevisited/the-missing-java-data-structures-no-one-ever-told-you-about-part-2-f484a588cce3)
+* [eGovFramework/egovframe-template-simple-backend](https://github.com/eGovFramework/egovframe-template-simple-backend)
+* [eGovFramework/egovframe-template-simple-react](https://github.com/eGovFramework/egovframe-template-simple-react)
 * [Ehcache: Java's Most Widely-Used Cache](http://ehcache.org/)
 * [excel-download: Rapid development possible and Simple Excel Download Library For JAVA 8+](https://github.com/lannstark/excel-download)
   * [아 엑셀다운로드 개발,,, 쉽고 빠르게 하고 싶다 (feat. 엑셀 다운로드 모듈 개발기) - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2020/10/08/excel-download.html)
@@ -1177,6 +1180,7 @@ Java
   * [기고ㅣ애플리케이션에서 ‘Log4j’ 취약점을 탐지하는 방법 - CIO Korea](https://www.ciokorea.com/news/218539)
   * [Tech Solvency: The Story So Far: CVE-2021-44228 (Log4Shell log4j vulnerability).](https://www.techsolvency.com/story-so-far/cve-2021-44228-log4j-log4shell/)
   * [log4j: between a rock and a hard place](https://crawshaw.io/blog/log4j)
+  * [역대급 보안구멍 ‘로그4j’ 막아라···개발자들의 고군분투기 - CIO Korea](https://www.ciokorea.com/news/219184)
   * log4j2-scan [CVE-2021-44228-Scanner/README.md at main · logpresso/CVE-2021-44228-Scanner](https://github.com/logpresso/CVE-2021-44228-Scanner/blob/main/README.md)
   * [Log4Shell: RCE 0-day exploit found in log4j 2, a popular Java logging package | LunaSec](https://www.lunasec.io/docs/blog/log4j-zero-day/)
     * [log4shell-tester](https://github.com/huntresslabs/log4shell-tester)

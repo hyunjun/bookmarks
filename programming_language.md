@@ -80,6 +80,8 @@ Programming Language
     * 코드 변경 없이 런타임만 전환해서 마이그레이션 가능, Spark에 도입한 결과 CPU 사용량 10% 감소, 약 10~42%의 속도 향상
   * [알도개 GraalVM - 자바를 넘어선 새로운 시작의 서막 - YouTube](https://www.youtube.com/watch?v=4lQ-sTDlgIo)
   * [GraalVM 21.3 is here: Java 17, Native Image performance updates and more 🚀 | by Alina Yurenko | graalvm | Oct, 2021 | Medium](https://medium.com/graalvm/graalvm-21-3-is-here-java-17-native-image-performance-updates-and-more-ac4cbafcfc05)
+  * [GraalVM: The future of JVM languages | by Ahmed E. Eldeeb | Dec, 2021 | Medium](https://medium.com/@ahmedeeldeeb/graalvm-the-future-of-jvm-languages-350fa892ae45)
+  * [**Building Native image with Spring Boot | by Pavel Klindziuk | Dandelion Tutorials | Dec, 2021 | Medium**](https://medium.com/dandelion-tutorials/building-native-image-with-spring-boot-d9d086d0c512)
 * [-4 % 3 = ?](https://libsora.so/posts/sign-of-mod-operator/) 음수인 경우 language에 따라 mod의 결과가 다름
 * [연봉 높은 프로그래밍 언어 순위 2018](https://futurecreator.github.io/2018/08/07/highest-salaries-worldwide-programming-languages-2018/)
 * [Top 3 Programming Language To Watch Out in 2019](https://hackernoon.com/top-3-programming-language-to-watch-out-in-2019-95995e81ad2b)

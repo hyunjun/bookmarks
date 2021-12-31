@@ -47,6 +47,7 @@ C#
 * [C# for Pentesters - Part II - Process Injection and XOR Shell Code Encryption / Decryption - YouTube](https://www.youtube.com/watch?v=SoMirwLEo-s)
 * [C# for Pentesters - Part III - Classic DLL Injection - YouTube](https://www.youtube.com/watch?v=fCfneKhiYBw)
 * [C# for Pentesters - Part IV - Bypass Antivirus using PowerShell without PowerShell.exe - YouTube](https://www.youtube.com/watch?v=lS7IGDtfkHM)
+* [Building a Source Generator for C#](https://www.infoq.com/articles/CSharp-Source-Generator/)
 
 # API
 * [C# Futures: Null Check Operator](https://www.infoq.com/news/2020/07/CSharp-Null-Check/)

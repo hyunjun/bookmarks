@@ -20,6 +20,9 @@ Concurrency
 * [Fearless concurrency: how Clojure, Rust, Pony, Erlang and Dart let you achieve that. - Renato Athaydes](https://sites.google.com/a/athaydes.com/renato-athaydes/posts/fearlessconcurrencyhowclojurerustponyerlanganddartletyouachievethat)
 * [프로그램, 바이너리, 프로세스, 스레드의 개념 - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/process-thread/)
 * ["How to Think about Parallel Programming: Not!" - Guy L. Steele Jr. (Strange Loop 2010) - YouTube](https://www.youtube.com/watch?v=dPK6t7echuA)
+* [멀티코어 프로그래밍에서 흔히 발생하는 메모리 문제 회피하기 – 안드로메다 토끼](https://andromedarabbit.net/%eb%a9%80%ed%8b%b0%ec%bd%94%ec%96%b4-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d%ec%97%90%ec%84%9c-%ed%9d%94%ed%9e%88-%eb%b0%9c%ec%83%9d%ed%95%98%eb%8a%94-%eb%a9%94%eb%aa%a8%eb%a6%ac-%eb%ac%b8/)
+* [멀티코어 프로그래밍에서 흔히 발생하는 문제, 1부 – 안드로메다 토끼](https://andromedarabbit.net/%eb%a9%80%ed%8b%b0%ec%bd%94%ec%96%b4-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d%ec%97%90%ec%84%9c-%ed%9d%94%ed%9e%88-%eb%b0%9c%ec%83%9d%ed%95%98%eb%8a%94-%eb%ac%b8%ec%a0%9c-1%eb%b6%80/)
+* [멀티코어 프로그래밍에서 흔히 발생하는 문제, 2부 – 안드로메다 토끼](https://andromedarabbit.net/%eb%a9%80%ed%8b%b0-%ec%bd%94%ec%96%b4-%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d%ec%97%90%ec%84%9c-%ed%9d%94%ed%9e%88-%eb%b0%9c%ec%83%9d%ed%95%98%eb%8a%94-%eb%ac%b8%ec%a0%9c-2%eb%b6%80/)
 
 # Actor
 * [**The actor model in 10 minutes**](https://www.brianstorti.com/the-actor-model)

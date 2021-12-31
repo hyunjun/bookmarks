@@ -1498,6 +1498,8 @@ Programming Books
 * [최강의 조직](https://brunch.co.kr/@younghakjang/118)
   * ★★★★☆ 2021.11.18
   * [최강의 조직. 마지막으로, 구성원들이 ‘왜?’라는 질문을 던지는 데 주저함이 없고 그… | by Jun | Nov, 2021 | Medium](https://nymets.medium.com/%EC%B5%9C%EA%B0%95%EC%9D%98-%EC%A1%B0%EC%A7%81-394ccd294df8)
+* 개발자로 살아남기
+  * ★★★★★ 2021.12.30
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
