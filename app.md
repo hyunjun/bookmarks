@@ -1039,6 +1039,7 @@ App
 * [Helium - 공기보다 가벼운(?) 반투명한 맥용 미니 웹 브라우저 'Helium'](http://macnews.tistory.com/3316)
 * [Hidden Bar lets you hide menu bar items to give your Mac a cleaner look](https://github.com/dwarvesf/hidden)
 * [highlight](https://github.com/taggon/highlight)
+* [Hookshot](https://hookshot.app/) spectacle 유사
 * [Hyper 리뷰- Mac과 iOS, 안드로이드, 웹에서 사용가능한 사용자지정 양식 스택카드 (맥앱,iOS앱 추천)](https://www.appicide.net/p220)
 * [Hyper™](https://hyper.is/)
   * [5 Steps to a Beautiful Terminal That You’ll Love Using](https://medium.com/better-programming/5-steps-to-a-beautiful-terminal-that-youll-love-using-9e94ecb4191b)
