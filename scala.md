@@ -1167,6 +1167,7 @@ Scala
   * [Scala Days Lausanne 2019](https://www.youtube.com/playlist?list=PLLMLOC3WM2r5KDwkSRrLJ1_O6kZqlhhFt)
 * [ScalaIO - 2018](https://www.youtube.com/playlist?list=PLjkHSzY9VuL9u4VNO7FEx0rvT8OGathj_)
 * [Scala Love 2020](https://www.youtube.com/playlist?list=PLBqWQH1MiwBSThMSFV4k4dGTZkS0mfbxo)
+* ScalaMatsuri [Submit your talks for ScalaMatsuri 2022! - ScalaMatsuri blog](https://blog-en.scalamatsuri.org/entry/2021/12/01/131641)
 * [Scalapeño](https://www.youtube.com/channel/UCiZ-yvcOuX76q5CpCW-9jHw)
   * [Keynote: The Last Hope for Scala's Infinity War - John A. De Goes](https://www.youtube.com/watch?v=v8IQ-X2HkGE)
     * scala의 여러가지 문제점을 논함. 내부적으로 위기를 느끼나?
@@ -2193,6 +2194,7 @@ Scala
 * [Mechanics of unboxed union types in Scala](https://virtuslab.com/blog/mechanics-unboxed-union-types-scala/)
 * [Returning the "Current" Type in Scala](http://tpolecat.github.io/2015/04/29/f-bounds.html)
   * [doobie - a pure functional JDBC layer for Scala](https://github.com/tpolecat/doobie)
+    * [doobie](https://tpolecat.github.io/doobie/)
     * [Typechecking SQL in Slick and doobie](http://underscore.io/blog/posts/2015/05/28/typechecking-sql.html)
     * [Typechecking SQL queries with doobie](https://blog.godatadriven.com/doobie-monix-jdbc-example)
     * [Presto with Doobie](https://medium.com/scout24-engineering/presto-with-doobie-640da3147db4)
@@ -2200,6 +2202,7 @@ Scala
     * [Testing Doobie programs](https://blog.softwaremill.com/testing-doobie-programs-425517c1c295)
     * [Composing doobie programs using Cats](https://medium.com/@arjun.dhawan/composing-doobie-programs-5337695fd77b)
     * [a simple web service using Http4s + Doobie + Jooq + JWT](https://github.com/jdaviderb/http4s-ddd-example)
+    * [Learn Doobie for the Greater Good - Rock the JVM Blog](https://blog.rockthejvm.com/doobie/)
   * [tut - doc/tutorial generator for scala](https://github.com/tpolecat/tut)
 * [Type safe SalesForce Queries (SOQL) in Scala](https://developers.redhat.com/blog/2015/06/11/type-safe-salesforce-queries-soql-in-scala/)
 * [Type Level Programming in Scala step by step](https://gigiigig.github.io/tlp-step-by-step/introduction.html)
