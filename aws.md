@@ -1336,6 +1336,7 @@ AWS
 * [AWS VPC Reachability Analyzer - Part 2 :: 감성 IT人 네떡지기 & 플밍지기](https://zigispace.net/1110)
 * [AWS VPC 대역(CIDR)에 대한 라우팅 구체화 설정(Longest Match)](https://zigispace.net/1138)
 * [이론 AWS VPC 상세히 알아보기 - YouTube](https://www.youtube.com/watch?v=ZISUSL431bY)
+* [입 개발 AWS VPC Peering | Charsyam's Blog](https://charsyam.wordpress.com/2021/12/30/%ec%9e%85-%ea%b0%9c%eb%b0%9c-aws-vpc-peering/)
 
 # VPN
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
