@@ -276,6 +276,7 @@ Machine Learning
 * [github.com/ml-ko/ml](https://github.com/ml-ko/ml)
 * [Learning with Maximum Likelihood](http://www.autonlab.org/tutorials/mle13.pdf)
 * [(ML 4.1) Maximum Likelihood Estimation (MLE) (part 1)](https://www.youtube.com/watch?v=aHwsEXCk4HA&list=PLD0F06AA0D2E8FFBA&index=22)
+* [분포를 왜 추정하는걸까? MLE vs MAP - 분포를 추정해서 손글씨를 만들어보자(1)](https://velog.io/@gibonki77/Inference-1)
 * [Is Maximum Likelihood Useful for Representation Learning?](http://www.inference.vc/maximum-likelihood-for-representation-learning-2/)
 * Minimizing the Negative Log-Likelihood, in Korean
   * [(1)](https://jaejunyoo.blogspot.com/2018/02/minimizing-negative-log-likelihood-in-kor.html)
