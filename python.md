@@ -2274,6 +2274,7 @@ Python
 * [Django, HTMX and Alpine.js: Modern websites, JavaScript optional](https://www.saaspegasus.com/guides/modern-javascript-for-django-developers/htmx-alpine/)
 * [Episode 2 — Creating a PDF generating Django Application | by Francisco Betancourt | Oct, 2021 | Medium](https://medium.com/@betancourt.francisco/episode-2-creating-a-pdf-generating-django-application-73a31f332fd4)
 * [Python Django Web Framework - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMDLp4GH-rgQhVKqqZawlNwG)
+* [Django 4.0 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/django-4-0-release-note-summary)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Doctor - Django code improvement bot](https://django.doctor/challenge)
