@@ -159,6 +159,7 @@ Artificial Intelligence
 * [AI는 내친구 #25 KMOOC 비전공자를 위한 딥러닝 강의 예고 | KAIST AI STUDIO - YouTube](https://www.youtube.com/watch?v=8AYcP4y2GQc)
 * [최신 인공지능을 배울 수 있는 좋은 소스](https://brunch.co.kr/@gauss92tgrd/41)
 * [8 Best Free Courses to Learn AI (Artificial Intelligence) in 2021](https://www.mltut.com/best-free-courses-to-learn-ai/)
+* [6 Best Artificial Intelligence Courses for Healthcare in 2022](https://www.mltut.com/best-artificial-intelligence-courses-for-healthcare/)
 * [alina.ai/courses/practical_dl_for_coders](http://alina.ai/courses/practical_dl_for_coders/) 코더들을 위한 실전 딥러닝 강의
 * [Artificial Intelligence Lecture Series](https://www.youtube.com/playlist?list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee)
 * [blog.alina.ai/courses/ai-pm](http://blog.alina.ai/courses/ai-pm/)
