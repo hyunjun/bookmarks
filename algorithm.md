@@ -248,6 +248,7 @@ Algorithm
 * [가희배 코테에 나온 수인분당선 문제를 세팅한 이야기](https://codingdog.tistory.com/597)
 * [Decimal Number To Binary | Python | Problem #1 - YouTube](https://www.youtube.com/watch?v=cUc2cGWPij8)
 * [Algorithm – 1ambda](https://1ambda.blog/category/algorithm/)
+* [Data Structures and Algorithms Full Course with FAANG Interview Questions Solved | DS Algo Tutorial - YouTube](https://www.youtube.com/watch?v=NLDJwMLm1Q4)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
