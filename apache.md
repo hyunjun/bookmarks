@@ -655,8 +655,13 @@ Apache
 * [Event Sourcing with Kafka Streams in Production — Lessons Learned | by Nico | comsystoreply | Medium](https://medium.com/comsystoreply/event-sourcing-with-kafka-streams-in-production-lessons-learned-1ab563891874)
 * [Postgres, Kafka, and the Mysterious 100 GB – Coding, Climbing, and Commentary](https://www.mattritter.me/?p=398)
 * [The Top 5 Apache Kafka Use Cases and Architectures in 2022](https://www.slideshare.net/KaiWaehner/the-top-5-apache-kafka-use-cases-and-architectures-in-2022)
-* [Practical Kafka – Intro (1) – 1ambda](https://1ambda.blog/2021/12/29/practical-kafka-1/)
-* [Practical Kafka – Concept (2) – 1ambda](https://1ambda.blog/2021/12/29/practical-kafka-2/)
+* AWS에서 Kafka를 사용하기 위해 필요한 내용을 정리한 시리즈 글
+  * [Practical Kafka – Intro (1) – 1ambda](https://1ambda.blog/2021/12/29/practical-kafka-1/)
+    * Kafka 아키텍처와 Broker, Producer, Consumer 등의 요소 설명
+    * Broker 간에 Topic을 이용해서 파티셔닝과 리플리케이션을 어떻게 하는지 설명
+  * [Practical Kafka – Concept (2) – 1ambda](https://1ambda.blog/2021/12/29/practical-kafka-2/)
+    * Consumer가 어떤 Partition을 가져가는지 결정하는 파티션 할당과 재할당이 이뤄지는 과정 설명
+    * 새로 추가된 재할당 개선 기능으로 재할당을 삭제 후 추가되어도 진행하지 않는 Static Membership과 재할당이 필요한 Consumer만 진행하는 Incremental Rebalancing Protocol을 설명
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
