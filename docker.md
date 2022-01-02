@@ -975,6 +975,10 @@ Docker
   * OpenAI의 특성상 작업을 한곳에 모으려고 kube-scheduler를 수정해서 작업이 한곳에 모였지만 노드에 집중되어서 발생한 문제가 발생
   * 특정 Docker 이미지가 너무 큰 문제로 다른 이미지까지 지연되는 --serialize-image-pulls 설정 문제 등도 알게 됨
 * [Kubernetes 운영을 위한 etcd 기본 동작 원리의 이해 – tech.kakao.com](https://tech.kakao.com/2021/12/20/kubernetes-etcd/)
+  * Kubernetes의 기반 스토리지인 etcd 동작 방식 설명
+  * 카카오에서는 마스터 노드를 직접 운영하면서 Kubernetes 업그레이드 시 마스터 노드를 교체하면서 직접 etcd 서버를 추가/삭제하므로 이 과정에서 얻는 경험을 토대로 설명
+  * Raft를 구현한 etcd가 리더를 선출하고 로그를 복제하는 과정과 이때 멤버를 추가/삭제하면 어떤 일이 벌어지는지 자세히 보여주고 있어서 이 부분만 알아도 etcd를 이해하는데 도움
+  * 글의 뒷부분에는 etcd를 유지보수 하기 위해 백업/복구를 하는 방법 설명
 * [How to learn and practice more in Kubernetes Network Policy for CKx exams and EKS ? - DEV Community](https://dev.to/aws-builders/how-to-learn-and-practice-more-in-kubernetes-network-policy-for-ckx-exams-and-eks--4cgn)
 * [Kubernetes and Networks - why is this so dang hard? - Speaker Deck](https://speakerdeck.com/thockin/kubernetes-and-networks-why-is-this-so-dang-hard)
 * [Why (and when) you should use Kubernetes](https://hackernoon.com/why-and-when-you-should-use-kubernetes-8b50915d97d8)
