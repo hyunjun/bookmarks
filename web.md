@@ -248,6 +248,10 @@ Web
 * [**짧게 써보는 웹 프론트엔드의 역사**](https://velog.io/@minsangk/%EC%A7%A7%EA%B2%8C-%EC%8D%A8%EB%B3%B4%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EC%97%AD%EC%82%AC)
 * [프론트엔드 개발하고 싶은데 자바스크립트(와 떨거지들)가 싫은 이들에게 - DEV Community](https://dev.to/composite/peuronteuendeu-gaebalhago-sipeunde-jabaseukeuribteuwa-ddeolgeojideulga-silheun-ideulege-2h73) flutter blazor vaadin
 * [Defining the Web3 Stack - Nader Dabit - (Next.js Conf 2021) - YouTube](https://www.youtube.com/watch?v=f9XRH7bjV8M)
+* [실리콘밸리는 웹 3.0 논쟁 중이래요!](https://stibee.com/api/v1.0/emails/share/xJZlbV0k-4beUjVVNmJTR8CLYeRACQ==)
+  * 최근 웹 3.0과 관련해서 마크 안데르센과 잭 도시가 벌인 논쟁 정리
+  * 넷스케이프를 만들고 a16z 벤처투자 회사를 만든 마크 안데르센이 플랫폼을 사용자와도 같이 소유할 수 있는 웹 3.0을 지지
+  * 잭 도시는 웹 3.0을 해도 어차피 돈을 버는 것은 벤처캐피탈과 투자자뿐이라고 비판하면서 트위터 계정을 차단하는 등 논쟁 발생
 
 # Apache
 * installation
