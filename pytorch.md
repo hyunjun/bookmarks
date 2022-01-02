@@ -440,6 +440,7 @@ PyTorch
 * [How to train a new language model from scratch using Transformers and Tokenizers](https://huggingface.co/blog/how-to-train)
 * [Accelerate — accelerate documentation](https://huggingface.co/docs/accelerate)
   * [Introducing 🤗 Accelerate](https://huggingface.co/blog/accelerate-library)
+* [the-clean-transformer: pytorch-lightning과 wandb로 깔끔하게 구현해보는 트랜스포머](https://github.com/eubinecto/the-clean-transformer)
 * [DALLE-pytorch: Implementation / replication of DALL-E, OpenAI's Text to Image Transformer, in Pytorch](https://github.com/lucidrains/DALLE-pytorch)
 * [HanBert-Transformers](https://github.com/monologg/HanBert-Transformers)
 * [Pretrain Transformers Models in PyTorch using 🤗 Transformers | by George Mihaila | Oct, 2020 | Medium](https://gmihaila.medium.com/pretrain-transformers-models-in-pytorch-using-transformers-ecaaec00fbaa)
