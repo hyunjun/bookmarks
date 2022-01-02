@@ -1578,7 +1578,6 @@ Javascript
 * [Gamma - Simple code behind interactive articles](http://tomasp.net/blog/2015/thegamma/index.html)
 * [gBoxShadow.js - Gravity-sensing box-shadow for Flat UI http://gigacore.github.io/demos/gBoxShadow ](https://github.com/Gigacore/gBoxShadow)
 * [gifshot - JavaScript library that can create animated GIFs from media streams, videos, or images http://yahoo.github.io/gifshot ](https://github.com/yahoo/gifshot)
-* [Goo Engine - an open-source 3D engine using HTML5 and WebGL for rendering](https://github.com/GooTechnologies/goojs)
 * [GPU.JS - GPU Accelerated JavaScript](http://gpu.rocks/)
 * [Gramma - command-line grammar checker](https://caderek.github.io/gramma/)
   * [Gramma - 커맨드라인 문법(grammar) 검사기 | GeekNews](https://news.hada.io/topic?id=5243)
@@ -1881,6 +1880,10 @@ Javascript
 * WebGL
   * [WebGL implementation of 2D Dynamic Lighting](http://xnajs.com/examples/02/)
   * [Re-Creating Megaman 2](https://medium.com/recreating-megaman-2-using-js-webgl)
+  * [cobe: 5kB WebGL globe lib](https://github.com/shuding/cobe)
+    * WebGL로 구현한 [지구](https://cobe.vercel.app/)로 자세한 구현과정은 [트위터 스레드](https://twitter.com/shuding_/status/1475916082875666441)에
+    * 기존에 Three.js로 지구를 구현했지만, 최적화를 잘하지는 못했는데 GitHub이 구현한 글을 보고 아이디어를 얻어서 점으로 구성된 세계 지도를 구성하고 극점 부분의 표현을 최적화
+  * [Goo Engine - an open-source 3D engine using HTML5 and WebGL for rendering](https://github.com/GooTechnologies/goojs)
   * [WebGLStudio.js](http://webglstudio.org/)
 * [WebGPU](https://gpuweb.github.io/gpuweb/)
   * [Access modern GPU features with WebGPU](https://web.dev/gpu/)
