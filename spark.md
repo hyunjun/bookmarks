@@ -415,6 +415,7 @@
 * [Practical Spark – Join (9) – 1ambda](https://1ambda.blog/2021/12/27/practical-spark-9/)
 * [Practical Spark – Memory (10) – 1ambda](https://1ambda.blog/2021/12/27/practical-spark-10/)
 * [Practical Spark – Versions (11) – 1ambda](https://1ambda.blog/2021/12/28/practical-spark-11/)
+* [Practical Spark – 자주 묻는 질문들 (12) – 1ambda](https://1ambda.blog/2022/01/02/practical-spark-12/)
 
 # Apache Livy
 * [Apache Livy](https://livy.incubator.apache.org/) A REST Service for Apache Spark
