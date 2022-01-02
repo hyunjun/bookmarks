@@ -719,6 +719,10 @@ Data Science
 * [On YouTube’s recommendation system](https://blog.youtube/inside-youtube/on-youtubes-recommendation-system/)
 * [Spotify가 당신의 음악 다양성을 이해하는 방법 – 인사이트캠퍼스](http://insightcampus.co.kr:9090/insightcommunity/?mod=document&uid=12920)
 * [카카오 AI추천 : 카카오의 콘텐츠 기반 필터링 (Content-based Filtering in Kakao) – tech.kakao.com](https://tech.kakao.com/2021/12/27/content-based-filtering-in-kakao/)
+  * 카카오 웹툰에서 콘텐츠 기반 필터링으로 관련 있는 다른 콘텐츠를 추천하는 방법 설명
+  * 콘텐츠의 유사도를 측정하기 위해서 아이템의 벡터를 만들기 위해 One-hot encoding과 Embedding
+  * 표현할 데이터 범주의 영역이 넓거나 데이터가 복잡하다면 Embedding을 더 많이 사용
+  * 콘텐츠 기반 필터링은 소비 이력이 없어도 아이템 정보만 있으면 추천할 수 있다는 장점이 있지만, 소비 이력 데이터가 충분하다면 협업 필터링보다 추천 성능이 밀린다고 함
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
