@@ -799,6 +799,7 @@ Apache
   * [Change Data Streaming Patterns for Microservices with Debezium](https://developers.redhat.com/videos/youtube/QYbXDp4Vu-8)
   * [Using Debezium, CDC for Apache Kafka, with PostgreSQL and MongoDB – Flant blog](https://blog.flant.com/debezium-cdc-for-apache-kafka/)
   * [Practical Change Data Streaming Use Cases with Apache Kafka & Debezium](https://www.infoq.com/presentations/data-streaming-kafka-debezium/)
+  * [Configuring Topic Auto-Creation with the Debezium UI - YouTube](https://www.youtube.com/watch?v=C7K1V833eDk)
 * Decaton [Kafka를 이용한 작업 큐 라이브러리 'Decaton' 활용 사례 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/decaton-case-studies/)
 * kafka connect
   * [Kafka Connect S3 Source Connector](https://docs.confluent.io/current/connect/kafka-connect-s3-source/index.html)
