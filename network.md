@@ -155,6 +155,14 @@ Network
 * [Introduction - HTTP/3 explained](https://http3-explained.haxx.se/)
 * [HTTP/3 From A To Z: Core Concepts (Part 1) — Smashing Magazine](https://www.smashingmagazine.com/2021/08/http3-core-concepts-part1/)
   * [HTTP3, 사실 진짜로 바뀐건 TCP 였다. | Hama Develop](https://www.hamadevelop.me/http3/)
+* [HTTP/3 is Fast | HTTP/3 is here, and it’s a big deal for web performance. See just how much faster it makes websites! | Request Metrics](https://requestmetrics.com/web-performance/http3-is-fast)
+  * 벤치마크 환경을 만들어서 HTTP/3의 속도를 테스트한 글
+  * HTTP/1.1에서는 한번에 한개의 파일을 TCP 연결로 받음(Head-of-line Blocking) 이를 피하려고 브라우저는 여러 TCP 커넥션을 open
+  * HTTP/2에서는 멀티플랙싱을 통해 애플리케이션 레벨에서 head-of-line 블러킹 이슈 해결. 즉 하나의 TCP 연결로 여러 파일을 병렬로 받을 수 있음
+  * HTTP/2에서도 head-of-line 블러킹 이슈가 있었는데 패킷 로스가 일어났을 때 패킷이 재전송될 때까지 기다려야 함. 그래서 패킷 로스가 많은 환경에서는 오히려 HTTP/1.1이 더 나은 성능
+  * HTTP/3에서는 TCP 대신 QUIC 프로토콜을 사용해서 멀티플랙싱을 구현
+  * 벤치마크 환경은 600kb 의 작은 사이트와 10MB의 컨텐츠 사이트, 15MB의 SPA를 비교하자 HTTP/3가 빠른 것으로 나타남
+  * 이는 HTTP/3에서는 head-of-line 블러킹 이슈가 없고 0-RTT 지원으로 서버와 TLS 연결을 하면서 라운드 트립이 적기 때문
 * [http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers](https://github.com/for-GET/http-decision-diagram)
   * [HTTP/REST IS NOT BIG, NOR HEALTHY. IT'S HELL NO!](http://hyperrest.github.io/2013-06-10-http-hell-no)
 * [**서버의 상태를 알려주는 HTTP 상태 코드**](https://evan-moon.github.io/2020/03/15/about-http-status-code/)
