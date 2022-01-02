@@ -1203,6 +1203,9 @@ Machine Learning
 * [커피고래가 생각하는 MLOps | 커피고래의 노트](https://coffeewhale.com/what-is-mlops)
 * [하나의 코드 베이스 & 파이프라인으로 여러 도메인에 “코드 수정 없이” AI 모델들을 배포할 수 있을까. 박중배 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=XDzMK5NoiLQ)
 * [Welcome to MLOps for ALL! - 모두의 MLOps](https://mlops-for-all.github.io/docs/prologue/welcome/)
+  * MLOps를 공부하고자 하는 사람들의 지침서로 만든 프로젝트
+  * MLOps는 머신러닝을 서비스에 적용하기 더 쉽도록 파이프라인을 통해 머신러닝 엔지니어와 소프트웨어 엔지니어가 소통할 수 있게 함
+  * 개념 설명뿐 아니라 설정 방법과 Kubeflow에 대한 설명이 포함되어 있어서 MLOps에 관심 있거나 공부해 보고자 하면 아주 좋은 문서
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
 * [MadeWithML: Learn how to responsibly deliver value with ML](https://github.com/GokuMohandas/MadeWithML)
 * **[MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
