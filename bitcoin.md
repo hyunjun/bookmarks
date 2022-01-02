@@ -225,6 +225,10 @@ Bitcoin
 * [NFT 초보자를 위한 Super Urban People(SUP) 가이드 | by easyto.eth | Dec, 2021 | Medium](https://medium.com/@easyto/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-super-urban-people-sup-nft-%EA%B0%80%EC%9D%B4%EB%93%9C-21251b029a4c)
 * [NFT가 궁금한 당신을 위한 꼼꼼 가이드 | GeekNews](https://news.hada.io/topic?id=5531)
 * [“NFT, 잘 모르겠지만 일단 한번 팔아 봤습니다.” | 요즘IT](https://yozm.wishket.com/magazine/detail/1229/)
+* [탈중앙 게임, 그리고 블록체인과 NFT — 洪民憙雜記](https://writings.hongminhee.org/2022/1/decentralized-game/)
+  * 수년간 "블록체인 게임" 혹은 탈중앙 게임을 만들면서 생각을 정리한 글
+  * 보통 같은 용어로 쓰지만, 이 글에서는 블록체인 게임, 탈중앙 게임, NFT 게임을 구분해서 얘기하고 있으며 모든 게임이 탈중앙화될 필요는 없고 탈중앙하더라도 일부만 되어서는 이득이 별로 없다
+  * 그래서 블록체인의 특성이 게임 디자인에 침투되어야 한다는 의견. "맨 처음 가장 중요한 것은 블록체인이나 NFT가 필요 없는 게임에 블록체인을 억지로 끼워 넣으려고 하지 말아야 한다는 것이다."
 
 # Python
 * [A peek under Bitcoin's hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
