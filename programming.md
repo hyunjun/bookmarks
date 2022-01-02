@@ -1415,6 +1415,7 @@ Programming
 * [Turning Microservices Inside-Out](https://www.infoq.com/articles/microservices-inside-out/)
 * [Pitfalls and Patterns in Microservice Dependency Management](https://www.infoq.com/presentations/microservices-dependency-management/)
 * [Best practices to communicate between microservices | by Irfan Yusanif | Dec, 2021 | Medium](https://irfanyusanif.medium.com/how-to-communicate-between-microservices-7956ed68a99a)
+* [영상 - 마이크로서비스 6가지 핵심 개념 소개 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/microservices-6-key-concepts)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -2231,6 +2232,10 @@ Programming
 * [7 Cryptography Concepts EVERY Developer Should Know - YouTube](https://www.youtube.com/watch?v=NuyzuNBFWxQ)
 * [DDOS 대응 일지 – 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=4125)
 * [개발 1도 모르는 사업개발자 암호화 개발 도전기](https://groovy-metatarsal-492.notion.site/1-38d975736fc14fb19738aa4e7c4c3d5e)
+* [로그인할 때 패스워드를 해싱해서 보내는 것은 보안에 아무런 도움이 안됩니다 | Jang's Blog](https://www.palindrom615.dev/client-side-hashing-is-not-helping)
+  * HTTPS에서 패스워드를 그대로 보내면 안 되고 해싱해야 한다는 이야기에 대한 의견 정리
+  * HTTPS에서 패스워드 전송은 평문이 아니며 서버 관리자가 패스워드를 알 수 있으므로 해싱을 해야 한다는 얘기도 잘못된 이야기
+  * 브라우저에서 해싱하지 말아야 한다고 정리. 클라이언트 해싱을 하지 말아야 하고 의미도 없다고 함
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
