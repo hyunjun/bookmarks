@@ -384,6 +384,7 @@ Git
 * [4 tips for context switching in Git | Opensource.com](https://opensource.com/article/21/4/context-switching-git) stash + branch, WIP commit + branch, new repository clone, worktree, rev-parse
 * [**Code Review from the Command Line – Jake Zimmerman**](https://blog.jez.io/cli-code-review/)
   * `hub pr checkout`, `git stat`, `git heatmap`, `git depgraph`, `git review`, `git reviewone`
+* [About basic Git commands. Git is an open-source distributed… | by Jony Choi | Jan, 2022 | Medium](https://jonychoi.medium.com/about-basic-git-commands-6bdad9cfc8fa)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
   * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
