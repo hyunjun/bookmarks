@@ -999,6 +999,7 @@ Business
   * [당신의 혁신 능력을 망가뜨리지 마라](https://brunch.co.kr/@graypool/282)
   * `가장 중요한 걸 찾고 나머지는 내버려둬라` 이게 가장 어려운 일 아닌가?
 * [스타트업계 전설 권도균 "창업자는 철학자가 돼야···모든 것 쓰고 갈 것" - ZDNet korea](https://zdnet.co.kr/view/?no=20211214095913) 드러커는 경영을 규율이라고 했다
+* [코딩, 대체 어디서부터 시작해야 하지? | ㅍㅍㅅㅅ](https://ppss.kr/archives/249113)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
