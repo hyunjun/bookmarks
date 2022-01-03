@@ -486,6 +486,7 @@ Book
   * ★★★★★ 2021.12.21
 * [<로지코믹스> : 네이버 블로그](https://blog.naver.com/ungzx/220551811203)
   * ★★★★☆ 2021.12.28
+  * [로지 코믹스. 그건 아직 증명하지 않으셨잖아요. | by Jun | Jan, 2022 | Medium](https://nymets.medium.com/%EB%A1%9C%EC%A7%80-%EC%BD%94%EB%AF%B9%EC%8A%A4-7b4228c638c8)
 
 # Religion
 * [종교전쟁 - 종교에 미래는 있는가?](http://sciencebooks.minumsa.com/book/325/)
