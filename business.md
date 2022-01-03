@@ -451,6 +451,7 @@ Business
 * [구성원의 성장을 위한 리뷰의 한끗 - 더 의미있는 리뷰, 어떻게 하면 될까요?](https://camp.lemonbase.com/review)
 * [업무 평가 하기](https://brunch.co.kr/@jinhoyooephf/22)
 * [결국 끝까지 해내는 사람들의 5단계 실천법 – 체인지그라운드](http://thechangeground.com/archives/86597) SMART
+* [성과 평가](https://brunch.co.kr/@tilltue/81)
 
 # CEO
 * [벤 호로위츠 "CEO 임무는 기업문화 만들기..원칙 세우고 예외 없이 적용하라"](https://news.v.daum.net/v/20210530182001925) 하드씽 Hard Thing
@@ -1051,3 +1052,4 @@ Business
 * [디자이너를 쉽게 잃는 방법 10가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/807/)
 * [일부러 디자인을 망치는 디자이너들 | 요즘IT](https://yozm.wishket.com/magazine/detail/1127/)
 * [The History of Command Palettes: How Typing Commands Became The Norm Again | Capiche](https://capiche.com/e/consumer-dev-tools-command-palette)
+* [실전 웹기획 - 윤리적인 기획과 마케팅](https://brunch.co.kr/@fbrudtjr1/39)
