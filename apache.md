@@ -662,6 +662,7 @@ Apache
   * [Practical Kafka – Concept (2) – 1ambda](https://1ambda.blog/2021/12/29/practical-kafka-2/)
     * Consumer가 어떤 Partition을 가져가는지 결정하는 파티션 할당과 재할당이 이뤄지는 과정 설명
     * 새로 추가된 재할당 개선 기능으로 재할당을 삭제 후 추가되어도 진행하지 않는 Static Membership과 재할당이 필요한 Consumer만 진행하는 Incremental Rebalancing Protocol을 설명
+* [Introducing Confluent’s Parallel Consumer Message Processing Client](https://www.confluent.io/blog/introducing-confluent-parallel-message-processing-client/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
