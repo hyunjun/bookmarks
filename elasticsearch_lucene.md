@@ -315,6 +315,7 @@ ElasticSearch - Lucene
 * [Elastic Security - 내부 정보 유출 탐지 사례 데모 - YouTube](https://www.youtube.com/watch?v=64VDu5ilHYg)
 * [What every software engineer should know about search](https://scribe.rip/p/what-every-software-engineer-should-know-about-search-27d1df99f80d) es가 아니라 search 일반
 * [Searchable Snapshot & Frozen Tier - YouTube](https://www.youtube.com/watch?v=1B2EyhoTR54)
+* [제가 등록한 물건이 보이지 않아요: 텀분절. 검색 서비스를 운영하다보면 등록한 게시글이 검색 결과에 보이지 않는다는… | by Jukyoung LEE | 당근마켓 팀블로그 | Jan, 2022 | Medium](https://medium.com/daangn/%EC%A0%9C%EA%B0%80-%EB%93%B1%EB%A1%9D%ED%95%9C-%EB%AC%BC%EA%B1%B4%EC%9D%B4-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EC%95%84%EC%9A%94-%ED%85%80%EB%B6%84%EC%A0%88-30117c95c5fc)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
