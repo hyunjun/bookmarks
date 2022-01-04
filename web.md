@@ -1167,6 +1167,7 @@ Web
   * 웹은 sRBG 색공간을 사용하고 있지만, Photoshop은 Display P3 색공간을 쓰고 있어서 더 적확히 이미지를 보여주도록 Display P3 Canvas 사용
   * 수많은 UI 요소를 관리하기 위해 Web Components와 Lit 라이브러리 사용
 * [Cloud Native Apps with Server-Side WebAssembly - YouTube](https://www.youtube.com/watch?v=JtwHtfFe6AI)
+* [webassembly vs javascript and its application in microservice & cloud computing - YouTube](https://www.youtube.com/watch?v=1wbIjxW2Ry4)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Emscripten: An LLVM-to-WebAssembly Compiler](https://github.com/emscripten-core/emscripten)
   * [Hello web assembly](https://jybaek.tistory.com/782)
