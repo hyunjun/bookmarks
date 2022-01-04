@@ -458,6 +458,7 @@ Business
 * [기업문화를 개선하고 싶은 초보CEO를 위한 6가지 제언 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/cultureupgrade20210902)
 * [HBR 독후감 스티치픽스 CEO, 개인의 스타일을 대중에게 파는 법外](https://www.popit.kr/hbr-%EB%8F%85%ED%9B%84%EA%B0%90-%EC%8A%A4%ED%8B%B0%EC%B9%98%ED%94%BD%EC%8A%A4-ceo-%EA%B0%9C%EC%9D%B8%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84-%EB%8C%80%EC%A4%91%EC%97%90%EA%B2%8C-%ED%8C%8C/)
 * [코더에서 CEO가 되는 것에 대한 리소스가 뭐가 있을까요? | GeekNews](https://news.hada.io/topic?id=5054)
+* [리더십 좋은 사업가의 4가지 자질](http://moneyman.kr/archives/2602)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
