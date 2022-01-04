@@ -775,6 +775,7 @@ NLP
   * [Baseline + 1D CNN - DACON](https://dacon.io/codeshare/1772)
   * [Baseline + Bidirectional LSTM - DACON](https://dacon.io/codeshare/1771)
 * [How-to Build a Transformer for Language Classification in TensorFlow](https://morioh.com/p/c34b27962135)
+* [TextFeatureSelection: Python library for feature selection for text features. It has filter method, genetic algorithm and TextFeatureSelectionEnsemble for improving text classification models. Helps improve your machine learning models](https://github.com/StatguyUser/TextFeatureSelection)
 
 # Clustering
 * dbscan
