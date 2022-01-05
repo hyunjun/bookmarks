@@ -248,6 +248,7 @@ PyTorch
 * [AttentionedDeepPaint](https://github.com/ktaebum/AttentionedDeepPaint)
 * [BEGAN in PyTorch](https://github.com/carpedm20/BEGAN-pytorch)
 * [BicycleGAN - NIPS 2017 Toward Multimodal Image-to-Image Translation https://junyanz.github.io/BicycleGAN ](https://github.com/junyanz/BicycleGAN)
+* [c3-gan: Official Pytorch implementation of C3-GAN](https://github.com/naver-ai/c3-gan)
 * [Cycle GAN - Yet another Cycle GAN implementation in PyTorch](https://github.com/golbin/CycleGAN)
 * [PyTorch-StudioGAN: StudioGAN is a Pytorch library providing implementations of representative Generative Adversarial Networks (GANs) for conditional/unconditional image generation](https://github.com/POSTECH-CVLab/PyTorch-StudioGAN)
 * [StarGAN: Unified Generative Adversarial Networks for Multi-Domain Image-to-Image Tranlsation (PyTorch Implemenation)](https://github.com/yunjey/StarGAN)
