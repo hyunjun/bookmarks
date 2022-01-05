@@ -4399,6 +4399,7 @@ Python
 * [Python Pandas Interview Questions for Data Science | by Nathan Rosidi | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/python-pandas-interview-questions-for-data-science-377dfac4a7a1)
 * [Numpy와 Pandas에서의 배열 연산](https://gils-lab.tistory.com/42)
 * [UCL Data Science Society: Pandas. Workshop 6: What is Pandas, Pandas… | by Philip Wilkinson | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/ucl-data-science-society-pandas-8ad28c2b22e5)
+* [파이썬이 빅데이터를 다루기에 느리다고요? (pyspark와 pandas UDF) 박현우 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=Wa87KzSOb2g)
 * [dtale: Visualizer for pandas data structures](https://github.com/man-group/dtale)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
   * [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
