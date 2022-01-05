@@ -1145,6 +1145,7 @@ Machine Learning
   * [How to Utilize MLflow and Kubernetes to Build an Enterprise ML Platform - Databricks](https://databricks.com/session/how-to-utilize-mlflow-and-kubernetes-to-build-an-enterprise-ml-platform)
   * [Combining Machine Learning and MLflow with your Lakehouse. Data Brew | Episode 5 - YouTube](https://www.youtube.com/watch?v=FI-CzbPnW7I)
   * [mlflow를 활용한 pipeline 시스템 구축](https://blog.naver.com/pjt3591oo/222298197217)
+  * [MLflow를 이용한 머신러닝 프로젝트 관리. 박선준- PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=H-4ZIfOJDaw)
 * ML Kit
   * [모바일 개발자를 위한 ML Kit: Machine Learning SDK 소개](https://www.slideshare.net/inureyes/ml-kit-machine-learning-sdk)
   * [iOS에서 머신러닝](https://docs.google.com/presentation/d/1wA_PAjllpLLcFPuZcERYbQlPe1Ipb-bzIZinZg3zXkg/edit#slide=id.p1)
