@@ -170,6 +170,7 @@ Book
 * (NOT YET) 일의 철학 [스탠퍼드의 최고 인기 교수가 말하는, 당신의 업무와 삶을 바꾸는 일의 철학 11가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/245881)
 * (NOT YET) 패션의 탄생 [명품 브랜드도 한때는 1인 기업이었습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/luxury20210915)
 * (NOT YET) [전망하는 인간, 호모 프로스펙투스](https://jhrogue.blogspot.com/2021/12/blog-post_16.html)
+* (NOT YET) [하마터면 깨달을 뻔](https://jhrogue.blogspot.com/2022/01/blog-post.html)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
