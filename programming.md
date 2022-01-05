@@ -1498,6 +1498,7 @@ Programming
 * [Please Serverless, Have an Opinion – The New Stack](https://thenewstack.io/please-serverless-have-an-opinion/)
 
 # Atlassian Jira
+* [Jira Software 사용 방법 | 공식 구매자 및 사용자 가이드 | Atlassian](https://www.atlassian.com/ko/software/jira/guides)
 * [Atlassian JIRA Home](https://www.lesstif.com/jira/atlassian-jira-home-61898760.html)
   * [JQL(JIRA Query Language) 로 JIRA Issue(지라 이슈) 검색하기 #1](https://www.lesstif.com/jira/jql-jira-query-language-jira-issue-1-18220188.html)
   * [JQL(JIRA Query Language) 로 JIRA Issue(지라 이슈) 검색하기 #2](https://www.lesstif.com/jira/jql-jira-query-language-jira-issue-2-113345059.html)
