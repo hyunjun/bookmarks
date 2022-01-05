@@ -928,6 +928,7 @@ Javascript
 * [RxJS in Angular: Part I](https://medium.com/angular-in-depth/rxjs-in-angular-part-1c5409610d8e)
 * [Let Angular Manage Your RxJS Subscriptions Better](https://medium.com/better-programming/let-angular-manage-your-rxjs-subscriptions-better-9243073e94b0)
 * [angular + firebase + rxjs - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=26641917)
+* [RxJS : 네이버 블로그](https://blog.naver.com/pjt3591oo/222613928170)
 * [Complex Angular Component Interaction Examples](https://medium.com/javascript-in-plain-english/complex-angular-component-interaction-examples-b1f9488a784c)
 * [Micro Frontend Web Components 기반 마이크로 프론앤드](https://mobicon.tistory.com/573)
 * [웹 컴포넌트가 프론트엔드 프레임워크를 대신할까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1193/) web component
