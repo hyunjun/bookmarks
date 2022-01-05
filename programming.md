@@ -375,6 +375,7 @@ Programming
 * [우아한 Developer Relations 두번째 이야기](http://woowabros.github.io/woowabros/2018/12/05/developer-relations2.html)
 * [우아한형제들 Developer Relations-Updated - 우아한형제들 기술 블로그](https://woowabros.github.io/devrel/2021/04/28/devrel-updated.html)
 * [쉽게 살 수 있을까 ? :: DevRel 이란?](https://hl1itj.tistory.com/221)
+* [LINE Developer Relations 뉴비의 100일 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-developer-relations-team-newbie/)
 * [The origin of complexity](https://itnext.io/the-origin-of-complexity-8ecb39130fc)
 * [Decrease complexity by separating Code from Data](https://blog.klipse.tech/databook/2020/10/30/data-book-chap2-part1.html)
 * [wily: A Python application for tracking, reporting on timing and complexity in Python code](https://github.com/tonybaloney/wily)
