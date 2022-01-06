@@ -1952,6 +1952,7 @@ Deep Learning
 * [Recurrent neural network (depth=3) generates next 1,000 bytes of "Let It Go":](http://elnn.snucse.org/sandbox/music-rnn/)
 * [Recurrent Neural Network Writes Music and Shakespeare Novels | Two Minute Papers](https://www.youtube.com/watch?v=Jkkjy7dVdaY)
 * [Music x ICML2019 papers](https://keunwoochoi.wordpress.com/2019/06/24/music-x-icml2019-papers/)
+* [My recent talks – Keunwoo Choi](https://keunwoochoi.wordpress.com/2022/01/06/my-recent-talks/)
 * [Recurrent Neural Network, Fractal for Deep Learning](http://www.slideshare.net/uspace/recurrent-neural-network-fractal-for-deep-learning)
 * [The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 * [Multi-layer Recurrent Neural Networks (LSTM, GRU, RNN) for character-level language models in Torch](https://github.com/karpathy/char-rnn)
