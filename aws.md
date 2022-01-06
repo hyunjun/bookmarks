@@ -449,6 +449,7 @@ AWS
 * [AWS Introduces Amazon FSx for OpenZFS](https://www.infoq.com/news/2021/12/amazon-fsx-for-openzfs/)
 * [How to fix SSH issues on EC2 Linux instances using AWS Systems Manager | AWS Cloud Operations & Migrations Blog](https://aws.amazon.com/de/blogs/mt/how-to-fix-ssh-issues-on-ec2-linux-instances-using-aws-systems-manager/)
 * [The top Amazon Science blog posts of 2021 - Amazon Science](https://www.amazon.science/latest-news/the-top-amazon-science-blog-posts-of-2021)
+* [차량용 단말을 위한 IoT 파이프라인 구축기 #1 - SOCAR Tech Blog](https://tech.socarcorp.kr/mobility/2022/01/06/socar-iot-pipeline-1.html)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
