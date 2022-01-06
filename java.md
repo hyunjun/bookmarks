@@ -572,6 +572,7 @@ Java
 * [IntelliJ Idea tricks that I use daily — Java/Spring MS Handling | by Chandrika Deb | Tech x Talent | Jun, 2021 | Medium](https://medium.com/coderbyte/intellij-idea-tricks-that-i-use-daily-java-spring-ms-handling-40bc1239d371)
 * [Intellij에서 docker와 docker-compose 사용하는 방법 : 클리앙](https://www.clien.net/service/board/cm_app/14152483)
 * [IntelliJ IDEA의 로컬 기록(local history)이 여러분의 삶 코드를 구할 수 있습니다 | JetBrains Blog](https://blog.jetbrains.com/ko/2020/03/26/local-history-intellij-save-your-code-ko/)
+* [인텔리J에서 이 옵션은 반드시 켜주시는게 좋습니다. - YouTube](https://www.youtube.com/watch?v=1hv8aQOD68M)
 
 ## IntelliJ Plugin
 * [Quokka 플러그인 소개!](http://jojoldu.tistory.com/286)
