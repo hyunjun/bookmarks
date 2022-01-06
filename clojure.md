@@ -409,6 +409,7 @@ Clojure
 * [Clojure meets Minecraft (Witchcraft/Glowstone) - YouTube](https://www.youtube.com/watch?v=qgQwhc_DDSY)
 * [SymmetricalDataSecurity: Idiomatic Clojure without sacrificing performance](http://symmetricaldatasecurity.blogspot.com/2021/10/idiomatic-clojure-without-sacrificing.html)
 * [PurefunctionPipelineDataflow/DataFlow_dataOriented_DataDriven_en.md at master · linpengcheng/PurefunctionPipelineDataflow](https://github.com/linpengcheng/PurefunctionPipelineDataflow/blob/master/doc/DataFlow_dataOriented_DataDriven_en.md)
+* [Bel in Clojure](https://stopa.io/post/290)
 
 # API
 * [Quickref for Clojure Core](https://clojuredocs.org/quickref)
