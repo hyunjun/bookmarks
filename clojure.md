@@ -783,6 +783,7 @@ Clojure
   * [Atom as an IDE for Clojure – Billy Gigurtsis](https://www.bgigurtsis.com/blog/clojureAtom)
 * [autonormal: A library for storing and querying graph data in a Clojure map](https://github.com/lilactown/autonormal)
 * [Avout - distributed state in clojure](http://avout.io/)
+* [awesome-clojure-likes: Curated list of Clojure-like programming languages](https://github.com/chr15m/awesome-clojure-likes)
 * [aws-api: AWS, data driven](https://github.com/cognitect-labs/aws-api)
   * [Lazy Paging with the Cognitect AWS API](https://1729.org.uk/posts/lazy-paging-cognitect-aws/)
 * [bankster: Money Creation Made Easy](https://github.com/randomseed-io/bankster)
