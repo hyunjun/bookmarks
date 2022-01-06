@@ -723,6 +723,7 @@ Data Science
   * 콘텐츠의 유사도를 측정하기 위해서 아이템의 벡터를 만들기 위해 One-hot encoding과 Embedding
   * 표현할 데이터 범주의 영역이 넓거나 데이터가 복잡하다면 Embedding을 더 많이 사용
   * 콘텐츠 기반 필터링은 소비 이력이 없어도 아이템 정보만 있으면 추천할 수 있다는 장점이 있지만, 소비 이력 데이터가 충분하다면 협업 필터링보다 추천 성능이 밀린다고 함
+* [Recsperts - Recommender Systems Experts](https://www.recsperts.com/)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
