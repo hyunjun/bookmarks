@@ -507,6 +507,7 @@ Web
   * [파이썬 셀레니움 이미지 크롤링으로 배우는 업무 자동화의 기초 - YouTube](https://www.youtube.com/watch?v=1b7pXC1-IbE)
   * [New Live Stream: Modern UI Test Automation with Selenium Libraries | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2021/05/new-live-stream-modern-ui-test-automation-with-selenium-libraries/)
   * [Web Scraping Multiple Pages with Python and Selenium + CSV File - YouTube](https://www.youtube.com/watch?v=m3liwOyJPC8)
+  * [파이썬~영어 공부 앱 추천해줘~ . 김기연 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=KygO-J-lPuw)
   * [Healenium](https://github.com/healenium)
     * [Self-Healing Test Automation - The Next Big Thing? - YouTube](https://www.youtube.com/watch?v=bUhuqgOTXYM)
 * [springer_free_books - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine](https://github.com/alexgand/springer_free_books)
@@ -865,6 +866,7 @@ Web
   * [Python Tornado 웹서버 개발 HelloWorld부터 비동기식 데이터 처리까지](https://speakerdeck.com/spritecodej/junbeom-park)
     * [github.com/spritecodej/tornado_examples](https://github.com/spritecodej/tornado_examples)
   * [Tornado WS Json API Server Boilerplate](https://github.com/shinjayne/Tornado-WS-Json-Boilerplate)
+* [Transcrypt: Python 3.7 to JavaScript compiler - Lean, fast, open! -](https://github.com/QQuick/Transcrypt)
 
 # Restful
 * [practice - restful](https://gist.github.com/hyunjun/44d0c4c4aa40b4b1d1e4b2f2d52b1dd2#file-restful-md)
