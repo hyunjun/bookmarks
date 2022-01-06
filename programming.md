@@ -1615,6 +1615,7 @@ Programming
 * [OCI 탐험일지 시작!](https://jhrogue.blogspot.com/2021/11/oci.html)
 * [OCI 탐험 일지 1. 인스턴스 생성](https://jhrogue.blogspot.com/2021/12/oci-1.html)
 * [OCI 탐험 일지 2. 블록 볼륨 생성](https://jhrogue.blogspot.com/2021/12/oci-2.html)
+* [OCI 탐험 일지 3. 서비스 가용성 - YouTube](https://www.youtube.com/watch?v=4CKYN49zCj0)
 * [클라우드 우분투에 gui로 원격 연결하기](https://evols-atirev.tistory.com/27)
 * [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
 * [‘역설투성이'··· 우리가 클라우드를 싫어하는 11가지 이유 - CIO Korea](https://www.ciokorea.com/news/177989)
