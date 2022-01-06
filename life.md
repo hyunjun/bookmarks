@@ -15,6 +15,7 @@ Life
 * ["재판할 때 꼭 녹음 속기 신청하라, 판사가 달라진다" - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=a0002739580)
 * [‘유족 두번 울리는’ 장례식 바가지 피하는 법 : 경제일반 : 경제 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/economy/economy_general/997305.html)
 * [학교폭력 가해자 금융치료 방법 공유해봅니다 (왕따,따돌림) : 클리앙](https://www.clien.net/service/board/lecture/15860872)
+* [기사 - 상조상품, 호구되지 맙시다](https://www.ddanzi.com/ddanziNews/716976696) 장례
 
 # Car
 * ['자동차 접촉사고' 후 사진 찍는 법](http://www.huffingtonpost.kr/2015/03/19/story_n_6899668.html)
