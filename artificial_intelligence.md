@@ -132,6 +132,8 @@ Artificial Intelligence
 * [인공지능의 음악 인지 모델 - 제65차 한국음악지각인지학회 기조강연. 발표자 최근우. - YouTube](https://www.youtube.com/watch?v=VLE2Wnxn9hQ)
   * [인공지능의 음악 인지 모델 - 65차 한국음악지각인지학회 기조강연 (최근우 박사)](https://www.slideshare.net/KeunwooChoi/65-250772321)
 * [로봇 주방의 자동화 레벨 | GeekNews](https://news.hada.io/topic?id=5459)
+* [**맨땅에서 AI학습플랫폼을 만들기까지. 박선우 - PyCon Korea 2021 - YouTube**](https://www.youtube.com/watch?v=vzD8ESj8rQk)
+  * [thebe: Turn static HTML pages into live documents with Jupyter kernels](https://github.com/executablebooks/thebe)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
