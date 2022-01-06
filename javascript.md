@@ -3641,6 +3641,7 @@ Javascript
   * [Redux 를 넘어 SWR 로(2) | LearnApplyShare](https://min9nim.now.sh/2020-10-05-swr-intro2/)
   * [React 개발자라면 꼭 알아야하는 SWR - YouTube](https://www.youtube.com/watch?v=b7Uqx7NZpHw)
   * [SWR Tips | Euihyun Slides](https://euihyun-slides.netlify.app/swr-tips/)
+  * [React Query vs SWR | MADTECH](https://tech.madup.com/react-query-vs-swr/)
 * [Utopia - a design and coding environment for React projects and components that runs in the browser](https://utopia.app/)
 * [VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library)
 * [WhoTalk - React + Node.js Web App](https://www.youtube.com/watch?v=wZDSY5zPE2A)
