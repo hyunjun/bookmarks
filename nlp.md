@@ -459,6 +459,7 @@ NLP
 * [MT-DNN Review](https://baekyeongmin.github.io/paper-review/mt-dnn/)
 * [publicservant_AI](https://github.com/kimwoonggon/publicservant_AI)
 * [RoBERTa Review](https://baekyeongmin.github.io/paper-review/roberta-review/)
+  * [Decoding-Enhanced BERT with Disentangled Attention Paper explained - YouTube](https://www.youtube.com/watch?v=hNTkpNk7v-I)
 * [soongsil-bert-base-nsmc.ipynb - Colaboratory](https://colab.research.google.com/drive/1Js24ps3JvsN-WO9DURzueTUeCmg_BP-g)
 * [TinyBERT](https://www.slideshare.net/HoonHeo5/tinybert)
 * [XLNet: Generalized Autoregressive Pretraining for Language Understanding(19.06.25)](https://www.notion.so/f4b608f11dfc4c8c8eb4c504f867d4aa)
