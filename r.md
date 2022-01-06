@@ -256,6 +256,7 @@ R
 * [Jupyter Notebook + R 연동하기](https://cozydatascientist.tistory.com/29)
 * [R 정규표현식 : 남들은 잘 모르는 기초](https://medium.com/@khkim_93600/r-정규표현식-기초-6ae5f11d25bd)
 * [R 정규표현식 : ERE vs. PCRE](https://medium.com/@khkim_93600/r-%EC%A0%95%EA%B7%9C%ED%91%9C%ED%98%84%EC%8B%9D-ere-vs-pcre-39014b9c4dc5)
+* [정규표현식이 어려운 그대에게 단비같은 패키지 (feat. regexplain) - YouTube](https://www.youtube.com/watch?v=wspE7uFx8tI)
 * [How to visualise a Dataset according to its Class variables in R](https://setscholars.net/2019/03/02/how-to-visualise-a-dataset-according-to-its-class-variables-in-r/)
 * [긴 형태(Long form),넓은 형태(Wide form) 변환](http://ds.sumeun.org/?p=930)
 * [가로형/세로형 변환(RESHAPE2::MELT/DCAST)](http://ds.sumeun.org/?p=948)
