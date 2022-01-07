@@ -2011,6 +2011,7 @@ Scala
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=8O-Qxgf28Ys) given extension
 * [Context is King. Context functions in Scala 3 | by Adam Warski | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/context-is-king-20f533474cb3)
 * [Scala 3: Using context functions for request context with http4s and log4cats | by Ivan Kurchenko | May, 2021 | Medium](https://ivan-kurchenko.medium.com/scala-3-using-context-functions-for-request-context-with-http4s-and-log4cats-61c88f1d4d42)
+* [The wonder of context functions - DEV Community](https://dev.to/markehammons/the-wonder-of-context-functions-2200)
 * [Scala 3: Extension Methods - YouTube](https://www.youtube.com/watch?v=c8vBO8hhYEA)
 * [The #Scala3 feature I'm most excited about! - YouTube](https://www.youtube.com/watch?v=NQ1d7r6OkDE)
 * [Use Indentation Guides in Scala3! - YouTube](https://www.youtube.com/watch?v=D2nhx0GxDxY)
