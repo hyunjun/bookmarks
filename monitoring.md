@@ -84,6 +84,7 @@ Monitoring
 * [cloudly - A free, open-source, cross-platform servers monitoring. https://projectcloudly.com/demo](https://github.com/jparicka/cloudly)
 * [csysdig - Announcing csysdig — think strace + htop + Lua + container support](https://sysdig.com/announcing-csysdig-strace-htop-lua-container-support/)
 * datadog [Cloud Monitoring as a Service | Datadog](https://www.datadoghq.com/)
+  * [Synthetic Monitoring](https://docs.datadoghq.com/synthetics/)
   * [데이터독(Datadog)이란? 클라우드 모니터링 서비스](https://www.44bits.io/ko/keyword/datadog)
   * [Datadog APM으로 내 프로젝트 모니터링 하기 | Recoding Life](https://jane096.github.io/project/apm-monitoring/)
   * [Bringing reliability closer to you with Reliably and DataDog - DEV Community](https://dev.to/reliably/bringing-reliability-closer-to-you-with-reliably-and-datadog-2jbm)
