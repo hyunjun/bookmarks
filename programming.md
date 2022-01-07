@@ -607,6 +607,8 @@ Programming
 * [협업도구와 올인원 워크스페이스](https://jojoldu.tistory.com/616) notion에 대한 단상? 일종의 단점?
 * [Help! I’m trapped in an Agile Terminology Charade! | by Sjoerd Nijland | Serious Scrum](https://medium.com/serious-scrum/the-unmistakable-signs-you-are-participating-in-fake-agile-theater-a7d1bd6a5dbc)
 * [**농부처럼 생각하기**](https://www.facebook.com/pyopark/posts/10158835743458163)
+* [애자일은 다음과 같은 문제를 해결해주지 않습니다](https://www.facebook.com/pyopark/posts/10158851313268163)
+  * [애자일은 다음과 같은 문제를 해결해주지 않습니다](https://gist.github.com/hyunjun/355c8faecfea0367f48feb6f3148f202#file-agile_cannot-md)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -1615,7 +1617,7 @@ Programming
 * [OCI 탐험일지 시작!](https://jhrogue.blogspot.com/2021/11/oci.html)
 * [OCI 탐험 일지 1. 인스턴스 생성](https://jhrogue.blogspot.com/2021/12/oci-1.html)
 * [OCI 탐험 일지 2. 블록 볼륨 생성](https://jhrogue.blogspot.com/2021/12/oci-2.html)
-* [OCI 탐험 일지 3. 서비스 가용성 - YouTube](https://www.youtube.com/watch?v=4CKYN49zCj0)
+* [OCI 탐험 일지 3. 서비스 가용성](https://jhrogue.blogspot.com/2022/01/oci-3.html)
 * [클라우드 우분투에 gui로 원격 연결하기](https://evols-atirev.tistory.com/27)
 * [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
 * [‘역설투성이'··· 우리가 클라우드를 싫어하는 11가지 이유 - CIO Korea](https://www.ciokorea.com/news/177989)
