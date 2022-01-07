@@ -897,6 +897,7 @@ Docker
 * [Kubernetes Ingress — AWS EKS Cluster with AWS Load Balancer Controller | by George Tsopouridis | Medium](https://gtsopour.medium.com/kubernetes-ingress-aws-eks-cluster-with-aws-load-balancer-controller-cf49126f8221)
 * [Why and How of Kubernetes Ingress (and Networking) | by getenroute.io/yastack.io | ITNEXT](https://itnext.io/why-and-how-of-kubernetes-ingress-and-networking-6cb308ca03d2)
 * [Docker & Kubernetes - Kubernetes Ingress with AWS ALB Ingress Controller in EKS - 2021](https://www.bogotobogo.com/DevOps/Docker/Docker-Kubernetes-ALB-Ingress-Controller-with-EKS.php)
+* [Ingress Controllers: The Swiss Army Knife of Kubernetes – The New Stack](https://thenewstack.io/ingress-controllers-the-swiss-army-knife-of-kubernetes/)
 * [Kubernetes Ingress Tutorial: Beginners Series](https://devopscube.com/kubernetes-ingress-tutorial/)
 * [K8s를 위한 추천 CI/CD](https://andromedarabbit.net/k8s%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%B6%94%EC%B2%9C-ci-cd/)
 * [쿠버네티스 코드 읽기](https://sangwook.github.io/2018/06/19/kubernetes-k8s-code.html)
