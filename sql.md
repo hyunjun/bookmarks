@@ -862,6 +862,7 @@ SQL
 * [Lesser Known PostgreSQL Features | Haki Benita](https://hakibenita.com/postgresql-unknown-features)
 * [Postgres HA: roles are dynamic](https://tapoueh.org/blog/2021/12/postgres-ha-roles-are-dynamic/)
 * [Postgres is a great pub/sub & job server](https://webapp.io/blog/postgres-is-the-answer/)
+* [여러컬럼으로 Join 맺어야할 경우의 인덱스](https://jojoldu.tistory.com/628)
 * EdgeDB
   * [EdgeDB—The next generation database](https://edgedb.com/)
   * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
