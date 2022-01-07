@@ -772,6 +772,7 @@ Javascript
 * [자바스크립트 엔진들의 hidden class 개념과 코드 실행 최적화를 위한 inline caching](https://blog.naver.com/dlaxodud2388/222263604696)
 * [Using Objects for Lookups| freecodecamp Basic Javascript - YouTube](https://www.youtube.com/watch?v=0gyap1hPePk)
 * [Hello, Modules!. JavaScript Modules, also known as ESM… | by Sindre Sorhus | May, 2021 | 🦄 Sindre Sorhus’ blog](https://blog.sindresorhus.com/hello-modules-d1010b4e777b)
+* [자바스크립트 모듈 ESM과 CJS 의 특징, 차이, 혼용방법 - YouTube](https://www.youtube.com/watch?v=VFAJhy64ES8)
 * [module system(모듈 시스템) 이해하기](https://blog.naver.com/pjt3591oo/222574553721)
 * [JavaScript Proxy… But With Reflect | by TOAST UI | May, 2021 | Medium](https://toastui.medium.com/javascript-proxy-but-with-reflect-665f868fbeba)
 * [중첩 반복문은 안감을 두껍게 짜야한다](https://velog.io/@qroffle/%EC%A4%91%EC%B2%A9-%EB%B0%98%EB%B3%B5%EB%AC%B8%EC%9D%80-%EC%95%88%EA%B0%90%EC%9D%84-%EB%91%90%EA%BB%8D%EA%B2%8C-%EC%A7%9C%EC%95%BC%ED%95%9C%EB%8B%A4)
