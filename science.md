@@ -25,6 +25,7 @@ Science
 * [BOINC: 과학을 위한 컴퓨팅](http://boinc.berkeley.edu/download.php)
 * [A live view of the solar system and planetary positions today](https://www.theplanetstoday.com/)
 * [일본이 노벨상을 많이 받는 진짜 이유](http://www.ohmynews.com/NWS_Web/View/ss_pg.aspx?CNTN_CD=A0002483421&PAGE_CD&CMPT_CD)
+* [폭발한 우주왕복선, 한 과학자의 '얼음물 실험' - 오마이스타](http://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0002800530)
 
 # Biology
 * [영장류의 움켜잡기 능력에 대한 새로운 연구](http://newspeppermint.com/2015/04/28/primate-grip/)
