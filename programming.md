@@ -1432,6 +1432,7 @@ Programming
   * [Kong API gateway #3 - Kong on Kubernetes](https://bcho.tistory.com/1364)
   * [Breaking Up a Monolithic Database with Kong - DZone Microservices](https://dzone.com/articles/breaking-up-a-monolithic-database-with-kong)
 * [Micronaut Framework - A MODERN, JVM-BASED, FULL-STACK FRAMEWORK FOR BUILDING MODULAR, EASILY TESTABLE MICROSERVICE AND SERVERLESS APPLICATIONS](https://micronaut.io/) GraalVM based
+* Mortar [오늘의집 MSA Phase 1. 서비스 구축과 배포 with Mortar - 오늘의집 블로그](https://www.bucketplace.co.kr/post/2021-12-17-msa-phase-1-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95%EA%B3%BC-%EB%B0%B0%ED%8F%AC-with-mortar/)
 * [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
   * Zipkin을 이용한 MSA 환경에서 분산 트렌젝션의 추적
     * [#1](http://bcho.tistory.com/1243)
@@ -3605,6 +3606,7 @@ Programming
 * [LINE 통화: 최고의 품질을 위한 8년간의 여정 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-call-quality-assurance/)
 * [힘세고 오래가는 테스트 전략 | Coderifleman's blog](https://blog.coderifleman.com/2021/11/17/a-strong-and-maintainable-test-strategy/)
 * [LINE에서 테스트를 최적화하는 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/testing-optimization/)
+* [나는 왜 TDD와 리팩터링에 집착하는가](https://brunch.co.kr/@myner/77)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
