@@ -434,6 +434,7 @@ Business
 * [2015 나는 프로그래머다 컨퍼런스 (6) 정개발 - 슬램덩크에게서 배우는 개발팀 빌딩전략](https://www.slideshare.net/iamprogrammerofficial/2015-6-54991145)
 * [화제의 삼프로TV 대표 “후보 철학 깊이 알려면 끝을 봐야”](https://www.mediatoday.co.kr/news/articleView.html?idxno=301417) 직접 관련된 내용은 아니나 깊이있게 알려면 답변에 대해 계속 질문해서 끝을 봐야 한다는 점에 동감
 * [채용에 대해](https://www.thestartupbible.com/2022/01/hire-as-if-today-is-your-last-day.html) 이렇게까지 해야 하나 싶을 정도로 절박하게 하라는 이야기
+* [채용이 곧 회사의 수준입니다 | RBBM](https://www.redbusbagman.com/recruiting/)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
