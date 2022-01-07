@@ -134,6 +134,7 @@ Artificial Intelligence
 * [로봇 주방의 자동화 레벨 | GeekNews](https://news.hada.io/topic?id=5459)
 * [**맨땅에서 AI학습플랫폼을 만들기까지. 박선우 - PyCon Korea 2021 - YouTube**](https://www.youtube.com/watch?v=vzD8ESj8rQk)
   * [thebe: Turn static HTML pages into live documents with Jupyter kernels](https://github.com/executablebooks/thebe)
+* [신뢰 가능한 인공지능(Trustworthy AI) 제대로 훑기 | by Heejung Kim | Skelter Labs Designer | Jan, 2022 | Medium](https://medium.com/skelterlabs-designer/%EC%8B%A0%EB%A2%B0-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-trustworthy-ai-%EC%86%8E%EC%95%84%EB%B3%B4%EA%B8%B0-3813a0e9bce5)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
