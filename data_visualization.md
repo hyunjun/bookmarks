@@ -488,6 +488,7 @@ Data Visualization
 * [파이썬 코딩 무료 강의 (활용편5) - 데이터 분석 및 시각화, 이 영상 하나로 끝내세요 - YouTube](https://www.youtube.com/watch?v=PjhlUzp_cU0)
 * [Sci Vis) 1. Rotated histogram | Pega Devlog](https://jehyunlee.github.io/2021/12/02/Python-DS-92-rougier01/)
 * [Sci Vis) 2. In a Far Distance Galaxy | Pega Devlog](https://jehyunlee.github.io/2021/12/28/Python-DS-94-rougier02/)
+* [colorsys - Conversions between Color Systems | Pega Devlog](https://jehyunlee.github.io/2022/01/04/Python-DS-95-tiger/)
 * [**itermplot - An awesome iTerm2 backend for Matplotlib, so you can plot directly in your terminal**](https://github.com/daleroberts/itermplot)
 * [mpld3 - Plotly 랑 Bokeh 공부하기 귀찮다. 그냥 matplotlib 를 사용해서 웹서비스하자](http://hamait.tistory.com/850)
 * [prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries](https://github.com/marceloprates/prettymaps)
