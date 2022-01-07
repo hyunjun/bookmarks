@@ -1033,6 +1033,7 @@ AWS
   * [Now Available – AWS SDK For Python (Boto3)](https://aws.amazon.com/ko/blogs/aws/now-available-aws-sdk-for-python-3-boto3/)
   * [Cleaning up AWS with Boto3](http://blog.ranman.org/cleaning-up-aws-with-boto3/)
   * [파이썬으로 AWS S3 버킷(Bucket) 만들기](https://imasoftwareengineer.tistory.com/98)
+  * [How To Upload and Download Files in AWS S3 with Python and Boto3 | The Coding Interface](https://thecodinginterface.com/blog/aws-s3-python-boto3/)
 * cdK
   * [cdkworkshop.com](https://cdkworkshop.com/)
   * [AWS CDK Patterns - An Opensource Collection of Serverless Architecture Patterns](https://cdkpatterns.com/)
