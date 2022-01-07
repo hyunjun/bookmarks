@@ -104,6 +104,7 @@ Programmer
 * [What does a Principal Software Engineer do? | by Bobi | Dev Genius](https://blog.devgenius.io/what-does-a-principal-engineer-do-2e6af918ff28)
   * [Principal(수석) 소프트웨어 엔지니어는 어떤 일을 하는가 | GeekNews](https://news.hada.io/topic?id=5557)
 * [What Happens To Developers Who Never Go Into Management? | WBS CODING SCHOOL](https://www.wbscodingschool.com/blog/what-happens-devs-never-management/)
+* [개발을 잘 하는 습관](https://blog.shiren.dev/2021-05-17/)
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
