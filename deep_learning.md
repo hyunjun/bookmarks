@@ -1605,6 +1605,7 @@ Deep Learning
 * [Neural Networks from Scratch - an interactive guide](https://aegeorge42.github.io/) 뉴럴넷을 배울 수 있도록 단계별로 진행해 볼 수 있는 인터렉티브 가이드
 * [nnstreamer: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices](https://github.com/nnstreamer/nnstreamer)
 * [nntrainer: NNtrainer is Software Framework for Training Neural Network Models on Devices](https://github.com/nnstreamer/nntrainer)
+* [Tools-to-Design-or-Visualize-Architecture-of-Neural-Network: Tools to Design or Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
 * [triton: Development repository for the Triton language and compiler](https://github.com/openai/triton)
   * [Introducing Triton: Open-Source GPU Programming for Neural Networks](https://www.openai.com/blog/triton/)
 
