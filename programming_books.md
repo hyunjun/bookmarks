@@ -327,6 +327,8 @@ Programming Books
 * (NOT YET) [Microservices Up & Running](https://jybaek.tistory.com/933)
 * (NOT YET) [만들면서 배우는 클린 아키텍처 | 위키북스](https://wikibook.co.kr/clean-architecture/) hexagonal architecture
   * [독서광 만들면서 배우는 클린 아키텍처 (이벤트 있음)](https://jhrogue.blogspot.com/2021/12/blog-post.html)
+* (NOT YET) [Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
+  * [번역할 뻔 했던 Patterns of Enterprise Application Architecture - 뒤태지존의 끄적거림](https://homoefficio.github.io/2015/10/16/%EB%B2%88%EC%97%AD%ED%95%A0-%EB%BB%94-%ED%96%88%EB%8D%98-Patterns-of-Enterprise-Application-Architecture/)
 
 # C
 
@@ -936,14 +938,15 @@ Programming Books
 * (NOT YET) [쿠버네티스 모범 사례](https://jybaek.tistory.com/937)
 
 # Domain Driven Development DDD
-* [도메인 주도 설계(에릭에반스) -1](https://ash84.net/2017/06/04/domain-driven-development/)
-* [도메인 주도 설계(에릭에반스) -2](https://ash84.net/2017/06/08/domain-driven-development_2/)
-* [도메인 주도 설계(에릭에반스) -3](https://ash84.net/2017/06/11/domain-driven-development_3/)
-* [도메인 주도 설계 핵심](https://blog.gaerae.com/2018/08/domain-driven-design-distilled.html)
+* (NOT YET) [도메인 주도 설계: 소프트웨어의 복잡성을 다루는 지혜 | 위키북스](https://wikibook.co.kr/domain-driven-design/)
+  * [도메인 주도 설계(에릭에반스) -1](https://ash84.net/2017/06/04/domain-driven-development/)
+  * [도메인 주도 설계(에릭에반스) -2](https://ash84.net/2017/06/08/domain-driven-development_2/)
+  * [도메인 주도 설계(에릭에반스) -3](https://ash84.net/2017/06/11/domain-driven-development_3/)
+* (NOT YET) [도메인 주도 설계 핵심](https://blog.gaerae.com/2018/08/domain-driven-design-distilled.html)
   * [추상화를 조심스럽게 선택하라](http://huns.me/development/2252)
   * [도메인 주도 설계 핵심](https://imch.dev/posts/domain-driven-design-distilled)
-* [DDD로 복잡함 다루기](https://www.slideshare.net/madvirus/ddd-87351776)
 * (NOT YET) [DDD START!](https://joochang.tistory.com/93)
+* (NOT YET) [도메인 주도 설계 구현 Implementing Domain-Driven Design](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=80250410)
 
 # Elasticsearch
 
