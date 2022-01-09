@@ -3644,6 +3644,7 @@ Javascript
   * [React 개발자라면 꼭 알아야하는 SWR - YouTube](https://www.youtube.com/watch?v=b7Uqx7NZpHw)
   * [SWR Tips | Euihyun Slides](https://euihyun-slides.netlify.app/swr-tips/)
   * [React Query vs SWR | MADTECH](https://tech.madup.com/react-query-vs-swr/)
+  * [네트워크 통신 캐시를 위한 SWR : 네이버 블로그](https://blog.naver.com/pjt3591oo/222616145005)
 * [Utopia - a design and coding environment for React projects and components that runs in the browser](https://utopia.app/)
 * [VelocityReact Library](https://fabric.io/blog/introducing-the-velocityreact-library)
 * [WhoTalk - React + Node.js Web App](https://www.youtube.com/watch?v=wZDSY5zPE2A)
