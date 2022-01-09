@@ -464,6 +464,8 @@ Interview
   * [Google 검색은 어떻게 동작하는가? 웹의 패러다임 변화에 맞추는 Google 검색](https://medium.com/@euncho/google-%EA%B2%80%EC%83%89%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%99%EC%9E%91%ED%95%98%EB%8A%94%EA%B0%80-fbc0e421a97a) SEO 이야기이지만 참고할만한 부분이 있음
   * [인터뷰 : 시스템 / API 디자인](https://ko.programqa.com/question/14061381/)
   * [Notification Service System Design Interview Question to handle Billions of users & Notifications - YouTube](https://www.youtube.com/watch?v=CUwt9_l0DOg)
+  * [System Design Using Bloom Filter | What is Bloom Filter | Data Structure - YouTube](https://www.youtube.com/watch?v=hFMuWNscjyI)
+  * [Payment Gateway System Design | Payment Processing | System Design - YouTube](https://www.youtube.com/watch?v=NxjGFIgFCbg)
 * [highscalability.com/blog/category/example](http://highscalability.com/blog/category/example) 정말 다양한 architecture examples
 * [Success In Tech](https://www.youtube.com/channel/UC-vYrOAmtrx9sBzJAf3x_xw/videos)
 * [Timelines at Scale](https://www.infoq.com/presentations/Twitter-Timeline-Scalability)
