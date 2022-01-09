@@ -713,6 +713,7 @@ Go
 * [Avoiding Memory Leak in Golang API | Hacker Noon](https://hackernoon.com/avoiding-memory-leak-in-golang-api-1843ef45fca8)
 * [Golang Long Time Performance Test - Memory Leak 해결 과정 — { DEV SWEETER ; }](https://syntaxsugar.tistory.com/entry/Golang-Long-Time-Performance-Test-Memory-Leak-%EB%A9%94%EC%9D%B8-%EB%94%94%EC%89%AC)
 * [**Golang Memory Management — { DEV SWEETER ; }**](https://syntaxsugar.tistory.com/entry/Golang-Memory-Management) 1.16 기준
+* [How We Saved 70K Cores Across 30 Mission-Critical Services (Large-cale, Semi-Automated Go GC Tuning @Uber)](https://eng.uber.com/how-we-saved-70k-cores-across-30-mission-critical-services/)
 
 # Monitoring
 * [Monitoring microservices with Synthetic Transactions in Go](http://labs.unacast.com/2016/03/10/monitoring-microservices-synthetic-transactions-in-go/)
