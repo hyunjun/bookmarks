@@ -477,6 +477,7 @@ iOS
 * [Publishers, Subscribers 알아보기](https://brunch.co.kr/@tilltue/66)
 * [Custom Publisher 만들기](https://brunch.co.kr/@tilltue/79)
 * [iOS 14.5 NavigationLink의 Unable to present 오류 해결하기](https://pilgwon.github.io/post/navigation-link-trouble-shooting)
+* [Introducing SwiftUI 따라잡기 - 장소 소개하는 화면 만들기 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1623)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
