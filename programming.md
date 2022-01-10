@@ -1657,6 +1657,7 @@ Programming
 * [OpenInfra Community Days Korea 2021 행사 참여후기](https://naleejang.tistory.com/252)
 * [IDG 블로그 | 너무 복잡한 클라우드, 사람 구하기만 더 어려워진다 - ITWorld Korea](https://www.itworld.co.kr/news/217794)
 * [IDG 블로그 | 클라우드 '부작용'의 이유와 해법 - ITWorld Korea](https://www.itworld.co.kr/news/217594)
+* [**월50만원($400)으로 80TB 트래픽과 5M 페이지뷰를 처리하는 방법 | GeekNews**](https://news.hada.io/topic?id=5717)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
