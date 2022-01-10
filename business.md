@@ -158,6 +158,7 @@ Business
 * [피드백의 힘, 어떻게 만들 것인가?](https://brunch.co.kr/@graypool/115)
 * [받아들이기 어려운 피드백에 대처하는 자세](https://camp.lemonbase.com/1on1/feedback)
 * [피드백을 주고받을 때 유용한 세 가지 질문](https://camp.lemonbase.com/feedback/ssc)
+* [솔직한 대화](https://www.thestartupbible.com/2022/01/healthy-relationships.html) feedback
 * [**직무 노트 쓰기**](https://brunch.co.kr/@lunarshore/365)
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
 * [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
@@ -707,6 +708,7 @@ Business
 * [14화 리더가 절대 하지 말아야 하는 세가지 행동](https://brunch.co.kr/@mindclinic/94)
 * [그렇게 최악의 리더가 된다: 절대 따라 하면 안 되는 11가지 리더 유형 | ㅍㅍㅅㅅ](https://ppss.kr/archives/227842)
 * [팀원 성장시키기: 발표 컨설팅 | ㅍㅍㅅㅅ](https://ppss.kr/archives/220082)
+* [소프트웨어 이야기 : 성장의 조건](http://jamestic.egloos.com/3288119) 개발적인 측면과 일반적인 측면이 함께
 * [IT: 당신은 좋은 리더입니까?](https://jybaek.tistory.com/884)
 * [내적 동기 부여 RAMP | 에스티마의 인터넷이야기 EstimaStory.com](https://estimastory.com/2021/03/07/ramp/) RAMP
 * [자질 없는 리더보다 준비 없는 리더가 더 나쁘다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/236902)
@@ -1059,3 +1061,5 @@ Business
 * [일부러 디자인을 망치는 디자이너들 | 요즘IT](https://yozm.wishket.com/magazine/detail/1127/)
 * [The History of Command Palettes: How Typing Commands Became The Norm Again | Capiche](https://capiche.com/e/consumer-dev-tools-command-palette)
 * [실전 웹기획 - 윤리적인 기획과 마케팅](https://brunch.co.kr/@fbrudtjr1/39)
+* [Pretendard 커스텀 폰트 도입기 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/01/pretendard-%ec%bb%a4%ec%8a%a4%ed%85%80-%ed%8f%b0%ed%8a%b8-%eb%8f%84%ec%9e%85%ea%b8%b0/)
+* [스큐어모피즘부터 뉴모피즘까지, 스마트폰 UI의 역사](https://brunch.co.kr/@fbrudtjr1/41)
