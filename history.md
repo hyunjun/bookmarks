@@ -242,6 +242,7 @@ History
 * [기사 - 교과서엔 없는 일기들, 병자호란 2: 조정은 얼마나 난장판이었을까](https://www.ddanzi.com/ddanziNews/709759092)
 * [기사 - 교과서엔 없는 일기들, 병자호란 3(完): 가족을 사러 국경으로 향한 사람들](https://www.ddanzi.com/ddanziNews/710845603)
 * [망국(亡國), 그리고 좌절된 과학기술의 근대화](https://www.thecolumnist.kr/news/articleView.html?idxno=563)
+* ['태종 이방원'이 담아내지 못한 이성계의 전략전술 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002799460&CMPT_CD=SEARCH)
 
 ## 고려
 * [가오 지킨(?) 최후의 충신 정몽주 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8249258.html)
