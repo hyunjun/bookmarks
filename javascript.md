@@ -1881,6 +1881,7 @@ Javascript
   * [컴퓨터는 어떻게 소리를 들을까?](https://evan-moon.github.io/2019/07/10/javascript-audio-waveform/)
   * [JavaScript로 오디오 이펙터를 만들어보자 소리의 흐름을 파악하자](https://evan-moon.github.io/2019/08/19/javascript-audio-effectors-gain/)
   * [JavaScript로 오디오 이펙터를 만들어보자 나만의 소리 만들기](https://evan-moon.github.io/2019/08/21/javascript-audio-effectors-practice/)
+  * [Canvas, Web Audio API를 사용한 오디오 파형 시각화 | blog.rhostem.com](https://blog.rhostem.com/posts/2022-01-08-canvas-web-audio-player)
 * WebGL
   * [WebGL implementation of 2D Dynamic Lighting](http://xnajs.com/examples/02/)
   * [Re-Creating Megaman 2](https://medium.com/recreating-megaman-2-using-js-webgl)
@@ -2025,6 +2026,7 @@ Javascript
 
 ## Library Bundler
 * [자바스크립트가 아닌 리소스 번들링 하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210914)
+* [JavaScript 번들러로 본 조선시대 붕당의 이해 | 요즘IT](https://yozm.wishket.com/magazine/detail/1261/)
 * [esbuild - An extremely fast JavaScript bundler](https://esbuild.github.io/)
 * [Parcel 한국어판](https://ko.parceljs.org/)
   * [Parcel 사용해보기](https://velog.io/@juunini/Parcel-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
@@ -3999,6 +4001,7 @@ Javascript
 * [TypeScript 환경에서 class-transformer 적극적으로 사용하기](https://jojoldu.tistory.com/617)
 * [힙하게 Typescript 보일러플레이트 구성하기](https://www.jiwon.me/hip-ts-boiler/)
 * [타입스크립트 꿀팁 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2021/211012-typescript-tip/)
+* [TypeScript에서 catch block error message 사용하기 | immigration9](https://immigration9.github.io/typescript/2022/01/09/error-typescript.html)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
