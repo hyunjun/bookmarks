@@ -316,6 +316,7 @@ Programming Books
   * ★★★★☆
 * [개발자에서 아키텍트로](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EC%84%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EB%A1%9C-76317c59165f)
   * ★★★★☆
+  * [개발자에서 아키텍트로](https://jybaek.tistory.com/946)
 * (NOT YET) [마이크로서비스 인 액션 올바른 마이크로서비스 도입을 위한 완벽 실용서](https://wikibook.co.kr/microservices-in-action/)
 * (NOT YET) [도메인 주도 설계로 시작하는 마이크로서비스 개발 | 위키북스](https://wikibook.co.kr/ddd-msa/)
 * (NOT YET) [소프트웨어 아키텍트가 알아야할 97가지 출간!!! | Architecture 101](https://architecture101.blog/2011/04/04/publish-eva-97architect/)
