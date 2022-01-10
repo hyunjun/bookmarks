@@ -551,6 +551,7 @@ Docker
   * 변경할 때마다 다시 빌드
   * 커스텀 스크립트 -> 이미 존재하는 도구 활용
 * [CKS 시험 정보 Portal ver0.5 - 쿠버네티스 전문가 블로그](https://sysnet4admin.blogspot.com/2021/12/cks-portal-ver05.html)
+* [Mac 업데이트 이후 Docker 실행 안될 경우](https://jojoldu.tistory.com/629)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
