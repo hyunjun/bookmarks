@@ -745,6 +745,7 @@ Javascript
 * [How to use Web Storage API? - DEV Community](https://dev.to/j471n/how-to-use-web-storage-api-3o28) Local Storage, Session Storage, Cookies
 * [Zum Portal Core JS 소개](https://zuminternet.github.io/zum-portal-core-js/)
 * [터치와 클릭, 우리 깐부잖아. | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220106)
+* [Quines in JavaScript: Self-replicating Code that Prints Itself - YouTube](https://www.youtube.com/watch?v=eY8-55tmAMk)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
