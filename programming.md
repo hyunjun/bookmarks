@@ -449,6 +449,7 @@ Programming
 * [DeepDive 강정수 박사의 '메타버스 핵심 읽기'](https://c-rocket.net/deepdive_deepclass-1/)
   * [메타버스 핵심 읽기 | GeekNews](https://news.hada.io/topic?id=5420)
 * [유니티와 함께하는 메타버스 입문서 | GeekNews](https://news.hada.io/topic?id=5553)
+* [당신이 탄 그 버스는 메타버스가 아니다](https://brunch.co.kr/@brunchgpjz/33)
 * [Christmas Maze on Gather Town using Teachable Machine | Teachableverse](https://teachableverse.github.io/christmas-maze-gathertown-teachablemachine/)
 * [A System for Detecting Software Similarity](http://theory.stanford.edu/~aiken/moss/)
 * [How to Learn Complex Things Quickly: A Guide](https://product.hubspot.com/blog/how-to-learn-complex-things-quickly)
@@ -486,6 +487,7 @@ Programming
 * [How I failed 5 side projects in 6 years, earning $0](https://kwcodes.com/how-i-failed-5-side-projects-in-6-years-earning-0/)
 * [hTime - The Global Clock](https://thehtime.com/) A clock to eliminate time zone calculations
 * [The programmer's brain in the lands of exploration and production · Vicki Boykis](https://veekaybee.github.io/2021/11/07/typed-pipe/) scala example
+* [Java, Quarkus, Kafka, and more: The best of 2021 | Red Hat Developer](https://developers.redhat.com/articles/2021/12/22/java-quarkus-kafka-and-more-best-2021)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
