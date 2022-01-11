@@ -113,6 +113,7 @@ App
 * [myDrive](https://mydrive-storage.com/)
   * [myDrive - 오픈소스 구글 드라이브 클론 | GeekNews](https://news.hada.io/topic?id=3940)
 * [Nik 컬렉션](https://www.google.com/nikcollection/)
+* [opendrop: An open Apple AirDrop implementation written in Python](https://github.com/seemoo-lab/opendrop)
 * [Oven - 크리에이티브 프로젝트를 위한 세계에서 가장 진보된 온라인 프로토타이핑 툴](https://ovenapp.io/)
 * [Paintbrush](https://sourceforge.net/projects/paintbrush)
   * [맥에는 '그림판'이 없나요? 무료로 쓸 수 있는 맥용 스케치∙드로잉 프로그램 3가지](http://macnews.tistory.com/4173)
@@ -517,6 +518,7 @@ App
 * [포트폴리오(개발 프로젝트) 제작시 도움이 되는 도구들 - 1](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4-%EC%A0%9C%EC%9E%91%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%8B%9C%EC%9E%91%EC%8B%9C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-1) slack, tandem, MS teams, notion, trello, github projects, whimsical, figma
 * [포트폴리오(개발 프로젝트) 제작시 도움이 되는 도구들 - 2 (설계, 테스팅)](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%9E%91%EC%8B%9C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-2) ERDCloud, PlantUML, Swagger UI, Rest Client, SonarQube
 * [포트폴리오(개발 프로젝트) 제작시 도움이 되는 도구들 - 3 (CI/CD, Hosting)](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%9E%91%EC%8B%9C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-3-CICD-Hosting) Github Actions, Jenkins, Heroku, Netlify
+* [10 Awesome Free Productivity Tools and Websites for Developers | by Nicholas Obert | Dec, 2021 | Better Programming](https://betterprogramming.pub/10-awesome-free-productivity-tools-and-websites-for-developers-47310707fda2)
 * [aquerytool.com](http://aquerytool.com/) DB schema
 * [asdf: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more](https://github.com/asdf-vm/asdf)
   * [asdf - An extendable version manager](https://asdf-vm.com/)
@@ -883,6 +885,7 @@ App
 * [많이들 모른다는 아이폰 메모에 숨겨진 기능](http://1boon.kakao.com/share/iphonememo7)
 * [iOS 기본 앱 대체 서드파티 앱 시리즈 리스트 정리](https://www.clien.net/service/board/cm_iphonien/12508851)
 * [손쉽게 업무시간 절약하는 깨알 아이폰 팁 10가지 - CIO Korea](https://www.ciokorea.com/news/195754)
+* [아이폰 사용자 경험을 ‘확’ 바꾸는 10가지 숨은 설정 - ITWorld Korea](https://www.itworld.co.kr/news/220399)
 * [a-Shell - A text-based user interface for a screen-based platform](https://holzschu.github.io/a-Shell_iOS/)
 
 # Linux
@@ -1029,6 +1032,8 @@ App
 * [Commander One Mac 무료 듀얼 패널 파일 관리자](http://mac.eltima.com/ko/file-manager.html)
 * compress
   * [Password Protect Zip Files in Mac OS X](http://osxdaily.com/2012/01/07/set-zip-password-mac-os-x/)
+  * ["바탕화면∙도구 모음 필수품" 3대 압축 전용 프로그램 - ITWorld Korea](https://www.itworld.co.kr/news/218879)
+  * [7-Zip 압축 프로그램을 이용한 "C:\Program Files\WindowsApps" 폴더 내 파일 삭제 방법](https://hummingbird.tistory.com/6902)
 * [CotEditor -Text Editor for macOS](https://coteditor.com/)
 * [CP-M-for-OS-X: A z80 emulator + CP/M-80 reimplementation that intends to allow original CP/M software to be used under OS X](https://github.com/TomHarte/CP-M-for-OS-X)
 * [CubicSDR - Cross-Platform and Open-Source Software-Defined Radio Application](http://cubicsdr.com/)
@@ -1407,6 +1412,7 @@ App
 * [cmdpxl: totally practical command-line image editor](https://github.com/knosmos/cmdpxl)
 * [다운튜브 DownTube - 동영상 다운로드 프로그램 4K/8K 가능](http://downtube.org/)
 * [ecam - 쉬운 녹화 & 유튜브 방송 프로그램](https://ryulib.tistory.com/471)
+* Erase.bg [수초 만에 뚝딱! 사진, 로고, 이미지 배경 제거 무료 도구 : 디자인로그(DESIGN LOG)](https://www.designlog.org/2512919)
 * [ExifTool by Phil Harvey - Read, Write and Edit Meta Information!](https://exiftool.org)
   * [SmartRename Script by farn501](https://docs.google.com/forms/d/e/1FAIpQLSfsG-wxJUAGlwaz8elKdQB9lTLOnv4KlrgXKGsfSeyy-nRk_g/viewform)
 * [Exposé - A simple static site generator for photoessays](https://github.com/Jack000/Expose)
@@ -1709,6 +1715,8 @@ App
 * [MobaXterm - Enhanced terminal for Windows with X11 server, tabbed SSH client, network tools and much more](http://mobaxterm.mobatek.net/)
 * [Ninite - Install and Update All Your Programs at Once](https://ninite.com/)
 * [NirCmd - a small command-line utility](http://www.nirsoft.net/utils/nircmd.html)
+* [PortableApps.com Hits 1 Billion Apps Downloaded - Thanks a Billion! | PortableApps.com](https://portableapps.com/news/2021-12-22--portableapps.com-hits-1-billion-portable-apps-downloaded)
+  * [PortableApps 10억 다운로드 돌파 | GeekNews](https://news.hada.io/topic?id=5616)
 * [PowerToys - Windows system utilities to maximize productivity](https://github.com/microsoft/PowerToys)
   * [Microsoft's new PowerToys Run launcher is like macOS's Spotlight for Windows 10](https://thenextweb.com/insider/2020/05/19/microsofts-new-powertoys-run-launcher-is-like-macoss-spotlight-for-windows-10/)
   * [“작지만 유용한 기능 모음” 윈도우 10의 새 파워토이 사용 가이드 - ITWorld Korea](http://www.itworld.co.kr/news/168665)
