@@ -1208,6 +1208,7 @@ Machine Learning
   * MLOps는 머신러닝을 서비스에 적용하기 더 쉽도록 파이프라인을 통해 머신러닝 엔지니어와 소프트웨어 엔지니어가 소통할 수 있게 함
   * 개념 설명뿐 아니라 설정 방법과 Kubeflow에 대한 설명이 포함되어 있어서 MLOps에 관심 있거나 공부해 보고자 하면 아주 좋은 문서
 * [MLOps: Big Picture in GCP. “Why do we need different CI/CD for… | by Park Chansung | Google Developers Experts | Medium](https://medium.com/google-developer-experts/mlops-big-picture-in-gcp-a637566d6ae8)
+* [ML Ops with Dagster: 5 Key Features for Developing a Continuous Training Pipeline - Thinking Machines Data Science](https://stories.thinkingmachin.es/ml-ops-with-dagster-5-key-features-for-developing-a-continuous-training-pipeline/)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
 * [MadeWithML: Learn how to responsibly deliver value with ML](https://github.com/GokuMohandas/MadeWithML)
 * **[MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
