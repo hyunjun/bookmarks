@@ -120,6 +120,7 @@ Redis
 * [Fun with Redis: Creating a Reactive Architecture Using Redis and Microservices - YouTube](https://www.youtube.com/watch?v=YEOoJZ13JtI)
 * [(웹툰) Redis 캐시](https://iamsang.com/blog/2021/10/24/redis-cache/)
 * [Redis Anti-Patterns Every Developer Should Avoid | Redis Developer Hub](https://developer.redis.com/howtos/antipatterns/)
+* [우아한테크세미나 191121 우아한레디스 by 강대명님 - YouTube](https://www.youtube.com/watch?v=mPB2CZiAkKM)
 
 # Book
 * [Redis in Action](https://redislabs.com/community/ebook/)
