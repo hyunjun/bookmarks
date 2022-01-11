@@ -197,6 +197,10 @@ SQL
 * [Database Replication Explained 2. Part 2— Multi Leader Replication | by Zixuan Zhang | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/database-replication-explained-10ff929bdf8a)
 * [Database Replication Explained 3. Part 3 -Leaderless Replication | by Zixuan Zhang | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/database-replication-explained-3-32d6deceeca7)
 * [How to optimize your SQL Database to handle millions of records — part 1 | by SianLoong | Medium](https://sianloong90.medium.com/how-to-optimise-your-sql-database-to-handle-million-records-part-1-748d68f2dee1)
+* [Is Kubernetes slowing down my database? | DB Exam Study](https://dbexamstudy.blogspot.com/2021/11/is-kubernetes-slowing-down-my-database.html)
+* [Databases in 2021: A Year in Review - OtterTune](https://ottertune.com/blog/2021-databases-retrospective/)
+  * [2021년 데이터베이스들 리뷰 | GeekNews](https://news.hada.io/topic?id=5652)
+* [글로벌 칼럼 | ‘진화 혹은 변혁’ 클라우드 데이터 웨어하우스의 미래 - ITWorld Korea](https://www.itworld.co.kr/news/218994)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
@@ -637,6 +641,7 @@ SQL
 * [Build a Python Web Scraper + Advanced MySQL Queries](https://arctype.com/blog/mysql-advanced-queries/)
 * [How to Connect A GraphQL API and A MySQL Database in Your GraphQL Layer | StepZen blog](https://stepzen.com/blog/connect-a-mysql-db-and-graphql-api-in-a-gql-layer)
 * [번역 MySQL의 ENUM 타입을 사용하지 말아야 할 8가지 이유](https://velog.io/@leejh3224/%EB%B2%88%EC%97%AD-MySQL%EC%9D%98-ENUM-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-8%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
+* [MySQL/MariaDB character sets and collations explained – why utf8 is not UTF-8 | Hello DevOps](https://www.hellodevops.blog/posts/database-character-sets-and-collations-explained/)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
@@ -1046,6 +1051,7 @@ SQL
 * [Hosting SQLite databases on Github Pages - (or any static file hoster) - phiresky's blog](https://phiresky.netlify.app/blog/2021/hosting-sqlite-databases-on-github-pages/)
 * [Comparing SQLite, DuckDB and Arrow with UN Trade Data · Pachá](https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/)
 * [MySQL을 SQLite로 변경 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/884)
+* [Wesley Aptekar-Cassels | Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
 * [litestream: Streaming S3 replication for SQLite](https://github.com/benbjohnson/litestream)
