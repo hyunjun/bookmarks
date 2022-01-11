@@ -225,6 +225,7 @@ Git
 * [Using ChatOps to help Actions on-call engineers | The GitHub Blog](https://github.blog/2021-12-01-using-chatops-to-help-actions-on-call-engineers/)
   * GitHub에서는 터미널 대신 슬랙에서 명령어를 입력해서 자동화하는 "Hubot"이라는 ChatOps 활용
   * Hubot은 로그 수집 도구인 Kusto에 질의를 할 수 있으므로 문제가 생겼을 때 Hubot을 이용해서 바로 조회, 처음 온 사람도 비상대기할 때 장애 상황에 대처할 플레이 북 문서를 Hubot을 통해서 조회, 플레이 북을 자동화해서 문제 검색
+* [How to automate everything with GitHub with GitHub App - YouTube](https://www.youtube.com/watch?v=mF_sw6R7Bf0)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
