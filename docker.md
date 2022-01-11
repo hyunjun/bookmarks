@@ -454,6 +454,7 @@ Docker
 * [Docker Images : Part I - Reducing Image Size](https://www.ardanlabs.com/blog/2020/02/docker-images-part1-reducing-image-size.html)
 * [Docker Images : Part II - Details Specific To Different Languages](https://www.ardanlabs.com/blog/2020/02/docker-images-part2-details-specific-to-different-languages.html)
 * [Docker Images : Part III - Going Farther To Reduce Image Size](https://www.ardanlabs.com/blog/2020/04/docker-images-part3-going-farther-reduce-image-size.html)
+* [Optimizing Docker image size and why it matters - contains.dev](https://contains.dev/blog/optimizing-docker-image-size)
 * [3 simple tricks for smaller Docker images](https://learnk8s.io/blog/smaller-docker-images)
 * [Docker Based Web Hosting](https://code.shoplic.kr/docker-based-web-hosting)
 * [Demystifying containers 101: a deep dive into container technology for beginners](https://medium.freecodecamp.org/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners-d7b60d8511c1)
@@ -552,6 +553,7 @@ Docker
   * 커스텀 스크립트 -> 이미 존재하는 도구 활용
 * [CKS 시험 정보 Portal ver0.5 - 쿠버네티스 전문가 블로그](https://sysnet4admin.blogspot.com/2021/12/cks-portal-ver05.html)
 * [Mac 업데이트 이후 Docker 실행 안될 경우](https://jojoldu.tistory.com/629)
+* [The container throttling problem](https://danluu.com/cgroup-throttling/)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -920,6 +922,7 @@ Docker
 * [누가 Kubernetes 클러스터에 있는 나의 사랑스러운 Prometheus 컨테이너를 죽였나! - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/prometheus-container-kubernetes-cluster/)
 * [Monitor Kubernetes with Prometheus & Grafana | Better Programming](https://medium.com/better-programming/monitor-your-kubernetes-cluster-with-prometheus-and-grafana-1f7d0195e59)
 * [13 Best Kubernetes Monitoring Tools: Open Source & Paid 2021 - Sematext](https://sematext.com/blog/kubernetes-monitoring-tools/)
+* [Launch HN: ContainIQ (YC S21) – Kubernetes Native Monitoring with eBPF | Hacker News](https://news.ycombinator.com/item?id=29825681)
 * [kubernetes를 이용한 서비스 무중단 배포](http://tech.kakao.com/2018/12/24/kubernetes-deploy/)
 * [Kubernetes and the Path to Serverless](https://www.youtube.com/watch?v=lKr6yw9Iw04)
 * [**Scaling Microservices with Message Queues, Spring Boot and Kubernetes**](https://hackernoon.com/scaling-microservices-with-message-queues-spring-boot-and-kubernetes-9ba4b0e48bdf)
@@ -1182,6 +1185,8 @@ Docker
 * [Using K6 test + Docker + Reports. So, you have unit tests and integration… | by Bernardo Teixeira | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/using-k6-tests-docker-reports-53366512b5c5)
 * [KCNA-Kubernetes-and-Cloud-Native-Associate: Useful notes for the KCNA - Kubernetes and Cloud Native Associate](https://github.com/moabukar/KCNA-Kubernetes-and-Cloud-Native-Associate)
 * [OpenShift vs Kubernetes: what are the differences?](https://www.imaginarycloud.com/blog/openshift-vs-kubernetes-differences/)
+* [Kubernetes Is Not Your Platform, It's Just the Foundation](https://www.infoq.com/articles/kubernetes-successful-adoption-foundation/)
+* [Kubernetes — Running Multiple Container Runtimes | by Ivan Sim | ITNEXT](https://itnext.io/kubernetes-running-multiple-container-runtimes-65220b4f9ef4)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1516,6 +1521,7 @@ Docker
 * Shipa [Home - Shipa](https://shipa.io/) Shipa does for applications what Terraform did for infrastructure. A consistent application definition for an evolving infrastructure
 * [youki: A container runtime written in Rust](https://github.com/containers/youki)
   * [Youki - Rust로 작성된 컨테이너 런타임 | GeekNews](https://news.hada.io/topic?id=5116)
+  * [Hello, youki! – utam0k](https://www.utam0k.jp/en/blog/2021/12/27/youki_first_release/)
 
 ## Library docker alternative
 * [An Overview of Docker Desktop Alternatives](https://matt-rickard.com/docker-desktop-alternatives/)
@@ -1676,6 +1682,7 @@ Docker
 * [Try Kubernetes with Vagrant](http://lollyrock.com/articles/kubernetes-vagrant/)
 * [Use Vagrant to test your scripts on different operating systems | Opensource.com](https://opensource.com/article/21/9/test-vagrant)
 * [How I use Vagrant with libvirt | Opensource.com](https://opensource.com/article/21/10/vagrant-libvirt)
+* [Container Networking Is Simple!](https://iximiuz.com/en/posts/container-networking-is-simple/)
 * [cube-bldr at master · sysnet4admin/IaC](https://github.com/sysnet4admin/IaC/tree/master/Docker/cube-bldr) 도커 빌드 + 쿠버 테스트 환경 통합을 위한 베이그런트 스크립트
 
 # Virtualization
