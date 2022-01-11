@@ -237,3 +237,14 @@ Bitcoin
 * [A from-scratch tour of Bitcoin in Python](https://karpathy.github.io/2021/06/21/blockchain/)
 * [python-snarks](https://github.com/Onther-Tech/python-snarks)
 * [SmartPy - an intuitive and powerful smart contract development platform for Tezos](https://smartpy.io/)
+
+# Web3
+* [Defining the Web3 Stack - Nader Dabit - (Next.js Conf 2021) - YouTube](https://www.youtube.com/watch?v=f9XRH7bjV8M)
+* [실리콘밸리는 웹 3.0 논쟁 중이래요!](https://stibee.com/api/v1.0/emails/share/xJZlbV0k-4beUjVVNmJTR8CLYeRACQ==)
+  * 최근 웹 3.0과 관련해서 마크 안데르센과 잭 도시가 벌인 논쟁 정리
+  * 넷스케이프를 만들고 a16z 벤처투자 회사를 만든 마크 안데르센이 플랫폼을 사용자와도 같이 소유할 수 있는 웹 3.0을 지지
+  * 잭 도시는 웹 3.0을 해도 어차피 돈을 버는 것은 벤처캐피탈과 투자자뿐이라고 비판하면서 트위터 계정을 차단하는 등 논쟁 발생
+* [Crypto: the good, the bad and the ugly | Seldo.com](https://seldo.com/posts/crypto-the-good-the-bad-and-the-ugly)
+* [web3/DAO의 장단점](https://saconyreview.glivery.co.kr/p/2270015726135)
+  * [web3/DAO의 장단점 | GeekNews](https://news.hada.io/topic?id=5696)
+* [글로벌 칼럼 | '웹3' 개념을 무시해도 좋은 이유 - ITWorld Korea](https://www.itworld.co.kr/news/220219)
