@@ -450,6 +450,7 @@ AWS
 * [How to fix SSH issues on EC2 Linux instances using AWS Systems Manager | AWS Cloud Operations & Migrations Blog](https://aws.amazon.com/de/blogs/mt/how-to-fix-ssh-issues-on-ec2-linux-instances-using-aws-systems-manager/)
 * [The top Amazon Science blog posts of 2021 - Amazon Science](https://www.amazon.science/latest-news/the-top-amazon-science-blog-posts-of-2021)
 * [차량용 단말을 위한 IoT 파이프라인 구축기 #1 - SOCAR Tech Blog](https://tech.socarcorp.kr/mobility/2022/01/06/socar-iot-pipeline-1.html)
+* [Performance Analysis for Arm vs x86 CPUs in the Cloud](https://www.infoq.com/articles/arm-vs-x86-cloud-performance/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -859,6 +860,9 @@ AWS
 * [Serverless offerings like AWS Lambda haven't hit the big time, but Kubernetes can help - TechRepublic](https://www.techrepublic.com/article/serverless-offerings-like-aws-lambda-havent-hit-the-big-time-but-kubernetes-can-help/)
 * [Serverless Private APIs — Part 1 🚀 | by Lee James Gilmore | Dec, 2021 | Medium](https://leejamesgilmore.medium.com/serverless-private-apis-60749934b161)
 * [Serverless Private APIs — Part 2 🚀 | by Lee James Gilmore | Dec, 2021 | Medium](https://leejamesgilmore.medium.com/serverless-private-apis-part-2-91fb9ab0c484)
+* [Optimising serverless for BBC Online | by Johnathan Ishmael | BBC Product & Technology | Medium](https://medium.com/bbc-design-engineering/optimising-serverless-for-bbc-online-118fe2c04beb)
+* [BBC Online Uses Serverless to Scale Extremely Fast](https://www.infoq.com/news/2021/01/bbc-serverless-scale/)
+* [Why AWS Lambda Pricing Has to Change for the Enterprise](https://www.infoq.com/articles/aws-lambda-price-change/)
 * [매일이 새로운 초기 스타트업, 파이썬과 함께라면. 백승호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=FZL2dMFefC0) sls
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
 * [AWS Lambda 로 하는 Hello World!](https://velopert.com/3546)
@@ -1225,6 +1229,7 @@ AWS
 * [Amazon S3 Deep Dive (part 3-object) - DEV Community](https://dev.to/aws-builders/amazon-s3-deep-dive-part-3-storage-fundamentals-3mcd)
 * [Deleting an S3 Bucket Costs Money - CloudCasts](https://cloudcasts.io/article/deleting-an-s3-bucket-costs-money)
 * [사례별로 알아본 안전한 S3 사용 가이드 | 우아한형제들 기술블로그](https://techblog.woowahan.com/6217/)
+* [Incorrect IAM Policy Raised Questions about AWS Access to S3 Data](https://www.infoq.com/news/2022/01/aws-iam-s3-access/)
 * [amazon-s3-plugin-for-pytorch](https://github.com/aws/amazon-s3-plugin-for-pytorch)
 
 # Scala
