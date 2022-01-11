@@ -84,6 +84,7 @@ Programmer
 * [쏘카 안드로이드 팀 신입 개발자 미뇽의 입사기 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2021/08/19/join-in-socar-android.html)
 * [기업들이 신입개발자를 뽑지 않는 이유 – IT의 중심에서](https://subokim.wordpress.com/2021/09/15/why_dont_intern/)
 * [신입 개발자가 알면 좋은 개발 외적인 개념](https://velog.io/@jereint20/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EC%95%8C%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EA%B0%9C%EB%B0%9C-%EC%99%B8%EC%A0%81%EC%9D%B8-%EA%B0%9C%EB%85%90)
+* [Here’s Peter Norvig’s Advice to New Programmers. It Should Not Be Ignored | by Somnath Singh | Dec, 2021 | JavaScript in Plain English](https://javascript.plainenglish.io/heres-peter-norvig-s-advice-to-new-programmers-it-should-not-be-ignored-cba2735017a9)
 * [Why I prefer making useless stuff - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/makinguselessstuff.html)
 * [System Compleat. System Compleat.](https://kerberosj.tistory.com/) Singapore DBS 근무
 * [왜 개발자는 잘못된 기술 선택을 밥 먹듯이 하나?](https://kingofbackend.tistory.com/129)
@@ -105,6 +106,8 @@ Programmer
   * [Principal(수석) 소프트웨어 엔지니어는 어떤 일을 하는가 | GeekNews](https://news.hada.io/topic?id=5557)
 * [What Happens To Developers Who Never Go Into Management? | WBS CODING SCHOOL](https://www.wbscodingschool.com/blog/what-happens-devs-never-management/)
 * [개발을 잘 하는 습관](https://blog.shiren.dev/2021-05-17/)
+* [**18 Trends That Will Shape Our Careers in 2022**](https://junglegym.substack.com/p/18-trends-that-will-shape-our-careers)
+  * [2022년 우리의 커리어를 형성할 트렌드들 | GeekNews](https://news.hada.io/topic?id=5672)
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
@@ -116,6 +119,7 @@ Programmer
 * [What I Learnt Becoming a Tech Lead - Tom Gamon](https://tomgamon.com/posts/things-i-have-learned-new-tech-lead/)
 * [Overview - Dropbox Engineering Career Framework](https://dropbox.github.io/dbx-career-framework/)
 * [Introducing The Complete Computer Science Career Path](https://www.codecademy.com/resources/blog/introducing-the-complete-computer-science-career-path/)
+* [Belonging to Amazon’s Principal Engineering Community | by Carlos Arguelles | Geek Culture | Nov, 2021 | Medium](https://medium.com/geekculture/belonging-to-amazons-principal-engineering-community-aa8059152fbf)
 
 # Cultuer, Team
 * [훌륭한 개발 문화의 이면(7) – 잉여력이냐 vs. 효율성이냐](http://channy.creation.net/blog/1238) 개발자 경력 경로
