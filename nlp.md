@@ -937,6 +937,8 @@ NLP
 * [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
+* [SNgramExtractor: Python package code repo for Implementation of syntactic n-grams (sn-gram) extraction](https://github.com/StatguyUser/SNgramExtractor)
+  * 의존성 파스 트리 구조를 사용하여 syntactic 합성 n-gram 추출
 * [tunib-electra: Korean-English Bilingual Electra Models](https://github.com/tunib-ai/tunib-electra)
 * [WellnessConversationAI: Korean Language Model을 이용한 심리상담 대화 언어 모델](https://github.com/nawnoes/WellnessConversationAI)
 
