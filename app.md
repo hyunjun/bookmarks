@@ -1905,6 +1905,8 @@ App
 
 # VPN
 * [Algo로 개인 VPN 서버 구축하기(요약판) | 44BITS](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail-summary)
+* [HeadScale - TailScale 서버의 오픈소스 구현체 | GeekNews](https://news.hada.io/topic?id=5039)
+* [Netmaker - WireGuard 기반 오픈소스 VPN 플랫폼 | GeekNews](https://news.hada.io/topic?id=5701)
 * [NordVPN - VPN Reimagined for Mac OS](https://nordvpn.com/download/mac/)
 * [OpenVPN을 이용해 사설망 접근하기](https://brunch.co.kr/@alden/69)
   * 회사에서 보안을 위해서 VPN을 구현하는 일은 흔하고 구현하는 방법은 다양한 접근이 존재
