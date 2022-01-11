@@ -91,6 +91,7 @@ Monitoring
     * Reliably에서 만든 CLI를 이용해서 SLO를 측정하는 방법 설명
     * 간단한 웹서버에서 일부는 오류가 발생하도록 작성하고 Datadog에 APM을 연동해 두고 reliably를 이용해서 Datadog의 매트릭을 가져와서 SLO 보고서를 만드는 방법 설명
   * [(4) Datadog 네트워크 성능 모니터링 - NPM | LinkedIn](https://www.linkedin.com/pulse/%25EB%258D%25B0%25EC%259D%25B4%25ED%2584%25B0%25EB%258F%2585-%25EB%2584%25A4%25ED%258A%25B8%25EC%259B%258C%25ED%2581%25AC-%25EC%2584%25B1%25EB%258A%25A5-%25EB%25AA%25A8%25EB%258B%2588%25ED%2584%25B0%25EB%25A7%2581-npm-daniel-yunjong-park/)
+  * [Best Practices for Creating Detection Rules With Datadog Security Monitoring | Datadog](https://www.datadoghq.com/blog/writing-datadog-security-detection-rules/)
 * Flamingo
   * [Big Data Platform--Flamingo v3.0 Demo](https://www.youtube.com/watch?v=VnDcS2tqaqU)
 * [froxlor Server Management Panel](http://froxlor.org/)
