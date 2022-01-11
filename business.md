@@ -315,6 +315,24 @@ Business
 * [Innovating onboarding experience at your companies with technologies - YouTube](https://www.youtube.com/watch?v=0S1WjrkuQPM)
 * [리멤버의 온보딩 과정을 소개합니다 | DRAMA&COMPANY](https://blog.dramancompany.com/2021/08/%eb%a6%ac%eb%a9%a4%eb%b2%84%ec%9d%98-%ec%98%a8%eb%b3%b4%eb%94%a9-%ea%b3%bc%ec%a0%95%ec%9d%84-%ec%86%8c%ea%b0%9c%ed%95%a9%eb%8b%88%eb%8b%a4/)
 * [온보딩 ‘구름타기’ 수료 후기. CTC 만의 온보딩 프로그램, ‘구름타기’ | by 이진태 | Cloud Villains | Oct, 2021 | Medium](https://medium.com/ctc-mzc/megazonecloud-ctc-%EC%98%A8%EB%B3%B4%EB%94%A9-%EA%B5%AC%EB%A6%84%ED%83%80%EA%B8%B0-%EC%88%98%EB%A3%8C-%ED%9B%84%EA%B8%B0-7bb14acf0abd)
+* [**How HashiCorp Works**](https://works.hashicorp.com/)
+  * [HashiCorp가 일하는 방법 | GeekNews](https://news.hada.io/topic?id=5668)
+    * 자신들이 일하는 방법(암묵적 관행)을 정리한 사이트
+      * → 신입 멤버를 위해 문서화 하기 시작해서, 조직 전체를 위한 지식으로 발전
+    * 개인
+      * 글쓰기 습관과 문화
+      * 관계 형성
+      * 표준 커뮤니케이션 도구
+      * 원격으로 일하는 것에 단 하나의 올바른 길은 없음
+      * 데이터로 Leading하기
+    * 매니저와 팀
+      * 매니저 헌장
+      * 효과적인 회의를 위한 모범 사례
+      * 명확하고 직접적인 피드백
+    * 회사
+      * HashiCorp의 채용 및 면접
+      * Operating Cadence
+      * 원칙에 기반한 문화(Principled Culture) 구축
 * [Under-promise and over-deliver](https://www.thestartupbible.com/2019/10/under-promise-and-over-deliver.html) 일하는 자세로서 매우 동감하는 글. 제목이 모든 걸 알려준다
 * [지금, 이직을 생각하는 당신에게](https://ppss.kr/archives/204910) 당연한 이야기인데 변화가 늦은 다른 직종에서는 놀라울 수도 있겠다는 생각이 듦
 * [일 좀 하게 해 줘, 발목잡지 말고](https://brunch.co.kr/@jinhoyooephf/18) 품의 제도의 역사 및 개선 방법(사실은 글로벌 스탠다드)
@@ -763,6 +781,7 @@ Business
 * [팀워크 : 팀을 위기로 만드는 리더에게는 3가지 패턴이 있대요](https://blog.naver.com/collabee/222535977963)
 * [CEO 심리학 직원들의 잦은 실수는 기강해이가 원인 아니라 리더의 무례함 때문이다 - 매일경제](https://mk.co.kr/news/business/view/2021/12/1197544)
 * [미공군의 팔로워십 육성 팁](https://hrbulletin.net/leadership/%EB%AF%B8%EA%B3%B5%EA%B5%B0%EC%9D%98-%ED%8C%94%EB%A1%9C%EC%9B%8C%EC%8B%AD-%EC%9C%A1%EC%84%B1-%ED%8C%81/) followship
+* [Why Engineers Should Invest in Decision-Making Skills Early — Reforge](https://www.reforge.com/blog/technical-decision-making) leadership에만 해당하는 부분은 아님
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
