@@ -483,6 +483,7 @@ NoSQL
 
 # RocksDB
 * [Libplanet RocksDB 적용기](https://snack.planetarium.dev/kor/2020/04/rocksdb/)
+* [Ribbon Filter | RocksDB](http://rocksdb.org/blog/2021/12/29/ribbon-filter.html)
 
 # RYE
 * [rye, 샤딩을 지원하는 오픈소스 관계형 dbms](https://www.slideshare.net/deview/223rye-dbms)
