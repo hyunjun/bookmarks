@@ -1766,6 +1766,7 @@ Programming
 * [코드 리뷰프로세스를 도입/개선하고자 하는데 어떻게 해야할까요? | by gon Kim | elecle | Oct, 2021 | Medium](https://medium.com/elecle-bike/%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%EB%A5%BC-%EB%8F%84%EC%9E%85-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B3%A0%EC%9E%90-%ED%95%98%EB%8A%94%EB%8D%B0-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%B4%EC%95%BC%ED%95%A0%EA%B9%8C%EC%9A%94-1e5df5f8949b)
 * [Code review — bad, expensive, ineffective (in most cases)](https://github.com/sharovatov/teamlead/blob/master/codereview_en.md)
 * [Code Reviews: From Bottleneck to Superpower (Code Reviews Best Practices) - YouTube](https://www.youtube.com/watch?v=8XsBX-V_fgI)
+* [Learning with Code Reviews. Guidelines for creating a code review… | by Sandeep Bantia | Dec, 2021 | Medium](https://sandeepbantia.medium.com/code-review-guidelines-e25b877537e8)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 * [개발자 생산성 선언-플라이휠](https://ichi.pro/ko/gaebalja-saengsanseong-seon-eon-peullaihwil-129703808319115)
 * [6 Simple Tips on How to Start Writing Clean Code](https://hackernoon.com/6-simple-tips-on-how-to-start-writing-clean-code-d66c241aa268)
@@ -3478,6 +3479,7 @@ Programming
 * [How we build software at Cloudflare](https://blog.cloudflare.com/building-software-at-cloudflare/)
 * [How do Google engineers work? | LinkedIn](https://www.linkedin.com/pulse/how-do-google-engineers-work-edward-jee/)
 * [Uncomfortable Truths in Software Engineering • Buttondown](https://buttondown.email/hillelwayne/archive/uncomfortable-truths-in-software-engineering/)
+* [Is a One-Person Development Team Optimal? | by Doug Foo | Better Programming](https://betterprogramming.pub/is-a-one-person-development-team-optimal-f8aca9872ccc) 팀원 숫자, team size에 대한 이야기
 * [Principles.dev - Software Engineering Principles](https://principles.dev/)
   * [Software Engineering Principles | GeekNews](https://news.hada.io/topic?id=4534)
 
