@@ -287,6 +287,7 @@
 * [Object Oriented Programming (OOP) in Python - YouTube](https://www.youtube.com/watch?v=MikphENIrOo)
 * [Writing A Simple Factory Method In Python | by Tate Galbraith | Level Up Coding](https://levelup.gitconnected.com/writing-a-simple-factory-method-in-python-6e48145d03a)
 * [Implementing the Factory Pattern via Dynamic Registry and Python Decorators | by Geoffrey Koh | Medium](https://medium.com/@geoffreykoh/implementing-the-factory-pattern-via-dynamic-registry-and-python-decorators-479fc1537bbe)
+* [Factory Method Design Pattern in Python — Explained With Code | by Ankush Kumar Singh | Dec, 2021 | Python in Plain English](https://python.plainenglish.io/factory-method-design-pattern-in-python-94f9cfabc31c)
 * [Probably the Best Practice of Object-Oriented Python — Attr | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/probably-the-best-practice-of-object-oriented-python-attr-d8c26c0e8a4)
 * [Organizing your Python Code. In spite of yourself | by Keno Leon | Medium](https://medium.com/@k3no/organizing-your-python-code-ca5445843368)
 * [Understanding the crux of objects and classes in python. | by Aakash Agrawal | Towards Data Science](https://towardsdatascience.com/understanding-the-crux-of-objects-and-classes-in-python-87c5f4f22d76)
