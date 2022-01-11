@@ -1030,6 +1030,7 @@ Linux
 * [auto-cpufreq: Automatic CPU speed & power optimizer for Linux](https://github.com/AdnanHodzic/auto-cpufreq)
 * bottle [Easily run Windows software on Linux with 🍷 Bottles! ⋅ Bottles](https://usebottles.com/)
 * [broot - Get an overview of a directory, even a big one](https://dystroy.org/broot/)
+* [Browsix: Unix in the browser tab](https://browsix.org/)
 * [Byobu - text-based window manager and terminal multiplexer](http://byobu.co/)
 * [**cheat.sh - the only cheat sheet you need https://cheat.sh**](https://github.com/chubin/cheat.sh)
 * [Cockpit Project — Cockpit Project](https://cockpit-project.org/)
@@ -1308,3 +1309,4 @@ Linux
 # X Window
 * [라즈베리파이 X-Window 화면을 윈도우즈와 맥 터미널에서 띄우기](http://blog.xcoda.net/94) X11-Forward
 * [How X Window Managers Work, And How To Write One (Part I)](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
+* [Cool, but obscure X11 tools](http://cyber.dabamos.de/unix/x11/)
