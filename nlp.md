@@ -1802,6 +1802,7 @@ NLP
 * [Transcribe Audio and Use Speech Recognition in Python - YouTube](https://www.youtube.com/watch?v=L0N2Ve9vhPk)
 * [이렇게 사용하세요! AI 음성인식 API로 음성 변환 서비스 쉽게 만들 (CLOVA Speech Recognition, CSR)](https://blog.naver.com/n_cloudplatform/222583556230)
 * [AudioSet - A massive dataset of manually annotated audio events](https://research.google.com/audioset/)
+* [DKTC: Dataset of Korean Threatening Conversations](https://github.com/tunib-ai/DKTC)
 * Frill [텐서플로우 라이트 이용한 혁신적인 음성 임베딩... 음성 AI모델, 온 디바이스로 구현하는 'FRILL' 오픈 소스로 공개](https://www.aitimes.kr/news/articleView.html?idxno=21321)
 * [g2pK: g2p module for Korean](https://github.com/Kyubyong/g2pK) 발음 생성 모듈. TTS의 전처리 모듈로 흔히 사용
 * [Hound Internal Demo](https://www.youtube.com/watch?v=M1ONXea0mXg)
