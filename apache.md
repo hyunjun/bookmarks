@@ -665,6 +665,7 @@ Apache
 * [Introducing Confluent’s Parallel Consumer Message Processing Client](https://www.confluent.io/blog/introducing-confluent-parallel-message-processing-client/)
 * [컨플루언트 김현수 상무 I 이벤트 기반 마이크로서비스 아키텍처에서의 Apache Kafka 역할 on Vimeo](https://vimeo.com/649824818)
 * [Building and Scaling a Control Plane for 1000s of Kafka Clusters - YouTube](https://www.youtube.com/watch?v=akv8jqgNScg)
+* [Consuming over 1 billion Kafka messages per day at Ifood | by felipe volpone | Nov, 2021 | Medium](https://felipevolpone.medium.com/consuming-over-1-billion-kafka-messages-per-day-at-ifood-2465e1ffa795)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
