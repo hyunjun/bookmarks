@@ -75,6 +75,7 @@ Network
     * IPv6는 설계 목표는 많이 달성했지만, 예상처럼 빠르게 롤아웃되지 않았고 IPv4 대체하지도 못함
     * IPv6의 롤아웃이 느린 이유는 IPv4와 같이 배포할 때 충분한 가치를 제공하지 못했기 때문
     * IPv6의 주목적이 IPv4의 주소 공간을 늘리는 것이었으므로 IPv4 주소 공간이 제한적인 사설망에서 많이 사용
+* [The IPv6 mess](https://cr.yp.to/djbdns/ipv6mess.html)
 * [삐약삐약 네트워크 엔지니어 이야기 - YouTube](https://www.youtube.com/watch?v=D259i3pBYLA)
   * [삐약삐약 네트워크 엔지니어 이야기](https://www.slideshare.net/InfraEngineer/ss-250837913)
 * [‘데이터 흐름을 보호하는 프로토콜’ IPsec 이해하기 - ITWorld Korea](https://www.itworld.co.kr/news/220474)
@@ -119,6 +120,7 @@ Network
 * [DNS 레코드를 간단히 알아보아요 : 오픈 인프라 엔지니어 그룹](https://blog.o3g.org/network/dns-record/)
 * [Improving DNS Privacy with Oblivious DoH in 1.1.1.1](https://blog.cloudflare.com/oblivious-dns/)
 * [DNS 서버란? /etc/hosts 파일이란? - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/etc-host-dns/)
+* [Why might you run your own DNS server?](https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/)
 * [New tool: Mess with DNS!](https://jvns.ca/blog/2021/12/15/mess-with-dns/)
 * [MaraDNS - a small open-source DNS server](https://maradns.samiam.org/)
   * [MaraDNS - 서비스 테스트에 사용할 수 있는 간단한 Windows 용 DNS 서비스 | GeekNews](https://news.hada.io/topic?id=4001)
@@ -258,6 +260,7 @@ Network
 * [Moloch - Full Packet Capture Large scale, open source, indexed packet capture and search](https://molo.ch/)
 * [Nebula - a scalable overlay networking tool with a focus on performance, simplicity and security](https://github.com/slackhq/nebula)
   * [Introducing Nebula, the open source global overlay network from Slack](https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack-884110a5579)
+  * [Nebula, 슬랙이 공개한 Global Overlay Network 오픈소스 | GeekNews](https://news.hada.io/topic?id=940)
 * [OverTheWire: Wargames](https://overthewire.org/wargames/)
 * [packet-analyzer - a simple Wireshark frame dissector plugin written in Lua](https://github.com/shanicohen1902/packet-analyzer)
 * [pcap 라이브러리](http://ehclub.co.kr/category/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B8%B0%EC%88%A0/pcap%20%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC)
