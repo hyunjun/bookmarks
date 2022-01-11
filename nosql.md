@@ -15,6 +15,7 @@ NoSQL
 * [The CAP FAQ](The CAP FAQ)
 * [CAP theorem](http://blog.seulgi.kim/2018/03/cap-theorem.html)
 * [An Illustrated Proof of the CAP Theorem](https://mwhittaker.github.io/blog/an_illustrated_proof_of_the_cap_theorem/) CAP 이론을 설명 증명
+* [EP06: CAP Theorem & NoSQL BASE Properties - YouTube](https://www.youtube.com/watch?v=IRFbhR3Ei7E)
 * [Why MongoDB, Cassandra, HBase, DynamoDB, and Riak will only let you perform transactions on a single data item](http://dbmsmusings.blogspot.kr/2015/10/why-mongodb-cassandra-hbase-dynamodb_28.html)
 * [NoSQL 간단한 소개](http://www.slideshare.net/WonchangSong1/no-sqlsimpleintro)
 * [A Survey of Query Execution Engines (from Volcano to Vectorized Processing)](https://chatwithengineers.com/2016/08/29/a-survey-of-query-execution-engines-from-volcano-to-vectorized-processing/)
