@@ -868,6 +868,7 @@ Programming Books
 * (NOT YET) [펭귄브로의 3분 딥러닝, 파이토치맛](http://www.hanbit.co.kr/store/books/look.php?p_code=B7193109877)
   * [책 펭귄브로의 3분 딥러닝, 파이토치맛](https://jybaek.tistory.com/879)
 * (NOT YET) [fastai와 파이토치가 만나 꽃피운 딥러닝(제레미 하워드, 실뱅 거거 著, 박찬성, 김지은 譯, 2021)](https://jehyunlee.tistory.com/27)
+  * [학위 없이 폼나게 AI를 구현 할 수 있는 fastai 란? fastai 책 역자 인터뷰 - YouTube](https://www.youtube.com/watch?v=53Np5TUz85I)
 
 ## Visualization
 * 비쥬얼라이즈 디스: 빅데이터 시대의 데이터 시각화 + 인포그래픽 기법
