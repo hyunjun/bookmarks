@@ -61,6 +61,7 @@
 * [Robert.C.Martin 블로그번역 -2 개방/폐쇄 원칙에 대하여(The Open/Closed Principle)](https://medium.com/@joohotheman/robert-c-martin-블로그번역-2-개방-폐쇄-원칙에-대하여-the-open-closed-principle-c80388209e89)
 * [10 OOP Design Principles Every Programmer Should Know](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65)
 * [The Liskov Substitution Principle — and why you might want to enforce it](https://hackernoon.com/the-liskov-substitution-principle-and-why-you-might-want-to-enforce-it-6f5bbb05c06d)
+* [Liskov Substitution Principle of SOLID | LSP - Tech Point Fundamentals](https://www.techpointfunda.com/2021/10/liskov-substitution-principle.html)
 * [Top 10 Object-Oriented Design Principles for writing Clean Code](https://dev.to/javinpaul/top-10-object-oriented-design-principles-for-writing-clean-code-4pe1)
 * [Memento Pattern](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180907_BB_memento_pattern.md)
 * [이펙티브 자바3판 2장 객체 생성과 파괴](http://sjh836.tistory.com/168)
