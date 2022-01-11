@@ -524,6 +524,7 @@ SQL
 * [MySQL 8.0 맥에 설치하기 #DBeaver - YouTube](https://www.youtube.com/watch?v=gTYw8CZZujE)
 * [MySQL 설치 (윈도우 환경)](https://www.popit.kr/mysql-%EC%84%A4%EC%B9%98-%EC%9C%88%EB%8F%84%EC%9A%B0-%ED%99%98%EA%B2%BD/)
 * [윈도우10 MySQL Community 8.0 버전 다운로드 및 설치 방법 가이드](https://stricky.tistory.com/342)
+* [MySQL 8 root 비밀번호 분실, 초기화 방법 (DB관리자 필수로 알아둘 내용) How to reset MySQL root password - YouTube](https://www.youtube.com/watch?v=aUpsnwG7zOQ)
 * [MySQL Performance - Number of Tables Vs. Number of Rows](https://stackoverflow.com/questions/9965203/mysql-performance-number-of-tables-vs-number-of-rows)
 * [phpmyadmin의 궁극적인 대안: MySQL Workbench + 터널링](http://earlybird.kr/2027)
 * [WorkBench 쿼리 타임아웃](http://jybaek.tistory.com/760)
