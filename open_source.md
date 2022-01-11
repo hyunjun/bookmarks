@@ -91,6 +91,7 @@ Open Source
   * GraphQL을 사용하면서 사용한 graphqurl에서 introspection query가 처리 안 되는 문제를 발견하고 이유를 찾다가 graphqurl의 헤더 문제임을 찾아내고 기여해서 수정한 과정
 * [슬기로운 오픈소스 생활 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=2lL2eRQch2o)
 * ['보시 어워드 2021' 올해 최고의 오픈소스 소프트웨어 29선 - ITWorld Korea](https://www.itworld.co.kr/news/212054)
+* [의존성 위험성과 펀딩 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1577)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
