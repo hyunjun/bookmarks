@@ -250,6 +250,7 @@ Network
   * [네트워크 장비 없이 공부하기 - Cisco Packet Tracer](https://www.youtube.com/watch?v=0f1viq6FjK4)
 * dig [How to use dig](https://jvns.ca/blog/2021/12/04/how-to-use-dig/)
 * [HSTS — N26 hardcoded in your browser](https://mag.n26.com/hsts-n26-hardcoded-in-your-browser-fb2af97ed839)
+* IPVoid [IP Address Tools, Network Tools, DNS Tools | IPVoid](https://www.ipvoid.com/)
 * [masscan: TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
 * [mitmproxy로 iOS 기기의 네트워크 트래픽 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1514)
 * [Moloch - Full Packet Capture Large scale, open source, indexed packet capture and search](https://molo.ch/)
