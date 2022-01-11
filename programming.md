@@ -1060,6 +1060,7 @@ Programming
 * [복잡성이 SW 개발자를 죽인다··· '패러다임의 전환' 올까? - CIO Korea](https://www.ciokorea.com/news/216564)
 * [The InfoQ Podcast: Software Architecture and Design InfoQ Trends Report—April 2021](https://www.infoq.com/podcasts/architecture-design-trends-report/)
 * [Pythonic Clean Architecture. 라스 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=EGzQvBqhUS0)
+* [조직이 결국 아키텍처를 좌우한다. – Dreaming for the Future](http://www.chidoo.me/index.php/2022/01/09/the-organization-defines-architecure/) 기술 이야기는 아님
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
