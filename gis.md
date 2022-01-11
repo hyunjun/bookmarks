@@ -75,6 +75,8 @@ GIS
 * [전국에 맥도날드 주소가 어떻게 될까? | Daily Log](https://jiyeonseo.github.io/2020/08/01/where-is-mcdonald-addr/)
 * [4 Must-have JupyterLab Extensions for Geospatial Data science | by Abdishakur | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/4-must-have-jupyterlab-extensions-for-geospatial-data-science-f3cf7822de4b)
 * [카카오 장소검색 API 활용안내(Play with Data)](https://www.notion.so/API-Play-with-Data-6156b17b222b4d0ca495a4cc3f2e41c6)
+* [Introduction to GIS (Geographic Information System) in Python. Shreya Gupta - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=pkigjph7Nxc)
+  * [Shreya_Gupta_Xarray_tutorial_PyCONKR.ipynb](https://github.com/hyunjun/AWS_AI_Study/blob/master/Shreya_Gupta_Xarray_tutorial_PyCONKR.ipynb)
 * [Deckgl for Jupyter Notebook - 위치 데이터 시각화 라이브러리인 Deck.gl을 쥬피터 노트북 에서 사용 가능](https://github.com/heumsi/deckgl-jupyter)
 * geopandas [The Best Features of Geopandas 0.80 Release | by Abdishakur | Towards Data Science](https://towardsdatascience.com/the-best-features-of-geopandas-0-80-release-87f2d7aa8f5)
 * [gpd_example 2019년 pycon 튜토리얼 (Python으로 지리공간데이터 다루기) 실습 파일](https://github.com/rollinstar/gpd_example)
