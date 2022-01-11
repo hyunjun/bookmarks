@@ -59,10 +59,6 @@ Interview
 * [소프트웨어 개발자 / 프로그래머 캐나다 기술면접 및 취업 후기](http://hiho0414.blogspot.kr/2015/01/blog-post_16.html)
 * [구인 체험기 - 1편](http://siliconbeachstory.com/hiring-experience-part-1/)
 * [Mastering the Software Engineering Interview](https://www.coursera.org/learn/cs-tech-interview)
-* [10 Data Structure, Algorithms, and Programming Courses to Crack Any Coding Interview](https://hackernoon.com/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)
-* [The top data structures you should know for your next coding interview](https://medium.freecodecamp.org/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3)
-* [『 알고리듬 공부 체크리스트 43 』](http://xacdo.net/tt/index.php?pl=2579#p_tb)
-* [**알고리즘 학습에 대한 조언**](http://blog.weirdx.io/post/55358) 매우 좋은 글
 * [실리콘 밸리 주니어 개발자 취업기](https://brunch.co.kr/@junyong/2)
   * [인터뷰 준비(중) - 데이터 구조 / 알고리즘 리뷰](https://brunch.co.kr/@junyong/5)
 * [Software Interview Preparation Guide - Strategies and Resources on How to](https://www.youtube.com/watch?v=bBPHpH8aKjw)
@@ -702,6 +698,11 @@ Interview
   * [#2 - Median of Two Sorted Arrays and Divide and Conquer](https://fizzbuzzed.com/top-interview-questions-2/)
   * [#3 - N Queens and Backtracking](https://fizzbuzzed.com/top-interview-questions-3/)
 * [Programming Interview Questions](http://www.ardendertat.com/2012/01/09/programming-interview-questions/)
+* [10 Data Structure, Algorithms, and Programming Courses to Crack Any Coding Interview](https://hackernoon.com/10-data-structure-algorithms-and-programming-courses-to-crack-any-coding-interview-e1c50b30b927)
+* [An Algorithm for Passing Programming Interviews - malisper.me](https://malisper.me/an-algorithm-for-passing-programming-interviews/)
+* [The top data structures you should know for your next coding interview](https://medium.freecodecamp.org/the-top-data-structures-you-should-know-for-your-next-coding-interview-36af0831f5e3)
+* [『 알고리듬 공부 체크리스트 43 』](http://xacdo.net/tt/index.php?pl=2579)
+* [**알고리즘 학습에 대한 조언**](http://blog.weirdx.io/post/55358) 매우 좋은 글
 * [50+ Data Structure and Algorithms Interview Questions for Programmers](https://hackernoon.com/50-data-structure-and-algorithms-interview-questions-for-programmers-b4b1ac61f5b0)
 * [30 seconds of interviews](https://30secondsofinterviews.org/)
 * [CSPA COMPUTER SCIENCE PROFICIENCY ASSESSMENT](https://cspa.io)
