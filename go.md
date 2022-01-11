@@ -290,6 +290,7 @@ Go
 * [Offensive Golang Bonanza: Writing Golang Malware - YouTube](https://www.youtube.com/watch?v=oCdaOLmKu6s)
 * [Recurse Center Day 24: Hacking Go compiler to add a new keyword - blag](https://avi.im/blag/2021/rc-day-24/)
 * [Golang Design Patterns in Kubernetes](https://aly.arriqaaq.com/golang-design-patterns/)
+* [How Khan Academy Rewrote their Backend - by Quastor Tech](https://www.quastor.org/p/how-khan-academy-rewrote-their-backend)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
