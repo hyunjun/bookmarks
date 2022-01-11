@@ -1210,6 +1210,7 @@ Programming
   * 커널에는 원래 서비스 메시와 비슷한 기능이 이미 있었지만(iptables) 현대에 필요한 서비스 메시의 요구사항을 만족하지 못하고 사이드카 방식을 커널을 통해서 사이드카를 한 번 더 거쳐야 하므로 벤치마크에 따르면 3~4배의 지연시간 증가와 추가 메모리 필요
   * Cilium의 eBPF를 이용해서 서비스 메시를 사이트가 없이 Linux 커널에서 제공할 수 있게 되었고 사이트가 없이도 L7 추적과 메트릭을 제공할 수 있게 되었고 프락시 기반보다 훨씬 빠르다
   * eBPF로만 구현할 수 없는 요구사항의 경우 Node 당 프락시를 설치해서 해결할 수 있고 사이드카 방식보다 커넥션도 줄일 수 있다고 한다
+* [Service Mesh Ultimate Guide 2021 - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2021/)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
 * [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
