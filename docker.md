@@ -1187,6 +1187,7 @@ Docker
 * [OpenShift vs Kubernetes: what are the differences?](https://www.imaginarycloud.com/blog/openshift-vs-kubernetes-differences/)
 * [Kubernetes Is Not Your Platform, It's Just the Foundation](https://www.infoq.com/articles/kubernetes-successful-adoption-foundation/)
 * [Kubernetes — Running Multiple Container Runtimes | by Ivan Sim | ITNEXT](https://itnext.io/kubernetes-running-multiple-container-runtimes-65220b4f9ef4)
+* [Migrating to Kubernetes + Best Practices for Cloud Native • T. Vitale & L. Højgaard • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=2J3MZlXjLHk)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
