@@ -264,6 +264,8 @@ Business
 * [1:1 미팅, 매일 보는데 무슨 말을 하나요?](https://camp.lemonbase.com/1on1)
 * [1:1 미팅이 리더의 핵심 활동이어야 하는 이유](https://camp.lemonbase.com/1on1/leadership)
 * [1:1 미팅 시간 어떻게 관리해야 할까요?](https://camp.lemonbase.com/peopletalk/1on1)
+* [1 ON 1 의 정의](https://www.linkedin.com/feed/update/urn:li:activity:6863276228426764288/)
+* [1 on 1 목적](https://gist.github.com/hyunjun/cbf46d51740603c7eec03a2a973162c5#file-1_on_1-md)
 * [일잘러는 이런 사람 빅데이터로 알아보는 성공하는 직원의 비밀 | 인터비즈](https://blog.naver.com/businessinsight/221572920446)
 * [컨퍼런스콜 문화](https://estimastory.com/2016/01/24/conferencecall/)
 * [미국의 콜 문화](https://sungmooncho.com/2018/07/03/conference-call-culture/)
