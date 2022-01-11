@@ -327,6 +327,7 @@ Programming
 * [OAuth 2.0 and OpenID Connect (in plain English) - YouTube](https://www.youtube.com/watch?v=996OiexHze0)
 * [OAuth 2.0 을 구현하기 위해 알아야 할 것들 # Access Refresh Token](https://developer88.tistory.com/372)
 * [ID Token and Access Token: What Is the Difference?](https://auth0.com/blog/id-token-access-token-what-is-the-difference/) oauth
+* [Why I’m Using HTTP Basic Auth in 2022 | Joel Dare](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
 * [**안정적인 서비스 운영 2014.03**](https://www.slideshare.net/cybaek/201403) 설계 ~ 모니터링까지
   * [NHN 엔터테인먼트 안정적인 서비스 운영 참석 후기](https://jojoldu.tistory.com/338)
 * [흔한 프로그래머의 작명에 대한 사뭇 진지한 이야기](https://www.popit.kr/%ED%9D%94%ED%95%9C-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EC%9E%91%EB%AA%85%EC%97%90-%EB%8C%80%ED%95%9C-%EC%82%AC%EB%AD%87-%EC%A7%84%EC%A7%80%ED%95%9C-%EC%9D%B4%EC%95%BC%EA%B8%B0/) naming
@@ -2249,6 +2250,9 @@ Programming
   * HTTPS에서 패스워드를 그대로 보내면 안 되고 해싱해야 한다는 이야기에 대한 의견 정리
   * HTTPS에서 패스워드 전송은 평문이 아니며 서버 관리자가 패스워드를 알 수 있으므로 해싱을 해야 한다는 얘기도 잘못된 이야기
   * 브라우저에서 해싱하지 말아야 한다고 정리. 클라이언트 해싱을 하지 말아야 하고 의미도 없다고 함
+* [Facebook collecting people's data even when accounts are deactivated](https://digiday.com/media/why-facebook-keeps-collecting-peoples-data-and-building-their-profiles-even-when-their-accounts-are-deactivated/)
+* [반면교사 삼아야 할 2021년 ‘IT 재앙’ 8선 - CIO Korea](https://www.ciokorea.com/news/220229)
+* [소프트웨어 개발보안 가이드('19.11.29) | 행정안전부> 업무안내> 디지털정부국> 정보화 표준·지침 자료실](https://www.mois.go.kr/frt/bbs/type001/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000045&nttId=74415)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
