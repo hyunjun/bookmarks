@@ -336,6 +336,7 @@ Programming Books
 * Understanding and Using C Pointers / C 포인터의 이해와 활용
   * 한라 005.13리57ㅆ
 * (NOT YET) [모던 C 언어 프로그래밍 IDE, 디자인 패턴, XP, TDD, 리팩터링, 지속적인 통합](https://wikibook.co.kr/modern-c-programming/)
+* (NOT YET) [컴파일러 개발자가 들려주는 C 이야기 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/01/07/%EC%BB%B4%ED%8C%8C%EC%9D%BC%EB%9F%AC-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%93%A4%EB%A0%A4%EC%A3%BC%EB%8A%94-c-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
 
 # C++
 
