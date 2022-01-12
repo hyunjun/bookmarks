@@ -3912,6 +3912,7 @@ Python
   * [Grabs the dominant color or a representative color palette from an image. Uses Python and Pillow. http://lokeshdhakar.com/projects/color-thief ](https://github.com/fengsp/color-thief-py)
   * [The fastest production-ready image resize out there, part 0](https://blog.uploadcare.com/the-fastest-production-ready-image-resize-out-there-part-0-7c974d520ad9)
   * [Processing Images in Python With Pillow | Real Python Podcast #45 - YouTube](https://www.youtube.com/watch?v=pGIcrMonEuo)
+  * [Image processing in Python using Pillow - LogRocket Blog](https://blog.logrocket.com/image-processing-in-python-using-pillow/)
   * [WebRemoteDesktop](https://github.com/traitor0213/WebRemoteDesktop) pyautogui
     * [윈도우 원격제어 시험 (WebRemoteDesktop version1) - YouTube](https://www.youtube.com/watch?v=kA04S2V0SFU)
     * [WebRemoteDesktop (WRD) 서버 구현 과정](https://traitors-biscuit.tistory.com/entry/WebRemoteDesktop-WRD)
