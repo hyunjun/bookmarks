@@ -600,6 +600,7 @@ TensorFlow
   * [8. Teaching Machines to Read and Comprehend](https://github.com/carpedm20/attentive-reader-tensorflow)
   * [9. Neural Variational Inference for Text Processing](https://github.com/carpedm20/variational-text-tensorflow)
   * [10. Text-based Games using Deep Reinforcement Learning](https://github.com/carpedm20/text-based-game-rl-tensorflow)
+* [Excel + Python + Deep Learning = !. 신정규 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=jzOEJG_OsN8)
 * [TF-KR 첫 모임: Zen of NumPy](https://www.youtube.com/watch?v=Dm2wkObQSas)
   * [Zen of NumPy](https://speakerdeck.com/shurain/zen-of-numpy)
 * [TF-KR 첫 모임: Tensorflow 모델 디버깅을 위한 팁과 가이드](https://www.youtube.com/watch?v=01nDEZe0BfU)
