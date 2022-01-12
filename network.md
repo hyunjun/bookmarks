@@ -79,6 +79,7 @@ Network
 * [삐약삐약 네트워크 엔지니어 이야기 - YouTube](https://www.youtube.com/watch?v=D259i3pBYLA)
   * [삐약삐약 네트워크 엔지니어 이야기](https://www.slideshare.net/InfraEngineer/ss-250837913)
 * [‘데이터 흐름을 보호하는 프로토콜’ IPsec 이해하기 - ITWorld Korea](https://www.itworld.co.kr/news/220474)
+* [DHCP(Dynamic Host Configuration Protocol)란? - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/dhcp/)
 
 # Asynchronous
 * [동기 I/O 와 비동기 I/O 의 성능 차이 (부록: Node.js 는 좋을게 없다.)](http://hamait.tistory.com/839)
