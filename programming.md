@@ -1664,6 +1664,7 @@ Programming
 * [IDG 블로그 | 클라우드 '부작용'의 이유와 해법 - ITWorld Korea](https://www.itworld.co.kr/news/217594)
 * [How we handle 80TB and 5M page views a month for under $400 – Poly Haven Blog](https://blog.polyhaven.com/how-we-handle-80tb-and-5m-page-views-a-month-for-under-400/)
   * [**월50만원($400)으로 80TB 트래픽과 5M 페이지뷰를 처리하는 방법 | GeekNews**](https://news.hada.io/topic?id=5717)
+* [리프트 앤 시프트란? | NetApp](https://www.netapp.com/ko/knowledge-center/what-is-lift-and-shift/)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
