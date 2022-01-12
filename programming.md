@@ -612,6 +612,7 @@ Programming
 * [**농부처럼 생각하기**](https://www.facebook.com/pyopark/posts/10158835743458163)
 * [애자일은 다음과 같은 문제를 해결해주지 않습니다](https://www.facebook.com/pyopark/posts/10158851313268163)
   * [애자일은 다음과 같은 문제를 해결해주지 않습니다](https://gist.github.com/hyunjun/355c8faecfea0367f48feb6f3148f202#file-agile_cannot-md)
+* [if(kakao)2021 – 카카오 애자일상담소를 통해 얻은 교훈 – tech.kakao.com](https://tech.kakao.com/2022/01/12/ifkakao2021-agile/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
