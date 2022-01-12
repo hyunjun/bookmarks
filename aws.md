@@ -633,6 +633,7 @@ AWS
 * [AWS Cloud Practitioner Training | AWS Cloud Practitioner Essentials | AWS Full Course | Simplillearn - YouTube](https://www.youtube.com/watch?v=35JSBXkjuhk)
 * [DevOps-The-Hard-Way-AWS: This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS)
 * [OSS AWS 핸즈온 강의](http://www.slideshare.net/JuHongJeong1/oss-aws-69310654)
+* [AWS Full Course 2022 | AWS Tutorial For Beginners 2022 | AWS Training For Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=ZB5ONbD_SMY)
 
 # Docker
 * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
