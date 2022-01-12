@@ -168,6 +168,7 @@ Functional Programming
 * [Lambda World](https://www.youtube.com/channel/UCEBcDOjv-bhAmLavY71RMHA/videos)
 * [Functional Programming with Effects by Rob Norris](https://www.youtube.com/watch?v=30q6BkBv5MY)
 * ["Outperforming Imperative with Pure Functional Languages" by Richard Feldman - YouTube](https://www.youtube.com/watch?v=vzfy4EKwG_Y)
+* [Functional Programming for Pragmatists • Richard Feldman • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=3n17wHe5wEw)
 
 # C++
 * [Once you go functional, you can never go back](http://zx.rs/5/Once-you-go-functional,-you-can-never-go-back/)
