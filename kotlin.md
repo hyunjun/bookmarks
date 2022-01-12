@@ -228,6 +228,7 @@
 
 # Conference
 * [A TypeScript Fan's KotlinJS Adventures • Eamonn Boyle & Garth Gilmour • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=9p60bBBpG6A)
+* [Kotlin 2021 - Wrapped Up! - YouTube](https://www.youtube.com/watch?v=wYoo4dkwZwM)
 * [kotlinconf.com](https://kotlinconf.com/)
   * [youtube.com/results?search_query=#kotlinconf19](https://www.youtube.com/results?search_query=%23kotlinconf19)
   * [KotlinConf 2018 - Live Coding Kotlin/Native Snake by Dmitry Kandalov](https://www.youtube.com/watch?v=U-gdJQeOVAk)
