@@ -696,6 +696,8 @@ Web
 * [The NGINX Real-Time API Handbook - NGINX](https://www.nginx.com/resources/library/real-time-api-handbook)
 * [Comparing NGINX Performance in Bare Metal and Virtual Environments - NGINX](https://www.nginx.com/blog/comparing-nginx-performance-bare-metal-and-virtual-environments/)
 * [Nginx-Ingress in EKS — EKS + nginx-ingress +NLB + TLS | by Sauravmoy Sarkar | Medium](https://sauravmoy-sarkar.medium.com/nginx-ingress-cc9acf4aa396)
+* [Upgrading Executable on the Fly](https://nginx.org/en/docs/control.html#upgrade)
+  * [**실행중에 실행파일 업그레이드하기 | GeekNews**](https://news.hada.io/topic?id=5699)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
 * [NGINXConfig | DigitalOcean](https://www.digitalocean.com/community/tools/nginx)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
