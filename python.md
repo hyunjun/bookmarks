@@ -3828,6 +3828,7 @@ Python
   * [Migrating to SQLAlchemy 2.0 — SQLAlchemy 1.4 Documentation](https://docs.sqlalchemy.org/en/14/changelog/migration_20.html)
   * [SQLAlchemy add, flush, commit](https://jybaek.tistory.com/914)
   * [SQLAlchemy와 cryptography로 민감한 데이터 암호화하기 – Linewalks Blog](https://blog.linewalks.com/archives/7645)
+  * [The next generation SQLAlchemy with asyncio. 김준기 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=KkBqT12CeQA)
   * [Alembic - a lightweight database migration tool for usage with the SQLAlchemy Database Toolkit for Python](https://alembic.sqlalchemy.org/)
     * [SQLAlchemy and Alembic](https://www.slideshare.net/ssuser80e030/sqlalchemy-and-alembic)
     * [alembic을 이용해 DB 마이그레이션 하기 (1)](https://codeac.tistory.com/114)
