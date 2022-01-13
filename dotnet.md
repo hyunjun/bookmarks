@@ -156,6 +156,7 @@
 
 # TDD Test
 * [.NET에서 테스트 - .NET | Microsoft Docs](https://docs.microsoft.com/ko-kr/dotnet/core/testing/)
+* [단위 테스트 작성에 대한 모범 사례 - .NET | Microsoft Docs](https://docs.microsoft.com/ko-kr/dotnet/core/testing/unit-testing-best-practices)
 * [playwright-dotnet: .NET version of the Playwright testing and automation library](https://github.com/microsoft/playwright-dotnet)
 
 # Visual Studio
