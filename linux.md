@@ -295,6 +295,7 @@ Linux
 * [Ubuntu 20.04에 MacOS Catalina를 VirtualBox로 설치하기](https://devbull.xyz/ubuntu-20-04-macos/)
 * [절전 모드로 내려가는 우분투 머신](https://www.sysnet.pe.kr/Default.aspx?mode=0&sub=0&detail=1&pageno=0&wid=523&rssMode=1&wtype=0)
 * [절전 모드로 내려가는 우분투 머신](https://www.sysnet.pe.kr/0/0/523)
+* [Ubuntu 20.04 LTS 개발 설정](https://gist.github.com/azyu/ea28c2e929ffd59b93f1fc4275bb7339)
 * [AppArmor 란 무엇이며 Ubuntu를 어떻게 안전하게 유지합니까? - TheFastCode](https://www.thefastcode.com/ko-krw/article/what-is-apparmor-and-how-does-it-keep-ubuntu-secure)
 * [Inspecting coredumps like it's 2021](https://nixos.mayflower.consulting/blog/2021/09/06/coredumpctl/)
 * [marcokhan :: Ubuntu How to Kernel Compile](https://marcokhan.tistory.com/246)
@@ -630,6 +631,7 @@ Linux
   * [How to Use lsmod in Linux (With a Practical Example) – CloudSavvy IT](https://www.cloudsavvyit.com/14735/how-to-use-lsmod-in-linux-with-a-practical-example/)
 * `ls`
   * [Linux ls Command: Sort Files By Size](https://www.cyberciti.biz/faq/linux-ls-command-sort-by-file-size/)
+  * [Why you shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs)
 * `mkdir`
   * [get the most out of mkdir](https://blog.hauck.io/get-the-most-out-of-mkdir/)
 * [monit](https://mmonit.com/) 설정이 엄청나게 쉽다지만, 간단한 건 upstart가 더 쉬웠음
@@ -995,6 +997,7 @@ Linux
 * [Debugging with eBPF Part 1: Tracing Go function arguments in prod | Pixie Labs Blog](https://blog.px.dev/ebpf-function-tracing/)
 * [Debugging with eBPF Part 2: Tracing full body HTTP request/responses | Pixie Labs Blog](https://blog.px.dev/ebpf-http-tracing/)
 * [Debugging with eBPF Part 3: Tracing SSL/TLS connections | Pixie Labs Blog](https://blog.px.dev/ebpf-openssl-tracing/)
+* [Notes on BPF & eBPF](https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/)
 * [**Interactive map of Linux kernel**](https://makelinux.github.io/kernel/map/)
 * [Submitting your first patch to the Linux kernel - Cristian Henrique - Medium](https://medium.com/@crhenr/submitting-your-first-patch-to-the-linux-kernel-e81d2541fac6)
 * [Getting started with Linux kernel development](https://gist.github.com/vegard/22200a9f91af138a99ae22a9b814a9a4)
