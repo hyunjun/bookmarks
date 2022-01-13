@@ -1063,6 +1063,7 @@ Programming
 * [The InfoQ Podcast: Software Architecture and Design InfoQ Trends Report—April 2021](https://www.infoq.com/podcasts/architecture-design-trends-report/)
 * [Pythonic Clean Architecture. 라스 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=EGzQvBqhUS0)
 * [조직이 결국 아키텍처를 좌우한다. – Dreaming for the Future](http://www.chidoo.me/index.php/2022/01/09/the-organization-defines-architecure/) 기술 이야기는 아님
+* [깔끔한 코드를 구현하기 위한 설계 규칙 네 가지](https://devkingdom.tistory.com/302)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
@@ -1789,6 +1790,7 @@ Programming
 * [(C)Lean Code. The new generation of Clean Code. | by Huge Ponkce | The Startup | Medium](https://medium.com/swlh/c-lean-code-db84f8e312d4)
 * [No, your clean code won't save the planet • Buttondown](https://buttondown.email/hillelwayne/archive/no-your-clean-code-wont-save-the-planet/)
 * [It's probably time to stop recommending Clean Code @ Things Of Interest](https://qntm.org/clean)
+* [Clean Code | CODER SITE for developers](https://codersite.dev/clean-code/)
 * [How to write clean functions](https://dev.to/manu4216/how-to-write-clean-functions-bmh)
 * [Write code that is easy to delete, not easy to... — programming is terrible](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [가게노출 파트의 조금은 색다른 파일럿 프로젝트, 그리고 첫 업무까지의 이야기](https://woowabros.github.io/experience/2020/04/29/pilot-project-deocks.html)
