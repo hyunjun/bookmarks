@@ -731,6 +731,7 @@ Java
 * [What's New in Java 16 - YouTube](https://www.youtube.com/watch?v=OIi6gbc7BaE)
   * [What's New in Java 16](https://www.infoq.com/articles/java-16-new-features/)
 * [자바 9 - 16 주요 특징 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/java-9-16-features)
+* [End of Year Learnings from Minecraft’s Migration to JDK 16 and Q&A with the Mojang Team](https://www.infoq.com/news/2021/12/minecrafts-jdk16-migration/)
 
 # Java17
 * [자바 17이 다가오면... - DEV Community](https://dev.to/composite/17-62e)
@@ -1496,6 +1497,8 @@ Java
 * [Spring 레플리케이션 트랜잭션 처리 방식 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/spring-transaction/)
 * [Sql을 통해서 테스트 코드를 쉽게 작성하자 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/sql-test/)
 * [**ServletContainer와 SpringContainer는 무엇이 다른가? | by Jin Hyung Park | Oct, 2021 | Medium**](https://medium.com/@jypthemiracle/servletcontainer%EC%99%80-springcontainer%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80-626d27a80fe5)
+* [infoworld-dropwizard](https://github.com/MTyson/infoworld-dropwizard)
+  * [드롭위저드 REST API 프레임워크, 예제로 간단히 시작해보기 - ITWorld Korea](https://www.itworld.co.kr/news/219849)
 * jasypt [28. Spring - jasypt로 application.properties(yml) 데이터 암/복호화](https://kim-jong-hyun.tistory.com/50)
 * [Spring Native provides beta support for compiling Spring applications to native executables using GraalVM native-image compiler](https://github.com/spring-projects-experimental/spring-native)
   * [Announcing Spring Native Beta!](https://spring.io/blog/2021/03/11/announcing-spring-native-beta)
