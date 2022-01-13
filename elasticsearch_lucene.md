@@ -571,6 +571,7 @@ ElasticSearch - Lucene
 * [MeiliSearch](https://www.meilisearch.com/)
   * Elasticsearch 대체제 오픈소스(Rust). Sonic은 ID index만 저장하지만 MeiliSearch는 full document 저장
 * [movie-finder 오픈소스 검색엔진인 Elasticsearch 를 활용하여 '영화'를 검색을 하는 Vue.js 프로젝트](https://github.com/heejunghwang/movie-finder)
+* [mwmbl: An open source, non-profit search engine implemented in python](https://github.com/mwmbl/mwmbl)
 * NEST
   * [NEST and Elasticsearch.Net 6.0: Now GA!](https://www.elastic.co/blog/nest-elasticsearch-net-6-0-ga)
     * NEST는 하이 레벨, Elasticsearch.Net은 로우 레벨 라이브러리
