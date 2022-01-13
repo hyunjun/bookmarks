@@ -519,6 +519,8 @@ App
 * [포트폴리오(개발 프로젝트) 제작시 도움이 되는 도구들 - 2 (설계, 테스팅)](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%9E%91%EC%8B%9C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-2) ERDCloud, PlantUML, Swagger UI, Rest Client, SonarQube
 * [포트폴리오(개발 프로젝트) 제작시 도움이 되는 도구들 - 3 (CI/CD, Hosting)](https://velog.io/@couchcoding/%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%A0%9C%EC%9E%91%EC%8B%9C-%EB%8F%84%EC%9B%80%EC%9D%B4-%EB%90%98%EB%8A%94-%EB%8F%84%EA%B5%AC%EB%93%A4-3-CICD-Hosting) Github Actions, Jenkins, Heroku, Netlify
 * [10 Awesome Free Productivity Tools and Websites for Developers | by Nicholas Obert | Dec, 2021 | Better Programming](https://betterprogramming.pub/10-awesome-free-productivity-tools-and-websites-for-developers-47310707fda2)
+* [25 Must-Visit Killer Websites For Developers | by Astrodevil | Dec, 2021 | Dev Genius](https://blog.devgenius.io/25-must-visit-killer-websites-for-developers-7d15aceb7508)
+* [5 Dev Tools To Look Out For In 2022 | by Carlo Morrone | Dec, 2021 | Better Programming](https://betterprogramming.pub/5-dev-tools-to-look-out-for-in-2022-713f94c0f3cf)
 * [aquerytool.com](http://aquerytool.com/) DB schema
 * [asdf: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more](https://github.com/asdf-vm/asdf)
   * [asdf - An extendable version manager](https://asdf-vm.com/)
@@ -804,6 +806,8 @@ App
 * [jEdit - Programmer's Text Editor - overview](http://www.jedit.org/)
 * [Kakoune code editor - Vim inspired · Faster as in less keystrokes · Multiple selections · Orthogonal design](http://kakoune.org/)
   * [kakoune - mawww's experiment for a better code editor](https://github.com/mawww/kakoune)
+* [lapce: Lightning-fast and Powerful Code Editor written in Rust](https://github.com/lapce/lapce)
+  * [Lapce - 매우 빠른 코드 에디터 | GeekNews](https://news.hada.io/topic?id=5651)
 * [Micro - a modern and intuitive terminal-based text editor](https://micro-editor.github.io/)
 * [nuclide - Building Nuclide, a unified developer experience](https://code.facebook.com/posts/397706937084869/)
 * [Onivim 2 - Modal Editing from the Future](https://v2.onivim.io/)
@@ -1178,6 +1182,7 @@ App
 * [Install MySQL GUI, Mongodb in M1 Mac | by Ryan Kim | Mar, 2021 | Medium](https://equus3144.medium.com/install-mysql-gui-mongodb-in-m1-mac-dd8be6251f3f)
 * [M1 맥북 개발 환경 세팅](https://jojoldu.tistory.com/571)
 * [애플 실리콘(M1) 터미널 환경 설정하기 | ~/xo.dev](https://xo.dev/m1-terminal-environment-setup/)
+* [macOS Setup after 15 Years of Linux · HookRace Blog](https://hookrace.net/blog/macos-setup/) M1 설정
 * command terminal
   * diskutil [꿀벌개발일지 :: 홈어시스턴스 이미지 생성 시 오류](https://ohgyun.com/810)
   * sed [Mac OS X에서 Multi Tab(\t\t) 정리하기](https://jojoldu.tistory.com/542)
@@ -1567,6 +1572,8 @@ App
 * [MARKDOWN & LATEX EDITOR](http://tex.s2cms.ru/page/)
 * [markdown-to-html](https://github.com/cwjohan/markdown-to-html)
 * [markdowntopdf.com](http://www.markdowntopdf.com/)
+* [marktext: 📝A simple and elegant markdown editor, available for Linux, macOS and Windows](https://github.com/marktext/marktext)
+  * [MarkText - 오픈소스 마크다운 편집기 | GeekNews](https://news.hada.io/topic?id=5630)
 * [marp - Markdown Presentation Ecosystem](https://marp.app/)
 * MDCat [A python script which uses the GitHub API to convert your markdown files to GitHub styled HTML site](https://pythonawesome.com/a-python-script-which-uses-the-github-api-to-convert-your-markdown-files-to-github-styled-html-site/)
 * [milkdown: 🍼 Plugin driven WYSIWYG markdown editor](https://github.com/Saul-Mirone/milkdown)
