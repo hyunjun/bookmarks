@@ -152,7 +152,6 @@ Data Science
 * [Predicting winners of the Rugby World Cup](http://blog.dominodatalab.com/predicting-winners-of-the-rugby-world-cup/)
 * [Building Analytics at 500px](https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83)
 * [2015 Data Science Salary Survey / 2015 데이터과학 소득 조사](http://keyassist.tistory.com/m/post/284)
-* [Building Analytics at 500px](https://medium.com/@samson_hu/building-analytics-at-500px-92e9a7005c83)
 * [데이터과학자들의 실험실, 넘버웍스](http://www.bloter.net/archives/241272)
 * [50 years of Data Science](https://dl.dropboxusercontent.com/u/23421017/50YearsDataScience.pdf)
 * [기획자·마케터가 알아둘 데이터과학 원칙 6가지](http://www.bloter.net/archives/242233)
@@ -404,6 +403,7 @@ Data Science
 * [Dev Intro to Data Science - YouTube](https://www.youtube.com/playlist?list=PLlrxD0HtieHjDop2DtiCmwTTcrlwKAVHE)
 * [Practical Data Ethics | Data ethics](http://ethics.fast.ai/)
 * [Free Data Science for Beginners curriculum on GitHub - DEV Community](https://dev.to/azure/free-data-science-for-beginners-curriculum-on-github-1hme)
+* [Data Analytics Full Course 2022 | Data Analytics For Beginners | Data Analytics Course | Simplilearn - YouTube](https://www.youtube.com/watch?v=CaqJ65CIoMw)
 
 # Data Cleaning
 * [The Simple Yet Practical Data Cleaning Codes To solve the common scenarios of messy data](https://towardsdatascience.com/the-simple-yet-practical-data-cleaning-codes-ad27c4ce0a38)
