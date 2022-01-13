@@ -37,5 +37,6 @@ Emacs
   * [이맥스(Emacs) 패키지 관리 도구 Cask 문서 번역](http://blog.nacyot.com/articles/2014-04-28-translate-emacs-cask-documenation/)
   * [캐스크(Cask)로 이맥스(Emacs) 환경설정 관리하기](http://blog.nacyot.com/articles/2014-06-01-emacs-with-cask/)
   * [의존성 관리 도구 캐스크를 사용한 이맥스 환경설정](https://www.44bits.io/ko/post/managing-emacs-configuration-with-cask)
+* [emfy: A dark and sleek Emacs setup for general purpose editing and programming](https://github.com/susam/emfy)
 * [flycheck-popup-tip](https://github.com/flycheck/flycheck-popup-tip)
 * [Projectile - a project interaction library for Emacs](http://projectile.readthedocs.io/)
