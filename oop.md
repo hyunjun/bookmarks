@@ -89,6 +89,7 @@
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
 * [패턴 그리고 객체지향적 코딩의 법칙 책 요약정리](http://www.slideshare.net/ddayinhwang9/ss-62024635)
+* [Design Patterns](https://refactoring.guru/design-patterns)
 
 # C
 * [Object-Oriented Programming (OOP) in C](https://www.codementor.io/@michaelsafyan/object-oriented-programming-in-c-du1081gw2)
