@@ -3221,6 +3221,8 @@ Programming
 * [그래서 양자컴퓨팅이 뭔데? – 문과생을 위한 해설서](https://byline.network/2019/11/05-18/)
 * [퀀텀 컴퓨팅 기초 - Learn | Microsoft Docs](https://docs.microsoft.com/ko-kr/learn/paths/quantum-computing-fundamentals/)
 * [Quantum Computing in Action (Teaser) • Johan Vos & Preben Thorø • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=dYVugFQNZJc)
+* [Qiskit](https://qiskit.org/)
+  * [Introduction to Quantum Computing with Python and Qiskit - YouTube](https://www.youtube.com/watch?v=dIcS0Yozq_U)
 
 # Reactive
 * [리액티브 개발 패러다임에 담긴 메시지](http://m.zdnet.co.kr/column_view.asp?artice_id=20161010104628#imadnews)
