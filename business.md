@@ -588,6 +588,7 @@ Business
   * 하지만 외부에서 뽑을 경우에 개발을 잘하고 회사 스택과 맞지 않고 유명세가 없어도 괜찮으므로 회사에 대한 자료를 준비하고 미래를 보여주면서 적극적으로 찾아보는 노력이 필요
 * [맘편한세상 임원채용사례 - Google Slides](https://docs.google.com/presentation/d/1MB2-C-IfiMlLHskzwSm_Exb0EEPk4i-iFYQ51IWDFew/)
 * [2021년 CTO 회고](https://jojoldu.tistory.com/626)
+* [C레벨 뽑으세요? C레벨 제안 받았어요? 5가지만 기억하세요. - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/clevel20211220)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
