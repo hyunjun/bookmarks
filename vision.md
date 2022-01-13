@@ -666,7 +666,6 @@ Vision
 * [Minimal OpenGL 3.3 Core Profile Demo](http://nullprogram.com/blog/2015/06/06/)
 * [GPU drawing using ShaderEffects in QtQuick](http://woboq.com/blog/gpu-drawing-using-shadereffects-in-qtquick.html)
 * [Welcome to OpenGL](http://learnopengl.com/)
-* [docs.GL - OpenGL API Documentation](http://docs.gl/)
 * [Glitter - Dead Simple OpenGL http://polytonic.github.io/Glitter ](https://github.com/Polytonic/Glitter)
 * [gl-react-native - OpenGL bindings for React Native to implement complex effects over images and components, in the descriptive VDOM paradigm http://projectseptemberinc.gitbooks.io/gl-react/content ](https://github.com/ProjectSeptemberInc/gl-react-native)
 * [OpenGL programming with PyOpenGL, Python, and Pygame](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdfGpqjkEJSeWKGCP31__wD)
@@ -675,6 +674,8 @@ Vision
 * [Coding Minecraft In 5 Seconds - Python/ OpenGL Programming Challenge](https://www.youtube.com/watch?v=S4EUQD9QIzc)
 * [OpenGL ES 2.0 예제](https://brunch.co.kr/@mystoryg/102)
 * [Nvidia Mesh Shader 코드를 작성해보자](https://www.vw-lab.com/84)
+* [docs.GL - OpenGL API Documentation](http://docs.gl/)
+* [PortableGL: An implementation of OpenGL 3.x-ish in clean C](https://github.com/rswinkle/PortableGL)
 
 # Python
 * [Face Recognition | Image Processing in Python | Machine Learning](https://www.youtube.com/watch?v=Rz3SIHyCWzY)
