@@ -609,6 +609,8 @@ Go
     * Argo에서 Argo CD와 Argo Rollouts에서 알림 용도로 사용하고 있는 노티피케이션 엔진을 공개
     * Kubernetes 컨트롤러에서 Slack, MS Teams, Mattermost, SMTP, Telegram 등에 알림을 보낼 수 있고 설정과 템플릿을 이용해서 알림을 사용
     * 원하는 알림의 컨트롤러를 Golang으로 구현하고 Configmap을 이용해서 알림을 만들면 각 프로젝트에서 어노테이션으로 알림을 설정
+* [ntfy: Send push notifications to your phone or desktop using PUT/POST](https://github.com/binwiederhier/ntfy)
+  * [Ntfy - 모바일/데스크탑으로 푸시 보내기 | GeekNews](https://news.hada.io/topic?id=5647)
 * [passgo - Simple golang password manager](https://github.com/ejcx/passgo)
 * [pet : CLI Snippet Manager - Simple command-line snippet manager, written in Go](https://github.com/knqyf263/pet)
 * [pgx: PostgreSQL driver and toolkit for Go](https://github.com/jackc/pgx) database
