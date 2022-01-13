@@ -484,6 +484,7 @@ R
 * [Detecting Security Vulnerabilities in R Packages | R-bloggers](https://www.r-bloggers.com/2020/08/detecting-security-vulnerabilities-in-r-packages-2/)
 * [Aegis - Application for Epidemiological Geographic Information System (AEGIS): An open source spatial analysis tool based on CDM](https://github.com/OHDSI/Aegis)
 * [alookr - Tools for Binary Classification Modeling](https://github.com/choonghyunryu/alookr)
+* autoReg [Automatic Linear and Logistic Regression and Survival Analysis • autoReg](https://cardiomoon.github.io/autoReg/)
 * [bench](http://bench.r-lib.org/) benchmark code, tracking execution time, memory allocations and garbage collections
 * boruta
   * [Select Important Variables using Boruta Algorithm](https://www.datasciencecentral.com/profiles/blogs/select-important-variables-using-boruta-algorithm)
