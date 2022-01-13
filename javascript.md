@@ -72,6 +72,7 @@ Javascript
 * [브라우저에 URL을 입력하면 어떤 과정이 진행될까? - YouTube](https://www.youtube.com/watch?v=ipwfEUslfQA)
 * [Chromium Composition과 Layer | Seokho’s blog](https://devsdk.github.io/ko/development/2021/03/29/blink-render-composition.html)
 * [The 10 Days of JavaScript](https://www.youtube.com/playlist?list=PLpcSpRrAaOaoIqHQddZOdbRrzr5dJtgSs)
+* [30-Days-Of-JavaScript: 30 days of JavaScript programming challenge is a step-by-step guide to learn JavaScript programming language in 30 days. This challenge may take more than 100 days, please just follow your own pace](https://github.com/Asabeneh/30-Days-Of-JavaScript)
 * [**30 Day Vanilla JS Coding Challenge**](https://javascript30.com/)
 * [#CodeTidbits30](https://medium.com/dailyjs/codetidbits30-9a782b17fa89)
 * [번역 바닐라 자바스크립트로 상태 관리 시스템 구축](http://devtimothy.tistory.com/86)
@@ -1865,6 +1866,7 @@ Javascript
   * [Build a 3D World in React with ThreeJS and React Three Fiber - YouTube](https://www.youtube.com/watch?v=9ZEjSxDRIik)
   * [three.js 를 사용해보았다](https://velog.io/@juunini/three.js-%EB%A5%BC-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%95%98%EB%8B%A4)
   * [Three.js와 WebXR 몰입형 웹 경험의 랜더링. 인텔오픈소스 그룹에서 Three.js와 WebXR의 랜더링 아키텍처에… | by BELIVVR | BELIVVR | Oct, 2021 | Medium](https://medium.com/belivvr/three-js%EC%99%80-webxr-%EB%AA%B0%EC%9E%85%ED%98%95-%EC%9B%B9-%EA%B2%BD%ED%97%98%EC%9D%98-%EB%9E%9C%EB%8D%94%EB%A7%81-b2e7b6af9dda)
+  * [three.js examples](https://threejs.org/examples/)
 * [timetabl/timetabl](https://github.com/timetabl/timetabl) Source code of www.timetabl.com
 * [Toast ui editor - GFM Markdown Wysiwyg Editor - Productive and Extensible](https://github.com/nhnent/tui.editor)
   * [FE Guide Get packed with compass and map for Front-End Javascript development voyage with FE Guide](https://ui.toast.com/fe-guide/ko/)
@@ -1875,6 +1877,7 @@ Javascript
 * [Unreal.js: Javascript runtime built for UnrealEngine 4](https://github.com/ncsoft/Unreal.js)
 * [urlcat: A URL builder library for JavaScript](https://github.com/balazsbotond/urlcat)
 * [urlpack: Pure JavaScript toolkit for data URLs](https://github.com/daangn/urlpack)
+* [Vanta.js - Animated 3D Backgrounds For Your Website](https://www.vantajs.com/)
 * [vectorious - A generalized n-dimensional matrix and vector library in JavaScript. http://mateogianolio.github.io/vectorious](https://github.com/mateogianolio/vectorious)
 * [Vulcan: A JavaScript Automated Proof System](http://rmarcus.info/blog/2015/09/02/vulcan.html)
 * [WarriorJS - An exciting game of programming and Artificial Intelligence](https://warrior.js.org/) 일종의 게임, 유저가 직접 JS를 짜서 플레이
@@ -2353,6 +2356,7 @@ Javascript
 * [Node.js 16 available now. We are excited to announce the release… | by Node.js | Node.js Collection | Apr, 2021 | Medium](https://medium.com/the-node-js-collection/node-js-16-available-now-7f5099a97e70)
 * [Nodejs Security - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
 * [A Comprehensive Guide To Error Handling In Node.js - Honeybadger Developer Blog](https://www.honeybadger.io/blog/errors-nodejs/)
+* [Node.js 모범 사례](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.korean.md)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -3479,6 +3483,8 @@ Javascript
   * [jotai 커스텀 훅 테스트 하는 방법](https://velog.io/@juunini/jotai-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%9B%85-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 * [jovo-framework: 🔈 The React for Voice and Chat: Build Apps for Alexa, Google Assistant, Messenger, Instagram, the Web, and more](https://github.com/jovotech/jovo-framework)
   * [Jovo - 보이스 & 채팅을 위한 프레임워크 | GeekNews](https://news.hada.io/topic?id=5432)
+* Liqvid [Create interactive videos in React | Liqvid](https://liqvidjs.org/)
+  * [Liqvid - 인터랙티브 비디오를 React로 만들기 | GeekNews](https://news.hada.io/topic?id=5625)
 * [mern.io - Easily build production ready universal apps](http://mern.io/)
 * [Metric: Building a quantitative self app in Meteor and React](http://liamz.co/2015/08/metric-building-a-quantitative-self-app-in-meteor-and-react/)
 * MobX
@@ -4019,6 +4025,8 @@ Javascript
 * [orbit: Experimental spaced repetition platform for exploring new ideas in memory augmentation and programmable attention](https://github.com/andymatuschak/orbit)
 * [payments: 통합 결제 서버](https://github.com/archidraw/payments)
 * [pixel-font-maker: 픽셀 폰트를 디자인하고 TTF 파일로 뽑을 수 있는 프로그램입니다](https://github.com/exqt/pixel-font-maker)
+* [psd: A lightweight Adobe Photoshop .psd/.psb file parser in typescript with zero-dependency for WebBrowser and NodeJS](https://github.com/webtoon/psd)
+  * [타입스크립트 기반 포토샵 psd 파서 | GeekNews](https://news.hada.io/topic?id=5671)
 * [Reason](https://reasonml.github.io)
   * [Exploring ReasonML and functional programming](http://reasonmlhub.com/exploring-reasonml/)
   * [JavaScript vs. TypeScript vs. ReasonML](https://rhostem.github.io/posts/2018-06-24-javascript-vs-typescript-vs-reasonml/)
