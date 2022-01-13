@@ -59,6 +59,7 @@ C
 * [Strange C Syntax](http://blog.robertelder.org/weird-c-syntax/)
 * [Practical memory safety for C](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-798.pdf)
 * [Should I Use Signed or Unsigned Ints?July 27, 2015](http://blog.robertelder.org/signed-or-unsigned/)
+* [Almost Always Unsigned | Almost Always Unsigned](https://graphitemaster.github.io/aau/)
 * [C언어 : int의 크기 (몇몇 C언어 책이나 글의 오류를 잡자)](https://sunyzero.tistory.com/268)
 * [Advanced metaprogramming in C](http://250bpm.com/blog:56)
 * [Smashing the heap by overflowing the stack](https://ldpreload.com/blog/stack-smashes-you)
@@ -177,6 +178,7 @@ C
 * [(12) Joe Zbiciak's answer to Can someone post a simplified C program for AI algorithm, and what type of hardware will be typically used? - Quora](https://www.quora.com/Can-someone-post-a-simplified-C-program-for-AI-algorithm-and-what-type-of-hardware-will-be-typically-used/answer/Joe-Zbiciak)
 * [그래서, 스택이랑 힙이 뭔데?](https://www.jiwon.me/explain-heap-and-stack/)
 * [C 언어 퀴즈](https://velog.io/@mythos/C-C-%EC%96%B8%EC%96%B4-%ED%80%B4%EC%A6%88)
+* [C Runtime Overhead](http://ryanhileman.info/posts/lib43)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
