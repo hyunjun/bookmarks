@@ -327,6 +327,7 @@ Programming
 * [OAuth 2.0 and OpenID Connect (in plain English) - YouTube](https://www.youtube.com/watch?v=996OiexHze0)
 * [OAuth 2.0 을 구현하기 위해 알아야 할 것들 # Access Refresh Token](https://developer88.tistory.com/372)
 * [ID Token and Access Token: What Is the Difference?](https://auth0.com/blog/id-token-access-token-what-is-the-difference/) oauth
+* [The Modern Guide to OAuth - FusionAuth](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth/)
 * [Why I’m Using HTTP Basic Auth in 2022 | Joel Dare](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
 * [**안정적인 서비스 운영 2014.03**](https://www.slideshare.net/cybaek/201403) 설계 ~ 모니터링까지
   * [NHN 엔터테인먼트 안정적인 서비스 운영 참석 후기](https://jojoldu.tistory.com/338)
@@ -478,7 +479,6 @@ Programming
 * [Zip - How not to design a file format](https://games.greggman.com/game/zip-rant/)
 * [Firefox's Optimized Zip Format: Reading Zip Files Really Quickly - Perf and other stuff](https://taras.glek.net/post/optimized-zip-format/)
 * [hop](https://github.com/Jarred-Sumner/hop) Simple archive format designed for quickly reading some files without extracting the entire archive
-* [APEX 사례로 보는 Low Code](https://jhrogue.blogspot.com/2021/09/apex-low-code.html)
 * [글로벌 칼럼 | 유지보수를 위한 다운타임, '유지보수 윈도우'는 정당화할 수 없다 - ITWorld Korea](https://www.itworld.co.kr/news/209072) 가용성, availability
 * [한·중·일 전산학 용어 대조 | GeekNews](https://news.hada.io/topic?id=5165)
 * [Why you should launch your product without a login | Caspar von Wrede](https://casparwre.de/blog/launching-a-product-without-a-login/)
@@ -491,6 +491,7 @@ Programming
 * [Java, Quarkus, Kafka, and more: The best of 2021 | Red Hat Developer](https://developers.redhat.com/articles/2021/12/22/java-quarkus-kafka-and-more-best-2021)
 * [Design Pattern Template Method Pattern](https://devkingdom.tistory.com/301)
 * [22 predictions about the Software Development trends in 2022 | by Md Kamaruzzaman | Dec, 2021 | Towards Data Science](https://towardsdatascience.com/22-predictions-about-the-software-development-trends-in-2022-fcc82c263788)
+* [notes: detailed notes on computer science topics, in one page](https://github.com/darshanime/notes)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -2319,6 +2320,8 @@ Programming
 * [개발자 동무, 철의 장막 뒤에서 디버깅 하기 | edykim](https://edykim.com/ko/post/debugging-behind-the-iron-curtain/)
 * [Debugging memory corruption: who the hell writes “2” into my stack?! | Unity Blog](https://blog.unity.com/technology/debugging-memory-corruption-who-the-hell-writes-2-into-my-stack-2)
 * [소울워커 로딩이 느린 이유 / 로딩 시간 70% 줄이기 - 소울워커 채널](https://arca.live/b/soulworkers/40937494)
+* [How a Single Line of Code Made a 24-core Server Slower Than a Laptop | Piotr Kołaczkowski](https://pkolaczk.github.io/server-slower-than-a-laptop/)
+* [You can't copy code with memcpy; code is more complicated than that - The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20211229-00/?p=106061)
 * [control-flag: A system to flag anomalous source code expressions by learning typical expressions from training data](https://github.com/IntelLabs/control-flag)
   * [인텔, 기계학습 디버깅툴 ‘컨트롤플래그’ 오픈소스로 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20211025172937)
 * Ozcode [Debugging Solutions from Dev to Production - Ozcode](https://oz-code.com/)
@@ -2441,22 +2444,6 @@ Programming
   * [Nerd Fonts: How to install, configure, and remove programming fonts on a mac](https://medium.com/the-code-review/nerd-fonts-how-to-install-configure-and-remove-programming-fonts-on-a-mac-178833b9daf3)
 * [Roboto: Google’s signature font is now open source](http://google-opensource.blogspot.kr/2015/05/roboto-googles-signature-font-is-now.html)
 * [Source Code Pro에 합자 추가하기](https://surpreem.com/source-code-pro%EC%97%90-%ED%95%A9%EC%9E%90-%EC%B6%94%EA%B0%80%ED%95%98%EA%B8%B0/)
-
-# Image
-* [이미지 최적화 자동화하기](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/?hl=ko)
-* [Image Formats, Performance and Cognitive Load](https://www.infoq.com/presentations/image-formats-performance/)
-* [jpeg.md at master · corkami/formats](https://github.com/corkami/formats/blob/master/image/jpeg.md)
-* [Finally understanding PNG | Compress-Or-Die](https://compress-or-die.com/Understanding-PNG)
-* [Boosting image processing performance, from ImageMagick to Libvips | by Dimitri Bouron | Criteo R&D Blog | Medium](https://medium.com/criteo-engineering/boosting-image-processing-performance-from-imagemagick-to-libvips-268cc3451d55)
-* [Why Your Website Should Not Use Dithered Images - Simple Thread](https://www.simplethread.com/why-your-website-should-not-use-dithered-images/)
-* [iconvg: IconVG is a compact, binary format for simple vector graphics: icons, logos, glyphs and emoji](https://github.com/google/iconvg)
-* [ImageMagick – Convert, Edit, or Compose Digital Images](https://imagemagick.org/script/index.php)
-  * [My favorite Linux commands for optimizing web images | Opensource.com](https://opensource.com/article/21/12/optimize-web-images-linux)
-* [imagor: Fast, Docker-ready image processing server written in Go and libvips, with Thumbor URL syntax](https://github.com/cshum/imagor)
-  * [Imagor - 빠른 이미지 프로세싱 서버 | GeekNews](https://news.hada.io/topic?id=5552)
-* [Lottie](https://airbnb.io/lottie/) a library for Android, iOS, Web, and Windows that parses Adobe After Effects animations exported as json
-* [PNG Parser Differential](https://www.da.vidbuchanan.co.uk/widgets/pngdiff/)
-  * [PNG Parser Differential | GeekNews](https://news.hada.io/topic?id=5572)
 
 # Infrastructure
 * [IT인프라 전문가 되기](https://brunch.co.kr/magazine/it-infra)
@@ -2656,6 +2643,25 @@ Programming
   * [잼킷(Jamkit) 그게 뭐죠? 쉽고 짧은 5분 설명! - YouTube](https://www.youtube.com/watch?v=KWW7nEmaVAY)
   * [잼킷 9살 아들이 그린 그림으로 그림책 앱을 만들었어요! - YouTube](https://www.youtube.com/watch?v=lZWjnJTeqnc)
 * [nodejs-mobile: Full-fledged Node.js on Android and iOS](https://github.com/janeasystems/nodejs-mobile)
+
+# Multimedia
+* [HowVideo.works](https://howvideo.works/#processing)
+
+## Multimedia Image
+* [이미지 최적화 자동화하기](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/?hl=ko)
+* [Image Formats, Performance and Cognitive Load](https://www.infoq.com/presentations/image-formats-performance/)
+* [jpeg.md at master · corkami/formats](https://github.com/corkami/formats/blob/master/image/jpeg.md)
+* [Finally understanding PNG | Compress-Or-Die](https://compress-or-die.com/Understanding-PNG)
+* [Boosting image processing performance, from ImageMagick to Libvips | by Dimitri Bouron | Criteo R&D Blog | Medium](https://medium.com/criteo-engineering/boosting-image-processing-performance-from-imagemagick-to-libvips-268cc3451d55)
+* [Why Your Website Should Not Use Dithered Images - Simple Thread](https://www.simplethread.com/why-your-website-should-not-use-dithered-images/)
+* [iconvg: IconVG is a compact, binary format for simple vector graphics: icons, logos, glyphs and emoji](https://github.com/google/iconvg)
+* [ImageMagick – Convert, Edit, or Compose Digital Images](https://imagemagick.org/script/index.php)
+  * [My favorite Linux commands for optimizing web images | Opensource.com](https://opensource.com/article/21/12/optimize-web-images-linux)
+* [imagor: Fast, Docker-ready image processing server written in Go and libvips, with Thumbor URL syntax](https://github.com/cshum/imagor)
+  * [Imagor - 빠른 이미지 프로세싱 서버 | GeekNews](https://news.hada.io/topic?id=5552)
+* [Lottie](https://airbnb.io/lottie/) a library for Android, iOS, Web, and Windows that parses Adobe After Effects animations exported as json
+* [PNG Parser Differential](https://www.da.vidbuchanan.co.uk/widgets/pngdiff/)
+  * [PNG Parser Differential | GeekNews](https://news.hada.io/topic?id=5572)
 
 # News & Blog
 * [기술 & 스타트업 뉴스레터 및 블로그 모음 | Guru's Blog](https://xguru.net/2222)
@@ -3346,8 +3352,11 @@ Programming
 * [All the Robotic Process Automation (RPA) Stats You Need to Know](https://towardsdatascience.com/all-the-robotic-process-automation-rpa-stats-you-need-to-know-bcec22eaaad9)
 * [마케팅에 'RPA' 도입하기 전에... CMO가 알아야 할 것 - CIO Korea](https://www.ciokorea.com/news/208897)
 * [Faster Financial Software Development Using Low Code: Focusing on the Four Key Metrics](https://www.infoq.com/articles/financial-software-low-code/)
+* [APEX 사례로 보는 Low Code](https://jhrogue.blogspot.com/2021/09/apex-low-code.html)
 * Bubble [The best way to build web apps without code | Bubble](https://bubble.io/)
   * [노 코드 툴, ‘버블’의 A to Z | ㅍㅍㅅㅅ](https://ppss.kr/archives/247069)
+* [Lowdefy - Build internal tools with YAML | Lowdefy - Build internal tools with YAML](https://lowdefy.com/)
+  * [Lowdefy - 오픈소스 Low-Code 프레임워크 | GeekNews](https://news.hada.io/topic?id=5655)
 * [Workflow86 | Operations Automation Platform](https://www.workflow86.com/)
 
 # RPC
@@ -3750,6 +3759,7 @@ Programming
 * [Unicode sorting is hard & why browsers added special emoji matching to regexp](https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching)
 * [글자수를 세는 7가지 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/the-7-ways-of-counting-characters/)
 * [Pragmatic Unicode | Ned Batchelder](https://nedbatchelder.com/text/unipain.html)
+* [Unicode Normalization Forms: When ö != ö :: OpenCore Blog](https://blog.opencore.ch/posts/unicode-normalization-forms/)
 * convmv
   * [convert between NFC and NFD Unicode normalization (e.g. for Korean)](https://gist.github.com/kjoonlee/326b8f42e39bcc045e9932fef5511031)
   * [macOS: convmv 를 사용한 유니코드 문제(풀어쓰기) 해결(?) – 바깥 세상으로](https://www.nemonein.xyz/2019/03/1850/)
