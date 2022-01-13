@@ -310,3 +310,4 @@ Redis
 * [개발자를 위한 레디스 튜토리얼 03](https://meetup.toast.com/posts/226)
 * [개발자를 위한 레디스 튜토리얼 04](https://meetup.toast.com/posts/227)
 * [Redis Crash Course - the What, Why and How to use Redis as your primary database - YouTube](https://www.youtube.com/watch?v=OqCK95AS-YE)
+* [Is Redis the ONLY database you need? // Fullstack app from scratch with Next.js & Redis - YouTube](https://www.youtube.com/watch?v=DOIWQddRD5M)
