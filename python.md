@@ -444,6 +444,8 @@ Python
 * [Clever vs Insightful Code • Hillel Wayne](https://www.hillelwayne.com/post/cleverness/)
 * [파이썬 Python 코딩 - CID 발신번호표시장치 연동 - YouTube](https://www.youtube.com/watch?v=P6KOFhf0v_I)
 * [5% of 666 Python repos had comma typos (including Tensorflow, and PyTorch, Sentry, and V8) | by Code Review Doctor | Jan, 2022 | Dev Genius](https://blog.devgenius.io/5-of-666-python-repos-had-comma-typos-including-tensorflow-and-pytorch-sentry-and-v8-7bc3ad9a1bb7)
+* [Ask HN: Good Python projects to read for modern Python? | Hacker News](https://news.ycombinator.com/item?id=29698198)
+  * [최신 Python을 익히기에 좋은 프로젝트는 ? | GeekNews](https://news.hada.io/topic?id=5635)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -531,6 +533,7 @@ Python
 * [5 hidden gems in Python 3 | Opensource.com](https://opensource.com/article/21/7/python-3)
 * [Python any() and all() Functions – Explained with Examples](https://www.freecodecamp.org/news/python-any-and-all-functions-explained-with-examples/)
 * [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
+* [Top 10 Ways To Write Better Python Code - ActiveState](https://www.activestate.com/blog/top-10-ways-to-write-better-python-code/)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -2275,6 +2278,7 @@ Python
 * [Episode 2 — Creating a PDF generating Django Application | by Francisco Betancourt | Oct, 2021 | Medium](https://medium.com/@betancourt.francisco/episode-2-creating-a-pdf-generating-django-application-73a31f332fd4)
 * [Python Django Web Framework - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMDLp4GH-rgQhVKqqZawlNwG)
 * [Django 4.0 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/django-4-0-release-note-summary)
+  * [Django 4.0 릴리스와 주요 변경 사항 | GeekNews](https://news.hada.io/topic?id=5659)
 * [Django를 Django답게, Django로 뉴스 사이트 만들기. 정경업 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=SbIQuDKmig0)
 * [6 Harmful Defaults in Django | Confuzeus](https://confuzeus.com/hub/django-web-framework/dangerous-defaults/)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
@@ -2473,6 +2477,7 @@ Python
 * [Asynchronous Task in Flask Using Celery](https://www.youtube.com/watch?v=iwxzilyxTbQ)
 * [Flask, Celery & SQLAlchemy Example](https://www.youtube.com/watch?v=lOirTBrOek0)
 * [Using Celery in Flask to Email Dynamic PDFs](https://www.youtube.com/watch?v=jsoC01eMHQA)
+* [Optimizing task queues with Celery and Flask - LogRocket Blog](https://blog.logrocket.com/optimizing-task-queues-celery-flask/)
 * [Build MVP With Python Flask and ReactJS](https://www.youtube.com/watch?v=7JnWfDczo-8)
 * [How I Reverse Engineered A Chrome Extension To Write My Own Flask App](https://medium.freecodecamp.org/how-i-reverse-engineered-a-chrome-extension-to-write-my-own-flask-app-d77f36421106)
 * [Flask 1.0 Changelog 우리말 번역](http://blog.sinwoobang.me/post/173349285532/flask-10-changelog-%EC%9A%B0%EB%A6%AC%EB%A7%90-%EB%B2%88%EC%97%AD)
@@ -3959,6 +3964,8 @@ Python
 * [나의 파이썬 환경 구축기 1 - 써본 것들에 대한 생각](https://dailyheumsi.tistory.com/243) pyenv poetry
 * [나의 파이썬 환경 구축기 2 - pyenv + poetry](https://dailyheumsi.tistory.com/244) pyenv poetry
 * [**파이썬 패키징 – 과거, 현재, 미래 – 야단법썬과 함께하는 블로그**](https://search5blog.wordpress.com/2021/08/19/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B3%BC%EA%B1%B0-%ED%98%84%EC%9E%AC-%EB%AF%B8%EB%9E%98/)
+* [How to Package Python Projects in 2021 - ActiveState](https://www.activestate.com/blog/how-to-package-python-projects-in-2021/)
+* [Which Python Dependency Manager Should I Choose? - ActiveState](https://www.activestate.com/blog/which-python-dependency-manager-should-i-choose/)
 * [ezpypi: Very simple and easy to use pip on any os](https://github.com/dlehdgud2380/ezpypi)
 * [Flit 3.3.0 — Flit 3.3.0 documentation](https://flit.readthedocs.io/)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
