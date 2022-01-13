@@ -301,6 +301,7 @@ C++
 * [C++ 20: Reaching for the Aims of C++ - YouTube](https://www.youtube.com/watch?v=TeduHyHdH3A)
 * [Type and Resource Safety in Modern C++ - YouTube](https://www.youtube.com/watch?v=802qonaapFc)
 * [Extending and Simplifying C++: Thoughts on Pattern Matching Using 'is' and 'as' - YouTube](https://www.youtube.com/watch?v=LAAN5qJ14mY)
+* [Your New Mental Model of constexpr - Jason Turner - CppCon 2021 - YouTube](https://www.youtube.com/watch?v=MdrfPSUtMVM)
 
 # IDE
 * CLion
