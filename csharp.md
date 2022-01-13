@@ -168,6 +168,7 @@ C#
 * [Learn C# - Free Interactive C# Tutorial](https://www.learncs.org/)
 * [C# 훑을 겸 인프런 강의 신청- Part1 C# 기초 프로그래밍 입문](https://clocksignal.tistory.com/2)
 * [C# Language Highlights: Using Declarations | On .NET | Channel 9](https://channel9.msdn.com/Shows/On-NET/C-Language-Highlights-Using-Declarations)
+* [C# Visual Studio Code | How to Run C# In Visual Studio Code | C# Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=M2zBVQ2D4ew)
 
 # Xamarin
 * [GKAC 2015 Apr. - Xamarin forms를 사용한 MVVM 패턴과 테스팅](https://www.youtube.com/watch?v=eM1996ULnmg&list=PL_WJkTbDHdBl5QXy6N_bMMBYlKLna5RER&index=9)
