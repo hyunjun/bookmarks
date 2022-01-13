@@ -443,6 +443,7 @@ Python
 * [Python at Netflix. By Pythonistas at Netflix, coordinated… | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/python-at-netflix-bba45dae649e)
 * [Clever vs Insightful Code • Hillel Wayne](https://www.hillelwayne.com/post/cleverness/)
 * [파이썬 Python 코딩 - CID 발신번호표시장치 연동 - YouTube](https://www.youtube.com/watch?v=P6KOFhf0v_I)
+* [5% of 666 Python repos had comma typos (including Tensorflow, and PyTorch, Sentry, and V8) | by Code Review Doctor | Jan, 2022 | Dev Genius](https://blog.devgenius.io/5-of-666-python-repos-had-comma-typos-including-tensorflow-and-pytorch-sentry-and-v8-7bc3ad9a1bb7)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -2275,6 +2276,7 @@ Python
 * [Python Django Web Framework - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMDLp4GH-rgQhVKqqZawlNwG)
 * [Django 4.0 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/django-4-0-release-note-summary)
 * [Django를 Django답게, Django로 뉴스 사이트 만들기. 정경업 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=SbIQuDKmig0)
+* [6 Harmful Defaults in Django | Confuzeus](https://confuzeus.com/hub/django-web-framework/dangerous-defaults/)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Background Tasks](https://django-background-tasks.readthedocs.io/)
