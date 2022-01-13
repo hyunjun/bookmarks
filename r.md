@@ -340,6 +340,7 @@ R
 * [Faster matrix math in R on macOS // Mikhail Popov](https://mpopov.com/blog/2019/06/04/faster-matrix-math-in-r-on-macos/)
 * [**R로 프로덕션 개발 운영 환경 구축하기**](https://lumiamitie.github.io/data/r-for-production/)
 * [3판 맛보기) R에서 음력? – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2372)
+* [3판 맛보기) R에서 정수형(integer)과 실수형(numeric) – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2377)
 
 # API
 * [REX: Look around – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2229)
