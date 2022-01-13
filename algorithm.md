@@ -250,6 +250,10 @@ Algorithm
 * [Algorithm – 1ambda](https://1ambda.blog/category/algorithm/)
 * [Data Structures and Algorithms Full Course with FAANG Interview Questions Solved | DS Algo Tutorial - YouTube](https://www.youtube.com/watch?v=NLDJwMLm1Q4)
 * [Data Structures Full Course | Data Structures And Algorithms Full Course | Simplilearn - YouTube](https://www.youtube.com/watch?v=_x9zPaRfEY4)
+* [Given N, find the smallest number with the same number of digits | CODER SITE for developers](https://codersite.dev/given-positive-number-n-find-smallest-number-same-number-digits/)
+* [Shopping options | CODER SITE for developers](https://codersite.dev/shopping-options/)
+* [Merge two Sorted Lists | CODER SITE for developers](https://codersite.dev/merge-two-sorted-lists/)
+* [Optimize a basket in online purchases | CODER SITE for developers](https://codersite.dev/optimize-online-purchases/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -285,6 +289,7 @@ Algorithm
 * [Understanding Big O. How efficient is your algorithm? | by Valentin Podkamennyi | The Startup | Medium](https://medium.com/swlh/understanding-big-o-ff675cf63e11)
 * [알고리즘 시간 복잡도 대강 분석하는 방법을 예제를 통해 알아봅시다](https://codingdog.tistory.com/entry/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EC%8B%9C%EA%B0%84-%EB%B3%B5%EC%9E%A1%EB%8F%84-%EB%8C%80%EA%B0%95-%EB%B6%84%EC%84%9D%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95%EC%9D%84-%EC%98%88%EC%A0%9C%EB%A5%BC-%ED%86%B5%ED%95%B4-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [ALG 시간복잡도와 빅오 (Big-O) 표기법](https://hudi.blog/time-complexity/)
+* [Big O Notation: Analysis of Algorithms - coding interview | CODER SITE for developers](https://codersite.dev/big-o-notation-analysis-of-algorithms/)
 
 ## Complexity Big O notation Time Complexity
 * `1/2 + 1/3 + ... + 1/n <= ln(n) + 1`이므로 O(log N)
@@ -435,6 +440,7 @@ Algorithm
 * [BJ1260_DFS-AND-BFS ( 깊이우선탐색, 넓이우선탐색)](https://medium.com/@peteryun/algo-bj1260-dfs-and-bfs-%EA%B9%8A%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89-%EB%84%93%EC%9D%B4%EC%9A%B0%EC%84%A0%ED%83%90%EC%83%89-3d328e651368)
 * [그래프 깊이 우선 탐색](https://ratsgo.github.io/data%20structure&algorithm/2017/11/20/DFS/)
 * [미로에 빠진 쥐, DFS 알고리즘 코딩테스트 Python - YouTube](https://www.youtube.com/watch?v=qkFxFI_U_BA)
+* [Graphs: Depth-First Search | CODER SITE for developers](https://codersite.dev/graphs-depth-first-search/)
 * [Queue를 활용한 BFS](http://java7ang.tistory.com/8)
 * [0-1 bfs 알고리즘 : 가중치가 0과 1만 있을 때 최단거리는 어떻게 구할까요?](https://codingdog.tistory.com/entry/0-1-bfs-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%80%EC%A4%91%EC%B9%98%EA%B0%80-0%EA%B3%BC-1%EB%A7%8C-%EC%9E%88%EC%9D%84-%EB%95%8C-%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%95%A0%EA%B9%8C%EC%9A%94)
 * [미로에 물을 쏟아 최단 경로를 구해요. BFS 알고리즘 코딩테스트 Python - YouTube](https://www.youtube.com/watch?v=R-G34E1trCk)
@@ -743,6 +749,7 @@ Algorithm
 * [트리 dp : 스크루지 민호 문제로 간단한 것만 풀어 봅시다](https://codingdog.tistory.com/entry/%ED%8A%B8%EB%A6%AC-dp-%EC%8A%A4%ED%81%AC%EB%A3%A8%EC%A7%80-%EB%AF%BC%ED%98%B8-%EB%AC%B8%EC%A0%9C%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EA%B2%83%EB%A7%8C-%ED%92%80%EC%96%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [C++ Binary Tree Diagonal Traversal of Binary Tree | C++ | cppsecrets.com](https://cppsecrets.com/users/156811151111101171219710097118107971141099764103109971051084699111109/C00-Binary-Tree-Diagonal-Traversal-of-Binary-Tree.php)
 * [C++ Binary Tree Zig Zag Tree Traversal in Binary Tree | C++ | cppsecrets.com](https://cppsecrets.com/users/156811151111101171219710097118107971141099764103109971051084699111109/C00-Binary-Tree-Zig-Zag-Tree-Traversal-in-Binary-Tree.php)
+* [Merge Two Binary Trees - Solutions2Coding - S2C- An online Platform for Coding solutions.](https://www.solutions2coding.com/2021/12/merge-two-binary-trees.html)
 
 ## AVL Tree
 * [강좌15 - 자료구조(AVL 트리(tree))](https://www.zerocho.com/category/Algorithm/post/583cacb648a7340018ac73f1)
@@ -760,6 +767,7 @@ Algorithm
 * [is Binary Search Tree](http://astrod.github.io/2018/01/08/8.html)
 * [BST Sequences in Python](https://hackernoon.com/bst-sequences-in-python-c072c0e9b19f)
 * [이진 탐색 트리(BST) 구현하기(Python3)](https://velog.io/@seanlion/bstimplementation)
+* [Tree data structure: Binary Search Tree | CODER SITE for developers](https://codersite.dev/tree-data-structure-binary-search-tree/)
 
 ## Heap
 * [Heap 자료구조와 Priority Queue](http://codingmonster.net/archives/13089)
