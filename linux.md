@@ -1228,7 +1228,7 @@ Linux
 * [inotify](http://ko.m.wikipedia.org/wiki/Inotify)
 * [로그 (syslog)](http://system-monitoring.readthedocs.org/en/latest/log.html)
 * IPC
-  * [Beej's Guide to Unix IPC](http://beej.us/guide/bgipc/output/html/multipage/index.html)
+  * [Beej's Guide to Unix IPC](http://beej.us/guide/bgipc/html/multi/index.html)
   * [Interprocess Communication in the Ninth Edition Unix System](http://cm.bell-labs.co/who/dmr/ipcpaper.html)
   * [운영체제의 IPC 이론 설명과 실습. 프로세스를 통해 보는 IPC 이론 설명과 실습 코드로 이론 학습 내용… | by Ryan Kim | Jul, 2021 | Medium](https://equus3144.medium.com/%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C%EC%9D%98-ipc-%EC%9D%B4%EB%A1%A0-%EC%84%A4%EB%AA%85%EA%B3%BC-%EC%8B%A4%EC%8A%B5-6098a445ecff)
     * [COSE341-Operating-System/assignment/05_ipc_project at master · RyanKor/COSE341-Operating-System](https://github.com/RyanKor/COSE341-Operating-System/tree/master/assignment/05_ipc_project)
