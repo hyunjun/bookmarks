@@ -490,6 +490,7 @@ Programming
 * [The programmer's brain in the lands of exploration and production · Vicki Boykis](https://veekaybee.github.io/2021/11/07/typed-pipe/) scala example
 * [Java, Quarkus, Kafka, and more: The best of 2021 | Red Hat Developer](https://developers.redhat.com/articles/2021/12/22/java-quarkus-kafka-and-more-best-2021)
 * [Design Pattern Template Method Pattern](https://devkingdom.tistory.com/301)
+* [22 predictions about the Software Development trends in 2022 | by Md Kamaruzzaman | Dec, 2021 | Towards Data Science](https://towardsdatascience.com/22-predictions-about-the-software-development-trends-in-2022-fcc82c263788)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
