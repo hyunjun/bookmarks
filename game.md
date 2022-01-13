@@ -55,6 +55,7 @@ Game
 * [대항해시대 시리즈가 가르쳐준 것들 - Growth | 더플랩 인사이트](https://insight.thepllab.com/post/148)
 * [닌텐도64용 젤다의 전설 풀 디컴파일 완료 | GeekNews](https://news.hada.io/topic?id=5448)
 * [game-developer-roadmap: Roadmap to becoming a game developer in 2022](https://github.com/utilForever/game-developer-roadmap)
+* [Alex Tardif: Graphics Engineer](http://alextardif.com/LearningGraphics.html)
 
 # Board game
 * [ko.boardgamearena.com](https://ko.boardgamearena.com/)
@@ -92,6 +93,8 @@ Game
 * [PlayCanvas WebGL Game Engine](https://playcanvas.com/)
 * [POKEGB: a gameboy emulator that only plays Pokémon blue](https://binji.github.io/posts/pokegb/)
   * [POKEGB - 포켓몬블루만 실행 가능한 게임보이 에뮬 개발기 | GeekNews](https://news.hada.io/topic?id=4399)
+* [PrinceJS: Prince of Persia reimplementation written in HTML5/Javascript](https://github.com/ultrabolido/PrinceJS)
+  * [페르시아의 왕자 in Javascript | GeekNews](https://news.hada.io/topic?id=5639)
 * [Q1K3 | js13kGames](https://js13kgames.com/entries/q1k3)
 * [raylib](https://www.raylib.com/index.html)
 * [Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
