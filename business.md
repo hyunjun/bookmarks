@@ -480,6 +480,9 @@ Business
 * [업무 평가 하기](https://brunch.co.kr/@jinhoyooephf/22)
 * [결국 끝까지 해내는 사람들의 5단계 실천법 – 체인지그라운드](http://thechangeground.com/archives/86597) SMART
 * [성과 평가](https://brunch.co.kr/@tilltue/81)
+* [계량화에 대하여 - YouTube](https://www.youtube.com/watch?v=5Wzb2RTSUPo)
+* [7.08 인사 평가제도 필요한가? - YouTube](https://www.youtube.com/watch?v=F_RXcNzjDlc)
+* [고위공직(후보)자 역량진단 Kit - YouTube](https://www.youtube.com/watch?v=BL28kbunE3E)
 
 # CEO
 * [벤 호로위츠 "CEO 임무는 기업문화 만들기..원칙 세우고 예외 없이 적용하라"](https://news.v.daum.net/v/20210530182001925) 하드씽 Hard Thing
@@ -720,6 +723,7 @@ Business
 * [실리콘밸리선 구체적 지시가 없다, 내가 찾아서 해내면 그게 내 몸값](https://news.v.daum.net/v/20210409030916799)
 * ['타고난 리더'보다 '평범한 팀장'이 더 좋은 이유 : 네이버 뉴스](https://news.naver.com/main/read.naver?sid1=110&oid=243&aid=0000014570)
 * [팀 내 갈등은 팀장의 자산(?) | ㅍㅍㅅㅅ](https://ppss.kr/archives/227487)
+* [“팀장일 때 더 잘할걸” 싶은 12가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/249822)
 * [시작은 어디서부터 인가?](https://brunch.co.kr/@tilltue/68) 관련 서적 추천
 * [나는 무슨 수로 최고의 리더와 일하게 되었나](https://ppss.kr/archives/206018)
 * [**PM은 리더가 아니다?··· 프로젝트 관리자들의 8가지 착각**](http://www.ciokorea.com/news/146190)
