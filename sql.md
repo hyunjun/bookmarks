@@ -322,6 +322,7 @@ SQL
 * [Logging all MariaDB and MySQL queries into the Slow Log - Vettabase](https://vettabase.com/blog/logging-all-mariadb-and-mysql-queries-into-the-slow-log/)
 * [마리아DB 파티션 테이블+자동 증가 칼럼 대박 버그 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%EB%A7%88%EB%A6%AC%EC%95%84DB-%ED%8C%8C%ED%8B%B0%EC%85%98-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9E%90%EB%8F%99-%EC%A6%9D%EA%B0%80-%EC%B9%BC%EB%9F%BC-%EB%8C%80%EB%B0%95-%EB%B2%84%EA%B7%B8)
 * [미친 라이브 데모를 통해 보는Write-Scale Out MariaDB Xpand (10 node cluster)](https://www.allshowtv.com/detail.html?idx=749)
+* [mariadb procedure exception 처리 예제](https://stricky.tistory.com/522)
 * [Authentication Plugin - Unix Socket](https://mariadb.com/kb/en/authentication-plugin-unix-socket/)
 * CDC
   * [mariadb-cdc로 MariaDB CDC 사용하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/mariadb-cdc-intro)
