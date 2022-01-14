@@ -249,3 +249,4 @@ Bitcoin
 * [web3/DAO의 장단점](https://saconyreview.glivery.co.kr/p/2270015726135)
   * [web3/DAO의 장단점 | GeekNews](https://news.hada.io/topic?id=5696)
 * [글로벌 칼럼 | '웹3' 개념을 무시해도 좋은 이유 - ITWorld Korea](https://www.itworld.co.kr/news/220219)
+* [CRYPTO/WEB3 관련 페이지들 총 모음 - by DH jung - coresight](https://coresight.substack.com/p/cryptoweb3-_ver1)
