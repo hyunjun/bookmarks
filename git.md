@@ -739,6 +739,7 @@ Git
   * [🎢 Git Rebase 활용하기](https://velog.io/@godori/Git-Rebase)
   * [Git에서 원하는 커밋만 제거하기 (feat. SourceTree)](https://jojoldu.tistory.com/613)
   * [merge와 rebase : 네이버 블로그](https://blog.naver.com/pjt3591oo/222567853728)
+  * [Fatal: Not possible to fast-forward, aborting / fatal: 정방향이 불가능하므로, 중지합니다. | 웹으로 말하기](https://mytory.net/2022/01/13/git-fatal-not-possible-to-fast-forward-aborting.html)
 * `reflog`
   * [Rewriting history git commit --amend git rebase git rebase -i git reflog](https://www.atlassian.com/git/tutorials/rewriting-history)
   * [How to undo your git failure Using `git reflog` and `git reset` to save your code](https://blog.usejournal.com/how-to-undo-your-git-failure-b76e31ecac74)
