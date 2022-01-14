@@ -16,6 +16,7 @@ Life
 * [‘유족 두번 울리는’ 장례식 바가지 피하는 법 : 경제일반 : 경제 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/economy/economy_general/997305.html)
 * [학교폭력 가해자 금융치료 방법 공유해봅니다 (왕따,따돌림) : 클리앙](https://www.clien.net/service/board/lecture/15860872)
 * [기사 - 상조상품, 호구되지 맙시다](https://www.ddanzi.com/ddanziNews/716976696) 장례
+* ["못 쓰는 냉장고·선풍기, 기업아 좀 가져갈래?" 당당히 요구하세요 지구, 뭐래?](https://news.v.daum.net/v/20220114060211403)
 
 # Car
 * ['자동차 접촉사고' 후 사진 찍는 법](http://www.huffingtonpost.kr/2015/03/19/story_n_6899668.html)
