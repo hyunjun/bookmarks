@@ -939,6 +939,7 @@ Programming Books
   * [컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커](https://github.com/sysnet4admin/_Book_k8sInfra)
     * [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
     * [troubleshooting-kubernetes.ko_kr.v2.pdf](https://learnk8s.io/a/a-visual-guide-on-troubleshooting-kubernetes-deployments/troubleshooting-kubernetes.ko_kr.v2.pdf)
+    * [2022년 쿠버네티스 표준 아키택처](https://github.com/sysnet4admin/_Book_k8sInfra/tree/main/docs/k8s-stnd-arch/2022)
 * (NOT YET) [쿠버네티스 모범 사례](https://jybaek.tistory.com/937)
 
 # Domain Driven Development DDD
