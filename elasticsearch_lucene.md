@@ -317,6 +317,7 @@ ElasticSearch - Lucene
 * [Searchable Snapshot & Frozen Tier - YouTube](https://www.youtube.com/watch?v=1B2EyhoTR54)
 * [제가 등록한 물건이 보이지 않아요: 텀분절. 검색 서비스를 운영하다보면 등록한 게시글이 검색 결과에 보이지 않는다는… | by Jukyoung LEE | 당근마켓 팀블로그 | Jan, 2022 | Medium](https://medium.com/daangn/%EC%A0%9C%EA%B0%80-%EB%93%B1%EB%A1%9D%ED%95%9C-%EB%AC%BC%EA%B1%B4%EC%9D%B4-%EB%B3%B4%EC%9D%B4%EC%A7%80-%EC%95%8A%EC%95%84%EC%9A%94-%ED%85%80%EB%B6%84%EC%A0%88-30117c95c5fc)
 * [Hot-Warm Architecture in Elasticsearch 1/n | CODER SITE for developers](https://codersite.dev/hot-warm-architecture-elasticsearch/)
+* [Searchable Snapshot & Frozen Tier - YouTube](https://www.youtube.com/watch?v=1B2EyhoTR54)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
@@ -410,6 +411,7 @@ ElasticSearch - Lucene
 * [엘라스틱서치와 추천 - More Like This 쿼리](https://onduway.tistory.com/101)
 * [Elastic Stack 7.14.1 자동 설치 - YouTube](https://www.youtube.com/watch?v=p3f7wUwSqdM)
 * [동의어로 Elasticsearch의 성능 강화 | Elastic Blog](https://www.elastic.co/kr/blog/boosting-the-power-of-elasticsearch-with-synonyms)
+* [seunjeon-elasticsearch-7: Forked repo of seunjeon for Elasticsearch 7 or newer](https://github.com/likejazz/seunjeon-elasticsearch-7)
 
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)
