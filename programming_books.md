@@ -1434,6 +1434,7 @@ Programming Books
   * 탐라 문005.51 네68p
 
 # Management
+* [스타트업 대표 132명이 직접 추천했다?! 대표 책상에 놓여있는 조직문화 필독서!! - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/organizational20220114)
 * [똑똑하고 100배 일 잘하는 개발자 모시기 : 조엘 온 소프트웨어 시즌 2](https://jh4hj.tistory.com/entry/%EB%98%91%EB%98%91%ED%95%98%EA%B3%A0-100%EB%B0%B0-%EC%9D%BC-%EC%9E%98%ED%95%98%EB%8A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%AA%A8%EC%8B%9C%EA%B8%B0-%EC%A1%B0%EC%97%98-%EC%98%A8-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%8B%9C%EC%A6%8C-2)
   * 2010.03.14
 * [조엘 온 소프트웨어](https://jh4hj.tistory.com/entry/%EC%A1%B0%EC%97%98-%EC%98%A8-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4)
