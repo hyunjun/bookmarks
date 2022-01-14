@@ -151,6 +151,7 @@ Vision
 * [SNIPER - an efficient multi-scale object detection algorithm](https://github.com/mahyarnajibi/SNIPER) MXNet 기반
 * [Super-Fast-Accurate-3D-Object-Detection: Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds (The PyTorch implementation)](https://github.com/maudzung/Super-Fast-Accurate-3D-Object-Detection)
 * [How to Train a Custom Model for Object Detection (Local and Google Colab!)](https://morioh.com/p/df76eb62c799)
+* [Brief Review on Anchor-Free Object Detection (2019-2020)](https://blog.si-analytics.ai/72)
 * [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition Presenter ByungIn Yoo CS688/WST665](http://slideplayer.com/slide/5277459/)
 * [An unsupervised approach to detecting and isolating athletic movements](http://terryum.io/publications/#EMBC2016) 스포츠 동작 자동검출 코드
   * 머신러닝 X 즉, 트레이닝 데이터도 필요없고, 트레이닝 타임도 필요없다
