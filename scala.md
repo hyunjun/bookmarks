@@ -850,6 +850,7 @@ Scala
     * Closed Type과 Open Type으로 Expression Problem의 어떤 부분을 해결해 주는지에 대한 글
     * ADT를 사용하는 Closed Type 스타일은 FP에서 사용하는 방법
     * FP와 OOP의 차이는 Expression Problem을 어떻게 해결 하느냐에 있음
+  * ["Functional Programming for Mortals with #Scalaz" Review - YouTube](https://www.youtube.com/watch?v=fSpc7w5dE8I)
   * [ZIO — A type-safe, composable library for asynchronous and concurrent programming for Scala](https://zio.dev)
     * [ZIO — A type-safe, composable library for asynchronous and concurrent programming in Scala](https://github.com/scalaz/scalaz-zio)
     * [Queue · ZIO](https://zio.dev/docs/datatypes/datatypes_queue) Queue 만들어서 해당 queue 에 task 집어넣고, 해당 queue 에 대한 consumer 를 원하는 수만큼 생성
@@ -1134,6 +1135,8 @@ Scala
 * [Scala Book: Free PDF, Mobi, and ePub versions](https://alvinalexander.com/scala/scala-book-free/)
 * [Scala from Scratch: Exploration by Daniel Westheide](https://leanpub.com/scala-from-scratch-exploration)
 * [Scala from Scratch: Understanding by Daniel Westheide](https://leanpub.com/scala-from-scratch-understanding)
+* [Finally some business logic! SPFS #5 - YouTube](https://www.youtube.com/watch?v=jBU7ZIrtPgU)
+* [Happy 2022! (SPFS #6) - YouTube](https://www.youtube.com/watch?v=4AsH2k1MRjs)
 * [Seriously Good Software](https://www.manning.com/books/seriously-good-software)
   * [**Seriously Good Software**](https://docs.google.com/presentation/d/e/2PACX-1vR8mEHa7gi5qhrdCwzOGnACdWxYb4kZERtscQIRZkYnH4rBNo7-ZZ4wXLD1DbUwJkwW83OhezYFjRmH/pub) 전반적인 설계 흐름을 볼 수 있는 슬라이드
   * [exercisesinstyle](https://bitbucket.org/mfaella/exercisesinstyle/)
@@ -1732,6 +1735,7 @@ Scala
   * [Building a Simple REST API with Scala & Play! (Part 1) - SPR](https://spr.com/building-a-simple-rest-api-with-scala-play-part-1/)
   * [Scala, Play and MySQL Integration Template | AnyChart](https://www.anychart.com/technical-integrations/samples/scala-play-mysql-template/)
   * [Building a REST API in Scala with Play Framework | Baeldung on Scala](https://www.baeldung.com/scala/play-rest-api)
+  * [Notes about loading configuration Examples for Play Framework and Spring Boot | wiringbits](https://wiringbits.net/wiringbits/2021/12/30/notes-about-loading-configuration-examples-for-play-framework-and-spring-boot.html)
   * Play restful API with DB
     * [Examples](https://www.silhouette.rocks/docs/examples)
     * [inspiration-api: API built with Scala & Play Framework. Uses Postgres & Slick ☀️](https://github.com/dan-mcm/inspiration-api)
