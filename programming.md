@@ -443,15 +443,6 @@ Programming
 * [슬기로운 dooray 생활 - 4년간 한中을 오가며 써온 소감 총정리 | Popit](https://www.popit.kr/%ec%8a%ac%ea%b8%b0%eb%a1%9c%ec%9a%b4-dooray-%ec%83%9d%ed%99%9c-4%eb%85%84%ea%b0%84-%ed%95%9c%e4%b8%ad%ec%9d%84-%ec%98%a4%ea%b0%80%eb%a9%b0-%ec%8d%a8%ec%98%a8-%ec%86%8c%ea%b0%90-%ec%b4%9d%ec%a0%95/) 여러가지 개발 프로세스 관련 이야기
 * [기고 | 효과적인 IT프로세스 구축하기 ‘4가지 전제 조건’ - CIO Korea](https://www.ciokorea.com/news/200264) 프로세스 최적화 지표, SLA
 * [다양한 아기발걸음으로 배우기 | Popit](https://www.popit.kr/%EB%8B%A4%EC%96%91%ED%95%9C-%EC%95%84%EA%B8%B0%EB%B0%9C%EA%B1%B8%EC%9D%8C%EC%9C%BC%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EA%B8%B0/)
-* [로블록스: 메타버스의 새벽. Roblox: Dawn of the Metaverse | by Kenial Lee | kokr | Mar, 2021 | Medium](https://medium.com/kokr/%EB%A1%9C%EB%B8%94%EB%A1%9D%EC%8A%A4-%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%EC%9D%98-%EC%83%88%EB%B2%BD-330a56386e34)
-* [2021.03.08 우리가 경험해온 메타버스, 앞으로 만나게 될 메타버스](https://www2.slideshare.net/KiheonShin/20210308-244069379) metaverse
-* [Building the Metaverse](https://www.slideshare.net/jradoff/building-the-metaverse-248941223)
-* [The Metaverse is Coming - Are You Ready? · Present](https://present.do/decks/60f79e5934f983173391e91d)
-* [WorkAdventure - 오픈소스 메타버스 플랫폼 소프트웨어 | GeekNews](https://news.hada.io/topic?id=4823)
-* [DeepDive 강정수 박사의 '메타버스 핵심 읽기'](https://c-rocket.net/deepdive_deepclass-1/)
-  * [메타버스 핵심 읽기 | GeekNews](https://news.hada.io/topic?id=5420)
-* [유니티와 함께하는 메타버스 입문서 | GeekNews](https://news.hada.io/topic?id=5553)
-* [당신이 탄 그 버스는 메타버스가 아니다](https://brunch.co.kr/@brunchgpjz/33)
 * [Christmas Maze on Gather Town using Teachable Machine | Teachableverse](https://teachableverse.github.io/christmas-maze-gathertown-teachablemachine/)
 * [A System for Detecting Software Similarity](http://theory.stanford.edu/~aiken/moss/)
 * [How to Learn Complex Things Quickly: A Guide](https://product.hubspot.com/blog/how-to-learn-complex-things-quickly)
@@ -2630,6 +2621,18 @@ Programming
 * Zuul 2
   * [Open Sourcing Zuul 2](https://medium.com/netflix-techblog/open-sourcing-zuul-2-82ea476cb2b3)
   * [Scaling Push Messaging for Millions of Devices @Netflix](https://www.youtube.com/watch?v=6w6E_B55p0E)
+
+# Metaverse
+* [로블록스: 메타버스의 새벽. Roblox: Dawn of the Metaverse | by Kenial Lee | kokr | Mar, 2021 | Medium](https://medium.com/kokr/%EB%A1%9C%EB%B8%94%EB%A1%9D%EC%8A%A4-%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%EC%9D%98-%EC%83%88%EB%B2%BD-330a56386e34)
+* [2021.03.08 우리가 경험해온 메타버스, 앞으로 만나게 될 메타버스](https://www2.slideshare.net/KiheonShin/20210308-244069379) metaverse
+* [Building the Metaverse](https://www.slideshare.net/jradoff/building-the-metaverse-248941223)
+* [The Metaverse is Coming - Are You Ready? · Present](https://present.do/decks/60f79e5934f983173391e91d)
+* [WorkAdventure - 오픈소스 메타버스 플랫폼 소프트웨어 | GeekNews](https://news.hada.io/topic?id=4823)
+* [DeepDive 강정수 박사의 '메타버스 핵심 읽기'](https://c-rocket.net/deepdive_deepclass-1/)
+  * [메타버스 핵심 읽기 | GeekNews](https://news.hada.io/topic?id=5420)
+* [유니티와 함께하는 메타버스 입문서 | GeekNews](https://news.hada.io/topic?id=5553)
+* [당신이 탄 그 버스는 메타버스가 아니다](https://brunch.co.kr/@brunchgpjz/33)
+* [메타버스, 가지 못한 길과 다 가본 길 < 과학 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=630)
 
 # Microsoft
 * [알면 놀라는 마이크로소프트의 25가지 혁신 기술](http://m.seminartoday.net/news/articleView.html?idxno=8526)
