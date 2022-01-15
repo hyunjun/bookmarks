@@ -156,6 +156,10 @@ Flutter
 * [왕초보 프로그래밍 강의 - YouTube](https://www.youtube.com/playlist?list=PLmEhRs1HB7RF1C7_C1oYzmc11iaC6DlNB)
 * [pure_firestore](https://github.com/kdy1/pure_firestore)
 * [dart 문법 - 데이터타입(기본타입, 자료구조)](https://blog.naver.com/pjt3591oo/222309654609)
+* [무료 프로그래밍 강의 1시간만에 끝내는 Dart언어 기본기 - YouTube](https://www.youtube.com/watch?v=3Ck42C2ZCb8)
+* [무료 프로그래밍 강의 1시간만에 끝내는 객체지향 프로그래밍 - YouTube](https://www.youtube.com/watch?v=7e80Il_7Z70)
+* [무료 프로그래밍 강의 40분만에 끝내는 함수형 프로그래밍 - YouTube](https://www.youtube.com/watch?v=fwh27A_D-20)
+* [무료 프로그래밍 강의 40분만에 끝내는 비동기 프로그래밍 - YouTube](https://www.youtube.com/watch?v=rk41rBXq3zQ)
 
 # Firebase
 * [How to integrate your iOS Flutter App with Firebase on MacOS](https://medium.freecodecamp.org/how-to-integrate-your-ios-flutter-app-with-firebase-on-macos-6ad08e2714f0)
