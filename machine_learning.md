@@ -693,6 +693,7 @@ Machine Learning
 * [How to Beat Google’s AutoML - Hyperparameter Optimisation with Flair](https://towardsdatascience.com/how-to-beat-automl-hyperparameter-optimisation-with-flair-3b2f5092d9f5)
 * [automl-gs Provide an input CSV and a target field to predict, generate a model + code to run it](https://github.com/minimaxir/automl-gs)
 * [이미지 분류 모델 AutoML 파이프라인. 이미지 분류 모델 AutoML 활용하기 | by Yoo Gyoungyoon | 당근마켓 팀블로그 | Dec, 2020 | Medium](https://medium.com/daangn/%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EB%AA%A8%EB%8D%B8-automl-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-68beb1ff15bf)
+* [Continuous-Adaptation-with-VertexAI-AutoML-Pipeline](https://github.com/deep-diver/Continuous-Adaptation-with-VertexAI-AutoML-Pipeline)
 * [evalml: EvalML is an AutoML library written in python](https://github.com/alteryx/evalml)
   * [Home — EvalML 0.23.0 documentation](https://evalml.alteryx.com/)
 * [mindsdb - Open Source AutoML for Developers](https://www.mindsdb.com/)
@@ -1209,6 +1210,7 @@ Machine Learning
   * 개념 설명뿐 아니라 설정 방법과 Kubeflow에 대한 설명이 포함되어 있어서 MLOps에 관심 있거나 공부해 보고자 하면 아주 좋은 문서
 * [MLOps: Big Picture in GCP. “Why do we need different CI/CD for… | by Park Chansung | Google Developers Experts | Medium](https://medium.com/google-developer-experts/mlops-big-picture-in-gcp-a637566d6ae8)
 * [ML Ops with Dagster: 5 Key Features for Developing a Continuous Training Pipeline - Thinking Machines Data Science](https://stories.thinkingmachin.es/ml-ops-with-dagster-5-key-features-for-developing-a-continuous-training-pipeline/)
+* [MODUCON 2021 글로벌 넘버원이 되기위한 MLOps Learning Path-박찬성Development Enviroment - 개발환경 - YouTube](https://www.youtube.com/watch?v=0O79Hrj3Xq4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
 * [MadeWithML: Learn how to responsibly deliver value with ML](https://github.com/GokuMohandas/MadeWithML)
 * **[MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
