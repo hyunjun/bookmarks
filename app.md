@@ -1125,6 +1125,7 @@ App
   * [www.spectacleapp.com](https://www.spectacleapp.com/)
 * spoof-mac [노트북에서 통신사 WIFI 사용하기](https://brunch.co.kr/@promise4u/186)
 * [ssheven: A modern SSH client for Mac OS 7/8/9](https://github.com/cy384/ssheven)
+* [Switcher](https://github.com/tkgka/Switcher) command + q 명령어를 두번 입력한 경우에만 동작하도록 설정 가능
 * [termflix - Search and stream torrents from your command line](https://github.com/asarode/termflix)
 * [Theine 2 - Caffeine for your Mac](https://www.ixeau.com/apps/theine/) KeepingYouAwake같은 앱
 * [Timeline 3D for mac](http://bedreams.tistory.com/78)
