@@ -196,6 +196,7 @@ Bitcoin
 * [bitmulate - Simulated cryptocurrency trading system https://bitimulate.com ](https://github.com/velopert/bitimulate)
 * [BlockSeer Introduction](https://www.youtube.com/watch?v=y_MNVekX6g4)
 * [cointrol - Bitcoin trading bot with a real-time dashboard for Bitstamp](https://github.com/jkbrzt/cointrol)
+* [crypto-reading-list](https://github.com/JumpCrypto/crypto-reading-list)
 * [DeFi-Developer-Road-Map: DeFi Developer Road Map. Feel free to submit a pull request, with anything from small fixes to translations, docs or tools you'd like to add](https://github.com/OffcierCia/DeFi-Developer-Road-Map)
   * [DeFi 개발자 로드맵 | GeekNews](https://news.hada.io/topic?id=4500)
 * [ELI: 더 안전한 LINE의 가상자산 지갑 플랫폼 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/eli-line-cryptocurrency-wallet-platform/)
@@ -250,3 +251,4 @@ Bitcoin
   * [web3/DAO의 장단점 | GeekNews](https://news.hada.io/topic?id=5696)
 * [글로벌 칼럼 | '웹3' 개념을 무시해도 좋은 이유 - ITWorld Korea](https://www.itworld.co.kr/news/220219)
 * [CRYPTO/WEB3 관련 페이지들 총 모음 - by DH jung - coresight](https://coresight.substack.com/p/cryptoweb3-_ver1)
+* [웹삼뽀개기](https://page.stibee.com/archives/156387)
