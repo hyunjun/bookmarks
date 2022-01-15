@@ -85,6 +85,12 @@
 * [**Design Pattern : 구조 패턴(Structural Patterns)**](https://velog.io/@ha0kim/Design-Pattern-%EA%B5%AC%EC%A1%B0-%ED%8C%A8%ED%84%B4Structural-Patterns)
 * [The Functional Evolution of Object-Oriented Programming - YouTube](https://www.youtube.com/watch?v=j5a4K0u1HOw)
 * [Object Oriented Design Patterns - YouTube](https://www.youtube.com/playlist?list=PLJN9ydlFnJsi6-lev2fQ2f1X7YD-VPQVW)
+* [002. 객체지향 근간, 오브젝트 1/6 | LinkedIn](https://www.linkedin.com/pulse/002-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5-%EA%B7%BC%EA%B0%84-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-16-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
+* [003. 타입과 책임 기반 설계, 오브젝트 2/6 | LinkedIn](https://www.linkedin.com/pulse/003-%ED%83%80%EC%9E%85%EA%B3%BC-%EC%B1%85%EC%9E%84-%EA%B8%B0%EB%B0%98-%EC%84%A4%EA%B3%84-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-26-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
+* [004. 객체지향과 이를 지키기 위한 방법, 오브젝트 3/6 | LinkedIn](https://www.linkedin.com/pulse/004-%EA%B0%9D%EC%B2%B4%EC%A7%80%ED%96%A5%EA%B3%BC-%EC%9D%B4%EB%A5%BC-%EC%A7%80%ED%82%A4%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%B0%A9%EB%B2%95-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-36-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
+* [005. LSP와 Generic, 오브젝트 4/6 | LinkedIn](https://www.linkedin.com/pulse/005-lsp%EC%99%80-generic-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-46-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
+* [006. 도메인 분해, 오브젝트 5/6 | LinkedIn](https://www.linkedin.com/pulse/006-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%B6%84%ED%95%B4-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-56-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
+* [007. 상속과 합성, 오브젝트 6/6 | LinkedIn](https://www.linkedin.com/pulse/007-%EC%83%81%EC%86%8D%EA%B3%BC-%ED%95%A9%EC%84%B1-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-66-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
