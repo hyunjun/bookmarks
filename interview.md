@@ -672,6 +672,7 @@ Interview
 * [remoteinterview.io/takehome - Interviews can be stressful, give them take-home projects instead](https://www.remoteinterview.io)
 * [**SDE-Interview-Questions: Most comprehensive list of tech interview questions of companies scraped from Geeksforgeeks, CareerCup and Glassdoor**](https://github.com/twowaits/SDE-Interview-Questions)
 * [solved.ac - 문제](https://solved.ac/problems/level)
+* [SWE Careers Mock Interviews](https://www.swecareers.com/mock-interviews)
 * [swexpertacademy.com](https://www.swexpertacademy.com)
 * [talview.com](https://www.talview.com/)
 * [testdome.com](https://www.testdome.com/)
