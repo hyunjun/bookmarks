@@ -250,6 +250,7 @@ History
 * [왜 청자뿐일까..해저유물 미스테리](http://media.daum.net/series/newsview?seriesId=113855&newsId=20160413200404562)
 * [여진인 퉁두란은 왜 '이지란'이 되었나](https://news.v.daum.net/v/20181129161226250)
 * [상은 통 크게 주고 벌은 가려서 내린다 - 시사IN](https://www.sisain.co.kr/news/articleView.html?idxno=42423) 현종
+* [정몽주가 고려 최고 충신이 되기까지, 몰랐던 사실 - 오마이스타](http://star.ohmynews.com/NWS_Web/OhmyStar/at_pg.aspx?CNTN_CD=A0002801363)
 
 ## 고구려
 * [을지문덕은 왜 사라졌을까... 실종 전 행적 따져보니 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/Event/Premium/at_pg.aspx?CNTN_CD=A0002665504)
