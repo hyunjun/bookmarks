@@ -1436,6 +1436,9 @@ Programming
   * [Breaking Up a Monolithic Database with Kong - DZone Microservices](https://dzone.com/articles/breaking-up-a-monolithic-database-with-kong)
 * [Micronaut Framework - A MODERN, JVM-BASED, FULL-STACK FRAMEWORK FOR BUILDING MODULAR, EASILY TESTABLE MICROSERVICE AND SERVERLESS APPLICATIONS](https://micronaut.io/) GraalVM based
 * Mortar [오늘의집 MSA Phase 1. 서비스 구축과 배포 with Mortar - 오늘의집 블로그](https://www.bucketplace.co.kr/post/2021-12-17-msa-phase-1-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95%EA%B3%BC-%EB%B0%B0%ED%8F%AC-with-mortar/)
+* [ssup2ket](https://github.com/ssup2ket/ssup2ket)
+  * [ssup2ket-auth-service: ssup2ket user service](https://github.com/ssup2ket/ssup2ket-auth-service)
+  * [ssup2ket-store-service](https://github.com/ssup2ket/ssup2ket-store-service)
 * [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
   * Zipkin을 이용한 MSA 환경에서 분산 트렌젝션의 추적
     * [#1](http://bcho.tistory.com/1243)
@@ -1555,6 +1558,7 @@ Programming
 * [더북(TheBook): 마이크로서비스 패턴](https://thebook.io/007035/) 1~4장만
 * [컴퓨터 과학 언플러그드](https://statkclee.github.io/unplugged/)
 * [생계형 개발자, SI에서 살아남기 개정판 - WikiDocs](https://wikidocs.net/book/5794)
+* [(책 추천) 분야별 개발자 되기 위한 책-2022](https://brunch.co.kr/@topasvga/1379)
 * [Software Carpentry: 소프트웨어 카펜트리 버젼 5.3.](http://statkclee.github.io/swcarpentry-version-5-3-new/)
 * [Top 5 Contemporary Software Engineering Books](https://medium.com/ki-labs-engineering/top-5-contemporary-software-engineering-books-8b5ca6a28e83)
 * [The 25 best programming books of all-time. A data-backed answer](https://www.daolf.com/posts/best-programming-books/)
@@ -2894,6 +2898,7 @@ Programming
   * [12월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2021/12/b-12.html)
   * [12월 4주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2021/12/b-12-4.html)
   * [1월 1주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/01/b-1-1.html)
+  * [1월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2022/01/b-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
