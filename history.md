@@ -243,6 +243,7 @@ History
 * [기사 - 교과서엔 없는 일기들, 병자호란 3(完): 가족을 사러 국경으로 향한 사람들](https://www.ddanzi.com/ddanziNews/710845603)
 * [망국(亡國), 그리고 좌절된 과학기술의 근대화](https://www.thecolumnist.kr/news/articleView.html?idxno=563)
 * ['태종 이방원'이 담아내지 못한 이성계의 전략전술 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002799460&CMPT_CD=SEARCH)
+* [서학의 좌절, 과학기술 근대화의 '기회 상실' < 과학 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=636)
 
 ## 고려
 * [가오 지킨(?) 최후의 충신 정몽주 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8249258.html)
@@ -625,6 +626,9 @@ Switzerland, National Socialism and the Second World War](https://www.uek.ch/en/
   * ["스위스, 군수물자 수출 대부분 나치에 제공"](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=001&aid=0000143841)
   * [스위스 역사학자 장 베르지에 별세](http://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=104&oid=001&aid=0002948293)
 * [스위스판(版) "그 때를 아시나요"](http://www.berlinreport.com/bbs/board.php?bo_table=free&wr_id=11329&sca=%EC%9D%BC%EB%B0%98&page=59)
+
+## Ukraine
+* [기사 - 우크라이나를 말한다 1: 러시아와 우크라이나가 서로 미워하는 이유](https://www.ddanzi.com/ddanziNews/718418055)
 
 # Oceania
 
