@@ -709,6 +709,7 @@ Deep Learning
 * [How Long Does It Take Ordinary People To "Get Good" At Chess?](https://github.com/jcw024/lichess_database_ETL/blob/main/README.md)
 * [EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING](https://rockt.github.io/2018/04/30/einsum)
 * [Bag-of-Tricks — 딥러닝 성능을 높이기 위한, 다양한 꿀팁들 | by 이도현 | CURG | Medium](https://medium.com/curg/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%84%B1%EB%8A%A5%EC%9D%84-%EB%86%92%EC%9D%B4%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%8B%A4%EC%96%91%ED%95%9C-%EA%BF%80%ED%8C%81%EB%93%A4-1910c6c7094a)
+* [Deep Learning's Most Important Ideas - A Brief Historical Review](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -2145,6 +2146,7 @@ CVPR2016)
 * [hugrypiggykim.com/category/study-deep-learning-paper-and-test-programs](http://hugrypiggykim.com/category/study-deep-learning-paper-and-test-programs/)
 * [ML/DL/RL Papers](https://www.notion.so/d4aacd7f00564116bb707e09618f4e3c)
 * [“EfficientNet; Improving Accuracy and Efficiency through AutoML and Model Scaling 리뷰”](https://hoya012.github.io//blog/EfficientNet-review/)
+* [annotated_deep_learning_paper_implementations: 🧑‍🏫 50! Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠](https://github.com/labmlai/annotated_deep_learning_paper_implementations)
 * [AutoML-Zero：Evolving Machine Learning Algorithms From Scratch Review](https://hoya012.github.io/blog/automl-zero-review/)
 * [Deep Visual-SLAM의 미래 0 (Deep-SLAM의 시작)](https://cv-learn.com/Deep-Visual-SLAM-0-Deep-SLAM-603a26c47c3848a88b90559d273f95dc)
 * [DL_PaperReadingMeeting: Deep Learning Paper Reading Meeting-Archive](https://github.com/Lilcob/-DL_PaperReadingMeeting)
