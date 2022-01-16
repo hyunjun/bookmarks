@@ -340,6 +340,8 @@ Vision
 * [사물인식하기 2 , ObjectDetection– ML5.js « Makezone – 인터랙티브 미디어, fablication 그리고 사물인터넷(IoT)](http://makezone.co.kr/blog/2020/12/13/%EC%82%AC%EB%AC%BC%EC%9D%B8%EC%8B%9D%ED%95%98%EA%B8%B0-2-bodypix-ml5-js/)
 * [얼굴 인식하기 2, FaceAPI – ML5.js « Makezone – 인터랙티브 미디어, fablication 그리고 사물인터넷(IoT)](http://makezone.co.kr/blog/2020/12/27/%ec%96%bc%ea%b5%b4-%ec%9d%b8%ec%8b%9d%ed%95%98%ea%b8%b0-2-faceapi-ml5-js/)
 * [handtrack.js: A library for prototyping realtime hand detection (bounding box), directly in the browser](https://github.com/victordibia/handtrack.js)
+* [mind-ar-js: Web Augmented Reality. Image Tracking, Face Tracking. Tensorflow.js](https://github.com/hiukim/mind-ar-js)
+  * [Mind AR JS - 웹 증강현실 라이브러리 | GeekNews](https://news.hada.io/topic?id=5664)
 
 # Library
 * [CLOUD VISION API](https://cloud.google.com/vision/)
