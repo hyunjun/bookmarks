@@ -1422,6 +1422,7 @@ Programming
 * [Pitfalls and Patterns in Microservice Dependency Management](https://www.infoq.com/presentations/microservices-dependency-management/)
 * [Best practices to communicate between microservices | by Irfan Yusanif | Dec, 2021 | Medium](https://irfanyusanif.medium.com/how-to-communicate-between-microservices-7956ed68a99a)
 * [영상 - 마이크로서비스 6가지 핵심 개념 소개 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/microservices-6-key-concepts)
+* [Microservices Fundamentals - YouTube](https://www.youtube.com/playlist?list=PLlbOZgAHblLvRxNiU8lLoaB9OZvX13Huo)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
