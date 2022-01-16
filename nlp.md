@@ -987,6 +987,8 @@ NLP
 * [GPT-3 공식문서번역 3. Get started - Engines — BetaMan의 공사장](https://betaman-workshop.tistory.com/65)
 * [GPT-3 공식문서번역 4. Get started - Going live — BetaMan의 공사장](https://betaman-workshop.tistory.com/66)
 * [GPT-3 공식문서번역 5. Get started - Usage guidelines — BetaMan의 공사장](https://betaman-workshop.tistory.com/67)
+* [AI Can Write in English. Now It's Learning Other Languages | WIRED](https://www.wired.com/story/ai-write-english-learning-other-languages/) GPT3
+* [Can’t Access GPT-3? Here’s GPT-J — Its Open-Source Cousin | by Alberto Romero | Towards Data Science](https://towardsdatascience.com/cant-access-gpt-3-here-s-gpt-j-its-open-source-cousin-8af86a638b11)
 * [OpenAI Codex 공개 및 파이썬 퍼즐 챌린지 예정 | GeekNews](https://news.hada.io/topic?id=4803)
 * [gpt-neo: An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library](https://github.com/EleutherAI/gpt-neo/)
 * [21년 2월 2주 - from __future__ import dreamfrom __future__ import dream](http://freesearch.pe.kr/archives/5034)
@@ -1820,6 +1822,7 @@ NLP
 * [KoSpeech: Open Source Project for Korean End-to-End (E2E) Automatic Speech Recognition (ASR) in Pytorch for Deep Learning Researchers](https://github.com/sooftware/KoSpeech)
 * [KsponSpeech-preprocess: Pre-processing KsponSpeech corpus (Korean Speech dataset) provided by AI Hub](https://github.com/sooftware/KsponSpeech-preprocess)
 * [Mellotron: a multispeaker voice synthesis model based on Tacotron 2 GST that can make a voice emote and sing without emotive or singing training data](https://github.com/NVIDIA/mellotron)
+* [MockingBird: 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/babysor/MockingBird)
 * [NVIDIA Jarvis | NVIDIA Developer](https://developer.nvidia.com/nvidia-jarvis)
   * [1. Live coding Jarvis Transcriptions for Speech to Text Dataset p.1 - YouTube](https://www.youtube.com/watch?v=ubvgReZVf5g&t=0s)
   * [2. Live coding Jarvis Transcriptions for Speech to Text Dataset p.2 - YouTube](https://www.youtube.com/watch?v=BDl6fzhp2Ao)
