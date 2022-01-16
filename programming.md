@@ -1181,6 +1181,7 @@ Programming
 * Circuit breaker 패턴을 이용한 장애에 강한 MSA 서비스 구현하기
   * [#1 - Circuit breaker와 넷플릭스 Hystrix](http://bcho.tistory.com/1247)
   * [#2 - Spring을 이용한 Circuit breaker 구현](http://bcho.tistory.com/1250)
+* [Spring boot Circuit breaker Hystrix | Spring boot hystrix - YouTube](https://www.youtube.com/watch?v=kkX7oEzkqd8)
 * [외부 API로 빚어진 장애대응 후일담 after 1years](https://saramin.github.io/2020-12-18-post-api-with-circuit-breaker/)
 * [Resilience4j - a fault tolerance library designed for Java8 and functional programming](https://github.com/resilience4j/resilience4j) circuit breaker 역할도 함
   * [Fault Tolerance – Resilience4J – Guruble](http://guruble.com/fault-tolerance-resilience4j/)
