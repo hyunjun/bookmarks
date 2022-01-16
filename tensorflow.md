@@ -871,6 +871,7 @@ TensorFlow
   * [TensorFlow.Data 및 TensorFlow Hub](https://www.slideshare.net/inureyes/tensorflowdata-tensorflow-hub)
   * [How to use TensorFlow Hub with code examples](https://medium.com/ymedialabs-innovation/how-to-use-tensorflow-hub-with-code-examples-9100edec29af)
   * [새로운 TensorFlow Hub 웹 경험](https://developers-kr.googleblog.com/2019/01/a-new-tensorflow-hub-web-experience.html)
+* [tensorflow-image-models: TensorFlow port of PyTorch Image Models (timm) - image models with pretrained weights](https://github.com/martinsbruveris/tensorflow-image-models)
 * [TensorFlow.js](https://js.tensorflow.org/)
   * [tfjs/GALLERY.md](https://github.com/tensorflow/tfjs/blob/master/GALLERY.md)
   * [tfjs-examples/angular-predictive-prefetching at master · tensorflow/tfjs-examples](https://github.com/tensorflow/tfjs-examples/tree/master/angular-predictive-prefetching)
@@ -1035,6 +1036,7 @@ TensorFlow
 * [카카오톡 대화 생성기(http://jsideas.net/python/2017/04/05/kakao_rnn.html)
 * [Python Deep Learning tutorial: Create a GRU (RNN) in TensorFlow](https://www.datasciencecentral.com/profiles/blogs/gru-implementation-in-tensorflow)
 * [Implementing an RNN in Tensorflow - Recurrent Neural Network](https://morioh.com/p/018561d3ea2b)
+* [How to build a lyrics generator using Python and RNNs](https://www.activestate.com/blog/how-to-build-a-lyrics-generator-with-python-recurrent-neural-networks/)
 
 # Time Series
 * [TensorFlow Tutorial for Time Series Prediction](https://github.com/tgjeon/TensorFlow-Tutorials-for-Time-Series)
