@@ -43,3 +43,4 @@ Life
 
 # Tax
 * [종합소득세 신고 '삼쩜삼', 가입자 500만 돌파](https://www.venturesquare.net/838070)
+* [절세가 수익률이다…‘금융투자소득세’에 따른 투자전략 < 재테크 < 금융/증권 < 기사본문 - 이코노믹리뷰](http://www.econovill.com/news/articleView.html?idxno=550150)
