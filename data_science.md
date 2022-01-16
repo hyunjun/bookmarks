@@ -66,6 +66,7 @@ Data Science
 * [데이터 아키텍처의 변화](https://data-engineer-song.tistory.com/2) ETL -> ELT
 * [인터뷰ㅣ"기술 회사도 IT 현대화해야 한다" 키사이트 테크놀로지스 CIO - CIO Korea](https://www.ciokorea.com/news/203214) ETL -> ELT로의 이유
 * [칼럼ㅣ'ETL'은 빅데이터와의 경쟁에서 패배했다 - CIO Korea](https://www.ciokorea.com/news/208017) ETL -> ELT or pipelined data streaming
+* [ETL, ELT의 4가지 주요 차이점 - 밥먹는 개발자](https://dining-developer.tistory.com/50)
 * [I want to study Data Science Wiki](https://github.com/Team-Neighborhood/I-want-to-study-Data-Science/wiki) 한글
 * [A Beginner’s Guide to the Data Science Pipeline](https://www.kdnuggets.com/2018/05/beginners-guide-data-science-pipeline.html)
 * [Big Data: Its Benefits, Challenges, and Future | by Benedict Neo | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/big-data-its-benefits-challenges-and-future-6fddd69ab927)
@@ -343,6 +344,8 @@ Data Science
 * [글로벌 칼럼 | ‘머신러닝은 만능이 아니다’ ML 대신 SQL 쿼리를 써야하는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/209077)
 * [칼럼ㅣ머신러닝의 첫 번째 규칙은 ML 없이 시작하는 것이다 - CIO Korea](https://www.ciokorea.com/news/208792)
 * [모델만 잘 만들면 끝?··· 데이터 과학을 위한 ‘CI/CD’가 필요하다  - CIO Korea](https://www.ciokorea.com/news/216234)
+* [Five Predictions for the Future of the Modern Data Stack | by Jordan Volz | Medium](https://medium.com/@jordan_volz/five-predictions-for-the-future-of-the-modern-data-stack-435b4e911413)
+* [The Future of Data Engineering](https://www.infoq.com/articles/future-data-engineering-riccomini/)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
