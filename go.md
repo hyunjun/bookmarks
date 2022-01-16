@@ -291,6 +291,7 @@ Go
 * [Recurse Center Day 24: Hacking Go compiler to add a new keyword - blag](https://avi.im/blag/2021/rc-day-24/)
 * [Golang Design Patterns in Kubernetes](https://aly.arriqaaq.com/golang-design-patterns/)
 * [How Khan Academy Rewrote their Backend - by Quastor Tech](https://www.quastor.org/p/how-khan-academy-rewrote-their-backend)
+* [제대로 된 계산기를 만들어 보자! (1)](https://www.jiwon.me/complete-calculator-01/)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
