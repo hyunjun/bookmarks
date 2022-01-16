@@ -672,6 +672,8 @@ Machine Learning
 * [Spotify의 오디오 분석을 사용한 일렉트로닉 댄스 음악의 장르 분류](https://ichi.pro/ko/spotifyui-odio-bunseog-eul-sayonghan-illegteulonig-daenseu-eum-ag-ui-jangleu-bunlyu-126790836673264)
 * [Cracking Random Number Generators using Machine Learning – Part 1: xorshift128 – NCC Group Research](https://research.nccgroup.com/2021/10/15/cracking-random-number-generators-using-machine-learning-part-1-xorshift128/)
 * [A Tour of End-to-End Machine Learning Platforms | Ian Hellström](https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/)
+* [머신러닝 모델로 동네생활 신고 업무 자동화하기. 2021년에 동네생활 글을 필터링(신고)하는 새로운 모델을 개발하고… | by Jaeyoon Chun(Aio) | 당근마켓 팀블로그 | Jan, 2022 | Medium](https://medium.com/daangn/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%AA%A8%EB%8D%B8%EB%A1%9C-%EB%8F%99%EB%84%A4%EC%83%9D%ED%99%9C-%EC%8B%A0%EA%B3%A0-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0-3b96608960)
+* [Why 90 percent of all machine learning models never make it into production | by Ari Joury | Towards Data Science](https://towardsdatascience.com/why-90-percent-of-all-machine-learning-models-never-make-it-into-production-ce7e250d5a4a)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -1124,6 +1126,8 @@ Machine Learning
   * ['책임 있는 AI' 설계 가이드… 마이크로소프트 HAX의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/203244)
 * [hyperopt - Distributed Asynchronous Hyperparameter Optimization in Python](https://github.com/hyperopt/hyperopt)
 * [Impyute - a library of missing data imputation algorithms written in Python 3](https://impyute.readthedocs.io)
+* [interviews.ai: It is my belief that you, the postgraduate students and job-seekers for whom the book is primarily meant will benefit from reading it; however, it is my hope that even the most experienced researchers will find it fascinating as well](https://github.com/BoltzmannEntropy/interviews.ai)
+  * [딥러닝 인터뷰 북 401P e북 PDF | GeekNews](https://news.hada.io/topic?id=5722)
 * [**JupyterFlow - Run your workflow on JupyterHub**](https://jupyterflow.com/)
   * [번역 데이터 과학자들은 쿠버네티스에 관심이 없습니다 - MLOps | 커피고래의 노트](https://coffeewhale.com/kubernetes/mlops/2021/01/28/mlops-determinedai/)
   * [데이터 과학자를 위한 ML툴 | 커피고래의 노트](https://coffeewhale.com/kubernetes/mlops/2021/03/02/mlops-jupyterflow/)
@@ -1172,6 +1176,8 @@ Machine Learning
 * [rc-data - Question answering dataset featured in "Teaching Machines to Read and Comprehend](https://github.com/deepmind/rc-data/)
 * [replicate: Version control for machine learning](https://github.com/replicate/replicate)
   * [Replicate – Version control for machine learning](https://replicate.ai/)
+* [SynapseML: Simple and Distributed Machine Learning](https://github.com/microsoft/SynapseML)
+  * [SynapseML - 머신러닝 파이프라인 생성용 오픈소스 라이브러리 | GeekNews](https://news.hada.io/topic?id=5662)
 * [SystemML - IBM's SystemML Machine Learning - Now Apache SystemML http://systemml.apache.org ](https://github.com/SparkTC/systemml)
 * [traingenerator: 🧙 A web app to generate template code for machine learning](https://github.com/jrieke/traingenerator)
 * [Tribuo - A Java machine learning library](https://github.com/oracle/tribuo)
@@ -1323,6 +1329,7 @@ Machine Learning
     * [ECE1513_Introduction_to_JAX](https://colab.research.google.com/drive/15Nn1i5AgfkLBdMGTif-RnfwqZrn1BPKQ) .ipynb
     * [ECE1513_Introduction_to_JAX_Student_Solutions](https://colab.research.google.com/drive/1YsoctmFgZ0joXdMqEHmTsP3AAyhyNlzI) .ipynb
   * [Intro to JAX: Accelerating Machine Learning research - YouTube](https://www.youtube.com/watch?v=WdTeDXsOSj4)
+  * [Engineering Trade-Offs in Automatic Differentiation: from TensorFlow and PyTorch to Jax and Julia - Stochastic Lifestyle](http://www.stochasticlifestyle.com/engineering-trade-offs-in-automatic-differentiation-from-tensorflow-and-pytorch-to-jax-and-julia/)
 * [merlin: Kubernetes-friendly ML model management, deployment, and serving](https://github.com/gojek/merlin)
   * [Machine Learning Models as Tables - ClickHouse Software And Services | Altinity](https://altinity.com/blog/2020/08/10/machine-learning-models-as-tables)
 * [mljar-supervised: Automated Machine Learning Pipeline with Feature Engineering and Hyper-Parameters Tuning](https://github.com/mljar/mljar-supervised)
