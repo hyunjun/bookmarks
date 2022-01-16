@@ -163,6 +163,7 @@ Artificial Intelligence
 * [최신 인공지능을 배울 수 있는 좋은 소스](https://brunch.co.kr/@gauss92tgrd/41)
 * [8 Best Free Courses to Learn AI (Artificial Intelligence) in 2021](https://www.mltut.com/best-free-courses-to-learn-ai/)
 * [6 Best Artificial Intelligence Courses for Healthcare in 2022](https://www.mltut.com/best-artificial-intelligence-courses-for-healthcare/)
+* [AI And Machine Learning Full Course 2022 | AI Tutorial | Machine Learning Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=0lmQEo3NIJ4)
 * [alina.ai/courses/practical_dl_for_coders](http://alina.ai/courses/practical_dl_for_coders/) 코더들을 위한 실전 딥러닝 강의
 * [Artificial Intelligence Lecture Series](https://www.youtube.com/playlist?list=PLdPz9_rcdD97b3iExKYmla8vjlsc_k1ee)
 * [blog.alina.ai/courses/ai-pm](http://blog.alina.ai/courses/ai-pm/)
