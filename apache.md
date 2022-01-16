@@ -1082,6 +1082,10 @@ Apache
   * Apache Kafka와 Apache Samza에 기반한 배치 시스템을 사용
   * 처리량을 향상시키기 위해 데이터 처리는 각 데이터센터에서 하도록 설계
 
+# SeaTunnel
+* [incubator-seatunnel: SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline & real-time)](https://github.com/apache/incubator-seatunnel)
+* [Apache SeaTunnel - 분산, 고성능 데이터 통합 플랫폼 | GeekNews](https://news.hada.io/topic?id=5691)
+
 # SINGA
 * [SINGA](http://singa.apache.org/docs/overview.html) a general distributed deep learning platform for training big deep learning models over large datasets
 
