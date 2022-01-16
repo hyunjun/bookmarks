@@ -3359,6 +3359,7 @@ Programming
 * [마케팅에 'RPA' 도입하기 전에... CMO가 알아야 할 것 - CIO Korea](https://www.ciokorea.com/news/208897)
 * [Faster Financial Software Development Using Low Code: Focusing on the Four Key Metrics](https://www.infoq.com/articles/financial-software-low-code/)
 * [APEX 사례로 보는 Low Code](https://jhrogue.blogspot.com/2021/09/apex-low-code.html)
+* [The Road to Intelligent Process Automation - Gradient Flow](https://gradientflow.com/the-road-to-intelligent-process-automation/)
 * Bubble [The best way to build web apps without code | Bubble](https://bubble.io/)
   * [노 코드 툴, ‘버블’의 A to Z | ㅍㅍㅅㅅ](https://ppss.kr/archives/247069)
 * [Lowdefy - Build internal tools with YAML | Lowdefy - Build internal tools with YAML](https://lowdefy.com/)
