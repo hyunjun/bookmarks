@@ -885,6 +885,7 @@ Git
   * [GitHub Copilot의 8가지 대안](https://open-support.tistory.com/entry/GitHub-Copilot%EC%9D%98-8%EA%B0%80%EC%A7%80-%EB%8C%80%EC%95%88)
   * [Copilot 설명 및 사용기 | GeekNews](https://news.hada.io/topic?id=4745)
   * [GitHub's Copilot Still a Long Way From Autopilot](https://www.infoq.com/news/2021/10/github-copilot-study/)
+  * [칼럼ㅣ깃허브 코파일럿에서 ‘희망’을 보았다 - CIO Korea](https://www.ciokorea.com/news/214314)
   * [copilot-docs/docs at main · github/copilot-docs](https://github.com/github/copilot-docs/tree/main/docs) Copilot JetBrains와 Neovim에서 이용 가능
 * [delta: A viewer for git and diff output](https://github.com/dandavison/delta)
 * [dns.js.org - free and sleek URL for GitHub Pages](http://dns.js.org/)
