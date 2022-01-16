@@ -264,6 +264,7 @@ SQL
 * [db_seeder: Relational database data generator..](https://github.com/KonnexionsGmbH/db_seeder)
 * ERD
   * [ERD 다이어그램 툴 종류와 설치 경로 정리](http://gomcine.tistory.com/entry/ERD-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%ED%88%B4-%EC%A2%85%EB%A5%98%EC%99%80-%EC%84%A4%EC%B9%98-%EA%B2%BD%EB%A1%9C-%EC%A0%95%EB%A6%AC)
+  * [ERD (Entity-Relation Diagram) 표기법](https://hudi.blog/entity-relation-diagram/)
   * [AQueryTool은 웹 기반 ERD 툴 + SQL 자동 생성 프로그램](http://aquerytool.com/)
   * [dbdiagram - Draw Entity-Relationship Diagrams, Painlessly](https://dbdiagram.io/)
   * [DBML: Database Markup Language · /usr/lib/libsora.so](https://libsora.so/posts/dbml-entity-relation-diagram-as-code/)
