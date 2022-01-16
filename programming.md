@@ -2190,6 +2190,7 @@ Programming
   * [Slip - 프로그래밍 강의를 만들어서 판매하기 | GeekNews](https://news.hada.io/topic?id=4804)
 * [sololearn.com](https://www.sololearn.com/)
 * [Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) SICP
+  * [Structure and Interpretation of Computer Programs | The MIT Press](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
 * [Timilearning - A blog by Timi Adeniran](https://timilearning.com/)
 * [woz-u.com](https://woz-u.com/)
