@@ -1330,6 +1330,7 @@ Docker
   * [Kubeflow – Fairing](https://www.kangwoo.kr/2020/03/14/kubeflow-fairing/)
   * [Kubeflow 파이프라인 운용하기](https://medium.com/daangn/kubeflow-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%9A%B4%EC%9A%A9%ED%95%98%EA%B8%B0-6c6d7bc98c30)
   * [조대협의 블로그 :: Kubeflow pipeline 과 TFX 메모](https://bcho.tistory.com/1378)
+  * [실시간 추천을 위한 kubeflow 환경 구축 :: GS Retail Engineering](https://gsretail.tistory.com/12)
   * [krsh: A declarative KubeFlow Management Tool](https://github.com/riiid/krsh)
     * Kubeflow Pipeline을 선언적으로 관리하기 위한 툴킷
     * Riiid에서는 Kubeflow Pipeline으로 머신러닝 파이프라인을 관리. Kubeflow Pipeline은 Kubernetes 위에서 파이프라인을 관리하는 머신러닝 분야의 Airflow 역할
