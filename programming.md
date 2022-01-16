@@ -2255,6 +2255,7 @@ Programming
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
+* Fail2Ban [기본적 서버 보안 프로그램, Fail2Ban 사용법 기초부터 실전 사용법까지 알아 보기 | 웹으로 말하기](https://mytory.net/2022/01/16/fail2ban.html)
 * FIDO [line-fido2-server: FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples](https://github.com/line/line-fido2-server)
   * [What is FIDO? - FIDO Alliance](https://fidoalliance.org/what-is-fido/)
     * FIDO: 패스워드 없이 인증을 할 수 있게 하는 표준
