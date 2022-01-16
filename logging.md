@@ -91,6 +91,15 @@ Logging
 * [Palallax - Open Source Log Analyzer for Palo Alto Networks Next-Generation Firewall](http://www.ap-com.co.jp/ja/paloalto/palallax/index_en.html)
 * [SenseLogs - Instant log data in seconds, not minutes](https://www.sensedeep.com/senselogs/)
 * [YALV - Yet Another Log Viewer](http://marsinvasion.github.io/yalv/)
+* [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
+  * Zipkin을 이용한 MSA 환경에서 분산 트렌젝션의 추적
+    * [#1](http://bcho.tistory.com/1243)
+    * [#2 - Spring과 Zipkin을 이용한 추적](http://bcho.tistory.com/1244)
+    * [#3 -Stackdriver를 zipkin으로 사용하기](http://bcho.tistory.com/1245)
+  * [Zipkin과 Scouter v2.5를 연동해보자](https://gunsdevlog.blogspot.com/2018/11/how-to-use-zipkin-scouter-storage.html)
+  * [LINE 광고 플랫폼의 MSA 환경에서 Zipkin을 활용해 로그 트레이싱하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-ads-msa-opentracing-zipkin/)
+  * [Distributed tracing with Spring Cloud Sleuth and Zipkin | Spring Boot | Microservices | Example Code - YouTube](https://www.youtube.com/watch?v=hEgdIT7AEfc)
+  * [How to Implement Distributed Logging & Tracing using Sleuth & Zipkin? - Making Java easy to learn](https://javatechonline.com/how-to-implement-distributed-logging-tracing-using-sleuth-zipkin/)
 
 # Logrotate
 * [logrotate 사용하기 (CentOS 기준)](http://jybaek.tistory.com/761)

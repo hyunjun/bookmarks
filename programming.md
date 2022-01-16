@@ -1439,14 +1439,6 @@ Programming
 * [ssup2ket](https://github.com/ssup2ket/ssup2ket)
   * [ssup2ket-auth-service: ssup2ket user service](https://github.com/ssup2ket/ssup2ket-auth-service)
   * [ssup2ket-store-service](https://github.com/ssup2ket/ssup2ket-store-service)
-* [Zipkin - a distributed tracing system](https://github.com/openzipkin/zipkin)
-  * Zipkin을 이용한 MSA 환경에서 분산 트렌젝션의 추적
-    * [#1](http://bcho.tistory.com/1243)
-    * [#2 - Spring과 Zipkin을 이용한 추적](http://bcho.tistory.com/1244)
-    * [#3 -Stackdriver를 zipkin으로 사용하기](http://bcho.tistory.com/1245)
-  * [Zipkin과 Scouter v2.5를 연동해보자](https://gunsdevlog.blogspot.com/2018/11/how-to-use-zipkin-scouter-storage.html)
-  * [LINE 광고 플랫폼의 MSA 환경에서 Zipkin을 활용해 로그 트레이싱하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-ads-msa-opentracing-zipkin/)
-  * [Distributed tracing with Spring Cloud Sleuth and Zipkin | Spring Boot | Microservices | Example Code - YouTube](https://www.youtube.com/watch?v=hEgdIT7AEfc)
 
 ## Architecture Serverless
 * [Serverless-ish: A scaling story - Queue-based Autoscaling Microservices](https://codeburst.io/serverless-ish-a-scaling-story-5732945b93ab)
@@ -1626,6 +1618,7 @@ Programming
 * [OCI 탐험 일지 1. 인스턴스 생성](https://jhrogue.blogspot.com/2021/12/oci-1.html)
 * [OCI 탐험 일지 2. 블록 볼륨 생성](https://jhrogue.blogspot.com/2021/12/oci-2.html)
 * [OCI 탐험 일지 3. 서비스 가용성](https://jhrogue.blogspot.com/2022/01/oci-3.html)
+* [전문 지식 없어도 인공지능 모델 구현·배포한다...오라클 'OCI AI 서비스' 한국진출 위해 한국어 학습 중 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=23987)
 * [클라우드 우분투에 gui로 원격 연결하기](https://evols-atirev.tistory.com/27)
 * [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
 * [‘역설투성이'··· 우리가 클라우드를 싫어하는 11가지 이유 - CIO Korea](https://www.ciokorea.com/news/177989)
