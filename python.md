@@ -429,6 +429,7 @@ Python
 * [Chiel Peters - Python: From Source to Execution | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=xfC5o8HxaBk)
 * [Clean Code in Python. “A long descriptive name is better than… | by Esteban Solorzano | Dev Genius | Medium](https://medium.com/dev-genius/clean-code-in-python-8251eea292fa)
 * [10 Quick Clean Coding Hacks in Python | by Sruthi Korlakunta | Towards Data Science](https://towardsdatascience.com/10-quick-and-clean-coding-hacks-in-python-1ccb16aa571b)
+* [KDnuggets™ News 21:n48, Dec 22: Write Clean Python Code Using Pipes; 5 Key Skills Needed To Become a Great Data Scientist - KDnuggets](https://www.kdnuggets.com/2021/n48.html)
 * [Use Python to Power Up Your Day Job | by Martin Andersson Aaberge | Better Programming | Medium](https://medium.com/better-programming/how-to-use-python-to-power-up-your-day-job-c6cd835a7c92)
 * [The Unseen Pitfalls of Python. Because 257 is not 257 but 256 is 256 | by Salvador Aleguas | codeburst](https://codeburst.io/the-unseen-pitfalls-of-python-7ca57f021d08)
 * [5 Python Code Smells You Should Be Wary Of | by Anupam Chugh | Towards Data Science](https://towardsdatascience.com/5-python-code-smells-you-should-be-wary-of-c48cc0eb9d8b)
