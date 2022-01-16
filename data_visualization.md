@@ -98,6 +98,7 @@ Data Visualization
 * [데이터를 시각적으로 표현하기 위한 문법 - GRAMMAR OF GRAPHICS](https://lumiamitie.github.io/data/grammar-of-graphics/)
 * [데이터로 보는 개봉 영화 (1) 장르 | 데이터스토리 | 통합 데이터 지도](https://www.bigdata-map.kr/datastory/new/story_23)
 * [데이터로 보는 개봉 영화 (2) 박스오피스 | 데이터스토리 | 통합 데이터 지도](https://www.bigdata-map.kr/datastory/new/story_24)
+* [VW LAB :: 반응형 유동인구/매출액 Viewer](https://www.vw-lab.com/99) C++
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
@@ -125,6 +126,8 @@ Data Visualization
 * [VW LAB :: 보궐선거 득표율 반응형 지도 사용법](https://www.vw-lab.com/88)
 * [VW LAB :: OD 시각화 1 : 여러가지 시도](https://www.vw-lab.com/89)
 * [VW LAB :: OD 시각화 2 : 전국 인구 순이동](https://www.vw-lab.com/90)
+* [VW LAB :: 대한민국 시군구 인구 변화 시각화(1975~2020)](https://vw-lab.tistory.com/100)
+* [VW LAB :: 시군구별 연령별 인구 변화 시각화(2000~2020)](https://vw-lab.tistory.com/101)
 * [Quaternions: Part 1 - Lior Sinai](https://liorsinai.github.io/mathematics/2021/11/05/quaternion-1-intro.html)
 * [Quaternions: Part 2 - Lior Sinai](https://liorsinai.github.io/mathematics/2021/11/28/quaternion-2-2d)
 * [Quaternions: Part 3 - Lior Sinai](https://liorsinai.github.io/mathematics/2021/12/03/quaternion-3)
@@ -301,6 +304,7 @@ Data Visualization
 * [BayPiggies meeting January 2021: Serverless Computing with Wesley Chun and More! - YouTube](https://www.youtube.com/watch?v=nOj8y_gjSWI)
 * [Albert Tian Chen - COVIDCG:SARS-CoV-2 Mutation Tracking + Genomic Data Visualization | PyData Boston - YouTube](https://www.youtube.com/watch?v=G744eRCdAYo)
 * [Global AI Boot Camp Busan : 이왕이면 다홍 데이터 (Python Visualization)](https://www.slideshare.net/SubinAn1/ss-205782769)
+* [12 Data Plot Types for Visualisation from Concept to Code - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/12/12-data-plot-types-for-visualization/)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
 * [Awesome Panel](https://awesome-panel.org/)
