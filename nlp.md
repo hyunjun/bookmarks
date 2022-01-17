@@ -1110,6 +1110,7 @@ NLP
 * Jarvis [Introducing NVIDIA Jarvis: A Framework for GPU-Accelerated Conversational AI Applications](https://devblogs.nvidia.com/introducing-jarvis-framework-for-gpu-accelerated-conversational-ai-apps/)
 * [kakaotalk_msg_preprocessor: 카카오톡 채팅방에서 대화 내보내기를 통해 생성한 파일을 전처리해주는 라이브러리입니다](https://github.com/uoneway/kakaotalk_msg_preprocessor)
 * [Kanji recognition - implementation of Nei Kato's directional feature extraction algorithm](https://github.com/bitbanger/gogaku)
+* [KETI/KE-T5-Vision](https://github.com/AIRC-KETI/KE-T5-Vision)
 * [khaiii](https://github.com/kakao/khaiii)
   * [카카오의 딥러닝 기반 형태소 분석기](https://brunch.co.kr/@kakao-it/308)
   * [kakao의 오픈소스 Ep9 - Khaiii : 카카오의 딥러닝 기반 형태소 분석기](http://tech.kakao.com/2018/12/13/khaiii/)
