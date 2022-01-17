@@ -3009,6 +3009,9 @@ Programming
   * [기술 뉴스 #185 : 21-11-02 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1569)
   * [기술 뉴스 #186 : 21-11-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1570)
   * [기술 뉴스 #187 : 21-12-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1571)
+  * [기술 뉴스 #188 : 21-12-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1572)
+  * [기술 뉴스 #189 : 22-01-02 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1576)
+  * [기술 뉴스 #190 : 22-01-17 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1578)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
