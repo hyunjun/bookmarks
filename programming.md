@@ -2455,11 +2455,12 @@ Programming
 * [Project TIMAT - infrastructure as code](https://www.slideshare.net/jesangyoon/project-timat-infrastructure-as-code)
 * [When to use which Infrastructure-as-code tool](https://medium.com/cloudnativeinfra/when-to-use-which-infrastructure-as-code-tool-665af289fbde) 여러가지 IaaS tool 소개
 * [Learn about different open source based Infrastructure as Code (IAC) tools for DevOps - YouTube](https://www.youtube.com/watch?v=nUwj01ROjfs)
+* [코드형 인프라, 보안이 필요한 이유와 베스트 프랙티스 - ITWorld Korea](https://www.itworld.co.kr/news/200844) IaC
+* [Infrastructure as Code (IaC): Mastering code automation | by Serigne DIAW | Jan, 2022 | Medium](https://diawahad.medium.com/infrastructure-as-code-iac-mastering-code-automation-8ba904871b0a)
 * [Infra as Code with Packer, Ansible and Terraform](https://www.slideshare.net/InhoKang2/infra-as-code-with-packer-ansible-and-terraform)
 * [History of Infra as Code](https://www.infoq.com/presentations/history-infra-as-code/)
 * [Infrastructure as Code](https://www.hashicorp.com/products/terraform/infrastructure-as-code)
 * [What Infrastructure as Code is All About & How Terraform Helps you Work With It - YouTube](https://www.youtube.com/watch?v=IRHqgXRLb0w)
-* [코드형 인프라, 보안이 필요한 이유와 베스트 프랙티스 - ITWorld Korea](https://www.itworld.co.kr/news/200844) IaC
 * [History of Infra as Code - YouTube](https://www.youtube.com/watch?v=9kQ5l26mmbU)
 * [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1)
 * [Scaling Infrastructure Engineering at Slack](https://www.youtube.com/watch?v=yHBwoZh1Mxg)
