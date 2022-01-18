@@ -48,6 +48,7 @@ C#
 * [C# for Pentesters - Part III - Classic DLL Injection - YouTube](https://www.youtube.com/watch?v=fCfneKhiYBw)
 * [C# for Pentesters - Part IV - Bypass Antivirus using PowerShell without PowerShell.exe - YouTube](https://www.youtube.com/watch?v=lS7IGDtfkHM)
 * [Building a Source Generator for C#](https://www.infoq.com/articles/CSharp-Source-Generator/)
+* [Using the “smart” Using keyword C# | by Bernardo Teixeira | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/using-the-smart-using-keyword-c-715858d800b2)
 
 # API
 * [C# Futures: Null Check Operator](https://www.infoq.com/news/2020/07/CSharp-Null-Check/)
