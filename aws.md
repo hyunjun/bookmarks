@@ -763,6 +763,14 @@ AWS
 * [Amazon EKS 사용자도 Kubeflow를 잘 배포하고 싶습니다 | by Sungin Lee | Cloud Villains | Nov, 2021 | Medium](https://medium.com/ctc-mzc/amazon-eks-%EC%82%AC%EC%9A%A9%EC%9E%90%EB%8F%84-kubeflow%EB%A5%BC-%EC%9E%98-%EB%B0%B0%ED%8F%AC%ED%95%98%EA%B3%A0-%EC%8B%B6%EB%8B%A4-65f8189b86ad)
 * [Autoscaling group with warm pool on Kubernetes AWS EKS with Terraform — Yes! It's possible! | by Mayara Gouveia | Oct, 2021 | Medium](https://gb8may.medium.com/autoscaling-group-with-warm-pool-on-kubernetes-aws-eks-with-terraform-yes-its-possible-92f6fb9bf7e8)
 * [EKS (AWS) AND RBAC, step by step. Introduction | by David De Juan Calvo | Globant | Medium](https://medium.com/globant/rbac-and-eks-aws-step-by-step-e2f9c38f1aeb)
+* [GitOps model for provisioning and bootstrapping Amazon EKS clusters using Crossplane and Argo CD | Containers](https://aws.amazon.com/ko/blogs/containers/gitops-model-for-provisioning-and-bootstrapping-amazon-eks-clusters-using-crossplane-and-argo-cd/)
+  * Kubernetes를 이용해도 S3나 SQS같은 Kubernetes 밖의 관리 리소스가 필요, 이를 Crossplane을 이용해서 프로비저닝하는 방법 설명
+  * Crossplane은 Kubernetes API를 이용해서 클라우드 리소스를 관리
+  * 기존의 Kubernetes 클러스터를 이용해서 Crolssplane을 ArgoCD로 설정하고 이를 이용해서 EKS 클러스터를 생성하는 방법 소개. [예제 코드](https://github.com/aws-samples/eks-gitops-crossplane-argocd)도 제공
+* [GitOps model for provisioning and bootstrapping Amazon EKS clusters using Crossplane and Flux | Containers](https://aws.amazon.com/ko/blogs/containers/gitops-model-for-provisioning-and-bootstrapping-amazon-eks-clusters-using-crossplane-and-flux/)
+  * 바로 위 ArgoCD와 Crossplane을 설정한 방법을 Flux와 Crolssplane으로 설명한 글
+* [Amazon Elastic Kubernetes Service에 IPv6 네트워킹 기능 추가 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-elastic-kubernetes-service-adds-ipv6-networking/)
+  * AWS EKS에서는 각 Pod이 IP 주소를 수신하면서 VPC 내의 IP 주소가 많이 필요한 문제 존재, IPv6가 이제 도입되어 IP 주소 고갈 문제 방지 & 라우팅 간소화
 * [EKS Anywhere](https://anywhere.eks.amazonaws.com/)
   * 아마존 EKS을 온프레미스 환경에서 설치해서 Kubernetes 클러스터를 운영할 수 있도록 아마존에서 EKS Anyware를 오픈소스로 공개
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
