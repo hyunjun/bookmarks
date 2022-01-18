@@ -735,6 +735,7 @@ App
       * [VSCode에서 Bracket Pair Colorizer 삭제하고 내장 기능 사용하기 | by Bora Lee | Oct, 2021 | Medium](https://violetboralee.medium.com/vscode%EC%97%90%EC%84%9C-bracket-pair-colorizer-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B3%A0-%EB%82%B4%EC%9E%A5-%EA%B8%B0%EB%8A%A5-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-e75558a87990)
       * [임베디드 개발자의 vscode + c/cpp extention 사용기 : 클리앙](https://www.clien.net/service/board/use/15746297)
       * [Red Hat Releases Language Support for Java Plugin 1.0 for VSCode](https://www.infoq.com/news/2021/11/java-plugin-version-1-vscode/)
+      * [12 VS Code extensions for 2022 - YouTube](https://www.youtube.com/watch?v=g1IEmnNBul8)
     * Git
       * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
       * [mac에서 visual studio code를 git commit editor로 설정하기](http://blog.woniper.net/352)
