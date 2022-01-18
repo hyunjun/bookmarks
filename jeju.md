@@ -48,6 +48,7 @@
 * [제주도에서 먹고온 음식점 사용기](https://www.clien.net/service/board/use/10748210)
 * [제주도 빵집 서귀포 봉주르마담](http://wangeme.blog.me/220951950308)
 * [제주도 식당 및 카페, 베이커리 정보](https://docs.google.com/spreadsheets/d/17PIrAN80zpt8Q7tg-jCC3shyv0P-YzoBhispqMrf22Y)
+* [함덕 수제버거맛집 '무거버거' 메뉴와 가격](https://blog.naver.com/lingfei0212/222321921764)
 
 # Sightseeing
 * [스마일러 커피](http://place.map.daum.net/24370496) 애월, 동물 테마 카페
