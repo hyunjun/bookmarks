@@ -2260,6 +2260,7 @@ Python
 * [장고 라이트닝 토크 - YouTube](https://www.youtube.com/watch?v=NP1Gz5JTtBg)
 * [django transaction 궁금증](https://gist.github.com/cuhong/b8358cae0f5bc3198c9015fcd34bb456)
 * [Django Transaction(트랜잭션) 1편 - Request와 DB Transaction 묶기(Feat. ATOMIC_REQUESTS)](https://myjorney.tistory.com/142)
+* [Django DB Transaction 2편 - 명시적으로 transaction 활용하기. (feat. savepoint)](https://myjorney.tistory.com/146)
 * [Daniel Feldroy - YouTube](https://www.youtube.com/c/DanielFeldroy/videos)
 * [Django 3.1 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/django-3-1-release-note-summary)
 * [Django 3.2 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/django-3-2-release-note-summary)
