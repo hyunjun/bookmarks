@@ -942,6 +942,7 @@ Business
 * [MVP의 높아지는 ‘minimum’ 기준](http://www.thestartupbible.com/2015/04/the-minimum-in-mvp-is-getting-much-better.html)
 * [최소 기능 제품, MVP에 던지는 5가지 질문 - ITWorld Korea](https://www.itworld.co.kr/news/212179)
 * [린스타트업 MVP 설정의 어려움](https://brunch.co.kr/@graypool/10)
+* [Why Product Thinking is so Hard (and what you can do about it) - YouTube](https://www.youtube.com/watch?v=g6neBwgUds4) MVP
 * [Build a Minimum *Loveable* Product](https://pichsenmeister.com/build-a-minimum-lovable-product/)
 * [프로토타입 외주 개발 왜 실패할까](http://www.venturesquare.net/581594)
 * [스타트업에 의해 해체되는 대기업: Unbundling 현상](http://estimastory.com/2015/04/21/unbundling/)
