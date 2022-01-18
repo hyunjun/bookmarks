@@ -521,6 +521,7 @@ App
 * [10 Awesome Free Productivity Tools and Websites for Developers | by Nicholas Obert | Dec, 2021 | Better Programming](https://betterprogramming.pub/10-awesome-free-productivity-tools-and-websites-for-developers-47310707fda2)
 * [25 Must-Visit Killer Websites For Developers | by Astrodevil | Dec, 2021 | Dev Genius](https://blog.devgenius.io/25-must-visit-killer-websites-for-developers-7d15aceb7508)
 * [5 Dev Tools To Look Out For In 2022 | by Carlo Morrone | Dec, 2021 | Better Programming](https://betterprogramming.pub/5-dev-tools-to-look-out-for-in-2022-713f94c0f3cf)
+* [8 Best Developers Tools for Linux | Linux Tutorial](https://blog4hacking.blogspot.com/2022/01/8-best-developers-tools-for-linux-linux.html)
 * [aquerytool.com](http://aquerytool.com/) DB schema
 * [asdf: Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more](https://github.com/asdf-vm/asdf)
   * [asdf - An extendable version manager](https://asdf-vm.com/)
