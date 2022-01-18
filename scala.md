@@ -968,6 +968,7 @@ Scala
     * [Introduction to ZIO | Baeldung on Scala](https://www.baeldung.com/scala/zio-intro)
     * [Experts Share Why They Choose ZIO Scala Library](https://scalac.io/blog/zio-experts-share-why-they-choose-zio-scala/)
     * [ZIO environment: episode 3](https://softwaremill.com/zio-environment-episode-3/)
+    * [building a ZIO app from scratch with Adam Fraser - YouTube](https://www.youtube.com/watch?v=NXQlu3sTHEg)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
