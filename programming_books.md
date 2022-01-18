@@ -87,7 +87,7 @@ Programming Books
 * [사용자를 유혹하는 UX의 기술](https://brunch.co.kr/@upleat/105)
   * 2021.12.08
   * ★★★☆☆ 잘 모르는 분야라 훝어 보는 정도로 읽었는데 군데군데 쉽게 적용할 수 있을 듯한 부분도 보여서 좋았음
-* 프로그래머의 뇌
+* [프로그래머의 뇌. 프로그래밍과 직접 연관된 부분은 거의 없지만, 여러가지 시사점을… | by Jun | Jan, 2022 | Medium](https://nymets.medium.com/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%87%8C-fb28e58477f2)
   * 2022.01.14
   * ★★★★☆ 독특하게도 프로그래밍과는 대부분 무관하거나 혹은 간접적인 이야기를 하는 프로그래머에 대한 책
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
