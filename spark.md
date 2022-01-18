@@ -986,6 +986,7 @@
 * [Spark Plugin Framework in 3.0 - Part 5 : RPC Communication](http://blog.madhukaraphatak.com/spark-plugin-part-5/)
 * [Adaptive Query Execution in Spark 3.0 - Part 1 : Introduction](http://blog.madhukaraphatak.com/spark-aqe-part-1/)
 * [Adaptive Query Execution in Spark 3.0 - Part 2 : Optimising Shuffle Partitions](http://blog.madhukaraphatak.com/spark-aqe-part-2/)
+* [AQE: Coalescing Post Shuffle Partitions – tech.kakao.com](https://tech.kakao.com/2022/01/18/aqe-coalescing-post-shuffle-partitions/)
 * [Distributed TensorFlow on Apache Spark 3.0](http://blog.madhukaraphatak.com/tensorflow-on-spark-3.0/)
 * [Barrier Execution Mode in Spark 3.0 - Part 1 : Introduction](http://blog.madhukaraphatak.com/barrier-execution-mode-part-1/)
 * [Barrier Execution Mode in Spark 3.0 - Part 2 : Barrier RDD](http://blog.madhukaraphatak.com/barrier-execution-mode-part-2/)
