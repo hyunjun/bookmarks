@@ -2239,6 +2239,7 @@ Python
 * [장고 프로젝트 Django Simple Web Project - 1 (장고 설치하기)](https://woolbro.tistory.com/3)
 * [python개발자 uwsgi를 버리고 gunicorn으로 갈아타다](https://medium.com/@elastic7327/python개발자-uwsgi를-버리고-gunicorn으로-갈아타다-df1c95f220c5)
 * [운영중인 장고 + 지유니콘 백엔드 메모리 누수 문제 해결 production django + gunicorn backend memory leak fix (feat uwsgi)](https://medium.com/@elastic7327/%EC%9A%B4%EC%98%81%EC%A4%91%EC%9D%B8-%EC%9E%A5%EA%B3%A0-%EC%A7%80%EC%9C%A0%EB%8B%88%EC%BD%98-%EC%95%B1%EB%B0%B1%EC%97%94%EB%93%9C-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%88%84%EC%88%98-%EB%AC%B8%EC%A0%9C-%ED%95%B4%EA%B2%B0-production-django-gunicorn-backend-memory-leak-fix-feat-uwsgi-b6013e3e0514)
+* [Deploying Django with Docker Compose, Gunicorn and Nginx - YouTube](https://www.youtube.com/watch?v=vJAfq6Ku4cI)
 * [Python and django](https://www.youtube.com/playlist?list=PLxvvv6r2iXY8kteUZ7Q2Ts0T0qLcMYSSI) Python and django full stack Web Developer bootcamp
 * [How to Serve Protected Content With Django (Without Bogging Down Your Application Server)](https://wellfire.co/learn/nginx-django-x-accel-redirects/) logout 후 content에 접근을 막는 방법
 * [Django: Truncated or oversized response headers received from daemon process 에러 해결법](https://beomi.github.io/2018/03/09/Truncated_or_oversized_response_headers_received_from_daemon_process_django_wsgi/)
@@ -2297,7 +2298,7 @@ Python
   * [Building an API with Django REST Framework and Class-Based Views](https://codeburst.io/building-an-api-with-django-rest-framework-and-class-based-views-75b369b30396)
   * [Building With Django REST Framework in Python - YouTube](https://www.youtube.com/watch?v=D0OaOw-Jdg4)
   * [Python/Django 웹서비스 5년간의 개발 운영 경험기. 안정호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=r6c9Us0vgRg)
-  * [drf-yasg](https://drf-yasg.readthedocs.io/
+  * [drf-yasg](https://drf-yasg.readthedocs.io/)
 * [kolo: See everything happening in your running Django app. All without leaving VSCode](https://github.com/kolofordjango/kolo)
 * [python-social-auth/social-app-django: Python Social Auth - Application - Django](https://github.com/python-social-auth/social-app-django)
 * Wagtail [Django Content Management System | Wagtail CMS](https://wagtail.io/)
@@ -4261,6 +4262,7 @@ Python
   * [mpi4jax: Zero-copy MPI communication of JAX arrays, for turbo-charged HPC applications in Python](https://github.com/mpi4jax/mpi4jax)
 * Mars [Alibaba Open-Sources Mars to Complement NumPy](https://medium.com/syncedreview/alibaba-open-sources-mars-to-complement-numpy-ea215ff1fa2f)
 * [Numexpr - a fast numerical expression evaluator for NumPy](https://pypi.python.org/pypi/numexpr)
+* numpy-financial [How to Use the Future Value Function in Python NumPy Financial - YouTube](https://www.youtube.com/watch?v=JPaT_wGshJ0)
 * [tinynumpy - A lightweight, pure Python, numpy compliant ndarray class](https://github.com/wadetb/tinynumpy)
 
 # Pandas
