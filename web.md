@@ -130,8 +130,6 @@ Web
 * [2019년 웹 개발자가 되기 위한 로드맵](https://github.com/devJang/developer-roadmap)
 * [display: table을 사용한 갯수 가변 그래프](https://hyeonseok.com/soojung/css/2017/04/12/814.html)
 * [UX world 2017 Spring : 후기와 강의 노트](https://dailyhotel.io/ux-world-2017-spring-%ED%9B%84%EA%B8%B0%EC%99%80-%EA%B0%95%EC%9D%98-%EB%85%B8%ED%8A%B8-f3bb5b581821)
-* [웹개발자를 위한 HTML/CSS/JS 온라인 코드에디터](https://brunch.co.kr/@pilsogood/9)
-* [</> htmx - high power tools for html](https://htmx.org/)
 * [Node.js, PHP/JSP/ASP 및 Apache/Nginx에 대한 비교](https://okky.kr/article/403922)
 * [Front-End Developer Handbook 2017](https://frontendmasters.com/books/front-end-handbook/2017/)
 * [개알못인 당신이 웹개발을 시작한다면 (1)](https://medium.com/happyprogrammer-in-jeju/%EA%B0%9C%EC%95%8C%EB%AA%BB%EC%9D%B8-%EB%8B%B9%EC%8B%A0%EC%9D%B4-%EC%9B%B9%EA%B0%9C%EB%B0%9C%EC%9D%84-%EC%8B%9C%EC%9E%91%ED%95%9C%EB%8B%A4%EB%A9%B4-1-9415c014a130)
@@ -183,16 +181,12 @@ Web
   * [HTTP decision diagram](https://camo.githubusercontent.com/4e15cccf2a9277dcca2c8824092547dee7058744/68747470733a2f2f7261776769746875622e636f6d2f666f722d4745542f687474702d6465636973696f6e2d6469616772616d2f6d61737465722f6874747064642e706e67)
 * [Optimize your web apps for Interactive Canvas](https://medium.com/google-developers/optimize-your-web-apps-for-interactive-canvas-18f8645f8382)
 * [삽질하기 싫으면 꼭 읽어봐야 할 Canvas 트러블 슈팅 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210526)
-* [HTML Canvas를 활용하여 인터랙티브 콘텐츠 만들기. Canvas(캔버스) 기술은 일반적인 HTML 요소로는 표현하기 힘든… | by 이예찬 | Uniquegood | May, 2021 | Medium](https://medium.com/uniquegood/html-canvas%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9D%B8%ED%84%B0%EB%9E%99%ED%8B%B0%EB%B8%8C-%EC%BD%98%ED%85%90%EC%B8%A0-%EB%A7%8C%EB%93%A4%EA%B8%B0-3ef51c33323e)
-* [FE개발자의 성장 스토리 09 : Offscreencanvas 적용기 – tech.kakao.com](https://tech.kakao.com/2021/06/02/frontend-growth-09/)
 * [Native lazy-loading for the web](https://web.dev/native-lazy-loading)
 * [회원가입을 쉽게 만드는 UI/UX 디자인은?](https://brunch.co.kr/@dalgudot/101) mobile web 이야기이지만 component의 선택도 데이터에 의해 해야한다는 점에서 참고할 만한 이야기
 * [개발자도 알면 좋은 UI 디자인](https://joshua1988.github.io/web-development/design/ui-for-developers/)
 * [원티드 - 요즘 "프론트엔드 개발" 어떻게 하지? 참관 후기](https://velog.io/@velopert/%EC%9B%90%ED%8B%B0%EB%93%9C-%EC%9A%94%EC%A6%98-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EC%A7%80-%EC%B0%B8%EA%B4%80-%ED%9B%84%EA%B8%B0)
 * [Building and deploying modern websites and apps - GitHub Universe 2019](https://www.youtube.com/watch?v=KlO5Ksk7baQ)
-* [HTML 파일 기본 구조 - 완두블로그](https://wani.kr/posts/2014/11/19/html-skeleton/)
 * [Timeout에 관한 정리](https://effectivesquid.tistory.com/entry/Timeout%EC%97%90-%EA%B4%80%ED%95%9C-%EC%A0%95%EB%A6%AC)
-* [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
 * [풀스택 개발자, 그것은 환상](https://velog.io/@zetlos/2019-12-29-0612-%EC%9E%91%EC%84%B1%EB%90%A8-o0k4q3qrqh)
 * [풀스택 개발자에 대해서 어떻게 생각하나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/1265/)
 * [LINE MANGA: Page Stack을 이용해서 페이지 전환 처리하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-manga-smooth-page-transition-with-page-stack/)
@@ -210,7 +204,6 @@ Web
 * [Web Browser Engineering](https://browser.engineering/)
 * [well-known 디렉토리와 securty.txt 그리고 humans.txt](https://www.hahwul.com/2021/03/18/what-is-wellknown-directory/)
 * [웹 접근성 인증 받는 방법과 후기 – Under The Pencil](https://elvanov.com/2123)
-* [50 HTML Best Practices & Guidelines to Build Better Web Projects | by Before Semicolon | Feb, 2021 | Medium](https://beforesemicolon.medium.com/50-html-best-practices-guidelines-to-build-better-web-projects-541736511c2d)
 * [37. 월드와이드웹(WWW)의 시작 1 | 만화로 나누는 자유/오픈소스 소프트웨어 이야기](https://joone.net/2021/01/02/37-%ec%9b%94%eb%93%9c%ec%99%80%ec%9d%b4%eb%93%9c%ec%9b%b9www%ec%9d%98-%ec%8b%9c%ec%9e%91-1/)
 * [WebDevChallenge: A hopefully ever-growing list of web-development related challenges](https://github.com/jlem/WebDevChallenge)
 * [Under 1px line](https://hokeydokey.tistory.com/156)
@@ -580,6 +573,16 @@ Web
 
 # Haskell
 * [Developing web applications with Haskell](https://docs.google.com/presentation/d/10m9zTl3Lir68VsT-yV_Ke-hvBBuq7Lj08WQ-yxElIKg/edit#slide=id.g35f391192_00)
+
+# HTML
+* [웹개발자를 위한 HTML/CSS/JS 온라인 코드에디터](https://brunch.co.kr/@pilsogood/9)
+* [HTML Canvas를 활용하여 인터랙티브 콘텐츠 만들기. Canvas(캔버스) 기술은 일반적인 HTML 요소로는 표현하기 힘든… | by 이예찬 | Uniquegood | May, 2021 | Medium](https://medium.com/uniquegood/html-canvas%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%98%EC%97%AC-%EC%9D%B8%ED%84%B0%EB%9E%99%ED%8B%B0%EB%B8%8C-%EC%BD%98%ED%85%90%EC%B8%A0-%EB%A7%8C%EB%93%A4%EA%B8%B0-3ef51c33323e)
+* [FE개발자의 성장 스토리 09 : Offscreencanvas 적용기 – tech.kakao.com](https://tech.kakao.com/2021/06/02/frontend-growth-09/)
+* [HTML 파일 기본 구조 - 완두블로그](https://wani.kr/posts/2014/11/19/html-skeleton/)
+* [50 HTML Best Practices & Guidelines to Build Better Web Projects | by Before Semicolon | Feb, 2021 | Medium](https://beforesemicolon.medium.com/50-html-best-practices-guidelines-to-build-better-web-projects-541736511c2d)
+* [HTML이 당신의 생각보다 더 중요한 이유 | ~/xo.dev](https://xo.dev/why-html-is-important-than-you-think/)
+* [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
+* [</> htmx - high power tools for html](https://htmx.org/)
 
 # Java
 * [Spark Framework is a simple and lightweight Java web framework built for rapid development](http://sparkjava.com/)
