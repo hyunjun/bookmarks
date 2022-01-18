@@ -545,6 +545,10 @@ Web
   * 이 부분을 이용해서 색은 배경(background)와 전경(foreground)에 따라 역할이 다르다는 것에 착안해 10단계의 색조 팔레트를 배경/전경으로 나누고 이를 이용해서 라이트 모드 다크모드 변수 정의
     * 이 많은 변수가 너무 많게 느껴질 수 있지만, UI 요소에 대응할 수 있어서 복잡한 사이트에서는 이렇게 사용하는 것이 더 나음
 * [LINE Web Timeline 이미지 얼굴 인식 기능 적용 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-web-timeline-image-face-recognition/)
+* [Make Beautiful Gradients in CSS, with linear-gradient, radial-gradient, or conic-gradient.](https://www.joshwcomeau.com/css/make-beautiful-gradients/)
+  * CSS로 그라데이션을 표현할 때 CSS 엔진이 RGB를 쓰기 때문에 RGB 값으로 표현하는 가운데 보기 싫은 그레이 영역이 출현
+  * 이는 HSL을 사용할 때는 발생하지 않은데 이 색 표현의 차이를 설명(데모가 있어서 이해하기 좋음)
+  * 이를 이용해서 많은 중간 지점을 css gradient 함수에 전달해서 자연스럽게 표현되도록 한 방법을 설명, 이를 활용할 수 있는 Gradient Generator도 소개
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
@@ -697,6 +701,9 @@ Web
 * [The NGINX Real-Time API Handbook - NGINX](https://www.nginx.com/resources/library/real-time-api-handbook)
 * [Comparing NGINX Performance in Bare Metal and Virtual Environments - NGINX](https://www.nginx.com/blog/comparing-nginx-performance-bare-metal-and-virtual-environments/)
 * [Nginx-Ingress in EKS — EKS + nginx-ingress +NLB + TLS | by Sauravmoy Sarkar | Medium](https://sauravmoy-sarkar.medium.com/nginx-ingress-cc9acf4aa396)
+* [nginx ingress controller 무중단 업데이트하기](https://squarelab.co/blog/update-nginx-ingress-controller/)
+  * AWS NLB와 nginx ingress controller를 Kubernetes에서 사용하고 있을 때 nginx ingress controller를 무중단으로 업그레이드하는 방법 설명
+  * 하나의 클러스터 안에서 새로운 세트의 NLB와 nginx ingress controller를 생성한 뒤 NLB를 바라보든 DNS를 하나씩 옮기면서 테스트하고 기존 NLB와 nginx ingress controller를 삭제
 * [Upgrading Executable on the Fly](https://nginx.org/en/docs/control.html#upgrade)
   * [**실행중에 실행파일 업그레이드하기 | GeekNews**](https://news.hada.io/topic?id=5699)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
@@ -1180,7 +1187,7 @@ Web
   * [pyodide: Python with the scientific stack, compiled to WebAssembly](https://github.com/pyodide/pyodide)
   * [모질라, 브라우저에 파이썬 통합하는 ‘파이어다이드’ 프로젝트 분리 - CIO Korea](https://www.ciokorea.com/news/191529)
 * [wagi: Write HTTP handlers in WebAssembly with a minimal amount of work](https://github.com/deislabs/wagi)
-* [WasmEdge Runtime is a high-performance, extensible, and hardware optimized WebAssembly Virtual Machine for automotive, cloud, AI, and blockchain applications.](https://github.com/WasmEdge/WasmEdge)
+* [WasmEdge Runtime is a high-performance, extensible, and hardware optimized WebAssembly Virtual Machine for automotive, cloud, AI, and blockchain applications](https://github.com/WasmEdge/WasmEdge)
   * [WebAssembly serverless functions in AWS Lambda | Cloud Native Computing Foundation](https://www.cncf.io/blog/2021/08/25/webassembly-serverless-functions-in-aws-lambda/)
     * WasmEdge을 이용해서 AWS Lambda에서 WebAssembly로 서버리스 펑션 작성 방법 설명
     * WebAssembly는 Python이나 JavaScript보다 훨씬 빠르고 보안에 강하면서 이식성이 좋아서 서버리스 펑션에 좋음
