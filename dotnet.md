@@ -142,6 +142,7 @@
   * [파이콘 스프린트에 다녀오다](https://snack.planetarium.dev/kor/2019/08/pycon-sprint-2019/)
   * [여러 .NET 구현과 플랫폼을 두루 지원하는 라이브러리 (오픈 소스로) 만들기](https://speakerdeck.com/minhee/yeoreo-net-guhyeongwa-peulraespomeul-duru-jiweonhaneun-raibeureori-opeun-soseuro-mandeulgi)
   * [Libplanet 팀이 2020 스프린트서울에도 참여합니다!](https://snack.planetarium.dev/kor/2020/05/sprintseoul/)
+  * [Libplanet 팀이 2022년 1월 스프린트서울에도 참여합니다!](https://snack.planetarium.dev/kor/2022/01/sprintseoul/)
 * dotnet
   * dotnet -counters [C# - .NET Core의 Diagnostics CLI Tool 사용 - jacking75](https://jacking75.github.io/NET_Diagnostics_CLI/)
 * [Mono - Cross platform, open source .NET framework](https://www.mono-project.com)
