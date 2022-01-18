@@ -252,3 +252,5 @@ Bitcoin
 * [글로벌 칼럼 | '웹3' 개념을 무시해도 좋은 이유 - ITWorld Korea](https://www.itworld.co.kr/news/220219)
 * [CRYPTO/WEB3 관련 페이지들 총 모음 - by DH jung - coresight](https://coresight.substack.com/p/cryptoweb3-_ver1)
 * [웹삼뽀개기](https://page.stibee.com/archives/156387)
+* [Moxie Marlinspike >> Blog >> My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
+  * [**Web3에 대한 나의 첫 인상 | GeekNews**](https://news.hada.io/topic?id=5771)
