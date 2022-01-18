@@ -140,6 +140,7 @@
 * [Make a Demo Tool in Rust](https://make-a-demo-tool-in-rust.github.io/)
 * [My negative views on Rust](https://chrisdone.com/posts/rust/)
 * [Rust for Linux Progresses with New Abstractions and Infrastructure](https://www.infoq.com/news/2021/12/rust-for-linux-patch-2/)
+* [Could Rust be the Future of JavaScript Infrastructure](https://www.femar.co.ke/2022/01/rustjs.html)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
