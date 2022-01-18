@@ -1167,6 +1167,7 @@ AWS
 * [인공지능을 대규모로 가속화하려면?](https://brunch.co.kr/@synabreu/108)
 * [Amazon SageMaker와 Apache Airflow을 통한  기계학습 워크플로 구축하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/build-end-to-end-machine-learning-workflows-with-amazon-sagemaker-and-apache-airflow/)
 * [이미지 라벨링(Image Labeling), 노가다가 답일까? | by MUSINSA tech | Medium | MUSINSA tech](https://medium.com/musinsa-tech/imagelabeling-c351c0258a62)
+* [Amazon SageMaker기반 무신사 상품 후기 이미지 자동 검수 서비스 개발 사례 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/develop-an-automatic-review-image-inspection-service-with-amazon-sagemaker/)
 * [Sagemaker를 이용한 후기이미지 자동검수 모델 만들기 - 박지혜(무신사), 데이터 엔지니어를 위한 알쓸신잡 - 김영익 :: 제41회 AWSKRUG DataScience모임 - YouTube](https://www.youtube.com/watch?v=qMuhF1efUso)
 * [Amazon SageMaker를 통한 대용량 모델 훈련 방법 살펴보기-김대근,최영준,AWS::AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/watch?v=csr84BKbFeg)
 * [Develop an automatic review image inspection service with Amazon SageMaker | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/develop-an-automatic-review-image-inspection-service-with-amazon-sagemaker/)
