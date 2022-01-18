@@ -133,6 +133,7 @@ Java
 * [Java:Applying colors of your choice to images | by Sai Pitchuka | Medium](https://saibaburvr.medium.com/java-applying-colors-of-your-choice-to-images-884dd6d7f12d)
 * [Why is Java so dumb?. Part 1: Data Types | by Dave Andrea | Oct, 2021 | Medium](https://medium.com/@daveandrea/why-is-java-so-dumb-1990b9ac77c4)
 * [Why is Java So Dumb? (Part 2). Part 2: Why does it take so long to… | by Dave Andrea | Nov, 2021 | Medium](https://medium.com/@daveandrea/why-is-java-so-dumb-part-2-25755eb8459a)
+* [7 Features Java Developers Should Learn in 2022 | by javinpaul | Javarevisited | Dec, 2021 | Medium](https://medium.com/javarevisited/7-features-java-developers-should-learn-73cc3d4e734f)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
