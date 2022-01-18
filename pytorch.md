@@ -198,6 +198,7 @@ PyTorch
 * [Automatic Differentiation in Python and PyTorch - YouTube](https://www.youtube.com/watch?v=9aBpF0-JH7A)
 * [Pytorch로 ResNet 구현, torch summary 살펴보기](https://velog.io/@gibonki77/ResNetwithPyTorch)
 * [Deep Learning: Graph Neural Networks (GNN) for Information Extraction with PyTorch - YouTube](https://www.youtube.com/watch?v=lQLsswJHa_c)
+* [Two-Dimensional Tensors in Pytorch](https://machinelearningmastery.com/two-dimensional-tensors-in-pytorch/)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
