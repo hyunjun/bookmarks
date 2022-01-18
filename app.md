@@ -1527,6 +1527,8 @@ App
 * [Standard Notes | A Simple And Private Notes App](https://standardnotes.org/)
 * [Stormah: Own Your Data](https://stormah.com/) your notes, stored in your git repo
 * [transpose - Structured Notes to Manage Your Business and Life](https://transpose.com/)
+* [Ulysses](https://ulysses.app/)
+  * [Ulysses 에디터내 이미지 크기 조절](https://jojoldu.tistory.com/633)
 * [Wiki.js](https://wiki.js.org/)
 * [WriteFreely](https://writefreely.org/)
 * [Yorkie](https://yorkie.dev/)
