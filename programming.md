@@ -792,6 +792,7 @@ Programming
 * [Breaking the Monolith. Website Modular Architecture | Agoda Engineering & Design](https://medium.com/agoda-engineering/breaking-the-monolith-f3538d9c3ad6)
 * [Is there any place for monoliths in 2021? - Francisco J. Revoredo](https://fjrevoredo.me/is-there-any-place-for-monoliths-in-2021/)
 * [Don’t start with microservices – monoliths are your friend – Arnold Galovics](https://arnoldgalovics.com/microservices-in-production/)
+* [The Entity Service Antipattern - Wide Awake Developers](https://www.michaelnygard.com/blog/2017/12/the-entity-service-antipattern/)
 * [개발자가 바라본 중국 쇼핑 축제 쐉쓰이(광군제)](http://www.popit.kr/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%B0%94%EB%9D%BC%EB%B3%B8-%EC%A4%91%EA%B5%AD-%EC%87%BC%ED%95%91-%EC%B6%95%EC%A0%9C-%EA%B4%91%EA%B5%B0%EC%A0%9C)
 * [2018 광군제(双十一) 서비스 운영 후기](https://www.popit.kr/2018-광군제双十一-서비스-운영-후기)
 * [깃플 기술스택 구경하세요~ (백엔드 편)](http://tech.gitple.io/2017/11/08/gitple-techstack-backend/)
@@ -1146,6 +1147,7 @@ Programming
 * [Domain Driven Design Patterns in Python - YouTube](https://www.youtube.com/watch?v=v0wBmQq8qcA)
 * [실전 도메인 스토리텔링 첫 시도](https://brunch.co.kr/@graypool/277)
 * [도메인 스토리텔링은 무엇인가?](https://brunch.co.kr/@graypool/278)
+* [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
 ## Architecture Event Driven
@@ -1419,7 +1421,6 @@ Programming
 * [Complex Systems: Microservices and Humans - YouTube](https://www.youtube.com/watch?v=E8A3Yn2Vjx8)
 * [실전 마이크로서비스 아키텍처 적용](https://brunch.co.kr/@graypool/255)
 * [How do microservices fit into enterprise software platforms? | by Chanaka Fernando | Nov, 2021 | FAUN Publication](https://faun.pub/how-do-microservices-fit-into-enterprise-software-platforms-90686c2f0148)
-* [Turning Microservices Inside-Out](https://www.infoq.com/articles/microservices-inside-out/)
 * [Pitfalls and Patterns in Microservice Dependency Management](https://www.infoq.com/presentations/microservices-dependency-management/)
 * [Best practices to communicate between microservices | by Irfan Yusanif | Dec, 2021 | Medium](https://irfanyusanif.medium.com/how-to-communicate-between-microservices-7956ed68a99a)
 * [영상 - 마이크로서비스 6가지 핵심 개념 소개 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/microservices-6-key-concepts)
