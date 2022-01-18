@@ -1147,6 +1147,7 @@ Programming
 * [Domain Driven Design Patterns in Python - YouTube](https://www.youtube.com/watch?v=v0wBmQq8qcA)
 * [실전 도메인 스토리텔링 첫 시도](https://brunch.co.kr/@graypool/277)
 * [도메인 스토리텔링은 무엇인가?](https://brunch.co.kr/@graypool/278)
+* [Is Domain-Driven Design Overrated? • Stefan Tilkov • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ZZp9RQEGeqQ)
 * [BoundedContext](https://martinfowler.com/bliki/BoundedContext.html)
 * [awesome-domain-storytelling: A curated list of ressources for Domain Storytelling practitioners. PR are welcome!](https://github.com/hofstef/awesome-domain-storytelling)
 
@@ -2316,6 +2317,8 @@ Programming
 * [소울워커 로딩이 느린 이유 / 로딩 시간 70% 줄이기 - 소울워커 채널](https://arca.live/b/soulworkers/40937494)
 * [How a Single Line of Code Made a 24-core Server Slower Than a Laptop | Piotr Kołaczkowski](https://pkolaczk.github.io/server-slower-than-a-laptop/)
 * [You can't copy code with memcpy; code is more complicated than that - The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20211229-00/?p=106061)
+* ["Finding bugs without running or even looking at code" by Jay Parlar - YouTube](https://www.youtube.com/watch?v=FvNRlE4E9QQ)
+  * [Alloy | MIT CSAIL](https://www.csail.mit.edu/research/alloy)
 * [control-flag: A system to flag anomalous source code expressions by learning typical expressions from training data](https://github.com/IntelLabs/control-flag)
   * [인텔, 기계학습 디버깅툴 ‘컨트롤플래그’ 오픈소스로 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20211025172937)
 * Ozcode [Debugging Solutions from Dev to Production - Ozcode](https://oz-code.com/)
@@ -3346,6 +3349,7 @@ Programming
 * [**FE개발자의 성장 스토리 05 : 의존관계를 이용해 구조적 리팩토링 포인트 찾기 – tech.kakao.com**](https://tech.kakao.com/2021/01/12/frontend-growth-05/) Angular 대상이지만 언어/프레임워크 관계없이 적용 가능한 좋은 이야기
 * [The world of unstructured programming, i.e. spaghetti code – The Craft of Coding](https://craftofcoding.wordpress.com/2020/02/12/the-world-of-unstructured-programming-i-e-spaghetti-code/)
 * [시스템 수준 리팩토링 시작하기](https://brunch.co.kr/@graypool/90)
+* [if(kakao) 2021 - Daum Mail Terraforming: 다음 메일 백엔드 레거시 개편기](https://if.kakao.com/session/47)
 
 # Reverse Engineering
 * [Ole André Vadla Ravnås - Frida: The engineering behind the reverse-engineering](https://www.youtube.com/watch?v=uc1mbN9EJKQ)
