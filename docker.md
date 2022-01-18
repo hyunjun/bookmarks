@@ -1191,6 +1191,7 @@ Docker
 * [Kubernetes — Running Multiple Container Runtimes | by Ivan Sim | ITNEXT](https://itnext.io/kubernetes-running-multiple-container-runtimes-65220b4f9ef4)
 * [Migrating to Kubernetes + Best Practices for Cloud Native • T. Vitale & L. Højgaard • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=2J3MZlXjLHk)
 * [Best Practices for Running Containers and Kubernetes in Production](https://info.aquasec.com/kubernetes-best-practices)
+* [Kubernetes Essential Component. 쿠버네티스를 효율적으로 사용하기 위해서는 필수 쿠버네티스 관리… | by KC | Jan, 2022 | Medium](https://medium.com/@cloudacode/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%ED%95%84%EC%88%98-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-by-cloudacode-b115930db484)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
