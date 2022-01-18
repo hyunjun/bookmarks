@@ -147,6 +147,7 @@ Sports
 * [로비 레이와 코빈 번스를 사이영으로 이끈 세이버매트릭스와 스탯캐스트의 모든 것](https://blog.naver.com/ljsmessi/222592946505)
 * [무엇이 그들을 MVP로 만들었는가? 세이버매트.. : 네이버블로그](https://blog.naver.com/ljsmessi/222595268476)
 * ['MLB Stats API'라고 혹시 들어보았나요 - 야구공작소](https://yagongso.com/?p=15519)
+* [날 닮은 너: 컴패리즌 방식 비교하기 - 야구공작소](https://yagongso.com/?p=15780) similarity scores, affinity
 
 # Basketball
 * [**Basketball Terms- Terminology**](https://www.coachesclipboard.net/BasketballTerminology.html) diagram으로 court위 명칭 설명
