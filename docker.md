@@ -879,6 +879,7 @@ Docker
   * [#3 security](https://www.slideshare.net/Byungwook/kubernetes-3-security)
   * [#4 volume & stateful set](https://www.slideshare.net/Byungwook/kubernetes-4-volume-amp-stateful-set)
   * [#6 advanced scheduling](https://www.slideshare.net/Byungwook/kubernetes-6-advanced-scheduling)
+* [Kubernetes - POD -](https://spectrumstutz.com/k8s/kubernetes-pod/)
 * [Best practices for deploying highly available apps in Kubernetes. Part 1 – Flant blog](https://blog.flant.com/best-practices-for-deploying-highly-available-apps-in-kubernetes-part-1/)
 * [MITRE ATT&CK Framework, Falco Container Security | Sysdig](https://sysdig.com/blog/mitre-attck-framework-for-container-runtime-security-with-sysdig-falco/)
 * [Threat matrix for Kubernetes](https://www.microsoft.com/security/blog/2020/04/02/attack-matrix-kubernetes/)
