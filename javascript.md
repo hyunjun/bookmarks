@@ -957,6 +957,9 @@ Javascript
 * [Spring Boot + Angular 8 CRUD Example | Spring Data | Java Techie - YouTube](https://www.youtube.com/watch?v=QV7ke4a7Lvc)
 * [Angular - Tutorial To Prototyping | LinkedIn](https://www.linkedin.com/pulse/angular-tutorial-prototyping-indrayudh-roy/)
 * [Angular v12.0.0 릴리즈 노트](https://han41858.tistory.com/56)
+* [Discontinued Long Term Support for AngularJS | by Mark Thompson (@marktechson) | Jan, 2022 | Angular Blog](https://blog.angular.io/discontinued-long-term-support-for-angularjs-cc066b82e65a)
+  * AngularJS LTS 기간이 21년 12월로 종료. 여기서 얘기하는 AngularJS는 Angular 이전의 1.x 버전 의미, Angular는 당연히 계속 지원
+  * 웹사이트와 패키지는 계속 살아있을 예정이지만 저장소는 읽기 전용으로 아카이빙되고 추가 수정사항 없음
 * [Incremental vs Virtual DOM. Will Incremental DOM Replace Virtual… | by Chameera Dulanga | Bits and Pieces](https://blog.bitsrc.io/incremental-vs-virtual-dom-eb7157e43dca)
   * [Incremental DOM과 Virtual DOM 비교 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210819)
 
@@ -2043,6 +2046,10 @@ Javascript
 * [Parcel 한국어판](https://ko.parceljs.org/)
   * [Parcel 사용해보기](https://velog.io/@juunini/Parcel-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0)
   * [yarn2 & parcel 을 이용하여 react 프로젝트 만들기](https://velog.io/@juunini/yarn2-parcel-%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-react-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0)
+  * [Announcing Parcel CSS: A new CSS parser, compiler, and minifier written in Rust!](https://parceljs.org/blog/parcel-css/)
+    * Parcel에서 Rust로 작성한 새로운 CSS 파서 parcel-css 공개
+    * CSSNano나 ESBuild보다 더 빠른 속도를 보여주고 압축된 이미지도 더 작다고 함
+    * Mozilla에서 만든 cssparser에 기반을 두고 있으면 다른 파서가 CSS의 값을 문자열로 다루고 있는데, 반해 Parcel CSS는 CSS 명세의 그래머를 사용해서 모든 값을 파싱
 * [rollup.js - the next-generation JavaScript module bundler](http://rollupjs.org/)
   * [Rollup.js+ Typescript + Storybook으로 구축하는 디자인 시스템](https://ideveloper2.dev/blog/2020-05-17--rollup-ts-%EB%A1%9C-%EB%94%94%EC%9E%90%EC%9D%B8%EC%8B%9C%EC%8A%A4%ED%85%9C-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
   * [라이브러리 배포 cjs? ejs?](https://www.notion.so/cjs-ejs-f413befcf8ae45589e47fc4d14a5ab9a)
@@ -2429,6 +2436,9 @@ Javascript
   * [Deno Improves Support for Web APIs: Cryptography, Messaging, Networking, and More](https://www.infoq.com/news/2021/09/deno-web-api-support-crypto/)
   * [Aleph.js](https://alephjs.org/)
     * [Server-Rendered Web Applications in Deno with Aleph.js](https://www.infoq.com/news/2020/11/aleph-deno-web-app-nextJS/)
+  * [Deno by Example](https://examples.deno.land/)
+    * Deno의 사용방법을 예제별로 모아둔 사이트를 Deno에서 공개
+    * 간단한 Hello World부터 명령행 인자 처리, 파일 처리, HTTP 서버까지 다양한 예제 제공
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [Deno Deploy Beta 1 | Deno Blog](https://deno.com/blog/deploy-beta1)
     * [디노 컴퍼니, 서버측 자바스크립트 호스팅 서비스 공개 - CIO Korea](https://www.ciokorea.com/news/199044)
@@ -3228,6 +3238,7 @@ Javascript
 * [How to destructure the fundamentals of React Hooks](https://medium.freecodecamp.org/how-to-destructure-the-fundamentals-of-react-hooks-d13ff6ea6871)
 * [react-redux 에서 Hooks 사용하기](https://velopert.com/3726)
 * [react-redux 에서 Hooks 사용하기](https://velog.io/@velopert/react-redux-hooks)
+* [react-redux (2022년 개정판) - YouTube](https://www.youtube.com/watch?v=yjuwpf7VH74)
 * [React 16.8 with Hook Implementation](https://hackernoon.com/react-16-8-with-hook-implementation-212220171685)
 * [How to Build a Todo List with React Hooks](https://medium.freecodecamp.org/how-to-build-a-todo-list-with-react-hooks-ebaa4e3db3b)
 * [React Hooks](https://www.youtube.com/playlist?list=PL7jH19IHhOLPDyuhF_fLCt_pKvtuLI5qX)
@@ -3654,6 +3665,10 @@ Javascript
   * [Zero-config Storybook. Simple setup, instant productivity | by Michael Shilman | Storybook | Jul, 2020 | Medium](https://medium.com/storybookjs/zero-config-storybook-66e7c4798e5d)
   * [Yarn2, Storybook, Sass 조합기](https://velog.io/@juunini/Yarn2-Storybook-Sass-%EC%A1%B0%ED%95%A9%EA%B8%B0)
   * [스토리북을 이용한 컴포넌트 제작](https://saramin.github.io/2021-12-21-connect/)
+  * [스토리북으로 인터랙션 테스트하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220111)
+    * 스토리북 6.4부터 추가된 Interactive Stories 기능을 이용해서 기존 기능의 동작 여부 테스트뿐 아니라 인터렉션을 자동으로 생성하는 방법 설명
+    * interaction 애드온을 이용해서 인터랙션이 자동으로 발생하는 코드를 작성하고 이를 단계별로 실행 가능
+    * 인터랙션이 자동으로 실행되게 만들었으니 Cypress나 Playwrigt같은 E2E 테스트 도구를 이용해서 해당 인터렉션의 테스트를 자동화도 가능
 * [Structor- user interface builder for ReactJS](http://helmetrex.com/)
 * [ui.devsisters.com](https://ui.devsisters.com/) 데브시스터즈 리액트 컴포넌트
 * [use-color: The powerful color hook that all designers deserve. ✨ Parse and stringify that just works & 🦾 Strict type checking at compile time](https://github.com/junhoyeo/use-color)
