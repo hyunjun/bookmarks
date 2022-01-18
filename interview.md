@@ -141,6 +141,7 @@ Interview
 * [<족집게 인터뷰 질문 리스트: 1편-방어하기> 로 글로벌 IT 회사의 입사 인터뷰 제대로 통과하기](https://okky.kr/article/523155)
 * [<족집게 인터뷰 질문 리스트: 2편-공격하기> 로 글로벌 IT 회사의 입사 인터뷰 제대로 통과하기](https://okky.kr/article/554411)
 * [엔지니어 채용 이렇게 한다](http://bridge.500startups.co.kr/%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4-%EC%B1%84%EC%9A%A9-%EC%9D%B4%EB%A0%87%EA%B2%8C-%ED%95%9C%EB%8B%A4/)
+* [**능력있는 개발자는 어떻게 알아 볼 수 있나? - Google Docs**](https://docs.google.com/document/d/1_phA5XUszSmN7Ta-QHs4DxRz9_iu8YlhxpVjSGEbWcg/)
 * [How to Lose an IT Job in 10 Minutes - Whiteboard coding interviews can cost you a job](https://hackernoon.com/how-to-lose-an-it-job-in-10-minutes-3d63213c8370)
 * [How I landed offers from Microsoft, Amazon, and Twitter without an Ivy League degree](https://medium.freecodecamp.org/how-i-landed-offers-from-microsoft-amazon-and-twitter-without-an-ivy-league-degree-d62cfe286eb8)
 * [내가 받은 최고의 커리어 조언](https://iamsang.com/blog/2019/01/01/career-advice/)
