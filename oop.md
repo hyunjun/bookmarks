@@ -44,6 +44,7 @@
 * [올바른 객체지향 설계 - 'solid 원칙' 이란?](https://dimohy.slogger.today/oriented-solid)
 * [인상적인 코딩 테스트 그리고 합격](https://www.popit.kr/%EC%9D%B8%EC%83%81%EC%A0%81%EC%9D%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%95%A9%EA%B2%A9/) 제목과 달리 가장 중요한 건 SOLID를 알고 구현하고 설명할 수 있어야 한다는 이야기
 * [객체지향 SOLID 원칙 - SRP, OCP, LSP, ISP, DIP](https://devkingdom.tistory.com/296)
+* [Interface Segregation Principle of SOLID | ISP - Tech Point Fundamentals](https://www.techpointfunda.com/2021/10/interface-segregation-principle.html)
 * [SOLID principles: The Definitive Guide (Part I) | CODER SITE for developers](https://codersite.dev/solid-principles-the-definitive-guide/)
 * [결합도와 응집도 이야기](https://devkingdom.tistory.com/300)
 * [싱글턴은 정적이지 않다](https://justhackem.wordpress.com/2017/07/05/singleton-is-not-static/)
