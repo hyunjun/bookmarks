@@ -292,6 +292,11 @@ Go
 * [Golang Design Patterns in Kubernetes](https://aly.arriqaaq.com/golang-design-patterns/)
 * [How Khan Academy Rewrote their Backend - by Quastor Tech](https://www.quastor.org/p/how-khan-academy-rewrote-their-backend)
 * [제대로 된 계산기를 만들어 보자! (1)](https://www.jiwon.me/complete-calculator-01/)
+* [**Hashicorp plugin system 설계 및 구현 - Real Insight Comes From Fixing Error**](https://www.getoutsidedoor.com/2022/01/09/hashicorp-plugin-system-%EC%84%A4%EA%B3%84-%EB%B0%8F-%EA%B5%AC%ED%98%84/)
+  * HashiCorp가 자사의 제품에서 공통으로 사용하고 있는 플러그인 시스템이 어떻게 동작하는지 분석한 글
+  * 플러그인 시스템은 Terraform 등의 메인 시스템과 gRPC로 통신
+  * 플러그인 서비스는 바이너리를 실행하기 때문에 플러그인 시스템과 바이너리의 빌드를 다르게 해서 배포 가능
+  * 실제로 플러그인을 어떤 함수를 구현해야 하는지를 설명하고 이러한 동작이 Terraform에서는 어떻게 되는지 설명
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
