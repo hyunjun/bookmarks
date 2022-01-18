@@ -293,6 +293,11 @@ Git
   * 여러 저장소에 걸쳐서 반복적으로 사용하는 워크플로우를 복사 붙이기로 만드는 대신 공동으로 사용할 곳을 만들어 두고 저장소의 워크플로우 YAML을 바로 지정해서 사용할 수 있는 방법 추가
   * 워크플로우의 `uses: my-org/actions/.github/workflows/node.js.yml@1`처럼 지정해서 재사용
 * [깃헙 액션, 이런 것도 할 수 있다고? 꿀팁 대방출! | 애저한발짝 - YouTube](https://www.youtube.com/watch?v=_YBdD-53XZU)
+* [카카오웹툰은 GitHub Actions를 어떻게 사용하고 있을까? | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220106-github-actions/)
+  * 카카오웹툰 GitHub Actions 활용 팁 설명
+  * 간단한 Actions 설명부터 시작, Slack에 알림을 보내기 위해 별도로 만든 Actions 파일을 연결해서 사용
+  * 글로벌 배포를 위해 브랜치 이름에 관례를 만들어서 어느 리전과 환경에 배포할지를 판단 가능
+  * 추가로 정기적으로 실행되도록 설정한 자동배포 워크플로우도 설명
 
 # Badge Readme Profile
 * [README.md 10초만에 깔끔하게 만드는 법](https://gomcine.tistory.com/entry/READMEmd-10%EC%B4%88%EB%A7%8C%EC%97%90-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95?category=624615)
