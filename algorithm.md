@@ -641,6 +641,7 @@ Algorithm
 * [Reverse Morris In-order Traversal](https://leetcode.com/problems/convert-bst-to-greater-tree/solution/)
 * [Sudokus and Schedules Solving Scheduling Problems with Tree Search](https://towardsdatascience.com/sudokus-and-schedules-60f3de5dfe0d)
 * [백준 공유기 설치 왜 이분탐색이 가능한가](https://codingdog.tistory.com/entry/%EB%B0%B1%EC%A4%80-%EA%B3%B5%EC%9C%A0%EA%B8%B0-%EC%84%A4%EC%B9%98-%EC%99%9C-%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89%EC%9D%B4-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80)
+* [Searching & Sorting Algorithms Full Course 2022 | Data Structures Explained 2022 | Simplilearn - YouTube](https://www.youtube.com/watch?v=d7iGniWrRng)
 
 # Sort
 * [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
