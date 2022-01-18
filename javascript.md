@@ -781,6 +781,7 @@ Javascript
 * [JavaScript Proxy… But With Reflect | by TOAST UI | May, 2021 | Medium](https://toastui.medium.com/javascript-proxy-but-with-reflect-665f868fbeba)
 * [중첩 반복문은 안감을 두껍게 짜야한다](https://velog.io/@qroffle/%EC%A4%91%EC%B2%A9-%EB%B0%98%EB%B3%B5%EB%AC%B8%EC%9D%80-%EC%95%88%EA%B0%90%EC%9D%84-%EB%91%90%EA%BB%8D%EA%B2%8C-%EC%A7%9C%EC%95%BC%ED%95%9C%EB%8B%A4)
 * [valueOf 메소드, 뭐하러 있냐? - DEV Community](https://dev.to/composite/valueof-mesodeu-mweohareo-issnya-1n97)
+* [자바스크립트 중괄호의 노래 - DEV Community](https://dev.to/composite/jabaseukeuribteu-junggwalho-sayongbeob-4e7p)
 * Array
   * [How to clone an array in JavaScript](https://medium.freecodecamp.org/how-to-clone-an-array-in-javascript-1d3183468f6a)
   * [Beware of chaining array methods in JavaScript](https://medium.freecodecamp.org/beware-of-chaining-array-methods-in-javascript-ef3983b60fbc)
