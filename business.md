@@ -199,6 +199,7 @@ Business
 * [칼리 피오리나가 망쳐버린 HP](http://www.infuture.kr/m/post/961)
 * [까다롭고 성격이 모난 동료를 어떻게 대할 것인가](http://ppss.kr/archives/36207)
 * [같이 일하고 싶은 사람](https://brunch.co.kr/@hyungsukkim/99)
+* [동료와 직원의 차이는 무엇일까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/249607)
 * [업무와 감정은 별개](https://brunch.co.kr/@hyungsukkim/101) 당연하지만 상황에 따라 참 어려운 일
 * [(4) 업햄 상병구하기](http://www.mobiinside.com/kr/2016/11/15/bad-dev-4/)
 * [손자병법에서 배우는 기업의 5가지 핵심 KPI](http://ppss.kr/archives/26234)
@@ -791,6 +792,7 @@ Business
 * [CEO 심리학 직원들의 잦은 실수는 기강해이가 원인 아니라 리더의 무례함 때문이다 - 매일경제](https://mk.co.kr/news/business/view/2021/12/1197544)
 * [미공군의 팔로워십 육성 팁](https://hrbulletin.net/leadership/%EB%AF%B8%EA%B3%B5%EA%B5%B0%EC%9D%98-%ED%8C%94%EB%A1%9C%EC%9B%8C%EC%8B%AD-%EC%9C%A1%EC%84%B1-%ED%8C%81/) followship
 * [Why Engineers Should Invest in Decision-Making Skills Early — Reforge](https://www.reforge.com/blog/technical-decision-making) leadership에만 해당하는 부분은 아님
+* [Average Manager vs. Great Manager | by Julie Zhuo | The Year of the Looking Glass | Medium](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d) 간단한 만화로 상황에 따른 더 나은 manager의 모습을 보여줌
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
