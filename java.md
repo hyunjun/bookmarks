@@ -321,6 +321,7 @@ Java
   * [자바에서 String 다룰 때 오해와 진실 - DEV Community](https://dev.to/composite/string-2l5a)
   * [java string trim 메서드에 대해 제대로 알아봅시다](https://codingdog.tistory.com/531)
   * [java string repeat 메서드로 쉽게 문자열을 반복해 봅시다.](https://codingdog.tistory.com/entry/java-string-repeat-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84-%EB%B0%98%EB%B3%B5%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
+  * [Right way to check if String is empty in Java with Example | Java67](https://www.java67.com/2014/09/right-way-to-check-if-string-is-empty.html)
 * System
   * currentTimeMillis vs. nanoTime
     * [Measure Elapsed Time in Java](https://www.baeldung.com/java-measure-elapsed-time)
