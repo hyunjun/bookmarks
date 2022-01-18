@@ -555,6 +555,8 @@ AWS
   * [AWS re:Invent 주요 출시 소식 요약 전체 보기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2021/)
   * [아마존의 재발명, ‘AWS’ 15년 (ft. 리:인벤트 2021) | 슬로우뉴스](https://slownews.kr/83297)
   * [아마존의 재발명, 아마존 웹 서비스](https://brunch.co.kr/@synabreu/151)
+  * [AWS re:Invent 2021 CTO 기조연설 요약 - AWS On-Air 한국어 라이브 (12월 3일) - YouTube](https://www.youtube.com/watch?v=ziyPW8s_c-c)
+  * [AWS re:Invent 2021 AI/ML 신규 서비스 요약 - AWS On-Air 한국어 라이브 (12월 2일) - YouTube](https://www.youtube.com/watch?v=9fMwObd5wk0)
 * AWS Summit
   * [AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW7yw8e0olxjf11Qv010Jz-)
     * [현대백화점 리테일테크랩과 AWS Prototyping 팀 개발자가 들려주는 인공 지능 무인 스토어 개발 여정::AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/watch?v=9lSObYSCS0c)
