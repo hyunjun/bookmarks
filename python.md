@@ -790,6 +790,7 @@ Python
   * [Strings, Bytes, and Unicode in Python 2 and 3](https://timothybramlett.com/Strings_Bytes_and_Unicode_in_Python_2_and_3.html)
   * [python 3 의 string 정리](http://i5on9i.blogspot.com/2016/11/python-3-string.html)
   * [Strings in 3.0: Unicode and Binary Data](http://learning-python.com/strings30.html)
+  * [이펙티브 파이썬 - 3. bytes, str, unicode의 차이점을 알자 · MinhoPark](https://mino-park7.github.io/effective%20python%20study/2018/09/06/betterway3-bytes-str-unicode/)
   * [How to declare a byte array contains non-ascii characters without escape in python 3](https://stackoverflow.com/questions/20485845/how-to-declare-a-byte-array-contains-non-ascii-characters-without-escape-in-pyth)
   * [dotnetperls.com/bytes-python](https://www.dotnetperls.com/bytes-python)
   * [The only problem with Python 3's str is that you don't grok it](https://drewdevault.com/2017/01/13/The-problem-with-Python-3.html)
@@ -1735,6 +1736,7 @@ Python
 * [Prashant Chaubey - Writing Good Python - YouTube](https://www.youtube.com/watch?v=vnCXToWqz3M) PEP8, pylint, PEP257, pydocstyle, PEP484, mypy, bandit, black
 
 ## Conference Pycon
+* [PyCon Korea - YouTube](https://www.youtube.com/channel/UC26x6D5xpKx6io4ShfXa_Ow)
 * [pyvideo.org](http://pyvideo.org/)
 * [2016년 12월 파이썬 격월 세미나 & 송년회 후기!](http://blog.pycon.kr/2016/12/29/python-seminar-201612-review/)
 * [2017년 10월 파이썬 세미나 - Python & Data](http://blog.pycon.kr/2017/10/21/python-seminar/)
