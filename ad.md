@@ -6,3 +6,4 @@
 * [모바일 앱 환경의 최소 식별값, ADID와 IDFA값 이해하기](https://www.blog.adbrix.io/post/adid-idfa)
 * [Why Digital Marketers Should Learn Python. 김지원 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=Z5W-e5Ak3VU)
 * [Digital Marketing Course Part - 1 🔥| Digital Marketing Tutorial For Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=nU-IIXBWlS4)
+* [글로벌 칼럼 | 서드파티 쿠키 제한이 바꿔놓은 온라인 광고 시장 - ITWorld Korea](https://www.itworld.co.kr/news/213959)
