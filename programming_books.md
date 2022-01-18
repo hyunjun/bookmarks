@@ -87,6 +87,9 @@ Programming Books
 * [사용자를 유혹하는 UX의 기술](https://brunch.co.kr/@upleat/105)
   * 2021.12.08
   * ★★★☆☆ 잘 모르는 분야라 훝어 보는 정도로 읽었는데 군데군데 쉽게 적용할 수 있을 듯한 부분도 보여서 좋았음
+* 프로그래머의 뇌
+  * 2022.01.14
+  * ★★★★☆ 독특하게도 프로그래밍과는 대부분 무관하거나 혹은 간접적인 이야기를 하는 프로그래머에 대한 책
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
