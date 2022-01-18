@@ -542,6 +542,7 @@ Web
   * CSS로 그라데이션을 표현할 때 CSS 엔진이 RGB를 쓰기 때문에 RGB 값으로 표현하는 가운데 보기 싫은 그레이 영역이 출현
   * 이는 HSL을 사용할 때는 발생하지 않은데 이 색 표현의 차이를 설명(데모가 있어서 이해하기 좋음)
   * 이를 이용해서 많은 중간 지점을 css gradient 함수에 전달해서 자연스럽게 표현되도록 한 방법을 설명, 이를 활용할 수 있는 Gradient Generator도 소개
+* [runtime css-in-js is not free. runtime css-in-js | by DarrenKwon | Typed 개발팀 블로그 | Dec, 2021 | Medium](https://medium.com/business-canvas/runtime-css-in-js-is-not-free-da19528e57b1)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
