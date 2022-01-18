@@ -1388,7 +1388,14 @@ Docker
   * [Default Kyverno Policies for OpenEBS. - DEV Community](https://dev.to/niveditacoder/default-kyverno-policies-for-openebs-4abf)
 * [OperatorHub.io - a new home for the Kubernetes community to share Operators. Find an existing Operator or list your own today](https://www.operatorhub.io)
 * [Pixie - k8s](https://sysnet4admin.gitbook.io/k8s/observability/pixie)
-* Prow [개발문화를 code로 만드는 CI/CD 도구: Prow](https://leoh0.notion.site/leoh0/code-CI-CD-Prow-aa50953c1e8248cbad9e56a50dd080d5)
+* Prow
+  * [개발문화를 code로 만드는 CI/CD 도구: Prow](https://leoh0.notion.site/leoh0/code-CI-CD-Prow-aa50953c1e8248cbad9e56a50dd080d5)
+    * 좋은 개발 문화를 달성하는데 Continuous delivery가 중요한 역할
+    * 이를 위해 DORA 연구에 따르면 자율성을 높이기 위해 규칙은 단순화하는 게 좋음
+    * 이러한 규칙을 코드로 관리할 수 있다면 더 좋기 때문에 Kuberentes 기반의 CI/CD 도구인 Prow의 활용을 설명한 글
+    * Prow는 Kubernetes 뿐 아니라 많은 CNCF 프로젝트가 사용하고 있는 CI/CD 도구, GitHub의 이벤트와 잘 연동
+    * . /command 형식의 댓글로 리뷰를 승인하거나 레이블을 추가하는 등의 액션 가능
+    * ChatOps로 이러한 부분을 자동화
 * [QUARKUS - Supersonic Subatomic Java A Kubernetes Native Java stack tailored for GraalVM & OpenJDK HotSpot, crafted from the best of breed Java libraries and standards](https://quarkus.io/)
   * [Why Quarkus](http://in.relation.to/2019/03/08/why-quarkus/)
   * [Quarkus란?](https://www.redhat.com/ko/topics/cloud-native-apps/what-is-quarkus)
