@@ -572,6 +572,8 @@ Data Science
 * [5 ways for Data Scientists to Code Efficiently in Python](https://www.analyticsvidhya.com/blog/2021/08/5-ways-for-data-scientists-to-code-efficiently-in-python/)
 * [Data scientist’s guide to efficient coding in Python | by Dr. Varshita Sher | Jul, 2021 | Towards Data Science](https://towardsdatascience.com/data-scientists-guide-to-efficient-coding-in-python-670c78a7bf79)
 * [Creating a Data Science Python Package Using Jupyter Notebook | by Abid Ali Awan | Jul, 2021 | Towards Data Science](https://towardsdatascience.com/creating-data-science-python-package-using-jupyter-notebook-6fa6e6b74a87)
+* [Why Python is best choice for Data Science? - DEV Community](https://dev.to/javinpaul/why-python-is-the-best-programming-language-for-data-science-2a29)
+* [Python for Data Science - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1kZHbJyPjsGzz7kLElYiWrV)
 
 ## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
