@@ -261,6 +261,7 @@ Business
 * [회의 정리의 기술](https://brunch.co.kr/@lunarshore/354) wrap up, 기록, email, 매일 논의
 * [**실리콘밸리 탑 클래스와 함께 일해보며**](https://brunch.co.kr/@iamzenon/26) 효율적인 회의
 * [회의 참석자의 7가지 유형](https://brunch.co.kr/@hyungsukkim/112)
+* [왜 우리는 생산성을 죽이는 회의를 하고 있을까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/250094)
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
 * [일대일 면담으로 훌륭한 소통 구조를 구축하라](https://brunch.co.kr/@graypool/67)
 * [1 on 1](https://brunch.co.kr/@tilltue/74)
