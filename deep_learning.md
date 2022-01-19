@@ -2016,6 +2016,7 @@ Deep Learning
 
 # Paper
 * [**paperswithcode.com**](https://paperswithcode.com/)
+  * [Papers with Code 2021 : A Year in Review | by elvis | PapersWithCode | Dec, 2021 | Medium](https://medium.com/paperswithcode/papers-with-code-2021-a-year-in-review-de75d5a77b8b)
 * [Browse State-of-the-Art](https://paperswithcode.com/sota)
 * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 * [Awesome - Most Cited Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers)
