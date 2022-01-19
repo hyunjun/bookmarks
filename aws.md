@@ -180,6 +180,11 @@ AWS
 * [AWS X-Ray](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20180828-20180907/20180910_JH_aws_x-ray.md)
 * [Debug your Container and Serverless Applications with AWS X-Ray in 5 Minutes - AWS Online Tech Talks](https://www.youtube.com/watch?v=YhIBVzSEDpo)
   * logging, exception에 대한 call stack 보기
+* [AWS X-RAY를 이용하여 JAVA 웹 애플리케이션 모니터링 구축 (1) - EC2 인스턴스 생성 및 JAVA 애플리케이션 생성](https://kim-jong-hyun.tistory.com/115)
+* [AWS X-RAY를 이용하여 JAVA 웹 애플리케이션 모니터링 구축 (2) - JAVA 애플리케이션 프로젝트 구성 및 트레이스 ID 주입하기](https://kim-jong-hyun.tistory.com/116)
+* [AWS X-RAY를 이용하여 JAVA 웹 애플리케이션 모니터링 구축 (3) - 데이터베이스 SQL 쿼리 추적하기](https://kim-jong-hyun.tistory.com/117)
+* [AWS X-RAY를 이용하여 JAVA 웹 애플리케이션 모니터링 구축 (4) - Spring AOP를 이용하여 세그먼트 구성하기](https://kim-jong-hyun.tistory.com/118)
+* [AWS X-RAY를 이용하여 JAVA 웹 애플리케이션 모니터링 구축 (5) - 애플리케이션 요청 및 응답 데이터 추적하기](https://kim-jong-hyun.tistory.com/119)
 * [Deploying a Python Web App on AWS](https://towardsdatascience.com/deploying-a-python-web-app-on-aws-57ed772b2319)
 * [Python으로 AWS Cloud Development Kit 시작하기](https://aws.amazon.com/ko/blogs/korea/getting-started-with-the-aws-cloud-development-kit-and-python/)
 * 10 Lessons from 10 Years of AWS
@@ -520,8 +525,9 @@ AWS
 * [빠르게 훑어보는 "AWS Hero와 함께하는 re:Invent reCap 온라인 세미나" 후기](https://jybaek.tistory.com/888)
 * 한국AWS사용자그룹 데이터사이언스 모임 자료 [datascience-group: AWSKRUG Datascience Small Group](https://github.com/awskrug/datascience-group)
   * [데이터사이언스 없이 추천시스템 만들기 - 디큐 :: 제39회 AWSKRUG DataScience모임 - YouTube](https://www.youtube.com/watch?v=bOjE3IWYSS8)
-* [AWS Community Day online 2020 - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu)
 * [AWS Builders 온라인 2021 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUWPziIFAho12lvGl1hR7ZZ5)
+* [AWS Community Day online 2020 - YouTube](https://www.youtube.com/playlist?list=PLX2fs3661XpMjuok2MTitzTxSaLXfxsBu)
+* [AWS Innovate 2021 - Data 특집 - YouTube](https://www.youtube.com/playlist?list=PLORxAVAC5fUW3stiOQeXwidbOvbm8xYbB)
 * AWS re:Invent
   * [AWS re:Invent 2019 AI/ML](https://www.youtube.com/playlist?list=PLV6rN8mnHlrfrGupPQkoif-HEp3lWiXdn)
     * [AWS re:Invent 2019 비하인드 스토리](http://channy.creation.net/blog/1250)
