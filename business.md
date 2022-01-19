@@ -28,6 +28,7 @@ Business
 * [성과주의가 조직을 망치는 5가지 이유](http://ppss.kr/archives/36083)
 * [번아웃을 막는 방법](https://subokim.wordpress.com/2013/04/12/prevent-burnout/)
 * [일 잘하는 당신, 번아웃에 빠지긴 더 쉽다는데](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=891)
+* [가끔씩 뭔가에 홀렸다고 할 정도로 이상한 결정을 하는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/buffer20220118)
 * [The World's 50 Most Innovative Companies](http://www.fastcompany.com/section/most-innovative-companies-2015)
 * [네카라쿠배당토 | 국내 IT 기업 목록](https://techcompanies.kr/)
 * [회사 내의 자위행위자들](http://ppss.kr/archives/39976)
@@ -167,6 +168,7 @@ Business
 * [Stop Being Micromanaged. Recognize the signs and manage up | by Vinita | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/stop-being-micromanaged-d341c3838ab3)
 * [‘마이크로매니징’을 피하면서 직원들을 돕는 방법 | 인사조직 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/2_1/article_no/1661)
 * [마이크로 매니징이 100% 실패하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241992)
+* [리멤버 대표가 망할 것 같다고 생각한 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/remember20220118) micromanagement의 실패
 * [개발자에서 관리자까지: 기술력을 유지해라](http://jinson.tistory.com/285)
 * [개발자가 관리자로 전환을 고려할 때 알아야 할 7가지 - ITWorld Korea](https://www.itworld.co.kr/news/177139)
 * [협상을 배워야 지지 않는다](http://ppss.kr/archives/49075)
@@ -388,6 +390,7 @@ Business
   * 한계를 알려면 한계를 넘어서 봐야 하는데 최선을 다한다고 항상 한계까지 가야 하는 것은 아님
   * 중요한 문제에 집중, 흥미를 찾아야 하는데 때로 흥미를 찾는 것은 재능을 찾기보다 더 어려움
   * 그래서 그 일을 계속 해야 하는지 가장 좋은 기준은 그 문제를 흥미롭게 생각하는가이고 이 기준을 적용하려면 자신에게 정직해야 함
+* [조직을 무너뜨리는 작은 거짓말, '이 방법'으로 막을 수 있습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/ethics20220118)
 * [Post 35: Your Standards are Too High — Neel Nanda](https://www.neelnanda.io/blog/35-standards) 자신에 대한 평가
 * [풀필먼트는 물류랑 무엇이 다른가?](https://brunch.co.kr/@graypool/80)
 * [넷플릭스가 성공한 이유는 문화도, 알고리즘도, 제품도 아니다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240583) 규모의 경제
@@ -896,6 +899,7 @@ Business
 * [Product Management for Engineers](https://www.notion.so/Product-Management-for-Engineers-3bdc32513f434eccb1610dd158f0dbcc)
 * [좋은 프로덕트 팀과 나쁜 프로덕트 팀의 17가지 차이](https://brunch.co.kr/@ashashash/101)
 * [IT 직무 탐구: 프로덕트 매니저 vs 프로덕트 오너 (+그 외) | 요즘IT](https://yozm.wishket.com/magazine/detail/905/)
+* [개발자만 품귀 현상이 아니다.. 경력직 PM 찾기가 하늘의 별 따기 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/pmpmpm20220118)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
@@ -1098,3 +1102,4 @@ Business
 * [실전 웹기획 - 윤리적인 기획과 마케팅](https://brunch.co.kr/@fbrudtjr1/39)
 * [Pretendard 커스텀 폰트 도입기 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/01/pretendard-%ec%bb%a4%ec%8a%a4%ed%85%80-%ed%8f%b0%ed%8a%b8-%eb%8f%84%ec%9e%85%ea%b8%b0/)
 * [스큐어모피즘부터 뉴모피즘까지, 스마트폰 UI의 역사](https://brunch.co.kr/@fbrudtjr1/41)
+* [쿠팡이츠는 어떻게 팔리는 경험을 만들어냈을까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/coupangeats20220118)
