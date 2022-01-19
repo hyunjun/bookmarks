@@ -416,6 +416,8 @@ Vision
   * [The evolution of WebRTC 1.0. - Advancing WebRTC](https://blog.mozilla.org/webrtc/the-evolution-of-webrtc/)
   * [pear: WebRTC Library for IoT/Embedded Device using C](https://github.com/sepfy/pear)
   * [webrtcH4cKS: ~ Open Source Cloud Gaming with WebRTC](https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/)
+* [Webtoon AI Painter](https://ai.webtoons.com/painter)
+  * [WebtoonMe](https://webtoon.github.io/WebtoonMe/)
 * [YoHa - A practical hand tracking engine | handtracking.io](https://handtracking.io/)
 * [YOLO: Real-Time Object Detection](https://pjreddie.com/darknet/yolo/)
   * [YOLO](https://curt-park.github.io/2017-03-26/yolo/)
