@@ -925,6 +925,7 @@ Docker
 * [Monitor Kubernetes with Prometheus & Grafana | Better Programming](https://medium.com/better-programming/monitor-your-kubernetes-cluster-with-prometheus-and-grafana-1f7d0195e59)
 * [13 Best Kubernetes Monitoring Tools: Open Source & Paid 2021 - Sematext](https://sematext.com/blog/kubernetes-monitoring-tools/)
 * [Launch HN: ContainIQ (YC S21) – Kubernetes Native Monitoring with eBPF | Hacker News](https://news.ycombinator.com/item?id=29825681)
+* [뱀이 지켜보고 있어요: Python으로 Kubernetes 모니터링 하기. 이상유 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=MYtipLD47cM)
 * [kubernetes를 이용한 서비스 무중단 배포](http://tech.kakao.com/2018/12/24/kubernetes-deploy/)
 * [Kubernetes and the Path to Serverless](https://www.youtube.com/watch?v=lKr6yw9Iw04)
 * [**Scaling Microservices with Message Queues, Spring Boot and Kubernetes**](https://hackernoon.com/scaling-microservices-with-message-queues-spring-boot-and-kubernetes-9ba4b0e48bdf)
