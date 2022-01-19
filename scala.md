@@ -756,6 +756,7 @@ Scala
   * [Scala Concurrency Advice: For Future Fun Fold On A FlatMap | by Bryan Bunch | Medium](https://medium.com/@brybunch/scala-concurrency-advice-for-future-fun-fold-on-a-flatmap-a06f37fdd498)
   * [Why Shouldn’t You Use Future\[Unit\] as a Return Type in a Scala Program | by Vigneshwaran Raveendran | The Startup | Aug, 2020 | Medium](https://medium.com/swlh/why-shouldnt-you-use-future-unit-as-a-return-type-in-a-scala-program-a4c58f95b343)
   * [Implementing a CountDownLatch (async and dirty) - Alexandru Nedelcu](https://alexn.org/blog/2021/02/22/countdownlatch-async-dirty.html)
+  * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=2MIkPOWSupw)
   * [futil: minimal utilities for Scala Futures](https://github.com/alexklibisz/futil)
 * Implicit
   * [practice - implicit parameter](https://gist.github.com/hyunjun/be0a11583dfcb41f4273e5957e1c8022#file-implicit_parameter-scala)
