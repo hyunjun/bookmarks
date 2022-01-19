@@ -9,6 +9,7 @@ Machine Learning
 * [Machine Learning Roadmap 2020](https://whimsical.com/CA7f3ykvXpnJ9Az32vYXva) mindmap
 * [ml-roadmap](https://github.com/merveenoyan/ml-roadmap)
 * [ml-engineer-roadmap: WIP: Roadmap to becoming a machine learning engineer in 2020](https://github.com/chris-chris/ml-engineer-roadmap)
+* [머신러닝 엔지니어 커리어 로드맵. 송호연 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=XM4hBpSylpM)
 * [Essential Guide to keep up with AI/ML/CV](https://github.com/BAILOOL/DoYouEvenLearn)
 * [머신러닝](https://www.youtube.com/playlist?list=PLVNY1HnUlO241gILgQloWAs0xrrkqQfKe)
 * [reddit.com/r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
