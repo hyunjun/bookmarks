@@ -304,6 +304,7 @@ Programming Language
   * [Write your own Excel in 100 lines of F#](http://tomasp.net/blog/2018/write-your-own-excel/)
   * [F# spoiled me, or why I don’t enjoy C# anymore](https://medium.com/@liman.rom/f-spoiled-me-or-why-i-dont-enjoy-c-anymore-39e025035a98)
   * [Railway Oriented Programming | F# for fun and profit](https://fsharpforfunandprofit.com/rop/)
+  * [Syme & Matsakis: F# in the Static v. Dynamic divide - YouTube](https://www.youtube.com/watch?v=Gq41S6TfJK0)
 * [F\*](https://www.fstar-lang.org/)
 * [Genie Language](https://wiki.gnome.org/Projects/Genie#More_Resources)
 * [Guile is a programming language](http://www.gnu.org/software/guile/)
@@ -580,3 +581,4 @@ Programming Language
 * [An experiment about static and dynamic type systems](https://www.ics.uci.edu/~jajones/INF102-S18/readings/23_hanenberg.pdf) doubts about the positive impact of static type systems on development time
 * [The Future of Programming is Dependent Types — Programming Word of the Day](https://medium.com/background-thread/the-future-of-programming-is-dependent-types-programming-word-of-the-day-fcd5f2634878)
 * [Demystifying Type Systems | by Ihor Morenets | Wix Engineering](https://medium.com/wix-engineering/demystifying-type-systems-3a16fafbd92e)
+* [Static vs. dynamic typing: The details and differences](https://www.femar.co.ke/2022/01/sd.html)
