@@ -737,6 +737,7 @@ App
       * [임베디드 개발자의 vscode + c/cpp extention 사용기 : 클리앙](https://www.clien.net/service/board/use/15746297)
       * [Red Hat Releases Language Support for Java Plugin 1.0 for VSCode](https://www.infoq.com/news/2021/11/java-plugin-version-1-vscode/)
       * [12 VS Code extensions for 2022 - YouTube](https://www.youtube.com/watch?v=g1IEmnNBul8)
+      * [Best VSCode Extensions you should consider in 2022 - Codipher](https://codipher.com/best-vscode-extensions/)
     * Git
       * [Visual Studio Code를 사용해 Git 커밋 메시지 작성하기](https://justhackem.wordpress.com/2018/01/30/writing-git-commit-messages-using-vscode/)
       * [mac에서 visual studio code를 git commit editor로 설정하기](http://blog.woniper.net/352)
