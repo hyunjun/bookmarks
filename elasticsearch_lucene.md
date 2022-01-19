@@ -510,6 +510,7 @@ ElasticSearch - Lucene
 * [Curator: Tending your time-series indices](https://www.elastic.co/kr/blog/curator-tending-your-time-series-indices)
 * [Eland Python Client | Elastic](https://www.elastic.co/guide/en/elasticsearch/client/eland/current/index.html)
   * [Dec 22nd KO Eland: 데이터 분석을 위한 Python client - Elastic Community and Ecosystem / Advent Calendar - Discuss the Elastic Stack](https://discuss.elastic.co/t/dec-22nd-ko-eland-python-client/291954)
+  * [주피터 노트북에서 Elasticsearch 데이터프레임 사용하기. 김종민 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=_bg_TarF8pM)
 * ElastAlert
   * [Elastalert로 로그 알람 구축하기](https://dailyhotel.io/elastalert%EB%A1%9C-%EB%A1%9C%EA%B7%B8-%EC%95%8C%EB%9E%8C-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-a5c770a86002)
   * [ElastAlert: Alerting At Scale With Elasticsearch, Part 1](https://engineeringblog.yelp.com/2015/10/elastalert-alerting-at-scale-with-elasticsearch.html)
