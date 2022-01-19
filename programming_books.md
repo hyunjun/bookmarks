@@ -334,6 +334,7 @@ Programming Books
 * (NOT YET) [Microservices Up & Running](https://jybaek.tistory.com/933)
 * (NOT YET) [만들면서 배우는 클린 아키텍처 | 위키북스](https://wikibook.co.kr/clean-architecture/) hexagonal architecture
   * [독서광 만들면서 배우는 클린 아키텍처 (이벤트 있음)](https://jhrogue.blogspot.com/2021/12/blog-post.html)
+  * [clean-architecture: 《만들면서 배우는 클린 아키텍처》 예제 코드](https://github.com/wikibook/clean-architecture)
 * (NOT YET) [Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
   * [번역할 뻔 했던 Patterns of Enterprise Application Architecture - 뒤태지존의 끄적거림](https://homoefficio.github.io/2015/10/16/%EB%B2%88%EC%97%AD%ED%95%A0-%EB%BB%94-%ED%96%88%EB%8D%98-Patterns-of-Enterprise-Application-Architecture/)
 
