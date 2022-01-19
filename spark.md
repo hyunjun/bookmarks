@@ -45,6 +45,7 @@
   * [Spark Fundamentals I](http://bigdatauniversity.com/bdu-wp/bdu-course/spark-fundamentals/)
   * [Spark Fundamentals II](http://bigdatauniversity.com/bdu-wp/bdu-course/spark-fundamentals-ii/)
 * [Apache Spark Full Course | Spark Tutorial For Beginners | Complete Spark Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=xoxns-p98Oc)
+* [Top 5 Online Courses to Learn Apache Spark in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/11/top-5-courses-to-learn-apache-spark-in.html)
 * [Introduction to Spark](https://www.dataquest.io/mission/123/introduction-to-spark/)
 * [Introduction to Apache Spark with Scala](https://medium.com/@Babatee760/introduction-to-apache-spark-with-scala-ed31d8300fe4)
 * [Python and Bigdata - An Introduction to Spark (PySpark)](https://www.slideshare.net/hiteshnd/python-and-bigdata-an-introduction-to-spark-pyspark)
