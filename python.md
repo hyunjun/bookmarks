@@ -2686,6 +2686,7 @@ Python
   * [How to Program a GUI Application (with Python Tkinter)!](https://www.youtube.com/watch?v=D8-snVfekto)
   * [파이썬 Python 코딩 - GUI tkinter 음료주문 프로그램 업그레이드 - YouTube](https://www.youtube.com/watch?v=qEX8QM_hFT4)
   * [How to Build a Weather App in Python? | GeeksforGeeks - YouTube](https://www.youtube.com/watch?v=3w0XfBU2ufw)
+  * [tkinter Archives - Artificial Intelligence](https://artificialintelligencestechnology.com/category/python/tkinter/)
 
 # IPython & Jupyter
 * [Jupyter](http://jupyter.org/try)
@@ -3497,6 +3498,7 @@ Python
 * [pylearn2-practice](https://github.com/zygmuntz/pylearn2-practice)
 * Pylons
   * [Build a document search engine using Xapian and Pylons](http://invisibleroads.com/tutorials/xapian-search-pylons.html)
+* [PyNaver: naver open api for python](https://github.com/WooilJeong/PyNaver)
 * [PyMC: Bayesian Stochastic Modelling in Python http://pymc-devs.github.com/pymc ](https://github.com/pymc-devs/pymc)
   * [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
   * [A/B Testing with Hierarchical Models in Python](http://blog.dominodatalab.com/ab-testing-with-hierarchical-models-in-python/)
@@ -4452,6 +4454,7 @@ Python
   * [How to analyse 100 GB of data on your laptop with Python](https://towardsdatascience.com/how-to-analyse-100s-of-gbs-of-data-on-your-laptop-with-python-f83363dda94)
   * [Beyond Pandas: Spark, Dask, Vaex and other big data technologies battling head to head | by Jonathan Alexander | Towards Data Science](https://towardsdatascience.com/beyond-pandas-spark-dask-vaex-and-other-big-data-technologies-battling-head-to-head-a453a1f8cc13)
   * [7 reasons why I love Vaex for data science | by Jovan Veljanoski | Towards Data Science](https://towardsdatascience.com/7-reasons-why-i-love-vaex-for-data-science-99008bc8044b)
+  * [Uncluster Your Data Science Using Vaex • Maarten Breddels & Jovan Veljanoski • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=ykxhj9xJdWY)
 
 # Parser
 * [Full Javascript Parser - Abstract Syntax Tree](http://hz2.org/blog/ast.html)
