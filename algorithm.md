@@ -257,6 +257,7 @@ Algorithm
 * [Shopping options | CODER SITE for developers](https://codersite.dev/shopping-options/)
 * [Merge two Sorted Lists | CODER SITE for developers](https://codersite.dev/merge-two-sorted-lists/)
 * [Optimize a basket in online purchases | CODER SITE for developers](https://codersite.dev/optimize-online-purchases/)
+* [Algorithm Archives - CodeCrucks](https://codecrucks.com/category/algorithm/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
