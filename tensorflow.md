@@ -457,6 +457,7 @@ TensorFlow
 * [Knowledge Distillation Methods with Tensorflow](https://github.com/sseung0703/Knowledge_distillation_methods_wtih_Tensorflow)
 * [Knowledge Distillation 리뷰](https://ezobear.github.io/model%20compression/2020/01/02/KD-post.html)
 * [FunMatch-Distillation: TF2 implementation of knowledge distillation using the "function matching" hypothesis from https://arxiv.org/abs/2106.05237 ](https://github.com/sayakpaul/FunMatch-Distillation)
+* [DMQA Open Seminar Introduction to Knowledge Distillation - YouTube](https://www.youtube.com/watch?v=pgfsxe8sROQ)
 * [NovelViewSynthesis - A TensorFlow implementation of a simple Novel View Synthesis model on ShapeNet (cars and chairs), KITTI, and Synthia](https://github.com/shaohua0116/NovelViewSynthesis-TensorFlow)
 * [Cutting Edge TensorFlow: New Techniques (Google I/O'19)](https://www.youtube.com/watch?v=Un0JDL3i5Hg)
 * [RBM Deep Dive with Tensorflow (KR)](https://dos-tacos.github.io/code%20review/RBM/)
