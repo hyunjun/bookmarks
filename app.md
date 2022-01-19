@@ -368,6 +368,7 @@ App
 # Bookmark
 * [Bort - Keep your website bookmarks in sync on all your devices regardless of which browser you use](https://bort.io/)
 * [Memex - Bookmarking for the power users of the web](https://getmemex.com/)
+* [Pocket](https://getpocket.com/)
 * [Raindrop.io — All-in-one bookmark manager](https://raindrop.io/)
 
 # Chrome
