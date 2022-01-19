@@ -92,6 +92,7 @@ Open Source
 * [슬기로운 오픈소스 생활 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=2lL2eRQch2o)
 * ['보시 어워드 2021' 올해 최고의 오픈소스 소프트웨어 29선 - ITWorld Korea](https://www.itworld.co.kr/news/212054)
 * [의존성 위험성과 펀딩 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1577)
+* [오픈소스 생각보다 어렵더래요. 이왕원 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=o_13962jDT4)
 
 # Amazon
 * [Amazon DSSTNE: Deep Scalable Sparse Tensor Network Engine](https://github.com/amznlabs/amazon-dsstne)
