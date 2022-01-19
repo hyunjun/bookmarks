@@ -1813,6 +1813,7 @@ Programming
 * [Semgrep](https://semgrep.dev/)
   * [Semgrep - 오픈소스 정적 코드 분석 도구 | GeekNews](https://news.hada.io/topic?id=4122)
   * [어떻게 두 명의 인턴이 수백만개의 코드들을 보호할 수 있었나 | 요즘IT](https://yozm.wishket.com/magazine/detail/1210/)
+  * [배포 전 소스코드 취약점 진단 자동화로 프로덕션 환경에서 보안 사고 예방하기. 최지헌 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=ZfZ3QZl1GnE)
 * Space [JetBrains 신제품 Space 및 Code With Me 로 생산적인 개발자 되기 by Mikhail Vink - YouTube](https://www.youtube.com/watch?v=J1mL-ghvfx0&t=902)
 * Upsource 가이드
   * [1. AWS에 구축하기](http://jojoldu.tistory.com/256)
@@ -1998,6 +1999,7 @@ Programming
   * [GOTO CHICAGO 2019](https://gotochgo.com/2019/)
   * [GOTO COPENHAGEN 2019](https://gotocph.com/2019)
   * [The Do's and Don'ts of Error Handling](https://gotochgo.com/2018/sessions/352)
+  * [Digital Transformations • Jan Damsgaard • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=_K8df4y6HNI)
 * hack.summit
   * [Ed Roman](https://www.youtube.com/channel/UC4cQofuQfO-Z_44abUy13Dg)
 * if kakao
