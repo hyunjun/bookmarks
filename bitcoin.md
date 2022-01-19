@@ -159,6 +159,7 @@ Bitcoin
 
 # Course MOOC Lecture
 * [블록체인 - YouTube](https://www.youtube.com/playlist?list=PLOml5j0-AMQlK3XgFiGHBFMnQdT8MlUai)
+* [6 Best Places to Learn Blockchain for Beginners](https://morioh.com/p/8ada1de202f8)
 
 # Etherium
 * [What is Ethereum?](http://etherscripter.com/what_is_ethereum.html)
