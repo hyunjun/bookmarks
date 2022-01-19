@@ -447,6 +447,7 @@ Python
 * [5% of 666 Python repos had comma typos (including Tensorflow, and PyTorch, Sentry, and V8) | by Code Review Doctor | Jan, 2022 | Dev Genius](https://blog.devgenius.io/5-of-666-python-repos-had-comma-typos-including-tensorflow-and-pytorch-sentry-and-v8-7bc3ad9a1bb7)
 * [Ask HN: Good Python projects to read for modern Python? | Hacker News](https://news.ycombinator.com/item?id=29698198)
   * [최신 Python을 익히기에 좋은 프로젝트는 ? | GeekNews](https://news.hada.io/topic?id=5635)
+* [파이썬 40줄로 Wordle을 풀어보자](https://tanstaafl.dev/20220116-wordle.html)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
@@ -4235,6 +4236,7 @@ Python
 * [Data Engineering with Python](https://www.youtube.com/watch?v=R2Kr2ELpwQI) Numpy & Pandas
 * [Pythonic Data Cleaning With Pandas and NumPy](https://realpython.com/python-data-cleaning-numpy-pandas/)
 * [파이썬(python) numpy 의 array(ndarray)와 matrix 데이터 타입](https://thrillfighter.tistory.com/482)
+* [Matrix Subtraction Explained (with Python Examples) - Linear Algebra](https://pyshark.com/matrix-subtraction-explained-using-python/)
 * [NumPy Tutorial 2020 - YouTube](https://www.youtube.com/watch?v=8Y0qQEh7dJg)
 * [Python NumPy Tutorial | NumPy Array | Python Tutorial For Beginners | Python Training | Simplilearn - YouTube](https://www.youtube.com/watch?v=j31ah5Qa4QI)
 * [Python Numpy. Overview & Getting started | by Keno Leon | Medium](https://medium.com/@k3no/python-numpy-aac458ea6134)
