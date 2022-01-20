@@ -46,6 +46,7 @@ Finance
 * [대가들의 투자 지침 01 - 자본 보존에 대해 : 네이버 블로그](https://blog.naver.com/jeunkim/222308104212)
 * [소고기프로젝트 시작 페이지 입니다](https://beefproj.github.io/)
   * [**라즈베리파이로 주식투자하기 | GeekNews**](https://news.hada.io/topic?id=5658)
+* [신용카드 대체한다는 BNPL, 무엇인가요?](https://blog.toss.im/article/what-is-bnpl)
 
 # 투자
 * [투자 입문자가 꼭 읽어야 할 책 25선](http://ppss.kr/archives/34729)
