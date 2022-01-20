@@ -996,6 +996,7 @@ AWS
 * [A Hybrid Approach: Why Pure Serverless Isn’t Always the Answer | by Aaron Lieberman | Medium](https://aaron-59388.medium.com/a-hybrid-approach-why-pure-serverless-isnt-always-the-answer-f4cfa3468c2)
 * [Feature Flags: Good, Bad and Serverless | by Gal Naor | CyberArk Engineering | Nov, 2021 | Medium](https://medium.com/cyberark-engineering/feature-flags-good-bad-and-serverless-432df10416e1)
 * [Developing evolutionary architecture with AWS Lambda | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/developing-evolutionary-architecture-with-aws-lambda/)
+* [Vulnerable AWS Lambda function - Initial access in cloud attacks – Sysdig](https://sysdig.com/blog/exploit-mitigate-aws-lambdas-mitre/)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
