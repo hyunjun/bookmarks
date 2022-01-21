@@ -457,6 +457,7 @@ AWS
 * [The top Amazon Science blog posts of 2021 - Amazon Science](https://www.amazon.science/latest-news/the-top-amazon-science-blog-posts-of-2021)
 * [차량용 단말을 위한 IoT 파이프라인 구축기 #1 - SOCAR Tech Blog](https://tech.socarcorp.kr/mobility/2022/01/06/socar-iot-pipeline-1.html)
 * [Performance Analysis for Arm vs x86 CPUs in the Cloud](https://www.infoq.com/articles/arm-vs-x86-cloud-performance/)
+* [Amazon Comprehend 기반 설공 상품평 분석을 통한 상품 트렌드 예측도 개선하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-comprehend-goods-trend-prediction/)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
