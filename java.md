@@ -402,6 +402,7 @@ Java
 * [더북(TheBook): 전문가를 위한 스프링 5](https://thebook.io/006987/) 1~4장만
 * [더북(TheBook): 자바 코딩의 기술](https://thebook.io/007025/) 1~3장만
 * [다시 읽는 모던 자바 인 액션 - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=52527454)
+* [Top 20 Books Java Programmers Can Read](https://javarevisited.blogspot.com/2017/12/top-20-java-books-of-2017-which-you-can-read-in-2018.html)
 * [Seriously Good Software](https://www.manning.com/books/seriously-good-software)
   * [exercises in style — Bitbucket](https://bitbucket.org/mfaella/exercisesinstyle/src/master/)
 * Effective Java
@@ -636,6 +637,7 @@ Java
 * [Let’s replace common list and map usage patterns with Vavr](https://blog.softwaremill.com/lets-replace-common-list-and-map-usage-patterns-with-vavr-663b1f37a0d8)
 * [Java 8 Method reference - Java2Blog](https://java2blog.com/java-8-method-reference/)
 * [You can't afford to run Java 8](https://mikemybytes.com/2021/03/16/you-cant-afford-to-run-java-8/)
+* [Java 8 - Map and Reduce Example Tutorial | Java67](https://www.java67.com/2016/09/map-reduce-example-java8.html)
 
 ## Java8 Library
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)

@@ -522,6 +522,10 @@ AWS
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
 
+# Comprehend
+* [자연어 처리 - Amazon Comprehend - Amazon Web Services](https://aws.amazon.com/ko/comprehend/)
+* [Amazon Comprehend 기반 설공 상품평 분석을 통한 상품 트렌드 예측도 개선하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-comprehend-goods-trend-prediction/)
+
 # Conference
 * [빠르게 훑어보는 "AWS Hero와 함께하는 re:Invent reCap 온라인 세미나" 후기](https://jybaek.tistory.com/888)
 * 한국AWS사용자그룹 데이터사이언스 모임 자료 [datascience-group: AWSKRUG Datascience Small Group](https://github.com/awskrug/datascience-group)
@@ -1190,6 +1194,7 @@ AWS
 * [R로 AWS Lambda에서 Rest API 만들기](https://www.notion.so/R-AWS-Lambda-Rest-API-33d4231753b148a487b4ad26a232d9a4)
 
 # RDS
+* [Amazon RDS에 대한 할당량 및 제약 조건 - Amazon Relational Database Service](https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/CHAP_Limits.html#RDS_Limits.MaxConnections)
 * [Best Practices for Using AWS Lambda with RDS/RDBMS Solutions (SRV301-R1) - AWS re:Invent 2018](https://www.slideshare.net/AmazonWebServices/best-practices-for-using-aws-lambda-with-rdsrdbms-solutions-srv301r1-aws-reinvent-2018)
 * [서로 다른 계정의 RDS에 대량 데이터 복사하기](http://jojoldu.tistory.com/333)
 * [AWS - RDS](https://opentutorials.org/module/3860)

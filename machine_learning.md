@@ -10,6 +10,7 @@ Machine Learning
 * [ml-roadmap](https://github.com/merveenoyan/ml-roadmap)
 * [ml-engineer-roadmap: WIP: Roadmap to becoming a machine learning engineer in 2020](https://github.com/chris-chris/ml-engineer-roadmap)
 * [머신러닝 엔지니어 커리어 로드맵. 송호연 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=XM4hBpSylpM)
+* [How to Become a Machine Learning Engineer in 2022? Step-by-Step](https://www.mltut.com/how-to-become-a-machine-learning-engineer/)
 * [Essential Guide to keep up with AI/ML/CV](https://github.com/BAILOOL/DoYouEvenLearn)
 * [머신러닝](https://www.youtube.com/playlist?list=PLVNY1HnUlO241gILgQloWAs0xrrkqQfKe)
 * [reddit.com/r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/)
@@ -896,6 +897,7 @@ Machine Learning
 * [Best Resources to Learn Machine Learning Online in 2021](https://www.mltut.com/best-resources-to-learn-machine-learning-online/)
 * [learning-machine: A handbook for ML built on answers](https://github.com/rentruewang/learning-machine)
   * [A handbook for machine learning with python](https://pythonawesome.com/a-handbook-for-machine-learning-with-python/)
+* [scikit-learn MOOC](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
 
 # C#
 * [C# 으로 Machine Learning ML.net - 1](http://name267.tistory.com/entry/C-%EC%9C%BC%EB%A1%9C-Machine-Learning-MLnet-1)

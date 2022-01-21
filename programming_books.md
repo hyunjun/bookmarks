@@ -1022,6 +1022,7 @@ Programming Books
 
 # Flutter
 * (NOT YET) [처음 배우는 플러터 : 예제로 배우는 크로스 플랫폼 애플리케이션 개발](http://www.hanbit.co.kr/store/books/look.php?p_code=B8753032429)
+  * [처음 배우는 플러터 :: 배워서 남주자](https://countryxide.tistory.com/177)
 * (NOT YET) [소문난 명강의 : 오준석의 플러터 생존 코딩](http://hanbit.co.kr/store/books/look.php?p_code=B9770627589)
 
 # Functional programming

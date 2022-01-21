@@ -306,6 +306,7 @@ Scala
 * [Why Scala (still) hasn't missed the Android opportunity](https://www.scalawilliam.com/scala-android-opportunity/)
 * [How to build an Android app in Scala 2.13 – Making the matrix](https://makingthematrix.wordpress.com/2021/04/07/how-to-build-an-android-app-in-scala-2-13/)
 * [JDK 16's Top 5 for Scala](https://www.scalawilliam.com/jdk16-scala-top5/)
+* [Migrating to Java 17. At SwissBorg, we have been using Scala… | by Julien Deray | SwissBorg Engineering | Jan, 2022 | Medium](https://medium.com/swissborg-engineering/migrating-to-java-17-2ed137ee2eec)
 * [THE most important programming concept explained in 35 seconds. - YouTube](https://www.youtube.com/watch?v=7_cqmqPGLhM)
 * [Extreme Cleverness: Functional Data Structures in Scala - Daniel Spiewak - YouTube](https://www.youtube.com/watch?v=pNhBQJN44YQ)
 * [Scala is a Maintenance Nightmare - MungingData](https://mungingdata.com/scala/maintenance-nightmare-upgrade/)
@@ -1986,6 +1987,7 @@ Scala
 * [Automatic UI generation with Scala 3's type class derivation | kavedaa programming blog](https://kavedaa.github.io/auto-ui-generation/auto-ui-generation.html)
 * [Typeclasses in Scala 3 | 47 Degrees](https://www.47deg.com/blog/scala-3-typeclasses/)
 * [Automatically Deriving Typeclass Instances in Scala 3 | 47 Degrees](https://www.47deg.com/blog/scala-3-deriving-typeclasses/)
+* [Type Class Derivation in Scala 3. Deriving type classes without macros in… | by Ron Aharoni | Riskified Technology | Dec, 2021 | Medium](https://medium.com/riskified-technology/type-class-derivation-in-scala-3-ba3c7c41d3ef)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=v9Qgb0c8Rx8)
   * case class/object pattern matching, extention method
   * `def doubleInt(n: 2 | 3 | 10): Int = n * 2` function parameter에 type대신 value도 가능, 즉 특정 값을 type 대신 사용 가능 e.g. `val n10: 10 = 10`
@@ -2047,6 +2049,7 @@ Scala
 * [Scala 3: What’s Changed Since Scala 3.0.0 | by Dean Wampler | Scala 3 | Sep, 2021 | Medium](https://medium.com/scala-3/scala-3-whats-changed-since-scala-3-0-0-be0830c059f5)
 * [Telegram Bot In Scala 3 With Bot4s + http4s + Doobie for CI notifications | Hacker Noon](https://hackernoon.com/telegram-bot-in-scala-3-with-bot4s-http4s-doobie-for-ci-notifications)
 * [Scala Beyond 3.0 - The Quest for Simplicity - Martin Odersky - YouTube](https://www.youtube.com/watch?v=NXTjnowBx-c)
+* [Safer Exceptions in Scala 3. I mentioned in What’s Changed Since… | by Dean Wampler | Scala 3 | Jan, 2022 | Medium](https://medium.com/scala-3/safer-exceptions-in-scala-3-12c47100f050)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
@@ -2417,4 +2420,5 @@ Scala
 * [scala-3-advanced: The official repository for the Rock the JVM Advanced Scala course](https://github.com/rockthejvm/scala-3-advanced)
   * [Advanced Scala 3 and Functional Programming Course Overview - YouTube](https://www.youtube.com/watch?v=ohb1MfqYz6I)
 * [Scala isn't Hard: How to Master Scala Step by Step - Developer’s kit](https://scalac.io/blog/scala-isnt-hard-how-to-master-scala-step-by-step/)
+* [Learn Scala with Online Courses | The Scala Programming Language](https://www.scala-lang.org/blog/2022/01/19/learn-scala-with-online-courses.html)
 * [2020 Hindsight - Scala | 2020 Hindsight - Scala](https://2020-hindsight-scala.kevinly.dev/)

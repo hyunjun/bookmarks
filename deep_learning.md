@@ -1310,6 +1310,8 @@ Deep Learning
 * [gemmlowp: a small self-contained low-precision GEMM library](https://github.com/google/gemmlowp)
 * [hiplot - HiPlot makes understanding high dimensional data easy](https://github.com/facebookresearch/hiplot)
   * [페이스북 AI, 인공지능 개발자·연구자 위한... AI 대화식 시각화 도구 'HiPlot' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=15348)
+  * [HiPlot: High-dimensional interactive plots made easy](https://ai.facebook.com/blog/hiplot-high-dimensional-interactive-plots-made-easy)
+  * [Visualizing Backpropagation in Neural Network Training at Any Scale | by Deval Parikh | Jan, 2022 | Towards Data Science](https://towardsdatascience.com/visualizing-backpropagation-in-neural-network-training-2647f5977fdb)
 * [Horovod - a distributed training framework for TensorFlow, Keras, and PyTorch](https://github.com/uber/horovod)
   * [Training Deep Neural Networks on Distributed GPUs - YouTube](https://www.youtube.com/watch?v=jQgYuThPZVM)
 * [Gradient Boosting Interactive Playground](http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html)

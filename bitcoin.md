@@ -256,3 +256,4 @@ Bitcoin
 * [Moxie Marlinspike >> Blog >> My first impressions of web3](https://moxie.org/2022/01/07/web3-first-impressions.html)
   * [**Web3에 대한 나의 첫 인상 | GeekNews**](https://news.hada.io/topic?id=5771)
 * [Build a WEB3 app to mint unlimited NFTs… But should you? - YouTube](https://www.youtube.com/watch?v=meTpMP0J5E8)
+* [블록체인판 Web3 열풍 속 현실적 반론 :: Channy's Blog](http://channy.creation.net/blog/1509)
