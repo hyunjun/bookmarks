@@ -45,7 +45,6 @@
 * [인상적인 코딩 테스트 그리고 합격](https://www.popit.kr/%EC%9D%B8%EC%83%81%EC%A0%81%EC%9D%B8-%EC%BD%94%EB%94%A9-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%95%A9%EA%B2%A9/) 제목과 달리 가장 중요한 건 SOLID를 알고 구현하고 설명할 수 있어야 한다는 이야기
 * [객체지향 SOLID 원칙 - SRP, OCP, LSP, ISP, DIP](https://devkingdom.tistory.com/296)
 * [Interface Segregation Principle of SOLID | ISP - Tech Point Fundamentals](https://www.techpointfunda.com/2021/10/interface-segregation-principle.html)
-* [SOLID principles: The Definitive Guide (Part I) | CODER SITE for developers](https://codersite.dev/solid-principles-the-definitive-guide/)
 * [결합도와 응집도 이야기](https://devkingdom.tistory.com/300)
 * [싱글턴은 정적이지 않다](https://justhackem.wordpress.com/2017/07/05/singleton-is-not-static/)
 * [꼬리에 꼬리를 무는 - 유사 디자인 패턴들(1/2편)](http://hamait.tistory.com/868)
@@ -61,6 +60,8 @@
 * [Object-oriented Programming in 7 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8)
 * [Robert.C.Martin 블로그 번역-1 : 단일 책임 원칙(The Single Responsibility Principle)](https://medium.com/@joohotheman/robert-c-martin-블로그-번역-1-단일-책임-원칙-the-single-responsibility-principle-edabedde6240)
 * [Robert.C.Martin 블로그번역 -2 개방/폐쇄 원칙에 대하여(The Open/Closed Principle)](https://medium.com/@joohotheman/robert-c-martin-블로그번역-2-개방-폐쇄-원칙에-대하여-the-open-closed-principle-c80388209e89)
+* [SOLID principles: The Definitive Guide (Part I) | CODER SITE for developers](https://codersite.dev/solid-principles-the-definitive-guide/)
+* [SOLID principles: The Open-Closed Principle (Part II) | CODER SITE for developers](https://codersite.dev/open-closed-principle/)
 * [10 OOP Design Principles Every Programmer Should Know](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65)
 * [The Liskov Substitution Principle — and why you might want to enforce it](https://hackernoon.com/the-liskov-substitution-principle-and-why-you-might-want-to-enforce-it-6f5bbb05c06d)
 * [Liskov Substitution Principle of SOLID | LSP - Tech Point Fundamentals](https://www.techpointfunda.com/2021/10/liskov-substitution-principle.html)
