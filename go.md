@@ -297,6 +297,7 @@ Go
   * 플러그인 시스템은 Terraform 등의 메인 시스템과 gRPC로 통신
   * 플러그인 서비스는 바이너리를 실행하기 때문에 플러그인 시스템과 바이너리의 빌드를 다르게 해서 배포 가능
   * 실제로 플러그인을 어떤 함수를 구현해야 하는지를 설명하고 이러한 동작이 Terraform에서는 어떻게 되는지 설명
+* [Go Programming Language Installation - GO Tutorial](https://technologystrive.com/golang/go-installation/)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
