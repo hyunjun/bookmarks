@@ -1194,6 +1194,7 @@ AWS
 * [R로 AWS Lambda에서 Rest API 만들기](https://www.notion.so/R-AWS-Lambda-Rest-API-33d4231753b148a487b4ad26a232d9a4)
 
 # RDS
+* [Amazon RDS에 대한 할당량 및 제약 조건 - Amazon Relational Database Service](https://docs.aws.amazon.com/ko_kr/AmazonRDS/latest/UserGuide/CHAP_Limits.html#RDS_Limits.MaxConnections)
 * [Best Practices for Using AWS Lambda with RDS/RDBMS Solutions (SRV301-R1) - AWS re:Invent 2018](https://www.slideshare.net/AmazonWebServices/best-practices-for-using-aws-lambda-with-rdsrdbms-solutions-srv301r1-aws-reinvent-2018)
 * [서로 다른 계정의 RDS에 대량 데이터 복사하기](http://jojoldu.tistory.com/333)
 * [AWS - RDS](https://opentutorials.org/module/3860)
