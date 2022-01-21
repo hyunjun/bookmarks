@@ -467,6 +467,7 @@ Business
 * [채용에 대해](https://www.thestartupbible.com/2022/01/hire-as-if-today-is-your-last-day.html) 이렇게까지 해야 하나 싶을 정도로 절박하게 하라는 이야기
 * [채용이 곧 회사의 수준입니다 | RBBM](https://www.redbusbagman.com/recruiting/)
 * [인사팀은 사실 컬처팀, 문화팀이다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/248688)
+* [하드 스킬보다 소프트 스킬이 중요하다. - T Times](http://www.ttimes.co.kr/view.html?no=2022012016577779004) 머스크가 좋은 놈인지 모르겠는데 나쁜 놈은 안 된다는 게 아이러니하긴 하지만 이야기 자체는 동의
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
