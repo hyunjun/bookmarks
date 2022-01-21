@@ -424,6 +424,7 @@ Java
 * [Part 2: Concurrency & Synchronization in Java Multithreading - YouTube](https://www.youtube.com/watch?v=6YLGGLkVR98)
 * [Part 3: Multithreading InterThread Communication | Producer Consumer using wait and notify - YouTube](https://www.youtube.com/watch?v=DfKRNMRXgzY)
 * [Part 4: Print Even and Odd Numbers Using 2 Threads in Java | Inter thread communication - YouTube](https://www.youtube.com/watch?v=mV60tgY2sfA)
+* [Producer Consumer Problem with Wait and Notify - Thread Example Tutorial | Java67](https://www.java67.com/2012/12/producer-consumer-problem-with-wait-and-notify-example.html)
 * [ThreadLocal과 ThreadPool](https://tmondev.blog.me/221212500642)
 * [Java Thread States and Life Cycle](https://www.uml-diagrams.org/java-thread-uml-state-machine-diagram-example.html)
 * [Snippets About Concurrency](https://hackernoon.com/a-sad-story-about-concurrency-346990a9a3fe)
