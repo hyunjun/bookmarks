@@ -875,6 +875,7 @@ SQL
 * [PostgreSQL (Aurora) 10 vs 11 버전 성능 비교](https://jojoldu.tistory.com/630)
 * [NodeJS 와 PostgreSQL Query Timeout](https://jojoldu.tistory.com/631)
 * [NOT IN 쿼리 성능 개선하기 (PostgreSQL)](https://jojoldu.tistory.com/632)
+* [NodeJS 와 PostgreSQL Connection Pool](https://jojoldu.tistory.com/634)
 * EdgeDB
   * [EdgeDB—The next generation database](https://edgedb.com/)
   * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
