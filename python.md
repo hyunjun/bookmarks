@@ -4671,6 +4671,7 @@ Python
   * [테스트 코드 작성기(1) — 단위 테스트 프레임워크 | by Paikend | 오늘의헤드라인 | Jan, 2021 | Medium](https://medium.com/oheadline/mock%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%EA%B8%B0-1-%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8-%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC-8c1139f9ff2b)
   * [Effective Python Testing With Pytest – Real Python](https://realpython.com/pytest-python-testing/)
   * [Web UI Testing in Python - YouTube](https://www.youtube.com/watch?v=wTGKOgOJbEk) selenium
+  * [Beyond Unit Tests End to End Web UI Testing – Andrew Knight (PyCon Taiwan 2021) - YouTube](https://www.youtube.com/watch?v=omNT_FtHdr4)
   * [playwright-python: Python version of the Playwright testing and automation library](https://github.com/microsoft/playwright-python)
     * [Announcing Playwright for Python: Reliable end-to-end testing for the web | Python](https://devblogs.microsoft.com/python/announcing-playwright-for-python-reliable-end-to-end-testing-for-the-web/)
   * [pytest-bdd - BDD library for the py.test runner](https://github.com/pytest-dev/pytest-bdd)
@@ -4702,6 +4703,7 @@ Python
   * [Allow doubling a particular instance method on all instances of a class](https://github.com/uber/doubles/issues/90)
   * [Today I Learned: 파이썬 단위 테스트 모듈, unittest](https://sjquant.github.io/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%EB%8B%A8%EC%9C%84%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%AA%A8%EB%93%88-unittest/)
   * [Python Unit Testing With VS Code](https://www.youtube.com/watch?v=6baJ5t83820)
+  * [Python Tutorial: Unit Testing Your Code with the unittest Module - YouTube](https://www.youtube.com/watch?v=6tNS--WetLI)
 * [unittest2pytest - Convert unittest asserts to pytest rewritten asserts](https://github.com/dropbox/unittest2pytest)
 * [vcr.py - Automatically mock your HTTP interactions to simplify and speed up testing](https://github.com/kevin1024/vcrpy)
 
