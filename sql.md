@@ -711,6 +711,7 @@ SQL
 
 # Oracle
 * [오라클 중복레코드삭제 다양한 방법들 - YouTube](https://www.youtube.com/watch?v=3XZiBjFOSAs)
+* [Oracle | 오라클 클라우드 ATP Database 생성과 DBeaver로 연결하기](https://yian.tistory.com/49)
 * examples
   * [practice - oracle queries](https://gist.github.com/hyunjun/20ed3f7d381fadc17dbe)
 * Pro\*C
