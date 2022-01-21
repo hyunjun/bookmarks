@@ -274,6 +274,7 @@ Vision
 * [The Ancient Secrets of Computer Vision - An Introduction to Computer Vision](https://pjreddie.com/courses/computer-vision/)
 * [7 Best Free Computer Vision Courses You Must Know in 2022](https://www.mltut.com/best-free-computer-vision-courses)
 * [Computer Vision and Image Processing Fundamentals - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1kRXvGQcIG_LG3OQtD_n6dW)
+* [7 Best Free Computer Vision Courses You Must Know in 2022](https://www.mltut.com/best-free-computer-vision-courses)
 
 # Deep Learning
 * [Deep Learning based Detection](http://tmmse.xyz/deep-learning-based-detection/)
