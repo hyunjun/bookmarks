@@ -2686,6 +2686,7 @@ Programming
 * [이미지 최적화 자동화하기](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/automating-image-optimization/?hl=ko)
 * [Image Formats, Performance and Cognitive Load](https://www.infoq.com/presentations/image-formats-performance/)
 * [jpeg.md at master · corkami/formats](https://github.com/corkami/formats/blob/master/image/jpeg.md)
+* [The Unreasonable Effectiveness of JPEG: A Signal Processing Approach - YouTube](https://www.youtube.com/watch?v=0me3guauqOU)
 * [Finally understanding PNG | Compress-Or-Die](https://compress-or-die.com/Understanding-PNG)
 * [Boosting image processing performance, from ImageMagick to Libvips | by Dimitri Bouron | Criteo R&D Blog | Medium](https://medium.com/criteo-engineering/boosting-image-processing-performance-from-imagemagick-to-libvips-268cc3451d55)
 * [Why Your Website Should Not Use Dithered Images - Simple Thread](https://www.simplethread.com/why-your-website-should-not-use-dithered-images/)
