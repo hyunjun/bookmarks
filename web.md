@@ -710,6 +710,7 @@ Web
   * 하나의 클러스터 안에서 새로운 세트의 NLB와 nginx ingress controller를 생성한 뒤 NLB를 바라보든 DNS를 하나씩 옮기면서 테스트하고 기존 NLB와 nginx ingress controller를 삭제
 * [Upgrading Executable on the Fly](https://nginx.org/en/docs/control.html#upgrade)
   * [**실행중에 실행파일 업그레이드하기 | GeekNews**](https://news.hada.io/topic?id=5699)
+* [Do Svidaniya, Igor, and Thank You for NGINX - NGINX](https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
 * [NGINXConfig | DigitalOcean](https://www.digitalocean.com/community/tools/nginx)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
