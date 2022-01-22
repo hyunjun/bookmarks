@@ -80,8 +80,6 @@ Google Cloud Platform GCP
 * [DNS 부터 하나씩 Google cloud 로 서비스 해보기 - 1탄 Cloud DNS](https://medium.com/@jwlee98/gcp-dns-%EB%B6%80%ED%84%B0-%ED%95%98%EB%82%98%EC%94%A9-%ED%95%B4%EB%B3%B4%EB%8A%94-google-cloud-%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%95%B4%EB%B3%B4%EA%B8%B0-1%ED%83%84-cloud-dns-a77acc9350cd)
 * [DNS 부터 하나씩 Google cloud 로 서비스 해보기 — 2탄 Google Cloud Load Balancing(GCLB)](https://medium.com/@jwlee98/gcp-dns-%EB%B6%80%ED%84%B0-%ED%95%98%EB%82%98%EC%94%A9-google-cloud-%EB%A1%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%ED%95%B4%EB%B3%B4%EA%B8%B0-2%ED%83%84-google-cloud-load-balancing-gclb-56151d9efe0e)
 * [Cloud SDK 설치후 인스턴스에 접속하기까지 과정](https://jybaek.tistory.com/825)
-* [gcloud sdk에 새로운 프로젝트 연결하기](https://jybaek.tistory.com/844)
-* [gcloud설치하기](https://krksap.tistory.com/1638)
 * [GCP에 파티원 초대하고 프로젝트 같이 진행하기](https://jybaek.tistory.com/827)
 * [Serverless ML API 30분 완성 생산성 높은 AI 개발자 되기 (1)](https://brunch.co.kr/@chris-song/91)
 * [Google Developers Korea Blog: 자신만의 ML 레시피를 AI Platform으로 요리해보세요](https://developers-kr.googleblog.com/2021/05/cook-your-own-ml-recipes-ai-platform.html)
@@ -142,6 +140,9 @@ Google Cloud Platform GCP
 * [Reducing the Cost of my Developer Workstation with Cloud Functions and Pub/Sub](https://medium.com/google-developers/reducing-the-cost-of-my-developer-workstation-with-cloud-functions-and-pub-sub-d9b9550bf397)
 * [How to create a custom Slack command using Google Cloud Functions and NodeJS](https://medium.com/javascript-in-plain-english/how-to-create-a-custom-slack-command-using-google-cloud-functions-and-nodejs-72a2f653d4e6)
 * [회원가입하면 축하메일 자동으로 보내주는, 구글 Cloud Functions - YouTube](https://www.youtube.com/watch?v=nFGHyi_SFH4)
+* [gcloud sdk에 새로운 프로젝트 연결하기](https://jybaek.tistory.com/844)
+* [gcloud설치하기](https://krksap.tistory.com/1638)
+* [Quarkus and the Google Cloud Functions | Loic's Blog](https://www.loicmathieu.fr/wordpress/en/informatique/quarkus-et-les-google-cloud-functions/)
 
 # Cloud Run
 * [구글, 도커 컨테이너 기반 서버리스 서비스인 클라우드 런 발표](https://www.44bits.io/ko/post/news--cloud-run-is-launched-on-gcp)
