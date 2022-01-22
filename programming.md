@@ -594,11 +594,12 @@ Programming
   * [Agile 20주년 : 실패한 반란 | GeekNews](https://news.hada.io/topic?id=4788)
 * [쓰임새에 따른 애자일 활용](https://brunch.co.kr/@graypool/117)
 * [Agility is Inefficient • Klaus Bucka-Lassen • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=q6sq5ktP_3g)
+* [Agility at Scale: A Meeting of Mindsets • Anna Urbaniak & Daniel Terhorst-North • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=2ajNXaqHSwo)
+* [개발자의 애질리티](https://toss.tech/article/dev-agility)
+* [Agility ≠ Speed. Software development benefits from a… | by Kevlin Henney | Medium](https://kevlinhenney.medium.com/agility-speed-96057078fe40)
 * [애자일 개발문화는 왜 한국에 빠르게 정착되지 못했나?(1) | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/culture/agilenotforkorea1/)
 * [애자일 개발문화는 왜 한국에 빠르게 정착되지 못했나?(2) | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/culture/agilenotforkorea2/)
 * [프로젝트 외부 이해관계자의 신뢰를 얻는 방법 | SK(주) C&C’s TECH BLOG](https://engineering-skcc.github.io/culture/demoday/)
-* [Agility at Scale: A Meeting of Mindsets • Anna Urbaniak & Daniel Terhorst-North • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=2ajNXaqHSwo)
-* [개발자의 애질리티](https://toss.tech/article/dev-agility)
 * [애자일 책들에서 이야기 해주지 않지만](https://brunch.co.kr/@jinhoyooephf/24)
 * [지라 쓰는게 애자일 아니라고 했어 안했어?! if(kakao) 2021](https://if.kakao.com/session/31)
 * [협업도구와 올인원 워크스페이스](https://jojoldu.tistory.com/616) notion에 대한 단상? 일종의 단점?
@@ -607,6 +608,7 @@ Programming
 * [애자일은 다음과 같은 문제를 해결해주지 않습니다](https://www.facebook.com/pyopark/posts/10158851313268163)
   * [애자일은 다음과 같은 문제를 해결해주지 않습니다](https://gist.github.com/hyunjun/355c8faecfea0367f48feb6f3148f202#file-agile_cannot-md)
 * [if(kakao)2021 – 카카오 애자일상담소를 통해 얻은 교훈 – tech.kakao.com](https://tech.kakao.com/2022/01/12/ifkakao2021-agile/)
+* [HDC현산 붕괴 사고, 수익성만 쫓은 ‘애자일 경영'이 문제였나 : 네이버 뉴스](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=001&oid=243&aid=0000021424) 이름만 애자일일뿐 전형적인 프로젝트 중심 운영의 폐해아닌가?
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -1061,6 +1063,8 @@ Programming
 * [조직이 결국 아키텍처를 좌우한다. – Dreaming for the Future](http://www.chidoo.me/index.php/2022/01/09/the-organization-defines-architecure/) 기술 이야기는 아님
 * [깔끔한 코드를 구현하기 위한 설계 규칙 네 가지](https://devkingdom.tistory.com/302)
 * [Architecting For Scale • Lee Atchison & Ken Gavranovic • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=n_yZB0ZrsxU)
+* [기고 | '분류에서 실행까지' 기술 아키텍처 개선 가이드 - CIO Korea](https://www.ciokorea.com/news/215279)
+* [Don't Make My Mistakes: Common Infrastructure Errors I've Made](https://matduggan.com/mistakes/)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
@@ -1206,6 +1210,7 @@ Programming
 * OSM Open Service Mesh [마이크로소프트 오픈 서비스 메시의 이해 - ITWorld Korea](http://www.itworld.co.kr/news/160865)
 * [서비스 메시가 데이터센터 네트워킹에서 중요한 이유 - ITWorld Korea](http://www.itworld.co.kr/news/167165)
 * [Linkerd or Istio?](https://itnext.io/linkerd-or-istio-2e3ce781fa3a)
+* [Benchmarking Istio 1.5.0 and Linkerd 2.7.1 (Master Thesis) - elastisys](https://elastisys.com/benchmarking-istio-linkerd-erik-dahlberg-master-thesis/)
 * [Service Mesh Ultimate Guide - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2e/)
 * [How eBPF will solve Service Mesh - Goodbye Sidecars](https://isovalent.com/blog/post/2021-12-08-ebpf-servicemesh)
   * 서비스 메시는 탄력적인 연결성, L7 트래픽 관리, 보안, 관측성, 추적성 등을 제공
@@ -1214,6 +1219,8 @@ Programming
   * Cilium의 eBPF를 이용해서 서비스 메시를 사이트가 없이 Linux 커널에서 제공할 수 있게 되었고 사이트가 없이도 L7 추적과 메트릭을 제공할 수 있게 되었고 프락시 기반보다 훨씬 빠르다
   * eBPF로만 구현할 수 없는 요구사항의 경우 Node 당 프락시를 설치해서 해결할 수 있고 사이드카 방식보다 커넥션도 줄일 수 있다고 한다
 * [Service Mesh Ultimate Guide 2021 - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2021/)
+* [The Service Mesh: What Every Engineer Needs to Know about the World's Most Over-Hyped Technology](https://buoyant.io/service-mesh-manifesto/)
+* [servicemesh.es | Service Mesh Comparison](https://servicemesh.es/)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
 * [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
@@ -1430,6 +1437,9 @@ Programming
 * [Best practices to communicate between microservices | by Irfan Yusanif | Dec, 2021 | Medium](https://irfanyusanif.medium.com/how-to-communicate-between-microservices-7956ed68a99a)
 * [영상 - 마이크로서비스 6가지 핵심 개념 소개 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/microservices-6-key-concepts)
 * [Microservices Fundamentals - YouTube](https://www.youtube.com/playlist?list=PLlbOZgAHblLvRxNiU8lLoaB9OZvX13Huo)
+* [Principles for Microservice Design: Think IDEALS, Rather than SOLID](https://www.infoq.com/articles/microservices-design-ideals/)
+* [The truth about starting with microservices – Arnold Galovics](https://arnoldgalovics.com/truth-about-microservices/)
+* [마이크로서비스 모니터링 전략··· 'RED'의 개념과 장단점 - CIO Korea](https://www.ciokorea.com/news/213954)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -1618,6 +1628,7 @@ Programming
 * [클라우드 기술의 5가지 주요 흐름 – 2019년 회고](http://channy.creation.net/blog/1255)
 * [‘빅3’ 클라우드, 2020 상반기 투자 동향 | 슬로우뉴스](https://slownews.kr/76839)
 * [레드햇 vs. VM웨어: 2020 상반기 하이브리드·멀티 클라우드 동향 | 슬로우뉴스](https://slownews.kr/77138)
+* [‘하이브리드 클라우드’의 배신?··· 간과하기 쉬운 함정 6가지 - CIO Korea](https://www.ciokorea.com/news/222494)
 * ["멀티클라우드에 범용성이란 없다" 그렇다면 해결책은? - ITWorld Korea](https://www.itworld.co.kr/news/189888)
 * ['멀티클라우드'의 11가지 그늘 - CIO Korea](https://www.ciokorea.com/news/193094)
 * [(정리) 멀티 클라우드로 게임 서비스 운영하기](https://brunch.co.kr/@topasvga/1927)
@@ -1651,6 +1662,7 @@ Programming
 * [컬러 오브 머니··· '색'으로 알아보는 클라우드 지출 - CIO Korea](https://www.ciokorea.com/news/203649)
 * [클라우드 컴퓨팅을 써야 하는 이유 & 그리고 “클라우드 컴퓨팅을 안다는 것” 에 관하여 | by Bryant Jimin Son | Medium](https://bryantson.medium.com/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%84-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%84-%EC%95%88%EB%8B%A4%EB%8A%94-%EA%B2%83-%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-6fcf9a763c38)
 * [넷플릭스∙스포티파이∙우버의 공통점…'클라우드 네이티브'의 정의와 특징 - ITWorld Korea](https://www.itworld.co.kr/news/205274)
+* [9 Ways to Fail at Cloud Native](https://www.infoq.com/presentations/fail-cloud-native-migration/)
 * [글로벌 칼럼 | 오늘날 클라우드 서비스가 만들어지는 방식 - ITWorld Korea](https://www.itworld.co.kr/news/205109)
 * [차니의 클라우드 클리닉 :: Channy's Blog](http://blog.creation.net/category/cloud-clinic)
 * [서비스로서의 방화벽 ‘FWaaS’ 알아보기 - ITWorld Korea](https://www.itworld.co.kr/news/206494)
@@ -2270,6 +2282,7 @@ Programming
 * [개발자를 위한 동형암호 ML. 정승우 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=Cc22oYDf228)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
+* [the_cyber_plumbers_handbook: Free copy of The Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
 * Fail2Ban [기본적 서버 보안 프로그램, Fail2Ban 사용법 기초부터 실전 사용법까지 알아 보기 | 웹으로 말하기](https://mytory.net/2022/01/16/fail2ban.html)
 * FIDO [line-fido2-server: FIDO2(WebAuthn) server officially certified by FIDO Alliance and Relying Party examples](https://github.com/line/line-fido2-server)
@@ -2913,6 +2926,7 @@ Programming
   * [12월 4주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2021/12/b-12-4.html)
   * [1월 1주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/01/b-1-1.html)
   * [1월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2022/01/b-1.html)
+  * [1월 3주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/01/b-1-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
@@ -3348,6 +3362,7 @@ Programming
 * [레거시 코드에서 이해하기 쉬운코드로 리팩토링](https://chodragon9.github.io/blog/legacy-code-to-easy-code)
 * [**레거시를 파악하고 변경해나가기: 우선순위와 고려사항들 :: Kaden Sungbin Cho**](https://kadensungbincho.tistory.com/72)
 * [How I Failed to Deal With Legacy Code](https://medium.com/better-programming/how-i-failed-to-deal-with-legacy-code-8e123cff5bce)
+* [피할 수 없다면 관리하라··· '레거시 IT' 정돈 팁 8가지 - CIO Korea](https://www.ciokorea.com/news/214289)
 * ['앱 현대화' 필수라는데... CIO가 알아야 할 어두운 비밀 11가지 - CIO Korea](https://www.ciokorea.com/news/203104)
 * [5 easy wins to refactor even the ugliest code](https://medium.com/hackernoon/5-easy-wins-to-refactor-even-the-ugliest-code-3c7874b2f1b4)
 * [Code Refactoring: Learn Code Smells And Level Up Your Game!](https://www.youtube.com/watch?v=D4auWwMsEnY)
@@ -3519,6 +3534,7 @@ Programming
 * [10 Amazing Developer Tools and Tips (aka Level Up Your Developer Productivity) - YouTube](https://www.youtube.com/watch?v=wIIQlkyTP_I)
   * [mikeckennedy (Michael Kennedy)](https://github.com/mikeckennedy)
   * secure.py, NWebsec, sourcetree, github desktop, loguru, logbook, sentry.io, let's encrypt, pagespeed insights
+* [Blog Series of Introduction of Developer Productivity Engineering at Mercari | Mercari Engineering](https://engineering.mercari.com/en/blog/entry/20220116-blog-series-of-introduction-of-developer-productivity-engineering-at-mercari/)
 * [유저 주문 취소 기능 Java 전환기. 29CM 백엔드팀은 Python + Django 기반의 모놀리틱… | by HeechanKim | 29CM 기술블로그 | Medium](https://medium.com/29cm/%EC%9C%A0%EC%A0%80-%EC%A3%BC%EB%AC%B8-%EC%B7%A8%EC%86%8C-%EA%B8%B0%EB%8A%A5-java-%EC%A0%84%ED%99%98%EA%B8%B0-d218e5ecb874) 기술적인 이야기보다 전반적인 프로세스 개선에 대한 점이 좋음
 * [**개발자가 모자라요 - 영록이 홈페이지**](http://youngrok.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80%20%EB%AA%A8%EC%9E%90%EB%9D%BC%EC%9A%94)
   * 기능 조직과 목적 조직의 차이부터 여러가지 회사에서의 문제점을 잘 지적하고 설명한 글
@@ -3668,6 +3684,8 @@ Programming
 * [힘세고 오래가는 테스트 전략 | Coderifleman's blog](https://blog.coderifleman.com/2021/11/17/a-strong-and-maintainable-test-strategy/)
 * [LINE에서 테스트를 최적화하는 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/testing-optimization/)
 * [나는 왜 TDD와 리팩터링에 집착하는가](https://brunch.co.kr/@myner/77)
+* [글로벌 칼럼 | 컨테이너 기반 통합 테스트의 이점 - ITWorld Korea](https://www.itworld.co.kr/news/222249)
+* [How To Build Quality Software Fast - YouTube](https://www.youtube.com/watch?v=ZmgbjaRfp_Q)
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
