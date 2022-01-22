@@ -4268,7 +4268,9 @@ Python
   * [mpi4jax: Zero-copy MPI communication of JAX arrays, for turbo-charged HPC applications in Python](https://github.com/mpi4jax/mpi4jax)
 * Mars [Alibaba Open-Sources Mars to Complement NumPy](https://medium.com/syncedreview/alibaba-open-sources-mars-to-complement-numpy-ea215ff1fa2f)
 * [Numexpr - a fast numerical expression evaluator for NumPy](https://pypi.python.org/pypi/numexpr)
-* numpy-financial [How to Use the Future Value Function in Python NumPy Financial - YouTube](https://www.youtube.com/watch?v=JPaT_wGshJ0)
+* numpy-financial
+  * [How to Use the Future Value Function in Python NumPy Financial - YouTube](https://www.youtube.com/watch?v=JPaT_wGshJ0)
+  * [How to Use NPV & IRR in NumPy Financial for Python | Net Present Value & Internal Rate of Return - YouTube](https://www.youtube.com/watch?v=yMBem4p22Yk)
 * [tinynumpy - A lightweight, pure Python, numpy compliant ndarray class](https://github.com/wadetb/tinynumpy)
 
 # Pandas
