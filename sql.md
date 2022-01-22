@@ -262,6 +262,7 @@ SQL
   * [.ini 파일 설정](https://baekjungho.github.io/database-dbeaverini/)
 * [DBLog: A Generic Change-Data-Capture Framework | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b)
 * [db_seeder: Relational database data generator..](https://github.com/KonnexionsGmbH/db_seeder)
+* [dsq: Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more](https://datastation.multiprocess.io/blog/2022-01-11-dsq.html)
 * ERD
   * [ERD 다이어그램 툴 종류와 설치 경로 정리](http://gomcine.tistory.com/entry/ERD-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%ED%88%B4-%EC%A2%85%EB%A5%98%EC%99%80-%EC%84%A4%EC%B9%98-%EA%B2%BD%EB%A1%9C-%EC%A0%95%EB%A6%AC)
   * [ERD (Entity-Relation Diagram) 표기법](https://hudi.blog/entity-relation-diagram/)
@@ -273,6 +274,7 @@ SQL
 * [Flyway - Version control for your database. Robust schema evolution across all your environments. With ease, pleasure and plain SQL](https://flywaydb.org/)
 * [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
   * [SQL문의 가독성을 높여주는 웹사이트 소개 feat.instant SQL formatter](https://stricky.tistory.com/154)
+* Jailer [Open Jail - The Jailer Project Web Site](https://wisser.github.io/Jailer/)
 * Jetbrains
   * [DataGrip 팁 모음](http://ohgyun.com/770) database IDE
   * [JetBrains Rider에서의 데이터베이스 작업 수행](https://blog.jetbrains.com/kr/2020/03/working-with-databases-in-jetbrains-rider/)
@@ -520,6 +522,7 @@ SQL
   * plugin을 통해 750,000/sec으로 성능 향상
 * utf8mb4
   * [How to support full Unicode in MySQL databases](https://mathiasbynens.be/notes/mysql-utf8mb4)
+  * [In MySQL, never use “utf8”. Use “utf8mb4”. | by Adam Hooper | Medium](https://adamhooper.medium.com/in-mysql-never-use-utf8-use-utf8mb4-11761243e434)
 * [Calculating disk space usage per MySQL DB](https://dba.stackexchange.com/questions/14337/calculating-disk-space-usage-per-mysql-db)
 * [How to Install Only MySQL Client on CentOS, Redhat, Fedora and Ubuntu](http://www.looklinux.com/install-mysql-client-on-centos-redhat-fedora-and-ubuntu/)
   * `yum install mysql` tried to install `mariadb` & `mariadb-libs` on Redhat 7.2(`CentOS Linux release 7.2.1511 (Core)`)
@@ -646,6 +649,7 @@ SQL
 * [번역 MySQL의 ENUM 타입을 사용하지 말아야 할 8가지 이유](https://velog.io/@leejh3224/%EB%B2%88%EC%97%AD-MySQL%EC%9D%98-ENUM-%ED%83%80%EC%9E%85%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%98%EC%A7%80-%EB%A7%90%EC%95%84%EC%95%BC-%ED%95%A0-8%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
 * [MySQL/MariaDB character sets and collations explained – why utf8 is not UTF-8 | Hello DevOps](https://www.hellodevops.blog/posts/database-character-sets-and-collations-explained/)
 * [Login y Logout con NodeJS y MySQL usando jsonwebtokens - YouTube](https://www.youtube.com/watch?v=PRoTFE2RSfQ)
+* [Upgrading MySQL at Shopify — Infrastructure (2022)](https://shopify.engineering/upgrading-mysql-shopify)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
@@ -706,6 +710,7 @@ SQL
 * [LINE Manga 데이터베이스 샤딩 – 서버 엔지니어 편](https://engineering.linecorp.com/ko/blog/line-manga-server-side/)
 * [LINE Manga 데이터베이스 샤딩 – 데이터베이스 엔지니어 편](https://engineering.linecorp.com/ko/blog/line-manga-database/)
 * [ADT 활용 예제1: MySQL Shard 데이터 재분배](http://tech.kakao.com/2016/07/01/adt-mysql-shard-rebalancing/)
+* [The Next Evolution of the Database Sharding Architecture](https://www.infoq.com/articles/next-evolution-of-database-sharding-architecture/)
 * [kingshard - A high-performance MySQL proxy](https://github.com/flike/kingshard)
 * [proxysql.com](https://proxysql.com/)
 
@@ -838,6 +843,7 @@ SQL
 * [BLOB cleanup in PostgreSQL - CYBERTEC | Data Science & PostgreSQL](https://www.cybertec-postgresql.com/en/blob-cleanup-in-postgresql/)
 * [PostgreSQL Database Security: What You Need To Know - Percona Database Performance Blog](https://www.percona.com/blog/2021/01/04/postgresql-database-security-what-you-need-to-know/)
 * [Removing PostgreSQL Bottlenecks Caused by High Traffic - Percona Database Performance Blog](https://www.percona.com/blog/2020/05/29/removing-postgresql-bottlenecks-caused-by-high-traffic/)
+* [Five Easy to Miss PostgreSQL Query Performance Bottlenecks](https://pawelurbanek.com/postgresql-query-bottleneck)
 * [Migrating From Oracle to PostgreSQL - What You Should Know | Severalnines](https://severalnines.com/database-blog/migrating-oracle-postgresql-what-you-should-know)
 * [A Complete Guide to SQL Triggers in PostgreSQL - DB Tracking Example](https://blog.arctype.com/learn-sql-triggers/)
 * [Talking to Postgres Through Java 16 Unix-Domain Socket Channels - Gunnar Morling](https://www.morling.dev/blog/talking-to-postgres-through-java-16-unix-domain-socket-channels/)
@@ -877,6 +883,8 @@ SQL
 * [NodeJS 와 PostgreSQL Query Timeout](https://jojoldu.tistory.com/631)
 * [NOT IN 쿼리 성능 개선하기 (PostgreSQL)](https://jojoldu.tistory.com/632)
 * [NodeJS 와 PostgreSQL Connection Pool](https://jojoldu.tistory.com/634)
+* [Free Postgres Databases · Fly](https://fly.io/blog/free-postgres/)
+* [Five Tips For a Healthier Postgres Database in the New Year](https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year)
 * EdgeDB
   * [EdgeDB—The next generation database](https://edgedb.com/)
   * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
