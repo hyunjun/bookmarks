@@ -2294,6 +2294,7 @@ Python
 * [django-hijack: With Django Hijack, admins can log in and work on behalf of other users without having to know their credentials](https://github.com/django-hijack/django-hijack)
 * django manager [화해 블로그](http://blog.hwahae.co.kr/%EC%A0%84%EC%B2%B4%EB%B3%B4%EA%B8%B0/tech/tech-tech/4108/)
 * [Django Pydenticon documentation](https://django-pydenticon.readthedocs.io/)
+* [django-query-capture: Shows queries, find slow queries, detects N+1 in Django](https://github.com/AsheKR/django-query-capture)
 * [Django REST framework - a powerful and flexible toolkit for building Web APIs](http://www.django-rest-framework.org/)
   * [How to use Serializers in the Django Python web framework | Opensource.com](https://opensource.com/article/20/11/django-rest-framework-serializers)
   * [Building an API with Django REST Framework and Class-Based Views](https://codeburst.io/building-an-api-with-django-rest-framework-and-class-based-views-75b369b30396)
