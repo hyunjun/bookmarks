@@ -173,6 +173,7 @@ Writing
     * 다른 사람이 읽고 피드백을 줄 수 있는 피어리뷰를 도입하는 것은 아주 효과적이다.
     * 퇴고에서 공통으로 확인해야 항목은 체크리스트로 만들어서 관리하는 것이 좋다.
     * 퇴고 시에는 문장은 단문으로 정리하고 불필요한 표현을 제거하고 대명사 대신 직접 대상을 언급하면서 논리적으로 구성하는 게 좋다.
+* [Troubleshooting 가이드 톺아보기 #기술문서 #테크니컬라이팅 #테크니컬라이터](https://tech.kakaoenterprise.com/129)
 
 # Reading
 * [How to Remember What You Read](https://fs.blog/2021/08/remember-books/)
