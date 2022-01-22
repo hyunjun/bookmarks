@@ -10,7 +10,6 @@ App
 * [Top 20 Best Data Recovery Software For Mac, PC & Mobiles](http://www.3ptechies.com/mobile/android/data-recovery-software-mac-pc-mobiles.html)
 * [클라우드 서비스, 한눈에 관리하는 방법?](http://techholic.co.kr/archives/35840)
 * [How to Find the Wi-Fi Password of your Current Network](http://www.labnol.org/software/find-wi-fi-network-password/28949/)
-* [최고의 보안 메일, Dmail VS ProtonMail](http://ppss.kr/archives/54467)
 * [회사에서 유용한 29가지 생산성 앱](http://techneedle.com/archives/22401)
 * [1인 창작자를 위한 보물같은 서비스들 ②](http://ppss.kr/archives/57049)
 * [해외 메일서비스 안내](http://www.jonathanks.com/blog/2009-07-23/offshore-email-services)
@@ -200,10 +199,20 @@ App
 * WeKan [Get started with Wekan, an open source kanban board](https://opensource.com/article/19/1/productivity-tool-wekan)
 * [wezterm - Wez's Terminal Emulator](https://wezfurlong.org/wezterm/)
 * [WhatApp desktop](http://whatsapp-desktop.com/)
+* [woob - Web Outside of Browsers](https://woob.tech/)
 * [wordsafety.com - Check a name for unwanted meanings in foreign languages](http://wordsafety.com/)
 * [Wormhole - Simple, private file sharing](https://wormhole.app/)
 * [Youtransfer - The simple but elegant self-hosted file transfer & sharing solution](http://www.youtransfer.io/)
 * [Zotero - a free, easy-to-use tool to help you collect, organize, cite, and share research](https://www.zotero.org/)
+
+# 보안, Hacking
+* [최고의 보안 메일, Dmail VS ProtonMail](http://ppss.kr/archives/54467)
+* [A hacker intercepted your Wi-Fi traffic and stole your contacts, passwords, and financial data. Here’s how](https://hackernoon.com/a-hacker-intercepted-your-wifi-traffic-stole-your-contacts-passwords-financial-data-heres-how-4fc0df9ff152) wifi 보안 관련 이야기
+* [“지갑도 지키고 개인정보도 지키는” 무료 보안 도구 4가지 - ITWorld Korea](https://www.itworld.co.kr/news/221799)
+* aircrack-ng
+  * [Hacking: Aircrack-ng on Mac OsX | Cracking wi-fi without kali in parallels](https://martinsjean256.wordpress.com/2018/02/12/hacking-aircrack-ng-on-mac-cracking-wi-fi-without-kali-in-parallels/)
+  * [맥으로 WiFi 비밀번호 해킹하기](https://itselfstory.tistory.com/entry/%EB%A7%A5%EC%9C%BC%EB%A1%9C-WiFi-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%ED%95%B4%ED%82%B9%ED%95%98%EA%B8%B0)
+  * [Hacking WPA2 WiFi Networks | The Linux Rain](https://www.thelinuxrain.com/articles/hacking-wpa2-wifi-networks)
 
 # Android
 * [안드로이드에만 있는 유용한 생산성 앱 10개](http://techneedle.com/archives/20513)
@@ -557,6 +566,7 @@ App
 * [6 Must-Try Project Management Tools for Software Development](https://hackernoon.com/the-6-best-project-management-tools-for-software-development-dbe00a9771cf)
 * [The Next Wave of Work Management Software](https://hackernoon.com/the-next-wave-of-work-management-software-81f392c728e3)
 * [**Airtable**](https://airtable.com/) Zenkit, Notion, Coda
+* [focalboard: Focalboard is an open source, self-hosted alternative to Trello, Notion, and Asana.](https://github.com/mattermost/focalboard)
 * [monday.com](https://monday.com/)
 * [Nix - a tool that takes a unique approach to package management and system configuration](https://nixos.org/)
   * [Replit - Will Nix Overtake Docker?](https://blog.replit.com/nix-vs-docker)
@@ -871,13 +881,6 @@ App
 * [Unattach. Free your Google storage by removing Gmail attachments](https://unattach.app/)
   * [Unattach - Gmail 첨부파일 지워서 구글 계정 용량 아끼기 | GeekNews](https://news.hada.io/topic?id=4368)
 
-# Hacking
-* [A hacker intercepted your Wi-Fi traffic and stole your contacts, passwords, and financial data. Here’s how](https://hackernoon.com/a-hacker-intercepted-your-wifi-traffic-stole-your-contacts-passwords-financial-data-heres-how-4fc0df9ff152) wifi 보안 관련 이야기
-* aircrack-ng
-  * [Hacking: Aircrack-ng on Mac OsX | Cracking wi-fi without kali in parallels](https://martinsjean256.wordpress.com/2018/02/12/hacking-aircrack-ng-on-mac-cracking-wi-fi-without-kali-in-parallels/)
-  * [맥으로 WiFi 비밀번호 해킹하기](https://itselfstory.tistory.com/entry/%EB%A7%A5%EC%9C%BC%EB%A1%9C-WiFi-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%ED%95%B4%ED%82%B9%ED%95%98%EA%B8%B0)
-  * [Hacking WPA2 WiFi Networks | The Linux Rain](https://www.thelinuxrain.com/articles/hacking-wpa2-wifi-networks)
-
 # iPhone iOS
 * [애플이 직접 추천하는 필수 아이폰 앱 21선](http://ppss.kr/archives/38009)
 * [진성 앱등이가 추천하는 아이폰 필수 앱 55선](http://ppss.kr/archives/35079)
@@ -1002,6 +1005,7 @@ App
     * [동영상 파일 미리보기 이미지로 쪼개기 – rein's world](https://rein.kr/blog/archives/4561)
     * [Your browser and my browser see different colors | Mux blog](https://mux.com/blog/your-browser-and-my-browser-see-different-colors/) ffmpeg 자체는 아니지만 사용법 참고
     * [TIL: ffmpeg으로 비디오 채널 분리하기](https://rein.kr/blog/archives/5541)
+    * [MacOS 화면 녹화하기 – 안드로메다 토끼](https://andromedarabbit.net/macos-%ed%99%94%eb%a9%b4-%eb%85%b9%ed%99%94%ed%95%98%ea%b8%b0/) 녹화 영상 크기 줄이기
     * [ffmpeg-screen-record-agent: ffmpeg을 이용한 화면 녹화 에이전트](https://github.com/ryujt/ffmpeg-screen-record-agent)
       * [10bun.tv](http://ffmpeg-screen-record-agent.s3-website.ap-northeast-2.amazonaws.com/) FFmpeg를 이용한 화면녹화 모듈 개발
     * [FFMPEG.WASM](https://ffmpegwasm.github.io/)
@@ -1706,6 +1710,8 @@ App
   * 사운드스위치, 미니빈, SharpKeys, powertoys Fancy Zones
   * [SpaceSniffer, find lost disk space the easy way](http://www.uderzo.it/main_products/space_sniffer/)
 * [윈10 disk rescan, flush (sync) 기능 추가](https://sunyzero.tistory.com/275)
+* [How-To : 윈도우 10에서 음성을 녹음하고 편집하는 간편한 방법 - ITWorld Korea](https://www.itworld.co.kr/news/216249)
+* ['한번 쓰면 빠져나올 수 없는' 윈도우 고급 사용자 도구 5종 - ITWorld Korea](https://www.itworld.co.kr/news/213399)
 * 복구
   * [recuva](https://www.piriform.com/recuva)
   * [testdisk 7.0](http://www.cgsecurity.org/wiki/TestDisk_Download)
@@ -1737,6 +1743,7 @@ App
   * [Microsoft's new PowerToys Run launcher is like macOS's Spotlight for Windows 10](https://thenextweb.com/insider/2020/05/19/microsofts-new-powertoys-run-launcher-is-like-macoss-spotlight-for-windows-10/)
   * [“작지만 유용한 기능 모음” 윈도우 10의 새 파워토이 사용 가이드 - ITWorld Korea](http://www.itworld.co.kr/news/168665)
   * [이게바로 윈도우판 굿락? 상상보다 훨씬 더 편해지는 윈도우 '무료 프로그램' 핵꿀팁 공개합니다. - YouTube](https://www.youtube.com/watch?v=bzg3otFT3zI)
+  * ['윈도우 속 만능 도구함' MS 파워토이 활용법 7가지 - ITWorld Korea](https://www.itworld.co.kr/news/222279)
 * [PSPad - free unicode developer editor, handles near any syntax like HTML, PHP, XHTML, R, JavaScript, ASP, Perl, C and many other languages with HEX editor, multilanguage interface](https://www.pspad.com/en/)
 * [Rufus - create bootable USB](http://rufus.akeo.ie/)
 * [Share Mouse and Keyboard](http://www.keyboard-and-mouse-sharing.com/)
@@ -1903,6 +1910,7 @@ App
   * [WSL Python & Jupyter notebook 설치 - 미완성의신](https://unfinishedgod.netlify.app/2021/03/26/wsl-python-jupyter-notebook-%EC%84%A4%EC%B9%98/)
   * [The Initial Preview of GUI app support is now available for the Windows Subsystem for Linux | Windows Command Line](https://devblogs.microsoft.com/commandline/the-initial-preview-of-gui-app-support-is-now-available-for-the-windows-subsystem-for-linux-2/)
   * [WSL2 에서 리눅스 GUI앱 실행하기](https://open-support.tistory.com/entry/WSL2-%EC%97%90%EC%84%9C-%EB%A6%AC%EB%88%85%EC%8A%A4-GUI%EC%95%B1-%EC%8B%A4%ED%96%89%ED%95%98%EA%B8%B0)
+  * [Reclaim Tons of Disk Space by Compacting Your Docker Desktop WSL 2 VM — Nick Janetakis](https://nickjanetakis.com/blog/reclaiming-tons-of-diskspace-by-compacting-your-docker-desktop-wsl-2-vm)
   * [Connecting USB devices to WSL - Windows Command Line](https://devblogs.microsoft.com/commandline/connecting-usb-devices-to-wsl/)
   * [GWSL-Source: The actual code for GWSL. And some premade binaries](https://github.com/Opticos/GWSL-Source) python
   * podman [Get podman up and running on Windows using Linux | Opensource.com](https://opensource.com/article/21/10/podman-windows-wsl)
