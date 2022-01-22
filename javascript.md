@@ -505,6 +505,7 @@ Javascript
 * [Atomics 를 이용해서 SharedArrayBuffer 레이스 컨디션 피하기](http://hacks.mozilla.or.kr/2017/11/avoiding-race-conditions-in-sharedarraybuffers-with-atomics/)
 * [배열과 유사배열](https://www.zerocho.com/category/JavaScript/post/5af6f9e707d77a001bb579d2)
 * [**최신 프론트엔드 치트 시트(Cheat Sheet) 한눈에 보기**](https://joshua1988.github.io/web-development/translation/front-end-cheat-sheets/)
+* [Javascript Cheat Sheet | OverAPI.com](https://overapi.com/javascript)
 * [(1부) 프론트엔드 개발 3년차가 말하는 프론트엔드 개발 공부 후기 (라고 쓰고 기초 가이드라고 부르자)](https://www.youtube.com/watch?v=P11h_P1NIb4)
 * [DOM이 뭐죠? jQuery는 왜들 그렇게 좋아한대요? (DOM 공부를 매우 권함 #0)](https://www.youtube.com/watch?v=PizkhskZrKk)
 * [(2부) 프론트엔드 개발자의 CSS in 치앙마이 - 프론트엔드 개발 공부 기초 가이드](https://www.youtube.com/watch?v=X3nszB4g5f0)
