@@ -284,6 +284,7 @@ Algorithm
 * [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)
 * [Introduction - algo-en](https://labuladong.gitbook.io/algo-en/)
   * [fucking-algorithm at english](https://github.com/labuladong/fucking-algorithm/tree/english)
+* [Grokking Algorithms Review - Best Book to learn Data Structure and Algorithms in Python](https://javarevisited.blogspot.com/2017/10/grokking-algorithms-by-aditya-bhargava-best-beginner-book.html)
 
 # Complexity Big O notation
 * [Know Thy Complexities!](http://www.bigocheatsheet.com/)
