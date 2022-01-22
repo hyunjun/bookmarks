@@ -165,12 +165,6 @@ AWS
 * [2017년 AWS 한국 콘텐츠 총 결산](https://aws.amazon.com/ko/blogs/korea/2017-aws-korea-contents)
 * [aws_instance_slack](https://github.com/it2seiyon/aws_instance_slack)
 * [Rock Solid Kafka and ZooKeeper Ops on AWS](https://jobs.zalando.com/tech/blog/rock-solid-kafka)
-* [Amazon MSK](https://www.joinc.co.kr/w/man/12/aws/MSK) kafka
-* [AWS MSK(Kafka) 실습 및 예제 코드(Java), 장단점, 가격](https://blog.voidmainvoid.net/299)
-* [Introduce Apache Kafka and AWS MSK](https://www.slideshare.net/WonyoungChoi2/introduce-apache-kafka-and-aws-msk)
-* [Kafka in AWS with SSL Offloading using Load Balancer](https://medium.com/code-tech/kafka-in-aws-with-ssl-offloading-using-load-balancer-c337da1435c3)
-* [Installing and running Kafka on AWS instance (CentOS)](https://blog.knoldus.com/installing-and-running-kafka-on-aws-instance-centos/)
-* [AWS에 카프카 클러스터 설치하기(ec2, 3 brokers)](https://blog.voidmainvoid.net/325)
 * [**당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들**](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)
 * [AWS의 오픈 소스 활동을 소개합니다!](https://aws.amazon.com/ko/blogs/korea/onwards-to-the-year-of-open-source)
 * [How We Built an Intrusion Detection System on AWS using Open Source Tools](https://medium.com/@samuelabiodun/how-we-built-an-intrusion-detection-system-on-aws-using-open-source-tools-8b755e965d54)
@@ -647,6 +641,7 @@ AWS
 * [DevOps-The-Hard-Way-AWS: This repository contains free labs for setting up an entire workflow and DevOps environment from a real-world perspective in AWS](https://github.com/AdminTurnedDevOps/DevOps-The-Hard-Way-AWS)
 * [OSS AWS 핸즈온 강의](http://www.slideshare.net/JuHongJeong1/oss-aws-69310654)
 * [AWS Full Course 2022 | AWS Tutorial For Beginners 2022 | AWS Training For Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=ZB5ONbD_SMY)
+* [10 fun hands-on projects to learn AWS | A Cloud Guru](https://acloudguru.com/blog/engineering/10-fun-hands-on-projects-to-learn-aws)
 
 # Docker
 * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
@@ -684,6 +679,7 @@ AWS
 * [꿀벌개발일지 :: DynamoDB: on-demand 모드의 오토 스케일링](https://ohgyun.com/809)
 * [Infrastructure Automation for DynamoDB | by satish1v | Oct, 2021 | AWS in Plain English](https://aws.plainenglish.io/infrastructure-automation-for-dynamodb-6184f63da967)
 * [**DynamoDB 데이터 변경 이벤트 파이프라인 구축하기 (feat. Kinesis) | by Jules | 당근마켓 팀블로그 | Dec, 2021 | Medium**](https://medium.com/daangn/dynamodb-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B3%80%EA%B2%BD-%EC%9D%B4%EB%B2%A4%ED%8A%B8-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-feat-kinesis-1733db06066)
+* [Amazon’s DynamoDB — 10 years later - Amazon Science](https://www.amazon.science/latest-news/amazons-dynamodb-10-years-later)
 
 # EC2
 * [아마존 웹 서비스 8 – 스왑 추가로 EC2 인스턴스에 날개 달기](http://www.creativeworksofknowledge.com/2015/07/29/aws-adding-swap-to-ec2-instance/)
@@ -1001,6 +997,8 @@ AWS
 * [Feature Flags: Good, Bad and Serverless | by Gal Naor | CyberArk Engineering | Nov, 2021 | Medium](https://medium.com/cyberark-engineering/feature-flags-good-bad-and-serverless-432df10416e1)
 * [Developing evolutionary architecture with AWS Lambda | AWS Compute Blog](https://aws.amazon.com/ko/blogs/compute/developing-evolutionary-architecture-with-aws-lambda/)
 * [Vulnerable AWS Lambda function - Initial access in cloud attacks – Sysdig](https://sysdig.com/blog/exploit-mitigate-aws-lambdas-mitre/)
+* [Running the stock NGINX container image with AWS Lambda · IT 2.0](https://it20.info/2021/11/running-the-stock-nginx-container-image-with-aws-lambda/)
+* [Issues to Avoid When Implementing Serverless Architecture with AWS Lambda | AWS Architecture Blog](https://aws.amazon.com/ko/blogs/architecture/mistakes-to-avoid-when-implementing-serverless-architecture-with-lambda/)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
@@ -1188,6 +1186,15 @@ AWS
 * [Develop an automatic review image inspection service with Amazon SageMaker | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/develop-an-automatic-review-image-inspection-service-with-amazon-sagemaker/)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
+
+# MSK Managed Streaming Kafka
+* [Amazon MSK](https://www.joinc.co.kr/w/man/12/aws/MSK) kafka
+* [AWS MSK(Kafka) 실습 및 예제 코드(Java), 장단점, 가격](https://blog.voidmainvoid.net/299)
+* [Introduce Apache Kafka and AWS MSK](https://www.slideshare.net/WonyoungChoi2/introduce-apache-kafka-and-aws-msk)
+* [Kafka in AWS with SSL Offloading using Load Balancer](https://medium.com/code-tech/kafka-in-aws-with-ssl-offloading-using-load-balancer-c337da1435c3)
+* [Installing and running Kafka on AWS instance (CentOS)](https://blog.knoldus.com/installing-and-running-kafka-on-aws-instance-centos/)
+* [AWS에 카프카 클러스터 설치하기(ec2, 3 brokers)](https://blog.voidmainvoid.net/325)
+* [Migrating to AWS Managed Streaming Kafka (MSK) | by Sandeep Mehta | softrock.io | Jan, 2022 | Medium](https://medium.com/softrock-io/migrating-to-aws-managed-streaming-kafka-msk-9b29d0137287)
 
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
