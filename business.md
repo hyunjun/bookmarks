@@ -942,6 +942,7 @@ Business
   * [(1) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4400)
   * [(2) : 시장규모 스토리텔링하기](http://verticalplatform.kr/archives/4518)
   * [(3) : 고객이 제품을 구매하는 진짜 이유는 JOB 때문](http://www.venturesquare.net/585452)
+* [스타트업의 시장 크기 추정 가이드 | GeekNews](https://news.hada.io/weekly/202136)
 * [스타트업 창업 전 경영자들이 꼭 읽어야 할 도서 TOP 10](http://ppss.kr/archives/37878)
 * [스타트업이 취해야 할 3가지 O2O 전략](http://besuccess.com/2015/04/3-o2o-strategy-for-startup/)
 * [창업자가 주식에 대해 갖는 7가지 치명적인 오해 : 이연수 변호사의 로스쿨 인 실리콘밸리](http://besuccess.com/2015/04/common-mistakes-about-share/)
