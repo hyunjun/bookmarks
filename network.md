@@ -342,6 +342,7 @@ Network
   * Read Timeout은 연결된 종단 간에 데이터를 주고받을 때 걸리는 최대시간, 이 시간 내에 데이터를 다 받지 못하면 오류 발생
   * 이를 바탕으로 연결할 때 SYN, SYN+ACK, ACK가 유실되는 경우를 생각하면 3초가 Connection Timeout으로 이상적인 값
   * Read Timeout은 패킷 유실과 요청 처리 시간을 고려해서 1초 정도로 제안
+* [TCP? HTTP? 그것이 알고싶다 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222628784900)
 
 # UDP
 * [Haste Framework UDP(User Datagram Protocol)를 기반으로 빠르고 쉬운 개발을 위해 만들어진 게임 서버 프레임워크](https://github.com/nhnent/haste.framework)
