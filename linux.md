@@ -831,6 +831,7 @@ Linux
   * [5 reasons sysadmins love systemd | Opensource.com](https://opensource.com/article/21/4/sysadmins-love-systemd)
   * [systemd: The Good Parts - Christine Dodrill](https://christine.website/talks/systemd-the-good-parts-2021-05-16)
   * [Avoiding complexity with systemd | Michael Maclean](https://mgdm.net/weblog/systemd/)
+  * [systemd service sandboxing and security hardening 101](https://www.ctrl.blog/entry/systemd-service-hardening.html)
 * systemtap
   * [커널 분석을 위한 systemtap 스크립트](https://brunch.co.kr/@alden/42)
 * `tac`
