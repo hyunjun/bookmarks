@@ -298,6 +298,7 @@ Go
   * 플러그인 서비스는 바이너리를 실행하기 때문에 플러그인 시스템과 바이너리의 빌드를 다르게 해서 배포 가능
   * 실제로 플러그인을 어떤 함수를 구현해야 하는지를 설명하고 이러한 동작이 Terraform에서는 어떻게 되는지 설명
 * [Go Programming Language Installation - GO Tutorial](https://technologystrive.com/golang/go-installation/)
+* [Containerize Go + SQLite with Docker | by hüseyin nurbaki | Jan, 2022 | AWS Tip](https://awstip.com/containerize-go-sqlite-with-docker-6d7fbecd14f0)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
