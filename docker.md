@@ -336,6 +336,7 @@ Docker
 * [Tales of a Part-time Sysadmin: Dogfooding Docker to test Docker](https://blog.jessfraz.com/post/dogfooding-docker-to-test-docker/)
 * [Serverspec(서버스펙)을 통한 도커 이미지 테스트 자동화](http://blog.nacyot.com/articles/2015-06-30-serverspec-with-docker/)
   * [Serverspec(서버스펙)을 통한 도커 이미지 테스트 자동화 코드](https://github.com/nacyot/serverspec_tutorial)
+* [도커 Base 이미지 테스트 | Mohwa Blog](https://mohwa.github.io/docker-base-test/)
 * [Building Better Docker Images](http://jonathan.bergknoff.com/journal/building-better-docker-images)
 * [**Docker on a diet**](https://dev.to/sammyvimes/docker-on-a-diet-1n6j)
 * [Docker, Mesos, Marathon, and the End of Pets](http://blog.factual.com/docker-mesos-marathon-and-the-end-of-pets)
