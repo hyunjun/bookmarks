@@ -169,6 +169,7 @@
 * [DI(Dependency Injection)는 왜 필요한가? :: 시행착오를 줄이는 방법](https://jinssssun.tistory.com/6)
 * [Printf("%s %s", dependency, injection). | Fredrik Holmqvist](https://www.fredrikholmqvist.com/posts/print-dependency-injection/)
 * [.NET6 Dependency Injection — One Interface, Multiple Implementations | by Bernardo Teixeira | Geek Culture | Nov, 2021 | Medium](https://medium.com/geekculture/net6-dependency-injection-one-interface-multiple-implementations-983d490e5014)
+* [Dependency Inversion Principle of SOLID | DIP - Tech Point Fundamentals](https://www.techpointfunda.com/2021/10/dependency-inversion-principle.html)
 
 ## Dependency Injection Python
 * [Dependency Injector — Dependency injection microframework for Python](http://python-dependency-injector.ets-labs.org/)
