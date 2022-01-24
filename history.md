@@ -246,6 +246,7 @@ History
 * [망국(亡國), 그리고 좌절된 과학기술의 근대화](https://www.thecolumnist.kr/news/articleView.html?idxno=563)
 * ['태종 이방원'이 담아내지 못한 이성계의 전략전술 - 오마이뉴스](http://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0002799460&CMPT_CD=SEARCH)
 * [서학의 좌절, 과학기술 근대화의 '기회 상실' < 과학 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=636)
+* ['실학'은 왜 조선의 패망을 못막았나 < 과학 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=635)
 
 ## 고려
 * [가오 지킨(?) 최후의 충신 정몽주 이야기](http://www.huffingtonpost.kr/bawerk/story_b_8249258.html)
