@@ -53,6 +53,9 @@ Robot
 # Lego Mindstorm
 * [Robomind – introduction to the programming](http://educationware.net/robomind-introduction-to-the-programming/)
 
+# Library
+* [Robocode Home](https://robocode.sourceforge.io/)
+
 # Python
 * [Robot Operating System (ROS) and ROSPy](http://www.talkpythontome.com/episodes/show/7/robot-operating-system-ros-and-rospy)
 * [Offline programming with RoboDK](http://www.robodk.com/offline-programming.php)
