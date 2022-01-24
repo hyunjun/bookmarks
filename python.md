@@ -317,6 +317,7 @@ Python
 * [Improve Your Craft: 6 Lazy Programming Mistakes and How to Avoid Them](https://codeburst.io/6-lazy-programming-mistakes-and-how-to-avoid-them-a251c656a177)
 * [번역 파이썬 함수 작성 시 자주 범하는 실수 5가지](https://lazymatlab.tistory.com/109)
 * [7 Modern Python Mistakes To Fix NOW! | by Emmett Boudreau | Towards Data Science](https://towardsdatascience.com/7-modern-python-mistakes-to-fix-now-6ff6f1dedbf3)
+* [Top 10 Coding Mistakes in Python & How to Avoid Them - ActiveState](https://www.activestate.com/blog/top-10-coding-mistakes-in-python-how-to-avoid-them/)
 * [Python Beginner Projects 2020 - Add them to your resume!](https://morioh.com/p/8d006da3ab25)
 * [12 Beginner Python Projects - Coding Course - YouTube](https://www.youtube.com/watch?v=8ext9G7xspg)
 * [Watch a Directory for Changes](http://timgolden.me.uk/python/win32_how_do_i/watch_directory_for_changes.html)
@@ -349,6 +350,7 @@ Python
 * [Here are some tips to speed up your Python program | by Anh T. Dang | Nov, 2021 | Level Up Coding](https://levelup.gitconnected.com/here-are-some-tips-to-speed-up-your-python-program-e47257b4e6d3)
 * [Python One-Liners Playlist - YouTube](https://www.youtube.com/playlist?list=PLbo6ydLr984aS6A2_vNNLtX_1_MbGMTU9)
 * [What are some one liners in Python that would take a hundred in C? - Quora](https://www.quora.com/What-are-some-one-liners-in-Python-that-would-take-a-hundred-in-C)
+* [50 python one-liners everyone should know | by Allwin Raju | Medium](https://allwin-raju-12.medium.com/50-python-one-liners-everyone-should-know-182ea7c8de9d)
 * [18 Python scripts that help you write code faster](https://morioh.com/p/4f4b74ba17cc)
 * [Pythonic Code, By Example](https://www.youtube.com/watch?v=o0LohkA3UR4)
 * [Pythonic monotonic | Ned Batchelder](https://nedbatchelder.com/blog/202108/pythonic_monotonic.html) 글쓴이가 말했듯 좋은 코드라고 생각하지 않음
@@ -508,6 +510,7 @@ Python
 * [04-4 append()와 +연산을 통한 리바인딩의 성능비교](https://www.youtube.com/watch?v=WsPHRmey4fM)
   * [Python-append-vs-rebind-numpy.ipynb](https://colab.research.google.com/drive/1P_hZ7G1lrnZrdnjY01tIY8BZLIGYxtpv)
 * [3 easy and noninvasive Ways to instantly boost your Python Code Performance](https://towardsdatascience.com/3-easy-and-noninvasive-ways-to-instantly-boost-your-python-code-performance-b21cd823f37e)
+* [Python Performance Tuning: 20 Simple Tips – Stackify](https://stackify.com/20-simple-python-performance-tuning-tips/)
 * [File Handling in Python](https://medium.com/techtofreedom/file-handling-in-python-daee4586a64)
 * [Ten Python development skills. | Towards Data Science](https://towardsdatascience.com/ten-python-development-skills-998a52f8f7c0)
 * [7 Ways to Take Your New Python Skills to the Next Level | by Martin Andersson Aaberge | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/7-ways-to-take-your-new-python-skills-to-the-next-level-1698335844bd)
@@ -3083,7 +3086,10 @@ Python
   * [python_snippet: Python and data science snippets on the command line](https://github.com/khuyentran1401/python_snippet)
     * [Python and data science snippets on the command line](https://pythonawesome.com/python-and-data-science-snippets-on-the-command-line/)
   * [PyVNCs - Simple command line multiplatform python VNC Server](https://github.com/radixcl/pyvncs)
-  * [richer: Table renderer for dataclass using Rich](https://github.com/sarojaba/richer)
+  * [**Rich is a Python library for rich text and beautiful formatting in the terminal**](https://github.com/Textualize/rich)
+    * [rich/README.kr.md at master · Textualize/rich](https://github.com/Textualize/rich/blob/master/README.kr.md)
+    * [Make Your Python CLI Tools Pop With Rich | Hackaday](https://hackaday.com/2022/01/19/make-your-python-cli-tools-pop-with-rich/)
+    * [richer: Table renderer for dataclass using Rich](https://github.com/sarojaba/richer)
   * [simm.py - announcing command line file similarity tool](http://write-up.semantic-db.org/121-announcing-command-line-file-similarity-tool.html)
   * [soccer-cli - Football scores for hackers. A command line interface for all the football scores](https://github.com/architv/soccer-cli)
   * [topydo - A command-line todo list application using the todo.txt format](https://github.com/bram85/topydo)
@@ -3593,7 +3599,6 @@ Python
 * [retroactive - Fun with time travel: Implementing retroactive data structures in Python http://python-retroactive-data-structures.readthedocs.org](https://github.com/csvoss/retroactive)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [RiceDB – A simple, portable configuration file manager](https://github.com/install-logos/ricedb)
-* [**Rich - a Python library for rich text and beautiful formatting in the terminal. https://www.willmcgugan.com/tag/rich **](https://github.com/willmcgugan/rich)
 * [rlundo - interactive interpreters magical undo powers](https://github.com/thomasballinger/rlundo)
 * [RPyC - Transparent, Symmetric Distributed Computing](https://rpyc.readthedocs.io/) remote python call
 * RPython
@@ -4439,6 +4444,7 @@ Python
 * [Numpy와 Pandas에서의 배열 연산](https://gils-lab.tistory.com/42)
 * [UCL Data Science Society: Pandas. Workshop 6: What is Pandas, Pandas… | by Philip Wilkinson | Nov, 2021 | Towards Data Science](https://towardsdatascience.com/ucl-data-science-society-pandas-8ad28c2b22e5)
 * [파이썬이 빅데이터를 다루기에 느리다고요? (pyspark와 pandas UDF) 박현우 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=Wa87KzSOb2g)
+* [Export Pandas DataFrames — Write Your Own Utility Functions in Python | by Zoltan Guba | Jan, 2022 | Python in Plain English](https://python.plainenglish.io/exporting-pandas-dataframes-write-your-own-utility-functions-in-python-69d893976c13)
 * [dtale: Visualizer for pandas data structures](https://github.com/man-group/dtale)
 * [Modin: Speed up your Pandas workflows by changing a single line of code](https://github.com/modin-project/modin)
   * [Get faster pandas with Modin, even on your laptops](https://towardsdatascience.com/get-faster-pandas-with-modin-even-on-your-laptops-b527a2eeda74)
@@ -4785,6 +4791,8 @@ Python
 * [Tips and Examples - Codetorial](https://codetorial.net/tips_and_examples/index.html)
 * [Python for JavaScript developers](https://200okweblog.hashnode.dev/python-for-javascript-developers)
 * [python-mini-projects: A collection of simple python mini projects to enhance your python skills](https://github.com/Python-World/python-mini-projects)
+* [tinkerstellar | Learn by tinkering](https://tinkerstellar.com/)
+  * [Tinkerstellar - iPad에서 Python 배우기 | GeekNews](https://news.hada.io/topic?id=5735)
 
 # Web -> [web](web.md)
 
