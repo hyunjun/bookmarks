@@ -575,6 +575,7 @@ Linux
   * [find 명령 정리](http://blog.naver.com/antimidal/220041200248)
   * [Linux - Linux Command for finding files](https://chaewonkong.github.io/posts/linux-command-for-finding-files.html)
   * [A shell one-liner to search directories](https://www.johndcook.com/blog/2020/04/19/directory-search/)
+  * [Markus Mahlberg's answer to Why do experts always recommend using the command line and not the GUI (Win/Linux)? - Quora](https://www.quora.com/Why-do-experts-always-recommend-using-the-command-line-and-not-the-GUI-Win-Linux/answer/Markus-Mahlberg)
   * [fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
 * `fold`
   * [File character counts](https://www.johndcook.com/blog/2019/10/16/file-character-counts/) fold 응용
@@ -833,6 +834,7 @@ Linux
   * [systemd: The Good Parts - Christine Dodrill](https://christine.website/talks/systemd-the-good-parts-2021-05-16)
   * [Avoiding complexity with systemd | Michael Maclean](https://mgdm.net/weblog/systemd/)
   * [systemd service sandboxing and security hardening 101](https://www.ctrl.blog/entry/systemd-service-hardening.html)
+  * [systemd, 10 years later: a historical and technical retrospective](https://blog.darknedgy.net/technology/2020/05/02/0/)
 * systemtap
   * [커널 분석을 위한 systemtap 스크립트](https://brunch.co.kr/@alden/42)
 * `tac`
@@ -972,8 +974,9 @@ Linux
 # GNU
 * [Turn GNU command line tools into SaaS (Stupid Hackathon Project)](https://github.com/diafygi/gnu-pricing)
 * [GNU Coreutils](https://www.gnu.org/software/coreutils/manual/coreutils.html)
-  * numfmt [Formatting numbers at the command line](https://www.johndcook.com/blog/2019/10/30/numfmt/)
+  * [Decoded: GNU coreutils – MaiZure's Projects](http://www.maizure.org/projects/decoded-gnu-coreutils/index.html)
   * [Coreutils Gotchas](https://www.pixelbeat.org/docs/coreutils-gotchas.html)
+  * numfmt [Formatting numbers at the command line](https://www.johndcook.com/blog/2019/10/30/numfmt/)
 
 # iptable
 * [리눅스 방화벽과 NAT를 위한 ipTables](https://bcho.tistory.com/1366)
@@ -1034,6 +1037,7 @@ Linux
 * [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
 * [alacritty - A cross-platform, GPU-accelerated terminal emulator](https://github.com/alacritty/alacritty)
 * [auto-cpufreq: Automatic CPU speed & power optimizer for Linux](https://github.com/AdnanHodzic/auto-cpufreq)
+* [BCHS: BSD, C, httpd, SQLite](https://learnbchs.org/index.html)
 * bottle [Easily run Windows software on Linux with 🍷 Bottles! ⋅ Bottles](https://usebottles.com/)
 * [broot - Get an overview of a directory, even a big one](https://dystroy.org/broot/)
 * [Browsix: Unix in the browser tab](https://browsix.org/)
