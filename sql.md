@@ -900,6 +900,7 @@ SQL
 * [Agg: Parallel aggregations for PostgreSQL](http://www.cybertec.at/en/products/agg-parallel-aggregations-postgresql/)
 * [asyncpg -- A fast PostgreSQL Database Client Library for Python/asyncio](https://github.com/magicstack/asyncpg)
 * [Bottled Water: Real-time integration of PostgreSQL and Kafka](http://www.confluent.io/blog/bottled-water-real-time-integration-of-postgresql-and-kafka/)
+* [dms-psql-post-data: Ultimate Script to complete PostgreSQL-to-PostgreSQL Migration right after AWS DMS task done](https://github.com/sinwoobang/dms-psql-post-data)
 * [Envelope - Introducing a new paradigm in web application development written specifically for PostgreSQL developers!](http://envelope.xyz/)
 * [Graphile | Powerful, Extensible and Performant GraphQL APIs Rapidly](https://www.graphile.org/)
   * [Beyond REST: Rapid Development With GraphQL Microservices | Netflix TechBlog](https://netflixtechblog.com/beyond-rest-1b76f7c20ef6)
