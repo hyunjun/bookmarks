@@ -317,6 +317,7 @@ Interview
   * [Systems design for advanced beginners | Robert Heaton](https://robertheaton.com/2020/04/06/systems-design-for-advanced-beginners/)
   * [모바일 앱 서비스 아키텍처 - YouTube](https://www.youtube.com/watch?v=VomCt6AHl9Q)
   * [Intro to system design fundamental series (from scratch) - YouTube](https://www.youtube.com/watch?v=tjiAV4pG9CM)
+  * [System Design: (Lecture -2): - Introduction To System Design - 5 Key Concepts You Must Know !! - YouTube](https://www.youtube.com/watch?v=LjF0jmxsfos)
 * Problems
   * [Success in Tech - Coding and System Design Interview Questions](https://www.youtube.com/playlist?list=PLA8lYuzFlBqAy6dkZHj5VxUAaqr4vwrka)
   * [Gaurav Sen - System Design](https://www.youtube.com/playlist?list=PLMCXHnjXnTnvo6alSjVkgxV-VH6EPyvoX)
@@ -338,6 +339,7 @@ Interview
     * [What is Distributed Caching? Explained with Redis!](https://www.youtube.com/watch?v=U3RkDLtS7uY)
       * cache policy; write through, write back, 문제점
     * [Redis system design | Distributed cache System design](https://www.youtube.com/watch?v=DUbEgNw-F9c)
+    * [System Design: (Lecture -4): - What is Distributed Caching? Explained in Detailed - YouTube](https://www.youtube.com/watch?v=0dZgyW4zSts)
     * [**Learn System design : Distributed datastores | RDBMS scaling problems | CAP theorem**](https://www.youtube.com/watch?v=l9JSK9OBzA4)
     * [Learn System design : How distributed datastore works(basics)?](https://www.youtube.com/watch?v=ZbyYvTfBlE0)
     * [Implement An LRU Cache - The LRU Cache Eviction Policy ("LRU Cache" on LeetCode)](https://www.youtube.com/watch?v=S6IfqDXWa10)
@@ -481,6 +483,7 @@ Interview
 * Consistent Hashing
   * [Distributed Systems in One Lesson by Tim Berglund](https://www.youtube.com/watch?v=Y6Ev8GIlbxc)
   * [Amazon Interview question: Learn hashing and consistent hash ring](https://www.youtube.com/watch?v=bBK_So1u9ew0)
+  * [System Design: (Lecture -5): - What is Consistent Hashing? Why and Where It is Used? - YouTube](https://www.youtube.com/watch?v=l0jc0D_XO1E)
 * Load Balancer
   * [Introducing the GitHub Load Balancer](https://githubengineering.com/introducing-glb/)
   * [GLB part 2: HAProxy zero-downtime, zero-delay reloads with multibinder](https://githubengineering.com/glb-part-2-haproxy-zero-downtime-zero-delay-reloads-with-multibinder/)
@@ -498,6 +501,7 @@ Interview
   * [로드 밸런서(Load Balancer)란?](https://nesoy.github.io/articles/2018-06/Load-Balancer)
   * [EP03: Load balancer basics, usage and configuration - YouTube](https://www.youtube.com/watch?v=cXYm0nNhKJw)
   * [EP04: API Gateway vs Load Balancer concepts and usage (AWS config) - YouTube](https://www.youtube.com/watch?v=Z1lejCLTRXY)
+  * [System Design: (Lecture -3): - What Is Load Balancing? Complete Guide For Technical Interview - YouTube](https://www.youtube.com/watch?v=6rLjLczqHuM)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * [System design basics: When to use distributed computing | how distributed computing works](https://www.youtube.com/watch?v=3zCK_5U69A8)
 * [Do you know Distributed transactions?](https://www.youtube.com/watch?v=S4FnmSeRpAY)
