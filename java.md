@@ -161,6 +161,7 @@ Java
 * [java switch 문 : string에 대해서 어떻게 쓰는지 예제로 알아봅시다](https://codingdog.tistory.com/entry/java-switch-%EB%AC%B8-string%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%93%B0%EB%8A%94%EC%A7%80-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [What are Operators in Java - YouTube](https://www.youtube.com/watch?v=997xqAZT3CM)
 * ['살아 움직이는 언어' 자바에 추가된 6가지 새로운 기능 - ITWorld Korea](https://www.itworld.co.kr/news/208787)
+* [Unusual Java: StackTrace Extends Throwable](https://blog.vanillajava.blog/2021/12/unusual-java-stacktrace-extends.html)
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
@@ -447,6 +448,7 @@ Java
 * [thread.currentthread 메소드를 이용해서 쓰레드들이 request를 어떻게 처리하는지 실험해 봅시다](https://codingdog.tistory.com/entry/threadcurrentthread-%EB%A9%94%EC%86%8C%EB%93%9C%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%93%B0%EB%A0%88%EB%93%9C%EB%93%A4%EC%9D%B4-request%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94%EC%A7%80-%EC%8B%A4%ED%97%98%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [java threadlocal 클래스에 대해서 간단하게 알아봅시다.](https://codingdog.tistory.com/651)
 * [동시성 프로그래밍에 대하여](https://devkingdom.tistory.com/303)
+* [Difference between CountDownLatch vs CyclicBarrier in Java Multithreading | Java67](https://www.java67.com/2012/08/difference-between-countdownlatch-and-cyclicbarrier-java.html)
 
 ## Concurrency Parallel Thread Akka
 * [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
@@ -466,6 +468,7 @@ Java
 
 # Conference
 * [Hugh Mckee - Building Stateful Clustered Microservices with Java, Actors, and Kubernetes](https://www.youtube.com/watch?v=AJD4RjYRIaU)
+* [Keeping Pace with Java - YouTube](https://www.youtube.com/watch?v=A9ilnniaUmA)
 
 # Eclipse
 * [Eclipse plugin to automatically refactor Java code bases http://autorefactor.org](https://github.com/JnRouvignac/AutoRefactor)
@@ -766,6 +769,7 @@ Java
 * [Oracle's JDK 17 - Free Again for Commercial Use](https://www.infoq.com/news/2021/10/oracle-jdk-free-again/)
 * [To Java 17 and Beyond! - YouTube](https://www.youtube.com/watch?v=U14IA5XiX1I)
 * [Not stagnation, but regression of Java. Where modern Java 17 loses to Java 8 | by Marian Čaikovski | Dec, 2021 | Medium](https://marian-caikovski.medium.com/not-stagnation-but-regression-of-java-where-modern-java-17-loses-to-java-8-e45b31fec5ac)
+* [Six Features From Java 12 to 17 to Get Excited About!](https://www.infoq.com/articles/six-features-jdk12-to-jdk17/)
 
 # Java18
 * [레코드 및 배열 패턴 外··· 구체화되는 ‘자바 18’ 미리보기 - CIO Korea](https://www.ciokorea.com/news/205454)
@@ -816,6 +820,7 @@ Java
 * [Microsoft Build of OpenJDK](https://www.microsoft.com/openjdk)
   * [Announcing Preview of Microsoft Build of OpenJDK | Java at Microsoft](https://devblogs.microsoft.com/java/announcing-preview-of-microsoft-build-of-openjdk/)
   * [MS, 자체 오픈 JDK 프리뷰 릴리즈 공개 - CIO Korea](https://www.ciokorea.com/news/189343)
+  * [Microsoft Deepens Its Investments in Java - Java at Microsoft](https://devblogs.microsoft.com/java/microsoft-deepens-its-investments-in-java/)
 * openj9 [Eclipse OpenJ9](https://www.eclipse.org/openj9/)
   * [IBM Introduces the Semeru Runtimes for OpenJ9](https://www.infoq.com/news/2021/10/ibm-introduces-semeru-openj9/)
 * [Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
@@ -940,6 +945,7 @@ Java
 * [Understanding the JDK’s New Superfast Garbage Collectors](https://blogs.oracle.com/javamagazine/understanding-the-jdks-new-superfast-garbage-collectors)
 * [Java garbage collection interview questions & answers](https://www.java-success.com/java-garbage-collection-interview-questions-and-answers/)
 * [GC progress from JDK 8 to JDK 17](https://kstefanj.github.io/2021/11/24/gc-progress-8-17.html)
+* [Detect proactively whether application’s memory is under-allocated - JAXenter](https://jaxenter.com/memory-under-allocated-176329.html)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 * [gctoolkit: Tool for parsing GC logs](https://github.com/microsoft/gctoolkit)
   * [Microsoft Open-Sources GCToolkit to Tap into JVM GC Logs](https://www.infoq.com/news/2021/09/msft-opensourced-gctoolkit/)
@@ -982,6 +988,7 @@ Java
 * [자바개발 및 운영툴](https://javaengine.tistory.com/entry/자바개발-및-운영툴)
 * [Guide to Java Profilers](https://medium.com/platform-engineer/guide-to-java-profilers-e344ce0339e0)
 * [스택트레이스 샘플링을 이용한 성능 분석 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2021-10-18/) 제품 광고지만 글 흐름 자체는 좋음
+* [5 Mundane Java Performance Tips | Richard Startin’s Blog](https://richardstartin.github.io/posts/5-java-mundane-performance-tricks)
 * jconsole
 * jprobe
 * jProfiler
@@ -1018,6 +1025,7 @@ Java
   * [**Kubernetes 환경을 위한 자바 에이전트 개발기**](https://hyperconnect.github.io/2020/03/25/kube-agent.html)
 * [axon - Framework for scalable, high performance applications](http://www.axonframework.org/)
 * [BinNavi is a binary analysis IDE that allows to inspect, navigate, edit and annotate control flow graphs and call graphs of disassembled code. http://www.zynamics.com/binnavi.html](https://github.com/google/binnavi)
+* [bladecoder-adventure-engine: Classic point and click adventure game engine and editor](https://github.com/bladecoder/bladecoder-adventure-engine)
 * [Chatty - a Twitch chat client](http://chatty.github.io/)
   * [chatty - Twitch Chat Client written in Java](https://github.com/chatty/chatty)
   * [자바 오픈소스 채팅앱 소개 / 개발자용 폰트 / 코딩 약간 / 마이크 필터링 (2017-02-24)](https://www.youtube.com/watch?v=s8d8tYr7K84)
