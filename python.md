@@ -4618,6 +4618,7 @@ Python
 * [My Python testing style guide - Stargirl (Thea) Flowers](https://blog.thea.codes/my-python-testing-style-guide/)
 * [3 ways to test your API with Python | Opensource.com](https://opensource.com/article/21/9/unit-test-python)
 * [A/B 테스트 플랫폼 MVP 개발기. 권오빈 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=THZWUHyj2rg)
+* [The Ultimate Guide to A/B Testing with Python | by Rahulraj Singh | Jan, 2022 | Towards Data Science](https://towardsdatascience.com/the-ultimate-guide-to-a-b-testing-with-python-b2c560b7ab26)
 * [atheris: A Coverage-Guided, Native Python Fuzzer](https://github.com/google/atheris)
 * faker, factory boy [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
 * [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
