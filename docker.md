@@ -1196,6 +1196,7 @@ Docker
 * [Migrating to Kubernetes + Best Practices for Cloud Native • T. Vitale & L. Højgaard • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=2J3MZlXjLHk)
 * [Best Practices for Running Containers and Kubernetes in Production](https://info.aquasec.com/kubernetes-best-practices)
 * [Kubernetes Essential Component. 쿠버네티스를 효율적으로 사용하기 위해서는 필수 쿠버네티스 관리… | by KC | Jan, 2022 | Medium](https://medium.com/@cloudacode/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%ED%95%84%EC%88%98-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-by-cloudacode-b115930db484)
+* [Kubernetes: The Documentary PART 1 - YouTube](https://www.youtube.com/watch?v=BE77h7dmoQU)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1272,6 +1273,7 @@ Docker
   * [How To Install Software on Kubernetes Clusters with the Helm Package Manager](https://www.digitalocean.com/community/tutorials/how-to-install-software-on-kubernetes-clusters-with-the-helm-package-manager)
   * [Welcome! Helm Package Manager](https://www.katacoda.com/courses/kubernetes/helm-package-manager)
   * [스포카에서 Helm을 도입 하는 이야기](https://spoqa.github.io/2020/03/30/k8s-with-helm-chart.html)
+  * [spaceone-helm: A helm chart for SpaceONE](https://github.com/spaceone-dev/spaceone-helm)
 * [hub.cncf.io - Find, install and publish Kubernetes packages](https://hub.cncf.io/)
 * ipify [K8s 레시피 - ipify » 안드로메다 토끼](https://andromedarabbit.net/k8s-%eb%a0%88%ec%8b%9c%ed%94%bc-ipify/)
 * Istio
@@ -1553,6 +1555,7 @@ Docker
   * [**containerd & Lima: Open source alternative to Docker for Mac | by Akihiro Suda | nttlabs | Sep, 2021 | Medium**](https://medium.com/nttlabs/containerd-and-lima-39e0b64d2a59)
   * [쿠버네티스 컨테이너 런타임 Docker에서 Containerd로 - Tech Blog - Tech Blog](https://tech.osci.kr/space/TB/21099380847/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4+%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88+%EB%9F%B0%ED%83%80%EC%9E%84+Docker%EC%97%90%EC%84%9C+Containerd%EB%A1%9C)
   * [Why and How to Use containerd from the Command Line - Ivan Velichko](https://iximiuz.com/en/posts/containerd-command-line-clients/)
+* [minivm: A VM That is Dynamic and Fast](https://github.com/FastVM/minivm)
 * multipass [Docker Desktop 대탈출, multipass로 갑니다](https://jybaek.tistory.com/934)
 
 # Network
