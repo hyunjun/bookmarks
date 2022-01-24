@@ -847,6 +847,7 @@ Machine Learning
 * [60 Best Free Online Courses for Machine Learning & AI in 2021](https://www.mltut.com/best-free-online-courses-for-machine-learning-and-ai)
 * [8 Best Machine Learning Courses for Finance You Must Know- 2021](https://www.mltut.com/best-machine-learning-courses-for-finance/)
 * [12 Best Online Courses for Machine Learning with Python-Bestseller 2022](https://www.mltut.com/best-online-courses-for-machine-learning-with-python/)
+* [45 Udacity FREE Courses on Machine Learning and Data Science- 2022](https://www.mltut.com/udacity-free-courses-on-machine-learning/)
 * [Machine Learning Summer School 2017 Tübingen](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFUOvoYCdKikfck8YeUCnl9)
 * [Top Python Libraries for Data Science, Data Visualization & Machine Learning - KDnuggets](https://www.kdnuggets.com/2020/11/top-python-libraries-data-science-data-visualization-machine-learning.html)
 * [Be Future Ready | Day - 1 | AI And Machine Learning Full Course | AI & ML Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=g39SJbNXYEg)
