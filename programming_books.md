@@ -785,6 +785,8 @@ Programming Books
 * (NOT YET) [생활코딩 머신러닝 with 파이썬 텐서플로(실습편) | 위키북스](https://wikibook.co.kr/tf/)
 * (NOT YET) [파이썬으로 완성하는 비지도 학습 알고리즘](https://bjpublic.tistory.com/428)
 * (NOT YET) [머신러닝 프로젝트 수명주기로 배우는 머신러닝 엔지니어링](https://jpub.tistory.com/1223?category=203154)
+* (NOT YET) [금융 머신러닝 - 이론에서 실전까지](https://brunch.co.kr/@gauss92tgrd/47)
+  * [ML_Finance_Codes: Machine Learning in Finance: From Theory to Practice Book](https://github.com/mfrdixon/ML_Finance_Codes)
 
 ## Keras
 * [파이썬과 케라스로 배우는 강화학습](http://wikibook.co.kr/reinforcement-learning/)
