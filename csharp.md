@@ -123,6 +123,9 @@ C#
 # C# 9
 * [C# - C# 9.0 "공변 반환 형식" - jacking75](https://jacking75.github.io/NET_csharp_9/)
 
+# C# 10
+* [Welcome to C# 10 - .NET Blog](https://devblogs.microsoft.com/dotnet/welcome-to-csharp-10/)
+
 # Library
 * [bflat: C# as you know it but with Go-inspired tooling (small, selfcontained, and native executables)](https://github.com/MichalStrehovsky/bflat)
 * [Blazor - Build client web apps with C#](https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor)
