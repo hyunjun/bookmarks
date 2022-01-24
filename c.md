@@ -179,6 +179,7 @@ C
 * [그래서, 스택이랑 힙이 뭔데?](https://www.jiwon.me/explain-heap-and-stack/)
 * [C 언어 퀴즈](https://velog.io/@mythos/C-C-%EC%96%B8%EC%96%B4-%ED%80%B4%EC%A6%88)
 * [C Runtime Overhead](http://ryanhileman.info/posts/lib43)
+* [Some sanity for C and C++ development on Windows](https://nullprogram.com/blog/2021/12/30/)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
@@ -202,6 +203,7 @@ C
 * [Address Sanitizer](https://mikeash.com/pyblog/friday-qa-2015-07-03-address-sanitizer.html)
 * [Bitcode Demystified](http://lowlevelbits.org/bitcode-demystified/)
 * [Emulating "defer" in C, with Clang or GCC+Blocks](http://fdiv.net/2015/10/08/emulating-defer-c-clang-or-gccblocks)
+* [A simple defer feature for C](http://www.open-std.org/jtc1/sc22/wg14/www/docs/n2895.htm)
 * [Build Your Own Lisp](http://www.buildyourownlisp.com/)
 * [Ubuntu에 Clang 9 설치하기 : 네이버블로그](https://blog.naver.com/hikari1224/221742416148)
 * [cldoc - clang based documentation generator for C and C++](https://jessevdk.github.io/cldoc/index.html)
@@ -497,6 +499,7 @@ C
 * [포인터 이해하기 | 10분 TV](http://10bun.tv/beginner/episode-5/)
 * [kkamagui의 작업실 :: 미네소타 대학(University of Minnesota)에서 의도적으로 리눅스 커널(Linux Kernel)에 보안 위협을 초래했네요](https://kkamagui.tistory.com/943)
 * [c++ - pointer comparisons "<" with one past the last element of an array object - Stack Overflow](https://stackoverflow.com/questions/16233868/pointer-comparisons-with-one-past-the-last-element-of-an-array-object)
+* [Joe Zbiciak's answer to What happens in memory when you define a pointer of a pointer in C? - Quora](https://www.quora.com/What-happens-in-memory-when-you-define-a-pointer-of-a-pointer-in-C/answer/Joe-Zbiciak)
 
 # Standard Library
 * file
