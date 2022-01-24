@@ -1217,6 +1217,7 @@ AWS
 * [AWS 7월 새소식 요약 및 Amazon RDS Proxy 집중 분석 :: 차니의 #클라우드클리닉 18회 :: Channy's Blog](http://blog.creation.net/channy-cloud-clinic-ep18)
 * [RDS 생성 및 R/Python 연동 - 미완성의신](https://unfinishedgod.netlify.app/2021/03/05/aws-rds-%EC%83%9D%EC%84%B1-%EB%B0%8F-r-python-%EC%97%B0%EB%8F%99/)
 * [DataGrip 에서 SSH 터널링으로 DB 접근하기](https://jojoldu.tistory.com/623)
+* [AWS RDS Tutorial | Install Microsoft SQL Server Database (MSSQL), Connect to it and write Queries - YouTube](https://www.youtube.com/watch?v=cJ2IVsq9sew)
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 
 # Redshift
@@ -1341,6 +1342,7 @@ AWS
 * [Terraform Cheat Sheet – techbeatly](https://www.techbeatly.com/terraform-cheat-sheet/)
 * [10 things I wish I knew before learning Terraform (Part 1) | by Ian Hancock | Contino Engineering | Medium](https://medium.com/contino-engineering/10-things-i-wish-i-knew-before-learning-terraform-f13637a01aa6)
 * [10 things I wish I knew before learning Terraform (Part 2) | by Ian Hancock | Contino Engineering | Nov, 2021 | Medium](https://medium.com/contino-engineering/10-things-i-wish-i-knew-before-learning-terraform-part-2-a15a3f85efb6)
+* [Terraform - Part 3 - Terraform Resource Attribute and Output Values .. Terraform Associate Exam .... - YouTube](https://www.youtube.com/watch?v=qVoMgdsvme0)
 
 # Tutorial
 * [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
