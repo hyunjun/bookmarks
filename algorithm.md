@@ -404,6 +404,7 @@ Algorithm
 * [Dynamic Programming(Beginner to Advanced) | 4 Steps to Solve any DP Problem | Lecture - 2 - YouTube](https://www.youtube.com/watch?v=Gcubukn8L3w)
 * [Dynamic Programming - Learn to Solve Algorithmic Problems & Coding Challenges - YouTube](https://www.youtube.com/watch?v=oBt53YbR9Kk)
 * [Powerful Dynamic Programming Explanation - LeetCode Discuss](https://leetcode.com/discuss/general-discussion/1081421/powerful-dynamic-programming-explanation)
+* [Top 5 Courses to Learn Dynamic Programming for Coding Interviews in 2022 - Best of Lot](https://javarevisited.blogspot.com/2019/12/top-5-courses-to-learn-dynamic-programming-for-interivews.html)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
@@ -545,6 +546,7 @@ Algorithm
 * [Consistent Hashing Simplified](https://towardsdatascience.com/consistent-hashing-simplified-7fe4e512324)
 * [**Consistent Hashing**](https://brunch.co.kr/@springboot/258) 스스로 구현도 해보고 여러가지 참고할만한 링크 포함
 * [Gossip Dissemination](https://martinfowler.com/articles/patterns-of-distributed-systems/gossip-dissemination.html)
+* [EP07: Consistent hashing and consistency level - YouTube](https://www.youtube.com/watch?v=yyfiu6pHsjg)
 
 ## Hash Distributed Hash Table, DHT
 * [Simple basic explanation of a Distributed Hash Table (DHT)](https://stackoverflow.com/questions/144360/simple-basic-explanation-of-a-distributed-hash-table-dht)
