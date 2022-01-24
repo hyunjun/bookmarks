@@ -153,6 +153,7 @@ Javascript
 * [JavaScript for Cats](http://jsforcats.com/)
 * [OK, Now I'll learn How To Program In JavaScript!](https://medium.com/@fagnerbrack/ok-now-ill-learn-how-to-program-in-javascript-2c7847414830)
 * [Want to learn JavaScript? Here’s a free 24-part course to get you started](https://medium.freecodecamp.org/want-to-learn-javascript-heres-a-free-24-part-course-to-get-you-started-e7777baf86fb)
+* [12 Best FREE JavaScript Courses & Tutorials for Beginners in 2022 - YouTube](https://www.youtube.com/watch?v=l-74y_MV9k8)
 * [Build Javascript Projects From Scratch | JavaScript Projects For Beginners | JavaScript |Simplilearn - YouTube](https://www.youtube.com/watch?v=fi4E40kOGGM)
 * [FRONT-END DEVELOP 기초](http://junil-hwang.com/blog/category/lecture-note/front-end-develop-%EA%B8%B0%EC%B4%88/) javascript, node.js
 * [A practical guide to learning front end development for beginners](https://medium.freecodecamp.org/a-practical-guide-to-learning-front-end-development-for-beginners-da6516505e41)
@@ -742,6 +743,7 @@ Javascript
 * [유니코드 점자로 그래픽 디스플레이 만들기 유니코드 점자 문자로 CLI에서 그래픽을 표시해보자!](https://lazygyu.net/blog/graphic_display_by_braille_pattern)
 * [스타트업의 디자인 시스템 구축 과정 · Present](https://present.do/shows/61346fad5b179c0da7468260) design system
 * [디자인 시스템을 활용하여 기간계 웹화면 개발 생산성 높이기 - 1탄 :: GS Retail Engineering](https://gsretail.tistory.com/4)
+* [영감을 주는 최고의 디자인 시스템 – 디자인 나침반](https://designcompass.org/2022/01/23/top-10-design-system/)
 * [!!Con 2019- Tail Call Optimization: The Musical!! by Anjana Vakil & Natalia Margolis - YouTube](https://www.youtube.com/watch?v=-PX0BV9hGZY) 정말 재미있는 공연 + TCO 설명
 * [next.config.js 의 images.path와 assetPrefix](https://velog.io/@juunini/next.config.js-%EC%9D%98-images.path%EC%99%80-assetPrefix)
 * [카카오 비즈인프라FE파트 개발자는 어떻게 일할까? – 기술편 – tech.kakao.com](https://tech.kakao.com/2021/11/23/biz-infra-fe-01/)
@@ -1829,6 +1831,8 @@ Javascript
   * [ReactJS vs SolidJS - YouTube](https://www.youtube.com/watch?v=ZR7tdZ51MQ8)
 * [Sparkplug — a non-optimizing JavaScript compiler · V8](https://v8.dev/blog/sparkplug)
 * [SpeckJS - Comment Driven Development](http://speckjs.github.io/)
+* [spectrum: Simple, powerful online communities](https://github.com/withspectrum/spectrum)
+  * [오픈소스 훔쳐보기](https://velog.io/@kyj2471/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%9B%94%EC%B3%90%EB%B3%B4%EA%B8%B0)
 * [sql.js - SQLite compiled to JavaScript through Emscripten](https://github.com/kripken/sql.js)
 * [Stardust - GPU 기반 시각화 라이브러리](https://www.facebook.com/nextobe1/photos/a.313464989089503.1073741829.303538826748786/334526306983371/)
 * [stat-distribution - Javascript library for the visualization of statistical distributions](https://github.com/richarddmorey/stat-distributions-js)
@@ -3207,6 +3211,7 @@ Javascript
 * [함수 컴포넌트, 선언문 vs 표현식은 취향 차이일까?](https://velog.io/@jjunyjjuny/React-%ED%95%A8%EC%88%98-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%84%A0%EC%96%B8%EB%AC%B8-vs-%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%80-%EC%B7%A8%ED%96%A5-%EC%B0%A8%EC%9D%B4%EC%9D%BC%EA%B9%8C)
 * [How to Draw S-Curved Arrows Between Boxes / Rectangles | Alexander's Garden](https://dragonman225.js.org/curved-arrows.html)
 * [React에서 Canvas API로 애니메이션 구현하기](https://brunch.co.kr/@dalgudot/141)
+* [5 Projects You Can Build to Learn React.js in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/10/5-best-reactjs-projects-for-beginners.html)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
