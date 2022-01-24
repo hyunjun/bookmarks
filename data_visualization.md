@@ -138,6 +138,7 @@ Data Visualization
   * [chart-on-blog: Tool for drawing chart on blog(based on chart.js) / 블로그 게시글에 차트 쉽게 그려주는 도구(chart.js 기반)](https://github.com/jaeyeon302/chart-on-blog)
   * [제목은 Vue에서의 데이터 시각화로 하겠습니다, 근데 이제 Chart.js를 곁들인 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/07/02/Data-Visualization-with-Chart-js.html)
 * [Fantasy-Map-Generator: Web application generating interactive and highly customizable maps](https://github.com/Azgaar/Fantasy-Map-Generator)
+* [GoJS](https://gojs.net)
 * [Greylock Data Visualization Library](https://greylock.js.org/)
 * [Mercury - data visualize and discovery with Javascript, such as apache zeppelin and jupyter](https://github.com/cloverhearts/mercury)
 * [metrics-graphics - A library optimized for concise, principled data graphics and layouts. http://metricsgraphicsjs.org ](https://github.com/mozilla/metrics-graphics)
