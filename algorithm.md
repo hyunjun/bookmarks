@@ -96,6 +96,7 @@ Algorithm
 * [Welcome to 99 Bottles of Beer](http://99-bottles-of-beer.net/)
 * [Knapsack Problem](http://philosophical.one/post/roadtrip-in-australia-financial-settlement/)
 * [Lazy Linear Knapsack](https://www.pvk.ca/Blog/2020/01/20/lazy-linear-knapsack/)
+* [Knapsack Problem - YouTube](https://www.youtube.com/watch?v=1EmfdISFB9I)
 * [zerocho.com/category/Algorithm](https://www.zerocho.com/category/Algorithm)
 * [입 개발 base62와 진법 연산](http://www.popit.kr/%EC%9E%85-%EA%B0%9C%EB%B0%9C-base62%EC%99%80-%EC%A7%84%EB%B2%95-%EC%97%B0%EC%82%B0/)
 * [입 개발 base64 가 있는데 base62 같은걸 왜 써야 하나요?](https://www.popit.kr/입-개발-base64-가-있는데-base62-같은걸-왜-써야-하나요)
