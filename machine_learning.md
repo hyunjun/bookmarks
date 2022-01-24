@@ -1093,6 +1093,7 @@ Machine Learning
 * [A Tour of End-to-End Machine Learning Platforms – Databaseline by Ian Hellström](https://databaseline.tech/a-tour-of-end-to-end-ml-platforms/)
 * [‘머신러닝을 쉽게’··· 추천 오픈소스 도구 14선 - CIO Korea](http://www.ciokorea.com/news/166185)
 * ['내부 머신러닝 지원' 데이터베이스 8종 - CIO Korea](https://www.ciokorea.com/news/192599)
+* [10 Best Data Analysis and Machine Learning Libraries/Tools - DZone AI](https://dzone.com/articles/10-best-data-science-data-analysis-and-machine-lea)
 * [aerosolve](http://airbnb.io/aerosolve/)
   * [aerosolve](http://nerds.airbnb.com/aerosolve)
   * [에어비앤비, 머신러닝 데이터 분석도구 오픈소스로 공개](http://www.bloter.net/archives/229587)
