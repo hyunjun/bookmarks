@@ -415,6 +415,8 @@ Vision
   * [WebRTC 시동걸기 | Doublem.org](http://doublem.org/webrtc-story-01/)
   * [WebRTC 시그널링 서버 구현하기 | Doublem.org](http://doublem.org/webrtc-story-02/)
   * [The evolution of WebRTC 1.0. - Advancing WebRTC](https://blog.mozilla.org/webrtc/the-evolution-of-webrtc/)
+  * [샤피라이브 1편: WebRTC 기술 적용 스토리 (feat. low-latency) :: GS Retail Engineering](https://gsretail.tistory.com/10)
+  * [샤피라이브 2편: WebRTC 정복하기 (Flutter 개발자의WebRTC 개발담) :: GS Retail Engineering](https://gsretail.tistory.com/14)
   * [pear: WebRTC Library for IoT/Embedded Device using C](https://github.com/sepfy/pear)
   * [webrtcH4cKS: ~ Open Source Cloud Gaming with WebRTC](https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/)
 * [Webtoon AI Painter](https://ai.webtoons.com/painter)
