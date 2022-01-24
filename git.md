@@ -59,6 +59,7 @@ Git
   * [(0) — 프로젝트 소개와 예고](https://medium.com/happyprogrammer-in-jeju/git-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EC%86%8C%EA%B0%9C%EC%99%80-%EC%98%88%EA%B3%A0-bf3a8549f439)
   * [(1) — 기본 오브젝트](https://medium.com/happyprogrammer-in-jeju/git-%EB%82%B4%EB%B6%80-%EA%B5%AC%EC%A1%B0%EB%A5%BC-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-1-%EA%B8%B0%EB%B3%B8-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-81b34f85fe53)
 * [Git for Computer Scientists](https://eagain.net/articles/git-for-computer-scientists/) Quick introduction to git internals
+* [CLI 환경에서 소스 코드 버전 관리하기 - 임창수 블로그](https://markruler.github.io/posts/shell/git-commands/)
 * [Git from the Bottom Up](https://jwiegley.github.io/git-from-the-bottom-up/)
 * [gitlet.js - how Git works under the covers](http://gitlet.maryrosecook.com/docs/gitlet.html)
 * GitHub로 프로젝트 관리하기
@@ -205,6 +206,7 @@ Git
 * [What’s wrong with Git? A conceptual design analysis | the morning paper](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
 * [Git as a NoSql database](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/)
 * [Scaling monorepo maintenance | The GitHub Blog](https://github.blog/2021-04-29-scaling-monorepo-maintenance/)
+* ['폴리리포주의자'가 모노리포를 반대하는 3가지 이유 - ITWorld Korea](https://www.itworld.co.kr/news/214234)
 * [GitHub Packages Container registry is generally available | The GitHub Blog](https://github.blog/2021-06-21-github-packages-container-registry-generally-available/)
   * Docker Hub처럼 GitHub에 컨테이너 이미지를 배포하고 받아올 수 있음
 * [GitHub, 블로그에 방문자 카운터를 달아보자 | SILENTSOFT](https://blog.silentsoft.org/archives/192)
