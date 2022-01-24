@@ -306,6 +306,7 @@ Web
 * [합법적으로 ‘웹 크롤링’하는 방법 (上) | 요즘IT](https://yozm.wishket.com/magazine/detail/877/)
 * [합법적으로 ‘웹 크롤링’하는 방법 (下) | 요즘IT](https://yozm.wishket.com/magazine/detail/878/)
 * [Ep(130) 크롤링, 그 범죄와의 전쟁: 저작권을 모르면 범죄자가 된다구요?! - YouTube](https://www.youtube.com/watch?v=V-YLXVSEqic)
+* [The State of Web Scraping 2022 | ScrapeOps](https://scrapeops.io/blog/the-state-of-web-scraping-2022/)
 * [incolumitas.com – So you want to Scrape like the Big Boys? 🚀](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
   * [대규모로 웹 스크래핑하기 | GeekNews](https://news.hada.io/topic?id=5454)
 * [browser-fingerprinting: Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?](https://github.com/niespodd/browser-fingerprinting)
@@ -543,6 +544,7 @@ Web
   * 이는 HSL을 사용할 때는 발생하지 않은데 이 색 표현의 차이를 설명(데모가 있어서 이해하기 좋음)
   * 이를 이용해서 많은 중간 지점을 css gradient 함수에 전달해서 자연스럽게 표현되도록 한 방법을 설명, 이를 활용할 수 있는 Gradient Generator도 소개
 * [runtime css-in-js is not free. runtime css-in-js | by DarrenKwon | Typed 개발팀 블로그 | Dec, 2021 | Medium](https://medium.com/business-canvas/runtime-css-in-js-is-not-free-da19528e57b1)
+* [CSS 역사로 알아보는 CSS가 어려워진 이유](https://velog.io/@teo/css-history-1)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
@@ -1180,6 +1182,7 @@ Web
   * 수많은 UI 요소를 관리하기 위해 Web Components와 Lit 라이브러리 사용
 * [Cloud Native Apps with Server-Side WebAssembly - YouTube](https://www.youtube.com/watch?v=JtwHtfFe6AI)
 * [webassembly vs javascript and its application in microservice & cloud computing - YouTube](https://www.youtube.com/watch?v=1wbIjxW2Ry4)
+* [webassembly: the new kubernetes? -- wingolog](https://wingolog.org/archives/2021/12/13/webassembly-the-new-kubernetes)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Emscripten: An LLVM-to-WebAssembly Compiler](https://github.com/emscripten-core/emscripten)
   * [Hello web assembly](https://jybaek.tistory.com/782)
@@ -1220,6 +1223,8 @@ Web
 * [A JavaScript library for WebSockets](https://sarus.anephenix.com/)
 * [How many system resources will be held for keeping 1,000,000 websocket open? - Stack Overflow](https://stackoverflow.com/questions/17448061/how-many-system-resources-will-be-held-for-keeping-1-000-000-websocket-open)
 * [REST API (HTTP) vs Websockets - Concept Overview With Example - YouTube](https://www.youtube.com/watch?v=fG4dkrlaZAA)
+* [The WebSocket Handbook: learn about the technology behind the realtime web | Ably Blog: Data in Motion](https://ably.com/blog/introducing-the-websocket-handbook)
+  * [WebSocket 핸드북(64p 영문 PDF) | GeekNews](https://news.hada.io/topic?id=5743)
 * [WAMP - an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
 
 # WSGI
