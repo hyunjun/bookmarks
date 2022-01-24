@@ -299,6 +299,7 @@ Go
   * 실제로 플러그인을 어떤 함수를 구현해야 하는지를 설명하고 이러한 동작이 Terraform에서는 어떻게 되는지 설명
 * [Go Programming Language Installation - GO Tutorial](https://technologystrive.com/golang/go-installation/)
 * [Containerize Go + SQLite with Docker | by hüseyin nurbaki | Jan, 2022 | AWS Tip](https://awstip.com/containerize-go-sqlite-with-docker-6d7fbecd14f0)
+* [Top 6 Golang Programming Courses for Beginners to Learn in 2022 UPDATED - Best of Lot | Java67](https://www.java67.com/2019/12/top-5-courses-to-learn-go-or-golang.html)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
