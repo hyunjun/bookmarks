@@ -93,6 +93,7 @@ Business
 * [개발자가 조직문화에 대해 관심을 가져야 하는 이유](https://evan-moon.github.io/2019/08/06/developer-with-organizational-culture/)
 * [조직문화에 관심 있어요..?..!](https://brunch.co.kr/@say2lee/57)
 * [“컬처 덱(Culture Deck)”이란 무엇인가? | ㅍㅍㅅㅅ](https://ppss.kr/archives/249261) 조직 문화
+* [조직문화 패러다임의 진화과정](https://www.facebook.com/watch?v=772922059484399)
 * [**관계의 중요성 - 앞서가는 조직은 왜 관계에 충실한가, 최고의 팀은 왜 기본에**](https://brunch.co.kr/@younghakjang/114) humble, hungry, smart의 교집합
 * [Secrets Of Successful Teamwork: Insights From Google - YouTube](https://www.youtube.com/watch?v=hHIikHJV9fI)
 * [우리 조직 안의 ‘썩은 사과’ 해결하기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/248284)
