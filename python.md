@@ -4278,6 +4278,7 @@ Python
 * numpy-financial
   * [How to Use the Future Value Function in Python NumPy Financial - YouTube](https://www.youtube.com/watch?v=JPaT_wGshJ0)
   * [How to Use NPV & IRR in NumPy Financial for Python | Net Present Value & Internal Rate of Return - YouTube](https://www.youtube.com/watch?v=yMBem4p22Yk)
+  * [How to Use NumPy Financial for Python Present Value (pv) Function - YouTube](https://www.youtube.com/watch?v=ro01Qq3BkrI)
 * [tinynumpy - A lightweight, pure Python, numpy compliant ndarray class](https://github.com/wadetb/tinynumpy)
 
 # Pandas
