@@ -1644,6 +1644,7 @@ Programming
 * [OCI 탐험 일지 1. 인스턴스 생성](https://jhrogue.blogspot.com/2021/12/oci-1.html)
 * [OCI 탐험 일지 2. 블록 볼륨 생성](https://jhrogue.blogspot.com/2021/12/oci-2.html)
 * [OCI 탐험 일지 3. 서비스 가용성](https://jhrogue.blogspot.com/2022/01/oci-3.html)
+* [OCI 탐험 일지 4. 객체 저장소 - YouTube](https://www.youtube.com/watch?v=VhQ1n9dTbOw)
 * [전문 지식 없어도 인공지능 모델 구현·배포한다...오라클 'OCI AI 서비스' 한국진출 위해 한국어 학습 중 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=23987)
 * [클라우드 우분투에 gui로 원격 연결하기](https://evols-atirev.tistory.com/27)
 * [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
@@ -1974,6 +1975,7 @@ Programming
 * [개발자 컨퍼런스의 계절 – 대기업과 유니콘의 출전 :: Channy's Blog](http://channy.creation.net/blog/1482)
 * [공개소프트웨어 페스티벌 - YouTube](https://www.youtube.com/playlist?list=PL8MaVgZDhGk_6lUMRnoGQO8Xy4d3RXTDa)
 * [Using Tooling To Improve Your Codebase - YouTube](https://www.youtube.com/watch?v=xA3peCxMV10)
+* [Programming is writing is programming - Felienne - YouTube](https://www.youtube.com/watch?v=uO3a4HIBDU4)
 * [calltospeakers.com](https://calltospeakers.com)
 * [DEVGROUND 2019](http://devground.hanbit.co.kr/) AI, data science, blockchain
 * [DevRel/Asia 2020 Korea Track - YouTube](https://www.youtube.com/watch?v=X25TQkQQjbg)
@@ -3246,6 +3248,7 @@ Programming
 * [Course Operating System (CPA310) - 운영체제 강의 - YouTube](https://www.youtube.com/playlist?list=PLBrGAFAIyf5rby7QylRc6JxU5lzQ9c4tN)
 * [레스토랑에 비유해서 알아보는 운영체제 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/10/04/OS-Restaurant.html)
 * [Cosmos (C# Open Source Managed Operating System) - an operating system development kit](https://www.gocosmos.org/)
+* [Essence](https://nakst.gitlab.io/essence)
 * [winix: A UNIX-style Operating System for the Waikato RISC Architecture Microprocessor (WRAMP)](https://github.com/halfer53/winix)
 * [x86-bare-metal-examples: Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QEMU 2.10中的Ubuntu 17.10主机和真实硬件上进行了测试。 Userland作弊网址：https：//github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM裸机安装程序位于：https：//github.com/cirosantilli/linux-kernel-module-cheat#baremetal- 设置](https://github.com/cirosantilli/x86-bare-metal-examples)
 * [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6.html)
