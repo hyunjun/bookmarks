@@ -63,6 +63,7 @@ Regular Expression
 * [Easiest way to remember Regular Expressions (Regex) | by Tobi Sam | Towards Data Science](https://towardsdatascience.com/easiest-way-to-remember-regular-expressions-regex-178ba518bebd)
 * [개발자라면 알아야 할 ①불규칙 속에서 규칙을 찾는 정규표현식 | 요즘IT](https://yozm.wishket.com/magazine/detail/1197/)
 * [개발자라면 알아야 할 ②정규식을 사용해보자 | 요즘IT](https://yozm.wishket.com/magazine/detail/1217/%ED%95%B4%EB%B3%B4%EC%9E%90/)
+* [10 Regular Expressions Every Programmer Should Know - DEV Community](https://dev.to/javinpaul/10-regular-expressions-every-programmer-should-know-3k93)
 
 # C++
 * [정규 표현식](http://jiniya.net/ng/2017/11/regex/)
