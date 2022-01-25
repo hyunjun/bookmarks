@@ -827,6 +827,7 @@ AWS
 * [Intro to Node on AWS Lambda for S3 and Kinesis](http://eng.localytics.com/taming-aws-lambda-for-s3-and-kinesis-at-localytics/)
 * [AWS kinesis Firehose 실습 및 예제 코드(Java), 장단점, 추천](https://blog.voidmainvoid.net/295)
 * [API Gateway 로 Kinesis 를 위한 HTTP Proxy 만들기](https://chang12.github.io/api-gateway-kinesis-proxy/)
+* [AWS Kinesis python으로 다뤄보기 | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/python-kinesis/)
 * [kinesumer: A Go client implementing a client-side distributed consumer group client for Amazon Kinesis](https://github.com/daangn/kinesumer)
 
 # Lambda
