@@ -112,6 +112,7 @@
 * [singleton 클래스 이야기(2)](http://www.gilgil.net/15772)
 * [singleton 클래스 이야기(3)](http://www.gilgil.net/15792)
 * [singleton 클래스 이야기(4)](http://www.gilgil.net/15809)
+* [Singelton Pattern in C++. #singelton #threadsafety #doublecheckinginsingelton #singletonincpp - YouTube](https://www.youtube.com/watch?v=N-9yGPjsljw)
 * [Keep it Simple with the Strategy Design Pattern](https://blog.bitsrc.io/keep-it-simple-with-the-strategy-design-pattern-c36a14c985e9)
 * [디자인 패턴 - 소개 | Pacientes's Devlog](https://pacientes.github.io/posts/2020/11/design_pattern_introduction/)
 * [pacientes/Design-Pattern-In-Cpp: Design Pattern using C++ Language](https://github.com/pacientes/Design-Pattern-In-Cpp)
