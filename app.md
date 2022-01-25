@@ -918,6 +918,7 @@ App
     * [영상제작 obs에서 발표용 화면 구성하기 - YouTube](https://www.youtube.com/watch?v=iVIRYY9TO0k)
     * [네이버 클라우드 플랫폼의 Live Station과 OBS로 온라인 행사 운영하기](https://blog.openinfradays.kr/share/2020/12/28/online-conference-with-obs.html)
     * [원하는 특정 프로그램들의 소리만 방송(OBS).. : 네이버블로그](https://blog.naver.com/eternalguard/221550777714)
+    * [온라인 시대! YouTube Live로 개발자 행사 운영하기(feat. Developer Relations) - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-developer-relations-youtube-live/)
   6. [나트론 Natron](https://natrongithub.github.io)
     * 오픈 소스 노드 기반 합성 프로그램. 오픈 소스 및 상용 OpenFX 플러그인 지원. 다양한 VFX 이펙트를 만들거나 여러 영상을 노드 형식으로 합성 가능
   7. [잉크스케이프 Inkscape](https://inkscape.org/ko)
