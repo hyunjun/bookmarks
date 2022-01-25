@@ -134,6 +134,7 @@ Java
 * [Why is Java so dumb?. Part 1: Data Types | by Dave Andrea | Oct, 2021 | Medium](https://medium.com/@daveandrea/why-is-java-so-dumb-1990b9ac77c4)
 * [Why is Java So Dumb? (Part 2). Part 2: Why does it take so long to… | by Dave Andrea | Nov, 2021 | Medium](https://medium.com/@daveandrea/why-is-java-so-dumb-part-2-25755eb8459a)
 * [7 Features Java Developers Should Learn in 2022 | by javinpaul | Javarevisited | Dec, 2021 | Medium](https://medium.com/javarevisited/7-features-java-developers-should-learn-73cc3d4e734f)
+* [Top 5 Free Java Microservices Courses with Spring Boot and RxJava in 2022 - Best of Lot | Java67](https://www.java67.com/2021/04/5-free-microservice-courses-for-java.html)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
@@ -1719,6 +1720,7 @@ Java
 * [Spring boot - 설정파일로 AspectJ PointCut 지정하기](https://blog.naver.com/tmondev/222558216450)
 * [Documenting a SpringBoot REST API with OpenAPI 3 | CODER SITE for developers](https://codersite.dev/documenting-rest-api-openapi3/)
 * [MICROSERVICE-SPRINGBOOT - YouTube](https://www.youtube.com/playlist?list=PLtsTccOGFwUIcbQnwl2Ta6IUNFi02py1_)
+* [SpringBoot의 Validation을 사용 해 보자 | woolog - 개발자 울이](https://www.woolog.dev/backend/spring-boot/spring-boot-validation/)
 * [spring-batch-querydsl: 스프링배치와 QuerydslPagingItemReader](https://github.com/jojoldu/spring-batch-querydsl)
 * [testing-spring-boot-applications-masterclass: 🍃 Everything You Need to Know About Testing Spring Boot Applications](https://github.com/rieckpil/testing-spring-boot-applications-masterclass)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
