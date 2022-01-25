@@ -427,6 +427,7 @@ NoSQL
 * [MongoDB 이해하기 · Present](https://present.do/decks/60bf90bc1903093a77d1606d)
 * [Mongoose Document 생성과 CRUD 구현 # NodeJS mongoDB](https://developer88.tistory.com/396)
 * [몽고DB에 대한 4가지 오해 | MongoDB](https://www.mongodb.com/blog/post/ko-kr/4-common-misperceptions-about-mongodb)
+* [몽고디비 클러스터 구성하기 | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/mongodb-cluster/)
 * [Jepsen: MongoDB 4.2.6](https://jepsen.io/analyses/mongodb-4.2.6)
 * [mongita: "Mongita is to MongoDB as SQLite is to SQL"](https://github.com/scottrogowski/mongita)
   * [Mongita - 임베드 가능한 MongoDB | GeekNews](https://news.hada.io/topic?id=4137)
