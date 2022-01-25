@@ -167,6 +167,9 @@ Book
 * (NOT YET) 패션의 탄생 [명품 브랜드도 한때는 1인 기업이었습니다 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/luxury20210915)
 * (NOT YET) [전망하는 인간, 호모 프로스펙투스](https://jhrogue.blogspot.com/2021/12/blog-post_16.html)
 * (NOT YET) [하마터면 깨달을 뻔](https://jhrogue.blogspot.com/2022/01/blog-post.html)
+* (NOT YET) 인구 대역전 [인플레이션과 고금리의 '30년 시대'가 오고 있다 : 네이버 뉴스](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=001&oid=002&aid=0002192823)
+  * [2000년대 이후 - 미국 제조업 일자리는 왜 700만개가 사라졌을까?](https://www.facebook.com/permalink.php?story_fbid=5367750163252459&id=100000525857011)
+  * [제조업 일자리 축소 – 한국, 중국은 왜 감소하고, 미국, 독일은 왜 늘어날까?](https://www.facebook.com/permalink.php?story_fbid=5365491030145039&id=100000525857011)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
