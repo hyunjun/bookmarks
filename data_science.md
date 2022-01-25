@@ -345,6 +345,7 @@ Data Science
 * [모델만 잘 만들면 끝?··· 데이터 과학을 위한 ‘CI/CD’가 필요하다  - CIO Korea](https://www.ciokorea.com/news/216234)
 * [Five Predictions for the Future of the Modern Data Stack | by Jordan Volz | Medium](https://medium.com/@jordan_volz/five-predictions-for-the-future-of-the-modern-data-stack-435b4e911413)
 * [The Future of Data Engineering](https://www.infoq.com/articles/future-data-engineering-riccomini/)
+* [카우레터 B컷 중대재해 데이터를 공개합니다 - alookso](https://alook.so/posts/Vnt45o)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
