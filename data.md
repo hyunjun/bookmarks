@@ -70,6 +70,7 @@ Government
 * [A Chat with Andrew on MLOps: From Model-centric to Data-centric AI - YouTube](https://www.youtube.com/watch?v=06-AZXmwHjo)
   * [Week 35 - 모델 중심에서 데이터 중심의 AI 개발로](https://jiho-ml.com/weekly-nlp-35/)
 * [정부 데이터 API를 이용해서 가져오기 - YouTube](https://www.youtube.com/watch?v=eBV6tAfekyw)
+* [Google AI Blog: Training Machine Learning Models More Efficiently with Dataset Distillation](https://ai.googleblog.com/2021/12/training-machine-learning-models-more.html)
 
 # Library
 * [AI 허브](https://aihub.or.kr/)
