@@ -757,6 +757,7 @@ Docker
 * [Docker For .NET Developers - .NET Guide](https://www.jetbrains.com/dotnet/guide/tutorials/docker-dotnet/)
 * [Dockerfile 이미지 만들기, 쉘 스크립트 사용시 주의사항](https://blog.naver.com/pjt3591oo/222444809844)
 * [Top 20 Dockerfile best practices for security | Sysdig](https://sysdig.com/blog/dockerfile-best-practices/)
+* [도커 컨테이너 파일 포맷 및 Image Pull Time](https://bcho.tistory.com/1388)
 
 # gvisor
 * [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
