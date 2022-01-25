@@ -610,6 +610,7 @@ Javascript
 * [Let’s build a full stack MongoDB, React, Node and Express (MERN) app](https://medium.com/javascript-in-plain-english/full-stack-mongodb-react-node-js-express-js-in-one-simple-app-6cc8ed6de274)
 * [Getting Started with the MERN Stack](https://medium.com/@alphakoder/getting-started-with-the-mern-stack-4e73f34aaa28)
 * [Learn the MERN stack by building an exercise tracker — MERN Tutorial](https://medium.com/@beaucarnes/learn-the-mern-stack-by-building-an-exercise-tracker-mern-tutorial-59c13c1237a1)
+* [Create a MERN Stack App with a Serverless Backend](https://www.freecodecamp.org/news/create-a-mern-stack-app-with-a-serverless-backend/)
 * [How to Easily Build Desktop Apps with HTML, CSS and Javascript](https://medium.freecodecamp.org/how-to-easily-build-desktop-apps-with-html-css-and-javascript-d3e3f03f95a5)
 * [When to use var vs let vs const in JavaScript](https://medium.freecodecamp.org/var-vs-let-vs-const-in-javascript-2954ae48c037)
 * [Var, Let, and Const – What's the Difference?](https://www.freecodecamp.org/news/var-let-and-const-whats-the-difference/)
