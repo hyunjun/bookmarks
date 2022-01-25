@@ -2546,6 +2546,9 @@ Python
 * [How to Enable User Invites in Flask-User - YouTube](https://www.youtube.com/watch?v=GT4vDKLEYg4)
 * [Uploading and Returning Files With a Database in Flask - YouTube](https://www.youtube.com/watch?v=pPSZpCVRbvQ)
 * [Learn Data Structures by Building a Flask API with Python](https://www.freecodecamp.org/news/learn-data-structures-flask-api-python/)
+* [Flask 데코레이터 사용하기 | woolog - 개발자 울이](https://www.woolog.dev/backend/flask/using-flask-with-decorator/)
+* [Flask 스마트하게 구조 만들기 | woolog - 개발자 울이](https://www.woolog.dev/backend/flask/using-flask-with-smart-structure/)
+* [Docker로 작성한 서버, Debug모드 적용하기 | woolog - 개발자 울이](https://www.woolog.dev/backend/docker/debug-server-with-docker/)
 
 ## Flask Library
 * [Athena: Athena is a web application developed in Python-Flask-SQLite for testing your skills as a Hacker, Coder and Warrior](https://github.com/yezz123/Athena)
@@ -4041,6 +4044,7 @@ Python
   * [Poetry를 사용한 파이썬 패키지 관리](https://lhy.kr/python-poetry)
   * [Document docker poetry best practices · Discussion #1879 · python-poetry/poetry](https://github.com/python-poetry/poetry/discussions/1879)
   * [setup.py 멈춰!](https://tech.buzzvil.com/blog/setup.py-%EB%A9%88%EC%B6%B0/)
+  * [poetry 로 파이썬 패키지 관리하기 | woolog - 개발자 울이](https://www.woolog.dev/backend/python/poetry/)
 * [py2app - Create standalone Mac OS X applications with Python](https://py2app.readthedocs.io/)
 * pyenv
   * [pyenv Tutorial](https://amaral.northwestern.edu/resources/guides/pyenv-tutorial)
