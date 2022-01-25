@@ -484,6 +484,7 @@ Programming
 * [Design Pattern Template Method Pattern](https://devkingdom.tistory.com/301)
 * [22 predictions about the Software Development trends in 2022 | by Md Kamaruzzaman | Dec, 2021 | Towards Data Science](https://towardsdatascience.com/22-predictions-about-the-software-development-trends-in-2022-fcc82c263788)
 * [notes: detailed notes on computer science topics, in one page](https://github.com/darshanime/notes)
+* [Airflow vs Luigi vs Argo vs Kubeflow vs MLFlow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
