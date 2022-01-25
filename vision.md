@@ -300,6 +300,8 @@ Vision
 * [180525 mobile visionnet_hanlim_extended](https://www.slideshare.net/JaewookKang1/180525-mobile-visionnethanlimextended)
 * [Creating a Modern OCR Pipeline Using Computer Vision and Deep Learning](https://blogs.dropbox.com/tech/2017/04/creating-a-modern-ocr-pipeline-using-computer-vision-and-deep-learning/)
 * [카카오 OCR 시스템 구성과 모델](https://brunch.co.kr/@kakao-it/318)
+* [kakao API — ocr - Jun - Medium](https://nymets.medium.com/kakao-api-ocr-875c608891e9)
+* [kakao API — ocr](https://jh4hj.tistory.com/entry/kakao-API-%E2%80%94-ocr)
 * [아날로그 기상 데이터를 OCR로 디지털화할 수 있을까?](https://brunch.co.kr/@kakao-it/319)
 * [#42. 사진 속 글자 읽기, OCR (Optical Character Recognition)](http://t-robotics.blogspot.com/2019/02/42-ocr-optical-character-recognition.html)
 * [한국어 OCR 해내기 (With Naver Cloud Platform) 1편: 가뿐하게 OCR API를 만들고 쓰는 법](https://dev-sngwn.github.io/2019-12-17-korean-ocr-step-by-step-1/)
