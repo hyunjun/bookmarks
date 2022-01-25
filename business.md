@@ -459,6 +459,7 @@ Business
 * [백종화 A급 직원의 퇴사에는 이유가 있다](http://www.apparelnews.co.kr/news/news_view/?idx=192806)
 * [멋쟁이사자처럼을 사랑했던 직원의 가장 긴 퇴근](https://brunch.co.kr/@likelion/41) 퇴사
 * [글로벌 칼럼 | '대퇴직 시대' 원인도 해법도 결국 기술이다 - ITWorld Korea](https://www.itworld.co.kr/news/218149)
+* [유능한 인재가 이내 떠나는 조직··· 9가지 공통점 - CIO Korea](https://www.ciokorea.com/news/138296)
 * [좋은 '인사'란 무엇일까...카카오 HR 리더와의 솔직한 대화 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hrkakao20170911) 황성현님
 * [HR연구소 소포모어 징크스, 여러분 회사의 2년차 직원은 안녕하십니까](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=882) 온보딩 이후에는 관계 형성이 핵심
 * [사표 품고 다니는 당신, 직장 변경보다 직무 변경을 고민하라](https://news.v.daum.net/v/20211015030053898)
