@@ -274,6 +274,8 @@ Apache
 * [Flink Concept - Flink의 Kafka Consumer 동작 방식(1) | leeyh0216's devlog](https://leeyh0216.github.io/posts/flink_kafka_consumer_works_1/)
 * [글로벌 기업이 더 주목하는 스트림 프로세싱 프레임워크 - 플링크(Flink) 이해하기 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=31721490&memberNo=36733075&navigationType=push)
 * [5 years of Flink at Mux | Mux blog](https://mux.com/blog/5-years-of-flink-at-mux/)
+* [Docker를 사용한 Apache Flink와 Flink Job 올리기(1) - Docker Setting | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/flink-docker-flink-job-1/)
+* [Docker를 사용한 Apache Flink와 Flink Job 올리기(2) - Flink Job Example | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/flink-docker-flink-job-2/)
 * [flink-ai-extended](https://github.com/alibaba/flink-ai-extended)
 * [flink_feature_radar.svg at feature_radar · StephanEwen/flink-web](https://github.com/StephanEwen/flink-web/blob/feature_radar/img/flink_feature_radar.svg) flink에서 제거/추가될 기능들
 * [Flink Job Listener: Run a task After Flink Job is Completed | CodersTea](https://www.coderstea.com/post/big-data/flink-job-listener-run-a-task-after-flink-job-is-completed/)
@@ -666,6 +668,8 @@ Apache
 * [컨플루언트 김현수 상무 I 이벤트 기반 마이크로서비스 아키텍처에서의 Apache Kafka 역할 on Vimeo](https://vimeo.com/649824818)
 * [Building and Scaling a Control Plane for 1000s of Kafka Clusters - YouTube](https://www.youtube.com/watch?v=akv8jqgNScg)
 * [Consuming over 1 billion Kafka messages per day at Ifood | by felipe volpone | Nov, 2021 | Medium](https://felipevolpone.medium.com/consuming-over-1-billion-kafka-messages-per-day-at-ifood-2465e1ffa795)
+* [Kafka로 메시지와 이벤트 처리하기 - (1) Kafka 세팅하기 | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/kafka-python/1/)
+* [Kafka로 메시지와 이벤트 처리하기 - (2) Python으로 consumer, producer 만들기 | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/kafka-python/2/)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
