@@ -683,6 +683,7 @@ Programming
 * [EP02: Basics of API, Authorization, Authentication and integration - YouTube](https://www.youtube.com/watch?v=JLKIRBkG1N4)
 * [‘비즈니스 의제로 부상한 API 관리’··· 추천 도구 15선 - CIO Korea](https://www.ciokorea.com/news/219179)
 * [**Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점 | Amazon Web Services 한국 블로그**](https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/)
+  * [Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점 :: Channy's Blog](http://channy.creation.net/blog/1514)
 * [Moving beyond Request-Reply: How Smart APIs Are Different - YouTube](https://www.youtube.com/watch?v=P9_5qAPfrpg)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
