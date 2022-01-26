@@ -218,6 +218,7 @@ Math
   * [Computational Linear Algebra](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY)
 * [의사가 들려주는 선형대수 이야기 - 1. Vector Space](https://www.youtube.com/watch?v=Xo-eaKe1AAY)
 * [직교행렬(Orthogonal Matrix)의 의미](https://losskatsu.github.io/linear-algebra/orthogonal/)
+* [Upper Triangular and Lower Triangular Matrix Explained using Python](https://pyshark.com/upper-triangular-and-lower-triangular-matrix-explained-using-python/)
 * [What is the Inverse of a Vector?](https://mattferraro.dev/posts/geometric-algebra)
 
 ## Linear Algebra
