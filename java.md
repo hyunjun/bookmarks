@@ -450,6 +450,7 @@ Java
 * [java threadlocal 클래스에 대해서 간단하게 알아봅시다.](https://codingdog.tistory.com/651)
 * [동시성 프로그래밍에 대하여](https://devkingdom.tistory.com/303)
 * [Difference between CountDownLatch vs CyclicBarrier in Java Multithreading | Java67](https://www.java67.com/2012/08/difference-between-countdownlatch-and-cyclicbarrier-java.html)
+* [Top 12 Java Thread, Concurrency, and Multithreading Interview Questions with Answers | Java67](https://www.java67.com/2012/08/5-thread-interview-questions-answers-in.html)
 
 ## Concurrency Parallel Thread Akka
 * [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
@@ -643,6 +644,7 @@ Java
 * [Java 8 Method reference - Java2Blog](https://java2blog.com/java-8-method-reference/)
 * [You can't afford to run Java 8](https://mikemybytes.com/2021/03/16/you-cant-afford-to-run-java-8/)
 * [Java 8 - Map and Reduce Example Tutorial | Java67](https://www.java67.com/2016/09/map-reduce-example-java8.html)
+* [Java 8 Features - Making Java easy to learn](https://javatechonline.com/java-8-features/)
 
 ## Java8 Library
 * [motif - Scala-like pattern matching for Java 8 http://john.leacox.com/motif](https://github.com/johnlcox/motif)
