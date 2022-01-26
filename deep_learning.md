@@ -158,6 +158,7 @@ Deep Learning
   * [OpenAI's Jukebox has a Colab Notebook for interacting with it!](https://colab.research.google.com/github/openai/jukebox/blob/master/jukebox/Interacting_with_Jukebox.ipynb)
   * [OpenAI Model Generates Python Code - YouTube](https://www.youtube.com/watch?v=fZSFNUT6iY8)
   * [Trending use cases of GPT-3 by openAI | by Anjali | Eoraa & Co. | Aug, 2021 | Medium](https://medium.com/eoraa-co/trending-use-cases-of-gpt-3-by-openai-56318b6a9184)
+  * [Introducing Text and Code Embeddings in the OpenAI API](https://openai.com/blog/introducing-text-and-code-embeddings/)
   * [DALL·E: Creating Images from Text](https://openai.com/blog/dall-e/)
   * [OpenAI Baselines: high-quality implementations of reinforcement learning algorithms](https://github.com/openai/baselines)
     * [OpenAI Baselines: DQN](https://blog.openai.com/openai-baselines-dqn/)
