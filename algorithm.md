@@ -260,6 +260,7 @@ Algorithm
 * [Merge two Sorted Lists | CODER SITE for developers](https://codersite.dev/merge-two-sorted-lists/)
 * [Optimize a basket in online purchases | CODER SITE for developers](https://codersite.dev/optimize-online-purchases/)
 * [Algorithm Archives - CodeCrucks](https://codecrucks.com/category/algorithm/)
+* [How to Find the Largest and Smallest of Three Numbers in Java? Solved | Java67](https://www.java67.com/2019/05/how-to-find-largest-and-smallest-of-three-numbers-in-java.html)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
