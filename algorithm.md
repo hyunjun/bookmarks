@@ -164,6 +164,7 @@ Algorithm
 * [Algorithms to Live By — Brian Christian and Tom Griffiths(https://medium.com/@westofthesun/algorithms-to-live-by-brian-christian-and-tom-griffiths-9c58a7f5c9a9)
 * [**알고리즘 학습에 대한 조언**](https://www.haruair.com/blog/4546)
 * [탐욕 알고리즘](https://ratsgo.github.io/data%20structure&algorithm/2017/11/22/greedy/)
+* [Introduction to Greedy Method - YouTube](https://www.youtube.com/watch?v=w07yH4uSq-Y)
 * [나도 해보는 Fizz Buzz Test](https://libsora.so/posts/fizz-buzz-01/)
 * [How to Skin a Cat: FizzBuzz in Five Languages](https://medium.com/quick-code/how-to-skin-a-cat-fizzbuzz-5-ways-dc4ec811bfcb)
 * [Fizz Buzz in Python. Solving the preeminent code interview… | by Keno Leon | Medium](https://medium.com/@k3no/fizz-buzz-in-python-2edea331d715)
