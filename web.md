@@ -174,6 +174,7 @@ Web
 * [사라지는 쿠키, 디지털 광고를 위한 차세대 ‘추적’ 기술은 무엇? - ITWorld Korea](http://www.itworld.co.kr/news/161700)
 * [The Cookieless World - 디지털 마케팅의 새 시대를 위한 가이드 | GeekNews](https://news.hada.io/topic?id=4761)
 * [Cookie와 WebStorage에 대한 정리 # Web](https://developer88.tistory.com/390)
+* [What are Cookies? | Explained in Detail](https://blog4hacking.blogspot.com/2022/01/what-are-cookies-explained-in-detail.html)
 * [URL 끝에 ‘/’ 는 왜 붙이는 걸까?](https://djkeh.github.io/articles/Why-do-we-put-slash-at-the-end-of-URL-kor/)
 * [번역 What Is the Difference Between a URI, a URL and a URN?](https://www.codeameba.com/2019/08/18/uri-url-urn/)
 * [Custom URI Scheme 만들기](https://nsinc.tistory.com/77)
