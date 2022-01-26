@@ -1535,6 +1535,7 @@ NLP
 * [Sentiment-analysis-using-tensorflow: Here i tried to do a simple sentiment analysis of amazon product reviews using universal sentence encoder](https://github.com/Tasfiq23/Sentiment-analysis-using-tensorflow)
 * [국민·고객·직원의 '마음'을 엿본다··· ‘정서 분석’ 가이드 - CIO Korea](https://www.ciokorea.com/news/207589)
 * [HuggingFace KoElectra로 NSMC 감성분석 Fine-tuning해보기 | by 김희규 | Aug, 2020 | Medium](https://medium.com/@heegyukim/huggingface-koelectra%EB%A1%9C-nsmc-%EA%B0%90%EC%84%B1%EB%B6%84%EB%A5%98%EB%AA%A8%EB%8D%B8%ED%95%99%EC%8A%B5%ED%95%98%EA%B8%B0-1a23a0c704af)
+* [NLTK | Sentiment Analysis with python | NLP - YouTube](https://www.youtube.com/watch?v=TcmnP7wsMFY)
 * [nsmc: Naver sentiment movie corpus](https://github.com/e9t/nsmc)
 * [nsmc-tf-text: tensorflow text로 간편하게 시작하는 NSMC 분류](https://github.com/jeongukjae/nsmc-tf-text)
   * [편리한 NLP를 위한 TensorFlow-Text와 RaggedTensor – Jeong Ukjae](https://jeongukjae.github.io/posts/tensorflow-text-and-ragged-tensor/)
