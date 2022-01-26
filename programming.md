@@ -1303,7 +1303,7 @@ Programming
 * [Back to Microservices with Istio (Part 1) | by Rinor Maloku | Google Cloud - Community | Medium](https://medium.com/google-cloud/back-to-microservices-with-istio-p1-827c872daa53)
 * [Back to Microservices with Istio (Part 2) — Authentication & Authorization | by Rinor Maloku | Google Cloud - Community | Medium](https://medium.com/google-cloud/back-to-microservices-with-istio-part-2-authentication-authorization-b079f77358ac)
 * [Architecture Design 101 (From Monolith to Multi-Cluster with Istio) | by SianLoong | Medium](https://sianloong90.medium.com/architecture-design-101-from-monolith-to-multi-cluster-with-istio-509fadd807c0)
-* [Istio를 통한 MSA(Online Boutique) 데모 on NKS(Naver Kubernetes Service) - YouTube](https://www.youtube.com/watch?v=Op_Os7jVNDg)
+* [Istio를 통한 MSA(Online Boutique) 데모 on NKS(Naver Kubernetes Service) - YouTube](https://www.youtube.com/watch?v=Op_Os7jVNDg)
 * [Why IT Ticketing Systems Don’t Work with Microservices](https://blog.getambassador.io/why-it-ticketing-systems-dont-work-with-microservices-18e2be509bf6)
 * [Monitoring containerized microservices with a centralized logging architecture](https://hackernoon.com/monitoring-containerized-microservices-with-a-centralized-logging-architecture-ba6771c1971a)
 * [From Application Integration to Microservices Architecture: a Pragmatic Approach](https://medium.com/@teivah/from-application-integration-to-microservices-architecture-a-pragmatic-approach-ac210c2c2045)
