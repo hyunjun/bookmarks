@@ -1205,6 +1205,7 @@ Programming
 * [Resilience4j - a fault tolerance library designed for Java8 and functional programming](https://github.com/resilience4j/resilience4j) circuit breaker 역할도 함
   * [Fault Tolerance – Resilience4J – Guruble](http://guruble.com/fault-tolerance-resilience4j/)
   * [Resilience4j를 이용한 서킷 브레이커 기초 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/resilience4j-basic/)
+  * [Microservice | Resilience4J Circuit Breaker Implementation on Spring Boot | JavaTechie - YouTube](https://www.youtube.com/watch?v=b6R4dElDtRc)
 * [MSA에서 Service discovery 패턴](http://bcho.tistory.com/1252)
 * [MSA를 위한 L7 Proxy - EnvoyProxy #1](http://bcho.tistory.com/1253)
 * [Service Mesh](http://bcho.tistory.com/1260)
@@ -1707,6 +1708,7 @@ Programming
 * [Dark - a new way of building serverless backends. Just code your backend, with no infra, framework or deployment nightmares](https://darklang.com/)
 * [Dataiku 다타이쿠 클라우드 서버 설치 방법 가이드](https://stricky.tistory.com/351) 네이버 클라우드 플랫폼
 * [DigitalOcean – The developer cloud](https://www.digitalocean.com/)
+  * [Get a #linux #Ubuntu machine in 10 mins on DigitalOcean Cloud - YouTube](https://www.youtube.com/watch?v=a8a0iPmyMJA)
 * [GCP Google Cloud Platform](gcp.md)
 * Heroku
   * [We are very far from a better Heroku for production apps in a hyper cloud | GitLab](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
@@ -1870,6 +1872,7 @@ Programming
 * [프로그래밍 언어를 웹에서 실행하고 공유도 가능한 사이트](https://blog.gaerae.com/2015/06/website-run-execute-code-online.html)
 * [클라우드 IDE](http://www.bloter.net/archives/249173)
 * [My Favorite Cloud IDEs](https://medium.com/better-programming/my-favorite-cloud-ides-e6afaa94d96b)
+* [Top 3 online code editors you must check out as a web developer - DEV Community](https://dev.to/kumarkalyan/top-3-online-code-editors-you-must-check-out-as-a-web-developer-1obe)
 * [carbon - Create and share beautiful images of your source code. Start typing or drop a file into the text area to get started](https://carbon.now.sh)
 * [che.openshift.io](http://che.openshift.io/) <- [~codenvy.com~](https://codenvy.com)
 * [codeanywhere.com](https://codeanywhere.com/)
