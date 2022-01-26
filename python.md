@@ -4264,6 +4264,7 @@ Python
   * [번역 왜 NumPy는 빠를까요?](https://lazymatlab.tistory.com/113)
 * [numpy 인덱싱 성능은 어떨까요?](https://codingdog.tistory.com/entry/numpy-%EC%9D%B8%EB%8D%B1%EC%8B%B1-%EC%84%B1%EB%8A%A5%EC%9D%80-%EC%96%B4%EB%96%A8%EA%B9%8C%EC%9A%94)
 * [NumPy for Data Science Interviews | by Nathan Rosidi | Jan, 2022 | Towards Data Science](https://towardsdatascience.com/numpy-for-data-science-interviews-1f86e7277ddd)
+* [My Favorite Free NumPy Courses for Beginners - DZone Web Dev](https://dzone.com/articles/my-favorite-free-numpy-courses-for-beginners)
 * [Blaze translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems](http://blaze.pydata.org/)
   * [Introducing Blaze - Expressions](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-Expressions/)
   * [Introducing Blaze - Practice](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-HMDA/)
