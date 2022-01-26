@@ -847,6 +847,7 @@ Git
 * [GitHub Flow - demo](https://www.youtube.com/watch?v=GeFkVB8w7uM)
 
 # Conference
+* [Think Like Git - Eli Sander | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=rBYC3dEOOyI)
 * [UNIVERSE - Two full days on how to build, collaborate, and deploy great software presented by GitHub](http://githubuniverse.com/)
   * [GitHub Universe 2018 참석기 #1](https://blog.outsider.ne.kr/1407)
   * [GitHub Universe 2018 참석기 #2](https://blog.outsider.ne.kr/1408)

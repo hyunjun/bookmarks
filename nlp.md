@@ -804,6 +804,8 @@ NLP
 * [텐서플로 월드2019 행사 핵심요약 2. NLP가 대세입니다!](https://www.youtube.com/watch?v=5gKWS4CfE2Y)
 * [이 선 넘으면 침범이야 BEEP! - 문지형 - PyCon Korea 2020 - YouTube](https://www.youtube.com/watch?v=P0fyKb3U9yo)
 * [Smart Use of Legal NLP | Dr. Benjamin Werthmann, RAILS PyData Südwest / Big Data BBQ - YouTube](https://www.youtube.com/watch?v=0KfbrS_hUkQ)
+* [Highly-Scalable NLP to Answer Questions on COVID-19 WhatsApp Hotline | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=EzQ3i3yOZNY)
+* [Natural Language Processing: Trends, Challenges and Opportunities | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=Y2WZEV-Ds-o)
 
 # Corpus
 * [CORPORA AND OTHER LANGUAGE AND SPEECH DATA UNDER DICE](http://www.inf.ed.ac.uk/resources/corpora/)

@@ -58,6 +58,8 @@ Graph
 * [Graph Databases VS Relational Databases – Learn How a Graph Database Works](https://www.freecodecamp.org/news/graph-database-vs-relational-database/)
 * [Scope Graphs | A Theory of Name Resolution](https://pl.ewi.tudelft.nl/research/projects/scope-graphs/)
   * ["Incremental, zero-config Code Nav using stack graphs" by Douglas Creager - YouTube](https://www.youtube.com/watch?v=l2R1PTGcwrE)
+* [Graph Thinking - Paco Nathan | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=bqku2a7ScXg)
+* [Working with Data in a Connected World - Clair J. Sullivan | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=BiFKNAs4UQs)
 
 # book
 * [Applications of Graph Theory - Shariefuddin Pirzada and Ashay Dharwadker](http://www.dharwadker.org/pirzada/applications/)

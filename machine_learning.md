@@ -593,6 +593,7 @@ Machine Learning
 * [가우시안 혼합 모델(Gaussian mixture model) 기초 개념](https://losskatsu.github.io/machine-learning/gmm/)
 * [Applied Machine Learning: Part 1](https://medium.com/the-research-nest/applied-machine-learning-part-1-40578469a934)
 * [Engineering Systems for Real-Time Predictions @DoorDash](https://www.youtube.com/watch?v=sEZsIUBIhNk)
+* [Predictive Modeling in a Video Advertising Marketplace - Olga Bane | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=ykGzYtJXfqs)
 * [Hands-on Machine Learning Model Interpretation](https://towardsdatascience.com/explainable-artificial-intelligence-part-3-hands-on-machine-learning-model-interpretation-e8ebe5afc608)
 * [Neil Lawrence's Talks](http://inverseprobability.com/talks/)
 * [(My) Machine Learning Workflow](https://medium.com/datadriveninvestor/my-machine-learning-workflow-7576f7dbcef3)
@@ -636,6 +637,7 @@ Machine Learning
 * [Pseudo-Labeling to deal with small datasets — What, Why & How?](https://towardsdatascience.com/pseudo-labeling-to-deal-with-small-datasets-what-why-how-fd6f903213af)
 * [Introducing Label Studio, a swiss army knife of data labeling](https://towardsdatascience.com/introducing-label-studio-a-swiss-army-knife-of-data-labeling-140c1be92881)
 * [Hand Labeling Considered Harmful – O’Reilly](https://www.oreilly.com/radar/arguments-against-hand-labeling/)
+* [What to Do When You Can't Trust Your Labels? - Ramiro Caro | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=-IZ3b6m9GgI)
 * [**machine-learning-experiments: Interactive Machine Learning experiments: models training + models demo**](https://github.com/trekhleb/machine-learning-experiments)
   * [Machine Learning Experiments](https://trekhleb.github.io/machine-learning-experiments/)
 * [Learning Machine Learning | Cloud AI | Google Cloud](https://cloud.google.com/products/ai/ml-comic-1)
@@ -825,6 +827,7 @@ Machine Learning
 # Conference
 * [Lablup Conf 1st - YouTube](https://www.youtube.com/playlist?list=PLYkiFpaI5DIJEfSxXJRhiF_bQF6u9KFLb)
 * [**O'reilly Strata Data Conference New York 2019 후기**](https://speakerdeck.com/socar/oreilly-strata-data-conference-new-york-2019-hugi)
+* [Deploying ML in an Old-fashioned Heavy Industry - Robert Meyer | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=lt-ABfIWv1M)
 
 # Course MOOC Lecture
 * [머신러닝 괜찮은 강의들 리스트 1](https://blog.pabii.co/machine-learning-course-lists-1/)
@@ -1223,6 +1226,8 @@ Machine Learning
 * [MLOps: Big Picture in GCP. “Why do we need different CI/CD for… | by Park Chansung | Google Developers Experts | Medium](https://medium.com/google-developer-experts/mlops-big-picture-in-gcp-a637566d6ae8)
 * [ML Ops with Dagster: 5 Key Features for Developing a Continuous Training Pipeline - Thinking Machines Data Science](https://stories.thinkingmachin.es/ml-ops-with-dagster-5-key-features-for-developing-a-continuous-training-pipeline/)
 * [MODUCON 2021 글로벌 넘버원이 되기위한 MLOps Learning Path-박찬성Development Enviroment - 개발환경 - YouTube](https://www.youtube.com/watch?v=0O79Hrj3Xq4)
+* [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
+  * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
 * [MadeWithML: Learn how to responsibly deliver value with ML](https://github.com/GokuMohandas/MadeWithML)
 * **[MLOps-Basics](https://github.com/graviraja/MLOps-Basics)
@@ -1311,6 +1316,8 @@ Machine Learning
 * [**best-of-ml-python: 🏆 A ranked list of awesome machine learning Python libraries. Updated weekly**](https://github.com/ml-tooling/best-of-ml-python)
 * [8 Basic Easy to Follow Steps to Learn Machine Learning with Python](https://www.mltut.com/basic-steps-to-learn-machine-learning-with-python)
 * [파이썬, ML - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=30770053)
+* [Start Asking Your Data “Why?” - A Gentle Introduction To Causal Inference | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=w4DFQmh5OGw)
+* [Sliding into Causal Inference, with Python! - Alon Nir | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=l4gY0JM3J5I)
 
 ## Python Library
 * [Top 20 Python Machine Learning Open Source Projects, updated](http://www.kdnuggets.com/2016/11/top-20-python-machine-learning-open-source-updated.html)
@@ -1527,6 +1534,7 @@ Machine Learning
 # TDD, Test
 * [How to unit test machine learning code](https://medium.com/@keeper6928/how-to-unit-test-machine-learning-code-57cf6fd81765)
 * [Effective testing for machine learning systems](https://www.jeremyjordan.me/testing-ml/)
+* [Effective Testing for Machine Learning Projects - Eduardo Blancas | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=Oc5x0qrB0FA)
 * [drifter_ml - ML Testing](https://github.com/EricSchles/drifter_ml)
 
 # Theano

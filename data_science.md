@@ -71,6 +71,7 @@ Data Science
 * [A Beginner’s Guide to the Data Science Pipeline](https://www.kdnuggets.com/2018/05/beginners-guide-data-science-pipeline.html)
 * [Big Data: Its Benefits, Challenges, and Future | by Benedict Neo | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/big-data-its-benefits-challenges-and-future-6fddd69ab927)
 * [Big Data Pipeline Recipe. Introduction | by Javier Ramos | Aug, 2020 | ITNEXT](https://itnext.io/big-data-pipeline-recipe-c416c1782908)
+* [Designing Functional Data Pipelines for Reproducibility and Maintainability | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=FD6RJrqTZ2Q)
 * [How to jump into Data Science](https://www.youtube.com/watch?v=FGuGg9F2VUs)
 * [Functional Data Engineering — a modern paradigm for batch data processing](https://medium.com/@maximebeauchemin/functional-data-engineering-a-modern-paradigm-for-batch-data-processing-2327ec32c42a)
 * [Data Engineers are in Greater Demand than Data Scientists](https://www.infoworks.io/2018/04/23/data-engineers-greater-demand-data-scientists/)
@@ -80,6 +81,7 @@ Data Science
 * [Data engineers vs. data scientists](https://www.oreilly.com/ideas/data-engineers-vs-data-scientists)
 * [쏘카 데이터 그룹 - 데이터 엔지니어링 팀이 하는 일 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2021/03/24/what-socar-data-engineering-team-does.html)
 * [실무 AI 프로젝트 - 분석보다 엔지니어링이 중요한 이유](https://data-engineer-song.tistory.com/1)
+* [Data Engineering Principles - Build frameworks not pipelines - Gatis Seja - YouTube](https://www.youtube.com/watch?v=pzfgbSfzhXg)
 * [온프레미스 데이터 플랫폼 팀의 데이터 엔지니어가 하는 일(feat. 11번가 데이터 플랫폼 2020년 회고) :: Kaden Sungbin Cho](https://kadensungbincho.tistory.com/2)
 * [쏘카 신입 데이터 엔지니어 디니의 4개월 회고 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2021/12/28/data-engineering-team-onboarding.html)
 * [There’s No Such Thing as a Data Scientist](https://medium.com/indeed-data-science/theres-no-such-thing-as-a-data-scientist-8dae923c14e3)
@@ -128,6 +130,7 @@ Data Science
 * [Algorithm reduces size of data sets while preserving their mathematical properties](http://phys.org/news/2015-05-algorithm-size-mathematical-properties.html)
 * [A BEGINNER'S GUIDE TO DATA ANALYSIS WITH UNIX UTILITIES](http://j-vdh.blogspot.kr/2015/05/a-beginners-guide-to-unix-utilities-for.html)
 * [Enterprise Data Analysis and Visualization: An Interview Study](http://idl.cs.washington.edu/files/2012-EnterpriseAnalysisInterviews-VAST.pdf)
+* [Why *Interactive* Data Visualization Matters for Data Science in Python | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=tlcMlOVbEpw)
 * [Prologue to Data Science](http://prologue.datascience.hk/)
 * [Data Science in Clojure at Yieldbot](https://www.yieldbot.com/blog/data-science-in-clojure-at-yieldbot/)
 * [Mining the Web to Predict Future Events](http://research.microsoft.com/en-us/um/people/horvitz/future_news_wsdm.pdf)
@@ -346,6 +349,8 @@ Data Science
 * [Five Predictions for the Future of the Modern Data Stack | by Jordan Volz | Medium](https://medium.com/@jordan_volz/five-predictions-for-the-future-of-the-modern-data-stack-435b4e911413)
 * [The Future of Data Engineering](https://www.infoq.com/articles/future-data-engineering-riccomini/)
 * [카우레터 B컷 중대재해 데이터를 공개합니다 - alookso](https://alook.so/posts/Vnt45o)
+* [Foundational Infrastructure to Create a Successful Data Science Team | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=vM26QPTOPVk)
+* [Bridging Data and Business - Sylvia Lee | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=B0MgNqYn15I)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -386,6 +391,7 @@ Data Science
 # Conference
 * [데이터야놀자2021 데이터와 함께하는 똑똑한 중고 거래 - 삼데오백님 - YouTube](https://www.youtube.com/watch?v=qUn_hgLxudU)
 * [데이터야놀자2021 공공데이터를 활용한 서울시 공/사교육 분석 - 고동우(데이터드림)님 - YouTube](https://www.youtube.com/watch?v=QDV19lPrMGU)
+* [Agile Data Science - John Sandall | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=7HR-vrYN1oU)
 
 # Course MOOC Lecture
 * [**수강료 500만원 데이터사이언스 스쿨 커리큘럼을 대체하는 온라인 무료강의 15개 커리큘럼**](http://earlybird.ai/data_science_free_curriculum/)
@@ -608,11 +614,12 @@ Data Science
   * [PyData Triangle Meetup | Eleanor Hanna & Mary Clair Thompson - YouTube](https://www.youtube.com/watch?v=IwWr14ntg5w)
 * [Pytubes - a library that optimizes loading datasets into memory](https://github.com/stestagg/pytubes)
   * [Analysing 1.4 billion rows with python Using pytubes, numpy and matplotlib](https://hackernoon.com/analysing-1-4-billion-rows-with-python-6cec86ca9d73)
-* RAPIDS
+* RAPIDS [Open GPU Data Science | RAPIDS](https://rapids.ai/)
   * [Accelerating Data Science with RAPIDS - Keith Kraus](https://www.youtube.com/watch?v=GVUA3vSPzio)
   * [RAPIDS cuGraph](https://medium.com/rapids-ai/rapids-cugraph-1ab2d9a39ec6)
   * [Fundamentals Of Accelerated Data Science With RAPIDS](https://ign0relee.github.io/Nvidia-Accelerated-Data-Science-With-Rapids)
   * [Using GPUs for Data Science and Data Analytics](https://www.exxactcorp.com/blog/Deep-Learning/using-gpus-for-data-science)
+  * [High Performance Python - Gus Cavanaugh | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=ewaY9CcjLt0)
 * [RoboSat - an end-to-end pipeline written in Python 3 for feature extraction from aerial and satellite imagery](https://github.com/mapbox/robosat)
   * [PyParis 2018 - Robosat: an Open Source and efficient Semantic Segmentation...](https://www.youtube.com/watch?v=y-leS9uBl7Y)
 * [siuba: Python library for using dplyr like syntax with pandas and SQL](https://github.com/machow/siuba)
@@ -744,6 +751,7 @@ Data Science
 * [Building and Testing Recommender Systems With Surprise, Step-By-Step - Learn how to build your own recommendation engine with the help of Python and Surprise Library, Collaborative Filtering](https://towardsdatascience.com/building-and-testing-recommender-systems-with-surprise-step-by-step-d4ba702ef80b)
 * [PyCon KR 2019 추천시스템 이제는 돈이 되어야 한다](https://www.slideshare.net/ssuser2fe594/ss-164511610)
 * [Analyzing Hacker News book suggestions in Python](https://towardsdatascience.com/hacker-news-book-suggestions-64b88099947)
+* [Keeping Sensitive Data Safe Using Recommendation Systems | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=7ZP5NIbY8Eg)
 * [implicit: Fast Python Collaborative Filtering for Implicit Feedback Datasets](https://github.com/benfred/implicit)
 * [recommenders: Best Practices on Recommendation Systems](https://github.com/microsoft/recommenders)
 * [Surprise - A Python scikit for recommender systems](http://surpriselib.com/)

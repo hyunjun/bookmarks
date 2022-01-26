@@ -3285,6 +3285,7 @@ Programming
 * [Quantum Computing in Action (Teaser) • Johan Vos & Preben Thorø • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=dYVugFQNZJc)
 * [Qiskit](https://qiskit.org/)
   * [Introduction to Quantum Computing with Python and Qiskit - YouTube](https://www.youtube.com/watch?v=dIcS0Yozq_U)
+  * [Introduction to Quantum Computing with Python and Qiskit | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=ldX75svJx8M)
 
 # Reactive
 * [리액티브 개발 패러다임에 담긴 메시지](http://m.zdnet.co.kr/column_view.asp?artice_id=20161010104628#imadnews)

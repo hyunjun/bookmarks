@@ -588,6 +588,8 @@ TensorFlow
 # Conference Meetup
 * [2018년 샌프란시스코에서 열린 O’Reilly AI 컨퍼런스의 TensorFlow 세션 녹화 자료](https://developers-kr.googleblog.com/2019/01/tensorflow-session-recordings-from-oreilly-ai-conference-san-francisco.html)
 * [High Performance Machine Learning with Kubernetes, Istio, and GPUs - San Francisco and Seattle Kubernetes Meetups](https://www.slideshare.net/cfregly/high-performance-machine-learning-with-kubernetes-istio-and-gpus-san-francisco-kubernetes-meetup)
+* [Deploying a Mobile App on Tensorflow - Reshama Shaikh, Nidhin Pattaniyil | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=tqk2eCsd_Fs)
+* [Introduction to Unsupervised and Semi-Supervised Learning in TensorFlow - PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=yjRm174OVq0)
 * [텐서플로 월드2019 행사 핵심요약 1](https://www.youtube.com/watch?v=ArrupLE9A5w)
 * [텐서플로우 설치도 했고 튜토리얼도 봤고 기초 예제도 짜봤다면](http://www.slideshare.net/carpedm20/ss-63116251)
   * [TF-KR 모임](https://www.youtube.com/watch?v=076pp-42unI)

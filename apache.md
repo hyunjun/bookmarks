@@ -670,6 +670,7 @@ Apache
 * [Consuming over 1 billion Kafka messages per day at Ifood | by felipe volpone | Nov, 2021 | Medium](https://felipevolpone.medium.com/consuming-over-1-billion-kafka-messages-per-day-at-ifood-2465e1ffa795)
 * [Kafka로 메시지와 이벤트 처리하기 - (1) Kafka 세팅하기 | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/kafka-python/1/)
 * [Kafka로 메시지와 이벤트 처리하기 - (2) Python으로 consumer, producer 만들기 | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/kafka-python/2/)
+* [Working with Data in a Connected World - Clair J. Sullivan | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=BiFKNAs4UQs)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
@@ -1014,6 +1015,7 @@ Apache
   * 이 글에서는 그 이유를 설명하고 정렬할 column을 파악하는 방법에 대한 아이디어 제공
 * [**Parquet Internal Part 1. Google Dremel(1)**](https://medium.com/@leeyh0216/parquet-internal-part-1-google-dremel-1-3b95e1136a05)
 * [🌲Parquet(파케이)란? 컬럼기반 포맷 장점/구조/파일생성 및 열기](https://pearlluck.tistory.com/561)
+* [Working with Data in a Connected World - Clair J. Sullivan | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=BiFKNAs4UQs)
 
 # Phoenix
 * [Phoenix](http://phoenix.apache.org/) High performance relational database layer over HBase for low latency applications

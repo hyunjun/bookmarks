@@ -163,4 +163,7 @@ Time Series
 * [Time Series Analysis in Python – A Comprehensive Guide with Examples](https://www.machinelearningplus.com/time-series/time-series-analysis-python/)
 * [darts: A python library for easy manipulation and forecasting of time series](https://github.com/unit8co/darts)
   * [Darts For Time Series Forecasting (Python Library for Forecasting) - YouTube](https://www.youtube.com/watch?v=mWZfHxQLp_4)
+  * [Darts for Time Series Forecasting - Julien Herzen, Francesco Lässig | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=Kf6b5falv0M)
 * [Kats: Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.](https://github.com/facebookresearch/Kats)
+* [sktime: A unified framework for machine learning with time series](https://github.com/alan-turing-institute/sktime)
+  * [sktime - A Unified Toolbox for ML with Time Series - Markus Löning | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=ODspi8-uWgo)

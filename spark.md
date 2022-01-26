@@ -934,6 +934,7 @@
 * [웹로그 히스토리 데이터를 통한 데이터 분석 꼼수 : 네이버 블로그](https://blog.naver.com/airguy76/222140845122)
 * [Pandas API on Apache Spark - Part 1: Introduction](http://blog.madhukaraphatak.com/spark-pandas-part-1/)
 * [Pandas API on Apache Spark - Part 2: Hello World](http://blog.madhukaraphatak.com/spark-pandas-part-2/)
+* [Simplifying Testing of Spark Applications - Megan Yow | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=_ieqg_soB3U)
 * [Koalas: pandas API on Apache Spark](https://github.com/databricks/koalas)
   * [Koalas: Easy Transition from pandas to Apache Spark](https://databricks.com/blog/2019/04/24/koalas-easy-transition-from-pandas-to-apache-spark.html)
   * [10 Minutes from pandas to Koalas on Apache Spark With demonstrable Python how-to Koalas code snippets and Koalas best practices](https://databricks.com/blog/2020/03/31/10-minutes-from-pandas-to-koalas-on-apache-spark.html)

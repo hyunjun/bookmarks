@@ -60,4 +60,5 @@ Anomaly Detection
 * [Anomaly Detection with PyOD!. Have you used this wonderful Python… | by Dr. Dataman | Towards Data Science](https://towardsdatascience.com/anomaly-detection-with-pyod-b523fc47db9)
 * [Anomaly Detection in Time Series Data using Keras](https://morioh.com/p/41c762032173)
 * [A Complete Anomaly Detection Algorithm From Scratch in Python: Step by Step Guide | by Rashida Nasrin Sucky | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/a-complete-anomaly-detection-algorithm-from-scratch-in-python-step-by-step-guide-e1daf870336e)
+* [Unsupervised Anomaly Detection with Isolation Forest - Elena Sharova - YouTube](https://www.youtube.com/watch?v=5p8B2Ikcw-k)
 * [pyculiarity](https://pypi.python.org/pypi/pyculiarity/0.0.2)

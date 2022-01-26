@@ -1728,6 +1728,7 @@ Deep Learning
 * [A Gentle Introduction to Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
 * [Representative graph neural network Review!! - YouTube](https://www.youtube.com/watch?v=z-UUq8x1oRw)
 * [Intro to graph neural networks (ML Tech Talks) - YouTube](https://www.youtube.com/watch?v=8owQBFAHw7E)
+* [Classifying Documents on a Graph using GNNs - Avi Aminov | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=61qoxP7t0EI)
 * [Convolutional neural network in practice](http://www.slideshare.net/ssuser77ee21/convolutional-neural-network-in-practice)
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
 * [딥러닝 - 초보자를 위한 컨볼루셔널 네트워크를 이용한 이미지 인식의 이해](http://bcho.tistory.com/1149)

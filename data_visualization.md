@@ -306,6 +306,7 @@ Data Visualization
 * [Albert Tian Chen - COVIDCG:SARS-CoV-2 Mutation Tracking + Genomic Data Visualization | PyData Boston - YouTube](https://www.youtube.com/watch?v=G744eRCdAYo)
 * [Global AI Boot Camp Busan : 이왕이면 다홍 데이터 (Python Visualization)](https://www.slideshare.net/SubinAn1/ss-205782769)
 * [12 Data Plot Types for Visualisation from Concept to Code - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/12/12-data-plot-types-for-visualization/)
+* [Visualizations for Privacy Preservation - Gatha Varma | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=3Tp7Jf-_H50)
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
 * [Awesome Panel](https://awesome-panel.org/)
@@ -347,6 +348,7 @@ Data Visualization
 * [lets-plot/README_PYTHON.md at master · JetBrains/lets-plot](https://github.com/JetBrains/lets-plot/blob/master/README_PYTHON.md)
 * [lux: Python API for Intelligent Visual Data Discovery](https://github.com/lux-org/lux)
   * [Lux: A Python API for Intelligent Visual Discovery — Lux 0.1.2 documentation](https://lux-api.readthedocs.io/)
+  * [Lux: Automatic Visualizations for Exploratory Data Science - Doris Jung-Lin Lee | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=JQky6f5yDnE)
 * Mapbox
   * [Geographical Data Visualization with Mapbox - Visualizing Geodata with Mapbox’s API and Tools](https://hackingandslacking.com/geographical-data-visualization-with-mapbox-6ef564ebc51e)
 * [p5 - a native Python port of the Processing API by Abhik Pal, Manindra Mohrarna, and contributors](https://p5.readthedocs.io/)

@@ -199,6 +199,7 @@ PyTorch
 * [Pytorch로 ResNet 구현, torch summary 살펴보기](https://velog.io/@gibonki77/ResNetwithPyTorch)
 * [Deep Learning: Graph Neural Networks (GNN) for Information Extraction with PyTorch - YouTube](https://www.youtube.com/watch?v=lQLsswJHa_c)
 * [Two-Dimensional Tensors in Pytorch](https://machinelearningmastery.com/two-dimensional-tensors-in-pytorch/)
+* [Profiling and Tuning PyTorch Models - Shagun Sodhani | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=-SNdvNdnEl8)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
@@ -395,6 +396,8 @@ PyTorch
   * [TorchIO - a Python library for efficient loading, preprocessing, augmentation and patch-based sampling of 3D medical images in deep learning, following the design of PyTorch](https://torchio.readthedocs.io/)
 * [torchlars - A LARS implementation in PyTorch](https://github.com/kakaobrain/torchlars)
   * [torchlars가 탄생하기까지](https://www.kakaobrain.com/blog/113)
+* [1. TorchServe — PyTorch/Serve master documentation](https://pytorch.org/serve/)
+  * [Serving BERT Models in Production with TorchServe | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=sDGxzkOvxqY)
 * [TorchShard: Slicing a PyTorch Tensor Into Parallel Shards](https://github.com/KaiyuYue/torchshard)
   * [Introduction to TorchShard. A Lightweight Library for Scaling-up… | by Kaiyu Yue | PyTorch | Jul, 2021 | Medium](https://medium.com/pytorch/torchshard-a31fcbfdc354)
 * [torchtext package consists of data processing utilities and popular datasets for natural language](http://torchtext.readthedocs.io/)
