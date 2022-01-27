@@ -300,6 +300,7 @@ Git
   * 간단한 Actions 설명부터 시작, Slack에 알림을 보내기 위해 별도로 만든 Actions 파일을 연결해서 사용
   * 글로벌 배포를 위해 브랜치 이름에 관례를 만들어서 어느 리전과 환경에 배포할지를 판단 가능
   * 추가로 정기적으로 실행되도록 설정한 자동배포 워크플로우도 설명
+* [How we ship GitHub Mobile every week | The GitHub Blog](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/)
 
 # Badge Readme Profile
 * [README.md 10초만에 깔끔하게 만드는 법](https://gomcine.tistory.com/entry/READMEmd-10%EC%B4%88%EB%A7%8C%EC%97%90-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95?category=624615)
