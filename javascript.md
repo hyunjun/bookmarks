@@ -461,6 +461,7 @@ Javascript
 * [JS: The Observers](https://www.huskyhoochu.com/js-observers/)
 * [IntersectionObserver를 이용한 이미지 동적 로딩 기능 개선](http://tech.lezhin.com/2017/07/13/intersectionobserver-overview)
 * [카카오웹툰은 하드웨어 가속과 IntersectionObserver를 어떻게 사용했을까? | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2021/211202-gpu-intersection-observer/)
+* [사용자 경험과 성능 개선 방법 in 카카오웹툰 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220120-ux-and-perf-in-kakaowebtoon/)
 * [Proxy to Back-end(프론트엔드단 CORS 통신설정)](http://m.mkexdev.net/396)
 * [javascript ajax 크로스도메인 요청 - CORS](https://brunch.co.kr/@adrenalinee31/1)
 * [CORS, Preflight, 인증 처리 관련 삽질](https://www.popit.kr/cors-preflight-%EC%9D%B8%EC%A6%9D-%EC%B2%98%EB%A6%AC-%EA%B4%80%EB%A0%A8-%EC%82%BD%EC%A7%88/)
@@ -2043,9 +2044,10 @@ Javascript
   * [Yarn을 설치하여 Angular CLI 기본패키지로 설정하기와 책 예제 소스 실행하기](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS3955756301)
   * [Yarn 톺아보기](https://www.holaxprogramming.com/2017/12/21/node-yarn-tutorials/)
   * [Introducing Yarn 2](https://dev.to/arcanis/introducing-yarn-2-4eh1)
+  * [npm vs Yarn — Choosing the right package manager | by Harsha Vardhan | JavaScript In Plain English](https://medium.com/javascript-in-plain-english/npm-vs-yarn-choosing-the-right-package-manager-a5f04256a93f)
   * [yarn global 설정하기 - 완두블로그](https://wani.kr/posts/2017/05/24/yarn-global-setting/)
   * [yarn-deduplicate: Deduplication tool for yarn.lock files](https://github.com/atlassian/yarn-deduplicate)
-  * [npm vs Yarn — Choosing the right package manager | by Harsha Vardhan | JavaScript In Plain English](https://medium.com/javascript-in-plain-english/npm-vs-yarn-choosing-the-right-package-manager-a5f04256a93f)
+  * [Yarn Workspace에서 package.json 틸드(~), 캐럿(^) 버전 명시 주의할 점 :: 이뇽의세상](https://helloinyong.tistory.com/328)
 * Yarn Berry
   * [Yarn Berry 플러그인과 “since”](https://toss.tech/article/yarn-berry-plugins-and-since)
     * Yarn Berry에 추가된 플러그인 기능 사용법 설명, 토스 프론트엔드에서 "since"라는 플러그인을 만드는 과정 설명
