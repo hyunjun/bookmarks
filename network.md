@@ -239,6 +239,7 @@ Network
 * [Is TLS Fast Yet?](https://istlsfastyet.com/)
 * [LINE의 자체 개발 SSL 인증서 관리 시스템, VOYAGER - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/manage-ssl-certificates-with-secure-reliable-system/)
 * [Let's Encrypt](https://letsencrypt.org/)
+  * [Traefik 인증서 수동으로 갱신하기 · 감자도스](https://blog.potados.com/dev/traefik-force-renew-certificate/)
 * [Qualys SSL Labs](https://www.ssllabs.com/)
 
 # IP address
