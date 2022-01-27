@@ -87,6 +87,7 @@ Vim
   * [set gvim font in .vimrc file](http://stackoverflow.com/questions/3316244/set-gvim-font-in-vimrc-file)
   * [5 lines I put in a blank .vimrc | Sword and Signals](https://swordandsignals.com/2020/12/13/5-lines-in-vimrc.html)
   * gvim portable; `GVimPortable\App\DefaultData\settings\vimrc`
+* xmllint [Vim에서 XML 포맷팅하기](https://rein.kr/blog/archives/5551)
 * [빔 편집기 한글화](http://vim-ko.github.io/)
 * [Vim cheat sheet](http://csnipp.com/s/69/-Vim-Cheat-Sheet)
 * [100 Vim commands every programmer should know](http://www.catswhocode.com/blog/100-vim-commands-every-programmer-should-know)
