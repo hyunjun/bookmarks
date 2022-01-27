@@ -1524,6 +1524,7 @@ Programming Books
 * [개발자로 살아남기](https://jh4hj.tistory.com/entry/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0)
   * ★★★★★ 2021.12.30
   * [개발자로 살아남기. 정리를 잘해서 prolog만 읽어도 이 책의 주제를 바로 이해할 수… | by Jun | Jan, 2022 | Medium](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0-2db79678ec6e)
+  * [10년 경력을 설계하는 방법 – 1/3/3/3 원칙 :: Channy's Blog](http://channy.creation.net/blog/1517)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
