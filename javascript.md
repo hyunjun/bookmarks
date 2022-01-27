@@ -1968,6 +1968,7 @@ Javascript
 ## Library Build
 * [Publish, ship, and install modern JavaScript for faster applications](https://web.dev/publish-modern-javascript/)
 * [자바스크립트 패키지 매니저의 여정 | Clean Coder](https://www.cleancoder.dev/package-manager-history/) npm yarn pnpm yarn 2(berry)
+* [차세대 빌드 도구 비교 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220127) esbuild, snowpack, vite, wmr
 * [Brunch - ultra-fast HTML5 build tool](https://brunch.io/)
 * [Lerna · A tool for managing JavaScript projects with multiple packages](https://lerna.js.org/)
   * [FE개발자의 성장 스토리 03 : 카카오 어드민 UI 컴포넌트를 모노레포로 개발하여 얻은 것들 – tech.kakao.com](https://tech.kakao.com/2020/12/03/frontend-growth-03/)
