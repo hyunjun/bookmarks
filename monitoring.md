@@ -144,6 +144,7 @@ Monitoring
 * [“모니터링의 새로운 경계” 관찰 가능성의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/183899)
 * [Beyond Monitoring: The Rise of Observability | by Aparna Dhinakaran | Medium](https://aparnadhinak.medium.com/beyond-monitoring-the-rise-of-observability-c53bdc1d2e0b)
 * [OpenTelemetry](https://opentelemetry.io/)
+  * [The Future of Observability with OpenTelemetry](https://go.lightstep.com/rs/260-KGM-472/images/oreilly-opentelemetry-lightstep.pdf)
 
 # Prometheus
 * [Monitoring Apache Spark with Prometheus on Kubernetes](https://banzaicloud.com/blog/spark-monitoring/)
