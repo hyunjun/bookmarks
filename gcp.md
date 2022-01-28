@@ -130,6 +130,7 @@ Google Cloud Platform GCP
 * [클라우드 엔지니어 취업 고군 분투기 - YouTube](https://www.youtube.com/watch?v=rYL2CDmGof8)
   * [클라우드 엔지니어 취업 고군 분투기](https://www.slideshare.net/InfraEngineer/ss-250837818)
 * [구글 클라우드 앱시트 리뷰 | 머신러닝 모델까지 적용 가능한 노코드 앱 빌더 - ITWorld Korea](https://www.itworld.co.kr/news/217289)
+* [A Quick Tour of 7 Google Cloud Service for Data Engineering and Analytics | by Jerry An | Geek Culture | Medium](https://medium.com/geekculture/a-quick-tour-of-7-google-cloud-service-for-data-engineering-and-analytics-7860933df10e)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
