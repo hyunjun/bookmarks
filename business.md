@@ -1111,3 +1111,4 @@ Business
 * [Pretendard 커스텀 폰트 도입기 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/01/pretendard-%ec%bb%a4%ec%8a%a4%ed%85%80-%ed%8f%b0%ed%8a%b8-%eb%8f%84%ec%9e%85%ea%b8%b0/)
 * [스큐어모피즘부터 뉴모피즘까지, 스마트폰 UI의 역사](https://brunch.co.kr/@fbrudtjr1/41)
 * [쿠팡이츠는 어떻게 팔리는 경험을 만들어냈을까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/coupangeats20220118)
+* [버튼에는 손모양 포인터가 적합한가 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/885)
