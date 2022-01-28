@@ -914,6 +914,7 @@ Docker
 * [Convergence to Kubernetes](https://medium.com/@pingles/convergence-to-kubernetes-137ffa7ea2bc)
 * [KUBERNETES IS NOW AVAILABLE IN DOCKER DESKTOP STABLE CHANNEL](https://blog.docker.com/2018/07/kubernetes-is-now-available-in-docker-desktop-stable-channel/)
 * [도커(Docker), 쿠버네티스(Kubernetes) 통합 도커 데스크톱을 스테이블 채널에 릴리즈](https://www.44bits.io/ko/post/news--release-docker-desktop-with-kubernetes-to-stable-channel)
+* [How Docker Desktop Networking Works Under the Hood - Docker Blog](https://www.docker.com/blog/how-docker-desktop-networking-works-under-the-hood/)
 * [쿠버네티스 차근차근 다지기](https://www.facebook.com/ChoEunOk/videos/2131989013479471/)
 * [2018 Cloud Hackathon Tech Session - Kubernetes](https://www.youtube.com/watch?v=rdyUAduXi48)
 * [쿠버네티스 개념 설명과 에코 시스템 (Spinnaker, Istio, KNative 설명)](http://bcho.tistory.com/1281)
