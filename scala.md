@@ -334,6 +334,8 @@ Scala
 * [Sustainable Scala | The Scala Programming Language](https://www.scala-lang.org/blog/2021/12/14/sustainable-scala.html)
 * [Scala Chat: Hello Discord (So Long, Gitter) | The Scala Programming Language](https://www.scala-lang.org/blog/2021/12/21/discord.html)
 * [Precise Code Intelligence for Java, Scala, and Kotlin](https://about.sourcegraph.com/blog/java-scala-kotlin-code-intelligence/)
+* [Sick Fira Code Progress Bars for Absolute Beginners! - Part 1 - YouTube](https://www.youtube.com/watch?v=z7ZDI0H0n2I)
+  * [DevInsideYou/progress](https://github.com/DevInsideYou/progress)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -1046,6 +1048,7 @@ Scala
 * sort
   * [The complexity of Java comparators, and the simplicity of Scala sort by](https://levelup.gitconnected.com/the-complexity-of-java-comparators-and-the-simplicity-of-scala-sort-by-f34f44d4b759)
   * [Sorting in Scala — a cat shop example](https://medium.com/swlh/sorting-in-scala-a-cat-shop-example-1888b843056b)
+  * [Day to day stuff: Having fun with Ordering in Scala](https://day-to-day-stuff.blogspot.com/2022/01/having-fun-with-ordering-in-scala.html)
 * Stream
   * [Homegrown #Scala Collections - Part 36 - What is a #Stream?](https://www.youtube.com/watch?v=evEqqt62u8Q)
   * [Homegrown #Scala Collections - Part 37 - Are #Streams a full-blown paradigm?](https://www.youtube.com/watch?v=wgYVDigEDAM)
