@@ -2458,7 +2458,7 @@ Programming
 * [11 Best Programming Fonts](https://itnext.io/11-best-programming-fonts-724283a9ed57)
 * [What are the best programming fonts?](https://www.slant.co/topics/67/~best-programming-fonts)
 * [최고의 프로그래밍 폰트는?](https://futurecreator.github.io/2018/11/12/my-best-programming-font-top-3/)
-* [프로그래밍 글꼴 비교](https://start.goodtime.co.kr/2019/06/%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d-%ea%b8%80%ea%bc%b4-%eb%b9%84%ea%b5%90/)
+* [~프로그래밍 글꼴 비교~](https://start.goodtime.co.kr/2019/06/%ed%94%84%eb%a1%9c%ea%b7%b8%eb%9e%98%eb%b0%8d-%ea%b8%80%ea%bc%b4-%eb%b9%84%ea%b5%90/)
 * [Lesser Known Coding Fonts](https://vfoley.xyz/lesser-known-coding-fonts/)
 * Ligatures 지원 폰트
   * [Shellscript to install fonts for macOS and Linux](https://gist.github.com/Kevin-Lee/328e9993d6b3ad250636023fb2c7827f)
