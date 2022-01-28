@@ -147,6 +147,7 @@ Azure
 * [프리지아 랩 :: Recovery Services 자격 증명 모음 제거](https://www.dokyun.pe.kr/271)
 * [CI/CD Docker Application to the Azure Web Apps via Azure Container Registries | Azure DevOps - YouTube](https://www.youtube.com/watch?v=tQH1EsVLmoU)
 * [How to set up an Azure Data Warehouse | by Christianlauer | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/how-to-set-up-an-azure-data-warehouse-8aef4391a5bf)
+* [프리지아 랩 :: 앱 등록(서비스 주체) 삭제 이슈가 있는 Azure AD 테넌트 삭제 방법](https://www.dokyun.pe.kr/272)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
@@ -186,3 +187,4 @@ Azure
 * [애저듣보잡 자동화된 ML, 나도 해보자! - 한석진 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WksTnqh1hl0iygROuE7N7Qwf)
 * [What’s like doing ML without a single line of code](https://drive.google.com/file/d/13PeCaO7iu5Aeun1Irk_lGtDH920ask2L/view)
 * [AI Show | Channel 9](https://channel9.msdn.com/Shows/AI-Show)
+* [Azure Machine Learning Tutorial | What Is Azure Machine Learning? | Azure Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=NMpc5Z63RMA)
