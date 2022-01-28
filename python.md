@@ -4277,6 +4277,7 @@ Python
 * [NumPy for Data Science Interviews | by Nathan Rosidi | Jan, 2022 | Towards Data Science](https://towardsdatascience.com/numpy-for-data-science-interviews-1f86e7277ddd)
 * [My Favorite Free NumPy Courses for Beginners - DZone Web Dev](https://dzone.com/articles/my-favorite-free-numpy-courses-for-beginners)
 * [Why Datetimes Need Units - Christopher Ariza | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=jdnr7sgxCQI) Y2262 problem, datetime64 datatype
+* [Python Numpy and Jupyter Tutorials - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1kn3yopM0b71pKNV-gKH_N_)
 * [Blaze translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems](http://blaze.pydata.org/)
   * [Introducing Blaze - Expressions](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-Expressions/)
   * [Introducing Blaze - Practice](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-HMDA/)
