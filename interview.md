@@ -816,6 +816,7 @@ Interview
 * [개발자 이력서 작성하기 (feat. 이력서 공개) | Wonny Log](https://wonny.space/writing/work/engineer-resume)
 * [이동욱 | Java & NodeJS 백엔드 엔지니어](https://jojoldu.github.io/)
 * [조은, John Cho - Resume (public)](https://eun.notion.site/eun/John-Cho-Resume-public-0208d6fec948496c95ecb031a583010c)
+* [진짜개발자 - 기업체가 찾는 정확한 이력서 규칙을 따르는 이력서](https://realdeveloper.pro/)
 * [beautiful-resume-design](http://www.hongkiat.com/blog/beautiful-resume-design/)
 * [cakeresume.com/v2](https://www.cakeresume.com/v2)
 * [ddongule-simple-portfolio: Portfolio for Developers! Make your own portfolio Simple and Fast!](https://github.com/ddongule/ddongule-simple-portfolio)
