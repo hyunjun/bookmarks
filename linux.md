@@ -334,6 +334,7 @@ Linux
   * [로컬에서 개발 중인 Ansible role을 편하게 테스트하는 방법 | 박성훈의 블로그](https://pseonghoon.github.io/post/testing-ansible-role/)
   * [Ansible Tower with OSP16 - YouTube](https://www.youtube.com/watch?v=yuqcgckq0xA)
   * [DevOps - Part 12 - First Ansible PlayBook To Create Docker Image and Container ... Very Easy Steps - YouTube](https://www.youtube.com/watch?v=SsQdi3y8Trg)
+  * [8 ways to speed up your Ansible playbooks | Enable Sysadmin](https://www.redhat.com/sysadmin/faster-ansible-playbook-execution)
 * [Bashible - a deployment/automation tool written in Bash (DSL). Inspired by Ansible. Simplifies things and prevents usual mistakes](https://github.com/mig1984/bashible)
 * [fabric](https://github.com/mathiasertl/fabric)
 * [Pulumi - Modern Infrastructure as Code](https://www.pulumi.com/) python
