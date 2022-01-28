@@ -421,7 +421,6 @@ Python
 * [Python vs. Node.JS: Which One is Best for Your Project? | by Claire D. Costa | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/python-vs-node-js-which-one-is-best-for-your-project-e98f2c63f020)
 * [4 Simple Ways to Refactor Your Python Code](https://medium.com/code-85/4-simple-ways-to-refactor-your-python-code-2f491b767381)
 * [Introduction to Streaming Algorithms](https://towardsdatascience.com/introduction-to-streaming-algorithms-b71808de6d29)
-* [Python | Create a QR Code with your data using Python (5 lines of code) - YouTube](https://www.youtube.com/watch?v=1GpPl_EdhWY)
 * [How to build HANGMAN with Python in 10 MINUTES - YouTube](https://www.youtube.com/watch?v=m4nEnsavl6w)
 * [파이썬 초보에서 중수가 되기 위한 9가지 스킬](https://lazymatlab.tistory.com/92)
 * [파이썬으로 SAP Script 실행하기 (with argument)](https://kminito.tistory.com/10)
@@ -3560,7 +3559,6 @@ Python
 * [PyV8 - a python wrapper for Google V8 engine](https://github.com/flier/pyv8)
   * [PyV8을 이용한 자바스크립트 악성코드 분석하기](http://www.hanul93.com/kicomav-pyv8/)
   * [Python, PyV8로 javascript 실행하기](https://blog.naver.com/dudwo567890/220895234080)
-* pyzbar [파이썬 Python 코딩 - 바코드 QR코드 리더기 만들기 Scanning Bar Code Qr Code - Opencv, Pyzbar with Python - YouTube](https://www.youtube.com/watch?v=CUNVIfmfGuE)
 * QPython
   * [1. 개발환경 구축](http://m.blog.naver.com/dls001215/220972361443)
 * [quack - Build system on top of build systems](https://github.com/Autodesk/quack)
@@ -4164,6 +4162,11 @@ Python
   * [파이썬 상태바 라이브러리, tqdm 알아보기](https://tariat.tistory.com/421)
   * [A Demo of tqdm](https://www.youtube.com/watch?v=TGxP5N7nG0I)
   * [Show progress in your Python apps with tqdm | Opensource.com](https://opensource.com/article/20/12/tqdm-python)
+
+## Library QR
+* [Python | Create a QR Code with your data using Python (5 lines of code) - YouTube](https://www.youtube.com/watch?v=1GpPl_EdhWY)
+* [PyKIPass: 📱사장님들을 위한 QR체크인, 전자출입명부, KIPass API 파이썬 라이브러리](https://github.com/alus20x/PyKIPass)
+* pyzbar [파이썬 Python 코딩 - 바코드 QR코드 리더기 만들기 Scanning Bar Code Qr Code - Opencv, Pyzbar with Python - YouTube](https://www.youtube.com/watch?v=CUNVIfmfGuE)
 
 ## Library string match
 * [Jellyfish - a python library for doing approximate and phonetic matching of strings](https://pypi.org/project/jellyfish/)
