@@ -550,6 +550,9 @@ R
 * insight [You write R packages and functions? This package will change your life! | R-bloggers](https://www.r-bloggers.com/2021/01/you-write-r-packages-and-functions-this-package-will-change-your-life/)
 * [installr - Functions for installing softwares from within R](https://github.com/talgalili/installr)
   * [Windows에서 rJava 스트레스 없이 설치하기](https://mrchypark.github.io/post/rtips-windows%EC%97%90%EC%84%9C-rjava-%EC%8A%A4%ED%8A%B8%EB%A0%88%EC%8A%A4-%EC%97%86%EC%9D%B4-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0/)
+* interpretCI [Estimate the Confidence Interval and Interpret Step by Step • interpretCI](https://cardiomoon.github.io/interpretCI/)
+  * 평균의 신뢰구간, 평균차이의 신뢰구간, 비율의 신뢰구간, 비율차이의 신뢰구간을 구하고 effect size를 estimation plot 으로 보여주는 패키지
+  * 신뢰구간을 구하는 과정을 step by step 으로 보여줌으로써 통계 교육에 활용 가능
 * [IRkernel - R kernel for Jupyter https://irkernel.github.io ](https://github.com/IRkernel/IRkernel)
 * jamovi
   * [R을 SPSS처럼 jamovi 무료 툴](http://blog.naver.com/kjhnav/221085543187)
