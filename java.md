@@ -1522,6 +1522,7 @@ Java
 * [Sql을 통해서 테스트 코드를 쉽게 작성하자 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/sql-test/)
 * [**ServletContainer와 SpringContainer는 무엇이 다른가? | by Jin Hyung Park | Oct, 2021 | Medium**](https://medium.com/@jypthemiracle/servletcontainer%EC%99%80-springcontainer%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80-626d27a80fe5)
 * [Error Response 서버로 전달하기 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/error-response-2/)
+* [Spring 프로젝트를 분석하는 방법](https://devkingdom.tistory.com/313)
 * [infoworld-dropwizard](https://github.com/MTyson/infoworld-dropwizard)
   * [드롭위저드 REST API 프레임워크, 예제로 간단히 시작해보기 - ITWorld Korea](https://www.itworld.co.kr/news/219849)
 * jasypt [28. Spring - jasypt로 application.properties(yml) 데이터 암/복호화](https://kim-jong-hyun.tistory.com/50)
