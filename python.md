@@ -3993,6 +3993,7 @@ Python
 * [How to make an awesome Python package in 2021 | Anton Zhiyanov](https://antonz.org/python-packaging/)
 * [나의 파이썬 환경 구축기 1 - 써본 것들에 대한 생각](https://dailyheumsi.tistory.com/243) pyenv poetry
 * [나의 파이썬 환경 구축기 2 - pyenv + poetry](https://dailyheumsi.tistory.com/244) pyenv poetry
+* [패키지 관리와 파이썬 버전관리를 위한 poetry, pyenv](https://blog.naver.com/pjt3591oo/222633677248)
 * [**파이썬 패키징 – 과거, 현재, 미래 – 야단법썬과 함께하는 블로그**](https://search5blog.wordpress.com/2021/08/19/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B3%BC%EA%B1%B0-%ED%98%84%EC%9E%AC-%EB%AF%B8%EB%9E%98/)
 * [How to Package Python Projects in 2021 - ActiveState](https://www.activestate.com/blog/how-to-package-python-projects-in-2021/)
 * [Which Python Dependency Manager Should I Choose? - ActiveState](https://www.activestate.com/blog/which-python-dependency-manager-should-i-choose/)
