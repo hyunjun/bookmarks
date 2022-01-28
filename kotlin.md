@@ -153,6 +153,7 @@
 * [Migrating From Python to Kotlin for Our Backend Services](https://doordash.engineering/2021/05/04/migrating-from-python-to-kotlin-for-our-backend-services/)
 * [Java & Kotlin enum class가 완벽한 싱글톤이라 불리는 이유 — 시행착오를 줄이는 방법](https://dataportal.kr/54)
 * [Mac에서 코틀린 개발환경 구성하기](https://jojoldu.tistory.com/635)
+* [블로그에 코틀린 플레이그라운드 넣기](https://dalinaum.github.io/blog/2022/01/28/blog-kotlin-playground.html)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
