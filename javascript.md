@@ -756,6 +756,7 @@ Javascript
 * [터치와 클릭, 우리 깐부잖아. | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220106)
 * [Quines in JavaScript: Self-replicating Code that Prints Itself - YouTube](https://www.youtube.com/watch?v=eY8-55tmAMk)
 * [Building a GIF search Engine in just 10 mins - DEV Community](https://dev.to/kumarkalyan/building-a-gif-search-engine-in-just-10-mins-lbd)
+* [브라우저싱크 Error: ENOSPC: System limit for number of file watchers reached 에러 대처 | 웹으로 말하기](https://mytory.net/2022/01/27/error-enospc-system-limit-for-number-of-file-watchers-reached.html)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -1913,6 +1914,7 @@ Javascript
   * [JavaScript로 오디오 이펙터를 만들어보자 소리의 흐름을 파악하자](https://evan-moon.github.io/2019/08/19/javascript-audio-effectors-gain/)
   * [JavaScript로 오디오 이펙터를 만들어보자 나만의 소리 만들기](https://evan-moon.github.io/2019/08/21/javascript-audio-effectors-practice/)
   * [Canvas, Web Audio API를 사용한 오디오 파형 시각화 | blog.rhostem.com](https://blog.rhostem.com/posts/2022-01-08-canvas-web-audio-player)
+  * [리액트로 만든 게임에 사운드 추가하기 | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220127-audio-in-web/)
 * WebGL
   * [WebGL implementation of 2D Dynamic Lighting](http://xnajs.com/examples/02/)
   * [Re-Creating Megaman 2](https://medium.com/recreating-megaman-2-using-js-webgl)
