@@ -2364,6 +2364,7 @@ Programming
   * [Alloy | MIT CSAIL](https://www.csail.mit.edu/research/alloy)
 * [control-flag: A system to flag anomalous source code expressions by learning typical expressions from training data](https://github.com/IntelLabs/control-flag)
   * [인텔, 기계학습 디버깅툴 ‘컨트롤플래그’ 오픈소스로 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20211025172937)
+* [EFFI](https://effi.io/) bug reporting 도구를 제공하는 SaaS 회사
 * Ozcode [Debugging Solutions from Dev to Production - Ozcode](https://oz-code.com/)
   * [Advanced Techniques for Production Debugging - YouTube](https://www.youtube.com/watch?v=eghHZvffilA)
 
