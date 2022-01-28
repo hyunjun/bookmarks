@@ -1525,6 +1525,9 @@ Programming Books
   * ★★★★★ 2021.12.30
   * [개발자로 살아남기. 정리를 잘해서 prolog만 읽어도 이 책의 주제를 바로 이해할 수… | by Jun | Jan, 2022 | Medium](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0-2db79678ec6e)
   * [10년 경력을 설계하는 방법 – 1/3/3/3 원칙 :: Channy's Blog](http://channy.creation.net/blog/1517)
+* [성취예측모형](https://www.facebook.com/dongseok.tschoe/posts/10215559373897226)
+  * ★★★★★ 2022.01.08
+  * [성취 예측 모형 (최동석 지음/클라우드나인 펴냄/초판1쇄 2021.12.20./23,000원/472쪽) - YouTube](https://www.youtube.com/watch?v=oQMp5xQ1dn4)
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
@@ -1543,7 +1546,6 @@ Programming Books
 * (NOT YET) [‘리더 디퍼런트’ - 인사이트](https://www.insight.co.kr/news/355641) Start with why, Simon Sinek
 * (NOT YET) [소방관의 선택](https://jhrogue.blogspot.com/2021/10/blog-post.html)
 * (NOT YET) [아마존 사람들은 이렇게 일합니다](https://polydalai.tistory.com/entry/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4)
-* (NOT YET) [성취예측모형](https://www.facebook.com/dongseok.tschoe/posts/10215559373897226)
 * (NOT YET) 임파워드 [관리자는 신입 PM을 보며 어떤 생각을 할까?](https://brunch.co.kr/@soosunnaa/23)
 
 # Math
