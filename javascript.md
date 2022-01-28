@@ -2344,6 +2344,7 @@ Javascript
 * [코딩방송 Season1- EP 11. 통신3: NodeJS 웹서버](https://www.youtube.com/watch?v=rnFW4ESNk8w)
 * [코딩방송 Season1- EP 13. 웹소켓(WebSocket)](https://www.youtube.com/watch?v=KT7z1jT03BM)
 * [코딩방송 Season1- EP 14. 더 쉬운 웹소켓(WebSocket)](https://www.youtube.com/watch?v=PvuqG8TVaCo)
+* [채팅서비스를 구현하며 배워보는 Websocket 원리 (feat. node.js)](https://hudi.blog/websocket-with-nodejs/)
 * [간단하게 구축해 보는 JavaScript 개발 환경](https://d2.naver.com/helloworld/2564557)
 * [You should never ever run directly against Node.js in production. Maybe](https://medium.freecodecamp.org/you-should-never-ever-run-directly-against-node-js-in-production-maybe-7fdfaed51ec6)
 * [Node.js: what it is, when and how to use it, and why you should](https://medium.freecodecamp.org/node-js-what-when-where-why-how-ab8424886e2)
