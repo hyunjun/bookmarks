@@ -2299,6 +2299,7 @@ Programming
 * [반면교사 삼아야 할 2021년 ‘IT 재앙’ 8선 - CIO Korea](https://www.ciokorea.com/news/220229)
 * [소프트웨어 개발보안 가이드('19.11.29) | 행정안전부> 업무안내> 디지털정부국> 정보화 표준·지침 자료실](https://www.mois.go.kr/frt/bbs/type001/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000045&nttId=74415)
 * [개발자를 위한 동형암호 ML. 정승우 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=Cc22oYDf228)
+* [보안인들의 유쾌한 모임! Becks KR 온라인 밋업에 참가했습니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-becks-kr-1/)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [the_cyber_plumbers_handbook: Free copy of The Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)
