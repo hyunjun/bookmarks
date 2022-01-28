@@ -344,3 +344,4 @@ Finance
 * [퀀트가 된 이유](https://ppss.kr/archives/150052)
 * [퀀트 개발자 취업 Tip](https://blog.naver.com/joo_andy_lee/220582031712)
 * [투자은행 핀테크 연봉 이야기 #2 - 금융권 개발자](http://blog.naver.com/joo_andy_lee/220369018195)
+* [AI퀀트 금융머신러닝 공부를 위해 봐야할 동영상](https://brunch.co.kr/@gauss92tgrd/48)
