@@ -56,6 +56,7 @@ Redis
   * [입 개발 Redis 6.0 – ThreadedIO를 알아보자](https://charsyam.wordpress.com/2020/05/05/%ec%9e%85-%ea%b0%9c%eb%b0%9c-redis-6-0-threadedio%eb%a5%bc-%ec%95%8c%ec%95%84%eb%b3%b4%ec%9e%90/)
   * [입 개발 Redis 장애 종류 정리 | Charsyam's Blog](https://charsyam.wordpress.com/2020/11/20/%ec%9e%85-%ea%b0%9c%eb%b0%9c-redis-%ec%9e%a5%ec%95%a0-%ec%a2%85%eb%a5%98-%ec%a0%95%eb%a6%ac/)
   * [입 컨설팅 Self Managed Redis 가 좋을까? Managed Redis 가 좋을까? | Charsyam's Blog](https://charsyam.wordpress.com/2021/11/30/%ec%9e%85-%ec%bb%a8%ec%84%a4%ed%8c%85-self-managed-redis-%ea%b0%80-%ec%a2%8b%ec%9d%84%ea%b9%8c-managed-redis-%ea%b0%80-%ec%a2%8b%ec%9d%84%ea%b9%8c/)
+  * [입 개발 Redis LRU(Least Recently Used Algorithm)에 대해서 | Charsyam's Blog](https://charsyam.wordpress.com/2022/01/28/%ec%9e%85-%ea%b0%9c%eb%b0%9c-redis-lruleast-recently-used-algorithm%ec%97%90-%eb%8c%80%ed%95%b4%ec%84%9c/)
 * [Redis와 전자정부프레임워크 연동](http://daddycat.blogspot.com/2017/06/redis.html)
 * [lua 사용 사례](http://knight76.tistory.com/entry/redis-lua-%EC%82%AC%EC%9A%A9-%EC%82%AC%EB%A1%80)
 * lock
