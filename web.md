@@ -546,6 +546,7 @@ Web
   * 이를 이용해서 많은 중간 지점을 css gradient 함수에 전달해서 자연스럽게 표현되도록 한 방법을 설명, 이를 활용할 수 있는 Gradient Generator도 소개
 * [runtime css-in-js is not free. runtime css-in-js | by DarrenKwon | Typed 개발팀 블로그 | Dec, 2021 | Medium](https://medium.com/business-canvas/runtime-css-in-js-is-not-free-da19528e57b1)
 * [CSS 역사로 알아보는 CSS가 어려워진 이유](https://velog.io/@teo/css-history-1)
+* [Responsive Personal Portfolio Website Using HTML CSS And JavaScript - YouTube](https://www.youtube.com/watch?v=Uu8MJhtbQnY)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
