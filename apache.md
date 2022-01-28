@@ -654,7 +654,6 @@ Apache
   * partition_assignment_strategy를 사용해서 라운드 로빈을 적용했으나 트래픽이 늘어나자 다시 Lag 증가
   * 그래서 Lag의 의미를 자세히 찾아보니 마지막에 생성된 메시지와 컨슈머가 가져갔다고 표시한 오프셋의 차이라는 것을 알게 되어 auto_commit_interval_ms를 5초에서 1초로 줄여서 La를 해결
 * [Scaling Kafka Consumer for Billions of Events | by Archit Agarwal | The PayPal Technology Blog | Nov, 2021 | Medium](https://medium.com/paypal-tech/kafka-consumer-benchmarking-c726fbe4000)
-* [Event Sourcing with Kafka Streams in Production — Lessons Learned | by Nico | comsystoreply | Medium](https://medium.com/comsystoreply/event-sourcing-with-kafka-streams-in-production-lessons-learned-1ab563891874)
 * [Postgres, Kafka, and the Mysterious 100 GB – Coding, Climbing, and Commentary](https://www.mattritter.me/?p=398)
 * [The Top 5 Apache Kafka Use Cases and Architectures in 2022](https://www.slideshare.net/KaiWaehner/the-top-5-apache-kafka-use-cases-and-architectures-in-2022)
 * AWS에서 Kafka를 사용하기 위해 필요한 내용을 정리한 시리즈 글
@@ -801,6 +800,8 @@ Apache
 * [카프카 스트림즈에서 stateful window 처리를 다루는 방법 그리고 커밋타이밍](https://voidmainvoid.tistory.com/452)
 * [Kafka Streams 101 - Rock the JVM Blog](https://blog.rockthejvm.com/kafka-streams/)
 * [Deep Dive into Apache Kafka: Your go-to Event Streaming Framework. | by Jay | Nov, 2021 | Medium](https://jay-reddy.medium.com/deep-dive-into-apache-kafka-your-go-to-event-streaming-framework-124fa6180ff6)
+* [Event Sourcing with Kafka Streams in Production — Lessons Learned | by Nico | comsystoreply | Medium](https://medium.com/comsystoreply/event-sourcing-with-kafka-streams-in-production-lessons-learned-1ab563891874)
+* [Hands-on Kafka Streams in Scala](https://softwaremill.com/hands-on-kafka-streams-in-scala/)
 * [brooklin - An extensible distributed system for reliable nearline data streaming at scale](https://github.com/linkedin/Brooklin/)
   * [Open Sourcing Brooklin: Near Real-Time Data Streaming at Scale](https://engineering.linkedin.com/blog/2019/brooklin-open-source)
   * Kafka Connect + MirrorMaker의 대안으로 개발된 범용 Framework. Scalable할 뿐만 아니라 Kafka 외에도 다양한 Storage / Streaming System 지원
