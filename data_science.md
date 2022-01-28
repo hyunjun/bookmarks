@@ -450,6 +450,7 @@ Data Science
 * [Learn Data Engineering: My Favorite Free Resources For Data Engineers](https://hackernoon.com/learn-data-engineering-my-favorite-free-resources-52a29ab999b)
 * [Interactive Tools for ML, DL and Math](https://github.com/Machine-Learning-Tokyo/Interactive_Tools)
 * [Top 38 Python Libraries for Data Science, Data Visualization & Machine Learning - KDnuggets](https://www.kdnuggets.com/2020/11/top-python-libraries-data-science-data-visualization-machine-learning.html)
+* [10 Essential Tools Data Scientists Should Learn in 2022 | by javinpaul | Javarevisited | Jan, 2022 | Medium](https://medium.com/javarevisited/10-essential-tools-data-scientists-should-learn-in-2022-acbae6558643)
 * [academictorrents.com](http://academictorrents.com/)
 * [Airbyte | Open-Source Data Integration Pipelines To Your Warehouses](https://airbyte.io/)
   * [Airbyte - 오픈소스 ELT | GeekNews](https://news.hada.io/topic?id=3666)
