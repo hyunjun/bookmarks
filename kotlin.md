@@ -279,6 +279,8 @@
   * [Functional programming in Kotlin with Arrow.kt - YouTube](https://www.youtube.com/watch?v=IDMmmrRhUvQ)
 * [Exposed: Kotlin SQL Framework](https://github.com/JetBrains/Exposed) an ORM framework for Kotlin
 * [FlameViewer - Tool for flamegraphs visualization](https://github.com/kornilova203/FlameViewer)
+* [fuel: The easiest HTTP networking library for Kotlin/Android](https://github.com/kittinunf/fuel)
+  * [HTTP Client 책임 분리하기 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/http-client/)
 * [GlideModelLoaderSample](https://github.com/Pluu/GlideModelLoaderSample)
   * [Pluu Dev - Glide 요청 가로채기](http://pluu.github.io/blog/android/2021/09/12/glide-modelloader/)
 * [javalin - A simple web framework for Java and Kotlin](https://javalin.io)
