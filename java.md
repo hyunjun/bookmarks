@@ -1728,6 +1728,7 @@ Java
 * [Documenting a SpringBoot REST API with OpenAPI 3 | CODER SITE for developers](https://codersite.dev/documenting-rest-api-openapi3/)
 * [MICROSERVICE-SPRINGBOOT - YouTube](https://www.youtube.com/playlist?list=PLtsTccOGFwUIcbQnwl2Ta6IUNFi02py1_)
 * [SpringBoot의 Validation을 사용 해 보자 | woolog - 개발자 울이](https://www.woolog.dev/backend/spring-boot/spring-boot-validation/)
+* [Spring Boot 2.4 이상 환경에서 Spring Cloud AWS 적용하기 (feat. AWS Parameter Store)](https://kim-jong-hyun.tistory.com/120)
 * [spring-batch-querydsl: 스프링배치와 QuerydslPagingItemReader](https://github.com/jojoldu/spring-batch-querydsl)
 * [testing-spring-boot-applications-masterclass: 🍃 Everything You Need to Know About Testing Spring Boot Applications](https://github.com/rieckpil/testing-spring-boot-applications-masterclass)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
