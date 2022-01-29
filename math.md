@@ -142,6 +142,7 @@ Math
   * [fourier-playground: 푸리에 변환 실험실](https://github.com/suhdonghwi/fourier-playground)
 * [The Fourier transform is a neural network | sidsite](https://sidsite.com/posts/fourier-nets/)
 * [Fourier series visualisation with d3.js. - bl.ocks.org](https://bl.ocks.org/jinroh/7524988)
+* [The Fast Fourier Transform (FFT): Most Ingenious Algorithm Ever? - YouTube](https://www.youtube.com/watch?v=h7apO7q16V0)
 
 # Geometry
 * [eukleides - a geometry drawing language](http://eukleides.org/)
