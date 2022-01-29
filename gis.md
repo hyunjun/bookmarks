@@ -80,6 +80,8 @@ GIS
 * [Deckgl for Jupyter Notebook - 위치 데이터 시각화 라이브러리인 Deck.gl을 쥬피터 노트북 에서 사용 가능](https://github.com/heumsi/deckgl-jupyter)
 * geopandas [The Best Features of Geopandas 0.80 Release | by Abdishakur | Towards Data Science](https://towardsdatascience.com/the-best-features-of-geopandas-0-80-release-87f2d7aa8f5)
 * [gpd_example 2019년 pycon 튜토리얼 (Python으로 지리공간데이터 다루기) 실습 파일](https://github.com/rollinstar/gpd_example)
+* [osmnx: OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap](https://github.com/gboeing/osmnx)
+  * [osmnx-examples: Usage examples, demos, and tutorials for OSMnx](https://github.com/gboeing/osmnx-examples)
 * [QGIS - Using Python and QGIS for geospatial visualizations - a Case Study](https://www.airpair.com/python/posts/using-python-and-qgis-for-geospatial-visualization)
   * [You Might Not Need QGIS](http://blog.webkid.io/you-might-not-need-qgis/)
 * [pydeck: Large-scale interactive data visualization in Python](https://github.com/uber/deck.gl/tree/master/bindings/python/pydeck)
