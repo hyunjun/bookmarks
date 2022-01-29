@@ -686,6 +686,7 @@ Programming
 * [**Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점 | Amazon Web Services 한국 블로그**](https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/)
   * [Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점 :: Channy's Blog](http://channy.creation.net/blog/1514)
 * [Moving beyond Request-Reply: How Smart APIs Are Different - YouTube](https://www.youtube.com/watch?v=P9_5qAPfrpg)
+* [Top 5 Courses to Learn API Development (REST, SOAP, Web) in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/10/top-5-courses-to-learn-api-development.html)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
   * [CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=4662)
