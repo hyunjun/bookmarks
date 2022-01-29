@@ -1394,6 +1394,7 @@ Javascript
 * [jQuery는 이제 너무 무겁다. - 완두블로그](https://wani.kr/posts/2014/02/02/jquery-is-too-heavy/)
 * [JS 꼴랑이거(1) - Submit 이벤트 완전히 막기! - 완두블로그](https://wani.kr/posts/2014/12/25/js-something-1-block-submit-event-completely/)
 * [Essential Cheat Sheet: Convert jQuery to JavaScript](https://webdesign.tutsplus.com/articles/essential-cheat-sheet-convert-jquery-to-javascript--cms-35633)
+* [jQuery에 대한 슬픈 고찰](https://velog.io/@juunini/jQuery%EC%97%90-%EB%8C%80%ED%95%9C-%EC%8A%AC%ED%94%88-%EA%B3%A0%EC%B0%B0)
 * [jqTree - a jQuery widget for displaying a tree structure in html It supports json data, loading via ajax and drag-and-drop](http://mbraak.github.io/jqTree/)
 
 # Library
@@ -3228,6 +3229,7 @@ Javascript
 * [How to Draw S-Curved Arrows Between Boxes / Rectangles | Alexander's Garden](https://dragonman225.js.org/curved-arrows.html)
 * [React에서 Canvas API로 애니메이션 구현하기](https://brunch.co.kr/@dalgudot/141)
 * [5 Projects You Can Build to Learn React.js in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/10/5-best-reactjs-projects-for-beginners.html)
+* [React Portfolio Website with Styled Components and Framer Motion 🔥 - YouTube](https://www.youtube.com/watch?v=c8lnJzGVVpQ)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
