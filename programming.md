@@ -1816,6 +1816,7 @@ Programming
 * [클린 코드: 애자일 소프트웨어 장인 정신 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/05/24/Clean-Code.html)
 * [책 클린 코드](https://jybaek.tistory.com/885)
 * [잘가, 클린 코드](https://overreacted.io/ko/goodbye-clean-code/)
+* [클린코드를 위하여](https://devkingdom.tistory.com/314)
 * [Awesome-Clean-Code-Resources: An awesome curated list of clean code posts, books and videos](https://github.com/abiodunjames/Awesome-Clean-Code-Resources)
 * [Clean Code: 5 Essential Takeaways - Better Programming - Medium](https://medium.com/better-programming/clean-code-5-essential-takeaways-2a0b17ccd05c)
 * [(C)Lean Code. The new generation of Clean Code. | by Huge Ponkce | The Startup | Medium](https://medium.com/swlh/c-lean-code-db84f8e312d4)
@@ -2183,6 +2184,7 @@ Programming
   * [Missing Semester IAP 2020 - YouTube](https://www.youtube.com/playlist?list=PLyzOVJj3bHQuloKGG59rS43e29ro7I57J)
 * [How I Got a Computer Science Degree in 3 Months for Less Than $5000 | Miguel Rochefort](https://miguelrochefort.com/blog/cs-degree/)
 * [Entire Computer Science Curriculum in 1000 YouTube Videos | Laconicml](https://laconicml.com/computer-science-curriculum-youtube-videos/)
+* [Top 10 Free CodeCademy Courses to Learn Programming and Development - Best of Lot](https://javarevisited.blogspot.com/2021/10/top-10-free-codecademy-courses-for.html)
 * [구름EDU - 모두를 위한 맞춤형 IT교육](https://edu.goorm.io/)
 * [오늘부터 전공면접 IT](https://hexoul.github.io/prepare-interview-data/)
   * [오늘부터 전공면접 IT - 객관식 문제 제공 서비스 | GeekNews](https://news.hada.io/topic?id=5335)
@@ -2216,6 +2218,7 @@ Programming
 * [K MOOC](http://www.kmooc.kr/)
 * [learncodethehardway.org](https://learncodethehardway.org/) learn code the hard way
 * [Learn TV | Microsoft Docs](https://docs.microsoft.com/en-us/learn/tv/)
+* Lebyy [Learn By Yourself | Lebyy](https://www.lebyy.com/)
 * [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
   * [여러분의 CS 교육에서 누락된 학기 · the missing semester of your cs education](https://missing-semester-kr.github.io/)
 * [MIT OPEN COURSEWARE](http://ocw.mit.edu/index.htm)
@@ -3434,6 +3437,7 @@ Programming
 * [Hello World Example](https://github.com/RussellLuo/grpc-pytools/tree/master/examples)
 * [Nate Barbettini – API Throwdown: RPC vs REST vs GraphQL, Iterate 2018](https://www.youtube.com/watch?v=IvsANO0qZEg)
 * [RPC vs Messaging: When to use which? - YouTube](https://www.youtube.com/watch?v=LMKVzguhFw4)
+* [분산된 환경에서의 호출을 위한 RPC, JSON-RPC, gRPC](https://blog.naver.com/pjt3591oo/222634341234)
 * grpc
   * [www.grpc.io](http://www.grpc.io/)
     * [Documentation](http://www.grpc.io/docs/)
