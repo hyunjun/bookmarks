@@ -64,6 +64,7 @@
 * [Robert.C.Martin 블로그번역 -2 개방/폐쇄 원칙에 대하여(The Open/Closed Principle)](https://medium.com/@joohotheman/robert-c-martin-블로그번역-2-개방-폐쇄-원칙에-대하여-the-open-closed-principle-c80388209e89)
 * [SOLID principles: The Definitive Guide (Part I) | CODER SITE for developers](https://codersite.dev/solid-principles-the-definitive-guide/)
 * [SOLID principles: The Open-Closed Principle (Part II) | CODER SITE for developers](https://codersite.dev/open-closed-principle/)
+* [SOLID principles: The Open-Closed Principle (Part II) | CODER SITE for developers](https://codersite.dev/open-closed-principle/)
 * [10 OOP Design Principles Every Programmer Should Know](https://hackernoon.com/10-oop-design-principles-every-programmer-should-know-f187436caf65)
 * [The Liskov Substitution Principle — and why you might want to enforce it](https://hackernoon.com/the-liskov-substitution-principle-and-why-you-might-want-to-enforce-it-6f5bbb05c06d)
 * [Liskov Substitution Principle of SOLID | LSP - Tech Point Fundamentals](https://www.techpointfunda.com/2021/10/liskov-substitution-principle.html)
@@ -95,6 +96,7 @@
 * [005. LSP와 Generic, 오브젝트 4/6 | LinkedIn](https://www.linkedin.com/pulse/005-lsp%EC%99%80-generic-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-46-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
 * [006. 도메인 분해, 오브젝트 5/6 | LinkedIn](https://www.linkedin.com/pulse/006-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%B6%84%ED%95%B4-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-56-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
 * [007. 상속과 합성, 오브젝트 6/6 | LinkedIn](https://www.linkedin.com/pulse/007-%EC%83%81%EC%86%8D%EA%B3%BC-%ED%95%A9%EC%84%B1-%EC%98%A4%EB%B8%8C%EC%A0%9D%ED%8A%B8-66-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
+* [창시자 앨런 케이가 말하는, 객체 지향 프로그래밍의 본질](https://velog.io/@eddy_song/alan-kay-OOP) messaging, hiding of state-process, late-binding
 
 # Book
 * [객체지향의 사실과 오해](http://aeternum.egloos.com/3137187)
@@ -237,6 +239,7 @@
 * [Mediator pattern](http://designpattern.co.il/Mediator.html)
 * [커맨드 디자인 패턴](https://astrod.github.io/design_pattern/2018/09/26/Head-First-%EC%BB%A4%EB%A7%A8%EB%93%9C-%EB%94%94%EC%9E%90%EC%9D%B8-%ED%8C%A8%ED%84%B4/)
 * [Extending Object Behavior with the Decorator Pattern](https://hackernoon.com/extending-object-behavior-with-the-decorator-pattern-6b6b329c6c10)
+* [Decorator Design Pattern Example in Java Tutorial | Java67](https://www.java67.com/2013/07/decorator-design-pattern-in-java-real-life-example-tutorial.html)
 * [템플릿 메소드 패턴](https://astrod.github.io/design_pattern/2018/11/20/Head-First-%ED%85%9C%ED%94%8C%EB%A6%BF-%EB%A9%94%EC%86%8C%EB%93%9C-%ED%8C%A8%ED%84%B4/)
 * [템플릿 콜백 패턴으로 반복 코드 줄이기](https://www.popit.kr/%ED%85%9C%ED%94%8C%EB%A6%BF-%EC%BD%9C%EB%B0%B1-%ED%8C%A8%ED%84%B4%EC%9C%BC%EB%A1%9C-%EB%B0%98%EB%B3%B5-%EC%BD%94%EB%93%9C-%EC%A4%84%EC%9D%B4%EA%B8%B0)
 * [다형성과 동적 바인딩](https://brunch.co.kr/@mystoryg/60)
@@ -275,6 +278,7 @@
 * [ES6로 구현하는 디자인 패턴 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222351379222)
 * [Design Patterns in JavaScript. Commonly Used Design Patterns With Code… | by Mahdhi Rezvi | Jun, 2021 | Bits and Pieces](https://blog.bitsrc.io/design-patterns-in-javascript-3872f36fe345)
 * [아토믹(Atomic) 컴포넌트 디자인 개발 패턴](https://brunch.co.kr/@skykamja24/580)
+* [Javascript에서도 SOLID 원칙이 통할까?](https://velog.io/@teo/Javascript%EC%97%90%EC%84%9C%EB%8F%84-SOLID-%EC%9B%90%EC%B9%99%EC%9D%B4-%ED%86%B5%ED%95%A0%EA%B9%8C)
 
 # Python
 * [Python: Design Patterns](https://www.linkedin.com/learning/python-design-patterns)
