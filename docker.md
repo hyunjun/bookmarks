@@ -555,7 +555,6 @@ Docker
   * BuildKit 미사용
   * 변경할 때마다 다시 빌드
   * 커스텀 스크립트 -> 이미 존재하는 도구 활용
-* [CKS 시험 정보 Portal ver0.5 - 쿠버네티스 전문가 블로그](https://sysnet4admin.blogspot.com/2021/12/cks-portal-ver05.html)
 * [Mac 업데이트 이후 Docker 실행 안될 경우](https://jojoldu.tistory.com/629)
 * [The container throttling problem](https://danluu.com/cgroup-throttling/)
 
@@ -1201,6 +1200,9 @@ Docker
 * [Kubernetes Essential Component. 쿠버네티스를 효율적으로 사용하기 위해서는 필수 쿠버네티스 관리… | by KC | Jan, 2022 | Medium](https://medium.com/@cloudacode/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%ED%95%84%EC%88%98-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-by-cloudacode-b115930db484)
 * [Kubernetes: The Documentary PART 1 - YouTube](https://www.youtube.com/watch?v=BE77h7dmoQU)
 * [Kubernetes: The Documentary PART 2 - YouTube](https://www.youtube.com/watch?v=318elIq37PE)
+* [CKS 시험 정보 Portal ver0.5 - 쿠버네티스 전문가 블로그](https://sysnet4admin.blogspot.com/2021/12/cks-portal-ver05.html)
+* [쿠버네티스 시험(CKA, CKAD, CKS)을 위한 공부법 - YouTube](https://www.youtube.com/watch?v=WDanHeELZcA)
+* [App Modernization: 5 Tips When Migrating to Kubernetes – The New Stack](https://thenewstack.io/app-modernization-5-tips-when-migrating-to-kubernetes)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1465,6 +1467,7 @@ Docker
   * [Advanced Docker: Multistage parallel Docker build | Blog by Gaspare Vitta](https://www.gasparevitta.com/posts/advanced-docker-multistage-parallel-build-buildkit/)
   * [Pass secure information for building Docker images | by Rafael Natali | Marionete | Jul, 2021 | Medium](https://medium.com/marionete/pass-secure-information-for-building-docker-images-8adeafe08355)
 * [codetainer allows you to create code 'sandboxes' you can embed in your web applications](https://github.com/codetainerapp/codetainer)
+* [colima: Container runtimes on macOS (and Linux) with minimal setup](https://github.com/abiosoft/colima)
 * [d2hub - kakao Docker Hub](https://github.com/kakao/d2hub)
   * [d2hub playbook](https://github.com/kakao/d2hub-playbook)
   * [Docker Registry 2 authentication server](https://github.com/kakao/docker_auth)
