@@ -186,6 +186,7 @@ Algorithm
 * [The Two Egg Problem](https://jusths.tistory.com/117)
 * [General Egg Problem](https://jusths.tistory.com/119)
 * [Maximum Subarray Problem](https://jusths.tistory.com/129)
+* [Smallest Subarray with Sum Greater than or Equal to K (Target) | Sliding Window - YouTube](https://www.youtube.com/watch?v=hTXcrluTIpY)
 * [악마와 동전 게임](https://nbviewer.jupyter.org/github/cynthia/pytudes/blob/gh-pages/ipynb/Coin%20Flip.ipynb)
 * [알고리즘의 개념과 알고리즘의 효율적 설계](https://www.youtube.com/watch?v=tgHwP0srUIk)
 * [Python 100제](https://www.notion.so/6ee1860ce29a41bc8eb6b9cfa7d7f06c)
@@ -783,6 +784,7 @@ Algorithm
 * [BST Sequences in Python](https://hackernoon.com/bst-sequences-in-python-c072c0e9b19f)
 * [이진 탐색 트리(BST) 구현하기(Python3)](https://velog.io/@seanlion/bstimplementation)
 * [Tree data structure: Binary Search Tree | CODER SITE for developers](https://codersite.dev/tree-data-structure-binary-search-tree/)
+* [How to find Kth Smallest Element in a Binary Search Tree? Solved | Java67](https://www.java67.com/2022/01/how-to-find-kth-smallest-element-in.html)
 
 ## Heap
 * [Heap 자료구조와 Priority Queue](http://codingmonster.net/archives/13089)
