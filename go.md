@@ -821,6 +821,7 @@ Go
 # Web Restful
 * [Build RESTful API in Go and MongoDB](https://hackernoon.com/build-restful-api-in-go-and-mongodb-5e7f2ec4be94)
 * [REST Servers in Go: Part 1 - standard library - Eli Bendersky's website](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
+* [Golang Rest API - Lazy Loading, Search & Sorting using MySQL](https://morioh.com/p/da47d282e0cf)
 * [GolangMgoRestServer - golang + echo + mgo + rest server Example](https://github.com/tedpark/GolangMgoRestServer)
 
 # Websocket
