@@ -647,6 +647,7 @@ Data Science
   * [Artwork Personalization at Netflix](https://medium.com/netflix-techblog/artwork-personalization-c589f074ad76)
 * [넷플릭스와 아마존](https://www.skyer9.pe.kr/wordpress/?p=539)
 * [Deep Dive into Netflix’s Recommender System | by David Chong | Towards Data Science](https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48)
+* [Building confidence in a decision | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/building-confidence-in-a-decision-8705834e6fd8)
 * [Experimentation is a major focus of Data Science across Netflix | by Netflix Technology Blog | Jan, 2022 | Netflix TechBlog](https://netflixtechblog.com/experimentation-is-a-major-focus-of-data-science-across-netflix-f67923f8e985)
 * [Speech-Based, Natural Language Conversational Recommender Systems](http://grasch.net/node/147)
 * [Using Graph Theory to Build a Simple Recommendation Engine in JavaScript](https://medium.com/@keithwhor/using-graph-theory-to-build-a-simple-recommendation-engine-in-javascript-ec43394b35a3)
