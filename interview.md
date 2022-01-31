@@ -527,6 +527,7 @@ Interview
 * [Giving back - how I cleared L6 System Design - Part 1 - Blind](https://www.teamblind.com/post/Giving-back---how-I-cleared-L6-System-Design---Part-1-4yufM3RY)
 * [Giving back - how I cleared L6 System Design - Part 2 - Blind](https://www.teamblind.com/post/rBrt5bV8)
 * [Giving back - how I cleared L6 System Design - Part 3 - Blind](https://www.teamblind.com/post/qubF6fS2)
+* [System Design Logging Framework | Implementing Logger | System Design Interview Low Level| logging - YouTube](https://www.youtube.com/watch?v=RljSBrZeJ3w)
 
 # Book
 * [더북(TheBook): 커리어 스킬](https://thebook.io/006990/) 2~9장만
