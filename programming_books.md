@@ -92,6 +92,8 @@ Programming Books
   * ★★★★☆ 독특하게도 프로그래밍과는 대부분 무관하거나 혹은 간접적인 이야기를 하는 프로그래머에 대한 책
   * [프로그래머의 뇌. 프로그래밍과 직접 연관된 부분은 거의 없지만, 여러가지 시사점을… | by Jun | Jan, 2022 | Medium](https://nymets.medium.com/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%87%8C-fb28e58477f2)
   * [독서광 프로그래머의 뇌](https://jhrogue.blogspot.com/2022/01/blog-post_19.html)
+* [죽을 때까지 코딩하며 사는 법 by Codong's Development Diary](https://codong.tistory.com/40)
+  * ★★★★☆ 2022.01.31
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
@@ -1092,6 +1094,7 @@ Programming Books
 * (NOT YET) [<Must Have> Tucker의 Go 언어 프로그래밍 : Golang 입문부터 고급 기법까지, 재미있는 4가지 프로젝트와 함께(27장 SOLID 전체 공개 버전) by 최현우 - issuu](https://issuu.com/iamhwchoi/docs/golang2)
   * [Tucker Programming - YouTube](https://www.youtube.com/channel/UCZp_ftx6UB_32VfVmlS3o_A)
   * [Tucker의 Go 언어 프로그래밍](https://jhrogue.blogspot.com/2021/04/tucker-go.html)
+  * [생각하는 Go 언어 프로그래밍 : Go 제네릭의 이해 - 골든래빗](https://goldenrabbit.co.kr/2022/01/28/%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-go-%EC%96%B8%EC%96%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-go-%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%9D%98-%EC%9D%B4%ED%95%B4/)
 * (NOT YET) [Go 마스터하기 2/e | 에이콘출판사](http://www.acornpub.co.kr/book/mastering-go-2e)
 * (NOT YET) [밑바닥부터 만드는 인터프리터 in Go](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=277193668)
 * (NOT YET) [밑바닥부터 만드는 컴파일러 in Go](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=277194800)
