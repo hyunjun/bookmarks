@@ -113,6 +113,7 @@ Json
 * [인증 토큰, 세션을 가장 안전하게 저장하는 방법. | 블로그 | 딩그르르](https://dingrr.com/blog/post/%EC%9D%B8%EC%A6%9D-%ED%86%A0%ED%81%B0-%EC%84%B8%EC%85%98%EC%9D%84-%EA%B0%80%EC%9E%A5-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EC%A0%80%EC%9E%A5%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95)
 * [Node.js JWT: Access Token & Refresh Token 인증 구현 — TaxFree](https://cotak.tistory.com/102)
 * [쉽게 알아보는 서버 인증 2편(Access Token + Refresh Token) — 그랩의 블로그](https://tansfil.tistory.com/59)
+* [직접 만들어보며 이해하는 JWT](https://hudi.blog/self-made-jwt/)
 
 ## JWT Python
 * [JSON Web Token Tutorial with Example in Python](https://blog.apcelent.com/json-web-token-tutorial-with-example-in-python.html)
