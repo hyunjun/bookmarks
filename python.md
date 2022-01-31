@@ -1136,6 +1136,7 @@ Python
   * [copyreg로 pickle을 신뢰할 수 있게 하기](http://brownbears.tistory.com/241)
   * [강의노트 04. 파이썬 pickle 모듈](https://wayhome25.github.io/cs/2017/04/04/cs-04/)
   * [파이썬 pickle 기본 문법 #19](https://stricky.tistory.com/404)
+  * [**cloudpickle: Extended pickling support for Python objects**](https://github.com/cloudpipe/cloudpickle)
 * print
   * [PYTHON 디버깅: `PRINT` 함수 가로채기](http://ds.sumeun.org/?p=2119)
   * [Print() in Python. A guide to printing and formatting your… | by Keno Leon | Medium](https://medium.com/@k3no/print-in-python-389aea412c1f) wkhtmltopdf, Pdfkit
