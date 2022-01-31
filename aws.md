@@ -1207,6 +1207,9 @@ AWS
 * [AWS에 카프카 클러스터 설치하기(ec2, 3 brokers)](https://blog.voidmainvoid.net/325)
 * [Migrating to AWS Managed Streaming Kafka (MSK) | by Sandeep Mehta | softrock.io | Jan, 2022 | Medium](https://medium.com/softrock-io/migrating-to-aws-managed-streaming-kafka-msk-9b29d0137287)
 
+# News
+* [AWS open source news and updates, #98 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-98-55gi)
+
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
 * [R로 AWS Lambda에서 Rest API 만들기](https://www.notion.so/R-AWS-Lambda-Rest-API-33d4231753b148a487b4ad26a232d9a4)
