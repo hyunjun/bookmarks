@@ -3371,6 +3371,7 @@ Programming
 * [Uber’s Real-Time Push Platform | Uber Engineering Blog](https://eng.uber.com/real-time-push-platform/)
 * [wavve 뽀로로 사태를 점검합니다](https://jybaek.tistory.com/894)
 * [네이버클라우드 Live Commerce on NAVER Cloud Platform (라이브커머스 세미나 Full ver.) - YouTube](https://www.youtube.com/watch?v=QzBtMHDtH3k)
+* [From Batch to Streams: Building Value from Data In-Motion - YouTube](https://www.youtube.com/watch?v=rsCiGtYLVbY)
 
 ## Real Time Processing, Streaming Library
 * [Apache Heron · A realtime, distributed, fault-tolerant stream processing engine](https://heron.incubator.apache.org/)
