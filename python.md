@@ -4114,6 +4114,7 @@ Python
   * [Managing Python Environments Like a Pro | by Pratik Choudhari | Sep, 2021 | Towards Data Science](https://towardsdatascience.com/managing-python-environments-like-a-pro-4d8ad1d5b80)
 
 ## Library parallel
+* [High Performance Python - YouTube](https://www.youtube.com/watch?v=HhV6yzKXqFU) coiled, numba, dask, rapids
 * [Parallel Processing in Python || Aaron Richter - YouTube](https://www.youtube.com/watch?v=L6jti_WXKKw)
 * [**Dask**](https://dask.org/) Dask provides advanced parallelism for analytics, enabling performance at scale for the tools you love
   * [Out-of-Core Dataframes in Python: Dask and OpenStreetMap](https://jakevdp.github.io/blog/2015/08/14/out-of-core-dataframes-in-python/)
