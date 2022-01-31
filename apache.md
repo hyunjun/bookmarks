@@ -882,6 +882,8 @@ Apache
   * [Machine learning & Kafka KSQL stream processing — bug me when I’ve left the heater on](https://medium.com/@simon.aubury/machine-learning-kafka-ksql-stream-processing-bug-me-when-ive-left-the-heater-on-bd47540cd1e8)
   * [아파치 카프카 테스트용 data generator 소개 - ksql-datagen](https://blog.voidmainvoid.net/269)
   * [KSQL - 효과적이고 간단한 스트리밍 프로세스 SQL엔진](https://www.slideshare.net/WonyoungChoi2/ksql-sql-182725060)
+  * [How to handle deserialization errors using ksqlDB](https://kafka-tutorials.confluent.io/handling-deserialization-errors/ksql.html)
+    * [ksqldb-handle-deserialization-errors: How to handle deserialization errors.](https://github.com/dbdbdeep-git/ksqldb-handle-deserialization-errors)
   * [ksqlDB - The event streaming database purpose-built for stream processing applications](https://ksqldb.io/)
     * [How Real-Time Stream Processing Safely Scales with ksqlDB](https://www.confluent.io/blog/how-real-time-stream-processing-safely-scales-with-ksqldb/)
 * [mockedstreams - Scala DSL for Unit-Testing Processing Topologies in Kafka Streams](https://github.com/jpzk/mockedstreams)
