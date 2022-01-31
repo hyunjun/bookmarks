@@ -234,6 +234,7 @@ Bitcoin
   * 그래서 블록체인의 특성이 게임 디자인에 침투되어야 한다는 의견. "맨 처음 가장 중요한 것은 블록체인이나 NFT가 필요 없는 게임에 블록체인을 억지로 끼워 넣으려고 하지 말아야 한다는 것이다."
 * ['탈중앙화된 디즈니' 만들고 있는 BAYC - T Times](http://www.ttimes.co.kr/view.html?no=2022011112377765682)
 * [어쩌다 NFT를 이해하고 싶은 당신께 | SBS 뉴스](https://news.sbs.co.kr/news/endPage.do?news_id=N1006588092)
+* [디지털 그림 NFT를 샀다는 건 그림이 아니라 영수증을 산 것이다 - 테크잇](https://techit.kr/view/?no=20220129144432)
 
 # Python
 * [A peek under Bitcoin's hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
