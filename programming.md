@@ -1454,6 +1454,7 @@ Programming
 * [Principles for Microservice Design: Think IDEALS, Rather than SOLID](https://www.infoq.com/articles/microservices-design-ideals/)
 * [The truth about starting with microservices – Arnold Galovics](https://arnoldgalovics.com/truth-about-microservices/)
 * [마이크로서비스 모니터링 전략··· 'RED'의 개념과 장단점 - CIO Korea](https://www.ciokorea.com/news/213954)
+* [Top 15 Microservices Interview Questions with Answers for 3 to 5 Years Experienced | Java67](https://www.java67.com/2021/02/microservices-interview-questions-answers-java-spring.html)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -2239,6 +2240,7 @@ Programming
 * [Slip](https://www.slip.so/)
   * [Slip - 프로그래밍 강의를 만들어서 판매하기 | GeekNews](https://news.hada.io/topic?id=4804)
 * [sololearn.com](https://www.sololearn.com/)
+* [Stepik](https://stepik.org)
 * [Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) SICP
   * [Structure and Interpretation of Computer Programs | The MIT Press](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
@@ -2335,6 +2337,7 @@ Programming
 * [Data Mesh Paradigm Shift in Data Platform Architecture](https://www.infoq.com/presentations/data-mesh-paradigm/)
 * [Taming Service-Oriented Architecture Using A Data-Oriented Service Mesh | by Adam Miskiewicz | Airbnb Engineering & Data Science | Nov, 2020 | Medium](https://medium.com/airbnb-engineering/taming-service-oriented-architecture-using-a-data-oriented-service-mesh-da771a841344)
 * [조대협의 블로그 :: 분산형 데이터 분석 아키텍처-데이터 매쉬](https://bcho.tistory.com/1379)
+* [Data Mesh: an Architectural Deep Dive - YouTube](https://www.youtube.com/watch?v=kELM4aSHFIc)
 
 # Data Pipeline
 * [Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack](https://www.infoq.com/podcasts/slack-building-resilient-data-engineering/)
@@ -2426,6 +2429,7 @@ Programming
 * [DevOps Principles - The CASM Model - YouTube](https://www.youtube.com/watch?v=VySUutlo91E)
 * [Useful CLI tools for DevOps Engineers | by Jeewan Sooriyaarachchi | Medium](https://jeewansooriyaarachchi.medium.com/useful-cli-tools-for-devops-engineers-9135db91725b) AWS CLI, Azure CLI, Gcloud tool, fzf, kubectx, kubens, stern, awsp, tfenv, tgenv, aws-vault, Setup bash PS1, Kube-ps1, Github cli, docker-credential-helper-ecr, helm-switcher
 * [Top 5 Books to Learn DevOps in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/04/top-5-books-to-learn-devops-for-developers.html)
+* [Containerization In DevOps Explained | Review N Prep](https://reviewnprep.com/blog/containerization-in-devops-explained/)
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
   * GitHub, Jira 등의 도구를 연결해서 데이터를 수집한 뒤 이를 시각화해서 사용할 수 있는 데이터 레이크 및 대시보드
   * [DevLake - DevOps를 위한 오픈소스 Data Lake | GeekNews](https://news.hada.io/topic?id=5442)
@@ -2697,6 +2701,7 @@ Programming
 
 # Mobile
 * [더북(TheBook): 모두의 앱 인벤터](https://thebook.io/080226/)
+* [Code on Mobile : C and Other Programming Languages. - YouTube](https://www.youtube.com/watch?v=7gZdAks-xaw) mobile compiler
 * jamkit
   * [Jamkit for Developer](https://bookjam.github.io/jamkit/)
   * [잼킷으로 미니앱 개발하기](https://opentutorials.org/course/4780)
@@ -3531,6 +3536,7 @@ Programming
 * [현장에서 사용하는 Software production](https://www.slideshare.net/brotherjinho/software-production-157160056)
 * [How to Add New Features to Your App in Production and Not Ruin Anything](https://medium.com/quick-code/how-to-add-new-features-to-your-app-in-production-and-not-ruin-anything-da2c6dfb6fc2)
 * [Software Engineering at Google: Practices, Tools, Values, and Culture](https://www.infoq.com/articles/software-engineering-google/)
+* [Netflix: A Culture of Learning. Martin Tingley with Wenjing Zheng… | by Netflix Technology Blog | Jan, 2022 | Netflix TechBlog](https://netflixtechblog.com/netflix-a-culture-of-learning-394bc7d0f94c)
 * [What I learned from Software Engineering at Google | Swizec Teller](https://swizec.com/blog/what-i-learned-from-software-engineering-at-google/)
 * [뉴스 서비스, iOS 시작부터 출시까지 (OpenCMS) – Place Of 42Seoul Story](https://42place.innovationacademy.kr/archives/9307) 자세한 이야기는 없지만 정말 대단한 일
 * [오늘의집 개발 프로젝트 런칭 어떻게 하나 - 오늘의집 블로그](https://www.bucketplace.co.kr/post/2021-09-16-%EC%98%A4%EB%8A%98%EC%9D%98%EC%A7%91-%EA%B0%9C%EB%B0%9C-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%EB%9F%B0%EC%B9%AD-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%98%EB%82%98/)
