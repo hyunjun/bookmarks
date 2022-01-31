@@ -190,6 +190,8 @@ Java
       * [java linkedhashmap: 해시맵과 비교해서 어떤 점이 오버헤드가 걸리는지 알아봅시다](https://codingdog.tistory.com/entry/java-linkedhashmap-%ED%95%B4%EC%8B%9C%EB%A7%B5%EA%B3%BC-%EB%B9%84%EA%B5%90%ED%95%B4%EC%84%9C-%EC%96%B4%EB%96%A4-%EC%A0%90%EC%9D%B4-%EC%98%A4%EB%B2%84%ED%97%A4%EB%93%9C%EA%B0%80-%EA%B1%B8%EB%A6%AC%EB%8A%94%EC%A7%80-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
       * [해시맵에 있는 tiebreakorder는 어떤 메소드일까요?](https://codingdog.tistory.com/entry/%ED%95%B4%EC%8B%9C%EB%A7%B5%EC%97%90-%EC%9E%88%EB%8A%94-tiebreakorder%EB%8A%94-%EC%96%B4%EB%96%A4-%EB%A9%94%EC%86%8C%EB%93%9C%EC%9D%BC%EA%B9%8C%EC%9A%94)
       * [Most Loved Interview Question: How HashMap Works in Java - CodersTea](https://www.coderstea.com/post/java/most-loved-interview-question-how-hashmap-works-in-java/)
+      * [How HashMap works in Java](https://javarevisited.blogspot.com/2011/02/how-hashmap-works-in-java.html)
+      * [How to check if a Key Object Exists in HashMap Java? containsKey() Example Tutorial | Java67](https://www.java67.com/2019/01/how-to-check-if-key-exits-in-hashmap-in-java.html)
     * [같은 것 같지만 다른 java map get vs containskey](https://codingdog.tistory.com/entry/%EA%B0%99%EC%9D%80-%EA%B2%83-%EA%B0%99%EC%A7%80%EB%A7%8C-%EB%8B%A4%EB%A5%B8-java-map-get-vs-containskey)
     * [왜 mutable한 객체를 java map의 키 값으로 삼으면 조심해야 할까요?](https://codingdog.tistory.com/entry/%EC%99%9C-mutable%ED%95%9C-%EA%B0%9D%EC%B2%B4%EB%A5%BC-java-map%EC%9D%98-%ED%82%A4-%EA%B0%92%EC%9C%BC%EB%A1%9C-%EC%82%BC%EC%9C%BC%EB%A9%B4-%EC%A1%B0%EC%8B%AC%ED%95%B4%EC%95%BC-%ED%95%A0%EA%B9%8C%EC%9A%94)
     * [java map find key in value : 2개의 맵을 씁시다](https://codingdog.tistory.com/entry/java-map-find-key-in-value-2%EA%B0%9C%EC%9D%98-%EB%A7%B5%EC%9D%84-%EC%94%81%EC%8B%9C%EB%8B%A4)
@@ -327,6 +329,7 @@ Java
   * [java string trim 메서드에 대해 제대로 알아봅시다](https://codingdog.tistory.com/531)
   * [java string repeat 메서드로 쉽게 문자열을 반복해 봅시다.](https://codingdog.tistory.com/entry/java-string-repeat-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84-%EB%B0%98%EB%B3%B5%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
   * [Right way to check if String is empty in Java with Example | Java67](https://www.java67.com/2014/09/right-way-to-check-if-string-is-empty.html)
+  * [Why String is Immutable or Final in Java? Explained](https://javarevisited.blogspot.com/2010/10/why-string-is-immutable-or-final-in-java.html)
 * System
   * currentTimeMillis vs. nanoTime
     * [Measure Elapsed Time in Java](https://www.baeldung.com/java-measure-elapsed-time)
@@ -452,6 +455,7 @@ Java
 * [동시성 프로그래밍에 대하여](https://devkingdom.tistory.com/303)
 * [Difference between CountDownLatch vs CyclicBarrier in Java Multithreading | Java67](https://www.java67.com/2012/08/difference-between-countdownlatch-and-cyclicbarrier-java.html)
 * [Top 12 Java Thread, Concurrency, and Multithreading Interview Questions with Answers | Java67](https://www.java67.com/2012/08/5-thread-interview-questions-answers-in.html)
+* [# 128 Overloading of Thread class run() method | java how to overload run() method | Java|RedSysTech - YouTube](https://www.youtube.com/watch?v=C2QpuQCdnBc)
 
 ## Concurrency Parallel Thread Akka
 * [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
