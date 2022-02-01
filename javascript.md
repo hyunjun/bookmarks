@@ -2124,6 +2124,7 @@ Javascript
   * [Webpack: A gentle introduction - UI.dev](https://ui.dev/webpack/)
   * [웹팩 개발 서버로 부족하다면 webpack-dev-middleware를 사용해 보자](http://jeonghwan-kim.github.io/dev/2020/07/18/webpack-dev-middleware.html)
   * [JavaScript 번들러로 본 조선시대 붕당의 이해 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2020/08/12/History-of-JavaScript-Modules-and-Bundlers.html)
+  * [Top 5 Courses to Learn NPM and WebPack in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/12/top-5-courses-to-learn-npm-and-webpack.html)
   * [webpack.kr](https://webpack.kr/)
 
 ## Library Internationalization i18n 국제화
