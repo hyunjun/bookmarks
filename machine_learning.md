@@ -1128,6 +1128,7 @@ Machine Learning
 * [Gradio - a free, open-source python library that helps machine learning researchers interact with and share their machine learning models with collaborators and clients with only a few lines of extra code](https://gradio.app/index.html)
   * [Building A Visual Interface for Your ML Model with Gradio - Abubakar Abid | PyData Riyadh - YouTube](https://www.youtube.com/watch?v=dCbTi5ZKA9s)
     * [Introduction to Gradio Notebook (Academic).ipynb - Colaboratory](https://colab.research.google.com/drive/1BAw8QGFNqeKf1V0E3TLCzWyV6NM_qv_i)
+  * [Gradio Course - Create User Interfaces for Machine Learning Models - YouTube](https://www.youtube.com/watch?v=RiCQzBluTxU)
 * [h2o.ai](http://www.h2o.ai/) h2o, sparkling water, steam
   * [StackNet is a computational, scalable and analytical Meta modelling framework](https://github.com/kaz-Anova/StackNet)
   * [H2O for Inexperienced Users](https://www.h2o.ai/blog/h2o-for-inexperienced-users/)
