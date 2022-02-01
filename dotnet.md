@@ -65,6 +65,7 @@
 * [Why .NET Technologies Are (And Will Keep) Powering our Application](https://medium.freecodecamp.org/why-net-technologies-are-and-will-keep-powering-our-application-9935a0ba074b)
 * [ASP.NET Core: Saturating 10GbE at 7+ million request/s](https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/)
 * [ASP.NET이 리액트 보다 인기가 많다고? feat. 스택오버플로우](https://www.youtube.com/watch?v=4oKtZ9v0IVk)
+* [Learn Live - Instrument a cloud-native ASP.NET Core microservice - YouTube](https://www.youtube.com/watch?v=hAeup0sKctM)
 * [sysnet.pe.kr](https://www.sysnet.pe.kr)
 * [C/C++ 코딩 스타일](https://surpreem.com/c-c-%EC%BD%94%EB%94%A9-%EC%8A%A4%ED%83%80%EC%9D%BC/)
 * [Dll을 이용하여 배달대행 주문정보 연동](http://woowabros.github.io/study/2019/06/27/delivery-dll-relaytion.html)
