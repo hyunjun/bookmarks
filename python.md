@@ -3465,6 +3465,7 @@ Python
   * [High Performance Data Processing in Python || Donald Whyte](https://www.youtube.com/watch?v=nmYyISMdOqY) numpy & numba
     * [High Performance Data Processing in Python](https://github.com/DonaldWhyte/high-performance-data-processing-in-python)
   * [Massively Speed-Up Python Code With Numba Compilation - YouTube](https://www.youtube.com/watch?v=bZ5G-RZoE6Q)
+  * [Make Python code 1000x Faster with Numba - YouTube](https://www.youtube.com/watch?v=x58W9A2lnQc)
 * [Nuitka - the extremely compatible Python compiler](http://nuitka.net/)
   * [Nuitka - a Python compiler written in Python. It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, and 3.9. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module](https://github.com/Nuitka/Nuitka)
 * OpenBCI [On Brain-Computer Interfaces and Explainable Workflows using Python | PyData Boston Meetup - YouTube](https://www.youtube.com/watch?v=aFr-pdgZVmE) BrainWave
