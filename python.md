@@ -856,6 +856,7 @@ Python
   * [How to Create a Generator in Python](https://medium.com/better-programming/how-to-create-a-generator-in-python-5ee587621879)
   * [Optimize python code with generators - Chetan Mishra - Medium](https://medium.com/@chetaniam/optimize-python-code-with-generators-aef839996ee4)
   * [파이썬 generator는 어떻게 실행 위치를 기억하고 있을까요?](https://codingdog.tistory.com/entry/%ED%8C%8C%EC%9D%B4%EC%8D%AC-generator%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%8B%A4%ED%96%89-%EC%9C%84%EC%B9%98%EB%A5%BC-%EA%B8%B0%EC%96%B5%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94)
+  * [BayPiggies June 2021: Fun with Generators - YouTube](https://www.youtube.com/watch?v=yTNIySqK1Uo)
 * globals [Alternatives to Using Globals in Python | by Keno Leon | Better Programming | Medium](https://medium.com/better-programming/alternatives-to-using-globals-in-python-a3b2a7d5411b)
 * hash
   * [입 개발 Python 3.3 부터는 hash 결과가 프로세스 마다 달라요!!!](https://charsyam.wordpress.com/2018/01/29/%EC%9E%85-%EA%B0%9C%EB%B0%9C-python-3-3-%EB%B6%80%ED%84%B0%EB%8A%94-hash-%EA%B2%B0%EA%B3%BC%EA%B0%80-%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4-%EB%A7%88%EB%8B%A4-%EB%8B%AC%EB%9D%BC%EC%9A%94/)
@@ -2047,7 +2048,6 @@ Python
 * [Using Gabbi and Hypothesis to Test Django APIs](http://wildfish.com/blog/2015/10/01/using-gabbi-and-hypothesis-test-django-apis/)
 * [The Django Test Driven Development Cookbook - Singapore Djangonauts](https://www.youtube.com/watch?v=41ek3VNx_6Q)
 * [테스트 초보의 테스트 삽질기 with django](http://blog.leop0ld.org/posts/newbie-tests-view-in-django/)
-* [Django 에서 pytest 사용하기 - 'pytest와 pytest-django 시작하기' 번역](https://cjh5414.github.io/pytest-django-tutorial/)
 * [테스트 초보의 테스트 삽질기 with Django](https://leop0ld.github.io/django/2017/04/12/newbie-tests-view-in-django.html)
 * [한종원: Django API Server Unit Test and Remote Debugging](https://www.youtube.com/watch?v=Tduj9BxNqBA)
   * [20170813 django api server unit test and remote debugging](https://www.slideshare.net/addnull/20170813-django-api-server-unit-test-and-remote-debugging)
@@ -2307,6 +2307,9 @@ Python
   * [Python/Django 웹서비스 5년간의 개발 운영 경험기. 안정호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=r6c9Us0vgRg)
   * [drf-yasg](https://drf-yasg.readthedocs.io/)
 * [kolo: See everything happening in your running Django app. All without leaving VSCode](https://github.com/kolofordjango/kolo)
+* pytest-django
+  * [Django 에서 pytest 사용하기 - 'pytest와 pytest-django 시작하기' 번역](https://cjh5414.github.io/pytest-django-tutorial/)
+  * [pytest-django 셋업하기 2022-02-01 재활코딩 - YouTube](https://www.youtube.com/watch?v=vQjZ7JFBYnM)
 * [python-social-auth/social-app-django: Python Social Auth - Application - Django](https://github.com/python-social-auth/social-app-django)
 * Wagtail [Django Content Management System | Wagtail CMS](https://wagtail.io/)
 
@@ -2912,6 +2915,9 @@ Python
 * [Emacs IPython Notebook](http://tkf.github.io/emacs-ipython-notebook/)
 * [handcalcs: Python library for converting Python calculations into rendered latex](https://github.com/connorferster/handcalcs)
 * [Hydrogen - an interactive coding environment that supports Python, R, JavaScript and other Jupyter kernels](https://nteract.gitbooks.io/hydrogen/)
+* [ipython-sql · PyPI](https://pypi.org/project/ipython-sql/)
+  * [jupyter lab에서 ipython-sql로 DB 접속하기(SQL Server, MySQL, postgreSQL) :: 박범준](https://95pbj.tistory.com/47)
+  * [R, Python 분석과 프로그래밍의 친구 (by R Friend) :: PostgreSQL, Greenplum ipython-sql로 Jupyter Notebook에서 SQL query한 결과를 pandas DataFrame으로 가져오는 3가지 방법](https://rfriend.tistory.com/579)
 * ipytracer [알고리즘 시각화 라이브러리 ipytracer 개발기](https://www.slideshare.net/Sn0wLe0pard/ipytracer)
 * [ipywidgets](https://ipywidgets.readthedocs.io)
   * [How to Create a Drop-Down Menu and a Slide Bar for your Favorite Visualization Tool](https://towardsdatascience.com/how-to-create-a-drop-down-menu-and-a-slide-bar-for-your-favorite-visualization-tool-3a50b7c9ea01)
