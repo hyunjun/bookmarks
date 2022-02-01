@@ -743,6 +743,7 @@ Data Science
   * 표현할 데이터 범주의 영역이 넓거나 데이터가 복잡하다면 Embedding을 더 많이 사용
   * 콘텐츠 기반 필터링은 소비 이력이 없어도 아이템 정보만 있으면 추천할 수 있다는 장점이 있지만, 소비 이력 데이터가 충분하다면 협업 필터링보다 추천 성능이 밀린다고 함
 * [Recsperts - Recommender Systems Experts](https://www.recsperts.com/)
+* [컨텐츠 기반 필터링 구축기: MiniLM, ScaNN 그리고 TFServing - The Highlights - 라이너 팀 블로그](https://blog.getliner.com/%EC%BB%A8%ED%85%90%EC%B8%A0-%EA%B8%B0%EB%B0%98-%ED%95%84%ED%84%B0%EB%A7%81-%EA%B5%AC%EC%B6%95%EA%B8%B0-minilm-scann-%EA%B7%B8%EB%A6%AC%EA%B3%A0-tfserving/)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
