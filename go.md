@@ -45,6 +45,7 @@ Go
 * [Using Go's interfaces at Clever - more than just easy collaboration](http://engineering.clever.com/2015/04/17/using-gos-interfaces-at-clever---more-than-just-easy-collaboration/)
 * [Go: Understand the Empty Interface](https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72)
 * [map\[string\]interface{} in Go — Bitfield Consulting](https://bitfieldconsulting.com/golang/map-string-interface)
+* [Interfaces Example in Go. If it walks like a duck and it quacks… | by Jerry An | Jan, 2022 | Medium](https://jerryan.medium.com/interfaces-example-in-go-ca34a7ec001d)
 * [java vs. go performance](http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=java&lang2=go)
 * [Java, Go 성능 테스트 비교 글을 보고](https://www.popit.kr/java-go-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90-%EA%B8%80%EC%9D%84-%EB%B3%B4%EA%B3%A0/)
 * [Replacing Rails: Part 1 "Lets Go!"](http://madebymany.com/blog/replacing-rails-part-1-lets-go)
@@ -54,6 +55,7 @@ Go
 * [go get {command-line-tool} FAILED](https://libsora.so/posts/golang-hugo-is-down/)
 * [구글 고(Go)의 위력을 입증하는 오픈소스 프로젝트 10가지](http://www.ciokorea.com/print/22991)
 * [Distributed Read-Write Mutex in Go](https://github.com/jonhoo/drwmutex)
+* [Mutex Examples in Go. Use Examples to Better Understand Mutex… | by Jerry An | Jan, 2022 | Level Up Coding](https://levelup.gitconnected.com/mutex-examples-in-go-ad7c440461a4)
 * [Using Go at The New York Times](https://www.youtube.com/watch?v=bAQ9ShmXYLY)
 * [Four Days of Go](http://www.evanmiller.org/four-days-of-go.html)
 * [Why Go for Decision Trees?](http://datascience.systemsbiology.net/tag/cloudforest/)
@@ -176,10 +178,6 @@ Go
 * [Interactive Go programming with Jupyter](https://towardsdatascience.com/interactive-go-programming-with-jupyter-93fbf089aff1)
 * [golang: Explicit is better than implicit?](https://medium.com/@leejongsoo/golang-explicit-is-better-than-implicit-f6184e684922)
 * [The beauty of Go](https://hackernoon.com/the-beauty-of-go-98057e3f0a7d)
-* React, Go로 만든 WordPress 읽기 서비스 구축 사례
-  * [1편 개요](https://www.popit.kr/react-go%EB%A1%9C-%EB%A7%8C%EB%93%A0-wordpress-%EC%9D%BD%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-1%ED%8E%B8-%EA%B0%9C%EC%9A%94/)
-  * [2편 Go API 서버](https://www.popit.kr/react-go%EB%A1%9C-%EB%A7%8C%EB%93%A0-wordpress-%EC%9D%BD%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-2%ED%8E%B8-go-api-%EC%84%9C%EB%B2%84/)
-  * [3편 React 서버사이드 렌더링](https://www.popit.kr/react-%EC%84%9C%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81/)
 * [Writing Beautiful Packages in Go](https://www.youtube.com/watch?v=cmkKxNN7cs4)
 * [Everything you need to know about Packages in Go](https://medium.com/rungo/everything-you-need-to-know-about-packages-in-go-b8bac62b74cc)
 * [Golang 패키지 이름(Package Names)](https://byounghoonkim.github.io/posts/golang-package-names/)
@@ -300,6 +298,9 @@ Go
 * [Go Programming Language Installation - GO Tutorial](https://technologystrive.com/golang/go-installation/)
 * [Containerize Go + SQLite with Docker | by hüseyin nurbaki | Jan, 2022 | AWS Tip](https://awstip.com/containerize-go-sqlite-with-docker-6d7fbecd14f0)
 * [Top 6 Golang Programming Courses for Beginners to Learn in 2022 UPDATED - Best of Lot | Java67](https://www.java67.com/2019/12/top-5-courses-to-learn-go-or-golang.html)
+* [How To Watch For File Change in Golang | by Jerry An | Jan, 2022 | Level Up Coding](https://levelup.gitconnected.com/how-to-watch-for-file-change-in-golang-4d1eaa3d2964)
+* [Using Golang to Listen to and Parsing GitHub Webhooks | by Pascal Zwikirsch | Jan, 2022 | Level Up Coding](https://levelup.gitconnected.com/using-golang-to-listen-to-and-parsing-github-webhooks-1e072686b55f)
+* [Write Golang CODE FASTER in vscode | Write code faster in vscode for Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=r7sx02cuWWc)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -321,11 +322,14 @@ Go
 * [src/runtime/HACKING.md - The Go Programming Language](https://golang.org/src/runtime/HACKING.md)
   * [고언어(Golang) HACKING.md 내용 정리](https://novemberde.github.io/golang/2021/04/05/Golang-HACKING.html)
 * [golang - 특이한 init 함수 - jacking75](https://jacking75.github.io/go_init/)
+* [Go Programming | Copy function Explained | by Jerry An | Level Up Coding](https://levelup.gitconnected.com/go-programming-copy-function-explained-d0493c4a9800)
+* [Nil pointer dereference in golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=VUo4KqkzoXo)
 * array
   * [The anatomy of Arrays in Go](https://medium.com/rungo/the-anatomy-of-arrays-in-go-24429e4491b7)
   * [Go: Slice and Memory Management](https://medium.com/a-journey-with-go/go-slice-and-memory-management-670498bb52be)
   * [Golang tips: why pointers to slices are useful and how ignoring them can lead to tricky bugs](https://medium.com/swlh/golang-tips-why-pointers-to-slices-are-useful-and-how-ignoring-them-can-lead-to-tricky-bugs-cac90f72e77b)
   * [Bad Go: slices of pointers](https://medium.com/@philpearl/bad-go-slices-of-pointers-ed3c06b8bb41)
+  * [Array Manipulation in Go: Insert | Amit Biswas](https://amitbiswas.me/posts/array-manipulation-in-go-insert/)
 * [database/sql](https://golang.org/pkg/database/sql/)
   * [Golang database/sql 패키지 삽질기 - 1편 매개변수 표시자](https://www.popit.kr/golang-databasesql-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%82%BD%EC%A7%88%EA%B8%B0-1%ED%8E%B8-%EB%A7%A4%EA%B0%9C%EB%B3%80%EC%88%98-%ED%91%9C%EC%8B%9C%EC%9E%90/)
   * [Golang database/sql 패키지 삽질기 - 2편 SQLite 메모리 데이터베이스](https://www.popit.kr/golang-databasesql-%ED%8C%A8%ED%82%A4%EC%A7%80-%EC%82%BD%EC%A7%88%EA%B8%B0-2%ED%8E%B8-sqlite-%EB%A9%94%EB%AA%A8%EB%A6%AC-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4/)
@@ -349,6 +353,8 @@ Go
   * [Go encoding/json 패키지](http://blog.jeonghwan.net/dev/2019/01/18/go-encoding-json.html)
 * fmt
   * [Go fmt 패키지](http://blog.jeonghwan.net/dev/2019/01/08/go-fmt.html)
+* map
+  * [Assignment to entry in nil map in golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=whstXtUBJ0E)
 * module
   * [Part 1 - Using Go Modules](https://blog.golang.org/using-go-modules)
   * [Part 2 - Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)
@@ -448,6 +454,9 @@ Go
 * [**Goroutine 은 어떻게 동작할까? :: sungjunyoung**](https://sungjunyoung.github.io/posts/how-goroutine-works/)
 * [golang - Go 채팅 서버를 만들면서 goroutine과 channel 이해하기 - jacking75](https://jacking75.github.io/go_chatServer/)
 * [errgroup으로 goroutine 10배 잘 활용하기 | DevJin-Blog](https://devjin-blog.com/golang-errgroup-goroutine/)
+* [Limit Unbound Concurrency in Go (Part 1) | by Jerry An | Dec, 2021 | Level Up Coding](https://levelup.gitconnected.com/limit-unbound-concurrency-in-go-part-1-72f7cedf2e61)
+* [Limit Unbound Concurrency in Go (Part 2) | by Jerry An | Dec, 2021 | Level Up Coding](https://levelup.gitconnected.com/limit-unbound-concurrency-in-go-part-2-a00ada3bb50f)
+* [Limit Unbound Concurrency in Go (Part 3) | by Jerry An | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/limit-unbound-concurrency-in-go-part-3-3161791d1599)
 * [leaktest - Goroutine Leak Detector](https://github.com/fortytw2/leaktest)
 * [tistory-to-md: Tistory의 OpenAPI를 사용하여 게시글과 이미지를 MarkDown으로 백업하는 프로젝트 입니다](https://github.com/JaeSeoKim/tistory-to-md)
 
@@ -622,8 +631,6 @@ Go
   * [Ntfy - 모바일/데스크탑으로 푸시 보내기 | GeekNews](https://news.hada.io/topic?id=5647)
 * [passgo - Simple golang password manager](https://github.com/ejcx/passgo)
 * [pet : CLI Snippet Manager - Simple command-line snippet manager, written in Go](https://github.com/knqyf263/pet)
-* [pgx: PostgreSQL driver and toolkit for Go](https://github.com/jackc/pgx) database
-  * [How We Went All In on sqlc/pgx for Postgres + Go — brandur.org](https://brandur.org/sqlc)
 * [Plugins for Go](https://github.com/dullgiulio/pingo)
 * [PMC - Probabilistic Multiplicity Counting Sketch (PMC)](https://github.com/seiflotfy/pmc)
 * [QOR - the first E-commerce & CMS SDK written in Go](http://getqor.com/)
@@ -701,6 +708,11 @@ Go
 * [golang Mysql 여러줄 insert 속도 문제 - Sean - Medium](https://ykish72.medium.com/golang-mysql-%EC%97%AC%EB%9F%AC%EC%A4%84-insert-%EC%86%8D%EB%8F%84-%EB%AC%B8%EC%A0%9C-c784a7922ae7)
 * [Mysql 테스트프로그램에 C++이나 C#대신 익숙하지 않은 golang쓴 이유 | by Sean | May, 2021 | Medium](https://ykish72.medium.com/mysql-%ED%85%8C%EC%8A%A4%ED%8A%B8%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%EC%97%90-c-%EC%9D%B4%EB%82%98-c-%EB%8C%80%EC%8B%A0-%EC%9D%B5%EC%88%99%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%80-golang%EC%93%B4-%EC%9D%B4%EC%9C%A0-45d0902c979f)
 * [dalga - MySQL backed Job Scheduler with a HTTP interface https://godoc.org/github.com/cenkalti/dalga/dalga](https://github.com/cenkalti/dalga)
+
+## Library PostgreSQL
+* [Golang Connecting to Database Postgresql | Golang Postgresql Tutorial - YouTube](https://www.youtube.com/watch?v=zj12MYTrkdc)
+* [pgx: PostgreSQL driver and toolkit for Go](https://github.com/jackc/pgx)
+  * [How We Went All In on sqlc/pgx for Postgres + Go — brandur.org](https://brandur.org/sqlc)
 
 # Machine Learning
 * [Why we’re writing machine learning infrastructure in Go, not Python](https://towardsdatascience.com/why-were-writing-machine-learning-infrastructure-in-go-not-python-38d6a37e2d76)
@@ -817,6 +829,14 @@ Go
 * [Revel - A high-productivity web framework for the Go language](https://revel.github.io)
 * [vugu.org - Build a web front-end in Go that runs in your browser, today](https://www.vugu.org)
 * [web-annie: Web interface for annie](https://github.com/Dictor/web-annie) golang + vue.js download manager
+
+# Web React
+* React, Go로 만든 WordPress 읽기 서비스 구축 사례
+  * [1편 개요](https://www.popit.kr/react-go%EB%A1%9C-%EB%A7%8C%EB%93%A0-wordpress-%EC%9D%BD%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-1%ED%8E%B8-%EA%B0%9C%EC%9A%94/)
+  * [2편 Go API 서버](https://www.popit.kr/react-go%EB%A1%9C-%EB%A7%8C%EB%93%A0-wordpress-%EC%9D%BD%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-2%ED%8E%B8-go-api-%EC%84%9C%EB%B2%84/)
+  * [3편 React 서버사이드 렌더링](https://www.popit.kr/react-%EC%84%9C%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81/)
+* [Setting up the Go Project | Creating a Web APP using Golang and React - YouTube](https://www.youtube.com/watch?v=zH9izHU7oqI)
+* [Setting up the Router, Handlers, and Models in our Go Project | Creating Web APP using Go and React - YouTube](https://www.youtube.com/watch?v=1JrxfWU4Dns)
 
 # Web Restful
 * [Build RESTful API in Go and MongoDB](https://hackernoon.com/build-restful-api-in-go-and-mongodb-5e7f2ec4be94)
