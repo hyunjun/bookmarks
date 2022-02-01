@@ -753,7 +753,6 @@ Programming
 * [설계 중심의 시스템 구현](https://blog.ifunfactory.com/2016/01/29/%EC%84%A4%EA%B3%84-%EC%A4%91%EC%8B%AC%EC%9D%98-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EA%B5%AC%ED%98%84-2/)
 * [홈쇼핑처럼 개발후기](http://subicura.com/2016/05/30/likehs-develop-log.html)
 * [Sherlock: Near Real Time Search Indexing](https://tech.flipkart.com/sherlock-near-real-time-search-indexing-95519783859d) HBase, Storm, Kafka,Redis
-* [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
 * [왜 게임 서버는 오픈 전에 완벽하게 나오지 않을까?](http://www.inven.co.kr/webzine/news/?news=157823)
 * [굿닥의 테크스택에 관하여 – 1 – 서버 스택편](http://dev.goodoc.co.kr/?p=10)
 * [멜론 빅데이터 이야기](http://www.popit.kr/%EB%A9%9C%EB%A1%A0-%EB%B9%85%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%9D%B4%EC%95%BC%EA%B8%B0/)
@@ -3375,6 +3374,8 @@ Programming
 * [wavve 뽀로로 사태를 점검합니다](https://jybaek.tistory.com/894)
 * [네이버클라우드 Live Commerce on NAVER Cloud Platform (라이브커머스 세미나 Full ver.) - YouTube](https://www.youtube.com/watch?v=QzBtMHDtH3k)
 * [From Batch to Streams: Building Value from Data In-Motion - YouTube](https://www.youtube.com/watch?v=rsCiGtYLVbY)
+* [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
+* [Kappa vs Lambda Architectures and Technology Comparison - YouTube](https://www.youtube.com/watch?v=j7D29eyysDw)
 
 ## Real Time Processing, Streaming Library
 * [Apache Heron · A realtime, distributed, fault-tolerant stream processing engine](https://heron.incubator.apache.org/)
