@@ -56,6 +56,7 @@ Google Cloud Platform GCP
 * [특정 Label 별로 Billing 대시보드를 만드는 방법 2편 - Billing 정보를 BigQuery로 내보내기 - Life on Cloud](https://lifeoncloud.kr/gcp/gcp-docs/billing-dashboard-group-by-label-2/)
 * [특정 Label 별로 Billing 대시보드를 만드는 방법 3편 - 데이터 스튜디오를 사용하여 대시보드 구성하기 - Life on Cloud](https://lifeoncloud.kr/gcp/gcp-docs/billing-dashboard-group-by-label-3/)
 * [Using Explainable AI in BigQuery ML | by Christianlauer | CodeX | Jan, 2022 | Medium](https://medium.com/codex/using-explainable-ai-in-bigquery-ml-1ec9ac0a7228)
+* [**BigQuery연습.ipynb at main · serithemage/DataScienctPractice**](https://github.com/serithemage/DataScienctPractice/blob/main/BigQuery%EC%97%B0%EC%8A%B5.ipynb)
 * [The Google Cloud Developer Cheat Sheet](https://medium.com/google-cloud/the-google-cloud-developer-cheat-sheet-429775bd6d11)
 * [How to create and connect to Google Cloud Virtual Machine with SSH](https://medium.freecodecamp.org/how-to-create-and-connect-to-google-cloud-virtual-machine-with-ssh-81a68b8f74dd)
 * [AI 스피커 만들기 ( #1 )](http://jybaek.tistory.com/766)
