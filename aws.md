@@ -1034,6 +1034,7 @@ AWS
 * [AWS Lambda Layers로 함수 공통용 Python 패키지 재사용하기](https://beomi.github.io/2018/11/30/using-aws-lambda-layers-on-python3/)
 * [Serverless 프레임워크를 이용한 람다 프로그래밍 #1 | 10분 TV](http://10bun.tv/etc/serverless-aws-python3-1/)
 * [How to Write a Secure Python Serverless App on AWS Lambda | Okta Developer](https://developer.okta.com/blog/2021/07/26/python-serverless)
+* [Install Python Library in Lambda | AWS Lambda Layer - YouTube](https://www.youtube.com/watch?v=HBt8MXHcaPI)
 
 ## Lambda Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
