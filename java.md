@@ -330,6 +330,7 @@ Java
   * [java string repeat 메서드로 쉽게 문자열을 반복해 봅시다.](https://codingdog.tistory.com/entry/java-string-repeat-%EB%A9%94%EC%84%9C%EB%93%9C%EB%A1%9C-%EC%89%BD%EA%B2%8C-%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84-%EB%B0%98%EB%B3%B5%ED%95%B4-%EB%B4%85%EC%8B%9C%EB%8B%A4)
   * [Right way to check if String is empty in Java with Example | Java67](https://www.java67.com/2014/09/right-way-to-check-if-string-is-empty.html)
   * [Why String is Immutable or Final in Java? Explained](https://javarevisited.blogspot.com/2010/10/why-string-is-immutable-or-final-in-java.html)
+  * [How to remove duplicate characters from String in Java? Solved | Java67](https://www.java67.com/2019/11/how-to-remove-duplicate-characters-from-string-in-java.html)
 * System
   * currentTimeMillis vs. nanoTime
     * [Measure Elapsed Time in Java](https://www.baeldung.com/java-measure-elapsed-time)
@@ -954,6 +955,7 @@ Java
 * [Java garbage collection interview questions & answers](https://www.java-success.com/java-garbage-collection-interview-questions-and-answers/)
 * [GC progress from JDK 8 to JDK 17](https://kstefanj.github.io/2021/11/24/gc-progress-8-17.html)
 * [Detect proactively whether application’s memory is under-allocated - JAXenter](https://jaxenter.com/memory-under-allocated-176329.html)
+* [How Garbage Collection works in Java? Explained](https://javarevisited.blogspot.com/2011/04/garbage-collection-in-java.html)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 * [gctoolkit: Tool for parsing GC logs](https://github.com/microsoft/gctoolkit)
   * [Microsoft Open-Sources GCToolkit to Tap into JVM GC Logs](https://www.infoq.com/news/2021/09/msft-opensourced-gctoolkit/)
