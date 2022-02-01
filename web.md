@@ -233,6 +233,7 @@ Web
   * role로 컴포넌트나 요소 역할 정의
   * aria-required, aria-label같은 프로퍼티를 컴포넌트의 특징을 정의
 * [**브라우저의 사용자 에이전트는 왜 이렇게 복잡하게 생겼을까? - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2021/10/11/Why-User-Agent-string-is-so-complex.html)
+* [브라우저의 사용자 에이전트는 왜 이렇게 복잡하게 생겼을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1307/)
 * [Optimizing resource loading with Priority Hints](https://web.dev/priority-hints/)
   * 브라우저가 리소스를 다운로드할 때 `<head>`에 있는 `<link>`나 CSS를 먼저 다운로드받거나 뷰포트 내의 리소스를 먼저 다운로드받는 등 최적화
   * 이 우선순위 힌트를 줄 수 있는 importance 속성 설명
