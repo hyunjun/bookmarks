@@ -612,6 +612,8 @@ Programming
   * [애자일은 다음과 같은 문제를 해결해주지 않습니다](https://gist.github.com/hyunjun/355c8faecfea0367f48feb6f3148f202#file-agile_cannot-md)
 * [if(kakao)2021 – 카카오 애자일상담소를 통해 얻은 교훈 – tech.kakao.com](https://tech.kakao.com/2022/01/12/ifkakao2021-agile/)
 * [HDC현산 붕괴 사고, 수익성만 쫓은 ‘애자일 경영'이 문제였나 : 네이버 뉴스](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=001&oid=243&aid=0000021424) 이름만 애자일일뿐 전형적인 프로젝트 중심 운영의 폐해아닌가?
+* [새 판 짜는 진옥동 신한은행장…은행도 실리콘밸리처럼 일해야 | 한경닷컴](https://www.hankyung.com/economy/article/202201282323i) 과연 이건 제대로 하는 걸까?
+* [Efficiency vs Effectiveness in Agile • Aino Vonge Corry & Klaus Bucka-Lassen • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=nRBoS8T6LvU)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
@@ -2695,6 +2697,7 @@ Programming
 * [유니티와 함께하는 메타버스 입문서 | GeekNews](https://news.hada.io/topic?id=5553)
 * [당신이 탄 그 버스는 메타버스가 아니다](https://brunch.co.kr/@brunchgpjz/33)
 * [메타버스, 가지 못한 길과 다 가본 길 < 과학 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=630)
+* ["I hate the metaverse" ①](https://otterletter.com/i-hate-the-metaverse/)
 
 # Microsoft
 * [알면 놀라는 마이크로소프트의 25가지 혁신 기술](http://m.seminartoday.net/news/articleView.html?idxno=8526)
