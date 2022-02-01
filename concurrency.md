@@ -79,6 +79,7 @@ Concurrency
 * [cudaFlow: Modern C++ Programming Model for GPU Task Graph Parallelism - YouTube](https://www.youtube.com/watch?v=NwrFzWX5lnM)
 * [CuPy - A NumPy-compatible matrix library accelerated by CUDA](https://cupy.chainer.org/)
   * [Here’s How to Use CuPy to Make Numpy Over 10X Faster | by George Seif | Towards Data Science](https://towardsdatascience.com/heres-how-to-use-cupy-to-make-numpy-700x-faster-4b920dda1f56)
+* [dietgpu: GPU implementation of a fast generalized ANS (asymmetric numeral system) entropy encoder and decoder, with extensions for lossless compression of numerical and other data types in HPC/ML applications](https://github.com/facebookresearch/dietgpu)
 
 # Fiber
 * [코루틴과 파이버](https://medium.com/@jooyunghan/%EC%BD%94%EB%A3%A8%ED%8B%B4%EA%B3%BC-%ED%8C%8C%EC%9D%B4%EB%B2%84-9e93c12bce30)
