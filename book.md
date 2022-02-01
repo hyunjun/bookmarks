@@ -390,6 +390,9 @@ Book
   * 2022.01.25 터키의 아르메니아인 대학살에 대한 책
   * 마침 뉴스에서는 러시아가 우크라이나를 침공할 게 거의 확실하다는 소식이 들려온다(미 대사관 직원 및 가족 소개령)
   * 인간의 사상이나 철학의 발전은 이리도 더딘가 생각하며 무거운 마음으로 출근을 했다.
+* [메이지유신을 설계한 최후의 사무라이들](https://jh4hj.tistory.com/entry/%EB%A9%94%EC%9D%B4%EC%A7%80%EC%9C%A0%EC%8B%A0%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%9C-%EC%B5%9C%ED%9B%84%EC%9D%98-%EC%82%AC%EB%AC%B4%EB%9D%BC%EC%9D%B4%EB%93%A4)
+  * ★★★☆☆ 2022.02.01
+  * [메이지유신을 설계한 최후의 사무라이들. 그 유명한 초망굴기론이다. ‘초망’이란 우거진 풀, 잡초라는 뜻이니… | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/%EB%A9%94%EC%9D%B4%EC%A7%80%EC%9C%A0%EC%8B%A0%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%9C-%EC%B5%9C%ED%9B%84%EC%9D%98-%EC%82%AC%EB%AC%B4%EB%9D%BC%EC%9D%B4%EB%93%A4-bac9857665ca)
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
