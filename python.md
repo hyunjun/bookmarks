@@ -2613,6 +2613,7 @@ Python
   * [Connecting to a Database in Flask Using Flask-SQLAlchemy - YouTube](https://www.youtube.com/watch?v=SYG1jQYIxfQ)
   * [Intro to Flask-SQLAlchemy Queries - YouTube](https://www.youtube.com/watch?v=JKoxrqis0Co)
   * [Inserting, Updating, and Deleting from a Database in Flask-SQLAlchemy - YouTube](https://www.youtube.com/watch?v=FEyNt9iFPGc)
+  * [How to Use Flask-SQLAlchemy With Flask Blueprints - YouTube](https://www.youtube.com/watch?v=WhwU1-DLeVw)
 * [flask-sqlacodegen - 기존 DB를 Flask-SQLAlchemy ORM Model로 사용하기](https://beomi.github.io/2017/10/20/DB-To-SQLAlchemy-Model/)
 * [Flask-Validation](https://github.com/callsign-viper/Flask-Validation)
 * [Frest - the frame of the restful api server created with pallets/flask](https://github.com/h4wldev/Frest)
