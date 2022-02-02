@@ -605,6 +605,16 @@ Business
 * [C레벨 뽑으세요? C레벨 제안 받았어요? 5가지만 기억하세요. - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/clevel20211220)
 * [**Serverless로 E-Commerce 만들기 / 블랙프라이데이 트래픽 썰 / 스타트업에서 CTO는 뭘 하는 자리인가? | by Kurt Lee | Jan, 2022 | Medium**](https://medium.com/@kurtlee/serverless%EB%A1%9C-e-commerce-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%B8%94%EB%9E%99%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8D%B0%EC%9D%B4-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%8D%B0-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-cto%EB%8A%94-%EB%AD%98-%ED%95%98%EB%8A%94-%EC%9E%90%EB%A6%AC%EC%9D%B8%EA%B0%80-a6f9d9beb930)
 
+# Decision making
+* [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
+* [싸우지 않고 의사 결정을 하는 방법](https://brunch.co.kr/@svillustrated/78) 모든 옵션 작성. 데이터에 기반해 입장 정리. 각자 입장에 기반해 변증법을 이용해 토론. 동의하지 않아도 합의대로 이행
+* [의사결정 방식을 개선해서 혁신을 추진하라](https://brunch.co.kr/@graypool/276)
+* [좋은 PM이라면 늘 주의해야 할 4가지 의사결정 편향](https://brunch.co.kr/@ywkim36/20)
+* ["우리 회사 IT가 산으로 가는 신호" 잘못된 IT 의사결정 패턴 12가지 - ITWorld Korea](https://www.itworld.co.kr/news/204459)
+* [Open Decision-Making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
+* [Why Engineers Should Invest in Decision-Making Skills Early — Reforge](https://www.reforge.com/blog/technical-decision-making) leadership에만 해당하는 부분은 아님
+* [A Leader’s Framework for Decision Making](https://hbr.org/2007/11/a-leaders-framework-for-decision-making)
+
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
 * [혁신은 창조가 아닌 비용 절감에서 나온다 : 정보 비대칭과 대리인비용](http://besuccess.com/2015/02/agencycost/)
@@ -690,7 +700,6 @@ Business
 * [리더는 회의록을 직접 써야 한다](https://brunch.co.kr/@derekderek/6)
 * [뛰어난 리더는 회의를 하지 않는다](https://brunch.co.kr/@andrewlee/95)
 * [“컨센서스를 이루지 말고 의사 결정을 내려라”(1)](http://bridge.500startups.co.kr/%EC%BB%A8%EC%84%BC%EC%84%9C%EC%8A%A4%EB%A5%BC-%EC%9D%B4%EB%A3%A8%EC%A7%80-%EB%A7%90%EA%B3%A0-%EC%9D%98%EC%82%AC-%EA%B2%B0%EC%A0%95%EC%9D%84-%EB%82%B4%EB%A0%A4%EB%9D%BC1)
-* ["우리 회사 IT가 산으로 가는 신호" 잘못된 IT 의사결정 패턴 12가지 - ITWorld Korea](https://www.itworld.co.kr/news/204459)
 * [조직의 동의를 얻는 법](http://www.andrewahn.co/product/getting-to-an-yes)
 * [개발자에서 개발팀장이 되기까지 겪은 다섯가지 큰 실수](https://muchtrans.com/translations/techie-tech-lead-my-5-biggest-mistakes.ko.html)
 * [초보 개발 팀장의 1년 회고 - 좋은 팀장이 되기 위한 노력들](https://zzsza.github.io/diary/2020/04/26/novice-leader-retrospect/)
@@ -739,7 +748,6 @@ Business
 * [시작은 어디서부터 인가?](https://brunch.co.kr/@tilltue/68) 관련 서적 추천
 * [나는 무슨 수로 최고의 리더와 일하게 되었나](https://ppss.kr/archives/206018)
 * [**PM은 리더가 아니다?··· 프로젝트 관리자들의 8가지 착각**](http://www.ciokorea.com/news/146190)
-* [좋은 PM이라면 늘 주의해야 할 4가지 의사결정 편향](https://brunch.co.kr/@ywkim36/20)
 * [나는 어떤 프로덕트 매니저 유형일까?](https://brunch.co.kr/@windydog/423)
 * [Creating Balance between Product Managers & Engineers](https://www.infoq.com/presentations/balance-management-engineers/)
 * [프로덕트 오너와 프로덕트 매니저가 같이 일하면?](https://brunch.co.kr/@yongjinjinipln/91)
@@ -802,7 +810,6 @@ Business
 * [팀워크 : 팀을 위기로 만드는 리더에게는 3가지 패턴이 있대요](https://blog.naver.com/collabee/222535977963)
 * [CEO 심리학 직원들의 잦은 실수는 기강해이가 원인 아니라 리더의 무례함 때문이다 - 매일경제](https://mk.co.kr/news/business/view/2021/12/1197544)
 * [미공군의 팔로워십 육성 팁](https://hrbulletin.net/leadership/%EB%AF%B8%EA%B3%B5%EA%B5%B0%EC%9D%98-%ED%8C%94%EB%A1%9C%EC%9B%8C%EC%8B%AD-%EC%9C%A1%EC%84%B1-%ED%8C%81/) followship
-* [Why Engineers Should Invest in Decision-Making Skills Early — Reforge](https://www.reforge.com/blog/technical-decision-making) leadership에만 해당하는 부분은 아님
 * [Average Manager vs. Great Manager | by Julie Zhuo | The Year of the Looking Glass | Medium](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d) 간단한 만화로 상황에 따른 더 나은 manager의 모습을 보여줌
 * [대지진에도 멀쩡했던 후쿠시마 제 2 원전... 비결은 원전 소장의 리더십에 있었다│인터비즈 : 네이버 블로그](https://m.blog.naver.com/businessinsight/221397693111) 정보공유, 신뢰
 * [리더십 경멸받는 리더의 5가지 특징](http://moneyman.kr/archives/1308)
@@ -978,10 +985,6 @@ Business
 * [세계에서 가장 빨리 성장한 스타트업에서 배운 10가지 교훈](http://ppss.kr/archives/58263)
 * [**스타트업, 서비스 개발자가 되자**](https://subokim.wordpress.com/2016/05/24/lets-to-be-service-developer/)
 * [스타트업 3년 사용기](http://curioe.com/10)
-* [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
-* [싸우지 않고 의사 결정을 하는 방법](https://brunch.co.kr/@svillustrated/78) 모든 옵션 작성. 데이터에 기반해 입장 정리. 각자 입장에 기반해 변증법을 이용해 토론. 동의하지 않아도 합의대로 이행
-* [의사결정 방식을 개선해서 혁신을 추진하라](https://brunch.co.kr/@graypool/276)
-* [Open Decision-Making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
 * [(30) 스타트업 시대의 끝, 프로젝트의 시대의 등장](https://brunch.co.kr/@myong/43)
 * [스타트업 필독서 "서비스 디자인 씽킹"](https://brunch.co.kr/@insuk/34)
 * [5년만에 7배 성장한 글로벌 테크IPO](https://estimastory.com/2019/04/13/techipo/) 2018 Top tech IPO 10개; 중국 5, 미국 3, 스웨덴(Spotify), 네덜란드(Adyen)
