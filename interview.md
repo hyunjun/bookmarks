@@ -209,6 +209,7 @@ Interview
 * [시리즈 | 개발자 취업 가이드 - ding_coding_co](https://velog.io/@academey/series/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%B7%A8%EC%97%85%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [<한국의 고도 성장기 종말>과 <IT 기술 변화>가 낳은 '문송'](https://soprize.so/answer/392)
 * [이직에 실패한 5가지 케이스](https://brunch.co.kr/@mobiinside/3388)
+* [Ep.28 입사/이직할 스타트업을 고르는 방법 - 취업편 - YouTube](https://www.youtube.com/watch?v=euxI9vljXw8)
 * [서로 성장하는 기술 면접 만들기](https://hiddenest.dev/good-tech-interview)
   * [0. 우리는 왜 채용을 하는가?](https://hiddenest.dev/good-tech-interview-0)
   * [1. 무엇을 어떻게 확인할 것인가?](https://hiddenest.dev/good-tech-interview-1)
