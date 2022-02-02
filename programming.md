@@ -413,6 +413,10 @@ Programming
 * [Project Zero: This shouldn't have happened: A vulnerability postmortem](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
 * [AWS US-EAST-1 Outage: Postmortem and Lessons Learned](https://www.infoq.com/news/2021/12/aws-outage-postmortem/)
 * [2022년 1월 100% 할인 이벤트 장애 부검](https://tech.inflab.com/202201-event-postmortem/)
+* [Roblox Return to Service 10/28-10/31 2021 - Roblox Blog](https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/)
+  * [Roblox의 작년 73시간 장애 포스트모템 | GeekNews](https://news.hada.io/topic?id=5860)
+  * Roblox에서 작년 1월 28일에 72시간 동안 서비스가 안 된 장애의 원인과 상황을 정리한 포스트모템
+  * Consul의 새 스트리밍 기능을 도입하면서 과도한 경합으로 인한 성능 저하가 발생했고 이 문제가 Consul 내부의 구현 문제와 BoltDB의 문제였기 때문에 해당 문제를 찾아서 해결하는 데 오랜 시간 소요
 * [코딩을 배울 때 했던 실수들. 그리고 그 실수들을 피하는 법. | by Dayoon Kim | 코드스테이츠 Code States — 혁신적인 교육 부트캠프 | Nov, 2020 | Medium](https://medium.com/code-states/%EC%BD%94%EB%94%A9%EC%9D%84-%EB%B0%B0%EC%9A%B8-%EB%95%8C-%ED%96%88%EB%8D%98-%EC%8B%A4%EC%88%98%EB%93%A4-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B7%B8-%EC%8B%A4%EC%88%98%EB%93%A4%EC%9D%84-%ED%94%BC%ED%95%98%EB%8A%94-%EB%B2%95-3497a80217ff)
 * [Tech Seminar 당근마켓 성장과 개발 스택의 변화 - YouTube](https://www.youtube.com/watch?v=ELlQXruFesI)
 * [당근마켓의 푸시알림을 지탱하고 있는 Node.js 서비스. 푸시알림은 당근마켓 서비스에서 채팅, ‘키워드 알림’, ‘금주의… | by Hwasoo Cho | 당근마켓 팀블로그 | Jul, 2020 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93%EC%9D%98-%ED%91%B8%EC%8B%9C%EC%95%8C%EB%A6%BC%EC%9D%84-%EC%A7%80%ED%83%B1%ED%95%98%EA%B3%A0-%EC%9E%88%EB%8A%94-node-js-%EC%84%9C%EB%B9%84%EC%8A%A4-19023ad86fc)
@@ -1737,6 +1741,10 @@ Programming
 * [rclone: "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files](https://github.com/rclone/rclone)
   * [입 개발 rclone mount 빌드 방법 | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/12/%ec%9e%85-%ea%b0%9c%eb%b0%9c-rclone-mount-%eb%b9%8c%eb%93%9c-%eb%b0%a9%eb%b2%95/)
 * [space-cloud: Open source Firebase + Heroku to develop, scale and secure serverless apps on Kubernetes](https://github.com/spaceuptech/space-cloud)
+* [terrajet: Generate Crossplane Providers from any Terraform Provider](https://github.com/crossplane/terrajet)
+  * [Announcing 100% Cloud Service Coverage for Crossplane](https://blog.upbound.io/cloud-service-coverage/)
+    * Crossplane이 Terraform의 프로바이더에서 Crossplane 프로바이더를 생성해주는 Terrajet 작성
+    * 이를 이용해서 provider-jet-aws, provider-jet-azure, provider-jet-gcp를 제공함으로써(기존 프로바이더는 jet이 안붙어있다) 클라우드 서비스의 리소스를 모두 지원
 * Vultr [SSD VPS Servers, Cloud Servers and Cloud Hosting by Vultr - Vultr.com](https://www.vultr.com/)
 
 # Code Coverage
@@ -3079,6 +3087,7 @@ Programming
   * [기술 뉴스 #188 : 21-12-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1572)
   * [기술 뉴스 #189 : 22-01-02 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1576)
   * [기술 뉴스 #190 : 22-01-17 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1578)
+  * [기술 뉴스 #191 : 22-02-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1579)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
@@ -3443,6 +3452,7 @@ Programming
   * [노 코드 툴, ‘버블’의 A to Z | ㅍㅍㅅㅅ](https://ppss.kr/archives/247069)
 * [Lowdefy - Build internal tools with YAML | Lowdefy - Build internal tools with YAML](https://lowdefy.com/)
   * [Lowdefy - 오픈소스 Low-Code 프레임워크 | GeekNews](https://news.hada.io/topic?id=5655)
+* Quick Builder [Announcing Quick Builder, a new low-code tool for you to build location-based experiences | Google Cloud Blog](https://cloud.google.com/blog/products/maps-platform/announcing-quick-builder-new-low-code-tool-you-build-location-based-experiences)
 * [Workflow86 | Operations Automation Platform](https://www.workflow86.com/)
 
 # RPC
