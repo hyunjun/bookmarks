@@ -557,6 +557,7 @@ Docker
   * 커스텀 스크립트 -> 이미 존재하는 도구 활용
 * [Mac 업데이트 이후 Docker 실행 안될 경우](https://jojoldu.tistory.com/629)
 * [The container throttling problem](https://danluu.com/cgroup-throttling/)
+* [가상화 입문 - 가상머신과 도커를 구분하지 못하는 사람들을 위하여](https://velog.io/@skynet/%EA%B0%80%EC%83%81%ED%99%94-%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0%EA%B3%BC-%EB%8F%84%EC%BB%A4%EB%A5%BC-%EA%B5%AC%EB%B6%84%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%98%EC%97%AC)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
