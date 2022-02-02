@@ -327,6 +327,8 @@ Programming Books
 * [개발자에서 아키텍트로](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EC%84%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EB%A1%9C-76317c59165f)
   * ★★★★☆
   * [개발자에서 아키텍트로](https://jybaek.tistory.com/946)
+* [Microservices Up & Running](https://jybaek.tistory.com/933)
+  * ★★★★☆ 2022.01.31 책 두께는 얇지만 다루는 내용은 폭이 굉장히 넓으며 기술 외적인 부분도 꽤 있어서 여러 모로 좋음
 * (NOT YET) [마이크로서비스 인 액션 올바른 마이크로서비스 도입을 위한 완벽 실용서](https://wikibook.co.kr/microservices-in-action/)
 * (NOT YET) [도메인 주도 설계로 시작하는 마이크로서비스 개발 | 위키북스](https://wikibook.co.kr/ddd-msa/)
 * (NOT YET) [소프트웨어 아키텍트가 알아야할 97가지 출간!!! | Architecture 101](https://architecture101.blog/2011/04/04/publish-eva-97architect/)
@@ -335,7 +337,6 @@ Programming Books
 * (NOT YET) [《가상 면접 사례로 배우는 대규모 시스템 설계 기초》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/07/22/%E3%80%8A%EA%B0%80%EC%83%81-%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EA%B8%B0%EC%B4%88/)
   * [독서광 대규모 시스템 설계 기초 - YouTube](https://www.youtube.com/watch?v=KRIY7Y_8AKY)
   * [독서광 가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://jhrogue.blogspot.com/2021/08/blog-post.html)
-* (NOT YET) [Microservices Up & Running](https://jybaek.tistory.com/933)
 * (NOT YET) [만들면서 배우는 클린 아키텍처 | 위키북스](https://wikibook.co.kr/clean-architecture/) hexagonal architecture
   * [독서광 만들면서 배우는 클린 아키텍처 (이벤트 있음)](https://jhrogue.blogspot.com/2021/12/blog-post.html)
   * [clean-architecture: 《만들면서 배우는 클린 아키텍처》 예제 코드](https://github.com/wikibook/clean-architecture)
@@ -1768,6 +1769,11 @@ Programming Books
 * [**파이썬 중급자를 위한 책 추천 – winterjung blog**](https://winterj.me/python-books-for-intermediate/)
 * [파이썬 비동기 라이브러리 Asyncio (케일럽 해팅 著, 동동구 譯, 2021)](https://jehyunlee.tistory.com/20)
   * 비동기 관련한 역사부터 자세한 예제까지 자세히 볼 수 있는 좋은 책
+* [클린 파이썬 | 에이콘출판사](http://acornpub.co.kr/book/clean-python)
+  * ★★★☆☆ 2022.02.02
+  * Django를 디장고로 번역한 책은 본 기억이 없음(Django 발음 가지고 커뮤니티에서 논란도 10년도 전에나 있었던 거 같은데)
+  * 번역 품질은 그리 좋지 않음(좋게 봐도 직역한 채로 많이 다듬지 않은 느낌)
+  * 다루는 내용 자체는 범위가 넓지만 괜찮은 편(대신 깊이는 조금 부족)
 * (NOT YET) [파이썬 웹 스크래핑](http://www.aladin.co.kr/shop/wproduct.aspx?ItemId=107637296)
   * 2017.04 탐라
 * (NOT YET) [파이썬 라이브러리를 활용한 데이터 분석(2판)](http://www.hanbit.co.kr/store/books/look.php?p_code=B6417848794)
