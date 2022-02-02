@@ -1712,6 +1712,24 @@ Javascript
   * [Mongoose(몽구스) 쿼리 빌더](https://www.zerocho.com/category/MongoDB/post/59bd148b1474c800194b695a)
   * [Develop Node.js and MongoDB Apps with Mongoose](https://www.designmycodes.com/node/develop-nodejs-and-mongodb-apps-with-mongoose.html)
   * [Mongoose Document 생성과 CRUD 구현 # NodeJS mongoDB](https://developer88.tistory.com/396)
+* [Monorepo Explained](https://monorepo.tools/)
+  * monorepo 개념 정리한 사이트
+  * monorepo는 단순히 여러 프로젝트를 한 저장소에 넣어놓은 것이 아니고 오히려 monolithic과는 반대되는 개념
+  * 보통은 팀이나 용도별로 저장소를 나눈 polyrepo를 많이 쓰는데 polyrepo는 코드 공유가 어렵고 중복 코드가 발생하고 여러 저장소에 걸친 변경사항을 적용하기도 어렵고 도구를 일관화되기 어려운 문제
+  * 대신 monorepo는 쉽게 새 프로젝트를 시작할 수 있고 프로젝트에 걸쳐서 커밋할 수 있고 버전도 통일 가능
+  * 이런 모노레포를 위해 도구가 지원하는 도구는 아래와 같은데 기능별로 Bazel, Lage, Lerna, Nx, Rush Turborepo가 어떻게 지원하는지 정리
+    * 로컬 계산 캐싱
+    * 분산 계산 캐싱
+    * 투명한 원격 실행
+    * 워크스페이스 분석
+    * 코드 쉐어링
+    * 코드 제너레이션
+    * 로컬 태스크 오케스트레이션
+    * 분산 태스크 실행
+    * 영향받는 프로젝트/패키지 탐지
+    * 의존성 그래프 시각화
+    * 일관된 도구
+    * 프로젝트 제약사항과 가시성
 * [Moment.js | Home](https://momentjs.com/)
   * [calendar-ex: this calendar app is made for improvement of react](https://github.com/hokidoki/calendar-ex)
     * [React를 이용한 Calendar Application 개요](https://hokeydokey.tistory.com/110)
@@ -1816,6 +1834,17 @@ Javascript
   * [Remix Philosophy | immigration9](https://immigration9.github.io/react,remix/2021/11/30/remix-philosophy.html)
   * [Remix is a NEW JavaScript framework you MUST try - YouTube](https://www.youtube.com/watch?v=r4B69HAOXnA)
   * [250달러짜리 리액트 유료버전을 써봤는데 (지금 무료배포중) - YouTube](https://www.youtube.com/watch?v=-KEoPDulbDk)
+  * [Remix vs Next.js | Remix](https://remix.run/blog/remix-vs-next)
+    * Remix쪽에서 쓴 글로 Next.js에서 만든 커머스 예제 페이지를 Remix로 포팅한 버전과 Remix에 맞게 완전히 재작성한 버전을 성능 비교하면서 Next.js와 어떤 차이점이 있는지 설명
+    * 아래의 특징별로 왜 빠르고 어떤 특징이 있는지 설명. Remix에서 쓴 글이지만 자세한 구조를 설명해서 Next.js와 Remix의 특징을 이해 가능
+      * Remix가 동적/정적 콘텐츠 서빙에서 Next.js보다 빠름
+      * Remix는 느린 네트워크에서도 빠른 사용자 경험 제공
+      * Remix는 자동으로 오류, 중단, 레이스 컨디션을 다루고 Next.js는 그렇지 않음
+      * Next.js는 동적 콘텐츠 서빙에서 클라이언트 자바스크립트를 권장하지만, Remix는 그렇지 않음
+      * Next.js는 데이터 조작에 클라이언트 자바스크립트를 권장하지만, Remix는 그렇지 않음
+      * Next.js는 데이터에 따라 선형적으로 빌드 시간이 증가하지만, Remix의 빌드 타임은 거의 즉각적이고 데이터에 디커플링
+      * Next.js는 애플리케이션 아키텍처를 변경하도록 강제하고 데이터가 커질 때 성능 희생
+      * Remix의 추상화가 더 좋은 애플리케이션 코드를 유도한다(고 생각)
 * reveal.js [The HTML presentation framework | reveal.js](https://revealjs.com/#/)
 * [RIBOSOME - A simple generic code generation tool](http://ribosome.ch/index.html)
 * [ritzy - Collaborative web-based rich text editor http://ritzyed.github.io/ritzy ](https://github.com/ritzyed/ritzy)
@@ -2023,6 +2052,7 @@ Javascript
   * [또 depedency 버전을 잘못 설치하고 말았다. | Hama Develop](https://www.hamadevelop.me/packagelock/)
     * npm이 의존성 관리에 이용하는 node_modules, package.json, package-lock.json의 개념과 이 각 파일의 존재 여부에 따라 의존성 설치가 어떻게 달라지는지 설명
   * [NPM에 라이브러리 배포 망해본 썰](https://velog.io/@juunini/NPM%EC%97%90-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%B0%B0%ED%8F%AC-%EB%A7%9D%ED%95%B4%EB%B3%B8-%EC%8D%B0)
+  * [흙 대신 NPM 퍼나르는 삽질 · 감자도스](https://blog.potados.com/dev/struggle-with-npm/)
   * [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/)
     * npm에서 보안 감사에 사용하는 npm audit이 문제 있다고 지적하는 글, React의 Dan Abramov 작성
     * npm aduit은 별도 명령어도 있지만 npm install을 실행했을 때도 자동 실행. 먼저 npm audit 동작 방식 설명
@@ -2040,6 +2070,12 @@ Javascript
 * [vite: Next generation frontend tooling. It's fast!](https://github.com/vitejs/vite)
   * [react CRA와 vite 실행속도, 빌드결과 용량 비교](https://blog.naver.com/pjt3591oo/222623159165)
   * [vite로 생성한 프로젝트에서 redux-toolkit(RTK) 다뤄보기](https://blog.naver.com/pjt3591oo/222628438249)
+  * [Time to Say Goodbye to Webpack?. Before we answer the big question… | by Gaurav Behere | Jan, 2022 | JavaScript in Plain English](https://javascript.plainenglish.io/time-to-say-goodbye-to-webpack-5bf06ff48823)
+    * 번들러 Vite 소개
+    * Vite는 로컬 개발에서는 최신 브라우저를 쓸꺼라고 가정하고 외부 의존성은 잘 변경되지 않으니 esbuild로 미리 번들링
+    * 소스 코드는 브라우저의 네이티브 ESM을 이용해서 요청할 때마다 변환해서 제공하는 구조
+    * 번들링을 다 하고 개발 서버를 실행하는 webpack에 비해서 로컬 개발 서버를 빠르게 실행 가능
+    * 핫 모듈 교체(HMR)에도 네이티브 ESM을 사용해서 빠르게 변경사항 적용 가능
   * [Replit - Why We Switched From Webpack To Vite](https://blog.replit.com/vite)
 * [Volta - The Hassle-Free JavaScript Tool Manager](https://volta.sh/)
 * [workerize: Run a module in a Web Worker](https://github.com/developit/workerize)
@@ -4070,6 +4106,8 @@ Javascript
 * [TypeScript에서 catch block error message 사용하기 | immigration9](https://immigration9.github.io/typescript/2022/01/09/error-typescript.html)
 * [타입스크립트 + Promise + async/await + Error = ??? · /usr/lib/libsora.so](https://if1live.github.io/posts/typescript-pitfall-of-promise-and-error/)
 * [타입스크립트 타입 체커와 관련한 깨달음 1 - Math && Programming](https://kdy1.github.io/post/2022/01/type-checker/1/)
+* [예매 현황 실시간(?) 모니터링하기 · 감자도스](https://blog.potados.com/dev/melon-ticket-watcher/)
+  * [melon-ticket-watcher: 멜론티켓 취소표 watcher](https://github.com/potados99/melon-ticket-watcher)
 * [backend: A template repository for TypeScript backend server](https://github.com/samchon/backend)
 * [CLUI - a collection of JavaScript libraries for building command-line interfaces with context-aware autocomplete](https://github.com/replit/clui)
   * [CLUI: Building a Graphical Command Line](https://blog.repl.it/clui)
