@@ -411,6 +411,7 @@ Python
     * [교육업무자동화4/10 청구서자동화4(청구서 마무리하기)](https://www.martinii.fun/131)
     * [교육업무자동화5/10 청구서자동화5(개선할 부분 찾아보기) #중급](https://www.martinii.fun/134)
     * [교육업무자동화6/10 청구서자동화6(pyinstaller로 배포하기)](https://www.martinii.fun/135)
+  * [한/글 없이 hwpx 파일의 표를 pd.DataFrame으로 추출하는 방법](https://martinii.fun/220)
   * [pyhwp - .hwp file format v5 parser in python http://pythonhosted.org/pyhwp ](https://github.com/mete0r/pyhwp)
 * [파이썬으로 한컴오피스 한글2018 조작하는 방법6 : html table태그를 아래한글 표로 옮기기](https://www.youtube.com/watch?v=zMW1Mb_0QWo)
 * [모든 프로그래밍 요구를 충족하는 12가지 파이썬](http://www.itworld.co.kr/news/132322) 여러가지 배포판 이야기
@@ -2270,6 +2271,7 @@ Python
 * [django transaction 궁금증](https://gist.github.com/cuhong/b8358cae0f5bc3198c9015fcd34bb456)
 * [Django Transaction(트랜잭션) 1편 - Request와 DB Transaction 묶기(Feat. ATOMIC_REQUESTS)](https://myjorney.tistory.com/142)
 * [Django DB Transaction 2편 - 명시적으로 transaction 활용하기. (feat. savepoint)](https://myjorney.tistory.com/146)
+* [Django DB Transaction 3편 - DB Transaction Test 코드 작성하기](https://blog.doosikbae.com/152)
 * [Daniel Feldroy - YouTube](https://www.youtube.com/c/DanielFeldroy/videos)
 * [Django 3.1 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/django-3-1-release-note-summary)
 * [Django 3.2 릴리스와 주요 변경 사항 | 44BITS](https://www.44bits.io/ko/post/django-3-2-release-note-summary)
