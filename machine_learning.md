@@ -647,6 +647,7 @@ Machine Learning
 * [Principal Component Analysis (PCA) with Python Examples — Tutorial | by Towards AI Team | Towards AI | Nov, 2020 | Medium](https://medium.com/towards-artificial-intelligence/principal-component-analysis-pca-with-python-examples-tutorial-67a917bae9aa)
 * [Principal Component Analysis explained visually](https://setosa.io/ev/principal-component-analysis/) PCA
 * [pca.ipynb - Colaboratory](https://colab.research.google.com/github/metamath1/ml-simple-works/blob/master/pca/pca.ipynb)
+* [통계 고유값과 고유벡터를 이용한 주성분 분석(PCA) - 차원축소](https://blog.naver.com/pjt3591oo/222636875246)
 * [조대협의 블로그 :: 머신러닝 파이프라인에서 데이터 전처리 방법](https://bcho.tistory.com/1380) 일반적인 이야기 + GCP 이야기
 * [Introducing Machine Learning for Developers Newsletter (ML4Devs, Issue 1) - Machine Learning for Developers](https://ml4devs.substack.com/p/001-machine-learning-for-developers-newsletter)
 * [Machine Learning vs. Traditional Software Development (ML4Devs, Issue 2) - Machine Learning for Developers](https://ml4devs.substack.com/p/002-machine-learning-vs-traditional-software)
@@ -903,6 +904,7 @@ Machine Learning
 * [learning-machine: A handbook for ML built on answers](https://github.com/rentruewang/learning-machine)
   * [A handbook for machine learning with python](https://pythonawesome.com/a-handbook-for-machine-learning-with-python/)
 * [scikit-learn MOOC](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
+* [Machine learning course: the overfitting-underfitting tradeoff in a model that generalizes - YouTube](https://www.youtube.com/watch?v=cBa9E6M9JCs)
 
 # C#
 * [C# 으로 Machine Learning ML.net - 1](http://name267.tistory.com/entry/C-%EC%9C%BC%EB%A1%9C-Machine-Learning-MLnet-1)
