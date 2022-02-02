@@ -1780,6 +1780,7 @@ NLP
 * [nlp-review: nlp review repository for jiphyeonjeon group](https://github.com/jiphyeonjeon/nlp-review)
 * [NLP with Python for Machine Learning Essential Training](https://www.linkedin.com/learning/nlp-with-python-for-machine-learning-essential-training)
 * [1/13~13/13 모음 국민청원으로 파이썬 자연어처리 입문하기 - YouTube](https://www.youtube.com/watch?v=ECr23w_B3_w)
+* [NLP Tutorial Playlist Python - YouTube](https://www.youtube.com/playlist?list=PLeo1K3hjS3uuvuAXhYjV2lMEShq2UYSwX)
 * [large-scale-lm-tutorials: Large-scale language modeling tutorials with PyTorch](https://github.com/tunib-ai/large-scale-lm-tutorials)
 
 # Twitter
