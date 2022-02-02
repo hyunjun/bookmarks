@@ -329,6 +329,20 @@ Programming Books
   * [개발자에서 아키텍트로](https://jybaek.tistory.com/946)
 * [Microservices Up & Running](https://jybaek.tistory.com/933)
   * ★★★★☆ 2022.01.31 책 두께는 얇지만 다루는 내용은 폭이 굉장히 넓으며 기술 외적인 부분도 꽤 있어서 여러 모로 좋음
+  * [Microservices Up & Running. 서비스 경계를 정할 때 다음과 같은 설계를 위해 노력해야 한다고… | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/microservices-up-running-47abdf30e0b)
+  * [Microservices Up & Running](https://jh4hj.tistory.com/entry/Microservices-Up-Running)
+  * repos
+    * [inadarei/nodebootstrap-microservice: Microservice Template for NodeBootstrap](https://github.com/inadarei/nodebootstrap-microservice)
+      * 노드 부트스트랩 템플릿의 장점은 마이크로서비스의 OAS를 완벽하게 지원한다는 것이다. 이전에 설계한 스펙을 docs/api.yml 파일에 넣어 샘플 스펙과 교체한다. 터미널에서 docs 하위폴더로 이동한 후 다음과 같이 make start 명령어를 실행한다.
+    * [implementing-microservices/ms-reservations: A sample implementation of a microservice for the O'Reilly Microservices Up and Running book](https://github.com/implementing-microservices/ms-reservations)
+    * [inadarei/microservices-workspace: Batteries-included blueprint of a comfortable development environment for a heterogenous microservices project.](https://github.com/inadarei/microservices-workspace)
+    * [implementing-microservices/microservices-workspace: Developer Workspace for O'Reilly's Microservices Up and Running Book](https://github.com/implementing-microservices/microservices-workspace)
+    * [implementing-microservices/module-aws-traefik](https://github.com/implementing-microservices/module-aws-traefik)
+    * [implementing-microservices/module-aws-db: Provisions Redis and MySQL databases for the book Microservices Up & Running](https://github.com/implementing-microservices/module-aws-db)
+    * [implementing-microservices/infra-staging-env: A Terraform based CI/CD module to build the staging environment (from the book Microservices Up & Running)](https://github.com/implementing-microservices/infra-staging-env)
+    * [november11th/infra-staging-env: A Terraform based CI/CD module to build the staging environment (from the book Microservices Up & Running)](https://github.com/november11th/infra-staging-env)
+    * [ms-flights/main.yml at master · implementing-microservices/ms-flights](https://github.com/implementing-microservices/ms-flights/blob/master/.github/workflows/main.yml)
+    * [ms-deploy/ms-flights at master · implementing-microservices/ms-deploy](https://github.com/implementing-microservices/ms-deploy/tree/master/ms-flights)
 * (NOT YET) [마이크로서비스 인 액션 올바른 마이크로서비스 도입을 위한 완벽 실용서](https://wikibook.co.kr/microservices-in-action/)
 * (NOT YET) [도메인 주도 설계로 시작하는 마이크로서비스 개발 | 위키북스](https://wikibook.co.kr/ddd-msa/)
 * (NOT YET) [소프트웨어 아키텍트가 알아야할 97가지 출간!!! | Architecture 101](https://architecture101.blog/2011/04/04/publish-eva-97architect/)
