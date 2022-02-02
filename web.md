@@ -992,6 +992,7 @@ Web
 * [개발 초보를 위한 RESTful API 설계 가이드](https://velog.io/@couchcoding/%EA%B0%9C%EB%B0%9C-%EC%B4%88%EB%B3%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-RESTful-API-%EC%84%A4%EA%B3%84-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [API Architecture — Performance Best Practices for REST APIs | by Abdul Wahab | Nov, 2021 | Medium](https://abdulrwahab.medium.com/api-architecture-performance-best-practices-for-rest-apis-1d4a5922dae1)
 * [REST API 취약점 탐지 자동화 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-rest-api-fuzzing/)
+* [Horatiu Dan - Respectful REST APIs – ‘Sunset’ and ‘Deprecation’ HTTP Headers - YouTube](https://www.youtube.com/watch?v=wnFtt0oNTLU)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
@@ -1233,6 +1234,7 @@ Web
 * [REST API (HTTP) vs Websockets - Concept Overview With Example - YouTube](https://www.youtube.com/watch?v=fG4dkrlaZAA)
 * [The WebSocket Handbook: learn about the technology behind the realtime web | Ably Blog: Data in Motion](https://ably.com/blog/introducing-the-websocket-handbook)
   * [WebSocket 핸드북(64p 영문 PDF) | GeekNews](https://news.hada.io/topic?id=5743)
+* [오늘의 테크용어 : 웹소켓이 뭐냐면 - YouTube](https://www.youtube.com/watch?v=yXPCg5eupGM)
 * [WAMP - an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
 
 # WSGI
