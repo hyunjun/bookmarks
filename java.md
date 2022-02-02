@@ -1366,6 +1366,7 @@ Java
 * [MultipleBagFetchException 발생시 해결 방법](https://jojoldu.tistory.com/457)
 * [Optional 클래스 사용하기](https://dbbymoon.tistory.com/3)
 * [**Java Optional 바르게 쓰기 - 뒤태지존의 끄적거림**](http://homoefficio.github.io/2019/10/03/Java-Optional-%EB%B0%94%EB%A5%B4%EA%B2%8C-%EC%93%B0%EA%B8%B0)
+* [Mohamed Taman - Do you use Optional class as it should be? - YouTube](https://www.youtube.com/watch?v=_O81ve3ChG0)
 * [더티 체킹 (Dirty Checking)이란?](https://jojoldu.tistory.com/415)
 * [응? 이게 왜 롤백되는거지?](http://woowabros.github.io/experience/2019/01/29/exception-in-transaction.html) isGlobalRollbackOnParticipationFailure
 * [정확히 트랜잭션이 롤백 되었을 때 장바구니를 복원하기 -TransactionSynchronization afterCompletion (Rollback hook)](https://tjdrnr05571.tistory.com/9)
