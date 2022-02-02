@@ -118,6 +118,7 @@ Flutter
 * [Flutter 2.5 Recap in 6 Minutes - YouTube](https://www.youtube.com/watch?v=7l3uIqnPhf8)
 * [지식iN 앱을 Flutter로 개발하는 이유](https://d2.naver.com/helloworld/3384599)
 * [Flutter 기반의 모바일 앱 재개발 회고 :: GS Retail Engineering](https://gsretail.tistory.com/7)
+* [10 minutes to build a game in Flutter - YouTube](https://www.youtube.com/watch?v=G1l8U8DTkvk)
 
 # Conference, Meetup
 * [NAVER Tech Talk: Flutter meetup](https://d2.naver.com/news/9527890)
