@@ -4312,6 +4312,8 @@ Python
   * [EINSUM IS ALL YOU NEED - EINSTEIN SUMMATION IN DEEP LEARNING](https://rockt.github.io/2018/04/30/einsum)
   * [Einsum에 대해 간략한 정리](https://ita9naiwa.github.io/numeric%20calculation/2018/11/10/Einsum.html)
   * [A.1 아인슈타인 표기법](https://datascienceschool.net/view-notebook/ed9434dc0294477fa54b34c27156c934/)
+* [F2PY user guide and reference manual — NumPy v1.22 Manual](https://numpy.org/doc/stable/f2py/)
+  * [Fast Python - Numba, Cython, F2py: O que são e qual é mais rápido? - YouTube](https://www.youtube.com/watch?v=ikNu1S1t3CA)
 * [JAX reference documentation — JAX documentation](https://jax.readthedocs.io/)
   * [GitHub - google/jax: Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more](https://github.com/google/jax)
   * [Google Jax - 고성능 머신러닝 라이브러리 | GeekNews](https://news.hada.io/topic?id=5556)
