@@ -113,6 +113,7 @@ Apache
 * [Apache Camel 소개](https://medium.com/@OutOfBedlam/apache-camel-%EC%86%8C%EA%B0%9C-1b20e6e12a93)
 * [Streaming in the Cloud With Camel and Strimzi](http://blog.joshdreagan.com/2019/05/30/streaming_in_the_cloud_with_camel_and_strimzi/)
 * [How Apache Camel simplified our process integrations](https://medium.com/trendyol-tech/how-apache-camel-simplified-our-process-integrations-9e17d0251650)
+* [Top 5 Courses to Learn Apache Camel in 2022 - Best of Lot](https://javarevisited.blogspot.com/2022/02/top-5-courses-to-learn-apache-camel-in.html)
 
 # Commons
 * [Commons](https://commons.apache.org/)
