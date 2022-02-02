@@ -518,8 +518,11 @@ NoSQL
 * [The Open Source Alternative to Firebase. | The Open Source Firebase Alternative | Supabase](https://supabase.io/)
 * [Supabase 공개 베타 시작 - 오픈소스 Firebase 대체제 | GeekNews](https://news.hada.io/topic?id=3347)
 
-# Tarantool - Get your data in RAM. Get compute close to data. Enjoy the performance
-* [Tarantool - Get your data in RAM. Get compute close to data. Enjoy the performance](http://tarantool.org/)
+# Tarantool
+* [Tarantool, an in-memory computing platform](https://www.tarantool.io/)
+* [Synchronous Replication in Tarantool (Part 1) - DZone Database](https://dzone.com/articles/synchronous-replication-in-tarantool-part-1)
+* [Synchronous Replication in Tarantool (Part 2) - DZone Database](https://dzone.com/articles/synchronous-replication-in-tarantool-part-2)
+* [Synchronous Replication in Tarantool (Part 3) - DZone Database](https://dzone.com/articles/synchronous-replication-in-tarantool-part-3)
 
 # Terracotta
 * [Terracotta](http://terracotta.org/products/bigmemory)
