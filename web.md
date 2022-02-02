@@ -548,6 +548,9 @@ Web
   * 이를 이용해서 많은 중간 지점을 css gradient 함수에 전달해서 자연스럽게 표현되도록 한 방법을 설명, 이를 활용할 수 있는 Gradient Generator도 소개
 * [runtime css-in-js is not free. runtime css-in-js | by DarrenKwon | Typed 개발팀 블로그 | Dec, 2021 | Medium](https://medium.com/business-canvas/runtime-css-in-js-is-not-free-da19528e57b1)
 * [CSS 역사로 알아보는 CSS가 어려워진 이유](https://velog.io/@teo/css-history-1)
+  * 크게는 문서를 위한 스타일로 만들어진 CSS가 애플리케이션에서는 어울리지 않는 부분이 생기면서 여기에 맞춰진 새로운 스펙이 나왔지만
+  * 기존 개념이나 방법과 충돌하기도 하고 달라지기도 했기 때문에 CSS의 역사를 통해서 어떻게 발전해 왔는지를 정리한 글
+  * CSS가 만들어진 90년대부터 현재 최신 트랜드까지 깔끔하게 잘 정리되어 있고 관련 링크도 정리해 주어서 더 관심 있다면 자세히 보면서 흐름을 이해 가능
 * [Responsive Personal Portfolio Website Using HTML CSS And JavaScript - YouTube](https://www.youtube.com/watch?v=Uu8MJhtbQnY)
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
