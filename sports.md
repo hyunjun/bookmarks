@@ -148,6 +148,7 @@ Sports
 * [무엇이 그들을 MVP로 만들었는가? 세이버매트.. : 네이버블로그](https://blog.naver.com/ljsmessi/222595268476)
 * ['MLB Stats API'라고 혹시 들어보았나요 - 야구공작소](https://yagongso.com/?p=15519)
 * [날 닮은 너: 컴패리즌 방식 비교하기 - 야구공작소](https://yagongso.com/?p=15780) similarity scores, affinity
+* [A Visualized Primer on Vertical Approach Angle (VAA) | FanGraphs Baseball](https://blogs.fangraphs.com/a-visualized-primer-on-vertical-approach-angle-vaa/)
 
 # Basketball
 * [**Basketball Terms- Terminology**](https://www.coachesclipboard.net/BasketballTerminology.html) diagram으로 court위 명칭 설명
