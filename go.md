@@ -324,7 +324,6 @@ Go
   * [고언어(Golang) HACKING.md 내용 정리](https://novemberde.github.io/golang/2021/04/05/Golang-HACKING.html)
 * [golang - 특이한 init 함수 - jacking75](https://jacking75.github.io/go_init/)
 * [Go Programming | Copy function Explained | by Jerry An | Level Up Coding](https://levelup.gitconnected.com/go-programming-copy-function-explained-d0493c4a9800)
-* [Nil pointer dereference in golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=VUo4KqkzoXo)
 * array
   * [The anatomy of Arrays in Go](https://medium.com/rungo/the-anatomy-of-arrays-in-go-24429e4491b7)
   * [Go: Slice and Memory Management](https://medium.com/a-journey-with-go/go-slice-and-memory-management-670498bb52be)
@@ -367,6 +366,9 @@ Go
   * [netaddr.IP: a new IP address type for Go · Tailscale Blog](https://tailscale.com/blog/netaddr-new-ip-type-for-go/)
 * net/http
   * [An Overview of Server-Side HTTP APIs in Go](https://medium.com/better-programming/overview-of-server-side-http-apis-in-go-44f052737e4b)
+* nil
+  * [Nil pointer dereference in golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=VUo4KqkzoXo)
+  * [Nil is not equal to Nil in Golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=I_W0CthNHvM)
 * [regexp](https://golang.org/pkg/regexp/)
   * [Regex Tester - Golang](https://regex-golang.appspot.com/assets/html/index.html)
   * [Go by Example: Regular Expressions](https://gobyexample.com/regular-expressions)
@@ -838,6 +840,7 @@ Go
   * [3편 React 서버사이드 렌더링](https://www.popit.kr/react-%EC%84%9C%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81/)
 * [Setting up the Go Project | Creating a Web APP using Golang and React - YouTube](https://www.youtube.com/watch?v=zH9izHU7oqI)
 * [Setting up the Router, Handlers, and Models in our Go Project | Creating Web APP using Go and React - YouTube](https://www.youtube.com/watch?v=1JrxfWU4Dns)
+* [Creating Simple API Route for our Project | Creating a Web App using Golang and React | Go Part 3 - YouTube](https://www.youtube.com/watch?v=mTUwnTbD1C0)
 
 # Web Restful
 * [Build RESTful API in Go and MongoDB](https://hackernoon.com/build-restful-api-in-go-and-mongodb-5e7f2ec4be94)
