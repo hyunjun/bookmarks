@@ -119,6 +119,7 @@
 * [Keep it Simple with the Strategy Design Pattern](https://blog.bitsrc.io/keep-it-simple-with-the-strategy-design-pattern-c36a14c985e9)
 * [디자인 패턴 - 소개 | Pacientes's Devlog](https://pacientes.github.io/posts/2020/11/design_pattern_introduction/)
 * [pacientes/Design-Pattern-In-Cpp: Design Pattern using C++ Language](https://github.com/pacientes/Design-Pattern-In-Cpp)
+* [Design Patterns: Facts and Misconceptions - YouTube](https://www.youtube.com/watch?v=edYk82YAaaM)
 * [Back to Basics: Object Oriented Programming - YouTube](https://www.youtube.com/watch?v=3dsCKaiC10c)
 
 # C#
