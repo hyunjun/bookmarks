@@ -1307,6 +1307,8 @@ Programming Books
   * ['자바스크립트는 왜 그모양일까' 읽기 | rinae's devlog](https://rinae.dev/posts/how-javascript-works-summary)
 * (NOT YET) [클론 코딩으로 시작하는 Next.js](https://bjpublic.tistory.com/391)
 * (NOT YET) [《이펙티브 타입스크립트: 동작 원리의 이해와 구체적인 조언 62가지》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/06/10/%e3%80%8a%ec%9d%b4%ed%8e%99%ed%8b%b0%eb%b8%8c-%ed%83%80%ec%9e%85%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8-%eb%8f%99%ec%9e%91-%ec%9b%90%eb%a6%ac%ec%9d%98-%ec%9d%b4%ed%95%b4%ec%99%80-%ea%b5%ac%ec%b2%b4/)
+* (NOT YET) [스벨트로 시작하는 웹 프런트엔드](https://bjpublic.tistory.com/435)
+  * [취준생을 위한 웹프론트앤드 - 도서 추천 (feat. 스벨트로 시작하는 웹 프런트엔드) - YouTube](https://www.youtube.com/watch?v=5STDzb_6kHw)
 
 ## Angular
 
