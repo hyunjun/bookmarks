@@ -584,6 +584,7 @@ Data Science
 * [Creating a Data Science Python Package Using Jupyter Notebook | by Abid Ali Awan | Jul, 2021 | Towards Data Science](https://towardsdatascience.com/creating-data-science-python-package-using-jupyter-notebook-6fa6e6b74a87)
 * [Why Python is best choice for Data Science? - DEV Community](https://dev.to/javinpaul/why-python-is-the-best-programming-language-for-data-science-2a29)
 * [Python for Data Science - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1kZHbJyPjsGzz7kLElYiWrV)
+* [Analyzing Data with Python - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1mXaUjc2TcIwbAkQmpArjCb)
 
 ## Python Library
 * [Any aspiring data scientist should know these Python libraries](http://www.edvancer.in/any-aspiring-data-scientist-should-know-these-python-libraries/)
