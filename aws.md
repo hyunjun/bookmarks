@@ -1194,6 +1194,7 @@ AWS
 * [Sagemaker를 이용한 후기이미지 자동검수 모델 만들기 - 박지혜(무신사), 데이터 엔지니어를 위한 알쓸신잡 - 김영익 :: 제41회 AWSKRUG DataScience모임 - YouTube](https://www.youtube.com/watch?v=qMuhF1efUso)
 * [Amazon SageMaker를 통한 대용량 모델 훈련 방법 살펴보기-김대근,최영준,AWS::AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/watch?v=csr84BKbFeg)
 * [Develop an automatic review image inspection service with Amazon SageMaker | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/develop-an-automatic-review-image-inspection-service-with-amazon-sagemaker/)
+* [Data Science using SageMaker - Machine Learning in Cloud - YouTube](https://www.youtube.com/watch?v=5DIM5ze93w8)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
 
