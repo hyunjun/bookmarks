@@ -90,6 +90,7 @@ History
   * [역사조작, 전쟁도 불러온다](https://storyfunding.daum.net/episode/1865)
 * [한국사 live](http://media.daum.net/series/113855/)
 * [국사편찬위원회](http://www.history.go.kr)
+* [맛있지도 않은데, 설에 왜 나이를 ‘먹을까’? < 인문 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=697)
 
 ## 현대
 * [2016헌나1 대통령(박근혜)탄핵](http://www.ccourt.go.kr/cckhome/kor/info/selectDiscussionVideoList.do)
