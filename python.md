@@ -461,6 +461,8 @@ Python
 * [awesome-hangul#python](https://github.com/lqez/awesome-hangul#python)
 * [hangul-toolkit - 한글 자모 분해, 조합(오토마타), 조사 붙이기, 초/중/종 분해조합, 한글/한자/영문 여부 체크 등을 지원](https://github.com/bluedisk/hangul-toolkit)
 * [hangul-utils - An integrated library for Korean language preprocessing](https://github.com/kaniblu/hangul-utils)
+* [hanja: 한글, 한자 라이브러리](https://github.com/suminb/hanja)
+  * [Hanja Hangul Project v1.0 (파이썬)](https://blog.daum.net/masoris20/187)
 * jamos_separator.py [한글 자모 분리](https://jybaek.tistory.com/790)
 * [jamotools](https://pypi.org/project/jamotools/)
 * [langdetect - Port of Google's language-detection library (version from 03/03/2014) to Python](https://github.com/Mimino666/langdetect)
