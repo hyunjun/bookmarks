@@ -1362,7 +1362,7 @@ AWS
 * [Terraform Cheat Sheet – techbeatly](https://www.techbeatly.com/terraform-cheat-sheet/)
 * [10 things I wish I knew before learning Terraform (Part 1) | by Ian Hancock | Contino Engineering | Medium](https://medium.com/contino-engineering/10-things-i-wish-i-knew-before-learning-terraform-f13637a01aa6)
 * [10 things I wish I knew before learning Terraform (Part 2) | by Ian Hancock | Contino Engineering | Nov, 2021 | Medium](https://medium.com/contino-engineering/10-things-i-wish-i-knew-before-learning-terraform-part-2-a15a3f85efb6)
-* [Terraform - Part 3 - Terraform Resource Attribute and Output Values .. Terraform Associate Exam .... - YouTube](https://www.youtube.com/watch?v=qVoMgdsvme0)
+* [Terraform Topics - YouTube](https://www.youtube.com/playlist?list=PL6nVblW4NNARObZkTMC6kPrtXb8El5vuJ)
 
 # Tutorial
 * [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
