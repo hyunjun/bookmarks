@@ -12,4 +12,5 @@
 * [하루 400억 건을 처리하는 데이터 파이프라인 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=rCbzilpjsdY)
 * [글로벌을 향한 LINE 광고 플랫폼의 도전 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=Xe1dbcFjYvA)
 * [페이스북 광고 타겟팅 3가지](https://brunch.co.kr/@glinkmedia/51)
+* [마케터가 꼭 알아두어야 할 AI 와 AI 사용방법 - 세일즈포스 (Salesforce)](https://www.salesforce.com/kr/hub/marketing/ai-for-marketers/)
 * funnel [Automated data collection & marketing reports | Funnel](https://funnel.io/)
