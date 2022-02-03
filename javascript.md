@@ -3624,6 +3624,7 @@ Javascript
   * [Next.js SSG(static site generation), SEO를 위한 meta 태그 적용하기 | by gon Kim | elecle | Dec, 2021 | Medium](https://medium.com/elecle-bike/next-js-ssg-static-site-generation-seo%EB%A5%BC-%EC%9C%84%ED%95%9C-meta-%ED%83%9C%EA%B7%B8-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-db34ebfd9d9e)
   * [🥕 Byebye Vue.js. 일레클 웹프론트팀에서는 어드민 페이지를 react기반의 next.js로… | by gon Kim | elecle | Dec, 2021 | Medium](https://medium.com/elecle-bike/byebye-vue-js-7bc0d9b00725)
   * [Next JS 실습 강좌! React를 더욱 편리하게 SEO - YouTube](https://www.youtube.com/watch?v=pdWQvfQBSGg)
+  * [8 Best Next.js Courses to Learn Online for React Developers in 2022 | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/7-best-online-courses-to-learn-next-js-for-react-developers-ced862a3864)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
