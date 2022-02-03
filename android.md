@@ -248,6 +248,7 @@ Android
 * [요약 What's New in Android Studio (Android Dev Summit '19)](http://pluu.github.io/blog/android/androiddevsummit/2019/11/07/ads19-whats-new-in-android-studio/)
 * [요약 Android Studio: Debugging Tips n' Tricks (Android Dev Summit '19)](http://pluu.github.io/blog/android/androiddevsummit/2019/11/14/ads19-android-studio-debugging/)
 * [안드로이드 스튜디오에서 Open Android module in Android Studio 메뉴가 사라졌어요!](https://www.androidhuman.com/2021-06-03-flutter_android_missing_open_android_module)
+* [Android Studio 플러그인으로 코드 자동 리팩토링하기 - SOCAR Tech Blog](https://tech.socarcorp.kr/dev/2022/02/03/refactoring-with-intellij-plugin.html)
 
 # Book
 * [더북(TheBook): 모두의 안드로이드](https://thebook.io/080219/)
