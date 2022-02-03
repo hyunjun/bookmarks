@@ -798,6 +798,7 @@ Go
 * [nomadCoders 의 Go언어 강의 스크래퍼 프로젝트](https://open-support.tistory.com/entry/nomadCoders-%EC%9D%98-Go%EC%96%B8%EC%96%B4-%EA%B0%95%EC%9D%98-%EC%8A%A4%ED%81%AC%EB%9E%98%ED%8D%BC-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8)
 * [Tucker Programming - YouTube](https://www.youtube.com/c/TuckerProgramming/videos)
 * [Golang Tutorial for Beginners | Full Go Course - YouTube](https://www.youtube.com/watch?v=yyUHQIec83I)
+* [Why learn Golang Programming Language in 2022? | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/what-is-go-or-golang-programming-language-why-learn-go-in-2020-1cbf0afc71db)
 
 # Web
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
