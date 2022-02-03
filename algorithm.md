@@ -257,6 +257,7 @@ Algorithm
 * [Algorithm – 1ambda](https://1ambda.blog/category/algorithm/)
 * [Data Structures and Algorithms Full Course with FAANG Interview Questions Solved | DS Algo Tutorial - YouTube](https://www.youtube.com/watch?v=NLDJwMLm1Q4)
 * [Data Structures Full Course | Data Structures And Algorithms Full Course | Simplilearn - YouTube](https://www.youtube.com/watch?v=_x9zPaRfEY4)
+* [Top 5 Courses to learn Data Structures and Algorithms in Python in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/11/python-data-structure-algorithm-course.html)
 * [Given N, find the smallest number with the same number of digits | CODER SITE for developers](https://codersite.dev/given-positive-number-n-find-smallest-number-same-number-digits/)
 * [Shopping options | CODER SITE for developers](https://codersite.dev/shopping-options/)
 * [Merge two Sorted Lists | CODER SITE for developers](https://codersite.dev/merge-two-sorted-lists/)
