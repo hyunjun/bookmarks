@@ -92,8 +92,10 @@ Programming Books
   * ★★★★☆ 독특하게도 프로그래밍과는 대부분 무관하거나 혹은 간접적인 이야기를 하는 프로그래머에 대한 책
   * [프로그래머의 뇌. 프로그래밍과 직접 연관된 부분은 거의 없지만, 여러가지 시사점을… | by Jun | Jan, 2022 | Medium](https://nymets.medium.com/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%87%8C-fb28e58477f2)
   * [독서광 프로그래머의 뇌](https://jhrogue.blogspot.com/2022/01/blog-post_19.html)
-* [죽을 때까지 코딩하며 사는 법 by Codong's Development Diary](https://codong.tistory.com/40)
+* [**죽을 때까지 코딩하며 사는 법 by Codong's Development Diary**](https://codong.tistory.com/40)
   * ★★★★☆ 2022.01.31
+  * [죽을 때까지 코딩하며 사는 법 | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/%E1%84%8C%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AF-%E1%84%84%E1%85%A2%E1%84%81%E1%85%A1%E1%84%8C%E1%85%B5-%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%86%E1%85%A7-%E1%84%89%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%87%E1%85%A5%E1%86%B8-b825f1b86cdd)
+  * [죽을 때까지 코딩하며 사는 법](https://jh4hj.tistory.com/entry/%E1%84%8C%E1%85%AE%E1%86%A8%E1%84%8B%E1%85%B3%E1%86%AF-%E1%84%84%E1%85%A2%E1%84%81%E1%85%A1%E1%84%8C%E1%85%B5-%E1%84%8F%E1%85%A9%E1%84%83%E1%85%B5%E1%86%BC%E1%84%92%E1%85%A1%E1%84%86%E1%85%A7-%E1%84%89%E1%85%A1%E1%84%82%E1%85%B3%E1%86%AB-%E1%84%87%E1%85%A5%E1%86%B8)
 * (NOT YET) [기획자의 글쓰기](https://jhrogue.blogspot.com/2021/11/blog-post_25.html)
 * (NOT YET) 웹 사이트 최적화 기법 웹사이트를 더 빠르게 만드는 14단계, UI 개발자를 위한 필수 지침서
 * (NOT YET) [계산기는 어떻게 인공지능이 되었을까?](http://jhrogue.blogspot.com/2019/04/blog-post_20.html)
@@ -327,7 +329,7 @@ Programming Books
 * [개발자에서 아키텍트로](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EC%84%9C-%EC%95%84%ED%82%A4%ED%85%8D%ED%8A%B8%EB%A1%9C-76317c59165f)
   * ★★★★☆
   * [개발자에서 아키텍트로](https://jybaek.tistory.com/946)
-* [Microservices Up & Running](https://jybaek.tistory.com/933)
+* [**Microservices Up & Running**](https://jybaek.tistory.com/933)
   * ★★★★☆ 2022.01.31 책 두께는 얇지만 다루는 내용은 폭이 굉장히 넓으며 기술 외적인 부분도 꽤 있어서 여러 모로 좋음
   * [Microservices Up & Running. 서비스 경계를 정할 때 다음과 같은 설계를 위해 노력해야 한다고… | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/microservices-up-running-47abdf30e0b)
   * [Microservices Up & Running](https://jh4hj.tistory.com/entry/Microservices-Up-Running)
