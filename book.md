@@ -175,6 +175,7 @@ Book
   * [말거울에 나를 비춰봅니다](https://brunch.co.kr/@graypool/300)
   * [어른답게 존중하고 존중받습니다](https://brunch.co.kr/@graypool/301)
   * [유연하게 듣고 단단하게 말합니다](https://brunch.co.kr/@graypool/302)
+* (NOT YET) [지브리의 천재들](https://butter-shower.tistory.com/228)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
