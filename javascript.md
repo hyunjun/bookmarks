@@ -729,6 +729,7 @@ Javascript
 * [Client Side Rendering vs Server Side Rendering 모르면 일단 누르세요~ - YouTube](https://www.youtube.com/watch?v=5W72UHb-9iI) CSR, SSR
 * [리액트로 알아보는 CSR(Client Side Rendering)과 SSR(Server Side Rendering)의 차이점, next 사용시 주의사항](https://blog.naver.com/pjt3591oo/222533482899)
 * [SSR? Server-Side Rendering? 그게 뭔데? | by We SeungJun | IOTRUST : Team Blog | Jul, 2021 | Medium](https://medium.com/iotrustlab/ssr-server-side-rendering-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0-22d7e918ec1)
+* [CSR vs SSR vs SSG - 콥 노트](https://ajdkfl6445.gitbook.io/study/web/csr-vs-ssr-vs-ssg) Static Site Generator(SSG), Universal Rendering, Incremental Static Regeneration (ISR)
 * [로그인 페이지 만들기 실무편 | Animated Login page Tutorial (Label Text Animation) - YouTube](https://www.youtube.com/watch?v=dWfpp-0riYA)
 * [Learn JavaScript Event Listeners In 18 Minutes - YouTube](https://www.youtube.com/watch?v=XF1_MlZ5l6M)
 * [JavaScript Eventing Deep Dive](https://web.dev/eventing-deepdive/)
