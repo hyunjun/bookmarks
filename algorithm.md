@@ -454,6 +454,7 @@ Algorithm
 * [미로에 빠진 쥐, DFS 알고리즘 코딩테스트 Python - YouTube](https://www.youtube.com/watch?v=qkFxFI_U_BA)
 * [Graphs: Depth-First Search | CODER SITE for developers](https://codersite.dev/graphs-depth-first-search/)
 * [Implement DFS traversal algorithm using python - TutsPack](https://tutspack.com/implement-dfs-traversal-algorithm-using-python/)
+* [Traverse a Graph with a Depth-First Search Algorithm | InterviewNoodle](https://medium.com/interviewnoodle/traverse-a-graph-with-a-depth-first-search-algorithm-fc6446529b93)
 * [Queue를 활용한 BFS](http://java7ang.tistory.com/8)
 * [0-1 bfs 알고리즘 : 가중치가 0과 1만 있을 때 최단거리는 어떻게 구할까요?](https://codingdog.tistory.com/entry/0-1-bfs-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B0%80%EC%A4%91%EC%B9%98%EA%B0%80-0%EA%B3%BC-1%EB%A7%8C-%EC%9E%88%EC%9D%84-%EB%95%8C-%EC%B5%9C%EB%8B%A8%EA%B1%B0%EB%A6%AC%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EA%B5%AC%ED%95%A0%EA%B9%8C%EC%9A%94)
 * [미로에 물을 쏟아 최단 경로를 구해요. BFS 알고리즘 코딩테스트 Python - YouTube](https://www.youtube.com/watch?v=R-G34E1trCk)
