@@ -47,6 +47,7 @@ Product
 * [경매에 나온 빈티지 전기자동차](http://techholic.co.kr/archives/41628)
 * [캡슐 토이를 파해쳐 보자 #2 - 후치코](https://brunch.co.kr/@jaedi/23)
 * [공기 위에 눕다, 야외용 간이 침대](http://www.earlyadopter.co.kr/68554)
+* [이런 멀티탭도 있다고? - 베스트5 - YouTube](https://www.youtube.com/watch?v=KQQxxoH39b8)
 
 # 3D printer
 * [XYZ 프린팅, 0.025mm까지 프린팅 가능한 3D프린터 노벨 1.0 출시](http://www.earlyadopter.co.kr/14222)
@@ -200,3 +201,4 @@ Product
 * [사람들을 자극한 5가지 해골, 자르 에어로 스컬 스피커 리뷰](http://www.earlyadopter.co.kr/43254)
 * [여름을 준비하는 블루투스 스피커, UE 롤](http://www.earlyadopter.co.kr/44918)
 * [건축에서 디자인 영감을 받은 블루투스 스피커](http://www.earlyadopter.co.kr/64024)
+* [이건 완전 추천할 수 밖에 없어요. 하이파이로즈 RS350 - YouTube](https://www.youtube.com/watch?v=duG6e3xOcSY)
