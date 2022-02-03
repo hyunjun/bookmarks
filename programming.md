@@ -1240,6 +1240,7 @@ Programming
 * [Service Mesh Ultimate Guide 2021 - Second Edition: Next Generation Microservices Development](https://www.infoq.com/articles/service-mesh-ultimate-guide-2021/)
 * [The Service Mesh: What Every Engineer Needs to Know about the World's Most Over-Hyped Technology](https://buoyant.io/service-mesh-manifesto/)
 * [servicemesh.es | Service Mesh Comparison](https://servicemesh.es/)
+* [Kubernetes Introduction: Service Mesh | by Joseph Eshiett | FAUN Publication](https://faun.pub/kubernetes-introduction-service-mesh-dbf1f43d359e)
 * [Introduction to Microservices](http://nginx.com/blog/introduction-to-microservices/)
 * [Write microservices from day one in monolithic style and scale your application as you go with MicroMono](http://micromono.io/)
 * [On Monoliths and Microservices](http://dev.otto.de/2015/09/30/on-monoliths-and-microservices/)
