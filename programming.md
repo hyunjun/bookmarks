@@ -621,6 +621,7 @@ Programming
 * [Efficiency vs Effectiveness in Agile • Aino Vonge Corry & Klaus Bucka-Lassen • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=nRBoS8T6LvU)
 * [OKKYCON: 2017 신정호 - 애자일은 애자일이란 단어를 버려야 한다 - YouTube](https://www.youtube.com/watch?v=sR_r2wdYBhw)
 * [Agile Korea Conference 2018 고객 접점을 담당하는 개발팀의 기민함에 관하여 신정호/우아한형제들 - YouTube](https://www.youtube.com/watch?v=qu0D5-FJklg)
+  * [Building high performance startup teams](https://rossysheil.com/building-high-performance-startup-teams/) team effectiveness & team performance, forming -> storming -> norming -> performing
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
