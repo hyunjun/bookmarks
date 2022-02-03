@@ -1233,6 +1233,7 @@ Clojure
 * [Distinction between three data related programming paradigms. | Yehonathan Sharvit](https://blog.klipse.tech/visualization/2021/02/16/data-related-paradigms.html)
 * [(λ. borkdude) 님의 트위터: "#clojure tip: You can run: (require 'foobar :reload) to just reload foobar, or: (require 'foobar :reload-all) to reload foobar + namespaces it depends on. This doesn't require any special tooling or IDEs, just a running REPL. Works in CLJS REPLs too." / 트위터](https://twitter.com/borkdude/status/1371223760020377600)
 * [REPL vs CLI: IDE wars | (:dev/notes vlaaad)](https://vlaaad.github.io/clj-vs-cli)
+* [liftIO2021 Clojure, REPL의 수퍼파워 - 그린랩스 김상현 - YouTube](https://www.youtube.com/watch?v=_nF5dexUZFg)
 * [Clem Repl Interface · GitLab](https://gitlab.com/unc-app-lab/clem-repl)
 * [dram: Interactive Clojure REPL Guides](https://github.com/BetterThanTomorrow/dram)
 * [Gorilla REPL](http://gorilla-repl.org/)
