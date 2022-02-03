@@ -329,6 +329,7 @@
 * [What's Special About Rust - YouTube](https://www.youtube.com/watch?v=YxzGp33K088)
 * [Why Rust? - YouTube](https://www.youtube.com/watch?v=0VYJFx1C91g)
 * [Lecture: Rust vs. C Programming Languages - YouTube](https://www.youtube.com/watch?v=mmJiwscpB4o)
+* [7 Best Rust Programming Courses and Books for Beginners in 2022 | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/7-best-rust-programming-courses-and-books-for-beginners-in-2021-2ed2311af46c)
 * [rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
   * 버그 수정하며 Rust 언어 배우기
   * 에러가 있는 코드를 수정하면서 Rust를 읽고 쓰는법 배우기
