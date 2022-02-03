@@ -171,6 +171,10 @@ Book
 * (NOT YET) 인구 대역전 [인플레이션과 고금리의 '30년 시대'가 오고 있다 : 네이버 뉴스](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=001&oid=002&aid=0002192823)
   * [2000년대 이후 - 미국 제조업 일자리는 왜 700만개가 사라졌을까?](https://www.facebook.com/permalink.php?story_fbid=5367750163252459&id=100000525857011)
   * [제조업 일자리 축소 – 한국, 중국은 왜 감소하고, 미국, 독일은 왜 늘어날까?](https://www.facebook.com/permalink.php?story_fbid=5365491030145039&id=100000525857011)
+* (NOT YET) [어른답게 말합니다 -강원국](https://brunch.co.kr/@sijiques/184)
+  * [말거울에 나를 비춰봅니다](https://brunch.co.kr/@graypool/300)
+  * [어른답게 존중하고 존중받습니다](https://brunch.co.kr/@graypool/301)
+  * [유연하게 듣고 단단하게 말합니다](https://brunch.co.kr/@graypool/302)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
