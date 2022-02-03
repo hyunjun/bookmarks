@@ -3151,6 +3151,7 @@ Python
 * [Top 16 Python Applications in Real-World | by Claire D. Costa | Nov, 2020 | Towards Data Science](https://towardsdatascience.com/top-16-python-applications-in-real-world-a0404111ac23)
 * [10 examples of using Python in 2020 | Opensource.com](https://opensource.com/article/20/12/python)
 * [What Can I Do With Python? – Real Python](https://realpython.com/what-can-i-do-with-python/)
+* [Top Python Libraries And Frameworks - My Guide Info](https://www.myguideinfo.com/2022/02/top-python-libraries-and-frameworks.html)
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
