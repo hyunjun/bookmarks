@@ -2445,6 +2445,7 @@ Programming
 * [Useful CLI tools for DevOps Engineers | by Jeewan Sooriyaarachchi | Medium](https://jeewansooriyaarachchi.medium.com/useful-cli-tools-for-devops-engineers-9135db91725b) AWS CLI, Azure CLI, Gcloud tool, fzf, kubectx, kubens, stern, awsp, tfenv, tgenv, aws-vault, Setup bash PS1, Kube-ps1, Github cli, docker-credential-helper-ecr, helm-switcher
 * [Top 5 Books to Learn DevOps in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/04/top-5-books-to-learn-devops-for-developers.html)
 * [Containerization In DevOps Explained | Review N Prep](https://reviewnprep.com/blog/containerization-in-devops-explained/)
+* [14 Best DevOps Courses to Learn Online in 2022 | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/13-best-courses-to-learn-devops-for-senior-developers-in-2020-a2997ff7c33c)
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
   * GitHub, Jira 등의 도구를 연결해서 데이터를 수집한 뒤 이를 시각화해서 사용할 수 있는 데이터 레이크 및 대시보드
   * [DevLake - DevOps를 위한 오픈소스 Data Lake | GeekNews](https://news.hada.io/topic?id=5442)
