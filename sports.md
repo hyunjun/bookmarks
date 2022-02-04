@@ -149,6 +149,7 @@ Sports
 * ['MLB Stats API'라고 혹시 들어보았나요 - 야구공작소](https://yagongso.com/?p=15519)
 * [날 닮은 너: 컴패리즌 방식 비교하기 - 야구공작소](https://yagongso.com/?p=15780) similarity scores, affinity
 * [A Visualized Primer on Vertical Approach Angle (VAA) | FanGraphs Baseball](https://blogs.fangraphs.com/a-visualized-primer-on-vertical-approach-angle-vaa/)
+* [피칭 동작의 역학적 변수 11가지 (톰하우스, 린제이 베라) | 코치라운드](http://coachround.com/the-11-mechanical-variables-of-the-pitching-delivery/)
 
 # Basketball
 * [**Basketball Terms- Terminology**](https://www.coachesclipboard.net/BasketballTerminology.html) diagram으로 court위 명칭 설명
