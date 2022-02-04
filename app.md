@@ -1013,6 +1013,7 @@ App
     * [Your browser and my browser see different colors | Mux blog](https://mux.com/blog/your-browser-and-my-browser-see-different-colors/) ffmpeg 자체는 아니지만 사용법 참고
     * [TIL: ffmpeg으로 비디오 채널 분리하기](https://rein.kr/blog/archives/5541)
     * [MacOS 화면 녹화하기 – 안드로메다 토끼](https://andromedarabbit.net/macos-%ed%99%94%eb%a9%b4-%eb%85%b9%ed%99%94%ed%95%98%ea%b8%b0/) 녹화 영상 크기 줄이기
+    * [FFMPEG mpdecimate parameters – kodintent](https://kodintent.wordpress.com/2020/04/19/ffmpeg-mpdecimate-parameters/)
     * [ffmpeg-screen-record-agent: ffmpeg을 이용한 화면 녹화 에이전트](https://github.com/ryujt/ffmpeg-screen-record-agent)
       * [10bun.tv](http://ffmpeg-screen-record-agent.s3-website.ap-northeast-2.amazonaws.com/) FFmpeg를 이용한 화면녹화 모듈 개발
     * [FFMPEG.WASM](https://ffmpegwasm.github.io/)
