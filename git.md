@@ -305,9 +305,10 @@ Git
 
 # Badge Readme Profile
 * [README.md 10초만에 깔끔하게 만드는 법](https://gomcine.tistory.com/entry/READMEmd-10%EC%B4%88%EB%A7%8C%EC%97%90-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95?category=624615)
+* [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)
+* [How to Create an Impressive GitHub Profile README - SitePoint](https://www.sitepoint.com/github-profile-readme/)
 * [Unlocking GitHub's Hidden Feature in 3 Minutes - YouTube](https://www.youtube.com/watch?v=0_RDoNJ1zGg)
 * [Github Profile Readme로 프로필 꾸미기 · 어쩐지 오늘은](https://zzsza.github.io/development/2020/07/10/make-github-profile-readme/)
-* [Building a self-updating profile README for GitHub](https://simonwillison.net/2020/Jul/10/self-updating-profile-readme/)
 * [github profile 예쁘게 꾸미기](https://velog.io/@woo0_hooo/Github-github-profile-%EA%B0%84%EC%A7%80%EB%82%98%EA%B2%8C-%EA%BE%B8%EB%AF%B8%EA%B8%B0)
 * [README Badge를 커스텀 해보자!](https://velog.io/@juunini/README-Badge%EB%A5%BC-%EC%BB%A4%EC%8A%A4%ED%85%80-%ED%95%B4%EB%B3%B4%EC%9E%90)
 * [Github Profile에 사용하는 Badge API 만들기 (Kaggle Badge)](https://ansubin.com/github-profile-kaggle-badge/)
