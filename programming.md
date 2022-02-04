@@ -1465,6 +1465,7 @@ Programming
 * [The truth about starting with microservices – Arnold Galovics](https://arnoldgalovics.com/truth-about-microservices/)
 * [마이크로서비스 모니터링 전략··· 'RED'의 개념과 장단점 - CIO Korea](https://www.ciokorea.com/news/213954)
 * [Top 15 Microservices Interview Questions with Answers for 3 to 5 Years Experienced | Java67](https://www.java67.com/2021/02/microservices-interview-questions-answers-java-spring.html)
+* [Strategic Monoliths & Microservices • Vaughn Vernon & James Higginbotham • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=7NAyn1DC420)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -3396,6 +3397,7 @@ Programming
 * [From Batch to Streams: Building Value from Data In-Motion - YouTube](https://www.youtube.com/watch?v=rsCiGtYLVbY)
 * [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
 * [Kappa vs Lambda Architectures and Technology Comparison - YouTube](https://www.youtube.com/watch?v=j7D29eyysDw)
+* [How to Design Realtime Data Consumption using Lambda and Kappa Architectures - YouTube](https://www.youtube.com/watch?v=wEueOJ4OSlg)
 
 ## Real Time Processing, Streaming Library
 * [Apache Heron · A realtime, distributed, fault-tolerant stream processing engine](https://heron.incubator.apache.org/)
