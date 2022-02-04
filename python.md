@@ -974,6 +974,7 @@ Python
   * [practice - recursive call does NOT work](https://github.com/hyunjun/practice/blob/master/python/test-basic/map_cannot_do_recursive_call.py)
 * match case
   * [Switch-Case is Match-Case python - Python Electroica Blog](https://blog.electroica.com/switch-case-is-match-case-python/)
+  * [The real purpose of Python's match statement, feat. CSTs - YouTube](https://www.youtube.com/watch?v=ASRqxDGutpA)
 * metaclass
   * [Python metaclasses](http://ivansmirnov.io/python-metaclasses/)
   * [python data model 이해하기](http://www.slideshare.net/dahlmoon/numpy-20160330)
