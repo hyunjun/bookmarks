@@ -845,6 +845,7 @@ Go
 * [Setting up the Go Project | Creating a Web APP using Golang and React - YouTube](https://www.youtube.com/watch?v=zH9izHU7oqI)
 * [Setting up the Router, Handlers, and Models in our Go Project | Creating Web APP using Go and React - YouTube](https://www.youtube.com/watch?v=1JrxfWU4Dns)
 * [Creating Simple API Route for our Project | Creating a Web App using Golang and React | Go Part 3 - YouTube](https://www.youtube.com/watch?v=mTUwnTbD1C0)
+* [Creating a Database Postgresql | Creating a Web APP using Golang and React| Database Part 1 - YouTube](https://www.youtube.com/watch?v=YQKdPvMt2DY)
 
 # Web Restful
 * [Build RESTful API in Go and MongoDB](https://hackernoon.com/build-restful-api-in-go-and-mongodb-5e7f2ec4be94)
