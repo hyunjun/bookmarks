@@ -745,6 +745,7 @@ Business
 * ['타고난 리더'보다 '평범한 팀장'이 더 좋은 이유 : 네이버 뉴스](https://news.naver.com/main/read.naver?sid1=110&oid=243&aid=0000014570)
 * [팀 내 갈등은 팀장의 자산(?) | ㅍㅍㅅㅅ](https://ppss.kr/archives/227487)
 * [“팀장일 때 더 잘할걸” 싶은 12가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/249822)
+* [팀장일 때 더 잘할 걸~ 싶은 12가지](https://brunch.co.kr/@moonsengwon/38)
 * [시작은 어디서부터 인가?](https://brunch.co.kr/@tilltue/68) 관련 서적 추천
 * [나는 무슨 수로 최고의 리더와 일하게 되었나](https://ppss.kr/archives/206018)
 * [**PM은 리더가 아니다?··· 프로젝트 관리자들의 8가지 착각**](http://www.ciokorea.com/news/146190)
@@ -934,6 +935,7 @@ Business
 * [**PM이 새로운 팀에 처음 한달동안 해야할 일**](https://brunch.co.kr/@yongjinjinipln/92)
 * [**PM이 가져야 할 매우 효과적인 습관**](https://jihye.oopy.io/pm/habit) 어떻게 보면 leadership에도 연결되는 부분
 * [스타트업PM 이직일기 차별화된 PM의 5가지 프로젝트 기획법 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2021/11/09/pm-project-plan/)
+* [방망이 깎던 노인처럼 문서 작성하기](https://brunch.co.kr/@soosunnaa/19)
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
