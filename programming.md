@@ -1468,6 +1468,7 @@ Programming
 * [Top 15 Microservices Interview Questions with Answers for 3 to 5 Years Experienced | Java67](https://www.java67.com/2021/02/microservices-interview-questions-answers-java-spring.html)
 * [Strategic Monoliths & Microservices • Vaughn Vernon & James Higginbotham • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=7NAyn1DC420)
 * [Top 10 Microservices design patterns and principals - YouTube](https://www.youtube.com/watch?v=MqZX1NaeFQI)
+* [Getting Started With Microservices - YouTube](https://www.youtube.com/watch?v=S8Aiqws3N5o)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
