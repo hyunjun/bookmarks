@@ -673,6 +673,7 @@ Apache
 * [Working with Data in a Connected World - Clair J. Sullivan | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=BiFKNAs4UQs)
 * [APACHE-KAFKA - YouTube](https://www.youtube.com/playlist?list=PLtsTccOGFwUJIIIMbWvHHrp83SrtbpgWU)
 * [Kafka NetworkClient Internals](https://d2.naver.com/helloworld/0853669)
+* [Apache Kafka in the Automotive Industry - YouTube](https://www.youtube.com/watch?v=rBfBFrcO-WU)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
