@@ -1777,6 +1777,7 @@ Programming
 * [구글의 깐깐한 코드리뷰 환경](http://verticalplatform.kr/archives/7945)
 * [드라마의 Pair Programming과 Code Review 도입 후기](http://blog.dramancompany.com/2016/05/%EB%93%9C%EB%9D%BC%EB%A7%88%EC%9D%98-pair-programming%EA%B3%BC-code-review-%EB%8F%84%EC%9E%85-%ED%9B%84%EA%B8%B0/)
 * [나의 페어 프로그래밍 탐험기 – tech.kakao.com](https://tech.kakao.com/2021/12/01/pair-programming/)
+* [You Must Be Crazy To Do Pair Programming • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=t92iupKHo8M)
 * [제 1회 reView meetup 참석후기](http://jojoldu.tistory.com/133)
 * [(번역) 진짜배기 코드 평가자라면 하지 말아야 할 네 가지](https://emaren84.github.io/blog/archivers/four-nos-of-serious-code-reviewer-kor)
 * [1000 개의 코드 리뷰를 통해 배운 점 (What I learned from doing 1000 code reviews)](https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f)
