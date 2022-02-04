@@ -78,6 +78,8 @@ AWS
 * [AWS Application Load Balancer algorithms | by Simon Tabor | DAZN Engineering | Medium](https://medium.com/dazn-tech/aws-application-load-balancer-algorithms-765be2eca158)
 * [ELB에 무료 SSL인증서 받아서 설정하기](https://developer88.tistory.com/313)
 * [AWS - Elastic Load Balancer (ELB) - YouTube](https://www.youtube.com/watch?v=s9FHdj6jd_U)
+* [AWS ELB 와 Ingress Controller on Kubernetes 연동하기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163593)
+* [안승규(Ahn Seungkyu)의 블로그 (Stay hungry, stay foolish) :: AWS ELB 와 Ingress Controller on Kubernetes 연동하기 (나름 최선의 방법입니다)](https://ahnseungkyu.com/290)
 * [How to solve the API-GW “30 seconds limitation” using ALB](https://hackernoon.com/how-to-solve-the-api-gw-30-seconds-limitation-using-alb-700bf3b1bd0e)
 * [클라우드에서 SQL injection 정도는 기본으로 막아줍니다](https://jybaek.tistory.com/822) cloudfront or ALB
 * [패킷 덤프를 통해 확인하는 ALB와 NLB의 차이점 (1) - ALB 동작 원리](https://alden-kang.tistory.com/6)
