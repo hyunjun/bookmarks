@@ -7,3 +7,4 @@ Speaking
 * [최고의 벤처투자자가 말하는 생각을 완벽하게 전달하는 법](https://brunch.co.kr/@rickeygo/382)
 * [어떤 상대도 사로잡는 말 잘하는 사람의 6가지 특징 – 체인지그라운드](http://thechangeground.com/archives/16931) 너무 일반적인 이야기이지만 정리의 의미
 * [상대의 마음을 흔드는 3가지 핵심 단어](http://moneyman.kr/archives/4595)
+* [말수가 적어지는 이유: 나이가 들수록 ‘내 말’이 나를 해칠 수 있다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250806)
