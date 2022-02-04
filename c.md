@@ -180,6 +180,7 @@ C
 * [C 언어 퀴즈](https://velog.io/@mythos/C-C-%EC%96%B8%EC%96%B4-%ED%80%B4%EC%A6%88)
 * [C Runtime Overhead](http://ryanhileman.info/posts/lib43)
 * [Some sanity for C and C++ development on Windows](https://nullprogram.com/blog/2021/12/30/)
+* [Switch Case Statement in C | Control Statements | Lec 60 | C Programming Tutorials - YouTube](https://www.youtube.com/watch?v=MSo_s6w9O6s)
 
 # Autoconf
 * [Autoconf Tutorial Part-1](http://www.idryman.org/blog/2016/03/10/autoconf-tutorial-1/)
