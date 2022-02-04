@@ -613,6 +613,7 @@ App
   * [postman 똑똑한 runner 활용방법 - csv 기반으로 요청하기](https://blog.naver.com/pjt3591oo/222633514486)
   * [postman APIs로 collection, mockup, document, test 통합관리](https://blog.naver.com/pjt3591oo/222635644050)
   * [Postman Now Supports gRPC | Postman Blog](https://blog.postman.com/postman-now-supports-grpc/)
+  * [Postman 개요 / 설치 / 사용법 / 활용 방법 : NHN Cloud Meetup](https://meetup.toast.com/posts/107)
 * [postwoman.io](https://postwoman.io/)
 * REST Client VSCode extension
 * RestLet_Client [REST API 테스트를 위한 유용한 툴(Chrome Extension : RestLet_Client)](https://www.linkedin.com/pulse/rest-api-%25ED%2585%258C%25EC%258A%25A4%25ED%258A%25B8%25EB%25A5%25BC-%25EC%259C%2584%25ED%2595%259C-%25EC%259C%25A0%25EC%259A%25A9%25ED%2595%259C-%25ED%2588%25B4chrome-extension-restletclient-jun-hee-shin/)
@@ -1840,6 +1841,7 @@ App
   * [Abstracting away side-effects with Higher-Order Functions in PowerShell | by Christopher Kuech | ITNEXT](https://itnext.io/abstracting-away-side-effects-with-higher-order-functions-in-powershell-10c4ae98a42b)
   * [윈도우 PowerShell에서 git을 좀더 편하게 사용하자](https://jusths.tistory.com/180)
   * [윈도우 PowerShell - custom prompt 스크립트 만들기](https://jusths.tistory.com/181)
+  * [Module 6 - Hands-On Lab: Working with CIM and WMI Technologies in Windows PowerShell - YouTube](https://www.youtube.com/watch?v=SxMkE98bTSY)
   * [Bloodguy :: Windows 배치 스크립트 파일을 관리자 권한으로 실행시 현재 디렉토리 (current working directory when run batch script as administrator, UAC, %cd%)](https://bloodguy.tistory.com/entry/Windows-%EB%B0%B0%EC%B9%98-%EC%8A%A4%ED%81%AC%EB%A6%BD%ED%8A%B8-%ED%8C%8C%EC%9D%BC%EC%9D%84-%EA%B4%80%EB%A6%AC%EC%9E%90-%EA%B6%8C%ED%95%9C%EC%9C%BC%EB%A1%9C-%EC%8B%A4%ED%96%89%EC%8B%9C-%ED%98%84%EC%9E%AC-%EB%94%94%EB%A0%89%ED%86%A0%EB%A6%AC-current-working-directory-when-run-batch-script-as-administrator-UAC-cd)
 * putty
   * [파일 전송이 어려울 때 텍스트 파일 내용 복사하기(putty)](https://github.com/wafe/Pile-of-Things/issues/13)
