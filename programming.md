@@ -622,6 +622,7 @@ Programming
 * [OKKYCON: 2017 신정호 - 애자일은 애자일이란 단어를 버려야 한다 - YouTube](https://www.youtube.com/watch?v=sR_r2wdYBhw)
 * [Agile Korea Conference 2018 고객 접점을 담당하는 개발팀의 기민함에 관하여 신정호/우아한형제들 - YouTube](https://www.youtube.com/watch?v=qu0D5-FJklg)
   * [Building high performance startup teams](https://rossysheil.com/building-high-performance-startup-teams/) team effectiveness & team performance, forming -> storming -> norming -> performing
+* [This Agile Method GUARANTEES Results - YouTube](https://www.youtube.com/watch?v=ZO04Wz6mu0Y) iteration to make progress
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
