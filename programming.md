@@ -3417,6 +3417,7 @@ Programming
   * [Real-Time Exactly-Once Event Processing at Uber with Apache Flink, Kafka, and Pinot](https://www.infoq.com/news/2021/11/exactly-once-uber-flink-kafka/)
 * [Redpanda - Vectorized](https://vectorized.io/redpanda/) A Kafka® API compatible streaming platform for mission-critical workloads
   * [Redpanda is the real-time engine for modern apps](https://github.com/vectorizedio/redpanda)
+  * [Co-Designing Raft + Thread-per-Core Execution Model for the Kafka-API - YouTube](https://www.youtube.com/watch?v=kz7R1mGrN9Q)
 * [SuperChief: From Apache Storm to In-House Distributed Stream Processing](http://blog.librato.com/posts/superchief)
 
 # Refactoring
