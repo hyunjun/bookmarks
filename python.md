@@ -3891,6 +3891,7 @@ Python
     * [alembic을 이용해 DB 마이그레이션 하기 (1)](https://codeac.tistory.com/114)
     * [alembic을 이용해 DB 마이그레이션 하기 (2)](https://codeac.tistory.com/115)
     * [Alembic: How to Add a Non-Nullable Field to a Populated Table](https://medium.com/the-andela-way/alembic-how-to-add-a-non-nullable-field-to-a-populated-table-998554003134)
+    * [almebic 적용 가이드](https://github.com/hyunjun/practice_private/blob/master/madup/tech/almebic.pdf)
 * [sqlbuilder](https://pypi.python.org/pypi/sqlbuilder)
   * [sqlbuilder.readthedocs.io](https://sqlbuilder.readthedocs.io)
   * [practice - sqlbuilder](https://gist.github.com/hyunjun/2c0f820e9bbe6810dc186b1885beb622) 간단히 test해봤는데 python에서 호출할 query를 만드는 데는 확실히 유용할 거 같음
