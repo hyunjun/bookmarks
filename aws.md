@@ -1019,6 +1019,7 @@ AWS
 * [세번째 글 - 패키지 만들기](https://fallwalker.tistory.com/10)
 * [lambda proc - Running a companion process to an AWS Lambda function in go](https://github.com/jasonmoo/lambda_proc)
 * [AWS Lambda를 동시에 500개 이상 호출하기](https://devbull.xyz/aws-lambda-500-concurrency/)
+* [Code and Deploy a Serverless API Using Go and AWS](https://www.freecodecamp.org/news/code-and-deploy-a-serverless-api-using-go-and-aws/)
 
 ## Lambda javascript
 * [serverless 배포하기 (1) serverless-webpack 초급 · /usr/lib/libsora.so](https://if1live.github.io/posts/deploying-serverless-1-serverless-webpack-beginning/)
