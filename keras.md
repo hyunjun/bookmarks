@@ -214,6 +214,7 @@ Keras
 * [딥러닝 케라스 강좌 02-2강 DNN #2](https://www.youtube.com/watch?v=dTQYZ07mmP8)
 * [머신러닝, 딥러닝 실전 개발 입문 24강 - Keras 기본](https://www.youtube.com/watch?v=_eIGBgJkr0M)
 * [Computer Graphics and Deep Learning with NeRF using TensorFlow and Keras: Part 1 - PyImageSearch](https://www.pyimagesearch.com/2021/11/10/computer-graphics-and-deep-learning-with-nerf-using-tensorflow-and-keras-part-1/)
+* [7 Best Keras Online Courses You Need to Know Bestseller 2022](https://www.mltut.com/best-keras-online-courses/)
 
 # GAN
 * [Implementation BEGAN by Keras](https://github.com/mokemokechicken/keras_BEGAN)
