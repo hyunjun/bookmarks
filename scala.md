@@ -336,6 +336,7 @@ Scala
 * [Precise Code Intelligence for Java, Scala, and Kotlin](https://about.sourcegraph.com/blog/java-scala-kotlin-code-intelligence/)
 * [Sick Fira Code Progress Bars for Absolute Beginners! - Part 1 - YouTube](https://www.youtube.com/watch?v=z7ZDI0H0n2I)
   * [DevInsideYou/progress](https://github.com/DevInsideYou/progress)
+* [Sick Fira Code Progress Bars for Absolute Beginners! - Part 2 - YouTube](https://www.youtube.com/watch?v=PKW5dJLpiWg)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -973,6 +974,7 @@ Scala
     * [Experts Share Why They Choose ZIO Scala Library](https://scalac.io/blog/zio-experts-share-why-they-choose-zio-scala/)
     * [ZIO environment: episode 3](https://softwaremill.com/zio-environment-episode-3/)
     * [building a ZIO app from scratch with Adam Fraser - YouTube](https://www.youtube.com/watch?v=NXQlu3sTHEg)
+    * [Zero-to-ZIO | Alteration x10](https://alterationx10.com/2022/02/01/zero-to-zio/)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -2294,6 +2296,7 @@ Scala
 * [Type classes with Scala 2](https://justinhj.github.io/2020/12/06/type-classes-scala-2.html)
 * [Self-Types in Scala - the Why and the How | Rock the JVM - YouTube](https://www.youtube.com/watch?v=ZnpB4B1fMSI)
 * [Zymposium — Path Dependent Types - YouTube](https://www.youtube.com/watch?v=w2rcHCqdn-o)
+* [Every Argument for Static Typing Applies to Typed Errors](https://gist.github.com/quelgar/d383cd960d781fe72a1564203c280a03)
 * HasId pattern
   * [HasId.scala](https://gist.github.com/knutwalker/788acb4c7ae9782fdf67)
   * [Scala Best Practices - Type class](https://nrinaudo.github.io/scala-best-practices/definitions/type_class.html)
