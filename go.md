@@ -690,6 +690,8 @@ Go
   * [Wails - Go 사용 데스크톱 응용 프로그램 개발 프레임 워크 | GeekNews](https://news.hada.io/topic?id=4774)
 * [wafflesyrup: Simple backup solution written by Go](https://github.com/qroffle/wafflesyrup)
 * [wego - weather app for the terminal](https://github.com/schachmat/wego)
+* [wire: Compile-time Dependency Injection for Go](https://github.com/google/wire)
+  * [Golang Dependency Injection Using Wire - DEV Community](https://dev.to/clavinjune/golang-dependency-injection-using-wire-20h2)
 * wmi2struct [golang - Windows Management Instrumentation을 쉽게 얻을 수 있는 도구 wmi2struct - jacking75](https://jacking75.github.io/go_lib_wmi2struct/)
 * [xid: golang GUID 생성 package 둘러보기](https://jusths.tistory.com/148)
 * [xurls - Extract urls from text](https://github.com/mvdan/xurls)
@@ -847,6 +849,7 @@ Go
 * [Setting up the Router, Handlers, and Models in our Go Project | Creating Web APP using Go and React - YouTube](https://www.youtube.com/watch?v=1JrxfWU4Dns)
 * [Creating Simple API Route for our Project | Creating a Web App using Golang and React | Go Part 3 - YouTube](https://www.youtube.com/watch?v=mTUwnTbD1C0)
 * [Creating a Database Postgresql | Creating a Web APP using Golang and React| Database Part 1 - YouTube](https://www.youtube.com/watch?v=YQKdPvMt2DY)
+* [Connecting to the Database PostgreSQL | Golang and React Web APP | Database Part 2 - YouTube](https://www.youtube.com/watch?v=ww2aAXxzckQ)
 
 # Web Restful
 * [Build RESTful API in Go and MongoDB](https://hackernoon.com/build-restful-api-in-go-and-mongodb-5e7f2ec4be94)
