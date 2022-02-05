@@ -613,6 +613,7 @@ App
   * [postman 똑똑한 runner 활용방법 - csv 기반으로 요청하기](https://blog.naver.com/pjt3591oo/222633514486)
   * [postman APIs로 collection, mockup, document, test 통합관리](https://blog.naver.com/pjt3591oo/222635644050)
   * [Postman Now Supports gRPC | Postman Blog](https://blog.postman.com/postman-now-supports-grpc/)
+    * [Postman, gRPC 지원 | GeekNews](https://news.hada.io/topic?id=5878)
   * [Postman 개요 / 설치 / 사용법 / 활용 방법 : NHN Cloud Meetup](https://meetup.toast.com/posts/107)
 * [postwoman.io](https://postwoman.io/)
 * REST Client VSCode extension
