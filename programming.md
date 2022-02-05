@@ -552,7 +552,6 @@ Programming
 * [Scrum: A Primer On Adaptive Techniques](https://angel.co/blog/scrum-a-primer-on-adaptive-techniques)
 * [Common Mistakes in Agile Implementations](https://medium.com/not-so-technical/common-mistakes-in-agile-implementations-21a6d999bc91)
 * [당신의 개발자들은 결코 느리지 않다](http://tech.trenbe.com/?p=547)
-* [폭포수모델 vs 애자일 실무에서는?](https://www.slideshare.net/ddayinhwang9/vs-228227902)
 * [같이, 스프린트 어떠세요?](https://medium.com/nextunicorn/%EA%B0%99%EC%9D%B4-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%ED%95%B4%EB%B3%B4%EC%8B%A4%EA%B9%8C%EC%9A%94-9c798f6a768c)
 * [일을 더 잘하기 위한 애자일(Agile) 실천](https://medium.com/wantedjobs/%EC%9D%BC%EC%9D%84-%EB%8D%94-%EC%9E%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%95%A0%EC%9E%90%EC%9D%BC-agile-%EC%8B%A4%EC%B2%9C%ED%95%98%EA%B8%B0-7cb05994975b)
 * [일하지 않는 사람은 가라](https://www.popit.kr/%EC%9D%BC%ED%95%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%82%AC%EB%9E%8C%EC%9D%80-%EA%B0%80%EB%9D%BC/)
@@ -588,7 +587,6 @@ Programming
 * [Making sense of MVP (Minimum Viable Product) - and why I prefer Earliest Testable/Usable/Lovable - Crisp's Blog](https://blog.crisp.se/2016/01/25/henrikkniberg/making-sense-of-mvp)
 * ["AI 개발 프로세스 안이하게 생각하면 실패" - ZDNet korea](https://zdnet.co.kr/view/?no=20210725170429) AI뿐 아니라 일반적으로도 적용되는 이야기
 * [애자일(agile)이란 무엇인가?](https://velog.io/@katanazero86/%EC%95%A0%EC%9E%90%EC%9D%BCagile%EC%9D%B4%EB%9E%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80)
-* [CI/CD 도입기 1편 - 폭포수 모델과 애자일](https://velog.io/@sjhello/Jenkins%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-CICD-%EC%A0%81%EC%9A%A9)
 * [애자일을 대충 알고 있는 당신을 위하여](https://velog.io/@dell_mond/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%84-%EB%8C%80%EC%B6%A9-%EC%95%8C%EA%B3%A0-%EC%9E%88%EB%8A%94-%EB%8B%B9%EC%8B%A0%EC%9D%84-%EC%9C%84%ED%95%98%EC%97%AC)
 * [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 1장 #1-1 | 요즘IT](https://yozm.wishket.com/magazine/detail/691/)
 * [대기업에선 애자일을 어떻게 진행할까? 실전 애자일 1장 #1-2 | 요즘IT](https://yozm.wishket.com/magazine/detail/692/)
@@ -1711,6 +1709,7 @@ Programming
 * [Javarevisited: Top 5 Online Courses to Learn Cloud Computing in 2022 - Best of Lot](https://javarevisited.blogspot.com/2019/07/top-5-online-courses-to-learn-cloud-computing-aws.html)
 * [The 7 Best Free Cloud Storage Services Online](https://www.businessinsider.com/free-cloud-storage)
 * [Top 5 Online Courses to Learn Cloud Computing in 2022 - Best of Lot](https://javarevisited.blogspot.com/2019/07/top-5-online-courses-to-learn-cloud-computing-aws.html)
+* [How to use cloud platforms for your data science projects](https://analyticsindiamag.com/how-to-use-cloud-platforms-for-your-data-science-projects/)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -3670,6 +3669,9 @@ Programming
     * 오히려 애자일 스프린트가 더 오래 걸리는 것으로 보여 더 자세히 살펴보니
     * 폭포수로 진행했을 때 QA 단계에서 발견되는 버그가 3배 높다는 것을 알게 되어
     * 이를 반영하자 폭포수가 애자일 스프린트보다 훨씬 오래 걸리는 것으로 파악
+* [폭포수모델 vs 애자일 실무에서는?](https://www.slideshare.net/ddayinhwang9/vs-228227902)
+* [CI/CD 도입기 1편 - 폭포수 모델과 애자일](https://velog.io/@sjhello/Jenkins%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-CICD-%EC%A0%81%EC%9A%A9)
+* [폭포수 Vs 애자일 방식 프로젝트](https://brunch.co.kr/@df79991e83ed416/25)
 * [TDD 읽은티내기](https://brunch.co.kr/@moonjoonyoung/7)
 * [**뱅크샐러드의 실험플랫폼 분석 인프라 살펴보기 | 뱅크샐러드**](https://blog.banksalad.com/tech/experiment-platform-analysis-architecture/)
 * [The Causal Analysis of Cannibalization in Online Products - Code as Craft](https://codeascraft.com/2020/02/24/the-causal-analysis-of-cannibalization-in-online-products/)
@@ -3752,6 +3754,7 @@ Programming
 * [나는 왜 TDD와 리팩터링에 집착하는가](https://brunch.co.kr/@myner/77)
 * [글로벌 칼럼 | 컨테이너 기반 통합 테스트의 이점 - ITWorld Korea](https://www.itworld.co.kr/news/222249)
 * [How To Build Quality Software Fast - YouTube](https://www.youtube.com/watch?v=ZmgbjaRfp_Q)
+* [Ten-year experience in DBMS testing - DEV Community](https://dev.to/tarantool/ten-year-experience-in-dbms-testing-19ea) Tarantool에서 일하면서 기록한 테스트에 대한 이야기. 테스트에 대해 종합적으로 접근하는 방법 참고
 
 ## TDD, Test, A/B test
 * [A/B Testing – Sampling부터 Interpretation까지](https://www.buzzvil.com/ko/2018/06/14/tech-industry-a-b-testing-sampling%EB%B6%80%ED%84%B0-interpretation%EA%B9%8C%EC%A7%80/)
