@@ -265,6 +265,7 @@ Algorithm
 * [Optimize a basket in online purchases | CODER SITE for developers](https://codersite.dev/optimize-online-purchases/)
 * [Algorithm Archives - CodeCrucks](https://codecrucks.com/category/algorithm/)
 * [How to Find the Largest and Smallest of Three Numbers in Java? Solved | Java67](https://www.java67.com/2019/05/how-to-find-largest-and-smallest-of-three-numbers-in-java.html)
+* [Solutions2Coding - S2C- An online Platform for Coding solutions](https://www.solutions2coding.com/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -769,6 +770,7 @@ Algorithm
 * [C++ Binary Tree Diagonal Traversal of Binary Tree | C++ | cppsecrets.com](https://cppsecrets.com/users/156811151111101171219710097118107971141099764103109971051084699111109/C00-Binary-Tree-Diagonal-Traversal-of-Binary-Tree.php)
 * [C++ Binary Tree Zig Zag Tree Traversal in Binary Tree | C++ | cppsecrets.com](https://cppsecrets.com/users/156811151111101171219710097118107971141099764103109971051084699111109/C00-Binary-Tree-Zig-Zag-Tree-Traversal-in-Binary-Tree.php)
 * [How to Implement Binary Tree InOrder traversal in Java without Recursion - Example Tutorial | Java67](https://www.java67.com/2016/09/inorder-traversal-of-binary-tree-java-example.html)
+* [How to Perform Binary Tree InOrder traversal in Java using Recursion? Example Tutorial | Java67](https://www.java67.com/2016/08/binary-tree-inorder-traversal-in-java.html)
 * [Merge Two Binary Trees - Solutions2Coding - S2C- An online Platform for Coding solutions.](https://www.solutions2coding.com/2021/12/merge-two-binary-trees.html)
 * [Tree Node Data Structure, Quicksort Algorithm, and BFS Algorithm with Python for Department Store’s Shops, Categories and Products | by Petia Velikova (scallopy) | Jan, 2022 | Medium](https://medium.com/@petia.t.velikova/tree-node-data-structure-quicksort-algorithm-and-bfs-algorithm-with-python-for-department-stores-6eb417857182)
 
