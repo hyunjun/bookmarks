@@ -3913,6 +3913,7 @@ Javascript
 * [Front-End Testing is For Everyone | CSS-Tricks](https://css-tricks.com/front-end-testing-is-for-everyone/)
 * [Angular: Unit Testing Jasmine, Karma (step by step)](https://medium.com/frontend-fun/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4)
 * [3. 코드숨 리액트 - 3주차](https://jojoldu.tistory.com/625)
+* [LIVE 시각적요소 테스트 자동화하기 :: 1월 우아한테크세미나 - YouTube](https://www.youtube.com/watch?v=9AUEfGZslmw)
 * [cypress - The web has evolved. Finally, testing has too](https://www.cypress.io/)
   * [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
 * [folio: A customizable test framework to build your own test frameworks](https://github.com/microsoft/folio) typescript

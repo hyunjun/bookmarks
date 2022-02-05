@@ -141,6 +141,7 @@
 * [My negative views on Rust](https://chrisdone.com/posts/rust/)
 * [Rust for Linux Progresses with New Abstractions and Infrastructure](https://www.infoq.com/news/2021/12/rust-for-linux-patch-2/)
 * [Could Rust be the Future of JavaScript Infrastructure](https://www.femar.co.ke/2022/01/rustjs.html)
+* [Rust OpenAI Integration (GPT-3) - YouTube](https://www.youtube.com/watch?v=5WhJQMnJjik)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
@@ -350,6 +351,8 @@
 * [IRON - extensible web framework for rust](http://ironframework.io/)
 * [Rocket - a web framework for Rust that makes it simple to write fast, secure web applications without sacrificing flexibility, usability, or type safety](https://rocket.rs/)
   * [Rocket: Web Servers in Rust!. Welcome back to our series on building… | by James Bowen | Medium](https://medium.com/@james_32022/rocket-web-servers-in-rust-46d862bb3514)
+* Yew [What is Yew? | Yew](https://yew.rs/)
+  * [Build A Rust Frontend (Really FAST Web Apps with Yew) - YouTube](https://www.youtube.com/watch?v=MddGbXgIt2E) webassembly
 
 # WebAssembly
 * [Rust, WebAssembly, and Javascript Make Three: An FFI Story](https://www.youtube.com/watch?v=nvLw_XKlZaU)

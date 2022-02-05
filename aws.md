@@ -722,6 +722,7 @@ AWS
 * [버스트 가능한 T타입 인스턴스 소개](https://jybaek.tistory.com/916)
 * [Spot Instance pricing history](https://jybaek.tistory.com/917)
 * [How to port your OS to EC2](https://www.daemonology.net/blog/2018-07-14-port-OS-to-EC2.html)
+* [Project: Host Website in AWS EC2 Server | Install PHP, Apache from user data | Create AMI backup - YouTube](https://www.youtube.com/watch?v=CiK8cuH2CQg)
 
 # ECS Elastic Container Service
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
