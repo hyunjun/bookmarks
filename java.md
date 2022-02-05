@@ -77,6 +77,7 @@ Java
 * [웹 서버 프로그래밍 시에 주의하면 좋은 점들](http://astrod.github.io/2018/02/12/12.html)
 * [Java Modifiers every interviewer seems to like](https://www.java-success.com/java-modifiers-interview-questions-and-answers/)
   * final const, volatile synchronized, transient
+* [How Volatile in Java works? Example of volatile keyword in Java](https://javarevisited.blogspot.com/2011/06/volatile-keyword-java-example-tutorial.html)
 * [Java Closure의 non-local variable이 final이어야 하는것에 대한 토론이 이뤄진 현장](https://www.facebook.com/notes/kevin-lee/%EA%B3%BC%EA%B1%B0-java-closure%EC%9D%98-non-local-variable%EC%9D%B4-final%EC%9D%B4%EC%96%B4%EC%95%BC-%ED%95%98%EB%8A%94%EA%B2%83%EC%97%90-%EB%8C%80%ED%95%9C-%ED%86%A0%EB%A1%A0%EC%9D%B4-%EC%9D%B4%EB%A4%84%EC%A7%84-%ED%98%84%EC%9E%A5/517870281888767/)
 * [패스트캠퍼스 자바 웹 프로그래밍 CAMP 정리](http://jojoldu.tistory.com/301)
 * [Top 8 Java RESTful Micro Frameworks – Pros/Cons](https://www.gajotres.net/best-available-java-restful-micro-frameworks/)
