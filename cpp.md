@@ -221,6 +221,7 @@ C++
   * [Using Variadic Templates cleanly](http://florianjw.de/en/variadic_templates.html)
   * [Variadic template](http://blog.seulgi.kim/2017/10/cpp-variadic-template.html)
   * [C++ 템플릿 스터디](https://github.com/CppKorea/CppTemplateStudy)
+  * [Back to Basics: Templates (part 1 of 2) - Bob Steagall - CppCon 2021 - YouTube](https://www.youtube.com/watch?v=XN319NYEOcE)
 * vector
   * [c++ vector clear size를 0으로 만들어 준다](https://codingdog.tistory.com/entry/c-vector-clear-size%EB%A5%BC-0%EC%9C%BC%EB%A1%9C-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%A4%80%EB%8B%A4)
 * volatile
