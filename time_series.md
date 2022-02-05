@@ -47,6 +47,7 @@ Time Series
 * [How Time Series Databases Work—and Where They Don't - Honeycomb](https://www.honeycomb.io/blog/time-series-database/)
 * [CAUSALIMPACT는 어떻게 이벤트 효과를 추정할까?](https://lumiamitie.github.io/data/causalimpact/)
 * [딥러닝 전에, 알아보자 시계열 분석! - (1) 시작하자 시계열! -](https://albertmade.tistory.com/3)
+* [시계열 분석 첫걸음 8강 - 이동평균 (MA) 모형에 대하여 - YouTube](https://www.youtube.com/watch?v=fPFo5U0Q4IE)
 
 # Book
 * [Deep Learning for Time Series Forecasting - Predict the Future with MLPs, CNNs and LSTMs in Python](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
