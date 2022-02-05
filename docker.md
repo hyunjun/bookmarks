@@ -1209,6 +1209,7 @@ Docker
 * [CKS 시험 정보 Portal ver0.5 - 쿠버네티스 전문가 블로그](https://sysnet4admin.blogspot.com/2021/12/cks-portal-ver05.html)
 * [쿠버네티스 시험(CKA, CKAD, CKS)을 위한 공부법 - YouTube](https://www.youtube.com/watch?v=WDanHeELZcA)
 * [App Modernization: 5 Tips When Migrating to Kubernetes – The New Stack](https://thenewstack.io/app-modernization-5-tips-when-migrating-to-kubernetes)
+* [A Primer: Accessing services in Kubernetes](https://blog.alexellis.io/primer-accessing-kubernetes-services/)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
