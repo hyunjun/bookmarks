@@ -220,6 +220,7 @@ Interview
 * [2021 하반기 네이버 신입 공채 후기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/12/19/Review-of-NAVER-recruitment.html)
 * [Debugging the Technical Interview. Methods and Cheating](https://talktotheduck.dev/debugging-the-technical-interview-methods-and-cheating) interviewer의 입장에서 좋은 interview를 위한 일반론
 * [Demystifying Interviewing for Backend Engineers @ Netflix | by Netflix Technology Blog | Feb, 2022 | Netflix TechBlog](https://netflixtechblog.com/demystifying-interviewing-for-backend-engineers-netflix-aceb26a83495)
+* [실리콘밸리 소프트웨어 개발자 이직 후기](https://giunglee.notion.site/giunglee/307c67eedaa5448b92c90c1925a2c33c)
 
 # 면접 후 질문 예
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
