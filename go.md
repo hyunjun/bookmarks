@@ -355,6 +355,7 @@ Go
   * [Generics are the Generics of Go | Capital One | Capital One Tech](https://medium.com/capital-one-tech/generics-are-the-generics-of-go-3e0ef0cb9e04)
   * [Experimenting with generics in Go | by Alexey Soshin | The Startup | Medium](https://medium.com/swlh/experimenting-with-generics-in-go-39ffa155d6a1)
   * [Generic Programming in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=d6LjYsQE-CQ)
+  * [Getting Started with Generics in Golang](https://morioh.com/p/0fc0b39156bf)
 * map
   * [How the Go runtime implements maps efficiently (without generics)](https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics)
   * [Assignment to entry in nil map in golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=whstXtUBJ0E)
@@ -850,6 +851,7 @@ Go
 * [Creating Simple API Route for our Project | Creating a Web App using Golang and React | Go Part 3 - YouTube](https://www.youtube.com/watch?v=mTUwnTbD1C0)
 * [Creating a Database Postgresql | Creating a Web APP using Golang and React| Database Part 1 - YouTube](https://www.youtube.com/watch?v=YQKdPvMt2DY)
 * [Connecting to the Database PostgreSQL | Golang and React Web APP | Database Part 2 - YouTube](https://www.youtube.com/watch?v=ww2aAXxzckQ)
+* [Creating Database Functions for Project | Creating WebApp using Golang & React | Database Part 3 - YouTube](https://www.youtube.com/watch?v=JyXz5Lagp48)
 
 # Web Restful
 * [Build RESTful API in Go and MongoDB](https://hackernoon.com/build-restful-api-in-go-and-mongodb-5e7f2ec4be94)
