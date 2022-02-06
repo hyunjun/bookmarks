@@ -912,6 +912,7 @@ TensorFlow
   * [TensorFlow.js의 2021년](https://brunch.co.kr/@advisor/30)
   * [Predicting Diabetes using Logistic Regression with TensorFlow.js | Deep Learning for JavaScript Hackers (Part I)](https://www.curiousily.com/posts/diabetes-prediction-using-logistic-regression-with-tensorflow-js/)
   * [TensorFlow로 디자인시스템 만들기. 이 블로그 포스팅은 저에게 매우 의미 있는 순간입니다. 저는 지난해부터… | by Jude Park | Aug, 2021 | Medium](https://judepark-6960.medium.com/a-design-system-made-with-tensorflow-js-8f6c567e9593)
+  * [Real time motion capture for VTubers - Made with TensorFlow.js - YouTube](https://www.youtube.com/watch?v=NL5NHq6tKLM)
   * [face-api.js](https://github.com/justadudewhohacks/face-api.js)
     * [face-api.js — JavaScript API for Face Recognition in the Browser with tensorflow.js](https://itnext.io/face-api-js-javascript-api-for-face-recognition-in-the-browser-with-tensorflow-js-bcc2a6c4cf07)
   * [Handtrack.js: Hand Tracking Interactions in the Browser using Tensorflow.js and 3 lines of code](https://hackernoon.com/handtrackjs-677c29c1d585)
