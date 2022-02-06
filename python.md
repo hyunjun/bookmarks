@@ -674,6 +674,7 @@ Python
   * [파이썬 날짜 다루기 date, datetime, yyyymmdd](https://krksap.tistory.com/1635)
   * [**파이썬(Python) datetime 클래스 치트시트**](https://www.44bits.io/ko/post/python-datatime-cheetsheet)
   * [파이썬 Python 코딩 - 리눅스 크론 cron 스케줄러 기능 구현하기 - YouTube](https://www.youtube.com/watch?v=zZbOMgCJmA8)
+  * [개발자를 괴롭히는 주제 중 하나는 시간입니다.. 하여간 이런 문제가 있다 해도 우리가 평범하게 아는 정도의 시간 관련… | by 이상선 | Jan, 2022 | Medium](https://medium.com/@sunyi233/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EA%B4%B4%EB%A1%AD%ED%9E%88%EB%8A%94-%EC%A3%BC%EC%A0%9C-%EC%A4%91-%ED%95%98%EB%82%98%EB%8A%94-%EC%8B%9C%EA%B0%84%EC%9E%85%EB%8B%88%EB%8B%A4-236f9f3be051)
   * [arrow: Better dates & times for Python](https://github.com/arrow-py/arrow)
     * [Arrow: better dates and times for Python](http://arrow.readthedocs.io/)
   * [Delorean: Time Travel Made Easy — delorean 1.0.0 documentation](https://delorean.readthedocs.io/)
