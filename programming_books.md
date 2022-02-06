@@ -904,6 +904,7 @@ Programming Books
   * [책 펭귄브로의 3분 딥러닝, 파이토치맛](https://jybaek.tistory.com/879)
 * (NOT YET) [fastai와 파이토치가 만나 꽃피운 딥러닝(제레미 하워드, 실뱅 거거 著, 박찬성, 김지은 譯, 2021)](https://jehyunlee.tistory.com/27)
   * [학위 없이 폼나게 AI를 구현 할 수 있는 fastai 란? fastai 책 역자 인터뷰 - YouTube](https://www.youtube.com/watch?v=53Np5TUz85I)
+* (NOT YET) [실전! 파이토치 딥러닝 프로젝트 | 위키북스](https://wikibook.co.kr/pytorchdl/)
 
 ## Visualization
 * 비쥬얼라이즈 디스: 빅데이터 시대의 데이터 시각화 + 인포그래픽 기법
@@ -1950,6 +1951,7 @@ Programming Books
 * (NOT YET) [실전에서 바로 쓰는 시계열 데이터 처리와 분석 in R](https://jpub.tistory.com/1173)
 * (NOT YET) [친절한 R with 스포츠 데이터](https://kuduz.tistory.com/1258)
 * (NOT YET) [데이터 분석을 위한 R 자료구조, 딱 이것만 알면 돼 - 골든래빗](https://goldenrabbit.co.kr/2021/10/27/r-%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0-%EC%9D%B4%EA%B2%83%EB%A7%8C/)
+* (NOT YET) [혼자 공부하는 R 데이터 분석](https://jybaek.tistory.com/947)
 
 # Rust
 * (NOT YET) [러스트 프로그래밍 공식 가이드](https://jpub.tistory.com/980)
