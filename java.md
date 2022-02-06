@@ -1301,6 +1301,8 @@ Java
   * [SpringBoot에서 STOMP로 채팅 애플리케이션 만들기 (1) — 시행착오를 줄이는 방법](https://dataportal.kr/55)
   * [SpringBoot에서 STOMP로 채팅 애플리케이션 만들기 (2) — 시행착오를 줄이는 방법](https://dataportal.kr/56)
   * [SpringBoot에서 STOMP로 채팅 애플리케이션 만들기 (3) — 시행착오를 줄이는 방법](https://dataportal.kr/57)
+* Swim [Home | Swim Developer](https://www.swimos.org/) actor
+  * [The Next Big Thing In Software Architecture - YouTube](https://www.youtube.com/watch?v=-IZlOPciSl0)
 * [Tabula is a tool for liberating data tables locked inside PDF files](http://tabula.technology/)
 * [Thumbnailator - a thumbnail generation library for Java](https://github.com/coobird/thumbnailator)
   * [이미지 썸네일 만들기 #썸네일종결자 #Thumbnailator #java - YouTube](https://www.youtube.com/watch?v=EourFsgdRI8)
