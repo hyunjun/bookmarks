@@ -262,3 +262,6 @@ Bitcoin
 * [블록체인판 Web3 열풍 속 현실적 반론 :: Channy's Blog](http://channy.creation.net/blog/1509)
 * [인터넷의 미래? 마케팅 용어?··· 한눈에 살펴보는 ‘웹3’ - CIO Korea](https://www.ciokorea.com/news/221964)
 * [Wtf is web3 - Cobie](https://cobie.substack.com/p/wtf-is-web3)
+* [좋은 Web3 디자인을 위한 UX 원칙(1) Design principles for web3. | by Janet | Feb, 2022 | Medium](https://medium.com/@janetjang/%EC%A2%8B%EC%9D%80-web3-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-ux%EC%9B%90%EC%B9%99-design-principles-for-web3-5baf5b8376d4)
+* [좋은 Web3 디자인을 위한 UX 원칙(2) Design principles for web3. | by Janet | Feb, 2022 | Medium](https://medium.com/@janetjang/%EC%A2%8B%EC%9D%80-web3-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-ux-%EC%9B%90%EC%B9%99-2-design-principles-for-web3-85fe6024d40b)
+* [좋은 Web3 디자인을 위한 UX 원칙(3) Design principles for web3. | by Janet | Feb, 2022 | Medium](https://medium.com/@janetjang/%EC%A2%8B%EC%9D%80-web3-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-ux-%EC%9B%90%EC%B9%99-3-design-principles-for-web3-cc353f47eb20)
