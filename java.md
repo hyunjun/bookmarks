@@ -359,6 +359,7 @@ Java
     * ip address
       * [Matching Numeric Ranges with a Regular Expression](http://www.regular-expressions.info/numericranges.html)
       * [How to validate IP address with regular expression](http://www.mkyong.com/regular-expressions/how-to-validate-ip-address-with-regular-expression/)
+  * zip [2 Examples to read Zip Files in Java, ZipFile vs ZipInputStream - Tutorial](https://javarevisited.blogspot.com/2014/06/2-examples-to-read-zip-files-in-java-zipFile-vs-zipInputStream.html)
 
 # Asynchronous
 * [**Comparison of Asynchronous Data Loading in Java**](http://ejf.io/dev_blog/async_java_compare/) Futures, Callbacks and Wrapper classes, Observers, RxJava
@@ -1363,6 +1364,7 @@ Java
 * [JPA Entity Select에서 Update 쿼리 발생할 경우](https://jojoldu.tistory.com/536)
 * [JPA 사용시 @Embedded 주의사항](https://jojoldu.tistory.com/559)
 * [JPA Persistence Context Deep Dive | by Maeng Sol | Nov, 2021 | Medium](https://msolo021015.medium.com/jpa-persistence-context-deep-dive-2f36f9bd6214)
+* [009. Java Persistence API | LinkedIn](https://www.linkedin.com/pulse/009-java-persistence-api-%25ED%2598%2584%25EC%259E%25AC-%25EC%259D%25B4/)
 * ['📚 시리즈/- 배워보자 Spring Data JPA' 카테고리의 글 목록](https://wonit.tistory.com/category/%F0%9F%93%9A%20%EC%8B%9C%EB%A6%AC%EC%A6%88/-%20%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90%20Spring%20Data%20JPA)
 * [LazyInitializationException in SpringBoot JPA | could not initialize proxy – no Session | SpringBoot - YouTube](https://www.youtube.com/watch?v=XbT5oRJFp2E)
 * [잊을만 하면 돌아오는 정산 신병들 - 우아한형제들 기술 블로그](https://woowabros.github.io/experience/2021/02/05/pilot-project-siyoung.html)
@@ -1740,6 +1742,7 @@ Java
 * [MICROSERVICE-SPRINGBOOT - YouTube](https://www.youtube.com/playlist?list=PLtsTccOGFwUIcbQnwl2Ta6IUNFi02py1_)
 * [SpringBoot의 Validation을 사용 해 보자 | woolog - 개발자 울이](https://www.woolog.dev/backend/spring-boot/spring-boot-validation/)
 * [Spring Boot 2.4 이상 환경에서 Spring Cloud AWS 적용하기 (feat. AWS Parameter Store)](https://kim-jong-hyun.tistory.com/120)
+* [How to make RESTful Web Services using Spring Boot and Java - Example Tutorial](https://javarevisited.blogspot.com/2022/02/spring-boot-restful-web-service-example-tutorial.html)
 * [spring-batch-querydsl: 스프링배치와 QuerydslPagingItemReader](https://github.com/jojoldu/spring-batch-querydsl)
 * [testing-spring-boot-applications-masterclass: 🍃 Everything You Need to Know About Testing Spring Boot Applications](https://github.com/rieckpil/testing-spring-boot-applications-masterclass)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
