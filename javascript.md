@@ -994,6 +994,7 @@ Javascript
 * [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
 * [How to deal with nested callbacks and avoid “callback hell”](https://medium.freecodecamp.org/how-to-deal-with-nested-callbacks-and-avoid-callback-hell-1bc8dc4a2012)
 * [Don't use functions as callbacks unless they're designed for it - JakeArchibald.com](https://jakearchibald.com/2021/function-callback-risks/)
+* [JavaScript - callback - YouTube](https://www.youtube.com/watch?v=TAyLeIj1hMc)
 * [Understanding Asynchronous JavaScript — the Event Loop](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 * [How to improve your asynchronous Javascript code with async and await](https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda)
 * [How To Master Async/Await With This Real World Example](https://medium.freecodecamp.org/how-to-master-async-await-with-this-real-world-example-19107e7558ad)
@@ -3271,6 +3272,7 @@ Javascript
 * [React에서 Canvas API로 애니메이션 구현하기](https://brunch.co.kr/@dalgudot/141)
 * [5 Projects You Can Build to Learn React.js in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/10/5-best-reactjs-projects-for-beginners.html)
 * [React Portfolio Website with Styled Components and Framer Motion 🔥 - YouTube](https://www.youtube.com/watch?v=c8lnJzGVVpQ)
+* [React가 처음인 당신 - Ep1. 탄생편](https://velog.io/@winterlood/React%EA%B0%80-%EC%B2%98%EC%9D%8C%EC%9D%B8-%EB%8B%B9%EC%8B%A0-Ep1.-%ED%83%84%EC%83%9D%ED%8E%B8)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -3728,6 +3730,7 @@ Javascript
   * [Using Recoil instead of Redux For State Management In React Applications.](https://blog.openreplay.com/using-recoil-instead-of-redux-for-state-management-in-react-applications)
   * [Recoil의 쓰기 가능한 셀렉터 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-11-24-recoil-writable-selector)
   * [Recoil : 리액트 상태 관리의 새로운 패러다임 - YouTube](https://www.youtube.com/watch?v=t934FOlOMoM)
+  * [Recoil은 Context API를 어떻게 사용하길래 상태 변경이 일어나도 RecoilRoot의 자식 컴포넌트들에 대한 불필요한 리렌더링을 유발하지 않을까? | Woomin](https://woomin.netlify.app/recoil-context-api-no-rerender/)
 * [Relay Technical Preview](http://facebook.github.io/react/blog/2015/08/11/relay-technical-preview.html)
 * [relax - New generation CMS on top of React and Node.js http://demo.getrelax.io/admin](https://github.com/relax/relax)
 * [sagen을 사용해서 간단히 상태 관리하기](https://jungpaeng.tistory.com/100)
