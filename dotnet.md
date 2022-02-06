@@ -86,6 +86,7 @@
 * [.NET for Beginners - Dusted Codes](https://dusted.codes/dotnet-for-beginners)
 * [알아두면 쓸모 있는 .NET 이야기 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=31479637&memberNo=36733075&navigationType=push)
 * [.NET Microservices – Full Course - YouTube](https://www.youtube.com/watch?v=DgVjEo3OGBI)
+* [.NET Microservices Basics Course - YouTube](https://www.youtube.com/watch?v=ByYyk8eMG6c)
 * [닷넷 Hot Reload 삭제 사건 - DEV Community](https://dev.to/composite/dasnes-hot-reload-sagje-sageon-5c3g)
 * [Named Pipes in .NET 6 with Tray Icon and Service - ErikEngberg.com](https://erikengberg.com/named-pipes-in-net-6-with-tray-icon-and-service/)
 * [.NET 6 vs .NET 5: up to 40% speedup! | by Alex Yakunin | Nov, 2021 | Medium](https://alexyakunin.medium.com/net-6-vs-net-5-up-to-40-speedup-ceca9112d298)
