@@ -3614,6 +3614,7 @@ Programming
 * [Uncomfortable Truths in Software Engineering • Buttondown](https://buttondown.email/hillelwayne/archive/uncomfortable-truths-in-software-engineering/)
 * [Is a One-Person Development Team Optimal? | by Doug Foo | Better Programming](https://betterprogramming.pub/is-a-one-person-development-team-optimal-f8aca9872ccc) 팀원 숫자, team size에 대한 이야기
 * [Accountability and Sense of Ownership in Software Development – Mete Atamel](https://meteatamel.wordpress.com/2014/11/19/accountability-and-sense-of-ownership-in-software-development/) 기술적인 이야기는 아니지만 중요한 부분. 내가 진행했던 조직개편에서도 이게 중요한 부분 중 하나였음
+* [Martin Thompson On How To Manage Software Complexity | The Engineering Room Ep. 4 - YouTube](https://www.youtube.com/watch?v=sIBrFuzR3cs)
 * [Principles.dev - Software Engineering Principles](https://principles.dev/)
   * [Software Engineering Principles | GeekNews](https://news.hada.io/topic?id=4534)
 
