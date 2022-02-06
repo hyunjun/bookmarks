@@ -341,6 +341,7 @@ SQL
 * [practice - top 1 to read the latest row](https://gist.github.com/hyunjun/ac68186c394a0f4bb882b48fca9fd27a#file-top_1-md)
 * [practice - troubleshooting](https://gist.github.com/hyunjun/ac68186c394a0f4bb882b48fca9fd27a)
 * [User Defined Stored Procedures in SQL](https://www.datacamp.com/community/tutorials/user-defined-stored-procedure)
+* [저장 프로시저 (Stored Procedure) 란?](https://devkingdom.tistory.com/323)
 * [Install SQL Server on Ubuntu](https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-setup-ubuntu)
 * [SQL Server 에게 String 이란? (NVARCHAR 인가 VARCHAR 인가)](http://woowabros.github.io/study/2019/01/25/sqlserver-jdbc-driver.html)
 * [SQL Server Tutorial](https://www.techonthenet.com/sql_server/index.php)
