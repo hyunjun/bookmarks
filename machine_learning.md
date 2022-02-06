@@ -791,6 +791,7 @@ Machine Learning
 * [Smarter Ways to Encode Categorical Data for Machine Learning](https://towardsdatascience.com/smarter-ways-to-encode-categorical-data-for-machine-learning-part-1-of-3-6dca2f71b159)
 * [Classification & Clustering 모델 평가](https://bcho.tistory.com/1206)
 * [Python Voting Classifiers 다수결 분류의 정의와 구현](https://nonmeyet.tistory.com/entry/Python-Voting-Classifiers%EB%8B%A4%EC%88%98%EA%B2%B0-%EB%B6%84%EB%A5%98%EC%9D%98-%EC%A0%95%EC%9D%98%EC%99%80-%EA%B5%AC%ED%98%84)
+* [Machine Learning - four layer 1000 neuron bidiectional lstm classifier - YouTube](https://www.youtube.com/watch?v=OclITq7bgns)
 * [dirty_cat: machine learning on dirty categories — Dirty cat](https://dirty-cat.github.io/stable/)
   * [Dirty categories: learning with non normalized strings — Dirty data science](http://dirtydata.science/python/gen_notes/02_dirty_categories.html)
 * [Lime: Explaining the predictions of any machine learning classifier](https://github.com/marcotcr/lime)
@@ -894,8 +895,10 @@ Machine Learning
   * [머신러닝 입문 영상 - YouTube](https://www.youtube.com/watch?v=9YKDtzhmFk8)
   * [The Simplest Introduction to Basic Machine Learning](https://docs.google.com/presentation/d/1in-VlWD43cWzw60duQ4GdkkmTRhIooSy7oVwhL82NpU)
 * [**Learn Machine Learning: - machinelearning.to**](https://machinelearning.to/)
-* [Machine Learning University - YouTube](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw)
+* [Machine learning course: the overfitting-underfitting tradeoff in a model that generalizes - YouTube](https://www.youtube.com/watch?v=cBa9E6M9JCs)
 * [Machine Learning Full Course | Learn Machine Learning | Machine Learning Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=9f-GarcDY58)
+* [Machine Learning Fundamentals - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1lRzFHm8Z1XXIE8TZBLbjdp)
+* [Machine Learning University - YouTube](https://www.youtube.com/channel/UC12LqyqTQYbXatYS9AA7Nuw)
 * [ML-For-Beginners: 12 weeks, 24 lessons, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners)
 * [(ML Lecture 01) Regression Case Study](https://gcamp.tistory.com/1766)
 * [ML-YouTube-Courses: A repository to index and organize the latest machine learning courses found on YouTube](https://github.com/dair-ai/ML-YouTube-Courses)
@@ -904,7 +907,6 @@ Machine Learning
 * [learning-machine: A handbook for ML built on answers](https://github.com/rentruewang/learning-machine)
   * [A handbook for machine learning with python](https://pythonawesome.com/a-handbook-for-machine-learning-with-python/)
 * [scikit-learn MOOC](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
-* [Machine learning course: the overfitting-underfitting tradeoff in a model that generalizes - YouTube](https://www.youtube.com/watch?v=cBa9E6M9JCs)
 
 # C#
 * [C# 으로 Machine Learning ML.net - 1](http://name267.tistory.com/entry/C-%EC%9C%BC%EB%A1%9C-Machine-Learning-MLnet-1)
