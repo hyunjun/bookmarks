@@ -1219,6 +1219,7 @@ Web
 * [wasm-fizzbuzz: WebAssembly from Scratch: From FizzBuzz to DooM](https://github.com/diekmann/wasm-fizzbuzz)
   * WebAssembly로 FizzBuzz 앱을 직접 작성해 보고 Doom을 WebAssembly로 포팅해보는 튜토리얼
 * [webassembly.sh](https://webassembly.sh/)
+* WebVM [기술 잡담 - 리눅스 서버가 브라우저에 들어왔다 (webvm, cheerpx) - YouTube](https://www.youtube.com/watch?v=AHhRTb3zN2w)
 
 # Websocket
 * [Do you really need WebSockets?](https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b)
