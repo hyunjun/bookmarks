@@ -2438,6 +2438,7 @@ Javascript
 * [Nodejs Security - OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/cheatsheets/Nodejs_Security_Cheat_Sheet.html)
 * [A Comprehensive Guide To Error Handling In Node.js - Honeybadger Developer Blog](https://www.honeybadger.io/blog/errors-nodejs/)
 * [Node.js 모범 사례](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.korean.md)
+* [BIG new feature lands in Node.js // The Code Report - YouTube](https://www.youtube.com/watch?v=MBqS1kYzwTc)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
