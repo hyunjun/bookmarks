@@ -20,6 +20,7 @@
 * [마음에 남은 제주의 카페들](https://brunch.co.kr/@zazzseo/52)
 * [제주 송당리에 가면 꼭 가봐야 할 카페](http://1boon.kakao.com/share/deerlodge)
 * [카페백퍼](http://place.map.daum.net/26350894)
+* [버터넛 제주 시청 신상 디저트 카페 'butternut'](https://blog.naver.com/ilowajeju/222091171722)
 
 # Etc
 * [어멍유통](http://place.map.daum.net/1854681583)
@@ -49,6 +50,8 @@
 * [제주도 빵집 서귀포 봉주르마담](http://wangeme.blog.me/220951950308)
 * [제주도 식당 및 카페, 베이커리 정보](https://docs.google.com/spreadsheets/d/17PIrAN80zpt8Q7tg-jCC3shyv0P-YzoBhispqMrf22Y)
 * [함덕 수제버거맛집 '무거버거' 메뉴와 가격](https://blog.naver.com/lingfei0212/222321921764)
+* [올리다버거](https://blog.naver.com/yinjung7777/222224733506)
+* [제주시청 가드망제 - 메뉴판, 시금치 리조또, 차돌 랑귀니](https://langueihr.tistory.com/31)
 
 # Sightseeing
 * [스마일러 커피](http://place.map.daum.net/24370496) 애월, 동물 테마 카페
