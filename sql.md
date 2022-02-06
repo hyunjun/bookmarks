@@ -184,6 +184,7 @@ SQL
   * [is_leave vs leaved_at vs leave_status](https://jojoldu.tistory.com/577)
 * [글로벌 칼럼 | DB 분산 처리 기법 '샤딩', "웬만하면 하지 마라" - ITWorld Korea](https://www.itworld.co.kr/news/200134) sharding
 * [The State of the Open Source Database Industry in 2020: Part Three - Percona Database Performance Blog](https://www.percona.com/blog/2020/04/22/the-state-of-the-open-source-database-industry-in-2020-part-three/)
+* [Database Performance Secrets of the Stars! - YouTube](https://www.youtube.com/watch?v=J9Z30ie5J6Q)
 * [Against SQL](https://scattered-thoughts.net/writing/against-sql/)
 * [A beginner's guide to database multitenancy - Vlad Mihalcea](https://vladmihalcea.com/database-multitenancy/)
 * [칼럼｜데이터베이스의 '주류 교체', 숨막히게 더딜지라도... - CIO Korea](https://www.ciokorea.com/news/204299)
