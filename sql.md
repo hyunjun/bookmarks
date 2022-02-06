@@ -888,6 +888,7 @@ SQL
 * [NodeJS 와 PostgreSQL Connection Pool](https://jojoldu.tistory.com/634)
 * [Free Postgres Databases · Fly](https://fly.io/blog/free-postgres/)
 * [Five Tips For a Healthier Postgres Database in the New Year](https://blog.crunchydata.com/blog/five-tips-for-a-healthier-postgres-database-in-the-new-year)
+* [Slow Query 문제](https://bumbum.oopy.io/c459acf8-6ed8-43d0-9c14-655d3988b437)
 * EdgeDB
   * [EdgeDB—The next generation database](https://edgedb.com/)
   * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
