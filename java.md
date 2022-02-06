@@ -165,6 +165,7 @@ Java
 * [What are Operators in Java - YouTube](https://www.youtube.com/watch?v=997xqAZT3CM)
 * ['살아 움직이는 언어' 자바에 추가된 6가지 새로운 기능 - ITWorld Korea](https://www.itworld.co.kr/news/208787)
 * [Unusual Java: StackTrace Extends Throwable](https://blog.vanillajava.blog/2021/12/unusual-java-stacktrace-extends.html)
+* [Java Integer Cache | Interview Question | Programming Tutorials - YouTube](https://www.youtube.com/watch?v=UGO992dk6qc)
 * annotation
   * [Annotation Processor 101 — Your First Custom Annotation](https://medium.com/@emmasuzuki/annotation-processor-101-your-first-custom-annotation-a3db9ae48046)
   * [Annotation Processing : Don’t Repeat Yourself, Generate Your Code](https://medium.com/@iammert/annotation-processing-dont-repeat-yourself-generate-your-code-8425e60c6657)
@@ -1857,6 +1858,7 @@ Java
 * [Java 입문 수업 (생활코딩) - YouTube](https://www.youtube.com/playlist?list=PLuHgQVnccGMCeAy-2-llhw3nWoQKUvQck)
 * [자바를 배우자 매거진](https://brunch.co.kr/magazine/javalearning)
 * [자바 공화국](https://jojoldu.tistory.com/609)
+* [Javarevisited - YouTube](https://www.youtube.com/javarevisitedTech)
 
 # Web
 * [Spark - A tiny Sinatra inspired framework for creating web applications in Java 8 with minimal effort](http://sparkjava.com)
