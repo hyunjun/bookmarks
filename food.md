@@ -117,6 +117,7 @@ Food
 
 ## Whisky
 * [2015 최고의 위스키](http://www.huffingtonpost.kr/2015/03/23/story_n_6921154.html)
+* [싱글몰트 위스키의 시작이자 끝 : '글렌피딕 18년'의 모든 것](https://blog.naver.com/cantavil_life/222638815557)
 
 ## Wine
 * [와인잔 세제 사용 노! 애주가를 위한 잔 관리법](http://www.huffingtonpost.kr/2015/03/08/story_n_6824738.html)
