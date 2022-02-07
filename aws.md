@@ -314,7 +314,6 @@ AWS
 * [온프레미스 엔지니어의 퍼블릭 클라우드 정착기](https://brunch.co.kr/@alden/55)
 * [글로벌 서비스를 위한 멀티 리전 프록시 도입기](https://medium.com/benx-tech-blog/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A9%80%ED%8B%B0-%EB%A6%AC%EC%A0%84-%ED%94%84%EB%A1%9D%EC%8B%9C-%EB%8F%84%EC%9E%85%EA%B8%B0-87eda1bd8d55)
 * [**AWS Multi-Region 멀티 리전 실습 가이드**](https://www.notion.so/AWS-Multi-Region-3f9033d05dcf41f4a4d14ae5bbc2cc98)
-* [아마존닷컴처럼 Amazon Forecast로 시계열 예측하기 - 강지양 솔루션즈 아키텍트(AWS ), 강태욱 매니저(GSSHOP)](https://www.youtube.com/watch?v=4MuVRFQVx8Y)
 * [EC2, Fargate 약정 할인 AWS Savings Plans 발표 예약 인스턴스(RI)를 대체할 약정 할인 방식](https://www.44bits.io/ko/post/aws-introducing-savings-plans)
 * [Elastic Container Service - 용어 정리](https://jybaek.tistory.com/910)
 * [Service Catalog Part 1](https://zigispace.net/1056)
@@ -811,6 +810,10 @@ AWS
 * [Apache Airflow, Genie 및 Amazon EMR을 통한 빅데이터 워크플로 오케스트레이션 – 2부](https://aws.amazon.com/ko/blogs/korea/orchestrate-big-data-workflows-with-apache-airflow-genie-and-amazon-emr-part-2/)
 * [AWS EMR과 Airflow를 이용한 Batch Data Processing | by Min Jo | 101-devs | Aug, 2020 | Medium](https://medium.com/class101-dev/aws-emr%EA%B3%BC-airflow%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-batch-data-processing-a100fc2f4f10)
 * [입 개발 EMR에서는 sc.addFile, Databricks에서는 그냥 dbfs 폴더를 이용하자. | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/25/%ec%9e%85-%ea%b0%9c%eb%b0%9c-emr%ec%97%90%ec%84%9c%eb%8a%94-sc-addfile-databricks%ec%97%90%ec%84%9c%eb%8a%94-%ea%b7%b8%eb%83%a5-dbfs-%ed%8f%b4%eb%8d%94%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%98%ec%9e%90/)
+
+# Forecast
+* [아마존닷컴처럼 Amazon Forecast로 시계열 예측하기 - 강지양 솔루션즈 아키텍트(AWS ), 강태욱 매니저(GSSHOP)](https://www.youtube.com/watch?v=4MuVRFQVx8Y)
+* [walmart-sales-forecast: Time Series Forecasting for Walmart Store Sales](https://github.com/youngmki/walmart-sales-forecast)
 
 # IAM
 * [아마존 웹 서비스(Amazon Web Service) 계정 생성하기](https://www.44bits.io/ko/post/creating-aws-web-service-account)
