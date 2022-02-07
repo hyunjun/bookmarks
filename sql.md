@@ -202,6 +202,8 @@ SQL
 * [Databases in 2021: A Year in Review - OtterTune](https://ottertune.com/blog/2021-databases-retrospective/)
   * [2021년 데이터베이스들 리뷰 | GeekNews](https://news.hada.io/topic?id=5652)
 * [글로벌 칼럼 | ‘진화 혹은 변혁’ 클라우드 데이터 웨어하우스의 미래 - ITWorld Korea](https://www.itworld.co.kr/news/218994)
+* [Thread by @ergestx on Thread Reader App – Thread Reader App](https://threadreaderapp.com/thread/1479811885377765383.html)
+  * [SQL 팁 : 나의 SQL 작성 패턴 | GeekNews](https://news.hada.io/topic?id=5896)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
@@ -227,6 +229,7 @@ SQL
 * [Amazon Aurora PostgreSQL 에서 pg_bigm 모듈사용하기](https://jojoldu.tistory.com/590)
 * [(AWS Aurora) PostgreSQL에서 Lock 쿼리 확인하고 원인 종료하기](https://jojoldu.tistory.com/591)
 * [입 개발 MariaDB Connector 와 AWS Aurora | Charsyam's Blog](https://charsyam.wordpress.com/2021/12/11/%ec%9e%85-%ea%b0%9c%eb%b0%9c-mariadb-connector-%ec%99%80-aws-aurora/)
+* [Planning I/O in Amazon Aurora | AWS Database Blog](https://aws.amazon.com/de/blogs/database/planning-i-o-in-amazon-aurora/)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
@@ -263,6 +266,7 @@ SQL
   * [.ini 파일 설정](https://baekjungho.github.io/database-dbeaverini/)
 * [DBLog: A Generic Change-Data-Capture Framework | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/dblog-a-generic-change-data-capture-framework-69351fb9099b)
 * [db_seeder: Relational database data generator..](https://github.com/KonnexionsGmbH/db_seeder)
+* [dqlite: Embeddable, replicated and fault tolerant SQL engine](https://github.com/canonical/dqlite)
 * [dsq: Commandline tool for running SQL queries against JSON, CSV, Excel, Parquet, and more](https://datastation.multiprocess.io/blog/2022-01-11-dsq.html)
 * ERD
   * [ERD 다이어그램 툴 종류와 설치 경로 정리](http://gomcine.tistory.com/entry/ERD-%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8-%ED%88%B4-%EC%A2%85%EB%A5%98%EC%99%80-%EC%84%A4%EC%B9%98-%EA%B2%BD%EB%A1%9C-%EC%A0%95%EB%A6%AC)
@@ -279,10 +283,14 @@ SQL
 * Jetbrains
   * [DataGrip 팁 모음](http://ohgyun.com/770) database IDE
   * [JetBrains Rider에서의 데이터베이스 작업 수행](https://blog.jetbrains.com/kr/2020/03/working-with-databases-in-jetbrains-rider/)
+* [malloy: Malloy is an experimental language for describing data relationships and transformations](https://github.com/looker-open-source/malloy)
+  * [Malloy - 더 나은 SQL by Looker | GeekNews](https://news.hada.io/topic?id=5840)
 * migration
   * [flyway - Evolve your Database Schema easily and reliably across all your instances](https://flywaydb.org/) plain SQL 사용
   * [liquibase.org - source control for your database](http://www.liquibase.org/)  xml 작성, rollback 지원
 * [orbit-db - Peer-to-Peer Databases for the Decentralized Web](https://github.com/orbitdb/orbit-db)
+* [prql: PRQL is a modern language for transforming data — a simpler and more powerful SQL](https://github.com/max-sixty/prql)
+  * [PRQL - 데이터 변환을 위한 더 간단하고 강력한 SQL 제안 | GeekNews](https://news.hada.io/topic?id=5853)
 * [**RadonDB: 대륙의 뉴타입 슈주쿠(Shùjùkù, 数据库, database) !?**](https://www.popit.kr/%EB%8C%80%EB%A5%99%EC%9D%98-%EB%89%B4%ED%83%80%EC%9E%85-%EC%8A%88%EC%A3%BC%EC%BF%A0shujuku-%E6%95%B0%E6%8D%AE%E5%BA%93-database/) MySQL or PostgreSQL 기반의 분산 데이터베이스 이야기
 * [Rel – The desktop relational database management system](https://reldb.org/c/)
 * [Rockset - a scalable, reliable search and analytics service in the cloud that makes it easy to build fast operational applications on TBs of data simply using SQL](https://rockset.com)
@@ -327,6 +335,7 @@ SQL
 * [마리아DB 파티션 테이블+자동 증가 칼럼 대박 버그 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%EB%A7%88%EB%A6%AC%EC%95%84DB-%ED%8C%8C%ED%8B%B0%EC%85%98-%ED%85%8C%EC%9D%B4%EB%B8%94%EC%9E%90%EB%8F%99-%EC%A6%9D%EA%B0%80-%EC%B9%BC%EB%9F%BC-%EB%8C%80%EB%B0%95-%EB%B2%84%EA%B7%B8)
 * [미친 라이브 데모를 통해 보는Write-Scale Out MariaDB Xpand (10 node cluster)](https://www.allshowtv.com/detail.html?idx=749)
 * [mariadb procedure exception 처리 예제](https://stricky.tistory.com/522)
+* [MariaDB vs MySQL - 호환성/포크된 이유/주요 차이점 비교 | GeekNews](https://news.hada.io/topic?id=232)
 * [Authentication Plugin - Unix Socket](https://mariadb.com/kb/en/authentication-plugin-unix-socket/)
 * CDC
   * [mariadb-cdc로 MariaDB CDC 사용하기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/mariadb-cdc-intro)
@@ -922,7 +931,9 @@ SQL
 * [meteor-pg - Reactive PostgreSQL for Meteor](https://github.com/numtel/meteor-pg)
 * [odyssey: Scalable PostgreSQL connection pooler](https://github.com/yandex/odyssey)
 * [Ora2Pg : Migrates Oracle to PostgreSQL](https://www.ora2pg.com/)
-* [postgrest - REST API for any Postgres database](https://github.com/begriffs/postgrest)
+* [postgrest: REST API for any Postgres database](https://github.com/PostgREST/postgrest)
+  * [PostgREST Documentation — PostgREST 9.0.0 documentation](https://postgrest.org/)
+  * [backend.sql + frontend.js =♥ - Polyglot.Network Blog](https://blog.polyglot.network/backend.sql-+-frontend.js-love)
 * [pg2ch: Data streaming from postgresql to clickhouse via logical replication mechanism](https://github.com/mkabilov/pg2ch)
 * [pgagroal - a high-performance protocol-native connection pool for PostgreSQL](https://agroal.github.io/pgagroal/)
 * [pgBackRest - The Best Postgres Backup Tool with a very active community](https://www.migops.com/blog/2021/04/09/pgbackrest-the-best-postgres-backup-tool-with-a-very-active-community/)
@@ -951,6 +962,8 @@ SQL
 * [Psycopg - PostgreSQL driver for Python](https://www.psycopg.org/)
   * [Psycopg2 Tutorial](https://wiki.postgresql.org/wiki/Psycopg2_Tutorial)
   * [Error: pg_config executable not found](https://ohgyun.com/787)
+* [reshape: An easy-to-use, zero-downtime schema migration tool for Postgres](https://github.com/fabianlindfors/reshape)
+  * [Reshape - 다운타임 없는 Postgres용 스키마 이관 도구 오픈소스 | GeekNews](https://news.hada.io/topic?id=5892)
 * [Slinky - The easiest way to query your PostgreSQL data](https://www.slinkydb.com/)
 * [sql_firewall - SQL Firewall Extension for PostgreSQL](https://github.com/uptimejp/sql_firewall)
 * [stolon - PostgreSQL cloud native HA replication manager](https://github.com/sorintlab/stolon)
@@ -1076,6 +1089,7 @@ SQL
 * [Comparing SQLite, DuckDB and Arrow with UN Trade Data · Pachá](https://pacha.dev/blog/2021/08/27/comparing-sqlite-duckdb-and-arrow-with-un-trade-data/)
 * [MySQL을 SQLite로 변경 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/884)
 * [Wesley Aptekar-Cassels | Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
+* [Store SQLite in Cloudflare Durable Objects - Markus Ast](https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects)
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
 * [litestream: Streaming S3 replication for SQLite](https://github.com/benbjohnson/litestream)
