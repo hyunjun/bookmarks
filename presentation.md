@@ -75,6 +75,7 @@ Presentation
   * [프레젠테이션 슬라이드 제작에 특화된 마크다운 편집기 'Marp'](http://macnews.tistory.com/4658)
 * [Mousepose](http://bedreams.tistory.com/46)
 * [the noun project](https://thenounproject.com/) icon
+* pitchdeck [Getting Started with Pitchdeck | Figmatic Plugin Docs](https://docs.figmatic.com/pitchdeck)
 * [pixlr.com/editor](https://pixlr.com/editor/) online photo editor
 * [present: A terminal-based presentation tool with colors and effects](https://github.com/vinayak-mehta/present)
 * [presenta-lib: A javascript library to build expressive web presentations in seconds](https://github.com/presenta-software/presenta-lib)
