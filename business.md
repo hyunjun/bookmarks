@@ -937,6 +937,7 @@ Business
 * [**PM이 가져야 할 매우 효과적인 습관**](https://jihye.oopy.io/pm/habit) 어떻게 보면 leadership에도 연결되는 부분
 * [스타트업PM 이직일기 차별화된 PM의 5가지 프로젝트 기획법 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2021/11/09/pm-project-plan/)
 * [방망이 깎던 노인처럼 문서 작성하기](https://brunch.co.kr/@soosunnaa/19)
+* [Project Manager에 대해서 알아봅시다](https://brunch.co.kr/@jidesign/81)
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
@@ -1090,6 +1091,9 @@ Business
 * [Autocomplete as an interface](http://www.benkuhn.net/autocomplete)
 * [포토샵은 디자인 툴이 아닌 ‘커뮤니케이션 툴’이다](http://ppss.kr/archives/23253)
 * [뛰어난 디자이너의 6가지 행동과 생각](http://ppss.kr/archives/27880)
+* [디자이너를 쉽게 잃는 방법 10가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/807/)
+* [디자이너와 일할 때 도움될 10가지 Tip - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS9262112644)
+* [일부러 디자인을 망치는 디자이너들 | 요즘IT](https://yozm.wishket.com/magazine/detail/1127/)
 * [알고 계십니까, 우리나라의 문양](http://ppss.kr/archives/28551)
 * [Smart Contract의 UX를 설계할 때 겪는 4가지 문제](https://engineering.huiseoul.com/%EC%8A%A4%EB%A7%88%ED%8A%B8-%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8%EB%A5%BC-%EC%84%A4%EA%B3%84%ED%95%A0-%EB%95%8C-%EA%B2%AA%EA%B2%8C-%EB%90%98%EB%8A%94-4%EA%B0%80%EC%A7%80-ux-%EB%AC%B8%EC%A0%9C%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-8d271cc7e21d)
 * [나쁜 소프트웨어 디자인은 군함도 충돌하게 만든다](https://imseongkang.wordpress.com/2019/08/30/ussdesign/)
@@ -1111,8 +1115,6 @@ Business
 * [실전 UI/UX - 약관동의를 설계할때 고려해야할 것들](https://brunch.co.kr/@fbrudtjr1/34)
 * [Gmail's fake loading indicator](https://smitop.com/post/gmail-s-fake-loading-indicator/)
 * [그 특수문자는 사용할 수 없습니다](https://www.jiwon.me/password-rule-ux/)
-* [디자이너를 쉽게 잃는 방법 10가지 | 요즘IT](https://yozm.wishket.com/magazine/detail/807/)
-* [일부러 디자인을 망치는 디자이너들 | 요즘IT](https://yozm.wishket.com/magazine/detail/1127/)
 * [The History of Command Palettes: How Typing Commands Became The Norm Again | Capiche](https://capiche.com/e/consumer-dev-tools-command-palette)
 * [실전 웹기획 - 윤리적인 기획과 마케팅](https://brunch.co.kr/@fbrudtjr1/39)
 * [Pretendard 커스텀 폰트 도입기 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/01/pretendard-%ec%bb%a4%ec%8a%a4%ed%85%80-%ed%8f%b0%ed%8a%b8-%eb%8f%84%ec%9e%85%ea%b8%b0/)
