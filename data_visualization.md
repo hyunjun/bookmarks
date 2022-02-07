@@ -308,6 +308,7 @@ Data Visualization
 * [Global AI Boot Camp Busan : 이왕이면 다홍 데이터 (Python Visualization)](https://www.slideshare.net/SubinAn1/ss-205782769)
 * [12 Data Plot Types for Visualisation from Concept to Code - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2021/12/12-data-plot-types-for-visualization/)
 * [Visualizations for Privacy Preservation - Gatha Varma | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=3Tp7Jf-_H50)
+* [Python Dashboarding Shootout and Showdown - YouTube](https://www.youtube.com/watch?v=1UVghBXt6dY) Dash, Panel, Streamlit, and Voila+IPyWidgets
 * [Altair: Declarative Visualization in Python](https://altair-viz.github.io)
   * [**An Introduction to Altair**](http://vallandingham.me/altair_intro.html)
 * [Awesome Panel](https://awesome-panel.org/)
