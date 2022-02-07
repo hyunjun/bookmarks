@@ -302,6 +302,8 @@ Git
   * 추가로 정기적으로 실행되도록 설정한 자동배포 워크플로우도 설명
 * [How we ship GitHub Mobile every week | The GitHub Blog](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/)
 * [How to build a CI/CD pipeline with GitHub Actions in four simple steps | The GitHub Blog](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
+* [GitHub Actions by Example](https://www.actionsbyexample.com/)
+  * [GitHub Actions by Example | GeekNews](https://news.hada.io/topic?id=5829)
 
 # Badge Readme Profile
 * [README.md 10초만에 깔끔하게 만드는 법](https://gomcine.tistory.com/entry/READMEmd-10%EC%B4%88%EB%A7%8C%EC%97%90-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95?category=624615)
