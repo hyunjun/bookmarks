@@ -38,6 +38,7 @@ Docker
   * [도커 시작하기 11 : 도커 스웜 - 네트워크](https://javacan.tistory.com/entry/docker-start-11-swarm-network)
 * [Docker가 뭐고 왜 쓰는건가요?](https://www.youtube.com/watch?v=tPjpcsgxgWc)
 * [4분코딩 왜 도커(Docker)를 사용해야 할까요? - YouTube](https://www.youtube.com/watch?v=3FcFL2C3ME8)
+* [이론과 실습을 통해 이해하는 Docker 기초](https://hudi.blog/about-docker/)
 * [Infra 도커(docker)(0) 도커의 개념, 컨테이너? - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker00/)
 * [Infra 도커(docker)(1) 설치, hello world - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker01/)
 * [Infra 도커(docker)(2) 컨테이너 조작 기초(pull, run, ps) - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker02/)
