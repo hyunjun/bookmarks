@@ -1199,6 +1199,7 @@ AWS
 * [Amazon SageMaker를 통한 대용량 모델 훈련 방법 살펴보기-김대근,최영준,AWS::AWS Summit Online Korea 2021 - YouTube](https://www.youtube.com/watch?v=csr84BKbFeg)
 * [Develop an automatic review image inspection service with Amazon SageMaker | AWS Machine Learning Blog](https://aws.amazon.com/ko/blogs/machine-learning/develop-an-automatic-review-image-inspection-service-with-amazon-sagemaker/)
 * [Data Science using SageMaker - Machine Learning in Cloud - YouTube](https://www.youtube.com/watch?v=5DIM5ze93w8)
+* [AWS SageMaker - Data Science on Cloud - YouTube](https://www.youtube.com/watch?v=TIxCpGFC-dc)
 * [SageMaker Studio Lab](https://studiolab.sagemaker.aws/)
   * [Testing Amazon SageMaker Studio Lab | Just Stir It Some More](https://benjaminwarner.dev/2021/12/08/testing-amazon-sagemaker-studio-lab)
 
