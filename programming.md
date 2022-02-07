@@ -1698,6 +1698,7 @@ Programming
 * [클라우드 컴퓨팅을 써야 하는 이유 & 그리고 “클라우드 컴퓨팅을 안다는 것” 에 관하여 | by Bryant Jimin Son | Medium](https://bryantson.medium.com/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%84-%EC%8D%A8%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C-%EC%BB%B4%ED%93%A8%ED%8C%85%EC%9D%84-%EC%95%88%EB%8B%A4%EB%8A%94-%EA%B2%83-%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC-6fcf9a763c38)
 * [넷플릭스∙스포티파이∙우버의 공통점…'클라우드 네이티브'의 정의와 특징 - ITWorld Korea](https://www.itworld.co.kr/news/205274)
 * [9 Ways to Fail at Cloud Native](https://www.infoq.com/presentations/fail-cloud-native-migration/)
+* [CNCF Publishes State of Cloud Native Development Report](https://www.infoq.com/news/2022/01/cncf-state-of-cloud-native/)
 * [글로벌 칼럼 | 오늘날 클라우드 서비스가 만들어지는 방식 - ITWorld Korea](https://www.itworld.co.kr/news/205109)
 * [차니의 클라우드 클리닉 :: Channy's Blog](http://blog.creation.net/category/cloud-clinic)
 * [서비스로서의 방화벽 ‘FWaaS’ 알아보기 - ITWorld Korea](https://www.itworld.co.kr/news/206494)
@@ -2464,6 +2465,7 @@ Programming
 * [Top 5 Books to Learn DevOps in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/04/top-5-books-to-learn-devops-for-developers.html)
 * [Containerization In DevOps Explained | Review N Prep](https://reviewnprep.com/blog/containerization-in-devops-explained/)
 * [14 Best DevOps Courses to Learn Online in 2022 | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/13-best-courses-to-learn-devops-for-senior-developers-in-2020-a2997ff7c33c)
+* ['eBPF부터 오픈소스까지' 2022년 '관찰가능성' 주요 트렌드 5가지 - ITWorld Korea](https://www.itworld.co.kr/news/223914) observability
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
   * GitHub, Jira 등의 도구를 연결해서 데이터를 수집한 뒤 이를 시각화해서 사용할 수 있는 데이터 레이크 및 대시보드
   * [DevLake - DevOps를 위한 오픈소스 Data Lake | GeekNews](https://news.hada.io/topic?id=5442)
@@ -3474,6 +3476,7 @@ Programming
 * [Faster Financial Software Development Using Low Code: Focusing on the Four Key Metrics](https://www.infoq.com/articles/financial-software-low-code/)
 * [APEX 사례로 보는 Low Code](https://jhrogue.blogspot.com/2021/09/apex-low-code.html)
 * [The Road to Intelligent Process Automation - Gradient Flow](https://gradientflow.com/the-road-to-intelligent-process-automation/)
+* [Low-Code Platforms and the Rise of the Community Developer: Lots of Solutions, or Lots of Problems?](https://www.infoq.com/articles/low-code-community-developer/)
 * Bubble [The best way to build web apps without code | Bubble](https://bubble.io/)
   * [노 코드 툴, ‘버블’의 A to Z | ㅍㅍㅅㅅ](https://ppss.kr/archives/247069)
 * [Lowdefy - Build internal tools with YAML | Lowdefy - Build internal tools with YAML](https://lowdefy.com/)
@@ -3731,6 +3734,7 @@ Programming
 * [**실시간 댓글 개발기(part.2) – 험난했지만 유익했던 웹소켓 스트레스 테스트 및 안정화 작업**](https://tech.kakao.com/2020/06/15/websocket-part2/)
 * [유용한 테스트 케이스를 위한 개발자의 자세](https://blog.shiren.dev/2020-06-15-%EC%9C%A0%EC%9A%A9%ED%95%9C%ED%85%8C%EC%8A%A4%ED%8A%B8%EC%BC%80%EC%9D%B4%EC%8A%A4%EB%A5%BC%EC%9C%84%ED%95%9C%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98%EC%9E%90%EC%84%B8/)
 * [신규 서비스 배포 전에 실험과 개선을 반복한 이야기 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/vsms-performance-experiment/)
+* [**Fixing Performance Regressions Before they Happen | by Netflix Technology Blog | Jan, 2022 | Netflix TechBlog**](https://netflixtechblog.com/fixing-performance-regressions-before-they-happen-eab2602b86fe)
 * [**How They Test**](https://abhivaikar.github.io/howtheytest/)
 * [유용한 테스트 케이스를 위한 개발자의 자세 : TOAST Meetup](https://meetup.toast.com/posts/246)
 * [Yes, TDD Slows You Down. And that’s OK | by Alessandro Diaferia | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/yes-tdd-slows-you-down-c7ee154ec322)
