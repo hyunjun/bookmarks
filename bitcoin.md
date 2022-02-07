@@ -235,6 +235,12 @@ Bitcoin
 * ['탈중앙화된 디즈니' 만들고 있는 BAYC - T Times](http://www.ttimes.co.kr/view.html?no=2022011112377765682)
 * [어쩌다 NFT를 이해하고 싶은 당신께 | SBS 뉴스](https://news.sbs.co.kr/news/endPage.do?news_id=N1006588092)
 * [디지털 그림 NFT를 샀다는 건 그림이 아니라 영수증을 산 것이다 - 테크잇](https://techit.kr/view/?no=20220129144432)
+* [크립토 커뮤니티의 가장 큰 문제. 크립토 자산가의 출현과 진입 장벽 | by 아곤 | Medium](https://agwn.medium.com/%ED%81%AC%EB%A6%BD%ED%86%A0-%EC%BB%A4%EB%AE%A4%EB%8B%88%ED%8B%B0%EC%9D%98-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EB%AC%B8%EC%A0%9C-52f5a66cf9ea)
+  * NFT는 퍼블릭 세일 모델로 운영이 되는 경우가 많은데, 이 모델에서의 한계를 3가지로 정리
+    * 1) 내러티브와 인센티브의 불일치: 커뮤니티는 다양한 핵심활동이 있는데(소통과 교류, 크리에이션 등), 퍼블릭 세일로서 커뮤니티에 참여하는 경우, 커뮤니티에 어울리는 사람이 들어오는 것이 아니라 돈으로 참여하는 사람이 증가
+    * 2) 후속 참여의 진입 장벽
+    * 3) 커뮤니티 확장성 제한
+  * 그 대안으로 행위기반 인센티브 시스템(Incentive Engine Based on Conduct) 소개
 
 # Python
 * [A peek under Bitcoin's hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
