@@ -258,6 +258,7 @@
     * 1.0은 오래 쓰일 안정적인 버전. 최소 5년동안 1.0 브랜치를 유지할 것이며, 2.0은 3년내에는 출시할 계획 없음
     * 2021년엔 Stream, io_uring, tracing 통합 등을 진행할 예정
   * [Creating a Chat Server with async Rust and Tokio - YouTube](https://www.youtube.com/watch?v=Iapc-qGTEBQ)
+  * [AWS re:Invent 2020: Next-gen networking infrastructure with Rust and Tokio - YouTube](https://www.youtube.com/watch?v=MZyleK8elPk)
 * [tray_rust - A toy ray tracer in Rust](https://github.com/Twinklebear/tray_rust)
 * [uutils/coreutils: Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
   * [Uutils - GNU Coreutils를 Rust로 재작성 | GeekNews](https://news.hada.io/topic?id=5499)
@@ -332,6 +333,10 @@
 * [Lecture: Rust vs. C Programming Languages - YouTube](https://www.youtube.com/watch?v=mmJiwscpB4o)
 * [7 Best Rust Programming Courses and Books for Beginners in 2022 | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/7-best-rust-programming-courses-and-books-for-beginners-in-2021-2ed2311af46c)
 * [C가 주옥같은 개발자들 보세요. Rust 10분 정리! - YouTube](https://www.youtube.com/watch?v=w1dlmOjDLX8)
+* [Easy Rust Korean / 한국어판 - YouTube](https://www.youtube.com/playlist?list=PLfllocyHVgsSJf1zO6k6o3SX2mbZjAqYE)
+  * [Easy Rust](https://dhghomon.github.io/easy_rust/)
+* [Rust Linz, June 2021 - Tim McNamara - How to learn Rust - YouTube](https://www.youtube.com/watch?v=sDtQaO5_SOw)
+* [Learning Rust! 🦀 Axum Hyper Tonic Tower Part 1 - YouTube](https://www.youtube.com/watch?v=9WuiTxm4WaA)
 * [rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
   * 버그 수정하며 Rust 언어 배우기
   * 에러가 있는 코드를 수정하면서 Rust를 읽고 쓰는법 배우기
