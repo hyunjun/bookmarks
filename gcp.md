@@ -73,6 +73,7 @@ Google Cloud Platform GCP
 * [Google Cloud Platform: Creating an Instance and Configuring DNS](https://hackingandslacking.com/google-cloud-platform-creating-an-instance-and-configuring-dns-7043875fd7d4)
 * [Introducing Anthos: An entirely new platform for managing applications in today's multi-cloud world](https://cloud.google.com/blog/topics/hybrid-cloud/new-platform-for-managing-applications-in-todays-multi-cloud-world)
   * [Anthos를 소개합니다 : 멀티클라우드에서 애플리케이션을 관리하기 위한 새로운 플랫폼](https://developers-kr.googleblog.com/2019/06/new-platform-for-managing-applications-in-todays-multi-cloud-world.html)
+* [“어디서나 실행 가능한 관리형 쿠버네티스” 구글 클라우드 안토스의 모든 것 - ITWorld Korea](https://www.itworld.co.kr/news/223699)
 * [Deploy App Containers with Google Cloud’s App Engine](https://hackingandslacking.com/deploy-app-containers-with-gcp-app-engine-1681bd120357)
 * [좀 더 저렴하게 사용하는 Google Cloud Platform(GCP)](https://medium.com/@jwlee98/%EC%A2%80-%EB%8D%94-%EC%A0%80%EB%A0%B4%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-google-cloud-platform-gcp-456cd71379f8)
 * [How to Use Google API to Save Your Cat’s Photo on Cloud](https://hackernoon.com/how-to-use-google-api-to-save-your-cats-photo-on-cloud-711b330fbdcd)
@@ -134,6 +135,8 @@ Google Cloud Platform GCP
   * [클라우드 엔지니어 취업 고군 분투기](https://www.slideshare.net/InfraEngineer/ss-250837818)
 * [구글 클라우드 앱시트 리뷰 | 머신러닝 모델까지 적용 가능한 노코드 앱 빌더 - ITWorld Korea](https://www.itworld.co.kr/news/217289)
 * [A Quick Tour of 7 Google Cloud Service for Data Engineering and Analytics | by Jerry An | Geek Culture | Medium](https://medium.com/geekculture/a-quick-tour-of-7-google-cloud-service-for-data-engineering-and-analytics-7860933df10e)
+* [Open sourcing the App Engine Standard Java runtime | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/open-sourcing-app-engine-standard-java-runtime)
+  * [구글 AppEngine 자바 런타임 오픈소스로 공개 | GeekNews](https://news.hada.io/topic?id=5855)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
