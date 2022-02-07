@@ -1920,6 +1920,8 @@ Javascript
 * [SweetAlert2 - a beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes](https://sweetalert2.github.io/)
 * [TableSorter.js 로 Sorting 개발하기](https://brunch.co.kr/@ourlove/76)
 * [TauCharts. Data focused javascript charting library](http://blog.taucharts.com/taucharts-data-focused-charting-library/)
+* [tauri: Build smaller, faster, and more secure desktop applications with a web frontend](https://github.com/tauri-apps/tauri)
+  * [Create Modern Desktop Apps With Tauri & ReactJS - YouTube](https://www.youtube.com/watch?v=BbZmLXBDGnU)
 * [Temporal: getting started with JavaScript’s new date time API](https://2ality.com/2021/06/temporal-api.html)
   * [JavaScript에서 날짜, 시간과 Temporal API | ~/xo.dev](https://xo.dev/js-temporal-api/)
 * Tern [자바스크립트 정적 분석 도구 턴(Tern)과 이맥스(Emacs) 연동](https://www.44bits.io/ko/post/javascript-static-analysis-server-tern-and-emacs)
