@@ -28,18 +28,6 @@ AWS
 * [Data Science for Startups: Model Services](https://towardsdatascience.com/data-science-for-startups-model-services-2facf2dde81d)
 * [AWS(Amazon Web Services)에서 Ubuntu 5분만에 시작하기](http://blog.saltfactory.net/aws/create-instance-on-aws.html)
 * [Redis on AWS](http://www.slideshare.net/charsyam2/redis-on-aws)
-* [cloudsploit - Open-source AWS security scanning Misconfigurations, open security groups, permissive IAM roles. Scan for these threats and more for free](https://cloudsploit.com/)
-* [아마존 웹 서비스(Amazon Web Service) 계정 생성하기](https://www.44bits.io/ko/post/creating-aws-web-service-account)
-* [아마존 웹 서비스 계정 생성 후 해야하는 IAM 보안 조치 - 루트 사용자와 IAM 사용자의 차이](https://www.44bits.io/ko/post/first_actions_for_setting_secure_account)
-* [아마존 ECS 클러스터 인스턴스와 서비스용 IAM 역할](https://www.44bits.io/ko/page/amazon-ecs-iam-role-for-cluster-instance-and-service)
-* [IAM Role을 이용해서 EC2에 권한 주기](https://brunch.co.kr/@alden/50)
-* [IAM 사용자 추가와 aws cli 설정](https://jybaek.tistory.com/838)
-* [IAM 정책을 잘 알아야 AWS 보안도 쉬워진다. 이것은 꼭 알고 가자! - 신은수 솔루션즈 아키텍트(AWS)](https://www.youtube.com/watch?v=iPKaylieTV8)
-* [Breaking Down AWS’s Identity and Access Management (IAM)](https://medium.com/better-programming/breaking-down-awss-identity-access-management-iam-cb51c9195e4f)
-* [IAM으로Role Switch하기](https://dev.classmethod.jp/articles/iam-2/)
-* [IAM의Policy에대해서](https://dev.classmethod.jp/articles/iam-3/)
-* [IAM에서 태그를 이용해서 Role Switch 해보기](https://dev.classmethod.jp/articles/iam/)
-* [iamlive: Generate a basic IAM policy from AWS client-side monitoring (CSM)](https://github.com/iann0036/iamlive)
 * [혼란스러운 AWS 접근 제어, 데이터 노출의 원인…라이트스핀 - ITWorld Korea](https://www.itworld.co.kr/news/196984)
 * [jungle - AWS operations by cli should be simpler](https://github.com/achiku/jungle)
 * [알파 유저를 위한 AWS 스터디 자료](http://channy.creation.net/blog/1082)
@@ -106,10 +94,6 @@ AWS
 * [Amazon Web Services Korea’s slideshows on SlideShare](https://www.slideshare.net/awskorea/tag/awscloud2017)
 * [AWS Spot Instance를 좀 더 편하게 사용해보자](http://everyevery.net/index.php/2017/01/aws-spot-instance%EB%A5%BC-%EC%A2%80-%EB%8D%94-%ED%8E%B8%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EC%9E%90/)
 * [Spot Instance 사용하는 방법](https://developer88.tistory.com/309)
-* [AWS, Kubernetes 그리고 WAF](https://dailyhotel.io/aws-kubernetes-%EA%B7%B8%EB%A6%AC%EA%B3%A0-waf-f8fb5fe54caf)
-* [AWS Managed WAF 체험기](https://medium.com/benx-tech-blog/aws-managed-waf-%EC%B2%B4%ED%97%98%EA%B8%B0-eea52affb295)
-* [AWS WAF 운영에 대한 이야기 - 우아한형제들 기술 블로그](https://woowabros.github.io/security/2020/10/15/woowa-aws-waf.html)
-* [AWS WAF 설정 및 접근 제한하기 – OpsNow Tech Blog](https://blog.opsnow.com/40)
 * [A Day in Java Developer’s Life, with a taste of Kubernetes](https://github.com/arun-gupta/java-k8s)
 * [Kubernetes Hands-on](https://github.com/awskrug/handson-labs-2018/blob/master/OpenInfraDays/hands-on.md)
 * [AWSKRUG Hands-on Lab 2018](https://github.com/awskrug/handson-labs-2018)
@@ -451,6 +435,8 @@ AWS
 * [차량용 단말을 위한 IoT 파이프라인 구축기 #1 - SOCAR Tech Blog](https://tech.socarcorp.kr/mobility/2022/01/06/socar-iot-pipeline-1.html)
 * [Performance Analysis for Arm vs x86 CPUs in the Cloud](https://www.infoq.com/articles/arm-vs-x86-cloud-performance/)
 * [Multi tenant Architecture for a SaaS Application on AWS | Clickittech](https://www.clickittech.com/saas/multi-tenant-architecture/)
+* [Storm in the stratosphere: how the cloud will be reshuffled · Erik Bernhardsson](https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html)
+* [How I Discovered Thousands of Open Databases on AWS | by Avi Lumelsky | Jan, 2022 | InfoSec Write-ups](https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
@@ -826,6 +812,22 @@ AWS
 * [AWS EMR과 Airflow를 이용한 Batch Data Processing | by Min Jo | 101-devs | Aug, 2020 | Medium](https://medium.com/class101-dev/aws-emr%EA%B3%BC-airflow%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-batch-data-processing-a100fc2f4f10)
 * [입 개발 EMR에서는 sc.addFile, Databricks에서는 그냥 dbfs 폴더를 이용하자. | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/25/%ec%9e%85-%ea%b0%9c%eb%b0%9c-emr%ec%97%90%ec%84%9c%eb%8a%94-sc-addfile-databricks%ec%97%90%ec%84%9c%eb%8a%94-%ea%b7%b8%eb%83%a5-dbfs-%ed%8f%b4%eb%8d%94%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%98%ec%9e%90/)
 
+# IAM
+* [아마존 웹 서비스(Amazon Web Service) 계정 생성하기](https://www.44bits.io/ko/post/creating-aws-web-service-account)
+* [아마존 웹 서비스 계정 생성 후 해야하는 IAM 보안 조치 - 루트 사용자와 IAM 사용자의 차이](https://www.44bits.io/ko/post/first_actions_for_setting_secure_account)
+* [아마존 ECS 클러스터 인스턴스와 서비스용 IAM 역할](https://www.44bits.io/ko/page/amazon-ecs-iam-role-for-cluster-instance-and-service)
+* [IAM Role을 이용해서 EC2에 권한 주기](https://brunch.co.kr/@alden/50)
+* [IAM 사용자 추가와 aws cli 설정](https://jybaek.tistory.com/838)
+* [IAM 정책을 잘 알아야 AWS 보안도 쉬워진다. 이것은 꼭 알고 가자! - 신은수 솔루션즈 아키텍트(AWS)](https://www.youtube.com/watch?v=iPKaylieTV8)
+* [Breaking Down AWS’s Identity and Access Management (IAM)](https://medium.com/better-programming/breaking-down-awss-identity-access-management-iam-cb51c9195e4f)
+* [IAM으로Role Switch하기](https://dev.classmethod.jp/articles/iam-2/)
+* [IAM의Policy에대해서](https://dev.classmethod.jp/articles/iam-3/)
+* [IAM에서 태그를 이용해서 Role Switch 해보기](https://dev.classmethod.jp/articles/iam/)
+* [IAM Legend - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SebastianBille.iam-legend)
+* [iamlive: Generate a basic IAM policy from AWS client-side monitoring (CSM)](https://github.com/iann0036/iamlive)
+* [infograph-iam.pdf](https://static.tpschmidt.com/infograph-iam.pdf)
+* [cloudsploit - Open-source AWS security scanning Misconfigurations, open security groups, permissive IAM roles. Scan for these threats and more for free](https://cloudsploit.com/)
+
 # Kinesis
 * [AWS Fargate, Fluentd 및 Amazon Kinesis Data Firehose를 사용한 확장형 로그 솔루션 집계기 구축하기](https://aws.amazon.com/ko/blogs/korea/building-a-scalable-log-solution-aggregator-with-aws-fargate-fluentd-and-amazon-kinesis-data-firehose)
 * [Intro to Node on AWS Lambda for S3 and Kinesis](http://eng.localytics.com/taming-aws-lambda-for-s3-and-kinesis-at-localytics/)
@@ -886,6 +888,7 @@ AWS
 * [Optimising serverless for BBC Online | by Johnathan Ishmael | BBC Product & Technology | Medium](https://medium.com/bbc-design-engineering/optimising-serverless-for-bbc-online-118fe2c04beb)
 * [BBC Online Uses Serverless to Scale Extremely Fast](https://www.infoq.com/news/2021/01/bbc-serverless-scale/)
 * [Serverless와 기술도입, Backend Application의 미래 | by Kurt Lee | Vingle Tech Blog | Medium](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5) 오래된 글이지만 매우 좋은 참고할만한 글
+* [Distributed tracing for serverless applications on AWS](https://matcha.level-out.com/posts/distributed-tracing/)
 * [Why AWS Lambda Pricing Has to Change for the Enterprise](https://www.infoq.com/articles/aws-lambda-price-change/)
 * [매일이 새로운 초기 스타트업, 파이썬과 함께라면. 백승호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=FZL2dMFefC0) sls
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
@@ -1256,6 +1259,7 @@ AWS
 * [GoDaddy에서 Route 53으로 네임 서버 변경하기 – OpsNow Tech Blog](https://blog.opsnow.com/42)
 * [Route53 DNS Delegation (DNS 위임) - 개발 못하는 개발자, 인프라 모르는 운영자](https://stevenshim.github.io/dns-deligation/)
 * [Route 53 Resolver DNS 방화벽](https://zigispace.net/1145)
+* [Creating Disaster Recovery Mechanisms Using Amazon Route 53 | Networking & Content Delivery](https://aws.amazon.com/ko/blogs/networking-and-content-delivery/creating-disaster-recovery-mechanisms-using-amazon-route-53/)
 
 # S3
 * [S3FS가 느리다구요? 그럼 goofys를 사용해 보세요](http://www.studyforcloud.com/s3fsga-neuridaguyo-geureom-goofysreul-sayonghae-boseyo-2/)
@@ -1424,3 +1428,10 @@ AWS
 * [설치형 개인 VPN 서버 알고(Algo) 아마존 라이트세일에 설치하고 운영하기](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail)
 * [Algo로 개인 VPN 서버 구축하기(요약판)](https://www.44bits.io/ko/post/algo-vpn-server-on-aws-lightsail-summary)
 * [보안성 높은 재택근무 환경을 위한 AWS 아키텍처 구성하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/improving-security-architecture-controls-for-wfh/)
+
+# WAF Web Application Firewall
+* [AWS, Kubernetes 그리고 WAF](https://dailyhotel.io/aws-kubernetes-%EA%B7%B8%EB%A6%AC%EA%B3%A0-waf-f8fb5fe54caf)
+* [AWS Managed WAF 체험기](https://medium.com/benx-tech-blog/aws-managed-waf-%EC%B2%B4%ED%97%98%EA%B8%B0-eea52affb295)
+* [AWS WAF 운영에 대한 이야기 - 우아한형제들 기술 블로그](https://woowabros.github.io/security/2020/10/15/woowa-aws-waf.html)
+* [AWS WAF 설정 및 접근 제한하기 – OpsNow Tech Blog](https://blog.opsnow.com/40)
+* [Guidelines for Implementing AWS WAF](https://d1.awsstatic.com/whitepapers/guidelines-implementing-aws-waf.pdf)
