@@ -1042,6 +1042,11 @@ AWS
 * [How to Write a Secure Python Serverless App on AWS Lambda | Okta Developer](https://developer.okta.com/blog/2021/07/26/python-serverless)
 * [Install Python Library in Lambda | AWS Lambda Layer - YouTube](https://www.youtube.com/watch?v=HBt8MXHcaPI)
 
+## Lambda Rust
+* [Rust On AWS (Really FAST Lambdas) - YouTube](https://www.youtube.com/watch?v=EqV5wKD233c)
+* [Rust Linz, July 2021 - Stefan Baumgartner - Serverless Rust - YouTube](https://www.youtube.com/watch?v=EXqqsCss8Gk)
+* [Build an AWS Lambda in Rust (2021) - YouTube](https://www.youtube.com/watch?v=PmtwtK6jyLc)
+
 ## Lambda Scala
 * [Writing AWS Lambda Functions in Scala](https://aws.amazon.com/ko/blogs/compute/writing-aws-lambda-functions-in-scala/)
 * [How to Setup AWS Lambda in Scala without any external Library](https://edward-huang.com/aws/cloud/2019/11/28/how-to-setup-aws-lambda-in-scala-without-any-external-library/)
