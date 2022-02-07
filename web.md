@@ -164,6 +164,14 @@ Web
 * [Web workers in action: why they’re helpful, and how you should use them](https://medium.freecodecamp.org/web-workers-in-action-2c9ff33be266)
 * [How to Fix ERR_CONNECTION_TIMED_OUT error](https://hackernoon.com/how-to-fix-err-connection-timed-out-error-1f1325bfaf8c)
 * [웹 접근성 관련 국내외 자료 모음. This is for everyone who is interested in A11y!](https://github.com/yonguilee/a11y_bookmarks)
+* [웹 접근성 인증 받는 방법과 후기 – Under The Pencil](https://elvanov.com/2123)
+* [WAI-ARIA란?](https://story.pxd.co.kr/1588)
+  * WAI(Web Accessibility Initiative)에서 리치 애플리케이션의 접근성 표준인 ARIA를 어떻게 사용해야 하는지 설명
+    * 사용했을 때 스크린 리더기에서 어떻게 동작하는지 영상을 같이 제공하고 있어서 이해 용이
+  * 접근성을 제공하기 위해 태그에 추가 정보 제공. 하지만, 태그의 의미 자체를 바꾸진 않아야 함
+  * role로 컴포넌트나 요소 역할 정의
+  * aria-required, aria-label같은 프로퍼티를 컴포넌트의 특징을 정의
+* [김맥스 기술 블로그 | 웹 접근성 준수가 가져오는 프론트엔드 개발의 이점](https://maxkim-j.github.io/posts/web-accessiblity-virtuous-cycle)
 * [**Six steps to building your website from scratch**](https://medium.com/@khollobaugh/https-medium-com-khollobaugh-six-steps-to-building-your-website-from-scratch-a713288cc6d)
 * [페이스북과 쿠키의 상관관계? Cookie 기초개념 잡아드림](https://www.youtube.com/watch?v=1emZgLiGE4s)
 * [Cookie Recipes](https://so-so.dev/web/cookie-recipes/)
@@ -204,7 +212,6 @@ Web
 * [브라우저의 동작 원리와 렌더링 최적화 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/how-browser-works/)
 * [Web Browser Engineering](https://browser.engineering/)
 * [well-known 디렉토리와 securty.txt 그리고 humans.txt](https://www.hahwul.com/2021/03/18/what-is-wellknown-directory/)
-* [웹 접근성 인증 받는 방법과 후기 – Under The Pencil](https://elvanov.com/2123)
 * [37. 월드와이드웹(WWW)의 시작 1 | 만화로 나누는 자유/오픈소스 소프트웨어 이야기](https://joone.net/2021/01/02/37-%ec%9b%94%eb%93%9c%ec%99%80%ec%9d%b4%eb%93%9c%ec%9b%b9www%ec%9d%98-%ec%8b%9c%ec%9e%91-1/)
 * [WebDevChallenge: A hopefully ever-growing list of web-development related challenges](https://github.com/jlem/WebDevChallenge)
 * [Under 1px line](https://hokeydokey.tistory.com/156)
@@ -226,12 +233,6 @@ Web
     * 크로미움에서 기존 구현체가 메모리를 너무 많이 사용해서 no-state prefetch로 다시 구현
     * Quicklink, Guess.js 등의 서드파티 라이브러리 존재
 * [추론적인 프리렌더링으로 빠르게 페이지 로드하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20211006) prefetch prerender
-* [WAI-ARIA란?](https://story.pxd.co.kr/1588)
-  * WAI(Web Accessibility Initiative)에서 리치 애플리케이션의 접근성 표준인 ARIA를 어떻게 사용해야 하는지 설명
-    * 사용했을 때 스크린 리더기에서 어떻게 동작하는지 영상을 같이 제공하고 있어서 이해 용이
-  * 접근성을 제공하기 위해 태그에 추가 정보 제공. 하지만, 태그의 의미 자체를 바꾸진 않아야 함
-  * role로 컴포넌트나 요소 역할 정의
-  * aria-required, aria-label같은 프로퍼티를 컴포넌트의 특징을 정의
 * [**브라우저의 사용자 에이전트는 왜 이렇게 복잡하게 생겼을까? - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2021/10/11/Why-User-Agent-string-is-so-complex.html)
 * [브라우저의 사용자 에이전트는 왜 이렇게 복잡하게 생겼을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1307/)
 * [Optimizing resource loading with Priority Hints](https://web.dev/priority-hints/)
