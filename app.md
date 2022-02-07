@@ -225,6 +225,7 @@ App
 
 # Backup
 * [The paranoid person's guide to a complete Mac backup](http://www.macworld.com/article/2855735/the-paranoid-persons-guide-to-a-complete-mac-backup.html)
+* [글로벌 칼럼 | 중요한 하드웨어에 투자를 아끼지 말라 - ITWorld Korea](https://www.itworld.co.kr/news/223439) backup의 중요성
 * [FreeFileSync: Open Source File Synchronization & Backup Software](https://freefilesync.org/)
 * [mackup - Keep your application settings in sync (OS X/Linux)](https://github.com/lra/mackup)
   * [Mackup으로 시스템 설정 파일(dotfiles) 백업하고 복원하기 | 44BITS](https://www.44bits.io/ko/post/managing-dotfiles-by-using-mackup)
