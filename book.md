@@ -176,6 +176,7 @@ Book
   * [어른답게 존중하고 존중받습니다](https://brunch.co.kr/@graypool/301)
   * [유연하게 듣고 단단하게 말합니다](https://brunch.co.kr/@graypool/302)
   * [말을 비우고 대화를 채웁니다](https://brunch.co.kr/@graypool/303)
+  * [일의 본질을 잊지 않습니다](https://brunch.co.kr/@graypool/304)
 * (NOT YET) [지브리의 천재들](https://butter-shower.tistory.com/228)
 
 # Africa
