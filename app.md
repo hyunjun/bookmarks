@@ -926,6 +926,7 @@ App
     * [네이버 클라우드 플랫폼의 Live Station과 OBS로 온라인 행사 운영하기](https://blog.openinfradays.kr/share/2020/12/28/online-conference-with-obs.html)
     * [원하는 특정 프로그램들의 소리만 방송(OBS).. : 네이버블로그](https://blog.naver.com/eternalguard/221550777714)
     * [온라인 시대! YouTube Live로 개발자 행사 운영하기(feat. Developer Relations) - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-developer-relations-youtube-live/)
+    * [Setting up OBS for Live Coding in 7 Steps](https://www.freecodecamp.org/news/setting-up-obs-for-live-coding-7-steps-99b8986e7249/)
   6. [나트론 Natron](https://natrongithub.github.io)
     * 오픈 소스 노드 기반 합성 프로그램. 오픈 소스 및 상용 OpenFX 플러그인 지원. 다양한 VFX 이펙트를 만들거나 여러 영상을 노드 형식으로 합성 가능
   7. [잉크스케이프 Inkscape](https://inkscape.org/ko)
@@ -1437,6 +1438,8 @@ App
   * [맥 화면 녹화 소리 포함 시키는 방법 / Big Sur / M1](https://creavart.tistory.com/392)
 * [boltstream: Boltstream Live Video Streaming Website + Backend](https://github.com/benwilber/boltstream)
 * Canva [이미지 편집 서비스 캔바(Canva)](https://www.44bits.io/ko/post/preparing-wtd-meetup-without-a-designer-nor-photoshop#%EC%9D%B4%EB%AF%B8%EC%A7%80-%ED%8E%B8%EC%A7%91-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%BA%94%EB%B0%94canva)
+* [Cleanup.pictures - Remove objects, people, text and defects from any picture for free](https://cleanup.pictures/)
+  * [Cleanup Pictures - 사진에서 필요없는 부분 지우기 | GeekNews](https://news.hada.io/topic?id=5843)
 * [cmdpxl: totally practical command-line image editor](https://github.com/knosmos/cmdpxl)
 * [다운튜브 DownTube - 동영상 다운로드 프로그램 4K/8K 가능](http://downtube.org/)
 * [ecam - 쉬운 녹화 & 유튜브 방송 프로그램](https://ryulib.tistory.com/471)
@@ -1547,6 +1550,8 @@ App
 * [Standard Notes | A Simple And Private Notes App](https://standardnotes.org/)
 * [Stormah: Own Your Data](https://stormah.com/) your notes, stored in your git repo
 * [transpose - Structured Notes to Manage Your Business and Life](https://transpose.com/)
+* [trilium: Build your personal knowledge base with Trilium Notes](https://github.com/zadam/trilium)
+  * [Trilium Notes - 개인 KB구축을 위한 계층적 메모 앱 오픈소스 | GeekNews](https://news.hada.io/topic?id=5871)
 * [Ulysses](https://ulysses.app/)
   * [Ulysses 에디터내 이미지 크기 조절](https://jojoldu.tistory.com/633)
 * [Wiki.js](https://wiki.js.org/)
@@ -1824,6 +1829,7 @@ App
 * [ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features](http://conemu.github.io/)
 * Cygwin
   * [Invoke-CygwinSetup A powershell cmdlet for installing cygwin](https://github.com/lucastheisen/cygwin-setup)
+* [DevToys: A Swiss Army knife for developers](https://github.com/veler/DevToys)
 * [ebpf-for-windows: eBPF implementation that runs on top of Windows](https://github.com/microsoft/ebpf-for-windows)
 * [fciv - 윈도우에서 checksum 확인하기](http://sunphiz.me/wp/archives/2376)
 * [Geany - The Flyweight IDE](https://www.geany.org/)
