@@ -234,6 +234,7 @@ Apache
   * Alibaba의 Ele.me 팀에서 데이터 스트림 처리 시스템으로 Apache Flink를 도입한 사례
   * Apache Storm, Apache Spark와 비교하여 Flink를 선택한 배경 설명
 * [Introduction of apache flink kosscon2018](https://www.slideshare.net/secret/dhQ4aYqD02SQ11)
+* [Introduction to Flink in 30 minutes - YouTube](https://www.youtube.com/watch?v=RCP9-HdId9w)
 * [About Flink streaming](https://www.slideshare.net/ssusera7e5ca/about-flink-streaming-126179502)
 * [A Brief History of Flink: Tracing the Big Data Engine’s Open-source Development](https://medium.com/@alitech_2017/a-brief-history-of-flink-tracing-the-big-data-engines-open-source-development-87464fd19e0f)
 * [Patterns of Streaming Applications](https://www.youtube.com/watch?v=RKIKbMi1H5E)
