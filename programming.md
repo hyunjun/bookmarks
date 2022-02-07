@@ -83,9 +83,6 @@ Programming
   * [Part IV: Earth Mover’s Distance](http://www.deepideas.net/building-content-based-search-engine-earth-movers-distance/)
   * [Part V: Signature Quadratic Form Distance](http://www.deepideas.net/building-content-based-search-engine-signature-quadratic-form-distance/)
 * [Building personal search infrastructure for your knowledge and code Overview of search tools for desktop and mobile; using Emacs and Ripgrep as desktop search engine](https://beepb00p.xyz/pkm-search.html)
-* [10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
-* [Michael Feathers - 10 Papers Every Developer Should Read](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
-* [arxiv sanity perserver](http://www.arxiv-sanity.com/top) top papers based on people's libraries
 * [How to Design Programs, Second Edition](http://www.ccs.neu.edu/home/matthias/HtDP2e/)
 * [**소프트웨어 설계란 무엇인가?**](https://www.mimul.com/blog/what-is-software-design/) 문서의 중요성을 설명한 92년 글 번역문. 20여년이 지났어도 유효한 좋은 글(그러니 역자도 번역했겠지)
 * [**엔지니어라면 꼭 보고가야 할 일론 머스크의 5단계 원칙**](https://maily.so/electricshock/posts/767236) 일단 시작하기 전에 0. 현황 파악부터
@@ -159,7 +156,6 @@ Programming
 * [InfoQ: The InfoQ Podcast](https://www.infoq.com/5-software-architecture-podcasts-2019/)
 * [codingradio.xyz](https://codingradio.xyz/)
 * [stdout.fm - 소프트웨어 개발, 테크 뉴스, 전자제품에 대해 잡담하는 팟캐스트. #stdoutfm](https://stdout.fm/)
-* [New paper: Theory of Programs](https://bertrandmeyer.com/2015/07/06/new-paper-theory-of-programs/)
 * [relation between type theory and category theory](http://ncatlab.org/nlab/show/relation+between+type+theory+and+category+theory)
 * [References for "The Future of Programming"](http://worrydream.com/dbx/)
 * [How Should I Think About My Career?](http://www.breakoutcareers.com/)
@@ -183,7 +179,6 @@ Programming
 * [www.cnet.co.kr/view/6271 임백준](http://www.cnet.co.kr/view/6271)
 * [www.sourcecodepoetry.com](http://www.sourcecodepoetry.com/)
 * [**gitxiv - Collaborative Open Computer Science**](http://gitxiv.com/)
-* [paperswelove.org](http://paperswelove.org/)
 * [어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 * [배우는 방법을 다시 배우기](http://jhrogue.blogspot.com/2018/02/b.html)
 * [How to become a code-learning super NINJA (1)](https://codeburst.io/how-to-become-a-code-learning-super-ninja-1-ae293637c337)
@@ -3314,6 +3309,15 @@ Programming
 * [x86-bare-metal-examples: Dozens of minimal operating systems to learn x86 system programming. Tested on Ubuntu 17.10 host in QEMU 2.10 and real hardware. Userland cheat at: https://github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM baremetal setup at: https://github.com/cirosantilli/linux-kernel-module-cheat#baremetal-setup 学习x86系统编程的数十个最小操作系统。 已在QEMU 2.10中的Ubuntu 17.10主机和真实硬件上进行了测试。 Userland作弊网址：https：//github.com/cirosantilli/linux-kernel-module-cheat#userland-assembly ARM裸机安装程序位于：https：//github.com/cirosantilli/linux-kernel-module-cheat#baremetal- 设置](https://github.com/cirosantilli/x86-bare-metal-examples)
 * [Xv6, a simple Unix-like teaching operating system](https://pdos.csail.mit.edu/6.828/2019/xv6.html)
 
+# Paper
+* [New paper: Theory of Programs](https://bertrandmeyer.com/2015/07/06/new-paper-theory-of-programs/)
+* [10 Technical Papers Every Programmer Should Read (At Least Twice)](http://blog.fogus.me/2011/09/08/10-technical-papers-every-programmer-should-read-at-least-twice/)
+* [Michael Feathers - 10 Papers Every Developer Should Read](https://michaelfeathers.silvrback.com/10-papers-every-developer-should-read-at-least-twice)
+* [ar5iv – Articles from arXiv.org as responsive HTML5 web documents](https://ar5iv.org/)
+  * [ar5iv - arXiv의 PDf를 HTML5로 보기 | GeekNews](https://news.hada.io/topic?id=5874)
+* [arxiv sanity perserver](http://www.arxiv-sanity.com/top) top papers based on people's libraries
+* [paperswelove.org](http://paperswelove.org/)
+
 # Parser
 * [Parser generators vs. handwritten parsers: surveying major language implementations in 2021 | notes.eatonphil.com](https://notes.eatonphil.com/parser-generators-vs-handwritten-parsers-survey-2021.html)
 * [Zig, Parser Combinators - and Why They're Awesome](https://devlog.hexops.com/2021/zig-parser-combinators-and-why-theyre-awesome)
@@ -3414,6 +3418,7 @@ Programming
 * [kappa-architecture.com](http://milinda.pathirage.org/kappa-architecture.com/)
 * [Kappa vs Lambda Architectures and Technology Comparison - YouTube](https://www.youtube.com/watch?v=j7D29eyysDw)
 * [How to Design Realtime Data Consumption using Lambda and Kappa Architectures - YouTube](https://www.youtube.com/watch?v=wEueOJ4OSlg)
+* [Streaming 101: Hello Streaming - YouTube](https://www.youtube.com/watch?v=A1YC_AC0qf8)
 
 ## Real Time Processing, Streaming Library
 * [Apache Heron · A realtime, distributed, fault-tolerant stream processing engine](https://heron.incubator.apache.org/)
