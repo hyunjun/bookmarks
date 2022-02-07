@@ -81,6 +81,7 @@ ElasticSearch - Lucene
   * [Amazon Elasticsearch Service](https://aws.amazon.com/ko/blogs/aws/new-amazon-elasticsearch-service/)
   * [Introducing OpenSearch | AWS Open Source Blog](https://aws.amazon.com/ko/blogs/opensource/introducing-opensearch/)
   * [Amazon OpenSearch Service로 추천 서비스 구현하기 - YouTube](https://www.youtube.com/watch?v=JmbB-Q7xDKM)
+  * [Monitoring underlying hardware failures for EC2 instances by logging them with Amazon OpenSearch Service | AWS Cloud Operations & Migrations Blog](https://aws.amazon.com/de/blogs/mt/monitoring-underlying-hardware-failures-for-ec2-instances-by-logging-them-with-amazon-opensearch-service/)
 * [Supercharging the Elasticsearch Percolator](http://underthehood.meltwater.com/blog/2015/09/29/supercharging-the-elasticsearch-percolator/)
 * [Filebeat 가볍게 사용해 볼까요?](http://jjeong.tistory.com/1059)
 * [Getting AWS logs from S3 using Filebeat and the Elastic Stack | Elastic Blog](https://www.elastic.co/kr/blog/getting-aws-logs-from-s3-using-filebeat-and-the-elastic-stack)
