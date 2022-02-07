@@ -690,6 +690,7 @@ Programming Books
 * (NOT YET) 실습하며 배우는 딥러닝 입문 with Kaggle
   * [Dr. Bean의 코딩교실 - YouTube](https://www.youtube.com/user/FlyHeavensky)
 * (NOT YET) [인공지능: 현대적 접근방식 제4판](http://occamsrazr.net/tt/374)
+* (NOT YET) [단단한 심층 강화학습](https://jpub.tistory.com/1240)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
