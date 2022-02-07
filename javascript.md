@@ -1055,6 +1055,7 @@ Javascript
   * [Javascript의 Promise를 알아보자 #ES6](https://developer88.tistory.com/373)
   * [async 와 await 로 작성하는 읽기쉬운 비동기코드](https://developer88.tistory.com/381)
   * [JavaScript Callbacks, Promises, and Async / Await Explained - YouTube](https://www.youtube.com/watch?v=JRNToFh3hxU)
+  * [JavaScript - Promise (then, catch) - YouTube](https://www.youtube.com/watch?v=Sn0ublt7CWM)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
