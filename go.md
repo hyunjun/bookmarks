@@ -82,6 +82,7 @@ Go
 * [Qihoo 360 and Go](http://blog.golang.org/qihoo)
 * [Lexical Scanning in Go](http://cuddle.googlecode.com/hg/talk/lex.html)
 * [Scope and Shadowing in Go](http://blog.charmes.net/2015/06/scope-and-shadowing-in-go.html)
+* [Shadow Variable in Golang | Shadow Variablel in Go | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=ZQIwk0wlClA)
 * [example - a concurrent prime sieve](https://play.golang.org/p/9U22NfrXeq)
   * [Sieve daisy chain in python](http://rextester.com/WTKDS3290)
 * [Go 1.5's vendor/ experiment](https://medium.com/@freeformz/go-1-5-s-vendor-experiment-fd3e830f52c3)
@@ -444,6 +445,9 @@ Go
   * between writing concurrent programs and the real world
 * [GopherCon 2017: Kavya Joshi - Understanding Channels](https://www.youtube.com/watch?v=KBZlN0izeiY)
   * A deep dive into the channel implementation in Go
+* [Understanding GO Routine and Channel | by Thinley Norbu | WesionaryTEAM | Jul, 2020 | Medium](https://medium.com/wesionary-team/understanding-go-routine-and-channel-b09d7d60e575)
+* [golang - Go 채팅 서버를 만들면서 goroutine과 channel 이해하기 - jacking75](https://jacking75.github.io/go_chatServer/)
+* [A Beginner's Guide to Golang Channels - YouTube](https://www.youtube.com/watch?v=lqo0Ao_DgFw)
 * [**Simulating A Real-World System (Coffee Shop) In Go**](https://www.youtube.com/watch?v=jJS6G7irZSc)
 * [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
 * [Concurrency Made Easy (Practical Tips For Effective Concurrency In Go)](https://www.youtube.com/watch?v=DqHb5KBe7qI)
@@ -452,7 +456,6 @@ Go
 * [Why goroutines are not lightweight threads?](https://codeburst.io/why-goroutines-are-not-lightweight-threads-7c460c1f155f)
 * [Go: How Does a Goroutine Start and Exit?](https://medium.com/a-journey-with-go/go-how-does-a-goroutine-start-and-exit-2b3303890452)
 * [Structured Concurrency in Go](https://medium.com/@arunsworld/structured-concurrency-in-go-b800c7c4434e)
-* [Understanding GO Routine and Channel | by Thinley Norbu | WesionaryTEAM | Jul, 2020 | Medium](https://medium.com/wesionary-team/understanding-go-routine-and-channel-b09d7d60e575)
 * [Go: How Are Deadlocks Triggered?. ℹ️ This article is based on Go 1.14. | by Vincent Blanchon | A Journey With Go | Jul, 2020 | Medium](https://medium.com/a-journey-with-go/go-how-are-deadlocks-triggered-2305504ac019)
 * [Go: Goroutine Leak Detector. A goroutine leak can easily be detected… | by Vincent Blanchon | A Journey With Go | Sep, 2020 | Medium](https://medium.com/a-journey-with-go/go-goroutine-leak-detector-61a949beb88)
 * [Notes on structured concurrency, or: Go statement considered harmful](https://muchtrans.com/translations/notes-on-structured-concurrency-or-go-statement-considered-harmful.ko.html)
@@ -460,7 +463,6 @@ Go
 * [Golang 의 동시성을 이용한 소수 찾기](https://jusths.tistory.com/141)
 * [Go 언어의 동시성 관리 방법 · Present](https://present.do/decks/60bf9c111903093a77d168a9)
 * [**Goroutine 은 어떻게 동작할까? :: sungjunyoung**](https://sungjunyoung.github.io/posts/how-goroutine-works/)
-* [golang - Go 채팅 서버를 만들면서 goroutine과 channel 이해하기 - jacking75](https://jacking75.github.io/go_chatServer/)
 * [errgroup으로 goroutine 10배 잘 활용하기 | DevJin-Blog](https://devjin-blog.com/golang-errgroup-goroutine/)
 * [Limit Unbound Concurrency in Go (Part 1) | by Jerry An | Dec, 2021 | Level Up Coding](https://levelup.gitconnected.com/limit-unbound-concurrency-in-go-part-1-72f7cedf2e61)
 * [Limit Unbound Concurrency in Go (Part 2) | by Jerry An | Dec, 2021 | Level Up Coding](https://levelup.gitconnected.com/limit-unbound-concurrency-in-go-part-2-a00ada3bb50f)
