@@ -154,6 +154,7 @@
 * [Java & Kotlin enum class가 완벽한 싱글톤이라 불리는 이유 — 시행착오를 줄이는 방법](https://dataportal.kr/54)
 * [Mac에서 코틀린 개발환경 구성하기](https://jojoldu.tistory.com/635)
 * [블로그에 코틀린 플레이그라운드 넣기](https://dalinaum.github.io/blog/2022/01/28/blog-kotlin-playground.html)
+* [상태를 가변적으로 관리했을 때 발생하는 문제 — 시행착오를 줄이는 방법](https://weekly.ac/65)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
