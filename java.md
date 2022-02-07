@@ -281,6 +281,8 @@ Java
   * [Java UDP Client Server Program - UDP 프로그래밍](https://woolbro.tistory.com/30)
   * [Fundamentals of UDP Socket Programming in Java](https://medium.com/javarevisited/fundamentals-of-udp-socket-programming-in-java-4a6972370592)
   * [Java 의 SSLHandshakeException 문제 해결](https://www.lesstif.com/pages/viewpage.action?pageId=29590407)
+  * [URLConnection & HttpURLConnection](https://goddaehee.tistory.com/161)
+  * [7 Examples of HttpURLConnection in Java - Sending GET and POST Request Tutorial | Java67](https://www.java67.com/2019/03/7-examples-of-httpurlconnection-in-java.html)
   * getHostAddress [사용자의 IP를 가져오기 (IPv4)](https://blog.naver.com/platinasnow/220332173012)
   * ServerSocket [localhost는 IPv6와 IPv4 어떤걸로 동작할까? :: 시행착오를 줄이는 방법](https://jinssssun.tistory.com/2)
 * NIO
