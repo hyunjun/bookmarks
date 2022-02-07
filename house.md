@@ -124,3 +124,4 @@ House
   * [PublicDataReader(0.1.1 Ver) Tutorial](https://colab.research.google.com/drive/1pFtMFr_te9T_maHjee8Sd8Yq9rTrE-4F)
   * [국토교통부 아파트매매 실거래 데이터 수집하기](https://wooiljeong.github.io/python/public_data_reader_01/)
   * [PublicDataReader - 미세먼지 데이터 수집하기](https://wooiljeong.github.io/python/public_data_reader_02/)
+* Valuemap [토지건물 거래는 밸류맵](https://www.valueupmap.com/)
