@@ -783,12 +783,13 @@ AWS
 * [Amazon Elastic Kubernetes Service에 IPv6 네트워킹 기능 추가 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-elastic-kubernetes-service-adds-ipv6-networking/)
   * AWS EKS에서는 각 Pod이 IP 주소를 수신하면서 VPC 내의 IP 주소가 많이 필요한 문제 존재, IPv6가 이제 도입되어 IP 주소 고갈 문제 방지 & 라우팅 간소화
 * [AWS Elastic Kubernetes Service (EKS) Review](https://matduggan.com/aws-eks/)
-* [EKS Anywhere](https://anywhere.eks.amazonaws.com/)
-  * 아마존 EKS을 온프레미스 환경에서 설치해서 Kubernetes 클러스터를 운영할 수 있도록 아마존에서 EKS Anyware를 오픈소스로 공개
+* [초보자를 위한 EKS 맛 보기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163578)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
     * 스팟 인스턴스 인터럽션이나 ASG 리밸런싱이 일어날 때 EventBridge를 통해 SQG로 이벤트가 전달되고 NTH(node-termination-handler) 팟이 SQS 이벤트를 받아서 이에 맞게 처리
+* [EKS Anywhere](https://anywhere.eks.amazonaws.com/)
+  * 아마존 EKS을 온프레미스 환경에서 설치해서 Kubernetes 클러스터를 운영할 수 있도록 아마존에서 EKS Anyware를 오픈소스로 공개
 * [eksctl - a CLI for Amazon EKS](https://eksctl.io/)
   * [eksctl – the EKS CLI](https://aws.amazon.com/ko/blogs/opensource/eksctl-eks-cli/)
 
@@ -1060,6 +1061,7 @@ AWS
 * [awslimitchecker - A script and python module to check your AWS service limits and usage, and warn when usage approaches limits](https://github.com/jantman/awslimitchecker)
 * [aws-ml-experimenter - Framework for running ML models on Amazon EC2 and analyzing results with Shiny](https://github.com/rikturr/aws-ml-experimenter)
 * [AWS Report - Tool For Analyzing Amazon Resources](https://www.kitploit.com/2020/01/aws-report-tool-for-analyzing-amazon.html)
+* [aws-root-account: Terraform for the Ministry of Justice AWS root account](https://github.com/ministryofjustice/aws-root-account)
 * [AWS SSM Send-Command · Actions · GitHub Marketplace](https://github.com/marketplace/actions/aws-ssm-send-command)
   * [영상 현직 개발자가 추천하는 쉽고 편한 오픈소스 2종 - ZDNet korea](https://zdnet.co.kr/view/?no=20210714134829) aws ssm send-command, tailwind css
 * [AWS Toolkit for IntelliJ를 통해 손쉽게 서버리스 앱 배포해 보기](https://aws.amazon.com/ko/blogs/korea/aws-toolkit-for-intellij-now-generally-available)
