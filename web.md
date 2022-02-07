@@ -650,6 +650,8 @@ Web
   * [Designing REST API with Open API Specification (OAS) v2.0 & v3.0 using Swagger](https://hackernoon.com/designing-rest-api-with-open-api-specification-oas-v2-0-v3-0-using-swagger-11dd4ef8cea6)
 * [TSWS, A Totally Simple Web Server](https://github.com/dfletcher/tsws)
 * [UrlDiff - Simple visual regression testing](http://www.productchart.com/blog/2015-07-19-urldiff)
+* [Wapp - A Web-Application Framework for TCL](https://wapp.tcl.tk/home/doc/trunk/README.md)
+  * [Wapp - TCL을 위한 웹 어플리케이션 스택 | GeekNews](https://news.hada.io/topic?id=5817)
 * [web2img: This is the real WebPack](https://github.com/etherdream/web2img) can use image hosting sites as free CDNs to save bandwidth costs
 * [WebDevCurriculum: Knowre 웹개발 커리큘럼](https://github.com/Knowre-Dev/WebDevCurriculum)
   * [Knowre 신입 웹개발 커리큘럼 | GeekNews](https://news.hada.io/topic?id=4968)
