@@ -27,6 +27,7 @@ GIS
   * [맵(지도)의 미래는 게임의 현재를 따라간다 (번역) | GeekNews](https://news.hada.io/topic?id=4963)
 * [Leap seconds: Causing Bugs Even When They Don't Happen - Bert Hubert's writings](https://berthub.eu/articles/posts/leapseconds-expose-bugs-even-when-they-dont-happen/) 윤초
 * [The Evolution of Map Design: From Medieval Latin to Google Maps | by Daniel Ruston | Google Design | Medium](https://medium.com/google-design/design-for-a-map-927b533ac544)
+* [예측 가능한 대규모 서비스 개발하기. 일정 퍼포먼스 이상을 내도록 서비스를 구성하는 과정과, 성능을 테스트… | by Changhoi Kim | 당근마켓 팀블로그 | Feb, 2022 | Medium](https://medium.com/daangn/%EC%98%88%EC%B8%A1-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-a33e2f3cef88)
 
 # Go
 * [find3: High-precision indoor positioning framework, version 3](https://github.com/schollz/find3)
