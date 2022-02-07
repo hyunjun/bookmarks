@@ -686,6 +686,7 @@ Business
 * [어떤 분위기의 팀을 만들 것인가?](https://brunch.co.kr/@younghakjang/55)
 * [**심리적 안전감이란? 커넥트북 최고의 팀은 어떻게 다른가, 두려움 없는 조직**](https://brunch.co.kr/@younghakjang/112)
 * [직장에서 ‘심리적 안정감’의 중요성 | ㅍㅍㅅㅅ](https://ppss.kr/archives/232129)
+* [팀의 구성원들이 실력을 발휘하기 위해서는 안전함을 느껴야 한다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250546)
 * [구글은 생동감 있는 조직을 만들기 위해 어떤 환경을 조성할까? : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=27447489) 심리적 안정감
 * [Independence,autonomy,too many small teams | Kislay Verma](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
 * [에드 캣멀과의 상상 인터뷰](https://brunch.co.kr/@younghakjang/57)
