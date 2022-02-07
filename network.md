@@ -76,6 +76,7 @@ Network
     * IPv6의 롤아웃이 느린 이유는 IPv4와 같이 배포할 때 충분한 가치를 제공하지 못했기 때문
     * IPv6의 주목적이 IPv4의 주소 공간을 늘리는 것이었으므로 IPv4 주소 공간이 제한적인 사설망에서 많이 사용
 * [The IPv6 mess](https://cr.yp.to/djbdns/ipv6mess.html)
+* [Reasons for servers to support IPv6](https://jvns.ca/blog/2022/01/29/reasons-for-servers-to-support-ipv6/)
 * [삐약삐약 네트워크 엔지니어 이야기 - YouTube](https://www.youtube.com/watch?v=D259i3pBYLA)
   * [삐약삐약 네트워크 엔지니어 이야기](https://www.slideshare.net/InfraEngineer/ss-250837913)
 * [‘데이터 흐름을 보호하는 프로토콜’ IPsec 이해하기 - ITWorld Korea](https://www.itworld.co.kr/news/220474)
