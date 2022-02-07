@@ -268,6 +268,7 @@ Algorithm
 * [Algorithm Archives - CodeCrucks](https://codecrucks.com/category/algorithm/)
 * [How to Find the Largest and Smallest of Three Numbers in Java? Solved | Java67](https://www.java67.com/2019/05/how-to-find-largest-and-smallest-of-three-numbers-in-java.html)
 * [Solutions2Coding - S2C- An online Platform for Coding solutions](https://www.solutions2coding.com/)
+* [가희와 쓰레기 놀이 : 메타 정보를 잘 저장해서 효율적으로 구현해 봅시다.](https://codingdog.tistory.com/660)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
