@@ -150,6 +150,7 @@ Azure
 * [프리지아 랩 :: 앱 등록(서비스 주체) 삭제 이슈가 있는 Azure AD 테넌트 삭제 방법](https://www.dokyun.pe.kr/272)
 * [Create Redis in Azure and Integrate in API and check performance | E2E Demo | Beginner Series - YouTube](https://www.youtube.com/watch?v=npBGXYuf1JA)
 * [Terraform Tutorial For Beginners to create virtual machine on azure -Practice Lab | Beginner Academy - YouTube](https://www.youtube.com/watch?v=Etyo2AgHNrs)
+* [How to work with Soft Delete in Azure? - Top Tech Notes](https://toptechnotes.com/soft-delete-in-azure/)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
