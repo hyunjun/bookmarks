@@ -694,6 +694,8 @@ Programming
 * [‘비즈니스 의제로 부상한 API 관리’··· 추천 도구 15선 - CIO Korea](https://www.ciokorea.com/news/219179)
 * [**Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점 | Amazon Web Services 한국 블로그**](https://aws.amazon.com/ko/blogs/korea/werner-vogels-lesson-learned-for-good-api-design/)
   * [Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점 :: Channy's Blog](http://channy.creation.net/blog/1514)
+  * [Werner Vogels – 좋은 API 디자인을 위한 6가지 배운 점 | GeekNews](https://news.hada.io/topic?id=5823)
+* [How To Design A Good API and Why it Matters - YouTube](https://www.youtube.com/watch?v=aAb7hSCtvGw)
 * [Moving beyond Request-Reply: How Smart APIs Are Different - YouTube](https://www.youtube.com/watch?v=P9_5qAPfrpg)
 * [Top 5 Courses to Learn API Development (REST, SOAP, Web) in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/10/top-5-courses-to-learn-api-development.html)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
@@ -1085,6 +1087,8 @@ Programming
 * [기고 | '분류에서 실행까지' 기술 아키텍처 개선 가이드 - CIO Korea](https://www.ciokorea.com/news/215279)
 * [Don't Make My Mistakes: Common Infrastructure Errors I've Made](https://matduggan.com/mistakes/)
 * [Top 5 Courses to Learn Software Architecture for Experienced Programmers in 2022 - Best of Lot](https://javarevisited.blogspot.com/2019/03/5-courses-programmers-can-join-to-learn.html)
+* [homelab: Small and power efficient self-hosting infrastructure. Fully automated from empty disk to operating services](https://github.com/khuedoan/homelab)
+  * [HomeLab을 위한 자동화된 셀프호스팅 아키텍처 | GeekNews](https://news.hada.io/topic?id=5809)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
@@ -1467,6 +1471,7 @@ Programming
 * [Strategic Monoliths & Microservices • Vaughn Vernon & James Higginbotham • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=7NAyn1DC420)
 * [Top 10 Microservices design patterns and principals - YouTube](https://www.youtube.com/watch?v=MqZX1NaeFQI)
 * [Getting Started With Microservices - YouTube](https://www.youtube.com/watch?v=S8Aiqws3N5o)
+* [Why our team cancelled our move to microservices | by Steven Lemon | Medium](https://steven-lemon182.medium.com/why-our-team-cancelled-our-move-to-microservices-8fd87898d952)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -2272,6 +2277,7 @@ Programming
 # CPU
 * [Understanding CPU Microarchitecture for Performance](https://speakerdeck.com/alblue/understanding-cpu-microarchitecture-for-performance)
 * [M1은 RISC-V의 상승을 예고한다 | GeekNews](https://news.hada.io/topic?id=3447)
+* [애플 M1 맥이 그렇게 빠른 이유 - LunaTK's Blog](https://lunatk.github.io/2020/12/14/20201214-why-is-apple-m1-chip-so-fast/) CPU에 국한되는 이야기는 아님
 * [동영상 45분만에 보는 현대 CPU 아키텍쳐 정리 | GeekNews](https://news.hada.io/topic?id=4047)
 * [OpenCPU - a system for embedded scientific computing and reproducible research](https://www.opencpu.org/)
 
@@ -2314,6 +2320,7 @@ Programming
 * [SHA-1 'Fully and Practically Broken' By New Collision | Decipher](https://duo.com/decipher/sha-1-fully-and-practically-broken-by-new-collision)
 * [A Blueprint for Securing Software Development - DevOps.com](https://devops.com/a-blueprint-for-securing-software-development/)
 * [돈 들이지 않고 사이버보안 기술을 쌓는 8가지 방법 - ITWorld Korea](https://www.itworld.co.kr/news/212589)
+* [“클라우드와 제로 트러스트가 답이다” 소프트웨어 보안을 유지하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/223289)
 * [How to Break API's - YouTube](https://www.youtube.com/watch?v=bM0dem12P4Y)
 * [현대적 보안 – 안드로메다 토끼](https://andromedarabbit.net/%ED%98%84%EB%8C%80%EC%A0%81-%EB%B3%B4%EC%95%88/)
 * [7 Cryptography Concepts EVERY Developer Should Know - YouTube](https://www.youtube.com/watch?v=NuyzuNBFWxQ)
