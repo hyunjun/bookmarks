@@ -151,6 +151,7 @@ Azure
 * [Create Redis in Azure and Integrate in API and check performance | E2E Demo | Beginner Series - YouTube](https://www.youtube.com/watch?v=npBGXYuf1JA)
 * [Terraform Tutorial For Beginners to create virtual machine on azure -Practice Lab | Beginner Academy - YouTube](https://www.youtube.com/watch?v=Etyo2AgHNrs)
 * [How to work with Soft Delete in Azure? - Top Tech Notes](https://toptechnotes.com/soft-delete-in-azure/)
+* [Troy Hunt: How I Got Pwned by My Cloud Costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
