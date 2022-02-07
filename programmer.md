@@ -6,6 +6,7 @@ Programmer
 * [흔하지 않은 웹 개발자가 되는 방법](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
 * [어썸데브블로그](https://awesome-devblog.netlify.app/)
   * [awesome-devblog: 어썸데브블로그. 국내 개발/기술 블로그 모음(only 실명으로)](https://github.com/awesome-devblog/awesome-devblog)
+* [awesome-blogs: 한국에 있는 좋은 개발자들의 블로그들을 편리하게 구독할 수 있도록 하나의 주소로 묶어서 RSS 피드로 제공해줍니다](https://github.com/BenjaminKim/awesome-blogs)
 * [SHIPSTREAMS - A list of makers shipping live](https://shipstreams.com/)
   * 인디 개발자들이 서비스 릴리즈를 위해 프로그래밍하는걸 스트리밍
   * 해당 스트리머들을 모아놓고, 그들이 제작, 빌드하는 사이드 프로젝트를 간략하게 소개
