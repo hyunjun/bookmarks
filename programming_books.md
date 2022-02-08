@@ -1423,6 +1423,7 @@ Programming Books
 * (NOT YET) [코틀린 리액티브 프로그래밍 RxKotlin을 사용한 리액티브 프로그래밍](http://acornpub.co.kr/book/reactive-kotlin)
   * [**1-00.코틀린을 리액티브하게 Flex하다**](https://soda1127.github.io/flex-reactive-kotlin/)
 * (NOT YET) [코틀린을 다루는 기술](https://sihan-son.github.io/Kotlin-advanced/) 함수형 패러다임이 잘 녹아들었다는 평이 있음
+* (NOT YET) [Joyce의 안드로이드 앱 프로그래밍 with 코틀린 - 골든래빗](https://goldenrabbit.co.kr/product/must-have-joyce%EC%9D%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-with-%EC%BD%94%ED%8B%80%EB%A6%B0/)
 
 # Linux
 
