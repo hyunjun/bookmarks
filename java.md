@@ -244,6 +244,7 @@ Java
   * Processing large files efficiently in Java
     * [part 1](https://www.java-success.com/processing-large-files-efficiently-java-part-1/)
     * [part 2](https://www.java-success.com/processing-large-files-efficiently-java-part-2/)
+  * [3 Ways to Read File line by line in Java 8? Examples](https://javarevisited.blogspot.com/2015/07/3-ways-to-read-file-line-by-line-in.html)
 * Generics
   * [Java Generics FAQs - Frequently Asked Questions](http://www.angelikalanger.com/GenericsFAQ/JavaGenericsFAQ.html)
   * [제네릭의 비애](http://blog.hazard.kr/archives/778)
