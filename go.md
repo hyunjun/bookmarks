@@ -850,12 +850,7 @@ Go
   * [1편 개요](https://www.popit.kr/react-go%EB%A1%9C-%EB%A7%8C%EB%93%A0-wordpress-%EC%9D%BD%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-1%ED%8E%B8-%EA%B0%9C%EC%9A%94/)
   * [2편 Go API 서버](https://www.popit.kr/react-go%EB%A1%9C-%EB%A7%8C%EB%93%A0-wordpress-%EC%9D%BD%EA%B8%B0-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%B6%95-%EC%82%AC%EB%A1%80-2%ED%8E%B8-go-api-%EC%84%9C%EB%B2%84/)
   * [3편 React 서버사이드 렌더링](https://www.popit.kr/react-%EC%84%9C%EB%B2%84%EC%82%AC%EC%9D%B4%EB%93%9C-%EB%A0%8C%EB%8D%94%EB%A7%81/)
-* [Setting up the Go Project | Creating a Web APP using Golang and React - YouTube](https://www.youtube.com/watch?v=zH9izHU7oqI)
-* [Setting up the Router, Handlers, and Models in our Go Project | Creating Web APP using Go and React - YouTube](https://www.youtube.com/watch?v=1JrxfWU4Dns)
-* [Creating Simple API Route for our Project | Creating a Web App using Golang and React | Go Part 3 - YouTube](https://www.youtube.com/watch?v=mTUwnTbD1C0)
-* [Creating a Database Postgresql | Creating a Web APP using Golang and React| Database Part 1 - YouTube](https://www.youtube.com/watch?v=YQKdPvMt2DY)
-* [Connecting to the Database PostgreSQL | Golang and React Web APP | Database Part 2 - YouTube](https://www.youtube.com/watch?v=ww2aAXxzckQ)
-* [Creating Database Functions for Project | Creating WebApp using Golang & React | Database Part 3 - YouTube](https://www.youtube.com/watch?v=JyXz5Lagp48)
+* [React + Golang Web Application - YouTube](https://www.youtube.com/playlist?list=PLn5OXHZVoLZQ_mn0c2ueT96bdIMhxXOLb)
 
 # Web Restful
 * [Build RESTful API in Go and MongoDB](https://hackernoon.com/build-restful-api-in-go-and-mongodb-5e7f2ec4be94)
