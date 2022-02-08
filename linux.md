@@ -455,6 +455,7 @@ Linux
   * [An Introduction to AWK – The New Stack](https://thenewstack.io/an-introduction-to-awk/)
   * [Understanding AWK - Earthly Blog](https://earthly.dev/blog/awk-examples/)
     *  awk가 어떻게 입력데이터의 행과 열을 다루는지 보여주고 아마존의 1,900만 개의 리뷰의 데이터를 awk로 처리해서 랭크를 매겨주는 프로그램 작성
+  * [AWK Command Examples for Beginners / AWK Linux Tutorial](https://bytexd.com/awk-command-examples-tutorial/)
   * [aho: A git implementation in awk](https://github.com/djanderson/aho)
 * `basename` get file name from path
   * e.g. `$ basename /tmp/mdstat.tmp .tmp` returns `mdstat`
