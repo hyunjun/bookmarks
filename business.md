@@ -263,16 +263,6 @@ Business
 * [**실리콘밸리 탑 클래스와 함께 일해보며**](https://brunch.co.kr/@iamzenon/26) 효율적인 회의
 * [회의 참석자의 7가지 유형](https://brunch.co.kr/@hyungsukkim/112)
 * [왜 우리는 생산성을 죽이는 회의를 하고 있을까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/250094)
-* [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
-* [일대일 면담으로 훌륭한 소통 구조를 구축하라](https://brunch.co.kr/@graypool/67)
-* [1 on 1](https://brunch.co.kr/@tilltue/74)
-* [사무실에 모여서 일하지 않을 때, 1:1 미팅에서 꼭 해야 할 질문들](https://camp.lemonbase.com/1on1/remote)
-* [1:1 미팅에서 대화를 여는 질문들](https://camp.lemonbase.com/1on1/opening)
-* [1:1 미팅, 매일 보는데 무슨 말을 하나요?](https://camp.lemonbase.com/1on1)
-* [1:1 미팅이 리더의 핵심 활동이어야 하는 이유](https://camp.lemonbase.com/1on1/leadership)
-* [1:1 미팅 시간 어떻게 관리해야 할까요?](https://camp.lemonbase.com/peopletalk/1on1)
-* [1 ON 1 의 정의](https://www.linkedin.com/feed/update/urn:li:activity:6863276228426764288/)
-* [1 on 1 목적](https://gist.github.com/hyunjun/cbf46d51740603c7eec03a2a973162c5#file-1_on_1-md)
 * [일잘러는 이런 사람 빅데이터로 알아보는 성공하는 직원의 비밀 | 인터비즈](https://blog.naver.com/businessinsight/221572920446)
 * [컨퍼런스콜 문화](https://estimastory.com/2016/01/24/conferencecall/)
 * [미국의 콜 문화](https://sungmooncho.com/2018/07/03/conference-call-culture/)
@@ -421,6 +411,19 @@ Business
 * [State of UX 2022 - 'Rebuild' | GeekNews](https://news.hada.io/topic?id=5633)
 * [NBA 3점슈터 커리에게서 배우는 경영학 | 자기계발 | DBR](https://dbr.donga.com/article/view/1303/article_no/9137/ac/a_view) 강점을 키우라는 주제는 알겠지만 너무 커리에 대해 과장 혹은 왜곡
 * [실패를 배움의 기회로 삼는 용기](https://brunch.co.kr/@graypool/221) 딱히 분류하기 힘듦. TDD의 정신?
+
+# 1 on 1
+* [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
+* [일대일 면담으로 훌륭한 소통 구조를 구축하라](https://brunch.co.kr/@graypool/67)
+* [1 on 1](https://brunch.co.kr/@tilltue/74)
+* [사무실에 모여서 일하지 않을 때, 1:1 미팅에서 꼭 해야 할 질문들](https://camp.lemonbase.com/1on1/remote)
+* [1:1 미팅에서 대화를 여는 질문들](https://camp.lemonbase.com/1on1/opening)
+* [1:1 미팅, 매일 보는데 무슨 말을 하나요?](https://camp.lemonbase.com/1on1)
+* [1:1 미팅이 리더의 핵심 활동이어야 하는 이유](https://camp.lemonbase.com/1on1/leadership)
+* [1:1 미팅 시간 어떻게 관리해야 할까요?](https://camp.lemonbase.com/peopletalk/1on1)
+* [1 ON 1 의 정의](https://www.linkedin.com/feed/update/urn:li:activity:6863276228426764288/)
+* [1 on 1 목적](https://gist.github.com/hyunjun/cbf46d51740603c7eec03a2a973162c5#file-1_on_1-md)
+* [The unreasonable effectiveness of one-on-ones | benkuhn.net](https://www.benkuhn.net/11/)
 
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
