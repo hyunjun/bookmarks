@@ -55,6 +55,7 @@ Hardware
 * [Apple M1칩은 왜 그렇게 빠를까? | GeekNews](https://news.hada.io/topic?id=3315)
 * [Embedded Software Development in Visual Studio - C++ Team Blog](https://devblogs.microsoft.com/cppblog/visual-studio-embedded-development/)
 * [개발자의 백만가지 취미 | 하드웨어 프로토타이핑 (부제:아이디어의 물성) | by Minhwan Kim | We’re Team MakinaRocks! | Jan, 2022 | Medium](https://medium.com/makinarocks/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%B0%B1%EB%A7%8C%EA%B0%80%EC%A7%80-%EC%B7%A8%EB%AF%B8-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9D%B4%ED%95%91-58b9512ad9d5)
+* [SkyBot - 우리집 위로 날아가는 비행기 사진을 자동으로 추적해 찍는 시스템 | GeekNews](https://news.hada.io/topic?id=5818)
 
 # Arduino
 * [Arduino](http://www.arduino.cc)
@@ -327,6 +328,7 @@ Hardware
 * ['IT/라즈베리파이' 카테고리의 글 목록](https://www.sagein.net/category/IT/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4)
 * [ARM 서버와 라즈베리 파이를 이용한 온도 측정](https://naleejang.tistory.com/254)
 * [Easy-ISLisp on Raspberry PI 400 - YouTube](https://www.youtube.com/watch?v=NWbEwjE7boA)
+* [gokrazy: a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!)](https://github.com/gokrazy/gokrazy)
 * [internet-pi: Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
 * [PiBox](https://pibox.io/)
   * [PiBox Mini - 라즈베리 Pi 스토리지 서버 | GeekNews](https://news.hada.io/topic?id=5507)
