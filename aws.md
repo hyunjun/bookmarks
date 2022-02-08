@@ -827,6 +827,8 @@ AWS
 * [IAM의Policy에대해서](https://dev.classmethod.jp/articles/iam-3/)
 * [IAM에서 태그를 이용해서 Role Switch 해보기](https://dev.classmethod.jp/articles/iam/)
 * [IAM Legend - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SebastianBille.iam-legend)
+* [consoleme: A Central Control Plane for AWS Permissions and Access](https://github.com/Netflix/consoleme)
+  * [스타트업에서 AWS IAM 권한 관리 잘 하는법](https://engineering.ab180.co/stories/iam-management-consoleme)
 * [iamlive: Generate a basic IAM policy from AWS client-side monitoring (CSM)](https://github.com/iann0036/iamlive)
 * [infograph-iam.pdf](https://static.tpschmidt.com/infograph-iam.pdf)
 * [cloudsploit - Open-source AWS security scanning Misconfigurations, open security groups, permissive IAM roles. Scan for these threats and more for free](https://cloudsploit.com/)
