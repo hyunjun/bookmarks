@@ -964,6 +964,8 @@ Java
 * [Detect proactively whether application’s memory is under-allocated - JAXenter](https://jaxenter.com/memory-under-allocated-176329.html)
 * [How Garbage Collection works in Java? Explained](https://javarevisited.blogspot.com/2011/04/garbage-collection-in-java.html)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
+* [GCGC](https://github.com/apple/GCGC)
+  * [Apple Open Sources GCGC: a Tool to Analyze Java GC Logs](https://www.infoq.com/news/2022/01/apple-gcgc-java/)
 * [gctoolkit: Tool for parsing GC logs](https://github.com/microsoft/gctoolkit)
   * [Microsoft Open-Sources GCToolkit to Tap into JVM GC Logs](https://www.infoq.com/news/2021/09/msft-opensourced-gctoolkit/)
   * [마이크로소프트, 자바 GC툴킷 오픈소스로 공개…JVM 메모리 상태 고급 분석 가능 - ITWorld Korea](https://www.itworld.co.kr/news/207139)
