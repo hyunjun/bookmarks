@@ -165,6 +165,7 @@ Programming Books
 * (NOT YET) [데이터 스토리 ( 데이터를 설득력 있는 이야기로 바꾸는 방법 )](https://jybaek.tistory.com/944)
 * (NOT YET) SRE를 위한 시스템 설계와 구축 [SRE? 데브옵스? 노옵스? 데브섹옵스?...그리고 신뢰성 보안 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS2873493735)
 * (NOT YET) [해커, 광기의 랩소디 - 세상을 바꾼 컴퓨터 혁명의 영웅들 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1580)
+* (NOT YET) [1일 1로그 100일 완성 IT 지식 - YouTube](https://www.youtube.com/watch?v=OGJVzgEbTPs)
 
 # Agile Scrum
 
