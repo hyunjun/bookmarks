@@ -1006,6 +1006,7 @@ Linux
 * [Debugging with eBPF Part 2: Tracing full body HTTP request/responses | Pixie Labs Blog](https://blog.px.dev/ebpf-http-tracing/)
 * [Debugging with eBPF Part 3: Tracing SSL/TLS connections | Pixie Labs Blog](https://blog.px.dev/ebpf-openssl-tracing/)
 * [Notes on BPF & eBPF](https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/)
+* [A Gentle Introduction to eBPF](https://www.infoq.com/articles/gentle-linux-ebpf-introduction/)
 * [**Interactive map of Linux kernel**](https://makelinux.github.io/kernel/map/)
 * [Submitting your first patch to the Linux kernel - Cristian Henrique - Medium](https://medium.com/@crhenr/submitting-your-first-patch-to-the-linux-kernel-e81d2541fac6)
 * [Getting started with Linux kernel development](https://gist.github.com/vegard/22200a9f91af138a99ae22a9b814a9a4)
