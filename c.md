@@ -501,6 +501,7 @@ C
 * [kkamagui의 작업실 :: 미네소타 대학(University of Minnesota)에서 의도적으로 리눅스 커널(Linux Kernel)에 보안 위협을 초래했네요](https://kkamagui.tistory.com/943)
 * [c++ - pointer comparisons "<" with one past the last element of an array object - Stack Overflow](https://stackoverflow.com/questions/16233868/pointer-comparisons-with-one-past-the-last-element-of-an-array-object)
 * [Joe Zbiciak's answer to What happens in memory when you define a pointer of a pointer in C? - Quora](https://www.quora.com/What-happens-in-memory-when-you-define-a-pointer-of-a-pointer-in-C/answer/Joe-Zbiciak)
+* [Mark Gritter's answer to Why are pointers so difficult to work with in C? - Quora](https://www.quora.com/Why-are-pointers-so-difficult-to-work-with-in-C/answer/Mark-Gritter)
 
 # Standard Library
 * file
