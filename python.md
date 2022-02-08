@@ -3412,8 +3412,6 @@ Python
 * [highlander - There can be only one... process](https://github.com/chriscannon/highlander)
 * [howdoi - 파이썬 유틸 howdoi 분석](http://www.jinniahn.com/2016/09/howdoi.html)
 * [htsint: a Python library for sequencing pipelines that combines data through gene set generation](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0729-3)
-* [HTTPie: a CLI, cURL-like tool for humans](https://github.com/jkbrzt/httpie)
-  * [httpie: A CLI http client that will make you smile](http://radek.io/2015/10/20/httpie/)
 * [Hy](http://docs.hylang.org/)
   * [Live-coding Blender with Hy](http://mccormick.cx/news/entries/live-coding-blender-with-hy)
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)

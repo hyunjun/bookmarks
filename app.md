@@ -583,7 +583,8 @@ App
 * [Http 요청 관련 툴을 추천해보아요 | GeekNews](https://news.hada.io/topic?id=5607)
 * curl
 * [Hoppscotch - Open source API development ecosystem](https://hoppscotch.io/ko/)
-* httpie
+* [httpie: As easy as /aitch-tee-tee-pie/ 🥧 Modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more. https://twitter.com/httpie ](https://github.com/httpie/httpie)
+  * [httpie: A CLI http client that will make you smile](http://radek.io/2015/10/20/httpie/)
 * HTTP Toolkit [Intercept, debug & mock HTTP with HTTP Toolkit](https://httptoolkit.tech/)
   * [HTTP Toolkit - HTTP 디버깅용 오픈소스 | GeekNews](https://news.hada.io/topic?id=5589)
 * [insomnia - Debug APIs like a human, not a robot Finally, a REST client you'll love](https://insomnia.rest/)
