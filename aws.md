@@ -892,6 +892,7 @@ AWS
 * [BBC Online Uses Serverless to Scale Extremely Fast](https://www.infoq.com/news/2021/01/bbc-serverless-scale/)
 * [Serverless와 기술도입, Backend Application의 미래 | by Kurt Lee | Vingle Tech Blog | Medium](https://medium.com/vingle-tech-blog/serverless%EC%99%80-%EA%B8%B0%EC%88%A0%EB%8F%84%EC%9E%85-backend-application%EC%9D%98-%EB%AF%B8%EB%9E%98-8f114a8b00d5) 오래된 글이지만 매우 좋은 참고할만한 글
 * [Distributed tracing for serverless applications on AWS](https://matcha.level-out.com/posts/distributed-tracing/)
+* [Serverless 101 (부제: 새해에 서버리스 찍.먹.해보기)](https://justdoit-teamblog.blogspot.com/2022/01/serverless-101.html)
 * [Why AWS Lambda Pricing Has to Change for the Enterprise](https://www.infoq.com/articles/aws-lambda-price-change/)
 * [매일이 새로운 초기 스타트업, 파이썬과 함께라면. 백승호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=FZL2dMFefC0) sls
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
