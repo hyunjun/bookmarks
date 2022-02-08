@@ -244,6 +244,8 @@ Web
   * [우선순위 힌트로 리소스 로딩 최적화하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_2021117)
 * [**짧게 써보는 웹 프론트엔드의 역사**](https://velog.io/@minsangk/%EC%A7%A7%EA%B2%8C-%EC%8D%A8%EB%B3%B4%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C%EC%9D%98-%EC%97%AD%EC%82%AC)
 * [프론트엔드 개발하고 싶은데 자바스크립트(와 떨거지들)가 싫은 이들에게 - DEV Community](https://dev.to/composite/peuronteuendeu-gaebalhago-sipeunde-jabaseukeuribteuwa-ddeolgeojideulga-silheun-ideulege-2h73) flutter blazor vaadin
+* [프론트엔드 역사와 미래, 업무 분야 ... 그리고 잘하는 프론트엔드 개발자란?](https://velog.io/@teo/frontend)
+  * [시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란 | GeekNews](https://news.hada.io/topic?id=5819)
 
 # Apache
 * installation
