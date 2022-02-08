@@ -57,6 +57,7 @@ Bitcoin
 * [(보고서) 암호자산 성장은 국채와 통화정책에까지 영향을 미칠까? | GeekNews](https://news.hada.io/topic?id=4187)
 * [On anyone-can-spend Pay-to-Taproot outputs before activation](https://b10c.me/blog/007-spending-p2tr-pre-activation/)
 * [DID You Hear? Decentralized Identifiers Are Coming – The New Stack](https://thenewstack.io/did-you-hear-decentralized-identifiers-are-coming/)
+* [브릿지 알고 쓰자! : 네이버 블로그](https://blog.naver.com/jinsol96/222637804119)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
@@ -181,6 +182,7 @@ Bitcoin
 * [The Problem with Ethereum. How did Ethereum become a system that… | by Tomer Strolight | Aug, 2021 | Medium](https://tomerstrolight.medium.com/the-problem-with-ethereum-af9692f4af95)
 * [ethereum solidity withdrawals pattern(출금패턴)](https://blog.naver.com/pjt3591oo/222594079769)
 * [Day 12 – A long journey to Ethereum signatures – Raku Advent Calendar](https://raku-advent.blog/2021/12/12/a-long-journey-to-ethereum-signatures/)
+* [The great renaming: what happened to Eth2? | Ethereum Foundation Blog](https://blog.ethereum.org/2022/01/24/the-great-eth2-renaming/)
 * [fe: Emerging smart contract language for the Ethereum blockchain](https://github.com/ethereum/fe)
 * [PublicVotes - A publicly verifiable Voting System, powered by Smart Contracts](http://publicvotes.org/)
 * [truffle을 이용하여 스마트 컨트랙트 개발하기](https://blog.naver.com/pjt3591oo/222580257471)
@@ -241,6 +243,9 @@ Bitcoin
     * 2) 후속 참여의 진입 장벽
     * 3) 커뮤니티 확장성 제한
   * 그 대안으로 행위기반 인센티브 시스템(Incentive Engine Based on Conduct) 소개
+* [The Worrisome Rise of NFTs - Nautilus | Science Connected](https://nautil.us/the-worrisome-rise-of-nfts-13420/)
+* [NFTs just got easy - MoonPay](https://www.moonpay.com/blog/nft-checkout)
+* [JPG를 돈 주고 사는 사람들 (#NFT). JPG를 돈 주고 산다고? | by SJ Hong (홍승진) | Angel League | Jan, 2022 | Medium](https://medium.com/angel-league/jpg%EB%A5%BC-%EB%8F%88-%EC%A3%BC%EA%B3%A0-%EC%82%AC%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-nft-ea87ad836dc8)
 
 # Python
 * [A peek under Bitcoin's hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
@@ -259,6 +264,7 @@ Bitcoin
 * [web3/DAO의 장단점](https://saconyreview.glivery.co.kr/p/2270015726135)
   * [web3/DAO의 장단점 | GeekNews](https://news.hada.io/topic?id=5696)
 * [상사 지시 대신 코드로 돌아가는 기업 ‘다오(DAO)’ 해부 - T Times](http://www.ttimes.co.kr/view.html?no=2022012616397756758)
+* [The Promise of DAOs, the Latest Craze in Crypto | The New Yorker](https://www.newyorker.com/culture/infinite-scroll/the-promise-of-daos-the-latest-craze-in-crypto)
 * [글로벌 칼럼 | '웹3' 개념을 무시해도 좋은 이유 - ITWorld Korea](https://www.itworld.co.kr/news/220219)
 * [CRYPTO/WEB3 관련 페이지들 총 모음 - by DH jung - coresight](https://coresight.substack.com/p/cryptoweb3-_ver1)
 * [웹삼뽀개기](https://page.stibee.com/archives/156387)
@@ -271,3 +277,6 @@ Bitcoin
 * [좋은 Web3 디자인을 위한 UX 원칙(1) Design principles for web3. | by Janet | Feb, 2022 | Medium](https://medium.com/@janetjang/%EC%A2%8B%EC%9D%80-web3-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-ux%EC%9B%90%EC%B9%99-design-principles-for-web3-5baf5b8376d4)
 * [좋은 Web3 디자인을 위한 UX 원칙(2) Design principles for web3. | by Janet | Feb, 2022 | Medium](https://medium.com/@janetjang/%EC%A2%8B%EC%9D%80-web3-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-ux-%EC%9B%90%EC%B9%99-2-design-principles-for-web3-85fe6024d40b)
 * [좋은 Web3 디자인을 위한 UX 원칙(3) Design principles for web3. | by Janet | Feb, 2022 | Medium](https://medium.com/@janetjang/%EC%A2%8B%EC%9D%80-web3-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-ux-%EC%9B%90%EC%B9%99-3-design-principles-for-web3-cc353f47eb20)
+* [Don't believe the hype: Web3 is not going to change the world | Sifted](https://sifted.eu/articles/web3-blockchain-internet-bitcoin-environment/)
+* [Crypto & NFTs: Network Effects in Web3 | by Sameer Singh | Breadcrumb.vc](https://breadcrumb.vc/crypto-nfts-network-effects-in-web3-7689cf8f0439)
+* [미래의 패러다임? 그저 대박의 기회?··· '웹3 개발자', 커리어 관점의 진단 - CIO Korea](https://www.ciokorea.com/news/223499)
