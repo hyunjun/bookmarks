@@ -507,6 +507,8 @@ Git
   * [Changing a commit message](https://help.github.com/articles/changing-a-commit-message/)
   * [좋은 git commit 메시지를 위한 영어 사전](https://blog.ull.im/engineering/2019/03/10/logs-on-git.html)
   * [좋은 커밋 메시지를 작성하기 위한 커밋 템플릿 만들어보기](https://junwoo45.github.io/2020-02-06-commit_template/)
+  * [Use a Git commit message template to write better commit messages](https://gist.github.com/lisawolderiksen/a7b99d94c92c6671181611be1641c733)
+    * [더 나은 커밋 메시지를 작성하기 위한 Git 커밋 메시지 템플릿 | GeekNews](https://news.hada.io/topic?id=5745)
   * [깃(Git) 커밋 가이드](https://blog.tinkhub.com/git/git-commit-discipline.html)
   * [깃(Git) 커밋 가이드](https://tech.10000lab.xyz/git/git-commit-discipline.html)
   * [git commit accepts several message flags (-m) to allow multiline commits](https://www.stefanjudis.com/today-i-learned/git-commit-accepts-several-message-flags-m-to-allow-multiline-commits/)
