@@ -294,6 +294,7 @@
   * [Koin vs Dagger 그리고 추가된기능](https://medium.com/harrythegreat/android-koin-%EB%A0%88%EB%B2%A8%EC%97%85-deep-drive-56b63b2e35d2)
 * [KotlinDL: High-level Deep Learning Framework written in Kotlin and inspired by Keras](https://github.com/JetBrains/KotlinDL)
   * [KotlinDL 0.2: Functional API, Model Zoo With ResNet and MobileNet, Idiomatic Kotlin DSL for Image Preprocessing, and Many New Layers | The Kotlin Blog](https://blog.jetbrains.com/kotlin/2021/05/kotlin-dl-0-2/)
+* [kotlin-jdsl: Kotlin DSL for JPA Criteria API without generated metamodel and reflection](https://github.com/line/kotlin-jdsl)
 * [ksp: Kotlin Symbol Processing API](https://github.com/google/ksp)
   * [My first Kotlin Symbol Processing Tool for Android | by SeongUg Steve Jung | Feb, 2021 | Medium](https://medium.com/@jsuch2362/my-first-kotlin-symbol-processing-tool-for-android-4eb3a2cfd600)
   * [Android Developers Blog: Announcing Kotlin Symbol Processing (KSP) Alpha](https://android-developers.googleblog.com/2021/02/announcing-kotlin-symbol-processing-ksp.html)
