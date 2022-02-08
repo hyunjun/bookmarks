@@ -267,6 +267,7 @@ Web
 * [Using Encryption and Authentication Correctly](https://paragonie.com/blog/2015/05/using-encryption-and-authentication-correctly?resubmit=true)
 * [HTML attributes to improve your users' two factor authentication experience](https://www.twilio.com/blog/html-attributes-two-factor-authentication-autocomplete)
 * [머릿말 - 웹 인증 및 SSO 가이드](https://wiki.kreonet.net/web-auth-sso)
+* [SSO 1편: 오픈소스 SSO를 왜 도입하였나요. :: GS Retail Engineering](https://gsretail.tistory.com/13)
 
 # Book
 * [웹 개발 관련 서적 mind map](https://www.mindmeister.com/535984257/_)
@@ -919,6 +920,7 @@ Web
 * [REST API가 뭔가요?](https://www.youtube.com/watch?v=iOueE9AXDQQ)
 * [**프론트엔드와 백엔드가 소통하는 엔드포인트, RESTful API**](https://evan-moon.github.io/2020/04/07/about-restful-api/)
 * [Dango에서 간단한 REST API 만들기](http://bcho.tistory.com/845)
+* [Request bodies in GET requests](https://evertpot.com/get-request-bodies/)
 * [GET, POST의 차이점](http://bbigbros.tistory.com/entry/HttpMethod-GET%EA%B3%BC-POST%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90)
 * [Get과 Post를 아시나요?](https://www.youtube.com/watch?v=JxBsZdmAPfU)
 * [GET과 POST의 차이 :: Outsider's Dev Story](https://blog.outsider.ne.kr/312)
@@ -1228,7 +1230,8 @@ Web
 * [wasm-fizzbuzz: WebAssembly from Scratch: From FizzBuzz to DooM](https://github.com/diekmann/wasm-fizzbuzz)
   * WebAssembly로 FizzBuzz 앱을 직접 작성해 보고 Doom을 WebAssembly로 포팅해보는 튜토리얼
 * [webassembly.sh](https://webassembly.sh/)
-* WebVM [기술 잡담 - 리눅스 서버가 브라우저에 들어왔다 (webvm, cheerpx) - YouTube](https://www.youtube.com/watch?v=AHhRTb3zN2w)
+* [WebVM](https://webvm.io/)
+  * [기술 잡담 - 리눅스 서버가 브라우저에 들어왔다 (webvm, cheerpx) - YouTube](https://www.youtube.com/watch?v=AHhRTb3zN2w)
 
 # Websocket
 * [Do you really need WebSockets?](https://blog.stanko.io/do-you-really-need-websockets-343aed40aa9b)
