@@ -475,6 +475,12 @@ AWS
 * [AWS Athena의 권한 관리와 클라이언트 접속 – OpsNow Tech Blog](https://blog.opsnow.com/14)
 * [Amazon Athena로 ALB Access Log에서 원하는 데이터 추출하기](https://jojoldu.tistory.com/537)
 * [AWS Athena와 잘 어울리는 DB 클라이언트 - DBeaver - Nephtyw’S Programming Stash](https://nephtyws.github.io/database/dbeaver-with-athena/)
+* [PyAthena - a Python DB API 2.0 (PEP 249) client for Amazon Athena](https://github.com/laughingman7743/PyAthena/)
+  * [파이썬으로 아테나에 쿼리하기 (boto3 vs pyathena vs awswrangler)](https://velog.io/@hsh/AWSPythonAthena-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%9C%BC%EB%A1%9C-%EC%95%84%ED%85%8C%EB%82%98%EC%97%90-%EC%BF%BC%EB%A6%AC%ED%95%98%EA%B8%B0-boto3-vs-pyathena-vs-awswrangler)
+    * athena는 S3에 있는 데이터에 쿼리를 날릴 수 있는 서버리스 쿼리엔진
+    * S3에 데이터만 잘 준비해있으면 바로 쿼리를 날릴 수 있기 때문에 매우 편리
+    * Athena UI에서 쿼리를 날릴 때는 별 준비사항이 없는데, 파이썬으로 쿼리 결과를 받아오려면 어떻게 해야할까?
+    * 쿼리 결과를 pandas dataframe으로 받아와서 여러가지 다른 처리나 EDA등 가능
 
 # Aurora -> [sql](sql.md)
 
