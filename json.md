@@ -256,3 +256,4 @@ Json
 * [YAML - Quick Reference Cheat Sheet](https://quickref.me/yaml)
 * [6 YAML Features most programmers don’t know | by Martin Thoma | Jan, 2021 | Level Up Coding](https://levelup.gitconnected.com/6-yaml-features-most-programmers-dont-know-164762343af3)
 * [The Hate for YAML: The Hammer or the Nail? | Blog | VMware Tanzu Developer Center](https://tanzu.vmware.com/developer/blog/the-hate-for-yaml-the-hammer-or-the-nail)
+* [Paul Kuruvilla - I accidentally used YAML.parse instead of JSON.parse, and it... worked?](https://rohitpaulk.com/articles/accidentally-used-yaml-instead-of-json)
