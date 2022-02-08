@@ -323,6 +323,7 @@ Go
   * [고언어(Golang) HACKING.md 내용 정리](https://novemberde.github.io/golang/2021/04/05/Golang-HACKING.html)
 * [golang - 특이한 init 함수 - jacking75](https://jacking75.github.io/go_init/)
 * [Go Programming | Copy function Explained | by Jerry An | Level Up Coding](https://levelup.gitconnected.com/go-programming-copy-function-explained-d0493c4a9800)
+* [iota in Go || iota in golang || use of iota with example in go - YouTube](https://www.youtube.com/watch?v=lnR9Pz27yS0)
 * array
   * [The anatomy of Arrays in Go](https://medium.com/rungo/the-anatomy-of-arrays-in-go-24429e4491b7)
   * [Go: Slice and Memory Management](https://medium.com/a-journey-with-go/go-slice-and-memory-management-670498bb52be)
@@ -386,7 +387,7 @@ Go
 * time
   * [Go time 패키지](http://blog.jeonghwan.net/dev/2019/01/14/go-time.html)
 * type
-  * [★ Ultimate Visual Guide to Go Enums](https://blog.learngoprogramming.com/golang-const-type-enums-iota-bc4befd096d3)
+  * [Ultimate Visual Guide to Go Enums](https://blog.learngoprogramming.com/golang-const-type-enums-iota-bc4befd096d3)
 
 # Book
 * [가장 빨리 만나는 Go 언어 출간 및 원고 공개](http://www.pyrasis.com/private/2015/06/01/publish-go-for-the-really-impatient-book)
@@ -536,6 +537,8 @@ Go
 * [Glow - Render markdown on the CLI, with pizzazz!](https://github.com/charmbracelet/glow)
 * [glsnip: copy and paste across machines](https://github.com/bradwood/glsnip)
 * [GoArm](https://github.com/golang/go/wiki/GoArm)
+* [goawk: A POSIX-compliant AWK interpreter written in Go](https://github.com/benhoyt/goawk)
+  * [Go performance from version 1.2 to 1.18](https://benhoyt.com/writings/go-version-performance/)
 * [go-bit: A library to read/write bits array like binary.Read/Write](https://github.com/nokute78/go-bit)
   * [golang - 바이너리 등의 bit 조작을 위한 라이브러리 go-bit - jacking75](https://jacking75.github.io/go_lib_go-bit/)
 * [gobot - Go, Robot, Go!  Golang Powered Robotics Next generation robotics framework with support for 17 different platforms](http://gobot.io/)
@@ -579,6 +582,7 @@ Go
   * [Visualize Go process metrics in real-time](https://nakabonne.dev/posts/gosivy/)
 * [go-sqlmock: Sql mock driver for golang to test database interactions](https://github.com/DATA-DOG/go-sqlmock)
   * [golang - Go 언어의 DB mock(sqlmock)을 알기 쉽도록 해 보았다 - jacking75](https://jacking75.github.io/go_splmock/)
+* [gostl: Data structure and algorithm library for go, designed to provide functions similar to C++ STL](https://github.com/liyue201/gostl)
 * [go-tea - Tea provides an Elm inspired functional framework for interactive command-line programs](https://github.com/tj/go-tea)
 * [GoWork - Go Library for distributing work to workers](https://github.com/ryanskidmore/GoWork)
 * [gpu-operator: NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes](https://github.com/NVIDIA/gpu-operator)
