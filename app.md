@@ -120,6 +120,7 @@ App
   * `pandoc <markdown filename> -f markdown -t html -s -o <html filename>`
   * [**Writing a Book with Pandoc, Make, and Vim**](https://keleshev.com/my-book-writing-setup/)
   * [Convert documents with Pandoc like a pro | Opensource.com](https://opensource.com/article/20/5/pandoc-cheat-sheet)
+  * [Quarto](https://quarto.org/)
 * pdf
   * pdf to text
     * [github.com/spritecodej/crawling_examples/tree/master/pdf_parsing](https://github.com/spritecodej/crawling_examples/tree/master/pdf_parsing)
