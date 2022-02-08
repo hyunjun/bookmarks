@@ -563,6 +563,7 @@ Web
 * [Tailwind CSS - Rapidly build modern websites without ever leaving your HTML](https://tailwindcss.com/)
   * [Tailwind CSS로 프로젝트에 CSS 작성 안하기 - Tailwind CSS(with React) 🌬](https://xtring-dev.tistory.com/entry/Styling-Tailwind-CSS%EB%A1%9C-%EB%B0%B1%EC%97%94%EB%93%9C%EB%8F%84-%EC%86%90%EC%89%BD%EA%B2%8C-Cool%ED%95%9C-CSS-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-tailwindcss)
   * [Tailwind CSS의 설치와 활용 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-06-05T00:00:00.000Z)
+  * [tailwind-dashboard-template: Mosaic Lite is a free admin dashboard template built on top of Tailwind CSS and fully coded in React. Made by](https://github.com/cruip/tailwind-dashboard-template)
 * [XP.css - A design system for building faithful recreations of old UIs](https://botoxparty.github.io/XP.css/)
 
 # Frontend
@@ -825,6 +826,7 @@ Web
   * [파이썬 한 줄로 로컬 테스트서버 만들기 - YouTube](https://www.youtube.com/watch?v=HIiL2cP87ec)
 * [Top 10 Trends in Python WebDev for 2021 and the resources to get started](https://www.activestate.com/blog/top-10-trends-in-python-webdev-for-2021-and-the-resources-to-get-started/)
 * [Top 10 Python Frameworks for Web Development in 2022 | by Ajay Kapoor | Dec, 2021 | Enlear Academy](https://enlear.academy/top-10-python-frameworks-for-web-development-in-2022-22b37bb03c02)
+* [Django Vs Flask: Full Comparison of the 2 Python Frameworks | by Sasha Andrieiev | Jan, 2022 | Python in Plain English](https://python.plainenglish.io/django-vs-flask-full-comparison-1da520c35187)
 * [Anvil | Build Web Apps with Nothing but Python](https://anvil.works/)
   * [Python on the front-end? How to build an entire web app with only Python - YouTube](https://www.youtube.com/watch?v=vj0zW_pSZn0)
 * [BlackSheep: Fast ASGI web framework and HTTP client for Python asyncio](https://github.com/RobertoPrevato/BlackSheep)
@@ -1204,6 +1206,7 @@ Web
 * [How Prime Video updates its app for more than 8,000 device types - Amazon Science](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types)
   * [아마존 프라임 비디오, WebAssembly 사용하여 8000개의 디바이스 타입 지원 | GeekNews](https://news.hada.io/topic?id=5858)
 * [WASI: a New Kind of System Interface](https://www.infoq.com/presentations/wasi-system-interface/)
+* [WebAssembly Techniques to Speed Up Matrix Multiplication by 120x](https://jott.live/markdown/mm_wasm)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Emscripten: An LLVM-to-WebAssembly Compiler](https://github.com/emscripten-core/emscripten)
   * [Hello web assembly](https://jybaek.tistory.com/782)
