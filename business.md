@@ -573,6 +573,7 @@ Business
 * [아담 그랜트가 말하는 “고집 불통 리더”를 설득하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240026)
 * [5 whys로 디자인에 설득력 더하기](https://brunch.co.kr/@cliche-cliche/113)
 * [성장하는 사람의 큰 특징: 설득의 자세 | ㅍㅍㅅㅅ](https://ppss.kr/archives/213121)
+* [상대방의 필요를 채워줄 수 있는 능력](https://notdefeated.ghost.io/sangdaebangyi-pilyoreul-caeweojul-su-issneun-neungryeog/)
 * [메타버스 근무일지 ③만나지 않고 화상회의·슬랙만 하면 어떤 일이 생길까](https://www.bloter.net/newsView/blt202110040010) 소통의 빈도 < 깊이
 * [커뮤니케이션이란 무엇인가? 어떻게 해야 효과적으로 협업을 할 수 있는가? (한빛미디어 의장 박태웅) - YouTube](https://www.youtube.com/watch?v=mS_jyMC4cxg)
   * text가 아니라 context를 전달하라. 6 pager와 마찬가지 맥락
@@ -926,6 +927,7 @@ Business
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
 * [나는 1년간 이렇게 일했다 — 요기요 PO 이야기. 근데 이제 Agile과 Cross functional team… | by Seongkyun Chae | Delivery Tech Korea — 요기요기술 블로그 | Medium](https://medium.com/deliverytechkorea/%EB%82%98%EB%8A%94-1%EB%85%84%EA%B0%84-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%96%88%EB%8B%A4-%EC%9A%94%EA%B8%B0%EC%9A%94-po-%EC%9D%B4%EC%95%BC%EA%B8%B0-35847b9a47f6)
+* [나는 PO가 되어 있을거라고 했다.. 우리의 사용자가 두 번째 커피숍을 들어가지 않고는 못 베길 이유를… | by Jinhee Han | YOGIYO Tech Blog— 요기요 기술 블로그](https://techblog.yogiyo.co.kr/%EB%82%98%EB%8A%94-po%EA%B0%80-%EB%90%98%EC%96%B4-%EC%9E%88%EC%9D%84%EA%B1%B0%EB%9D%BC%EA%B3%A0-%ED%96%88%EB%8B%A4-88dd1f6f7c25)
 * [김병호의 브런치](https://brunch.co.kr/@kbhpmp)
 * [쫄래쫄래의 브런치](https://brunch.co.kr/@jjollae)
 * [Product Coalition](https://productcoalition.com/)
