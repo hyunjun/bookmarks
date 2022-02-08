@@ -1469,6 +1469,7 @@ Programming
 * [Top 10 Microservices design patterns and principals - YouTube](https://www.youtube.com/watch?v=MqZX1NaeFQI)
 * [Getting Started With Microservices - YouTube](https://www.youtube.com/watch?v=S8Aiqws3N5o)
 * [Why our team cancelled our move to microservices | by Steven Lemon | Medium](https://steven-lemon182.medium.com/why-our-team-cancelled-our-move-to-microservices-8fd87898d952)
+* [Top 10 Microservices Design Patterns and Principles - Examples](https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
