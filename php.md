@@ -77,6 +77,7 @@ PHP
   * [Composer Global로 사용하기. - 완두블로그](https://wani.kr/posts/2014/06/12/use-global-composer/)
 * ganesha [장애 확산을 막기 위한 서킷브레이커 패턴을 PHP에서 구현해보자](https://saramin.github.io/2020-12-21-php-circuit-breaker-ganesha/)
 * [Insomnia – A simple, beautiful, and free REST API client](https://laravel-news.com/insomnia-a-simple-beautiful-and-free-rest-api-client)
+* [Jigsaw – Static Sites for Laravel Developers](https://jigsaw.tighten.co/)
 * Laravel
   * [How to Build a Blog with Laravel - Part 1 (Exploring File Structure)](https://www.youtube.com/watch?v=R8B4og-BeCk&list=PLwAKR305CRO-Q90J---jXVzbOd4CDRbVx)
   * [Laravel 5 Vue Js Tutorial : Install Vue Js & Getting start in laravel 5](https://www.youtube.com/watch?v=wQ7YN2CuoOk)
