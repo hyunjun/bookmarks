@@ -1559,6 +1559,7 @@ Docker
   * [How to replace Docker with Podman on a Mac | Enable Sysadmin](https://www.redhat.com/sysadmin/replace-docker-podman-macos)
   * [Run a Linux virtual machine in Podman | Opensource.com](https://opensource.com/article/21/7/linux-podman)
   * [Podman vs Docker: What are the differences?](https://www.imaginarycloud.com/blog/podman-vs-docker/)
+  * [Run containers on Linux without sudo in Podman | Opensource.com](https://opensource.com/article/22/1/run-containers-without-sudo-podman)
 * [registry.hub.docker.com](https://registry.hub.docker.com)
 * [rocker-compose - Docker composition tool with idempotency features for deploying apps composed of multiple containers](https://github.com/grammarly/rocker-compose)
 * [seagull - Friendly Web UI to manage and monitor docker](https://github.com/tobegit3hub/seagull)
