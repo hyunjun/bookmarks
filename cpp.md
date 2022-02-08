@@ -452,4 +452,4 @@ C++
 * [C++공부노트 #1 환경설정](https://brunch.co.kr/@yudong/176)
 * [C++ : Complete Developer Guide — Part 1 | by Syed Khizaruddin | Jan, 2022 | Medium](https://khizaruddins.medium.com/c-complete-developer-guide-part-1-124d2298c98b)
 * [10 Best C++ Courses for Beginners and Experienced Developers | by javinpaul | Jan, 2022 | Becoming Human: Artificial Intelligence Magazine](https://becominghuman.ai/10-best-c-courses-for-beginners-and-experienced-developers-fd2401c07f50)
-* [Your First C++ Program | Introduction to Programming in C++ - YouTube](https://www.youtube.com/watch?v=8Z-1_9ORU6M)
+* [Introduction to Programming in C++ - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1kRxNCwhDyw98Hq9vrmnCdz)
