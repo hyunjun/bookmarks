@@ -239,6 +239,7 @@
 * [Rustation PlayStation emulator](https://github.com/simias/rustation)
 * [Rust-Bio - a bioinformatics library for the Rust language](https://rust-bio.github.io/)
 * [rust-doom - A Doom Renderer written in Rust](https://github.com/cristicbz/rust-doom)
+* [Rustenstein 3D: Game programming like it's 1992 - NextRoll](https://tech.nextroll.com/blog/dev/2022/02/02/rustenstein.html)
 * [rustorm - A simple ORM for rust](https://github.com/ivanceras/rustorm)
 * [rustpad: Efficient and minimal collaborative code editor, self-hosted, no database required](https://github.com/ekzhang/rustpad)
 * [RustPython A Python-3 (CPython >= 3.5.0) Interpreter written in Rust](https://github.com/RustPython/RustPython)
