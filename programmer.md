@@ -38,6 +38,7 @@ Programmer
 * [시니어가 되기 위한 준비, 「개발 큐레이션」과 함께한 2021 - Dico](https://dico.me/miscellany/articles/297/ko)
 * [시니어가 들려주는 "내가 알고 있는 걸 당신도 알게 된다면 - YouTube](https://www.youtube.com/watch?v=MXl_t1vjkyU)
   * [시니어가 들려주는 "내가 알고 있는 걸 당신도 알게 된다면"](https://www.slideshare.net/InfraEngineer/ss-250837891)
+* [Letter to a Junior Engineer](https://tanzu.vmware.com/content/blog/a-letter-to-a-junior-engineer)
 * [노마드 코더 Nomad Coders](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ)
 * [꾸준히, 자유롭게, 즐겁게 - 한국 오픈 소스 개발자들 이야기](http://osdi.insightbook.co.kr/)
 * [‘자극이 필요한’ 개발자를 위해 엄선한 국내 포트폴리오 & 개인 블로그 7선](http://harbor.cz/stories/portfolio-me/)
@@ -108,6 +109,7 @@ Programmer
   * [Principal(수석) 소프트웨어 엔지니어는 어떤 일을 하는가 | GeekNews](https://news.hada.io/topic?id=5557)
 * [What Happens To Developers Who Never Go Into Management? | WBS CODING SCHOOL](https://www.wbscodingschool.com/blog/what-happens-devs-never-management/)
 * [개발을 잘 하는 습관](https://blog.shiren.dev/2021-05-17/)
+* [Ten years against division of labor in software](http://akkartik.name/post/division-of-labor)
 * [**18 Trends That Will Shape Our Careers in 2022**](https://junglegym.substack.com/p/18-trends-that-will-shape-our-careers)
   * [2022년 우리의 커리어를 형성할 트렌드들 | GeekNews](https://news.hada.io/topic?id=5672)
 * [Even the CEO of Amazon didn’t have a master plan for his career | LinkedIn](https://www.linkedin.com/pulse/even-ceo-amazon-didnt-have-master-plan-his-career-devin-banerjee-cfa/) 개발자는 아니지만
