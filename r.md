@@ -342,6 +342,7 @@ R
 * [3판 맛보기) R에서 음력? – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2372)
 * [3판 맛보기) R에서 정수형(integer)과 실수형(numeric) – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2377)
 * [파일 읽기에서 BOM(Byte Order Marks) – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2428)
+* [서울시 미세/초미세 먼지(2/N) – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2507)
 
 # API
 * [REX: Look around – 숨은원리 데이터사이언스: R로 하는 데이터 사이언스](http://ds.sumeun.org/?p=2229)
