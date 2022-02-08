@@ -1,7 +1,6 @@
 Open Source
 ===========
 * [GNU 선언문](http://www.gnu.org/gnu/manifesto.html)
-* [도전! Apache Tajo Contributor](http://teamblog.gruter.com/apache-tajo-contributor-starter/)
 * [“기업 커뮤니케이션? 잔디에 맡기세요”](http://techholic.co.kr/archives/31881)
 * [카산드라의 불길한 예언](http://www.huffingtonpost.kr/kyutae-lim/story_b_7089838.html)
 * [건축, 씨앗, 환경보호…SW를 넘어선 오픈소스 기술들](http://www.bloter.net/archives/240116)
@@ -13,7 +12,6 @@ Open Source
 * [오픈 소스 공헌을 위한 필수 지식](http://www.slideshare.net/blrunner/ss-55961507)
 * [데이터와 관련하여 기업들이 공개한 기술은 어떤게 있을까?](http://hongwonjun.me/post/138333142713/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%99%80-%EA%B4%80%EB%A0%A8%ED%95%98%EC%97%AC-%EA%B8%B0%EC%97%85%EB%93%A4%EC%9D%B4-%EA%B3%B5%EA%B0%9C%ED%95%9C-%EA%B8%B0%EC%88%A0%EC%9D%80-%EC%96%B4%EB%96%A4%EA%B2%8C-%EC%9E%88%EC%9D%84%EA%B9%8C)
 * [자유소프트웨어재단(FSF)](http://www.bloter.net/archives/250944)
-* [Ubuntu에서 Open Source 개발에 기여하는 방법](https://www.youtube.com/watch?v=rIauFdof-9Y)
 * [오픈소스 취약점 단번에 찾아주는 ‘소스클리어’](http://www.bloter.net/archives/256071)
 * [KoreaOpenSource](https://github.com/Hanul/KoreaOpenSource)
 * [lemonade-stand-1](https://techstory.shma.so/lemonade-stand-1-34d305c2b17e)
@@ -37,9 +35,6 @@ Open Source
   * [오픈소스와 코드리뷰(서주영)](https://www.youtube.com/watch?v=pkjnpTH0IwU)
 * [2018 오픈소스개발자이야기 후기](https://taetaetae.github.io/2018/07/01/open-source-software-develpoer-story-review/)
 * [실패한 오픈소스 공헌으로 배워가기](https://www.slideshare.net/sungheeekang/ss-78744477)
-* [오픈소스 번역 기여하기](https://www.slideshare.net/changwoo/ss-79394446)
-* [차근차근 오픈소스에 기여해보기 (동기부여 편)](https://rinae.dev/posts/how-to-contribute-oss)
-* [나의 첫 오픈 소스 기여 ✨](https://www.notion.so/a0f24962593948d9a7a18a20e1d8f1cb)
 * [오픈소스 프로젝트에 참여해야 하는 이유](https://www.youtube.com/watch?v=OppYgZSQlFE)
 * [오픈 소스 프로젝트를 더 잘 릴리스하는 요령들](https://spoqa.github.io/2017/09/28/foss-release-tips.html)
 * [**사내에서 눈치를 안 보고 오픈소스 프로젝트 하기**](http://kimjihyok.info/2017/09/27/%EC%82%AC%EB%82%B4%EC%97%90%EC%84%9C-%EB%88%88%EC%B9%98%EB%A5%BC-%EC%95%88-%EB%B3%B4%EA%B3%A0-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%95%98%EA%B8%B0/)
@@ -54,7 +49,6 @@ Open Source
 * [DMLC 맴버로 초청받다](http://freesearch.pe.kr/archives/4941)
 * [리니지M은 어떤 오픈소스를 사용했을까?](https://blog.naver.com/pjt3591oo/221035837016)
 * [오픈소스 프로젝트 운영 경험 공유](https://tv.naver.com/v/5635839)
-* [오픈소스에 번역으로 기여하기 - 기여하고자 하는 프로젝트 선정 및 환경설정 (1부)](https://fernando.kr/14)
 * [오픈소스를 금지당한 사람들의 몸부림](https://medium.com/@changjoopark/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4%EB%A5%BC-%EA%B8%88%EC%A7%80%EB%8B%B9%ED%95%9C-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%98-%EB%AA%B8%EB%B6%80%EB%A6%BC-bd1498652e68)
 * [TmaxOS에서 만든 ToOffice의 한자음목록이 LGPL v2의 libhangul의 한자 목록에서 가져온것이라고? 오픈소스 사용한다고 명시하지 않는데?](https://medium.com/libreoffice-korean-team/tmaxos에서-만든-tooffice의-한자음목록이-lgpl-v2의-libhangul의-한자-목록에서-가져온것이라고-오픈소스-사용한다고-명시하지-않는데-98d103f9c988)
 * [번역 오픈소스 에티켓](https://medium.com/jung-han/번역-오픈소스-에티켓-bf59267d1db3)
@@ -66,29 +60,11 @@ Open Source
 * [OpenSource 초보 컨트리뷰터의 Mocha issue 해결 도전기 - 사진찍는 웹 개발자](https://donghoon759.github.io/posts/2020-09-06---%EC%B4%88%EB%B3%B4-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%ED%84%B0%EC%9D%98-Mocha-issue-%ED%95%B4%EA%B2%B0-%EB%8F%84%EC%A0%84%EA%B8%B0/)
 * [oss-basic-training: oss training materials and scripts](https://github.com/ncsoft/oss-basic-training)
 * [#1 유저스틴 / 오픈 소스 프로젝트를 엑싯한 후 생기는 일 - YouTube](https://www.youtube.com/watch?v=8i3QhY-y760)
-* [Hacktoberfest Seoul에서 발표한 "오픈소스에 기여할 때 해도 되는 일과 하면 안되는 일" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1506)
 * [Hacktoberfest 2020 참가 후기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1508)
-* [오픈 소스 프로젝트에 기여해야 하는 이유. 이 글은 원문 Why You Should Start… | by Dayoon Kim | 코드스테이츠 Code States — 혁신적인 교육 부트캠프 | Nov, 2020 | Medium](https://medium.com/code-states/%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-8274ef576a10)
-* [공개SW 페스티벌에서 발표한 "오픈소스 뒤에 메인테이너 있어요" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1517)
-* [EOST2020](https://eostday.kr/)
-  * [언택트 시대, 오픈소스 기여를 위해 고려해야 할 것들 - YouTube](https://www.youtube.com/watch?v=hrjbqK03O9k)
-* [“하나의 오픈소스, 많은 기여자” 프로메테우스가 작동하는 아름다운 방식 - ITWorld Korea](https://www.itworld.co.kr/news/178289)
-* [How I became a Kubernetes maintainer in 4 hours a week | Opensource.com](https://opensource.com/article/21/2/kubernetes-maintainer)
-* [Kubernetes에 컨트리뷰션 하는 아주 자세한 방법을 알려드립니다. – tech.kakao.com](https://tech.kakao.com/2021/10/01/kubernetes-contribution/)
-  * 기여하고자 하는 코드가 어떤 SIG(Special Interest Group)에 속하는지 파악
-  * 버그 수정, 동작을 변경하지 않는 리팩토링, 성능 개선, 테스트 코드 수정 등은 KEP 작성 없음
-  * 새로운 오브젝트나 기능 제안, 기존 API와 기능의 동작 변경, 변경사항이 사용자에게 영향을 줄 때에는 KEP(Kubernetes Enhancement Proposal) 작성
-  * 코드는 kuberntes 저장소, KEP는 enhancements 저장소, 문서는 website 저장소에 PR
-  * PR을 올린 후에도 SIG의 Slack 채널에서 PR에 대한 설명과 리뷰요청을 하는 게 좋음
-  * Kubernetes org 멤버만이 CI 실행 가능
-  * 승인받을 준비가 되었다면 Slack 채널에서 SIG 리더나 승인자 설득
-* [꼼수로 오픈소스 기여하기. 오픈소스 기여로 매력적인 GitHub 프로필 만들기 | by Woosik Kim | Apr, 2021 | Medium](https://well-balanced.medium.com/%EA%BC%BC%EC%88%98%EB%A1%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0-b34ee4cc2bc2)
 * [Selecting open-source code for LLDP: lldpd vs openlldp - IoT Central](https://www.iotcentral.io/blog/selecting-open-source-code-for-lldp-lldpd-vs-openlldp)
 * [라인의 풀타임 오픈소스 개발팀 이야기 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=QdRCe_IGGzI)
 * [오픈소스를 여행하는 히치하이커를 위한 안내서 · Present](https://present.do/decks/60bf97881903093a77d166ad)
 * [Patents in Open Source](https://google.github.io/opencasebook/patents/)
-* [처음으로 오픈소스에 기여해 본 이야기 | Lucas wiki](https://wiki.lucashan.space/essay/contribute-to-open-source/)
-  * GraphQL을 사용하면서 사용한 graphqurl에서 introspection query가 처리 안 되는 문제를 발견하고 이유를 찾다가 graphqurl의 헤더 문제임을 찾아내고 기여해서 수정한 과정
 * [슬기로운 오픈소스 생활 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=2lL2eRQch2o)
 * ['보시 어워드 2021' 올해 최고의 오픈소스 소프트웨어 29선 - ITWorld Korea](https://www.itworld.co.kr/news/212054)
 * [의존성 위험성과 펀딩 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1577)
@@ -119,6 +95,34 @@ Open Source
 
 # Apple
 * [Apple Open Source](https://opensource.apple.com/)
+
+# Contribution
+* [도전! Apache Tajo Contributor](http://teamblog.gruter.com/apache-tajo-contributor-starter/)
+* [Ubuntu에서 Open Source 개발에 기여하는 방법](https://www.youtube.com/watch?v=rIauFdof-9Y)
+* [오픈소스 번역 기여하기](https://www.slideshare.net/changwoo/ss-79394446)
+* [차근차근 오픈소스에 기여해보기 (동기부여 편)](https://rinae.dev/posts/how-to-contribute-oss)
+* [나의 첫 오픈 소스 기여 ✨](https://www.notion.so/a0f24962593948d9a7a18a20e1d8f1cb)
+* [오픈소스에 번역으로 기여하기 - 기여하고자 하는 프로젝트 선정 및 환경설정 (1부)](https://fernando.kr/14)
+* [Hacktoberfest Seoul에서 발표한 "오픈소스에 기여할 때 해도 되는 일과 하면 안되는 일" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1506)
+* [오픈 소스 프로젝트에 기여해야 하는 이유. 이 글은 원문 Why You Should Start… | by Dayoon Kim | 코드스테이츠 Code States — 혁신적인 교육 부트캠프 | Nov, 2020 | Medium](https://medium.com/code-states/%EC%98%A4%ED%94%88-%EC%86%8C%EC%8A%A4-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EC%97%90-%EA%B8%B0%EC%97%AC%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%9D%B4%EC%9C%A0-8274ef576a10)
+* [공개SW 페스티벌에서 발표한 "오픈소스 뒤에 메인테이너 있어요" 발표자료 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1517)
+* [EOST2020](https://eostday.kr/)
+  * [언택트 시대, 오픈소스 기여를 위해 고려해야 할 것들 - YouTube](https://www.youtube.com/watch?v=hrjbqK03O9k)
+* [“하나의 오픈소스, 많은 기여자” 프로메테우스가 작동하는 아름다운 방식 - ITWorld Korea](https://www.itworld.co.kr/news/178289)
+* [How I became a Kubernetes maintainer in 4 hours a week | Opensource.com](https://opensource.com/article/21/2/kubernetes-maintainer)
+* [Kubernetes에 컨트리뷰션 하는 아주 자세한 방법을 알려드립니다. – tech.kakao.com](https://tech.kakao.com/2021/10/01/kubernetes-contribution/)
+  * 기여하고자 하는 코드가 어떤 SIG(Special Interest Group)에 속하는지 파악
+  * 버그 수정, 동작을 변경하지 않는 리팩토링, 성능 개선, 테스트 코드 수정 등은 KEP 작성 없음
+  * 새로운 오브젝트나 기능 제안, 기존 API와 기능의 동작 변경, 변경사항이 사용자에게 영향을 줄 때에는 KEP(Kubernetes Enhancement Proposal) 작성
+  * 코드는 kuberntes 저장소, KEP는 enhancements 저장소, 문서는 website 저장소에 PR
+  * PR을 올린 후에도 SIG의 Slack 채널에서 PR에 대한 설명과 리뷰요청을 하는 게 좋음
+  * Kubernetes org 멤버만이 CI 실행 가능
+  * 승인받을 준비가 되었다면 Slack 채널에서 SIG 리더나 승인자 설득
+* [꼼수로 오픈소스 기여하기. 오픈소스 기여로 매력적인 GitHub 프로필 만들기 | by Woosik Kim | Apr, 2021 | Medium](https://well-balanced.medium.com/%EA%BC%BC%EC%88%98%EB%A1%9C-%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EA%B8%B0%EC%97%AC%ED%95%98%EA%B8%B0-b34ee4cc2bc2)
+* [처음으로 오픈소스에 기여해 본 이야기 | Lucas wiki](https://wiki.lucashan.space/essay/contribute-to-open-source/)
+  * GraphQL을 사용하면서 사용한 graphqurl에서 introspection query가 처리 안 되는 문제를 발견하고 이유를 찾다가 graphqurl의 헤더 문제임을 찾아내고 기여해서 수정한 과정
+* [유명한 오픈소스에 기여하게 된 썰 - JthCast](https://jthcast.dev/posts/the-story-that-contributed-to-the-famous-open-source/)
+* [주니어 개발자가 처음 풀 리퀘스트 보내본 썰.txt - 난생 처음으로 오픈 소스 프로젝트에 풀 리퀘스트를 보내 기여해 본 경험을 기술합니다](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html)
 
 # Disney
 * [Disney](http://disney.github.io/)
@@ -207,7 +211,6 @@ Open Source
 * [스티븐 호킹(Stephen Hawking) 박사가 사용하는 연설(Speech) 소프트웨어 오픈소스로 공개](http://techneedle.com/archives/21954)
 
 # Library
-* [주니어 개발자가 처음 풀 리퀘스트 보내본 썰.txt - 난생 처음으로 오픈 소스 프로젝트에 풀 리퀘스트를 보내 기여해 본 경험을 기술합니다](https://wormwlrm.github.io/2019/01/01/My-first-time-to-contribute-to-open-source-by-sending-pull-request.html)
 * [킨IO, 데이터 시각화 도구 오픈소스로 공개](http://www.bloter.net/archives/236375)
 * [A simple video conferencing project "Ah! FreeCa"](http://ryulib.tistory.com/357)
 * [How to write the perfect pull request](https://github.com/blog/1943-how-to-write-the-perfect-pull-request)
