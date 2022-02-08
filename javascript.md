@@ -80,6 +80,7 @@ Javascript
 * [Vanilla Javascript로 상태관리 시스템 만들기 | 개발자 황준일](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Store/)
 * [Vanilla Javascript로 가상돔(Virtual DOM) 만들기 | 개발자 황준일](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Virtual-DOM/)
 * [Vanilla Javascript로 React UseState Hook 만들기 | 개발자 황준일](https://junilhwang.github.io/TIL/Javascript/Design/Vanilla-JS-Make-useSate-hook/)
+* [Vanilla List - 순수 JavaScript 플러그인 저장소 | GeekNews](https://news.hada.io/topic?id=5841)
 * [Web 브라우저 렌더링(Layout, Paint) 원리 그리고 가상돔(Virtual DOM)](https://blog.naver.com/pjt3591oo/222495673377)
 * 초보자를 위한 바닐라 자바스크립트
   * [#0-1 Requirements : JS for Beginners](https://www.youtube.com/watch?v=wUHncG3VwPw)
@@ -1632,6 +1633,7 @@ Javascript
 * [hwp.js: Open source hwp viewer and parser library powered by web technology](https://github.com/hahnlee/hwp.js)
   * [hwp.js](https://hanlee.io/hwp.js/)
 * [Hypercore Protocol](https://hypercore-protocol.org/) Peer-to-peer data sharing
+* [hyperid: Uber-fast unique id generation, for Node.js and the browser](https://github.com/mcollina/hyperid)
 * [ImageSegmentation - Perform image segmentation and background removal in javascript using canvas element and computer vision superpixel algorithms, and convnetjs (experimental) http://www.eraseimage.com ](https://github.com/AKSHAYUBHAT/ImageSegmentation)
 * inferno.js
   * [Going headless with Drupal: how to build a simple app with Inferno.js](https://medium.freecodecamp.org/drupal-headless-architecture-with-js-framework-live-demo-dea9acff6b61)
@@ -2443,6 +2445,7 @@ Javascript
 * [A Comprehensive Guide To Error Handling In Node.js - Honeybadger Developer Blog](https://www.honeybadger.io/blog/errors-nodejs/)
 * [Node.js 모범 사례](https://github.com/goldbergyoni/nodebestpractices/blob/master/README.korean.md)
 * [BIG new feature lands in Node.js // The Code Report - YouTube](https://www.youtube.com/watch?v=MBqS1kYzwTc)
+* [Node.js 에 Fetch API 추가 | GeekNews](https://news.hada.io/topic?id=5872)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
@@ -2575,6 +2578,7 @@ Javascript
     * [Fastify Crash Course | Node.js Framework - YouTube](https://www.youtube.com/watch?v=Lk-uVEVGxOA)
   * [Express vs Fastify performance. The goal of this article is to find out… | by Sergey Onufrienko | Medium](https://medium.com/@onufrienkos/express-vs-fastify-performance-4dd5d73e08e2)
   * [A Fast Introduction to Fastify (NodeJS Web Framework) - YouTube](https://www.youtube.com/watch?v=pGhWPDlF2sM)
+  * [Fastify Package Generator](https://fastify.github.io/pacchetto/)
 * [fly - New Generation Build System https://git.io/fly](https://github.com/flyjs/fly#about)
 * [gity - Git wrapper for Node](https://github.com/stevenmiller888/gity)
 * [GLORIOUS DEMO](https://glorious.codes/demo) The easiest way of creating animations to show your code in action
