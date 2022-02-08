@@ -486,6 +486,7 @@ Programming
 * [22 predictions about the Software Development trends in 2022 | by Md Kamaruzzaman | Dec, 2021 | Towards Data Science](https://towardsdatascience.com/22-predictions-about-the-software-development-trends-in-2022-fcc82c263788)
 * [notes: detailed notes on computer science topics, in one page](https://github.com/darshanime/notes)
 * [Airflow vs Luigi vs Argo vs Kubeflow vs MLFlow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
+* [stack-on-a-budget: A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com ](https://github.com/255kb/stack-on-a-budget)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -1848,6 +1849,8 @@ Programming
 * [No, your clean code won't save the planet • Buttondown](https://buttondown.email/hillelwayne/archive/no-your-clean-code-wont-save-the-planet/)
 * [It's probably time to stop recommending Clean Code @ Things Of Interest](https://qntm.org/clean)
 * [Clean Code | CODER SITE for developers](https://codersite.dev/clean-code/)
+* [There’s No Such Thing as Clean Code](https://www.steveonstuff.com/2022/01/27/no-such-thing-as-clean-code)
+  * [Clean Code 라는 건 없습니다 | GeekNews](https://news.hada.io/topic?id=5881)
 * [How to write clean functions](https://dev.to/manu4216/how-to-write-clean-functions-bmh)
 * [Write code that is easy to delete, not easy to... — programming is terrible](https://programmingisterrible.com/post/139222674273/write-code-that-is-easy-to-delete-not-easy-to)
 * [가게노출 파트의 조금은 색다른 파일럿 프로젝트, 그리고 첫 업무까지의 이야기](https://woowabros.github.io/experience/2020/04/29/pilot-project-deocks.html)
