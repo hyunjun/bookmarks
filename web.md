@@ -597,6 +597,7 @@ Web
 * [HTML이 당신의 생각보다 더 중요한 이유 | ~/xo.dev](https://xo.dev/why-html-is-important-than-you-think/)
 * [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
 * [</> htmx - high power tools for html](https://htmx.org/)
+* [diff2html-cli: Pretty diff to html javascript cli (diff2html-cli)](https://github.com/rtfpessoa/diff2html-cli)
 
 # Java
 * [Spark Framework is a simple and lightweight Java web framework built for rapid development](http://sparkjava.com/)
