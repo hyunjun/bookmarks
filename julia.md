@@ -113,6 +113,7 @@ Julia
 * [Profiling type-inference](https://julialang.org/blog/2021/01/snoopi_deep/)
 * [Decision-Making-Under-Uncertainty: Decision making under uncertainty using the POMDPs.jl ecosystem](https://github.com/JuliaAcademy/Decision-Making-Under-Uncertainty)
 * [Concurrency in Julia LWN.net](https://lwn.net/SubscriberLink/875367/bd24fc983affbed4/)
+* [Installing Every Arch Package](https://ta180m.exozy.me/posts/installing-every-arch-package/)
 
 # API
 * Pkg.add
