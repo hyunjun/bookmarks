@@ -78,6 +78,7 @@ AWS
   * 차근차근 설명하면서 보여주기 때문에 ALB가 L7에서 동작하고 NLB가 L4에서 동작한다는 게 무슨 의미인지 이 때문에 어떤 차이가 생기는지 이해하기 좋음
 * [AWS Network Load Balancer에서 Application Load Balancer 연결](https://zigispace.net/1139)
 * [AWS Network Load Balancer에서 Application Load Balancer 연결2](https://zigispace.net/1140)
+* [AWS Network Load Balancer의 Target 상태 및 옵션에 따른 NLB DNS 응답 방식](https://zigispace.net/1161)
 * [Automated AWS Load Balancer Warm-Up | by Luis Sena | Nov, 2021 | Medium](https://luis-sena.medium.com/automated-aws-load-balancer-warm-up-d0b4084c8bbc)
 * [AWS Transit Gateway - 1](http://zigispace.net/991)
 * [AWS Transit Gateway - 2](http://zigispace.net/992)
