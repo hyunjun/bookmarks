@@ -100,6 +100,7 @@ Game
 * [Ryujinx: Experimental Nintendo Switch Emulator written in C#](https://github.com/Ryujinx/Ryujinx)
 * [ScummVM :: Home](https://www.scummvm.org/news/20211009/)
   * [ScummVM 20주년 | GeekNews](https://news.hada.io/topic?id=5177)
+* [si78c: si78c is a memory accurate reimplementation of Space Invaders in C](https://github.com/loadzero/si78c)
 * [TwilioQuest - Discover your power to change the world with code](https://www.twilio.com/quest)
 * Unity
   * [수식없이 게임 수학 이해하기](https://www.slideshare.net/MrDustinLee/ss-147084075)
