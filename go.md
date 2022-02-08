@@ -479,7 +479,6 @@ Go
 * [A command-line fuzzy finder written in Go](https://github.com/junegunn/fzf)
 * [구글 고의 위력을 보여주는 10가지 오픈소스 프로젝트](http://www.itworld.co.kr/news/133382)
 * [A simpler building block for Go CLIs | by Michael Fridman | Medium](https://mfridman.medium.com/a-simpler-building-block-for-go-clis-4c3f7f0f6e03)
-* [Writing Go CLIs With Just Enough Architecture · The Ethically-Trained Programmer](https://blog.carlmjohnson.net/post/2020/go-cli-how-to-and-advice/)
 * [golang - Go로 만드는 P2P 라이브러리 - jacking75](https://jacking75.github.io/go_lib_p2p/)
 * Android
   * [See Android Go! Go, Android. Go!](http://www.codingvelocity.com/2015/07/23/go-mobile-intro.html)
@@ -503,7 +502,6 @@ Go
 * [Caire - Content aware image resize library](https://github.com/esimov/caire)
 * cgapp [Create Go App를 이용하여 편하게 프로젝트 생성](https://blog.naver.com/pjt3591oo/222151297558)
 * [Clarifai Golang Library - Unofficial library written for the Clarifai API](https://github.com/samuelcouch/clarifai)
-* [cobra: A Commander for modern Go CLI interactions](https://github.com/spf13/cobra)
 * [cmux - Connection multiplexer for GoLang: serve different services on the same port!](https://github.com/soheilhy/cmux)
 * [Daptin - Backend As A Service - GraphQL/JSON-API Headless CMS](https://github.com/daptin/daptin)
   * [Daptin - 오픈소스 Backend as a Service & Headless CMS | GeekNews](https://news.hada.io/topic?id=4667)
@@ -705,6 +703,12 @@ Go
 * [xurls - Extract urls from text](https://github.com/mvdan/xurls)
 * [Yahoo Stock Quotes in Go](https://github.com/doneland/yquotes)
 * [yh: YAML syntax highlighter to bring colours where only jq could](https://github.com/andreazorzetto/yh)
+
+## Library CLI command line interface
+* [Writing Go CLIs With Just Enough Architecture · The Ethically-Trained Programmer](https://blog.carlmjohnson.net/post/2020/go-cli-how-to-and-advice/)
+* [Charm](https://github.com/charmbracelet)
+  * [Charm](https://charm.sh/)
+* [cobra: A Commander for modern Go CLI interactions](https://github.com/spf13/cobra)
 
 ## Library Microservice
 * [Build MicroServices in Golang](https://www.slideshare.net/slideshow/embed_code/key/xyazpMY7enAZjz)
