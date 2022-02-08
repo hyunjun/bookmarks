@@ -4363,6 +4363,7 @@ Javascript
 * [Vue3의 프록시패턴 구현하기 - YouTube](https://www.youtube.com/watch?v=t8CNY9TmMTk)
 * [Vue, 원피스로 떠나는 여정](https://saramin.github.io/2021-12-15-vue2-vs-vue3/)
 * [**Vue 컴포넌트 - 메모리 누수 분석하기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/vue-memory-leak-analysis/)
+* [Vue 3, 기본 버전이 되다 • 캡틴판교](https://joshua1988.github.io/web-development/vuejs/vue3-as-default/)
 * [anissia-core](https://github.com/anissia-net/anissia-core)
 * [anissia-web](https://github.com/anissia-net/anissia-web)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
