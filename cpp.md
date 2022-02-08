@@ -103,6 +103,7 @@ C++
 * [C++: Deleting destructors and virtual operator delete](http://eli.thegreenplace.net/2015/c-deleting-destructors-and-virtual-operator-delete/)
 * [Busting C++ myths: virtual function calls are slow](http://coldattic.info/post/3/)
 * [The C++ FQA is on GitHub](http://yosefk.com/blog/the-c-fqa-is-on-github.html)
+* [C++ Frequently Questioned Answers](https://yosefk.com/c++fqa/)
 * [Neural Net in C++ Tutorial](https://vimeo.com/19569529)
 * [Substring search algorithm](http://volnitsky.com/project/str_search/index.html)
 * [Multiple Arrays, One Allocation, Generically: MultiArray](https://turingtester.wordpress.com/2015/10/04/multiple-arrays-one-allocation-generically-multiarray/)
@@ -204,6 +205,7 @@ C++
   * [auto_ptr - 조심히 사용해야 하는 스마트 포인터](http://ohyecloudy.com/pnotes/archives/286/)
 * const
   * [우리 사이가 좋을 수 없는 이유](https://surpreem.com/%EC%9A%B0%EB%A6%AC-%EC%82%AC%EC%9D%B4%EA%B0%80-%EC%A2%8B%EC%9D%84-%EC%88%98-%EC%97%86%EB%8A%94-%EC%9D%B4%EC%9C%A0/)
+  * [`const` all the things? – Arthur O'Dwyer – Stuff mostly about C++](https://quuxplusone.github.io/blog/2022/01/23/dont-const-all-the-things/)
 * const_cast
   * [const_cast는 언제 써야 하는가](http://blog.seulgi.kim/2017/11/cpp-core-guidelines-const-cast.html)
 * switch
