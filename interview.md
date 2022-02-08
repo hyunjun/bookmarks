@@ -558,6 +558,8 @@ Interview
   * [Attribution Window #1](https://brunch.co.kr/@hyungsukkim/16)
   * [Attribution Window #2](https://brunch.co.kr/@hyungsukkim/22)
 * [Facebook vs. Google: 10 Contrasts for Engineering Careers](https://www.linkedin.com/pulse/facebook-vs-google-10-contrasts-engineering-careers-michael-mcnally/)
+* [On Leaving Facebook / frantic.im](https://frantic.im/leaving-facebook/)
+  * [페이스북을 떠나며 | GeekNews](https://news.hada.io/topic?id=5810)
 
 # Google
 * [Hacking a Google Interview](http://courses.csail.mit.edu/iap/interview/materials.php)
@@ -750,6 +752,8 @@ Interview
 * [lever](https://www.lever.co/)
 * [movnorth.com - A community of global software developers interested in Canada](https://movnorth.com/)
 * [nagaja.net 해외취업 커뮤니티](http://www.nagaja.net/)
+* [Senior Engineer Jobsearch](https://www.jobsearch.dev/) 큰 회사로의 이직을 목표로 하는 경력 엔지니어 대상 무료 가이드
+  * [Senior Engineer Jobsearch : 시니어 엔지니어를 위한 구직 가이드 | GeekNews](https://news.hada.io/topic?id=5808)
 * [STARTUP DEVELOPER JOBS](https://startupdeveloperjobs.com/)
 * [staticjobs.com](https://www.staticjobs.com/)
 * [whoishiring.io - Who is hiring? Map Edition](http://whoishiring.io/)
