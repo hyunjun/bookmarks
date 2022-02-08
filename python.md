@@ -823,6 +823,7 @@ Python
   * [Function Argument](http://ulismoon.tistory.com/7)
   * [Write Better Python Functions](https://hackernoon.com/write-better-python-functions-c3a9a36382a6)
   * [Advanced Python: Consider These 10 Elements When You Define Python Functions | by Yong Cui, Ph.D. | Better Programming | Aug, 2020 | Medium](https://medium.com/better-programming/advanced-python-consider-these-10-elements-when-you-define-python-functions-61c0be8a10ed)
+  * [Strict Python function parameters](https://sethmlarson.dev/blog/strict-python-function-parameters)
 * functools
   * [Functools 의 Partial 이란?](http://hamait.tistory.com/823)
 * gc
@@ -1045,6 +1046,7 @@ Python
   * [**Async and await with subprocesses**](https://fredrikaverpil.github.io/2017/06/20/async-and-await-with-subprocesses/)
   * [Multiprocessing and multithreading in Python 3](https://www.ploggingdev.com/2017/01/multiprocessing-and-multithreading-in-python-3/)
   * [Multithreading in Python with Global Interpreter Lock (GIL) Example](https://www.guru99.com/python-multithreading-gil-example.html)
+  * [Python Multithreading without GIL](https://docs.google.com/document/u/0/d/18CXhDb1ygxg-YXNBJNzfzZsDFosB5e6BfnXLlejd9l0/mobilebasic)
   * [파이썬의 스레드 사용법](https://soooprmx.com/archives/8834)
   * [multiprocessing queue full](https://stackoverflow.com/questions/31552716/multiprocessing-queue-full)
   * [rogrepos.py](https://github.com/lqez/rogrepos/blob/master/rogrepos/rogrepos.py)
@@ -3305,6 +3307,7 @@ Python
   * [cinder: Instagram's performance oriented fork of CPython](https://github.com/facebookincubator/cinder)
     * [인스타그램, C파이썬 3.8의 성능 중점 포크 ‘신더’ 공개 - CIO Korea](https://www.ciokorea.com/news/192974)
   * [faster-cpython/plan.md at master · markshannon/faster-cpython](https://github.com/markshannon/faster-cpython/blob/master/plan.md)
+  * [FasterCPythonDark.pdf at main · faster-cpython/ideas](https://github.com/faster-cpython/ideas/blob/main/FasterCPythonDark.pdf)
 * [credstash - A little utility for managing credentials in the cloud](https://github.com/LuminalOSS/credstash)
 * [Chromote - Simple wrapper to drive Google Chrome from Python using the Remote Debugging Protocol 1.1 API](https://github.com/iiSeymour/chromote)
 * [cx_Oracle - PYTHON – CX_ORACLE THROWS MISSING LIBCLNTSH.SO.11.1 WHEN EXECUTED BY DJANGO-CHRONOGRAPH](http://eureka.ykyuen.info/2014/11/07/python-cx_oracle-throws-missing-libclntsh-so-11-1-when-executed-by-django-chronograph/)
