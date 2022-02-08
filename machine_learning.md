@@ -648,6 +648,7 @@ Machine Learning
 * [Principal Component Analysis explained visually](https://setosa.io/ev/principal-component-analysis/) PCA
 * [pca.ipynb - Colaboratory](https://colab.research.google.com/github/metamath1/ml-simple-works/blob/master/pca/pca.ipynb)
 * [통계 고유값과 고유벡터를 이용한 주성분 분석(PCA) - 차원축소](https://blog.naver.com/pjt3591oo/222636875246)
+* [PCA를 이용하여 이미지 압축(Pillow)](https://blog.naver.com/pjt3591oo/222641548110)
 * [조대협의 블로그 :: 머신러닝 파이프라인에서 데이터 전처리 방법](https://bcho.tistory.com/1380) 일반적인 이야기 + GCP 이야기
 * [Introducing Machine Learning for Developers Newsletter (ML4Devs, Issue 1) - Machine Learning for Developers](https://ml4devs.substack.com/p/001-machine-learning-for-developers-newsletter)
 * [Machine Learning vs. Traditional Software Development (ML4Devs, Issue 2) - Machine Learning for Developers](https://ml4devs.substack.com/p/002-machine-learning-vs-traditional-software)
