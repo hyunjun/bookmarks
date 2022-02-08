@@ -1,8 +1,5 @@
 # Ad
 
-* [구글 애널리틱스 4 세션에 관한 정확한 진실](https://brunch.co.kr/@kayros/143)
-  * 구글 애널리틱스가 Universal Analytics에서 GA4로 넘어가면서 달라진 부분 설명
-  * 세션이 중심이었던 대신 사용자가 중심이 되어서 세션이 GA3보다 적게 수집될 가능성이 커졌고 이탈률이 사라지고 Engagement 이벤트를 통해서 사용자의 관여 정도와 목표설정이 가능
 * [모바일 앱 환경의 최소 식별값, ADID와 IDFA값 이해하기](https://www.blog.adbrix.io/post/adid-idfa)
 * [Why Digital Marketers Should Learn Python. 김지원 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=Z5W-e5Ak3VU)
 * [Digital Marketing Course Part - 1 🔥| Digital Marketing Tutorial For Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=nU-IIXBWlS4)
@@ -14,3 +11,11 @@
 * [페이스북 광고 타겟팅 3가지](https://brunch.co.kr/@glinkmedia/51)
 * [마케터가 꼭 알아두어야 할 AI 와 AI 사용방법 - 세일즈포스 (Salesforce)](https://www.salesforce.com/kr/hub/marketing/ai-for-marketers/)
 * funnel [Automated data collection & marketing reports | Funnel](https://funnel.io/)
+
+# Google
+* [구글 애널리틱스 4 세션에 관한 정확한 진실](https://brunch.co.kr/@kayros/143)
+  * 구글 애널리틱스가 Universal Analytics에서 GA4로 넘어가면서 달라진 부분 설명
+  * 세션이 중심이었던 대신 사용자가 중심이 되어서 세션이 GA3보다 적게 수집될 가능성이 커졌고 이탈률이 사라지고 Engagement 이벤트를 통해서 사용자의 관여 정도와 목표설정이 가능
+* Topic API
+  * [Get to know the new Topics API for Privacy Sandbox](https://blog.google/products/chrome/get-know-new-topics-api-privacy-sandbox/)
+  * [구글, 토픽 API 공개··· "쿠키 대안 '플록' 대체할 IBA 시스템" - CIO Korea](https://www.ciokorea.com/news/223489)
