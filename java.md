@@ -1184,6 +1184,7 @@ Java
   * [First Jenkins CICD Job with Maven and GitHub | Jenkins tutorial for beginners Part #3 - YouTube](https://www.youtube.com/watch?v=8x2F7hXRic4)
   * [Jenkins Tutorial for Beginners FULL COURSE in 3 Hours - YouTube](https://www.youtube.com/watch?v=MTm3cb7qiEo)
 * [jEnv - a command line tool to help you forget how to set the JAVA_HOME environment variable](http://www.jenv.be)
+  * [jenv: Manage your Java environment](https://github.com/jenv/jenv)
   * [practice - install java11 using jenv](https://gist.github.com/hyunjun/88ad5a8172acf4801c903980ecba074e)
   * [Mac에 Java 여러 버전 설치 & 사용하기](http://jojoldu.tistory.com/329)
   * [Multiple JDK versions on Mac OS X with jEnv](https://medium.com/@danielnenkov/multiple-jdk-versions-on-mac-os-x-with-jenv-5ea5522ddc9b)
