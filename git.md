@@ -228,6 +228,7 @@ Git
   * GitHub에서는 터미널 대신 슬랙에서 명령어를 입력해서 자동화하는 "Hubot"이라는 ChatOps 활용
   * Hubot은 로그 수집 도구인 Kusto에 질의를 할 수 있으므로 문제가 생겼을 때 Hubot을 이용해서 바로 조회, 처음 온 사람도 비상대기할 때 장애 상황에 대처할 플레이 북 문서를 Hubot을 통해서 조회, 플레이 북을 자동화해서 문제 검색
 * [How to automate everything with GitHub with GitHub App - YouTube](https://www.youtube.com/watch?v=mF_sw6R7Bf0)
+* [Git 2.35의 주요 변경점 | GeekNews](https://news.hada.io/topic?id=5856)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -1031,6 +1032,7 @@ Git
   * [Emacsair! Magit, the magical Git interface](https://emacsair.me/2017/09/01/the-magical-git-interface/)
 * [Octotree - GitHub 코드 트리를 쉽게 보여주는 브라우저 확장 프로그램](https://chrome.google.com/webstore/detail/octotree/bkhaagjahfmjljalopjnoealnfndnagc?hl=en-US)
 * [Pijul, a next-generation distributed version control system](https://pijul.org/)
+  * [“깃보다 더 확장 가능하고 빠르다”··· 피줄(Pijul), 베타로 이동 - CIO Korea](https://www.ciokorea.com/news/223129)
 * [Probot으로 GitHub App 만들기](https://blog.outsider.ne.kr/1390)
   * [Probot: Commands를 사용해서 GitHub 댓글로 봇 실행하기](https://blog.outsider.ne.kr/1391)
   * [Probot에서 YAML 설정파일 사용하기](https://blog.outsider.ne.kr/1392)
