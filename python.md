@@ -543,6 +543,7 @@ Python
 * [Understanding all of Python, through its builtins](https://sadh.life/post/builtins/)
 * [Top 10 Ways To Write Better Python Code - ActiveState](https://www.activestate.com/blog/top-10-ways-to-write-better-python-code/)
 * [3 ways to deal with large datasets in Python | by Georgia Deaconu | Jan, 2022 | Towards Data Science](https://towardsdatascience.com/5-ways-to-deal-with-large-datasets-in-python-9a80786c4182)
+* [최신 ‘파이썬’ 작성 팁 4가지 - CIO Korea](https://www.ciokorea.com/news/223879)
 * [argparse](https://docs.python.org/3/library/argparse.html)
   * [pymotw.com/3/argparse](https://pymotw.com/3/argparse/)
   * [Comparing Python Command-Line Parsing Libraries - Argparse, Docopt, and Click](https://realpython.com/blog/python/comparing-python-command-line-parsing-libraries-argparse-docopt-click/)
@@ -3227,11 +3228,6 @@ Python
 * [Bake — the strangely familiar workflow utility](https://github.com/kennethreitz/bake) makefile과 비슷하게 bakefile을 통해 작업 처리. automation
 * [BARF : A multiplatform open source Binary Analysis and Reverse engineering Framework](https://github.com/programa-stic/barf-project/?0.2.1)
 * BaseCrack [A Python tool that can decode all alphanumeric base encoding schemes](https://pythonawesome.com/a-python-tool-that-can-decode-all-alphanumeric-base-encoding-schemes/)
-* [BeeWare - The IDEs of Python](http://pybee.org/)
-  * [Building a Cross-Platform Native App with BeeWare](https://www.youtube.com/watch?v=HHkqK-Ncs0U)
-  * [Introduction to BeeWare - Singapore Python User Group](https://www.youtube.com/watch?v=i5DmL294lIg)
-  * [A Web Without JavaScript](https://www.youtube.com/watch?v=VdyCTife_Yo)
-  * [batavia - Tools to run Python bytecode in the browser](https://github.com/pybee/batavia)
 * [Bin Packing Algorithm http://towry.me](https://github.com/towry/bin-packing)
 * [bioread -  for reading the files produced by BIOPAC's AcqKnowledge software](https://github.com/njvack/bioread)
   * [bioread 사용법](http://gildang.co.kr/?p=2374)
@@ -3910,6 +3906,11 @@ Python
 ## Library IDE
 * [Best Python IDEs and Code Editors You Must Use in 2020](https://towardsdatascience.com/best-python-ides-and-code-editors-you-must-use-in-2020-2303a53db24)
 * [A Python IDE meant for learning programming](https://pythonawesome.com/a-python-ide-meant-for-learning-programming/)
+* [BeeWare - The IDEs of Python](http://pybee.org/)
+  * [Building a Cross-Platform Native App with BeeWare](https://www.youtube.com/watch?v=HHkqK-Ncs0U)
+  * [Introduction to BeeWare - Singapore Python User Group](https://www.youtube.com/watch?v=i5DmL294lIg)
+  * [A Web Without JavaScript](https://www.youtube.com/watch?v=VdyCTife_Yo)
+  * [batavia - Tools to run Python bytecode in the browser](https://github.com/pybee/batavia)
 * [Eric - a full featured Python editor and IDE, written in Python](https://eric-ide.python-projects.org)
 * PyCharm
   * [practice - 별도 설치한 python으로 설정하기](https://gist.github.com/hyunjun/6b3896931108a9f174e8aa9003e506db#file-configuration-md)
@@ -3944,6 +3945,7 @@ Python
   * [Jupyter notebook support - Help | PyCharm](https://www.jetbrains.com/help/pycharm/jupyter-notebook-support.html)
     * [Are you still using JupyterLab?. There is a new premium product in the… | by Roman Orac | Towards Data Science](https://towardsdatascience.com/are-you-still-using-jupyterlab-ce1a4339c0a9)
   * Photonai [21 Techniques to Write Better Code | by Bruce H. Cottman, Ph.D. | The Startup | Medium](https://medium.com/swlh/21-techniques-to-write-better-python-code-3029f6562483)
+* PyScripter [An Introduction to PyScripter — The Best Free Python IDE | by Sohom Das | Jan, 2022 | Python in Plain English](https://python.plainenglish.io/an-introduction-to-pyscripter-the-best-free-python-ide-c0d42887769a)
 * [Sourcery | Automatically Improve Python Code Quality](https://sourcery.ai/) Instant Python refactoring
 * [Spyder IDE](https://www.spyder-ide.org/)
 * [Thonny - Python IDE for beginners](http://thonny.org/)
@@ -4022,8 +4024,9 @@ Python
 * [**파이썬 패키징 – 과거, 현재, 미래 – 야단법썬과 함께하는 블로그**](https://search5blog.wordpress.com/2021/08/19/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%8C%A8%ED%82%A4%EC%A7%95-%EA%B3%BC%EA%B1%B0-%ED%98%84%EC%9E%AC-%EB%AF%B8%EB%9E%98/)
 * [How to Package Python Projects in 2021 - ActiveState](https://www.activestate.com/blog/how-to-package-python-projects-in-2021/)
 * [Which Python Dependency Manager Should I Choose? - ActiveState](https://www.activestate.com/blog/which-python-dependency-manager-should-i-choose/)
+* [파이썬 패키징의 과거, 현재, 그리고 미래 - Morgenrøde](https://ryanking13.github.io/2021/07/11/python-packaging.html)
 * [ezpypi: Very simple and easy to use pip on any os](https://github.com/dlehdgud2380/ezpypi)
-* [Flit 3.3.0 — Flit 3.3.0 documentation](https://flit.readthedocs.io/)
+* [Flit](https://flit.readthedocs.io/)
 * [pex - a library for generating .pex (Python EXecutable) files which are executable Python environments in the spirit of virtualenvs](https://github.com/pantsbuild/pex#pex)
   * [Pex를 이용한 배포](https://b.luavis.kr/python/deploy-with-pex)
 * pip
@@ -4878,6 +4881,7 @@ Python
 * ironpython
   * [ironpython2](https://github.com/IronLanguages/ironpython2)
   * [ironpython3](https://github.com/IronLanguages/ironpython3)
+* pywin32 [파이썬 윈도우 핸들 포커스 방법, 실행중인 윈도우 핸들 가져오는 방법, 윈도우창 제어하는 방법](https://blog.naver.com/bb_/222641487320)
 * [pywinauto - a set of python modules to automate the Microsoft Windows GUI](https://pywinauto.readthedocs.io/)
   * [윈도우 GUI 프로그램은 어떻게 테스트 하나요. 이수호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=FCtg44YVnH8) E2E test
 * win32clipboard [clipboard 로 text, image 복사하기 , 가져오기](https://freeprog.tistory.com/16)
