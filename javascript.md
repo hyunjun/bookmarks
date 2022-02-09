@@ -1029,6 +1029,7 @@ Javascript
 * [JavaScript의 동시성 · Present](https://present.do/decks/60d453134a7eec094753cf78)
 * [How to Use Async/Await to Write Better JavaScript Code](https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/)
 * [자바스크립트의 비동기 프로그래밍 - 정윤호 · Present](https://present.do/presentations/6145f2ace3562505806fb6ef)
+* [JavaScript - async & await - YouTube](https://www.youtube.com/watch?v=1z5bU-CTVsQ)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * fetch
   * [Ajax, fetch](https://velog.io/@ksh4820/Ajax-fetch)
