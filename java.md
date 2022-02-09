@@ -339,6 +339,7 @@ Java
   * [Right way to check if String is empty in Java with Example | Java67](https://www.java67.com/2014/09/right-way-to-check-if-string-is-empty.html)
   * [Why String is Immutable or Final in Java? Explained](https://javarevisited.blogspot.com/2010/10/why-string-is-immutable-or-final-in-java.html)
   * [How to remove duplicate characters from String in Java? Solved | Java67](https://www.java67.com/2019/11/how-to-remove-duplicate-characters-from-string-in-java.html)
+  * [How to Remove all adjacent duplicates characters from String in java? Example Tutorial | Java67](https://www.java67.com/2022/02/how-to-remove-all-adjacent-duplicates-from-string-.html)
 * System
   * currentTimeMillis vs. nanoTime
     * [Measure Elapsed Time in Java](https://www.baeldung.com/java-measure-elapsed-time)
