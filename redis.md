@@ -110,6 +110,8 @@ Redis
   * [Redis Geospatial by example. This is the eighth post of The Redis… | by Mohammed Hewedy | Medium](https://medium.com/@mhewedy_46874/redis-geospatial-by-example-f5505a0962ef)
 * [캐시 성능 향상기 (Improving Cache Speed at Scale) : TOAST Meetup](https://meetup.toast.com/posts/251)
 * [if(kakao)2020 코멘터리 01 : 카카오톡 캐싱 시스템의 진화 — Kubernetes와 Redis를 이용한 캐시 팜 구성 – tech.kakao.com](https://tech.kakao.com/2020/11/10/if-kakao-2020-commentary-01-kakao/)
+* [쿠버네티스 레디스 클러스터 구축기 - kakaoTV](https://tv.kakao.com/channel/3693125/cliplink/423589917)
+* [쿠버네티스에 레디스 캐시 클러스터 구축기 – tech.kakao.com](https://tech.kakao.com/2022/02/09/k8s-redis/)
 * [Redis Eviction 정책을 적용하여 효율적인 캐시 띄우기](https://chagokx2.tistory.com/102)
 * [서버가 여러대면 로그인 정보는 어디에 저장할까? - Sticky Session, Session Clustering, Redis Session Storage](https://tjdrnr05571.tistory.com/3)
 * [Redis 성능 향상을 위한 Redis 세션 저장소와 캐시 저장소의 분리](https://chagokx2.tistory.com/99)
