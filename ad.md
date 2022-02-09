@@ -18,5 +18,6 @@
   * 구글 애널리틱스가 Universal Analytics에서 GA4로 넘어가면서 달라진 부분 설명
   * 세션이 중심이었던 대신 사용자가 중심이 되어서 세션이 GA3보다 적게 수집될 가능성이 커졌고 이탈률이 사라지고 Engagement 이벤트를 통해서 사용자의 관여 정도와 목표설정이 가능
 * Topic API
+  * [Google considers switching FLoC to a topic-based approach](https://digiday.com/marketing/google-switch-floc-cookie-replacement-fingerprinting-potential/)
   * [Get to know the new Topics API for Privacy Sandbox](https://blog.google/products/chrome/get-know-new-topics-api-privacy-sandbox/)
   * [구글, 토픽 API 공개··· "쿠키 대안 '플록' 대체할 IBA 시스템" - CIO Korea](https://www.ciokorea.com/news/223489)
