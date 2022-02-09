@@ -382,6 +382,7 @@ Android
 * [ObjectDetectionMLKitApp](https://github.com/wgfactory/ObjectDetection_MLKitApp) MLKit Object Detection Android Example Application
 * [OCR_Plus_Table](https://github.com/JaeMinYooon/OCR_Plus_Table) table OCR -> excel
 * [PHONK - Self-contained Creative scripting toolbox for new and old Android devices](https://phonk.app/)
+* [PowerPrefs - A Powerful Android SharedPreferences wrapper Library Written in Kotlin 🤩🔥](https://github.com/tarifchakder/PowerPrefs)
 * [Profiler를 통한 메모리 관리 #안드로이드 스튜디오](https://developer88.tistory.com/229)
 * [PIT4ADB: 파파고 이미지 번역을 ADB로 구현](https://github.com/kdrkdrkdr/PIT4ADB)
 * [React Native for Android: How we built the first cross-platform React Native app](https://code.facebook.com/posts/1189117404435352/)
