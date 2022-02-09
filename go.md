@@ -382,6 +382,7 @@ Go
   * [가장 빨리 만나는 Go 언어 Unit 48. 정규표현식 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit48)
 * strings
   * [golang - Go 언어의 strings.Builder을 이용한 문자열 연결 최적화 및 벤치마킹 - jacking75](https://jacking75.github.io/go_strings_Builder/)
+  * [Demystifying Bytes, Runes, and Strings in Go | by Jerry An | Level Up Coding](https://levelup.gitconnected.com/demystifying-bytes-runes-and-strings-in-go-1f94df215615)
 * sync
   * [A Closer Look at Go’s sync Package](https://medium.com/@teivah/a-closer-look-at-go-sync-package-9f4e4a28c35a)
 * time
