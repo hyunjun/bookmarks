@@ -671,6 +671,7 @@ Vision
 * [RealTime_Gesture_VolumeControl: Computer Vision, Pose Estimation, Python](https://github.com/sw-song/RealTime_Gesture_VolumeControl)
   * [Gesture Volume Control | OpenCV Python 2021 | Computer Vision - YouTube](https://www.youtube.com/watch?v=9iEPzbG-xLE)
   * [Advance Gesture Volume Control Part 2 | OpenCV Python | Computer Vision - YouTube](https://www.youtube.com/watch?v=9ZRqc4EaPRU)
+* [Rock-Paper-Scissors-Lizard-Spock: The classic game of Rock-Paper-Scissors, with a twist for humans. 🗿 📝 ✂️ 🦎 🖖](https://github.com/akshaybahadur21/Rock-Paper-Scissors-Lizard-Spock)
 
 # OpenGL
 * [open.gl](https://open.gl/)
