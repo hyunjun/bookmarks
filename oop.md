@@ -122,6 +122,7 @@
 * [pacientes/Design-Pattern-In-Cpp: Design Pattern using C++ Language](https://github.com/pacientes/Design-Pattern-In-Cpp)
 * [Design Patterns: Facts and Misconceptions - YouTube](https://www.youtube.com/watch?v=edYk82YAaaM)
 * [Back to Basics: Object Oriented Programming - YouTube](https://www.youtube.com/watch?v=3dsCKaiC10c)
+* [OOP Is Dead, Long Live Data-Oriented Design - YouTube](https://www.youtube.com/watch?v=g1TsP60z2OQ)
 
 # C#
 * [Factory Design Pattern (C#)](https://blog.usejournal.com/factory-design-pattern-c-a330955b9ed6)
