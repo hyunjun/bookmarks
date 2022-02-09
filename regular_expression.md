@@ -67,6 +67,7 @@ Regular Expression
 
 # C++
 * [정규 표현식](http://jiniya.net/ng/2017/11/regex/)
+* [REGEX - How to match and search any pattern or validate input? (Regular expressions 30-min course) - YouTube](https://www.youtube.com/watch?v=dxJHQYtck0k)
 
 # Go
 * [Regex Tester - Golang](https://regex-golang.appspot.com/)
