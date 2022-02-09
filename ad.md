@@ -10,6 +10,7 @@
 * [글로벌을 향한 LINE 광고 플랫폼의 도전 | 라인개발실록 - YouTube](https://www.youtube.com/watch?v=Xe1dbcFjYvA)
 * [페이스북 광고 타겟팅 3가지](https://brunch.co.kr/@glinkmedia/51)
 * [마케터가 꼭 알아두어야 할 AI 와 AI 사용방법 - 세일즈포스 (Salesforce)](https://www.salesforce.com/kr/hub/marketing/ai-for-marketers/)
+* [아마존 광고 매출, 어느새 MS·스냅·트위터 합친 것 보다 커져 < 인터넷 < 기사본문 - 디지털투데이 (DigitalToday)](http://www.digitaltoday.co.kr/news/articleView.html?idxno=433482)
 * funnel [Automated data collection & marketing reports | Funnel](https://funnel.io/)
 
 # Google
