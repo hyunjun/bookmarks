@@ -433,6 +433,7 @@ AWS
 * [How to fix SSH issues on EC2 Linux instances using AWS Systems Manager | AWS Cloud Operations & Migrations Blog](https://aws.amazon.com/de/blogs/mt/how-to-fix-ssh-issues-on-ec2-linux-instances-using-aws-systems-manager/)
 * [The top Amazon Science blog posts of 2021 - Amazon Science](https://www.amazon.science/latest-news/the-top-amazon-science-blog-posts-of-2021)
 * [차량용 단말을 위한 IoT 파이프라인 구축기 #1 - SOCAR Tech Blog](https://tech.socarcorp.kr/mobility/2022/01/06/socar-iot-pipeline-1.html)
+* [차량용 단말을 위한 IoT 파이프라인 구축기 (feat. Kafka) #2 - SOCAR Tech Blog](https://tech.socarcorp.kr/mobility/2022/02/09/socar-iot-pipeline-2.html)
 * [Performance Analysis for Arm vs x86 CPUs in the Cloud](https://www.infoq.com/articles/arm-vs-x86-cloud-performance/)
 * [Multi tenant Architecture for a SaaS Application on AWS | Clickittech](https://www.clickittech.com/saas/multi-tenant-architecture/)
 * [Storm in the stratosphere: how the cloud will be reshuffled · Erik Bernhardsson](https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html)
