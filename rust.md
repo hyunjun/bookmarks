@@ -340,6 +340,7 @@
 * [Rust Linz, June 2021 - Tim McNamara - How to learn Rust - YouTube](https://www.youtube.com/watch?v=sDtQaO5_SOw)
 * [Learning Rust! 🦀 Axum Hyper Tonic Tower Part 1 - YouTube](https://www.youtube.com/watch?v=9WuiTxm4WaA)
 * [Writing a Programming Language - YouTube](https://www.youtube.com/playlist?list=PLkpGh2gaaueyzEAn07jf44LdscDeWRyzy)
+* [Rust 공부하기 - YouTube](https://www.youtube.com/playlist?list=PLdvEO-IMMcPvfiBkVwgIwDf4AuTjI2aeG)
 * [rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
   * 버그 수정하며 Rust 언어 배우기
   * 에러가 있는 코드를 수정하면서 Rust를 읽고 쓰는법 배우기
