@@ -560,6 +560,10 @@ Book
   * 처음엔 우주가 안정적이라 팽창하지 않는다고 했다가 나중에 자신이 틀렸음을 깨닫고 견해를 수정했다고 하는데
     * 그 부분에 대해 자신의 잘못을 인정하긴 했지만 진심이 담겨있지는 않은 거 같다고 묘사한 알렉산더 프리드먼 교수 이야기가 재미있었다.
   * 에드윈 허블이 천문대 청소부로 일하던 밀턴 휴메이슨을 그냥 소질만 보고 자신의 조수로 고용하는 일화도 인상적이다.
+* [트리니티 - 신의 불을 훔친 인류 최초의 핵실험 -](https://jh4hj.tistory.com/entry/%ED%8A%B8%EB%A6%AC%EB%8B%88%ED%8B%B0-%EC%8B%A0%EC%9D%98-%EB%B6%88%EC%9D%84-%ED%9B%94%EC%B9%9C-%EC%9D%B8%EB%A5%98-%EC%B5%9C%EC%B4%88%EC%9D%98-%ED%95%B5%EC%8B%A4%ED%97%98)
+  * ★★★☆☆ 2022.02.07
+  * [트리니티 — 신의 불을 훔친 인류 최초의 핵실험 - Jun - Medium](https://nymets.medium.com/%ED%8A%B8%EB%A6%AC%EB%8B%88%ED%8B%B0-%EC%8B%A0%EC%9D%98-%EB%B6%88%EC%9D%84-%ED%9B%94%EC%B9%9C-%EC%9D%B8%EB%A5%98-%EC%B5%9C%EC%B4%88%EC%9D%98-%ED%95%B5%EC%8B%A4%ED%97%98-5a60732e05a7)
+  * [그래픽노블 트리니티 - DVDPrime](https://dvdprime.com/g2/bbs/board.php?bo_table=comm&wr_id=8588091)
 
 # Science Fiction
 * [체제 바깥의 과학기술 권력](http://webzine.storyvaluecenter.com/%EC%B2%B4%EC%A0%9C-%EB%B0%94%EA%B9%A5%EC%9D%98-%EA%B3%BC%ED%95%99%EA%B8%B0%EC%88%A0-%EA%B6%8C%EB%A0%A5/)
