@@ -254,6 +254,7 @@
 * [SOLID Principles in Java. SOLID principles basically form the… | by Deepika sharma | Nerd For Tech | Jul, 2021 | Medium](https://medium.com/nerd-for-tech/solid-principles-in-java-5cf926e44247)
 * [Java — good practices and recommendations: Design patterns | by Martin Jonovski | < BE OUTSTANDING />](https://blog.singular.uk/java-good-practices-and-recommendations-design-patterns-eade30be7965)
 * [Java Design Patterns | Making Java Easy To Learn](https://javatechonline.com/java-design-patterns-java/)
+* [Difference between Inheritance and Polymorphism in Java and OOP - Example](https://javarevisited.blogspot.com/2020/04/difference-between-inheritance-and-Polymorphism-in-java-oop.html)
 
 # JavaScript
 * [JavaScript 객체 지향 프로그래밍](https://opentutorials.org/module/4047)
