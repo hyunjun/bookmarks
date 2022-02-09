@@ -222,6 +222,7 @@ Business
 * [기숙사를 제공하는 스타트업: 기업 복지에 대하여](http://ppss.kr/archives/57926)
 * [회사에서 능력을 더 어필할 수 있는 작은 방법들](http://ppss.kr/archives/57970)
 * [전문가가 되지 못하면 어떻게 되는가?](http://m.blog.naver.com/devmarketing/220259733162)
+* [영향력 있는 유명인 vs. 실력 있는 전문가 | RBBM](https://www.redbusbagman.com/armchairinfluencers/) 전문가 expert의 사분면(실력과 영향력)
 * [상사와 원만한 관계 유지하는 법](http://bonlivre.tistory.com/770)
 * [회사를 떠나는 것이 아니다. 상사를 떠나는 것이다](https://brunch.co.kr/@voiz/29)
 * [너와 나의 '감정계좌'](https://brunch.co.kr/@younghakjang/27)
