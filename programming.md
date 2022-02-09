@@ -1720,6 +1720,7 @@ Programming
 * [Top 5 Online Courses to Learn Cloud Computing in 2022 - Best of Lot](https://javarevisited.blogspot.com/2019/07/top-5-online-courses-to-learn-cloud-computing-aws.html)
 * [How to use cloud platforms for your data science projects](https://analyticsindiamag.com/how-to-use-cloud-platforms-for-your-data-science-projects/)
 * [온프레미스 vs 퍼블릭 클라우드 - 네트워크 특징 및 서브넷 범위](https://gasidaseo.notion.site/vs-094d88adb3df4d20aa7b0e9e1ba32814)
+* [Why use Cloud Computing? Advantages and Disadvantages](https://javarevisited.blogspot.com/2020/05/why-use-cloud-computing-advantages-and.html)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
