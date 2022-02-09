@@ -340,6 +340,7 @@ History
 * [노예제 이야기를 불편하게 여기는 학생들에게 미국사 가르치기](http://ppss.kr/archives/58627)
 * [How the Publican Party went from Lincoln to Trump](https://youtu.be/s8VOM8ET1WU)
   * [1](https://imgur.com/a/7J1HZYU) [2](https://imgur.com/a/1JGIbe9) [3](https://imgur.com/a/xZmBVyB) [4](https://imgur.com/a/znXataI)
+* [미국과 개인주의](https://newspeppermint.com/2022/02/08/npc_culturalpsychologyusa/) 역사는 아니고 문화에 대한 이야기
 
 # Asia
 * [동아시아 영토 변화](https://youtu.be/evXdxx2HZDE)
