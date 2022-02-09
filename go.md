@@ -324,6 +324,7 @@ Go
 * [golang - 특이한 init 함수 - jacking75](https://jacking75.github.io/go_init/)
 * [Go Programming | Copy function Explained | by Jerry An | Level Up Coding](https://levelup.gitconnected.com/go-programming-copy-function-explained-d0493c4a9800)
 * [iota in Go || iota in golang || use of iota with example in go - YouTube](https://www.youtube.com/watch?v=lnR9Pz27yS0)
+* [Unexpected Newline, Expecting Comma in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=2wt28guDEVY)
 * array
   * [The anatomy of Arrays in Go](https://medium.com/rungo/the-anatomy-of-arrays-in-go-24429e4491b7)
   * [Go: Slice and Memory Management](https://medium.com/a-journey-with-go/go-slice-and-memory-management-670498bb52be)
