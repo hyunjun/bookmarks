@@ -907,6 +907,7 @@ Machine Learning
 * [Best Machine Learning Courses for Finance You Must Know in 2021](https://www.mltut.com/best-machine-learning-courses-for-finance/)
 * [Best Resources to Learn Machine Learning Online in 2021](https://www.mltut.com/best-resources-to-learn-machine-learning-online/)
 * [6 Best Websites to learn Data Science and Machine Learning in 2022 | by javinpaul | Javarevisited | Feb, 2022 | Medium](https://medium.com/javarevisited/6-best-websites-to-learn-data-science-and-machine-learning-36f014af63fb)
+* [10 Best Advanced Machine Learning Courses You Must Know in 2022](https://www.mltut.com/best-advanced-machine-learning-courses)
 * [learning-machine: A handbook for ML built on answers](https://github.com/rentruewang/learning-machine)
   * [A handbook for machine learning with python](https://pythonawesome.com/a-handbook-for-machine-learning-with-python/)
 * [scikit-learn MOOC](https://www.fun-mooc.fr/en/courses/machine-learning-python-scikit-learn/)
