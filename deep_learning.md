@@ -769,6 +769,7 @@ Deep Learning
 * [An Introduction to Variational Autoencoders](https://arxiv.org/abs/1906.02691v1)
 * [분포를 추정해서 손글씨를 만들어보자 — (1) Variational Inference | by 박은지 | MODULABS x TECH | Feb, 2022 | Medium](https://medium.com/modulabs/%EB%B6%84%ED%8F%AC%EB%A5%BC-%EC%B6%94%EC%A0%95%ED%95%B4%EC%84%9C-%EC%86%90%EA%B8%80%EC%94%A8%EB%A5%BC-%EB%A7%8C%EB%93%A4%EC%96%B4%EB%B3%B4%EC%9E%90-1-variational-inference-8f168e829f9d)
 * [Advanced_Models: 여러가지 유명한 신경망 모델들을 제공합니다. (DCGAN, VAE, Resnet 등등)](https://github.com/jk96491/Advanced_Models)
+* [benchmark_VAE: Library for Variational Autoencoder benchmarking](https://github.com/clementchadebec/benchmark_VAE)
 
 # Backpropagation
 * [Backpropagation](https://en.wikipedia.org/wiki/Backpropagation)
