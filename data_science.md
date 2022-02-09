@@ -352,6 +352,7 @@ Data Science
 * [Foundational Infrastructure to Create a Successful Data Science Team | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=vM26QPTOPVk)
 * [Bridging Data and Business - Sylvia Lee | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=B0MgNqYn15I)
 * [2021년 가트너 Data Science hype graph에 등장한 용어들 – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/hypegraph/) 기술적인 이야기는 아니지만 봐둘만함
+* [The Importance of Ratios & KPIs in Data Science | by Christianlauer | CodeX | Feb, 2022 | Medium](https://medium.com/codex/the-importance-of-ratios-kpis-in-data-science-d9a2623d5cb1)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
