@@ -230,6 +230,7 @@ Java
   * [DateTimeFormatter에서 년도표시에 yyyy대신 uuuu를 사용해야하는 이유?](https://blog.voidmainvoid.net/288)
   * [datetime 비교를 어떻게 할 수 있는지 예제 문제로 알아봅시다](https://codingdog.tistory.com/entry/datetime-%EB%B9%84%EA%B5%90%EB%A5%BC-%EC%96%B4%EB%96%BB%EA%B2%8C-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8A%94%EC%A7%80-%EC%98%88%EC%A0%9C-%EB%AC%B8%EC%A0%9C%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B4%85%EC%8B%9C%EB%8B%A4)
   * [Convert Milliseconds to & from LocalDateTime in Java8 & Above | CodersTea](https://www.coderstea.com/post/java/convert-milliseconds-to-and-from-localdatetime-in-java8-above/)
+  * [How to format/parse dates with LocalDateTime in Java 8 - Example Tutorial](https://javarevisited.blogspot.com/2017/08/how-to-format-parse-dates-with-LocalDateTime-Java-8.html)
 * Enum
   * [Java Enum 활용기](http://woowabros.github.io/tools/2017/07/10/java-enum-uses.html)
   * [Enum값의 사용](http://developer88.tistory.com/148)
