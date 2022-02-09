@@ -142,6 +142,7 @@
 * [Rust for Linux Progresses with New Abstractions and Infrastructure](https://www.infoq.com/news/2021/12/rust-for-linux-patch-2/)
 * [Could Rust be the Future of JavaScript Infrastructure](https://www.femar.co.ke/2022/01/rustjs.html)
 * [Rust OpenAI Integration (GPT-3) - YouTube](https://www.youtube.com/watch?v=5WhJQMnJjik)
+* [13 easy Rust tips (code review) - YouTube](https://www.youtube.com/watch?v=w_LUixO3tpU)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
