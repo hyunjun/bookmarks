@@ -137,6 +137,7 @@ Java
 * [7 Features Java Developers Should Learn in 2022 | by javinpaul | Javarevisited | Dec, 2021 | Medium](https://medium.com/javarevisited/7-features-java-developers-should-learn-73cc3d4e734f)
 * [Top 5 Free Java Microservices Courses with Spring Boot and RxJava in 2022 - Best of Lot | Java67](https://www.java67.com/2021/04/5-free-microservice-courses-for-java.html)
 * [Top 21 Tech Skills from Java Developer Job Descriptions to Learn in 2022 UPDATED](https://javarevisited.blogspot.com/2020/03/top-20-skills-java-developers-can-learn.html)
+* [Difference between SOAP and RESTful Web Service in Java](https://javarevisited.blogspot.com/2015/08/difference-between-soap-and-restfull-webservice-java.html)
 
 # API
 * [JAVA 자료구조의 활용 (Collection Framework)](http://www.gliderwiki.org/wiki/99)
