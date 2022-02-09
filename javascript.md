@@ -3286,6 +3286,7 @@ Javascript
 * [React Portfolio Website with Styled Components and Framer Motion 🔥 - YouTube](https://www.youtube.com/watch?v=c8lnJzGVVpQ)
 * [React가 처음인 당신 - Ep1. 탄생편](https://velog.io/@winterlood/React%EA%B0%80-%EC%B2%98%EC%9D%8C%EC%9D%B8-%EB%8B%B9%EC%8B%A0-Ep1.-%ED%83%84%EC%83%9D%ED%8E%B8)
 * [React가 처음인 당신 - Ep2. 특징](https://velog.io/@winterlood/React%EA%B0%80-%EC%B2%98%EC%9D%8C%EC%9D%B8-%EB%8B%B9%EC%8B%A0-Ep2.-%ED%8A%B9%EC%A7%95-eywt7itd)
+* [번역 What You Should Definitely Look Out For In React In 2022 | by Jisu Yuk | Feb, 2022 | Medium](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-what-you-should-definitely-look-out-for-in-react-in-2022-babd8e02b9a1)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
