@@ -1326,6 +1326,7 @@ Java
   * [바딘? Vaadin? 무슨 뜻이지?](http://basakpie.com/archives/435)
   * [모던 자바 웹 UI 바딘 프레임워크](http://slides.com/basakpie/vaadin)
   * [Vaadin 14 Simplifies Progressive Web App Development on the Java Platform](https://www.infoq.com/news/2019/08/vaadin-releases-lts-version-14/)
+  * [Java Web Apps in 2022: Building Web Apps 100% in Java - YouTube](https://www.youtube.com/watch?v=TGSDz-_dNhI)
 * [walkmod is an open source tool to apply and share your own code conventions](http://walkmod.com/)
 * [WebRPC - Cross-platform RPC over HTTP](https://github.com/gk-brown/WebRPC)
 
