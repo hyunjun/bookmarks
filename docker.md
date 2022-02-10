@@ -799,6 +799,7 @@ Docker
 * [Let's Learn Kubernetes - Basics - 1 - DEV Community](https://dev.to/pghildiyal/let-s-learn-kubernetes-basics-part-1-3of7)
 * [Let's Learn Kubernetes - Basics - 2 - DEV Community](https://dev.to/pghildiyal/let-s-learn-kubernetes-basics-2-2a9a)
 * [Let's Learn Kubernetes - Basics - 3 - DEV Community](https://dev.to/pghildiyal/lets-learn-kubernetes-basics-3-4lm)
+* [Learn Kubernetes and Start Containerizing Your Applications](https://www.freecodecamp.org/news/learn-kubernetes-and-start-containerizing-your-applications/)
 * [Infra 쿠버네티스(kubernetes)(1) 쿠버네티스 구조(Kubernetes architecture) - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/kubernetes01/)
 * [Container Cluster Manager from Google](https://github.com/googlecloudplatform/kubernetes)
 * [Large-scale cluster management at Google with Borg](http://blog.acolyer.org/2015/05/07/large-scale-cluster-management-at-google-with-borg/)
