@@ -73,6 +73,7 @@ Google Cloud Platform GCP
 * [Google Cloud Platform: Creating an Instance and Configuring DNS](https://hackingandslacking.com/google-cloud-platform-creating-an-instance-and-configuring-dns-7043875fd7d4)
 * [Introducing Anthos: An entirely new platform for managing applications in today's multi-cloud world](https://cloud.google.com/blog/topics/hybrid-cloud/new-platform-for-managing-applications-in-todays-multi-cloud-world)
   * [Anthos를 소개합니다 : 멀티클라우드에서 애플리케이션을 관리하기 위한 새로운 플랫폼](https://developers-kr.googleblog.com/2019/06/new-platform-for-managing-applications-in-todays-multi-cloud-world.html)
+  * [Managed Anthos Service Mesh on GKE Autopilot Clusters | Google Cloud Blog](https://cloud.google.com/blog/products/containers-kubernetes/managed-anthos-service-mesh-on-gke-autopilot-clusters)
 * [“어디서나 실행 가능한 관리형 쿠버네티스” 구글 클라우드 안토스의 모든 것 - ITWorld Korea](https://www.itworld.co.kr/news/223699)
 * [Deploy App Containers with Google Cloud’s App Engine](https://hackingandslacking.com/deploy-app-containers-with-gcp-app-engine-1681bd120357)
 * [좀 더 저렴하게 사용하는 Google Cloud Platform(GCP)](https://medium.com/@jwlee98/%EC%A2%80-%EB%8D%94-%EC%A0%80%EB%A0%B4%ED%95%98%EA%B2%8C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94-google-cloud-platform-gcp-456cd71379f8)
