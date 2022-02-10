@@ -679,6 +679,7 @@ Programming
     * 초기 파트너 피드백
     * 베타 테스트
 * [Consistency, Coupling, and Complexity at the Edge](https://www.infoq.com/articles/consistency-coupling-complexity/) RESTful, GraphQL
+* [tl;dr Coupling (& later Cohesion) - by Kent Beck](https://tidyfirst.substack.com/p/tldr-coupling-and-later-cohesion) The economic goal of software design is to balance the cost of coupling versus the cost of decoupling
 * [How to Hack APIs in 2021 by Hakluke and Farah Hawa | Detectify Labs](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
 * [Don’t Build A General Purpose API To Power Your Own Front End - Max Chernyak](https://max.engineer/server-informed-ui)
 * [블로그 | API 관리가 그토록 복잡해야만 할까? - CIO Korea](https://www.ciokorea.com/news/209107)
