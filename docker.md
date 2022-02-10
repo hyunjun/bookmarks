@@ -1577,6 +1577,7 @@ Docker
 * [Top Docker alternatives for 2022 - LogRocket Blog](https://blog.logrocket.com/top-docker-alternatives-2022/)
 * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [containerd: An open and reliable container runtime](https://github.com/containerd/containerd)
+  * [containerd-the-hard-way](https://github.com/JeongsikKang/containerd-the-hard-way)
 * [lima: Linux virtual machines, on macOS (aka "Linux-on-Mac", "macOS subsystem for Linux", "containerd for Mac", unofficially)](https://github.com/lima-vm/lima)
   * [**containerd & Lima: Open source alternative to Docker for Mac | by Akihiro Suda | nttlabs | Sep, 2021 | Medium**](https://medium.com/nttlabs/containerd-and-lima-39e0b64d2a59)
   * [쿠버네티스 컨테이너 런타임 Docker에서 Containerd로 - Tech Blog - Tech Blog](https://tech.osci.kr/space/TB/21099380847/%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4+%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88+%EB%9F%B0%ED%83%80%EC%9E%84+Docker%EC%97%90%EC%84%9C+Containerd%EB%A1%9C)
@@ -1714,6 +1715,7 @@ Docker
 * [Troubleshooting Container Networking](https://success.docker.com/article/Troubleshooting_Container_Networking)
 * [`Error “The input device is not a TTY”`](https://stackoverflow.com/questions/43099116/error-the-input-device-is-not-a-tty)
   * e.g. `docker exec -it mysql ... < <schema name>.sql`로 하면 terminal 입력이라 오류가 발생하므로 `-it`를 `-i`로 변경해야 함
+* [Got permission denied while trying to connect to the Docker - YouTube](https://www.youtube.com/watch?v=BKh0w7RBRcM)
 
 # Vagrant
 * [Docker vs. Vagrant](https://www.upguard.com/articles/docker-vs-vagrant)
