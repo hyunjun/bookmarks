@@ -1357,6 +1357,7 @@ Machine Learning
   * [Engineering Trade-Offs in Automatic Differentiation: from TensorFlow and PyTorch to Jax and Julia - Stochastic Lifestyle](http://www.stochasticlifestyle.com/engineering-trade-offs-in-automatic-differentiation-from-tensorflow-and-pytorch-to-jax-and-julia/)
 * [merlin: Kubernetes-friendly ML model management, deployment, and serving](https://github.com/gojek/merlin)
   * [Machine Learning Models as Tables - ClickHouse Software And Services | Altinity](https://altinity.com/blog/2020/08/10/machine-learning-models-as-tables)
+* [mindsdb: In-Database Machine Learning](https://github.com/mindsdb/mindsdb)
 * [mljar-supervised: Automated Machine Learning Pipeline with Feature Engineering and Hyper-Parameters Tuning](https://github.com/mljar/mljar-supervised)
   * [P MLJAR + Optuna = simple tuning interface (for tabular data) : MachineLearning](https://www.reddit.com/r/MachineLearning/comments/m64xwd/p_mljar_optuna_simple_tuning_interface_for/)
 * [Mlxtend (machine learning extensions) is a Python library of useful tools for the day-to-day data science tasks](https://rasbt.github.io/mlxtend/)
