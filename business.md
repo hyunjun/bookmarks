@@ -1071,6 +1071,7 @@ Business
 * [스타트업계 전설 권도균 "창업자는 철학자가 돼야···모든 것 쓰고 갈 것" - ZDNet korea](https://zdnet.co.kr/view/?no=20211214095913) 드러커는 경영을 규율이라고 했다
 * [코딩, 대체 어디서부터 시작해야 하지? | ㅍㅍㅅㅅ](https://ppss.kr/archives/249113)
 * [Foxes and Hedgehogs | Altos Ventures, 번역글](https://notdefeated.ghost.io/untitled/) 그냥 '하세요!'
+* [센드버드 플립 이야기: 우리가 플립을 하지 않았어도 괜찮았을까? - 2014년 델라웨어 플립 그 이후](https://kimchihill.com/2021/12/26/since-the-delaware-flip-of-sendbird/)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
