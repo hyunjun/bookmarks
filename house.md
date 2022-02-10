@@ -117,6 +117,8 @@ House
 * [미리 알았더라면 좋았을 부동산 지식 - 사회 초년생 편 • 캡틴판교](https://joshua1988.github.io/life/real-estate-for-young/)
 
 # Library
+* [데이터노우즈](https://www.dataknows.ai/)
+  * [김기원의 쇼미더데이터! 강남도 집값 꺾였다...“이제 ’찐하락‘ 시작되나요?” - YouTube](https://www.youtube.com/watch?v=roNkZgT9VaY)
 * [PublicDataReader](https://github.com/WooilJeong/PublicDataReader)
   * 부동산 실거래 데이터 조회 수집 파이썬 라이브러리
   * 국토교통부 제공 각종 부동산 실거래 데이터 관련 오픈 API 서비스들을 하나로 통합
