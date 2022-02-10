@@ -695,6 +695,7 @@ Business
 * [직장에서 ‘심리적 안정감’의 중요성 | ㅍㅍㅅㅅ](https://ppss.kr/archives/232129)
 * [팀의 구성원들이 실력을 발휘하기 위해서는 안전함을 느껴야 한다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250546)
 * [구글은 생동감 있는 조직을 만들기 위해 어떤 환경을 조성할까? : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=27447489) 심리적 안정감
+* [위기에 강한 조직의 심리적 안전감](https://camp.lemonbase.com/psychologicalsafety0)
 * [Independence,autonomy,too many small teams | Kislay Verma](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
 * [에드 캣멀과의 상상 인터뷰](https://brunch.co.kr/@younghakjang/57)
 * [강점으로 경영하라](https://brunch.co.kr/@younghakjang/60)
@@ -1131,3 +1132,4 @@ Business
 * [스큐어모피즘부터 뉴모피즘까지, 스마트폰 UI의 역사](https://brunch.co.kr/@fbrudtjr1/41)
 * [쿠팡이츠는 어떻게 팔리는 경험을 만들어냈을까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/coupangeats20220118)
 * [버튼에는 손모양 포인터가 적합한가 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/885)
+* [😢 아쉽지만, 회원탈퇴 프로세스 분석](https://maily.so/tipster/posts/d67d36)
