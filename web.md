@@ -1115,6 +1115,7 @@ Web
   * 그래서 하나의 숫자로 성능을 볼 수 있는 Page Performance Score(PPS) 작성
     * 모든 매트릭을 "초기 로딩 매트릭"과 로드 후 반응성을 보는 "페이지 로딩 매트릭"으로 분리
     * 모든 매트릭 측정을 플랫폼의 특성에 맞게 하고 점수를 내기 위해 웹과 네이티브의 매트릭 가중치를 다르게 부여
+* [조금만 신경써서 초기 렌더링 빠르게 하기 (feat. JAM Stack)](https://toss.tech/article/faster-initial-rendering)
 * [ab - 아파치 웹서버 성능검사 도구](https://httpd.apache.org/docs/current/ko/programs/ab.html)
   * [Simple Performance Testing with Apache Benchmark](http://www.chriswpage.com/2010/01/simple-performance-testing-with-apache-benchmark/)
   * [Example of using Apache Bench (ab) to POST JSON to an API](https://gist.github.com/kelvinn/6a1c51b8976acf25bd78)
@@ -1141,6 +1142,7 @@ Web
 * [the-benchmarker/web-frameworks: Which is the fastest web framework?](https://github.com/the-benchmarker/web-frameworks)
 * [webhint, the hinting engine for web best practices](https://webhint.io/)
   * [WebHint - 웹사이트 개선을 위한 도구 | GeekNews](https://news.hada.io/topic?id=4480)
+* [Web Vitals](https://web.dev/vitals/)
 * [wrk - a HTTP benchmarking tool](https://github.com/wg/wrk)
   * installation `make`; worked on Redhat 6.6/7.2
   * [Script Lua to work better with wrk](https://github.com/timotta/wrk-scripts)
