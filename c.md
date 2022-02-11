@@ -228,6 +228,7 @@ C
     * [문제푸는 입장에서 다시보는 소소한(?)것들 – 활용편](https://bpsecblog.wordpress.com/2016/05/15/gdb_memory_s1/)
   * [Looking for debugger](https://scattered-thoughts.net/writing/looking-for-debugger/)
   * [Extreme Debugging – Squanderingtime/Chris Chandler](https://squanderingti.me/blog/2020/10/28/extreme-debugging.html)
+  * [오픈소스에서 원하는 코드 쉽게 찾기 (feat. GDB)](https://die4taoam.tistory.com/73)
   * [gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard/wiki)
   * [GDBFrontend - an easy, flexible and extensionable gui debugger](https://github.com/rohanrhu/gdb-frontend)
   * [onlinegdb.com](https://www.onlinegdb.com/)
