@@ -1264,6 +1264,7 @@ AWS
 * [eb-tomcat-snakes - 본 Tomcat 애플리케이션은 AWS Elastic Beanstalk 환경에서 J2EE 애플리케이션이 RDS를 사용하는 방법](https://github.com/awskrug/eb-tomcat-snakes)
 
 # Redshift
+* [데이터 웨어하우스란 무엇입니까? | 주요 개념 | Amazon Web Services](https://aws.amazon.com/ko/data-warehouse/)
 * [Redshift 슈퍼계정 이름 변경](https://jybaek.tistory.com/938)
 * [AWS Introduces Amazon Redshift Serverless](https://www.infoq.com/news/2021/12/amazon-redshift-serverless/)
 
