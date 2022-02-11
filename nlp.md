@@ -995,6 +995,7 @@ NLP
 * [GPT-3 공식문서번역 5. Get started - Usage guidelines — BetaMan의 공사장](https://betaman-workshop.tistory.com/67)
 * [AI Can Write in English. Now It's Learning Other Languages | WIRED](https://www.wired.com/story/ai-write-english-learning-other-languages/) GPT3
 * [Can’t Access GPT-3? Here’s GPT-J — Its Open-Source Cousin | by Alberto Romero | Towards Data Science](https://towardsdatascience.com/cant-access-gpt-3-here-s-gpt-j-its-open-source-cousin-8af86a638b11)
+* [HyperCLOVA 서빙 프레임워크 선정 | CLOVA Engineering Blog](https://engineering.clova.ai/posts/2022/01/hyperclova-part-1)
 * [OpenAI Codex 공개 및 파이썬 퍼즐 챌린지 예정 | GeekNews](https://news.hada.io/topic?id=4803)
 * [gpt-neo: An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library](https://github.com/EleutherAI/gpt-neo/)
 * [21년 2월 2주 - from __future__ import dreamfrom __future__ import dream](http://freesearch.pe.kr/archives/5034)
