@@ -562,6 +562,7 @@ Go
 * [go-itergen addresses a common and big problem of go: no maps, no filters, no nothing](https://github.com/mvader/go-itergen)
 * golangci-lint [Introduction | golangci-lint](https://golangci-lint.run/)
   * [A guide to linting Go programs](https://freshman.tech/linting-golang/)
+  * [golangci-lint를 이용하여 코딩 스타일을 효과적으로 관리하기 | by Lani | 당근마켓 팀블로그 | Feb, 2022 | Medium](https://medium.com/daangn/golangci-lint%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%BD%94%EB%94%A9-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-4bd0e24e1bbd)
 * [golongpoll - golang HTTP longpolling library, making web pub-sub easy!](https://github.com/jcuga/golongpoll)
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
 * gomobile [Mobile · golang/go Wiki](https://github.com/golang/go/wiki/Mobile)
