@@ -697,6 +697,7 @@ Programming
 * [How To Design A Good API and Why it Matters - YouTube](https://www.youtube.com/watch?v=aAb7hSCtvGw)
 * [Moving beyond Request-Reply: How Smart APIs Are Different - YouTube](https://www.youtube.com/watch?v=P9_5qAPfrpg)
 * [Top 5 Courses to Learn API Development (REST, SOAP, Web) in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/10/top-5-courses-to-learn-api-development.html)
+* [API Showdown: REST vs. GraphQL vs. gRPC – Which Should You Use? - YouTube](https://www.youtube.com/watch?v=3q1BeV3SVYs)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
   * [CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=4662)
