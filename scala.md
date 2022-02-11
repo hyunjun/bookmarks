@@ -1143,8 +1143,6 @@ Scala
 * [Scala Book: Free PDF, Mobi, and ePub versions](https://alvinalexander.com/scala/scala-book-free/)
 * [Scala from Scratch: Exploration by Daniel Westheide](https://leanpub.com/scala-from-scratch-exploration)
 * [Scala from Scratch: Understanding by Daniel Westheide](https://leanpub.com/scala-from-scratch-understanding)
-* [Finally some business logic! SPFS #5 - YouTube](https://www.youtube.com/watch?v=jBU7ZIrtPgU)
-* [Happy 2022! (SPFS #6) - YouTube](https://www.youtube.com/watch?v=4AsH2k1MRjs)
 * [Seriously Good Software](https://www.manning.com/books/seriously-good-software)
   * [**Seriously Good Software**](https://docs.google.com/presentation/d/e/2PACX-1vR8mEHa7gi5qhrdCwzOGnACdWxYb4kZERtscQIRZkYnH4rBNo7-ZZ4wXLD1DbUwJkwW83OhezYFjRmH/pub) 전반적인 설계 흐름을 볼 수 있는 슬라이드
   * [exercisesinstyle](https://bitbucket.org/mfaella/exercisesinstyle/)
@@ -1390,6 +1388,7 @@ Scala
   * [Scala application lifecycle, from pure Scala to FS2](https://blog.softwaremill.com/scala-application-lifecycle-from-pure-scala-to-fs2-5f2861005603)
   * [Basic streams and combinators in fs2 - Scala tutorial](https://www.youtube.com/watch?v=TmhIabcu6Fs)
   * [Finite-State Machines + FS2 streams: A match made in heaven • gvolpe's blog](https://gvolpe.com/blog/fsm-fs2-a-match-made-in-heaven/)
+  * [FS2: Typed Functional Streams in Scala - YouTube](https://www.youtube.com/watch?v=XCpGtaJjkVY)
   * [FS2 Kafka · Functional Kafka Streams for Scala](https://fd4s.github.io/fs2-kafka/)
     * [Run a fs2-kafka stream with scala-cli and Scala 3 | 47 Degrees](https://www.47deg.com/blog/run-fs2-kafka-scala-cli/)
   * [kebab-case: No leftovers: Working with pulls in fs2- overview](https://blog.kebab-ca.se/chapters/fs2/overview.html)
@@ -2428,3 +2427,6 @@ Scala
 * [Scala isn't Hard: How to Master Scala Step by Step - Developer’s kit](https://scalac.io/blog/scala-isnt-hard-how-to-master-scala-step-by-step/)
 * [Learn Scala with Online Courses | The Scala Programming Language](https://www.scala-lang.org/blog/2022/01/19/learn-scala-with-online-courses.html)
 * [2020 Hindsight - Scala | 2020 Hindsight - Scala](https://2020-hindsight-scala.kevinly.dev/)
+* [Finally some business logic! SPFS #5 - YouTube](https://www.youtube.com/watch?v=jBU7ZIrtPgU)
+* [Happy 2022! (SPFS #6) - YouTube](https://www.youtube.com/watch?v=4AsH2k1MRjs)
+* [So much done today! (SPFS #7) - YouTube](https://www.youtube.com/watch?v=hyk245P6C3Q)
