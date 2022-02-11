@@ -1059,6 +1059,7 @@ Javascript
   * [async 와 await 로 작성하는 읽기쉬운 비동기코드](https://developer88.tistory.com/381)
   * [JavaScript Callbacks, Promises, and Async / Await Explained - YouTube](https://www.youtube.com/watch?v=JRNToFh3hxU)
   * [JavaScript - Promise (then, catch) - YouTube](https://www.youtube.com/watch?v=Sn0ublt7CWM)
+  * [JavaScript Promise All | Race - 동시작업을 단순하게! - YouTube](https://www.youtube.com/watch?v=a5AzftkvW9U)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
