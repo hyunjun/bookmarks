@@ -1372,6 +1372,7 @@ Clojure
 * [Fast and Elegant Clojure](https://bsless.github.io/fast-and-elegant-clojure/)
 * [3 Facts about Clojure every beginner must know | by Sameeksha Bhatia | helpshift-engineering | Oct, 2021 | Medium](https://medium.com/helpshift-engineering/3-facts-about-clojure-every-beginner-must-know-8e7165ccbd39)
 * [Clojure beginner resources](https://gist.github.com/yogthos/be323be0361c589570a6da4ccc85f58f)
+* [클로져 소개 강의 (한국정보통신산업노동조합)](https://www.slideshare.net/SangKyuPark1/ss-18350615)
 * [clj-easy/about](https://github.com/clj-easy/about)
 
 # Vim
