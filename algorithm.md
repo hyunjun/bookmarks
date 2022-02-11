@@ -32,6 +32,7 @@ Algorithm
 * [Data Structures Full Course | Data Structures And Algorithms Full Course | Simplilearn - YouTube](https://www.youtube.com/watch?v=_x9zPaRfEY4)
 * [Top 5 Courses to learn Data Structures and Algorithms in Python in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/11/python-data-structure-algorithm-course.html)
 * [Top 5 Free Data Structure and Algorithm Courses for Java and C Programmers](https://javarevisited.blogspot.com/2018/01/top-5-free-data-structure-and-algorithm-courses-java--c-programmers.html)
+* [Data Structure - YouTube](https://www.youtube.com/playlist?list=PLLykrwdi1zxF0ezo6NCzrAW4nZ6zDl6k6)
 * [바킹독의 실전 알고리즘](https://www.youtube.com/playlist?list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY)
 * [N-Queens solved using backtracking in Elixir](https://github.com/tacticiankerala/N-Queens)
 * [6 Introduction to Backtracking - Brute Force Approach](https://www.youtube.com/watch?v=DKCbsiDBN6c)
@@ -663,6 +664,7 @@ Algorithm
 * [백준 공유기 설치 왜 이분탐색이 가능한가](https://codingdog.tistory.com/entry/%EB%B0%B1%EC%A4%80-%EA%B3%B5%EC%9C%A0%EA%B8%B0-%EC%84%A4%EC%B9%98-%EC%99%9C-%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89%EC%9D%B4-%EA%B0%80%EB%8A%A5%ED%95%9C%EA%B0%80)
 * [Searching & Sorting Algorithms Full Course 2022 | Data Structures Explained 2022 | Simplilearn - YouTube](https://www.youtube.com/watch?v=d7iGniWrRng)
 * [이진 탐색은 어디까지 빨라질 수 있을까?](https://bab2min.tistory.com/670) k-ary Search Tree
+* [Search Algorithm - YouTube](https://www.youtube.com/playlist?list=PLLykrwdi1zxHM5Z17IOnGmuG15sJ7sqYn)
 
 # Sort
 * [15 Sorting Algorithms in 6 Minutes](https://www.youtube.com/watch?v=kPRA0W1kECg)
@@ -686,6 +688,7 @@ Algorithm
 * [Beating TimSort at Merging - Earthly Blog](https://earthly.dev/blog/python-timsort-merge/)
 * [Selection Sort Algorithm Visually Explained](https://levelup.gitconnected.com/selection-sort-algorithm-visually-explained-5bdba8c2acb1)
 * [median of median : 피벗을 중앙의 중앙값을 선택한다](https://codingdog.tistory.com/entry/median-of-median-%ED%94%BC%EB%B2%97%EC%9D%84-%EC%A4%91%EC%95%99%EC%9D%98-%EC%A4%91%EC%95%99%EA%B0%92%EC%9D%84-%EC%84%A0%ED%83%9D%ED%95%9C%EB%8B%A4)
+* [Sorting Algorithm - YouTube](https://www.youtube.com/playlist?list=PLLykrwdi1zxFOkDhPnPeoPfRcXegcJ4bt)
 
 ## Sort Nibble
 * [Nibblesort: Adventures in Optimization](http://belkadan.com/blog/2015/05/Nibblesort/)
