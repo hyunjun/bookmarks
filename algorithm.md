@@ -420,6 +420,7 @@ Algorithm
 * [Powerful Dynamic Programming Explanation - LeetCode Discuss](https://leetcode.com/discuss/general-discussion/1081421/powerful-dynamic-programming-explanation)
 * [Top 5 Courses to Learn Dynamic Programming for Coding Interviews in 2022 - Best of Lot](https://javarevisited.blogspot.com/2019/12/top-5-courses-to-learn-dynamic-programming-for-interivews.html)
 * [Dynamic Programming Tutorial - Coin Change Problem Using Dynamic Programming | Scaler Academy - YouTube](https://www.youtube.com/watch?v=2fuHenlyHAc)
+* [Dynamic Programming Crash Course | Advanced Data Structures And Algorithms Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=xZKqH7ZcS_Y)
 
 # Game of Life
 * [games of life - A Mathematical solution of any Game of Life variation](https://github.com/fibo/games-of-life)
