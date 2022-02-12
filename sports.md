@@ -152,6 +152,7 @@ Sports
 * [피칭 동작의 역학적 변수 11가지 (톰하우스, 린제이 베라) | 코치라운드](http://coachround.com/the-11-mechanical-variables-of-the-pitching-delivery/)
 * [1. KBO 포스트시즌 진출 확률 계산 - 개요](https://junkstorage.tistory.com/27?category=885686)
 * [2. 피타고리안 기대 승률의 적용과 기대 승률 조정](https://junkstorage.tistory.com/29)
+* [3. 홈/원정 경기 승률 조정](https://junkstorage.tistory.com/30)
 
 # Basketball
 * [**Basketball Terms- Terminology**](https://www.coachesclipboard.net/BasketballTerminology.html) diagram으로 court위 명칭 설명
