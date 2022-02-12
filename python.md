@@ -2306,6 +2306,7 @@ Python
   * [Django 4.0 릴리스와 주요 변경 사항 | GeekNews](https://news.hada.io/topic?id=5659)
 * [Django를 Django답게, Django로 뉴스 사이트 만들기. 정경업 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=SbIQuDKmig0)
 * [6 Harmful Defaults in Django | Confuzeus](https://confuzeus.com/hub/django-web-framework/dangerous-defaults/)
+* [Improving Your Django and Python Developer Experience | Real Python Podcast #97 - YouTube](https://www.youtube.com/watch?v=MvOUaxV6LAw)
 * [django-allauth 소셜로그인 후의 redirect에 대해](https://leop0ld.github.io/django/2017/03/15/django-allauth-about-redirect.html)
   * [django에서 kakao 로그인 api 사용하기 +(allauth 사용) — ChoSM'Programming](https://applepick.tistory.com/27)
 * [Django Background Tasks](https://django-background-tasks.readthedocs.io/)
