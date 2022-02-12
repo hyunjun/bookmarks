@@ -824,6 +824,20 @@ Business
 * [Average Manager vs. Great Manager | by Julie Zhuo | The Year of the Looking Glass | Medium](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d) 간단한 만화로 상황에 따른 더 나은 manager의 모습을 보여줌
 * [대지진에도 멀쩡했던 후쿠시마 제 2 원전... 비결은 원전 소장의 리더십에 있었다│인터비즈 : 네이버 블로그](https://m.blog.naver.com/businessinsight/221397693111) 정보공유, 신뢰
 * [리더십 경멸받는 리더의 5가지 특징](http://moneyman.kr/archives/1308)
+* [**What Makes an Effective Executive**](https://hbr.org/2004/06/what-makes-an-effective-executive)
+  * [번역 What Makes an Effective Executive](https://www.linkedin.com/posts/jayden-kang_what-makes-an-effective-executive-activity-6898080373327179776-wkm8)
+  * [번역 What Makes an Effective Executive](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-what_makes_an_effective_executive-md)
+  * 리더의 마음가짐
+    * ‘지금 무엇을 해야 하는가?’를 질문한다
+    * ‘이것이 조직에 옳은 일인가?’를 되묻는다
+  * 실행력
+    * 구체적인 실행 계획을 세운다
+    * 결정에 따른 책임을 진다
+    * 의사소통에 대한 책임을 진다
+    * ‘문제’보다는 ‘기회’에 집중한다
+  * 조직 차원의 책임감
+    * 생산적인 회의를 한다
+    * ‘나’라고 생각하고 말하기 보다 ‘우리’라고 생각하고 말한다
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
