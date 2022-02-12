@@ -996,7 +996,6 @@ Javascript
 * [JavaScript: What the heck is a Callback?](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
 * [How to deal with nested callbacks and avoid “callback hell”](https://medium.freecodecamp.org/how-to-deal-with-nested-callbacks-and-avoid-callback-hell-1bc8dc4a2012)
 * [Don't use functions as callbacks unless they're designed for it - JakeArchibald.com](https://jakearchibald.com/2021/function-callback-risks/)
-* [JavaScript - callback - YouTube](https://www.youtube.com/watch?v=TAyLeIj1hMc)
 * [Understanding Asynchronous JavaScript — the Event Loop](https://blog.bitsrc.io/understanding-asynchronous-javascript-the-event-loop-74cd408419ff)
 * [How to improve your asynchronous Javascript code with async and await](https://medium.freecodecamp.org/improve-your-asynchronous-javascript-code-with-async-and-await-c02fc3813eda)
 * [How To Master Async/Await With This Real World Example](https://medium.freecodecamp.org/how-to-master-async-await-with-this-real-world-example-19107e7558ad)
@@ -1029,7 +1028,6 @@ Javascript
 * [JavaScript의 동시성 · Present](https://present.do/decks/60d453134a7eec094753cf78)
 * [How to Use Async/Await to Write Better JavaScript Code](https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/)
 * [자바스크립트의 비동기 프로그래밍 - 정윤호 · Present](https://present.do/presentations/6145f2ace3562505806fb6ef)
-* [JavaScript - async & await - YouTube](https://www.youtube.com/watch?v=1z5bU-CTVsQ)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * fetch
   * [Ajax, fetch](https://velog.io/@ksh4820/Ajax-fetch)
@@ -1058,8 +1056,7 @@ Javascript
   * [Javascript의 Promise를 알아보자 #ES6](https://developer88.tistory.com/373)
   * [async 와 await 로 작성하는 읽기쉬운 비동기코드](https://developer88.tistory.com/381)
   * [JavaScript Callbacks, Promises, and Async / Await Explained - YouTube](https://www.youtube.com/watch?v=JRNToFh3hxU)
-  * [JavaScript - Promise (then, catch) - YouTube](https://www.youtube.com/watch?v=Sn0ublt7CWM)
-  * [JavaScript Promise All | Race - 동시작업을 단순하게! - YouTube](https://www.youtube.com/watch?v=a5AzftkvW9U)
+  * [JavaScript Promise (callback & async) - YouTube](https://www.youtube.com/playlist?app=desktop&list=PLuHgQVnccGMBVQ4ZcIRmcOeu8uktUAbxI)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/BrewhouseTeam/yolk)
 * [Yolk - A library for building asynchronous user interfaces](https://github.com/yolkjs/yolk)
 
@@ -3935,6 +3932,8 @@ Javascript
 * [Angular: Unit Testing Jasmine, Karma (step by step)](https://medium.com/frontend-fun/angular-unit-testing-jasmine-karma-step-by-step-e3376d110ab4)
 * [3. 코드숨 리액트 - 3주차](https://jojoldu.tistory.com/625)
 * [LIVE 시각적요소 테스트 자동화하기 :: 1월 우아한테크세미나 - YouTube](https://www.youtube.com/watch?v=9AUEfGZslmw)
+* [Stub 을 이용한 Service 계층 단위 테스트 하기](https://jojoldu.tistory.com/637)
+  * [nodejs-unit-test: NodeJS Unit Test](https://github.com/jojoldu/nodejs-unit-test)
 * [cypress - The web has evolved. Finally, testing has too](https://www.cypress.io/)
   * [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
 * [folio: A customizable test framework to build your own test frameworks](https://github.com/microsoft/folio) typescript
