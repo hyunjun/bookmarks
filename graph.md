@@ -167,6 +167,7 @@ Graph
   * [그래프 데이터베이스 Neo4j 첫만남](https://blog.naver.com/pjt3591oo/221994415065)
   * [Efficient Neo4j Data Import Using Cypher-Scripts | by Andrea Santurbano | Neo4j Developer Blog | Medium](https://medium.com/neo4j/efficient-neo4j-data-import-using-cypher-scripts-7d1268b0747)
   * [데이터 분석 결과를 효과적으로 제공하기 위한 그래프 데이터베이스 구축](https://d2.naver.com/helloworld/8446520)
+  * [Create a New Project with the Neo4j GraphQL Library - YouTube](https://www.youtube.com/watch?v=wZyAnz0fFfk)
 * [OrientDB](http://orientdb.com/)
   * [getting started](http://orientdb.com/getting-started/)
     * [udemy/orientdb-getting-started](https://www.udemy.com/orientdb-getting-started/)
