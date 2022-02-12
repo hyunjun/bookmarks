@@ -208,6 +208,10 @@ Lisp
 * [lips: Scheme based powerful lisp interpreter written in JavaScript](https://github.com/jcubic/lips)
 * [Schemy - a lightweight Scheme-like scripting language interpreter for embedded use in .NET applications](https://github.com/Microsoft/schemy)
 
+# tinylisp
+* [tinylisp at master · dloscutoff/Esolangs](https://github.com/dloscutoff/Esolangs/tree/master/tinylisp)
+* [Language of the Month for February 2022: tinylisp - Code Golf Meta Stack Exchange](https://codegolf.meta.stackexchange.com/questions/24402/language-of-the-month-for-february-2022-tinylisp)
+
 # tisp
 * [tisp](https://github.com/faraazahmad/tisp)
 * [I was bored, so I built a programming language - DEV Community](https://dev.to/faraazahmad/i-was-bored-so-i-built-my-own-programming-language-30f1)
