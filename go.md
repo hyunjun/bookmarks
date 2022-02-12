@@ -819,6 +819,7 @@ Go
 * [Tucker Programming - YouTube](https://www.youtube.com/c/TuckerProgramming/videos)
 * [Golang Tutorial for Beginners | Full Go Course - YouTube](https://www.youtube.com/watch?v=yyUHQIec83I)
 * [Why learn Golang Programming Language in 2022? | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/what-is-go-or-golang-programming-language-why-learn-go-in-2020-1cbf0afc71db)
+* [Go language for Beginners - YouTube](https://www.youtube.com/playlist?list=PLxhFuGxg9JY_XpGUSGVPcDsC0GaqqL4JC)
 
 # Web
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
