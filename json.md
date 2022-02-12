@@ -144,6 +144,7 @@ Json
   * [JAVA Jackson을 쓰며 겪었던 문제](https://velog.io/@juunini/JAVA-Jackson%EC%9D%84-%EC%93%B0%EB%A9%B0-%EA%B2%AA%EC%97%88%EB%8D%98-%EB%AC%B8%EC%A0%9C)
   * [Jackson : JSON Selective serialize/deserialize object properties | by Sai Pitchuka | Medium](https://saibaburvr.medium.com/jackson-json-selective-serialize-deserialize-object-properties-6d86c25a2d68)
   * [Jackson의 확장 구조를 파헤쳐 보자](https://d2.naver.com/helloworld/0473330)
+  * [How to Parse JSON in Java Object using Jackson - Example Tutorial | Java67](https://www.java67.com/2015/02/how-to-parse-json-tofrom-java-object.html)
 * [JMESPath - a query language for JSON](http://jmespath.org/)
 * [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo ](https://github.com/jpmens/jo)
 * [**jq - a lightweight and flexible command-line JSON processor**](http://stedolan.github.io/jq/)
