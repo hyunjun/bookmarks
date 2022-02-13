@@ -104,6 +104,7 @@ iOS
 * [iOS : Navigation Push & Pop | Medium](https://showcove.medium.com/ios-navigation-vs-modal-1-74c05e6e824f) Modal
 * [LINE 메신저 앱의 공유 모듈 통합 개발기 - 1 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-app-share-module-development-story-1/)
 * [LINE 메신저 앱의 공유 모듈 통합 개발기 - 2 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-app-share-module-development-story-2/)
+* [iOS앱 심사상태를 쉽게 공유받을 수 있도록 appstore-status-bot 환경 설정하기 | Fernando 기술 블로그](https://fernando.kr/develop/2022-02-13-appstore-status-bot-usage/)
 
 # Library
 * [20 iOS Tab Bar Open Source UI Animation Libraries Swift & Objective C](https://uxplanet.org/20-ios-tab-bar-open-source-ui-animation-components-libraries-swift-objective-c-43c0039dff0d)
