@@ -185,6 +185,7 @@ Python
 * [Facebook - Python in production engineering](https://code.facebook.com/posts/1040181199381023/python-in-production-engineering/)
 * [(E, K)Generating Python Module Dependency Graphs(종속성 그래프 생성하기)](http://stackrefactoring.blogspot.com/2016/06/e-kgenerating-python-module-dependency.html)
 * [파이썬 프로젝트의 구조](https://www.holaxprogramming.com/2017/06/28/python-project-structures/)
+* [How to Structure Programming Projects for Beginners | Python Long-term Project Structuring - YouTube](https://www.youtube.com/watch?v=3gf60ncxe28)
 * [Organizing your Python Code. In spite of yourself | by Keno Leon | Medium](https://k3no.medium.com/organizing-your-python-code-ca5445843368)
 * [메모리 소비 크기 구하기](http://mcchae.egloos.com/11174965)
 * [메모리 사용 및 persistent dict, list](http://mcchae.egloos.com/11221188)
