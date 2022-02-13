@@ -162,9 +162,9 @@ Bitcoin
 * [블록체인 - YouTube](https://www.youtube.com/playlist?list=PLOml5j0-AMQlK3XgFiGHBFMnQdT8MlUai)
 * [6 Best Places to Learn Blockchain for Beginners](https://morioh.com/p/8ada1de202f8)
 
-# Etherium
+# Ethereum
 * [What is Ethereum?](http://etherscripter.com/what_is_ethereum.html)
-* [Etherium Network Status](https://stats.ethdev.com/)
+* [Ethereum Network Status](https://stats.ethdev.com/)
 * [ETHEREUM CLOUD MINING FOR DUMMIES](https://github.com/angelomilan/ethereum-guides/blob/master/GPU-cloud_mining.md)
 * [Ethereum Pyramid Contract](https://www.ethereumpyramid.com/)
 * [Just Enough Bitcoin for Ethereum](https://medium.com/@ConsenSys/time-sure-does-fly-ed4518792679)
@@ -183,6 +183,7 @@ Bitcoin
 * [ethereum solidity withdrawals pattern(출금패턴)](https://blog.naver.com/pjt3591oo/222594079769)
 * [Day 12 – A long journey to Ethereum signatures – Raku Advent Calendar](https://raku-advent.blog/2021/12/12/a-long-journey-to-ethereum-signatures/)
 * [The great renaming: what happened to Eth2? | Ethereum Foundation Blog](https://blog.ethereum.org/2022/01/24/the-great-eth2-renaming/)
+* [Apple M1 Mac Mini에서 이터리움 (Ethereum) 채굴하기](https://androidkr.blogspot.com/2022/02/apple-m1-mac-mini-ethereum.html)
 * [fe: Emerging smart contract language for the Ethereum blockchain](https://github.com/ethereum/fe)
 * [PublicVotes - A publicly verifiable Voting System, powered by Smart Contracts](http://publicvotes.org/)
 * [truffle을 이용하여 스마트 컨트랙트 개발하기](https://blog.naver.com/pjt3591oo/222580257471)
