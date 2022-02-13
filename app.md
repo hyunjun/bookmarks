@@ -450,7 +450,9 @@ App
 * Requestly [Udemy강좌 Full HD로 보기](https://www.javastudy.net/2019/04/22/udemy%EA%B0%95%EC%A2%8C-full-hd%EB%A1%9C-%EB%B3%B4%EA%B8%B0/)
 * [screenity: The most powerful screen recorder & annotation tool for Chrome 🎥](https://github.com/alyssaxuu/screenity)
 * Snippyly [“공유를 넘어 협업으로” 크롬에서 스크린샷을 공유하는 가장 똑똑한 방법 - ITWorld Korea](https://www.itworld.co.kr/news/189733)
-* switch connect [어서 오세요! 아틀라스랩스입니다](https://www.atlaslabs.ai/)
+* switch connect
+  * [어서 오세요! 아틀라스랩스입니다](https://www.atlaslabs.ai/)
+  * [인공지능이 회의록 작성까지 알아서 척척.. 아틀라스랩스, '스위치미팅’ 베타 출시 < 기업 < FOCUS < 기사본문 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=24217)
 * [TabFS](https://omar.website/tabfs/) browser extension that mounts your browser tabs as a filesystem on your computer
 * ungoogled-chromium [Google Chromium, sans integration with Google | ungoogled-chromium](https://ungoogled-software.github.io/)
 
