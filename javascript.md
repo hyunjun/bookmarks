@@ -3092,6 +3092,7 @@ Javascript
 * [How I architected a single-page React application](https://medium.freecodecamp.org/how-i-architected-a-single-page-react-application-3ebd90f59087)
 * [How to create email chips in pure React](https://medium.freecodecamp.org/how-to-create-email-chips-in-pure-react-ad1cc3ecea16)
 * [How to build a React development playground using Storybook](https://medium.freecodecamp.org/how-to-build-a-react-development-playground-using-storybook-667ef9808e9f)
+* [디자인 시스템 구축 / 컴포넌트 배포 - storybook github page 배포 그리고 npm 배포까지](https://blog.naver.com/pjt3591oo/222645854671)
 * [How to Build Faster with Reusable UI Components in React](https://codeburst.io/how-to-build-faster-with-reusable-ui-components-in-react-482397dec818)
 * [How to create a Timeline Component with React](https://medium.freecodecamp.org/how-to-create-a-timeline-component-with-react-1b216f23d3d4)
 * [How to identify and resolve wasted renders in React](https://medium.freecodecamp.org/how-to-identify-and-resolve-wasted-renders-in-react-cc4b1e910d10)
