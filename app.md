@@ -357,7 +357,9 @@ App
 * [Medium CLI - Medium from your command line!](https://github.com/lambtron/medium-cli)
 * [**medium-unlimited: A browser extension to read medium.com articles for free without membership**](https://github.com/manojVivek/medium-unlimited)
 * [Mickey - A minimal one-column theme for Jekyll](https://github.com/vincentchan/Mickey)
-* moniwiki [Ubuntu 20.04 LTS 에 모니위키(moniwiki) 설치하기 ](http://parkpd.egloos.com/4205558)
+* moniwiki
+  * [Ubuntu 20.04 LTS 에 모니위키(moniwiki) 설치하기 ](http://parkpd.egloos.com/4205558)
+  * [Ubuntu 20.04 LTS 에 Docker 로 모니위키(moniwiki) 설치하기](http://parkpd.egloos.com/4205573)
 * [squall.io](http://squall.io/)
 * [pages.github.com](https://pages.github.com/)
 * [Paper Now - Create, edit and (optionally) display a journal article, entirely in GitHub](https://github.com/PeerJ/paper-now)
@@ -448,6 +450,7 @@ App
 * Requestly [Udemy강좌 Full HD로 보기](https://www.javastudy.net/2019/04/22/udemy%EA%B0%95%EC%A2%8C-full-hd%EB%A1%9C-%EB%B3%B4%EA%B8%B0/)
 * [screenity: The most powerful screen recorder & annotation tool for Chrome 🎥](https://github.com/alyssaxuu/screenity)
 * Snippyly [“공유를 넘어 협업으로” 크롬에서 스크린샷을 공유하는 가장 똑똑한 방법 - ITWorld Korea](https://www.itworld.co.kr/news/189733)
+* switch connect [어서 오세요! 아틀라스랩스입니다](https://www.atlaslabs.ai/)
 * [TabFS](https://omar.website/tabfs/) browser extension that mounts your browser tabs as a filesystem on your computer
 * ungoogled-chromium [Google Chromium, sans integration with Google | ungoogled-chromium](https://ungoogled-software.github.io/)
 
