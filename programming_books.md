@@ -1554,6 +1554,7 @@ Programming Books
   * ★★★★★ 2021.12.30
   * [개발자로 살아남기. 정리를 잘해서 prolog만 읽어도 이 책의 주제를 바로 이해할 수… | by Jun | Jan, 2022 | Medium](https://nymets.medium.com/%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%82%B4%EC%95%84%EB%82%A8%EA%B8%B0-2db79678ec6e)
   * [10년 경력을 설계하는 방법 – 1/3/3/3 원칙 :: Channy's Blog](http://channy.creation.net/blog/1517)
+  * [블리자드 레전드 개발자의 30년 압축 핵심 노하우 - YouTube](https://www.youtube.com/watch?v=u1ByKUip9q0)
 * [성취예측모형](https://www.facebook.com/dongseok.tschoe/posts/10215559373897226)
   * ★★★★★ 2022.01.08
   * [성취 예측 모형 (최동석 지음/클라우드나인 펴냄/초판1쇄 2021.12.20./23,000원/472쪽) - YouTube](https://www.youtube.com/watch?v=oQMp5xQ1dn4)
