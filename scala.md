@@ -1221,6 +1221,7 @@ Scala
 * [**TOP 10 SCALA LIBRARIES FOR DATA SCIENCE**](https://analyticsindiamag.com/top-10-scala-libraries-for-data-science/)
 * [Scala tooling in 2019](https://geirsson.com/2019.html)
 * [Figuring out Scala functional programming libraries | by Krzysztof Atłasik | Mar, 2021 | SoftwareMill Tech Blog](https://blog.softwaremill.com/figuring-out-scala-functional-programming-libraries-af8230efccb4)
+* [7 Best Scala Frameworks & Libraries for Concurrency, Web Development, and Big Data to Learn in 2022 | by javinpaul | Javarevisited | Feb, 2022 | Medium](https://medium.com/javarevisited/7-best-scala-frameworks-for-concurrency-web-development-and-big-data-to-learn-fbd52dbe0a9a)
 * [airframe - Lightweight Building Blocks for Scala](https://github.com/wvlet/airframe)
   * [Airframe - a collection of lightweight libraries useful for building full-fledged applications in Scala](https://wvlet.org/airframe/)
   * [Revisit Dependency Injection in Scala](https://medium.com/@takezoe/revisit-dependency-injection-in-scala-78276c691bba)
