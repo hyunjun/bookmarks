@@ -347,6 +347,7 @@ NLP
 * [essay-grading-hackathon: 🥇1st solution 에세이 글 데이터 인공지능 학습용 데이터 해커톤](https://github.com/quarter-100/essay-grading-hackathon)
 * [자연어처리와 HR analytics](https://blog.ncsoft.com/data-analytics-20211028/)
 * [2021년 기계 학습과 자연어 처리 연구 하이라이트](https://velog.io/@aldente0630/2021%EB%85%84-%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5%EA%B3%BC-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC-%EC%97%B0%EA%B5%AC-%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8)
+* [Using Kubeflow to solve natural language processing problems](https://analyticsindiamag.com/using-kubeflow-to-solve-natural-language-processing-nlp-problems/)
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
@@ -1149,6 +1150,7 @@ NLP
 * [LASER - Zero-shot transfer across 93 languages: Open-sourcing enhanced LASER library](https://code.fb.com/ai-research/laser-multilingual-sentence-embeddings/)
 * [lit: The Language Interpretability Tool: Interactively analyze NLP models for model understanding in an extensible and framework agnostic interface](https://github.com/pair-code/lit/)
 * live caption [구글 크롬, Live Caption 기능 공개 | GeekNews](https://news.hada.io/topic?id=3919)
+* [madlibs: Generates random strings with random verbs, nouns, and adjectives](https://github.com/KasperKen/madlibs)
 * Mecab
   * [Taku Kudo - Mecab developer](http://chasen.org/~taku/index.html.en)
   * [mecab-ko 윈도우에서 빌드하기](http://legendfinger.tistory.com/625)
