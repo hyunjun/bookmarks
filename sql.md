@@ -367,6 +367,7 @@ SQL
 * [신입 개발자, DB를 최적화 하다! 1편. 소개 | by Jason Kang | Uniquegood | Sep, 2021 | Medium](https://medium.com/uniquegood/%EC%BD%94%EC%96%B4-%EC%84%9C%EB%B2%84%EC%97%90-%EC%83%9D%EA%B8%B0%EB%8A%94-%EB%AC%B8%EC%A0%9C%EC%A0%90%EC%9D%84-%ED%95%B4%EA%B2%B0%ED%95%98%EC%9E%90-1%ED%8E%B8-55b899e0fbdd)
 * [신입 개발자, DB를 최적화 하다! 2편. 소개 | by Jason Kang | Uniquegood | Sep, 2021 | Medium](https://medium.com/uniquegood/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90-db%EB%A5%BC-%EC%B5%9C%EC%A0%81%ED%99%94-%ED%95%98%EB%8B%A4-2%ED%8E%B8-c9f71951c90)
 * [Intro to SQL - YouTube](https://www.youtube.com/watch?v=vbPw0tmQmws)
+* [Improving Database Development, CI/CD with Storage Snapshot | by Kittikun Chartmala | Agoda Engineering & Design | Feb, 2022 | Medium](https://medium.com/agoda-engineering/improving-database-development-ci-cd-with-storage-snapshot-799765fd3fa9)
 
 # MySQL
 * practice
