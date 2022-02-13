@@ -1475,6 +1475,7 @@ Programming
 * [Why our team cancelled our move to microservices | by Steven Lemon | Medium](https://steven-lemon182.medium.com/why-our-team-cancelled-our-move-to-microservices-8fd87898d952)
 * [Top 10 Microservices Design Patterns and Principles - Examples](https://javarevisited.blogspot.com/2021/09/microservices-design-patterns-principles.html)
 * [Emerging Architectures for Modern Data Infrastructure | Future](https://future.a16z.com/emerging-architectures-modern-data-infrastructure/)
+* [Talk&Talk 누구나 쉽게 이해할수 있는 마이크로서비스 아키텍처(MSA) #1편 - YouTube](https://www.youtube.com/watch?v=8d4h7K_Fq-0)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
