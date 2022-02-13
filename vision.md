@@ -640,6 +640,7 @@ Vision
 * [Face Detection in 2 Minutes with Python and OpenCv](https://morioh.com/p/503c0fcf7e55)
 * [Make an AI Tracker in 23 Lines of Code in Python | codeburst](https://codeburst.io/make-an-ai-tracker-7dc1c5afccc5)
 * [Building a Face Recognizer in Python | by Behic Guven | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/building-a-face-recognizer-in-python-7fd6630c6340)
+* [Face Detection with 10 lines of Code Tutorial | Python | OpenCV | CVZONE - YouTube](https://www.youtube.com/watch?v=OkxhhUe_miU)
 * [OpenCV & Python. Getting started with Computer Vision… | by Keno Leon | Medium](https://medium.com/@k3no/opencv-python-8ea1d2fd46b9)
 * [Image Processing Best Practices in C++ for coding interviews. Write functions similar to ones in OpenCV with full explanation. | Medium](https://soubhihadri.medium.com/image-processing-best-practices-c-280caadacb82)
 * [Image Processing Best Practices — C++ Part 2 | by Soubhi Hadri | Nov, 2020 | Medium](https://soubhihadri.medium.com/image-processing-best-practices-c-part-2-c0988b2d3e0c)
