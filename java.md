@@ -649,6 +649,7 @@ Java
 * [CompletableFuture 비동기 처리로 성능 개선하기](http://blog.woniper.net/361)
 * [MSA에서 동시에 여러 API 호출로 응답 시간 줄이기](https://www.popit.kr/msa%EC%97%90%EC%84%9C-%EB%8F%99%EC%8B%9C%EC%97%90-%EC%97%AC%EB%9F%AC-api-%ED%98%B8%EC%B6%9C%EB%A1%9C-%EC%9D%91%EB%8B%B5-%EC%8B%9C%EA%B0%84-%EC%A4%84%EC%9D%B4%EA%B8%B0) CompletableFuture
 * [Combining multiple API calls with CompletableFuture | by The Bored Dev | The Startup | Jun, 2020 | Medium](https://medium.com/swlh/combining-multiple-api-calls-with-completablefuture-1d9d27e03bec)
+* [CompletableFuture in Java with Example - Tutorial | Java67](https://www.java67.com/2022/02/completablefuture-in-java-with-example.html)
 * [뒤늦게 배워보자, Java 8 Part. 1](https://www.sangkon.com/java8_study_part1/)
 * [뒤늦게 배워보자, Java 8 Part. 2](https://www.sangkon.com/java8_study_part2/)
 * [뒤늦게 배워보자, Java 8 Part. 3](https://www.sangkon.com/java8_study_part3/)
