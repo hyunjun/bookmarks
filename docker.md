@@ -1406,6 +1406,7 @@ Docker
   * [Announcing Maesh, a Lightweight and Simpler Service Mesh Made by the Traefik Team](https://blog.containo.us/announcing-maesh-a-lightweight-and-simpler-service-mesh-made-by-the-traefik-team-cb866edc6f29)
 * [MicroK8s - Zero-ops Kubernetes for developers, edge and IoT](https://microk8s.io/)
   * [What’s new in MicroK8s v1.23?. Committed to our mission we released… | by K. Tsakalozos | Dec, 2021 | ITNEXT](https://itnext.io/whats-new-in-microk8s-v1-23-9516c452fdaf)
+  * [Deploy Microk8s and the Kubernetes Dashboard for K8s Development – The New Stack](https://thenewstack.io/deploy-microk8s-and-the-kubernetes-dashboard-for-k8s-development/)
 * Minikube
   * [Using Kubernetes for Local Development — Minikube](https://medium.com/devopslinks/using-kubernetes-minikube-for-local-development-c37c6e56e3db)
   * [Getting started with Minikube: Kubernetes on your laptop](https://opensource.com/article/18/10/getting-started-minikube)
