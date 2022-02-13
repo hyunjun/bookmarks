@@ -169,6 +169,7 @@ Product
 * [GMMK Pro로 커스텀 기계식 키보드에 입문하다 – 1. 기초공부 & 부품 선택 – Xenosium](https://xenosium.com/entry/8899/)
 * [GMMK Pro로 커스텀 기계식 키보드에 입문하다 – 2. 조립 & 튜닝 – Xenosium](https://xenosium.com/entry/8994/)
 * [Why Are Topre Keyboards So Expensive? - Switch and Click](https://switchandclick.com/why-are-topre-keyboards-so-expensive/)
+* [오직 예쁜 걸로만 유명해진 키보드가 있다? 무선 기계식 키보드 NuPhy AIR75를 써봤습니다. - YouTube](https://www.youtube.com/watch?v=pEyLxr909-8)
 
 # Lamp
 * [전선 없이 빛을 내는 크리스마스 트리 전구](http://www.earlyadopter.co.kr/9430)
