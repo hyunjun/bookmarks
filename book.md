@@ -142,6 +142,8 @@ Book
   * ★★☆☆☆ 2022.01.23 에드가 앨런 포를 이해하기엔 나의 예술적 소양이 부족함
 * [우주: 우주와 예술을 창조하는 원동력](https://esoope.wordpress.com/2018/07/16/%EC%9A%B0%EC%A3%BC-%EC%9A%B0%EC%A3%BC%EC%99%80-%EC%98%88%EC%88%A0%EC%9D%84-%EC%B0%BD%EC%A1%B0%ED%95%98%EB%8A%94-%EC%9B%90%EB%8F%99%EB%A0%A5/)
   * ★★★☆☆ 2022.01.23
+* [안녕, 나의 노무현](https://blog.naver.com/books777/221527903529)
+  * 2022.02.13
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
 * (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
