@@ -69,6 +69,9 @@ Regular Expression
 * [정규 표현식](http://jiniya.net/ng/2017/11/regex/)
 * [REGEX - How to match and search any pattern or validate input? (Regular expressions 30-min course) - YouTube](https://www.youtube.com/watch?v=dxJHQYtck0k)
 
+# C#
+* [C# 으로 하는 정규표현식 (.NET Conf 2022 x Seoul Replay) - YouTube](https://www.youtube.com/watch?v=2qT2sVpdTEA)
+
 # Go
 * [Regex Tester - Golang](https://regex-golang.appspot.com/)
 
