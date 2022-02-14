@@ -153,7 +153,6 @@ Go
 * [How I have rewritten my cryptocurrency from PHP to Go in 8 months. Part 1](http://blog.dcoin.club/2016/03/11/go-part1/)
 * [software.intel.com - Golang](https://software.intel.com/en-us/tags/42877)
 * [Go언어로 오픈소스 배송조회 서비스 만들기](http://subicura.com/2016/06/13/start-go-shipment-tracking-opensource.html)
-* [Go Sort Faster](http://sagivo.com/post/110274207073/faster-sorting-using-go)
 * [blog.altoros.com/author/siarhei-matsiukevich](http://blog.altoros.com/author/siarhei-matsiukevich)
   * [golangkorea.github.io/series/golang--internals](https://golangkorea.github.io/series/golang--internals/)
 * [Go에서 애플리케이션 설계하기](https://mingrammer.com/translation-structuring-applications-in-go)
@@ -193,7 +192,6 @@ Go
 * [Golang + GraphQL을 사용한 Todo](https://hazle.info/golang-graphql%EC%9D%84-%EC%82%AC%EC%9A%A9%ED%95%9C-todo/)
 * [Rewriting an API Gateway Service from Clojure to Golang: AppsFlyer Experience Report](https://www.infoq.com/articles/api-gateway-clojure-golang)
 * [A guide to Golang e-commerce Get your e-commerce site up and running with this Go-powered CMS tutorial](https://medium.freecodecamp.org/a-guide-to-golang-e-commerce-8c0804088e4e)
-* [Parallel Merge Sort in Go](https://hackernoon.com/parallel-merge-sort-in-go-fe14c1bc006)
 * [Good Code vs Bad Code in Golang](https://medium.com/@teivah/good-code-vs-bad-code-in-golang-84cb3c5da49d)
 * [GoLand에서 delve로 원격 디버깅하기](https://blog.outsider.ne.kr/1433)
 * [GoLand를 사용한 테스트 기반 개발 (TDD)](https://blog.jetbrains.com/kr/2020/03/goland-tdd-ko/)
@@ -382,6 +380,8 @@ Go
   * [Regex Tester - Golang](https://regex-golang.appspot.com/assets/html/index.html)
   * [Go by Example: Regular Expressions](https://gobyexample.com/regular-expressions)
   * [가장 빨리 만나는 Go 언어 Unit 48. 정규표현식 사용하기](http://pyrasis.com/book/GoForTheReallyImpatient/Unit48)
+* sort
+  * [Reverse sort a slice in Go (Golang)](https://gosamples.dev/sort-slice-reverse/)
 * strings
   * [golang - Go 언어의 strings.Builder을 이용한 문자열 연결 최적화 및 벤치마킹 - jacking75](https://jacking75.github.io/go_strings_Builder/)
   * [Demystifying Bytes, Runes, and Strings in Go | by Jerry An | Level Up Coding](https://levelup.gitconnected.com/demystifying-bytes-runes-and-strings-in-go-1f94df215615)
