@@ -339,8 +339,9 @@ Statistics
 * [통계교육원](https://sti.kostat.go.kr/coresti/site/main.do)
 * [pubdata.tistory.com/category/Lecture_Statistics](http://pubdata.tistory.com/category/Data/Statistics)
 * [Engineering Statistics](http://www.itl.nist.gov/div898/handbook/index.htm)
-* [CS109: Probability for Computer Scientists](http://web.stanford.edu/class/cs109) 강의노트, 슬라이드, 데모 제공
 * [Introduction to Missing data framework for applied statistical model - YouTube](https://www.youtube.com/watch?v=z4qOY4i2LQY)
+* [CS109: Probability for Computer Scientists](http://web.stanford.edu/class/cs109) 강의노트, 슬라이드, 데모 제공
+* [stat_rethinking_2022: Statistical Rethinking course winter 2022](https://github.com/rmcelreath/stat_rethinking_2022)
 
 # Haskell
 * [A gentle introduction to statistical relational learning: maths, code, and examples](http://phdp.github.io/posts/2015-07-13-srl-code.html)
