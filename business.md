@@ -839,6 +839,7 @@ Business
   * 조직 차원의 책임감
     * 생산적인 회의를 한다
     * ‘나’라고 생각하고 말하기 보다 ‘우리’라고 생각하고 말한다
+* [대지진에도 멀쩡했던 후쿠시마 제 2 원전..... : 네이버블로그](https://blog.naver.com/businessinsight/221397693111) sensemaking
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
