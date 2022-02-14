@@ -681,6 +681,7 @@ Machine Learning
 * [머신러닝 모델로 동네생활 신고 업무 자동화하기. 2021년에 동네생활 글을 필터링(신고)하는 새로운 모델을 개발하고… | by Jaeyoon Chun(Aio) | 당근마켓 팀블로그 | Jan, 2022 | Medium](https://medium.com/daangn/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EB%AA%A8%EB%8D%B8%EB%A1%9C-%EB%8F%99%EB%84%A4%EC%83%9D%ED%99%9C-%EC%8B%A0%EA%B3%A0-%EC%97%85%EB%AC%B4-%EC%9E%90%EB%8F%99%ED%99%94%ED%95%98%EA%B8%B0-3b96608960)
 * [Why 90 percent of all machine learning models never make it into production | by Ari Joury | Towards Data Science](https://towardsdatascience.com/why-90-percent-of-all-machine-learning-models-never-make-it-into-production-ce7e250d5a4a)
 * [이진 분류를 위한 머신러닝 예측 성능 비교 - 로지스틱 회귀, 랜덤포레스트, 부스팅, 신경망](https://songseungwon.tistory.com/m/entry/%EC%9D%B4%EC%A7%84-%EB%B6%84%EB%A5%98%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%98%88%EC%B8%A1-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1-%ED%9A%8C%EA%B7%80-%EB%9E%9C%EB%8D%A4%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8-%EB%B6%80%EC%8A%A4%ED%8C%85-%EC%8B%A0%EA%B2%BD%EB%A7%9D)
+* [구글 리서치(제프 딘)의 미래 ML 테마들 | GeekNews](https://news.hada.io/topic?id=5834)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
