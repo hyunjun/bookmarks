@@ -398,6 +398,8 @@ Data Visualization
 * [sweetviz: Visualize and compare datasets, target values and associations, with one line of code](https://github.com/fbdesignpro/sweetviz)
   * [Powerful EDA (Exploratory Data Analysis) in just two lines of code using Sweetviz](https://towardsdatascience.com/powerful-eda-exploratory-data-analysis-in-just-two-lines-of-code-using-sweetviz-6c943d32f34)
   * [EDA sweetviz로 쉽게 시각화 구현하기 : 네이버블로그](https://blog.naver.com/pjt3591oo/222064675329)
+* [visidata: A terminal spreadsheet multitool for discovering and arranging data](https://github.com/saulpw/visidata)
+  * [Open-source data multitool | VisiData](https://www.visidata.org/)
 * [VisPy - a Python library for interactive scientific visualization that is designed to be fast, scalable, and easy to use](http://vispy.org/)
 * [VizSeq - A visual analysis toolkit for text generation tasks](https://facebookresearch.github.io/vizseq/)
 * [Yellowbrick: Machine Learning Visualization](http://www.scikit-yb.org)
