@@ -272,6 +272,7 @@ Data Science
 * [다양한 사람들의 데이터 사이언스 이야기 후기](https://zzsza.github.io/etc/2018/04/21/little-big-data/)
 * [10 Modern Data Trends](https://www.youtube.com/watch?v=PPrvwiSKUmc)
 * [Test-Driven Data Analysis - Nick Radcliffe](https://www.youtube.com/watch?v=fw6P6VFPo24)
+* [Ways I Use Testing as a Data Scientist | Peter Baumgartner](https://www.peterbaumgartner.com/blog/testing-for-data-science/)
 * [Data Science for Startups: R -> Python](https://towardsdatascience.com/data-science-for-startups-r-python-2ca2cd149c5c)
 * [데이터 사이언스(Data Science) 프로세스 정리](http://hero4earth.com/blog/learning/2018/01/27/data_science_process/)
 * [데이터 저널리즘, 오픈 데이터를 넘어 코드 공개로](http://commonslab.cc/53/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%A0%80%EB%84%90%EB%A6%AC%EC%A6%98-%EC%98%A4%ED%94%88-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC-%EB%84%98%EC%96%B4-%EC%BD%94%EB%93%9C-%EA%B3%B5%EA%B0%9C%EB%A1%9C)
@@ -392,6 +393,7 @@ Data Science
 * [Great Books for Data Science](https://towardsdatascience.com/great-books-for-data-science-7a2de76bc612)
 * [브런치북 데이터 과학 미니북](https://brunch.co.kr/brunchbook/dsbook)
 * [Efficient Python Tricks and Tools for Data Scientists — Effective Python for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
+* [Free Book: Foundations of Data Science (from Microsoft Research Lab) - DataScienceCentral.com](https://www.datasciencecentral.com/new-book-foundations-of-data-science-from-microsoft-research-lab/)
 
 # Conference
 * [데이터야놀자2021 데이터와 함께하는 똑똑한 중고 거래 - 삼데오백님 - YouTube](https://www.youtube.com/watch?v=qUn_hgLxudU)
