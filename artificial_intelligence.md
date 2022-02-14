@@ -141,6 +141,7 @@ Artificial Intelligence
 * [Assessing and Mitigating Unfairness in AI Systems - Manojit Nandi | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=lGq9eoA5NOI)
 * [AI옵스 적용 영역 ‘잘 맞는 3가지, 아직은 미흡한 2가지’ - CIO Korea](https://www.ciokorea.com/news/223304) AIOps
 * [AI도 과하면 독, ‘딱 맞는 해법’은 따로 있다 - CIO Korea](https://www.ciokorea.com/news/223324)
+* [Computer Scientists Prove Why Bigger Neural Networks Do Better | Quanta Magazine](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
