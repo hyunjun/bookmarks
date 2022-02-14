@@ -143,6 +143,7 @@
 * [Composition과 Aggregation](http://agbird.egloos.com/817752)
 * [상속과 합성, 그리고 다중 상속...2](http://agbird.egloos.com/615166)
 * [프로토콜 컴포지션이 클래스 상속 구조보다 유용한 경우를 설명하기 좋은 예제](https://wlaxhrl.tistory.com/85)
+* [Why COMPOSITION is better than INHERITANCE - detailed Python example - YouTube](https://www.youtube.com/watch?v=0mcP8ZpUR38)
 
 # Dependency Injection
 * [Dependency Injection, Inversion of Control & The Dependency Inversion Principle](http://kc.my-junk.info/di-ioc-dip/)
