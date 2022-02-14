@@ -105,6 +105,7 @@ Artificial Intelligence
 * [진정한 인공지능을 향한 단계들 Steps Toward Artificial Intelligence (2)](https://www.youtube.com/watch?v=DTEqcYUnOR0)
 * [주디아 펄의 “인과에 대하여(The book of Why)”](http://newspeppermint.com/2019/04/08/m-book-of-why/) causal inference
 * [awesome-causal-inference](https://github.com/ksseono/awesome-causal-inference)
+* [What Is Causal Inference? – O’Reilly](https://www.oreilly.com/radar/what-is-causal-inference/)
 * [Progress Toward Safe and Reliable AI](http://ai.stanford.edu/blog/reliable-ai/)
 * [Artificial Intelligence Conference](https://conferences.oreilly.com/ai/ai-ca/public/schedule/proceedings)
 * [LF AI Foundation Interactive Landscape](https://landscape.lfai.foundation/)
@@ -138,6 +139,8 @@ Artificial Intelligence
 * [신뢰 가능한 인공지능(Trustworthy AI) 제대로 훑기 | by Heejung Kim | Skelter Labs Designer | Jan, 2022 | Medium](https://medium.com/skelterlabs-designer/%EC%8B%A0%EB%A2%B0-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-trustworthy-ai-%EC%86%8E%EC%95%84%EB%B3%B4%EA%B8%B0-3813a0e9bce5)
 * [Counter Factual Analysis for Explainable AI - Shashank Shekhar | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=DgzyKrLxIaU)
 * [Assessing and Mitigating Unfairness in AI Systems - Manojit Nandi | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=lGq9eoA5NOI)
+* [AI옵스 적용 영역 ‘잘 맞는 3가지, 아직은 미흡한 2가지’ - CIO Korea](https://www.ciokorea.com/news/223304) AIOps
+* [AI도 과하면 독, ‘딱 맞는 해법’은 따로 있다 - CIO Korea](https://www.ciokorea.com/news/223324)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
