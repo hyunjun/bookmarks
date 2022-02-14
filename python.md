@@ -4345,6 +4345,7 @@ Python
   * [How to Use NPV & IRR in NumPy Financial for Python | Net Present Value & Internal Rate of Return - YouTube](https://www.youtube.com/watch?v=yMBem4p22Yk)
   * [How to Use NumPy Financial for Python Present Value (pv) Function - YouTube](https://www.youtube.com/watch?v=ro01Qq3BkrI)
   * [Calculate Loan Payments with Python NumPy Financial - YouTube](https://www.youtube.com/watch?v=I9RFjOv_1bI)
+  * [Python Automation Project: Make a Mortgage Loan Analyzer Class - YouTube](https://www.youtube.com/watch?v=jZjGnCyHa9Q)
 * [tinynumpy - A lightweight, pure Python, numpy compliant ndarray class](https://github.com/wadetb/tinynumpy)
 
 # Pandas
