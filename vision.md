@@ -397,6 +397,7 @@ Vision
 * [Slic: Single line image classifier](https://github.com/seungson/Slic) 한 줄의 명령어로 필요한 이미지 데이터셋을 생성, 자동으로 다중 분류 모델 학습, 학습이 종료되면 즉시 api를 빌드 및 테스트 환경(localhost) 구축
 * [smile-more - Check your face and make sure you smile using Google Vision API](https://github.com/hunkim/smile_more)
 * [srez - Image super-resolution through deep learning](https://github.com/david-gpu/srez)
+* StylEx [Google AI Blog: Introducing StylEx: A New Approach for Visual Explanation of Classifiers](https://ai.googleblog.com/2022/01/introducing-stylex-new-approach-for.html)
 * [Tencent ML Images released: 18 million training images with 11,000 categories](https://www.techleer.com/articles/573-tencent-ml-images-released-18-million-training-images-with-11000-categories/)
 * [TiefVision - End-to-end deep learning image-similarity search engine](https://github.com/paucarre/tiefvision)
 * [vatic is a free, online, interactive video annotation tool for computer vision research that crowdsources work to Amazon's Mechanical Turk](http://web.mit.edu/vondrick/vatic/)
@@ -736,6 +737,8 @@ Vision
 * [Optimal Peanut Butter and Banana Sandwiches | Ethan Rosenthal](https://www.ethanrosenthal.com/2020/08/25/optimal-peanut-butter-and-banana-sandwiches/)
   * [개발자가 코로나로 재택근무하면 생기는 일(바나나 땅콩버터 샌드위치 AI) :: Aedi의 스마트라이프](https://smartaedi.tistory.com/389)
 * [Ugurilgin.com - Details of Project](https://www.ugurilgin.com/EN/Project/image-processing) A Desktop Application Containing the Most Used Processing Algorithms in Python
+* [Develop and Deploy Image Classifier using Flask: Part 1 - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2022/01/develop-and-deploy-image-classifier-using-flask-part-1/)
+* [Develop and Deploy Image Classifier using Flask: Part 2 - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2022/01/develop-and-deploy-image-classifier-using-flask-part-2/)
 * [ANPR-RK-Korea - 한국 자동차 번호판 인식 솔루션](https://www.marearts.com/ANPR-RK-Korea-83e9c442ced64cb6853574fae4483461)
 * [Alyona Galyeva - Human-like Visual Search Application with Small Data | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=2l_WASP1_1A) Mask R-CNN, fast api
 * [albumentations: Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation: https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125 ](https://github.com/albumentations-team/albumentations)
