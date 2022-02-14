@@ -4149,6 +4149,7 @@ Python
 ## Library parallel
 * [High Performance Python - YouTube](https://www.youtube.com/watch?v=HhV6yzKXqFU) coiled, numba, dask, rapids
 * [Parallel Processing in Python || Aaron Richter - YouTube](https://www.youtube.com/watch?v=L6jti_WXKKw)
+* [Anyscale - Parallelizing Python Code](https://www.anyscale.com/blog/parallelizing-python-code)
 * [**Dask**](https://dask.org/) Dask provides advanced parallelism for analytics, enabling performance at scale for the tools you love
   * [Out-of-Core Dataframes in Python: Dask and OpenStreetMap](https://jakevdp.github.io/blog/2015/08/14/out-of-core-dataframes-in-python/)
   * [Analyzing Reddit Comments with Dask and Castra](http://blaze.github.io/blog/2015/09/08/reddit-comments/)
