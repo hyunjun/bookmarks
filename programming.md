@@ -1481,6 +1481,7 @@ Programming
 * [Emerging Architectures for Modern Data Infrastructure | Future](https://future.a16z.com/emerging-architectures-modern-data-infrastructure/)
 * [Talk&Talk 누구나 쉽게 이해할수 있는 마이크로서비스 아키텍처(MSA) #1편 - YouTube](https://www.youtube.com/watch?v=8d4h7K_Fq-0)
 * [Is my Microservice actually a Distributed Monolith in disguise? - Discover Better Value Faster](https://www.cloudnowtech.com/blog/is-my-microservice-actually-a-distributed-monolith-in-disguise/)
+* [**The Human Side of Airbnb’s Microservice Architecture - YouTube**](https://www.youtube.com/watch?v=yGOtTd-l_3E)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
