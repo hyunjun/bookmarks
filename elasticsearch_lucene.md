@@ -714,6 +714,7 @@ ElasticSearch - Lucene
   * [Nori Analyzer 테스트](https://jjeong.tistory.com/1532)
   * [Elasticsearch 검색어에서 속성 추출 – 상구리의 기술 블로그](https://www.skyer9.pe.kr/wordpress/?p=3827)
   * [Elasticsearch, Nori, FSCrawler를 이용한 문서 검색 엔진 구축 | 눈뜨고코베인 개발 로그](https://cobain.me/2020/10/19/ElasticSearch-FSCrawler.html)
+  * [nori-clone: Standalone Nori (Korean Morphological Analyzer)](https://github.com/jeongukjae/nori-clone)
 * [left-join-plugin](https://github.com/danawalab/left-join-plugin)
   * [엘라스틱서치 Left Join Plugin 소개 - 다나와 기술블로그](https://danawalab.github.io/elastic/2020/08/10/ElasticSearch-Left-join-plugin.html)
 * [Plugins - site 플러그인과 custom analyzer 플러그인 만들기](http://jjeong.tistory.com/818)
