@@ -777,6 +777,7 @@ AWS
   * 바로 위 ArgoCD와 Crossplane을 설정한 방법을 Flux와 Crolssplane으로 설명한 글
 * [Amazon Elastic Kubernetes Service에 IPv6 네트워킹 기능 추가 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/amazon-elastic-kubernetes-service-adds-ipv6-networking/)
   * AWS EKS에서는 각 Pod이 IP 주소를 수신하면서 VPC 내의 IP 주소가 많이 필요한 문제 존재, IPv6가 이제 도입되어 IP 주소 고갈 문제 방지 & 라우팅 간소화
+* [AWS NAT64, DNS64를 이용한 IPv6 주소에서 IPv4 주소로 통신](https://zigispace.net/1163)
 * [AWS Elastic Kubernetes Service (EKS) Review](https://matduggan.com/aws-eks/)
 * [초보자를 위한 EKS 맛 보기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163578)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
