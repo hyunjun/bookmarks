@@ -793,6 +793,7 @@ Java
 * [To Java 17 and Beyond! - YouTube](https://www.youtube.com/watch?v=U14IA5XiX1I)
 * [Not stagnation, but regression of Java. Where modern Java 17 loses to Java 8 | by Marian Čaikovski | Dec, 2021 | Medium](https://marian-caikovski.medium.com/not-stagnation-but-regression-of-java-where-modern-java-17-loses-to-java-8-e45b31fec5ac)
 * [Six Features From Java 12 to 17 to Get Excited About!](https://www.infoq.com/articles/six-features-jdk12-to-jdk17/)
+* [Johan Janssen - How and Why to Upgrade to Java 17 - YouTube](https://www.youtube.com/watch?v=N9ATMhH2bL0)
 
 # Java18
 * [레코드 및 배열 패턴 外··· 구체화되는 ‘자바 18’ 미리보기 - CIO Korea](https://www.ciokorea.com/news/205454)
