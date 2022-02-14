@@ -83,6 +83,7 @@ Data Science
 * [쏘카 데이터 그룹 - 데이터 엔지니어링 팀이 하는 일 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2021/03/24/what-socar-data-engineering-team-does.html)
 * [실무 AI 프로젝트 - 분석보다 엔지니어링이 중요한 이유](https://data-engineer-song.tistory.com/1)
 * [Data Engineering Principles - Build frameworks not pipelines - Gatis Seja - YouTube](https://www.youtube.com/watch?v=pzfgbSfzhXg)
+* [**How The Modern Data Stack Is Reshaping Data Engineering | Preset - Blog | Preset**](https://preset.io/blog/reshaping-data-engineering/)
 * [온프레미스 데이터 플랫폼 팀의 데이터 엔지니어가 하는 일(feat. 11번가 데이터 플랫폼 2020년 회고) :: Kaden Sungbin Cho](https://kadensungbincho.tistory.com/2)
 * [쏘카 신입 데이터 엔지니어 디니의 4개월 회고 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2021/12/28/data-engineering-team-onboarding.html)
 * [There’s No Such Thing as a Data Scientist](https://medium.com/indeed-data-science/theres-no-such-thing-as-a-data-scientist-8dae923c14e3)
