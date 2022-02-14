@@ -468,6 +468,7 @@ Java
 * [Difference between CountDownLatch vs CyclicBarrier in Java Multithreading | Java67](https://www.java67.com/2012/08/difference-between-countdownlatch-and-cyclicbarrier-java.html)
 * [Top 12 Java Thread, Concurrency, and Multithreading Interview Questions with Answers | Java67](https://www.java67.com/2012/08/5-thread-interview-questions-answers-in.html)
 * [# 128 Overloading of Thread class run() method | java how to overload run() method | Java|RedSysTech - YouTube](https://www.youtube.com/watch?v=C2QpuQCdnBc)
+* [Parallel Merge Sort with Fork/Join Framework | HackerNoon](https://hackernoon.com/parallel-merge-sort-with-forkjoin-framework)
 
 ## Concurrency Parallel Thread Akka
 * [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
