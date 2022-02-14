@@ -585,6 +585,7 @@ Business
   * vision sharing도 쓸데없는 일이 아니라 이렇게라도 해야 communication이 되기 때문. 잭 웰치의 이야기와 통하는 건가?
   * 추가. 일정을 짧은 단위로 잡는 게 좋은 이유: delay가 되더라도 빨리 알고 plan B를 확보할 가능성이 높아짐. 내가 story point를 8로 제한하려는 이유와 비슷함
 * [현장과 의사소통을 돕는 협업도구 두레이](https://brunch.co.kr/@graypool/262)
+* [소통 능력이 뛰어난 사람들의 5가지 조건 – 체인지그라운드](http://thechangeground.com/archives/20685)
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
