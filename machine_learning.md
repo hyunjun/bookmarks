@@ -661,6 +661,7 @@ Machine Learning
 * [머신러닝 모델링의 흔한 실수들 60+ 사례 중 데이터 관련 사례](https://jehyunlee.github.io/2021/02/24/Python-DS-62-mistakes/210222_%EC%9D%B4%EC%A0%9C%ED%98%84_mistakes.pdf)
 * [지루하지 않게 코노미 사진 4만장 어노테이션하기 (머신러닝과 함께) | by Doyoung Gwak | 네이버 플레이스 개발 블로그 | Medium](https://medium.com/naver-place-dev/%EC%A7%80%EB%A3%A8%ED%95%98%EC%A7%80-%EC%95%8A%EA%B2%8C-%EC%BD%94%EB%85%B8%EB%AF%B8-%EC%82%AC%EC%A7%84-4%EB%A7%8C%EC%9E%A5-%EC%96%B4%EB%85%B8%ED%85%8C%EC%9D%B4%EC%85%98%ED%95%98%EA%B8%B0-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EA%B3%BC-%ED%95%A8%EA%BB%98-619c60f8a071)
 * [머신러닝 프로젝트를 '레벨 업'시킬 수 있는 8가지 방법 - CIO Korea](https://www.ciokorea.com/news/188798)
+* [‘휴먼 인 더 루프’(HITL) 머신러닝이란? - CIO Korea](https://www.ciokorea.com/news/224564)
 * [**LINE 메신저 앱에 온 디바이스 머신 러닝 적용하기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/on-device-machine-learning-line-app/)
 * [Sai Ma - MIY: Model It Yourself - with ML Legobricks - YouTube](https://www.youtube.com/watch?v=dhYVu9L30ns)
 * [Pydata Berlin April 2021: How to detect silent failures in ML models - YouTube](https://www.youtube.com/watch?v=TE37ROjLdEE)
@@ -682,6 +683,7 @@ Machine Learning
 * [Why 90 percent of all machine learning models never make it into production | by Ari Joury | Towards Data Science](https://towardsdatascience.com/why-90-percent-of-all-machine-learning-models-never-make-it-into-production-ce7e250d5a4a)
 * [이진 분류를 위한 머신러닝 예측 성능 비교 - 로지스틱 회귀, 랜덤포레스트, 부스팅, 신경망](https://songseungwon.tistory.com/m/entry/%EC%9D%B4%EC%A7%84-%EB%B6%84%EB%A5%98%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%98%88%EC%B8%A1-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1-%ED%9A%8C%EA%B7%80-%EB%9E%9C%EB%8D%A4%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8-%EB%B6%80%EC%8A%A4%ED%8C%85-%EC%8B%A0%EA%B2%BD%EB%A7%9D)
 * [구글 리서치(제프 딘)의 미래 ML 테마들 | GeekNews](https://news.hada.io/topic?id=5834)
+* [The First Rule of Machine Learning: Start without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -1152,6 +1154,7 @@ Machine Learning
   * [번역 데이터 과학자들은 쿠버네티스에 관심이 없습니다 - MLOps | 커피고래의 노트](https://coffeewhale.com/kubernetes/mlops/2021/01/28/mlops-determinedai/)
   * [데이터 과학자를 위한 ML툴 | 커피고래의 노트](https://coffeewhale.com/kubernetes/mlops/2021/03/02/mlops-jupyterflow/)
 * [Kobra | A visual programming language for machine learning (in beta)](https://kobra.dev/)
+* [LambdaML: Pros and Cons of Serverless for Deep Network Training](https://www.infoq.com/news/2022/02/serverless-ml-training/)
 * [Leaf is a open source framework for machine intelligence, sharing concepts from TensorFlow and Caffe](https://github.com/autumnai/leaf)
 * LightGBM
   * [Welcome to LightGBM’s documentation! — LightGBM 2.3.2 documentation](https://lightgbm.readthedocs.io/)
@@ -1239,6 +1242,7 @@ Machine Learning
 * [MODUCON 2021 글로벌 넘버원이 되기위한 MLOps Learning Path-박찬성Development Enviroment - 개발환경 - YouTube](https://www.youtube.com/watch?v=0O79Hrj3Xq4)
 * [모두의 MLOps (1) MLOps에 첫걸음을 내딛는 분들을 위한 지침서 | by Jongseob Jeon | We’re Team MakinaRocks! | Jan, 2022 | Medium](https://medium.com/makinarocks/%EB%AA%A8%EB%91%90%EC%9D%98-mlops-1-mlops%EC%97%90-%EC%B2%AB%EA%B1%B8%EC%9D%8C%EC%9D%84-%EB%82%B4%EB%94%9B%EB%8A%94-%EB%B6%84%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%A7%80%EC%B9%A8%EC%84%9C-ac2740ccd4eb)
 * [MLOps정의와 다양한 도구들-1 | Lablup Blog](https://blog.lablup.com/posts/2022/01/27/MLOps)
+* [Why data scientists shouldn’t need to know Kubernetes](https://huyenchip.com/2021/09/13/data-science-infrastructure.html)
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
