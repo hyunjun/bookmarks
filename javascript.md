@@ -3550,7 +3550,10 @@ Javascript
   * [❄️예제로 맛보는 React.js #flowchart - YouTube](https://www.youtube.com/watch?v=xs7k-eHO81g)
 * [Formik - Build forms in React, without the tears](https://jaredpalmer.com/formik/)
   * [React Form Validation with Formik and Yup](https://hackernoon.com/react-form-validation-with-formik-and-yup-8b76bda62e10)
-* framer-motion [쉽다, 코딩으로 모션 뽀개기 with Framer-motion](https://jackface.oopy.io/framer)
+* framer-motion
+  * [쉽다, 코딩으로 모션 뽀개기 with Framer-motion](https://jackface.oopy.io/framer)
+  * [Animated Modals with Framer Motion](https://fireship.io/lessons/framer-motion-modal/)
+    * [Springy Animated Modals // Framer Motion & React Tutorial for Beginners - YouTube](https://www.youtube.com/watch?v=SuqU904ZHA4)
 * Framer X [내가 Framer X에 미쳐있는 이유 (Framer X 6개월 사용기)](https://medium.com/harbor-school/내가-framer-x에-미쳐있는-이유-framer-x-6개월-사용기-a3a400eddca)
 * [Gatsby - Transform plain text into dynamic blogs and websites using the latest web technologies](https://github.com/gatsbyjs/gatsby)
   * [How to build a React and Gatsby-powered blog in about 10 minutes](https://medium.freecodecamp.org/how-to-build-a-react-and-gatsby-powered-blog-in-about-10-minutes-625c35c06481)
