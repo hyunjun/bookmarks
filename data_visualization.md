@@ -506,6 +506,7 @@ Data Visualization
 * [mpld3 - Plotly 랑 Bokeh 공부하기 귀찮다. 그냥 matplotlib 를 사용해서 웹서비스하자](http://hamait.tistory.com/850)
 * [prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries](https://github.com/marceloprates/prettymaps)
 * [python-data-visualization: Example Code Notebooks for Data Visualization in Python](https://github.com/javedali99/python-data-visualization)
+* [**scientific-visualization-book: An open access book on scientific visualization using python and matplotlib**](https://github.com/rougier/scientific-visualization-book)
 * [Seaborn](http://stanford.edu/~mwaskom/software/seaborn)
   * [Statistical data visualization using matplotlib http://stanford.edu/~mwaskom/software/seaborn ](https://github.com/mwaskom/seaborn)
   * [Histograms and Density Plots in Python Visualizing One-Dimensional Data in Python](https://towardsdatascience.com/histograms-and-density-plots-in-python-f6bda88f5ac0)
