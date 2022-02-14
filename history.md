@@ -196,6 +196,7 @@ History
 * [난징 시기 대한민국 임시정부와 약산 김원봉](http://ppss.kr/archives/54660)
 * [‘난징의 능욕’, 그들은 사람이 아니었다](http://ppss.kr/archives/55084)
 * [안중근의 동생, 독립운동가 안공근](http://ppss.kr/archives/46394)
+* ["안중근 조카·女독립운동가, 안미생 흔적 75년 만에 찾았다"](https://www.pressian.com/pages/articles/2022020711561959544)
 * [권총, 폭탄, 태극기 그리고 가슴 속 종이 한 장](http://newstapa.org/28236)
 * [조선을 떠나며: 광복 이후 조선땅에 남은 일본인들의 삶 ①](http://ppss.kr/archives/54593)
 * [조선을 떠나며: 해방 이후 조선땅에 남은 일본인들의 삶 ②](http://ppss.kr/archives/55082)
