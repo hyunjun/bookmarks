@@ -301,6 +301,7 @@ Go
 * [Write Golang CODE FASTER in vscode | Write code faster in vscode for Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=r7sx02cuWWc)
 * [SOLID Principles in Golang Explained with Examples | by Jerry An | Level Up Coding](https://levelup.gitconnected.com/solid-principles-in-golang-explained-by-examples-4a4cccf47388)
 * [go-task-list at addDB](https://github.com/Sirpyerre/go-task-list/tree/addDB)
+* [Trim Problem in Golang | TrimRight | TrimSuffix | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=xF60JejBkBo)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
