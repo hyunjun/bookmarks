@@ -77,6 +77,8 @@ Government
 * [AI 허브](https://aihub.or.kr/)
   * [공공행정문서 OCR | AI 허브](https://aihub.or.kr/aidata/30724)
 * [AssemblyDataReader: Assembly Data Reader - 열린국회정보의 API를 이용해 데이터를 쉽게 받아올 수 있게 만든 오픈소스 라이브러리](https://github.com/hohyun321/AssemblyDataReader)
+* [falso: All the Fake Data for All Your Real Needs 🙂](https://github.com/ngneat/falso)
+  * [Falso - 가짜 데이터 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=5850)
 * [Label Studio - an open-source, configurable data annotation tool](https://github.com/heartexlabs/label-studio)
 * [PublicDataReader: Open Source Public Data Reader](https://github.com/WooilJeong/PublicDataReader)
 * [recaptcha-dataset: Dataset of thousands of reCAPTCHA images](https://github.com/deathlyface/recaptcha-dataset)
