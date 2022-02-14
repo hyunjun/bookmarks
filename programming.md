@@ -574,6 +574,7 @@ Programming
 * [클린 애자일 - 6장 애자일해지기](https://jusths.tistory.com/193)
 * [The Shape of Code » Software effort estimation is mostly fake research](http://shape-of-code.coding-guidelines.com/2021/01/17/software-effort-estimation-is-mostly-fake-research/) agile에 대한 이야기는 아니지만 story point 추정이 생각나 여기 넣어둠
 * [Software Estimation Is Hard. Do It Anyway. - Jacob Kaplan-Moss](https://jacobian.org/2021/may/20/estimation/)
+* [Agile Estimation & Its Techniques | Beginners Guide](https://k21academy.com/scrum-master/why-do-we-need-agile-estimation-what-techniques-are-used)
 * [지금… IT개발팀에서 일하는 방식 GS SHOP 고군분투기](https://www.slideshare.net/hnki0104/it-gs-shop)
 * [IDG.tv | 에자일 개발 프로세스 이해하기 한글 자막 - YouTube](https://www.youtube.com/watch?v=5kILHLwE81Q)
 * [Cross functional team의 성장 레시피. 요기요 회고 kit 절찬리 무료 다운로드 가능 | by Suemin Lee | Delivery Tech Korea — 요기요&배달통 기술블로그 | Apr, 2021 | Medium](https://medium.com/deliverytechkorea/cross-functional-team%EC%9D%98-%EC%84%B1%EC%9E%A5-%EB%A0%88%EC%8B%9C%ED%94%BC-728f87cb86c0)
@@ -1885,6 +1886,8 @@ Programming
 * [Paircast - Code Screencast Software](https://paircast.io/)
 * [PullRequest | Code Review as a Service](https://www.pullrequest.com/)
   * [PullRequest - Code Review as a Service | GeekNews](https://news.hada.io/topic?id=5590)
+* [Qodana: 즐겨 사용하는 CI를 위한 JetBrains의 코드 품질 플랫폼](https://www.jetbrains.com/ko-kr/qodana/)
+  * [정적 분석을 통해 코드 검토 및 프로젝트 계획 시간 단축 | The Qodana Blog](https://blog.jetbrains.com/ko/qodana/2022/02/cut-time-on-code-reviews-and-project-planning-with-static-analysis/)
 * [SAW - The Software Analysis Workbench](http://saw.galois.com/index.html)
 * [Semgrep](https://semgrep.dev/)
   * [Semgrep - 오픈소스 정적 코드 분석 도구 | GeekNews](https://news.hada.io/topic?id=4122)
@@ -2384,6 +2387,7 @@ Programming
 * [Taming Service-Oriented Architecture Using A Data-Oriented Service Mesh | by Adam Miskiewicz | Airbnb Engineering & Data Science | Nov, 2020 | Medium](https://medium.com/airbnb-engineering/taming-service-oriented-architecture-using-a-data-oriented-service-mesh-da771a841344)
 * [조대협의 블로그 :: 분산형 데이터 분석 아키텍처-데이터 매쉬](https://bcho.tistory.com/1379)
 * [Data Mesh: an Architectural Deep Dive - YouTube](https://www.youtube.com/watch?v=kELM4aSHFIc)
+* [Data Mesh in the Real World: Lessons Learnt from the Financial Markets - YouTube](https://www.youtube.com/watch?v=84zIFcIGKWQ)
 
 # Data Pipeline
 * [Josh Wills on Building Resilient Data Engineering and Machine Learning Products at Slack](https://www.infoq.com/podcasts/slack-building-resilient-data-engineering/)
