@@ -1107,6 +1107,8 @@ Business
 # User 사용자 고객
 * [고객님의 데이터 사용량을 지켜주세요](https://jybaek.tistory.com/868)
 * [When users never use the features they asked for - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/featurestheywanted.html)
+* [힘들지만 사용자 인터뷰를 꼭 해야 하는 이유 (1)](https://brunch.co.kr/@suzy8347/8)
+* [힘들지만 사용자 인터뷰를 꼭 해야 하는 이유 (2)](https://brunch.co.kr/@suzy8347/11)
 
 # UX, design
 * [라이트브레인, 2015 UX 트렌드 리포트 ‘UX Discovery’ 발행](http://www.rightbrain.co.kr/CMS/%EB%9D%BC%EC%9D%B4%ED%8A%B8%EB%B8%8C%EB%A0%88%EC%9D%B8-%EA%B8%80%EB%A1%9C%EB%B2%8C-ux-%ED%8A%B8%EB%A0%8C%EB%93%9C-2015-%EB%B0%9C%EA%B0%84/)
