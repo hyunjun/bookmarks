@@ -562,6 +562,7 @@ Data Science
 * [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
   * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook)
   * [**Python Data Science Handbook.ipynb**](https://colab.research.google.com/github/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/Index.ipynb)
+  * [Book: Python Data Science Handbook - DataScienceCentral.com](https://www.datasciencecentral.com/book-python-data-science-handbook)
 * [야구 대회 간단한 모델링 코드](https://dacon.io/cpt6/66846)
 * [How to use Data Science to better understand your customers](https://medium.freecodecamp.org/using-data-science-to-better-understand-your-customers-part-1-of-2-398d11049785)
 * [**Aaron Richter: Your data fits in RAM: How to avoid cluster computing | PyData Miami 2019**](https://www.youtube.com/watch?v=7h4BwpedPD0)
