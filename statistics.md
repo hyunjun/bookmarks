@@ -104,6 +104,7 @@ Statistics
     * Chi-squared distribution
       * Gaussian 분포를 가진 확률변수의 제곱들의 합에 대한 분포
       * 예를 들어 k자유도의 chi-squared는 k개의 독립적인 Gaussian들에 대한 합의 확률분포
+* [중심극한정리에 대한 오해, 많으면 무조건 정규분포 OK???](https://recipesds.tistory.com/entry/%EC%A4%91%EC%8B%AC%EA%B7%B9%ED%95%9C%EC%A0%95%EB%A6%AC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%98%A4%ED%95%B4-%EB%A7%8E%EC%9C%BC%EB%A9%B4-%EB%AC%B4%EC%A1%B0%EA%B1%B4-%EC%A0%95%EA%B7%9C%EB%B6%84%ED%8F%AC-OK)
 * [통컨(통계컨설팅) :: 우선 확률분포 4가지(싸가지?) 만 알면 됩니다](https://rsas.tistory.com/156)
 * [(2) 통계기법 4가지 알기-t검정,ANOVA,상관분석/회귀분석, 카이제곱법 :: 통컨(통계컨설팅)](https://rsas.tistory.com/185)
 * [Statistical Methods for HCI Research](http://yatani.jp/teaching/doku.php?id=hcistats:start)
