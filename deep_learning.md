@@ -2018,6 +2018,7 @@ Deep Learning
 * [Illustrated Guide to LSTM’s and GRU’s: A step by step explanation](https://towardsdatascience.com/illustrated-guide-to-lstms-and-gru-s-a-step-by-step-explanation-44e9eb85bf21)
 * [Long Short-Term Memory Networks Are Dying: What’s Replacing It? | by Andre Ye | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/long-short-term-memory-networks-are-dying-whats-replacing-it-5ff3a99399fe)
 * [Understanding A Recurrent Neural Network For Image Generation](https://hackernoon.com/understanding-a-recurrent-neural-network-for-image-generation-7e2f83wdg)
+* [An Introduction To Recurrent Neural Networks And The Math That Powers Them](https://machinelearningmastery.com/an-introduction-to-recurrent-neural-networks-and-the-math-that-powers-them/)
 
 # Neuroevolution
 * [Neuroevolution: A different kind of deep learning](https://www.oreilly.com/ideas/neuroevolution-a-different-kind-of-deep-learning)
