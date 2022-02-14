@@ -101,6 +101,7 @@ Programming
   * 순서가 중요. 거꾸로 적용하면 안됨
 * [A Philosophy of Software Design | John Ousterhout | Talks at Google - YouTube](https://www.youtube.com/watch?v=bmSAYlu0NcY) 좋은 소프트웨어 디자인을 어떻게 알아보고, 가르치고, 가꿔 나갈지에 대한 이야기
 * [Book Review: A Philosophy of Software Design | Johz Blog](https://johz.bearblog.dev/book-review-philosophy-software-design/)
+* [**Software Design in Python - YouTube**](https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N)
 * [Analysis & Design · Present](https://present.do/decks/60c21e8267ba0b4949e79f42)
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/)
 * [Getting Started with the Sport of Programming](http://sportprogramming.blogspot.in/2014/07/getting-started-with-sport-of.html)
