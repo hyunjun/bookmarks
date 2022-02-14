@@ -666,6 +666,7 @@ SQL
 * [MySQL/MariaDB character sets and collations explained – why utf8 is not UTF-8 | Hello DevOps](https://www.hellodevops.blog/posts/database-character-sets-and-collations-explained/)
 * [Login y Logout con NodeJS y MySQL usando jsonwebtokens - YouTube](https://www.youtube.com/watch?v=PRoTFE2RSfQ)
 * [Upgrading MySQL at Shopify — Infrastructure (2022)](https://shopify.engineering/upgrading-mysql-shopify)
+* [brew로 MySQL 5.7을 MySQL 8로 업그레이드 하면서 겪은 에러 기록 | 웹으로 말하기](https://mytory.net/2022/02/14/brew-mysql-upgrade.html)
 
 ## MySQL backup dump
 * [MySQL 백업 mysqldump 사용법 정리](http://qnfmfmd.tistory.com/76)
