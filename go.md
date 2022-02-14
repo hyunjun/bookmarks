@@ -802,6 +802,7 @@ Go
 * [유연하고 테스트 가능한 Go 코드 작성하기 - 당근마켓 팀 블로그 | by Marco | 당근마켓 팀블로그](https://medium.com/daangn/how-to-write-a-testable-golang-code-4c0e67612bb8)
 * [Golang 인터페이스와 단위 테스트 | Popit](https://www.popit.kr/golang-%ec%9d%b8%ed%84%b0%ed%8e%98%ec%9d%b4%ec%8a%a4%ec%99%80-%eb%8b%a8%ec%9c%84-%ed%85%8c%ec%8a%a4%ed%8a%b8/)
 * [Golang 테스트 커버리지 측정과 코드 정적 분석 그리고 SonarQube | Popit](https://www.popit.kr/golang-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%bb%a4%eb%b2%84%eb%a6%ac%ec%a7%80-%ec%b8%a1%ec%a0%95%ea%b3%bc-%ec%bd%94%eb%93%9c-%ec%a0%95%ec%a0%81-%eb%b6%84%ec%84%9d-%ea%b7%b8%eb%a6%ac%ea%b3%a0-sonarqube/)
+* [Unit Testing RESTful APIs | TDD | Golang with Docker - YouTube](https://www.youtube.com/watch?v=tTz7b2AongA)
 * [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)
   * [고랭에서 찾기 힘든 버그 잡는다… ‘고 퍼즈’ 베타 테스트 공개 - CIO Korea](https://www.ciokorea.com/news/196604)
 * [MartianProxy is a proxy designed for use in E2E testing](https://github.com/google/martian)
