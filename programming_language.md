@@ -174,6 +174,7 @@ Programming Language
     * [httpdito - i386 어셈블리로 된 초소형 웹서버 | GeekNews](https://news.hada.io/topic?id=4008)
   * [Keystone - a lightweight multi-platform, multi-architecture assembler framework](http://www.keystone-engine.org/)
   * [xorpd](https://www.xorpd.net/)
+* ATL [A new programming language for high-performance computers | MIT News | Massachusetts Institute of Technology](https://news.mit.edu/2022/new-programming-language-high-performance-computers-0207)
 * [atto](https://jamesl.me/atto/)
   * [atto - 브라우저에서 실행되는 BASIC | GeekNews](https://news.hada.io/topic?id=4555)
 * [AXEL - Haskell + LispHaskell's semantics, plus Lisp's macros](https://axellang.github.io/)
