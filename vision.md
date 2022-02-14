@@ -778,6 +778,7 @@ Vision
   * [Prepare Your Own Data for PointNet](https://isaacguan.github.io/2018/05/04/Prepare-Your-Own-Data-for-PointNet/) PTS data, PLY data, HDF5
 * [PySceneDetect - a command-line application and a Python library for detecting scene changes in videos, and automatically splitting the video into separate clips](https://pyscenedetect.readthedocs.io/)
 * [PySlowFast: video understanding codebase from FAIR for reproducing state-of-the-art video models](https://github.com/facebookresearch/SlowFast)
+* [PVT/detection at v2 · whai362/PVT](https://github.com/whai362/PVT/tree/v2/detection) object detection
 * [repnet-cli: RepNet command line interface (https://sites.google.com/view/repnet)](https://github.com/JeiKeiLim/repnet-cli)
 * [RetinaFace-tf2: RetinaFace (RetinaFace: Single-stage Dense Face Localisation in the Wild, published in 2019) reimplemented in Tensorflow 2.0, with pretrained weights available !](https://github.com/StanislasBertrand/RetinaFace-tf2)
 * [scikit-image: Image processing in Python — scikit-image](https://scikit-image.org/)
