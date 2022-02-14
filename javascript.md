@@ -3479,6 +3479,7 @@ Javascript
 * [React Native, 이런 분께는 절대 추천하지 않아요 | Laftel | 리디 RIDI dev. - YouTube](https://www.youtube.com/watch?v=3uOMKUWKels)
 * [리액트 네이티브로 13년 된 네이티브 앱 전환하기 - 리디주식회사 RIDI Corporation](https://ridicorp.com/story/react-native-ridibooks-ap/)
   * [리액트 네이티브로 13년 된 네이티브 앱 전환하기 | GeekNews](https://news.hada.io/topic?id=5599)
+* [리엑트 네이티브 개발 경험기](https://brunch.co.kr/@chickenmoim/21)
 * [AirBnB는 어째서 RN을 버렸나?](https://blog.naver.com/bkcaller/221317627805)
 * [ReactNative 개발, 어떻게 시작하면 좋을까?](https://joonfluence.tistory.com/502)
 * [expo.io - Easily build apps with React Native](https://expo.io/)
