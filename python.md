@@ -4837,6 +4837,7 @@ Python
 * [PyAnnotate: Auto-generate PEP-484 annotations](https://github.com/dropbox/pyannotate)
 * [pydantic - Data validation and settings management using python 3.6 type hinting](https://pydantic-docs.helpmanual.io/)
   * [The Beginner’s Guide to Pydantic. A Python package to parse and validate… | by Ng Wai Foong | Better Programming | Medium](https://medium.com/better-programming/the-beginners-guide-to-pydantic-ba33b26cde89)
+  * [Do we still need dataclasses? // PYDANTIC tutorial - YouTube](https://www.youtube.com/watch?v=Vj-iU-8_xLs)
 * [Pyre - A performant typechecker for Python](https://pyre-check.org/)
 * [pyright - Static type checker for the Python language](https://github.com/Microsoft/pyright)
 * [pytype - A static analyzer for Python code](https://github.com/google/pytype)
