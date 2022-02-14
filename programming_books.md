@@ -1578,6 +1578,8 @@ Programming Books
 * (NOT YET) [소방관의 선택](https://jhrogue.blogspot.com/2021/10/blog-post.html)
 * (NOT YET) [아마존 사람들은 이렇게 일합니다](https://polydalai.tistory.com/entry/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4)
 * (NOT YET) 임파워드 [관리자는 신입 PM을 보며 어떤 생각을 할까?](https://brunch.co.kr/@soosunnaa/23)
+* (NOT YET) [팀 토폴로지 : 빠른 업무 플로우를 만드는 조직 설계 - 매튜 스켈톤, 마누엘 페이스](https://blog.daum.net/eastern/12707711)
+  * [(리뷰)팀 토폴로지 - 빠른 업무 플로우를 만드는 조직 설계 | Huns.me](https://huns.me/posts/2022-02-14-39-%ED%8C%80%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80)
 
 # Math
 
