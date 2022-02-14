@@ -272,6 +272,8 @@ Graph
   * [The Gremlin Graph Traversal Language](http://www.slideshare.net/slidarko/the-gremlin-traversal-language)
   * [Tales from the TinkerPop](http://www.datastax.com/dev/blog/tales-from-the-tinkerpop)
   * [Gremlin의 by()](https://medium.com/@json.oh/gremlin%EC%9D%98-by-d6f9e6c91a69)
+  * [페이팔: 실시간 그래프 데이터베이스 분석을 통해 사기를 방지하는 방법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1287/)
+    * [페이팔: 실시간 그래프 데이터베이스 분석을 통해 사기를 방지하는 방법 | GeekNews](https://news.hada.io/topic?id=5782)
 * [greuler is graph theory visualization tool powered by d3 and on top of WebCola which allows the creation and manipulation of graphs with a simple api](http://maurizzzio.github.io/greuler/)
 * [haystack- Graph "abstraction" over hbase](https://github.com/anupamaggarwal/haystack)
 * [json-graph-specification - A proposal for representing graph structure (nodes / edges) in JSON](https://github.com/jsongraph/json-graph-specification)
