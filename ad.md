@@ -12,6 +12,7 @@
 * [마케터가 꼭 알아두어야 할 AI 와 AI 사용방법 - 세일즈포스 (Salesforce)](https://www.salesforce.com/kr/hub/marketing/ai-for-marketers/)
 * [아마존 광고 매출, 어느새 MS·스냅·트위터 합친 것 보다 커져 < 인터넷 < 기사본문 - 디지털투데이 (DigitalToday)](http://www.digitaltoday.co.kr/news/articleView.html?idxno=433482)
 * [업종별 이메일 마케팅 벤치마크 보고서 2022 | GeekNews](https://news.hada.io/topic?id=5918)
+* [Digital Marketing Course For Beginners 2022 | Digital Marketing Complete Course | Simplilearn - YouTube](https://www.youtube.com/watch?v=3mHmEDyLtUw)
 * funnel [Automated data collection & marketing reports | Funnel](https://funnel.io/)
 
 # Google
