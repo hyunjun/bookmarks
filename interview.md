@@ -655,6 +655,7 @@ Interview
 * [{\*}helloworld](http://tryhelloworld.co.kr/challenges)
 * [honeypot.softwareskills.se](http://honeypot.softwareskills.se/)
 * [icpc.baylor.edu](https://icpc.baylor.edu/)
+* imbitious [Study kits for technical interviews](https://www.imbitious.com/studykits)
 * [interactive-coding-challenges - 120+ interactive Python coding interview challenges (algorithms and data structures). Includes Anki flashcards](https://github.com/donnemartin/interactive-coding-challenges)
 * [interviewbit.com](https://www.interviewbit.com/)
   * [InterviewBit - Your Free Interactive Coach for Tech Interviews](http://www.interviewbit.com/invite/hfij)
