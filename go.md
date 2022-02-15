@@ -302,6 +302,7 @@ Go
 * [SOLID Principles in Golang Explained with Examples | by Jerry An | Level Up Coding](https://levelup.gitconnected.com/solid-principles-in-golang-explained-by-examples-4a4cccf47388)
 * [go-task-list at addDB](https://github.com/Sirpyerre/go-task-list/tree/addDB)
 * [Trim Problem in Golang | TrimRight | TrimSuffix | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=xF60JejBkBo)
+* [Is TypeScript (NodeJS) Faster than Go? | A Server Comparison](https://morioh.com/p/dfe0e48a916e)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -345,6 +346,7 @@ Go
   * [GORM - The fantastic ORM library for Golang, aims to be developer friendly](https://gorm.io/)
     * [GORM 사용 시 주의할 점](https://bumbum.oopy.io/339a497f-ac96-4fd6-b5a5-d4937ce130a5)
     * [golang - 인 메모리 DB를 사용하여 RDB를 사용 하는 코드를 단위 테스트(Golang + Gorm를 예로) - jacking75](https://jacking75.github.io/go_unittest_gorm/)
+    * [Gorm level UP: how to upgrade and start to use Gorm v2 | by Michael Ushakov | Feb, 2022 | Medium](https://m-ushakov.medium.com/gorm-level-up-how-to-upgrade-and-start-to-use-gorm-v2-d68920e64e55)
   * [ql · GitLab](https://gitlab.com/cznic/ql)
 * defer
   * [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff)
