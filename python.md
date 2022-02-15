@@ -4809,6 +4809,8 @@ Python
 * [No, not typing. Types. - YouTube](https://www.youtube.com/watch?v=3A0y-ksmGgI)
 * [Type Hints in Python: What, Why, and How - YouTube](https://www.youtube.com/watch?v=j0dy8Q9VIPk)
 * [Tests aren’t enough: Case study after adding type hints to urllib3 — sethmlarson.dev](https://sethmlarson.dev/blog/2021-10-18/tests-arent-enough-case-study-after-adding-types-to-urllib3)
+* [Protocol Or ABC In Python - When to use which one? - YouTube](https://www.youtube.com/watch?v=xvb5hGLoK0A)
+  * [2021-protocol-vs-abc: Protocols vs ABC - which one should you use when?](https://github.com/ArjanCodes/2021-protocol-vs-abc)
 * [beartype: Unbearably fast O(1) runtime type-checking in pure Python](https://github.com/beartype/beartype)
 * [Enforce.py - Python 3.5+ runtime type checking for integration testing and data validation](https://github.com/RussBaz/enforce)
 * [LibCST - A concrete syntax tree parser and serializer library for Python that preserves many aspects of Python's abstract syntax tree https://libcst.readthedocs.io ](https://github.com/Instagram/LibCST)
