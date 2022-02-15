@@ -33,6 +33,7 @@ Algorithm
 * [Top 5 Courses to learn Data Structures and Algorithms in Python in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/11/python-data-structure-algorithm-course.html)
 * [Top 5 Free Data Structure and Algorithm Courses for Java and C Programmers](https://javarevisited.blogspot.com/2018/01/top-5-free-data-structure-and-algorithm-courses-java--c-programmers.html)
 * [Data Structure - YouTube](https://www.youtube.com/playlist?list=PLLykrwdi1zxF0ezo6NCzrAW4nZ6zDl6k6)
+* [Design & Analysis of Algorithm - YouTube](https://www.youtube.com/playlist?list=PLLykrwdi1zxF22UVdcQnbiMfSOBTOiGVq)
 * [바킹독의 실전 알고리즘](https://www.youtube.com/playlist?list=PLtqbFd2VIQv4O6D6l9HcD732hdrnYb6CY)
 * [N-Queens solved using backtracking in Elixir](https://github.com/tacticiankerala/N-Queens)
 * [6 Introduction to Backtracking - Brute Force Approach](https://www.youtube.com/watch?v=DKCbsiDBN6c)
