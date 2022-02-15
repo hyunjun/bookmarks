@@ -2647,6 +2647,8 @@ Python
 * [GraphQL in Python and Django](https://www.youtube.com/watch?v=vnlPU0HgSbQ)
 * [GraphQL in Python](https://www.youtube.com/watch?v=EIGjT5NYjjM)
 * [Backend.AI에서 사용되는 GraphQL batching과 Pagination | Lablup Blog](https://blog.lablup.com/posts/2021/09/06/graphql-batching-pagination-in-backend.ai/)
+* [GraphQL vs REST: What's The Difference And When To Use Which? - YouTube](https://www.youtube.com/watch?v=7ccdWqGgHaM)
+  * [2022-rest-graphql: Companion code to the GraphQL vs REST video](https://github.com/ArjanCodes/2022-rest-graphql)
 * [Awesome-GraphQL](https://github.com/devArtoria/Awesome-GraphQL) GraphQL server with Flask + Graphene
 * [GraphQL Python](https://github.com/graphql-python)
 * [graphene-python.org](http://graphene-python.org/)
