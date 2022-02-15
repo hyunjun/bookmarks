@@ -3283,6 +3283,7 @@ Javascript
 * [함수 컴포넌트, 선언문 vs 표현식은 취향 차이일까?](https://velog.io/@jjunyjjuny/React-%ED%95%A8%EC%88%98-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8-%EC%84%A0%EC%96%B8%EB%AC%B8-vs-%ED%91%9C%ED%98%84%EC%8B%9D%EC%9D%80-%EC%B7%A8%ED%96%A5-%EC%B0%A8%EC%9D%B4%EC%9D%BC%EA%B9%8C)
 * [How to Draw S-Curved Arrows Between Boxes / Rectangles | Alexander's Garden](https://dragonman225.js.org/curved-arrows.html)
 * [React에서 Canvas API로 애니메이션 구현하기](https://brunch.co.kr/@dalgudot/141)
+* [React에서 Canvas API로 애니메이션 구현하기](https://blog.dalgu.app/dev/1)
 * [5 Projects You Can Build to Learn React.js in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/10/5-best-reactjs-projects-for-beginners.html)
 * [React Portfolio Website with Styled Components and Framer Motion 🔥 - YouTube](https://www.youtube.com/watch?v=c8lnJzGVVpQ)
 * [React가 처음인 당신 - Ep1. 탄생편](https://velog.io/@winterlood/React%EA%B0%80-%EC%B2%98%EC%9D%8C%EC%9D%B8-%EB%8B%B9%EC%8B%A0-Ep1.-%ED%83%84%EC%83%9D%ED%8E%B8)
