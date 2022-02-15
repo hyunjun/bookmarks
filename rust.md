@@ -36,6 +36,7 @@
 * [Generating Rust Bindings for Embedded Libraries](http://spin.atomicobject.com/2015/05/21/generate-embedded-rust-bindings/)
 * [rust-raspberrypi-OS-tutorials: Learn to write an embedded OS in Rust](https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials)
   * [Rust로 라즈베리 Pi용 임베디드OS 만들어보기 | GeekNews](https://news.hada.io/topic?id=5088)
+* [Developing Embedded Apps In Rust - YouTube](https://www.youtube.com/watch?v=7eRRrEGL4H4)
 * [Three months of Rust](http://scattered-thoughts.net/blog/2015/06/04/three-months-of-rust/)
 * [Expressing L-systems in Rust](http://unconj.ca/blog/expressing-l-systems-in-rust.html)
 * [The Problem With Single-threaded Shared Mutability](http://manishearth.github.io/blog/2015/05/17/the-problem-with-shared-mutability/)
