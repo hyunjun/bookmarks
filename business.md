@@ -824,6 +824,7 @@ Business
 * [팀워크 : 팀을 위기로 만드는 리더에게는 3가지 패턴이 있대요](https://blog.naver.com/collabee/222535977963)
 * [CEO 심리학 직원들의 잦은 실수는 기강해이가 원인 아니라 리더의 무례함 때문이다 - 매일경제](https://mk.co.kr/news/business/view/2021/12/1197544)
 * [미공군의 팔로워십 육성 팁](https://hrbulletin.net/leadership/%EB%AF%B8%EA%B3%B5%EA%B5%B0%EC%9D%98-%ED%8C%94%EB%A1%9C%EC%9B%8C%EC%8B%AD-%EC%9C%A1%EC%84%B1-%ED%8C%81/) followship
+* [의사결정을 잘 ‘받는’ 사람들의 특징 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250859) followship
 * [Average Manager vs. Great Manager | by Julie Zhuo | The Year of the Looking Glass | Medium](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d) 간단한 만화로 상황에 따른 더 나은 manager의 모습을 보여줌
 * [대지진에도 멀쩡했던 후쿠시마 제 2 원전... 비결은 원전 소장의 리더십에 있었다│인터비즈 : 네이버 블로그](https://m.blog.naver.com/businessinsight/221397693111) 정보공유, 신뢰
 * [리더십 경멸받는 리더의 5가지 특징](http://moneyman.kr/archives/1308)
