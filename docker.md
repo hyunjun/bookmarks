@@ -1218,6 +1218,7 @@ Docker
 * [A Primer: Accessing services in Kubernetes](https://blog.alexellis.io/primer-accessing-kubernetes-services/)
 * [Kubernetes 컨테이너 환경에서의 컴퓨팅 리소스 정보 및 제한](https://effectivesquid.tistory.com/entry/Kubernetes-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EC%BB%B4%ED%93%A8%ED%8C%85-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EC%A0%95%EB%B3%B4-%EB%B0%8F-%EC%A0%9C%ED%95%9C)
 * [Cloud Native Progressive Delivery • Matt Turner • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=gUCv50ZTD7s)
+* [Kubernetes With Ansible. It’s critical to automate the… | by Shashwot Risal | Feb, 2022 | Medium](https://shashwotrisal.medium.com/kubernetes-with-ansible-881f32b8c53e)
 
 ## Library Kubernetes
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
