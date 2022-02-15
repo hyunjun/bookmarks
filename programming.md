@@ -1560,6 +1560,8 @@ Programming
 * [Seven guiding principles of serverless systems](https://www.advosight.com/post/seven-guiding-principles-of-serverless-systems)
 * [Monolith Vs Microservice Vs Serverless — The Real Winner? The Developer](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
 * [Please Serverless, Have an Opinion – The New Stack](https://thenewstack.io/please-serverless-have-an-opinion/)
+* [BBC Online: Architecting for Scale with the Cloud and Serverless - YouTube](https://www.youtube.com/watch?v=WE-tkz2tf30)
+  * (실제로는 훨씬 복잡하겠지만) media 회사에서 가장 중요한 건 contents이고 contents maker와 user를 양끝에 두고 필요한 architecture를 추가하면서 설명해주는 게 인상적
 
 # Atlassian Jira
 * [Jira Software 사용 방법 | 공식 구매자 및 사용자 가이드 | Atlassian](https://www.atlassian.com/ko/software/jira/guides)
