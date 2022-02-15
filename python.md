@@ -1511,6 +1511,8 @@ Python
   * [Build Your Own Async](https://www.youtube.com/watch?v=Y4Gt3Xjd7G8)
   * [Python Asyncio, Requests, Aiohttp | Make faster API Calls - YouTube](https://www.youtube.com/watch?v=nFn4_nA_yk8)
   * [Diagnose slow Python code. (Feat. async/await) - YouTube](https://www.youtube.com/watch?v=m_a0fN48Alw)
+  * [How To Easily Do Asynchronous Programming With Asyncio In Python - YouTube](https://www.youtube.com/watch?v=2IW-ZEui4h4)
+    * [2021-asyncio](https://github.com/ArjanCodes/2021-asyncio)
 
 ## Async Asynchronous AsyncIO Library
 * [aiofiles: file support for asyncio](https://github.com/Tinche/aiofiles)
