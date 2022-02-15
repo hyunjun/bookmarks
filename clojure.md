@@ -1406,4 +1406,5 @@ Clojure
 * [Roll your own Clojure web stack - PurelyFunctional.tv](https://purelyfunctional.tv/guide/clojure-web-tutorial/)
 * [fulcro by fulcrologic](https://fulcro.fulcrologic.com/)
 * [Stressed Servers](https://bsless.github.io/stressed-servers/)
+* [Kit Framework](https://kit-clj.github.io/)
 * [stress-server: Stress your Clojure servers until they sweat. Analyze the results](https://github.com/bsless/stress-server)
