@@ -459,6 +459,7 @@ Programming Language
   * [perl의 기본적인 변수(reference, dereference) 다루기](http://codingdosa.com/post/2016-10-04-perl%EC%9D%98-%EA%B8%B0%EB%B3%B8%EC%A0%81%EC%9D%B8-%EB%B3%80%EC%88%98-%EB%8B%A4%EB%A3%A8%EA%B8%B0.html)
   * [소수를 판별하는 정규식](https://johngrib.github.io/archivers/regex-prime)
   * [cloc counts blank lines, comment lines, and physical lines of source code in many programming languages](https://github.com/AlDanial/cloc)
+  * [Top 5 Online Courses to Learn Perl in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/11/top-5-courses-to-learn-perl-programming.html)
 * [Pharo - a pure object-oriented programming language and a powerful environment, focused on simplicity and immediate feedback](https://pharo.org/)
   * [Behold Pharo: The Modern Smalltalk](https://medium.com/smalltalk-talk/behold-pharo-the-modern-smalltalk-38e132c46053)
 * [Pony](https://www.ponylang.io/)
