@@ -861,6 +861,8 @@ TensorFlow
 * [TensorFire: blazing-fast in-browser neural networks](https://tenso.rs/demos/fast-neural-style/)
 * [tensorfollow - 텐서팔로우 - 텐서플로우로 구현된 코드 & 프로젝트들을 따라해보자!](https://github.com/psygrammer/tensorfollow)
 * [TensorForce : TF용 강화학습 라이브러리](https://www.facebook.com/nextobe1/posts/355981208171214)
+* [TensorFlow Agents](https://www.tensorflow.org/agents)
+  * [Introduction to TF Agents and Deep Q Learning (Reinforcement learning with TensorFlow Agents) - YouTube](https://www.youtube.com/watch?v=2nKD6zFQ8xI)
 * [Tensorflow-cl - Run Tensorflow on OpenCL™ 1.2 devices](https://github.com/hughperkins/tf-coriander)
 * TensorFlow FileSystem TFFS
   * [TensorFlow Filesystem — Access Tensors Differently](https://towardsdatascience.com/tensorflow-filesystem-access-tensors-differently-888bce1d68e7)
