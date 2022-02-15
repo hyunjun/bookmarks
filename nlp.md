@@ -1697,6 +1697,7 @@ NLP
 * [An NLP Approach to Mining Online Reviews using Topic Modeling (with Python codes)](https://medium.com/analytics-vidhya/an-nlp-approach-to-mining-online-reviews-using-topic-modeling-with-python-codes-9d766e783003)
 * [Topic Modeling with LSA, PLSA, LDA & lda2Vec](https://medium.com/nanonets/topic-modeling-with-lsa-psla-lda-and-lda2vec-555ff65b0b05)
 * [Topic modeling using Khaiii](https://github.com/rudvlf0413/khaiii-topicmodeling)
+* [토픽 모델링으로 그리게 될 LINER의 미래 - The Highlights - 라이너 팀 블로그](https://blog.getliner.com/%ED%86%A0%ED%94%BD-%EB%AA%A8%EB%8D%B8%EB%A7%81%EC%9C%BC%EB%A1%9C-%EA%B7%B8%EB%A6%AC%EA%B2%8C-%EB%90%A0-liner%EC%9D%98-%EB%AF%B8%EB%9E%98/)
 * [tomotopy - Python package of Tomoto, the Topic Modeling Tool](https://github.com/bab2min/tomotopy)
   * [Python용 토픽 모델링 패키지 - tomotopy 개발](https://bab2min.tistory.com/632)
   * [Python tomotopy로 쉽게 토픽 모델링 실시하기](https://bab2min.tistory.com/633)
