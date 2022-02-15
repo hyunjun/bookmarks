@@ -410,6 +410,7 @@ Java
 * [Top 10 Java Books for Programmers — All time Great](https://medium.com/swlh/top-10-java-books-for-programmers-all-time-great-82b0ee0b831a)
 * [Must-read books to learn Java programming](https://medium.freecodecamp.org/must-read-books-to-learn-java-programming-327a3768ea2f)
 * [10 Best Spring Framework Books for Java Developers | by javinpaul | Javarevisited | Feb, 2021 | Medium](https://medium.com/javarevisited/10-best-spring-framework-books-for-java-developers-360284c37036)
+* [10 Best Books and Courses To Learn Spring Framework in Depth - DZone Java](https://dzone.com/articles/10-best-books-and-courses-to-learn-spring-framewor)
 * [더북(TheBook): 가장 빨리 만나는 자바 8](https://thebook.io/006725/) 1~2장만
 * [더북(TheBook): 스프링 4 코딩 공작소](https://thebook.io/006746/) 1~7장만
 * [더북(TheBook): 자바와 JUnit을 활용한 실용주의 단위 테스트](https://thebook.io/006814/) 1~3장만
@@ -1553,6 +1554,7 @@ Java
 * [**ServletContainer와 SpringContainer는 무엇이 다른가? | by Jin Hyung Park | Oct, 2021 | Medium**](https://medium.com/@jypthemiracle/servletcontainer%EC%99%80-springcontainer%EB%8A%94-%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%8B%A4%EB%A5%B8%EA%B0%80-626d27a80fe5)
 * [Error Response 서버로 전달하기 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/error-response-2/)
 * [Spring 프로젝트를 분석하는 방법](https://devkingdom.tistory.com/313)
+* [Spring으로부터 도메인 모듈을 보호하는 방법. 주의: 도메인 모델과 영속(JPA) 모델을 분리하는 내용에 대해서는… | by Solomon Maeng | Feb, 2022 | Medium](https://msolo021015.medium.com/spring%EC%9C%BC%EB%A1%9C%EB%B6%80%ED%84%B0-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%AA%A8%EB%93%88%EC%9D%84-%EB%B3%B4%ED%98%B8%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-91ffa157ee77)
 * [infoworld-dropwizard](https://github.com/MTyson/infoworld-dropwizard)
   * [드롭위저드 REST API 프레임워크, 예제로 간단히 시작해보기 - ITWorld Korea](https://www.itworld.co.kr/news/219849)
 * jasypt [28. Spring - jasypt로 application.properties(yml) 데이터 암/복호화](https://kim-jong-hyun.tistory.com/50)
