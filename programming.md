@@ -2485,6 +2485,7 @@ Programming
 * [14 Best DevOps Courses to Learn Online in 2022 | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/13-best-courses-to-learn-devops-for-senior-developers-in-2020-a2997ff7c33c)
 * ['eBPF부터 오픈소스까지' 2022년 '관찰가능성' 주요 트렌드 5가지 - ITWorld Korea](https://www.itworld.co.kr/news/223914) observability
 * [Learning DevOps in 2022 | Thomas Stringer](https://trstringer.com/devops-learning-2022/)
+* [Expert Talk: DevOps & Software Architecture • Simon Brown, Dave Farley & Hannes Lowette • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Qv92qaIGbDg)
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
   * GitHub, Jira 등의 도구를 연결해서 데이터를 수집한 뒤 이를 시각화해서 사용할 수 있는 데이터 레이크 및 대시보드
   * [DevLake - DevOps를 위한 오픈소스 Data Lake | GeekNews](https://news.hada.io/topic?id=5442)
