@@ -676,6 +676,7 @@ Apache
 * [APACHE-KAFKA - YouTube](https://www.youtube.com/playlist?list=PLtsTccOGFwUJIIIMbWvHHrp83SrtbpgWU)
 * [Kafka NetworkClient Internals](https://d2.naver.com/helloworld/0853669)
 * [Apache Kafka in the Automotive Industry - YouTube](https://www.youtube.com/watch?v=rBfBFrcO-WU)
+* [Kafka Tutorial - Spring Boot Microservices - YouTube](https://www.youtube.com/watch?v=SqVfCyfCJqw)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
