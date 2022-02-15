@@ -109,6 +109,7 @@ Docker
 * [도커 베스트 프랙티스 (번역)](https://changhoi.github.io/posts/docker/Docker-best-practices/)
 * [Docker Best Practices for Python Developers | TestDriven.io](https://testdriven.io/blog/docker-best-practices/)
 * [Top 8 Docker Best Practices for using Docker in Production - YouTube](https://www.youtube.com/watch?v=8vXoMqWgbQQ)
+* [Top 5 Docker Best Practices - DEV Community](https://dev.to/karanpratapsingh/top-5-docker-best-practices-57oh)
 * ['쓸만한' Docker Image 만들기 - Part 1 Build an Usable Docker Image with Alpine Linux](http://www.sauru.so/blog/build-usable-docker-image-part1/)
 * ['쓸만한' Docker Image 만들기 - Part 2 | 소용환의 생각저장소](https://www.sauru.so/blog/build-usable-docker-image-part2/)
 * [효율적인 도커 이미지 만들기 #1 - 작은 도커 이미지](https://bcho.tistory.com/1356)
@@ -1445,6 +1446,7 @@ Docker
   * [Building a CI Pipeline for a Microservice in Quarkus with CircleCI | by Iain Porter | Sep, 2020 | Level Up Coding](https://levelup.gitconnected.com/building-a-ci-pipeline-for-a-microservice-in-quarkus-with-circleci-11e9b679423f)
   * [Quarkus 2.0 Delivers Continuous Testing, CLI and Supports Minimal JDK 11](https://www.infoq.com/news/2021/08/quarkus-2-0-final-release/)
   * [Quarkus: Get started with Kubernetes-native Java | InfoWorld](https://www.infoworld.com/article/3636228/quarkus-get-started-with-kubernetes-native-java.html)
+  * [Coding in Java with Joy - YouTube](https://www.youtube.com/watch?v=pA1UaFH9mMY)
 * [Rancher - Complete container management platform Deploy and manage Kubernetes with ease](https://rancher.com/)
   * [Purpose built OS for Kubernetes and fully managed by Kubernetes. https://k3os.io ](https://github.com/rancher/k3os)
   * [쿠버네티스 멀티 클라우드/클러스터를 위한 Rancher](https://bcho.tistory.com/1348)
@@ -1456,6 +1458,7 @@ Docker
     * GitOps를 할 때 시크릿은 Git 저장소에 넣을 수가 없으므로 이 부분을 따로 관리해야 하는데 이 부분을 해결하기 위해서 SealedSecret 이용 방법 설명
     * SealedSecret의 인증서로 시크릿 데이터를 암호화해서 Git 저장소에 커밋하면 Kubernetes 클러스터에 적용될 때 SealedSecret 컨트롤러가 암호화된 값을 복호화해서 Kubernetes Secret으로 작성
   * [Managing your sensitive information during GitOps process with Secret Sealed | by Jerome Tarte | Dec, 2021 | Medium](https://medium.com/@jerome_tarte/managing-your-sensitive-information-during-gitops-process-with-secret-sealed-27498c77e2b8)
+  * [Sealed Secrets for Kubernetes. How to encrypt Kubernetes Secret… | by Bharathiraja | CodeX | Jan, 2022 | Medium](https://medium.com/codex/sealed-secrets-for-kubernetes-722d643eb658)
 * [simplenetes: The sns tool is used to manage the full life cycle of your Simplenetes clusters. It integrates with the Simplenetes Podcompiler project podc to compile pods](https://github.com/simplenetes-io/simplenetes)
 * Skaffold
   * [쿠버네티스용 Continuous Deployment 툴인 Skaffold](https://bcho.tistory.com/1342)
