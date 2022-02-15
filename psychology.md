@@ -47,3 +47,4 @@ Psychology
 * [PsychoPy - Psychology software in Python](http://www.psychopy.org/)
 * [미루는 습관은 귀차니즘보단 두려움에서 나온다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/247454)
 * [화 내지 않고 어른스럽게 컴플레인 하는 방법 – 체인지그라운드](http://thechangeground.com/archives/16611)
+* [화내면 지는 게임 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250801)
