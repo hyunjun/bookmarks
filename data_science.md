@@ -303,6 +303,7 @@ Data Science
 * [데이터분석가로서 업무 과정과 경험, 배움을 공유합니다 - 우아한형제들 기술 블로그](https://woowabros.github.io/woowabros/2020/07/01/how_data_analyst_works.html)
 * [당근마켓 팀과 데이터 분석. 프로덕트 데이터 분석가는 어떤 일을 하는가 | by matthew l | 당근마켓 팀블로그 | Aug, 2021 | Medium](https://medium.com/daangn/%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93-%ED%8C%80%EA%B3%BC-%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D-b3d5af6159bc)
 * [제로베이스 데이터 사이언스 스쿨 | 직무 인터뷰 ③ 현직 네이버 계열사 데이터 분석가가 말하는 ‘데이터 분석가의 일’ | zero-base](https://zero-base.co.kr/event/media_ds_school_interview_da)
+* [컬리에서 데이터 분석가로 일한다는 것 - 컬리 기술 블로그](https://helloworld.kurly.com/blog/how-to-work-da/) 요구사항에 대한 이야기가 인상적, 맘에 듦
 * [Becoming A Data Analyst: Step by Step Guide - YouTube](https://www.youtube.com/watch?v=mzE-6l5W4QE)
 * [IT 회사에서 데이터 직군은 데이터를 어떻게 관리할까?](https://www.grabbing.me/IT-90338d3bcad14cc3b7d4bc004d1b13ce)
 * [Data Science Life Cycle 101 for Dummies like Me | by Sangeet Moy Das | Towards Data Science](https://towardsdatascience.com/data-science-life-cycle-101-for-dummies-like-me-e66b47ad8d8f)
