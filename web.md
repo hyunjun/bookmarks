@@ -246,6 +246,7 @@ Web
 * [프론트엔드 개발하고 싶은데 자바스크립트(와 떨거지들)가 싫은 이들에게 - DEV Community](https://dev.to/composite/peuronteuendeu-gaebalhago-sipeunde-jabaseukeuribteuwa-ddeolgeojideulga-silheun-ideulege-2h73) flutter blazor vaadin
 * [프론트엔드 역사와 미래, 업무 분야 ... 그리고 잘하는 프론트엔드 개발자란?](https://velog.io/@teo/frontend)
   * [시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란 | GeekNews](https://news.hada.io/topic?id=5819)
+* [2022년 웹 개발에서 고려해야 할 환경 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/)
 
 # Apache
 * installation
