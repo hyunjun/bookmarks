@@ -167,6 +167,7 @@ Apache
 * [How Netflix uses Druid for Real-time Insights to Ensure a High-Quality Experience](https://netflixtechblog.com/how-netflix-uses-druid-for-real-time-insights-to-ensure-a-high-quality-experience-19e1e8568d06)
 * [What Makes Apache Druid Great for Realtime Analytics?](https://codeburst.io/what-makes-apache-druid-great-for-realtime-analytics-61f817ee5ff6)
 * [입개발 Druid에서 transform 시 알아야 할 팁. | Charsyam's Blog](https://charsyam.wordpress.com/2020/07/01/%ec%9e%85%ea%b0%9c%eb%b0%9c-druid%ec%97%90%ec%84%9c-transform-%ec%8b%9c-%ec%95%8c%ec%95%84%ec%95%bc-%ed%95%a0-%ed%8c%81/)
+* [PyData Triangle January 2022 Meetup - YouTube](https://www.youtube.com/watch?v=3cErc3BBTkg)
 * [metatron.app](https://metatron.app/) Self-service Solution for Big Data Discovery. All-in-one analytics from easy data preparation to fast visualization
   * [github.com/metatron-app](https://github.com/metatron-app)
 
