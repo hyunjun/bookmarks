@@ -1196,6 +1196,7 @@ Programming
 * [Thinking in Events: From Databases to Distributed Collaboration Software - YouTube](https://www.youtube.com/watch?v=ePHpAPacOdI)
 * [My TOP Patterns for Event Driven Architecture - YouTube](https://www.youtube.com/watch?v=P5hq6iWn_p8)
 * [Event Driven hotel reservations with Kafka | by Thắng Đỗ | Altitude | Oct, 2021 | Medium](https://medium.com/altitudehq/event-driven-for-reservation-with-kafka-b1c5ad2927fe)
+* [이벤트 기반의 라이브 스트리밍 추천 시스템 운용하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/01/24/event-driven-recsys.html)
 
 ## Architecture Microservice MSA
 * [**Microservice Architecture**](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)
@@ -1553,6 +1554,10 @@ Programming
 * [Serverless Is Amazing, but Here’s the Big Problem | by Mika Yeap | Feb, 2021 | Better Programming](https://betterprogramming.pub/serverless-is-amazing-but-heres-the-big-problem-9e76b65f23c6)
 * [Serverless Functions for Microservices? Probably Yes, But Stay Flexible to Change](https://www.infoq.com/articles/serverless-microservices-flexibility/)
 * [Delivering BBC Online using Serverless | by Johnathan Ishmael | BBC Design + Engineering | Medium](https://medium.com/bbc-design-engineering/delivering-bbc-online-using-serverless-79d4a9b0da16)
+* [BBC Online: Architecting for Scale with the Cloud and Serverless - YouTube](https://www.youtube.com/watch?v=WE-tkz2tf30)
+  * (실제로는 훨씬 복잡하겠지만) media 회사에서 가장 중요한 건 contents이고 contents maker와 user를 양끝에 두고 필요한 architecture를 추가하면서 설명해주는 게 인상적
+  * 80% of service는 consistent & shared tech, maximised reuse, 20%는 different tech & tool, limited reuse 이야기도 좋았음
+  * 마지막 summary(주요 slide를 작게 보여주며 정리)도 괜찮았음
 * [Why Do We Need Serverless Computing? | by Bryant Jimin Son | Medium](https://bryantson.medium.com/why-do-we-need-serverless-computing-33e93c57ca02)
 * [Serverless Korea - YouTube](https://www.youtube.com/channel/UCI16eh9VClj1HSZWC4_ZMIw/videos)
 * [효율적인 서버 관리를 찾아서, 서버리스(Serverless)](https://blog.ncsoft.com/platform-center-03-20210224/)
@@ -1560,8 +1565,6 @@ Programming
 * [Seven guiding principles of serverless systems](https://www.advosight.com/post/seven-guiding-principles-of-serverless-systems)
 * [Monolith Vs Microservice Vs Serverless — The Real Winner? The Developer](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
 * [Please Serverless, Have an Opinion – The New Stack](https://thenewstack.io/please-serverless-have-an-opinion/)
-* [BBC Online: Architecting for Scale with the Cloud and Serverless - YouTube](https://www.youtube.com/watch?v=WE-tkz2tf30)
-  * (실제로는 훨씬 복잡하겠지만) media 회사에서 가장 중요한 건 contents이고 contents maker와 user를 양끝에 두고 필요한 architecture를 추가하면서 설명해주는 게 인상적
 
 # Atlassian Jira
 * [Jira Software 사용 방법 | 공식 구매자 및 사용자 가이드 | Atlassian](https://www.atlassian.com/ko/software/jira/guides)
