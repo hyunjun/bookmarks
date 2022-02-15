@@ -44,7 +44,6 @@ Go
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
 * [Using Go's interfaces at Clever - more than just easy collaboration](http://engineering.clever.com/2015/04/17/using-gos-interfaces-at-clever---more-than-just-easy-collaboration/)
 * [Go: Understand the Empty Interface](https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72)
-* [map\[string\]interface{} in Go — Bitfield Consulting](https://bitfieldconsulting.com/golang/map-string-interface)
 * [Interfaces Example in Go. If it walks like a duck and it quacks… | by Jerry An | Jan, 2022 | Medium](https://jerryan.medium.com/interfaces-example-in-go-ca34a7ec001d)
 * [java vs. go performance](http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=java&lang2=go)
 * [Java, Go 성능 테스트 비교 글을 보고](https://www.popit.kr/java-go-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90-%EA%B8%80%EC%9D%84-%EB%B3%B4%EA%B3%A0/)
@@ -363,8 +362,10 @@ Go
   * [Generic Programming in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=d6LjYsQE-CQ)
   * [Getting Started with Generics in Golang](https://morioh.com/p/0fc0b39156bf)
 * map
+  * [map\[string\]interface{} in Go — Bitfield Consulting](https://bitfieldconsulting.com/golang/map-string-interface)
   * [How the Go runtime implements maps efficiently (without generics)](https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics)
   * [Assignment to entry in nil map in golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=whstXtUBJ0E)
+  * [Avoid The Three Mistakes When Using a Map in Go | by Jerry An | Feb, 2022 | Level Up Coding](https://levelup.gitconnected.com/avoid-the-three-mistakes-when-using-a-map-in-go-699435db226c)
 * module
   * [Part 1 - Using Go Modules](https://blog.golang.org/using-go-modules)
   * [Part 2 - Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)
@@ -456,6 +457,7 @@ Go
 * [Understanding GO Routine and Channel | by Thinley Norbu | WesionaryTEAM | Jul, 2020 | Medium](https://medium.com/wesionary-team/understanding-go-routine-and-channel-b09d7d60e575)
 * [golang - Go 채팅 서버를 만들면서 goroutine과 channel 이해하기 - jacking75](https://jacking75.github.io/go_chatServer/)
 * [A Beginner's Guide to Golang Channels - YouTube](https://www.youtube.com/watch?v=lqo0Ao_DgFw)
+* [Diving in Async programming tricks with Golang | by Nikhil Chawla | Feb, 2022 | Medium](https://medium.com/@chawlanikhil24/diving-in-async-programming-tricks-with-golang-8b2155f7bcd3)
 * [**Simulating A Real-World System (Coffee Shop) In Go**](https://www.youtube.com/watch?v=jJS6G7irZSc)
 * [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
 * [Concurrency Made Easy (Practical Tips For Effective Concurrency In Go)](https://www.youtube.com/watch?v=DqHb5KBe7qI)
