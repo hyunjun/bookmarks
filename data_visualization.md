@@ -99,6 +99,7 @@ Data Visualization
 * [데이터로 보는 개봉 영화 (1) 장르 | 데이터스토리 | 통합 데이터 지도](https://www.bigdata-map.kr/datastory/new/story_23)
 * [데이터로 보는 개봉 영화 (2) 박스오피스 | 데이터스토리 | 통합 데이터 지도](https://www.bigdata-map.kr/datastory/new/story_24)
 * [VW LAB :: 반응형 유동인구/매출액 Viewer](https://www.vw-lab.com/99) C++
+* [뉴스젤리가 데이터 시각화의 모든 것을 이야기 합니다! - 뉴스젤리 : 데이터 시각화 전문 기업](http://newsjel.ly/archives/newsjelly-report/visualization-report/8182)
 
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
