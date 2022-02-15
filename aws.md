@@ -641,6 +641,7 @@ AWS
 * [10 fun hands-on projects to learn AWS | A Cloud Guru](https://acloudguru.com/blog/engineering/10-fun-hands-on-projects-to-learn-aws)
 * [Top 6 Websites to learn AWS Online for FREE in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/11/top-5-websites-to-learn-aws-online-for.html)
 * [Top 5 Advanced Spring Boot + AWS + Azure, and Cloud Native Development Courses in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/05/top-5-cloud-courses-for-java-and-spring-boot-developers.html)
+* [Top 5 Courses to learn AWS Cloud Formation in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/08/top-5-courses-to-learn-aws-cloudformation-in-depth.html)
 
 # Docker
 * [END-TO-END AUTOMATION FOR DOCKER-BASED PYTHON WITH REDIS ON AWS](http://dchq.co/2/post/2015/09/end-to-end-automation-for-docker-based-python-with-redis-on-aws.html)
