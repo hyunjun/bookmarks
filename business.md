@@ -414,6 +414,7 @@ Business
 * [NBA 3점슈터 커리에게서 배우는 경영학 | 자기계발 | DBR](https://dbr.donga.com/article/view/1303/article_no/9137/ac/a_view) 강점을 키우라는 주제는 알겠지만 너무 커리에 대해 과장 혹은 왜곡
 * [실패를 배움의 기회로 삼는 용기](https://brunch.co.kr/@graypool/221) 딱히 분류하기 힘듦. TDD의 정신?
 * [The Economics of Data Businesses - by Abraham Thomas](https://pivotal.substack.com/p/economics-of-data-biz)
+* [전략 인맥 영업이 어려운 4가지 이유](http://moneyman.kr/archives/2276)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
