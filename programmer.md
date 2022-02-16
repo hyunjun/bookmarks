@@ -39,6 +39,7 @@ Programmer
 * [시니어가 들려주는 "내가 알고 있는 걸 당신도 알게 된다면 - YouTube](https://www.youtube.com/watch?v=MXl_t1vjkyU)
   * [시니어가 들려주는 "내가 알고 있는 걸 당신도 알게 된다면"](https://www.slideshare.net/InfraEngineer/ss-250837891)
 * [Letter to a Junior Engineer](https://tanzu.vmware.com/content/blog/a-letter-to-a-junior-engineer)
+* [비전공 저연차 개발자가 할 수 있는 실수 | zero-base](https://zero-base.co.kr/event/media_insight_contents_30) 비전공 저연차와는 사실 무관. 그냥 일을 잘 하기 위해 필요한 부분
 * [노마드 코더 Nomad Coders](https://www.youtube.com/channel/UCUpJs89fSBXNolQGOYKn0YQ)
 * [꾸준히, 자유롭게, 즐겁게 - 한국 오픈 소스 개발자들 이야기](http://osdi.insightbook.co.kr/)
 * [‘자극이 필요한’ 개발자를 위해 엄선한 국내 포트폴리오 & 개인 블로그 7선](http://harbor.cz/stories/portfolio-me/)
