@@ -2523,7 +2523,12 @@ CVPR2016)
 * [한국어 Multiagent Bidirectional- Coordinated Nets for Learning to Play StarCraft Combat Games](https://www.slideshare.net/KihoSuh/multiagent-bidirectional-coordinated-nets-for-learning-to-play-starcraft-combat-games)
 * [번역 StarCraft2 A New Challenge for Reinforcement Learning 스타크래프트2 강화학습](https://losskatsu.github.io/papertranslation/sc2le/)
 * [SMAC(Starcraft Multi-Agent Challenge) 1 - 환경 소개](https://blog.naver.com/jk96491/222060677009)
-* AlphaCode [Competitive programming with AlphaCode | DeepMind](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
+* AlphaCode
+  * [Competitive programming with AlphaCode | DeepMind](https://deepmind.com/blog/article/Competitive-programming-with-AlphaCode)
+    * 바둑을 두는 AlphaGo를 만들었던 DeepMind에서 프로그램을 작성하는 AlphaCode 공개
+    * 알고리즘 문제 풀이 사이트인 Codeforces와 협력해서 최근 문제 10개를 기준으로 실험한 결과 상위 54% 랭크
+    * 상위에 랭크된 것은 아니지만 의미 있는 결과이고 AlphaCode는 알고리즘 문제를 입력으로 받아서 출력으로 프로그램 작성
+    * 사용된 데이터 세트는 [GitHub CodeContests](https://github.com/deepmind/code_contests) 저장소에 공개되어 있고 [AlphaCode Attention Visualizatio](https://alphacode.deepmind.com/)에서 처리되는 과정 확인 가능
 * [AlphaStar: Mastering the Real-Time Strategy Game StarCraft II](https://deepmind.com/blog/alphastar-mastering-real-time-strategy-game-starcraft-ii/)
   * [AI가 스타크래프트2를 정복한 원리(알파스타)](https://www.youtube.com/watch?v=GciYOMIJ2Eo)
   * [AlphaStar: Mastering the Game of StarCraft II](https://slideslive.com/38916905/alphastar-mastering-the-game-of-starcraft-ii)
