@@ -844,6 +844,10 @@ AWS
 * [IAM Legend - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=SebastianBille.iam-legend)
 * [consoleme: A Central Control Plane for AWS Permissions and Access](https://github.com/Netflix/consoleme)
   * [스타트업에서 AWS IAM 권한 관리 잘 하는법](https://engineering.ab180.co/stories/iam-management-consoleme)
+    * AB180에서 AWS의 권한 관리를 위해 Jira로 권한 신청을 하도록 했지만 권한 부여에도 시간이 오래 걸리고 어떤 권한을 요청해야 하는지 모르는 등의 문제
+    * Netflix가 만든 ConsoleMe를 도입
+    * Console의 웹 콘솔에서 롤을 선택해서 바로 권한을 신청, 정책 JSON에 대한 유효성 검사도 해주고 있어서 실수 방지, 리뷰하고 승인만 하면 클릭만으로 권한 부여
+    * ConsoleMe가 STS를 통한 임시 권한도 발급해 주기 때문에 안전하게 AWS를 이용 가능
 * [iamlive: Generate a basic IAM policy from AWS client-side monitoring (CSM)](https://github.com/iann0036/iamlive)
 * [infograph-iam.pdf](https://static.tpschmidt.com/infograph-iam.pdf)
 * [cloudsploit - Open-source AWS security scanning Misconfigurations, open security groups, permissive IAM roles. Scan for these threats and more for free](https://cloudsploit.com/)
@@ -1444,6 +1448,11 @@ AWS
 * [AWS VPC 대역(CIDR)에 대한 라우팅 구체화 설정(Longest Match)](https://zigispace.net/1138)
 * [이론 AWS VPC 상세히 알아보기 - YouTube](https://www.youtube.com/watch?v=ZISUSL431bY)
 * [입 개발 AWS VPC Peering | Charsyam's Blog](https://charsyam.wordpress.com/2021/12/30/%ec%9e%85-%ea%b0%9c%eb%b0%9c-aws-vpc-peering/)
+* [VPC Flow logs는 네트워크 문제 분석에 활용할 수 있을까?](https://alden-kang.tistory.com/45)
+  * AWS에서 네트워크 문제를 분석하기 위해 VPC의 Flow logs 사용 방법 설명
+  * Flow logs는 VPC 전체 네트워크뿐만 아니라 특정 서브넷이나 ENI의 트래픽만도 수집해서 볼 수 있음
+  * 기본 형식에는 tcp-flags가 없어서 커스텀 포맷을 사용하면 이 값도 수집 가능
+  * 네트워크 문제 분석이 쉽지 않은 상황에서 유용한 기능
 
 # VPN
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
