@@ -415,6 +415,9 @@ ElasticSearch - Lucene
 * [동의어로 Elasticsearch의 성능 강화 | Elastic Blog](https://www.elastic.co/kr/blog/boosting-the-power-of-elasticsearch-with-synonyms)
 * [seunjeon-elasticsearch-7: Forked repo of seunjeon for Elasticsearch 7 or newer](https://github.com/likejazz/seunjeon-elasticsearch-7)
 
+# Elasticsearch 8.x
+* [Elastic 8.0 설치하기 - Jongmin's Lifelog](http://kimjmin.net/2022/02/2022-02-elastic-8-install/)
+
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)
 * [aws 기반의 ELK](https://www.youtube.com/playlist?list=PLDMPhWe3CfpZqZ91BUo5udpdgXB2MWxy7)
