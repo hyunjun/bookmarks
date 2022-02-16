@@ -499,6 +499,8 @@ Linux
   * [10 Curl Commands You Should Know](https://medium.com/100-days-of-linux/10-curl-commands-that-you-should-know-ee3d032eb351)
   * [**Curl Cookbook**](https://catonmat.net/cookbooks/curl)
     * [Announcing the Curl Cookbook](https://catonmat.net/announcing-curl-cookbook)
+  * [curl dash-dash-json | daniel.haxx.se](https://daniel.haxx.se/blog/2022/02/02/curl-dash-dash-json/)
+    * curl에 JSON을 보낼 수 있는 --json 옵션 추가. 이 옵션은 curl 7.82.0부터 사용 가능, 2022년 3월 초 릴리스 예정
   * [Detecting the use of "curl | bash" server side | Application Security](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
   * [**자주 사용하는 curl 명령어 옵션과 예제**](https://kibua20.tistory.com/148) chrome에서 curl 명령 확인
   * [“I could rewrite curl” | daniel.haxx.se](https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/)
