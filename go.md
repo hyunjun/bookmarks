@@ -607,6 +607,7 @@ Go
     * [gRPC with SSL/TLS](https://github.com/nicewook/grpc-ssltls)
   * [**프로덕션 환경에서 사용하는 golang과 gRPC**](https://blog.banksalad.com/tech/production-ready-grpc-in-golang/)
   * [Implement gRPC client in Golang - YouTube](https://www.youtube.com/watch?v=Xjy_RdSd6XU)
+  * [Notification Microservice Project With gRPC](https://www.tech3code.com/2022/02/microservice-project-with-grpc-golang.html)
 * [grequests - A Go "clone" of the great and famous Requests library](https://github.com/levigross/grequests)
 * [hangulize.org](https://hangulize.org)
   * [한글라이즈 재제작기](https://www.slideshare.net/sublee/ss-113085659)
