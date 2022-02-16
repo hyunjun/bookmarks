@@ -138,6 +138,7 @@ Programming Language
 * [The spectra of programming languages | by Hong Jiang | Ruminations on Programming | Medium](https://medium.com/really-learn-programming/rlp-02-the-spectra-of-programming-languages-1292042a91e1)
 * [Green Vs. Brown Programming Languages - Earthly Blog](https://earthly.dev/blog/brown-green-language/)
 * [Memory safety for the Internet's most critical infrastructure](https://www.memorysafety.org/)
+* [Best Programming & Scripting Languages For DevOps Engineers](https://devopscube.com/programming-languages-devops/)
 * [약속](http://yaksok.org/)
   * [모눈 : 약속을 위한 격자형 비동기 프로그래밍 틀](http://monoon.io/)
 * [007 - Small experimental language with a license to macro](https://github.com/masak/007)
