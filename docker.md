@@ -1118,7 +1118,6 @@ Docker
 * [Two reasons Kubernetes is so complex • Buttondown](https://buttondown.email/nelhage/archive/two-reasons-kubernetes-is-so-complex/)
 * [Despite Google’s 'Autopilot,' Kubernetes is Still Hard - Container Journal](https://containerjournal.com/features/despite-googles-autopilot-kubernetes-is-still-hard/)
 * [Container부터 다시 살펴보는 Kubernetes Pod 동작원리 - Speaker Deck](https://speakerdeck.com/devinjeon/containerbuteo-dasi-salpyeoboneun-kubernetes-pod-dongjag-weonri)
-* [MacOS에 Kubeflow 설치하는 쉬운 방법. 그 교육의 일환으로 Kubeflow 튜토리얼을 정리 중입니다. 개인… | by Chris Song | Apr, 2021 | Medium](https://chris-loves-ai.medium.com/macos%EC%97%90-kubeflow-%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EC%89%AC%EC%9A%B4-%EB%B0%A9%EB%B2%95-728f8fc95c6d)
 * [The Evolution of Distributed Systems on Kubernetes](https://www.infoq.com/articles/distributed-systems-kubernetes/)
   * Kubernetes를 이용한 마이크로 서비스 구현
   * 최신 분산 애플리케이션은 클라우드 네이티브 플랫폼이 제공해야 하는 라이프사이클, 네트워킹, 바인딩 및 상태 관리에 대한 요구사항을 가지고 있음
@@ -1370,6 +1369,8 @@ Docker
   * [Kubeflow 파이프라인 운용하기](https://medium.com/daangn/kubeflow-%ED%8C%8C%EC%9D%B4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%9A%B4%EC%9A%A9%ED%95%98%EA%B8%B0-6c6d7bc98c30)
   * [조대협의 블로그 :: Kubeflow pipeline 과 TFX 메모](https://bcho.tistory.com/1378)
   * [실시간 추천을 위한 kubeflow 환경 구축 :: GS Retail Engineering](https://gsretail.tistory.com/12)
+  * [MacOS에 Kubeflow 설치하는 쉬운 방법. 그 교육의 일환으로 Kubeflow 튜토리얼을 정리 중입니다. 개인… | by Chris Song | Apr, 2021 | Medium](https://chris-loves-ai.medium.com/macos%EC%97%90-kubeflow-%EC%84%A4%EC%B9%98%ED%95%98%EB%8A%94-%EC%89%AC%EC%9A%B4-%EB%B0%A9%EB%B2%95-728f8fc95c6d)
+  * [Build your first ML pipeline in Kubeflow](https://analyticsindiamag.com/build-your-first-ml-pipeline-in-kubeflow/)
   * [krsh: A declarative KubeFlow Management Tool](https://github.com/riiid/krsh)
     * Kubeflow Pipeline을 선언적으로 관리하기 위한 툴킷
     * Riiid에서는 Kubeflow Pipeline으로 머신러닝 파이프라인을 관리. Kubeflow Pipeline은 Kubernetes 위에서 파이프라인을 관리하는 머신러닝 분야의 Airflow 역할
