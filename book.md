@@ -145,12 +145,9 @@ Book
 * [안녕, 나의 노무현](https://blog.naver.com/books777/221527903529)
   * 2022.02.13
 * (NOT YET) [가족끼리 왜 이래](https://post.naver.com/viewer/postView.nhn?volumeNo=17152793&memberNo=5235722) 판결문으로 본 우리 시대 혈연 해체와 가족 위기
-* (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
 * (NOT YET) [공부머리 독서법 - 최승필](https://greemate.tistory.com/entry/공부머리-독서법-최승필)
-* (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
 * (NOT YET) [말센스 / We Need to Talk](https://www.thestartupbible.com/2020/01/we-need-to-talk.html)
 * (NOT YET) [나중에 온 이사람에게도](https://hyunseob.github.io/2020/03/07/%EB%82%98%EC%A4%91%EC%97%90-%EC%98%A8-%EC%9D%B4%EC%82%AC%EB%9E%8C%EC%97%90%EA%B2%8C%EB%8F%84/) 경제학
-* (NOT YET) [컨테이저스: 전략적 입소문 와튼스쿨 마케팅학 최고 권위자가 전하는 소셜 마케팅 전략](http://jhrogue.blogspot.com/2020/03/blog-post.html)
 * (NOT YET) [나는 연구하는 회사원입니다](https://brunch.co.kr/@lunarshore/373)
 * (NOT YET) [사람은 어떻게 생각하고 배우고 기억하는가](https://jhrogue.blogspot.com/2020/06/blog-post.html?spref=tw)
 * (NOT YET) [실질적으로 도움을 많이 주는 자기계발서 4권](https://brunch.co.kr/@dryjshin/367)
@@ -285,6 +282,12 @@ Book
 
 # Blog
 * [blog.naver.com/emilydress](http://blog.naver.com/emilydress)
+
+# Business
+* (NOT YET) [플랫폼 제국의 숨은 DNA](https://www.popit.kr/플랫폼-제국의-숨은-dna)
+* (NOT YET) [2019년, 꼭 읽어봐야할 비즈니스 원서 5권 — 업플라이 #Upfly](https://www.upfly.me/blog/english-business-books-recommened/)
+* (NOT YET) [컨테이저스: 전략적 입소문 와튼스쿨 마케팅학 최고 권위자가 전하는 소셜 마케팅 전략](http://jhrogue.blogspot.com/2020/03/blog-post.html)
+* (NOT YET) [아이디어 불패의 법칙](https://jhrogue.blogspot.com/2022/02/blog-post.html)
 
 # Higashino Keigo
 * [미스터리 제왕의 과학 에세이?… 히가시노 게이고 ‘사이언스?’ | 서울신문](https://www.seoul.co.kr/news/newsView.php?id=20200121500074)
