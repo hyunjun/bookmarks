@@ -1881,6 +1881,7 @@ Java
 * [자바를 배우자 매거진](https://brunch.co.kr/magazine/javalearning)
 * [자바 공화국](https://jojoldu.tistory.com/609)
 * [Javarevisited - YouTube](https://www.youtube.com/javarevisitedTech)
+* [Java and Java Projects Complete Course for Beginners | Learn Java Programming Language from Scratch - YouTube](https://www.youtube.com/watch?v=CMmexQ0iwrs)
 
 # Web
 * [Spark - A tiny Sinatra inspired framework for creating web applications in Java 8 with minimal effort](http://sparkjava.com)
