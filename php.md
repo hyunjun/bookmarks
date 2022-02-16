@@ -104,6 +104,7 @@ PHP
 * phan
   * [PHP 함수 타입 선언과 정적분석도구 phan 활용하기](http://www.haruair.com/blog/3962)
 * [phel-lang: Phel is a functional programming language that compiles to PHP. It is a dialect of Lisp inspired by Clojure and Janet](https://github.com/phel-lang/phel-lang)
+* [PHP Chess](https://php-chess.readthedocs.io/)
 * [PHPSandbox - Online Code Sandbox for PHP](https://phpsandbox.io/)
 * [PHP TensorFlow binding](https://github.com/dstogov/php-tensorflow)
 * [Plates - Native PHP Templates](http://platesphp.com/)
