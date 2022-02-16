@@ -125,6 +125,12 @@ Network
 * [Improving DNS Privacy with Oblivious DoH in 1.1.1.1](https://blog.cloudflare.com/oblivious-dns/)
 * [DNS 서버란? /etc/hosts 파일이란? - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/os-kernel/etc-host-dns/)
 * [Why might you run your own DNS server?](https://jvns.ca/blog/2022/01/05/why-might-you-run-your-own-dns-server-/)
+* [A toy DNS resolver](https://jvns.ca/blog/2022/02/01/a-dns-resolver-in-80-lines-of-go/)
+  * 도메인의 IP를 알아내는 DNS 질의의 동작 방식을 설명하고 Go로 20라인의 간단한 DNS 리졸버를 구현해서 동작 방식을 이해하기 쉽게 설명
+  * 초반에 만화로 그린 DNS 질의 과정만 봐도 이해하기 용이
+  * 이미 알고 있는 루트 네임 서버에 질의한 뒤 알려주는 네임 서버를 따라가면서 계속 질의해서 결국 IP를 알아내게 되는데
+  * dig 명령어를 사용할 때처럼 DNS 질의를 할 때 나오는 Question, Answer, Authority, Additional 섹션에 대해서도 이해하기 쉽게 설명
+  * Question은 질의하는 부분이고 Answer는 해당 도메인의 IP 주소가 담겨있고 이 IP를 찾을 수 있는 네임 서버는 Authority에, 이 네임 서버들의 IP 주소는 Additional에 존재 
 * [New tool: Mess with DNS!](https://jvns.ca/blog/2021/12/15/mess-with-dns/)
 * [MaraDNS - a small open-source DNS server](https://maradns.samiam.org/)
   * [MaraDNS - 서비스 테스트에 사용할 수 있는 간단한 Windows 용 DNS 서비스 | GeekNews](https://news.hada.io/topic?id=4001)
