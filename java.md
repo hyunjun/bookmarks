@@ -681,6 +681,7 @@ Java
 * [Java8 Stream의 parallel 처리](http://www.popit.kr/java8-stream%EC%9D%98-parallel-%EC%B2%98%EB%A6%AC/)
 * [Parallel and Asynchronous Programming with Streams and CompletableFuture with Venkat Subramaniam](https://www.youtube.com/watch?v=0hQvWIdwnw4)
 * [자바에서 스트림이란 무엇이고 어떻게 코드를 간결하고 가독성 높게 만들수 있는지 설명합니다. - YouTube](https://www.youtube.com/watch?v=x8-p7Hcxpr8)
+* [Stream API In Java 8 | Making Java Easy To Learn](https://javatechonline.com/stream-api-in-java-8/)
 * stream.Collectors [Teeing, a hidden gem in the Java API](https://blog.frankel.ch/teeing-java-api/)
 
 # Java9
