@@ -1517,6 +1517,8 @@ Javascript
   * [Introducing Dataflow, a self-hosted Observable Notebook Editor / Alex Garcia / Observable](https://observablehq.com/@asg017/introducing-dataflow)
 * day.js [Moment.js를 Day.js로 대체하기](https://john015.github.io/moment-js%EB%A5%BC-day-js%EB%A1%9C-%EB%8C%80%EC%B2%B4%ED%95%98%EA%B8%B0)
 * [Delivery and Shipping Tracking Service https://tracker.delivery/guide ](https://github.com/shlee322/delivery-tracker)
+* [Design Systems Demystified](https://www.designsystem.tools/)
+  * 디자인 시스템의 특징인 디자인 언어 시스템, 컴포넌트 라이브러리, 디자인 리소스, 문서화 시스템, 코드 인프라스트럭처, 거버넌스 시스템으로 정리하고 각 특징에 대한 설명과 관련 도구를 정리한 사이트
 * [detect-airpods: 🔊🔇 Detect AirPods on the Browser](https://github.com/junhoyeo/detect-airpods)
 * discord.js [How to create a music bot using Discord.js](https://medium.freecodecamp.org/how-to-create-a-music-bot-using-discord-js-4436f5f3f0f8)
 * [DOMPurify - a DOM-only, super-fast, uber-tolerant XSS sanitizer for HTML, MathML and SVG. DOMPurify works with a secure default, but offers a lot of configurability and hooks. Demo:](https://github.com/cure53/DOMPurify)
