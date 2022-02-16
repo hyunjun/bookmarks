@@ -877,9 +877,9 @@ Python
   * [The definitive guide to solve the infamous Python exception “ModuleNotFoundError”](http://www.daveoncode.com/2017/03/07/how-to-solve-python-modulenotfound-no-module-named-import-error/)
   * [같은 이름을 가진 root 패키지의 하위 모듈/패키지 접근](http://mcchae.egloos.com/11269816)
   * [Top to down, left to right (Surprise talk) - James Powell](https://www.youtube.com/watch?v=BRn6UCw35og) import, scope 이외의 내용도 많지만 분류가 애매해서
-  * [importify: Import and export your configuration like a boss](https://github.com/litcoderr/importify)
   * [파이썬 상대경로 import 에러 ImportError: attempted relative import with no known parent package](https://myjorney.tistory.com/52)
   * [Start Python #4 Backend Program 만들기 – library import - Kowana's coding](https://www.kowanas.com/coding/2020/12/27/library/)
+  * [importify: Import and export your configuration like a boss](https://github.com/litcoderr/importify)
   * [reorder_python_imports: Rewrites source to reorder python imports](https://github.com/asottile/reorder_python_imports)
     * [A Tool for automatically reordering python imports](https://pythonawesome.com/a-tool-for-automatically-reordering-python-imports/)
 * `__init__.py`
@@ -3426,6 +3426,11 @@ Python
 * [htsint: a Python library for sequencing pipelines that combines data through gene set generation](http://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-015-0729-3)
 * [Hy](http://docs.hylang.org/)
   * [Live-coding Blender with Hy](http://mccormick.cx/news/entries/live-coding-blender-with-hy)
+* [Hydra | Hydra](https://hydra.cc/)
+  * [초점 페이스북, 머신러닝 등 개발 단순화하는 오픈소스 프레임 워크 공개 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=14387)
+  * [복잡한 애플리케이션을 우아하게 구성하기위한 프레임 워크 — Hydra Of Python translate V0.9.0 0.9.0 documentation](https://pjt3591oo.github.io/hydra_translate/build/html/index.html)
+  * [2021-config](https://github.com/ArjanCodes/2021-config)
+    * [Configuration Management For Data Science Made Easy With Hydra - YouTube](https://www.youtube.com/watch?v=tEsPyYnzt8s)
 * [Ibis: Scaling the Python Data Experience](http://www.ibis-project.org/)
 * [Informer (TGInformer) - a bot library that allows you to masquerade as multiple REAL users on telegram and spy on 500+ Telegram channels per account](https://github.com/paulpierre/informer)
 * [Instagram-API-python](https://github.com/LevPasha/Instagram-API-python)
