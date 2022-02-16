@@ -1196,6 +1196,9 @@ Machine Learning
 * [PlaidML.pdf at main · ConstantPark/DL_Compiler](https://github.com/ConstantPark/DL_Compiler/blob/main/PlaidML.pdf)
 * [Predict - see who will convert, before they do](https://mixpanel.com/blog/2015/11/17/introducing-predict-see-who-will-convert-before-they-do)
   * [Mixpanel launches predict; what does this predict tool mean?](http://effinamazing.com/blog/mixpanel-launches-predict-what-does-this-predict-tool-mean/?fb_ref=f7aea373b9854983bcdbceea33d6d25c-Hackernews)
+* QLattice
+  * [The QLattice: A new machine learning model you didn’t know you needed | by Valdemar Stentoft-Hansen | Abzu | Medium](https://medium.com/abzuai/the-qlattice-a-new-machine-learning-model-you-didnt-know-you-needed-c2e037878cd)
+  * [Abzu’s QLattice, A New Explainable AI • Jaan Kasak • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=EaWNXfyld-w)
 * [rc-data - Question answering dataset featured in "Teaching Machines to Read and Comprehend](https://github.com/deepmind/rc-data/)
 * [replicate: Version control for machine learning](https://github.com/replicate/replicate)
   * [Replicate – Version control for machine learning](https://replicate.ai/)
