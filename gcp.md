@@ -179,6 +179,8 @@ Google Cloud Platform GCP
 * [구글 GKE 네트워크 기본 보안](https://bcho.tistory.com/1358)
 * [GKE CNI Performance benchmark. 목차 : | by 이성우 | Cloud Villains | Jun, 2021 | Medium](https://medium.com/ctc-mzc/gke-cni-performance-benchmark-2021-06-10-5ff0e6feabe5)
   * Kubernetes에서 사용할 수 있는 CNI 중 Kubenet, Calico, Cilium을 Idle 상태, 트래픽을 줄 때의 상황 등에서 네트워크 성능, CPU/램의 사용량 등을 비교
+* [Review Part 1: cost-optimization and autopilot in Google Kubernetes Engine (GKE) - YouTube](https://www.youtube.com/watch?v=F9ajyBxgOqQ)
+* [Review Part 2: when do you run autopilot rather than standard(w/ cost) - YouTube](https://www.youtube.com/watch?v=EqMSBwBPE9I)
 
 # Library
 * squid [GCP에서 Squid를 이용한 Proxy 서버 설정 방법](https://kibua20.tistory.com/129)
