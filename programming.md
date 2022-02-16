@@ -408,6 +408,10 @@ Programming
 * [Project Zero: This shouldn't have happened: A vulnerability postmortem](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
 * [AWS US-EAST-1 Outage: Postmortem and Lessons Learned](https://www.infoq.com/news/2021/12/aws-outage-postmortem/)
 * [2022년 1월 100% 할인 이벤트 장애 부검](https://tech.inflab.com/202201-event-postmortem/)
+  * 인프런에서 연초 이벤트를 진행하면서 겪은 장애 상황을 정리한 글
+  * Node.js로 작성된 모노리식 서버를 AWS ECS Fargate로 서버를 운영하고 Aurora PostgreSQL을 사용 중
+  * 연초 이벤트로 트래픽이 증가하면서 며칠에 걸쳐서 큰 장애
+  * 원인을 알고 보면 쉽지만, 장애는 급한 상황이고 원인 파악에도 시간이 걸리는 경우가 많고 어떤 서비스든 겪을 수 있기 때문에 이렇게 각 상황에 가설을 세우고 원인을 찾아서 해결해 나가는 과정이 정리된 글 소중
 * [Roblox Return to Service 10/28-10/31 2021 - Roblox Blog](https://blog.roblox.com/2022/01/roblox-return-to-service-10-28-10-31-2021/)
   * [Roblox의 작년 73시간 장애 포스트모템 | GeekNews](https://news.hada.io/topic?id=5860)
   * Roblox에서 작년 1월 28일에 72시간 동안 서비스가 안 된 장애의 원인과 상황을 정리한 포스트모템
@@ -2341,6 +2345,7 @@ Programming
 * [Mozilla HTTP Observatory | GeekNews](https://news.hada.io/topic?id=5052)
 * [Bitcoin and Cryptocurrency Technologies](https://bitcoinbook.cs.princeton.edu/)
 * [SHA-1 'Fully and Practically Broken' By New Collision | Decipher](https://duo.com/decipher/sha-1-fully-and-practically-broken-by-new-collision)
+* [Sha256 Algorithm Explained](https://sha256algorithm.com/) visualization of sha algorithm
 * [A Blueprint for Securing Software Development - DevOps.com](https://devops.com/a-blueprint-for-securing-software-development/)
 * [돈 들이지 않고 사이버보안 기술을 쌓는 8가지 방법 - ITWorld Korea](https://www.itworld.co.kr/news/212589)
 * [“클라우드와 제로 트러스트가 답이다” 소프트웨어 보안을 유지하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/223289)
@@ -3140,6 +3145,7 @@ Programming
   * [기술 뉴스 #189 : 22-01-02 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1576)
   * [기술 뉴스 #190 : 22-01-17 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1578)
   * [기술 뉴스 #191 : 22-02-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1579)
+  * [기술 뉴스 #192 : 22-02-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1581)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
