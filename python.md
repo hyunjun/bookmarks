@@ -2930,6 +2930,7 @@ Python
 * [awesome-jupyter: A curated list of awesome Jupyter projects, libraries and resources](https://github.com/markusschanta/awesome-jupyter)
 * [Binder - Turn a Git repo into a collection of interactive notebooks](https://gke.mybinder.org)
   * [Sarah Gibson - Sharing Reproducible Python Environments with Binder - YouTube](https://www.youtube.com/watch?v=wTVMHallSSA)
+* [Converter_py-ipynb-md: Converter : Python file(.py) , Jupyter Notebook file (.ipynb), Markdown file(.md)](https://github.com/Finfra/Converter_py-ipynb-md)
 * [drawdata: Draw datasets from within Jupyter](https://github.com/koaning/drawdata)
   * [calmcode - learn code calmly](https://calmcode.io/labs/drawdata.html)
   * 선을 그리거나, 점을 찍으면 2차원 데이터 생성. 데이터는 csv나 json 포맷 데이터셋으로 다운 가능
