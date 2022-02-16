@@ -204,6 +204,8 @@ Git
 * [깃허브(GitHub)로 취업하기](https://sujinlee.me/professional-github/)
 * [Git Workflow Diagram](https://happygrammer.github.io/guide/git-workflow-diagram/)
 * [Include diagrams in your Markdown files with Mermaid | The GitHub Blog](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
+  * 텍스트 기반으로 다이어그램을 그릴 수 있는 Mermaid를 GitHub에서 지원
+  * 이슈나 Pull Request 등 GitHub의 마크다운을 작성할 수 있는 곳에서 간단히 다이어그램 포함 가능
 * [What’s wrong with Git? A conceptual design analysis | the morning paper](https://blog.acolyer.org/2016/10/24/whats-wrong-with-git-a-conceptual-design-analysis/)
 * [Git as a NoSql database](https://www.kenneth-truyers.net/2016/10/13/git-nosql-database/)
 * [Scaling monorepo maintenance | The GitHub Blog](https://github.blog/2021-04-29-scaling-monorepo-maintenance/)
