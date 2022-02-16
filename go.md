@@ -570,6 +570,9 @@ Go
 * golangci-lint [Introduction | golangci-lint](https://golangci-lint.run/)
   * [A guide to linting Go programs](https://freshman.tech/linting-golang/)
   * [golangci-lint를 이용하여 코딩 스타일을 효과적으로 관리하기 | by Lani | 당근마켓 팀블로그 | Feb, 2022 | Medium](https://medium.com/daangn/golangci-lint%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-%EC%BD%94%EB%94%A9-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84-%ED%9A%A8%EA%B3%BC%EC%A0%81%EC%9C%BC%EB%A1%9C-%EA%B4%80%EB%A6%AC%ED%95%98%EA%B8%B0-4bd0e24e1bbd)
+    * golang을 쓰면서 팀 내의 코드 컨벤션을 합의하고 이를 자동으로 검사하기 위해 golangci-lint 선택
+    * GitHub Actions 잘 지원, 로컬 개발에서도 사용 용이하기 때문에 이 도구를 선택
+    * CI 적용하자 이전에 발견하지 못했던 컨벤션 누락도 탐지 가능
 * [golongpoll - golang HTTP longpolling library, making web pub-sub easy!](https://github.com/jcuga/golongpoll)
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
 * gomobile [Mobile · golang/go Wiki](https://github.com/golang/go/wiki/Mobile)
