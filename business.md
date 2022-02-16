@@ -124,7 +124,6 @@ Business
 * [11. 대기업 Aaron과 실리콘밸리 Bryan](https://brunch.co.kr/@svillustrated/12)
 * [공과 사 그 애매한 경계](https://brunch.co.kr/@younghakjang/22)
 * [오래 가려면 후배와 함께 가라](http://ppss.kr/archives/49070)
-* [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
 * [팀원들이 너무 미워보여요, 어떡하죠?](http://outstanding.kr/weneedpeace20170517/)
   * 외부의 적보다 내부의 적이 더 무섭습니다
   * 스스로 심리상태가 과도하다는 걸 인지하세요
@@ -146,23 +145,6 @@ Business
     * 문제를 푸는 것은 다르다. Step이 있고, 차근차근 해 나가야 한다. 아무리 복잡한 현상도 '풀어나가는 것'이라는 생각을 하게 한다
   * 3. Team의 가치; 전지전능한 개인은 없다(X) 팀이 해결할 수 있다(O)
     * 모두가 약점이 있기 때문에 맡은 일을 최선을 다 해 해낼 때, 그 성과가 비로소 빛날 수 있다
-* [피드백에 관한 상상 인터뷰](https://brunch.co.kr/@younghakjang/63)
-* [FB101 피드백 개론](https://brunch.co.kr/@younghakjang/61)
-* [피드백에 멍들다](http://www.hbrkorea.com/magazine/article/view/2_1/page/3/article_no/1322)
-* [피드백은 섬세한 기술이다](https://ppss.kr/archives/169177)
-* [솔직한 피드백으로 좋은 팀워크를 만들 수 있을까? - 파워풀을 읽고](https://evan-moon.github.io/2019/12/04/about-honestly-feedback/)
-* [관계를 망치지 않고, 똑 부러지게 피드백 주는 법](https://ppss.kr/archives/209501)
-* [**피드백은 어떻게 해야 할까?**](https://brunch.co.kr/@younghakjang/111) 매우 좋은 글. 실리콘밸리의 팀장들과 피드포워드라는 책에서 발췌 및 의견 추가
-* [**의견의 무게**](https://www.andrewahn.co/silicon-valley/opinion-suggestion-mandate/)
-* [피드백은 'A급 팀원'에게도 필요하다](https://brunch.co.kr/@1312capo/47)
-* [피드백, 효과적으로 하는 2가지 방법 | flex 공식 블로그](https://flex.team/blog/2021/04/27/better-feedback/)
-* [피드백에 멍들다 | 리더십 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/8_1/article_no/1322)
-* [Open Work를 향한 작은 노력들 : 조직의 작은 변화 만들기 – tech.kakao.com](https://tech.kakao.com/2021/07/05/openwork-cuddy/) 심리적 안정감을 높이고 점진적인 변화를 만들어 나가는 팀 문화 feedback
-* [기분 상하지 않게 협업하는 피드백 방법 ‘SBIT’ (f. 황성현 대표) - YouTube](https://www.youtube.com/watch?v=HtC9APOIvkw)
-* [피드백의 힘, 어떻게 만들 것인가?](https://brunch.co.kr/@graypool/115)
-* [받아들이기 어려운 피드백에 대처하는 자세](https://camp.lemonbase.com/1on1/feedback)
-* [피드백을 주고받을 때 유용한 세 가지 질문](https://camp.lemonbase.com/feedback/ssc)
-* [솔직한 대화](https://www.thestartupbible.com/2022/01/healthy-relationships.html) feedback
 * [**직무 노트 쓰기**](https://brunch.co.kr/@lunarshore/365)
 * [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
 * [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
@@ -566,11 +548,9 @@ Business
   * 보통 사람들은 자신의 선택이 더 나은 이유를 찾음
   * 상대방의 의견이 더 나은 이유를 찾은 후 합리적이라면 자신의 의견을 바로 수용하는 사람이 신뢰받음
 * [똑똑한 얼간이](http://www.andrewahn.co/silicon-valley/brilliant-jerk/) 인터뷰 때 자주 하는 이야기인데 반가운 마음에 기록
-* [회사에서 언프로페셔널 하다는 피드백을 들었다](https://brunch.co.kr/@svillustrated/53) 명확한 communication
 * [흔한 프로그래머의 작명에 관한 사뭇 진지한 이야기](https://ppss.kr/archives/189212) 서로 의견이 충돌할 때 해결하는 예
 * [Five important lessons from four years as a software developer](https://medium.freecodecamp.org/five-important-lessons-from-four-years-as-a-software-developer-9b367f256226)
 * [여기, 문제가 있다](https://brunch.co.kr/@hyungsukkim/124) 나도 어렸을 때라면 동의했겠지만 지금은 이렇게 생각하지 않음
-* [나는 블루홀에서 무엇을 배웠나 | 딥백수](https://dl4ab.github.io/2020/09/17/lesson-learned-at-bluehole/) 의도의 중요성 + 피드백
 * [내 의견이 맞는데 다른 분들이 몰라준다](https://brunch.co.kr/@cleancode/42)
 * [존경받는 리더들이 가진 커뮤니케이션 패턴 8가지 | ㅍㅍㅅㅅ](https://ppss.kr/archives/217174)
 * [존경받는 리더들이 가진 커뮤니케이션 패턴 8가지 : 네이버블로그](https://blog.naver.com/wishket/221881394270)
@@ -587,6 +567,29 @@ Business
   * 추가. 일정을 짧은 단위로 잡는 게 좋은 이유: delay가 되더라도 빨리 알고 plan B를 확보할 가능성이 높아짐. 내가 story point를 8로 제한하려는 이유와 비슷함
 * [현장과 의사소통을 돕는 협업도구 두레이](https://brunch.co.kr/@graypool/262)
 * [소통 능력이 뛰어난 사람들의 5가지 조건 – 체인지그라운드](http://thechangeground.com/archives/20685)
+
+## Conversation, Communication Feedback
+* [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
+* [피드백에 관한 상상 인터뷰](https://brunch.co.kr/@younghakjang/63)
+* [FB101 피드백 개론](https://brunch.co.kr/@younghakjang/61)
+* [피드백에 멍들다](http://www.hbrkorea.com/magazine/article/view/2_1/page/3/article_no/1322)
+* [피드백은 섬세한 기술이다](https://ppss.kr/archives/169177)
+* [솔직한 피드백으로 좋은 팀워크를 만들 수 있을까? - 파워풀을 읽고](https://evan-moon.github.io/2019/12/04/about-honestly-feedback/)
+* [관계를 망치지 않고, 똑 부러지게 피드백 주는 법](https://ppss.kr/archives/209501)
+* [**피드백은 어떻게 해야 할까?**](https://brunch.co.kr/@younghakjang/111) 매우 좋은 글. 실리콘밸리의 팀장들과 피드포워드라는 책에서 발췌 및 의견 추가
+* [**의견의 무게**](https://www.andrewahn.co/silicon-valley/opinion-suggestion-mandate/)
+* [피드백은 'A급 팀원'에게도 필요하다](https://brunch.co.kr/@1312capo/47)
+* [피드백, 효과적으로 하는 2가지 방법 | flex 공식 블로그](https://flex.team/blog/2021/04/27/better-feedback/)
+* [피드백에 멍들다 | 리더십 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/8_1/article_no/1322)
+* [Open Work를 향한 작은 노력들 : 조직의 작은 변화 만들기 – tech.kakao.com](https://tech.kakao.com/2021/07/05/openwork-cuddy/) 심리적 안정감을 높이고 점진적인 변화를 만들어 나가는 팀 문화 feedback
+* [기분 상하지 않게 협업하는 피드백 방법 ‘SBIT’ (f. 황성현 대표) - YouTube](https://www.youtube.com/watch?v=HtC9APOIvkw)
+* [피드백의 힘, 어떻게 만들 것인가?](https://brunch.co.kr/@graypool/115)
+* [받아들이기 어려운 피드백에 대처하는 자세](https://camp.lemonbase.com/1on1/feedback)
+* [피드백을 주고받을 때 유용한 세 가지 질문](https://camp.lemonbase.com/feedback/ssc)
+* [솔직한 대화](https://www.thestartupbible.com/2022/01/healthy-relationships.html) feedback
+* [회사에서 언프로페셔널 하다는 피드백을 들었다](https://brunch.co.kr/@svillustrated/53) 명확한 communication
+* [나는 블루홀에서 무엇을 배웠나 | 딥백수](https://dl4ab.github.io/2020/09/17/lesson-learned-at-bluehole/) 의도의 중요성 + 피드백
+* [피드백, 효과적으로 하는 2가지 방법](https://brunch.co.kr/@flexteam/74) 4A, AAT
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
