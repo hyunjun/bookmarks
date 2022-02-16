@@ -473,6 +473,7 @@ Business
 * [“3년 치 이력서를 미리 썼더니 마법이 일어났다.”(f. 황성현 대표) - YouTube](https://www.youtube.com/watch?v=9unwtrZQDuA)
 * [대한민국 양궁 대표팀이 정상을 유지하는 비결에서 찾은 성과 관리의 핵심](https://camp.lemonbase.com/column/performance) 황성현님
 * [다면평가 시 리뷰를 꼭 써주고 싶은 동료가 있다면](https://camp.lemonbase.com/review/nomination)
+* [다면평가, 나무가 아닌 숲을 보라](https://camp.lemonbase.com/column/360-degreefeedback)
 * [리뷰가 성장으로 이어지려면](https://camp.lemonbase.com/review/pdp)
 * [리뷰 작성 시 주의해야 할 세 가지 함정](https://camp.lemonbase.com/review/trap)
 * [여름에도 리뷰를 해야 하는 이유 - 지금을 놓치면 12월에 후회하실지 모릅니다](https://camp.lemonbase.com/review/mid-year)
