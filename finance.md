@@ -17,6 +17,7 @@ Finance
 * [강화학습이 실제로 자산운용에 도움을 줄 수 있을까?. DQN을 사용하여 유의미한 포트폴리오 투자전략을 세우고자 했던 논문 | by hyunbin | CURG | Jul, 2020 | Medium](https://medium.com/curg/%EA%B0%95%ED%99%94%ED%95%99%EC%8A%B5%EC%9D%B4-%EC%8B%A4%EC%A0%9C%EB%A1%9C-%EC%9E%90%EC%82%B0%EC%9A%B4%EC%9A%A9%EC%97%90-%EB%8F%84%EC%9B%80%EC%9D%84-%EC%A4%84-%EC%88%98-%EC%9E%88%EC%9D%84%EA%B9%8C-d00ad419810)
 * [코스피 지수 예측모델 개발 1편](https://brunch.co.kr/@chris-song/13)
 * [인공지능(AI) 삼성전자 주가예측 프로그램](http://blog.daum.net/kimgyunghyun/2533)
+* [MODUCON 2021 주린이를 위한 기업분석 근데 이제 AI까지 곁들인 AI +X4 - YouTube](https://www.youtube.com/watch?v=UunsENLIP1w)
 * [주식시장 리버스 엔지니어링 하기](http://www.popit.kr/%EC%A3%BC%EC%8B%9D%EC%8B%9C%EC%9E%A5-%EB%A6%AC%EB%B2%84%EC%8A%A4-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EB%A7%81-%ED%95%98%EA%B8%B0/)
 * [Fighting financial crimes and money laundering with graph data](http://www.analyticbridge.datasciencecentral.com/profiles/blogs/fighting-financial-crimes-and-money-laundering-with-graph-data)
 * [ML + 주식 삽질기](https://docs.google.com/presentation/d/1GqpoxDd-AiBJ_FkhqUC8J-7iOijDZqJv7DVucRNFnlk/edit#slide=id.p)
