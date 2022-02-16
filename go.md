@@ -732,6 +732,7 @@ Go
   * [Building Microservices in Go: Repository Pattern - DEV Community](https://dev.to/mariocarrion/building-microservices-in-go-repository-pattern-5pa)
   * [Building Microservices in Go: Services in Domain Driven Design - DEV Community](https://dev.to/mariocarrion/building-microservices-in-go-services-in-domain-driven-design-3oic)
   * [Building Microservices in Go: REST APIs: Implementing and Dealing with errors - DEV Community](https://dev.to/mariocarrion/building-microservices-in-go-rest-apis-implementing-and-dealing-with-errors-5gpc)
+* [Go-doudou Microservice Framework Getting Started 01-Hello World - YouTube](https://www.youtube.com/watch?v=6XiJkzUPo28)
 * [Go kit - A toolkit for microservices](http://gokit.io/)
   * [gokit-examples](https://github.com/shijuvar/gokit-examples)
   * [Go Microservices with Go kit: Introduction](https://medium.com/@shijuvar/go-microservices-with-go-kit-introduction-43a757398183)
@@ -832,6 +833,7 @@ Go
 * [Golang Tutorial for Beginners | Full Go Course - YouTube](https://www.youtube.com/watch?v=yyUHQIec83I)
 * [Why learn Golang Programming Language in 2022? | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/what-is-go-or-golang-programming-language-why-learn-go-in-2020-1cbf0afc71db)
 * [Go language for Beginners - YouTube](https://www.youtube.com/playlist?list=PLxhFuGxg9JY_XpGUSGVPcDsC0GaqqL4JC)
+* [Top 5 Free Courses to learn Golang for Beginners in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/12/5-free-courses-to-learn-golang-for.html)
 
 # Web
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
