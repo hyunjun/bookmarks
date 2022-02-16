@@ -1469,7 +1469,19 @@ Machine Learning
   * [sklearn의 train_test_split() 사용법](https://blog.naver.com/siniphia/221396370872)
   * [from sklearn import \*](https://towardsdatascience.com/from-sklearn-import-478c711dafa1)
   * [Grid search for parameter tuning. Learn this easy and simple technique to… | by Magdalena Konkiewicz | Oct, 2020 | Towards Data Science](https://towardsdatascience.com/grid-search-for-parameter-tunning-3c6ff94e7a25)
-  * [feature_engine: Feature engineering package with sklearn like functionality](https://github.com/solegalli/feature_engine)
+  * [Feature engineering package with sklearn like functionality](https://github.com/solegalli/feature_engine)
+    * [Feature-engine](https://feature-engine.readthedocs.io/)
+    * 장점
+      * 사용 방법 자체는 sklearn과 같이 fit(), transform()으로 사용 가능
+      * 캐글에서 사용하는 다양한 테크닉이 포함되어 있어 Pandas에서 Scratch로 구현하기 어려운 분들에게 도움
+      * sckit-learn에서는 data transform을 하기 위해
+        * as-is: pd.Series로 전달하여 np.array로 결과를 반환하기에 다시 table에 합치는 과정이 일부 번거로움
+        * to-be: 이 라이브러리는 pd.DataFrame을 전달, pd.DataFrame을 반환해주어 번거로움 감소
+    * 아쉬운 점
+      * 파라미터명이 기존 라이브러리와 매칭되지 않는 부분
+      * 기존 pandas는 coloums 또는 cols로 열을 표현한다면 이 라이브러리에서는 variables라는 명칭 사용
+      * Feature Creation에서 combination할때 커스텀 함수 기능 부재. 현재는 사칙연산 정도만 제공
+      * time-series data / text data  feature engineering이 추가된다면 확실히 범용적인 툴이 될 수 있을 것 같다는 기대
 * [slr - Simple linear regression with confidence intervals on parameters and prediction](https://github.com/maka89/slr)
 * [smalltrain](https://github.com/geek-guild/smalltrain)
 * [smile - Statistical Machine Intelligence & Learning Engine http://haifengl.github.io/smile ](https://github.com/haifengl/smile)
