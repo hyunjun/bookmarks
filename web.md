@@ -247,6 +247,9 @@ Web
 * [프론트엔드 역사와 미래, 업무 분야 ... 그리고 잘하는 프론트엔드 개발자란?](https://velog.io/@teo/frontend)
   * [시니어 개발자가 말하는, 프론트엔드 업무와 잘하는 프론트엔드 개발자란 | GeekNews](https://news.hada.io/topic?id=5819)
 * [2022년 웹 개발에서 고려해야 할 환경 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/the-baseline-for-web-development-in-2022/)
+* [Building an adaptive favicon](https://web.dev/building-an-adaptive-favicon/)
+  * 최신 브라우저가 파비콘에 SVG도 지원함에 따라 <link rel="icon" href="/favicon.svg" type="image/svg+xml">처럼 SVG 파비콘을 연결하고 prefers-color-scheme 미디어 쿼리를 이용해서 사용자의 테마에 따라 다크/라이트 파비콘을 보여주도록 적용하는 방법 설명
+  * 현재 파비콘에서 미디어쿼리는 파이어폭스와 크로미움 기반 브라우저만 지원
 
 # Apache
 * installation
@@ -557,6 +560,15 @@ Web
   * 기존 개념이나 방법과 충돌하기도 하고 달라지기도 했기 때문에 CSS의 역사를 통해서 어떻게 발전해 왔는지를 정리한 글
   * CSS가 만들어진 90년대부터 현재 최신 트랜드까지 깔끔하게 잘 정리되어 있고 관련 링크도 정리해 주어서 더 관심 있다면 자세히 보면서 흐름을 이해 가능
 * [Responsive Personal Portfolio Website Using HTML CSS And JavaScript - YouTube](https://www.youtube.com/watch?v=Uu8MJhtbQnY)
+* [CSS { In Real Life } | Aspect Ratio is Great](https://css-irl.info/aspect-ratio-is-great/)
+  * 선호하는 비율을 지정하는 aspect-ratio가 대부분의 브라우저에서 지원되어 이제 쓸 수 있고 장점이 많다는 이야기
+  * 이전에는 요소의 비율을 맞추려면 padding hack을 써서 비율을 강제로 설정
+  * aspect-ratio를 사용하면 쉽게 원하는 비율에 맞출 수 있고 object-fit과도 잘 어울려서 원하는 이미지를 원하는 비율로 쉽게 보여줄 수 있음
+* [벨로그에 다크 모드 적용하기](https://velog.io/@velopert/velog-dark-mode)
+  * 국내에서 많이 사용하는 블로그 플랫폼인 Velog에 다크 모드 적용 과정
+  * 처음에는 Styled Components의 ThemeProvider를 고려했으나 SSR의 경우 처음 사용자의 테마를 알 수 없는 문제가 있어서 CSS Variable을 알아보기 시작
+  * prefers-color-scheme 미디어 쿼리를 이용하면 사용자의 컬러스킴도 알 수 있어서 처음부터 사용자에게 맞는 모드로 보여줄 수 있어서 CSS Variable 선택
+  * 다크모드를 준비하기 위해서 각 상황에 맞는 색상 팔레트를 준비하고 이를 코드로 변환해서 다크 모드를 지원
 * [Buttons Generator - Marko Denic - Web Developer](https://markodenic.com/tools/buttons-generator/)
 * [:placeholder-shown](https://css-tricks.com/almanac/selectors/p/placeholder-shown/)
 * [tachyons.io](https://tachyons.io/)
@@ -779,6 +791,10 @@ Web
   * [HAProxy and Consul with DNS for Service Discovery - HAProxy Technologies](https://www.haproxy.com/blog/haproxy-and-consul-with-dns-for-service-discovery/)
   * [Load Balancing Strategies for HashiCorp Consul](https://www.hashicorp.com/blog/load-balancing-strategies-for-consul/)
   * [Hashicorp certified consul associate exam preparation guide | by Jeewan Sooriyaarachchi | Medium](https://jeewansooriyaarachchi.medium.com/hashicorp-certified-consul-associate-exam-preparation-guide-b31bd4aab195)
+  * [Consul Streaming: What’s behind it? | by Pierre Souchay | Criteo R&D Blog | Medium](https://medium.com/criteo-engineering/consul-streaming-whats-behind-it-6f44f77a5175)
+    * Consul에 새로 추가된 스트리밍 기능 설명
+    * 기존에는 에이전트가 서버에 요청을 보내고 대기, 변경사항이 생겼을 때 모든 결과를 보내다 보니 수만 대의 인스턴스에서 부하가 심해서 새 인스턴스를 추가할 때마다 성능 우려
+    * 스트리밍 기능은 해당 서비스의 변경사항만 gRPC로 보내기 때문에 성능과 밴드위스에서 이득
 * [imgproxy: Fast and secure standalone server for resizing and converting remote images](https://github.com/imgproxy/imgproxy)
   * [빠르고 안전한 오픈소스 이미지 프록시 서버 | GeekNews](https://news.hada.io/topic?id=3949)
 * Keepalived
@@ -1210,6 +1226,15 @@ Web
   * [아마존 프라임 비디오, WebAssembly 사용하여 8000개의 디바이스 타입 지원 | GeekNews](https://news.hada.io/topic?id=5858)
 * [WASI: a New Kind of System Interface](https://www.infoq.com/presentations/wasi-system-interface/)
 * [WebAssembly Techniques to Speed Up Matrix Multiplication by 120x](https://jott.live/markdown/mm_wasm)
+* [Pay attention to WebAssembly | Harshal Sheth](https://harshal.sheth.io/2022/01/31/webassembly.html)
+  * WebAssembly에 주목해야 하는 이유 정리
+    * Wasm의 바이너리 형식은 표준화되어 Wasm 런타임만 있으면 실행 가능
+    * C, C++, Rust, Go, Python, Ruby 등의 언어를 Wasm으로 컴파일 가능
+    * 콜드 시작 시간은 빠르고 네이티브에 가까운 성능
+    * 보안에도 좋음
+  * 그래서 앞으로 JavaScript의 속도를 높이고 프로그래밍 언어 간의 상호운용성을 높일 수 있고 애플리케이션이 Wasm으로 플러그인 시스템을 제공 가능
+  * WebAssembly를 이용한 새로운 애플리케이션 아키텍처가 생길 것이고 Docker와 통합되고 서버리스/엣지 프레임워크의 표준을 이끌 수 있다고 예측
+  * 모든 언어에서 그렇듯 Wasm에도 WAPM이라는 패키지 매니저가 있지만 거의 운영되지 않으므로 이 부분도 기회
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Emscripten: An LLVM-to-WebAssembly Compiler](https://github.com/emscripten-core/emscripten)
   * [Hello web assembly](https://jybaek.tistory.com/782)
