@@ -2482,7 +2482,7 @@ Programming
 * [인터뷰 카카오 공용준님의 "DevOps: on going pursuit of effectiveness" - YouTube](https://www.youtube.com/watch?v=0wvcWwFnZD8)
   * [카카오 공용준님의 "DevOps: on going pursuit of effectiveness"](https://www.slideshare.net/jrogue/devops-on-going-pursuit-of-effectiveness)
 * [LINE 광고 서버 개발 팀의 DevOps 문화 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-ads-devops-culture/)
-* [How To Become A DevOps Engineer In 2021: A Comprehensive Guide](https://devopscube.com/become-devops-engineer)
+* [How To Become A DevOps Engineer In 2022: A Comprehensive Guide](https://devopscube.com/become-devops-engineer)
 * [A new era of DevOps, powered by machine learning](https://www.allthingsdistributed.com/2021/05/devops-powered-by-machine-learning.html)
 * [Ultimate Guide to Becoming a DevOps Engineer | Contino | Global Transformation Consultancy](https://www.contino.io/insights/devops-engineer-guide)
 * [Operations is not Developer IT](https://matduggan.com/operations-is-not-developer-it/)
