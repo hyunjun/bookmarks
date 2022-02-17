@@ -724,6 +724,7 @@ AWS
 * [Spot Instance pricing history](https://jybaek.tistory.com/917)
 * [How to port your OS to EC2](https://www.daemonology.net/blog/2018-07-14-port-OS-to-EC2.html)
 * [Project: Host Website in AWS EC2 Server | Install PHP, Apache from user data | Create AMI backup - YouTube](https://www.youtube.com/watch?v=CiK8cuH2CQg)
+* [AWS로 클라우드 시작하기: ②EC2 | 요즘IT](https://yozm.wishket.com/magazine/detail/1328/)
 
 # ECS Elastic Container Service
 * [A beginner’s guide to Amazon’s Elastic Container Service](https://medium.freecodecamp.org/amazon-ecs-terms-and-architecture-807d8c4960fd)
@@ -1455,6 +1456,7 @@ AWS
   * Flow logs는 VPC 전체 네트워크뿐만 아니라 특정 서브넷이나 ENI의 트래픽만도 수집해서 볼 수 있음
   * 기본 형식에는 tcp-flags가 없어서 커스텀 포맷을 사용하면 이 값도 수집 가능
   * 네트워크 문제 분석이 쉽지 않은 상황에서 유용한 기능
+* [AWS로 클라우드 시작하기: ①VPC | 요즘IT](https://yozm.wishket.com/magazine/detail/1318/)
 
 # VPN
 * [한 달 만원으로 스타트업 VPN 구축하기 (SoftEther VPN, OpenLDAP, FreeRadius)](https://medium.com/chequer/%ED%95%9C%EB%8B%AC-%EB%A7%8C%EC%9B%90%EC%9C%BC%EB%A1%9C-vpn-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0-softether-vpn-openldap-freeradius-9c629f923eb0)
