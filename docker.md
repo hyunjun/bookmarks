@@ -58,6 +58,7 @@ Docker
 * [Docker Tutorial for Beginners Full Course in 3 Hours - YouTube](https://www.youtube.com/watch?v=3c-iBn73dDE)
 * [A crash course on Docker — Learn to swim with the big fish](https://blog.sourcerer.io/a-crash-course-on-docker-learn-to-swim-with-the-big-fish-6ff25e8958b0)
 * [Docker - YouTube](https://www.youtube.com/playlist?list=PLVx1qovxj-amqyqHceAhkcsopzi4PFcKc)
+* [Docker - YouTube](https://www.youtube.com/playlist?list=PL3_YUnRN3UhjcTj7y6RQzCfq2gmQVEd7t)
 * [Beginner's Series to: Dev Containers - YouTube](https://www.youtube.com/playlist?list=PLj6YeMhvp2S5G_X6ZyMc8gfXPMFPg3O31)
 * [docker tutorial.md at master · pandora0667/TILD](https://github.com/pandora0667/TILD/blob/master/Docker/docker%20tutorial.md)
 * [Docker Tutorial For Beginners | Introduction To Docker | Invensis Learning - YouTube](https://www.youtube.com/watch?v=7vriS2zd0lM)
