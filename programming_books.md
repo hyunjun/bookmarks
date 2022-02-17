@@ -764,6 +764,8 @@ Programming Books
   * ★★★★☆
   * [머신러닝 파워드 애플리케이션 — 초보자에게 전체적인 관점에서 application을 볼 수 있게 해주는 책 | by Jun | Oct, 2021 | Medium](https://nymets.medium.com/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%ED%8C%8C%EC%9B%8C%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%B4%88%EB%B3%B4%EC%9E%90%EC%97%90%EA%B2%8C-%EC%A0%84%EC%B2%B4%EC%A0%81%EC%9D%B8-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-application%EC%9D%84-%EB%B3%BC-%EC%88%98-%EC%9E%88%EA%B2%8C-%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%B1%85-8f9526c11131)
   * [머신러닝 파워드 애플리케이션 - 초보자에게 전체적인 관점에서 application을 볼 수 있게 해주는 책 -](https://jh4hj.tistory.com/entry/%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%ED%8C%8C%EC%9B%8C%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%B4%88%EB%B3%B4%EC%9E%90%EC%97%90%EA%B2%8C-%EC%A0%84%EC%B2%B4%EC%A0%81%EC%9D%B8-%EA%B4%80%EC%A0%90%EC%97%90%EC%84%9C-application%EC%9D%84-%EB%B3%BC-%EC%88%98-%EC%9E%88%EA%B2%8C-%ED%95%B4%EC%A3%BC%EB%8A%94-%EC%B1%85)
+* [기계 학습을 다시 묻다](https://cse.snu.ac.kr/node/52625)
+  * ★★★★☆ 별 하나가 빠진 건 제대로 이해하기엔 내 수준이 낮아서일뿐. 매우 좋은 책이며, 당장 실무에 도움이 되진 않지만 큰 그림을 보는 데는 도움이 될 책
 * (NOT YET) 머신 러닝 워크북
   * 한라 005.76-벨74ㅁ
 * (NOT YET) 머신 러닝 인 자바 (자바 기반 머신 러닝)
@@ -802,7 +804,6 @@ Programming Books
 * (NOT YET) [선형대수와 통계학으로 배우는 머신러닝 with 파이썬](https://bjpublic.tistory.com/392)
 * (NOT YET) [이보다 더 쉬울 수 없는 자바 머신러닝 with Weka](https://bjpublic.tistory.com/393)
 * (NOT YET) [신호와 소음](https://jhrogue.blogspot.com/2021/07/blog-post_14.html)
-* (NOT YET) [기계 학습을 다시 묻다](https://cse.snu.ac.kr/node/52625)
 * (NOT YET) [코드로 배우는 인공지능 - 개발자의, 개발자에 의한, 개발자를 위한 AI 도서](https://jpub.tistory.com/1214)
 * (NOT YET) [파이썬 머신러닝 실무테크닉 100 - 머신러닝 실무를 지원하는 100가지 무기!](https://jpub.tistory.com/1218)
 * (NOT YET) [생활코딩 머신러닝 with 파이썬 텐서플로(실습편) | 위키북스](https://wikibook.co.kr/tf/)
