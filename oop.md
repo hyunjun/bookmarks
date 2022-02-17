@@ -127,6 +127,7 @@
 * [Factory Design Pattern (C#)](https://blog.usejournal.com/factory-design-pattern-c-a330955b9ed6)
 * [Factory Pattern Without Switch and If-Else | The Startup](https://medium.com/swlh/factory-pattern-without-switch-this-is-how-it-should-be-done-cd895e356f44)
 * [C# Design Patterns | Design Pattern Tutorial For Beginners | C# Programming Tutorial | Simplilearn - YouTube](https://www.youtube.com/watch?v=OP1tBC6dBW0)
+* [Design Patterns Explained with Food - YouTube](https://www.youtube.com/playlist?list=PL3_YUnRN3Uhi-__AdJ3yWgDB95_GYeX3x)
 
 # Class
 * [Classes are Expressions (and why that matters)](http://raganwald.com/2015/06/04/classes-are-expressions.html)
