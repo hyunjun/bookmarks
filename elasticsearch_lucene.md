@@ -320,6 +320,7 @@ ElasticSearch - Lucene
 * [Hot-Warm Architecture in Elasticsearch 1/n | CODER SITE for developers](https://codersite.dev/hot-warm-architecture-elasticsearch/)
 * [Searchable Snapshot & Frozen Tier - YouTube](https://www.youtube.com/watch?v=1B2EyhoTR54)
 * [중고거래 검색 랭킹 개선하기: 카테고리 잘 활용해보기. 다양한 서비스에서 보유하고 있는 상품과 정보를 분류하고 사용자에게 좋은… | by Jukyoung LEE | 당근마켓 팀블로그 | Jan, 2022 | Medium](https://medium.com/daangn/%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98-%EA%B2%80%EC%83%89-%EB%9E%AD%ED%82%B9-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-%EC%B9%B4%ED%85%8C%EA%B3%A0%EB%A6%AC-%EC%9E%98-%ED%99%9C%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0-7eb44c1abb84)
+* [Hot-Warm Architecture in Elasticsearch 1/n | CODER SITE for developers](https://codersite.dev/hot-warm-architecture-elasticsearch/)
 
 # Book
 * [Elastic 가이드 북](https://esbook.kimjmin.net)
