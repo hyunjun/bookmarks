@@ -756,6 +756,7 @@ Data Science
   * 콘텐츠 기반 필터링은 소비 이력이 없어도 아이템 정보만 있으면 추천할 수 있다는 장점이 있지만, 소비 이력 데이터가 충분하다면 협업 필터링보다 추천 성능이 밀린다고 함
 * [Recsperts - Recommender Systems Experts](https://www.recsperts.com/)
 * [컨텐츠 기반 필터링 구축기: MiniLM, ScaNN 그리고 TFServing - The Highlights - 라이너 팀 블로그](https://blog.getliner.com/%EC%BB%A8%ED%85%90%EC%B8%A0-%EA%B8%B0%EB%B0%98-%ED%95%84%ED%84%B0%EB%A7%81-%EA%B5%AC%EC%B6%95%EA%B8%B0-minilm-scann-%EA%B7%B8%EB%A6%AC%EA%B3%A0-tfserving/)
+* [Insider Tips for Building Personalized Recommender Systems - YouTube](https://www.youtube.com/watch?v=suA0oNILI2E)
 * [Autoencoders | Machine Learning for Recommender Systems - YouTube](https://www.youtube.com/watch?v=rddMo8bLQL0)
 
 ## Recommendation Python
