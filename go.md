@@ -672,7 +672,6 @@ Go
 * [Roshi - a large-scale CRDT set implementation for timestamped events](https://github.com/soundcloud/roshi)
 * [rudder-server - Privacy and Security focused Segment-alternative, in Golang and React](https://github.com/rudderlabs/rudder-server/)
 * RxGo [Announcing RxGo v2](https://medium.com/@teivah/introducing-rxgo-v2-e7e369faa99a)
-* [scrape - A simple, higher level interface for Go web scraping](https://github.com/yhat/scrape)
 * [script - Making it easy to write shell-like scripts in Go](https://github.com/bitfield/script)
 * [Seaweed-FS is a simple and highly scalable distributed file system](https://github.com/chrislusf/seaweedfs)
 * [serve2d - A protocol detecting server, based off the serve2 library](https://github.com/joushou/serve2d)
