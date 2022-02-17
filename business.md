@@ -146,12 +146,6 @@ Business
   * 3. Team의 가치; 전지전능한 개인은 없다(X) 팀이 해결할 수 있다(O)
     * 모두가 약점이 있기 때문에 맡은 일을 최선을 다 해 해낼 때, 그 성과가 비로소 빛날 수 있다
 * [**직무 노트 쓰기**](https://brunch.co.kr/@lunarshore/365)
-* [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
-* [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
-* [Stop Being Micromanaged. Recognize the signs and manage up | by Vinita | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/stop-being-micromanaged-d341c3838ab3)
-* [‘마이크로매니징’을 피하면서 직원들을 돕는 방법 | 인사조직 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/2_1/article_no/1661)
-* [마이크로 매니징이 100% 실패하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241992)
-* [리멤버 대표가 망할 것 같다고 생각한 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/remember20220118) micromanagement의 실패
 * [개발자에서 관리자까지: 기술력을 유지해라](http://jinson.tistory.com/285)
 * [개발자가 관리자로 전환을 고려할 때 알아야 할 7가지 - ITWorld Korea](https://www.itworld.co.kr/news/177139)
 * [협상을 배워야 지지 않는다](http://ppss.kr/archives/49075)
@@ -862,6 +856,15 @@ Business
 * [PM/PO가 되어서는 안되는 사람](https://brunch.co.kr/@hyungsukkim/121)
 * [시작은 어디서부터 인가?](https://brunch.co.kr/@tilltue/68) 여러가지 책 list 참고할만함
 * [매니저에게 제대로 질문하는 법](https://brunch.co.kr/@236project/29)
+
+## Manager Management micromanagement
+* [조직을 말려 죽이는 micromanager](https://brunch.co.kr/@younghakjang/17)
+* [Micromanage가 필요할 때](https://brunch.co.kr/@younghakjang/41)
+* [Stop Being Micromanaged. Recognize the signs and manage up | by Vinita | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/stop-being-micromanaged-d341c3838ab3)
+* [‘마이크로매니징’을 피하면서 직원들을 돕는 방법 | 인사조직 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/2_1/article_no/1661)
+* [마이크로 매니징이 100% 실패하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241992)
+* [리멤버 대표가 망할 것 같다고 생각한 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/remember20220118) micromanagement의 실패
+* [‘마이크로 매니징은 해법 아니다’ 개발자 관리 방안 7가지 - CIO Korea](https://www.ciokorea.com/news/225789)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
