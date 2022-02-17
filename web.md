@@ -325,6 +325,10 @@ Web
   * [Basic Statistics of Common Crawl Monthly Archives](https://github.com/commoncrawl/cc-crawl-statistics)
 * [Greenflare - 오픈소스 로컬 SEO 크롤러 | GeekNews](https://news.hada.io/topic?id=3365)
 
+## Crawler Go
+* [How to scrape websites with Golang & Goquery](https://morioh.com/p/6f0868d7328f)
+* [scrape - A simple, higher level interface for Go web scraping](https://github.com/yhat/scrape)
+
 ## Crawler Javascript
 * [동영상 목록 페이지에서 데이터 추출하기 - YouTube](https://www.youtube.com/watch?v=sSKdw5PlRyg)
 * [NIGHTMARE - A high-level browser automation library](http://www.nightmarejs.org)
@@ -1235,6 +1239,7 @@ Web
   * 그래서 앞으로 JavaScript의 속도를 높이고 프로그래밍 언어 간의 상호운용성을 높일 수 있고 애플리케이션이 Wasm으로 플러그인 시스템을 제공 가능
   * WebAssembly를 이용한 새로운 애플리케이션 아키텍처가 생길 것이고 Docker와 통합되고 서버리스/엣지 프레임워크의 표준을 이끌 수 있다고 예측
   * 모든 언어에서 그렇듯 Wasm에도 WAPM이라는 패키지 매니저가 있지만 거의 운영되지 않으므로 이 부분도 기회
+* [JavaScript vs WebAssembly easy benchmark](https://takahirox.github.io/WebAssembly-benchmark/)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Emscripten: An LLVM-to-WebAssembly Compiler](https://github.com/emscripten-core/emscripten)
   * [Hello web assembly](https://jybaek.tistory.com/782)
