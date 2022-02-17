@@ -1763,6 +1763,7 @@ Java
 * [SpringBoot의 Validation을 사용 해 보자 | woolog - 개발자 울이](https://www.woolog.dev/backend/spring-boot/spring-boot-validation/)
 * [Spring Boot 2.4 이상 환경에서 Spring Cloud AWS 적용하기 (feat. AWS Parameter Store)](https://kim-jong-hyun.tistory.com/120)
 * [How to make RESTful Web Services using Spring Boot and Java - Example Tutorial](https://javarevisited.blogspot.com/2022/02/spring-boot-restful-web-service-example-tutorial.html)
+* [Building REST APIs with Spring Boot - YouTube](https://www.youtube.com/watch?v=q_RLfOB7axQ)
 * [spring-batch-querydsl: 스프링배치와 QuerydslPagingItemReader](https://github.com/jojoldu/spring-batch-querydsl)
 * [testing-spring-boot-applications-masterclass: 🍃 Everything You Need to Know About Testing Spring Boot Applications](https://github.com/rieckpil/testing-spring-boot-applications-masterclass)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
