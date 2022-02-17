@@ -164,6 +164,10 @@
 * [단위 테스트 작성에 대한 모범 사례 - .NET | Microsoft Docs](https://docs.microsoft.com/ko-kr/dotnet/core/testing/unit-testing-best-practices)
 * [playwright-dotnet: .NET version of the Playwright testing and automation library](https://github.com/microsoft/playwright-dotnet)
 
+# Tutorial
+* [.NET - YouTube](https://www.youtube.com/playlist?list=PL3_YUnRN3UhhjwKo-fPdhppiL8i8P8Z_o)
+* [Refactoring - YouTube](https://www.youtube.com/playlist?list=PL3_YUnRN3Uhh8H3Zw2M6KDdP3aAlbfT8j)
+
 # Visual Studio
 * [Visual Studio](https://www.visualstudio.com/)
 * [code.visualstudio.com](https://code.visualstudio.com)
