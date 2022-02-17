@@ -759,6 +759,7 @@ Javascript
 * [Quines in JavaScript: Self-replicating Code that Prints Itself - YouTube](https://www.youtube.com/watch?v=eY8-55tmAMk)
 * [Building a GIF search Engine in just 10 mins - DEV Community](https://dev.to/kumarkalyan/building-a-gif-search-engine-in-just-10-mins-lbd)
 * [브라우저싱크 Error: ENOSPC: System limit for number of file watchers reached 에러 대처 | 웹으로 말하기](https://mytory.net/2022/01/27/error-enospc-system-limit-for-number-of-file-watchers-reached.html)
+* [How To Code Viral Wordle Game In JavaScript](https://www.codecademy.com/resources/blog/how-to-code-wordle-game-in-javascript/)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -3294,6 +3295,7 @@ Javascript
 * [OKKY 2월 세미나 이정환(winterlood) 님의 'React 가 처음인 당신' - YouTube](https://www.youtube.com/watch?v=mfzRXKUQCvY)
 * [번역 What You Should Definitely Look Out For In React In 2022 | by Jisu Yuk | Feb, 2022 | Medium](https://medium.com/@yujso66/%EB%B2%88%EC%97%AD-what-you-should-definitely-look-out-for-in-react-in-2022-babd8e02b9a1)
 * [리액트 프레임워크. 10분 완벽 정리! - YouTube](https://www.youtube.com/watch?v=RP8nvTeurbQ) next.js gatsby remix
+* [불변 객체와 immer | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220217)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
