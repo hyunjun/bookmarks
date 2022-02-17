@@ -817,6 +817,7 @@ AWS
 * [elastic beanstalk Amazon Linux2 python 환경 마이그레이션 후기 | by Juneseok Byun | Hard Boiled Smith Stories | May, 2021 | Medium](https://medium.com/hbsmith/elastic-beanstalk-amazon-linux2-python-%ED%99%98%EA%B2%BD-%EB%A7%88%EC%9D%B4%EA%B7%B8%EB%A0%88%EC%9D%B4%EC%85%98-%ED%9B%84%EA%B8%B0-96fe21370d84)
 * [AWS Elastic Beanstalk Amazon Linux2 환경에서의 로그 커스터마이징 (Amazon Cloudwatch & EB Web Console) | by Juneseok Byun | Hard Boiled Smith Stories | May, 2021 | Medium](https://medium.com/hbsmith/aws-elastic-beanstalk-amazon-linux2-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C%EC%9D%98-%EB%A1%9C%EA%B7%B8-%EC%BB%A4%EC%8A%A4%ED%84%B0%EB%A7%88%EC%9D%B4%EC%A7%95-amazon-cloudwatch-eb-web-console-1dcb9cc79316)
 * [AWS Elastic Beanstalk - 인프라 운영 부담 없는 코드 기반 배포 서비스 :: 5분 클라우드 데모 - YouTube](https://www.youtube.com/watch?v=gPEHFx_DlII)
+* [Elastic Beanstalk - YouTube](https://www.youtube.com/playlist?list=PL3_YUnRN3UhgTtj7t36WQ5EaqZe5z449z)
 
 # EMS
 * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr)
