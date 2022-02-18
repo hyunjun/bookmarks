@@ -404,6 +404,7 @@
 * [Spark interview Q&As with coding examples in Scala - part 1 | Java-Success.com](https://www.java-success.com/spark-interview-qas-with-coding-examples-in-scala-part-1/)
 * [How to Extract Deeper Value from Data in Legacy Applications with Analytics in a Cloud Data Lake - YouTube](https://www.youtube.com/watch?v=cylRHSsT24o)
 * [Scala 3 and Spark?. After the release of Scala 3, one of… | by Filip Zybała | VirtusLab | Oct, 2021 | Medium](https://medium.com/virtuslab/scala-3-and-spark-389f7ecef71b)
+* [Using Scala 3 with Spark | 47 Degrees](https://www.47deg.com/blog/using-scala-3-with-spark/)
 * [Apache Spark #1 - 아키텍쳐 및 기본 개념](https://bcho.tistory.com/1387)
 * [Practical Spark – Intro (1) – 1ambda](https://1ambda.blog/2021/12/20/practical-spark-1/)
 * [Practical Spark – Tutorial (2) – 1ambda](https://1ambda.blog/2021/12/20/practical-spark-2/)
