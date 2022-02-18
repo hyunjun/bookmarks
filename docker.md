@@ -1212,6 +1212,7 @@ Docker
 * [Cloud Native Progressive Delivery • Matt Turner • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=gUCv50ZTD7s)
 * [Kubernetes With Ansible. It’s critical to automate the… | by Shashwot Risal | Feb, 2022 | Medium](https://shashwotrisal.medium.com/kubernetes-with-ansible-881f32b8c53e)
 * [NHN Cloud Kubernetes 활용법 - NHN Cloud](https://doc.skill.or.kr/nhn-cloud)
+* [Kubernetes Health Checks Using Probes – The New Stack](https://thenewstack.io/kubernetes-health-checks-using-probes)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
