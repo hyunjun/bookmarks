@@ -936,13 +936,6 @@ Docker
 * [Kubernetes for Beginners - Docker Introduction](https://www.youtube.com/watch?v=rmf04ylI2K0)
 * [Docker and Kubernetes - Full Course for Beginners](https://morioh.com/p/1d2420ffad64)
 * [Kubernetes The Easy Way!](https://www.youtube.com/watch?v=kOa_llowQ1c)
-* [kubernetes를 부탁해~ Prometheus 기반 Monitoring 구축&활용기](https://www.slideshare.net/jinsumoon33/kubernetes-prometheus-monitoring)
-* [Kubernetes Prometheus Install](https://uni2u.tistory.com/105)
-* [누가 Kubernetes 클러스터에 있는 나의 사랑스러운 Prometheus 컨테이너를 죽였나! - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/prometheus-container-kubernetes-cluster/)
-* [Monitor Kubernetes with Prometheus & Grafana | Better Programming](https://medium.com/better-programming/monitor-your-kubernetes-cluster-with-prometheus-and-grafana-1f7d0195e59)
-* [13 Best Kubernetes Monitoring Tools: Open Source & Paid 2021 - Sematext](https://sematext.com/blog/kubernetes-monitoring-tools/)
-* [Launch HN: ContainIQ (YC S21) – Kubernetes Native Monitoring with eBPF | Hacker News](https://news.ycombinator.com/item?id=29825681)
-* [뱀이 지켜보고 있어요: Python으로 Kubernetes 모니터링 하기. 이상유 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=MYtipLD47cM)
 * [kubernetes를 이용한 서비스 무중단 배포](http://tech.kakao.com/2018/12/24/kubernetes-deploy/)
 * [Kubernetes and the Path to Serverless](https://www.youtube.com/watch?v=lKr6yw9Iw04)
 * [**Scaling Microservices with Message Queues, Spring Boot and Kubernetes**](https://hackernoon.com/scaling-microservices-with-message-queues-spring-boot-and-kubernetes-9ba4b0e48bdf)
@@ -1103,7 +1096,6 @@ Docker
 * [GlusterFS & Heketi on Rhel7 설치 3](https://naleejang.tistory.com/239)
 * [**Kubernetes를 이용한 효율적인 데이터 엔지니어링(Airflow on Kubernetes VS Airflow Kubernetes Executor) - 1 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/data-engineering-with-airflow-k8s-1/)
 * [**Kubernetes를 이용한 효율적인 데이터 엔지니어링(Airflow on Kubernetes VS Airflow Kubernetes Executor) - 2 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/data-engineering-with-airflow-k8s-2/)
-* [쿠버네티스 클러스터 운영자를 위한 모니터링](https://www.samsungsds.com/kr/insights/kubernetes_monitoring.html)
 * [**초보를 위한 쿠버네티스 안내서 - YouTube**](https://www.youtube.com/playlist?list=PLIUCBpK1dpsNf1m-2kiosmfn2nXfljQgb)
 * [IDG 블로그 | 쿠버네티스가 답이 아닐 때 - ITWorld Korea](https://www.itworld.co.kr/news/180699)
 * [Scaling Kubernetes to 7,500 Nodes](https://openai.com/blog/scaling-kubernetes-to-7500-nodes/)
@@ -1221,7 +1213,7 @@ Docker
 * [Kubernetes With Ansible. It’s critical to automate the… | by Shashwot Risal | Feb, 2022 | Medium](https://shashwotrisal.medium.com/kubernetes-with-ansible-881f32b8c53e)
 * [NHN Cloud Kubernetes 활용법 - NHN Cloud](https://doc.skill.or.kr/nhn-cloud)
 
-## Library Kubernetes
+## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
 * [Kubernetes: 6 open source tools to put your cluster to the test | The Enterprisers Project](https://enterprisersproject.com/article/2021/5/kubernetes-6-open-source-tools-to-test-clusters)
 * [Kubernetes Essential Tools: 2021. Review of the best tools for Kubernetes | by Javier Ramos | Jul, 2021 | ITNEXT](https://itnext.io/kubernetes-essential-tools-2021-def12e84c572)
@@ -1484,6 +1476,17 @@ Docker
   * [trivy - k8s](https://sysnet4admin.gitbook.io/k8s/security/container/trivy)
 * [Verrazzano Enterprise Container Platform](https://verrazzano.io/)
   * [오라클, 쿠버네티스용 ‘베라짜노 컨테이너 플랫폼’ 발표 - CIO Korea](https://www.ciokorea.com/news/203699)
+
+## Kubernetes Monitoring
+* [kubernetes를 부탁해~ Prometheus 기반 Monitoring 구축&활용기](https://www.slideshare.net/jinsumoon33/kubernetes-prometheus-monitoring)
+* [Kubernetes Prometheus Install](https://uni2u.tistory.com/105)
+* [누가 Kubernetes 클러스터에 있는 나의 사랑스러운 Prometheus 컨테이너를 죽였나! - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/prometheus-container-kubernetes-cluster/)
+* [Monitor Kubernetes with Prometheus & Grafana | Better Programming](https://medium.com/better-programming/monitor-your-kubernetes-cluster-with-prometheus-and-grafana-1f7d0195e59)
+* [13 Best Kubernetes Monitoring Tools: Open Source & Paid 2021 - Sematext](https://sematext.com/blog/kubernetes-monitoring-tools/)
+* [Launch HN: ContainIQ (YC S21) – Kubernetes Native Monitoring with eBPF | Hacker News](https://news.ycombinator.com/item?id=29825681)
+* [뱀이 지켜보고 있어요: Python으로 Kubernetes 모니터링 하기. 이상유 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=MYtipLD47cM)
+* [30+ Free and Open Source Kubernetes Monitoring Tools](https://www.fossmint.com/kubernetes-monitoring-tools/)
+* [쿠버네티스 클러스터 운영자를 위한 모니터링](https://www.samsungsds.com/kr/insights/kubernetes_monitoring.html)
 
 # Library
 * [Top GUI for Docker | by appfleet team | appfleet | Medium](https://medium.com/appfleet/top-gui-for-docker-9b45588393d3)
