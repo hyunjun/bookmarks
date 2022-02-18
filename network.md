@@ -177,6 +177,7 @@ Network
   * HTTP/3에서는 TCP 대신 QUIC 프로토콜을 사용해서 멀티플랙싱을 구현
   * 벤치마크 환경은 600kb 의 작은 사이트와 10MB의 컨텐츠 사이트, 15MB의 SPA를 비교하자 HTTP/3가 빠른 것으로 나타남
   * 이는 HTTP/3에서는 head-of-line 블러킹 이슈가 없고 0-RTT 지원으로 서버와 TLS 연결을 하면서 라운드 트립이 적기 때문
+* [HTTP/3 is Fast. HTTP/3 is here, and it’s a big deal for… | by Todd H. Gardner | Request Metrics | Medium](https://medium.com/request-metrics/http-3-is-fast-dc7f8871df6)
 * [http-decision-diagram - An activity diagram to describe the resolution of HTTP response status codes, given various headers](https://github.com/for-GET/http-decision-diagram)
   * [HTTP/REST IS NOT BIG, NOR HEALTHY. IT'S HELL NO!](http://hyperrest.github.io/2013-06-10-http-hell-no)
 * [**서버의 상태를 알려주는 HTTP 상태 코드**](https://evan-moon.github.io/2020/03/15/about-http-status-code/)
