@@ -4331,7 +4331,7 @@ Python
 * [My Favorite Free NumPy Courses for Beginners - DZone Web Dev](https://dzone.com/articles/my-favorite-free-numpy-courses-for-beginners)
 * [Why Datetimes Need Units - Christopher Ariza | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=jdnr7sgxCQI) Y2262 problem, datetime64 datatype
 * [Python Numpy and Jupyter Tutorials - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1kn3yopM0b71pKNV-gKH_N_)
-* [01 파이썬 수치 계산 도구의 핵심 🧮 넘파이 공식문서로 시작하기! ⚡️ - YouTube](https://www.youtube.com/watch?v=ug3tz6WP7ZU)
+* [넘파이 튜토리얼 - YouTube](https://www.youtube.com/playlist?list=PLaTc2c6yEwmq1yBe7O_iianrYAwT8X2xz)
 * [Blaze translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems](http://blaze.pydata.org/)
   * [Introducing Blaze - Expressions](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-Expressions/)
   * [Introducing Blaze - Practice](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-HMDA/)
