@@ -83,3 +83,4 @@ Government
 * [PublicDataReader: Open Source Public Data Reader](https://github.com/WooilJeong/PublicDataReader)
 * [recaptcha-dataset: Dataset of thousands of reCAPTCHA images](https://github.com/deathlyface/recaptcha-dataset)
 * [recipenlg: Set of scripts and notebooks used to produce results visible in RecipeNLG paper](https://github.com/Glorf/recipenlg)
+* [StandardSim: A Synthetic Dataset For Retail Environments](https://standard-ai.github.io/Standard-Sim/)
