@@ -575,6 +575,7 @@ Go
     * GitHub Actions 잘 지원, 로컬 개발에서도 사용 용이하기 때문에 이 도구를 선택
     * CI 적용하자 이전에 발견하지 못했던 컨벤션 누락도 탐지 가능
 * [golongpoll - golang HTTP longpolling library, making web pub-sub easy!](https://github.com/jcuga/golongpoll)
+* [go-mail: 📧 A cross platform mail driver for GoLang. Featuring Mailgun, Postal, Postmark, SendGrid, SparkPost & SMTP](https://github.com/ainsleyclark/go-mail)
 * [Go & Martini](http://getting-started.md/guides/3-go-martini)
 * gomobile [Mobile · golang/go Wiki](https://github.com/golang/go/wiki/Mobile)
   * [Go 언어로 Android / iOS 앱 코드 작성하기](https://open-support.tistory.com/entry/Go-%EC%96%B8%EC%96%B4%EB%A1%9C-Android-iOS-%EC%95%B1-%EC%BD%94%EB%93%9C-%EC%9E%91%EC%84%B1%ED%95%98%EA%B8%B0)
