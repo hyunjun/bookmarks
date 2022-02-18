@@ -975,6 +975,7 @@ Scala
     * [ZIO environment: episode 3](https://softwaremill.com/zio-environment-episode-3/)
     * [building a ZIO app from scratch with Adam Fraser - YouTube](https://www.youtube.com/watch?v=NXQlu3sTHEg)
     * [Zero-to-ZIO | Alteration x10](https://alterationx10.com/2022/02/01/zero-to-zio/)
+    * [About capture checking. in scala 3 | by Oleg Nizhnik | Feb, 2022 | Medium](https://medium.com/@odomontois/several-days-ago-we-saw-the-new-experimental-feature-called-capture-checking-was-announced-in-e4aa9bc4b3d1)
     * Fibers
       * [BUILD YOUR OWN KAFKA IN ZIO – QUEUES & FIBERS](https://scalac.io/build-your-own-kafka-in-zio-queues-fibers/)
       * [Background processing in functional Scala #1 - YouTube](https://www.youtube.com/watch?v=y-rmSgCkBvg)
@@ -1335,6 +1336,7 @@ Scala
     * [herding cats — Effect system](https://eed3si9n.com/herding-cats/effect-system.html)
     * [Supervisor | Background processing in functional Scala #3 - YouTube](https://www.youtube.com/watch?v=-zr1cCWf4iI)
     * [The Cats Effect 3 Course for Scala Developers | Rock the JVM](https://rockthejvm.com/p/cats-effect)
+    * [A practical guide to error handling in Scala Cats and Cats Effect](https://softwaremill.com/practical-guide-to-error-handling-in-scala-cats-and-cats-effect/)
   * Cats MTL
     * [Functional error handling with monads, monad transformers and Cats MTL](https://guillaumebogard.dev/posts/functional-error-handling/)
     * [Ep 14: Monad transformers using the Cats MTL library - YouTube](https://www.youtube.com/watch?v=aT6PNjqQLs8)
@@ -1392,6 +1394,7 @@ Scala
   * [FS2: Typed Functional Streams in Scala - YouTube](https://www.youtube.com/watch?v=XCpGtaJjkVY)
   * [FS2 Kafka · Functional Kafka Streams for Scala](https://fd4s.github.io/fs2-kafka/)
     * [Run a fs2-kafka stream with scala-cli and Scala 3 | 47 Degrees](https://www.47deg.com/blog/run-fs2-kafka-scala-cli/)
+    * [FS2-Kafka in real world -Part 1. FS2 Kafka is a library which lets us… | by ayush mittal | Jan, 2022 | Medium](https://ayushm4489.medium.com/fs2-kafka-in-real-world-part-1-a7dfc65b995b)
   * [kebab-case: No leftovers: Working with pulls in fs2- overview](https://blog.kebab-ca.se/chapters/fs2/overview.html)
 * [Fugue: Unifying Spark and Non-Spark Ecosystems for Big Data Analytics - YouTube](https://www.youtube.com/watch?v=BBd4b2pMk0c)
 * [Funnel - a distributed monitoring system based on a lightweight streaming protocol](https://verizon.github.io/funnel/)
@@ -1803,6 +1806,7 @@ Scala
 * [Programming with Functions #8: Monads - YouTube](https://www.youtube.com/watch?v=KZCoBTRBRMs)
 * [Programming with Functions #9: Try, for-comprehensions, and monadic laws - YouTube](https://www.youtube.com/watch?v=iq8sTiYc5qM)
 * [Another Approach to Monads in Scala: A Way to Generalize Chained Computations - YouTube](https://www.youtube.com/watch?v=a0C-RrncrYA)
+* [Monadic Resource Management in Scala :: Alberto Huélamo](https://alhuelamo.com/posts/2022/02/monadic-resource-management-in-scala/)
 
 ## Monad Tagless Final
 * [Free monad or tagless final? How not to commit to a monad too early - Adam Warski](https://www.youtube.com/watch?v=IhVdU4Xiz2U)
@@ -2055,6 +2059,7 @@ Scala
 * [Telegram Bot In Scala 3 With Bot4s + http4s + Doobie for CI notifications | Hacker Noon](https://hackernoon.com/telegram-bot-in-scala-3-with-bot4s-http4s-doobie-for-ci-notifications)
 * [Scala Beyond 3.0 - The Quest for Simplicity - Martin Odersky - YouTube](https://www.youtube.com/watch?v=NXTjnowBx-c)
 * [Safer Exceptions in Scala 3. I mentioned in What’s Changed Since… | by Dean Wampler | Scala 3 | Jan, 2022 | Medium](https://medium.com/scala-3/safer-exceptions-in-scala-3-12c47100f050)
+* [Writing a simple CLI game in Scala 3](https://softwaremill.com/writing-a-simple-cli-game-in-scala-3/)
 * [comparing-docker-methods-scala](https://github.com/jamesward/comparing-docker-methods-scala)
   * [Scale By The Bay 2020: James Ward, Packaging & Deployment Options for Scala Applications / Services - YouTube](https://www.youtube.com/watch?v=hUfqBS_hsXU)
 * [Dotty - A next generation compiler for Scala](http://dotty.epfl.ch/)
@@ -2431,3 +2436,5 @@ Scala
 * [Finally some business logic! SPFS #5 - YouTube](https://www.youtube.com/watch?v=jBU7ZIrtPgU)
 * [Happy 2022! (SPFS #6) - YouTube](https://www.youtube.com/watch?v=4AsH2k1MRjs)
 * [So much done today! (SPFS #7) - YouTube](https://www.youtube.com/watch?v=hyk245P6C3Q)
+* [What I learned from programming in #Scala WITHOUT the standard library for 6 days - Part 1 - YouTube](https://www.youtube.com/watch?v=CiKqa82Rk94)
+  * [invoice-generator](https://github.com/devinsideyou/invoice-generator)
