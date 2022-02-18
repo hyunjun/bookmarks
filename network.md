@@ -375,3 +375,5 @@ Network
   * 안전한 웹사이트 방문, 오디오비주얼 채팅, 모바일 브라우징에 가장 큰 개선 예상
 * [Everything you ever wanted to know about UDP sockets but were afraid to ask, part 1](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
 * [MsQuic - Cross platform C implementation of the IETF QUIC protocol](https://github.com/Microsoft/msquic)
+* [s2n-quic: An implementation of the IETF QUIC protocol](https://github.com/aws/s2n-quic)
+  * [Introducing s2n-quic, a new open-source QUIC protocol implementation in Rust | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/introducing-s2n-quic-open-source-protocol-rust/)
