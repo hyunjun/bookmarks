@@ -1581,6 +1581,7 @@ Programming Books
 * (NOT YET) 임파워드 [관리자는 신입 PM을 보며 어떤 생각을 할까?](https://brunch.co.kr/@soosunnaa/23)
 * (NOT YET) [팀 토폴로지 : 빠른 업무 플로우를 만드는 조직 설계 - 매튜 스켈톤, 마누엘 페이스](https://blog.daum.net/eastern/12707711)
   * [(리뷰)팀 토폴로지 - 빠른 업무 플로우를 만드는 조직 설계 | Huns.me](https://huns.me/posts/2022-02-14-39-%ED%8C%80%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80)
+* (NOT YET) [언리더십 자본주의 4.0 시대의 새로운 리더십 12](https://www.waytoliah.com/786)
 
 # Math
 
