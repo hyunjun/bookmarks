@@ -460,6 +460,7 @@ Business
 * [공정한 평가라는 환상](https://brunch.co.kr/@hyungsukkim/18)
 * [홍석환의 인사 잘하는 남자 이팀장의 잘못된 목표관리](https://www.hankyung.com/thepen/article/105908) 객관적인 지표를 통한 평가 등
 * [목표 관리, 제대로 효과를 거두려면](https://camp.lemonbase.com/goal)
+* [The Science of Setting & Achieving Goals | Huberman Lab Podcast #55 - YouTube](https://www.youtube.com/watch?v=t1F7EEGPQwo)
 * [성과 리뷰 미팅이 Show로 끝나는 이유 - 경영전문블로그 Innovator](http://www.innovator.or.kr/2021/07/show.html)
 * [Your “high bar” is wrecking your team](http://brandonhays.com/blog/2018/06/19/your-high-bar-is-wrecking-your-team/)
 * [분노만 남는 인사평가…'목표·기준'이 없다 | 컴퍼니 타임스의 생생한 인터뷰 확인하기, IT/웹/통신 0.0 평점 | 잡플래닛](https://www.jobplanet.co.kr/contents/news-1480)
@@ -845,6 +846,7 @@ Business
     * ‘나’라고 생각하고 말하기 보다 ‘우리’라고 생각하고 말한다
 * [대지진에도 멀쩡했던 후쿠시마 제 2 원전..... : 네이버블로그](https://blog.naver.com/businessinsight/221397693111) sensemaking
 * [좋은 사람처럼 보이려고 애쓰지 마라](http://moneyman.kr/archives/11456)
+* [언리더십: 직원을 경영의 대상으로 보지마라 | 인사/조직 | DBR](https://dbr.donga.com/article/view/1201/article_no/5088/ac/magazine)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -956,6 +958,7 @@ Business
 * [좋은 프로덕트 팀과 나쁜 프로덕트 팀의 17가지 차이](https://brunch.co.kr/@ashashash/101)
 * [IT 직무 탐구: 프로덕트 매니저 vs 프로덕트 오너 (+그 외) | 요즘IT](https://yozm.wishket.com/magazine/detail/905/)
 * [개발자만 품귀 현상이 아니다.. 경력직 PM 찾기가 하늘의 별 따기 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/pmpmpm20220118)
+* [거래 후기 실험을 통해 따뜻한 거래 경험 만들기. 거래 후기 실험을 통해 당근마켓이 어떻게 따뜻한 서비스를 만들고… | by Yedaeun | 당근마켓 팀블로그 | Feb, 2022 | Medium](https://medium.com/daangn/%EA%B1%B0%EB%9E%98-%ED%9B%84%EA%B8%B0-%EC%8B%A4%ED%97%98%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%94%B0%EB%9C%BB%ED%95%9C-%EA%B1%B0%EB%9E%98-%EA%B2%BD%ED%97%98-%EB%A7%8C%EB%93%A4%EA%B8%B0-3d7ac18d8e3)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
