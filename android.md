@@ -74,6 +74,7 @@ Android
 * [제3회 스포카콘 Clean Architecture on Android](https://www.slideshare.net/RyanHKang/clean-architecture-on-android-243156618)
 * [안드로이드에서 클린 아키텍처 구현하기 | Jungwoon Blog](https://jungwoon.github.io/android/2021/04/12/Android-CleanArchitecture.html)
 * [Android Architecture 총정리](https://speakerdeck.com/saryong/android-architecture-congjeongri)
+* [Google Developers Korea Blog: 새롭게 개정된 앱 아키텍처 가이드를 확인해보세요](https://developers-kr.googleblog.com/2022/02/rebuilding-our-guide-to-app-architecture.html)
 * [Using TensorFlow on Android — step by step code explanation](https://proandroiddev.com/using-tensorflow-in-android-step-by-step-code-explanation-fee36c281f32)
 * [TensorFlow Lite로 Android에서 실시간으로 사람의 포즈 추적해보세요](https://developers-kr.googleblog.com/2019/08/track-human-poses-in-real-time-on-android-with-tensorflow-lite.html)
 * Mastering the World of Android Testing
