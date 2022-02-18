@@ -342,6 +342,7 @@ Programming
   * [#2 - 오픈 준비 단계](http://woowabros.github.io/experience/2018/10/15/new_point_story_2.html)
 * [The devil is in the detail](https://en.wikipedia.org/wiki/The_devil_is_in_the_detail)
   * [EA 피파 개발자가 말하는 “피파는 어떻게 위닝을 꺾었나” - ㅍㅍㅅㅅ 이승환님의 글입니다](http://jh4hj.tistory.com/entry/EA-%ED%94%BC%ED%8C%8C-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%A7%90%ED%95%98%EB%8A%94-%E2%80%9C%ED%94%BC%ED%8C%8C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%9C%84%EB%8B%9D%EC%9D%84-%EA%BA%BE%EC%97%88%EB%82%98%E2%80%9D-%E3%85%8D%E3%85%8D%E3%85%85%E3%85%85-%EC%9D%B4%EC%8A%B9%ED%99%98%EB%8B%98%EC%9D%98-%EA%B8%80%EC%9E%85%EB%8B%88%EB%8B%A4)
+* [Kevlin Henney - Software is details (Keynote) - YouTube](https://www.youtube.com/watch?v=9hlBEI-3Gro)
 * [프로젝트가 장난이야?!](http://woowabros.github.io/experience/2018/11/12/toy-project.html) 토이 프로젝트를 하자는 이야기
 * [Here’s Yet Another List of Exciting Projects to Build](https://medium.com/better-programming/summer-is-over-you-should-be-coding-heres-yet-another-list-of-exciting-ideas-to-build-a95d7704d36d)
 * [소프트웨어 엔지니어가 되는 것이 뭔지 아무도 알려주지 않은 내용](http://jhrogue.blogspot.com/2018/11/b.html)
@@ -1813,6 +1814,7 @@ Programming
 * [드라마의 Pair Programming과 Code Review 도입 후기](http://blog.dramancompany.com/2016/05/%EB%93%9C%EB%9D%BC%EB%A7%88%EC%9D%98-pair-programming%EA%B3%BC-code-review-%EB%8F%84%EC%9E%85-%ED%9B%84%EA%B8%B0/)
 * [나의 페어 프로그래밍 탐험기 – tech.kakao.com](https://tech.kakao.com/2021/12/01/pair-programming/)
 * [You Must Be Crazy To Do Pair Programming • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=t92iupKHo8M)
+* [Race between pair programming tools by Kaya Weers - YouTube](https://www.youtube.com/watch?v=LY1ViNekw_Q)
 * [제 1회 reView meetup 참석후기](http://jojoldu.tistory.com/133)
 * [(번역) 진짜배기 코드 평가자라면 하지 말아야 할 네 가지](https://emaren84.github.io/blog/archivers/four-nos-of-serious-code-reviewer-kor)
 * [1000 개의 코드 리뷰를 통해 배운 점 (What I learned from doing 1000 code reviews)](https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f)
