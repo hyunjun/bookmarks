@@ -705,6 +705,7 @@ Programming
 * [How To Design A Good API and Why it Matters - YouTube](https://www.youtube.com/watch?v=aAb7hSCtvGw)
 * [Moving beyond Request-Reply: How Smart APIs Are Different - YouTube](https://www.youtube.com/watch?v=P9_5qAPfrpg)
 * [Top 5 Courses to Learn API Development (REST, SOAP, Web) in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/10/top-5-courses-to-learn-api-development.html)
+* [APIs and How to design them — All you need to know ! | by Gourav Dhar | Medium](https://blogs.gourav-dhar.com/apis-and-how-to-design-them-all-you-need-to-know-86223624229a)
 * [API Showdown: REST vs. GraphQL vs. gRPC – Which Should You Use? - YouTube](https://www.youtube.com/watch?v=3q1BeV3SVYs)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
@@ -2410,6 +2411,7 @@ Programming
 * [Data pipeline and data lake](https://www.slideshare.net/charsyam2/data-pipeline-and-data-lake)
 * [A Guide To The Data Lake — Modern Batch Data Warehousing](https://towardsdatascience.com/a-guide-to-modern-batch-data-warehousing-extraction-f63bfa6ef878)
 * [A Simple Data Lake ETL Pipeline](https://medium.com/unified-engineering/a-simple-data-lake-etl-pipeline-f645586fece8)
+* [What is a Data Swamp?. Reasons for why you should avoid it | by Christianlauer | CodeX | Dec, 2021 | Medium](https://medium.com/codex/what-is-a-data-swamp-38b1aed54dc6)
 * [SQL Analytics and the Lakehouse Architecture | Ali Ghodsi | Keynote Data + AI Summit EU 2020 - YouTube](https://www.youtube.com/watch?v=9oYosh-AoX0)
 * [Becoming a Data Driven Organization with Modern Lakehouse - YouTube](https://www.youtube.com/watch?v=KLD10xn4sX8)
 
