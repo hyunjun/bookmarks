@@ -23,3 +23,6 @@
   * [Google considers switching FLoC to a topic-based approach](https://digiday.com/marketing/google-switch-floc-cookie-replacement-fingerprinting-potential/)
   * [Get to know the new Topics API for Privacy Sandbox](https://blog.google/products/chrome/get-know-new-topics-api-privacy-sandbox/)
   * [구글, 토픽 API 공개··· "쿠키 대안 '플록' 대체할 IBA 시스템" - CIO Korea](https://www.ciokorea.com/news/223489)
+  * [Google plans big privacy changes](https://www.linkedin.com/news/story/google-plans-big-privacy-changes-4681209/)
+  * [Google Android Sandbox](https://brunch.co.kr/@hae-ra/73)
+  * [구글, 앱 이용자 데이터 수집 차단...'메타'에게 독일까?](https://www.bloter.net/newsView/blt202202170095)
