@@ -1096,10 +1096,11 @@ Programming
 * [기고 | '분류에서 실행까지' 기술 아키텍처 개선 가이드 - CIO Korea](https://www.ciokorea.com/news/215279)
 * [Don't Make My Mistakes: Common Infrastructure Errors I've Made](https://matduggan.com/mistakes/)
 * [Top 5 Courses to Learn Software Architecture for Experienced Programmers in 2022 - Best of Lot](https://javarevisited.blogspot.com/2019/03/5-courses-programmers-can-join-to-learn.html)
-* [homelab: Small and power efficient self-hosting infrastructure. Fully automated from empty disk to operating services](https://github.com/khuedoan/homelab)
-  * [HomeLab을 위한 자동화된 셀프호스팅 아키텍처 | GeekNews](https://news.hada.io/topic?id=5809)
+* [Tudor Gîrba on How Moldable Development Offers a Novel Way to Reason about Systems - YouTube](https://www.youtube.com/watch?v=a4nA7ALf16c)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
+* [homelab: Small and power efficient self-hosting infrastructure. Fully automated from empty disk to operating services](https://github.com/khuedoan/homelab)
+  * [HomeLab을 위한 자동화된 셀프호스팅 아키텍처 | GeekNews](https://news.hada.io/topic?id=5809)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
 
 ## Architecture CQRS & Event Sourcing
