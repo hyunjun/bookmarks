@@ -627,6 +627,7 @@ Programming
 * [Agile Korea Conference 2018 고객 접점을 담당하는 개발팀의 기민함에 관하여 신정호/우아한형제들 - YouTube](https://www.youtube.com/watch?v=qu0D5-FJklg)
   * [Building high performance startup teams](https://rossysheil.com/building-high-performance-startup-teams/) team effectiveness & team performance, forming -> storming -> norming -> performing
 * [This Agile Method GUARANTEES Results - YouTube](https://www.youtube.com/watch?v=ZO04Wz6mu0Y) iteration to make progress
+* [Agile Budgeting 101 | Cprime Blogs | Agile Budgeting](https://www.cprime.com/resources/blog/agile-budgeting-101/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
