@@ -1274,6 +1274,7 @@ Python
   * [Reverse Engineering A Mysterious UDP Stream in My Hotel - Gokberk Yaltirakli](https://www.gkbrk.com/2016/05/hotel-music/)
   * [python - 파이썬의 epoll 및 비 블로킹](https://stackoverrun.com/ko/q/3421567)
   * [파이썬 소켓으로 직접 구현하는 SMTP 프로토콜](https://hudi.blog/smtp-with-python/)
+  * [**Paul Butler – What does it mean to listen on a port?**](https://paulbutler.org/2022/what-does-it-mean-to-listen-on-a-port/)
 * sort
   * [Length-wise-sorted list but, same length in alphabetical-order in a step](http://stackoverflow.com/questions/14103620/length-wise-sorted-list-but-same-length-in-alphabetical-order-in-a-step)
   * [LAZY SORTING (PYTHON RECIPE)](http://code.activestate.com/recipes/280501-lazy-sorting/)
@@ -1735,6 +1736,7 @@ Python
 * [Thinking about Concurrency, Raymond Hettinger, Python core developer](https://www.youtube.com/watch?v=Bv25Dwe84g0)
 * [Python is NOT Single Threaded (and how to bypass the GIL) - YouTube](https://www.youtube.com/watch?v=m2yeB94CxVQ) 여러가지 예제
 * [A viable solution for Python concurrency LWN.net](https://lwn.net/SubscriberLink/872869/0e62bba2db51ec7a/)
+* [Concurrency and Parallelism: What is the difference? | by Kieron Spearing | Feb, 2022 | Towards Data Science](https://towardsdatascience.com/concurrency-and-parallelism-what-is-the-difference-bdf01069b081)
 
 # Conference
 * [OctopusCon: Python Edition](https://octopuscon.com/events/octopuscon-python-edition/)
@@ -3694,6 +3696,7 @@ Python
 * [sofi - an OS agnostic UI module for Python](https://github.com/tryexceptpass/sofi)
 * [**Sorted Containers**](http://www.grantjenks.com/docs/sortedcontainers/) sorted collections type
 * [spidermonkey - Python/JavaScript bridge module, making use of Mozilla's spidermonkey JavaScript implementation](https://github.com/davisp/python-spidermonkey)
+* [spongebob-cli: Watch classic spongebob from the terminal!](https://github.com/trakBan/spongebob-cli)
 * [stackhut](https://stackhut.com/)
   * [Deploying Python functions as APIs with StackHut](http://blog.stackhut.com/calling-python-from-http/)
 * [Supervisor: A Process Control System](http://supervisord.org/) Supervisor is a client/server system that allows its users to monitor and control a number of processes on UNIX-like operating systems
@@ -4189,6 +4192,7 @@ Python
   * [Ray 로 내 파이썬 코드 10배 빠르게 만들기. Ray 를 이용한 python 병렬처리 방법에 대해 알아봅니다. | by t.k.woo | Naver Shopping dev | Jan, 2021 | Medium](https://medium.com/naver-shopping-dev/ray-%EB%A1%9C-pytorch-model-inference-%ED%95%98%EA%B8%B0-77ce11304604)
   * [Retrieval Augmented Generation with Huggingface Transformers and Ray | Distributed Computing with Ray](https://medium.com/distributed-computing-with-ray/retrieval-augmented-generation-with-huggingface-transformers-and-ray-b09b56161b1e)
   * [Getting Started with Distributed Machine Learning with PyTorch and Ray | by PyTorch | PyTorch | Feb, 2021 | Medium](https://medium.com/pytorch/getting-started-with-distributed-machine-learning-with-pytorch-and-ray-fd83c98fdead)
+  * [Anyscale - Parallelizing Python Code](https://www.anyscale.com/blog/parallelizing-python-code)
 * [PyParallel.org](http://pyparallel.org/)
   * [PyParallel - Experimental multicore fork of Python 3](https://github.com/pyparallel/pyparallel)
 
