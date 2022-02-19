@@ -58,6 +58,10 @@ Programming Books
   * 2010.05.15
 * [프로그래밍 심리학](https://jh4hj.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%8B%AC%EB%A6%AC%ED%95%99)
   * 2010.05.26~29
+  * [프로그래밍 심리학 (책) - 위키백과, 우리 모두의 백과사전](https://ko.wikipedia.org/wiki/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D_%EC%8B%AC%EB%A6%AC%ED%95%99_(%EC%B1%85))
+* [프로그래머는 왜 심리문제에 골몰하는가](https://jh4hj.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%8A%94-%EC%99%9C-%EC%8B%AC%EB%A6%AC%EB%AC%B8%EC%A0%9C%EC%97%90-%EA%B3%A8%EB%AA%B0%ED%95%98%EB%8A%94%EA%B0%80)
+  * ★★★☆☆ 2022.02.18~19
+  * [프로그래머는 왜 심리문제에 골몰하는가. 크게 봐서는 좋지만, 뭔가 좀 애매한 부분이 있다. | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EB%8A%94-%EC%99%9C-%EC%8B%AC%EB%A6%AC%EB%AC%B8%EC%A0%9C%EC%97%90-%EA%B3%A8%EB%AA%B0%ED%95%98%EB%8A%94%EA%B0%80-c8a3f4e63e3c)
 * [룰 메이커 - 실리콘밸리를 움직이는 사람들](https://jh4hj.tistory.com/entry/%EB%A3%B0-%EB%A9%94%EC%9D%B4%EC%BB%A4-%EC%8B%A4%EB%A6%AC%EC%BD%98%EB%B0%B8%EB%A6%AC%EB%A5%BC-%EC%9B%80%EC%A7%81%EC%9D%B4%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4)
   * 2015.07.28
 * [인터랙티브 디벨로퍼](https://jh4hj.tistory.com/entry/%EC%9D%B8%ED%84%B0%EB%9E%99%ED%8B%B0%EB%B8%8C-%EB%94%94%EB%B2%A8%EB%A1%9C%ED%8D%BC)
