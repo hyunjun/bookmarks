@@ -56,6 +56,7 @@ Hardware
 * [Apple M1칩은 왜 그렇게 빠를까? | GeekNews](https://news.hada.io/topic?id=3315)
 * [Embedded Software Development in Visual Studio - C++ Team Blog](https://devblogs.microsoft.com/cppblog/visual-studio-embedded-development/)
 * [개발자의 백만가지 취미 | 하드웨어 프로토타이핑 (부제:아이디어의 물성) | by Minhwan Kim | We’re Team MakinaRocks! | Jan, 2022 | Medium](https://medium.com/makinarocks/%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EB%B0%B1%EB%A7%8C%EA%B0%80%EC%A7%80-%EC%B7%A8%EB%AF%B8-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%ED%94%84%EB%A1%9C%ED%86%A0%ED%83%80%EC%9D%B4%ED%95%91-58b9512ad9d5)
+* [littlefs: A little fail-safe filesystem designed for microcontrollers](https://github.com/littlefs-project/littlefs)
 * [SkyBot - 우리집 위로 날아가는 비행기 사진을 자동으로 추적해 찍는 시스템 | GeekNews](https://news.hada.io/topic?id=5818)
 
 # Arduino
