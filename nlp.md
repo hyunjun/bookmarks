@@ -818,6 +818,7 @@ NLP
 * [인공지능 씨앗 한글 말뭉치, 2007년 멈춰선 까닭](http://www.bloter.net/archives/260569)
 * [④ 송철의 국립국어원장 "한국어 AI 시대의 기초는 말뭉치..제2의 세종계획 추진해야"](http://media.daum.net/digital/others/newsview?newsid=20161009102004061)
 * [언제까지 포털 영어사전만 쓸 건가요? – 말뭉치(코퍼스)를 활용한 영어 글쓰기 기초 편](http://slownews.kr/58742)
+* [형태소 분석기와 Branching entropy를 활용한 비지도 신조어 탐색 – Ukjae Jeong](https://jeongukjae.github.io/posts/pos-tagger-branching-entropy/) corpus는 아니지만, 신조어 찾는 방법에 대한 이야기라 연관이 있음
 * [Facebook, NYU expand available languages for natural language understanding systems](https://code.fb.com/ai-research/xlni/)
 * [TextNet Linguist가 수행하는 대화자원구축 service](https://www.notion.so/TextNet-Linguist-service-b94d424579b641b2bd929706386e3a95)
 * [개체명 인식용 말뭉치](https://ithub.korean.go.kr/user/total/referenceView.do?boardSeq=5&articleSeq=118&boardGb=T&isInsUpd&boardType=CORPUS)
