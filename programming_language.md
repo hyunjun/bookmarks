@@ -362,7 +362,7 @@ Programming Language
   * [Exploring Clang/LLVM optimization on programming horror](https://blog.matthieud.me/2020/exploring-clang-llvm-optimization-on-programming-horror/)
   * [Intel C/C++ compilers complete adoption of LLVM](https://software.intel.com/content/www/us/en/develop/blogs/adoption-of-llvm-complete-icx.html)
   * [llvm-bindings: LLVM bindings for Node.js/JavaScript/TypeScript](https://github.com/ApsarasX/llvm-bindings)
-    * [Use LLVM by JavaScript/TypeScript - DEV Community](https://dev.to/apsarasx/use-llvm-by-javascripttypescript-27c3?utm_source=dormosheio&utm_campaign=dormosheio)
+    * [Use LLVM by JavaScript/TypeScript - DEV Community](https://dev.to/apsarasx/use-llvm-by-javascripttypescript-27c3)
   * [“llvm-libc” C Standard Library — LLVM 13 documentation](https://llvm.org/docs/Proposals/LLVMLibC.html)
 * Logo
   * [구글 개발자, 자연어로 작성하는 프로그래밍 언어 공개](http://www.bloter.net/archives/251344)
