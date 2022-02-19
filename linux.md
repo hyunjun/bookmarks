@@ -130,6 +130,7 @@ Linux
 * [poll on mac 10.12 is broken | daniel.haxx.se](https://daniel.haxx.se/blog/2016/10/11/poll-on-mac-10-12-is-broken/)
 * [How We Saved Millions in SSD Costs by Upgrading Our Filesystem - Heap](https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem) ZFS
 * [Why Folders are Called Directory in Linux?](https://itsfoss.com/folder-directory-linux)
+* [Landing a new syscall, part 1: What is futex?](https://www.collabora.com/news-and-blog/blog/2022/02/08/landing-a-new-syscall-part-what-is-futex/)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -1012,6 +1013,7 @@ Linux
 * [Notes on BPF & eBPF](https://jvns.ca/blog/2017/06/28/notes-on-bpf---ebpf/)
 * [A Gentle Introduction to eBPF](https://www.infoq.com/articles/gentle-linux-ebpf-introduction/)
 * [확장 BPF | 네트워크 언저리](https://wariua.github.io/facility/extended-bpf.html)
+* [Production ready eBPF, or how we fixed the BSD socket API](https://blog.cloudflare.com/tubular-fixing-the-socket-api-with-ebpf/)
 * [**Interactive map of Linux kernel**](https://makelinux.github.io/kernel/map/)
 * [Submitting your first patch to the Linux kernel - Cristian Henrique - Medium](https://medium.com/@crhenr/submitting-your-first-patch-to-the-linux-kernel-e81d2541fac6)
 * [Getting started with Linux kernel development](https://gist.github.com/vegard/22200a9f91af138a99ae22a9b814a9a4)
@@ -1051,6 +1053,7 @@ Linux
 * [broot - Get an overview of a directory, even a big one](https://dystroy.org/broot/)
 * [Browsix: Unix in the browser tab](https://browsix.org/)
 * [Byobu - text-based window manager and terminal multiplexer](http://byobu.co/)
+* [cassowary: Run Windows Applications on Linux as if they are native, Use linux applications to launch files files located in windows vm without needing to install applications on vm. With easy to use configuration GUI](https://github.com/casualsnek/cassowary)
 * [**cheat.sh - the only cheat sheet you need https://cheat.sh**](https://github.com/chubin/cheat.sh)
 * [Cockpit Project — Cockpit Project](https://cockpit-project.org/)
 * [Colorizing `cat`](https://github.com/jingweno/ccat)
@@ -1146,6 +1149,7 @@ Linux
 * [toybox: all-in-one Linux command line](https://github.com/landley/toybox)
 * [trash-cli - Command Line Interface to FreeDesktop.org Trash](https://github.com/andreafrancia/trash-cli)
 * [unetbootin.github.io - create bootable Live USB drives](http://unetbootin.github.io/)
+* [Unikraft](https://unikraft.org/)
 * [**up: Ultimate Plumber is a tool for writing Linux pipes with instant live preview**](https://github.com/akavel/up)
   * [up - Ultimate Plumber | GeekNews](https://news.hada.io/topic?id=3989)
 * [VTM | Text-based Desktop Environment, aka Monotty Desktop (desktopio)](https://vtm.netxs.online/)
