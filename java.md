@@ -1148,6 +1148,7 @@ Java
 * [jbang](https://jbang.dev/)
   * [jbang: Unleash the power of Java for shell scripting](https://github.com/jbangdev/jbang)
   * [JBang - Using Java to make Java better? - YouTube](https://www.youtube.com/watch?v=X4x2jM3Y0uE)
+* [jDeploy - Developer friendly desktop deployment tool | jDeploy](https://www.jdeploy.com/)
 * Jenkins
   * [젠킨스 설치 및 설정](https://docs.com/sunnykwak/2912)
   * [Jenkins 2.0 Overview](https://brunch.co.kr/@sunghyunlim/15)
@@ -1396,6 +1397,7 @@ Java
 * [응? 이게 왜 롤백되는거지?](http://woowabros.github.io/experience/2019/01/29/exception-in-transaction.html) isGlobalRollbackOnParticipationFailure
 * [정확히 트랜잭션이 롤백 되었을 때 장바구니를 복원하기 -TransactionSynchronization afterCompletion (Rollback hook)](https://tjdrnr05571.tistory.com/9)
 * [TransactionSynchronizationManager를 이용하여 DataSource 라우팅시 주의할 점](https://effectivesquid.tistory.com/entry/TransactionSynchronizationManager%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%98%EC%97%AC-DataSource-%EB%9D%BC%EC%9A%B0%ED%8C%85%EC%8B%9C-%EC%A3%BC%EC%9D%98%ED%95%A0-%EC%A0%90)
+* [Achieving consistency without transaction managers | by Bernd Rücker | Feb, 2022 | berndruecker](https://blog.bernd-ruecker.com/achieving-consistency-without-transaction-managers-7cb480bd08c)
 * [데이터 베이스의 자동증가 값을 기본키로 사용할 수 없을때는?](데이터 베이스의 자동증가 값을 기본키로 사용할 수 없을때는?) IdentifierGenerator interface
 * [스프링에서 자바빈 로딩방법(Pre-Loading, Lazy-Loading)](http://www.slideshare.net/topcredu/preloading-lazyloading)
 * [(스프링초보자를위한)스프링 컨텍스트 설정과 관련된 어노테이션](http://www.slideshare.net/topcredu/ss-66420006)
