@@ -650,7 +650,7 @@ Go
   * [Discovering and exploring mmap using Go](https://brunocalza.me/discovering-and-exploring-mmap-using-go/)
   * [But how, exactly, databases use mmap?](https://brunocalza.me/but-how-exactly-databases-use-mmap/)
 * [Monsti - a free and open source CMS written in Go](http://www.monsti.org/)
-* [mouseable: 'Mouseable' is intended to replace a mouse or tackpad](https://github.com/wirekang/mouseable?fbclid=IwAR1oRYHGRbWIc-_yv00V20kwkrfYKFmbqI7kH_3SuNHiteyoDlWLzAaZ884)
+* [mouseable: 'Mouseable' is intended to replace a mouse or tackpad](https://github.com/wirekang/mouseable)
 * [natscli: The NATS Command Line Interface](https://github.com/nats-io/natscli)
 * [notifications-engine: Affordable notifications for Kubernetes](https://github.com/argoproj/notifications-engine)
   * [Notifications Engine is here!. The Argoproj community has been working… | by Alexander Matyushentsev | May, 2021 | Argo Project](https://blog.argoproj.io/notifications-engine-is-here-ca961cd67b87)
