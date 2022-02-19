@@ -31,6 +31,7 @@ Hardware
 * [Building a Config Service in Go | Home Automation #03](https://www.youtube.com/watch?v=iYrMAVSOkkA)
 * [10기가비트 홈 네트워크 구축하기](https://tech.ssut.me/going-10-gigabit-networking-at-home/)
 * [Smart Home Hacking in Real World](http://codegate.org/assets/kr/files/Smart%20Home%20Hacking%20in%20Real%20World.pdf)
+* [My Smart Home 2021 | Joris Roovers](https://jorisroovers.com/posts/my-smart-home-2021)
 * [그린팩토리 주차층 관리앱 개발기 (Bluetooth, Beacon 연동 개발시 겪은 일들)](https://tv.naver.com/v/4286021)
 * [hellmaker.kr](http://www.hellmaker.kr/)
 * [마이크로 컴퓨터와 RC (Remote Control) - 1편](https://kerberosj.tistory.com/235)
@@ -141,6 +142,7 @@ Hardware
 * [Building a tiny FORTH for an Arduino UNO in one week](https://www.thanassis.space/miniforth.html)
 * [아두이노를 이용한 계란을 잡는 2축 Parallel Gripper : 네이버 카페](https://cafe.naver.com/viktorrobotics/24)
 * [Three Ways To Read A PWM Signal With Arduino | BenRipley.com](http://www.benripley.com/diy/arduino/three-ways-to-read-a-pwm-signal-with-arduino/)
+* [Arduboy](https://www.arduboy.com/)
 * [EURK_Arduino: 한글 라이브러리 '어우러기' 아두이노 버전 1.0](https://github.com/sookmook/EURK_Arduino)
 * [Watchy - E-Paper Watch](https://www.tindie.com/products/sqfmi/watchy/#product-description)
   * ESP32 SoC, E-Paper 저전력 디스플레이, 아두이노 IDE로 직접 프로그래밍 가능한 오픈소스 워치키트
