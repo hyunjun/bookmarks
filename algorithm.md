@@ -493,6 +493,7 @@ Algorithm
 * [A\*보다 빠른 JPS 알고리즘](https://blog.naver.com/robo813/221332759727)
 * [A\*보다 빠른 JPS보다 빠른 JPS+](https://blog.naver.com/robo813/221341534052)
 * [8-퍼즐 문제와 A\* 알고리즘: 1. 문제의 이해 - YouTube](https://www.youtube.com/watch?v=hfYQYRFM874)
+* [Introduction to the A\* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 * [Prim's algorithm in 2 minutes — Review and example](https://www.youtube.com/watch?v=cplfcGZmX7I)
 * [최소 비용 신장 트리(MST)와 크루스칼 알고리즘, 프림 알고리즘](https://m.blog.naver.com/qbxlvnf11/221374126045)
 * [Kruskal 알고리즘 이란](https://gmlwjd9405.github.io/2018/08/29/algorithm-kruskal-mst.html)
