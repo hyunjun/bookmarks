@@ -386,6 +386,7 @@ App
 * [Memex - Bookmarking for the power users of the web](https://getmemex.com/)
 * [Pocket](https://getpocket.com/)
 * [Raindrop.io — All-in-one bookmark manager](https://raindrop.io/)
+* [web-clipper: For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere](https://github.com/webclipper/web-clipper)
 
 # Chrome
 * [크롬에 필수로 깔아야 할 10가지 확장프로그램](http://ppss.kr/archives/38241)
@@ -1433,6 +1434,7 @@ App
 * [4K YouTube to MP3 유튜브 영상을 MP3(음원)로 추출 다운로드](https://truesale.tistory.com/entry/4K-YouTube-to-MP3-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EC%98%81%EC%83%81%EC%9D%84-MP3%EC%9D%8C%EC%9B%90%EB%A1%9C-%EC%B6%94%EC%B6%9C-%EB%8B%A4%EC%9A%B4%EB%A1%9C%EB%93%9C)
 * [9xbuddy : 그냥 최고 온라인 다운로더](https://9xbuddy.in/)
   * [9xbuddy - 모든 비디오 다운로더 | GeekNews](https://news.hada.io/topic?id=3757)
+* AllDUP [How-To : 무료 소프트웨어로 중복 사진을 정리하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/226129)
 * [AES67 Stream Monitor - aes67.app](https://aes67.app/) Free and Open Source Audio over IP Monitoring App
 * audacity [오픈소스 오디오 편집툴 : Audacity](https://jybaek.tistory.com/801)
 * [Apache OpenMeetings Project – Home](https://openmeetings.apache.org/) video conferencing, instant messaging, white board, collaborative document editing and other groupware tools
@@ -1456,6 +1458,7 @@ App
   * [SmartRename Script by farn501](https://docs.google.com/forms/d/e/1FAIpQLSfsG-wxJUAGlwaz8elKdQB9lTLOnv4KlrgXKGsfSeyy-nRk_g/viewform)
 * [Exposé - A simple static site generator for photoessays](https://github.com/Jack000/Expose)
 * [fastocloud: Self-hosted IPTV/NVR/CCTV/Video service](https://github.com/fastogt/fastocloud)
+* Files [Single-file PHP file manager, browser and photo gallery | Files](https://www.files.gallery/)
 * [filmora9 - Discover the power of storytelling with Filmora](https://filmora.wondershare.com)
 * [Filmulator - A simple raw photo editor based on the process of developing film](https://filmulator.org/)
 * [Forensically, free online photo forensics tool](http://29a.ch/photo-forensics)
@@ -1837,7 +1840,8 @@ App
 * [ConEmu-Maximus5 is a Windows console emulator with tabs, which presents multiple consoles and simple GUI applications as one customizable GUI window with various features](http://conemu.github.io/)
 * Cygwin
   * [Invoke-CygwinSetup A powershell cmdlet for installing cygwin](https://github.com/lucastheisen/cygwin-setup)
-* [DevToys: A Swiss Army knife for developers](https://github.com/veler/DevToys)
+* [DevToys - A Swiss Army knife for developers](https://devtoys.app/)
+  * [DevToys: A Swiss Army knife for developers](https://github.com/veler/DevToys)
 * [ebpf-for-windows: eBPF implementation that runs on top of Windows](https://github.com/microsoft/ebpf-for-windows)
 * [fciv - 윈도우에서 checksum 확인하기](http://sunphiz.me/wp/archives/2376)
 * [Geany - The Flyweight IDE](https://www.geany.org/)
