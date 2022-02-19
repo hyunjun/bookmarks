@@ -1475,6 +1475,7 @@ Docker
   * [Run Telepresence Anywhere Part 1: Containers | by Kelsey Evans | Jun, 2021 | Ambassador Labs](https://blog.getambassador.io/run-telepresence-anywhere-part-1-containers-3d9e235b6776)
 * [trivy: Scanner for vulnerabilities in container images, file systems, and Git repositories, as well as for configuration issues](https://github.com/aquasecurity/trivy)
   * [trivy - k8s](https://sysnet4admin.gitbook.io/k8s/security/container/trivy)
+* [ValidKube | Validate, Clean & Secure Your K8s YAML](https://validkube.com/)
 * [Verrazzano Enterprise Container Platform](https://verrazzano.io/)
   * [오라클, 쿠버네티스용 ‘베라짜노 컨테이너 플랫폼’ 발표 - CIO Korea](https://www.ciokorea.com/news/203699)
 
