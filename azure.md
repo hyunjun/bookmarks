@@ -152,6 +152,7 @@ Azure
 * [Terraform Tutorial For Beginners to create virtual machine on azure -Practice Lab | Beginner Academy - YouTube](https://www.youtube.com/watch?v=Etyo2AgHNrs)
 * [How to work with Soft Delete in Azure? - Top Tech Notes](https://toptechnotes.com/soft-delete-in-azure/)
 * [Troy Hunt: How I Got Pwned by My Cloud Costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
+* [엉터리 절약 안 하려면... 알아야 할 MS ‘애저’ 비용 관리법 - CIO Korea](https://www.ciokorea.com/news/224379)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)
