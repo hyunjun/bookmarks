@@ -1169,6 +1169,7 @@ Programming
 * [Engineering dependability and fault tolerance in a distributed system - High Scalability -](http://highscalability.com/blog/2021/2/19/engineering-dependability-and-fault-tolerance-in-a-distribut.html)
 * [Ordering Distributed Events. One of the hardest things about… | by Vaidehi Joshi | baseds | Medium](https://medium.com/baseds/ordering-distributed-events-29c1dd9d1eff)
 * [Distributed Systems Are a UX Problem - Speaker Deck](https://speakerdeck.com/tylertreat/distributed-systems-are-a-ux-problem)
+* [Testing Distributed Systems | Curated list of resources on testing distributed systems](https://asatarin.github.io/testing-distributed-systems/)
 * [etcd | Home](https://etcd.io/)
   * [A Few Notes on Etcd Maintenance. Learnings on provisioning, compaction… | by Tasdik Rahman | Gojek Product + Tech](https://blog.gojekengineering.com/a-few-notes-on-etcd-maintenance-c06440011cbe)
 
@@ -1672,7 +1673,8 @@ Programming
   * [Earthly - Better Builds](https://earthly.dev/) makefile + docker
   * [Earthly - Builds in container era](https://vladaionescu.com/introducing-earthly-build-automation-for-the-container-era-55619c63c3e)
   * [Can we build better?](https://blog.earthly.dev/better-builds/)
-* [Pants: A fast, scalable build system](https://pantsbuild.github.io/)
+* [Pants: A fast, scalable build system](https://v1.pantsbuild.org/)
+  * [A brief intro to the Pants build system | InfoWorld](https://www.infoworld.com/article/3650508/a-brief-intro-to-the-pants-build-system.html)
 * [Please](https://please.build/)
 
 # Cloud
@@ -2312,6 +2314,7 @@ Programming
 * [Structure and Interpretation of Computer Programs | Electrical Engineering and Computer Science | MIT OpenCourseWare](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-001-structure-and-interpretation-of-computer-programs-spring-2005/) SICP
   * [Structure and Interpretation of Computer Programs | The MIT Press](https://mitpress.mit.edu/books/structure-and-interpretation-computer-programs-1)
 * [Teach Yourself Computer Science](https://teachyourselfcs.com/)
+* [Textbooks - Kansas State University Department of Computer Science](https://textbooks.cs.ksu.edu/)
 * [Timilearning - A blog by Timi Adeniran](https://timilearning.com/)
 * [woz-u.com](https://woz-u.com/)
 
@@ -3962,6 +3965,7 @@ Programming
 * [Unicode In Five Minutes](https://richardjharris.github.io/unicode-in-five-minutes.html)
 * [Windows: 176. Raymond Chen이 한글날에 밝히는 윈도우의 한글 자모 분리 현상](https://www.sysnet.pe.kr/2/0/12369)
 * [Ridiculously fast unicode (UTF-8) validation – Daniel Lemire's blog](https://lemire.me/blog/2020/10/20/ridiculously-fast-unicode-utf-8-validation/)
+* [How does UTF-8 turn “😂” into “F09F9882”?](https://sethmlarson.dev/blog/utf-8)
 * [Unicode sorting is hard & why browsers added special emoji matching to regexp](https://devlog.hexops.com/2021/unicode-sorting-why-browsers-added-special-emoji-matching)
 * [글자수를 세는 7가지 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/the-7-ways-of-counting-characters/)
 * [Pragmatic Unicode | Ned Batchelder](https://nedbatchelder.com/text/unipain.html)
