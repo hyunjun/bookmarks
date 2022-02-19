@@ -1044,6 +1044,8 @@ AWS
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
+* [firecracker: Secure and fast microVMs for serverless computing](https://github.com/firecracker-microvm/firecracker)
+  * [Firecracker v1.0.0 릴리즈 | GeekNews](https://news.hada.io/topic?id=5967)
 * [hugo-lambda - Use AWS Lambda to run the Hugo static site generator](https://github.com/ryansb/hugo-lambda)
 * [moderncloud: ModernCloud is a browser-based serverless platform that lets developers build functions and endpoints in minutes](https://github.com/ModernCloud/moderncloud)
   * [ModernCloud - 브라우저 기반 서버리스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4583)
