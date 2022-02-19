@@ -120,6 +120,7 @@ Flutter
 * [Flutter 기반의 모바일 앱 재개발 회고 :: GS Retail Engineering](https://gsretail.tistory.com/7)
 * [10 minutes to build a game in Flutter - YouTube](https://www.youtube.com/watch?v=G1l8U8DTkvk)
 * [Announcing Flutter for Windows | Flutter](https://medium.com/flutter/announcing-flutter-for-windows-6979d0d01fed)
+* [How to Build a Shopping App using Flutter for IOS and Android](https://morioh.com/p/b4fc3a1064e6)
 
 # Conference, Meetup
 * [NAVER Tech Talk: Flutter meetup](https://d2.naver.com/news/9527890)
