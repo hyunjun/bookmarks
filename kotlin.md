@@ -155,6 +155,7 @@
 * [Mac에서 코틀린 개발환경 구성하기](https://jojoldu.tistory.com/635)
 * [블로그에 코틀린 플레이그라운드 넣기](https://dalinaum.github.io/blog/2022/01/28/blog-kotlin-playground.html)
 * [상태를 가변적으로 관리했을 때 발생하는 문제 — 시행착오를 줄이는 방법](https://weekly.ac/65)
+* [K2 컴파일러로 가는 길 | The Kotlin Blog](https://blog.jetbrains.com/ko/kotlin/2022/02/the-road-to-the-k2-compiler/)
 
 # Android
 * [Android 공식 언어로 채택된 Kotlin를 소개합니다](https://wonny-log.github.io/development/2017/06/30/introduce-kotlin.html)
