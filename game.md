@@ -54,8 +54,9 @@ Game
 * [GDC 2011 동굴 이야기 강연 : 게임개발시 주의할 5개 요소 (번역) | GeekNews](https://news.hada.io/topic?id=4818)
 * [대항해시대 시리즈가 가르쳐준 것들 - Growth | 더플랩 인사이트](https://insight.thepllab.com/post/148)
 * [닌텐도64용 젤다의 전설 풀 디컴파일 완료 | GeekNews](https://news.hada.io/topic?id=5448)
-* [game-developer-roadmap: Roadmap to becoming a game developer in 2022](https://github.com/utilForever/game-developer-roadmap)
+* [Networking of a turn-based game | Longwelwind](https://longwelwind.net/blog/networking-turn-based-game/)
 * [Alex Tardif: Graphics Engineer](http://alextardif.com/LearningGraphics.html)
+* [game-developer-roadmap: Roadmap to becoming a game developer in 2022](https://github.com/utilForever/game-developer-roadmap)
 * [Simutrans - Transport Simulator](https://www.simutrans.com/en/)
 
 # Board game
