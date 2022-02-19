@@ -836,6 +836,7 @@ Go
 * [Why learn Golang Programming Language in 2022? | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/what-is-go-or-golang-programming-language-why-learn-go-in-2020-1cbf0afc71db)
 * [Go language for Beginners - YouTube](https://www.youtube.com/playlist?list=PLxhFuGxg9JY_XpGUSGVPcDsC0GaqqL4JC)
 * [Top 5 Free Courses to learn Golang for Beginners in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/12/5-free-courses-to-learn-golang-for.html)
+* [2022 - APRENDE A PROGRAMAR CON GO DESDE 0 - YouTube](https://www.youtube.com/playlist?list=PL5RTI3w_BqqAdl0u-u69iF2iSxOaJIcrb)
 
 # Web
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
@@ -867,6 +868,7 @@ Go
   * [Crash course in Gin Framework - YouTube](https://www.youtube.com/watch?v=N14HOh10ghY)
 * [go-bootstrap Generates a lean and mean Go web project](http://go-bootstrap.io/)
   * [go-bootstrap.io - Generates a lean and mean Go web project http://go-bootstrap.io](https://github.com/go-bootstrap/go-bootstrap)
+* [golang-redis-webserver: web server using redis](https://github.com/Paulo-Lopes-Estevao/golang-redis-webserver)
 * [Gorilla - a web toolkit for the Go programming language that provides useful, composable packages for writing HTTP-based applications](https://github.com/gorilla)
 * [GoTTY - Share your terminal as a web application](https://github.com/yudai/gotty)
 * [pglet: Pglet - build internal web apps quickly in the language you already know!](https://github.com/pglet/pglet)
