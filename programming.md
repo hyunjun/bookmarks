@@ -103,6 +103,7 @@ Programming
 * [Book Review: A Philosophy of Software Design | Johz Blog](https://johz.bearblog.dev/book-review-philosophy-software-design/)
 * [**Software Design in Python - YouTube**](https://www.youtube.com/playlist?list=PLC0nd42SBTaNuP4iB4L6SJlMaHE71FG6N)
 * [Analysis & Design · Present](https://present.do/decks/60c21e8267ba0b4949e79f42)
+* [**Rob Pike's 5 Rules of Programming**](https://users.ece.utexas.edu/~adnan/pike.html)
 * [Programming and Programming Languages](http://papl.cs.brown.edu/2014/)
 * [Getting Started with the Sport of Programming](http://sportprogramming.blogspot.in/2014/07/getting-started-with-sport-of.html)
 * [Free for developers](https://free-for.dev/)
@@ -1494,6 +1495,7 @@ Programming
 * [Talk&Talk 누구나 쉽게 이해할수 있는 마이크로서비스 아키텍처(MSA) #1편 - YouTube](https://www.youtube.com/watch?v=8d4h7K_Fq-0)
 * [Is my Microservice actually a Distributed Monolith in disguise? - Discover Better Value Faster](https://www.cloudnowtech.com/blog/is-my-microservice-actually-a-distributed-monolith-in-disguise/)
 * [**The Human Side of Airbnb’s Microservice Architecture - YouTube**](https://www.youtube.com/watch?v=yGOtTd-l_3E)
+* [7 Ways to Fail at Microservices](https://www.infoq.com/articles/microservices-seven-fail/)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -2510,6 +2512,7 @@ Programming
 * [Learning DevOps in 2022 | Thomas Stringer](https://trstringer.com/devops-learning-2022/)
 * [Expert Talk: DevOps & Software Architecture • Simon Brown, Dave Farley & Hannes Lowette • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Qv92qaIGbDg)
 * [DevOps Basics | Review N Prep](https://reviewnprep.com/blog/devops-basics/)
+* [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
   * GitHub, Jira 등의 도구를 연결해서 데이터를 수집한 뒤 이를 시각화해서 사용할 수 있는 데이터 레이크 및 대시보드
   * [DevLake - DevOps를 위한 오픈소스 Data Lake | GeekNews](https://news.hada.io/topic?id=5442)
@@ -2777,6 +2780,7 @@ Programming
 * [당신이 탄 그 버스는 메타버스가 아니다](https://brunch.co.kr/@brunchgpjz/33)
 * [메타버스, 가지 못한 길과 다 가본 길 < 과학 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=630)
 * ["I hate the metaverse" ①](https://otterletter.com/i-hate-the-metaverse/)
+* [메타버스, 부동산을 먼저 선점하라!? 건축가의 메타버스와 가상공간 분석! | 유현준, 미래 공간 - YouTube](https://www.youtube.com/watch?v=J2p4li82Fdg)
 
 # Microsoft
 * [알면 놀라는 마이크로소프트의 25가지 혁신 기술](http://m.seminartoday.net/news/articleView.html?idxno=8526)
