@@ -434,6 +434,7 @@ Android
   * [RxJava와 Coroutines을 간단하게 알아보자](https://thdev.tech/android/2019/11/30/RxJava-Corotuines-01/)
   * [RxJava로 LiveData 따라해보기 1](https://soda1127.github.io/reactive-variable-like-livedata/)
   * [RxJava로 LiveData 따라해보기 2](https://soda1127.github.io/reactive-variable-like-livedata-2/)
+  * [Pluu Dev - RxJava의 단위 테스트 ~ subscribe 엣지 케이스](http://pluu.github.io/blog/android/rxjava/2022/02/18/rxjava-error/)
 * [Sagiri - 유니티 로그 뷰어, Sagiri](https://libsora.so/posts/introduce-sagiri/)
 * [sample-mask](https://github.com/wonderful-coding-life/sample-mask)
 * [sms-cli - Stealth desktop SMS app. Compatible with Android via SMS Gateway API (http://smsgateway.me)](https://github.com/atduarte/sms-cli)
