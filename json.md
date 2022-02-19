@@ -147,6 +147,7 @@ Json
   * [How to Parse JSON in Java Object using Jackson - Example Tutorial | Java67](https://www.java67.com/2015/02/how-to-parse-json-tofrom-java-object.html)
 * [JMESPath - a query language for JSON](http://jmespath.org/)
 * [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo ](https://github.com/jpmens/jo)
+  * [Jan-Piet Mens :: A shell command to create JSON: jo](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/)
 * [**jq - a lightweight and flexible command-line JSON processor**](http://stedolan.github.io/jq/)
   * [practice - 몇 개의 key value들을 string으로 묶어서 출력](https://gist.github.com/hyunjun/1e9051236e9cc05ac3a407bd062ac3d7#file-example-md)
     * [Using jq to parse and display multiple fields in a json serially - Stack Overflow](https://stackoverflow.com/questions/28164849/using-jq-to-parse-and-display-multiple-fields-in-a-json-serially)
