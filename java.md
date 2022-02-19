@@ -283,6 +283,7 @@ Java
 * net
   * [Java Socket Client (TCP/IP) 소켓 프로그래밍](https://woolbro.tistory.com/28)
   * [Java Socket Client (TCP/IP) 소켓 프로그래밍](https://woolbro.tistory.com/29)
+  * [Java sockets I/O: blocking, non-blocking and asynchronous | LinkedIn](https://www.linkedin.com/pulse/java-sockets-io-blocking-non-blocking-asynchronous-aliaksandr-liakh/)
   * [Java UDP Client Server Program - UDP 프로그래밍](https://woolbro.tistory.com/30)
   * [Fundamentals of UDP Socket Programming in Java](https://medium.com/javarevisited/fundamentals-of-udp-socket-programming-in-java-4a6972370592)
   * [Java 의 SSLHandshakeException 문제 해결](https://www.lesstif.com/pages/viewpage.action?pageId=29590407)
@@ -795,12 +796,14 @@ Java
 * [Oracle's JDK 17 - Free Again for Commercial Use](https://www.infoq.com/news/2021/10/oracle-jdk-free-again/)
 * [To Java 17 and Beyond! - YouTube](https://www.youtube.com/watch?v=U14IA5XiX1I)
 * [Not stagnation, but regression of Java. Where modern Java 17 loses to Java 8 | by Marian Čaikovski | Dec, 2021 | Medium](https://marian-caikovski.medium.com/not-stagnation-but-regression-of-java-where-modern-java-17-loses-to-java-8-e45b31fec5ac)
+  * [Benchmarks Java 8 vs 17](https://horstmann.com/unblog/2022-01-06/index.html)
 * [Six Features From Java 12 to 17 to Get Excited About!](https://www.infoq.com/articles/six-features-jdk12-to-jdk17/)
 * [Johan Janssen - How and Why to Upgrade to Java 17 - YouTube](https://www.youtube.com/watch?v=N9ATMhH2bL0)
 
 # Java18
 * [레코드 및 배열 패턴 外··· 구체화되는 ‘자바 18’ 미리보기 - CIO Korea](https://www.ciokorea.com/news/205454)
 * [Java18 HttpServer API example](https://gist.github.com/thomasdarimont/8f13a26c56ed7a371908769784557825)
+* ['finalize 메소드 퇴역 이후' 자바 오류를 처리하고 클린업하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/224419)
 
 # JDK
 * [Java is Still Free 2.0.0](https://medium.com/@javachampions/java-is-still-free-2-0-0-6b9aa8d6d244)
@@ -974,6 +977,7 @@ Java
 * [GC progress from JDK 8 to JDK 17](https://kstefanj.github.io/2021/11/24/gc-progress-8-17.html)
 * [Detect proactively whether application’s memory is under-allocated - JAXenter](https://jaxenter.com/memory-under-allocated-176329.html)
 * [How Garbage Collection works in Java? Explained](https://javarevisited.blogspot.com/2011/04/garbage-collection-in-java.html)
+* [Java Garbage Collection - Java Heap Debugging](https://talktotheduck.dev/debugging-ram-java-garbage-collection-java-heap-deep-dive-part-1)
 * [Epsilon: The JDK’s Do-Nothing Garbage Collector](https://blogs.oracle.com/javamagazine/epsilon-the-jdks-do-nothing-garbage-collector)
 * [GCGC](https://github.com/apple/GCGC)
   * [Apple Open Sources GCGC: a Tool to Analyze Java GC Logs](https://www.infoq.com/news/2022/01/apple-gcgc-java/)
@@ -1559,6 +1563,7 @@ Java
 * [Error Response 서버로 전달하기 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/error-response-2/)
 * [Spring 프로젝트를 분석하는 방법](https://devkingdom.tistory.com/313)
 * [Spring으로부터 도메인 모듈을 보호하는 방법. 주의: 도메인 모델과 영속(JPA) 모델을 분리하는 내용에 대해서는… | by Solomon Maeng | Feb, 2022 | Medium](https://msolo021015.medium.com/spring%EC%9C%BC%EB%A1%9C%EB%B6%80%ED%84%B0-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%AA%A8%EB%93%88%EC%9D%84-%EB%B3%B4%ED%98%B8%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-91ffa157ee77)
+* [Hello World! | 토리맘의 한글라이즈 프로젝트](https://godekdls.github.io/)
 * [infoworld-dropwizard](https://github.com/MTyson/infoworld-dropwizard)
   * [드롭위저드 REST API 프레임워크, 예제로 간단히 시작해보기 - ITWorld Korea](https://www.itworld.co.kr/news/219849)
 * jasypt [28. Spring - jasypt로 application.properties(yml) 데이터 암/복호화](https://kim-jong-hyun.tistory.com/50)
