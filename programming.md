@@ -1735,6 +1735,8 @@ Programming
 * [‘AWS, GCP, 애저와의 협상’··· 기억해야 할 6가지 위험 - CIO Korea](https://www.ciokorea.com/news/212549)
 * [GSSHOP Mobile/Web 채널서비스의 클라우드 이관 스토리 :: GS Retail Engineering](https://gsretail.tistory.com/8)
 * [“클라우드가 컴퓨터인 세상, 웹 앱과 API 보안의 현실 직시하라” 퀄시스 - CIO Korea](https://www.ciokorea.com/news/216049)
+* [칼럼 | 클라우드 충격파, 아무도 예상 못했던 5가지 문제 - CIO Korea](https://www.ciokorea.com/news/224199)
+* [IDG 블로그 | 전문가들이 여전히 믿는 멀티클라우드에 대한 오해 3가지 - ITWorld Korea](https://www.itworld.co.kr/news/224159)
 * [같은 듯 다른 오브젝트 스토리지와 분산 파일 시스템](https://blog.naver.com/solutionnews/222578929203)
 * [OpenInfra Community Days Korea 2021 행사 참여후기](https://naleejang.tistory.com/252)
 * [IDG 블로그 | 너무 복잡한 클라우드, 사람 구하기만 더 어려워진다 - ITWorld Korea](https://www.itworld.co.kr/news/217794)
@@ -1763,6 +1765,7 @@ Programming
 * [Dataiku 다타이쿠 클라우드 서버 설치 방법 가이드](https://stricky.tistory.com/351) 네이버 클라우드 플랫폼
 * [DigitalOcean – The developer cloud](https://www.digitalocean.com/)
   * [Get a #linux #Ubuntu machine in 10 mins on DigitalOcean Cloud - YouTube](https://www.youtube.com/watch?v=a8a0iPmyMJA)
+* [Garage - An open-source distributed storage service](https://garagehq.deuxfleurs.fr/blog/2022-introducing-garage/)
 * [GCP Google Cloud Platform](gcp.md)
 * Heroku
   * [We are very far from a better Heroku for production apps in a hyper cloud | GitLab](https://about.gitlab.com/blog/2021/03/22/we-are-building-a-better-heroku/)
