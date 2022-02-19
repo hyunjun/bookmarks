@@ -211,6 +211,7 @@ Web
 * [FE개발자의 성장 스토리 06 : 2021년 Chrome의 새로운 변화 – Schemeful same-site을 대응하자 – tech.kakao.com](https://tech.kakao.com/2021/02/02/frontend-growth-06/)
 * [브라우저의 동작 원리와 렌더링 최적화 | Huskyhoochu 기술 블로그](https://www.huskyhoochu.com/how-browser-works/)
 * [Web Browser Engineering](https://browser.engineering/)
+  * [브라우저 이해하기 시리즈 | GeekNews](https://news.hada.io/topic?id=5965)
 * [well-known 디렉토리와 securty.txt 그리고 humans.txt](https://www.hahwul.com/2021/03/18/what-is-wellknown-directory/)
 * [37. 월드와이드웹(WWW)의 시작 1 | 만화로 나누는 자유/오픈소스 소프트웨어 이야기](https://joone.net/2021/01/02/37-%ec%9b%94%eb%93%9c%ec%99%80%ec%9d%b4%eb%93%9c%ec%9b%b9www%ec%9d%98-%ec%8b%9c%ec%9e%91-1/)
 * [WebDevChallenge: A hopefully ever-growing list of web-development related challenges](https://github.com/jlem/WebDevChallenge)
@@ -613,6 +614,7 @@ Web
 * [HTML 파일 기본 구조 - 완두블로그](https://wani.kr/posts/2014/11/19/html-skeleton/)
 * [50 HTML Best Practices & Guidelines to Build Better Web Projects | by Before Semicolon | Feb, 2021 | Medium](https://beforesemicolon.medium.com/50-html-best-practices-guidelines-to-build-better-web-projects-541736511c2d)
 * [HTML이 당신의 생각보다 더 중요한 이유 | ~/xo.dev](https://xo.dev/why-html-is-important-than-you-think/)
+* [Manage HTML DOM with vanilla JavaScript - HTML DOM](https://htmldom.dev/)
 * [HTMHell - A collection of bad practices in HTML found on real websites](https://github.com/matuzo/HTMHell)
 * [</> htmx - high power tools for html](https://htmx.org/)
 * [diff2html-cli: Pretty diff to html javascript cli (diff2html-cli)](https://github.com/rtfpessoa/diff2html-cli)
@@ -881,6 +883,7 @@ Web
     * [오픈소스 프로젝트를 만들어본 썰 풉니다! (feat. FastAPI, Slack) :: Jay's Code Factory](https://jay-ji.tistory.com/82)
   * [Moving Fast with FastAPI (aka Building a Web App with FastAPI) - YouTube](https://www.youtube.com/watch?v=R-YX_7-7dm0)
   * [FastAPI, CRUD API 개발을 위한 기록](https://breezymind.com/fastapi-crud-api/)
+  * [Developing FastAPI Application using K8s & AWS - PyCharm Guide](https://www.jetbrains.com/pycharm/guide/tutorials/fastapi-aws-kubernetes/)
   * [FastAPI-Auth: Example app using FastAPI and JWT](https://github.com/Madpilot0/FastAPI-Auth)
     * [Example app using FastAPI and JWT](https://pythonawesome.com/example-app-using-fastapi-and-jwt/)
   * [fastapi-boilerplate: FastAPI Boilerplate](https://github.com/teamhide/fastapi-boilerplate)
@@ -1240,6 +1243,7 @@ Web
   * 그래서 앞으로 JavaScript의 속도를 높이고 프로그래밍 언어 간의 상호운용성을 높일 수 있고 애플리케이션이 Wasm으로 플러그인 시스템을 제공 가능
   * WebAssembly를 이용한 새로운 애플리케이션 아키텍처가 생길 것이고 Docker와 통합되고 서버리스/엣지 프레임워크의 표준을 이끌 수 있다고 예측
   * 모든 언어에서 그렇듯 Wasm에도 WAPM이라는 패키지 매니저가 있지만 거의 운영되지 않으므로 이 부분도 기회
+  * [WebAssembly에 주목해야 할 이유 | GeekNews](https://news.hada.io/topic?id=5914)
 * [JavaScript vs WebAssembly easy benchmark](https://takahirox.github.io/WebAssembly-benchmark/)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Emscripten: An LLVM-to-WebAssembly Compiler](https://github.com/emscripten-core/emscripten)
@@ -1286,6 +1290,7 @@ Web
 * [The WebSocket Handbook: learn about the technology behind the realtime web | Ably Blog: Data in Motion](https://ably.com/blog/introducing-the-websocket-handbook)
   * [WebSocket 핸드북(64p 영문 PDF) | GeekNews](https://news.hada.io/topic?id=5743)
 * [오늘의 테크용어 : 웹소켓이 뭐냐면 - YouTube](https://www.youtube.com/watch?v=yXPCg5eupGM)
+* [Server-Sent Events: the alternative to WebSockets you should be using - germano.dev](https://germano.dev/sse-websockets/)
 * [WAMP - an open standard WebSocket subprotocol that provides two application messaging patterns in one unified protocol](http://wamp.ws/)
 
 # WSGI
