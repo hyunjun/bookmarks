@@ -1852,6 +1852,7 @@ Programming
 * [Code Review Best Practices at Google | Better Programming](https://medium.com/better-programming/13-code-review-standards-inspired-by-google-6b8f99f7fd67)
 * [When DRY Doesn’t Work, Go WET. It’s okay if you repeat yourself | by Nick Bull | Better Programming | Medium](https://medium.com/better-programming/when-dry-doesnt-work-go-wet-6befda0444bf)
 * [The Pros and Cons of DRY Code - Qvault](https://qvault.io/2021/01/25/the-pros-and-cons-of-dry-code/)
+* [DRY makes your code 500% better · intermediate Java code review - YouTube](https://www.youtube.com/watch?v=uD37ZTosqmI)
 * [Beyond Coupling and Cohesion: Strategies For Un-Fucking Yourself – Pursuit Of Laziness – A blog by Jesse Duffield](https://jesseduffield.com/Beyond-Coupling-And-Cohesion/)
 * [How to Make Your Code Reviewer Fall in Love with You · mtlynch.io](https://mtlynch.io/code-review-love/)
 * [Code Review Best Practices – Trisha Gee](https://trishagee.com/presentations/code_review_best_practice/)
