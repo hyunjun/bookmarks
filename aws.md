@@ -852,6 +852,7 @@ AWS
     * Netflix가 만든 ConsoleMe를 도입
     * Console의 웹 콘솔에서 롤을 선택해서 바로 권한을 신청, 정책 JSON에 대한 유효성 검사도 해주고 있어서 실수 방지, 리뷰하고 승인만 하면 클릭만으로 권한 부여
     * ConsoleMe가 STS를 통한 임시 권한도 발급해 주기 때문에 안전하게 AWS를 이용 가능
+  * [스타트업에서 AWS IAM 권한 관리 잘 하는법 - ConsoleMe 도입기 | GeekNews](https://news.hada.io/topic?id=5926)
 * [iamlive: Generate a basic IAM policy from AWS client-side monitoring (CSM)](https://github.com/iann0036/iamlive)
 * [infograph-iam.pdf](https://static.tpschmidt.com/infograph-iam.pdf)
 * [cloudsploit - Open-source AWS security scanning Misconfigurations, open security groups, permissive IAM roles. Scan for these threats and more for free](https://cloudsploit.com/)
