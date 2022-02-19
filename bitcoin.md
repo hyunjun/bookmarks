@@ -248,6 +248,7 @@ Bitcoin
 * [The Worrisome Rise of NFTs - Nautilus | Science Connected](https://nautil.us/the-worrisome-rise-of-nfts-13420/)
 * [NFTs just got easy - MoonPay](https://www.moonpay.com/blog/nft-checkout)
 * [JPG를 돈 주고 사는 사람들 (#NFT). JPG를 돈 주고 산다고? | by SJ Hong (홍승진) | Angel League | Jan, 2022 | Medium](https://medium.com/angel-league/jpg%EB%A5%BC-%EB%8F%88-%EC%A3%BC%EA%B3%A0-%EC%82%AC%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-nft-ea87ad836dc8)
+* [NFT 프로젝트 A to Z (리버스 엔지니어링)](https://soccer-programming.tistory.com/49)
 
 # Python
 * [A peek under Bitcoin's hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
