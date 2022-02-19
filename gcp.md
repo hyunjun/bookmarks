@@ -139,6 +139,7 @@ Google Cloud Platform GCP
 * [A Quick Tour of 7 Google Cloud Service for Data Engineering and Analytics | by Jerry An | Geek Culture | Medium](https://medium.com/geekculture/a-quick-tour-of-7-google-cloud-service-for-data-engineering-and-analytics-7860933df10e)
 * [Open sourcing the App Engine Standard Java runtime | Google Cloud Blog](https://cloud.google.com/blog/topics/developers-practitioners/open-sourcing-app-engine-standard-java-runtime)
   * [구글 AppEngine 자바 런타임 오픈소스로 공개 | GeekNews](https://news.hada.io/topic?id=5855)
+* [Google's Managed Continuous Delivery Service for Kubernetes Moves to GA](https://www.infoq.com/news/2022/02/google-cloud-deploy/)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
