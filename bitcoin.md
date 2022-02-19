@@ -58,6 +58,8 @@ Bitcoin
 * [On anyone-can-spend Pay-to-Taproot outputs before activation](https://b10c.me/blog/007-spending-p2tr-pre-activation/)
 * [DID You Hear? Decentralized Identifiers Are Coming – The New Stack](https://thenewstack.io/did-you-hear-decentralized-identifiers-are-coming/)
 * [브릿지 알고 쓰자! : 네이버 블로그](https://blog.naver.com/jinsol96/222637804119)
+* [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom - DEV Community](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
+* [DSHR's Blog: EE380 Talk](https://blog.dshr.org/2022/02/ee380-talk.html)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
@@ -185,6 +187,7 @@ Bitcoin
 * [Day 12 – A long journey to Ethereum signatures – Raku Advent Calendar](https://raku-advent.blog/2021/12/12/a-long-journey-to-ethereum-signatures/)
 * [The great renaming: what happened to Eth2? | Ethereum Foundation Blog](https://blog.ethereum.org/2022/01/24/the-great-eth2-renaming/)
 * [Apple M1 Mac Mini에서 이터리움 (Ethereum) 채굴하기](https://androidkr.blogspot.com/2022/02/apple-m1-mac-mini-ethereum.html)
+* [Attacking an Ethereum L2 with Unbridled Optimism - Jay Freeman (saurik)](https://www.saurik.com/optimism.html)
 * [fe: Emerging smart contract language for the Ethereum blockchain](https://github.com/ethereum/fe)
 * [PublicVotes - A publicly verifiable Voting System, powered by Smart Contracts](http://publicvotes.org/)
 * [truffle을 이용하여 스마트 컨트랙트 개발하기](https://blog.naver.com/pjt3591oo/222580257471)
@@ -249,6 +252,9 @@ Bitcoin
 * [NFTs just got easy - MoonPay](https://www.moonpay.com/blog/nft-checkout)
 * [JPG를 돈 주고 사는 사람들 (#NFT). JPG를 돈 주고 산다고? | by SJ Hong (홍승진) | Angel League | Jan, 2022 | Medium](https://medium.com/angel-league/jpg%EB%A5%BC-%EB%8F%88-%EC%A3%BC%EA%B3%A0-%EC%82%AC%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-nft-ea87ad836dc8)
 * [NFT 프로젝트 A to Z (리버스 엔지니어링)](https://soccer-programming.tistory.com/49)
+* [NFT, 재미에서 일상으로 (92p PDF) | GeekNews](https://news.hada.io/topic?id=6000)
+* [마플코퍼레이션, 글로벌 올인원 NFT 솔루션 론칭 – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/180929)
+* [상상초월 가격의 NFT 그림, 정말 그만한 가치가 있을까? 유현준이 보는 NFT 예술 - YouTube](https://www.youtube.com/watch?v=9z4rfZjEGWA) 기술 이야기는 아니지만 재미있게 볼 수 있음
 
 # Python
 * [A peek under Bitcoin's hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
@@ -283,3 +289,4 @@ Bitcoin
 * [Don't believe the hype: Web3 is not going to change the world | Sifted](https://sifted.eu/articles/web3-blockchain-internet-bitcoin-environment/)
 * [Crypto & NFTs: Network Effects in Web3 | by Sameer Singh | Breadcrumb.vc](https://breadcrumb.vc/crypto-nfts-network-effects-in-web3-7689cf8f0439)
 * [미래의 패러다임? 그저 대박의 기회?··· '웹3 개발자', 커리어 관점의 진단 - CIO Korea](https://www.ciokorea.com/news/223499)
+* [The Duality of Web3: Privacy vs. Transparency](https://coinsights.substack.com/p/the-duality-of-web3)
