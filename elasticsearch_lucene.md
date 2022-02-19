@@ -419,6 +419,7 @@ ElasticSearch - Lucene
 
 # Elasticsearch 8.x
 * [Elastic 8.0 설치하기 - Jongmin's Lifelog](http://kimjmin.net/2022/02/2022-02-elastic-8-install/)
+* [Elastic 8.0 aims to enhance search relevance](https://searchdatamanagement.techtarget.com/news/252513415/Elastic-80-aims-to-enhance-search-relevance)
 
 # ELK
 * [데이터과학 by 개발자 (ELK 스택)](https://www.youtube.com/playlist?list=PLVNY1HnUlO24LCsgOxR_eK2Yi4sOgH9Pg)
