@@ -407,6 +407,7 @@ Programming
 * [12. 사고를 쳐도 혼나지 않는 회사 - 너의 실수를 부검한다 - 포스트모템(Postmortem)](https://brunch.co.kr/@svillustrated/13)
 * [**post-mortems: A collection of postmortems. Sorry for the delay in merging PRs!**](https://github.com/danluu/post-mortems)
 * [Project Zero: This shouldn't have happened: A vulnerability postmortem](https://googleprojectzero.blogspot.com/2021/12/this-shouldnt-have-happened.html)
+  * [Project Zero: A walk through Project Zero metrics](https://googleprojectzero.blogspot.com/2022/02/a-walk-through-project-zero-metrics.html)
 * [AWS US-EAST-1 Outage: Postmortem and Lessons Learned](https://www.infoq.com/news/2021/12/aws-outage-postmortem/)
 * [2022년 1월 100% 할인 이벤트 장애 부검](https://tech.inflab.com/202201-event-postmortem/)
   * 인프런에서 연초 이벤트를 진행하면서 겪은 장애 상황을 정리한 글
@@ -941,6 +942,7 @@ Programming
   * [FAST '21 - Keynote Address: Netflix: Streaming Entertainment to 200 Million Members Around the World - YouTube](https://www.youtube.com/watch?v=mpLsAm557-o)
   * [웹 서비스 캐시 똑똑하게 다루기](https://toss.tech/article/smart-web-service-cache)
   * [How to setup a practically free CDN](https://gist.github.com/charlesroper/f2da6152d6789fa6f25e9d194a42b889)
+  * [Exposing a web service with Cloudflare Tunnel](https://erisa.dev/exposing-a-web-service-with-cloudflare-tunnel/)
   * [blueboat: Blueboat is an open-source alternative to Cloudflare Workers. The monolithic engine for serverless web apps.](https://github.com/losfair/blueboat)
 * [점진적인 레거시 웹 애플리케이션 개선 과정](https://www.slideshare.net/arawnkr/ss-115339631)
 * [next.js를 이용해 레거시 프로젝트를 점진적으로 개선해나가기](https://blog.roto.codes/django-template-to-next-js/)
@@ -2372,6 +2374,7 @@ Programming
 * [소프트웨어 개발보안 가이드('19.11.29) | 행정안전부> 업무안내> 디지털정부국> 정보화 표준·지침 자료실](https://www.mois.go.kr/frt/bbs/type001/commonSelectBoardArticle.do?bbsId=BBSMSTR_000000000045&nttId=74415)
 * [개발자를 위한 동형암호 ML. 정승우 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=Cc22oYDf228)
 * [보안인들의 유쾌한 모임! Becks KR 온라인 밋업에 참가했습니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-becks-kr-1/)
+* [가명정보 결합방식](https://itpenote.tistory.com/700)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [the_cyber_plumbers_handbook: Free copy of The Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)
@@ -2646,6 +2649,7 @@ Programming
 * [Batch processing best practices - Vlad Mihalcea](https://vladmihalcea.com/scheduled-jobs-best-practices/)
 * [The Big Little Guide to Message Queues](https://sudhir.io/the-big-little-guide-to-message-queues/)
 * [카카오 개발자들을 위한 공용 Message Streaming Platform – Kafka & RabbitMQ – tech.kakao.com](https://tech.kakao.com/2021/12/23/kafka-rabbitmq/)
+* [Redis vs Kafka vs RabbitMQ. When using asynchronous communication… | by Mertcan Arguç | Medium](https://medium.com/@mertcanarguc/redis-vs-kafka-vs-rabbitmq-e935ebbc7ec)
 * [bravenewgeek.com/tag/message-queues](https://bravenewgeek.com/tag/message-queues/)
   * [Dissecting Message Queues](https://bravenewgeek.com/dissecting-message-queues/)
 * [Cherami: Uber Engineering’s Durable and Scalable Task Queue in Go](https://eng.uber.com/cherami-message-queue-system/)
@@ -3391,6 +3395,7 @@ Programming
 * [Qiskit](https://qiskit.org/)
   * [Introduction to Quantum Computing with Python and Qiskit - YouTube](https://www.youtube.com/watch?v=dIcS0Yozq_U)
   * [Introduction to Quantum Computing with Python and Qiskit | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=ldX75svJx8M)
+* Twist [Meet Twist: MIT’s Quantum Programming Language - IEEE Spectrum](https://spectrum.ieee.org/quantum-programming-language-twist)
 
 # Reactive
 * [리액티브 개발 패러다임에 담긴 메시지](http://m.zdnet.co.kr/column_view.asp?artice_id=20161010104628#imadnews)
