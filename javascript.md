@@ -1601,6 +1601,8 @@ Javascript
 * [FAST - a collection of JavaScript packages centered around web standards, designed to help you efficiently tackle some of the most common challenges in website and application design and development](https://www.fast.design/docs/introduction/)
 * [Feathers 2.0 - A minimalist real-time framework for tomorrow’s apps](https://blog.feathersjs.com/introducing-feathers-2-0-aae8ae8e7920)
 * [Fil - Live coding in your browser with your favourite language](https://github.com/fatiherikli/fil)
+* [FingerprintJS Pro - Browser fingerprinting and fraud detection API](https://fingerprintjs.com/)
+  * [Demo: Disabling JavaScript Won’t Save You from Fingerprinting](https://fingerprintjs.com/blog/disabling-javascript-wont-stop-fingerprinting/)
 * [flagsmith: Feature flagging and remote config service. Host yourself or use our hosted version at https://flagsmith.com ](https://github.com/Flagsmith/flagsmith)
   * [Flagsmith - 오픈소스 Feature Flag 서비스 | GeekNews](https://news.hada.io/topic?id=4477)
 * [flowchart.js - Draws simple SVG flow chart diagrams from textual representation of the diagram](http://adrai.github.io/flowchart.js/)
