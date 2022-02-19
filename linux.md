@@ -1020,6 +1020,7 @@ Linux
 * [Modifying The Linux Kernel – New Syscalls – Coding Kaiser](https://codingkaiser.blog/2021/07/17/create-your-own-system-calls%e2%80%8a-%e2%80%8aprocess-weights/)
 * [Linux Kernel 101 for Beginner - YouTube](https://www.youtube.com/watch?v=96T6OCEqZNk)
   * [Linux Kernel 101 for Beginner](https://www.slideshare.net/InfraEngineer/linux-kernel-101-for-beginner)
+* [tracee: Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)
 
 ## Kernel Interrupt
 * [Interrupts and Interrupt Handling](https://github.com/0xAX/linux-insides/tree/master/interrupts)
