@@ -720,6 +720,7 @@ App
     * [How To Set Up VS Code for PHP Development with PHP Intelephense | DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-set-up-visual-studio-code-for-php-projects)
     * [프리지아 랩 :: Visual Studio Code 터미널의 한글 출력 문제 해결하기](https://www.dokyun.pe.kr/273)
     * [codetour: VS Code extension that allows you to record and playback guided tours of codebases, directly within the editor](https://github.com/microsoft/codetour)
+    * [openvscode-server: Run upstream VS Code on a remote machine with access through a modern web browser from any device, anywhere](https://github.com/gitpod-io/openvscode-server/tree/main)
     * Debug
       * [Debugging in Visual Studio Code](https://code.visualstudio.com/docs/editor/debugging#_launch-configurations)
       * [How to Use VS Code to Debug Unit Test Cases](https://medium.com/better-programming/how-to-use-vs-code-to-debug-unit-test-cases-6aebfd7021bd)
