@@ -54,6 +54,7 @@ Logging
   * 새 시스템은 로그 수집 단계에 Kafka를 두어 ES에 문제가 생겨도 Kafka가 데이터 유실 방지, Kafka 플러그인을 기본으로 제공하는 Logstash로 변경
 * [Logging at Twitter: Updated](https://blog.twitter.com/engineering/en_us/topics/infrastructure/2021/logging-at-twitter-updated)
 * [Who is the winner — Comparing Vector, Fluent Bit, Fluentd performance | by Ajay Gupta | IBM Cloud | Medium](https://medium.com/ibm-cloud/log-collectors-performance-benchmarking-8c5218a08fea)
+* [What's in a Good Error Message? - Gunnar Morling](https://www.morling.dev/blog/whats-in-a-good-error-message/)
 
 # Fluentd
 * [Fluentd](http://www.fluentd.org/)
