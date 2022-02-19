@@ -226,6 +226,7 @@ Interview
 * [Interview questions](https://teh.id.au/posts/2017/09/07/interview-questions/index.html)
 * [Reverse Interview](https://github.com/JaeYeopHan/Interview_Question_for_Beginner/blob/master/Reverse_Interview/README.md)
 * [지원자도 회사를 평가합니다. 이렇게요](https://brunch.co.kr/@goodgdg/142)
+* [Interview Questions to Ask Your Interviewer](https://daveceddia.com/interview-questions-to-ask-company/)
 
 # Amazon
 * [아마존에 개발자로 취업하기까지 #1](https://zaverome.wordpress.com/2016/01/03/%EC%95%84%EB%A7%88%EC%A1%B4%EC%97%90-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A1%9C-%EC%B7%A8%EC%97%85%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-1/)
@@ -270,6 +271,7 @@ Interview
 * [An Amazon Programmer's Perspective](https://gist.github.com/bricker/cb811b3b86d767124801)
 * [How To Stop Being Afraid of Technical Interviews | by Joey Colon | Better Programming | Medium](https://medium.com/better-programming/how-to-stop-being-afraid-of-technical-interviews-b60b064ff003)
 * [글로벌 칼럼 | 직장으로서의 AWS에 대해 잘 알려지지 않은 것 - ITWorld Korea](https://www.itworld.co.kr/news/206629)
+* [Amazon PIP 호러 스토리 | GeekNews](https://news.hada.io/topic?id=5902)
 
 # Apple
 * [Top 30 Apple Coding Interview Questions (With Solutions) | by The Educative Team | Better Programming](https://betterprogramming.pub/top-30-apple-coding-interview-questions-with-solutions-19990071ebfc)
@@ -413,6 +415,7 @@ Interview
       * [Designing Instagram](https://www.educative.io/collection/page/5668639101419520/5649050225344512/5673385510043648)
       * [How to Build a Mobile App like Instagram? (Instagram Clone)](https://www.engineerbabu.com/blog/how-to-build-a-mobile-app-like-instagram/)
       * [System Design Mock Interview: Design Instagram - YouTube](https://www.youtube.com/watch?v=VJpfO6KdyWE)
+      * [Instagram System Architecture. Please clap and share if you like this… | by JIN | InterviewNoodle | Medium](https://medium.com/interviewnoodle/instagram-system-architecture-fdbec22e48ee)
     * Twitter
       * [blog.twitter.com/engineering/en_us/topics/infrastructure.html](https://blog.twitter.com/engineering/en_us/topics/infrastructure.html)
       * [How to Design Twitter (Part 1)](http://blog.gainlo.co/index.php/2016/02/17/system-design-interview-question-how-to-design-twitter-part-1/)
@@ -772,6 +775,8 @@ Interview
 * [Interviewing at Microsoft— JavaScript Assessment Questions](https://medium.com/javascript-in-plain-english/microsoft-online-assessment-questions-js-f68ecdb6e927)
 * [My Interview Experience With Microsoft](https://medium.com/better-programming/my-interview-experience-with-microsoft-754039df9103)
 * [Microsoft SDE interviewer | Interview tips & guidelines | Interviewer ki mann ki baat - Ep 1 - YouTube](https://www.youtube.com/watch?v=MEDg5laDA9w)
+* [Don’t forget Microsoft - by John Luttig](https://luttig.substack.com/p/dont-forget-microsoft)
+  * [**Microsoft를 잊지 말아요 | GeekNews**](https://news.hada.io/topic?id=5977)
 
 # Problems
 * [40 Most Asked Java Interview Programs With Solutions](http://javaconceptoftheday.com/most-asked-java-interview-programs-with-solutions/)
