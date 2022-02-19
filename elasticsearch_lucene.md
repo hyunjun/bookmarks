@@ -124,6 +124,7 @@ ElasticSearch - Lucene
     * [2부](https://www.elastic.co/kr/blog/just-enough-kafka-for-the-elastic-stack-part2)
 * [Elastic Search & Kafka - SLiPP 스터디 - SLiPP::위키](https://www.slipp.net/wiki/pages/viewpage.action?pageId=30771281)
 * [Apache Kafka 소개, 아키텍처 및 Elastic 연동 방법 - YouTube](https://www.youtube.com/watch?v=R5Hw8zYazFs)
+* [Building a Search Index with Kafka and Elasticsearch](https://www.quastor.org/p/building-a-search-index-with-kafka?utm_source=url)
 * [How scoring works in Elasticsearch](https://www.compose.io/articles/how-scoring-works-in-elasticsearch/)
 * [And the big one said "Rollover" — Managing Elasticsearch time-based indices efficiently](https://www.elastic.co/kr/blog/managing-time-based-indices-efficiently)
 * [새로운 Elasticsearch 프론티어: Elastic Cloud Enterprise 1.0 GA](https://www.elastic.co/kr/blog/manage-and-monitor-elasticsearch-clusters-at-scale-on-any-infrastructure)
