@@ -232,6 +232,7 @@ Git
   * Hubot은 로그 수집 도구인 Kusto에 질의를 할 수 있으므로 문제가 생겼을 때 Hubot을 이용해서 바로 조회, 처음 온 사람도 비상대기할 때 장애 상황에 대처할 플레이 북 문서를 Hubot을 통해서 조회, 플레이 북을 자동화해서 문제 검색
 * [How to automate everything with GitHub with GitHub App - YouTube](https://www.youtube.com/watch?v=mF_sw6R7Bf0)
 * [Git 2.35의 주요 변경점 | GeekNews](https://news.hada.io/topic?id=5856)
+* [My tips for maintaining dotfiles in source control | Opensource.com](https://opensource.com/article/22/2/dotfiles-source-control)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
@@ -473,6 +474,7 @@ Git
   * [이상현 IN 베를린 :: 깃헙의 main 브랜치에 반대하는 이유](https://iamsang.com/blog/2020/11/11/github-and-main-branch/)
   * [Git branch 톺아보기 - branch를 확인/생성/삭제](https://xtring-dev.tistory.com/entry/Git-Git-branch-%ED%86%BA%EC%95%84%EB%B3%B4%EA%B8%B0-branch%EB%A5%BC-%ED%99%95%EC%9D%B8%EC%83%9D%EC%84%B1%EC%82%AD%EC%A0%9C)
   * [Git에서의 branch name을 대신하는 '-' (hyphen)](https://jusths.tistory.com/230)
+  * [How to Delete Branches in Git | Erik August Johnson](https://www.eaj.io/articles/deleting-a-git-branch/)
 * checkout
   * `git checkout [branch name] -- [file name]` [checkout specific files from another branch](http://nicolasgallagher.com/git-checkout-specific-files-from-another-branch/)
   * `git checkout HEAD -- path/to/file.txt` [Find and restore a deleted file in a Git repository](http://stackoverflow.com/questions/953481/find-and-restore-a-deleted-file-in-a-git-repository)
