@@ -1053,6 +1053,7 @@ Programming Books
 * (NOT YET) [퀀트 전략을 위한 인공지능 트레이딩](https://www.hanbit.co.kr/store/books/look.php?p_code=B1740090592)
 * (NOT YET) [알고리즘트레이딩을 위한 파이썬](https://brunch.co.kr/@gauss92tgrd/15)
 * (NOT YET) [퀀트 투자를 위한 머신러닝·딥러닝 알고리듬 트레이딩](https://brunch.co.kr/@gauss92tgrd/33)
+* (NOT YET) [손에 잡히는 퀀트 투자 with 파이썬 | 위키북스](https://wikibook.co.kr/quant/)
 
 # Flutter
 * (NOT YET) [처음 배우는 플러터 : 예제로 배우는 크로스 플랫폼 애플리케이션 개발](http://www.hanbit.co.kr/store/books/look.php?p_code=B8753032429)
@@ -1639,6 +1640,7 @@ Programming Books
 * (NOT YET) [구글 BERT의 정석](https://hanbit.co.kr/store/books/look.php?p_code=B2201215526)
 * (NOT YET) [BERT와 GPT로 배우는 인공지능 자연어처리](http://www.aitimes.kr/news/articleView.html?idxno=23390)
   * [**트랜스포머 관련 책 독서 후기**](https://www.facebook.com/Thomas.CS.Park/posts/10222184767793514)
+* (NOT YET) [파이썬 텍스트 마이닝 완벽 가이드 | 위키북스](https://wikibook.co.kr/textmining/)
 
 # NoSQL
 
