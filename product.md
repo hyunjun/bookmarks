@@ -185,6 +185,9 @@ Product
 * [맥 프로와 어울리는 공중부양 스피커](http://www.earlyadopter.co.kr/9458)
 * [타투로 새긴 회로? 아이패드 가죽 케이스](http://techholic.co.kr/archives/31656)
 
+# Monitor
+* [How to Pick a Good Monitor for Software Development — Nick Janetakis](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development)
+
 # Musical Instrument
 * [이젠 뉘앙스까지…자동연주 피아노](http://techholic.co.kr/archives/31984)
 * [모르는 곡도 연주할 수 있는 스마트 기타](http://www.earlyadopter.co.kr/3905)
