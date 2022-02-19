@@ -26,3 +26,4 @@
   * [Google plans big privacy changes](https://www.linkedin.com/news/story/google-plans-big-privacy-changes-4681209/)
   * [Google Android Sandbox](https://brunch.co.kr/@hae-ra/73)
   * [구글, 앱 이용자 데이터 수집 차단...'메타'에게 독일까?](https://www.bloter.net/newsView/blt202202170095)
+  * [구글 안드로이드도 앱추적 금지…"광고주 피해 최소화" - ZDNet korea](https://zdnet.co.kr/view/?no=20220217102400)
