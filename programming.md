@@ -571,6 +571,7 @@ Programming
   * [Spotify의 Squad 팀 모델은 실패였다](https://news.hada.io/topic?id=2191)
 * [What is Fake Agile? Understanding the Dark Side of Agile and How to Avoid It | Process Street | Checklist, Workflow and SOP Software](https://www.process.st/fake-agile/)
 * [ENG 애자일 코치, 스크럼 마스터? 직장인 리더십의 진정한 조건! | 일하는 우리 | - YouTube](https://www.youtube.com/watch?v=U67CRZFwZTQ)
+* [Scrum Master vs Product Owner: How Are These Two Roles Different](https://k21academy.com/scrum-master/scrum-master-vs-product-owner-which-role-is-suitable-for-you)
 * [IT 알려주는 은행원 애자일 전문가 되는 비법 공개 - YouTube](https://www.youtube.com/watch?v=QJ4zM8CAKp0)
 * [Agile Testing Condensed Korean Edition by Janet Gregory et al](https://leanpub.com/agiletesting-condensed-korean-edition)
 * [클린 애자일 - 첫 마음으로 돌아가보는 여정](https://jusths.tistory.com/188)
@@ -2502,6 +2503,7 @@ Programming
 * ['eBPF부터 오픈소스까지' 2022년 '관찰가능성' 주요 트렌드 5가지 - ITWorld Korea](https://www.itworld.co.kr/news/223914) observability
 * [Learning DevOps in 2022 | Thomas Stringer](https://trstringer.com/devops-learning-2022/)
 * [Expert Talk: DevOps & Software Architecture • Simon Brown, Dave Farley & Hannes Lowette • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Qv92qaIGbDg)
+* [DevOps Basics | Review N Prep](https://reviewnprep.com/blog/devops-basics/)
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
   * GitHub, Jira 등의 도구를 연결해서 데이터를 수집한 뒤 이를 시각화해서 사용할 수 있는 데이터 레이크 및 대시보드
   * [DevLake - DevOps를 위한 오픈소스 Data Lake | GeekNews](https://news.hada.io/topic?id=5442)
