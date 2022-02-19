@@ -13,6 +13,7 @@
 * [아마존 광고 매출, 어느새 MS·스냅·트위터 합친 것 보다 커져 < 인터넷 < 기사본문 - 디지털투데이 (DigitalToday)](http://www.digitaltoday.co.kr/news/articleView.html?idxno=433482)
 * [업종별 이메일 마케팅 벤치마크 보고서 2022 | GeekNews](https://news.hada.io/topic?id=5918)
 * [Digital Marketing Course For Beginners 2022 | Digital Marketing Complete Course | Simplilearn - YouTube](https://www.youtube.com/watch?v=3mHmEDyLtUw)
+* [Privacy Preserving Attribution for Advertising](https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/)
 * funnel [Automated data collection & marketing reports | Funnel](https://funnel.io/)
 
 # Google
@@ -27,3 +28,4 @@
   * [Google Android Sandbox](https://brunch.co.kr/@hae-ra/73)
   * [구글, 앱 이용자 데이터 수집 차단...'메타'에게 독일까?](https://www.bloter.net/newsView/blt202202170095)
   * [구글 안드로이드도 앱추적 금지…"광고주 피해 최소화" - ZDNet korea](https://zdnet.co.kr/view/?no=20220217102400)
+  * ["애플 앱 추적 투명성 기능 미흡" 구글, 안드로이드 개인정보 보호 기능 강화 예고 - ITWorld Korea](https://www.itworld.co.kr/news/225829)
