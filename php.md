@@ -50,6 +50,7 @@ PHP
   * [PHP in 2021 | GeekNews](https://news.hada.io/topic?id=4086)
 * [PHP 8: a New Version, a New Era - YouTube](https://www.youtube.com/watch?v=FeQ4SiUqCj0)
 * [Modern PHP Cheat Sheet - Front Line PHP](https://front-line-php.com/cheat-sheet)
+* [PHP in 2022 - stitcher.io](https://stitcher.io/blog/php-in-2022)
 
 # API
 * ['==' 연산자를 사용하면 안되는 이유 - 완두블로그](https://wani.kr/posts/2016/03/21/equal-operator-what-is-the-problem/)
@@ -110,6 +111,7 @@ PHP
 * [Plates - Native PHP Templates](http://platesphp.com/)
 * [Roadrunner - Modernizing PHP Applications with Golang](https://roadrunner.dev/)
 * [Slim - a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs](https://github.com/slimphp/Slim)
+* [Symfony at a Glance](https://symfony.com/at-a-glance)
 * VarDumper
   * [var_dump 는 이제 그만! 예쁘고 편리한 symphony VarDumper 패키지](https://www.lesstif.com/pages/viewpage.action?pageId=26083691)
 * [webrtc-php: WebRTC PHP SSE shared-hosting without websockets](https://github.com/nielsbaloe/webrtc-php)
