@@ -104,6 +104,7 @@ Business
 * [XP 혹은 점수와 성과와 책임 분배](https://brunch.co.kr/@graypool/246) 여러가지 이야기가 많이 섞여있으나 결국 조직의 역할 분담으로 나는 생각했음
 * [2년 동안 근무했던 회사를 떠나며](https://evan-moon.github.io/2019/08/17/leave-the-company/) 개발자 입장에서 팀원들로 인해 변화된 자신에 대한 이야기
 * [팀워크 · Soojin Ro](https://soojin.ro/blog/teamwork)
+* [잘 나가는 팀의 3가지 특징 – 체인지그라운드](http://thechangeground.com/archives/20478) teamwork
 * [직원을 적으로 돌리는 회사](https://brunch.co.kr/@lunarshore/124)
 * [직원을 뽑았으면 잘하는 일을 시켜라 | ㅍㅍㅅㅅ](https://ppss.kr/archives/168406)
 * [어거지로 소통,협업 하지 마라](http://ppss.kr/archives/59165)
@@ -847,6 +848,7 @@ Business
 * [대지진에도 멀쩡했던 후쿠시마 제 2 원전..... : 네이버블로그](https://blog.naver.com/businessinsight/221397693111) sensemaking
 * [좋은 사람처럼 보이려고 애쓰지 마라](http://moneyman.kr/archives/11456)
 * [언리더십: 직원을 경영의 대상으로 보지마라 | 인사/조직 | DBR](https://dbr.donga.com/article/view/1201/article_no/5088/ac/magazine)
+* [Seven Transformations of Leadership](https://hbr.org/2005/04/seven-transformations-of-leadership)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
