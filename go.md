@@ -527,7 +527,8 @@ Go
   * [dqlite - Go 애플리케이션을 위한 분산 SQLite](http://jhrogue.blogspot.kr/2018/04/b-dqlite-go-sqlite.html)
 * [Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go](https://github.com/elsaland/elsa)
 * [Encore - Go framework for building distributed systems](https://github.com/encoredev/encore)
-* [ent: An entity framework for Go](https://github.com/ent/ent) ORM
+* [ent. An entity framework for Go](https://entgo.io/) ORM
+  * [ent: An entity framework for Go](https://github.com/ent/ent)
 * [eris provides a better way to handle, trace, and log errors in Go](https://github.com/rotisserie/eris)
 * [exposq - Go app that dispatches osquery to multi-machines](https://github.com/emirozer/exposq)
 * [Facebook Go](https://github.com/facebookgo)
@@ -817,6 +818,7 @@ Go
 * [Golang 인터페이스와 단위 테스트 | Popit](https://www.popit.kr/golang-%ec%9d%b8%ed%84%b0%ed%8e%98%ec%9d%b4%ec%8a%a4%ec%99%80-%eb%8b%a8%ec%9c%84-%ed%85%8c%ec%8a%a4%ed%8a%b8/)
 * [Golang 테스트 커버리지 측정과 코드 정적 분석 그리고 SonarQube | Popit](https://www.popit.kr/golang-%ed%85%8c%ec%8a%a4%ed%8a%b8-%ec%bb%a4%eb%b2%84%eb%a6%ac%ec%a7%80-%ec%b8%a1%ec%a0%95%ea%b3%bc-%ec%bd%94%eb%93%9c-%ec%a0%95%ec%a0%81-%eb%b6%84%ec%84%9d-%ea%b7%b8%eb%a6%ac%ea%b3%a0-sonarqube/)
 * [Unit Testing RESTful APIs | TDD | Golang with Docker - YouTube](https://www.youtube.com/watch?v=tTz7b2AongA)
+* [Internals of Go's new fuzzing system — jayconrod.com](https://jayconrod.com/posts/123/internals-of-go-s-new-fuzzing-system)
 * [go-fuzz: randomized testing for Go](https://github.com/dvyukov/go-fuzz)
   * [고랭에서 찾기 힘든 버그 잡는다… ‘고 퍼즈’ 베타 테스트 공개 - CIO Korea](https://www.ciokorea.com/news/196604)
 * [MartianProxy is a proxy designed for use in E2E testing](https://github.com/google/martian)
