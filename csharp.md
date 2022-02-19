@@ -137,6 +137,7 @@ C#
   * [Blazor 웹 애플리케이션에 node.js를 이용해 React UI 컴포넌트 끼얹기](https://blog.aliencube.org/ko/2020/06/10/adding-react-components-to-blazor-webassembly-app-by-nodejs)
   * [애저 정적 웹 앱에 블레이저 웹 어셈블리 앱 호스팅하기 | Aliencube](https://blog.aliencube.org/ko/2020/06/17/hosting-blazor-web-assembly-app-on-azure-static-webapp)
   * [블레이저 앱 UI에서 코드 분리하기 | Aliencube](https://blog.aliencube.org/ko/2021/03/10/blazor-code-behind/)
+  * [Blazor Course - Use ASP.NET Core to Build Full-Stack C# Web Apps - YouTube](https://www.youtube.com/watch?v=4G_BzLxa9Nw)
 * [calculator - Windows Calculator: A simple yet powerful calculator that ships with Windows](https://github.com/Microsoft/calculator)
   * [Counting Bugs in Windows Calculator](https://m.habr.com/en/company/pvs-studio/blog/443400/)
 * [CSCore - An advanced audio library, written in C#. Provides tons of features. From playing/recording audio to decoding/encoding audio streams/files to processing audio data in realtime (e.g. applying custom effects during playback, create visualizations,...). The possibilities are nearly unlimited](https://github.com/filoe/cscore)
