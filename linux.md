@@ -839,6 +839,8 @@ Linux
   * [Avoiding complexity with systemd | Michael Maclean](https://mgdm.net/weblog/systemd/)
   * [systemd service sandboxing and security hardening 101](https://www.ctrl.blog/entry/systemd-service-hardening.html)
   * [systemd, 10 years later: a historical and technical retrospective](https://blog.darknedgy.net/technology/2020/05/02/0/)
+  * [systemd by example - the systemd playground](https://systemd-by-example.com/)
+    * [systemd by Example | GeekNews](https://news.hada.io/topic?id=5891)
 * systemtap
   * [커널 분석을 위한 systemtap 스크립트](https://brunch.co.kr/@alden/42)
 * `tac`
