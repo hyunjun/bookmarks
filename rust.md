@@ -343,6 +343,7 @@
 * [Writing a Programming Language - YouTube](https://www.youtube.com/playlist?list=PLkpGh2gaaueyzEAn07jf44LdscDeWRyzy)
 * [Rust 공부하기 - YouTube](https://www.youtube.com/playlist?list=PLdvEO-IMMcPvfiBkVwgIwDf4AuTjI2aeG)
 * [Rust — The Programming Language that Delivers - YouTube](https://www.youtube.com/watch?v=VnLd0ZLQvog)
+* [Rust 101 Lecture Series - YouTube](https://www.youtube.com/playlist?list=PL-zQguBgjr2O4d-B9g_b0WYh1fyXr6MMq)
 * [rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
   * 버그 수정하며 Rust 언어 배우기
   * 에러가 있는 코드를 수정하면서 Rust를 읽고 쓰는법 배우기
