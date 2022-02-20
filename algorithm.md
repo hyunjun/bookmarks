@@ -31,6 +31,7 @@ Algorithm
 * [Data Structures and Algorithms Full Course with FAANG Interview Questions Solved | DS Algo Tutorial - YouTube](https://www.youtube.com/watch?v=NLDJwMLm1Q4)
 * [Data Structures Full Course | Data Structures And Algorithms Full Course | Simplilearn - YouTube](https://www.youtube.com/watch?v=_x9zPaRfEY4)
 * [Top 5 Courses to learn Data Structures and Algorithms in Python in 2022 - Best of Lot](https://javarevisited.blogspot.com/2020/11/python-data-structure-algorithm-course.html)
+* [Top 5 Courses to learn Data Structure and Algorithms in 2022 - Best of Lot UPDATED](https://javarevisited.blogspot.com/2018/11/top-5-data-structures-and-algorithm-online-courses.html)
 * [Top 5 Free Data Structure and Algorithm Courses for Java and C Programmers](https://javarevisited.blogspot.com/2018/01/top-5-free-data-structure-and-algorithm-courses-java--c-programmers.html)
 * [Data Structure - YouTube](https://www.youtube.com/playlist?list=PLLykrwdi1zxF0ezo6NCzrAW4nZ6zDl6k6)
 * [Design & Analysis of Algorithm - YouTube](https://www.youtube.com/playlist?list=PLLykrwdi1zxF22UVdcQnbiMfSOBTOiGVq)
