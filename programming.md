@@ -3678,6 +3678,7 @@ Programming
     * 전략적 역량을 제공하고 협업을 개선하고 효율성을 유도하고 정보 접근을 간소화하거나 위험을 낮추는 것도 중요
   * 생산성을 측정하는 목표 중 하나는 생산성 개선을 이끄는 투자를 최적화하는 것
   * 비즈니스 성과와 개발자 생산성 메트릭을 결합한 KPI는 '팀이 생산성을 개선하면서 우선순위가 높은 비즈니스 성과를 제공하고 있는가'라는 질문에 답하는 데 도움
+* [What’s Wrong With Measuring Developer Performance (+ 10 Best Metrics) - DEV Community](https://dev.to/actitime/whats-wrong-with-measuring-developer-performance-10-best-metrics-5620)
 * [프로덕트 조직의 생산성 높이기 (라인플러스 Fellow 김영재) - YouTube](https://www.youtube.com/watch?v=xlV82Q-ZmAA&list=PLhSAACiXcoKL4Jupof50JNmQi7_VI1-ne)
 * [Top 10 Things That Destroy Developer Productivity - YouTube](https://www.youtube.com/watch?v=O-U11s-Rk_w)
   * interruptions and meetings, micromanagement, vagueness, environment, scope creep product development process
