@@ -443,6 +443,8 @@ Business
 * [채용하는데 2주, 퇴사하는데도 2주? 넷플릭스, '부검 메일'로 퇴사 문화 만들어 - 사례뉴스](http://www.casenews.co.kr/news/articleView.html?idxno=4247)
 * [백종화 A급 직원의 퇴사에는 이유가 있다](http://www.apparelnews.co.kr/news/news_view/?idx=192806)
 * [멋쟁이사자처럼을 사랑했던 직원의 가장 긴 퇴근](https://brunch.co.kr/@likelion/41) 퇴사
+* [MZ세대가 퇴사하는 진짜 이유 - YouTube](https://www.youtube.com/watch?v=vnX70pdlYkY)
+* [퇴사하는 MZ, 그들은 왜 떠나는가 | EBS 비즈니스 리뷰 김나이 편 - YouTube](https://www.youtube.com/watch?v=RLO4goMgqCM)
 * [글로벌 칼럼 | '대퇴직 시대' 원인도 해법도 결국 기술이다 - ITWorld Korea](https://www.itworld.co.kr/news/218149)
 * [유능한 인재가 이내 떠나는 조직··· 9가지 공통점 - CIO Korea](https://www.ciokorea.com/news/138296)
 * [좋은 '인사'란 무엇일까...카카오 HR 리더와의 솔직한 대화 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hrkakao20170911) 황성현님
@@ -1016,6 +1018,7 @@ Business
 * [Build a Minimum *Loveable* Product](https://pichsenmeister.com/build-a-minimum-lovable-product/)
 * [프로토타입 외주 개발 왜 실패할까](http://www.venturesquare.net/581594)
 * [스타트업에 의해 해체되는 대기업: Unbundling 현상](http://estimastory.com/2015/04/21/unbundling/)
+* [대기업 신사업 TFT가 늘 실패하는 이유](https://brunch.co.kr/@fbrudtjr1/43)
 * [전 지구에 불고 있는 O2O 열풍, 한중일 O2O 시장 비교](http://besuccess.com/2015/04/global-o2o-trend/)
 * [스타트업, 린 비즈니스 모델(Lean Business Model)이 필요하다](http://verticalplatform.kr/archives/4576)
 * [투자자들과 창업자들이 만나는 리얼리티 TV쇼, 샤크 탱크](http://sungmooncho.com/2012/04/07/shark-tank/)
@@ -1171,3 +1174,4 @@ Business
 * [쿠팡이츠는 어떻게 팔리는 경험을 만들어냈을까 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/coupangeats20220118)
 * [버튼에는 손모양 포인터가 적합한가 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/885)
 * [😢 아쉽지만, 회원탈퇴 프로세스 분석](https://maily.so/tipster/posts/d67d36)
+* [고령층 친화 디지털 접근성 표준(키오스크 적용가이드)](https://sdf.seoul.kr/research-report/1663)
