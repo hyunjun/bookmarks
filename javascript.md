@@ -731,6 +731,7 @@ Javascript
 * [리액트로 알아보는 CSR(Client Side Rendering)과 SSR(Server Side Rendering)의 차이점, next 사용시 주의사항](https://blog.naver.com/pjt3591oo/222533482899)
 * [SSR? Server-Side Rendering? 그게 뭔데? | by We SeungJun | IOTRUST : Team Blog | Jul, 2021 | Medium](https://medium.com/iotrustlab/ssr-server-side-rendering-%EA%B7%B8%EA%B2%8C-%EB%AD%94%EB%8D%B0-22d7e918ec1)
 * [CSR vs SSR vs SSG - 콥 노트](https://ajdkfl6445.gitbook.io/study/web/csr-vs-ssr-vs-ssg) Static Site Generator(SSG), Universal Rendering, Incremental Static Regeneration (ISR)
+* [스켈레톤UI가 올바른 방향일까? | LinkedIn](https://www.linkedin.com/pulse/010-%EC%8A%A4%EC%BC%88%EB%A0%88%ED%86%A4ui%EA%B0%80-%EC%98%AC%EB%B0%94%EB%A5%B8-%EB%B0%A9%ED%96%A5%EC%9D%BC%EA%B9%8C-%ED%98%84%EC%9E%AC-%EC%9D%B4/) CSR SSR hydration
 * [로그인 페이지 만들기 실무편 | Animated Login page Tutorial (Label Text Animation) - YouTube](https://www.youtube.com/watch?v=dWfpp-0riYA)
 * [Learn JavaScript Event Listeners In 18 Minutes - YouTube](https://www.youtube.com/watch?v=XF1_MlZ5l6M)
 * [JavaScript Eventing Deep Dive](https://web.dev/eventing-deepdive/)
@@ -2724,6 +2725,7 @@ Javascript
   * 플라톤과 이데아부터 아리스토텔레스의 분류 개념을 설명하면서 비트겐슈타인의 가족 유사성까지 이어지면서 프로토타입 이론이 등장하는 과정 설명
   * 프로토타입 이론에서는 원형(prototype)을 선택하고 문맥에 따라 범주가 달라진다
   * 이를 JavaScript에서 이 프로토타입 이론을 구현하기 위해 prototype, hoisting, this가 어떻게 동작하고 있는지를 설명
+* [javascript 의 prototype과 상속](https://devkingdom.tistory.com/334)
 
 # Purescript
 * [JavaScript, TypeScript and PureScript](https://www.youtube.com/watch?v=JTEfpNtEoSA)
