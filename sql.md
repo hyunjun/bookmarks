@@ -275,6 +275,7 @@ SQL
   * [dbdiagram - Draw Entity-Relationship Diagrams, Painlessly](https://dbdiagram.io/)
   * [DBML: Database Markup Language · /usr/lib/libsora.so](https://libsora.so/posts/dbml-entity-relation-diagram-as-code/)
   * [erdplus.com](https://erdplus.com)
+  * [SequenceDiagram.org - UML Sequence Diagram Online Tool](https://sequencediagram.org/)
 * [falcon - Free, open-source SQL client for Windows and Mac](https://github.com/plotly/falcon)
 * [Flyway - Version control for your database. Robust schema evolution across all your environments. With ease, pleasure and plain SQL](https://flywaydb.org/)
 * [Instant SQL Formatter](http://www.dpriver.com/pp/sqlformat.htm)
