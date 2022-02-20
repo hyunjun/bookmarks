@@ -88,6 +88,10 @@ AWS
 * [MFA 활성화하고 계정을 안전하게 관리하기 - YouTube](https://www.youtube.com/watch?v=gTa8pHOrfMg)
 * [AWS IoT 버튼을 활용하여 차임벨 만들기](http://woowabros.github.io/study/2016/10/28/woowahan_chime_bell.html)
 * [회사 화분에 주기적으로 물주기 (AWS IoT 버튼 활용 사례)](https://medium.com/n42-corp/%ED%9A%8C%EC%82%AC-%ED%99%94%EB%B6%84%EC%97%90-%EC%A3%BC%EA%B8%B0%EC%A0%81%EC%9C%BC%EB%A1%9C-%EB%AC%BC%EC%A3%BC%EA%B8%B0-aws-iot-%EB%B2%84%ED%8A%BC-%ED%99%9C%EC%9A%A9-%EC%82%AC%EB%A1%80-99978e57a59c)
+* [AWS IoT SiteWise Example 오픈소스 업로드 :: 세상에서 가장 작은 LTE Cat.M1 모듈](https://codezoo.tistory.com/23)
+* [차량용 단말을 위한 IoT 파이프라인 구축기 #1 - SOCAR Tech Blog](https://tech.socarcorp.kr/mobility/2022/01/06/socar-iot-pipeline-1.html)
+* [차량용 단말을 위한 IoT 파이프라인 구축기 (feat. Kafka) #2 - SOCAR Tech Blog](https://tech.socarcorp.kr/mobility/2022/02/09/socar-iot-pipeline-2.html)
+* [쏘카의 관제 장치(Telematics Device)가 하는 일 - SOCAR Tech Blog](https://tech.socarcorp.kr/mobility/2022/02/15/control-device-with-car-sharing.html)
 * [Netflix Billing Migration to AWS – Part II](http://techblog.netflix.com/2016/07/netflix-billing-migration-to-aws-part-ii.html)
   * 어떻게 자연스럽게 자체 IDC에서 AWS 환경으로 이전했는지에 대한 글
 * [당신이 AWS 계정을 만들고 가장 먼저 해야 할 일 들과 하지 말아야 할 일 들](http://www.awskr.org/2017/01/your-aws-first-days-todo-list/)
@@ -432,14 +436,12 @@ AWS
 * [AWS Introduces Amazon FSx for OpenZFS](https://www.infoq.com/news/2021/12/amazon-fsx-for-openzfs/)
 * [How to fix SSH issues on EC2 Linux instances using AWS Systems Manager | AWS Cloud Operations & Migrations Blog](https://aws.amazon.com/de/blogs/mt/how-to-fix-ssh-issues-on-ec2-linux-instances-using-aws-systems-manager/)
 * [The top Amazon Science blog posts of 2021 - Amazon Science](https://www.amazon.science/latest-news/the-top-amazon-science-blog-posts-of-2021)
-* [차량용 단말을 위한 IoT 파이프라인 구축기 #1 - SOCAR Tech Blog](https://tech.socarcorp.kr/mobility/2022/01/06/socar-iot-pipeline-1.html)
-* [차량용 단말을 위한 IoT 파이프라인 구축기 (feat. Kafka) #2 - SOCAR Tech Blog](https://tech.socarcorp.kr/mobility/2022/02/09/socar-iot-pipeline-2.html)
-* [쏘카의 관제 장치(Telematics Device)가 하는 일 - SOCAR Tech Blog](https://tech.socarcorp.kr/mobility/2022/02/15/control-device-with-car-sharing.html)
 * [Performance Analysis for Arm vs x86 CPUs in the Cloud](https://www.infoq.com/articles/arm-vs-x86-cloud-performance/)
 * [Multi tenant Architecture for a SaaS Application on AWS | Clickittech](https://www.clickittech.com/saas/multi-tenant-architecture/)
 * [Storm in the stratosphere: how the cloud will be reshuffled · Erik Bernhardsson](https://erikbern.com/2021/11/30/storm-in-the-stratosphere-how-the-cloud-will-be-reshuffled.html)
 * [How I Discovered Thousands of Open Databases on AWS | by Avi Lumelsky | Jan, 2022 | InfoSec Write-ups](https://infosecwriteups.com/how-i-discovered-thousands-of-open-databases-on-aws-764729aa7f32)
 * [AWS Cloud Practitioner – The Complete Guide | Review N Prep](https://reviewnprep.com/blog/aws-cloud-practitioner-the-complete-guide/)
+* [AWS Networking & Content Delivery Services - YouTube](https://www.youtube.com/watch?v=lS6qoA2_VeQ)
 
 # AMI Amazon Machine Image
 * [Packer + Ansible을 이용한 AMI 생성 및 AutoScaling Group 이미지 교체 이야기](https://www.slideshare.net/awskr/packer-ansible-ami-autoscaling-group-88560117)
