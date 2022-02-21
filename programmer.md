@@ -115,6 +115,7 @@ Programmer
   * [2022년 우리의 커리어를 형성할 트렌드들 | GeekNews](https://news.hada.io/topic?id=5672)
 * [Even the CEO of Amazon didn’t have a master plan for his career | LinkedIn](https://www.linkedin.com/pulse/even-ceo-amazon-didnt-have-master-plan-his-career-devin-banerjee-cfa/) 개발자는 아니지만
 * [Are We Really Engineers? • Hillel Wayne](https://www.hillelwayne.com/post/are-we-really-engineers/)
+* [The developer's essential knowledge pyramid](https://chrisrichardson.net/post/development/2022/02/18/what-a-developer-needs-to-understand.html)
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
