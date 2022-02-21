@@ -231,6 +231,11 @@ C++
   * [volatile](http://blog.seulgi.kim/2017/11/cpp-volatile.html)
   * [Visual C++의 volatile](http://blog.seulgi.kim/2017/11/vcpp-volatile.html)
 
+# Asynchronous
+* [CppIndia Async in C++ by Oliver Esser - YouTube](https://www.youtube.com/watch?v=MFpWGC7AAO0)
+* [eznetpp - This is an asynchronous network library for C++ programmers](https://github.com/kangic/eznetpp)
+* [MozPromise: A Better Tool for Asynchronous C++](http://bholley.net/blog/2015/mozpromise.html)
+
 # Book
 * [알고리즘 문제해결을 위한 C/C++ 기초](https://wikidocs.net/book/1000)
 * [더북(TheBook): 모던 C++ 입문](https://thebook.io/006828/) 1장만
@@ -362,7 +367,6 @@ C++
   * [Implementing a lightweight task scheduler](http://www.enkisoftware.com/devlogpost-20150822-1-Implementing_a_lightweight_task_scheduler.html)
 * [Evenk - A C++ library for concurrent programming](https://github.com/ademakov/Evenk)
 * [eXtendedMirror - A simple and powerful C++ reflection system](https://github.com/m4nu3lf/eXtendedMirror)
-* [eznetpp - This is an asynchronous network library for C++ programmers](https://github.com/kangic/eznetpp)
 * [Folly Futures - Futures for C++11 at Facebook](https://code.facebook.com/posts/1661982097368498/futures-for-c-11-at-facebook/)
 * [fmt: A modern formatting library](https://github.com/fmtlib/fmt)
 * [FTXUI: C++ Functional Terminal User Interface](https://github.com/ArthurSonzogni/FTXUI)
@@ -388,7 +392,6 @@ C++
 * [MetroHash: Faster, Better Hash Functions](http://www.jandrewrogers.com/2015/05/27/metrohash/)
 * [mih - Fast Exact Search in Hamming Space with Multi-Index Hashing](http://www.cs.toronto.edu/~norouzi/research/mih/)
 * [mold: A Modern Linker](https://github.com/rui314/mold)
-* [MozPromise: A Better Tool for Asynchronous C++](http://bholley.net/blog/2015/mozpromise.html)
 * [nn - Non-nullable pointers for C++](https://github.com/dropbox/nn)
 * [NTL: A Library for doing Number Theory](http://www.shoup.net/ntl/)
 * [Parallelizing the Standard Template Library - Grant Mercer](https://www.youtube.com/watch?v=4xNeOmUW9ic)
