@@ -233,6 +233,7 @@ Git
 * [How to automate everything with GitHub with GitHub App - YouTube](https://www.youtube.com/watch?v=mF_sw6R7Bf0)
 * [Git 2.35의 주요 변경점 | GeekNews](https://news.hada.io/topic?id=5856)
 * [My tips for maintaining dotfiles in source control | Opensource.com](https://opensource.com/article/22/2/dotfiles-source-control)
+* [A brief history of code search at GitHub | The GitHub Blog](https://github.blog/2021-12-15-a-brief-history-of-code-search-at-github/)
 
 # Action
 * [GitHub Actions 소개](https://blog.outsider.ne.kr/1412)
