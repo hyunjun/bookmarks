@@ -1046,6 +1046,7 @@ Linux
 * [Top 7 terminal emulators for Linux | Opensource.com](https://opensource.com/life/17/10/top-terminal-emulators)
   * GNOME terminal, Guake, guake, Konsole, konsolee, Terminator, Tilda, Xterm, Yakuake
 * [Getting better at Linux with 10 mini-projects](https://carltheperson.com/posts/10-things-linux)
+* [Edit text on Linux with KWrite and Kate | Opensource.com](https://opensource.com/article/22/2/edit-text-linux-kde)
 * [alacritty - A cross-platform, GPU-accelerated terminal emulator](https://github.com/alacritty/alacritty)
 * [auto-cpufreq: Automatic CPU speed & power optimizer for Linux](https://github.com/AdnanHodzic/auto-cpufreq)
 * [BCHS: BSD, C, httpd, SQLite](https://learnbchs.org/index.html)
