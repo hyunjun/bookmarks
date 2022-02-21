@@ -1089,6 +1089,7 @@ Web
   * [k6 vs JMeter, 어느 성능 테스트 도구를 써야 할까? | by 용태 | Uniquegood | Dec, 2021 | Medium](https://medium.com/uniquegood/k6-vs-jmeter-%EC%96%B4%EB%8A%90-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%8F%84%EA%B5%AC%EB%A5%BC-%EC%8D%A8%EC%95%BC-%ED%95%A0%EA%B9%8C-8381aa13f5e6)
   * [Distributed Testing using JMeter & Docker | by Team 99x | Engineering at 99x](https://engineering.99x.io/distributed-testing-using-jmeter-docker-70c054a94fce)
   * [Performance and Load Testing with JMeter for beginners | by Suhana Pradhan | Medium](https://suhanap33.medium.com/performance-and-load-testing-with-jmeter-for-beginners-cbffb5d71674)
+  * [JMeter API Testing | Spring Boot Rest API Performance & Load Testing using JMeter | JavaTechie - YouTube](https://www.youtube.com/watch?v=eqZORQpOuZA)
 * [k6: A modern load testing tool, using Go and JavaScript - https://k6.io ](https://github.com/loadimpact/k6)
   * [Load testing for engineering teams | Grafana k6](https://k6.io/)
     * [Test builder](https://k6.io/docs/test-authoring/test-builder/)
