@@ -204,6 +204,7 @@ SQL
 * [글로벌 칼럼 | ‘진화 혹은 변혁’ 클라우드 데이터 웨어하우스의 미래 - ITWorld Korea](https://www.itworld.co.kr/news/218994)
 * [Thread by @ergestx on Thread Reader App – Thread Reader App](https://threadreaderapp.com/thread/1479811885377765383.html)
   * [SQL 팁 : 나의 SQL 작성 패턴 | GeekNews](https://news.hada.io/topic?id=5896)
+* [Different Ways to Check and Delete Duplicate Records in SQL - Tech Point Fundamentals](https://www.techpointfunda.com/2021/11/deleting-duplicate-records-in-sql.html)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
