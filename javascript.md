@@ -1636,6 +1636,7 @@ Javascript
 * [Handlebar를 사용하여 배포까지 (+grunt +gradle)](http://jojoldu.tistory.com/23)
 * [Hash Tables in Javascript](http://www.mojavelinux.com/articles/javascript_hashes.html)
 * [Highlighter.js - a tiny (pure javascript) library, to allow you to easily navigate, select and highlight the DOM elements](http://720kb.github.io/highlighter.js/)
+* [hits: Hit Counter for Your GitHub or Any Kind of Websites You Want](https://github.com/silentsoft/hits)
 * [HTML Sanitizer API](https://wicg.github.io/sanitizer-api/)
   * [Sanitizer API를 이용해 안전하게 DOM 조작하기 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2021/11/21/Sanitizer-API.html)
   * [Sanitizer API로 안전하게 DOM 조작하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_2021124)
