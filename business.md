@@ -854,6 +854,7 @@ Business
 * [언리더십: 직원을 경영의 대상으로 보지마라 | 인사/조직 | DBR](https://dbr.donga.com/article/view/1201/article_no/5088/ac/magazine)
 * [Seven Transformations of Leadership](https://hbr.org/2005/04/seven-transformations-of-leadership)
 * [Managing people 🤯 | Andreas Klinger](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
+* [리더는 무엇에 집중해야 하는가?](http://moneyman.kr/archives/2471)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
