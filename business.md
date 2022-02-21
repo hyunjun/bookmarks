@@ -569,6 +569,7 @@ Business
   * 추가. 일정을 짧은 단위로 잡는 게 좋은 이유: delay가 되더라도 빨리 알고 plan B를 확보할 가능성이 높아짐. 내가 story point를 8로 제한하려는 이유와 비슷함
 * [현장과 의사소통을 돕는 협업도구 두레이](https://brunch.co.kr/@graypool/262)
 * [소통 능력이 뛰어난 사람들의 5가지 조건 – 체인지그라운드](http://thechangeground.com/archives/20685)
+* [타협하지 않고 이기는 3가지 방법](http://moneyman.kr/archives/3531)
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
