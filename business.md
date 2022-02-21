@@ -485,6 +485,7 @@ Business
 * [고위공직(후보)자 역량진단 Kit - YouTube](https://www.youtube.com/watch?v=BL28kbunE3E)
 * [평가 결과를 미래 목표로 연결하는 평가 면담](https://camp.lemonbase.com/feedback/feedforward)
 * [샤로잡다 MZ세대가 쏘아올린 성과급 논란, MZ가 말하는 공정은 무엇인가? | EP9. 신재용 교수 - YouTube](https://www.youtube.com/watch?v=-aokUzG0XWY)
+* [성과목표를 잘 수립하는 첫번째 법칙](https://brunch.co.kr/@choihs0228/380)
 
 # CEO
 * [벤 호로위츠 "CEO 임무는 기업문화 만들기..원칙 세우고 예외 없이 적용하라"](https://news.v.daum.net/v/20210530182001925) 하드씽 Hard Thing
