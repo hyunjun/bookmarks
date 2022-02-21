@@ -433,6 +433,7 @@ Programming
 * [기술 부채?](https://velog.io/@juunini/%EA%B8%B0%EC%88%A0-%EB%B6%80%EC%B1%84)
 * [**기술부채가 쌓여있는 상황에서 서비스 성능 임팩트 있게 개선하기 | by GeonHo Tony Han | CLASS101 | Jul, 2021 | Medium**](https://medium.com/class101/%EA%B8%B0%EC%88%A0%EB%B6%80%EC%B1%84%EA%B0%80-%EC%8C%93%EC%97%AC%EC%9E%88%EB%8A%94-%EC%83%81%ED%99%A9%EC%97%90%EC%84%9C-%EC%84%9C%EB%B9%84%EC%8A%A4-%EC%84%B1%EB%8A%A5-%EC%9E%84%ED%8C%A9%ED%8A%B8-%EC%9E%88%EA%B2%8C-%EA%B0%9C%EC%84%A0%ED%95%98%EA%B8%B0-b4c6d8ccc9c6)
 * [What Is Technical Debt and Why Is It So Painful? | by Ben "The Hosk" Hosking | Jan, 2022 | Dev Genius](https://blog.devgenius.io/what-is-technical-debt-and-why-is-it-so-painful-96ef269aebd4)
+* [개발자라면 마주치는 기술 부채, 꼭 다 갚아야 하나요? | 요즘IT](https://yozm.wishket.com/magazine/detail/1331/)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-1. 서버를 어떻게 확장시킬 것인가 - Scale Up VS Scale Out](https://chagokx2.tistory.com/92?category=871365)
 * [분산 처리 환경에서 대용량 트래픽을 견디기 위한 로그인 기능 구현-2. 여러 대의 서버에 흩어져 있는 세션을 어떻게 관리할 수 있을까?](https://chagokx2.tistory.com/93)
 * [사용자가 늘어나게 된다면 서버를 어떻게 확장해야할까? | Recoding Life](https://jane096.github.io/project/how-to-solve-server-overload-p1/) scale up scale out
@@ -693,6 +694,11 @@ Programming
     * 베타 테스트
 * [Consistency, Coupling, and Complexity at the Edge](https://www.infoq.com/articles/consistency-coupling-complexity/) RESTful, GraphQL
 * [tl;dr Coupling (& later Cohesion) - by Kent Beck](https://tidyfirst.substack.com/p/tldr-coupling-and-later-cohesion) The economic goal of software design is to balance the cost of coupling versus the cost of decoupling
+* [**소프트웨어 커플링의 의미는 무언가?**](https://brunch.co.kr/@graypool/312)
+  * (코드의 결합과 무관하게?) A를 바꿨을 때 B가 바뀐다면 coupling
+  * 경계를 정하고 나누는 행위 = 설계 이 때 나누는 기준은 technical X business O
+  * Does behavior change elsewhere in the system in an undesirable way? 즉 부작용, side effect가 발생하는 상황, no safe change
+  * 그래서 CI/CD, 다시 말해 one shot deployment가 중요하다. 한 번에 되지 않고, 지속적인 수정 배포, 때로는 rollback이 바로 되야 하니까
 * [How to Hack APIs in 2021 by Hakluke and Farah Hawa | Detectify Labs](https://labs.detectify.com/2021/08/10/how-to-hack-apis-in-2021/)
 * [Don’t Build A General Purpose API To Power Your Own Front End - Max Chernyak](https://max.engineer/server-informed-ui)
 * [블로그 | API 관리가 그토록 복잡해야만 할까? - CIO Korea](https://www.ciokorea.com/news/209107)
