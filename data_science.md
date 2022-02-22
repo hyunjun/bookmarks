@@ -472,6 +472,8 @@ Data Science
   * [뱅크샐러드 Data Discovery Platform의 시작 | 뱅크샐러드](https://blog.banksalad.com/tech/the-starting-of-datadiscoveryplatform-era-in-banksalad/)
 * [dbt - Transform data in your warehouse](https://www.getdbt.com/)
   * [dbt로 ELT 파이프라인 효율적으로 관리하기](https://www.humphreyahn.dev/blog/efficient-elt-pipelines-with-dbt)
+* [Decodable](https://www.decodable.co/)
+  * [Announcing General Availability of the Decodable Real-Time Data Platform - Decodable](https://www.decodable.co/blog/decodable-is-ga)
 * [Digdag - a simple tool that helps you to build, run, schedule, and monitor complex pipelines of tasks](http://www.digdag.io/) Data Workflow Management Opensource Engine
 * [faker.js: generate massive amounts of realistic fake data in Node.js and the browser](https://github.com/Marak/faker.js)
   * [How to generate mock data with faker.js | by Lucas Jellema | JavaScript In Plain English | Sep, 2020 | Medium](https://medium.com/javascript-in-plain-english/faker-js-npm-module-for-generating-fake-data-5dae437ec3a)
@@ -769,6 +771,7 @@ Data Science
 * [PyCon KR 2019 추천시스템 이제는 돈이 되어야 한다](https://www.slideshare.net/ssuser2fe594/ss-164511610)
 * [Analyzing Hacker News book suggestions in Python](https://towardsdatascience.com/hacker-news-book-suggestions-64b88099947)
 * [Keeping Sensitive Data Safe Using Recommendation Systems | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=7ZP5NIbY8Eg)
+* [Machine Learning Recommender System With Python - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1nlDH0rbxIufJLeC3MsbRaa)
 * [implicit: Fast Python Collaborative Filtering for Implicit Feedback Datasets](https://github.com/benfred/implicit)
 * [recommenders: Best Practices on Recommendation Systems](https://github.com/microsoft/recommenders)
 * [Surprise - A Python scikit for recommender systems](http://surpriselib.com/)
