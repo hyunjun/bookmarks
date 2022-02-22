@@ -404,6 +404,7 @@ Git
 * [**Code Review from the Command Line – Jake Zimmerman**](https://blog.jez.io/cli-code-review/)
   * `hub pr checkout`, `git stat`, `git heatmap`, `git depgraph`, `git review`, `git reviewone`
 * [About basic Git commands. Git is an open-source distributed… | by Jony Choi | Jan, 2022 | Medium](https://jonychoi.medium.com/about-basic-git-commands-6bdad9cfc8fa)
+* [5 Git Commands pro should know #youtubeshort #gitcommand #Shorts #command #Git #viral - YouTube](https://www.youtube.com/watch?v=YaPihR2Y6nI)
 * `add`
   * [Undo 'git add' before commit](http://stackoverflow.com/questions/348170/undo-git-add-before-commit) `git reset <files>`
   * [git add -p Is a Gamechanger in File Management](https://medium.com/better-programming/git-add-p-is-a-gamechanger-in-file-management-e4c879e89ab)
