@@ -1126,6 +1126,7 @@ Machine Learning
   * [데이터야놀자2021 머신러닝 유니버스를 여행하는 히치하이커를 위한 데이터 팀이 AWS 위에서 Kubernetes 를 활용하는 법 - 박훈님 - YouTube](https://www.youtube.com/watch?v=7E6oHVQIiug)
   * [MLOps를 위한 BentoML 기능 및 성능 테스트 결과 공유 - 1 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/mlops-bentoml-1/)
   * [MLOps를 위한 BentoML 기능 및 성능 테스트 결과 공유 – 2 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/mlops-bentoml-2/)
+  * [코드로 이해하는 BentoML](https://blog.lbox.kr/model-serving-bentoml)
 * [cortex: Model serving at scale](https://github.com/cortexlabs/cortex)
   * [We tried to build an end-to-end ML platform. Here’s why it failed. | by Caleb Kaiser | Towards Data Science](https://towardsdatascience.com/we-tried-to-build-an-end-to-end-ml-platform-heres-why-it-failed-190c0f503536)
 * [Dlib - C++ machine learning library](http://dlib.net/ml.html)
