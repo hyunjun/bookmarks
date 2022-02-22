@@ -686,6 +686,7 @@ Machine Learning
 * [구글 리서치(제프 딘)의 미래 ML 테마들 | GeekNews](https://news.hada.io/topic?id=5834)
 * [The First Rule of Machine Learning: Start without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/)
 * [Robust Foundation for Data Pipelines at Scale - Lessons from Netflix - YouTube](https://www.youtube.com/watch?v=GTxurGBfdFU)
+* [Agile Data Science - How to Implement Agile Workflows For Analytics and Machine Learning - YouTube](https://www.youtube.com/watch?v=b6gniYc1sJk)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
