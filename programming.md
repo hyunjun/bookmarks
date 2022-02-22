@@ -1763,6 +1763,7 @@ Programming
 * [온프레미스 vs 퍼블릭 클라우드 - 네트워크 특징 및 서브넷 범위](https://gasidaseo.notion.site/vs-094d88adb3df4d20aa7b0e9e1ba32814)
 * [Why use Cloud Computing? Advantages and Disadvantages](https://javarevisited.blogspot.com/2020/05/why-use-cloud-computing-advantages-and.html)
 * [Cloud Computing For Beginners - YouTube](https://www.youtube.com/watch?v=XJYXxEYgRKc)
+* [클라우드가 그리 좋다는데, 왜 지금 상황은 그렇지 못한가?](https://www.boannews.com/media/view.asp?idx=104920)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
