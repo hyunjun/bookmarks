@@ -4336,6 +4336,7 @@ Python
 * [Why Datetimes Need Units - Christopher Ariza | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=jdnr7sgxCQI) Y2262 problem, datetime64 datatype
 * [Python Numpy and Jupyter Tutorials - YouTube](https://www.youtube.com/playlist?list=PLsugXK9b1w1kn3yopM0b71pKNV-gKH_N_)
 * [넘파이 튜토리얼 - YouTube](https://www.youtube.com/playlist?list=PLaTc2c6yEwmq1yBe7O_iianrYAwT8X2xz)
+* [Learn NumPy In 2(Two Hrs)H | NumPy Tutorial | NumPy For Data Science & Data Analysis| Python-NumPy | - YouTube](https://www.youtube.com/watch?v=RDtKcygLwwA)
 * [Blaze translates a subset of modified NumPy and Pandas-like syntax to databases and other computing systems](http://blaze.pydata.org/)
   * [Introducing Blaze - Expressions](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-Expressions/)
   * [Introducing Blaze - Practice](http://matthewrocklin.com/blog/work/2014/09/01/Blaze-HMDA/)
