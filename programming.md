@@ -1879,6 +1879,7 @@ Programming
 * [Code Reviews: From Bottleneck to Superpower (Code Reviews Best Practices) - YouTube](https://www.youtube.com/watch?v=8XsBX-V_fgI)
 * [Learning with Code Reviews. Guidelines for creating a code review… | by Sandeep Bantia | Dec, 2021 | Medium](https://sandeepbantia.medium.com/code-review-guidelines-e25b877537e8)
 * [OKKY 1월 세미나 한번 듣고 평생 써먹는 코드 리뷰 노하우 후기](https://velog.io/@juunini/OKKY-1%EC%9B%94-%EC%84%B8%EB%AF%B8%EB%82%98-%ED%95%9C%EB%B2%88-%EB%93%A3%EA%B3%A0-%ED%8F%89%EC%83%9D-%EC%8D%A8%EB%A8%B9%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%EB%85%B8%ED%95%98%EC%9A%B0-%ED%9B%84%EA%B8%B0)
+* [코드 좀 봐주세요 코드종 - YouTube](https://www.youtube.com/playlist?list=PLuBMRNcyzsWyZU1CVvd025UFJkfRoVs93)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 * [개발자 생산성 선언-플라이휠](https://ichi.pro/ko/gaebalja-saengsanseong-seon-eon-peullaihwil-129703808319115)
 * [6 Simple Tips on How to Start Writing Clean Code](https://hackernoon.com/6-simple-tips-on-how-to-start-writing-clean-code-d66c241aa268)
