@@ -525,6 +525,7 @@ NoSQL
 * [Synchronous Replication in Tarantool (Part 2) - DZone Database](https://dzone.com/articles/synchronous-replication-in-tarantool-part-2)
 * [Synchronous Replication in Tarantool (Part 3) - DZone Database](https://dzone.com/articles/synchronous-replication-in-tarantool-part-3)
 * [Distributed storage in 30 minutes - DEV Community](https://dev.to/tarantool/distributed-storage-in-30-minutes-1a9f)
+* [Developing an authentication system in Java+Tarantool - DEV Community](https://dev.to/tarantool/developing-an-authentication-system-in-javatarantool-35oh)
 
 # Terracotta
 * [Terracotta](http://terracotta.org/products/bigmemory)
