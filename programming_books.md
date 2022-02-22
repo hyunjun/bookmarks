@@ -955,6 +955,8 @@ Programming Books
   * 2017.04
   * 한라 005.1 용82ㅅ
   * 17.03.0-ce version 사용. 자세하지는 않아도 전반적인 부분을 잘 다루고 있어 보기 좋음
+* [쿠브플로 운영 가이드](https://jh4hj.tistory.com/entry/%EC%BF%A0%EB%B8%8C%ED%94%8C%EB%A1%9C-%EC%9A%B4%EC%98%81-%EA%B0%80%EC%9D%B4%EB%93%9C)
+  * [쿠브플로 운영 가이드. 쿠브플로를 쓰기위해선 쿠버네티스를 알아야하고, 그러기 위해서는 왜… | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/%EC%BF%A0%EB%B8%8C%ED%94%8C%EB%A1%9C-%EC%9A%B4%EC%98%81-%EA%B0%80%EC%9D%B4%EB%93%9C-bb5845b3e838)
 * (NOT YET) 제대로 배우는 도커
   * 2017.01
 * (NOT YET) Docker로 PaaS 구성하기
