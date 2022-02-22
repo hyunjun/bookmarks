@@ -1033,6 +1033,7 @@ Javascript
 * [JavaScript의 동시성 · Present](https://present.do/decks/60d453134a7eec094753cf78)
 * [How to Use Async/Await to Write Better JavaScript Code](https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/)
 * [자바스크립트의 비동기 프로그래밍 - 정윤호 · Present](https://present.do/presentations/6145f2ace3562505806fb6ef)
+* [javascript 에서 async 와 await를 이용해 비동기 처리하기](https://devkingdom.tistory.com/336)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * fetch
   * [Ajax, fetch](https://velog.io/@ksh4820/Ajax-fetch)
@@ -3231,6 +3232,7 @@ Javascript
 * [**프론트에서 안전하게 로그인 처리하기 (ft. React)**](https://velog.io/@yaytomato/%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%90%EC%84%9C-%EC%95%88%EC%A0%84%ED%95%98%EA%B2%8C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
 * [React Query로 서버 상태 관리하기 | blog.rhostem.com](https://blog.rhostem.com/posts/2021-02-01T00:00:00.000Z)
 * [React-Query 사용법 및 쓰는 이유](https://kdinner.tistory.com/113)
+* [React Query와 상태관리 :: 2월 우아한테크세미나 - YouTube](https://www.youtube.com/watch?v=MArE6Hy371c)
 * [**최초 렌더링 속도 최적화**](https://woomin.netlify.app/Posts/2021-02-18-code-spliting/)
 * [100 days of react](https://dev.to/jwhubert91)
 * [리엑트기반 프로젝트 리펙토링 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222266155974)
