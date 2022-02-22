@@ -315,6 +315,7 @@ Business
 * [Under-promise and over-deliver](https://www.thestartupbible.com/2019/10/under-promise-and-over-deliver.html) 일하는 자세로서 매우 동감하는 글. 제목이 모든 걸 알려준다
 * [지금, 이직을 생각하는 당신에게](https://ppss.kr/archives/204910) 당연한 이야기인데 변화가 늦은 다른 직종에서는 놀라울 수도 있겠다는 생각이 듦
 * [일 좀 하게 해 줘, 발목잡지 말고](https://brunch.co.kr/@jinhoyooephf/18) 품의 제도의 역사 및 개선 방법(사실은 글로벌 스탠다드)
+* [이메일, 슬랙, 메신저…다 버리자! | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/hive-mind/) 프로세스 개선에 대한 이야기
 * [2.0 까지 해본 개발자](https://jojoldu.tistory.com/485)
 * [Talk: Making Work Visible: How to Unmask Capacity Killing WIP](http://blog.lastmind.io/archives/921) 동시에 진행하는 일을 제한해야 한다는 글
 * [성장하고 있습니까?](https://brunch.co.kr/@younghakjang/116) 마인드셋(Growth Mindset), An Everyone Culture(mental complexity)
@@ -856,6 +857,7 @@ Business
 * [Seven Transformations of Leadership](https://hbr.org/2005/04/seven-transformations-of-leadership)
 * [Managing people 🤯 | Andreas Klinger](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
 * [리더는 무엇에 집중해야 하는가?](http://moneyman.kr/archives/2471)
+* [Coaching Leader가 된다는 것 ② 최고의 리더 | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/coaching-leader%ea%b0%80-%eb%90%9c%eb%8b%a4%eb%8a%94-%ea%b2%83-2%ed%99%94-_-%ec%b5%9c%ea%b3%a0%ec%9d%98-%eb%a6%ac%eb%8d%94/)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
