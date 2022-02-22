@@ -684,6 +684,7 @@ Machine Learning
 * [이진 분류를 위한 머신러닝 예측 성능 비교 - 로지스틱 회귀, 랜덤포레스트, 부스팅, 신경망](https://songseungwon.tistory.com/m/entry/%EC%9D%B4%EC%A7%84-%EB%B6%84%EB%A5%98%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D-%EC%98%88%EC%B8%A1-%EC%84%B1%EB%8A%A5-%EB%B9%84%EA%B5%90-%EB%A1%9C%EC%A7%80%EC%8A%A4%ED%8B%B1-%ED%9A%8C%EA%B7%80-%EB%9E%9C%EB%8D%A4%ED%8F%AC%EB%A0%88%EC%8A%A4%ED%8A%B8-%EB%B6%80%EC%8A%A4%ED%8C%85-%EC%8B%A0%EA%B2%BD%EB%A7%9D)
 * [구글 리서치(제프 딘)의 미래 ML 테마들 | GeekNews](https://news.hada.io/topic?id=5834)
 * [The First Rule of Machine Learning: Start without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/)
+* [Robust Foundation for Data Pipelines at Scale - Lessons from Netflix - YouTube](https://www.youtube.com/watch?v=GTxurGBfdFU)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -1246,6 +1247,7 @@ Machine Learning
 * [모두의 MLOps (1) MLOps에 첫걸음을 내딛는 분들을 위한 지침서 | by Jongseob Jeon | We’re Team MakinaRocks! | Jan, 2022 | Medium](https://medium.com/makinarocks/%EB%AA%A8%EB%91%90%EC%9D%98-mlops-1-mlops%EC%97%90-%EC%B2%AB%EA%B1%B8%EC%9D%8C%EC%9D%84-%EB%82%B4%EB%94%9B%EB%8A%94-%EB%B6%84%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%9C-%EC%A7%80%EC%B9%A8%EC%84%9C-ac2740ccd4eb)
 * [MLOps정의와 다양한 도구들-1 | Lablup Blog](https://blog.lablup.com/posts/2022/01/27/MLOps)
 * [Why data scientists shouldn’t need to know Kubernetes](https://huyenchip.com/2021/09/13/data-science-infrastructure.html)
+* [MLOps란? MLOps 로드맵 및 MLOps 취업에 대한 생각 | MLOps 강의 추천 있음 - YouTube](https://www.youtube.com/watch?v=xZKtofBe18I)
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
