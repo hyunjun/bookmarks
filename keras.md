@@ -167,7 +167,6 @@ Keras
 * [Saving & Loading Keras Models](https://jovianlin.io/saving-loading-keras-models/)
 * [Using deep learning to “read your thoughts” — with Keras and EEG](https://medium.com/@justlv/using-ai-to-read-your-thoughts-with-keras-and-an-eeg-sensor-167ace32e84a)
 * [리뷰에는 이미 별점이 있는데 별점을 또 예측해서 뭘 하나요](https://songys.github.io/2019LangCon/data/jmkim.pdf)
-* [하이퍼튜닝을 손쉽게 - 케라스 튜너](https://tykimos.github.io/2019/05/10/KerasTuner/)
 * [A detailed example of how to use data generators with Keras](https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly)
 * [How to Handle Missing Timesteps in Sequence Prediction Problems with Python](https://machinelearningmastery.com/handle-missing-timesteps-sequence-prediction-problems-python/)
 * [Inside TensorFlow: tf.Keras (part 1)](https://www.youtube.com/watch?v=UYRBHFAvLSs)
@@ -254,6 +253,8 @@ Keras
 * [Keras Tuner - An hyperparameter tuner for Keras, specifically for tf.keras with TensorFlow 2.0](https://github.com/keras-team/keras-tuner)
   * [이제 하이퍼파라미터 튜닝은 케라스 튜너에게 맡기세요 - 김태영](https://tykimos.github.io/2019/07/04/ISS_2nd_Deep_Learning_Conference_All_Together_tykim/)
   * [Hyperparameter tuning with Keras Tuner](https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html)
+  * [하이퍼튜닝을 손쉽게 - 케라스 튜너](https://tykimos.github.io/2019/05/10/KerasTuner/)
+  * [Keras Tuner를 사용하여 하이퍼파라미터 찾는 예제 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1642)
 * [ktrain: a lightweight wrapper for Keras to help train (and deploy) neural networks](https://github.com/amaiya/ktrain)
 * [plaidML-Keras](https://www.facebook.com/groups/KerasKorea/permalink/3077728298909781/)
   * mac 에서 딥러닝을 하는 방법은 크게, 1. CPU 이용, 2. PlaidML + OpenCL 이용, 3. ROCm (RadeonOpenCompute) 이용, 4. eGPU enclosure + NVIDIA GPU
