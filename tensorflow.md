@@ -486,6 +486,7 @@ TensorFlow
 * [케라스와 텐서플로 허브를 사용한 영화 리뷰 텍스트 분류하기  |  TensorFlow Core](https://www.tensorflow.org/tutorials/keras/text_classification_with_hub?hl=ko)
 * [Introducing TensorFlow Similarity — The TensorFlow Blog](https://blog.tensorflow.org/2021/09/introducing-tensorflow-similarity.html)
 * [Advent of Code 2021 in pure TensorFlow - day 1 – P. Galeone's blog](https://pgaleone.eu/tensorflow/2021/12/11/advent-of-code-tensorflow/)
+* [TF_Tutorial MoveNet - Pose Detection - 공부 기록장](https://inhopp.github.io/tf_tutorial/Tutorial1/)
 
 # 2.0
 * [TensorFlow 2.0을 출시했습니다](https://developers-kr.googleblog.com/2019/10/tensorflow-2-0-is-now-available.html)
