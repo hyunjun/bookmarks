@@ -3958,6 +3958,7 @@ Javascript
   * [nodejs-unit-test: NodeJS Unit Test](https://github.com/jojoldu/nodejs-unit-test)
 * [cypress - The web has evolved. Finally, testing has too](https://www.cypress.io/)
   * [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
+  * [FE개발자의 성장 스토리 12 : Angular E2E 테스팅 경험기 – tech.kakao.com](https://tech.kakao.com/2022/02/22/angular-e2e-testing/)
 * [folio: A customizable test framework to build your own test frameworks](https://github.com/microsoft/folio) typescript
 * [gentest - Generative testing for JavaScript. Save time and catch more bugs by letting the computer write test cases for you. WIP](https://github.com/graue/gentest)
 * Jasmine [An Introduction to Jasmine Unit Testing](https://medium.freecodecamp.org/jasmine-unit-testing-tutorial-4e757c2cbf42)
