@@ -3539,6 +3539,7 @@ Programming
 * [키보드 음성 키로거](http://www.secmem.org/blog/2021/10/14/keyboard-acoustic-keylogger/)
 * [Ghidra](https://ghidra-sre.org/) A software reverse engineering (SRE) suite of tools developed by NSA's Research Directorate in support of the Cybersecurity mission
   * [NSA가 만든 무료 리버스 엔지니어링 툴, "기드라" 사용 방법](http://www.itworld.co.kr/news/122618)
+  * [리버스 엔지니어링 도구 기드라의 좋은 시작점 : 네이버 블로그](https://blog.naver.com/drvoss/222654240906)
 * [h4cker - This repository is primarily maintained by Omar Santos and includes thousands of resources related to ethical hacking / penetration testing, digital forensics and incident response (DFIR), vulnerability research, exploit development, reverse engineering, and more](https://github.com/The-Art-of-Hacking/h4cker)
 * [ImHex: A Hex Editor for Reverse Engineers, Programmers and people that value their eye sight when working at 3 AM](https://github.com/WerWolv/ImHex)
 * [Rainbow Tables | The Linux Rain](https://www.thelinuxrain.com/articles/rainbow-tables) hashed value to password
