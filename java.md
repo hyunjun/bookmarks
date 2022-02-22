@@ -1775,6 +1775,7 @@ Java
 * [How to log SQL statements in Spring Boot? Example Tutorial](https://javarevisited.blogspot.com/2022/02/how-to-log-sql-statements-in-spring.html)
 * [SpringBoot 예외처리하기 - Exception Handling | woolog - 개발자 울이](https://www.woolog.dev/backend/spring-boot/spring-boot-exception-handling-basic/)
 * [A Quick Guide to Elasticsearch with Spring Data and Spring Boot | Okta Developer](https://developer.okta.com/blog/2022/02/16/spring-data-elasticsearch)
+* [Microservice | Resilience4J Retry Module Implementation With Spring Boot | JavaTechie - YouTube](https://www.youtube.com/watch?v=Z4CSGsOLb1c)
 * [spring-batch-querydsl: 스프링배치와 QuerydslPagingItemReader](https://github.com/jojoldu/spring-batch-querydsl)
 * [testing-spring-boot-applications-masterclass: 🍃 Everything You Need to Know About Testing Spring Boot Applications](https://github.com/rieckpil/testing-spring-boot-applications-masterclass)
 * [Trashemail - A Java spring boot app that powers functionality behind https://t.me/trashemail_bot ](https://github.com/r0hi7/Trashemail)
