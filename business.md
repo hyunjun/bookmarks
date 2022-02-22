@@ -1180,3 +1180,4 @@ Business
 * [😢 아쉽지만, 회원탈퇴 프로세스 분석](https://maily.so/tipster/posts/d67d36)
 * [고령층 친화 디지털 접근성 표준(키오스크 적용가이드)](https://sdf.seoul.kr/research-report/1663)
 * [화면이 복잡할 때 꺼내 읽기 좋은 UX 이야기](https://brunch.co.kr/@cliche-cliche/140)
+* [유저 리서치, 설문으로 시작하기](https://brunch.co.kr/@wanteddesign/8)
