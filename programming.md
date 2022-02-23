@@ -257,6 +257,7 @@ Programming
 * [Google - Site Reliability Engineering](https://sre.google/sre-book/accelerating-sre-on-call/)
 * [Google SRE: Site Reliability Engineering at a Global Scale – The New Stack](https://thenewstack.io/google-sre-site-reliability-engineering-at-a-global-scale/)
 * [Observing and Understanding Failures: SRE Apprentices - YouTube](https://www.youtube.com/watch?v=qn-_PCORnCQ)
+* [What is Site Reliability Engineering | SRE | Easy Explanation - YouTube](https://www.youtube.com/watch?v=XXDwavw5KNs)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Teach Yourself Programming in Ten Years**](http://norvig.com/21-days.html)
 * [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
