@@ -710,6 +710,7 @@ Apache
 * [kafka tools - A collection of tools for working with Apache Kafka](https://github.com/linkedin/kafka-tools)
 * [Kafractive - interative CLI tool for kafka admin, built on top of Spring Shell](https://github.com/gnu-gnu/kafractive)
 * [kowl: Kafka WebUI for exploring messages, consumers. configurations and more with a focus on a good UI & UX](https://github.com/cloudhut/kowl)
+* [KSETL로 Kafka 스트림 ETL 시스템을 빠르게 구성하기 - 2021 Korean version - - YouTube](https://www.youtube.com/watch?v=9p0J3yZyXeg)
 * [KubeMQ: A Modern Alternative to Kafka - DZone Microservices](https://dzone.com/articles/seamless-migration-from-kafka-to-kubemq)
 * [librdkafka: The Apache Kafka C/C++ library](https://github.com/edenhill/librdkafka)
 * MAADS [Machine Learning and AI at Scale with MAADS-VIPER and Apache Kafka](https://www.confluent.io/blog/transactional-machine-learning-with-maads-viper-and-apache-kafka/)
