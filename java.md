@@ -1051,6 +1051,7 @@ Java
 * [Improving Code Quality for Java Projects](https://medium.com/inspiredbrilliance/improving-code-quality-for-java-projects-5d24ad448109)
 * [Top 10 Libraries every Java Developer should know | by Md Kamaruzzaman | Sep, 2020 | Towards Data Science](https://towardsdatascience.com/top-10-libraries-every-java-developer-should-know-37dd136dff54) Apache Commons, Google Guava, Jackson, JAXB, SLF4J, Log4j 2, Mockito, AssertJ, Hibernate, Apache HTTPComponents
 * [3 new Java tools to try in 2021 | Opensource.com](https://opensource.com/article/21/3/enterprise-java-tools) Quarkus, Eclipse JKube, MicroProfile
+* [Top 3 Groovy Frameworks and Tools Java Developers Should Learn | by javinpaul | Javarevisited | Feb, 2022 | Medium](https://medium.com/javarevisited/top-3-groovy-frameworks-and-tools-java-developers-should-learn-736da9731e16)
 * [Aeron - Efficient reliable UDP unicast, UDP multicast, and IPC message transport](https://github.com/real-logic/aeron)
   * [Simple Binary Encoding (SBE) - High Performance Message Codec](https://github.com/real-logic/simple-binary-encoding)
 * [alf.io - The open source ticket reservation system for conferences, trade shows, workshops, meetups https://alf.io ](https://github.com/alfio-event/alf.io)
