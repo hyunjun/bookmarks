@@ -447,6 +447,7 @@ C++
 * [Learn C++ Multi-Threading in 5 Minutes | by Ari Saif | HackerNoon.com | Medium](https://medium.com/hackernoon/learn-c-multi-threading-in-5-minutes-8b881c92941f)
 * [Back to Basics: Concurrency (Multithreading Tactics in C++) - YouTube](https://www.youtube.com/watch?v=riUCrKQ_ezc)
 * [Back to Basics: Concurrency - YouTube](https://www.youtube.com/watch?v=5pYKAoD3Apk)
+* [C++ Threads for beginners. Hi guys and girls ;). I am going to… | by Gourav Dhar | Medium](https://blogs.gourav-dhar.com/c-threads-for-beginners-f2da778bc4e2)
 * [y-cruncher - A Multi-Threaded Pi-Program](http://www.numberworld.org/y-cruncher/) Pi 31조자리까지 계산 프로그램
 
 # Tutorial
