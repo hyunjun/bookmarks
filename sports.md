@@ -207,6 +207,7 @@ Sports
 * [스포츠 빅데이터② 4부에서 1부로..빅데이터의 마법](https://sports.v.daum.net/v/20181129203152987)
 * [**한준의 축구환상곡 "선수 탓하면 아마추어" 한국 지도자에 노하우 전수한 '저승사자' 레이몬드**](https://sports.v.daum.net/v/20191212181257725) 축구 레퍼런스에 대해 언급하는 부분이 정말 인상적, 축구 외의 일반적인 영역에도 적용 가능
 * [분데스리가 '2021-22 시즌', 인공지능이 펼치는 실시간 통계와 데이터 분석 플랫폼으로 더 흥미롭게 즐긴다! < 솔루션 < AI Tech < 기사본문 - 인공지능신문](https://www.aitimes.kr/news/articleView.html?idxno=22444)
+* ["2001년 독일 2부 입단 테스트 거절당하기 일쑤였죠" 국대 출신 수비수 강철의 회상 이근승의 킥앤러시](https://sports.v.daum.net/v/20220222125503112) 축구단 시스템 이야기(선수의 경기력=핵심업무를 위한 체계)가 흥미로운 지점
 
 # NFL
 * [How to predict NFL Winners with Python. Follow along the steps](https://www.activestate.com/blog/how-to-predict-nfl-winners-with-python/)
