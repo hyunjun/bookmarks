@@ -997,6 +997,7 @@ Business
 * [스타트업PM 이직일기 차별화된 PM의 5가지 프로젝트 기획법 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2021/11/09/pm-project-plan/)
 * [방망이 깎던 노인처럼 문서 작성하기](https://brunch.co.kr/@soosunnaa/19)
 * [Project Manager에 대해서 알아봅시다](https://brunch.co.kr/@jidesign/81)
+* [쏘카 PM(Product Manager)은 어떻게 성장하나요? - SOCAR Tech Blog](https://tech.socarcorp.kr/product/2022/02/23/growing-up-together-with-the-pm-team.html)
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
