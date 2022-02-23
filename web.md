@@ -1246,6 +1246,7 @@ Web
   * 모든 언어에서 그렇듯 Wasm에도 WAPM이라는 패키지 매니저가 있지만 거의 운영되지 않으므로 이 부분도 기회
   * [WebAssembly에 주목해야 할 이유 | GeekNews](https://news.hada.io/topic?id=5914)
 * [JavaScript vs WebAssembly easy benchmark](https://takahirox.github.io/WebAssembly-benchmark/)
+* [An introduction to WebAssembly - YouTube](https://www.youtube.com/watch?v=3sU557ZKjUs)
 * [Emscripten - a toolchain for compiling to asm.js and WebAssembly, built using LLVM, that lets you run C and C++ on the web at near-native speed without plugins](https://emscripten.org)
   * [Emscripten: An LLVM-to-WebAssembly Compiler](https://github.com/emscripten-core/emscripten)
   * [Hello web assembly](https://jybaek.tistory.com/782)
