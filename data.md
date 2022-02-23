@@ -72,6 +72,7 @@ Government
 * [정부 데이터 API를 이용해서 가져오기 - YouTube](https://www.youtube.com/watch?v=eBV6tAfekyw)
 * [Google AI Blog: Training Machine Learning Models More Efficiently with Dataset Distillation](https://ai.googleblog.com/2021/12/training-machine-learning-models-more.html)
 * [Submodular Optimization for Minimizing Redundancy in Massive Data Sets | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=vJ3ErkmUpLU)
+* [데이터란 무엇인가 – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/whatisdata/) 기술 이야기는 아니고 그냥 재미있게 읽을 거리지만 근본적인 걸 묻는다는 점에서 기록할 가치가 있음
 
 # Library
 * [AI 허브](https://aihub.or.kr/)
