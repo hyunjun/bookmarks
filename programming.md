@@ -2610,6 +2610,7 @@ Programming
 * [When to use which Infrastructure-as-code tool](https://medium.com/cloudnativeinfra/when-to-use-which-infrastructure-as-code-tool-665af289fbde) 여러가지 IaaS tool 소개
 * [Learn about different open source based Infrastructure as Code (IAC) tools for DevOps - YouTube](https://www.youtube.com/watch?v=nUwj01ROjfs)
 * [코드형 인프라, 보안이 필요한 이유와 베스트 프랙티스 - ITWorld Korea](https://www.itworld.co.kr/news/200844) IaC
+* [Fantastic Infrastructure as Code security attacks and how to find them | GitLab](https://about.gitlab.com/blog/2022/02/17/fantastic-infrastructure-as-code-security-attacks-and-how-to-find-them/)
 * [Infrastructure as Code (IaC): Mastering code automation | by Serigne DIAW | Jan, 2022 | Medium](https://diawahad.medium.com/infrastructure-as-code-iac-mastering-code-automation-8ba904871b0a)
 * [Infra as Code with Packer, Ansible and Terraform](https://www.slideshare.net/InhoKang2/infra-as-code-with-packer-ansible-and-terraform)
 * [History of Infra as Code](https://www.infoq.com/presentations/history-infra-as-code/)
