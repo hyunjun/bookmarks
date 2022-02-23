@@ -858,6 +858,11 @@ Business
 * [Managing people 🤯 | Andreas Klinger](https://klinger.io/posts/managing-people-%F0%9F%A4%AF)
 * [리더는 무엇에 집중해야 하는가?](http://moneyman.kr/archives/2471)
 * [Coaching Leader가 된다는 것 ② 최고의 리더 | HR커뮤니티 인살롱](https://hr.wanted.co.kr/insights/coaching-leader%ea%b0%80-%eb%90%9c%eb%8b%a4%eb%8a%94-%ea%b2%83-2%ed%99%94-_-%ec%b5%9c%ea%b3%a0%ec%9d%98-%eb%a6%ac%eb%8d%94/)
+* [**계속되는 불확실성에 대처하기 위한 3단계 접근법**](https://www.thinkwithgoogle.com/intl/ko-kr/future-of-marketing/management-and-culture/%EA%B3%84%EC%86%8D%EB%90%98%EB%8A%94-%EB%B6%88%ED%99%95%EC%8B%A4%EC%84%B1%EC%97%90-%EB%8C%80%EC%B2%98%ED%95%98%EA%B8%B0-%EC%9C%84%ED%95%9C-3%EB%8B%A8%EA%B3%84-%EC%A0%91%EA%B7%BC%EB%B2%95/)
+  * 수요는 많지만 공급은 부족한 '신뢰'라는 자원
+  * 3D - Define, Design, Deliver
+* [신한은행 구나단 감독대행 전격 감독 승격, 3년간 구나단·이휘걸 체제](https://sports.v.daum.net/v/20220222143925194) 프로스포츠에서도 소통, 설명의 중요성
+* [학교 탐방 박수호 분당경영고 코치의 지도 방식, '이유'를 자세히 설명하는 것](https://sports.v.daum.net/v/20220223084624454) 운동부도 이제 설명이 필요한 시대
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -1118,6 +1123,7 @@ Business
 * [코딩, 대체 어디서부터 시작해야 하지? | ㅍㅍㅅㅅ](https://ppss.kr/archives/249113)
 * [Foxes and Hedgehogs | Altos Ventures, 번역글](https://notdefeated.ghost.io/untitled/) 그냥 '하세요!'
 * [센드버드 플립 이야기: 우리가 플립을 하지 않았어도 괜찮았을까? - 2014년 델라웨어 플립 그 이후](https://kimchihill.com/2021/12/26/since-the-delaware-flip-of-sendbird/)
+* [사라질 듯 사라지지 않는, 스타트업의 사내 정치를 활용하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/251336)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
