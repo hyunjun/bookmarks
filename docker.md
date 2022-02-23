@@ -1790,4 +1790,5 @@ Docker
 * [Windows 컨테이너 4: 베이스 이미지, 격리 방식에 대한 이해](https://tech.devsisters.com/posts/windows-container-basics/)
 * [Docker Desktop WSL 2 Tech Preview](https://docs.docker.com/docker-for-windows/wsl-tech-preview)
 * [Windows 10 Home에 Docker 설치하기](https://github.com/jehyunlee/docker/blob/master/Win10Home/text.md)
+* [윈도우 Docker - ubuntu GUI를 사용 가능한 방법](https://open-support.tistory.com/entry/%EC%9C%88%EB%8F%84%EC%9A%B0-Docker-ubuntu-GUI%EB%A5%BC-%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5%ED%95%9C-%EB%B0%A9%EB%B2%95)
 * [docker-qemu-win2000: A Docker image for Windows 2000 Advanced Server with SP4](https://github.com/hectorm/docker-qemu-win2000)
