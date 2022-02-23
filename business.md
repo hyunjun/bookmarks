@@ -955,6 +955,7 @@ Business
 * [OKR로 진짜 변화를 이끌기 위해 한국 기업이 준비해야 할 다섯 가지](https://camp.lemonbase.com/column/okr) 황성현님
 * [OKR의 한계점](https://www.facebook.com/whyhyo/posts/10158762505748391)
 * [John Doerr's speech about OKRs (Korean translation) | LinkedIn](https://www.linkedin.com/pulse/korean-translation-john-doerrs-speech-okrs-edward-jee/)
+* [OKR에 성공하려면 팀원들의 마음을 얻어야 한다! : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33123511&memberNo=38695667) CFR Conversation Feedback Recognition
 
 # Patent
 * 세기의 특허전쟁
