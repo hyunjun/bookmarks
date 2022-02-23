@@ -188,6 +188,7 @@ Programming Books
 * (NOT YET) [떠오르는 애자일 방법론 칸반 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/11/24/%eb%96%a0%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%b0%a9%eb%b2%95%eb%a1%a0-%ec%b9%b8%eb%b0%98/)
 * (NOT YET) [애자일 듀오 ‘칸반과 스크럼’ – 도서출판 인사이트](https://blog.insightbook.co.kr/2013/05/08/%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%93%80%ec%98%a4-%ec%b9%b8%eb%b0%98%ea%b3%bc-%ec%8a%a4%ed%81%ac%eb%9f%bc/)
 * (NOT YET) [익스트림 프로그래밍 - 도서출판 인사이트](http://ebook.insightbook.co.kr/book/48)
+* (NOT YET) [팀장님, 우리도 협업 도구 쓸까요?](https://bjpublic.tistory.com/437) 도구에 대한 책이라 agile이라고 보기는 좀 애매하지만
 
 # Algorithm
 
@@ -364,6 +365,7 @@ Programming Books
   * [clean-architecture: 《만들면서 배우는 클린 아키텍처》 예제 코드](https://github.com/wikibook/clean-architecture)
 * (NOT YET) [Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
   * [번역할 뻔 했던 Patterns of Enterprise Application Architecture - 뒤태지존의 끄적거림](https://homoefficio.github.io/2015/10/16/%EB%B2%88%EC%97%AD%ED%95%A0-%EB%BB%94-%ED%96%88%EB%8D%98-Patterns-of-Enterprise-Application-Architecture/)
+* (NOT YET) [프로그래밍 패턴: 프로그램을 작성하는 33가지 방법 | 위키북스](https://wikibook.co.kr/programming-patterns/)
 
 # C
 
