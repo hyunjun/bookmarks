@@ -2207,6 +2207,7 @@ Programming
 * [Building a successful and sustainable CI/CD pipeline - YouTube](https://www.youtube.com/watch?v=9nIG-pFyQ_k) 지속적 통합/배포 파이프라인을 제대로 구축하려면 툴이 아닌 아키텍처와 프로세스에 집중해야 하고, 조직원들을 지속적으로 설득해나가야 한다
 * [Safe Updates of Client Applications at Netflix | by Netflix Technology Blog | Oct, 2021 | Netflix TechBlog](https://netflixtechblog.com/safe-updates-of-client-applications-at-netflix-1d01c71a930c)
 * [Continuous Delivery Pipelines: How to Build Better Software Faster • Dave Farley • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=MYVrLXKJp0Y)
+* [The IDEAL CI / CD Pipeline - Concepts Overview - YouTube](https://www.youtube.com/watch?v=OPwU3UWCxhw)
 * [DevOps: CI/CD Tools to Watch Out for in 2022 - DZone DevOps](https://dzone.com/articles/devops-cicd-tools-to-watch-out-for-in-2022)
 * CodeCov [Publishing Scala Code Coverage Results to CodeCov using Github Actions | by PJ Fanning | Oct, 2021 | Medium](https://medium.com/@pjfanning/publishing-scala-code-coverage-results-to-codecov-using-github-actions-3e73ea8056cb)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
