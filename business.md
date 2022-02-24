@@ -348,6 +348,7 @@ Business
 * [일잘러 되는 지름길](https://www.bcreator.co.kr/insight-detail/how-to-be-fast/r/rec5xoYxiM0Odcojr)
 * [루틴이 나를 변화시킬 수 있다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241778)
 * [지속할 힘을 주는 루틴 만들기 5가지 방법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/245300)
+* [루틴의 힘](https://www.thestartupbible.com/2022/02/power-of-routine.html)
 * [직원들에게 효과적으로 포상 주는 핵심방법 3가지 포인트 |](http://www.casenews.co.kr/news/articleViewAmp.html?idxno=4302)
 * [회사가 말해주지 않는 승진의 비밀 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241768)
 * [회사 성과는 좋았는데, 인센티브는 왜 이 정도? | HR커뮤니티 인살롱 |](https://hr.wanted.co.kr/insights/why-this-is-incentives/)
@@ -863,6 +864,8 @@ Business
   * 3D - Define, Design, Deliver
 * [신한은행 구나단 감독대행 전격 감독 승격, 3년간 구나단·이휘걸 체제](https://sports.v.daum.net/v/20220222143925194) 프로스포츠에서도 소통, 설명의 중요성
 * [학교 탐방 박수호 분당경영고 코치의 지도 방식, '이유'를 자세히 설명하는 것](https://sports.v.daum.net/v/20220223084624454) 운동부도 이제 설명이 필요한 시대
+* [스푼라디오가 목적 조직으로 일하는 방법(1) : 팀 빌딩 | by Nigel.Kim | Spoon Radio | Feb, 2022 | Medium](https://medium.com/spoontech/%EC%8A%A4%ED%91%BC%EB%9D%BC%EB%94%94%EC%98%A4%EA%B0%80-%EB%AA%A9%EC%A0%81-%EC%A1%B0%EC%A7%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-1-%ED%8C%80-%EB%B9%8C%EB%94%A9-889fe5571c05)
+* [스푼라디오가 목적 조직으로 일하는 방법(2) : 목표설정 및 의사소통 | by Nigel.Kim | Spoon Radio | Feb, 2022 | Medium](https://medium.com/spoontech/%EC%8A%A4%ED%91%BC%EB%9D%BC%EB%94%94%EC%98%A4%EA%B0%80-%EB%AA%A9%EC%A0%81-%EC%A1%B0%EC%A7%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-2-%EB%AA%A9%ED%91%9C%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5-a61297957ebc)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
