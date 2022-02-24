@@ -1716,6 +1716,7 @@ Programming
 * [OCI 탐험 일지 3. 서비스 가용성](https://jhrogue.blogspot.com/2022/01/oci-3.html)
 * [OCI 탐험 일지 4. 객체 저장소](https://jhrogue.blogspot.com/2022/01/oci-4.html)
 * [OCI 탐험 일지 5. cloud shell](https://jhrogue.blogspot.com/2022/02/oci-5-cloud-shell.html)
+* [OCI 탐험 일지 6. 객체 저장소(사전 인증된 요청)](https://jhrogue.blogspot.com/2022/02/oci-6.html)
 * [전문 지식 없어도 인공지능 모델 구현·배포한다...오라클 'OCI AI 서비스' 한국진출 위해 한국어 학습 중 < 플랫폼 < AI Tech < 기사본문 - 인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=23987)
 * [클라우드 우분투에 gui로 원격 연결하기](https://evols-atirev.tistory.com/27)
 * [Cloud Resource Naming Conventions - Cloud Architecture - HUIT Confluence](https://confluence.huit.harvard.edu/display/CLA/Cloud+Resource+Naming+Conventions)
