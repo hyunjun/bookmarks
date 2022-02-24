@@ -237,6 +237,7 @@ ElasticSearch - Lucene
 * [Logs, Metrics, and APM: The Holy Trinity of Operations](https://www.elastic.co/elasticon/conf/2018/sf/logs-metrics-and-apm-the-holy-trinity-of-operations)
 * [마이크로서비스 아키텍쳐에서 Elastic APM 사용하기](https://www.youtube.com/watch?v=qHPSk4KkpDM)
 * [**Distributed Tracing, OpenTracing and Elastic APM**](https://www.elastic.co/kr/blog/distributed-tracing-opentracing-and-elastic-apm) metrics, logging, tracing
+* [Elasticsearch APM 분산 트랜잭션 추적 - Yun Blog | 기술 블로그](https://cheese10yun.github.io/elk-apm-2/)
 * [엘라스틱서치 RUM Agent로 앱의 실제 사용자가 체감하는 성능 이슈를 모니터링하고 해결하는 방법 (1)](https://blog.naver.com/olpaemi/221976264938)
 * [Elasticsearch에서 특수문자 검색](http://www.popit.kr/elasticsearch%EC%97%90%EC%84%9C-%ED%8A%B9%EC%88%98%EB%AC%B8%EC%9E%90-%EA%B2%80%EC%83%89/)
 * [엘라스틱서치가 쉬웠던 이유](https://www.popit.kr/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98%EA%B0%80-%EC%89%AC%EC%9B%A0%EB%8D%98-%EC%9D%B4%EC%9C%A0/)
