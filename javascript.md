@@ -3997,7 +3997,8 @@ Javascript
   * [(NodeJS 환경에서) jest.mock 보다 ts-mockito 사용하기](https://jojoldu.tistory.com/638)
 * [vest: Vest ✅ Declarative validations framework](https://github.com/ealush/vest)
 * [VORLON.JS - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io](http://vorlonjs.com/)
-* [yup로 입력 검증을 덜 귀찮게 처리하자 선언형 입력 검증 라이브러리](https://libsora.so/posts/yup-declarative-input-validation)
+* [yup: Dead simple Object schema validation](https://github.com/jquense/yup)
+  * [yup로 입력 검증을 덜 귀찮게 처리하자 선언형 입력 검증 라이브러리](https://libsora.so/posts/yup-declarative-input-validation)
 
 # Typescript
 * [TypeScript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM)
@@ -4118,6 +4119,7 @@ Javascript
 * [1. TypeORM에서 페이징 API 만들기 - 기본페이징 기능](https://jojoldu.tistory.com/579)
 * [ORM typeorm-uml을 이용하여 데이터베이스 다이어그램 그리기](https://blog.naver.com/pjt3591oo/222472579823)
 * [TypeORM에서 연관관계 유지한채 FK만 제거하기 (w. NestJS)](https://jojoldu.tistory.com/605)
+* [TypeORM 마개조했습니다. · 감자도스](https://blog.potados.com/dev/typeorm-extended/)
 * [express에서 콘솔로 찍은 로그를 HTTP 응답에 붙이기 · /usr/lib/libsora.so](https://libsora.so/posts/express-attach-console-log-to-response/)
 * [타입스크립트로 API 명세 작성하고 서버/클라 stub 생성하기 · /usr/lib/libsora.so](https://libsora.so/posts/stub-from-typescript-api-specification/)
 * [**callbackWaitsForEmptyEventLoop와 AWS Lambda의 함정 · /usr/lib/libsora.so**](https://libsora.so/posts/trap-callback-waits-for-empty-event-loop/) express
