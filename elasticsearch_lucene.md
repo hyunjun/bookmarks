@@ -795,6 +795,7 @@ ElasticSearch - Lucene
 * [**Elastic Stack으로 코로나19 대시보드 만들기 - 1부 : 파이프라인 구성 - 꿈꾸는 태태태의 공간**](https://taetaetae.github.io/posts/make-dashboards-from-elasticstack-1/)
 * [**Elastic Stack으로 코로나19 대시보드 만들기 - 2부 : 대시보드 - 꿈꾸는 태태태의 공간**](https://taetaetae.github.io/posts/make-dashboards-from-elasticstack-2/)
 * [**처음부터 시작하는 Elastic - YouTube**](https://www.youtube.com/playlist?list=PLhFRZgJc2afp0gaUnQf68kJHPXLG16YCf) GCP
+* [Official Elastic Community - YouTube](https://www.youtube.com/c/OfficialElasticCommunity/playlists)
 
 # X-Pack
 * [Elastic Stack 그리고 X-Pack 이 왔습니다](https://www.elastic.co/kr/blog/heya-elastic-stack-and-x-pack)
