@@ -110,9 +110,7 @@ AWS
 * [AWS KMS를 이용한 암호화 API 구축하기](http://woowabros.github.io/experience/2017/02/06/aws-kms.html)
 * [AWS 보안 관련 컨텐츠 모음집](https://gist.github.com/serithemage/b87d47cdc5e3af28f1bf418e7b8f8950)
 * [AWS 보안 관련 오픈소스 도구 소개 - 방어편-](https://docs.google.com/presentation/d/1VUz6N3A2wc_LY4HbQv6lTmlqFLdnrdI-uzBB1MxRrZg)
-* [AWS Code 서비스 특집 - 아마존 DevOps와 CodeDeploy, CodePipeline (윤석찬)](http://www.slideshare.net/awskorea/aws-code-services-special-amazon-dev-ops-codedeploy-codepipeline-voiceops-chatops)
 * [How to Create an AWS Continuous Deployment Pipeline – My Developer Planet](https://mydeveloperplanet.com/2020/11/18/how-to-create-an-aws-continuous-deployment-pipeline/)
-* [AWS 개발자 도구를 활용한 GitFlow 구현 방법](https://aws.amazon.com/ko/blogs/korea/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/)
 * [AWS Codebuild 용 커스텀 Windows Server 이미지 만드는 법 | by Jesang Yoon | Hard Boiled Smith Stories | May, 2021 | Medium](https://medium.com/hbsmith/aws-codebuild-%EC%9A%A9-%EC%BB%A4%EC%8A%A4%ED%85%80-windows-server-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95-939eeeeb06b7)
 * [AWS CodePipeline과 Amazon s3를 통한 정적 웹사이트 CI/CD 구축(Next.js) | by gon Kim | elecle_bike | Feb, 2021 | Medium](https://medium.com/elecle-bike/aws-codepipeline%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%A0%95%EC%A0%81-%EC%9B%B9%EC%82%AC%EC%9D%B4%ED%8A%B8-ci-cd-%EA%B5%AC%EC%B6%95-next-js-532fff15474)
 * [CI/CD from Github to AWS EC2 Step by Step | Node.js Express Backend API as an Example - YouTube](https://www.youtube.com/watch?v=Buh3GjHPmjo)
@@ -127,7 +125,6 @@ AWS
   * [2. Code Deploy 연동](http://jojoldu.tistory.com/314)
   * [3. 젠킨스 연동](http://jojoldu.tistory.com/315)
 * [AWS Lambda로 Code Deploy 배포 상세 결과 알람 받기](http://jojoldu.tistory.com/298)
-* [「Deploy」 CodeDeploy로 자동배포 해보기](https://woomin.netlify.app/Posts/2020-05-12-CodeDeploy/)
 * [Best practices to use aws in countryside](https://www.slideshare.net/biatunky/best-practices-to-use-aws-in-countryside)
 * [AWS Cognito 입문 가이드](https://walkinpcm.blogspot.com/2017/05/aws-aws-cognito.html)
 * [Securing Micro Services in Quarkus with Amazon Cognito | by Iain Porter | Oct, 2020 | Level Up Coding](https://levelup.gitconnected.com/securing-micro-services-in-quarkus-with-aws-cognito-387990c04100)
@@ -391,7 +388,6 @@ AWS
 * [AWS Tag 적용 가이드와 활용 - 2부:: Mesh Korea Makers Blog](https://mesh.dev/20210311-dev-notes-004-aws-tag-02/)
 * [Observability Workshop](https://observability.workshop.aws/ko/)
 * [LotteOn: BI Platform Using MicroStrategy, Amazon Redshift, and AWS Glue on AWS (Korean) - YouTube](https://www.youtube.com/watch?v=qv9q0sFt6aY)
-* [Data discovery & metadata management (amundsen installation)](https://www.slideshare.net/changunjung/data-discovery-metadata-management-amundsen-installation)
 * [**Extreme HTTP Performance Tuning: 1.2M API req/s on a 4 vCPU EC2 Instance | talawah.io**](https://talawah.io/blog/extreme-http-performance-tuning-one-point-two-million/) optimization
 * [Instance Price Guide](https://instaguide.io/)
 * [1. AWS 가입 하기 및 프리티어 소개 - YouTube](https://www.youtube.com/watch?v=0DnFtUwsk1s)
@@ -514,6 +510,12 @@ AWS
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
+
+# CodeDeploy
+* [AWS Code 서비스 특집 - 아마존 DevOps와 CodeDeploy, CodePipeline (윤석찬)](http://www.slideshare.net/awskorea/aws-code-services-special-amazon-dev-ops-codedeploy-codepipeline-voiceops-chatops)
+* [AWS 개발자 도구를 활용한 GitFlow 구현 방법](https://aws.amazon.com/ko/blogs/korea/implementing-gitflow-using-aws-codepipeline-aws-codecommit-aws-codebuild-and-aws-codedeploy/)
+* [「Deploy」 CodeDeploy로 자동배포 해보기](https://woomin.netlify.app/Posts/2020-05-12-CodeDeploy/)
+* [AWS로 배포를 해보자!](https://saramin.github.io/2022-02-25-hello-aws/)
 
 # Comprehend
 * [자연어 처리 - Amazon Comprehend - Amazon Web Services](https://aws.amazon.com/ko/comprehend/)
@@ -1421,6 +1423,7 @@ AWS
 * [10 things I wish I knew before learning Terraform (Part 2) | by Ian Hancock | Contino Engineering | Nov, 2021 | Medium](https://medium.com/contino-engineering/10-things-i-wish-i-knew-before-learning-terraform-part-2-a15a3f85efb6)
 * [Terraform Topics - YouTube](https://www.youtube.com/playlist?list=PL6nVblW4NNARObZkTMC6kPrtXb8El5vuJ)
 * [HashiCorp Terraform AWS Provider Introduces Significant Changes to Amazon S3 Bucket Resource](https://www.infoq.com/news/2022/02/terraform-aws-provider-s3/)
+* [10 Free Courses to Learn Terraform – techbeatly](https://www.techbeatly.com/terraform-free-courses/)
 
 # Tutorial
 * [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
