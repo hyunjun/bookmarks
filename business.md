@@ -58,6 +58,7 @@ Business
 * [시스템으로 만들기](https://brunch.co.kr/@lunarshore/375)
 * [집중과 균형](https://brunch.co.kr/@hyungsukkim/128)
 * [집중과 제거의 중요성](https://www.thestartupbible.com/2021/01/the-power-of-elimination-and-focus.html)
+* [대성할 30대 실무자들의 특징 | ㅍㅍㅅㅅ](https://ppss.kr/archives/238464) 선택과 집중
 * [사업계획서 작성시 잊지 말아야 할 기본 8가지](http://ppss.kr/archives/37842)
 * [사업계획서를 작성할 때 가장 핵심적인 원칙 7가지](https://ppss.kr/archives/219429)
 * [왜 중장기 계획을 세우는가](https://brunch.co.kr/@lunarshore/285)
