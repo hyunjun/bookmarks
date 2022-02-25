@@ -997,6 +997,7 @@ Programming
 * [프로그래밍의 황금율은?](http://jhrogue.blogspot.com/2019/04/b.html)
 * [Online migrations at scale](https://stripe.com/blog/online-migrations) migration에 필요한 기본을 생각할 수 있는 글
 * [글로벌 칼럼 | 마이그레이션을 도중에 멈추면 안 되는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/206739) migration
+* [LINE 앱의 다자간 대화 기능 통합 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-app-group-talk/) migration
 * [디지털 트랜스포메이션과 시스템 마이그레이션 | Popit](https://www.popit.kr/%eb%94%94%ec%a7%80%ed%84%b8-%ed%8a%b8%eb%9e%9c%ec%8a%a4%ed%8f%ac%eb%a9%94%ec%9d%b4%ec%85%98%ea%b3%bc-%ec%8b%9c%ec%8a%a4%ed%85%9c-%eb%a7%88%ec%9d%b4%ea%b7%b8%eb%a0%88%ec%9d%b4%ec%85%98/) system migration
 * [디지털 트랜스포메이션, 조직의 습관을 바꾸는 일](https://brunch.co.kr/@graypool/231)
 * [Why GUID is needed](https://www.slideshare.net/charsyam2/why-guid-is-needed)
