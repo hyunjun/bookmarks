@@ -507,6 +507,7 @@ AWS
 * [AWS re:Invent introduces, CloudWatch RUM | by Murat turan | Modanisa Engineering | Dec, 2021 | Medium](https://medium.com/modanisa-engineering/aws-re-invent-introduces-cloudwatch-rum-c527a6279e94)
 * [입 개발 스타트업을 위한 AWS 로그 시스템 Part #1 | Charsyam's Blog](https://charsyam.wordpress.com/2022/02/12/%EC%9E%85-%EA%B0%9C%EB%B0%9C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-aws-%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-part-1/)
 * [입 개발 스타트업을 위한 AWS 로그 시스템 Part #2 | Charsyam's Blog](https://charsyam.wordpress.com/2022/02/16/%EC%9E%85-%EA%B0%9C%EB%B0%9C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-aws-%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-part-2/)
+* [입 개발 스타트업을 위한 AWS 로그 시스템 Part #3 | Charsyam's Blog](https://charsyam.wordpress.com/2022/02/25/%EC%9E%85-%EA%B0%9C%EB%B0%9C-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-aws-%EB%A1%9C%EA%B7%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-part-3/)
 * [aws-ec2-user-data-cloud-watch-metric-memory-disk](https://linuxer.name/2020/04/aws-ec2-user-data-cloud-watch-metric-memory-disk/)
 * [cronally - The easiest way to run cron jobs on AWS](https://cronally.com/)
 * [cwlog](https://github.com/deptno/cwlog) download cloudwatch log
