@@ -634,6 +634,7 @@ Programming
   * [Building high performance startup teams](https://rossysheil.com/building-high-performance-startup-teams/) team effectiveness & team performance, forming -> storming -> norming -> performing
 * [This Agile Method GUARANTEES Results - YouTube](https://www.youtube.com/watch?v=ZO04Wz6mu0Y) iteration to make progress
 * [Agile Budgeting 101 | Cprime Blogs | Agile Budgeting](https://www.cprime.com/resources/blog/agile-budgeting-101/)
+* [Key Concepts of Agile Software Development - Discover Better Value Faster](https://www.cloudnowtech.com/blog/key-concepts-of-agile-software-development/)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
