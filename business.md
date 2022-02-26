@@ -460,6 +460,7 @@ Business
 * [채용이 곧 회사의 수준입니다 | RBBM](https://www.redbusbagman.com/recruiting/)
 * [인사팀은 사실 컬처팀, 문화팀이다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/248688)
 * [하드 스킬보다 소프트 스킬이 중요하다. - T Times](http://www.ttimes.co.kr/view.html?no=2022012016577779004) 머스크가 좋은 놈인지 모르겠는데 나쁜 놈은 안 된다는 게 아이러니하긴 하지만 이야기 자체는 동의
+* [남세동 대표가 자기주도적 직원 뽑는 4단계 채용비법 - T Times](http://www.ttimes.co.kr/view.html?no=2022022516187784424)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
@@ -872,6 +873,7 @@ Business
 * [좋은 칭찬의 5가지 원칙](http://moneyman.kr/archives/1047)
 * [구체적인 칭찬](https://brunch.co.kr/@younghakjang/95) 동기부여의 방법
 * [Motivation은 필요없다](https://brunch.co.kr/@hyungsukkim/129)
+* [팀장님, 이제 '라떼' 금지할 시간입니다 | 원티드](https://www.wanted.co.kr/events/22_02_s02_b01)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
@@ -985,6 +987,9 @@ Business
 * [IT 직무 탐구: 프로덕트 매니저 vs 프로덕트 오너 (+그 외) | 요즘IT](https://yozm.wishket.com/magazine/detail/905/)
 * [개발자만 품귀 현상이 아니다.. 경력직 PM 찾기가 하늘의 별 따기 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/pmpmpm20220118)
 * [거래 후기 실험을 통해 따뜻한 거래 경험 만들기. 거래 후기 실험을 통해 당근마켓이 어떻게 따뜻한 서비스를 만들고… | by Yedaeun | 당근마켓 팀블로그 | Feb, 2022 | Medium](https://medium.com/daangn/%EA%B1%B0%EB%9E%98-%ED%9B%84%EA%B8%B0-%EC%8B%A4%ED%97%98%EC%9D%84-%ED%86%B5%ED%95%B4-%EB%94%B0%EB%9C%BB%ED%95%9C-%EA%B1%B0%EB%9E%98-%EA%B2%BD%ED%97%98-%EB%A7%8C%EB%93%A4%EA%B8%B0-3d7ac18d8e3)
+* [PM이 꼭 알아야 할 지표와 KPIs 정리](https://brunch.co.kr/@mint0207b/20)
+* [Competing Against Luck 북리뷰 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/271) product owner 책에서 읽었던 밀크셰이크 이야기가 원래 이 책애서 나왔었던 건가?
+* [WISELY PRO 런칭, 1년 동안 PM으로서 배운 것들](https://blog.wiselycompany.com/wisely-pro-launching) 회사 PR이지만 프로덕트에 대한 이야기이기도 함
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
@@ -1150,6 +1155,7 @@ Business
     * 구성원들이 어떤 목표를 중심으로 의사결정을 하는 것이 옳은 방식인지를 판단할 수 있어야 하고, 각각의 의사결정에 대한 피드백을 통해 잘한 것과 개선해야 하는 행동을 찾기 위해서는 목표에 얼마나 기여했는가를 알아야 함. 이게 아마존의 business matrix를 바탕으로 한 success matrix와 일맥상통하는 부분이 아닐까?
   * ⑤ 조직에서의 목표는 OKR, KPI, 비전, 미션으로 정의 가능. 하지만 개인은 R&R로 정의
     * 주도권 부여 = 방향키 부여. 그렇다면 조직이 함께 가는 방향으로 갈 수 있도록 일하는 방식/조직문화를 만드는 게 리더/HR의 역할
+* [VC가 전문가 채용해 월급 주고 스타트업에 보낸다. - T Times](http://www.ttimes.co.kr/view.html?no=2020022018357753481)
 
 # User 사용자 고객
 * [고객님의 데이터 사용량을 지켜주세요](https://jybaek.tistory.com/868)
