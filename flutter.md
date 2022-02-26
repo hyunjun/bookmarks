@@ -231,4 +231,5 @@ Flutter
 * [레이아웃 - Flutter를 이용하여 앱을 개발해 봅시다. 이번 블로그 포스트에서는 Flutter에서 화면의 레이아웃을 담당하는 위젯들에 대해서 알아보도록 하겠습니다](https://dev-yakuza.posstree.com/ko/flutter/layout/)
 * [시작하기 - Flutter를 이용하여 앱을 개발해 봅시다. 이번 블로그 포스트에서는 Flutter 프로젝트를 생성하고, 주요 파일과 폴더를 살펴보도록 하겠습니다](https://dev-yakuza.posstree.com/ko/flutter/start/)
 * [쉽게알려주는 플러터 강의임 - YouTube](https://www.youtube.com/playlist?list=PLfLgtT94nNq1izG4R2WDN517iPX4WXH3C)
+* [Flutter Course for Beginners – 37-hour Android App Development Tutorial - YouTube](https://www.youtube.com/watch?v=VPvVD8t02U8)
 * [flutter-learn: Flutter와 Firebase를 사용하여 단일 Dart 코드베이스로 Android, iOS, 웹에서 커뮤니티 앱을 빌드합니다](https://github.com/ska2519/flutter-learn)
