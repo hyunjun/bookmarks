@@ -93,6 +93,8 @@ Algorithm
 * [페이스북 뉴스피드 알고리즘 해부: 내 글을 멀리 전파하려면?](http://slownews.kr/51124)
 * [첫 번째 startlink.live - YouTube](https://www.youtube.com/playlist?list=PLfIXbp8fGKRn76J0zvXgaqGmgYBDUiE91)
 * [Shazam in Java](https://github.com/wsieroci/audiorecognizer)
+* [**abracadabra: How does Shazam work? - Cameron MacLeod**](https://www.cameronmacleod.com/blog/how-does-shazam-work)
+  * [Shazam은 어떻게 동작하는가? | GeekNews](https://news.hada.io/topic?id=6047)
 * [그렙, 알고리즘 학습 서비스 무료로 공개](http://www.bloter.net/archives/256397)
 * [Coder's high 2016](http://coders-high.com/)
 * [AlgorithmVisualizer](http://algo-visualizer.jasonpark.me)
