@@ -131,6 +131,8 @@ Linux
 * [How We Saved Millions in SSD Costs by Upgrading Our Filesystem - Heap](https://heap.io/blog/how-we-saved-millions-in-ssd-costs-by-upgrading-our-filesystem) ZFS
 * [Why Folders are Called Directory in Linux?](https://itsfoss.com/folder-directory-linux)
 * [Landing a new syscall, part 1: What is futex?](https://www.collabora.com/news-and-blog/blog/2022/02/08/landing-a-new-syscall-part-what-is-futex/)
+* [구글 클라우드 셸: 간편하게 리눅스 환경 마련하기](https://jhrogue.blogspot.com/2022/02/b.html) google cloud shell
+* [Linux's getrandom() Sees A 8450% Improvement With Latest Code - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Linux-getrandom-8450p)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
