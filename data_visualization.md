@@ -104,6 +104,10 @@ Data Visualization
 # Facebook
 * [Visdom - A flexible tool for creating, organizing, and sharing visualizations of live, rich data. Supports Torch and Numpy](https://github.com/facebookresearch/visdom)
 
+# Go
+* [go-echarts: 🎨 The adorable charts library for Golang](https://github.com/go-echarts/go-echarts)
+  * [Data Visualization With Golang! - YouTube](https://www.youtube.com/watch?v=46inEdCu0os)
+
 # Google
 * [Introducing the News Lab](http://googleblog.blogspot.kr/2015/06/introducing-news-lab.html)
   * [코딩 않는 기자들, 그들이 구글러로 사는 법](http://www.bloter.net/archives/230748)
