@@ -262,6 +262,7 @@
     * 2021년엔 Stream, io_uring, tracing 통합 등을 진행할 예정
   * [Creating a Chat Server with async Rust and Tokio - YouTube](https://www.youtube.com/watch?v=Iapc-qGTEBQ)
   * [AWS re:Invent 2020: Next-gen networking infrastructure with Rust and Tokio - YouTube](https://www.youtube.com/watch?v=MZyleK8elPk)
+  * [How to Build an API with Rust using Warp and Tokio - YouTube](https://www.youtube.com/watch?v=R8i6XKmR2aE)
 * [tray_rust - A toy ray tracer in Rust](https://github.com/Twinklebear/tray_rust)
 * [uutils/coreutils: Cross-platform Rust rewrite of the GNU coreutils](https://github.com/uutils/coreutils)
   * [Uutils - GNU Coreutils를 Rust로 재작성 | GeekNews](https://news.hada.io/topic?id=5499)
