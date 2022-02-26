@@ -308,11 +308,6 @@ AWS
 * [AWS Glue Data Catalog as the Metastore for Databricks | LinkedIn](https://www.linkedin.com/pulse/aws-glue-data-catalog-metastore-databricks-deepak-rajak/)
 * [AWS GLUE Serverless PySpark](https://velog.io/@hsh/AWSGLUE-Serverless-Spark/)
 * [**스타트업에서 데이터를 더하는 법 (2019-10, 데이터 + 야놀자)**](https://docs.google.com/presentation/d/1AqiRVm32zCg59TKDgbs14FaVgNf8kqfXFkCYxAPw8ac/edit#slide=id.g5f59896514_0_196)
-* [**AMAZON PERSONALIZE WORKSHOP**](http://personalize-workshop-junghee.s3-website.ap-northeast-2.amazonaws.com/) movielens로 영화 추천 모델 구현
-* [Amazon Personalize's example using python sdk](https://github.com/seongshj/personalize-python-sdk-example)
-* [SaaS 추천 솔루션을 이용한 개인화 추천 :: GS Retail Engineering](https://gsretail.tistory.com/3) personalize
-* [한달 10만원으로 추천시스템 구축하기 AWS Personalize 도입 후기 / python SDK](https://dq-dreamsearch.com/121)
-* [Amazon Personalize로 추천 시스템 구축하기 - YouTube](https://www.youtube.com/watch?v=-l2GdgfGvJw)
 * [온프레미스 엔지니어의 퍼블릭 클라우드 정착기](https://brunch.co.kr/@alden/55)
 * [글로벌 서비스를 위한 멀티 리전 프록시 도입기](https://medium.com/benx-tech-blog/%EA%B8%80%EB%A1%9C%EB%B2%8C-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EB%A9%80%ED%8B%B0-%EB%A6%AC%EC%A0%84-%ED%94%84%EB%A1%9D%EC%8B%9C-%EB%8F%84%EC%9E%85%EA%B8%B0-87eda1bd8d55)
 * [**AWS Multi-Region 멀티 리전 실습 가이드**](https://www.notion.so/AWS-Multi-Region-3f9033d05dcf41f4a4d14ae5bbc2cc98)
@@ -1267,6 +1262,14 @@ AWS
 
 # News
 * [AWS open source news and updates, #98 - DEV Community](https://dev.to/aws/aws-open-source-news-and-updates-98-55gi)
+
+# Personalize
+* [**AMAZON PERSONALIZE WORKSHOP**](http://personalize-workshop-junghee.s3-website.ap-northeast-2.amazonaws.com/) movielens로 영화 추천 모델 구현
+* [Amazon Personalize's example using python sdk](https://github.com/seongshj/personalize-python-sdk-example)
+* [SaaS 추천 솔루션을 이용한 개인화 추천 :: GS Retail Engineering](https://gsretail.tistory.com/3)
+* [한달 10만원으로 추천시스템 구축하기 AWS Personalize 도입 후기 / python SDK](https://dq-dreamsearch.com/121)
+* [Amazon Personalize로 추천 시스템 구축하기 - YouTube](https://www.youtube.com/watch?v=-l2GdgfGvJw)
+* [Pulselive, 개인화된 온라인 스포츠 콘텐츠로 고객 참여 확대 사례 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/increasing-engagement-with-personalized-online-sports-content/)
 
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
