@@ -527,6 +527,7 @@ Vision
 * [Getting Started with OpenCV | Learn OpenCV](https://learnopencv.com/getting-started-with-opencv/)
 * [Object Tracking using OpenCV (C++/Python)](https://learnopencv.com/object-tracking-using-opencv-cpp-python/)
 * [‘Object Tracking’ 카테고리의 설명](http://openresearch.ai/t/object-tracking/124)
+* [3D-Object-Tracking: A simple 3D Object Tracking module for humans 🍺](https://github.com/akshaybahadur21/3D-Object-Tracking)
 * [Torch와 OpenCV를 활용한 실시간 이미지 분류 데모](http://www.popit.kr/torch%EC%99%80-opencv%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%EC%8B%A4%EC%8B%9C%EA%B0%84-%EC%9D%B4%EB%AF%B8%EC%A7%80-%EB%B6%84%EB%A5%98-%EB%8D%B0%EB%AA%A8/)
 * [Principles of fMRI 1](https://www.coursera.org/learn/functional-mri)
 * [Topics in Computer Vision (CSC2523): Deep Learning in Computer Vision](http://www.cs.utoronto.ca/~fidler/teaching/2015/CSC2523.html)
