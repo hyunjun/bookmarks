@@ -678,6 +678,7 @@ Scala
     * [Scala Case Class and Case Object In-Depth (Part-2) - JournalDev](https://www.journaldev.com/12122/scala-caseclass-caseobject-part2)
     * [Singleton types and case class fields - `F[_]` around and find out #1 - YouTube](https://www.youtube.com/watch?v=xeB6-js0iNw)
     * [Smart constructors for case classes | 47 Degrees](https://www.47deg.com/blog/smart-constructors-in-scala/)
+    * [Article: Effective Scala Case Class Patterns - The guide I wished I had read years ago when starting my Scala journey](https://gist.github.com/chaotic3quilibrium/58e78a2e21ce43bfe0042bbfbb93e7dc)
   * [**스칼라 클래스의 일반적인 형식화**](https://blog.xxxnell.com/ko/posts/formalization)
 * collection
   * [practice - until & to](https://gist.github.com/hyunjun/3eddbf4ba54b1a603f38e52b78a9b0e6#file-until_to-scala)
