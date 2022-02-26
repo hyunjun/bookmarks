@@ -155,6 +155,7 @@ Sports
 * [3. 홈/원정 경기 승률 조정](https://junkstorage.tistory.com/30)
 * [4. 평균으로의 회귀 적용](https://junkstorage.tistory.com/31)
 * [5. 실제 결과와의 비교](https://junkstorage.tistory.com/32)
+* [KBO 역대 2군 데이터를 공유합니다 - 야구공작소](https://yagongso.com/?p=14183)
 
 # Basketball
 * [**Basketball Terms- Terminology**](https://www.coachesclipboard.net/BasketballTerminology.html) diagram으로 court위 명칭 설명

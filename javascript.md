@@ -3307,6 +3307,7 @@ Javascript
 * [리액트 프레임워크. 10분 완벽 정리! - YouTube](https://www.youtube.com/watch?v=RP8nvTeurbQ) next.js gatsby remix
 * [불변 객체와 immer | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220217)
 * [React - 1 리액트의 특징](https://velog.io/@couchcoding/React-1-%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%9D%98-%ED%8A%B9%EC%A7%95)
+* [FLIP과 WAAPI를 이용한 React 애니메이션 | goohooh.github.io](https://goohooh.github.io/animation/flip_animation_with_react/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -3599,6 +3600,7 @@ Javascript
   * [개츠비의 이미지 처리 방식 | 김정환 블로그](https://jeonghwan-kim.github.io/dev/2020/08/19/gatsby-image.html)
   * [Gatsby V3 Tutorial and Recipes Site Project - YouTube](https://www.youtube.com/watch?v=JlxXHlygVLM)
   * [누구나 블로그 개발 할 수 있다! React 기반 Gatsby로 기술 블로그 개발하기 - 구름EDU](https://edu.goorm.io/lecture/25881/%EB%88%84%EA%B5%AC%EB%82%98-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B0%9C%EB%B0%9C-%ED%95%A0-%EC%88%98-%EC%9E%88%EB%8B%A4-react-%EA%B8%B0%EB%B0%98-gatsby%EB%A1%9C-%EA%B8%B0%EC%88%A0-%EB%B8%94%EB%A1%9C%EA%B7%B8-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0)
+  * [Jekyll에서 Gatsby로 떠나는 마이그레이션 여정 - 재그지그의 개발 블로그](https://wormwlrm.github.io/2022/02/25/Migration-Journey-from-Jekyll-to-Gatsby.html)
   * ['차세대 LAMP 스택 노린다' 개츠비의 멈출 수 없는 기세 - ITWorld Korea](https://www.itworld.co.kr/news/212449)
 * [gl-react](http://projectseptemberinc.gitbooks.io/gl-react/content/)
 * [gtor - A General Theory of Reactivity](https://github.com/kriskowal/gtor/)
@@ -3997,7 +3999,8 @@ Javascript
   * [(NodeJS 환경에서) jest.mock 보다 ts-mockito 사용하기](https://jojoldu.tistory.com/638)
 * [vest: Vest ✅ Declarative validations framework](https://github.com/ealush/vest)
 * [VORLON.JS - An open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io](http://vorlonjs.com/)
-* [yup로 입력 검증을 덜 귀찮게 처리하자 선언형 입력 검증 라이브러리](https://libsora.so/posts/yup-declarative-input-validation)
+* [yup: Dead simple Object schema validation](https://github.com/jquense/yup)
+  * [yup로 입력 검증을 덜 귀찮게 처리하자 선언형 입력 검증 라이브러리](https://libsora.so/posts/yup-declarative-input-validation)
 
 # Typescript
 * [TypeScript - The Basics](https://www.youtube.com/watch?v=ahCwqrYpIuM)
@@ -4118,6 +4121,7 @@ Javascript
 * [1. TypeORM에서 페이징 API 만들기 - 기본페이징 기능](https://jojoldu.tistory.com/579)
 * [ORM typeorm-uml을 이용하여 데이터베이스 다이어그램 그리기](https://blog.naver.com/pjt3591oo/222472579823)
 * [TypeORM에서 연관관계 유지한채 FK만 제거하기 (w. NestJS)](https://jojoldu.tistory.com/605)
+* [TypeORM 마개조했습니다. · 감자도스](https://blog.potados.com/dev/typeorm-extended/)
 * [express에서 콘솔로 찍은 로그를 HTTP 응답에 붙이기 · /usr/lib/libsora.so](https://libsora.so/posts/express-attach-console-log-to-response/)
 * [타입스크립트로 API 명세 작성하고 서버/클라 stub 생성하기 · /usr/lib/libsora.so](https://libsora.so/posts/stub-from-typescript-api-specification/)
 * [**callbackWaitsForEmptyEventLoop와 AWS Lambda의 함정 · /usr/lib/libsora.so**](https://libsora.so/posts/trap-callback-waits-for-empty-event-loop/) express

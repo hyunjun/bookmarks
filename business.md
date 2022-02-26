@@ -8,7 +8,8 @@ Business
 * [직장에서의 갈등을 극복하는 지혜로운 원칙들](http://www.venturesquare.net/578558)
 * [샤오미가 선택한 ‘미스핏’ 소니 부 대표의 6가지 말말말](http://besuccess.com/2014/12/sonny-vu/)
 * [평판의 세상](http://www.thestartupbible.com/2014/12/reputation-really-matters-and-may-be-everything.html)
-* [조직의 변화가 어려운 4가지 이유](http://blog.naver.com/justalive/220231083536)
+* [조직의 변화 구성원의 구체적 행동 변화에서 부터](http://www.lgeri.com/uploadFiles/ko/pdf/man/LGBI1327-36_20141110092532.pdf)
+  * [조직의 변화가 어려운 4가지 이유 :: 구름컴퍼니](https://leetim.tistory.com/entry/%EC%A1%B0%EC%A7%81%EC%9D%98-%EB%B3%80%ED%99%94%EA%B0%80-%EC%96%B4%EB%A0%A4%EC%9A%B4-4%EA%B0%80%EC%A7%80-%EC%9D%B4%EC%9C%A0)
 * [앞으로 eCommerce 사업자는 무엇을 팔아야 하는가?](http://verticalplatform.kr/archives/4083)
 * [01화 이커머스 도메인 지식이 왜 필요해요?](https://brunch.co.kr/@windydog/371)
 * [02화 내가 이커머스 도메인 지식을 배운 3가지 방법](https://brunch.co.kr/@windydog/378)
@@ -26,6 +27,7 @@ Business
 * [습관이 되는 주니어의 25가지 실수 | ㅍㅍㅅㅅ](https://ppss.kr/archives/232804)
 * [성과주의가 진짜 성과를 내는 5가지 방법](http://ppss.kr/archives/36086)
 * [성과주의가 조직을 망치는 5가지 이유](http://ppss.kr/archives/36083)
+* [CIA가 알려주는 조직 망치는 비결 – Subin Kim](https://subin.kim/2581)
 * [번아웃을 막는 방법](https://subokim.wordpress.com/2013/04/12/prevent-burnout/)
 * [일 잘하는 당신, 번아웃에 빠지긴 더 쉽다는데](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=891)
 * [가끔씩 뭔가에 홀렸다고 할 정도로 이상한 결정을 하는 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/buffer20220118)
@@ -58,6 +60,7 @@ Business
 * [시스템으로 만들기](https://brunch.co.kr/@lunarshore/375)
 * [집중과 균형](https://brunch.co.kr/@hyungsukkim/128)
 * [집중과 제거의 중요성](https://www.thestartupbible.com/2021/01/the-power-of-elimination-and-focus.html)
+* [대성할 30대 실무자들의 특징 | ㅍㅍㅅㅅ](https://ppss.kr/archives/238464) 선택과 집중
 * [사업계획서 작성시 잊지 말아야 할 기본 8가지](http://ppss.kr/archives/37842)
 * [사업계획서를 작성할 때 가장 핵심적인 원칙 7가지](https://ppss.kr/archives/219429)
 * [왜 중장기 계획을 세우는가](https://brunch.co.kr/@lunarshore/285)
@@ -153,9 +156,6 @@ Business
 * [협상에서 이기는 5가지 기술](http://moneyman.kr/archives/4416)
 * [**정보는 세상의 중심이 되고 연결은 세상을 지배한다(Network is Eating the World)**](http://www.venturesquare.net/590771)
 * [사물인터넷 서비스 아이디어 전략 5단계](http://ppss.kr/archives/38281)
-* [동기 저하의 10가지 사유](http://ppss.kr/archives/48444)
-* [구체적인 칭찬](https://brunch.co.kr/@younghakjang/95) 동기부여의 방법
-* [Motivation은 필요없다](https://brunch.co.kr/@hyungsukkim/129)
 * [요구사항은 요청과 다르다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/237457)
 * [요구사항 분석은 병목이나 R&R싸움이 아니다](https://brunch.co.kr/@windydog/455)
 * [쉽게 푸는 과학자를 위한 연구제안요청서(RFP)](http://slownews.kr/42730)
@@ -867,6 +867,11 @@ Business
 * [학교 탐방 박수호 분당경영고 코치의 지도 방식, '이유'를 자세히 설명하는 것](https://sports.v.daum.net/v/20220223084624454) 운동부도 이제 설명이 필요한 시대
 * [스푼라디오가 목적 조직으로 일하는 방법(1) : 팀 빌딩 | by Nigel.Kim | Spoon Radio | Feb, 2022 | Medium](https://medium.com/spoontech/%EC%8A%A4%ED%91%BC%EB%9D%BC%EB%94%94%EC%98%A4%EA%B0%80-%EB%AA%A9%EC%A0%81-%EC%A1%B0%EC%A7%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-1-%ED%8C%80-%EB%B9%8C%EB%94%A9-889fe5571c05)
 * [스푼라디오가 목적 조직으로 일하는 방법(2) : 목표설정 및 의사소통 | by Nigel.Kim | Spoon Radio | Feb, 2022 | Medium](https://medium.com/spoontech/%EC%8A%A4%ED%91%BC%EB%9D%BC%EB%94%94%EC%98%A4%EA%B0%80-%EB%AA%A9%EC%A0%81-%EC%A1%B0%EC%A7%81%EC%9C%BC%EB%A1%9C-%EC%9D%BC%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-2-%EB%AA%A9%ED%91%9C%EC%84%A4%EC%A0%95-%EB%B0%8F-%EC%9D%98%EC%82%AC%EC%86%8C%ED%86%B5-a61297957ebc)
+* [~동기 저하의 10가지 사유~](http://ppss.kr/archives/48444)
+  * [동기 저하의 10가지 사유 – 웹개발공작소](http://w3devlabs.net/wp/?p=1002)
+* [좋은 칭찬의 5가지 원칙](http://moneyman.kr/archives/1047)
+* [구체적인 칭찬](https://brunch.co.kr/@younghakjang/95) 동기부여의 방법
+* [Motivation은 필요없다](https://brunch.co.kr/@hyungsukkim/129)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)

@@ -21,6 +21,7 @@ Self Control
 * [범재가 천재에게 안 꿀리고 더 오래 살아남는 법](https://drive.google.com/open?id=1b4vXBDB-8qwDedwVkB_mzMoJR7fnNDbn)
 * [시간을 최대화 하는 3가지 전략](http://ppss.kr/archives/48452)
 * [시간을 효율적으로 관리하는 법](http://ppss.kr/archives/52698)
+* [페이스북 개발자 시간관리의 5가지 비밀 – FactVirus](https://factvirus.co.kr/archives/22052)
 * [삶의 궁극적 목적을 찾아 헤매지 마세요](http://ppss.kr/archives/48575)
 * [‘중독’에 대한 편견과 진실](http://ppss.kr/archives/55339)
 * [내 안의 가짜 열정과 진짜 열정을 구분해내는 법](http://www.huffingtonpost.kr/polangpolang-/story_b_8192992.html)

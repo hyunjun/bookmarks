@@ -258,6 +258,7 @@ Programming
 * [Google SRE: Site Reliability Engineering at a Global Scale – The New Stack](https://thenewstack.io/google-sre-site-reliability-engineering-at-a-global-scale/)
 * [Observing and Understanding Failures: SRE Apprentices - YouTube](https://www.youtube.com/watch?v=qn-_PCORnCQ)
 * [What is Site Reliability Engineering | SRE | Easy Explanation - YouTube](https://www.youtube.com/watch?v=XXDwavw5KNs)
+* [Top Nine Skills for SREs to Master - DevOps.com](https://devops.com/top-nine-skills-for-sres-to-master/)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Teach Yourself Programming in Ten Years**](http://norvig.com/21-days.html)
 * [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
@@ -998,6 +999,7 @@ Programming
 * [프로그래밍의 황금율은?](http://jhrogue.blogspot.com/2019/04/b.html)
 * [Online migrations at scale](https://stripe.com/blog/online-migrations) migration에 필요한 기본을 생각할 수 있는 글
 * [글로벌 칼럼 | 마이그레이션을 도중에 멈추면 안 되는 이유 - ITWorld Korea](https://www.itworld.co.kr/news/206739) migration
+* [LINE 앱의 다자간 대화 기능 통합 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-app-group-talk/) migration
 * [디지털 트랜스포메이션과 시스템 마이그레이션 | Popit](https://www.popit.kr/%eb%94%94%ec%a7%80%ed%84%b8-%ed%8a%b8%eb%9e%9c%ec%8a%a4%ed%8f%ac%eb%a9%94%ec%9d%b4%ec%85%98%ea%b3%bc-%ec%8b%9c%ec%8a%a4%ed%85%9c-%eb%a7%88%ec%9d%b4%ea%b7%b8%eb%a0%88%ec%9d%b4%ec%85%98/) system migration
 * [디지털 트랜스포메이션, 조직의 습관을 바꾸는 일](https://brunch.co.kr/@graypool/231)
 * [Why GUID is needed](https://www.slideshare.net/charsyam2/why-guid-is-needed)
@@ -2625,6 +2627,7 @@ Programming
 * [What Infrastructure as Code is All About & How Terraform Helps you Work With It - YouTube](https://www.youtube.com/watch?v=IRHqgXRLb0w)
 * [History of Infra as Code - YouTube](https://www.youtube.com/watch?v=9kQ5l26mmbU)
 * [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1)
+* [Infrastructure as Code - comparing tools](https://techcommunity.microsoft.com/t5/itops-talk-blog/infrastructure-as-code-iac-comparing-the-tools/ba-p/3205045)
 * [Scaling Infrastructure Engineering at Slack](https://www.youtube.com/watch?v=yHBwoZh1Mxg)
 * [LINE 인프라 플랫폼의 뒷이야기 – 서비스 확장성을 확보하며 운영 비용 줄이기](https://engineering.linecorp.com/ko/blog/challenges-and-solutions-of-line-infra-scaleout/)
 * [Lessons Learned from Reviewing 150 Infrastructures](https://www.infoq.com/presentations/150-infrastructures)
@@ -3563,6 +3566,7 @@ Programming
 * [APEX 사례로 보는 Low Code](https://jhrogue.blogspot.com/2021/09/apex-low-code.html)
 * [The Road to Intelligent Process Automation - Gradient Flow](https://gradientflow.com/the-road-to-intelligent-process-automation/)
 * [Low-Code Platforms and the Rise of the Community Developer: Lots of Solutions, or Lots of Problems?](https://www.infoq.com/articles/low-code-community-developer/)
+* [소프트웨어 설계자가 로우코드를 도입해야 하는 이유 5가지 - ITWorld Korea](https://www.itworld.co.kr/mainnews/226744)
 * Bubble [The best way to build web apps without code | Bubble](https://bubble.io/)
   * [노 코드 툴, ‘버블’의 A to Z | ㅍㅍㅅㅅ](https://ppss.kr/archives/247069)
 * [Lowdefy - Build internal tools with YAML | Lowdefy - Build internal tools with YAML](https://lowdefy.com/)

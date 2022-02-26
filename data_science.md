@@ -358,6 +358,7 @@ Data Science
 * [2021년 가트너 Data Science hype graph에 등장한 용어들 – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/hypegraph/) 기술적인 이야기는 아니지만 봐둘만함
 * [The Importance of Ratios & KPIs in Data Science | by Christianlauer | CodeX | Feb, 2022 | Medium](https://medium.com/codex/the-importance-of-ratios-kpis-in-data-science-d9a2623d5cb1)
 * [데이터 실험에서의 실험자 편향 – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/expbias/)
+* [브런치북 온라인서비스를 위한 데이터사이언스](https://brunch.co.kr/brunchbook/ds4os)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -468,8 +469,6 @@ Data Science
 * [Beaker](http://beakernotebook.com/?foo)
 * [danfo.js - an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data](https://github.com/opensource9ja/danfojs)
   * [Pandas를 자바스크립트에서! Danfo.js - YouTube](https://www.youtube.com/watch?v=rPCgsu0bcM4)
-* datahub [A Metadata Platform for the Modern Data Stack | DataHub](https://datahubproject.io/)
-  * [뱅크샐러드 Data Discovery Platform의 시작 | 뱅크샐러드](https://blog.banksalad.com/tech/the-starting-of-datadiscoveryplatform-era-in-banksalad/)
 * [dbt - Transform data in your warehouse](https://www.getdbt.com/)
   * [dbt로 ELT 파이프라인 효율적으로 관리하기](https://www.humphreyahn.dev/blog/efficient-elt-pipelines-with-dbt)
 * [Decodable](https://www.decodable.co/)
@@ -501,6 +500,12 @@ Data Science
   * Numba와 비슷하게, Rust 기반 컴파일러를 이용해 Data 분석 스크립트의 속도를 최적화하여 빠르게 함
   * 내용에 따르면 특정 데이터 분석의 경우 속도 향상
   * Pandas, TensorFlow, Spark SQL등 결합 가능
+
+## Library data discovery
+* [데이터 디스커버리 플랫폼 도입기 - 1편. 데이터 디스커버리란?(feat. Datahub VS Amundsen 비교 분석) - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html)
+* amundsen [Data discovery & metadata management (amundsen installation)](https://www.slideshare.net/changunjung/data-discovery-metadata-management-amundsen-installation)
+* datahub [A Metadata Platform for the Modern Data Stack | DataHub](https://datahubproject.io/)
+  * [뱅크샐러드 Data Discovery Platform의 시작 | 뱅크샐러드](https://blog.banksalad.com/tech/the-starting-of-datadiscoveryplatform-era-in-banksalad/)
 
 # News
 * [The Best of Big Data: New Articles Published This Month (June 2017)](https://blog.sicara.com/06-2017-best-big-data-new-articles-this-month-5c3478872a61)
