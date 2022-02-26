@@ -4878,6 +4878,7 @@ Python
 * [The Best Way to Learn Python – Python Programming Tutorial for Beginners](https://www.freecodecamp.org/news/the-best-way-to-learn-python-python-programming-tutorial-for-beginners/)
 * [Tips and Examples - Codetorial](https://codetorial.net/tips_and_examples/index.html)
 * [Python for JavaScript developers](https://200okweblog.hashnode.dev/python-for-javascript-developers)
+* [Learn basics Python Programming with Smartphone 1 - YouTube](https://www.youtube.com/watch?v=TenXmjyHmfU)
 * [python-mini-projects: A collection of simple python mini projects to enhance your python skills](https://github.com/Python-World/python-mini-projects)
 * [tinkerstellar | Learn by tinkering](https://tinkerstellar.com/)
   * [Tinkerstellar - iPad에서 Python 배우기 | GeekNews](https://news.hada.io/topic?id=5735)
