@@ -320,6 +320,7 @@ Web
 * [The State of Web Scraping 2022 | ScrapeOps](https://scrapeops.io/blog/the-state-of-web-scraping-2022/)
 * [incolumitas.com – So you want to Scrape like the Big Boys? 🚀](https://incolumitas.com/2021/11/03/so-you-want-to-scrape-like-the-big-boys/)
   * [대규모로 웹 스크래핑하기 | GeekNews](https://news.hada.io/topic?id=5454)
+* [함께 쓰는 풀리퀘 지금 하는 크롤링, 혹시 ‘디도스’는 아닌가요](https://n.news.naver.com/article/293/0000038163)
 * [browser-fingerprinting: Analysis of Bot Protection systems with available countermeasures 🚿. How to defeat anti-bot system 👻 and get around browser fingerprinting scripts 🕵️‍♂️ when scraping the web?](https://github.com/niespodd/browser-fingerprinting)
   * [봇 감지 우회하기 : 차단당하지 않고 웹 스크레핑 하는 법 | GeekNews](https://news.hada.io/topic?id=5304)
 * [Common Crawl - We build and maintain an open repository of web crawl data that can be accessed and analyzed by anyone](https://commoncrawl.org/)
