@@ -599,6 +599,7 @@ Business
 * [회사에서 언프로페셔널 하다는 피드백을 들었다](https://brunch.co.kr/@svillustrated/53) 명확한 communication
 * [나는 블루홀에서 무엇을 배웠나 | 딥백수](https://dl4ab.github.io/2020/09/17/lesson-learned-at-bluehole/) 의도의 중요성 + 피드백
 * [피드백, 효과적으로 하는 2가지 방법](https://brunch.co.kr/@flexteam/74) 4A, AAT
+* [직원의 사기를 꺾지 않고 지적하는 방법 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=21472652&memberNo=1464463)
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
