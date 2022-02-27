@@ -408,6 +408,11 @@ Book
 * [메이지유신을 설계한 최후의 사무라이들](https://jh4hj.tistory.com/entry/%EB%A9%94%EC%9D%B4%EC%A7%80%EC%9C%A0%EC%8B%A0%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%9C-%EC%B5%9C%ED%9B%84%EC%9D%98-%EC%82%AC%EB%AC%B4%EB%9D%BC%EC%9D%B4%EB%93%A4)
   * ★★★☆☆ 2022.02.01
   * [메이지유신을 설계한 최후의 사무라이들. 그 유명한 초망굴기론이다. ‘초망’이란 우거진 풀, 잡초라는 뜻이니… | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/%EB%A9%94%EC%9D%B4%EC%A7%80%EC%9C%A0%EC%8B%A0%EC%9D%84-%EC%84%A4%EA%B3%84%ED%95%9C-%EC%B5%9C%ED%9B%84%EC%9D%98-%EC%82%AC%EB%AC%B4%EB%9D%BC%EC%9D%B4%EB%93%A4-bac9857665ca)
+* [황제 프리드리히 2세의 생애](https://jh4hj.tistory.com/entry/%ED%99%A9%EC%A0%9C-%ED%94%84%EB%A6%AC%EB%93%9C%EB%A6%AC%ED%9E%88-2%EC%84%B8%EC%9D%98-%EC%83%9D%EC%95%A0)
+  * ★★★☆☆ 2022.02.20~24
+  * [황제 프리드리히 2세의 생애. 시오노 나나미의 시그니쳐같은 구절이 아닐까? | by Jun | Feb, 2022 | Medium](https://nymets.medium.com/%ED%99%A9%EC%A0%9C-%ED%94%84%EB%A6%AC%EB%93%9C%EB%A6%AC%ED%9E%88-2%EC%84%B8%EC%9D%98-%EC%83%9D%EC%95%A0-ded90cb4760e)
+* [그림으로 보는 십자군 이야기-시오노 나나미 : 네이버 블로그](https://blog.naver.com/ori2k/220866292509)
+  * ★★★☆☆ 2022.02.27
 * (NOT YET) [조선의 잡지](http://www.futurekorea.co.kr/news/articleView.html?idxno=108587)
   * 2018.08 탐라
 * (NOT YET) [부의 도시 베네치아](https://brunch.co.kr/@pedkang01/73)
