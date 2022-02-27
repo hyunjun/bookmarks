@@ -713,6 +713,7 @@ Deep Learning
 * [Bag-of-Tricks — 딥러닝 성능을 높이기 위한, 다양한 꿀팁들 | by 이도현 | CURG | Medium](https://medium.com/curg/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EC%84%B1%EB%8A%A5%EC%9D%84-%EB%86%92%EC%9D%B4%EA%B8%B0-%EC%9C%84%ED%95%9C-%EB%8B%A4%EC%96%91%ED%95%9C-%EA%BF%80%ED%8C%81%EB%93%A4-1910c6c7094a)
 * [Deep Learning's Most Important Ideas - A Brief Historical Review](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
 * [Rosaria Silipo on Codeless Deep Learning and Visual Programming - YouTube](https://www.youtube.com/watch?v=0jWVYBSa6vM)
+* [Jon Barron - Understanding and Extending Neural Radiance Fields - YouTube](https://www.youtube.com/watch?v=HfJpQCBTqZs)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
