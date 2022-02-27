@@ -1043,6 +1043,7 @@ AWS
 * [AWS의 람다는 api를 만드는 유용한 도구입니다. 람다를 지원하는 여러 언어가 있지만 Python을 쓰는 것이 합리적입니다. 온라인 에디터를 지원하는 3개의 언어 중 하나이고 대기 상태에서 깨어나는 시간이 가장 빠른 언어이기 때문입니다. 파이썬으로 DynamoDB를 다룰 때 필요한 여러 예제가 있습니다. 먼저, get_item은 테이블에서 키의 조건에… - 이상선 - Medium](https://medium.com/@sunyi233/aws%EC%9D%98-%EB%9E%8C%EB%8B%A4%EB%8A%94-api%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%9C%A0%EC%9A%A9%ED%95%9C-%EB%8F%84%EA%B5%AC%EC%9E%85%EB%8B%88%EB%8B%A4-2a801d280866)
 * [Project using Lambda (Python), S3, DynamoDB, RDS (MySQL), SNS with step by step explanation & guide - YouTube](https://www.youtube.com/watch?v=K1jqLUeLEwU)
 * [AWS Lambda Tutorial | Beginners to Advanced | Lambda Functions Tutorial - YouTube](https://www.youtube.com/watch?v=D5HsgNtqStk)
+* [AWS Lambda의 동작 원리 - 전역 변수가 유지될까? | blog.hoseung.me](https://blog.hoseung.me/2022-02-27-lambda-global-variables/)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
