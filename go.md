@@ -43,7 +43,6 @@ Go
 * [Looking for security trouble spots in Go code](http://0xdabbad00.com/2015/04/12/looking_for_security_trouble_spots_in_go_code/)
 * [Probabilistic data structures for processing continuous, unbounded streams](https://github.com/tylertreat/BoomFilters)
 * [Using Go's interfaces at Clever - more than just easy collaboration](http://engineering.clever.com/2015/04/17/using-gos-interfaces-at-clever---more-than-just-easy-collaboration/)
-* [Go: Understand the Empty Interface](https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72)
 * [Interfaces Example in Go. If it walks like a duck and it quacks… | by Jerry An | Jan, 2022 | Medium](https://jerryan.medium.com/interfaces-example-in-go-ca34a7ec001d)
 * [java vs. go performance](http://benchmarksgame.alioth.debian.org/u64q/compare.php?lang=java&lang2=go)
 * [Java, Go 성능 테스트 비교 글을 보고](https://www.popit.kr/java-go-%EC%84%B1%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8-%EB%B9%84%EA%B5%90-%EA%B8%80%EC%9D%84-%EB%B3%B4%EA%B3%A0/)
@@ -363,6 +362,9 @@ Go
   * [Experimenting with generics in Go | by Alexey Soshin | The Startup | Medium](https://medium.com/swlh/experimenting-with-generics-in-go-39ffa155d6a1)
   * [Generic Programming in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=d6LjYsQE-CQ)
   * [Getting Started with Generics in Golang](https://morioh.com/p/0fc0b39156bf)
+* interface
+  * [Go: Understand the Empty Interface](https://medium.com/a-journey-with-go/go-understand-the-empty-interface-2d9fc1e5ec72)
+  * [golang tutorial - golang interface tutorial - YouTube](https://www.youtube.com/watch?v=52W4aw5nXzM)
 * map
   * [map\[string\]interface{} in Go — Bitfield Consulting](https://bitfieldconsulting.com/golang/map-string-interface)
   * [How the Go runtime implements maps efficiently (without generics)](https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics)
