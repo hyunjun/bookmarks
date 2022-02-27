@@ -60,6 +60,7 @@ Bitcoin
 * [브릿지 알고 쓰자! : 네이버 블로그](https://blog.naver.com/jinsol96/222637804119)
 * [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom - DEV Community](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 * [DSHR's Blog: EE380 Talk](https://blog.dshr.org/2022/02/ee380-talk.html)
+* [How to Design A Real-time CryptoCurrency Price Alert Backend | by Jerry An | Feb, 2022 | Medium](https://jerryan.medium.com/how-to-design-a-real-time-cryptocurrency-price-alert-backend-470f6245a7cd)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
