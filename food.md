@@ -106,6 +106,7 @@ Food
 * [수입맥주 추천 BEST 10](http://iampb01.tistory.com/m/191)
 * [알기쉽게 정리한 맥주 종류](https://imgur.com/a/TQS2yXk)
 * [1세대 밀맥주는 알프스에서 태어났다? | ㅍㅍㅅㅅ](https://ppss.kr/archives/242044)
+* [모두가 겉으로만 아는 라거와 에일의 차이](https://brunch.co.kr/@beerstory/6)
 
 ## Cocktail
 * [초여름에 즐기는 보드카 칵테일 레시피 7](http://www.huffingtonpost.kr/2015/05/28/story_n_7456784.html)
