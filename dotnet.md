@@ -96,6 +96,7 @@
 * [Multi-Language with .Net 6. You need to define which language you… | by Bernardo Teixeira | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/multi-language-with-net-6-3dd214ea01fb)
 * [Swagger with Bearer Token .Net6. Swagger is a language-agnostic… | by Bernardo Teixeira | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/swagger-with-bearer-token-net6-b4ca5a8274b1)
 * [Create a CLI tool with .Net6. Probably you know the new windows… | by Bernardo Teixeira | Geek Culture | Jan, 2022 | Medium](https://medium.com/geekculture/create-a-cli-tool-with-net6-94c03ad3e474)
+* [.NET 6 전환기 (.NET Conf 2022 x Seoul Replay) - YouTube](https://www.youtube.com/watch?v=SByPYYtGWvo)
 * [Integration Test with Docker and .Net6 | by Bernardo Teixeira | Geek Culture | Jan, 2022 | Medium](https://medium.com/geekculture/integration-test-with-docker-and-net6-564cb4922cfd)
 
 # Book
