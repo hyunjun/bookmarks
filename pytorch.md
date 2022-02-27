@@ -201,6 +201,7 @@ PyTorch
 * [Two-Dimensional Tensors in Pytorch](https://machinelearningmastery.com/two-dimensional-tensors-in-pytorch/)
 * [Profiling and Tuning PyTorch Models - Shagun Sodhani | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=-SNdvNdnEl8)
 * [Data Science Web nugget Roundup, Jan 29: Calculating Derivatives in PyTorch; Hacking Wordle - KDnuggets](https://www.kdnuggets.com/2022/01/weekly-web-nugget-roundup-0129.html)
+* [PyTorch on Apple M1 MAX GPUs with SHARK – 2X faster than TensorFlow-Metal – nod.ai](https://nod.ai/pytorch-m1-max-gpu/)
 
 # BERT
 * [BERT-pytorch Pytorch implementation of Google AI's 2018 BERT, with simple annotation](https://github.com/codertimo/BERT-pytorch)
