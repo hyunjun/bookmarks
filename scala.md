@@ -2439,3 +2439,4 @@ Scala
 * [So much done today! (SPFS #7) - YouTube](https://www.youtube.com/watch?v=hyk245P6C3Q)
 * [What I learned from programming in #Scala WITHOUT the standard library for 6 days - Part 1 - YouTube](https://www.youtube.com/watch?v=CiKqa82Rk94)
   * [invoice-generator](https://github.com/devinsideyou/invoice-generator)
+* [What I learned from programming in #Scala WITHOUT the standard library for 6 days - Part 2 - YouTube](https://www.youtube.com/watch?v=yMhP7eg1l7o)
