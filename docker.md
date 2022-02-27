@@ -1216,6 +1216,7 @@ Docker
 * [Kubernetes Health Checks Using Probes – The New Stack](https://thenewstack.io/kubernetes-health-checks-using-probes)
 * [Will That Kubernetes v1.22 Upgrade Break My Application? | by Sachin Agarwal | Feb, 2022 | Run X](https://blog.runx.dev/will-that-kubernetes-v1-22-upgrade-break-my-application-cc339dc2e2c7)
 * [How to Make the Most of Kubernetes Environment Variables – The New Stack](https://thenewstack.io/how-to-make-the-most-of-kubernetes-environment-variables/)
+* [How backup and restore works in kubernetes with velero - YouTube](https://www.youtube.com/watch?v=UdHP2ewBJNY)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
