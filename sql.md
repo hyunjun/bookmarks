@@ -231,6 +231,7 @@ SQL
 * [(AWS Aurora) PostgreSQL에서 Lock 쿼리 확인하고 원인 종료하기](https://jojoldu.tistory.com/591)
 * [입 개발 MariaDB Connector 와 AWS Aurora | Charsyam's Blog](https://charsyam.wordpress.com/2021/12/11/%ec%9e%85-%ea%b0%9c%eb%b0%9c-mariadb-connector-%ec%99%80-aws-aurora/)
 * [Planning I/O in Amazon Aurora | AWS Database Blog](https://aws.amazon.com/de/blogs/database/planning-i-o-in-amazon-aurora/)
+* [Leveraging AWS Aurora for Event Sourcing | by Lomig Mégard | SwissBorg Engineering | Feb, 2022 | Medium](https://medium.com/swissborg-engineering/leveraging-aws-aurora-for-event-sourcing-e8323dce58b6)
 
 # Book
 * [SQL 전문가 되어보기](https://wikidocs.net/book/159)
