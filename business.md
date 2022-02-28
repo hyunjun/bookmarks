@@ -878,6 +878,7 @@ Business
 * [Motivation은 필요없다](https://brunch.co.kr/@hyungsukkim/129)
 * [팀장님, 이제 '라떼' 금지할 시간입니다 | 원티드](https://www.wanted.co.kr/events/22_02_s02_b01)
 * [리더와 팔로워](https://www.thestartupbible.com/2022/02/leaders-and-followers.html)
+* [위험을 감수해야 하는 3가지 이유](http://moneyman.kr/archives/1724)
 
 # Manager Management
 * [번역 Be a Good Product Leader. by Adam Nash](http://ahnchang.com/번역-good-product-leader-adam-nash/)
