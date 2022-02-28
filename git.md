@@ -308,6 +308,7 @@ Git
   * 추가로 정기적으로 실행되도록 설정한 자동배포 워크플로우도 설명
 * [How we ship GitHub Mobile every week | The GitHub Blog](https://github.blog/2022-01-12-how-we-ship-github-mobile-every-week/)
 * [How to build a CI/CD pipeline with GitHub Actions in four simple steps | The GitHub Blog](https://github.blog/2022-02-02-build-ci-cd-pipeline-github-actions-four-steps/)
+* [Part – IX: Push to ACR using GitHub Actions (Continuous Deployment) – Hello World!](https://learnai1.home.blog/2022/02/28/part-ix-push-to-acr-using-github-actions/)
 * [GitHub Actions by Example](https://www.actionsbyexample.com/)
   * [GitHub Actions by Example | GeekNews](https://news.hada.io/topic?id=5829)
 
