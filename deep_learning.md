@@ -714,6 +714,8 @@ Deep Learning
 * [Deep Learning's Most Important Ideas - A Brief Historical Review](https://dennybritz.com/blog/deep-learning-most-important-ideas/)
 * [Rosaria Silipo on Codeless Deep Learning and Visual Programming - YouTube](https://www.youtube.com/watch?v=0jWVYBSa6vM)
 * [Jon Barron - Understanding and Extending Neural Radiance Fields - YouTube](https://www.youtube.com/watch?v=HfJpQCBTqZs)
+* [캐글 딥러닝 강좌 정리 1 - 뉴런(Neuron)과 깊은 신경망(DNN) - 멈춤보단 천천히라도](https://webnautes.tistory.com/1646)
+* [캐글 딥러닝 강좌 정리 2 - 확률적 경사 하강법(Stochastic Gradient Descent), 손실함수, 옵티마이저 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1647)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
