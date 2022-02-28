@@ -292,3 +292,7 @@ Bitcoin
 * [Crypto & NFTs: Network Effects in Web3 | by Sameer Singh | Breadcrumb.vc](https://breadcrumb.vc/crypto-nfts-network-effects-in-web3-7689cf8f0439)
 * [미래의 패러다임? 그저 대박의 기회?··· '웹3 개발자', 커리어 관점의 진단 - CIO Korea](https://www.ciokorea.com/news/223499)
 * [The Duality of Web3: Privacy vs. Transparency](https://coinsights.substack.com/p/the-duality-of-web3)
+* [크립토 스타트업을 위한 Best Web3.0 Design 13 (1) Cosmos, Foundation | by Janet | Mar, 2022 | Medium](https://medium.com/@janetjang/%ED%81%AC%EB%A6%BD%ED%86%A0-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%9D%84-%EC%9C%84%ED%95%9C-best-web3-0-design-13-1-comos-circle-c44750fb150f)
+* [좋은 Web3 디자인을 위한 UX 원칙(1) Design principles for web3. | by Janet | Feb, 2022 | Medium](https://medium.com/@janetjang/%EC%A2%8B%EC%9D%80-web3-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-ux%EC%9B%90%EC%B9%99-design-principles-for-web3-5baf5b8376d4)
+* [좋은 Web3 디자인을 위한 UX 원칙(2) Design principles for web3. | by Janet | Feb, 2022 | Medium](https://medium.com/@janetjang/%EC%A2%8B%EC%9D%80-web3-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-ux-%EC%9B%90%EC%B9%99-2-design-principles-for-web3-85fe6024d40b)
+* [좋은 Web3 디자인을 위한 UX 원칙(3) Design principles for web3. | by Janet | Feb, 2022 | Medium](https://medium.com/@janetjang/%EC%A2%8B%EC%9D%80-web3-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-%EC%9C%84%ED%95%9C-ux-%EC%9B%90%EC%B9%99-3-design-principles-for-web3-cc353f47eb20)
