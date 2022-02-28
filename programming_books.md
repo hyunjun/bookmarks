@@ -597,6 +597,7 @@ Programming Books
   * [데이터 분석가의 숫자유감 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1563)
   * [데이터 분석가의 숫자유감 1화 상관관계와 인과관계 : 광고 덕분에 DAU가 늘었다? - 골든래빗](https://goldenrabbit.co.kr/2022/01/12/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EA%B0%80%EC%9D%98-%EC%88%AB%EC%9E%90%EC%9C%A0%EA%B0%90-%EC%83%81%EA%B4%80%EA%B4%80%EA%B3%84%EC%99%80-%EC%9D%B8%EA%B3%BC%EA%B4%80%EA%B3%84/)
 * (NOT YET) [데이터 과학자 되는 법 (에밀리 로빈슨, 재클린 놀리스 著, 이창화 譯, 2021)](https://jehyunlee.tistory.com/31)
+* (NOT YET) [AI, 빅데이터 활용이 쉬워지는 142가지 데이터셋](https://needleworm.github.io/dataset/)
 
 ## Deep Learning
 * [김대식의 인간 vs 기계](https://jh4hj.tistory.com/entry/%EA%B9%80%EB%8C%80%EC%8B%9D%EC%9D%98-%EC%9D%B8%EA%B0%84-vs-%EA%B8%B0%EA%B3%84)
