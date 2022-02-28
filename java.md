@@ -1540,6 +1540,7 @@ Java
 * [JWT Token를 spring security에서 손쉽게 검증하기 위한 방법](https://life-journey.tistory.com/15)
 * [spring security filter exception 을 custom 하게 처리해 봅시다](https://codingdog.tistory.com/619)
 * [Spring Security (1) - 구조와 동작 방식](https://velog.io/@couchcoding/Spring-Security%EC%99%80-Spring-Security-%EC%84%A4%EC%A0%95-%EB%B0%A9%EB%B2%95%EC%97%90-%EB%8C%80%ED%95%B4%EC%84%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90)
+* [SSO를 Spring Security OAuth에서 Keycloak으로 전환하기(서론) | by 박도하 | Feb, 2022 | Medium](https://medium.com/@doha.park/sso%EB%A5%BC-spring-security-oauth%EC%97%90%EC%84%9C-keycloak%EC%9C%BC%EB%A1%9C-%EC%A0%84%ED%99%98%ED%95%98%EA%B8%B0-%EC%84%9C%EB%A1%A0-8b3670f46f1a)
 * [Apache Camel + Spring Boot REST API | Example | Java Techie - YouTube](https://www.youtube.com/watch?v=wFpAw0bpzns)
 * [REST with Spring Tutorial | Baeldung](https://www.baeldung.com/rest-with-spring-series)
 * [beantimer: A tools to measure Spring bean initialization time](https://github.com/vikreinok/beantimer)
