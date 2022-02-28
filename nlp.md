@@ -465,6 +465,7 @@ NLP
 * [publicservant_AI](https://github.com/kimwoonggon/publicservant_AI)
 * [RoBERTa Review](https://baekyeongmin.github.io/paper-review/roberta-review/)
   * [Decoding-Enhanced BERT with Disentangled Attention Paper explained - YouTube](https://www.youtube.com/watch?v=hNTkpNk7v-I)
+* SBERT [Basic NLP sentence-transformers 라이브러리를 활용한 SBERT 학습 방법](https://velog.io/@jaehyeong/Basic-NLP-sentence-transformers-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-SBERT-%ED%95%99%EC%8A%B5-%EB%B0%A9%EB%B2%95)
 * [soongsil-bert-base-nsmc.ipynb - Colaboratory](https://colab.research.google.com/drive/1Js24ps3JvsN-WO9DURzueTUeCmg_BP-g)
 * [TinyBERT](https://www.slideshare.net/HoonHeo5/tinybert)
 * [XLNet: Generalized Autoregressive Pretraining for Language Understanding(19.06.25)](https://www.notion.so/f4b608f11dfc4c8c8eb4c504f867d4aa)
