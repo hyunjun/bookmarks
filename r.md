@@ -111,6 +111,7 @@ R
 * [fivethirtyeight: Data and Code Behind the Stories and Interactives at 'FiveThirtyEight'](https://cran.r-project.org/web/packages/fivethirtyeight/index.html)
 * [R로 간단하게 알아보는 K-Nearest Neighbor Algorithm ( KNN)](https://medium.com/@peteryun/ml-r%EB%A1%9C-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-k-nearest-neighbor-algorithm-knn-6a2062114ed2)
 * [R에서 기본 내장 graphics package를 이용한 데이터 시각화](https://lovetoken.github.io/r/2017/06/16/plotFunction.html)
+* [데이터사우르스가 알려주는 데이터 시각화의 중요성 - YouTube](https://www.youtube.com/watch?v=SrRm6kS2Kfo)
 * [BBC Visual and Data Journalism cookbook for R graphics](https://bbc.github.io/rcookbook/)
 * [How the BBC Visual and Data Journalism team works with graphics in R](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535)
 * [능선 회귀(Ridge regression)에 대하여 1](http://r-programming.club/14)
