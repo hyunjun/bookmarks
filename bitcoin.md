@@ -257,6 +257,10 @@ Bitcoin
 * [마플코퍼레이션, 글로벌 올인원 NFT 솔루션 론칭 – 스타트업 스토리 플랫폼 '플래텀(Platum)'](https://platum.kr/archives/180929)
 * [상상초월 가격의 NFT 그림, 정말 그만한 가치가 있을까? 유현준이 보는 NFT 예술 - YouTube](https://www.youtube.com/watch?v=9z4rfZjEGWA) 기술 이야기는 아니지만 재미있게 볼 수 있음
 * [NFT를 공부하려다 알게된 Meebits](https://androidkr.blogspot.com/2022/02/nft-meebits.html)
+* [OMNUUM](https://omnuum.io/)
+  * 코드를 직접 다루지 않고도 제너러티브 방식의 PFP NFT 프로젝트를 손쉽게 생성, 관리 기능 제공
+  * 프로젝트의 범위에는 아트웍, 민팅, 웹사이트, 커뮤니티, 화이트리스트, 마켓플레이스, 리딤 등이 포함
+    * 전용 스마트 컨트랙트 배포에 있어서도 과정에서 지불되는 가스피를 최소화하는 설계 포함
 
 # Python
 * [A peek under Bitcoin's hood](http://www.samlewis.me/2017/06/a-peek-under-bitcoins-hood/)
