@@ -93,6 +93,7 @@ Game
 * PICO-8 [‘판타지 비디오 게임 콘솔’ 게임 엔진! PICO-8 소개 : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=18640668&memberNo=40601392)
 * [Pixelbox.js - A downloadable Game Engine for Windows and macOS](https://pixwlk.itch.io/pixelbox)
 * [PlayCanvas WebGL Game Engine](https://playcanvas.com/)
+* [Playdate](https://play.date/)
 * [POKEGB: a gameboy emulator that only plays Pokémon blue](https://binji.github.io/posts/pokegb/)
   * [POKEGB - 포켓몬블루만 실행 가능한 게임보이 에뮬 개발기 | GeekNews](https://news.hada.io/topic?id=4399)
 * [PrinceJS: Prince of Persia reimplementation written in HTML5/Javascript](https://github.com/ultrabolido/PrinceJS)
