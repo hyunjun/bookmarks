@@ -280,6 +280,8 @@
 * [코틀린에서 하이버네이트를 사용할 수 있을까?](https://woowabros.github.io/experience/2020/05/11/kotlin-hibernate.html)
 * [ΛRROW · GitHub](https://github.com/arrow-kt)
   * [Functional programming in Kotlin with Arrow.kt - YouTube](https://www.youtube.com/watch?v=IDMmmrRhUvQ)
+* [Compose for Web UI Framework | JetBrains: Developer Tools for Professionals and Teams](https://compose-web.ui.pages.jetbrains.team/)
+  * [Compose for Web 개발 후기](https://holykisa.tistory.com/71)
 * [Exposed: Kotlin SQL Framework](https://github.com/JetBrains/Exposed) an ORM framework for Kotlin
 * [FlameViewer - Tool for flamegraphs visualization](https://github.com/kornilova203/FlameViewer)
 * [fuel: The easiest HTTP networking library for Kotlin/Android](https://github.com/kittinunf/fuel)
