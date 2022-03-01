@@ -1784,6 +1784,8 @@ Javascript
   * [NestJS (with Mono Repo) WebStorm으로 디버깅 하기](https://jojoldu.tistory.com/607)
   * [NestJS에서 응답/요청 객체 직렬화 (Serialization) 하기](https://jojoldu.tistory.com/610)
   * [NestJS Custom Caching Decorator 만들기](https://zuminternet.github.io/nestjs-custom-decorator/)
+  * [driver-license-verification: An unofficial driver license verification crawler API service. (data from www.safedriving.or.kr and www.efine.go.kr) | 비공식 운전면허 검증 API](https://github.com/stevejkang/driver-license-verification)
+    * [비공식 운전면허 검증 REST API 개발기 | 강준영 기술 블로그](https://juneyoung.io/development-unofficial-driver-license-verification-with-nestjs-220228)
   * [nestia: Automatic SDK and Document generator for the NestJS](https://github.com/samchon/nestia)
     * [nestia-helper: NestJS with AES Encryption](https://github.com/samchon/nestia-helper)
 * Netlify
