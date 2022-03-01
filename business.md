@@ -497,6 +497,8 @@ Business
 * [HBR 독후감 스티치픽스 CEO, 개인의 스타일을 대중에게 파는 법外](https://www.popit.kr/hbr-%EB%8F%85%ED%9B%84%EA%B0%90-%EC%8A%A4%ED%8B%B0%EC%B9%98%ED%94%BD%EC%8A%A4-ceo-%EA%B0%9C%EC%9D%B8%EC%9D%98-%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%84-%EB%8C%80%EC%A4%91%EC%97%90%EA%B2%8C-%ED%8C%8C/)
 * [코더에서 CEO가 되는 것에 대한 리소스가 뭐가 있을까요? | GeekNews](https://news.hada.io/topic?id=5054)
 * [리더십 좋은 사업가의 4가지 자질](http://moneyman.kr/archives/2602)
+* [The Five Rules Every New CEO Should Follow](https://hbr.org/2013/10/the-five-rules-every-new-ceo-should-follow)
+  * [초보 CEO가 지켜야 할 5가지 원칙](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-the_five_rules_every_new_ceo_should_follow-md)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -600,6 +602,7 @@ Business
 * [나는 블루홀에서 무엇을 배웠나 | 딥백수](https://dl4ab.github.io/2020/09/17/lesson-learned-at-bluehole/) 의도의 중요성 + 피드백
 * [피드백, 효과적으로 하는 2가지 방법](https://brunch.co.kr/@flexteam/74) 4A, AAT
 * [직원의 사기를 꺾지 않고 지적하는 방법 : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=21472652&memberNo=1464463)
+* [싸우자는 게 아니라 피드백입니다](https://brunch.co.kr/@workingus/79)
 
 # Creativity
 * [8 Books to Help Foster Creativity and Innovation in Your Startup](https://blog.paymill.com/8-books-help-foster-creativity-innovation-startup/)
