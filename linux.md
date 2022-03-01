@@ -810,6 +810,7 @@ Linux
 * `strace` debugging tool to trace system calls and signals
   * [**마법의 도구 strace**](https://brunch.co.kr/@alden/12)
   * [strace를 통해 젠킨스 트러블 슈팅 하기](https://brunch.co.kr/@alden/62)
+  * [strace가 -k 옵션을 만난 날 - 넷마블 기술 블로그](https://netmarble.engineering/strace-k-build-guide/)
 * `strip`
   * [10 Linux Strip Command Examples (Reduce Executable/Binary File Size)](http://www.thegeekstuff.com/2012/09/strip-command-examples/)
 * `sudo`
@@ -979,6 +980,7 @@ Linux
 * [Static analysis in GCC 10](https://developers.redhat.com/blog/2020/03/26/static-analysis-in-gcc-10/)
 * [GCC x86 Performance Hints](https://software.intel.com/content/www/us/en/develop/blogs/gcc-x86-performance-hints.html)
 * [Static analysis updates in GCC 11 - Red Hat Developer](https://developers.redhat.com/blog/2021/01/28/static-analysis-updates-in-gcc-11/)
+* [Bounded dynamicism with cross-modifying code - Paul Khuong: some Lisp](https://pvk.ca/Blog/2021/12/19/bounded-dynamicism-with-cross-modifying-code/)
 
 # GNU
 * [Turn GNU command line tools into SaaS (Stupid Hackathon Project)](https://github.com/diafygi/gnu-pricing)
