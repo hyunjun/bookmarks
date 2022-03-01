@@ -687,6 +687,7 @@ Machine Learning
 * [The First Rule of Machine Learning: Start without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/)
 * [Robust Foundation for Data Pipelines at Scale - Lessons from Netflix - YouTube](https://www.youtube.com/watch?v=GTxurGBfdFU)
 * [Agile Data Science - How to Implement Agile Workflows For Analytics and Machine Learning - YouTube](https://www.youtube.com/watch?v=b6gniYc1sJk)
+* [머신러닝, 딥러닝 대체 뭘 공부하라는거야?](https://velog.io/@dongyi/WhatShouldIDoForAI)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
