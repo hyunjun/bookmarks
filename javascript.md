@@ -2530,11 +2530,16 @@ Javascript
   * [Deno by Example](https://examples.deno.land/)
     * Deno의 사용방법을 예제별로 모아둔 사이트를 Deno에서 공개
     * 간단한 Hello World부터 명령행 인자 처리, 파일 처리, HTTP 서버까지 다양한 예제 제공
+  * [How to publish Deno modules to NPM](https://deno.com/blog/dnt-oak)
+    * Deno 웹 프레임워크인 oak를 만든 Kitson Kelly가 dnt를 이용해서 oak을 NPM 레지스트리에 배포하는 방법 설명
+    * dnt는 Deno 코드를 Node 호환 npm으로 변환하는 빌드 파이프라인을 제공하기 때문에 이를 이용해서 oak를 Deno로 개발한 뒤에 npm에 배포해서 node에서 사용
   * [denodb: MySQL, SQLite, MariaDB, PostgreSQL and MongoDB ORM for Deno](https://github.com/eveningkid/denodb)
   * [Deno Deploy Beta 1 | Deno Blog](https://deno.com/blog/deploy-beta1)
     * [디노 컴퍼니, 서버측 자바스크립트 호스팅 서비스 공개 - CIO Korea](https://www.ciokorea.com/news/199044)
   * [deno-puppeteer: A port of puppeteer running on Deno](https://github.com/lucacasonato/deno-puppeteer)
   * [Deno-To-Do: ✅ To-Do App made with Deno, React.js & MongoDB](https://github.com/GoldenMaximo/Deno-To-Do)
+  * [dnt: Deno to npm package build tool](https://github.com/denoland/dnt/)
+  * [oak: A middleware framework for handling HTTP with Deno 🐿️ 🦕](https://github.com/oakserver/oak)
 * [Dokker.js - creates professional Javascript code documentations](http://dokkerjs.com/)
 * [Dragula - Drag and drop so simple it hurts](https://github.com/bevacqua/dragula/blob/master/readme.markdown)
 * [endl - Link Extractor and Downloader](https://github.com/dogancelik/endl)
@@ -3968,6 +3973,9 @@ Javascript
 * [cypress - The web has evolved. Finally, testing has too](https://www.cypress.io/)
   * [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
   * [FE개발자의 성장 스토리 12 : Angular E2E 테스팅 경험기 – tech.kakao.com](https://tech.kakao.com/2022/02/22/angular-e2e-testing/)
+    * Angular 프로젝트에 Protractor를 사용 중이었는데 개발이 중단되었기 때문에 새로운 테스트 도구로 Cypress를 리서치
+    * Cypress는 Automatic waiting 기능으로 같은 동작에 성공할 때까지 반복하므로 비동기 처리 불필요, 간헐적인 실패 감소, Headless 모드도 지원해 Cypress로 E2E 테스트를 작성하기로 결정
+    * 시각적 테스트는 수정될 가능성이 높으므로 기능적 테스트에 더 집중하기로 했고 테스트를 작성하기 쉽게 가이드 문서도 작성
 * [folio: A customizable test framework to build your own test frameworks](https://github.com/microsoft/folio) typescript
 * [gentest - Generative testing for JavaScript. Save time and catch more bugs by letting the computer write test cases for you. WIP](https://github.com/graue/gentest)
 * Jasmine [An Introduction to Jasmine Unit Testing](https://medium.freecodecamp.org/jasmine-unit-testing-tutorial-4e757c2cbf42)
