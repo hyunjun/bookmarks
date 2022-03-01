@@ -769,7 +769,9 @@ Vision
   * [LaMa - 큰해상도 이미지에서 사물 지우기 | GeekNews](https://news.hada.io/topic?id=5281)
 * [Lego-generator](https://github.com/uvipen/Lego-generator)
 * [malmopy: Python Library for working with Project Malmo - Hack & Tell Singapore](https://www.youtube.com/watch?v=-IbC88-Fa7w)
-* MediaPipe [가위바위보를 인식하는 Mediapipe hand Python 예제 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1641)
+* MediaPipe
+  * [가위바위보를 인식하는 Mediapipe hand Python 예제 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1641)
+  * [TF Tutorial On-device Real-time Hand Tracking - 공부 기록장](https://inhopp.github.io/tf_tutorial/Tutorial2/)
 * [mmtracking: OpenMMLab Video Perception Toolbox. It supports Single Object Tracking (SOT), Multiple Object Tracking (MOT), Video Object Detection (VID) with a unified framework](https://github.com/open-mmlab/mmtracking)
 * [norfair: Lightweight Python library for adding real-time 2D object tracking to any detector](https://github.com/tryolabs/norfair)
 * [object_detector_app: Real-Time Object Recognition App with Tensorflow and OpenCV](https://github.com/datitran/object_detector_app)
