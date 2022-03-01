@@ -749,6 +749,21 @@ Web
 * [Upgrading Executable on the Fly](https://nginx.org/en/docs/control.html#upgrade)
   * [**실행중에 실행파일 업그레이드하기 | GeekNews**](https://news.hada.io/topic?id=5699)
 * [Do Svidaniya, Igor, and Thank You for NGINX - NGINX](https://www.nginx.com/blog/do-svidaniya-igor-thank-you-for-nginx/)
+* [Avoiding the Top 10 NGINX Configuration Mistakes - NGINX](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
+  * NGINX 설정에서 자주 보는 실수 정리
+  * 워커당 부족한 파일 디스크립터
+    * 웹서버로 동작할 때는 클라이언트 하나, 제공하는 파일 하나로 2개가 필요, 프록시서버에서는 하나가 필요하기 때문에 worker_connections보다 최소 2배로 FD를 설정해야 함
+  * error_log off 디렉티브: access_log 디렉티브와 달리 error_log는 off 파라미터를 받지 않으므로 실제로는 off라는 파일 생성
+  * 업스트림 서버에 keepalive 연결 비활성화: 기본적으로 요청마다 업스트림에 새로운 연결을 맺는데 새 연결 비용은 크므로 트래픽이 많으면 비효율적
+  * 디렉티브 상속의 동작 방식을 잊음: 자식 컨텍스트는 부모 컨텍스트의 디렉티브를 상속. 하지만 동일한 디렉티브를 설정하면 값을 추가하는 것이 아니라 덮어쓰게 됨
+  * proxy_buffering off 디렉티브
+    * 기본으로 버퍼링이 켜져있는데 모든 응답이 버퍼링되었을 때 응답을 주고 버퍼링을 끄면 응답을 받는 즉시 클라이언트에 응답을 보내기 때문에 클라이언트에 지연시간을 줄이려고 버퍼링을 끄는 경우가 있음
+    * 레이트 리밋이나 캐싱이 안되는 등의 문제가 많으므로 끄지 않길 권장
+  * if 디렉티브의 잘못된 사용: if 디렉티브는 사용하기가 까다롭고 if 디렉티브에서 안전하게 사용할 수 있는 것은 return과 rewrite 디렉티브 뿐
+  * 과도한 헬스체크: 모든 server 블록에 health_check 디렉티브를 사용하면 추가적인 정보는 없이 업스트림에 부하를 줄 가능성 존재
+  * 안전하지 않은 메트릭 접근: stub_status나 api 디렉티브를 누구나 접근하게 열어두면 공격자가 이를 활용 가능
+  * 모든 트래픽이 같은 /24 CIDR 블록에서 올 때 ip_hash의 사용: 로드 밸런싱 목적으로 ip_hash를 사용할 때 IPv4에서는 앞의 3가지 옥텟으로 해시키를 만들기 때문에 같은 /24 CIDR을 사용하면 해시키가 같아지는 문제
+  * 업스트림 그룹의 장점을 사용하지 않음: 업스트림 서버가 1개만 있는 경우 upstream 블록을 사용하지 않는 경우가 있는데 업스트림 서버가 1대여도 upstream 블록은 다양한 기능을 제공
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
 * [NGINXConfig | DigitalOcean](https://www.digitalocean.com/community/tools/nginx)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
