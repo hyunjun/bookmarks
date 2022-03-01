@@ -2214,6 +2214,17 @@ Programming
 * [Continuous Delivery Pipelines: How to Build Better Software Faster • Dave Farley • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=MYVrLXKJp0Y)
 * [The IDEAL CI / CD Pipeline - Concepts Overview - YouTube](https://www.youtube.com/watch?v=OPwU3UWCxhw)
 * [DevOps: CI/CD Tools to Watch Out for in 2022 - DZone DevOps](https://dzone.com/articles/devops-cicd-tools-to-watch-out-for-in-2022)
+* [Balancing Safety and Velocity in CI/CD at Slack - Slack Engineering](https://slack.engineering/balancing-safety-and-velocity-in-ci-cd-at-slack/)
+  * Slack의 메인 모노레포인 Webapp의 CI를 개선한 과정 설명
+  * Webapp은 2017년부터 자동화된 테스트 도입
+    * 매달 10%씩 테스트 실행 증가, 2020년에는 하루에 백만개의 테스트 스위트 실행(대부분 e2e 테스트)
+    * 대부분 메인라인에 머지 전 실행되었으므로 PR을 올릴때 테스트 결과를 기다려야 했는데, 이 테스트는 p95에서 30분 소요(최악 90분)
+    * 테스트 결과가 일관되지 않은 비율(다시 돌리면 성공하는 경우)가 50%
+  * 그래서 머지 전 개발중에는
+    * e2e 테스트의 서브셋(1% 미만)만 실행
+    * 메인 라인에 머지되면 좀더 큰 세트(10% 미만)의 e2e 테스트를 실행
+    * 레그레이션 파이프라인에서 2시간 마다 메인라인에 대해 전체 테스트 실행
+  * 이로써 테스트 실행 시간이 40% 감소, 테스트 결과가 일관되지 않은 비율은 90% 감소
 * CodeCov [Publishing Scala Code Coverage Results to CodeCov using Github Actions | by PJ Fanning | Oct, 2021 | Medium](https://medium.com/@pjfanning/publishing-scala-code-coverage-results-to-codecov-using-github-actions-3e73ea8056cb)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
