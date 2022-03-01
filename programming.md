@@ -3734,6 +3734,7 @@ Programming
 * [Martin Thompson On How To Manage Software Complexity | The Engineering Room Ep. 4 - YouTube](https://www.youtube.com/watch?v=sIBrFuzR3cs)
 * [An open source developer's guide to 12-Factor App methodology | Opensource.com](https://opensource.com/article/21/11/open-source-12-factor-app-methodology)
 * [Best Practice Tips for Efficient Software Development - YouTube](https://www.youtube.com/watch?v=JtVzWKvqs-c)
+* [루비콘 프로젝트 (랠릿 오픈 프로젝트) 소감](https://jojoldu.tistory.com/640)
 * [Principles.dev - Software Engineering Principles](https://principles.dev/)
   * [Software Engineering Principles | GeekNews](https://news.hada.io/topic?id=4534)
 
