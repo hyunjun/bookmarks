@@ -1576,6 +1576,7 @@ Java
   * [스프링 네이티브 따라하기 #mac #aws? - YouTube](https://www.youtube.com/watch?v=cLMvvOHo3aw)
   * [Convert Spring Boot Apps to GraalVM with Spring Native Beta](https://www.infoq.com/news/2021/03/spring-native-beta-available/)
 * [Spring Retry - Resilience4j, Spring Retry 재시도 패턴 구현](https://brunch.co.kr/@springboot/580)
+* [spring-template-cache](https://github.com/owen-q/spring-template-cache)
 * [thymeleaf](https://okdevtv.com/mib/spring/thymeleaf)
   * [Thymeleaf 시작하기 - YouTube](https://www.youtube.com/watch?v=tiRi6PLVesY)
   * [7. Spring Thymeleaf 적용해보기](https://kim-jong-hyun.tistory.com/18)
