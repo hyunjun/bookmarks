@@ -276,6 +276,7 @@ Algorithm
 * [Solutions2Coding - S2C- An online Platform for Coding solutions](https://www.solutions2coding.com/)
 * [가희와 쓰레기 놀이 : 메타 정보를 잘 저장해서 효율적으로 구현해 봅시다.](https://codingdog.tistory.com/660)
 * [The Algorithm behind Credit Card Verification | by Christianlauer | CodeX | Feb, 2022 | Medium](https://medium.com/codex/the-algorithm-behind-credit-card-verification-195f891509c6)
+* [Algorithm_CS_Study/Stanford at master · engineerJPark/Algorithm_CS_Study](https://github.com/engineerJPark/Algorithm_CS_Study/tree/master/Stanford)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
