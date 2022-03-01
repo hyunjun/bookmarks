@@ -4182,6 +4182,10 @@ Python
   * s3fs [Using S3 Just Like a Local File System in Python | by Sven Balnojan | The Startup | Medium](https://medium.com/swlh/using-s3-just-like-a-local-file-system-in-python-497737783f11)
 * [exax.org | exax.org](https://expertmakeraccelerator.org/)
   * [Computations as Assets - a New Approach to Reproducibility and Transparency | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=J4zvLJn3ya8)
+* [Parsl: Parallel Scripting in Python](https://parsl-project.org/)
+  * [Python-based ML and HPC workflows in the Cloud for science and engineering I PyData Chicago 2022 - YouTube](https://www.youtube.com/watch?v=o2zGKZIhAqA)
+* [PyParallel.org](http://pyparallel.org/)
+  * [PyParallel - Experimental multicore fork of Python 3](https://github.com/pyparallel/pyparallel)
 * [Ray - a fast and simple framework for building and running distributed applications](https://ray.readthedocs.io)
   * [ray - A system for parallel and distributed Python that unifies the ML ecosystem](https://github.com/ray-project/ray)
   * [Modern Parallel and Distributed Python: A Quick Tutorial on Ray](https://towardsdatascience.com/modern-parallel-and-distributed-python-a-quick-tutorial-on-ray-99f8d70369b8)
@@ -4193,8 +4197,6 @@ Python
   * [Retrieval Augmented Generation with Huggingface Transformers and Ray | Distributed Computing with Ray](https://medium.com/distributed-computing-with-ray/retrieval-augmented-generation-with-huggingface-transformers-and-ray-b09b56161b1e)
   * [Getting Started with Distributed Machine Learning with PyTorch and Ray | by PyTorch | PyTorch | Feb, 2021 | Medium](https://medium.com/pytorch/getting-started-with-distributed-machine-learning-with-pytorch-and-ray-fd83c98fdead)
   * [Anyscale - Parallelizing Python Code](https://www.anyscale.com/blog/parallelizing-python-code)
-* [PyParallel.org](http://pyparallel.org/)
-  * [PyParallel - Experimental multicore fork of Python 3](https://github.com/pyparallel/pyparallel)
 
 ## Library pdf
 * [Generate PDF with Python - Reportlab](https://morioh.com/p/81908a4730d4)
@@ -4362,6 +4364,7 @@ Python
   * [How to Use NumPy Financial for Python Present Value (pv) Function - YouTube](https://www.youtube.com/watch?v=ro01Qq3BkrI)
   * [Calculate Loan Payments with Python NumPy Financial - YouTube](https://www.youtube.com/watch?v=I9RFjOv_1bI)
   * [Python Automation Project: Make a Mortgage Loan Analyzer Class - YouTube](https://www.youtube.com/watch?v=jZjGnCyHa9Q)
+  * [Python Automation Project: Mortgage Loan Analysis Application Part II - YouTube](https://www.youtube.com/watch?v=mS4a_p-2jAg)
 * [tinynumpy - A lightweight, pure Python, numpy compliant ndarray class](https://github.com/wadetb/tinynumpy)
 
 # Pandas
