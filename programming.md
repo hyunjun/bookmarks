@@ -529,6 +529,8 @@ Programming
 * [애자일을 키워드로 배워보자 : 애자일 키워드 팟캐스트](http://agile.egloos.com/5904205)
 * [방법론 도입이 실패하는 이유](http://agile.egloos.com/5906079)
 * [나는 애자일이 싫다](https://brunch.co.kr/@graypool/182) 제목은 사실 반어법, 관심 끌기 용이었고 애자일에 대한 선호가 내용
+* [쓰임새에 따른 애자일 활용](https://brunch.co.kr/@graypool/117)
+* [애자일과 디지털 전환은 무슨 관계인가?](https://brunch.co.kr/@graypool/329)
 * [What is Agile Workflow? (ELI5)](https://medium.com/scrumi/what-is-agile-workflow-eli5-15040cbd5e75)
 * [What is Agile? | Atlassian](https://www.atlassian.com/agile)
   * [What is Agile? | Atlassian - 아틀라시안이 알려주는 애자일 A to | GeekNews](https://news.hada.io/topic?id=4389)
@@ -611,7 +613,6 @@ Programming
 * [우리회사는 왜 애자일 전환에 실패했을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/917/)
 * [Agile at 20: The Failed Rebellion - Simple Thread](https://www.simplethread.com/agile-at-20-the-failed-rebellion/)
   * [Agile 20주년 : 실패한 반란 | GeekNews](https://news.hada.io/topic?id=4788)
-* [쓰임새에 따른 애자일 활용](https://brunch.co.kr/@graypool/117)
 * [Agility is Inefficient • Klaus Bucka-Lassen • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=q6sq5ktP_3g)
 * [Agility at Scale: A Meeting of Mindsets • Anna Urbaniak & Daniel Terhorst-North • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=2ajNXaqHSwo)
 * [개발자의 애질리티](https://toss.tech/article/dev-agility)
