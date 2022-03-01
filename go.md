@@ -864,6 +864,7 @@ Go
 * [go 언어로 웹서버 만들기](https://stricky.tistory.com/409)
 * [Top Go Web Frameworks](https://github.com/mingrammer/go-web-framework-stars)
 * [10 Potent Golang Frontend Frameworks in 2021](https://www.cmarix.com/blog/top-golang-web-frameworks-for-developers-in-2021/)
+* [How do I create a VPN tunnel between GCP and Azure? - YouTube](https://www.youtube.com/watch?v=4_LqPRRzX4w)
 * [Beego Framework An open source framework to build and develop your applications in the Go way](https://beego.me)
   * [Beego (Go application framework) 초간단 사용 소감](http://www.popit.kr/beego-go-application-framework-%EC%B4%88%EA%B0%84%EB%8B%A8-%EC%82%AC%EC%9A%A9-%EC%86%8C%EA%B0%90/)
 * [Buffalo – Rapid Web Development in Go](https://gobuffalo.io/en/)
