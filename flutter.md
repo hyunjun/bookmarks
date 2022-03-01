@@ -121,6 +121,10 @@ Flutter
 * [10 minutes to build a game in Flutter - YouTube](https://www.youtube.com/watch?v=G1l8U8DTkvk)
 * [Announcing Flutter for Windows | Flutter](https://medium.com/flutter/announcing-flutter-for-windows-6979d0d01fed)
 * [How to Build a Shopping App using Flutter for IOS and Android](https://morioh.com/p/b4fc3a1064e6)
+* [Why Flutter is the most popular cross-platform mobile SDK - Stack Overflow Blog](https://stackoverflow.blog/2022/02/21/why-flutter-is-the-most-popular-cross-platform-mobile-sdk/)
+  * Flutter가 왜 인기 있는지 정리
+  * 간단히 Flutter의 구조를 설명, Skia를 사용해서 플랫폼에 종속되지 않으며 앱 개발을 빨리할 수 있고 배우기도 쉬워서 모바일 개발자들이 선호
+  * 단점으로는 앱의 크기가 크고 서드파티 라이브러리가 아직 부족, Dart를 배워야 하고, 아직 watchOS, tvOS, CarPlay 등은 미지원
 
 # Conference, Meetup
 * [NAVER Tech Talk: Flutter meetup](https://d2.naver.com/news/9527890)
