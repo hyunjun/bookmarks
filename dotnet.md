@@ -63,11 +63,6 @@
 * [Java vs .NET void](http://blog.hazard.kr/archives/783)
 * [UWP Hamburger Menu Example 입니다](http://bongblog.co.kr/20)
 * [Why .NET Technologies Are (And Will Keep) Powering our Application](https://medium.freecodecamp.org/why-net-technologies-are-and-will-keep-powering-our-application-9935a0ba074b)
-* [ASP.NET Core: Saturating 10GbE at 7+ million request/s](https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/)
-* [ASP.NET이 리액트 보다 인기가 많다고? feat. 스택오버플로우](https://www.youtube.com/watch?v=4oKtZ9v0IVk)
-* [Learn Live - Instrument a cloud-native ASP.NET Core microservice - YouTube](https://www.youtube.com/watch?v=hAeup0sKctM)
-* [Asp.Net MVC Tutorial For Beginners | Asp.Net MVC 5 - YouTube](https://www.youtube.com/playlist?list=PLQfCAYawr0tVLpCKEK17_it4GZlLyGYwr)
-* [ASP.NET CORE WEB API 5.0 Tutorial - YouTube](https://www.youtube.com/playlist?list=PLQfCAYawr0tWHde1XMdZ914HAHNPvFJsp)
 * [sysnet.pe.kr](https://www.sysnet.pe.kr)
 * [C/C++ 코딩 스타일](https://surpreem.com/c-c-%EC%BD%94%EB%94%A9-%EC%8A%A4%ED%83%80%EC%9D%BC/)
 * [Dll을 이용하여 배달대행 주문정보 연동](http://woowabros.github.io/study/2019/06/27/delivery-dll-relaytion.html)
@@ -98,6 +93,14 @@
 * [Create a CLI tool with .Net6. Probably you know the new windows… | by Bernardo Teixeira | Geek Culture | Jan, 2022 | Medium](https://medium.com/geekculture/create-a-cli-tool-with-net6-94c03ad3e474)
 * [.NET 6 전환기 (.NET Conf 2022 x Seoul Replay) - YouTube](https://www.youtube.com/watch?v=SByPYYtGWvo)
 * [Integration Test with Docker and .Net6 | by Bernardo Teixeira | Geek Culture | Jan, 2022 | Medium](https://medium.com/geekculture/integration-test-with-docker-and-net6-564cb4922cfd)
+
+# ASP.NET
+* [ASP.NET Core: Saturating 10GbE at 7+ million request/s](https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/)
+* [ASP.NET이 리액트 보다 인기가 많다고? feat. 스택오버플로우](https://www.youtube.com/watch?v=4oKtZ9v0IVk)
+* [Learn Live - Instrument a cloud-native ASP.NET Core microservice - YouTube](https://www.youtube.com/watch?v=hAeup0sKctM)
+* [Asp.Net MVC Tutorial For Beginners | Asp.Net MVC 5 - YouTube](https://www.youtube.com/playlist?list=PLQfCAYawr0tVLpCKEK17_it4GZlLyGYwr)
+* [ASP.NET CORE WEB API 5.0 Tutorial - YouTube](https://www.youtube.com/playlist?list=PLQfCAYawr0tWHde1XMdZ914HAHNPvFJsp)
+* [ASP.NET Core 에서 커스텀 json 파일 사용하기 : zelon's blog](https://blog.wimy.com/468/)
 
 # Book
 * [더북(TheBook): ASP.NET & Core를 다루는 기술](https://thebook.io/006824/)
