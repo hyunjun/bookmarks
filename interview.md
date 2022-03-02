@@ -510,6 +510,7 @@ Interview
   * [EP03: Load balancer basics, usage and configuration - YouTube](https://www.youtube.com/watch?v=cXYm0nNhKJw)
   * [EP04: API Gateway vs Load Balancer concepts and usage (AWS config) - YouTube](https://www.youtube.com/watch?v=Z1lejCLTRXY)
   * [System Design: (Lecture -3): - What Is Load Balancing? Complete Guide For Technical Interview - YouTube](https://www.youtube.com/watch?v=6rLjLczqHuM)
+  * [High-Performance Software Load Balancer for Cloud-Native Architecture | IEEE Journals & Magazine | IEEE Xplore](https://ieeexplore.ieee.org/abstract/document/9524915)
 * [Distributed systems for fun and profit](http://book.mixu.net/distsys/single-page.html)
 * [System design basics: When to use distributed computing | how distributed computing works](https://www.youtube.com/watch?v=3zCK_5U69A8)
 * [Do you know Distributed transactions?](https://www.youtube.com/watch?v=S4FnmSeRpAY)
