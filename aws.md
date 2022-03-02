@@ -1208,6 +1208,7 @@ AWS
   * 직접 빌드한 파이썬 패키지를 위해서 파이썬 인덱스를 구축하고 ARM 빌드를 위해 AWS CodeBuild에서 ARM 기반의 컨테이너를 사용하도록 마이그레이션
   * 성능 10%가량 향상, 빌드 타임과 복잡도 증가
 * [AWS Certified Machine Learning-Specialty 도전기 | by Minsu Cho | Hard Boiled Smith Stories | Oct, 2020 | Medium](https://medium.com/hbsmith/aws-certified-machine-learning-specialty-%EB%8F%84%EC%A0%84%EA%B8%B0-36620bb7545b)
+* [AWS: Deploying Real-World Machine Learning│Michelle Lee - YouTube](https://www.youtube.com/watch?v=74XOGuYVtI4)
 * [data-science-on-aws/workshop: AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker](https://github.com/data-science-on-aws/workshop)
 
 ## Machine Learning SageMaker
