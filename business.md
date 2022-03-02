@@ -413,7 +413,7 @@ Business
 # 우선순위
 * [27. 프로젝트의 우선 순위](https://brunch.co.kr/@svillustrated/30)
 * [모두가 알고 있는데 아무도 하지 않는 일](https://brunch.co.kr/@hyungsukkim/127) 우선순위
-* [BRICE로 우선순위 정하기](https://brunch.co.kr/@yongjinjinipln/77)
+* [BRICE로 우선순위 정하기](https://brunch.co.kr/@yongjinjinipln/77) RICE와 비교
 
 # 조직 구조
 * [웹 서비스 개발 회사의 효율적인 조직 구조 및 관리](http://www.popit.kr/%EC%9B%B9%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C-%ED%9A%8C%EC%82%AC-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EC%A1%B0%EC%A7%81-%EA%B5%AC%EC%A1%B0-%EB%B0%8F-%EA%B4%80%EB%A6%AC/)
@@ -645,7 +645,7 @@ Business
 * [Open Decision-Making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
 * [Why Engineers Should Invest in Decision-Making Skills Early — Reforge](https://www.reforge.com/blog/technical-decision-making) leadership에만 해당하는 부분은 아님
 * [A Leader’s Framework for Decision Making](https://hbr.org/2007/11/a-leaders-framework-for-decision-making)
-* [RICE Score: Calculating (Reach \* Impact \* Confidence) / Effort](https://hello.ducalis.io/knowledge-base/rice-scoring-prioritization-framework)
+* [RICE Score: Calculating (Reach \* Impact \* Confidence) / Effort](https://hello.ducalis.io/knowledge-base/rice-scoring-prioritization-framework) BRICE와 비교
   * e.g. 판단 기준
     * 1. 우리 매출 향상 기여(예상)도
     * 2. 우리는 할 수 있는데, 광고주/경쟁사는 할 수 없는/어려운 일
