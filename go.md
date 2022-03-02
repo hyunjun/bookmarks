@@ -881,6 +881,7 @@ Go
   * [Creating an Authentication API With Golang | by Emmy Chamberlain | Better Programming | Dec, 2020 | Medium](https://medium.com/better-programming/creating-an-authentication-api-with-golang-a930aa769e96)
   * [Apache JMeter를 사용해 Go 서버 테스트하기](https://kevink1103.oopy.io/414df295-027c-4f7e-a065-4f7cce1793dd)
   * [Crash course in Gin Framework - YouTube](https://www.youtube.com/watch?v=N14HOh10ghY)
+  * [Build RESTful API in Golang using Gin and Gorm](https://morioh.com/p/17f2e7997e16)
 * [go-bootstrap Generates a lean and mean Go web project](http://go-bootstrap.io/)
   * [go-bootstrap.io - Generates a lean and mean Go web project http://go-bootstrap.io](https://github.com/go-bootstrap/go-bootstrap)
 * [golang-redis-webserver: web server using redis](https://github.com/Paulo-Lopes-Estevao/golang-redis-webserver)
