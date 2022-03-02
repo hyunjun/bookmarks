@@ -639,6 +639,9 @@ Business
 * [의사결정 방식을 개선해서 혁신을 추진하라](https://brunch.co.kr/@graypool/276)
 * [좋은 PM이라면 늘 주의해야 할 4가지 의사결정 편향](https://brunch.co.kr/@ywkim36/20)
 * ["우리 회사 IT가 산으로 가는 신호" 잘못된 IT 의사결정 패턴 12가지 - ITWorld Korea](https://www.itworld.co.kr/news/204459)
+* [결정을 내리지 못하는 사람들을 위한 '좋은 의사결정' 이야기 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/goodchoice20220302)
+  * [결정을 내리지 못하는 사람들을 위한 '좋은 의사결정' 이야기](https://drive.google.com/file/d/1BGQXAYN6xkgYsT65iOAeI4s3eephq1Ny/view?usp=sharing)
+  * 의사 결정(가능성을 높이는 선택)을 결과가 아니라 과정으로 feedback해야 하는 이유
 * [Open Decision-Making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
 * [Why Engineers Should Invest in Decision-Making Skills Early — Reforge](https://www.reforge.com/blog/technical-decision-making) leadership에만 해당하는 부분은 아님
 * [A Leader’s Framework for Decision Making](https://hbr.org/2007/11/a-leaders-framework-for-decision-making)
