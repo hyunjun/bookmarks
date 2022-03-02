@@ -398,6 +398,8 @@ PyTorch
   * [TorchIO - a Python library for efficient loading, preprocessing, augmentation and patch-based sampling of 3D medical images in deep learning, following the design of PyTorch](https://torchio.readthedocs.io/)
 * [torchlars - A LARS implementation in PyTorch](https://github.com/kakaobrain/torchlars)
   * [torchlars가 탄생하기까지](https://www.kakaobrain.com/blog/113)
+* [torchrec: Pytorch domain library for recommendation systems](https://github.com/pytorch/torchrec)
+  * [Introducing TorchRec, a library for modern production recommendation systems | PyTorch](https://pytorch.org/blog/introducing-torchrec/)
 * [1. TorchServe — PyTorch/Serve master documentation](https://pytorch.org/serve/)
   * [Serving BERT Models in Production with TorchServe | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=sDGxzkOvxqY)
 * [TorchShard: Slicing a PyTorch Tensor Into Parallel Shards](https://github.com/KaiyuYue/torchshard)
