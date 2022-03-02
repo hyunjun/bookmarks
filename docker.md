@@ -1401,6 +1401,7 @@ Docker
 * [Kubevirt | Wait... Running Virtual Machine (VM) inside Kuberenetes? Now, you can! - YouTube](https://www.youtube.com/watch?v=3kQDtXE4qi8)
 * [kubie: A more powerful alternative to kubectx and kubens](https://github.com/sbstp/kubie)
 * [Kui - a terminal with visualizations by and for developers](https://kui.tools/)
+  * [DEMO 쿠버네티스 터미널을 더욱 더 있어 보이게 (kui+k9s) - YouTube](https://www.youtube.com/watch?v=K9p8qYMSHJM)
 * [Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/)
 * [Lens | The Kubernetes IDE](https://k8slens.dev/)
   * [Lens 5.2 Released. We are proud to release Lens 5.2… | by Miska Kaipiainen | k8slens | Sep, 2021 | Medium](https://medium.com/k8slens/lens-5-2-released-874af03495de)
