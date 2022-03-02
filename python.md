@@ -452,6 +452,10 @@ Python
 * [Ask HN: Good Python projects to read for modern Python? | Hacker News](https://news.ycombinator.com/item?id=29698198)
   * [최신 Python을 익히기에 좋은 프로젝트는 ? | GeekNews](https://news.hada.io/topic?id=5635)
 * [파이썬 40줄로 Wordle을 풀어보자](https://tanstaafl.dev/20220116-wordle.html)
+* [Patrick Mooney's blog - Some notes on writing parser-based interactive fiction in Python (part 1)](https://patrickbrianmooney.tumblr.com/post/677562926797914112/some-notes-on-writing-parser-based-interactive)
+* [Patrick Mooney's blog - Some notes on writing parser-based interactive fiction in Python (part 2)](https://patrickbrianmooney.tumblr.com/post/677563800800624640/some-notes-on-writing-parser-based-interactive)
+* [Patrick Mooney's blog - Some notes on writing parser-based interactive fiction in Python (part 3)](https://patrickbrianmooney.tumblr.com/post/677564280839831552/some-notes-on-writing-parser-based-interactive)
+* [Patrick Mooney's blog - Some notes on writing parser-based interactive fiction in Python (part 4)](https://patrickbrianmooney.tumblr.com/post/677565126620151808/some-notes-on-writing-parser-based-interactive)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
