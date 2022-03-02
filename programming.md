@@ -1513,6 +1513,7 @@ Programming
 * [Is my Microservice actually a Distributed Monolith in disguise? - Discover Better Value Faster](https://www.cloudnowtech.com/blog/is-my-microservice-actually-a-distributed-monolith-in-disguise/)
 * [**The Human Side of Airbnb’s Microservice Architecture - YouTube**](https://www.youtube.com/watch?v=yGOtTd-l_3E)
 * [7 Ways to Fail at Microservices](https://www.infoq.com/articles/microservices-seven-fail/)
+* [How Coupang built a microservice architecture | Coupang Engineering](https://medium.com/coupang-engineering/%ED%96%89%EB%B3%B5%EC%9D%84-%EC%B0%BE%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%97%AC%EC%A0%95-94678fe9eb61)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -1891,6 +1892,11 @@ Programming
 * [Learning with Code Reviews. Guidelines for creating a code review… | by Sandeep Bantia | Dec, 2021 | Medium](https://sandeepbantia.medium.com/code-review-guidelines-e25b877537e8)
 * [OKKY 1월 세미나 한번 듣고 평생 써먹는 코드 리뷰 노하우 - YouTube](https://www.youtube.com/watch?v=TAPviNhFuSg)
   * [OKKY 1월 세미나 한번 듣고 평생 써먹는 코드 리뷰 노하우 후기](https://velog.io/@juunini/OKKY-1%EC%9B%94-%EC%84%B8%EB%AF%B8%EB%82%98-%ED%95%9C%EB%B2%88-%EB%93%A3%EA%B3%A0-%ED%8F%89%EC%83%9D-%EC%8D%A8%EB%A8%B9%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0-%EB%85%B8%ED%95%98%EC%9A%B0-%ED%9B%84%EA%B8%B0)
+  * [**DesignStaminaHypothesis**](https://martinfowler.com/bliki/DesignStaminaHypothesis.html)
+    * cumulative functionality over time
+    * 설계의 경제성
+  * [**Software architecture: The important stuff**](https://tech.buzzvil.com/blog/tech-blog-software-architecture-the-important-stuff/)
+  * [Quote by Robert C. Martin: “The only way to go fast, is to go well.”](https://www.goodreads.com/quotes/9701819-the-only-way-to-go-fast-is-to-go-well)
 * [코드 좀 봐주세요 코드종 - YouTube](https://www.youtube.com/playlist?list=PLuBMRNcyzsWyZU1CVvd025UFJkfRoVs93)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 * [개발자 생산성 선언-플라이휠](https://ichi.pro/ko/gaebalja-saengsanseong-seon-eon-peullaihwil-129703808319115)
