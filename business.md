@@ -645,6 +645,12 @@ Business
 * [Open Decision-Making](https://web.stanford.edu/~ouster/cgi-bin/decisions.php)
 * [Why Engineers Should Invest in Decision-Making Skills Early — Reforge](https://www.reforge.com/blog/technical-decision-making) leadership에만 해당하는 부분은 아님
 * [A Leader’s Framework for Decision Making](https://hbr.org/2007/11/a-leaders-framework-for-decision-making)
+* [RICE Score: Calculating (Reach \* Impact \* Confidence) / Effort](https://hello.ducalis.io/knowledge-base/rice-scoring-prioritization-framework)
+  * e.g. 판단 기준
+    * 1. 우리 매출 향상 기여(예상)도
+    * 2. 우리는 할 수 있는데, 광고주/경쟁사는 할 수 없는/어려운 일
+    * 2-1. 우리가 쉽게 할 수 있는지 아니면 어려운/불가능한 지
+    * 3. 이런(+ 추가로 다른) 기준을 가지고 판단을 했다면, 나중에 업무를 진행한 후에 어떤 기준을 어떻게 판단해서 하기로/안 하기로 결정을 했는데, 그 결정 과정이 어땠는지 리뷰
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
