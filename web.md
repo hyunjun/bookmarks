@@ -906,6 +906,18 @@ Web
   * [FastapiTutorial](https://www.fastapitutorial.com/)
   * [fastapi_websocket_pubsub: A fast and durable Pub/Sub channel over Websockets. FastAPI + WebSockets + PubSub](https://github.com/authorizon/fastapi_websocket_pubsub)
     * [A fast and durable Pub/Sub channel over Websockets with python](https://pythonawesome.com/a-fast-and-durable-pub-sub-channel-over-websockets-with-python/)
+  * [mnist-fastapi-celery-triton: Simple example of FastAPI + Celery + Triton for benchmarking](https://github.com/Curt-Park/mnist-fastapi-celery-triton)
+    * A: FastAPI + Celery (w/ Redis Task Queue) + One Torch Script Model per One worker process
+    * B: FastAPI + Celery (w/ Redis Task Queue) + Triton
+    * 실험 내용 및 결과
+      1. FastAPI와 Redis Broker는 GPU가 없는 Local Machine에서, Triton과 Celery worker는 GPU가 있는 Remote Machine에서 실행
+      2. Local Machine에서 Locust 실행. 단일 장비로 발생시키는 Load라서 그런지 Peak Concurrency가 10을 넘어가면 Request per Second (RPS)이 늘어나지 않는 모습을 보임 (더 강한 부하를 주려면 분산 처리 필요)
+      3. Triton을 사용하지 않은 경우, Celery의 각 worker process가 하나의 독립적인 모델을 가지고 있음 (A)
+      4. Triton의 경우 모델에 대한 하나의 Instance가 작동함 (B)
+      5. A 시나리오에서는 10개의 worker를 사용. 즉, GPU 메모리에는 10개의 모델이 올라감 (약 1.2 GB x 10의 GPU 메모리 소요)
+      6. B 시나리오에서는 하나의 모델만 GPU 메모리에 올라가며 약 1.3 GB의 GPU 메모리 소요
+      7. Triton은 훨씬 적은 메모리의 사용으로 A와 비슷한 퍼포먼스를 보임 (Dynamic Batching에 의해 효율이 높아지는 것으로 추정)
+      8. 입/출력이 작은 예시라서 그런지 Triton의 Shared Memory 사용 유무에 따른 성능 차이는 거의 발생하지 않음
   * [picoapi: An opinionated wrapper around FastAPI with custom microservice registration](https://github.com/schlerp/picoapi)
     * [PicoAPI: FastAPI for microservices? | by Patrick Coffey | Towards Data Science](https://towardsdatascience.com/picoapi-fastapi-for-microservices-1e0770b747a2)
   * [shopping-mall](https://github.com/jybaek/shopping-mall) basic 예제 + uvicorn
