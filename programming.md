@@ -326,6 +326,7 @@ Programming
   * [3편(SNS 로그인, OAuth 2.0)](http://tansfil.tistory.com/60)
 * [OAuth 2.0 and OpenID Connect (in plain English) - YouTube](https://www.youtube.com/watch?v=996OiexHze0)
 * [OAuth 2.0 을 구현하기 위해 알아야 할 것들 # Access Refresh Token](https://developer88.tistory.com/372)
+* [Google IDToken 풀기 - 이상선 - Medium](https://medium.com/@sunyi233/google-idtoken-%ED%92%80%EA%B8%B0-a3a0eaaeb5a8) OAuth 2.0
 * [ID Token and Access Token: What Is the Difference?](https://auth0.com/blog/id-token-access-token-what-is-the-difference/) oauth
 * [The Modern Guide to OAuth - FusionAuth](https://fusionauth.io/learn/expert-advice/oauth/modern-guide-to-oauth/)
 * [Why I’m Using HTTP Basic Auth in 2022 | Joel Dare](https://joeldare.com/why-im-using-http-basic-auth-in-2022.html)
