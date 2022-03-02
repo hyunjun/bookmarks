@@ -1141,7 +1141,7 @@ Machine Learning
   * [Data Version Control With Python and DVC – Real Python](https://realpython.com/python-data-version-control/)
   * [Hongjoo Lee - Automating machine learning workflow with DVC - YouTube](https://www.youtube.com/watch?v=u3NysDLdCR0)
 * [Food data set for machine learning](https://github.com/corona10/FoodDataSet)
-* [Gradio - a free, open-source python library that helps machine learning researchers interact with and share their machine learning models with collaborators and clients with only a few lines of extra code](https://gradio.app/index.html)
+* [Gradio - a free, open-source python library that helps machine learning researchers interact with and share their machine learning models with collaborators and clients with only a few lines of extra code](https://gradio.app)
   * [Building A Visual Interface for Your ML Model with Gradio - Abubakar Abid | PyData Riyadh - YouTube](https://www.youtube.com/watch?v=dCbTi5ZKA9s)
     * [Introduction to Gradio Notebook (Academic).ipynb - Colaboratory](https://colab.research.google.com/drive/1BAw8QGFNqeKf1V0E3TLCzWyV6NM_qv_i)
   * [Gradio Course - Create User Interfaces for Machine Learning Models - YouTube](https://www.youtube.com/watch?v=RiCQzBluTxU)
