@@ -2682,6 +2682,8 @@ Python
   * [PyAutoGui: Automate the Calculator! (Part 2)](https://www.youtube.com/watch?v=CXtC8Jzxsvw)
   * [PyAutoGui: Control the Mouse (Part 3)](https://www.youtube.com/watch?v=4rgt7Od7-KM)
   * [Advanced Python Programming - GUI Automation with PyAutoGUI](https://www.youtube.com/watch?v=1RE5tSPO2RI)
+* [pyimgui: Cython-based Python bindings for dear imgui](https://github.com/pyimgui/pyimgui)
+  * [Pythonizing Imgui (feat. Cython) and contributing to open source. - YouTube](https://www.youtube.com/watch?v=wh_W-veFpKU)
 * PyQT
   * [예제로 배우는 PyQt 예제 중심으로 배우는 PyQt 프로그래밍](https://opentutorials.org/module/544)
   * [QTBook - Qt Korea Developer Community](https://github.com/eddykim777/qtbook)
