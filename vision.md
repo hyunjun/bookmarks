@@ -741,10 +741,11 @@ Vision
 * [Ugurilgin.com - Details of Project](https://www.ugurilgin.com/EN/Project/image-processing) A Desktop Application Containing the Most Used Processing Algorithms in Python
 * [Develop and Deploy Image Classifier using Flask: Part 1 - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2022/01/develop-and-deploy-image-classifier-using-flask-part-1/)
 * [Develop and Deploy Image Classifier using Flask: Part 2 - Analytics Vidhya](https://www.analyticsvidhya.com/blog/2022/01/develop-and-deploy-image-classifier-using-flask-part-2/)
-* [ANPR-RK-Korea - 한국 자동차 번호판 인식 솔루션](https://www.marearts.com/ANPR-RK-Korea-83e9c442ced64cb6853574fae4483461)
 * [Alyona Galyeva - Human-like Visual Search Application with Small Data | PyData Fest Amsterdam 2020 - YouTube](https://www.youtube.com/watch?v=2l_WASP1_1A) Mask R-CNN, fast api
+* [An Easy Way to Work and Visualize Lidar Data in Python | by Abdishakur | Spatial Data Science | Mar, 2022 | Medium](https://medium.com/spatial-data-science/an-easy-way-to-work-and-visualize-lidar-data-in-python-eed0e028996c)
 * [albumentations: Fast image augmentation library and an easy-to-use wrapper around other libraries. Documentation: https://albumentations.ai/docs/ Paper about the library: https://www.mdpi.com/2078-2489/11/2/125 ](https://github.com/albumentations-team/albumentations)
   * [Albumentations, an image augmentation library version 0.4 released. New augmentations, support for images and masks with more than 3 channels, "Hall of Fame" that contains a list of machine learning competitions in which the library was used](https://www.reddit.com/r/MachineLearning/comments/dibnqe/p_albumentations_an_image_augmentation_library/)
+* [ANPR-RK-Korea - 한국 자동차 번호판 인식 솔루션](https://www.marearts.com/ANPR-RK-Korea-83e9c442ced64cb6853574fae4483461)
 * [Augmentor - an image augmentation library in Python for machine learning](https://github.com/mdbloice/Augmentor)
 * [Comixify: Turning videos into comics - Adam Svystun, Maciej Pęśko, Tomasz Trzcinski](https://www.youtube.com/watch?v=m7e-SqXQOV0)
 * [DeepIsolation - Deep isolation using DeepLabv3++ Segmentation Model](https://github.com/litcoderr/DeepIsolation)
