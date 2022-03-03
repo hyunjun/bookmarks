@@ -744,6 +744,7 @@ Programming
 * Microsoft
   * [api-guidelines: Microsoft REST API Guidelines](https://github.com/microsoft/api-guidelines)
   * [Web API 디자인 모범 사례 - Azure Architecture Center | Microsoft Docs](https://docs.microsoft.com/ko-kr/azure/architecture/best-practices/api-design)
+* [openapi-generator: OpenAPI Generator allows generation of API client libraries (SDK generation), server stubs, documentation and configuration automatically given an OpenAPI Spec (v2, v3)](https://github.com/OpenAPITools/openapi-generator)
 * [Open-Meteo.com](https://open-meteo.com/) Free Weather API
 * [OverAPI.com - Collecting All Cheat Sheets](http://overapi.com/)
 * Paypal [Paypal 여러 개의 상품 결제를 위한 API](https://jybaek.tistory.com/861)
