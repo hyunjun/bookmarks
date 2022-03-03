@@ -456,6 +456,7 @@ Python
 * [Patrick Mooney's blog - Some notes on writing parser-based interactive fiction in Python (part 2)](https://patrickbrianmooney.tumblr.com/post/677563800800624640/some-notes-on-writing-parser-based-interactive)
 * [Patrick Mooney's blog - Some notes on writing parser-based interactive fiction in Python (part 3)](https://patrickbrianmooney.tumblr.com/post/677564280839831552/some-notes-on-writing-parser-based-interactive)
 * [Patrick Mooney's blog - Some notes on writing parser-based interactive fiction in Python (part 4)](https://patrickbrianmooney.tumblr.com/post/677565126620151808/some-notes-on-writing-parser-based-interactive)
+* [OAuth 2 and Authentication Choices for Your Python Project | Real Python Podcast #99 - YouTube](https://www.youtube.com/watch?v=PHCv_3zfM_Y)
 
 # 한글, hangul
 * [keystroke practice](https://github.com/hyunjun/practice/tree/master/python/keystroke)
