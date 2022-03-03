@@ -3315,6 +3315,7 @@ Javascript
 * [불변 객체와 immer | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220217)
 * [React - 1 리액트의 특징](https://velog.io/@couchcoding/React-1-%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%9D%98-%ED%8A%B9%EC%A7%95)
 * [FLIP과 WAAPI를 이용한 React 애니메이션 | goohooh.github.io](https://goohooh.github.io/animation/flip_animation_with_react/)
+* [기술 블로그 위한 contentEditable WYSIWYG 에디터 제작기](https://blog.dalgu.app/dev/2)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
