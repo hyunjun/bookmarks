@@ -472,6 +472,8 @@ Java
 * [Top 12 Java Thread, Concurrency, and Multithreading Interview Questions with Answers | Java67](https://www.java67.com/2012/08/5-thread-interview-questions-answers-in.html)
 * [# 128 Overloading of Thread class run() method | java how to overload run() method | Java|RedSysTech - YouTube](https://www.youtube.com/watch?v=C2QpuQCdnBc)
 * [Parallel Merge Sort with Fork/Join Framework | HackerNoon](https://hackernoon.com/parallel-merge-sort-with-forkjoin-framework)
+* [Java concurrent 패키지의 동기화 장치](https://javabom.tistory.com/35)
+* [What is Phaser in Java? When and How to use Phaser? Example Tutorial](https://javarevisited.blogspot.com/2022/03/what-is-phaser-in-java-example-tutorial.html)
 
 ## Concurrency Parallel Thread Akka
 * [AKKA.JAVA](http://wiki.webnori.com/display/AKKA/AKKA.JAVA)
