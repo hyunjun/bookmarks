@@ -985,6 +985,7 @@ Docker
   * [번역 쿠버네티스 패킷의 삶 - #1 | 커피고래의 노트](https://coffeewhale.com/packet-network1)
   * [번역 쿠버네티스 패킷의 삶 - #2 | 커피고래의 노트](https://coffeewhale.com/packet-network2) calico
   * [번역 쿠버네티스 패킷의 삶 - #3 | 커피고래의 노트](https://coffeewhale.com/packet-network3)
+  * [번역 쿠버네티스 패킷의 삶 - #4 | 커피고래의 노트](https://coffeewhale.com/packet-network4)
 * [**Journey to Kubernetes with Blockchain Network(+CKAD)**](https://engineering.linecorp.com/ko/blog/journey-to-kubernetes-with-blockchain-network-ckad/)
 * [**Diving Deep Into Kubernetes Networking: Docker와 k8s 네트워크 분석**](https://woohhan.github.io/study/k8s_networking_deep_diving/)
 * [A Guide to the Kubernetes Networking Model - Kevin Sookocheff](https://sookocheff.com/post/kubernetes/understanding-kubernetes-networking-model/)
