@@ -1272,6 +1272,7 @@ AWS
 * [한달 10만원으로 추천시스템 구축하기 AWS Personalize 도입 후기 / python SDK](https://dq-dreamsearch.com/121)
 * [Amazon Personalize로 추천 시스템 구축하기 - YouTube](https://www.youtube.com/watch?v=-l2GdgfGvJw)
 * [Pulselive, 개인화된 온라인 스포츠 콘텐츠로 고객 참여 확대 사례 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/increasing-engagement-with-personalized-online-sports-content/)
+* [Amazon Personalize의 신규기능을 활용한 더 빠르고 정확한 추천서비스 구축하기 – 강정희:: AWS Innovate 2021 - YouTube](https://www.youtube.com/watch?v=5EkWcIIh6ME)
 
 # R
 * [Running R on AWS](http://blogs.aws.amazon.com/bigdata/post/Tx3IJSB6BMHWZE5/Running-R-on-AWS)
