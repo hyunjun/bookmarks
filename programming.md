@@ -4026,6 +4026,8 @@ Programming
 * [글자수를 세는 7가지 방법 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/the-7-ways-of-counting-characters/)
 * [Pragmatic Unicode | Ned Batchelder](https://nedbatchelder.com/text/unipain.html)
 * [Unicode Normalization Forms: When ö != ö :: OpenCore Blog](https://blog.opencore.ch/posts/unicode-normalization-forms/)
+* [Two Phonetic Scripts: Vietnamese and Korean - Math in Office](https://devblogs.microsoft.com/math-in-office/two-phonetic-scripts-vietnamese-and-korean)
+  * [한국어가 유니코드에 들어간 역사 : 네이버 블로그](https://blog.naver.com/drvoss/222662727953)
 * convmv
   * [convert between NFC and NFD Unicode normalization (e.g. for Korean)](https://gist.github.com/kjoonlee/326b8f42e39bcc045e9932fef5511031)
   * [macOS: convmv 를 사용한 유니코드 문제(풀어쓰기) 해결(?) – 바깥 세상으로](https://www.nemonein.xyz/2019/03/1850/)
