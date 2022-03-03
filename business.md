@@ -168,6 +168,7 @@ Business
 * [사무실 없이 일 잘하는 법 - 로켓펀치의 자율 근무 문화 가이드북](https://rocketpunch.notion.site/56ae1abe55af46548dec2c71617b4310)
 * [구글의 아침은 자유가 시작된다 / Work Rules! (한국어 버전, Korean Ver.) #workrules](http://www.slideshare.net/alleciel/work-rules-korean-ver)
 * [행복한 회사가 어디 있나요 구글코리아, 혁신을 만드는 구글의 조직문화 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2022/02/10/googlekorea-interview/)
+* [구글이 직원들의 업무 능력을 상승시킨 비결 – 체인지그라운드](http://thechangeground.com/archives/21926)
 * [한국 기업문화를 보여주는 6가지 사례(제보 모음)](http://www.huffingtonpost.kr/2015/08/27/story_n_8041662.html)
 * [**회사 보고서의 두 종류**](http://ppss.kr/archives/50612)
 * [‘디자인 경영’의 시대는 끝났는가?](http://ppss.kr/archives/54348)
