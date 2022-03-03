@@ -89,6 +89,7 @@ Git
 * [스타트업에서 개발 문화 만들기 (아직 진행중..)](https://brunch.co.kr/@kiyoungleefige/2)
 * [Git repository for designers as you’ve never seen: Abstract (+ Sketch)](https://blog.prototypr.io/git-repository-for-designers-abstract-sketch-9138cf6ab9b1)
 * Gerrit을 이용한 코드 리뷰 시스템
+  * [Gerrit을 이용한 코드 리뷰 시스템 - 코드 리뷰와 Gerrit](https://d2.naver.com/helloworld/6033708)
   * [Gerrit과 Git](http://d2.naver.com/helloworld/1859580)
   * [코드 리뷰 시스템 설치](http://d2.naver.com/helloworld/6236097)
   * [#gerrit #codereview 사용 소감](http://ohyecloudy.com/pnotes/archives/gerrit-code-review-2014-01-2017-03/)
@@ -100,6 +101,7 @@ Git
   * [코드 리뷰 방법(2)](http://d2.naver.com/helloworld/9767525)
   * [CI 연동, SVN 마이그레이션](http://d2.naver.com/helloworld/6952033)
   * [gerrit query로 리뷰 데이터 추출하기](http://sunphiz.me/wp/archives/3262)
+  * [Gerrit Code Review 도입하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/02/28/gerrit-code-review-introduction.html)
 * [GitHub으로 협업하기: 클론부터 코드 리뷰까지 | ~/xo.dev](https://xo.dev/github-collaboration-guide/)
 * [주기적으로 git 저장소에서 코드 가져오는 쉘](http://blog.doortts.com/281)
 * [깃의 Detached HEAD](http://sunphiz.me/wp/archives/2266)
