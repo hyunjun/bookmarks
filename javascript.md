@@ -1822,6 +1822,7 @@ Javascript
   * [🔐GitHub OAuth 로그인 #10분완성 #passport #node.js - YouTube](https://www.youtube.com/watch?v=anZqM4JnZ3o)
   * [깃플 스터디 프로젝트 | Programming Cloud-Native](https://tech.gitple.io/2021/06/28/blog-study-project/)
   * [Passport.js 로 소셜 로그인 구현하기](https://velog.io/@parkoon/Passport.js-%EB%A1%9C-%EC%86%8C%EC%85%9C-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EC%9D%B4)
+  * [User Authentication in Web Apps (Passport.js, Node, Express) - YouTube](https://www.youtube.com/watch?v=F-sFp_AvHc8)
 * [Pavlov.js uses Markov Decision Processes to implement reinforcement learning in JavaScript](https://github.com/nathanEpstein/pavlov.js)
 * [Peaks.js: Audio waveform rendering in the browser](http://www.bbc.co.uk/rd/blog/2013/10/audio-waveforms)
 * [perfect-arrows: A minimal tool for drawing perfect arrows between points and shapes](https://github.com/steveruizok/perfect-arrows)
