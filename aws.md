@@ -1435,6 +1435,7 @@ AWS
 * [AWS CDK에서 Terraform으로](https://tech.inflab.com/202202-aws-cdk-to-terraform/)
   * 인프런의 AWS 인프라를 관리하기 위해 AWS CDK를 사용하다가 Terraform으로 바꾸게 된 이유 설명
   * AWS CDK 공식문서/커뮤니티 부족, Cloudformation으로 인프라 적용을 하기 때문에 실제 인프라의 상태를 제대로 추적할 수 없어서 실수할 여지를 주는 부분
+* [Terraform Tutorial | Automate your Infrastructure - YouTube](https://www.youtube.com/watch?v=a4ZMKgl7YA8)
 
 # Tutorial
 * [최신 AWS 한국어 실습 가이드를 만나 보세요! | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/aws-korean-hands-on-labs-guides/)
