@@ -303,6 +303,7 @@ Go
 * [Trim Problem in Golang | TrimRight | TrimSuffix | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=xF60JejBkBo)
 * [Is TypeScript (NodeJS) Faster than Go? | A Server Comparison](https://morioh.com/p/dfe0e48a916e)
 * [Algorithms Implemented in Go](https://morioh.com/p/56fd1c6f2f7a) e.g. ahocorasick
+* [Best IDEs And Tools For Golang Development](https://www.hyperlinkinfosystem.com/blog/best-ides-and-tools-for-golang-development)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
