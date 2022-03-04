@@ -21,6 +21,9 @@ Politics
 * [초강대국, 패권등 국제정치 개념 정리](https://pgr21.com/freedom/89953)
 * [자유(Freedom)와 자유(Liberty)의 차이 - PENTALOGIA](https://pentalogia.com/archives/601)
 * ['시민종교', 정치와 종교의 교묘하고도 양가적인 결합 < 연재 < 기사본문 - 뉴스앤조이](https://www.newsnjoy.or.kr/news/articleView.html?idxno=303178)
+* [EQUALITY, EQUITY AND JUSTICE. “When God speaks about equity, that… | by Sandeep Kumar | Medium](https://medium.com/@sandeepkumar_52041/equality-equity-and-justice-5f71ebe31245)
+  * [Equality vs Equity : 네이버 블로그](https://blog.naver.com/chungvelysam/221554707013)
+  * <img src="images/reality_equality_equity_justice.jpg" alt="" width="300"/>
 
 # 한국
 * [**시대정신을 묻는다**](http://www.huffingtonpost.kr/zeitgeist-korea/)
