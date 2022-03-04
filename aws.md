@@ -1107,6 +1107,8 @@ AWS
 * [aws-ml-experimenter - Framework for running ML models on Amazon EC2 and analyzing results with Shiny](https://github.com/rikturr/aws-ml-experimenter)
 * [AWS Report - Tool For Analyzing Amazon Resources](https://www.kitploit.com/2020/01/aws-report-tool-for-analyzing-amazon.html)
 * [aws-root-account: Terraform for the Ministry of Justice AWS root account](https://github.com/ministryofjustice/aws-root-account)
+* [aws-sdk-go-v2: AWS SDK for the Go programming language](https://github.com/aws/aws-sdk-go-v2)
+  * [AWS SDK Go: AWS SDK for the Go Programming Language](https://morioh.com/p/2aafab3c7c3c)
 * [AWS SSM Send-Command · Actions · GitHub Marketplace](https://github.com/marketplace/actions/aws-ssm-send-command)
   * [영상 현직 개발자가 추천하는 쉽고 편한 오픈소스 2종 - ZDNet korea](https://zdnet.co.kr/view/?no=20210714134829) aws ssm send-command, tailwind css
 * [AWS Toolkit for IntelliJ를 통해 손쉽게 서버리스 앱 배포해 보기](https://aws.amazon.com/ko/blogs/korea/aws-toolkit-for-intellij-now-generally-available)
