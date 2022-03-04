@@ -1519,6 +1519,7 @@ Programming
 * [**The Human Side of Airbnb’s Microservice Architecture - YouTube**](https://www.youtube.com/watch?v=yGOtTd-l_3E)
 * [7 Ways to Fail at Microservices](https://www.infoq.com/articles/microservices-seven-fail/)
 * [How Coupang built a microservice architecture | Coupang Engineering](https://medium.com/coupang-engineering/%ED%96%89%EB%B3%B5%EC%9D%84-%EC%B0%BE%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%97%AC%EC%A0%95-94678fe9eb61)
+* [**How to Design Reliable Microservices | by Chinedu Ikechi | Mar, 2022 | Level Up Coding**](https://levelup.gitconnected.com/how-to-design-reliable-microservices-5efba55172da) 실패 이유와 해결/방지 방법 전반적인 내용 정리
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
