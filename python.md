@@ -4184,6 +4184,7 @@ Python
   * [Dask for Everyone - Hugo Bowne-Anderson | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=nsYPezDZjxg)
   * [Dask: From POC to Production - April Rathe | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=5KN5aBMQT18)
   * [Scale EDA & ML Workloads To Clusters & Back With Dask I PyData Chicago January 2022 Meetup - YouTube](https://www.youtube.com/watch?v=6mn9X3PScW8)
+  * [Introduction to Dask: Scaling EDA & ML Workloads - YouTube](https://www.youtube.com/watch?v=yHnHOSdihKo)
   * [Coiled: Scaling Python Simply](https://coiled.io/)
   * [dask-sql: Query Your (Big) Data With The Power of Python & SQL - Nils Braun - YouTube](https://www.youtube.com/watch?v=aLoTc_cX6yY)
   * s3fs [Using S3 Just Like a Local File System in Python | by Sven Balnojan | The Startup | Medium](https://medium.com/swlh/using-s3-just-like-a-local-file-system-in-python-497737783f11)
