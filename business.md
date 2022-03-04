@@ -727,6 +727,7 @@ Business
 * [팀의 구성원들이 실력을 발휘하기 위해서는 안전함을 느껴야 한다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250546)
 * [구글은 생동감 있는 조직을 만들기 위해 어떤 환경을 조성할까? : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=27447489) 심리적 안정감
 * [위기에 강한 조직의 심리적 안전감](https://camp.lemonbase.com/psychologicalsafety0)
+* [구성원들의 입을 여는 '심리적 안전감' 구축 .. : 네이버블로그](https://blog.naver.com/businessinsight/222618903332)
 * [Independence,autonomy,too many small teams | Kislay Verma](https://kislayverma.com/organizations/independence-autonomy-and-too-many-small-teams/)
 * [에드 캣멀과의 상상 인터뷰](https://brunch.co.kr/@younghakjang/57)
 * [강점으로 경영하라](https://brunch.co.kr/@younghakjang/60)
