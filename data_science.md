@@ -766,6 +766,7 @@ Data Science
 * [컨텐츠 기반 필터링 구축기: MiniLM, ScaNN 그리고 TFServing - The Highlights - 라이너 팀 블로그](https://blog.getliner.com/%EC%BB%A8%ED%85%90%EC%B8%A0-%EA%B8%B0%EB%B0%98-%ED%95%84%ED%84%B0%EB%A7%81-%EA%B5%AC%EC%B6%95%EA%B8%B0-minilm-scann-%EA%B7%B8%EB%A6%AC%EA%B3%A0-tfserving/)
 * [Insider Tips for Building Personalized Recommender Systems - YouTube](https://www.youtube.com/watch?v=suA0oNILI2E)
 * [Autoencoders | Machine Learning for Recommender Systems - YouTube](https://www.youtube.com/watch?v=rddMo8bLQL0)
+* [신입 리서치 엔지니어의 개인화 콘텐츠 추천 모델 구현기. 안녕하십니까, TVING Data Engineer 팀의 Research… | by 주찬형 | tving.team | Mar, 2022 | Medium](https://medium.com/tving-team/%EC%8B%A0%EC%9E%85-%EB%A6%AC%EC%84%9C%EC%B9%98-%EC%97%94%EC%A7%80%EB%8B%88%EC%96%B4%EC%9D%98-%EA%B0%9C%EC%9D%B8%ED%99%94-%EC%BD%98%ED%85%90%EC%B8%A0-%EC%B6%94%EC%B2%9C-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%ED%98%84%EA%B8%B0-ec073dce0aa9)
 
 ## Recommendation Python
 * [**파이썬 추천 시스템 심화과정**](https://nbviewer.jupyter.org/github/lsjhome007/python_ds_ml_pieriandata/blob/master/Advanced%20Recommender%20Systems%20with%20Python_SJ.ipynb)
