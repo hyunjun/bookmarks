@@ -486,6 +486,7 @@ Interview
 * [**ipify: 300억 요청 처리, 그 너머로**](https://edykim.com/ko/post/ipify-to-30-billion-and-beyond)
 * [How Discord Resizes 150 Million Images Every Day with Go and C++](https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d)
 * [Architecture: How to build a notification system similar to Facebook?](https://hashnode.com/post/architecture-how-to-build-a-notification-system-similar-to-facebook-cioms9pud0094mz532hcjzuqd)
+* [Rapid Event Notification System at Netflix | by Netflix Technology Blog | Feb, 2022 | Netflix TechBlog](https://netflixtechblog.com/rapid-event-notification-system-at-netflix-6deb1d2b57d1)
 * [A beginner’s guide to website optimization](https://medium.freecodecamp.org/a-beginners-guide-to-website-optimization-2185edca0b72)
 * [10x Performance Increases: Optimizing a Static Site](https://hackernoon.com/optimizing-a-static-site-d5ab6899f249)
 * Consistent Hashing
