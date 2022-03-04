@@ -807,6 +807,7 @@ App
       * [VS Code Python Tool Revamps Jupyter Notebooks Experience -- Visual Studio Magazine](https://visualstudiomagazine.com/articles/2021/08/09/vs-code-python-aug21.aspx)
       * [16 Reasons to Use VS Code for Developing Jupyter Notebooks - Practical Business Python](https://pbpython.com/vscode-notebooks.html)
       * [Advanced Visual Studio Code for Python Developers – Real Python](https://realpython.com/advanced-visual-studio-code-python/)
+      * [비주얼 스튜디오 코드의 파이썬 기능 추가와 변경사항(2022년 3월 업데이트)](https://blog.naver.com/drvoss/222663943725) python 버전 변환
     * remote
       * [마이크로소프트 비주얼 스튜디오 코드, 원격 개발 기능 지원](https://www.44bits.io/ko/post/news--vs-code-now-supports-remote-development)
       * [Intelligent Productivity and Collaboration, from Anywhere](https://devblogs.microsoft.com/visualstudio/intelligent-productivity-and-collaboration-from-anywhere/)
