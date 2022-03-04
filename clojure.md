@@ -2,7 +2,7 @@ Clojure
 =======
 * [clojure.kr](http://clojure.kr)
 * [Articles: clojure | Functional Works](https://functional.works-hub.com/clojure-articles)
-* [Clojure - Clojure Deref (July 16, 2021)](https://clojure.org/news/2021/07/16/deref)
+* [Clojure - News](https://clojure.org/news/news)
 * [www.tryclj.com](http://www.tryclj.com/)
 * [clojurecademy.com](https://clojurecademy.com)
 * [clojureverse.org](https://clojureverse.org/)
