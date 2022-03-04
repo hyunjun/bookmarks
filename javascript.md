@@ -3680,6 +3680,7 @@ Javascript
   * [🥕 Byebye Vue.js. 일레클 웹프론트팀에서는 어드민 페이지를 react기반의 next.js로… | by gon Kim | elecle | Dec, 2021 | Medium](https://medium.com/elecle-bike/byebye-vue-js-7bc0d9b00725)
   * [Next JS 실습 강좌! React를 더욱 편리하게 SEO - YouTube](https://www.youtube.com/watch?v=pdWQvfQBSGg)
   * [8 Best Next.js Courses to Learn Online for React Developers in 2022 | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/7-best-online-courses-to-learn-next-js-for-react-developers-ced862a3864)
+  * [React Server Component & Next.js를 통해 진행하는 웹 최적화 실험 | by bolang2 | tving.team | Jan, 2022 | Medium](https://medium.com/tving-team/react-server-component-next-js%EB%A5%BC-%ED%86%B5%ED%95%B4-%EC%A7%84%ED%96%89%ED%95%98%EB%8A%94-%EC%9B%B9-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%8B%A4%ED%97%98-c9450770397f)
   * [nextjs-notion-api-example: Notion-Api with NextJs](https://github.com/JaeSeoKim/nextjs-notion-api-example)
     * [Notion API 분석해보기!(feat. Next.js)(1) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_1/)
     * [Notion API 분석해보기!(feat. Next.js)(2) | JaeSeoKim's Blog](https://jaeseokim.dev/Javascript/analysis-notion-api-feat_nextjs_part_2/)
