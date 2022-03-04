@@ -469,6 +469,7 @@ Data Science
 * [Beaker](http://beakernotebook.com/?foo)
 * [danfo.js - an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data](https://github.com/opensource9ja/danfojs)
   * [Pandas를 자바스크립트에서! Danfo.js - YouTube](https://www.youtube.com/watch?v=rPCgsu0bcM4)
+* Dataflow [Data pipeline asset management with Dataflow | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/data-pipeline-asset-management-with-dataflow-86525b3e21ca)
 * [dbt - Transform data in your warehouse](https://www.getdbt.com/)
   * [dbt로 ELT 파이프라인 효율적으로 관리하기](https://www.humphreyahn.dev/blog/efficient-elt-pipelines-with-dbt)
 * [Decodable](https://www.decodable.co/)
