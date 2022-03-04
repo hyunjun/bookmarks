@@ -3315,6 +3315,7 @@ Javascript
 * [리액트 프레임워크. 10분 완벽 정리! - YouTube](https://www.youtube.com/watch?v=RP8nvTeurbQ) next.js gatsby remix
 * [불변 객체와 immer | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220217)
 * [React - 1 리액트의 특징](https://velog.io/@couchcoding/React-1-%EB%A6%AC%EC%95%A1%ED%8A%B8%EC%9D%98-%ED%8A%B9%EC%A7%95)
+* [React - 2 설치하기 & package.json](https://velog.io/@couchcoding/React-2-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-package.json)
 * [FLIP과 WAAPI를 이용한 React 애니메이션 | goohooh.github.io](https://goohooh.github.io/animation/flip_animation_with_react/)
 * [기술 블로그 위한 contentEditable WYSIWYG 에디터 제작기](https://blog.dalgu.app/dev/2)
 
