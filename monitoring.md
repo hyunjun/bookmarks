@@ -185,3 +185,4 @@ Monitoring
     * 에이전트 모드로 Prometheus 기반 스크래핑의 자동확장 기능을 쉽게 적용 가능
 * [CNCF Prometheus Agent Could Be a ‘Game Changer’ for Edge – The New Stack](https://thenewstack.io/cncf-prometheus-agent-could-be-a-game-changer-for-edge/)
 * [What Is Prometheus and Why Is It So Popular? – CloudSavvy IT](https://www.cloudsavvyit.com/15124/what-is-prometheus-and-why-is-it-so-popular/)
+* [How to set up API monitoring with Prometheus & Grafana | Golang API - YouTube](https://www.youtube.com/watch?v=pP2DKCKR4CQ)
