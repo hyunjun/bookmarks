@@ -246,6 +246,7 @@ AWS
 * [AWS Auto Cleanup - Open source application to programatically clean your AWS resources based on a whitelist and time to live (TTL) settings](https://github.com/servian/aws-auto-cleanup)
 * [Amazon Connect를 이용한 Outbound Call 서비스 개발하기](https://medium.com/hbsmith/amazon-connect%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-outbound-call-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-93ab4ed39f57)
 * [Amazon Connect를 이용한 Outbound Call 서비스 개발하기](https://www.slideshare.net/changhoonhyun/amazon-connect-outbound-call)
+* [Amazon Connect 로 아웃바운드콜 전화하기 - Qiita](https://qiita.com/leechungkyu/items/2492bfef6c4b06c9e2ae)
 * [How to build a basic 2 nodes Jenkins architecture on AWS](https://hackernoon.com/how-to-build-a-basic-2-nodes-jenkins-architecture-on-aws-cb5c36a7d8d7)
 * [배포 자동화 젠킨스 AWS에서 사용하기 #jenkins - YouTube](https://www.youtube.com/watch?v=srXoakJ8Mx0)
 * [Jenkins + Docker + AWS EC2](https://okdevtv.com/mib/jenkins/docker)
