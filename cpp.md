@@ -201,6 +201,7 @@ C++
 * [항상 flush를 해서 느린 c++ endl](https://codingdog.tistory.com/entry/%ED%95%AD%EC%83%81-flush%EB%A5%BC-%ED%95%B4%EC%84%9C-%EB%8A%90%EB%A6%B0-c-endl)
 * [The year is 2017 - Is the preprocessor still needed in C++?](https://foonathan.net/2017/05/preprocessor/)
 * [Infinite monkey - Nico Brailovsky's blog: C++ exceptions under the hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html)
+* [P2544R0: C++ exceptions are becoming more and more problematic](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2544r0.html)
 * [Failing Successfully: Reporting and Handling Errors - YouTube](https://www.youtube.com/watch?v=cDPXS_c0L2s)
 * auto_ptr
   * [auto_ptr - 조심히 사용해야 하는 스마트 포인터](http://ohyecloudy.com/pnotes/archives/286/)
@@ -300,6 +301,7 @@ C++
 * [An Improved Thread with C++20 - ModernesCpp.com](http://modernescpp.com/index.php/an-improved-thread-with-c-20)
 * [All C++20 core language features with examples | Oleksandr Koval’s blog](https://oleksandrkvl.github.io/2021/04/02/cpp-20-overview.html)
   * [C++20의 주요 기능들 - 예제와 함께 정리 | GeekNews](https://news.hada.io/topic?id=4033)
+* [Functional Parsing in C++20 - YouTube](https://www.youtube.com/watch?v=QwaoOYkoqB0)
 
 # Conference
 * [CppCon 2014: Jeff Garland "Rebuilding Boost Date-Time for C++11"](https://www.youtube.com/watch?v=VBHXmqB4i_s)
@@ -409,6 +411,7 @@ C++
 * [qpm - Say hello to qpm. A package manager for Qt/QML!](http://www.cutehacks.com/blog/2015/10/5/say-hello-to-qpm-a-package-manager-for-qtqml)
 * [rockstar - Makes you a Rockstar C++ Programmer in 2 minutes](https://github.com/avinassh/rockstar)
 * [ROOT - A modular scientific software framework. It provides all the functionalities needed to deal with big data processing, statistical analysis, visualisation and storage](https://root.cern.ch/)
+* [rv32i_jit: A super simple RV32i JIT, designed for ease of understanding and modification](https://github.com/gamozolabs/rv32i_jit)
 * [SDL - Simple DirectMedia Layer is a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware via OpenGL and Direct3D](https://www.libsdl.org/)
   * available in c#, go, python, rust, ...
 * [sdsl - Succinct Data Structure Library 2.0](https://github.com/simongog/sdsl-lite)
