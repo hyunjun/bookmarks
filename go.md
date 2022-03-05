@@ -356,6 +356,7 @@ Go
   * [5 More Gotchas of Defer in Go — Part III](https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-iii-36a1ab3d6ef1)
 * encoding
   * [Go encoding/json 패키지](http://blog.jeonghwan.net/dev/2019/01/18/go-encoding-json.html)
+  * [Speeding up Go's builtin JSON encoder up to 55% for large arrays of objects](https://datastation.multiprocess.io/blog/2022-03-03-improving-go-json-encoding-performance-for-large-arrays-of-objects.html)
 * fmt
   * [Go fmt 패키지](http://blog.jeonghwan.net/dev/2019/01/08/go-fmt.html)
 * generic
@@ -634,6 +635,7 @@ Go
 * [kashmir - Transactional Locking II (TL2)-inspired STM library for Go](https://github.com/talhof8/kashmir) 
   * [Software Transactional Memory: a stairway to lock-free programming heaven? - DEV Community](https://dev.to/talhof8/software-transactional-memory-a-stairway-to-lock-free-programming-heaven-194j)
 * koazee [golang - 빠른 컬렉션 조작 라이브러리 Koazee - jacking75](https://jacking75.github.io/go_lib_Koazee/)
+* [kratos: Your ultimate Go microservices framework for the cloud-native era](https://github.com/go-kratos/kratos)
 * [let-go: Clojure-esque extension language for Go](https://github.com/nooga/let-go)
 * [lilliput - Resize images and animated GIFs in Go](https://github.com/discordapp/lilliput)
   * [**How Discord Resizes 150 Million Images Every Day with Go and C++**](https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d)
