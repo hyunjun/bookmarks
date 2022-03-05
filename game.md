@@ -58,6 +58,8 @@ Game
 * [Alex Tardif: Graphics Engineer](http://alextardif.com/LearningGraphics.html)
 * [game-developer-roadmap: Roadmap to becoming a game developer in 2022](https://github.com/utilForever/game-developer-roadmap)
 * [Simutrans - Transport Simulator](https://www.simutrans.com/en/)
+* [질긴 고리 - 온라인 퍼즐 게임](https://ko.puzzle-loop.com/)
+* [Summle - a daily maths game](https://summle.net/)
 
 # Board game
 * [ko.boardgamearena.com](https://ko.boardgamearena.com/)
