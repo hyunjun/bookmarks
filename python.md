@@ -413,6 +413,8 @@ Python
     * [교육업무자동화5/10 청구서자동화5(개선할 부분 찾아보기) #중급](https://www.martinii.fun/134)
     * [교육업무자동화6/10 청구서자동화6(pyinstaller로 배포하기)](https://www.martinii.fun/135)
   * [한/글 없이 hwpx 파일의 표를 pd.DataFrame으로 추출하는 방법](https://martinii.fun/220)
+  * [가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX : NHN Cloud Meetup](https://meetup.toast.com/posts/311) python 무관, 한글파일 포맷 자체에 대한 이야기
+    * [가볍게 살펴보는 새로운 한/글 파일 포맷 HWPX | GeekNews](https://news.hada.io/topic?id=6052)
   * [pyhwp - .hwp file format v5 parser in python http://pythonhosted.org/pyhwp ](https://github.com/mete0r/pyhwp)
 * [파이썬으로 한컴오피스 한글2018 조작하는 방법6 : html table태그를 아래한글 표로 옮기기](https://www.youtube.com/watch?v=zMW1Mb_0QWo)
 * [모든 프로그래밍 요구를 충족하는 12가지 파이썬](http://www.itworld.co.kr/news/132322) 여러가지 배포판 이야기
@@ -1690,6 +1692,8 @@ Python
 * [마야 파이썬 (Maya Python)](https://wikidocs.net/book/1564)
 * [실용 파이썬 프로그래밍(Practical Python Programming 번역) - WikiDocs](https://wikidocs.net/book/4673)
 * [pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills](https://github.com/norvig/pytudes)
+  * [pytudes/Wordle.ipynb at main · norvig/pytudes](https://github.com/norvig/pytudes/blob/main/ipynb/Wordle.ipynb)
+  * [pytudes/SplitStates.ipynb at main · norvig/pytudes](https://github.com/norvig/pytudes/blob/main/ipynb/SplitStates.ipynb)
 * [Python 101](https://leanpub.com/python_101/read_full)
 * [Python 3.4 공부 좀 해볼까?](https://wikidocs.net/book/122)
 * [Python으로 배우는 BBC micro:bit](https://wikidocs.net/book/2632)
@@ -3499,6 +3503,7 @@ Python
     * [High Performance Data Processing in Python](https://github.com/DonaldWhyte/high-performance-data-processing-in-python)
   * [Massively Speed-Up Python Code With Numba Compilation - YouTube](https://www.youtube.com/watch?v=bZ5G-RZoE6Q)
   * [Make Python code 1000x Faster with Numba - YouTube](https://www.youtube.com/watch?v=x58W9A2lnQc)
+  * [Faster Python calculations with Numba: 2 lines of code, 13× speed-up](https://pythonspeed.com/articles/numba-faster-python/)
 * [Nuitka - the extremely compatible Python compiler](http://nuitka.net/)
   * [Nuitka - a Python compiler written in Python. It's fully compatible with Python 2.6, 2.7, 3.3, 3.4, 3.5, 3.6, 3.7, 3.8, and 3.9. You feed it your Python app, it does a lot of clever things, and spits out an executable or extension module](https://github.com/Nuitka/Nuitka)
 * OpenBCI [On Brain-Computer Interfaces and Explainable Workflows using Python | PyData Boston Meetup - YouTube](https://www.youtube.com/watch?v=aFr-pdgZVmE) BrainWave
@@ -3647,6 +3652,7 @@ Python
   * asynchronous requests
     * [**GRequests: Asynchronous Requests**](https://github.com/kennethreitz/grequests)
     * [**Asynchronous Python HTTP Requests for Humans**](https://github.com/ross/requests-futures)
+  * [mureq: Single-file alternative to python-requests](https://github.com/slingamn/mureq)
   * [requests-file requests에서 file://... 로컬 URL 내용 가져오기](http://mcchae.egloos.com/11296668)
   * [requests-html: Pythonic HTML Parsing for Humans™](https://github.com/psf/requests-html)
   * [requests-mock provides a building block to stub out the HTTP requests portions of your testing code](https://github.com/jamielennox/requests-mock)
