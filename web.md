@@ -251,6 +251,8 @@ Web
 * [Building an adaptive favicon](https://web.dev/building-an-adaptive-favicon/)
   * 최신 브라우저가 파비콘에 SVG도 지원함에 따라 <link rel="icon" href="/favicon.svg" type="image/svg+xml">처럼 SVG 파비콘을 연결하고 prefers-color-scheme 미디어 쿼리를 이용해서 사용자의 테마에 따라 다크/라이트 파비콘을 보여주도록 적용하는 방법 설명
   * 현재 파비콘에서 미디어쿼리는 파이어폭스와 크로미움 기반 브라우저만 지원
+* [Interop 2022: browsers working together to improve the web for developers](https://web.dev/interop-2022/)
+  * [Interop 2022: 브라우저가 함께 작동하여 개발자를 위한 웹 개선 | GeekNews](https://news.hada.io/topic?id=6080)
 
 # Apache
 * installation
@@ -665,6 +667,7 @@ Web
   * [Google’s PRPL Web development pattern](http://www.slideshare.net/inureyes/googles-prpl-web-development-pattern)
 * postwoman [API request builder - Helps you create your requests faster, saving you precious time on your development https://postwoman.io https://liyasthomas.github.io/postwoman ](https://github.com/liyasthomas/postwoman)
 * [Quinn - A web framework designed for things to come](http://quinnjs.com/)
+* [SingleFile: Web Extension for Firefox/Chrome/MS Edge and CLI tool to save a faithful copy of an entire web page in a single HTML file](https://github.com/gildas-lormeau/SingleFile)
 * [Statinamic - A static website generator for creating dynamic websites using React components](http://moox.io/statinamic/)
 * Swagger
   * [Swagger Editor](https://editor.swagger.io/)
@@ -837,10 +840,13 @@ Web
   * [**Reining in the thundering herd ⛈ Getting to 80% CPU utilization with Django**](https://blog.clubhouse.com/reining-in-the-thundering-herd-with-django-and-gunicorn/)
 * [Mitmproxy 7](https://mitmproxy.org/posts/releases/mitmproxy7/)
   * [MITMProxy로 실시간 검색어 조작하기](https://www.youtube.com/watch?v=2Of-zvygg8w)
+  * [mitmproxy로 iOS 기기의 네트워크 트래픽 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1514)
 * [rss-proxy: RSS-proxy allows you to do create an RSS or ATOM feed of almost any website, just by analyzing just the static HTML structure](https://github.com/damoeb/rss-proxy)
+* [toxiproxy: A TCP proxy to simulate network and system conditions for chaos and resiliency testing](https://github.com/Shopify/toxiproxy)
 * [traefik: The Cloud Native Application Proxy](https://github.com/traefik/traefik)
   * [traefik - 클라우드 네이티브 어플리케이션 프록시 | GeekNews](https://news.hada.io/topic?id=3668)
 * [YARP: Yet Another Reverse Proxy](https://microsoft.github.io/reverse-proxy/)
+* [reverse-proxy: A toolkit for developing high-performance HTTP reverse proxy applications](https://github.com/microsoft/reverse-proxy)
 
 # Python
 * Let’s Build A Web Server
@@ -896,6 +902,7 @@ Web
   * [Fast API 로 3시간만에 추천 서버 만들기 (implicit, docker, gitlabCI)](https://school-of-life.tistory.com/166)
   * [Starting With FastAPI and Examining Python's Import System | Real Python Podcast #72 - YouTube](https://www.youtube.com/watch?v=7mLa2SGBAT0)
   * [Building a Kanban Board App in FastAPI and React - YouTube](https://www.youtube.com/watch?v=tX0h1PQgWPw)
+  * [FastAPI with SQLAlchemy Tutorial - YouTube](https://www.youtube.com/watch?v=8GSYx-KDEas)
   * [emoji_rank: This is slack bot for emoji ranking](https://github.com/JAY-Chan9yu/emoji_rank)
     * [오픈소스 프로젝트를 만들어본 썰 풉니다! (feat. FastAPI, Slack) :: Jay's Code Factory](https://jay-ji.tistory.com/82)
   * [Moving Fast with FastAPI (aka Building a Web App with FastAPI) - YouTube](https://www.youtube.com/watch?v=R-YX_7-7dm0)
