@@ -177,8 +177,10 @@ Book
   * [말을 비우고 대화를 채웁니다](https://brunch.co.kr/@graypool/303)
   * [일의 본질을 잊지 않습니다](https://brunch.co.kr/@graypool/304)
 * (NOT YET) [지브리의 천재들](https://butter-shower.tistory.com/228)
+  * 탐라, 우당
 * (NOT YET) [마키아벨리의 '군주론', 왜 쓰였을까? 군주론을 둘러싼 메디치 가문과 마키아벨리 이야기! - YouTube](https://www.youtube.com/watch?v=-Y1trnVEjRM)
 * (NOT YET) ['지리의 힘'으로 알아보는 지정학 A to Z! - YouTube](https://www.youtube.com/watch?v=tiuT48ho6nY)
+  * 탐라
 * (NOT YET) [권력의 심리학 - 권력을 잡으면 인간은 어떻게 변하는가](https://news.v.daum.net/v/20220211050606263)
 * (NOT YET) [브런치북 퇴직 후 그림책을 봅니다](https://brunch.co.kr/brunchbook/wjhee20)
 
