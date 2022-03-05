@@ -1235,3 +1235,4 @@ Business
 * [화면이 복잡할 때 꺼내 읽기 좋은 UX 이야기](https://brunch.co.kr/@cliche-cliche/140)
 * [유저 리서치, 설문으로 시작하기](https://brunch.co.kr/@wanteddesign/8)
 * [오래된 프로덕트 디자인 리뉴얼하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/demaecan-product-design-renewal/)
+* [penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
