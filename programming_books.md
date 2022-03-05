@@ -41,6 +41,7 @@ Programming Books
   * 2009.11.13~17
   * [008. 지속 가능한 소프트웨어 개발 | LinkedIn](https://www.linkedin.com/pulse/008-%EC%A7%80%EC%86%8D-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
   * [독서광 실용주의 프로그래머 20주년 기념판](https://jhrogue.blogspot.com/2022/03/20.html)
+    * 탐라
 * [신화와 야망 Google](https://jh4hj.tistory.com/entry/%EC%8B%A0%ED%99%94%EC%99%80-%EC%95%BC%EB%A7%9D-Google)
   * 2009.11.26~27
 * [소프트웨어 산책](https://jh4hj.tistory.com/entry/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%82%B0%EC%B1%85)
@@ -118,6 +119,7 @@ Programming Books
 * (NOT YET) 우린 이렇게 왔다 미국의 테크 기업으로 이직한 토종 한국인 25인의 취업 이야기
   * 2018.10 탐라
 * (NOT YET) [누가 IT시장 취업에 성공하는가: 신입 경력 지원자와 면접관을 위한 지침서](https://roadbook.co.kr/252)
+  * 한라
 * (NOT YET) [데브옵스 (DevOps Troubleshooting)](http://jybaek.tistory.com/759)
 * (NOT YET) [데브옵스 핸드북](http://acornpub.co.kr/book/devops-handbook)
   * [데브옵스 핸드북 실천법 핵심 요약](http://javacan.tistory.com/entry/devops-handbook-core-practice-summary)
@@ -128,8 +130,9 @@ Programming Books
 * (NOT YET) JVM 언어 입문 - 자바, 스칼라, 클로저, 코틀린, 그루비 체험하기
   * 2018.10 한라
 * (NOT YET) [프로그래밍의 정석](https://www.popit.kr/bookreview-principlesofprogramming)
+  * [프로그래밍의 정석 - 프로그래머가 반드시 알아야 할 101가지 원리 원칙](https://freelec.co.kr/book/1448/)
+  * 탐라
 * (NOT YET) [**빅데이터를 지탱하는 기술**](http://jpub.tistory.com/8610)
-* (NOT YET) [프로그래밍의 정석 - 프로그래머가 반드시 알아야 할 101가지 원리 원칙](https://freelec.co.kr/book/1448/)
 * (NOT YET) [인텔리제이 IDEA 기본 사용법부터 고급 기능까지 마스터하기](http://acornpub.co.kr/book/intellij-idea)
 * (NOT YET) [AI 빅데이터에 숨어있는 수학의 아름다움](http://www.sejongbooks.co.kr/book_board/pubstory_book_view.php?id=bookstory&no=20501&category=08)
 * (NOT YET) [**HTTP 완벽 가이드: 웹은 어떻게 동작하는가**](https://blog.outsider.ne.kr/1431)
@@ -1516,6 +1519,7 @@ Programming Books
 * [엔지니어링 매니저 필독 도서&아티클](https://welcome.publy.co/em-books-and-articles/)
 * [엔지니어링 매니저가 꼭 읽어야 할 도서&아티클](https://blog.careerly.co.kr/engineering-reading/)
 * ["맨먼스미신" 서평](https://www.popit.kr/%EB%A7%A8%EB%A8%BC%EC%8A%A4%EB%AF%B8%EC%8B%A0-%EC%84%9C%ED%8F%89)
+  * 한라
 * [개발 7년차, 매니저 1일차](https://jybaek.tistory.com/867)
   * ★★★★★
   * [독서광 개발 7년차, 매니저 1일차](https://jhrogue.blogspot.com/2020/06/7-1.html)
@@ -1578,25 +1582,45 @@ Programming Books
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
 * (NOT YET) [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
+  * 한라, 탐라, 우당
 * (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * (NOT YET) [요즘 팀장은 이렇게 일합니다 - 중앙북스](https://jbooks.joins.com/book/book_info.asp?bokid=2455)
+  * 한라, 탐라, 우당
   * [“팀장이 가장 어려웠어요”…모두가 알아야 할 ‘팀장 리더십’ : 네이버 뉴스](https://news.naver.com/main/read.nhn?mode=LSD&mid=sec&sid1=110&oid=243&aid=0000014586)
 * (NOT YET) [실리콘밸리 리더십](https://jybaek.tistory.com/931)
+  * 탐라
   * [실리콘밸리 리더십](https://jhrogue.blogspot.com/2021/09/blog-post.html)
 * (NOT YET) [실리콘밸리의 팀장들](http://www.chungrim.com/booktotal/bin/view.php?&code=book&isbn=978-89-352-1282-8&cpage=1)
+  * 한라, 탐라, 우당
 * (NOT YET) [팀장의 탄생](https://brunch.co.kr/@insaboy/122)
 * (NOT YET) [팀장으로 산다는 건](https://brunch.co.kr/brunchbook/teamjang)
 * (NOT YET) [왜 리더인가(이나모리 가즈오 지음/김윤경 옮김/다산북스 펴냄) - YouTube](https://www.youtube.com/watch?v=_mhyRrB0pWs)
+  * 탐라, 우당
   * [왜 리더인가 – Interpreting Compiler](https://interpiler.com/2021/10/20/%ec%99%9c-%eb%a6%ac%eb%8d%94%ec%9d%b8%ea%b0%80/)
 * (NOT YET) [넷플릭스, '규칙 없음'](https://brunch.co.kr/@pliossun/170)
+  * 한라, 탐라
 * (NOT YET) [‘리더 디퍼런트’ - 인사이트](https://www.insight.co.kr/news/355641) Start with why, Simon Sinek
+  * 한라, 탐라
 * (NOT YET) [소방관의 선택](https://jhrogue.blogspot.com/2021/10/blog-post.html)
+  * 한라, 탐라
 * (NOT YET) [아마존 사람들은 이렇게 일합니다](https://polydalai.tistory.com/entry/%EC%95%84%EB%A7%88%EC%A1%B4-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%80-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%9D%BC%ED%95%A9%EB%8B%88%EB%8B%A4)
+  * 탐라
 * (NOT YET) 임파워드 [관리자는 신입 PM을 보며 어떤 생각을 할까?](https://brunch.co.kr/@soosunnaa/23)
+  * 탐라
 * (NOT YET) [팀 토폴로지 : 빠른 업무 플로우를 만드는 조직 설계 - 매튜 스켈톤, 마누엘 페이스](https://blog.daum.net/eastern/12707711)
+  * 탐라
   * [(리뷰)팀 토폴로지 - 빠른 업무 플로우를 만드는 조직 설계 | Huns.me](https://huns.me/posts/2022-02-14-39-%ED%8C%80%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80)
+  * [팀 토폴로지 - 빠른 업무 플로우를 만드는 조직 설계 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1582)
 * (NOT YET) [언리더십 자본주의 4.0 시대의 새로운 리더십 12](https://www.waytoliah.com/786)
-* (NOT YET) [팀 토폴로지 - 빠른 업무 플로우를 만드는 조직 설계 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1582)
+  * 탐라
+* (NOT YET) 피플웨어
+  * 우당
+* (NOT YET) 하이 아웃풋 매니지먼트 : 어떻게 성과를 높일 것인가
+  * 한라
+* (NOT YET) IT 개발자가 쓴 통쾌한 인간 관리 이야기
+  * 한라
+* (NOT YET) 프로젝트가 서쪽으로 간 까닭은?
+  * 한라
 
 # Math
 
