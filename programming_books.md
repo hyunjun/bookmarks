@@ -706,6 +706,7 @@ Programming Books
   * [Dr. Bean의 코딩교실 - YouTube](https://www.youtube.com/user/FlyHeavensky)
 * (NOT YET) [인공지능: 현대적 접근방식 제4판](http://occamsrazr.net/tt/374)
 * (NOT YET) [단단한 심층 강화학습](https://jpub.tistory.com/1240)
+* (NOT YET) [비전공자를 위한 딥러닝](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=289141969)
 
 ## Machine Learning
 * Building Machine Learning Systems with Python (Scikit-learn 라이브러리로 구현하는 기계학습)
