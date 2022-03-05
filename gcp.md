@@ -165,6 +165,7 @@ Google Cloud Platform GCP
 * [Building a Simple Web Upload Interface with Google Cloud Run and Cloud Storage](https://medium.com/google-developers/building-a-simple-web-upload-interface-with-google-cloud-run-and-cloud-storage-eba0a97edc7b)
 * [서버리스의 맏형 Knative 기반의 Cloud Run](https://jybaek.tistory.com/875)
 * [Deploy a Node API to Cloud Run. Run custom Docker images on Google’s… | by Dirk Hoekstra | Better Programming | Medium](https://medium.com/better-programming/deploy-a-node-api-to-cloud-run-f93fea4ff2e6)
+* [Rust FaaS Challenge – 1 hour to learn Rust and deploy a web server to Google Cloud Run - YouTube](https://www.youtube.com/watch?v=p5ktvLLxQqA)
 
 # GKE
 * [Container Engine (GKE #1. 개념)](http://jybaek.tistory.com/658)
