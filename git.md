@@ -1038,6 +1038,7 @@ Git
 * [Hubaaa's GitHub Vacation Auto-Responder](https://github.com/rbabayoff/hubaaa-github-vacation-responder)
 * [hub helps you win at git. http://hub.github.com ](https://github.com/github/hub)
 * [isomorphic-git: A pure JavaScript implementation of git for node and browsers!](https://github.com/isomorphic-git/isomorphic-git)
+* [jj: A Git-compatible DVCS that is both simple and powerful](https://github.com/martinvonz/jj)
 * [joe - A .gitignore magician in your command line](https://github.com/karan/joe)
 * [lazygit: simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
 * [Magit! A Git Porcelain inside Emacs](https://magit.vc/)
