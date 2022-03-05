@@ -352,6 +352,7 @@ App
   * [Two ways to deploy a public GitHub Pages site from a private Hugo repository](https://medium.freecodecamp.org/two-ways-to-deploy-a-public-github-pages-site-from-a-private-hugo-repository-627312ec63b9)
   * [블로그 리브랜딩 & 텀블러에서 깃헙페이지+휴고(HUGO)로](https://iamsang.com/blog/2017/05/22/blog-rebranding-and-from-tumblr-to-github-page-and-hugo/)
   * [Hugo에 쉽게 글쓰기 - Burt.K](https://blog.burt.pe.kr/posts/skyfe79-blog.contents-970590914-post-9/)
+  * [How to set up a blog with Hugo and Cloudflare (and why you should) | Smaller Fish](https://smaller.fish/posts/hugo)
 * [makesite.py - Take full control of your static website/blog generation by writing your own simple, lightweight, and magic-free static site generator in Python](https://github.com/sunainapai/makesite)
 * MediaWiki
   * [MediaWiki 활용](http://blog.prettymay.com/)
@@ -449,6 +450,8 @@ App
 * my notes [“크롬 새 탭을 메모장으로” 화려하지 않아도 실용적인 마이 노트(My Notes) - ITWorld Korea](http://www.itworld.co.kr/news/167215)
 * nuTab [Quick Notes New Tab Chrome Extension - nuTab](https://nutab.co/)
 * [one-click-extensions-manager: a simple chrome extension to manage chrome extension](https://github.com/hankxdev/one-click-extensions-manager)
+* [pyrite: Pyrite is a web(RTC) client for the Galène videoconference server](https://github.com/garage44/pyrite/)
+  * [Garage 44: Pyrite- Open source video conferencing](https://garage44.org/posts/pyrite/pyrite-conferencing.html)
 * Requestly [Udemy강좌 Full HD로 보기](https://www.javastudy.net/2019/04/22/udemy%EA%B0%95%EC%A2%8C-full-hd%EB%A1%9C-%EB%B3%B4%EA%B8%B0/)
 * [screenity: The most powerful screen recorder & annotation tool for Chrome 🎥](https://github.com/alyssaxuu/screenity)
 * Snippyly [“공유를 넘어 협업으로” 크롬에서 스크린샷을 공유하는 가장 똑똑한 방법 - ITWorld Korea](https://www.itworld.co.kr/news/189733)
@@ -1579,6 +1582,7 @@ App
 
 ## Note Flashcard
 * [Anki - Powerful, intelligent flash cards. Remembering things just became much easier](https://apps.ankiweb.net/)
+  * [On Anki's database](https://www.natemeyvis.com/writing/on-ankis-database-structure/)
 * [Zorbi | Spaced Repetition Flashcards | Zorbi | Spaced Repetition Flashcards](https://zorbi.cards/)
   * [Zorbi - 무료 플래시 카드 | GeekNews](https://news.hada.io/topic?id=4631)
 
