@@ -679,6 +679,7 @@ Linux
   * [2012년에 비트윈 서버를 마비시켰던 윤초 이야기 - VCNC Engineering Blog](https://engineering.vcnc.co.kr/2016/12/struggling-with-the-leap-second/)
 * `objdump` / `gobjdump` (OS X)
   * [practice](https://gist.github.com/hyunjun/693e04c3fec40094cef9)
+* `parallel` [GNU Parallel Tutorial — GNU Parallel 20220222 documentation](https://www.gnu.org/software/parallel/parallel_tutorial.html)
 * `paste` `paste [-s] [-d<delimiter>] <file 1> <file 2> ... <file n>`
   * `-s` row <-> column 회전
   * [how to merge two files consistently line by line](http://stackoverflow.com/questions/16394176/how-to-merge-two-files-consistently-line-by-line)
@@ -1128,6 +1129,8 @@ Linux
   * [외부 네트워크에서 localhost로 접속 - ngrok](https://jybaek.tistory.com/798)
   * [웹 프론트엔드 개발에 ngrok 사용하기 개발 강의 & 팁 - YouTube](https://www.youtube.com/watch?v=zzD4v4BFx58)
   * [ngrok - 포트포워딩 없이 외부에 로컬서버 공개하기](https://hudi.blog/ngrok/)
+  * [awesome-tunneling: List of ngrok alternatives and other ngrok-like tunneling software and services. Focus on self-hosting](https://github.com/anderspitman/awesome-tunneling)
+    * [Awesome Tunneling - ngrok 대체제 모음 | GeekNews](https://news.hada.io/topic?id=6045)
 * [nnn - The fastest terminal file manager ever written](https://github.com/jarun/nnn)
 * [noah - Bash on Ubuntu on macOS](https://github.com/linux-noah/noah/)
 * [NsJail - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf](http://google.github.io/nsjail/)
