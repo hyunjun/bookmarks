@@ -155,6 +155,7 @@ Google Cloud Platform GCP
 * [gcloud sdk에 새로운 프로젝트 연결하기](https://jybaek.tistory.com/844)
 * [gcloud설치하기](https://krksap.tistory.com/1638)
 * [Quarkus and the Google Cloud Functions | Loic's Blog](https://www.loicmathieu.fr/wordpress/en/informatique/quarkus-et-les-google-cloud-functions/)
+* [Google Announces Second Generation Cloud Functions](https://www.infoq.com/news/2022/03/google-cloud-functions/)
 
 # Cloud Run
 * [구글, 도커 컨테이너 기반 서버리스 서비스인 클라우드 런 발표](https://www.44bits.io/ko/post/news--cloud-run-is-launched-on-gcp)
