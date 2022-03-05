@@ -135,6 +135,7 @@ App
   * [PDFtk Server - our command-line tool for working with PDFs. It is commonly used for client-side scripting or server-side processing of PDFs](https://www.pdflabs.com/tools/pdftk-server/)
   * [pdfsandwich](http://www.tobias-elze.de/pdfsandwich/)
     * [pdfsandwich - 이미지와 OCR을 샌드위치한 PDF 파일 만드는 도구 | GeekNews](https://news.hada.io/topic?id=5334)
+  * [sioyek: Sioyek is a PDF viewer designed for reading research papers and technical books](https://github.com/ahrm/sioyek)
 * [pipefy - Organize and run all your processes in one place](http://www.pipefy.com/)
 * [pixlr.com](http://pixlr.com/) 온라인 포토샵
 * [Plot - a program for plotting time-based data without hassle](http://xkr47.outerspace.dyndns.org/progs/plot/)
@@ -1477,10 +1478,12 @@ App
   * [moseoritube.herokuapp.com](https://moseoritube.herokuapp.com/)
 * [mplayerx.org](http://mplayerx.org) 설치할 때 yahoo 관련 설치가 먼저 나오는데 skip할 것
 * [MuseScore 4. Moving from notation software to composition software. | MuseScore](https://musescore.org/en/MuseScore4)
+* [NewPipe - a free YouTube client](https://newpipe.net/)
 * [NoiseTorch: Real-time microphone noise suppression on Linux](https://github.com/lawl/NoiseTorch)
 * Owncast [Owncast - 오픈소스 라이브 스트리밍 서버 | GeekNews](https://news.hada.io/topic?id=3450)
 * [PassportPhoto4You](https://www.idphoto4you.com/)
   * [증명사진 만들고 편집하는 사이트](https://chagoonbass.tistory.com/300)
+* PeerTube [JoinPeerTube](https://joinpeertube.org/)
 * [Photopea | Online Photo Editor](https://www.photopea.com/)
   * [Photopea - 웹 기반 PSD 이미지 에디터 | GeekNews](https://news.hada.io/topic?id=534)
 * [Piskel - Free online sprite editor](https://www.piskelapp.com/)
@@ -1744,6 +1747,7 @@ App
 * [윈10 disk rescan, flush (sync) 기능 추가](https://sunyzero.tistory.com/275)
 * [How-To : 윈도우 10에서 음성을 녹음하고 편집하는 간편한 방법 - ITWorld Korea](https://www.itworld.co.kr/news/216249)
 * ['한번 쓰면 빠져나올 수 없는' 윈도우 고급 사용자 도구 5종 - ITWorld Korea](https://www.itworld.co.kr/news/213399)
+* ['필수를 넘어 고전이 된' 윈도우 PC 관리 소프트웨어 12종 - ITWorld Korea](https://www.itworld.co.kr/news/227494)
 * 복구
   * [recuva](https://www.piriform.com/recuva)
   * [testdisk 7.0](http://www.cgsecurity.org/wiki/TestDisk_Download)
