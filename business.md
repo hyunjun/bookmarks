@@ -347,6 +347,7 @@ Business
 * [Why do we buy into the 'cult' of overwork? - BBC Worklife](https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork) 야근 과로
 * [Amazon, Apple, Facebook, and Google became big tech companies by acquiring hundreds of smaller companies - Washington Post](https://www.washingtonpost.com/technology/interactive/2021/amazon-apple-facebook-google-acquisitions/) visualization
 * ['지속적 학습 문화' 구축법 10가지 - CIO Korea](https://www.ciokorea.com/news/190963)
+* [조직을 학습곡선의 포트폴리오로 관리하라 | 인사조직 | 매거진 | 하버드비즈니스리뷰 HBR](https://www.hbrkorea.com/article/view/atype/ma/category_id/2_1/article_no/1803) S학습곡선
 * [일잘러 되는 지름길](https://www.bcreator.co.kr/insight-detail/how-to-be-fast/r/rec5xoYxiM0Odcojr)
 * [루틴이 나를 변화시킬 수 있다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241778)
 * [지속할 힘을 주는 루틴 만들기 5가지 방법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/245300)
@@ -501,6 +502,8 @@ Business
 * [리더십 좋은 사업가의 4가지 자질](http://moneyman.kr/archives/2602)
 * [The Five Rules Every New CEO Should Follow](https://hbr.org/2013/10/the-five-rules-every-new-ceo-should-follow)
   * [초보 CEO가 지켜야 할 5가지 원칙](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-the_five_rules_every_new_ceo_should_follow-md)
+* [Bursting Out of the CEO Bubble](https://hbr.org/2017/03/bursting-the-ceo-bubble)
+  * [CEO가 경계해야 할 자만심](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-why_executives_should_talk_less_and_ask_more_questions-md)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -1034,6 +1037,7 @@ Business
 * [스타트업PM 이직일기 차별화된 PM의 5가지 프로젝트 기획법 - 모비인사이드 MOBIINSIDE](https://www.mobiinside.co.kr/2021/11/09/pm-project-plan/)
 * [방망이 깎던 노인처럼 문서 작성하기](https://brunch.co.kr/@soosunnaa/19)
 * [Project Manager에 대해서 알아봅시다](https://brunch.co.kr/@jidesign/81)
+* [브런치북 좋은 프로젝트를 만들어 봅시다](https://brunch.co.kr/brunchbook/good-project)
 
 # Startup
 * [Your Startup's Pitch Needs Only These 10 Slides](http://www.inc.com/larry-kim/your-startup-s-pitch-only-needs-these-10-slides.html)
