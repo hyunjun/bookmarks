@@ -134,6 +134,8 @@
   * [Akka 공부하기 - 01.3 Props와 and IActorRef](https://blog.rajephon.dev/2018/12/14/akka-03/)
   * [Akka 공부하기 - 01.4 Child Actors, Actor Hierarchies, and Supervision](https://blog.rajephon.dev/2019/02/17/akka-04/)
   * [AKKA.NET](http://wiki.webnori.com/display/AKKA/AKKA.NET)
+* [Avalonia UI](http://avaloniaui.net/)
+  * ['WPF의 현대적 재해석' 아발로니아 UI의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/227339)
 * [libplanet - Open source blockchain library for fully decentralized games https://docs.libplanet.io ](https://github.com/planetarium/libplanet)
   * [Libplanet 처음 기여하기](https://snack.planetarium.dev/kor/2019/05/first-contribution/)
   * [Libplanet 팀이 스프린트서울에 참가합니다](https://snack.planetarium.dev/kor/2019/05/sprintseoul/)
