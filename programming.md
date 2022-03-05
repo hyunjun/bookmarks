@@ -261,6 +261,7 @@ Programming
 * [Observing and Understanding Failures: SRE Apprentices - YouTube](https://www.youtube.com/watch?v=qn-_PCORnCQ)
 * [What is Site Reliability Engineering | SRE | Easy Explanation - YouTube](https://www.youtube.com/watch?v=XXDwavw5KNs)
 * [Top Nine Skills for SREs to Master - DevOps.com](https://devops.com/top-nine-skills-for-sres-to-master/)
+* [What the SRE team wants to achieve with the development team | Mercari Engineering](https://engineering.mercari.com/en/blog/entry/20210129-embedded-sre/)
 * [System Reliability and Availability](https://www.eventhelix.com/RealtimeMantra/FaultHandling/system_reliability_availability.htm)
 * [**Teach Yourself Programming in Ten Years**](http://norvig.com/21-days.html)
 * [진실은 코드에 있다](https://mingrammer.com/translation-the-truth-is-in-the-code)
@@ -1092,6 +1093,7 @@ Programming
 * [Essential Complexity in Systems Architecture - YouTube](https://www.youtube.com/watch?v=RNl8uD74KAw)
 * [(정성글) 백신예약 서버가 터지는 이유에 대한 상세한 해설 - DogDrip.Net 개드립](https://www.dogdrip.net/dogdrip/338552744)
 * [10 Architecture Patterns Used In Enterprise Software Development Today - YouTube](https://www.youtube.com/watch?v=BrT3AO8bVQY)
+* [10 Software Architecture Patterns in Enterprise Software Development | by JIN | InterviewNoodle | Medium](https://medium.com/interviewnoodle/10-software-architecture-patterns-in-enterprise-software-development-fabacb5ed0c8)
 * [10 Things Learned Releasing Databricks Enterprise Wide - YouTube](https://www.youtube.com/watch?v=T5TO184SHGQ) 기술적인 이야기 + 경험담
 * [Evolution of search engines architecture - Algolia New Search Architecture Part 1 - High Scalability -](http://highscalability.com/blog/2021/8/2/evolution-of-search-engines-architecture-algolia-new-search.html)
 * [**Organization: A Tool for Software Architects • Eberhard Wolff • GOTO 2021 - YouTube**](https://www.youtube.com/watch?v=wwzn4l_gmco)
@@ -1124,6 +1126,8 @@ Programming
 * [Don't Make My Mistakes: Common Infrastructure Errors I've Made](https://matduggan.com/mistakes/)
 * [Top 5 Courses to Learn Software Architecture for Experienced Programmers in 2022 - Best of Lot](https://javarevisited.blogspot.com/2019/03/5-courses-programmers-can-join-to-learn.html)
 * [Tudor Gîrba on How Moldable Development Offers a Novel Way to Reason about Systems - YouTube](https://www.youtube.com/watch?v=a4nA7ALf16c)
+* [2012-04-17 만화 서비스 오픈 후기 : 네이버 블로그](https://m.blog.naver.com/ez_/140157300770)
+* [10 principals in design system architecture | by Weekly Dev Blog | Medium](https://wklytech.medium.com/10-principals-in-design-system-architecture-753adce0203c)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [homelab: Small and power efficient self-hosting infrastructure. Fully automated from empty disk to operating services](https://github.com/khuedoan/homelab)
@@ -1144,6 +1148,7 @@ Programming
   * [이벤트 소싱 원리와 구현](https://www.youtube.com/watch?v=Yd7TXUdcaUQ)
   * [이벤트 소싱 원리와 구현](https://tv.naver.com/v/2669754)
 * [CQRS and Event Sourcing](https://www.slideshare.net/InhoKang2/cqrs-and-event-sourcing-94653639)
+* [CQRS Software Architecture Pattern: The Good, the Bad, and the Ugly | by Jawad Margieh | Jan, 2022 | Better Programming](https://betterprogramming.pub/cqrs-software-architecture-pattern-the-good-the-bad-and-the-ugly-e9d6e7a34daf)
 * [Semantic Event Sourcing: case study of moving from CRUD to log based state management](https://www.youtube.com/watch?v=uNodMFBgsDs)
 * [Event Sourcing — 마틴 파울러](https://medium.com/@joohotheman/%EB%B2%88%EC%97%AD-event-sourcing-%EB%A7%88%ED%8B%B4-%ED%8C%8C%EC%9A%B8%EB%9F%AC-bc426abb0b98)
 * [What is Event Sourcing?](https://cloudnative.ly/what-is-event-sourcing-d201ed740451)
@@ -2240,6 +2245,7 @@ Programming
     * 메인 라인에 머지되면 좀더 큰 세트(10% 미만)의 e2e 테스트를 실행
     * 레그레이션 파이프라인에서 2시간 마다 메인라인에 대해 전체 테스트 실행
   * 이로써 테스트 실행 시간이 40% 감소, 테스트 결과가 일관되지 않은 비율은 90% 감소
+* [10 real-world stories of how we’ve compromised CI/CD pipelines – NCC Group Research](https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/)
 * CodeCov [Publishing Scala Code Coverage Results to CodeCov using Github Actions | by PJ Fanning | Oct, 2021 | Medium](https://medium.com/@pjfanning/publishing-scala-code-coverage-results-to-codecov-using-github-actions-3e73ea8056cb)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
@@ -2561,6 +2567,7 @@ Programming
 * [Learning DevOps in 2022 | Thomas Stringer](https://trstringer.com/devops-learning-2022/)
 * [Expert Talk: DevOps & Software Architecture • Simon Brown, Dave Farley & Hannes Lowette • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Qv92qaIGbDg)
 * [DevOps Basics | Review N Prep](https://reviewnprep.com/blog/devops-basics/)
+* [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
   * GitHub, Jira 등의 도구를 연결해서 데이터를 수집한 뒤 이를 시각화해서 사용할 수 있는 데이터 레이크 및 대시보드
@@ -3099,6 +3106,7 @@ Programming
   * [2월 1주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/02/b-2-1.html)
   * [2월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2022/02/b-2.html)
   * [2월 3주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/02/b-2-3.html)
+  * [3월 1주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/03/b-3-1.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
