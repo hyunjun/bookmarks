@@ -116,6 +116,7 @@ Programmer
 * [Even the CEO of Amazon didn’t have a master plan for his career | LinkedIn](https://www.linkedin.com/pulse/even-ceo-amazon-didnt-have-master-plan-his-career-devin-banerjee-cfa/) 개발자는 아니지만
 * [Are We Really Engineers? • Hillel Wayne](https://www.hillelwayne.com/post/are-we-really-engineers/)
 * [The developer's essential knowledge pyramid](https://chrisrichardson.net/post/development/2022/02/18/what-a-developer-needs-to-understand.html)
+* [The Painfully Shy Developer's Guide to Networking for a Better Job (Without Being Creepy)](https://www.samjulien.com/shy-dev-networking) 인맥구축
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
