@@ -182,6 +182,7 @@ Programming
 * [www.sourcecodepoetry.com](http://www.sourcecodepoetry.com/)
 * [어려운 것을 쉽게 배우는 방법 : 슈퍼 파워를 장착하기 위한 3단계 학습법](http://www.moreagile.net/2016/02/learning-new-stuff.html)
 * [배우는 방법을 다시 배우기](http://jhrogue.blogspot.com/2018/02/b.html)
+* [Practical Guide to Solving Hard Problems](https://praeclarum.org/2022/02/19/hard-problems.html)
 * [How to become a code-learning super NINJA (1)](https://codeburst.io/how-to-become-a-code-learning-super-ninja-1-ae293637c337)
 * [학습에 실패한 이야기](http://woowabros.github.io/experience/2017/12/11/how-to-study.html)
 * [SI 개발 10년차인데 코드 좀 봐주세요](https://www.popit.kr/si-개발-10년차인데-코드-좀-봐주세요/)
@@ -504,6 +505,10 @@ Programming
 * [notes: detailed notes on computer science topics, in one page](https://github.com/darshanime/notes)
 * [Airflow vs Luigi vs Argo vs Kubeflow vs MLFlow](https://www.datarevenue.com/en-blog/airflow-vs-luigi-vs-argo-vs-mlflow-vs-kubeflow)
 * [stack-on-a-budget: A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com ](https://github.com/255kb/stack-on-a-budget)
+* [Latency Numbers Every Programmer Should Know By Year](https://colin-scott.github.io/personal_website/research/interactive_latency.html)
+* [Single binary executable packages -- Volution Notes](https://notes.volution.ro/v1/2022/01/notes/fbf3f06c/)
+* [Year 2038 problem is still alive and well | Silent’s Blog](https://cookieplmonster.github.io/2022/02/17/year-2038-problem/)
+* [Things that used to be hard and are now easy](https://jvns.ca/blog/2022/02/20/things-that-used-to-be-hard-and-are-now-easy/)
 
 # Agile, Scrum
 * [애자일 소프트웨어 개발 선언](https://agilemanifesto.org/iso/ko/manifesto.html)
@@ -1430,6 +1435,7 @@ Programming
 * [How We Build Micro Frontends With Lattice | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/how-we-build-micro-frontends-with-lattice-22b8635f77ea)
   * [Lattice로 마이크로 프론트엔드를 구축하는 법 | 요즘IT](https://yozm.wishket.com/magazine/detail/1200/)
 * [Micro-Frontends Course - Beginner to Expert - YouTube](https://www.youtube.com/watch?v=lKKsjpH09dU)
+* [The Micro-Frontends future | Medium](https://medium.com/@lucamezzalira/the-future-of-micro-frontends-2f527f97d506)
 * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐. 소프트웨어의 수명과 복잡도는 대개 비례 관계입니다. 아무리 정교하고… | by 히로 | CLASS101 | Jun, 2021 | Medium](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77)
   * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐 | GeekNews](https://news.hada.io/topic?id=4572)
 * [마이크로서비스 배포 혁명](https://jflip.tistory.com/23)
@@ -1634,7 +1640,6 @@ Programming
 * [Go vs C vs Java vs JavaScript vs Python Speed Comparison | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=lvMdHf37hJI)
 
 # Book
-* [programming-books](https://hyunjun.github.io/programming-books/)
 * [My Top 100 Programming, Computer and Science Books: Part One](http://www.catonmat.net/blog/top-100-books-part-one/)
 * [My Top 100 Programming, Computer and Science Books: Part Two](http://www.catonmat.net/blog/top-100-books-part-two/)
 * [My Top 100 Programming, Computer and Science Books: Part Three](http://www.catonmat.net/blog/top-100-books-part-three/)
@@ -1664,8 +1669,9 @@ Programming
 * [Software Carpentry: 소프트웨어 카펜트리 버젼 5.3.](http://statkclee.github.io/swcarpentry-version-5-3-new/)
 * [Top 5 Contemporary Software Engineering Books](https://medium.com/ki-labs-engineering/top-5-contemporary-software-engineering-books-8b5ca6a28e83)
 * [The 25 best programming books of all-time. A data-backed answer](https://www.daolf.com/posts/best-programming-books/)
-* [software-architecture-books: A comprehensive list of books on Software Architecture.](https://github.com/mhadidg/software-architecture-books)
 * [100+ e-books on popular technologies for free](https://www.syncfusion.com/resources/techportal/ebooks)
+* [32 Book Recommendations for the Holidays • Various Speakers • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Pg698WXPtYw)
+* [5 Books Every Software Developer NEEDS - YouTube](https://www.youtube.com/watch?v=RfOYWeu5pGk)
 * [influential-cs-books: Most influential books on Computer Science/programming](https://github.com/cs-books/influential-cs-books)
 * [allitebooks.org](http://www.allitebooks.org/)
 * [The Architecture of Open Source Applications](http://aosabook.org/en/index.html)
@@ -1683,12 +1689,12 @@ Programming
 * [Site Reliability Engineering](https://landing.google.com/sre/book/chapters/foreword.html)
   * [구글, 사이트 신뢰성 워크북(SRE Workbook) 공개](https://www.44bits.io/ko/post/news--site-reliability-workbook-is-published)
   * [구글에서 세 번째 SRE 도서 Building Secure and Reliable Systems 무료 공개](https://www.44bits.io/ko/post/third-free-sre-book-build-seruce-and-reliable-system)
+* [software-architecture-books: A comprehensive list of books on Software Architecture](https://github.com/mhadidg/software-architecture-books)
 * [Software Design for Flexibility | The MIT Press](https://mitpress.mit.edu/books/software-design-flexibility)
 * [Software Engineering Course (SWEBOK) | IEEE Computer Society](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
+* [Unix-Text-Processing: Recreated sources for the book "UNIX Text Processing," published in 1987.](https://github.com/larrykollar/Unix-Text-Processing)
 * [Values and objects in programming languages : MacLennan, Bruce J. : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/valuesobjectsinp00macl/mode/2up)
 * [ZLibrary Part of Z-Library project. The world's largest ebook library](https://b-ok.cc/)
-* [32 Book Recommendations for the Holidays • Various Speakers • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Pg698WXPtYw)
-* [5 Books Every Software Developer NEEDS - YouTube](https://www.youtube.com/watch?v=RfOYWeu5pGk)
 
 # Build Compile
 * [Memory Map과 Symbol 이야기](http://recipes.egloos.com/5009181)
@@ -1703,6 +1709,7 @@ Programming
   * [Can we build better?](https://blog.earthly.dev/better-builds/)
 * [Pants: A fast, scalable build system](https://v1.pantsbuild.org/)
   * [A brief intro to the Pants build system | InfoWorld](https://www.infoworld.com/article/3650508/a-brief-intro-to-the-pants-build-system.html)
+  * ["완전한 병렬성과 원격 작업 지원" 획기적인 프로젝트 빌드 툴 '팬츠' - ITWorld Korea](https://www.itworld.co.kr/news/226664)
 * [Please](https://please.build/)
 
 # Cloud
@@ -1724,6 +1731,7 @@ Programming
 * ["멀티클라우드에 범용성이란 없다" 그렇다면 해결책은? - ITWorld Korea](https://www.itworld.co.kr/news/189888)
 * ['멀티클라우드'의 11가지 그늘 - CIO Korea](https://www.ciokorea.com/news/193094)
 * [(정리) 멀티 클라우드로 게임 서비스 운영하기](https://brunch.co.kr/@topasvga/1927)
+* [Multicloud failover is almost always a terrible idea | CloudPundit: Massive-Scale Computing](https://cloudpundit.com/2021/10/14/multicloud-failover-is-almost-always-a-terrible-idea/)
 * [감자박스 :: 오라클 클라우드에서 평생 무료로 VPS 사용하기](https://www.gamjaa.com/blog/1404)
 * [SQLD 실습용 오라클 클라우드 DB 생성하기](https://stricky.tistory.com/344)
 * [Oracle Cloud 방화벽 설정 (http/https 특정 포트 열기)](https://kibua20.tistory.com/124)
@@ -1815,6 +1823,7 @@ Programming
 * [neverinstall | Your browser is the new operating system](https://neverinstall.com/)
   * [Never Install - 데스크탑 앱을 설치없이 브라우저에서 사용하기 | GeekNews](https://news.hada.io/topic?id=4794)
 * nextcloud [클라우드 스토리지: Nextcloud | Varins](https://varins.com/library/server/cloud-storage-nextcloud/)
+* [Open Source Cloud Guide](https://open-cloud-guide.dev/)
 * [OpenTelemetry](https://opentelemetry.io/)
   * [Why (and how) GitHub is adopting OpenTelemetry | The GitHub Blog](https://github.blog/2021-05-26-why-and-how-github-is-adopting-opentelemetry/)
 * [opstrace: Secure observability, deployed in your own network. An open source alternative to SaaS solutions like datadog, signalfx...](https://github.com/opstrace/opstrace)
@@ -2347,6 +2356,7 @@ Programming
 * [MIT OPEN COURSEWARE](http://ocw.mit.edu/index.htm)
 * [nand2tetris](https://www.nand2tetris.org/)
 * [NovoEd delivers effective and engaging online training with our social learning platform](https://novoed.com/)
+* [Online-Computer-Science-Degree: Open-Source Computer Science Degree](https://github.com/eeeear/Online-Computer-Science-Degree)
 * [Open Logic Project – Open Source, Customizable, Advanced Logic Text](https://openlogicproject.org/)
   * [Open Logic Project Builds](http://builds.openlogicproject.org/)
 * [Open Source Society University - Path to a free self-taught education in Computer Science!](https://github.com/open-source-society/computer-science)
@@ -2432,7 +2442,12 @@ Programming
 * [개발자를 위한 동형암호 ML. 정승우 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=Cc22oYDf228)
 * [보안인들의 유쾌한 모임! Becks KR 온라인 밋업에 참가했습니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/line-becks-kr-1/)
 * [가명정보 결합방식](https://itpenote.tistory.com/700)
+* [Is Grammarly a Keylogger? What Can You Do About It? · Kolide](https://www.kolide.com/blog/is-grammarly-a-keylogger-what-can-you-do-about-it)
+* [Security | Fleet handbook](https://fleetdm.com/handbook/security)
+* [HTB - DevOops](https://kaizoku.dev/htb-devoops) walk through the methodology that leads to root shell
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
+* Checks [Compliance Intelligence | Checks](https://checks.area120.google.com/)
+  * [구글, 개발자용 개인정보 보호 플랫폼 '첵스' 출시 - CIO Korea](https://www.ciokorea.com/news/226779)
 * Counterfit [이슈 AI 알고리즘이 '강력하고 신뢰할 수 있는지' 공격... 사전 보안 평가 도구, MS '카운터핏(Counterfit)' 오픈 소스로 공개](http://www.aitimes.kr/news/articleView.html?idxno=20936)
 * [the_cyber_plumbers_handbook: Free copy of The Cyber Plumber's Handbook](https://github.com/opsdisk/the_cyber_plumbers_handbook)
 * [Etebase - Your end-to-end encrypted backend](https://www.etebase.com)
@@ -2567,6 +2582,7 @@ Programming
 * [Learning DevOps in 2022 | Thomas Stringer](https://trstringer.com/devops-learning-2022/)
 * [Expert Talk: DevOps & Software Architecture • Simon Brown, Dave Farley & Hannes Lowette • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Qv92qaIGbDg)
 * [DevOps Basics | Review N Prep](https://reviewnprep.com/blog/devops-basics/)
+* [데브옵스 파이프라인이 공격을 받는 이유와 대처 방안 - ITWorld Korea](https://www.itworld.co.kr/news/226964)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
@@ -2865,6 +2881,8 @@ Programming
 * [Finally understanding PNG | Compress-Or-Die](https://compress-or-die.com/Understanding-PNG)
 * [Boosting image processing performance, from ImageMagick to Libvips | by Dimitri Bouron | Criteo R&D Blog | Medium](https://medium.com/criteo-engineering/boosting-image-processing-performance-from-imagemagick-to-libvips-268cc3451d55)
 * [Why Your Website Should Not Use Dithered Images - Simple Thread](https://www.simplethread.com/why-your-website-should-not-use-dithered-images/)
+* [The Fastest GIF Does Not Exist](https://www.biphelps.com/blog/The-Fastest-GIF-Does-Not-Exist)
+  * [가장 빠른 GIF는 존재하지 않음 | GeekNews](https://news.hada.io/topic?id=6031)
 * [iconvg: IconVG is a compact, binary format for simple vector graphics: icons, logos, glyphs and emoji](https://github.com/google/iconvg)
 * [ImageMagick – Convert, Edit, or Compose Digital Images](https://imagemagick.org/script/index.php)
   * [My favorite Linux commands for optimizing web images | Opensource.com](https://opensource.com/article/21/12/optimize-web-images-linux)
@@ -3759,6 +3777,7 @@ Programming
 * [An open source developer's guide to 12-Factor App methodology | Opensource.com](https://opensource.com/article/21/11/open-source-12-factor-app-methodology)
 * [Best Practice Tips for Efficient Software Development - YouTube](https://www.youtube.com/watch?v=JtVzWKvqs-c)
 * [루비콘 프로젝트 (랠릿 오픈 프로젝트) 소감](https://jojoldu.tistory.com/640)
+* [소프트웨어는 녹이 슨다 — 洪民憙 블로그](https://blog.hongminhee.org/2014/04/13/82482810330/)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
