@@ -4,6 +4,7 @@ Business
 * [위대한 제품의 6가지 속성](http://www.venturesquare.net/577006)
 * [위대한 제품의 특성](http://www.andrewahn.co/product/great-products/)
 * [Don't sell a product, sell an experience. And give everything else away for free](http://hauser.io/dont-sell-a-product-sell-an-experience-and-give-everything-else-away-for-free/)
+* [Agile Otter Blog: Maximize Value, not Quantity](http://agileotter.blogspot.com/2022/02/maximize-value-not-quantity.html)
 * [Known vs Unknown Product Framework | by Gustavo Guiomar | Medium](https://guguiomar.medium.com/known-vs-unknown-framework-5808cb66f219)
 * [직장에서의 갈등을 극복하는 지혜로운 원칙들](http://www.venturesquare.net/578558)
 * [샤오미가 선택한 ‘미스핏’ 소니 부 대표의 6가지 말말말](http://besuccess.com/2014/12/sonny-vu/)
@@ -239,6 +240,7 @@ Business
 * [The Art of Debating: A Useful Skill for Software Developers](https://thevaluable.dev/guide-debate-software-developer-skill/)
 * [프로젝트 관리에 대한 이야기 한 조각](http://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS1935242228) 정보 공유에 대한 이야기
 * [7. 사공끼리 정보를 공유하지 않으면 배가 산으로 간다](https://brunch.co.kr/@svillustrated/82)
+* [Effective Teams Don’t Keep Secrets - Adam Thomas](https://www.theadamthomas.com/effective-teams-dont-keep-secrets/) 조직관리, 신뢰, secret X, privacy O
 * [구글, 애플, 아마존의 회의 운영 노하우](https://hbrforum.org/2017/07/22/%EA%B5%AC%EA%B8%80-%EC%95%A0%ED%94%8C-%EC%95%84%EB%A7%88%EC%A1%B4%EC%9D%98-%ED%9A%8C%EC%9D%98-%EC%9A%B4%EC%98%81-%EB%85%B8%ED%95%98%EC%9A%B0/)
 * [회의 정리의 기술](https://brunch.co.kr/@lunarshore/354) wrap up, 기록, email, 매일 논의
 * [**실리콘밸리 탑 클래스와 함께 일해보며**](https://brunch.co.kr/@iamzenon/26) 효율적인 회의
@@ -860,6 +862,7 @@ Business
 * [의사결정을 잘 ‘받는’ 사람들의 특징 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250859) followship
 * [Average Manager vs. Great Manager | by Julie Zhuo | The Year of the Looking Glass | Medium](https://medium.com/the-year-of-the-looking-glass/average-manager-vs-great-manager-cf8a2e30907d) 간단한 만화로 상황에 따른 더 나은 manager의 모습을 보여줌
 * [대지진에도 멀쩡했던 후쿠시마 제 2 원전... 비결은 원전 소장의 리더십에 있었다│인터비즈 : 네이버 블로그](https://m.blog.naver.com/businessinsight/221397693111) 정보공유, 신뢰
+* [‘첫 단추 잘 꿰기’ 신임 CIO를 위한 팀 내 신뢰 구축 ABC - CIO Korea](https://www.ciokorea.com/news/227679)
 * [리더십 경멸받는 리더의 5가지 특징](http://moneyman.kr/archives/1308)
 * [**What Makes an Effective Executive**](https://hbr.org/2004/06/what-makes-an-effective-executive)
   * [번역 What Makes an Effective Executive](https://www.linkedin.com/posts/jayden-kang_what-makes-an-effective-executive-activity-6898080373327179776-wkm8)
