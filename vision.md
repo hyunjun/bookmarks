@@ -422,6 +422,7 @@ Vision
   * [샤피라이브 2편: WebRTC 정복하기 (Flutter 개발자의WebRTC 개발담) :: GS Retail Engineering](https://gsretail.tistory.com/14)
   * [WebRTC? WebSockets? 5분 개념정리! - YouTube](https://www.youtube.com/watch?v=5EhsjtBE7I4)
   * [How does Discord scale to 5 million concurrent users ?? | by Sukhad Anand | Medium](https://sukhadanand.medium.com/how-does-discord-scale-to-5-million-concurrent-users-ed0874063fd)
+  * IPFS [A guide to IPFS connectivity in web browsers | IPFS Blog & News](https://blog.ipfs.io/2021-06-10-guide-to-ipfs-connectivity-in-browsers/)
   * [pear: WebRTC Library for IoT/Embedded Device using C](https://github.com/sepfy/pear)
   * [webrtcH4cKS: ~ Open Source Cloud Gaming with WebRTC](https://webrtchacks.com/open-source-cloud-gaming-with-webrtc/)
 * [Webtoon AI Painter](https://ai.webtoons.com/painter)
