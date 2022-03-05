@@ -553,6 +553,7 @@ Machine Learning
 * [Feature Store - why?](https://velog.io/@hsh/Feature-Store-why)
 * [Feature store - 핵심 개념](https://velog.io/@hsh/Feature-store-%ED%95%B5%EC%8B%AC-%EA%B0%9C%EB%85%90)
 * [Feature store - Basic Architecture](https://velog.io/@hsh/Feature-store-Basic-Architecture)
+* [Data Feast — A Highly Scalable Feature Store at Dream11 | by Dream11 Engineering | Feb, 2022 | Dream11 Engineering](https://blog.dream11engineering.com/data-feast-a-highly-scalable-feature-store-at-dream11-69b8ed5289fd)
 * [Feature Crossing](https://bcho.tistory.com/1385)
 * [Interpretable Machine Learning with XGBoost](https://towardsdatascience.com/interpretable-machine-learning-with-xgboost-9ec80d148d27)
   * 기계학습 모델은 통계적 모델에 비해 예측력은 높으나 설명력이 떨어진다는 비판
