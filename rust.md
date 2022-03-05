@@ -144,6 +144,7 @@
 * [Could Rust be the Future of JavaScript Infrastructure](https://www.femar.co.ke/2022/01/rustjs.html)
 * [Rust OpenAI Integration (GPT-3) - YouTube](https://www.youtube.com/watch?v=5WhJQMnJjik)
 * [13 easy Rust tips (code review) - YouTube](https://www.youtube.com/watch?v=w_LUixO3tpU)
+* [Anatomy of a Terminal Emulator :: poor.dev](https://poor.dev/blog/terminal-anatomy/)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
@@ -195,8 +196,12 @@
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)
 * [deuterium-orm - Fully typed SQL query builder for Rust](https://github.com/deuterium-orm/deuterium)
 * [difftastic: a syntax-aware diff](https://github.com/wilfred/difftastic)
+* [Drifting in Space](https://driftingin.space/)
+  * [spawner: Session-lived containers for advanced browser-based applications](https://github.com/drifting-in-space/spawner)
 * [druid - Rust](https://docs.rs/druid/)
   * [So you want to write a GUI framework](https://www.cmyr.net/blog/gui-framework-ingredients.html)
+* [egrikor: A Rust GUI Library](https://github.com/lasernoises/egrikor)
+  * [Building a GUI Library in Rust - YouTube](https://www.youtube.com/watch?v=sDLrNAB7neY)
 * [Encoder and decoder for HTTP chunked transfer coding (RFC 7230 § 4.1) https://crates.io/crates/chunked_transfer](https://github.com/frewsxcv/rust-chunked-transfer)
 * [glium library - safe openGL in rust](https://medium.com/@tomaka/the-glium-library-5be149d87dc1)
 * [Glommio - A Thread-per-Core Crate for Rust & Linux | Datadog](https://www.datadoghq.com/blog/engineering/introducing-glommio/)
@@ -317,6 +322,7 @@
 * [idiomatic-rust - A peer-reviewed collection of articles/talks/repos which teach concise, idiomatic Rust](https://github.com/mre/idiomatic-rust)
 * [Rust RPG: Introductory Tutorial of Rust, Unit Testing, and Continuous Integration with a Roguelike](https://medium.com/@cameron.manavian/rust-rpg-introductory-tutorial-of-rust-unit-testing-and-continuous-integration-with-a-roguelike-b7b86e90855c)
 * [Introduction to Rust for Node Developers - DEV](https://dev.to/tindleaj/introduction-to-rust-for-node-developers-3j05)
+  * [Node 개발자를 위한 Rust 가이드 | GeekNews](https://news.hada.io/topic?id=2338)
 * [Rust — Getting Started With The Most Loved Programming Language | by Manish M. Shivanandhan | Manish Shivanandhan | Aug, 2020 | Medium](https://medium.com/manishmshiva/rust-getting-started-with-the-most-loved-programming-language-2234d1ec967f)
 * [Thought you loved Python? Wait until you meet Rust | by Rhea Moutafis | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/thought-you-loved-python-wait-until-you-meet-rust-64a06d976ce)
 * [Wiki - RustStarterKit2020](https://wiki.alopex.li/RustStarterKit2020)
@@ -345,6 +351,8 @@
 * [Rust 공부하기 - YouTube](https://www.youtube.com/playlist?list=PLdvEO-IMMcPvfiBkVwgIwDf4AuTjI2aeG)
 * [Rust — The Programming Language that Delivers - YouTube](https://www.youtube.com/watch?v=VnLd0ZLQvog)
 * [Rust 101 Lecture Series - YouTube](https://www.youtube.com/playlist?list=PL-zQguBgjr2O4d-B9g_b0WYh1fyXr6MMq)
+* [node-to-rust](https://github.com/vinodotdev/node-to-rust)
+  * [Javascript to Rust e북(PDF) | GeekNews](https://news.hada.io/topic?id=6068)
 * [rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
   * 버그 수정하며 Rust 언어 배우기
   * 에러가 있는 코드를 수정하면서 Rust를 읽고 쓰는법 배우기
