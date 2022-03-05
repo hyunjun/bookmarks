@@ -303,6 +303,7 @@ SQL
 * [**sq: swiss-army knife for data**](https://sq.io/) jq for relational data
   * [SQ - swiss-army knife for data | GeekNews](https://news.hada.io/topic?id=3841)
 * [sqitch: Sensible database change management](https://github.com/sqitchers/sqitch)
+* [sqldef: Idempotent schema management for MySQL, PostgreSQL, and more](https://github.com/k0kubun/sqldef)
 * [sqlfluff](https://www.sqlfluff.com/) The SQL Linter for humans
 * [SQLPad - A web app for writing and running SQL queries and visualizing the results. Supports Postgres, MySQL, SQL Server, ClickHouse, Crate, Vertica, Presto, SAP HANA, Snowflake, BigQuery, SQLite, and many others via ODBC](https://rickbergfalk.github.io/sqlpad/#/)
 * [SQL Translation - Translate your SQL from one dialect to another](https://www.jooq.org/translate/)
@@ -910,6 +911,8 @@ SQL
 * [Slow Query 문제](https://bumbum.oopy.io/c459acf8-6ed8-43d0-9c14-655d3988b437)
 * [The Internals of PostgreSQL : Introduction](https://www.interdb.jp/pg/)
 * [How Postgres Stores Rows - Ketan Singh](https://ketansingh.me/posts/how-postgres-stores-rows/)
+* [blog.md](https://gist.github.com/jcoleman/1e6ad1bf8de454c166da94b67537758b)
+  * Transactional DDL, Locking, Table Operations, Column Operations, Index Operations, Constraints, Enum Types, Bonus: Library for Ruby on Rails
 * EdgeDB
   * [EdgeDB—The next generation database](https://edgedb.com/)
   * [We Can Do Better Than SQL](https://edgedb.com/blog/we-can-do-better-than-sql/)
@@ -934,6 +937,7 @@ SQL
   * [Beyond REST: Rapid Development With GraphQL Microservices | Netflix TechBlog](https://netflixtechblog.com/beyond-rest-1b76f7c20ef6)
 * [GraphpostgresQL](https://github.com/solidsnack/GraphpostgresQL)
 * [Home - Full text search in milliseconds with PostgreSQL](https://blog.lateral.io/2015/05/full-text-search-in-milliseconds-with-postgresql/)
+* [Hydra / Query Postgres, Route to any Database](https://hydras.io/)
 * [Kexi - an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker](http://www.kexi-project.org/)
 * [krahodb: An open-source database designed to support multi-master replication. It is designed on the top of PostgreSQL, providing bidirectional replication, as well as row filtering](https://github.com/timbira/krahodb)
 * [Message DB - Microservice Native Event Store and Message Store for Postgres](https://github.com/message-db/message-db)
@@ -941,6 +945,7 @@ SQL
 * [meteor-pg - Reactive PostgreSQL for Meteor](https://github.com/numtel/meteor-pg)
 * [odyssey: Scalable PostgreSQL connection pooler](https://github.com/yandex/odyssey)
 * [Ora2Pg : Migrates Oracle to PostgreSQL](https://www.ora2pg.com/)
+* [orioledb: OrioleDB – building a modern cloud-native storage engine (... and solving some PostgreSQL wicked problems)  🇺🇦](https://github.com/orioledb/orioledb)
 * [postgrest: REST API for any Postgres database](https://github.com/PostgREST/postgrest)
   * [PostgREST Documentation — PostgREST 9.0.0 documentation](https://postgrest.org/)
   * [backend.sql + frontend.js =♥ - Polyglot.Network Blog](https://blog.polyglot.network/backend.sql-+-frontend.js-love)
@@ -1101,6 +1106,7 @@ SQL
 * [MySQL을 SQLite로 변경 - 신현석(Hyeonseok Shin)](https://hyeonseok.com/blog/884)
 * [Wesley Aptekar-Cassels | Consider SQLite](https://blog.wesleyac.com/posts/consider-sqlite)
 * [Store SQLite in Cloudflare Durable Objects - Markus Ast](https://ma.rkusa.st/store-sqlite-in-cloudflare-durable-objects)
+* [JSON improvements in SQLite 3.38.0](https://tirkarthi.github.io/programming/2022/02/26/sqlite-json-improvements.html)
 * [absurd-sql: sqlite3 in ur indexeddb (hopefully a better backend soon)](https://github.com/jlongster/absurd-sql)
 * [dbench: An unscientific benchmark of SQLite vs the file system (btrfs)](https://github.com/chrisdavies/dbench)
 * [edge-sql - A serverless edge worker embedding SQLite using Cloudflare Workers and WASM](https://sql.lspgn.workers.dev/)
