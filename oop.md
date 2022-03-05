@@ -179,8 +179,13 @@
 * [Printf("%s %s", dependency, injection). | Fredrik Holmqvist](https://www.fredrikholmqvist.com/posts/print-dependency-injection/)
 * [.NET6 Dependency Injection — One Interface, Multiple Implementations | by Bernardo Teixeira | Geek Culture | Nov, 2021 | Medium](https://medium.com/geekculture/net6-dependency-injection-one-interface-multiple-implementations-983d490e5014)
 * [Dependency Inversion Principle of SOLID | DIP - Tech Point Fundamentals](https://www.techpointfunda.com/2021/10/dependency-inversion-principle.html)
+* [DI-Container](https://github.com/YJ-AnthonyJo/DI-Container)
+  * [객체지향 - DI Container 구현 및 분석 :: 꿈꾸는 사람의 블로그](https://pmandocom.tistory.com/103)
 
 ## Dependency Injection Python
+* [Python Dependency Injection](https://www.hides.kr/1053)
+  * [Python Pure Dependency Injection Decorator](https://github.com/teamhide/dependency_injection)
+* [**Stop Using datetime.now!**](https://hakibenita.com/python-dependency-injection) datetime을 어떻게 테스트할 지로 시작해 DI에 대한 구체적인 설명으로 이어짐. 매우 좋은 글
 * [Dependency Injector — Dependency injection microframework for Python](http://python-dependency-injector.ets-labs.org/)
 * [pythondi - Python lightweight dependency injection library](https://github.com/teamhide/pythondi)
   * [**파이썬 오픈소스 라이브러리 개발기**](https://hides.tistory.com/1056)
@@ -307,9 +312,6 @@
 * [Python Tutorial: Duck Typing and Asking Forgiveness, Not Permission (EAFP)](https://www.youtube.com/watch?v=x3v9zMX1s4s)
 * [Sebastian Buczyński - Why you don't need design patterns in Python?](https://www.youtube.com/watch?v=G5OeYHCJuv0)
 * [믹스인 유틸리티 클래스에만 다중 상속을 사용](https://brownbears.tistory.com/149)
-* [Python Dependency Injection](https://www.hides.kr/1053)
-  * [Python Pure Dependency Injection Decorator](https://github.com/teamhide/dependency_injection)
-* [**Stop Using datetime.now!**](https://hakibenita.com/python-dependency-injection) datetime을 어떻게 테스트할 지로 시작해 DI에 대한 구체적인 설명으로 이어짐. 매우 좋은 글
 * [The Most Elegant Python Object-Oriented Programming | by Christopher Tao | Jul, 2020 | Towards Data Science](https://towardsdatascience.com/the-most-elegant-python-object-oriented-programming-b38d75f4ae7b)
 * [Object Oriented Programming (OOP) in Python - YouTube](https://www.youtube.com/watch?v=MikphENIrOo)
 * [Writing A Simple Factory Method In Python | by Tate Galbraith | Level Up Coding](https://levelup.gitconnected.com/writing-a-simple-factory-method-in-python-6e48145d03a)
