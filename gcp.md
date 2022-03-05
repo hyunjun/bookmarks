@@ -141,6 +141,7 @@ Google Cloud Platform GCP
   * [구글 AppEngine 자바 런타임 오픈소스로 공개 | GeekNews](https://news.hada.io/topic?id=5855)
 * [Google's Managed Continuous Delivery Service for Kubernetes Moves to GA](https://www.infoq.com/news/2022/02/google-cloud-deploy/)
 * [How do I create a VPN tunnel between GCP and Azure? - YouTube](https://www.youtube.com/watch?v=4_LqPRRzX4w)
+* [Using Session Mode in BigQuery. How to use the new Feature in Google… | by Christianlauer | Mar, 2022 | Medium](https://christianlauer90.medium.com/using-session-mode-in-bigquery-f17709fe696b)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
