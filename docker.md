@@ -1220,6 +1220,7 @@ Docker
 * [Will That Kubernetes v1.22 Upgrade Break My Application? | by Sachin Agarwal | Feb, 2022 | Run X](https://blog.runx.dev/will-that-kubernetes-v1-22-upgrade-break-my-application-cc339dc2e2c7)
 * [How to Make the Most of Kubernetes Environment Variables – The New Stack](https://thenewstack.io/how-to-make-the-most-of-kubernetes-environment-variables/)
 * [How backup and restore works in kubernetes with velero - YouTube](https://www.youtube.com/watch?v=UdHP2ewBJNY)
+* [Kubernetes Documentary Part 1: A Critical Review | Cloud Critical](https://www.cloudcritical.org/article/kubernetes-documentary-part-1/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1423,6 +1424,7 @@ Docker
   * [How to Use Own Local Docker Images With Minikube | by Bhargav Bachina | BB Tutorials & Thoughts | Medium](https://medium.com/bb-tutorials-and-thoughts/how-to-use-own-local-doker-images-with-minikube-2c1ed0b0968)
   * [How To Run NodeJS API on Minikube | by Bhargav Bachina | Bachina Labs | Medium](https://medium.com/bb-tutorials-and-thoughts/how-to-run-nodejs-api-on-local-kubernetes-a9e61274be22)
   * [**minikube로 docker와 docker-compose를 대체하기**](https://novemberde.github.io/docker/2021/09/02/podman-minikube.html) docker 유료화에 맞춘 시의적절한 글
+* [mirrord: mirrord lets you easily mirror traffic from your production environment to your development environment](https://github.com/metalbear-co/mirrord)
 * [network-node-manager: network-node-manager is a kubernetes controller that controls the network configuration of a node to resolve network issues of kubernetes](https://github.com/kakao/network-node-manager)
   * [Kubernetes의 네트워크 이슈를 해결할 수 있는 network-node-manager – tech.kakao.com](https://tech.kakao.com/2021/03/03/network-node-manager/)
 * [node-feature-discovery: Node feature discovery for Kubernetes](https://github.com/kubernetes-sigs/node-feature-discovery)
@@ -1604,6 +1606,7 @@ Docker
 * [How Docker broke in half | InfoWorld](https://www.infoworld.com/article/3632142/how-docker-broke-in-half.html)
 * [유료화 정책 단행이 예정된 Windows용 도커 데스크톱을 대체할 수 있는 방법을 알아봅니다. | WSLHUB](https://blog.wslhub.com/%EC%9C%A0%EB%A3%8C%EB%A1%9C-%EC%A0%84%ED%99%98%EB%90%98%EB%8A%94-%EB%8F%84%EC%BB%A4-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%86%B1-%EB%8C%80%EC%95%88-%EC%B0%BE%EA%B8%B0-%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%82%AC%EC%9A%A9%EC%9E%90-74f1a261eb32)
 * [Top Docker alternatives for 2022 - LogRocket Blog](https://blog.logrocket.com/top-docker-alternatives-2022/)
+* [LXC vs Docker: Which Container Platform Is Right for You? - Earthly Blog](https://earthly.dev/blog/lxc-vs-docker/)
 * [Capsule Shield: A Docker Alternative Tailor-Made for the JVM](http://blog.paralleluniverse.co/2015/10/08/container-capsules/)
 * [containerd: An open and reliable container runtime](https://github.com/containerd/containerd)
   * [containerd-the-hard-way](https://github.com/JeongsikKang/containerd-the-hard-way)
