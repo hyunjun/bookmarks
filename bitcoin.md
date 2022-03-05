@@ -61,6 +61,7 @@ Bitcoin
 * [The Complete Guide to Full Stack Solana Development with React, Anchor, Rust, and Phantom - DEV Community](https://dev.to/dabit3/the-complete-guide-to-full-stack-solana-development-with-react-anchor-rust-and-phantom-3291)
 * [DSHR's Blog: EE380 Talk](https://blog.dshr.org/2022/02/ee380-talk.html)
 * [How to Design A Real-time CryptoCurrency Price Alert Backend | by Jerry An | Feb, 2022 | Medium](https://jerryan.medium.com/how-to-design-a-real-time-cryptocurrency-price-alert-backend-470f6245a7cd)
+* [I was wrong, we need crypto | GeekNews](https://news.hada.io/topic?id=6024)
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
@@ -192,6 +193,7 @@ Bitcoin
 * [fe: Emerging smart contract language for the Ethereum blockchain](https://github.com/ethereum/fe)
 * [PublicVotes - A publicly verifiable Voting System, powered by Smart Contracts](http://publicvotes.org/)
 * [truffle을 이용하여 스마트 컨트랙트 개발하기](https://blog.naver.com/pjt3591oo/222580257471)
+* [가스비가 높아도 유저들이 이더리움으로 몰리는 이유 - CoinDesk Korea 신뢰 그 이상의 가치](http://www.coindeskkorea.com/news/articleView.html?idxno=77766)
 * [toolbox - etherscripter](http://etherscripter.com/0-5-1/)
 * [vyper - Pythonic Smart Contract Language for the EVM](https://github.com/ethereum/vyper)
   * [Ethereum ditching Solidity for Vyper?(이더리움은 바이퍼 때문에 솔리디티를 버렸나?)](https://medium.com/@elastic7327/ethereum-ditching-solidity-for-vyper-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80%EC%9D%80-%EB%B0%94%EC%9D%B4%ED%8D%BC-%EB%95%8C%EB%AC%B8%EC%97%90-%EC%86%94%EB%A6%AC%EB%94%94%ED%8B%B0%EB%A5%BC-%EB%B2%84%EB%A0%B8%EB%82%98-a47434e02d56)
