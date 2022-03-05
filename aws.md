@@ -632,6 +632,7 @@ AWS
   * [Amazon Web Services (AWS)](https://www.youtube.com/playlist?list=PLuHgQVnccGMC5AYnBg8ffg5utOLwEj4fZ)
   * [아마존 웹서비스와 클라우드](https://opentutorials.org/course/2717/11268)
 * [10 fun hands-on projects to learn AWS | A Cloud Guru](https://acloudguru.com/blog/engineering/10-fun-hands-on-projects-to-learn-aws)
+* [Amazon.com: 교육용 강좌](https://www.amazon.com/b/?node=14297978011)
 * [AWS Cloud Practitioner Training | AWS Cloud Practitioner Essentials | AWS Full Course | Simplillearn - YouTube](https://www.youtube.com/watch?v=35JSBXkjuhk)
 * [AWS Full Course 2022 | AWS Tutorial For Beginners 2022 | AWS Training For Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=ZB5ONbD_SMY)
 * [AWS Severless IoT 1 – 개발 계획](http://webframeworks.kr/tutorials/weplanet/1plan/)
