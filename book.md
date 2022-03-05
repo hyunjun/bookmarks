@@ -278,7 +278,7 @@ Book
   * 탐라 개609.2-진76ㅅ
   * 한라 609.2-진76ㅈ
 * (NOT YET) [남무성 ‘Paint It Rock’ 시리즈](http://www.mediatoday.co.kr/?mod=news&act=articleView&idxno=120951)
-  * 한라 673.5309-남36ㅍ 1권
+  * 한라 673.5309-남36ㅍ 1권, 우당
 
 # Baby
 * [아들은 아빠가 키워라](https://jh4hj.tistory.com/entry/%EC%95%84%EB%93%A4%EC%9D%80-%EC%95%84%EB%B9%A0%EA%B0%80-%ED%82%A4%EC%9B%8C%EB%9D%BC)

@@ -1516,7 +1516,6 @@ Programming Books
   * 2018.01
   * 한라 325.21 장44ㅅ
   * 간단히 살펴봐서 정확히는 모르겠지만, '창업자와 스타트업 구성원의 가족이 자주 하는 질문' 부분만 봐도 꽤 괜찮은 책이라는 생각이 든다. 현실적으로 자주 할 법한 질문들을 현실적으로 답변
-* [엔지니어링 매니저 필독 도서&아티클](https://welcome.publy.co/em-books-and-articles/)
 * [엔지니어링 매니저가 꼭 읽어야 할 도서&아티클](https://blog.careerly.co.kr/engineering-reading/)
 * ["맨먼스미신" 서평](https://www.popit.kr/%EB%A7%A8%EB%A8%BC%EC%8A%A4%EB%AF%B8%EC%8B%A0-%EC%84%9C%ED%8F%89)
   * 한라
@@ -1621,6 +1620,8 @@ Programming Books
   * 한라
 * (NOT YET) 프로젝트가 서쪽으로 간 까닭은?
   * 한라
+* (NOT YET) 원온원 일 잘하는 팀장의 대화력
+  * 우당
 
 # Math
 
