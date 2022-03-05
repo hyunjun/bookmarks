@@ -680,6 +680,7 @@ Apache
 * [Apache Kafka in the Automotive Industry - YouTube](https://www.youtube.com/watch?v=rBfBFrcO-WU)
 * [Kafka Tutorial - Spring Boot Microservices - YouTube](https://www.youtube.com/watch?v=SqVfCyfCJqw)
 * [Top 5 Courses to Crack Confluent Apache Kafka Developer Certification (CCDAK) in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/12/top-5-courses-to-crack-apache-kafka-developer-certification-CCDAK.html)
+* [‘아파치 카프카’, 개념부터 사용례까지 - CIO Korea](https://www.ciokorea.com/news/227469)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
