@@ -896,6 +896,7 @@ R
   * [데이터 시각화 with ggplot2 핵심 튜토리얼 - YouTube](https://www.youtube.com/playlist?list=PLKtLBdGREmMl_feHpXU-xS6BBJDrEWNQh)
 * [ggplotAssist](https://github.com/cardiomoon/ggplotAssist)
   * [RosePlot](https://github.com/cardiomoon/ggplotAssistFigures/blob/master/RosePlot.md)
+* ggside [#R | ggside package ...UPGRADE Visualization | #ggside #DataVisualization #RPackage - YouTube](https://www.youtube.com/watch?v=NpjdXhD0GEw)
 * latex2exp [R 그래프에 LaTex으로 수식을 넣어보자! - 꿀 R패키지 소개 (보너스 강의) - YouTube](https://www.youtube.com/watch?v=Gs3OUF6E0JE)
 * [moveVis provides tools to visualize movement data (e.g. from GPS tracking) and temporal changes of environmental data (e.g. from remote sensing) by creating video animations](http://movevis.org/)
 * [plotly를 사용한 반응형 그래프 그리기](https://issactoast.github.io/rprog2-plotly.html)
