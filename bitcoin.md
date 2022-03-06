@@ -236,6 +236,7 @@ Bitcoin
 * [Cool Cats NFT를 구축하면서 배운 것 | 요즘IT](https://yozm.wishket.com/magazine/detail/1196/%EC%9C%A0%ED%95%98%EB%A0%A4/)
   * [Cool Cats NFT를 구축하면서 배운 것 | GeekNews](https://news.hada.io/topic?id=5536)
 * [NFT 초보자를 위한 Super Urban People(SUP) 가이드 | by easyto.eth | Dec, 2021 | Medium](https://medium.com/@easyto/%EC%B4%88%EB%B3%B4%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-super-urban-people-sup-nft-%EA%B0%80%EC%9D%B4%EB%93%9C-21251b029a4c)
+* [좀비 테마 NFT, Cursed Urban Zombie 가이드 | by easyto.eth | Mar, 2022 | Medium](https://medium.com/@easyto/%EB%B3%B8%EA%B2%A9-%EC%A2%80%EB%B9%84-%EC%86%8C%EC%9E%AC%EC%9D%98-nft-cursed-urban-zombie-%EA%B0%80%EC%9D%B4%EB%93%9C-de858d0a3742)
 * [NFT가 궁금한 당신을 위한 꼼꼼 가이드 | GeekNews](https://news.hada.io/topic?id=5531)
 * [“NFT, 잘 모르겠지만 일단 한번 팔아 봤습니다.” | 요즘IT](https://yozm.wishket.com/magazine/detail/1229/)
 * [탈중앙 게임, 그리고 블록체인과 NFT — 洪民憙雜記](https://writings.hongminhee.org/2022/1/decentralized-game/)
