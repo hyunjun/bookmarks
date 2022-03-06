@@ -896,6 +896,7 @@ Java
 * [**Really Small Java Apps**](http://august.nagro.us/small-java.html) jlink, jpackage
 * [JVM Ecosystem Report 2018](https://snyk.io/blog/jvm-ecosystem-report-2018)
 * [How Memory Leaks Happen in a Java Application](https://stackify.com/memory-leaks-java/)
+* [Memory Leaks in Java | Issues Caused and How to Prevent | Example - YouTube](https://www.youtube.com/watch?v=1ksJpgk1HIc)
 * [Docker 안에 숨어 있는 Web application JMX profiling Tip](https://www.popit.kr/docker-jmx-profiling-tip/)
 * [**JVM Anatomy Quarks**](https://shipilev.net/jvm/anatomy-quarks/) 한 권의 책
 * [Why does my Java process consume more memory than Xmx?](https://plumbr.io/blog/memory-leaks/why-does-my-java-process-consume-more-memory-than-xmx)
