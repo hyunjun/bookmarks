@@ -211,6 +211,7 @@ App
 * [최고의 보안 메일, Dmail VS ProtonMail](http://ppss.kr/archives/54467)
 * [A hacker intercepted your Wi-Fi traffic and stole your contacts, passwords, and financial data. Here’s how](https://hackernoon.com/a-hacker-intercepted-your-wifi-traffic-stole-your-contacts-passwords-financial-data-heres-how-4fc0df9ff152) wifi 보안 관련 이야기
 * [“지갑도 지키고 개인정보도 지키는” 무료 보안 도구 4가지 - ITWorld Korea](https://www.itworld.co.kr/news/221799)
+* [How to hack a wifi-password - YouTube](https://www.youtube.com/watch?v=n4lx_aNRE3s)
 * aircrack-ng
   * [Hacking: Aircrack-ng on Mac OsX | Cracking wi-fi without kali in parallels](https://martinsjean256.wordpress.com/2018/02/12/hacking-aircrack-ng-on-mac-cracking-wi-fi-without-kali-in-parallels/)
   * [맥으로 WiFi 비밀번호 해킹하기](https://itselfstory.tistory.com/entry/%EB%A7%A5%EC%9C%BC%EB%A1%9C-WiFi-%EB%B9%84%EB%B0%80%EB%B2%88%ED%98%B8-%ED%95%B4%ED%82%B9%ED%95%98%EA%B8%B0)
@@ -386,6 +387,7 @@ App
   * [How I centralize and distribute my bookmarks | by Robin Glen | Jan, 2022 | Dev Genius](https://blog.devgenius.io/how-i-centralize-and-distribute-my-bookmarks-cc8b11bb7475)
 * [Bort - Keep your website bookmarks in sync on all your devices regardless of which browser you use](https://bort.io/)
 * [Memex - Bookmarking for the power users of the web](https://getmemex.com/)
+* pikurate [피큐레잇 | 지식 큐레이션 서비스](https://www.pikurate.com/)
 * [Pocket](https://getpocket.com/)
 * [Raindrop.io — All-in-one bookmark manager](https://raindrop.io/)
 * [web-clipper: For Notion,OneNote,Bear,Yuque,Joplin。Clip anything to anywhere](https://github.com/webclipper/web-clipper)
@@ -1579,6 +1581,10 @@ App
 * [WriteFreely](https://writefreely.org/)
 * [Yorkie](https://yorkie.dev/)
   * [Yorkie Team](https://github.com/yorkie-team)
+* zettelkasten
+  * [궁극의 노트 재활용 앱 - 창업 멤버 찾습니다!](https://tkim.oopy.io/)
+  * [세컨드 브레인 리소스](https://tkim.oopy.io/e9360a90-f44b-44e6-81fc-bc7e11f94d76)
+  * [세컨드 브레인 그룹 - YouTube](https://www.youtube.com/channel/UCrdIQzfs-OnnK24gEJq9S_g)
 
 ## Note Flashcard
 * [Anki - Powerful, intelligent flash cards. Remembering things just became much easier](https://apps.ankiweb.net/)
