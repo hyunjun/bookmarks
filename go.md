@@ -344,10 +344,13 @@ Go
   * [Practical Persistence in Go: SQL Databases](http://www.alexedwards.net/blog/practical-persistence-sql)
   * [Golang ORM, 무엇이 좋을까? · Billo Park](https://blog.billo.io/devposts/go_orm_recommandation/)
   * [Golang xORM 편리한 기능 소개 | Popit](https://www.popit.kr/golang-xorm-%ED%8E%B8%EB%A6%AC%ED%95%9C-%EA%B8%B0%EB%8A%A5-%EC%86%8C%EA%B0%9C/)
+  * [ent. An entity framework for Go](https://entgo.io/) ORM
+    * [ent: An entity framework for Go](https://github.com/ent/ent)
   * [GORM - The fantastic ORM library for Golang, aims to be developer friendly](https://gorm.io/)
     * [GORM 사용 시 주의할 점](https://bumbum.oopy.io/339a497f-ac96-4fd6-b5a5-d4937ce130a5)
     * [golang - 인 메모리 DB를 사용하여 RDB를 사용 하는 코드를 단위 테스트(Golang + Gorm를 예로) - jacking75](https://jacking75.github.io/go_unittest_gorm/)
     * [Gorm level UP: how to upgrade and start to use Gorm v2 | by Michael Ushakov | Feb, 2022 | Medium](https://m-ushakov.medium.com/gorm-level-up-how-to-upgrade-and-start-to-use-gorm-v2-d68920e64e55)
+  * [orm: A lightweight yet powerful ORM (Object-relation mapper) for Go projects](https://github.com/golobby/orm)
   * [ql · GitLab](https://gitlab.com/cznic/ql)
 * defer
   * [Go Defer Simplified with Practical Visuals](https://blog.learngoprogramming.com/golang-defer-simplified-77d3b2b817ff)
@@ -532,8 +535,6 @@ Go
   * [dqlite - Go 애플리케이션을 위한 분산 SQLite](http://jhrogue.blogspot.kr/2018/04/b-dqlite-go-sqlite.html)
 * [Elsa is a minimal, fast and secure runtime for Javascript and Typescript written in Go](https://github.com/elsaland/elsa)
 * [Encore - Go framework for building distributed systems](https://github.com/encoredev/encore)
-* [ent. An entity framework for Go](https://entgo.io/) ORM
-  * [ent: An entity framework for Go](https://github.com/ent/ent)
 * [eris provides a better way to handle, trace, and log errors in Go](https://github.com/rotisserie/eris)
 * [exposq - Go app that dispatches osquery to multi-machines](https://github.com/emirozer/exposq)
 * [Facebook Go](https://github.com/facebookgo)
