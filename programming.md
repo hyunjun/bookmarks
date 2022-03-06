@@ -2819,6 +2819,7 @@ Programming
   * [Idiomatic RabbitMQ • Gavin M. Roy • RabbitMQ Summit - YouTube](https://www.youtube.com/watch?v=fNbdgWe5Tbs)
   * [RabbitMQ Streams Overview | RabbitMQ - Blog](https://blog.rabbitmq.com/posts/2021/07/rabbitmq-streams-overview/)
     * [RabbitMQ Streams | GeekNews](https://news.hada.io/topic?id=4613)
+  * [NestJS + RabbitMQ를 활용한 효율적인 비동기 구현](https://velog.io/@hong-brother/NestJS-RabbitMQ%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%9C-%ED%9A%A8%EC%9C%A8%EC%A0%81%EC%9D%B8-%EB%B9%84%EB%8F%99%EA%B8%B0-%EA%B5%AC%ED%98%84)
   * [mio-java.tistory.com/category/개발/rabbitMq](https://mio-java.tistory.com/category/%EA%B0%9C%EB%B0%9C/rabbitMq)
 * [rq - Simple job queues for Python https://python-rq.org ](https://github.com/rq/rq)
 * [S-MQTTT, or: secure-MQTT-over-Traefik · Jurian Sluiman](https://jurian.slui.mn/posts/smqttt-or-secure-mqtt-over-traefik/)
