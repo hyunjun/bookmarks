@@ -42,6 +42,7 @@ Programming Books
   * [008. 지속 가능한 소프트웨어 개발 | LinkedIn](https://www.linkedin.com/pulse/008-%EC%A7%80%EC%86%8D-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
   * [독서광 실용주의 프로그래머 20주년 기념판](https://jhrogue.blogspot.com/2022/03/20.html)
     * 탐라
+    * [실용주의 프로그래머를 지향합니다. | LinkedIn](https://www.linkedin.com/pulse/011-%25EC%258B%25A4%25EC%259A%25A9%25EC%25A3%25BC%25EC%259D%2598-%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25A8%25B8%25EB%25A5%25BC-%25EC%25A7%2580%25ED%2596%25A5%25ED%2595%25A9%25EB%258B%2588%25EB%258B%25A4-%25ED%2598%2584%25EC%259E%25AC-%25EC%259D%25B4/)
 * [신화와 야망 Google](https://jh4hj.tistory.com/entry/%EC%8B%A0%ED%99%94%EC%99%80-%EC%95%BC%EB%A7%9D-Google)
   * 2009.11.26~27
 * [소프트웨어 산책](https://jh4hj.tistory.com/entry/%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EC%82%B0%EC%B1%85)
