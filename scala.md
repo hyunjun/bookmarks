@@ -651,6 +651,7 @@ Scala
 * [Composable Scala Matchers: Introduction | by Robin Hillyard | Jun, 2021 | Medium](https://scala-prof.medium.com/composable-scala-matchers-introduction-efd1c0fe0533)
 * [Fast number parsing in Scala](https://softwaremill.com/fast-number-parsing-in-scala/) `Try(value.toInt).toOption`
 * [An identifier, by any other name, … | by Robin Hillyard | Nov, 2021 | Medium](https://scala-prof.medium.com/an-identifier-by-any-other-name-c9c8f32b1477)
+* [Different ways to implement wrappers in Scala 2.x | Awethon's Page](https://awethon.github.io/posts/scala-wrappers/)
 * `:kind` or `:k`
   * `:kind [-v] List` `:kind [-v] String`
   * [:kind in scala repl](https://gist.github.com/folone/5261743)
