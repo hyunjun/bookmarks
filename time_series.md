@@ -169,3 +169,4 @@ Time Series
 * [Kats: Kats, a kit to analyze time series data, a lightweight, easy-to-use, generalizable, and extendable framework to perform time series analysis, from understanding the key statistics and characteristics, detecting change points and anomalies, to forecasting future trends.](https://github.com/facebookresearch/Kats)
 * [sktime: A unified framework for machine learning with time series](https://github.com/alan-turing-institute/sktime)
   * [sktime - A Unified Toolbox for ML with Time Series - Markus Löning | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=ODspi8-uWgo)
+  * [sktime - A Unified Toolbox for ML with Time Series - YouTube](https://www.youtube.com/watch?v=GbRfbXHXUKM)
