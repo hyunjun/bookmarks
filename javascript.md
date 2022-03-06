@@ -766,6 +766,8 @@ Javascript
 * [브라우저싱크 Error: ENOSPC: System limit for number of file watchers reached 에러 대처 | 웹으로 말하기](https://mytory.net/2022/01/27/error-enospc-system-limit-for-number-of-file-watchers-reached.html)
 * [How To Code Viral Wordle Game In JavaScript](https://www.codecademy.com/resources/blog/how-to-code-wordle-game-in-javascript/)
 * [웹에서 Sign In With Google 사용하기 - 이상선 - Medium](https://medium.com/@sunyi233/%EC%9B%B9%EC%97%90%EC%84%9C-sign-in-with-google-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-655ae0fe8ba9)
+* [**Reliably Send an HTTP Request as a User Leaves a Page | CSS-Tricks - CSS-Tricks**](https://css-tricks.com/send-an-http-request-on-page-exit/)
+  * [사용자가 페이지를 떠날 때 안정적으로 HTTP 요청을 보내는 방법 | GeekNews](https://news.hada.io/topic?id=6060)
 
 # API
 * [왜 JSON.parse로 객체를 선언하는 방법이 더 빠를까?](https://wormwlrm.github.io/2019/12/04/Why-JSON-parse-is-faster-than-object-literal.html)
@@ -1896,6 +1898,7 @@ Javascript
 * [socketcluster - Highly scalable realtime microframework http://socketcluster.io ](https://github.com/SocketCluster/socketcluster)
 * [Solid · Reactive Javascript Library](https://www.solidjs.com/)
   * [ReactJS vs SolidJS - YouTube](https://www.youtube.com/watch?v=ZR7tdZ51MQ8)
+  * [Solid.js feels like what I always wanted React to be | TypeOfNaN](https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/)
 * [Sparkplug — a non-optimizing JavaScript compiler · V8](https://v8.dev/blog/sparkplug)
 * [SpeckJS - Comment Driven Development](http://speckjs.github.io/)
 * [spectrum: Simple, powerful online communities](https://github.com/withspectrum/spectrum)

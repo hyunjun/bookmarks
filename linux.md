@@ -133,6 +133,7 @@ Linux
 * [Landing a new syscall, part 1: What is futex?](https://www.collabora.com/news-and-blog/blog/2022/02/08/landing-a-new-syscall-part-what-is-futex/)
 * [구글 클라우드 셸: 간편하게 리눅스 환경 마련하기](https://jhrogue.blogspot.com/2022/02/b.html) google cloud shell
 * [Linux's getrandom() Sees A 8450% Improvement With Latest Code - Phoronix](https://www.phoronix.com/scan.php?page=news_item&px=Linux-getrandom-8450p)
+* [Moving the kernel to modern C LWN.net](https://lwn.net/SubscriberLink/885941/01fdc39df2ecc25f/)
 
 # 배포판
 * [가벼운 리눅스 배포판 모음, 보디(Bodhi), 크런치뱅++, 퍼피리눅스 주분투 최소사양](http://startdownload.tistory.com/114)
@@ -968,6 +969,7 @@ Linux
 * [Designing Command Line Experiences](http://neovintage.org/product/design/2015/10/01/designing-command-line-experiences/)
 * [Command Line Interface Guidelines](https://clig.dev/)
   * [커맨드 라인 인터페이스 가이드라인 | GeekNews](https://news.hada.io/topic?id=3484)
+* [NO_COLOR: disabling ANSI color output in various Unix commands](https://no-color.org/)
 
 # GCC
 * `yum update -y && yum clean all && yum groupinstall "Development Tools" -y` [CentOS / RHEL 7: Install GCC (C and C++ Compiler) and Development Tools](http://www.cyberciti.biz/faq/centos-rhel-7-redhat-linux-install-gcc-compiler-development-tools/)
@@ -1108,6 +1110,7 @@ Linux
 * [Linuxbrew - a fork of Homebrew, the Mac OS package manager, for Linux](https://github.com/Linuxbrew/brew)
   * [Linuxbrew A fork of Homebrew for Linux](http://brew.sh/linuxbrew/)
   * [리눅스와 맥에서 홈브루를 이용해 패키지를 설치하는 방법 - ITWorld Korea](https://www.itworld.co.kr/news/212694)
+* Linux From Scratch [Welcome to Linux From Scratch!](https://linuxfromscratch.org/)
 * [loadlibrary - Porting Windows Dynamic Link Libraries to Linux](https://github.com/taviso/loadlibrary)
 * [Localtunnel ~ Expose yourself to the world](https://localtunnel.github.io/www/)
   * [localtunnel: expose yourself](https://github.com/localtunnel/localtunnel)

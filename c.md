@@ -209,7 +209,9 @@ C
 * [Ubuntu에 Clang 9 설치하기 : 네이버블로그](https://blog.naver.com/hikari1224/221742416148)
 * [cldoc - clang based documentation generator for C and C++](https://jessevdk.github.io/cldoc/index.html)
 * [include-what-you-use - A tool for use with clang to analyze #includes in C and C++ source files](https://include-what-you-use.org/)
-* [`zig cc`: a Powerful Drop-In Replacement for GCC/Clang](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html)
+* [Home ⚡ Zig Programming Language](https://ziglang.org/)
+  * [Using Zig As Cross Platform C Toolchain](https://ruoyusun.com/2022/02/27/zig-cc.html)
+  * [`zig cc`: a Powerful Drop-In Replacement for GCC/Clang](https://andrewkelley.me/post/zig-cc-powerful-drop-in-replacement-gcc-clang.html)
 
 # Debugging
 * [Source Maps are an Insufficient Debugging Format for the Web](http://fitzgeraldnick.com/weblog/62/)
@@ -505,6 +507,7 @@ C
 * [Mark Gritter's answer to Why are pointers so difficult to work with in C? - Quora](https://www.quora.com/Why-are-pointers-so-difficult-to-work-with-in-C/answer/Mark-Gritter)
 
 # Standard Library
+* [fork() is evil; vfork() is goodness; afork() would be better; clone() is stupid](https://gist.github.com/nicowilliams/a8a07b0fc75df05f684c23c18d7db234)
 * file
   * [C언어 파일포인터 \_fseeki64 (2GB 이상 대용량 파일 엑세스)](https://inadrawer.blogspot.com/2017/08/c-fseeki64-2gb.html)
 * gettimeofday [practice](https://github.com/hyunjun/practice/blob/master/c/test_gettimeofday.c)

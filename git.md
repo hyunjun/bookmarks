@@ -721,6 +721,7 @@ Git
   * [Github Pull Request시 Jest & Docker Test Code 수행하기](https://jojoldu.tistory.com/602)
   * [리멤버에서 Pull Request 편리하게 사용하는 법 - DRAMA&COMPANY](https://blog.dramancompany.com/2021/11/%eb%93%9c%eb%9d%bc%eb%a7%88%ec%95%a4%ec%bb%b4%ed%8d%bc%eb%8b%88%ec%97%90%ec%84%9c-pull-request-%ed%8e%b8%eb%a6%ac%ed%95%98%ea%b2%8c-%ec%82%ac%ec%9a%a9%ed%95%98%eb%8a%94-%eb%b2%95/)
   * [Git pull 전략 (default, --ff-only, --rebase)](https://sanghye.tistory.com/43)
+  * [Github 기능 미리 써보기 (Code Review시 디렉토리 미리보기)](https://jojoldu.tistory.com/641)
 * push
   * [How to resolve a GitHub error “push declined due to email privacy restrictions” when you try to push a change | by Bryant Jimin Son | Feb, 2021 | Medium](https://bryantson.medium.com/how-to-resolve-a-github-error-push-declined-due-to-email-privacy-restrictions-when-you-try-to-b748f6ca0bcd)
 * `rebase`
@@ -1038,6 +1039,7 @@ Git
 * [Hubaaa's GitHub Vacation Auto-Responder](https://github.com/rbabayoff/hubaaa-github-vacation-responder)
 * [hub helps you win at git. http://hub.github.com ](https://github.com/github/hub)
 * [isomorphic-git: A pure JavaScript implementation of git for node and browsers!](https://github.com/isomorphic-git/isomorphic-git)
+* [jj: A Git-compatible DVCS that is both simple and powerful](https://github.com/martinvonz/jj)
 * [joe - A .gitignore magician in your command line](https://github.com/karan/joe)
 * [lazygit: simple terminal UI for git commands](https://github.com/jesseduffield/lazygit)
 * [Magit! A Git Porcelain inside Emacs](https://magit.vc/)

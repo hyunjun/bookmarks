@@ -132,6 +132,8 @@ Network
   * dig 명령어를 사용할 때처럼 DNS 질의를 할 때 나오는 Question, Answer, Authority, Additional 섹션에 대해서도 이해하기 쉽게 설명
   * Question은 질의하는 부분이고 Answer는 해당 도메인의 IP 주소가 담겨있고 이 IP를 찾을 수 있는 네임 서버는 Authority에, 이 네임 서버들의 IP 주소는 Additional에 존재 
 * [New tool: Mess with DNS!](https://jvns.ca/blog/2021/12/15/mess-with-dns/)
+* [DNS leak test](https://dnsleaktest.com/what-is-a-dns-leak.html)
+* [Duck DNS - about](https://www.duckdns.org/about.jsp)
 * [MaraDNS - a small open-source DNS server](https://maradns.samiam.org/)
   * [MaraDNS - 서비스 테스트에 사용할 수 있는 간단한 Windows 용 DNS 서비스 | GeekNews](https://news.hada.io/topic?id=4001)
 
@@ -270,7 +272,6 @@ Network
 * [HSTS — N26 hardcoded in your browser](https://mag.n26.com/hsts-n26-hardcoded-in-your-browser-fb2af97ed839)
 * IPVoid [IP Address Tools, Network Tools, DNS Tools | IPVoid](https://www.ipvoid.com/)
 * [masscan: TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
-* [mitmproxy로 iOS 기기의 네트워크 트래픽 살펴보기 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1514)
 * [Moloch - Full Packet Capture Large scale, open source, indexed packet capture and search](https://molo.ch/)
 * [Nebula - a scalable overlay networking tool with a focus on performance, simplicity and security](https://github.com/slackhq/nebula)
   * [Introducing Nebula, the open source global overlay network from Slack](https://slack.engineering/introducing-nebula-the-open-source-global-overlay-network-from-slack-884110a5579)
@@ -286,7 +287,6 @@ Network
 * [SharkFest 2014 - Packet Analysis and Visualization with SteelScript](https://support.riverbed.com/apis/steelscript/SharkFest2014.slides.html)
 * [teler: Real-time HTTP Intrusion Detection](https://github.com/kitabisa/teler)
 * [TinyCheck: TinyCheck allows you to easily capture network communications from a smartphone or any device which can be associated to a Wi-Fi access point in order to quickly analyze them. This can be used to check if any suspect or malicious communication is outgoing from a smartphone, by using heuristics or specific Indicators of Compromise (IoCs). In order to make it working, you need a computer with a Debian-like operating system and two Wi-Fi interfaces. The best choice is to use a Raspberry Pi (2+) a Wi-Fi dongle and a small touch screen. This tiny configuration (for less than $50) allows you to tap any Wi-Fi device, anywhere](https://github.com/KasperskyLab/TinyCheck)
-* [toxiproxy: A TCP proxy to simulate network and system conditions for chaos and resiliency testing](https://github.com/Shopify/toxiproxy)
 * [unity5-networking-HLAPI-getting-started - An example implementation of HLAPI LAN server-client model.(managing connection with client)](https://github.com/ifndefdeadmau5/unity5-networking-HLAPI-getting-started)
 * [uvloop: Blazing fast Python networking](http://magic.io/blog/uvloop-blazing-fast-python-networking/)
 

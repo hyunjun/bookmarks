@@ -29,6 +29,7 @@ Programming Language
 * [timeline of programming language](http://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1KcZdsCI3G832QTfx3kCn8zcxi8jH2qFWttB-xuPjYTM&font=Default&lang=en&height=650)
 * [Ask HN: What are some good resources on the history of programming languages?](https://news.ycombinator.com/item?id=9947544)
 * [Designing a Programming Language: I](http://ducklang.org/designing-a-programming-language-i)
+* [Language Design](https://cs.lmu.edu/~ray/notes/languagedesignnotes/)
 * [THE HACKER’S SUMMER TRAINING GUIDE – PART 1](https://blog.paymill.com/hackers-training-guide-1/)
 * [The worst mistake of computer science](https://www.lucidchart.com/techblog/2015/08/31/the-worst-mistake-of-computer-science/) NULL
 * [A Comparison of Programming Languages in Economics](http://economics.sas.upenn.edu/~jesusfv/comparison_languages.pdf)
@@ -391,6 +392,7 @@ Programming Language
   * [루아와 MeCab-ko를 이용한 한국어 형태소 분석](http://occamsrazr.net/tt/353)
   * [Mecab-ko 설정 파일과 사전 디렉터리를 상대 경로로 지정하기](http://occamsrazr.net/tt/355)
   * [Lua: Good, bad, and ugly parts - ZeroBrane](http://notebook.kulchenko.com/programming/lua-good-different-bad-and-ugly-parts)
+  * [Fengari](https://fengari.io/) Lua VM written in JavaScript
   * [Fennel: Lua Lisp Language](https://github.com/bakpakin/Fennel)
     * [the Fennel programming language](https://fennel-lang.org/)
     * [~technomancy/fennel: from-clojure.md - sourcehut git](https://git.sr.ht/~technomancy/fennel/tree/main/from-clojure.md)

@@ -195,6 +195,8 @@ AWS
 * [AWS Security Group 중첩 이슈 및 정리 팁](http://ohgyun.com/779)
 * [AWS 멀티 계정 환경에서 취약한 Security Group 설정 모니터링](http://woowabros.github.io/security/2020/02/07/Security-Group-Monitoring.html)
 * [AWS-Security-Group-Tip](https://linuxer.name/2020/05/aws-security-group-tip/)
+* [Top 10 security best practices for securing backups in AWS | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/top-10-security-best-practices-for-securing-backups-in-aws/)
+* [How to secure API Gateway HTTP endpoints with JWT authorizer | AWS Security Blog](https://aws.amazon.com/ko/blogs/security/how-to-secure-api-gateway-http-endpoints-with-jwt-authorizer/)
 * [AWS 기반 게임 개발자를 위한 안내서 – 1부. DDoS 공격 방어 방법](https://aws.amazon.com/ko/blogs/korea/anti-ddos-for-game/)
 * [HashiConf 2018 참석기 #1](https://blog.outsider.ne.kr/1409)
 * [HashiConf 2018 참석기 #2](https://blog.outsider.ne.kr/1410)
@@ -630,6 +632,7 @@ AWS
   * [Amazon Web Services (AWS)](https://www.youtube.com/playlist?list=PLuHgQVnccGMC5AYnBg8ffg5utOLwEj4fZ)
   * [아마존 웹서비스와 클라우드](https://opentutorials.org/course/2717/11268)
 * [10 fun hands-on projects to learn AWS | A Cloud Guru](https://acloudguru.com/blog/engineering/10-fun-hands-on-projects-to-learn-aws)
+* [Amazon.com: 교육용 강좌](https://www.amazon.com/b/?node=14297978011)
 * [AWS Cloud Practitioner Training | AWS Cloud Practitioner Essentials | AWS Full Course | Simplillearn - YouTube](https://www.youtube.com/watch?v=35JSBXkjuhk)
 * [AWS Full Course 2022 | AWS Tutorial For Beginners 2022 | AWS Training For Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=ZB5ONbD_SMY)
 * [AWS Severless IoT 1 – 개발 계획](http://webframeworks.kr/tutorials/weplanet/1plan/)
@@ -1045,6 +1048,8 @@ AWS
 * [Project using Lambda (Python), S3, DynamoDB, RDS (MySQL), SNS with step by step explanation & guide - YouTube](https://www.youtube.com/watch?v=K1jqLUeLEwU)
 * [AWS Lambda Tutorial | Beginners to Advanced | Lambda Functions Tutorial - YouTube](https://www.youtube.com/watch?v=D5HsgNtqStk)
 * [AWS Lambda의 동작 원리 - 전역 변수가 유지될까? | blog.hoseung.me](https://blog.hoseung.me/2022-02-27-lambda-global-variables/)
+* [AWS Lambda, .NET 6 런타임 지원 시작 | GeekNews](https://news.hada.io/topic?id=6071)
+* [The Hardest Issue To Debug With AWS Lambda | by Connor Butch | Feb, 2022 | Medium](https://medium.com/@connorbutch/the-hardest-issue-to-debug-with-aws-lambda-d636d672d6bc)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
@@ -1066,6 +1071,9 @@ AWS
 * [AWS Lambda를 동시에 500개 이상 호출하기](https://devbull.xyz/aws-lambda-500-concurrency/)
 * [Code and Deploy a Serverless API Using Go and AWS](https://www.freecodecamp.org/news/code-and-deploy-a-serverless-api-using-go-and-aws/)
 * [Deploy a Complete AWS Serverless Stack using Go Programming Language](https://morioh.com/p/1a29e996d5e3)
+
+## Lambda java
+* [aws-samples/serverless-java-frameworks-samples](https://github.com/aws-samples/serverless-java-frameworks-samples)
 
 ## Lambda javascript
 * [serverless 배포하기 (1) serverless-webpack 초급 · /usr/lib/libsora.so](https://if1live.github.io/posts/deploying-serverless-1-serverless-webpack-beginning/)
