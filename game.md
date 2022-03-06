@@ -130,6 +130,9 @@ Game
 * [DOSGames.com Free DOS game downloads - Over 1,500 games](https://dosgames.com/)
 * [**Software Library: MS-DOS Games : Free Software : Free Download, Borrow and Streaming : Internet Archive**](https://archive.org/details/softwarelibrary_msdos_games/v2) emulator
 
+## Library Go
+* [Ebiten - A dead simple 2D game library for Go](https://ebiten.org/)
+
 ## Library Python
 * [Lightweight snake game running in the console](https://github.com/tancredi/python-console-snake)
 * [파이썬으로 블리자드 디아블로3 API 이용하기!](https://tariat.tistory.com/738)
