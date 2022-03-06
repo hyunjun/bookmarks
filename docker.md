@@ -213,6 +213,7 @@ Docker
     * [Here’s How You Can Use Docker With React | by Indrek Lasn | Better Programming | Medium](https://medium.com/better-programming/heres-how-you-can-use-docker-with-create-react-app-3ee3a972b04e)
     * [How to Reduce Node Docker Image Size by 10X | itsopensource](https://itsopensource.com/how-to-reduce-node-docker-image-size-by-ten-times/)
     * [**Tiny Container Challenge: Building a 6kB Containerized HTTP Server! | DevOps Directive**](https://devopsdirective.com/posts/2021/04/tiny-container-image/)
+    * [nest.js 도커라이징](https://velog.io/@hong-brother/nodeJS-%EB%8F%84%EC%BB%A4%EB%9D%BC%EC%9D%B4%EC%A7%95)
   * jenkins
     * [Combining Jenkins and Docker for Continuously Running Instances](http://www.focusedsupport.com/blog/beyond-builds-combining-jenkins-and-docker-for-continuously-running-instances/)
   * [**jupyter-repo2docker**](https://repo2docker.readthedocs.io)
