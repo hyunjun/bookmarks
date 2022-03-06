@@ -587,6 +587,7 @@ Business
 * [누구나 쏙쏙 이해하도록 말하는 방법 – 체인지그라운드](http://thechangeground.com/archives/21634)
 * [타협하지 않고 이기는 3가지 방법](http://moneyman.kr/archives/3531)
 * [설득을 잘하면 협상도 잘 될까?](https://www.venturesquare.net/849479)
+* [최악의 직원을 180도 바꾼 방법 – 체인지그라운드](http://thechangeground.com/archives/30561) yes/no list
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
