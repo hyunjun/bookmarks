@@ -50,6 +50,8 @@ C#
 * [Building a Source Generator for C#](https://www.infoq.com/articles/CSharp-Source-Generator/)
 * [Using the “smart” Using keyword C# | by Bernardo Teixeira | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/using-the-smart-using-keyword-c-715858d800b2)
 * [artima - The Trouble with Checked Exceptions](https://www.artima.com/articles/the-trouble-with-checked-exceptions) Anders Hejlsberg의 exception에 대한 이야기를 볼 수 있는 interview
+* [cqrs](https://github.com/raw-coding-youtube/cqrs)
+  * [Understanding CQRS Basics ASP .NET C# - YouTube](https://www.youtube.com/watch?v=8uZd51-OAEw)
 
 # API
 * [C# Futures: Null Check Operator](https://www.infoq.com/news/2020/07/CSharp-Null-Check/)
