@@ -506,6 +506,8 @@ Business
   * [초보 CEO가 지켜야 할 5가지 원칙](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-the_five_rules_every_new_ceo_should_follow-md)
 * [Bursting Out of the CEO Bubble](https://hbr.org/2017/03/bursting-the-ceo-bubble)
   * [CEO가 경계해야 할 자만심](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-why_executives_should_talk_less_and_ask_more_questions-md)
+* [What to Do If Your Career Is Stalled and You Don’t Know Why](https://hbr.org/2018/11/what-to-do-if-your-career-is-stalled-and-you-dont-know-why)
+  * [커리어가 정체되었을 때, 팬더를 의심하라](https://gist.github.com/hyunjun/229a5db23cdfd62813f577ada6044451#file-what_to_do_if_your_career_is_stalled_and_you_dont_know_why-md)
 
 # China
 * [CES 단상-한국경제의 미래가 걱정된다](https://estima.wordpress.com/2015/01/14/ces2015/)
@@ -1235,4 +1237,5 @@ Business
 * [화면이 복잡할 때 꺼내 읽기 좋은 UX 이야기](https://brunch.co.kr/@cliche-cliche/140)
 * [유저 리서치, 설문으로 시작하기](https://brunch.co.kr/@wanteddesign/8)
 * [오래된 프로덕트 디자인 리뉴얼하기 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/demaecan-product-design-renewal/)
+* [2021년 디자이너의 베스트 툴킷](https://brunch.co.kr/@rightbrain/117)
 * [penpot: Penpot - The Open-Source design & prototyping platform](https://github.com/penpot/penpot)
