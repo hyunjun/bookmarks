@@ -1616,6 +1616,7 @@ Programming
 * [Seven guiding principles of serverless systems](https://www.advosight.com/post/seven-guiding-principles-of-serverless-systems)
 * [Monolith Vs Microservice Vs Serverless — The Real Winner? The Developer](https://hackernoon.com/monolith-vs-microservice-vs-serverless-the-real-winner-the-developer-8aae6042fb48)
 * [Please Serverless, Have an Opinion – The New Stack](https://thenewstack.io/please-serverless-have-an-opinion/)
+* [서버리스 방식의 웹 호스팅 - 이상선 - Medium](https://medium.com/@sunyi233/%EC%84%9C%EB%B2%84%EB%A6%AC%EC%8A%A4-%EB%B0%A9%EC%8B%9D%EC%9D%98-%EC%9B%B9-%ED%98%B8%EC%8A%A4%ED%8C%85-6a4eb44c3c62)
 
 # Atlassian Jira
 * [Jira Software 사용 방법 | 공식 구매자 및 사용자 가이드 | Atlassian](https://www.atlassian.com/ko/software/jira/guides)
