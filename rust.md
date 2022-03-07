@@ -352,6 +352,7 @@
 * [Rust — The Programming Language that Delivers - YouTube](https://www.youtube.com/watch?v=VnLd0ZLQvog)
 * [Rust 101 Lecture Series - YouTube](https://www.youtube.com/playlist?list=PL-zQguBgjr2O4d-B9g_b0WYh1fyXr6MMq)
 * [Masterclass - Introduction to Rust with Markus - YouTube](https://www.youtube.com/watch?v=AezhwkSmkW0)
+* [Rust Ports - YouTube](https://www.youtube.com/playlist?list=PLib6-zlkjfXluRjBgK8grQH2IUSZjn-YN)
 * [node-to-rust](https://github.com/vinodotdev/node-to-rust)
   * [Javascript to Rust e북(PDF) | GeekNews](https://news.hada.io/topic?id=6068)
 * [rustlings: Small exercises to get you used to reading and writing Rust code!](https://github.com/rust-lang/rustlings)
