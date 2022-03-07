@@ -167,14 +167,17 @@ Programming Books
   * [한 권으로 읽는 컴퓨터 구조와 프로그래밍](https://jhrogue.blogspot.com/2021/04/blog-post.html)
 * (NOT YET) [이야기로 배우는 구글 빅쿼리](https://jybaek.tistory.com/918) GCP Google Big Query
 * (NOT YET) [스트리밍 시스템 | 에이콘출판사](http://www.acornpub.co.kr/book/streaming-systems)
+  * 탐라
 * (NOT YET) [레거시 코드 활용 전략](https://jhrogue.blogspot.com/2021/07/blog-post_8.html)
 * (NOT YET) [나는 주니어 개발자다](https://jhrogue.blogspot.com/2021/09/blog-post_15.html)
 * (NOT YET) [류광의 번역 이야기 :: 번역서 "핸즈온 해킹" 출간 소식](http://occamsrazr.net/tt/376)
 * (NOT YET) [『컴퓨터과학이 여는 세계』 세상을 바꾼 컴퓨터, 소프트웨어의 원천 아이디어 그리고 미래 – 도서출판 인사이트](https://blog.insightbook.co.kr/2015/05/21/%E3%80%8E%EC%BB%B4%ED%93%A8%ED%84%B0%EA%B3%BC%ED%95%99%EC%9D%B4-%EC%97%AC%EB%8A%94-%EC%84%B8%EA%B3%84%E3%80%8F-%EC%84%B8%EC%83%81%EC%9D%84-%EB%B0%94%EA%BE%BC-%EC%BB%B4%ED%93%A8%ED%84%B0-%EC%86%8C-2/)
+  * 한라, 탐라, 우당
 * (NOT YET) [데이터 스토리 ( 데이터를 설득력 있는 이야기로 바꾸는 방법 )](https://jybaek.tistory.com/944)
 * (NOT YET) SRE를 위한 시스템 설계와 구축 [SRE? 데브옵스? 노옵스? 데브섹옵스?...그리고 신뢰성 보안 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS2873493735)
 * (NOT YET) [해커, 광기의 랩소디 - 세상을 바꾼 컴퓨터 혁명의 영웅들 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1580)
 * (NOT YET) [1일 1로그 100일 완성 IT 지식](https://jhrogue.blogspot.com/2022/02/1-1-100-it.html)
+  * 우당
 * (NOT YET) [그래프QL 인 액션](https://jybaek.tistory.com/948)
 
 # Agile Scrum
@@ -1614,7 +1617,6 @@ Programming Books
   * [(리뷰)팀 토폴로지 - 빠른 업무 플로우를 만드는 조직 설계 | Huns.me](https://huns.me/posts/2022-02-14-39-%ED%8C%80%ED%86%A0%ED%8F%B4%EB%A1%9C%EC%A7%80)
   * [팀 토폴로지 - 빠른 업무 플로우를 만드는 조직 설계 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1582)
 * (NOT YET) [언리더십 자본주의 4.0 시대의 새로운 리더십 12](https://www.waytoliah.com/786)
-  * 탐라
 * (NOT YET) 피플웨어
   * 우당
 * (NOT YET) 하이 아웃풋 매니지먼트 : 어떻게 성과를 높일 것인가
