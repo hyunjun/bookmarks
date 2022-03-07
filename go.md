@@ -327,6 +327,7 @@ Go
 * [iota in Go || iota in golang || use of iota with example in go - YouTube](https://www.youtube.com/watch?v=lnR9Pz27yS0)
 * [Control flow in Go || if else in go || switch case in Go - YouTube](https://www.youtube.com/watch?v=UGNB4CnVXDI)
 * [Unexpected Newline, Expecting Comma in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=2wt28guDEVY)
+* [Print a number with (comma) thousands separator in Go (Golang)](https://gosamples.dev/print-number-thousands-separator/)
 * array
   * [The anatomy of Arrays in Go](https://medium.com/rungo/the-anatomy-of-arrays-in-go-24429e4491b7)
   * [Go: Slice and Memory Management](https://medium.com/a-journey-with-go/go-slice-and-memory-management-670498bb52be)
