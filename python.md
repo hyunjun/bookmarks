@@ -4133,6 +4133,7 @@ Python
   * [pyinstaller 로 실행파일 만들기](https://ash84.net/2018/02/24/pyinstaller-usage/)
   * [If Pyinstaller makes too huge size exe file in Anaconda](https://www.youtube.com/watch?v=TwgfHWlruvM)
   * [__file__ in Application by PyInstaller](https://velog.io/@youngkiu/file-in-Application-by-PyInstaller)
+  * [PyUpdater PyInstaller의 단일 실행파일 + 자동 업데이트 기능](https://jangminhyeok.tistory.com/9)
 * [PyOxidizer](https://pyoxidizer.readthedocs.io/)
 * [State Tool CLI :: ActiveState Platform Documentation](https://docs.activestate.com/platform/state/)
   * [How to manage Python environments: Global vs Virtual - ActiveState](https://www.activestate.com/blog/how-to-manage-python-environments-global-vs-virtual/)
