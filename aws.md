@@ -1336,6 +1336,7 @@ AWS
 * [Google Cloud Storage 와 AWS S3 실시간 동기화 하기](https://dreamyoungs.github.io/tip/gcs-to-s3)
 * [AWS S3를 이용해서 웹브라우저에서 사용할 수 있는 포토 앨범 만들기](https://walkinpcm.blogspot.com/2017/06/aws-s3-aws-s3.html)
 * [pushState를 사용하는 SPA를 S3와 CloudFront로 서비스하기](https://blog.outsider.ne.kr/1394)
+* [AWS로 클라우드 시작하기: ④S3 & CloudFront | 요즘IT](https://yozm.wishket.com/magazine/detail/1360/)
 * [S3 And More](https://gitlab.com/cosmochain/handbook/blob/master/TwIL/20181001-20181012/20181002_JH_S3.md)
 * [AWS2 - S3](https://opentutorials.org/module/3815)
   * [AWS S3 WEB Hosting](https://www.youtube.com/watch?v=7ckUTlnhAdo)
