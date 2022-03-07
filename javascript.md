@@ -2084,6 +2084,7 @@ Javascript
     * npm이 의존성 관리에 이용하는 node_modules, package.json, package-lock.json의 개념과 이 각 파일의 존재 여부에 따라 의존성 설치가 어떻게 달라지는지 설명
   * [NPM에 라이브러리 배포 망해본 썰](https://velog.io/@juunini/NPM%EC%97%90-%EB%9D%BC%EC%9D%B4%EB%B8%8C%EB%9F%AC%EB%A6%AC-%EB%B0%B0%ED%8F%AC-%EB%A7%9D%ED%95%B4%EB%B3%B8-%EC%8D%B0)
   * [흙 대신 NPM 퍼나르는 삽질 · 감자도스](https://blog.potados.com/dev/struggle-with-npm/)
+  * [사내 npm 패키지 저장소를 구축하기 위해 겪었던 과정들](https://devblog.croquis.com/ko/2022-03-07-1-npm-private-repository/)
   * [npm audit: Broken by Design — Overreacted](https://overreacted.io/npm-audit-broken-by-design/)
     * npm에서 보안 감사에 사용하는 npm audit이 문제 있다고 지적하는 글, React의 Dan Abramov 작성
     * npm aduit은 별도 명령어도 있지만 npm install을 실행했을 때도 자동 실행. 먼저 npm audit 동작 방식 설명
