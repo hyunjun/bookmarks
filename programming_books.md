@@ -1586,8 +1586,16 @@ Programming Books
 * (NOT YET) 스타트업 인 액션
   * [startup-in-action: Example source codes for the book Startup in action](https://github.com/infpress/startup-in-action)
   * 한라 005.1-전95ㅅ
-* (NOT YET) [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
+* [프로그래머의 리더십](https://blog.gaerae.com/2018/08/programmer-leadership.html)
   * 한라, 탐라, 우당
+  * ★★★☆☆ 2022.03.06~07
+  * 조금 시간이 지난 책(2015년 출간)이라
+    * 시대와 맞지 않는 이야기도 있고(회식을 커뮤니케이션의 장으로 활용하자, 1:1 술자리 활용을 권하는 등)
+    * management에 대해 좀 주제가 흩어져 있고 약간 전문적인 활용은 부족해 보이긴 하지만
+  * 전반적으로 여러가지 주제를 모아 읽기 쉽게
+    * 특히 프로그래머의 입장에서 이해하기 쉽게 좀 더 직접적으로 썼다는 장점이 있음
+  * [프로그래머의 리더십 - Jun - Medium](https://nymets.medium.com/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%A6%AC%EB%8D%94%EC%8B%AD-758ccdd7b67c)
+  * [프로그래머의 리더십](https://jh4hj.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%A6%AC%EB%8D%94%EC%8B%AD)
 * (NOT YET) [The Manager's Path: A Guide for Tech Leaders Navigating Growth and Change (9781491973899): Fournier, Camille: Books](https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897)
 * (NOT YET) [요즘 팀장은 이렇게 일합니다 - 중앙북스](https://jbooks.joins.com/book/book_info.asp?bokid=2455)
   * 한라, 탐라, 우당
