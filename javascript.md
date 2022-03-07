@@ -3982,6 +3982,7 @@ Javascript
 * [LIVE 시각적요소 테스트 자동화하기 :: 1월 우아한테크세미나 - YouTube](https://www.youtube.com/watch?v=9AUEfGZslmw)
 * [Stub 을 이용한 Service 계층 단위 테스트 하기](https://jojoldu.tistory.com/637)
   * [nodejs-unit-test: NodeJS Unit Test](https://github.com/jojoldu/nodejs-unit-test)
+* [조건부 (if~else) 로직 테스트코드에서 사용하지 않기](https://jojoldu.tistory.com/642)
 * [프론트엔드 테스트 팁 | MADTECH](https://tech.madup.com/front-test-tips/)
 * [cypress - The web has evolved. Finally, testing has too](https://www.cypress.io/)
   * [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
