@@ -770,6 +770,8 @@ Web
   * 모든 트래픽이 같은 /24 CIDR 블록에서 올 때 ip_hash의 사용: 로드 밸런싱 목적으로 ip_hash를 사용할 때 IPv4에서는 앞의 3가지 옥텟으로 해시키를 만들기 때문에 같은 /24 CIDR을 사용하면 해시키가 같아지는 문제
   * 업스트림 그룹의 장점을 사용하지 않음: 업스트림 서버가 1개만 있는 경우 upstream 블록을 사용하지 않는 경우가 있는데 업스트림 서버가 1대여도 upstream 블록은 다양한 기능을 제공
   * [Nginx 설정 시 가장 많이 하는 10가지 실수 피하기 | GeekNews](https://news.hada.io/topic?id=6041)
+* [내블로그 :: nginx/1.18.0 (Ubuntu20.04) brotli](https://iesay.tistory.com/208)
+* [내블로그 :: nginx/1.18.0 (Ubuntu20.04) gzip](https://iesay.tistory.com/209)
 * [bunkerized-nginx: nginx Docker image secure by default](https://github.com/bunkerity/bunkerized-nginx)
 * [NGINXConfig | DigitalOcean](https://www.digitalocean.com/community/tools/nginx)
 * [nginx-ui: Nginx UI allows you to access and modify the nginx configurations files without cli](https://github.com/schenkd/nginx-ui)
