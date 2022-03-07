@@ -834,6 +834,7 @@ AWS
 * [Apache Airflow, Genie 및 Amazon EMR을 통한 빅데이터 워크플로 오케스트레이션 – 2부](https://aws.amazon.com/ko/blogs/korea/orchestrate-big-data-workflows-with-apache-airflow-genie-and-amazon-emr-part-2/)
 * [AWS EMR과 Airflow를 이용한 Batch Data Processing | by Min Jo | 101-devs | Aug, 2020 | Medium](https://medium.com/class101-dev/aws-emr%EA%B3%BC-airflow%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-batch-data-processing-a100fc2f4f10)
 * [입 개발 EMR에서는 sc.addFile, Databricks에서는 그냥 dbfs 폴더를 이용하자. | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/25/%ec%9e%85-%ea%b0%9c%eb%b0%9c-emr%ec%97%90%ec%84%9c%eb%8a%94-sc-addfile-databricks%ec%97%90%ec%84%9c%eb%8a%94-%ea%b7%b8%eb%83%a5-dbfs-%ed%8f%b4%eb%8d%94%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%98%ec%9e%90/)
+* [Spark 쓰면서 겪은 이야기들](https://tech.youha.info/6acde37d-25c5-4005-bc6a-b69d8c248eea)
 
 # Forecast
 * [아마존닷컴처럼 Amazon Forecast로 시계열 예측하기 - 강지양 솔루션즈 아키텍트(AWS ), 강태욱 매니저(GSSHOP)](https://www.youtube.com/watch?v=4MuVRFQVx8Y)
@@ -1371,6 +1372,7 @@ AWS
 * [AWS Lambda와 SQS를 이용한 대용량 엑셀 처리](http://labs.brandi.co.kr/2020/06/09/leejp.html)
 * [AWS SQS client using Alpakka and Scala | by Chaitanya Waikar | Jan, 2021 | Medium](https://chaitanyawaikar1993.medium.com/aws-sqs-client-using-alpakka-and-scala-e43ff7ff23c4)
 * [How a distributed, Amazon SQS compatible queue works | by Tarantool | Jan, 2022 | Medium](https://medium.com/@tarantool/how-a-distributed-amazon-sqs-compatible-queue-works-f936a85f002f)
+* [Amazon SQS 도입기](https://tech.youha.info/78ae4e5d-c7bb-4bd3-9a6c-8585af17977d)
 
 # TDD, Test
 * [AWS Release ‘SAM Local’ to Facilitate Local Build and Test of AWS Lambda Serverless Applications](https://www.infoq.com/news/2017/08/sam-local-beta)
