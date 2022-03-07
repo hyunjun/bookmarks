@@ -142,6 +142,7 @@ Google Cloud Platform GCP
 * [Google's Managed Continuous Delivery Service for Kubernetes Moves to GA](https://www.infoq.com/news/2022/02/google-cloud-deploy/)
 * [How do I create a VPN tunnel between GCP and Azure? - YouTube](https://www.youtube.com/watch?v=4_LqPRRzX4w)
 * [Using Session Mode in BigQuery. How to use the new Feature in Google… | by Christianlauer | Mar, 2022 | Medium](https://christianlauer90.medium.com/using-session-mode-in-bigquery-f17709fe696b)
+* [What is Google Dataplex? — The Data Fabric | by Christianlauer | CodeX | Mar, 2022 | Medium](https://medium.com/codex/what-is-google-dataplex-the-data-fabric-a6faf37e746f)
 
 # Cloud Function
 * [Google Cloud Function 이용하기](https://jungwoon.github.io/google%20cloud/2018/02/22/Cloud-Function/)
