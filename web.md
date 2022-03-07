@@ -517,6 +517,8 @@ Web
   * [Web Scraping Multiple Pages with Python and Selenium + CSV File - YouTube](https://www.youtube.com/watch?v=m3liwOyJPC8)
   * [파이썬~영어 공부 앱 추천해줘~ . 김기연 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=KygO-J-lPuw)
   * [크롬으로 한/글 문서 작성한 후 다운받기 feat. selenium](https://employeecoding.tistory.com/215)
+  * [Test Practice using Selenium - (1)](https://velog.io/@dahunyoo/Test-Practice-using-Selenium-1)
+  * [Test Practice using Selenium - (2)](https://velog.io/@dahunyoo/Test-Practice-using-Selenium-2)
   * [Healenium](https://github.com/healenium)
     * [Self-Healing Test Automation - The Next Big Thing? - YouTube](https://www.youtube.com/watch?v=bUhuqgOTXYM)
 * [springer_free_books - Python script to download all Springer books released for free during the 2020 COVID-19 quarantine](https://github.com/alexgand/springer_free_books)
