@@ -649,6 +649,7 @@ Programming
 * [Agile Budgeting 101 | Cprime Blogs | Agile Budgeting](https://www.cprime.com/resources/blog/agile-budgeting-101/)
 * [Key Concepts of Agile Software Development - Discover Better Value Faster](https://www.cloudnowtech.com/blog/key-concepts-of-agile-software-development/)
 * [우리가 개발하는 방식 - 눈덩이 굴리기](https://gifting.oopy.io/snowball)
+* [How To Build Quality Software Fast • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=NgFVrvwth-Q)
 
 # API
 * [The Little Manual of API Design](http://www4.in.tum.de/~blanchet/api-design.pdf)
