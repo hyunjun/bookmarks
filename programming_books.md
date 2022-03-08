@@ -2135,3 +2135,4 @@ Programming Books
 * (NOT YET) 실무에서 바로쓰는 파워셸
   * [<실무에서 바로쓰는 파워셸> 출간에 즈음하여](http://www.dokyun.pe.kr/223)
 * (NOT YET) [처음 만나는 WSL](https://www.hanbit.co.kr/store/books/look.php?p_code=B4859286751)
+* (NOT YET) [효율성이 배가되는 WSL2 가이드북](https://jpub.tistory.com/1247)
