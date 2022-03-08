@@ -3982,7 +3982,6 @@ Javascript
 * [LIVE 시각적요소 테스트 자동화하기 :: 1월 우아한테크세미나 - YouTube](https://www.youtube.com/watch?v=9AUEfGZslmw)
 * [Stub 을 이용한 Service 계층 단위 테스트 하기](https://jojoldu.tistory.com/637)
   * [nodejs-unit-test: NodeJS Unit Test](https://github.com/jojoldu/nodejs-unit-test)
-* [조건부 (if~else) 로직 테스트코드에서 사용하지 않기](https://jojoldu.tistory.com/642)
 * [프론트엔드 테스트 팁 | MADTECH](https://tech.madup.com/front-test-tips/)
 * [cypress - The web has evolved. Finally, testing has too](https://www.cypress.io/)
   * [How to Test Your Frontend with the Cypress.io Framework](https://medium.freecodecamp.org/how-to-test-your-frontend-with-the-cypress-io-framework-f048070f4330)
@@ -4005,6 +4004,8 @@ Javascript
   * [Test Coverage를 유지하는 방법. 어떤 코드를 테스트 해야할까? — Jest의 활용 | by Yeongsu Han | 원티드 제품 팀블로그 | Jun, 2021 | Medium](https://medium.com/wantedjobs/test-coverage%EB%A5%BC-%EC%9C%A0%EC%A7%80%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-21a7461997cf) jest enzyme codecov
   * [테스트 픽스처 올바르게 사용하기](https://jojoldu.tistory.com/611)
   * [테스트 코드에서 내부 구현 검증 피하기](https://jojoldu.tistory.com/614)
+  * [조건부 (if~else) 로직 테스트코드에서 사용하지 않기](https://jojoldu.tistory.com/642)
+  * [테스트코드에서 Optional chaining(?.) 쓰지않기](https://jojoldu.tistory.com/643)
 * [Mocha.js](https://github.com/mochajs)
   * [Mocha 로 하는 JavaScript Testing](http://inspiredjw.com/entry/Mocha-%EB%A1%9C-%ED%95%98%EB%8A%94-JavaScript-Testing)
   * [Mocha.js org의 멤버가 되다](https://blog.outsider.ne.kr/1360)
