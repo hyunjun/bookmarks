@@ -717,6 +717,7 @@ Business
 * [나쁜 리더의 8가지 신호](http://ppss.kr/archives/51962)
 * [루키 마인드를 잃지 않는 리더들의 4가지 특성](http://ppss.kr/archives/48458)
 * [“경영자라면 코드가 다른 사람을 쓸 줄 알아야 합니다”](http://outstanding.kr/%EA%B2%BD%EC%98%81%EC%9E%90%EB%9D%BC%EB%A9%B4-%EC%BD%94%EB%93%9C%EA%B0%80-%EB%8B%A4%EB%A5%B8-%EC%82%AC%EB%9E%8C%EC%9D%84-%EC%93%B8-%EC%A4%84-%EC%95%8C%EC%95%84%EC%95%BC-%ED%95%A9%EB%8B%88%EB%8B%A4-2/)
+* [리더십 코드가 맞는 사람만 남겨라](http://moneyman.kr/archives/1088)
 * [마블 VS DC, 격차가 점점 커진다..무엇이 명암 갈랐나](http://magazine2.movie.daum.net/movie/47027) 케빈 파이기 vs. 케빈 츠지하라
 * [인텔이 라이젠에 패배한 진짜 이유 "브라이언 크르자니크"](https://www.youtube.com/watch?v=7Gm6XX_HbWE) 리사 수 vs. 브라이언 크르자니크
 * [휴스턴은 어떻게 WS 우승팀이 됐을까](http://v.sports.media.daum.net/v/20171103144258203) 제프 러나우, 짐 크레인
@@ -856,6 +857,8 @@ Business
   3. 조직만의 파티를 하라
   4. 실제적인 방식으로 팀의 건강에 투자하라
   5. 내일의 팀 리더에게 오늘 투자하라
+* [우리 조직 핵심인재 퇴사 막는 법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/dontgoaway20210503)
+  * [우리 조직 핵심인재 퇴사 막는 법](https://drive.google.com/file/d/1QaFrYKVqo4wS4Lr2VmT-YWON8qIzZtP9/view?usp=sharing)
 * [53세에 도전을 시작한 맥도날드 창업자 레이 크록(Ray Kroc) 타인의 재능을 알아보고, 현장에서 답을 찾아라 - 매일경제](https://www.mk.co.kr/news/culture/view/2017/11/763493/)
 * [리더십이 배워지는 거라고?](https://brunch.co.kr/@curahee/99)
 * [CEO 명언 - 6 스타벅스 - 하워드 슐츠 : 네이버 블로그](https://blog.naver.com/help2000/222542003852)
