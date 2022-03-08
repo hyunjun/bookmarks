@@ -387,6 +387,7 @@ Go
   * [netaddr.IP: a new IP address type for Go · Tailscale Blog](https://tailscale.com/blog/netaddr-new-ip-type-for-go/)
 * net/http
   * [An Overview of Server-Side HTTP APIs in Go](https://medium.com/better-programming/overview-of-server-side-http-apis-in-go-44f052737e4b)
+  * [HTTP connection pool in Go explained](https://tech.buzzvil.com/blog/http-connection-pool-in-go-explained/)
 * nil
   * [Nil pointer dereference in golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=VUo4KqkzoXo)
   * [Nil is not equal to Nil in Golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=I_W0CthNHvM)
