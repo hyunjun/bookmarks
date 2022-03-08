@@ -1052,6 +1052,7 @@ NLP
   * [nlp_tutorials: huggingface를 이용하여 downstream task 수행하기](https://github.com/seopbo/nlp_tutorials)
   * [optimum](https://github.com/huggingface/optimum)
     * [Introducing Optimum: The Optimization Toolkit for Transformers at Scale](https://huggingface.co/blog/hardware-partners-program)
+    * [Exporting 🤗 Transformers Models](https://huggingface.co/docs/transformers/master/en/serialization)
   * [parallelformers: Parallelformers: An Efficient Model Parallelization Toolkit for Deployment](https://github.com/tunib-ai/parallelformers)
 * [3 Natural Language Processing Tools From AWS to Python | by SeattleDataGuy | Better Programming | Oct, 2020 | Medium](https://medium.com/better-programming/3-natural-language-processing-tools-from-aws-to-python-954dbb34b189)
   * [Amazon Comprehend - Natural Language Processing (NLP) and Machine Learning (ML)](https://aws.amazon.com/comprehend/)
