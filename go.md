@@ -859,6 +859,7 @@ Go
 * [Go language for Beginners - YouTube](https://www.youtube.com/playlist?list=PLxhFuGxg9JY_XpGUSGVPcDsC0GaqqL4JC)
 * [Top 5 Free Courses to learn Golang for Beginners in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/12/5-free-courses-to-learn-golang-for.html)
 * [2022 - APRENDE A PROGRAMAR CON GO DESDE 0 - YouTube](https://www.youtube.com/playlist?list=PL5RTI3w_BqqAdl0u-u69iF2iSxOaJIcrb)
+* [Golang Basics Tutorial | Go Programming Language | Golang Tutorial for Beginners | Simplilearn - YouTube](https://www.youtube.com/watch?v=Cn5vrUDYtyc)
 
 # Web
 * [Securing Go web applications](https://stablelib.com/blog/securing-golang-web-apps/)
