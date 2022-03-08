@@ -16,6 +16,7 @@ Interview
   * [minsuk-heo/cracking the coding interview](https://www.youtube.com/watch?v=GhnNfDeaiOk&list=PLVNY1HnUlO24158Ac_ZRlPGvReK4tW0CC)
   * [github.com/minsuk-heo/problemsolving/Craking the Coding Interview](https://github.com/minsuk-heo/problemsolving/tree/master/Craking%20the%20Coding%20Interview)
   * [How to use Cracking the Coding Interview Effectively](https://www.youtube.com/watch?v=xAxgzrj8zgU)
+* [How to Crack Coding Interviews? Tips, Topics, and Skills | HackerNoon](https://hackernoon.com/how-to-crack-coding-interviews-tips-topics-and-skills)
 * [Problem Solving Technique #1 for Coding Interviews with Google, Amazon, Microsoft, Facebook, etc](https://www.youtube.com/watch?v=lD-LuK_VGZI)
 * [How to Succeed in any Programming Interview](https://www.youtube.com/watch?v=5KB5KAak6tM)
 * ['How to Get a Job at the Big 4 - Amazon, Facebook, Google & Microsoft' by Sean Lee](https://www.youtube.com/watch?v=YJZCUhxNCv8)
