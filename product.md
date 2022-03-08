@@ -187,6 +187,7 @@ Product
 
 # Monitor
 * [How to Pick a Good Monitor for Software Development — Nick Janetakis](https://nickjanetakis.com/blog/how-to-pick-a-good-monitor-for-software-development)
+* [거북목 때문에 필사적으로 찾은 가성비, 휴대성, 퀄리티 만족시키는 노트북 거치대 3종 리뷰ㅣ내돈내산 - YouTube](https://www.youtube.com/watch?v=yy14Zc9SYms) 노트북 거치대/암
 
 # Musical Instrument
 * [이젠 뉘앙스까지…자동연주 피아노](http://techholic.co.kr/archives/31984)
