@@ -1223,6 +1223,7 @@ Docker
 * [How backup and restore works in kubernetes with velero - YouTube](https://www.youtube.com/watch?v=UdHP2ewBJNY)
 * [Kubernetes Documentary Part 1: A Critical Review | Cloud Critical](https://www.cloudcritical.org/article/kubernetes-documentary-part-1/)
 * [JENNIFER – 쿠버네티스 환경(AKS, EKS, GKE,…) 지원 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2022-02-22/)
+* [Scaling Kubernetes to Over 4k Nodes and 200k Pods | by Abdul Qadeer | The PayPal Technology Blog | Jan, 2022 | Medium](https://medium.com/paypal-tech/scaling-kubernetes-to-over-4k-nodes-and-200k-pods-29988fad6ed)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
