@@ -2472,6 +2472,7 @@ Javascript
 * [BIG new feature lands in Node.js // The Code Report - YouTube](https://www.youtube.com/watch?v=MBqS1kYzwTc)
 * [Node.js 에 Fetch API 추가 | GeekNews](https://news.hada.io/topic?id=5872)
 * [Node.js의 기초 설정과 시험. Node.js는 많이 사용되는 서버용 런타임입니다. 아마도 언어가… | by 이상선 | Feb, 2022 | Medium](https://medium.com/@sunyi233/node-js%EC%9D%98-%EA%B8%B0%EC%B4%88-%EC%84%A4%EC%A0%95%EA%B3%BC-%EC%8B%9C%ED%97%98-e2754bdb37e0)
+* [Using Node.js for Backend Web Development in 2022 | by MobiDev | Medium | Geek Culture](https://medium.com/geekculture/using-node-js-for-backend-web-development-in-2022-f2917c6c0a87)
 
 ## Node.js Library
 * [Node.js Tools for Visual Studio](http://channel9.msdn.com/Blogs/Seth-Juarez/Nodejs-Tools-for-Visual-Studio)
