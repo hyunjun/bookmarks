@@ -246,6 +246,7 @@ Algorithm
 * [배열에서 가장 큰 직사각형 구하기 : 관찰을 통해 풀어봅시다](https://codingdog.tistory.com/entry/%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C-%EA%B0%80%EC%9E%A5-%ED%81%B0-%EC%A7%81%EC%82%AC%EA%B0%81%ED%98%95-%EA%B5%AC%ED%95%98%EA%B8%B0-%EA%B4%80%EC%B0%B0%EC%9D%84-%ED%86%B5%ED%95%B4-%ED%92%80%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4)
 * [All Pythagorean Triplets in Optimal Time Complexity | Level Up Coding](https://levelup.gitconnected.com/all-pythagorean-triplets-less-than-equal-n-in-optimal-time-complexity-babfbe742337)
 * [Essential Data Structures for Every Programmer | by Mahdhi Rezvi | Better Programming | Nov, 2020 | Medium](https://medium.com/better-programming/essential-data-structures-for-every-programmer-7d1511eba838)
+* [6 Algorithms Every Developer Must Know | Richard | Dare To Be Better](https://medium.com/dare-to-be-better/6-algorithms-every-developer-should-know-f78b609c7e7c)
 * [알고리즘 - 부경대학교 | KOCW 공개 강의](http://www.kocw.net/home/search/kemView.do?kemId=1148815)
 * [정점 분할 : 노드를 상태에 따라 여러 개로 쪼갠다](https://codingdog.tistory.com/entry/%EC%A0%95%EC%A0%90-%EB%B6%84%ED%95%A0-%EB%85%B8%EB%93%9C%EB%A5%BC-%EC%83%81%ED%83%9C%EC%97%90-%EB%94%B0%EB%9D%BC-%EC%97%AC%EB%9F%AC-%EA%B0%9C%EB%A1%9C-%EC%AA%BC%EA%B0%A0%EB%8B%A4)
 * [많이 언급되는 오프라인 쿼리 간단하게 훑어봅시다](https://codingdog.tistory.com/entry/%EB%A7%8E%EC%9D%B4-%EC%96%B8%EA%B8%89%EB%90%98%EB%8A%94-%EC%98%A4%ED%94%84%EB%9D%BC%EC%9D%B8-%EC%BF%BC%EB%A6%AC-%EA%B0%84%EB%8B%A8%ED%95%98%EA%B2%8C-%ED%9B%91%EC%96%B4%EB%B4%85%EC%8B%9C%EB%8B%A4)
