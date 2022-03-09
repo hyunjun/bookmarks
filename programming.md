@@ -546,6 +546,7 @@ Programming
   * [What is Agile? | Atlassian - 아틀라시안이 알려주는 애자일 A to | GeekNews](https://news.hada.io/topic?id=4389)
 * [Can You Stop Using Story Points?](https://hackernoon.com/can-you-stop-using-story-points-ac36449ffa10)
 * [사용자 스토리 포인트로 스마트하게 프로젝트 진행하기(feat. LINE Pay 개발 팀) - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/user-story-point-in-line-pay-team/)
+* [사용자 스토리 기반의 제품 개발 - DRAMA&COMPANY](https://blog.dramancompany.com/2022/03/%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%8A%A4%ED%86%A0%EB%A6%AC-%EA%B8%B0%EB%B0%98%EC%9D%98-%EC%A0%9C%ED%92%88-%EA%B0%9C%EB%B0%9C/)
 * [왜 애자일은 동작하지 않을까?(Why Isn’t Agile Working?)](https://www.vobour.com/%EC%99%9C-%EC%95%A0%EC%9E%90%EC%9D%BC%EC%9D%80-%EB%8F%99%EC%9E%91%ED%95%98%EC%A7%80-%EC%95%8A%EC%9D%84%EA%B9%8C-why-isn%E2%80%99t-agile-working)
 * [애자일에 대한 질문을 받았습니다](https://www.vobour.com/%EC%95%A0%EC%9E%90%EC%9D%BC%EC%97%90-%EB%8C%80%ED%95%9C-%EC%A7%88%EB%AC%B8%EC%9D%84-%EB%B0%9B%EC%95%98%EC%8A%B5%EB%8B%88%EB%8B%A4)
 * [Why Enterprise Agile Teams Fail](https://medium.com/startup-patterns/why-enterprise-agile-teams-fail-4ae64f7852d6)
