@@ -368,6 +368,7 @@ NoSQL
   * [hibernate-arcus: Hibernate 2nd cache implementation using Arcus cache](https://github.com/Kims-DeveloperGroup/hibernate-arcus)
     * 네이버에서 개발한 memcached 기반의 '아커스' 를 활용하는 2차 캐쉬 구현체
 * [libmc - Fast and light-weight memcached client for C++/Python https://pypi.python.org/pypi/libmc ](https://github.com/douban/libmc)
+* [minimemcached: Pure Go memcached server for Go unittests motivated by miniredis](https://github.com/daangn/minimemcached)
 
 # MemSQL
 * [Launching Our Community Edition](http://blog.memsql.com/memsql-community-edition/)
@@ -429,6 +430,8 @@ NoSQL
 * [Mongoose Document 생성과 CRUD 구현 # NodeJS mongoDB](https://developer88.tistory.com/396)
 * [몽고DB에 대한 4가지 오해 | MongoDB](https://www.mongodb.com/blog/post/ko-kr/4-common-misperceptions-about-mongodb)
 * [몽고디비 클러스터 구성하기 | woolog - 개발자 울이](https://www.woolog.dev/data-engineering/mongodb-cluster/)
+* [몽고디비 시작하기 기초 1편 - crud, aggregate, index, dump, restore](https://blog.naver.com/pjt3591oo/222667237917)
+* [몽고디비 시작하기 기초 2편 - transaction, mapReduce](https://blog.naver.com/pjt3591oo/222667785268)
 * [Jepsen: MongoDB 4.2.6](https://jepsen.io/analyses/mongodb-4.2.6)
 * [mongita: "Mongita is to MongoDB as SQLite is to SQL"](https://github.com/scottrogowski/mongita)
   * [Mongita - 임베드 가능한 MongoDB | GeekNews](https://news.hada.io/topic?id=4137)
