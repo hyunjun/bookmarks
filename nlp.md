@@ -946,6 +946,8 @@ NLP
 * [KoBigBird: 🦅 Pretrained BigBird Model for Korean (up to 4096 tokens)](https://github.com/monologg/KoBigBird)
 * [LAMA: LAnguage Model Analysis](https://github.com/facebookresearch/LAMA)
 * [lassl: Easy framework for pre-training language models](https://github.com/lassl/lassl)
+* [lbox-open](https://github.com/lbox-kr/lbox-open)
+  * [LBox Open: 한국어 AI Benchmark Dataset](https://blog.lbox.kr/13a2b770-5767-4e9b-8f00-e4f2457ec540)
 * [Legal-BERT, 법률 도메인에 특화된 언어모델 개발기](https://blog.lbox.kr/legal-bert)
 * [LM-kor: Pretrained Language Models for Korean](https://github.com/kiyoungkim1/LM-kor)
 * [PLMpapers](https://github.com/thunlp/PLMpapers)
