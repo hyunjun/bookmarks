@@ -766,6 +766,7 @@ Javascript
 * [Building a GIF search Engine in just 10 mins - DEV Community](https://dev.to/kumarkalyan/building-a-gif-search-engine-in-just-10-mins-lbd)
 * [브라우저싱크 Error: ENOSPC: System limit for number of file watchers reached 에러 대처 | 웹으로 말하기](https://mytory.net/2022/01/27/error-enospc-system-limit-for-number-of-file-watchers-reached.html)
 * [How To Code Viral Wordle Game In JavaScript](https://www.codecademy.com/resources/blog/how-to-code-wordle-game-in-javascript/)
+* [우리말 Wordle 제작 후기 - sungchi Blog](https://plan9.kr/word-game)
 * [웹에서 Sign In With Google 사용하기 - 이상선 - Medium](https://medium.com/@sunyi233/%EC%9B%B9%EC%97%90%EC%84%9C-sign-in-with-google-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0-655ae0fe8ba9)
 * [**Reliably Send an HTTP Request as a User Leaves a Page | CSS-Tricks - CSS-Tricks**](https://css-tricks.com/send-an-http-request-on-page-exit/)
   * [사용자가 페이지를 떠날 때 안정적으로 HTTP 요청을 보내는 방법 | GeekNews](https://news.hada.io/topic?id=6060)
