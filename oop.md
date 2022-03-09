@@ -261,6 +261,7 @@
 * [객체지향 (Object Oriented) 디자인 (Design)](https://jojoldu.tistory.com/592)
 * [Design Patterns in Java | Making Java easy to learn](https://javatechonline.com/design-patterns-in-java/)
 * [SOLID Principles in Java. SOLID principles basically form the… | by Deepika sharma | Nerd For Tech | Jul, 2021 | Medium](https://medium.com/nerd-for-tech/solid-principles-in-java-5cf926e44247)
+* [SOLID Principles With (almost) Real-Life Examples in Java | by Berke Soysal | Better Programming](https://betterprogramming.pub/solid-principles-with-almost-real-life-examples-in-java-b292a4e2c18b)
 * [Java — good practices and recommendations: Design patterns | by Martin Jonovski | < BE OUTSTANDING />](https://blog.singular.uk/java-good-practices-and-recommendations-design-patterns-eade30be7965)
 * [Java Design Patterns | Making Java Easy To Learn](https://javatechonline.com/java-design-patterns-java/)
 * [Difference between Inheritance and Polymorphism in Java and OOP - Example](https://javarevisited.blogspot.com/2020/04/difference-between-inheritance-and-Polymorphism-in-java-oop.html)
