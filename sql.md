@@ -205,6 +205,7 @@ SQL
 * [Thread by @ergestx on Thread Reader App – Thread Reader App](https://threadreaderapp.com/thread/1479811885377765383.html)
   * [SQL 팁 : 나의 SQL 작성 패턴 | GeekNews](https://news.hada.io/topic?id=5896)
 * [Different Ways to Check and Delete Duplicate Records in SQL - Tech Point Fundamentals](https://www.techpointfunda.com/2021/11/deleting-duplicate-records-in-sql.html)
+* [How to choose the right database for your project | by Anthony Papoutsis | Mar, 2022 | Medium](https://apapoutsis.medium.com/how-to-choose-the-right-database-for-your-project-ffd4bf054833)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
@@ -605,6 +606,7 @@ SQL
 * [**Lock으로 이해하는 Transaction의 Isolation Level**](https://suhwan.dev/2019/06/09/transaction-isolation-level-and-lock)
 * [Transaction의 Isolation Level - 트랜잭션 격리수준](https://blog.naver.com/pjt3591oo/221754164462)
 * [프로그래밍 초식 : DB 트랜잭션 조금 이해하기 1, 2 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EC%B4%88%EC%8B%9D-DB-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%A1%B0%EA%B8%88-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0-1-2)
+* [Distributed Transactions & Two-phase Commit | by Animesh Gaitonde | Geek Culture | Medium](https://medium.com/geekculture/distributed-transactions-two-phase-commit-c82752d69324)
 * [DB를 이용한 분산 락 구현(MariaDB, MySQL)](https://javacan.tistory.com/entry/distributed-lock-using-db)
 * [꿀벌개발일지 :: lock=none, algorithm=inplace 으로 테이블 변경하기](https://ohgyun.com/800)
 * [락(Lock)너는 무엇을 잠그는 녀석이니?](https://blog.naver.com/pjt3591oo/222479605880)
