@@ -1115,6 +1115,7 @@ Programming
 * [카카오페이지 운영툴을 점진적으로 개선한 이야기](https://brunch.co.kr/@wapj2000/38)
 * [Multi-tenant Architecture for SaaS - YouTube](https://www.youtube.com/watch?v=e8k6TynqGFs)
 * [**Multi-tenant architecture in 20 minutes - YouTube**](https://www.youtube.com/watch?v=0N4KknY_zdU) PACELC as extension of CAP
+* [Multi-Tenant Application. Software Architecture | blackthorn.ai | by Alex Gurbych | Jan, 2022 | Level Up Coding](https://levelup.gitconnected.com/multi-tenant-application-a29153d31c5a)
 * [Scaling Large Production Clusters with Partitioned Synchronization](https://www.micahlerner.com/2021/10/10/scaling-large-production-clusters-with-partitioned-synchronization.html)
 * [Solution vs Software Architecture - DZone DevOps](https://dzone.com/articles/solution-architecture-vs-software-architecture)
 * [기고 | IT부서 ‘업의 본질’일 수도… ‘기술 아키텍처’ 가이드 - CIO Korea](https://www.ciokorea.com/news/209404)
@@ -1137,6 +1138,9 @@ Programming
 * [Tudor Gîrba on How Moldable Development Offers a Novel Way to Reason about Systems - YouTube](https://www.youtube.com/watch?v=a4nA7ALf16c)
 * [2012-04-17 만화 서비스 오픈 후기 : 네이버 블로그](https://m.blog.naver.com/ez_/140157300770)
 * [10 principals in design system architecture | by Weekly Dev Blog | Medium](https://wklytech.medium.com/10-principals-in-design-system-architecture-753adce0203c)
+* [System Design — Data Builder Framework — Designed By Flipkart Engineering Team | by Evelynn Tech Blog | Medium](https://evelynn.tech/system-design-data-builder-framework-designed-by-flipkart-engineering-team-4d8c5108b687)
+* [arc42 - arc42](https://arc42.org/)
+  * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
 * [homelab: Small and power efficient self-hosting infrastructure. Fully automated from empty disk to operating services](https://github.com/khuedoan/homelab)
@@ -1222,6 +1226,7 @@ Programming
 * [**DDD와 MSA 기반으로 좋은 서비스 개발하기 - 컬리 기술 블로그**](https://helloworld.kurly.com/blog/ddd-msa-service-development/)
 * [전술적 DDD를 사용 하 여 마이크로 서비스 디자인](https://docs.microsoft.com/ko-kr/azure/architecture/microservices/model/tactical-ddd)
 * [DDD 했더니 비대해지는 엔티티, 좋은 대책은 ?](http://jaynewho.com/post/45)
+* [DDD in a nutshell. You might hear quite a lot about DDD —… | by Chien Hoang | Tamara Tech](https://tech.tamara.co/ddd-in-a-nutshell-3852b0a6155a)
 * [Part 1: Domain Driven Design like a pro 🏅 | by Anders Gill | Raa Labs | Medium](https://medium.com/raa-labs/part-1-domain-driven-design-like-a-pro-f9e78d081f10)
 * [Domain-driven design · Present](https://present.do/decks/60bed187f79479437375f362)
 * [Domain Driven Design Patterns in Python - YouTube](https://www.youtube.com/watch?v=hv-LiKQgN90)
@@ -1245,6 +1250,7 @@ Programming
 * [My TOP Patterns for Event Driven Architecture - YouTube](https://www.youtube.com/watch?v=P5hq6iWn_p8)
 * [Event Driven hotel reservations with Kafka | by Thắng Đỗ | Altitude | Oct, 2021 | Medium](https://medium.com/altitudehq/event-driven-for-reservation-with-kafka-b1c5ad2927fe)
 * [이벤트 기반의 라이브 스트리밍 추천 시스템 운용하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/01/24/event-driven-recsys.html)
+* [How an Event-driven Architecture changed the way I design software | by Samuel David Roncal Vidal | Medium](https://medium.com/@davrv93/how-an-event-driven-architecture-changed-the-way-i-design-software-741f397d3055)
 
 ## Architecture Microservice MSA
 * [**Microservice Architecture**](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)
@@ -1441,6 +1447,7 @@ Programming
 * [Micro-Frontends Course - Beginner to Expert - YouTube](https://www.youtube.com/watch?v=lKKsjpH09dU)
 * [The Micro-Frontends future | Medium](https://medium.com/@lucamezzalira/the-future-of-micro-frontends-2f527f97d506)
 * [Building Micro-Frontends • Luca Mezzalira & Lucas Dohmen • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=DG9puFuUb7E)
+* [Micro Frontend Architecture. Before diving into the micro front-end… | by Muhammad Anser | Level Up Coding](https://levelup.gitconnected.com/micro-frontend-architecture-794442e9b325)
 * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐. 소프트웨어의 수명과 복잡도는 대개 비례 관계입니다. 아무리 정교하고… | by 히로 | CLASS101 | Jun, 2021 | Medium](https://medium.com/class101/%EC%97%94%ED%84%B0%ED%94%84%EB%9D%BC%EC%9D%B4%EC%A6%88-%ED%94%84%EB%A1%A0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90-79eef2e30c77)
   * [엔터프라이즈 프론트엔드 애플리케이션 아키텍쳐 | GeekNews](https://news.hada.io/topic?id=4572)
 * [마이크로서비스 배포 혁명](https://jflip.tistory.com/23)
@@ -1537,6 +1544,7 @@ Programming
 * [How Coupang built a microservice architecture | Coupang Engineering](https://medium.com/coupang-engineering/%ED%96%89%EB%B3%B5%EC%9D%84-%EC%B0%BE%EA%B8%B0-%EC%9C%84%ED%95%9C-%EC%9A%B0%EB%A6%AC%EC%9D%98-%EC%97%AC%EC%A0%95-94678fe9eb61)
 * [**How to Design Reliable Microservices | by Chinedu Ikechi | Mar, 2022 | Level Up Coding**](https://levelup.gitconnected.com/how-to-design-reliable-microservices-5efba55172da) 실패 이유와 해결/방지 방법 전반적인 내용 정리
 * [Microservices Architecture | Making Java Easy To Learn](https://javatechonline.com/microservices-architecture/)
+* [Designing Resilient Microservices — Part 1 | by Vijay Seshadri | Swiggy Bytes](https://bytes.swiggy.com/designing-resilient-microservices-part-1-6a72fe964759)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -1829,6 +1837,7 @@ Programming
 * [Micro 3.0 (M3O) - a platform for cloud native development | Micro](https://micro.mu/blog/2020/11/05/micro-v3-aka-m3o.html)
   * [m3o: The open source public cloud platform. We are building an AWS alternative for the next generation of developers](https://github.com/m3o/m3o)
   * [Why we are building a CLI first PaaS without a web frontend](https://crufter.com/cli-first-paas)
+  * [M3O— An open source AWS alternative | by Asim Aslam | M3O ☁️](https://blog.m3o.com/m3o-an-open-source-aws-alternative-61e3699b3d2a)
 * [neverinstall | Your browser is the new operating system](https://neverinstall.com/)
   * [Never Install - 데스크탑 앱을 설치없이 브라우저에서 사용하기 | GeekNews](https://news.hada.io/topic?id=4794)
 * nextcloud [클라우드 스토리지: Nextcloud | Varins](https://varins.com/library/server/cloud-storage-nextcloud/)
@@ -2693,6 +2702,9 @@ Programming
 * [LINE 인프라 플랫폼의 뒷이야기 – 서비스 확장성을 확보하며 운영 비용 줄이기](https://engineering.linecorp.com/ko/blog/challenges-and-solutions-of-line-infra-scaleout/)
 * [Lessons Learned from Reviewing 150 Infrastructures](https://www.infoq.com/presentations/150-infrastructures)
 * [State of the Art Infrastructure as Code | by Kovid Rathee | Aug, 2020 | Towards Data Science](https://towardsdatascience.com/state-of-the-art-infrastructure-as-code-4fbd59d92462) catalog
+* [Infrastructure as Code: the next big shift is here | by Piotr | ITNEXT](https://itnext.io/infrastructure-as-code-the-next-big-shift-is-here-9215f0bda7ce)
+* [Backstage Software Catalog and Developer Platform · An open platform for building developer portals](https://backstage.io/)
+  * [How we are improving developer experience at QuintoAndar with backstage.io | by Gabriel Dantas | QuintoAndar Tech Blog | Medium](https://medium.com/quintoandar-tech-blog/how-we-are-improving-developer-experience-at-quintoandar-with-backstage-io-fa1ab70b75cb)
 * [Chef Infra - Infrastructure Automation for Hardened, Consistent Configuration at Any Scale](https://www.chef.io/products/chef-infra/)
   * [A complete beginner’s guide to Chef and infrastructure as code](https://medium.freecodecamp.org/an-introduction-to-chef-and-infrastructure-as-code-7d8ad2689b8)
   * [Making Breakfast: Chef at Airbnb](https://medium.com/airbnb-engineering/making-breakfast-chef-at-airbnb-8e74efff4707)
@@ -3569,6 +3581,7 @@ Programming
 * [Kappa vs Lambda Architectures and Technology Comparison - YouTube](https://www.youtube.com/watch?v=j7D29eyysDw)
 * [How to Design Realtime Data Consumption using Lambda and Kappa Architectures - YouTube](https://www.youtube.com/watch?v=wEueOJ4OSlg)
 * [Streaming 101: Hello Streaming - YouTube](https://www.youtube.com/watch?v=A1YC_AC0qf8)
+* [Auto-Diagnosis and Remediation in Netflix Data Platform | by Netflix Technology Blog | Jan, 2022 | Netflix TechBlog](https://netflixtechblog.com/auto-diagnosis-and-remediation-in-netflix-data-platform-5bcc52d853d1)
 
 ## Real Time Processing, Streaming Library
 * [Apache Heron · A realtime, distributed, fault-tolerant stream processing engine](https://heron.incubator.apache.org/)
@@ -3685,6 +3698,7 @@ Programming
   * [gRPC load balancing on Kubernetes (using Headless Service) | Techdozo](https://techdozo.dev/grpc-load-balancing-on-kubernetes-using-headless-service/)
   * [Practical API Design at Netflix, Part 1: Using Protobuf FieldMask | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/practical-api-design-at-netflix-part-1-using-protobuf-fieldmask-35cfdc606518)
   * [Practical API Design at Netflix, Part 2: Protobuf FieldMask for Mutation Operations | by Netflix Technology Blog | Sep, 2021 | Netflix TechBlog](https://netflixtechblog.com/practical-api-design-at-netflix-part-2-protobuf-fieldmask-for-mutation-operations-2e75e1d230e4)
+  * [Performance comparison: REST vs gRPC vs asynchronous communication | by Tim Bastin | l3montree TechBlog | Feb, 2022 | Medium](https://medium.com/l3montree-techblog/performance-comparison-rest-vs-grpc-vs-asynchronous-communication-3ad27d144a13) go code
   * [bloomrpc: GUI Client for GRPC Services](https://github.com/uw-labs/bloomrpc) Postman for gRPC
     * [BloomRPC - mysetting](https://mysetting.io/apps/bloomrpc)
   * fly.io [Deploy gRPC and gRPC-Web Services · Fly](https://fly.io/docs/app-guides/grpc-and-grpc-web-services/) gRPC cloud?
