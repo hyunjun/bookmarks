@@ -2602,6 +2602,7 @@ Programming
 * [DevOps Basics | Review N Prep](https://reviewnprep.com/blog/devops-basics/)
 * [데브옵스 파이프라인이 공격을 받는 이유와 대처 방안 - ITWorld Korea](https://www.itworld.co.kr/news/226964)
 * [Complete guide to becoming a DevOps Engineer - 2022 🚀🧑‍💻 - DEV Community](https://dev.to/ankit01oss/complete-guide-to-becoming-a-devops-engineer-2022-10h0)
+* [The Challenges of DevOps and The Importance of Developer Experience with Jyoti Bansal - YouTube](https://www.youtube.com/watch?v=1NGaquxjgPw)
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
