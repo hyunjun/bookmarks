@@ -63,7 +63,6 @@ Go
 * [Developing in golang with Nix package manager](http://lethalman.blogspot.kr/2015/02/developing-in-golang-with-nix-package.html)
 * [Five things that make Go fast](http://dave.cheney.net/2014/06/07/five-things-that-make-go-fast)
 * [Why Go for Decision Trees?](http://datascience.systemsbiology.net/data-notebook/)
-* [Struct composition with Go](http://dave.cheney.net/2015/05/22/struct-composition-with-go)
 * [A year with Go](http://vagabond.github.io/rants/2015/06/05/a-year-with-go/)
 * [Go: A Surprising Edge Case Concerning append and Slice Aliasing](http://www.jjinux.com/2015/05/go-surprising-edge-case-concerning.html)
 * [Charity Majors — June 10th, 2015 How We Moved Our API From Ruby to Go and Saved Our Sanity](http://blog.parse.com/learn/how-we-moved-our-api-from-ruby-to-go-and-saved-our-sanity/)
@@ -85,6 +84,7 @@ Go
   * [Sieve daisy chain in python](http://rextester.com/WTKDS3290)
 * [Go 1.5's vendor/ experiment](https://medium.com/@freeformz/go-1-5-s-vendor-experiment-fd3e830f52c3)
 * [Singleton Pattern in Go](http://marcio.io/2015/07/singleton-pattern-in-go/)
+* [Patterns in Go applications. Some patterns which are commonly used… | by Lam Tran | Medium](https://medium.com/@tranngoclam/patterns-in-go-applications-42dcd10fd0e5)
 * [GopherCon 2017: Edward Muller - Go Anti-Patterns](https://www.youtube.com/watch?v=ltqV6pDKZD8)
 * [Compile Time Code Weaving in Go](https://deferpanic.com/blog/compile-time-code-weaving-in-go/)
 * [Writing iOS & Android Apps in Go](https://sourcedna.com/blog/20150712/golang-on-ios.html)
@@ -304,6 +304,7 @@ Go
 * [Is TypeScript (NodeJS) Faster than Go? | A Server Comparison](https://morioh.com/p/dfe0e48a916e)
 * [Algorithms Implemented in Go](https://morioh.com/p/56fd1c6f2f7a) e.g. ahocorasick
 * [Best IDEs And Tools For Golang Development](https://www.hyperlinkinfosystem.com/blog/best-ides-and-tools-for-golang-development)
+* [What comes with Go 1.18 Features Golang Generics Fuzzing | Medium](https://medium.com/@emreodabas_20110/quick-guide-go-1-18-features-e236d5b351ef)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -400,6 +401,9 @@ Go
 * strings
   * [golang - Go 언어의 strings.Builder을 이용한 문자열 연결 최적화 및 벤치마킹 - jacking75](https://jacking75.github.io/go_strings_Builder/)
   * [Demystifying Bytes, Runes, and Strings in Go | by Jerry An | Level Up Coding](https://levelup.gitconnected.com/demystifying-bytes-runes-and-strings-in-go-1f94df215615)
+* struct
+  * [Struct composition with Go](http://dave.cheney.net/2015/05/22/struct-composition-with-go)
+  * [Saving Memory In Golang By Composing Struct Correctly | by Ananda Dwi Rahma | Jan, 2022 | Medium](https://anandadwirahma.medium.com/save-memory-in-golang-by-compose-struct-correctly-f649d1f457dd)
 * sync
   * [A Closer Look at Go’s sync Package](https://medium.com/@teivah/a-closer-look-at-go-sync-package-9f4e4a28c35a)
 * time
@@ -469,6 +473,7 @@ Go
 * [golang - Go 채팅 서버를 만들면서 goroutine과 channel 이해하기 - jacking75](https://jacking75.github.io/go_chatServer/)
 * [A Beginner's Guide to Golang Channels - YouTube](https://www.youtube.com/watch?v=lqo0Ao_DgFw)
 * [Diving in Async programming tricks with Golang | by Nikhil Chawla | Feb, 2022 | Medium](https://medium.com/@chawlanikhil24/diving-in-async-programming-tricks-with-golang-8b2155f7bcd3)
+* [Go (Golang) with Async/Await. Go (Golang) with Async/Await | by Mertcan Arguç | Medium](https://medium.com/@mertcanarguc/go-golang-with-async-await-a0c2e259a668)
 * [**Simulating A Real-World System (Coffee Shop) In Go**](https://www.youtube.com/watch?v=jJS6G7irZSc)
 * [Rob Pike - 'Concurrency Is Not Parallelism'](https://www.youtube.com/watch?v=cN_DpYBzKso)
 * [Concurrency Made Easy (Practical Tips For Effective Concurrency In Go)](https://www.youtube.com/watch?v=DqHb5KBe7qI)
@@ -624,6 +629,7 @@ Go
   * [**프로덕션 환경에서 사용하는 golang과 gRPC**](https://blog.banksalad.com/tech/production-ready-grpc-in-golang/)
   * [Implement gRPC client in Golang - YouTube](https://www.youtube.com/watch?v=Xjy_RdSd6XU)
   * [Notification Microservice Project With gRPC](https://www.tech3code.com/2022/02/microservice-project-with-grpc-golang.html)
+  * [Building Microapps with gRPC-Web, Go and React. | Alva Labs](https://medium.com/alva-labs/building-microapps-with-grpc-web-64b7cdf50313)
 * [grequests - A Go "clone" of the great and famous Requests library](https://github.com/levigross/grequests)
 * [hangulize.org](https://hangulize.org)
   * [한글라이즈 재제작기](https://www.slideshare.net/sublee/ss-113085659)
