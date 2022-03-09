@@ -15,6 +15,7 @@ AWS
 * [zigispace.net/category/클라우드\_가상화/AWS](https://zigispace.net/category/%ED%81%B4%EB%9D%BC%EC%9A%B0%EB%93%9C_%EA%B0%80%EC%83%81%ED%99%94/AWS)
 * [아마존 웹 서비스(AWS, Amazon Web Serivce)란?](https://www.44bits.io/ko/keyword/amazon-web-service)
 * [AWS AppSync — Up and Running with GraphQL in the Cloud](https://hackernoon.com/aws-appsync-up-and-running-560a42d96ba7)
+* [Lessons learned from running GraphQL at scale | by Dream11 Engineering | Dream11 Engineering](https://blog.dream11engineering.com/lessons-learned-from-running-graphql-at-scale-2ad60b3cefeb)
 * [AWS 재입문 블로그 – AppSync 편 (한국어)](https://dev.classmethod.jp/cloud/aws/aws-appsync-re-introduction-2019-korean-ver)
 * [돈 안드는 AWS 학습법](https://docs.google.com/presentation/d/e/2PACX-1vRCJvoi05saGm9yZkoAPJZbYM7odnKhYEir3fwY8pJXloZWs4qNT8gL1ZTBEpUFUnQZWtUBnG8mMSUQ/pub)
 * [AWS Chatbot과 슬랙(Slack)을 연동하여 AWS 명령 실행하기](http://blog.naver.com/sehyunfa/221924899955)
@@ -927,6 +928,7 @@ AWS
 * [Distributed tracing for serverless applications on AWS](https://matcha.level-out.com/posts/distributed-tracing/)
 * [Serverless 101 (부제: 새해에 서버리스 찍.먹.해보기)](https://justdoit-teamblog.blogspot.com/2022/01/serverless-101.html)
 * [Serverless란?(1) :: All About Dev/Ops](https://zerone-code.tistory.com/6)
+* [How we built Melio’s payments platform on AWS Serverless | by Omer Baki | Melio’s R&D blog | Medium](https://medium.com/meliopayments/how-we-built-melios-payments-platform-on-aws-serverless-18f730c4d78a)
 * [Why AWS Lambda Pricing Has to Change for the Enterprise](https://www.infoq.com/articles/aws-lambda-price-change/)
 * [매일이 새로운 초기 스타트업, 파이썬과 함께라면. 백승호 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=FZL2dMFefC0) sls
 * [AWS 람다(AWS Lambda)란?](https://www.44bits.io/ko/keyword/aws-lambda)
@@ -1052,6 +1054,7 @@ AWS
 * [AWS Lambda의 동작 원리 - 전역 변수가 유지될까? | blog.hoseung.me](https://blog.hoseung.me/2022-02-27-lambda-global-variables/)
 * [AWS Lambda, .NET 6 런타임 지원 시작 | GeekNews](https://news.hada.io/topic?id=6071)
 * [The Hardest Issue To Debug With AWS Lambda | by Connor Butch | Feb, 2022 | Medium](https://medium.com/@connorbutch/the-hardest-issue-to-debug-with-aws-lambda-d636d672d6bc)
+* [Lambda Function URLs are now available on AWS | by Rajesh | Medium](https://medium.com/@Rajesh_R/lambda-function-urls-are-now-available-on-aws-ffd051705ade)
 * [aws-serverless-java-container - A Java wrapper to run Spring, Jersey, Spark, and other apps inside AWS Lambda https://aws.amazon.com/serverless ](https://github.com/awslabs/aws-serverless-java-container)
 * [codepipeline-opsworks-deployer - A custom action build on Lambda to deploy to OpsWorks from AWS Code Pipeline](https://github.com/Tim-B/codepipeline-opsworks-deployer)
 * [emulambda - EMULAtes AWS LaMBDA](https://github.com/fugue/emulambda)
@@ -1452,6 +1455,7 @@ AWS
 * [AWS CDK에서 Terraform으로](https://tech.inflab.com/202202-aws-cdk-to-terraform/)
   * 인프런의 AWS 인프라를 관리하기 위해 AWS CDK를 사용하다가 Terraform으로 바꾸게 된 이유 설명
   * AWS CDK 공식문서/커뮤니티 부족, Cloudformation으로 인프라 적용을 하기 때문에 실제 인프라의 상태를 제대로 추적할 수 없어서 실수할 여지를 주는 부분
+* [Terraform vs. Cloudformation vs. AWS CDK | by Pavle Djuric | AWS Tip](https://awstip.com/terraform-vs-cloudformation-vs-aws-cdk-6b86f5889f22)
 * [Terraform Tutorial | Automate your Infrastructure - YouTube](https://www.youtube.com/watch?v=a4ZMKgl7YA8)
 
 # Tutorial
