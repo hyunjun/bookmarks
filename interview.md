@@ -190,6 +190,7 @@ Interview
   * [What if you could draw your thoughts in technical interviews?](https://medium.com/hackernoon/what-if-you-could-draw-your-thoughts-in-technical-interviews-47e1ff87bf33)
 * [제품을 파는 엔지니어가 되어보니](https://brunch.co.kr/@imagineer/328) solution engineer
 * [(45) AMZ | Google | Facebook | Offer | Reject| Reject | My journey from failure to offer at FAANG - LeetCode Discuss](https://leetcode.com/discuss/interview-experience/716202/amz-google-facebook-offer-reject-reject-my-journey-from-failure-to-offer-at-faang)
+* [How I got a FAANG offer without grinding Leetcode | by jessica | Medium](https://medium.com/@contrapasso/how-i-got-faang-offers-without-grinding-leetcode-7e556243e9ce)
 * [What I Learned from Doing 60+ Technical Interviews in 30 Days](https://meekg33k.dev/what-i-learned-from-doing-60-technical-interviews-in-30-days-ckda9sn7s00iftss13b0wd0ky)
 * [코딩 인터뷰 완전정복 시리즈 - YouTube](https://www.youtube.com/playlist?list=PLHqxB9kMLLaNZQjNtY9JoCCBbZwOKdyEH)
 * [한빛출판네트워크 - 코딩테스트 기획연재](https://www.hanbit.co.kr/channel/series/series_detail_list.html?hcs_idx=29)
@@ -336,6 +337,7 @@ Interview
     * [Airbnb System Design | Booking.com System Design | System Design Interview Question - YouTube](https://www.youtube.com/watch?v=YyOXt2MEkv4)
     * [The Human Side of Airbnb’s Microservice Architecture](https://www.infoq.com/presentations/airbnb-culture-soa/)
     * [Airbnb System design 분석](https://www.joinc.co.kr/w/man/12/airbnbDesign)
+    * [System design architecture for hotel booking apps (Like Airbnb, OYO) | by Purnendu Kar | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/system-design-architecture-for-hotel-booking-apps-like-airbnb-oyo-6efb4f4dddd7)
   * Autocomplete or Typeahead
     * [System design : Design Autocomplete or Typeahead Suggestions for Google search](https://www.youtube.com/watch?v=us0qySiUsGU)
     * [Amazon interview question: System design / Architecture for auto suggestions | type ahead](https://www.youtube.com/watch?v=xrYTjaK5QVM)
@@ -374,6 +376,7 @@ Interview
     * [System Design : Design messaging/chat service like Facebook Messenger or Whatsapp](https://www.youtube.com/watch?v=zKPNUMkwOJE)
     * [System Design: Messenger service like Whatsapp or WeChat - Interview Question](https://www.youtube.com/watch?v=5m0L0k8ZtEs)
     * [WhatsApp System Design | FB Messenger System Design | System Design Interview Question - YouTube](https://www.youtube.com/watch?v=RjQjbJ2UJDg)
+    * [Ace the System Interview— Design a Chat Application | by Zixuan Zhang | Towards Data Science](https://towardsdatascience.com/ace-the-system-interview-design-a-chat-application-3f34fd5b85d0)
   * Online store
     * [Design eCommerce Website (Part I)](http://blog.gainlo.co/index.php/2016/08/22/design-ecommerce-website-part)
     * [Design eCommerce Website (Part II)](http://blog.gainlo.co/index.php/2016/08/28/design-ecommerce-website-part-ii)
@@ -436,6 +439,7 @@ Interview
     * [How to Build an app like Uber? (Uber Clone)](https://www.engineerbabu.com/blog/how-to-build-an-app-like-uber/)
     * [**Uber 아키텍처와 시스템 디자인**](https://blog.imqa.io/uber-architecture-system-design/)
     * [Uber 아키텍처와 시스템 디자인 | Architecture 101](https://architecture101.blog/2021/12/01/uber-architecture-design/)
+    * [How Uber handles millions of ride/food requests efficiently part 1 | by Meg's tech corner | Medium](https://megtechcorner.medium.com/how-uber-handles-millions-of-ride-food-requests-efficiently-part-1-2aa8db436204)
   * Video
     * [Design Video Sharing System Like Youtube](https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/)
     * [How to Design Youtube (Part I)](http://blog.gainlo.co/index.php/2016/10/22/design-youtube-part/)
@@ -483,6 +487,7 @@ Interview
   * [crash-only software - high availability server 만들기](http://blog.seulgi.kim/2017/10/crash-only-software.html)
 * [**Building Google Photos using Microservices Part I**](https://codeburst.io/architecting-google-photos-part-i-394f5d1a9a)
   * reverse proxy, dynamic service discovery - service registry, heartbeat
+* [System Design — Backend for Google Photos | by Abhijit Mondal | Feb, 2022 | Medium](https://mecha-mind.medium.com/system-design-backend-for-google-photos-e0abcd74dd36)
 * [**ipify: 300억 요청 처리, 그 너머로**](http://www.haruair.com/blog/4108)
 * [**ipify: 300억 요청 처리, 그 너머로**](https://edykim.com/ko/post/ipify-to-30-billion-and-beyond)
 * [How Discord Resizes 150 Million Images Every Day with Go and C++](https://blog.discordapp.com/how-discord-resizes-150-million-images-every-day-with-go-and-c-c9e98731c65d)
@@ -539,6 +544,7 @@ Interview
 * [Giving back - how I cleared L6 System Design - Part 2 - Blind](https://www.teamblind.com/post/rBrt5bV8)
 * [Giving back - how I cleared L6 System Design - Part 3 - Blind](https://www.teamblind.com/post/qubF6fS2)
 * [System Design Logging Framework | Implementing Logger | System Design Interview Low Level| logging - YouTube](https://www.youtube.com/watch?v=RljSBrZeJ3w)
+* [How to design a Time based Scheduler! | by umang goel | Medium](https://medium.com/@surfd1001/system-design-time-based-scheduler-28d5ac100249)
 
 # Book
 * [더북(TheBook): 커리어 스킬](https://thebook.io/006990/) 2~9장만
