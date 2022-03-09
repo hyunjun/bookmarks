@@ -1202,6 +1202,7 @@ Deep Learning
 * [프로젝트 GAN을 이용한 염색 및 헤어 스타일 합성, <꽤 GAN찮은 헤어살롱>](https://comlini8-8.tistory.com/49)
 * [Toonify yourself - Colaboratory](https://colab.research.google.com/drive/1s2XPNMwf6HDhrJ1FMwlW1jl-eQ2-_tlk)
 * [StyleGAN2를 이용한 성격 유형별 얼굴 생성 모델 연구 개발 과정 공개! (feat. MBTI) – SPH](https://www.sphinfo.com/stylegan2/)
+* [Alias-Free GAN (StyleGAN3) 이론 간단리뷰 :: Ostin](https://ostin.tistory.com/53)
 * [StyleCLIP: Text-Driven Manipulation of StyleGAN Imagery - YouTube](https://www.youtube.com/watch?v=5icI0NgALnQ)
 * [StyleCLIP-Tutorial](https://github.com/ndb796/StyleCLIP-Tutorial)
   * [딥러닝 기반의 이미지 편집 기술: StyleCLIP 설명 및 코드 실습 (꼼꼼한 딥러닝 논문 리뷰와 코드 실습) - YouTube](https://www.youtube.com/watch?v=hFC7DSh9RIw)
