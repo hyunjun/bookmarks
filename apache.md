@@ -682,6 +682,8 @@ Apache
 * [Top 5 Courses to Crack Confluent Apache Kafka Developer Certification (CCDAK) in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/12/top-5-courses-to-crack-apache-kafka-developer-certification-CCDAK.html)
 * [‘아파치 카프카’, 개념부터 사용례까지 - CIO Korea](https://www.ciokorea.com/news/227469)
 * [Kafka Lag 없는 실시간 데이터 파이프라인을 위한 아키텍처 개선기 - AB180 엔지니어링 베이스 | 기술블로그](https://engineering.ab180.co/stories/kafka-consumer-proxy)
+* [Kafka- Best practices & Lessons Learned | By Inder | by Inder Singh | Medium](https://inder-devops.medium.com/kafka-best-practices-lessons-learned-by-inder-431dc5fafd3b)
+* [Make a real-time query across multiple microservices using Kafka | by Mohammed Ragab | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/make-a-real-time-query-across-multiple-microservices-using-kafka-ecd46d651acd)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
