@@ -45,3 +45,4 @@ Life
 * [종합소득세 신고 '삼쩜삼', 가입자 500만 돌파](https://www.venturesquare.net/838070)
 * [절세가 수익률이다…‘금융투자소득세’에 따른 투자전략 < 재테크 < 금융/증권 < 기사본문 - 이코노믹리뷰](http://www.econovill.com/news/articleView.html?idxno=550150)
 * [연말정산 똑똑하게 하는 법, 세테크 돕는 스타트업](https://www.venturesquare.net/848586)
+* [국세청에 증여 안 걸리려면 이렇게 돈 빌리세요 | 부모자식간 현금거래 절세방법 - YouTube](https://www.youtube.com/watch?v=CObKsnE8ghU)
