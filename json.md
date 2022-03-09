@@ -226,6 +226,7 @@ Json
 * [Extract Nested Data From Complex JSON Trees](https://hackingandslacking.com/extract-nested-data-from-complex-json-trees-b3d1df6b9a06)
 * [Python 으로 JSON 빨리 처리하기](https://rein.kr/blog/archives/3670) ujson 혹은 pypy를 사용하자는 이야기
 * [구글 포토 일괄 다운한 파일명을 json 정보 이용하여 변경 (파이썬) : 클리앙](https://www.clien.net/service/board/lecture/16186065)
+* [Python JSON. JSON은 JS Object Notation이라는 의미인데 현대… | by 이상선 | Feb, 2022 | Medium](https://medium.com/@sunyi233/python-json-265a6cb97859) 기술이야기는 아님
 * attrs, cattrs [Single Line of Code to Interchange Between Python Objects and JSON | by Christopher Tao | Towards Data Science](https://towardsdatascience.com/single-line-of-code-to-interchange-between-python-objects-and-json-b0f23fbaaa65)
 * [Cerberus provides powerful yet simple and lightweight data validation functionality](http://docs.python-cerberus.org/en/stable/index.html)
 * [Ijson - an iterative JSON parser with a standard Python iterator interface](https://pypi.org/project/ijson/) stream 이용
