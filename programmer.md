@@ -117,6 +117,7 @@ Programmer
 * [Are We Really Engineers? • Hillel Wayne](https://www.hillelwayne.com/post/are-we-really-engineers/)
 * [The developer's essential knowledge pyramid](https://chrisrichardson.net/post/development/2022/02/18/what-a-developer-needs-to-understand.html)
 * [The Painfully Shy Developer's Guide to Networking for a Better Job (Without Being Creepy)](https://www.samjulien.com/shy-dev-networking) 인맥구축
+* [How to Be a 10x Software Engineer | by Michael Lin | Feb, 2022 | Medium](https://medium.com/@_michaellin/how-to-be-a-10x-engineer-fdac2a5a1bd5)
 
 # Book
 * [더북(TheBook): 소프트웨어 장인](https://thebook.io/006777/) 1~4장만
