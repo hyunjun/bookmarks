@@ -576,6 +576,7 @@ Business
 * [5 whys로 디자인에 설득력 더하기](https://brunch.co.kr/@cliche-cliche/113)
 * [성장하는 사람의 큰 특징: 설득의 자세 | ㅍㅍㅅㅅ](https://ppss.kr/archives/213121)
 * [설득은 타고난 것? 충분히 배울 수 있어요! : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=32773558)
+* [전략 상대를 설득하는 4가지 방법](http://moneyman.kr/archives/13430)
 * [상대방의 필요를 채워줄 수 있는 능력](https://notdefeated.ghost.io/sangdaebangyi-pilyoreul-caeweojul-su-issneun-neungryeog/)
 * [메타버스 근무일지 ③만나지 않고 화상회의·슬랙만 하면 어떤 일이 생길까](https://www.bloter.net/newsView/blt202110040010) 소통의 빈도 < 깊이
 * [커뮤니케이션이란 무엇인가? 어떻게 해야 효과적으로 협업을 할 수 있는가? (한빛미디어 의장 박태웅) - YouTube](https://www.youtube.com/watch?v=mS_jyMC4cxg)
