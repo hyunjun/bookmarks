@@ -1013,6 +1013,7 @@ Docker
 * [쿠버네티스를 이용한 기능 브랜치별 테스트 서버 만들기 (GitOps CI/CD)](https://www.slideshare.net/subicura/gitops-cicd-156402754)
 * [GitOps on Kubernetes: Deciding Between Argo CD and Flux – The New Stack](https://thenewstack.io/gitops-on-kubernetes-deciding-between-argo-cd-and-flux/)
 * [Tutorial: A GitOps Deployment with Flux on DigitalOcean Kubernetes – The New Stack](https://thenewstack.io/tutorial-a-gitops-deployment-with-flux-on-digitalocean-kubernetes/)
+* [Kubernetes at Scale without GitOps Is a Bad Idea – The New Stack](https://thenewstack.io/kubernetes-at-scale-without-gitops-is-a-bad-idea/)
 * [Virtual Kubelet을 활용해 Kubernetes를 서버리스 컨테이너로 확장하기](https://yunsangjun.github.io/blog/kubernetes/2019/08/25/virtual-kublet.html)
 * [Kubernetes Failure Stories](https://k8s.af)
 * [쿠버네티스 CRI (Container Runtime Interface) & OCI (Open container initiative)](https://bcho.tistory.com/1353)
