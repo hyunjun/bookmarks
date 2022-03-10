@@ -1937,6 +1937,7 @@ Programming
   * [**Software architecture: The important stuff**](https://tech.buzzvil.com/blog/tech-blog-software-architecture-the-important-stuff/)
   * [Quote by Robert C. Martin: “The only way to go fast, is to go well.”](https://www.goodreads.com/quotes/9701819-the-only-way-to-go-fast-is-to-go-well)
   * [Agile pull requests](https://blog.ploeh.dk/2021/06/21/agile-pull-requests/) 'if it hurts, do it more often' Mark Seemann
+* [공통시스템개발팀 코드 리뷰 문화 개선 이야기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/7152/)
 * [코드 좀 봐주세요 코드종 - YouTube](https://www.youtube.com/playlist?list=PLuBMRNcyzsWyZU1CVvd025UFJkfRoVs93)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 * [개발자 생산성 선언-플라이휠](https://ichi.pro/ko/gaebalja-saengsanseong-seon-eon-peullaihwil-129703808319115)
