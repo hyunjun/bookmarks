@@ -1616,6 +1616,7 @@ Deep Learning
 * [Python 신경망 학습 (2) : 네이버 블로그](https://blog.naver.com/eunseong31/221597561463)
 * [Python 신경망 학습 (3) : 네이버 블로그](https://blog.naver.com/eunseong31/221598016421)
 * [Neural Networks from Scratch - an interactive guide](https://aegeorge42.github.io/) 뉴럴넷을 배울 수 있도록 단계별로 진행해 볼 수 있는 인터렉티브 가이드
+* [신경망(neural networks)에서 편향(bais)의 역할 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1655)
 * [nnstreamer: Neural Network (NN) Streamer, Stream Processing Paradigm for Neural Network Apps/Devices](https://github.com/nnstreamer/nnstreamer)
 * [nntrainer: NNtrainer is Software Framework for Training Neural Network Models on Devices](https://github.com/nnstreamer/nntrainer)
 * [Tools-to-Design-or-Visualize-Architecture-of-Neural-Network: Tools to Design or Visualize Architecture of Neural Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
