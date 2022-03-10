@@ -161,6 +161,7 @@ Business
 * [요구사항 분석은 병목이나 R&R싸움이 아니다](https://brunch.co.kr/@windydog/455)
 * [쉽게 푸는 과학자를 위한 연구제안요청서(RFP)](http://slownews.kr/42730)
 * [성공한 사람들과 크게 성공한 사람들의 5가지 차이점](http://ppss.kr/archives/48436)
+* [성공을 목표로 하면 안 되는 이유](http://moneyman.kr/archives/1675)
 * [근무기강 강조하는 회사치고 잘 되는 회사 없다](http://www.huffingtonpost.kr/2015/07/02/story_n_7713246.html)
 * [효율적인 근무환경의 꿈](http://www.venturesquare.net/599724)
 * [Efficiency is the Enemy](https://fs.blog/2021/05/slack/) 효율성 slack 여유
