@@ -85,6 +85,7 @@ Json
 * [Deep Dive into Keystone Tokens and Lessons Learned](https://www.slideshare.net/priti_desai/deep-dive-into-keystone-tokens-and-lessons-learned)
 * [Understanding OpenStack Authentication: Keystone PKI](https://www.mirantis.com/blog/understanding-openstack-authentication-keystone-pki/)
 * [Spring boot환경에서 JWT 사용하기](http://alwayspr.tistory.com/8)
+* [Spring Boot Security With JWT | Ashok IT - YouTube](https://www.youtube.com/watch?v=J-g0FYPHY-k)
 * [Build a Rest API for Node & Mysql 2018 JWT](https://codeburst.io/build-a-rest-api-for-node-mysql-2018-jwt-6957bcfc7ac9)
 * [Understanding JSON Web Token Authentication](https://blog.bitsrc.io/understanding-json-web-token-authentication-a1febf0e15)
 * [5 Easy Steps to Understanding JSON Web Tokens (JWT)](https://medium.com/vandium-software/5-easy-steps-to-understanding-json-web-tokens-jwt-1164c0adfcec)
