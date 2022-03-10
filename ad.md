@@ -13,6 +13,7 @@
 * [업종별 이메일 마케팅 벤치마크 보고서 2022 | GeekNews](https://news.hada.io/topic?id=5918)
 * [Digital Marketing Course For Beginners 2022 | Digital Marketing Complete Course | Simplilearn - YouTube](https://www.youtube.com/watch?v=3mHmEDyLtUw)
 * [Privacy Preserving Attribution for Advertising](https://blog.mozilla.org/en/mozilla/privacy-preserving-attribution-for-advertising/)
+* [디지털 광고 효과 실시간 측정 어려워져, 데이터 수집-분석 방식 다변화가 열쇠 | 마케팅/세일즈 | DBR](https://dbr.donga.com/article/view/1202/article_no/10219/ac/a_view)
 * funnel [Automated data collection & marketing reports | Funnel](https://funnel.io/)
 
 # Facebook
