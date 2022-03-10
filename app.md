@@ -1963,6 +1963,8 @@ App
   * [WSL 2 - Enabling systemd](https://gist.github.com/djfdyuruiry/6720faa3f9fc59bfdf6284ee1f41f950)
   * [Reclaim Tons of Disk Space by Compacting Your Docker Desktop WSL 2 VM — Nick Janetakis](https://nickjanetakis.com/blog/reclaiming-tons-of-diskspace-by-compacting-your-docker-desktop-wsl-2-vm)
   * [Connecting USB devices to WSL - Windows Command Line](https://devblogs.microsoft.com/commandline/connecting-usb-devices-to-wsl/)
+  * [가볍게 쓰려했던 WSL2가 무겁게 다가온 순간 - 넷마블 기술 블로그](https://netmarble.engineering/journey-to-wsl2-and-trouble-shooting/)
+  * [WSL2 활용도를 높여주는 고정 IP 설정 - 넷마블 기술 블로그](https://netmarble.engineering/wsl2-static-ip-scheduler-settings/)
   * [GWSL-Source: The actual code for GWSL. And some premade binaries](https://github.com/Opticos/GWSL-Source) python
   * podman [Get podman up and running on Windows using Linux | Opensource.com](https://opensource.com/article/21/10/podman-windows-wsl)
   * [WSL-DistroManager - Highly customizable WSL distro manager for Windows 10 and Windows Server 19H1+](https://github.com/rkttu/WSL-DistroManager)
