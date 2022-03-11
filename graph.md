@@ -49,6 +49,7 @@ Graph
 * [Fighting financial crimes and money laundering with graph data](http://www.analyticbridge.datasciencecentral.com/profiles/blogs/fighting-financial-crimes-and-money-laundering-with-graph-data)
 * [(E, K)Generating Python Module Dependency Graphs(종속성 그래프 생성하기)](http://stackrefactoring.blogspot.com/2016/06/e-kgenerating-python-module-dependency.html)
 * [오픈 그래프 프로토콜(Open Graph protocol) 페이스북, 트위터 등에서 쓰이는 링크 미리보기? 링크 삽입시 미리보기에 대해 알아 보자](http://zzong.net/post/6)
+* [링크의 미리보기 제목, 설명, 이미지를 결정하는 open graph 태그](https://blog.ab180.co/posts/open-graph-as-a-website-preview)
 * [Graph Databases Will Change Your Freakin' Life (Best Intro Into Graph Databases)](https://www.youtube.com/watch?v=GekQqFZm7mA)
 * [대한민국 인맥지도 (SPARQL, Python, D3JS, Network visualization)](https://docs.google.com/presentation/d/1OgbNGLMocDW0YierCQk96i6-0poYgqJXj4xZBPJsNKY/edit?usp=sharing)
 * [Predicting Friendship Who’s Most Likely Your Next Friend?](https://towardsdatascience.com/predicting-friendship-a82bc7bbdf11)
