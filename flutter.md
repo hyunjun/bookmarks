@@ -190,6 +190,7 @@ Flutter
   * [상태, 네비게이션, 의존성 관리를 위한 GetX](https://blog.naver.com/pjt3591oo/222596875295)
   * [http 통신을 위한 GetX - GetConnect](https://blog.naver.com/pjt3591oo/222599743256)
 * [FlutterFlow - Flutter앱을 드래그앤 드랍으로 개발 | GeekNews](https://news.hada.io/topic?id=5604)
+* [flutter_fastapi: crossplatform flutter with fastapi backend](https://github.com/comfuture/flutter_fastapi)
 * [flutter-folio: A platform adaptive Flutter app for desktop, mobile, and web](https://github.com/gskinnerTeam/flutter-folio)
   * [Flutter Folio: A platform adaptive Flutter app for desktop, mobile, and web](https://flutter.gskinner.com/)
 * Retrofit
