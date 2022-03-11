@@ -265,6 +265,7 @@ NoSQL
   * [Firebase로 Google 로그인 구현하기 (Spring + React 예제)](https://velog.io/@couchcoding/Firebase%EB%A1%9C-Google-%EB%A1%9C%EA%B7%B8%EC%9D%B8-%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0-Spring-React-%EC%98%88%EC%A0%9C)
   * [supabase: The open source Firebase alternative. Follow to stay updated about our public Beta](https://github.com/supabase/supabase)
   * [Top 5 Reasons to Learn Firebase in 2022](https://javarevisited.blogspot.com/2020/06/why-frontend-developer-should-learn-Firebase.html)
+  * [Python으로 FCM push 보내기 - 이상선 - Medium](https://medium.com/@sunyi233/python%EC%9C%BC%EB%A1%9C-fcm-push-%EB%B3%B4%EB%82%B4%EA%B8%B0-431b7a17c151)
 * [The Google Stack](http://malteschwarzkopf.de/research/assets/google-stack.pdf)
   * [What is the open source version of Google Cloud Dataflow?](http://www.quora.com/What-is-the-open-source-version-of-Google-Cloud-Dataflow)
   * [Google Dataflow A Unified Model for Batch and Streaming Data Processing](https://www.youtube.com/watch?v=3UfZN59Nsk8)
