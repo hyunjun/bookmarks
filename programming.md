@@ -2276,6 +2276,7 @@ Programming
     * 레그레이션 파이프라인에서 2시간 마다 메인라인에 대해 전체 테스트 실행
   * 이로써 테스트 실행 시간이 40% 감소, 테스트 결과가 일관되지 않은 비율은 90% 감소
 * [10 real-world stories of how we’ve compromised CI/CD pipelines – NCC Group Research](https://research.nccgroup.com/2022/01/13/10-real-world-stories-of-how-weve-compromised-ci-cd-pipelines/)
+* [Moving Java to Telco Cloud, with Mihai Ionita - YouTube](https://www.youtube.com/watch?v=VtOR_JROSRo)
 * CodeCov [Publishing Scala Code Coverage Results to CodeCov using Github Actions | by PJ Fanning | Oct, 2021 | Medium](https://medium.com/@pjfanning/publishing-scala-code-coverage-results-to-codecov-using-github-actions-3e73ea8056cb)
 * GoCD [Open Source Continuous Delivery and Release Automation Server | GoCD](https://www.gocd.org/)
   * [Jenkins Vs. GoCD: Battle Of CI/CD Tools](https://www.lambdatest.com/blog/jenkins-vs-gocd-battle-of-ci-cd-tools/)
