@@ -480,9 +480,10 @@ NLP
 * [딥 러닝을 이용한 자연어 처리 입문](https://wikidocs.net/book/2155)
   * [tensorflow-nlp-tutorial: tensorflow를 사용하여 텍스트 전처리부터 BERT, GPT와 같은 최신 모델의 다운스트림 태스크 코드들을 정리한 Deep Learning NLP 저장소입니다](https://github.com/ukairia777/tensorflow-nlp-tutorial)
 * [음성인식으로 시작하는 딥러닝](https://wikidocs.net/book/2553)
-* [practical-nlp: Official Repository for 'Practical Natural Language Processing' by O'Reilly](https://github.com/practical-nlp/practical-nlp)
+* [자연어처리(NLP) 추천 웹사이트, 동영상강좌, 책](https://brunch.co.kr/@gauss92tgrd/50)
 * [7 Best Natural Language Processing Books In 2020](https://nextotech.com/natural-language-processing-books-in-2020/)
 * [7 Best Natural Language Processing Books In 2021](https://nextotech.com/natural-language-processing-books-in-2021/)
+* [practical-nlp: Official Repository for 'Practical Natural Language Processing' by O'Reilly](https://github.com/practical-nlp/practical-nlp)
 
 # Category
 * text categorization; 예를 들어 100만개의 상품 description이 있고, 이걸 supervised를 위한 document로 사용해, 나중에 들어오는 상품 description을 통해 cateogory 판별
