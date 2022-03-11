@@ -792,6 +792,7 @@ Docker
 * [Kubernetes Intro](https://blog.2dal.com/2018/02/28/kubernetes-intro/)
 * [드디어! "쿠버네티스(Kubernetes)" .. : 네이버블로그](https://blog.naver.com/ehunterkang/222261251200)
 * [쿠버네티스가 대세가 된 이유 3가지!](https://www.youtube.com/watch?v=S3FVcdZcZnA)
+* [번역 쿠버네티스는 단순히 컨테이너를 관리하는 툴이 아닙니다. | 커피고래의 노트](https://coffeewhale.com/k8s-isnt-containers)
 * [Kubernetes Tutorial for Beginners Full Course in 4 Hours - YouTube](https://www.youtube.com/watch?v=X48VuDVv0do)
 * Kubernetes
   * [01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/)
@@ -1225,6 +1226,7 @@ Docker
 * [Kubernetes Documentary Part 1: A Critical Review | Cloud Critical](https://www.cloudcritical.org/article/kubernetes-documentary-part-1/)
 * [JENNIFER – 쿠버네티스 환경(AKS, EKS, GKE,…) 지원 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2022-02-22/)
 * [Scaling Kubernetes to Over 4k Nodes and 200k Pods | by Abdul Qadeer | The PayPal Technology Blog | Jan, 2022 | Medium](https://medium.com/paypal-tech/scaling-kubernetes-to-over-4k-nodes-and-200k-pods-29988fad6ed)
+* [Accelerating Reinforcement Batch Inference Speed through Unlimited Parallel Processing (AWS, k8s) | by 류원탁 | SPACEWALK blog | Mar, 2022 | Medium](https://medium.com/spacewalk-blog/accelerating-reinforcement-batch-inference-speed-through-unlimited-parallel-processing-aws-k8s-b58debe0e095)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
