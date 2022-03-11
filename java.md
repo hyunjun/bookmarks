@@ -928,6 +928,7 @@ Java
 * [**Open sourcing oomd, a new approach to handling OOMs**](https://code.fb.com/production-engineering/open-sourcing-oomd-a-new-approach-to-handling-ooms/)
   * Facebook 인프라 확장에 따라 발생한 여러 부작용 중 메모리 부족(OOM)을 개선하기 위해 전통적인 리눅스 OOM killer 보다 빨리 응답하고 신뢰할 수 있는 솔루션으로 oomd를 개발, 적용,오픈 소스 공개
 * [JVM Architecture란? :: 당근케잌](https://yeon-kr.tistory.com/112)
+* [JVM Architecture & Class Loaders Java | Making Java Easy To Learn](https://javatechonline.com/jvm-architecture-class-loaders-java)
 * [Java Memory Model(자바 메모리 모델) :: 당근케잌](https://yeon-kr.tistory.com/114)
 * [**자바 코드와 메서드, 스태틱 변수 등은 메모리의 어디에 위치할까? - 골든래빗**](https://goldenrabbit.co.kr/2021/11/03/%EC%9E%90%EB%B0%94-%EC%BD%94%EB%93%9C%EC%99%80-%EB%A9%94%EC%84%9C%EB%93%9C-%EC%8A%A4%ED%83%9C%ED%8B%B1-%EB%B3%80%EC%88%98-%EB%93%B1%EC%9D%80-%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%9D%98-%EC%96%B4%EB%94%94/)
 * [스택과 힙 메모리, 그리고 멀티 스레드 :: 시행착오를 줄이는 방법](https://jinssssun.tistory.com/3) Kotlin
