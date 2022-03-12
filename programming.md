@@ -3153,6 +3153,7 @@ Programming
   * [2월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2022/02/b-2.html)
   * [2월 3주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/02/b-2-3.html)
   * [3월 1주 소식(개발/클라우드/고성능 서버/데이터베이스 관련 소식 정리)](https://jhrogue.blogspot.com/2022/03/b-3-1.html)
+  * [3월 소식(빅데이터/인공지능, 읽을거리 부문)](https://jhrogue.blogspot.com/2022/03/b-3.html)
 * Outsider's Dev Story
   * [기술 뉴스 #75 : 17-04-01](https://blog.outsider.ne.kr/1282)
   * [기술 뉴스 #76 : 17-04-15](https://blog.outsider.ne.kr/1284)
