@@ -523,6 +523,13 @@ Book
   * ★★★☆☆ 2022.01.30
   * [무라카미 T - Jun - Medium](https://nymets.medium.com/%EB%AC%B4%EB%9D%BC%EC%B9%B4%EB%AF%B8-t-43fc00d4c433)
 
+# Note, Memo
+* (NOT YET) [제텔카스텐 - 글 쓰는 인간을 위한 두 번째 뇌](https://danny610.tistory.com/289)
+  * 한라 802-아294ㅈ 탐라 L문802-아233ㅈ
+  * [제 2의 뇌 만들기 프로젝트 매거진](https://brunch.co.kr/magazine/basb)
+* (NOT YET) 하우 투 제텔카스텐: 옵시디언 기반 두 번째 뇌 만들기
+  * [하우 투 제텔카스텐 - YouTube](https://www.youtube.com/watch?v=iTJZuw8Wu8k)
+
 # Philosophy
 * [철학자의 연애](https://jh4hj.tistory.com/entry/%EC%B2%A0%ED%95%99%EC%9E%90%EC%9D%98-%EC%97%B0%EC%95%A0)
   * 2015.06.10
