@@ -1119,6 +1119,7 @@ Web
 * [실전 Web Application 부하 테스트 - 1편](https://blog.imqa.io/siljeon-web-aeb-buha-teseuteu-1byeon/)
 * [실전 Web Application 부하 테스트 - 2편](https://blog.imqa.io/loadtesting2/)
 * [내가 만든 서비스는 얼마나 많은 사용자가 이용할 수 있을까? - 1편(성능 테스트란?)](https://hyuntaeknote.tistory.com/10)
+* [초식 - 서버 성능 올리기 (처리량, 응답시간) - YouTube](https://www.youtube.com/watch?v=JJJ4LReZ5q4)
 * [Artillery.io | Load & Smoke Testing](https://artillery.io/)
   * [**사전예약 서버 프로파일링으로 서버 병목찾아 개선하기**](https://tech.devsisters.com/posts/perf-citizen-card/)
 * [Gatling - a powerful open-source load testing solution](https://gatling.io/download/)
