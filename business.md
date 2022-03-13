@@ -467,6 +467,10 @@ Business
 * [인사팀은 사실 컬처팀, 문화팀이다 | ㅍㅍㅅㅅ](https://ppss.kr/archives/248688)
 * [하드 스킬보다 소프트 스킬이 중요하다. - T Times](http://www.ttimes.co.kr/view.html?no=2022012016577779004) 머스크가 좋은 놈인지 모르겠는데 나쁜 놈은 안 된다는 게 아이러니하긴 하지만 이야기 자체는 동의
 * [남세동 대표가 자기주도적 직원 뽑는 4단계 채용비법 - T Times](http://www.ttimes.co.kr/view.html?no=2022022516187784424)
+* 개발자들에게 채용에 좋은 인상을 줄 수 있을까?
+  * [Sir.LOIN 플랫폼팀을 소개합니다!](https://github.com/sirloin-dev/meatplatform/blob/master/README.adoc)
+  * [신입 개발자의 첫 홀로서기 프로젝트. 안녕하세요!! 29CM 를 첫 직장으로 삼고서 5개월차에 접어든 병아리… | by Jihye Woo | 29CM 기술블로그 | Mar, 2022 | Medium](https://medium.com/29cm/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B2%AB-%ED%99%80%EB%A1%9C%EC%84%9C%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2303ff8dfe30)
+* [이직이 경력관리가 된 ‘대퇴사시대'](https://camp.lemonbase.com/column/talentmanagement3) 이직을 활발하게 권장해서 오히려 브랜드 가치를 높이는 이야기
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
