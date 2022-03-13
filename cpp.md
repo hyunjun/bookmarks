@@ -348,6 +348,7 @@ C++
 * [Cat :: C++14 functional library](http://cat.github.io/)
 * Checksum
   * [two types of check sum calculation](https://gist.github.com/MareArts/5676517d8822edc7e00da7e74429cfcb#file-calchecksum-cpp)
+* [Chocolat](https://github.com/ensatone/Chocolat) The educational programming language for learners including the concepts of lexer,parser and interpreter
 * ["cint" is a C/C++ interpreter which has following features](http://www.hanno.jp/gotom/Cint.html)
 * [Cling - C++ Kernel for Jupyter with Cling](https://github.com/minrk/clingkernel)
   * [Cling is an interactive C++ interpreter, built on the top of LLVM and Clang libraries](https://root.cern.ch/cling)
