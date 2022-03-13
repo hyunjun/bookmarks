@@ -716,6 +716,8 @@ Deep Learning
 * [Jon Barron - Understanding and Extending Neural Radiance Fields - YouTube](https://www.youtube.com/watch?v=HfJpQCBTqZs)
 * [캐글 딥러닝 강좌 정리 1 - 뉴런(Neuron)과 깊은 신경망(DNN) - 멈춤보단 천천히라도](https://webnautes.tistory.com/1646)
 * [캐글 딥러닝 강좌 정리 2 - 확률적 경사 하강법(Stochastic Gradient Descent), 손실함수, 옵티마이저 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1647)
+* [Deep Learning Is Hitting a Wall - Nautilus | Science Connected](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
+  * [딥러닝은 한계에 직면했다 | GeekNews](https://news.hada.io/topic?id=6129)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
