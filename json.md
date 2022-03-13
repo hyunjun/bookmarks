@@ -146,6 +146,7 @@ Json
   * [Jackson : JSON Selective serialize/deserialize object properties | by Sai Pitchuka | Medium](https://saibaburvr.medium.com/jackson-json-selective-serialize-deserialize-object-properties-6d86c25a2d68)
   * [Jackson의 확장 구조를 파헤쳐 보자](https://d2.naver.com/helloworld/0473330)
   * [How to Parse JSON in Java Object using Jackson - Example Tutorial | Java67](https://www.java67.com/2015/02/how-to-parse-json-tofrom-java-object.html)
+  * [Jackson에서 Boolean 직렬화 시 is가 사라지는 문제 — 맥스의 개발 끄적끄적](https://maxjang.com/7)
 * [JMESPath - a query language for JSON](http://jmespath.org/)
 * [jo - JSON output from a shell http://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo ](https://github.com/jpmens/jo)
   * [Jan-Piet Mens :: A shell command to create JSON: jo](https://jpmens.net/2016/03/05/a-shell-command-to-create-json-jo/)
