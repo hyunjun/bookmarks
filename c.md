@@ -171,6 +171,7 @@ C
 * [초보 탈출 #4 - 함수 호출의 원리 및 재귀호출 | 10분 TV](http://10bun.tv/beginner/episode-4/#%EC%9E%AC%EA%B7%80%ED%98%B8%EC%B6%9C%EC%97%90-%EB%8C%80%ED%95%9C-%EA%B0%84%EB%8B%A8%ED%95%9C-%EC%98%88)
 * [**Parsing Protobuf at 2+GB/s: How I Learned To Love Tail Calls in C**](https://blog.reverberate.org/2021/04/21/musttail-efficient-interpreters.html)
 * [Your ABI is Probably Wrong](https://elronnd.net/writ/boring/2021-05-07_abi-wrong.html)
+* [To Save C, We Must Save ABI | The Pasture](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
 * [함수의 극한 구하는 프로그램 만들기(C언어) | 수성비 전자방](https://toopyo.tistory.com/entry/limitfx)
 * [Why I still like C and strongly dislike C++ « Kostya's Boring Codec World](https://codecs.multimedia.cx/2021/05/why-i-still-like-c-and-strongly-dislike-cpp/)
 * [My toy renderer, part 1: Keep it simple](https://momentsingraphics.de/ToyRenderer1KeepItSimple.html)
