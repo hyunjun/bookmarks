@@ -146,6 +146,7 @@
 * [Rust OpenAI Integration (GPT-3) - YouTube](https://www.youtube.com/watch?v=5WhJQMnJjik)
 * [13 easy Rust tips (code review) - YouTube](https://www.youtube.com/watch?v=w_LUixO3tpU)
 * [Anatomy of a Terminal Emulator :: poor.dev](https://poor.dev/blog/terminal-anatomy/)
+* [My VSCode setup: Rust-analyzer for local+remote work - YouTube](https://www.youtube.com/watch?v=PtvSBsPbfB8)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
