@@ -1573,6 +1573,7 @@ Java
 * [Spring으로부터 도메인 모듈을 보호하는 방법. 주의: 도메인 모델과 영속(JPA) 모델을 분리하는 내용에 대해서는… | by Solomon Maeng | Feb, 2022 | Medium](https://msolo021015.medium.com/spring%EC%9C%BC%EB%A1%9C%EB%B6%80%ED%84%B0-%EB%8F%84%EB%A9%94%EC%9D%B8-%EB%AA%A8%EB%93%88%EC%9D%84-%EB%B3%B4%ED%98%B8%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95-91ffa157ee77)
 * [Hello World! | 토리맘의 한글라이즈 프로젝트](https://godekdls.github.io/)
 * [RESTful API 서버를 위협하는 한 글자, 슬래시 | 요즘IT](https://yozm.wishket.com/magazine/detail/1347/)
+* [Securing Microservices with API Key Based Auth - Spring Cloud Gateway | JavaTechie - YouTube](https://www.youtube.com/watch?v=g4As3PLg6Ts)
 * [infoworld-dropwizard](https://github.com/MTyson/infoworld-dropwizard)
   * [드롭위저드 REST API 프레임워크, 예제로 간단히 시작해보기 - ITWorld Korea](https://www.itworld.co.kr/news/219849)
 * jasypt [28. Spring - jasypt로 application.properties(yml) 데이터 암/복호화](https://kim-jong-hyun.tistory.com/50)
