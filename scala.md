@@ -2023,6 +2023,7 @@ Scala
 * [Scala 3: New Types | Rock the JVM - YouTube](https://www.youtube.com/watch?v=orTmm6OMaLw)
 * [Generalized Algebraic Datatypes in Scala 3](https://blog.oyanglul.us/scala/dotty/en/gadt)
 * [Build your own refinement types in Scala 3](https://msitko.pl/blog/build-your-own-refinement-types-in-scala3.html)
+* [Examples: Refinement types in Scala 3](https://gist.github.com/Kevin-Lee/94df3994b22aa625eaf484b8d2df8552)
 * [Tuples bring generic programming to Scala 3 | The Scala Programming Language](https://www.scala-lang.org/2021/02/26/tuples-bring-generic-programming-to-scala-3.html) Heterogeneous Lists, HLists
 * [Live 시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=3HS1v4A5MaE&t=500s)
 * [What's new in Scala 3: Implicits! - YouTube](https://www.youtube.com/watch?v=TdwkzNq2gY0)
