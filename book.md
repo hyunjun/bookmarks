@@ -184,6 +184,7 @@ Book
 * (NOT YET) [권력의 심리학 - 권력을 잡으면 인간은 어떻게 변하는가](https://news.v.daum.net/v/20220211050606263)
 * (NOT YET) [브런치북 퇴직 후 그림책을 봅니다](https://brunch.co.kr/brunchbook/wjhee20)
 * (NOT YET) [소련 독재와 전체주의 비판, 2022년에는 어떤 의미로 다가올까? 조지 오웰의 1984 - YouTube](https://www.youtube.com/watch?v=d5xv67iJ1Mg)
+* (NOT YET) ["악의 평범성", 왜 평범한 시민들이 악마로 변하는가! : 한나 아렌트 예루살렘의 아이히만 - YouTube](https://www.youtube.com/watch?v=K7muj9zG-us)
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
