@@ -62,6 +62,7 @@ Bitcoin
 * [DSHR's Blog: EE380 Talk](https://blog.dshr.org/2022/02/ee380-talk.html)
 * [How to Design A Real-time CryptoCurrency Price Alert Backend | by Jerry An | Feb, 2022 | Medium](https://jerryan.medium.com/how-to-design-a-real-time-cryptocurrency-price-alert-backend-470f6245a7cd)
 * [I was wrong, we need crypto | GeekNews](https://news.hada.io/topic?id=6024)
+* [중앙 은행 디지털 통화들에게 해줘야 할 단 한 마디 : 안돼! | GeekNews](https://news.hada.io/topic?id=6133) CDBC
 
 # Blockchain
 * [Awesome-blockchain-kor 모두를 위한 블록체인](https://github.com/yunho0130/awesome-blockchain-kor)
