@@ -131,6 +131,7 @@ Julia
 # Book
 * [Julia Programming for Operations Research: A Primer on Computing](http://www.chkwon.net/julia/)
   * [Julia Programming for Operations Research A Primer on Computing Changhyun Kwon](https://www.softcover.io/read/7b8eb7d0/juliabook)
+  * [Julia Programming for Operations Research 2/e | Softcover.io](https://juliabook.chkwon.net/book)
 * [Julia for Data Science, by Zacharias Voulgaris, PhD](https://technicspub.com/analytics/)
 * [bogumilkaminski.pl/files/julia_express.pdf](http://bogumilkaminski.pl/files/julia_express.pdf)
 * [First Semester in Numerical Analysis with Julia](https://open.umn.edu/opentextbooks/textbooks/first-semester-in-numerical-analysis-with-julia)
