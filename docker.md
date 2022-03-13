@@ -1681,8 +1681,9 @@ Docker
 * [오픈소스 컨트리뷰션 1주차 스프린트 : 오픈스택 환경 구성하기 | by Ryan Kim | Aug, 2021 | Medium](https://equus3144.medium.com/%EC%98%A4%ED%94%88%EC%86%8C%EC%8A%A4-%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%EC%85%98-1%EC%A3%BC%EC%B0%A8-%EC%8A%A4%ED%94%84%EB%A6%B0%ED%8A%B8-%EC%98%A4%ED%94%88%EC%8A%A4%ED%83%9D-%EC%84%A4%EC%B9%98-%EB%94%94%EB%B2%84%EA%B9%85%ED%95%98%EA%B8%B0-be44aed886)
 * [Open Infra How to calculate the cloud system operating rate](https://naleejang.tistory.com/247)
 * [Heat Template를 이용한 오픈스택 프로비저닝 - YouTube](https://www.youtube.com/watch?v=dGkMWdTsjxc)
-* [셸 스크립트를 이용한 인스턴스 생성 - YouTube](https://www.youtube.com/watch?v=C_iUDJ7ZPFE)
-* [셸 스크립트를 활용한 클라우드 모니터링 - YouTube](https://www.youtube.com/watch?v=f5_JMY2nHFs)
+* [셸 스크립트를 이용한 인스턴스 생성](https://www.youtube.com/watch?v=C_iUDJ7ZPFE)
+* [셸 스크립트를 활용한 클라우드 모니터링](https://www.youtube.com/watch?v=f5_JMY2nHFs)
+* [Bad News for Cloud Computing: OpenStack Use Plummets and Discounts Dry Up – The New Stack](https://thenewstack.io/bad-news-for-cloud-computing-openstack-use-plummets-and-discounts-dry-up/)
 
 # RunC
 * [Announcing a lightweight universal runtime container, by the OPEN CONTAINER PROJECT](http://runc.io/)
