@@ -1048,6 +1048,9 @@ Programming Books
   * [엘라스틱 스택 개발부터 운영까지](https://jhrogue.blogspot.com/2021/08/blog-post_20.html)
   * [독서광 엘라스틱 스택 개발부터 운영까지 - YouTube](https://www.youtube.com/watch?v=_TWmXx1ECd4)
 
+# Elixir
+* [처음 배우는 엘릭서 프로그래밍](https://www.hanbit.co.kr/store/books/look.php?p_code=B5732906061)
+
 # Finance
 
 * [블록체인 애플리케이션 개발 실전 입문](http://wikibook.co.kr/blockchain-solidity)
