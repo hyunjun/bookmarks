@@ -1386,6 +1386,7 @@ Machine Learning
   * [Neptune...? 은 또 뭐여.. · Jerry's Blog](https://jjerry-k.github.io/deeplearning/2020/07/23/neptune/)
 * [optuna: A hyperparameter optimization framework](https://github.com/optuna/optuna)
   * [Nas from scratch using Optuna - Woongjoon_AI](https://woongjoonchoi.github.io/modeloptimization/nas_from_scratch/)
+  * [Optuna를 사용하여 XGBoost 최적 하이퍼 파라미터 구하는 예제코드 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1658)
 * [Orange - Open source machine learning and data visualization for novice and expert. Interactive data analysis workflows with a large toolbox](https://orange.biolab.si/)
   * [Orange3 지도학습 - 생활코딩](https://opentutorials.org/course/4569)
   * [Orange3](https://opentutorials.org/module/4967)
