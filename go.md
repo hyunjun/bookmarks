@@ -305,6 +305,7 @@ Go
 * [Algorithms Implemented in Go](https://morioh.com/p/56fd1c6f2f7a) e.g. ahocorasick
 * [Best IDEs And Tools For Golang Development](https://www.hyperlinkinfosystem.com/blog/best-ides-and-tools-for-golang-development)
 * [What comes with Go 1.18 Features Golang Generics Fuzzing | Medium](https://medium.com/@emreodabas_20110/quick-guide-go-1-18-features-e236d5b351ef)
+* [Get an Authentication system up and running with Go(Golang) in less than 30secs - DEV Community](https://dev.to/hisyntax/get-an-authentication-system-up-and-running-with-gogolang-in-less-than-30secs-46po)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
@@ -377,6 +378,7 @@ Go
   * [How the Go runtime implements maps efficiently (without generics)](https://dave.cheney.net/2018/05/29/how-the-go-runtime-implements-maps-efficiently-without-generics)
   * [Assignment to entry in nil map in golang | Common Mistake in Golang | Dr Vipin Classes - YouTube](https://www.youtube.com/watch?v=whstXtUBJ0E)
   * [Avoid The Three Mistakes When Using a Map in Go | by Jerry An | Feb, 2022 | Level Up Coding](https://levelup.gitconnected.com/avoid-the-three-mistakes-when-using-a-map-in-go-699435db226c)
+  * [Introduction to Golang Maps With Examples](https://morioh.com/p/d745e4166b46)
 * module
   * [Part 1 - Using Go Modules](https://blog.golang.org/using-go-modules)
   * [Part 2 - Migrating to Go Modules](https://blog.golang.org/migrating-to-go-modules)
