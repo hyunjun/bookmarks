@@ -16,6 +16,9 @@
 * [디지털 광고 효과 실시간 측정 어려워져, 데이터 수집-분석 방식 다변화가 열쇠 | 마케팅/세일즈 | DBR](https://dbr.donga.com/article/view/1202/article_no/10219/ac/a_view)
 * funnel [Automated data collection & marketing reports | Funnel](https://funnel.io/)
 
+# Apple
+* [애플의 앱 추적 투명성(App Tracking Transparency)에 대한 염려로 모바일 게임 앱 리타게팅을 놓치지 마세요](https://blog.naver.com/remerge_korea/222668609921)
+
 # Facebook
 * [페이스북 광고 타겟팅 3가지](https://brunch.co.kr/@glinkmedia/51)
 * [페이스북 CBO 캠페인 4가지 필수 전략](https://www.digiocean.co.kr/p/blog/?p=dgq-facebook-cbo-4-strategy)
