@@ -614,6 +614,8 @@ Go
 * [go-sqlmock: Sql mock driver for golang to test database interactions](https://github.com/DATA-DOG/go-sqlmock)
   * [golang - Go 언어의 DB mock(sqlmock)을 알기 쉽도록 해 보았다 - jacking75](https://jacking75.github.io/go_splmock/)
 * [gostl: Data structure and algorithm library for go, designed to provide functions similar to C++ STL](https://github.com/liyue201/gostl)
+* [gota: Gota: DataFrames and data wrangling in Go (Golang)](https://github.com/go-gota/gota)
+  * [Dataframes in GO! Gota Tutorial - YouTube](https://www.youtube.com/watch?v=0HwRE_At8Rs)
 * [go-tea - Tea provides an Elm inspired functional framework for interactive command-line programs](https://github.com/tj/go-tea)
 * [GoWork - Go Library for distributing work to workers](https://github.com/ryanskidmore/GoWork)
 * [gpu-operator: NVIDIA GPU Operator creates/configures/manages GPUs atop Kubernetes](https://github.com/NVIDIA/gpu-operator)
@@ -741,6 +743,7 @@ Go
 
 ## Library CLI command line interface
 * [Writing Go CLIs With Just Enough Architecture · The Ethically-Trained Programmer](https://blog.carlmjohnson.net/post/2020/go-cli-how-to-and-advice/)
+* [Building CLI Apps with Golang - YouTube](https://www.youtube.com/watch?v=ez1j4a5dfxs)
 * [Charm](https://github.com/charmbracelet)
   * [Charm](https://charm.sh/)
 * [cobra: A Commander for modern Go CLI interactions](https://github.com/spf13/cobra)
