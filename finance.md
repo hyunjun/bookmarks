@@ -4,6 +4,7 @@ Finance
 * [~The Next Generation of Currency~](http://www.wired.com/partners/bnymellon/futureofmoney/)
 * [5분에 이해하는 주식 밸류에이션과 믿거나 말거나 2차 장기 시장 대전망](http://www.creativeworksofknowledge.com/2015/05/07/equity-valuation-is-easy-like-123/)
 * [72의 법칙에 대해 (부제 : 예적금과 보험의 금리역전)](http://m.clien.net/cs3/board?bo_table=lecture&bo_style=view&wr_id=261651&page=2&spt=-16021)
+* [The Rule of 72 – BetterExplained](https://betterexplained.com/articles/the-rule-of-72/)
 * [Algorithmic Trading of Futures via Machine Learning](http://cs229.stanford.edu/proj2014/David%20Montague,%20Algorithmic%20Trading%20of%20Futures%20via%20Machine%20Learning.pdf)
 * [Mortgages Are About Math: Open-Source Loan-Level Analysis of Fannie and Freddie](http://toddwschneider.com/posts/mortgages-are-about-math-open-source-loan-level-analysis-of-fannie-and-freddie)
 * [financipe.com](http://financipe.com/)
@@ -105,6 +106,7 @@ Finance
 * [이럴때는 달러투자 하지마세요 - 홍춘욱 - YouTube](https://www.youtube.com/watch?v=RpB1bM9iA8E) KODEX200미국채혼합(미국채60% 한국주식40%)
 * [배당금 높은 주식 확인하는 방법과 추천 주식 TOP3는?!](https://tariat.tistory.com/1284) 애플 코카콜라 고려신용정보
 * [돈이 되는 자원에 미리 투자해야 합니다 - YouTube](https://www.youtube.com/watch?v=CzxclgU9LOw) ADR VALE
+* [What You Should Know About The Stock Market – BetterExplained](https://betterexplained.com/articles/what-you-should-know-about-the-stock-market/)
 
 # Bank
 * [통장이나 카드 없어도 돈 인출 된다? '유용한 은행 서비스 6가지'](http://v.media.daum.net/v/20170712142919618?d=y)
