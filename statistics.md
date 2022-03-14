@@ -331,6 +331,7 @@ Statistics
 * [Think Stats 2e](http://greenteapress.com/wp/think-stats-2e/) python + statistics, free download
 * [Computer Age Statistical Inference: Algorithms, Evidence and Data Science](https://web.stanford.edu/~hastie/CASI/)
   * [Python code for Computer Age Statistical Inference by Bradley Efron and Trevor Hastie](https://github.com/jrfiedler/CASI_Python)
+* naked statistics [(책 추천) 벌거벗은 통계학 | 이상현 IN 베를린](https://iamsang.com/blog/2022/03/13/naked-statistics/)
 * [Practical Statistics for Data Scientists - Chapter 1 - Exploratory Data Analysis - YouTube](https://www.youtube.com/watch?v=wwsizzg6UjU)
 * [project mosaic book](http://project-mosaic-books.com/) Computer-savvy textbooks on statistics and data science
 
