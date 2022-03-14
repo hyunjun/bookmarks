@@ -1667,6 +1667,7 @@ App
   * [How To Find And Replace Multiple Text Strings Within A Text String | How To Excel](https://www.howtoexcel.org/vba/how-to-find-and-replace-multiple-text-strings-within-a-text-string/)
   * [회사 내 애로사항 및 개선점 응답 데이터 (from 직원 대상 익명 설문조사) 취합 및 처리하기 · Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io Wiki](https://github.com/Pentaho-User-Group-Korea/Pentaho-User-Group-Korea.github.io/wiki/%ED%9A%8C%EC%82%AC-%EB%82%B4-%EC%95%A0%EB%A1%9C%EC%82%AC%ED%95%AD-%EB%B0%8F-%EA%B0%9C%EC%84%A0%EC%A0%90-%EC%9D%91%EB%8B%B5-%EB%8D%B0%EC%9D%B4%ED%84%B0-(from-%EC%A7%81%EC%9B%90-%EB%8C%80%EC%83%81-%EC%9D%B5%EB%AA%85-%EC%84%A4%EB%AC%B8%EC%A1%B0%EC%82%AC)-%EC%B7%A8%ED%95%A9-%EB%B0%8F-%EC%B2%98%EB%A6%AC%ED%95%98%EA%B8%B0)
   * [알아두면 유용한 윈도우 및 맥용 엑셀 단축키 - CIO Korea](https://www.ciokorea.com/news/199979)
+  * [스프레드시트가 비즈니스를 망치는 5가지 이유 - ITWorld Korea](https://www.itworld.co.kr/news/228424)
   * [LAMBDA: The ultimate Excel worksheet function - Microsoft Research](https://www.microsoft.com/en-us/research/blog/lambda-the-ultimatae-excel-worksheet-function/)
 * Google sheet
   * [Google Sheet 로 몸무게를 기록하자](https://jusths.tistory.com/144) bar chart
