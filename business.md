@@ -403,6 +403,7 @@ Business
 * [전략 인맥 영업이 어려운 4가지 이유](http://moneyman.kr/archives/2276)
 * [면접에서 문제 해결 능력 보여주기 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250779) MBA, 면접하고만 관계있는 이야기는 아님
 * [전략 단순함이 중요한 4가지 이유](http://moneyman.kr/archives/1435)
+* [애플 때문에 몰락한 회사가 애플에 맞서는 방법 - T Times](http://www.ttimes.co.kr/view.html?no=2022031417397741570) 가민 Garmin 확고한 핵심역량, 핵심역량 확장
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
