@@ -1659,6 +1659,7 @@ NLP
 * [단디 - 한국어 맞춤법 검사기](https://marketplace.visualstudio.com/items?itemName=fallroot.vscode-dandy)
 * [비슷한 명령어 추천은 어떻게 하는걸까? – ~/xo.dev –](https://xo.dev/hacking-command-recommendation/) Levenshtein
 * [facebook 맞춤법 검사기 봇](https://www.facebook.com/groups/botgroup/permalink/504923836371451/)
+* [Spelling Checker Program in Python - Python Programming - PyShark](https://pyshark.com/spelling-checker-program-in-python/)
 * [py-hanspell - 파이썬 한글 맞춤법 검사 라이브러리. (네이버 맞춤법 검사기 사용)](https://github.com/ssut/py-hanspell)
   * [파이썬 네이버 맞춤법 검사 API, Py-hanspell](https://blog.naver.com/dsz08082/222317249656)
 * [SymSpell: 1 million times faster spelling correction & fuzzy search through Symmetric Delete spelling correction algorithm](https://github.com/wolfgarbe/SymSpell)
