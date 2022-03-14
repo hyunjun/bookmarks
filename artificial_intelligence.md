@@ -144,6 +144,7 @@ Artificial Intelligence
 * [AI도 과하면 독, ‘딱 맞는 해법’은 따로 있다 - CIO Korea](https://www.ciokorea.com/news/223324)
 * [인터뷰 김광섭 카카오브레인 CTO AI로 '불쾌한 골짜기' 건넌다 | 아주경제](https://www.ajunews.com/view/20220214145910701)
 * [Computer Scientists Prove Why Bigger Neural Networks Do Better | Quanta Magazine](https://www.quantamagazine.org/computer-scientists-prove-why-bigger-neural-networks-do-better-20220210/)
+* [Anatomy of an AI System](https://anatomyof.ai/)
 
 # Artificial Neural Networks
 * [A Gentle Introduction to Artificial Neural Networks](https://theclevermachine.wordpress.com/2014/09/11/a-gentle-introduction-to-artificial-neural-networks/)
