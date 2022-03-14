@@ -2,6 +2,7 @@ Scala
 =====
 * [lightbend.com](https://www.lightbend.com/)
 * [Awesome Scala](https://github.com/lauris/awesome-scala)
+* [Finding awesome Scala libraries | The Scala Programming Language](https://scala-lang.org/blog/2022/03/08/finding-awesome-libraries.html)
 * [scalatimes.com](https://scalatimes.com/)
 * [medium.com/tag/scala](https://medium.com/tag/scala)
 * [Thisweekinscala](https://medium.com/tag/thisweekinscala/archive)
@@ -787,6 +788,7 @@ Scala
   * [Good example of implicit parameter in Scala? - Stack Overflow](https://stackoverflow.com/questions/9530893/good-example-of-implicit-parameter-in-scala)
   * [Implicits for Hypothetical Babies - YouTube](https://www.youtube.com/watch?v=6tiPdV93Shw)
   * [Journey of Implicits in Scala. Implicits are the most ambivalent… | by ayush mittal | Mar, 2022 | Medium](https://ayushm4489.medium.com/journey-of-implicits-in-scala-737a8db2f490)
+  * [Journey of Implicits in Scala — part 2 | by ayush mittal | Mar, 2022 | Medium](https://ayushm4489.medium.com/journey-of-implicits-in-scala-part-2-18aec19c6bb5)
 * I/O
   * [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
   * [Towards a better API for I/O](https://medium.com/permutive/towards-a-better-api-for-i-o-35d385060a5c)
@@ -1906,6 +1908,7 @@ Scala
 * [현프 3-2 스칼라 패키지 관리자 sbt 고찰 : 클리앙](https://www.clien.net/service/board/cm_app/13709851)
 * [시드니 개발자 아저씨 케빈의 개발자 방송 Live - YouTube](https://www.youtube.com/watch?v=eb7eaOMlwGs) scala.jfro.io scala3
 * [My Dos and Donts in sbt Build Definitions](https://www.chris-kipp.io/blog/my-dos-and-donts-in-sbt-build-definitions)
+* [Different Ways to Package a Simple Scala Application | Baeldung on Scala](https://www.baeldung.com/scala/package-app) SBT Assembly, SBT Native Packager, Jlink, SBT ProGuard, Scala-CLI
 * [maven2sbt | maven2sbt](https://maven2sbt.kevinly.dev)
   * [#1 게릴라 방송 (2017-04-03)](https://www.youtube.com/watch?v=oaQ71Fm3q0U)
   * [#2 게릴라 방송 (2017-04-04)](https://www.youtube.com/watch?v=QjAOmX4Sj_4)
@@ -1971,6 +1974,7 @@ Scala
 * [TASTY way of (re)writing macros in Scala 3 | by Kacper Korban | VirtusLab | Apr, 2021 | Medium](https://medium.com/virtuslab/tasty-way-of-re-writing-macros-in-scala-3-3ce704a2c37c)
 * [Scala 3 macros tips & tricks](https://softwaremill.com/scala-3-macros-tips-and-tricks/)
 * [Scala 3: Macros. Last time I introduced one of the new… | by Dean Wampler | Scala 3 | Jul, 2021 | Medium](https://medium.com/scala-3/scala-3-macros-d63dd6811f89)
+* [Scala 3 inline and macros community census - Language Design / Macros - Scala Contributors](https://contributors.scala-lang.org/t/scala-3-inline-and-macros-community-census/5608)
 * [IMPORT SUGGESTIONS IN SCALA 3](https://www.scala-lang.org/blog/2020/05/05/scala-3-import-suggestions.html)
 * [Announcing the Moving from Scala 2 to Scala 3 course – Lunatech](https://www.lunatech.com/2020/06/announcing-the-moving-from-scala-2-to-scala-3-course/)
   * [lunatech-scala-2-to-scala3-course/exercises](https://github.com/lunatech-labs/lunatech-scala-2-to-scala3-course/tree/exercises-master/exercises)
@@ -2123,6 +2127,7 @@ Scala
   * [Hands-on Laminar | by Rafał Zelek | SoftwareMill Tech Blog | SoftwareMill Tech Blog](https://blog.softwaremill.com/hands-on-laminar-354ddcc536a9)
 * [ScalablyTyped - The Javascript ecosystem for Scala.js!](https://github.com/oyvindberg/ScalablyTyped)
 * [Sri (Scala React interface) is a scalajs library to build truly native cross platform (mobile (ios and android) and web) applications](https://github.com/chandu0101/sri)
+* [Indoor Vivants:: Cloudflare functions with Scala.js](https://blog.indoorvivants.com/2022-02-14-cloudflare-functions-with-scalajs)
 
 # TDD, Test
 * [Testing without mocking in Scala](http://engineering.monsanto.com/2015/07/28/avoiding-mocks/)
