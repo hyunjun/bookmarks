@@ -689,6 +689,7 @@ Machine Learning
 * [Robust Foundation for Data Pipelines at Scale - Lessons from Netflix - YouTube](https://www.youtube.com/watch?v=GTxurGBfdFU)
 * [Agile Data Science - How to Implement Agile Workflows For Analytics and Machine Learning - YouTube](https://www.youtube.com/watch?v=b6gniYc1sJk)
 * [머신러닝, 딥러닝 대체 뭘 공부하라는거야?](https://velog.io/@dongyi/WhatShouldIDoForAI)
+* [Machine Learning is Still Too Hard for Software Engineers – Nyckel – Add custom machine learning to your application in minutes](https://www.nyckel.com/blog/ml-too-hard-for-software-developers/)
 
 # Amazon AWS
 * [Amazon Machine Learning](https://aws.amazon.com/ko/machine-learning/)
@@ -1255,6 +1256,7 @@ Machine Learning
 * [MLOps정의와 다양한 도구들-1 | Lablup Blog](https://blog.lablup.com/posts/2022/01/27/MLOps)
 * [Why data scientists shouldn’t need to know Kubernetes](https://huyenchip.com/2021/09/13/data-science-infrastructure.html)
 * [MLOps란? MLOps 로드맵 및 MLOps 취업에 대한 생각 | MLOps 강의 추천 있음 - YouTube](https://www.youtube.com/watch?v=xZKtofBe18I)
+* [MLOps and DevOps: Why Data Makes It Different – O’Reilly](https://www.oreilly.com/radar/mlops-and-devops-why-data-makes-it-different/)
 * [AIQC: End-to-end deep learning on your desktop or server](https://github.com/aiqc/aiqc)
   * [AIQC; Deep Learning Experiment | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=XlQGqYkL8N4)
 * [awesome-mlops: A curated list of references for MLOps](https://github.com/visenger/awesome-mlops)
