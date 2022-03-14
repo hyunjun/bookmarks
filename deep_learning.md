@@ -718,6 +718,9 @@ Deep Learning
 * [캐글 딥러닝 강좌 정리 2 - 확률적 경사 하강법(Stochastic Gradient Descent), 손실함수, 옵티마이저 - 멈춤보단 천천히라도](https://webnautes.tistory.com/1647)
 * [Deep Learning Is Hitting a Wall - Nautilus | Science Connected](https://nautil.us/deep-learning-is-hitting-a-wall-14467/)
   * [딥러닝은 한계에 직면했다 | GeekNews](https://news.hada.io/topic?id=6129)
+* [A New Link to an Old Model Could Crack the Mystery of Deep Learning | Quanta Magazine](https://www.quantamagazine.org/a-new-link-to-an-old-model-could-crack-the-mystery-of-deep-learning-20211011/)
+* [DeepETA: How Uber Predicts Arrival Times Using Deep Learning](https://eng.uber.com/deepeta-how-uber-predicts-arrival-times/)
+  * [DeepETA: Uber가 딥러닝으로 도착시간을 예측하는 법 | GeekNews](https://news.hada.io/topic?id=6048)
 
 # AlphaGo
 * [Rochester-NRT/AlphaGo](https://github.com/Rochester-NRT/AlphaGo)
@@ -1287,6 +1290,8 @@ Deep Learning
   * [Caffe 와 Python을 사용하여 딥러닝으로 개와 고양이 구분하기 2](http://kyubot.tistory.com/97)
 * [ChessCoach](https://chrisbutner.github.io/ChessCoach/)
   * [ChessCoach - 자연어로 조언해주는 신경망 기반 체스 엔진 | GeekNews](https://news.hada.io/topic?id=5150)
+* [ch0p1n: Python Package for Automatic Musical Composition](https://github.com/flujoo/ch0p1n)
+  * [My Approach to Automatic Musical Composition](https://flujoo.github.io/en/my-approach-to-automatic-musical-composition/)
 * [chitra: A multi-functional library for full-stack Deep Learning. Simplifies Model Building, API development, and Model Deployment](https://github.com/aniketmaurya/chitra)
 * Cloudera
   * [Deep Learning Frameworks on CDH and Cloudera Data Science Workbench](http://blog.cloudera.com/blog/2017/04/deep-learning-frameworks-on-cdh-and-cloudera-data-science-workbench/)
@@ -1334,7 +1339,9 @@ Deep Learning
 * [Mind - Flexible neural networks in JavaScript](http://www.mindjs.net/)
 * [Mindori - On-demand GPUs for neural networks](http://mindori.com/)
 * [MindSpore - a new open source deep learning training/inference framework that could be used for mobile, edge and cloud scenarios](https://github.com/mindspore-ai/mindspore)
-* [muzero-general: MuZero](https://github.com/werner-duvaud/muzero-general)
+* MuZero
+  * [딥마인드 MuZero AI가 유튜브 비디오 압축을 개선 | GeekNews](https://news.hada.io/topic?id=6073)
+  * [muzero-general: MuZero](https://github.com/werner-duvaud/muzero-general)
 * [mxnet - Flexible and Efficient Library for Deep Learning](http://mxnet.io/)
   * [Awesome MXNet](https://github.com/chinakook/Awesome-MXNet) A curated list of MXNet examples, tutorials and blogs
   * [**An interactive book on deep learning. Much easy, so MXNet. Wow. http://gluon.mxnet.io**](https://github.com/zackchase/mxnet-the-straight-dope)
