@@ -3328,6 +3328,7 @@ Javascript
 * [React - 2 설치하기 & package.json](https://velog.io/@couchcoding/React-2-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0-package.json)
 * [FLIP과 WAAPI를 이용한 React 애니메이션 | goohooh.github.io](https://goohooh.github.io/animation/flip_animation_with_react/)
 * [기술 블로그 위한 contentEditable WYSIWYG 에디터 제작기](https://blog.dalgu.app/dev/2)
+* [ReactJS Bad Practices and how to avoid them | Tekolio](https://tekolio.com/reactjs-bad-practices-and-how-to-avoid-them/)
 
 ## React Flux
 * [Application Architecture with React: rethinking Flux](http://dialelo.github.io/application-architecture-with-react-rethinking-flux.html)
@@ -3827,6 +3828,7 @@ Javascript
 * [WhoTalk - React + Node.js Web App](https://www.youtube.com/watch?v=wZDSY5zPE2A)
 * [zustand: 🐻 Bear necessities for state management in React](https://github.com/pmndrs/zustand)
   * [React 상태 관리 라이브러리 Zustand의 코드를 파헤쳐보자 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210812)
+  * [리액트가 쉬워지는 채신기술 Zustand - YouTube](https://www.youtube.com/watch?v=zNHZJ_iEMPA)
 
 ## React TDD Test
 * [A series of examples on how to TDD React](https://github.com/zpratt/react-tdd-guide)
