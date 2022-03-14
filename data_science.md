@@ -362,6 +362,7 @@ Data Science
 * [The Importance of Ratios & KPIs in Data Science | by Christianlauer | CodeX | Feb, 2022 | Medium](https://medium.com/codex/the-importance-of-ratios-kpis-in-data-science-d9a2623d5cb1)
 * [데이터 실험에서의 실험자 편향 – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/expbias/)
 * [브런치북 온라인서비스를 위한 데이터사이언스](https://brunch.co.kr/brunchbook/ds4os)
+* [7 Must-Know Data Buzzwords in 2022 | by Coco Li | Kyligence | Jan, 2022 | Medium](https://medium.com/kyligence/7-must-know-data-buzzwords-in-2022-9d3d977a43f4)
 
 # Book
 * [시스템 트레이딩을 위한 데이터 사이언스 (파이썬 활용편)](https://wikidocs.net/book/486)
@@ -455,6 +456,7 @@ Data Science
 * [knime.com](https://www.knime.com/)
   * [Principles of Guided Analytics](https://www.kdnuggets.com/2018/03/principles-guided-analytics.html)
   * [KNIMETV - YouTube](https://www.youtube.com/channel/UCRbKmV_XYB7C12SPBokLVHQ)
+  * [Michael Berthold on End-to-End Data Science Using KNIME Software](https://www.infoq.com/news/2019/11/knime-2019-keynote/)
 
 # Library
 * ["가자, 데이터의 세계로" 무료 애널리틱스 툴 7선](http://www.ciokorea.com/news/38154)
@@ -474,6 +476,8 @@ Data Science
 * [danfo.js - an open source, JavaScript library providing high performance, intuitive, and easy to use data structures for manipulating and processing structured data](https://github.com/opensource9ja/danfojs)
   * [Pandas를 자바스크립트에서! Danfo.js - YouTube](https://www.youtube.com/watch?v=rPCgsu0bcM4)
 * Dataflow [Data pipeline asset management with Dataflow | by Netflix Technology Blog | Netflix TechBlog](https://netflixtechblog.com/data-pipeline-asset-management-with-dataflow-86525b3e21ca)
+* [datools](https://github.com/marcua/datools) a collection of Python-based tools for working with data in relational databases
+  * [Data diffs: Algorithms for explaining what changed in a dataset | N=1 (marcua’s blog)](https://blog.marcua.net/2022/02/20/data-diffs-algorithms-for-explaining-what-changed-in-a-dataset.html)
 * [dbt - Transform data in your warehouse](https://www.getdbt.com/)
   * [dbt로 ELT 파이프라인 효율적으로 관리하기](https://www.humphreyahn.dev/blog/efficient-elt-pipelines-with-dbt)
 * [Decodable](https://www.decodable.co/)
@@ -508,6 +512,7 @@ Data Science
 
 ## Library data discovery
 * [데이터 디스커버리 플랫폼 도입기 - 1편. 데이터 디스커버리란?(feat. Datahub VS Amundsen 비교 분석) - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html)
+  * [쏘카의 데이터 디스커버리 플랫폼 도입기 | GeekNews](https://news.hada.io/topic?id=6051)
 * amundsen [Data discovery & metadata management (amundsen installation)](https://www.slideshare.net/changunjung/data-discovery-metadata-management-amundsen-installation)
 * datahub [A Metadata Platform for the Modern Data Stack | DataHub](https://datahubproject.io/)
   * [뱅크샐러드 Data Discovery Platform의 시작 | 뱅크샐러드](https://blog.banksalad.com/tech/the-starting-of-datadiscoveryplatform-era-in-banksalad/)
