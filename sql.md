@@ -206,6 +206,7 @@ SQL
   * [SQL 팁 : 나의 SQL 작성 패턴 | GeekNews](https://news.hada.io/topic?id=5896)
 * [Different Ways to Check and Delete Duplicate Records in SQL - Tech Point Fundamentals](https://www.techpointfunda.com/2021/11/deleting-duplicate-records-in-sql.html)
 * [How to choose the right database for your project | by Anthony Papoutsis | Mar, 2022 | Medium](https://apapoutsis.medium.com/how-to-choose-the-right-database-for-your-project-ffd4bf054833)
+* [How to choose the right database for your service | by Natan Silnitsky | Wix Engineering | Medium](https://medium.com/wix-engineering/how-to-choose-the-right-database-for-your-service-97b1670c5632)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
