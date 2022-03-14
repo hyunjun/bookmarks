@@ -345,6 +345,7 @@ Business
 * [코로나 이후 마리트의 1년을 돌아보며](https://brunch.co.kr/@leedonggun/22)
 * [잭 도시가 트위터와 스퀘어를 동시에 경영할 수 있는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/240587) block, routine, 업무생산성
 * [개방형 사무실의 비밀 | ㅍㅍㅅㅅ](https://ppss.kr/archives/193462) office 개인 공간 privacy 생산성
+* [무료 퍼시스, 일하는 환경의 변화를 고민하다](https://www.folin.co/story/2090) office
 * [The Long Game](https://www.thestartupbible.com/2021/05/the-long-game.html) 꾸준함의 중요성
 * [우리의 일, 제품, 사람, 문화 이 모든 것의 기준 '핵심가치 10가지'](https://www.devsisters.com/ko/story/68/)
 * [Why do we buy into the 'cult' of overwork? - BBC Worklife](https://www.bbc.com/worklife/article/20210507-why-we-glorify-the-cult-of-burnout-and-overwork) 야근 과로
@@ -457,6 +458,9 @@ Business
 * [퇴사하는 MZ, 그들은 왜 떠나는가 | EBS 비즈니스 리뷰 김나이 편 - YouTube](https://www.youtube.com/watch?v=RLO4goMgqCM)
 * [글로벌 칼럼 | '대퇴직 시대' 원인도 해법도 결국 기술이다 - ITWorld Korea](https://www.itworld.co.kr/news/218149)
 * [유능한 인재가 이내 떠나는 조직··· 9가지 공통점 - CIO Korea](https://www.ciokorea.com/news/138296)
+* [Why People Really Quit Their Jobs](https://hbr.org/2018/01/why-people-really-quit-their-jobs)
+  * [회사를 그만두는 3가지 진짜 이유](https://gist.github.com/hyunjun/69b4a7669f4d1697e1964d7e9679fa04#file-why_people_really_quit_their_jobs-md)
+    * 일을 더 재미있게, 강점을 활용할 수 있게, 개인의 욕구 반영
 * [좋은 '인사'란 무엇일까...카카오 HR 리더와의 솔직한 대화 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hrkakao20170911) 황성현님
 * [HR연구소 소포모어 징크스, 여러분 회사의 2년차 직원은 안녕하십니까](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=882) 온보딩 이후에는 관계 형성이 핵심
 * [사표 품고 다니는 당신, 직장 변경보다 직무 변경을 고민하라](https://news.v.daum.net/v/20211015030053898)
@@ -472,6 +476,7 @@ Business
   * [Sir.LOIN 플랫폼팀을 소개합니다!](https://github.com/sirloin-dev/meatplatform/blob/master/README.adoc)
   * [신입 개발자의 첫 홀로서기 프로젝트. 안녕하세요!! 29CM 를 첫 직장으로 삼고서 5개월차에 접어든 병아리… | by Jihye Woo | 29CM 기술블로그 | Mar, 2022 | Medium](https://medium.com/29cm/%EC%8B%A0%EC%9E%85-%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%9D%98-%EC%B2%AB-%ED%99%80%EB%A1%9C%EC%84%9C%EA%B8%B0-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-2303ff8dfe30)
 * [이직이 경력관리가 된 ‘대퇴사시대'](https://camp.lemonbase.com/column/talentmanagement3) 이직을 활발하게 권장해서 오히려 브랜드 가치를 높이는 이야기
+* [타입폼(Typeform)의 채용브랜드](https://brunch.co.kr/@nutilde/9)
 
 # 평가 performance evaluation
 * [23. 위도 아래도 없는 인사평가](https://brunch.co.kr/@svillustrated/26)
@@ -1184,6 +1189,8 @@ Business
 * [Foxes and Hedgehogs | Altos Ventures, 번역글](https://notdefeated.ghost.io/untitled/) 그냥 '하세요!'
 * [센드버드 플립 이야기: 우리가 플립을 하지 않았어도 괜찮았을까? - 2014년 델라웨어 플립 그 이후](https://kimchihill.com/2021/12/26/since-the-delaware-flip-of-sendbird/)
 * [사라질 듯 사라지지 않는, 스타트업의 사내 정치를 활용하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/251336)
+* ["엿먹어 외치세요"...5조 회사 만든 CEO의 5가지 지혜 - 더밀크 | The Miilk](https://themiilk.com/articles/aad5aad3f?u=1b5c382f&t=ab86c21c3&from=)
+  * ["엿먹어 외치세요"...5조 회사 만든 CEO의 5가지 지혜](https://drive.google.com/file/d/1IoeMnfxNK7MUa8VIeRbHwhbLJzkaHguI/view?usp=sharing)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
