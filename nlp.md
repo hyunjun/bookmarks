@@ -691,6 +691,7 @@ NLP
 * [**dialogpt-chat: Chatting with DialoGPT (Large-Scale Generative Pre-training for Conversational Response Generation)**](https://github.com/hyunwoongko/dialogpt-chat)
   * [P.1 Chatbot with Mic input/Speaker output using Python, Jarvis, and DialoGPT - YouTube](https://www.youtube.com/watch?v=CumHy6v7un0)
   * [P.2 Chatbot with Mic input/Speaker output using Python, Jarvis, and DialoGPT - YouTube](https://www.youtube.com/watch?v=lheXIYXanuU)
+  * [Microsoft Releases DialogGPT AI Conversation Model](https://www.infoq.com/news/2019/11/microsoft-ai-conversation/)
 * [kochat: Opensource Korean chatbot framework based on deep learning](https://github.com/gusdnd852/kochat)
 * [openchat: Opensource chatting framework for generative models](https://github.com/hyunwoongko/openchat)
   * [AI 모델 탐험기 #2 챗봇이 뭐지? NLP 기술을 활용한 Open chat | by AI Network | AI Network_KR | Apr, 2021 | Medium](https://medium.com/ai-networkkr/ai-%EB%AA%A8%EB%8D%B8-%ED%83%90%ED%97%98%EA%B8%B0-2-nlp-%EA%B8%B0%EC%88%A0%EC%9D%84-%ED%99%9C%EC%9A%A9%ED%95%9C-open-chat-b9612ca4d335)
@@ -1012,6 +1013,7 @@ NLP
 * [AI x Bookathon｜인공지능을 수필 쓰는 작가로 학습시켜보자!](https://jeinalog.tistory.com/25) GPT, hdf5, scrapy, selenium
   * [Ai bookathon public](https://www.slideshare.net/MinjungChung1/ai-bookathon-public)
 * [Google AI Blog: Advancing NLP with Efficient Projection-Based Model Architectures](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html) GPT-3와 반대로 적은 parameter로 만드는 model에 대한 이야기
+* [Goopt: 🔍 Search Engine for a Procedural Simulation of the Web with GPT-3](https://github.com/jokenox/Goopt)
 * [kogpt: KakaoBrain KoGPT (Korean Generative Pre-trained Transformer)](https://github.com/kakaobrain/kogpt) GPT-3 기반의 한국어 특화 AI 언어 모델
   * [if(kakao) 2021](https://if.kakao.com/session/48)
   * [kogpt at web-app](https://github.com/noah-ko/kogpt/tree/web-app)
@@ -1832,6 +1834,7 @@ NLP
 * [꿀벌개발일지 :: 클럽하우스와 음성 데이터](https://ohgyun.com/797)
 * [Transcribe Audio and Use Speech Recognition in Python - YouTube](https://www.youtube.com/watch?v=L0N2Ve9vhPk)
 * [이렇게 사용하세요! AI 음성인식 API로 음성 변환 서비스 쉽게 만들 (CLOVA Speech Recognition, CSR)](https://blog.naver.com/n_cloudplatform/222583556230)
+* [Neural Instrument Cloning from very few samples](https://erlj.notion.site/Neural-Instrument-Cloning-from-very-few-samples-2cf41d8b630842ee8c7eb55036a1bfd6)
 * [AudioSet - A massive dataset of manually annotated audio events](https://research.google.com/audioset/)
 * [DKTC: Dataset of Korean Threatening Conversations](https://github.com/tunib-ai/DKTC)
 * Frill [텐서플로우 라이트 이용한 혁신적인 음성 임베딩... 음성 AI모델, 온 디바이스로 구현하는 'FRILL' 오픈 소스로 공개](https://www.aitimes.kr/news/articleView.html?idxno=21321)
@@ -1856,6 +1859,7 @@ NLP
   * [pyttsx3 : 파이썬에서 사용가능한 TTS | Acid Paper](https://aciddust.github.io/blog/post/pyttsx3-%ED%8C%8C%EC%9D%B4%EC%8D%AC%EC%97%90%EC%84%9C-%EC%82%AC%EC%9A%A9%EA%B0%80%EB%8A%A5%ED%95%9C-TTS/)
   * [Convert Text To Speech Using Python | Python Projects Tutorials - YouTube](https://www.youtube.com/watch?v=9_gh55ksNME)
 * [**ratsgo's speechbook**](https://ratsgo.github.io/speechbook/)
+* [SEPIA Framework](https://sepia-framework.github.io/)
 * SoundStream [구글, End-to-End 뉴럴 오디오 코덱 SoundStream 공개 | GeekNews](https://news.hada.io/topic?id=4824)
 * [speech-recognition: Develop speech recognition models with Tensorflow 2](https://github.com/cosmoquester/speech-recognition)
 * Tabletop [Bringing Tabletop Audio to Actions on Google through media responses](https://medium.com/google-developers/bringing-tabletop-audio-to-actions-on-google-through-media-responses-a48bbcd9a38)
