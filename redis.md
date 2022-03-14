@@ -179,6 +179,7 @@ Redis
   * [Serverless Redis Is Here!](https://medium.com/lambda-store/serverless-redis-is-here-34c2fa335f24)
   * [Swifter Than DynamoDB: Lambda Store — Serverless Redis | by Mattia Bianchi | Lambda Store | Medium](https://medium.com/lambda-store/swifter-than-dynamodb-lambda-store-serverless-redis-bfacfaf92c80)
 * [Medis - a beautiful, easy-to-use Mac database management application for Redis. http://getmedis.com](https://github.com/luin/medis)
+* [RedisAI | Real-Time ML Model Serving](https://redis.com/modules/redis-ai/)
 * [Redis Geo](https://matt.sh/redis-geo)
 * [redisgrip: Redis GUI Client](https://github.com/FiaDot/redisgrip)
 * Redis Labs [Community Projects | Redis Labs](https://redislabs.com/community/oss-projects/)
