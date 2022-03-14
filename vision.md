@@ -150,6 +150,8 @@ Vision
 * [RandWireNN - Unofficial Implementation of: "Exploring Randomly Wired Neural Networks for Image Recognition"](https://github.com/hebo1221/RandWireNN)
 * [SNIPER - an efficient multi-scale object detection algorithm](https://github.com/mahyarnajibi/SNIPER) MXNet 기반
 * [Super-Fast-Accurate-3D-Object-Detection: Super Fast and Accurate 3D Object Detection based on 3D LiDAR Point Clouds (The PyTorch implementation)](https://github.com/maudzung/Super-Fast-Accurate-3D-Object-Detection)
+* [구글, 자율주행에서 물체 감지 기술 공개…”빈틈이 없네” < 테크 < 기사본문 - AI타임스](http://www.aitimes.com/news/articleView.html?idxno=143217) 라이다 등 관련 기술
+* [‘라이더 Vs 레이더 戰’에 소환된 테슬라](https://www.autoelectronics.co.kr/article/articleView.asp?idx=4463)
 * [How to Train a Custom Model for Object Detection (Local and Google Colab!)](https://morioh.com/p/df76eb62c799)
 * [Brief Review on Anchor-Free Object Detection (2019-2020)](https://blog.si-analytics.ai/72)
 * [1 Spatial Pyramid Pooling in Deep Convolutional Networks for Visual Recognition Presenter ByungIn Yoo CS688/WST665](http://slideplayer.com/slide/5277459/)
