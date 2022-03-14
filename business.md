@@ -1038,6 +1038,7 @@ Business
 * [Competing Against Luck 북리뷰 | Disquiet\*](https://disquiet.io/@hpark0011/makerlog/271) product owner 책에서 읽었던 밀크셰이크 이야기가 원래 이 책애서 나왔었던 건가?
 * [WISELY PRO 런칭, 1년 동안 PM으로서 배운 것들](https://blog.wiselycompany.com/wisely-pro-launching) 회사 PR이지만 프로덕트에 대한 이야기이기도 함
 * [PM의 시간 다루기: 로드맵, 타임라인, 릴리즈 플랜](https://brunch.co.kr/@ywkim36/70)
+* [프로젝트에서 프로덕트로··· IT 리더들, '제품 기반 접근법'에 주목하다 - CIO Korea](https://www.ciokorea.com/t/540/%EC%86%8C%ED%94%84%ED%8A%B8%EC%8A%A4%ED%82%AC/218429) 프로젝트 방식을 아예 배재할 건 아니지만 일반적으로 프로덕트 중심 접근 방법이 더 좋다는 주장
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
