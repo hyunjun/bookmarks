@@ -182,6 +182,7 @@ Book
 * (NOT YET) ['지리의 힘'으로 알아보는 지정학 A to Z! - YouTube](https://www.youtube.com/watch?v=tiuT48ho6nY)
   * 탐라
 * (NOT YET) [권력의 심리학 - 권력을 잡으면 인간은 어떻게 변하는가](https://news.v.daum.net/v/20220211050606263)
+  * [김지수의 인터스텔라 "왜 우리는 부패한 리더에게 표를 던지나" 英 최고 선거 전문가의 통찰](https://news.v.daum.net/v/20220305070213023)
 * (NOT YET) [브런치북 퇴직 후 그림책을 봅니다](https://brunch.co.kr/brunchbook/wjhee20)
 * (NOT YET) [소련 독재와 전체주의 비판, 2022년에는 어떤 의미로 다가올까? 조지 오웰의 1984 - YouTube](https://www.youtube.com/watch?v=d5xv67iJ1Mg)
 * (NOT YET) ["악의 평범성", 왜 평범한 시민들이 악마로 변하는가! : 한나 아렌트 예루살렘의 아이히만 - YouTube](https://www.youtube.com/watch?v=K7muj9zG-us)
