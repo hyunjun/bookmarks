@@ -370,6 +370,7 @@ NoSQL
     * 네이버에서 개발한 memcached 기반의 '아커스' 를 활용하는 2차 캐쉬 구현체
 * [libmc - Fast and light-weight memcached client for C++/Python https://pypi.python.org/pypi/libmc ](https://github.com/douban/libmc)
 * [minimemcached: Pure Go memcached server for Go unittests motivated by miniredis](https://github.com/daangn/minimemcached)
+  * [단위 테스트를 위한 mini-memcached 개발기. 당근마켓 채팅팀이 테스트의 문제점들을 개선하며 새롭게 만든 오픈소스에… | by Roy Ra | 당근마켓 팀블로그 | Mar, 2022 | Medium](https://medium.com/daangn/%EB%8B%A8%EC%9C%84-%ED%85%8C%EC%8A%A4%ED%8A%B8%EB%A5%BC-%EC%9C%84%ED%95%9C-mini-memcached-%EA%B0%9C%EB%B0%9C%EA%B8%B0-732bf2bb9e)
 
 # MemSQL
 * [Launching Our Community Edition](http://blog.memsql.com/memsql-community-edition/)
