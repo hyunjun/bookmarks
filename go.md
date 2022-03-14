@@ -200,6 +200,7 @@ Go
 * [Several tips for Go coding-1](https://jinhoyoo.github.io/Several-tips-for-Go-coding-1)
 * [How to manage the local submodule without URL like github.com](https://jinhoyoo.github.io/How-to-manage-the-local-submodule/)
 * [Concurrent Logging - in Golang](https://jusths.tistory.com/128)
+* [You’re doing Application Logging Wrong | by Jim T Dev | Medium](https://medium.com/@jimtdev/youre-doing-application-logging-wrong-d1465f80234c)
 * [Golang 개발시 Makefile 사용해보기](https://jusths.tistory.com/130)
 * [Using Makefile(s) for Go](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
 * [Password Stretching using Key Derivation Function(KDF)](https://hackernoon.com/password-stretching-using-key-derivation-function-kdf-a5abc570f9e5)
