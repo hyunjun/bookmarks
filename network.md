@@ -375,6 +375,7 @@ Network
   * QUIC은 TCP(트랜스미션 컨트롤 프로토콜) 대신 더 빠른 UDP(유저 데이터그램 프로토콜) 사용
   * 더 빠른 복구, 더 빠른 암호화 연결, 더 나은 네트워크 스위치 처리도 제공
   * 안전한 웹사이트 방문, 오디오비주얼 채팅, 모바일 브라우징에 가장 큰 개선 예상
+* [How Facebook Is Bringing QUIC to Billions - YouTube](https://www.youtube.com/watch?v=tJBmuSmtxRg)
 * [Everything you ever wanted to know about UDP sockets but were afraid to ask, part 1](https://blog.cloudflare.com/everything-you-ever-wanted-to-know-about-udp-sockets-but-were-afraid-to-ask-part-1/)
 * [MsQuic - Cross platform C implementation of the IETF QUIC protocol](https://github.com/Microsoft/msquic)
 * [s2n-quic: An implementation of the IETF QUIC protocol](https://github.com/aws/s2n-quic)
