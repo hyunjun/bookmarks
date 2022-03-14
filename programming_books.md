@@ -1645,6 +1645,8 @@ Programming Books
   * 한라
 * (NOT YET) 원온원 일 잘하는 팀장의 대화력
   * 우당
+  * [과연 팀원은 팀장님과의 원온원을 기다릴까요? | YES24 채널예스](http://ch.yes24.com/Article/View/48212)
+* (NOT YET) [Running Lean (린 스타트업)](https://story.pxd.co.kr/753)
 
 # Math
 
