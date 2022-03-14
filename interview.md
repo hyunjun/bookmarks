@@ -441,6 +441,7 @@ Interview
     * [**Uber 아키텍처와 시스템 디자인**](https://blog.imqa.io/uber-architecture-system-design/)
     * [Uber 아키텍처와 시스템 디자인 | Architecture 101](https://architecture101.blog/2021/12/01/uber-architecture-design/)
     * [How Uber handles millions of ride/food requests efficiently part 1 | by Meg's tech corner | Medium](https://megtechcorner.medium.com/how-uber-handles-millions-of-ride-food-requests-efficiently-part-1-2aa8db436204)
+    * [Predicting Time to Cook, Arrive, and Deliver at Uber Eats](https://www.infoq.com/articles/uber-eats-time-predictions/)
   * Video
     * [Design Video Sharing System Like Youtube](https://www.geeksforgeeks.org/design-video-sharing-system-like-youtube/)
     * [How to Design Youtube (Part I)](http://blog.gainlo.co/index.php/2016/10/22/design-youtube-part/)
