@@ -739,6 +739,7 @@ Programming
 * [How to select an API Management platform for your business — part I | by Chanaka Fernando | Solution Architecture Patterns | Medium](https://medium.com/solutions-architecture-patterns/how-to-select-an-api-management-platform-for-your-business-part-i-6b02b232f697)
 * [How to select an API Management platform for your business — part II | by Chanaka Fernando | Solution Architecture Patterns | Medium](https://medium.com/solutions-architecture-patterns/how-to-select-an-api-management-platform-for-your-business-part-ii-407faac818f6)
 * [How to select an API Management Platform for your business — part III | by Chanaka Fernando | Solution Architecture Patterns | Medium](https://medium.com/solutions-architecture-patterns/how-to-select-an-api-management-platform-for-your-business-part-iii-de112eec8b2c)
+* [API & Web Architecture - Security Best Practices | by Abdul Wahab | Medium](https://abdulrwahab.medium.com/api-web-architecture-security-best-practices-61522aff37be)
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
   * [CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=4662)
@@ -1547,6 +1548,7 @@ Programming
 * [**How to Design Reliable Microservices | by Chinedu Ikechi | Mar, 2022 | Level Up Coding**](https://levelup.gitconnected.com/how-to-design-reliable-microservices-5efba55172da) 실패 이유와 해결/방지 방법 전반적인 내용 정리
 * [Microservices Architecture | Making Java Easy To Learn](https://javatechonline.com/microservices-architecture/)
 * [Designing Resilient Microservices — Part 1 | by Vijay Seshadri | Swiggy Bytes](https://bytes.swiggy.com/designing-resilient-microservices-part-1-6a72fe964759)
+* [Let’s Talk about Microservices “Owning” their Data | by Guy Sela | Dev Genius](https://blog.devgenius.io/lets-talk-about-microservices-owning-their-data-169f66d64216)
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -2704,6 +2706,7 @@ Programming
 * [History of Infra as Code - YouTube](https://www.youtube.com/watch?v=9kQ5l26mmbU)
 * [5 Lessons Learned From Writing Over 300,000 Lines of Infrastructure Code](https://blog.gruntwork.io/5-lessons-learned-from-writing-over-300-000-lines-of-infrastructure-code-36ba7fadeac1)
 * [Infrastructure as Code - comparing tools](https://techcommunity.microsoft.com/t5/itops-talk-blog/infrastructure-as-code-iac-comparing-the-tools/ba-p/3205045)
+* [Infrastructure as a code best practices : Terraform | by Ranjana Jha | Medium](https://medium.com/@ranjana-jha/infrastructure-as-a-code-best-practices-terraform-d7ae4291d621)
 * [Scaling Infrastructure Engineering at Slack](https://www.youtube.com/watch?v=yHBwoZh1Mxg)
 * [LINE 인프라 플랫폼의 뒷이야기 – 서비스 확장성을 확보하며 운영 비용 줄이기](https://engineering.linecorp.com/ko/blog/challenges-and-solutions-of-line-infra-scaleout/)
 * [Lessons Learned from Reviewing 150 Infrastructures](https://www.infoq.com/presentations/150-infrastructures)
@@ -2870,6 +2873,7 @@ Programming
 * Zuul 2
   * [Open Sourcing Zuul 2](https://medium.com/netflix-techblog/open-sourcing-zuul-2-82ea476cb2b3)
   * [Scaling Push Messaging for Millions of Devices @Netflix](https://www.youtube.com/watch?v=6w6E_B55p0E)
+  * [Securing Netflix Studios At Scale Netflix TechBlog | Netflix TechBlog](https://netflixtechblog.com/the-show-must-go-on-securing-netflix-studios-at-scale-19b801c86479)
 
 # Metaverse
 * [로블록스: 메타버스의 새벽. Roblox: Dawn of the Metaverse | by Kenial Lee | kokr | Mar, 2021 | Medium](https://medium.com/kokr/%EB%A1%9C%EB%B8%94%EB%A1%9D%EC%8A%A4-%EB%A9%94%ED%83%80%EB%B2%84%EC%8A%A4%EC%9D%98-%EC%83%88%EB%B2%BD-330a56386e34)
@@ -3589,6 +3593,7 @@ Programming
 * [How to Design Realtime Data Consumption using Lambda and Kappa Architectures - YouTube](https://www.youtube.com/watch?v=wEueOJ4OSlg)
 * [Streaming 101: Hello Streaming - YouTube](https://www.youtube.com/watch?v=A1YC_AC0qf8)
 * [Auto-Diagnosis and Remediation in Netflix Data Platform | by Netflix Technology Blog | Jan, 2022 | Netflix TechBlog](https://netflixtechblog.com/auto-diagnosis-and-remediation-in-netflix-data-platform-5bcc52d853d1)
+* [The Four Innovation Phases of Netflix’s Trillions Scale Real-time Data Infrastructure | by Zhenzhong Xu | Feb, 2022 | Medium](https://zhenzhongxu.com/the-four-innovation-phases-of-netflixs-trillions-scale-real-time-data-infrastructure-2370938d7f01)
 
 ## Real Time Processing, Streaming Library
 * [Apache Heron · A realtime, distributed, fault-tolerant stream processing engine](https://heron.incubator.apache.org/)
