@@ -740,6 +740,8 @@ Programming
 * [How to select an API Management platform for your business — part II | by Chanaka Fernando | Solution Architecture Patterns | Medium](https://medium.com/solutions-architecture-patterns/how-to-select-an-api-management-platform-for-your-business-part-ii-407faac818f6)
 * [How to select an API Management Platform for your business — part III | by Chanaka Fernando | Solution Architecture Patterns | Medium](https://medium.com/solutions-architecture-patterns/how-to-select-an-api-management-platform-for-your-business-part-iii-de112eec8b2c)
 * [API & Web Architecture - Security Best Practices | by Abdul Wahab | Medium](https://abdulrwahab.medium.com/api-web-architecture-security-best-practices-61522aff37be)
+* [영상 : 초식 - 비동기 외부 연동으로 서버 성능 올리기 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/async-integration-for-server-perf)
+* [영상: 외부 API 장애에 영향 덜 받는 3가지 방법 :: 자바캔(Java Can Do IT)](https://javacan.tistory.com/entry/%EC%99%B8%EB%B6%80-API-%EC%9E%A5%EC%95%A0%EC%97%90-%EC%98%81%ED%96%A5-%EB%8D%9C-%EB%B0%9B%EB%8A%94-3%EA%B0%80%EC%A7%80-%EB%B0%A9%EB%B2%95) timeout, bulkhead, circuit breaker
 * [API University - Best Practices, Tips & Tutorials for API Providers and Developers](https://www.programmableweb.com/api-university)
 * [cats: Generate tests at runtime based on OpenApi specs](https://github.com/Endava/cats)
   * [CATS - OpenAPI 스펙 기반 테스트 자동 생성 오픈소스 | GeekNews](https://news.hada.io/topic?id=4662)
