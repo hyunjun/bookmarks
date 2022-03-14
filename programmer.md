@@ -10,6 +10,7 @@ Programmer
 * [SHIPSTREAMS - A list of makers shipping live](https://shipstreams.com/)
   * 인디 개발자들이 서비스 릴리즈를 위해 프로그래밍하는걸 스트리밍
   * 해당 스트리머들을 모아놓고, 그들이 제작, 빌드하는 사이드 프로젝트를 간략하게 소개
+* [사이드프로젝트 개발부터 배포까지의 경험기 | Fernando 기술 블로그](https://fernando.kr/general/2022-03-13-side-project/)
 * [Programmers: Before you turn 40, get a plan B](http://improvingsoftware.com/2009/05/19/programmers-before-you-turn-40-get-a-plan-b/)
 * [How to increase your value as a developer](http://enterprisecraftsmanship.com/2015/01/17/how-to-increase-your-value-as-developerv/)
 * [TNF 10년, 블로그를 사랑한 물리학자 – 신정규 인터뷰](http://slownews.kr/39698)
