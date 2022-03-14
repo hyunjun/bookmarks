@@ -684,6 +684,7 @@ Apache
 * [Kafka Lag 없는 실시간 데이터 파이프라인을 위한 아키텍처 개선기 - AB180 엔지니어링 베이스 | 기술블로그](https://engineering.ab180.co/stories/kafka-consumer-proxy)
 * [Kafka- Best practices & Lessons Learned | By Inder | by Inder Singh | Medium](https://inder-devops.medium.com/kafka-best-practices-lessons-learned-by-inder-431dc5fafd3b)
 * [Make a real-time query across multiple microservices using Kafka | by Mohammed Ragab | Nerd For Tech | Medium](https://medium.com/nerd-for-tech/make-a-real-time-query-across-multiple-microservices-using-kafka-ecd46d651acd)
+* [Kafka on The Microservice Architecture | by Andhika Yusup | Medium](https://medium.com/@andhikayusup/kafka-on-the-microservice-architecture-dc52d73837f2)
 
 ## Kafka Library
 * [aiokafka - asyncio client for kafka http://aiokafka.readthedocs.io ](https://github.com/aio-libs/aiokafka)
@@ -831,6 +832,7 @@ Apache
   * [Practical Change Data Streaming Use Cases with Apache Kafka & Debezium](https://www.infoq.com/presentations/data-streaming-kafka-debezium/)
   * [Configuring Topic Auto-Creation with the Debezium UI - YouTube](https://www.youtube.com/watch?v=C7K1V833eDk)
   * [Hans-Peter Grahsl&Gunnar Morling - Dissecting our Legacy: The Strangler Fig Pattern with ... - YouTube](https://www.youtube.com/watch?v=rl06nAIdIhQ)
+  * [Scheduling Millions Of Messages With Kafka & Debezium | by Elia Rohana | Yotpo Engineering | Medium](https://medium.com/yotpoengineering/scheduling-millions-of-messages-with-kafka-debezium-6d1a105160c)
 * Decaton [Kafka를 이용한 작업 큐 라이브러리 'Decaton' 활용 사례 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/decaton-case-studies/)
 * kafka connect
   * [Kafka Connect S3 Source Connector](https://docs.confluent.io/current/connect/kafka-connect-s3-source/index.html)
