@@ -502,6 +502,7 @@ App
   * Wuzz — terminalized Postman등 여러가지 유용한 CLI tool
 * [Terminal 101 — The Setup Guide that will Boost your Workflow | by Alexandre Zajac | Jun, 2020 | ITNEXT](https://itnext.io/terminal-101-the-setup-guide-that-will-boost-your-workflow-12df2570052)
 * [태블릿으로 원격 프로그래밍이 하고 싶어요](https://javaxer.blogspot.com/2018/10/blog-post.html)
+* [딥러닝 개발자를 위한 원격접속 방식 비교](https://velog.io/@spnova12/%EB%94%A5%EB%9F%AC%EB%8B%9D-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9B%90%EA%B2%A9%EC%A0%91%EC%86%8D-%EB%B0%A9%EC%8B%9D-%EB%B9%84%EA%B5%90) 결국 ssh + X11으로 결론. 예전 기술이라고 무시하지 않고 알아야 하는 이유가 되기도 하다.
 * [프로그래머가 모르면 손해인 범용적인 툴(tool) 100선](https://tkdwnsdkk.tistory.com/101)
 * [7 Amazing Developer Tools that you're not using yet](https://www.youtube.com/watch?v=U_gANjtv28g)
   * [BundlePhobia](https://bundlephobia.com)
