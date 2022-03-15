@@ -1600,6 +1600,8 @@ Docker
   * [Run a Linux virtual machine in Podman | Opensource.com](https://opensource.com/article/21/7/linux-podman)
   * [Podman vs Docker: What are the differences?](https://www.imaginarycloud.com/blog/podman-vs-docker/)
   * [Run containers on Linux without sudo in Podman | Opensource.com](https://opensource.com/article/22/1/run-containers-without-sudo-podman)
+* Portainer [Container Management | Kubernetes GUI | Docker Swarm GUI | Portainer](https://www.portainer.io/)
+  * [Deploy Portainer for Easier Container Management – The New Stack](https://thenewstack.io/deploy-portainer-for-easier-container-management/)
 * [Proxmox 설치 및 환경 설정](https://velog.io/@hong-brother/Proxmox)
 * [registry.hub.docker.com](https://registry.hub.docker.com)
 * [rocker-compose - Docker composition tool with idempotency features for deploying apps composed of multiple containers](https://github.com/grammarly/rocker-compose)
