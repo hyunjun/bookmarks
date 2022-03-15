@@ -541,6 +541,7 @@ Programming
 * [나는 애자일이 싫다](https://brunch.co.kr/@graypool/182) 제목은 사실 반어법, 관심 끌기 용이었고 애자일에 대한 선호가 내용
 * [쓰임새에 따른 애자일 활용](https://brunch.co.kr/@graypool/117)
 * [애자일과 디지털 전환은 무슨 관계인가?](https://brunch.co.kr/@graypool/329)
+* [문제 정의를 위한 디지털 현장 답사와 칸반 개선](https://brunch.co.kr/@graypool/356)
 * [What is Agile Workflow? (ELI5)](https://medium.com/scrumi/what-is-agile-workflow-eli5-15040cbd5e75)
 * [What is Agile? | Atlassian](https://www.atlassian.com/agile)
   * [What is Agile? | Atlassian - 아틀라시안이 알려주는 애자일 A to | GeekNews](https://news.hada.io/topic?id=4389)
