@@ -602,6 +602,7 @@ Business
 * [누구나 쏙쏙 이해하도록 말하는 방법 – 체인지그라운드](http://thechangeground.com/archives/21634)
 * [타협하지 않고 이기는 3가지 방법](http://moneyman.kr/archives/3531)
 * [설득을 잘하면 협상도 잘 될까?](https://www.venturesquare.net/849479)
+* [전략 원하는 게 있다면 먼저 줘라](http://moneyman.kr/archives/1978)
 * [최악의 직원을 180도 바꾼 방법 – 체인지그라운드](http://thechangeground.com/archives/30561) yes/no list
 * [말의 힘](https://www.thestartupbible.com/2022/03/power-of-speech.html)
 
