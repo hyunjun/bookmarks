@@ -1695,7 +1695,7 @@ Programming Books
 * (NOT YET) [파이썬으로 배우는 응용 텍스트 분석](https://jpub.tistory.com/976) 사이킷런, NLTK, Gensim, spaCy, NetworkX, Yellowbrick
 * (NOT YET) [파이썬으로 다시 배우는 핵심 고등 수학 - 수포자 프로그래머를 위한 손에 잡히는 기초 수학](https://wikibook.co.kr/python-math/)
 * (NOT YET) [파이썬으로 배우는 자연어 처리 인 액션](https://jpub.tistory.com/1008)
-* (NOT YET) [텐서플로와 머신러닝으로 시작하는 자연어 처리 TensorFlow 2 | 위키북스](https://wikibook.co.kr/nlp-tf2/)
+* (NOT YET) [텐서플로 2와 머신러닝으로 시작하는 자연어 처리 (개정판) | 위키북스](https://wikibook.co.kr/nlp-tf2/)
 * (NOT YET) [파이토치로 배우는 자연어 처리](https://hanbit.co.kr/store/books/look.php?p_code=B1231887279)
 * (NOT YET) [구글 BERT의 정석](https://hanbit.co.kr/store/books/look.php?p_code=B2201215526)
 * (NOT YET) [BERT와 GPT로 배우는 인공지능 자연어처리](http://www.aitimes.kr/news/articleView.html?idxno=23390)
