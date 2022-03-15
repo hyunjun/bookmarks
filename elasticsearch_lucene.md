@@ -663,6 +663,7 @@ ElasticSearch - Lucene
 * [Logstash 필터 elapsed](https://www.popit.kr/logstash-필터-elapsed)
 * [Logstash로 트랜잭션 시간 구하기](https://www.popit.kr/logstash%EB%A1%9C-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EC%8B%9C%EA%B0%84-%EA%B5%AC%ED%95%98%EA%B8%B0/)
 * [제3회 스포카콘 Elasticsearch 동기화 개선을 위한 고군분투기](https://www.slideshare.net/ssusera5d93e/3-elasticsearch)
+* [logstash-filter-korean-jamo: 한국어 인덱싱을 위한 Java기반의 logstash 의 한글 자모분리 필터입니다.](https://github.com/twosom/logstash-filter-korean-jamo)
 * [logstash-output-jdbc: JDBC output for Logstash](https://github.com/theangryangel/logstash-output-jdbc)
 
 # Lucene
