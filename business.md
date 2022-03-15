@@ -405,6 +405,8 @@ Business
 * [전략 단순함이 중요한 4가지 이유](http://moneyman.kr/archives/1435)
 * [애플 때문에 몰락한 회사가 애플에 맞서는 방법 - T Times](http://www.ttimes.co.kr/view.html?no=2022031417397741570) 가민 Garmin 확고한 핵심역량, 핵심역량 확장
 * [애플의 경쟁력은 어디에서 오나 | Disquiet\*](https://disquiet.io/@kwondoeon/makerlog/315)
+* [가입 화면까지 고민하는 네이버웍스 온보딩팀이 일하는법](https://www.folin.co/story/2104)
+  * [가입 화면까지 고민하는 네이버웍스 온보딩팀이 일하는법](https://drive.google.com/file/d/1p1D4qsmknNfJUltILM9j89AOGHlEzGNB/view?usp=sharing)
 
 # 1 on 1
 * [1:1 미팅 제대로 활용하기](https://www.andrewahn.co/silicon-valley/effective-1on1-meeting/)
