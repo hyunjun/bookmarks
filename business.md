@@ -678,6 +678,7 @@ Business
     * 2. 우리는 할 수 있는데, 광고주/경쟁사는 할 수 없는/어려운 일
     * 2-1. 우리가 쉽게 할 수 있는지 아니면 어려운/불가능한 지
     * 3. 이런(+ 추가로 다른) 기준을 가지고 판단을 했다면, 나중에 업무를 진행한 후에 어떤 기준을 어떻게 판단해서 하기로/안 하기로 결정을 했는데, 그 결정 과정이 어땠는지 리뷰
+* [의사결정을 잘 ‘받는’ 사람들의 특징 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250859)
 
 # Idea, Insight
 * [‘Product Concept Ball’을 이용한 제품 컨셉 개발하기 – #1 비즈니스 아이디어는 아무것도 말해주지 않는다](http://verticalplatform.kr/archives/4327)
@@ -1087,6 +1088,7 @@ Business
   * [(3) : 고객이 제품을 구매하는 진짜 이유는 JOB 때문](http://www.venturesquare.net/585452)
 * [스타트업의 시장 크기 추정 가이드 | GeekNews](https://news.hada.io/weekly/202136)
 * [스타트업 창업 전 경영자들이 꼭 읽어야 할 도서 TOP 10](http://ppss.kr/archives/37878)
+* [예비창업자들이 앤틀러 프로그램을 선택해야 하는 이유](https://blog.naver.com/antlerkorea/222667025289)
 * [스타트업이 취해야 할 3가지 O2O 전략](http://besuccess.com/2015/04/3-o2o-strategy-for-startup/)
 * [창업자가 주식에 대해 갖는 7가지 치명적인 오해 : 이연수 변호사의 로스쿨 인 실리콘밸리](http://besuccess.com/2015/04/common-mistakes-about-share/)
 * [대기업보단 스타트업에게 배우는 시대, 혁신을 위한 가이드 3편](http://besuccess.com/2015/04/book-for-startup/)
