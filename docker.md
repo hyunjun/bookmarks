@@ -769,6 +769,9 @@ Docker
 * [Dockerfile 이미지 만들기, 쉘 스크립트 사용시 주의사항](https://blog.naver.com/pjt3591oo/222444809844)
 * [Top 20 Dockerfile best practices for security | Sysdig](https://sysdig.com/blog/dockerfile-best-practices/)
 * [도커 컨테이너 파일 포맷 및 Image Pull Time](https://bcho.tistory.com/1388)
+* [Just say no to `:latest` - Platformers](https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/)
+  * Dockerfile에서 latest 태그를 지정하면 지속적 배포의 중요한 요구사항인 재현 가능하고 멱등한 빌드를 깨뜨려서 프로덕션에서 문제 발생 가능
+  * Python, npm, Terraform 등 다른 생태계에서도 버전을 지정할 것을 권장하고 lock 파일도 꼭 커밋해서 관리할 것을 권장
 
 # gvisor
 * [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
@@ -793,6 +796,9 @@ Docker
 * [드디어! "쿠버네티스(Kubernetes)" .. : 네이버블로그](https://blog.naver.com/ehunterkang/222261251200)
 * [쿠버네티스가 대세가 된 이유 3가지!](https://www.youtube.com/watch?v=S3FVcdZcZnA)
 * [번역 쿠버네티스는 단순히 컨테이너를 관리하는 툴이 아닙니다. | 커피고래의 노트](https://coffeewhale.com/k8s-isnt-containers)
+  * 컨테이너를 관리하기 위해서 만들어졌지만
+  * API를 제공해서 일관적인 사용 방법을 제공할 수 있게 되고 여기에 CRD 등 더 많은 API를 제공하면서
+  * 단순히 컨테이너 관리 도구가 아니라 API를 제공하는 것이 핵심이라고 설명
 * [Kubernetes Tutorial for Beginners Full Course in 4 Hours - YouTube](https://www.youtube.com/watch?v=X48VuDVv0do)
 * Kubernetes
   * [01 – Pod](https://blog.2dal.com/2018/03/28/kubernetes-01-pod/)
