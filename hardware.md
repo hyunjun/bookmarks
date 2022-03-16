@@ -332,6 +332,7 @@ Hardware
 * [Making an old USB printer support Apple AirPrint using a Raspberry Pi](https://blog.jgc.org/2021/11/making-old-usb-printer-support-apple.html)
 * ['IT/라즈베리파이' 카테고리의 글 목록](https://www.sagein.net/category/IT/%EB%9D%BC%EC%A6%88%EB%B2%A0%EB%A6%AC%ED%8C%8C%EC%9D%B4)
 * [ARM 서버와 라즈베리 파이를 이용한 온도 측정](https://naleejang.tistory.com/254)
+* [RPi Zero W, LTE CATM1 내장형 모뎀을 만나 날개를 달다 :: 세상에서 가장 작은 LTE Cat.M1 모듈](https://codezoo.tistory.com/26)
 * [Easy-ISLisp on Raspberry PI 400 - YouTube](https://www.youtube.com/watch?v=NWbEwjE7boA)
 * [gokrazy: a native Go userland for your Raspberry Pi 3 or 4 appliances (or amd64 PCs!)](https://github.com/gokrazy/gokrazy)
 * [internet-pi: Raspberry Pi config for all things Internet](https://github.com/geerlingguy/internet-pi)
