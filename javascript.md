@@ -755,6 +755,7 @@ Javascript
 * [디자인 시스템을 활용하여 기간계 웹화면 개발 생산성 높이기 - 1탄 :: GS Retail Engineering](https://gsretail.tistory.com/4)
 * [영감을 주는 최고의 디자인 시스템 – 디자인 나침반](https://designcompass.org/2022/01/23/top-10-design-system/)
 * [우당탕탕 리얼월드 스튜디오 디자인 시스템 제작기 (1탄). 디자이너가 한 명인 조직에서 우당탕 디자인 시스템을 만든 경험을… | by Yein Kim | Uniquegood | Mar, 2022 | Medium](https://medium.com/uniquegood/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%9C%EC%9E%91%EA%B8%B0-1%ED%83%84-ffaac9cd5564)
+* [우당탕탕 리얼월드 스튜디오 디자인 시스템 제작기 #2탄. 작은 조직에서 디자인 시스템을 만드는 과정에서 고민했던 점과 어려웠던… | by Yein Kim | Uniquegood | Mar, 2022 | Medium](https://medium.com/uniquegood/%EC%9A%B0%EB%8B%B9%ED%83%95%ED%83%95-%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-%EC%8A%A4%ED%8A%9C%EB%94%94%EC%98%A4-%EB%94%94%EC%9E%90%EC%9D%B8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%A0%9C%EC%9E%91%EA%B8%B0-2%ED%83%84-3d52b396c308)
 * [!!Con 2019- Tail Call Optimization: The Musical!! by Anjana Vakil & Natalia Margolis - YouTube](https://www.youtube.com/watch?v=-PX0BV9hGZY) 정말 재미있는 공연 + TCO 설명
 * [next.config.js 의 images.path와 assetPrefix](https://velog.io/@juunini/next.config.js-%EC%9D%98-images.path%EC%99%80-assetPrefix)
 * [카카오 비즈인프라FE파트 개발자는 어떻게 일할까? – 기술편 – tech.kakao.com](https://tech.kakao.com/2021/11/23/biz-infra-fe-01/)
@@ -1902,6 +1903,10 @@ Javascript
 * [Solid · Reactive Javascript Library](https://www.solidjs.com/)
   * [ReactJS vs SolidJS - YouTube](https://www.youtube.com/watch?v=ZR7tdZ51MQ8)
   * [Solid.js feels like what I always wanted React to be | TypeOfNaN](https://typeofnan.dev/solid-js-feels-like-what-i-always-wanted-react-to-be/)
+    * React를 오래 사용했지만, Hook을 쓰면서 느끼던 불편함을 Solid.js의 Reactive 특징에서 이유와 해결책을 보게 되었다며 설명하는 글
+    * React Hook으로 카운터를 올리는 예시를 통해서 React Hook이 실수로 버그를 만들 여지가 있음을 보여주고 해결책은 있지만 익숙해지기 전에는 헷갈릴 수 있다고 설명
+    * Solid.js에서는 Reactive적인 특징이 있어서 DOM에서 사용할 값도 함수로 호출해서 인터벌로 업데이트할 때 사이드 이펙트가 발생하지 않고 컴포넌트 자체는 딱 한 번만 실행
+    * Solid.js에서는 모든 것이 리액티브 시스템에서 동작하고 라이프사이클 훅은 많은 역할을 하고 있지 않음
 * [Sparkplug — a non-optimizing JavaScript compiler · V8](https://v8.dev/blog/sparkplug)
 * [SpeckJS - Comment Driven Development](http://speckjs.github.io/)
 * [spectrum: Simple, powerful online communities](https://github.com/withspectrum/spectrum)
