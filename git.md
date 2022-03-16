@@ -1089,6 +1089,7 @@ Git
   * [GIT4 - reset & revert](https://www.youtube.com/playlist?list=PLuHgQVnccGMAvTJlPGzizAkyqXfZ9IyY8)
   * [github](https://opentutorials.org/module/4636)
   * [Github.com](https://www.youtube.com/playlist?list=PLuHgQVnccGMDWjb0TWItMCfDWDs8Y3Oo7)
+* [알아서 잘 딱 깔끔하고 센스있게 정리하는 GitHub 핵심 개념](https://paullabworkspace.notion.site/GitHub-435ec8074bcf4353afb947f601a030df)
 * [초심자를 위한 Github 협업 튜토리얼 (with 토끼와 거북이)](https://milooy.wordpress.com/2017/06/21/working-together-with-github-tutorial/)
 * [Git 협업 가이드](https://velog.io/@jinuku/Git-%ED%98%91%EC%97%85-%EA%B0%80%EC%9D%B4%EB%93%9C)
 * [초심자를 위한 git과 github 30분 맛보기](https://medium.com/@codesquad_yoda/%EC%B4%88%EC%8B%AC%EC%9E%90%EB%A5%BC-%EC%9C%84%ED%95%9C-git%EA%B3%BC-github-30%EB%B6%84-%EB%A7%9B%EB%B3%B4%EA%B8%B0-c2366dc1d421)
