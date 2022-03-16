@@ -714,6 +714,7 @@ Programming
     * 베타 테스트
 * [Consistency, Coupling, and Complexity at the Edge](https://www.infoq.com/articles/consistency-coupling-complexity/) RESTful, GraphQL
 * [tl;dr Coupling (& later Cohesion) - by Kent Beck](https://tidyfirst.substack.com/p/tldr-coupling-and-later-cohesion) The economic goal of software design is to balance the cost of coupling versus the cost of decoupling
+* [소프트웨어 응집력(cohesion)은 무언가?](https://brunch.co.kr/@graypool/320)
 * [**소프트웨어 커플링의 의미는 무언가?**](https://brunch.co.kr/@graypool/312)
   * (코드의 결합과 무관하게?) A를 바꿨을 때 B가 바뀐다면 coupling
   * 경계를 정하고 나누는 행위 = 설계 이 때 나누는 기준은 technical X business O
