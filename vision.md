@@ -698,6 +698,7 @@ Vision
 * [Coding Minecraft In 5 Seconds - Python/ OpenGL Programming Challenge](https://www.youtube.com/watch?v=S4EUQD9QIzc)
 * [OpenGL ES 2.0 예제](https://brunch.co.kr/@mystoryg/102)
 * [Nvidia Mesh Shader 코드를 작성해보자](https://www.vw-lab.com/84)
+* [Advanced OpenGL Tutorial – Skeletal Animations with Assimp - YouTube](https://www.youtube.com/watch?v=GZQkwx10p-8)
 * [docs.GL - OpenGL API Documentation](http://docs.gl/)
 * [PortableGL: An implementation of OpenGL 3.x-ish in clean C](https://github.com/rswinkle/PortableGL)
 
