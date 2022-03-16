@@ -1356,6 +1356,24 @@ Programming
   * [4편 REST Retry](https://www.popit.kr/rest-%EA%B8%B0%EB%B0%98%EC%9D%98-%EA%B0%84%EB%8B%A8%ED%95%9C-%EB%B6%84%EC%82%B0-%ED%8A%B8%EB%9E%9C%EC%9E%AD%EC%85%98-%EA%B5%AC%ED%98%84-4%ED%8E%B8-rest-retry/)
 * [REST APIs for Microservices? Beware! - YouTube](https://www.youtube.com/watch?v=_4gyR6CBkUE)
 * [Eventual Consistency isn’t for Streaming – Materialize](https://materialize.io/eventual-consistency-isnt-for-streaming/)
+* [Reveal2021 - 쿠팡의 대규모 트래픽을 다루는 백앤드 전략 - YouTube](https://www.youtube.com/watch?v=qzHjK1-07fI)
+  * Unified NoSQL에 각 MSA가 queue를 통해 data를 입력하고 모든 MSA는 core/common serving layer를 통해 읽는 방식
+  * time sensitive data는 real time cache로 streaming을 통해 data update
+  * availability는 circuit breaker를 이용해 장애가 cascading되지 않게 방지
+    * 두 개의 cache cluster를 통해 전체 traffic의 95%를 cache에서 처리하지만 개별 node가 자주 down되는데, topology를 파악해도 cache client library가 바로 복원하진 못하므로, topology도 refresh하지만, response time도 체크해서 특정 값(1ms)가 넘으면 바로 close하도록 처리
+    * down되었던 node는 다시 up하면 full sync를 통해 recovery, 때로는 전체 cluster마저 새로 구축해 recovery를 하기도 했음
+      * 그러나 full sync에서는 실제 필요한 경우보다 더 많은 write이 필요(새로 뜬 replica들이 empty라서 cache cluster에 data가 없다고 인식하게 되어)한 걸 발견
+    * 보다 근본적인 해결을 위해 방법을 찾다가 replica가 empty등 정상적인 상황이 아니라고 판단하면 traffic을 끊어 급격한 write 증가를 제거
+    * 그러나 여전히 문제가 있었는데, traffic이 imbalanced로 들어오면서 cache의 크기를 가장 traffic이 많은 node 기준으로 산정해야 했고, 낭비되는 공간이 발생
+      * 이건 node의 network speed에 따라 처음에 선택된 node가 반복적으로 shard에서 선택되면서 발생하여 dynamic하게 선정하도록 변경
+      * CPU usage가 조금 상승했으나, 전체적인 안정성이 향상되고, storage 낭비도 감소
+  * throughput challenge
+    * 예상한(이벤트등) 혹은 예상치 못한(e.g. 코로나 시기 마스크 구입) 트래픽 급증
+    * 우선은 서버 대수를 늘려서 대응할 수 밖에 없었음
+    * local cache layer를 추가해서 대응했으나 invalidation과 GC 문제 발생
+      * GC를 감소시키기 위해 DTO를 binary로 처리
+    * local cache에서 트래픽 급증 시 최대 70%까지 처리
+  * 이외에도 non blocking IO를 통해 cpu bound 문제 해결
 * [결과적 일관성인가? 최종적 일관성인가? | Popit](https://www.popit.kr/%ea%b2%b0%ea%b3%bc%ec%a0%81-%ec%9d%bc%ea%b4%80%ec%84%b1%ec%9d%b8%ea%b0%80-%ec%b5%9c%ec%a2%85%ec%a0%81-%ec%9d%bc%ea%b4%80%ec%84%b1%ec%9d%b8%ea%b0%80)
 * [대용량 환경에서 그럭저럭 돌아가는 서비스 만들기](https://www.popit.kr/%EB%8C%80%EC%9A%A9%EB%9F%89-%ED%99%98%EA%B2%BD%EC%97%90%EC%84%9C-%EA%B7%B8%EB%9F%AD%EC%A0%80%EB%9F%AD-%EB%8F%8C%EC%95%84%EA%B0%80%EB%8A%94-%EC%84%9C%EB%B9%84%EC%8A%A4-%EB%A7%8C%EB%93%A4%EA%B8%B0/)
 * [From Monolith to Microservices at Grab (aka Go for Grab)](https://www.youtube.com/watch?v=HrTt_C-2VGY)
