@@ -48,6 +48,7 @@ Programming
   * 클론코딩과 스터디 모임, 모각코, 콘퍼런스 등에서 이용할 수 있는 사이트와 어떤 부분이 도움 되었는지 설명
 * [These YouTube Channels Taught Me How to Code | by keypressingmonkey | Better Programming | Sep, 2020 | Medium](https://medium.com/better-programming/these-youtube-channels-taught-me-how-to-code-6264fedfd325)
 * [pr0gr4m/Newbie-Guideline: 컴퓨터과학/공학 신입생 및 비전공자 신입을 위한 지침서](https://github.com/pr0gr4m/Newbie-Guideline)
+* [비전공자 프론트엔드 개발자의 취업 후기](https://hollow-snail-bd2.notion.site/c140e9031def4fd895dc452116ffa605)
 * [Developer Roadmaps - Step by step guides and paths to learn different tools or technologies](https://roadmap.sh/roadmaps)
 * [Awesome Roadmaps](https://github.com/awesome-roadmaps)
 * [2020 백엔드 개발자 로드맵](https://velog.io/@exploit017/2020-%EB%B0%B1%EC%97%94%EB%93%9C-%EA%B0%9C%EB%B0%9C%EC%9E%90-%EB%A1%9C%EB%93%9C%EB%A7%B5)
@@ -1029,6 +1030,7 @@ Programming
 * [Agile Architecture — the rise of messy, inconsistent and emergent architecture](https://hackernoon.com/agile-architecture-the-rise-of-messy-inconsistent-and-emergent-architecture-e6801ab25b61)
 * [5 ways to dramatically accelerate your product development speed](https://hackernoon.com/5-ways-to-dramatically-accelerate-your-product-development-speed-c1141d532460)
 * [Software Architecture Guide](https://martinfowler.com/architecture/)
+* [마틴 파울러 소프트웨어 아키텍처의 중요성 (한글 자막) - YouTube](https://www.youtube.com/watch?v=4E1BHTvhB7Y)
 * [Google - polling like it's the 90s](https://www.ably.io/blog/google-polling-like-its-the-90s/)
 * [Victor Rentea - Evolving a Clean, Pragmatic Architecture – A Software Crafter’s Guide](https://www.youtube.com/watch?v=tMHO7_RLxgQ)
 * [LINE의 인프라 비용을 절감한 6가지 사례](https://engineering.linecorp.com/ko/blog/6-practices-of-reducing-line-infra-costs/) upstream cache, storage layering, thumbnail lifecycle, message forward, video traffic, high efficiency image format
@@ -1912,6 +1914,10 @@ Programming
 * [병아리 개발자의 걸음마 한 발짝 (feat. 파일럿 프로젝트)](http://woowabros.github.io/experience/2019/09/10/pilot-project.html)
 * [코드리뷰의 진짜 목적은 따로있다](https://blog.logi-spot.com/코드리뷰의-진짜-목적은-따로있다/)
 * [애자일과 소프트웨어 장인정신 - 코드 리뷰를 왜 해야 하나?](https://brunch.co.kr/@cleancode/39)
+* [코드 리뷰 관련 질문!!](https://brunch.co.kr/@cleancode/43)
+  * 코드 리뷰 관련 강연을 하면서 받은 질문에 대해 생각 정리
+  * 리뷰하기 좋게 작성자가 노력해야 하고 리뷰는 매일 시간을 정해두고 하기 권장
+  * 리뷰하면 품질에 대한 비용을 줄일 수 있고 이를 성과로 인정해야 조직에서도 리뷰를 더 적극적으로 할 수 있으며 지속해서 해야 시간이 지나면서 혜택
 * [우리는 코드 리뷰를 잘하고 있을까요?. 안녕하세요, 스타일쉐어에서 안드로이드 개발을 맡고 있는 이길현… | by develog | StyleShare | Oct, 2020 | Medium](https://medium.com/styleshare/%EC%9A%B0%EB%A6%AC%EB%8A%94-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%EC%9E%98%ED%95%98%EA%B3%A0-%EC%9E%88%EC%9D%84%EA%B9%8C%EC%9A%94-201c12d04d0d)
 * [How one code review rule turned my team into a dream team](https://medium.com/inside-league/how-one-code-review-rule-turned-my-team-into-a-dream-team-fdb172799d11)
 * [코드리뷰 모음 서비스를 소개합니다](https://woowabros.github.io/techcourse/2020/06/05/techcourse-javable.html)
@@ -2613,6 +2619,10 @@ Programming
 * [데브옵스 파이프라인이 공격을 받는 이유와 대처 방안 - ITWorld Korea](https://www.itworld.co.kr/news/226964)
 * [Complete guide to becoming a DevOps Engineer - 2022 🚀🧑‍💻 - DEV Community](https://dev.to/ankit01oss/complete-guide-to-becoming-a-devops-engineer-2022-10h0)
 * [The Challenges of DevOps and The Importance of Developer Experience with Jyoti Bansal - YouTube](https://www.youtube.com/watch?v=1NGaquxjgPw)
+* [DevOps 안내서](https://subicura.com/devops/)
+  * subicura님이 정리한 DevOps 안내서
+  * 스타트업에서 DevOps를 도입한다는 가상의 시나리오에 따라 Node.js 웹 애플리케이션을 만들고 이를 자동화하는 과정 정리
+  * 목차를 보면 AWS와 Kubernetes 배포까지 계획하고 계신 거로 보이지만 현재는 Node.js 웹 애플리케이션의 작성과 GitHub 연동까지 작성
 * [elementary: Elementary is an open-source data observability framework for modern data teams. Move fast and be confident about your data](https://github.com/elementary-data/elementary)
 * [fourkeys](https://github.com/GoogleCloudPlatform/fourkeys) four key metrics that indicate the performance of software delivery
 * [lake: DevLake: the open source data lake & dashboard for your DevOps tools](https://github.com/merico-dev/lake)
@@ -3281,6 +3291,7 @@ Programming
   * [기술 뉴스 #191 : 22-02-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1579)
   * [기술 뉴스 #192 : 22-02-16 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1581)
   * [기술 뉴스 #193 : 22-03-01 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1583)
+  * [기술 뉴스 #194 : 22-03-15 :: Outsider's Dev Story](https://blog.outsider.ne.kr/1585)
 * 월간 개발자스럽다
   * [1801호](https://blog.gaerae.com/2018/01/monthly.html)
   * [1802호](https://blog.gaerae.com/2018/02/monthly.html)
