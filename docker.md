@@ -464,6 +464,7 @@ Docker
 * [Docker Images : Part III - Going Farther To Reduce Image Size](https://www.ardanlabs.com/blog/2020/04/docker-images-part3-going-farther-reduce-image-size.html)
 * [Optimizing Docker image size and why it matters - contains.dev](https://contains.dev/blog/optimizing-docker-image-size)
 * [3 simple tricks for smaller Docker images](https://learnk8s.io/blog/smaller-docker-images)
+* [Docker Image Pipelines and Patterns - YouTube](https://www.youtube.com/watch?v=ODXSPVZA4c8)
 * [Docker Based Web Hosting](https://code.shoplic.kr/docker-based-web-hosting)
 * [Demystifying containers 101: a deep dive into container technology for beginners](https://medium.freecodecamp.org/demystifying-containers-101-a-deep-dive-into-container-technology-for-beginners-d7b60d8511c1)
 * [The TICK stack as a Docker Application Package](https://medium.com/lucjuggery/the-tick-stack-as-a-docker-application-package-1d0d6b869211)
@@ -1242,6 +1243,7 @@ Docker
     * NGINX Ingress Controller를 사용하여 앱으로 트래픽 라우팅
     * 트래픽 생성 및 모니터링
     * 자동 크기 조정 NGINX Ingress Controller
+* [Best Practices for Running Stateful Applications on Kubernetes](https://www.infoq.com/articles/kubernetes-stateful-applications/)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1351,6 +1353,7 @@ Docker
   * [My first impression of AWS Karpenter](https://heuristicwave.github.io/Karpenter)
 * [KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes](https://github.com/kedacore/keda)
   * [Announcing KEDA: bringing event-driven containers and functions to Kubernetes](https://cloudblogs.microsoft.com/opensource/2019/05/06/announcing-keda-kubernetes-event-driven-autoscaling-containers/)
+  * [KEDA를 활용하여 방문자가 있을 때만 작동하는 서비스 배포하기 · 클라우드메이트 기술 블로그🦒](https://tech.cloudmt.co.kr/2022/03/11/http-traffic-based-autoscaling-with-keda/)
 * Ketch [Application Delivery - Ketch](https://www.theketch.io/)
   * [Use Ketch to Deploy Apps on Kubernetes With YAML - DZone Cloud](https://dzone.com/articles/how-to-use-ketch-to-deploy-applications-on-kuberne)
 * [kim: In ur kubernetes, buildin ur imagez](https://github.com/rancher/kim) Rancher에서 공개한 Kubernetes 이미지 관리자
