@@ -726,6 +726,7 @@ R
   * [tidyquant with tqk](https://mrchypark.github.io/tqk_docs/tidyquant-with-tqk.html)
 * [tubeplayR - play youtube by R](https://github.com/kazutan/tubeplayR)
 * [Tufte in R](http://motioninsocial.com/tufte/#introduction)
+* venn [Introduction to the venn Package in R (6 Examples) | Draw Up to 7 Sets](https://statisticsglobe.com/venn-r-package)
 * [Visual Studio용 R 도구 - Visual Studio를 강력한 R 개발 환경으로 전환하세요](https://www.visualstudio.com/ko/vs/rtvs/)
 * [windex-simulator-hanwoo 한우 육량등급 시뮬레이터 code](https://github.com/adatalab/windex-simulator-hanwoo)
 * [WVPlots: Common Plots for Analysis](https://cran.r-project.org/web/packages/WVPlots/index.html)
