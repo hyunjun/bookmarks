@@ -513,6 +513,7 @@ Data Science
 ## Library data discovery
 * [데이터 디스커버리 플랫폼 도입기 - 1편. 데이터 디스커버리란?(feat. Datahub VS Amundsen 비교 분석) - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2022/02/25/data-discovery-platform-01.html)
   * [쏘카의 데이터 디스커버리 플랫폼 도입기 | GeekNews](https://news.hada.io/topic?id=6051)
+* [데이터 디스커버리 플랫폼 도입기 - 2편. GKE에 Datahub 구축하기 - SOCAR Tech Blog](https://tech.socarcorp.kr/data/2022/03/16/metdata-platform-02.html)
 * amundsen [Data discovery & metadata management (amundsen installation)](https://www.slideshare.net/changunjung/data-discovery-metadata-management-amundsen-installation)
 * datahub [A Metadata Platform for the Modern Data Stack | DataHub](https://datahubproject.io/)
   * [뱅크샐러드 Data Discovery Platform의 시작 | 뱅크샐러드](https://blog.banksalad.com/tech/the-starting-of-datadiscoveryplatform-era-in-banksalad/)
