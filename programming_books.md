@@ -1647,6 +1647,7 @@ Programming Books
   * 우당
   * [과연 팀원은 팀장님과의 원온원을 기다릴까요? | YES24 채널예스](http://ch.yes24.com/Article/View/48212)
 * (NOT YET) [Running Lean (린 스타트업)](https://story.pxd.co.kr/753)
+* (NOT YET) 리더의 질문법 [리더의 ‘겸손한 질문’, 조직 활력 높인다 직장인을 위한 김호의 생존의 방식](https://www.donga.com/news/Opinion/article/all/20220316/112349769/1)
 
 # Math
 
