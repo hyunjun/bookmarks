@@ -724,6 +724,7 @@ Algorithm
 * [Beating Textbook Algorithms in String Search](https://medium.com/wix-engineering/beating-textbook-algorithms-in-string-search-5d24b2f1bbd0)
 * [Code optimization, how to optimize the code, code performance, how to increase code performance, how to make code more readable. | JavaScript In Plain English](https://medium.com/javascript-in-plain-english/optimize-your-code-and-itll-execute-up-to-55-faster-%EF%B8%8F-3f0c1929ab07) palindrome
 * [문자열 padding 처리로 가희와 파일탐색기 문제를 풀어봅시다](https://codingdog.tistory.com/554)
+* [Top 20 String Algorithm Questions from Coding Interviews](https://javarevisited.blogspot.com/2015/01/top-20-string-coding-interview-question-programming-interview.html)
 * [Aho Corasick](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
   * [Aho-Corasick Algorithm(아호 코라식 알고리즘)](https://www.slideshare.net/ssuser81b91b/ahocorasick-algorithm)
   * [Aho-Corasick string matching algorithm](http://hwamir.tistory.com/)
