@@ -557,6 +557,7 @@ SQL
 * [MySQL: Fulltext search에서 하이픈 캐릭터 사용하기](http://ohgyun.com/757)
 * [surrogate key 와 natural key](http://ohgyun.com/756)
 * [primary key vs foreign key in mysql | Tutorial 8 in hindi - YouTube](https://www.youtube.com/watch?v=K5EbghMBow0)
+* [Difference between Primary key and Unique key - GeeksforGeeks](https://www.geeksforgeeks.org/difference-between-primary-key-and-unique-key/)
 * [Create foreign key in mysql | Create table with foreign key | Tutorial 9 in hindi - YouTube](https://www.youtube.com/watch?v=TLD0zkD9MtQ)
 * [카카오뱅크 – Percona / MariaDB / MySQL](https://osskorea.wordpress.com/2017/08/02/%EC%B9%B4%EC%B9%B4%EC%98%A4%EB%B1%85%ED%81%AC-percona-mariadb-mysql/)
 * [Group Replication in Percona Server for MySQL](https://www.percona.com/blog/2020/01/17/group-replication-in-percona-server-for-mysql/)
