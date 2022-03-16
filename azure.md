@@ -122,6 +122,7 @@ Azure
 * [애저듣보잡 AKS 활용법 101 - 박인혜 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WkuMBsjmzk5E7GOG8DIh49Ur)
 * [Az-900 Azure Fundamentals | Week 5/6 | 애저 자격증 준비 - YouTube](https://www.youtube.com/watch?v=ewDuJSpEh5A)
 * [Build and Deploy Spring Boot with Mongo DB App on Azure | Secure DB secrets with key vaults - YouTube](https://www.youtube.com/watch?v=hQV0uZDWHQI)
+* [Hashicorp Vault Azure Secrets Engine - Secure Your Azure Resources | TeKanAid](https://tekanaid.com/posts/hashicorp-vault-azure-secrets-engine-secure-your-azure-resources)
 * [리얼월드 서버의 미제사건, 원인 모를 과부하 해결하기. 리얼월드는 Microsoft Azure 위에서 돌아가고 있습니다… | by 이예찬 | Uniquegood | May, 2021 | Medium](https://medium.com/uniquegood/%EB%A6%AC%EC%96%BC%EC%9B%94%EB%93%9C-%EC%84%9C%EB%B2%84%EC%9D%98-%EB%AF%B8%EC%A0%9C%EC%82%AC%EA%B1%B4-%EC%9B%90%EC%9D%B8-%EB%AA%A8%EB%A5%BC-%EA%B3%BC%EB%B6%80%ED%95%98-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-9806f783fc67)
 * [**폭발적인 사용자 증가로 마주한 성능 저하 2종 해결하기. 갑작스럽게 트래픽이 폭증하는 상황에서 아무런 문제가 발생하지 않았으면… | by 이예찬 | Uniquegood | Jun, 2021 | Medium**](https://medium.com/uniquegood/%ED%8F%AD%EB%B0%9C%EC%A0%81%EC%9D%B8-%EC%82%AC%EC%9A%A9%EC%9E%90-%EC%A6%9D%EA%B0%80%EB%A1%9C-%EB%A7%88%EC%A3%BC%ED%95%9C-%EC%84%B1%EB%8A%A5-%EC%A0%80%ED%95%98-2%EC%A2%85-%ED%95%B4%EA%B2%B0%ED%95%98%EA%B8%B0-f60ba284258e)
   * 큐의 메시지의 양을 제대로 소비하지 못하면서 지연되는 문제, 두 번째는 데이터베이스 커넥션 풀을 충분히 설정하지 못해서 타임아웃이 발생
