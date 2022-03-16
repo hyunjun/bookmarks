@@ -1234,6 +1234,14 @@ Docker
 * [JENNIFER – 쿠버네티스 환경(AKS, EKS, GKE,…) 지원 – 제니퍼소프트](https://jennifersoft.com/ko/blog/tech/2022-02-22/)
 * [Scaling Kubernetes to Over 4k Nodes and 200k Pods | by Abdul Qadeer | The PayPal Technology Blog | Jan, 2022 | Medium](https://medium.com/paypal-tech/scaling-kubernetes-to-over-4k-nodes-and-200k-pods-29988fad6ed)
 * [Accelerating Reinforcement Batch Inference Speed through Unlimited Parallel Processing (AWS, k8s) | by 류원탁 | SPACEWALK blog | Mar, 2022 | Medium](https://medium.com/spacewalk-blog/accelerating-reinforcement-batch-inference-speed-through-unlimited-parallel-processing-aws-k8s-b58debe0e095)
+* [Kubernetes is a cloud operating system](https://home.robusta.dev/blog/kubernetes-is-a-cloud-operating-system/)
+* [힘들게 구축한 쿠버네티스, 개발자에게 외면받는다면 - ZDNet korea](https://zdnet.co.kr/view/?no=20220314142617)
+* [Autoscaling으로 Kubernetes 지연 시간 줄이기 - NGINX STORE](https://www.nginxplus.co.kr/best-practices/reduce-kubernetes-latency-with-autoscaling/)
+  * Autoscaling으로 K8s 지연시간 줄이는 방법
+    * Kubernetes 클러스터에서 단순 앱 구성
+    * NGINX Ingress Controller를 사용하여 앱으로 트래픽 라우팅
+    * 트래픽 생성 및 모니터링
+    * 자동 크기 조정 NGINX Ingress Controller
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
