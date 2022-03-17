@@ -488,6 +488,7 @@ iOS
 * [swift 3편 - Alamofire을 이용하여 HTTP 통신과 앨범 이미지 업로드](https://blog.naver.com/pjt3591oo/222667876184)
 * [swift 4편 - MVVM 패턴 적용 : 네이버 블로그](https://blog.naver.com/pjt3591oo/222671197050)
 * [swift 5편 - UserDefaults와 Keychain으로 상태관리](https://blog.naver.com/pjt3591oo/222671242655)
+* [수위프트UI/번역 @StateObject와 @ObservedObject, 무엇이 다를까요?](https://pilgwon.github.io/post/state-object-vs-observed-object)
 
 ## Swift Library
 * [Swift 서버 사이드 프레임워크 비교 분석](http://news.realm.io/kr/news/swift-server-side-framework/)
