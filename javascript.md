@@ -1042,6 +1042,7 @@ Javascript
 * [How to Use Async/Await to Write Better JavaScript Code](https://www.freecodecamp.org/news/how-to-use-async-await-write-better-javascript/)
 * [자바스크립트의 비동기 프로그래밍 - 정윤호 · Present](https://present.do/presentations/6145f2ace3562505806fb6ef)
 * [javascript 에서 async 와 await를 이용해 비동기 처리하기](https://devkingdom.tistory.com/336)
+* [Javascript async / await Tip](https://coolengineer.com/entry/Javascript-async-await-Tip)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * fetch
   * [Ajax, fetch](https://velog.io/@ksh4820/Ajax-fetch)
