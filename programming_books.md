@@ -201,6 +201,7 @@ Programming Books
 * (NOT YET) [애자일 듀오 ‘칸반과 스크럼’ – 도서출판 인사이트](https://blog.insightbook.co.kr/2013/05/08/%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%93%80%ec%98%a4-%ec%b9%b8%eb%b0%98%ea%b3%bc-%ec%8a%a4%ed%81%ac%eb%9f%bc/)
 * (NOT YET) [익스트림 프로그래밍 - 도서출판 인사이트](http://ebook.insightbook.co.kr/book/48)
 * (NOT YET) [팀장님, 우리도 협업 도구 쓸까요?](https://bjpublic.tistory.com/437) 도구에 대한 책이라 agile이라고 보기는 좀 애매하지만
+  * 우당
 * (NOT YET) [프로젝트에서 제품으로 | 에이콘출판사](http://www.acornpub.co.kr/book/project-product)
 
 # Algorithm
@@ -1002,7 +1003,7 @@ Programming Books
 * (NOT YET) [Kubernetes: Up & Running • Brendan Burns & Matt Turner • GOTO 2021 - YouTube](https://www.youtube.com/watch?v=Nr3i2r-ffnc)
 * (NOT YET) [더북(TheBook): 컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커](https://thebook.io/080241/)
   * [컨테이너 인프라 환경 구축을 위한 쿠버네티스/도커](https://github.com/sysnet4admin/_Book_k8sInfra)
-    * [_Book_k8sInfra/확장본#2 - 자바 개발자를 위한 컨테이너 이미지 빌드.pdf at main · sysnet4admin/_Book_k8sInfra](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/%ED%99%95%EC%9E%A5%EB%B3%B8%232%20-%20%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B9%8C%EB%93%9C.pdf)
+    * [\_Book_k8sInfra/확장본#2 - 자바 개발자를 위한 컨테이너 이미지 빌드.pdf at main · sysnet4admin/\_Book_k8sInfra](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/%ED%99%95%EC%9E%A5%EB%B3%B8%232%20-%20%EC%9E%90%EB%B0%94%20%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%A5%BC%20%EC%9C%84%ED%95%9C%20%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EB%B9%8C%EB%93%9C.pdf)
     * [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
     * [troubleshooting-kubernetes.ko_kr.v2.pdf](https://learnk8s.io/a/a-visual-guide-on-troubleshooting-kubernetes-deployments/troubleshooting-kubernetes.ko_kr.v2.pdf)
     * [2022년 쿠버네티스 표준 아키택처](https://github.com/sysnet4admin/_Book_k8sInfra/tree/main/docs/k8s-stnd-arch/2022)
@@ -1053,7 +1054,8 @@ Programming Books
   * [독서광 엘라스틱 스택 개발부터 운영까지 - YouTube](https://www.youtube.com/watch?v=_TWmXx1ECd4)
 
 # Elixir
-* [처음 배우는 엘릭서 프로그래밍](https://www.hanbit.co.kr/store/books/look.php?p_code=B5732906061)
+* (NOT YET) [처음 배우는 엘릭서 프로그래밍](https://www.hanbit.co.kr/store/books/look.php?p_code=B5732906061)
+  * 우당
 
 # Finance
 
@@ -1648,7 +1650,9 @@ Programming Books
   * 우당
   * [과연 팀원은 팀장님과의 원온원을 기다릴까요? | YES24 채널예스](http://ch.yes24.com/Article/View/48212)
 * (NOT YET) [Running Lean (린 스타트업)](https://story.pxd.co.kr/753)
+  * 한라, 탐라
 * (NOT YET) 리더의 질문법 [리더의 ‘겸손한 질문’, 조직 활력 높인다 직장인을 위한 김호의 생존의 방식](https://www.donga.com/news/Opinion/article/all/20220316/112349769/1)
+  * 우당
 
 # Math
 

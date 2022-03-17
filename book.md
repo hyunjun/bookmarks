@@ -187,6 +187,7 @@ Book
 * (NOT YET) [소련 독재와 전체주의 비판, 2022년에는 어떤 의미로 다가올까? 조지 오웰의 1984 - YouTube](https://www.youtube.com/watch?v=d5xv67iJ1Mg)
 * (NOT YET) ["악의 평범성", 왜 평범한 시민들이 악마로 변하는가! : 한나 아렌트 예루살렘의 아이히만 - YouTube](https://www.youtube.com/watch?v=K7muj9zG-us)
 * (NOT YET) [임포스터 (Imposter)](https://blog.naver.com/junedec369/222670625109)
+  * 탐라, 우당
 
 # Africa
 * [헉 아프리카](https://medium.com/@strncpy/%ED%97%89-%EC%95%84%ED%94%84%EB%A6%AC%EC%B9%B4-69f78d893ba)
