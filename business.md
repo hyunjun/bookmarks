@@ -1229,6 +1229,9 @@ Business
 * [사라질 듯 사라지지 않는, 스타트업의 사내 정치를 활용하는 법 | ㅍㅍㅅㅅ](https://ppss.kr/archives/251336)
 * ["엿먹어 외치세요"...5조 회사 만든 CEO의 5가지 지혜 - 더밀크 | The Miilk](https://themiilk.com/articles/aad5aad3f?u=1b5c382f&t=ab86c21c3&from=)
   * ["엿먹어 외치세요"...5조 회사 만든 CEO의 5가지 지혜](https://drive.google.com/file/d/1IoeMnfxNK7MUa8VIeRbHwhbLJzkaHguI/view?usp=sharing)
+* [로봇 기사](https://www.thestartupbible.com/2022/03/robots-will-be-better-drivers.html)
+  * `사람을 위주로 서비스를 제공하는 비즈니스가 스케일이 생기면, 항상 이런 문제가 발생한다. 소프트웨어는 스케일해도 동일한 품질을 유지할 수 있지만, 사람은 그게 안 되기 때문이다.`
+    * 내가 요즘 항상 이야기하고 고민하는 부분
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
