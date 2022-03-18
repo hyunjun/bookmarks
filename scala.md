@@ -338,6 +338,7 @@ Scala
 * [Sick Fira Code Progress Bars for Absolute Beginners! - Part 1 - YouTube](https://www.youtube.com/watch?v=z7ZDI0H0n2I)
   * [DevInsideYou/progress](https://github.com/DevInsideYou/progress)
 * [Sick Fira Code Progress Bars for Absolute Beginners! - Part 2 - YouTube](https://www.youtube.com/watch?v=PKW5dJLpiWg)
+* [The Debug Adapter Protocol and Scala](https://www.chris-kipp.io/blog/the-debug-adapter-protocol-and-scala)
 
 # Actor
 * [Actor 생성하기](https://ramees.tistory.com/34)
@@ -694,6 +695,7 @@ Scala
   * [Scala collections methods explained using food 😋 - Waris Radji](https://warisradji.com/2021/06/04/scala-collections-methods-explained-using-food/index.html)
     * [practice - collections methods](https://gist.github.com/hyunjun/3eddbf4ba54b1a603f38e52b78a9b0e6#file-collections_methods-scala)
   * [Linear Collections in Scala: Seq, List, Array, Vector, Set, Range - YouTube](https://www.youtube.com/watch?v=UvUkpduo6uE)
+  * [List vs Vector in 2022](https://august.nagro.us/list-vs-vector.html)
 * concurrent
   * duration
     * [Rock the JVM | How Does "20 seconds" Work in Scala?](https://rockthejvm.com/blog/215541/20-seconds)
@@ -789,6 +791,7 @@ Scala
   * [Implicits for Hypothetical Babies - YouTube](https://www.youtube.com/watch?v=6tiPdV93Shw)
   * [Journey of Implicits in Scala. Implicits are the most ambivalent… | by ayush mittal | Mar, 2022 | Medium](https://ayushm4489.medium.com/journey-of-implicits-in-scala-737a8db2f490)
   * [Journey of Implicits in Scala — part 2 | by ayush mittal | Mar, 2022 | Medium](https://ayushm4489.medium.com/journey-of-implicits-in-scala-part-2-18aec19c6bb5)
+  * [Journey of Implicits in Scala — part 3 | by ayush mittal | Mar, 2022 | Medium](https://ayushm4489.medium.com/journey-of-implicits-in-scala-part-3-963f824ad9ba)
 * I/O
   * [How fast is default buffered I/O in C++, Go, Python, Ruby, and Scala on Linux?](https://medium.com/@rvprasad/how-fast-is-default-buffered-i-o-in-c-go-python-ruby-and-scala-on-linux-5b2963d059cc)
   * [Towards a better API for I/O](https://medium.com/permutive/towards-a-better-api-for-i-o-35d385060a5c)
@@ -820,6 +823,7 @@ Scala
   * [Option — the null of our times. Things I would have told my… | by Adam Gajek | VirtusLab | Sep, 2020 | Medium](https://medium.com/virtuslab/option-the-null-of-our-times-77f3bfd7c234)
   * [I like Option.get - Alexandru Nedelcu](https://alexn.org/blog/2020/11/12/i-like-option-get.html)
   * [**Scala의 예외 처리 - Option, Either, Try - Nephtyw’S Programming Stash**](https://nephtyws.github.io/programming/scala-option-either-try/)
+  * [#Scala #Option is NOT about #null! - YouTube](https://www.youtube.com/watch?v=YMH6aCHc19o)
 * Ordered
   * [A functional comparer](https://scalaprof.blogspot.com/2020/04/a-functional-comparer.html)
 * Ordering
@@ -1420,6 +1424,8 @@ Scala
   * [Running a Lagom microservice on Akka Cluster with split-brain resolver](https://medium.com/stashaway-engineering/running-a-lagom-microservice-on-akka-cluster-with-split-brain-resolver-2a1c301659bd)
   * [Rapid and Highly Scalable Development Using Scala and Lagom](https://medium.com/@coreyauger/rapid-and-highly-scalable-development-using-scala-and-lagom-17a9205da42b)
   * [Part 2: Deploying Lagom with a CI/CD Pipeline on Kubernetes](https://medium.com/@coreyauger/part-2-deploying-lagom-with-a-ci-cd-pipeline-on-kubernetes-a6ea47aff21f)
+* [macwire: Lightweight and Nonintrusive Scala Dependency Injection Library](https://github.com/softwaremill/macwire)
+  * [Autowire - an overview](https://softwaremill.com/autowire-overview/)
 * [Metals - Scala language server with rich IDE features](https://scalameta.org/metals/)
   * [Happy Life With #Scala #Metals](https://www.youtube.com/watch?v=kc2jrTEs5ug)
   * [Implementing a server for the Language Server Protocol](https://medium.com/virtuslab/implementing-a-server-for-the-language-server-protocol-a2e6f94ed5df)
