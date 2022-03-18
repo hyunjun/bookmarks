@@ -260,9 +260,11 @@ Java
   * [Java 제네릭 Generics DEEP DIVE](https://futurecreator.github.io/2018/08/12/java-generics/)
   * [Java Generics in no time "? extends" & "? super" explained with a diagram | Java-Success.com](https://www.java-success.com/java-generics-and-wildcards-extends-super-explained-with-a-diagram/)
 * javadoc [Javadoc 작성하기 - 기계인간 John Grib](https://johngrib.github.io/wiki/java-javadoc/)
-* `java.util.Properties`
-  * [java.util.Properties](https://github.com/hyunjun/practice/tree/master/java/test-property)
-  * [How to read values from properties file in java example](http://www.instanceofjava.com/2018/01/how-to-read-values-from-properties-file.html)
+* java.util
+  * Properties
+    * [java.util.Properties](https://github.com/hyunjun/practice/tree/master/java/test-property)
+    * [How to read values from properties file in java example](http://www.instanceofjava.com/2018/01/how-to-read-values-from-properties-file.html)
+  * Timer [The Java Timer | Concurrency Deep Dives](https://cmhteixeira.com/concurrency/javaTimer.html)
 * JDBC
   * [자바가 디비와 사귀기까지 벌어지는 일들](https://www.slideshare.net/hangum/ss-80803201)
   * [JDBC로 실행되는 SQL에 자동으로 프로젝트 정보 주석 남기기](http://woowabros.github.io/tools/2018/08/16/jdbc-log-sql-projectinfo.html)
