@@ -206,6 +206,7 @@
 * [Android Development Course - Build Native Apps with Kotlin](https://www.youtube.com/watch?v=Iz08OTTjR04)
 * [안드로이드의 익숙한 BaseXXX class를 알아보고, 설계의 중요성을 알아보자](https://thdev.tech/kotlin/2020/12/08/kotlin_effective_14/)
 * [Sealed Class를 활용해서 서버응답 모델 깔끔하게 정의하기 | by Ted Park | 박상권의 삽질블로그 | Jan, 2022 | Medium](https://medium.com/%EB%B0%95%EC%83%81%EA%B6%8C%EC%9D%98-%EC%82%BD%EC%A7%88%EB%B8%94%EB%A1%9C%EA%B7%B8/sealed-class%EB%A5%BC-%ED%99%9C%EC%9A%A9%ED%95%B4%EC%84%9C-%EC%84%9C%EB%B2%84%EC%9D%91%EB%8B%B5-%EB%AA%A8%EB%8D%B8-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EC%A0%95%EC%9D%98%ED%95%98%EA%B8%B0-e2d9dbbd386)
+* [Android Basics in Kotlin course  |  Android Developers](https://developer.android.com/courses/android-basics-kotlin/course)
 * [Datastore  |  Android 개발자  |  Android Developers](https://developer.android.com/topic/libraries/architecture/datastore?hl=ko)
   * [Google Developers Korea Blog: Kotlin Serialization과 함께 DataStore 사용하기](https://developers-kr.googleblog.com/2021/04/using-datastore-with-kotlin-serialization.html)
   * [Android DataStore로 이전하기. 오랜만에 인사드립니다. ✋  다시 블로그 글쓰기를 열심히 해보려고… | by 백중원 (Leopold) | Dec, 2021 | Medium](https://medium.com/@joongwon/android-datastore%EB%A1%9C-%EC%9D%B4%EC%A0%84%ED%95%98%EA%B8%B0-273329bb2569)
