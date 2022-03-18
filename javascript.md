@@ -3838,6 +3838,7 @@ Javascript
 * [zustand: 🐻 Bear necessities for state management in React](https://github.com/pmndrs/zustand)
   * [React 상태 관리 라이브러리 Zustand의 코드를 파헤쳐보자 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20210812)
   * [리액트가 쉬워지는 채신기술 Zustand - YouTube](https://www.youtube.com/watch?v=zNHZJ_iEMPA)
+  * [전역 상태 관리자 주스탠드(zustand)](https://blog.naver.com/pjt3591oo/222676339976)
 
 ## React TDD Test
 * [A series of examples on how to TDD React](https://github.com/zpratt/react-tdd-guide)
