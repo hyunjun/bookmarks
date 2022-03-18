@@ -1245,6 +1245,7 @@ Docker
     * 자동 크기 조정 NGINX Ingress Controller
 * [Best Practices for Running Stateful Applications on Kubernetes](https://www.infoq.com/articles/kubernetes-stateful-applications/)
 * [Kubernetes Video Highlights from HashiTalks 2022](https://www.hashicorp.com/blog/kubernetes-video-highlights-from-hashitalks-2022)
+* [5 Key Elements for a Great Developer Experience with Kubernetes](https://loft.sh/blog/5-key-elements-for-a-great-developer-experience-with-kubernetes)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1432,6 +1433,8 @@ Docker
 * [Kui - a terminal with visualizations by and for developers](https://kui.tools/)
   * [DEMO 쿠버네티스 터미널을 더욱 더 있어 보이게 (kui+k9s) - YouTube](https://www.youtube.com/watch?v=K9p8qYMSHJM)
 * [Kustomize - The right way to do templating in Kubernetes](https://blog.stack-labs.com/code/kustomize-101/)
+* [Kyverno](https://kyverno.io/)
+  * [Best practices and lessons learnt from running Kyverno in production kubernetes | by amitagarwal | Feb, 2022 | Medium](https://amit-agarwal.medium.com/best-practices-and-lessons-learnt-from-running-kyverno-in-production-kubernetes-cd1bbecd2305)
 * [Lens | The Kubernetes IDE](https://k8slens.dev/)
   * [Lens 5.2 Released. We are proud to release Lens 5.2… | by Miska Kaipiainen | k8slens | Sep, 2021 | Medium](https://medium.com/k8slens/lens-5-2-released-874af03495de)
 * [localizer: ⛵ A no-frills local development tool for service developers working in Kubernetes](https://github.com/getoutreach/localizer)
@@ -1730,6 +1733,7 @@ Docker
 * [Docker Swarm 을 이용한 Container Orchestration 환경 만들기](https://tech.osci.kr/2019/02/13/59736201/)
 * [Docker swarm - setup and usage](https://knowledgepill.it/posts/docker_swarm_compendium/)
 * [Container Orchestration With Docker Swarm – Julien Salinas](https://juliensalinas.com/en/container-orchestration-docker-swarm-nlpcloud/)
+* [Kubernetes vs Docker Swarm: A Container Orchestration Tools Comparison](https://www.decipherzone.com/blog-detail/kubernetes-vs-docker-swarm)
 
 # TDD, Test
 * [Spin up a Docker dev/test Environment in 60 Minutes or Less](https://www.joyent.com/blog/spin-up-a-docker-dev-test-environment-in-60-minutes-or-less)
