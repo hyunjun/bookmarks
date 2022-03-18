@@ -349,6 +349,7 @@ NLP
 * [2021년 기계 학습과 자연어 처리 연구 하이라이트](https://velog.io/@aldente0630/2021%EB%85%84-%EA%B8%B0%EA%B3%84-%ED%95%99%EC%8A%B5%EA%B3%BC-%EC%9E%90%EC%97%B0%EC%96%B4-%EC%B2%98%EB%A6%AC-%EC%97%B0%EA%B5%AC-%ED%95%98%EC%9D%B4%EB%9D%BC%EC%9D%B4%ED%8A%B8)
 * [Using Kubeflow to solve natural language processing problems](https://analyticsindiamag.com/using-kubeflow-to-solve-natural-language-processing-nlp-problems/)
 * [Document Understanding 그리고 Information Extraction의 Multi-Modal Embedding DRAMA&COMPANY AI Lab.](https://blog.dramancompany.com/2022/03/document-understanding-information-extraction-multi-modal-embedding-layoutlm-docformer-vibertgrid/)
+* [MAVEN Dataset - YouTube](https://www.youtube.com/watch?v=fX-pW5wMxmM) Event Extraction을 위한 MAVEN Dataset 소개 및 논문 리뷰
 
 # 띄어쓰기
 * [기계학습을 이용한 한글 자동 띄어쓰기](http://hub-ai.com/nlp/767)
