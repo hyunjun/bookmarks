@@ -4451,6 +4451,7 @@ Javascript
 * [Vue, 원피스로 떠나는 여정](https://saramin.github.io/2021-12-15-vue2-vs-vue3/)
 * [**Vue 컴포넌트 - 메모리 누수 분석하기 - LINE ENGINEERING**](https://engineering.linecorp.com/ko/blog/vue-memory-leak-analysis/)
 * [Vue 3, 기본 버전이 되다 • 캡틴판교](https://joshua1988.github.io/web-development/vuejs/vue3-as-default/)
+* [사용자 입력 텍스트를 바이트(byte) 길이로 제한하는 Vue 컴포넌트 만들기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20220318)
 * [anissia-core](https://github.com/anissia-net/anissia-core)
 * [anissia-web](https://github.com/anissia-net/anissia-web)
 * [Gridsome - A Vue.js framework for static webpage](https://gridsome.org)
