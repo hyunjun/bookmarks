@@ -1576,6 +1576,7 @@ Programming
 * [Microservices Architecture | Making Java Easy To Learn](https://javatechonline.com/microservices-architecture/)
 * [Designing Resilient Microservices — Part 1 | by Vijay Seshadri | Swiggy Bytes](https://bytes.swiggy.com/designing-resilient-microservices-part-1-6a72fe964759)
 * [Let’s Talk about Microservices “Owning” their Data | by Guy Sela | Dev Genius](https://blog.devgenius.io/lets-talk-about-microservices-owning-their-data-169f66d64216)
+* [Icebergs, the Interface Segregation Principle and microservices](https://chrisrichardson.net/post/architecture/2022/03/16/isp-service-apis.html) loose design-time coupling
 * Cosmos [The Netflix Cosmos Platform. Orchestrated Functions as a… | by Netflix Technology Blog | Mar, 2021 | Netflix TechBlog](https://netflixtechblog.com/the-netflix-cosmos-platform-35c14d9351ad)
 * [Crossbar.io](https://crossbar.io/)
   * [Crossbar - 분산 & MSA 앱을 위한 오픈소스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4363)
@@ -3933,6 +3934,7 @@ Programming
 * [이동한님 Software QA 완벽한 SW는 없다! - YouTube](https://www.youtube.com/watch?v=zaI59OJCA3s)
 * [LINE의 QA는 어떻게 일할까? - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/about-line-qa/)
 * [듀얼 QA 프로세스를 소개합니다 - LINE ENGINEERING](https://engineering.linecorp.com/ko/blog/dual-qa-process/)
+* [쏘카 QA는 무슨 일을 하고 어떻게 일하나요? - SOCAR Tech Blog](https://tech.socarcorp.kr/qa/2022/03/18/probationary-period_QA.html)
 * [TDD 해보니까 어때? (1)](https://sehun-kim.github.io/sehun/tdd-paircoding1/)
 * [Introduction to Test Driven Development (TDD)](https://hackernoon.com/introduction-to-test-driven-development-tdd-61a13bc92d92)
 * [TDD Changed My Life](https://medium.com/javascript-scene/tdd-changed-my-life-5af0ce099f80) javascript
