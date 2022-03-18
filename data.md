@@ -75,6 +75,7 @@ Government
 * [데이터란 무엇인가 – Cojette (꼬젯) – 잡덕 잉여 데이터 분석가의 이것저것](https://cojette.github.io/whatisdata/) 기술 이야기는 아니고 그냥 재미있게 읽을 거리지만 근본적인 걸 묻는다는 점에서 기록할 가치가 있음
 
 # Library
+* [데이터 분석에 필요한 오픈 공공데이터포털 20가지- FineReport 빅데이터 포털](https://www.finereport.com/kr/%EB%8D%B0%EC%9D%B4%ED%84%B0-%EB%B6%84%EC%84%9D%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-%EC%98%A4%ED%94%88-%EA%B3%B5%EA%B3%B5%EB%8D%B0%EC%9D%B4%ED%84%B0-%EC%86%8C%EC%8A%A4-%ED%8F%AC%ED%84%B8-20%EA%B0%80/)
 * [AI 허브](https://aihub.or.kr/)
   * [공공행정문서 OCR | AI 허브](https://aihub.or.kr/aidata/30724)
 * [AssemblyDataReader: Assembly Data Reader - 열린국회정보의 API를 이용해 데이터를 쉽게 받아올 수 있게 만든 오픈소스 라이브러리](https://github.com/hohyun321/AssemblyDataReader)
