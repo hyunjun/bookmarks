@@ -190,6 +190,9 @@ Programming Books
 * [**카이젠 저니: 나와 팀이 함께 자라는 애자일 여행**](https://jpub.tistory.com/959)
   * 소설같은 형식으로 매우 쉽게 읽을 수 있지만 내용이 충실
   * [성장과 개선은 내가 만들고 함께 하는 것이다](https://brunch.co.kr/@khorikim/514)
+* [**애자일 마스터**](https://jh4hj.tistory.com/entry/%EC%95%A0%EC%9E%90%EC%9D%BC-%EB%A7%88%EC%8A%A4%ED%84%B0)
+  * 탐라
+  * [애자일 마스터. 내가 생각하는 방향이 틀리지 않았음을 알게 되었다. 다만 당연히… | by Jun | Mar, 2022 | Medium](https://nymets.medium.com/%EC%95%A0%EC%9E%90%EC%9D%BC-%EB%A7%88%EC%8A%A4%ED%84%B0-71565c2b6bfc)
 * (NOT YET) [함께 자라기 - 애자일로 가는 길](http://agile.egloos.com/5914591)
   * [함께 자라기: 애자일로 가는 길](https://blog.outsider.ne.kr/1423)
   * [리뷰: 함께 자라기 - 애자일로 가는 길](https://blog.gaerae.com/2019/03/book-agile.html)
