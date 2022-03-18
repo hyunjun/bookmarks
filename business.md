@@ -216,6 +216,7 @@ Business
 * [SWOT 분석-가장 위험한 전략, 평균](https://brunch.co.kr/@rmfkdwy/8)
 * [대규모 AI 프로젝트 진행 노하우](https://brunch.co.kr/@graypool/69) 전략
 * [7 Powers: 전략의 본질](https://www.canda.blog/7-powers/)
+* [습관 나만의 통찰력을 키우는 5가지 방법](http://moneyman.kr/archives/3691)
 * [LINE이 이 세계에서 계속 지고 있는 진짜 이유](https://medium.com/@herulu/1%EB%B6%84%EC%9D%B4%EB%A9%B4-%EC%95%88%EB%8B%A4-line%EC%9D%B4-%EC%84%B8%EA%B3%84%EC%97%90%EC%84%9C-%EA%B3%84%EC%86%8D-%EC%A7%80%EB%8A%94-%EC%A7%84%EC%A7%9C-%EC%9D%B4%EC%9C%A0-1a46ae9c1f72)
 * [그로스 해킹의 기본: gamification](http://www.andrewahn.co/product/gamification/)
 * [Growth hacking · Present](https://present.do/shows/616c3fed704425458cfce0f3)
