@@ -798,6 +798,7 @@ AWS
 * [AWS Elastic Kubernetes Service (EKS) Review](https://matduggan.com/aws-eks/)
 * [초보자를 위한 EKS 맛 보기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163578)
 * [EKS Anywhere on vSphere Homelab - ddiiwoong Tech Blog](https://ddii.dev/kubernetes/eks-anywhere/)
+* [AWS EKS의 Ingress(ALB)의 Target Type에 따른 동작](https://zigispace.net/1174)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
