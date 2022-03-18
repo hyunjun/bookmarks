@@ -3863,6 +3863,7 @@ Javascript
   * [How to use React Testing Library to rewrite an Enzyme Component test](https://medium.com/flatiron-labs/refactoring-an-enzyme-component-test-to-use-react-testing-library-f5c36da6716f)
   * [Difference between Shallow, Mount and render of Enzyme](https://gist.github.com/fokusferit/e4558d384e4e9cab95d04e5f35d4f913)
   * [Testing ReactJS app with Jest and Enzyme tutorial](https://morioh.com/p/01ff78d76a45)
+  * [Jest로 Error 검증시 catch 보다는 expect](https://jojoldu.tistory.com/656)
 * [React Testing Library](https://testing-library.com/)
   * [react-testing-library](https://github.com/kentcdodds/react-testing-library)
   * [Introducing the react-testing-library](https://blog.kentcdodds.com/introducing-the-react-testing-library-e3a274307e65)
