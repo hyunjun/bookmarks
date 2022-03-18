@@ -307,6 +307,7 @@ Go
 * [Best IDEs And Tools For Golang Development](https://www.hyperlinkinfosystem.com/blog/best-ides-and-tools-for-golang-development)
 * [What comes with Go 1.18 Features Golang Generics Fuzzing | Medium](https://medium.com/@emreodabas_20110/quick-guide-go-1-18-features-e236d5b351ef)
 * [Get an Authentication system up and running with Go(Golang) in less than 30secs - DEV Community](https://dev.to/hisyntax/get-an-authentication-system-up-and-running-with-gogolang-in-less-than-30secs-46po)
+* [Use Redis as caching for the Golang API](https://morioh.com/p/3056dfb29f2f)
 
 # API
 * [Let's Talk Locks!](https://www.infoq.com/presentations/go-locks/)
