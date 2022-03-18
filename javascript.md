@@ -3045,6 +3045,7 @@ Javascript
 * [리액트를 처음부터 배워보자. — 02. React.createElement와 React.Component 그리고 ReactDOM.render의 동작 원리](https://medium.com/react-native-seoul/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-02-react-createelement%EC%99%80-react-component-%EA%B7%B8%EB%A6%AC%EA%B3%A0-reactdom-render%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%AC-41bf8c6d3764)
 * [리액트를 처음부터 배워보자. — 03. React 의 Update 스케줄링 과정](https://medium.com/react-native-seoul/react-%EB%A6%AC%EC%95%A1%ED%8A%B8%EB%A5%BC-%EC%B2%98%EC%9D%8C%EB%B6%80%ED%84%B0-%EB%B0%B0%EC%9B%8C%EB%B3%B4%EC%9E%90-03-react-%EC%9D%98-reconciliation-%EA%B3%BC%EC%A0%95-2e6fb59c0c2d)
 * [React useReducer hook](https://medium.com/trabe/react-usereducer-hook-2b1331bb768)
+* [React - useState의 경쟁자 useReducer - YouTube](https://www.youtube.com/watch?v=E7bNzWrlKTE)
 * [One Cool Trick to Simplify Reducer Functions](https://medium.com/javascript-scene/one-cool-trick-to-simplify-reducer-functions-bbbffe488bb6)
 * [Top 37 ReactJS basics useRef Hook](https://morioh.com/p/3ed2501672f9)
 * [How to detect a user’s preferred color scheme in JavaScript](https://medium.com/free-code-camp/how-to-detect-a-users-preferred-color-scheme-in-javascript-ec8ee514f1ef)
