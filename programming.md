@@ -208,6 +208,7 @@ Programming
 * [musicforprogramming.net](http://musicforprogramming.net)
 * [라이브러리, 프레임워크, 아키텍처, 플래폼이란?](http://blog.gaerae.com/2016/11/what-is-library-and-framework-and-architecture-and-platform.html)
 * [프레임워크가 무엇이고, 어떻게 사용해야할까?? (프레임워크 동작방식 예제)](https://velog.io/@couchcoding/%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%EA%B0%80-%EB%AC%B4%EC%97%87%EC%9D%BC%EA%B9%8C)
+* [Design: #noFramework. Is it as hard as you think? | by Jérôme Beau | Feb, 2022 | Medium](https://javarome.medium.com/design-noframework-bbc00a02d9b3)
 * [ehpub.co.kr](http://ehpub.co.kr/)
 * [MENA 지역 서비스 개발시 알아두면 좋은 사항들 1/2](http://www.popit.kr/mena-%EC%A7%80%EC%97%AD-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B0%9C%EB%B0%9C%EC%8B%9C-%EC%95%8C%EC%95%84%EB%91%90%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EC%82%AC%ED%95%AD%EB%93%A4-12/) localization internationalization i18n
 * [Building Airbnb’s Internationalization Platform | by Hua Zheng | Airbnb Engineering & Data Science | Oct, 2020 | Medium](https://medium.com/airbnb-engineering/building-airbnbs-internationalization-platform-45cf0104b63c)
@@ -772,6 +773,8 @@ Programming
 * [ratelimit: API Rate Limit Decorator](https://github.com/tomasbasham/ratelimit)
   * [API Rate Limit Decorator with python](https://pythonawesome.com/api-rate-limit-decorator-with-python/)
 * [redoc - OpenAPI/Swagger-generated API Reference Documentation https://redocly.github.io/redoc ](https://github.com/Redocly/redoc)
+* [roapi: Create full-fledged APIs for static datasets without writing a single line of code](https://github.com/roapi/roapi)
+  * [ROAPI - 정적 데이터에 대한 Read Only API 생성도구 | GeekNews](https://news.hada.io/topic?id=6115)
 * [SCIM: System for Cross-domain Identity Management](http://www.simplecloud.info/)
 * [Smithy — Smithy 1.0 documentation](https://awslabs.github.io/smithy/)
   * [Developer Preview: Ruby SDK code generation using Smithy | AWS Developer Tools Blog](https://aws.amazon.com/ko/blogs/developer/developer-preview-smithy-code-generated-ruby-sdk/)
@@ -1012,13 +1015,16 @@ Programming
 * [**결함 감내 시스템 (Fault-Tolerant System) 은 왜 중요한가**](https://www.facebook.com/notes/%EC%86%90%EC%A7%80%EB%AF%BC/%EC%96%B4%EB%A6%B4%EC%A0%81-%EC%9D%B4%EC%95%BC%EA%B8%B0-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EA%B2%B0%ED%95%A8-%EA%B0%90%EB%82%B4-%EC%8B%9C%EC%8A%A4%ED%85%9C-fault-tolerant-system-%EC%9D%80-%EC%99%9C-%EC%A4%91%EC%9A%94%ED%95%9C%EA%B0%80-%EA%B7%B8-%EC%9D%B4%EC%9C%A0%EC%99%80-%EB%AA%87%EA%B0%80%EC%A7%80-%ED%85%8C%ED%81%AC%EB%8B%89%EC%97%90-%EA%B4%80%ED%95%9C-%EA%B8%80/10156524746028462)
 * [**캐시 시스템에 필요한 fault tolerance 의미와 이를 제공하는 방안 | by Junhyun Park | JaM2in | Oct, 2020 | Medium**](https://medium.com/jam2in/%EC%BA%90%EC%8B%9C-%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%97%90-%ED%95%84%EC%9A%94%ED%95%9C-fault-tolerance-%EC%9D%98%EB%AF%B8%EC%99%80-%EC%9D%B4%EB%A5%BC-%EC%A0%9C%EA%B3%B5%ED%95%98%EB%8A%94-%EB%B0%A9%EC%95%88-a4e01132ac03)
 * 최신 브라우저의 내부 살펴보기
-  * [모던 웹 브라우저 들여다보기 (파트 1)  |  Web  |  Google Developers](https://developers.google.com/web/updates/2018/09/inside-browser-part1)
+  * [Inside look at modern web browser (part 1) - Chrome Developers](https://developer.chrome.com/blog/inside-browser-part1/)
     * [**1 - CPU, GPU, 메모리 그리고 다중 프로세스 아키텍처**](https://d2.naver.com/helloworld/2922312) 매우 좋은 번역 글
-  * [모던 웹 브라우저 들여다보기 (파트 2)  |  Web  |  Google Developers](https://developers.google.com/web/updates/2018/09/inside-browser-part2)
+    * [모던 웹브라우저 내부살펴보기 part1 요약. 원문: | by Dublincity | Medium](https://medium.com/@rnrjsah789/%EB%AA%A8%EB%8D%98-%EC%9B%B9%EB%B8%8C%EB%9D%BC%EC%9A%B0%EC%A0%80-%EB%82%B4%EB%B6%80%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0-part1-%EC%9A%94%EC%95%BD-709ae6cb0de9)
+  * [Inside look at modern web browser (part 2) - Chrome Developers](https://developer.chrome.com/blog/inside-browser-part2/)
     * [2 - 내비게이션 과정에서 일어나는 일](https://d2.naver.com/helloworld/9274593)
-  * [모던 웹 브라우저 들여다보기 (파트 3)  |  Web  |  Google Developers](https://developers.google.com/web/updates/2018/09/inside-browser-part3)
+  * [Inside look at modern web browser (part 3) - Chrome Developers](https://developer.chrome.com/blog/inside-browser-part3/)
     * [3 - 렌더러 프로세스의 내부 동작](https://d2.naver.com/helloworld/5237120)
-  * [4 - 컴포지터가 사용자 입력을 받았을 때](https://d2.naver.com/helloworld/6204533)
+  * [Inside look at modern web browser (part 4) - Chrome Developers](https://developer.chrome.com/blog/inside-browser-part4/)
+    * [4 - 컴포지터가 사용자 입력을 받았을 때](https://d2.naver.com/helloworld/6204533)
+  * '모던 웹 브라우저 들여다보기' 번역글이 있었는데 사라졌음
 * [QWER.GG 를 통해 배운 것들](https://seokjun.kim/what-i-learned-from-qwer-gg/)
 * [9 open source tools for building a fault-tolerant system](https://opensource.com/article/19/3/tools-fault-tolerant-system)
 * [프로그래밍의 황금율은?](http://jhrogue.blogspot.com/2019/04/b.html)
@@ -1154,6 +1160,8 @@ Programming
   * [Documenting Software Architecture in Code Repository | by Huseyin Kutluca | Software Architecture Foundations | Feb, 2022 | Medium](https://medium.com/software-architecture-foundations/documenting-software-architecture-in-code-repository-74716412b0a2)
 * [Atlas: Our journey from a Python monolith to a managed platform - Dropbox](https://dropbox.tech/infrastructure/atlas--our-journey-from-a-python-monolith-to-a-managed-platform)
 * [Backends For Frontends](https://samnewman.io/patterns/architectural/bff/)
+* [CodeSee – Understand your codebase](https://www.codesee.io/) diagram
+  * [CodeSee Helps Developers ‘Understand the Codebase’ – The New Stack](https://thenewstack.io/codesee-helps-developers-understand-the-codebase/)
 * [homelab: Small and power efficient self-hosting infrastructure. Fully automated from empty disk to operating services](https://github.com/khuedoan/homelab)
   * [HomeLab을 위한 자동화된 셀프호스팅 아키텍처 | GeekNews](https://news.hada.io/topic?id=5809)
 * [Polylith - a software architecture that applies functional thinking at the system scale](https://polylith.gitbook.io/polylith/)
@@ -1263,6 +1271,7 @@ Programming
 * [Event Driven hotel reservations with Kafka | by Thắng Đỗ | Altitude | Oct, 2021 | Medium](https://medium.com/altitudehq/event-driven-for-reservation-with-kafka-b1c5ad2927fe)
 * [이벤트 기반의 라이브 스트리밍 추천 시스템 운용하기 | Hyperconnect Tech Blog](https://hyperconnect.github.io/2022/01/24/event-driven-recsys.html)
 * [How an Event-driven Architecture changed the way I design software | by Samuel David Roncal Vidal | Medium](https://medium.com/@davrv93/how-an-event-driven-architecture-changed-the-way-i-design-software-741f397d3055)
+* [Solving Concurrency in Event-Driven Microservices | by Hugo Rocha | Mar, 2022 | ITNEXT](https://itnext.io/solving-concurrency-in-event-driven-microservices-79bbc13b597c)
 
 ## Architecture Microservice MSA
 * [**Microservice Architecture**](https://shaheensharifian.wixsite.com/blog/single-post/2017/12/18/Microservice-Architecture)
@@ -1454,6 +1463,8 @@ Programming
 * [커머스 코드 자산화 개발 일지-5 장바구니(부제. 다중 저장소 지속성 입문)](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C-%EC%9E%90%EC%82%B0%ED%99%94-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-5-%EC%9E%A5%EB%B0%94%EA%B5%AC%EB%8B%88%EB%B6%80%EC%A0%9C-%EB%8B%A4%EC%A4%91/)
 * [커머스 코드 자산화 개발일지 - 6 결제 대행 서비스를 테스트 대역으로](https://www.popit.kr/%EC%BB%A4%EB%A8%B8%EC%8A%A4-%EC%BD%94%EB%93%9C-%EC%9E%90%EC%82%B0%ED%99%94-%EA%B0%9C%EB%B0%9C%EC%9D%BC%EC%A7%80-6-%EA%B2%B0%EC%A0%9C-%EB%8C%80%ED%96%89-%EC%84%9C%EB%B9%84%EC%8A%A4%EB%A5%BC-%ED%85%8C/)
 * [The Back-end for Front-end Pattern (BFF)](https://philcalcado.com/2015/09/18/the_back_end_for_front_end_pattern_bff.html)
+* [**BFF(Backend for Frontend) 란?**](https://metleeha.tistory.com/entry/BFFBackend-for-Frontend-%EB%9E%80)
+* [카카오페이지는 BFF(Backend For Frontend)를 어떻게 적용했을까? | 카카오엔터테인먼트 FE 기술블로그](https://fe-developers.kakaoent.com/2022/220310-kakaopage-bff/)
 * [11 Reasons Why You Are Going To Fail With Microservices](https://medium.com/xebia-engineering/11-reasons-why-you-are-going-to-fail-with-microservices-29b93876268b)
 * [Why Microservices Fail - YouTube](https://www.youtube.com/watch?v=B3O-qYM-Kkw)
 * [**적당히 갖춰나간 운영 환경**](https://www.popit.kr/%EC%A0%81%EB%8B%B9%ED%9E%88-%EA%B0%96%EC%B6%B0%EB%82%98%EA%B0%84-%EC%9A%B4%EC%98%81-%ED%99%98%EA%B2%BD/) '적당히'라는 제목과 달리 굉장히 좋은 글
@@ -1845,6 +1856,7 @@ Programming
 * [Cloud Computing For Beginners - YouTube](https://www.youtube.com/watch?v=XJYXxEYgRKc)
 * [클라우드가 그리 좋다는데, 왜 지금 상황은 그렇지 못한가?](https://www.boannews.com/media/view.asp?idx=104920)
 * [Cloud Provider Performance Comparison - Perl & more | Dimitrios Kechagias blogs.perl.org](https://blogs.perl.org/users/dimitrios_kechagias/2022/03/cloud-provider-performance-comparison-gcp-aws-azure-perl.html)
+* [Troy Hunt: Building Password Purgatory with Cloudflare Pages and Workers](https://www.troyhunt.com/building-password-purgatory-with-cloudflare-pages-and-workers/)
 * [aws](aws.md)
 * [azure](azure.md)
 * [checkov: Prevent cloud misconfigurations during build-time for Terraform, Cloudformation, Kubernetes, Serverless framework and other infrastructure-as-code-languages with Checkov by Bridgecrew](https://github.com/bridgecrewio/checkov)
@@ -1915,6 +1927,7 @@ Programming
 * [나의 페어 프로그래밍 탐험기 – tech.kakao.com](https://tech.kakao.com/2021/12/01/pair-programming/)
 * [You Must Be Crazy To Do Pair Programming • Dave Farley • GOTO 2022 - YouTube](https://www.youtube.com/watch?v=t92iupKHo8M)
 * [Race between pair programming tools by Kaya Weers - YouTube](https://www.youtube.com/watch?v=LY1ViNekw_Q)
+* [Pair Programming Antipatterns](https://tuple.app/pair-programming-guide/antipatterns)
 * [제 1회 reView meetup 참석후기](http://jojoldu.tistory.com/133)
 * [(번역) 진짜배기 코드 평가자라면 하지 말아야 할 네 가지](https://emaren84.github.io/blog/archivers/four-nos-of-serious-code-reviewer-kor)
 * [1000 개의 코드 리뷰를 통해 배운 점 (What I learned from doing 1000 code reviews)](https://www.vobour.com/1000-%EA%B0%9C%EC%9D%98-%EC%BD%94%EB%93%9C-%EB%A6%AC%EB%B7%B0%EB%A5%BC-%ED%86%B5%ED%95%B4-%EB%B0%B0%EC%9A%B4-%EC%A0%90-what-i-learned-f)
@@ -1974,6 +1987,7 @@ Programming
   * [Quote by Robert C. Martin: “The only way to go fast, is to go well.”](https://www.goodreads.com/quotes/9701819-the-only-way-to-go-fast-is-to-go-well)
   * [Agile pull requests](https://blog.ploeh.dk/2021/06/21/agile-pull-requests/) 'if it hurts, do it more often' Mark Seemann
 * [공통시스템개발팀 코드 리뷰 문화 개선 이야기 | 우아한형제들 기술블로그](https://techblog.woowahan.com/7152/)
+* [13 Practices for Better Code Reviews](https://www.infoq.com/articles/practices-better-code-reviews/)
 * [코드 좀 봐주세요 코드종 - YouTube](https://www.youtube.com/playlist?list=PLuBMRNcyzsWyZU1CVvd025UFJkfRoVs93)
 * [These four “clean code” tips will dramatically improve your engineering team’s productivity](https://engineering.videoblocks.com/these-four-clean-code-tips-will-dramatically-improve-your-engineering-teams-productivity-b5bd121dd150)
 * [개발자 생산성 선언-플라이휠](https://ichi.pro/ko/gaebalja-saengsanseong-seon-eon-peullaihwil-129703808319115)
@@ -2381,6 +2395,7 @@ Programming
 * [코딩엑스 - 코딩/AI 올인원 학습 플랫폼](https://coding-x.com/class)
 * [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
 * [class-central.com](https://www.class-central.com/) find the best online courses from top universities
+  * [Class Central - 온라인 강의 검색엔진 | GeekNews](https://news.hada.io/topic?id=6153)
 * [codeschool.com](https://www.codeschool.com/)
 * [code with google - Every student deserves the chance to explore, advance, and succeed in computer science](https://edu.google.com/code-with-google)
 * [codingwithchrome.foo](http://codingwithchrome.foo/)
@@ -2502,6 +2517,7 @@ Programming
 * [Is Grammarly a Keylogger? What Can You Do About It? · Kolide](https://www.kolide.com/blog/is-grammarly-a-keylogger-what-can-you-do-about-it)
 * [Security | Fleet handbook](https://fleetdm.com/handbook/security)
 * [HTB - DevOops](https://kaizoku.dev/htb-devoops) walk through the methodology that leads to root shell
+* [How NAT traversal works · Tailscale](https://tailscale.com/blog/how-nat-traversal-works/)
 * [Amnesia — data anonymization made easy](https://amnesia.openaire.eu/) GDPR guideline
 * Checks [Compliance Intelligence | Checks](https://checks.area120.google.com/)
   * [구글, 개발자용 개인정보 보호 플랫폼 '첵스' 출시 - CIO Korea](https://www.ciokorea.com/news/226779)
@@ -2522,10 +2538,13 @@ Programming
 * [hacker-laws: 💻📖 Laws, Theories, Principles and Patterns that developers will find useful. #hackerlaws](https://github.com/dwmkerr/hacker-laws)
 * [Hacker Test: A site to test and learn about web hacking](https://www.hackertest.net/)
 * [ItsDangerous — ItsDangerous Documentation (2.0.x)](https://itsdangerous.palletsprojects.com/)
+* [masscan: TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
 * [neuvector](https://github.com/neuvector/neuvector)
   * [수세, 업계 최초로 오픈 소스 컨테이너 보안 플랫폼 출시 | SUSE Communities](https://www.suse.com/c/ko/%ec%88%98%ec%84%b8-%ec%97%85%ea%b3%84-%ec%b5%9c%ec%b4%88%eb%a1%9c-%ec%98%a4%ed%94%88-%ec%86%8c%ec%8a%a4-%ec%bb%a8%ed%85%8c%ec%9d%b4%eb%84%88-%eb%b3%b4%ec%95%88-%ed%94%8c%eb%9e%ab%ed%8f%bc-%ec%b6%9c/)
   * [수세, ‘뉴벡터 컨테이너 보안 플랫폼’ 오픈소스로 공개  - CIO Korea](https://www.ciokorea.com/news/222354)
   * [기계번역 The NeuVector Difference – 098](https://www.098.co.kr/%EA%B8%B0%EA%B3%84%EB%B2%88%EC%97%AD-the-neuvector-difference/)
+* NTS [Network Time Security · Cloudflare Time Services docs](https://developers.cloudflare.com/time-services/nts/)
+  * [CloudFlare Releases Open Source Implementation of Network Time Security Protocol](https://www.infoq.com/news/2019/11/cloudflare-open-source-nts/)
 * [ots: 🔐 Share end-to-end encrypted secrets with others via a one-time URL](https://github.com/sniptt-official/ots)
   * [ots - 1회성 URL로 e2e 암호화된 Secret 공유하기 | GeekNews](https://news.hada.io/topic?id=4799)
 * [scorecard: OSS Security Scorecards](https://github.com/ossf/scorecard)
@@ -2574,6 +2593,7 @@ Programming
 * [You can't copy code with memcpy; code is more complicated than that - The Old New Thing](https://devblogs.microsoft.com/oldnewthing/20211229-00/?p=106061)
 * ["Finding bugs without running or even looking at code" by Jay Parlar - YouTube](https://www.youtube.com/watch?v=FvNRlE4E9QQ)
   * [Alloy | MIT CSAIL](https://www.csail.mit.edu/research/alloy)
+* [Bugs in Hello World · sunfishcode's blog](https://blog.sunfishcode.online/bugs-in-hello-world/)
 * [control-flag: A system to flag anomalous source code expressions by learning typical expressions from training data](https://github.com/IntelLabs/control-flag)
   * [인텔, 기계학습 디버깅툴 ‘컨트롤플래그’ 오픈소스로 공개 - ZDNet korea](https://zdnet.co.kr/view/?no=20211025172937)
 * [EFFI](https://effi.io/) bug reporting 도구를 제공하는 SaaS 회사
@@ -2940,6 +2960,7 @@ Programming
 * [nodejs-mobile: Full-fledged Node.js on Android and iOS](https://github.com/janeasystems/nodejs-mobile)
 
 # Multimedia
+* [H.264 is magic: a technical walkthrough of a remarkable technology.](https://sidbala.com/h-264-is-magic/)
 * [HowVideo.works](https://howvideo.works/#processing)
 
 ## Multimedia Image
@@ -2947,6 +2968,7 @@ Programming
 * [Image Formats, Performance and Cognitive Load](https://www.infoq.com/presentations/image-formats-performance/)
 * [jpeg.md at master · corkami/formats](https://github.com/corkami/formats/blob/master/image/jpeg.md)
 * [The Unreasonable Effectiveness of JPEG: A Signal Processing Approach - YouTube](https://www.youtube.com/watch?v=0me3guauqOU)
+* [Unraveling The JPEG](https://parametric.press/issue-01/unraveling-the-jpeg/)
 * [Finally understanding PNG | Compress-Or-Die](https://compress-or-die.com/Understanding-PNG)
 * [Boosting image processing performance, from ImageMagick to Libvips | by Dimitri Bouron | Criteo R&D Blog | Medium](https://medium.com/criteo-engineering/boosting-image-processing-performance-from-imagemagick-to-libvips-268cc3451d55)
 * [Why Your Website Should Not Use Dithered Images - Simple Thread](https://www.simplethread.com/why-your-website-should-not-use-dithered-images/)
@@ -3697,12 +3719,19 @@ Programming
 * [The Road to Intelligent Process Automation - Gradient Flow](https://gradientflow.com/the-road-to-intelligent-process-automation/)
 * [Low-Code Platforms and the Rise of the Community Developer: Lots of Solutions, or Lots of Problems?](https://www.infoq.com/articles/low-code-community-developer/)
 * [소프트웨어 설계자가 로우코드를 도입해야 하는 이유 5가지 - ITWorld Korea](https://www.itworld.co.kr/mainnews/226744)
+* [노코드로 사업 검증하기](https://brunch.co.kr/@byungjunjang/20)
+* [칼럼ㅣRPA 1.0이 ‘원 트릭 포니’였던 이유 - CIO Korea](https://www.ciokorea.com/news/228104)
 * Bubble [The best way to build web apps without code | Bubble](https://bubble.io/)
   * [노 코드 툴, ‘버블’의 A to Z | ㅍㅍㅅㅅ](https://ppss.kr/archives/247069)
 * [Lowdefy - Build internal tools with YAML | Lowdefy - Build internal tools with YAML](https://lowdefy.com/)
   * [Lowdefy - 오픈소스 Low-Code 프레임워크 | GeekNews](https://news.hada.io/topic?id=5655)
+* [Make | Work the way you imagine](https://www.make.com/)
+  * [Make - 노코드 자동화 도구 | GeekNews](https://news.hada.io/topic?id=6101)
 * Quick Builder [Announcing Quick Builder, a new low-code tool for you to build location-based experiences | Google Cloud Blog](https://cloud.google.com/blog/products/maps-platform/announcing-quick-builder-new-low-code-tool-you-build-location-based-experiences)
+* [select: 🚀 Fast build tool for admin/backoffice by YAML declarative way](https://github.com/eces/select)
 * [Workflow86 | Operations Automation Platform](https://www.workflow86.com/)
+* [yao: Yao A low code engine to create web services and dashboard](https://github.com/YaoApp/yao)
+  * [Yao - 웹서비스와 대시보드를 쉽게 생성하는 로우코드 엔진 | GeekNews](https://news.hada.io/topic?id=6120)
 
 # RPC
 * [RPC 프레임워크 제작 삽질기](https://speakerdeck.com/minhee/rpc-peureimweokeu-jejag-sabjilgi)
@@ -3853,6 +3882,7 @@ Programming
 * [Best Practice Tips for Efficient Software Development - YouTube](https://www.youtube.com/watch?v=JtVzWKvqs-c)
 * [루비콘 프로젝트 (랠릿 오픈 프로젝트) 소감](https://jojoldu.tistory.com/640)
 * [소프트웨어는 녹이 슨다 — 洪民憙 블로그](https://blog.hongminhee.org/2014/04/13/82482810330/)
+* [How to Not Lose Your Job to Low-Code Software](https://www.infoq.com/articles/lose-job-low-code/)
 * [magmide: A dependently-typed language intended to make provably correct code possible for working software engineers](https://github.com/magmide/magmide)
   * [Software can literally be perfect - YouTube](https://www.youtube.com/watch?v=Lf7ML_ErWvQ)
     * [Software is broken](https://youtu.be/Lf7ML_ErWvQ?t=149) 얼마나 많은 손실이 있는지 예
