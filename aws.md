@@ -831,7 +831,7 @@ AWS
 * [AWS Elastic Beanstalk - 인프라 운영 부담 없는 코드 기반 배포 서비스 :: 5분 클라우드 데모 - YouTube](https://www.youtube.com/watch?v=gPEHFx_DlII)
 * [Elastic Beanstalk - YouTube](https://www.youtube.com/playlist?list=PL3_YUnRN3UhgTtj7t36WQ5EaqZe5z449z)
 
-# EMS
+# EMR
 * [Amazon EMR, Apache Spark 지원 시작](https://aws.amazon.com/ko/blogs/korea/new-apache-spark-on-amazon-emr)
 * [AWS Lambda — How to Automate Your Spark Jobs on AWS Elastic Map Reduce (EMR)](https://medium.com/@sdmandrell/aws-lambda-how-to-automate-your-spark-jobs-on-aws-elastic-map-reduce-emr-4fb71369ac48)
 * [Amazon EMR에서 spark-submit를 사용하여 사용자 애플리케이션 제출하기 | Amazon Web Services 한국 블로그](https://aws.amazon.com/ko/blogs/korea/submitting-user-applications-with-spark-submit/)
@@ -842,6 +842,7 @@ AWS
 * [AWS EMR과 Airflow를 이용한 Batch Data Processing | by Min Jo | 101-devs | Aug, 2020 | Medium](https://medium.com/class101-dev/aws-emr%EA%B3%BC-airflow%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-batch-data-processing-a100fc2f4f10)
 * [입 개발 EMR에서는 sc.addFile, Databricks에서는 그냥 dbfs 폴더를 이용하자. | Charsyam's Blog](https://charsyam.wordpress.com/2021/03/25/%ec%9e%85-%ea%b0%9c%eb%b0%9c-emr%ec%97%90%ec%84%9c%eb%8a%94-sc-addfile-databricks%ec%97%90%ec%84%9c%eb%8a%94-%ea%b7%b8%eb%83%a5-dbfs-%ed%8f%b4%eb%8d%94%eb%a5%bc-%ec%9d%b4%ec%9a%a9%ed%95%98%ec%9e%90/)
 * [Spark 쓰면서 겪은 이야기들](https://tech.youha.info/6acde37d-25c5-4005-bc6a-b69d8c248eea)
+* [Command-line Tools can be 235x Faster than your Hadoop Cluster - Adam Drake](https://adamdrake.com/command-line-tools-can-be-235x-faster-than-your-hadoop-cluster.html)
 
 # Forecast
 * [아마존닷컴처럼 Amazon Forecast로 시계열 예측하기 - 강지양 솔루션즈 아키텍트(AWS ), 강태욱 매니저(GSSHOP)](https://www.youtube.com/watch?v=4MuVRFQVx8Y)
