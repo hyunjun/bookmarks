@@ -414,6 +414,7 @@ Programming Language
   * [Nim tutorial for setting up a website.](https://ttj.dk/blog/2019/01/20/setup-a-website-with-nim)
 * mathematica
   * [Mathematica® programming: an advanced introduction](http://www.mathprogramming-intro.org/)
+* [monkey-compiler: implement a compiler for the Monkey programming language](https://github.com/jeongukjae/monkey-compiler)
 * MATLAB
   * [An Introduction to MATLAB metaprogramming](http://daniel-levin.github.io/2015/05/16/intro-to-matlab-metaprog.html)
   * [High-Performance MATLAB with GPU Acceleration](http://devblogs.nvidia.com/parallelforall/high-performance-matlab-gpu-acceleration/)
