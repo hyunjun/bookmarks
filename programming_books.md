@@ -40,8 +40,9 @@ Programming Books
 * [실용주의 프로그래머](https://jh4hj.tistory.com/entry/%EC%8B%A4%EC%9A%A9%EC%A3%BC%EC%9D%98-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8)
   * 2009.11.13~17
   * [008. 지속 가능한 소프트웨어 개발 | LinkedIn](https://www.linkedin.com/pulse/008-%EC%A7%80%EC%86%8D-%EA%B0%80%EB%8A%A5%ED%95%9C-%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4-%EA%B0%9C%EB%B0%9C-%ED%98%84%EC%9E%AC-%EC%9D%B4/)
-  * [독서광 실용주의 프로그래머 20주년 기념판](https://jhrogue.blogspot.com/2022/03/20.html)
+  * (NOT YET) [실용주의 프로그래머(20주년 기념판) _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/113)
     * 탐라
+    * [독서광 실용주의 프로그래머 20주년 기념판](https://jhrogue.blogspot.com/2022/03/20.html)
     * [실용주의 프로그래머를 지향합니다. | LinkedIn](https://www.linkedin.com/pulse/011-%25EC%258B%25A4%25EC%259A%25A9%25EC%25A3%25BC%25EC%259D%2598-%25ED%2594%2584%25EB%25A1%259C%25EA%25B7%25B8%25EB%259E%2598%25EB%25A8%25B8%25EB%25A5%25BC-%25EC%25A7%2580%25ED%2596%25A5%25ED%2595%25A9%25EB%258B%2588%25EB%258B%25A4-%25ED%2598%2584%25EC%259E%25AC-%25EC%259D%25B4/)
 * [신화와 야망 Google](https://jh4hj.tistory.com/entry/%EC%8B%A0%ED%99%94%EC%99%80-%EC%95%BC%EB%A7%9D-Google)
   * 2009.11.26~27
@@ -89,9 +90,6 @@ Programming Books
 * [처음 배우는 애저](https://jh4hj.tistory.com/entry/%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%95%A0%EC%A0%80)
   * [처음 배우는 애저. 회사를 옮겼는데, 스타트업이 보통 그렇듯 회사 시스템은 전부 AWS에서… | by Jun | Nov, 2021 | Medium](https://nymets.medium.com/%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EC%95%A0%EC%A0%80-a27207be748f)
   * ★★★★☆ 2021.11.16
-* [사용자를 유혹하는 UX의 기술](https://brunch.co.kr/@upleat/105)
-  * 2021.12.08
-  * ★★★☆☆ 잘 모르는 분야라 훝어 보는 정도로 읽었는데 군데군데 쉽게 적용할 수 있을 듯한 부분도 보여서 좋았음
 * [프로그래머의 뇌](https://jh4hj.tistory.com/entry/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%9D%98-%EB%87%8C)
   * 2022.01.14
   * ★★★★☆ 독특하게도 프로그래밍과는 대부분 무관하거나 혹은 간접적인 이야기를 하는 프로그래머에 대한 책
@@ -148,6 +146,7 @@ Programming Books
 * (NOT YET) [C#과 파이썬을 활용한 OpenCV 4 프로그래밍 - 컴퓨터 비전 기초 이론부터 머신러닝을 활용한 영상 처리 프로젝트까지](https://wikibook.co.kr/opencv4/)
 * (NOT YET) [알짜배기 예제로 배우는 OpenCV](https://bjpublic.tistory.com/359)
 * (NOT YET) [밑바닥부터 만드는 컴퓨팅 시스템](https://blog.insightbook.co.kr/2019/03/29/%EB%B0%91%EB%B0%94%EB%8B%A5%EB%B6%80%ED%84%B0-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%BB%B4%ED%93%A8%ED%8C%85-%EC%8B%9C%EC%8A%A4%ED%85%9C/)
+  * [밑바닥부터 만드는 컴퓨팅 시스템 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/67)
 * (NOT YET) [나는 LINE 개발자입니다](http://www.hanbit.co.kr/store/books/look.php?p_code=B3137155711)
 * (NOT YET) [양자 컴퓨터 프로그래밍 IBM Q Experience로 하는 양자 컴퓨터 프로그래밍](http://acornpub.co.kr/book/practical-quantum-developers)
 * (NOT YET) [양자 컴퓨팅 입문 - 간결하게 배우는 양자 컴퓨팅](http://acornpub.co.kr/book/quantum-beginner)
@@ -158,11 +157,11 @@ Programming Books
 * (NOT YET) [IT에 몸담은 이들을 위한 지적 생산 기술](http://naver.me/xwCKOrWa)
 * (NOT YET) [오픈 소스로 미래를 연마하라](https://blog.outsider.ne.kr/1474)
 * (NOT YET) [손에 잡히는 10분 정규 표현식](https://blog.insightbook.co.kr/2019/07/10/%ec%86%90%ec%97%90-%ec%9e%a1%ed%9e%88%eb%8a%94-10%eb%b6%84-%ec%a0%95%ea%b7%9c-%ed%91%9c%ed%98%84%ec%8b%9d/)
+  * [손에 잡히는 10분 정규 표현식 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/86)
 * (NOT YET) [데이터 읽기의 기술](https://jhrogue.blogspot.com/2020/02/blog-post.html)
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
 * (NOT YET) [처음 배우는 플러터, 유동환 저(2020)](https://medium.com/@larkbless/%EC%84%9C%ED%8F%89-%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%9C%A0%EB%8F%99%ED%99%98-%EC%A0%80-2020-1327c26c57cc)
 * (NOT YET) [줄리아를 생각하다 데이터 과학자를 위한 최적의 프로그래밍 언어](http://www.yes24.com/Product/Goods/89643887?scode=032&OzSrank=1)
-* (NOT YET) [(유튜브 방송) UX/UI의 10가지 심리학 법칙](https://jhrogue.blogspot.com/2020/09/uxui-10.html)
 * (NOT YET) [도서 일상 속 사물이 알려주는 웹 API 디자인 – 지락문화예술공작단](https://jirak.net/wp/%EB%8F%84%EC%84%9C-%EC%9D%BC%EC%83%81-%EC%86%8D-%EC%82%AC%EB%AC%BC%EC%9D%B4-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EC%9B%B9-api-%EB%94%94%EC%9E%90%EC%9D%B8/)
 * (NOT YET) [웹 애플리케이션 보안 : 네이버 블로그](https://blog.naver.com/ins_soul80/222288561320)
 * (NOT YET) [한 권으로 읽는 컴퓨터 구조와 프로그래밍](https://www.onlybook.co.kr/entry/secret-programs)
@@ -182,6 +181,11 @@ Programming Books
 * (NOT YET) [1일 1로그 100일 완성 IT 지식](https://jhrogue.blogspot.com/2022/02/1-1-100-it.html)
   * 우당
 * (NOT YET) [그래프QL 인 액션](https://jybaek.tistory.com/948)
+  * [서로 다른 SW가 커뮤니케이션하는 방법, 그래프QL은 언어이며 서비스다 - 한빛출판네트워크](https://www.hanbit.co.kr/channel/category/category_view.html?cms_code=CMS3770547040)
+* (NOT YET) [마인드스톰 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/76)
+* (NOT YET) [레고 마인드스톰 EV3 프로그래밍 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/110)
+* (NOT YET) [CODE 코드 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/80)
+* (NOT YET) [우리가 미처 알지 못한 소프트웨어 공학의 사실과 오해 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/52)
 
 # Agile Scrum
 
@@ -200,12 +204,20 @@ Programming Books
   * [나는 어떤 마음으로 소프트웨어를 만들어야 하는가](https://evan-moon.github.io/2019/09/05/about-software-craftsmanship/)
 * (NOT YET) [네이키드 애자일](https://imch.dev/posts/naked-agile)
 * (NOT YET) [《클린 애자일: 새로운 세대를 위한 애자일 가치와 실천》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/12/03/%e3%80%8a%ed%81%b4%eb%a6%b0-%ec%95%a0%ec%9e%90%ec%9d%bc-%ec%83%88%eb%a1%9c%ec%9a%b4-%ec%84%b8%eb%8c%80%eb%a5%bc-%ec%9c%84%ed%95%9c-%ec%95%a0%ec%9e%90%ec%9d%bc-%ea%b0%80%ec%b9%98%ec%99%80-%ec%8b%a4/)
+  * [클린 애자일 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/91)
 * (NOT YET) [떠오르는 애자일 방법론 칸반 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/11/24/%eb%96%a0%ec%98%a4%eb%a5%b4%eb%8a%94-%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%b0%a9%eb%b2%95%eb%a1%a0-%ec%b9%b8%eb%b0%98/)
 * (NOT YET) [애자일 듀오 ‘칸반과 스크럼’ – 도서출판 인사이트](https://blog.insightbook.co.kr/2013/05/08/%ec%95%a0%ec%9e%90%ec%9d%bc-%eb%93%80%ec%98%a4-%ec%b9%b8%eb%b0%98%ea%b3%bc-%ec%8a%a4%ed%81%ac%eb%9f%bc/)
-* (NOT YET) [익스트림 프로그래밍 - 도서출판 인사이트](http://ebook.insightbook.co.kr/book/48)
 * (NOT YET) [팀장님, 우리도 협업 도구 쓸까요?](https://bjpublic.tistory.com/437) 도구에 대한 책이라 agile이라고 보기는 좀 애매하지만
   * 우당
 * (NOT YET) [프로젝트에서 제품으로 | 에이콘출판사](http://www.acornpub.co.kr/book/project-product)
+* (NOT YET) [불확실성과 화해하는 프로젝트 추정과 계획 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/47)
+* (NOT YET) [익스트림 프로그래밍 - 도서출판 인사이트](http://ebook.insightbook.co.kr/book/48)
+* (NOT YET) [린 소프트웨어 개발 : 애자일 실천 도구 22가지 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/49)
+* (NOT YET) [애자일 프랙티스 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/50)
+* (NOT YET) [경험과 사례로 풀어낸 성공하는 애자일 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/51)
+* (NOT YET) [사용자 스토리 : 고객 중심의 요구사항 기법 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/53)
+* (NOT YET) [함께 자라기 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/65)
+* (NOT YET) [클린 코드(Clean Code) _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/79)
 
 # Algorithm
 
@@ -266,6 +278,7 @@ Programming Books
 * (NOT YET) [서평: 그들은 알고리즘을 알았을까? ](https://blog.gaerae.com/2018/10/once-upon-an-algorithm.html)
 * (NOT YET) [자료구조 입문 - 알고리즘과 그림으로 이해하고 C로 구현하는](https://freelec.co.kr/book/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%EC%9D%98-%EA%B8%B0%EB%B3%B8%EC%9D%84-%ED%83%84%ED%83%84%ED%9E%88-%ED%95%98%EC%9E%90/)
 * (NOT YET) [알고리즘 트레이닝: 프로그래밍 대회 입문 가이드](https://blog.insightbook.co.kr/2019/05/07/%E3%80%8A%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%ED%8A%B8%EB%A0%88%EC%9D%B4%EB%8B%9D-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-%EB%8C%80%ED%9A%8C-%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%9D%B4%EB%93%9C/)
+  * [알고리즘 트레이닝 : 프로그래밍 대회 입문 가이드 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/85)
 * (NOT YET) [퍼즐로 배우는 알고리즘 with 파이썬](https://blog.naver.com/ydot/221616317667)
 * (NOT YET) [다이내믹 프로그래밍 완전 정복](http://www.hanbit.co.kr/media/books/book_view.html?p_code=B9440449667)
 * (NOT YET) [파이썬 알고리즘 인터뷰 95가지 알고리즘 문제 풀이로 완성하는 코딩 테스트](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=245495826)
@@ -276,6 +289,7 @@ Programming Books
 * (NOT YET) [파이썬을 이용한 컴퓨터 과학 입문 - YES24](http://www.yes24.com/Product/Goods/85111306)
 * (NOT YET) [책 리뷰 실전 대비 C 알고리즘 인터뷰 – 길벗 | Charsyam's Blog](https://charsyam.wordpress.com/2021/01/10/%ec%b1%85-%eb%a6%ac%eb%b7%b0-%ec%8b%a4%ec%a0%84-%eb%8c%80%eb%b9%84-c-%ec%95%8c%ea%b3%a0%eb%a6%ac%ec%a6%98-%ec%9d%b8%ed%84%b0%eb%b7%b0-%ea%b8%b8%eb%b2%97/)
 * (NOT YET) [알라딘: 코드 없는 알고리즘과 데이터 구조](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=264048968)
+* (NOT YET) [프로그래밍 대회 공략을 위한 알고리즘과 자료 구조 입문 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/106)
 
 # Amazon AWS
 
@@ -383,6 +397,9 @@ Programming Books
 * (NOT YET) [Patterns of Enterprise Application Architecture: Fowler, Martin: 8601300201672: Amazon.com: Books](https://www.amazon.com/Patterns-Enterprise-Application-Architecture-Martin/dp/0321127420)
   * [번역할 뻔 했던 Patterns of Enterprise Application Architecture - 뒤태지존의 끄적거림](https://homoefficio.github.io/2015/10/16/%EB%B2%88%EC%97%AD%ED%95%A0-%EB%BB%94-%ED%96%88%EB%8D%98-Patterns-of-Enterprise-Application-Architecture/)
 * (NOT YET) [프로그래밍 패턴: 프로그램을 작성하는 33가지 방법 | 위키북스](https://wikibook.co.kr/programming-patterns/)
+* (NOT YET) [유연한 소프트웨어를 만드는 설계 원칙](https://hanbit.co.kr/store/books/look.php?p_code=B3855421165)
+* (NOT YET) [25개 애플리케이션으로 배우는 오픈 소스 소프트웨어 아키텍처 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/32)
+* (NOT YET) [가상 면접 사례로 배우는 대규모 시스템 설계 기초 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/100)
 
 # C
 
@@ -1051,6 +1068,7 @@ Programming Books
   * [엘라스틱서치 실무 가이드](https://www.facebook.com/%EC%97%98%EB%9D%BC%EC%8A%A4%ED%8B%B1%EC%84%9C%EC%B9%98-%EC%8B%A4%EB%AC%B4-%EA%B0%80%EC%9D%B4%EB%93%9C-343249896296014)
 * (NOT YET) [엘라스틱서치 SELK 구축과 웹 해킹 분석](http://www.yes24.com/Product/Goods/79928972)
 * (NOT YET) [기초부터 다지는 ElasticSearch 운영 노하우: 기본 개념부터 클러스터 구축, 실무 활용 시나리오까지 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/01/07/%EA%B8%B0%EC%B4%88%EB%B6%80%ED%84%B0-%EB%8B%A4%EC%A7%80%EB%8A%94-elasticsearch-%EC%9A%B4%EC%98%81-%EB%85%B8%ED%95%98%EC%9A%B0-%EA%B8%B0%EB%B3%B8-%EA%B0%9C%EB%85%90%EB%B6%80%ED%84%B0-%ED%81%B4/)
+  * [기초부터 다지는 ElasticSearch 운영 노하우 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/95)
 * (NOT YET) [나만의 데이터 분석 플랫폼 엘라스틱서치](https://bjpublic.tistory.com/397)
 * (NOT YET) [엘라스틱 스택 개발부터 운영까지](https://www.onlybook.co.kr/entry/elasticstack)
   * [엘라스틱 스택 개발부터 운영까지](https://jhrogue.blogspot.com/2021/08/blog-post_20.html)
@@ -1156,8 +1174,8 @@ Programming Books
   * [Tucker의 Go 언어 프로그래밍](https://jhrogue.blogspot.com/2021/04/tucker-go.html)
   * [생각하는 Go 언어 프로그래밍 : Go 제네릭의 이해 - 골든래빗](https://goldenrabbit.co.kr/2022/01/28/%EC%83%9D%EA%B0%81%ED%95%98%EB%8A%94-go-%EC%96%B8%EC%96%B4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-go-%EC%A0%9C%EB%84%A4%EB%A6%AD%EC%9D%98-%EC%9D%B4%ED%95%B4/)
 * (NOT YET) [Go 마스터하기 2/e | 에이콘출판사](http://www.acornpub.co.kr/book/mastering-go-2e)
-* (NOT YET) [밑바닥부터 만드는 인터프리터 in Go](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=277193668)
-* (NOT YET) [밑바닥부터 만드는 컴파일러 in Go](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=277194800)
+* (NOT YET) [밑바닥부터 만드는 인터프리터 in Go _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/101)
+* (NOT YET) [밑바닥부터 만드는 컴파일러 in Go _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/102)
 
 # Hadoop
 
@@ -1333,6 +1351,7 @@ Programming Books
 * (NOT YET) [자바 트러블슈팅](https://jpub.tistory.com/989)
 * (NOT YET) [알라딘: 자바 코딩의 기술](https://www.gilbut.co.kr/book/view?bookcode=BN002823)
 * (NOT YET) [Practical 모던 자바: 어려워진 자바, 실무에 자신 있게 적용하기 – 도서출판 인사이트](https://blog.insightbook.co.kr/2020/09/16/practical-%eb%aa%a8%eb%8d%98-%ec%9e%90%eb%b0%94-%ec%96%b4%eb%a0%a4%ec%9b%8c%ec%a7%84-%ec%9e%90%eb%b0%94-%ec%8b%a4%eb%ac%b4%ec%97%90-%ec%9e%90%ec%8b%a0-%ec%9e%88%ea%b2%8c-%ec%a0%81%ec%9a%a9%ed%95%98/)
+  * [Practical 모던 자바 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/87)
 
 # JavaScript
 
@@ -1352,6 +1371,7 @@ Programming Books
   * ['자바스크립트는 왜 그모양일까' 읽기 | rinae's devlog](https://rinae.dev/posts/how-javascript-works-summary)
 * (NOT YET) [클론 코딩으로 시작하는 Next.js](https://bjpublic.tistory.com/391)
 * (NOT YET) [《이펙티브 타입스크립트: 동작 원리의 이해와 구체적인 조언 62가지》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/06/10/%e3%80%8a%ec%9d%b4%ed%8e%99%ed%8b%b0%eb%b8%8c-%ed%83%80%ec%9e%85%ec%8a%a4%ed%81%ac%eb%a6%bd%ed%8a%b8-%eb%8f%99%ec%9e%91-%ec%9b%90%eb%a6%ac%ec%9d%98-%ec%9d%b4%ed%95%b4%ec%99%80-%ea%b5%ac%ec%b2%b4/)
+  * [이펙티브 타입스크립트 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/104)
 * (NOT YET) [스벨트로 시작하는 웹 프런트엔드](https://bjpublic.tistory.com/435)
   * [취준생을 위한 웹프론트앤드 - 도서 추천 (feat. 스벨트로 시작하는 웹 프런트엔드) - YouTube](https://www.youtube.com/watch?v=5STDzb_6kHw)
   * [‘스벨트로 시작하는 웹 프런트엔드’ 출판 후기. 내가 Svelte를 알게된 것은 2020년 어느 때인가로 기억한다. 이… | by freeseamew | hollo coding story | Feb, 2022 | Medium](https://medium.com/freeseamew/%EC%8A%A4%EB%B2%A8%ED%8A%B8%EB%A1%9C-%EC%8B%9C%EC%9E%91%ED%95%98%EB%8A%94-%EC%9B%B9-%ED%94%84%EB%9F%B0%ED%8A%B8%EC%97%94%EB%93%9C-%EC%B6%9C%ED%8C%90-%ED%9B%84%EA%B8%B0-c1ac66f9b309)
@@ -1466,6 +1486,7 @@ Programming Books
 * (NOT YET) [코틀린을 다루는 기술](https://sihan-son.github.io/Kotlin-advanced/) 함수형 패러다임이 잘 녹아들었다는 평이 있음
 * (NOT YET) [Joyce의 안드로이드 앱 프로그래밍 with 코틀린 - 골든래빗](https://goldenrabbit.co.kr/product/must-have-joyce%EC%9D%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-with-%EC%BD%94%ED%8B%80%EB%A6%B0/)
   * [프로젝트 스톱워치 안드로이드 앱 개발, 이렇게 시작하세요 - 골든래빗](https://goldenrabbit.co.kr/2022/03/14/%EC%8A%A4%ED%86%B1%EC%9B%8C%EC%B9%98-%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C-%EC%95%B1-%EA%B0%9C%EB%B0%9C-%EC%9D%B4%EB%A0%87%EA%B2%8C-%EC%8B%9C%EC%9E%91%ED%95%98%EC%84%B8%EC%9A%94/)
+* (NOT YET) [이펙티브 코틀린 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/111)
 
 # Linux
 
@@ -1572,6 +1593,7 @@ Programming Books
   * ★★★★☆ 2021.09.05
   * 프로덕트 오너에 이어 읽은 책. 프로덕트 오너에 비해 조금 더 high level의 관점으로 이해했음
   * 뭔가 구성이 나와 안 맞는지 프로덕트 오너에 비해 잘 읽히지는 않았지만(그래서 별넷) 마지막 파트 "문화"는 짧지만 가장 잊지 말아야 할 점들을 축약했다
+  * [인스파이어드(개정증보판): 감동을 전하는 IT 제품은 어떻게 만들어지는가?](https://jpub.tistory.com/885)
 * [하드씽. 비즈니스에서 ‘난제'란 크고 대담한 목표를 세우는 게 아니다. 그런… | by Jun | Sep, 2021 | Medium](https://nymets.medium.com/%ED%95%98%EB%93%9C%EC%94%BD-30791a74b521)
   * ★★★★☆ 2021.09.24
   * CEO에 대한 책이라 나와는 약간 안 맞는 부분도 있지만 전반적으로 매우 맘에 듦
@@ -1656,6 +1678,7 @@ Programming Books
   * 한라, 탐라
 * (NOT YET) 리더의 질문법 [리더의 ‘겸손한 질문’, 조직 활력 높인다 직장인을 위한 김호의 생존의 방식](https://www.donga.com/news/Opinion/article/all/20220316/112349769/1)
   * 우당
+* (NOT YET) [스타트업처럼 혁신하라 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/71)
 
 # Math
 
@@ -1804,6 +1827,7 @@ Programming Books
   * [토비의 봄 TV 스페셜 - 오브젝트와 토끼책의 저자 조영호 님](https://www.youtube.com/watch?v=8OclN9kZTE4)
   * [Study Object book Content Repository](https://github.com/LenKIM/object-book)
 * (NOT YET) [오브젝트 디자인 스타일 가이드: 팀의 생산성을 높이는 고품질 객체지향 코드 작성법 | 위키북스](https://wikibook.co.kr/odsg/)
+* (NOT YET) [헤드 퍼스트 디자인 패턴(개정판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B6113501223)
 
 # PHP
 
@@ -1868,6 +1892,7 @@ Programming Books
   * [고성능 파이썬(2판)](https://www.hanbit.co.kr/store/books/look.php?p_code=B8494674601)
     * [high-performance-python](https://github.com/UrangUrang/high-performance-python)
 * [**실전 스케일링 파이썬 프로그래밍**](https://blog.insightbook.co.kr/2018/08/22/%ED%8C%8C%EC%9D%B4%EC%8D%AC%EA%B3%BC-%ED%95%A8%EA%BB%98%ED%95%98%EB%8A%94-%ED%99%95%EC%9E%A5%EA%B3%BC-%EB%B6%84%EC%82%B0-%E3%80%8E%EC%8B%A4%EC%A0%84-%EC%8A%A4%EC%BC%80%EC%9D%BC%EB%A7%81-%ED%8C%8C/)
+  * [실전 스케일링 파이썬 프로그래밍 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/81)
   * 2018.09
   * 탐라 문005.133 단77ㅅ
   * [Build apps that scale to billions](https://scaling-python.com/)
@@ -1915,6 +1940,7 @@ Programming Books
   * [Learn-PYTHON-the-HARD-WAY 깐깐하게 배우는 파이썬 (한국어판) 3rd의 코드 연습](https://github.com/junshoong/Learn-PYTHON-the-HARD-WAY)
   * [The code to Learn Python3 The Hard Way](https://github.com/youknowone/learn-python3-thw-code-ko)
 * (NOT YET) [슬기로운 파이썬 트릭](https://blog.insightbook.co.kr/2019/01/23/%ED%8C%8C%EC%9D%B4%EC%8D%AC-%ED%91%9C%ED%98%84%EB%A0%A5%EC%9D%84-%EB%81%8C%EC%96%B4%EC%98%AC%EB%A0%A4-%EC%A3%BC%EB%8A%94%E3%80%8E%EC%8A%AC%EA%B8%B0%EB%A1%9C%EC%9A%B4-%ED%8C%8C%EC%9D%B4%EC%8D%AC/)
+  * [슬기로운 파이썬 트릭 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/72)
 * (NOT YET) [데이터 분석을 위한 파이썬 철저 입문 기초 문법부터 실무에 필요한 데이터 분석 기술까지 한 번에 배우는](http://wikibook.co.kr/python-for-data-analysis/)
 * (NOT YET) [데이터 분석을 위한 파이썬 철저 입문 (개정증보판) - 기초 문법부터 실무에 필요한 데이터 분석 기술까지 한 번에 배우는](https://wikibook.co.kr/python-for-data-analysis-rev/)
 * (NOT YET) 파이썬 클린 코드 유지보수가 쉬운 파이썬 코드를 만드는 비결
@@ -1955,6 +1981,7 @@ Programming Books
 * (NOT YET) [한입에 웹 크롤링](http://bjpublic.tistory.com/311)
   * 한라
 * (NOT YET) [완친파 웹크롤러 대마왕편(가치랩스 기술연구소 저 / 서울북)](http://statwith.com/%EC%99%84%EC%B9%9C%ED%8C%8C-%EC%9B%B9%ED%81%AC%EB%A1%A4%EB%9F%AC-%EB%8C%80%EB%A7%88%EC%99%95%ED%8E%B8%EA%B0%80%EC%B9%98%EB%9E%A9%EC%8A%A4-%EA%B8%B0%EC%88%A0%EC%97%B0%EA%B5%AC%EC%86%8C-%EC%A0%80)
+* (NOT YET) [웹 크롤링 & 데이터 분석 with 파이썬 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/112)
 
 # R
 
@@ -2151,6 +2178,14 @@ Programming Books
 
 # TDD Test
 * (NOT YET) 탐험적 테스팅 [배우고 통찰하며 개선하는 소프트웨어 테스트 – 도서출판 인사이트](https://blog.insightbook.co.kr/2014/10/13/%eb%b0%b0%ec%9a%b0%ea%b3%a0-%ed%86%b5%ec%b0%b0%ed%95%98%eb%a9%b0-%ea%b0%9c%ec%84%a0%ed%95%98%eb%8a%94-%ec%86%8c%ed%94%84%ed%8a%b8%ec%9b%a8%ec%96%b4-%ed%85%8c%ec%8a%a4%ed%8a%b8/)
+
+# UI/UX
+* [사용자를 유혹하는 UX의 기술](https://brunch.co.kr/@upleat/105)
+  * 2021.12.08
+  * ★★★☆☆ 잘 모르는 분야라 훝어 보는 정도로 읽었는데 군데군데 쉽게 적용할 수 있을 듯한 부분도 보여서 좋았음
+* (NOT YET) [(유튜브 방송) UX/UI의 10가지 심리학 법칙](https://jhrogue.blogspot.com/2020/09/uxui-10.html)
+* (NOT YET) [(사용자를) 생각하게 하지 마! _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/96)
+* (NOT YET) [인터페이스 없는 인터페이스 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/97)
 
 # Window
 * (NOT YET) 실무에서 바로쓰는 파워셸
