@@ -464,9 +464,12 @@ Business
 * [퇴사하는 MZ, 그들은 왜 떠나는가 | EBS 비즈니스 리뷰 김나이 편 - YouTube](https://www.youtube.com/watch?v=RLO4goMgqCM)
 * [글로벌 칼럼 | '대퇴직 시대' 원인도 해법도 결국 기술이다 - ITWorld Korea](https://www.itworld.co.kr/news/218149)
 * [유능한 인재가 이내 떠나는 조직··· 9가지 공통점 - CIO Korea](https://www.ciokorea.com/news/138296)
+* [A급 인재를 떠나게 하는 7가지 방법](https://brunch.co.kr/@hyungsukkim/20)
 * [Why People Really Quit Their Jobs](https://hbr.org/2018/01/why-people-really-quit-their-jobs)
   * [회사를 그만두는 3가지 진짜 이유](https://gist.github.com/hyunjun/69b4a7669f4d1697e1964d7e9679fa04#file-why_people_really_quit_their_jobs-md)
     * 일을 더 재미있게, 강점을 활용할 수 있게, 개인의 욕구 반영
+* [7 Ways People Quit Their Jobs](https://hbr.org/2016/09/7-ways-people-quit-their-jobs)
+  * [퇴사를 통보하는 7가지 방식](https://gist.github.com/hyunjun/69b4a7669f4d1697e1964d7e9679fa04#file-7_ways_people_quit_their_jobs-md)
 * [좋은 '인사'란 무엇일까...카카오 HR 리더와의 솔직한 대화 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/hrkakao20170911) 황성현님
 * [HR연구소 소포모어 징크스, 여러분 회사의 2년차 직원은 안녕하십니까](https://www.saramin.co.kr/zf_user/hr-magazine/view?hr_idx=882) 온보딩 이후에는 관계 형성이 핵심
 * [사표 품고 다니는 당신, 직장 변경보다 직무 변경을 고민하라](https://news.v.daum.net/v/20211015030053898)
@@ -516,6 +519,7 @@ Business
 * [샤로잡다 MZ세대가 쏘아올린 성과급 논란, MZ가 말하는 공정은 무엇인가? | EP9. 신재용 교수 - YouTube](https://www.youtube.com/watch?v=-aokUzG0XWY)
 * [성과목표를 잘 수립하는 첫번째 법칙](https://brunch.co.kr/@choihs0228/380)
 * [페이스북 개발자의 성과 만들기](https://blog.shiren.dev/2022-03-07/) 더 특별한 내용은 없으나, 얼마나 더 잘 실행하느냐는 차이가 많을 듯
+  * [페이스북 개발자의 성과 만들기 | GeekNews](https://news.hada.io/topic?id=6111)
   * 업무의 시작
     * 데이터를 기반으로 한 뚜렷하고 심플한 목표가 주기적으로 내려온다
     * 이 목표를 이루기 위한 아이디어는 모든 작업자가 생각해 내서 프로젝트를 자발적으로 구성
@@ -638,6 +642,8 @@ Business
 * [전략 원하는 게 있다면 먼저 줘라](http://moneyman.kr/archives/1978)
 * [최악의 직원을 180도 바꾼 방법 – 체인지그라운드](http://thechangeground.com/archives/30561) yes/no list
 * [말의 힘](https://www.thestartupbible.com/2022/03/power-of-speech.html)
+* [How To Do Less](https://alexturek.com/2022-03-07-How-to-do-less/) 거절하기
+* [5 Tips For Asking Smart Questions At Work | by Kanika Modi | Mar, 2022 | Medium](https://iamkanikamodi.medium.com/5-tips-for-asking-smart-questions-at-work-2ffc59d9a891) 좋은 질문하기
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
@@ -692,6 +698,7 @@ Business
 * [2021년 CTO 회고](https://jojoldu.tistory.com/626)
 * [C레벨 뽑으세요? C레벨 제안 받았어요? 5가지만 기억하세요. - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/clevel20211220)
 * [**Serverless로 E-Commerce 만들기 / 블랙프라이데이 트래픽 썰 / 스타트업에서 CTO는 뭘 하는 자리인가? | by Kurt Lee | Jan, 2022 | Medium**](https://medium.com/@kurtlee/serverless%EB%A1%9C-e-commerce-%EB%A7%8C%EB%93%A4%EA%B8%B0-%EB%B8%94%EB%9E%99%ED%94%84%EB%9D%BC%EC%9D%B4%EB%8D%B0%EC%9D%B4-%ED%8A%B8%EB%9E%98%ED%94%BD-%EC%8D%B0-%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85%EC%97%90%EC%84%9C-cto%EB%8A%94-%EB%AD%98-%ED%95%98%EB%8A%94-%EC%9E%90%EB%A6%AC%EC%9D%B8%EA%B0%80-a6f9d9beb930)
+* [사망한 개발팀 살리기. 눈물 없이는 볼 수 없는 한편의 대 서사시 | by pet-friends | Mar, 2022 | Medium](https://pfdev.medium.com/%EC%82%AC%EB%A7%9D%ED%95%9C-%EA%B0%9C%EB%B0%9C%ED%8C%80-%EC%82%B4%EB%A6%AC%EA%B8%B0-6f2d22a53242)
 
 # Decision making
 * [스타트업 성장통: 의사결정의 병목현상](http://www.andrewahn.co/silicon-valley/rapid-decision-making/)
@@ -763,6 +770,7 @@ Business
 * [“회사의 진정한 문화는 보상, 승진, 해고가 결정한다”-남태희](http://estimastory.com/2015/06/28/taeheanahm/)
 * [Why Don’t Tech Companies Pay Their Engineers to Stay? | by Matthew Dean | Marker](https://marker.medium.com/why-dont-tech-companies-pay-their-engineers-to-stay-b9c7e4b751e9)
 * [직원 900명을 줌으로 해고한 회사의 최후 - T Times](http://www.ttimes.co.kr/view.html?no=2021121717457753101)
+* [The Sunny Side of Firing Someone - The Mad Ned Memo](https://madned.substack.com/p/the-sunny-side-of-firing-someone)
 * [한킴 알토스벤처스 대표가 이야기하는 ‘리더십의 미래’](http://ppss.kr/archives/51689)
 * [나쁜 리더의 8가지 신호](http://ppss.kr/archives/51962)
 * [루키 마인드를 잃지 않는 리더들의 4가지 특성](http://ppss.kr/archives/48458)
@@ -909,6 +917,8 @@ Business
   5. 내일의 팀 리더에게 오늘 투자하라
 * [우리 조직 핵심인재 퇴사 막는 법 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/dontgoaway20210503)
   * [우리 조직 핵심인재 퇴사 막는 법](https://drive.google.com/file/d/1QaFrYKVqo4wS4Lr2VmT-YWON8qIzZtP9/view?usp=sharing)
+* [MZ세대, 근속하게 하는 노하우는... '워라밸과 존중' - CIO Korea](https://www.ciokorea.com/news/228554)
+* [인재를 놓치는 회사 분명 공통점이 있어요 : 네이버 블로그](https://blog.naver.com/kij8484/222675671674)
 * [53세에 도전을 시작한 맥도날드 창업자 레이 크록(Ray Kroc) 타인의 재능을 알아보고, 현장에서 답을 찾아라 - 매일경제](https://www.mk.co.kr/news/culture/view/2017/11/763493/)
 * [리더십이 배워지는 거라고?](https://brunch.co.kr/@curahee/99)
 * [CEO 명언 - 6 스타벅스 - 하워드 슐츠 : 네이버 블로그](https://blog.naver.com/help2000/222542003852)
@@ -980,6 +990,7 @@ Business
 * [마이크로 매니징이 100% 실패하는 이유 | ㅍㅍㅅㅅ](https://ppss.kr/archives/241992)
 * [리멤버 대표가 망할 것 같다고 생각한 이유 - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/remember20220118) micromanagement의 실패
 * [‘마이크로 매니징은 해법 아니다’ 개발자 관리 방안 7가지 - CIO Korea](https://www.ciokorea.com/news/225789)
+* ['실무형 리더'인 줄 알았던 내가 실은 '마이크로 매니저'? : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=27556423)
 
 # Marketing
 * [벤츠 부인에게서 배우는 마케팅의 핵심 4원칙](http://ppss.kr/archives/37343)
@@ -1077,6 +1088,8 @@ Business
 * [WISELY PRO 런칭, 1년 동안 PM으로서 배운 것들](https://blog.wiselycompany.com/wisely-pro-launching) 회사 PR이지만 프로덕트에 대한 이야기이기도 함
 * [PM의 시간 다루기: 로드맵, 타임라인, 릴리즈 플랜](https://brunch.co.kr/@ywkim36/70)
 * [프로젝트에서 프로덕트로··· IT 리더들, '제품 기반 접근법'에 주목하다 - CIO Korea](https://www.ciokorea.com/t/540/%EC%86%8C%ED%94%84%ED%8A%B8%EC%8A%A4%ED%82%AC/218429) 프로젝트 방식을 아예 배재할 건 아니지만 일반적으로 프로덕트 중심 접근 방법이 더 좋다는 주장
+* [제품주도성장(Product Led Growth)의 일곱가지 FAQ - Kimchi hill](https://kimchihill.com/2021/08/28/product-led-growth-and-its-seven-faq/)
+* [3 Types of Product Managers: Builders, Tuners, Innovators | Sachin Rekhi](https://www.sachinrekhi.com/3-types-of-product-managers-builders-tuners-innovators)
 
 # Product Owner
 * [PO가 어떻게 일하냐고요?아니 PO가 뭐냐고요? 요기요 프로덕트 오너의 출근 브이로그ㅣ출근로그 - YouTube](https://www.youtube.com/watch?v=gVE_4pRjeJ4)
@@ -1234,6 +1247,7 @@ Business
 * [로봇 기사](https://www.thestartupbible.com/2022/03/robots-will-be-better-drivers.html)
   * `사람을 위주로 서비스를 제공하는 비즈니스가 스케일이 생기면, 항상 이런 문제가 발생한다. 소프트웨어는 스케일해도 동일한 품질을 유지할 수 있지만, 사람은 그게 안 되기 때문이다.`
     * 내가 요즘 항상 이야기하고 고민하는 부분
+* 스타트업 조직문화 [와, 이러고도 회사가 굴러가요? | 원티드](https://www.wanted.co.kr/events/22_03_s05_b01)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)
