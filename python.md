@@ -3188,6 +3188,7 @@ Python
 * [10 examples of using Python in 2020 | Opensource.com](https://opensource.com/article/20/12/python)
 * [What Can I Do With Python? – Real Python](https://realpython.com/what-can-i-do-with-python/)
 * [Top Python Libraries And Frameworks - My Guide Info](https://www.myguideinfo.com/2022/02/top-python-libraries-and-frameworks.html)
+* [Must-Know Python Libraries - DZone Web Dev](https://dzone.com/articles/must-know-python-libraries) PySnooper Faker Pickle
 * [Abseil Python Common Libraries](https://github.com/abseil/abseil-py)
 * [Advanced Python Scheduler](https://apscheduler.readthedocs.io/)
   * [APScheduler - Python Advanced Python Scheduler](http://thingsthis.tistory.com/60)
@@ -3750,6 +3751,7 @@ Python
   * [From Zero to a Working Twitter Bot in Python - All You Need to do in 6 Easy Steps - Learn Python with Rune](https://www.learnpythonwithrune.org/create-a-twitter-bot-in-python-an-easy-step-through-guide/)
 * [TwoTerm - Simple side-by-side terminal program. PyQt4/PyQt5 based. Python2/Python3](https://github.com/markushx/TwoTerm)
 * [uBiome Open Source - A place for microbiome enthusiasts to share tools, tips, sequences, and more](https://github.com/ubiome-opensource)
+* [UltraDict: Shared, streaming Python dict](https://github.com/ronny-rentner/UltraDict)
 * [**Undebt is a fast, straightforward, reliable tool for performing massive, automated code refactoring used @Yelp**](https://github.com/Yelp/undebt)
   * [Undebt: How We Refactored 3 Million Lines of Code](http://engineeringblog.yelp.com/2016/08/undebt-how-we-refactored-3-million-lines-of-code.html)
 * [usbkill: « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer](https://github.com/hephaest0s/usbkill)
@@ -3908,6 +3910,8 @@ Python
   * [How to Use PYODBC With SQL Servers in Python](https://www.youtube.com/watch?v=eDXX5evRgQw)
     * pyodbc 라이브러리를 사용하여 SQL Server, Access 데이터베이스 및 Excel 통합 문서에 연결하는 것과 데이터를 데이터베이스에 삽입하는 방법
   * [Building a Regression Testing Framework for your SQL Database](https://towardsdatascience.com/how-to-regression-test-your-sql-database-c6c8d66848c5)
+* [RasgoQL: Write python locally, execute SQL in your data warehouse](https://github.com/rasgointelligence/RasgoQL)
+  * [From Numerical to Categorical. Three ways to bin numeric features | by Andrew Engel | Mar, 2022 | Towards Data Science](https://towardsdatascience.com/from-numerical-to-categorical-3252cf805ea2)
 * SQLAlchemy
   * [10 Reasons to love SQLAlchemy](http://pajhome.org.uk/blog/10_reasons_to_love_sqlalchemy.html)
   * [SQLAlchemy 1.1 - index_property](http://text.youknowone.org/post/151520654846/sqlalchemy-indexproperty)
@@ -4732,6 +4736,7 @@ Python
 * [3 ways to test your API with Python | Opensource.com](https://opensource.com/article/21/9/unit-test-python)
 * [A/B 테스트 플랫폼 MVP 개발기. 권오빈 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=THZWUHyj2rg)
 * [The Ultimate Guide to A/B Testing with Python | by Rahulraj Singh | Jan, 2022 | Towards Data Science](https://towardsdatascience.com/the-ultimate-guide-to-a-b-testing-with-python-b2c560b7ab26)
+* [Unit testing with Python. Like most developers who started using… | by Saif | Mar, 2022 | Dev Genius](https://blog.devgenius.io/unit-testing-with-python-b7f41985e542)
 * [atheris: A Coverage-Guided, Native Python Fuzzer](https://github.com/google/atheris)
 * faker, factory boy [깔끔한 파이썬 테스트 코드를 위한 Faker와 Factory Boy](https://www.44bits.io/ko/post/faker-and-factory-boy-for-clean-code-on-python-test)
 * [mutation testing](https://en.wikipedia.org/wiki/Mutation_testing)
