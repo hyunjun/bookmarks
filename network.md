@@ -230,6 +230,8 @@ Network
 * [HTTPS를 쓰면 패스워드를 평문으로 보내도 될까? | yoonho's dev notes](https://yoonhogo.github.io/blog/2020-09-08/HTTPS-plain-text-safety/)
 * [http와 https가 어떤 차이가 있는지 간단하게 실습해 봅시다](https://codingdog.tistory.com/580)
 * [1기 HTTPS 와 SSL Handshake - 윤승록 · Present](https://present.do/shows/61523a4de3562505806fdbaa)
+* [Why and How to Use HTTPS in Your Local Development Environment](https://auth0.com/blog/using-https-in-your-development-environment/)
+  * [**로컬 개발환경에서 HTTPS 이용하기 | GeekNews**](https://news.hada.io/topic?id=6144) OpenSSL, mkcert, ...
 
 ## HTTPS SSL
 * [HTTPS와 SSL 인증서 - 생활코딩](https://opentutorials.org/course/228/4894)
@@ -269,6 +271,7 @@ Network
 * Cicso packet tracer
   * [네트워크 장비 없이 공부하기 - Cisco Packet Tracer](https://www.youtube.com/watch?v=0f1viq6FjK4)
 * dig [How to use dig](https://jvns.ca/blog/2021/12/04/how-to-use-dig/)
+* [ethr: Ethr is a Comprehensive Network Measurement Tool for TCP, UDP & ICMP](https://github.com/microsoft/ethr)
 * [HSTS — N26 hardcoded in your browser](https://mag.n26.com/hsts-n26-hardcoded-in-your-browser-fb2af97ed839)
 * IPVoid [IP Address Tools, Network Tools, DNS Tools | IPVoid](https://www.ipvoid.com/)
 * [masscan: TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes](https://github.com/robertdavidgraham/masscan)
