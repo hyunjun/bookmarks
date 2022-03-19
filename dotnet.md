@@ -226,6 +226,7 @@
 * [류광의 번역 이야기 :: Visual Studio 2019에서 C++20 헤더 단위 사용하기](http://occamsrazr.net/tt/373)
 * [Visual Studio Live Share: 실시간 코드 공동 작업 도구](https://visualstudio.microsoft.com/ko/services/live-share/)
 * [EditorConfig VisualStudio 2022. Every person has their standards when… | by Bernardo Teixeira | Geek Culture | Dec, 2021 | Medium](https://medium.com/geekculture/editorconfig-visualstudio-2022-c72bf535e060)
+* [비주얼 스튜디오를 이용한 MacOS 리모트 디버깅](https://blog.naver.com/drvoss/222677062841)
 
 ## Visual Studio Python
 * [Why write Python in Visual Studio?](http://blogs.msdn.com/b/visualstudio/archive/2015/08/03/why-write-python-in-visual-studio.aspx)
