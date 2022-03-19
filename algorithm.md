@@ -280,6 +280,8 @@ Algorithm
 * [The Algorithm behind Credit Card Verification | by Christianlauer | CodeX | Feb, 2022 | Medium](https://medium.com/codex/the-algorithm-behind-credit-card-verification-195f891509c6)
 * [Algorithm_CS_Study/Stanford at master · engineerJPark/Algorithm_CS_Study](https://github.com/engineerJPark/Algorithm_CS_Study/tree/master/Stanford)
 * [아주 큰 정수의 곱셈은 어떻게 하면 좋을까요? feat. by 카라츠바 알고리즘 - YouTube](https://www.youtube.com/watch?v=7JvRFnxn3W0)
+* [GJK: Collision detection algorithm in 2D/3D](https://blog.winter.dev/2020/gjk-algorithm/)
+* [Algorithms for Modern Hardware - Algorithmica](https://en.algorithmica.org/hpc/)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
@@ -588,6 +590,9 @@ Algorithm
 * [Reversing a Linked List: Easy as 1, 2, 3](https://medium.com/outco/reversing-a-linked-list-easy-as-1-2-3-560fbffe2088)
 * [**linked-list-good-taste: Linus Torvalds' linked list argument for good taste, explained**](https://github.com/mkirchner/linked-list-good-taste) Linus Tovalds의 double pointer를 사용한 구현. special case를 없애기 위함
 
+# List
+* [How I learned to stop worrying and structure all writing as a list](https://dynomight.net/lists/)
+
 # Minimax
 * [Minimax](https://en.wikipedia.org/wiki/Minimax)
 * [Tic Tac Toe: Understanding The Minimax Algorithm](http://neverstopbuilding.com/minimax)
@@ -725,6 +730,7 @@ Algorithm
 * [Code optimization, how to optimize the code, code performance, how to increase code performance, how to make code more readable. | JavaScript In Plain English](https://medium.com/javascript-in-plain-english/optimize-your-code-and-itll-execute-up-to-55-faster-%EF%B8%8F-3f0c1929ab07) palindrome
 * [문자열 padding 처리로 가희와 파일탐색기 문제를 풀어봅시다](https://codingdog.tistory.com/554)
 * [Top 20 String Algorithm Questions from Coding Interviews](https://javarevisited.blogspot.com/2015/01/top-20-string-coding-interview-question-programming-interview.html)
+* [Longest Substring with maximum K Distinct Characters - YouTube](https://www.youtube.com/watch?v=lTBQacDJvnA)
 * [Aho Corasick](https://en.wikipedia.org/wiki/Aho%E2%80%93Corasick_algorithm)
   * [Aho-Corasick Algorithm(아호 코라식 알고리즘)](https://www.slideshare.net/ssuser81b91b/ahocorasick-algorithm)
   * [Aho-Corasick string matching algorithm](http://hwamir.tistory.com/)
