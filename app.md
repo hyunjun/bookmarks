@@ -127,8 +127,11 @@ App
     * [gist.github.com/youngrok/1c11e1afd49ec84e602497a14afae4ba](https://gist.github.com/youngrok/1c11e1afd49ec84e602497a14afae4ba)
   * [Book, again by code](https://lqez.github.io/blog/book-again-by-code.html) pycon program (종이) book 제작기
   * [오프라인으로 PDF 파일을 회전/결합/압축하려면?](https://jhrogue.blogspot.com/2020/09/pdf.html)
+  * [Show HN: PDF API – Generate, convert, and modify PDF documents | Hacker News](https://news.ycombinator.com/item?id=30709524)
   * [Beautiful PDFs from HTML](https://pdf.math.dev/)
   * [리뷰 | 무료 온라인 PDF 편집기 ‘PDF 캔디’ 44가지의 도구로 대부분의 작업 처리 - ITWorld Korea](https://www.itworld.co.kr/news/205379)
+  * [BlueAI](http://www.blueai.co.kr/pdf)
+    * [PDF 번역 프로그램 | GeekNews](https://news.hada.io/topic?id=6141)
   * [borb | Read, write, and edit PDF files with borb, a pure python library](https://borbpdf.com/)
   * [FalsiScan: Make it look like a PDF has been hand signed and scanned](https://gitlab.com/edouardklein/falsisign)
   * [mupdf - mirrored from git://git.ghostscript.com/mupdf.git http://mupdf.com ](https://github.com/ccxvii/mupdf)
@@ -206,6 +209,7 @@ App
 * [Wormhole - Simple, private file sharing](https://wormhole.app/)
 * [Youtransfer - The simple but elegant self-hosted file transfer & sharing solution](http://www.youtransfer.io/)
 * [Zotero - a free, easy-to-use tool to help you collect, organize, cite, and share research](https://www.zotero.org/)
+  * [Zotero Blog » Blog Archive » Zotero 6: Your research workflow, transformed](https://www.zotero.org/blog/zotero-6/)
 
 # 보안, Hacking
 * [최고의 보안 메일, Dmail VS ProtonMail](http://ppss.kr/archives/54467)
@@ -1106,6 +1110,8 @@ App
 * [i-funbox.com](http://www.i-funbox.com/) the File and App Management Tool
 * [IINA - The modern media player for macOS](https://iina.io/)
   * [맥 어플 추천 IINA - 최고의 동영상 플레이어](https://truesale.tistory.com/215)
+* iNet Network Scanner [The iNet Network Scanner and Toolbox for Mac](https://inetapp.de/)
+  * [아이넷 네트워크 스캐너 리뷰 | 로컬 네트워크 현황을 '한눈에' - ITWorld Korea](https://www.itworld.co.kr/news/229159)
 * itsycal [맥 어플 추천 Itsycal(이치칼) 메뉴 막대 달력](https://truesale.tistory.com/entry/%EB%A7%A5-%EC%96%B4%ED%94%8C-%EC%B6%94%EC%B2%9C-Itsycal%EC%9D%B4%EC%B9%98%EC%B9%BC-%EB%A9%94%EB%89%B4-%EB%A7%89%EB%8C%80-%EB%8B%AC%EB%A0%A5)
 * [**KeepingYouAwake - A Caffeine clone for OS X Yosemite (and Dark Mode)**](https://github.com/newmarcel/KeepingYouAwake)
 * [Keka the macOS file archiver Store more, share with privacy](https://www.keka.io) 압축
@@ -1642,6 +1648,8 @@ App
 * mdjs [Introducing mdjs](https://medium.com/better-programming/introducing-mdjs-6bedba3d7c6f)
 * [Obsidian - A second brain, for you, forever](https://obsidian.md/)
   * [쓸만한 Obsidian 웹클립퍼가 나왔네요! : 클리앙](https://www.clien.net/service/board/lecture/16394051)
+  * [옵시디안(Obsidian)과 제텔카스텐 기본 과정(완결) - YouTube](https://www.youtube.com/playlist?list=PLy4SLsxzyLUUJlu0L-_U7c1jy_bqvPMR6)
+  * [옵시디안 중급 활용팁 - YouTube](https://www.youtube.com/playlist?list=PLy4SLsxzyLUXWGeigCsuP_xOUQ5sODiVC)
 * [**prose.io**](http://prose.io) github
 * [**readme.so - Easiest Way to Create A README**](https://readme.so/)
 * Retype [Welcome to Retype | Retype - Generate publish and share documentation](https://retype.com/)
