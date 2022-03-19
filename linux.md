@@ -511,6 +511,7 @@ Linux
   * [Detecting the use of "curl | bash" server side | Application Security](https://www.idontplaydarts.com/2016/04/detecting-curl-pipe-bash-server-side/)
   * [**자주 사용하는 curl 명령어 옵션과 예제**](https://kibua20.tistory.com/148) chrome에서 curl 명령 확인
   * [“I could rewrite curl” | daniel.haxx.se](https://daniel.haxx.se/blog/2021/05/20/i-could-rewrite-curl/)
+  * [Convert curl commands to code](https://curlconverter.com/)
 * `cut`
   * [Linux Tutorials - 24 cut command Slitting a file vertically | GeeksforGeeks](https://www.youtube.com/watch?v=eHGCxEVlHd0)
   * `... | tr -s [:blank:] | cut -f<num> -d ' '` [How to specify more spaces for the delimiter using cut?](https://stackoverflow.com/questions/7142735/how-to-specify-more-spaces-for-the-delimiter-using-cut)
@@ -765,6 +766,7 @@ Linux
   * [sed를 살펴보자! sed 명령어 사용법과 예시, 패턴 스페이스와 홀드 스페이스, 유용 표현](https://jhnyang.tistory.com/287)
   * [Replace smart quotes with the Linux sed command | Opensource.com](https://opensource.com/article/21/9/sed-replace-smart-quotes)
   * [sed-bin: sed to C translator written in sed](https://github.com/lhoursquentin/sed-bin)
+  * [sed-circuit-simulator](https://fideo.info/wiki.lua/blog/sed-circuit-simulator)
   * [useful-sed: Useful sed scripts & patterns](https://github.com/adrianscheff/useful-sed)
 * [`seq`](http://www.delorie.com/gnu/docs/textutils/coreutils_156.html)
   * `seq -f '%05g' [start number] [end number]` format string %e, %g, %f
@@ -801,6 +803,7 @@ Linux
   * [Private/Public 키 쉽게 다루기 - YouTube](https://www.youtube.com/watch?v=cKfd_BmJzHE)
   * [Simple SSH Security | Disk Notifier](https://disknotifier.com/blog/simple-ssh-security/)
   * [It's Now Possible To Sign Arbitrary Data With Your SSH Keys](https://www.agwa.name/blog/post/ssh_signatures)
+  * [Introducing SSH command logging](https://blog.cloudflare.com/ssh-command-logging/)
   * [endlessh: SSH tarpit that slowly sends an endless banner](https://github.com/skeeto/endlessh)
   * [lazyssh: A jump-host SSH server that starts machines on-demand](https://github.com/stephank/lazyssh)
   * OpenSSH [How to List Unsuccessful SSH Logins on Linux](https://www.howtoforge.com/how-to-list-unsuccessful-ssh-logins)
@@ -1033,6 +1036,7 @@ Linux
 * [Modifying The Linux Kernel – New Syscalls – Coding Kaiser](https://codingkaiser.blog/2021/07/17/create-your-own-system-calls%e2%80%8a-%e2%80%8aprocess-weights/)
 * [Linux Kernel 101 for Beginner - YouTube](https://www.youtube.com/watch?v=96T6OCEqZNk)
   * [Linux Kernel 101 for Beginner](https://www.slideshare.net/InfraEngineer/linux-kernel-101-for-beginner)
+* [kerla: A new operating system kernel with Linux binary compatibility written in Rust](https://github.com/nuta/kerla)
 * [tracee: Linux Runtime Security and Forensics using eBPF](https://github.com/aquasecurity/tracee)
 
 ## Kernel Interrupt
