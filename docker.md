@@ -563,6 +563,8 @@ Docker
 * [The container throttling problem](https://danluu.com/cgroup-throttling/)
 * [가상화 입문 - 가상머신과 도커를 구분하지 못하는 사람들을 위하여](https://velog.io/@skynet/%EA%B0%80%EC%83%81%ED%99%94-%EC%9E%85%EB%AC%B8-%EA%B0%80%EC%83%81%EB%A8%B8%EC%8B%A0%EA%B3%BC-%EB%8F%84%EC%BB%A4%EB%A5%BC-%EA%B5%AC%EB%B6%84%ED%95%98%EC%A7%80-%EB%AA%BB%ED%95%98%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4%EC%9D%84-%EC%9C%84%ED%95%98%EC%97%AC)
 * [My Favorite Free Courses to Learn Maven, Jenkins, and Docker in 2022 | by javinpaul | Javarevisited | Medium](https://medium.com/javarevisited/top-10-free-courses-to-learn-maven-jenkins-and-docker-for-java-developers-51fa7a1e66f6)
+* [Linux containers in 500 lines of code](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+  * [500라인으로 만드는 리눅스 컨테이너 (2016) | GeekNews](https://news.hada.io/topic?id=6122)
 
 # Book
 * [더북(TheBook): 오픈스택을 다루는 기술](https://thebook.io/006881/)
@@ -773,6 +775,7 @@ Docker
 * [Just say no to `:latest` - Platformers](https://platformers.dev/log/2022-03-02-latest-literally-kills-puppies/)
   * Dockerfile에서 latest 태그를 지정하면 지속적 배포의 중요한 요구사항인 재현 가능하고 멱등한 빌드를 깨뜨려서 프로덕션에서 문제 발생 가능
   * Python, npm, Terraform 등 다른 생태계에서도 버전을 지정할 것을 권장하고 lock 파일도 꼭 커밋해서 관리할 것을 권장
+  * [:latest 를 사용하지 마세요 | GeekNews](https://news.hada.io/topic?id=6097)
 
 # gvisor
 * [gvisor](https://github.com/google/gvisor) Container Runtime Sandbox
@@ -1053,6 +1056,7 @@ Docker
 * [다시 정리하는 쿠버네티스 : 컴포넌트 개념 #1](https://jybaek.tistory.com/860)
 * [A visual guide on troubleshooting Kubernetes deployments](https://learnk8s.io/troubleshooting-deployments)
 * [Deployment Strategies In Kubernetes](https://auth0.com/blog/deployment-strategies-in-kubernetes/)
+* [A visual map of a Kubernetes deployment | Opensource.com](https://opensource.com/article/22/3/visual-map-kubernetes-deployment)
 * [쿠버네티스로 P2P 게임 테스트하기](https://snack.planetarium.dev/kor/2020/02/k8s-1/)
 * [Operating Akka Clusters using KUDO](https://d2iq.com/blog/operating-akka-clusters-using-kudo)
 * [Architecting Kubernetes clusters — how many should you have?](https://learnk8s.io/how-many-clusters)
@@ -1246,6 +1250,7 @@ Docker
 * [Best Practices for Running Stateful Applications on Kubernetes](https://www.infoq.com/articles/kubernetes-stateful-applications/)
 * [Kubernetes Video Highlights from HashiTalks 2022](https://www.hashicorp.com/blog/kubernetes-video-highlights-from-hashitalks-2022)
 * [5 Key Elements for a Great Developer Experience with Kubernetes](https://loft.sh/blog/5-key-elements-for-a-great-developer-experience-with-kubernetes)
+* [The future of Kubernetes – and why developers should look beyond Kubernetes in 2022](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1621,6 +1626,8 @@ Docker
   * [Run a Linux virtual machine in Podman | Opensource.com](https://opensource.com/article/21/7/linux-podman)
   * [Podman vs Docker: What are the differences?](https://www.imaginarycloud.com/blog/podman-vs-docker/)
   * [Run containers on Linux without sudo in Podman | Opensource.com](https://opensource.com/article/22/1/run-containers-without-sudo-podman)
+  * [How Podman can transfer container images without a registry | Enable Sysadmin](https://www.redhat.com/sysadmin/podman-transfer-container-images-without-registry)
+    * [Podman, Registry 없이 컨테이너 이미지 전송 가능 | GeekNews](https://news.hada.io/topic?id=6175)
 * Portainer [Container Management | Kubernetes GUI | Docker Swarm GUI | Portainer](https://www.portainer.io/)
   * [Deploy Portainer for Easier Container Management – The New Stack](https://thenewstack.io/deploy-portainer-for-easier-container-management/)
 * [Proxmox 설치 및 환경 설정](https://velog.io/@hong-brother/Proxmox)
