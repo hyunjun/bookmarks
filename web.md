@@ -172,6 +172,7 @@ Web
   * role로 컴포넌트나 요소 역할 정의
   * aria-required, aria-label같은 프로퍼티를 컴포넌트의 특징을 정의
 * [김맥스 기술 블로그 | 웹 접근성 준수가 가져오는 프론트엔드 개발의 이점](https://maxkim-j.github.io/posts/web-accessiblity-virtuous-cycle)
+* [‘액세서빌리티 인사이트’로 누구나 접근할 수 있는 코드 만들기 - ITWorld Korea](https://www.itworld.co.kr/news/229234) accessibility
 * [**Six steps to building your website from scratch**](https://medium.com/@khollobaugh/https-medium-com-khollobaugh-six-steps-to-building-your-website-from-scratch-a713288cc6d)
 * [페이스북과 쿠키의 상관관계? Cookie 기초개념 잡아드림](https://www.youtube.com/watch?v=1emZgLiGE4s)
 * [Cookie Recipes](https://so-so.dev/web/cookie-recipes/)
@@ -233,6 +234,7 @@ Web
   * prerender
     * 크로미움에서 기존 구현체가 메모리를 너무 많이 사용해서 no-state prefetch로 다시 구현
     * Quicklink, Guess.js 등의 서드파티 라이브러리 존재
+* [웹 페이지 로딩 과정 이해하기](https://blog.imqa.io/webpage_loading_process/)
 * [추론적인 프리렌더링으로 빠르게 페이지 로드하기 | TOAST UI :: Make Your Web Delicious!](https://ui.toast.com/weekly-pick/ko_20211006) prefetch prerender
 * [**브라우저의 사용자 에이전트는 왜 이렇게 복잡하게 생겼을까? - 재그지그의 개발 블로그**](https://wormwlrm.github.io/2021/10/11/Why-User-Agent-string-is-so-complex.html)
 * [브라우저의 사용자 에이전트는 왜 이렇게 복잡하게 생겼을까? | 요즘IT](https://yozm.wishket.com/magazine/detail/1307/)
@@ -253,6 +255,7 @@ Web
   * 현재 파비콘에서 미디어쿼리는 파이어폭스와 크로미움 기반 브라우저만 지원
 * [Interop 2022: browsers working together to improve the web for developers](https://web.dev/interop-2022/)
   * [Interop 2022: 브라우저가 함께 작동하여 개발자를 위한 웹 개선 | GeekNews](https://news.hada.io/topic?id=6080)
+* [Making the world’s fastest website, and other mistakes - DEV Community](https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na)
 
 # Apache
 * installation
@@ -634,6 +637,7 @@ Web
 * [Big list of http static server one-liners](https://gist.github.com/willurd/5720255#file-web-servers-md)
 * [Top 10 Backend Frameworks Software Developers Can Learn in 2022 - Best of Lot](https://javarevisited.blogspot.com/2021/05/top-10-backend-frameworks-fullstack.html)
 * [5 Open Source Projects Which Can Redefine Web Development in 2022 | by Vihar Kurama | Jan, 2022 | Better Programming](https://betterprogramming.pub/5-open-source-projects-which-can-redefine-web-development-in-2022-567e7e2a6d12)
+* [100-days-of-code-frontend: Curriculum for learning front-end development during #100DaysOfCode](https://github.com/nas5w/100-days-of-code-frontend)
 * [AdminLTE 다기능의 Bootstrap기반 관리 화면 템플릿](http://neojjang.tistory.com/entry/%EB%8B%A4%EA%B8%B0%EB%8A%A5%EC%9D%98-Bootstrap%EA%B8%B0%EB%B0%98-%EA%B4%80%EB%A6%AC-%ED%99%94%EB%A9%B4-%ED%85%9C%ED%94%8C%EB%A6%BF-AdminLTE)
 * [BakerStreet - Simple client side load balancer for microservices](http://bakerstreet.io/)
 * [Best-websites-a-programmer-should-visit: Some useful websites for programmers](https://github.com/sdmg15/Best-websites-a-programmer-should-visit)
@@ -938,6 +942,8 @@ Web
   * [shopping-mall](https://github.com/jybaek/shopping-mall) basic 예제 + uvicorn
 * [fastwsgi: An ultra fast WSGI server for Python 3](https://github.com/jamesroberts/fastwsgi)
   * [FastWSGI : 네이버 블로그](https://blog.naver.com/vwjdalsgkv/222599564643)
+* [HTTPX](https://www.python-httpx.org/)
+  * [How to use httpx, a web client for Python | Opensource.com](https://opensource.com/article/22/3/python-httpx)
 * [Japronto! - screaming-fast, scalable, asynchronous Python 3.5+ web micro-framework integrated with pipelining HTTP server based on uvloop and picohttpparser](https://github.com/squeaky-pl/japronto)
 * [Lektor - Lektor is a static website generator. It builds out an entire project from static files into many individual HTML pages and has a built-in admin UI and minimal desktop app](https://github.com/lektor/lektor)
 * mod_wsgi
@@ -949,6 +955,7 @@ Web
   * [HTTP traffic mocking and testing made simple in Python](https://pythonawesome.com/http-traffic-mocking-and-testing-made-simple-in-python/)
 * [pyhttptest: HTTP tests over RESTful APIs](https://github.com/slaily/pyhttptest)
 * [Pyramid, a Python Web Framework](https://trypyramid.com/)
+* [PythonFrameworkGuide: 이 레포지토리는 파이썬 웹 프레임워크들을 정리한 것으로 각각의 프레임워크에 맞는 가이드, 도큐 등등을 소개합니다](https://github.com/KaniKim/PythonFrameworkGuide)
 * [PyWebIO](https://pywebio.readthedocs.io/)
   * [How to build your first simple web application in Python with PyWebIO - YouTube](https://www.youtube.com/watch?v=n6I58WJiKGU)
     * [pywebio-bmi](https://github.com/dataprofessor/pywebio-bmi)
@@ -1074,6 +1081,8 @@ Web
 * [Horatiu Dan - Respectful REST APIs – ‘Sunset’ and ‘Deprecation’ HTTP Headers - YouTube](https://www.youtube.com/watch?v=wnFtt0oNTLU)
 * [Don’t Use CRUD Styled APIs, Consider Intent-Based Rest APIs | by Dominic C | Jan, 2022 | Better Programming](https://betterprogramming.pub/intent-based-rest-apis-or-an-alternative-to-crud-based-rest-apis-1815599db60a)
 * [REST API Design - Resource Modeling | Thoughtworks](https://www.thoughtworks.com/insights/blog/rest-api-design-resource-modeling)
+* [How to design better APIs](https://r.bluethl.net/how-to-design-better-apis)
+  * [더 나은 REST API를 설계하는 법 | GeekNews](https://news.hada.io/topic?id=6121)
 
 ## Restful Python
 * [hug - the fastest and most modern way to create APIs on Python3](https://www.hug.rest)
