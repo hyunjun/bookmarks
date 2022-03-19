@@ -805,6 +805,7 @@ Java
   * [Benchmarks Java 8 vs 17](https://horstmann.com/unblog/2022-01-06/index.html)
 * [Six Features From Java 12 to 17 to Get Excited About!](https://www.infoq.com/articles/six-features-jdk12-to-jdk17/)
 * [Johan Janssen - How and Why to Upgrade to Java 17 - YouTube](https://www.youtube.com/watch?v=N9ATMhH2bL0)
+* [What's new with Java 17 and containers? | Opensource.com](https://opensource.com/article/22/3/java-17-quarkus)
 
 # Java18
 * [레코드 및 배열 패턴 外··· 구체화되는 ‘자바 18’ 미리보기 - CIO Korea](https://www.ciokorea.com/news/205454)
@@ -862,6 +863,7 @@ Java
 * [Panama: Interconnecting JVM and native code](http://openjdk.java.net/projects/panama/)
 * [TornadoVM: 🌪️ TornadoVM: A practical and efficient heterogeneous programming framework for managed languages](https://github.com/beehive-lab/TornadoVM)
   * [TornadoVM: Java for GPUs and FPGAs - YouTube](https://www.youtube.com/watch?v=Q-_eB86hPPA)
+  * [Level up Your Java Performance with TornadoVM](https://www.infoq.com/articles/java-performance-tornadovm/)
 * [Zulu - Download Zulu:® tested, certified builds of OpenJDK](https://www.azul.com/downloads/zulu/)
 
 ## JDK Oracle
@@ -943,6 +945,7 @@ Java
   * [**Java의 동시성 개선을 위한 Project Loom은 reactive streams를 대체할 것인가?**](https://gunsdevlog.blogspot.com/2020/09/java-project-loom-reactive-streams.html) 정말 좋은 글. async 이해 전반에 특히 좋음
   * [Scale By The Bay 2020: Adam Warski, Project Loom? Better Futures? What’s next for JVM concurrent... - YouTube](https://www.youtube.com/watch?v=q3qJH2QuqUA)
   * [Going inside Java’s Project Loom and virtual threads](https://blogs.oracle.com/javamagazine/going-inside-javas-project-loom-and-virtual-threads)
+  * ['프로젝트 룸' 최신 자바 동시성 모델 따라잡기 - CIO Korea](https://www.ciokorea.com/news/228714)
 
 ## JVM GC Garbage Collection
 * [Garbage Collection의 기초](http://itmining.tistory.com/24)
@@ -1122,6 +1125,7 @@ Java
   * [Gradle Dependency Configuration](https://effectivesquid.tistory.com/entry/Gradle-Dependency-Configuration)
   * [Gradle Wrapper | 개발자 황준일](https://junilhwang.github.io/TIL/Gradle/GradleWrapper/)
   * [Sorting and Reporting Your Dependencies with Gradle - Speaker Deck](https://speakerdeck.com/sp4ghetticode/sorting-and-reporting-your-dependencies-with-gradle)
+  * [Gradle 7.4 Introduces Aggregated Test Reports](https://www.infoq.com/news/2022/03/gradle-7-4/)
 * [gs-collections - A supplement or replacement for the Java Collections Framework](https://github.com/goldmansachs/gs-collections)
 * [Helidon Project](https://helidon.io/) GraalVM native image support
   * [Build REST APIs and Native Java Apps with Helidon | Okta Developer](https://developer.okta.com/blog/2022/01/06/native-java-helidon)
