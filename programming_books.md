@@ -162,7 +162,7 @@ Programming Books
 * (NOT YET) [출판사가 OK하는 책쓰기](http://jhrogue.blogspot.com/2020/02/ok.html)
 * (NOT YET) [처음 배우는 플러터, 유동환 저(2020)](https://medium.com/@larkbless/%EC%84%9C%ED%8F%89-%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%94%8C%EB%9F%AC%ED%84%B0-%EC%9C%A0%EB%8F%99%ED%99%98-%EC%A0%80-2020-1327c26c57cc)
 * (NOT YET) [줄리아를 생각하다 데이터 과학자를 위한 최적의 프로그래밍 언어](http://www.yes24.com/Product/Goods/89643887?scode=032&OzSrank=1)
-* (NOT YET) [도서 일상 속 사물이 알려주는 웹 API 디자인 – 지락문화예술공작단](https://jirak.net/wp/%EB%8F%84%EC%84%9C-%EC%9D%BC%EC%83%81-%EC%86%8D-%EC%82%AC%EB%AC%BC%EC%9D%B4-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EC%9B%B9-api-%EB%94%94%EC%9E%90%EC%9D%B8/)
+* (NOT YET) [일상 속 사물이 알려주는 웹 API 디자인](https://yongho1037.tistory.com/818) API 설계
 * (NOT YET) [웹 애플리케이션 보안 : 네이버 블로그](https://blog.naver.com/ins_soul80/222288561320)
 * (NOT YET) [한 권으로 읽는 컴퓨터 구조와 프로그래밍](https://www.onlybook.co.kr/entry/secret-programs)
   * [한 권으로 읽는 컴퓨터 구조와 프로그래밍 - YouTube](https://www.youtube.com/watch?v=H89867LMv-4)
@@ -389,8 +389,10 @@ Programming Books
 * (NOT YET) [엔터프라이즈 환경을 위한 마이크로서비스 | 에이콘출판사](http://www.acornpub.co.kr/book/microservices-enterprise)
 * (NOT YET) [파이썬으로 살펴보는 아키텍처 패턴](https://www.hanbit.co.kr/store/books/look.php?p_code=B9529701010) TDD DDD EDM
 * (NOT YET) [《가상 면접 사례로 배우는 대규모 시스템 설계 기초》 – 도서출판 인사이트](https://blog.insightbook.co.kr/2021/07/22/%E3%80%8A%EA%B0%80%EC%83%81-%EB%A9%B4%EC%A0%91-%EC%82%AC%EB%A1%80%EB%A1%9C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%EB%8C%80%EA%B7%9C%EB%AA%A8-%EC%8B%9C%EC%8A%A4%ED%85%9C-%EC%84%A4%EA%B3%84-%EA%B8%B0%EC%B4%88/)
+  * [가상 면접 사례로 배우는 대규모 시스템 설계 기초 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/100)
   * [독서광 대규모 시스템 설계 기초 - YouTube](https://www.youtube.com/watch?v=KRIY7Y_8AKY)
   * [독서광 가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://jhrogue.blogspot.com/2021/08/blog-post.html)
+  * [국제은행간통신협회(SWIFT) 결제망 아키텍처 | GeekNews](https://news.hada.io/topic?id=6090)
 * (NOT YET) [만들면서 배우는 클린 아키텍처 | 위키북스](https://wikibook.co.kr/clean-architecture/) hexagonal architecture
   * [독서광 만들면서 배우는 클린 아키텍처 (이벤트 있음)](https://jhrogue.blogspot.com/2021/12/blog-post.html)
   * [clean-architecture: 《만들면서 배우는 클린 아키텍처》 예제 코드](https://github.com/wikibook/clean-architecture)
@@ -399,7 +401,6 @@ Programming Books
 * (NOT YET) [프로그래밍 패턴: 프로그램을 작성하는 33가지 방법 | 위키북스](https://wikibook.co.kr/programming-patterns/)
 * (NOT YET) [유연한 소프트웨어를 만드는 설계 원칙](https://hanbit.co.kr/store/books/look.php?p_code=B3855421165)
 * (NOT YET) [25개 애플리케이션으로 배우는 오픈 소스 소프트웨어 아키텍처 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/32)
-* (NOT YET) [가상 면접 사례로 배우는 대규모 시스템 설계 기초 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/100)
 
 # C
 
