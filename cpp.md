@@ -203,6 +203,7 @@ C++
 * [Infinite monkey - Nico Brailovsky's blog: C++ exceptions under the hood](https://monkeywritescode.blogspot.com/p/c-exceptions-under-hood.html)
 * [P2544R0: C++ exceptions are becoming more and more problematic](http://www.open-std.org/jtc1/sc22/wg21/docs/papers/2022/p2544r0.html)
 * [Failing Successfully: Reporting and Handling Errors - YouTube](https://www.youtube.com/watch?v=cDPXS_c0L2s)
+* [C++ Cheat Sheets & Infographics | hacking C++](https://hackingcpp.com/cpp/cheat_sheets.html)
 * auto_ptr
   * [auto_ptr - 조심히 사용해야 하는 스마트 포인터](http://ohyecloudy.com/pnotes/archives/286/)
 * const
