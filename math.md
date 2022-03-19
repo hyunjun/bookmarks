@@ -102,6 +102,7 @@ Math
 * [“브라우저에서 바로 수학 계산” MS, 엣지에 ‘매스 솔버’ 추가 예정 - ITWorld Korea](https://www.itworld.co.kr/news/194744)
 * [수학을 일상으로](https://brunch.co.kr/@graypool/113)
 * [Curves and Surfaces – Bartosz Ciechanowski](https://ciechanow.ski/curves-and-surfaces/)
+* [이산수학 at main · simnalamburt/snucse](https://github.com/simnalamburt/snucse/tree/main/%EC%9D%B4%EC%82%B0%EC%88%98%ED%95%99)
 
 # Bezier
 * [Improving UIBezierPath Performance and API](http://blog.getlooseleaf.com/post/110511009139/improving-uibezierpath-performance-and-api)
