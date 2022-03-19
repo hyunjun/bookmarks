@@ -164,6 +164,7 @@ Json
   * [Parsing JSON at the CLI: A Practical Introduction to `jq` (and more!) | Sequoia McDowell](https://sequoia.makes.software/parsing-json-at-the-cli-a-practical-introduction-to-jq-and-more/)
   * [linux - Using jq to fetch key value from json output - Stack Overflow](https://stackoverflow.com/questions/39798542/using-jq-to-fetch-key-value-from-json-output)
   * [Extracting objects recursively with jq | Simon Willison’s TILs](https://til.simonwillison.net/jq/extracting-objects-recursively)
+* [JQL — Rust based JSON Query Language | by Robby Boney | Short Bits | Medium](https://medium.com/short-bits/jql-rust-based-json-query-language-ed1d7c6a1ae0)
 * [jsawk - Like awk, but for JSON http://thinkminimo.com](https://github.com/micha/jsawk)
 * Json2CSharp [Convert JSON to C# Classes Online - Json2CSharp Toolkit](https://json2csharp.com/)
 * [JSON 2 HTML](https://json.bloople.net/)
