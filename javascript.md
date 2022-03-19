@@ -2001,6 +2001,7 @@ Javascript
     * WebGL과 비슷하게 느껴질 수 있지만 WebGL은 주로 그리기와 관련, WebGPU를 사용하면 더 고급 기능을 사용 가능
     * Chrome 94부터, 플래그를 활성화하고 오리진 트라이얼 단계이므로 토큰을 받아서 설정하면 사용 가능
     * 이 오리진 트라이얼은 Chrome 97에서 종료 예정
+  * [WebGPU — All of the cores, none of the canvas — surma.dev](https://surma.dev/things/webgpu/)
 * [webm.js](https://kagami.github.io/webm.js/)
 * [WEIGHTOF.IT - Compare JavaScript libraries by weight](http://weightof.it/)
 * [Wekan is an open-source and collaborative kanban board application](https://github.com/wekan/wekan)
