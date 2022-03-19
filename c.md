@@ -261,6 +261,7 @@ C
 * [bic: A C interpreter and API explorer](https://github.com/hexagonal-sun/bic)
 * [bonsai-c - C to asm.js compilation for humans](https://github.com/gasman/bonsai-c)
 * [Branchless code sequences](http://www.davespace.co.uk/blog/20150131-branchless-sequences.html)
+* [buffet: All-inclusive Buffer Type for C](https://github.com/alcover/buffet)
 * [c2go - A tool for converting C to Go](https://github.com/elliotchance/c2go)
 * [**Cello - a library that brings higher level programming to C**](http://libcello.org/)
   * [Cello - a Fat Pointer Library](http://libcello.org/learn/a-fat-pointer-library)
@@ -282,6 +283,7 @@ C
   $ ./cint test.c
   Hello World
   ```
+* [clib: C package manager-ish](https://github.com/clibs/clib)
 * [CMake](https://cmake.org/)
   * [cmake.org/cmake-tutorial](https://cmake.org/cmake-tutorial/)
   * [cmake is not great, but it doesn’t matter](http://szelei.me/cmake-is-not-great/)
@@ -405,6 +407,7 @@ C
   * [github.com/johnkerl/miller](https://github.com/johnkerl/miller())
 * [minias: A mini x86-64 assembler for fun](https://github.com/andrewchambers/minias)
 * [mini_printf - minimal, self-contained and tested printf()](https://github.com/wkoszek/mini_printf)
+* [mitnal: Twitter client for UEFI](https://github.com/arata-nvm/mitnal)
 * [mpc is a lightweight and powerful Parser Combinator library for C](https://github.com/orangeduck/mpc)
 * mpfr [Extended floating point precision in R and C](https://www.johndcook.com/blog/2020/03/18/gnu-mpfrr-wrapper/)
 * [Music from very short programs - the 3rd iteration](https://www.youtube.com/watch?v=tCRPUv8V22o)
