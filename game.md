@@ -92,6 +92,7 @@ Game
 * [Kaboom: an unusual Minesweeper](https://pwmarcz.pl/blog/kaboom/)
 * [LDtk by Deepnight Games](https://deepnight.itch.io/ldtk)
 * [LEd – 2D map editor](https://deepnight.net/tools/led-2d-level-editor/)
+* [micropolisJS - 오리지널 심시티 클론 | GeekNews](https://news.hada.io/topic?id=6105)
 * PICO-8 [‘판타지 비디오 게임 콘솔’ 게임 엔진! PICO-8 소개 : 네이버 포스트](https://post.naver.com/viewer/postView.nhn?volumeNo=18640668&memberNo=40601392)
 * [Pixelbox.js - A downloadable Game Engine for Windows and macOS](https://pixwlk.itch.io/pixelbox)
 * [PlayCanvas WebGL Game Engine](https://playcanvas.com/)
@@ -106,6 +107,7 @@ Game
 * [ScummVM :: Home](https://www.scummvm.org/news/20211009/)
   * [ScummVM 20주년 | GeekNews](https://news.hada.io/topic?id=5177)
 * [si78c: si78c is a memory accurate reimplementation of Space Invaders in C](https://github.com/loadzero/si78c)
+* [Turing Complete](https://turingcomplete.game/)
 * [TwilioQuest - Discover your power to change the world with code](https://www.twilio.com/quest)
 * Unity
   * [수식없이 게임 수학 이해하기](https://www.slideshare.net/MrDustinLee/ss-147084075)
