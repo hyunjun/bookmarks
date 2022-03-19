@@ -973,7 +973,8 @@ App
 * ['기본 앱에서 정답 찾기' 아이폰∙아이패드∙맥의 메모 앱 활용 팁 8가지 - ITWorld Korea](https://www.itworld.co.kr/news/219309)
 
 ## Mac App
-* [**practice - 최초 설치 후 install**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)
+* [**practice - 최초 설치 후 install(M1)**](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install_m1-md)
+  * [practice - 최초 설치 후 install](https://gist.github.com/hyunjun/cf75a8a9367b272c5707#file-install-md)
   * [practice - (old) Configuration after clean installation](https://gist.github.com/hyunjun/babe24559ea6c8d1b52fb12eac08eaab)
   * [맥북 클린 재설치하기 위한 사전 작업들 (기록용)](https://garyj.tistory.com/23)
   * [**간단한 macOS 개발 환경 공유 | Dable Tech Blog**](https://teamdable.github.io/techblog/Simple-macOS-Dev-Env)
