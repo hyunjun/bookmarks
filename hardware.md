@@ -44,6 +44,7 @@ Hardware
 * [27인치 디지털 액자 만들기(DIY) -제작편-](https://papit.blog.me/221751081863)
 * [27인치 디지털 액자 만들기(DIY) -활용편-](https://papit.blog.me/221769974274)
 * [파이썬 + 레고 마인드 스톰 EV3로 초간단 스캐너를 제작](https://www.youtube.com/watch?v=jmu-UbjuS8k)
+* [IBM open sources $300\* fully-functional LEGO®microscope design | by Inside IBM Research | Medium](https://ibm-research.medium.com/ibm-open-sources-300-fully-functional-lego-microscope-design-248a6cdc81bf)
 * [Petertc Chu - Speak Python with Devices - YouTube](https://www.youtube.com/watch?v=BpgtN8GK1M8)
 * [1_Workshops/Embedded_system 카테고리의 글 목록](https://gcamp.tistory.com/category/1_Workshops/Embedded_system)
 * [**임베디드 레시피**](http://recipes.egloos.com/5207842)
