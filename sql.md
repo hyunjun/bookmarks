@@ -207,6 +207,7 @@ SQL
 * [Different Ways to Check and Delete Duplicate Records in SQL - Tech Point Fundamentals](https://www.techpointfunda.com/2021/11/deleting-duplicate-records-in-sql.html)
 * [How to choose the right database for your project | by Anthony Papoutsis | Mar, 2022 | Medium](https://apapoutsis.medium.com/how-to-choose-the-right-database-for-your-project-ffd4bf054833)
 * [How to choose the right database for your service | by Natan Silnitsky | Wix Engineering | Medium](https://medium.com/wix-engineering/how-to-choose-the-right-database-for-your-service-97b1670c5632)
+* [“데이터 계층을 위한 탄력적 컴퓨팅” 서버리스 데이터베이스의 이해 - ITWorld Korea](https://www.itworld.co.kr/news/228914)
 
 # Altibase
 * [Altibase](https://github.com/ALTIBASE/altibase)
@@ -915,6 +916,7 @@ SQL
 * [Slow Query 문제](https://bumbum.oopy.io/c459acf8-6ed8-43d0-9c14-655d3988b437)
 * [The Internals of PostgreSQL : Introduction](https://www.interdb.jp/pg/)
 * [How Postgres Stores Rows - Ketan Singh](https://ketansingh.me/posts/how-postgres-stores-rows/)
+* [How we optimized PostgreSQL queries 100x | by Vadim Markovtsev | Mar, 2022 | Towards Data Science](https://towardsdatascience.com/how-we-optimized-postgresql-queries-100x-ff52555eabe)
 * [blog.md](https://gist.github.com/jcoleman/1e6ad1bf8de454c166da94b67537758b)
   * Transactional DDL, Locking, Table Operations, Column Operations, Index Operations, Constraints, Enum Types, Bonus: Library for Ruby on Rails
 * EdgeDB
@@ -964,6 +966,7 @@ SQL
 * [pg_graphql - PostgreSQL용 GraphQL 확장 | GeekNews](https://news.hada.io/topic?id=5493)
 * [pgmemcache is a set of PostgreSQL user-defined functions that provide an interface to memcached](https://github.com/ohmu/pgmemcache/)
 * [pg-migrator - PostgreSQL Migration Tool](https://github.com/aphel-bilisim-hizmetleri/pg-migrator)
+* [pg-osc: Zero downtime schema changes in PostgreSQL](https://www.shayon.dev/post/2022/47/pg-osc-zero-downtime-schema-changes-in-postgresql/)
 * [pg-shortkey: YouTube-like Short IDs as Postgres Primary Keys](https://github.com/turbo/pg-shortkey)
 * [pgsql: Support GROUPING SETS, CUBE and ROLLUP](http://www.postgresql.org/message-id/E1YtRD5-0005Q7-SM@gemulon.postgresql.org)
 * [pgsql: Create an infrastructure for parallel computation in PostgreSQL](http://www.postgresql.org/message-id/E1Ynu2T-0005iK-Gf@gemulon.postgresql.org)
@@ -1124,6 +1127,8 @@ SQL
 * [SQLime - SQLite Playground](https://sqlime.org/)
   * [SQLime - 온라인 SQLite Playground | GeekNews](https://news.hada.io/topic?id=5153)
 * [sqlitestudio.pl](http://sqlitestudio.pl/)
+* [SQL OnLine IDE](https://sqliteonline.com/)
+* [ws4sqlite: Query sqlite via http](https://github.com/proofrock/ws4sqlite)
 
 ## SQLite Python
 * [SQLServer JDBC의 이상한 동작](http://www.popit.kr/sqlserver-jdbc%EC%9D%98-%EC%9D%B4%EC%83%81%ED%95%9C-%EB%8F%99%EC%9E%91/)
