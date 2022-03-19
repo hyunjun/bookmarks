@@ -93,6 +93,7 @@
 * [Create a CLI tool with .Net6. Probably you know the new windows… | by Bernardo Teixeira | Geek Culture | Jan, 2022 | Medium](https://medium.com/geekculture/create-a-cli-tool-with-net6-94c03ad3e474)
 * [.NET 6 전환기 (.NET Conf 2022 x Seoul Replay) - YouTube](https://www.youtube.com/watch?v=SByPYYtGWvo)
 * [Integration Test with Docker and .Net6 | by Bernardo Teixeira | Geek Culture | Jan, 2022 | Medium](https://medium.com/geekculture/integration-test-with-docker-and-net6-564cb4922cfd)
+* [6 .NET Myths Dispelled — Celebrating 21 Years of .NET | by Charles Chen | Jan, 2022 | Dev Genius](https://blog.devgenius.io/6-net-myths-dispelled-celebrating-21-years-of-net-652795c2ea27)
 
 # ASP.NET
 * [ASP.NET Core: Saturating 10GbE at 7+ million request/s](https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/)
