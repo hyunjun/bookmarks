@@ -701,6 +701,7 @@ Vision
 * [Advanced OpenGL Tutorial – Skeletal Animations with Assimp - YouTube](https://www.youtube.com/watch?v=GZQkwx10p-8)
 * [docs.GL - OpenGL API Documentation](http://docs.gl/)
 * [PortableGL: An implementation of OpenGL 3.x-ish in clean C](https://github.com/rswinkle/PortableGL)
+* [tinyrenderer Wiki](https://github.com/ssloy/tinyrenderer/wiki)
 
 # Python
 * [Face Recognition | Image Processing in Python | Machine Learning](https://www.youtube.com/watch?v=Rz3SIHyCWzY)
