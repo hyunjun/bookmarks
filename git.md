@@ -316,6 +316,8 @@ Git
 * [Part – IX: Push to ACR using GitHub Actions (Continuous Deployment) – Hello World!](https://learnai1.home.blog/2022/02/28/part-ix-push-to-acr-using-github-actions/)
 * [GitHub Actions by Example](https://www.actionsbyexample.com/)
   * [GitHub Actions by Example | GeekNews](https://news.hada.io/topic?id=5829)
+* [shot-scraper-template - 웹 페이지 스크린샷을 저장하는 GitHub Re | GeekNews](https://news.hada.io/topic?id=6178)
+  * [Instantly create a GitHub repository to take screenshots of a web page](https://simonwillison.net/2022/Mar/14/shot-scraper-template/)
 
 # Badge Readme Profile
 * [README.md 10초만에 깔끔하게 만드는 법](https://gomcine.tistory.com/entry/READMEmd-10%EC%B4%88%EB%A7%8C%EC%97%90-%EA%B9%94%EB%81%94%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94-%EB%B2%95?category=624615)
