@@ -896,6 +896,7 @@ Programming
   * [ChaosBlade - An Open-Source Chaos Engineering Tool by Alibaba - Alibaba Cloud Community](https://www.alibabacloud.com/blog/chaosblade---an-open-source-chaos-engineering-tool-by-alibaba_594850) 카오스 엔지니어링 시나리오를 생성하고 쉽게 사용
   * [litmus: Litmus helps SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q ](https://github.com/litmuschaos/litmus)
     * [LitmusChaos Becomes a CNCF Incubator Project – The New Stack](https://thenewstack.io/litmuschaos-becomes-a-cncf-incubator-project/)
+* [What is Chaos Engineering and How Do You Apply it to Docker - YouTube](https://www.youtube.com/watch?v=tYP65Fgq4LE)
 * [트래픽 폭증에도 안정을 유지한 카카오톡](https://brunch.co.kr/@kakao-it/170)
 * [Phoenix (피닉스) 서버 패턴](http://bcho.tistory.com/1224)
 * [VM 이미지 생성을 위한 오픈소스 Packer](http://bcho.tistory.com/1225)
