@@ -8,7 +8,7 @@ C#
 * [Designing a State Machine without conditionals](http://jjcorrea.github.io/2015/05/05/designing-a-state-machine-without-conditionals/)
 * [Powerset Construction in C#](http://bezensek.com/blog/2015/04/30/powerset-construction/)
 * [오픈소스를 활용한 C# 서버 만들기](http://www.slideshare.net/ssuser3d4c05/c-48248251)
-* [자바_웹_개발자를_위한_c#_핵심_기능](http://www.slideshare.net/junseokjung1/c-48742963)
+* [자바 웹 개발자를 위한 c# 핵심 기능](http://www.slideshare.net/junseokjung1/c-48742963)
 * [When everything you know is wrong, part two](http://ericlippert.com/2015/05/21/when-everything-you-know-is-wrong-part-two/)
 * [Exceptional results: error handling with C# and Rust](https://ruudvanasseldonk.com/2015/06/17/exceptional-results-error-handling-in-csharp-and-rust)
 * [C++개발자의 C#개발 이야기](http://www.synczone.net/Detail.aspx?NewsNo=2de25da02e6046f2b4530fd695e300ce)
