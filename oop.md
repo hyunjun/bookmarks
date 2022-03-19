@@ -297,6 +297,7 @@
 
 # Python
 * [Python: Design Patterns](https://www.linkedin.com/learning/python-design-patterns)
+* [Python Design Patterns](https://python-patterns.guide/)
 * [Python’s objects and classes — a visual guide](http://blog.lerner.co.il/pythons-objects-and-classes-a-visual-guide/)
 * [OOP Part 1. 객체 지향 프로그래밍(OOP)은 무엇인가? 왜 사용하는가?](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-oop-part-1-%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8Doop%EC%9D%80-%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80-%EC%99%9C-%EC%82%AC%EC%9A%A9%ED%95%98%EB%8A%94%EA%B0%80/)
 * [OOP Part 2. 클래스와 인스턴스(Class and Instance)](http://schoolofweb.net/blog/posts/%ED%8C%8C%EC%9D%B4%EC%8D%AC-oop-part-2-%ED%81%B4%EB%9E%98%EC%8A%A4%EC%99%80-%EC%9D%B8%EC%8A%A4%ED%84%B4%EC%8A%A4class-and-instance/)
