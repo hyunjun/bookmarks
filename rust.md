@@ -148,6 +148,7 @@
 * [Anatomy of a Terminal Emulator :: poor.dev](https://poor.dev/blog/terminal-anatomy/)
 * [My VSCode setup: Rust-analyzer for local+remote work - YouTube](https://www.youtube.com/watch?v=PtvSBsPbfB8)
 * [Rust wgpu Graphics Programming Tutorial - YouTube](https://www.youtube.com/playlist?list=PL_UrKDEhALdJS0VrLPn7dqC5A4W1vCAUT)
+* [Microsoft Exploring Rust as the Solution for Safe Software](https://www.infoq.com/news/2019/11/microsoft-exploring-rust-safety/)
 
 # API
 * [How 'String' works in Rust?](https://medium.com/mathscapes/how-string-works-in-rust-c36ea49201c8)
@@ -197,6 +198,8 @@
 * [BulletinBoard DHT - A general-purpose DHT](https://github.com/manuels/bulletinboard-dht)
 * [Cicada - a simple Unix shell written in Rust](https://github.com/mitnk/cicada)
 * [conrod - An easy-to-use, immediate-mode, 2D GUI library written entirely in Rust](https://github.com/PistonDevelopers/conrod)
+* [cxx: Safe interop between Rust and C++](https://github.com/dtolnay/cxx)
+  * [Rust ❤️ C++](https://cxx.rs/)
 * [deuterium-orm - Fully typed SQL query builder for Rust](https://github.com/deuterium-orm/deuterium)
 * [difftastic: a syntax-aware diff](https://github.com/wilfred/difftastic)
 * [Drifting in Space](https://driftingin.space/)
@@ -221,6 +224,7 @@
 * [Metal IO library for Rust](https://github.com/carllerche/mio)
 * [Nannou - a library that aims to make it easy for artists to express themselves with simple, fast, reliable code](https://nannou.cc/)
 * [navi: An interactive cheatsheet tool for the command-line and application launchers](https://github.com/denisidoro/navi)
+* [Neothesia: Flashy Synthesia Like Software For Linux,Windows and MacOs](https://github.com/PolyMeilex/Neothesia)
 * [Nom, a byte oriented, streaming, zero copy, parser combinators library in Rust](http://spw15.langsec.org/papers/couprie-nom.pdf)
 * [NoteCalc - A handy note taking app with built in calculator](https://bbodi.github.io/notecalc3/)
   * [notecalc3: NoteCalc is a handy calculator trying to bring the advantages of Soulver to the web](https://github.com/bbodi/notecalc3)
