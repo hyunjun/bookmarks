@@ -278,6 +278,7 @@ AWS
   * AWS CloudFormation을 사용할 때 서드파티의 리소스나 모듈을 가져다 쓸 수 있는 공개 레지스트리
   * 현재 35개의 확장 프로그램이 있고 MongoDB, DataDo, JFrong, Snyk 등이 포함, CloudFormation이나 CDK에서 확장을 바로 이용해서 프로비저닝 가능
 * [Managing schema evolution in the serverless stack | by GOD.dev | GOD.dev Blog | Nov, 2021 | Medium](https://medium.com/god-dev-blog/managing-schema-evolution-in-the-serverless-stack-9ae6095b04ed) cloudformation
+* [A very quick introduction to the pain of AWS CloudFormation - Blog | luminousmen](https://luminousmen.com/post/a-very-quick-introduction-to-the-pain-of-aws-cloudformation)
 * [How to Use AWS Textract to Extract Text from Scanned Documents in S3 Buckets](https://hackernoon.com/how-to-use-aws-textract-to-extract-text-from-scanned-documents-in-s3-buckets-5f85e8ba0a37)
 * [AWS 자격증 시험 - 클라우드 종사자(Cloud Practitioner) 후기](https://yongho1037.tistory.com/783)
 * [AWS 솔루션 아키텍트 어소시에이트 자격증 취득 후기 AWS 공인 자격증 준비와 합격자 혜택](https://www.44bits.io/ko/post/aws-certification-solutions-architect-associate)
@@ -799,6 +800,7 @@ AWS
 * [초보자를 위한 EKS 맛 보기](https://devocean.sk.com/blog/techBoardDetail.do?ID=163578)
 * [EKS Anywhere on vSphere Homelab - ddiiwoong Tech Blog](https://ddii.dev/kubernetes/eks-anywhere/)
 * [AWS EKS의 Ingress(ALB)의 Target Type에 따른 동작](https://zigispace.net/1174)
+* [EKS Cluster Upgrade with terraform](https://wonderwal1.notion.site/EKS-Cluster-Upgrade-with-terraform-dfe2281e6e97446cb4c45f7cad2e5a42)
 * [aws-node-termination-handler: Gracefully handle EC2 instance shutdown within Kubernetes](https://github.com/aws/aws-node-termination-handler)
   * [aws-node-termination-handler를 활용해서 EKS 워커 노드에 스팟 인스턴스 적용하기](https://alden-kang.tistory.com/31)
     * EKS에서 비용 절약을 위해 스팟 인스턴스를 고려하면서 스팟 인스턴스가 종료될 때 팟을 재배치해서 문제가 발생하지 않도록 aws-node-termination-handler를 도입한 과정 설명
