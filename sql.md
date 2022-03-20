@@ -613,6 +613,7 @@ SQL
 * [DB를 이용한 분산 락 구현(MariaDB, MySQL)](https://javacan.tistory.com/entry/distributed-lock-using-db)
 * [꿀벌개발일지 :: lock=none, algorithm=inplace 으로 테이블 변경하기](https://ohgyun.com/800)
 * [락(Lock)너는 무엇을 잠그는 녀석이니?](https://blog.naver.com/pjt3591oo/222479605880)
+* [MySQL Gap Lock 다시보기. 우리가 일반적으로 알고 있는 데이터베이스 서버의 잠금(Lock)은… | by 당근마켓 | 당근마켓 팀블로그 | Mar, 2022 | Medium](https://medium.com/daangn/mysql-gap-lock-%EB%8B%A4%EC%8B%9C%EB%B3%B4%EA%B8%B0-7f47ea3f68bc)
 * [MySQL 데이터베이스 한번에 끝내기 SQL Full Tutorial Course using MySQL Database](https://www.youtube.com/watch?v=vgIc4ctNFbc)
 * [MySQL InnoDB의 메모리 캐시 서버로 변신! | STAR::DATABASE](https://stardba.net/chan/mysql-innodb-as-cache-server-monitoring/)
   * [**MySQL InnoDB의 메모리 캐시 서버로 변신! – 설정편 –**](https://gywn.net/2019/09/mysql-innodb-as-cache-server-config/)
