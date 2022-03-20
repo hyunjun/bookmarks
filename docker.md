@@ -766,6 +766,7 @@ Docker
 * [Buildpacks vs Dockerfiles](https://technology.doximity.com/articles/buildpacks-vs-dockerfiles)
 * [Golang Docker 멀티 스테이지 빌드로 한 큐에 이미지 만들기](https://lynlab.co.kr/blog/89)
 * [Go 프로젝트 Docker 이미지 크기 99.2% 줄이기 (부제: 이미지 크기 12921% 떡상 시키기)](https://code-yeongyu.tistory.com/36)
+* [멀티 스테이지 빌드를 이용하여 이미지 경량화](https://blog.naver.com/pjt3591oo/222677773099)
 * [Docker/Container Tutorial: Write your first Dockerfile - YouTube](https://www.youtube.com/watch?v=V7eSfIxSEEE)
 * [Creating the Perfect Python Dockerfile | by Luis Sena | May, 2021 | Medium](https://luis-sena.medium.com/creating-the-perfect-python-dockerfile-51bdec41f1c8)
 * [Docker For .NET Developers - .NET Guide](https://www.jetbrains.com/dotnet/guide/tutorials/docker-dotnet/)
