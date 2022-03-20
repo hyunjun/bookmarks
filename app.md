@@ -1237,8 +1237,6 @@ App
   * diskutil [꿀벌개발일지 :: 홈어시스턴스 이미지 생성 시 오류](https://ohgyun.com/810)
   * sed [Mac OS X에서 Multi Tab(\t\t) 정리하기](https://jojoldu.tistory.com/542)
 * [Mac에서 개발 환경 (IntelliJ 기반) 꾸미기](https://jojoldu.tistory.com/556)
-* [macOS에서 한글 파일/디렉터리 잘 다루기 – rein's world](https://rein.kr/blog/archives/5378)
-* [gluebyte — 맥에서 깨진 한글 파일명 복구하기](https://gluebyte.tumblr.com/post/132268284865)
 * [Alacritty - Announcing Alacritty, a GPU-accelerated terminal emulator](https://jwilm.io/blog/announcing-alacritty/)
 * [AppHub - Update React Native apps, instantly](https://apphub.io/)
 * brew
@@ -1344,6 +1342,10 @@ App
 
 ## Mac OS X
 * `sudo nvram StartupMute=%0[0|1]` [Bring back your Mac’s startup chime with this simple terminal command](https://9to5mac.com/2020/02/21/bring-back-mac-startup-chime-command/)
+* 한글
+  * [macOS에서 한글 파일/디렉터리 잘 다루기 – rein's world](https://rein.kr/blog/archives/5378)
+  * [gluebyte — 맥에서 깨진 한글 파일명 복구하기](https://gluebyte.tumblr.com/post/132268284865)
+  * [mac-filename-kr: 한글 자모가 분리된 파일 이름 수정 도구](https://github.com/hyunbinseo/mac-filename-kr)
 * troubleshooting
   * [구입한 지 얼마 되지 않은 레티나 맥북프로가 배터리로 2~3시간 밖에 안 간다면?](http://macnews.tistory.com/79)
   * [iMac 21.5-inch, Late 2009 HDD 교체](https://hyeonseok.com/soojung/hardware/2019/04/20/851.html)
