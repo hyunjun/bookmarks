@@ -1063,6 +1063,7 @@ Business
 * [OKR의 한계점](https://www.facebook.com/whyhyo/posts/10158762505748391)
 * [John Doerr's speech about OKRs (Korean translation) | LinkedIn](https://www.linkedin.com/pulse/korean-translation-john-doerrs-speech-okrs-edward-jee/)
 * [OKR에 성공하려면 팀원들의 마음을 얻어야 한다! : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33123511&memberNo=38695667) CFR Conversation Feedback Recognition
+* [DBR/Management Solution ‘스스로 목표 설정’ OKR, 구글 키운 핵심 비결](https://www.donga.com/news/Economy/article/all/20220301/112103470/1)
 
 # Patent
 * 세기의 특허전쟁
