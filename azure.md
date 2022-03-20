@@ -120,6 +120,7 @@ Azure
 * [Cloud Data Engineering - Easy , Lucrative & Sustainable | LinkedIn](https://www.linkedin.com/pulse/cloud-data-engineering-easy-lucrative-sustainable-deepak-rajak/)
 * [애저듣보잡 Azure Sphere - 윤기석 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9Wkv_uIdbKSXZaUCZG6BuBbhx)
 * [애저듣보잡 AKS 활용법 101 - 박인혜 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WkuMBsjmzk5E7GOG8DIh49Ur)
+* AKS [Azure Kubernetes Service - Version Upgrade(서비스 영향 최소화하기) - 기록으로 남겨보자](https://ysyu.kr/2022/02/how-to-upgrade-azure-kubernetes-service-with-minimal-service-impact/)
 * [Az-900 Azure Fundamentals | Week 5/6 | 애저 자격증 준비 - YouTube](https://www.youtube.com/watch?v=ewDuJSpEh5A)
 * [Build and Deploy Spring Boot with Mongo DB App on Azure | Secure DB secrets with key vaults - YouTube](https://www.youtube.com/watch?v=hQV0uZDWHQI)
 * [Hashicorp Vault Azure Secrets Engine - Secure Your Azure Resources | TeKanAid](https://tekanaid.com/posts/hashicorp-vault-azure-secrets-engine-secure-your-azure-resources)
