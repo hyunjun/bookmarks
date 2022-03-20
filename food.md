@@ -134,6 +134,7 @@ Food
 * [ESC 휴가 내고 가는 ‘와인 성지’…인기 이유가 있네! : ESC : 특화섹션 : 뉴스 : 한겨레](https://www.hani.co.kr/arti/specialsection/esc_section/996840.html) 춘천세계주류마켓
 * [와인업계의 넷플릭스, 비비노(Vivino) - 쉽고 재미있는 IT뉴스, 아웃스탠딩!](https://outstanding.kr/winevivino20210917)
 * [내추럴 와인을 즐기기 전에 알아야 할 것들 | ㅍㅍㅅㅅ](https://ppss.kr/archives/250349)
+* [와인 애호가들이 툭 까놓고 알려주는 데일리 와인 30 | 지큐 코리아 (GQ Korea)](https://www.gqkorea.co.kr/2021/11/08/%EC%99%80%EC%9D%B8-%EC%95%A0%ED%98%B8%EA%B0%80%EB%93%A4%EC%9D%B4-%ED%88%AD-%EA%B9%8C%EB%86%93%EA%B3%A0-%EC%95%8C%EB%A0%A4%EC%A3%BC%EB%8A%94-%EB%8D%B0%EC%9D%BC%EB%A6%AC-%EC%99%80%EC%9D%B8-30/)
 
 # Bread
 * [스팀으로 되살린 식감 ‘진화한 토스터’](http://techholic.co.kr/archives/34238)
