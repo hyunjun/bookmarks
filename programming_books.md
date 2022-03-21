@@ -400,6 +400,7 @@ Programming Books
   * [번역할 뻔 했던 Patterns of Enterprise Application Architecture - 뒤태지존의 끄적거림](https://homoefficio.github.io/2015/10/16/%EB%B2%88%EC%97%AD%ED%95%A0-%EB%BB%94-%ED%96%88%EB%8D%98-Patterns-of-Enterprise-Application-Architecture/)
 * (NOT YET) [프로그래밍 패턴: 프로그램을 작성하는 33가지 방법 | 위키북스](https://wikibook.co.kr/programming-patterns/)
 * (NOT YET) [유연한 소프트웨어를 만드는 설계 원칙](https://hanbit.co.kr/store/books/look.php?p_code=B3855421165)
+  * [(번역서) 유연한 소프트웨어를 만드는 설계 원칙 :: 류광의 번역 이야기](https://occamsrazr.net/book/SoftwareDesignForFlexibility)
 * (NOT YET) [25개 애플리케이션으로 배우는 오픈 소스 소프트웨어 아키텍처 _ 도서출판 인사이트](http://ebook.insightbook.co.kr/book/32)
 
 # C
@@ -438,7 +439,7 @@ Programming Books
   * [C++ 최적화 : 최고 성능을 구현하는 10가지 검증된 기법](https://jh4hj.tistory.com/entry/C-%EC%B5%9C%EC%A0%81%ED%99%94-%EC%B5%9C%EA%B3%A0-%EC%84%B1%EB%8A%A5%EC%9D%84-%EA%B5%AC%ED%98%84%ED%95%98%EB%8A%94-10%EA%B0%80%EC%A7%80-%EA%B2%80%EC%A6%9D%EB%90%9C-%EA%B8%B0%EB%B2%95)
 * (NOT YET) [고성능을 위한 언어 C++ - 이론과 C++17, 메모리 관리, 동시성, STL 알고리즘 모범 사례](http://acornpub.co.kr/book/c-high-performance)
 * (NOT YET) [C++20: 풍부한 예제로 익히는 핵심 기능 – 도서출판 인사이트](https://blog.insightbook.co.kr/2022/01/10/c20-%ED%92%8D%EB%B6%80%ED%95%9C-%EC%98%88%EC%A0%9C%EB%A1%9C-%EC%9D%B5%ED%9E%88%EB%8A%94-%ED%95%B5%EC%8B%AC-%EA%B8%B0%EB%8A%A5/)
-  * [번역서 "C++20: 풍부한 예제로 익히는 핵심 기능" 나왔습니다. :: 류광의 번역 이야기](https://occamsrazr.net/tt/379)
+  * [(번역서) C++20: 풍부한 예제로 익히는 핵심 기능 :: 류광의 번역 이야기](https://occamsrazr.net/book/Cpp20GetTheDetails)
 
 # C#
 
