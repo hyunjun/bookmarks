@@ -1043,6 +1043,7 @@ Javascript
 * [자바스크립트의 비동기 프로그래밍 - 정윤호 · Present](https://present.do/presentations/6145f2ace3562505806fb6ef)
 * [javascript 에서 async 와 await를 이용해 비동기 처리하기](https://devkingdom.tistory.com/336)
 * [Javascript async / await Tip](https://coolengineer.com/entry/Javascript-async-await-Tip)
+* [Asynchronous Primitives in JS | Promises and Async/Await | PureScript Abstractions | Fibers - YouTube](https://www.youtube.com/watch?v=SLHcfmZ6m14)
 * asyngular [Getting started with Asyngular](https://hackernoon.com/getting-started-with-asyngular-bbe3dd1c716c)
 * fetch
   * [Ajax, fetch](https://velog.io/@ksh4820/Ajax-fetch)
@@ -1949,6 +1950,8 @@ Javascript
 * [svidget - A JavaScript framework for building cool data visualization widgets in SVG](https://github.com/joeax/svidget)
 * [swagger-api-library](https://github.com/satansdeer/swagger-api-library)
 * [swc - Super fast javascript / typescript compiler](https://swc.rs/)
+  * [swc: Rust-based platform for the Web](https://github.com/swc-project/swc)
+  * [오픈소스 - Math && Programming](https://kdy1.github.io/post/2022/03/oss/)
 * [SweetAlert](https://sweetalert.js.org/)
 * [SweetAlert2 - a beautiful, responsive, customizable and accessible (WAI-ARIA) replacement for JavaScript's popup boxes](https://sweetalert2.github.io/)
 * [TableSorter.js 로 Sorting 개발하기](https://brunch.co.kr/@ourlove/76)
