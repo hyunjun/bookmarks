@@ -645,6 +645,7 @@ Business
 * [말의 힘](https://www.thestartupbible.com/2022/03/power-of-speech.html)
 * [How To Do Less](https://alexturek.com/2022-03-07-How-to-do-less/) 거절하기
 * [5 Tips For Asking Smart Questions At Work | by Kanika Modi | Mar, 2022 | Medium](https://iamkanikamodi.medium.com/5-tips-for-asking-smart-questions-at-work-2ffc59d9a891) 좋은 질문하기
+* [이메일 수업](https://www.thestartupbible.com/2022/03/we-might-have-to-teach-email-communication-101-class-in-schools.html) 이메일의 장점 + 쓰기 커뮤니케이션의 중요성
 
 ## Conversation, Communication Feedback
 * [무엇을 피드백할 것인가?](https://brunch.co.kr/@younghakjang/26)
