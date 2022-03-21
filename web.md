@@ -1290,6 +1290,7 @@ Web
 * [How Prime Video updates its app for more than 8,000 device types - Amazon Science](https://www.amazon.science/blog/how-prime-video-updates-its-app-for-more-than-8-000-device-types)
   * [아마존 프라임 비디오, WebAssembly 사용하여 8000개의 디바이스 타입 지원 | GeekNews](https://news.hada.io/topic?id=5858)
 * [WASI: a New Kind of System Interface](https://www.infoq.com/presentations/wasi-system-interface/)
+  * [WASI: a New Kind of System Interface - YouTube](https://www.youtube.com/watch?v=zFfwvEFvz-g)
 * [WebAssembly Techniques to Speed Up Matrix Multiplication by 120x](https://jott.live/markdown/mm_wasm)
 * [Pay attention to WebAssembly | Harshal Sheth](https://harshal.sheth.io/2022/01/31/webassembly.html)
   * WebAssembly에 주목해야 하는 이유 정리
