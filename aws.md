@@ -27,6 +27,7 @@ AWS
 * [Day Two with the Amazon API Gateway](https://blog.hiramsoftware.com/blog/day-two-aws-api-gateway/index.html)
 * [Building an API with Amazon’s API Gateway](https://hackingandslacking.com/building-an-api-with-amazons-api-gateway-9204d9dec5c7)
 * [API Gateway로 웹소켓 서버 만들기 - 이상선 - Medium](https://medium.com/@sunyi233/api-gateway%EB%A1%9C-%EC%9B%B9%EC%86%8C%EC%BC%93-%EC%84%9C%EB%B2%84-%EB%A7%8C%EB%93%A4%EA%B8%B0-d0a1a8df06ee)
+* [AWS API Gateway의 Authorizer. AWS의 API Gateway를 보면 authorizer를 설정할 수… | by 이상선 | Feb, 2022 | Medium](https://medium.com/@sunyi233/aws-api-gateway%EC%9D%98-authorizer-ef90429d33db)
 * [Data Science for Startups: Model Services](https://towardsdatascience.com/data-science-for-startups-model-services-2facf2dde81d)
 * [AWS(Amazon Web Services)에서 Ubuntu 5분만에 시작하기](http://blog.saltfactory.net/aws/create-instance-on-aws.html)
 * [Redis on AWS](http://www.slideshare.net/charsyam2/redis-on-aws)
