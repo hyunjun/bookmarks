@@ -541,7 +541,8 @@ Book
 * (NOT YET) [제텔카스텐 - 글 쓰는 인간을 위한 두 번째 뇌](https://danny610.tistory.com/289)
   * 한라 802-아294ㅈ 탐라 L문802-아233ㅈ
   * [제 2의 뇌 만들기 프로젝트 매거진](https://brunch.co.kr/magazine/basb)
-* (NOT YET) 하우 투 제텔카스텐: 옵시디언 기반 두 번째 뇌 만들기
+* [하우 투 제텔카스텐: 옵시디언 기반 두 번째 뇌 만들기](https://post.naver.com/viewer/postView.naver?volumeNo=33147702)
+  * ★★★☆☆ 2022.03.21 아직은 잘 모르겠음. 읽기는 좋고 확실히 쓸모도 있어 보이는데 아직 어떻게 해야 유용할지는 바로 와닿지는 않음
   * [하우 투 제텔카스텐 - YouTube](https://www.youtube.com/watch?v=iTJZuw8Wu8k)
 
 # Philosophy
