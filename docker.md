@@ -39,6 +39,7 @@ Docker
 * [Docker가 뭐고 왜 쓰는건가요?](https://www.youtube.com/watch?v=tPjpcsgxgWc)
 * [4분코딩 왜 도커(Docker)를 사용해야 할까요? - YouTube](https://www.youtube.com/watch?v=3FcFL2C3ME8)
 * [이론과 실습을 통해 이해하는 Docker 기초](https://hudi.blog/about-docker/)
+* ['Docker' 카테고리의 글 목록](https://ba-reum.tistory.com/category/Docker)
 * [Infra 도커(docker)(0) 도커의 개념, 컨테이너? - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker00/)
 * [Infra 도커(docker)(1) 설치, hello world - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker01/)
 * [Infra 도커(docker)(2) 컨테이너 조작 기초(pull, run, ps) - 로스카츠의 AI 머신러닝](https://losskatsu.github.io/it-infra/docker02/)
@@ -766,6 +767,7 @@ Docker
 * [Buildpacks vs Dockerfiles](https://technology.doximity.com/articles/buildpacks-vs-dockerfiles)
 * [Golang Docker 멀티 스테이지 빌드로 한 큐에 이미지 만들기](https://lynlab.co.kr/blog/89)
 * [Go 프로젝트 Docker 이미지 크기 99.2% 줄이기 (부제: 이미지 크기 12921% 떡상 시키기)](https://code-yeongyu.tistory.com/36)
+* [멀티 스테이지 빌드를 이용하여 이미지 경량화](https://blog.naver.com/pjt3591oo/222677773099)
 * [Docker/Container Tutorial: Write your first Dockerfile - YouTube](https://www.youtube.com/watch?v=V7eSfIxSEEE)
 * [Creating the Perfect Python Dockerfile | by Luis Sena | May, 2021 | Medium](https://luis-sena.medium.com/creating-the-perfect-python-dockerfile-51bdec41f1c8)
 * [Docker For .NET Developers - .NET Guide](https://www.jetbrains.com/dotnet/guide/tutorials/docker-dotnet/)
@@ -1145,6 +1147,7 @@ Docker
   * 네트워크 부하를 더 크게 한 결과에서도 eBPF(Cilium, Calico 둘 다)가 좋은 성능
 * [Calico?Weave? CNI에 관하여](https://ykarma1996.tistory.com/179)
 * [CNI (Container Network Interface) ?](https://uni2u.tistory.com/127)
+* [Amazon VPC CNI 플러그인으로 노드당 파드수 제한 늘리기](https://trans.yonghochoi.com/translations/aws_vpc_cni_increase_pods_per_node_limits.ko)
 * [11 Ways (Not) to Get Hacked | Kubernetes](https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/)
 * [쿠버네티스 Admission Control #1 | 커피고래의 노트](https://coffeewhale.com/kubernetes/admission-control/2021/04/28/opa1/)
 * [쿠버네티스 Admission Control #2 - Open Policy Agent | 커피고래의 노트](https://coffeewhale.com/kubernetes/admission-control/2021/05/04/opa2/)
@@ -1207,6 +1210,7 @@ Docker
   * Slack에서 Kubernetes의 Admission Webhook을 만드는 과정 설명
   * 처음 Admission Webhook를 알았을 때는 사용해 볼 일이 없다고 생각했지만 만들게 되면서 Kubebuilder나 Operator SDK 등의 복잡한 프레임워크는 필요 없다고 판단하여 간단한 Go 웹서버를 만들어서 Admission Webhook에서 팟의 이름을 검증하고 Mutating 단계에서 환경을 주입하는 등의 간단한 동작을 하는 Admission Webhook을 설명하고 소스 코드도 공개
 * [What happens when you upgrade to Kubernetes v1.24? | jimangel.io](https://jimangel.io/post/dockershim-kubernetes-v1.24/) Docker-shim 제외. 2022 2Q 예정
+* [k8s 1.24에서 docker 지원 중단에 따른 container 런타임(docker, containerd, cri-o) 전환 방법](https://velog.io/@whereisdw/kubernetes-k8s-1.24%EC%97%90%EC%84%9C-container-%EB%9F%B0%ED%83%80%EC%9E%84-%EB%B3%80%EA%B2%BD-%EB%B0%A9%EB%B2%95)
 * [주니어의 쿠버네티스 생태계에서 살아남기 - YouTube](https://www.youtube.com/watch?v=fvWHLrMjdmI)
   * [주니어의 쿠버네티스 생태계에서 살아남기](https://www.slideshare.net/InfraEngineer/ss-250837857)
 * [VritualBox host-only Network(MAC,Linux).pdf](https://github.com/sysnet4admin/_Book_k8sInfra/blob/main/docs/%EC%8B%A4%EC%8A%B5%20%EC%9D%B4%EC%8A%88%231%20-%20VritualBox%20host-only%20Network(MAC%2CLinux).pdf)
@@ -1251,6 +1255,8 @@ Docker
 * [Kubernetes Video Highlights from HashiTalks 2022](https://www.hashicorp.com/blog/kubernetes-video-highlights-from-hashitalks-2022)
 * [5 Key Elements for a Great Developer Experience with Kubernetes](https://loft.sh/blog/5-key-elements-for-a-great-developer-experience-with-kubernetes)
 * [The future of Kubernetes – and why developers should look beyond Kubernetes in 2022](https://www.eficode.com/blog/the-future-of-kubernetes-and-why-developers-should-look-beyond-kubernetes-in-2022)
+* ['현재공부/컨테이너 네트워크' 카테고리의 글 목록](https://malwareanalysis.tistory.com/category/%ED%98%84%EC%9E%AC%EA%B3%B5%EB%B6%80/%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC)
+* [시리즈 | KANS 스터디 - hyungwook.log](https://velog.io/@hyungwook/series/KANS-%EC%8A%A4%ED%84%B0%EB%94%94)
 
 ## Kubernetes Library
 * [쿠버네티스를 더 쉽게 쓸 수 있는 툴 12가지](http://www.itworld.co.kr/news/152112)
@@ -1270,9 +1276,9 @@ Docker
   * Sealed Secrets: Git에 민감한 정보 저장
 * [Useful Interactive Terminal and Graphical UI Tools for Kubernetes](https://williamlam.com/2020/04/useful-interactive-terminal-and-graphical-ui-tools-for-kubernetes.html)
   * Octant Lens Kubevious kubelive K9s
-* [Top Open Source CI/CD Tools for Kubernetes to Know](https://cloud.redhat.com/blog/top-open-source-ci/cd-tools-for-kubernetes-to-know)
-* [Antrea Joins CNCF Sandbox](https://blogs.vmware.com/opensource/2021/05/05/antrea-joins-cncf-sandbox/) CNI(Container Network Interface)와 Kubernetes NetworkPolicy를 pod 수준에서 구현한 VMWare의 프로젝트
 * [Top Open Source CI/CD Tools for Kubernetes to Know](https://cloud.redhat.com/blog/top-open-source-ci/cd-tools-for-kubernetes-to-know) Tekton, Argo, GitHub Actions, Jenkins X, OpenShift Pipelines, Spinnaker, Circle CI, GitLab
+* [Antrea Joins CNCF Sandbox](https://blogs.vmware.com/opensource/2021/05/05/antrea-joins-cncf-sandbox/) CNI(Container Network Interface)와 Kubernetes NetworkPolicy를 pod 수준에서 구현한 VMWare의 프로젝트
+* [ejpark78/kans: KANS 1기 최종 과제](https://github.com/ejpark78/kans)
 * [argo - Get stuff done with Kubernetes Open source Kubernetes native workflows, events, CI and CD](https://argoproj.github.io/)
   * [컨테이너 기반의 워크플로우 솔루션 argo](http://bcho.tistory.com/1299)
   * [Intezer - New Attacks on Kubernetes via Misconfigured Argo Workflows](https://www.intezer.com/blog/container-security/new-attacks-on-kubernetes-via-misconfigured-argo-workflows/)
@@ -1289,10 +1295,15 @@ Docker
     * [How to implement GitOps with ArgoCD to deploy Helm Charts on Kubernetes | Level Up Coding](https://levelup.gitconnected.com/gitops-ci-cd-using-github-actions-and-argocd-on-kubernetes-909d85d37746)
   * Argo workflow [쿠버네티스 Argo workflow 소개 | 커피고래의 노트](https://coffeewhale.com/kubernetes/workflow/argo/2020/02/14/argo-wf/)
 * [aws-controllers-k8s](https://github.com/aws-controllers-k8s)
+* Calico
+  * [Container Network Interface (CNI)](https://awx.notion.site/Container-Network-Interface-CNI-42a4460c70be4fd49bcd038cfd09cd41)
+  * [Calico Metric , Monitoring 구축해보기](https://blog.naver.com/justlive82/222639952264)
+  * [What is Tailscale? - ddiiwoong Tech Blog](https://ddii.dev/kubernetes/what-is-tailscale/#)
 * [Cilium - Linux Native, API-Aware Networking and Security for Containers](https://cilium.io/)
   * [Kubernetes Network & Cilium](https://www.notion.so/Kubernetes-Network-Cilium-1d4371f562ea4acdb5e679e376a7c992)
   * [Network Policy Editor for Kubernetes](https://editor.cilium.io/)
   * [Detecting a Container Escape with Cilium and eBPF](https://isovalent.com/blog/post/2021-11-container-escape)
+* [Citrix ADC with k8s](https://profuse-paper-676.notion.site/Citrix-ADC-with-k8s-e57b6056f1334c9094f444d1c183f378)
 * [cloudflow - Streaming Data Pipelines on Kubernetes](https://cloudflow.io/)
   * [Scale By The Bay 2020: Nolan Grace, Cloudflow: Spark, Flink, and Akka Working together on Kubernetes - YouTube](https://www.youtube.com/watch?v=XOBb7bLS3Q8)
   * [How to build streaming data pipelines with Akka Streams, Flink, and Spark using Cloudflow - YouTube](https://www.youtube.com/watch?v=MaXCx0fy0xU)
@@ -1318,6 +1329,7 @@ Docker
   * [MITRE ATT&CK Framework, Falco Container Security | Sysdig](https://sysdig.com/blog/mitre-attck-framework-for-container-runtime-security-with-sysdig-falco/)
   * [Falco is the First Runtime Security Project to be Accepted into CNCF Incubator](https://www.infoq.com/news/2020/01/falco-security-cncf/)
   * [Runtime Security Project Falco Adds Extensible Plugin Framework](https://www.infoq.com/news/2022/02/falco-plugins/)
+* [Flannel](https://sw-cho.github.io/study/#/flannel) k8s를 위해서 L3 network 를 구축해주는 간단한 CNI plugin
 * [Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. (Project under CNCF)](https://github.com/fluid-cloudnative/fluid) 분산 데이터 세트 오케스트레이터/엑셀러레이터
 * [gateway-api: Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs](https://github.com/kubernetes-sigs/gateway-api)
 * [Helm - The package manager for Kubernetes](https://helm.sh/)
@@ -1410,6 +1422,8 @@ Docker
     * Kubeflow Pipeline을 배포할 때 매번 빌드를 하고 업로드를 하는 작업을 하게 되는데, 이 과정을 Terraform처럼 `krsh apply` 명령을 cli에서 보내면 자동으로 파이프라인의 형상을 관리할 수 있게 작성
     * Infrastructure as Code (IaC)의 철학을 머신러닝 파이프라인에도 적용
     * [Kubeflow와 KRSH로 개발하는 ML Pipeline 맛보기. 김완수 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=RU_jVmh5O40)
+* [kubekey: Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳](https://github.com/kubesphere/kubekey)
+  * [Quickly Install a Kubernetes Cluster with KubeKey – The New Stack](https://thenewstack.io/quickly-install-a-kubernetes-cluster-with-kubekey)
 * kubelet API [Attacking Kubernetes clusters using the Kubelet API | by Eduardo Baitello | FAUN](https://faun.pub/attacking-kubernetes-clusters-using-the-kubelet-api-abafc36126ca)
 * kube-proxy
   * [76. kubernetes NodePort Networking 분석 (kube-proxy : IPVS mode)](https://ikcoo.tistory.com/166)
@@ -1461,6 +1475,7 @@ Docker
 * [network-node-manager: network-node-manager is a kubernetes controller that controls the network configuration of a node to resolve network issues of kubernetes](https://github.com/kakao/network-node-manager)
   * [Kubernetes의 네트워크 이슈를 해결할 수 있는 network-node-manager – tech.kakao.com](https://tech.kakao.com/2021/03/03/network-node-manager/)
 * [node-feature-discovery: Node feature discovery for Kubernetes](https://github.com/kubernetes-sigs/node-feature-discovery)
+* [OKD 개요](https://velog.io/@_gyullbb/OKD-%EA%B0%9C%EC%9A%94)
 * [Okteto - The Kubernetes development platform](https://okteto.com/) cloud?
 * [OpenEBS - Kubernetes storage simplified](https://openebs.io/)
   * [Default Kyverno Policies for OpenEBS. - DEV Community](https://dev.to/niveditacoder/default-kyverno-policies-for-openebs-4abf)
@@ -1506,6 +1521,7 @@ Docker
   * [쿠버네티스용 Continuous Deployment 툴인 Skaffold](https://bcho.tistory.com/1342)
   * [쿠버네티스를 위한 CD 툴, Skaffold #2](https://bcho.tistory.com/1343)
   * [Skaffold 에서 Kubernetes context 변경](https://bcho.tistory.com/1352)
+* [sniff - kubectl 환경 패킷 캡쳐 유틸리디 :: 60살까지 엔지니어를 목표로 느리게 생각합니다](https://jerryljh.tistory.com/58)
 * [Space Cloud: Instant Realtime APIs for Serverless Apps](https://space-cloud.io/)
   * [Space Cloud - k8s 기반 서버리스 플랫폼 | GeekNews](https://news.hada.io/topic?id=4447)
 * [Submariner k8s project documentation website](https://submariner.io/) 다중 Kubernetes 클러스터 연결, 서비스 디스커버리 제공

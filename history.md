@@ -212,10 +212,10 @@ History
 * [애국자 안창호와 친일파 윤치호, 애국가 작사가는 누구? - 오마이뉴스](http://www.ohmynews.com/NWS_Web/Series/series_premium_pg.aspx?CNTN_CD=A0002766248&SRS_CD=0000012199)
 * [서울 한복판에 식민 통치 핵심기구가 눌러 앉은 사연 서울 근대건축 톺아보기](https://news.v.daum.net/v/20220116113001656)
 * [유학생들의 출세주의와 과학기술 1세대의 지연 < 과학 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=748)
+* [과학적 계몽주의자 '이광수의 친일' < 과학 < 칼럼/에세이 < 기사본문 - 더칼럼니스트](https://www.thecolumnist.kr/news/articleView.html?idxno=839)
 
 ## 조선
 * [blog.naver.com/alsn76](http://blog.naver.com/alsn76)
-* [book; 이순신의 끝나지 않은 전쟁](http://jh4hj.tistory.com/entry/%EC%9D%B4%EC%88%9C%EC%8B%A0%EC%9D%98-%EB%81%9D%EB%82%98%EC%A7%80-%EC%95%8A%EC%9D%80-%EC%A0%84%EC%9F%81)
 * [판옥선으로 세키부네를 들이받기, 불가능한 이유](http://ppss.kr/archives/33245)
 * [이순신 '분실 유물' 6종 중 하나, 박물관서 찾았다](http://www.huffingtonpost.kr/2015/04/05/story_n_7008254.html)
 * [이순신 장군이 칼 대신 활을 든 이유](http://1boon.kakao.com/slownews/48854)

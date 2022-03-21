@@ -249,6 +249,7 @@ Business
 * [**실리콘밸리 탑 클래스와 함께 일해보며**](https://brunch.co.kr/@iamzenon/26) 효율적인 회의
 * [회의 참석자의 7가지 유형](https://brunch.co.kr/@hyungsukkim/112)
 * [왜 우리는 생산성을 죽이는 회의를 하고 있을까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/250094)
+* [비대면발 '번아웃' 덮친 IT업계 "하루 회의만 10번"..2년새 '언택트 미팅' 250% 급증](https://news.v.daum.net/v/Enuf2bnB5l) 주의하자!
 * [일잘러는 이런 사람 빅데이터로 알아보는 성공하는 직원의 비밀 | 인터비즈](https://blog.naver.com/businessinsight/221572920446)
 * [컨퍼런스콜 문화](https://estimastory.com/2016/01/24/conferencecall/)
 * [미국의 콜 문화](https://sungmooncho.com/2018/07/03/conference-call-culture/)
@@ -1063,6 +1064,7 @@ Business
 * [OKR의 한계점](https://www.facebook.com/whyhyo/posts/10158762505748391)
 * [John Doerr's speech about OKRs (Korean translation) | LinkedIn](https://www.linkedin.com/pulse/korean-translation-john-doerrs-speech-okrs-edward-jee/)
 * [OKR에 성공하려면 팀원들의 마음을 얻어야 한다! : 네이버 포스트](https://post.naver.com/viewer/postView.naver?volumeNo=33123511&memberNo=38695667) CFR Conversation Feedback Recognition
+* [DBR/Management Solution ‘스스로 목표 설정’ OKR, 구글 키운 핵심 비결](https://www.donga.com/news/Economy/article/all/20220301/112103470/1)
 
 # Patent
 * 세기의 특허전쟁
@@ -1248,6 +1250,7 @@ Business
   * `사람을 위주로 서비스를 제공하는 비즈니스가 스케일이 생기면, 항상 이런 문제가 발생한다. 소프트웨어는 스케일해도 동일한 품질을 유지할 수 있지만, 사람은 그게 안 되기 때문이다.`
     * 내가 요즘 항상 이야기하고 고민하는 부분
 * 스타트업 조직문화 [와, 이러고도 회사가 굴러가요? | 원티드](https://www.wanted.co.kr/events/22_03_s05_b01)
+* [Ep.28 입사/이직할 스타트업을 고르는 방법 - 취업편 - YouTube](https://www.youtube.com/watch?v=euxI9vljXw8)
 
 # Sillicon Valley
 * [실리콘밸리 소개 문화에 젖어들기](http://www.venturesquare.net/579377)

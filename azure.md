@@ -120,6 +120,7 @@ Azure
 * [Cloud Data Engineering - Easy , Lucrative & Sustainable | LinkedIn](https://www.linkedin.com/pulse/cloud-data-engineering-easy-lucrative-sustainable-deepak-rajak/)
 * [애저듣보잡 Azure Sphere - 윤기석 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9Wkv_uIdbKSXZaUCZG6BuBbhx)
 * [애저듣보잡 AKS 활용법 101 - 박인혜 - YouTube](https://www.youtube.com/playlist?list=PLDZRZwFT9WkuMBsjmzk5E7GOG8DIh49Ur)
+* AKS [Azure Kubernetes Service - Version Upgrade(서비스 영향 최소화하기) - 기록으로 남겨보자](https://ysyu.kr/2022/02/how-to-upgrade-azure-kubernetes-service-with-minimal-service-impact/)
 * [Az-900 Azure Fundamentals | Week 5/6 | 애저 자격증 준비 - YouTube](https://www.youtube.com/watch?v=ewDuJSpEh5A)
 * [Build and Deploy Spring Boot with Mongo DB App on Azure | Secure DB secrets with key vaults - YouTube](https://www.youtube.com/watch?v=hQV0uZDWHQI)
 * [Hashicorp Vault Azure Secrets Engine - Secure Your Azure Resources | TeKanAid](https://tekanaid.com/posts/hashicorp-vault-azure-secrets-engine-secure-your-azure-resources)
@@ -155,6 +156,7 @@ Azure
 * [Troy Hunt: How I Got Pwned by My Cloud Costs](https://www.troyhunt.com/how-i-got-pwned-by-my-cloud-costs/)
 * [엉터리 절약 안 하려면... 알아야 할 MS ‘애저’ 비용 관리법 - CIO Korea](https://www.ciokorea.com/news/224379)
 * [Azure Data Factory as an ETL Tool and its Use Cases | by Swapnil Kant | Mar, 2022 | Medium](https://swapnilkant11.medium.com/azure-data-factory-as-an-etl-tool-and-its-use-cases-f36a7a421cee)
+* [Azure Network Manager - Part 1](https://theplmingspace.tistory.com/1177)
 
 # Conference Meetup Seminar
 * [MVP Watch Party - 2021.6.4 후기 정리(최신 MS AI 기술 동영상, 요약편)](https://blog.naver.com/dodream7/222386345467)

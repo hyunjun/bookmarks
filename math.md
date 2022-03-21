@@ -119,6 +119,9 @@ Math
 * [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
 * [Mathematics for Machine Learning](https://mml-book.github.io/)
   * [mml-book.github.io](https://github.com/mml-book/mml-book.github.io)
+* [Math for Programmers](https://www.manning.com/books/math-for-programmers)
+  * [Math-for-Programmers: Source code for the book, Math for Programmers](https://github.com/orlandpm/Math-for-Programmers)
+  * [What are Fractals and How to Create Them with Python - YouTube](https://www.youtube.com/watch?v=83JIgswVaGo)
 * [openstax.org/subjects/math](https://openstax.org/subjects/math)
 
 # Calculus
