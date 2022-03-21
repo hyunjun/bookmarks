@@ -937,6 +937,7 @@
 * [Pandas API on Apache Spark - Part 2: Hello World](http://blog.madhukaraphatak.com/spark-pandas-part-2/)
 * [Simplifying Testing of Spark Applications - Megan Yow | PyData Global 2021 - YouTube](https://www.youtube.com/watch?v=_ieqg_soB3U)
 * [Pyspark Functions - YouTube](https://www.youtube.com/playlist?list=PLgPb8HXOGtsQwAghLQWviaisvzgWN_Ix9)
+* [How to Convert Pandas DataFrame to Spark DataFrame | Using PySpark - YouTube](https://www.youtube.com/watch?v=TG0-yPJPTXU)
 * [Koalas: pandas API on Apache Spark](https://github.com/databricks/koalas)
   * [Koalas: Easy Transition from pandas to Apache Spark](https://databricks.com/blog/2019/04/24/koalas-easy-transition-from-pandas-to-apache-spark.html)
   * [10 Minutes from pandas to Koalas on Apache Spark With demonstrable Python how-to Koalas code snippets and Koalas best practices](https://databricks.com/blog/2020/03/31/10-minutes-from-pandas-to-koalas-on-apache-spark.html)
