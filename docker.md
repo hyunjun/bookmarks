@@ -1386,6 +1386,7 @@ Docker
   * [Knative Cookbook | Red Hat Developer](https://developers.redhat.com/books/knative-cookbook)
 * [Kogito ergo automate - CLOUD-NATIVE BUSINESS AUTOMATION FOR BUILDING INTELLIGENT APPLICATIONS, BACKED BY BATTLE-TESTED CAPABILITIES](https://kogito.kie.org)
 * [Krustlet - a Kubelet written in Rust](https://krustlet.dev/)
+* [KServe: A Robust and Extensible Cloud Native Model Server – The New Stack](https://thenewstack.io/kserve-a-robust-and-extensible-cloud-native-model-server)
 * ksonnet
   * [쿠버네티스 리소스 배포와 관리를 위한 ksonnet](http://bcho.tistory.com/1302)
 * [kube-bench - k8s](https://sysnet4admin.gitbook.io/k8s/security/cluster/kube-bench)
