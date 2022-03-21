@@ -393,4 +393,5 @@
 * [Snake Game With Rust, JavaScript, and WebAssembly](https://medium.com/@geekrodion/snake-game-with-rust-javascript-and-webassembly-5e22b357ec7b)
 * [Snake Game With Rust, JavaScript, and WebAssembly | Part 2](https://medium.com/swlh/snake-game-with-rust-javascript-and-webassembly-part-2-9d729b87c186)
 * [Rust를 WebAssembly로 컴파일하기](https://open-support.tistory.com/entry/Rust%EB%A5%BC-WebAssembly%EB%A1%9C-%EC%BB%B4%ED%8C%8C%EC%9D%BC%ED%95%98%EA%B8%B0)
+* [Engineering Mastermind #7: Building Reactive Webapps w/i Rust & WebAssembly - YouTube](https://www.youtube.com/watch?v=pXRyhNDl8zU)
 * [Pont - A multiplayer board game in Rust and WebAssembly](http://www.mattkeeter.com/projects/pont/)
