@@ -208,6 +208,7 @@ Android
 * [Pluu Dev - AppComapt ~ TextViewCompoundDrawablesXmlDetector](http://pluu.github.io/blog/android/2021/01/18/appcompattextview/)
 * [안드로이드 앱 프로그래밍 #2 - TextView를 다루어 봅시다. - YouTube](https://www.youtube.com/watch?v=kse65cWLwrU)
 * [안드로이드 앱 프로그래밍 #3 - 버튼, 람다, 컨스트레인트 레이아웃 - YouTube](https://www.youtube.com/watch?v=COaf6EObcYw)
+* [TextView에서 다음줄에 들여쓰기 적용하기 | 헤이딜러 기술블로그 | by Ted Park | PRND | Mar, 2022 | Medium](https://medium.com/prnd/textview%EC%97%90%EC%84%9C-%EB%8B%A4%EC%9D%8C%EC%A4%84%EC%97%90-%EB%93%A4%EC%97%AC%EC%93%B0%EA%B8%B0-%EC%A0%81%EC%9A%A9%ED%95%98%EA%B8%B0-%ED%97%A4%EC%9D%B4%EB%94%9C%EB%9F%AC-%EA%B8%B0%EC%88%A0%EB%B8%94%EB%A1%9C%EA%B7%B8-ce8c7fad648b)
 * [Pluu Dev - 간단하게 Navigation 생성 및 흐름 살펴보기](http://pluu.github.io/blog/android/2021/01/23/navigation-start/)
 * [Pluu Dev - Android 호환성 유지에 대한 고찰 ~ 언어편](http://pluu.github.io/blog/android/2021/01/27/compatibility-language/)
 * [Pluu Dev - Android 호환성 유지에 대한 고찰 ~ SDK/라이브러리](http://pluu.github.io/blog/android/2021/02/27/compatibility-sdk-library/)
