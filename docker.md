@@ -1422,6 +1422,8 @@ Docker
     * Kubeflow Pipeline을 배포할 때 매번 빌드를 하고 업로드를 하는 작업을 하게 되는데, 이 과정을 Terraform처럼 `krsh apply` 명령을 cli에서 보내면 자동으로 파이프라인의 형상을 관리할 수 있게 작성
     * Infrastructure as Code (IaC)의 철학을 머신러닝 파이프라인에도 적용
     * [Kubeflow와 KRSH로 개발하는 ML Pipeline 맛보기. 김완수 - PyCon Korea 2021 - YouTube](https://www.youtube.com/watch?v=RU_jVmh5O40)
+* [kubekey: Install Kubernetes/K3s only, both Kubernetes/K3s and KubeSphere, and related cloud-native add-ons, it supports all-in-one, multi-node, and HA 🔥 ⎈ 🐳](https://github.com/kubesphere/kubekey)
+  * [Quickly Install a Kubernetes Cluster with KubeKey – The New Stack](https://thenewstack.io/quickly-install-a-kubernetes-cluster-with-kubekey)
 * kubelet API [Attacking Kubernetes clusters using the Kubelet API | by Eduardo Baitello | FAUN](https://faun.pub/attacking-kubernetes-clusters-using-the-kubelet-api-abafc36126ca)
 * kube-proxy
   * [76. kubernetes NodePort Networking 분석 (kube-proxy : IPVS mode)](https://ikcoo.tistory.com/166)
