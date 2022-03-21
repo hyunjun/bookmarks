@@ -282,6 +282,7 @@ Algorithm
 * [아주 큰 정수의 곱셈은 어떻게 하면 좋을까요? feat. by 카라츠바 알고리즘 - YouTube](https://www.youtube.com/watch?v=7JvRFnxn3W0)
 * [GJK: Collision detection algorithm in 2D/3D](https://blog.winter.dev/2020/gjk-algorithm/)
 * [Algorithms for Modern Hardware - Algorithmica](https://en.algorithmica.org/hpc/)
+* [How a Smart Algorithm Can beat a Great Hardware? - CodeCrucks](https://codecrucks.com/how-a-smart-algorithm-can-bit-a-great-hardware)
 
 # Anagram
 * [The Deceptive Anagram Question](http://nafiulis.me/the-deceptive-anagram-question.html)
