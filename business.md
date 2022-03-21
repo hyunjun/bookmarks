@@ -249,6 +249,7 @@ Business
 * [**실리콘밸리 탑 클래스와 함께 일해보며**](https://brunch.co.kr/@iamzenon/26) 효율적인 회의
 * [회의 참석자의 7가지 유형](https://brunch.co.kr/@hyungsukkim/112)
 * [왜 우리는 생산성을 죽이는 회의를 하고 있을까? | ㅍㅍㅅㅅ](https://ppss.kr/archives/250094)
+* [비대면발 '번아웃' 덮친 IT업계 "하루 회의만 10번"..2년새 '언택트 미팅' 250% 급증](https://news.v.daum.net/v/Enuf2bnB5l) 주의하자!
 * [일잘러는 이런 사람 빅데이터로 알아보는 성공하는 직원의 비밀 | 인터비즈](https://blog.naver.com/businessinsight/221572920446)
 * [컨퍼런스콜 문화](https://estimastory.com/2016/01/24/conferencecall/)
 * [미국의 콜 문화](https://sungmooncho.com/2018/07/03/conference-call-culture/)
